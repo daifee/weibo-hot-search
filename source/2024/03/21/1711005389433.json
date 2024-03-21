@@ -1,0 +1,410 @@
+{
+  "runTime": 1711005389433,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1724578,
+        "num": 1724578,
+        "word": "刘维做手术",
+        "onboard_time": 1711003170,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1395724,
+        "num": 1395724,
+        "word": "乱写简历被录取了是种什么体验",
+        "onboard_time": 1710999094,
+        "rank": 1,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 8249,
+        "num": 1036624,
+        "word": "认识你真好",
+        "onboard_time": 1710834813,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 765801,
+        "num": 765801,
+        "word": "记者卧底鲜芋仙曝光后厨乱象",
+        "onboard_time": 1710998793,
+        "rank": 3,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 596461,
+        "num": 596461,
+        "word": "小杨哥鞠躬致歉梅菜扣肉事件",
+        "onboard_time": 1710996936,
+        "rank": 4,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 541797,
+        "num": 541797,
+        "word": "小米发布会",
+        "onboard_time": 1711001491,
+        "rank": 5,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 486295,
+        "num": 486295,
+        "word": "张凌赫三年了终于把古装脱了",
+        "onboard_time": 1710996338,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 484834,
+        "num": 484834,
+        "word": "凤凰传奇演唱会取消",
+        "onboard_time": 1710994356,
+        "rank": 7,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 351694,
+        "num": 483488,
+        "word": "四六级报名",
+        "onboard_time": 1711002272,
+        "rank": 8,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 266742,
+        "num": 482302,
+        "word": "谈恋爱花的钱分手后要对方还吗",
+        "onboard_time": 1710996819,
+        "rank": 9,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 512813,
+        "num": 480635,
+        "word": "科学家成功清除已感染的艾滋病毒",
+        "onboard_time": 1711002874,
+        "rank": 10,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 489180,
+        "num": 480225,
+        "word": "做了一年半的阿姨发短信来内涵",
+        "onboard_time": 1711002390,
+        "rank": 11,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 478922,
+        "num": 478922,
+        "word": "我爸把养了六年的猫扔了",
+        "onboard_time": 1710989012,
+        "rank": 12,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 440296,
+        "num": 440296,
+        "word": "郑恩彩金忠宰恋情",
+        "onboard_time": 1711003773,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 434783,
+        "num": 434783,
+        "word": "吴彦祖去看贾玲了",
+        "onboard_time": 1710992734,
+        "rank": 14,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 357249,
+        "num": 357249,
+        "word": "贵妇化妆品集体打5折是卖不动了吗",
+        "onboard_time": 1711003114,
+        "rank": 15,
+        "category": "美妆,社会新闻"
+      },
+      {
+        "raw_hot": 306407,
+        "num": 306407,
+        "word": "为什么古人吃鹿肉现代人却不吃",
+        "onboard_time": 1711003051,
+        "rank": 16,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 305902,
+        "num": 305902,
+        "word": "玲花回应演唱会取消",
+        "onboard_time": 1710998193,
+        "rank": 17,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 296245,
+        "num": 296245,
+        "word": "短剧导演称疑似李沁黑白照系AI合成",
+        "onboard_time": 1710995316,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 180048,
+        "num": 289474,
+        "word": "柳州螺蛳粉协会秘书长谈增臭剂",
+        "onboard_time": 1711002030,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 286112,
+        "num": 286112,
+        "word": "12岁男孩每晚10点睡觉全班最矮",
+        "onboard_time": 1711002330,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 51819,
+        "num": 254675,
+        "word": "全职太太做淘宝红人收入破亿",
+        "onboard_time": 1711003829,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 252793,
+        "num": 252793,
+        "word": "大学生胸部以下突然没知觉被同学送医",
+        "onboard_time": 1710986073,
+        "rank": 22,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 248442,
+        "num": 248442,
+        "word": "茶百道口令",
+        "onboard_time": 1711005335,
+        "rank": 23,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 239777,
+        "num": 239777,
+        "word": "李想发全员信自我批评",
+        "onboard_time": 1711004311,
+        "rank": 24,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 227233,
+        "num": 227233,
+        "word": "陈都灵央视镜头",
+        "onboard_time": 1711001194,
+        "rank": 25,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 223446,
+        "num": 223446,
+        "word": "屁帘",
+        "onboard_time": 1710999214,
+        "rank": 26,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 212270,
+        "num": 212270,
+        "word": "张艺兴坦克身份遭粉丝拆台",
+        "onboard_time": 1711000289,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 209647,
+        "num": 209647,
+        "word": "上海一超市老板听劝式爆改",
+        "onboard_time": 1711004012,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 171280,
+        "num": 207039,
+        "word": "公共卫生间为什么不能明确写明男女",
+        "onboard_time": 1710994292,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 194218,
+        "num": 206909,
+        "word": "丞磊甩披风变周也",
+        "onboard_time": 1711004075,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 206900,
+        "num": 206900,
+        "word": "一身衣服不超过一百块丢人吗",
+        "onboard_time": 1711002091,
+        "rank": 31,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 199989,
+        "num": 199989,
+        "word": "上班第一天分了块菜地",
+        "onboard_time": 1711003952,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 193847,
+        "num": 193847,
+        "word": "李想内部信",
+        "onboard_time": 1711004311,
+        "rank": 33,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 185528,
+        "num": 185528,
+        "word": "身边真的有好多人在重启人生啊",
+        "onboard_time": 1710990510,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 173582,
+        "num": 173582,
+        "word": "山东小钺钺被刺伤嫌疑人已被逮捕",
+        "onboard_time": 1710999812,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 167018,
+        "num": 167018,
+        "word": "因为什么原因被明星拉黑过",
+        "onboard_time": 1711004132,
+        "rank": 36,
+        "category": "情感,艺人"
+      },
+      {
+        "raw_hot": 161228,
+        "num": 161228,
+        "word": "吴彦祖晒与贾玲自拍",
+        "onboard_time": 1711003952,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 160729,
+        "num": 160729,
+        "word": "用一个月工资改造了出租房",
+        "onboard_time": 1710998433,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 152162,
+        "num": 152162,
+        "word": "郑合惠子 反内耗的神",
+        "onboard_time": 1711000532,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 150193,
+        "num": 150193,
+        "word": "凤凰传奇演唱会 足球赛",
+        "onboard_time": 1711005096,
+        "rank": 40,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 143808,
+        "num": 143808,
+        "word": "珠帘玉幕 磨皮",
+        "onboard_time": 1710991294,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 140378,
+        "num": 140378,
+        "word": "电视剧小日子扫楼",
+        "onboard_time": 1711003829,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 139834,
+        "num": 139834,
+        "word": "费翔胡子刮了",
+        "onboard_time": 1710993153,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 139162,
+        "num": 139162,
+        "word": "陈赫郑恺重聚综艺",
+        "onboard_time": 1711002811,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 128044,
+        "num": 128044,
+        "word": "为啥午饭后容易犯困",
+        "onboard_time": 1711004975,
+        "rank": 45,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 125880,
+        "num": 125880,
+        "word": "睡眠是情绪的解药",
+        "onboard_time": 1711004793,
+        "rank": 46,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 124724,
+        "num": 124724,
+        "word": "垃圾睡眠",
+        "onboard_time": 1711003773,
+        "rank": 47,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 118773,
+        "num": 118773,
+        "word": "金价",
+        "onboard_time": 1710991113,
+        "rank": 48,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 116364,
+        "num": 116364,
+        "word": "王者荣耀",
+        "onboard_time": 1711002573,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#新时代推动中部地区崛起座谈会#"
+    }
+  }
+}

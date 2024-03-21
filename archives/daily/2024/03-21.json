@@ -1,6 +1,6 @@
 {
   "startTime": 1710951777162,
-  "endTime": 1711003038048,
+  "endTime": 1711005389433,
   "band_list": [
     {
       "raw_hot": 3011106,
@@ -41,6 +41,14 @@
       "onboard_time": 1710999094,
       "rank": 30,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 1724578,
+      "num": 1724578,
+      "word": "刘维做手术",
+      "onboard_time": 1711003170,
+      "rank": 0,
+      "category": "艺人"
     },
     {
       "raw_hot": 1684541,
@@ -363,6 +371,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 541797,
+      "num": 541797,
+      "word": "小米发布会",
+      "onboard_time": 1711001491,
+      "rank": 22,
+      "category": "数码"
+    },
+    {
       "raw_hot": 539540,
       "num": 539540,
       "word": "提了离职后更焦虑了",
@@ -385,6 +401,14 @@
       "onboard_time": 1710957140,
       "rank": 19,
       "category": "美食"
+    },
+    {
+      "raw_hot": 512813,
+      "num": 480635,
+      "word": "科学家成功清除已感染的艾滋病毒",
+      "onboard_time": 1711002874,
+      "rank": 42,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 510453,
@@ -419,6 +443,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 489180,
+      "num": 480225,
+      "word": "做了一年半的阿姨发短信来内涵",
+      "onboard_time": 1711002390,
+      "rank": 31,
+      "category": "情感"
+    },
+    {
       "raw_hot": 479958,
       "num": 499115,
       "word": "女子怀孕7个月刚独自待5分钟就倒地",
@@ -435,14 +467,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 466296,
-      "num": 466296,
-      "word": "小米发布会",
-      "onboard_time": 1711001491,
-      "rank": 22,
-      "category": "数码"
-    },
-    {
       "raw_hot": 459004,
       "num": 459004,
       "word": "张凌赫徐若晗 现偶",
@@ -457,6 +481,14 @@
       "onboard_time": 1710994716,
       "rank": 22,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 440296,
+      "num": 440296,
+      "word": "郑恩彩金忠宰恋情",
+      "onboard_time": 1711003773,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 431383,
@@ -539,6 +571,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 357249,
+      "num": 357249,
+      "word": "贵妇化妆品集体打5折是卖不动了吗",
+      "onboard_time": 1711003114,
+      "rank": 15,
+      "category": "美妆,社会新闻"
+    },
+    {
       "raw_hot": 356805,
       "num": 356805,
       "word": "电影红楼梦秦可卿造型引争议",
@@ -561,6 +601,14 @@
       "onboard_time": 1710999812,
       "rank": 13,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 351694,
+      "num": 483488,
+      "word": "四六级报名",
+      "onboard_time": 1711002272,
+      "rank": 9,
+      "category": "教育"
     },
     {
       "raw_hot": 342679,
@@ -627,6 +675,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 306407,
+      "num": 306407,
+      "word": "为什么古人吃鹿肉现代人却不吃",
+      "onboard_time": 1711003051,
+      "rank": 16,
+      "category": "美食"
+    },
+    {
       "raw_hot": 301303,
       "num": 301303,
       "word": "腾讯8款游戏年收入超40亿",
@@ -667,6 +723,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 286112,
+      "num": 286112,
+      "word": "12岁男孩每晚10点睡觉全班最矮",
+      "onboard_time": 1711002330,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 285401,
       "num": 261149,
       "word": "京东洗衣回应衣物被烧将全额赔偿",
@@ -700,7 +764,7 @@
     },
     {
       "raw_hot": 278075,
-      "num": 467515,
+      "num": 482302,
       "word": "谈恋爱花的钱分手后要对方还吗",
       "onboard_time": 1710996819,
       "rank": 28,
@@ -779,6 +843,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 248442,
+      "num": 248442,
+      "word": "茶百道口令",
+      "onboard_time": 1711005335,
+      "rank": 23,
+      "category": "美食"
+    },
+    {
       "raw_hot": 247881,
       "num": 242294,
       "word": "自己烧水和买桶装水喝哪个更健康",
@@ -801,6 +873,14 @@
       "onboard_time": 1710993753,
       "rank": 33,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 239777,
+      "num": 239777,
+      "word": "李想发全员信自我批评",
+      "onboard_time": 1711004311,
+      "rank": 24,
+      "category": "汽车"
     },
     {
       "raw_hot": 231160,
@@ -931,6 +1011,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 209647,
+      "num": 209647,
+      "word": "上海一超市老板听劝式爆改",
+      "onboard_time": 1711004012,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 209193,
       "num": 209193,
       "word": "一旦接受了像保安的设定",
@@ -1019,6 +1107,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 199989,
+      "num": 199989,
+      "word": "上班第一天分了块菜地",
+      "onboard_time": 1711003952,
+      "rank": 32,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 197877,
       "num": 197877,
       "word": "一根黄瓜对猫的杀伤力有多大",
@@ -1035,6 +1131,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 194218,
+      "num": 206909,
+      "word": "丞磊甩披风变周也",
+      "onboard_time": 1711004075,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 194166,
       "num": 194166,
       "word": "追风者开播",
@@ -1049,6 +1153,14 @@
       "onboard_time": 1710987634,
       "rank": 42,
       "category": "美食"
+    },
+    {
+      "raw_hot": 193847,
+      "num": 193847,
+      "word": "李想内部信",
+      "onboard_time": 1711004311,
+      "rank": 33,
+      "category": "汽车"
     },
     {
       "raw_hot": 193692,
@@ -1131,12 +1243,12 @@
       "category": "财经"
     },
     {
-      "raw_hot": 179461,
-      "num": 466800,
-      "word": "四六级报名",
-      "onboard_time": 1711002272,
-      "rank": 9,
-      "category": "教育"
+      "raw_hot": 180048,
+      "num": 289474,
+      "word": "柳州螺蛳粉协会秘书长谈增臭剂",
+      "onboard_time": 1711002030,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 176510,
@@ -1161,14 +1273,6 @@
       "onboard_time": 1710997535,
       "rank": 38,
       "category": "演出"
-    },
-    {
-      "raw_hot": 172237,
-      "num": 172237,
-      "word": "做了一年半的阿姨发短信来内涵",
-      "onboard_time": 1711002390,
-      "rank": 31,
-      "category": "情感"
     },
     {
       "raw_hot": 172101,
@@ -1209,6 +1313,14 @@
       "onboard_time": 1711001911,
       "rank": 43,
       "category": "情感"
+    },
+    {
+      "raw_hot": 167018,
+      "num": 167018,
+      "word": "因为什么原因被明星拉黑过",
+      "onboard_time": 1711004132,
+      "rank": 36,
+      "category": "情感,艺人"
     },
     {
       "raw_hot": 166355,
@@ -1257,6 +1369,14 @@
       "onboard_time": 1710938376,
       "rank": 19,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 161228,
+      "num": 161228,
+      "word": "吴彦祖晒与贾玲自拍",
+      "onboard_time": 1711003952,
+      "rank": 37,
+      "category": "艺人"
     },
     {
       "raw_hot": 161144,
@@ -1321,6 +1441,14 @@
       "onboard_time": 1710986553,
       "rank": 46,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 150193,
+      "num": 150193,
+      "word": "凤凰传奇演唱会 足球赛",
+      "onboard_time": 1711005096,
+      "rank": 40,
+      "category": "演出"
     },
     {
       "raw_hot": 149361,
@@ -1395,12 +1523,12 @@
       "category": "运动健身"
     },
     {
-      "raw_hot": 142033,
-      "num": 179279,
-      "word": "12岁男孩每晚10点睡觉全班最矮",
-      "onboard_time": 1711002330,
-      "rank": 29,
-      "category": "社会新闻"
+      "raw_hot": 140378,
+      "num": 140378,
+      "word": "电视剧小日子扫楼",
+      "onboard_time": 1711003829,
+      "rank": 42,
+      "category": "剧集"
     },
     {
       "raw_hot": 140188,
@@ -1425,6 +1553,14 @@
       "onboard_time": 1711002573,
       "rank": 36,
       "category": "美食"
+    },
+    {
+      "raw_hot": 139162,
+      "num": 139162,
+      "word": "陈赫郑恺重聚综艺",
+      "onboard_time": 1711002811,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 138426,
@@ -1523,14 +1659,6 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 128935,
-      "num": 137120,
-      "word": "柳州螺蛳粉协会秘书长谈增臭剂",
-      "onboard_time": 1711002030,
-      "rank": 38,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 128630,
       "num": 128630,
       "word": "王者刘邦新皮肤",
@@ -1539,11 +1667,27 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 128044,
+      "num": 128044,
+      "word": "为啥午饭后容易犯困",
+      "onboard_time": 1711004975,
+      "rank": 45,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 126895,
       "num": 126895,
       "word": "失眠多梦可能是它造成的",
       "onboard_time": 1710989852,
       "rank": 47,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 125880,
+      "num": 125880,
+      "word": "睡眠是情绪的解药",
+      "onboard_time": 1711004793,
+      "rank": 46,
       "category": "健康医疗"
     },
     {
@@ -1555,28 +1699,20 @@
       "category": "演出"
     },
     {
+      "raw_hot": 124724,
+      "num": 124724,
+      "word": "垃圾睡眠",
+      "onboard_time": 1711003773,
+      "rank": 47,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 124346,
       "num": 124346,
       "word": "现货黄金价再创新高",
       "onboard_time": 1710982054,
       "rank": 46,
       "category": "财经"
-    },
-    {
-      "raw_hot": 123874,
-      "num": 123874,
-      "word": "科学家成功清除已感染的艾滋病毒",
-      "onboard_time": 1711002874,
-      "rank": 42,
-      "category": "健康医疗"
-    },
-    {
-      "raw_hot": 120791,
-      "num": 120791,
-      "word": "陈赫郑恺重聚综艺",
-      "onboard_time": 1711002811,
-      "rank": 46,
-      "category": "综艺"
     },
     {
       "raw_hot": 120549,
@@ -1923,6 +2059,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 51819,
+      "num": 254675,
+      "word": "全职太太做淘宝红人收入破亿",
+      "onboard_time": 1711003829,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 49593,
       "num": 406982,
       "word": "淘宝红人之夜 红人穿搭",
@@ -2007,6 +2151,9 @@
     },
     {
       "word": "#习近平主持召开新时代推动中部地区崛起座谈会#"
+    },
+    {
+      "word": "#新时代推动中部地区崛起座谈会#"
     }
   ]
 }
