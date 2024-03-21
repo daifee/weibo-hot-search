@@ -1,10 +1,10 @@
 {
   "startTime": 1710951777162,
-  "endTime": 1710983565860,
+  "endTime": 1710984729303,
   "band_list": [
     {
-      "raw_hot": 1635572,
-      "num": 1635572,
+      "raw_hot": 1640983,
+      "num": 1640983,
       "word": "千万不要等到胸部不舒服了再重视",
       "onboard_time": 1710980437,
       "rank": 0,
@@ -33,6 +33,14 @@
       "onboard_time": 1710966616,
       "rank": 48,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 862574,
+      "num": 862574,
+      "word": "螺蛳粉 增臭剂",
+      "onboard_time": 1710983253,
+      "rank": 26,
+      "category": "美食"
     },
     {
       "raw_hot": 809548,
@@ -75,6 +83,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 735358,
+      "num": 735358,
+      "word": "睡不着的时候试试3个不管不顾",
+      "onboard_time": 1710979170,
+      "rank": 5,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 701951,
+      "num": 443060,
+      "word": "被遗弃女婴公示寻找期满前找到亲生父母",
+      "onboard_time": 1710982111,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 692641,
       "num": 692641,
       "word": "素媛案罪犯赵斗淳又被判了",
@@ -83,12 +107,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 666240,
-      "num": 666240,
-      "word": "睡不着的时候试试3个不管不顾",
-      "onboard_time": 1710979170,
-      "rank": 5,
-      "category": "健康医疗"
+      "raw_hot": 665022,
+      "num": 665022,
+      "word": "古驰突然就卖不动了",
+      "onboard_time": 1710982592,
+      "rank": 20,
+      "category": "时尚"
     },
     {
       "raw_hot": 655834,
@@ -123,14 +147,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 567841,
-      "num": 191670,
-      "word": "被遗弃女婴公示寻找期满前找到亲生父母",
-      "onboard_time": 1710982111,
-      "rank": 29,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 548824,
       "num": 548824,
       "word": "胸部自检",
@@ -161,14 +177,6 @@
       "onboard_time": 1710978752,
       "rank": 11,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 486604,
-      "num": 241126,
-      "word": "古驰突然就卖不动了",
-      "onboard_time": 1710982592,
-      "rank": 20,
-      "category": "时尚"
     },
     {
       "raw_hot": 479958,
@@ -219,8 +227,16 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 356805,
+      "num": 356805,
+      "word": "电影红楼梦秦可卿造型引争议",
+      "onboard_time": 1710983734,
+      "rank": 15,
+      "category": "电影"
+    },
+    {
       "raw_hot": 355754,
-      "num": 233421,
+      "num": 286069,
       "word": "30多岁和20多岁生孩子有啥差别",
       "onboard_time": 1710977008,
       "rank": 20,
@@ -243,12 +259,28 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 305369,
+      "num": 305369,
+      "word": "陈乔恩 陈欣怡",
+      "onboard_time": 1710983852,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 301303,
       "num": 301303,
       "word": "腾讯8款游戏年收入超40亿",
       "onboard_time": 1710947855,
       "rank": 15,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 297366,
+      "num": 284172,
+      "word": "新款iPadPro被曝更窄边框OLED屏",
+      "onboard_time": 1710981336,
+      "rank": 22,
+      "category": "数码"
     },
     {
       "raw_hot": 285401,
@@ -265,14 +297,6 @@
       "onboard_time": 1710944617,
       "rank": 8,
       "category": "情感"
-    },
-    {
-      "raw_hot": 267603,
-      "num": 231590,
-      "word": "新款iPadPro被曝更窄边框OLED屏",
-      "onboard_time": 1710981336,
-      "rank": 22,
-      "category": "数码"
     },
     {
       "raw_hot": 262060,
@@ -300,11 +324,19 @@
     },
     {
       "raw_hot": 247881,
-      "num": 223778,
+      "num": 242294,
       "word": "自己烧水和买桶装水喝哪个更健康",
       "onboard_time": 1710976765,
       "rank": 31,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 236386,
+      "num": 236386,
+      "word": "檀健次郑合惠子 主持",
+      "onboard_time": 1710984332,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 229466,
@@ -315,12 +347,28 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 227308,
+      "num": 227308,
+      "word": "宋妍霏身材",
+      "onboard_time": 1710983553,
+      "rank": 48,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 227278,
       "num": 227278,
       "word": "美联储",
       "onboard_time": 1710976706,
       "rank": 38,
       "category": "财经,国外时政"
+    },
+    {
+      "raw_hot": 226546,
+      "num": 226546,
+      "word": "拥有老板思维的女生都在想什么",
+      "onboard_time": 1710982592,
+      "rank": 30,
+      "category": "情感"
     },
     {
       "raw_hot": 225033,
@@ -347,6 +395,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 219315,
+      "num": 219315,
+      "word": "夫宇淀粉肠",
+      "onboard_time": 1710984033,
+      "rank": 30,
+      "category": "美食"
+    },
+    {
       "raw_hot": 209853,
       "num": 157929,
       "word": "周杰伦方回应败诉",
@@ -361,14 +417,6 @@
       "onboard_time": 1710958638,
       "rank": 18,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 203603,
-      "num": 203603,
-      "word": "螺蛳粉 增臭剂",
-      "onboard_time": 1710983253,
-      "rank": 26,
-      "category": "美食"
     },
     {
       "raw_hot": 197877,
@@ -387,16 +435,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 189577,
-      "num": 189577,
-      "word": "拥有老板思维的女生都在想什么",
-      "onboard_time": 1710982592,
-      "rank": 30,
-      "category": "情感"
-    },
-    {
       "raw_hot": 185277,
-      "num": 185277,
+      "num": 219403,
       "word": "日本茨城南部发生5.3级地震",
       "onboard_time": 1710981695,
       "rank": 31,
@@ -443,6 +483,22 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 171624,
+      "num": 171624,
+      "word": "爸爸演坏人被围殴儿子冲进去保护",
+      "onboard_time": 1710983676,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 169786,
+      "num": 169786,
+      "word": "熊猫小时候也喜欢边玩边吃",
+      "onboard_time": 1710983189,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 164935,
       "num": 164935,
       "word": "00后才是最适合当老板的这批人",
@@ -475,6 +531,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 149008,
+      "num": 149008,
+      "word": "雷军",
+      "onboard_time": 1710984273,
+      "rank": 37,
+      "category": "数码"
+    },
+    {
       "raw_hot": 147887,
       "num": 133838,
       "word": "打工人开始尝试用刮刮乐打上班卡",
@@ -489,6 +553,14 @@
       "onboard_time": 1710976346,
       "rank": 29,
       "category": "情感"
+    },
+    {
+      "raw_hot": 146087,
+      "num": 146087,
+      "word": "这些电影看完真的后劲好大",
+      "onboard_time": 1710984388,
+      "rank": 38,
+      "category": "电影"
     },
     {
       "raw_hot": 143666,
@@ -507,6 +579,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 136194,
+      "num": 136194,
+      "word": "我国近7成青少年存在睡眠问题",
+      "onboard_time": 1710981934,
+      "rank": 44,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 135611,
       "num": 135611,
       "word": "林依晨 你",
@@ -515,28 +595,12 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 135296,
-      "num": 135296,
-      "word": "熊猫小时候也喜欢边玩边吃",
-      "onboard_time": 1710983189,
-      "rank": 43,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 130746,
       "num": 130746,
       "word": "杜海涛演戏",
       "onboard_time": 1710940835,
       "rank": 24,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 130544,
-      "num": 130544,
-      "word": "我国近7成青少年存在睡眠问题",
-      "onboard_time": 1710981934,
-      "rank": 44,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 130093,
@@ -603,6 +667,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 117810,
+      "num": 117810,
+      "word": "邻居都是人才",
+      "onboard_time": 1710984513,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 115750,
       "num": 115750,
       "word": "恶作剧之吻",
@@ -633,14 +705,6 @@
       "onboard_time": 1710934055,
       "rank": 34,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 106157,
-      "num": 106157,
-      "word": "宋妍霏身材",
-      "onboard_time": 1710983553,
-      "rank": 48,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 100748,
@@ -972,6 +1036,9 @@
     },
     {
       "word": "#在更高起点上扎实推动中部地区崛起#"
+    },
+    {
+      "word": "#习近平主持召开新时代推动中部地区崛起座谈会#"
     }
   ]
 }

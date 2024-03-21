@@ -1,0 +1,410 @@
+{
+  "runTime": 1710984729303,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1640983,
+        "num": 1640983,
+        "word": "千万不要等到胸部不舒服了再重视",
+        "onboard_time": 1710980437,
+        "rank": 0,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 946320,
+        "num": 946320,
+        "word": "不吃早饭比不吃晚饭危害更大吗",
+        "onboard_time": 1710966616,
+        "rank": 1,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 41115,
+        "num": 886424,
+        "word": "春好正是耕种时",
+        "onboard_time": 1710940054,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 862574,
+        "num": 862574,
+        "word": "螺蛳粉 增臭剂",
+        "onboard_time": 1710983253,
+        "rank": 3,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 735358,
+        "num": 735358,
+        "word": "睡不着的时候试试3个不管不顾",
+        "onboard_time": 1710979170,
+        "rank": 4,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 665022,
+        "num": 665022,
+        "word": "古驰突然就卖不动了",
+        "onboard_time": 1710982592,
+        "rank": 5,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 628737,
+        "num": 628737,
+        "word": "结婚邀请了大学室友",
+        "onboard_time": 1710977908,
+        "rank": 6,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 593730,
+        "num": 593730,
+        "word": "赵丽颖说拍大结局从早哭到晚",
+        "onboard_time": 1710978571,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 294098,
+        "num": 447819,
+        "word": "素媛案罪犯赵斗淳又被判了",
+        "onboard_time": 1710934180,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 265532,
+        "num": 443250,
+        "word": "女子怀孕7个月刚独自待5分钟就倒地",
+        "onboard_time": 1710939516,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 701951,
+        "num": 443060,
+        "word": "被遗弃女婴公示寻找期满前找到亲生父母",
+        "onboard_time": 1710982111,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 442596,
+        "num": 442596,
+        "word": "王一博完了完了完了",
+        "onboard_time": 1710978752,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 369969,
+        "num": 369969,
+        "word": "胸部自检",
+        "onboard_time": 1710975682,
+        "rank": 12,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 368726,
+        "num": 368726,
+        "word": "宫崎骏新作唯一互动是中国观众",
+        "onboard_time": 1710979054,
+        "rank": 13,
+        "category": "电影,动漫"
+      },
+      {
+        "raw_hot": 360383,
+        "num": 360383,
+        "word": "天水麻辣烫成都分烫火到闭店",
+        "onboard_time": 1710957140,
+        "rank": 14,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 356805,
+        "num": 356805,
+        "word": "电影红楼梦秦可卿造型引争议",
+        "onboard_time": 1710983734,
+        "rank": 15,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 344499,
+        "num": 344499,
+        "word": "文哲",
+        "onboard_time": 1710981814,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 305369,
+        "num": 305369,
+        "word": "陈乔恩 陈欣怡",
+        "onboard_time": 1710983852,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 304968,
+        "num": 304968,
+        "word": "每天睡多久才算睡够了",
+        "onboard_time": 1710977668,
+        "rank": 18,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 291953,
+        "num": 291953,
+        "word": "行云去世",
+        "onboard_time": 1710976948,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 330391,
+        "num": 286069,
+        "word": "30多岁和20多岁生孩子有啥差别",
+        "onboard_time": 1710977008,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 297366,
+        "num": 284172,
+        "word": "新款iPadPro被曝更窄边框OLED屏",
+        "onboard_time": 1710981336,
+        "rank": 21,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 279693,
+        "num": 279693,
+        "word": "东航致132人遇难事故调查进展发布",
+        "onboard_time": 1710930218,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 242294,
+        "num": 242294,
+        "word": "自己烧水和买桶装水喝哪个更健康",
+        "onboard_time": 1710976765,
+        "rank": 23,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 236386,
+        "num": 236386,
+        "word": "檀健次郑合惠子 主持",
+        "onboard_time": 1710984332,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 227308,
+        "num": 227308,
+        "word": "宋妍霏身材",
+        "onboard_time": 1710983553,
+        "rank": 25,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 226546,
+        "num": 226546,
+        "word": "拥有老板思维的女生都在想什么",
+        "onboard_time": 1710982592,
+        "rank": 26,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 220379,
+        "num": 220379,
+        "word": "关晓彤短发",
+        "onboard_time": 1710943116,
+        "rank": 27,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 207117,
+        "num": 219572,
+        "word": "中国资产迎来大涨",
+        "onboard_time": 1710981877,
+        "rank": 28,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 181914,
+        "num": 219403,
+        "word": "日本茨城南部发生5.3级地震",
+        "onboard_time": 1710981695,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 219315,
+        "num": 219315,
+        "word": "夫宇淀粉肠",
+        "onboard_time": 1710984033,
+        "rank": 30,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 207599,
+        "num": 207599,
+        "word": "花间令开始吓人了",
+        "onboard_time": 1710952049,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 198683,
+        "num": 198683,
+        "word": "华西专家告诉你什么决定孩子身高",
+        "onboard_time": 1710976706,
+        "rank": 32,
+        "category": "母婴育儿,科学科普"
+      },
+      {
+        "raw_hot": 171624,
+        "num": 171624,
+        "word": "爸爸演坏人被围殴儿子冲进去保护",
+        "onboard_time": 1710983676,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 169786,
+        "num": 169786,
+        "word": "熊猫小时候也喜欢边玩边吃",
+        "onboard_time": 1710983189,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 168160,
+        "num": 168160,
+        "word": "一根黄瓜对猫的杀伤力有多大",
+        "onboard_time": 1710978931,
+        "rank": 35,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 150615,
+        "num": 150615,
+        "word": "真的会反复爱上新中式穿搭",
+        "onboard_time": 1710982476,
+        "rank": 36,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 149008,
+        "num": 149008,
+        "word": "雷军",
+        "onboard_time": 1710984273,
+        "rank": 37,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 146087,
+        "num": 146087,
+        "word": "这些电影看完真的后劲好大",
+        "onboard_time": 1710984388,
+        "rank": 38,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 145277,
+        "num": 145277,
+        "word": "现货黄金突破2200美元",
+        "onboard_time": 1710982294,
+        "rank": 39,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 144859,
+        "num": 144859,
+        "word": "金高银撑住了贴头皮造型",
+        "onboard_time": 1710958638,
+        "rank": 40,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 136194,
+        "num": 136194,
+        "word": "我国近7成青少年存在睡眠问题",
+        "onboard_time": 1710981934,
+        "rank": 41,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 135858,
+        "num": 135858,
+        "word": "上班林黛玉 下班苏炳添",
+        "onboard_time": 1710976948,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 134646,
+        "num": 134646,
+        "word": "凯特",
+        "onboard_time": 1710953842,
+        "rank": 43,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 135482,
+        "num": 134518,
+        "word": "与凤行",
+        "onboard_time": 1710982952,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 133565,
+        "num": 133565,
+        "word": "鹿晗给自己整不好意思了",
+        "onboard_time": 1710948458,
+        "rank": 45,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 123423,
+        "num": 123423,
+        "word": "00后才是最适合当老板的这批人",
+        "onboard_time": 1710977187,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 117810,
+        "num": 117810,
+        "word": "邻居都是人才",
+        "onboard_time": 1710984513,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 112657,
+        "num": 112657,
+        "word": "杨迪回复沈梦辰",
+        "onboard_time": 1710978449,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 110597,
+        "num": 110597,
+        "word": "一看就是00后当上了老板",
+        "onboard_time": 1710976346,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平主持召开新时代推动中部地区崛起座谈会#"
+    }
+  }
+}
