@@ -1,6 +1,6 @@
 {
   "startTime": 1710951777162,
-  "endTime": 1711002127133,
+  "endTime": 1711003038048,
   "band_list": [
     {
       "raw_hot": 3011106,
@@ -153,6 +153,14 @@
       "onboard_time": 1710987634,
       "rank": 27,
       "category": "财经"
+    },
+    {
+      "raw_hot": 874443,
+      "num": 874443,
+      "word": "记者卧底鲜芋仙曝光后厨乱象",
+      "onboard_time": 1710998793,
+      "rank": 39,
+      "category": "社会新闻,美食"
     },
     {
       "raw_hot": 857922,
@@ -339,14 +347,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 581594,
-      "num": 581594,
-      "word": "记者卧底鲜芋仙曝光后厨乱象",
-      "onboard_time": 1710998793,
-      "rank": 39,
-      "category": "社会新闻,美食"
-    },
-    {
       "raw_hot": 575114,
       "num": 575114,
       "word": "加拿大快递员11年偷走866台苹果设备",
@@ -433,6 +433,14 @@
       "onboard_time": 1710995316,
       "rank": 30,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 466296,
+      "num": 466296,
+      "word": "小米发布会",
+      "onboard_time": 1711001491,
+      "rank": 22,
+      "category": "数码"
     },
     {
       "raw_hot": 459004,
@@ -571,6 +579,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 335317,
+      "num": 335317,
+      "word": "张艺兴坦克身份遭粉丝拆台",
+      "onboard_time": 1711000289,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 329844,
       "num": 329844,
       "word": "何蓝逗今晚追王一博新剧",
@@ -617,6 +633,14 @@
       "onboard_time": 1710947855,
       "rank": 15,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 299494,
+      "num": 299494,
+      "word": "陈都灵央视镜头",
+      "onboard_time": 1711001194,
+      "rank": 25,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 297366,
@@ -675,20 +699,20 @@
       "category": "情感"
     },
     {
+      "raw_hot": 278075,
+      "num": 467515,
+      "word": "谈恋爱花的钱分手后要对方还吗",
+      "onboard_time": 1710996819,
+      "rank": 28,
+      "category": "情感"
+    },
+    {
       "raw_hot": 269488,
       "num": 269488,
       "word": "拥有多少存款才能算财富自由",
       "onboard_time": 1710992492,
       "rank": 26,
       "category": "情感"
-    },
-    {
-      "raw_hot": 263904,
-      "num": 288511,
-      "word": "张艺兴坦克身份遭粉丝拆台",
-      "onboard_time": 1711000289,
-      "rank": 17,
-      "category": "综艺"
     },
     {
       "raw_hot": 262542,
@@ -731,14 +755,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 257233,
-      "num": 257233,
-      "word": "小米发布会",
-      "onboard_time": 1711001491,
-      "rank": 22,
-      "category": "数码"
-    },
-    {
       "raw_hot": 252659,
       "num": 252659,
       "word": "盒子里的猫",
@@ -753,6 +769,14 @@
       "onboard_time": 1710986914,
       "rank": 21,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 252079,
+      "num": 252079,
+      "word": "一身衣服不超过一百块丢人吗",
+      "onboard_time": 1711002091,
+      "rank": 47,
+      "category": "情感"
     },
     {
       "raw_hot": 247881,
@@ -777,14 +801,6 @@
       "onboard_time": 1710993753,
       "rank": 33,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 231231,
-      "num": 231231,
-      "word": "陈都灵央视镜头",
-      "onboard_time": 1711001194,
-      "rank": 25,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 231160,
@@ -865,14 +881,6 @@
       "onboard_time": 1710981877,
       "rank": 24,
       "category": "财经"
-    },
-    {
-      "raw_hot": 222565,
-      "num": 426933,
-      "word": "谈恋爱花的钱分手后要对方还吗",
-      "onboard_time": 1710996819,
-      "rank": 28,
-      "category": "情感"
     },
     {
       "raw_hot": 220225,
@@ -1123,6 +1131,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 179461,
+      "num": 466800,
+      "word": "四六级报名",
+      "onboard_time": 1711002272,
+      "rank": 9,
+      "category": "教育"
+    },
+    {
       "raw_hot": 176510,
       "num": 176510,
       "word": "2月龄男婴接种疫苗14天后死亡",
@@ -1145,6 +1161,14 @@
       "onboard_time": 1710997535,
       "rank": 38,
       "category": "演出"
+    },
+    {
+      "raw_hot": 172237,
+      "num": 172237,
+      "word": "做了一年半的阿姨发短信来内涵",
+      "onboard_time": 1711002390,
+      "rank": 31,
+      "category": "情感"
     },
     {
       "raw_hot": 172101,
@@ -1177,6 +1201,14 @@
       "onboard_time": 1710983189,
       "rank": 43,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 168967,
+      "num": 168967,
+      "word": "被女朋友改造后的房子",
+      "onboard_time": 1711001911,
+      "rank": 43,
+      "category": "情感"
     },
     {
       "raw_hot": 166355,
@@ -1249,6 +1281,14 @@
       "onboard_time": 1710995977,
       "rank": 43,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 155341,
+      "num": 155341,
+      "word": "白色蛋糕裙",
+      "onboard_time": 1711000474,
+      "rank": 42,
+      "category": "时尚"
     },
     {
       "raw_hot": 152689,
@@ -1355,10 +1395,34 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 142033,
+      "num": 179279,
+      "word": "12岁男孩每晚10点睡觉全班最矮",
+      "onboard_time": 1711002330,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 140188,
       "num": 140188,
       "word": "鲜芋仙回应后厨乱象",
       "onboard_time": 1711001251,
+      "rank": 36,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 140058,
+      "num": 140058,
+      "word": "王者荣耀",
+      "onboard_time": 1711002573,
+      "rank": 35,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 139190,
+      "num": 139190,
+      "word": "槽头肉都不能吃吗",
+      "onboard_time": 1711002573,
       "rank": 36,
       "category": "美食"
     },
@@ -1395,28 +1459,12 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 132868,
-      "num": 132868,
-      "word": "白色蛋糕裙",
-      "onboard_time": 1711000474,
-      "rank": 42,
-      "category": "时尚"
-    },
-    {
       "raw_hot": 132441,
       "num": 132441,
       "word": "灰熊vs勇士",
       "onboard_time": 1710991653,
       "rank": 48,
       "category": "体育"
-    },
-    {
-      "raw_hot": 132353,
-      "num": 132353,
-      "word": "被女朋友改造后的房子",
-      "onboard_time": 1711001911,
-      "rank": 43,
-      "category": "情感"
     },
     {
       "raw_hot": 131525,
@@ -1475,6 +1523,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 128935,
+      "num": 137120,
+      "word": "柳州螺蛳粉协会秘书长谈增臭剂",
+      "onboard_time": 1711002030,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 128630,
       "num": 128630,
       "word": "王者刘邦新皮肤",
@@ -1507,12 +1563,20 @@
       "category": "财经"
     },
     {
-      "raw_hot": 122484,
-      "num": 122484,
-      "word": "一身衣服不超过一百块丢人吗",
-      "onboard_time": 1711002091,
-      "rank": 47,
-      "category": "情感"
+      "raw_hot": 123874,
+      "num": 123874,
+      "word": "科学家成功清除已感染的艾滋病毒",
+      "onboard_time": 1711002874,
+      "rank": 42,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 120791,
+      "num": 120791,
+      "word": "陈赫郑恺重聚综艺",
+      "onboard_time": 1711002811,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 120549,
@@ -1537,6 +1601,14 @@
       "onboard_time": 1710984513,
       "rank": 47,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 116683,
+      "num": 116683,
+      "word": "AFC疯狂星期四",
+      "onboard_time": 1711002390,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 115750,
@@ -1699,14 +1771,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 79127,
-      "num": 137120,
-      "word": "柳州螺蛳粉协会秘书长谈增臭剂",
-      "onboard_time": 1711002030,
-      "rank": 38,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 76553,
       "num": 86328,
       "word": "辛云来赵丽颖合照",
@@ -1827,6 +1891,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 55668,
+      "num": 346224,
+      "word": "淘宝红人之夜 礼服合集",
+      "onboard_time": 1711000834,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 55640,
       "num": 603603,
       "word": "这个春天祝你春风得意向阳花开",
@@ -1857,14 +1929,6 @@
       "onboard_time": 1710986434,
       "rank": 14,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 49493,
-      "num": 346224,
-      "word": "淘宝红人之夜 礼服合集",
-      "onboard_time": 1711000834,
-      "rank": 14,
-      "category": "艺人"
     },
     {
       "raw_hot": 44769,
