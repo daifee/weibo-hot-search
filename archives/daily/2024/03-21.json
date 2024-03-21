@@ -1,7 +1,15 @@
 {
   "startTime": 1710951777162,
-  "endTime": 1710977670505,
+  "endTime": 1710983565860,
   "band_list": [
+    {
+      "raw_hot": 1635572,
+      "num": 1635572,
+      "word": "千万不要等到胸部不舒服了再重视",
+      "onboard_time": 1710980437,
+      "rank": 0,
+      "category": "健康医疗"
+    },
     {
       "raw_hot": 1255856,
       "num": 602799,
@@ -19,8 +27,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1014612,
-      "num": 1014612,
+      "raw_hot": 1143314,
+      "num": 1143314,
       "word": "不吃早饭比不吃晚饭危害更大吗",
       "onboard_time": 1710966616,
       "rank": 48,
@@ -35,12 +43,36 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 791682,
+      "num": 791682,
+      "word": "结婚邀请了大学室友",
+      "onboard_time": 1710977908,
+      "rank": 3,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 791313,
+      "num": 498224,
+      "word": "女子公厕废纸篓发现弃婴",
+      "onboard_time": 1710979832,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 780809,
-      "num": 261244,
+      "num": 335615,
       "word": "东航致132人遇难事故调查进展发布",
       "onboard_time": 1710930218,
       "rank": 10,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 740077,
+      "num": 740077,
+      "word": "赵丽颖说拍大结局从早哭到晚",
+      "onboard_time": 1710978571,
+      "rank": 4,
+      "category": "剧集"
     },
     {
       "raw_hot": 692641,
@@ -49,6 +81,14 @@
       "onboard_time": 1710934180,
       "rank": 0,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 666240,
+      "num": 666240,
+      "word": "睡不着的时候试试3个不管不顾",
+      "onboard_time": 1710979170,
+      "rank": 5,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 655834,
@@ -83,6 +123,22 @@
       "category": "情感"
     },
     {
+      "raw_hot": 567841,
+      "num": 191670,
+      "word": "被遗弃女婴公示寻找期满前找到亲生父母",
+      "onboard_time": 1710982111,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 548824,
+      "num": 548824,
+      "word": "胸部自检",
+      "onboard_time": 1710975682,
+      "rank": 30,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 528446,
       "num": 528446,
       "word": "恋爱兄妹",
@@ -91,12 +147,60 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 519617,
+      "num": 519617,
+      "word": "天水麻辣烫成都分烫火到闭店",
+      "onboard_time": 1710957140,
+      "rank": 19,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 496677,
+      "num": 496677,
+      "word": "王一博完了完了完了",
+      "onboard_time": 1710978752,
+      "rank": 11,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 486604,
+      "num": 241126,
+      "word": "古驰突然就卖不动了",
+      "onboard_time": 1710982592,
+      "rank": 20,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 479958,
-      "num": 479958,
+      "num": 499115,
       "word": "女子怀孕7个月刚独自待5分钟就倒地",
       "onboard_time": 1710939516,
       "rank": 6,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 408465,
+      "num": 408465,
+      "word": "文哲",
+      "onboard_time": 1710981814,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 394174,
+      "num": 394174,
+      "word": "宫崎骏新作唯一互动是中国观众",
+      "onboard_time": 1710979054,
+      "rank": 13,
+      "category": "电影,动漫"
+    },
+    {
+      "raw_hot": 389805,
+      "num": 389805,
+      "word": "行云去世",
+      "onboard_time": 1710976948,
+      "rank": 21,
+      "category": "剧集"
     },
     {
       "raw_hot": 376180,
@@ -115,12 +219,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 338529,
-      "num": 338529,
-      "word": "天水麻辣烫成都分烫火到闭店",
-      "onboard_time": 1710957140,
-      "rank": 19,
-      "category": "美食"
+      "raw_hot": 355754,
+      "num": 233421,
+      "word": "30多岁和20多岁生孩子有啥差别",
+      "onboard_time": 1710977008,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 337796,
+      "num": 337796,
+      "word": "每天睡多久才算睡够了",
+      "onboard_time": 1710977668,
+      "rank": 15,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 326161,
@@ -155,12 +267,20 @@
       "category": "情感"
     },
     {
-      "raw_hot": 278848,
-      "num": 89306,
-      "word": "胸部自检",
-      "onboard_time": 1710975682,
-      "rank": 30,
-      "category": "健康医疗"
+      "raw_hot": 267603,
+      "num": 231590,
+      "word": "新款iPadPro被曝更窄边框OLED屏",
+      "onboard_time": 1710981336,
+      "rank": 22,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 262060,
+      "num": 262060,
+      "word": "华西专家告诉你什么决定孩子身高",
+      "onboard_time": 1710976706,
+      "rank": 15,
+      "category": "母婴育儿"
     },
     {
       "raw_hot": 261500,
@@ -177,6 +297,14 @@
       "onboard_time": 1710941855,
       "rank": 13,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 247881,
+      "num": 223778,
+      "word": "自己烧水和买桶装水喝哪个更健康",
+      "onboard_time": 1710976765,
+      "rank": 31,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 229466,
@@ -203,6 +331,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 223247,
+      "num": 223247,
+      "word": "中国资产迎来大涨",
+      "onboard_time": 1710981877,
+      "rank": 24,
+      "category": "财经"
+    },
+    {
       "raw_hot": 220135,
       "num": 220135,
       "word": "日媒称一中国富豪借给福原爱3亿日元",
@@ -219,20 +355,68 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 186194,
-      "num": 122158,
-      "word": "30多岁和20多岁生孩子有啥差别",
-      "onboard_time": 1710977008,
-      "rank": 20,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 176942,
-      "num": 176942,
+      "raw_hot": 205674,
+      "num": 205674,
       "word": "金高银撑住了贴头皮造型",
       "onboard_time": 1710958638,
       "rank": 18,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 203603,
+      "num": 203603,
+      "word": "螺蛳粉 增臭剂",
+      "onboard_time": 1710983253,
+      "rank": 26,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 197877,
+      "num": 197877,
+      "word": "一根黄瓜对猫的杀伤力有多大",
+      "onboard_time": 1710978931,
+      "rank": 27,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 193109,
+      "num": 193109,
+      "word": "与凤行",
+      "onboard_time": 1710982952,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 189577,
+      "num": 189577,
+      "word": "拥有老板思维的女生都在想什么",
+      "onboard_time": 1710982592,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 185277,
+      "num": 185277,
+      "word": "日本茨城南部发生5.3级地震",
+      "onboard_time": 1710981695,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 183972,
+      "num": 183972,
+      "word": "上班林黛玉 下班苏炳添",
+      "onboard_time": 1710976948,
+      "rank": 40,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 180828,
+      "num": 180828,
+      "word": "现货黄金突破2200美元",
+      "onboard_time": 1710982294,
+      "rank": 33,
+      "category": "财经"
     },
     {
       "raw_hot": 176510,
@@ -251,12 +435,36 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 171699,
+      "num": 171699,
+      "word": "真的会反复爱上新中式穿搭",
+      "onboard_time": 1710982476,
+      "rank": 34,
+      "category": "时尚"
+    },
+    {
+      "raw_hot": 164935,
+      "num": 164935,
+      "word": "00后才是最适合当老板的这批人",
+      "onboard_time": 1710977187,
+      "rank": 24,
+      "category": "情感"
+    },
+    {
       "raw_hot": 161622,
       "num": 161622,
       "word": "刘学义光头造型",
       "onboard_time": 1710938376,
       "rank": 19,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 152421,
+      "num": 152421,
+      "word": "杨迪回复沈梦辰",
+      "onboard_time": 1710978449,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 151406,
@@ -275,12 +483,20 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 146024,
-      "num": 146024,
-      "word": "华西专家告诉你什么决定孩子身高",
-      "onboard_time": 1710976706,
-      "rank": 15,
-      "category": "母婴育儿"
+      "raw_hot": 146688,
+      "num": 146688,
+      "word": "一看就是00后当上了老板",
+      "onboard_time": 1710976346,
+      "rank": 29,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 143666,
+      "num": 143666,
+      "word": "打工和创业的区别有多大",
+      "onboard_time": 1710982054,
+      "rank": 41,
+      "category": "情感"
     },
     {
       "raw_hot": 142563,
@@ -291,14 +507,6 @@
       "category": "运动健身"
     },
     {
-      "raw_hot": 139877,
-      "num": 89128,
-      "word": "自己烧水和买桶装水喝哪个更健康",
-      "onboard_time": 1710976765,
-      "rank": 31,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 135611,
       "num": 135611,
       "word": "林依晨 你",
@@ -307,12 +515,28 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 135296,
+      "num": 135296,
+      "word": "熊猫小时候也喜欢边玩边吃",
+      "onboard_time": 1710983189,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 130746,
       "num": 130746,
       "word": "杜海涛演戏",
       "onboard_time": 1710940835,
       "rank": 24,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 130544,
+      "num": 130544,
+      "word": "我国近7成青少年存在睡眠问题",
+      "onboard_time": 1710981934,
+      "rank": 44,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 130093,
@@ -331,6 +555,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 129927,
+      "num": 129927,
+      "word": "小猫咪很想告诉你的20件事",
+      "onboard_time": 1710982054,
+      "rank": 45,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 129740,
       "num": 129740,
       "word": "林俊杰侧脸照",
@@ -347,20 +579,20 @@
       "category": "演出"
     },
     {
+      "raw_hot": 124346,
+      "num": 124346,
+      "word": "现货黄金价再创新高",
+      "onboard_time": 1710982054,
+      "rank": 46,
+      "category": "财经"
+    },
+    {
       "raw_hot": 120549,
       "num": 120549,
       "word": "唐嫣直播状态",
       "onboard_time": 1710934777,
       "rank": 28,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 119390,
-      "num": 119390,
-      "word": "行云去世",
-      "onboard_time": 1710976948,
-      "rank": 21,
-      "category": "剧集"
     },
     {
       "raw_hot": 118266,
@@ -395,14 +627,6 @@
       "category": "艺人,体育"
     },
     {
-      "raw_hot": 107742,
-      "num": 107742,
-      "word": "00后才是最适合当老板的这批人",
-      "onboard_time": 1710977187,
-      "rank": 24,
-      "category": "情感"
-    },
-    {
       "raw_hot": 107555,
       "num": 107555,
       "word": "越共中央批准越南国家主席武文赏辞职",
@@ -411,12 +635,20 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 102809,
-      "num": 102809,
-      "word": "一看就是00后当上了老板",
-      "onboard_time": 1710976346,
-      "rank": 29,
-      "category": "情感"
+      "raw_hot": 106157,
+      "num": 106157,
+      "word": "宋妍霏身材",
+      "onboard_time": 1710983553,
+      "rank": 48,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 100748,
+      "num": 100748,
+      "word": "终于知道我的猫咪在想什么了",
+      "onboard_time": 1710982234,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 96745,
@@ -563,14 +795,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 68586,
-      "num": 68586,
-      "word": "上班林黛玉 下班苏炳添",
-      "onboard_time": 1710976948,
-      "rank": 40,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 68014,
       "num": 68014,
       "word": "猫 哪里来的野鸡啊",
@@ -683,6 +907,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 44769,
+      "num": 909903,
+      "word": "春好正是耕种时",
+      "onboard_time": 1710940054,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 42001,
       "num": 46286,
       "word": "吴磊居家男友风",
@@ -696,14 +928,6 @@
       "word": "春分",
       "onboard_time": 1710931534,
       "rank": 49,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 27110,
-      "num": 909903,
-      "word": "春好正是耕种时",
-      "onboard_time": 1710940054,
-      "rank": 2,
       "category": "社会新闻"
     },
     {
@@ -745,6 +969,9 @@
     },
     {
       "word": "#习近平总书记始终高度重视农业生产和粮食安全#"
+    },
+    {
+      "word": "#在更高起点上扎实推动中部地区崛起#"
     }
   ]
 }
