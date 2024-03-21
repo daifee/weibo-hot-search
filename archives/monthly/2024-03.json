@@ -1,6 +1,6 @@
 {
   "startTime": 1709223640991,
-  "endTime": 1711025195629,
+  "endTime": 1711027274688,
   "band_list": [
     {
       "raw_hot": 12728050,
@@ -1505,6 +1505,14 @@
       "onboard_time": 1710483157,
       "rank": 14,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 1738198,
+      "num": 1738198,
+      "word": "翟潇闻回应说错霸王茶姬",
+      "onboard_time": 1711025960,
+      "rank": 0,
+      "category": "艺人,美食"
     },
     {
       "raw_hot": 1731462,
@@ -4963,6 +4971,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 991690,
+      "num": 991690,
+      "word": "瑞幸酱香拿铁被曝销量差",
+      "onboard_time": 1711024579,
+      "rank": 25,
+      "category": "美食"
+    },
+    {
       "raw_hot": 991355,
       "num": 312476,
       "word": "我妈返聘工资都比我高",
@@ -5345,6 +5361,14 @@
       "onboard_time": 1710786917,
       "rank": 31,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 951788,
+      "num": 951788,
+      "word": "韩媒为林孝埈鸣不平",
+      "onboard_time": 1711025000,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 950770,
@@ -6907,6 +6931,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 796985,
+      "num": 796985,
+      "word": "沈璃行止圆房",
+      "onboard_time": 1711026319,
+      "rank": 6,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 795919,
       "num": 795919,
       "word": "嘴角起泡其实是感染了病毒",
@@ -8009,6 +8041,14 @@
       "onboard_time": 1709466691,
       "rank": 10,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 729523,
+      "num": 729523,
+      "word": "郑合惠子上桌原因",
+      "onboard_time": 1711024038,
+      "rank": 24,
+      "category": "剧集"
     },
     {
       "raw_hot": 729147,
@@ -9292,7 +9332,7 @@
     },
     {
       "raw_hot": 661650,
-      "num": 288470,
+      "num": 406382,
       "word": "月薪2万吃不起的百果园栽了",
       "onboard_time": 1711022480,
       "rank": 21,
@@ -11595,6 +11635,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 566068,
+      "num": 566068,
+      "word": "新加坡vs国足",
+      "onboard_time": 1711022720,
+      "rank": 17,
+      "category": "体育"
+    },
+    {
       "raw_hot": 565856,
       "num": 565856,
       "word": "梁靖崑vs张本智和",
@@ -12563,14 +12611,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 534228,
-      "num": 534228,
-      "word": "郑合惠子上桌原因",
-      "onboard_time": 1711024038,
-      "rank": 24,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 534051,
       "num": 534051,
       "word": "饿了么免单",
@@ -13265,6 +13305,14 @@
       "onboard_time": 1710988053,
       "rank": 19,
       "category": "社会新闻,美食"
+    },
+    {
+      "raw_hot": 510393,
+      "num": 510393,
+      "word": "王梓薇与凤行只拍了一天半",
+      "onboard_time": 1711025478,
+      "rank": 15,
+      "category": "剧集"
     },
     {
       "raw_hot": 510352,
@@ -14779,6 +14827,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 468204,
+      "num": 468204,
+      "word": "武磊头球破门",
+      "onboard_time": 1711026019,
+      "rank": 17,
+      "category": "体育"
+    },
+    {
       "raw_hot": 468195,
       "num": 468195,
       "word": "张文宏谈为何这个冬天一直生病",
@@ -15763,14 +15819,6 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 443392,
-      "num": 443392,
-      "word": "新加坡vs国足",
-      "onboard_time": 1711022720,
-      "rank": 17,
-      "category": "体育"
-    },
-    {
       "raw_hot": 443170,
       "num": 443170,
       "word": "徐正溪陈乔恩烈焰海报",
@@ -16248,6 +16296,14 @@
       "word": "范丞丞 特步",
       "onboard_time": 1710664051,
       "rank": 27,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 432617,
+      "num": 432617,
+      "word": "李荣浩纹身照是杨丞琳拍的",
+      "onboard_time": 1711025780,
+      "rank": 18,
       "category": "艺人"
     },
     {
@@ -17931,6 +17987,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 391139,
+      "num": 391139,
+      "word": "吴磊绿毛衣",
+      "onboard_time": 1711025059,
+      "rank": 41,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 390462,
       "num": 390462,
       "word": "韩孝周小栗旬将合作",
@@ -18428,7 +18492,7 @@
     },
     {
       "raw_hot": 380224,
-      "num": 307899,
+      "num": 329574,
       "word": "lululemon爆火后被lulu们收割",
       "onboard_time": 1711018461,
       "rank": 20,
@@ -19729,6 +19793,14 @@
       "onboard_time": 1709535629,
       "rank": 33,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 353556,
+      "num": 353556,
+      "word": "王者荣耀大司命",
+      "onboard_time": 1711026261,
+      "rank": 23,
+      "category": "电竞"
     },
     {
       "raw_hot": 353293,
@@ -21057,6 +21129,14 @@
       "onboard_time": 1709450610,
       "rank": 14,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 327992,
+      "num": 327992,
+      "word": "李小冉 我没演过小时代",
+      "onboard_time": 1711026859,
+      "rank": 25,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 327841,
@@ -23787,6 +23867,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 287494,
+      "num": 287494,
+      "word": "追风者央八收视率",
+      "onboard_time": 1711025300,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 287420,
       "num": 287420,
       "word": "时空中的绘旅人",
@@ -23873,6 +23961,14 @@
       "onboard_time": 1709565034,
       "rank": 32,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 286035,
+      "num": 227308,
+      "word": "王一博 进步",
+      "onboard_time": 1711025000,
+      "rank": 31,
+      "category": "剧集"
     },
     {
       "raw_hot": 285737,
@@ -28851,14 +28947,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 230017,
-      "num": 230017,
-      "word": "瑞幸酱香拿铁被曝销量差",
-      "onboard_time": 1711024579,
-      "rank": 25,
-      "category": "美食"
-    },
-    {
       "raw_hot": 229998,
       "num": 229998,
       "word": "赵丽颖羽纱仙女裙",
@@ -32923,14 +33011,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 205231,
-      "num": 205231,
-      "word": "韩媒为林孝埈鸣不平",
-      "onboard_time": 1711025000,
-      "rank": 30,
-      "category": "体育"
-    },
-    {
       "raw_hot": 205223,
       "num": 205223,
       "word": "陈丽君路透",
@@ -33865,6 +33945,14 @@
       "onboard_time": 1710685723,
       "rank": 37,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 200924,
+      "num": 200924,
+      "word": "章昊蓝色套装",
+      "onboard_time": 1711026440,
+      "rank": 35,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 200916,
@@ -35691,14 +35779,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 193571,
-      "num": 193571,
-      "word": "王一博 进步",
-      "onboard_time": 1711025000,
-      "rank": 31,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 193570,
       "num": 193570,
       "word": "珉佑",
@@ -35737,6 +35817,14 @@
       "onboard_time": 1709893768,
       "rank": 25,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 193432,
+      "num": 193432,
+      "word": "费南多过人",
+      "onboard_time": 1711026378,
+      "rank": 37,
+      "category": "体育"
     },
     {
       "raw_hot": 193372,
@@ -36051,6 +36139,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 191734,
+      "num": 184135,
+      "word": "国足打破进球荒",
+      "onboard_time": 1711026081,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 191732,
       "num": 191732,
       "word": "林一变打卡景点",
@@ -36193,6 +36289,14 @@
       "onboard_time": 1709729371,
       "rank": 43,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 191202,
+      "num": 191202,
+      "word": "魏若来穷小子",
+      "onboard_time": 1711026740,
+      "rank": 38,
+      "category": "剧集"
     },
     {
       "raw_hot": 191123,
@@ -37731,14 +37835,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 184185,
-      "num": 184185,
-      "word": "吴磊绿毛衣",
-      "onboard_time": 1711025059,
-      "rank": 41,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 184173,
       "num": 209813,
       "word": "赵丽颖微指破5亿",
@@ -37873,6 +37969,14 @@
       "onboard_time": 1710501461,
       "rank": 37,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 183525,
+      "num": 183525,
+      "word": "LOEWE晚宴",
+      "onboard_time": 1711026740,
+      "rank": 41,
+      "category": "时尚,艺人"
     },
     {
       "raw_hot": 183507,
@@ -38025,6 +38129,14 @@
       "onboard_time": 1709368893,
       "rank": 30,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 182620,
+      "num": 182620,
+      "word": "追风者 好大的尺度",
+      "onboard_time": 1711027100,
+      "rank": 42,
+      "category": "剧集"
     },
     {
       "raw_hot": 182537,
@@ -40291,6 +40403,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 172244,
+      "num": 172244,
+      "word": "完美世界石昊说等我回来",
+      "onboard_time": 1711027100,
+      "rank": 43,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 172078,
       "num": 172078,
       "word": "提议大学生修满学分就毕业",
@@ -42339,6 +42459,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 162524,
+      "num": 162524,
+      "word": "韩国1比1泰国",
+      "onboard_time": 1711027159,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 162510,
       "num": 162510,
       "word": "郑合惠子谈杨采薇",
@@ -42537,6 +42665,14 @@
       "onboard_time": 1709374531,
       "rank": 47,
       "category": "健康医疗,科学科普"
+    },
+    {
+      "raw_hot": 161797,
+      "num": 161797,
+      "word": "金鹤龙晒杨幂新妆",
+      "onboard_time": 1711025900,
+      "rank": 45,
+      "category": "作品衍生,美妆"
     },
     {
       "raw_hot": 161728,
@@ -56211,6 +56347,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 89510,
+      "num": 981790,
+      "word": "花花与春天撞了个满怀",
+      "onboard_time": 1711026620,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 89448,
       "num": 64932,
       "word": "霉霉大电影内地最终票房1.01亿",
@@ -59289,6 +59433,14 @@
       "onboard_time": 1709622393,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 32412,
+      "num": 184179,
+      "word": "潮汐科技究竟是什么",
+      "onboard_time": 1711026980,
+      "rank": 39,
+      "category": "科学科普"
     },
     {
       "raw_hot": 32321,

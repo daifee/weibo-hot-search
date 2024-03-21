@@ -1,0 +1,410 @@
+{
+  "runTime": 1711027274688,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1738198,
+        "num": 1738198,
+        "word": "翟潇闻回应说错霸王茶姬",
+        "onboard_time": 1711025960,
+        "rank": 0,
+        "category": "艺人,美食"
+      },
+      {
+        "raw_hot": 991690,
+        "num": 991690,
+        "word": "瑞幸酱香拿铁被曝销量差",
+        "onboard_time": 1711024579,
+        "rank": 1,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 89510,
+        "num": 981790,
+        "word": "花花与春天撞了个满怀",
+        "onboard_time": 1711026620,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 979516,
+        "num": 979516,
+        "word": "反诈老陈晒2023年收入",
+        "onboard_time": 1711018397,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 968587,
+        "num": 968587,
+        "word": "阴阳师 王者荣耀",
+        "onboard_time": 1711022959,
+        "rank": 4,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 951788,
+        "num": 951788,
+        "word": "韩媒为林孝埈鸣不平",
+        "onboard_time": 1711025000,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 796985,
+        "num": 796985,
+        "word": "沈璃行止圆房",
+        "onboard_time": 1711026319,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 729523,
+        "num": 729523,
+        "word": "郑合惠子上桌原因",
+        "onboard_time": 1711024038,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 676961,
+        "num": 676961,
+        "word": "消保委点名周杰伦演唱会抢票先充VIP",
+        "onboard_time": 1711021278,
+        "rank": 8,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 664944,
+        "num": 664944,
+        "word": "王一博演技",
+        "onboard_time": 1711024158,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1184649,
+        "num": 650062,
+        "word": "杜海涛爆改",
+        "onboard_time": 1711016419,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 840730,
+        "num": 635264,
+        "word": "重庆姐弟坠亡案生母患甲状腺癌",
+        "onboard_time": 1711016839,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 575122,
+        "num": 575122,
+        "word": "库克给郑恺iPhone签名",
+        "onboard_time": 1711022898,
+        "rank": 12,
+        "category": "艺人,数码"
+      },
+      {
+        "raw_hot": 566068,
+        "num": 566068,
+        "word": "新加坡vs国足",
+        "onboard_time": 1711022720,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 557152,
+        "num": 557152,
+        "word": "英诊所或因瞒报凯特隐私泄露收天价罚单",
+        "onboard_time": 1711023139,
+        "rank": 14,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 510393,
+        "num": 510393,
+        "word": "王梓薇与凤行只拍了一天半",
+        "onboard_time": 1711025478,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 497498,
+        "num": 497498,
+        "word": "玄彬孙艺珍孔刘李栋旭一起看球赛",
+        "onboard_time": 1711018219,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 468204,
+        "num": 468204,
+        "word": "武磊头球破门",
+        "onboard_time": 1711026019,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 432617,
+        "num": 432617,
+        "word": "李荣浩纹身照是杨丞琳拍的",
+        "onboard_time": 1711025780,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 417649,
+        "num": 417649,
+        "word": "梦中梦中梦中梦中梦",
+        "onboard_time": 1711019300,
+        "rank": 19,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 596010,
+        "num": 406382,
+        "word": "月薪2万吃不起的百果园栽了",
+        "onboard_time": 1711022480,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 391139,
+        "num": 391139,
+        "word": "吴磊绿毛衣",
+        "onboard_time": 1711025059,
+        "rank": 21,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 366238,
+        "num": 366238,
+        "word": "花间令直播",
+        "onboard_time": 1711019959,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 353556,
+        "num": 353556,
+        "word": "王者荣耀大司命",
+        "onboard_time": 1711026261,
+        "rank": 23,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 263873,
+        "num": 329574,
+        "word": "lululemon爆火后被lulu们收割",
+        "onboard_time": 1711018461,
+        "rank": 24,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 327992,
+        "num": 327992,
+        "word": "李小冉 我没演过小时代",
+        "onboard_time": 1711026859,
+        "rank": 25,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 300881,
+        "num": 300881,
+        "word": "杨幂再现月牙笑",
+        "onboard_time": 1711015759,
+        "rank": 26,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 287494,
+        "num": 287494,
+        "word": "追风者央八收视率",
+        "onboard_time": 1711025300,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 250349,
+        "num": 250349,
+        "word": "预制菜明确不允许添加防腐剂",
+        "onboard_time": 1711016659,
+        "rank": 28,
+        "category": "美食,社会新闻"
+      },
+      {
+        "raw_hot": 227455,
+        "num": 227455,
+        "word": "别被8小时睡眠论给骗了",
+        "onboard_time": 1711005752,
+        "rank": 29,
+        "category": "科学科普,健康医疗"
+      },
+      {
+        "raw_hot": 286035,
+        "num": 227308,
+        "word": "王一博 进步",
+        "onboard_time": 1711025000,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 247595,
+        "num": 223647,
+        "word": "三体 要剧情有特效",
+        "onboard_time": 1711011679,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 216046,
+        "num": 216046,
+        "word": "天塌下来有荒的脸顶着",
+        "onboard_time": 1711024638,
+        "rank": 32,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 203849,
+        "num": 203849,
+        "word": "清华大学巅班",
+        "onboard_time": 1711018160,
+        "rank": 33,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 200994,
+        "num": 200994,
+        "word": "刘维做手术",
+        "onboard_time": 1711003170,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 200924,
+        "num": 200924,
+        "word": "章昊蓝色套装",
+        "onboard_time": 1711026440,
+        "rank": 35,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 195135,
+        "num": 195135,
+        "word": "黄渤张艺兴快碎了",
+        "onboard_time": 1711015158,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 193432,
+        "num": 193432,
+        "word": "费南多过人",
+        "onboard_time": 1711026378,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 191202,
+        "num": 191202,
+        "word": "魏若来穷小子",
+        "onboard_time": 1711026740,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 32412,
+        "num": 184179,
+        "word": "潮汐科技究竟是什么",
+        "onboard_time": 1711026980,
+        "rank": 39,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 191734,
+        "num": 184135,
+        "word": "国足打破进球荒",
+        "onboard_time": 1711026081,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 183525,
+        "num": 183525,
+        "word": "LOEWE晚宴",
+        "onboard_time": 1711026740,
+        "rank": 41,
+        "category": "时尚,艺人"
+      },
+      {
+        "raw_hot": 182620,
+        "num": 182620,
+        "word": "追风者 好大的尺度",
+        "onboard_time": 1711027100,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 172244,
+        "num": 172244,
+        "word": "完美世界石昊说等我回来",
+        "onboard_time": 1711027100,
+        "rank": 43,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 162524,
+        "num": 162524,
+        "word": "韩国1比1泰国",
+        "onboard_time": 1711027159,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 161797,
+        "num": 161797,
+        "word": "金鹤龙晒杨幂新妆",
+        "onboard_time": 1711025900,
+        "rank": 45,
+        "category": "作品衍生,美妆"
+      },
+      {
+        "raw_hot": 160555,
+        "num": 160555,
+        "word": "网飞三体 魔改",
+        "onboard_time": 1711021338,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 150560,
+        "num": 150560,
+        "word": "院方回应两名医学生先后自杀情况属实",
+        "onboard_time": 1711013479,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 145904,
+        "num": 145904,
+        "word": "陈都灵清宫装写真",
+        "onboard_time": 1711023798,
+        "rank": 48,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 136457,
+        "num": 136457,
+        "word": "你手机号的前主人是什么人",
+        "onboard_time": 1711017979,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#新时代推动中部地区崛起座谈会#"
+    }
+  }
+}
