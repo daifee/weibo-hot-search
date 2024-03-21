@@ -1,6 +1,6 @@
 {
   "startTime": 1709223640991,
-  "endTime": 1711055812754,
+  "endTime": 1711056862993,
   "band_list": [
     {
       "raw_hot": 12728050,
@@ -56811,6 +56811,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 88842,
+      "num": 88842,
+      "word": "女子家门口凌晨4点被人做三角标记",
+      "onboard_time": 1711049350,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 88708,
       "num": 93337,
       "word": "周处除三害好猛",
@@ -57161,14 +57169,6 @@
       "onboard_time": 1709647534,
       "rank": 49,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 82444,
-      "num": 82444,
-      "word": "女子家门口凌晨4点被人做三角标记",
-      "onboard_time": 1711049350,
-      "rank": 45,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 82311,
@@ -59003,6 +59003,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 50094,
+      "num": 39842,
+      "word": "何炅演发疯",
+      "onboard_time": 1711052651,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 49910,
       "num": 49910,
       "word": "天蚕土豆直播码字一周胖三斤",
@@ -59169,14 +59177,6 @@
       "onboard_time": 1710282859,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 47145,
-      "num": 35256,
-      "word": "何炅演发疯",
-      "onboard_time": 1711052651,
-      "rank": 30,
-      "category": "综艺"
     },
     {
       "raw_hot": 47129,
@@ -60619,8 +60619,8 @@
       "category": "演出"
     },
     {
-      "raw_hot": 16518,
-      "num": 16518,
+      "raw_hot": 16736,
+      "num": 16736,
       "word": "妈妈救了我好多次",
       "onboard_time": 1711052351,
       "rank": 41,
