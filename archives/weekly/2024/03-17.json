@@ -1,6 +1,6 @@
 {
   "startTime": 1710605970310,
-  "endTime": 1710999251505,
+  "endTime": 1711002127133,
   "band_list": [
     {
       "raw_hot": 11692231,
@@ -369,6 +369,14 @@
       "onboard_time": 1710675629,
       "rank": 1,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1841251,
+      "num": 1841251,
+      "word": "乱写简历被录取了是种什么体验",
+      "onboard_time": 1710999094,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 1837728,
@@ -2747,6 +2755,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 581594,
+      "num": 581594,
+      "word": "记者卧底鲜芋仙曝光后厨乱象",
+      "onboard_time": 1710998793,
+      "rank": 39,
+      "category": "社会新闻,美食"
+    },
+    {
       "raw_hot": 580914,
       "num": 580914,
       "word": "东航",
@@ -4011,6 +4027,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 412088,
+      "num": 412088,
+      "word": "屁帘",
+      "onboard_time": 1710999214,
+      "rank": 43,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 411525,
       "num": 343294,
       "word": "蔡元培莫言 北大",
@@ -4587,6 +4611,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 354453,
+      "num": 354453,
+      "word": "山东小钺钺被刺伤嫌疑人已被逮捕",
+      "onboard_time": 1710999812,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 353280,
       "num": 353280,
       "word": "杜海涛演戏",
@@ -4680,6 +4712,14 @@
       "word": "与凤行 广告",
       "onboard_time": 1710765633,
       "rank": 25,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 342679,
+      "num": 342679,
+      "word": "短剧导演称疑似李沁黑白照系AI合成",
+      "onboard_time": 1710995316,
+      "rank": 15,
       "category": "剧集"
     },
     {
@@ -5867,6 +5907,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 263904,
+      "num": 288511,
+      "word": "张艺兴坦克身份遭粉丝拆台",
+      "onboard_time": 1711000289,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 263724,
       "num": 263724,
       "word": "聋人被骗光钱财步行400里饿晕在国贸",
@@ -6001,6 +6049,14 @@
       "onboard_time": 1710767135,
       "rank": 33,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 257233,
+      "num": 257233,
+      "word": "小米发布会",
+      "onboard_time": 1711001491,
+      "rank": 22,
+      "category": "数码"
     },
     {
       "raw_hot": 256526,
@@ -6531,6 +6587,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 231231,
+      "num": 231231,
+      "word": "陈都灵央视镜头",
+      "onboard_time": 1711001194,
+      "rank": 25,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 231160,
       "num": 231160,
       "word": "碎嘴子凤凰养出来的碎嘴子鹦鹉",
@@ -6868,7 +6932,7 @@
     },
     {
       "raw_hot": 222565,
-      "num": 222565,
+      "num": 426933,
       "word": "谈恋爱花的钱分手后要对方还吗",
       "onboard_time": 1710996819,
       "rank": 28,
@@ -6977,6 +7041,14 @@
       "onboard_time": 1710667831,
       "rank": 23,
       "category": "游戏,剧集"
+    },
+    {
+      "raw_hot": 219915,
+      "num": 219915,
+      "word": "赖床可能是垃圾睡眠导致的",
+      "onboard_time": 1710999990,
+      "rank": 26,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 219851,
@@ -7209,14 +7281,6 @@
       "onboard_time": 1710774634,
       "rank": 34,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 214462,
-      "num": 196719,
-      "word": "乱写简历被录取了是种什么体验",
-      "onboard_time": 1710999094,
-      "rank": 30,
-      "category": "幽默"
     },
     {
       "raw_hot": 214298,
@@ -7537,6 +7601,14 @@
       "onboard_time": 1710894518,
       "rank": 28,
       "category": "情感"
+    },
+    {
+      "raw_hot": 205730,
+      "num": 205730,
+      "word": "赵雷巡演",
+      "onboard_time": 1711001551,
+      "rank": 28,
+      "category": "演出"
     },
     {
       "raw_hot": 205674,
@@ -8329,6 +8401,14 @@
       "onboard_time": 1710913830,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 190264,
+      "num": 190264,
+      "word": "郑合惠子 反内耗的神",
+      "onboard_time": 1711000532,
+      "rank": 29,
+      "category": "综艺"
     },
     {
       "raw_hot": 190122,
@@ -10795,6 +10875,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 140188,
+      "num": 140188,
+      "word": "鲜芋仙回应后厨乱象",
+      "onboard_time": 1711001251,
+      "rank": 36,
+      "category": "美食"
+    },
+    {
       "raw_hot": 140122,
       "num": 140122,
       "word": "像庞博那样的",
@@ -10833,6 +10921,14 @@
       "onboard_time": 1710673775,
       "rank": 46,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 138426,
+      "num": 138426,
+      "word": "山东大馒头版淀粉肠上新啦",
+      "onboard_time": 1711000891,
+      "rank": 37,
+      "category": "美食"
     },
     {
       "raw_hot": 138100,
@@ -11155,6 +11251,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 132868,
+      "num": 132868,
+      "word": "白色蛋糕裙",
+      "onboard_time": 1711000474,
+      "rank": 42,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 132779,
       "num": 455242,
       "word": "接下来杭州是这样的",
@@ -11195,20 +11299,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 132353,
+      "num": 132353,
+      "word": "被女朋友改造后的房子",
+      "onboard_time": 1711001911,
+      "rank": 43,
+      "category": "情感"
+    },
+    {
       "raw_hot": 132334,
       "num": 132334,
       "word": "虞书欣新疆plog",
       "onboard_time": 1710898531,
       "rank": 44,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 132191,
-      "num": 132191,
-      "word": "屁帘",
-      "onboard_time": 1710999214,
-      "rank": 43,
-      "category": "时尚"
     },
     {
       "raw_hot": 131742,
@@ -11313,6 +11417,14 @@
       "onboard_time": 1710948816,
       "rank": 47,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 129628,
+      "num": 129628,
+      "word": "上汽大众1周2次降价",
+      "onboard_time": 1711000174,
+      "rank": 44,
+      "category": "汽车"
     },
     {
       "raw_hot": 129238,
@@ -11545,6 +11657,14 @@
       "onboard_time": 1710756936,
       "rank": 46,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 122484,
+      "num": 122484,
+      "word": "一身衣服不超过一百块丢人吗",
+      "onboard_time": 1711002091,
+      "rank": 47,
+      "category": "情感"
     },
     {
       "raw_hot": 122479,
@@ -12051,14 +12171,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 104567,
-      "num": 163375,
-      "word": "记者卧底鲜芋仙曝光后厨乱象",
-      "onboard_time": 1710998793,
-      "rank": 39,
-      "category": "社会新闻,美食"
-    },
-    {
       "raw_hot": 104113,
       "num": 342193,
       "word": "花间令强吻戏",
@@ -12465,6 +12577,14 @@
       "onboard_time": 1710740493,
       "rank": 16,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 79127,
+      "num": 137120,
+      "word": "柳州螺蛳粉协会秘书长谈增臭剂",
+      "onboard_time": 1711002030,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 79001,
@@ -12929,6 +13049,14 @@
       "onboard_time": 1710986434,
       "rank": 14,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 49493,
+      "num": 346224,
+      "word": "淘宝红人之夜 礼服合集",
+      "onboard_time": 1711000834,
+      "rank": 14,
+      "category": "艺人"
     },
     {
       "raw_hot": 47782,
