@@ -1,6 +1,6 @@
 {
   "startTime": 1710605970310,
-  "endTime": 1711005389433,
+  "endTime": 1711006450585,
   "band_list": [
     {
       "raw_hot": 11692231,
@@ -2267,6 +2267,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 678317,
+      "num": 480635,
+      "word": "科学家成功清除已感染的艾滋病毒",
+      "onboard_time": 1711002874,
+      "rank": 42,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 672390,
       "num": 846697,
       "word": "金价",
@@ -3195,14 +3203,6 @@
       "category": "时尚"
     },
     {
-      "raw_hot": 512813,
-      "num": 480635,
-      "word": "科学家成功清除已感染的艾滋病毒",
-      "onboard_time": 1711002874,
-      "rank": 42,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 512225,
       "num": 512225,
       "word": "奸杀女童恶魔被执行死刑",
@@ -3577,6 +3577,14 @@
       "onboard_time": 1710652592,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 462354,
+      "num": 462354,
+      "word": "茶百道口令",
+      "onboard_time": 1711005335,
+      "rank": 23,
+      "category": "美食"
     },
     {
       "raw_hot": 462159,
@@ -4419,6 +4427,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 379514,
+      "num": 379514,
+      "word": "为什么古人吃鹿肉现代人却不吃",
+      "onboard_time": 1711003051,
+      "rank": 16,
+      "category": "美食"
+    },
+    {
       "raw_hot": 377734,
       "num": 311292,
       "word": "原来男人的花期真的很短",
@@ -4449,6 +4465,14 @@
       "onboard_time": 1710948154,
       "rank": 30,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 375208,
+      "num": 375208,
+      "word": "贵妇化妆品集体打5折是卖不动了吗",
+      "onboard_time": 1711003114,
+      "rank": 15,
+      "category": "美妆,社会新闻"
     },
     {
       "raw_hot": 374673,
@@ -4619,14 +4643,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 357249,
-      "num": 357249,
-      "word": "贵妇化妆品集体打5折是卖不动了吗",
-      "onboard_time": 1711003114,
-      "rank": 15,
-      "category": "美妆,社会新闻"
-    },
-    {
       "raw_hot": 356955,
       "num": 356955,
       "word": "唐嫣直播状态",
@@ -4649,6 +4665,14 @@
       "onboard_time": 1710645212,
       "rank": 37,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 355761,
+      "num": 242906,
+      "word": "乳房自检不能捏而要按",
+      "onboard_time": 1711005454,
+      "rank": 22,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 355754,
@@ -5289,14 +5313,6 @@
       "onboard_time": 1710686866,
       "rank": 28,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 306407,
-      "num": 306407,
-      "word": "为什么古人吃鹿肉现代人却不吃",
-      "onboard_time": 1711003051,
-      "rank": 16,
-      "category": "美食"
     },
     {
       "raw_hot": 305006,
@@ -6267,14 +6283,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 248442,
-      "num": 248442,
-      "word": "茶百道口令",
-      "onboard_time": 1711005335,
-      "rank": 23,
-      "category": "美食"
-    },
-    {
       "raw_hot": 248440,
       "num": 343725,
       "word": "凤凰传奇只有冷门前奏没有冷门歌曲",
@@ -6376,6 +6384,14 @@
       "word": "花间令 喜欢的人成了我外室",
       "onboard_time": 1710600936,
       "rank": 15,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 244642,
+      "num": 244642,
+      "word": "咒术回战",
+      "onboard_time": 1711005573,
+      "rank": 18,
       "category": "剧集"
     },
     {
@@ -6787,6 +6803,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 227696,
+      "num": 227696,
+      "word": "上班第一天分了块菜地",
+      "onboard_time": 1711003952,
+      "rank": 32,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 227564,
       "num": 189830,
       "word": "马丽折扣区挑衣服",
@@ -6873,6 +6897,14 @@
       "onboard_time": 1710896313,
       "rank": 33,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 225878,
+      "num": 289474,
+      "word": "柳州螺蛳粉协会秘书长谈增臭剂",
+      "onboard_time": 1711002030,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 225819,
@@ -7843,6 +7875,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 202804,
+      "num": 202804,
+      "word": "吴彦祖 贾玲惊人的转变令人瞠目结舌",
+      "onboard_time": 1711006173,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 202749,
       "num": 202749,
       "word": "优酷好宠王一博",
@@ -7985,14 +8025,6 @@
       "onboard_time": 1710833129,
       "rank": 32,
       "category": "数码"
-    },
-    {
-      "raw_hot": 199989,
-      "num": 199989,
-      "word": "上班第一天分了块菜地",
-      "onboard_time": 1711003952,
-      "rank": 32,
-      "category": "幽默"
     },
     {
       "raw_hot": 199571,
@@ -8155,6 +8187,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 196492,
+      "num": 196492,
+      "word": "别被8小时睡眠论给骗了",
+      "onboard_time": 1711005752,
+      "rank": 30,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 196369,
       "num": 196369,
       "word": "陈楚生深圳演唱会vlog",
@@ -8185,6 +8225,14 @@
       "onboard_time": 1710927155,
       "rank": 24,
       "category": "演出"
+    },
+    {
+      "raw_hot": 196235,
+      "num": 196235,
+      "word": "丞磊杀青文笔",
+      "onboard_time": 1711005936,
+      "rank": 31,
+      "category": "剧集"
     },
     {
       "raw_hot": 196210,
@@ -8305,6 +8353,14 @@
       "onboard_time": 1710724653,
       "rank": 33,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 194460,
+      "num": 194460,
+      "word": "闪耀暖暖严莉莉",
+      "onboard_time": 1711005391,
+      "rank": 32,
+      "category": "游戏"
     },
     {
       "raw_hot": 194311,
@@ -9043,20 +9099,20 @@
       "category": "运动健身"
     },
     {
-      "raw_hot": 180048,
-      "num": 289474,
-      "word": "柳州螺蛳粉协会秘书长谈增臭剂",
-      "onboard_time": 1711002030,
-      "rank": 38,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 179925,
       "num": 179925,
       "word": "马龙林高远世界第五",
       "onboard_time": 1710810758,
       "rank": 42,
       "category": "体育"
+    },
+    {
+      "raw_hot": 179760,
+      "num": 179760,
+      "word": "凤凰传奇演唱会 足球赛",
+      "onboard_time": 1711005096,
+      "rank": 40,
+      "category": "演出"
     },
     {
       "raw_hot": 179717,
@@ -10555,14 +10611,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 150193,
-      "num": 150193,
-      "word": "凤凰传奇演唱会 足球赛",
-      "onboard_time": 1711005096,
-      "rank": 40,
-      "category": "演出"
-    },
-    {
       "raw_hot": 150174,
       "num": 150174,
       "word": "中国队混合接力夺金",
@@ -10816,6 +10864,14 @@
       "word": "张馨予遇到热心大爷",
       "onboard_time": 1710672755,
       "rank": 42,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 145252,
+      "num": 145252,
+      "word": "贾玲 打破偏见最好的办法",
+      "onboard_time": 1711006294,
+      "rank": 39,
       "category": "艺人"
     },
     {

@@ -1,6 +1,6 @@
 {
   "startTime": 1710951777162,
-  "endTime": 1711005389433,
+  "endTime": 1711006450585,
   "band_list": [
     {
       "raw_hot": 3011106,
@@ -275,6 +275,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 678317,
+      "num": 480635,
+      "word": "科学家成功清除已感染的艾滋病毒",
+      "onboard_time": 1711002874,
+      "rank": 42,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 672390,
       "num": 846697,
       "word": "金价",
@@ -403,14 +411,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 512813,
-      "num": 480635,
-      "word": "科学家成功清除已感染的艾滋病毒",
-      "onboard_time": 1711002874,
-      "rank": 42,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 510453,
       "num": 510453,
       "word": "市监巡查人员被螺蛳粉店增臭剂臭到咳嗽",
@@ -465,6 +465,14 @@
       "onboard_time": 1710995316,
       "rank": 30,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 462354,
+      "num": 462354,
+      "word": "茶百道口令",
+      "onboard_time": 1711005335,
+      "rank": 23,
+      "category": "美食"
     },
     {
       "raw_hot": 459004,
@@ -555,12 +563,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 379514,
+      "num": 379514,
+      "word": "为什么古人吃鹿肉现代人却不吃",
+      "onboard_time": 1711003051,
+      "rank": 16,
+      "category": "美食"
+    },
+    {
       "raw_hot": 376180,
       "num": 376180,
       "word": "行云念了沈璃一辈子",
       "onboard_time": 1710948154,
       "rank": 7,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 375208,
+      "num": 375208,
+      "word": "贵妇化妆品集体打5折是卖不动了吗",
+      "onboard_time": 1711003114,
+      "rank": 15,
+      "category": "美妆,社会新闻"
     },
     {
       "raw_hot": 372606,
@@ -571,20 +595,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 357249,
-      "num": 357249,
-      "word": "贵妇化妆品集体打5折是卖不动了吗",
-      "onboard_time": 1711003114,
-      "rank": 15,
-      "category": "美妆,社会新闻"
-    },
-    {
       "raw_hot": 356805,
       "num": 356805,
       "word": "电影红楼梦秦可卿造型引争议",
       "onboard_time": 1710983734,
       "rank": 15,
       "category": "电影"
+    },
+    {
+      "raw_hot": 355761,
+      "num": 242906,
+      "word": "乳房自检不能捏而要按",
+      "onboard_time": 1711005454,
+      "rank": 22,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 355754,
@@ -673,14 +697,6 @@
       "onboard_time": 1710987453,
       "rank": 22,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 306407,
-      "num": 306407,
-      "word": "为什么古人吃鹿肉现代人却不吃",
-      "onboard_time": 1711003051,
-      "rank": 16,
-      "category": "美食"
     },
     {
       "raw_hot": 301303,
@@ -843,14 +859,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 248442,
-      "num": 248442,
-      "word": "茶百道口令",
-      "onboard_time": 1711005335,
-      "rank": 23,
-      "category": "美食"
-    },
-    {
       "raw_hot": 247881,
       "num": 242294,
       "word": "自己烧水和买桶装水喝哪个更健康",
@@ -865,6 +873,14 @@
       "onboard_time": 1710984033,
       "rank": 30,
       "category": "美食"
+    },
+    {
+      "raw_hot": 244642,
+      "num": 244642,
+      "word": "咒术回战",
+      "onboard_time": 1711005573,
+      "rank": 18,
+      "category": "剧集"
     },
     {
       "raw_hot": 240162,
@@ -907,6 +923,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 227696,
+      "num": 227696,
+      "word": "上班第一天分了块菜地",
+      "onboard_time": 1711003952,
+      "rank": 32,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 227326,
       "num": 227326,
       "word": "三体",
@@ -937,6 +961,14 @@
       "onboard_time": 1710982592,
       "rank": 30,
       "category": "情感"
+    },
+    {
+      "raw_hot": 225878,
+      "num": 289474,
+      "word": "柳州螺蛳粉协会秘书长谈增臭剂",
+      "onboard_time": 1711002030,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 225033,
@@ -1075,6 +1107,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 202804,
+      "num": 202804,
+      "word": "吴彦祖 贾玲惊人的转变令人瞠目结舌",
+      "onboard_time": 1711006173,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 202749,
       "num": 202749,
       "word": "优酷好宠王一博",
@@ -1107,14 +1147,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 199989,
-      "num": 199989,
-      "word": "上班第一天分了块菜地",
-      "onboard_time": 1711003952,
-      "rank": 32,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 197877,
       "num": 197877,
       "word": "一根黄瓜对猫的杀伤力有多大",
@@ -1123,12 +1155,36 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 196492,
+      "num": 196492,
+      "word": "别被8小时睡眠论给骗了",
+      "onboard_time": 1711005752,
+      "rank": 30,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 196235,
+      "num": 196235,
+      "word": "丞磊杀青文笔",
+      "onboard_time": 1711005936,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 196146,
       "num": 196146,
       "word": "静安寺苹果店开业前大排长龙",
       "onboard_time": 1710997776,
       "rank": 41,
       "category": "数码"
+    },
+    {
+      "raw_hot": 194460,
+      "num": 194460,
+      "word": "闪耀暖暖严莉莉",
+      "onboard_time": 1711005391,
+      "rank": 32,
+      "category": "游戏"
     },
     {
       "raw_hot": 194218,
@@ -1243,12 +1299,12 @@
       "category": "财经"
     },
     {
-      "raw_hot": 180048,
-      "num": 289474,
-      "word": "柳州螺蛳粉协会秘书长谈增臭剂",
-      "onboard_time": 1711002030,
-      "rank": 38,
-      "category": "社会新闻"
+      "raw_hot": 179760,
+      "num": 179760,
+      "word": "凤凰传奇演唱会 足球赛",
+      "onboard_time": 1711005096,
+      "rank": 40,
+      "category": "演出"
     },
     {
       "raw_hot": 176510,
@@ -1443,14 +1499,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 150193,
-      "num": 150193,
-      "word": "凤凰传奇演唱会 足球赛",
-      "onboard_time": 1711005096,
-      "rank": 40,
-      "category": "演出"
-    },
-    {
       "raw_hot": 149361,
       "num": 149361,
       "word": "姚润昊死宅味",
@@ -1497,6 +1545,14 @@
       "onboard_time": 1710984388,
       "rank": 38,
       "category": "电影"
+    },
+    {
+      "raw_hot": 145252,
+      "num": 145252,
+      "word": "贾玲 打破偏见最好的办法",
+      "onboard_time": 1711006294,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 144407,
