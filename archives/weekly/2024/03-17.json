@@ -1,6 +1,6 @@
 {
   "startTime": 1710605970310,
-  "endTime": 1710988573525,
+  "endTime": 1710991169547,
   "band_list": [
     {
       "raw_hot": 11692231,
@@ -323,6 +323,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 1900887,
+      "num": 1900887,
+      "word": "我爸把养了六年的猫扔了",
+      "onboard_time": 1710989012,
+      "rank": 0,
+      "category": "情感"
+    },
+    {
       "raw_hot": 1896918,
       "num": 1896918,
       "word": "你愿意为了调休连上7天班吗",
@@ -625,6 +633,14 @@
       "onboard_time": 1710834756,
       "rank": 0,
       "category": "艺人,游戏"
+    },
+    {
+      "raw_hot": 1437127,
+      "num": 521687,
+      "word": "大学生胸部以下突然没知觉被同学送医",
+      "onboard_time": 1710986073,
+      "rank": 10,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 1433129,
@@ -945,6 +961,14 @@
       "onboard_time": 1710771635,
       "rank": 26,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1171254,
+      "num": 1171254,
+      "word": "白客郑合惠子 万合天宜",
+      "onboard_time": 1710986675,
+      "rank": 7,
+      "category": "艺人"
     },
     {
       "raw_hot": 1167637,
@@ -1419,14 +1443,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 908767,
-      "num": 908767,
-      "word": "白客郑合惠子 万合天宜",
-      "onboard_time": 1710986675,
-      "rank": 7,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 908235,
       "num": 908235,
       "word": "杨倩无缘巴黎奥运",
@@ -1611,6 +1627,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 833647,
+      "num": 833647,
+      "word": "黄金",
+      "onboard_time": 1710987634,
+      "rank": 27,
+      "category": "财经"
+    },
+    {
       "raw_hot": 828519,
       "num": 828519,
       "word": "宋轶 红山动物园",
@@ -1649,6 +1673,14 @@
       "onboard_time": 1710767915,
       "rank": 49,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 802157,
+      "num": 802157,
+      "word": "娃哈哈官方旗舰店日销售额下降90%",
+      "onboard_time": 1710990575,
+      "rank": 5,
+      "category": "财经"
     },
     {
       "raw_hot": 799588,
@@ -2251,6 +2283,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 635434,
+      "num": 635434,
+      "word": "窝囊系艺人",
+      "onboard_time": 1710987873,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 635076,
       "num": 635076,
       "word": "黄大宪 朴知元",
@@ -2635,6 +2675,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 575114,
+      "num": 575114,
+      "word": "加拿大快递员11年偷走866台苹果设备",
+      "onboard_time": 1710986311,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 573927,
       "num": 573927,
       "word": "赵丽颖方辟谣推荐知否屠二爷",
@@ -2712,14 +2760,6 @@
       "word": "浙江一5岁女孩确诊长发公主综合征",
       "onboard_time": 1710657995,
       "rank": 20,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 562382,
-      "num": 562382,
-      "word": "加拿大快递员11年偷走866台苹果设备",
-      "onboard_time": 1710986311,
-      "rank": 15,
       "category": "社会新闻"
     },
     {
@@ -3083,14 +3123,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 500899,
-      "num": 528910,
-      "word": "黄金",
-      "onboard_time": 1710987634,
-      "rank": 27,
-      "category": "财经"
-    },
-    {
       "raw_hot": 500884,
       "num": 500884,
       "word": "都柏林偶遇朴宝剑",
@@ -3371,6 +3403,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 462346,
+      "num": 462346,
+      "word": "市监巡查人员被螺蛳粉店增臭剂臭到咳嗽",
+      "onboard_time": 1710988053,
+      "rank": 19,
+      "category": "社会新闻,美食"
+    },
+    {
       "raw_hot": 462159,
       "num": 318895,
       "word": "床垫上的膜到底能不能撕",
@@ -3393,6 +3433,14 @@
       "onboard_time": 1710674376,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 459004,
+      "num": 459004,
+      "word": "张凌赫徐若晗 现偶",
+      "onboard_time": 1710987752,
+      "rank": 43,
+      "category": "剧集"
     },
     {
       "raw_hot": 457664,
@@ -4067,6 +4115,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 386052,
+      "num": 386052,
+      "word": "权杖女王爆锤代拍",
+      "onboard_time": 1710987995,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 386039,
       "num": 386039,
       "word": "大侦探100案评分排名",
@@ -4499,6 +4555,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 340696,
+      "num": 200470,
+      "word": "98年同事因为分手去创业了",
+      "onboard_time": 1710990575,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 340228,
       "num": 340228,
       "word": "宇文玥是你吗",
@@ -4616,6 +4680,14 @@
       "word": "一年级班主任的课间能有多忙",
       "onboard_time": 1710944617,
       "rank": 29,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 327841,
+      "num": 280391,
+      "word": "小猫的鼻子被割掉仍然顽强地生活",
+      "onboard_time": 1710990575,
+      "rank": 20,
       "category": "情感"
     },
     {
@@ -5091,14 +5163,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 298814,
-      "num": 298814,
-      "word": "窝囊系艺人",
-      "onboard_time": 1710987873,
-      "rank": 17,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 298674,
       "num": 298674,
       "word": "杜华让李汶翰去非洲修铁路",
@@ -5131,28 +5195,12 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 296715,
-      "num": 296715,
-      "word": "张凌赫徐若晗 现偶",
-      "onboard_time": 1710987752,
-      "rank": 43,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 296643,
       "num": 296643,
       "word": "笨蛋湘琴",
       "onboard_time": 1710933578,
       "rank": 23,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 296542,
-      "num": 296542,
-      "word": "权杖女王爆锤代拍",
-      "onboard_time": 1710987995,
-      "rank": 20,
-      "category": "艺人"
     },
     {
       "raw_hot": 296191,
@@ -5241,6 +5289,14 @@
       "onboard_time": 1710659791,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 292483,
+      "num": 292483,
+      "word": "医学术语",
+      "onboard_time": 1710990151,
+      "rank": 18,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 292222,
@@ -5699,6 +5755,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 260613,
+      "num": 260613,
+      "word": "洁癖小猫给自己舔毛下不去嘴",
+      "onboard_time": 1710990272,
+      "rank": 21,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 260421,
       "num": 260421,
       "word": "与凤行小凤凰",
@@ -5881,14 +5945,6 @@
       "onboard_time": 1710600037,
       "rank": 17,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 248326,
-      "num": 296618,
-      "word": "市监巡查人员被螺蛳粉店增臭剂臭到咳嗽",
-      "onboard_time": 1710988053,
-      "rank": 19,
-      "category": "社会新闻,美食"
     },
     {
       "raw_hot": 248284,
@@ -6209,6 +6265,14 @@
       "onboard_time": 1710849216,
       "rank": 25,
       "category": "财经"
+    },
+    {
+      "raw_hot": 234168,
+      "num": 234168,
+      "word": "多家螺蛳粉品牌客服回应",
+      "onboard_time": 1710989852,
+      "rank": 23,
+      "category": "社会新闻,美食"
     },
     {
       "raw_hot": 232961,
@@ -7035,6 +7099,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 209858,
+      "num": 200345,
+      "word": "刘学义工作室",
+      "onboard_time": 1710987393,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 209853,
       "num": 157929,
       "word": "周杰伦方回应败诉",
@@ -7161,6 +7233,14 @@
       "onboard_time": 1710985532,
       "rank": 32,
       "category": "情感"
+    },
+    {
+      "raw_hot": 206460,
+      "num": 206460,
+      "word": "王者S35赛季更新",
+      "onboard_time": 1710988590,
+      "rank": 25,
+      "category": "电竞"
     },
     {
       "raw_hot": 206346,
@@ -7449,6 +7529,14 @@
       "onboard_time": 1710752195,
       "rank": 27,
       "category": "演出"
+    },
+    {
+      "raw_hot": 200259,
+      "num": 200259,
+      "word": "肖战横店摄影博主",
+      "onboard_time": 1710988470,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 200245,
@@ -7795,6 +7883,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 193771,
+      "num": 193771,
+      "word": "三体",
+      "onboard_time": 1710990394,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 193692,
       "num": 193692,
       "word": "骑行也开始消费降级了",
@@ -7857,14 +7953,6 @@
       "onboard_time": 1710815912,
       "rank": 31,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 192308,
-      "num": 185885,
-      "word": "刘学义工作室",
-      "onboard_time": 1710987393,
-      "rank": 35,
-      "category": "艺人"
     },
     {
       "raw_hot": 191824,
@@ -8163,6 +8251,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 186591,
+      "num": 186591,
+      "word": "万合天宜",
+      "onboard_time": 1710989612,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 186352,
       "num": 154547,
       "word": "徐海乔备忘录",
@@ -8388,7 +8484,7 @@
     },
     {
       "raw_hot": 181656,
-      "num": 280632,
+      "num": 474695,
       "word": "质疑理解成为",
       "onboard_time": 1710987995,
       "rank": 22,
@@ -8555,6 +8651,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 177351,
+      "num": 177351,
+      "word": "盒子里的猫",
+      "onboard_time": 1710990872,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 177140,
       "num": 177140,
       "word": "向佐体脂低的原因",
@@ -8641,6 +8745,14 @@
       "onboard_time": 1710659375,
       "rank": 44,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 175362,
+      "num": 175362,
+      "word": "身边真的有好多人在重启人生啊",
+      "onboard_time": 1710990510,
+      "rank": 37,
+      "category": "情感"
     },
     {
       "raw_hot": 175335,
@@ -9955,6 +10067,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 149181,
+      "num": 149181,
+      "word": "姐姐回应山东小钺钺被刺伤进ICU",
+      "onboard_time": 1710990510,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 149065,
       "num": 149065,
       "word": "赵今麦捧脸",
@@ -10089,6 +10209,14 @@
       "onboard_time": 1710662853,
       "rank": 47,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 146341,
+      "num": 146341,
+      "word": "外貌对工作影响大不大",
+      "onboard_time": 1710990272,
+      "rank": 41,
+      "category": "情感"
     },
     {
       "raw_hot": 146087,
@@ -10401,14 +10529,6 @@
       "onboard_time": 1710912509,
       "rank": 44,
       "category": "读书作家"
-    },
-    {
-      "raw_hot": 137763,
-      "num": 137763,
-      "word": "肖战横店摄影博主",
-      "onboard_time": 1710988470,
-      "rank": 49,
-      "category": "艺人"
     },
     {
       "raw_hot": 137733,
@@ -10859,6 +10979,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 128630,
+      "num": 128630,
+      "word": "王者刘邦新皮肤",
+      "onboard_time": 1710989133,
+      "rank": 46,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 128545,
       "num": 128545,
       "word": "乌龟披萨",
@@ -10921,6 +11049,14 @@
       "onboard_time": 1710919954,
       "rank": 40,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 126895,
+      "num": 126895,
+      "word": "失眠多梦可能是它造成的",
+      "onboard_time": 1710989852,
+      "rank": 47,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 126619,

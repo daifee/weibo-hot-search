@@ -1,0 +1,410 @@
+{
+  "runTime": 1710991169547,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1900887,
+        "num": 1900887,
+        "word": "我爸把养了六年的猫扔了",
+        "onboard_time": 1710989012,
+        "rank": 0,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 1171254,
+        "num": 1171254,
+        "word": "白客郑合惠子 万合天宜",
+        "onboard_time": 1710986675,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 25472,
+        "num": 977212,
+        "word": "春好正是耕种时",
+        "onboard_time": 1710940054,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 939236,
+        "num": 939236,
+        "word": "千万不要等到胸部不舒服了再重视",
+        "onboard_time": 1710980437,
+        "rank": 3,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 833647,
+        "num": 833647,
+        "word": "黄金",
+        "onboard_time": 1710987634,
+        "rank": 4,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 802157,
+        "num": 802157,
+        "word": "娃哈哈官方旗舰店日销售额下降90%",
+        "onboard_time": 1710990575,
+        "rank": 5,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 635434,
+        "num": 635434,
+        "word": "窝囊系艺人",
+        "onboard_time": 1710987873,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 575114,
+        "num": 575114,
+        "word": "加拿大快递员11年偷走866台苹果设备",
+        "onboard_time": 1710986311,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 552349,
+        "num": 552349,
+        "word": "古驰突然就卖不动了",
+        "onboard_time": 1710982592,
+        "rank": 8,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 534355,
+        "num": 534355,
+        "word": "杨幂黄金",
+        "onboard_time": 1710985289,
+        "rank": 9,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1437127,
+        "num": 521687,
+        "word": "大学生胸部以下突然没知觉被同学送医",
+        "onboard_time": 1710986073,
+        "rank": 10,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 489519,
+        "num": 489519,
+        "word": "螺蛳粉 增臭剂",
+        "onboard_time": 1710983253,
+        "rank": 11,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 131800,
+        "num": 474695,
+        "word": "质疑理解成为",
+        "onboard_time": 1710987995,
+        "rank": 12,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 462346,
+        "num": 462346,
+        "word": "市监巡查人员被螺蛳粉店增臭剂臭到咳嗽",
+        "onboard_time": 1710988053,
+        "rank": 13,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 459004,
+        "num": 459004,
+        "word": "张凌赫徐若晗 现偶",
+        "onboard_time": 1710987752,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 386052,
+        "num": 386052,
+        "word": "权杖女王爆锤代拍",
+        "onboard_time": 1710987995,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 298734,
+        "num": 298734,
+        "word": "被遗弃女婴公示寻找期满前找到亲生父母",
+        "onboard_time": 1710982111,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 297071,
+        "num": 297071,
+        "word": "爱你官宣开机",
+        "onboard_time": 1710986252,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 292483,
+        "num": 292483,
+        "word": "医学术语",
+        "onboard_time": 1710990151,
+        "rank": 18,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 280933,
+        "num": 280933,
+        "word": "陈乔恩 陈欣怡",
+        "onboard_time": 1710983852,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 327841,
+        "num": 280391,
+        "word": "小猫的鼻子被割掉仍然顽强地生活",
+        "onboard_time": 1710990575,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 260613,
+        "num": 260613,
+        "word": "洁癖小猫给自己舔毛下不去嘴",
+        "onboard_time": 1710990272,
+        "rank": 21,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 239128,
+        "num": 239128,
+        "word": "赵丽颖说拍大结局从早哭到晚",
+        "onboard_time": 1710978571,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 234168,
+        "num": 234168,
+        "word": "多家螺蛳粉品牌客服回应",
+        "onboard_time": 1710989852,
+        "rank": 23,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 223439,
+        "num": 223439,
+        "word": "刘学义郑合惠子拥抱镜头",
+        "onboard_time": 1710988232,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 206460,
+        "num": 206460,
+        "word": "王者S35赛季更新",
+        "onboard_time": 1710988590,
+        "rank": 25,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 202761,
+        "num": 202761,
+        "word": "30多岁和20多岁生孩子有啥差别",
+        "onboard_time": 1710977008,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 202713,
+        "num": 202713,
+        "word": "王一博完了完了完了",
+        "onboard_time": 1710978752,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 200620,
+        "num": 200620,
+        "word": "突然发现身边的同龄人都已经买车了",
+        "onboard_time": 1710985532,
+        "rank": 28,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 137345,
+        "num": 200617,
+        "word": "睡不着的时候试试3个不管不顾",
+        "onboard_time": 1710979170,
+        "rank": 29,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 340696,
+        "num": 200470,
+        "word": "98年同事因为分手去创业了",
+        "onboard_time": 1710990575,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 216474,
+        "num": 200416,
+        "word": "檀健次郑合惠子 主持",
+        "onboard_time": 1710984332,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 209858,
+        "num": 200345,
+        "word": "刘学义工作室",
+        "onboard_time": 1710987393,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 200259,
+        "num": 200259,
+        "word": "肖战横店摄影博主",
+        "onboard_time": 1710988470,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 193771,
+        "num": 193771,
+        "word": "三体",
+        "onboard_time": 1710990394,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 186591,
+        "num": 186591,
+        "word": "万合天宜",
+        "onboard_time": 1710989612,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 177351,
+        "num": 177351,
+        "word": "盒子里的猫",
+        "onboard_time": 1710990872,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 175362,
+        "num": 175362,
+        "word": "身边真的有好多人在重启人生啊",
+        "onboard_time": 1710990510,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 174358,
+        "num": 174358,
+        "word": "珠帘玉幕",
+        "onboard_time": 1710987453,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 159702,
+        "num": 159702,
+        "word": "不吃早饭比不吃晚饭危害更大吗",
+        "onboard_time": 1710966616,
+        "rank": 39,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 149181,
+        "num": 149181,
+        "word": "姐姐回应山东小钺钺被刺伤进ICU",
+        "onboard_time": 1710990510,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 146341,
+        "num": 146341,
+        "word": "外貌对工作影响大不大",
+        "onboard_time": 1710990272,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 144456,
+        "num": 144456,
+        "word": "广西螺蛳粉 香的",
+        "onboard_time": 1710987634,
+        "rank": 42,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 144137,
+        "num": 144137,
+        "word": "被优秀的女朋友拿捏了",
+        "onboard_time": 1710985532,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 138903,
+        "num": 138903,
+        "word": "妈妈我不是你的名牌包",
+        "onboard_time": 1710985711,
+        "rank": 44,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 128699,
+        "num": 128699,
+        "word": "结婚邀请了大学室友",
+        "onboard_time": 1710977908,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 128630,
+        "num": 128630,
+        "word": "王者刘邦新皮肤",
+        "onboard_time": 1710989133,
+        "rank": 46,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 126895,
+        "num": 126895,
+        "word": "失眠多梦可能是它造成的",
+        "onboard_time": 1710989852,
+        "rank": 47,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 124888,
+        "num": 124888,
+        "word": "骑行也开始消费降级了",
+        "onboard_time": 1710984933,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 104840,
+        "num": 114996,
+        "word": "金价",
+        "onboard_time": 1710991113,
+        "rank": 49,
+        "category": "财经"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平主持召开新时代推动中部地区崛起座谈会#"
+    }
+  }
+}

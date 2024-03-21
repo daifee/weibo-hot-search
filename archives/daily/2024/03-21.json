@@ -1,6 +1,6 @@
 {
   "startTime": 1710951777162,
-  "endTime": 1710988573525,
+  "endTime": 1710991169547,
   "band_list": [
     {
       "raw_hot": 3011106,
@@ -11,11 +11,27 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 1900887,
+      "num": 1900887,
+      "word": "我爸把养了六年的猫扔了",
+      "onboard_time": 1710989012,
+      "rank": 0,
+      "category": "情感"
+    },
+    {
       "raw_hot": 1640983,
       "num": 1640983,
       "word": "千万不要等到胸部不舒服了再重视",
       "onboard_time": 1710980437,
       "rank": 0,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 1437127,
+      "num": 521687,
+      "word": "大学生胸部以下突然没知觉被同学送医",
+      "onboard_time": 1710986073,
+      "rank": 10,
       "category": "健康医疗"
     },
     {
@@ -33,6 +49,14 @@
       "onboard_time": 1710975682,
       "rank": 3,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1171254,
+      "num": 1171254,
+      "word": "白客郑合惠子 万合天宜",
+      "onboard_time": 1710986675,
+      "rank": 7,
+      "category": "艺人"
     },
     {
       "raw_hot": 1143314,
@@ -59,14 +83,6 @@
       "category": "时尚"
     },
     {
-      "raw_hot": 908767,
-      "num": 908767,
-      "word": "白客郑合惠子 万合天宜",
-      "onboard_time": 1710986675,
-      "rank": 7,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 857922,
       "num": 857922,
       "word": "杨幂黄金",
@@ -75,12 +91,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 833647,
+      "num": 833647,
+      "word": "黄金",
+      "onboard_time": 1710987634,
+      "rank": 27,
+      "category": "财经"
+    },
+    {
       "raw_hot": 809548,
       "num": 809548,
       "word": "凯特",
       "onboard_time": 1710953842,
       "rank": 17,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 802157,
+      "num": 802157,
+      "word": "娃哈哈官方旗舰店日销售额下降90%",
+      "onboard_time": 1710990575,
+      "rank": 5,
+      "category": "财经"
     },
     {
       "raw_hot": 791682,
@@ -147,6 +179,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 635434,
+      "num": 635434,
+      "word": "窝囊系艺人",
+      "onboard_time": 1710987873,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 629177,
       "num": 629177,
       "word": "鹿晗给自己整不好意思了",
@@ -187,8 +227,8 @@
       "category": "情感"
     },
     {
-      "raw_hot": 562382,
-      "num": 562382,
+      "raw_hot": 575114,
+      "num": 575114,
       "word": "加拿大快递员11年偷走866台苹果设备",
       "onboard_time": 1710986311,
       "rank": 15,
@@ -227,14 +267,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 500899,
-      "num": 528910,
-      "word": "黄金",
-      "onboard_time": 1710987634,
-      "rank": 27,
-      "category": "财经"
-    },
-    {
       "raw_hot": 496677,
       "num": 496677,
       "word": "王一博完了完了完了",
@@ -249,6 +281,22 @@
       "onboard_time": 1710939516,
       "rank": 6,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 462346,
+      "num": 462346,
+      "word": "市监巡查人员被螺蛳粉店增臭剂臭到咳嗽",
+      "onboard_time": 1710988053,
+      "rank": 19,
+      "category": "社会新闻,美食"
+    },
+    {
+      "raw_hot": 459004,
+      "num": 459004,
+      "word": "张凌赫徐若晗 现偶",
+      "onboard_time": 1710987752,
+      "rank": 43,
+      "category": "剧集"
     },
     {
       "raw_hot": 408465,
@@ -273,6 +321,14 @@
       "onboard_time": 1710976948,
       "rank": 21,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 386052,
+      "num": 386052,
+      "word": "权杖女王爆锤代拍",
+      "onboard_time": 1710987995,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 376180,
@@ -307,12 +363,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 340696,
+      "num": 200470,
+      "word": "98年同事因为分手去创业了",
+      "onboard_time": 1710990575,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 337796,
       "num": 337796,
       "word": "每天睡多久才算睡够了",
       "onboard_time": 1710977668,
       "rank": 15,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 327841,
+      "num": 280391,
+      "word": "小猫的鼻子被割掉仍然顽强地生活",
+      "onboard_time": 1710990575,
+      "rank": 20,
+      "category": "情感"
     },
     {
       "raw_hot": 326161,
@@ -339,14 +411,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 298814,
-      "num": 298814,
-      "word": "窝囊系艺人",
-      "onboard_time": 1710987873,
-      "rank": 17,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 297366,
       "num": 284172,
       "word": "新款iPadPro被曝更窄边框OLED屏",
@@ -355,20 +419,12 @@
       "category": "数码"
     },
     {
-      "raw_hot": 296715,
-      "num": 296715,
-      "word": "张凌赫徐若晗 现偶",
-      "onboard_time": 1710987752,
-      "rank": 43,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 296542,
-      "num": 296542,
-      "word": "权杖女王爆锤代拍",
-      "onboard_time": 1710987995,
-      "rank": 20,
-      "category": "艺人"
+      "raw_hot": 292483,
+      "num": 292483,
+      "word": "医学术语",
+      "onboard_time": 1710990151,
+      "rank": 18,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 292222,
@@ -435,20 +491,20 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 260613,
+      "num": 260613,
+      "word": "洁癖小猫给自己舔毛下不去嘴",
+      "onboard_time": 1710990272,
+      "rank": 21,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 252283,
       "num": 252283,
       "word": "女性更容易睡不好",
       "onboard_time": 1710986914,
       "rank": 21,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 248326,
-      "num": 296618,
-      "word": "市监巡查人员被螺蛳粉店增臭剂臭到咳嗽",
-      "onboard_time": 1710988053,
-      "rank": 19,
-      "category": "社会新闻,美食"
     },
     {
       "raw_hot": 247881,
@@ -465,6 +521,14 @@
       "onboard_time": 1710984033,
       "rank": 30,
       "category": "美食"
+    },
+    {
+      "raw_hot": 234168,
+      "num": 234168,
+      "word": "多家螺蛳粉品牌客服回应",
+      "onboard_time": 1710989852,
+      "rank": 23,
+      "category": "社会新闻,美食"
     },
     {
       "raw_hot": 229466,
@@ -507,6 +571,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 223439,
+      "num": 223439,
+      "word": "刘学义郑合惠子拥抱镜头",
+      "onboard_time": 1710988232,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 223247,
       "num": 223247,
       "word": "中国资产迎来大涨",
@@ -529,6 +601,14 @@
       "onboard_time": 1710936756,
       "rank": 16,
       "category": "体育"
+    },
+    {
+      "raw_hot": 209858,
+      "num": 200345,
+      "word": "刘学义工作室",
+      "onboard_time": 1710987393,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 209853,
@@ -555,6 +635,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 206460,
+      "num": 206460,
+      "word": "王者S35赛季更新",
+      "onboard_time": 1710988590,
+      "rank": 25,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 205674,
       "num": 205674,
       "word": "金高银撑住了贴头皮造型",
@@ -571,12 +659,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 200788,
-      "num": 200788,
-      "word": "刘学义郑合惠子拥抱镜头",
-      "onboard_time": 1710988232,
-      "rank": 31,
-      "category": "剧集"
+      "raw_hot": 200259,
+      "num": 200259,
+      "word": "肖战横店摄影博主",
+      "onboard_time": 1710988470,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 197877,
@@ -595,6 +683,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 193771,
+      "num": 193771,
+      "word": "三体",
+      "onboard_time": 1710990394,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 193692,
       "num": 193692,
       "word": "骑行也开始消费降级了",
@@ -611,10 +707,10 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 192308,
-      "num": 185885,
-      "word": "刘学义工作室",
-      "onboard_time": 1710987393,
+      "raw_hot": 186591,
+      "num": 186591,
+      "word": "万合天宜",
+      "onboard_time": 1710989612,
       "rank": 35,
       "category": "艺人"
     },
@@ -644,7 +740,7 @@
     },
     {
       "raw_hot": 181656,
-      "num": 280632,
+      "num": 474695,
       "word": "质疑理解成为",
       "onboard_time": 1710987995,
       "rank": 22,
@@ -659,12 +755,28 @@
       "category": "财经"
     },
     {
+      "raw_hot": 177351,
+      "num": 177351,
+      "word": "盒子里的猫",
+      "onboard_time": 1710990872,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 176510,
       "num": 176510,
       "word": "2月龄男婴接种疫苗14天后死亡",
       "onboard_time": 1710935074,
       "rank": 17,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 175362,
+      "num": 175362,
+      "word": "身边真的有好多人在重启人生啊",
+      "onboard_time": 1710990510,
+      "rank": 37,
+      "category": "情感"
     },
     {
       "raw_hot": 172101,
@@ -763,6 +875,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 149181,
+      "num": 149181,
+      "word": "姐姐回应山东小钺钺被刺伤进ICU",
+      "onboard_time": 1710990510,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 147887,
       "num": 133838,
       "word": "打工人开始尝试用刮刮乐打上班卡",
@@ -776,6 +896,14 @@
       "word": "一看就是00后当上了老板",
       "onboard_time": 1710976346,
       "rank": 29,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 146341,
+      "num": 146341,
+      "word": "外貌对工作影响大不大",
+      "onboard_time": 1710990272,
+      "rank": 41,
       "category": "情感"
     },
     {
@@ -801,14 +929,6 @@
       "onboard_time": 1710952407,
       "rank": 38,
       "category": "运动健身"
-    },
-    {
-      "raw_hot": 137763,
-      "num": 137763,
-      "word": "肖战横店摄影博主",
-      "onboard_time": 1710988470,
-      "rank": 49,
-      "category": "艺人"
     },
     {
       "raw_hot": 136194,
@@ -873,6 +993,22 @@
       "onboard_time": 1710948816,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 128630,
+      "num": 128630,
+      "word": "王者刘邦新皮肤",
+      "onboard_time": 1710989133,
+      "rank": 46,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 126895,
+      "num": 126895,
+      "word": "失眠多梦可能是它造成的",
+      "onboard_time": 1710989852,
+      "rank": 47,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 125730,
@@ -945,6 +1081,14 @@
       "onboard_time": 1710934055,
       "rank": 34,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 104840,
+      "num": 114996,
+      "word": "金价",
+      "onboard_time": 1710991113,
+      "rank": 49,
+      "category": "财经"
     },
     {
       "raw_hot": 100748,
