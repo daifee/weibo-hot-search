@@ -1,6 +1,6 @@
 {
   "startTime": 1710605970310,
-  "endTime": 1711027274688,
+  "endTime": 1711028114426,
   "band_list": [
     {
       "raw_hot": 11692231,
@@ -379,6 +379,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1859350,
+      "num": 1859350,
+      "word": "翟潇闻回应说错霸王茶姬",
+      "onboard_time": 1711025960,
+      "rank": 0,
+      "category": "艺人,美食"
+    },
+    {
       "raw_hot": 1859234,
       "num": 1859234,
       "word": "徐娇又勇了",
@@ -481,14 +489,6 @@
       "onboard_time": 1710601838,
       "rank": 0,
       "category": "财经"
-    },
-    {
-      "raw_hot": 1738198,
-      "num": 1738198,
-      "word": "翟潇闻回应说错霸王茶姬",
-      "onboard_time": 1711025960,
-      "rank": 0,
-      "category": "艺人,美食"
     },
     {
       "raw_hot": 1724578,
@@ -867,6 +867,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1298484,
+      "num": 1298484,
+      "word": "瑞幸酱香拿铁被曝销量差",
+      "onboard_time": 1711024579,
+      "rank": 25,
+      "category": "美食"
+    },
+    {
       "raw_hot": 1295454,
       "num": 1295454,
       "word": "北大回应考生与前校长蔡元培同名",
@@ -1097,6 +1105,14 @@
       "onboard_time": 1710936756,
       "rank": 8,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1150216,
+      "num": 1150216,
+      "word": "沈璃行止圆房",
+      "onboard_time": 1711026319,
+      "rank": 6,
+      "category": "剧集"
     },
     {
       "raw_hot": 1147233,
@@ -1379,14 +1395,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 991690,
-      "num": 991690,
-      "word": "瑞幸酱香拿铁被曝销量差",
-      "onboard_time": 1711024579,
-      "rank": 25,
-      "category": "美食"
-    },
-    {
       "raw_hot": 990542,
       "num": 935771,
       "word": "英国王室",
@@ -1491,20 +1499,20 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 954464,
+      "num": 954464,
+      "word": "韩媒为林孝埈鸣不平",
+      "onboard_time": 1711025000,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 953389,
       "num": 953389,
       "word": "路边卖淀粉肠阿姨主动出示声明书",
       "onboard_time": 1710786917,
       "rank": 31,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 951788,
-      "num": 951788,
-      "word": "韩媒为林孝埈鸣不平",
-      "onboard_time": 1711025000,
-      "rank": 30,
-      "category": "体育"
     },
     {
       "raw_hot": 950166,
@@ -1905,14 +1913,6 @@
       "onboard_time": 1710824616,
       "rank": 18,
       "category": "艺人,时尚"
-    },
-    {
-      "raw_hot": 796985,
-      "num": 796985,
-      "word": "沈璃行止圆房",
-      "onboard_time": 1711026319,
-      "rank": 6,
-      "category": "剧集"
     },
     {
       "raw_hot": 795919,
@@ -2395,6 +2395,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 705280,
+      "num": 705280,
+      "word": "李小冉 我没演过小时代",
+      "onboard_time": 1711026859,
+      "rank": 25,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 704618,
       "num": 704618,
       "word": "林俊杰衣服",
@@ -2532,7 +2540,7 @@
     },
     {
       "raw_hot": 661650,
-      "num": 406382,
+      "num": 444074,
       "word": "月薪2万吃不起的百果园栽了",
       "onboard_time": 1711022480,
       "rank": 21,
@@ -2873,6 +2881,14 @@
       "onboard_time": 1710837275,
       "rank": 4,
       "category": "情感"
+    },
+    {
+      "raw_hot": 605738,
+      "num": 553034,
+      "word": "李荣浩纹身照是杨丞琳拍的",
+      "onboard_time": 1711025780,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 604538,
@@ -3483,6 +3499,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 511094,
+      "num": 511094,
+      "word": "追风者 好大的尺度",
+      "onboard_time": 1711027100,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 510453,
       "num": 510453,
       "word": "市监巡查人员被螺蛳粉店增臭剂臭到咳嗽",
@@ -3537,6 +3561,14 @@
       "onboard_time": 1710989852,
       "rank": 23,
       "category": "社会新闻,美食"
+    },
+    {
+      "raw_hot": 507163,
+      "num": 507163,
+      "word": "武磊头球破门",
+      "onboard_time": 1711026019,
+      "rank": 17,
+      "category": "体育"
     },
     {
       "raw_hot": 505211,
@@ -3843,14 +3875,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 468204,
-      "num": 468204,
-      "word": "武磊头球破门",
-      "onboard_time": 1711026019,
-      "rank": 17,
-      "category": "体育"
-    },
-    {
       "raw_hot": 467673,
       "num": 461064,
       "word": "为什么普通人一年存三五万都难",
@@ -4075,6 +4099,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 445135,
+      "num": 445135,
+      "word": "王者荣耀大司命",
+      "onboard_time": 1711026261,
+      "rank": 23,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 444801,
       "num": 330484,
       "word": "沪上阿姨张杰联名",
@@ -4163,12 +4195,28 @@
       "category": "教育"
     },
     {
+      "raw_hot": 434073,
+      "num": 434073,
+      "word": "武磊失点",
+      "onboard_time": 1711027279,
+      "rank": 23,
+      "category": "体育"
+    },
+    {
       "raw_hot": 433790,
       "num": 433790,
       "word": "淀粉肠",
       "onboard_time": 1710637834,
       "rank": 27,
       "category": "美食"
+    },
+    {
+      "raw_hot": 433738,
+      "num": 433738,
+      "word": "男朋友相亲相到了我朋友",
+      "onboard_time": 1711027640,
+      "rank": 24,
+      "category": "幽默"
     },
     {
       "raw_hot": 433192,
@@ -4184,14 +4232,6 @@
       "word": "范丞丞 特步",
       "onboard_time": 1710664051,
       "rank": 27,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 432617,
-      "num": 432617,
-      "word": "李荣浩纹身照是杨丞琳拍的",
-      "onboard_time": 1711025780,
-      "rank": 18,
       "category": "艺人"
     },
     {
@@ -5059,20 +5099,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 353556,
-      "num": 353556,
-      "word": "王者荣耀大司命",
-      "onboard_time": 1711026261,
-      "rank": 23,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 353280,
       "num": 353280,
       "word": "杜海涛演戏",
       "onboard_time": 1710940835,
       "rank": 22,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 353031,
+      "num": 353031,
+      "word": "LOEWE晚宴",
+      "onboard_time": 1711026740,
+      "rank": 41,
+      "category": "时尚,艺人"
     },
     {
       "raw_hot": 352906,
@@ -5345,14 +5385,6 @@
       "onboard_time": 1710944617,
       "rank": 29,
       "category": "情感"
-    },
-    {
-      "raw_hot": 327992,
-      "num": 327992,
-      "word": "李小冉 我没演过小时代",
-      "onboard_time": 1711026859,
-      "rank": 25,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 327841,
@@ -6067,6 +6099,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 287276,
+      "num": 287276,
+      "word": "韩国1比1泰国",
+      "onboard_time": 1711027159,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 286112,
       "num": 286112,
       "word": "12岁男孩每晚10点睡觉全班最矮",
@@ -6721,6 +6761,14 @@
       "onboard_time": 1710746494,
       "rank": 28,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 249700,
+      "num": 249700,
+      "word": "费南多过人",
+      "onboard_time": 1711026378,
+      "rank": 37,
+      "category": "体育"
     },
     {
       "raw_hot": 249638,
@@ -8907,6 +8955,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 196178,
+      "num": 1178188,
+      "word": "花花与春天撞了个满怀",
+      "onboard_time": 1711026620,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 196146,
       "num": 196146,
       "word": "静安寺苹果店开业前大排长龙",
@@ -9009,6 +9065,14 @@
       "onboard_time": 1710749857,
       "rank": 31,
       "category": "数码"
+    },
+    {
+      "raw_hot": 194607,
+      "num": 194607,
+      "word": "鞠婧祎吴佳怡贴贴",
+      "onboard_time": 1711028061,
+      "rank": 39,
+      "category": "剧集"
     },
     {
       "raw_hot": 194540,
@@ -9115,14 +9179,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 193432,
-      "num": 193432,
-      "word": "费南多过人",
-      "onboard_time": 1711026378,
-      "rank": 37,
-      "category": "体育"
-    },
-    {
       "raw_hot": 193307,
       "num": 193307,
       "word": "Cat一诺互怼",
@@ -9209,6 +9265,14 @@
       "onboard_time": 1710641194,
       "rank": 31,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 191551,
+      "num": 191551,
+      "word": "国足客场领先",
+      "onboard_time": 1711027460,
+      "rank": 41,
+      "category": "体育"
     },
     {
       "raw_hot": 191245,
@@ -9691,14 +9755,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 183525,
-      "num": 183525,
-      "word": "LOEWE晚宴",
-      "onboard_time": 1711026740,
-      "rank": 41,
-      "category": "时尚,艺人"
-    },
-    {
       "raw_hot": 183507,
       "num": 183507,
       "word": "猫咪一次外向换来一辈子的内向",
@@ -9739,14 +9795,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 182620,
-      "num": 182620,
-      "word": "追风者 好大的尺度",
-      "onboard_time": 1711027100,
-      "rank": 42,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 182379,
       "num": 182379,
       "word": "朱劲草血脉压制朱大力",
@@ -9769,6 +9817,14 @@
       "onboard_time": 1710743735,
       "rank": 34,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 182226,
+      "num": 182226,
+      "word": "完美世界石昊说等我回来",
+      "onboard_time": 1711027100,
+      "rank": 43,
+      "category": "动漫"
     },
     {
       "raw_hot": 182174,
@@ -10305,14 +10361,6 @@
       "onboard_time": 1710934717,
       "rank": 38,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 172244,
-      "num": 172244,
-      "word": "完美世界石昊说等我回来",
-      "onboard_time": 1711027100,
-      "rank": 43,
-      "category": "动漫"
     },
     {
       "raw_hot": 172027,
@@ -10865,14 +10913,6 @@
       "onboard_time": 1710826597,
       "rank": 29,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 162524,
-      "num": 162524,
-      "word": "韩国1比1泰国",
-      "onboard_time": 1711027159,
-      "rank": 44,
-      "category": "体育"
     },
     {
       "raw_hot": 162510,
@@ -13811,14 +13851,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 89510,
-      "num": 981790,
-      "word": "花花与春天撞了个满怀",
-      "onboard_time": 1711026620,
-      "rank": 2,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 88624,
       "num": 1516040,
       "word": "近日我国将送鹊桥二号奔月",
@@ -14628,7 +14660,7 @@
     },
     {
       "raw_hot": 32412,
-      "num": 184179,
+      "num": 483679,
       "word": "潮汐科技究竟是什么",
       "onboard_time": 1711026980,
       "rank": 39,

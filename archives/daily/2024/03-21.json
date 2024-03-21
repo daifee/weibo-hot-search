@@ -1,6 +1,6 @@
 {
   "startTime": 1710951777162,
-  "endTime": 1711027274688,
+  "endTime": 1711028114426,
   "band_list": [
     {
       "raw_hot": 3011106,
@@ -51,20 +51,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1859350,
+      "num": 1859350,
+      "word": "翟潇闻回应说错霸王茶姬",
+      "onboard_time": 1711025960,
+      "rank": 0,
+      "category": "艺人,美食"
+    },
+    {
       "raw_hot": 1841251,
       "num": 1841251,
       "word": "乱写简历被录取了是种什么体验",
       "onboard_time": 1710999094,
       "rank": 30,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 1738198,
-      "num": 1738198,
-      "word": "翟潇闻回应说错霸王茶姬",
-      "onboard_time": 1711025960,
-      "rank": 0,
-      "category": "艺人,美食"
     },
     {
       "raw_hot": 1724578,
@@ -105,6 +105,14 @@
       "onboard_time": 1711011498,
       "rank": 4,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 1298484,
+      "num": 1298484,
+      "word": "瑞幸酱香拿铁被曝销量差",
+      "onboard_time": 1711024579,
+      "rank": 25,
+      "category": "美食"
     },
     {
       "raw_hot": 1257560,
@@ -163,6 +171,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1150216,
+      "num": 1150216,
+      "word": "沈璃行止圆房",
+      "onboard_time": 1711026319,
+      "rank": 6,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1143314,
       "num": 1143314,
       "word": "不吃早饭比不吃晚饭危害更大吗",
@@ -211,14 +227,6 @@
       "category": "网红"
     },
     {
-      "raw_hot": 991690,
-      "num": 991690,
-      "word": "瑞幸酱香拿铁被曝销量差",
-      "onboard_time": 1711024579,
-      "rank": 25,
-      "category": "美食"
-    },
-    {
       "raw_hot": 959542,
       "num": 959542,
       "word": "玄彬孙艺珍孔刘李栋旭一起看球赛",
@@ -227,8 +235,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 951788,
-      "num": 951788,
+      "raw_hot": 954464,
+      "num": 954464,
       "word": "韩媒为林孝埈鸣不平",
       "onboard_time": 1711025000,
       "rank": 30,
@@ -329,14 +337,6 @@
       "onboard_time": 1710990510,
       "rank": 37,
       "category": "情感"
-    },
-    {
-      "raw_hot": 796985,
-      "num": 796985,
-      "word": "沈璃行止圆房",
-      "onboard_time": 1711026319,
-      "rank": 6,
-      "category": "剧集"
     },
     {
       "raw_hot": 791682,
@@ -467,6 +467,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 705280,
+      "num": 705280,
+      "word": "李小冉 我没演过小时代",
+      "onboard_time": 1711026859,
+      "rank": 25,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 701951,
       "num": 530683,
       "word": "被遗弃女婴公示寻找期满前找到亲生父母",
@@ -508,7 +516,7 @@
     },
     {
       "raw_hot": 661650,
-      "num": 406382,
+      "num": 444074,
       "word": "月薪2万吃不起的百果园栽了",
       "onboard_time": 1711022480,
       "rank": 21,
@@ -584,6 +592,14 @@
       "word": "陈乔恩 陈欣怡",
       "onboard_time": 1710983852,
       "rank": 17,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 605738,
+      "num": 553034,
+      "word": "李荣浩纹身照是杨丞琳拍的",
+      "onboard_time": 1711025780,
+      "rank": 18,
       "category": "艺人"
     },
     {
@@ -683,6 +699,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 511094,
+      "num": 511094,
+      "word": "追风者 好大的尺度",
+      "onboard_time": 1711027100,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 510453,
       "num": 510453,
       "word": "市监巡查人员被螺蛳粉店增臭剂臭到咳嗽",
@@ -721,6 +745,14 @@
       "onboard_time": 1710989852,
       "rank": 23,
       "category": "社会新闻,美食"
+    },
+    {
+      "raw_hot": 507163,
+      "num": 507163,
+      "word": "武磊头球破门",
+      "onboard_time": 1711026019,
+      "rank": 17,
+      "category": "体育"
     },
     {
       "raw_hot": 496677,
@@ -779,14 +811,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 468204,
-      "num": 468204,
-      "word": "武磊头球破门",
-      "onboard_time": 1711026019,
-      "rank": 17,
-      "category": "体育"
-    },
-    {
       "raw_hot": 462354,
       "num": 462354,
       "word": "茶百道口令",
@@ -819,6 +843,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 445135,
+      "num": 445135,
+      "word": "王者荣耀大司命",
+      "onboard_time": 1711026261,
+      "rank": 23,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 440296,
       "num": 440296,
       "word": "郑恩彩金忠宰恋情",
@@ -843,12 +875,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 432617,
-      "num": 432617,
-      "word": "李荣浩纹身照是杨丞琳拍的",
-      "onboard_time": 1711025780,
-      "rank": 18,
-      "category": "艺人"
+      "raw_hot": 434073,
+      "num": 434073,
+      "word": "武磊失点",
+      "onboard_time": 1711027279,
+      "rank": 23,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 433738,
+      "num": 433738,
+      "word": "男朋友相亲相到了我朋友",
+      "onboard_time": 1711027640,
+      "rank": 24,
+      "category": "幽默"
     },
     {
       "raw_hot": 431383,
@@ -995,12 +1035,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 353556,
-      "num": 353556,
-      "word": "王者荣耀大司命",
-      "onboard_time": 1711026261,
-      "rank": 23,
-      "category": "电竞"
+      "raw_hot": 353031,
+      "num": 353031,
+      "word": "LOEWE晚宴",
+      "onboard_time": 1711026740,
+      "rank": 41,
+      "category": "时尚,艺人"
     },
     {
       "raw_hot": 351694,
@@ -1049,14 +1089,6 @@
       "onboard_time": 1710994477,
       "rank": 32,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 327992,
-      "num": 327992,
-      "word": "李小冉 我没演过小时代",
-      "onboard_time": 1711026859,
-      "rank": 25,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 327841,
@@ -1145,6 +1177,14 @@
       "onboard_time": 1711025300,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 287276,
+      "num": 287276,
+      "word": "韩国1比1泰国",
+      "onboard_time": 1711027159,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 286112,
@@ -1313,6 +1353,14 @@
       "onboard_time": 1711002091,
       "rank": 47,
       "category": "情感"
+    },
+    {
+      "raw_hot": 249700,
+      "num": 249700,
+      "word": "费南多过人",
+      "onboard_time": 1711026378,
+      "rank": 37,
+      "category": "体育"
     },
     {
       "raw_hot": 247881,
@@ -1787,6 +1835,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 198809,
+      "num": 198809,
+      "word": "与凤行热度",
+      "onboard_time": 1711027819,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 198679,
       "num": 137368,
       "word": "钱可以左右人的生活吗",
@@ -1835,6 +1891,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 196178,
+      "num": 1178188,
+      "word": "花花与春天撞了个满怀",
+      "onboard_time": 1711026620,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 196146,
       "num": 196146,
       "word": "静安寺苹果店开业前大排长龙",
@@ -1849,6 +1913,14 @@
       "onboard_time": 1711020979,
       "rank": 34,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 194607,
+      "num": 194607,
+      "word": "鞠婧祎吴佳怡贴贴",
+      "onboard_time": 1711028061,
+      "rank": 39,
+      "category": "剧集"
     },
     {
       "raw_hot": 194460,
@@ -1907,14 +1979,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 193432,
-      "num": 193432,
-      "word": "费南多过人",
-      "onboard_time": 1711026378,
-      "rank": 37,
-      "category": "体育"
-    },
-    {
       "raw_hot": 193109,
       "num": 193109,
       "word": "与凤行",
@@ -1936,6 +2000,14 @@
       "word": "国足打破进球荒",
       "onboard_time": 1711026081,
       "rank": 40,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 191551,
+      "num": 191551,
+      "word": "国足客场领先",
+      "onboard_time": 1711027460,
+      "rank": 41,
       "category": "体育"
     },
     {
@@ -2035,14 +2107,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 183525,
-      "num": 183525,
-      "word": "LOEWE晚宴",
-      "onboard_time": 1711026740,
-      "rank": 41,
-      "category": "时尚,艺人"
-    },
-    {
       "raw_hot": 183029,
       "num": 183029,
       "word": "LNG回应管泽元",
@@ -2051,20 +2115,20 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 182620,
-      "num": 182620,
-      "word": "追风者 好大的尺度",
-      "onboard_time": 1711027100,
-      "rank": 42,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 182375,
       "num": 182375,
       "word": "黄莺 无期迷途",
       "onboard_time": 1711013959,
       "rank": 32,
       "category": "游戏,艺人"
+    },
+    {
+      "raw_hot": 182226,
+      "num": 182226,
+      "word": "完美世界石昊说等我回来",
+      "onboard_time": 1711027100,
+      "rank": 43,
+      "category": "动漫"
     },
     {
       "raw_hot": 182063,
@@ -2169,14 +2233,6 @@
       "onboard_time": 1711019780,
       "rank": 41,
       "category": "演出"
-    },
-    {
-      "raw_hot": 172244,
-      "num": 172244,
-      "word": "完美世界石昊说等我回来",
-      "onboard_time": 1711027100,
-      "rank": 43,
-      "category": "动漫"
     },
     {
       "raw_hot": 172101,
@@ -2321,14 +2377,6 @@
       "onboard_time": 1710991832,
       "rank": 42,
       "category": "财经"
-    },
-    {
-      "raw_hot": 162524,
-      "num": 162524,
-      "word": "韩国1比1泰国",
-      "onboard_time": 1711027159,
-      "rank": 44,
-      "category": "体育"
     },
     {
       "raw_hot": 162187,
@@ -3011,14 +3059,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 89510,
-      "num": 981790,
-      "word": "花花与春天撞了个满怀",
-      "onboard_time": 1711026620,
-      "rank": 2,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 87801,
       "num": 90525,
       "word": "Uzi被提名LOL历史第二人",
@@ -3300,7 +3340,7 @@
     },
     {
       "raw_hot": 32412,
-      "num": 184179,
+      "num": 483679,
       "word": "潮汐科技究竟是什么",
       "onboard_time": 1711026980,
       "rank": 39,
