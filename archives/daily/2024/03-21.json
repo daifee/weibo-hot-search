@@ -1,6 +1,6 @@
 {
   "startTime": 1710951777162,
-  "endTime": 1711012617700,
+  "endTime": 1711013666228,
   "band_list": [
     {
       "raw_hot": 3011106,
@@ -75,6 +75,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 1415494,
+      "num": 1415494,
+      "word": "普京被正式宣布选举获胜",
+      "onboard_time": 1711011498,
+      "rank": 4,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 1255856,
       "num": 602799,
       "word": "关晓彤短发",
@@ -131,6 +139,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 1083035,
+      "num": 1083035,
+      "word": "别被8小时睡眠论给骗了",
+      "onboard_time": 1711005752,
+      "rank": 30,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 1018886,
       "num": 1018886,
       "word": "甄嬛传原定结局",
@@ -145,22 +161,6 @@
       "onboard_time": 1710996936,
       "rank": 6,
       "category": "网红"
-    },
-    {
-      "raw_hot": 1001326,
-      "num": 1001326,
-      "word": "别被8小时睡眠论给骗了",
-      "onboard_time": 1711005752,
-      "rank": 30,
-      "category": "健康医疗"
-    },
-    {
-      "raw_hot": 987865,
-      "num": 987865,
-      "word": "普京被正式宣布选举获胜",
-      "onboard_time": 1711011498,
-      "rank": 4,
-      "category": "国外时政"
     },
     {
       "raw_hot": 950166,
@@ -299,6 +299,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 712233,
+      "num": 572331,
+      "word": "教育局回应校园欺凌生最后投档",
+      "onboard_time": 1711008858,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 711049,
       "num": 711049,
       "word": "金世佳猎罪图鉴2路透",
@@ -435,14 +443,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 572331,
-      "num": 572331,
-      "word": "教育局回应校园欺凌生最后投档",
-      "onboard_time": 1711008858,
-      "rank": 39,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 548824,
       "num": 548824,
       "word": "胸部自检",
@@ -515,6 +515,14 @@
       "category": "社会新闻,美食"
     },
     {
+      "raw_hot": 499390,
+      "num": 499390,
+      "word": "三体 要剧情有特效",
+      "onboard_time": 1711011679,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 496677,
       "num": 496677,
       "word": "王一博完了完了完了",
@@ -547,6 +555,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 479285,
+      "num": 479285,
+      "word": "周也喊张淼怡",
+      "onboard_time": 1711010779,
+      "rank": 14,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 476754,
       "num": 476754,
       "word": "导演回应短剧遗照被指用李沁证件照",
@@ -577,14 +593,6 @@
       "onboard_time": 1710994716,
       "rank": 22,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 453655,
-      "num": 453655,
-      "word": "周也喊张淼怡",
-      "onboard_time": 1711010779,
-      "rank": 14,
-      "category": "剧集"
     },
     {
       "raw_hot": 440296,
@@ -651,14 +659,6 @@
       "category": "电影,动漫"
     },
     {
-      "raw_hot": 391285,
-      "num": 186947,
-      "word": "三体 要剧情有特效",
-      "onboard_time": 1711011679,
-      "rank": 30,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 389805,
       "num": 389805,
       "word": "行云去世",
@@ -688,6 +688,14 @@
       "word": "离职员工给前公司寄了头猪",
       "onboard_time": 1711007119,
       "rank": 13,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 376763,
+      "num": 376763,
+      "word": "英航乘务员种族歧视中国乘客",
+      "onboard_time": 1711012519,
+      "rank": 49,
       "category": "社会新闻"
     },
     {
@@ -857,6 +865,14 @@
       "onboard_time": 1710985711,
       "rank": 28,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 286341,
+      "num": 286341,
+      "word": "院方回应两名医学生先后自杀情况属实",
+      "onboard_time": 1711013479,
+      "rank": 18,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 286112,
@@ -1283,6 +1299,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 201678,
+      "num": 201678,
+      "word": "理想汽车股价跳水",
+      "onboard_time": 1711013179,
+      "rank": 26,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 201047,
       "num": 201047,
       "word": "张琳芃担任国足队长",
@@ -1459,6 +1483,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 182063,
+      "num": 182063,
+      "word": "多省市教育部门就校园欺凌案密集发声",
+      "onboard_time": 1711012998,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 181656,
       "num": 474695,
       "word": "质疑理解成为",
@@ -1563,6 +1595,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 169777,
+      "num": 169777,
+      "word": "理想汽车下调一季度交付量预期",
+      "onboard_time": 1711012699,
+      "rank": 32,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 168967,
       "num": 168967,
       "word": "被女朋友改造后的房子",
@@ -1585,6 +1625,14 @@
       "onboard_time": 1711004132,
       "rank": 36,
       "category": "情感,艺人"
+    },
+    {
+      "raw_hot": 166452,
+      "num": 166452,
+      "word": "李明德杀青照",
+      "onboard_time": 1711013539,
+      "rank": 33,
+      "category": "剧集"
     },
     {
       "raw_hot": 166355,
@@ -1617,6 +1665,14 @@
       "onboard_time": 1710977187,
       "rank": 24,
       "category": "情感"
+    },
+    {
+      "raw_hot": 163825,
+      "num": 163825,
+      "word": "LOEWE活动",
+      "onboard_time": 1711012099,
+      "rank": 38,
+      "category": "时尚"
     },
     {
       "raw_hot": 162676,
@@ -1667,6 +1723,22 @@
       "category": "情感"
     },
     {
+      "raw_hot": 158471,
+      "num": 158471,
+      "word": "童瑶回应都市剧是统治区",
+      "onboard_time": 1711012339,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 158007,
+      "num": 158007,
+      "word": "张馨予在东北光腿",
+      "onboard_time": 1711013418,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 155818,
       "num": 155818,
       "word": "锦月如歌杀青",
@@ -1699,28 +1771,12 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 152607,
-      "num": 152607,
-      "word": "LOEWE活动",
-      "onboard_time": 1711012099,
-      "rank": 38,
-      "category": "时尚"
-    },
-    {
       "raw_hot": 152421,
       "num": 152421,
       "word": "杨迪回复沈梦辰",
       "onboard_time": 1710978449,
       "rank": 38,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 152141,
-      "num": 152141,
-      "word": "童瑶回应都市剧是统治区",
-      "onboard_time": 1711012339,
-      "rank": 39,
-      "category": "剧集"
     },
     {
       "raw_hot": 151406,
@@ -2075,14 +2131,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 121786,
-      "num": 121786,
-      "word": "英航乘务员种族歧视中国乘客",
-      "onboard_time": 1711012519,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 120549,
       "num": 120549,
       "word": "唐嫣直播状态",
@@ -2379,7 +2427,7 @@
       "category": "美食"
     },
     {
-      "raw_hot": 57424,
+      "raw_hot": 58950,
       "num": 531778,
       "word": "小米Civi4Pro首发评测",
       "onboard_time": 1711011259,
@@ -2475,20 +2523,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 44578,
+      "num": 1007326,
+      "word": "用课本封面打开春耕画卷",
+      "onboard_time": 1710995737,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 42001,
       "num": 46286,
       "word": "吴磊居家男友风",
       "onboard_time": 1710940179,
       "rank": 47,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 37814,
-      "num": 1007326,
-      "word": "用课本封面打开春耕画卷",
-      "onboard_time": 1710995737,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 29924,
