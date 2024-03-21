@@ -1,6 +1,6 @@
 {
   "startTime": 1710951777162,
-  "endTime": 1711019720707,
+  "endTime": 1711020848440,
   "band_list": [
     {
       "raw_hot": 3011106,
@@ -179,6 +179,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 959542,
+      "num": 959542,
+      "word": "玄彬孙艺珍孔刘李栋旭一起看球赛",
+      "onboard_time": 1711018219,
+      "rank": 3,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 950166,
       "num": 950166,
       "word": "女生真的不能带着情绪过夜",
@@ -203,20 +211,20 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 913746,
+      "num": 913746,
+      "word": "反诈老陈晒2023年收入",
+      "onboard_time": 1711018397,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 896661,
       "num": 896661,
       "word": "黄金",
       "onboard_time": 1710987634,
       "rank": 27,
       "category": "财经"
-    },
-    {
-      "raw_hot": 886949,
-      "num": 886949,
-      "word": "玄彬孙艺珍孔刘李栋旭一起看球赛",
-      "onboard_time": 1711018219,
-      "rank": 3,
-      "category": "艺人"
     },
     {
       "raw_hot": 877539,
@@ -249,6 +257,14 @@
       "onboard_time": 1710985289,
       "rank": 5,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 835920,
+      "num": 835920,
+      "word": "清华大学巅班",
+      "onboard_time": 1711018160,
+      "rank": 6,
+      "category": "教育"
     },
     {
       "raw_hot": 814243,
@@ -393,14 +409,6 @@
       "onboard_time": 1711006173,
       "rank": 27,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 695738,
-      "num": 695738,
-      "word": "清华大学巅班",
-      "onboard_time": 1711018160,
-      "rank": 6,
-      "category": "教育"
     },
     {
       "raw_hot": 692641,
@@ -675,6 +683,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 457456,
+      "num": 457456,
+      "word": "gidle MLB舞台",
+      "onboard_time": 1711018700,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 440296,
       "num": 440296,
       "word": "郑恩彩金忠宰恋情",
@@ -704,14 +720,6 @@
       "word": "公共卫生间为什么不能明确写明男女",
       "onboard_time": 1710994292,
       "rank": 29,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 427926,
-      "num": 427926,
-      "word": "反诈老陈晒2023年收入",
-      "onboard_time": 1711018397,
-      "rank": 12,
       "category": "社会新闻"
     },
     {
@@ -747,6 +755,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 401098,
+      "num": 401098,
+      "word": "梦中梦中梦中梦中梦",
+      "onboard_time": 1711019300,
+      "rank": 31,
+      "category": "情感"
+    },
+    {
       "raw_hot": 394174,
       "num": 394174,
       "word": "宫崎骏新作唯一互动是中国观众",
@@ -769,6 +785,14 @@
       "onboard_time": 1710987995,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 380224,
+      "num": 307899,
+      "word": "lululemon爆火后被lulu们收割",
+      "onboard_time": 1711018461,
+      "rank": 20,
+      "category": "运动健身"
     },
     {
       "raw_hot": 379514,
@@ -923,12 +947,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 307899,
-      "num": 307899,
-      "word": "lululemon爆火后被lulu们收割",
-      "onboard_time": 1711018461,
-      "rank": 20,
-      "category": "运动健身"
+      "raw_hot": 302536,
+      "num": 302536,
+      "word": "花间令直播",
+      "onboard_time": 1711019959,
+      "rank": 19,
+      "category": "剧集"
     },
     {
       "raw_hot": 301303,
@@ -937,14 +961,6 @@
       "onboard_time": 1710947855,
       "rank": 15,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 299905,
-      "num": 312308,
-      "word": "gidle MLB舞台",
-      "onboard_time": 1711018700,
-      "rank": 18,
-      "category": "综艺"
     },
     {
       "raw_hot": 299494,
@@ -1035,8 +1051,8 @@
       "category": "情感"
     },
     {
-      "raw_hot": 271282,
-      "num": 271282,
+      "raw_hot": 271755,
+      "num": 271755,
       "word": "你手机号的前主人是什么人",
       "onboard_time": 1711017979,
       "rank": 23,
@@ -1107,6 +1123,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 252634,
+      "num": 252634,
+      "word": "代号鸢 战斗爽",
+      "onboard_time": 1711019359,
+      "rank": 32,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 252283,
       "num": 252283,
       "word": "女性更容易睡不好",
@@ -1155,6 +1179,22 @@
       "category": "数码"
     },
     {
+      "raw_hot": 240797,
+      "num": 240797,
+      "word": "这场爆改闹剧什么时候结束",
+      "onboard_time": 1711019060,
+      "rank": 33,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 240649,
+      "num": 240649,
+      "word": "杨幂重返小时代取景地",
+      "onboard_time": 1711019060,
+      "rank": 26,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 240162,
       "num": 240162,
       "word": "赵露思深海美人鱼",
@@ -1193,14 +1233,6 @@
       "onboard_time": 1710996994,
       "rank": 26,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 229723,
-      "num": 229723,
-      "word": "杨幂重返小时代取景地",
-      "onboard_time": 1711019060,
-      "rank": 26,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 229466,
@@ -1292,7 +1324,7 @@
     },
     {
       "raw_hot": 221477,
-      "num": 221477,
+      "num": 229379,
       "word": "国足首发",
       "onboard_time": 1711018098,
       "rank": 29,
@@ -1339,6 +1371,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 214551,
+      "num": 214551,
+      "word": "卵巢癌为何一发现就是晚期",
+      "onboard_time": 1711016599,
+      "rank": 39,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 213466,
       "num": 275794,
       "word": "鲜芋仙全国门店启动自查",
@@ -1353,14 +1393,6 @@
       "onboard_time": 1710992136,
       "rank": 35,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 212689,
-      "num": 212689,
-      "word": "卵巢癌为何一发现就是晚期",
-      "onboard_time": 1711016599,
-      "rank": 39,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 211013,
@@ -1419,6 +1451,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 208164,
+      "num": 208164,
+      "word": "电视剧追风者",
+      "onboard_time": 1711020437,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 208156,
       "num": 208156,
       "word": "猎罪图鉴",
@@ -1449,14 +1489,6 @@
       "onboard_time": 1711014980,
       "rank": 28,
       "category": "数码"
-    },
-    {
-      "raw_hot": 206122,
-      "num": 206122,
-      "word": "梦中梦中梦中梦中梦",
-      "onboard_time": 1711019300,
-      "rank": 31,
-      "category": "情感"
     },
     {
       "raw_hot": 205730,
@@ -1497,6 +1529,14 @@
       "onboard_time": 1710995678,
       "rank": 37,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 202300,
+      "num": 202300,
+      "word": "Fate打歌舞台",
+      "onboard_time": 1711020380,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 201678,
@@ -1547,14 +1587,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 198320,
-      "num": 198320,
-      "word": "代号鸢 战斗爽",
-      "onboard_time": 1711019359,
-      "rank": 32,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 197877,
       "num": 197877,
       "word": "一根黄瓜对猫的杀伤力有多大",
@@ -1563,12 +1595,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 197368,
-      "num": 197368,
-      "word": "这场爆改闹剧什么时候结束",
-      "onboard_time": 1711019060,
-      "rank": 33,
-      "category": "作品衍生"
+      "raw_hot": 197410,
+      "num": 191183,
+      "word": "网飞三体 古筝行动",
+      "onboard_time": 1711020079,
+      "rank": 37,
+      "category": "剧集"
     },
     {
       "raw_hot": 196235,
@@ -1641,6 +1673,14 @@
       "onboard_time": 1710982952,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 192446,
+      "num": 192446,
+      "word": "库克现身苹果静安店",
+      "onboard_time": 1711020259,
+      "rank": 36,
+      "category": "数码"
     },
     {
       "raw_hot": 190264,
@@ -1747,6 +1787,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 180408,
+      "num": 180408,
+      "word": "杨幂多巴胺美甲",
+      "onboard_time": 1711019841,
+      "rank": 40,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 179760,
       "num": 179760,
       "word": "凤凰传奇演唱会 足球赛",
@@ -1808,6 +1856,14 @@
       "word": "张杰演唱会",
       "onboard_time": 1710997535,
       "rank": 38,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 172810,
+      "num": 172810,
+      "word": "凤凰传奇常州",
+      "onboard_time": 1711019780,
+      "rank": 41,
       "category": "演出"
     },
     {
@@ -2043,6 +2099,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 152910,
+      "num": 152910,
+      "word": "白羊座不会被爱征服",
+      "onboard_time": 1711019599,
+      "rank": 49,
+      "category": "情感"
+    },
+    {
       "raw_hot": 152689,
       "num": 220367,
       "word": "武氏映春任越南国家代主席",
@@ -2179,6 +2243,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 141847,
+      "num": 180935,
+      "word": "台湾花莲县附近发生4.5级左右地震",
+      "onboard_time": 1711020498,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 140378,
       "num": 140378,
       "word": "电视剧小日子扫楼",
@@ -2305,14 +2377,6 @@
       "onboard_time": 1710940835,
       "rank": 24,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 130535,
-      "num": 130535,
-      "word": "白羊座不会被爱征服",
-      "onboard_time": 1711019599,
-      "rank": 49,
-      "category": "情感"
     },
     {
       "raw_hot": 130093,
