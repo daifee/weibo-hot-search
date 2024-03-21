@@ -1,6 +1,6 @@
 {
   "startTime": 1711038208925,
-  "endTime": 1711059412157,
+  "endTime": 1711060437866,
   "band_list": [
     {
       "raw_hot": 1725156,
@@ -171,6 +171,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 235551,
+      "num": 235551,
+      "word": "凭什么要禁止东北人做翻译啊",
+      "onboard_time": 1711041073,
+      "rank": 46,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 235328,
+      "num": 235328,
+      "word": "女子家门口凌晨4点被人做三角标记",
+      "onboard_time": 1711049350,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 225638,
       "num": 225638,
       "word": "杜海涛 夏油杰",
@@ -217,22 +233,6 @@
       "onboard_time": 1711026261,
       "rank": 25,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 190140,
-      "num": 167379,
-      "word": "凭什么要禁止东北人做翻译啊",
-      "onboard_time": 1711041073,
-      "rank": 46,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 167083,
-      "num": 167083,
-      "word": "女子家门口凌晨4点被人做三角标记",
-      "onboard_time": 1711049350,
-      "rank": 45,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 165836,
@@ -347,6 +347,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 107450,
+      "num": 108778,
+      "word": "反诈老陈晒2023年收入",
+      "onboard_time": 1711018397,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 107118,
       "num": 107118,
       "word": "朱劲草被停职",
@@ -361,14 +369,6 @@
       "onboard_time": 1711030521,
       "rank": 43,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 103764,
-      "num": 108778,
-      "word": "反诈老陈晒2023年收入",
-      "onboard_time": 1711018397,
-      "rank": 38,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 102127,
@@ -427,6 +427,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 69080,
+      "num": 69080,
+      "word": "公司全勤500属实把我拿捏住了",
+      "onboard_time": 1711058531,
+      "rank": 27,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 68814,
       "num": 157160,
       "word": "预制菜明确不允许添加防腐剂",
@@ -460,7 +468,7 @@
     },
     {
       "raw_hot": 50094,
-      "num": 42537,
+      "num": 45028,
       "word": "何炅演发疯",
       "onboard_time": 1711052651,
       "rank": 30,
@@ -491,14 +499,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 34975,
-      "num": 34975,
-      "word": "公司全勤500属实把我拿捏住了",
-      "onboard_time": 1711058531,
-      "rank": 27,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 31194,
       "num": 31194,
       "word": "王若顿口播",
@@ -515,20 +515,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 20079,
-      "num": 20079,
-      "word": "妈妈救了我好多次",
-      "onboard_time": 1711052351,
-      "rank": 41,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 19841,
-      "num": 19841,
+      "raw_hot": 25255,
+      "num": 25255,
       "word": "黄健翔谈中国男足客场对战新加坡",
       "onboard_time": 1711057390,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 23149,
+      "num": 23149,
+      "word": "妈妈救了我好多次",
+      "onboard_time": 1711052351,
+      "rank": 41,
+      "category": "情感"
     },
     {
       "raw_hot": 14244,
@@ -563,7 +563,7 @@
       "category": "情感"
     },
     {
-      "raw_hot": 11074,
+      "raw_hot": 12415,
       "num": 364264,
       "word": "今年春耕科技范儿满满",
       "onboard_time": 1711026378,
