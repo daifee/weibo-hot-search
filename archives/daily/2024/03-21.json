@@ -1,6 +1,6 @@
 {
   "startTime": 1710951777162,
-  "endTime": 1711006450585,
+  "endTime": 1711009241203,
   "band_list": [
     {
       "raw_hot": 3011106,
@@ -131,6 +131,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 1004291,
+      "num": 1004291,
+      "word": "乳房自检不能捏而要按",
+      "onboard_time": 1711005454,
+      "rank": 22,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 950166,
       "num": 950166,
       "word": "女生真的不能带着情绪过夜",
@@ -179,6 +187,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 842919,
+      "num": 842919,
+      "word": "鲜芋仙致歉声明",
+      "onboard_time": 1711006700,
+      "rank": 4,
+      "category": "美食,社会新闻"
+    },
+    {
       "raw_hot": 809548,
       "num": 809548,
       "word": "凯特",
@@ -217,6 +233,14 @@
       "onboard_time": 1710930218,
       "rank": 10,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 779087,
+      "num": 779087,
+      "word": "甄嬛传原定结局",
+      "onboard_time": 1711007133,
+      "rank": 5,
+      "category": "剧集"
     },
     {
       "raw_hot": 740345,
@@ -267,6 +291,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 701040,
+      "num": 701040,
+      "word": "吴彦祖 贾玲惊人的转变令人瞠目结舌",
+      "onboard_time": 1711006173,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 692641,
       "num": 692641,
       "word": "素媛案罪犯赵斗淳又被判了",
@@ -276,7 +308,7 @@
     },
     {
       "raw_hot": 678317,
-      "num": 480635,
+      "num": 518410,
       "word": "科学家成功清除已感染的艾滋病毒",
       "onboard_time": 1711002874,
       "rank": 42,
@@ -571,6 +603,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 376897,
+      "num": 376897,
+      "word": "离职员工给前公司寄了头猪",
+      "onboard_time": 1711007119,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 376180,
       "num": 376180,
       "word": "行云念了沈璃一辈子",
@@ -595,20 +635,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 366804,
+      "num": 366804,
+      "word": "别被8小时睡眠论给骗了",
+      "onboard_time": 1711005752,
+      "rank": 30,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 356805,
       "num": 356805,
       "word": "电影红楼梦秦可卿造型引争议",
       "onboard_time": 1710983734,
       "rank": 15,
       "category": "电影"
-    },
-    {
-      "raw_hot": 355761,
-      "num": 242906,
-      "word": "乳房自检不能捏而要按",
-      "onboard_time": 1711005454,
-      "rank": 22,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 355754,
@@ -795,6 +835,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 269422,
+      "num": 638663,
+      "word": "这几个不良睡姿你中招了吗",
+      "onboard_time": 1711006879,
+      "rank": 8,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 262542,
       "num": 262542,
       "word": "贾玲现身好莱坞片场",
@@ -899,6 +947,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 235240,
+      "num": 235240,
+      "word": "周也面容ID无法识别",
+      "onboard_time": 1711007719,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 231160,
       "num": 231160,
       "word": "周也 禾晏是天生的将星",
@@ -964,7 +1020,7 @@
     },
     {
       "raw_hot": 225878,
-      "num": 289474,
+      "num": 570399,
       "word": "柳州螺蛳粉协会秘书长谈增臭剂",
       "onboard_time": 1711002030,
       "rank": 38,
@@ -1107,12 +1163,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 202804,
-      "num": 202804,
-      "word": "吴彦祖 贾玲惊人的转变令人瞠目结舌",
-      "onboard_time": 1711006173,
+      "raw_hot": 203912,
+      "num": 203912,
+      "word": "承欢记开始招商",
+      "onboard_time": 1711008259,
       "rank": 27,
-      "category": "艺人"
+      "category": "剧集"
     },
     {
       "raw_hot": 202749,
@@ -1153,14 +1209,6 @@
       "onboard_time": 1710978931,
       "rank": 27,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 196492,
-      "num": 196492,
-      "word": "别被8小时睡眠论给骗了",
-      "onboard_time": 1711005752,
-      "rank": 30,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 196235,
@@ -1307,6 +1355,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 179270,
+      "num": 179270,
+      "word": "猫咪出去玩偷了只三花回来",
+      "onboard_time": 1711006519,
+      "rank": 31,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 176510,
       "num": 176510,
       "word": "2月龄男婴接种疫苗14天后死亡",
@@ -1320,6 +1376,14 @@
       "word": "恩利谈吐",
       "onboard_time": 1710997892,
       "rank": 37,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 174777,
+      "num": 174777,
+      "word": "李荣浩晒麻雀文身",
+      "onboard_time": 1711007659,
+      "rank": 32,
       "category": "艺人"
     },
     {
@@ -1363,12 +1427,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 169541,
+      "num": 169541,
+      "word": "网飞三体特效",
+      "onboard_time": 1711008559,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 168967,
       "num": 168967,
       "word": "被女朋友改造后的房子",
       "onboard_time": 1711001911,
       "rank": 43,
       "category": "情感"
+    },
+    {
+      "raw_hot": 167264,
+      "num": 167264,
+      "word": "贾玲 打破偏见最好的办法",
+      "onboard_time": 1711006294,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 167018,
@@ -1443,12 +1523,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 159539,
+      "num": 159539,
+      "word": "修杰楷被殴后首露面",
+      "onboard_time": 1711009171,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 158892,
       "num": 158892,
       "word": "外貌对工作影响大不大",
       "onboard_time": 1710990272,
       "rank": 41,
       "category": "情感"
+    },
+    {
+      "raw_hot": 158499,
+      "num": 158499,
+      "word": "教育局回应校园欺凌生最后投档",
+      "onboard_time": 1711008858,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 155818,
@@ -1499,6 +1595,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 150827,
+      "num": 150827,
+      "word": "祝绪丹直播",
+      "onboard_time": 1711008678,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 149361,
       "num": 149361,
       "word": "姚润昊死宅味",
@@ -1545,14 +1649,6 @@
       "onboard_time": 1710984388,
       "rank": 38,
       "category": "电影"
-    },
-    {
-      "raw_hot": 145252,
-      "num": 145252,
-      "word": "贾玲 打破偏见最好的办法",
-      "onboard_time": 1711006294,
-      "rank": 39,
-      "category": "艺人"
     },
     {
       "raw_hot": 144407,
@@ -1731,6 +1827,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 127932,
+      "num": 529080,
+      "word": "原来淘宝店主都这么美",
+      "onboard_time": 1711007133,
+      "rank": 10,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 126895,
       "num": 126895,
       "word": "失眠多梦可能是它造成的",
@@ -1825,6 +1929,22 @@
       "onboard_time": 1710935017,
       "rank": 33,
       "category": "艺人,体育"
+    },
+    {
+      "raw_hot": 109586,
+      "num": 310939,
+      "word": "小米Civi4Pro真香",
+      "onboard_time": 1711008211,
+      "rank": 20,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 107828,
+      "num": 107828,
+      "word": "和妈妈做生意搭子像极了爽文",
+      "onboard_time": 1711007898,
+      "rank": 46,
+      "category": "情感"
     },
     {
       "raw_hot": 107555,
@@ -2096,6 +2216,14 @@
       "word": "这个春天祝你春风得意向阳花开",
       "onboard_time": 1710940536,
       "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 55553,
+      "num": 102580,
+      "word": "勇敢的你真了不起",
+      "onboard_time": 1711009219,
+      "rank": 49,
       "category": "社会新闻"
     },
     {
