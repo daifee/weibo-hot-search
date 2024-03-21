@@ -1,6 +1,6 @@
 {
   "startTime": 1711038208925,
-  "endTime": 1711038208925,
+  "endTime": 1711039157065,
   "band_list": [
     {
       "raw_hot": 1725156,
@@ -83,20 +83,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 428953,
+      "num": 428953,
+      "word": "瑞幸酱香拿铁被曝销量差",
+      "onboard_time": 1711024579,
+      "rank": 11,
+      "category": "美食"
+    },
+    {
       "raw_hot": 411807,
       "num": 411807,
       "word": "夏之光 感谢你们来看我",
       "onboard_time": 1711032439,
       "rank": 9,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 392958,
-      "num": 392958,
-      "word": "瑞幸酱香拿铁被曝销量差",
-      "onboard_time": 1711024579,
-      "rank": 11,
-      "category": "美食"
     },
     {
       "raw_hot": 343666,
@@ -152,6 +152,14 @@
       "word": "杜海涛爆改",
       "onboard_time": 1711016419,
       "rank": 18,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 254549,
+      "num": 254549,
+      "word": "金秀贤IU合照",
+      "onboard_time": 1711038497,
+      "rank": 15,
       "category": "作品衍生"
     },
     {
@@ -283,6 +291,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 116693,
+      "num": 116693,
+      "word": "王一博醉酒戏",
+      "onboard_time": 1711038436,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 113923,
       "num": 108757,
       "word": "恩利双鱼座",
@@ -401,11 +417,22 @@
       "onboard_time": 1711030882,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 60958,
+      "num": 78527,
+      "word": "偷一句去笑死朋友圈",
+      "onboard_time": 1711037597,
+      "rank": 48,
+      "category": "幽默"
     }
   ],
   "hotgov_list": [
     {
       "word": "#新时代推动中部地区崛起座谈会#"
+    },
+    {
+      "word": "#习近平总书记湖南行#"
     }
   ]
 }
