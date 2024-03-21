@@ -1,6 +1,6 @@
 {
   "startTime": 1711038208925,
-  "endTime": 1711039157065,
+  "endTime": 1711041350924,
   "band_list": [
     {
       "raw_hot": 1725156,
@@ -139,6 +139,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 286580,
+      "num": 286580,
+      "word": "金秀贤IU合照",
+      "onboard_time": 1711038497,
+      "rank": 15,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 270751,
       "num": 270751,
       "word": "新加坡2比2国足",
@@ -152,14 +160,6 @@
       "word": "杜海涛爆改",
       "onboard_time": 1711016419,
       "rank": 18,
-      "category": "作品衍生"
-    },
-    {
-      "raw_hot": 254549,
-      "num": 254549,
-      "word": "金秀贤IU合照",
-      "onboard_time": 1711038497,
-      "rank": 15,
       "category": "作品衍生"
     },
     {
@@ -371,6 +371,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 94507,
+      "num": 94507,
+      "word": "偷一句去笑死朋友圈",
+      "onboard_time": 1711037597,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 86634,
       "num": 104286,
       "word": "神木警方通报8名未成年人殴打2人",
@@ -419,12 +427,44 @@
       "category": "体育"
     },
     {
-      "raw_hot": 60958,
-      "num": 78527,
-      "word": "偷一句去笑死朋友圈",
-      "onboard_time": 1711037597,
-      "rank": 48,
+      "raw_hot": 60012,
+      "num": 58680,
+      "word": "黄俊捷看网友二创的反应",
+      "onboard_time": 1711040894,
+      "rank": 40,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 50592,
+      "num": 50592,
+      "word": "凭什么要禁止东北人做翻译啊",
+      "onboard_time": 1711041073,
+      "rank": 46,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 43973,
+      "num": 49930,
+      "word": "国足连丢2球",
+      "onboard_time": 1711031302,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 40391,
+      "num": 49564,
+      "word": "武磊头球破门",
+      "onboard_time": 1711026019,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 10981,
+      "num": 364264,
+      "word": "今年春耕科技范儿满满",
+      "onboard_time": 1711026378,
+      "rank": 2,
+      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
@@ -433,6 +473,9 @@
     },
     {
       "word": "#习近平总书记湖南行#"
+    },
+    {
+      "word": "#科技创新是发展新质生产力的核心要素#"
     }
   ]
 }
