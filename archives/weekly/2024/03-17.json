@@ -1,6 +1,6 @@
 {
   "startTime": 1710605970310,
-  "endTime": 1711041350924,
+  "endTime": 1711042447902,
   "band_list": [
     {
       "raw_hot": 11692231,
@@ -13795,6 +13795,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 110518,
+      "num": 110518,
+      "word": "凭什么要禁止东北人做翻译啊",
+      "onboard_time": 1711041073,
+      "rank": 46,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 110449,
       "num": 110449,
       "word": "NIP战胜RNG",
@@ -13881,6 +13889,14 @@
       "onboard_time": 1710660813,
       "rank": 49,
       "category": "演出"
+    },
+    {
+      "raw_hot": 106856,
+      "num": 106856,
+      "word": "杜海涛 夏油杰",
+      "onboard_time": 1711041373,
+      "rank": 17,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 106751,
@@ -14825,14 +14841,6 @@
       "onboard_time": 1710939632,
       "rank": 14,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 50592,
-      "num": 50592,
-      "word": "凭什么要禁止东北人做翻译啊",
-      "onboard_time": 1711041073,
-      "rank": 46,
-      "category": "幽默"
     },
     {
       "raw_hot": 50397,
