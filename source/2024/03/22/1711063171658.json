@@ -1,0 +1,410 @@
+{
+  "runTime": 1711063171658,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 963010,
+        "num": 963010,
+        "word": "过度疲劳的表现",
+        "onboard_time": 1711032320,
+        "rank": 0,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 544367,
+        "num": 544367,
+        "word": "个人所得税收入下降",
+        "onboard_time": 1711029861,
+        "rank": 1,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 25551,
+        "num": 525381,
+        "word": "今年春耕科技范儿满满",
+        "onboard_time": 1711026378,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 514205,
+        "num": 514205,
+        "word": "女子家门口凌晨4点被人做三角标记",
+        "onboard_time": 1711049350,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 490022,
+        "num": 490022,
+        "word": "凭什么要禁止东北人做翻译啊",
+        "onboard_time": 1711041073,
+        "rank": 4,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 447713,
+        "num": 447713,
+        "word": "杜海涛 霍尊",
+        "onboard_time": 1711031000,
+        "rank": 5,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 365803,
+        "num": 365803,
+        "word": "沈璃行止圆房",
+        "onboard_time": 1711026319,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 278290,
+        "num": 278290,
+        "word": "张琳芃说是时候结束国家队生涯了",
+        "onboard_time": 1711036579,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 265875,
+        "num": 265875,
+        "word": "李小冉 我没演过小时代",
+        "onboard_time": 1711026859,
+        "rank": 8,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 249488,
+        "num": 249488,
+        "word": "反诈老陈晒2023年收入",
+        "onboard_time": 1711018397,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 324240,
+        "num": 236245,
+        "word": "杜海涛 夏油杰",
+        "onboard_time": 1711041373,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 281705,
+        "num": 231812,
+        "word": "为什么人类几乎不吃食肉动物的肉",
+        "onboard_time": 1711032139,
+        "rank": 11,
+        "category": "健康医疗,美食"
+      },
+      {
+        "raw_hot": 212773,
+        "num": 212773,
+        "word": "李荣浩纹身照是杨丞琳拍的",
+        "onboard_time": 1711025780,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 211587,
+        "num": 211587,
+        "word": "追风者 好大的尺度",
+        "onboard_time": 1711027100,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 145917,
+        "num": 145917,
+        "word": "汽车之家就泄密小米汽车内饰致歉",
+        "onboard_time": 1711029140,
+        "rank": 14,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 137091,
+        "num": 137091,
+        "word": "韩媒为林孝埈鸣不平",
+        "onboard_time": 1711025000,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 131499,
+        "num": 131499,
+        "word": "新加坡2比2国足",
+        "onboard_time": 1711031841,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 128701,
+        "num": 128701,
+        "word": "沈璃被猪拱了",
+        "onboard_time": 1711035378,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 127588,
+        "num": 127588,
+        "word": "阴阳师 王者荣耀",
+        "onboard_time": 1711022959,
+        "rank": 18,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 127027,
+        "num": 127027,
+        "word": "陈建斌回应成为著名歌手",
+        "onboard_time": 1711031541,
+        "rank": 19,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 263801,
+        "num": 126958,
+        "word": "44岁智障女子疑被多次强奸后产女",
+        "onboard_time": 1711062496,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 252587,
+        "num": 126841,
+        "word": "每天睡不足6小时连续30天会怎样",
+        "onboard_time": 1711062435,
+        "rank": 21,
+        "category": "健康医疗,社会新闻"
+      },
+      {
+        "raw_hot": 228461,
+        "num": 126670,
+        "word": "公司全勤500属实把我拿捏住了",
+        "onboard_time": 1711058531,
+        "rank": 22,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 209934,
+        "num": 126402,
+        "word": "月薪2万吃不起的百果园栽了",
+        "onboard_time": 1711022480,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 165063,
+        "num": 126395,
+        "word": "男朋友相亲相到了我朋友",
+        "onboard_time": 1711027640,
+        "rank": 24,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 154229,
+        "num": 126188,
+        "word": "lululemon爆火后被lulu们收割",
+        "onboard_time": 1711018461,
+        "rank": 25,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 130714,
+        "num": 125968,
+        "word": "我爸说以后我弟买房靠我了",
+        "onboard_time": 1711028661,
+        "rank": 26,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 125931,
+        "num": 125931,
+        "word": "与凤行收视率",
+        "onboard_time": 1711031602,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 124801,
+        "num": 124801,
+        "word": "金秀贤IU合照",
+        "onboard_time": 1711038497,
+        "rank": 28,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 46332,
+        "num": 115837,
+        "word": "花花与春天撞了个满怀",
+        "onboard_time": 1711026620,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 112616,
+        "num": 112616,
+        "word": "王梓薇与凤行只拍了一天半",
+        "onboard_time": 1711025478,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 90545,
+        "num": 90545,
+        "word": "张馨予称传统服饰才是真正的高定",
+        "onboard_time": 1711042453,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 81124,
+        "num": 81124,
+        "word": "你有短睡基因还是久睡基因",
+        "onboard_time": 1711062435,
+        "rank": 32,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 79162,
+        "num": 79162,
+        "word": "猫 被千手观音亲自撸",
+        "onboard_time": 1711062075,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 71303,
+        "num": 71303,
+        "word": "偷一句去笑死朋友圈",
+        "onboard_time": 1711037597,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 70007,
+        "num": 70007,
+        "word": "王一博演技",
+        "onboard_time": 1711024158,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 68509,
+        "num": 68509,
+        "word": "王者荣耀大司命",
+        "onboard_time": 1711026261,
+        "rank": 36,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 67770,
+        "num": 67770,
+        "word": "张远0917的人脉派上用场了",
+        "onboard_time": 1711061353,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 66712,
+        "num": 66712,
+        "word": "郑合惠子上桌原因",
+        "onboard_time": 1711024038,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 57683,
+        "num": 57683,
+        "word": "林更新吐槽行止",
+        "onboard_time": 1711036698,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 57297,
+        "num": 57297,
+        "word": "今晚别忘了早点睡",
+        "onboard_time": 1711032622,
+        "rank": 40,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 52644,
+        "num": 52644,
+        "word": "黄健翔谈中国男足客场对战新加坡",
+        "onboard_time": 1711057390,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 52257,
+        "num": 52257,
+        "word": "夏之光 感谢你们来看我",
+        "onboard_time": 1711032439,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 52181,
+        "num": 52181,
+        "word": "瑞幸酱香拿铁被曝销量差",
+        "onboard_time": 1711024579,
+        "rank": 43,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 47460,
+        "num": 47460,
+        "word": "妈妈救了我好多次",
+        "onboard_time": 1711052351,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 46082,
+        "num": 46082,
+        "word": "国足连丢2球",
+        "onboard_time": 1711031302,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 44981,
+        "num": 44981,
+        "word": "恩利双鱼座",
+        "onboard_time": 1711035919,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 43356,
+        "num": 43356,
+        "word": "三体 要剧情有特效",
+        "onboard_time": 1711011679,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 42531,
+        "num": 42531,
+        "word": "杜海涛爆改",
+        "onboard_time": 1711016419,
+        "rank": 48,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 42341,
+        "num": 42341,
+        "word": "国足被扳平",
+        "onboard_time": 1711030882,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#科技创新是发展新质生产力的核心要素#"
+    }
+  }
+}
