@@ -1,6 +1,6 @@
 {
   "startTime": 1710951777162,
-  "endTime": 1711010080936,
+  "endTime": 1711012617700,
   "band_list": [
     {
       "raw_hot": 3011106,
@@ -131,12 +131,36 @@
       "category": "美食"
     },
     {
+      "raw_hot": 1018886,
+      "num": 1018886,
+      "word": "甄嬛传原定结局",
+      "onboard_time": 1711007133,
+      "rank": 5,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1005119,
       "num": 1005119,
       "word": "小杨哥鞠躬致歉梅菜扣肉事件",
       "onboard_time": 1710996936,
       "rank": 6,
       "category": "网红"
+    },
+    {
+      "raw_hot": 1001326,
+      "num": 1001326,
+      "word": "别被8小时睡眠论给骗了",
+      "onboard_time": 1711005752,
+      "rank": 30,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 987865,
+      "num": 987865,
+      "word": "普京被正式宣布选举获胜",
+      "onboard_time": 1711011498,
+      "rank": 4,
+      "category": "国外时政"
     },
     {
       "raw_hot": 950166,
@@ -161,14 +185,6 @@
       "onboard_time": 1710982592,
       "rank": 20,
       "category": "时尚"
-    },
-    {
-      "raw_hot": 903367,
-      "num": 903367,
-      "word": "甄嬛传原定结局",
-      "onboard_time": 1711007133,
-      "rank": 5,
-      "category": "剧集"
     },
     {
       "raw_hot": 896661,
@@ -235,6 +251,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 781469,
+      "num": 781469,
+      "word": "杨幂背部身材",
+      "onboard_time": 1711009580,
+      "rank": 12,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 780809,
       "num": 335615,
       "word": "东航致132人遇难事故调查进展发布",
@@ -273,6 +297,14 @@
       "onboard_time": 1710998193,
       "rank": 11,
       "category": "演出"
+    },
+    {
+      "raw_hot": 711049,
+      "num": 711049,
+      "word": "金世佳猎罪图鉴2路透",
+      "onboard_time": 1711010179,
+      "rank": 7,
+      "category": "剧集"
     },
     {
       "raw_hot": 709353,
@@ -363,14 +395,6 @@
       "category": "艺人,体育"
     },
     {
-      "raw_hot": 627663,
-      "num": 627663,
-      "word": "别被8小时睡眠论给骗了",
-      "onboard_time": 1711005752,
-      "rank": 30,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 624683,
       "num": 624683,
       "word": "爱你官宣开机",
@@ -411,6 +435,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 572331,
+      "num": 572331,
+      "word": "教育局回应校园欺凌生最后投档",
+      "onboard_time": 1711008858,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 548824,
       "num": 548824,
       "word": "胸部自检",
@@ -435,12 +467,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 533876,
-      "num": 533876,
-      "word": "杨幂背部身材",
-      "onboard_time": 1711009580,
-      "rank": 12,
-      "category": "作品衍生"
+      "raw_hot": 531470,
+      "num": 626814,
+      "word": "医院工作人员窃取凯特王妃病历未遂",
+      "onboard_time": 1711010058,
+      "rank": 49,
+      "category": "国外时政"
     },
     {
       "raw_hot": 528446,
@@ -491,6 +523,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 493494,
+      "num": 493494,
+      "word": "恋爱兄妹 11家庭",
+      "onboard_time": 1711010598,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 489180,
       "num": 480225,
       "word": "做了一年半的阿姨发短信来内涵",
@@ -539,12 +579,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 453655,
+      "num": 453655,
+      "word": "周也喊张淼怡",
+      "onboard_time": 1711010779,
+      "rank": 14,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 440296,
       "num": 440296,
       "word": "郑恩彩金忠宰恋情",
       "onboard_time": 1711003773,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 436533,
+      "num": 325407,
+      "word": "周也面容ID无法识别",
+      "onboard_time": 1711007719,
+      "rank": 23,
+      "category": "剧集"
     },
     {
       "raw_hot": 431383,
@@ -593,6 +649,14 @@
       "onboard_time": 1710979054,
       "rank": 13,
       "category": "电影,动漫"
+    },
+    {
+      "raw_hot": 391285,
+      "num": 186947,
+      "word": "三体 要剧情有特效",
+      "onboard_time": 1711011679,
+      "rank": 30,
+      "category": "剧集"
     },
     {
       "raw_hot": 389805,
@@ -707,6 +771,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 330011,
+      "num": 330011,
+      "word": "网飞三体特效",
+      "onboard_time": 1711008559,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 329844,
       "num": 329844,
       "word": "何蓝逗今晚追王一博新剧",
@@ -729,14 +801,6 @@
       "onboard_time": 1710940416,
       "rank": 29,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 325407,
-      "num": 325407,
-      "word": "周也面容ID无法识别",
-      "onboard_time": 1711007719,
-      "rank": 23,
-      "category": "剧集"
     },
     {
       "raw_hot": 309842,
@@ -777,14 +841,6 @@
       "onboard_time": 1710981336,
       "rank": 22,
       "category": "数码"
-    },
-    {
-      "raw_hot": 295927,
-      "num": 295927,
-      "word": "教育局回应校园欺凌生最后投档",
-      "onboard_time": 1711008858,
-      "rank": 39,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 292483,
@@ -971,12 +1027,12 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 236294,
-      "num": 236294,
-      "word": "网飞三体特效",
-      "onboard_time": 1711008559,
-      "rank": 34,
-      "category": "剧集"
+      "raw_hot": 233817,
+      "num": 233817,
+      "word": "小鬼的微博文案是摩斯电码",
+      "onboard_time": 1711011080,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 231160,
@@ -1099,12 +1155,36 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 218139,
+      "num": 218139,
+      "word": "两个人在一起的意义",
+      "onboard_time": 1711011498,
+      "rank": 24,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 213466,
+      "num": 275794,
+      "word": "鲜芋仙全国门店启动自查",
+      "onboard_time": 1711010659,
+      "rank": 19,
+      "category": "社会新闻,美食"
+    },
+    {
       "raw_hot": 213312,
       "num": 213312,
       "word": "锦月如歌",
       "onboard_time": 1710992136,
       "rank": 35,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 211013,
+      "num": 211013,
+      "word": "梨形天菜花苞裙",
+      "onboard_time": 1711010419,
+      "rank": 25,
+      "category": "时尚"
     },
     {
       "raw_hot": 209858,
@@ -1233,6 +1313,14 @@
       "onboard_time": 1710988470,
       "rank": 49,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 198679,
+      "num": 137368,
+      "word": "钱可以左右人的生活吗",
+      "onboard_time": 1711010479,
+      "rank": 44,
+      "category": "情感"
     },
     {
       "raw_hot": 197877,
@@ -1419,6 +1507,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 174089,
+      "num": 174089,
+      "word": "超8成网友预测国足胜利",
+      "onboard_time": 1711012339,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 173170,
       "num": 173170,
       "word": "张杰演唱会",
@@ -1587,6 +1683,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 153835,
+      "num": 153835,
+      "word": "烈焰撅腚哥",
+      "onboard_time": 1711011139,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 152689,
       "num": 220367,
       "word": "武氏映春任越南国家代主席",
@@ -1595,12 +1699,28 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 152607,
+      "num": 152607,
+      "word": "LOEWE活动",
+      "onboard_time": 1711012099,
+      "rank": 38,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 152421,
       "num": 152421,
       "word": "杨迪回复沈梦辰",
       "onboard_time": 1710978449,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 152141,
+      "num": 152141,
+      "word": "童瑶回应都市剧是统治区",
+      "onboard_time": 1711012339,
+      "rank": 39,
+      "category": "剧集"
     },
     {
       "raw_hot": 151406,
@@ -1731,6 +1851,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 140050,
+      "num": 140050,
+      "word": "丞磊拍的周也张淼怡",
+      "onboard_time": 1711010058,
+      "rank": 48,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 139346,
       "num": 139346,
       "word": "不知不觉就到了拍花的年龄",
@@ -1785,6 +1913,14 @@
       "onboard_time": 1710927818,
       "rank": 22,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 135417,
+      "num": 135417,
+      "word": "唤醒童年英雄梦的BGM",
+      "onboard_time": 1711012580,
+      "rank": 46,
+      "category": "情感"
     },
     {
       "raw_hot": 132506,
@@ -1931,12 +2067,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 123341,
-      "num": 123341,
-      "word": "丞磊拍的周也张淼怡",
-      "onboard_time": 1711010058,
+      "raw_hot": 123104,
+      "num": 123104,
+      "word": "老祖宗留下来的睡眠方法",
+      "onboard_time": 1711010479,
       "rank": 48,
-      "category": "作品衍生"
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 121786,
+      "num": 121786,
+      "word": "英航乘务员种族歧视中国乘客",
+      "onboard_time": 1711012519,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 120549,
@@ -1993,14 +2137,6 @@
       "onboard_time": 1710935017,
       "rank": 33,
       "category": "艺人,体育"
-    },
-    {
-      "raw_hot": 108880,
-      "num": 122176,
-      "word": "医院工作人员窃取凯特王妃病历未遂",
-      "onboard_time": 1711010058,
-      "rank": 49,
-      "category": "国外时政"
     },
     {
       "raw_hot": 107828,
@@ -2243,6 +2379,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 57424,
+      "num": 531778,
+      "word": "小米Civi4Pro首发评测",
+      "onboard_time": 1711011259,
+      "rank": 12,
+      "category": "数码"
+    },
+    {
       "raw_hot": 57418,
       "num": 57418,
       "word": "潘樾杨采薇相认",
@@ -2337,6 +2481,14 @@
       "onboard_time": 1710940179,
       "rank": 47,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 37814,
+      "num": 1007326,
+      "word": "用课本封面打开春耕画卷",
+      "onboard_time": 1710995737,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 29924,
