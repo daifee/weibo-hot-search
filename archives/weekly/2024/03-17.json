@@ -1,6 +1,6 @@
 {
   "startTime": 1710605970310,
-  "endTime": 1711042447902,
+  "endTime": 1711045284786,
   "band_list": [
     {
       "raw_hot": 11692231,
@@ -7651,6 +7651,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 225638,
+      "num": 225638,
+      "word": "杜海涛 夏油杰",
+      "onboard_time": 1711041373,
+      "rank": 17,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 225328,
       "num": 225328,
       "word": "鞠婧祎谈她的17岁",
@@ -9633,6 +9641,14 @@
       "onboard_time": 1711030762,
       "rank": 42,
       "category": "情感"
+    },
+    {
+      "raw_hot": 190140,
+      "num": 110518,
+      "word": "凭什么要禁止东北人做翻译啊",
+      "onboard_time": 1711041073,
+      "rank": 46,
+      "category": "幽默"
     },
     {
       "raw_hot": 190122,
@@ -13795,14 +13811,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 110518,
-      "num": 110518,
-      "word": "凭什么要禁止东北人做翻译啊",
-      "onboard_time": 1711041073,
-      "rank": 46,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 110449,
       "num": 110449,
       "word": "NIP战胜RNG",
@@ -13889,14 +13897,6 @@
       "onboard_time": 1710660813,
       "rank": 49,
       "category": "演出"
-    },
-    {
-      "raw_hot": 106856,
-      "num": 106856,
-      "word": "杜海涛 夏油杰",
-      "onboard_time": 1711041373,
-      "rank": 17,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 106751,
@@ -14979,6 +14979,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 37546,
+      "num": 37546,
+      "word": "张馨予称传统服饰才是真正的高定",
+      "onboard_time": 1711042453,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 37379,
       "num": 271583,
       "word": "电车驾控感好是一种什么体验",
@@ -15089,6 +15097,14 @@
       "onboard_time": 1710648034,
       "rank": 14,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 29330,
+      "num": 29330,
+      "word": "郑合惠子商标遭抢注",
+      "onboard_time": 1711044612,
+      "rank": 45,
+      "category": "艺人"
     },
     {
       "raw_hot": 27913,
@@ -15275,7 +15291,7 @@
       "category": "情感"
     },
     {
-      "raw_hot": 10981,
+      "raw_hot": 11074,
       "num": 364264,
       "word": "今年春耕科技范儿满满",
       "onboard_time": 1711026378,

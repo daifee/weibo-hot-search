@@ -1,0 +1,410 @@
+{
+  "runTime": 1711045284786,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 241737,
+        "num": 241737,
+        "word": "过度疲劳的表现",
+        "onboard_time": 1711032320,
+        "rank": 0,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 225638,
+        "num": 225638,
+        "word": "杜海涛 夏油杰",
+        "onboard_time": 1711041373,
+        "rank": 1,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 11074,
+        "num": 191671,
+        "word": "今年春耕科技范儿满满",
+        "onboard_time": 1711026378,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 160160,
+        "num": 160160,
+        "word": "阴阳师 王者荣耀",
+        "onboard_time": 1711022959,
+        "rank": 3,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 102697,
+        "num": 102697,
+        "word": "李小冉 我没演过小时代",
+        "onboard_time": 1711026859,
+        "rank": 4,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 99153,
+        "num": 99153,
+        "word": "金秀贤IU合照",
+        "onboard_time": 1711038497,
+        "rank": 5,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 157164,
+        "num": 99086,
+        "word": "杜海涛 霍尊",
+        "onboard_time": 1711031000,
+        "rank": 6,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 98696,
+        "num": 98696,
+        "word": "张琳芃说是时候结束国家队生涯了",
+        "onboard_time": 1711036579,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 96508,
+        "num": 96508,
+        "word": "瑞幸酱香拿铁被曝销量差",
+        "onboard_time": 1711024579,
+        "rank": 8,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 95682,
+        "num": 95682,
+        "word": "个人所得税收入下降",
+        "onboard_time": 1711029861,
+        "rank": 9,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 190140,
+        "num": 95183,
+        "word": "凭什么要禁止东北人做翻译啊",
+        "onboard_time": 1711041073,
+        "rank": 10,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 108327,
+        "num": 93843,
+        "word": "追风者 好大的尺度",
+        "onboard_time": 1711027100,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 89129,
+        "num": 89129,
+        "word": "沈璃行止圆房",
+        "onboard_time": 1711026319,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 89085,
+        "num": 89085,
+        "word": "郑合惠子上桌原因",
+        "onboard_time": 1711024038,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 86528,
+        "num": 86528,
+        "word": "李荣浩纹身照是杨丞琳拍的",
+        "onboard_time": 1711025780,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 80053,
+        "num": 80053,
+        "word": "王者荣耀大司命",
+        "onboard_time": 1711026261,
+        "rank": 15,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 73442,
+        "num": 73442,
+        "word": "为什么人类几乎不吃食肉动物的肉",
+        "onboard_time": 1711032139,
+        "rank": 16,
+        "category": "健康医疗,美食"
+      },
+      {
+        "raw_hot": 63414,
+        "num": 63414,
+        "word": "花间令直播",
+        "onboard_time": 1711019959,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 54102,
+        "num": 59698,
+        "word": "韩媒为林孝埈鸣不平",
+        "onboard_time": 1711025000,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 50428,
+        "num": 58043,
+        "word": "新加坡2比2国足",
+        "onboard_time": 1711031841,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 64846,
+        "num": 58000,
+        "word": "月薪2万吃不起的百果园栽了",
+        "onboard_time": 1711022480,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 57373,
+        "num": 57373,
+        "word": "lululemon爆火后被lulu们收割",
+        "onboard_time": 1711018461,
+        "rank": 21,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 54189,
+        "num": 54189,
+        "word": "偷一句去笑死朋友圈",
+        "onboard_time": 1711037597,
+        "rank": 22,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 52868,
+        "num": 52868,
+        "word": "与凤行收视率",
+        "onboard_time": 1711031602,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 49091,
+        "num": 49091,
+        "word": "男朋友相亲相到了我朋友",
+        "onboard_time": 1711027640,
+        "rank": 24,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 49069,
+        "num": 49069,
+        "word": "沈璃被猪拱了",
+        "onboard_time": 1711035378,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 44375,
+        "num": 44375,
+        "word": "网飞三体 魔改",
+        "onboard_time": 1711021338,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 44276,
+        "num": 44276,
+        "word": "今晚别忘了早点睡",
+        "onboard_time": 1711032622,
+        "rank": 27,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 35630,
+        "num": 43639,
+        "word": "张琳芃失误",
+        "onboard_time": 1711032622,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 16098,
+        "num": 43271,
+        "word": "花花与春天撞了个满怀",
+        "onboard_time": 1711026620,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 43246,
+        "num": 43246,
+        "word": "惠英红搂杨幂腰",
+        "onboard_time": 1711037417,
+        "rank": 30,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 42207,
+        "num": 42207,
+        "word": "INFP能P到什么程度",
+        "onboard_time": 1711032200,
+        "rank": 31,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 40231,
+        "num": 40231,
+        "word": "王一博演技",
+        "onboard_time": 1711024158,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 39912,
+        "num": 39912,
+        "word": "鞠婧祎吴佳怡贴贴",
+        "onboard_time": 1711028061,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 39315,
+        "num": 39315,
+        "word": "王梓薇与凤行只拍了一天半",
+        "onboard_time": 1711025478,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 39090,
+        "num": 39090,
+        "word": "我爸说以后我弟买房靠我了",
+        "onboard_time": 1711028661,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 37924,
+        "num": 37924,
+        "word": "陈建斌回应成为著名歌手",
+        "onboard_time": 1711031541,
+        "rank": 36,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 37546,
+        "num": 37546,
+        "word": "张馨予称传统服饰才是真正的高定",
+        "onboard_time": 1711042453,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 36038,
+        "num": 36038,
+        "word": "三体 要剧情有特效",
+        "onboard_time": 1711011679,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 34080,
+        "num": 34080,
+        "word": "反诈老陈晒2023年收入",
+        "onboard_time": 1711018397,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 33338,
+        "num": 33338,
+        "word": "林更新吐槽行止",
+        "onboard_time": 1711036698,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 31917,
+        "num": 31917,
+        "word": "汽车之家就泄密小米汽车内饰致歉",
+        "onboard_time": 1711029140,
+        "rank": 41,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 31423,
+        "num": 31423,
+        "word": "杜海涛爆改",
+        "onboard_time": 1711016419,
+        "rank": 42,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 30898,
+        "num": 30898,
+        "word": "夏之光 感谢你们来看我",
+        "onboard_time": 1711032439,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 30280,
+        "num": 30280,
+        "word": "恩利双鱼座",
+        "onboard_time": 1711035919,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 29330,
+        "num": 29330,
+        "word": "郑合惠子商标遭抢注",
+        "onboard_time": 1711044612,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 28163,
+        "num": 28163,
+        "word": "国足连丢2球",
+        "onboard_time": 1711031302,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 26878,
+        "num": 26878,
+        "word": "国足被扳平",
+        "onboard_time": 1711030882,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 25336,
+        "num": 26878,
+        "word": "杨幂吴磊同框",
+        "onboard_time": 1711029200,
+        "rank": 48,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 23319,
+        "num": 26872,
+        "word": "武磊头球破门",
+        "onboard_time": 1711026019,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#科技创新是发展新质生产力的核心要素#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1711038208925,
-  "endTime": 1711042447902,
+  "endTime": 1711045284786,
   "band_list": [
     {
       "raw_hot": 1725156,
@@ -171,6 +171,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 225638,
+      "num": 225638,
+      "word": "杜海涛 夏油杰",
+      "onboard_time": 1711041373,
+      "rank": 17,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 221716,
       "num": 221716,
       "word": "陈建斌回应成为著名歌手",
@@ -209,6 +217,14 @@
       "onboard_time": 1711026261,
       "rank": 25,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 190140,
+      "num": 110518,
+      "word": "凭什么要禁止东北人做翻译啊",
+      "onboard_time": 1711041073,
+      "rank": 46,
+      "category": "幽默"
     },
     {
       "raw_hot": 165836,
@@ -307,14 +323,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 110518,
-      "num": 110518,
-      "word": "凭什么要禁止东北人做翻译啊",
-      "onboard_time": 1711041073,
-      "rank": 46,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 108807,
       "num": 108807,
       "word": "我爸说以后我弟买房靠我了",
@@ -337,14 +345,6 @@
       "onboard_time": 1711031781,
       "rank": 42,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 106856,
-      "num": 106856,
-      "word": "杜海涛 夏油杰",
-      "onboard_time": 1711041373,
-      "rank": 17,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 104302,
@@ -467,7 +467,23 @@
       "category": "体育"
     },
     {
-      "raw_hot": 10981,
+      "raw_hot": 37546,
+      "num": 37546,
+      "word": "张馨予称传统服饰才是真正的高定",
+      "onboard_time": 1711042453,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 29330,
+      "num": 29330,
+      "word": "郑合惠子商标遭抢注",
+      "onboard_time": 1711044612,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 11074,
       "num": 364264,
       "word": "今年春耕科技范儿满满",
       "onboard_time": 1711026378,
