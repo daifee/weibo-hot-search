@@ -1,6 +1,6 @@
 {
   "startTime": 1710605970310,
-  "endTime": 1710994883127,
+  "endTime": 1710995705061,
   "band_list": [
     {
       "raw_hot": 11692231,
@@ -499,6 +499,14 @@
       "category": "数码,艺人"
     },
     {
+      "raw_hot": 1613528,
+      "num": 1613528,
+      "word": "凤凰传奇演唱会取消",
+      "onboard_time": 1710994356,
+      "rank": 13,
+      "category": "演出"
+    },
+    {
       "raw_hot": 1611314,
       "num": 559913,
       "word": "苹果同意支付4.9亿美金和解",
@@ -644,7 +652,7 @@
     },
     {
       "raw_hot": 1437127,
-      "num": 533644,
+      "num": 649401,
       "word": "大学生胸部以下突然没知觉被同学送医",
       "onboard_time": 1710986073,
       "rank": 10,
@@ -1275,6 +1283,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 983389,
+      "num": 983389,
+      "word": "吴彦祖去看贾玲了",
+      "onboard_time": 1710992734,
+      "rank": 3,
+      "category": "电影"
+    },
+    {
       "raw_hot": 980943,
       "num": 980943,
       "word": "凯特",
@@ -1337,14 +1353,6 @@
       "onboard_time": 1710648331,
       "rank": 9,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 958293,
-      "num": 958293,
-      "word": "吴彦祖去看贾玲了",
-      "onboard_time": 1710992734,
-      "rank": 3,
-      "category": "电影"
     },
     {
       "raw_hot": 954686,
@@ -1691,6 +1699,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 803879,
+      "num": 803879,
+      "word": "身边真的有好多人在重启人生啊",
+      "onboard_time": 1710990510,
+      "rank": 37,
+      "category": "情感"
+    },
+    {
       "raw_hot": 799588,
       "num": 799588,
       "word": "OPPO 权顺荣",
@@ -1705,14 +1721,6 @@
       "onboard_time": 1710656974,
       "rank": 27,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 795158,
-      "num": 795158,
-      "word": "身边真的有好多人在重启人生啊",
-      "onboard_time": 1710990510,
-      "rank": 37,
-      "category": "情感"
     },
     {
       "raw_hot": 791682,
@@ -2092,7 +2100,7 @@
     },
     {
       "raw_hot": 709353,
-      "num": 534320,
+      "num": 677387,
       "word": "费翔胡子刮了",
       "onboard_time": 1710993153,
       "rank": 10,
@@ -2195,6 +2203,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 672390,
+      "num": 672390,
+      "word": "金价",
+      "onboard_time": 1710751357,
+      "rank": 9,
+      "category": "财经"
+    },
+    {
       "raw_hot": 671146,
       "num": 313352,
       "word": "陶昕然妈妈承认自己打孩子是虚荣",
@@ -2241,6 +2257,14 @@
       "onboard_time": 1710908675,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 656822,
+      "num": 656822,
+      "word": "没想到相亲对象请喝香飘飘",
+      "onboard_time": 1710993274,
+      "rank": 15,
+      "category": "幽默"
     },
     {
       "raw_hot": 655834,
@@ -2665,14 +2689,6 @@
       "onboard_time": 1710892532,
       "rank": 13,
       "category": "网红"
-    },
-    {
-      "raw_hot": 584178,
-      "num": 584178,
-      "word": "金价",
-      "onboard_time": 1710751357,
-      "rank": 9,
-      "category": "财经"
     },
     {
       "raw_hot": 583131,
@@ -3140,7 +3156,7 @@
     },
     {
       "raw_hot": 507303,
-      "num": 507303,
+      "num": 650555,
       "word": "多家螺蛳粉品牌客服回应",
       "onboard_time": 1710989852,
       "rank": 23,
@@ -3201,14 +3217,6 @@
       "onboard_time": 1710674434,
       "rank": 15,
       "category": "体育"
-    },
-    {
-      "raw_hot": 498105,
-      "num": 498105,
-      "word": "凤凰传奇演唱会取消",
-      "onboard_time": 1710994356,
-      "rank": 13,
-      "category": "演出"
     },
     {
       "raw_hot": 497091,
@@ -3497,6 +3505,14 @@
       "onboard_time": 1710987752,
       "rank": 43,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 458103,
+      "num": 379267,
+      "word": "林更新张艺兴参加综艺节目",
+      "onboard_time": 1710994716,
+      "rank": 22,
+      "category": "综艺"
     },
     {
       "raw_hot": 457664,
@@ -3827,20 +3843,20 @@
       "category": "科学科普"
     },
     {
-      "raw_hot": 421853,
-      "num": 421853,
-      "word": "没想到相亲对象请喝香飘飘",
-      "onboard_time": 1710993274,
-      "rank": 15,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 421333,
       "num": 421333,
       "word": "辛芷蕾高定封",
       "onboard_time": 1710731612,
       "rank": 28,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 421210,
+      "num": 421210,
+      "word": "女生真的不能带着情绪过夜",
+      "onboard_time": 1710993877,
+      "rank": 30,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 421162,
@@ -3908,7 +3924,7 @@
     },
     {
       "raw_hot": 417067,
-      "num": 329649,
+      "num": 375732,
       "word": "98年同事因为分手去创业了",
       "onboard_time": 1710990575,
       "rank": 30,
@@ -4072,6 +4088,14 @@
       "word": "为什么朋友圈会设置三天可见",
       "onboard_time": 1710809860,
       "rank": 22,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 399897,
+      "num": 399897,
+      "word": "提了离职后更焦虑了",
+      "onboard_time": 1710992912,
+      "rank": 16,
       "category": "情感"
     },
     {
@@ -4257,14 +4281,6 @@
       "onboard_time": 1710728435,
       "rank": 17,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 382044,
-      "num": 382044,
-      "word": "提了离职后更焦虑了",
-      "onboard_time": 1710992912,
-      "rank": 16,
-      "category": "情感"
     },
     {
       "raw_hot": 381102,
@@ -4739,6 +4755,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 329844,
+      "num": 329844,
+      "word": "何蓝逗今晚追王一博新剧",
+      "onboard_time": 1710994477,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 329780,
       "num": 329780,
       "word": "童瑶演了我梦里的爽文女主",
@@ -4801,14 +4825,6 @@
       "onboard_time": 1710625156,
       "rank": 11,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 324280,
-      "num": 324280,
-      "word": "林更新张艺兴参加综艺节目",
-      "onboard_time": 1710994716,
-      "rank": 22,
-      "category": "综艺"
     },
     {
       "raw_hot": 323536,
@@ -4961,6 +4977,14 @@
       "onboard_time": 1710739355,
       "rank": 24,
       "category": "情感"
+    },
+    {
+      "raw_hot": 315648,
+      "num": 315648,
+      "word": "公共卫生间为什么不能明确写明男女",
+      "onboard_time": 1710994292,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 314216,
@@ -5723,6 +5747,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 266783,
+      "num": 266783,
+      "word": "翟潇闻 霸王茶姬茶颜悦色",
+      "onboard_time": 1710995378,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 266452,
       "num": 266452,
       "word": "男子陪父亲体检顺便做胃肠镜救下一命",
@@ -5937,14 +5969,6 @@
       "onboard_time": 1710669033,
       "rank": 9,
       "category": "美食"
-    },
-    {
-      "raw_hot": 254268,
-      "num": 254268,
-      "word": "女生真的不能带着情绪过夜",
-      "onboard_time": 1710993877,
-      "rank": 30,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 254145,
@@ -6211,6 +6235,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 242220,
+      "num": 242220,
+      "word": "导演回应短剧遗照被指用李沁证件照",
+      "onboard_time": 1710995316,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 241482,
       "num": 241482,
       "word": "与凤行谐音梗",
@@ -6241,6 +6273,14 @@
       "onboard_time": 1710928895,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 240162,
+      "num": 240162,
+      "word": "赵露思深海美人鱼",
+      "onboard_time": 1710993753,
+      "rank": 33,
+      "category": "剧集"
     },
     {
       "raw_hot": 239872,
@@ -6281,14 +6321,6 @@
       "onboard_time": 1710860198,
       "rank": 30,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 239323,
-      "num": 239323,
-      "word": "何蓝逗今晚追王一博新剧",
-      "onboard_time": 1710994477,
-      "rank": 32,
-      "category": "剧集"
     },
     {
       "raw_hot": 238575,
@@ -6407,14 +6439,6 @@
       "num": 232515,
       "word": "眼泪女王第四集",
       "onboard_time": 1710685002,
-      "rank": 33,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 232277,
-      "num": 232277,
-      "word": "赵露思深海美人鱼",
-      "onboard_time": 1710993753,
       "rank": 33,
       "category": "剧集"
     },
@@ -7579,6 +7603,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 202749,
+      "num": 202749,
+      "word": "优酷好宠王一博",
+      "onboard_time": 1710995678,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 202684,
       "num": 202684,
       "word": "邓为花毛衣",
@@ -7649,6 +7681,14 @@
       "onboard_time": 1710685723,
       "rank": 37,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 200700,
+      "num": 200700,
+      "word": "有驾照但是不敢开车怎么办",
+      "onboard_time": 1710995077,
+      "rank": 38,
+      "category": "幽默,汽车"
     },
     {
       "raw_hot": 200656,
@@ -8787,14 +8827,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 178656,
-      "num": 254389,
-      "word": "公共卫生间为什么不能明确写明男女",
-      "onboard_time": 1710994292,
-      "rank": 29,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 178193,
       "num": 178193,
       "word": "花间令审美",
@@ -9403,6 +9435,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 166355,
+      "num": 166355,
+      "word": "肖战藏海传片场把玩信鸽",
+      "onboard_time": 1710993877,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 166349,
       "num": 166349,
       "word": "OMG对战BLG",
@@ -9649,14 +9689,6 @@
       "onboard_time": 1710925655,
       "rank": 24,
       "category": "美妆"
-    },
-    {
-      "raw_hot": 159884,
-      "num": 159884,
-      "word": "肖战藏海传片场把玩信鸽",
-      "onboard_time": 1710993877,
-      "rank": 42,
-      "category": "剧集"
     },
     {
       "raw_hot": 159629,
@@ -10411,6 +10443,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 145081,
+      "num": 145081,
+      "word": "西北工业大学校园应用启动鸿蒙化",
+      "onboard_time": 1710995378,
+      "rank": 45,
+      "category": "教育,互联网"
+    },
+    {
       "raw_hot": 144998,
       "num": 344375,
       "word": "孙龙世锦赛夺金",
@@ -10433,6 +10473,14 @@
       "onboard_time": 1710676655,
       "rank": 45,
       "category": "情感"
+    },
+    {
+      "raw_hot": 144407,
+      "num": 144407,
+      "word": "主角竟是小猫自己",
+      "onboard_time": 1710995496,
+      "rank": 46,
+      "category": "幽默"
     },
     {
       "raw_hot": 144092,
@@ -11041,6 +11089,14 @@
       "onboard_time": 1710826414,
       "rank": 49,
       "category": "健康医疗,科学科普"
+    },
+    {
+      "raw_hot": 131525,
+      "num": 131525,
+      "word": "原来吃货不分物种",
+      "onboard_time": 1710995014,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 131200,
