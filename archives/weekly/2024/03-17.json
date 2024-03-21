@@ -1,6 +1,6 @@
 {
   "startTime": 1710605970310,
-  "endTime": 1711056862993,
+  "endTime": 1711059412157,
   "band_list": [
     {
       "raw_hot": 11692231,
@@ -9644,7 +9644,7 @@
     },
     {
       "raw_hot": 190140,
-      "num": 110518,
+      "num": 167379,
       "word": "凭什么要禁止东北人做翻译啊",
       "onboard_time": 1711041073,
       "rank": 46,
@@ -11017,6 +11017,14 @@
       "onboard_time": 1710835354,
       "rank": 37,
       "category": "情感"
+    },
+    {
+      "raw_hot": 167083,
+      "num": 167083,
+      "word": "女子家门口凌晨4点被人做三角标记",
+      "onboard_time": 1711049350,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 167058,
@@ -14235,14 +14243,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 88842,
-      "num": 88842,
-      "word": "女子家门口凌晨4点被人做三角标记",
-      "onboard_time": 1711049350,
-      "rank": 45,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 88624,
       "num": 1516040,
       "word": "近日我国将送鹊桥二号奔月",
@@ -14860,7 +14860,7 @@
     },
     {
       "raw_hot": 50094,
-      "num": 39842,
+      "num": 42537,
       "word": "何炅演发疯",
       "onboard_time": 1711052651,
       "rank": 30,
@@ -15025,6 +15025,14 @@
       "onboard_time": 1710783380,
       "rank": 40,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 34975,
+      "num": 34975,
+      "word": "公司全勤500属实把我拿捏住了",
+      "onboard_time": 1711058531,
+      "rank": 27,
+      "category": "幽默"
     },
     {
       "raw_hot": 34925,
@@ -15243,11 +15251,27 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 20079,
+      "num": 20079,
+      "word": "妈妈救了我好多次",
+      "onboard_time": 1711052351,
+      "rank": 41,
+      "category": "情感"
+    },
+    {
       "raw_hot": 19932,
       "num": 33623,
       "word": "2024全英公开赛",
       "onboard_time": 1710616697,
       "rank": 47,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 19841,
+      "num": 19841,
+      "word": "黄健翔谈中国男足客场对战新加坡",
+      "onboard_time": 1711057390,
+      "rank": 48,
       "category": "体育"
     },
     {
@@ -15273,14 +15297,6 @@
       "onboard_time": 1710958878,
       "rank": 48,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 16736,
-      "num": 16736,
-      "word": "妈妈救了我好多次",
-      "onboard_time": 1711052351,
-      "rank": 41,
-      "category": "情感"
     },
     {
       "raw_hot": 16406,
