@@ -1,6 +1,6 @@
 {
   "startTime": 1710951777162,
-  "endTime": 1711016237962,
+  "endTime": 1711017334891,
   "band_list": [
     {
       "raw_hot": 3011106,
@@ -195,6 +195,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 878649,
+      "num": 878649,
+      "word": "杜海涛爆改",
+      "onboard_time": 1711016419,
+      "rank": 1,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 874443,
       "num": 874443,
       "word": "记者卧底鲜芋仙曝光后厨乱象",
@@ -217,6 +225,14 @@
       "onboard_time": 1710985289,
       "rank": 5,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 814243,
+      "num": 560950,
+      "word": "院方回应两名医学生先后自杀情况属实",
+      "onboard_time": 1711013479,
+      "rank": 18,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 809548,
@@ -267,14 +283,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 772068,
-      "num": 521829,
-      "word": "院方回应两名医学生先后自杀情况属实",
-      "onboard_time": 1711013479,
-      "rank": 18,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 740345,
       "num": 740345,
       "word": "珠帘玉幕 磨皮",
@@ -305,6 +313,14 @@
       "onboard_time": 1710998193,
       "rank": 11,
       "category": "演出"
+    },
+    {
+      "raw_hot": 715083,
+      "num": 715083,
+      "word": "黄渤张艺兴快碎了",
+      "onboard_time": 1711015158,
+      "rank": 23,
+      "category": "综艺"
     },
     {
       "raw_hot": 712233,
@@ -353,6 +369,14 @@
       "onboard_time": 1710934180,
       "rank": 0,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 691754,
+      "num": 691754,
+      "word": "杨幂再现月牙笑",
+      "onboard_time": 1711015759,
+      "rank": 19,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 678317,
@@ -436,7 +460,7 @@
     },
     {
       "raw_hot": 596126,
-      "num": 514555,
+      "num": 556092,
       "word": "张馨予在东北光腿",
       "onboard_time": 1711013418,
       "rank": 40,
@@ -579,6 +603,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 477830,
+      "num": 477830,
+      "word": "汪淼性转",
+      "onboard_time": 1711014258,
+      "rank": 20,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 476754,
       "num": 476754,
       "word": "导演回应短剧遗照被指用李沁证件照",
@@ -611,6 +643,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 444457,
+      "num": 444457,
+      "word": "重庆姐弟坠亡案生母患甲状腺癌",
+      "onboard_time": 1711016839,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 440296,
       "num": 440296,
       "word": "郑恩彩金忠宰恋情",
@@ -641,6 +681,14 @@
       "onboard_time": 1710994292,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 429510,
+      "num": 429510,
+      "word": "预制菜明确不允许添加防腐剂",
+      "onboard_time": 1711016659,
+      "rank": 17,
+      "category": "美食,社会新闻"
     },
     {
       "raw_hot": 417067,
@@ -827,20 +875,12 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 323879,
-      "num": 323879,
-      "word": "杨幂再现月牙笑",
-      "onboard_time": 1711015759,
-      "rank": 19,
-      "category": "作品衍生"
-    },
-    {
-      "raw_hot": 316471,
-      "num": 316471,
-      "word": "汪淼性转",
-      "onboard_time": 1711014258,
-      "rank": 20,
-      "category": "剧集"
+      "raw_hot": 319935,
+      "num": 319935,
+      "word": "张雪峰送员工魏大勋签名照",
+      "onboard_time": 1711016358,
+      "rank": 21,
+      "category": "艺人,教育"
     },
     {
       "raw_hot": 309842,
@@ -939,6 +979,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 278786,
+      "num": 278786,
+      "word": "一直不睡觉几天后会死",
+      "onboard_time": 1711014920,
+      "rank": 22,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 278075,
       "num": 482302,
       "word": "谈恋爱花的钱分手后要对方还吗",
@@ -1003,14 +1051,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 258762,
-      "num": 258762,
-      "word": "一直不睡觉几天后会死",
-      "onboard_time": 1711014920,
-      "rank": 22,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 252659,
       "num": 252659,
       "word": "盒子里的猫",
@@ -1059,14 +1099,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 241770,
-      "num": 241770,
-      "word": "黄渤张艺兴快碎了",
-      "onboard_time": 1711015158,
-      "rank": 23,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 240162,
       "num": 240162,
       "word": "赵露思深海美人鱼",
@@ -1075,12 +1107,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 239860,
+      "num": 239860,
+      "word": "库克 交大",
+      "onboard_time": 1711015938,
+      "rank": 34,
+      "category": "数码"
+    },
+    {
       "raw_hot": 239777,
       "num": 239777,
       "word": "李想发全员信自我批评",
       "onboard_time": 1711004311,
       "rank": 24,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 238458,
+      "num": 209190,
+      "word": "日食记 春笋焖排骨",
+      "onboard_time": 1711016358,
+      "rank": 30,
+      "category": "美食"
     },
     {
       "raw_hot": 233817,
@@ -1219,6 +1267,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 217235,
+      "num": 217235,
+      "word": "菲律宾34人非法登临铁线礁",
+      "onboard_time": 1711015459,
+      "rank": 29,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 213466,
       "num": 275794,
       "word": "鲜芋仙全国门店启动自查",
@@ -1273,6 +1329,14 @@
       "onboard_time": 1710993456,
       "rank": 36,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 208974,
+      "num": 208974,
+      "word": "凤凰传奇巡演",
+      "onboard_time": 1711016839,
+      "rank": 31,
+      "category": "演出"
     },
     {
       "raw_hot": 208681,
@@ -1651,14 +1715,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 171331,
-      "num": 202596,
-      "word": "菲律宾34人非法登临铁线礁",
-      "onboard_time": 1711015459,
-      "rank": 29,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 170792,
       "num": 628713,
       "word": "原来淘宝店主都这么美",
@@ -1689,14 +1745,6 @@
       "onboard_time": 1711001911,
       "rank": 43,
       "category": "情感"
-    },
-    {
-      "raw_hot": 168745,
-      "num": 168745,
-      "word": "库克 交大",
-      "onboard_time": 1711015938,
-      "rank": 34,
-      "category": "数码"
     },
     {
       "raw_hot": 167264,
@@ -1763,6 +1811,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 163716,
+      "num": 163716,
+      "word": "卵巢癌为何一发现就是晚期",
+      "onboard_time": 1711016599,
+      "rank": 39,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 162676,
       "num": 162676,
       "word": "娃哈哈客服回应网店销量暴降",
@@ -1793,6 +1849,14 @@
       "onboard_time": 1710990510,
       "rank": 40,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 159561,
+      "num": 159561,
+      "word": "原来大家的老师都这么颠",
+      "onboard_time": 1711016299,
+      "rank": 40,
+      "category": "幽默"
     },
     {
       "raw_hot": 159539,
@@ -1859,6 +1923,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 152000,
+      "num": 561619,
+      "word": "新民警收获第6面锦旗暗中向师傅比六",
+      "onboard_time": 1711014980,
+      "rank": 9,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 151406,
       "num": 151406,
       "word": "承欢记要来了",
@@ -1889,6 +1961,14 @@
       "onboard_time": 1710987933,
       "rank": 44,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 148534,
+      "num": 148534,
+      "word": "罗振宇承认自己巅峰已过",
+      "onboard_time": 1711014319,
+      "rank": 47,
+      "category": "互联网"
     },
     {
       "raw_hot": 148260,
@@ -1945,14 +2025,6 @@
       "onboard_time": 1710995496,
       "rank": 46,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 144287,
-      "num": 526928,
-      "word": "新民警收获第6面锦旗暗中向师傅比六",
-      "onboard_time": 1711014980,
-      "rank": 9,
-      "category": "社会正能量"
     },
     {
       "raw_hot": 143666,
@@ -2283,14 +2355,6 @@
       "category": "艺人,体育"
     },
     {
-      "raw_hot": 111109,
-      "num": 111109,
-      "word": "罗振宇承认自己巅峰已过",
-      "onboard_time": 1711014319,
-      "rank": 47,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 110968,
       "num": 110968,
       "word": "免费餐这事在猫圈传开了",
@@ -2332,7 +2396,7 @@
     },
     {
       "raw_hot": 99277,
-      "num": 530083,
+      "num": 568169,
       "word": "321适合许愿",
       "onboard_time": 1711014618,
       "rank": 8,
