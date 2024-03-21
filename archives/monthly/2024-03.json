@@ -1,6 +1,6 @@
 {
   "startTime": 1709223640991,
-  "endTime": 1711052307210,
+  "endTime": 1711053328613,
   "band_list": [
     {
       "raw_hot": 12728050,
@@ -57811,6 +57811,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 69747,
+      "num": 38999,
+      "word": "女子家门口凌晨4点被人做三角标记",
+      "onboard_time": 1711049350,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 69358,
       "num": 69358,
       "word": "身体这两个地方千万别冻着",
@@ -58041,14 +58049,6 @@
       "onboard_time": 1710127771,
       "rank": 2,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 65894,
-      "num": 38999,
-      "word": "女子家门口凌晨4点被人做三角标记",
-      "onboard_time": 1711049350,
-      "rank": 45,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 65772,
@@ -59945,6 +59945,14 @@
       "onboard_time": 1710576874,
       "rank": 34,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 30840,
+      "num": 20803,
+      "word": "何炅演发疯",
+      "onboard_time": 1711052651,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 30720,
