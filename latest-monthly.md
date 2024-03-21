@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/03/01 00:20:40 ~ 2024/03/21 17:34:26
+本榜单时间：2024/03/01 00:20:40 ~ 2024/03/21 18:17:17
 </p>
 </blockquote>
 <p>
@@ -5427,6 +5427,12 @@ SpaceX星舰一二级火箭成功分离（热度：776697）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%99%A2%E6%96%B9%E5%9B%9E%E5%BA%94%E4%B8%A4%E5%90%8D%E5%8C%BB%E5%AD%A6%E7%94%9F%E5%85%88%E5%90%8E%E8%87%AA%E6%9D%80%E6%83%85%E5%86%B5%E5%B1%9E%E5%AE%9E%23" target="weibo">
+院方回应两名医学生先后自杀情况属实（热度：772068）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%9C%E5%8D%8E%E5%AE%9A%E4%BB%B710%E5%85%83%E6%8B%9B%E8%81%98%E4%B8%AA%E4%BA%BA%E5%8A%A9%E7%90%86%23" target="weibo">
 杜华定价10元招聘个人助理（热度：771786）
 </a>
@@ -6005,12 +6011,6 @@ PDD（热度：736431）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%95%99%E8%82%B2%E9%83%A8%E5%B0%86%E5%A2%9E%E5%8A%A0%E4%B8%93%E7%A1%95%E6%8B%9B%E7%94%9F%E8%A7%84%E6%A8%A1%23" target="weibo">
 教育部将增加专硕招生规模（热度：726490）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%93%E5%AE%B6%E7%A7%B0%E5%BE%88%E5%A4%9A%E5%AF%8C%E8%B1%AA%E6%8A%8A%E9%AB%98%E6%B6%88%E8%B4%B9%E9%83%BD%E7%AE%97%E5%9C%A8%E4%BC%81%E4%B8%9A%E8%B4%B9%E7%94%A8%E4%B8%8A%23" target="weibo">
-专家称很多富豪把高消费都算在企业费用上（热度：725751）
 </a>
 </li>
 

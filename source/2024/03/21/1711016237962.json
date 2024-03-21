@@ -1,0 +1,410 @@
+{
+  "runTime": 1711016237962,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1273022,
+        "num": 1273022,
+        "word": "普京被正式宣布选举获胜",
+        "onboard_time": 1711011498,
+        "rank": 0,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 976496,
+        "num": 976496,
+        "word": "别被8小时睡眠论给骗了",
+        "onboard_time": 1711005752,
+        "rank": 1,
+        "category": "科学科普,健康医疗"
+      },
+      {
+        "raw_hot": 38900,
+        "num": 739947,
+        "word": "用课本封面打开春耕画卷",
+        "onboard_time": 1710995737,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 715899,
+        "num": 715899,
+        "word": "乱写简历被录取了是种什么体验",
+        "onboard_time": 1710999094,
+        "rank": 3,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 652251,
+        "num": 652251,
+        "word": "甄嬛传原定结局",
+        "onboard_time": 1711007133,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 590835,
+        "num": 590835,
+        "word": "金世佳猎罪图鉴2路透",
+        "onboard_time": 1711010179,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 553055,
+        "num": 553055,
+        "word": "医院工作人员窃取凯特王妃病历未遂",
+        "onboard_time": 1711010058,
+        "rank": 6,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 536474,
+        "num": 536474,
+        "word": "乳房自检不能捏而要按",
+        "onboard_time": 1711005454,
+        "rank": 7,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 99277,
+        "num": 530083,
+        "word": "321适合许愿",
+        "onboard_time": 1711014618,
+        "rank": 8,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 144287,
+        "num": 526928,
+        "word": "新民警收获第6面锦旗暗中向师傅比六",
+        "onboard_time": 1711014980,
+        "rank": 9,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 772068,
+        "num": 521829,
+        "word": "院方回应两名医学生先后自杀情况属实",
+        "onboard_time": 1711013479,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 596126,
+        "num": 514555,
+        "word": "张馨予在东北光腿",
+        "onboard_time": 1711013418,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 509257,
+        "num": 509257,
+        "word": "三体 要剧情有特效",
+        "onboard_time": 1711011679,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 508063,
+        "num": 508063,
+        "word": "刘维做手术",
+        "onboard_time": 1711003170,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 453358,
+        "num": 453358,
+        "word": "杨幂背部身材",
+        "onboard_time": 1711009580,
+        "rank": 14,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 434418,
+        "num": 434418,
+        "word": "英航乘务员种族歧视中国乘客",
+        "onboard_time": 1711012519,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 361551,
+        "num": 361551,
+        "word": "教育局回应校园欺凌生最后投档",
+        "onboard_time": 1711008858,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 353783,
+        "num": 353783,
+        "word": "恋爱兄妹 11家庭",
+        "onboard_time": 1711010598,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 327685,
+        "num": 327685,
+        "word": "鲜芋仙致歉声明",
+        "onboard_time": 1711006700,
+        "rank": 18,
+        "category": "美食,社会新闻"
+      },
+      {
+        "raw_hot": 323879,
+        "num": 323879,
+        "word": "杨幂再现月牙笑",
+        "onboard_time": 1711015759,
+        "rank": 19,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 316471,
+        "num": 316471,
+        "word": "汪淼性转",
+        "onboard_time": 1711014258,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 259796,
+        "num": 259796,
+        "word": "吴彦祖 贾玲惊人的转变令人瞠目结舌",
+        "onboard_time": 1711006173,
+        "rank": 21,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 258762,
+        "num": 258762,
+        "word": "一直不睡觉几天后会死",
+        "onboard_time": 1711014920,
+        "rank": 22,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 241770,
+        "num": 241770,
+        "word": "黄渤张艺兴快碎了",
+        "onboard_time": 1711015158,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 233849,
+        "num": 233849,
+        "word": "周也喊张淼怡",
+        "onboard_time": 1711010779,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 229838,
+        "num": 229838,
+        "word": "网飞三体特效",
+        "onboard_time": 1711008559,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 223726,
+        "num": 223726,
+        "word": "离职员工给前公司寄了头猪",
+        "onboard_time": 1711007119,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 208156,
+        "num": 208156,
+        "word": "猎罪图鉴",
+        "onboard_time": 1711013899,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 206243,
+        "num": 206243,
+        "word": "Apple 静安",
+        "onboard_time": 1711014980,
+        "rank": 28,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 171331,
+        "num": 202596,
+        "word": "菲律宾34人非法登临铁线礁",
+        "onboard_time": 1711015459,
+        "rank": 29,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 201882,
+        "num": 201882,
+        "word": "凤凰传奇演唱会取消",
+        "onboard_time": 1710994356,
+        "rank": 30,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 187594,
+        "num": 187594,
+        "word": "王一博追风者定妆花絮",
+        "onboard_time": 1711015699,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 182375,
+        "num": 182375,
+        "word": "黄莺 无期迷途",
+        "onboard_time": 1711013959,
+        "rank": 32,
+        "category": "游戏,艺人"
+      },
+      {
+        "raw_hot": 177966,
+        "num": 177966,
+        "word": "张凌赫三年了终于把古装脱了",
+        "onboard_time": 1710996338,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 168745,
+        "num": 168745,
+        "word": "库克 交大",
+        "onboard_time": 1711015938,
+        "rank": 34,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 161079,
+        "num": 161079,
+        "word": "理想汽车股价跳水",
+        "onboard_time": 1711013179,
+        "rank": 35,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 153095,
+        "num": 153095,
+        "word": "我爸把养了六年的猫扔了",
+        "onboard_time": 1710989012,
+        "rank": 36,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 147637,
+        "num": 147637,
+        "word": "吴彦祖去看贾玲了",
+        "onboard_time": 1710992734,
+        "rank": 37,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 141920,
+        "num": 141920,
+        "word": "小鬼的微博文案是摩斯电码",
+        "onboard_time": 1711011080,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 137144,
+        "num": 137144,
+        "word": "多省市教育部门就校园欺凌案密集发声",
+        "onboard_time": 1711012998,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 135490,
+        "num": 135490,
+        "word": "两个人在一起的意义",
+        "onboard_time": 1711011498,
+        "rank": 40,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 132533,
+        "num": 132533,
+        "word": "做了一年半的阿姨发短信来内涵",
+        "onboard_time": 1711002390,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 125733,
+        "num": 125733,
+        "word": "12岁男孩每晚10点睡觉全班最矮",
+        "onboard_time": 1711002330,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 124907,
+        "num": 124907,
+        "word": "国足新帅伊万科维奇专访",
+        "onboard_time": 1711014559,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 123119,
+        "num": 123119,
+        "word": "梨形天菜花苞裙",
+        "onboard_time": 1711010419,
+        "rank": 44,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 113557,
+        "num": 113557,
+        "word": "李明德杀青照",
+        "onboard_time": 1711013539,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 111908,
+        "num": 111908,
+        "word": "记者卧底鲜芋仙曝光后厨乱象",
+        "onboard_time": 1710998793,
+        "rank": 46,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 111109,
+        "num": 111109,
+        "word": "罗振宇承认自己巅峰已过",
+        "onboard_time": 1711014319,
+        "rank": 47,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 110968,
+        "num": 110968,
+        "word": "免费餐这事在猫圈传开了",
+        "onboard_time": 1711013779,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 107710,
+        "num": 107710,
+        "word": "三体",
+        "onboard_time": 1710990394,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平主持召开新时代推动中部地区崛起座谈会#"
+    }
+  }
+}
