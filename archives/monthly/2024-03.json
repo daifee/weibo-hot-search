@@ -1,6 +1,6 @@
 {
   "startTime": 1709223640991,
-  "endTime": 1711136049676,
+  "endTime": 1711138650436,
   "band_list": [
     {
       "raw_hot": 12728050,
@@ -62035,6 +62035,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 43463,
+      "num": 39891,
+      "word": "卢昱晓 如今的我很幸运",
+      "onboard_time": 1711137731,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 43137,
       "num": 43137,
       "word": "春天背景图",
@@ -62081,6 +62089,14 @@
       "onboard_time": 1710524183,
       "rank": 42,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 41692,
+      "num": 41692,
+      "word": "刘宇宁官宣加盟品质盛典",
+      "onboard_time": 1711135332,
+      "rank": 21,
+      "category": "剧集"
     },
     {
       "raw_hot": 41485,
@@ -62691,14 +62707,6 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 30812,
-      "num": 30812,
-      "word": "刘宇宁官宣加盟品质盛典",
-      "onboard_time": 1711135332,
-      "rank": 21,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 30720,
       "num": 33645,
       "word": "当上菜的速度赶不上吃饭的速度时",
@@ -62753,6 +62761,14 @@
       "onboard_time": 1710648034,
       "rank": 14,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 29684,
+      "num": 25478,
+      "word": "prx输了",
+      "onboard_time": 1711133951,
+      "rank": 48,
+      "category": "电竞"
     },
     {
       "raw_hot": 29510,
@@ -63227,6 +63243,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 19976,
+      "num": 22276,
+      "word": "喜茶客服回应喜证被倒卖1.9元1张",
+      "onboard_time": 1711137431,
+      "rank": 28,
+      "category": "社会新闻,游戏"
+    },
+    {
       "raw_hot": 19932,
       "num": 33623,
       "word": "2024全英公开赛",
@@ -63249,14 +63273,6 @@
       "onboard_time": 1710704596,
       "rank": 43,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 19072,
-      "num": 25478,
-      "word": "prx输了",
-      "onboard_time": 1711133951,
-      "rank": 48,
-      "category": "电竞"
     },
     {
       "raw_hot": 19023,

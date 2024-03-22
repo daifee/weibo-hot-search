@@ -1,6 +1,6 @@
 {
   "startTime": 1711124556378,
-  "endTime": 1711136049676,
+  "endTime": 1711138650436,
   "band_list": [
     {
       "raw_hot": 1515135,
@@ -483,12 +483,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 43463,
+      "num": 39891,
+      "word": "卢昱晓 如今的我很幸运",
+      "onboard_time": 1711137731,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 43137,
       "num": 43137,
       "word": "春天背景图",
       "onboard_time": 1711130352,
       "rank": 31,
       "category": "情感"
+    },
+    {
+      "raw_hot": 41692,
+      "num": 41692,
+      "word": "刘宇宁官宣加盟品质盛典",
+      "onboard_time": 1711135332,
+      "rank": 21,
+      "category": "剧集"
     },
     {
       "raw_hot": 34196,
@@ -499,12 +515,12 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 30812,
-      "num": 30812,
-      "word": "刘宇宁官宣加盟品质盛典",
-      "onboard_time": 1711135332,
-      "rank": 21,
-      "category": "剧集"
+      "raw_hot": 29684,
+      "num": 25478,
+      "word": "prx输了",
+      "onboard_time": 1711133951,
+      "rank": 48,
+      "category": "电竞"
     },
     {
       "raw_hot": 27655,
@@ -515,12 +531,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 19072,
-      "num": 25478,
-      "word": "prx输了",
-      "onboard_time": 1711133951,
-      "rank": 48,
-      "category": "电竞"
+      "raw_hot": 20179,
+      "num": 20179,
+      "word": "小日子",
+      "onboard_time": 1711136472,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 19976,
+      "num": 22276,
+      "word": "喜茶客服回应喜证被倒卖1.9元1张",
+      "onboard_time": 1711137431,
+      "rank": 28,
+      "category": "社会新闻,游戏"
     },
     {
       "raw_hot": 18884,
