@@ -1,0 +1,410 @@
+{
+  "runTime": 1711120629774,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1215004,
+        "num": 1215004,
+        "word": "李沁 红太狼",
+        "onboard_time": 1711116618,
+        "rank": 0,
+        "category": "剧集,综艺"
+      },
+      {
+        "raw_hot": 930513,
+        "num": 930513,
+        "word": "咸雪 赵丽颖",
+        "onboard_time": 1711118840,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 272730,
+        "num": 886611,
+        "word": "花开种花家",
+        "onboard_time": 1711116920,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 982655,
+        "num": 879496,
+        "word": "为什么大多数销冠都是女的",
+        "onboard_time": 1711111398,
+        "rank": 3,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 862961,
+        "num": 862961,
+        "word": "以色列宣布没收8平方公里巴勒斯坦土地",
+        "onboard_time": 1711112238,
+        "rank": 4,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 620746,
+        "num": 620746,
+        "word": "阴阳师给王者荣耀律师函",
+        "onboard_time": 1711107018,
+        "rank": 5,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 590508,
+        "num": 590508,
+        "word": "赵丽颖林更新给对方的微信备注",
+        "onboard_time": 1711114399,
+        "rank": 6,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 575600,
+        "num": 575600,
+        "word": "睡不着就在床头放个苹果",
+        "onboard_time": 1711118540,
+        "rank": 7,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 575419,
+        "num": 575419,
+        "word": "喜证被倒卖1.9元1张",
+        "onboard_time": 1711107498,
+        "rank": 8,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 362508,
+        "num": 533710,
+        "word": "未成年人犯故意杀人等重罪要依法追究刑责",
+        "onboard_time": 1711074258,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 745232,
+        "num": 521490,
+        "word": "手部出现3种异样可能患癌",
+        "onboard_time": 1711119200,
+        "rank": 10,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 654740,
+        "num": 516486,
+        "word": "微信官方回应朋友圈横线问题",
+        "onboard_time": 1711099879,
+        "rank": 11,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 506889,
+        "num": 506889,
+        "word": "富豪被1根鱼刺折磨瘦了130斤",
+        "onboard_time": 1711115779,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 501475,
+        "num": 501475,
+        "word": "张予曦泳池身材",
+        "onboard_time": 1711119499,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 475341,
+        "num": 475341,
+        "word": "张杰音响",
+        "onboard_time": 1711117521,
+        "rank": 14,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 471057,
+        "num": 471057,
+        "word": "安踏在魏若来脸上植入广告",
+        "onboard_time": 1711116079,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 423553,
+        "num": 423553,
+        "word": "客厅存在的意义是什么",
+        "onboard_time": 1711111699,
+        "rank": 16,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 400346,
+        "num": 400346,
+        "word": "何悯鸿 悬着的心终于死了",
+        "onboard_time": 1711107918,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 353242,
+        "num": 353242,
+        "word": "肖战cue身材",
+        "onboard_time": 1711111639,
+        "rank": 18,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 218883,
+        "num": 343538,
+        "word": "地铁被诬偷拍案二审庭前3次调解失败",
+        "onboard_time": 1711119140,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 466214,
+        "num": 342471,
+        "word": "台湾女生托福建朋友买手机",
+        "onboard_time": 1711119200,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 336444,
+        "num": 336444,
+        "word": "茉莉型人格",
+        "onboard_time": 1711117639,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 326332,
+        "num": 326332,
+        "word": "国产三体 吊打",
+        "onboard_time": 1711096818,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 291021,
+        "num": 291021,
+        "word": "邓科被赵丽颖美到",
+        "onboard_time": 1711117040,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 273248,
+        "num": 273248,
+        "word": "眼泪女王",
+        "onboard_time": 1711116799,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 260406,
+        "num": 260406,
+        "word": "关晓彤高定白裙",
+        "onboard_time": 1711117160,
+        "rank": 25,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 253684,
+        "num": 253684,
+        "word": "与凤行断层第一",
+        "onboard_time": 1711108458,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 241837,
+        "num": 241837,
+        "word": "这类玩具致癌",
+        "onboard_time": 1711105937,
+        "rank": 27,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 240023,
+        "num": 240023,
+        "word": "33单局MVP",
+        "onboard_time": 1711118000,
+        "rank": 28,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 230848,
+        "num": 230848,
+        "word": "与凤行嘘嘘被抓了",
+        "onboard_time": 1711118480,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 191890,
+        "num": 191890,
+        "word": "王鹤棣抱起孩子就跑",
+        "onboard_time": 1711119321,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 166365,
+        "num": 166365,
+        "word": "赵小童 超级蔬菜组合丰收",
+        "onboard_time": 1711119920,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 154571,
+        "num": 154571,
+        "word": "张杰巡演超长大屏",
+        "onboard_time": 1711112899,
+        "rank": 32,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 147498,
+        "num": 147498,
+        "word": "医学上没有过度疲劳这一疾病",
+        "onboard_time": 1711114338,
+        "rank": 33,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 129104,
+        "num": 144969,
+        "word": "离职后还有24万工资没发",
+        "onboard_time": 1711097301,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 144419,
+        "num": 144419,
+        "word": "黄子韬直播cue徐艺洋",
+        "onboard_time": 1711094958,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 144255,
+        "num": 144255,
+        "word": "陈都灵奶白大衣",
+        "onboard_time": 1711112238,
+        "rank": 36,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 139449,
+        "num": 139449,
+        "word": "全员加速中",
+        "onboard_time": 1711110319,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 134794,
+        "num": 137801,
+        "word": "超级草根vs村BA全民星",
+        "onboard_time": 1711120400,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 137035,
+        "num": 137035,
+        "word": "原来不健康成分披了这么多马甲",
+        "onboard_time": 1711116920,
+        "rank": 39,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 137737,
+        "num": 136438,
+        "word": "BOYNEXTDOOR回归预告",
+        "onboard_time": 1711120221,
+        "rank": 40,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 135151,
+        "num": 135151,
+        "word": "陈奕迅西安演唱会",
+        "onboard_time": 1711118961,
+        "rank": 41,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 129599,
+        "num": 129599,
+        "word": "原来沈璃姓王",
+        "onboard_time": 1711120460,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 543033,
+        "num": 128012,
+        "word": "警方回应67岁老人做工讨薪遭殴打",
+        "onboard_time": 1711113738,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 119570,
+        "num": 126177,
+        "word": "50多岁医生为采集中药材摔下石壁",
+        "onboard_time": 1711120101,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 125568,
+        "num": 125568,
+        "word": "肖战想尝试骑行",
+        "onboard_time": 1711115120,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 124370,
+        "num": 124370,
+        "word": "恋爱兄妹",
+        "onboard_time": 1711107798,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 123784,
+        "num": 123784,
+        "word": "爸爸隔保鲜膜狂亲新生宝宝",
+        "onboard_time": 1711098078,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 121410,
+        "num": 121410,
+        "word": "你完全可以相信古人的审美",
+        "onboard_time": 1711117639,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 99912,
+        "num": 121178,
+        "word": "哈佛毕业回国考公是大材小用吗",
+        "onboard_time": 1711106299,
+        "rank": 49,
+        "category": "教育"
+      }
+    ],
+    "hotgov": {
+      "word": "#推动中部地区崛起总书记这样擘画#"
+    }
+  }
+}
