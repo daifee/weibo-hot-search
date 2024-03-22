@@ -1,6 +1,6 @@
 {
   "startTime": 1711124556378,
-  "endTime": 1711134942521,
+  "endTime": 1711136049676,
   "band_list": [
     {
       "raw_hot": 1515135,
@@ -499,6 +499,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 30812,
+      "num": 30812,
+      "word": "刘宇宁官宣加盟品质盛典",
+      "onboard_time": 1711135332,
+      "rank": 21,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 27655,
       "num": 31709,
       "word": "追风者",
@@ -515,12 +523,20 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 14893,
+      "raw_hot": 18884,
       "num": 28728,
       "word": "退休医生70岁生日当天在车站救人",
       "onboard_time": 1711134012,
       "rank": 29,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 17117,
+      "num": 21607,
+      "word": "陈奕迅西安演唱会",
+      "onboard_time": 1711118961,
+      "rank": 49,
+      "category": "演出"
     }
   ],
   "hotgov_list": [
