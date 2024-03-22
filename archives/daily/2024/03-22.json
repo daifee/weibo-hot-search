@@ -1,6 +1,6 @@
 {
   "startTime": 1711038208925,
-  "endTime": 1711085724994,
+  "endTime": 1711088510003,
   "band_list": [
     {
       "raw_hot": 3261143,
@@ -59,12 +59,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1158437,
+      "num": 1158437,
+      "word": "武汉地铁就无臂男子事件道歉",
+      "onboard_time": 1711085780,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1146947,
       "num": 1146947,
       "word": "贾玲 杂志排版",
       "onboard_time": 1711079781,
       "rank": 6,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1071394,
+      "num": 1071394,
+      "word": "为什么胸口会刺痛几秒",
+      "onboard_time": 1711084880,
+      "rank": 14,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 1062825,
@@ -97,6 +113,14 @@
       "onboard_time": 1711070241,
       "rank": 27,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 876621,
+      "num": 876621,
+      "word": "虞书欣父亲退出被强执公司",
+      "onboard_time": 1711085721,
+      "rank": 5,
+      "category": "艺人"
     },
     {
       "raw_hot": 870854,
@@ -147,6 +171,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 762319,
+      "num": 762319,
+      "word": "杨紫首部大女主职场剧",
+      "onboard_time": 1711085301,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 749405,
       "num": 749405,
       "word": "BLACKPINK续约金额高达400亿韩元",
@@ -169,6 +201,14 @@
       "onboard_time": 1711071318,
       "rank": 10,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 713964,
+      "num": 713964,
+      "word": "TFBOYS十年之约现象级演唱会",
+      "onboard_time": 1711086919,
+      "rank": 7,
+      "category": "演出"
     },
     {
       "raw_hot": 708084,
@@ -307,6 +347,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 536125,
+      "num": 536125,
+      "word": "Celine全球品牌大使Danielle",
+      "onboard_time": 1711088000,
+      "rank": 10,
+      "category": "时尚,作品衍生"
+    },
+    {
       "raw_hot": 533743,
       "num": 533743,
       "word": "16岁的刘学义",
@@ -361,6 +409,14 @@
       "onboard_time": 1711036579,
       "rank": 6,
       "category": "体育"
+    },
+    {
+      "raw_hot": 487660,
+      "num": 487660,
+      "word": "林俊杰恢复了",
+      "onboard_time": 1711087221,
+      "rank": 11,
+      "category": "演出"
     },
     {
       "raw_hot": 466395,
@@ -491,12 +547,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 385374,
+      "num": 385374,
+      "word": "比奔跑吧先更新的是头像",
+      "onboard_time": 1711085539,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 364467,
       "num": 151225,
       "word": "霸王茶姬抽奖",
       "onboard_time": 1711070241,
       "rank": 44,
       "category": "美食"
+    },
+    {
+      "raw_hot": 362682,
+      "num": 362682,
+      "word": "戚薇cos",
+      "onboard_time": 1711085721,
+      "rank": 16,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 354866,
@@ -545,14 +617,6 @@
       "onboard_time": 1711032139,
       "rank": 15,
       "category": "健康医疗,美食"
-    },
-    {
-      "raw_hot": 328803,
-      "num": 328803,
-      "word": "为什么胸口会刺痛几秒",
-      "onboard_time": 1711084880,
-      "rank": 14,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 327396,
@@ -667,6 +731,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 276878,
+      "num": 189424,
+      "word": "高中同学变成我的学生了",
+      "onboard_time": 1711087161,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 273740,
       "num": 265181,
       "word": "张庭夫妇庭秘密旗下公司拟注销",
@@ -705,6 +777,14 @@
       "onboard_time": 1711031841,
       "rank": 17,
       "category": "体育"
+    },
+    {
+      "raw_hot": 270434,
+      "num": 270434,
+      "word": "杨幂晒美甲",
+      "onboard_time": 1711085421,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 269039,
@@ -763,6 +843,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 230669,
+      "num": 230669,
+      "word": "爱马仕CEO曾称中国客户迷恋爱马仕",
+      "onboard_time": 1711085241,
+      "rank": 35,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 228461,
       "num": 141921,
       "word": "公司全勤500属实把我拿捏住了",
@@ -803,6 +891,22 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 218779,
+      "num": 218779,
+      "word": "杨幂打卡杨幂",
+      "onboard_time": 1711087762,
+      "rank": 25,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 215803,
+      "num": 215803,
+      "word": "当十个勤天只留蒋敦豪在家时",
+      "onboard_time": 1711086500,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 215646,
       "num": 215646,
       "word": "天水麻辣烫到底能火多久",
@@ -819,14 +923,6 @@
       "category": "美妆"
     },
     {
-      "raw_hot": 215395,
-      "num": 215395,
-      "word": "杨紫首部大女主职场剧",
-      "onboard_time": 1711085301,
-      "rank": 26,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 214896,
       "num": 214896,
       "word": "月薪2万吃不起的百果园栽了",
@@ -841,6 +937,14 @@
       "onboard_time": 1711063576,
       "rank": 14,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 214203,
+      "num": 214203,
+      "word": "刘学义花絮",
+      "onboard_time": 1711087459,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 214184,
@@ -889,14 +993,6 @@
       "onboard_time": 1711029140,
       "rank": 39,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 206309,
-      "num": 206309,
-      "word": "比奔跑吧先更新的是头像",
-      "onboard_time": 1711085539,
-      "rank": 29,
-      "category": "综艺"
     },
     {
       "raw_hot": 205285,
@@ -987,6 +1083,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 189647,
+      "num": 189647,
+      "word": "残联回应无臂男子免费乘地铁需亮证",
+      "onboard_time": 1711086619,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 189168,
       "num": 189168,
       "word": "周深蹦苗迪",
@@ -1009,14 +1113,6 @@
       "onboard_time": 1711074557,
       "rank": 35,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 179020,
-      "num": 179020,
-      "word": "爱马仕CEO曾称中国客户迷恋爱马仕",
-      "onboard_time": 1711085241,
-      "rank": 35,
-      "category": "时尚"
     },
     {
       "raw_hot": 176881,
@@ -1091,14 +1187,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 165143,
-      "num": 165143,
-      "word": "杨幂晒美甲",
-      "onboard_time": 1711085421,
-      "rank": 39,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 162836,
       "num": 162836,
       "word": "墨方彻底碎了",
@@ -1153,6 +1241,14 @@
       "onboard_time": 1711083621,
       "rank": 40,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 157027,
+      "num": 157027,
+      "word": "杨幂春日私服穿搭",
+      "onboard_time": 1711086258,
+      "rank": 37,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 156465,
@@ -1219,6 +1315,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 141633,
+      "num": 141633,
+      "word": "希林娜依高和她的五个保镖",
+      "onboard_time": 1711088000,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 141439,
       "num": 141439,
       "word": "张杰新专辑先行曲回上线",
@@ -1275,6 +1379,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 130323,
+      "num": 130323,
+      "word": "钟楚曦黄景瑜三搭",
+      "onboard_time": 1711085959,
+      "rank": 43,
+      "category": "电影"
+    },
+    {
       "raw_hot": 130201,
       "num": 130201,
       "word": "琳琳 土豆",
@@ -1323,6 +1435,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 121300,
+      "num": 121300,
+      "word": "张婧仪李庚希 双生花",
+      "onboard_time": 1711088359,
+      "rank": 47,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 119851,
       "num": 119851,
       "word": "周也文笔",
@@ -1369,6 +1489,14 @@
       "onboard_time": 1711011679,
       "rank": 41,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 108379,
+      "num": 116026,
+      "word": "林孝埈 Phoenix",
+      "onboard_time": 1711088301,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 107118,
