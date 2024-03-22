@@ -1,6 +1,6 @@
 {
   "startTime": 1711038208925,
-  "endTime": 1711117014842,
+  "endTime": 1711118040994,
   "band_list": [
     {
       "raw_hot": 3261143,
@@ -68,7 +68,7 @@
     },
     {
       "raw_hot": 1363134,
-      "num": 548788,
+      "num": 573738,
       "word": "微信官方回应朋友圈横线问题",
       "onboard_time": 1711099879,
       "rank": 38,
@@ -267,6 +267,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 785954,
+      "num": 785954,
+      "word": "李沁 红太狼",
+      "onboard_time": 1711116618,
+      "rank": 31,
+      "category": "剧集,综艺"
+    },
+    {
       "raw_hot": 785911,
       "num": 785911,
       "word": "杨紫首部大女主职场剧",
@@ -288,6 +296,14 @@
       "word": "游族网络投毒案凶手一审获死刑",
       "onboard_time": 1711078640,
       "rank": 7,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 762377,
+      "num": 762377,
+      "word": "警方回应67岁老人做工讨薪遭殴打",
+      "onboard_time": 1711113738,
+      "rank": 27,
       "category": "社会新闻"
     },
     {
@@ -377,14 +393,6 @@
       "onboard_time": 1711091658,
       "rank": 41,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 687202,
-      "num": 687202,
-      "word": "警方回应67岁老人做工讨薪遭殴打",
-      "onboard_time": 1711113738,
-      "rank": 27,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 675088,
@@ -499,6 +507,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 577152,
+      "num": 577152,
+      "word": "客厅存在的意义是什么",
+      "onboard_time": 1711111699,
+      "rank": 22,
+      "category": "情感"
+    },
+    {
       "raw_hot": 574865,
       "num": 297253,
       "word": "两岁半的女儿被托班劝退",
@@ -531,12 +547,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 564830,
-      "num": 564830,
-      "word": "客厅存在的意义是什么",
-      "onboard_time": 1711111699,
-      "rank": 22,
-      "category": "情感"
+      "raw_hot": 565624,
+      "num": 565624,
+      "word": "富豪被1根鱼刺折磨瘦了130斤",
+      "onboard_time": 1711115779,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 559883,
@@ -553,6 +569,14 @@
       "onboard_time": 1711090759,
       "rank": 12,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 551768,
+      "num": 551768,
+      "word": "赵丽颖林更新给对方的微信备注",
+      "onboard_time": 1711114399,
+      "rank": 44,
+      "category": "艺人"
     },
     {
       "raw_hot": 549201,
@@ -593,6 +617,14 @@
       "onboard_time": 1711071498,
       "rank": 8,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 539199,
+      "num": 539199,
+      "word": "安踏在魏若来脸上植入广告",
+      "onboard_time": 1711116079,
+      "rank": 17,
+      "category": "剧集"
     },
     {
       "raw_hot": 538993,
@@ -707,28 +739,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 467015,
-      "num": 467015,
-      "word": "赵丽颖林更新给对方的微信备注",
-      "onboard_time": 1711114399,
-      "rank": 44,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 466395,
       "num": 466395,
       "word": "宋雨琦4月将solo",
       "onboard_time": 1711075160,
       "rank": 12,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 458450,
-      "num": 458450,
-      "word": "富豪被1根鱼刺折磨瘦了130斤",
-      "onboard_time": 1711115779,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 451671,
@@ -947,14 +963,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 349674,
-      "num": 349674,
-      "word": "安踏在魏若来脸上植入广告",
-      "onboard_time": 1711116079,
-      "rank": 17,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 349458,
       "num": 349458,
       "word": "杨幂打卡杨幂",
@@ -1009,6 +1017,14 @@
       "onboard_time": 1711025780,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 337501,
+      "num": 337501,
+      "word": "眼泪女王",
+      "onboard_time": 1711116799,
+      "rank": 35,
+      "category": "剧集"
     },
     {
       "raw_hot": 336367,
@@ -1129,6 +1145,14 @@
       "onboard_time": 1711067122,
       "rank": 26,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 305892,
+      "num": 305892,
+      "word": "邓科被赵丽颖美到",
+      "onboard_time": 1711117040,
+      "rank": 20,
+      "category": "剧集"
     },
     {
       "raw_hot": 299155,
@@ -1305,6 +1329,14 @@
       "onboard_time": 1711080440,
       "rank": 25,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 261293,
+      "num": 261293,
+      "word": "关晓彤高定白裙",
+      "onboard_time": 1711117160,
+      "rank": 23,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 259096,
@@ -1547,6 +1579,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 217862,
+      "num": 217862,
+      "word": "张杰音响",
+      "onboard_time": 1711117521,
+      "rank": 27,
+      "category": "演出"
+    },
+    {
       "raw_hot": 215803,
       "num": 215803,
       "word": "当十个勤天只留蒋敦豪在家时",
@@ -1611,6 +1651,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 213149,
+      "num": 213149,
+      "word": "茉莉型人格",
+      "onboard_time": 1711117639,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 212286,
       "num": 212286,
       "word": "许垚",
@@ -1625,14 +1673,6 @@
       "onboard_time": 1711077860,
       "rank": 30,
       "category": "体育"
-    },
-    {
-      "raw_hot": 211240,
-      "num": 211240,
-      "word": "李沁 红太狼",
-      "onboard_time": 1711116618,
-      "rank": 31,
-      "category": "剧集,综艺"
     },
     {
       "raw_hot": 210626,
@@ -1771,6 +1811,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 198442,
+      "num": 198442,
+      "word": "追风者",
+      "onboard_time": 1711117580,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 197233,
       "num": 197233,
       "word": "爱马仕工作人员否认配货",
@@ -1907,6 +1955,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 179466,
+      "num": 179466,
+      "word": "30岁给20岁建议",
+      "onboard_time": 1711114638,
+      "rank": 34,
+      "category": "情感"
+    },
+    {
       "raw_hot": 177539,
       "num": 177539,
       "word": "WTT重庆冠军赛官宣",
@@ -1969,14 +2025,6 @@
       "onboard_time": 1711103000,
       "rank": 33,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 174523,
-      "num": 174523,
-      "word": "30岁给20岁建议",
-      "onboard_time": 1711114638,
-      "rank": 34,
-      "category": "情感"
     },
     {
       "raw_hot": 174415,
@@ -2043,19 +2091,19 @@
       "category": "体育"
     },
     {
+      "raw_hot": 171063,
+      "num": 171063,
+      "word": "你完全可以相信古人的审美",
+      "onboard_time": 1711117639,
+      "rank": 37,
+      "category": "情感"
+    },
+    {
       "raw_hot": 170418,
       "num": 170418,
       "word": "与凤行凤凰泣血",
       "onboard_time": 1711069161,
       "rank": 38,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 170148,
-      "num": 170148,
-      "word": "眼泪女王",
-      "onboard_time": 1711116799,
-      "rank": 35,
       "category": "剧集"
     },
     {
@@ -2091,6 +2139,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 163898,
+      "num": 814651,
+      "word": "花开种花家",
+      "onboard_time": 1711116920,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 162836,
       "num": 162836,
       "word": "墨方彻底碎了",
@@ -2105,6 +2161,14 @@
       "onboard_time": 1711076600,
       "rank": 34,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 161599,
+      "num": 161599,
+      "word": "与凤行",
+      "onboard_time": 1711117580,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 161160,
@@ -2161,6 +2225,14 @@
       "onboard_time": 1711083621,
       "rank": 40,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 157731,
+      "num": 157731,
+      "word": "自己在家如何处理分叉头发",
+      "onboard_time": 1711116920,
+      "rank": 40,
+      "category": "美妆"
     },
     {
       "raw_hot": 157027,
@@ -2323,6 +2395,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 145199,
+      "num": 145199,
+      "word": "33单局MVP",
+      "onboard_time": 1711118000,
+      "rank": 45,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 144985,
       "num": 144985,
       "word": "Suk的爆炸猎弓",
@@ -2395,14 +2475,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 139763,
-      "num": 139763,
-      "word": "自己在家如何处理分叉头发",
-      "onboard_time": 1711116920,
-      "rank": 40,
-      "category": "美妆"
-    },
-    {
       "raw_hot": 139437,
       "num": 139437,
       "word": "金博洋落泪",
@@ -2417,6 +2489,14 @@
       "onboard_time": 1711085421,
       "rank": 46,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 136301,
+      "num": 499426,
+      "word": "我国网民规模已达到10.92亿人",
+      "onboard_time": 1711116380,
+      "rank": 11,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 135921,
@@ -2851,14 +2931,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 77039,
-      "num": 499426,
-      "word": "我国网民规模已达到10.92亿人",
-      "onboard_time": 1711116380,
-      "rank": 11,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 74917,
       "num": 104260,
       "word": "颜骏凌站位",
@@ -2985,14 +3057,6 @@
       "onboard_time": 1711110918,
       "rank": 38,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 33871,
-      "num": 814651,
-      "word": "花开种花家",
-      "onboard_time": 1711116920,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 31194,
