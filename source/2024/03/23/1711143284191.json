@@ -1,0 +1,410 @@
+{
+  "runTime": 1711143284191,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 201180,
+        "num": 201180,
+        "word": "火烧云孕妇免排队被指慷他人之慨",
+        "onboard_time": 1711124717,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 75979,
+        "num": 75979,
+        "word": "以色列宣布没收8平方公里巴勒斯坦土地",
+        "onboard_time": 1711112238,
+        "rank": 1,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 21173,
+        "num": 73307,
+        "word": "我国网民规模已达到10.92亿人",
+        "onboard_time": 1711116380,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 129978,
+        "num": 72650,
+        "word": "手部出现3种异样可能患癌",
+        "onboard_time": 1711119200,
+        "rank": 3,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 71886,
+        "num": 71886,
+        "word": "睡不着就在床头放个苹果",
+        "onboard_time": 1711118540,
+        "rank": 4,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 67470,
+        "num": 67470,
+        "word": "阴阳师给王者荣耀律师函",
+        "onboard_time": 1711107018,
+        "rank": 5,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 56248,
+        "num": 56248,
+        "word": "咸雪 赵丽颖",
+        "onboard_time": 1711118840,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 46347,
+        "num": 46347,
+        "word": "富士相机怎么成了摄影界的茅台",
+        "onboard_time": 1711129993,
+        "rank": 7,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 39987,
+        "num": 39987,
+        "word": "客厅存在的意义是什么",
+        "onboard_time": 1711111699,
+        "rank": 8,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 39732,
+        "num": 39732,
+        "word": "喜证被倒卖1.9元1张",
+        "onboard_time": 1711107498,
+        "rank": 9,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 73237,
+        "num": 39604,
+        "word": "微信官方回应朋友圈横线问题",
+        "onboard_time": 1711099879,
+        "rank": 10,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 46601,
+        "num": 39596,
+        "word": "富豪被1根鱼刺折磨瘦了130斤",
+        "onboard_time": 1711115779,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 38983,
+        "num": 38983,
+        "word": "张予曦泳池身材",
+        "onboard_time": 1711119499,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 36674,
+        "num": 36674,
+        "word": "卢昱晓 如今的我很幸运",
+        "onboard_time": 1711137731,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 35167,
+        "num": 35167,
+        "word": "刘宇宁官宣加盟品质盛典",
+        "onboard_time": 1711135332,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 34322,
+        "num": 34322,
+        "word": "李沁 红太狼",
+        "onboard_time": 1711116618,
+        "rank": 15,
+        "category": "剧集,综艺"
+      },
+      {
+        "raw_hot": 32593,
+        "num": 32593,
+        "word": "赵丽颖林更新给对方的微信备注",
+        "onboard_time": 1711114399,
+        "rank": 16,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 31467,
+        "num": 31467,
+        "word": "考试选15000字论文还是15秒舞蹈",
+        "onboard_time": 1711123338,
+        "rank": 17,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 30749,
+        "num": 30749,
+        "word": "国产三体 吊打",
+        "onboard_time": 1711096818,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 28281,
+        "num": 28281,
+        "word": "你以为很贵其实很便宜的车",
+        "onboard_time": 1711123578,
+        "rank": 19,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 28393,
+        "num": 27667,
+        "word": "你以为是猫其实是南丁格咪",
+        "onboard_time": 1711122677,
+        "rank": 20,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 26419,
+        "num": 26419,
+        "word": "何悯鸿 悬着的心终于死了",
+        "onboard_time": 1711107918,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 26100,
+        "num": 26100,
+        "word": "执笔",
+        "onboard_time": 1711122018,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 25059,
+        "num": 25059,
+        "word": "迪丽热巴白衣牛仔裤路透",
+        "onboard_time": 1711124119,
+        "rank": 23,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 25014,
+        "num": 25014,
+        "word": "追风者 爷叔",
+        "onboard_time": 1711131791,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 24922,
+        "num": 24922,
+        "word": "赵丽颖回应床咚吻",
+        "onboard_time": 1711124956,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 21694,
+        "num": 21694,
+        "word": "地铁被诬偷拍案二审庭前3次调解失败",
+        "onboard_time": 1711119140,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 20952,
+        "num": 20952,
+        "word": "安踏在魏若来脸上植入广告",
+        "onboard_time": 1711116079,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 19082,
+        "num": 20842,
+        "word": "火烧云回应孕妇免排队",
+        "onboard_time": 1711126095,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 17139,
+        "num": 20812,
+        "word": "退休医生70岁生日当天在车站救人",
+        "onboard_time": 1711134012,
+        "rank": 29,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 20789,
+        "num": 20789,
+        "word": "眼泪女王",
+        "onboard_time": 1711116799,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 20608,
+        "num": 20608,
+        "word": "张杰巡演超长大屏",
+        "onboard_time": 1711112899,
+        "rank": 31,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 19616,
+        "num": 19616,
+        "word": "杨丞琳脸颊痣",
+        "onboard_time": 1711124538,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 19369,
+        "num": 19369,
+        "word": "肖战cue身材",
+        "onboard_time": 1711111639,
+        "rank": 33,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 18741,
+        "num": 18741,
+        "word": "喜茶客服回应喜证被倒卖1.9元1张",
+        "onboard_time": 1711137431,
+        "rank": 34,
+        "category": "社会新闻,游戏"
+      },
+      {
+        "raw_hot": 18526,
+        "num": 18526,
+        "word": "哈佛毕业回国考公是大材小用吗",
+        "onboard_time": 1711106299,
+        "rank": 35,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 18525,
+        "num": 18525,
+        "word": "追风者",
+        "onboard_time": 1711117580,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 18428,
+        "num": 18428,
+        "word": "为什么大多数销冠都是女的",
+        "onboard_time": 1711111398,
+        "rank": 37,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 18014,
+        "num": 18014,
+        "word": "这类玩具致癌",
+        "onboard_time": 1711105937,
+        "rank": 38,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 17658,
+        "num": 17658,
+        "word": "茉莉型人格",
+        "onboard_time": 1711117639,
+        "rank": 39,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 17371,
+        "num": 17371,
+        "word": "奔跑吧全员好美的精神状态",
+        "onboard_time": 1711127234,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 16720,
+        "num": 17370,
+        "word": "和暴食斗争了二十年才学会好好吃饭",
+        "onboard_time": 1711142350,
+        "rank": 41,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 16430,
+        "num": 17365,
+        "word": "白鹿伤痛文学女主",
+        "onboard_time": 1711121778,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 15402,
+        "num": 17364,
+        "word": "恋爱兄妹",
+        "onboard_time": 1711107798,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 14928,
+        "num": 17358,
+        "word": "小日子",
+        "onboard_time": 1711136472,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 14450,
+        "num": 17355,
+        "word": "陈奕迅西安演唱会",
+        "onboard_time": 1711118961,
+        "rank": 45,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 14306,
+        "num": 17355,
+        "word": "原来沈璃姓王",
+        "onboard_time": 1711120460,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 13884,
+        "num": 17349,
+        "word": "追风者 广告",
+        "onboard_time": 1711141631,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 13822,
+        "num": 17348,
+        "word": "蛋仔派对",
+        "onboard_time": 1711129514,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 13733,
+        "num": 17344,
+        "word": "大学生独行侠做久了会怎样",
+        "onboard_time": 1711121120,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#跟着总书记足迹看中部崛起新图景#"
+    }
+  }
+}

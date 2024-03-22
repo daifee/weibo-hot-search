@@ -1,6 +1,6 @@
 {
   "startTime": 1709223640991,
-  "endTime": 1711142142911,
+  "endTime": 1711143284191,
   "band_list": [
     {
       "raw_hot": 12728050,
@@ -63403,6 +63403,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 16720,
+      "num": 17370,
+      "word": "和暴食斗争了二十年才学会好好吃饭",
+      "onboard_time": 1711142350,
+      "rank": 41,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 16433,
       "num": 16433,
       "word": "iOS版地震预警APP收费",
@@ -63571,6 +63579,14 @@
       "category": "国内时政,社会新闻"
     },
     {
+      "raw_hot": 13884,
+      "num": 17349,
+      "word": "追风者 广告",
+      "onboard_time": 1711141631,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 13745,
       "num": 14840,
       "word": "原来真有顺拐的马",
@@ -63601,14 +63617,6 @@
       "onboard_time": 1709758574,
       "rank": 38,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 13352,
-      "num": 14154,
-      "word": "追风者 广告",
-      "onboard_time": 1711141631,
-      "rank": 47,
-      "category": "剧集"
     },
     {
       "raw_hot": 13350,
