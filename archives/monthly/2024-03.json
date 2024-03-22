@@ -1,6 +1,6 @@
 {
   "startTime": 1709223640991,
-  "endTime": 1711114444678,
+  "endTime": 1711117014842,
   "band_list": [
     {
       "raw_hot": 12728050,
@@ -3235,6 +3235,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 1257810,
+      "num": 1257810,
+      "word": "以色列宣布没收8平方公里巴勒斯坦土地",
+      "onboard_time": 1711112238,
+      "rank": 7,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 1257560,
       "num": 1257560,
       "word": "反诈老陈晒2023年收入",
@@ -3609,6 +3617,14 @@
       "onboard_time": 1711026319,
       "rank": 6,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 1211628,
+      "num": 889376,
+      "word": "为什么大多数销冠都是女的",
+      "onboard_time": 1711111398,
+      "rank": 37,
+      "category": "幽默"
     },
     {
       "raw_hot": 1210756,
@@ -4449,14 +4465,6 @@
       "onboard_time": 1709784333,
       "rank": 26,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 1091325,
-      "num": 1091325,
-      "word": "以色列宣布没收8平方公里巴勒斯坦土地",
-      "onboard_time": 1711112238,
-      "rank": 7,
-      "category": "国外时政"
     },
     {
       "raw_hot": 1090781,
@@ -6177,14 +6185,6 @@
       "onboard_time": 1710310473,
       "rank": 30,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 889376,
-      "num": 889376,
-      "word": "为什么大多数销冠都是女的",
-      "onboard_time": 1711111398,
-      "rank": 37,
-      "category": "幽默"
     },
     {
       "raw_hot": 889137,
@@ -8771,6 +8771,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 713485,
+      "num": 713485,
+      "word": "肖战cue身材",
+      "onboard_time": 1711111639,
+      "rank": 8,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 713478,
       "num": 713478,
       "word": "肖战泪痣",
@@ -9288,6 +9296,14 @@
       "word": "娃哈哈",
       "onboard_time": 1709361629,
       "rank": 6,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 687202,
+      "num": 687202,
+      "word": "警方回应67岁老人做工讨薪遭殴打",
+      "onboard_time": 1711113738,
+      "rank": 27,
       "category": "社会新闻"
     },
     {
@@ -10081,14 +10097,6 @@
       "onboard_time": 1710829535,
       "rank": 23,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 649765,
-      "num": 649765,
-      "word": "肖战cue身材",
-      "onboard_time": 1711111639,
-      "rank": 8,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 649732,
@@ -12217,6 +12225,14 @@
       "onboard_time": 1710566736,
       "rank": 30,
       "category": "电影"
+    },
+    {
+      "raw_hot": 564830,
+      "num": 564830,
+      "word": "客厅存在的意义是什么",
+      "onboard_time": 1711111699,
+      "rank": 22,
+      "category": "情感"
     },
     {
       "raw_hot": 564622,
@@ -15643,6 +15659,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 467015,
+      "num": 467015,
+      "word": "赵丽颖林更新给对方的微信备注",
+      "onboard_time": 1711114399,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 466892,
       "num": 466892,
       "word": "耙耙柑不是粑粑柑",
@@ -15993,6 +16017,14 @@
       "onboard_time": 1710326313,
       "rank": 12,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 458450,
+      "num": 458450,
+      "word": "富豪被1根鱼刺折磨瘦了130斤",
+      "onboard_time": 1711115779,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 458323,
@@ -19635,6 +19667,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 375263,
+      "num": 375263,
+      "word": "陈都灵奶白大衣",
+      "onboard_time": 1711112238,
+      "rank": 21,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 375208,
       "num": 375208,
       "word": "贵妇化妆品集体打5折是卖不动了吗",
@@ -20929,6 +20969,14 @@
       "onboard_time": 1710237152,
       "rank": 23,
       "category": "美食"
+    },
+    {
+      "raw_hot": 349674,
+      "num": 349674,
+      "word": "安踏在魏若来脸上植入广告",
+      "onboard_time": 1711116079,
+      "rank": 17,
+      "category": "剧集"
     },
     {
       "raw_hot": 349662,
@@ -23195,14 +23243,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 312003,
-      "num": 312003,
-      "word": "陈都灵奶白大衣",
-      "onboard_time": 1711112238,
-      "rank": 21,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 311991,
       "num": 311991,
       "word": "23岁居然参加过十种工作了",
@@ -24705,6 +24745,14 @@
       "onboard_time": 1710985711,
       "rank": 28,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 291992,
+      "num": 291992,
+      "word": "原来不健康成分披了这么多马甲",
+      "onboard_time": 1711116920,
+      "rank": 21,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 291951,
@@ -27115,14 +27163,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 261791,
-      "num": 261791,
-      "word": "客厅存在的意义是什么",
-      "onboard_time": 1711111699,
-      "rank": 22,
-      "category": "情感"
-    },
-    {
       "raw_hot": 261442,
       "num": 261442,
       "word": "薛之谦空降洛阳站",
@@ -28819,6 +28859,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 244097,
+      "num": 244097,
+      "word": "医学上没有过度疲劳这一疾病",
+      "onboard_time": 1711114338,
+      "rank": 49,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 244058,
       "num": 244058,
       "word": "微信地图 3D",
@@ -30065,6 +30113,14 @@
       "onboard_time": 1710233019,
       "rank": 26,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 232980,
+      "num": 232980,
+      "word": "追风者 不够看",
+      "onboard_time": 1711116019,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 232961,
@@ -31537,6 +31593,14 @@
       "onboard_time": 1709705131,
       "rank": 23,
       "category": "体育"
+    },
+    {
+      "raw_hot": 222200,
+      "num": 222200,
+      "word": "肖战想尝试骑行",
+      "onboard_time": 1711115120,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 222169,
@@ -33489,6 +33553,14 @@
       "onboard_time": 1710717206,
       "rank": 33,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 211240,
+      "num": 211240,
+      "word": "李沁 红太狼",
+      "onboard_time": 1711116618,
+      "rank": 31,
+      "category": "剧集,综艺"
     },
     {
       "raw_hot": 211194,
@@ -37371,6 +37443,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 194148,
+      "num": 194148,
+      "word": "魏若来第一次接头",
+      "onboard_time": 1711116259,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 194139,
       "num": 194139,
       "word": "谢谢你温暖我 没把观众当外人",
@@ -38073,14 +38153,6 @@
       "onboard_time": 1711026740,
       "rank": 38,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 191127,
-      "num": 191127,
-      "word": "警方回应67岁老人做工讨薪遭殴打",
-      "onboard_time": 1711113738,
-      "rank": 27,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 191123,
@@ -41859,6 +41931,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 174523,
+      "num": 174523,
+      "word": "30岁给20岁建议",
+      "onboard_time": 1711114638,
+      "rank": 34,
+      "category": "情感"
+    },
+    {
       "raw_hot": 174475,
       "num": 174475,
       "word": "没有出轨劈腿的爱情片",
@@ -43753,6 +43833,14 @@
       "onboard_time": 1709260473,
       "rank": 40,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 166309,
+      "num": 166309,
+      "word": "丁俊晖晋级世界公开赛4强",
+      "onboard_time": 1711115239,
+      "rank": 36,
+      "category": "体育"
     },
     {
       "raw_hot": 166206,
@@ -47075,6 +47163,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 152834,
+      "num": 152834,
+      "word": "iPad游戏合集",
+      "onboard_time": 1711113559,
+      "rank": 34,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 152791,
       "num": 152791,
       "word": "詹姆斯40分",
@@ -47529,14 +47625,6 @@
       "onboard_time": 1710986553,
       "rank": 46,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 151288,
-      "num": 151288,
-      "word": "iPad游戏合集",
-      "onboard_time": 1711113559,
-      "rank": 34,
-      "category": "游戏"
     },
     {
       "raw_hot": 151247,
@@ -50395,6 +50483,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 139763,
+      "num": 139763,
+      "word": "自己在家如何处理分叉头发",
+      "onboard_time": 1711116920,
+      "rank": 40,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 139755,
       "num": 139755,
       "word": "帕梅拉体验苏州非遗",
@@ -53131,6 +53227,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 129088,
+      "num": 129088,
+      "word": "LPL",
+      "onboard_time": 1711114698,
+      "rank": 45,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 129070,
       "num": 129070,
       "word": "尔滨邀请小当归暑假来看丹顶鹤",
@@ -53635,6 +53739,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 126850,
+      "num": 126850,
+      "word": "最强大脑",
+      "onboard_time": 1711115179,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 126835,
       "num": 126835,
       "word": "暴瘦站立有氧HIIT",
@@ -54025,14 +54137,6 @@
       "onboard_time": 1709910330,
       "rank": 44,
       "category": "情感"
-    },
-    {
-      "raw_hot": 125068,
-      "num": 125068,
-      "word": "赵丽颖林更新给对方的微信备注",
-      "onboard_time": 1711114399,
-      "rank": 44,
-      "category": "艺人"
     },
     {
       "raw_hot": 125061,
@@ -57507,14 +57611,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 106145,
-      "num": 106145,
-      "word": "医学上没有过度疲劳这一疾病",
-      "onboard_time": 1711114338,
-      "rank": 49,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 106061,
       "num": 106061,
       "word": "猫咪突然入镜",
@@ -59403,6 +59499,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 82776,
+      "num": 122131,
+      "word": "广东男篮vs江苏男篮",
+      "onboard_time": 1711116979,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 82714,
       "num": 120970,
       "word": "马斯克回应特斯拉德国工厂火灾",
@@ -59697,6 +59801,14 @@
       "onboard_time": 1709316800,
       "rank": 30,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 77039,
+      "num": 499426,
+      "word": "我国网民规模已达到10.92亿人",
+      "onboard_time": 1711116380,
+      "rank": 11,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 76846,
@@ -62073,6 +62185,14 @@
       "onboard_time": 1710632004,
       "rank": 47,
       "category": "教育"
+    },
+    {
+      "raw_hot": 33871,
+      "num": 814651,
+      "word": "花开种花家",
+      "onboard_time": 1711116920,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 33839,
