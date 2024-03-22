@@ -1,6 +1,6 @@
 {
   "startTime": 1710605970310,
-  "endTime": 1711089248074,
+  "endTime": 1711091792088,
   "band_list": [
     {
       "raw_hot": 11692231,
@@ -3659,6 +3659,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 549201,
+      "num": 549201,
+      "word": "武汉地铁",
+      "onboard_time": 1711089259,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 548934,
       "num": 548934,
       "word": "林更新让林更新",
@@ -4321,6 +4329,14 @@
       "onboard_time": 1710736661,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 470631,
+      "num": 470631,
+      "word": "赵丽颖不理解自己被叫老公",
+      "onboard_time": 1711090759,
+      "rank": 12,
+      "category": "剧集"
     },
     {
       "raw_hot": 469906,
@@ -5739,6 +5755,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 349458,
+      "num": 349458,
+      "word": "杨幂打卡杨幂",
+      "onboard_time": 1711087762,
+      "rank": 25,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 349371,
       "num": 349371,
       "word": "烈焰 恶女挖眼弑父",
@@ -7099,6 +7123,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 273535,
+      "num": 273535,
+      "word": "范丞丞 被diss",
+      "onboard_time": 1711091479,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 273288,
       "num": 273288,
       "word": "李氏东宫",
@@ -7299,6 +7331,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 263719,
+      "num": 243361,
+      "word": "在路边买到了2块钱十个的抄手",
+      "onboard_time": 1711089500,
+      "rank": 21,
+      "category": "美食,幽默"
+    },
+    {
       "raw_hot": 263573,
       "num": 263573,
       "word": "央视网评校园霸凌新特征",
@@ -7313,14 +7353,6 @@
       "onboard_time": 1710805169,
       "rank": 26,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 263022,
-      "num": 263022,
-      "word": "杨幂打卡杨幂",
-      "onboard_time": 1711087762,
-      "rank": 25,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 262814,
@@ -7457,6 +7489,14 @@
       "onboard_time": 1710669033,
       "rank": 9,
       "category": "美食"
+    },
+    {
+      "raw_hot": 254431,
+      "num": 198811,
+      "word": "我妈好像是爽文大女主",
+      "onboard_time": 1711090521,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 254145,
@@ -8587,6 +8627,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 220533,
+      "num": 220533,
+      "word": "2023内娱最火的演唱会",
+      "onboard_time": 1711090400,
+      "rank": 25,
+      "category": "演出"
+    },
+    {
       "raw_hot": 220482,
       "num": 220482,
       "word": "齐司礼 渡梦",
@@ -9555,6 +9603,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 202620,
+      "num": 202620,
+      "word": "张杰上海",
+      "onboard_time": 1711090942,
+      "rank": 27,
+      "category": "演出"
+    },
+    {
       "raw_hot": 202574,
       "num": 202574,
       "word": "全球首台国产空中的士上架开售",
@@ -9736,6 +9792,22 @@
       "word": "当狗狗第一次有了娃还是独生子",
       "onboard_time": 1710904952,
       "rank": 38,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 199566,
+      "num": 199566,
+      "word": "吴磊撑脸照",
+      "onboard_time": 1711089620,
+      "rank": 28,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 199540,
+      "num": 199540,
+      "word": "没转正的00后直接成了项目leader",
+      "onboard_time": 1711091121,
+      "rank": 29,
       "category": "幽默"
     },
     {
@@ -10249,6 +10321,14 @@
       "onboard_time": 1710674313,
       "rank": 32,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 193153,
+      "num": 193153,
+      "word": "IU机场",
+      "onboard_time": 1711091358,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 193015,
@@ -11491,6 +11571,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 173816,
+      "num": 173816,
+      "word": "顾茉莉被绑",
+      "onboard_time": 1711088899,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 173636,
       "num": 173636,
       "word": "哈克南尤物",
@@ -11555,6 +11643,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 172833,
+      "num": 172833,
+      "word": "我国网民规模达10.92亿人",
+      "onboard_time": 1711091239,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 172810,
       "num": 172810,
       "word": "凤凰传奇常州",
@@ -11563,12 +11659,28 @@
       "category": "演出"
     },
     {
+      "raw_hot": 172604,
+      "num": 172604,
+      "word": "长这么大第一次听说家乡的省花",
+      "onboard_time": 1711090819,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 172513,
       "num": 172513,
       "word": "金珉奎可爱",
       "onboard_time": 1710675873,
       "rank": 35,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 172317,
+      "num": 172317,
+      "word": "林孝埈 Phoenix",
+      "onboard_time": 1711088301,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 172288,
@@ -11585,6 +11697,14 @@
       "onboard_time": 1711084998,
       "rank": 37,
       "category": "体育"
+    },
+    {
+      "raw_hot": 172089,
+      "num": 166347,
+      "word": "冰学简历",
+      "onboard_time": 1711091059,
+      "rank": 38,
+      "category": "情感"
     },
     {
       "raw_hot": 172027,
@@ -13035,6 +13155,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 149080,
+      "num": 149080,
+      "word": "赵丽颖和替身合照",
+      "onboard_time": 1711091658,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 149065,
       "num": 149065,
       "word": "赵今麦捧脸",
@@ -13387,14 +13515,6 @@
       "category": "运动健身"
     },
     {
-      "raw_hot": 142144,
-      "num": 142144,
-      "word": "顾茉莉被绑",
-      "onboard_time": 1711088899,
-      "rank": 40,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 142075,
       "num": 342707,
       "word": "洽洽 绘旅人",
@@ -13449,14 +13569,6 @@
       "onboard_time": 1711075098,
       "rank": 38,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 140896,
-      "num": 140896,
-      "word": "林孝埈 Phoenix",
-      "onboard_time": 1711088301,
-      "rank": 49,
-      "category": "体育"
     },
     {
       "raw_hot": 140823,
@@ -13769,6 +13881,14 @@
       "onboard_time": 1710981934,
       "rank": 44,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 135921,
+      "num": 135921,
+      "word": "华为相关人士辟谣P70预售时间和售价",
+      "onboard_time": 1711090158,
+      "rank": 44,
+      "category": "数码"
     },
     {
       "raw_hot": 135734,
