@@ -1,6 +1,6 @@
 {
   "startTime": 1711038208925,
-  "endTime": 1711103663717,
+  "endTime": 1711106106809,
   "band_list": [
     {
       "raw_hot": 3261143,
@@ -51,6 +51,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1363134,
+      "num": 548383,
+      "word": "微信官方回应朋友圈横线问题",
+      "onboard_time": 1711099879,
+      "rank": 38,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 1291810,
       "num": 1291810,
       "word": "武汉地铁就无臂男子事件道歉",
@@ -81,14 +89,6 @@
       "onboard_time": 1711092619,
       "rank": 34,
       "category": "母婴育儿"
-    },
-    {
-      "raw_hot": 1177015,
-      "num": 548383,
-      "word": "微信官方回应朋友圈横线问题",
-      "onboard_time": 1711099879,
-      "rank": 38,
-      "category": "互联网"
     },
     {
       "raw_hot": 1146947,
@@ -232,6 +232,14 @@
       "word": "杨紫首部大女主职场剧",
       "onboard_time": 1711085301,
       "rank": 26,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 778253,
+      "num": 778253,
+      "word": "爸爸隔保鲜膜狂亲新生宝宝",
+      "onboard_time": 1711098078,
+      "rank": 22,
       "category": "剧集"
     },
     {
@@ -563,14 +571,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 454838,
-      "num": 465993,
-      "word": "爸爸隔保鲜膜狂亲新生宝宝",
-      "onboard_time": 1711098078,
-      "rank": 22,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 451671,
       "num": 451671,
       "word": "奔跑吧",
@@ -585,6 +585,14 @@
       "onboard_time": 1711032622,
       "rank": 7,
       "category": "体育"
+    },
+    {
+      "raw_hot": 444203,
+      "num": 444203,
+      "word": "赵丽颖说林更新每天在朋友圈做菜",
+      "onboard_time": 1711100837,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 437663,
@@ -681,14 +689,6 @@
       "onboard_time": 1711081101,
       "rank": 45,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 403352,
-      "num": 403352,
-      "word": "赵丽颖说林更新每天在朋友圈做菜",
-      "onboard_time": 1711100837,
-      "rank": 18,
-      "category": "艺人"
     },
     {
       "raw_hot": 398632,
@@ -843,6 +843,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 331582,
+      "num": 331582,
+      "word": "张翰花少好友记路透",
+      "onboard_time": 1711101079,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 327396,
       "num": 327396,
       "word": "与凤行收视率",
@@ -955,6 +963,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 281446,
+      "num": 281446,
+      "word": "秦海璐行李箱还贴着一璐平安",
+      "onboard_time": 1711101320,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 281015,
       "num": 281015,
       "word": "反诈老陈晒2023年收入",
@@ -985,14 +1001,6 @@
       "onboard_time": 1711083502,
       "rank": 23,
       "category": "财经"
-    },
-    {
-      "raw_hot": 277596,
-      "num": 277596,
-      "word": "张翰花少好友记路透",
-      "onboard_time": 1711101079,
-      "rank": 23,
-      "category": "综艺"
     },
     {
       "raw_hot": 275051,
@@ -1107,6 +1115,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 256968,
+      "num": 187815,
+      "word": "散步是世界上最高级的浪漫",
+      "onboard_time": 1711104618,
+      "rank": 20,
+      "category": "情感"
+    },
+    {
       "raw_hot": 254431,
       "num": 198811,
       "word": "我妈好像是爽文大女主",
@@ -1217,14 +1233,6 @@
       "onboard_time": 1711069999,
       "rank": 29,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 224242,
-      "num": 224242,
-      "word": "秦海璐行李箱还贴着一璐平安",
-      "onboard_time": 1711101320,
-      "rank": 30,
-      "category": "综艺"
     },
     {
       "raw_hot": 223744,
@@ -1473,6 +1481,14 @@
       "onboard_time": 1711070060,
       "rank": 35,
       "category": "时尚,社会新闻"
+    },
+    {
+      "raw_hot": 195849,
+      "num": 164279,
+      "word": "白鹿糖葫芦辫",
+      "onboard_time": 1711104678,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 194882,
@@ -1771,6 +1787,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 156159,
+      "num": 142294,
+      "word": "T人是隐形的恋爱脑",
+      "onboard_time": 1711104559,
+      "rank": 31,
+      "category": "情感"
+    },
+    {
       "raw_hot": 155306,
       "num": 155306,
       "word": "十个勤天群像的神",
@@ -1963,6 +1987,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 134920,
+      "num": 134920,
+      "word": "维和防暴队主演内娱服役22部",
+      "onboard_time": 1711104437,
+      "rank": 34,
+      "category": "电影"
+    },
+    {
       "raw_hot": 134854,
       "num": 134854,
       "word": "张琳芃说就这样结束吧",
@@ -1995,6 +2027,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 133499,
+      "num": 133499,
+      "word": "小狗站岗大赛",
+      "onboard_time": 1711104378,
+      "rank": 35,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 132139,
       "num": 132139,
       "word": "方时赫的大house",
@@ -2009,6 +2049,14 @@
       "onboard_time": 1711025478,
       "rank": 32,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 130609,
+      "num": 130609,
+      "word": "张婧仪鹅黄碎花裙",
+      "onboard_time": 1711105518,
+      "rank": 38,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 130323,
@@ -2043,6 +2091,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 126872,
+      "num": 126872,
+      "word": "KPL",
+      "onboard_time": 1711104259,
+      "rank": 40,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 125380,
       "num": 125380,
       "word": "LPL季后赛落地北京",
@@ -2073,6 +2129,14 @@
       "onboard_time": 1711084579,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 121220,
+      "num": 121220,
+      "word": "这类玩具致癌",
+      "onboard_time": 1711105937,
+      "rank": 44,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 119851,
@@ -2115,12 +2179,36 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 116693,
+      "num": 116693,
+      "word": "67岁老人遭黑社会殴打",
+      "onboard_time": 1711105819,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 116372,
+      "num": 116372,
+      "word": "周五下班聚餐算加班吗",
+      "onboard_time": 1711106058,
+      "rank": 47,
+      "category": "情感"
+    },
+    {
       "raw_hot": 115356,
       "num": 115356,
       "word": "和平精英变天",
       "onboard_time": 1711098021,
       "rank": 48,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 115083,
+      "num": 115083,
+      "word": "勿忘我和星辰花是一种花",
+      "onboard_time": 1711105998,
+      "rank": 48,
+      "category": "科学科普"
     },
     {
       "raw_hot": 113923,
