@@ -1,0 +1,410 @@
+{
+  "runTime": 1711081194703,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2162754,
+        "num": 2162754,
+        "word": "王楚钦发博退出仁川赛",
+        "onboard_time": 1711075879,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1498778,
+        "num": 1498778,
+        "word": "未成年人犯故意杀人等重罪要依法追究刑责",
+        "onboard_time": 1711074258,
+        "rank": 1,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 5426,
+        "num": 1221544,
+        "word": "认识你真好",
+        "onboard_time": 1710834813,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1150581,
+        "num": 1150581,
+        "word": "无臂男子免费乘地铁被要求出示残疾证",
+        "onboard_time": 1711074378,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1106189,
+        "num": 1106189,
+        "word": "丫丫你肚子拖地了",
+        "onboard_time": 1711078700,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 910336,
+        "num": 910336,
+        "word": "一半国家生育率低到无法维持其人口规模",
+        "onboard_time": 1711075217,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 773050,
+        "num": 773050,
+        "word": "贾玲 杂志排版",
+        "onboard_time": 1711079781,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 772871,
+        "num": 772871,
+        "word": "游族网络投毒案凶手一审获死刑",
+        "onboard_time": 1711078640,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 699400,
+        "num": 699400,
+        "word": "张雨绮也有赘肉",
+        "onboard_time": 1711076899,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 654245,
+        "num": 654245,
+        "word": "新加坡队长竟是房产中介",
+        "onboard_time": 1711072578,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 582843,
+        "num": 582843,
+        "word": "警方通报女子家门口被做三角标记",
+        "onboard_time": 1711078041,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 559366,
+        "num": 559366,
+        "word": "微商教母张庭卷土重来",
+        "onboard_time": 1711071679,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 516325,
+        "num": 516325,
+        "word": "赵丽颖好爱用微博表情",
+        "onboard_time": 1711079120,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 397949,
+        "num": 397949,
+        "word": "BLACKPINK或将回归",
+        "onboard_time": 1711077259,
+        "rank": 13,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 396926,
+        "num": 396926,
+        "word": "承欢记",
+        "onboard_time": 1711074738,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 366475,
+        "num": 366475,
+        "word": "8部电影定档五一档",
+        "onboard_time": 1711080323,
+        "rank": 15,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 355256,
+        "num": 355256,
+        "word": "凭什么要禁止东北人做翻译啊",
+        "onboard_time": 1711041073,
+        "rank": 16,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 354420,
+        "num": 354420,
+        "word": "杜海涛 霍尊",
+        "onboard_time": 1711031000,
+        "rank": 17,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 314757,
+        "num": 314757,
+        "word": "孙颖莎澳门",
+        "onboard_time": 1711078041,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 291789,
+        "num": 291789,
+        "word": "最高检谈未成年人故意杀人等严重犯罪",
+        "onboard_time": 1711069459,
+        "rank": 19,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 73758,
+        "num": 288011,
+        "word": "vivoXFold3上手太轻薄了",
+        "onboard_time": 1711078879,
+        "rank": 20,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 407901,
+        "num": 287769,
+        "word": "你会在洗澡中途关花洒吗",
+        "onboard_time": 1711068741,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 287463,
+        "num": 287463,
+        "word": "奔跑吧",
+        "onboard_time": 1711073958,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 280917,
+        "num": 280917,
+        "word": "仁川冠军赛",
+        "onboard_time": 1711079661,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 269221,
+        "num": 269221,
+        "word": "苹果静安店营业一小时后关店",
+        "onboard_time": 1711080022,
+        "rank": 24,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 262814,
+        "num": 262814,
+        "word": "剑网3设计",
+        "onboard_time": 1711080440,
+        "rank": 25,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 254749,
+        "num": 254749,
+        "word": "月光 永不复出",
+        "onboard_time": 1711080381,
+        "rank": 26,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 251063,
+        "num": 251063,
+        "word": "皮肤医生教一个简单去黑头的方法",
+        "onboard_time": 1711075998,
+        "rank": 27,
+        "category": "健康医疗,美妆"
+      },
+      {
+        "raw_hot": 246860,
+        "num": 246860,
+        "word": "六旬大爷三战考研成绩暴涨278分",
+        "onboard_time": 1711071498,
+        "rank": 28,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 243140,
+        "num": 243140,
+        "word": "BLACKPINK续约金额高达400亿韩元",
+        "onboard_time": 1711071139,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 230108,
+        "num": 230108,
+        "word": "陈乔恩晒陈欣怡纪宝贝合照",
+        "onboard_time": 1711074258,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 222602,
+        "num": 222602,
+        "word": "马拉多纳死亡调查有新进展",
+        "onboard_time": 1711077920,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 215646,
+        "num": 215646,
+        "word": "天水麻辣烫到底能火多久",
+        "onboard_time": 1711075818,
+        "rank": 32,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 213179,
+        "num": 213179,
+        "word": "鞠婧祎大女主发言",
+        "onboard_time": 1711079840,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 212286,
+        "num": 212286,
+        "word": "许垚",
+        "onboard_time": 1711079419,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 211160,
+        "num": 211160,
+        "word": "宋仲基夫妇看球赛",
+        "onboard_time": 1711071619,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 209736,
+        "num": 209736,
+        "word": "刘维感谢黄新淳陪护",
+        "onboard_time": 1711077681,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 209051,
+        "num": 209051,
+        "word": "高中生在学校厕所内遭多人殴打",
+        "onboard_time": 1711070241,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 201013,
+        "num": 201013,
+        "word": "卫龙辣条销量下滑近20%",
+        "onboard_time": 1711080921,
+        "rank": 38,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 200828,
+        "num": 200828,
+        "word": "林更新让林更新",
+        "onboard_time": 1711069338,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 190167,
+        "num": 190167,
+        "word": "燕郊爆燃事故发生前后的日子",
+        "onboard_time": 1711077199,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 187819,
+        "num": 187819,
+        "word": "与凤行 科技改变仙侠",
+        "onboard_time": 1711076658,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 176881,
+        "num": 176881,
+        "word": "魔卡少女樱 暗黑知世",
+        "onboard_time": 1711079419,
+        "rank": 42,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 175564,
+        "num": 175564,
+        "word": "星穹铁道2.1",
+        "onboard_time": 1711079840,
+        "rank": 43,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 173314,
+        "num": 173314,
+        "word": "完美世界动画首部剧场版",
+        "onboard_time": 1711080680,
+        "rank": 44,
+        "category": "动漫,作品衍生"
+      },
+      {
+        "raw_hot": 170995,
+        "num": 170995,
+        "word": "杨紫张耀演姐弟",
+        "onboard_time": 1711081101,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 165514,
+        "num": 165514,
+        "word": "宋雨琦4月将solo",
+        "onboard_time": 1711075160,
+        "rank": 46,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 160931,
+        "num": 160931,
+        "word": "电影维和防暴队定档五一",
+        "onboard_time": 1711077259,
+        "rank": 47,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 150707,
+        "num": 150707,
+        "word": "A股",
+        "onboard_time": 1711073298,
+        "rank": 48,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 7247,
+        "num": 141735,
+        "word": "蛋仔派对潮玩大作战",
+        "onboard_time": 1711081160,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#推动中部地区崛起总书记这样擘画#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1709223640991,
-  "endTime": 1711078456794,
+  "endTime": 1711081194703,
   "band_list": [
     {
       "raw_hot": 12728050,
@@ -4195,6 +4195,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1106189,
+      "num": 1106189,
+      "word": "丫丫你肚子拖地了",
+      "onboard_time": 1711078700,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1105475,
       "num": 1105475,
       "word": "凯特王妃到底怎么了",
@@ -5835,6 +5843,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 910336,
+      "num": 910336,
+      "word": "一半国家生育率低到无法维持其人口规模",
+      "onboard_time": 1711075217,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 910257,
       "num": 776537,
       "word": "凯特王妃最新官方照疑造假",
@@ -6001,14 +6017,6 @@
       "onboard_time": 1710855457,
       "rank": 5,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 894136,
-      "num": 894136,
-      "word": "一半国家生育率低到无法维持其人口规模",
-      "onboard_time": 1711075217,
-      "rank": 5,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 893843,
@@ -7467,11 +7475,27 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 773050,
+      "num": 773050,
+      "word": "贾玲 杂志排版",
+      "onboard_time": 1711079781,
+      "rank": 6,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 772875,
       "num": 772875,
       "word": "婚礼后男方拒领证要回5万多彩礼",
       "onboard_time": 1710380369,
       "rank": 17,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 772871,
+      "num": 772871,
+      "word": "游族网络投毒案凶手一审获死刑",
+      "onboard_time": 1711078640,
+      "rank": 7,
       "category": "社会新闻"
     },
     {
@@ -8864,6 +8888,14 @@
       "word": "伊能静说儿子暂不打算出道",
       "onboard_time": 1709684072,
       "rank": 14,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 699400,
+      "num": 699400,
+      "word": "张雨绮也有赘肉",
+      "onboard_time": 1711076899,
+      "rank": 16,
       "category": "艺人"
     },
     {
@@ -11043,14 +11075,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 595612,
-      "num": 595612,
-      "word": "张雨绮也有赘肉",
-      "onboard_time": 1711076899,
-      "rank": 16,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 595541,
       "num": 206097,
       "word": "阮经天对妈妈60多岁离婚的看法",
@@ -11337,6 +11361,14 @@
       "onboard_time": 1710859475,
       "rank": 8,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 582843,
+      "num": 582843,
+      "word": "警方通报女子家门口被做三角标记",
+      "onboard_time": 1711078041,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 582626,
@@ -13424,6 +13456,14 @@
       "word": "爱情公寓演员试镜视频",
       "onboard_time": 1710373470,
       "rank": 8,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 516325,
+      "num": 516325,
+      "word": "赵丽颖好爱用微博表情",
+      "onboard_time": 1711079120,
+      "rank": 12,
       "category": "剧集"
     },
     {
@@ -18139,6 +18179,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 397949,
+      "num": 397949,
+      "word": "BLACKPINK或将回归",
+      "onboard_time": 1711077259,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 397942,
       "num": 295377,
       "word": "刚结婚老公开始算计我的嫁妆",
@@ -19665,6 +19713,14 @@
       "onboard_time": 1710249277,
       "rank": 28,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 366475,
+      "num": 366475,
+      "word": "8部电影定档五一档",
+      "onboard_time": 1711080323,
+      "rank": 15,
+      "category": "电影"
     },
     {
       "raw_hot": 366151,
@@ -21803,14 +21859,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 323521,
-      "num": 323521,
-      "word": "BLACKPINK或将回归",
-      "onboard_time": 1711077259,
-      "rank": 26,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 323388,
       "num": 323388,
       "word": "韩安冉说房子是老公给的婚房",
@@ -22433,6 +22481,14 @@
       "onboard_time": 1710071372,
       "rank": 18,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 314757,
+      "num": 314757,
+      "word": "孙颖莎澳门",
+      "onboard_time": 1711078041,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 314619,
@@ -24851,6 +24907,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 280917,
+      "num": 280917,
+      "word": "仁川冠军赛",
+      "onboard_time": 1711079661,
+      "rank": 23,
+      "category": "体育"
+    },
+    {
       "raw_hot": 280807,
       "num": 280807,
       "word": "武契奇这次用两秒说清台湾问题",
@@ -25763,6 +25827,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 269221,
+      "num": 269221,
+      "word": "苹果静安店营业一小时后关店",
+      "onboard_time": 1711080022,
+      "rank": 24,
+      "category": "数码"
+    },
+    {
       "raw_hot": 269109,
       "num": 269109,
       "word": "申论创新",
@@ -26329,6 +26401,14 @@
       "onboard_time": 1710496182,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 262814,
+      "num": 262814,
+      "word": "剑网3设计",
+      "onboard_time": 1711080440,
+      "rank": 25,
+      "category": "游戏"
     },
     {
       "raw_hot": 262778,
@@ -26953,6 +27033,14 @@
       "onboard_time": 1709787091,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 254749,
+      "num": 254749,
+      "word": "月光 永不复出",
+      "onboard_time": 1711080381,
+      "rank": 26,
+      "category": "电竞"
     },
     {
       "raw_hot": 254677,
@@ -30675,6 +30763,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 222602,
+      "num": 222602,
+      "word": "马拉多纳死亡调查有新进展",
+      "onboard_time": 1711077920,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 222591,
       "num": 222591,
       "word": "考研国家线专硕",
@@ -31763,6 +31859,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 215646,
+      "num": 215646,
+      "word": "天水麻辣烫到底能火多久",
+      "onboard_time": 1711075818,
+      "rank": 32,
+      "category": "美食"
+    },
+    {
       "raw_hot": 215610,
       "num": 215610,
       "word": "阮经天好帅",
@@ -32267,6 +32371,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 213179,
+      "num": 213179,
+      "word": "鞠婧祎大女主发言",
+      "onboard_time": 1711079840,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 213142,
       "num": 213142,
       "word": "樊振东谈输球是正常且良性的竞争",
@@ -32339,14 +32451,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 212507,
-      "num": 212507,
-      "word": "孙颖莎澳门",
-      "onboard_time": 1711078041,
-      "rank": 29,
-      "category": "体育"
-    },
-    {
       "raw_hot": 212419,
       "num": 193636,
       "word": "法国人拍摄的魏大勋",
@@ -32393,6 +32497,14 @@
       "onboard_time": 1710212249,
       "rank": 30,
       "category": "情感"
+    },
+    {
+      "raw_hot": 212286,
+      "num": 212286,
+      "word": "许垚",
+      "onboard_time": 1711079419,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 212250,
@@ -34651,6 +34763,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 201013,
+      "num": 201013,
+      "word": "卫龙辣条销量下滑近20%",
+      "onboard_time": 1711080921,
+      "rank": 38,
+      "category": "美食"
+    },
+    {
       "raw_hot": 200993,
       "num": 200993,
       "word": "向佐上岛了",
@@ -35025,14 +35145,6 @@
       "onboard_time": 1711030641,
       "rank": 38,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 199431,
-      "num": 199431,
-      "word": "马拉多纳死亡调查有新进展",
-      "onboard_time": 1711077920,
-      "rank": 31,
-      "category": "体育"
     },
     {
       "raw_hot": 199411,
@@ -40227,6 +40339,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 176881,
+      "num": 176881,
+      "word": "魔卡少女樱 暗黑知世",
+      "onboard_time": 1711079419,
+      "rank": 42,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 176871,
       "num": 176871,
       "word": "中国减持美债186亿美元",
@@ -40537,6 +40657,14 @@
       "onboard_time": 1710659375,
       "rank": 44,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 175564,
+      "num": 175564,
+      "word": "星穹铁道2.1",
+      "onboard_time": 1711079840,
+      "rank": 43,
+      "category": "游戏"
     },
     {
       "raw_hot": 175535,
@@ -41025,6 +41153,14 @@
       "onboard_time": 1711019419,
       "rank": 40,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 173314,
+      "num": 173314,
+      "word": "完美世界动画首部剧场版",
+      "onboard_time": 1711080680,
+      "rank": 44,
+      "category": "动漫,作品衍生"
     },
     {
       "raw_hot": 173300,
@@ -41531,19 +41667,19 @@
       "category": "情感"
     },
     {
+      "raw_hot": 170995,
+      "num": 170995,
+      "word": "杨紫张耀演姐弟",
+      "onboard_time": 1711081101,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 170880,
       "num": 170880,
       "word": "80后父亲为女儿自制卫生巾词典",
       "onboard_time": 1709892869,
       "rank": 31,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 170867,
-      "num": 170867,
-      "word": "警方通报女子家门口被做三角标记",
-      "onboard_time": 1711078041,
-      "rank": 36,
       "category": "社会新闻"
     },
     {
@@ -42033,14 +42169,6 @@
       "onboard_time": 1709786375,
       "rank": 40,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 168605,
-      "num": 168605,
-      "word": "天水麻辣烫到底能火多久",
-      "onboard_time": 1711075818,
-      "rank": 32,
-      "category": "美食"
     },
     {
       "raw_hot": 168458,
@@ -58283,6 +58411,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 73758,
+      "num": 288011,
+      "word": "vivoXFold3上手太轻薄了",
+      "onboard_time": 1711078879,
+      "rank": 20,
+      "category": "数码"
+    },
+    {
       "raw_hot": 73565,
       "num": 84605,
       "word": "原来这就是二月天杨柳醉春烟",
@@ -61699,6 +61835,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 7247,
+      "num": 141735,
+      "word": "蛋仔派对潮玩大作战",
+      "onboard_time": 1711081160,
+      "rank": 49,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 6836,
       "num": 12760,
       "word": "老人硬核投喂一整头羊民警果断付钱",
@@ -61911,6 +62055,9 @@
     },
     {
       "word": "#科技创新是发展新质生产力的核心要素#"
+    },
+    {
+      "word": "#推动中部地区崛起总书记这样擘画#"
     }
   ]
 }
