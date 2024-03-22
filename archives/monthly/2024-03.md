@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/03/01 00:20:40 ~ 2024/03/22 10:03:07
+本榜单时间：2024/03/01 00:20:40 ~ 2024/03/22 10:22:46
 </p>
 </blockquote>
 <p>
@@ -5175,6 +5175,12 @@ iPhone在中国大幅打折（热度：823009）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%AB%98%E4%B8%AD%E7%94%9F%E5%9C%A8%E5%AD%A6%E6%A0%A1%E5%8E%95%E6%89%80%E5%86%85%E9%81%AD%E5%A4%9A%E4%BA%BA%E6%AE%B4%E6%89%93%23" target="weibo">
+高中生在学校厕所内遭多人殴打（热度：814054）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%99%BE%E6%9E%9C%E5%9B%AD%E6%9E%9C%E5%88%87%23" target="weibo">
 百果园果切（热度：813978）
 </a>
@@ -6005,12 +6011,6 @@ Mai浪姐补位（热度：745492）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23Miss%E6%9D%A5%E6%B5%AA%E5%A7%90%E4%BA%86%23" target="weibo">
 Miss来浪姐了（热度：738107）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9D%AD%E5%B7%9E%E5%B0%8F%E4%BC%99%E4%B9%B0100%E4%B8%87%E9%BB%84%E9%87%91%E4%B8%80%E5%B9%B4%E8%B5%9A50%25%23" target="weibo">
-杭州小伙买100万黄金一年赚50%（热度：736470）
 </a>
 </li>
 

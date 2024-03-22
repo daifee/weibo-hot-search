@@ -1,6 +1,6 @@
 {
   "startTime": 1711038208925,
-  "endTime": 1711072987839,
+  "endTime": 1711074166722,
   "band_list": [
     {
       "raw_hot": 3037342,
@@ -43,6 +43,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 814054,
+      "num": 482195,
+      "word": "高中生在学校厕所内遭多人殴打",
+      "onboard_time": 1711070241,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 803285,
       "num": 803285,
       "word": "消费者起诉爱马仕配货潜规则",
@@ -60,7 +68,7 @@
     },
     {
       "raw_hot": 725454,
-      "num": 413288,
+      "num": 546760,
       "word": "98岁网红大姥姥去世",
       "onboard_time": 1711071318,
       "rank": 10,
@@ -72,14 +80,6 @@
       "word": "重庆一火锅店来了位87岁的服务员",
       "onboard_time": 1711063815,
       "rank": 48,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 653495,
-      "num": 400326,
-      "word": "高中生在学校厕所内遭多人殴打",
-      "onboard_time": 1711070241,
-      "rank": 27,
       "category": "社会新闻"
     },
     {
@@ -97,6 +97,14 @@
       "onboard_time": 1711029861,
       "rank": 5,
       "category": "财经"
+    },
+    {
+      "raw_hot": 627765,
+      "num": 627765,
+      "word": "微商教母张庭卷土重来",
+      "onboard_time": 1711071679,
+      "rank": 6,
+      "category": "艺人"
     },
     {
       "raw_hot": 612757,
@@ -163,6 +171,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 533136,
+      "num": 533136,
+      "word": "六旬大爷三战考研成绩暴涨278分",
+      "onboard_time": 1711071498,
+      "rank": 8,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 532785,
       "num": 532785,
       "word": "阴阳师 王者荣耀",
@@ -179,20 +195,20 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 519620,
-      "num": 519620,
-      "word": "微商教母张庭卷土重来",
-      "onboard_time": 1711071679,
-      "rank": 6,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 500670,
       "num": 500670,
       "word": "央视网再评校园霸凌",
       "onboard_time": 1711069758,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 494143,
+      "num": 494143,
+      "word": "宋仲基夫妇看球赛",
+      "onboard_time": 1711071619,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 491872,
@@ -203,12 +219,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 481010,
-      "num": 397995,
-      "word": "宋仲基夫妇看球赛",
-      "onboard_time": 1711071619,
-      "rank": 13,
-      "category": "艺人"
+      "raw_hot": 470989,
+      "num": 470989,
+      "word": "新加坡队长竟是房产中介",
+      "onboard_time": 1711072578,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 448626,
@@ -243,14 +259,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 426947,
-      "num": 426947,
-      "word": "六旬大爷三战考研成绩暴涨278分",
-      "onboard_time": 1711071498,
-      "rank": 8,
-      "category": "社会新闻,教育"
-    },
-    {
       "raw_hot": 414042,
       "num": 414042,
       "word": "全职妈妈35岁后出国读研39岁当实习生",
@@ -275,6 +283,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 410641,
+      "num": 410641,
+      "word": "刘维术后报平安",
+      "onboard_time": 1711071858,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 398632,
       "num": 346076,
       "word": "杜海涛 夏油杰",
@@ -289,14 +305,6 @@
       "onboard_time": 1711067661,
       "rank": 14,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 391135,
-      "num": 391135,
-      "word": "刘维术后报平安",
-      "onboard_time": 1711071858,
-      "rank": 15,
-      "category": "艺人"
     },
     {
       "raw_hot": 364467,
@@ -321,6 +329,14 @@
       "onboard_time": 1711035378,
       "rank": 12,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 340240,
+      "num": 340240,
+      "word": "A股",
+      "onboard_time": 1711073298,
+      "rank": 16,
+      "category": "财经"
     },
     {
       "raw_hot": 338839,
@@ -403,6 +419,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 279811,
+      "num": 279811,
+      "word": "再高级的功能水不新鲜也白搭",
+      "onboard_time": 1711073479,
+      "rank": 18,
+      "category": "美食"
+    },
+    {
       "raw_hot": 270751,
       "num": 270751,
       "word": "新加坡2比2国足",
@@ -417,6 +441,14 @@
       "onboard_time": 1711016419,
       "rank": 18,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 262255,
+      "num": 262255,
+      "word": "刘学义丑鞋子",
+      "onboard_time": 1711072399,
+      "rank": 33,
+      "category": "剧集"
     },
     {
       "raw_hot": 253651,
@@ -483,12 +515,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 212942,
-      "num": 212942,
-      "word": "新加坡队长竟是房产中介",
-      "onboard_time": 1711072578,
-      "rank": 29,
-      "category": "体育"
+      "raw_hot": 210626,
+      "num": 210626,
+      "word": "种地吧直播",
+      "onboard_time": 1711073778,
+      "rank": 23,
+      "category": "综艺"
     },
     {
       "raw_hot": 207034,
@@ -505,14 +537,6 @@
       "onboard_time": 1711018461,
       "rank": 24,
       "category": "运动健身"
-    },
-    {
-      "raw_hot": 204885,
-      "num": 204885,
-      "word": "刘学义丑鞋子",
-      "onboard_time": 1711072399,
-      "rank": 33,
-      "category": "剧集"
     },
     {
       "raw_hot": 204629,
@@ -595,12 +619,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 170479,
+      "num": 170479,
+      "word": "奔跑吧",
+      "onboard_time": 1711073958,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 170418,
       "num": 170418,
       "word": "与凤行凤凰泣血",
       "onboard_time": 1711069161,
       "rank": 38,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 161886,
+      "num": 161886,
+      "word": "周深蹦苗迪",
+      "onboard_time": 1711073659,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 161160,
@@ -731,6 +771,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 123002,
+      "num": 123002,
+      "word": "美国贵妇告爱马仕",
+      "onboard_time": 1711074079,
+      "rank": 48,
+      "category": "财经"
+    },
+    {
       "raw_hot": 119851,
       "num": 119851,
       "word": "周也文笔",
@@ -833,6 +881,14 @@
       "onboard_time": 1711028061,
       "rank": 44,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 88876,
+      "num": 392444,
+      "word": "为什么你减肥老是反弹",
+      "onboard_time": 1711072819,
+      "rank": 14,
+      "category": "运动健身"
     },
     {
       "raw_hot": 86634,
@@ -961,14 +1017,6 @@
       "onboard_time": 1711044612,
       "rank": 45,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 21484,
-      "num": 392444,
-      "word": "为什么你减肥老是反弹",
-      "onboard_time": 1711072819,
-      "rank": 14,
-      "category": "运动健身"
     },
     {
       "raw_hot": 14244,
