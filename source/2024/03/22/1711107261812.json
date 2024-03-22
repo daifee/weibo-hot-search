@@ -1,0 +1,410 @@
+{
+  "runTime": 1711107261812,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 937465,
+        "num": 937465,
+        "word": "国产三体 吊打",
+        "onboard_time": 1711096818,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 874658,
+        "num": 874658,
+        "word": "未成年人犯故意杀人等重罪要依法追究刑责",
+        "onboard_time": 1711074258,
+        "rank": 1,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 57576,
+        "num": 806088,
+        "word": "花花盛开的中国春意拉满",
+        "onboard_time": 1711096818,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 784932,
+        "num": 784932,
+        "word": "爸爸隔保鲜膜狂亲新生宝宝",
+        "onboard_time": 1711098078,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 593418,
+        "num": 593418,
+        "word": "阴阳师给王者荣耀律师函",
+        "onboard_time": 1711107018,
+        "rank": 4,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 592514,
+        "num": 592514,
+        "word": "花儿与少年好友记",
+        "onboard_time": 1711098979,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 515114,
+        "num": 515114,
+        "word": "离职后还有24万工资没发",
+        "onboard_time": 1711097301,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 512726,
+        "num": 512726,
+        "word": "67岁老人遭黑社会殴打",
+        "onboard_time": 1711105819,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 245309,
+        "num": 497011,
+        "word": "接亲路上一声巨响新郎出手了",
+        "onboard_time": 1711101019,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 491292,
+        "num": 491292,
+        "word": "女版相柳",
+        "onboard_time": 1711099400,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1205418,
+        "num": 490510,
+        "word": "微信官方回应朋友圈横线问题",
+        "onboard_time": 1711099879,
+        "rank": 10,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 485409,
+        "num": 485409,
+        "word": "黄子韬直播cue徐艺洋",
+        "onboard_time": 1711094958,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 480278,
+        "num": 480278,
+        "word": "赵丽颖说林更新每天在朋友圈做菜",
+        "onboard_time": 1711100837,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 356413,
+        "num": 356413,
+        "word": "虞书欣父亲退出被强执公司",
+        "onboard_time": 1711085721,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 337122,
+        "num": 337122,
+        "word": "这类玩具致癌",
+        "onboard_time": 1711105937,
+        "rank": 14,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 336367,
+        "num": 336367,
+        "word": "张杰全新话筒",
+        "onboard_time": 1711106178,
+        "rank": 15,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 321695,
+        "num": 321695,
+        "word": "卫健委辟谣怀孕留长发会抢宝宝营养",
+        "onboard_time": 1711092619,
+        "rank": 16,
+        "category": "母婴育儿"
+      },
+      {
+        "raw_hot": 315323,
+        "num": 315323,
+        "word": "秦海璐行李箱还贴着一璐平安",
+        "onboard_time": 1711101320,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 292812,
+        "num": 292812,
+        "word": "张翰花少好友记路透",
+        "onboard_time": 1711101079,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 283237,
+        "num": 283237,
+        "word": "宫崎骏 拥抱比亲吻更有力量",
+        "onboard_time": 1711097059,
+        "rank": 19,
+        "category": "动漫,作品衍生"
+      },
+      {
+        "raw_hot": 259691,
+        "num": 259691,
+        "word": "哈佛毕业回国考公是大材小用吗",
+        "onboard_time": 1711106299,
+        "rank": 20,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 247162,
+        "num": 247162,
+        "word": "散步是世界上最高级的浪漫",
+        "onboard_time": 1711104618,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 240075,
+        "num": 240075,
+        "word": "范丞丞 被diss",
+        "onboard_time": 1711091479,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 235504,
+        "num": 235504,
+        "word": "月光爆料DYG事件始末",
+        "onboard_time": 1711101918,
+        "rank": 23,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 235312,
+        "num": 235312,
+        "word": "两岁半的女儿被托班劝退",
+        "onboard_time": 1711095678,
+        "rank": 24,
+        "category": "母婴育儿"
+      },
+      {
+        "raw_hot": 203768,
+        "num": 203768,
+        "word": "时代有冬西",
+        "onboard_time": 1711106417,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 196441,
+        "num": 196441,
+        "word": "赵丽颖和替身合照",
+        "onboard_time": 1711091658,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 188099,
+        "num": 188099,
+        "word": "为什么胸口会刺痛几秒",
+        "onboard_time": 1711084880,
+        "rank": 27,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 183075,
+        "num": 183075,
+        "word": "白鹿糖葫芦辫",
+        "onboard_time": 1711104678,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 182931,
+        "num": 182931,
+        "word": "周五下班聚餐算加班吗",
+        "onboard_time": 1711106058,
+        "rank": 29,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 208557,
+        "num": 181089,
+        "word": "当外公知道我的猫两万一只",
+        "onboard_time": 1711106779,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 191264,
+        "num": 180976,
+        "word": "水中捞玥是赵丽颖林更新特地加的",
+        "onboard_time": 1711103119,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 171574,
+        "num": 171574,
+        "word": "孙铭徽 全都是医生",
+        "onboard_time": 1711106118,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 154187,
+        "num": 154187,
+        "word": "建议工作可以实行大小周",
+        "onboard_time": 1711099758,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 152659,
+        "num": 152659,
+        "word": "汤唯孔刘裴秀智新片定档",
+        "onboard_time": 1711099460,
+        "rank": 34,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 150643,
+        "num": 150643,
+        "word": "花间令 panda人又开始死装了",
+        "onboard_time": 1711106839,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 147910,
+        "num": 147910,
+        "word": "TFBOYS十年之约现象级演唱会",
+        "onboard_time": 1711086919,
+        "rank": 36,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 146809,
+        "num": 146809,
+        "word": "为什么县城里的女老师不好脱单",
+        "onboard_time": 1711095678,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 144573,
+        "num": 144573,
+        "word": "张杰上海",
+        "onboard_time": 1711090942,
+        "rank": 38,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 132302,
+        "num": 132302,
+        "word": "凯特现身视频卖了50万英镑",
+        "onboard_time": 1711083022,
+        "rank": 39,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 124294,
+        "num": 124294,
+        "word": "未成年人严重暴力犯罪监护人要担责",
+        "onboard_time": 1711107080,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 124209,
+        "num": 124209,
+        "word": "不是说吃的干净就能瘦吗",
+        "onboard_time": 1711101799,
+        "rank": 41,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 120962,
+        "num": 120962,
+        "word": "T人是隐形的恋爱脑",
+        "onboard_time": 1711104559,
+        "rank": 42,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 118226,
+        "num": 118226,
+        "word": "杨紫四部大女主待播剧",
+        "onboard_time": 1711096577,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 117858,
+        "num": 117858,
+        "word": "直播带货一天卖20万是什么体验",
+        "onboard_time": 1711106958,
+        "rank": 44,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 113088,
+        "num": 113088,
+        "word": "维和防暴队主演内娱服役22部",
+        "onboard_time": 1711104437,
+        "rank": 45,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 112836,
+        "num": 112836,
+        "word": "妈妈月子里晒刚满19天的宝宝",
+        "onboard_time": 1711095799,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 108552,
+        "num": 108552,
+        "word": "张婧仪鹅黄碎花裙",
+        "onboard_time": 1711105518,
+        "rank": 47,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 105439,
+        "num": 105439,
+        "word": "小狗快被同伴埋了硬是一声不吭",
+        "onboard_time": 1711096640,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 101281,
+        "num": 101281,
+        "word": "根据我的微博 判断我的MBTI",
+        "onboard_time": 1711101500,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#跟着总书记足迹看中部崛起新图景#"
+    }
+  }
+}
