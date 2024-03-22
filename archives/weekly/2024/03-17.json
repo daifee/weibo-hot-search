@@ -1,6 +1,6 @@
 {
   "startTime": 1710605970310,
-  "endTime": 1711099191132,
+  "endTime": 1711100066700,
   "band_list": [
     {
       "raw_hot": 11692231,
@@ -1219,6 +1219,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1166712,
+      "num": 1166712,
+      "word": "国产三体 吊打",
+      "onboard_time": 1711096818,
+      "rank": 4,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1164069,
       "num": 538877,
       "word": "四川警方通报14岁女孩纠集多人围殴男孩",
@@ -2163,6 +2171,14 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 796515,
+      "num": 796515,
+      "word": "离职后还有24万工资没发",
+      "onboard_time": 1711097301,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 795919,
       "num": 795919,
       "word": "嘴角起泡其实是感染了病毒",
@@ -2441,14 +2457,6 @@
       "onboard_time": 1711080381,
       "rank": 26,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 743422,
-      "num": 743422,
-      "word": "国产三体 吊打",
-      "onboard_time": 1711096818,
-      "rank": 4,
-      "category": "剧集"
     },
     {
       "raw_hot": 743007,
@@ -2875,14 +2883,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 666086,
-      "num": 666086,
-      "word": "离职后还有24万工资没发",
-      "onboard_time": 1711097301,
-      "rank": 7,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 665811,
       "num": 665811,
       "word": "眼泪女王编剧",
@@ -3017,6 +3017,14 @@
       "onboard_time": 1710815315,
       "rank": 17,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 639263,
+      "num": 639263,
+      "word": "宫崎骏 拥抱比亲吻更有力量",
+      "onboard_time": 1711097059,
+      "rank": 8,
+      "category": "动漫,作品衍生"
     },
     {
       "raw_hot": 635434,
@@ -3547,14 +3555,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 564265,
-      "num": 564265,
-      "word": "宫崎骏 拥抱比亲吻更有力量",
-      "onboard_time": 1711097059,
-      "rank": 8,
-      "category": "动漫,作品衍生"
-    },
-    {
       "raw_hot": 564182,
       "num": 564182,
       "word": "春和景明",
@@ -3769,6 +3769,14 @@
       "onboard_time": 1710644675,
       "rank": 16,
       "category": "数码"
+    },
+    {
+      "raw_hot": 547896,
+      "num": 547896,
+      "word": "环卫工躺地库被碾身亡案国赔维持原判",
+      "onboard_time": 1711096339,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 547448,
@@ -4411,6 +4419,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 471656,
+      "num": 471656,
+      "word": "花儿与少年好友记",
+      "onboard_time": 1711098979,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 471427,
       "num": 433738,
       "word": "男朋友相亲相到了我朋友",
@@ -4865,14 +4881,6 @@
       "onboard_time": 1710776552,
       "rank": 13,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 429081,
-      "num": 429081,
-      "word": "环卫工躺地库被碾身亡案国赔维持原判",
-      "onboard_time": 1711096339,
-      "rank": 45,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 428801,
@@ -6427,6 +6435,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 313718,
+      "num": 313718,
+      "word": "RNG战胜FPX",
+      "onboard_time": 1711098618,
+      "rank": 19,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 312781,
       "num": 312781,
       "word": "金智媛哭戏",
@@ -6849,6 +6865,14 @@
       "onboard_time": 1710766293,
       "rank": 22,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 293275,
+      "num": 293275,
+      "word": "汤唯孔刘裴秀智新片定档",
+      "onboard_time": 1711099460,
+      "rank": 19,
+      "category": "电影"
     },
     {
       "raw_hot": 293209,
@@ -7283,6 +7307,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 272983,
+      "num": 272983,
+      "word": "爸爸隔保鲜膜狂亲新生宝宝",
+      "onboard_time": 1711098078,
+      "rank": 22,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 272926,
       "num": 272926,
       "word": "鞠婧祎大女主发言",
@@ -7433,14 +7465,6 @@
       "onboard_time": 1710944917,
       "rank": 41,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 264988,
-      "num": 264988,
-      "word": "RNG战胜FPX",
-      "onboard_time": 1711098618,
-      "rank": 19,
-      "category": "电竞"
     },
     {
       "raw_hot": 264365,
@@ -7809,14 +7833,6 @@
       "onboard_time": 1710908134,
       "rank": 32,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 248764,
-      "num": 248764,
-      "word": "爸爸隔保鲜膜狂亲新生宝宝",
-      "onboard_time": 1711098078,
-      "rank": 22,
-      "category": "剧集"
     },
     {
       "raw_hot": 248440,
@@ -8265,6 +8281,14 @@
       "onboard_time": 1711077259,
       "rank": 31,
       "category": "电影"
+    },
+    {
+      "raw_hot": 233559,
+      "num": 233559,
+      "word": "国台办回应福建海警救2名金门男子",
+      "onboard_time": 1711098319,
+      "rank": 34,
+      "category": "国内时政"
     },
     {
       "raw_hot": 233173,
@@ -8833,6 +8857,14 @@
       "onboard_time": 1710724355,
       "rank": 30,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 220825,
+      "num": 220825,
+      "word": "建议工作可以实行大小周",
+      "onboard_time": 1711099758,
+      "rank": 28,
+      "category": "幽默"
     },
     {
       "raw_hot": 220622,
@@ -10163,6 +10195,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 197545,
+      "num": 197545,
+      "word": "热辣滚烫马来西亚票房",
+      "onboard_time": 1711099460,
+      "rank": 29,
+      "category": "电影"
+    },
+    {
       "raw_hot": 197541,
       "num": 197541,
       "word": "与凤行歌单",
@@ -11323,6 +11363,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 181717,
+      "num": 181717,
+      "word": "女版相柳",
+      "onboard_time": 1711099400,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 181656,
       "num": 474695,
       "word": "质疑理解成为",
@@ -12059,14 +12107,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 170125,
-      "num": 170125,
-      "word": "国台办回应福建海警救2名金门男子",
-      "onboard_time": 1711098319,
-      "rank": 34,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 169923,
       "num": 169923,
       "word": "渐渐的体会到了有车的快乐",
@@ -12433,6 +12473,14 @@
       "onboard_time": 1710681397,
       "rank": 47,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 163931,
+      "num": 163931,
+      "word": "微信官方回应朋友圈横线问题",
+      "onboard_time": 1711099879,
+      "rank": 38,
+      "category": "互联网"
     },
     {
       "raw_hot": 163825,
@@ -13051,14 +13099,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 154771,
-      "num": 154771,
-      "word": "花儿与少年好友记",
-      "onboard_time": 1711098979,
-      "rank": 38,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 154665,
       "num": 154665,
       "word": "很擅长但没有用的技能",
@@ -13553,6 +13593,14 @@
       "onboard_time": 1710752195,
       "rank": 34,
       "category": "情感"
+    },
+    {
+      "raw_hot": 147223,
+      "num": 147223,
+      "word": "鞠婧祎红裙舞",
+      "onboard_time": 1711099579,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 147211,
@@ -15275,6 +15323,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 112984,
+      "num": 112984,
+      "word": "现偶有自己的白云黑土",
+      "onboard_time": 1711099939,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 112982,
       "num": 112982,
       "word": "花间令妈妈疯了孩子没了",
@@ -15465,6 +15521,14 @@
       "onboard_time": 1710920019,
       "rank": 45,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 106528,
+      "num": 826504,
+      "word": "花花盛开的中国春意拉满",
+      "onboard_time": 1711096818,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 105709,
@@ -15680,14 +15744,6 @@
       "word": "雅江山火",
       "onboard_time": 1710586114,
       "rank": 44,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 97448,
-      "num": 826504,
-      "word": "花花盛开的中国春意拉满",
-      "onboard_time": 1711096818,
-      "rank": 2,
       "category": "社会新闻"
     },
     {
