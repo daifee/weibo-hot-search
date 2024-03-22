@@ -1,6 +1,6 @@
 {
   "startTime": 1709223640991,
-  "endTime": 1711120629774,
+  "endTime": 1711121799909,
   "band_list": [
     {
       "raw_hot": 12728050,
@@ -1953,6 +1953,14 @@
       "onboard_time": 1709987674,
       "rank": 1,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1592818,
+      "num": 879021,
+      "word": "手部出现3种异样可能患癌",
+      "onboard_time": 1711119200,
+      "rank": 10,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 1587878,
@@ -4507,6 +4515,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1083077,
+      "num": 1083077,
+      "word": "咸雪 赵丽颖",
+      "onboard_time": 1711118840,
+      "rank": 1,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1083035,
       "num": 1083035,
       "word": "别被8小时睡眠论给骗了",
@@ -5761,14 +5777,6 @@
       "onboard_time": 1710732393,
       "rank": 25,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 930513,
-      "num": 930513,
-      "word": "咸雪 赵丽颖",
-      "onboard_time": 1711118840,
-      "rank": 1,
-      "category": "剧集"
     },
     {
       "raw_hot": 930390,
@@ -8107,14 +8115,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 745232,
-      "num": 521490,
-      "word": "手部出现3种异样可能患癌",
-      "onboard_time": 1711119200,
-      "rank": 10,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 744971,
       "num": 744971,
       "word": "孙颖莎张本美和",
@@ -9747,6 +9747,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 666320,
+      "num": 666320,
+      "word": "张予曦泳池身材",
+      "onboard_time": 1711119499,
+      "rank": 13,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 665811,
       "num": 665811,
       "word": "眼泪女王编剧",
@@ -10393,6 +10401,14 @@
       "onboard_time": 1709430449,
       "rank": 7,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 638162,
+      "num": 638162,
+      "word": "睡不着就在床头放个苹果",
+      "onboard_time": 1711118540,
+      "rank": 7,
+      "category": "情感"
     },
     {
       "raw_hot": 637996,
@@ -11929,14 +11945,6 @@
       "onboard_time": 1710473376,
       "rank": 24,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 575600,
-      "num": 575600,
-      "word": "睡不着就在床头放个苹果",
-      "onboard_time": 1711118540,
-      "rank": 7,
-      "category": "情感"
     },
     {
       "raw_hot": 575498,
@@ -14369,14 +14377,6 @@
       "onboard_time": 1711032622,
       "rank": 14,
       "category": "体育"
-    },
-    {
-      "raw_hot": 501475,
-      "num": 501475,
-      "word": "张予曦泳池身材",
-      "onboard_time": 1711119499,
-      "rank": 13,
-      "category": "剧集"
     },
     {
       "raw_hot": 501201,
@@ -23731,6 +23731,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 305368,
+      "num": 536185,
+      "word": "地铁被诬偷拍案二审庭前3次调解失败",
+      "onboard_time": 1711119140,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 305202,
       "num": 305202,
       "word": "剑网3联动天刀手游",
@@ -26228,7 +26236,7 @@
     },
     {
       "raw_hot": 272730,
-      "num": 886611,
+      "num": 899996,
       "word": "花开种花家",
       "onboard_time": 1711116920,
       "rank": 2,
@@ -32275,14 +32283,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 218883,
-      "num": 343538,
-      "word": "地铁被诬偷拍案二审庭前3次调解失败",
-      "onboard_time": 1711119140,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 218818,
       "num": 218818,
       "word": "买车是一步到位还是先将就",
@@ -34523,6 +34523,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 206518,
+      "num": 206518,
+      "word": "王鹤棣抱起孩子就跑",
+      "onboard_time": 1711119321,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 206474,
       "num": 206474,
       "word": "胡一天张婧仪妆造",
@@ -35649,6 +35657,14 @@
       "onboard_time": 1709819073,
       "rank": 24,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 201565,
+      "num": 201565,
+      "word": "原来沈璃姓王",
+      "onboard_time": 1711120460,
+      "rank": 42,
+      "category": "剧集"
     },
     {
       "raw_hot": 201524,
@@ -38025,14 +38041,6 @@
       "onboard_time": 1709457630,
       "rank": 27,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 191890,
-      "num": 191890,
-      "word": "王鹤棣抱起孩子就跑",
-      "onboard_time": 1711119321,
-      "rank": 30,
-      "category": "综艺"
     },
     {
       "raw_hot": 191832,
@@ -43651,11 +43659,27 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 167445,
+      "num": 167445,
+      "word": "用两年改造了400平米的别墅",
+      "onboard_time": 1711120880,
+      "rank": 33,
+      "category": "情感"
+    },
+    {
       "raw_hot": 167429,
       "num": 167429,
       "word": "张云龙狐妖竹业篇生日海报",
       "onboard_time": 1709360790,
       "rank": 27,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 167380,
+      "num": 167380,
+      "word": "魏若来单手捏水壶",
+      "onboard_time": 1711121299,
+      "rank": 34,
       "category": "剧集"
     },
     {
@@ -49763,6 +49787,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 143237,
+      "num": 143237,
+      "word": "BOYNEXTDOOR回归预告",
+      "onboard_time": 1711120221,
+      "rank": 40,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 143226,
       "num": 143226,
       "word": "库里将迎来第4个孩子",
@@ -50417,6 +50449,14 @@
       "onboard_time": 1710200906,
       "rank": 41,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 140497,
+      "num": 140497,
+      "word": "50多岁医生为采集中药材摔下石壁",
+      "onboard_time": 1711120101,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 140483,
@@ -51105,14 +51145,6 @@
       "onboard_time": 1709685094,
       "rank": 47,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 137737,
-      "num": 136438,
-      "word": "BOYNEXTDOOR回归预告",
-      "onboard_time": 1711120221,
-      "rank": 40,
-      "category": "音乐"
     },
     {
       "raw_hot": 137736,
@@ -51940,7 +51972,7 @@
     },
     {
       "raw_hot": 134794,
-      "num": 137801,
+      "num": 201384,
       "word": "超级草根vs村BA全民星",
       "onboard_time": 1711120400,
       "rank": 38,
@@ -53249,14 +53281,6 @@
       "onboard_time": 1711000174,
       "rank": 44,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 129599,
-      "num": 129599,
-      "word": "原来沈璃姓王",
-      "onboard_time": 1711120460,
-      "rank": 42,
-      "category": "剧集"
     },
     {
       "raw_hot": 129529,
@@ -55347,6 +55371,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 120077,
+      "num": 120077,
+      "word": "白鹿伤痛文学女主",
+      "onboard_time": 1711121778,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 120058,
       "num": 120058,
       "word": "许昕你管这叫一丁点辣",
@@ -55401,14 +55433,6 @@
       "onboard_time": 1710371124,
       "rank": 45,
       "category": "健康医疗,美食"
-    },
-    {
-      "raw_hot": 119570,
-      "num": 126177,
-      "word": "50多岁医生为采集中药材摔下石壁",
-      "onboard_time": 1711120101,
-      "rank": 44,
-      "category": "综艺"
     },
     {
       "raw_hot": 119520,
@@ -57921,6 +57945,14 @@
       "onboard_time": 1710905493,
       "rank": 45,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 104717,
+      "num": 117507,
+      "word": "大学生独行侠做久了会怎样",
+      "onboard_time": 1711121120,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 104715,
