@@ -1,6 +1,6 @@
 {
   "startTime": 1710605970310,
-  "endTime": 1711146831672,
+  "endTime": 1711149400258,
   "band_list": [
     {
       "raw_hot": 11692231,
@@ -1507,6 +1507,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 1073004,
+      "num": 1073004,
+      "word": "英国凯特王妃患癌症",
+      "onboard_time": 1711149195,
+      "rank": 0,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 1068426,
       "num": 1068426,
       "word": "阮经天ins",
@@ -1545,6 +1553,14 @@
       "onboard_time": 1710759515,
       "rank": 17,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 1024177,
+      "num": 1024177,
+      "word": "火烧云孕妇免排队被指慷他人之慨",
+      "onboard_time": 1711124717,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1022047,
@@ -2689,14 +2705,6 @@
       "onboard_time": 1711024038,
       "rank": 24,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 729190,
-      "num": 729190,
-      "word": "火烧云孕妇免排队被指慷他人之慨",
-      "onboard_time": 1711124717,
-      "rank": 38,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 729147,
@@ -8715,6 +8723,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 233746,
+      "num": 233746,
+      "word": "富士相机怎么成了摄影界的茅台",
+      "onboard_time": 1711129993,
+      "rank": 16,
+      "category": "数码"
+    },
+    {
       "raw_hot": 233559,
       "num": 233559,
       "word": "国台办回应福建海警救2名金门男子",
@@ -13827,6 +13843,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 154469,
+      "num": 154469,
+      "word": "赵丽颖回应床咚吻",
+      "onboard_time": 1711124956,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 154356,
       "num": 154356,
       "word": "B站股价3年跌90%",
@@ -14177,14 +14201,6 @@
       "onboard_time": 1710839913,
       "rank": 42,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 149811,
-      "num": 130647,
-      "word": "赵丽颖回应床咚吻",
-      "onboard_time": 1711124956,
-      "rank": 30,
-      "category": "剧集"
     },
     {
       "raw_hot": 149613,
@@ -14891,6 +14907,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 138209,
+      "num": 138209,
+      "word": "追风者 男女主没感情线",
+      "onboard_time": 1711145952,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 138127,
       "num": 138127,
       "word": "和朋友认识前后的反差",
@@ -14945,14 +14969,6 @@
       "onboard_time": 1710901532,
       "rank": 36,
       "category": "读书作家"
-    },
-    {
-      "raw_hot": 137534,
-      "num": 137534,
-      "word": "富士相机怎么成了摄影界的茅台",
-      "onboard_time": 1711129993,
-      "rank": 16,
-      "category": "数码"
     },
     {
       "raw_hot": 137279,
@@ -15028,7 +15044,7 @@
     },
     {
       "raw_hot": 136301,
-      "num": 499426,
+      "num": 670955,
       "word": "我国网民规模已达到10.92亿人",
       "onboard_time": 1711116380,
       "rank": 11,
@@ -15665,6 +15681,14 @@
       "onboard_time": 1710989852,
       "rank": 47,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 126888,
+      "num": 126888,
+      "word": "林更新回应海底捞玥",
+      "onboard_time": 1711147453,
+      "rank": 16,
+      "category": "剧集"
     },
     {
       "raw_hot": 126850,
@@ -16747,6 +16771,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 96647,
+      "num": 96647,
+      "word": "爱做家务和从不做家务的人谁更健康",
+      "onboard_time": 1711144932,
+      "rank": 36,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 96232,
       "num": 96232,
       "word": "王一博拍长风破浪没带剧本到现场",
@@ -16891,6 +16923,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 86246,
+      "num": 88734,
+      "word": "你以为是猫其实是南丁格咪",
+      "onboard_time": 1711122677,
+      "rank": 45,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 85675,
       "num": 85675,
       "word": "美联储维持利率不变",
@@ -17001,14 +17041,6 @@
       "onboard_time": 1710918152,
       "rank": 20,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 80156,
-      "num": 88734,
-      "word": "你以为是猫其实是南丁格咪",
-      "onboard_time": 1711122677,
-      "rank": 45,
-      "category": "幽默"
     },
     {
       "raw_hot": 79734,
@@ -17155,6 +17187,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 74025,
+      "num": 74025,
+      "word": "追风者 爷叔",
+      "onboard_time": 1711131791,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 73758,
       "num": 351291,
       "word": "vivoXFold3上手太轻薄了",
@@ -17217,6 +17257,14 @@
       "onboard_time": 1710782960,
       "rank": 38,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 69576,
+      "num": 69576,
+      "word": "卢昱晓 如今的我很幸运",
+      "onboard_time": 1711137731,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 69313,
@@ -17419,14 +17467,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 59616,
-      "num": 59616,
-      "word": "卢昱晓 如今的我很幸运",
-      "onboard_time": 1711137731,
-      "rank": 12,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 58950,
       "num": 531778,
       "word": "小米Civi4Pro首发评测",
@@ -17587,14 +17627,6 @@
       "category": "运动健身"
     },
     {
-      "raw_hot": 49838,
-      "num": 49838,
-      "word": "追风者 爷叔",
-      "onboard_time": 1711131791,
-      "rank": 32,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 49697,
       "num": 205526,
       "word": "陈都灵清冷粉樱唐风妆",
@@ -17635,6 +17667,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 46570,
+      "num": 46570,
+      "word": "刘宇宁官宣加盟品质盛典",
+      "onboard_time": 1711135332,
+      "rank": 21,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 46092,
       "num": 59634,
       "word": "别人爬山费腿刘学义爬山费嘴",
@@ -17667,12 +17707,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 43781,
-      "num": 43781,
-      "word": "爱做家务和从不做家务的人谁更健康",
-      "onboard_time": 1711144932,
-      "rank": 36,
-      "category": "科学科普"
+      "raw_hot": 43996,
+      "num": 43996,
+      "word": "刘雅瑟露背薄纱裙",
+      "onboard_time": 1711149375,
+      "rank": 40,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 43940,
+      "num": 43940,
+      "word": "退休医生70岁生日当天在车站救人",
+      "onboard_time": 1711134012,
+      "rank": 29,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 43137,
@@ -17689,14 +17737,6 @@
       "onboard_time": 1710681155,
       "rank": 42,
       "category": "休闲"
-    },
-    {
-      "raw_hot": 41692,
-      "num": 41692,
-      "word": "刘宇宁官宣加盟品质盛典",
-      "onboard_time": 1711135332,
-      "rank": 21,
-      "category": "剧集"
     },
     {
       "raw_hot": 41177,
@@ -17747,6 +17787,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 38344,
+      "num": 38344,
+      "word": "和暴食斗争了二十年才学会好好吃饭",
+      "onboard_time": 1711142350,
+      "rank": 41,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 38160,
       "num": 326311,
       "word": "纯电市场红旗EH7申请出战",
@@ -17763,20 +17811,20 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 37712,
+      "num": 37712,
+      "word": "网飞三体 云天明程心",
+      "onboard_time": 1711148473,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 37379,
       "num": 271583,
       "word": "电车驾控感好是一种什么体验",
       "onboard_time": 1710927394,
       "rank": 20,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 36535,
-      "num": 36535,
-      "word": "和暴食斗争了二十年才学会好好吃饭",
-      "onboard_time": 1711142350,
-      "rank": 41,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 35441,
@@ -17841,6 +17889,14 @@
       "onboard_time": 1710786377,
       "rank": 40,
       "category": "演出"
+    },
+    {
+      "raw_hot": 32519,
+      "num": 37655,
+      "word": "家人反对夫妇坚持收留智力障碍小伙16年",
+      "onboard_time": 1711149014,
+      "rank": 48,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 32477,
@@ -17915,14 +17971,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 28541,
-      "num": 28541,
-      "word": "追风者 男女主没感情线",
-      "onboard_time": 1711145952,
-      "rank": 37,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 27913,
       "num": 212418,
       "word": "虞书欣清冷仙紫妆",
@@ -17953,14 +18001,6 @@
       "onboard_time": 1710703337,
       "rank": 48,
       "category": "美食"
-    },
-    {
-      "raw_hot": 25843,
-      "num": 36996,
-      "word": "退休医生70岁生日当天在车站救人",
-      "onboard_time": 1711134012,
-      "rank": 29,
-      "category": "社会正能量"
     },
     {
       "raw_hot": 25759,
