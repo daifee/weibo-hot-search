@@ -1,6 +1,6 @@
 {
   "startTime": 1710605970310,
-  "endTime": 1711131634535,
+  "endTime": 1711132474368,
   "band_list": [
     {
       "raw_hot": 11692231,
@@ -16163,6 +16163,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 115715,
+      "num": 115715,
+      "word": "奔跑吧全员好美的精神状态",
+      "onboard_time": 1711127234,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 115698,
       "num": 343053,
       "word": "billkin演唱会",
@@ -16321,14 +16329,6 @@
       "onboard_time": 1710902551,
       "rank": 47,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 111637,
-      "num": 111637,
-      "word": "奔跑吧全员好美的精神状态",
-      "onboard_time": 1711127234,
-      "rank": 33,
-      "category": "综艺"
     },
     {
       "raw_hot": 111366,
@@ -16673,6 +16673,14 @@
       "onboard_time": 1711014618,
       "rank": 8,
       "category": "情感"
+    },
+    {
+      "raw_hot": 99257,
+      "num": 99257,
+      "word": "富士相机怎么成了摄影界的茅台",
+      "onboard_time": 1711129993,
+      "rank": 16,
+      "category": "数码"
     },
     {
       "raw_hot": 98775,
@@ -17307,14 +17315,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 64940,
-      "num": 64940,
-      "word": "富士相机怎么成了摄影界的茅台",
-      "onboard_time": 1711129993,
-      "rank": 16,
-      "category": "数码"
-    },
-    {
       "raw_hot": 64553,
       "num": 223724,
       "word": "马面裙订单量同比增841%",
@@ -17737,6 +17737,14 @@
       "onboard_time": 1710927394,
       "rank": 20,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 35774,
+      "num": 35774,
+      "word": "追风者 爷叔",
+      "onboard_time": 1711131791,
+      "rank": 32,
+      "category": "剧集"
     },
     {
       "raw_hot": 35441,

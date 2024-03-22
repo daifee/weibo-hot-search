@@ -1,0 +1,410 @@
+{
+  "runTime": 1711132474368,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 353472,
+        "num": 353472,
+        "word": "火烧云孕妇免排队被指慷他人之慨",
+        "onboard_time": 1711124717,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 287353,
+        "num": 287353,
+        "word": "阴阳师给王者荣耀律师函",
+        "onboard_time": 1711107018,
+        "rank": 1,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 32504,
+        "num": 277409,
+        "word": "我国网民规模已达到10.92亿人",
+        "onboard_time": 1711116380,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 273510,
+        "num": 273510,
+        "word": "手部出现3种异样可能患癌",
+        "onboard_time": 1711119200,
+        "rank": 3,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 130097,
+        "num": 130097,
+        "word": "睡不着就在床头放个苹果",
+        "onboard_time": 1711118540,
+        "rank": 4,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 115715,
+        "num": 115715,
+        "word": "奔跑吧全员好美的精神状态",
+        "onboard_time": 1711127234,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 114900,
+        "num": 114900,
+        "word": "咸雪 赵丽颖",
+        "onboard_time": 1711118840,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 107681,
+        "num": 107681,
+        "word": "客厅存在的意义是什么",
+        "onboard_time": 1711111699,
+        "rank": 7,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 99257,
+        "num": 99257,
+        "word": "富士相机怎么成了摄影界的茅台",
+        "onboard_time": 1711129993,
+        "rank": 8,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 93919,
+        "num": 96507,
+        "word": "以色列宣布没收8平方公里巴勒斯坦土地",
+        "onboard_time": 1711112238,
+        "rank": 9,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 166511,
+        "num": 96069,
+        "word": "微信官方回应朋友圈横线问题",
+        "onboard_time": 1711099879,
+        "rank": 10,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 95166,
+        "num": 95166,
+        "word": "喜证被倒卖1.9元1张",
+        "onboard_time": 1711107498,
+        "rank": 11,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 83623,
+        "num": 83623,
+        "word": "富豪被1根鱼刺折磨瘦了130斤",
+        "onboard_time": 1711115779,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 82505,
+        "num": 82505,
+        "word": "迪丽热巴白衣牛仔裤路透",
+        "onboard_time": 1711124119,
+        "rank": 13,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 64037,
+        "num": 64037,
+        "word": "你以为很贵其实很便宜的车",
+        "onboard_time": 1711123578,
+        "rank": 14,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 60226,
+        "num": 60226,
+        "word": "考试选15000字论文还是15秒舞蹈",
+        "onboard_time": 1711123338,
+        "rank": 15,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 59426,
+        "num": 59426,
+        "word": "国产三体 吊打",
+        "onboard_time": 1711096818,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 58495,
+        "num": 58495,
+        "word": "赵丽颖林更新给对方的微信备注",
+        "onboard_time": 1711114399,
+        "rank": 17,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 52568,
+        "num": 52568,
+        "word": "为什么大多数销冠都是女的",
+        "onboard_time": 1711111398,
+        "rank": 18,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 52386,
+        "num": 52386,
+        "word": "恋爱兄妹",
+        "onboard_time": 1711107798,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 51812,
+        "num": 51812,
+        "word": "何悯鸿 悬着的心终于死了",
+        "onboard_time": 1711107918,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 51707,
+        "num": 51707,
+        "word": "张予曦泳池身材",
+        "onboard_time": 1711119499,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 50773,
+        "num": 50773,
+        "word": "安踏在魏若来脸上植入广告",
+        "onboard_time": 1711116079,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 50695,
+        "num": 50695,
+        "word": "李沁 红太狼",
+        "onboard_time": 1711116618,
+        "rank": 23,
+        "category": "剧集,综艺"
+      },
+      {
+        "raw_hot": 42385,
+        "num": 42385,
+        "word": "火烧云回应孕妇免排队",
+        "onboard_time": 1711126095,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 42215,
+        "num": 42215,
+        "word": "蛋仔派对",
+        "onboard_time": 1711129514,
+        "rank": 25,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 41054,
+        "num": 41054,
+        "word": "赵丽颖回应床咚吻",
+        "onboard_time": 1711124956,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 39713,
+        "num": 39713,
+        "word": "茉莉型人格",
+        "onboard_time": 1711117639,
+        "rank": 27,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 35179,
+        "num": 37359,
+        "word": "地铁被诬偷拍案二审庭前3次调解失败",
+        "onboard_time": 1711119140,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 20475,
+        "num": 37350,
+        "word": "花开种花家",
+        "onboard_time": 1711116920,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 37349,
+        "num": 37349,
+        "word": "执笔",
+        "onboard_time": 1711122018,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 36063,
+        "num": 36063,
+        "word": "全员加速中",
+        "onboard_time": 1711110319,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 35774,
+        "num": 35774,
+        "word": "追风者 爷叔",
+        "onboard_time": 1711131791,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 35415,
+        "num": 35415,
+        "word": "春天背景图",
+        "onboard_time": 1711130352,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 34883,
+        "num": 34883,
+        "word": "白鹿伤痛文学女主",
+        "onboard_time": 1711121778,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 34110,
+        "num": 34110,
+        "word": "张杰音响",
+        "onboard_time": 1711117521,
+        "rank": 35,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 33487,
+        "num": 33487,
+        "word": "与凤行嘘嘘被抓了",
+        "onboard_time": 1711118480,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 32522,
+        "num": 32522,
+        "word": "肖战cue身材",
+        "onboard_time": 1711111639,
+        "rank": 37,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 31987,
+        "num": 31987,
+        "word": "眼泪女王",
+        "onboard_time": 1711116799,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 29880,
+        "num": 31834,
+        "word": "哈佛毕业回国考公是大材小用吗",
+        "onboard_time": 1711106299,
+        "rank": 39,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 31712,
+        "num": 31712,
+        "word": "张杰巡演超长大屏",
+        "onboard_time": 1711112899,
+        "rank": 40,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 27018,
+        "num": 31709,
+        "word": "追风者",
+        "onboard_time": 1711117580,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 26713,
+        "num": 31621,
+        "word": "与凤行断层第一",
+        "onboard_time": 1711108458,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 26540,
+        "num": 31563,
+        "word": "大学生独行侠做久了会怎样",
+        "onboard_time": 1711121120,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 26378,
+        "num": 31541,
+        "word": "杨丞琳脸颊痣",
+        "onboard_time": 1711124538,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 26268,
+        "num": 31459,
+        "word": "你以为是猫其实是南丁格咪",
+        "onboard_time": 1711122677,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 25424,
+        "num": 31408,
+        "word": "这类玩具致癌",
+        "onboard_time": 1711105937,
+        "rank": 46,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 24939,
+        "num": 31365,
+        "word": "原来沈璃姓王",
+        "onboard_time": 1711120460,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 23917,
+        "num": 31275,
+        "word": "王鹤棣抱起孩子就跑",
+        "onboard_time": 1711119321,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 20534,
+        "num": 31255,
+        "word": "离职后还有24万工资没发",
+        "onboard_time": 1711097301,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#跟着总书记足迹看中部崛起新图景#"
+    }
+  }
+}
