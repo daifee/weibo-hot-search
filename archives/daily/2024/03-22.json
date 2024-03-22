@@ -1,6 +1,6 @@
 {
   "startTime": 1711038208925,
-  "endTime": 1711100066700,
+  "endTime": 1711102744093,
   "band_list": [
     {
       "raw_hot": 3261143,
@@ -67,20 +67,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1218766,
+      "num": 1218766,
+      "word": "国产三体 吊打",
+      "onboard_time": 1711096818,
+      "rank": 4,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1177915,
       "num": 1177915,
       "word": "卫健委辟谣怀孕留长发会抢宝宝营养",
       "onboard_time": 1711092619,
       "rank": 34,
       "category": "母婴育儿"
-    },
-    {
-      "raw_hot": 1166712,
-      "num": 1166712,
-      "word": "国产三体 吊打",
-      "onboard_time": 1711096818,
-      "rank": 4,
-      "category": "剧集"
     },
     {
       "raw_hot": 1146947,
@@ -105,6 +105,14 @@
       "onboard_time": 1711094958,
       "rank": 7,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1123237,
+      "num": 1123237,
+      "word": "花儿与少年好友记",
+      "onboard_time": 1711098979,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 1062825,
@@ -187,6 +195,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 810314,
+      "num": 810314,
+      "word": "离职后还有24万工资没发",
+      "onboard_time": 1711097301,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 807912,
       "num": 807912,
       "word": "天水辣椒摊大爷终于有空休息了",
@@ -200,14 +216,6 @@
       "word": "消费者起诉爱马仕配货潜规则",
       "onboard_time": 1711066280,
       "rank": 4,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 796515,
-      "num": 796515,
-      "word": "离职后还有24万工资没发",
-      "onboard_time": 1711097301,
-      "rank": 7,
       "category": "社会新闻"
     },
     {
@@ -241,6 +249,14 @@
       "onboard_time": 1711086919,
       "rank": 7,
       "category": "演出"
+    },
+    {
+      "raw_hot": 753017,
+      "num": 548383,
+      "word": "微信官方回应朋友圈横线问题",
+      "onboard_time": 1711099879,
+      "rank": 38,
+      "category": "互联网"
     },
     {
       "raw_hot": 749405,
@@ -339,6 +355,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 624843,
+      "num": 624843,
+      "word": "女版相柳",
+      "onboard_time": 1711099400,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 619989,
       "num": 619989,
       "word": "警方通报女子家门口被做三角标记",
@@ -372,7 +396,7 @@
     },
     {
       "raw_hot": 574865,
-      "num": 297076,
+      "num": 297253,
       "word": "两岁半的女儿被托班劝退",
       "onboard_time": 1711095678,
       "rank": 30,
@@ -531,14 +555,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 471656,
-      "num": 471656,
-      "word": "花儿与少年好友记",
-      "onboard_time": 1711098979,
-      "rank": 38,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 466395,
       "num": 466395,
       "word": "宋雨琦4月将solo",
@@ -577,6 +593,14 @@
       "onboard_time": 1711026319,
       "rank": 8,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 434436,
+      "num": 434436,
+      "word": "汤唯孔刘裴秀智新片定档",
+      "onboard_time": 1711099460,
+      "rank": 19,
+      "category": "电影"
     },
     {
       "raw_hot": 428953,
@@ -731,6 +755,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 351399,
+      "num": 351399,
+      "word": "爸爸隔保鲜膜狂亲新生宝宝",
+      "onboard_time": 1711098078,
+      "rank": 22,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 349458,
       "num": 349458,
       "word": "杨幂打卡杨幂",
@@ -792,6 +824,22 @@
       "word": "IU机场",
       "onboard_time": 1711091358,
       "rank": 31,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 332135,
+      "num": 332135,
+      "word": "月光爆料DYG事件始末",
+      "onboard_time": 1711101918,
+      "rank": 17,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 331117,
+      "num": 331117,
+      "word": "赵丽颖说林更新每天在朋友圈做菜",
+      "onboard_time": 1711100837,
+      "rank": 18,
       "category": "艺人"
     },
     {
@@ -867,20 +915,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 293275,
-      "num": 293275,
-      "word": "汤唯孔刘裴秀智新片定档",
-      "onboard_time": 1711099460,
-      "rank": 19,
-      "category": "电影"
-    },
-    {
       "raw_hot": 292684,
       "num": 292684,
       "word": "郑合惠子上桌原因",
       "onboard_time": 1711024038,
       "rank": 16,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 287624,
+      "num": 287624,
+      "word": "建议工作可以实行大小周",
+      "onboard_time": 1711099758,
+      "rank": 28,
+      "category": "幽默"
     },
     {
       "raw_hot": 286580,
@@ -939,20 +987,20 @@
       "category": "财经"
     },
     {
+      "raw_hot": 277596,
+      "num": 277596,
+      "word": "张翰花少好友记路透",
+      "onboard_time": 1711101079,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 273740,
       "num": 265181,
       "word": "张庭夫妇庭秘密旗下公司拟注销",
       "onboard_time": 1711085062,
       "rank": 22,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 272983,
-      "num": 272983,
-      "word": "爸爸隔保鲜膜狂亲新生宝宝",
-      "onboard_time": 1711098078,
-      "rank": 22,
-      "category": "剧集"
     },
     {
       "raw_hot": 272926,
@@ -1083,6 +1131,22 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 241909,
+      "num": 548981,
+      "word": "接亲路上一声巨响新郎出手了",
+      "onboard_time": 1711101019,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 239719,
+      "num": 239719,
+      "word": "根据我的微博 判断我的MBTI",
+      "onboard_time": 1711101500,
+      "rank": 27,
+      "category": "情感"
+    },
+    {
       "raw_hot": 239496,
       "num": 239496,
       "word": "美国大选为何选不出其他人",
@@ -1171,14 +1235,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 220825,
-      "num": 220825,
-      "word": "建议工作可以实行大小周",
-      "onboard_time": 1711099758,
-      "rank": 28,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 220622,
       "num": 220622,
       "word": "惠英红搂杨幂腰",
@@ -1209,6 +1265,14 @@
       "onboard_time": 1711065740,
       "rank": 29,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 215265,
+      "num": 215265,
+      "word": "秦海璐行李箱还贴着一璐平安",
+      "onboard_time": 1711101320,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 214896,
@@ -1291,6 +1355,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 205095,
+      "num": 205095,
+      "word": "热辣滚烫马来西亚票房",
+      "onboard_time": 1711099460,
+      "rank": 29,
+      "category": "电影"
+    },
+    {
       "raw_hot": 204629,
       "num": 204629,
       "word": "王者荣耀大司命",
@@ -1369,14 +1441,6 @@
       "onboard_time": 1711081641,
       "rank": 36,
       "category": "演出"
-    },
-    {
-      "raw_hot": 197545,
-      "num": 197545,
-      "word": "热辣滚烫马来西亚票房",
-      "onboard_time": 1711099460,
-      "rank": 29,
-      "category": "电影"
     },
     {
       "raw_hot": 197233,
@@ -1467,12 +1531,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 181717,
-      "num": 181717,
-      "word": "女版相柳",
-      "onboard_time": 1711099400,
-      "rank": 32,
-      "category": "剧集"
+      "raw_hot": 177539,
+      "num": 177539,
+      "word": "WTT重庆冠军赛官宣",
+      "onboard_time": 1711100179,
+      "rank": 34,
+      "category": "体育"
     },
     {
       "raw_hot": 176881,
@@ -1579,12 +1643,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 163931,
-      "num": 163931,
-      "word": "微信官方回应朋友圈横线问题",
-      "onboard_time": 1711099879,
-      "rank": 38,
-      "category": "互联网"
+      "raw_hot": 165839,
+      "num": 165839,
+      "word": "不是说吃的干净就能瘦吗",
+      "onboard_time": 1711101799,
+      "rank": 36,
+      "category": "幽默"
     },
     {
       "raw_hot": 162836,
@@ -1731,6 +1795,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 151718,
+      "num": 151718,
+      "word": "鞠婧祎红裙舞",
+      "onboard_time": 1711099579,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 150727,
       "num": 150727,
       "word": "FPX对战RNG",
@@ -1763,12 +1835,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 147223,
-      "num": 147223,
-      "word": "鞠婧祎红裙舞",
-      "onboard_time": 1711099579,
+      "raw_hot": 145517,
+      "num": 145517,
+      "word": "花儿与少年好友记出发录制",
+      "onboard_time": 1711100837,
       "rank": 40,
-      "category": "剧集"
+      "category": "综艺"
     },
     {
       "raw_hot": 144787,
@@ -1827,6 +1899,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 140248,
+      "num": 140248,
+      "word": "狼队对战TES",
+      "onboard_time": 1711101617,
+      "rank": 43,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 139437,
       "num": 139437,
       "word": "金博洋落泪",
@@ -1873,6 +1953,14 @@
       "onboard_time": 1711094180,
       "rank": 46,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 132139,
+      "num": 132139,
+      "word": "方时赫的大house",
+      "onboard_time": 1711101201,
+      "rank": 45,
+      "category": "艺人,作品衍生"
     },
     {
       "raw_hot": 131375,
@@ -1995,6 +2083,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 113762,
+      "num": 555415,
+      "word": "宁夏辣糊糊到底有多香",
+      "onboard_time": 1711101019,
+      "rank": 8,
+      "category": "美食"
+    },
+    {
       "raw_hot": 112984,
       "num": 112984,
       "word": "现偶有自己的白云黑土",
@@ -2020,7 +2116,7 @@
     },
     {
       "raw_hot": 106528,
-      "num": 826504,
+      "num": 926051,
       "word": "花花盛开的中国春意拉满",
       "onboard_time": 1711096818,
       "rank": 2,
@@ -2233,6 +2329,14 @@
       "onboard_time": 1711044612,
       "rank": 45,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 18852,
+      "num": 421645,
+      "word": "元梦的熊猫是懂功夫的",
+      "onboard_time": 1711101617,
+      "rank": 14,
+      "category": "游戏"
     },
     {
       "raw_hot": 14244,
