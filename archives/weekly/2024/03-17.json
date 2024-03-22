@@ -1,6 +1,6 @@
 {
   "startTime": 1710605970310,
-  "endTime": 1711107261812,
+  "endTime": 1711110653897,
   "band_list": [
     {
       "raw_hot": 11692231,
@@ -651,6 +651,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1544443,
+      "num": 1544443,
+      "word": "67岁老人做工讨薪被殴打致轻伤二级",
+      "onboard_time": 1711105819,
+      "rank": 0,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1536025,
       "num": 1536025,
       "word": "黑马情侣提车",
@@ -1139,6 +1147,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1222054,
+      "num": 1222054,
+      "word": "阴阳师给王者荣耀律师函",
+      "onboard_time": 1711107018,
+      "rank": 4,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 1218766,
       "num": 1218766,
       "word": "国产三体 吊打",
@@ -1177,6 +1193,14 @@
       "onboard_time": 1710749435,
       "rank": 20,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1201609,
+      "num": 1201609,
+      "word": "喜证被倒卖1.9元1张",
+      "onboard_time": 1711107498,
+      "rank": 3,
+      "category": "美食"
     },
     {
       "raw_hot": 1197262,
@@ -2827,6 +2851,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 692990,
+      "num": 692990,
+      "word": "何悯鸿 悬着的心终于死了",
+      "onboard_time": 1711107918,
+      "rank": 4,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 692766,
       "num": 692766,
       "word": "喜茶称呼查理苏为您先生",
@@ -3363,14 +3395,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 593418,
-      "num": 593418,
-      "word": "阴阳师给王者荣耀律师函",
-      "onboard_time": 1711107018,
-      "rank": 4,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 591905,
       "num": 591905,
       "word": "最擅于隐藏情绪的星座",
@@ -3521,6 +3545,14 @@
       "onboard_time": 1711095678,
       "rank": 30,
       "category": "母婴育儿"
+    },
+    {
+      "raw_hot": 574840,
+      "num": 574840,
+      "word": "这类玩具致癌",
+      "onboard_time": 1711105937,
+      "rank": 44,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 573927,
@@ -4099,6 +4131,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 508921,
+      "num": 508921,
+      "word": "肖战泪痣",
+      "onboard_time": 1711109537,
+      "rank": 8,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 508544,
       "num": 508544,
       "word": "原来郑合惠子是单眼皮",
@@ -4297,6 +4337,14 @@
       "onboard_time": 1710762692,
       "rank": 12,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 487960,
+      "num": 487960,
+      "word": "未成年人严重暴力犯罪监护人要担责",
+      "onboard_time": 1711107080,
+      "rank": 40,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 487481,
@@ -5275,6 +5323,14 @@
       "category": "社会新闻,网红"
     },
     {
+      "raw_hot": 404467,
+      "num": 404467,
+      "word": "与凤行断层第一",
+      "onboard_time": 1711108458,
+      "rank": 14,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 403665,
       "num": 403665,
       "word": "白桃星座",
@@ -6131,14 +6187,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 337122,
-      "num": 337122,
-      "word": "这类玩具致癌",
-      "onboard_time": 1711105937,
-      "rank": 44,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 337037,
       "num": 337037,
       "word": "李硕珉金发",
@@ -6209,6 +6257,14 @@
       "onboard_time": 1710858461,
       "rank": 23,
       "category": "情感"
+    },
+    {
+      "raw_hot": 331694,
+      "num": 290888,
+      "word": "哈佛毕业回国考公是大材小用吗",
+      "onboard_time": 1711106299,
+      "rank": 20,
+      "category": "教育"
     },
     {
       "raw_hot": 331582,
@@ -6305,6 +6361,14 @@
       "onboard_time": 1710625156,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 324636,
+      "num": 324636,
+      "word": "全员加速中",
+      "onboard_time": 1711110319,
+      "rank": 15,
+      "category": "综艺"
     },
     {
       "raw_hot": 323536,
@@ -6625,6 +6689,14 @@
       "onboard_time": 1711031302,
       "rank": 22,
       "category": "体育"
+    },
+    {
+      "raw_hot": 309150,
+      "num": 309150,
+      "word": "白鹿敖瑞鹏同款打卡地",
+      "onboard_time": 1711107738,
+      "rank": 17,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 308904,
@@ -7171,6 +7243,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 282464,
+      "num": 282464,
+      "word": "魏大勋 越考古越心软",
+      "onboard_time": 1711109239,
+      "rank": 22,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 282422,
       "num": 282422,
       "word": "沙丘2导演见到中国香料和沙虫",
@@ -7689,14 +7769,6 @@
       "onboard_time": 1710681215,
       "rank": 24,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 259691,
-      "num": 259691,
-      "word": "哈佛毕业回国考公是大材小用吗",
-      "onboard_time": 1711106299,
-      "rank": 20,
-      "category": "教育"
     },
     {
       "raw_hot": 259509,
@@ -8539,6 +8611,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 230125,
+      "num": 230125,
+      "word": "东京食尸鬼 时代的代表",
+      "onboard_time": 1711108338,
+      "rank": 23,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 229949,
       "num": 229949,
       "word": "种地吧种了郁金香",
@@ -8601,6 +8681,14 @@
       "onboard_time": 1710826955,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 227838,
+      "num": 227838,
+      "word": "JDG对战WBG",
+      "onboard_time": 1711109719,
+      "rank": 24,
+      "category": "电竞"
     },
     {
       "raw_hot": 227712,
@@ -9243,6 +9331,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 217136,
+      "num": 217136,
+      "word": "当外公知道我的猫两万一只",
+      "onboard_time": 1711106779,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 216896,
       "num": 1185157,
       "word": "春分是整个春季中的C位节气",
@@ -9609,14 +9705,6 @@
       "onboard_time": 1710984933,
       "rank": 30,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 208557,
-      "num": 181089,
-      "word": "当外公知道我的猫两万一只",
-      "onboard_time": 1711106779,
-      "rank": 30,
-      "category": "幽默"
     },
     {
       "raw_hot": 208446,
@@ -11355,6 +11443,14 @@
       "category": "母婴育儿"
     },
     {
+      "raw_hot": 184794,
+      "num": 168217,
+      "word": "张杰上海演唱会",
+      "onboard_time": 1711109418,
+      "rank": 31,
+      "category": "演出"
+    },
+    {
       "raw_hot": 184653,
       "num": 184653,
       "word": "新说唱KC",
@@ -12297,6 +12393,14 @@
       "onboard_time": 1710810456,
       "rank": 46,
       "category": "情感"
+    },
+    {
+      "raw_hot": 169820,
+      "num": 169820,
+      "word": "行止入住沈璃王府",
+      "onboard_time": 1711110258,
+      "rank": 30,
+      "category": "剧集"
     },
     {
       "raw_hot": 169786,
@@ -13779,6 +13883,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 147656,
+      "num": 147656,
+      "word": "齐天大凤",
+      "onboard_time": 1711109659,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 147605,
       "num": 147605,
       "word": "RNG无缘春季赛季后赛",
@@ -13913,6 +14025,14 @@
       "onboard_time": 1710598235,
       "rank": 27,
       "category": "体育"
+    },
+    {
+      "raw_hot": 144985,
+      "num": 144985,
+      "word": "Suk的爆炸猎弓",
+      "onboard_time": 1711110019,
+      "rank": 36,
+      "category": "电竞"
     },
     {
       "raw_hot": 144787,
@@ -14395,6 +14515,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 137032,
+      "num": 137032,
+      "word": "沈璃母亲",
+      "onboard_time": 1711110558,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 137002,
       "num": 137002,
       "word": "甘肃麻辣烫老板娘忙到十天瘦八斤",
@@ -14715,6 +14843,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 132907,
+      "num": 132907,
+      "word": "直播带货一天卖20万是什么体验",
+      "onboard_time": 1711106958,
+      "rank": 44,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 132779,
       "num": 455242,
       "word": "接下来杭州是这样的",
@@ -14793,6 +14929,14 @@
       "onboard_time": 1710995014,
       "rank": 48,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 131393,
+      "num": 131393,
+      "word": "MASHIHO将solo出道",
+      "onboard_time": 1711108458,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 131200,
@@ -15179,14 +15323,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 124294,
-      "num": 124294,
-      "word": "未成年人严重暴力犯罪监护人要担责",
-      "onboard_time": 1711107080,
-      "rank": 40,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 123835,
       "num": 123835,
       "word": "别对我动心 追妻是终生事业",
@@ -15419,14 +15555,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 117858,
-      "num": 117858,
-      "word": "直播带货一天卖20万是什么体验",
-      "onboard_time": 1711106958,
-      "rank": 44,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 117810,
       "num": 117810,
       "word": "邻居都是人才",
@@ -15643,6 +15771,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 112532,
+      "num": 112532,
+      "word": "妖刀的戈娅",
+      "onboard_time": 1711110438,
+      "rank": 46,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 112184,
       "num": 112184,
       "word": "湖勇大战",
@@ -15828,7 +15964,7 @@
     },
     {
       "raw_hot": 106528,
-      "num": 926051,
+      "num": 1206976,
       "word": "花花盛开的中国春意拉满",
       "onboard_time": 1711096818,
       "rank": 2,
