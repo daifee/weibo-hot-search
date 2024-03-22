@@ -1,6 +1,6 @@
 {
   "startTime": 1711038208925,
-  "endTime": 1711077511872,
+  "endTime": 1711078456794,
   "band_list": [
     {
       "raw_hot": 3261143,
@@ -35,8 +35,8 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 1413701,
-      "num": 1413701,
+      "raw_hot": 1432561,
+      "num": 1432561,
       "word": "无臂男子免费乘地铁被要求出示残疾证",
       "onboard_time": 1711074378,
       "rank": 19,
@@ -57,6 +57,14 @@
       "onboard_time": 1711041073,
       "rank": 46,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 894136,
+      "num": 894136,
+      "word": "一半国家生育率低到无法维持其人口规模",
+      "onboard_time": 1711075217,
+      "rank": 5,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 883745,
@@ -81,14 +89,6 @@
       "onboard_time": 1711072578,
       "rank": 29,
       "category": "体育"
-    },
-    {
-      "raw_hot": 822685,
-      "num": 822685,
-      "word": "一半国家生育率低到无法维持其人口规模",
-      "onboard_time": 1711075217,
-      "rank": 5,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 803285,
@@ -161,6 +161,14 @@
       "onboard_time": 1711066639,
       "rank": 6,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 595612,
+      "num": 595612,
+      "word": "张雨绮也有赘肉",
+      "onboard_time": 1711076899,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 590810,
@@ -363,14 +371,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 405493,
-      "num": 405493,
-      "word": "张雨绮也有赘肉",
-      "onboard_time": 1711076899,
-      "rank": 16,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 398632,
       "num": 346076,
       "word": "杜海涛 夏油杰",
@@ -451,6 +451,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 323521,
+      "num": 323521,
+      "word": "BLACKPINK或将回归",
+      "onboard_time": 1711077259,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 320129,
       "num": 320129,
       "word": "张琳芃或退出国足",
@@ -499,12 +507,28 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 281569,
+      "num": 281569,
+      "word": "与凤行 科技改变仙侠",
+      "onboard_time": 1711076658,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 281015,
       "num": 281015,
       "word": "反诈老陈晒2023年收入",
       "onboard_time": 1711018397,
       "rank": 38,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 271224,
+      "num": 271224,
+      "word": "刘维感谢黄新淳陪护",
+      "onboard_time": 1711077681,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 270751,
@@ -515,20 +539,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 270207,
+      "num": 270207,
+      "word": "皮肤医生教一个简单去黑头的方法",
+      "onboard_time": 1711075998,
+      "rank": 24,
+      "category": "健康医疗,美妆"
+    },
+    {
       "raw_hot": 269039,
       "num": 269039,
       "word": "杜海涛爆改",
       "onboard_time": 1711016419,
       "rank": 18,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 256548,
-      "num": 256548,
-      "word": "皮肤医生教一个简单去黑头的方法",
-      "onboard_time": 1711075998,
-      "rank": 24,
-      "category": "健康医疗,美妆"
     },
     {
       "raw_hot": 253651,
@@ -539,20 +563,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 250902,
+      "num": 250902,
+      "word": "燕郊爆燃事故发生前后的日子",
+      "onboard_time": 1711077199,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 233758,
+      "num": 233758,
+      "word": "电影维和防暴队定档五一",
+      "onboard_time": 1711077259,
+      "rank": 31,
+      "category": "电影"
+    },
+    {
       "raw_hot": 228461,
       "num": 141921,
       "word": "公司全勤500属实把我拿捏住了",
       "onboard_time": 1711058531,
       "rank": 27,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 228323,
-      "num": 228323,
-      "word": "与凤行 科技改变仙侠",
-      "onboard_time": 1711076658,
-      "rank": 25,
-      "category": "剧集"
     },
     {
       "raw_hot": 224752,
@@ -579,14 +611,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 218963,
-      "num": 218963,
-      "word": "BLACKPINK或将回归",
-      "onboard_time": 1711077259,
-      "rank": 26,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 215492,
       "num": 215492,
       "word": "黑头挤得了一时挤不了一世",
@@ -609,6 +633,22 @@
       "onboard_time": 1711063576,
       "rank": 14,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 212507,
+      "num": 212507,
+      "word": "孙颖莎澳门",
+      "onboard_time": 1711078041,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 211873,
+      "num": 211873,
+      "word": "NBA将解散点燃队",
+      "onboard_time": 1711077860,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 210626,
@@ -683,6 +723,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 199431,
+      "num": 199431,
+      "word": "马拉多纳死亡调查有新进展",
+      "onboard_time": 1711077920,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 197233,
       "num": 197233,
       "word": "爱马仕工作人员否认配货",
@@ -747,12 +795,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 170672,
-      "num": 170672,
-      "word": "电影维和防暴队定档五一",
-      "onboard_time": 1711077259,
-      "rank": 31,
-      "category": "电影"
+      "raw_hot": 170867,
+      "num": 170867,
+      "word": "警方通报女子家门口被做三角标记",
+      "onboard_time": 1711078041,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 170418,
@@ -843,28 +891,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 148243,
-      "num": 148243,
-      "word": "天水麻辣烫怎么火的",
-      "onboard_time": 1711067899,
-      "rank": 45,
-      "category": "美食"
-    },
-    {
-      "raw_hot": 148101,
-      "num": 148101,
+      "raw_hot": 148547,
+      "num": 148547,
       "word": "以前的大学生过的什么好日子",
       "onboard_time": 1711076300,
       "rank": 36,
       "category": "情感"
     },
     {
-      "raw_hot": 147780,
-      "num": 147780,
-      "word": "燕郊爆燃事故发生前后的日子",
-      "onboard_time": 1711077199,
-      "rank": 37,
-      "category": "社会新闻"
+      "raw_hot": 148243,
+      "num": 148243,
+      "word": "天水麻辣烫怎么火的",
+      "onboard_time": 1711067899,
+      "rank": 45,
+      "category": "美食"
     },
     {
       "raw_hot": 141439,
