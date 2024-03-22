@@ -1,6 +1,6 @@
 {
   "startTime": 1711038208925,
-  "endTime": 1711082043389,
+  "endTime": 1711084763903,
   "band_list": [
     {
       "raw_hot": 3261143,
@@ -19,8 +19,8 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 1818956,
-      "num": 1818956,
+      "raw_hot": 2037140,
+      "num": 2037140,
       "word": "未成年人犯故意杀人等重罪要依法追究刑责",
       "onboard_time": 1711074258,
       "rank": 7,
@@ -33,6 +33,14 @@
       "onboard_time": 1711032320,
       "rank": 0,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 1456850,
+      "num": 1456850,
+      "word": "凯特现身视频卖了50万英镑",
+      "onboard_time": 1711083022,
+      "rank": 1,
+      "category": "国外时政"
     },
     {
       "raw_hot": 1432561,
@@ -91,6 +99,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 870854,
+      "num": 870854,
+      "word": "苹果静安店营业一小时后关店",
+      "onboard_time": 1711080022,
+      "rank": 24,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 863617,
+      "num": 863617,
+      "word": "卫龙辣条销量下滑近20%",
+      "onboard_time": 1711080921,
+      "rank": 38,
+      "category": "美食"
+    },
+    {
       "raw_hot": 838991,
       "num": 334460,
       "word": "44岁智障女子疑被多次强奸后产女",
@@ -129,6 +153,14 @@
       "onboard_time": 1711071139,
       "rank": 1,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 743884,
+      "num": 743884,
+      "word": "月光 永不复出",
+      "onboard_time": 1711080381,
+      "rank": 26,
+      "category": "电竞"
     },
     {
       "raw_hot": 725454,
@@ -187,6 +219,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 626512,
+      "num": 626512,
+      "word": "凤凰传奇官宣鸟巢演唱会",
+      "onboard_time": 1711082840,
+      "rank": 10,
+      "category": "演出"
+    },
+    {
       "raw_hot": 619989,
       "num": 619989,
       "word": "警方通报女子家门口被做三角标记",
@@ -211,20 +251,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 588409,
+      "num": 588409,
+      "word": "8部电影定档五一档",
+      "onboard_time": 1711080323,
+      "rank": 15,
+      "category": "电影"
+    },
+    {
       "raw_hot": 571956,
       "num": 533042,
       "word": "苹果曾试图为安卓开发手表",
       "onboard_time": 1711064477,
       "rank": 10,
       "category": "数码"
-    },
-    {
-      "raw_hot": 570100,
-      "num": 570100,
-      "word": "8部电影定档五一档",
-      "onboard_time": 1711080323,
-      "rank": 15,
-      "category": "电影"
     },
     {
       "raw_hot": 559883,
@@ -411,14 +451,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 411028,
-      "num": 411028,
-      "word": "苹果静安店营业一小时后关店",
-      "onboard_time": 1711080022,
-      "rank": 24,
-      "category": "数码"
-    },
-    {
       "raw_hot": 410641,
       "num": 410641,
       "word": "刘维术后报平安",
@@ -427,20 +459,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 407267,
-      "num": 407267,
-      "word": "卫龙辣条销量下滑近20%",
-      "onboard_time": 1711080921,
-      "rank": 38,
-      "category": "美食"
-    },
-    {
-      "raw_hot": 404487,
-      "num": 404487,
-      "word": "月光 永不复出",
-      "onboard_time": 1711080381,
-      "rank": 26,
-      "category": "电竞"
+      "raw_hot": 408948,
+      "num": 408948,
+      "word": "杨紫张耀演姐弟",
+      "onboard_time": 1711081101,
+      "rank": 45,
+      "category": "剧集"
     },
     {
       "raw_hot": 398632,
@@ -587,6 +611,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 284037,
+      "num": 279855,
+      "word": "这个女儿是来报恩的吧",
+      "onboard_time": 1711083381,
+      "rank": 21,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 281569,
       "num": 281569,
       "word": "与凤行 科技改变仙侠",
@@ -603,6 +635,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 280955,
+      "num": 280955,
+      "word": "皮肤医生教一个简单去黑头的方法",
+      "onboard_time": 1711075998,
+      "rank": 24,
+      "category": "健康医疗,美妆"
+    },
+    {
       "raw_hot": 280917,
       "num": 280917,
       "word": "仁川冠军赛",
@@ -611,12 +651,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 277765,
-      "num": 277765,
-      "word": "杨紫张耀演姐弟",
-      "onboard_time": 1711081101,
-      "rank": 45,
-      "category": "剧集"
+      "raw_hot": 277911,
+      "num": 277911,
+      "word": "汇率",
+      "onboard_time": 1711083502,
+      "rank": 23,
+      "category": "财经"
     },
     {
       "raw_hot": 272926,
@@ -625,6 +665,14 @@
       "onboard_time": 1711079840,
       "rank": 33,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 272194,
+      "num": 272194,
+      "word": "我是女皇 请让道",
+      "onboard_time": 1711082303,
+      "rank": 24,
+      "category": "情感"
     },
     {
       "raw_hot": 271224,
@@ -643,20 +691,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 270207,
-      "num": 270207,
-      "word": "皮肤医生教一个简单去黑头的方法",
-      "onboard_time": 1711075998,
-      "rank": 24,
-      "category": "健康医疗,美妆"
-    },
-    {
       "raw_hot": 269039,
       "num": 269039,
       "word": "杜海涛爆改",
       "onboard_time": 1711016419,
       "rank": 18,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 263988,
+      "num": 263988,
+      "word": "雷军公布第二批汽车交付中心候选城市",
+      "onboard_time": 1711081280,
+      "rank": 31,
+      "category": "汽车"
     },
     {
       "raw_hot": 262814,
@@ -683,12 +731,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 239386,
-      "num": 239386,
-      "word": "雷军公布第二批汽车交付中心候选城市",
-      "onboard_time": 1711081280,
-      "rank": 31,
-      "category": "汽车"
+      "raw_hot": 239496,
+      "num": 239496,
+      "word": "美国大选为何选不出其他人",
+      "onboard_time": 1711082179,
+      "rank": 28,
+      "category": "国外时政"
     },
     {
       "raw_hot": 233758,
@@ -939,6 +987,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 175545,
+      "num": 175545,
+      "word": "星穹铁道黄泉",
+      "onboard_time": 1711082901,
+      "rank": 35,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 175214,
       "num": 165836,
       "word": "男朋友相亲相到了我朋友",
@@ -969,6 +1025,14 @@
       "onboard_time": 1711081400,
       "rank": 45,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 162836,
+      "num": 162836,
+      "word": "墨方彻底碎了",
+      "onboard_time": 1711083981,
+      "rank": 37,
+      "category": "剧集"
     },
     {
       "raw_hot": 161739,
@@ -1009,6 +1073,14 @@
       "onboard_time": 1711019959,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 158517,
+      "num": 158517,
+      "word": "清融和赛场的共鸣",
+      "onboard_time": 1711083621,
+      "rank": 40,
+      "category": "电竞"
     },
     {
       "raw_hot": 156465,
@@ -1059,6 +1131,22 @@
       "category": "美食"
     },
     {
+      "raw_hot": 141997,
+      "num": 141997,
+      "word": "王一博再演警察",
+      "onboard_time": 1711083081,
+      "rank": 41,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 141812,
+      "num": 129160,
+      "word": "王一博脱衣服镜头",
+      "onboard_time": 1711084460,
+      "rank": 46,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 141439,
       "num": 141439,
       "word": "张杰新专辑先行曲回上线",
@@ -1099,6 +1187,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 131557,
+      "num": 131557,
+      "word": "维和防暴队",
+      "onboard_time": 1711084640,
+      "rank": 44,
+      "category": "电影"
+    },
+    {
       "raw_hot": 131375,
       "num": 131375,
       "word": "王梓薇与凤行只拍了一天半",
@@ -1137,6 +1233,14 @@
       "onboard_time": 1711024158,
       "rank": 34,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 122777,
+      "num": 122777,
+      "word": "管泽元锐评张琳芃",
+      "onboard_time": 1711084579,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 119851,
@@ -1403,6 +1507,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 14176,
+      "num": 1424632,
+      "word": "认识你真好",
+      "onboard_time": 1710834813,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 13253,
       "num": 18051,
       "word": "花间令",
@@ -1425,14 +1537,6 @@
       "onboard_time": 1711055710,
       "rank": 49,
       "category": "情感"
-    },
-    {
-      "raw_hot": 10941,
-      "num": 1284102,
-      "word": "认识你真好",
-      "onboard_time": 1710834813,
-      "rank": 2,
-      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
