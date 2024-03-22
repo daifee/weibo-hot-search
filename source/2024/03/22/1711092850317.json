@@ -1,0 +1,410 @@
+{
+  "runTime": 1711092850317,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1782064,
+        "num": 1782064,
+        "word": "未成年人犯故意杀人等重罪要依法追究刑责",
+        "onboard_time": 1711074258,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1291810,
+        "num": 1291810,
+        "word": "武汉地铁就无臂男子事件道歉",
+        "onboard_time": 1711085780,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 12111,
+        "num": 862060,
+        "word": "认识你真好",
+        "onboard_time": 1710834813,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 847729,
+        "num": 847729,
+        "word": "为什么胸口会刺痛几秒",
+        "onboard_time": 1711084880,
+        "rank": 3,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 810720,
+        "num": 810720,
+        "word": "虞书欣父亲退出被强执公司",
+        "onboard_time": 1711085721,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 791061,
+        "num": 791061,
+        "word": "凯特现身视频卖了50万英镑",
+        "onboard_time": 1711083022,
+        "rank": 5,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 607853,
+        "num": 607853,
+        "word": "王楚钦发博退出仁川赛",
+        "onboard_time": 1711075879,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 559761,
+        "num": 559761,
+        "word": "TFBOYS十年之约现象级演唱会",
+        "onboard_time": 1711086919,
+        "rank": 7,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 556393,
+        "num": 556393,
+        "word": "赵丽颖不理解自己被叫老公",
+        "onboard_time": 1711090759,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 546076,
+        "num": 546076,
+        "word": "武汉地铁",
+        "onboard_time": 1711089259,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 839376,
+        "num": 522846,
+        "word": "范丞丞 被diss",
+        "onboard_time": 1711091479,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 493354,
+        "num": 493354,
+        "word": "杨紫首部大女主职场剧",
+        "onboard_time": 1711085301,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 437300,
+        "num": 437300,
+        "word": "丫丫你肚子拖地了",
+        "onboard_time": 1711078700,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 457494,
+        "num": 435956,
+        "word": "赵丽颖和替身合照",
+        "onboard_time": 1711091658,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 433221,
+        "num": 433221,
+        "word": "林俊杰恢复了",
+        "onboard_time": 1711087221,
+        "rank": 14,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 433152,
+        "num": 433152,
+        "word": "Celine全球品牌大使Danielle",
+        "onboard_time": 1711088000,
+        "rank": 15,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 333929,
+        "num": 333929,
+        "word": "IU机场",
+        "onboard_time": 1711091358,
+        "rank": 16,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 307367,
+        "num": 307367,
+        "word": "杨幂打卡杨幂",
+        "onboard_time": 1711087762,
+        "rank": 17,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 284925,
+        "num": 284925,
+        "word": "月光 永不复出",
+        "onboard_time": 1711080381,
+        "rank": 18,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 273870,
+        "num": 273870,
+        "word": "苹果静安店营业一小时后关店",
+        "onboard_time": 1711080022,
+        "rank": 19,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 260572,
+        "num": 260572,
+        "word": "冰学简历",
+        "onboard_time": 1711091059,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 259624,
+        "num": 259624,
+        "word": "在路边买到了2块钱十个的抄手",
+        "onboard_time": 1711089500,
+        "rank": 21,
+        "category": "美食,幽默"
+      },
+      {
+        "raw_hot": 253440,
+        "num": 253440,
+        "word": "2023内娱最火的演唱会",
+        "onboard_time": 1711090400,
+        "rank": 22,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 247589,
+        "num": 247589,
+        "word": "比奔跑吧先更新的是头像",
+        "onboard_time": 1711085539,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 246296,
+        "num": 246296,
+        "word": "没转正的00后直接成了项目leader",
+        "onboard_time": 1711091121,
+        "rank": 24,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 220507,
+        "num": 220507,
+        "word": "凤凰传奇官宣鸟巢演唱会",
+        "onboard_time": 1711082840,
+        "rank": 25,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 204438,
+        "num": 204438,
+        "word": "贾玲 杂志排版",
+        "onboard_time": 1711079781,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 202521,
+        "num": 202521,
+        "word": "卫龙辣条销量下滑近20%",
+        "onboard_time": 1711080921,
+        "rank": 27,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 198470,
+        "num": 198470,
+        "word": "B站股价大跌遭阿里减持",
+        "onboard_time": 1711092499,
+        "rank": 28,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 193571,
+        "num": 193571,
+        "word": "戚薇cos",
+        "onboard_time": 1711085721,
+        "rank": 29,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 212381,
+        "num": 191741,
+        "word": "我妈好像是爽文大女主",
+        "onboard_time": 1711090521,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 189887,
+        "num": 189887,
+        "word": "吴磊撑脸照",
+        "onboard_time": 1711089620,
+        "rank": 31,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 189109,
+        "num": 189109,
+        "word": "高中同学变成我的学生了",
+        "onboard_time": 1711087161,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 185004,
+        "num": 185004,
+        "word": "张杰上海",
+        "onboard_time": 1711090942,
+        "rank": 33,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 176304,
+        "num": 176304,
+        "word": "卫健委辟谣怀孕留长发会抢宝宝营养",
+        "onboard_time": 1711092619,
+        "rank": 34,
+        "category": "母婴育儿"
+      },
+      {
+        "raw_hot": 158239,
+        "num": 158239,
+        "word": "8部电影定档五一档",
+        "onboard_time": 1711080323,
+        "rank": 35,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 153658,
+        "num": 153658,
+        "word": "顾茉莉被绑",
+        "onboard_time": 1711088899,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 152547,
+        "num": 152547,
+        "word": "长这么大第一次听说家乡的省花",
+        "onboard_time": 1711090819,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 150119,
+        "num": 150119,
+        "word": "林孝埈 Phoenix",
+        "onboard_time": 1711088301,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 143717,
+        "num": 143717,
+        "word": "我国网民规模达10.92亿人",
+        "onboard_time": 1711091239,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 142239,
+        "num": 142239,
+        "word": "98岁网红大姥姥去世",
+        "onboard_time": 1711071318,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 135999,
+        "num": 135999,
+        "word": "张雨绮也有赘肉",
+        "onboard_time": 1711076899,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 130527,
+        "num": 130527,
+        "word": "张婧仪李庚希 双生花",
+        "onboard_time": 1711088359,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 125208,
+        "num": 125208,
+        "word": "杨幂晒美甲",
+        "onboard_time": 1711085421,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 123518,
+        "num": 123518,
+        "word": "NewJeans北京",
+        "onboard_time": 1711092800,
+        "rank": 44,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 119962,
+        "num": 119962,
+        "word": "爱马仕CEO曾称中国客户迷恋爱马仕",
+        "onboard_time": 1711085241,
+        "rank": 45,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 119718,
+        "num": 119718,
+        "word": "你会在洗澡中途关花洒吗",
+        "onboard_time": 1711068741,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 117261,
+        "num": 117261,
+        "word": "天水辣椒摊大爷终于有空休息了",
+        "onboard_time": 1711092320,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 115177,
+        "num": 115177,
+        "word": "华为相关人士辟谣P70预售时间和售价",
+        "onboard_time": 1711090158,
+        "rank": 48,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 108612,
+        "num": 108612,
+        "word": "考研复试谁钝感力强谁就赢了",
+        "onboard_time": 1711085062,
+        "rank": 49,
+        "category": "教育"
+      }
+    ],
+    "hotgov": {
+      "word": "#推动中部地区崛起总书记这样擘画#"
+    }
+  }
+}
