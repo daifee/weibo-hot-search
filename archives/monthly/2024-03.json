@@ -1,6 +1,6 @@
 {
   "startTime": 1709223640991,
-  "endTime": 1711113509382,
+  "endTime": 1711114444678,
   "band_list": [
     {
       "raw_hot": 12728050,
@@ -4451,6 +4451,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 1091325,
+      "num": 1091325,
+      "word": "以色列宣布没收8平方公里巴勒斯坦土地",
+      "onboard_time": 1711112238,
+      "rank": 7,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 1090781,
       "num": 1090781,
       "word": "我是为了救我哥哥才出生的",
@@ -6169,6 +6177,14 @@
       "onboard_time": 1710310473,
       "rank": 30,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 889376,
+      "num": 889376,
+      "word": "为什么大多数销冠都是女的",
+      "onboard_time": 1711111398,
+      "rank": 37,
+      "category": "幽默"
     },
     {
       "raw_hot": 889137,
@@ -9507,14 +9523,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 676340,
-      "num": 676340,
-      "word": "为什么大多数销冠都是女的",
-      "onboard_time": 1711111398,
-      "rank": 37,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 675978,
       "num": 675978,
       "word": "国家线今天出吗",
@@ -10027,14 +10035,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 651180,
-      "num": 651180,
-      "word": "以色列宣布没收8平方公里巴勒斯坦土地",
-      "onboard_time": 1711112238,
-      "rank": 7,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 651118,
       "num": 651118,
       "word": "张雪峰谈大学越来越像工厂说法",
@@ -10081,6 +10081,14 @@
       "onboard_time": 1710829535,
       "rank": 23,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 649765,
+      "num": 649765,
+      "word": "肖战cue身材",
+      "onboard_time": 1711111639,
+      "rank": 8,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 649732,
@@ -11369,14 +11377,6 @@
       "onboard_time": 1710390875,
       "rank": 8,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 594324,
-      "num": 594324,
-      "word": "肖战cue身材",
-      "onboard_time": 1711111639,
-      "rank": 8,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 594054,
@@ -14131,20 +14131,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 507008,
+      "num": 507008,
+      "word": "魏大勋 越考古越心软",
+      "onboard_time": 1711109239,
+      "rank": 22,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 506390,
       "num": 506390,
       "word": "你猜为什么我们认识却不是好友",
       "onboard_time": 1709767166,
       "rank": 26,
       "category": "情感"
-    },
-    {
-      "raw_hot": 506308,
-      "num": 506308,
-      "word": "魏大勋 越考古越心软",
-      "onboard_time": 1711109239,
-      "rank": 22,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 505968,
@@ -21147,6 +21147,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 345719,
+      "num": 345719,
+      "word": "张杰巡演超长大屏",
+      "onboard_time": 1711112899,
+      "rank": 24,
+      "category": "演出"
+    },
+    {
       "raw_hot": 345475,
       "num": 288709,
       "word": "女子将男友30多只鞋子从35楼扔下",
@@ -23185,6 +23193,14 @@
       "onboard_time": 1710235054,
       "rank": 34,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 312003,
+      "num": 312003,
+      "word": "陈都灵奶白大衣",
+      "onboard_time": 1711112238,
+      "rank": 21,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 311991,
@@ -27099,6 +27115,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 261791,
+      "num": 261791,
+      "word": "客厅存在的意义是什么",
+      "onboard_time": 1711111699,
+      "rank": 22,
+      "category": "情感"
+    },
+    {
       "raw_hot": 261442,
       "num": 261442,
       "word": "薛之谦空降洛阳站",
@@ -29779,14 +29803,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 235751,
-      "num": 235751,
-      "word": "陈都灵奶白大衣",
-      "onboard_time": 1711112238,
-      "rank": 21,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 235662,
       "num": 235662,
       "word": "为什么小时候吃过的辣条都消失了",
@@ -30257,14 +30273,6 @@
       "onboard_time": 1709629594,
       "rank": 36,
       "category": "科学科普"
-    },
-    {
-      "raw_hot": 231020,
-      "num": 231020,
-      "word": "客厅存在的意义是什么",
-      "onboard_time": 1711111699,
-      "rank": 22,
-      "category": "情感"
     },
     {
       "raw_hot": 230669,
@@ -32475,14 +32483,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 216486,
-      "num": 216486,
-      "word": "张杰巡演超长大屏",
-      "onboard_time": 1711112899,
-      "rank": 24,
-      "category": "演出"
-    },
-    {
       "raw_hot": 216438,
       "num": 216438,
       "word": "何悯鸿找到新工作了",
@@ -32769,6 +32769,14 @@
       "onboard_time": 1709535570,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 215118,
+      "num": 215118,
+      "word": "魏若来被打",
+      "onboard_time": 1711113139,
+      "rank": 29,
+      "category": "剧集"
     },
     {
       "raw_hot": 215110,
@@ -38067,6 +38075,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 191127,
+      "num": 191127,
+      "word": "警方回应67岁老人做工讨薪遭殴打",
+      "onboard_time": 1711113738,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 191123,
       "num": 295371,
       "word": "近8成网友认为奶茶消杯不正常",
@@ -39184,14 +39200,6 @@
       "word": "迪丽热巴陈星旭怎么鬼鬼祟祟的",
       "onboard_time": 1710850176,
       "rank": 36,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 186714,
-      "num": 186714,
-      "word": "魏若来被打",
-      "onboard_time": 1711113139,
-      "rank": 29,
       "category": "剧集"
     },
     {
@@ -42841,6 +42849,14 @@
       "onboard_time": 1709699255,
       "rank": 36,
       "category": "情感"
+    },
+    {
+      "raw_hot": 170051,
+      "num": 170051,
+      "word": "林允黑天鹅妆",
+      "onboard_time": 1711114099,
+      "rank": 28,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 170042,
@@ -47515,6 +47531,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 151288,
+      "num": 151288,
+      "word": "iPad游戏合集",
+      "onboard_time": 1711113559,
+      "rank": 34,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 151247,
       "num": 151247,
       "word": "N2报名",
@@ -47785,6 +47809,14 @@
       "onboard_time": 1709268756,
       "rank": 47,
       "category": "演出"
+    },
+    {
+      "raw_hot": 150285,
+      "num": 150285,
+      "word": "WBG零封JDG",
+      "onboard_time": 1711113678,
+      "rank": 36,
+      "category": "电竞"
     },
     {
       "raw_hot": 150241,
@@ -53995,6 +54027,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 125068,
+      "num": 125068,
+      "word": "赵丽颖林更新给对方的微信备注",
+      "onboard_time": 1711114399,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 125061,
       "num": 125061,
       "word": "唐人街探案",
@@ -55579,6 +55619,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 117113,
+      "num": 117113,
+      "word": "苏打绿香港站",
+      "onboard_time": 1711111759,
+      "rank": 46,
+      "category": "演出"
+    },
+    {
       "raw_hot": 117096,
       "num": 117096,
       "word": "崔珉豪Key与SM续约",
@@ -56667,14 +56715,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 111443,
-      "num": 111443,
-      "word": "苏打绿香港站",
-      "onboard_time": 1711111759,
-      "rank": 46,
-      "category": "演出"
-    },
-    {
       "raw_hot": 111371,
       "num": 111371,
       "word": "狗狗Messi鼓掌",
@@ -57465,6 +57505,14 @@
       "onboard_time": 1709534370,
       "rank": 46,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 106145,
+      "num": 106145,
+      "word": "医学上没有过度疲劳这一疾病",
+      "onboard_time": 1711114338,
+      "rank": 49,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 106061,
@@ -62011,6 +62059,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 34093,
+      "num": 152082,
+      "word": "零跑汽车奖励爱心车主零跑C10",
+      "onboard_time": 1711110918,
+      "rank": 38,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 33951,
       "num": 53726,
       "word": "广东省考估分",
@@ -62169,14 +62225,6 @@
       "onboard_time": 1709316559,
       "rank": 37,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 31298,
-      "num": 152082,
-      "word": "零跑汽车奖励爱心车主零跑C10",
-      "onboard_time": 1711110918,
-      "rank": 38,
-      "category": "汽车"
     },
     {
       "raw_hot": 31208,
