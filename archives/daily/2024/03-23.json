@@ -1,6 +1,6 @@
 {
   "startTime": 1711124556378,
-  "endTime": 1711138650436,
+  "endTime": 1711139699460,
   "band_list": [
     {
       "raw_hot": 1515135,
@@ -467,6 +467,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 51318,
+      "num": 39891,
+      "word": "卢昱晓 如今的我很幸运",
+      "onboard_time": 1711137731,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 49587,
       "num": 49587,
       "word": "ILLIT预告",
@@ -481,14 +489,6 @@
       "onboard_time": 1711131791,
       "rank": 32,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 43463,
-      "num": 39891,
-      "word": "卢昱晓 如今的我很幸运",
-      "onboard_time": 1711137731,
-      "rank": 12,
-      "category": "艺人"
     },
     {
       "raw_hot": 43137,
@@ -531,20 +531,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 20634,
+      "num": 22276,
+      "word": "喜茶客服回应喜证被倒卖1.9元1张",
+      "onboard_time": 1711137431,
+      "rank": 28,
+      "category": "社会新闻,游戏"
+    },
+    {
       "raw_hot": 20179,
       "num": 20179,
       "word": "小日子",
       "onboard_time": 1711136472,
       "rank": 36,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 19976,
-      "num": 22276,
-      "word": "喜茶客服回应喜证被倒卖1.9元1张",
-      "onboard_time": 1711137431,
-      "rank": 28,
-      "category": "社会新闻,游戏"
     },
     {
       "raw_hot": 18884,

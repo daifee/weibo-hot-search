@@ -1,6 +1,6 @@
 {
   "startTime": 1710605970310,
-  "endTime": 1711138650436,
+  "endTime": 1711139699460,
   "band_list": [
     {
       "raw_hot": 11692231,
@@ -17547,6 +17547,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 51318,
+      "num": 39891,
+      "word": "卢昱晓 如今的我很幸运",
+      "onboard_time": 1711137731,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 50690,
       "num": 374089,
       "word": "淘宝红人之夜有多绝",
@@ -17657,14 +17665,6 @@
       "onboard_time": 1710995737,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 43463,
-      "num": 39891,
-      "word": "卢昱晓 如今的我很幸运",
-      "onboard_time": 1711137731,
-      "rank": 12,
-      "category": "艺人"
     },
     {
       "raw_hot": 43137,
@@ -18011,20 +18011,20 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 20634,
+      "num": 22276,
+      "word": "喜茶客服回应喜证被倒卖1.9元1张",
+      "onboard_time": 1711137431,
+      "rank": 28,
+      "category": "社会新闻,游戏"
+    },
+    {
       "raw_hot": 20156,
       "num": 152030,
       "word": "明星们的最新出行搭子",
       "onboard_time": 1710752795,
       "rank": 38,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 19976,
-      "num": 22276,
-      "word": "喜茶客服回应喜证被倒卖1.9元1张",
-      "onboard_time": 1711137431,
-      "rank": 28,
-      "category": "社会新闻,游戏"
     },
     {
       "raw_hot": 19932,
