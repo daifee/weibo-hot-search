@@ -1,0 +1,410 @@
+{
+  "runTime": 1711099191132,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1136866,
+        "num": 1136866,
+        "word": "黄子韬直播cue徐艺洋",
+        "onboard_time": 1711094958,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 854209,
+        "num": 854209,
+        "word": "卫健委辟谣怀孕留长发会抢宝宝营养",
+        "onboard_time": 1711092619,
+        "rank": 1,
+        "category": "母婴育儿"
+      },
+      {
+        "raw_hot": 97448,
+        "num": 826504,
+        "word": "花花盛开的中国春意拉满",
+        "onboard_time": 1711096818,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 807912,
+        "num": 807912,
+        "word": "天水辣椒摊大爷终于有空休息了",
+        "onboard_time": 1711092320,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 743422,
+        "num": 743422,
+        "word": "国产三体 吊打",
+        "onboard_time": 1711096818,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 697287,
+        "num": 697287,
+        "word": "未成年人犯故意杀人等重罪要依法追究刑责",
+        "onboard_time": 1711074258,
+        "rank": 5,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 670672,
+        "num": 670672,
+        "word": "赵丽颖和替身合照",
+        "onboard_time": 1711091658,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 666086,
+        "num": 666086,
+        "word": "离职后还有24万工资没发",
+        "onboard_time": 1711097301,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 564265,
+        "num": 564265,
+        "word": "宫崎骏 拥抱比亲吻更有力量",
+        "onboard_time": 1711097059,
+        "rank": 8,
+        "category": "动漫,作品衍生"
+      },
+      {
+        "raw_hot": 453787,
+        "num": 453787,
+        "word": "为什么胸口会刺痛几秒",
+        "onboard_time": 1711084880,
+        "rank": 9,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 545433,
+        "num": 450527,
+        "word": "范丞丞 被diss",
+        "onboard_time": 1711091479,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 429081,
+        "num": 429081,
+        "word": "环卫工躺地库被碾身亡案国赔维持原判",
+        "onboard_time": 1711096339,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 375483,
+        "num": 375483,
+        "word": "王楚钦发博退出仁川赛",
+        "onboard_time": 1711075879,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 366681,
+        "num": 366681,
+        "word": "杨紫四部大女主待播剧",
+        "onboard_time": 1711096577,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 363668,
+        "num": 363668,
+        "word": "为什么县城里的女老师不好脱单",
+        "onboard_time": 1711095678,
+        "rank": 14,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 359037,
+        "num": 359037,
+        "word": "虞书欣父亲退出被强执公司",
+        "onboard_time": 1711085721,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 327979,
+        "num": 327979,
+        "word": "凯特现身视频卖了50万英镑",
+        "onboard_time": 1711083022,
+        "rank": 16,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 322307,
+        "num": 322307,
+        "word": "B站股价大跌遭阿里减持",
+        "onboard_time": 1711092499,
+        "rank": 17,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 320848,
+        "num": 320848,
+        "word": "TFBOYS十年之约现象级演唱会",
+        "onboard_time": 1711086919,
+        "rank": 18,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 264988,
+        "num": 264988,
+        "word": "RNG战胜FPX",
+        "onboard_time": 1711098618,
+        "rank": 19,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 418074,
+        "num": 261974,
+        "word": "两岁半的女儿被托班劝退",
+        "onboard_time": 1711095678,
+        "rank": 20,
+        "category": "母婴育儿"
+      },
+      {
+        "raw_hot": 258900,
+        "num": 258900,
+        "word": "武汉地铁就无臂男子事件道歉",
+        "onboard_time": 1711085780,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 248764,
+        "num": 248764,
+        "word": "爸爸隔保鲜膜狂亲新生宝宝",
+        "onboard_time": 1711098078,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 234914,
+        "num": 234914,
+        "word": "居然被初中好朋友冒名顶替了",
+        "onboard_time": 1711096999,
+        "rank": 23,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 225631,
+        "num": 225631,
+        "word": "小狗快被同伴埋了硬是一声不吭",
+        "onboard_time": 1711096640,
+        "rank": 24,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 222362,
+        "num": 222362,
+        "word": "赵丽颖不理解自己被叫老公",
+        "onboard_time": 1711090759,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 202701,
+        "num": 202701,
+        "word": "杨采薇掉马 有迹可循",
+        "onboard_time": 1711093699,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 199181,
+        "num": 199181,
+        "word": "丫丫你肚子拖地了",
+        "onboard_time": 1711078700,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 196156,
+        "num": 196156,
+        "word": "妈妈月子里晒刚满19天的宝宝",
+        "onboard_time": 1711095799,
+        "rank": 28,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 194589,
+        "num": 194589,
+        "word": "NewJeans北京",
+        "onboard_time": 1711092800,
+        "rank": 29,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 183801,
+        "num": 183801,
+        "word": "林俊杰恢复了",
+        "onboard_time": 1711087221,
+        "rank": 30,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 183162,
+        "num": 183162,
+        "word": "杨幂吴磊小水同框",
+        "onboard_time": 1711097598,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 172208,
+        "num": 172208,
+        "word": "冰学简历",
+        "onboard_time": 1711091059,
+        "rank": 32,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 171477,
+        "num": 171477,
+        "word": "月光 永不复出",
+        "onboard_time": 1711080381,
+        "rank": 33,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 170125,
+        "num": 170125,
+        "word": "国台办回应福建海警救2名金门男子",
+        "onboard_time": 1711098319,
+        "rank": 34,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 165261,
+        "num": 165261,
+        "word": "苏醒爆炸头",
+        "onboard_time": 1711095920,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 156500,
+        "num": 156500,
+        "word": "王楚钦说身体比较疲劳",
+        "onboard_time": 1711094839,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 155306,
+        "num": 155306,
+        "word": "十个勤天群像的神",
+        "onboard_time": 1711098618,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 154771,
+        "num": 154771,
+        "word": "花儿与少年好友记",
+        "onboard_time": 1711098979,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 150727,
+        "num": 150727,
+        "word": "FPX对战RNG",
+        "onboard_time": 1711097779,
+        "rank": 39,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 144787,
+        "num": 144787,
+        "word": "魏若来好像快碎了",
+        "onboard_time": 1711097955,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 144158,
+        "num": 144158,
+        "word": "元英心态",
+        "onboard_time": 1711093279,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 142870,
+        "num": 142870,
+        "word": "成都中考新政是对校园霸凌的有力震慑",
+        "onboard_time": 1711094419,
+        "rank": 42,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 141692,
+        "num": 141692,
+        "word": "10字以内你能写多刀",
+        "onboard_time": 1711097358,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 136963,
+        "num": 136963,
+        "word": "母单的人有一种特殊气质",
+        "onboard_time": 1711095738,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 129074,
+        "num": 129074,
+        "word": "贾玲 杂志排版",
+        "onboard_time": 1711079781,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 125244,
+        "num": 125244,
+        "word": "伯贤男高感",
+        "onboard_time": 1711095858,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 123136,
+        "num": 123136,
+        "word": "IU机场",
+        "onboard_time": 1711091358,
+        "rank": 47,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 115356,
+        "num": 115356,
+        "word": "和平精英变天",
+        "onboard_time": 1711098021,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 113592,
+        "num": 113592,
+        "word": "王鹤棣也看东北雨姐",
+        "onboard_time": 1711092919,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#推动中部地区崛起总书记这样擘画#"
+    }
+  }
+}

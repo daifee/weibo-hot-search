@@ -1,6 +1,6 @@
 {
   "startTime": 1710605970310,
-  "endTime": 1711096462780,
+  "endTime": 1711099191132,
   "band_list": [
     {
       "raw_hot": 11692231,
@@ -1275,6 +1275,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 1136866,
+      "num": 1136866,
+      "word": "黄子韬直播cue徐艺洋",
+      "onboard_time": 1711094958,
+      "rank": 7,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1133456,
       "num": 1133456,
       "word": "欧阳娣娣掉出出道位",
@@ -1731,14 +1739,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 940184,
-      "num": 940184,
-      "word": "黄子韬直播cue徐艺洋",
-      "onboard_time": 1711094958,
-      "rank": 7,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 935537,
       "num": 406651,
       "word": "男孩学校遭霸凌父母讨说法被踢出群",
@@ -2123,6 +2123,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 807912,
+      "num": 807912,
+      "word": "天水辣椒摊大爷终于有空休息了",
+      "onboard_time": 1711092320,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 807272,
       "num": 807272,
       "word": "赵丽颖的左右脸",
@@ -2433,6 +2441,14 @@
       "onboard_time": 1711080381,
       "rank": 26,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 743422,
+      "num": 743422,
+      "word": "国产三体 吊打",
+      "onboard_time": 1711096818,
+      "rank": 4,
+      "category": "剧集"
     },
     {
       "raw_hot": 743007,
@@ -2857,6 +2873,14 @@
       "onboard_time": 1710917912,
       "rank": 5,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 666086,
+      "num": 666086,
+      "word": "离职后还有24万工资没发",
+      "onboard_time": 1711097301,
+      "rank": 7,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 665811,
@@ -3521,6 +3545,14 @@
       "onboard_time": 1710679356,
       "rank": 46,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 564265,
+      "num": 564265,
+      "word": "宫崎骏 拥抱比亲吻更有力量",
+      "onboard_time": 1711097059,
+      "rank": 8,
+      "category": "动漫,作品衍生"
     },
     {
       "raw_hot": 564182,
@@ -4835,6 +4867,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 429081,
+      "num": 429081,
+      "word": "环卫工躺地库被碾身亡案国赔维持原判",
+      "onboard_time": 1711096339,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 428801,
       "num": 428801,
       "word": "迪丽热巴拉弓",
@@ -5619,6 +5659,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 366681,
+      "num": 366681,
+      "word": "杨紫四部大女主待播剧",
+      "onboard_time": 1711096577,
+      "rank": 13,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 364467,
       "num": 151225,
       "word": "霸王茶姬抽奖",
@@ -5649,6 +5697,14 @@
       "onboard_time": 1710856599,
       "rank": 23,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 363668,
+      "num": 363668,
+      "word": "为什么县城里的女老师不好脱单",
+      "onboard_time": 1711095678,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 362912,
@@ -6324,7 +6380,7 @@
     },
     {
       "raw_hot": 315745,
-      "num": 189442,
+      "num": 196156,
       "word": "妈妈月子里晒刚满19天的宝宝",
       "onboard_time": 1711095799,
       "rank": 30,
@@ -6521,14 +6577,6 @@
       "onboard_time": 1710686866,
       "rank": 28,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 306258,
-      "num": 306258,
-      "word": "天水辣椒摊大爷终于有空休息了",
-      "onboard_time": 1711092320,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 305006,
@@ -7387,6 +7435,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 264988,
+      "num": 264988,
+      "word": "RNG战胜FPX",
+      "onboard_time": 1711098618,
+      "rank": 19,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 264365,
       "num": 264365,
       "word": "沈梦辰怎么又瘦了",
@@ -7755,6 +7811,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 248764,
+      "num": 248764,
+      "word": "爸爸隔保鲜膜狂亲新生宝宝",
+      "onboard_time": 1711098078,
+      "rank": 22,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 248440,
       "num": 343725,
       "word": "凤凰传奇只有冷门前奏没有冷门歌曲",
@@ -7801,14 +7865,6 @@
       "onboard_time": 1710582455,
       "rank": 8,
       "category": "美食"
-    },
-    {
-      "raw_hot": 247264,
-      "num": 247264,
-      "word": "为什么县城里的女老师不好脱单",
-      "onboard_time": 1711095678,
-      "rank": 49,
-      "category": "情感"
     },
     {
       "raw_hot": 247200,
@@ -8171,6 +8227,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 234914,
+      "num": 234914,
+      "word": "居然被初中好朋友冒名顶替了",
+      "onboard_time": 1711096999,
+      "rank": 23,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 234576,
       "num": 234576,
       "word": "三月黑马体",
@@ -8505,6 +8569,14 @@
       "onboard_time": 1710713538,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 225631,
+      "num": 225631,
+      "word": "小狗快被同伴埋了硬是一声不吭",
+      "onboard_time": 1711096640,
+      "rank": 24,
+      "category": "幽默"
     },
     {
       "raw_hot": 225328,
@@ -11147,6 +11219,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 183162,
+      "num": 183162,
+      "word": "杨幂吴磊小水同框",
+      "onboard_time": 1711097598,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 183029,
       "num": 183029,
       "word": "LNG回应管泽元",
@@ -11977,6 +12057,14 @@
       "onboard_time": 1711069161,
       "rank": 38,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 170125,
+      "num": 170125,
+      "word": "国台办回应福建海警救2名金门男子",
+      "onboard_time": 1711098319,
+      "rank": 34,
+      "category": "国内时政"
     },
     {
       "raw_hot": 169923,
@@ -12931,6 +13019,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 155306,
+      "num": 155306,
+      "word": "十个勤天群像的神",
+      "onboard_time": 1711098618,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 155039,
       "num": 155039,
       "word": "周深献唱追风者主题曲",
@@ -12953,6 +13049,14 @@
       "onboard_time": 1710655652,
       "rank": 40,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 154771,
+      "num": 154771,
+      "word": "花儿与少年好友记",
+      "onboard_time": 1711098979,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 154665,
@@ -13241,6 +13345,14 @@
       "onboard_time": 1711008678,
       "rank": 41,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 150727,
+      "num": 150727,
+      "word": "FPX对战RNG",
+      "onboard_time": 1711097779,
+      "rank": 39,
+      "category": "电竞"
     },
     {
       "raw_hot": 150174,
@@ -13547,6 +13659,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 144787,
+      "num": 144787,
+      "word": "魏若来好像快碎了",
+      "onboard_time": 1711097955,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 144715,
       "num": 144715,
       "word": "凯特失踪之谜",
@@ -13729,6 +13849,14 @@
       "onboard_time": 1710917791,
       "rank": 34,
       "category": "演出"
+    },
+    {
+      "raw_hot": 141692,
+      "num": 141692,
+      "word": "10字以内你能写多刀",
+      "onboard_time": 1711097358,
+      "rank": 43,
+      "category": "情感"
     },
     {
       "raw_hot": 141439,
@@ -14419,14 +14547,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 130420,
-      "num": 130420,
-      "word": "环卫工躺地库被碾身亡案国赔维持原判",
-      "onboard_time": 1711096339,
-      "rank": 45,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 130323,
       "num": 130323,
       "word": "钟楚曦黄景瑜三搭",
@@ -15075,6 +15195,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 115356,
+      "num": 115356,
+      "word": "和平精英变天",
+      "onboard_time": 1711098021,
+      "rank": 48,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 114696,
       "num": 114696,
       "word": "四川雅江森林火灾1号火场明火被扑灭",
@@ -15552,6 +15680,14 @@
       "word": "雅江山火",
       "onboard_time": 1710586114,
       "rank": 44,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 97448,
+      "num": 826504,
+      "word": "花花盛开的中国春意拉满",
+      "onboard_time": 1711096818,
+      "rank": 2,
       "category": "社会新闻"
     },
     {

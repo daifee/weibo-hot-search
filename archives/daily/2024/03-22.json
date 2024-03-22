@@ -1,6 +1,6 @@
 {
   "startTime": 1711038208925,
-  "endTime": 1711096462780,
+  "endTime": 1711099191132,
   "band_list": [
     {
       "raw_hot": 3261143,
@@ -91,6 +91,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 1136866,
+      "num": 1136866,
+      "word": "黄子韬直播cue徐艺洋",
+      "onboard_time": 1711094958,
+      "rank": 7,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1062825,
       "num": 786350,
       "word": "杜海涛 霍尊",
@@ -121,14 +129,6 @@
       "onboard_time": 1711041073,
       "rank": 46,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 940184,
-      "num": 940184,
-      "word": "黄子韬直播cue徐艺洋",
-      "onboard_time": 1711094958,
-      "rank": 7,
-      "category": "艺人"
     },
     {
       "raw_hot": 910336,
@@ -177,6 +177,14 @@
       "onboard_time": 1711072578,
       "rank": 29,
       "category": "体育"
+    },
+    {
+      "raw_hot": 807912,
+      "num": 807912,
+      "word": "天水辣椒摊大爷终于有空休息了",
+      "onboard_time": 1711092320,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 803285,
@@ -235,6 +243,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 743422,
+      "num": 743422,
+      "word": "国产三体 吊打",
+      "onboard_time": 1711096818,
+      "rank": 4,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 725454,
       "num": 616866,
       "word": "98岁网红大姥姥去世",
@@ -280,6 +296,14 @@
       "word": "重庆一火锅店来了位87岁的服务员",
       "onboard_time": 1711063815,
       "rank": 48,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 666086,
+      "num": 666086,
+      "word": "离职后还有24万工资没发",
+      "onboard_time": 1711097301,
+      "rank": 7,
       "category": "社会新闻"
     },
     {
@@ -361,6 +385,14 @@
       "onboard_time": 1711087221,
       "rank": 11,
       "category": "演出"
+    },
+    {
+      "raw_hot": 564265,
+      "num": 564265,
+      "word": "宫崎骏 拥抱比亲吻更有力量",
+      "onboard_time": 1711097059,
+      "rank": 8,
+      "category": "动漫,作品衍生"
     },
     {
       "raw_hot": 559883,
@@ -531,6 +563,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 429081,
+      "num": 429081,
+      "word": "环卫工躺地库被碾身亡案国赔维持原判",
+      "onboard_time": 1711096339,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 428953,
       "num": 428953,
       "word": "瑞幸酱香拿铁被曝销量差",
@@ -635,12 +675,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 366681,
+      "num": 366681,
+      "word": "杨紫四部大女主待播剧",
+      "onboard_time": 1711096577,
+      "rank": 13,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 364467,
       "num": 151225,
       "word": "霸王茶姬抽奖",
       "onboard_time": 1711070241,
       "rank": 44,
       "category": "美食"
+    },
+    {
+      "raw_hot": 363668,
+      "num": 363668,
+      "word": "为什么县城里的女老师不好脱单",
+      "onboard_time": 1711095678,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 362682,
@@ -756,7 +812,7 @@
     },
     {
       "raw_hot": 315745,
-      "num": 189442,
+      "num": 196156,
       "word": "妈妈月子里晒刚满19天的宝宝",
       "onboard_time": 1711095799,
       "rank": 30,
@@ -784,14 +840,6 @@
       "word": "13岁男孩手脚细长被确诊马凡综合征",
       "onboard_time": 1711067122,
       "rank": 26,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 306258,
-      "num": 306258,
-      "word": "天水辣椒摊大爷终于有空休息了",
-      "onboard_time": 1711092320,
-      "rank": 47,
       "category": "社会新闻"
     },
     {
@@ -931,6 +979,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 264988,
+      "num": 264988,
+      "word": "RNG战胜FPX",
+      "onboard_time": 1711098618,
+      "rank": 19,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 263719,
       "num": 259624,
       "word": "在路边买到了2块钱十个的抄手",
@@ -995,12 +1051,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 247264,
-      "num": 247264,
-      "word": "为什么县城里的女老师不好脱单",
-      "onboard_time": 1711095678,
-      "rank": 49,
-      "category": "情感"
+      "raw_hot": 248764,
+      "num": 248764,
+      "word": "爸爸隔保鲜膜狂亲新生宝宝",
+      "onboard_time": 1711098078,
+      "rank": 22,
+      "category": "剧集"
     },
     {
       "raw_hot": 246296,
@@ -1017,6 +1073,14 @@
       "onboard_time": 1711082179,
       "rank": 28,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 234914,
+      "num": 234914,
+      "word": "居然被初中好朋友冒名顶替了",
+      "onboard_time": 1711096999,
+      "rank": 23,
+      "category": "幽默"
     },
     {
       "raw_hot": 233758,
@@ -1040,6 +1104,14 @@
       "word": "公司全勤500属实把我拿捏住了",
       "onboard_time": 1711058531,
       "rank": 27,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 225631,
+      "num": 225631,
+      "word": "小狗快被同伴埋了硬是一声不吭",
+      "onboard_time": 1711096640,
+      "rank": 24,
       "category": "幽默"
     },
     {
@@ -1339,6 +1411,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 183162,
+      "num": 183162,
+      "word": "杨幂吴磊小水同框",
+      "onboard_time": 1711097598,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 182098,
       "num": 182098,
       "word": "老师不要跑全网下线",
@@ -1443,6 +1523,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 170125,
+      "num": 170125,
+      "word": "国台办回应福建海警救2名金门男子",
+      "onboard_time": 1711098319,
+      "rank": 34,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 168019,
       "num": 168019,
       "word": "明日方舟",
@@ -1539,6 +1627,22 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 155306,
+      "num": 155306,
+      "word": "十个勤天群像的神",
+      "onboard_time": 1711098618,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 154771,
+      "num": 154771,
+      "word": "花儿与少年好友记",
+      "onboard_time": 1711098979,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 154356,
       "num": 154356,
       "word": "B站股价3年跌90%",
@@ -1587,6 +1691,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 150727,
+      "num": 150727,
+      "word": "FPX对战RNG",
+      "onboard_time": 1711097779,
+      "rank": 39,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 148547,
       "num": 148547,
       "word": "以前的大学生过的什么好日子",
@@ -1611,6 +1723,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 144787,
+      "num": 144787,
+      "word": "魏若来好像快碎了",
+      "onboard_time": 1711097955,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 144235,
       "num": 144235,
       "word": "普通家庭的孩子出国留学有用吗",
@@ -1625,6 +1745,14 @@
       "onboard_time": 1711083081,
       "rank": 41,
       "category": "电影"
+    },
+    {
+      "raw_hot": 141692,
+      "num": 141692,
+      "word": "10字以内你能写多刀",
+      "onboard_time": 1711097358,
+      "rank": 43,
+      "category": "情感"
     },
     {
       "raw_hot": 141439,
@@ -1705,14 +1833,6 @@
       "onboard_time": 1711025478,
       "rank": 32,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 130420,
-      "num": 130420,
-      "word": "环卫工躺地库被碾身亡案国赔维持原判",
-      "onboard_time": 1711096339,
-      "rank": 45,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 130323,
@@ -1811,6 +1931,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 115356,
+      "num": 115356,
+      "word": "和平精英变天",
+      "onboard_time": 1711098021,
+      "rank": 48,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 113923,
       "num": 108757,
       "word": "恩利双鱼座",
@@ -1881,6 +2009,14 @@
       "onboard_time": 1711037597,
       "rank": 48,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 97448,
+      "num": 826504,
+      "word": "花花盛开的中国春意拉满",
+      "onboard_time": 1711096818,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 96636,
