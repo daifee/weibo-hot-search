@@ -1,0 +1,410 @@
+{
+  "runTime": 1711089248074,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1953923,
+        "num": 1953923,
+        "word": "未成年人犯故意杀人等重罪要依法追究刑责",
+        "onboard_time": 1711074258,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1456020,
+        "num": 1456020,
+        "word": "凯特现身视频卖了50万英镑",
+        "onboard_time": 1711083022,
+        "rank": 1,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 9130,
+        "num": 1303369,
+        "word": "认识你真好",
+        "onboard_time": 1710834813,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1222945,
+        "num": 1222945,
+        "word": "武汉地铁就无臂男子事件道歉",
+        "onboard_time": 1711085780,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1144226,
+        "num": 1144226,
+        "word": "为什么胸口会刺痛几秒",
+        "onboard_time": 1711084880,
+        "rank": 4,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 954923,
+        "num": 954923,
+        "word": "虞书欣父亲退出被强执公司",
+        "onboard_time": 1711085721,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 785911,
+        "num": 785911,
+        "word": "杨紫首部大女主职场剧",
+        "onboard_time": 1711085301,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 760412,
+        "num": 760412,
+        "word": "Celine全球品牌大使Danielle",
+        "onboard_time": 1711088000,
+        "rank": 7,
+        "category": "时尚,作品衍生"
+      },
+      {
+        "raw_hot": 758701,
+        "num": 758701,
+        "word": "TFBOYS十年之约现象级演唱会",
+        "onboard_time": 1711086919,
+        "rank": 8,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 598049,
+        "num": 598049,
+        "word": "王楚钦发博退出仁川赛",
+        "onboard_time": 1711075879,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 570198,
+        "num": 570198,
+        "word": "林俊杰恢复了",
+        "onboard_time": 1711087221,
+        "rank": 10,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 547922,
+        "num": 547922,
+        "word": "丫丫你肚子拖地了",
+        "onboard_time": 1711078700,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 402563,
+        "num": 402563,
+        "word": "贾玲 杂志排版",
+        "onboard_time": 1711079781,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 377353,
+        "num": 377353,
+        "word": "比奔跑吧先更新的是头像",
+        "onboard_time": 1711085539,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 359494,
+        "num": 359494,
+        "word": "苹果静安店营业一小时后关店",
+        "onboard_time": 1711080022,
+        "rank": 14,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 331302,
+        "num": 331302,
+        "word": "凤凰传奇官宣鸟巢演唱会",
+        "onboard_time": 1711082840,
+        "rank": 15,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 309134,
+        "num": 309134,
+        "word": "戚薇cos",
+        "onboard_time": 1711085721,
+        "rank": 16,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 285525,
+        "num": 285525,
+        "word": "卫龙辣条销量下滑近20%",
+        "onboard_time": 1711080921,
+        "rank": 17,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 283528,
+        "num": 283528,
+        "word": "8部电影定档五一档",
+        "onboard_time": 1711080323,
+        "rank": 18,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 263022,
+        "num": 263022,
+        "word": "杨幂打卡杨幂",
+        "onboard_time": 1711087762,
+        "rank": 19,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 318161,
+        "num": 262855,
+        "word": "高中同学变成我的学生了",
+        "onboard_time": 1711087161,
+        "rank": 20,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 262599,
+        "num": 262599,
+        "word": "月光 永不复出",
+        "onboard_time": 1711080381,
+        "rank": 21,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 236820,
+        "num": 236820,
+        "word": "张雨绮也有赘肉",
+        "onboard_time": 1711076899,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 222448,
+        "num": 222448,
+        "word": "爱马仕CEO曾称中国客户迷恋爱马仕",
+        "onboard_time": 1711085241,
+        "rank": 23,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 267961,
+        "num": 218223,
+        "word": "杨幂晒美甲",
+        "onboard_time": 1711085421,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 203529,
+        "num": 203529,
+        "word": "你会在洗澡中途关花洒吗",
+        "onboard_time": 1711068741,
+        "rank": 25,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 192561,
+        "num": 192561,
+        "word": "当十个勤天只留蒋敦豪在家时",
+        "onboard_time": 1711086500,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 185787,
+        "num": 185787,
+        "word": "张婧仪李庚希 双生花",
+        "onboard_time": 1711088359,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 184944,
+        "num": 184944,
+        "word": "无臂男子免费乘地铁被要求出示残疾证",
+        "onboard_time": 1711074378,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 184071,
+        "num": 184071,
+        "word": "张庭夫妇庭秘密旗下公司拟注销",
+        "onboard_time": 1711085062,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 179311,
+        "num": 179311,
+        "word": "残联回应无臂男子免费乘地铁需亮证",
+        "onboard_time": 1711086619,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 170111,
+        "num": 170111,
+        "word": "考研复试谁钝感力强谁就赢了",
+        "onboard_time": 1711085062,
+        "rank": 31,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 160049,
+        "num": 160049,
+        "word": "雷军公布第二批汽车交付中心候选城市",
+        "onboard_time": 1711081280,
+        "rank": 32,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 152938,
+        "num": 152938,
+        "word": "希林娜依高和她的五个保镖",
+        "onboard_time": 1711088000,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 148052,
+        "num": 148052,
+        "word": "张琳芃妻子发声",
+        "onboard_time": 1711084998,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 145744,
+        "num": 145744,
+        "word": "一半国家生育率低到无法维持其人口规模",
+        "onboard_time": 1711075217,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 144920,
+        "num": 144920,
+        "word": "汇率",
+        "onboard_time": 1711083502,
+        "rank": 36,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 144587,
+        "num": 144587,
+        "word": "微商教母张庭卷土重来",
+        "onboard_time": 1711071679,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 143804,
+        "num": 143804,
+        "word": "杨幂春日私服穿搭",
+        "onboard_time": 1711086258,
+        "rank": 38,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 143642,
+        "num": 143642,
+        "word": "这个女儿是来报恩的吧",
+        "onboard_time": 1711083381,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 142144,
+        "num": 142144,
+        "word": "顾茉莉被绑",
+        "onboard_time": 1711088899,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 140896,
+        "num": 140896,
+        "word": "林孝埈 Phoenix",
+        "onboard_time": 1711088301,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 132119,
+        "num": 132119,
+        "word": "高中生在学校厕所内遭多人殴打",
+        "onboard_time": 1711070241,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 131504,
+        "num": 131504,
+        "word": "维和防暴队",
+        "onboard_time": 1711084640,
+        "rank": 43,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 131472,
+        "num": 131472,
+        "word": "赵丽颖好爱用微博表情",
+        "onboard_time": 1711079120,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 128031,
+        "num": 128031,
+        "word": "刘学义花絮",
+        "onboard_time": 1711087459,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 122896,
+        "num": 122896,
+        "word": "袁泉迷人",
+        "onboard_time": 1711089079,
+        "rank": 46,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 120902,
+        "num": 120902,
+        "word": "警方通报女子家门口被做三角标记",
+        "onboard_time": 1711078041,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 120560,
+        "num": 120560,
+        "word": "钟楚曦黄景瑜三搭",
+        "onboard_time": 1711085959,
+        "rank": 48,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 107258,
+        "num": 107258,
+        "word": "BLACKPINK或将回归",
+        "onboard_time": 1711077259,
+        "rank": 49,
+        "category": "音乐"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平总书记湖南行#"
+    }
+  }
+}

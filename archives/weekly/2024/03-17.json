@@ -1,6 +1,6 @@
 {
   "startTime": 1710605970310,
-  "endTime": 1711088510003,
+  "endTime": 1711089248074,
   "band_list": [
     {
       "raw_hot": 11692231,
@@ -1123,6 +1123,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1222945,
+      "num": 1222945,
+      "word": "武汉地铁就无臂男子事件道歉",
+      "onboard_time": 1711085780,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1214513,
       "num": 534554,
       "word": "追风者 好大的尺度",
@@ -1219,14 +1227,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 1158437,
-      "num": 1158437,
-      "word": "武汉地铁就无臂男子事件道歉",
-      "onboard_time": 1711085780,
-      "rank": 3,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1147233,
       "num": 1147233,
       "word": "小米测试车被天津高速抓到逃费",
@@ -1241,6 +1241,14 @@
       "onboard_time": 1711079781,
       "rank": 6,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1144226,
+      "num": 1144226,
+      "word": "为什么胸口会刺痛几秒",
+      "onboard_time": 1711084880,
+      "rank": 14,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 1143909,
@@ -1393,14 +1401,6 @@
       "onboard_time": 1710838893,
       "rank": 17,
       "category": "财经"
-    },
-    {
-      "raw_hot": 1071394,
-      "num": 1071394,
-      "word": "为什么胸口会刺痛几秒",
-      "onboard_time": 1711084880,
-      "rank": 14,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 1068426,
@@ -1624,6 +1624,14 @@
       "word": "玄彬孙艺珍孔刘李栋旭一起看球赛",
       "onboard_time": 1711018219,
       "rank": 3,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 954923,
+      "num": 954923,
+      "word": "虞书欣父亲退出被强执公司",
+      "onboard_time": 1711085721,
+      "rank": 5,
       "category": "艺人"
     },
     {
@@ -1899,14 +1907,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 876621,
-      "num": 876621,
-      "word": "虞书欣父亲退出被强执公司",
-      "onboard_time": 1711085721,
-      "rank": 5,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 874443,
       "num": 874443,
       "word": "记者卧底鲜芋仙曝光后厨乱象",
@@ -2179,6 +2179,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 785911,
+      "num": 785911,
+      "word": "杨紫首部大女主职场剧",
+      "onboard_time": 1711085301,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 785434,
       "num": 785434,
       "word": "男孩在路边拖走小女孩疑似猥亵",
@@ -2283,20 +2291,20 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 762319,
-      "num": 762319,
-      "word": "杨紫首部大女主职场剧",
-      "onboard_time": 1711085301,
-      "rank": 26,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 761652,
       "num": 761652,
       "word": "1岁女婴3楼坠下获爱心救助奇迹生还",
       "onboard_time": 1710725130,
       "rank": 31,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 760412,
+      "num": 760412,
+      "word": "Celine全球品牌大使Danielle",
+      "onboard_time": 1711088000,
+      "rank": 10,
+      "category": "时尚,作品衍生"
     },
     {
       "raw_hot": 760309,
@@ -2321,6 +2329,14 @@
       "onboard_time": 1710815196,
       "rank": 31,
       "category": "教育"
+    },
+    {
+      "raw_hot": 758701,
+      "num": 758701,
+      "word": "TFBOYS十年之约现象级演唱会",
+      "onboard_time": 1711086919,
+      "rank": 7,
+      "category": "演出"
     },
     {
       "raw_hot": 757966,
@@ -2601,14 +2617,6 @@
       "onboard_time": 1710852819,
       "rank": 6,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 713964,
-      "num": 713964,
-      "word": "TFBOYS十年之约现象级演唱会",
-      "onboard_time": 1711086919,
-      "rank": 7,
-      "category": "演出"
     },
     {
       "raw_hot": 712272,
@@ -3451,6 +3459,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 570198,
+      "num": 570198,
+      "word": "林俊杰恢复了",
+      "onboard_time": 1711087221,
+      "rank": 11,
+      "category": "演出"
+    },
+    {
       "raw_hot": 566369,
       "num": 566369,
       "word": "这真的是快50岁的何老师吗",
@@ -3753,14 +3769,6 @@
       "onboard_time": 1710838417,
       "rank": 20,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 536125,
-      "num": 536125,
-      "word": "Celine全球品牌大使Danielle",
-      "onboard_time": 1711088000,
-      "rank": 10,
-      "category": "时尚,作品衍生"
     },
     {
       "raw_hot": 533750,
@@ -4129,14 +4137,6 @@
       "onboard_time": 1710762692,
       "rank": 12,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 487660,
-      "num": 487660,
-      "word": "林俊杰恢复了",
-      "onboard_time": 1711087221,
-      "rank": 11,
-      "category": "演出"
     },
     {
       "raw_hot": 487481,
@@ -6147,6 +6147,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 318161,
+      "num": 262855,
+      "word": "高中同学变成我的学生了",
+      "onboard_time": 1711087161,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 317879,
       "num": 317879,
       "word": "无限超越班 李菲儿",
@@ -7027,14 +7035,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 276878,
-      "num": 189424,
-      "word": "高中同学变成我的学生了",
-      "onboard_time": 1711087161,
-      "rank": 30,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 276563,
       "num": 276563,
       "word": "我爸说以后我弟买房靠我了",
@@ -7313,6 +7313,14 @@
       "onboard_time": 1710805169,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 263022,
+      "num": 263022,
+      "word": "杨幂打卡杨幂",
+      "onboard_time": 1711087762,
+      "rank": 25,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 262814,
@@ -8697,14 +8705,6 @@
       "onboard_time": 1710827314,
       "rank": 26,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 218779,
-      "num": 218779,
-      "word": "杨幂打卡杨幂",
-      "onboard_time": 1711087762,
-      "rank": 25,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 218650,
@@ -10795,6 +10795,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 185787,
+      "num": 185787,
+      "word": "张婧仪李庚希 双生花",
+      "onboard_time": 1711088359,
+      "rank": 47,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 185665,
       "num": 185665,
       "word": "赵丽颖沈璃定妆花絮",
@@ -12731,6 +12739,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 152938,
+      "num": 152938,
+      "word": "希林娜依高和她的五个保镖",
+      "onboard_time": 1711088000,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 152910,
       "num": 152910,
       "word": "白羊座不会被爱征服",
@@ -13371,6 +13387,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 142144,
+      "num": 142144,
+      "word": "顾茉莉被绑",
+      "onboard_time": 1711088899,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 142075,
       "num": 342707,
       "word": "洽洽 绘旅人",
@@ -13419,20 +13443,20 @@
       "category": "演出"
     },
     {
-      "raw_hot": 141633,
-      "num": 141633,
-      "word": "希林娜依高和她的五个保镖",
-      "onboard_time": 1711088000,
-      "rank": 40,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 141439,
       "num": 141439,
       "word": "张杰新专辑先行曲回上线",
       "onboard_time": 1711075098,
       "rank": 38,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 140896,
+      "num": 140896,
+      "word": "林孝埈 Phoenix",
+      "onboard_time": 1711088301,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 140823,
@@ -14459,6 +14483,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 122896,
+      "num": 122896,
+      "word": "袁泉迷人",
+      "onboard_time": 1711089079,
+      "rank": 46,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 122777,
       "num": 122777,
       "word": "管泽元锐评张琳芃",
@@ -14537,14 +14569,6 @@
       "onboard_time": 1710841955,
       "rank": 47,
       "category": "情感"
-    },
-    {
-      "raw_hot": 121300,
-      "num": 121300,
-      "word": "张婧仪李庚希 双生花",
-      "onboard_time": 1711088359,
-      "rank": 47,
-      "category": "艺人"
     },
     {
       "raw_hot": 120835,
@@ -14937,14 +14961,6 @@
       "onboard_time": 1710601779,
       "rank": 41,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 108379,
-      "num": 116026,
-      "word": "林孝埈 Phoenix",
-      "onboard_time": 1711088301,
-      "rank": 49,
-      "category": "体育"
     },
     {
       "raw_hot": 108302,

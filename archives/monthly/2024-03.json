@@ -1,6 +1,6 @@
 {
   "startTime": 1709223640991,
-  "endTime": 1711088510003,
+  "endTime": 1711089248074,
   "band_list": [
     {
       "raw_hot": 12728050,
@@ -3499,6 +3499,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1222945,
+      "num": 1222945,
+      "word": "武汉地铁就无臂男子事件道歉",
+      "onboard_time": 1711085780,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1221036,
       "num": 399667,
       "word": "这竟然是雪姨",
@@ -3851,14 +3859,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 1158437,
-      "num": 1158437,
-      "word": "武汉地铁就无臂男子事件道歉",
-      "onboard_time": 1711085780,
-      "rank": 3,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1158014,
       "num": 1158014,
       "word": "赵露思说小时候吴昕对她很好",
@@ -3937,6 +3937,14 @@
       "onboard_time": 1711079781,
       "rank": 6,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1144226,
+      "num": 1144226,
+      "word": "为什么胸口会刺痛几秒",
+      "onboard_time": 1711084880,
+      "rank": 14,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 1143909,
@@ -4497,14 +4505,6 @@
       "onboard_time": 1709554054,
       "rank": 0,
       "category": "教育"
-    },
-    {
-      "raw_hot": 1071394,
-      "num": 1071394,
-      "word": "为什么胸口会刺痛几秒",
-      "onboard_time": 1711084880,
-      "rank": 14,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 1068426,
@@ -5467,6 +5467,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 954923,
+      "num": 954923,
+      "word": "虞书欣父亲退出被强执公司",
+      "onboard_time": 1711085721,
+      "rank": 5,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 954686,
       "num": 954686,
       "word": "国人平均睡眠时长6.75小时",
@@ -6249,14 +6257,6 @@
       "onboard_time": 1710514724,
       "rank": 33,
       "category": "社会新闻,互联网"
-    },
-    {
-      "raw_hot": 876621,
-      "num": 876621,
-      "word": "虞书欣父亲退出被强执公司",
-      "onboard_time": 1711085721,
-      "rank": 5,
-      "category": "艺人"
     },
     {
       "raw_hot": 874576,
@@ -7299,6 +7299,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 785911,
+      "num": 785911,
+      "word": "杨紫首部大女主职场剧",
+      "onboard_time": 1711085301,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 785835,
       "num": 785835,
       "word": "易烊千玺没被认出来",
@@ -7699,14 +7707,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 762319,
-      "num": 762319,
-      "word": "杨紫首部大女主职场剧",
-      "onboard_time": 1711085301,
-      "rank": 26,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 761652,
       "num": 761652,
       "word": "1岁女婴3楼坠下获爱心救助奇迹生还",
@@ -7721,6 +7721,14 @@
       "onboard_time": 1710211109,
       "rank": 10,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 760412,
+      "num": 760412,
+      "word": "Celine全球品牌大使Danielle",
+      "onboard_time": 1711088000,
+      "rank": 10,
+      "category": "时尚,作品衍生"
     },
     {
       "raw_hot": 760373,
@@ -7777,6 +7785,14 @@
       "onboard_time": 1709697693,
       "rank": 19,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 758701,
+      "num": 758701,
+      "word": "TFBOYS十年之约现象级演唱会",
+      "onboard_time": 1711086919,
+      "rank": 7,
+      "category": "演出"
     },
     {
       "raw_hot": 758319,
@@ -8625,14 +8641,6 @@
       "onboard_time": 1710256234,
       "rank": 19,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 713964,
-      "num": 713964,
-      "word": "TFBOYS十年之约现象级演唱会",
-      "onboard_time": 1711086919,
-      "rank": 7,
-      "category": "演出"
     },
     {
       "raw_hot": 713504,
@@ -11803,6 +11811,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 570198,
+      "num": 570198,
+      "word": "林俊杰恢复了",
+      "onboard_time": 1711087221,
+      "rank": 11,
+      "category": "演出"
+    },
+    {
       "raw_hot": 569278,
       "num": 271122,
       "word": "孙怡用过的手机壳",
@@ -12953,14 +12969,6 @@
       "onboard_time": 1709393971,
       "rank": 11,
       "category": "情感"
-    },
-    {
-      "raw_hot": 536125,
-      "num": 536125,
-      "word": "Celine全球品牌大使Danielle",
-      "onboard_time": 1711088000,
-      "rank": 10,
-      "category": "时尚,作品衍生"
     },
     {
       "raw_hot": 536092,
@@ -14553,14 +14561,6 @@
       "onboard_time": 1709393669,
       "rank": 6,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 487660,
-      "num": 487660,
-      "word": "林俊杰恢复了",
-      "onboard_time": 1711087221,
-      "rank": 11,
-      "category": "演出"
     },
     {
       "raw_hot": 487573,
@@ -22363,6 +22363,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 318161,
+      "num": 262855,
+      "word": "高中同学变成我的学生了",
+      "onboard_time": 1711087161,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 317910,
       "num": 317910,
       "word": "五月天经纪公司回应网传开北京演唱会",
@@ -25363,14 +25371,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 276878,
-      "num": 189424,
-      "word": "高中同学变成我的学生了",
-      "onboard_time": 1711087161,
-      "rank": 30,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 276824,
       "num": 276824,
       "word": "郭帆吃中国沙虫吓到沙丘导演",
@@ -26561,6 +26561,14 @@
       "onboard_time": 1709551231,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 263022,
+      "num": 263022,
+      "word": "杨幂打卡杨幂",
+      "onboard_time": 1711087762,
+      "rank": 25,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 263020,
@@ -31545,14 +31553,6 @@
       "onboard_time": 1710475477,
       "rank": 31,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 218779,
-      "num": 218779,
-      "word": "杨幂打卡杨幂",
-      "onboard_time": 1711087762,
-      "rank": 25,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 218700,
@@ -38737,6 +38737,14 @@
       "onboard_time": 1710388713,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 185787,
+      "num": 185787,
+      "word": "张婧仪李庚希 双生花",
+      "onboard_time": 1711088359,
+      "rank": 47,
+      "category": "艺人"
     },
     {
       "raw_hot": 185762,
@@ -46203,6 +46211,14 @@
       "category": "读书作家"
     },
     {
+      "raw_hot": 152938,
+      "num": 152938,
+      "word": "希林娜依高和她的五个保镖",
+      "onboard_time": 1711088000,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 152936,
       "num": 152936,
       "word": "赏春茶会时装",
@@ -48875,6 +48891,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 142144,
+      "num": 142144,
+      "word": "顾茉莉被绑",
+      "onboard_time": 1711088899,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 142143,
       "num": 142143,
       "word": "滇西小哥 松针宴",
@@ -49011,14 +49035,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 141633,
-      "num": 141633,
-      "word": "希林娜依高和她的五个保镖",
-      "onboard_time": 1711088000,
-      "rank": 40,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 141582,
       "num": 141582,
       "word": "Sora为何没能诞生在中国",
@@ -49153,6 +49169,14 @@
       "onboard_time": 1709975073,
       "rank": 38,
       "category": "电影"
+    },
+    {
+      "raw_hot": 140896,
+      "num": 140896,
+      "word": "林孝埈 Phoenix",
+      "onboard_time": 1711088301,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 140844,
@@ -53451,6 +53475,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 122896,
+      "num": 122896,
+      "word": "袁泉迷人",
+      "onboard_time": 1711089079,
+      "rank": 46,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 122875,
       "num": 122875,
       "word": "为什么在车上睡着总能在到站前醒来",
@@ -53809,14 +53841,6 @@
       "onboard_time": 1709364815,
       "rank": 46,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 121300,
-      "num": 121300,
-      "word": "张婧仪李庚希 双生花",
-      "onboard_time": 1711088359,
-      "rank": 47,
-      "category": "艺人"
     },
     {
       "raw_hot": 121275,
@@ -56009,14 +56033,6 @@
       "onboard_time": 1710466056,
       "rank": 48,
       "category": "情感"
-    },
-    {
-      "raw_hot": 108379,
-      "num": 116026,
-      "word": "林孝埈 Phoenix",
-      "onboard_time": 1711088301,
-      "rank": 49,
-      "category": "体育"
     },
     {
       "raw_hot": 108373,
