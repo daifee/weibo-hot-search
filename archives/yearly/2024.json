@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1711149400258,
+  "endTime": 1711150453923,
   "band_list": [
     {
       "raw_hot": 18909527,
@@ -1113,6 +1113,14 @@
       "onboard_time": 1708347699,
       "rank": 7,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 3601895,
+      "num": 3601895,
+      "word": "英国凯特王妃患癌症",
+      "onboard_time": 1711149195,
+      "rank": 0,
+      "category": "国外时政"
     },
     {
       "raw_hot": 3599833,
@@ -2393,14 +2401,6 @@
       "onboard_time": 1710767192,
       "rank": 15,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 2604565,
-      "num": 2604565,
-      "word": "建议所有单位都拿出岗位给大学生",
-      "onboard_time": 1709522310,
-      "rank": 0,
-      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
