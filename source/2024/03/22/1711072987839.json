@@ -1,0 +1,410 @@
+{
+  "runTime": 1711072987839,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2927533,
+        "num": 2927533,
+        "word": "最高检谈未成年人故意杀人等严重犯罪",
+        "onboard_time": 1711069459,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 749405,
+        "num": 749405,
+        "word": "BLACKPINK续约金额高达400亿韩元",
+        "onboard_time": 1711071139,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 34446,
+        "num": 743906,
+        "word": "今年春耕科技范儿满满",
+        "onboard_time": 1711026378,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 743119,
+        "num": 743119,
+        "word": "凭什么要禁止东北人做翻译啊",
+        "onboard_time": 1711041073,
+        "rank": 3,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 726971,
+        "num": 726971,
+        "word": "过度疲劳的表现",
+        "onboard_time": 1711032320,
+        "rank": 4,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 548934,
+        "num": 548934,
+        "word": "林更新让林更新",
+        "onboard_time": 1711069338,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 519620,
+        "num": 519620,
+        "word": "微商教母张庭卷土重来",
+        "onboard_time": 1711071679,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 500670,
+        "num": 500670,
+        "word": "央视网再评校园霸凌",
+        "onboard_time": 1711069758,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 426947,
+        "num": 426947,
+        "word": "六旬大爷三战考研成绩暴涨278分",
+        "onboard_time": 1711071498,
+        "rank": 8,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 414042,
+        "num": 414042,
+        "word": "全职妈妈35岁后出国读研39岁当实习生",
+        "onboard_time": 1711070840,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 725454,
+        "num": 413288,
+        "word": "98岁网红大姥姥去世",
+        "onboard_time": 1711071318,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 683345,
+        "num": 406867,
+        "word": "杜海涛 霍尊",
+        "onboard_time": 1711031000,
+        "rank": 11,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 653495,
+        "num": 400326,
+        "word": "高中生在学校厕所内遭多人殴打",
+        "onboard_time": 1711070241,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 481010,
+        "num": 397995,
+        "word": "宋仲基夫妇看球赛",
+        "onboard_time": 1711071619,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 21484,
+        "num": 392444,
+        "word": "为什么你减肥老是反弹",
+        "onboard_time": 1711072819,
+        "rank": 14,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 391135,
+        "num": 391135,
+        "word": "刘维术后报平安",
+        "onboard_time": 1711071858,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 384413,
+        "num": 384413,
+        "word": "消费者起诉爱马仕配货潜规则",
+        "onboard_time": 1711066280,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 369178,
+        "num": 369178,
+        "word": "重庆一火锅店来了位87岁的服务员",
+        "onboard_time": 1711063815,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 367716,
+        "num": 367716,
+        "word": "韩版凯特门",
+        "onboard_time": 1711066639,
+        "rank": 18,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 335544,
+        "num": 335544,
+        "word": "柳叶刀称本世纪末97%国家人口将减少",
+        "onboard_time": 1711066940,
+        "rank": 19,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 621433,
+        "num": 331450,
+        "word": "44岁智障女子疑被多次强奸后产女",
+        "onboard_time": 1711062496,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 551135,
+        "num": 331007,
+        "word": "你会在洗澡中途关花洒吗",
+        "onboard_time": 1711068741,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 287382,
+        "num": 287382,
+        "word": "16岁的刘学义",
+        "onboard_time": 1711066161,
+        "rank": 22,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 251870,
+        "num": 251870,
+        "word": "一张相册里最舍不得删的花",
+        "onboard_time": 1711064298,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 240319,
+        "num": 240319,
+        "word": "尿酸高建议每天足量饮水",
+        "onboard_time": 1711067242,
+        "rank": 24,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 230339,
+        "num": 230339,
+        "word": "苹果市值一夜蒸发超7919亿",
+        "onboard_time": 1711063336,
+        "rank": 25,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 226122,
+        "num": 226122,
+        "word": "李小冉当时害怕极了",
+        "onboard_time": 1711067661,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 220980,
+        "num": 220980,
+        "word": "每天5分钟排出体内湿气",
+        "onboard_time": 1711066039,
+        "rank": 27,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 213683,
+        "num": 213683,
+        "word": "每天睡不足6小时连续30天会怎样",
+        "onboard_time": 1711062435,
+        "rank": 28,
+        "category": "健康医疗,社会新闻"
+      },
+      {
+        "raw_hot": 212942,
+        "num": 212942,
+        "word": "新加坡队长竟是房产中介",
+        "onboard_time": 1711072578,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 210887,
+        "num": 210887,
+        "word": "苹果曾试图为安卓开发手表",
+        "onboard_time": 1711064477,
+        "rank": 30,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 210635,
+        "num": 210635,
+        "word": "沈璃行止圆房",
+        "onboard_time": 1711026319,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 207774,
+        "num": 207774,
+        "word": "13岁男孩手脚细长被确诊马凡综合征",
+        "onboard_time": 1711067122,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 204885,
+        "num": 204885,
+        "word": "刘学义丑鞋子",
+        "onboard_time": 1711072399,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 203021,
+        "num": 203021,
+        "word": "范志毅说张琳芃踢空是能力问题",
+        "onboard_time": 1711072038,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 199645,
+        "num": 199645,
+        "word": "沈梦辰身材管理",
+        "onboard_time": 1711070539,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 192537,
+        "num": 192537,
+        "word": "爱马仕工作人员否认配货",
+        "onboard_time": 1711070060,
+        "rank": 36,
+        "category": "时尚,社会新闻"
+      },
+      {
+        "raw_hot": 190653,
+        "num": 190653,
+        "word": "阴阳师 王者荣耀",
+        "onboard_time": 1711022959,
+        "rank": 37,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 188833,
+        "num": 188833,
+        "word": "为什么人类几乎不吃食肉动物的肉",
+        "onboard_time": 1711032139,
+        "rank": 38,
+        "category": "健康医疗,美食"
+      },
+      {
+        "raw_hot": 188358,
+        "num": 188358,
+        "word": "网飞三体 叶文洁刻画",
+        "onboard_time": 1711070658,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 179363,
+        "num": 179363,
+        "word": "个人所得税收入下降",
+        "onboard_time": 1711029861,
+        "rank": 40,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 173165,
+        "num": 173165,
+        "word": "网飞三体",
+        "onboard_time": 1711069999,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 164273,
+        "num": 164273,
+        "word": "杜海涛 夏油杰",
+        "onboard_time": 1711041373,
+        "rank": 42,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 158561,
+        "num": 158561,
+        "word": "阴阳师",
+        "onboard_time": 1711063576,
+        "rank": 43,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 155871,
+        "num": 155871,
+        "word": "女子家门口凌晨4点被人做三角标记",
+        "onboard_time": 1711049350,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 148564,
+        "num": 148564,
+        "word": "与凤行凤凰泣血",
+        "onboard_time": 1711069161,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 138212,
+        "num": 138212,
+        "word": "追风者 好大的尺度",
+        "onboard_time": 1711027100,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 136080,
+        "num": 136080,
+        "word": "黑头挤得了一时挤不了一世",
+        "onboard_time": 1711065740,
+        "rank": 47,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 134854,
+        "num": 134854,
+        "word": "张琳芃说就这样结束吧",
+        "onboard_time": 1711071079,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 133225,
+        "num": 133225,
+        "word": "刘学义恋爱告急直拍",
+        "onboard_time": 1711069638,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#科技创新是发展新质生产力的核心要素#"
+    }
+  }
+}

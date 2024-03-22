@@ -1,6 +1,6 @@
 {
   "startTime": 1711038208925,
-  "endTime": 1711071021826,
+  "endTime": 1711072987839,
   "band_list": [
     {
       "raw_hot": 3037342,
@@ -51,11 +51,35 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 749405,
+      "num": 749405,
+      "word": "BLACKPINK续约金额高达400亿韩元",
+      "onboard_time": 1711071139,
+      "rank": 1,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 725454,
+      "num": 413288,
+      "word": "98岁网红大姥姥去世",
+      "onboard_time": 1711071318,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 669814,
       "num": 669814,
       "word": "重庆一火锅店来了位87岁的服务员",
       "onboard_time": 1711063815,
       "rank": 48,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 653495,
+      "num": 400326,
+      "word": "高中生在学校厕所内遭多人殴打",
+      "onboard_time": 1711070241,
+      "rank": 27,
       "category": "社会新闻"
     },
     {
@@ -107,6 +131,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 548934,
+      "num": 548934,
+      "word": "林更新让林更新",
+      "onboard_time": 1711069338,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 547448,
       "num": 547448,
       "word": "苹果市值一夜蒸发超7919亿",
@@ -147,6 +179,22 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 519620,
+      "num": 519620,
+      "word": "微商教母张庭卷土重来",
+      "onboard_time": 1711071679,
+      "rank": 6,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 500670,
+      "num": 500670,
+      "word": "央视网再评校园霸凌",
+      "onboard_time": 1711069758,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 491872,
       "num": 491872,
       "word": "张琳芃说是时候结束国家队生涯了",
@@ -155,12 +203,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 490863,
-      "num": 490863,
-      "word": "央视网再评校园霸凌",
-      "onboard_time": 1711069758,
-      "rank": 48,
-      "category": "社会新闻"
+      "raw_hot": 481010,
+      "num": 397995,
+      "word": "宋仲基夫妇看球赛",
+      "onboard_time": 1711071619,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 448626,
@@ -195,12 +243,20 @@
       "category": "美食"
     },
     {
-      "raw_hot": 428952,
-      "num": 428952,
-      "word": "林更新让林更新",
-      "onboard_time": 1711069338,
-      "rank": 31,
-      "category": "剧集"
+      "raw_hot": 426947,
+      "num": 426947,
+      "word": "六旬大爷三战考研成绩暴涨278分",
+      "onboard_time": 1711071498,
+      "rank": 8,
+      "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 414042,
+      "num": 414042,
+      "word": "全职妈妈35岁后出国读研39岁当实习生",
+      "onboard_time": 1711070840,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 412926,
@@ -233,6 +289,14 @@
       "onboard_time": 1711067661,
       "rank": 14,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 391135,
+      "num": 391135,
+      "word": "刘维术后报平安",
+      "onboard_time": 1711071858,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 364467,
@@ -363,14 +427,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 235459,
-      "num": 235459,
-      "word": "高中生在学校厕所内遭多人殴打",
-      "onboard_time": 1711070241,
-      "rank": 27,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 228461,
       "num": 141921,
       "word": "公司全勤500属实把我拿捏住了",
@@ -427,6 +483,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 212942,
+      "num": 212942,
+      "word": "新加坡队长竟是房产中介",
+      "onboard_time": 1711072578,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 207034,
       "num": 207034,
       "word": "汽车之家就泄密小米汽车内饰致歉",
@@ -443,12 +507,28 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 204885,
+      "num": 204885,
+      "word": "刘学义丑鞋子",
+      "onboard_time": 1711072399,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 204629,
       "num": 204629,
       "word": "王者荣耀大司命",
       "onboard_time": 1711026261,
       "rank": 25,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 203021,
+      "num": 203021,
+      "word": "范志毅说张琳芃踢空是能力问题",
+      "onboard_time": 1711072038,
+      "rank": 34,
+      "category": "体育"
     },
     {
       "raw_hot": 202761,
@@ -467,12 +547,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 199645,
+      "num": 199645,
+      "word": "沈梦辰身材管理",
+      "onboard_time": 1711070539,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 194882,
       "num": 194882,
       "word": "国足",
       "onboard_time": 1711063397,
       "rank": 16,
       "category": "体育"
+    },
+    {
+      "raw_hot": 192537,
+      "num": 192537,
+      "word": "爱马仕工作人员否认配货",
+      "onboard_time": 1711070060,
+      "rank": 35,
+      "category": "时尚,社会新闻"
     },
     {
       "raw_hot": 191422,
@@ -483,24 +579,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 187429,
-      "num": 187429,
-      "word": "爱马仕工作人员否认配货",
-      "onboard_time": 1711070060,
-      "rank": 35,
-      "category": "时尚,社会新闻"
-    },
-    {
-      "raw_hot": 187182,
-      "num": 187182,
-      "word": "沈梦辰身材管理",
-      "onboard_time": 1711070539,
-      "rank": 36,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 176282,
-      "num": 176282,
+      "raw_hot": 188358,
+      "num": 188358,
       "word": "网飞三体 叶文洁刻画",
       "onboard_time": 1711070658,
       "rank": 38,
@@ -587,14 +667,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 145307,
-      "num": 145307,
-      "word": "全职妈妈35岁后出国读研39岁当实习生",
-      "onboard_time": 1711070840,
-      "rank": 47,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 141283,
       "num": 141283,
       "word": "INFP能P到什么程度",
@@ -608,6 +680,14 @@
       "word": "金博洋落泪",
       "onboard_time": 1711063397,
       "rank": 27,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 134854,
+      "num": 134854,
+      "word": "张琳芃说就这样结束吧",
+      "onboard_time": 1711071079,
+      "rank": 48,
       "category": "体育"
     },
     {
@@ -881,6 +961,14 @@
       "onboard_time": 1711044612,
       "rank": 45,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 21484,
+      "num": 392444,
+      "word": "为什么你减肥老是反弹",
+      "onboard_time": 1711072819,
+      "rank": 14,
+      "category": "运动健身"
     },
     {
       "raw_hot": 14244,
