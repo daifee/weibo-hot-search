@@ -1,6 +1,6 @@
 {
   "startTime": 1711038208925,
-  "endTime": 1711081194703,
+  "endTime": 1711082043389,
   "band_list": [
     {
       "raw_hot": 3261143,
@@ -43,12 +43,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1106189,
-      "num": 1106189,
+      "raw_hot": 1225362,
+      "num": 1225362,
       "word": "丫丫你肚子拖地了",
       "onboard_time": 1711078700,
       "rank": 4,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1146947,
+      "num": 1146947,
+      "word": "贾玲 杂志排版",
+      "onboard_time": 1711079781,
+      "rank": 6,
+      "category": "艺人"
     },
     {
       "raw_hot": 1062825,
@@ -107,14 +115,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 773050,
-      "num": 773050,
-      "word": "贾玲 杂志排版",
-      "onboard_time": 1711079781,
-      "rank": 6,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 772871,
       "num": 772871,
       "word": "游族网络投毒案凶手一审获死刑",
@@ -164,7 +164,7 @@
     },
     {
       "raw_hot": 651082,
-      "num": 334211,
+      "num": 351239,
       "word": "你会在洗澡中途关花洒吗",
       "onboard_time": 1711068741,
       "rank": 21,
@@ -187,6 +187,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 619989,
+      "num": 619989,
+      "word": "警方通报女子家门口被做三角标记",
+      "onboard_time": 1711078041,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 612757,
       "num": 612757,
       "word": "韩版凯特门",
@@ -203,20 +211,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 582843,
-      "num": 582843,
-      "word": "警方通报女子家门口被做三角标记",
-      "onboard_time": 1711078041,
-      "rank": 36,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 571956,
       "num": 533042,
       "word": "苹果曾试图为安卓开发手表",
       "onboard_time": 1711064477,
       "rank": 10,
       "category": "数码"
+    },
+    {
+      "raw_hot": 570100,
+      "num": 570100,
+      "word": "8部电影定档五一档",
+      "onboard_time": 1711080323,
+      "rank": 15,
+      "category": "电影"
     },
     {
       "raw_hot": 559883,
@@ -403,12 +411,36 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 411028,
+      "num": 411028,
+      "word": "苹果静安店营业一小时后关店",
+      "onboard_time": 1711080022,
+      "rank": 24,
+      "category": "数码"
+    },
+    {
       "raw_hot": 410641,
       "num": 410641,
       "word": "刘维术后报平安",
       "onboard_time": 1711071858,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 407267,
+      "num": 407267,
+      "word": "卫龙辣条销量下滑近20%",
+      "onboard_time": 1711080921,
+      "rank": 38,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 404487,
+      "num": 404487,
+      "word": "月光 永不复出",
+      "onboard_time": 1711080381,
+      "rank": 26,
+      "category": "电竞"
     },
     {
       "raw_hot": 398632,
@@ -433,14 +465,6 @@
       "onboard_time": 1711067661,
       "rank": 14,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 366475,
-      "num": 366475,
-      "word": "8部电影定档五一档",
-      "onboard_time": 1711080323,
-      "rank": 15,
-      "category": "电影"
     },
     {
       "raw_hot": 364467,
@@ -587,6 +611,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 277765,
+      "num": 277765,
+      "word": "杨紫张耀演姐弟",
+      "onboard_time": 1711081101,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 272926,
+      "num": 272926,
+      "word": "鞠婧祎大女主发言",
+      "onboard_time": 1711079840,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 271224,
       "num": 271224,
       "word": "刘维感谢黄新淳陪护",
@@ -611,14 +651,6 @@
       "category": "健康医疗,美妆"
     },
     {
-      "raw_hot": 269221,
-      "num": 269221,
-      "word": "苹果静安店营业一小时后关店",
-      "onboard_time": 1711080022,
-      "rank": 24,
-      "category": "数码"
-    },
-    {
       "raw_hot": 269039,
       "num": 269039,
       "word": "杜海涛爆改",
@@ -635,14 +667,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 254749,
-      "num": 254749,
-      "word": "月光 永不复出",
-      "onboard_time": 1711080381,
-      "rank": 26,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 253651,
       "num": 253651,
       "word": "韩媒为林孝埈鸣不平",
@@ -657,6 +681,14 @@
       "onboard_time": 1711077199,
       "rank": 37,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 239386,
+      "num": 239386,
+      "word": "雷军公布第二批汽车交付中心候选城市",
+      "onboard_time": 1711081280,
+      "rank": 31,
+      "category": "汽车"
     },
     {
       "raw_hot": 233758,
@@ -739,14 +771,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 213179,
-      "num": 213179,
-      "word": "鞠婧祎大女主发言",
-      "onboard_time": 1711079840,
-      "rank": 33,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 212286,
       "num": 212286,
       "word": "许垚",
@@ -827,20 +851,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 201013,
-      "num": 201013,
-      "word": "卫龙辣条销量下滑近20%",
-      "onboard_time": 1711080921,
-      "rank": 38,
-      "category": "美食"
-    },
-    {
       "raw_hot": 199645,
       "num": 199645,
       "word": "沈梦辰身材管理",
       "onboard_time": 1711070539,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 198499,
+      "num": 198499,
+      "word": "黄誉博巡演",
+      "onboard_time": 1711081641,
+      "rank": 36,
+      "category": "演出"
     },
     {
       "raw_hot": 197233,
@@ -931,20 +955,20 @@
       "category": "动漫,作品衍生"
     },
     {
-      "raw_hot": 170995,
-      "num": 170995,
-      "word": "杨紫张耀演姐弟",
-      "onboard_time": 1711081101,
-      "rank": 45,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 170418,
       "num": 170418,
       "word": "与凤行凤凰泣血",
       "onboard_time": 1711069161,
       "rank": 38,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 168019,
+      "num": 168019,
+      "word": "明日方舟",
+      "onboard_time": 1711081400,
+      "rank": 45,
+      "category": "游戏"
     },
     {
       "raw_hot": 161739,
@@ -1260,7 +1284,7 @@
     },
     {
       "raw_hot": 73758,
-      "num": 288011,
+      "num": 351291,
       "word": "vivoXFold3上手太轻薄了",
       "onboard_time": 1711078879,
       "rank": 20,
@@ -1281,6 +1305,14 @@
       "onboard_time": 1711009351,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 63901,
+      "num": 364510,
+      "word": "蛋仔派对潮玩大作战",
+      "onboard_time": 1711081160,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 62791,
@@ -1395,16 +1427,8 @@
       "category": "情感"
     },
     {
-      "raw_hot": 7247,
-      "num": 141735,
-      "word": "蛋仔派对潮玩大作战",
-      "onboard_time": 1711081160,
-      "rank": 49,
-      "category": "游戏"
-    },
-    {
-      "raw_hot": 5426,
-      "num": 1221544,
+      "raw_hot": 10941,
+      "num": 1284102,
       "word": "认识你真好",
       "onboard_time": 1710834813,
       "rank": 2,
