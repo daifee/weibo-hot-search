@@ -1,6 +1,6 @@
 {
   "startTime": 1710605970310,
-  "endTime": 1711074166722,
+  "endTime": 1711074837642,
   "band_list": [
     {
       "raw_hot": 11692231,
@@ -1763,6 +1763,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 883745,
+      "num": 521941,
+      "word": "高中生在学校厕所内遭多人殴打",
+      "onboard_time": 1711070241,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 883396,
       "num": 883396,
       "word": "肖战藏海传官服造型",
@@ -1984,14 +1992,6 @@
       "word": "院方回应两名医学生先后自杀情况属实",
       "onboard_time": 1711013479,
       "rank": 18,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 814054,
-      "num": 482195,
-      "word": "高中生在学校厕所内遭多人殴打",
-      "onboard_time": 1711070241,
-      "rank": 27,
       "category": "社会新闻"
     },
     {
@@ -2436,7 +2436,7 @@
     },
     {
       "raw_hot": 725454,
-      "num": 546760,
+      "num": 616866,
       "word": "98岁网红大姥姥去世",
       "onboard_time": 1711071318,
       "rank": 10,
@@ -2617,6 +2617,14 @@
       "onboard_time": 1711002874,
       "rank": 42,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 675088,
+      "num": 675088,
+      "word": "微商教母张庭卷土重来",
+      "onboard_time": 1711071679,
+      "rank": 6,
+      "category": "艺人"
     },
     {
       "raw_hot": 672390,
@@ -2891,14 +2899,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 627765,
-      "num": 627765,
-      "word": "微商教母张庭卷土重来",
-      "onboard_time": 1711071679,
-      "rank": 6,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 625519,
       "num": 625519,
       "word": "承欢记要来了",
@@ -2913,6 +2913,14 @@
       "onboard_time": 1710986252,
       "rank": 6,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 623995,
+      "num": 623995,
+      "word": "新加坡队长竟是房产中介",
+      "onboard_time": 1711072578,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 622453,
@@ -3427,6 +3435,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 553776,
+      "num": 553776,
+      "word": "未成年人犯故意杀人等重罪要依法追究刑责",
+      "onboard_time": 1711074258,
+      "rank": 7,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 553103,
       "num": 553103,
       "word": "恩静在酒店地下车库随舞",
@@ -3531,6 +3547,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 540444,
+      "num": 540444,
+      "word": "六旬大爷三战考研成绩暴涨278分",
+      "onboard_time": 1711071498,
+      "rank": 8,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 539540,
       "num": 539540,
       "word": "提了离职后更焦虑了",
@@ -3601,14 +3625,6 @@
       "onboard_time": 1710916052,
       "rank": 41,
       "category": "美食"
-    },
-    {
-      "raw_hot": 533136,
-      "num": 533136,
-      "word": "六旬大爷三战考研成绩暴涨278分",
-      "onboard_time": 1711071498,
-      "rank": 8,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 531958,
@@ -3811,6 +3827,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 503833,
+      "num": 503833,
+      "word": "宋仲基夫妇看球赛",
+      "onboard_time": 1711071619,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 502077,
       "num": 502077,
       "word": "警方回应网传一中学生捅伤老师后跳楼",
@@ -3889,14 +3913,6 @@
       "onboard_time": 1710822037,
       "rank": 48,
       "category": "情感"
-    },
-    {
-      "raw_hot": 494143,
-      "num": 494143,
-      "word": "宋仲基夫妇看球赛",
-      "onboard_time": 1711071619,
-      "rank": 13,
-      "category": "艺人"
     },
     {
       "raw_hot": 493494,
@@ -4121,14 +4137,6 @@
       "onboard_time": 1710736661,
       "rank": 13,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 470989,
-      "num": 470989,
-      "word": "新加坡队长竟是房产中介",
-      "onboard_time": 1711072578,
-      "rank": 29,
-      "category": "体育"
     },
     {
       "raw_hot": 469906,
@@ -4593,6 +4601,14 @@
       "onboard_time": 1710747993,
       "rank": 12,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 424678,
+      "num": 424678,
+      "word": "A股",
+      "onboard_time": 1710730054,
+      "rank": 48,
+      "category": "财经"
     },
     {
       "raw_hot": 424313,
@@ -5411,6 +5427,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 354866,
+      "num": 354866,
+      "word": "再高级的功能水不新鲜也白搭",
+      "onboard_time": 1711073479,
+      "rank": 18,
+      "category": "美食"
+    },
+    {
       "raw_hot": 354453,
       "num": 354453,
       "word": "山东小钺钺被刺伤嫌疑人已被逮捕",
@@ -5489,6 +5513,14 @@
       "onboard_time": 1710814829,
       "rank": 41,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 349081,
+      "num": 349081,
+      "word": "奔跑吧",
+      "onboard_time": 1711073958,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 348587,
@@ -5579,14 +5611,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 340240,
-      "num": 340240,
-      "word": "A股",
-      "onboard_time": 1710730054,
-      "rank": 48,
-      "category": "财经"
-    },
-    {
       "raw_hot": 340228,
       "num": 340228,
       "word": "宇文玥是你吗",
@@ -5617,6 +5641,14 @@
       "onboard_time": 1710816271,
       "rank": 20,
       "category": "情感"
+    },
+    {
+      "raw_hot": 338256,
+      "num": 338256,
+      "word": "无臂男子免费乘地铁被要求出示残疾证",
+      "onboard_time": 1711074378,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 337911,
@@ -5833,6 +5865,14 @@
       "onboard_time": 1711068201,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 319982,
+      "num": 319982,
+      "word": "陈乔恩晒陈欣怡纪宝贝合照",
+      "onboard_time": 1711074258,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 319935,
@@ -6267,6 +6307,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 299155,
+      "num": 299155,
+      "word": "刘学义丑鞋子",
+      "onboard_time": 1711072399,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 299147,
       "num": 289378,
       "word": "刘学义演技",
@@ -6635,14 +6683,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 279811,
-      "num": 279811,
-      "word": "再高级的功能水不新鲜也白搭",
-      "onboard_time": 1711073479,
-      "rank": 18,
-      "category": "美食"
-    },
-    {
       "raw_hot": 279679,
       "num": 239374,
       "word": "郑合惠子名字含义",
@@ -6969,14 +7009,6 @@
       "onboard_time": 1710992613,
       "rank": 27,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 262255,
-      "num": 262255,
-      "word": "刘学义丑鞋子",
-      "onboard_time": 1711072399,
-      "rank": 33,
-      "category": "剧集"
     },
     {
       "raw_hot": 262060,
@@ -8795,6 +8827,14 @@
       "category": "健康医疗,美妆"
     },
     {
+      "raw_hot": 207168,
+      "num": 207168,
+      "word": "承欢记哈哈哈版预告",
+      "onboard_time": 1711074619,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 206975,
       "num": 206975,
       "word": "你知道选择性缄默症吗",
@@ -9435,6 +9475,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 197233,
+      "num": 197233,
+      "word": "爱马仕工作人员否认配货",
+      "onboard_time": 1711070060,
+      "rank": 35,
+      "category": "时尚,社会新闻"
+    },
+    {
       "raw_hot": 197105,
       "num": 197105,
       "word": "高通发布会",
@@ -9795,14 +9843,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 192537,
-      "num": 192537,
-      "word": "爱马仕工作人员否认配货",
-      "onboard_time": 1711070060,
-      "rank": 35,
-      "category": "时尚,社会新闻"
-    },
-    {
       "raw_hot": 192446,
       "num": 192446,
       "word": "库克现身苹果静安店",
@@ -10081,6 +10121,14 @@
       "onboard_time": 1710731493,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 189168,
+      "num": 189168,
+      "word": "周深蹦苗迪",
+      "onboard_time": 1711073659,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 189125,
@@ -11155,14 +11203,6 @@
       "category": "科学科普"
     },
     {
-      "raw_hot": 170479,
-      "num": 170479,
-      "word": "奔跑吧",
-      "onboard_time": 1711073958,
-      "rank": 36,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 170470,
       "num": 170470,
       "word": "NBA",
@@ -11289,6 +11329,14 @@
       "onboard_time": 1710853415,
       "rank": 37,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 168467,
+      "num": 168467,
+      "word": "老师不要跑全网下线",
+      "onboard_time": 1711074557,
+      "rank": 35,
+      "category": "剧集"
     },
     {
       "raw_hot": 168349,
@@ -11659,14 +11707,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 161886,
-      "num": 161886,
-      "word": "周深蹦苗迪",
-      "onboard_time": 1711073659,
-      "rank": 38,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 161797,
       "num": 161797,
       "word": "金鹤龙晒杨幂新妆",
@@ -11745,6 +11785,14 @@
       "onboard_time": 1710925655,
       "rank": 24,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 159775,
+      "num": 159775,
+      "word": "美国贵妇告爱马仕",
+      "onboard_time": 1711074079,
+      "rank": 48,
+      "category": "财经"
     },
     {
       "raw_hot": 159629,
@@ -13499,6 +13547,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 129764,
+      "num": 430593,
+      "word": "为什么你减肥老是反弹",
+      "onboard_time": 1711072819,
+      "rank": 14,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 129740,
       "num": 129740,
       "word": "林俊杰侧脸照",
@@ -13809,14 +13865,6 @@
       "onboard_time": 1710756936,
       "rank": 46,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 123002,
-      "num": 123002,
-      "word": "美国贵妇告爱马仕",
-      "onboard_time": 1711074079,
-      "rank": 48,
-      "category": "财经"
     },
     {
       "raw_hot": 122479,
@@ -14689,14 +14737,6 @@
       "onboard_time": 1710940536,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 88876,
-      "num": 392444,
-      "word": "为什么你减肥老是反弹",
-      "onboard_time": 1711072819,
-      "rank": 14,
-      "category": "运动健身"
     },
     {
       "raw_hot": 88624,

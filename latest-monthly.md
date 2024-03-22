@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/03/01 00:20:40 ~ 2024/03/22 10:22:46
+本榜单时间：2024/03/01 00:20:40 ~ 2024/03/22 10:33:57
 </p>
 </blockquote>
 <p>
@@ -4539,6 +4539,12 @@ TikTok开始反击（热度：890244）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%AB%98%E4%B8%AD%E7%94%9F%E5%9C%A8%E5%AD%A6%E6%A0%A1%E5%8E%95%E6%89%80%E5%86%85%E9%81%AD%E5%A4%9A%E4%BA%BA%E6%AE%B4%E6%89%93%23" target="weibo">
+高中生在学校厕所内遭多人殴打（热度：883745）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%82%96%E6%88%98%E8%97%8F%E6%B5%B7%E4%BC%A0%E5%AE%98%E6%9C%8D%E9%80%A0%E5%9E%8B%23" target="weibo">
 肖战藏海传官服造型（热度：883396）
 </a>
@@ -5171,12 +5177,6 @@ iPhone在中国大幅打折（热度：823009）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%99%A2%E6%96%B9%E5%9B%9E%E5%BA%94%E4%B8%A4%E5%90%8D%E5%8C%BB%E5%AD%A6%E7%94%9F%E5%85%88%E5%90%8E%E8%87%AA%E6%9D%80%E6%83%85%E5%86%B5%E5%B1%9E%E5%AE%9E%23" target="weibo">
 院方回应两名医学生先后自杀情况属实（热度：814243）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%AB%98%E4%B8%AD%E7%94%9F%E5%9C%A8%E5%AD%A6%E6%A0%A1%E5%8E%95%E6%89%80%E5%86%85%E9%81%AD%E5%A4%9A%E4%BA%BA%E6%AE%B4%E6%89%93%23" target="weibo">
-高中生在学校厕所内遭多人殴打（热度：814054）
 </a>
 </li>
 

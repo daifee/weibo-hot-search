@@ -1,6 +1,6 @@
 {
   "startTime": 1711038208925,
-  "endTime": 1711074166722,
+  "endTime": 1711074837642,
   "band_list": [
     {
       "raw_hot": 3037342,
@@ -35,19 +35,19 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 883745,
+      "num": 521941,
+      "word": "高中生在学校厕所内遭多人殴打",
+      "onboard_time": 1711070241,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 838991,
       "num": 334460,
       "word": "44岁智障女子疑被多次强奸后产女",
       "onboard_time": 1711062496,
       "rank": 20,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 814054,
-      "num": 482195,
-      "word": "高中生在学校厕所内遭多人殴打",
-      "onboard_time": 1711070241,
-      "rank": 27,
       "category": "社会新闻"
     },
     {
@@ -68,11 +68,19 @@
     },
     {
       "raw_hot": 725454,
-      "num": 546760,
+      "num": 616866,
       "word": "98岁网红大姥姥去世",
       "onboard_time": 1711071318,
       "rank": 10,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 675088,
+      "num": 675088,
+      "word": "微商教母张庭卷土重来",
+      "onboard_time": 1711071679,
+      "rank": 6,
+      "category": "艺人"
     },
     {
       "raw_hot": 669814,
@@ -99,12 +107,12 @@
       "category": "财经"
     },
     {
-      "raw_hot": 627765,
-      "num": 627765,
-      "word": "微商教母张庭卷土重来",
-      "onboard_time": 1711071679,
-      "rank": 6,
-      "category": "艺人"
+      "raw_hot": 623995,
+      "num": 623995,
+      "word": "新加坡队长竟是房产中介",
+      "onboard_time": 1711072578,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 612757,
@@ -139,6 +147,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 553776,
+      "num": 553776,
+      "word": "未成年人犯故意杀人等重罪要依法追究刑责",
+      "onboard_time": 1711074258,
+      "rank": 7,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 548934,
       "num": 548934,
       "word": "林更新让林更新",
@@ -153,6 +169,14 @@
       "onboard_time": 1711063336,
       "rank": 28,
       "category": "数码"
+    },
+    {
+      "raw_hot": 540444,
+      "num": 540444,
+      "word": "六旬大爷三战考研成绩暴涨278分",
+      "onboard_time": 1711071498,
+      "rank": 8,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 538993,
@@ -171,14 +195,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 533136,
-      "num": 533136,
-      "word": "六旬大爷三战考研成绩暴涨278分",
-      "onboard_time": 1711071498,
-      "rank": 8,
-      "category": "社会新闻,教育"
-    },
-    {
       "raw_hot": 532785,
       "num": 532785,
       "word": "阴阳师 王者荣耀",
@@ -195,6 +211,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 503833,
+      "num": 503833,
+      "word": "宋仲基夫妇看球赛",
+      "onboard_time": 1711071619,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 500670,
       "num": 500670,
       "word": "央视网再评校园霸凌",
@@ -203,27 +227,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 494143,
-      "num": 494143,
-      "word": "宋仲基夫妇看球赛",
-      "onboard_time": 1711071619,
-      "rank": 13,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 491872,
       "num": 491872,
       "word": "张琳芃说是时候结束国家队生涯了",
       "onboard_time": 1711036579,
       "rank": 6,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 470989,
-      "num": 470989,
-      "word": "新加坡队长竟是房产中介",
-      "onboard_time": 1711072578,
-      "rank": 29,
       "category": "体育"
     },
     {
@@ -257,6 +265,14 @@
       "onboard_time": 1711024579,
       "rank": 11,
       "category": "美食"
+    },
+    {
+      "raw_hot": 424678,
+      "num": 424678,
+      "word": "A股",
+      "onboard_time": 1711073298,
+      "rank": 16,
+      "category": "财经"
     },
     {
       "raw_hot": 414042,
@@ -315,6 +331,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 354866,
+      "num": 354866,
+      "word": "再高级的功能水不新鲜也白搭",
+      "onboard_time": 1711073479,
+      "rank": 18,
+      "category": "美食"
+    },
+    {
       "raw_hot": 353401,
       "num": 353401,
       "word": "一张相册里最舍不得删的花",
@@ -323,20 +347,20 @@
       "category": "情感"
     },
     {
+      "raw_hot": 349081,
+      "num": 349081,
+      "word": "奔跑吧",
+      "onboard_time": 1711073958,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 343666,
       "num": 343666,
       "word": "沈璃被猪拱了",
       "onboard_time": 1711035378,
       "rank": 12,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 340240,
-      "num": 340240,
-      "word": "A股",
-      "onboard_time": 1711073298,
-      "rank": 16,
-      "category": "财经"
     },
     {
       "raw_hot": 338839,
@@ -353,6 +377,14 @@
       "onboard_time": 1711025780,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 338256,
+      "num": 338256,
+      "word": "无臂男子免费乘地铁被要求出示残疾证",
+      "onboard_time": 1711074378,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 334785,
@@ -379,6 +411,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 319982,
+      "num": 319982,
+      "word": "陈乔恩晒陈欣怡纪宝贝合照",
+      "onboard_time": 1711074258,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 307159,
       "num": 307159,
       "word": "尿酸高建议每天足量饮水",
@@ -393,6 +433,14 @@
       "onboard_time": 1711067122,
       "rank": 26,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 299155,
+      "num": 299155,
+      "word": "刘学义丑鞋子",
+      "onboard_time": 1711072399,
+      "rank": 33,
+      "category": "剧集"
     },
     {
       "raw_hot": 292684,
@@ -419,14 +467,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 279811,
-      "num": 279811,
-      "word": "再高级的功能水不新鲜也白搭",
-      "onboard_time": 1711073479,
-      "rank": 18,
-      "category": "美食"
-    },
-    {
       "raw_hot": 270751,
       "num": 270751,
       "word": "新加坡2比2国足",
@@ -441,14 +481,6 @@
       "onboard_time": 1711016419,
       "rank": 18,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 262255,
-      "num": 262255,
-      "word": "刘学义丑鞋子",
-      "onboard_time": 1711072399,
-      "rank": 33,
-      "category": "剧集"
     },
     {
       "raw_hot": 253651,
@@ -523,6 +555,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 207168,
+      "num": 207168,
+      "word": "承欢记哈哈哈版预告",
+      "onboard_time": 1711074619,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 207034,
       "num": 207034,
       "word": "汽车之家就泄密小米汽车内饰致歉",
@@ -579,6 +619,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 197233,
+      "num": 197233,
+      "word": "爱马仕工作人员否认配货",
+      "onboard_time": 1711070060,
+      "rank": 35,
+      "category": "时尚,社会新闻"
+    },
+    {
       "raw_hot": 194882,
       "num": 194882,
       "word": "国足",
@@ -587,20 +635,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 192537,
-      "num": 192537,
-      "word": "爱马仕工作人员否认配货",
-      "onboard_time": 1711070060,
-      "rank": 35,
-      "category": "时尚,社会新闻"
-    },
-    {
       "raw_hot": 191422,
       "num": 191422,
       "word": "刘学义恋爱告急直拍",
       "onboard_time": 1711069638,
       "rank": 44,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 189168,
+      "num": 189168,
+      "word": "周深蹦苗迪",
+      "onboard_time": 1711073659,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 188358,
@@ -619,12 +667,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 170479,
-      "num": 170479,
-      "word": "奔跑吧",
-      "onboard_time": 1711073958,
-      "rank": 36,
-      "category": "综艺"
+      "raw_hot": 170645,
+      "num": 170645,
+      "word": "承欢记",
+      "onboard_time": 1711074738,
+      "rank": 34,
+      "category": "剧集"
     },
     {
       "raw_hot": 170418,
@@ -635,12 +683,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 161886,
-      "num": 161886,
-      "word": "周深蹦苗迪",
-      "onboard_time": 1711073659,
-      "rank": 38,
-      "category": "艺人"
+      "raw_hot": 168467,
+      "num": 168467,
+      "word": "老师不要跑全网下线",
+      "onboard_time": 1711074557,
+      "rank": 35,
+      "category": "剧集"
     },
     {
       "raw_hot": 161160,
@@ -649,6 +697,14 @@
       "onboard_time": 1711065920,
       "rank": 39,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 159775,
+      "num": 159775,
+      "word": "美国贵妇告爱马仕",
+      "onboard_time": 1711074079,
+      "rank": 48,
+      "category": "财经"
     },
     {
       "raw_hot": 159168,
@@ -755,6 +811,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 129764,
+      "num": 430593,
+      "word": "为什么你减肥老是反弹",
+      "onboard_time": 1711072819,
+      "rank": 14,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 128522,
       "num": 128522,
       "word": "法越馨发了张艺兴",
@@ -769,14 +833,6 @@
       "onboard_time": 1711024158,
       "rank": 34,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 123002,
-      "num": 123002,
-      "word": "美国贵妇告爱马仕",
-      "onboard_time": 1711074079,
-      "rank": 48,
-      "category": "财经"
     },
     {
       "raw_hot": 119851,
@@ -881,14 +937,6 @@
       "onboard_time": 1711028061,
       "rank": 44,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 88876,
-      "num": 392444,
-      "word": "为什么你减肥老是反弹",
-      "onboard_time": 1711072819,
-      "rank": 14,
-      "category": "运动健身"
     },
     {
       "raw_hot": 86634,
