@@ -1,0 +1,410 @@
+{
+  "runTime": 1711069880659,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1210271,
+        "num": 1210271,
+        "word": "过度疲劳的表现",
+        "onboard_time": 1711032320,
+        "rank": 0,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 940338,
+        "num": 940338,
+        "word": "凭什么要禁止东北人做翻译啊",
+        "onboard_time": 1711041073,
+        "rank": 1,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 53701,
+        "num": 901593,
+        "word": "今年春耕科技范儿满满",
+        "onboard_time": 1711026378,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 883555,
+        "num": 883555,
+        "word": "最高检谈未成年人故意杀人等严重犯罪",
+        "onboard_time": 1711069459,
+        "rank": 3,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 803285,
+        "num": 803285,
+        "word": "消费者起诉爱马仕配货潜规则",
+        "onboard_time": 1711066280,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 669814,
+        "num": 669814,
+        "word": "重庆一火锅店来了位87岁的服务员",
+        "onboard_time": 1711063815,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 591841,
+        "num": 591841,
+        "word": "韩版凯特门",
+        "onboard_time": 1711066639,
+        "rank": 6,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 1062825,
+        "num": 575913,
+        "word": "杜海涛 霍尊",
+        "onboard_time": 1711031000,
+        "rank": 7,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 547448,
+        "num": 547448,
+        "word": "苹果市值一夜蒸发超7919亿",
+        "onboard_time": 1711063336,
+        "rank": 8,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 533743,
+        "num": 533743,
+        "word": "16岁的刘学义",
+        "onboard_time": 1711066161,
+        "rank": 9,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 571956,
+        "num": 533042,
+        "word": "苹果曾试图为安卓开发手表",
+        "onboard_time": 1711064477,
+        "rank": 10,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 531795,
+        "num": 531795,
+        "word": "个人所得税收入下降",
+        "onboard_time": 1711029861,
+        "rank": 11,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 504972,
+        "num": 504972,
+        "word": "柳叶刀称本世纪末97%国家人口将减少",
+        "onboard_time": 1711066940,
+        "rank": 12,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 400156,
+        "num": 400156,
+        "word": "女子家门口凌晨4点被人做三角标记",
+        "onboard_time": 1711049350,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 393635,
+        "num": 393635,
+        "word": "李小冉当时害怕极了",
+        "onboard_time": 1711067661,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 370689,
+        "num": 370689,
+        "word": "沈璃行止圆房",
+        "onboard_time": 1711026319,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 353401,
+        "num": 353401,
+        "word": "一张相册里最舍不得删的花",
+        "onboard_time": 1711064298,
+        "rank": 16,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 346076,
+        "num": 346076,
+        "word": "杜海涛 夏油杰",
+        "onboard_time": 1711041373,
+        "rank": 17,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 334785,
+        "num": 334785,
+        "word": "为什么人类几乎不吃食肉动物的肉",
+        "onboard_time": 1711032139,
+        "rank": 18,
+        "category": "健康医疗,美食"
+      },
+      {
+        "raw_hot": 349411,
+        "num": 334692,
+        "word": "李小冉 我没演过小时代",
+        "onboard_time": 1711026859,
+        "rank": 19,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 838991,
+        "num": 334460,
+        "word": "44岁智障女子疑被多次强奸后产女",
+        "onboard_time": 1711062496,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 498242,
+        "num": 334211,
+        "word": "你会在洗澡中途关花洒吗",
+        "onboard_time": 1711068741,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 355108,
+        "num": 334022,
+        "word": "每天睡不足6小时连续30天会怎样",
+        "onboard_time": 1711062435,
+        "rank": 22,
+        "category": "健康医疗,社会新闻"
+      },
+      {
+        "raw_hot": 333982,
+        "num": 333982,
+        "word": "每天5分钟排出体内湿气",
+        "onboard_time": 1711066039,
+        "rank": 23,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 320129,
+        "num": 320129,
+        "word": "张琳芃或退出国足",
+        "onboard_time": 1711068201,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 307159,
+        "num": 307159,
+        "word": "尿酸高建议每天足量饮水",
+        "onboard_time": 1711067242,
+        "rank": 25,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 306885,
+        "num": 306885,
+        "word": "13岁男孩手脚细长被确诊马凡综合征",
+        "onboard_time": 1711067122,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 255881,
+        "num": 255881,
+        "word": "李荣浩纹身照是杨丞琳拍的",
+        "onboard_time": 1711025780,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 251857,
+        "num": 251857,
+        "word": "追风者 好大的尺度",
+        "onboard_time": 1711027100,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 215492,
+        "num": 215492,
+        "word": "黑头挤得了一时挤不了一世",
+        "onboard_time": 1711065740,
+        "rank": 29,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 209039,
+        "num": 209039,
+        "word": "阴阳师 王者荣耀",
+        "onboard_time": 1711022959,
+        "rank": 30,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 204551,
+        "num": 204551,
+        "word": "林更新让林更新",
+        "onboard_time": 1711069338,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 202761,
+        "num": 202761,
+        "word": "土豆直播",
+        "onboard_time": 1711066820,
+        "rank": 32,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 202030,
+        "num": 202030,
+        "word": "王一博抗剧能力",
+        "onboard_time": 1711066700,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 188972,
+        "num": 188972,
+        "word": "月薪2万吃不起的百果园栽了",
+        "onboard_time": 1711022480,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 180506,
+        "num": 180506,
+        "word": "沈璃被猪拱了",
+        "onboard_time": 1711035378,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 179274,
+        "num": 179274,
+        "word": "汽车之家就泄密小米汽车内饰致歉",
+        "onboard_time": 1711029140,
+        "rank": 36,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 164231,
+        "num": 164231,
+        "word": "男朋友相亲相到了我朋友",
+        "onboard_time": 1711027640,
+        "rank": 37,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 164166,
+        "num": 164166,
+        "word": "与凤行凤凰泣血",
+        "onboard_time": 1711069161,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 155963,
+        "num": 155963,
+        "word": "海月皮肤",
+        "onboard_time": 1711065920,
+        "rank": 39,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 155736,
+        "num": 155736,
+        "word": "金秀贤IU合照",
+        "onboard_time": 1711038497,
+        "rank": 40,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 155038,
+        "num": 155038,
+        "word": "阴阳师",
+        "onboard_time": 1711063576,
+        "rank": 41,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 153377,
+        "num": 153377,
+        "word": "我爸说以后我弟买房靠我了",
+        "onboard_time": 1711028661,
+        "rank": 42,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 152776,
+        "num": 152776,
+        "word": "美司法部正式对苹果提起反垄断诉讼",
+        "onboard_time": 1711067540,
+        "rank": 43,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 149504,
+        "num": 149504,
+        "word": "刘学义恋爱告急直拍",
+        "onboard_time": 1711069638,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 148243,
+        "num": 148243,
+        "word": "天水麻辣烫怎么火的",
+        "onboard_time": 1711067899,
+        "rank": 45,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 139815,
+        "num": 139815,
+        "word": "陈建斌回应成为著名歌手",
+        "onboard_time": 1711031541,
+        "rank": 46,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 134215,
+        "num": 134215,
+        "word": "偶像剧女主角的麻花辫编法",
+        "onboard_time": 1711069338,
+        "rank": 47,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 132692,
+        "num": 132692,
+        "word": "央视网再评校园霸凌",
+        "onboard_time": 1711069758,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 130201,
+        "num": 130201,
+        "word": "琳琳 土豆",
+        "onboard_time": 1711063756,
+        "rank": 49,
+        "category": "网红"
+      }
+    ],
+    "hotgov": {
+      "word": "#新时代推动中部地区崛起座谈会#"
+    }
+  }
+}
