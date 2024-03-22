@@ -1,6 +1,6 @@
 {
   "startTime": 1711124556378,
-  "endTime": 1711132474368,
+  "endTime": 1711134942521,
   "band_list": [
     {
       "raw_hot": 1515135,
@@ -251,6 +251,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 137534,
+      "num": 137534,
+      "word": "富士相机怎么成了摄影界的茅台",
+      "onboard_time": 1711129993,
+      "rank": 16,
+      "category": "数码"
+    },
+    {
       "raw_hot": 134974,
       "num": 134974,
       "word": "与凤行断层第一",
@@ -337,14 +345,6 @@
       "onboard_time": 1711120101,
       "rank": 37,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 99257,
-      "num": 99257,
-      "word": "富士相机怎么成了摄影界的茅台",
-      "onboard_time": 1711129993,
-      "rank": 16,
-      "category": "数码"
     },
     {
       "raw_hot": 97418,
@@ -475,6 +475,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 48951,
+      "num": 48951,
+      "word": "追风者 爷叔",
+      "onboard_time": 1711131791,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 43137,
       "num": 43137,
       "word": "春天背景图",
@@ -483,15 +491,7 @@
       "category": "情感"
     },
     {
-      "raw_hot": 35774,
-      "num": 35774,
-      "word": "追风者 爷叔",
-      "onboard_time": 1711131791,
-      "rank": 32,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 32504,
+      "raw_hot": 34196,
       "num": 319460,
       "word": "我国网民规模已达到10.92亿人",
       "onboard_time": 1711116380,
@@ -505,6 +505,22 @@
       "onboard_time": 1711117580,
       "rank": 47,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 19072,
+      "num": 25478,
+      "word": "prx输了",
+      "onboard_time": 1711133951,
+      "rank": 48,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 14893,
+      "num": 28728,
+      "word": "退休医生70岁生日当天在车站救人",
+      "onboard_time": 1711134012,
+      "rank": 29,
+      "category": "社会正能量"
     }
   ],
   "hotgov_list": [
@@ -513,6 +529,9 @@
     },
     {
       "word": "#跟着总书记足迹看中部崛起新图景#"
+    },
+    {
+      "word": "#习近平总书记湖南之行纪实#"
     }
   ]
 }
