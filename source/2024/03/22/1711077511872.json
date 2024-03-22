@@ -1,0 +1,410 @@
+{
+  "runTime": 1711077511872,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3261143,
+        "num": 3261143,
+        "word": "王楚钦发博退出仁川赛",
+        "onboard_time": 1711075879,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1818956,
+        "num": 1818956,
+        "word": "未成年人犯故意杀人等重罪要依法追究刑责",
+        "onboard_time": 1711074258,
+        "rank": 1,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 24788,
+        "num": 1600754,
+        "word": "今年春耕科技范儿满满",
+        "onboard_time": 1711026378,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1413701,
+        "num": 1413701,
+        "word": "无臂男子免费乘地铁被要求出示残疾证",
+        "onboard_time": 1711074378,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 833201,
+        "num": 833201,
+        "word": "新加坡队长竟是房产中介",
+        "onboard_time": 1711072578,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 822685,
+        "num": 822685,
+        "word": "一半国家生育率低到无法维持其人口规模",
+        "onboard_time": 1711075217,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 669907,
+        "num": 669907,
+        "word": "微商教母张庭卷土重来",
+        "onboard_time": 1711071679,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 627651,
+        "num": 627651,
+        "word": "承欢记",
+        "onboard_time": 1711074738,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 581285,
+        "num": 581285,
+        "word": "最高检谈未成年人故意杀人等严重犯罪",
+        "onboard_time": 1711069459,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 509478,
+        "num": 509478,
+        "word": "凭什么要禁止东北人做翻译啊",
+        "onboard_time": 1711041073,
+        "rank": 9,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 589870,
+        "num": 508413,
+        "word": "高中生在学校厕所内遭多人殴打",
+        "onboard_time": 1711070241,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 495032,
+        "num": 495032,
+        "word": "BLACKPINK续约金额高达400亿韩元",
+        "onboard_time": 1711071139,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 466395,
+        "num": 466395,
+        "word": "宋雨琦4月将solo",
+        "onboard_time": 1711075160,
+        "rank": 12,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 451671,
+        "num": 451671,
+        "word": "奔跑吧",
+        "onboard_time": 1711073958,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 421824,
+        "num": 421824,
+        "word": "陈乔恩晒陈欣怡纪宝贝合照",
+        "onboard_time": 1711074258,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 418689,
+        "num": 418689,
+        "word": "杜海涛 霍尊",
+        "onboard_time": 1711031000,
+        "rank": 15,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 405493,
+        "num": 405493,
+        "word": "张雨绮也有赘肉",
+        "onboard_time": 1711076899,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 397648,
+        "num": 397648,
+        "word": "六旬大爷三战考研成绩暴涨278分",
+        "onboard_time": 1711071498,
+        "rank": 17,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 364644,
+        "num": 364644,
+        "word": "宋仲基夫妇看球赛",
+        "onboard_time": 1711071619,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 359145,
+        "num": 359145,
+        "word": "A股",
+        "onboard_time": 1711073298,
+        "rank": 19,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 329653,
+        "num": 329653,
+        "word": "你会在洗澡中途关花洒吗",
+        "onboard_time": 1711068741,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 299325,
+        "num": 299325,
+        "word": "过度疲劳的表现",
+        "onboard_time": 1711032320,
+        "rank": 21,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 281412,
+        "num": 281412,
+        "word": "林更新让林更新",
+        "onboard_time": 1711069338,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 258288,
+        "num": 258288,
+        "word": "98岁网红大姥姥去世",
+        "onboard_time": 1711071318,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 256548,
+        "num": 256548,
+        "word": "皮肤医生教一个简单去黑头的方法",
+        "onboard_time": 1711075998,
+        "rank": 24,
+        "category": "健康医疗,美妆"
+      },
+      {
+        "raw_hot": 228323,
+        "num": 228323,
+        "word": "与凤行 科技改变仙侠",
+        "onboard_time": 1711076658,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 218963,
+        "num": 218963,
+        "word": "BLACKPINK或将回归",
+        "onboard_time": 1711077259,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 218267,
+        "num": 218267,
+        "word": "刘学义丑鞋子",
+        "onboard_time": 1711072399,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 205148,
+        "num": 205148,
+        "word": "刘维术后报平安",
+        "onboard_time": 1711071858,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 193332,
+        "num": 193332,
+        "word": "早期的曾黎",
+        "onboard_time": 1711076058,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 182098,
+        "num": 182098,
+        "word": "老师不要跑全网下线",
+        "onboard_time": 1711074557,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 170672,
+        "num": 170672,
+        "word": "电影维和防暴队定档五一",
+        "onboard_time": 1711077259,
+        "rank": 31,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 168605,
+        "num": 168605,
+        "word": "天水麻辣烫到底能火多久",
+        "onboard_time": 1711075818,
+        "rank": 32,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 162936,
+        "num": 162936,
+        "word": "再高级的功能水不新鲜也白搭",
+        "onboard_time": 1711073479,
+        "rank": 33,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 161739,
+        "num": 161739,
+        "word": "GAI布瑞吉街上的",
+        "onboard_time": 1711076600,
+        "rank": 34,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 151143,
+        "num": 151143,
+        "word": "美国贵妇告爱马仕",
+        "onboard_time": 1711074079,
+        "rank": 35,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 148101,
+        "num": 148101,
+        "word": "以前的大学生过的什么好日子",
+        "onboard_time": 1711076300,
+        "rank": 36,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 147780,
+        "num": 147780,
+        "word": "燕郊爆燃事故发生前后的日子",
+        "onboard_time": 1711077199,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 141439,
+        "num": 141439,
+        "word": "张杰新专辑先行曲回上线",
+        "onboard_time": 1711075098,
+        "rank": 38,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 135509,
+        "num": 135509,
+        "word": "每天5分钟排出体内湿气",
+        "onboard_time": 1711066039,
+        "rank": 39,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 134980,
+        "num": 134980,
+        "word": "种地吧直播",
+        "onboard_time": 1711073778,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 134386,
+        "num": 134386,
+        "word": "一张相册里最舍不得删的花",
+        "onboard_time": 1711064298,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 132359,
+        "num": 132359,
+        "word": "阴阳师",
+        "onboard_time": 1711063576,
+        "rank": 42,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 127690,
+        "num": 127690,
+        "word": "每天睡不足6小时连续30天会怎样",
+        "onboard_time": 1711062435,
+        "rank": 43,
+        "category": "健康医疗,社会新闻"
+      },
+      {
+        "raw_hot": 126676,
+        "num": 126676,
+        "word": "为什么你减肥老是反弹",
+        "onboard_time": 1711072819,
+        "rank": 44,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 119338,
+        "num": 119338,
+        "word": "全职妈妈35岁后出国读研39岁当实习生",
+        "onboard_time": 1711070840,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 114837,
+        "num": 114837,
+        "word": "为什么人类几乎不吃食肉动物的肉",
+        "onboard_time": 1711032139,
+        "rank": 46,
+        "category": "健康医疗,美食"
+      },
+      {
+        "raw_hot": 113824,
+        "num": 113824,
+        "word": "范志毅说张琳芃踢空是能力问题",
+        "onboard_time": 1711072038,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 107884,
+        "num": 107884,
+        "word": "重庆一火锅店来了位87岁的服务员",
+        "onboard_time": 1711063815,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 103671,
+        "num": 103671,
+        "word": "2023微博电影白皮书",
+        "onboard_time": 1711077502,
+        "rank": 49,
+        "category": "电影"
+      }
+    ],
+    "hotgov": {
+      "word": "#新时代推动中部地区崛起座谈会#"
+    }
+  }
+}

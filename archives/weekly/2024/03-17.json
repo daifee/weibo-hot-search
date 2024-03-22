@@ -1,6 +1,6 @@
 {
   "startTime": 1710605970310,
-  "endTime": 1711074837642,
+  "endTime": 1711077511872,
   "band_list": [
     {
       "raw_hot": 11692231,
@@ -89,6 +89,14 @@
       "onboard_time": 1710676956,
       "rank": 10,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 3261143,
+      "num": 3261143,
+      "word": "王楚钦发博退出仁川赛",
+      "onboard_time": 1711075879,
+      "rank": 0,
+      "category": "体育"
     },
     {
       "raw_hot": 3055738,
@@ -435,6 +443,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1818956,
+      "num": 1818956,
+      "word": "未成年人犯故意杀人等重罪要依法追究刑责",
+      "onboard_time": 1711074258,
+      "rank": 7,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 1818310,
       "num": 910653,
       "word": "关晓彤短发",
@@ -761,6 +777,14 @@
       "onboard_time": 1711011498,
       "rank": 4,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 1413701,
+      "num": 1413701,
+      "word": "无臂男子免费乘地铁被要求出示残疾证",
+      "onboard_time": 1711074378,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1412125,
@@ -1947,6 +1971,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 833201,
+      "num": 833201,
+      "word": "新加坡队长竟是房产中介",
+      "onboard_time": 1711072578,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 828519,
       "num": 828519,
       "word": "宋轶 红山动物园",
@@ -1969,6 +2001,14 @@
       "onboard_time": 1711025780,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 822685,
+      "num": 822685,
+      "word": "一半国家生育率低到无法维持其人口规模",
+      "onboard_time": 1711075217,
+      "rank": 5,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 817355,
@@ -2899,6 +2939,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 627651,
+      "num": 627651,
+      "word": "承欢记",
+      "onboard_time": 1710944256,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 625519,
       "num": 625519,
       "word": "承欢记要来了",
@@ -2913,14 +2961,6 @@
       "onboard_time": 1710986252,
       "rank": 6,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 623995,
-      "num": 623995,
-      "word": "新加坡队长竟是房产中介",
-      "onboard_time": 1711072578,
-      "rank": 29,
-      "category": "体育"
     },
     {
       "raw_hot": 622453,
@@ -3433,14 +3473,6 @@
       "onboard_time": 1710771937,
       "rank": 28,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 553776,
-      "num": 553776,
-      "word": "未成年人犯故意杀人等重罪要依法追究刑责",
-      "onboard_time": 1711074258,
-      "rank": 7,
-      "category": "国内时政"
     },
     {
       "raw_hot": 553103,
@@ -4163,6 +4195,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 466395,
+      "num": 466395,
+      "word": "宋雨琦4月将solo",
+      "onboard_time": 1711075160,
+      "rank": 12,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 466358,
       "num": 466358,
       "word": "辽宁营口市3.6级地震",
@@ -4313,6 +4353,14 @@
       "onboard_time": 1710744755,
       "rank": 16,
       "category": "体育"
+    },
+    {
+      "raw_hot": 451671,
+      "num": 451671,
+      "word": "奔跑吧",
+      "onboard_time": 1711073958,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 451658,
@@ -4635,6 +4683,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 421824,
+      "num": 421824,
+      "word": "陈乔恩晒陈欣怡纪宝贝合照",
+      "onboard_time": 1711074258,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 421333,
       "num": 421333,
       "word": "辛芷蕾高定封",
@@ -4865,6 +4921,14 @@
       "onboard_time": 1710669213,
       "rank": 13,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 405493,
+      "num": 405493,
+      "word": "张雨绮也有赘肉",
+      "onboard_time": 1711076899,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 405443,
@@ -5515,14 +5579,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 349081,
-      "num": 349081,
-      "word": "奔跑吧",
-      "onboard_time": 1711073958,
-      "rank": 36,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 348587,
       "num": 278432,
       "word": "吸血鬼为什么都是有钱人",
@@ -5641,14 +5697,6 @@
       "onboard_time": 1710816271,
       "rank": 20,
       "category": "情感"
-    },
-    {
-      "raw_hot": 338256,
-      "num": 338256,
-      "word": "无臂男子免费乘地铁被要求出示残疾证",
-      "onboard_time": 1711074378,
-      "rank": 19,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 337911,
@@ -5865,14 +5913,6 @@
       "onboard_time": 1711068201,
       "rank": 24,
       "category": "体育"
-    },
-    {
-      "raw_hot": 319982,
-      "num": 319982,
-      "word": "陈乔恩晒陈欣怡纪宝贝合照",
-      "onboard_time": 1711074258,
-      "rank": 21,
-      "category": "艺人"
     },
     {
       "raw_hot": 319935,
@@ -6931,14 +6971,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 265924,
-      "num": 265924,
-      "word": "承欢记",
-      "onboard_time": 1710944256,
-      "rank": 26,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 265154,
       "num": 265154,
       "word": "拼多多涨逾15%",
@@ -7113,6 +7145,14 @@
       "onboard_time": 1710767135,
       "rank": 33,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 256548,
+      "num": 256548,
+      "word": "皮肤医生教一个简单去黑头的方法",
+      "onboard_time": 1711075998,
+      "rank": 24,
+      "category": "健康医疗,美妆"
     },
     {
       "raw_hot": 256526,
@@ -7851,6 +7891,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 228323,
+      "num": 228323,
+      "word": "与凤行 科技改变仙侠",
+      "onboard_time": 1711076658,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 227712,
       "num": 227712,
       "word": "尹正黄晓明他在闹他在笑",
@@ -8329,6 +8377,14 @@
       "onboard_time": 1710829473,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 218963,
+      "num": 218963,
+      "word": "BLACKPINK或将回归",
+      "onboard_time": 1711077259,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 218818,
@@ -9811,6 +9867,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 193332,
+      "num": 193332,
+      "word": "早期的曾黎",
+      "onboard_time": 1711076058,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 193307,
       "num": 193307,
       "word": "Cat一诺互怼",
@@ -10547,6 +10611,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 182098,
+      "num": 182098,
+      "word": "老师不要跑全网下线",
+      "onboard_time": 1711074557,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 182063,
       "num": 182063,
       "word": "多省市教育部门就校园欺凌案密集发声",
@@ -11195,6 +11267,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 170672,
+      "num": 170672,
+      "word": "电影维和防暴队定档五一",
+      "onboard_time": 1711077259,
+      "rank": 31,
+      "category": "电影"
+    },
+    {
       "raw_hot": 170622,
       "num": 170622,
       "word": "为什么韩国的门牌很多都是汉字",
@@ -11331,12 +11411,12 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 168467,
-      "num": 168467,
-      "word": "老师不要跑全网下线",
-      "onboard_time": 1711074557,
-      "rank": 35,
-      "category": "剧集"
+      "raw_hot": 168605,
+      "num": 168605,
+      "word": "天水麻辣烫到底能火多久",
+      "onboard_time": 1711075818,
+      "rank": 32,
+      "category": "美食"
     },
     {
       "raw_hot": 168349,
@@ -11713,6 +11793,14 @@
       "onboard_time": 1711025900,
       "rank": 45,
       "category": "作品衍生,美妆"
+    },
+    {
+      "raw_hot": 161739,
+      "num": 161739,
+      "word": "GAI布瑞吉街上的",
+      "onboard_time": 1711076600,
+      "rank": 34,
+      "category": "音乐"
     },
     {
       "raw_hot": 161728,
@@ -12555,6 +12643,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 148101,
+      "num": 148101,
+      "word": "以前的大学生过的什么好日子",
+      "onboard_time": 1711076300,
+      "rank": 36,
+      "category": "情感"
+    },
+    {
       "raw_hot": 147898,
       "num": 147898,
       "word": "林更新狗进猫窝",
@@ -12569,6 +12665,14 @@
       "onboard_time": 1710950311,
       "rank": 23,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 147780,
+      "num": 147780,
+      "word": "燕郊爆燃事故发生前后的日子",
+      "onboard_time": 1711077199,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 147605,
@@ -12865,6 +12969,14 @@
       "onboard_time": 1710917791,
       "rank": 34,
       "category": "演出"
+    },
+    {
+      "raw_hot": 141439,
+      "num": 141439,
+      "word": "张杰新专辑先行曲回上线",
+      "onboard_time": 1711075098,
+      "rank": 38,
+      "category": "音乐"
     },
     {
       "raw_hot": 140823,
@@ -14443,6 +14555,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 103671,
+      "num": 103671,
+      "word": "2023微博电影白皮书",
+      "onboard_time": 1711077502,
+      "rank": 49,
+      "category": "电影"
+    },
+    {
       "raw_hot": 103645,
       "num": 409379,
       "word": "淘宝红人人均身价超千万",
@@ -15316,7 +15436,7 @@
     },
     {
       "raw_hot": 53701,
-      "num": 951301,
+      "num": 1600754,
       "word": "今年春耕科技范儿满满",
       "onboard_time": 1711026378,
       "rank": 2,
