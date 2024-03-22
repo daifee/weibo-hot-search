@@ -1,6 +1,6 @@
 {
   "startTime": 1711038208925,
-  "endTime": 1711102744093,
+  "endTime": 1711103663717,
   "band_list": [
     {
       "raw_hot": 3261143,
@@ -81,6 +81,14 @@
       "onboard_time": 1711092619,
       "rank": 34,
       "category": "母婴育儿"
+    },
+    {
+      "raw_hot": 1177015,
+      "num": 548383,
+      "word": "微信官方回应朋友圈横线问题",
+      "onboard_time": 1711099879,
+      "rank": 38,
+      "category": "互联网"
     },
     {
       "raw_hot": 1146947,
@@ -251,14 +259,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 753017,
-      "num": 548383,
-      "word": "微信官方回应朋友圈横线问题",
-      "onboard_time": 1711099879,
-      "rank": 38,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 749405,
       "num": 749405,
       "word": "BLACKPINK续约金额高达400亿韩元",
@@ -331,6 +331,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 645744,
+      "num": 645744,
+      "word": "女版相柳",
+      "onboard_time": 1711099400,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 639263,
       "num": 639263,
       "word": "宫崎骏 拥抱比亲吻更有力量",
@@ -352,14 +360,6 @@
       "word": "承欢记",
       "onboard_time": 1711074738,
       "rank": 34,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 624843,
-      "num": 624843,
-      "word": "女版相柳",
-      "onboard_time": 1711099400,
-      "rank": 32,
       "category": "剧集"
     },
     {
@@ -563,6 +563,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 454838,
+      "num": 465993,
+      "word": "爸爸隔保鲜膜狂亲新生宝宝",
+      "onboard_time": 1711098078,
+      "rank": 22,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 451671,
       "num": 451671,
       "word": "奔跑吧",
@@ -675,6 +683,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 403352,
+      "num": 403352,
+      "word": "赵丽颖说林更新每天在朋友圈做菜",
+      "onboard_time": 1711100837,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 398632,
       "num": 346076,
       "word": "杜海涛 夏油杰",
@@ -689,6 +705,14 @@
       "onboard_time": 1711077259,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 394349,
+      "num": 394349,
+      "word": "月光爆料DYG事件始末",
+      "onboard_time": 1711101918,
+      "rank": 17,
+      "category": "电竞"
     },
     {
       "raw_hot": 393635,
@@ -755,14 +779,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 351399,
-      "num": 351399,
-      "word": "爸爸隔保鲜膜狂亲新生宝宝",
-      "onboard_time": 1711098078,
-      "rank": 22,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 349458,
       "num": 349458,
       "word": "杨幂打卡杨幂",
@@ -824,22 +840,6 @@
       "word": "IU机场",
       "onboard_time": 1711091358,
       "rank": 31,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 332135,
-      "num": 332135,
-      "word": "月光爆料DYG事件始末",
-      "onboard_time": 1711101918,
-      "rank": 17,
-      "category": "电竞"
-    },
-    {
-      "raw_hot": 331117,
-      "num": 331117,
-      "word": "赵丽颖说林更新每天在朋友圈做菜",
-      "onboard_time": 1711100837,
-      "rank": 18,
       "category": "艺人"
     },
     {
@@ -995,6 +995,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 275051,
+      "num": 548981,
+      "word": "接亲路上一声巨响新郎出手了",
+      "onboard_time": 1711101019,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 273740,
       "num": 265181,
       "word": "张庭夫妇庭秘密旗下公司拟注销",
@@ -1091,6 +1099,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 257633,
+      "num": 257633,
+      "word": "水中捞玥是赵丽颖林更新特地加的",
+      "onboard_time": 1711103119,
+      "rank": 22,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 254431,
       "num": 198811,
       "word": "我妈好像是爽文大女主",
@@ -1129,14 +1145,6 @@
       "onboard_time": 1711091121,
       "rank": 29,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 241909,
-      "num": 548981,
-      "word": "接亲路上一声巨响新郎出手了",
-      "onboard_time": 1711101019,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 239719,
@@ -1211,6 +1219,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 224242,
+      "num": 224242,
+      "word": "秦海璐行李箱还贴着一璐平安",
+      "onboard_time": 1711101320,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 223744,
+      "num": 223744,
+      "word": "WTT冠军赛未来五年落地重庆",
+      "onboard_time": 1711103420,
+      "rank": 25,
+      "category": "体育"
+    },
+    {
       "raw_hot": 222602,
       "num": 222602,
       "word": "马拉多纳死亡调查有新进展",
@@ -1243,6 +1267,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 220437,
+      "num": 220437,
+      "word": "iG晋级春季赛季后赛",
+      "onboard_time": 1711103000,
+      "rank": 26,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 215803,
       "num": 215803,
       "word": "当十个勤天只留蒋敦豪在家时",
@@ -1265,14 +1297,6 @@
       "onboard_time": 1711065740,
       "rank": 29,
       "category": "美妆"
-    },
-    {
-      "raw_hot": 215265,
-      "num": 215265,
-      "word": "秦海璐行李箱还贴着一璐平安",
-      "onboard_time": 1711101320,
-      "rank": 30,
-      "category": "综艺"
     },
     {
       "raw_hot": 214896,
@@ -1579,6 +1603,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 174570,
+      "num": 174570,
+      "word": "ILLIT试听",
+      "onboard_time": 1711103000,
+      "rank": 33,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 174415,
       "num": 174415,
       "word": "长这么大第一次听说家乡的省花",
@@ -1635,20 +1667,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 168636,
+      "num": 168636,
+      "word": "不是说吃的干净就能瘦吗",
+      "onboard_time": 1711101799,
+      "rank": 36,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 168019,
       "num": 168019,
       "word": "明日方舟",
       "onboard_time": 1711081400,
       "rank": 45,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 165839,
-      "num": 165839,
-      "word": "不是说吃的干净就能瘦吗",
-      "onboard_time": 1711101799,
-      "rank": 36,
-      "category": "幽默"
     },
     {
       "raw_hot": 162836,
@@ -1947,6 +1979,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 133972,
+      "num": 555415,
+      "word": "宁夏辣糊糊到底有多香",
+      "onboard_time": 1711101019,
+      "rank": 8,
+      "category": "美食"
+    },
+    {
       "raw_hot": 133646,
       "num": 133646,
       "word": "水哥说速算是他的心结",
@@ -2051,6 +2091,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 117672,
+      "num": 117672,
+      "word": "消费后看小票的重要性",
+      "onboard_time": 1711103359,
+      "rank": 45,
+      "category": "情感"
+    },
+    {
       "raw_hot": 117447,
       "num": 117447,
       "word": "猫 被千手观音亲自撸",
@@ -2083,19 +2131,27 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 113762,
-      "num": 555415,
-      "word": "宁夏辣糊糊到底有多香",
-      "onboard_time": 1711101019,
-      "rank": 8,
-      "category": "美食"
-    },
-    {
       "raw_hot": 112984,
       "num": 112984,
       "word": "现偶有自己的白云黑土",
       "onboard_time": 1711099939,
       "rank": 47,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 110240,
+      "num": 110240,
+      "word": "哥斯拉金刚扫楼",
+      "onboard_time": 1711102820,
+      "rank": 47,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 109725,
+      "num": 109725,
+      "word": "以为是见岳父没想到是当保姆",
+      "onboard_time": 1711103599,
+      "rank": 48,
       "category": "剧集"
     },
     {
@@ -2331,7 +2387,7 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 18852,
+      "raw_hot": 22791,
       "num": 421645,
       "word": "元梦的熊猫是懂功夫的",
       "onboard_time": 1711101617,
@@ -2399,6 +2455,9 @@
     },
     {
       "word": "#推动中部地区崛起总书记这样擘画#"
+    },
+    {
+      "word": "#跟着总书记足迹看中部崛起新图景#"
     }
   ]
 }
