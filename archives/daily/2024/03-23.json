@@ -1,6 +1,6 @@
 {
   "startTime": 1711124556378,
-  "endTime": 1711125362174,
+  "endTime": 1711127712867,
   "band_list": [
     {
       "raw_hot": 1515135,
@@ -25,6 +25,14 @@
       "onboard_time": 1711118840,
       "rank": 1,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 673409,
+      "num": 673409,
+      "word": "火烧云孕妇免排队被指慷他人之慨",
+      "onboard_time": 1711124717,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 581113,
@@ -155,6 +163,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 197395,
+      "num": 197395,
+      "word": "你以为很贵其实很便宜的车",
+      "onboard_time": 1711123578,
+      "rank": 38,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 195184,
       "num": 195184,
       "word": "何悯鸿 悬着的心终于死了",
@@ -227,7 +243,7 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 140392,
+      "raw_hot": 149811,
       "num": 130647,
       "word": "赵丽颖回应床咚吻",
       "onboard_time": 1711124956,
@@ -249,14 +265,6 @@
       "onboard_time": 1711120880,
       "rank": 31,
       "category": "情感"
-    },
-    {
-      "raw_hot": 130615,
-      "num": 130615,
-      "word": "你以为很贵其实很便宜的车",
-      "onboard_time": 1711123578,
-      "rank": 38,
-      "category": "汽车"
     },
     {
       "raw_hot": 128034,
@@ -331,14 +339,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 96556,
-      "num": 96556,
-      "word": "火烧云孕妇免排队被指慷他人之慨",
-      "onboard_time": 1711124717,
-      "rank": 38,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 94184,
       "num": 94184,
       "word": "张杰巡演超长大屏",
@@ -379,6 +379,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 79164,
+      "num": 79164,
+      "word": "火烧云回应孕妇免排队",
+      "onboard_time": 1711126095,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 76843,
       "num": 76843,
       "word": "BOYNEXTDOOR回归预告",
@@ -403,12 +411,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 73984,
+      "num": 73984,
+      "word": "奔跑吧全员好美的精神状态",
+      "onboard_time": 1711127234,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 69587,
       "num": 88552,
       "word": "原来不健康成分披了这么多马甲",
       "onboard_time": 1711116920,
       "rank": 47,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 63918,
+      "num": 63918,
+      "word": "全员加速中",
+      "onboard_time": 1711110319,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 60293,
