@@ -1,0 +1,410 @@
+{
+  "runTime": 1711113509382,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1397680,
+        "num": 1397680,
+        "word": "喜证被倒卖1.9元1张",
+        "onboard_time": 1711107498,
+        "rank": 0,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 962631,
+        "num": 962631,
+        "word": "阴阳师给王者荣耀律师函",
+        "onboard_time": 1711107018,
+        "rank": 1,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 47614,
+        "num": 768963,
+        "word": "花花盛开的中国春意拉满",
+        "onboard_time": 1711096818,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 726690,
+        "num": 726690,
+        "word": "何悯鸿 悬着的心终于死了",
+        "onboard_time": 1711107918,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 719049,
+        "num": 719049,
+        "word": "未成年人犯故意杀人等重罪要依法追究刑责",
+        "onboard_time": 1711074258,
+        "rank": 4,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 676340,
+        "num": 676340,
+        "word": "为什么大多数销冠都是女的",
+        "onboard_time": 1711111398,
+        "rank": 5,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 669124,
+        "num": 669124,
+        "word": "东京食尸鬼 时代的代表",
+        "onboard_time": 1711108338,
+        "rank": 6,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 651180,
+        "num": 651180,
+        "word": "以色列宣布没收8平方公里巴勒斯坦土地",
+        "onboard_time": 1711112238,
+        "rank": 7,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 594324,
+        "num": 594324,
+        "word": "肖战cue身材",
+        "onboard_time": 1711111639,
+        "rank": 8,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 569472,
+        "num": 569472,
+        "word": "与凤行断层第一",
+        "onboard_time": 1711108458,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 626847,
+        "num": 548788,
+        "word": "微信官方回应朋友圈横线问题",
+        "onboard_time": 1711099879,
+        "rank": 10,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 506308,
+        "num": 506308,
+        "word": "魏大勋 越考古越心软",
+        "onboard_time": 1711109239,
+        "rank": 11,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 494829,
+        "num": 494829,
+        "word": "未成年人严重暴力犯罪监护人要担责",
+        "onboard_time": 1711107080,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 486422,
+        "num": 486422,
+        "word": "恋爱兄妹",
+        "onboard_time": 1711107798,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 469159,
+        "num": 469159,
+        "word": "国产三体 吊打",
+        "onboard_time": 1711096818,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 417988,
+        "num": 417988,
+        "word": "这类玩具致癌",
+        "onboard_time": 1711105937,
+        "rank": 15,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 365186,
+        "num": 365186,
+        "word": "全员加速中",
+        "onboard_time": 1711110319,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 353669,
+        "num": 353669,
+        "word": "67岁老人做工讨薪被殴打致轻伤二级",
+        "onboard_time": 1711105819,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 292669,
+        "num": 292669,
+        "word": "爸爸隔保鲜膜狂亲新生宝宝",
+        "onboard_time": 1711098078,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 253953,
+        "num": 253953,
+        "word": "黄子韬直播cue徐艺洋",
+        "onboard_time": 1711094958,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 239321,
+        "num": 239321,
+        "word": "离职后还有24万工资没发",
+        "onboard_time": 1711097301,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 235751,
+        "num": 235751,
+        "word": "陈都灵奶白大衣",
+        "onboard_time": 1711112238,
+        "rank": 21,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 231020,
+        "num": 231020,
+        "word": "客厅存在的意义是什么",
+        "onboard_time": 1711111699,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 218277,
+        "num": 218277,
+        "word": "赵丽颖说林更新每天在朋友圈做菜",
+        "onboard_time": 1711100837,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 216486,
+        "num": 216486,
+        "word": "张杰巡演超长大屏",
+        "onboard_time": 1711112899,
+        "rank": 24,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 210589,
+        "num": 210589,
+        "word": "沈璃母亲",
+        "onboard_time": 1711110558,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 208459,
+        "num": 208459,
+        "word": "WBG战胜JDG",
+        "onboard_time": 1711112599,
+        "rank": 26,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 192617,
+        "num": 192617,
+        "word": "白鹿敖瑞鹏同款打卡地",
+        "onboard_time": 1711107738,
+        "rank": 27,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 191524,
+        "num": 191524,
+        "word": "哈佛毕业回国考公是大材小用吗",
+        "onboard_time": 1711106299,
+        "rank": 28,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 186714,
+        "num": 186714,
+        "word": "魏若来被打",
+        "onboard_time": 1711113139,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 186498,
+        "num": 186498,
+        "word": "LGD对战WB",
+        "onboard_time": 1711112478,
+        "rank": 30,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 172807,
+        "num": 172807,
+        "word": "何浩楠 3个人都没拧开瓶盖",
+        "onboard_time": 1711112478,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 169141,
+        "num": 169141,
+        "word": "花儿与少年好友记",
+        "onboard_time": 1711098979,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 167766,
+        "num": 167766,
+        "word": "JDG对战WBG",
+        "onboard_time": 1711109719,
+        "rank": 33,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 164105,
+        "num": 164105,
+        "word": "当外公知道我的猫两万一只",
+        "onboard_time": 1711106779,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 161101,
+        "num": 161101,
+        "word": "虞书欣父亲退出被强执公司",
+        "onboard_time": 1711085721,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 160934,
+        "num": 160934,
+        "word": "两岁半的女儿被托班劝退",
+        "onboard_time": 1711095678,
+        "rank": 36,
+        "category": "母婴育儿"
+      },
+      {
+        "raw_hot": 31298,
+        "num": 152082,
+        "word": "零跑汽车奖励爱心车主零跑C10",
+        "onboard_time": 1711110918,
+        "rank": 37,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 144766,
+        "num": 144766,
+        "word": "女版相柳",
+        "onboard_time": 1711099400,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 134078,
+        "num": 134078,
+        "word": "奔赴双雄豆瓣演员表",
+        "onboard_time": 1711112238,
+        "rank": 39,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 125478,
+        "num": 125478,
+        "word": "赵丽颖和替身合照",
+        "onboard_time": 1711091658,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 124612,
+        "num": 124612,
+        "word": "为什么县城里的女老师不好脱单",
+        "onboard_time": 1711095678,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 122148,
+        "num": 122148,
+        "word": "张杰全新话筒",
+        "onboard_time": 1711106178,
+        "rank": 42,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 121751,
+        "num": 121751,
+        "word": "DYG领队发博道歉",
+        "onboard_time": 1711111877,
+        "rank": 43,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 117235,
+        "num": 117235,
+        "word": "散步是世界上最高级的浪漫",
+        "onboard_time": 1711104618,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 113927,
+        "num": 113927,
+        "word": "直播带货一天卖20万是什么体验",
+        "onboard_time": 1711106958,
+        "rank": 45,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 111443,
+        "num": 111443,
+        "word": "苏打绿香港站",
+        "onboard_time": 1711111759,
+        "rank": 46,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 106424,
+        "num": 106424,
+        "word": "狼队对战TES",
+        "onboard_time": 1711101617,
+        "rank": 47,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 85905,
+        "num": 106366,
+        "word": "联名咖啡究竟还能火多久",
+        "onboard_time": 1711111339,
+        "rank": 48,
+        "category": "财经,美食"
+      },
+      {
+        "raw_hot": 66205,
+        "num": 104870,
+        "word": "凯特现身视频卖了50万英镑",
+        "onboard_time": 1711083022,
+        "rank": 49,
+        "category": "国外时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#科技创新是发展新质生产力的核心要素#"
+    }
+  }
+}

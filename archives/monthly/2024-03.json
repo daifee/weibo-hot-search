@@ -1,6 +1,6 @@
 {
   "startTime": 1709223640991,
-  "endTime": 1711111529200,
+  "endTime": 1711113509382,
   "band_list": [
     {
       "raw_hot": 12728050,
@@ -2571,6 +2571,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1397680,
+      "num": 1397680,
+      "word": "喜证被倒卖1.9元1张",
+      "onboard_time": 1711107498,
+      "rank": 3,
+      "category": "美食"
+    },
+    {
       "raw_hot": 1396682,
       "num": 369367,
       "word": "周杰伦昆凌2岁女儿的画",
@@ -2732,7 +2740,7 @@
     },
     {
       "raw_hot": 1363134,
-      "num": 548383,
+      "num": 548788,
       "word": "微信官方回应朋友圈横线问题",
       "onboard_time": 1711099879,
       "rank": 38,
@@ -2993,14 +3001,6 @@
       "onboard_time": 1709271392,
       "rank": 1,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1307397,
-      "num": 1307397,
-      "word": "喜证被倒卖1.9元1张",
-      "onboard_time": 1711107498,
-      "rank": 3,
-      "category": "美食"
     },
     {
       "raw_hot": 1306580,
@@ -9507,6 +9507,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 676340,
+      "num": 676340,
+      "word": "为什么大多数销冠都是女的",
+      "onboard_time": 1711111398,
+      "rank": 37,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 675978,
       "num": 675978,
       "word": "国家线今天出吗",
@@ -9649,6 +9657,14 @@
       "onboard_time": 1709435311,
       "rank": 19,
       "category": "演出"
+    },
+    {
+      "raw_hot": 669124,
+      "num": 669124,
+      "word": "东京食尸鬼 时代的代表",
+      "onboard_time": 1711108338,
+      "rank": 23,
+      "category": "动漫"
     },
     {
       "raw_hot": 668197,
@@ -10009,6 +10025,14 @@
       "onboard_time": 1710127951,
       "rank": 45,
       "category": "电影"
+    },
+    {
+      "raw_hot": 651180,
+      "num": 651180,
+      "word": "以色列宣布没收8平方公里巴勒斯坦土地",
+      "onboard_time": 1711112238,
+      "rank": 7,
+      "category": "国外时政"
     },
     {
       "raw_hot": 651118,
@@ -11347,6 +11371,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 594324,
+      "num": 594324,
+      "word": "肖战cue身材",
+      "onboard_time": 1711111639,
+      "rank": 8,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 594054,
       "num": 594054,
       "word": "许嵩演唱会抢票",
@@ -11977,6 +12009,14 @@
       "onboard_time": 1711087221,
       "rank": 11,
       "category": "演出"
+    },
+    {
+      "raw_hot": 569472,
+      "num": 569472,
+      "word": "与凤行断层第一",
+      "onboard_time": 1711108458,
+      "rank": 14,
+      "category": "剧集"
     },
     {
       "raw_hot": 569278,
@@ -14097,6 +14137,14 @@
       "onboard_time": 1709767166,
       "rank": 26,
       "category": "情感"
+    },
+    {
+      "raw_hot": 506308,
+      "num": 506308,
+      "word": "魏大勋 越考古越心软",
+      "onboard_time": 1711109239,
+      "rank": 22,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 505968,
@@ -16384,14 +16432,6 @@
       "word": "如懿干活vs甄嬛干活",
       "onboard_time": 1710632964,
       "rank": 8,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 446740,
-      "num": 446740,
-      "word": "与凤行断层第一",
-      "onboard_time": 1711108458,
-      "rank": 14,
       "category": "剧集"
     },
     {
@@ -21459,14 +21499,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 339652,
-      "num": 339652,
-      "word": "魏大勋 越考古越心软",
-      "onboard_time": 1711109239,
-      "rank": 22,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 339323,
       "num": 438163,
       "word": "安徽谢桥煤矿发生瓦斯事故",
@@ -21537,14 +21569,6 @@
       "onboard_time": 1710816271,
       "rank": 20,
       "category": "情感"
-    },
-    {
-      "raw_hot": 338237,
-      "num": 338237,
-      "word": "东京食尸鬼 时代的代表",
-      "onboard_time": 1711108338,
-      "rank": 23,
-      "category": "动漫"
     },
     {
       "raw_hot": 338126,
@@ -29755,6 +29779,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 235751,
+      "num": 235751,
+      "word": "陈都灵奶白大衣",
+      "onboard_time": 1711112238,
+      "rank": 21,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 235662,
       "num": 235662,
       "word": "为什么小时候吃过的辣条都消失了",
@@ -30225,6 +30257,14 @@
       "onboard_time": 1709629594,
       "rank": 36,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 231020,
+      "num": 231020,
+      "word": "客厅存在的意义是什么",
+      "onboard_time": 1711111699,
+      "rank": 22,
+      "category": "情感"
     },
     {
       "raw_hot": 230669,
@@ -32435,6 +32475,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 216486,
+      "num": 216486,
+      "word": "张杰巡演超长大屏",
+      "onboard_time": 1711112899,
+      "rank": 24,
+      "category": "演出"
+    },
+    {
       "raw_hot": 216438,
       "num": 216438,
       "word": "何悯鸿找到新工作了",
@@ -33897,6 +33945,14 @@
       "onboard_time": 1710141928,
       "rank": 31,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 208459,
+      "num": 208459,
+      "word": "WBG战胜JDG",
+      "onboard_time": 1711112599,
+      "rank": 26,
+      "category": "电竞"
     },
     {
       "raw_hot": 208446,
@@ -39131,6 +39187,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 186714,
+      "num": 186714,
+      "word": "魏若来被打",
+      "onboard_time": 1711113139,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 186643,
       "num": 186643,
       "word": "歼击机女飞行员太飒了",
@@ -39185,6 +39249,14 @@
       "onboard_time": 1710159993,
       "rank": 46,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 186498,
+      "num": 186498,
+      "word": "LGD对战WB",
+      "onboard_time": 1711112478,
+      "rank": 30,
+      "category": "电竞"
     },
     {
       "raw_hot": 186352,
@@ -42209,6 +42281,14 @@
       "onboard_time": 1711019780,
       "rank": 41,
       "category": "演出"
+    },
+    {
+      "raw_hot": 172807,
+      "num": 172807,
+      "word": "何浩楠 3个人都没拧开瓶盖",
+      "onboard_time": 1711112478,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 172797,
@@ -50499,14 +50579,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 138774,
-      "num": 138774,
-      "word": "为什么大多数销冠都是女的",
-      "onboard_time": 1711111398,
-      "rank": 37,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 138764,
       "num": 138764,
       "word": "Fisher脑回路",
@@ -51824,6 +51896,14 @@
       "word": "灿烂的她 哭着哭着就笑了",
       "onboard_time": 1709889331,
       "rank": 38,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 134078,
+      "num": 134078,
+      "word": "奔赴双雄豆瓣演员表",
+      "onboard_time": 1711112238,
+      "rank": 39,
       "category": "电影"
     },
     {
@@ -54619,6 +54699,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 121751,
+      "num": 121751,
+      "word": "DYG领队发博道歉",
+      "onboard_time": 1711111877,
+      "rank": 43,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 121718,
       "num": 121718,
       "word": "这哪里是化妆是易容吧",
@@ -56577,6 +56665,14 @@
       "onboard_time": 1709900850,
       "rank": 46,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 111443,
+      "num": 111443,
+      "word": "苏打绿香港站",
+      "onboard_time": 1711111759,
+      "rank": 46,
+      "category": "演出"
     },
     {
       "raw_hot": 111371,
@@ -62075,6 +62171,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 31298,
+      "num": 152082,
+      "word": "零跑汽车奖励爱心车主零跑C10",
+      "onboard_time": 1711110918,
+      "rank": 38,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 31208,
       "num": 45701,
       "word": "两会学习笔记",
@@ -62417,14 +62521,6 @@
       "onboard_time": 1709490497,
       "rank": 37,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 24029,
-      "num": 135093,
-      "word": "零跑汽车奖励爱心车主零跑C10",
-      "onboard_time": 1711110918,
-      "rank": 38,
-      "category": "汽车"
     },
     {
       "raw_hot": 24022,

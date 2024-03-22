@@ -1,6 +1,6 @@
 {
   "startTime": 1711038208925,
-  "endTime": 1711111529200,
+  "endTime": 1711113509382,
   "band_list": [
     {
       "raw_hot": 3261143,
@@ -59,20 +59,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1363134,
-      "num": 548383,
-      "word": "微信官方回应朋友圈横线问题",
-      "onboard_time": 1711099879,
-      "rank": 38,
-      "category": "互联网"
-    },
-    {
-      "raw_hot": 1307397,
-      "num": 1307397,
+      "raw_hot": 1397680,
+      "num": 1397680,
       "word": "喜证被倒卖1.9元1张",
       "onboard_time": 1711107498,
       "rank": 3,
       "category": "美食"
+    },
+    {
+      "raw_hot": 1363134,
+      "num": 548788,
+      "word": "微信官方回应朋友圈横线问题",
+      "onboard_time": 1711099879,
+      "rank": 38,
+      "category": "互联网"
     },
     {
       "raw_hot": 1291810,
@@ -355,6 +355,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 676340,
+      "num": 676340,
+      "word": "为什么大多数销冠都是女的",
+      "onboard_time": 1711111398,
+      "rank": 37,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 675088,
       "num": 675088,
       "word": "微商教母张庭卷土重来",
@@ -369,6 +377,22 @@
       "onboard_time": 1711063815,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 669124,
+      "num": 669124,
+      "word": "东京食尸鬼 时代的代表",
+      "onboard_time": 1711108338,
+      "rank": 23,
+      "category": "动漫"
+    },
+    {
+      "raw_hot": 651180,
+      "num": 651180,
+      "word": "以色列宣布没收8平方公里巴勒斯坦土地",
+      "onboard_time": 1711112238,
+      "rank": 7,
+      "category": "国外时政"
     },
     {
       "raw_hot": 651082,
@@ -435,6 +459,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 594324,
+      "num": 594324,
+      "word": "肖战cue身材",
+      "onboard_time": 1711111639,
+      "rank": 8,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 590810,
       "num": 402661,
       "word": "追风者 好大的尺度",
@@ -481,6 +513,14 @@
       "onboard_time": 1711087221,
       "rank": 11,
       "category": "演出"
+    },
+    {
+      "raw_hot": 569472,
+      "num": 569472,
+      "word": "与凤行断层第一",
+      "onboard_time": 1711108458,
+      "rank": 14,
+      "category": "剧集"
     },
     {
       "raw_hot": 559883,
@@ -595,6 +635,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 506308,
+      "num": 506308,
+      "word": "魏大勋 越考古越心软",
+      "onboard_time": 1711109239,
+      "rank": 22,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 503833,
       "num": 503833,
       "word": "宋仲基夫妇看球赛",
@@ -665,14 +713,6 @@
       "onboard_time": 1711032622,
       "rank": 7,
       "category": "体育"
-    },
-    {
-      "raw_hot": 446740,
-      "num": 446740,
-      "word": "与凤行断层第一",
-      "onboard_time": 1711108458,
-      "rank": 14,
-      "category": "剧集"
     },
     {
       "raw_hot": 437663,
@@ -899,14 +939,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 339652,
-      "num": 339652,
-      "word": "魏大勋 越考古越心软",
-      "onboard_time": 1711109239,
-      "rank": 22,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 338839,
       "num": 333982,
       "word": "每天5分钟排出体内湿气",
@@ -921,14 +953,6 @@
       "onboard_time": 1711025780,
       "rank": 13,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 338237,
-      "num": 338237,
-      "word": "东京食尸鬼 时代的代表",
-      "onboard_time": 1711108338,
-      "rank": 23,
-      "category": "动漫"
     },
     {
       "raw_hot": 336367,
@@ -1307,6 +1331,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 235751,
+      "num": 235751,
+      "word": "陈都灵奶白大衣",
+      "onboard_time": 1711112238,
+      "rank": 21,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 234914,
       "num": 234914,
       "word": "居然被初中好朋友冒名顶替了",
@@ -1329,6 +1361,14 @@
       "onboard_time": 1711098319,
       "rank": 34,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 231020,
+      "num": 231020,
+      "word": "客厅存在的意义是什么",
+      "onboard_time": 1711111699,
+      "rank": 22,
+      "category": "情感"
     },
     {
       "raw_hot": 230669,
@@ -1435,6 +1475,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 216486,
+      "num": 216486,
+      "word": "张杰巡演超长大屏",
+      "onboard_time": 1711112899,
+      "rank": 24,
+      "category": "演出"
+    },
+    {
       "raw_hot": 215803,
       "num": 215803,
       "word": "当十个勤天只留蒋敦豪在家时",
@@ -1513,6 +1561,14 @@
       "onboard_time": 1711073778,
       "rank": 23,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 208459,
+      "num": 208459,
+      "word": "WBG战胜JDG",
+      "onboard_time": 1711112599,
+      "rank": 26,
+      "category": "电竞"
     },
     {
       "raw_hot": 207168,
@@ -1707,6 +1763,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 186714,
+      "num": 186714,
+      "word": "魏若来被打",
+      "onboard_time": 1711113139,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 186498,
+      "num": 186498,
+      "word": "LGD对战WB",
+      "onboard_time": 1711112478,
+      "rank": 30,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 185787,
       "num": 185787,
       "word": "张婧仪李庚希 双生花",
@@ -1841,6 +1913,14 @@
       "onboard_time": 1711091239,
       "rank": 34,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 172807,
+      "num": 172807,
+      "word": "何浩楠 3个人都没拧开瓶盖",
+      "onboard_time": 1711112478,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 172317,
@@ -2187,14 +2267,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 138774,
-      "num": 138774,
-      "word": "为什么大多数销冠都是女的",
-      "onboard_time": 1711111398,
-      "rank": 37,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 137153,
       "num": 137153,
       "word": "花间令 爱人错过",
@@ -2233,6 +2305,14 @@
       "onboard_time": 1711069338,
       "rank": 47,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 134078,
+      "num": 134078,
+      "word": "奔赴双雄豆瓣演员表",
+      "onboard_time": 1711112238,
+      "rank": 39,
+      "category": "电影"
     },
     {
       "raw_hot": 133972,
@@ -2379,6 +2459,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 121751,
+      "num": 121751,
+      "word": "DYG领队发博道歉",
+      "onboard_time": 1711111877,
+      "rank": 43,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 120625,
       "num": 145053,
       "word": "联名咖啡究竟还能火多久",
@@ -2465,6 +2553,14 @@
       "onboard_time": 1711110438,
       "rank": 46,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 111443,
+      "num": 111443,
+      "word": "苏打绿香港站",
+      "onboard_time": 1711111759,
+      "rank": 46,
+      "category": "演出"
     },
     {
       "raw_hot": 110240,
@@ -2707,6 +2803,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 31298,
+      "num": 152082,
+      "word": "零跑汽车奖励爱心车主零跑C10",
+      "onboard_time": 1711110918,
+      "rank": 38,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 31194,
       "num": 31194,
       "word": "王若顿口播",
@@ -2721,14 +2825,6 @@
       "onboard_time": 1711044612,
       "rank": 45,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 24029,
-      "num": 135093,
-      "word": "零跑汽车奖励爱心车主零跑C10",
-      "onboard_time": 1711110918,
-      "rank": 38,
-      "category": "汽车"
     },
     {
       "raw_hot": 22791,
