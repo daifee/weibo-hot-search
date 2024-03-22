@@ -1,6 +1,6 @@
 {
   "startTime": 1711038208925,
-  "endTime": 1711110653897,
+  "endTime": 1711111529200,
   "band_list": [
     {
       "raw_hot": 3261143,
@@ -67,6 +67,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 1307397,
+      "num": 1307397,
+      "word": "喜证被倒卖1.9元1张",
+      "onboard_time": 1711107498,
+      "rank": 3,
+      "category": "美食"
+    },
+    {
       "raw_hot": 1291810,
       "num": 1291810,
       "word": "武汉地铁就无臂男子事件道歉",
@@ -97,14 +105,6 @@
       "onboard_time": 1711096818,
       "rank": 4,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 1201609,
-      "num": 1201609,
-      "word": "喜证被倒卖1.9元1张",
-      "onboard_time": 1711107498,
-      "rank": 3,
-      "category": "美食"
     },
     {
       "raw_hot": 1177915,
@@ -291,6 +291,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 750585,
+      "num": 750585,
+      "word": "何悯鸿 悬着的心终于死了",
+      "onboard_time": 1711107918,
+      "rank": 4,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 749405,
       "num": 749405,
       "word": "BLACKPINK续约金额高达400亿韩元",
@@ -315,6 +323,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 713478,
+      "num": 713478,
+      "word": "肖战泪痣",
+      "onboard_time": 1711109537,
+      "rank": 8,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 708084,
       "num": 708084,
       "word": "凤凰传奇官宣鸟巢演唱会",
@@ -336,14 +352,6 @@
       "word": "赵丽颖和替身合照",
       "onboard_time": 1711091658,
       "rank": 41,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 692990,
-      "num": 692990,
-      "word": "何悯鸿 悬着的心终于死了",
-      "onboard_time": 1711107918,
-      "rank": 4,
       "category": "剧集"
     },
     {
@@ -403,6 +411,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 621999,
+      "num": 621999,
+      "word": "这类玩具致癌",
+      "onboard_time": 1711105937,
+      "rank": 44,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 619989,
       "num": 619989,
       "word": "警方通报女子家门口被做三角标记",
@@ -435,20 +451,20 @@
       "category": "电影"
     },
     {
+      "raw_hot": 580039,
+      "num": 580039,
+      "word": "未成年人严重暴力犯罪监护人要担责",
+      "onboard_time": 1711107080,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 574865,
       "num": 297253,
       "word": "两岁半的女儿被托班劝退",
       "onboard_time": 1711095678,
       "rank": 30,
       "category": "母婴育儿"
-    },
-    {
-      "raw_hot": 574840,
-      "num": 574840,
-      "word": "这类玩具致癌",
-      "onboard_time": 1711105937,
-      "rank": 44,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 571956,
@@ -579,14 +595,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 508921,
-      "num": 508921,
-      "word": "肖战泪痣",
-      "onboard_time": 1711109537,
-      "rank": 8,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 503833,
       "num": 503833,
       "word": "宋仲基夫妇看球赛",
@@ -619,12 +627,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 487960,
-      "num": 487960,
-      "word": "未成年人严重暴力犯罪监护人要担责",
-      "onboard_time": 1711107080,
-      "rank": 40,
-      "category": "社会新闻"
+      "raw_hot": 486993,
+      "num": 486993,
+      "word": "恋爱兄妹",
+      "onboard_time": 1711107798,
+      "rank": 11,
+      "category": "综艺"
     },
     {
       "raw_hot": 480278,
@@ -633,14 +641,6 @@
       "onboard_time": 1711100837,
       "rank": 18,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 473661,
-      "num": 473661,
-      "word": "恋爱兄妹",
-      "onboard_time": 1711107798,
-      "rank": 11,
-      "category": "综艺"
     },
     {
       "raw_hot": 466395,
@@ -665,6 +665,14 @@
       "onboard_time": 1711032622,
       "rank": 7,
       "category": "体育"
+    },
+    {
+      "raw_hot": 446740,
+      "num": 446740,
+      "word": "与凤行断层第一",
+      "onboard_time": 1711108458,
+      "rank": 14,
+      "category": "剧集"
     },
     {
       "raw_hot": 437663,
@@ -697,6 +705,14 @@
       "onboard_time": 1711024579,
       "rank": 11,
       "category": "美食"
+    },
+    {
+      "raw_hot": 428220,
+      "num": 428220,
+      "word": "全员加速中",
+      "onboard_time": 1711110319,
+      "rank": 15,
+      "category": "综艺"
     },
     {
       "raw_hot": 424678,
@@ -760,14 +776,6 @@
       "word": "杨紫张耀演姐弟",
       "onboard_time": 1711081101,
       "rank": 45,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 404467,
-      "num": 404467,
-      "word": "与凤行断层第一",
-      "onboard_time": 1711108458,
-      "rank": 14,
       "category": "剧集"
     },
     {
@@ -891,6 +899,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 339652,
+      "num": 339652,
+      "word": "魏大勋 越考古越心软",
+      "onboard_time": 1711109239,
+      "rank": 22,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 338839,
       "num": 333982,
       "word": "每天5分钟排出体内湿气",
@@ -905,6 +921,14 @@
       "onboard_time": 1711025780,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 338237,
+      "num": 338237,
+      "word": "东京食尸鬼 时代的代表",
+      "onboard_time": 1711108338,
+      "rank": 23,
+      "category": "动漫"
     },
     {
       "raw_hot": 336367,
@@ -953,14 +977,6 @@
       "onboard_time": 1711031602,
       "rank": 14,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 324636,
-      "num": 324636,
-      "word": "全员加速中",
-      "onboard_time": 1711110319,
-      "rank": 15,
-      "category": "综艺"
     },
     {
       "raw_hot": 320129,
@@ -1073,14 +1089,6 @@
       "onboard_time": 1711083381,
       "rank": 21,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 282464,
-      "num": 282464,
-      "word": "魏大勋 越考古越心软",
-      "onboard_time": 1711109239,
-      "rank": 22,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 281569,
@@ -1331,20 +1339,20 @@
       "category": "时尚"
     },
     {
-      "raw_hot": 230125,
-      "num": 230125,
-      "word": "东京食尸鬼 时代的代表",
-      "onboard_time": 1711108338,
-      "rank": 23,
-      "category": "动漫"
-    },
-    {
       "raw_hot": 228461,
       "num": 141921,
       "word": "公司全勤500属实把我拿捏住了",
       "onboard_time": 1711058531,
       "rank": 27,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 228383,
+      "num": 228383,
+      "word": "沈璃母亲",
+      "onboard_time": 1711110558,
+      "rank": 38,
+      "category": "剧集"
     },
     {
       "raw_hot": 227838,
@@ -1419,8 +1427,8 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 217136,
-      "num": 217136,
+      "raw_hot": 219502,
+      "num": 219502,
       "word": "当外公知道我的猫两万一只",
       "onboard_time": 1711106779,
       "rank": 30,
@@ -1747,6 +1755,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 177303,
+      "num": 169820,
+      "word": "行止入住沈璃王府",
+      "onboard_time": 1711110258,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 176881,
       "num": 176881,
       "word": "魔卡少女樱 暗黑知世",
@@ -1856,14 +1872,6 @@
       "word": "与凤行凤凰泣血",
       "onboard_time": 1711069161,
       "rank": 38,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 169820,
-      "num": 169820,
-      "word": "行止入住沈璃王府",
-      "onboard_time": 1711110258,
-      "rank": 30,
       "category": "剧集"
     },
     {
@@ -2179,19 +2187,19 @@
       "category": "体育"
     },
     {
+      "raw_hot": 138774,
+      "num": 138774,
+      "word": "为什么大多数销冠都是女的",
+      "onboard_time": 1711111398,
+      "rank": 37,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 137153,
       "num": 137153,
       "word": "花间令 爱人错过",
       "onboard_time": 1711085421,
       "rank": 46,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 137032,
-      "num": 137032,
-      "word": "沈璃母亲",
-      "onboard_time": 1711110558,
-      "rank": 38,
       "category": "剧集"
     },
     {
@@ -2251,8 +2259,8 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 132907,
-      "num": 132907,
+      "raw_hot": 133316,
+      "num": 133316,
       "word": "直播带货一天卖20万是什么体验",
       "onboard_time": 1711106958,
       "rank": 44,
@@ -2347,6 +2355,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 122935,
+      "num": 122935,
+      "word": "王一博晒新片海报",
+      "onboard_time": 1711111158,
+      "rank": 44,
+      "category": "电影"
+    },
+    {
       "raw_hot": 122896,
       "num": 122896,
       "word": "袁泉迷人",
@@ -2361,6 +2377,14 @@
       "onboard_time": 1711084579,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 120625,
+      "num": 145053,
+      "word": "联名咖啡究竟还能火多久",
+      "onboard_time": 1711111339,
+      "rank": 34,
+      "category": "财经,美食"
     },
     {
       "raw_hot": 119851,
@@ -2611,6 +2635,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 62534,
+      "num": 110860,
+      "word": "地球一小时",
+      "onboard_time": 1711111277,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 60012,
       "num": 58680,
       "word": "黄俊捷看网友二创的反应",
@@ -2689,6 +2721,14 @@
       "onboard_time": 1711044612,
       "rank": 45,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 24029,
+      "num": 135093,
+      "word": "零跑汽车奖励爱心车主零跑C10",
+      "onboard_time": 1711110918,
+      "rank": 38,
+      "category": "汽车"
     },
     {
       "raw_hot": 22791,
