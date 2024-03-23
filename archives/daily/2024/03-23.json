@@ -1,6 +1,6 @@
 {
   "startTime": 1711124556378,
-  "endTime": 1711168432801,
+  "endTime": 1711171078256,
   "band_list": [
     {
       "raw_hot": 10611140,
@@ -60,11 +60,19 @@
     },
     {
       "raw_hot": 1404182,
-      "num": 557852,
+      "num": 566546,
       "word": "黄子韬回应和徐艺洋吃饭被拍",
       "onboard_time": 1711159101,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1333281,
+      "num": 1333281,
+      "word": "都选C的试卷终于出现了",
+      "onboard_time": 1711168221,
+      "rank": 30,
+      "category": "教育"
     },
     {
       "raw_hot": 1304224,
@@ -227,6 +235,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 631354,
+      "num": 631354,
+      "word": "邓超背着孙俪在家干这事",
+      "onboard_time": 1711169898,
+      "rank": 7,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 610941,
       "num": 610941,
       "word": "英国多方回应凯特患癌",
@@ -273,6 +289,22 @@
       "onboard_time": 1711158140,
       "rank": 13,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 567358,
+      "num": 567358,
+      "word": "毛不易回应穿洞洞鞋爬长白山",
+      "onboard_time": 1711170319,
+      "rank": 9,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 553409,
+      "num": 553409,
+      "word": "伊斯兰国为何袭击莫斯科",
+      "onboard_time": 1711169182,
+      "rank": 11,
+      "category": "国外时政"
     },
     {
       "raw_hot": 517519,
@@ -385,6 +417,14 @@
       "onboard_time": 1711157599,
       "rank": 14,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 419754,
+      "num": 419754,
+      "word": "俄乌冲突升级",
+      "onboard_time": 1711168279,
+      "rank": 45,
+      "category": "国外时政"
     },
     {
       "raw_hot": 403357,
@@ -603,6 +643,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 270430,
+      "num": 270430,
+      "word": "莫斯科恐袭亲历者装死自救",
+      "onboard_time": 1711168700,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 268135,
       "num": 268135,
       "word": "考试选15000字论文还是15秒舞蹈",
@@ -635,6 +683,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 256582,
+      "num": 256582,
+      "word": "萧敬腾来郑州 河南下雨",
+      "onboard_time": 1711167800,
+      "rank": 26,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 255572,
       "num": 255572,
       "word": "安踏在魏若来脸上植入广告",
@@ -665,14 +721,6 @@
       "onboard_time": 1711159821,
       "rank": 41,
       "category": "财经"
-    },
-    {
-      "raw_hot": 244297,
-      "num": 244297,
-      "word": "萧敬腾来郑州 河南下雨",
-      "onboard_time": 1711167800,
-      "rank": 26,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 244143,
@@ -755,12 +803,36 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 224685,
+      "num": 224685,
+      "word": "谁是中国吃辣第一省",
+      "onboard_time": 1711168101,
+      "rank": 46,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 220141,
+      "num": 220141,
+      "word": "湖人失误",
+      "onboard_time": 1711170379,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 218158,
       "num": 218158,
       "word": "白鹿伤痛文学女主",
       "onboard_time": 1711121778,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 216292,
+      "num": 216292,
+      "word": "莫斯科遭恐怖袭击最新情况",
+      "onboard_time": 1711170081,
+      "rank": 30,
+      "category": "国外时政"
     },
     {
       "raw_hot": 213907,
@@ -779,12 +851,12 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 212000,
-      "num": 212000,
-      "word": "都选C的试卷终于出现了",
-      "onboard_time": 1711168221,
-      "rank": 30,
-      "category": "教育"
+      "raw_hot": 211457,
+      "num": 211457,
+      "word": "莫斯科恐袭嫌疑人乘车逃离现场",
+      "onboard_time": 1711169420,
+      "rank": 31,
+      "category": "国外时政"
     },
     {
       "raw_hot": 209039,
@@ -801,6 +873,14 @@
       "onboard_time": 1711161141,
       "rank": 47,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 207496,
+      "num": 207496,
+      "word": "曾黎赵丽颖与凤行对笑镜头",
+      "onboard_time": 1711169840,
+      "rank": 32,
+      "category": "剧集"
     },
     {
       "raw_hot": 207109,
@@ -899,6 +979,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 189453,
+      "num": 189453,
+      "word": "狼队归期个人杂志首刊",
+      "onboard_time": 1711170680,
+      "rank": 34,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 186685,
       "num": 186685,
       "word": "与凤行嘘嘘被抓了",
@@ -907,12 +995,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 186669,
+      "num": 186669,
+      "word": "胡锡进称俄罗斯面临严峻形势",
+      "onboard_time": 1711170740,
+      "rank": 35,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 186269,
       "num": 186269,
       "word": "年轻人为啥不爱玻尿酸了",
       "onboard_time": 1711166540,
       "rank": 35,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 184058,
+      "num": 184058,
+      "word": "MBTI小行家",
+      "onboard_time": 1711169361,
+      "rank": 36,
+      "category": "情感"
     },
     {
       "raw_hot": 179173,
@@ -987,28 +1091,12 @@
       "category": "时尚,艺人"
     },
     {
-      "raw_hot": 161059,
-      "num": 161059,
-      "word": "俄乌冲突升级",
-      "onboard_time": 1711168279,
-      "rank": 45,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 160700,
       "num": 160700,
       "word": "执笔",
       "onboard_time": 1711122018,
       "rank": 26,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 160698,
-      "num": 160698,
-      "word": "谁是中国吃辣第一省",
-      "onboard_time": 1711168101,
-      "rank": 46,
-      "category": "美食"
     },
     {
       "raw_hot": 159824,
@@ -1059,6 +1147,22 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 150784,
+      "num": 147326,
+      "word": "五哈4斜坡剪彩全员脚滑",
+      "onboard_time": 1711171039,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 145797,
+      "num": 145797,
+      "word": "大学生版与凤行何错之有",
+      "onboard_time": 1711168402,
+      "rank": 49,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 145783,
       "num": 145783,
       "word": "迪丽热巴聂九罗",
@@ -1081,14 +1185,6 @@
       "onboard_time": 1711151476,
       "rank": 44,
       "category": "数码"
-    },
-    {
-      "raw_hot": 140507,
-      "num": 140507,
-      "word": "大学生版与凤行何错之有",
-      "onboard_time": 1711168402,
-      "rank": 49,
-      "category": "剧集"
     },
     {
       "raw_hot": 134974,
@@ -1347,7 +1443,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 56084,
+      "raw_hot": 59032,
       "num": 1577960,
       "word": "春耕春管把科技范儿拉满",
       "onboard_time": 1711166240,

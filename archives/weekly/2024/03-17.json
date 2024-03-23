@@ -1,6 +1,6 @@
 {
   "startTime": 1710605970310,
-  "endTime": 1711168432801,
+  "endTime": 1711171078256,
   "band_list": [
     {
       "raw_hot": 11692231,
@@ -868,7 +868,7 @@
     },
     {
       "raw_hot": 1404182,
-      "num": 557852,
+      "num": 566546,
       "word": "黄子韬回应和徐艺洋吃饭被拍",
       "onboard_time": 1711159101,
       "rank": 25,
@@ -1009,6 +1009,14 @@
       "onboard_time": 1710928297,
       "rank": 10,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1333281,
+      "num": 1333281,
+      "word": "都选C的试卷终于出现了",
+      "onboard_time": 1711168221,
+      "rank": 30,
+      "category": "教育"
     },
     {
       "raw_hot": 1328053,
@@ -3435,6 +3443,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 631354,
+      "num": 631354,
+      "word": "邓超背着孙俪在家干这事",
+      "onboard_time": 1711169898,
+      "rank": 7,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 631034,
       "num": 631034,
       "word": "花间令低开高走",
@@ -3963,6 +3979,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 567358,
+      "num": 567358,
+      "word": "毛不易回应穿洞洞鞋爬长白山",
+      "onboard_time": 1711170319,
+      "rank": 9,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 566369,
       "num": 566369,
       "word": "这真的是快50岁的何老师吗",
@@ -4129,6 +4153,14 @@
       "onboard_time": 1710771937,
       "rank": 28,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 553409,
+      "num": 553409,
+      "word": "伊斯兰国为何袭击莫斯科",
+      "onboard_time": 1711169182,
+      "rank": 11,
+      "category": "国外时政"
     },
     {
       "raw_hot": 553103,
@@ -5569,6 +5601,14 @@
       "onboard_time": 1710771996,
       "rank": 24,
       "category": "情感"
+    },
+    {
+      "raw_hot": 419754,
+      "num": 419754,
+      "word": "俄乌冲突升级",
+      "onboard_time": 1711168279,
+      "rank": 45,
+      "category": "国外时政"
     },
     {
       "raw_hot": 419428,
@@ -8227,6 +8267,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 270430,
+      "num": 270430,
+      "word": "莫斯科恐袭亲历者装死自救",
+      "onboard_time": 1711168700,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 270172,
       "num": 249719,
       "word": "为什么发朋友圈一定要屏蔽爸妈",
@@ -8571,6 +8619,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 256582,
+      "num": 256582,
+      "word": "萧敬腾来郑州 河南下雨",
+      "onboard_time": 1711167800,
+      "rank": 26,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 256526,
       "num": 223959,
       "word": "宁静奚梦瑶撞衫",
@@ -8897,14 +8953,6 @@
       "onboard_time": 1711028061,
       "rank": 39,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 244297,
-      "num": 244297,
-      "word": "萧敬腾来郑州 河南下雨",
-      "onboard_time": 1711167800,
-      "rank": 26,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 244215,
@@ -9707,6 +9755,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 224685,
+      "num": 224685,
+      "word": "谁是中国吃辣第一省",
+      "onboard_time": 1711168101,
+      "rank": 46,
+      "category": "美食"
+    },
+    {
       "raw_hot": 224661,
       "num": 224661,
       "word": "陈都灵清宫装写真",
@@ -9987,6 +10043,14 @@
       "category": "时尚,作品衍生"
     },
     {
+      "raw_hot": 220141,
+      "num": 220141,
+      "word": "湖人失误",
+      "onboard_time": 1711170379,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 219916,
       "num": 219916,
       "word": "逆水寒手游澄清与莲花楼联动",
@@ -10251,6 +10315,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 216292,
+      "num": 216292,
+      "word": "莫斯科遭恐怖袭击最新情况",
+      "onboard_time": 1711170081,
+      "rank": 30,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 215887,
       "num": 247133,
       "word": "世锦赛林孝埈晋级",
@@ -10459,20 +10531,20 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 212000,
-      "num": 212000,
-      "word": "都选C的试卷终于出现了",
-      "onboard_time": 1711168221,
-      "rank": 30,
-      "category": "教育"
-    },
-    {
       "raw_hot": 211873,
       "num": 211873,
       "word": "NBA将解散点燃队",
       "onboard_time": 1711077860,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 211457,
+      "num": 211457,
+      "word": "莫斯科恐袭嫌疑人乘车逃离现场",
+      "onboard_time": 1711169420,
+      "rank": 31,
+      "category": "国外时政"
     },
     {
       "raw_hot": 211289,
@@ -10680,6 +10752,14 @@
       "word": "花间令 换乘恋爱",
       "onboard_time": 1710910658,
       "rank": 37,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 207496,
+      "num": 207496,
+      "word": "曾黎赵丽颖与凤行对笑镜头",
+      "onboard_time": 1711169840,
+      "rank": 32,
       "category": "剧集"
     },
     {
@@ -12147,6 +12227,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 189453,
+      "num": 189453,
+      "word": "狼队归期个人杂志首刊",
+      "onboard_time": 1711170680,
+      "rank": 34,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 189427,
       "num": 189427,
       "word": "甘肃武威万人携手为沙漠织毛衣",
@@ -12337,6 +12425,14 @@
       "onboard_time": 1710850176,
       "rank": 36,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 186669,
+      "num": 186669,
+      "word": "胡锡进称俄罗斯面临严峻形势",
+      "onboard_time": 1711170740,
+      "rank": 35,
+      "category": "国外时政"
     },
     {
       "raw_hot": 186591,
@@ -14107,14 +14203,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 161059,
-      "num": 161059,
-      "word": "俄乌冲突升级",
-      "onboard_time": 1711168279,
-      "rank": 45,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 160894,
       "num": 160894,
       "word": "荣耀发布会",
@@ -14161,14 +14249,6 @@
       "onboard_time": 1711050790,
       "rank": 47,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 160698,
-      "num": 160698,
-      "word": "谁是中国吃辣第一省",
-      "onboard_time": 1711168101,
-      "rank": 46,
-      "category": "美食"
     },
     {
       "raw_hot": 159824,
@@ -14923,6 +15003,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 150784,
+      "num": 147326,
+      "word": "五哈4斜坡剪彩全员脚滑",
+      "onboard_time": 1711171039,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 150727,
       "num": 150727,
       "word": "FPX对战RNG",
@@ -15241,6 +15329,14 @@
       "onboard_time": 1710757715,
       "rank": 42,
       "category": "演出"
+    },
+    {
+      "raw_hot": 145797,
+      "num": 145797,
+      "word": "大学生版与凤行何错之有",
+      "onboard_time": 1711168402,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 145783,
@@ -15576,14 +15672,6 @@
       "word": "花间令 人心隔脸皮",
       "onboard_time": 1710658832,
       "rank": 39,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 140507,
-      "num": 140507,
-      "word": "大学生版与凤行何错之有",
-      "onboard_time": 1711168402,
-      "rank": 49,
       "category": "剧集"
     },
     {
@@ -18283,6 +18371,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 59032,
+      "num": 1577960,
+      "word": "春耕春管把科技范儿拉满",
+      "onboard_time": 1711166240,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 58950,
       "num": 531778,
       "word": "小米Civi4Pro首发评测",
@@ -18313,14 +18409,6 @@
       "onboard_time": 1710973941,
       "rank": 49,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 56084,
-      "num": 1577960,
-      "word": "春耕春管把科技范儿拉满",
-      "onboard_time": 1711166240,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 56025,
