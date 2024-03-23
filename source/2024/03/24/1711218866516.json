@@ -1,0 +1,410 @@
+{
+  "runTime": 1711218866516,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 358633,
+        "num": 358633,
+        "word": "俄恐袭已致143人遇难",
+        "onboard_time": 1711193779,
+        "rank": 0,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 295940,
+        "num": 295940,
+        "word": "赵露思出图",
+        "onboard_time": 1711195399,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 39623,
+        "num": 201931,
+        "word": "10.92亿背后的流量与力量",
+        "onboard_time": 1711198040,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 186125,
+        "num": 186125,
+        "word": "杭州兵马俑被游客吐槽不值票价",
+        "onboard_time": 1711208299,
+        "rank": 3,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 155323,
+        "num": 155323,
+        "word": "苹果高管一家四口被撞身亡",
+        "onboard_time": 1711182859,
+        "rank": 4,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 154372,
+        "num": 154372,
+        "word": "尔冬升把徐若晗赶出片场",
+        "onboard_time": 1711199541,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 151179,
+        "num": 151179,
+        "word": "林更新被100多条信息轰炸求剧透",
+        "onboard_time": 1711210638,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 130499,
+        "num": 130499,
+        "word": "金秀贤哭戏",
+        "onboard_time": 1711211357,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 124130,
+        "num": 124130,
+        "word": "小爱同学差点帮我买了一套房",
+        "onboard_time": 1711199541,
+        "rank": 8,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 108084,
+        "num": 123875,
+        "word": "俄方称已抓捕的恐袭者均为外国公民",
+        "onboard_time": 1711206800,
+        "rank": 9,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 362809,
+        "num": 121235,
+        "word": "莫斯科恐袭中国贸易参展商感到进退维谷",
+        "onboard_time": 1711206500,
+        "rank": 10,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 148362,
+        "num": 118832,
+        "word": "王俊凯爸妈的奶茶店引发粉丝凌晨排队",
+        "onboard_time": 1711201521,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 140706,
+        "num": 116085,
+        "word": "留给霸王茶姬的名字不多了",
+        "onboard_time": 1711190600,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 115692,
+        "num": 115692,
+        "word": "张杰给内娱一点小小的震撼",
+        "onboard_time": 1711197020,
+        "rank": 13,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 113119,
+        "num": 113119,
+        "word": "难哄要官宣了",
+        "onboard_time": 1711203021,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 110831,
+        "num": 110831,
+        "word": "纪凌尘emo了",
+        "onboard_time": 1711209920,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 109048,
+        "num": 109048,
+        "word": "赵露思澳门活动造型",
+        "onboard_time": 1711194201,
+        "rank": 16,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 96845,
+        "num": 96845,
+        "word": "普京宣布24日为俄罗斯全民哀悼日",
+        "onboard_time": 1711200021,
+        "rank": 17,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 93567,
+        "num": 93567,
+        "word": "俄恐袭嫌疑人称有人出100万卢布买凶",
+        "onboard_time": 1711193660,
+        "rank": 18,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 84199,
+        "num": 84199,
+        "word": "莫斯科恐袭嫌疑人被捕现场",
+        "onboard_time": 1711197139,
+        "rank": 19,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 163304,
+        "num": 82680,
+        "word": "90后女孩存下100万后买了房",
+        "onboard_time": 1711213217,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 103383,
+        "num": 82207,
+        "word": "郑合惠子回复粉丝",
+        "onboard_time": 1711203982,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 81059,
+        "num": 81059,
+        "word": "如何区分自己长相是普通还是丑",
+        "onboard_time": 1711197499,
+        "rank": 22,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 76353,
+        "num": 76353,
+        "word": "杨幂发现自己五狐临门了",
+        "onboard_time": 1711216874,
+        "rank": 23,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 72263,
+        "num": 72263,
+        "word": "我妈 你不结婚老了以后谁照顾你",
+        "onboard_time": 1711198701,
+        "rank": 24,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 71098,
+        "num": 71098,
+        "word": "眼泪女王",
+        "onboard_time": 1711200981,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 68453,
+        "num": 68453,
+        "word": "邓超在春晚还是太收敛了",
+        "onboard_time": 1711204522,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 65268,
+        "num": 65268,
+        "word": "吃出这些味道说明你过敏了",
+        "onboard_time": 1711195220,
+        "rank": 27,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 60106,
+        "num": 60106,
+        "word": "王室专家称凯特因孩子推迟公布患癌",
+        "onboard_time": 1711194080,
+        "rank": 28,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 57790,
+        "num": 57790,
+        "word": "南北",
+        "onboard_time": 1711201761,
+        "rank": 29,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 56146,
+        "num": 56146,
+        "word": "医生提醒千万不要这样缓解压力",
+        "onboard_time": 1711194619,
+        "rank": 30,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 55172,
+        "num": 55172,
+        "word": "俄遭袭音乐厅废墟中发现多具遗体",
+        "onboard_time": 1711202121,
+        "rank": 31,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 53993,
+        "num": 53993,
+        "word": "billkin演唱会",
+        "onboard_time": 1711213996,
+        "rank": 32,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 51099,
+        "num": 51099,
+        "word": "郝蕾说看纪凌尘演戏太难受了",
+        "onboard_time": 1711200381,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 48573,
+        "num": 48573,
+        "word": "邻居WiFi名字是想来我们家玩",
+        "onboard_time": 1711201580,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 47802,
+        "num": 47802,
+        "word": "卡琳娜 全知读者视角",
+        "onboard_time": 1711191200,
+        "rank": 35,
+        "category": "动漫,网红"
+      },
+      {
+        "raw_hot": 47553,
+        "num": 47553,
+        "word": "俄罗斯已进入战争状态",
+        "onboard_time": 1711155619,
+        "rank": 36,
+        "category": "国外时政,军事"
+      },
+      {
+        "raw_hot": 44628,
+        "num": 44628,
+        "word": "与凤行直播",
+        "onboard_time": 1711199300,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 42738,
+        "num": 42738,
+        "word": "南航大学回应学生与教授发生关系",
+        "onboard_time": 1711176439,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 39997,
+        "num": 39997,
+        "word": "普京就恐怖袭击事件发表电视讲话",
+        "onboard_time": 1711198701,
+        "rank": 39,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 37612,
+        "num": 37612,
+        "word": "OMG对战iG",
+        "onboard_time": 1711218433,
+        "rank": 40,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 37363,
+        "num": 37363,
+        "word": "王力宏常州音乐节",
+        "onboard_time": 1711208420,
+        "rank": 41,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 35461,
+        "num": 35461,
+        "word": "脚部出现5种情况或预示某些疾病",
+        "onboard_time": 1711205901,
+        "rank": 42,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 33557,
+        "num": 33557,
+        "word": "李沁哭戏面部肌肉颤抖",
+        "onboard_time": 1711206261,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 33410,
+        "num": 33410,
+        "word": "眼泪女王亲了",
+        "onboard_time": 1711204102,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 32969,
+        "num": 32969,
+        "word": "鞠婧祎废土风",
+        "onboard_time": 1711204882,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 32881,
+        "num": 32881,
+        "word": "我们仨",
+        "onboard_time": 1711205121,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 32320,
+        "num": 32320,
+        "word": "林俊杰开大G",
+        "onboard_time": 1711196060,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 29681,
+        "num": 29681,
+        "word": "喜茶回应周边被倒卖",
+        "onboard_time": 1711206920,
+        "rank": 48,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 29403,
+        "num": 29403,
+        "word": "花间令 亲吧你俩就亲吧",
+        "onboard_time": 1711204581,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#新时代治水兴水总书记这样擘画#"
+    }
+  }
+}

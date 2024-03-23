@@ -1,6 +1,6 @@
 {
   "startTime": 1709223640991,
-  "endTime": 1711217993040,
+  "endTime": 1711218866516,
   "band_list": [
     {
       "raw_hot": 12728050,
@@ -62531,6 +62531,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 76353,
+      "num": 76353,
+      "word": "杨幂发现自己五狐临门了",
+      "onboard_time": 1711216874,
+      "rank": 27,
+      "category": "电影"
+    },
+    {
       "raw_hot": 76262,
       "num": 76350,
       "word": "刘家祎的青春感",
@@ -62625,14 +62633,6 @@
       "onboard_time": 1710680555,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 74498,
-      "num": 74498,
-      "word": "杨幂发现自己五狐临门了",
-      "onboard_time": 1711216874,
-      "rank": 27,
-      "category": "电影"
     },
     {
       "raw_hot": 74409,
@@ -64809,6 +64809,14 @@
       "onboard_time": 1711148473,
       "rank": 46,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 37612,
+      "num": 37612,
+      "word": "OMG对战iG",
+      "onboard_time": 1711218433,
+      "rank": 40,
+      "category": "电竞"
     },
     {
       "raw_hot": 37391,

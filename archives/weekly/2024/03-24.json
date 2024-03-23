@@ -1,6 +1,6 @@
 {
   "startTime": 1711210803824,
-  "endTime": 1711217993040,
+  "endTime": 1711218866516,
   "band_list": [
     {
       "raw_hot": 1764453,
@@ -427,12 +427,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 74498,
-      "num": 74498,
+      "raw_hot": 76353,
+      "num": 76353,
       "word": "杨幂发现自己五狐临门了",
       "onboard_time": 1711216874,
       "rank": 27,
       "category": "电影"
+    },
+    {
+      "raw_hot": 37612,
+      "num": 37612,
+      "word": "OMG对战iG",
+      "onboard_time": 1711218433,
+      "rank": 40,
+      "category": "电竞"
     },
     {
       "raw_hot": 33945,
