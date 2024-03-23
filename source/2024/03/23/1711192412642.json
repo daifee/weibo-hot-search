@@ -1,0 +1,410 @@
+{
+  "runTime": 1711192412642,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1727893,
+        "num": 1727893,
+        "word": "莫斯科恐袭已致115人死亡",
+        "onboard_time": 1711188320,
+        "rank": 0,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 1531555,
+        "num": 1531555,
+        "word": "俄罗斯已进入战争状态",
+        "onboard_time": 1711155619,
+        "rank": 1,
+        "category": "国外时政,军事"
+      },
+      {
+        "raw_hot": 108915,
+        "num": 1154110,
+        "word": "春耕这件事中国人有多认真",
+        "onboard_time": 1711180759,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1630769,
+        "num": 1029670,
+        "word": "整治内娱的综艺来了",
+        "onboard_time": 1711188799,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 2254343,
+        "num": 993963,
+        "word": "茶王吧唧",
+        "onboard_time": 1711185738,
+        "rank": 4,
+        "category": "艺人,美食"
+      },
+      {
+        "raw_hot": 821501,
+        "num": 821501,
+        "word": "小女孩拒绝了成毅的抱抱",
+        "onboard_time": 1711190299,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 873677,
+        "num": 818566,
+        "word": "夏之光 霸王茶姬",
+        "onboard_time": 1711182859,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 767446,
+        "num": 767446,
+        "word": "宫崎骏 死了就看不到日落了",
+        "onboard_time": 1711186880,
+        "rank": 7,
+        "category": "电影,动漫"
+      },
+      {
+        "raw_hot": 172415,
+        "num": 698801,
+        "word": "交警处罚当事人后自费买下6份早饭",
+        "onboard_time": 1711187419,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 484839,
+        "num": 684621,
+        "word": "爷爷馋幼儿园肉包子孙女当真带回",
+        "onboard_time": 1711187419,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 674237,
+        "num": 674237,
+        "word": "南航大学涉事师生已报警",
+        "onboard_time": 1711185859,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 668047,
+        "num": 668047,
+        "word": "莫斯科恐袭事件11人被捕",
+        "onboard_time": 1711182259,
+        "rank": 11,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 606651,
+        "num": 606651,
+        "word": "留给霸王茶姬的名字不多了",
+        "onboard_time": 1711190600,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 603517,
+        "num": 603517,
+        "word": "苹果高管一家四口被撞身亡",
+        "onboard_time": 1711182859,
+        "rank": 13,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 12316,
+        "num": 578904,
+        "word": "蛋仔派对皮蛋节前瞻直播",
+        "onboard_time": 1711191620,
+        "rank": 14,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 557879,
+        "num": 557879,
+        "word": "夏之光回应茶王吧唧",
+        "onboard_time": 1711188741,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 540985,
+        "num": 540985,
+        "word": "杨幂小水晚宴合照",
+        "onboard_time": 1711183219,
+        "rank": 16,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 495228,
+        "num": 495228,
+        "word": "南航大学回应学生与教授发生关系",
+        "onboard_time": 1711176439,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 468398,
+        "num": 468398,
+        "word": "新版微信朋友圈都是短线",
+        "onboard_time": 1711178120,
+        "rank": 18,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 345430,
+        "num": 345430,
+        "word": "鹿晗腹肌没了",
+        "onboard_time": 1711180399,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 328400,
+        "num": 328400,
+        "word": "戴比尔斯晚宴",
+        "onboard_time": 1711191499,
+        "rank": 20,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 319183,
+        "num": 319183,
+        "word": "成毅骨相",
+        "onboard_time": 1711191380,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 309945,
+        "num": 309945,
+        "word": "D社把IU照片发到边伯贤超话",
+        "onboard_time": 1711182139,
+        "rank": 22,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 303082,
+        "num": 303082,
+        "word": "29岁女子怀孕隔天男友提分手",
+        "onboard_time": 1711164439,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 294067,
+        "num": 294067,
+        "word": "我逛两元店都不敢这样买",
+        "onboard_time": 1711189340,
+        "rank": 24,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 284082,
+        "num": 284082,
+        "word": "SEVENTEEN完整体视频",
+        "onboard_time": 1711190181,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 241986,
+        "num": 241986,
+        "word": "长期睡前玩手机会付出什么代价",
+        "onboard_time": 1711180159,
+        "rank": 26,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 231312,
+        "num": 231312,
+        "word": "isis",
+        "onboard_time": 1711178057,
+        "rank": 27,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 220066,
+        "num": 220066,
+        "word": "莫斯科音乐厅厕所发现超10具尸体",
+        "onboard_time": 1711157960,
+        "rank": 28,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 200698,
+        "num": 200698,
+        "word": "夏之光脸颊痣",
+        "onboard_time": 1711191919,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 424838,
+        "num": 198851,
+        "word": "卡琳娜 全知读者视角",
+        "onboard_time": 1711191200,
+        "rank": 30,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 192016,
+        "num": 192016,
+        "word": "俄联邦安全局称嫌犯计划逃往乌克兰",
+        "onboard_time": 1711188080,
+        "rank": 31,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 191237,
+        "num": 191237,
+        "word": "外交部回应俄发生严重恐怖袭击",
+        "onboard_time": 1711185319,
+        "rank": 32,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 189759,
+        "num": 189759,
+        "word": "莫斯科恐袭",
+        "onboard_time": 1711172238,
+        "rank": 33,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 183599,
+        "num": 183599,
+        "word": "无限超越班",
+        "onboard_time": 1711191740,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 175053,
+        "num": 175053,
+        "word": "无畏 万物皆可游走",
+        "onboard_time": 1711192039,
+        "rank": 35,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 170726,
+        "num": 170726,
+        "word": "雷军称参与小米SU7路面实测10多次",
+        "onboard_time": 1711186937,
+        "rank": 36,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 166239,
+        "num": 166239,
+        "word": "港男是不是离不开发油",
+        "onboard_time": 1711188080,
+        "rank": 37,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 166009,
+        "num": 166009,
+        "word": "突然意识到自己对手机很依赖",
+        "onboard_time": 1711189220,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 163817,
+        "num": 163817,
+        "word": "LNG晋级春季赛季后赛",
+        "onboard_time": 1711191859,
+        "rank": 39,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 155724,
+        "num": 155724,
+        "word": "俄媒称恐袭事件4名嫌疑人身份确定",
+        "onboard_time": 1711192099,
+        "rank": 40,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 155483,
+        "num": 155483,
+        "word": "吴磊说杭州分磊普法时比自己帅多了",
+        "onboard_time": 1711191679,
+        "rank": 41,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 146774,
+        "num": 146774,
+        "word": "英国凯特王妃患癌症",
+        "onboard_time": 1711149195,
+        "rank": 42,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 146339,
+        "num": 146339,
+        "word": "王楚钦新加坡男单冠军之路",
+        "onboard_time": 1711190600,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 137968,
+        "num": 137968,
+        "word": "和少数群体平等相处是一种能力",
+        "onboard_time": 1711191200,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 137089,
+        "num": 137089,
+        "word": "少年法庭",
+        "onboard_time": 1711173437,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 126691,
+        "num": 126691,
+        "word": "Angel确定进入季后赛",
+        "onboard_time": 1711189881,
+        "rank": 46,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 121183,
+        "num": 121183,
+        "word": "周杰伦演唱会抢票",
+        "onboard_time": 1711179259,
+        "rank": 47,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 116326,
+        "num": 116326,
+        "word": "2种症状提醒你压力过大了",
+        "onboard_time": 1711183100,
+        "rank": 48,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 115924,
+        "num": 115924,
+        "word": "王者荣耀 阴阳师",
+        "onboard_time": 1711163480,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记这趟行程一个重要关键词是新#"
+    }
+  }
+}
