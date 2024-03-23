@@ -1,6 +1,6 @@
 {
   "startTime": 1709223640991,
-  "endTime": 1711222451385,
+  "endTime": 1711225063370,
   "band_list": [
     {
       "raw_hot": 12728050,
@@ -63851,6 +63851,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 54763,
+      "num": 50053,
+      "word": "小户型为什么不香了",
+      "onboard_time": 1711220771,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 54438,
       "num": 54438,
       "word": "身体5个表现可能是肝病了",
@@ -64161,14 +64169,6 @@
       "onboard_time": 1711052651,
       "rank": 30,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 50053,
-      "num": 50053,
-      "word": "小户型为什么不香了",
-      "onboard_time": 1711220771,
-      "rank": 45,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 49910,
