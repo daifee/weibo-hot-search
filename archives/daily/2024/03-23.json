@@ -1,6 +1,6 @@
 {
   "startTime": 1711124556378,
-  "endTime": 1711175140654,
+  "endTime": 1711175881406,
   "band_list": [
     {
       "raw_hot": 10611140,
@@ -243,6 +243,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 682907,
+      "num": 386619,
+      "word": "莫斯科母婴室发现遇难者",
+      "onboard_time": 1711173379,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 658355,
       "num": 658355,
       "word": "俄罗斯",
@@ -315,6 +323,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 569617,
+      "num": 386378,
+      "word": "胡锡进称俄罗斯面临严峻形势",
+      "onboard_time": 1711170740,
+      "rank": 35,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 517519,
       "num": 393526,
       "word": "微信官方回应朋友圈横线问题",
@@ -323,28 +339,12 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 517018,
-      "num": 375222,
-      "word": "胡锡进称俄罗斯面临严峻形势",
-      "onboard_time": 1711170740,
-      "rank": 35,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 511567,
       "num": 438842,
       "word": "俄驻华使馆发微博",
       "onboard_time": 1711159101,
       "rank": 40,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 508602,
-      "num": 374698,
-      "word": "莫斯科母婴室发现遇难者",
-      "onboard_time": 1711173379,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 504899,
@@ -388,7 +388,7 @@
     },
     {
       "raw_hot": 481965,
-      "num": 374310,
+      "num": 450406,
       "word": "鹿晗宝石老舅王勉被范志毅偷家",
       "onboard_time": 1711173859,
       "rank": 15,
@@ -435,6 +435,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 437759,
+      "num": 386203,
+      "word": "少年法庭",
+      "onboard_time": 1711173437,
+      "rank": 19,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 432904,
       "num": 432904,
       "word": "地铁被诬偷拍案二审庭前3次调解失败",
@@ -444,7 +452,7 @@
     },
     {
       "raw_hot": 429352,
-      "num": 373765,
+      "num": 386197,
       "word": "俄恐袭中1人带受伤同伴绕柱躲过射杀",
       "onboard_time": 1711172059,
       "rank": 16,
@@ -475,6 +483,22 @@
       "category": "情感"
     },
     {
+      "raw_hot": 386843,
+      "num": 386843,
+      "word": "水哥 鬼才之眼",
+      "onboard_time": 1711173678,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 386095,
+      "num": 386095,
+      "word": "蒋欣角色 得不到的爱",
+      "onboard_time": 1711171879,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 379974,
       "num": 379974,
       "word": "1名莫斯科恐袭案枪手被捕",
@@ -489,14 +513,6 @@
       "onboard_time": 1711154059,
       "rank": 20,
       "category": "情感"
-    },
-    {
-      "raw_hot": 372764,
-      "num": 372764,
-      "word": "水哥 鬼才之眼",
-      "onboard_time": 1711173678,
-      "rank": 18,
-      "category": "综艺"
     },
     {
       "raw_hot": 372081,
@@ -523,14 +539,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 366767,
-      "num": 366767,
-      "word": "少年法庭",
-      "onboard_time": 1711173437,
-      "rank": 19,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 365688,
       "num": 365688,
       "word": "赵丽颖工作室辟谣出演咸雪",
@@ -545,14 +553,6 @@
       "onboard_time": 1711107498,
       "rank": 12,
       "category": "美食"
-    },
-    {
-      "raw_hot": 359631,
-      "num": 359631,
-      "word": "蒋欣角色 得不到的爱",
-      "onboard_time": 1711171879,
-      "rank": 37,
-      "category": "剧集"
     },
     {
       "raw_hot": 357697,
@@ -731,6 +731,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 278451,
+      "num": 278451,
+      "word": "凯特王妃",
+      "onboard_time": 1711174218,
+      "rank": 30,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 270430,
       "num": 270430,
       "word": "莫斯科恐袭亲历者装死自救",
@@ -793,6 +801,14 @@
       "onboard_time": 1711116079,
       "rank": 15,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 249602,
+      "num": 249602,
+      "word": "李白 大司命",
+      "onboard_time": 1711174636,
+      "rank": 38,
+      "category": "游戏"
     },
     {
       "raw_hot": 248484,
@@ -923,14 +939,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 214352,
-      "num": 214352,
-      "word": "凯特王妃",
-      "onboard_time": 1711174218,
-      "rank": 30,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 213907,
       "num": 213907,
       "word": "与凤行 相亲对象真香",
@@ -944,6 +952,14 @@
       "word": "驻俄使馆称暂无涉中国公民伤亡报告",
       "onboard_time": 1711163182,
       "rank": 33,
+      "category": "国外时政"
+    },
+    {
+      "raw_hot": 211780,
+      "num": 211780,
+      "word": "俄媒称现场3名枪手开枪扫射人群",
+      "onboard_time": 1711174158,
+      "rank": 31,
       "category": "国外时政"
     },
     {
@@ -971,6 +987,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 208703,
+      "num": 208703,
+      "word": "鹿晗被NPC表白",
+      "onboard_time": 1711175599,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 207496,
       "num": 207496,
       "word": "曾黎赵丽颖与凤行对笑镜头",
@@ -993,14 +1017,6 @@
       "onboard_time": 1711111639,
       "rank": 19,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 205129,
-      "num": 205129,
-      "word": "俄媒称现场3名枪手开枪扫射人群",
-      "onboard_time": 1711174158,
-      "rank": 31,
-      "category": "国外时政"
     },
     {
       "raw_hot": 203871,
@@ -1089,6 +1105,14 @@
       "onboard_time": 1711096818,
       "rank": 21,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 193368,
+      "num": 193368,
+      "word": "莫斯科恐袭3名儿童遇难",
+      "onboard_time": 1711175358,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 191302,
@@ -1193,14 +1217,6 @@
       "onboard_time": 1711173798,
       "rank": 37,
       "category": "体育"
-    },
-    {
-      "raw_hot": 168548,
-      "num": 168548,
-      "word": "李白 大司命",
-      "onboard_time": 1711174636,
-      "rank": 38,
-      "category": "游戏"
     },
     {
       "raw_hot": 166520,
@@ -1361,6 +1377,14 @@
       "onboard_time": 1711121120,
       "rank": 32,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 127903,
+      "num": 127903,
+      "word": "什么是防御性化疗",
+      "onboard_time": 1711175238,
+      "rank": 44,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 126946,
