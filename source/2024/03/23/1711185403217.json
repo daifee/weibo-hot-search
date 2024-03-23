@@ -1,0 +1,410 @@
+{
+  "runTime": 1711185403217,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2681569,
+        "num": 2681569,
+        "word": "夏之光 霸王茶姬",
+        "onboard_time": 1711182859,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1951653,
+        "num": 1951653,
+        "word": "俄罗斯已进入战争状态",
+        "onboard_time": 1711155619,
+        "rank": 1,
+        "category": "国外时政,军事"
+      },
+      {
+        "raw_hot": 60752,
+        "num": 1711476,
+        "word": "春耕这件事中国人有多认真",
+        "onboard_time": 1711180759,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1583619,
+        "num": 1583619,
+        "word": "莫斯科恐袭事件11人被捕",
+        "onboard_time": 1711182259,
+        "rank": 3,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 1473959,
+        "num": 1473959,
+        "word": "莫斯科恐袭93人死亡",
+        "onboard_time": 1711182619,
+        "rank": 4,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 1207309,
+        "num": 1207309,
+        "word": "新版微信朋友圈都是短线",
+        "onboard_time": 1711178120,
+        "rank": 5,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 963917,
+        "num": 963917,
+        "word": "鹿晗腹肌没了",
+        "onboard_time": 1711180399,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 827128,
+        "num": 827128,
+        "word": "杨幂小水晚宴合照",
+        "onboard_time": 1711183219,
+        "rank": 7,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 784006,
+        "num": 784006,
+        "word": "南航大学回应学生与教授发生关系",
+        "onboard_time": 1711176439,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 619893,
+        "num": 619893,
+        "word": "D社把IU照片发到边伯贤超话",
+        "onboard_time": 1711182139,
+        "rank": 9,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 920445,
+        "num": 614711,
+        "word": "isis",
+        "onboard_time": 1711178057,
+        "rank": 10,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 885512,
+        "num": 534204,
+        "word": "苹果高管一家四口被撞身亡",
+        "onboard_time": 1711182859,
+        "rank": 11,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 403311,
+        "num": 403311,
+        "word": "凯特王妃宣布患癌视频录制于3天前",
+        "onboard_time": 1711163722,
+        "rank": 12,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 396580,
+        "num": 396580,
+        "word": "吴磊浙江警察学院路演",
+        "onboard_time": 1711179139,
+        "rank": 13,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 320891,
+        "num": 320891,
+        "word": "黄子韬回应和徐艺洋吃饭被拍",
+        "onboard_time": 1711159101,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 318097,
+        "num": 318097,
+        "word": "莫斯科献血点排起长队",
+        "onboard_time": 1711180038,
+        "rank": 15,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 297167,
+        "num": 297167,
+        "word": "莫斯科音乐厅厕所发现超10具尸体",
+        "onboard_time": 1711157960,
+        "rank": 16,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 292986,
+        "num": 292986,
+        "word": "种地吧",
+        "onboard_time": 1711184959,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 272117,
+        "num": 272117,
+        "word": "周杰伦演唱会抢票",
+        "onboard_time": 1711179259,
+        "rank": 18,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 265274,
+        "num": 265274,
+        "word": "莫斯科母婴室发现遇难者",
+        "onboard_time": 1711173379,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 525236,
+        "num": 263826,
+        "word": "长期睡前玩手机会付出什么代价",
+        "onboard_time": 1711180159,
+        "rank": 20,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 466590,
+        "num": 262678,
+        "word": "29岁女子怀孕隔天男友提分手",
+        "onboard_time": 1711164439,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 260710,
+        "num": 260710,
+        "word": "王俊凯看到哥哥我怕的反应",
+        "onboard_time": 1711181659,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 257091,
+        "num": 257091,
+        "word": "叶蓁蓁 22楼所有人的后盾",
+        "onboard_time": 1711177519,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 233536,
+        "num": 233536,
+        "word": "都选C的试卷终于出现了",
+        "onboard_time": 1711168221,
+        "rank": 24,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 231390,
+        "num": 231390,
+        "word": "发现我网购的桌子融化了",
+        "onboard_time": 1711179799,
+        "rank": 25,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 218090,
+        "num": 218090,
+        "word": "少年法庭",
+        "onboard_time": 1711173437,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 210126,
+        "num": 210126,
+        "word": "李白 大司命",
+        "onboard_time": 1711174636,
+        "rank": 27,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 210037,
+        "num": 210037,
+        "word": "莫斯科恐袭",
+        "onboard_time": 1711172238,
+        "rank": 28,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 203612,
+        "num": 203612,
+        "word": "RNGM2比0Hero",
+        "onboard_time": 1711184419,
+        "rank": 29,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 200951,
+        "num": 200951,
+        "word": "夏目友人帐第七季",
+        "onboard_time": 1711184360,
+        "rank": 30,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 199973,
+        "num": 199973,
+        "word": "2种症状提醒你压力过大了",
+        "onboard_time": 1711183100,
+        "rank": 31,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 194093,
+        "num": 194093,
+        "word": "魏大勋东北男友",
+        "onboard_time": 1711184240,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 185216,
+        "num": 185216,
+        "word": "难怪郭碧婷说向佐工作严厉",
+        "onboard_time": 1711178658,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 182428,
+        "num": 182428,
+        "word": "外交部回应俄发生严重恐怖袭击",
+        "onboard_time": 1711185319,
+        "rank": 34,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 178414,
+        "num": 178414,
+        "word": "王者荣耀 阴阳师",
+        "onboard_time": 1711163480,
+        "rank": 35,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 172083,
+        "num": 172083,
+        "word": "盒子里的猫",
+        "onboard_time": 1711176198,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 167158,
+        "num": 167158,
+        "word": "2023全国十大考古新发现",
+        "onboard_time": 1711180878,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 160112,
+        "num": 160112,
+        "word": "C型性格的人患癌风险高3倍",
+        "onboard_time": 1711181419,
+        "rank": 38,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 154519,
+        "num": 154519,
+        "word": "塔吉克斯坦否认莫斯科州恐袭嫌疑人为塔公民",
+        "onboard_time": 1711180819,
+        "rank": 39,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 148902,
+        "num": 148902,
+        "word": "亲笔签名的严重性",
+        "onboard_time": 1711182978,
+        "rank": 40,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 148582,
+        "num": 148582,
+        "word": "水哥 鬼才之眼",
+        "onboard_time": 1711173678,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 146601,
+        "num": 146601,
+        "word": "胡锡进称俄罗斯面临严峻形势",
+        "onboard_time": 1711170740,
+        "rank": 42,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 145536,
+        "num": 145536,
+        "word": "TST庭秘密开店65天销量仅3件",
+        "onboard_time": 1711181659,
+        "rank": 43,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 143669,
+        "num": 143669,
+        "word": "张予曦湿发",
+        "onboard_time": 1711185019,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 142878,
+        "num": 142878,
+        "word": "迪丽热巴宣传为地球献出一小时",
+        "onboard_time": 1711176499,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 140560,
+        "num": 140560,
+        "word": "平台回应抢周杰伦演唱会门票要充488元",
+        "onboard_time": 1711183939,
+        "rank": 46,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 136096,
+        "num": 136096,
+        "word": "英国凯特王妃患癌症",
+        "onboard_time": 1711149195,
+        "rank": 47,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 134513,
+        "num": 134513,
+        "word": "吴磊手势暗号",
+        "onboard_time": 1711182079,
+        "rank": 48,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 134374,
+        "num": 134374,
+        "word": "花少好友记嘉宾",
+        "onboard_time": 1711177698,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记这趟行程一个重要关键词是新#"
+    }
+  }
+}

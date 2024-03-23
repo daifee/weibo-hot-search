@@ -1,6 +1,6 @@
 {
   "startTime": 1709223640991,
-  "endTime": 1711182860272,
+  "endTime": 1711185403217,
   "band_list": [
     {
       "raw_hot": 12728050,
@@ -433,6 +433,14 @@
       "onboard_time": 1710682657,
       "rank": 1,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 2681569,
+      "num": 2681569,
+      "word": "夏之光 霸王茶姬",
+      "onboard_time": 1711182859,
+      "rank": 0,
+      "category": "艺人"
     },
     {
       "raw_hot": 2672943,
@@ -1540,7 +1548,7 @@
     },
     {
       "raw_hot": 1777556,
-      "num": 472228,
+      "num": 614711,
       "word": "isis",
       "onboard_time": 1711178057,
       "rank": 48,
@@ -2051,6 +2059,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1583619,
+      "num": 1583619,
+      "word": "莫斯科恐袭事件11人被捕",
+      "onboard_time": 1711182259,
+      "rank": 6,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 1580225,
       "num": 1580225,
       "word": "外卖黑勺是最脏的",
@@ -2393,6 +2409,14 @@
       "onboard_time": 1709441610,
       "rank": 4,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1473959,
+      "num": 1473959,
+      "word": "莫斯科恐袭93人死亡",
+      "onboard_time": 1711182619,
+      "rank": 24,
+      "category": "国外时政"
     },
     {
       "raw_hot": 1473769,
@@ -6403,6 +6427,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 885512,
+      "num": 534204,
+      "word": "苹果高管一家四口被撞身亡",
+      "onboard_time": 1711182859,
+      "rank": 11,
+      "category": "数码"
+    },
+    {
       "raw_hot": 883745,
       "num": 521941,
       "word": "高中生在学校厕所内遭多人殴打",
@@ -7113,6 +7145,14 @@
       "onboard_time": 1709994454,
       "rank": 38,
       "category": "数码"
+    },
+    {
+      "raw_hot": 827128,
+      "num": 827128,
+      "word": "杨幂小水晚宴合照",
+      "onboard_time": 1711183219,
+      "rank": 7,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 827079,
@@ -8049,14 +8089,6 @@
       "onboard_time": 1710241233,
       "rank": 16,
       "category": "网红"
-    },
-    {
-      "raw_hot": 763804,
-      "num": 763804,
-      "word": "莫斯科恐袭事件11人被捕",
-      "onboard_time": 1711182259,
-      "rank": 6,
-      "category": "国外时政"
     },
     {
       "raw_hot": 763339,
@@ -11131,6 +11163,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 619893,
+      "num": 619893,
+      "word": "D社把IU照片发到边伯贤超话",
+      "onboard_time": 1711182139,
+      "rank": 13,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 619861,
       "num": 619861,
       "word": "大笨狗 抓错狗了",
@@ -13995,6 +14035,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 525236,
+      "num": 319734,
+      "word": "长期睡前玩手机会付出什么代价",
+      "onboard_time": 1711180159,
+      "rank": 21,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 525194,
       "num": 525194,
       "word": "林高远世界排名升至第4",
@@ -15721,14 +15769,6 @@
       "onboard_time": 1711014258,
       "rank": 20,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 477454,
-      "num": 319734,
-      "word": "长期睡前玩手机会付出什么代价",
-      "onboard_time": 1711180159,
-      "rank": 21,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 477435,
@@ -18057,14 +18097,6 @@
       "onboard_time": 1709610810,
       "rank": 16,
       "category": "电影"
-    },
-    {
-      "raw_hot": 423900,
-      "num": 423900,
-      "word": "D社把IU照片发到边伯贤超话",
-      "onboard_time": 1711182139,
-      "rank": 13,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 423360,
@@ -25467,6 +25499,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 292986,
+      "num": 292986,
+      "word": "种地吧",
+      "onboard_time": 1709295513,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 292978,
       "num": 292978,
       "word": "逆水寒手游超话开分2.2",
@@ -27985,14 +28025,6 @@
       "onboard_time": 1709684316,
       "rank": 26,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 262573,
-      "num": 262573,
-      "word": "莫斯科恐袭93人死亡",
-      "onboard_time": 1711182619,
-      "rank": 24,
-      "category": "国外时政"
     },
     {
       "raw_hot": 262542,
@@ -34483,14 +34515,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 212188,
-      "num": 282026,
-      "word": "种地吧",
-      "onboard_time": 1709295513,
-      "rank": 33,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 212172,
       "num": 212172,
       "word": "官方澄清燕郊爆燃事故和炸鸡店无关",
@@ -36243,6 +36267,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 203612,
+      "num": 203612,
+      "word": "RNGM2比0Hero",
+      "onboard_time": 1711184419,
+      "rank": 29,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 203534,
       "num": 203534,
       "word": "VG首次进入S组",
@@ -36899,6 +36931,14 @@
       "category": "财经,汽车"
     },
     {
+      "raw_hot": 200951,
+      "num": 200951,
+      "word": "夏目友人帐第七季",
+      "onboard_time": 1711184360,
+      "rank": 30,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 200939,
       "num": 200939,
       "word": "你认为开车最有用的配置是什么",
@@ -37137,6 +37177,14 @@
       "onboard_time": 1709971110,
       "rank": 29,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 199973,
+      "num": 199973,
+      "word": "2种症状提醒你压力过大了",
+      "onboard_time": 1711183100,
+      "rank": 31,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 199965,
@@ -38729,6 +38777,14 @@
       "onboard_time": 1710212850,
       "rank": 32,
       "category": "电影"
+    },
+    {
+      "raw_hot": 194093,
+      "num": 194093,
+      "word": "魏大勋东北男友",
+      "onboard_time": 1711184240,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 194091,
@@ -41425,6 +41481,14 @@
       "onboard_time": 1709472692,
       "rank": 34,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 182428,
+      "num": 182428,
+      "word": "外交部回应俄发生严重恐怖袭击",
+      "onboard_time": 1711185319,
+      "rank": 34,
+      "category": "国内时政"
     },
     {
       "raw_hot": 182394,
@@ -46651,6 +46715,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 160112,
+      "num": 160112,
+      "word": "C型性格的人患癌风险高3倍",
+      "onboard_time": 1711181419,
+      "rank": 40,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 160090,
       "num": 134511,
       "word": "林一偶像剧存货",
@@ -49443,14 +49515,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 149986,
-      "num": 149986,
-      "word": "C型性格的人患癌风险高3倍",
-      "onboard_time": 1711181419,
-      "rank": 40,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 149910,
       "num": 149910,
       "word": "原来充电宝看的是额定容量",
@@ -49713,6 +49777,14 @@
       "onboard_time": 1710327694,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 148902,
+      "num": 148902,
+      "word": "亲笔签名的严重性",
+      "onboard_time": 1711182978,
+      "rank": 40,
+      "category": "情感"
     },
     {
       "raw_hot": 148880,
@@ -51027,6 +51099,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 143669,
+      "num": 143669,
+      "word": "张予曦湿发",
+      "onboard_time": 1711185019,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 143666,
       "num": 143666,
       "word": "打工和创业的区别有多大",
@@ -51809,6 +51889,14 @@
       "onboard_time": 1710658832,
       "rank": 39,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 140560,
+      "num": 140560,
+      "word": "平台回应抢周杰伦演唱会门票要充488元",
+      "onboard_time": 1711183939,
+      "rank": 46,
+      "category": "演出"
     },
     {
       "raw_hot": 140559,
@@ -62337,6 +62425,14 @@
       "onboard_time": 1710458125,
       "rank": 48,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 60752,
+      "num": 1711476,
+      "word": "春耕这件事中国人有多认真",
+      "onboard_time": 1711180759,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 60707,
