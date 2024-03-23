@@ -1,6 +1,6 @@
 {
   "startTime": 1711210803824,
-  "endTime": 1711221220116,
+  "endTime": 1711222451385,
   "band_list": [
     {
       "raw_hot": 1764453,
@@ -443,12 +443,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 49771,
-      "num": 49771,
+      "raw_hot": 67921,
+      "num": 67921,
       "word": "珠帘玉幕 磨皮",
       "onboard_time": 1711220052,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 50053,
+      "num": 50053,
+      "word": "小户型为什么不香了",
+      "onboard_time": 1711220771,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 37612,
@@ -467,12 +475,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 24835,
-      "num": 24835,
-      "word": "小户型为什么不香了",
-      "onboard_time": 1711220771,
-      "rank": 45,
-      "category": "社会新闻"
+      "raw_hot": 26835,
+      "num": 26835,
+      "word": "陈楚生苏州演唱会",
+      "onboard_time": 1711221792,
+      "rank": 41,
+      "category": "演出"
     },
     {
       "raw_hot": 23758,
@@ -480,6 +488,14 @@
       "word": "追风者",
       "onboard_time": 1711203262,
       "rank": 48,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 23245,
+      "num": 23245,
+      "word": "与凤行播放量破5亿",
+      "onboard_time": 1711221792,
+      "rank": 45,
       "category": "剧集"
     }
   ],
