@@ -1,0 +1,410 @@
+{
+  "runTime": 1711190040173,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2422720,
+        "num": 2422720,
+        "word": "茶王吧唧",
+        "onboard_time": 1711185738,
+        "rank": 0,
+        "category": "艺人,美食"
+      },
+      {
+        "raw_hot": 1809188,
+        "num": 1809188,
+        "word": "俄罗斯已进入战争状态",
+        "onboard_time": 1711155619,
+        "rank": 1,
+        "category": "国外时政,军事"
+      },
+      {
+        "raw_hot": 116654,
+        "num": 1758717,
+        "word": "春耕这件事中国人有多认真",
+        "onboard_time": 1711180759,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1709241,
+        "num": 1709241,
+        "word": "莫斯科恐袭已致115人死亡",
+        "onboard_time": 1711188320,
+        "rank": 3,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 1332441,
+        "num": 1332441,
+        "word": "宫崎骏 死了就看不到日落了",
+        "onboard_time": 1711186880,
+        "rank": 4,
+        "category": "动漫,作品衍生"
+      },
+      {
+        "raw_hot": 1198023,
+        "num": 1198023,
+        "word": "夏之光 霸王茶姬",
+        "onboard_time": 1711182859,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1044030,
+        "num": 1044030,
+        "word": "南航大学涉事师生已报警",
+        "onboard_time": 1711185859,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 763243,
+        "num": 763243,
+        "word": "杨幂小水晚宴合照",
+        "onboard_time": 1711183219,
+        "rank": 7,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 192506,
+        "num": 728686,
+        "word": "交警处罚当事人后自费买下6份早饭",
+        "onboard_time": 1711187419,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 596859,
+        "num": 726429,
+        "word": "爷爷馋幼儿园肉包子孙女当真带回",
+        "onboard_time": 1711187419,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 724538,
+        "num": 724538,
+        "word": "莫斯科恐袭事件11人被捕",
+        "onboard_time": 1711182259,
+        "rank": 10,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 691936,
+        "num": 691936,
+        "word": "新版微信朋友圈都是短线",
+        "onboard_time": 1711178120,
+        "rank": 11,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 666153,
+        "num": 666153,
+        "word": "夏之光回应茶王吧唧",
+        "onboard_time": 1711188741,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 664117,
+        "num": 664117,
+        "word": "苹果高管一家四口被撞身亡",
+        "onboard_time": 1711182859,
+        "rank": 13,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 650679,
+        "num": 650679,
+        "word": "整治内娱的综艺来了",
+        "onboard_time": 1711188799,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 626508,
+        "num": 626508,
+        "word": "南航大学回应学生与教授发生关系",
+        "onboard_time": 1711176439,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 514399,
+        "num": 514399,
+        "word": "鹿晗腹肌没了",
+        "onboard_time": 1711180399,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 427477,
+        "num": 427477,
+        "word": "外交部回应俄发生严重恐怖袭击",
+        "onboard_time": 1711185319,
+        "rank": 17,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 388968,
+        "num": 388968,
+        "word": "D社把IU照片发到边伯贤超话",
+        "onboard_time": 1711182139,
+        "rank": 18,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 379219,
+        "num": 379219,
+        "word": "isis",
+        "onboard_time": 1711178057,
+        "rank": 19,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 335549,
+        "num": 335549,
+        "word": "29岁女子怀孕隔天男友提分手",
+        "onboard_time": 1711164439,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 297283,
+        "num": 297283,
+        "word": "韩警察涉嫌泄露李善均案情报被捕",
+        "onboard_time": 1711187599,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 294019,
+        "num": 294019,
+        "word": "莫斯科音乐厅厕所发现超10具尸体",
+        "onboard_time": 1711157960,
+        "rank": 22,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 279234,
+        "num": 279234,
+        "word": "长期睡前玩手机会付出什么代价",
+        "onboard_time": 1711180159,
+        "rank": 23,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 232527,
+        "num": 232527,
+        "word": "莫斯科恐袭93人死亡",
+        "onboard_time": 1711182619,
+        "rank": 24,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 228827,
+        "num": 228827,
+        "word": "俄联邦安全局称嫌犯计划逃往乌克兰",
+        "onboard_time": 1711188080,
+        "rank": 25,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 226527,
+        "num": 226527,
+        "word": "雷军称参与小米SU7路面实测10多次",
+        "onboard_time": 1711186937,
+        "rank": 26,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 210886,
+        "num": 210886,
+        "word": "少年法庭",
+        "onboard_time": 1711173437,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 210453,
+        "num": 210453,
+        "word": "港男是不是离不开发油",
+        "onboard_time": 1711188080,
+        "rank": 28,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 209126,
+        "num": 209126,
+        "word": "突然意识到自己对手机很依赖",
+        "onboard_time": 1711189220,
+        "rank": 29,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 225052,
+        "num": 208164,
+        "word": "我逛两元店都不敢这样买",
+        "onboard_time": 1711189340,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 198696,
+        "num": 198696,
+        "word": "莫斯科恐袭",
+        "onboard_time": 1711172238,
+        "rank": 31,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 179914,
+        "num": 179914,
+        "word": "种地吧",
+        "onboard_time": 1711184959,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 168670,
+        "num": 168670,
+        "word": "你好星期六",
+        "onboard_time": 1711186821,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 159131,
+        "num": 159131,
+        "word": "边伯贤东京演唱会",
+        "onboard_time": 1711188679,
+        "rank": 34,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 156896,
+        "num": 156896,
+        "word": "2种症状提醒你压力过大了",
+        "onboard_time": 1711183100,
+        "rank": 35,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 153163,
+        "num": 153163,
+        "word": "王俊凯正面vs背面",
+        "onboard_time": 1711188500,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 148519,
+        "num": 148519,
+        "word": "KSG对战RW",
+        "onboard_time": 1711189640,
+        "rank": 37,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 147999,
+        "num": 147999,
+        "word": "Hero让二追三",
+        "onboard_time": 1711186821,
+        "rank": 38,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 145452,
+        "num": 145452,
+        "word": "上班丑关我周末出门什么事",
+        "onboard_time": 1711185920,
+        "rank": 39,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 142562,
+        "num": 142562,
+        "word": "周杰伦演唱会抢票",
+        "onboard_time": 1711179259,
+        "rank": 40,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 142018,
+        "num": 142018,
+        "word": "叶蓁蓁 22楼所有人的后盾",
+        "onboard_time": 1711177519,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 139416,
+        "num": 139416,
+        "word": "黄子韬回应和徐艺洋吃饭被拍",
+        "onboard_time": 1711159101,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 133801,
+        "num": 133801,
+        "word": "王者荣耀 阴阳师",
+        "onboard_time": 1711163480,
+        "rank": 43,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 133765,
+        "num": 133765,
+        "word": "赵丽颖片场和美女贴贴",
+        "onboard_time": 1711189040,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 132018,
+        "num": 132018,
+        "word": "英国凯特王妃患癌症",
+        "onboard_time": 1711149195,
+        "rank": 45,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 130807,
+        "num": 130807,
+        "word": "凯特王妃宣布患癌视频录制于3天前",
+        "onboard_time": 1711163722,
+        "rank": 46,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 128407,
+        "num": 128407,
+        "word": "Angel确定进入季后赛",
+        "onboard_time": 1711189881,
+        "rank": 47,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 124061,
+        "num": 124061,
+        "word": "莫斯科献血点排起长队",
+        "onboard_time": 1711180038,
+        "rank": 48,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 123840,
+        "num": 123840,
+        "word": "王俊凯看到哥哥我怕的反应",
+        "onboard_time": 1711181659,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记对推动中部地区崛起提出明确要求#"
+    }
+  }
+}

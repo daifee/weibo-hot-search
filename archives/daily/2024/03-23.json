@@ -1,6 +1,6 @@
 {
   "startTime": 1711124556378,
-  "endTime": 1711189045871,
+  "endTime": 1711190040173,
   "band_list": [
     {
       "raw_hot": 10611140,
@@ -72,6 +72,14 @@
       "word": "isis",
       "onboard_time": 1711178057,
       "rank": 48,
+      "category": "国外时政"
+    },
+    {
+      "raw_hot": 1709241,
+      "num": 1709241,
+      "word": "莫斯科恐袭已致115人死亡",
+      "onboard_time": 1711188320,
+      "rank": 6,
       "category": "国外时政"
     },
     {
@@ -147,6 +155,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1332441,
+      "num": 1332441,
+      "word": "宫崎骏 死了就看不到日落了",
+      "onboard_time": 1711186880,
+      "rank": 3,
+      "category": "动漫,作品衍生"
+    },
+    {
       "raw_hot": 1304224,
       "num": 1304224,
       "word": "凯特王妃宣布患癌视频录制于3天前",
@@ -161,14 +177,6 @@
       "onboard_time": 1711149495,
       "rank": 1,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 1278639,
-      "num": 1278639,
-      "word": "宫崎骏 死了就看不到日落了",
-      "onboard_time": 1711186880,
-      "rank": 3,
-      "category": "动漫,作品衍生"
     },
     {
       "raw_hot": 1209621,
@@ -233,14 +241,6 @@
       "onboard_time": 1711183219,
       "rank": 7,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 941141,
-      "num": 941141,
-      "word": "莫斯科恐袭已致115人死亡",
-      "onboard_time": 1711188320,
-      "rank": 6,
-      "category": "国外时政"
     },
     {
       "raw_hot": 934375,
@@ -371,6 +371,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 666153,
+      "num": 666153,
+      "word": "夏之光回应茶王吧唧",
+      "onboard_time": 1711188741,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 658355,
       "num": 658355,
       "word": "俄罗斯",
@@ -385,6 +393,14 @@
       "onboard_time": 1711176499,
       "rank": 6,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 650679,
+      "num": 650679,
+      "word": "整治内娱的综艺来了",
+      "onboard_time": 1711188799,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 643025,
@@ -409,6 +425,14 @@
       "onboard_time": 1711150396,
       "rank": 44,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 596859,
+      "num": 879247,
+      "word": "爷爷馋幼儿园肉包子孙女当真带回",
+      "onboard_time": 1711187419,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 593138,
@@ -473,14 +497,6 @@
       "onboard_time": 1711170740,
       "rank": 35,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 527456,
-      "num": 879247,
-      "word": "爷爷馋幼儿园肉包子孙女当真带回",
-      "onboard_time": 1711187419,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 525236,
@@ -1187,6 +1203,14 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 228827,
+      "num": 228827,
+      "word": "俄联邦安全局称嫌犯计划逃往乌克兰",
+      "onboard_time": 1711188080,
+      "rank": 32,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 227791,
       "num": 227791,
       "word": "这堂课抬头率100%",
@@ -1225,6 +1249,14 @@
       "onboard_time": 1711147453,
       "rank": 16,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 225052,
+      "num": 208164,
+      "word": "我逛两元店都不敢这样买",
+      "onboard_time": 1711189340,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 222114,
@@ -1275,12 +1307,12 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 210699,
-      "num": 210699,
-      "word": "夏之光回应茶王吧唧",
-      "onboard_time": 1711188741,
-      "rank": 28,
-      "category": "艺人"
+      "raw_hot": 209126,
+      "num": 209126,
+      "word": "突然意识到自己对手机很依赖",
+      "onboard_time": 1711189220,
+      "rank": 29,
+      "category": "情感"
     },
     {
       "raw_hot": 209039,
@@ -1475,6 +1507,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 192506,
+      "num": 884523,
+      "word": "交警处罚当事人后自费买下6份早饭",
+      "onboard_time": 1711187419,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 191302,
       "num": 191302,
       "word": "我们仨今日开播",
@@ -1539,14 +1579,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 182829,
-      "num": 182829,
-      "word": "俄联邦安全局称嫌犯计划逃往乌克兰",
-      "onboard_time": 1711188080,
-      "rank": 32,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 182308,
       "num": 168326,
       "word": "鹿晗被话筒喷水",
@@ -1603,14 +1635,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 174012,
-      "num": 884523,
-      "word": "交警处罚当事人后自费买下6份早饭",
-      "onboard_time": 1711187419,
-      "rank": 8,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 173162,
       "num": 173162,
       "word": "边伯贤东京演唱会",
@@ -1641,14 +1665,6 @@
       "onboard_time": 1711117639,
       "rank": 24,
       "category": "情感"
-    },
-    {
-      "raw_hot": 165710,
-      "num": 165710,
-      "word": "整治内娱的综艺来了",
-      "onboard_time": 1711188799,
-      "rank": 37,
-      "category": "综艺"
     },
     {
       "raw_hot": 165115,
@@ -1811,6 +1827,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 148519,
+      "num": 148519,
+      "word": "KSG对战RW",
+      "onboard_time": 1711189640,
+      "rank": 37,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 148417,
       "num": 148417,
       "word": "灿烂的她 哭得越大声爱得越深",
@@ -1844,7 +1868,7 @@
     },
     {
       "raw_hot": 145123,
-      "num": 1711476,
+      "num": 1758717,
       "word": "春耕这件事中国人有多认真",
       "onboard_time": 1711180759,
       "rank": 2,
@@ -1899,12 +1923,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 133765,
+      "num": 133765,
+      "word": "赵丽颖片场和美女贴贴",
+      "onboard_time": 1711189040,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 132097,
       "num": 132097,
       "word": "用两年改造了400平米的别墅",
       "onboard_time": 1711120880,
       "rank": 31,
       "category": "情感"
+    },
+    {
+      "raw_hot": 128407,
+      "num": 128407,
+      "word": "Angel确定进入季后赛",
+      "onboard_time": 1711189881,
+      "rank": 47,
+      "category": "电竞"
     },
     {
       "raw_hot": 128034,
