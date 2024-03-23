@@ -1,6 +1,6 @@
 {
   "startTime": 1711210803824,
-  "endTime": 1711229640416,
+  "endTime": 1711232169799,
   "band_list": [
     {
       "raw_hot": 1764453,
@@ -299,6 +299,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 175256,
+      "num": 45195,
+      "word": "收费站工作人员逼司机吃垃圾桶食物",
+      "onboard_time": 1711227551,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 173520,
       "num": 173520,
       "word": "喜茶回应周边被倒卖",
@@ -451,15 +459,7 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 56829,
-      "num": 41815,
-      "word": "郑合惠子王梓薇丑妆认不出来了",
-      "onboard_time": 1711226712,
-      "rank": 11,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 54763,
+      "raw_hot": 59962,
       "num": 50053,
       "word": "小户型为什么不香了",
       "onboard_time": 1711220771,
@@ -467,12 +467,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 48902,
-      "num": 40615,
-      "word": "收费站工作人员逼司机吃垃圾桶食物",
-      "onboard_time": 1711227551,
-      "rank": 36,
-      "category": "社会新闻"
+      "raw_hot": 56829,
+      "num": 45050,
+      "word": "郑合惠子王梓薇丑妆认不出来了",
+      "onboard_time": 1711226712,
+      "rank": 11,
+      "category": "综艺"
     },
     {
       "raw_hot": 37612,
@@ -499,6 +499,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 28479,
+      "num": 28479,
+      "word": "上海花店卖油菜花30元10支",
+      "onboard_time": 1711224851,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 26835,
       "num": 26835,
       "word": "陈楚生苏州演唱会",
@@ -523,16 +531,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 22803,
-      "num": 22803,
-      "word": "上海花店卖油菜花30元10支",
-      "onboard_time": 1711224851,
-      "rank": 47,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 13348,
-      "num": 17363,
+      "raw_hot": 14449,
+      "num": 22505,
       "word": "大家说好吃但你get不到的食物",
       "onboard_time": 1711226052,
       "rank": 49,
