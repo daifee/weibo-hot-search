@@ -1,0 +1,410 @@
+{
+  "runTime": 1711193648627,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2038487,
+        "num": 2038487,
+        "word": "莫斯科恐袭已致115人死亡",
+        "onboard_time": 1711188320,
+        "rank": 0,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 1692231,
+        "num": 1692231,
+        "word": "俄罗斯已进入战争状态",
+        "onboard_time": 1711155619,
+        "rank": 1,
+        "category": "国外时政,军事"
+      },
+      {
+        "raw_hot": 118957,
+        "num": 1167222,
+        "word": "春耕这件事中国人有多认真",
+        "onboard_time": 1711180759,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1755328,
+        "num": 1107182,
+        "word": "整治内娱的综艺来了",
+        "onboard_time": 1711188799,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 933496,
+        "num": 933496,
+        "word": "小女孩拒绝了成毅的抱抱",
+        "onboard_time": 1711190299,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 759131,
+        "num": 759131,
+        "word": "留给霸王茶姬的名字不多了",
+        "onboard_time": 1711190600,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 594457,
+        "num": 746169,
+        "word": "苹果高管一家四口被撞身亡",
+        "onboard_time": 1711182859,
+        "rank": 6,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 565244,
+        "num": 727228,
+        "word": "宫崎骏 死了就看不到日落了",
+        "onboard_time": 1711186880,
+        "rank": 7,
+        "category": "电影,动漫"
+      },
+      {
+        "raw_hot": 188919,
+        "num": 707952,
+        "word": "交警处罚当事人后自费买下6份早饭",
+        "onboard_time": 1711187419,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 453498,
+        "num": 682165,
+        "word": "爷爷馋幼儿园肉包子孙女当真带回",
+        "onboard_time": 1711187419,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1535385,
+        "num": 669553,
+        "word": "茶王吧唧",
+        "onboard_time": 1711185738,
+        "rank": 10,
+        "category": "艺人,美食"
+      },
+      {
+        "raw_hot": 652103,
+        "num": 652103,
+        "word": "夏之光 霸王茶姬",
+        "onboard_time": 1711182859,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 637269,
+        "num": 637269,
+        "word": "莫斯科恐袭事件11人被捕",
+        "onboard_time": 1711182259,
+        "rank": 12,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 605140,
+        "num": 605140,
+        "word": "南航大学涉事师生已报警",
+        "onboard_time": 1711185859,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 20912,
+        "num": 579981,
+        "word": "蛋仔派对皮蛋节前瞻直播",
+        "onboard_time": 1711191620,
+        "rank": 14,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 579829,
+        "num": 579829,
+        "word": "卡琳娜 全知读者视角",
+        "onboard_time": 1711191200,
+        "rank": 15,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 524826,
+        "num": 524826,
+        "word": "杨幂小水晚宴合照",
+        "onboard_time": 1711183219,
+        "rank": 16,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 466819,
+        "num": 466819,
+        "word": "夏之光回应茶王吧唧",
+        "onboard_time": 1711188741,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 463476,
+        "num": 463476,
+        "word": "戴比尔斯晚宴",
+        "onboard_time": 1711191499,
+        "rank": 18,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 444437,
+        "num": 444437,
+        "word": "南航大学回应学生与教授发生关系",
+        "onboard_time": 1711176439,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 424742,
+        "num": 424742,
+        "word": "刘亦菲与表姐合照",
+        "onboard_time": 1711192519,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 391568,
+        "num": 391568,
+        "word": "新版微信朋友圈都是短线",
+        "onboard_time": 1711178120,
+        "rank": 21,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 361479,
+        "num": 361479,
+        "word": "俄媒称恐袭事件4名嫌疑人身份确定",
+        "onboard_time": 1711192099,
+        "rank": 22,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 334985,
+        "num": 334985,
+        "word": "鹿晗腹肌没了",
+        "onboard_time": 1711180399,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 287362,
+        "num": 287362,
+        "word": "29岁女子怀孕隔天男友提分手",
+        "onboard_time": 1711164439,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 286152,
+        "num": 286152,
+        "word": "成毅骨相",
+        "onboard_time": 1711191380,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 275628,
+        "num": 275628,
+        "word": "我逛两元店都不敢这样买",
+        "onboard_time": 1711189340,
+        "rank": 26,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 251324,
+        "num": 251324,
+        "word": "D社把IU照片发到边伯贤超话",
+        "onboard_time": 1711182139,
+        "rank": 27,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 244256,
+        "num": 244256,
+        "word": "室友 什么你妈那是咱妈",
+        "onboard_time": 1711191859,
+        "rank": 28,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 242307,
+        "num": 242307,
+        "word": "SEVENTEEN完整体视频",
+        "onboard_time": 1711190181,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 225202,
+        "num": 225202,
+        "word": "长期睡前玩手机会付出什么代价",
+        "onboard_time": 1711180159,
+        "rank": 30,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 218030,
+        "num": 218030,
+        "word": "叶舒华镂空蕾丝开衫",
+        "onboard_time": 1711193059,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 217618,
+        "num": 217618,
+        "word": "isis",
+        "onboard_time": 1711178057,
+        "rank": 32,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 207414,
+        "num": 207414,
+        "word": "莫斯科音乐厅厕所发现超10具尸体",
+        "onboard_time": 1711157960,
+        "rank": 33,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 206405,
+        "num": 206405,
+        "word": "卢昱晓小水林阳同框",
+        "onboard_time": 1711193000,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 202460,
+        "num": 202460,
+        "word": "莫斯科恐袭",
+        "onboard_time": 1711172238,
+        "rank": 35,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 196801,
+        "num": 196801,
+        "word": "突然发现自己的偷感很重",
+        "onboard_time": 1711192581,
+        "rank": 36,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 166032,
+        "num": 166032,
+        "word": "吴磊说杭州分磊普法时比自己帅多了",
+        "onboard_time": 1711191679,
+        "rank": 37,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 154925,
+        "num": 154925,
+        "word": "外交部回应俄发生严重恐怖袭击",
+        "onboard_time": 1711185319,
+        "rank": 38,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 146613,
+        "num": 146613,
+        "word": "港男是不是离不开发油",
+        "onboard_time": 1711188080,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 146613,
+        "num": 146613,
+        "word": "俄联邦安全局称嫌犯计划逃往乌克兰",
+        "onboard_time": 1711188080,
+        "rank": 40,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 132560,
+        "num": 132560,
+        "word": "LNG晋级春季赛季后赛",
+        "onboard_time": 1711191859,
+        "rank": 41,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 130755,
+        "num": 130755,
+        "word": "王楚钦新加坡男单冠军之路",
+        "onboard_time": 1711190600,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 129579,
+        "num": 129579,
+        "word": "雷军称参与小米SU7路面实测10多次",
+        "onboard_time": 1711186937,
+        "rank": 43,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 127975,
+        "num": 127975,
+        "word": "无畏 万物皆可游走",
+        "onboard_time": 1711192039,
+        "rank": 44,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 121741,
+        "num": 121741,
+        "word": "突然意识到自己对手机很依赖",
+        "onboard_time": 1711189220,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 121398,
+        "num": 121398,
+        "word": "无限超越班",
+        "onboard_time": 1711191740,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 112356,
+        "num": 112356,
+        "word": "周杰伦演唱会抢票",
+        "onboard_time": 1711179259,
+        "rank": 47,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 103570,
+        "num": 103570,
+        "word": "王者荣耀 阴阳师",
+        "onboard_time": 1711163480,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 102942,
+        "num": 102942,
+        "word": "夏之光脸颊痣",
+        "onboard_time": 1711191919,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记对湖南寄予厚望#"
+    }
+  }
+}
