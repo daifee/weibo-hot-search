@@ -1,6 +1,6 @@
 {
   "startTime": 1711124556378,
-  "endTime": 1711199843381,
+  "endTime": 1711200852659,
   "band_list": [
     {
       "raw_hot": 10611140,
@@ -115,6 +115,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 1602092,
+      "num": 1602092,
+      "word": "普京就恐怖袭击事件发表电视讲话",
+      "onboard_time": 1711198701,
+      "rank": 3,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 1601864,
       "num": 1601864,
       "word": "莫斯科恐袭事件11人被捕",
@@ -187,20 +195,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1391414,
-      "num": 1391414,
-      "word": "普京就恐怖袭击事件发表电视讲话",
-      "onboard_time": 1711198701,
-      "rank": 3,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 1332441,
       "num": 1332441,
       "word": "宫崎骏 死了就看不到日落了",
       "onboard_time": 1711186880,
       "rank": 3,
       "category": "动漫,作品衍生"
+    },
+    {
+      "raw_hot": 1331742,
+      "num": 1331742,
+      "word": "与凤行直播",
+      "onboard_time": 1711199300,
+      "rank": 7,
+      "category": "剧集"
     },
     {
       "raw_hot": 1304224,
@@ -220,7 +228,7 @@
     },
     {
       "raw_hot": 1258256,
-      "num": 632473,
+      "num": 683830,
       "word": "莫斯科恐袭嫌疑人被捕现场",
       "onboard_time": 1711197139,
       "rank": 11,
@@ -259,6 +267,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 1164584,
+      "num": 1164584,
+      "word": "赵露思出图",
+      "onboard_time": 1711195399,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1140133,
       "num": 1140133,
       "word": "南航大学涉事师生已报警",
@@ -267,12 +283,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1112692,
-      "num": 1112692,
-      "word": "赵露思出图",
-      "onboard_time": 1711195399,
-      "rank": 12,
-      "category": "艺人"
+      "raw_hot": 1118107,
+      "num": 1118107,
+      "word": "尔冬升把徐若晗赶出片场",
+      "onboard_time": 1711199541,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 1083250,
@@ -307,20 +323,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 980852,
+      "num": 980852,
+      "word": "张杰给内娱一点小小的震撼",
+      "onboard_time": 1711197020,
+      "rank": 39,
+      "category": "演出"
+    },
+    {
       "raw_hot": 977336,
       "num": 977336,
       "word": "鹿晗腹肌没了",
       "onboard_time": 1711180399,
       "rank": 5,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 963654,
-      "num": 963654,
-      "word": "张杰给内娱一点小小的震撼",
-      "onboard_time": 1711197020,
-      "rank": 39,
-      "category": "演出"
     },
     {
       "raw_hot": 958711,
@@ -345,6 +361,14 @@
       "onboard_time": 1711190299,
       "rank": 5,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 920571,
+      "num": 683102,
+      "word": "金莎化丑妆和男朋友视频",
+      "onboard_time": 1711197740,
+      "rank": 14,
+      "category": "综艺"
     },
     {
       "raw_hot": 898278,
@@ -435,28 +459,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 752319,
-      "num": 597868,
-      "word": "金莎化丑妆和男朋友视频",
-      "onboard_time": 1711197740,
-      "rank": 14,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 749816,
       "num": 749816,
       "word": "伊斯兰国宣称对莫斯科枪击事件负责",
       "onboard_time": 1711151476,
       "rank": 6,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 739606,
-      "num": 739606,
-      "word": "与凤行直播",
-      "onboard_time": 1711199300,
-      "rank": 7,
-      "category": "剧集"
     },
     {
       "raw_hot": 735596,
@@ -491,6 +499,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 684626,
+      "num": 684626,
+      "word": "菲律宾船对中国海警举白旗",
+      "onboard_time": 1711196659,
+      "rank": 40,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 666153,
       "num": 666153,
       "word": "夏之光回应茶王吧唧",
@@ -515,6 +531,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 654539,
+      "num": 654539,
+      "word": "林俊杰开大G",
+      "onboard_time": 1711196060,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 643025,
       "num": 643025,
       "word": "普京将就恐怖袭击事件发表电视演讲",
@@ -523,12 +547,12 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 641938,
-      "num": 641938,
-      "word": "菲律宾船对中国海警举白旗",
-      "onboard_time": 1711196659,
-      "rank": 40,
-      "category": "国内时政"
+      "raw_hot": 633643,
+      "num": 633643,
+      "word": "我妈 你不结婚老了以后谁照顾你",
+      "onboard_time": 1711198701,
+      "rank": 15,
+      "category": "幽默"
     },
     {
       "raw_hot": 619893,
@@ -577,14 +601,6 @@
       "onboard_time": 1711191200,
       "rank": 30,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 589038,
-      "num": 589038,
-      "word": "我妈 你不结婚老了以后谁照顾你",
-      "onboard_time": 1711198701,
-      "rank": 15,
-      "category": "幽默"
     },
     {
       "raw_hot": 581113,
@@ -683,14 +699,6 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 510463,
-      "num": 510463,
-      "word": "林俊杰开大G",
-      "onboard_time": 1711196060,
-      "rank": 20,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 507257,
       "num": 507257,
       "word": "盒子里的猫",
@@ -761,6 +769,14 @@
       "onboard_time": 1711191499,
       "rank": 20,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 459012,
+      "num": 459012,
+      "word": "小爱同学差点帮我买了一套房",
+      "onboard_time": 1711199541,
+      "rank": 39,
+      "category": "幽默"
     },
     {
       "raw_hot": 457449,
@@ -841,6 +857,14 @@
       "onboard_time": 1711157599,
       "rank": 14,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 422628,
+      "num": 422628,
+      "word": "普京宣布24日为俄罗斯全民哀悼日",
+      "onboard_time": 1711200021,
+      "rank": 20,
+      "category": "国外时政"
     },
     {
       "raw_hot": 419754,
@@ -985,6 +1009,14 @@
       "onboard_time": 1711152739,
       "rank": 16,
       "category": "演出"
+    },
+    {
+      "raw_hot": 327787,
+      "num": 327787,
+      "word": "郝蕾说看纪凌尘演戏太难受了",
+      "onboard_time": 1711200381,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 321086,
@@ -1137,14 +1169,6 @@
       "onboard_time": 1711164620,
       "rank": 42,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 292104,
-      "num": 292104,
-      "word": "尔冬升把徐若晗赶出片场",
-      "onboard_time": 1711199541,
-      "rank": 27,
-      "category": "综艺"
     },
     {
       "raw_hot": 291832,
@@ -1403,6 +1427,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 242862,
+      "num": 242862,
+      "word": "普京称将查明并惩罚所有幕后黑手",
+      "onboard_time": 1711200021,
+      "rank": 33,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 237061,
       "num": 237061,
       "word": "计算机二级",
@@ -1545,6 +1577,14 @@
       "onboard_time": 1711170081,
       "rank": 30,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 219224,
+      "num": 219224,
+      "word": "马嘉祺晒时代少年团合照",
+      "onboard_time": 1711199360,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 218158,
@@ -1747,6 +1787,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 199383,
+      "num": 199383,
+      "word": "郑合惠子假睫毛掉了",
+      "onboard_time": 1711200321,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 198665,
       "num": 198665,
       "word": "戚薇海月变装",
@@ -1777,14 +1825,6 @@
       "onboard_time": 1711192581,
       "rank": 36,
       "category": "情感"
-    },
-    {
-      "raw_hot": 196732,
-      "num": 191568,
-      "word": "马嘉祺晒时代少年团合照",
-      "onboard_time": 1711199360,
-      "rank": 41,
-      "category": "艺人"
     },
     {
       "raw_hot": 196404,
@@ -1836,7 +1876,7 @@
     },
     {
       "raw_hot": 193605,
-      "num": 193605,
+      "num": 221655,
       "word": "买黄金前一定要看的冷知识",
       "onboard_time": 1711197800,
       "rank": 36,
@@ -1865,14 +1905,6 @@
       "onboard_time": 1711187419,
       "rank": 8,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 191691,
-      "num": 191684,
-      "word": "小爱同学差点帮我买了一套房",
-      "onboard_time": 1711199541,
-      "rank": 39,
-      "category": "幽默"
     },
     {
       "raw_hot": 191302,
@@ -2259,6 +2291,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 148906,
+      "num": 148906,
+      "word": "Mafa身体不适",
+      "onboard_time": 1711200681,
+      "rank": 48,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 148519,
       "num": 148519,
       "word": "KSG对战RW",
@@ -2273,6 +2313,14 @@
       "onboard_time": 1711176800,
       "rank": 44,
       "category": "电影"
+    },
+    {
+      "raw_hot": 147618,
+      "num": 147618,
+      "word": "BLG战胜NIP",
+      "onboard_time": 1711200140,
+      "rank": 49,
+      "category": "电竞"
     },
     {
       "raw_hot": 146339,
@@ -2691,6 +2739,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 49992,
+      "num": 1414542,
+      "word": "春日花经济焕发新动力",
+      "onboard_time": 1711198400,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 49587,
       "num": 49587,
       "word": "ILLIT预告",
@@ -2737,14 +2793,6 @@
       "onboard_time": 1711148473,
       "rank": 46,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 33852,
-      "num": 1414542,
-      "word": "春日花经济焕发新动力",
-      "onboard_time": 1711198400,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 31992,
