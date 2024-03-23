@@ -1,0 +1,410 @@
+{
+  "runTime": 1711167696932,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 7480625,
+        "num": 7480625,
+        "word": "俄罗斯已进入战争状态",
+        "onboard_time": 1711155619,
+        "rank": 0,
+        "category": "国外时政,军事"
+      },
+      {
+        "raw_hot": 1863907,
+        "num": 1863907,
+        "word": "梅德韦杰夫称要血债血偿",
+        "onboard_time": 1711164800,
+        "rank": 1,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 49444,
+        "num": 1469681,
+        "word": "春耕春管把科技范儿拉满",
+        "onboard_time": 1711166240,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1304224,
+        "num": 1304224,
+        "word": "凯特王妃宣布患癌视频录制于3天前",
+        "onboard_time": 1711163722,
+        "rank": 3,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 1078910,
+        "num": 1078910,
+        "word": "莫斯科恐袭死亡人数增至70",
+        "onboard_time": 1711157480,
+        "rank": 4,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 958394,
+        "num": 958394,
+        "word": "英国凯特王妃患癌症",
+        "onboard_time": 1711149195,
+        "rank": 5,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 760452,
+        "num": 760452,
+        "word": "颜值输给了簪花的男友",
+        "onboard_time": 1711163182,
+        "rank": 6,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 559295,
+        "num": 559295,
+        "word": "王者荣耀称将严肃回击",
+        "onboard_time": 1711160241,
+        "rank": 7,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 542141,
+        "num": 542141,
+        "word": "王者荣耀 阴阳师",
+        "onboard_time": 1711163480,
+        "rank": 8,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 506375,
+        "num": 506375,
+        "word": "偷看凯特病例员工或被永久吊销执照",
+        "onboard_time": 1711165761,
+        "rank": 9,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 1094950,
+        "num": 502312,
+        "word": "黄子韬回应和徐艺洋吃饭被拍",
+        "onboard_time": 1711159101,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1051467,
+        "num": 461173,
+        "word": "莫斯科音乐厅厕所发现超10具尸体",
+        "onboard_time": 1711157960,
+        "rank": 11,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 646492,
+        "num": 431337,
+        "word": "中国留学生亲历莫斯科恐怖袭击",
+        "onboard_time": 1711161502,
+        "rank": 12,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 545568,
+        "num": 403428,
+        "word": "普京",
+        "onboard_time": 1711163480,
+        "rank": 13,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 401793,
+        "num": 401793,
+        "word": "伊斯兰国宣称对莫斯科枪击事件负责",
+        "onboard_time": 1711151476,
+        "rank": 14,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 340447,
+        "num": 340447,
+        "word": "茶百道 积分不足",
+        "onboard_time": 1711164021,
+        "rank": 15,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 312433,
+        "num": 312433,
+        "word": "中东土豪来北京亲提国产豪车",
+        "onboard_time": 1711166840,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 295527,
+        "num": 295527,
+        "word": "王俊凯无锡",
+        "onboard_time": 1711164561,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 293554,
+        "num": 293554,
+        "word": "江苏事业编",
+        "onboard_time": 1711167140,
+        "rank": 18,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 293243,
+        "num": 293243,
+        "word": "拜登回应凯特患癌",
+        "onboard_time": 1711156700,
+        "rank": 19,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 960629,
+        "num": 293073,
+        "word": "29岁女子怀孕隔天男友提分手",
+        "onboard_time": 1711164439,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 410738,
+        "num": 292755,
+        "word": "实习生为了36万年薪放弃交大保研",
+        "onboard_time": 1711156279,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 296823,
+        "num": 292563,
+        "word": "男子常熬夜致眼睛成80岁状态",
+        "onboard_time": 1711160181,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 273234,
+        "num": 292300,
+        "word": "你好星期六全员cos加速猎人",
+        "onboard_time": 1711161861,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 292235,
+        "num": 292235,
+        "word": "内娱人夫感男星TOP1",
+        "onboard_time": 1711164620,
+        "rank": 24,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 279375,
+        "num": 279375,
+        "word": "计算机二级wps",
+        "onboard_time": 1711163301,
+        "rank": 25,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 232197,
+        "num": 232197,
+        "word": "贵女开机",
+        "onboard_time": 1711157599,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 217149,
+        "num": 217149,
+        "word": "赵丽颖工作室辟谣出演咸雪",
+        "onboard_time": 1711162400,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 214846,
+        "num": 214846,
+        "word": "离婚后最受伤的其实是孩子",
+        "onboard_time": 1711164021,
+        "rank": 28,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 206464,
+        "num": 206464,
+        "word": "这堂课抬头率100%",
+        "onboard_time": 1711163061,
+        "rank": 29,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 205385,
+        "num": 205385,
+        "word": "刘涛时隔十年再录花少",
+        "onboard_time": 1711158140,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 203788,
+        "num": 203788,
+        "word": "邓超五哈4开播好忙",
+        "onboard_time": 1711167321,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 198665,
+        "num": 198665,
+        "word": "戚薇海月变装",
+        "onboard_time": 1711166662,
+        "rank": 32,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 191302,
+        "num": 191302,
+        "word": "我们仨今日开播",
+        "onboard_time": 1711166360,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 187991,
+        "num": 187991,
+        "word": "现场缴获恐怖分子武器画面曝光",
+        "onboard_time": 1711161261,
+        "rank": 34,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 186269,
+        "num": 186269,
+        "word": "年轻人为啥不爱玻尿酸了",
+        "onboard_time": 1711166540,
+        "rank": 35,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 182845,
+        "num": 182845,
+        "word": "普京将就恐怖袭击事件发表电视演讲",
+        "onboard_time": 1711158561,
+        "rank": 36,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 174350,
+        "num": 174350,
+        "word": "花儿与少年",
+        "onboard_time": 1711160542,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 173989,
+        "num": 173989,
+        "word": "1名疑似莫斯科恐袭案枪手被捕",
+        "onboard_time": 1711158018,
+        "rank": 38,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 169931,
+        "num": 169931,
+        "word": "他居然学奶妈蹲下的样子",
+        "onboard_time": 1711157720,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 163377,
+        "num": 163377,
+        "word": "别人处处吻 烈焰处处梗",
+        "onboard_time": 1711167020,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 158242,
+        "num": 158242,
+        "word": "俄罗斯",
+        "onboard_time": 1711149615,
+        "rank": 41,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 157724,
+        "num": 157724,
+        "word": "俄罗斯一炼油厂起火",
+        "onboard_time": 1711162458,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 156080,
+        "num": 156080,
+        "word": "火烧云孕妇免排队被指慷他人之慨",
+        "onboard_time": 1711124717,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 153317,
+        "num": 153317,
+        "word": "俄卫生部称恐袭后115人入院治疗",
+        "onboard_time": 1711167620,
+        "rank": 44,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 152137,
+        "num": 152137,
+        "word": "莫斯科遭遇恐怖袭击",
+        "onboard_time": 1711149495,
+        "rank": 45,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 145160,
+        "num": 145160,
+        "word": "粉丝抢的林俊杰门票竟变成了李克勤",
+        "onboard_time": 1711152739,
+        "rank": 46,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 144805,
+        "num": 144805,
+        "word": "王者荣耀",
+        "onboard_time": 1711150096,
+        "rank": 47,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 144394,
+        "num": 144394,
+        "word": "五哈",
+        "onboard_time": 1711162762,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 143323,
+        "num": 143323,
+        "word": "盒子里的猫定档",
+        "onboard_time": 1711161141,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记对湖南寄予厚望#"
+    }
+  }
+}

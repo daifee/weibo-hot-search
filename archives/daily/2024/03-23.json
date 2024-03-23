@@ -1,6 +1,6 @@
 {
   "startTime": 1711124556378,
-  "endTime": 1711164923608,
+  "endTime": 1711167696932,
   "band_list": [
     {
       "raw_hot": 10611140,
@@ -24,6 +24,14 @@
       "word": "莫斯科恐袭死亡人数增至70",
       "onboard_time": 1711157480,
       "rank": 1,
+      "category": "国外时政"
+    },
+    {
+      "raw_hot": 1863907,
+      "num": 1863907,
+      "word": "梅德韦杰夫称要血债血偿",
+      "onboard_time": 1711164800,
+      "rank": 46,
       "category": "国外时政"
     },
     {
@@ -59,6 +67,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1304224,
+      "num": 1304224,
+      "word": "凯特王妃宣布患癌视频录制于3天前",
+      "onboard_time": 1711163722,
+      "rank": 41,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 1283814,
       "num": 1283814,
       "word": "俄一音乐厅遭恐袭40人遇难百余人伤",
@@ -91,6 +107,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 960629,
+      "num": 293073,
+      "word": "29岁女子怀孕隔天男友提分手",
+      "onboard_time": 1711164439,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 934375,
       "num": 934375,
       "word": "中国留学生亲历莫斯科恐怖袭击",
@@ -112,14 +136,6 @@
       "word": "拜登回应凯特患癌",
       "onboard_time": 1711156700,
       "rank": 30,
-      "category": "国外时政"
-    },
-    {
-      "raw_hot": 823427,
-      "num": 823427,
-      "word": "凯特王妃宣布患癌视频录制于3天前",
-      "onboard_time": 1711163722,
-      "rank": 41,
       "category": "国外时政"
     },
     {
@@ -153,6 +169,14 @@
       "onboard_time": 1711159942,
       "rank": 17,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 760452,
+      "num": 760452,
+      "word": "颜值输给了簪花的男友",
+      "onboard_time": 1711163182,
+      "rank": 24,
+      "category": "幽默"
     },
     {
       "raw_hot": 758622,
@@ -201,14 +225,6 @@
       "onboard_time": 1711150396,
       "rank": 44,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 594075,
-      "num": 594075,
-      "word": "颜值输给了簪花的男友",
-      "onboard_time": 1711163182,
-      "rank": 24,
-      "category": "幽默"
     },
     {
       "raw_hot": 581113,
@@ -264,6 +280,14 @@
       "word": "俄驻华使馆发微博",
       "onboard_time": 1711159101,
       "rank": 40,
+      "category": "国外时政"
+    },
+    {
+      "raw_hot": 506375,
+      "num": 506375,
+      "word": "偷看凯特病例员工或被永久吊销执照",
+      "onboard_time": 1711165761,
+      "rank": 9,
       "category": "国外时政"
     },
     {
@@ -459,6 +483,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 312433,
+      "num": 312433,
+      "word": "中东土豪来北京亲提国产豪车",
+      "onboard_time": 1711166840,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 312081,
       "num": 312081,
       "word": "1名疑似莫斯科恐袭案枪手被捕",
@@ -507,12 +539,36 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 295527,
+      "num": 295527,
+      "word": "王俊凯无锡",
+      "onboard_time": 1711164561,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 295342,
       "num": 295342,
       "word": "计算机二级wps",
       "onboard_time": 1711163301,
       "rank": 28,
       "category": "教育"
+    },
+    {
+      "raw_hot": 293554,
+      "num": 293554,
+      "word": "江苏事业编",
+      "onboard_time": 1711167140,
+      "rank": 18,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 292235,
+      "num": 292235,
+      "word": "内娱人夫感男星TOP1",
+      "onboard_time": 1711164620,
+      "rank": 42,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 291832,
@@ -537,14 +593,6 @@
       "onboard_time": 1711162762,
       "rank": 23,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 276516,
-      "num": 276516,
-      "word": "29岁女子怀孕隔天男友提分手",
-      "onboard_time": 1711164439,
-      "rank": 26,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 268135,
@@ -699,14 +747,6 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 209247,
-      "num": 209247,
-      "word": "王俊凯无锡",
-      "onboard_time": 1711164561,
-      "rank": 36,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 209039,
       "num": 209039,
       "word": "现场缴获恐怖分子武器画面曝光",
@@ -747,6 +787,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 203788,
+      "num": 203788,
+      "word": "邓超五哈4开播好忙",
+      "onboard_time": 1711167321,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 203209,
       "num": 203209,
       "word": "夏之光成都",
@@ -769,6 +817,14 @@
       "onboard_time": 1711150936,
       "rank": 32,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 198665,
+      "num": 198665,
+      "word": "戚薇海月变装",
+      "onboard_time": 1711166662,
+      "rank": 32,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 197395,
@@ -803,12 +859,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 190537,
-      "num": 190537,
-      "word": "内娱人夫感男星TOP1",
-      "onboard_time": 1711164620,
-      "rank": 42,
-      "category": "作品衍生"
+      "raw_hot": 191302,
+      "num": 191302,
+      "word": "我们仨今日开播",
+      "onboard_time": 1711166360,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 186685,
@@ -819,20 +875,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 186269,
+      "num": 186269,
+      "word": "年轻人为啥不爱玻尿酸了",
+      "onboard_time": 1711166540,
+      "rank": 35,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 179173,
       "num": 179173,
       "word": "张杰音响",
       "onboard_time": 1711117521,
       "rank": 23,
       "category": "演出"
-    },
-    {
-      "raw_hot": 178410,
-      "num": 178410,
-      "word": "梅德韦杰夫称要血债血偿",
-      "onboard_time": 1711164800,
-      "rank": 46,
-      "category": "国外时政"
     },
     {
       "raw_hot": 174606,
@@ -865,6 +921,14 @@
       "onboard_time": 1711152078,
       "rank": 35,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 163377,
+      "num": 163377,
+      "word": "别人处处吻 烈焰处处梗",
+      "onboard_time": 1711167020,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 163288,
@@ -937,6 +1001,14 @@
       "onboard_time": 1711116380,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 153317,
+      "num": 153317,
+      "word": "俄卫生部称恐袭后115人入院治疗",
+      "onboard_time": 1711167620,
+      "rank": 44,
+      "category": "国外时政"
     },
     {
       "raw_hot": 150841,
@@ -1243,6 +1315,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 49444,
+      "num": 1469681,
+      "word": "春耕春管把科技范儿拉满",
+      "onboard_time": 1711166240,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 47182,
       "num": 47182,
       "word": "刘宇宁官宣加盟品质盛典",
@@ -1351,6 +1431,9 @@
     },
     {
       "word": "#总书记这趟行程一个重要关键词是新#"
+    },
+    {
+      "word": "#总书记对湖南寄予厚望#"
     }
   ]
 }
