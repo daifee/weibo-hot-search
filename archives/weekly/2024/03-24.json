@@ -1,6 +1,6 @@
 {
   "startTime": 1711210803824,
-  "endTime": 1711214119444,
+  "endTime": 1711215250806,
   "band_list": [
     {
       "raw_hot": 1764453,
@@ -195,7 +195,7 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 268100,
+      "raw_hot": 268109,
       "num": 268100,
       "word": "杭州兵马俑被游客吐槽不值票价",
       "onboard_time": 1711208299,
@@ -225,6 +225,14 @@
       "onboard_time": 1711198701,
       "rank": 24,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 235159,
+      "num": 168028,
+      "word": "90后女孩存下100万后买了房",
+      "onboard_time": 1711213217,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 232369,
@@ -347,19 +355,19 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 161228,
+      "num": 161228,
+      "word": "billkin演唱会",
+      "onboard_time": 1711213996,
+      "rank": 31,
+      "category": "演出"
+    },
+    {
       "raw_hot": 157747,
       "num": 157747,
       "word": "王力宏常州音乐节",
       "onboard_time": 1711208420,
       "rank": 40,
-      "category": "演出"
-    },
-    {
-      "raw_hot": 152571,
-      "num": 112970,
-      "word": "billkin演唱会",
-      "onboard_time": 1711213996,
-      "rank": 31,
       "category": "演出"
     },
     {
@@ -403,14 +411,6 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 105993,
-      "num": 105993,
-      "word": "90后女孩存下100万后买了房",
-      "onboard_time": 1711213217,
-      "rank": 34,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 104590,
       "num": 104590,
       "word": "卡琳娜 全知读者视角",
@@ -419,7 +419,7 @@
       "category": "动漫,网红"
     },
     {
-      "raw_hot": 54761,
+      "raw_hot": 93019,
       "num": 608618,
       "word": "10.92亿背后的流量与力量",
       "onboard_time": 1711198040,
