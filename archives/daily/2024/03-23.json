@@ -1,6 +1,6 @@
 {
   "startTime": 1711124556378,
-  "endTime": 1711156214354,
+  "endTime": 1711157325737,
   "band_list": [
     {
       "raw_hot": 4312482,
@@ -11,8 +11,16 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 1675745,
-      "num": 1675745,
+      "raw_hot": 1876162,
+      "num": 1876162,
+      "word": "俄罗斯已进入战争状态",
+      "onboard_time": 1711155619,
+      "rank": 10,
+      "category": "国外时政"
+    },
+    {
+      "raw_hot": 1677938,
+      "num": 1677938,
       "word": "莫斯科遭遇恐怖袭击",
       "onboard_time": 1711149495,
       "rank": 3,
@@ -27,6 +35,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 1420757,
+      "num": 1420757,
+      "word": "莫斯科近郊恐怖袭击造成超过60人死亡",
+      "onboard_time": 1711154419,
+      "rank": 3,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 1283814,
       "num": 1283814,
       "word": "俄一音乐厅遭恐袭40人遇难百余人伤",
@@ -35,12 +51,12 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 1171786,
-      "num": 1171786,
-      "word": "莫斯科近郊恐怖袭击造成超过60人死亡",
-      "onboard_time": 1711154419,
-      "rank": 3,
-      "category": "国外时政"
+      "raw_hot": 1083250,
+      "num": 281370,
+      "word": "实习生为了36万年薪放弃交大保研",
+      "onboard_time": 1711156279,
+      "rank": 20,
+      "category": "情感"
     },
     {
       "raw_hot": 1024177,
@@ -75,8 +91,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 669749,
-      "num": 669749,
+      "raw_hot": 749816,
+      "num": 749816,
       "word": "伊斯兰国宣称对莫斯科枪击事件负责",
       "onboard_time": 1711151476,
       "rank": 6,
@@ -88,6 +104,14 @@
       "word": "俄罗斯",
       "onboard_time": 1711149615,
       "rank": 5,
+      "category": "国外时政"
+    },
+    {
+      "raw_hot": 627114,
+      "num": 456277,
+      "word": "普京已知晓音乐厅恐袭事件",
+      "onboard_time": 1711153341,
+      "rank": 11,
       "category": "国外时政"
     },
     {
@@ -123,20 +147,12 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 484861,
-      "num": 484861,
+      "raw_hot": 497705,
+      "num": 497705,
       "word": "陈芋汐保送同济大学",
       "onboard_time": 1711150035,
       "rank": 41,
       "category": "体育"
-    },
-    {
-      "raw_hot": 482151,
-      "num": 482151,
-      "word": "俄罗斯已进入战争状态",
-      "onboard_time": 1711155619,
-      "rank": 10,
-      "category": "国外时政"
     },
     {
       "raw_hot": 457449,
@@ -145,14 +161,6 @@
       "onboard_time": 1711111398,
       "rank": 6,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 455911,
-      "num": 455911,
-      "word": "普京已知晓音乐厅恐袭事件",
-      "onboard_time": 1711153341,
-      "rank": 11,
-      "category": "国外时政"
     },
     {
       "raw_hot": 447813,
@@ -180,7 +188,7 @@
     },
     {
       "raw_hot": 376333,
-      "num": 266524,
+      "num": 280645,
       "word": "假性亲密关系比单身更可怕",
       "onboard_time": 1711154059,
       "rank": 20,
@@ -203,6 +211,22 @@
       "category": "美食"
     },
     {
+      "raw_hot": 361492,
+      "num": 361492,
+      "word": "周处除三害",
+      "onboard_time": 1711151177,
+      "rank": 22,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 357697,
+      "num": 357697,
+      "word": "赵丽颖回应床咚吻",
+      "onboard_time": 1711124956,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 356803,
       "num": 356803,
       "word": "关晓彤三亚晚宴出图",
@@ -211,20 +235,20 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 339246,
-      "num": 339246,
-      "word": "赵丽颖回应床咚吻",
-      "onboard_time": 1711124956,
-      "rank": 30,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 322071,
-      "num": 322071,
+      "raw_hot": 333123,
+      "num": 333123,
       "word": "粉丝抢的林俊杰门票竟变成了李克勤",
       "onboard_time": 1711152739,
       "rank": 16,
       "category": "演出"
+    },
+    {
+      "raw_hot": 332870,
+      "num": 332870,
+      "word": "这4个体检项目没必要做",
+      "onboard_time": 1711152558,
+      "rank": 18,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 316074,
@@ -259,12 +283,12 @@
       "category": "社会正能量"
     },
     {
-      "raw_hot": 282668,
-      "num": 282668,
-      "word": "这4个体检项目没必要做",
-      "onboard_time": 1711152558,
-      "rank": 18,
-      "category": "健康医疗"
+      "raw_hot": 289094,
+      "num": 289094,
+      "word": "鹿晗济南",
+      "onboard_time": 1711156760,
+      "rank": 19,
+      "category": "综艺"
     },
     {
       "raw_hot": 279998,
@@ -283,20 +307,20 @@
       "category": "教育"
     },
     {
+      "raw_hot": 267951,
+      "num": 209515,
+      "word": "拜登回应凯特患癌",
+      "onboard_time": 1711156700,
+      "rank": 30,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 266853,
       "num": 266853,
       "word": "普京就音乐厅遭袭事件作出指示",
       "onboard_time": 1711153218,
       "rank": 19,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 260971,
-      "num": 260971,
-      "word": "周处除三害",
-      "onboard_time": 1711151177,
-      "rank": 22,
-      "category": "电影"
     },
     {
       "raw_hot": 255572,
@@ -355,12 +379,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 213907,
+      "num": 213907,
+      "word": "与凤行 相亲对象真香",
+      "onboard_time": 1711154899,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 210225,
       "num": 210225,
       "word": "王者荣耀",
       "onboard_time": 1711150096,
       "rank": 23,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 209608,
+      "num": 209608,
+      "word": "计算机二级",
+      "onboard_time": 1711156219,
+      "rank": 29,
+      "category": "教育"
     },
     {
       "raw_hot": 207109,
@@ -419,19 +459,19 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 192900,
+      "num": 192900,
+      "word": "为什么辣条抓不住年轻人了",
+      "onboard_time": 1711155740,
+      "rank": 38,
+      "category": "美食"
+    },
+    {
       "raw_hot": 186685,
       "num": 186685,
       "word": "与凤行嘘嘘被抓了",
       "onboard_time": 1711118480,
       "rank": 22,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 182613,
-      "num": 182613,
-      "word": "与凤行 相亲对象真香",
-      "onboard_time": 1711154899,
-      "rank": 34,
       "category": "剧集"
     },
     {
@@ -465,6 +505,14 @@
       "onboard_time": 1711152078,
       "rank": 35,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 163288,
+      "num": 163288,
+      "word": "热辣滚烫冲进北美票房热榜",
+      "onboard_time": 1711157059,
+      "rank": 38,
+      "category": "电影"
     },
     {
       "raw_hot": 161205,
@@ -516,19 +564,11 @@
     },
     {
       "raw_hot": 155065,
-      "num": 1213685,
+      "num": 1709818,
       "word": "我国网民规模已达到10.92亿人",
       "onboard_time": 1711116380,
       "rank": 2,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 153359,
-      "num": 153359,
-      "word": "为什么辣条抓不住年轻人了",
-      "onboard_time": 1711155740,
-      "rank": 38,
-      "category": "美食"
     },
     {
       "raw_hot": 150841,
@@ -553,6 +593,14 @@
       "onboard_time": 1711151536,
       "rank": 42,
       "category": "情感"
+    },
+    {
+      "raw_hot": 142137,
+      "num": 142137,
+      "word": "目击者拍到恐怖分子手持AK47",
+      "onboard_time": 1711156939,
+      "rank": 41,
+      "category": "国外时政"
     },
     {
       "raw_hot": 142063,
@@ -932,6 +980,9 @@
     },
     {
       "word": "#习近平总书记湖南之行纪实#"
+    },
+    {
+      "word": "#总书记这趟行程一个重要关键词是新#"
     }
   ]
 }
