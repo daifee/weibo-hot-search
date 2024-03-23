@@ -1,6 +1,6 @@
 {
   "startTime": 1709223640991,
-  "endTime": 1711161250263,
+  "endTime": 1711163958512,
   "band_list": [
     {
       "raw_hot": 12728050,
@@ -6619,6 +6619,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 862286,
+      "num": 862286,
+      "word": "中国留学生亲历莫斯科恐怖袭击",
+      "onboard_time": 1711161502,
+      "rank": 3,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 862225,
       "num": 862225,
       "word": "建议火车票免费改签2次",
@@ -7705,6 +7713,14 @@
       "onboard_time": 1709363011,
       "rank": 28,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 777490,
+      "num": 777490,
+      "word": "王者荣耀称将严肃回击",
+      "onboard_time": 1711160241,
+      "rank": 36,
+      "category": "电竞"
     },
     {
       "raw_hot": 776697,
@@ -14907,6 +14923,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 492365,
+      "num": 492365,
+      "word": "王者荣耀 阴阳师",
+      "onboard_time": 1711163480,
+      "rank": 7,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 492303,
       "num": 492303,
       "word": "建议对伤人犬只饲养者追刑责",
@@ -16131,6 +16155,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 463005,
+      "num": 302073,
+      "word": "男子常熬夜致眼睛成80岁状态",
+      "onboard_time": 1711160181,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 462467,
       "num": 462467,
       "word": "马龙林高远3比2樊振东王楚钦",
@@ -16369,6 +16401,14 @@
       "onboard_time": 1710493602,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 457129,
+      "num": 457129,
+      "word": "你好星期六全员cos加速猎人",
+      "onboard_time": 1711161861,
+      "rank": 8,
+      "category": "综艺"
     },
     {
       "raw_hot": 456912,
@@ -17721,14 +17761,6 @@
       "onboard_time": 1710306934,
       "rank": 37,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 424901,
-      "num": 424901,
-      "word": "王者荣耀称将严肃回击",
-      "onboard_time": 1711160241,
-      "rank": 36,
-      "category": "电竞"
     },
     {
       "raw_hot": 424688,
@@ -20545,6 +20577,14 @@
       "onboard_time": 1709968171,
       "rank": 34,
       "category": "情感"
+    },
+    {
+      "raw_hot": 365688,
+      "num": 365688,
+      "word": "赵丽颖工作室辟谣出演咸雪",
+      "onboard_time": 1711162400,
+      "rank": 16,
+      "category": "剧集"
     },
     {
       "raw_hot": 365624,
@@ -25339,14 +25379,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 289568,
-      "num": 289568,
-      "word": "男子常熬夜致眼睛成80岁状态",
-      "onboard_time": 1711160181,
-      "rank": 34,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 289479,
       "num": 289479,
       "word": "伊能静儿子哈利时装周vlog",
@@ -26027,6 +26059,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 279242,
+      "num": 279242,
+      "word": "五哈",
+      "onboard_time": 1711162762,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 279174,
       "num": 279174,
       "word": "国家线什么时候出",
@@ -26425,6 +26465,14 @@
       "onboard_time": 1709857770,
       "rank": 24,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 274786,
+      "num": 274786,
+      "word": "颜值输给了簪花的男友",
+      "onboard_time": 1711163182,
+      "rank": 24,
+      "category": "幽默"
     },
     {
       "raw_hot": 274710,
@@ -29131,6 +29179,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 245776,
+      "num": 245776,
+      "word": "计算机二级wps",
+      "onboard_time": 1711163301,
+      "rank": 28,
+      "category": "教育"
+    },
+    {
       "raw_hot": 245688,
       "num": 245688,
       "word": "Gucci活动",
@@ -29200,6 +29256,14 @@
       "word": "老人15万买基金一年多亏近五万",
       "onboard_time": 1709867911,
       "rank": 36,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 245201,
+      "num": 245201,
+      "word": "贵人鸟创始人身家曾达190亿",
+      "onboard_time": 1711159821,
+      "rank": 41,
       "category": "财经"
     },
     {
@@ -29481,6 +29545,14 @@
       "onboard_time": 1710937775,
       "rank": 49,
       "category": "美食"
+    },
+    {
+      "raw_hot": 243005,
+      "num": 243005,
+      "word": "俄罗斯一炼油厂起火",
+      "onboard_time": 1711162458,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 242967,
@@ -30651,12 +30723,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 232621,
-      "num": 232621,
-      "word": "贵人鸟创始人身家曾达190亿",
-      "onboard_time": 1711159821,
-      "rank": 41,
-      "category": "财经"
+      "raw_hot": 232596,
+      "num": 232596,
+      "word": "普京",
+      "onboard_time": 1711163480,
+      "rank": 31,
+      "category": "国外时政"
     },
     {
       "raw_hot": 232540,
@@ -33819,6 +33891,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 212907,
+      "num": 212907,
+      "word": "驻俄使馆称暂无涉中国公民伤亡报告",
+      "onboard_time": 1711163182,
+      "rank": 33,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 212740,
       "num": 272229,
       "word": "杨紫怼脸拍状态",
@@ -34507,6 +34587,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 208756,
+      "num": 208756,
+      "word": "盒子里的猫定档",
+      "onboard_time": 1711161141,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 208729,
       "num": 208729,
       "word": "家属回应邯郸被害男生尸检进展",
@@ -34673,6 +34761,14 @@
       "onboard_time": 1710771696,
       "rank": 41,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 207993,
+      "num": 207993,
+      "word": "现场缴获恐怖分子武器画面曝光",
+      "onboard_time": 1711161261,
+      "rank": 37,
+      "category": "国外时政"
     },
     {
       "raw_hot": 207973,
@@ -34929,6 +35025,14 @@
       "onboard_time": 1710506497,
       "rank": 42,
       "category": "社会新闻,互联网"
+    },
+    {
+      "raw_hot": 206676,
+      "num": 206676,
+      "word": "这堂课抬头率100%",
+      "onboard_time": 1711163061,
+      "rank": 38,
+      "category": "教育"
     },
     {
       "raw_hot": 206638,
@@ -37619,6 +37723,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 195811,
+      "num": 195811,
+      "word": "我们一起看张杰爬上来",
+      "onboard_time": 1711161681,
+      "rank": 40,
+      "category": "演出"
+    },
+    {
       "raw_hot": 195790,
       "num": 195790,
       "word": "康康亲吻Smoggy",
@@ -38113,6 +38225,14 @@
       "onboard_time": 1710158733,
       "rank": 19,
       "category": "教育"
+    },
+    {
+      "raw_hot": 193923,
+      "num": 193923,
+      "word": "凯特王妃宣布患癌视频录制于3天前",
+      "onboard_time": 1711163722,
+      "rank": 41,
+      "category": "国外时政"
     },
     {
       "raw_hot": 193905,
@@ -39417,6 +39537,14 @@
       "onboard_time": 1709694092,
       "rank": 27,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 188882,
+      "num": 188882,
+      "word": "夏之光成都",
+      "onboard_time": 1711163601,
+      "rank": 43,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 188823,
@@ -51849,14 +51977,6 @@
       "onboard_time": 1710200244,
       "rank": 42,
       "category": "美食"
-    },
-    {
-      "raw_hot": 137413,
-      "num": 137413,
-      "word": "盒子里的猫定档",
-      "onboard_time": 1711161141,
-      "rank": 47,
-      "category": "综艺"
     },
     {
       "raw_hot": 137377,
