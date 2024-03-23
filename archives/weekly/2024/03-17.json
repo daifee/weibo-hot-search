@@ -1,6 +1,6 @@
 {
   "startTime": 1710605970310,
-  "endTime": 1711203272127,
+  "endTime": 1711204442773,
   "band_list": [
     {
       "raw_hot": 11692231,
@@ -475,6 +475,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 1899868,
+      "num": 1899868,
+      "word": "尔冬升把徐若晗赶出片场",
+      "onboard_time": 1711199541,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1896918,
       "num": 1896918,
       "word": "你愿意为了调休连上7天班吗",
@@ -489,14 +497,6 @@
       "onboard_time": 1710632964,
       "rank": 0,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1870216,
-      "num": 1870216,
-      "word": "尔冬升把徐若晗赶出片场",
-      "onboard_time": 1711199541,
-      "rank": 27,
-      "category": "综艺"
     },
     {
       "raw_hot": 1862763,
@@ -1435,6 +1435,14 @@
       "category": "剧集,综艺"
     },
     {
+      "raw_hot": 1214997,
+      "num": 1214997,
+      "word": "小爱同学差点帮我买了一套房",
+      "onboard_time": 1711199541,
+      "rank": 39,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 1214513,
       "num": 534554,
       "word": "追风者 好大的尺度",
@@ -1497,6 +1505,14 @@
       "onboard_time": 1710847054,
       "rank": 3,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1196484,
+      "num": 719153,
+      "word": "南北",
+      "onboard_time": 1711201761,
+      "rank": 11,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 1196343,
@@ -1577,6 +1593,14 @@
       "onboard_time": 1710936756,
       "rank": 8,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1148903,
+      "num": 1148903,
+      "word": "难哄要官宣了",
+      "onboard_time": 1711203021,
+      "rank": 33,
+      "category": "剧集"
     },
     {
       "raw_hot": 1147233,
@@ -1833,14 +1857,6 @@
       "onboard_time": 1711164439,
       "rank": 26,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1028167,
-      "num": 1028167,
-      "word": "小爱同学差点帮我买了一套房",
-      "onboard_time": 1711199541,
-      "rank": 39,
-      "category": "幽默"
     },
     {
       "raw_hot": 1024321,
@@ -2291,6 +2307,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 906691,
+      "num": 906691,
+      "word": "郝蕾说看纪凌尘演戏太难受了",
+      "onboard_time": 1711200381,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 897607,
       "num": 746169,
       "word": "苹果高管一家四口被撞身亡",
@@ -2571,14 +2595,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 827800,
-      "num": 697981,
-      "word": "南北",
-      "onboard_time": 1711201761,
-      "rank": 11,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 826561,
       "num": 826561,
       "word": "SM耍猴",
@@ -2633,14 +2649,6 @@
       "onboard_time": 1711097301,
       "rank": 7,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 810172,
-      "num": 810172,
-      "word": "郝蕾说看纪凌尘演戏太难受了",
-      "onboard_time": 1711200381,
-      "rank": 26,
-      "category": "综艺"
     },
     {
       "raw_hot": 807912,
@@ -3243,6 +3251,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 714182,
+      "num": 714182,
+      "word": "普京宣布24日为俄罗斯全民哀悼日",
+      "onboard_time": 1711200021,
+      "rank": 20,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 713485,
       "num": 713485,
       "word": "肖战cue身材",
@@ -3345,6 +3361,14 @@
       "onboard_time": 1710852819,
       "rank": 7,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 704283,
+      "num": 704283,
+      "word": "眼泪女王",
+      "onboard_time": 1710685542,
+      "rank": 15,
+      "category": "剧集"
     },
     {
       "raw_hot": 701951,
@@ -3457,14 +3481,6 @@
       "onboard_time": 1711002874,
       "rank": 42,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 675639,
-      "num": 675639,
-      "word": "普京宣布24日为俄罗斯全民哀悼日",
-      "onboard_time": 1711200021,
-      "rank": 20,
-      "category": "国外时政"
     },
     {
       "raw_hot": 675088,
@@ -3777,14 +3793,6 @@
       "onboard_time": 1710924937,
       "rank": 11,
       "category": "体育"
-    },
-    {
-      "raw_hot": 632194,
-      "num": 632194,
-      "word": "眼泪女王",
-      "onboard_time": 1710685542,
-      "rank": 15,
-      "category": "剧集"
     },
     {
       "raw_hot": 631988,
@@ -4497,6 +4505,14 @@
       "onboard_time": 1711090759,
       "rank": 12,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 556353,
+      "num": 556353,
+      "word": "王俊凯爸妈的奶茶店引发粉丝凌晨排队",
+      "onboard_time": 1711201521,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 555448,
@@ -5939,14 +5955,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 429253,
-      "num": 429253,
-      "word": "王俊凯爸妈的奶茶店引发粉丝凌晨排队",
-      "onboard_time": 1711201521,
-      "rank": 22,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 428801,
       "num": 428801,
       "word": "迪丽热巴拉弓",
@@ -6363,6 +6371,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 399042,
+      "num": 399042,
+      "word": "俄遭袭音乐厅废墟中发现多具遗体",
+      "onboard_time": 1711202121,
+      "rank": 24,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 398632,
       "num": 346076,
       "word": "杜海涛 夏油杰",
@@ -6737,14 +6753,6 @@
       "onboard_time": 1711197800,
       "rank": 47,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 373242,
-      "num": 373242,
-      "word": "俄遭袭音乐厅废墟中发现多具遗体",
-      "onboard_time": 1711202121,
-      "rank": 24,
-      "category": "国外时政"
     },
     {
       "raw_hot": 372606,
@@ -7315,6 +7323,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 336783,
+      "num": 322483,
+      "word": "文韬不想泼水给蒲熠星",
+      "onboard_time": 1711203620,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 336444,
       "num": 336444,
       "word": "茉莉型人格",
@@ -7665,6 +7681,14 @@
       "onboard_time": 1710830855,
       "rank": 17,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 317117,
+      "num": 304319,
+      "word": "眼泪女王亲了",
+      "onboard_time": 1711204102,
+      "rank": 30,
+      "category": "剧集"
     },
     {
       "raw_hot": 316334,
@@ -8392,6 +8416,14 @@
       "word": "难怪郭碧婷说向佐工作严厉",
       "onboard_time": 1711178658,
       "rank": 25,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 289253,
+      "num": 244793,
+      "word": "郑合惠子回复粉丝",
+      "onboard_time": 1711203982,
+      "rank": 35,
       "category": "综艺"
     },
     {
@@ -9939,14 +9971,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 237243,
-      "num": 237243,
-      "word": "难哄要官宣了",
-      "onboard_time": 1711203021,
-      "rank": 33,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 237061,
       "num": 237061,
       "word": "计算机二级",
@@ -11123,6 +11147,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 215728,
+      "num": 199459,
+      "word": "白敬亭重庆plog",
+      "onboard_time": 1711202721,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 215646,
       "num": 215646,
       "word": "天水麻辣烫到底能火多久",
@@ -12115,6 +12147,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 201163,
+      "num": 198442,
+      "word": "追风者",
+      "onboard_time": 1710986490,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 201139,
       "num": 201139,
       "word": "烈焰新浪扫楼",
@@ -12259,14 +12299,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 199459,
-      "num": 199459,
-      "word": "白敬亭重庆plog",
-      "onboard_time": 1711202721,
-      "rank": 42,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 199438,
       "num": 199438,
       "word": "沈璃桃心发冠",
@@ -12377,14 +12409,6 @@
       "onboard_time": 1711081641,
       "rank": 36,
       "category": "演出"
-    },
-    {
-      "raw_hot": 198442,
-      "num": 198442,
-      "word": "追风者",
-      "onboard_time": 1710986490,
-      "rank": 48,
-      "category": "剧集"
     },
     {
       "raw_hot": 198387,
@@ -16929,6 +16953,14 @@
       "onboard_time": 1710658832,
       "rank": 39,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 140594,
+      "num": 140594,
+      "word": "丁俊晖vs罗伯逊",
+      "onboard_time": 1711204402,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 140560,
