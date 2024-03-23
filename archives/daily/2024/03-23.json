@@ -1,6 +1,6 @@
 {
   "startTime": 1711124556378,
-  "endTime": 1711167696932,
+  "endTime": 1711168432801,
   "band_list": [
     {
       "raw_hot": 10611140,
@@ -27,8 +27,8 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 1863907,
-      "num": 1863907,
+      "raw_hot": 1971520,
+      "num": 1971520,
       "word": "梅德韦杰夫称要血债血偿",
       "onboard_time": 1711164800,
       "rank": 46,
@@ -60,7 +60,7 @@
     },
     {
       "raw_hot": 1404182,
-      "num": 530810,
+      "num": 557852,
       "word": "黄子韬回应和徐艺洋吃饭被拍",
       "onboard_time": 1711159101,
       "rank": 25,
@@ -83,8 +83,8 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 1178824,
-      "num": 524172,
+      "raw_hot": 1209621,
+      "num": 1209621,
       "word": "莫斯科音乐厅厕所发现超10具尸体",
       "onboard_time": 1711157960,
       "rank": 30,
@@ -99,19 +99,19 @@
       "category": "情感"
     },
     {
+      "raw_hot": 1031657,
+      "num": 298331,
+      "word": "29岁女子怀孕隔天男友提分手",
+      "onboard_time": 1711164439,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1024177,
       "num": 1024177,
       "word": "火烧云孕妇免排队被指慷他人之慨",
       "onboard_time": 1711124717,
       "rank": 38,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 960629,
-      "num": 293073,
-      "word": "29岁女子怀孕隔天男友提分手",
-      "onboard_time": 1711164439,
-      "rank": 26,
       "category": "社会新闻"
     },
     {
@@ -171,8 +171,8 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 760452,
-      "num": 760452,
+      "raw_hot": 762715,
+      "num": 762715,
       "word": "颜值输给了簪花的男友",
       "onboard_time": 1711163182,
       "rank": 24,
@@ -200,6 +200,14 @@
       "word": "普京已知晓音乐厅恐袭事件",
       "onboard_time": 1711153341,
       "rank": 11,
+      "category": "国外时政"
+    },
+    {
+      "raw_hot": 690378,
+      "num": 690378,
+      "word": "偷看凯特病例员工或被永久吊销执照",
+      "onboard_time": 1711165761,
+      "rank": 9,
       "category": "国外时政"
     },
     {
@@ -243,6 +251,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 577972,
+      "num": 517080,
+      "word": "普京",
+      "onboard_time": 1711163480,
+      "rank": 31,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 577749,
       "num": 577749,
       "word": "睡不着就在床头放个苹果",
@@ -259,14 +275,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 547617,
-      "num": 517080,
-      "word": "普京",
-      "onboard_time": 1711163480,
-      "rank": 31,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 517519,
       "num": 393526,
       "word": "微信官方回应朋友圈横线问题",
@@ -280,14 +288,6 @@
       "word": "俄驻华使馆发微博",
       "onboard_time": 1711159101,
       "rank": 40,
-      "category": "国外时政"
-    },
-    {
-      "raw_hot": 506375,
-      "num": 506375,
-      "word": "偷看凯特病例员工或被永久吊销执照",
-      "onboard_time": 1711165761,
-      "rank": 9,
       "category": "国外时政"
     },
     {
@@ -353,6 +353,22 @@
       "onboard_time": 1711119499,
       "rank": 7,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 445765,
+      "num": 445765,
+      "word": "江苏事业编",
+      "onboard_time": 1711167140,
+      "rank": 18,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 445034,
+      "num": 445034,
+      "word": "中东土豪来北京亲提国产豪车",
+      "onboard_time": 1711166840,
+      "rank": 16,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 432904,
@@ -483,14 +499,6 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 312433,
-      "num": 312433,
-      "word": "中东土豪来北京亲提国产豪车",
-      "onboard_time": 1711166840,
-      "rank": 16,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 312081,
       "num": 312081,
       "word": "1名疑似莫斯科恐袭案枪手被捕",
@@ -505,6 +513,14 @@
       "onboard_time": 1711159162,
       "rank": 36,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 305401,
+      "num": 305401,
+      "word": "苏打绿二开",
+      "onboard_time": 1711167860,
+      "rank": 19,
+      "category": "演出"
     },
     {
       "raw_hot": 303731,
@@ -552,14 +568,6 @@
       "word": "计算机二级wps",
       "onboard_time": 1711163301,
       "rank": 28,
-      "category": "教育"
-    },
-    {
-      "raw_hot": 293554,
-      "num": 293554,
-      "word": "江苏事业编",
-      "onboard_time": 1711167140,
-      "rank": 18,
       "category": "教育"
     },
     {
@@ -659,6 +667,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 244297,
+      "num": 244297,
+      "word": "萧敬腾来郑州 河南下雨",
+      "onboard_time": 1711167800,
+      "rank": 26,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 244143,
       "num": 244143,
       "word": "4类食物越吃肚子越大",
@@ -683,11 +699,27 @@
       "category": "数码"
     },
     {
+      "raw_hot": 232930,
+      "num": 232930,
+      "word": "邓超五哈4开播好忙",
+      "onboard_time": 1711167321,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 232158,
       "num": 232158,
       "word": "莫斯科枪击案袭击者逃跑照片曝光",
       "onboard_time": 1711153879,
       "rank": 26,
+      "category": "国外时政"
+    },
+    {
+      "raw_hot": 230964,
+      "num": 230964,
+      "word": "俄卫生部称恐袭后115人入院治疗",
+      "onboard_time": 1711167620,
+      "rank": 44,
       "category": "国外时政"
     },
     {
@@ -747,6 +779,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 212000,
+      "num": 212000,
+      "word": "都选C的试卷终于出现了",
+      "onboard_time": 1711168221,
+      "rank": 30,
+      "category": "教育"
+    },
+    {
       "raw_hot": 209039,
       "num": 209039,
       "word": "现场缴获恐怖分子武器画面曝光",
@@ -785,14 +825,6 @@
       "onboard_time": 1711151897,
       "rank": 31,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 203788,
-      "num": 203788,
-      "word": "邓超五哈4开播好忙",
-      "onboard_time": 1711167321,
-      "rank": 31,
-      "category": "综艺"
     },
     {
       "raw_hot": 203209,
@@ -891,6 +923,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 178981,
+      "num": 178981,
+      "word": "别人处处吻 烈焰处处梗",
+      "onboard_time": 1711167020,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 174606,
       "num": 174606,
       "word": "老师不要跑",
@@ -923,14 +963,6 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 163377,
-      "num": 163377,
-      "word": "别人处处吻 烈焰处处梗",
-      "onboard_time": 1711167020,
-      "rank": 40,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 163288,
       "num": 163288,
       "word": "热辣滚烫冲进北美票房热榜",
@@ -955,12 +987,28 @@
       "category": "时尚,艺人"
     },
     {
+      "raw_hot": 161059,
+      "num": 161059,
+      "word": "俄乌冲突升级",
+      "onboard_time": 1711168279,
+      "rank": 45,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 160700,
       "num": 160700,
       "word": "执笔",
       "onboard_time": 1711122018,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 160698,
+      "num": 160698,
+      "word": "谁是中国吃辣第一省",
+      "onboard_time": 1711168101,
+      "rank": 46,
+      "category": "美食"
     },
     {
       "raw_hot": 159824,
@@ -1003,14 +1051,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 153317,
-      "num": 153317,
-      "word": "俄卫生部称恐袭后115人入院治疗",
-      "onboard_time": 1711167620,
-      "rank": 44,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 150841,
       "num": 150841,
       "word": "东京食尸鬼 爷青回",
@@ -1041,6 +1081,14 @@
       "onboard_time": 1711151476,
       "rank": 44,
       "category": "数码"
+    },
+    {
+      "raw_hot": 140507,
+      "num": 140507,
+      "word": "大学生版与凤行何错之有",
+      "onboard_time": 1711168402,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 134974,
@@ -1299,6 +1347,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 56084,
+      "num": 1577960,
+      "word": "春耕春管把科技范儿拉满",
+      "onboard_time": 1711166240,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 54287,
       "num": 54287,
       "word": "蛋仔派对",
@@ -1313,14 +1369,6 @@
       "onboard_time": 1711128016,
       "rank": 40,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 49444,
-      "num": 1469681,
-      "word": "春耕春管把科技范儿拉满",
-      "onboard_time": 1711166240,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 47182,
