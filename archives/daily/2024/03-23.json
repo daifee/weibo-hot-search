@@ -1,6 +1,6 @@
 {
   "startTime": 1711124556378,
-  "endTime": 1711179311256,
+  "endTime": 1711181972420,
   "band_list": [
     {
       "raw_hot": 10611140,
@@ -27,6 +27,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 2203237,
+      "num": 2203237,
+      "word": "2名莫斯科恐袭嫌疑人被捕",
+      "onboard_time": 1711180220,
+      "rank": 0,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 2111314,
       "num": 2111314,
       "word": "莫斯科恐袭",
@@ -40,6 +48,14 @@
       "word": "梅德韦杰夫称要血债血偿",
       "onboard_time": 1711164800,
       "rank": 46,
+      "category": "国外时政"
+    },
+    {
+      "raw_hot": 1777556,
+      "num": 472228,
+      "word": "isis",
+      "onboard_time": 1711178057,
+      "rank": 48,
       "category": "国外时政"
     },
     {
@@ -65,6 +81,14 @@
       "onboard_time": 1711119200,
       "rank": 3,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 1431515,
+      "num": 1431515,
+      "word": "新版微信朋友圈都是短线",
+      "onboard_time": 1711178120,
+      "rank": 49,
+      "category": "互联网"
     },
     {
       "raw_hot": 1428375,
@@ -161,6 +185,14 @@
       "onboard_time": 1711107018,
       "rank": 0,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 864360,
+      "num": 864360,
+      "word": "鹿晗腹肌没了",
+      "onboard_time": 1711180399,
+      "rank": 5,
+      "category": "综艺"
     },
     {
       "raw_hot": 860567,
@@ -347,14 +379,6 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 547692,
-      "num": 461157,
-      "word": "新版微信朋友圈都是短线",
-      "onboard_time": 1711178120,
-      "rank": 49,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 524691,
       "num": 524691,
       "word": "鹿晗宝石老舅王勉被范志毅偷家",
@@ -427,6 +451,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 473034,
+      "num": 473034,
+      "word": "叶蓁蓁 22楼所有人的后盾",
+      "onboard_time": 1711177519,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 470795,
+      "num": 470795,
+      "word": "周杰伦演唱会抢票",
+      "onboard_time": 1711179259,
+      "rank": 47,
+      "category": "演出"
+    },
+    {
       "raw_hot": 457449,
       "num": 457449,
       "word": "为什么大多数销冠都是女的",
@@ -441,14 +481,6 @@
       "onboard_time": 1711161861,
       "rank": 8,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 450099,
-      "num": 450099,
-      "word": "isis",
-      "onboard_time": 1711178057,
-      "rank": 48,
-      "category": "国外时政"
     },
     {
       "raw_hot": 447813,
@@ -475,6 +507,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 441861,
+      "num": 441861,
+      "word": "吴磊浙江警察学院路演",
+      "onboard_time": 1711179139,
+      "rank": 44,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 441008,
+      "num": 441008,
+      "word": "莫斯科献血点排起长队",
+      "onboard_time": 1711180038,
+      "rank": 14,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 437759,
       "num": 386203,
       "word": "少年法庭",
@@ -497,6 +545,14 @@
       "onboard_time": 1711172059,
       "rank": 16,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 424529,
+      "num": 299830,
+      "word": "长期睡前玩手机会付出什么代价",
+      "onboard_time": 1711180159,
+      "rank": 21,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 422923,
@@ -529,14 +585,6 @@
       "onboard_time": 1711173678,
       "rank": 18,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 386663,
-      "num": 386663,
-      "word": "叶蓁蓁 22楼所有人的后盾",
-      "onboard_time": 1711177519,
-      "rank": 26,
-      "category": "剧集"
     },
     {
       "raw_hot": 386095,
@@ -699,6 +747,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 299639,
+      "num": 299639,
+      "word": "发现我网购的桌子融化了",
+      "onboard_time": 1711179799,
+      "rank": 22,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 299340,
       "num": 249744,
       "word": "谁是中国吃辣第一省",
@@ -776,6 +832,14 @@
       "word": "难怪郭碧婷说向佐工作严厉",
       "onboard_time": 1711178658,
       "rank": 25,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 288251,
+      "num": 288251,
+      "word": "王俊凯看到哥哥我怕的反应",
+      "onboard_time": 1711181659,
+      "rank": 24,
       "category": "综艺"
     },
     {
@@ -947,6 +1011,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 232413,
+      "num": 232413,
+      "word": "塔吉克斯坦否认莫斯科州恐袭嫌疑人为塔公民",
+      "onboard_time": 1711180819,
+      "rank": 27,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 232158,
       "num": 232158,
       "word": "莫斯科枪击案袭击者逃跑照片曝光",
@@ -969,6 +1041,14 @@
       "onboard_time": 1711167620,
       "rank": 44,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 229912,
+      "num": 229912,
+      "word": "TST庭秘密开店65天销量仅3件",
+      "onboard_time": 1711181659,
+      "rank": 28,
+      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 227791,
@@ -1475,12 +1555,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 144917,
-      "num": 144917,
-      "word": "吴磊浙江警察学院路演",
-      "onboard_time": 1711179139,
-      "rank": 44,
-      "category": "电影"
+      "raw_hot": 142787,
+      "num": 142787,
+      "word": "C型性格的人患癌风险高3倍",
+      "onboard_time": 1711181419,
+      "rank": 40,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 142299,
@@ -1513,14 +1593,6 @@
       "onboard_time": 1711120880,
       "rank": 31,
       "category": "情感"
-    },
-    {
-      "raw_hot": 131978,
-      "num": 131978,
-      "word": "周杰伦演唱会抢票",
-      "onboard_time": 1711179259,
-      "rank": 47,
-      "category": "演出"
     },
     {
       "raw_hot": 128034,
@@ -1579,6 +1651,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 118215,
+      "num": 1472855,
+      "word": "2023全国十大考古新发现",
+      "onboard_time": 1711180878,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 117575,
       "num": 117575,
       "word": "这类玩具致癌",
@@ -1608,6 +1688,14 @@
       "word": "奔跑吧全员好美的精神状态",
       "onboard_time": 1711127234,
       "rank": 33,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 112460,
+      "num": 112460,
+      "word": "新说唱选手否认范丞丞被diss",
+      "onboard_time": 1711179318,
+      "rank": 46,
       "category": "综艺"
     },
     {

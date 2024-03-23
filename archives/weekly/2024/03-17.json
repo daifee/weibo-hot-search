@@ -1,6 +1,6 @@
 {
   "startTime": 1710605970310,
-  "endTime": 1711179311256,
+  "endTime": 1711181972420,
   "band_list": [
     {
       "raw_hot": 11692231,
@@ -315,6 +315,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 2203237,
+      "num": 2203237,
+      "word": "2名莫斯科恐袭嫌疑人被捕",
+      "onboard_time": 1711180220,
+      "rank": 0,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 2161623,
       "num": 879031,
       "word": "裴涩琪怀孕",
@@ -553,6 +561,14 @@
       "onboard_time": 1710813933,
       "rank": 17,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 1777556,
+      "num": 472228,
+      "word": "isis",
+      "onboard_time": 1711178057,
+      "rank": 48,
+      "category": "国外时政"
     },
     {
       "raw_hot": 1747609,
@@ -849,6 +865,14 @@
       "onboard_time": 1711074378,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1431515,
+      "num": 1431515,
+      "word": "新版微信朋友圈都是短线",
+      "onboard_time": 1711178120,
+      "rank": 49,
+      "category": "互联网"
     },
     {
       "raw_hot": 1429532,
@@ -2209,6 +2233,14 @@
       "onboard_time": 1710717566,
       "rank": 28,
       "category": "美食"
+    },
+    {
+      "raw_hot": 864360,
+      "num": 864360,
+      "word": "鹿晗腹肌没了",
+      "onboard_time": 1711180399,
+      "rank": 5,
+      "category": "综艺"
     },
     {
       "raw_hot": 863617,
@@ -4283,14 +4315,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 547692,
-      "num": 461157,
-      "word": "新版微信朋友圈都是短线",
-      "onboard_time": 1711178120,
-      "rank": 49,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 547448,
       "num": 547448,
       "word": "苹果市值一夜蒸发超7919亿",
@@ -5027,6 +5051,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 473034,
+      "num": 473034,
+      "word": "叶蓁蓁 22楼所有人的后盾",
+      "onboard_time": 1711177519,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 472246,
       "num": 472246,
       "word": "当爷爷知道我的猫4000一只",
@@ -5049,6 +5081,14 @@
       "onboard_time": 1710736661,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 470795,
+      "num": 470795,
+      "word": "周杰伦演唱会抢票",
+      "onboard_time": 1711179259,
+      "rank": 47,
+      "category": "演出"
     },
     {
       "raw_hot": 469906,
@@ -5275,14 +5315,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 450099,
-      "num": 450099,
-      "word": "isis",
-      "onboard_time": 1711178057,
-      "rank": 48,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 448838,
       "num": 306677,
       "word": "我爸退出了家族群",
@@ -5361,6 +5393,22 @@
       "onboard_time": 1710933578,
       "rank": 13,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 441861,
+      "num": 441861,
+      "word": "吴磊浙江警察学院路演",
+      "onboard_time": 1711179139,
+      "rank": 44,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 441008,
+      "num": 441008,
+      "word": "莫斯科献血点排起长队",
+      "onboard_time": 1711180038,
+      "rank": 14,
+      "category": "国外时政"
     },
     {
       "raw_hot": 440709,
@@ -5617,6 +5665,14 @@
       "onboard_time": 1710730054,
       "rank": 48,
       "category": "财经"
+    },
+    {
+      "raw_hot": 424529,
+      "num": 299830,
+      "word": "长期睡前玩手机会付出什么代价",
+      "onboard_time": 1711180159,
+      "rank": 21,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 424313,
@@ -6128,14 +6184,6 @@
       "word": "get到刘学义",
       "onboard_time": 1710646175,
       "rank": 32,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 386663,
-      "num": 386663,
-      "word": "叶蓁蓁 22楼所有人的后盾",
-      "onboard_time": 1711177519,
-      "rank": 26,
       "category": "剧集"
     },
     {
@@ -7651,6 +7699,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 299639,
+      "num": 299639,
+      "word": "发现我网购的桌子融化了",
+      "onboard_time": 1711179799,
+      "rank": 22,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 299494,
       "num": 299494,
       "word": "陈都灵央视镜头",
@@ -7969,6 +8025,14 @@
       "onboard_time": 1710819095,
       "rank": 33,
       "category": "情感"
+    },
+    {
+      "raw_hot": 288251,
+      "num": 288251,
+      "word": "王俊凯看到哥哥我怕的反应",
+      "onboard_time": 1711181659,
+      "rank": 24,
+      "category": "综艺"
     },
     {
       "raw_hot": 287624,
@@ -9547,6 +9611,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 232413,
+      "num": 232413,
+      "word": "塔吉克斯坦否认莫斯科州恐袭嫌疑人为塔公民",
+      "onboard_time": 1711180819,
+      "rank": 27,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 232158,
       "num": 232158,
       "word": "莫斯科枪击案袭击者逃跑照片曝光",
@@ -9673,6 +9745,14 @@
       "onboard_time": 1710742651,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 229912,
+      "num": 229912,
+      "word": "TST庭秘密开店65天销量仅3件",
+      "onboard_time": 1711181659,
+      "rank": 28,
+      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 229738,
@@ -15659,14 +15739,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 144917,
-      "num": 144917,
-      "word": "吴磊浙江警察学院路演",
-      "onboard_time": 1711179139,
-      "rank": 44,
-      "category": "电影"
-    },
-    {
       "raw_hot": 144787,
       "num": 144787,
       "word": "魏若来好像快碎了",
@@ -15777,6 +15849,14 @@
       "onboard_time": 1710923436,
       "rank": 32,
       "category": "数码"
+    },
+    {
+      "raw_hot": 142787,
+      "num": 142787,
+      "word": "C型性格的人患癌风险高3倍",
+      "onboard_time": 1711181419,
+      "rank": 40,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 142764,
@@ -16579,14 +16659,6 @@
       "category": "艺人,作品衍生"
     },
     {
-      "raw_hot": 131978,
-      "num": 131978,
-      "word": "周杰伦演唱会抢票",
-      "onboard_time": 1711179259,
-      "rank": 47,
-      "category": "演出"
-    },
-    {
       "raw_hot": 131742,
       "num": 131742,
       "word": "第一次听说低温烫伤",
@@ -17283,6 +17355,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 118215,
+      "num": 1472855,
+      "word": "2023全国十大考古新发现",
+      "onboard_time": 1711180878,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 117988,
       "num": 117988,
       "word": "俄乌局势新进展",
@@ -17545,6 +17625,14 @@
       "onboard_time": 1711110438,
       "rank": 46,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 112460,
+      "num": 112460,
+      "word": "新说唱选手否认范丞丞被diss",
+      "onboard_time": 1711179318,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 112184,

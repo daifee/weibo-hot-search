@@ -1,0 +1,410 @@
+{
+  "runTime": 1711181972420,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2203237,
+        "num": 2203237,
+        "word": "2名莫斯科恐袭嫌疑人被捕",
+        "onboard_time": 1711180220,
+        "rank": 0,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 2031410,
+        "num": 2031410,
+        "word": "俄罗斯已进入战争状态",
+        "onboard_time": 1711155619,
+        "rank": 1,
+        "category": "国外时政,军事"
+      },
+      {
+        "raw_hot": 118215,
+        "num": 1472855,
+        "word": "2023全国十大考古新发现",
+        "onboard_time": 1711180878,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1431515,
+        "num": 1431515,
+        "word": "新版微信朋友圈都是短线",
+        "onboard_time": 1711178120,
+        "rank": 3,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 1216945,
+        "num": 1216945,
+        "word": "南航大学回应学生与教授发生关系",
+        "onboard_time": 1711176439,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 864360,
+        "num": 864360,
+        "word": "鹿晗腹肌没了",
+        "onboard_time": 1711180399,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 537581,
+        "num": 537581,
+        "word": "都选C的试卷终于出现了",
+        "onboard_time": 1711168221,
+        "rank": 6,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 491229,
+        "num": 491229,
+        "word": "莫斯科母婴室发现遇难者",
+        "onboard_time": 1711173379,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 488012,
+        "num": 488012,
+        "word": "凯特王妃宣布患癌视频录制于3天前",
+        "onboard_time": 1711163722,
+        "rank": 8,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 473034,
+        "num": 473034,
+        "word": "叶蓁蓁 22楼所有人的后盾",
+        "onboard_time": 1711177519,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1777556,
+        "num": 472228,
+        "word": "isis",
+        "onboard_time": 1711178057,
+        "rank": 10,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 470795,
+        "num": 470795,
+        "word": "周杰伦演唱会抢票",
+        "onboard_time": 1711179259,
+        "rank": 11,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 450775,
+        "num": 450775,
+        "word": "黄子韬回应和徐艺洋吃饭被拍",
+        "onboard_time": 1711159101,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 441861,
+        "num": 441861,
+        "word": "吴磊浙江警察学院路演",
+        "onboard_time": 1711179139,
+        "rank": 13,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 441008,
+        "num": 441008,
+        "word": "莫斯科献血点排起长队",
+        "onboard_time": 1711180038,
+        "rank": 14,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 417063,
+        "num": 417063,
+        "word": "莫斯科音乐厅厕所发现超10具尸体",
+        "onboard_time": 1711157960,
+        "rank": 15,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 385020,
+        "num": 385020,
+        "word": "迪丽热巴宣传为地球献出一小时",
+        "onboard_time": 1711176499,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 377766,
+        "num": 377766,
+        "word": "盒子里的猫",
+        "onboard_time": 1711176198,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 375972,
+        "num": 375972,
+        "word": "李白 大司命",
+        "onboard_time": 1711174636,
+        "rank": 18,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 300052,
+        "num": 300052,
+        "word": "莫斯科恐袭",
+        "onboard_time": 1711172238,
+        "rank": 19,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 601852,
+        "num": 299958,
+        "word": "29岁女子怀孕隔天男友提分手",
+        "onboard_time": 1711164439,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 424529,
+        "num": 299830,
+        "word": "长期睡前玩手机会付出什么代价",
+        "onboard_time": 1711180159,
+        "rank": 21,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 299639,
+        "num": 299639,
+        "word": "发现我网购的桌子融化了",
+        "onboard_time": 1711179799,
+        "rank": 22,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 297900,
+        "num": 297900,
+        "word": "邓超背着孙俪在家干这事",
+        "onboard_time": 1711169898,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 288251,
+        "num": 288251,
+        "word": "王俊凯看到哥哥我怕的反应",
+        "onboard_time": 1711181659,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 285955,
+        "num": 285955,
+        "word": "难怪郭碧婷说向佐工作严厉",
+        "onboard_time": 1711178658,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 246803,
+        "num": 246803,
+        "word": "少年法庭",
+        "onboard_time": 1711173437,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 232413,
+        "num": 232413,
+        "word": "塔吉克斯坦否认莫斯科州恐袭嫌疑人为塔公民",
+        "onboard_time": 1711180819,
+        "rank": 27,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 229912,
+        "num": 229912,
+        "word": "TST庭秘密开店65天销量仅3件",
+        "onboard_time": 1711181659,
+        "rank": 28,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 204826,
+        "num": 204826,
+        "word": "花少好友记嘉宾",
+        "onboard_time": 1711177698,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 204654,
+        "num": 204654,
+        "word": "鹿晗宝石老舅王勉被范志毅偷家",
+        "onboard_time": 1711173859,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 199616,
+        "num": 199616,
+        "word": "水哥 鬼才之眼",
+        "onboard_time": 1711173678,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 198490,
+        "num": 198490,
+        "word": "英国凯特王妃患癌症",
+        "onboard_time": 1711149195,
+        "rank": 32,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 196109,
+        "num": 196109,
+        "word": "王者荣耀 阴阳师",
+        "onboard_time": 1711163480,
+        "rank": 33,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 195293,
+        "num": 195293,
+        "word": "胡锡进称俄罗斯面临严峻形势",
+        "onboard_time": 1711170740,
+        "rank": 34,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 168903,
+        "num": 168903,
+        "word": "普京听取莫斯科恐袭调查进展报告",
+        "onboard_time": 1711177400,
+        "rank": 35,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 167310,
+        "num": 167310,
+        "word": "伊斯兰国为何袭击莫斯科",
+        "onboard_time": 1711169182,
+        "rank": 36,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 162965,
+        "num": 162965,
+        "word": "莫斯科恐袭死亡人数增至70",
+        "onboard_time": 1711157480,
+        "rank": 37,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 148942,
+        "num": 148942,
+        "word": "王楚钦退赛李元璋递补",
+        "onboard_time": 1711176679,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 143671,
+        "num": 143671,
+        "word": "王俊凯无锡",
+        "onboard_time": 1711164561,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 142787,
+        "num": 142787,
+        "word": "C型性格的人患癌风险高3倍",
+        "onboard_time": 1711181419,
+        "rank": 40,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 140673,
+        "num": 140673,
+        "word": "实习生为了36万年薪放弃交大保研",
+        "onboard_time": 1711156279,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 125807,
+        "num": 125807,
+        "word": "谁是中国吃辣第一省",
+        "onboard_time": 1711168101,
+        "rank": 42,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 124297,
+        "num": 124297,
+        "word": "蒋欣角色 得不到的爱",
+        "onboard_time": 1711171879,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 138352,
+        "num": 122583,
+        "word": "王俊凯浑身是胆",
+        "onboard_time": 1711177038,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 119093,
+        "num": 119093,
+        "word": "颜值输给了簪花的男友",
+        "onboard_time": 1711163182,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 112460,
+        "num": 112460,
+        "word": "新说唱选手否认范丞丞被diss",
+        "onboard_time": 1711179318,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 108208,
+        "num": 108208,
+        "word": "花间令女性群像",
+        "onboard_time": 1711178778,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 107105,
+        "num": 107105,
+        "word": "凯特王妃",
+        "onboard_time": 1711174218,
+        "rank": 48,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 100037,
+        "num": 100037,
+        "word": "赵丽颖工作室辟谣出演咸雪",
+        "onboard_time": 1711162400,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记对湖南寄予厚望#"
+    }
+  }
+}
