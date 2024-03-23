@@ -1,6 +1,6 @@
 {
   "startTime": 1711124556378,
-  "endTime": 1711197101065,
+  "endTime": 1711197904776,
   "band_list": [
     {
       "raw_hot": 10611140,
@@ -27,8 +27,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 2579647,
-      "num": 2579647,
+      "raw_hot": 2668002,
+      "num": 2668002,
       "word": "俄恐袭已致143人遇难",
       "onboard_time": 1711193779,
       "rank": 0,
@@ -219,6 +219,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 1201397,
+      "num": 1201397,
+      "word": "王室专家称凯特因孩子推迟公布患癌",
+      "onboard_time": 1711194080,
+      "rank": 5,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 1179535,
       "num": 1179535,
       "word": "赵丽颖抹胸亮片高定裙",
@@ -227,20 +235,20 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 1175570,
+      "num": 1175570,
+      "word": "粉丝曾提醒夏之光是霸王茶姬",
+      "onboard_time": 1711194319,
+      "rank": 6,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1140133,
       "num": 1140133,
       "word": "南航大学涉事师生已报警",
       "onboard_time": 1711185859,
       "rank": 18,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1135673,
-      "num": 1135673,
-      "word": "王室专家称凯特因孩子推迟公布患癌",
-      "onboard_time": 1711194080,
-      "rank": 5,
-      "category": "国外时政"
     },
     {
       "raw_hot": 1083250,
@@ -265,6 +273,14 @@
       "onboard_time": 1711124717,
       "rank": 38,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1014904,
+      "num": 524396,
+      "word": "莫斯科恐袭嫌疑人被捕现场",
+      "onboard_time": 1711197139,
+      "rank": 11,
+      "category": "国外时政"
     },
     {
       "raw_hot": 999959,
@@ -305,14 +321,6 @@
       "onboard_time": 1711190299,
       "rank": 5,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 899028,
-      "num": 899028,
-      "word": "粉丝曾提醒夏之光是霸王茶姬",
-      "onboard_time": 1711194319,
-      "rank": 6,
-      "category": "艺人"
     },
     {
       "raw_hot": 898278,
@@ -467,6 +475,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 643610,
+      "num": 535464,
+      "word": "赵露思出图",
+      "onboard_time": 1711195399,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 643025,
       "num": 643025,
       "word": "普京将就恐怖袭击事件发表电视演讲",
@@ -571,12 +587,12 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 535464,
-      "num": 535464,
-      "word": "赵露思出图",
-      "onboard_time": 1711195399,
-      "rank": 12,
-      "category": "艺人"
+      "raw_hot": 536562,
+      "num": 536562,
+      "word": "医生提醒千万不要这样缓解压力",
+      "onboard_time": 1711194619,
+      "rank": 14,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 525236,
@@ -628,7 +644,7 @@
     },
     {
       "raw_hot": 505777,
-      "num": 334399,
+      "num": 408257,
       "word": "林俊杰开大G",
       "onboard_time": 1711196060,
       "rank": 20,
@@ -657,14 +673,6 @@
       "onboard_time": 1711150035,
       "rank": 41,
       "category": "体育"
-    },
-    {
-      "raw_hot": 489633,
-      "num": 489633,
-      "word": "医生提醒千万不要这样缓解压力",
-      "onboard_time": 1711194619,
-      "rank": 14,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 487679,
@@ -859,6 +867,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 367709,
+      "num": 367709,
+      "word": "张杰给内娱一点小小的震撼",
+      "onboard_time": 1711197020,
+      "rank": 39,
+      "category": "演出"
+    },
+    {
       "raw_hot": 367413,
       "num": 367413,
       "word": "这4个体检项目没必要做",
@@ -913,6 +929,14 @@
       "onboard_time": 1711160542,
       "rank": 19,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 342788,
+      "num": 342788,
+      "word": "菲律宾船对中国海警举白旗",
+      "onboard_time": 1711196659,
+      "rank": 40,
+      "category": "国内时政"
     },
     {
       "raw_hot": 333123,
@@ -1211,6 +1235,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 258672,
+      "num": 243750,
+      "word": "沈腾马丽中国影史票房最高男女主演",
+      "onboard_time": 1711197260,
+      "rank": 30,
+      "category": "电影"
+    },
+    {
       "raw_hot": 258065,
       "num": 258065,
       "word": "贵人鸟公告退市",
@@ -1220,7 +1252,7 @@
     },
     {
       "raw_hot": 257939,
-      "num": 228148,
+      "num": 235147,
       "word": "撒贝宁带妻子在新疆庆生",
       "onboard_time": 1711195520,
       "rank": 30,
@@ -1241,6 +1273,14 @@
       "onboard_time": 1711116079,
       "rank": 15,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 251086,
+      "num": 251086,
+      "word": "吃出这些味道说明你过敏了",
+      "onboard_time": 1711195220,
+      "rank": 29,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 248484,
@@ -1377,14 +1417,6 @@
       "onboard_time": 1711188080,
       "rank": 32,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 228228,
-      "num": 228228,
-      "word": "吃出这些味道说明你过敏了",
-      "onboard_time": 1711195220,
-      "rank": 29,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 227791,
@@ -1537,6 +1569,14 @@
       "onboard_time": 1711111639,
       "rank": 19,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 204306,
+      "num": 204306,
+      "word": "CD27",
+      "onboard_time": 1711197380,
+      "rank": 34,
+      "category": "动漫"
     },
     {
       "raw_hot": 203871,
@@ -1707,6 +1747,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 193605,
+      "num": 193605,
+      "word": "买黄金前一定要看的冷知识",
+      "onboard_time": 1711197800,
+      "rank": 36,
+      "category": "财经"
+    },
+    {
       "raw_hot": 193368,
       "num": 193368,
       "word": "莫斯科恐袭3名儿童遇难",
@@ -1729,14 +1777,6 @@
       "onboard_time": 1711166360,
       "rank": 33,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 191218,
-      "num": 191218,
-      "word": "张杰给内娱一点小小的震撼",
-      "onboard_time": 1711197020,
-      "rank": 39,
-      "category": "演出"
     },
     {
       "raw_hot": 189897,
@@ -1811,14 +1851,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 180395,
-      "num": 180395,
-      "word": "菲律宾船对中国海警举白旗",
-      "onboard_time": 1711196659,
-      "rank": 40,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 179173,
       "num": 179173,
       "word": "张杰音响",
@@ -1875,6 +1907,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 173439,
+      "num": 173439,
+      "word": "猜猜我是谁 不骗穷人",
+      "onboard_time": 1711196780,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 173162,
       "num": 173162,
       "word": "边伯贤东京演唱会",
@@ -1897,6 +1937,14 @@
       "onboard_time": 1711173798,
       "rank": 37,
       "category": "体育"
+    },
+    {
+      "raw_hot": 171003,
+      "num": 171003,
+      "word": "如何区分自己长相是普通还是丑",
+      "onboard_time": 1711197499,
+      "rank": 43,
+      "category": "幽默"
     },
     {
       "raw_hot": 166520,
@@ -1979,6 +2027,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 160355,
+      "num": 160355,
+      "word": "infp需要什么样的朋友",
+      "onboard_time": 1711197621,
+      "rank": 46,
+      "category": "情感"
+    },
+    {
       "raw_hot": 160112,
       "num": 160112,
       "word": "C型性格的人患癌风险高3倍",
@@ -2043,14 +2099,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 155782,
-      "num": 155782,
-      "word": "猜猜我是谁 不骗穷人",
-      "onboard_time": 1711196780,
-      "rank": 44,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 155427,
       "num": 155427,
       "word": "被讨厌是自由的代价",
@@ -2089,6 +2137,14 @@
       "onboard_time": 1711182978,
       "rank": 40,
       "category": "情感"
+    },
+    {
+      "raw_hot": 151842,
+      "num": 151842,
+      "word": "李一桐丝绸蓝裙",
+      "onboard_time": 1711197800,
+      "rank": 47,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 150841,
@@ -2188,7 +2244,7 @@
     },
     {
       "raw_hot": 140650,
-      "num": 340894,
+      "num": 423378,
       "word": "蛋仔露营好朋友",
       "onboard_time": 1711196299,
       "rank": 18,

@@ -1,0 +1,410 @@
+{
+  "runTime": 1711197904776,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2668002,
+        "num": 2668002,
+        "word": "俄恐袭已致143人遇难",
+        "onboard_time": 1711193779,
+        "rank": 0,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 1551942,
+        "num": 1551942,
+        "word": "俄恐袭嫌疑人称有人出100万卢布买凶",
+        "onboard_time": 1711193660,
+        "rank": 1,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 87693,
+        "num": 1231158,
+        "word": "春耕这件事中国人有多认真",
+        "onboard_time": 1711180759,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1201397,
+        "num": 1201397,
+        "word": "王室专家称凯特因孩子推迟公布患癌",
+        "onboard_time": 1711194080,
+        "rank": 3,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 1199090,
+        "num": 1199090,
+        "word": "留给霸王茶姬的名字不多了",
+        "onboard_time": 1711190600,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1175570,
+        "num": 1175570,
+        "word": "粉丝曾提醒夏之光是霸王茶姬",
+        "onboard_time": 1711194319,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1071980,
+        "num": 1071980,
+        "word": "赵丽颖抹胸亮片高定裙",
+        "onboard_time": 1711195220,
+        "rank": 6,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 743696,
+        "num": 743696,
+        "word": "小女孩拒绝了成毅的抱抱",
+        "onboard_time": 1711190299,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 676004,
+        "num": 676004,
+        "word": "赵露思澳门活动造型",
+        "onboard_time": 1711194201,
+        "rank": 8,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 536562,
+        "num": 536562,
+        "word": "医生提醒千万不要这样缓解压力",
+        "onboard_time": 1711194619,
+        "rank": 9,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 1117010,
+        "num": 532550,
+        "word": "俄罗斯已进入战争状态",
+        "onboard_time": 1711155619,
+        "rank": 10,
+        "category": "国外时政,军事"
+      },
+      {
+        "raw_hot": 1014904,
+        "num": 524396,
+        "word": "莫斯科恐袭嫌疑人被捕现场",
+        "onboard_time": 1711197139,
+        "rank": 11,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 744823,
+        "num": 509984,
+        "word": "茶王吧唧",
+        "onboard_time": 1711185738,
+        "rank": 12,
+        "category": "艺人,美食"
+      },
+      {
+        "raw_hot": 643610,
+        "num": 490433,
+        "word": "赵露思出图",
+        "onboard_time": 1711195399,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 488799,
+        "num": 488799,
+        "word": "刘亦菲与表姐合照",
+        "onboard_time": 1711192519,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 450313,
+        "num": 450313,
+        "word": "苹果高管一家四口被撞身亡",
+        "onboard_time": 1711182859,
+        "rank": 15,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 431484,
+        "num": 431484,
+        "word": "鹿晗腹肌没了",
+        "onboard_time": 1711180399,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 97167,
+        "num": 423378,
+        "word": "蛋仔露营好朋友",
+        "onboard_time": 1711196299,
+        "rank": 17,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 415510,
+        "num": 415510,
+        "word": "卡琳娜 全知读者视角",
+        "onboard_time": 1711191200,
+        "rank": 18,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 413378,
+        "num": 413378,
+        "word": "杨幂小水晚宴合照",
+        "onboard_time": 1711183219,
+        "rank": 19,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 476995,
+        "num": 408257,
+        "word": "林俊杰开大G",
+        "onboard_time": 1711196060,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 367709,
+        "num": 367709,
+        "word": "张杰给内娱一点小小的震撼",
+        "onboard_time": 1711197020,
+        "rank": 21,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 342788,
+        "num": 342788,
+        "word": "菲律宾船对中国海警举白旗",
+        "onboard_time": 1711196659,
+        "rank": 22,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 311063,
+        "num": 311063,
+        "word": "南航大学回应学生与教授发生关系",
+        "onboard_time": 1711176439,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 259878,
+        "num": 290511,
+        "word": "莫斯科恐袭事件11人被捕",
+        "onboard_time": 1711182259,
+        "rank": 24,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 315074,
+        "num": 287854,
+        "word": "宫崎骏 死了就看不到日落了",
+        "onboard_time": 1711186880,
+        "rank": 25,
+        "category": "电影,动漫"
+      },
+      {
+        "raw_hot": 282264,
+        "num": 282264,
+        "word": "整治内娱的综艺来了",
+        "onboard_time": 1711188799,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 273802,
+        "num": 273802,
+        "word": "夏之光 霸王茶姬",
+        "onboard_time": 1711182859,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 258796,
+        "num": 258796,
+        "word": "南航大学涉事师生已报警",
+        "onboard_time": 1711185859,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 251086,
+        "num": 251086,
+        "word": "吃出这些味道说明你过敏了",
+        "onboard_time": 1711195220,
+        "rank": 29,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 258672,
+        "num": 243750,
+        "word": "沈腾马丽中国影史票房最高男女主演",
+        "onboard_time": 1711197260,
+        "rank": 30,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 235147,
+        "num": 235147,
+        "word": "撒贝宁带妻子在新疆庆生",
+        "onboard_time": 1711195520,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 214479,
+        "num": 214479,
+        "word": "叶舒华镂空蕾丝开衫",
+        "onboard_time": 1711193059,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 210852,
+        "num": 210852,
+        "word": "爷爷馋幼儿园肉包子孙女当真带回",
+        "onboard_time": 1711187419,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 204306,
+        "num": 204306,
+        "word": "CD27",
+        "onboard_time": 1711197380,
+        "rank": 34,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 199821,
+        "num": 199821,
+        "word": "卢昱晓小水林阳同框",
+        "onboard_time": 1711193000,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 193605,
+        "num": 193605,
+        "word": "买黄金前一定要看的冷知识",
+        "onboard_time": 1711197800,
+        "rank": 36,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 191502,
+        "num": 191502,
+        "word": "长期睡前玩手机会付出什么代价",
+        "onboard_time": 1711180159,
+        "rank": 37,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 183017,
+        "num": 183017,
+        "word": "你好星期六",
+        "onboard_time": 1711186821,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 181593,
+        "num": 181593,
+        "word": "29岁女子怀孕隔天男友提分手",
+        "onboard_time": 1711164439,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 178673,
+        "num": 178673,
+        "word": "戴比尔斯晚宴",
+        "onboard_time": 1711191499,
+        "rank": 40,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 173439,
+        "num": 173439,
+        "word": "猜猜我是谁 不骗穷人",
+        "onboard_time": 1711196780,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 171741,
+        "num": 171741,
+        "word": "夏之光回应茶王吧唧",
+        "onboard_time": 1711188741,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 171003,
+        "num": 171003,
+        "word": "如何区分自己长相是普通还是丑",
+        "onboard_time": 1711197499,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 166623,
+        "num": 166623,
+        "word": "室友 什么你妈那是咱妈",
+        "onboard_time": 1711191859,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 161162,
+        "num": 161162,
+        "word": "夏目贵志 好久不见",
+        "onboard_time": 1711195341,
+        "rank": 45,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 160355,
+        "num": 160355,
+        "word": "infp需要什么样的朋友",
+        "onboard_time": 1711197621,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 151842,
+        "num": 151842,
+        "word": "李一桐丝绸蓝裙",
+        "onboard_time": 1711197800,
+        "rank": 47,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 149538,
+        "num": 149538,
+        "word": "莫斯科音乐厅厕所发现超10具尸体",
+        "onboard_time": 1711157960,
+        "rank": 48,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 141462,
+        "num": 141462,
+        "word": "突然发现自己的偷感很重",
+        "onboard_time": 1711192581,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记对湖南寄予厚望#"
+    }
+  }
+}

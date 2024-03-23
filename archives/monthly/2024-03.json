@@ -1,6 +1,6 @@
 {
   "startTime": 1709223640991,
-  "endTime": 1711197101065,
+  "endTime": 1711197904776,
   "band_list": [
     {
       "raw_hot": 12728050,
@@ -451,6 +451,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2668002,
+      "num": 2668002,
+      "word": "俄恐袭已致143人遇难",
+      "onboard_time": 1711193779,
+      "rank": 0,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 2655228,
       "num": 2655228,
       "word": "满舒克HPV检测呈阴性",
@@ -513,14 +521,6 @@
       "onboard_time": 1709963189,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 2579647,
-      "num": 2579647,
-      "word": "俄恐袭已致143人遇难",
-      "onboard_time": 1711193779,
-      "rank": 0,
-      "category": "国外时政"
     },
     {
       "raw_hot": 2559705,
@@ -3931,6 +3931,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 1201397,
+      "num": 1201397,
+      "word": "王室专家称凯特因孩子推迟公布患癌",
+      "onboard_time": 1711194080,
+      "rank": 5,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 1197357,
       "num": 1197357,
       "word": "女子宫外孕没钱手术被医院收治并捐款",
@@ -4089,6 +4097,14 @@
       "onboard_time": 1710771635,
       "rank": 26,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1175570,
+      "num": 1175570,
+      "word": "粉丝曾提醒夏之光是霸王茶姬",
+      "onboard_time": 1711194319,
+      "rank": 6,
+      "category": "艺人"
     },
     {
       "raw_hot": 1171254,
@@ -4321,14 +4337,6 @@
       "onboard_time": 1709550213,
       "rank": 3,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1135673,
-      "num": 1135673,
-      "word": "王室专家称凯特因孩子推迟公布患癌",
-      "onboard_time": 1711194080,
-      "rank": 5,
-      "category": "国外时政"
     },
     {
       "raw_hot": 1134154,
@@ -5273,6 +5281,14 @@
       "onboard_time": 1709360969,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1014904,
+      "num": 524396,
+      "word": "莫斯科恐袭嫌疑人被捕现场",
+      "onboard_time": 1711197139,
+      "rank": 11,
+      "category": "国外时政"
     },
     {
       "raw_hot": 1014131,
@@ -6417,14 +6433,6 @@
       "onboard_time": 1709950528,
       "rank": 40,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 899028,
-      "num": 899028,
-      "word": "粉丝曾提醒夏之光是霸王茶姬",
-      "onboard_time": 1711194319,
-      "rank": 6,
-      "category": "艺人"
     },
     {
       "raw_hot": 898374,
@@ -10715,6 +10723,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 643610,
+      "num": 535464,
+      "word": "赵露思出图",
+      "onboard_time": 1711195399,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 643439,
       "num": 643439,
       "word": "建议允许职工积累假期兑换小长假",
@@ -13787,6 +13803,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 536562,
+      "num": 536562,
+      "word": "医生提醒千万不要这样缓解压力",
+      "onboard_time": 1711194619,
+      "rank": 14,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 536468,
       "num": 328237,
       "word": "樊振东唱LoveStory",
@@ -13817,14 +13841,6 @@
       "onboard_time": 1709956110,
       "rank": 7,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 535464,
-      "num": 535464,
-      "word": "赵露思出图",
-      "onboard_time": 1711195399,
-      "rank": 12,
-      "category": "艺人"
     },
     {
       "raw_hot": 535074,
@@ -14812,7 +14828,7 @@
     },
     {
       "raw_hot": 505777,
-      "num": 334399,
+      "num": 408257,
       "word": "林俊杰开大G",
       "onboard_time": 1711196060,
       "rank": 20,
@@ -15425,14 +15441,6 @@
       "onboard_time": 1710306693,
       "rank": 32,
       "category": "运动健身"
-    },
-    {
-      "raw_hot": 489633,
-      "num": 489633,
-      "word": "医生提醒千万不要这样缓解压力",
-      "onboard_time": 1711194619,
-      "rank": 14,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 489582,
@@ -20891,6 +20899,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 367709,
+      "num": 367709,
+      "word": "张杰给内娱一点小小的震撼",
+      "onboard_time": 1711197020,
+      "rank": 39,
+      "category": "演出"
+    },
+    {
       "raw_hot": 367705,
       "num": 367705,
       "word": "林更新刀我别用宇文玥",
@@ -22209,6 +22225,14 @@
       "onboard_time": 1710586474,
       "rank": 16,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 342788,
+      "num": 342788,
+      "word": "菲律宾船对中国海警举白旗",
+      "onboard_time": 1711196659,
+      "rank": 40,
+      "category": "国内时政"
     },
     {
       "raw_hot": 342679,
@@ -28579,6 +28603,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 258672,
+      "num": 243750,
+      "word": "沈腾马丽中国影史票房最高男女主演",
+      "onboard_time": 1711197260,
+      "rank": 30,
+      "category": "电影"
+    },
+    {
       "raw_hot": 258632,
       "num": 258632,
       "word": "陈泽 恶评",
@@ -28660,7 +28692,7 @@
     },
     {
       "raw_hot": 257939,
-      "num": 228148,
+      "num": 235147,
       "word": "撒贝宁带妻子在新疆庆生",
       "onboard_time": 1711195520,
       "rank": 30,
@@ -29313,6 +29345,14 @@
       "onboard_time": 1710475656,
       "rank": 27,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 251086,
+      "num": 251086,
+      "word": "吃出这些味道说明你过敏了",
+      "onboard_time": 1711195220,
+      "rank": 29,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 250938,
@@ -32033,14 +32073,6 @@
       "onboard_time": 1710241655,
       "rank": 35,
       "category": "网红"
-    },
-    {
-      "raw_hot": 228228,
-      "num": 228228,
-      "word": "吃出这些味道说明你过敏了",
-      "onboard_time": 1711195220,
-      "rank": 29,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 228011,
@@ -36355,6 +36387,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 204306,
+      "num": 204306,
+      "word": "CD27",
+      "onboard_time": 1711197380,
+      "rank": 34,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 204249,
       "num": 204249,
       "word": "AG完美控制链",
@@ -39243,6 +39283,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 193605,
+      "num": 193605,
+      "word": "买黄金前一定要看的冷知识",
+      "onboard_time": 1711197800,
+      "rank": 36,
+      "category": "财经"
+    },
+    {
       "raw_hot": 193570,
       "num": 193570,
       "word": "珉佑",
@@ -39801,14 +39849,6 @@
       "onboard_time": 1709729371,
       "rank": 43,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 191218,
-      "num": 191218,
-      "word": "张杰给内娱一点小小的震撼",
-      "onboard_time": 1711197020,
-      "rank": 39,
-      "category": "演出"
     },
     {
       "raw_hot": 191202,
@@ -42347,14 +42387,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 180395,
-      "num": 180395,
-      "word": "菲律宾船对中国海警举白旗",
-      "onboard_time": 1711196659,
-      "rank": 40,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 180376,
       "num": 180376,
       "word": "15分钟为啥又叫一刻钟",
@@ -43963,6 +43995,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 173439,
+      "num": 173439,
+      "word": "猜猜我是谁 不骗穷人",
+      "onboard_time": 1711196780,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 173412,
       "num": 173412,
       "word": "justfoto崩了",
@@ -44537,6 +44577,14 @@
       "onboard_time": 1710729334,
       "rank": 36,
       "category": "情感"
+    },
+    {
+      "raw_hot": 171003,
+      "num": 171003,
+      "word": "如何区分自己长相是普通还是丑",
+      "onboard_time": 1711197499,
+      "rank": 43,
+      "category": "幽默"
     },
     {
       "raw_hot": 170880,
@@ -47059,6 +47107,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 160355,
+      "num": 160355,
+      "word": "infp需要什么样的朋友",
+      "onboard_time": 1711197621,
+      "rank": 46,
+      "category": "情感"
+    },
+    {
       "raw_hot": 160351,
       "num": 160351,
       "word": "王鹤棣一组物料被4个cp嗑",
@@ -48427,14 +48483,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 155782,
-      "num": 155782,
-      "word": "猜猜我是谁 不骗穷人",
-      "onboard_time": 1711196780,
-      "rank": 44,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 155770,
       "num": 155770,
       "word": "胡先煦 从童星直接跳进叔圈",
@@ -49481,6 +49529,14 @@
       "onboard_time": 1710471575,
       "rank": 39,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 151842,
+      "num": 151842,
+      "word": "李一桐丝绸蓝裙",
+      "onboard_time": 1711197800,
+      "rank": 47,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 151802,
@@ -52316,7 +52372,7 @@
     },
     {
       "raw_hot": 140650,
-      "num": 340894,
+      "num": 423378,
       "word": "蛋仔露营好朋友",
       "onboard_time": 1711196299,
       "rank": 18,
