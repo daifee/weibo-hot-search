@@ -1,6 +1,6 @@
 {
   "startTime": 1711210803824,
-  "endTime": 1711225063370,
+  "endTime": 1711226050793,
   "band_list": [
     {
       "raw_hot": 1764453,
@@ -497,6 +497,14 @@
       "onboard_time": 1711221792,
       "rank": 45,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 15606,
+      "num": 15606,
+      "word": "上海花店卖油菜花30元10支",
+      "onboard_time": 1711224851,
+      "rank": 47,
+      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
