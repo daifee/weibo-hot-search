@@ -1,6 +1,6 @@
 {
   "startTime": 1711124556378,
-  "endTime": 1711163958512,
+  "endTime": 1711164923608,
   "band_list": [
     {
       "raw_hot": 10611140,
@@ -52,7 +52,7 @@
     },
     {
       "raw_hot": 1404182,
-      "num": 463921,
+      "num": 530810,
       "word": "黄子韬回应和徐艺洋吃饭被拍",
       "onboard_time": 1711159101,
       "rank": 25,
@@ -67,8 +67,8 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 1137081,
-      "num": 453713,
+      "raw_hot": 1178824,
+      "num": 524172,
       "word": "莫斯科音乐厅厕所发现超10具尸体",
       "onboard_time": 1711157960,
       "rank": 30,
@@ -91,6 +91,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 934375,
+      "num": 934375,
+      "word": "中国留学生亲历莫斯科恐怖袭击",
+      "onboard_time": 1711161502,
+      "rank": 3,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 898278,
       "num": 898278,
       "word": "阴阳师给王者荣耀律师函",
@@ -99,19 +107,19 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 862286,
-      "num": 862286,
-      "word": "中国留学生亲历莫斯科恐怖袭击",
-      "onboard_time": 1711161502,
-      "rank": 3,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 860567,
       "num": 485745,
       "word": "拜登回应凯特患癌",
       "onboard_time": 1711156700,
       "rank": 30,
+      "category": "国外时政"
+    },
+    {
+      "raw_hot": 823427,
+      "num": 823427,
+      "word": "凯特王妃宣布患癌视频录制于3天前",
+      "onboard_time": 1711163722,
+      "rank": 41,
       "category": "国外时政"
     },
     {
@@ -195,12 +203,28 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 594075,
+      "num": 594075,
+      "word": "颜值输给了簪花的男友",
+      "onboard_time": 1711163182,
+      "rank": 24,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 581113,
       "num": 581113,
       "word": "李沁 红太狼",
       "onboard_time": 1711116618,
       "rank": 4,
       "category": "剧集,综艺"
+    },
+    {
+      "raw_hot": 579947,
+      "num": 579947,
+      "word": "王者荣耀 阴阳师",
+      "onboard_time": 1711163480,
+      "rank": 7,
+      "category": "游戏"
     },
     {
       "raw_hot": 577749,
@@ -219,6 +243,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 547617,
+      "num": 517080,
+      "word": "普京",
+      "onboard_time": 1711163480,
+      "rank": 31,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 517519,
       "num": 393526,
       "word": "微信官方回应朋友圈横线问题",
@@ -233,6 +265,14 @@
       "onboard_time": 1711159101,
       "rank": 40,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 504899,
+      "num": 504899,
+      "word": "茶百道 积分不足",
+      "onboard_time": 1711164021,
+      "rank": 13,
+      "category": "美食"
     },
     {
       "raw_hot": 500228,
@@ -251,14 +291,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 492365,
-      "num": 492365,
-      "word": "王者荣耀 阴阳师",
-      "onboard_time": 1711163480,
-      "rank": 7,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 487679,
       "num": 487679,
       "word": "鹿晗济南",
@@ -267,8 +299,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 463005,
-      "num": 302073,
+      "raw_hot": 484669,
+      "num": 328154,
       "word": "男子常熬夜致眼睛成80岁状态",
       "onboard_time": 1711160181,
       "rank": 34,
@@ -411,6 +443,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 316225,
+      "num": 316225,
+      "word": "离婚后最受伤的其实是孩子",
+      "onboard_time": 1711164021,
+      "rank": 23,
+      "category": "情感"
+    },
+    {
       "raw_hot": 316074,
       "num": 398937,
       "word": "以色列宣布没收8平方公里巴勒斯坦土地",
@@ -467,6 +507,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 295342,
+      "num": 295342,
+      "word": "计算机二级wps",
+      "onboard_time": 1711163301,
+      "rank": 28,
+      "category": "教育"
+    },
+    {
       "raw_hot": 291832,
       "num": 291832,
       "word": "目击者拍到恐怖分子手持AK47",
@@ -491,12 +539,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 274786,
-      "num": 274786,
-      "word": "颜值输给了簪花的男友",
-      "onboard_time": 1711163182,
-      "rank": 24,
-      "category": "幽默"
+      "raw_hot": 276516,
+      "num": 276516,
+      "word": "29岁女子怀孕隔天男友提分手",
+      "onboard_time": 1711164439,
+      "rank": 26,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 268135,
@@ -539,20 +587,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 248484,
+      "num": 248484,
+      "word": "俄罗斯一炼油厂起火",
+      "onboard_time": 1711162458,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 248122,
       "num": 248122,
       "word": "俄音乐厅遭袭幸存者讲述惊魂时刻",
       "onboard_time": 1711154540,
       "rank": 23,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 245776,
-      "num": 245776,
-      "word": "计算机二级wps",
-      "onboard_time": 1711163301,
-      "rank": 28,
-      "category": "教育"
     },
     {
       "raw_hot": 245201,
@@ -571,14 +619,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 243005,
-      "num": 243005,
-      "word": "俄罗斯一炼油厂起火",
-      "onboard_time": 1711162458,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 237061,
       "num": 237061,
       "word": "计算机二级",
@@ -595,20 +635,20 @@
       "category": "数码"
     },
     {
-      "raw_hot": 232596,
-      "num": 232596,
-      "word": "普京",
-      "onboard_time": 1711163480,
-      "rank": 31,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 232158,
       "num": 232158,
       "word": "莫斯科枪击案袭击者逃跑照片曝光",
       "onboard_time": 1711153879,
       "rank": 26,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 227791,
+      "num": 227791,
+      "word": "这堂课抬头率100%",
+      "onboard_time": 1711163061,
+      "rank": 38,
+      "category": "教育"
     },
     {
       "raw_hot": 227698,
@@ -659,20 +699,28 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 209247,
+      "num": 209247,
+      "word": "王俊凯无锡",
+      "onboard_time": 1711164561,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 209039,
+      "num": 209039,
+      "word": "现场缴获恐怖分子武器画面曝光",
+      "onboard_time": 1711161261,
+      "rank": 37,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 208756,
       "num": 208756,
       "word": "盒子里的猫定档",
       "onboard_time": 1711161141,
       "rank": 47,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 207993,
-      "num": 207993,
-      "word": "现场缴获恐怖分子武器画面曝光",
-      "onboard_time": 1711161261,
-      "rank": 37,
-      "category": "国外时政"
     },
     {
       "raw_hot": 207109,
@@ -691,20 +739,20 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 206676,
-      "num": 206676,
-      "word": "这堂课抬头率100%",
-      "onboard_time": 1711163061,
-      "rank": 38,
-      "category": "教育"
-    },
-    {
       "raw_hot": 203871,
       "num": 203871,
       "word": "一群被规培困住的医学生",
       "onboard_time": 1711151897,
       "rank": 31,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 203209,
+      "num": 203209,
+      "word": "夏之光成都",
+      "onboard_time": 1711163601,
+      "rank": 43,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 203139,
@@ -755,19 +803,11 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 193923,
-      "num": 193923,
-      "word": "凯特王妃宣布患癌视频录制于3天前",
-      "onboard_time": 1711163722,
-      "rank": 41,
-      "category": "国外时政"
-    },
-    {
-      "raw_hot": 188882,
-      "num": 188882,
-      "word": "夏之光成都",
-      "onboard_time": 1711163601,
-      "rank": 43,
+      "raw_hot": 190537,
+      "num": 190537,
+      "word": "内娱人夫感男星TOP1",
+      "onboard_time": 1711164620,
+      "rank": 42,
       "category": "作品衍生"
     },
     {
@@ -785,6 +825,14 @@
       "onboard_time": 1711117521,
       "rank": 23,
       "category": "演出"
+    },
+    {
+      "raw_hot": 178410,
+      "num": 178410,
+      "word": "梅德韦杰夫称要血债血偿",
+      "onboard_time": 1711164800,
+      "rank": 46,
+      "category": "国外时政"
     },
     {
       "raw_hot": 174606,
