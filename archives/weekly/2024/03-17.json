@@ -1,6 +1,6 @@
 {
   "startTime": 1710605970310,
-  "endTime": 1711193648627,
+  "endTime": 1711197101065,
   "band_list": [
     {
       "raw_hot": 11692231,
@@ -185,6 +185,14 @@
       "onboard_time": 1710767192,
       "rank": 15,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 2579647,
+      "num": 2579647,
+      "word": "俄恐袭已致143人遇难",
+      "onboard_time": 1711193779,
+      "rank": 0,
+      "category": "国外时政"
     },
     {
       "raw_hot": 2541768,
@@ -456,6 +464,14 @@
       "word": "戴安娜王妃弟弟就凯特阴谋论发声",
       "onboard_time": 1710759515,
       "rank": 12,
+      "category": "国外时政"
+    },
+    {
+      "raw_hot": 1914581,
+      "num": 1914581,
+      "word": "俄恐袭嫌疑人称有人出100万卢布买凶",
+      "onboard_time": 1711193660,
+      "rank": 1,
       "category": "国外时政"
     },
     {
@@ -1267,6 +1283,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1257049,
+      "num": 1257049,
+      "word": "留给霸王茶姬的名字不多了",
+      "onboard_time": 1711190600,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1255857,
       "num": 1255857,
       "word": "迪丽热巴陈星旭都是浓颜",
@@ -1435,6 +1459,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1179535,
+      "num": 1179535,
+      "word": "赵丽颖抹胸亮片高定裙",
+      "onboard_time": 1711195220,
+      "rank": 4,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 1178507,
       "num": 1178507,
       "word": "能不能禁止东北人干翻译",
@@ -1545,6 +1577,14 @@
       "onboard_time": 1711094958,
       "rank": 7,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1135673,
+      "num": 1135673,
+      "word": "王室专家称凯特因孩子推迟公布患癌",
+      "onboard_time": 1711194080,
+      "rank": 5,
+      "category": "国外时政"
     },
     {
       "raw_hot": 1133456,
@@ -2179,6 +2219,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 899028,
+      "num": 899028,
+      "word": "粉丝曾提醒夏之光是霸王茶姬",
+      "onboard_time": 1711194319,
+      "rank": 6,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 897607,
       "num": 746169,
       "word": "苹果高管一家四口被撞身亡",
@@ -2281,6 +2329,14 @@
       "onboard_time": 1710767616,
       "rank": 40,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 875350,
+      "num": 875350,
+      "word": "赵露思澳门活动造型",
+      "onboard_time": 1711194201,
+      "rank": 7,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 874443,
@@ -2785,14 +2841,6 @@
       "onboard_time": 1710815196,
       "rank": 31,
       "category": "教育"
-    },
-    {
-      "raw_hot": 759131,
-      "num": 759131,
-      "word": "留给霸王茶姬的名字不多了",
-      "onboard_time": 1711190600,
-      "rank": 12,
-      "category": "艺人"
     },
     {
       "raw_hot": 758701,
@@ -3971,6 +4019,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 590009,
+      "num": 590009,
+      "word": "卡琳娜 全知读者视角",
+      "onboard_time": 1711191200,
+      "rank": 30,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 588409,
       "num": 588409,
       "word": "8部电影定档五一档",
@@ -4065,14 +4121,6 @@
       "onboard_time": 1711163480,
       "rank": 7,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 579829,
-      "num": 579829,
-      "word": "卡琳娜 全知读者视角",
-      "onboard_time": 1711191200,
-      "rank": 30,
-      "category": "动漫"
     },
     {
       "raw_hot": 578631,
@@ -4555,6 +4603,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 535464,
+      "num": 535464,
+      "word": "赵露思出图",
+      "onboard_time": 1711195399,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 533750,
       "num": 533750,
       "word": "分手后最joker的行为",
@@ -4723,6 +4779,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 512548,
+      "num": 512548,
+      "word": "刘亦菲与表姐合照",
+      "onboard_time": 1711192519,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 512225,
       "num": 512225,
       "word": "奸杀女童恶魔被执行死刑",
@@ -4825,6 +4889,14 @@
       "onboard_time": 1711109239,
       "rank": 22,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 505777,
+      "num": 334399,
+      "word": "林俊杰开大G",
+      "onboard_time": 1711196060,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 505211,
@@ -4993,6 +5065,14 @@
       "onboard_time": 1711036579,
       "rank": 6,
       "category": "体育"
+    },
+    {
+      "raw_hot": 489633,
+      "num": 489633,
+      "word": "医生提醒千万不要这样缓解压力",
+      "onboard_time": 1711194619,
+      "rank": 14,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 489180,
@@ -5809,14 +5889,6 @@
       "onboard_time": 1710747993,
       "rank": 12,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 424742,
-      "num": 424742,
-      "word": "刘亦菲与表姐合照",
-      "onboard_time": 1711192519,
-      "rank": 20,
-      "category": "艺人"
     },
     {
       "raw_hot": 424678,
@@ -8659,6 +8731,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 272026,
+      "num": 244558,
+      "word": "叶舒华镂空蕾丝开衫",
+      "onboard_time": 1711193059,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 271787,
       "num": 271787,
       "word": "天塌下来有荒的脸顶着",
@@ -9025,6 +9105,14 @@
       "onboard_time": 1711158921,
       "rank": 37,
       "category": "财经"
+    },
+    {
+      "raw_hot": 257939,
+      "num": 228148,
+      "word": "撒贝宁带妻子在新疆庆生",
+      "onboard_time": 1711195520,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 257670,
@@ -10059,6 +10147,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 228228,
+      "num": 228228,
+      "word": "吃出这些味道说明你过敏了",
+      "onboard_time": 1711195220,
+      "rank": 29,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 227838,
       "num": 227838,
       "word": "JDG对战WBG",
@@ -10699,14 +10795,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 218030,
-      "num": 218030,
-      "word": "叶舒华镂空蕾丝开衫",
-      "onboard_time": 1711193059,
-      "rank": 31,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 218026,
       "num": 218026,
       "word": "突然发现我朋友是键盘侠",
@@ -11051,6 +11139,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 211556,
+      "num": 211556,
+      "word": "卢昱晓小水林阳同框",
+      "onboard_time": 1711193000,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 211457,
       "num": 211457,
       "word": "莫斯科恐袭嫌疑人乘车逃离现场",
@@ -11361,14 +11457,6 @@
       "onboard_time": 1710988590,
       "rank": 25,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 206405,
-      "num": 206405,
-      "word": "卢昱晓小水林阳同框",
-      "onboard_time": 1711193000,
-      "rank": 34,
-      "category": "艺人"
     },
     {
       "raw_hot": 206346,
@@ -11811,6 +11899,14 @@
       "category": "休闲"
     },
     {
+      "raw_hot": 201201,
+      "num": 201201,
+      "word": "俄罗斯恐怖袭击",
+      "onboard_time": 1711196239,
+      "rank": 35,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 201168,
       "num": 201168,
       "word": "追风者爱奇艺热度破6000",
@@ -12201,6 +12297,14 @@
       "onboard_time": 1710719975,
       "rank": 31,
       "category": "数码"
+    },
+    {
+      "raw_hot": 196404,
+      "num": 196404,
+      "word": "夏目贵志 好久不见",
+      "onboard_time": 1711195341,
+      "rank": 38,
+      "category": "动漫"
     },
     {
       "raw_hot": 196369,
@@ -12689,6 +12793,14 @@
       "onboard_time": 1710859958,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 191218,
+      "num": 191218,
+      "word": "张杰给内娱一点小小的震撼",
+      "onboard_time": 1711197020,
+      "rank": 39,
+      "category": "演出"
     },
     {
       "raw_hot": 191202,
@@ -13513,6 +13625,14 @@
       "onboard_time": 1711019841,
       "rank": 40,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 180395,
+      "num": 180395,
+      "word": "菲律宾船对中国海警举白旗",
+      "onboard_time": 1711196659,
+      "rank": 40,
+      "category": "国内时政"
     },
     {
       "raw_hot": 180097,
@@ -15299,6 +15419,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 156600,
+      "num": 156600,
+      "word": "林俊杰手臂肌肉",
+      "onboard_time": 1711195881,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 156442,
       "num": 156442,
       "word": "大侦探最新一期全员发疯",
@@ -15384,6 +15512,14 @@
       "word": "锦月如歌杀青",
       "onboard_time": 1710995977,
       "rank": 43,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 155782,
+      "num": 155782,
+      "word": "猜猜我是谁 不骗穷人",
+      "onboard_time": 1711196780,
+      "rank": 44,
       "category": "剧集"
     },
     {
@@ -15529,6 +15665,14 @@
       "onboard_time": 1710925894,
       "rank": 31,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 153036,
+      "num": 153036,
+      "word": "邓为白色男友风",
+      "onboard_time": 1711195641,
+      "rank": 45,
+      "category": "艺人"
     },
     {
       "raw_hot": 153007,
@@ -16491,6 +16635,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 140650,
+      "num": 340894,
+      "word": "蛋仔露营好朋友",
+      "onboard_time": 1711196299,
+      "rank": 18,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 140638,
       "num": 140638,
       "word": "DAY6回归",
@@ -17217,6 +17369,14 @@
       "onboard_time": 1710742055,
       "rank": 42,
       "category": "美食"
+    },
+    {
+      "raw_hot": 130636,
+      "num": 130636,
+      "word": "张琳芃亲承不退队",
+      "onboard_time": 1711194680,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 130609,
@@ -20076,6 +20236,9 @@
     },
     {
       "word": "#总书记对推动中部地区崛起提出明确要求#"
+    },
+    {
+      "word": "#习近平向普京致慰问电#"
     }
   ]
 }
