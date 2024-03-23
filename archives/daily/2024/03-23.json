@@ -1,6 +1,6 @@
 {
   "startTime": 1711124556378,
-  "endTime": 1711160549058,
+  "endTime": 1711161250263,
   "band_list": [
     {
       "raw_hot": 10611140,
@@ -51,6 +51,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 1404182,
+      "num": 463921,
+      "word": "黄子韬回应和徐艺洋吃饭被拍",
+      "onboard_time": 1711159101,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1283814,
       "num": 1283814,
       "word": "俄一音乐厅遭恐袭40人遇难百余人伤",
@@ -59,16 +67,8 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 1180765,
-      "num": 417108,
-      "word": "黄子韬回应和徐艺洋吃饭被拍",
-      "onboard_time": 1711159101,
-      "rank": 25,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 1137081,
-      "num": 416736,
+      "num": 453713,
       "word": "莫斯科音乐厅厕所发现超10具尸体",
       "onboard_time": 1711157960,
       "rank": 30,
@@ -123,6 +123,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 764148,
+      "num": 764148,
+      "word": "美国驻俄使馆曾预测莫斯科恐袭事件",
+      "onboard_time": 1711159942,
+      "rank": 17,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 758622,
       "num": 758622,
       "word": "全钟瑞 校园暴力",
@@ -155,6 +163,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 643025,
+      "num": 643025,
+      "word": "普京将就恐怖袭击事件发表电视演讲",
+      "onboard_time": 1711158561,
+      "rank": 19,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 610941,
       "num": 610941,
       "word": "英国多方回应凯特患癌",
@@ -169,14 +185,6 @@
       "onboard_time": 1711116618,
       "rank": 4,
       "category": "剧集,综艺"
-    },
-    {
-      "raw_hot": 580814,
-      "num": 580814,
-      "word": "普京将就恐怖袭击事件发表电视演讲",
-      "onboard_time": 1711158561,
-      "rank": 19,
-      "category": "国外时政"
     },
     {
       "raw_hot": 577749,
@@ -203,6 +211,22 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 511567,
+      "num": 438842,
+      "word": "俄驻华使馆发微博",
+      "onboard_time": 1711159101,
+      "rank": 40,
+      "category": "国外时政"
+    },
+    {
+      "raw_hot": 500228,
+      "num": 432048,
+      "word": "他居然学奶妈蹲下的样子",
+      "onboard_time": 1711157720,
+      "rank": 16,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 497705,
       "num": 497705,
       "word": "陈芋汐保送同济大学",
@@ -217,14 +241,6 @@
       "onboard_time": 1711156760,
       "rank": 19,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 477221,
-      "num": 410536,
-      "word": "俄驻华使馆发微博",
-      "onboard_time": 1711159101,
-      "rank": 40,
-      "category": "国外时政"
     },
     {
       "raw_hot": 457449,
@@ -243,14 +259,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 447387,
-      "num": 401375,
-      "word": "他居然学奶妈蹲下的样子",
-      "onboard_time": 1711157720,
-      "rank": 16,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 432904,
       "num": 432904,
       "word": "地铁被诬偷拍案二审庭前3次调解失败",
@@ -259,8 +267,16 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 417887,
-      "num": 417887,
+      "raw_hot": 424901,
+      "num": 424901,
+      "word": "王者荣耀称将严肃回击",
+      "onboard_time": 1711160241,
+      "rank": 36,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 422923,
+      "num": 422923,
       "word": "贵女开机",
       "onboard_time": 1711157599,
       "rank": 14,
@@ -273,14 +289,6 @@
       "onboard_time": 1711111699,
       "rank": 11,
       "category": "情感"
-    },
-    {
-      "raw_hot": 390184,
-      "num": 390184,
-      "word": "美国驻俄使馆曾预测莫斯科恐袭事件",
-      "onboard_time": 1711159942,
-      "rank": 17,
-      "category": "国外时政"
     },
     {
       "raw_hot": 379974,
@@ -347,6 +355,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 354274,
+      "num": 354274,
+      "word": "花儿与少年",
+      "onboard_time": 1711160542,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 333123,
       "num": 333123,
       "word": "粉丝抢的林俊杰门票竟变成了李克勤",
@@ -360,6 +376,14 @@
       "word": "以色列宣布没收8平方公里巴勒斯坦土地",
       "onboard_time": 1711112238,
       "rank": 9,
+      "category": "国外时政"
+    },
+    {
+      "raw_hot": 312081,
+      "num": 312081,
+      "word": "1名疑似莫斯科恐袭案枪手被捕",
+      "onboard_time": 1711158018,
+      "rank": 22,
       "category": "国外时政"
     },
     {
@@ -395,12 +419,28 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 295967,
+      "num": 295967,
+      "word": "郭麒麟说自己是麒麟不是貔貅",
+      "onboard_time": 1711160481,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 291832,
       "num": 291832,
       "word": "目击者拍到恐怖分子手持AK47",
       "onboard_time": 1711156939,
       "rank": 41,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 289568,
+      "num": 289568,
+      "word": "男子常熬夜致眼睛成80岁状态",
+      "onboard_time": 1711160181,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 279998,
@@ -467,14 +507,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 241459,
-      "num": 241459,
-      "word": "郭麒麟说自己是麒麟不是貔貅",
-      "onboard_time": 1711160481,
-      "rank": 28,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 237061,
       "num": 237061,
       "word": "计算机二级",
@@ -489,6 +521,14 @@
       "onboard_time": 1711129993,
       "rank": 16,
       "category": "数码"
+    },
+    {
+      "raw_hot": 232621,
+      "num": 232621,
+      "word": "贵人鸟创始人身家曾达190亿",
+      "onboard_time": 1711159821,
+      "rank": 41,
+      "category": "财经"
     },
     {
       "raw_hot": 232158,
@@ -523,14 +563,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 222893,
-      "num": 222893,
-      "word": "男子常熬夜致眼睛成80岁状态",
-      "onboard_time": 1711160181,
-      "rank": 34,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 218158,
       "num": 218158,
       "word": "白鹿伤痛文学女主",
@@ -545,14 +577,6 @@
       "onboard_time": 1711154899,
       "rank": 34,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 211149,
-      "num": 211149,
-      "word": "王者荣耀称将严肃回击",
-      "onboard_time": 1711160241,
-      "rank": 36,
-      "category": "电竞"
     },
     {
       "raw_hot": 207109,
@@ -577,6 +601,14 @@
       "onboard_time": 1711151897,
       "rank": 31,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 203139,
+      "num": 203139,
+      "word": "莫斯科遭袭音乐厅楼顶被火焰吞噬",
+      "onboard_time": 1711160181,
+      "rank": 43,
+      "category": "国外时政"
     },
     {
       "raw_hot": 201541,
@@ -619,20 +651,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 185194,
-      "num": 185194,
-      "word": "贵人鸟创始人身家曾达190亿",
-      "onboard_time": 1711159821,
-      "rank": 41,
-      "category": "财经"
-    },
-    {
       "raw_hot": 179173,
       "num": 179173,
       "word": "张杰音响",
       "onboard_time": 1711117521,
       "rank": 23,
       "category": "演出"
+    },
+    {
+      "raw_hot": 174606,
+      "num": 174606,
+      "word": "老师不要跑",
+      "onboard_time": 1711160840,
+      "rank": 41,
+      "category": "剧集"
     },
     {
       "raw_hot": 172959,
@@ -681,14 +713,6 @@
       "onboard_time": 1711153157,
       "rank": 36,
       "category": "时尚,艺人"
-    },
-    {
-      "raw_hot": 160977,
-      "num": 160977,
-      "word": "莫斯科遭袭音乐厅楼顶被火焰吞噬",
-      "onboard_time": 1711160181,
-      "rank": 43,
-      "category": "国外时政"
     },
     {
       "raw_hot": 160700,
@@ -771,6 +795,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 137413,
+      "num": 137413,
+      "word": "盒子里的猫定档",
+      "onboard_time": 1711161141,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 134974,
       "num": 134974,
       "word": "与凤行断层第一",
@@ -801,6 +833,14 @@
       "onboard_time": 1711074258,
       "rank": 28,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 123537,
+      "num": 123537,
+      "word": "阿根廷3比0萨尔瓦多",
+      "onboard_time": 1711161201,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 121081,
