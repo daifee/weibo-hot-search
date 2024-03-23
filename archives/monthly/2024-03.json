@@ -1,6 +1,6 @@
 {
   "startTime": 1709223640991,
-  "endTime": 1711172057966,
+  "endTime": 1711175140654,
   "band_list": [
     {
       "raw_hot": 12728050,
@@ -905,6 +905,14 @@
       "onboard_time": 1710232597,
       "rank": 1,
       "category": "教育"
+    },
+    {
+      "raw_hot": 2111314,
+      "num": 2111314,
+      "word": "莫斯科恐袭",
+      "onboard_time": 1711172238,
+      "rank": 1,
+      "category": "国外时政"
     },
     {
       "raw_hot": 2108033,
@@ -4996,7 +5004,7 @@
     },
     {
       "raw_hot": 1031657,
-      "num": 298331,
+      "num": 364629,
       "word": "29岁女子怀孕隔天男友提分手",
       "onboard_time": 1711164439,
       "rank": 26,
@@ -7033,6 +7041,14 @@
       "onboard_time": 1709512891,
       "rank": 17,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 830212,
+      "num": 553409,
+      "word": "伊斯兰国为何袭击莫斯科",
+      "onboard_time": 1711169182,
+      "rank": 11,
+      "category": "国外时政"
     },
     {
       "raw_hot": 828519,
@@ -12219,14 +12235,6 @@
       "category": "母婴育儿"
     },
     {
-      "raw_hot": 574410,
-      "num": 553409,
-      "word": "伊斯兰国为何袭击莫斯科",
-      "onboard_time": 1711169182,
-      "rank": 11,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 574080,
       "num": 574080,
       "word": "杨幂唐嫣刘诗诗G社生图",
@@ -14131,6 +14139,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 517018,
+      "num": 375222,
+      "word": "胡锡进称俄罗斯面临严峻形势",
+      "onboard_time": 1711170740,
+      "rank": 35,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 516325,
       "num": 516325,
       "word": "赵丽颖好爱用微博表情",
@@ -14409,6 +14425,14 @@
       "onboard_time": 1709794530,
       "rank": 16,
       "category": "体育"
+    },
+    {
+      "raw_hot": 508602,
+      "num": 374698,
+      "word": "莫斯科母婴室发现遇难者",
+      "onboard_time": 1711173379,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 508544,
@@ -15505,6 +15529,14 @@
       "onboard_time": 1709551770,
       "rank": 14,
       "category": "情感"
+    },
+    {
+      "raw_hot": 481965,
+      "num": 374310,
+      "word": "鹿晗宝石老舅王勉被范志毅偷家",
+      "onboard_time": 1711173859,
+      "rank": 15,
+      "category": "综艺"
     },
     {
       "raw_hot": 481845,
@@ -17689,6 +17721,14 @@
       "onboard_time": 1710071611,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 429352,
+      "num": 373765,
+      "word": "俄恐袭中1人带受伤同伴绕柱躲过射杀",
+      "onboard_time": 1711172059,
+      "rank": 16,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 429068,
@@ -20235,6 +20275,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 372764,
+      "num": 372764,
+      "word": "水哥 鬼才之眼",
+      "onboard_time": 1711173678,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 372757,
       "num": 372757,
       "word": "宫崎骏 做好了它完成前死去的准备",
@@ -20603,6 +20651,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 366767,
+      "num": 366767,
+      "word": "少年法庭",
+      "onboard_time": 1711173437,
+      "rank": 19,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 366681,
       "num": 366681,
       "word": "杨紫四部大女主待播剧",
@@ -20913,6 +20969,14 @@
       "onboard_time": 1709358813,
       "rank": 22,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 359631,
+      "num": 359631,
+      "word": "蒋欣角色 得不到的爱",
+      "onboard_time": 1711171879,
+      "rank": 37,
+      "category": "剧集"
     },
     {
       "raw_hot": 359456,
@@ -22785,14 +22849,6 @@
       "onboard_time": 1709422882,
       "rank": 7,
       "category": "综艺,综艺"
-    },
-    {
-      "raw_hot": 325891,
-      "num": 198928,
-      "word": "胡锡进称俄罗斯面临严峻形势",
-      "onboard_time": 1711170740,
-      "rank": 35,
-      "category": "国外时政"
     },
     {
       "raw_hot": 325718,
@@ -25715,6 +25771,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 286316,
+      "num": 286316,
+      "word": "秦岚也出发录制花少了",
+      "onboard_time": 1711172419,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 286283,
       "num": 255816,
       "word": "万科股价大跌",
@@ -26169,6 +26233,14 @@
       "onboard_time": 1709735912,
       "rank": 18,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 279809,
+      "num": 279809,
+      "word": "李马克长发",
+      "onboard_time": 1711172780,
+      "rank": 23,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 279759,
@@ -27593,6 +27665,14 @@
       "onboard_time": 1710674313,
       "rank": 27,
       "category": "情感"
+    },
+    {
+      "raw_hot": 263988,
+      "num": 263988,
+      "word": "中方坚定支持俄维护国家安全稳定的努力",
+      "onboard_time": 1711172959,
+      "rank": 25,
+      "category": "国内时政"
     },
     {
       "raw_hot": 263954,
@@ -35587,6 +35667,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 205129,
+      "num": 205129,
+      "word": "俄媒称现场3名枪手开枪扫射人群",
+      "onboard_time": 1711174158,
+      "rank": 31,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 205109,
       "num": 205109,
       "word": "3月5日10时23分迎来惊蛰",
@@ -36065,6 +36153,14 @@
       "onboard_time": 1710727533,
       "rank": 32,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 203131,
+      "num": 203131,
+      "word": "向佐对群演的态度",
+      "onboard_time": 1711173678,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 203084,
@@ -37377,6 +37473,14 @@
       "onboard_time": 1710245793,
       "rank": 45,
       "category": "情感"
+    },
+    {
+      "raw_hot": 197679,
+      "num": 197679,
+      "word": "鹿晗问五哈节目组我鞋呢",
+      "onboard_time": 1711172479,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 197672,
@@ -41123,6 +41227,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 182308,
+      "num": 168326,
+      "word": "鹿晗被话筒喷水",
+      "onboard_time": 1711173319,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 182267,
       "num": 182267,
       "word": "阿森纳晋级欧冠八强",
@@ -44259,6 +44371,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 168548,
+      "num": 168548,
+      "word": "李白 大司命",
+      "onboard_time": 1711174636,
+      "rank": 38,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 168458,
       "num": 168458,
       "word": "全员加速中 抓鸡",
@@ -45689,14 +45809,6 @@
       "onboard_time": 1710741873,
       "rank": 38,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 162376,
-      "num": 160892,
-      "word": "蒋欣角色 得不到的爱",
-      "onboard_time": 1711171879,
-      "rank": 37,
-      "category": "剧集"
     },
     {
       "raw_hot": 162368,
