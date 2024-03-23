@@ -1,6 +1,6 @@
 {
   "startTime": 1710605970310,
-  "endTime": 1711178212683,
+  "endTime": 1711179311256,
   "band_list": [
     {
       "raw_hot": 11692231,
@@ -667,6 +667,14 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 1600395,
+      "num": 1600395,
+      "word": "南航大学回应学生与教授发生关系",
+      "onboard_time": 1711176439,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1592818,
       "num": 879021,
       "word": "手部出现3种异样可能患癌",
@@ -952,14 +960,6 @@
       "word": "杀害4岁女童的男孩接受6个月心理矫治",
       "onboard_time": 1710741873,
       "rank": 8,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1364571,
-      "num": 1364571,
-      "word": "南航大学回应学生与教授发生关系",
-      "onboard_time": 1711176439,
-      "rank": 1,
       "category": "社会新闻"
     },
     {
@@ -4283,6 +4283,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 547692,
+      "num": 461157,
+      "word": "新版微信朋友圈都是短线",
+      "onboard_time": 1711178120,
+      "rank": 49,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 547448,
       "num": 547448,
       "word": "苹果市值一夜蒸发超7919亿",
@@ -4617,6 +4625,14 @@
       "onboard_time": 1710989852,
       "rank": 23,
       "category": "社会新闻,美食"
+    },
+    {
+      "raw_hot": 507257,
+      "num": 507257,
+      "word": "盒子里的猫",
+      "onboard_time": 1710990872,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 507163,
@@ -5257,6 +5273,14 @@
       "onboard_time": 1710659673,
       "rank": 14,
       "category": "财经"
+    },
+    {
+      "raw_hot": 450099,
+      "num": 450099,
+      "word": "isis",
+      "onboard_time": 1711178057,
+      "rank": 48,
+      "category": "国外时政"
     },
     {
       "raw_hot": 448838,
@@ -6107,6 +6131,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 386663,
+      "num": 386663,
+      "word": "叶蓁蓁 22楼所有人的后盾",
+      "onboard_time": 1711177519,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 386095,
       "num": 386095,
       "word": "蒋欣角色 得不到的爱",
@@ -6219,14 +6251,6 @@
       "category": "运动健身"
     },
     {
-      "raw_hot": 380029,
-      "num": 380029,
-      "word": "盒子里的猫",
-      "onboard_time": 1710990872,
-      "rank": 36,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 379974,
       "num": 379974,
       "word": "1名莫斯科恐袭案枪手被捕",
@@ -6241,6 +6265,14 @@
       "onboard_time": 1711003051,
       "rank": 16,
       "category": "美食"
+    },
+    {
+      "raw_hot": 378331,
+      "num": 378331,
+      "word": "李白 大司命",
+      "onboard_time": 1711174636,
+      "rank": 38,
+      "category": "游戏"
     },
     {
       "raw_hot": 377734,
@@ -7811,6 +7843,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 293364,
+      "num": 293364,
+      "word": "王俊凯浑身是胆",
+      "onboard_time": 1711177038,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 293209,
       "num": 293209,
       "word": "赵奕欢36岁素颜状态",
@@ -7889,6 +7929,22 @@
       "onboard_time": 1710744094,
       "rank": 23,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 289555,
+      "num": 289555,
+      "word": "普京听取莫斯科恐袭调查进展报告",
+      "onboard_time": 1711177400,
+      "rank": 28,
+      "category": "国外时政"
+    },
+    {
+      "raw_hot": 289289,
+      "num": 289289,
+      "word": "难怪郭碧婷说向佐工作严厉",
+      "onboard_time": 1711178658,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 289089,
@@ -8048,14 +8104,6 @@
       "word": "逆水寒",
       "onboard_time": 1710638313,
       "rank": 34,
-      "category": "游戏"
-    },
-    {
-      "raw_hot": 282426,
-      "num": 282426,
-      "word": "李白 大司命",
-      "onboard_time": 1711174636,
-      "rank": 38,
       "category": "游戏"
     },
     {
@@ -8377,6 +8425,14 @@
       "onboard_time": 1711077681,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 270790,
+      "num": 270790,
+      "word": "花少好友记嘉宾",
+      "onboard_time": 1711177698,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 270434,
@@ -9763,14 +9819,6 @@
       "category": "财经,国外时政"
     },
     {
-      "raw_hot": 227050,
-      "num": 227050,
-      "word": "叶蓁蓁 22楼所有人的后盾",
-      "onboard_time": 1711177519,
-      "rank": 26,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 226949,
       "num": 226949,
       "word": "张颂文隆妮林家川回了高家老宅",
@@ -10017,14 +10065,6 @@
       "onboard_time": 1710843455,
       "rank": 38,
       "category": "情感"
-    },
-    {
-      "raw_hot": 222805,
-      "num": 222805,
-      "word": "普京听取莫斯科恐袭调查进展报告",
-      "onboard_time": 1711177400,
-      "rank": 28,
-      "category": "国外时政"
     },
     {
       "raw_hot": 222711,
@@ -10467,14 +10507,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 215755,
-      "num": 215755,
-      "word": "王俊凯浑身是胆",
-      "onboard_time": 1711177038,
-      "rank": 30,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 215646,
       "num": 215646,
       "word": "天水麻辣烫到底能火多久",
@@ -10729,14 +10761,6 @@
       "onboard_time": 1710812554,
       "rank": 30,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 210177,
-      "num": 210177,
-      "word": "花少好友记嘉宾",
-      "onboard_time": 1711177698,
-      "rank": 31,
-      "category": "综艺"
     },
     {
       "raw_hot": 209936,
@@ -14747,6 +14771,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 156747,
+      "num": 156747,
+      "word": "猫眼回应抢林俊杰门票变成李克勤",
+      "onboard_time": 1711178359,
+      "rank": 41,
+      "category": "演出"
+    },
+    {
       "raw_hot": 156737,
       "num": 156737,
       "word": "Hero对战XYG",
@@ -14929,6 +14961,14 @@
       "onboard_time": 1710675818,
       "rank": 43,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 154406,
+      "num": 154406,
+      "word": "花间令女性群像",
+      "onboard_time": 1711178778,
+      "rank": 42,
+      "category": "剧集"
     },
     {
       "raw_hot": 154356,
@@ -15617,6 +15657,14 @@
       "onboard_time": 1711110019,
       "rank": 36,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 144917,
+      "num": 144917,
+      "word": "吴磊浙江警察学院路演",
+      "onboard_time": 1711179139,
+      "rank": 44,
+      "category": "电影"
     },
     {
       "raw_hot": 144787,
@@ -16427,14 +16475,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 133406,
-      "num": 133406,
-      "word": "isis",
-      "onboard_time": 1711178057,
-      "rank": 48,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 133316,
       "num": 133316,
       "word": "直播带货一天卖20万是什么体验",
@@ -16523,14 +16563,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 132394,
-      "num": 132394,
-      "word": "新版微信朋友圈都是短线",
-      "onboard_time": 1711178120,
-      "rank": 49,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 132334,
       "num": 132334,
       "word": "虞书欣新疆plog",
@@ -16545,6 +16577,14 @@
       "onboard_time": 1711101201,
       "rank": 45,
       "category": "艺人,作品衍生"
+    },
+    {
+      "raw_hot": 131978,
+      "num": 131978,
+      "word": "周杰伦演唱会抢票",
+      "onboard_time": 1711179259,
+      "rank": 47,
+      "category": "演出"
     },
     {
       "raw_hot": 131742,
