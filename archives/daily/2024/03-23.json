@@ -1,6 +1,6 @@
 {
   "startTime": 1711124556378,
-  "endTime": 1711197904776,
+  "endTime": 1711199843381,
   "band_list": [
     {
       "raw_hot": 10611140,
@@ -139,6 +139,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 1475695,
+      "num": 1475695,
+      "word": "粉丝曾提醒夏之光是霸王茶姬",
+      "onboard_time": 1711194319,
+      "rank": 6,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1473959,
       "num": 1473959,
       "word": "莫斯科恐袭93人死亡",
@@ -179,6 +187,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1391414,
+      "num": 1391414,
+      "word": "普京就恐怖袭击事件发表电视讲话",
+      "onboard_time": 1711198701,
+      "rank": 3,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 1332441,
       "num": 1332441,
       "word": "宫崎骏 死了就看不到日落了",
@@ -200,6 +216,14 @@
       "word": "俄一音乐厅遭恐袭40人遇难百余人伤",
       "onboard_time": 1711149495,
       "rank": 1,
+      "category": "国外时政"
+    },
+    {
+      "raw_hot": 1258256,
+      "num": 632473,
+      "word": "莫斯科恐袭嫌疑人被捕现场",
+      "onboard_time": 1711197139,
+      "rank": 11,
       "category": "国外时政"
     },
     {
@@ -235,20 +259,20 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 1175570,
-      "num": 1175570,
-      "word": "粉丝曾提醒夏之光是霸王茶姬",
-      "onboard_time": 1711194319,
-      "rank": 6,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 1140133,
       "num": 1140133,
       "word": "南航大学涉事师生已报警",
       "onboard_time": 1711185859,
       "rank": 18,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1112692,
+      "num": 1112692,
+      "word": "赵露思出图",
+      "onboard_time": 1711195399,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 1083250,
@@ -275,14 +299,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1014904,
-      "num": 524396,
-      "word": "莫斯科恐袭嫌疑人被捕现场",
-      "onboard_time": 1711197139,
-      "rank": 11,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 999959,
       "num": 999959,
       "word": "莫斯科母婴室发现遇难者",
@@ -297,6 +313,14 @@
       "onboard_time": 1711180399,
       "rank": 5,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 963654,
+      "num": 963654,
+      "word": "张杰给内娱一点小小的震撼",
+      "onboard_time": 1711197020,
+      "rank": 39,
+      "category": "演出"
     },
     {
       "raw_hot": 958711,
@@ -411,12 +435,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 752319,
+      "num": 597868,
+      "word": "金莎化丑妆和男朋友视频",
+      "onboard_time": 1711197740,
+      "rank": 14,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 749816,
       "num": 749816,
       "word": "伊斯兰国宣称对莫斯科枪击事件负责",
       "onboard_time": 1711151476,
       "rank": 6,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 739606,
+      "num": 739606,
+      "word": "与凤行直播",
+      "onboard_time": 1711199300,
+      "rank": 7,
+      "category": "剧集"
     },
     {
       "raw_hot": 735596,
@@ -475,20 +515,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 643610,
-      "num": 535464,
-      "word": "赵露思出图",
-      "onboard_time": 1711195399,
-      "rank": 12,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 643025,
       "num": 643025,
       "word": "普京将就恐怖袭击事件发表电视演讲",
       "onboard_time": 1711158561,
       "rank": 19,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 641938,
+      "num": 641938,
+      "word": "菲律宾船对中国海警举白旗",
+      "onboard_time": 1711196659,
+      "rank": 40,
+      "category": "国内时政"
     },
     {
       "raw_hot": 619893,
@@ -537,6 +577,14 @@
       "onboard_time": 1711191200,
       "rank": 30,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 589038,
+      "num": 589038,
+      "word": "我妈 你不结婚老了以后谁照顾你",
+      "onboard_time": 1711198701,
+      "rank": 15,
+      "category": "幽默"
     },
     {
       "raw_hot": 581113,
@@ -635,20 +683,20 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 510463,
+      "num": 510463,
+      "word": "林俊杰开大G",
+      "onboard_time": 1711196060,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 507257,
       "num": 507257,
       "word": "盒子里的猫",
       "onboard_time": 1711176198,
       "rank": 14,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 505777,
-      "num": 408257,
-      "word": "林俊杰开大G",
-      "onboard_time": 1711196060,
-      "rank": 20,
-      "category": "艺人"
     },
     {
       "raw_hot": 504899,
@@ -851,6 +899,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 374649,
+      "num": 374649,
+      "word": "李一桐丝绸蓝裙",
+      "onboard_time": 1711197800,
+      "rank": 47,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 372081,
       "num": 372081,
       "word": "周处除三害",
@@ -865,14 +921,6 @@
       "onboard_time": 1711153157,
       "rank": 13,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 367709,
-      "num": 367709,
-      "word": "张杰给内娱一点小小的震撼",
-      "onboard_time": 1711197020,
-      "rank": 39,
-      "category": "演出"
     },
     {
       "raw_hot": 367413,
@@ -929,14 +977,6 @@
       "onboard_time": 1711160542,
       "rank": 19,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 342788,
-      "num": 342788,
-      "word": "菲律宾船对中国海警举白旗",
-      "onboard_time": 1711196659,
-      "rank": 40,
-      "category": "国内时政"
     },
     {
       "raw_hot": 333123,
@@ -1099,6 +1139,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 292104,
+      "num": 292104,
+      "word": "尔冬升把徐若晗赶出片场",
+      "onboard_time": 1711199541,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 291832,
       "num": 291832,
       "word": "目击者拍到恐怖分子手持AK47",
@@ -1179,6 +1227,30 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 277778,
+      "num": 277778,
+      "word": "赵丽颖凤尾钻石项链",
+      "onboard_time": 1711198940,
+      "rank": 30,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 276316,
+      "num": 276316,
+      "word": "沈腾马丽中国影史票房最高男女主演",
+      "onboard_time": 1711197260,
+      "rank": 30,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 274870,
+      "num": 279414,
+      "word": "吃出这些味道说明你过敏了",
+      "onboard_time": 1711195220,
+      "rank": 29,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 272026,
       "num": 244558,
       "word": "叶舒华镂空蕾丝开衫",
@@ -1235,12 +1307,12 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 258672,
-      "num": 243750,
-      "word": "沈腾马丽中国影史票房最高男女主演",
-      "onboard_time": 1711197260,
-      "rank": 30,
-      "category": "电影"
+      "raw_hot": 258830,
+      "num": 258830,
+      "word": "眼泪女王直播",
+      "onboard_time": 1711198639,
+      "rank": 33,
+      "category": "剧集"
     },
     {
       "raw_hot": 258065,
@@ -1275,12 +1347,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 251086,
-      "num": 251086,
-      "word": "吃出这些味道说明你过敏了",
-      "onboard_time": 1711195220,
-      "rank": 29,
-      "category": "健康医疗"
+      "raw_hot": 253271,
+      "num": 253271,
+      "word": "杨超越汉服少女",
+      "onboard_time": 1711198400,
+      "rank": 34,
+      "category": "剧集"
     },
     {
       "raw_hot": 248484,
@@ -1353,6 +1425,14 @@
       "onboard_time": 1711129993,
       "rank": 16,
       "category": "数码"
+    },
+    {
+      "raw_hot": 233356,
+      "num": 233356,
+      "word": "如何区分自己长相是普通还是丑",
+      "onboard_time": 1711197499,
+      "rank": 43,
+      "category": "幽默"
     },
     {
       "raw_hot": 232930,
@@ -1699,6 +1779,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 196732,
+      "num": 191568,
+      "word": "马嘉祺晒时代少年团合照",
+      "onboard_time": 1711199360,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 196404,
       "num": 196404,
       "word": "夏目贵志 好久不见",
@@ -1763,12 +1851,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 192569,
+      "num": 192569,
+      "word": "DRG对战TTG",
+      "onboard_time": 1711198701,
+      "rank": 37,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 192506,
       "num": 884523,
       "word": "交警处罚当事人后自费买下6份早饭",
       "onboard_time": 1711187419,
       "rank": 8,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 191691,
+      "num": 191684,
+      "word": "小爱同学差点帮我买了一套房",
+      "onboard_time": 1711199541,
+      "rank": 39,
+      "category": "幽默"
     },
     {
       "raw_hot": 191302,
@@ -1937,14 +2041,6 @@
       "onboard_time": 1711173798,
       "rank": 37,
       "category": "体育"
-    },
-    {
-      "raw_hot": 171003,
-      "num": 171003,
-      "word": "如何区分自己长相是普通还是丑",
-      "onboard_time": 1711197499,
-      "rank": 43,
-      "category": "幽默"
     },
     {
       "raw_hot": 166520,
@@ -2123,6 +2219,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 154056,
+      "num": 154056,
+      "word": "10.92亿背后的流量与力量",
+      "onboard_time": 1711198040,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 153036,
       "num": 153036,
       "word": "邓为白色男友风",
@@ -2137,14 +2241,6 @@
       "onboard_time": 1711182978,
       "rank": 40,
       "category": "情感"
-    },
-    {
-      "raw_hot": 151842,
-      "num": 151842,
-      "word": "李一桐丝绸蓝裙",
-      "onboard_time": 1711197800,
-      "rank": 47,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 150841,
@@ -2244,7 +2340,7 @@
     },
     {
       "raw_hot": 140650,
-      "num": 423378,
+      "num": 561127,
       "word": "蛋仔露营好朋友",
       "onboard_time": 1711196299,
       "rank": 18,
@@ -2641,6 +2737,14 @@
       "onboard_time": 1711148473,
       "rank": 46,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 33852,
+      "num": 1414542,
+      "word": "春日花经济焕发新动力",
+      "onboard_time": 1711198400,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 31992,
