@@ -1,6 +1,6 @@
 {
   "startTime": 1711210803824,
-  "endTime": 1711232169799,
+  "endTime": 1711233272019,
   "band_list": [
     {
       "raw_hot": 1764453,
@@ -211,6 +211,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 236131,
+      "num": 63036,
+      "word": "收费站工作人员逼司机吃垃圾桶食物",
+      "onboard_time": 1711227551,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 235813,
       "num": 235813,
       "word": "王室专家称凯特因孩子推迟公布患癌",
@@ -297,14 +305,6 @@
       "onboard_time": 1711197499,
       "rank": 33,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 175256,
-      "num": 45195,
-      "word": "收费站工作人员逼司机吃垃圾桶食物",
-      "onboard_time": 1711227551,
-      "rank": 36,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 173520,
@@ -435,6 +435,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 79810,
+      "num": 54703,
+      "word": "小户型为什么不香了",
+      "onboard_time": 1711220771,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 76353,
       "num": 76353,
       "word": "杨幂发现自己五狐临门了",
@@ -459,16 +467,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 59962,
-      "num": 50053,
-      "word": "小户型为什么不香了",
-      "onboard_time": 1711220771,
-      "rank": 45,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 56829,
-      "num": 45050,
+      "raw_hot": 66569,
+      "num": 62749,
       "word": "郑合惠子王梓薇丑妆认不出来了",
       "onboard_time": 1711226712,
       "rank": 11,
@@ -481,6 +481,14 @@
       "onboard_time": 1711218433,
       "rank": 40,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 35500,
+      "num": 35500,
+      "word": "上海花店卖油菜花30元10支",
+      "onboard_time": 1711224851,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 33945,
@@ -499,14 +507,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 28479,
-      "num": 28479,
-      "word": "上海花店卖油菜花30元10支",
-      "onboard_time": 1711224851,
-      "rank": 47,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 26835,
       "num": 26835,
       "word": "陈楚生苏州演唱会",
@@ -515,8 +515,8 @@
       "category": "演出"
     },
     {
-      "raw_hot": 23758,
-      "num": 23758,
+      "raw_hot": 23854,
+      "num": 26864,
       "word": "追风者",
       "onboard_time": 1711203262,
       "rank": 48,
@@ -524,15 +524,15 @@
     },
     {
       "raw_hot": 23245,
-      "num": 23245,
+      "num": 26847,
       "word": "与凤行播放量破5亿",
       "onboard_time": 1711221792,
       "rank": 45,
       "category": "剧集"
     },
     {
-      "raw_hot": 14449,
-      "num": 22505,
+      "raw_hot": 17969,
+      "num": 26840,
       "word": "大家说好吃但你get不到的食物",
       "onboard_time": 1711226052,
       "rank": 49,
