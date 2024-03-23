@@ -1,6 +1,6 @@
 {
   "startTime": 1709223640991,
-  "endTime": 1711210803824,
+  "endTime": 1711211717992,
   "band_list": [
     {
       "raw_hot": 12728050,
@@ -17067,6 +17067,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 455179,
+      "num": 455179,
+      "word": "邓超在春晚还是太收敛了",
+      "onboard_time": 1711204522,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 454904,
       "num": 454904,
       "word": "你好星期六下期0713VS院人",
@@ -18937,14 +18945,6 @@
       "onboard_time": 1709550151,
       "rank": 19,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 410991,
-      "num": 358590,
-      "word": "邓超在春晚还是太收敛了",
-      "onboard_time": 1711204522,
-      "rank": 27,
-      "category": "艺人"
     },
     {
       "raw_hot": 410967,
@@ -25035,6 +25035,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 301969,
+      "num": 202703,
+      "word": "林更新被100多条信息轰炸求剧透",
+      "onboard_time": 1711210638,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 301960,
       "num": 301960,
       "word": "聂可以 文哲",
@@ -29827,6 +29835,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 248479,
+      "num": 217079,
+      "word": "纪凌尘emo了",
+      "onboard_time": 1711209920,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 248459,
       "num": 238952,
       "word": "朋友好像不知道我送的是黄金",
@@ -34209,14 +34225,6 @@
       "onboard_time": 1710755735,
       "rank": 31,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 217079,
-      "num": 217079,
-      "word": "纪凌尘emo了",
-      "onboard_time": 1711209920,
-      "rank": 29,
-      "category": "综艺"
     },
     {
       "raw_hot": 217035,
@@ -41217,6 +41225,14 @@
       "onboard_time": 1710576815,
       "rank": 37,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 187280,
+      "num": 177509,
+      "word": "金秀贤哭戏",
+      "onboard_time": 1711211357,
+      "rank": 31,
+      "category": "剧集"
     },
     {
       "raw_hot": 187220,
@@ -51209,14 +51225,6 @@
       "onboard_time": 1709372613,
       "rank": 38,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 146800,
-      "num": 146800,
-      "word": "林更新被100多条信息轰炸求剧透",
-      "onboard_time": 1711210638,
-      "rank": 42,
-      "category": "剧集"
     },
     {
       "raw_hot": 146779,

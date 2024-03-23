@@ -1,6 +1,6 @@
 {
   "startTime": 1711210803824,
-  "endTime": 1711210803824,
+  "endTime": 1711211717992,
   "band_list": [
     {
       "raw_hot": 1764453,
@@ -83,6 +83,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 455179,
+      "num": 455179,
+      "word": "邓超在春晚还是太收敛了",
+      "onboard_time": 1711204522,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 440270,
       "num": 440270,
       "word": "苹果高管一家四口被撞身亡",
@@ -105,14 +113,6 @@
       "onboard_time": 1711200381,
       "rank": 13,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 410991,
-      "num": 358590,
-      "word": "邓超在春晚还是太收敛了",
-      "onboard_time": 1711204522,
-      "rank": 15,
-      "category": "艺人"
     },
     {
       "raw_hot": 395321,
@@ -140,7 +140,7 @@
     },
     {
       "raw_hot": 340645,
-      "num": 340645,
+      "num": 363697,
       "word": "俄恐袭嫌疑人称有人出100万卢布买凶",
       "onboard_time": 1711193660,
       "rank": 17,
@@ -155,6 +155,22 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 302813,
+      "num": 280323,
+      "word": "留给霸王茶姬的名字不多了",
+      "onboard_time": 1711190600,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 301969,
+      "num": 202703,
+      "word": "林更新被100多条信息轰炸求剧透",
+      "onboard_time": 1711210638,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 297503,
       "num": 297503,
       "word": "莫斯科恐袭嫌疑人被捕现场",
@@ -163,20 +179,20 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 280323,
-      "num": 280323,
-      "word": "留给霸王茶姬的名字不多了",
-      "onboard_time": 1711190600,
-      "rank": 21,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 252626,
+      "raw_hot": 275686,
       "num": 234248,
       "word": "眼泪女王",
       "onboard_time": 1711200981,
       "rank": 25,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 248479,
+      "num": 217079,
+      "word": "纪凌尘emo了",
+      "onboard_time": 1711209920,
+      "rank": 29,
+      "category": "综艺"
     },
     {
       "raw_hot": 236114,
@@ -227,14 +243,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 217079,
-      "num": 217079,
-      "word": "纪凌尘emo了",
-      "onboard_time": 1711209920,
-      "rank": 29,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 196737,
       "num": 196737,
       "word": "林俊杰开大G",
@@ -251,12 +259,28 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 187280,
+      "num": 177509,
+      "word": "金秀贤哭戏",
+      "onboard_time": 1711211357,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 183919,
       "num": 183919,
       "word": "林更新卷毛回来了",
       "onboard_time": 1711207760,
       "rank": 32,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 177822,
+      "num": 177822,
+      "word": "邻居WiFi名字是想来我们家玩",
+      "onboard_time": 1711201580,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 177213,
@@ -281,6 +305,14 @@
       "onboard_time": 1711194619,
       "rank": 35,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 170823,
+      "num": 170823,
+      "word": "眼泪女王亲了",
+      "onboard_time": 1711204102,
+      "rank": 41,
+      "category": "剧集"
     },
     {
       "raw_hot": 169449,
@@ -323,22 +355,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 155747,
-      "num": 155747,
-      "word": "眼泪女王亲了",
-      "onboard_time": 1711204102,
-      "rank": 41,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 146800,
-      "num": 146800,
-      "word": "林更新被100多条信息轰炸求剧透",
-      "onboard_time": 1711210638,
-      "rank": 42,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 145768,
       "num": 145768,
       "word": "与凤行直播",
@@ -377,14 +393,6 @@
       "onboard_time": 1711202121,
       "rank": 47,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 117203,
-      "num": 117203,
-      "word": "邻居WiFi名字是想来我们家玩",
-      "onboard_time": 1711201580,
-      "rank": 48,
-      "category": "幽默"
     },
     {
       "raw_hot": 104590,
