@@ -1,6 +1,6 @@
 {
   "startTime": 1710605970310,
-  "endTime": 1711186440121,
+  "endTime": 1711189045871,
   "band_list": [
     {
       "raw_hot": 11692231,
@@ -225,6 +225,14 @@
       "onboard_time": 1710756332,
       "rank": 11,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2446415,
+      "num": 2446415,
+      "word": "茶王吧唧",
+      "onboard_time": 1711185738,
+      "rank": 7,
+      "category": "艺人,美食"
     },
     {
       "raw_hot": 2432910,
@@ -1195,6 +1203,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 1278639,
+      "num": 1278639,
+      "word": "宫崎骏 死了就看不到日落了",
+      "onboard_time": 1711186880,
+      "rank": 3,
+      "category": "动漫,作品衍生"
+    },
+    {
       "raw_hot": 1275311,
       "num": 1275311,
       "word": "专家称今年刚需买房的人可以下手了",
@@ -1497,6 +1513,14 @@
       "onboard_time": 1710966616,
       "rank": 48,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 1140133,
+      "num": 1140133,
+      "word": "南航大学涉事师生已报警",
+      "onboard_time": 1711185859,
+      "rank": 18,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1136866,
@@ -2019,6 +2043,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 941141,
+      "num": 941141,
+      "word": "莫斯科恐袭已致115人死亡",
+      "onboard_time": 1711188320,
+      "rank": 6,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 940338,
       "num": 940338,
       "word": "凭什么要禁止东北人做翻译啊",
@@ -2129,14 +2161,6 @@
       "onboard_time": 1710746614,
       "rank": 8,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 898093,
-      "num": 898093,
-      "word": "茶王吧唧",
-      "onboard_time": 1711185738,
-      "rank": 7,
-      "category": "艺人,美食"
     },
     {
       "raw_hot": 897607,
@@ -4537,6 +4561,14 @@
       "onboard_time": 1710761374,
       "rank": 31,
       "category": "互联网,社会新闻"
+    },
+    {
+      "raw_hot": 527456,
+      "num": 879247,
+      "word": "爷爷馋幼儿园肉包子孙女当真带回",
+      "onboard_time": 1711187419,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 525721,
@@ -7243,6 +7275,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 321086,
+      "num": 321086,
+      "word": "韩警察涉嫌泄露李善均案情报被捕",
+      "onboard_time": 1711187599,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 320129,
       "num": 320129,
       "word": "张琳芃或退出国足",
@@ -8475,14 +8515,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 273805,
-      "num": 273805,
-      "word": "南航大学涉事师生已报警",
-      "onboard_time": 1711185859,
-      "rank": 18,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 273740,
       "num": 265181,
       "word": "张庭夫妇庭秘密旗下公司拟注销",
@@ -9235,6 +9267,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 245974,
+      "num": 245974,
+      "word": "雷军称参与小米SU7路面实测10多次",
+      "onboard_time": 1711186937,
+      "rank": 23,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 245201,
       "num": 245201,
       "word": "贵人鸟创始人身家曾达190亿",
@@ -9587,6 +9627,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 235028,
+      "num": 235028,
+      "word": "你好星期六",
+      "onboard_time": 1711186821,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 234914,
       "num": 234914,
       "word": "居然被初中好朋友冒名顶替了",
@@ -9817,6 +9865,14 @@
       "onboard_time": 1710919775,
       "rank": 41,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 230084,
+      "num": 230084,
+      "word": "港男是不是离不开发油",
+      "onboard_time": 1711188080,
+      "rank": 26,
+      "category": "幽默"
     },
     {
       "raw_hot": 229949,
@@ -10923,6 +10979,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 210699,
+      "num": 210699,
+      "word": "夏之光回应茶王吧唧",
+      "onboard_time": 1711188741,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 210454,
       "num": 210454,
       "word": "gidle重返音放打歌",
@@ -11723,20 +11787,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 200131,
+      "num": 200131,
+      "word": "2种症状提醒你压力过大了",
+      "onboard_time": 1711183100,
+      "rank": 31,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 200010,
       "num": 200010,
       "word": "小米Civi",
       "onboard_time": 1710833129,
       "rank": 32,
       "category": "数码"
-    },
-    {
-      "raw_hot": 199973,
-      "num": 199973,
-      "word": "2种症状提醒你压力过大了",
-      "onboard_time": 1711183100,
-      "rank": 31,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 199645,
@@ -12611,6 +12675,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 189897,
+      "num": 189897,
+      "word": "王俊凯正面vs背面",
+      "onboard_time": 1711188500,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 189866,
       "num": 189866,
       "word": "WB翻盘",
@@ -13123,6 +13195,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 182829,
+      "num": 182829,
+      "word": "俄联邦安全局称嫌犯计划逃往乌克兰",
+      "onboard_time": 1711188080,
+      "rank": 32,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 182673,
       "num": 182673,
       "word": "北京大风",
@@ -13603,6 +13683,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 175073,
+      "num": 175073,
+      "word": "Hero让二追三",
+      "onboard_time": 1711186821,
+      "rank": 34,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 175057,
       "num": 175057,
       "word": "数千新兵陆续抵达祖国边疆",
@@ -13723,6 +13811,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 174012,
+      "num": 884523,
+      "word": "交警处罚当事人后自费买下6份早饭",
+      "onboard_time": 1711187419,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 173999,
       "num": 173999,
       "word": "逆水寒星宿拟人外观",
@@ -13785,6 +13881,14 @@
       "onboard_time": 1710859057,
       "rank": 35,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 173162,
+      "num": 173162,
+      "word": "边伯贤东京演唱会",
+      "onboard_time": 1711188679,
+      "rank": 35,
+      "category": "演出"
     },
     {
       "raw_hot": 172862,
@@ -14379,6 +14483,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 165710,
+      "num": 165710,
+      "word": "整治内娱的综艺来了",
+      "onboard_time": 1711188799,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 165486,
       "num": 165486,
       "word": "侃爷洛杉矶仓库被盗损失达100万美元",
@@ -14457,6 +14569,14 @@
       "onboard_time": 1711012099,
       "rank": 38,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 163766,
+      "num": 163766,
+      "word": "林更新不认可猫狗双全",
+      "onboard_time": 1711185738,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 163518,
@@ -15201,14 +15321,6 @@
       "onboard_time": 1710675818,
       "rank": 43,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 154460,
-      "num": 154460,
-      "word": "林更新不认可猫狗双全",
-      "onboard_time": 1711185738,
-      "rank": 36,
-      "category": "综艺"
     },
     {
       "raw_hot": 154406,
