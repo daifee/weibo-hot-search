@@ -1,6 +1,6 @@
 {
   "startTime": 1710605970310,
-  "endTime": 1711157325737,
+  "endTime": 1711159345313,
   "band_list": [
     {
       "raw_hot": 11692231,
@@ -9,6 +9,14 @@
       "onboard_time": 1710684039,
       "rank": 0,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 9838554,
+      "num": 9838554,
+      "word": "俄罗斯已进入战争状态",
+      "onboard_time": 1711155619,
+      "rank": 10,
+      "category": "国外时政"
     },
     {
       "raw_hot": 8747332,
@@ -323,6 +331,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2121468,
+      "num": 2121468,
+      "word": "莫斯科恐袭死亡人数增至70",
+      "onboard_time": 1711157480,
+      "rank": 1,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 2108033,
       "num": 2108033,
       "word": "淀粉肠摊主一晚0收入",
@@ -409,14 +425,6 @@
       "onboard_time": 1710632964,
       "rank": 0,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1876162,
-      "num": 1876162,
-      "word": "俄罗斯已进入战争状态",
-      "onboard_time": 1711155619,
-      "rank": 10,
-      "category": "国外时政"
     },
     {
       "raw_hot": 1862763,
@@ -1516,7 +1524,7 @@
     },
     {
       "raw_hot": 1083250,
-      "num": 281370,
+      "num": 338412,
       "word": "实习生为了36万年薪放弃交大保研",
       "onboard_time": 1711156279,
       "rank": 20,
@@ -2179,6 +2187,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 853853,
+      "num": 240981,
+      "word": "莫斯科音乐厅厕所发现超10具尸体",
+      "onboard_time": 1711157960,
+      "rank": 30,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 850379,
       "num": 850379,
       "word": "婚后的隐形家务真的会让人崩溃",
@@ -2705,6 +2721,14 @@
       "onboard_time": 1710894274,
       "rank": 4,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 735596,
+      "num": 486058,
+      "word": "普京已知晓音乐厅恐袭事件",
+      "onboard_time": 1711153341,
+      "rank": 11,
+      "category": "国外时政"
     },
     {
       "raw_hot": 735358,
@@ -3363,11 +3387,11 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 627114,
-      "num": 456277,
-      "word": "普京已知晓音乐厅恐袭事件",
-      "onboard_time": 1711153341,
-      "rank": 11,
+      "raw_hot": 627536,
+      "num": 485745,
+      "word": "拜登回应凯特患癌",
+      "onboard_time": 1711156700,
+      "rank": 30,
       "category": "国外时政"
     },
     {
@@ -4083,6 +4107,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 546350,
+      "num": 546350,
+      "word": "全钟瑞 校园暴力",
+      "onboard_time": 1711158261,
+      "rank": 8,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 543532,
       "num": 454897,
       "word": "加沙看不到正常体型新生儿",
@@ -4577,6 +4609,14 @@
       "onboard_time": 1710762692,
       "rank": 12,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 487679,
+      "num": 487679,
+      "word": "鹿晗济南",
+      "onboard_time": 1711156760,
+      "rank": 19,
+      "category": "综艺"
     },
     {
       "raw_hot": 487481,
@@ -5363,6 +5403,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 419582,
+      "num": 419582,
+      "word": "刘涛时隔十年再录花少",
+      "onboard_time": 1711158140,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 419428,
       "num": 419428,
       "word": "特斯拉市值一夜涨超2364亿",
@@ -5441,6 +5489,14 @@
       "onboard_time": 1710755493,
       "rank": 14,
       "category": "演出"
+    },
+    {
+      "raw_hot": 414294,
+      "num": 414294,
+      "word": "贵女开机",
+      "onboard_time": 1711157599,
+      "rank": 14,
+      "category": "剧集"
     },
     {
       "raw_hot": 414042,
@@ -5932,7 +5988,7 @@
     },
     {
       "raw_hot": 376333,
-      "num": 280645,
+      "num": 323869,
       "word": "假性亲密关系比单身更可怕",
       "onboard_time": 1711154059,
       "rank": 20,
@@ -5987,6 +6043,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 372081,
+      "num": 372081,
+      "word": "周处除三害",
+      "onboard_time": 1711151177,
+      "rank": 22,
+      "category": "电影"
+    },
+    {
       "raw_hot": 371865,
       "num": 271103,
       "word": "婆婆每个月给我1w要不要收",
@@ -6035,6 +6099,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 370010,
+      "num": 370010,
+      "word": "他居然学奶妈蹲下的样子",
+      "onboard_time": 1711157720,
+      "rank": 16,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 369100,
       "num": 369100,
       "word": "网友建议重庆地铁不准乘客携带菜筐",
@@ -6049,6 +6121,14 @@
       "onboard_time": 1710769776,
       "rank": 23,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 367413,
+      "num": 367413,
+      "word": "这4个体检项目没必要做",
+      "onboard_time": 1711152558,
+      "rank": 18,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 367382,
@@ -6129,14 +6209,6 @@
       "onboard_time": 1711085721,
       "rank": 16,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 361492,
-      "num": 361492,
-      "word": "周处除三害",
-      "onboard_time": 1711151177,
-      "rank": 22,
-      "category": "电影"
     },
     {
       "raw_hot": 360955,
@@ -6411,6 +6483,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 342432,
+      "num": 342432,
+      "word": "普京将就恐怖袭击事件发表电视演讲",
+      "onboard_time": 1711158561,
+      "rank": 19,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 342131,
       "num": 342131,
       "word": "兔狲狲大娘因病死亡",
@@ -6585,14 +6665,6 @@
       "onboard_time": 1711152739,
       "rank": 16,
       "category": "演出"
-    },
-    {
-      "raw_hot": 332870,
-      "num": 332870,
-      "word": "这4个体检项目没必要做",
-      "onboard_time": 1711152558,
-      "rank": 18,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 331694,
@@ -7419,6 +7491,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 291832,
+      "num": 291832,
+      "word": "目击者拍到恐怖分子手持AK47",
+      "onboard_time": 1711156939,
+      "rank": 41,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 291660,
       "num": 291660,
       "word": "张予曦浪姐全妆路透",
@@ -7449,14 +7529,6 @@
       "onboard_time": 1710744094,
       "rank": 23,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 289094,
-      "num": 289094,
-      "word": "鹿晗济南",
-      "onboard_time": 1711156760,
-      "rank": 19,
-      "category": "综艺"
     },
     {
       "raw_hot": 289089,
@@ -7979,14 +8051,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 267951,
-      "num": 209515,
-      "word": "拜登回应凯特患癌",
-      "onboard_time": 1711156700,
-      "rank": 30,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 267558,
       "num": 267558,
       "word": "张琳芃担任国足队长",
@@ -8275,6 +8339,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 254891,
+      "num": 254891,
+      "word": "黄子韬回应和徐艺洋吃饭被拍",
+      "onboard_time": 1711159101,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 254431,
       "num": 198811,
       "word": "我妈好像是爽文大女主",
@@ -8555,6 +8627,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 244589,
+      "num": 244589,
+      "word": "总台直击莫斯科遭恐袭现场",
+      "onboard_time": 1711158921,
+      "rank": 27,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 244536,
       "num": 244536,
       "word": "库克 交大",
@@ -8625,6 +8705,14 @@
       "onboard_time": 1710744273,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 243070,
+      "num": 243070,
+      "word": "1名莫斯科恐袭案枪手被捕",
+      "onboard_time": 1711158018,
+      "rank": 28,
+      "category": "国外时政"
     },
     {
       "raw_hot": 243036,
@@ -8833,6 +8921,14 @@
       "onboard_time": 1710928835,
       "rank": 25,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 237061,
+      "num": 237061,
+      "word": "计算机二级",
+      "onboard_time": 1711156219,
+      "rank": 29,
+      "category": "教育"
     },
     {
       "raw_hot": 236875,
@@ -9163,6 +9259,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 227698,
+      "num": 227698,
+      "word": "王者荣耀",
+      "onboard_time": 1711002573,
+      "rank": 35,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 227696,
       "num": 227696,
       "word": "上班第一天分了块菜地",
@@ -9217,6 +9321,14 @@
       "onboard_time": 1710913830,
       "rank": 20,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 226940,
+      "num": 226940,
+      "word": "为什么辣条抓不住年轻人了",
+      "onboard_time": 1711155740,
+      "rank": 38,
+      "category": "美食"
     },
     {
       "raw_hot": 226735,
@@ -10115,14 +10227,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 210225,
-      "num": 210225,
-      "word": "王者荣耀",
-      "onboard_time": 1711002573,
-      "rank": 35,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 209936,
       "num": 226759,
       "word": "借哥哥军装拍照的00后立二等功",
@@ -10169,14 +10273,6 @@
       "onboard_time": 1711004012,
       "rank": 28,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 209608,
-      "num": 209608,
-      "word": "计算机二级",
-      "onboard_time": 1711156219,
-      "rank": 29,
-      "category": "教育"
     },
     {
       "raw_hot": 209531,
@@ -11435,14 +11531,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 192900,
-      "num": 192900,
-      "word": "为什么辣条抓不住年轻人了",
-      "onboard_time": 1711155740,
-      "rank": 38,
-      "category": "美食"
-    },
-    {
       "raw_hot": 192552,
       "num": 192552,
       "word": "每天睡多久最好因人而异",
@@ -11529,6 +11617,14 @@
       "onboard_time": 1711069638,
       "rank": 44,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 191248,
+      "num": 191248,
+      "word": "莫斯科近郊恐袭事件嫌疑人乘白色汽车逃离",
+      "onboard_time": 1711159162,
+      "rank": 36,
+      "category": "国外时政"
     },
     {
       "raw_hot": 191245,
@@ -12153,6 +12249,14 @@
       "onboard_time": 1710774455,
       "rank": 38,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 182831,
+      "num": 182831,
+      "word": "贵人鸟公告退市",
+      "onboard_time": 1711158921,
+      "rank": 37,
+      "category": "财经"
     },
     {
       "raw_hot": 182673,
@@ -13193,6 +13297,14 @@
       "onboard_time": 1710840454,
       "rank": 39,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 167793,
+      "num": 167793,
+      "word": "俄驻华使馆发微博",
+      "onboard_time": 1711159101,
+      "rank": 40,
+      "category": "国外时政"
     },
     {
       "raw_hot": 167676,
@@ -14619,6 +14731,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 147950,
+      "num": 147950,
+      "word": "阴阳师与王者荣耀哪个是你的最爱",
+      "onboard_time": 1711158081,
+      "rank": 44,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 147898,
       "num": 147898,
       "word": "林更新狗进猫窝",
@@ -14961,14 +15081,6 @@
       "onboard_time": 1711151536,
       "rank": 42,
       "category": "情感"
-    },
-    {
-      "raw_hot": 142137,
-      "num": 142137,
-      "word": "目击者拍到恐怖分子手持AK47",
-      "onboard_time": 1711156939,
-      "rank": 41,
-      "category": "国外时政"
     },
     {
       "raw_hot": 142075,

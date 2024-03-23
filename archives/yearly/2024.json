@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1711157325737,
+  "endTime": 1711159345313,
   "band_list": [
     {
       "raw_hot": 18909527,
@@ -193,6 +193,14 @@
       "onboard_time": 1707815438,
       "rank": 1,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 9838554,
+      "num": 9838554,
+      "word": "俄罗斯已进入战争状态",
+      "onboard_time": 1711155619,
+      "rank": 10,
+      "category": "国外时政"
     },
     {
       "raw_hot": 9783018,
@@ -2393,14 +2401,6 @@
       "onboard_time": 1706624974,
       "rank": 23,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 2604785,
-      "num": 2604785,
-      "word": "林狗还是帅的",
-      "onboard_time": 1710767192,
-      "rank": 15,
-      "category": "剧集"
     }
   ],
   "hotgov_list": [
