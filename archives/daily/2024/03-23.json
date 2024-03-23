@@ -1,6 +1,6 @@
 {
   "startTime": 1711124556378,
-  "endTime": 1711175881406,
+  "endTime": 1711178212683,
   "band_list": [
     {
       "raw_hot": 10611140,
@@ -83,6 +83,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1364571,
+      "num": 1364571,
+      "word": "南航大学回应学生与教授发生关系",
+      "onboard_time": 1711176439,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1304224,
       "num": 1304224,
       "word": "凯特王妃宣布患癌视频录制于3天前",
@@ -128,6 +136,14 @@
       "word": "火烧云孕妇免排队被指慷他人之慨",
       "onboard_time": 1711124717,
       "rank": 38,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 999959,
+      "num": 999959,
+      "word": "莫斯科母婴室发现遇难者",
+      "onboard_time": 1711173379,
+      "rank": 14,
       "category": "社会新闻"
     },
     {
@@ -243,20 +259,20 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 682907,
-      "num": 386619,
-      "word": "莫斯科母婴室发现遇难者",
-      "onboard_time": 1711173379,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 658355,
       "num": 658355,
       "word": "俄罗斯",
       "onboard_time": 1711149615,
       "rank": 5,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 657787,
+      "num": 657787,
+      "word": "迪丽热巴宣传为地球献出一小时",
+      "onboard_time": 1711176499,
+      "rank": 6,
+      "category": "艺人"
     },
     {
       "raw_hot": 643025,
@@ -331,6 +347,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 524691,
+      "num": 524691,
+      "word": "鹿晗宝石老舅王勉被范志毅偷家",
+      "onboard_time": 1711173859,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 517519,
       "num": 393526,
       "word": "微信官方回应朋友圈横线问题",
@@ -385,14 +409,6 @@
       "onboard_time": 1711160181,
       "rank": 34,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 481965,
-      "num": 450406,
-      "word": "鹿晗宝石老舅王勉被范志毅偷家",
-      "onboard_time": 1711173859,
-      "rank": 15,
-      "category": "综艺"
     },
     {
       "raw_hot": 457449,
@@ -483,8 +499,8 @@
       "category": "情感"
     },
     {
-      "raw_hot": 386843,
-      "num": 386843,
+      "raw_hot": 399432,
+      "num": 399432,
       "word": "水哥 鬼才之眼",
       "onboard_time": 1711173678,
       "rank": 18,
@@ -497,6 +513,14 @@
       "onboard_time": 1711171879,
       "rank": 37,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 380029,
+      "num": 380029,
+      "word": "盒子里的猫",
+      "onboard_time": 1711176198,
+      "rank": 14,
+      "category": "综艺"
     },
     {
       "raw_hot": 379974,
@@ -707,6 +731,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 282426,
+      "num": 282426,
+      "word": "李白 大司命",
+      "onboard_time": 1711174636,
+      "rank": 38,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 279998,
       "num": 279998,
       "word": "富豪被1根鱼刺折磨瘦了130斤",
@@ -801,14 +833,6 @@
       "onboard_time": 1711116079,
       "rank": 15,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 249602,
-      "num": 249602,
-      "word": "李白 大司命",
-      "onboard_time": 1711174636,
-      "rank": 38,
-      "category": "游戏"
     },
     {
       "raw_hot": 248484,
@@ -907,6 +931,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 227050,
+      "num": 227050,
+      "word": "叶蓁蓁 22楼所有人的后盾",
+      "onboard_time": 1711177519,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 226940,
       "num": 226940,
       "word": "为什么辣条抓不住年轻人了",
@@ -923,6 +955,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 222805,
+      "num": 222805,
+      "word": "普京听取莫斯科恐袭调查进展报告",
+      "onboard_time": 1711177400,
+      "rank": 28,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 222114,
       "num": 222114,
       "word": "莫斯科遭恐怖袭击最新情况",
@@ -937,6 +977,14 @@
       "onboard_time": 1711121778,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 215755,
+      "num": 215755,
+      "word": "王俊凯浑身是胆",
+      "onboard_time": 1711177038,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 213907,
@@ -969,6 +1017,14 @@
       "onboard_time": 1711169420,
       "rank": 31,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 210177,
+      "num": 210177,
+      "word": "花少好友记嘉宾",
+      "onboard_time": 1711177698,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 209039,
@@ -1091,6 +1147,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 195539,
+      "num": 195539,
+      "word": "王楚钦退赛李元璋递补",
+      "onboard_time": 1711176679,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 195184,
       "num": 195184,
       "word": "何悯鸿 悬着的心终于死了",
@@ -1131,6 +1195,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 187486,
+      "num": 187486,
+      "word": "魏若来一秒800个假动作",
+      "onboard_time": 1711177038,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 186685,
       "num": 186685,
       "word": "与凤行嘘嘘被抓了",
@@ -1153,6 +1225,14 @@
       "onboard_time": 1711169361,
       "rank": 36,
       "category": "情感"
+    },
+    {
+      "raw_hot": 183289,
+      "num": 183289,
+      "word": "朱正廷长沙",
+      "onboard_time": 1711177819,
+      "rank": 35,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 182308,
@@ -1323,12 +1403,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 148417,
+      "num": 148417,
+      "word": "灿烂的她 哭得越大声爱得越深",
+      "onboard_time": 1711176800,
+      "rank": 44,
+      "category": "电影"
+    },
+    {
       "raw_hot": 145797,
       "num": 145797,
       "word": "大学生版与凤行何错之有",
       "onboard_time": 1711168402,
       "rank": 49,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 145785,
+      "num": 145785,
+      "word": "鹿晗鞋在这",
+      "onboard_time": 1711176139,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 145783,
@@ -1361,6 +1457,22 @@
       "onboard_time": 1711108458,
       "rank": 30,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 133406,
+      "num": 133406,
+      "word": "isis",
+      "onboard_time": 1711178057,
+      "rank": 48,
+      "category": "国外时政"
+    },
+    {
+      "raw_hot": 132394,
+      "num": 132394,
+      "word": "新版微信朋友圈都是短线",
+      "onboard_time": 1711178120,
+      "rank": 49,
+      "category": "互联网"
     },
     {
       "raw_hot": 132097,
