@@ -1,0 +1,410 @@
+{
+  "runTime": 1711265637497,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2445500,
+        "num": 2445500,
+        "word": "首个国产女性向3A游戏",
+        "onboard_time": 1711258939,
+        "rank": 0,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 1085799,
+        "num": 1085799,
+        "word": "姓李的人今天一定要拜老子",
+        "onboard_time": 1711260439,
+        "rank": 1,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 12819,
+        "num": 1078334,
+        "word": "随手一拍便是一整个春天",
+        "onboard_time": 1711251078,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1073411,
+        "num": 1073411,
+        "word": "赵奕欢回怼李菲儿",
+        "onboard_time": 1711254380,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 963667,
+        "num": 963667,
+        "word": "中国气象局发布大地磁暴预警",
+        "onboard_time": 1711261399,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 589191,
+        "num": 589191,
+        "word": "难哄官宣",
+        "onboard_time": 1711246398,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 545719,
+        "num": 545719,
+        "word": "明兰终究变成了红狼",
+        "onboard_time": 1711260740,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 490541,
+        "num": 490541,
+        "word": "Jessi认出了六年没见的粉丝",
+        "onboard_time": 1711261939,
+        "rank": 7,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 694728,
+        "num": 484722,
+        "word": "李菲儿扣了250分",
+        "onboard_time": 1711251260,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 444079,
+        "num": 444079,
+        "word": "莫斯科恐袭已致133死152伤",
+        "onboard_time": 1711258098,
+        "rank": 9,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 35130,
+        "num": 440954,
+        "word": "春耕春播春管新图景",
+        "onboard_time": 1711251198,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1179219,
+        "num": 440853,
+        "word": "台湾",
+        "onboard_time": 1711255638,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 438876,
+        "num": 438876,
+        "word": "台湾一男子持枪朝派出所门口扫射",
+        "onboard_time": 1711254919,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 394962,
+        "num": 394962,
+        "word": "中国各省第一大姓",
+        "onboard_time": 1711254019,
+        "rank": 13,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 366965,
+        "num": 366965,
+        "word": "王力宏听到前妻的反应",
+        "onboard_time": 1711249819,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 362130,
+        "num": 362130,
+        "word": "男子捡17岁女生手机归还反被讹200",
+        "onboard_time": 1711254499,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 343079,
+        "num": 343079,
+        "word": "赵本山沈腾北野武同框",
+        "onboard_time": 1711262300,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 319116,
+        "num": 319116,
+        "word": "俄罗斯男子赤手空拳打晕恐怖分子",
+        "onboard_time": 1711256479,
+        "rank": 17,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 301279,
+        "num": 301279,
+        "word": "赵露思曾黎素颜合照",
+        "onboard_time": 1711257080,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 280904,
+        "num": 280904,
+        "word": "白敬亭杀回现偶了",
+        "onboard_time": 1711254919,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 443225,
+        "num": 279925,
+        "word": "副教授26岁学生比自己还大",
+        "onboard_time": 1711261038,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 278219,
+        "num": 278219,
+        "word": "金晨一个睫毛夹用了17年",
+        "onboard_time": 1711255518,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 258202,
+        "num": 258202,
+        "word": "三年后才打开初恋送的礼物",
+        "onboard_time": 1711262179,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 248872,
+        "num": 248872,
+        "word": "林更新被问和赵丽颖拍戏时耳朵怎么红",
+        "onboard_time": 1711262238,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 243023,
+        "num": 243023,
+        "word": "海关查获200张Switch游戏卡",
+        "onboard_time": 1711264518,
+        "rank": 24,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 242512,
+        "num": 242512,
+        "word": "锦超白挨李菲儿一顿骂",
+        "onboard_time": 1711263619,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 227879,
+        "num": 227879,
+        "word": "丁俊晖打破10年不胜罗伯逊魔咒",
+        "onboard_time": 1711263619,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 219382,
+        "num": 219382,
+        "word": "这些蔬菜居然比牛奶还补钙",
+        "onboard_time": 1711263858,
+        "rank": 27,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 198120,
+        "num": 198120,
+        "word": "乌克兰全境响防空警报",
+        "onboard_time": 1711253479,
+        "rank": 28,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 188565,
+        "num": 188565,
+        "word": "承认父母不爱自己并不是很难",
+        "onboard_time": 1711261158,
+        "rank": 29,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 184474,
+        "num": 184474,
+        "word": "金善禹金发",
+        "onboard_time": 1711261399,
+        "rank": 30,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 181196,
+        "num": 181196,
+        "word": "我妈让我找对象借三万块给她",
+        "onboard_time": 1711265239,
+        "rank": 31,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 180717,
+        "num": 180717,
+        "word": "丁俊晖状态",
+        "onboard_time": 1711264999,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 179336,
+        "num": 179336,
+        "word": "邓超给女儿买礼物",
+        "onboard_time": 1711265239,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 176578,
+        "num": 176578,
+        "word": "花间令校园暴力",
+        "onboard_time": 1711258459,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 175713,
+        "num": 175713,
+        "word": "雷军回应小米SU7为何始终不公布价格",
+        "onboard_time": 1711256660,
+        "rank": 35,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 172550,
+        "num": 172550,
+        "word": "XYG 抽象",
+        "onboard_time": 1711263799,
+        "rank": 36,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 170270,
+        "num": 170270,
+        "word": "小林制药中国公司致歉",
+        "onboard_time": 1711253298,
+        "rank": 37,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 165188,
+        "num": 165188,
+        "word": "金秀贤ins评论区",
+        "onboard_time": 1711250838,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 160622,
+        "num": 160622,
+        "word": "李一桐 初恋感",
+        "onboard_time": 1711263979,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 157307,
+        "num": 157307,
+        "word": "蒲熠星读书会直播",
+        "onboard_time": 1711264699,
+        "rank": 40,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 151049,
+        "num": 151049,
+        "word": "P人整理桌子",
+        "onboard_time": 1711258818,
+        "rank": 41,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 147986,
+        "num": 147986,
+        "word": "鹿晗跳自己的歌输给陈赫",
+        "onboard_time": 1711256359,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 141209,
+        "num": 141209,
+        "word": "王俊凯被强迫摆拍",
+        "onboard_time": 1711254619,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 136400,
+        "num": 136400,
+        "word": "温以凡的人物底色",
+        "onboard_time": 1711263077,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 136194,
+        "num": 136194,
+        "word": "爱与不爱真的很明显",
+        "onboard_time": 1711260799,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 135636,
+        "num": 135636,
+        "word": "老子教你人生大智慧",
+        "onboard_time": 1711264639,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 133277,
+        "num": 133277,
+        "word": "张天爱腰臀比例",
+        "onboard_time": 1711257919,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 130305,
+        "num": 130305,
+        "word": "吴磊南宁",
+        "onboard_time": 1711265599,
+        "rank": 48,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 121803,
+        "num": 121803,
+        "word": "租下了连中介都嫌弃的房子",
+        "onboard_time": 1711255159,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#发展清洁生产加快实现绿色低碳发展#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1711210803824,
-  "endTime": 1711264512047,
+  "endTime": 1711265637497,
   "band_list": [
     {
       "raw_hot": 3435224,
@@ -11,8 +11,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 2325245,
-      "num": 2325245,
+      "raw_hot": 2445500,
+      "num": 2445500,
       "word": "首个国产女性向3A游戏",
       "onboard_time": 1711258939,
       "rank": 1,
@@ -89,6 +89,14 @@
       "onboard_time": 1711254019,
       "rank": 30,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 1085799,
+      "num": 1085799,
+      "word": "姓李的人今天一定要拜老子",
+      "onboard_time": 1711260439,
+      "rank": 24,
+      "category": "情感"
     },
     {
       "raw_hot": 1031227,
@@ -192,14 +200,6 @@
       "word": "你愿意把5年寿命给自家狗狗吗",
       "onboard_time": 1711243399,
       "rank": 16,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 754460,
-      "num": 754460,
-      "word": "姓李的人今天一定要拜老子",
-      "onboard_time": 1711260439,
-      "rank": 24,
       "category": "情感"
     },
     {
@@ -428,7 +428,7 @@
     },
     {
       "raw_hot": 450227,
-      "num": 259493,
+      "num": 279925,
       "word": "副教授26岁学生比自己还大",
       "onboard_time": 1711261038,
       "rank": 41,
@@ -587,6 +587,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 343079,
+      "num": 343079,
+      "word": "赵本山沈腾北野武同框",
+      "onboard_time": 1711262300,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 341015,
       "num": 341015,
       "word": "天水机场免费麻辣烫专线",
@@ -609,14 +617,6 @@
       "onboard_time": 1711247538,
       "rank": 31,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 317350,
-      "num": 317350,
-      "word": "赵本山沈腾北野武同框",
-      "onboard_time": 1711262300,
-      "rank": 17,
-      "category": "艺人"
     },
     {
       "raw_hot": 307358,
@@ -771,20 +771,20 @@
       "category": "数码"
     },
     {
+      "raw_hot": 258202,
+      "num": 258202,
+      "word": "三年后才打开初恋送的礼物",
+      "onboard_time": 1711262179,
+      "rank": 21,
+      "category": "情感"
+    },
+    {
       "raw_hot": 255252,
       "num": 255252,
       "word": "何杰打破全国马拉松纪录",
       "onboard_time": 1711243639,
       "rank": 26,
       "category": "运动健身"
-    },
-    {
-      "raw_hot": 254847,
-      "num": 244673,
-      "word": "三年后才打开初恋送的礼物",
-      "onboard_time": 1711262179,
-      "rank": 21,
-      "category": "情感"
     },
     {
       "raw_hot": 249688,
@@ -811,6 +811,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 248872,
+      "num": 248872,
+      "word": "林更新被问和赵丽颖拍戏时耳朵怎么红",
+      "onboard_time": 1711262238,
+      "rank": 22,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 248479,
       "num": 243580,
       "word": "纪凌尘emo了",
@@ -827,20 +835,28 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 243023,
+      "num": 243023,
+      "word": "海关查获200张Switch游戏卡",
+      "onboard_time": 1711264518,
+      "rank": 24,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 242512,
+      "num": 242512,
+      "word": "锦超白挨李菲儿一顿骂",
+      "onboard_time": 1711263619,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 241647,
       "num": 241647,
       "word": "五哈",
       "onboard_time": 1711252340,
       "rank": 18,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 235987,
-      "num": 235987,
-      "word": "林更新被问和赵丽颖拍戏时耳朵怎么红",
-      "onboard_time": 1711262238,
-      "rank": 22,
-      "category": "剧集"
     },
     {
       "raw_hot": 235813,
@@ -899,6 +915,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 227879,
+      "num": 227879,
+      "word": "丁俊晖打破10年不胜罗伯逊魔咒",
+      "onboard_time": 1711263619,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 223317,
       "num": 223317,
       "word": "吃出这些味道说明你过敏了",
@@ -913,6 +937,14 @@
       "onboard_time": 1711257919,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 219382,
+      "num": 219382,
+      "word": "这些蔬菜居然比牛奶还补钙",
+      "onboard_time": 1711263858,
+      "rank": 35,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 219109,
@@ -931,28 +963,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 217606,
-      "num": 217606,
-      "word": "锦超白挨李菲儿一顿骂",
-      "onboard_time": 1711263619,
-      "rank": 23,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 213717,
       "num": 213717,
       "word": "邓超说孙俪真过分",
       "onboard_time": 1711246337,
       "rank": 29,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 211948,
-      "num": 196038,
-      "word": "丁俊晖打破10年不胜罗伯逊魔咒",
-      "onboard_time": 1711263619,
-      "rank": 30,
-      "category": "体育"
     },
     {
       "raw_hot": 208813,
@@ -1099,20 +1115,36 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 182629,
-      "num": 182629,
-      "word": "这些蔬菜居然比牛奶还补钙",
-      "onboard_time": 1711263858,
-      "rank": 35,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 182596,
       "num": 182596,
       "word": "爱与不爱真的很明显",
       "onboard_time": 1711260799,
       "rank": 42,
       "category": "情感"
+    },
+    {
+      "raw_hot": 181196,
+      "num": 181196,
+      "word": "我妈让我找对象借三万块给她",
+      "onboard_time": 1711265239,
+      "rank": 31,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 180717,
+      "num": 180717,
+      "word": "丁俊晖状态",
+      "onboard_time": 1711264999,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 179336,
+      "num": 179336,
+      "word": "邓超给女儿买礼物",
+      "onboard_time": 1711265239,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 177822,
@@ -1259,8 +1291,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 160208,
-      "num": 160208,
+      "raw_hot": 160622,
+      "num": 160622,
       "word": "李一桐 初恋感",
       "onboard_time": 1711263979,
       "rank": 36,
@@ -1281,6 +1313,14 @@
       "onboard_time": 1711208420,
       "rank": 40,
       "category": "演出"
+    },
+    {
+      "raw_hot": 157307,
+      "num": 157307,
+      "word": "蒲熠星读书会直播",
+      "onboard_time": 1711264699,
+      "rank": 40,
+      "category": "读书作家"
     },
     {
       "raw_hot": 155266,
@@ -1419,12 +1459,28 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 135636,
+      "num": 135636,
+      "word": "老子教你人生大智慧",
+      "onboard_time": 1711264639,
+      "rank": 46,
+      "category": "情感"
+    },
+    {
       "raw_hot": 131419,
       "num": 131419,
       "word": "大屏上的张杰",
       "onboard_time": 1711250119,
       "rank": 41,
       "category": "演出"
+    },
+    {
+      "raw_hot": 130305,
+      "num": 130305,
+      "word": "吴磊南宁",
+      "onboard_time": 1711265599,
+      "rank": 48,
+      "category": "电影"
     },
     {
       "raw_hot": 128295,
@@ -1756,7 +1812,7 @@
     },
     {
       "raw_hot": 18051,
-      "num": 461171,
+      "num": 1078334,
       "word": "随手一拍便是一整个春天",
       "onboard_time": 1711251078,
       "rank": 10,
