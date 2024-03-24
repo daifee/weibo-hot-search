@@ -1,6 +1,6 @@
 {
   "startTime": 1711210803824,
-  "endTime": 1711251266890,
+  "endTime": 1711254133033,
   "band_list": [
     {
       "raw_hot": 3435224,
@@ -19,6 +19,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 1612721,
+      "num": 1612721,
+      "word": "李菲儿扣了250分",
+      "onboard_time": 1711251260,
+      "rank": 1,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1338266,
       "num": 1338266,
       "word": "涉黄AI换脸案有人用暗恋女生换脸",
@@ -35,8 +43,8 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 1000137,
-      "num": 1000137,
+      "raw_hot": 1031227,
+      "num": 1031227,
       "word": "王力宏听到前妻的反应",
       "onboard_time": 1711249819,
       "rank": 17,
@@ -163,6 +171,22 @@
       "category": "演出"
     },
     {
+      "raw_hot": 565982,
+      "num": 327913,
+      "word": "普京承诺将惩罚莫斯科恐袭幕后黑手",
+      "onboard_time": 1711250599,
+      "rank": 27,
+      "category": "国外时政"
+    },
+    {
+      "raw_hot": 558933,
+      "num": 317178,
+      "word": "金秀贤ins评论区",
+      "onboard_time": 1711250838,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 538379,
       "num": 538379,
       "word": "泰国偶遇娜扎",
@@ -219,6 +243,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 477428,
+      "num": 477428,
+      "word": "乌克兰全境响防空警报",
+      "onboard_time": 1711253479,
+      "rank": 5,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 469240,
       "num": 469240,
       "word": "难哄要官宣了",
@@ -273,6 +305,14 @@
       "onboard_time": 1711201761,
       "rank": 12,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 425347,
+      "num": 312923,
+      "word": "95后小伙健身10年增重至200斤",
+      "onboard_time": 1711250660,
+      "rank": 32,
+      "category": "运动健身"
     },
     {
       "raw_hot": 424619,
@@ -353,6 +393,14 @@
       "onboard_time": 1711206261,
       "rank": 20,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 354729,
+      "num": 293183,
+      "word": "小林制药中国公司致歉",
+      "onboard_time": 1711253298,
+      "rank": 14,
+      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 350519,
@@ -451,6 +499,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 274857,
+      "num": 173038,
+      "word": "中国各省第一大姓",
+      "onboard_time": 1711254019,
+      "rank": 30,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 271094,
       "num": 271094,
       "word": "林依晨新版你",
@@ -491,12 +547,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 239569,
-      "num": 239569,
-      "word": "金秀贤ins评论区",
-      "onboard_time": 1711250838,
-      "rank": 23,
-      "category": "艺人"
+      "raw_hot": 241647,
+      "num": 241647,
+      "word": "五哈",
+      "onboard_time": 1711252340,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 236320,
+      "num": 230809,
+      "word": "如果让你嫁给一个古代人物",
+      "onboard_time": 1711250779,
+      "rank": 35,
+      "category": "情感"
     },
     {
       "raw_hot": 235813,
@@ -563,6 +627,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 221543,
+      "num": 221543,
+      "word": "金秀贤公司官方声明",
+      "onboard_time": 1711253538,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 219109,
       "num": 219109,
       "word": "学校里男女生断崖式身高差",
@@ -585,14 +657,6 @@
       "onboard_time": 1711246337,
       "rank": 29,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 211903,
-      "num": 211903,
-      "word": "普京承诺将惩罚莫斯科恐袭幕后黑手",
-      "onboard_time": 1711250599,
-      "rank": 27,
-      "category": "国外时政"
     },
     {
       "raw_hot": 208813,
@@ -651,6 +715,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 190576,
+      "num": 190576,
+      "word": "德善身上发光的地方",
+      "onboard_time": 1711252578,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 186159,
       "num": 186159,
       "word": "南航大学回应学生与教授发生关系",
@@ -675,14 +747,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 177590,
-      "num": 177590,
-      "word": "95后小伙健身10年增重至200斤",
-      "onboard_time": 1711250660,
-      "rank": 32,
-      "category": "运动健身"
-    },
-    {
       "raw_hot": 177213,
       "num": 177213,
       "word": "如何区分自己长相是普通还是丑",
@@ -691,20 +755,20 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 173653,
+      "num": 173653,
+      "word": "女子照徐冬冬样子整容",
+      "onboard_time": 1711253838,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 173520,
       "num": 173520,
       "word": "喜茶回应周边被倒卖",
       "onboard_time": 1711206920,
       "rank": 34,
       "category": "美食"
-    },
-    {
-      "raw_hot": 173012,
-      "num": 173012,
-      "word": "如果让你嫁给一个古代人物",
-      "onboard_time": 1711250779,
-      "rank": 35,
-      "category": "情感"
     },
     {
       "raw_hot": 171159,
@@ -737,6 +801,14 @@
       "onboard_time": 1711204882,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 169039,
+      "num": 169039,
+      "word": "天水机场免费麻辣烫专线",
+      "onboard_time": 1711253720,
+      "rank": 32,
+      "category": "美食"
     },
     {
       "raw_hot": 168083,
@@ -819,12 +891,36 @@
       "category": "演出"
     },
     {
+      "raw_hot": 153075,
+      "num": 153075,
+      "word": "赵丽颖吐槽林更新闷骚",
+      "onboard_time": 1711251858,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 152418,
+      "num": 152418,
+      "word": "执笔",
+      "onboard_time": 1711252939,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 152057,
       "num": 152057,
       "word": "灿烂的她 含爱量比含泪量多",
       "onboard_time": 1711250299,
       "rank": 39,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 149635,
+      "num": 149635,
+      "word": "跟父母谎报价格最狠的一次",
+      "onboard_time": 1711250299,
+      "rank": 41,
+      "category": "情感"
     },
     {
       "raw_hot": 148818,
@@ -841,6 +937,14 @@
       "onboard_time": 1711199300,
       "rank": 43,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 144615,
+      "num": 144615,
+      "word": "Fly登场KPL七周年",
+      "onboard_time": 1711253180,
+      "rank": 39,
+      "category": "电竞"
     },
     {
       "raw_hot": 143103,
@@ -875,14 +979,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 138512,
-      "num": 138512,
-      "word": "跟父母谎报价格最狠的一次",
-      "onboard_time": 1711250299,
-      "rank": 41,
-      "category": "情感"
-    },
-    {
       "raw_hot": 138211,
       "num": 138211,
       "word": "上海花店卖油菜花30元10支",
@@ -897,6 +993,14 @@
       "onboard_time": 1711195220,
       "rank": 45,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 136393,
+      "num": 136393,
+      "word": "Doinb已停播四个月",
+      "onboard_time": 1711251379,
+      "rank": 40,
+      "category": "电竞"
     },
     {
       "raw_hot": 131419,
@@ -1075,6 +1179,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 58468,
+      "num": 1290192,
+      "word": "春耕春播春管新图景",
+      "onboard_time": 1711251198,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 50213,
       "num": 50213,
       "word": "英格兰0比1巴西",
@@ -1161,14 +1273,6 @@
       "onboard_time": 1711226052,
       "rank": 49,
       "category": "美食"
-    },
-    {
-      "raw_hot": 7106,
-      "num": 747840,
-      "word": "春耕春播春管新图景",
-      "onboard_time": 1711251198,
-      "rank": 2,
-      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
