@@ -1,0 +1,410 @@
+{
+  "runTime": 1711290832197,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1489849,
+        "num": 1489849,
+        "word": "胖东来回应985女生应聘没进面试",
+        "onboard_time": 1711278739,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1120389,
+        "num": 1120389,
+        "word": "朝鲜祖国统一民主主义战线中央委员会解散",
+        "onboard_time": 1711285580,
+        "rank": 1,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 75175,
+        "num": 1103027,
+        "word": "花花盛开的中国春意拉满",
+        "onboard_time": 1711282880,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1096151,
+        "num": 1096151,
+        "word": "眼泪女王 家被偷没了",
+        "onboard_time": 1711289599,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1004002,
+        "num": 1004002,
+        "word": "小日子 朱大力去世",
+        "onboard_time": 1711289599,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 771052,
+        "num": 771052,
+        "word": "俄恐袭现场发现137具遗体",
+        "onboard_time": 1711289900,
+        "rank": 5,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 688450,
+        "num": 688450,
+        "word": "眼泪女王 离婚协议书",
+        "onboard_time": 1711289301,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 637962,
+        "num": 637962,
+        "word": "纪凌尘 小时候发过高烧的感觉",
+        "onboard_time": 1711281561,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 676258,
+        "num": 636150,
+        "word": "眼泪女王",
+        "onboard_time": 1711286480,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 615005,
+        "num": 615005,
+        "word": "月光实名制吃饭",
+        "onboard_time": 1711287980,
+        "rank": 9,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 540664,
+        "num": 540664,
+        "word": "iOS18将采用新的主屏幕",
+        "onboard_time": 1711287380,
+        "rank": 10,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 538171,
+        "num": 538171,
+        "word": "王诗龄砂锅铺满了黑松露",
+        "onboard_time": 1711267638,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 515976,
+        "num": 515976,
+        "word": "怀孕会加速衰老约增加2岁",
+        "onboard_time": 1711287080,
+        "rank": 12,
+        "category": "母婴育儿"
+      },
+      {
+        "raw_hot": 507057,
+        "num": 507057,
+        "word": "江西省级原则上不再举办中等职业学校",
+        "onboard_time": 1711288100,
+        "rank": 13,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 500188,
+        "num": 500188,
+        "word": "地磁暴",
+        "onboard_time": 1711288520,
+        "rank": 14,
+        "category": "自然"
+      },
+      {
+        "raw_hot": 486776,
+        "num": 486776,
+        "word": "林更新是怎么做到不笑场的",
+        "onboard_time": 1711286240,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 400438,
+        "num": 400438,
+        "word": "什么是友情断层",
+        "onboard_time": 1711278380,
+        "rank": 16,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 399766,
+        "num": 399766,
+        "word": "AG终结WB八连胜",
+        "onboard_time": 1711288880,
+        "rank": 17,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 390697,
+        "num": 390697,
+        "word": "俄恐袭遇难者遗体辨认工作开始",
+        "onboard_time": 1711288280,
+        "rank": 18,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 384209,
+        "num": 384209,
+        "word": "俄媒播出普京获悉音乐厅恐袭后画面",
+        "onboard_time": 1711282880,
+        "rank": 19,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 1452210,
+        "num": 373182,
+        "word": "女子实名举报年幼时遭亲生父亲多次强奸",
+        "onboard_time": 1711283659,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 469273,
+        "num": 368596,
+        "word": "9.9元咖啡要消失了吗",
+        "onboard_time": 1711288340,
+        "rank": 21,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 432215,
+        "num": 364007,
+        "word": "港媒镜头下的赵露思生图",
+        "onboard_time": 1711267339,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 339913,
+        "num": 339913,
+        "word": "台湾",
+        "onboard_time": 1711255638,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 284396,
+        "num": 284396,
+        "word": "眼泪女王第六集",
+        "onboard_time": 1711289421,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 280187,
+        "num": 280187,
+        "word": "小日子",
+        "onboard_time": 1711284380,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 274129,
+        "num": 274129,
+        "word": "李宇春别感冒了",
+        "onboard_time": 1711289720,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 273557,
+        "num": 273557,
+        "word": "我爸看到了我的微信余额",
+        "onboard_time": 1711290621,
+        "rank": 27,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 263701,
+        "num": 263701,
+        "word": "杨鑫来吃",
+        "onboard_time": 1711289180,
+        "rank": 28,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 250566,
+        "num": 250566,
+        "word": "我是学校里唯一一条蛆",
+        "onboard_time": 1711271298,
+        "rank": 29,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 244040,
+        "num": 244040,
+        "word": "裴珠泫与中国粉丝双向奔赴",
+        "onboard_time": 1711284619,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 235812,
+        "num": 235812,
+        "word": "杨和苏鼻梁",
+        "onboard_time": 1711283600,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 222851,
+        "num": 222851,
+        "word": "张杰他懂他真的懂",
+        "onboard_time": 1711280540,
+        "rank": 32,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 222049,
+        "num": 222049,
+        "word": "莫斯科恐袭嫌疑人之一曾在理发店工作",
+        "onboard_time": 1711288340,
+        "rank": 33,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 219178,
+        "num": 219178,
+        "word": "女生的裤子可以多到什么程度",
+        "onboard_time": 1711266558,
+        "rank": 34,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 218890,
+        "num": 218890,
+        "word": "特鲁姆普10比4丁俊晖",
+        "onboard_time": 1711286240,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 211508,
+        "num": 211508,
+        "word": "追风者破2了",
+        "onboard_time": 1711285279,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 205042,
+        "num": 205042,
+        "word": "女子卖藕收到中国儿童银行5元钞",
+        "onboard_time": 1711284141,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 197239,
+        "num": 197239,
+        "word": "开车为什么要伸一只手出来",
+        "onboard_time": 1711290561,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 191206,
+        "num": 191206,
+        "word": "4AM时隔1337天再夺周冠",
+        "onboard_time": 1711290561,
+        "rank": 39,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 189671,
+        "num": 189671,
+        "word": "俄恐袭现场发现3名儿童遗体",
+        "onboard_time": 1711290140,
+        "rank": 40,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 181347,
+        "num": 181347,
+        "word": "CBA",
+        "onboard_time": 1711289421,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 180668,
+        "num": 180668,
+        "word": "AG对战WB",
+        "onboard_time": 1711283840,
+        "rank": 42,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 170958,
+        "num": 170958,
+        "word": "被辞退的实习生在大群发的消息",
+        "onboard_time": 1711272679,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 164039,
+        "num": 164039,
+        "word": "首个国产女性向3A游戏",
+        "onboard_time": 1711258939,
+        "rank": 44,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 159699,
+        "num": 159699,
+        "word": "怀孕7个月后仍安排上班12小时合理吗",
+        "onboard_time": 1711273519,
+        "rank": 45,
+        "category": "母婴育儿"
+      },
+      {
+        "raw_hot": 155715,
+        "num": 155715,
+        "word": "俄对乌发动无人机和导弹混合袭击",
+        "onboard_time": 1711278080,
+        "rank": 46,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 152630,
+        "num": 152630,
+        "word": "鞠婧祎夸刘学义吻技",
+        "onboard_time": 1711286060,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 151176,
+        "num": 151176,
+        "word": "陈丽君浪姐全妆路透",
+        "onboard_time": 1711281081,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 151127,
+        "num": 151127,
+        "word": "AG零封WB",
+        "onboard_time": 1711288880,
+        "rank": 49,
+        "category": "电竞"
+      }
+    ],
+    "hotgov": {
+      "word": "#发展清洁生产加快实现绿色低碳发展#"
+    }
+  }
+}

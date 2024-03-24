@@ -1,6 +1,6 @@
 {
   "startTime": 1709223640991,
-  "endTime": 1711289695040,
+  "endTime": 1711290832197,
   "band_list": [
     {
       "raw_hot": 12728050,
@@ -4891,6 +4891,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1096151,
+      "num": 1096151,
+      "word": "眼泪女王 家被偷没了",
+      "onboard_time": 1711289599,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1095567,
       "num": 1095567,
       "word": "逐渐消失的网红小吃",
@@ -5649,6 +5657,14 @@
       "onboard_time": 1711253479,
       "rank": 5,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 1004002,
+      "num": 1004002,
+      "word": "小日子 朱大力去世",
+      "onboard_time": 1711289599,
+      "rank": 44,
+      "category": "剧集"
     },
     {
       "raw_hot": 1002908,
@@ -8435,6 +8451,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 771052,
+      "num": 771052,
+      "word": "俄恐袭现场发现137具遗体",
+      "onboard_time": 1711289900,
+      "rank": 5,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 770630,
       "num": 770630,
       "word": "你愿意把5年寿命给自家狗狗吗",
@@ -10177,6 +10201,14 @@
       "onboard_time": 1710215251,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 688450,
+      "num": 688450,
+      "word": "眼泪女王 离婚协议书",
+      "onboard_time": 1711289301,
+      "rank": 29,
+      "category": "剧集"
     },
     {
       "raw_hot": 687474,
@@ -15036,7 +15068,7 @@
     },
     {
       "raw_hot": 519028,
-      "num": 317251,
+      "num": 515976,
       "word": "怀孕会加速衰老约增加2岁",
       "onboard_time": 1711287080,
       "rank": 26,
@@ -15451,6 +15483,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 507057,
+      "num": 507057,
+      "word": "江西省级原则上不再举办中等职业学校",
+      "onboard_time": 1711288100,
+      "rank": 12,
+      "category": "教育"
+    },
+    {
       "raw_hot": 507008,
       "num": 507008,
       "word": "魏大勋 越考古越心软",
@@ -15705,6 +15745,14 @@
       "onboard_time": 1711157720,
       "rank": 16,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 500188,
+      "num": 500188,
+      "word": "地磁暴",
+      "onboard_time": 1711288520,
+      "rank": 25,
+      "category": "自然"
     },
     {
       "raw_hot": 500018,
@@ -16283,6 +16331,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 486776,
+      "num": 486776,
+      "word": "林更新是怎么做到不笑场的",
+      "onboard_time": 1711286240,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 486651,
       "num": 486651,
       "word": "王楚钦vsF勒布伦",
@@ -16585,14 +16641,6 @@
       "onboard_time": 1709939900,
       "rank": 48,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 481729,
-      "num": 481729,
-      "word": "林更新是怎么做到不笑场的",
-      "onboard_time": 1711286240,
-      "rank": 30,
-      "category": "剧集"
     },
     {
       "raw_hot": 481385,
@@ -17057,6 +17105,14 @@
       "onboard_time": 1709569885,
       "rank": 27,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 469273,
+      "num": 368596,
+      "word": "9.9元咖啡要消失了吗",
+      "onboard_time": 1711288340,
+      "rank": 22,
+      "category": "美食"
     },
     {
       "raw_hot": 469139,
@@ -19979,14 +20035,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 405245,
-      "num": 405245,
-      "word": "江西省级原则上不再举办中等职业学校",
-      "onboard_time": 1711288100,
-      "rank": 12,
-      "category": "教育"
-    },
-    {
       "raw_hot": 404806,
       "num": 404806,
       "word": "Jennie机场",
@@ -20025,14 +20073,6 @@
       "onboard_time": 1709458410,
       "rank": 28,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 404088,
-      "num": 317053,
-      "word": "9.9元咖啡要消失了吗",
-      "onboard_time": 1711288340,
-      "rank": 22,
-      "category": "美食"
     },
     {
       "raw_hot": 403933,
@@ -20201,6 +20241,14 @@
       "onboard_time": 1709277453,
       "rank": 12,
       "category": "电影"
+    },
+    {
+      "raw_hot": 400438,
+      "num": 400438,
+      "word": "什么是友情断层",
+      "onboard_time": 1711278380,
+      "rank": 42,
+      "category": "情感"
     },
     {
       "raw_hot": 400372,
@@ -20611,6 +20659,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 390697,
+      "num": 390697,
+      "word": "俄恐袭遇难者遗体辨认工作开始",
+      "onboard_time": 1711288280,
+      "rank": 18,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 390462,
       "num": 390462,
       "word": "韩孝周小栗旬将合作",
@@ -20817,14 +20873,6 @@
       "onboard_time": 1709294912,
       "rank": 35,
       "category": "教育"
-    },
-    {
-      "raw_hot": 386907,
-      "num": 386907,
-      "word": "什么是友情断层",
-      "onboard_time": 1711278380,
-      "rank": 42,
-      "category": "情感"
     },
     {
       "raw_hot": 386878,
@@ -23089,14 +23137,6 @@
       "onboard_time": 1710377372,
       "rank": 23,
       "category": "情感"
-    },
-    {
-      "raw_hot": 346002,
-      "num": 346002,
-      "word": "俄恐袭遇难者遗体辨认工作开始",
-      "onboard_time": 1711288280,
-      "rank": 18,
-      "category": "国外时政"
     },
     {
       "raw_hot": 345793,
@@ -27531,6 +27571,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 284396,
+      "num": 284396,
+      "word": "眼泪女王第六集",
+      "onboard_time": 1711289421,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 284395,
       "num": 284395,
       "word": "淀门永存",
@@ -28131,14 +28179,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 277340,
-      "num": 277340,
-      "word": "地磁暴",
-      "onboard_time": 1711288520,
-      "rank": 25,
-      "category": "自然"
-    },
-    {
       "raw_hot": 277091,
       "num": 277091,
       "word": "张栋梁被反向爆改",
@@ -28419,6 +28459,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 274129,
+      "num": 274129,
+      "word": "李宇春别感冒了",
+      "onboard_time": 1711289720,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 274091,
       "num": 251961,
       "word": "下班后邻居叫我煮饭不要这么香",
@@ -28473,6 +28521,14 @@
       "onboard_time": 1711085062,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 273557,
+      "num": 273557,
+      "word": "我爸看到了我的微信余额",
+      "onboard_time": 1711290621,
+      "rank": 27,
+      "category": "幽默"
     },
     {
       "raw_hot": 273288,
@@ -29425,6 +29481,14 @@
       "onboard_time": 1711089500,
       "rank": 21,
       "category": "美食,幽默"
+    },
+    {
+      "raw_hot": 263701,
+      "num": 263701,
+      "word": "杨鑫来吃",
+      "onboard_time": 1711289180,
+      "rank": 34,
+      "category": "电竞"
     },
     {
       "raw_hot": 263683,
@@ -30937,14 +31001,6 @@
       "onboard_time": 1709964572,
       "rank": 25,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 248657,
-      "num": 248657,
-      "word": "眼泪女王 离婚协议书",
-      "onboard_time": 1711289301,
-      "rank": 29,
-      "category": "剧集"
     },
     {
       "raw_hot": 248652,
@@ -32561,14 +32617,6 @@
       "onboard_time": 1710943538,
       "rank": 31,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 236413,
-      "num": 236413,
-      "word": "眼泪女王第六集",
-      "onboard_time": 1711289421,
-      "rank": 32,
-      "category": "剧集"
     },
     {
       "raw_hot": 236300,
@@ -34209,14 +34257,6 @@
       "onboard_time": 1710210329,
       "rank": 30,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 224111,
-      "num": 224111,
-      "word": "杨鑫来吃",
-      "onboard_time": 1711289180,
-      "rank": 34,
-      "category": "电竞"
     },
     {
       "raw_hot": 224079,
@@ -36721,14 +36761,6 @@
       "onboard_time": 1710130233,
       "rank": 37,
       "category": "运动健身"
-    },
-    {
-      "raw_hot": 210714,
-      "num": 210714,
-      "word": "眼泪女王 家被偷没了",
-      "onboard_time": 1711289599,
-      "rank": 36,
-      "category": "剧集"
     },
     {
       "raw_hot": 210557,
@@ -39995,6 +40027,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 197239,
+      "num": 197239,
+      "word": "开车为什么要伸一只手出来",
+      "onboard_time": 1711290561,
+      "rank": 38,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 197233,
       "num": 197233,
       "word": "爱马仕工作人员否认配货",
@@ -41683,6 +41723,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 191206,
+      "num": 191206,
+      "word": "4AM时隔1337天再夺周冠",
+      "onboard_time": 1711290561,
+      "rank": 39,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 191202,
       "num": 191202,
       "word": "魏若来穷小子",
@@ -42121,6 +42169,14 @@
       "onboard_time": 1710941378,
       "rank": 42,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 189671,
+      "num": 189671,
+      "word": "俄恐袭现场发现3名儿童遗体",
+      "onboard_time": 1711290140,
+      "rank": 40,
+      "category": "国外时政"
     },
     {
       "raw_hot": 189647,
@@ -45889,14 +45945,6 @@
       "onboard_time": 1709840235,
       "rank": 31,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 173638,
-      "num": 173638,
-      "word": "小日子 朱大力去世",
-      "onboard_time": 1711289599,
-      "rank": 44,
-      "category": "剧集"
     },
     {
       "raw_hot": 173636,
