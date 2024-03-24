@@ -1,0 +1,410 @@
+{
+  "runTime": 1711289695040,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1571731,
+        "num": 1571731,
+        "word": "胖东来回应985女生应聘没进面试",
+        "onboard_time": 1711278739,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1283182,
+        "num": 1283182,
+        "word": "朝鲜祖国统一民主主义战线中央委员会解散",
+        "onboard_time": 1711285580,
+        "rank": 1,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 77970,
+        "num": 978402,
+        "word": "花花盛开的中国春意拉满",
+        "onboard_time": 1711282880,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 805171,
+        "num": 805171,
+        "word": "月光实名制吃饭",
+        "onboard_time": 1711287980,
+        "rank": 3,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 676807,
+        "num": 676807,
+        "word": "纪凌尘 小时候发过高烧的感觉",
+        "onboard_time": 1711281561,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 638978,
+        "num": 638978,
+        "word": "眼泪女王",
+        "onboard_time": 1711286480,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 614764,
+        "num": 614764,
+        "word": "AG终结WB八连胜",
+        "onboard_time": 1711288880,
+        "rank": 6,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 576089,
+        "num": 576089,
+        "word": "iOS18将采用新的主屏幕",
+        "onboard_time": 1711287380,
+        "rank": 7,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 497632,
+        "num": 497632,
+        "word": "俄媒播出普京获悉音乐厅恐袭后画面",
+        "onboard_time": 1711282880,
+        "rank": 8,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 481729,
+        "num": 481729,
+        "word": "林更新是怎么做到不笑场的",
+        "onboard_time": 1711286240,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 477361,
+        "num": 477361,
+        "word": "王诗龄砂锅铺满了黑松露",
+        "onboard_time": 1711267638,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 423026,
+        "num": 423026,
+        "word": "小日子",
+        "onboard_time": 1711284380,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 405245,
+        "num": 405245,
+        "word": "江西省级原则上不再举办中等职业学校",
+        "onboard_time": 1711288100,
+        "rank": 12,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 372156,
+        "num": 372156,
+        "word": "什么是友情断层",
+        "onboard_time": 1711278380,
+        "rank": 13,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 1746398,
+        "num": 368300,
+        "word": "女子实名举报年幼时遭亲生父亲多次强奸",
+        "onboard_time": 1711283659,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 361460,
+        "num": 361460,
+        "word": "裴珠泫与中国粉丝双向奔赴",
+        "onboard_time": 1711284619,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 356845,
+        "num": 356845,
+        "word": "我是学校里唯一一条蛆",
+        "onboard_time": 1711271298,
+        "rank": 16,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 354718,
+        "num": 354718,
+        "word": "特鲁姆普10比4丁俊晖",
+        "onboard_time": 1711286240,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 346002,
+        "num": 346002,
+        "word": "俄恐袭遇难者遗体辨认工作开始",
+        "onboard_time": 1711288280,
+        "rank": 18,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 317443,
+        "num": 317443,
+        "word": "台湾",
+        "onboard_time": 1711255638,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 519028,
+        "num": 317251,
+        "word": "怀孕会加速衰老约增加2岁",
+        "onboard_time": 1711287080,
+        "rank": 20,
+        "category": "母婴育儿"
+      },
+      {
+        "raw_hot": 452462,
+        "num": 317152,
+        "word": "港媒镜头下的赵露思生图",
+        "onboard_time": 1711267339,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 404088,
+        "num": 317053,
+        "word": "9.9元咖啡要消失了吗",
+        "onboard_time": 1711288340,
+        "rank": 22,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 316942,
+        "num": 316942,
+        "word": "杨和苏鼻梁",
+        "onboard_time": 1711283600,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 306399,
+        "num": 306399,
+        "word": "AG对战WB",
+        "onboard_time": 1711283840,
+        "rank": 24,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 277340,
+        "num": 277340,
+        "word": "地磁暴",
+        "onboard_time": 1711288520,
+        "rank": 25,
+        "category": "自然"
+      },
+      {
+        "raw_hot": 269440,
+        "num": 269440,
+        "word": "追风者破2了",
+        "onboard_time": 1711285279,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 263049,
+        "num": 263049,
+        "word": "张杰他懂他真的懂",
+        "onboard_time": 1711280540,
+        "rank": 27,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 254289,
+        "num": 254289,
+        "word": "女子卖藕收到中国儿童银行5元钞",
+        "onboard_time": 1711284141,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 248657,
+        "num": 248657,
+        "word": "眼泪女王 离婚协议书",
+        "onboard_time": 1711289301,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 248303,
+        "num": 248303,
+        "word": "莫斯科恐袭嫌疑人之一曾在理发店工作",
+        "onboard_time": 1711288340,
+        "rank": 30,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 239015,
+        "num": 239015,
+        "word": "AG零封WB",
+        "onboard_time": 1711288880,
+        "rank": 31,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 236413,
+        "num": 236413,
+        "word": "眼泪女王第六集",
+        "onboard_time": 1711289421,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 227762,
+        "num": 227762,
+        "word": "女生的裤子可以多到什么程度",
+        "onboard_time": 1711266558,
+        "rank": 33,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 224111,
+        "num": 224111,
+        "word": "杨鑫来吃",
+        "onboard_time": 1711289180,
+        "rank": 34,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 220788,
+        "num": 220788,
+        "word": "首个国产女性向3A游戏",
+        "onboard_time": 1711258939,
+        "rank": 35,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 210714,
+        "num": 210714,
+        "word": "眼泪女王 家被偷没了",
+        "onboard_time": 1711289599,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 204839,
+        "num": 204839,
+        "word": "被辞退的实习生在大群发的消息",
+        "onboard_time": 1711272679,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 194090,
+        "num": 194090,
+        "word": "CBA",
+        "onboard_time": 1711289421,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 191033,
+        "num": 191033,
+        "word": "怀孕7个月后仍安排上班12小时合理吗",
+        "onboard_time": 1711273519,
+        "rank": 39,
+        "category": "母婴育儿"
+      },
+      {
+        "raw_hot": 187479,
+        "num": 187479,
+        "word": "做美甲游离线真的会变长",
+        "onboard_time": 1711276039,
+        "rank": 40,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 182464,
+        "num": 182464,
+        "word": "强忍泪水等于慢性自杀",
+        "onboard_time": 1711285820,
+        "rank": 41,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 180147,
+        "num": 180147,
+        "word": "俄对乌发动无人机和导弹混合袭击",
+        "onboard_time": 1711278080,
+        "rank": 42,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 178484,
+        "num": 178484,
+        "word": "鞠婧祎夸刘学义吻技",
+        "onboard_time": 1711286060,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 173638,
+        "num": 173638,
+        "word": "小日子 朱大力去世",
+        "onboard_time": 1711289599,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 169847,
+        "num": 169847,
+        "word": "追风者",
+        "onboard_time": 1711287500,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 159866,
+        "num": 159866,
+        "word": "陈丽君浪姐全妆路透",
+        "onboard_time": 1711281081,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 150624,
+        "num": 150624,
+        "word": "行止背后抱沈璃",
+        "onboard_time": 1711289120,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 145248,
+        "num": 145248,
+        "word": "赵奕欢回怼李菲儿",
+        "onboard_time": 1711254380,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 143026,
+        "num": 143026,
+        "word": "狼人杀为啥没人玩了",
+        "onboard_time": 1711277360,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#循着总书记关切看京津冀交通陆海空之变#"
+    }
+  }
+}

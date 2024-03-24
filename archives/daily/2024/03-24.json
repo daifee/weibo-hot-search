@@ -1,6 +1,6 @@
 {
   "startTime": 1711210803824,
-  "endTime": 1711287307475,
+  "endTime": 1711289695040,
   "band_list": [
     {
       "raw_hot": 3435224,
@@ -51,20 +51,20 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 1746398,
+      "num": 406827,
+      "word": "女子实名举报年幼时遭亲生父亲多次强奸",
+      "onboard_time": 1711283659,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1744705,
       "num": 1744705,
       "word": "李菲儿扣了250分",
       "onboard_time": 1711251260,
       "rank": 1,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1655298,
-      "num": 406827,
-      "word": "女子实名举报年幼时遭亲生父亲多次强奸",
-      "onboard_time": 1711283659,
-      "rank": 31,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1582845,
@@ -259,6 +259,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 805171,
+      "num": 805171,
+      "word": "月光实名制吃饭",
+      "onboard_time": 1711287980,
+      "rank": 3,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 785166,
       "num": 785166,
       "word": "莫斯科恐袭嫌疑人招供细节",
@@ -395,6 +403,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 638978,
+      "num": 638978,
+      "word": "眼泪女王",
+      "onboard_time": 1711200981,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 638595,
       "num": 638595,
       "word": "明兰终究变成了红狼",
@@ -417,6 +433,14 @@
       "onboard_time": 1711267038,
       "rank": 20,
       "category": "情感"
+    },
+    {
+      "raw_hot": 614764,
+      "num": 614764,
+      "word": "AG终结WB八连胜",
+      "onboard_time": 1711288880,
+      "rank": 6,
+      "category": "电竞"
     },
     {
       "raw_hot": 612770,
@@ -465,6 +489,14 @@
       "onboard_time": 1711257080,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 576089,
+      "num": 576089,
+      "word": "iOS18将采用新的主屏幕",
+      "onboard_time": 1711287380,
+      "rank": 7,
+      "category": "数码"
     },
     {
       "raw_hot": 568394,
@@ -537,6 +569,14 @@
       "onboard_time": 1711281138,
       "rank": 6,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 519028,
+      "num": 317251,
+      "word": "怀孕会加速衰老约增加2岁",
+      "onboard_time": 1711287080,
+      "rank": 26,
+      "category": "母婴育儿"
     },
     {
       "raw_hot": 509945,
@@ -635,6 +675,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 481729,
+      "num": 481729,
+      "word": "林更新是怎么做到不笑场的",
+      "onboard_time": 1711286240,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 474394,
       "num": 474394,
       "word": "追风者破2了",
@@ -673,14 +721,6 @@
       "onboard_time": 1711247360,
       "rank": 45,
       "category": "财经"
-    },
-    {
-      "raw_hot": 460183,
-      "num": 374938,
-      "word": "林更新是怎么做到不笑场的",
-      "onboard_time": 1711286240,
-      "rank": 30,
-      "category": "剧集"
     },
     {
       "raw_hot": 457054,
@@ -755,6 +795,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 423026,
+      "num": 423026,
+      "word": "小日子",
+      "onboard_time": 1711284380,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 421391,
       "num": 421391,
       "word": "特鲁姆普10比4丁俊晖",
@@ -793,6 +841,22 @@
       "onboard_time": 1711256359,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 405245,
+      "num": 405245,
+      "word": "江西省级原则上不再举办中等职业学校",
+      "onboard_time": 1711288100,
+      "rank": 12,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 404088,
+      "num": 317053,
+      "word": "9.9元咖啡要消失了吗",
+      "onboard_time": 1711288340,
+      "rank": 22,
+      "category": "美食"
     },
     {
       "raw_hot": 401012,
@@ -891,14 +955,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 358942,
-      "num": 358942,
-      "word": "眼泪女王",
-      "onboard_time": 1711200981,
-      "rank": 25,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 357207,
       "num": 258736,
       "word": "90后女孩存下100万后买了房",
@@ -937,6 +993,14 @@
       "onboard_time": 1711194619,
       "rank": 35,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 346002,
+      "num": 346002,
+      "word": "俄恐袭遇难者遗体辨认工作开始",
+      "onboard_time": 1711288280,
+      "rank": 18,
+      "category": "国外时政"
     },
     {
       "raw_hot": 343079,
@@ -1123,6 +1187,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 277340,
+      "num": 277340,
+      "word": "地磁暴",
+      "onboard_time": 1711288520,
+      "rank": 25,
+      "category": "自然"
+    },
+    {
       "raw_hot": 272903,
       "num": 272903,
       "word": "陈丽君浪姐全妆路透",
@@ -1251,12 +1323,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 248657,
+      "num": 248657,
+      "word": "眼泪女王 离婚协议书",
+      "onboard_time": 1711289301,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 248479,
       "num": 243580,
       "word": "纪凌尘emo了",
       "onboard_time": 1711209920,
       "rank": 29,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 248303,
+      "num": 248303,
+      "word": "莫斯科恐袭嫌疑人之一曾在理发店工作",
+      "onboard_time": 1711288340,
+      "rank": 30,
+      "category": "国外时政"
     },
     {
       "raw_hot": 247734,
@@ -1307,6 +1395,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 239015,
+      "num": 239015,
+      "word": "AG零封WB",
+      "onboard_time": 1711288880,
+      "rank": 31,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 236826,
       "num": 236826,
       "word": "网友求邓超断更",
@@ -1323,6 +1419,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 236413,
+      "num": 236413,
+      "word": "眼泪女王第六集",
+      "onboard_time": 1711289421,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 235813,
       "num": 235813,
       "word": "王室专家称凯特因孩子推迟公布患癌",
@@ -1337,14 +1441,6 @@
       "onboard_time": 1711198701,
       "rank": 24,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 232925,
-      "num": 232925,
-      "word": "怀孕会加速衰老约增加2岁",
-      "onboard_time": 1711287080,
-      "rank": 26,
-      "category": "母婴育儿"
     },
     {
       "raw_hot": 232821,
@@ -1403,12 +1499,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 224038,
-      "num": 224038,
-      "word": "小日子",
-      "onboard_time": 1711284380,
-      "rank": 29,
-      "category": "剧集"
+      "raw_hot": 224111,
+      "num": 224111,
+      "word": "杨鑫来吃",
+      "onboard_time": 1711289180,
+      "rank": 34,
+      "category": "电竞"
     },
     {
       "raw_hot": 223424,
@@ -1489,6 +1585,14 @@
       "onboard_time": 1711271598,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 210714,
+      "num": 210714,
+      "word": "眼泪女王 家被偷没了",
+      "onboard_time": 1711289599,
+      "rank": 36,
+      "category": "剧集"
     },
     {
       "raw_hot": 208813,
@@ -1643,6 +1747,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 194090,
+      "num": 194090,
+      "word": "CBA",
+      "onboard_time": 1711289421,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 193204,
       "num": 193204,
       "word": "张杰麦克风是用女儿名字命名的",
@@ -1771,6 +1883,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 178484,
+      "num": 178484,
+      "word": "鞠婧祎夸刘学义吻技",
+      "onboard_time": 1711286060,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 178474,
       "num": 178474,
       "word": "XYG赛季首胜",
@@ -1793,6 +1913,14 @@
       "onboard_time": 1711197499,
       "rank": 33,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 173638,
+      "num": 173638,
+      "word": "小日子 朱大力去世",
+      "onboard_time": 1711289599,
+      "rank": 44,
+      "category": "剧集"
     },
     {
       "raw_hot": 173520,
@@ -1833,6 +1961,14 @@
       "onboard_time": 1711271960,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 169847,
+      "num": 169847,
+      "word": "追风者",
+      "onboard_time": 1711203262,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 169728,
@@ -2027,14 +2163,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 155393,
-      "num": 155393,
-      "word": "鞠婧祎夸刘学义吻技",
-      "onboard_time": 1711286060,
-      "rank": 46,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 155266,
       "num": 155266,
       "word": "陈楚生粉丝吃的也太好了吧",
@@ -2096,6 +2224,14 @@
       "word": "灿烂的她 含爱量比含泪量多",
       "onboard_time": 1711250299,
       "rank": 39,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 150624,
+      "num": 150624,
+      "word": "行止背后抱沈璃",
+      "onboard_time": 1711289120,
+      "rank": 47,
       "category": "剧集"
     },
     {
@@ -2644,7 +2780,7 @@
     },
     {
       "raw_hot": 94619,
-      "num": 813211,
+      "num": 978402,
       "word": "花花盛开的中国春意拉满",
       "onboard_time": 1711282880,
       "rank": 2,
@@ -2753,14 +2889,6 @@
       "onboard_time": 1711218433,
       "rank": 40,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 34692,
-      "num": 47659,
-      "word": "追风者",
-      "onboard_time": 1711203262,
-      "rank": 48,
-      "category": "剧集"
     },
     {
       "raw_hot": 33945,
