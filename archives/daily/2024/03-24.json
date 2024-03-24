@@ -1,6 +1,6 @@
 {
   "startTime": 1711210803824,
-  "endTime": 1711272854060,
+  "endTime": 1711275453453,
   "band_list": [
     {
       "raw_hot": 3435224,
@@ -105,6 +105,14 @@
       "onboard_time": 1711193779,
       "rank": 0,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 1140173,
+      "num": 421918,
+      "word": "我是学校里唯一一条蛆",
+      "onboard_time": 1711271298,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 1133761,
@@ -257,6 +265,14 @@
       "onboard_time": 1711243339,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 740592,
+      "num": 740592,
+      "word": "前男友大半夜开始发疯了",
+      "onboard_time": 1711272140,
+      "rank": 26,
+      "category": "幽默"
     },
     {
       "raw_hot": 731282,
@@ -427,6 +443,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 497649,
+      "num": 421462,
+      "word": "赵露思造型师",
+      "onboard_time": 1711272259,
+      "rank": 21,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 495201,
       "num": 495201,
       "word": "5岁女孩洗澡被烫伤面部严重水肿",
@@ -457,6 +481,14 @@
       "onboard_time": 1711266138,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 483535,
+      "num": 343768,
+      "word": "怀孕7个月后仍安排上班12小时合理吗",
+      "onboard_time": 1711273519,
+      "rank": 20,
+      "category": "母婴育儿"
     },
     {
       "raw_hot": 482441,
@@ -571,6 +603,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 423711,
+      "num": 423711,
+      "word": "张栋梁王心凌 何群成晓诗",
+      "onboard_time": 1711271900,
+      "rank": 22,
+      "category": "演出"
+    },
+    {
       "raw_hot": 420705,
       "num": 420705,
       "word": "莫斯科恐袭救援结束",
@@ -579,12 +619,12 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 417230,
-      "num": 417230,
-      "word": "我是学校里唯一一条蛆",
-      "onboard_time": 1711271298,
-      "rank": 30,
-      "category": "幽默"
+      "raw_hot": 417180,
+      "num": 417180,
+      "word": "石榴姐",
+      "onboard_time": 1711272679,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 416639,
@@ -601,6 +641,14 @@
       "onboard_time": 1711256359,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 401730,
+      "num": 401730,
+      "word": "陶喆爆改Melody给老婆",
+      "onboard_time": 1711274058,
+      "rank": 15,
+      "category": "演出"
     },
     {
       "raw_hot": 401012,
@@ -625,6 +673,14 @@
       "onboard_time": 1711203982,
       "rank": 16,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 387274,
+      "num": 342523,
+      "word": "被辞退的实习生在大群发的消息",
+      "onboard_time": 1711272679,
+      "rank": 34,
+      "category": "情感"
     },
     {
       "raw_hot": 379093,
@@ -707,6 +763,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 346335,
+      "num": 346335,
+      "word": "枭起青壤审美",
+      "onboard_time": 1711274538,
+      "rank": 19,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 343079,
       "num": 343079,
       "word": "赵本山沈腾北野武同框",
@@ -747,14 +811,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 313455,
-      "num": 313455,
-      "word": "赵露思造型师",
-      "onboard_time": 1711272259,
-      "rank": 21,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 307358,
       "num": 307358,
       "word": "普京宣布24日为俄罗斯全民哀悼日",
@@ -763,20 +819,20 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 302918,
+      "num": 302918,
+      "word": "大学毕业后的朋友圈分裂感特别重",
+      "onboard_time": 1711272140,
+      "rank": 33,
+      "category": "情感"
+    },
+    {
       "raw_hot": 302813,
       "num": 280323,
       "word": "留给霸王茶姬的名字不多了",
       "onboard_time": 1711190600,
       "rank": 21,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 301176,
-      "num": 301176,
-      "word": "张栋梁王心凌 何群成晓诗",
-      "onboard_time": 1711271900,
-      "rank": 22,
-      "category": "演出"
     },
     {
       "raw_hot": 300842,
@@ -1003,14 +1059,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 245497,
-      "num": 245497,
-      "word": "前男友大半夜开始发疯了",
-      "onboard_time": 1711272140,
-      "rank": 26,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 242512,
       "num": 242512,
       "word": "锦超白挨李菲儿一顿骂",
@@ -1139,6 +1187,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 217974,
+      "num": 217974,
+      "word": "微信注销后的页面",
+      "onboard_time": 1711273399,
+      "rank": 26,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 215508,
       "num": 215508,
       "word": "XYG战胜DYG",
@@ -1219,14 +1275,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 199760,
-      "num": 199760,
-      "word": "大学毕业后的朋友圈分裂感特别重",
-      "onboard_time": 1711272140,
-      "rank": 33,
-      "category": "情感"
-    },
-    {
       "raw_hot": 199692,
       "num": 199692,
       "word": "我妈让我找对象借三万块给她",
@@ -1243,11 +1291,11 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 198424,
-      "num": 198424,
-      "word": "被辞退的实习生在大群发的消息",
-      "onboard_time": 1711272679,
-      "rank": 34,
+      "raw_hot": 198231,
+      "num": 198231,
+      "word": "十年后才弄明白高中时的那道题",
+      "onboard_time": 1711274779,
+      "rank": 31,
       "category": "情感"
     },
     {
@@ -1337,6 +1385,14 @@
       "onboard_time": 1711255518,
       "rank": 32,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 185161,
+      "num": 185161,
+      "word": "彭昱畅 窝囊废赛道特型演员",
+      "onboard_time": 1711274479,
+      "rank": 33,
+      "category": "电影"
     },
     {
       "raw_hot": 183919,
@@ -1467,6 +1523,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 167432,
+      "num": 512095,
+      "word": "3男孩遇杂草起火先报警再灭火",
+      "onboard_time": 1711273877,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 165739,
       "num": 165739,
       "word": "俄罗斯已进入战争状态",
@@ -1481,6 +1545,14 @@
       "onboard_time": 1711254800,
       "rank": 45,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 165009,
+      "num": 165009,
+      "word": "丁俊晖犯规",
+      "onboard_time": 1711275018,
+      "rank": 35,
+      "category": "体育"
     },
     {
       "raw_hot": 164631,
@@ -1561,6 +1633,14 @@
       "onboard_time": 1711263979,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 158818,
+      "num": 158818,
+      "word": "Gr对战FPX.ZQ",
+      "onboard_time": 1711274119,
+      "rank": 36,
+      "category": "电竞"
     },
     {
       "raw_hot": 157756,
@@ -1651,20 +1731,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 148768,
-      "num": 148768,
-      "word": "石榴姐",
-      "onboard_time": 1711272679,
-      "rank": 44,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 145768,
       "num": 145768,
       "word": "与凤行直播",
       "onboard_time": 1711199300,
       "rank": 43,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 144892,
+      "num": 144892,
+      "word": "FPX.ZQ战队晋级COA7全球总决赛",
+      "onboard_time": 1711275139,
+      "rank": 38,
+      "category": "电竞"
     },
     {
       "raw_hot": 144615,
@@ -1697,6 +1777,14 @@
       "onboard_time": 1711244059,
       "rank": 42,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 139135,
+      "num": 139135,
+      "word": "LGD对战狼队",
+      "onboard_time": 1711274179,
+      "rank": 39,
+      "category": "电竞"
     },
     {
       "raw_hot": 138805,
@@ -1747,6 +1835,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 135902,
+      "num": 135902,
+      "word": "没想到小龙虾还有这功能",
+      "onboard_time": 1711274720,
+      "rank": 41,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 135636,
       "num": 135636,
       "word": "老子教你人生大智慧",
@@ -1771,6 +1867,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 131445,
+      "num": 131445,
+      "word": "媒体人直击莫斯科生活现状",
+      "onboard_time": 1711273340,
+      "rank": 42,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 131419,
       "num": 131419,
       "word": "大屏上的张杰",
@@ -1785,6 +1889,22 @@
       "onboard_time": 1711265599,
       "rank": 48,
       "category": "电影"
+    },
+    {
+      "raw_hot": 129502,
+      "num": 463962,
+      "word": "女孩走失被热成像无人机20分钟找到",
+      "onboard_time": 1711274422,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 128427,
+      "num": 128427,
+      "word": "阿修罗花合战",
+      "onboard_time": 1711273279,
+      "rank": 44,
+      "category": "游戏"
     },
     {
       "raw_hot": 128295,
@@ -1817,6 +1937,14 @@
       "onboard_time": 1711257500,
       "rank": 40,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 126729,
+      "num": 126729,
+      "word": "我们一起摇太阳 离婚的最小单位",
+      "onboard_time": 1711272860,
+      "rank": 46,
+      "category": "电影"
     },
     {
       "raw_hot": 126396,
@@ -1857,6 +1985,14 @@
       "onboard_time": 1711202121,
       "rank": 47,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 122119,
+      "num": 122119,
+      "word": "风晴雪 来交个朋友吧",
+      "onboard_time": 1711273759,
+      "rank": 48,
+      "category": "游戏"
     },
     {
       "raw_hot": 121148,

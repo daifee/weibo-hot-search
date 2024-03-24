@@ -1,0 +1,410 @@
+{
+  "runTime": 1711275453453,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1655059,
+        "num": 1655059,
+        "word": "唐九洲 霸王茶姬霸王茶姬霸王茶姬",
+        "onboard_time": 1711270638,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1074472,
+        "num": 1074472,
+        "word": "王诗龄砂锅铺满了黑松露",
+        "onboard_time": 1711267638,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 63722,
+        "num": 874099,
+        "word": "用移轴技巧呈现春耕之美",
+        "onboard_time": 1711269499,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 792330,
+        "num": 792330,
+        "word": "港媒镜头下的赵露思生图",
+        "onboard_time": 1711267339,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 782019,
+        "num": 782019,
+        "word": "首个国产女性向3A游戏",
+        "onboard_time": 1711258939,
+        "rank": 4,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 740592,
+        "num": 740592,
+        "word": "前男友大半夜开始发疯了",
+        "onboard_time": 1711272140,
+        "rank": 5,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 607213,
+        "num": 607213,
+        "word": "女生的裤子可以多到什么程度",
+        "onboard_time": 1711266558,
+        "rank": 6,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 167432,
+        "num": 512095,
+        "word": "3男孩遇杂草起火先报警再灭火",
+        "onboard_time": 1711273877,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 129502,
+        "num": 463962,
+        "word": "女孩走失被热成像无人机20分钟找到",
+        "onboard_time": 1711274422,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 423711,
+        "num": 423711,
+        "word": "张栋梁王心凌 何群成晓诗",
+        "onboard_time": 1711271900,
+        "rank": 9,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 1140173,
+        "num": 421918,
+        "word": "我是学校里唯一一条蛆",
+        "onboard_time": 1711271298,
+        "rank": 10,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 855148,
+        "num": 421615,
+        "word": "重庆姐弟坠亡案生母需终生服药",
+        "onboard_time": 1711269198,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 497649,
+        "num": 421462,
+        "word": "赵露思造型师",
+        "onboard_time": 1711272259,
+        "rank": 12,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 417180,
+        "num": 417180,
+        "word": "石榴姐",
+        "onboard_time": 1711272679,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 409742,
+        "num": 409742,
+        "word": "爸爸因为妈妈要学车开始发癫",
+        "onboard_time": 1711267699,
+        "rank": 14,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 401730,
+        "num": 401730,
+        "word": "陶喆爆改Melody给老婆",
+        "onboard_time": 1711274058,
+        "rank": 15,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 382849,
+        "num": 382849,
+        "word": "台湾",
+        "onboard_time": 1711255638,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 380867,
+        "num": 380867,
+        "word": "赵奕欢回怼李菲儿",
+        "onboard_time": 1711254380,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 361808,
+        "num": 361808,
+        "word": "中国气象局发布大地磁暴预警",
+        "onboard_time": 1711261399,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 346335,
+        "num": 346335,
+        "word": "枭起青壤审美",
+        "onboard_time": 1711274538,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 483535,
+        "num": 343768,
+        "word": "怀孕7个月后仍安排上班12小时合理吗",
+        "onboard_time": 1711273519,
+        "rank": 20,
+        "category": "母婴育儿"
+      },
+      {
+        "raw_hot": 387274,
+        "num": 342523,
+        "word": "被辞退的实习生在大群发的消息",
+        "onboard_time": 1711272679,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 313800,
+        "num": 313800,
+        "word": "恋爱一年后依然没有情绪价值",
+        "onboard_time": 1711267038,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 302918,
+        "num": 302918,
+        "word": "大学毕业后的朋友圈分裂感特别重",
+        "onboard_time": 1711272140,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 247353,
+        "num": 247353,
+        "word": "嫌疑人称莫斯科恐袭招募人命令无差别射杀",
+        "onboard_time": 1711265720,
+        "rank": 24,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 241823,
+        "num": 241823,
+        "word": "鹿晗淄博",
+        "onboard_time": 1711267638,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 217974,
+        "num": 217974,
+        "word": "微信注销后的页面",
+        "onboard_time": 1711273399,
+        "rank": 26,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 216527,
+        "num": 216527,
+        "word": "莫斯科恐袭已致133死152伤",
+        "onboard_time": 1711258098,
+        "rank": 27,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 216434,
+        "num": 216434,
+        "word": "迪丽热巴路透",
+        "onboard_time": 1711266980,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 162226,
+        "num": 214088,
+        "word": "副教授26岁学生比自己还大",
+        "onboard_time": 1711261038,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 213623,
+        "num": 213623,
+        "word": "孙俪新剧",
+        "onboard_time": 1711266619,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 198231,
+        "num": 198231,
+        "word": "十年后才弄明白高中时的那道题",
+        "onboard_time": 1711274779,
+        "rank": 31,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 190149,
+        "num": 190149,
+        "word": "李菲儿扣了250分",
+        "onboard_time": 1711251260,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 185161,
+        "num": 185161,
+        "word": "彭昱畅 窝囊废赛道特型演员",
+        "onboard_time": 1711274479,
+        "rank": 33,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 168510,
+        "num": 168510,
+        "word": "周也潍坊",
+        "onboard_time": 1711271598,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 165009,
+        "num": 165009,
+        "word": "丁俊晖犯规",
+        "onboard_time": 1711275018,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 158818,
+        "num": 158818,
+        "word": "Gr对战FPX.ZQ",
+        "onboard_time": 1711274119,
+        "rank": 36,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 149132,
+        "num": 149132,
+        "word": "难哄官宣",
+        "onboard_time": 1711246398,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 144892,
+        "num": 144892,
+        "word": "FPX.ZQ战队晋级COA7全球总决赛",
+        "onboard_time": 1711275139,
+        "rank": 38,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 139135,
+        "num": 139135,
+        "word": "LGD对战狼队",
+        "onboard_time": 1711274179,
+        "rank": 39,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 137735,
+        "num": 137735,
+        "word": "张予曦细腰",
+        "onboard_time": 1711267339,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 135902,
+        "num": 135902,
+        "word": "没想到小龙虾还有这功能",
+        "onboard_time": 1711274720,
+        "rank": 41,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 131445,
+        "num": 131445,
+        "word": "媒体人直击莫斯科生活现状",
+        "onboard_time": 1711273340,
+        "rank": 42,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 128467,
+        "num": 128467,
+        "word": "Hero续命",
+        "onboard_time": 1711271358,
+        "rank": 43,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 128427,
+        "num": 128427,
+        "word": "阿修罗花合战",
+        "onboard_time": 1711273279,
+        "rank": 44,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 126817,
+        "num": 126817,
+        "word": "男子捡17岁女生手机归还反被讹200",
+        "onboard_time": 1711254499,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 126729,
+        "num": 126729,
+        "word": "我们一起摇太阳 离婚的最小单位",
+        "onboard_time": 1711272860,
+        "rank": 46,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 123994,
+        "num": 123994,
+        "word": "明兰终究变成了红狼",
+        "onboard_time": 1711260740,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 122119,
+        "num": 122119,
+        "word": "风晴雪 来交个朋友吧",
+        "onboard_time": 1711273759,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 119404,
+        "num": 119404,
+        "word": "姓李的人今天一定要拜老子",
+        "onboard_time": 1711260439,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#循着总书记关切看京津冀交通陆海空之变#"
+    }
+  }
+}
