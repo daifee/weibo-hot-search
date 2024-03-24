@@ -1,6 +1,6 @@
 {
   "startTime": 1709223640991,
-  "endTime": 1711278796091,
+  "endTime": 1711280035652,
   "band_list": [
     {
       "raw_hot": 12728050,
@@ -5627,6 +5627,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 1002908,
+      "num": 687281,
+      "word": "俄对乌发动无人机和导弹混合袭击",
+      "onboard_time": 1711278080,
+      "rank": 9,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 1000768,
       "num": 1000768,
       "word": "终于知道娃哈哈为啥用纸箱包装了",
@@ -10131,6 +10139,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 687111,
+      "num": 687111,
+      "word": "俄罗斯",
+      "onboard_time": 1711149615,
+      "rank": 5,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 687030,
       "num": 687030,
       "word": "雅诗兰黛称在中国销售的所有产品合规",
@@ -10737,14 +10753,6 @@
       "onboard_time": 1710357257,
       "rank": 33,
       "category": "社会新闻,美食"
-    },
-    {
-      "raw_hot": 658355,
-      "num": 658355,
-      "word": "俄罗斯",
-      "onboard_time": 1711149615,
-      "rank": 5,
-      "category": "国外时政"
     },
     {
       "raw_hot": 658179,
@@ -11419,6 +11427,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 633340,
+      "num": 633340,
+      "word": "infp是写文字天赋型选手",
+      "onboard_time": 1711277360,
+      "rank": 15,
+      "category": "情感"
+    },
+    {
       "raw_hot": 633252,
       "num": 520969,
       "word": "本周狗屎运最旺的星座",
@@ -11835,6 +11851,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 617084,
+      "num": 239505,
+      "word": "胖东来回应985女生应聘没进面试",
+      "onboard_time": 1711278739,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 616827,
       "num": 389365,
       "word": "为什么领导很少请病假",
@@ -12033,6 +12057,14 @@
       "onboard_time": 1709268816,
       "rank": 16,
       "category": "美食"
+    },
+    {
+      "raw_hot": 607881,
+      "num": 607881,
+      "word": "做美甲游离线真的会变长",
+      "onboard_time": 1711276039,
+      "rank": 45,
+      "category": "科学科普"
     },
     {
       "raw_hot": 607569,
@@ -13697,14 +13729,6 @@
       "onboard_time": 1710498817,
       "rank": 32,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 553197,
-      "num": 530371,
-      "word": "俄对乌发动无人机和导弹混合袭击",
-      "onboard_time": 1711278080,
-      "rank": 9,
-      "category": "国外时政"
     },
     {
       "raw_hot": 553103,
@@ -20579,14 +20603,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 387514,
-      "num": 387514,
-      "word": "infp是写文字天赋型选手",
-      "onboard_time": 1711277360,
-      "rank": 15,
-      "category": "情感"
-    },
-    {
       "raw_hot": 387490,
       "num": 297034,
       "word": "喝水后的4个异常或为肾在求救",
@@ -22033,14 +22049,6 @@
       "onboard_time": 1709984972,
       "rank": 5,
       "category": "美食"
-    },
-    {
-      "raw_hot": 361935,
-      "num": 361935,
-      "word": "做美甲游离线真的会变长",
-      "onboard_time": 1711276039,
-      "rank": 45,
-      "category": "科学科普"
     },
     {
       "raw_hot": 361921,
@@ -25945,6 +25953,14 @@
       "onboard_time": 1709459371,
       "rank": 23,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 299349,
+      "num": 299349,
+      "word": "赵丽颖的造型师还是闵塔鲨",
+      "onboard_time": 1711276760,
+      "rank": 26,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 299340,
@@ -31411,14 +31427,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 243091,
-      "num": 243091,
-      "word": "赵丽颖的造型师还是闵塔鲨",
-      "onboard_time": 1711276760,
-      "rank": 26,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 243089,
       "num": 243089,
       "word": "王梓薇晒与赵丽颖合照",
@@ -31761,6 +31769,14 @@
       "onboard_time": 1710928895,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 240281,
+      "num": 240281,
+      "word": "彭昱畅 窝囊废赛道特型演员",
+      "onboard_time": 1711274479,
+      "rank": 33,
+      "category": "电影"
     },
     {
       "raw_hot": 240220,
@@ -32281,6 +32297,14 @@
       "onboard_time": 1709546133,
       "rank": 29,
       "category": "财经"
+    },
+    {
+      "raw_hot": 236527,
+      "num": 236527,
+      "word": "浪姐一公上班路透",
+      "onboard_time": 1711275620,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 236477,
@@ -33667,6 +33691,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 226152,
+      "num": 226152,
+      "word": "他用三十块钱跟外婆再见了一次",
+      "onboard_time": 1711279219,
+      "rank": 27,
+      "category": "情感"
+    },
+    {
       "raw_hot": 225983,
       "num": 225983,
       "word": "60元的酸奶碗是智商税吗",
@@ -33913,14 +33945,6 @@
       "onboard_time": 1709624252,
       "rank": 31,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 224203,
-      "num": 224203,
-      "word": "彭昱畅 窝囊废赛道特型演员",
-      "onboard_time": 1711274479,
-      "rank": 33,
-      "category": "电影"
     },
     {
       "raw_hot": 224200,
@@ -37265,14 +37289,6 @@
       "onboard_time": 1710985532,
       "rank": 32,
       "category": "情感"
-    },
-    {
-      "raw_hot": 206594,
-      "num": 206594,
-      "word": "浪姐一公上班路透",
-      "onboard_time": 1711275620,
-      "rank": 34,
-      "category": "综艺"
     },
     {
       "raw_hot": 206564,
@@ -41195,6 +41211,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 191739,
+      "num": 191739,
+      "word": "狼队战胜LGD",
+      "onboard_time": 1711279159,
+      "rank": 34,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 191734,
       "num": 184135,
       "word": "国足打破进球荒",
@@ -42897,6 +42921,14 @@
       "onboard_time": 1710812492,
       "rank": 34,
       "category": "母婴育儿"
+    },
+    {
+      "raw_hot": 185016,
+      "num": 185016,
+      "word": "什么是友情断层",
+      "onboard_time": 1711278380,
+      "rank": 42,
+      "category": "情感"
     },
     {
       "raw_hot": 185001,
@@ -49891,6 +49923,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 157002,
+      "num": 157002,
+      "word": "AppleVisionPro年内中国上市",
+      "onboard_time": 1711279519,
+      "rank": 38,
+      "category": "数码"
+    },
+    {
       "raw_hot": 156999,
       "num": 156999,
       "word": "物理防晒才是最牛的",
@@ -50697,14 +50737,6 @@
       "onboard_time": 1710724772,
       "rank": 42,
       "category": "体育"
-    },
-    {
-      "raw_hot": 153888,
-      "num": 153888,
-      "word": "什么是友情断层",
-      "onboard_time": 1711278380,
-      "rank": 42,
-      "category": "情感"
     },
     {
       "raw_hot": 153873,
@@ -55275,6 +55307,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 136827,
+      "num": 136827,
+      "word": "巴菲特持股可口可乐35年豪赚2200亿",
+      "onboard_time": 1711279338,
+      "rank": 44,
+      "category": "财经"
+    },
+    {
       "raw_hot": 136791,
       "num": 136791,
       "word": "小米2023年净利润193亿",
@@ -57017,6 +57057,14 @@
       "onboard_time": 1711194680,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 130630,
+      "num": 130630,
+      "word": "宋雨琦卷发",
+      "onboard_time": 1711279940,
+      "rank": 45,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 130609,
@@ -61459,14 +61507,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 110280,
-      "num": 134084,
-      "word": "胖东来回应985女生应聘没进面试",
-      "onboard_time": 1711278739,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 110267,
       "num": 110267,
       "word": "指甲盖大小的书",
@@ -64755,6 +64795,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 69980,
+      "num": 389344,
+      "word": "今天超15万人在跑马拉松",
+      "onboard_time": 1711278018,
+      "rank": 14,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 69576,
       "num": 69576,
       "word": "卢昱晓 如今的我很幸运",
@@ -66049,14 +66097,6 @@
       "onboard_time": 1709932217,
       "rank": 39,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 49782,
-      "num": 389344,
-      "word": "今天超15万人在跑马拉松",
-      "onboard_time": 1711278018,
-      "rank": 14,
-      "category": "运动健身"
     },
     {
       "raw_hot": 49697,
