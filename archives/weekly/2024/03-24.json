@@ -1,6 +1,6 @@
 {
   "startTime": 1711210803824,
-  "endTime": 1711305270789,
+  "endTime": 1711307712931,
   "band_list": [
     {
       "raw_hot": 3435224,
@@ -3257,6 +3257,14 @@
       "onboard_time": 1711221792,
       "rank": 41,
       "category": "演出"
+    },
+    {
+      "raw_hot": 22003,
+      "num": 22003,
+      "word": "三十岁才是人生的开始",
+      "onboard_time": 1711304892,
+      "rank": 40,
+      "category": "情感"
     },
     {
       "raw_hot": 20066,
