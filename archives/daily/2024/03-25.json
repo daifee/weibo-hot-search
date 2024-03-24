@@ -1,6 +1,6 @@
 {
   "startTime": 1711297217204,
-  "endTime": 1711301708523,
+  "endTime": 1711304629040,
   "band_list": [
     {
       "raw_hot": 2081066,
@@ -427,6 +427,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 71186,
+      "num": 77642,
+      "word": "男子把40岁君子兰养出18个花箭",
+      "onboard_time": 1711300095,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 66469,
+      "num": 41994,
+      "word": "奚梦瑶何猷君牵手走红毯",
+      "onboard_time": 1711304233,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 58088,
       "num": 58088,
       "word": "苏打绿香港",
@@ -441,6 +457,14 @@
       "onboard_time": 1711282880,
       "rank": 13,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 33037,
+      "num": 33037,
+      "word": "张杰他懂他真的懂",
+      "onboard_time": 1711280540,
+      "rank": 42,
+      "category": "演出"
     },
     {
       "raw_hot": 17258,
