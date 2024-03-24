@@ -1,0 +1,410 @@
+{
+  "runTime": 1711247195489,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1887041,
+        "num": 1887041,
+        "word": "难哄官宣",
+        "onboard_time": 1711246398,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1121649,
+        "num": 1121649,
+        "word": "涉黄AI换脸案有人用暗恋女生换脸",
+        "onboard_time": 1711237996,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 127526,
+        "num": 888467,
+        "word": "10.92亿背后的流量与力量",
+        "onboard_time": 1711198040,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 778947,
+        "num": 778947,
+        "word": "小区要求空调外机必须统一为黑色",
+        "onboard_time": 1711241959,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 724053,
+        "num": 724053,
+        "word": "小林制药公司召回约30万份产品",
+        "onboard_time": 1711243339,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 723694,
+        "num": 723694,
+        "word": "你愿意把5年寿命给自家狗狗吗",
+        "onboard_time": 1711243399,
+        "rank": 5,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 611393,
+        "num": 611393,
+        "word": "莫斯科恐袭嫌疑人招供细节",
+        "onboard_time": 1711240339,
+        "rank": 6,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 474271,
+        "num": 474271,
+        "word": "5岁女孩洗澡被烫伤面部严重水肿",
+        "onboard_time": 1711241839,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 395777,
+        "num": 395777,
+        "word": "赵露思出图",
+        "onboard_time": 1711195399,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 391815,
+        "num": 391815,
+        "word": "女生跑42公里全马庆祝30岁生日",
+        "onboard_time": 1711242138,
+        "rank": 9,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 914113,
+        "num": 378911,
+        "word": "金秀贤公司回应",
+        "onboard_time": 1711240218,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 740424,
+        "num": 375555,
+        "word": "莫斯科恐袭中国贸易参展商感到进退维谷",
+        "onboard_time": 1711206500,
+        "rank": 11,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 361822,
+        "num": 361822,
+        "word": "李清照是才女更是拽姐",
+        "onboard_time": 1711246398,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 348970,
+        "num": 348970,
+        "word": "外媒称伊斯兰国发布袭击音乐厅视频",
+        "onboard_time": 1711241059,
+        "rank": 13,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 313701,
+        "num": 313701,
+        "word": "收费站工作人员逼司机吃垃圾桶食物",
+        "onboard_time": 1711227551,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 255252,
+        "num": 255252,
+        "word": "何杰打破全国马拉松纪录",
+        "onboard_time": 1711243639,
+        "rank": 15,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 252688,
+        "num": 252688,
+        "word": "莫斯科恐袭救援结束",
+        "onboard_time": 1711236016,
+        "rank": 16,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 252208,
+        "num": 252208,
+        "word": "小爱同学差点帮我买了一套房",
+        "onboard_time": 1711199541,
+        "rank": 17,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 233694,
+        "num": 233694,
+        "word": "中国留学生称有人在俄炒卖防弹衣",
+        "onboard_time": 1711237756,
+        "rank": 18,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 227363,
+        "num": 227363,
+        "word": "赵美延叶舒华撞衫",
+        "onboard_time": 1711239619,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 354544,
+        "num": 226077,
+        "word": "宋瑶同时被8个男人求婚",
+        "onboard_time": 1711242317,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 255458,
+        "num": 226036,
+        "word": "90后女孩存下100万后买了房",
+        "onboard_time": 1711213217,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 230617,
+        "num": 225959,
+        "word": "小户型为什么不香了",
+        "onboard_time": 1711220771,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 224489,
+        "num": 224489,
+        "word": "陆虎手臂纹身",
+        "onboard_time": 1711243458,
+        "rank": 23,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 219109,
+        "num": 219109,
+        "word": "学校里男女生断崖式身高差",
+        "onboard_time": 1711242617,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 214899,
+        "num": 214899,
+        "word": "喜茶解聘倒卖周边员工",
+        "onboard_time": 1711242557,
+        "rank": 25,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 206847,
+        "num": 206847,
+        "word": "treasure南韩汪峰",
+        "onboard_time": 1711244719,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 200092,
+        "num": 200092,
+        "word": "邓超在春晚还是太收敛了",
+        "onboard_time": 1711204522,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 195198,
+        "num": 195198,
+        "word": "商场回应情侣霸占母婴室",
+        "onboard_time": 1711246279,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 191307,
+        "num": 191307,
+        "word": "邓超说孙俪真过分",
+        "onboard_time": 1711246337,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 190268,
+        "num": 190268,
+        "word": "尔冬升把徐若晗赶出片场",
+        "onboard_time": 1711199541,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 230190,
+        "num": 185064,
+        "word": "难哄要官宣了",
+        "onboard_time": 1711203021,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 174246,
+        "num": 174246,
+        "word": "林俊杰粉丝收到猫眼退款",
+        "onboard_time": 1711245379,
+        "rank": 32,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 173448,
+        "num": 173448,
+        "word": "泽连斯基回应乌被指与恐袭有关",
+        "onboard_time": 1711237036,
+        "rank": 33,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 173056,
+        "num": 173056,
+        "word": "郑合惠子王梓薇丑妆认不出来了",
+        "onboard_time": 1711226712,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 153601,
+        "num": 153601,
+        "word": "林更新被100多条信息轰炸求剧透",
+        "onboard_time": 1711210638,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 148818,
+        "num": 148818,
+        "word": "何老师给蒲熠星擦脸",
+        "onboard_time": 1711245618,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 140552,
+        "num": 140552,
+        "word": "中国马拉松进入206时代",
+        "onboard_time": 1711244059,
+        "rank": 37,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 139411,
+        "num": 139411,
+        "word": "俄恐袭已致143人遇难",
+        "onboard_time": 1711193779,
+        "rank": 38,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 139278,
+        "num": 139278,
+        "word": "五哈济南",
+        "onboard_time": 1711246999,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 138518,
+        "num": 138518,
+        "word": "想换工作应该先提离职还是先拿offer",
+        "onboard_time": 1711246697,
+        "rank": 40,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 137505,
+        "num": 137505,
+        "word": "肖战藏海传进京路透",
+        "onboard_time": 1711242738,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 136187,
+        "num": 136187,
+        "word": "王俊凯爸妈的奶茶店引发粉丝凌晨排队",
+        "onboard_time": 1711201521,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 120554,
+        "num": 120554,
+        "word": "苹果高管一家四口被撞身亡",
+        "onboard_time": 1711182859,
+        "rank": 43,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 119959,
+        "num": 119959,
+        "word": "颐和园玉兰花盛开",
+        "onboard_time": 1711245740,
+        "rank": 44,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 119875,
+        "num": 119875,
+        "word": "你完全可以相信硬核防晒",
+        "onboard_time": 1711245978,
+        "rank": 45,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 110720,
+        "num": 110720,
+        "word": "i人最好的出行方式",
+        "onboard_time": 1711239138,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 108537,
+        "num": 108537,
+        "word": "莫斯科恐袭悼念现场摆着许多玩偶",
+        "onboard_time": 1711244180,
+        "rank": 47,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 108370,
+        "num": 108370,
+        "word": "我妈 你不结婚老了以后谁照顾你",
+        "onboard_time": 1711198701,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 107169,
+        "num": 107169,
+        "word": "汉字是属于中国人独有的浪漫",
+        "onboard_time": 1711247181,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#新时代治水兴水总书记这样擘画#"
+    }
+  }
+}

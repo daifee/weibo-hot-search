@@ -1,7 +1,15 @@
 {
   "startTime": 1711210803824,
-  "endTime": 1711244226881,
+  "endTime": 1711247195489,
   "band_list": [
+    {
+      "raw_hot": 1887041,
+      "num": 1887041,
+      "word": "难哄官宣",
+      "onboard_time": 1711246398,
+      "rank": 0,
+      "category": "剧集"
+    },
     {
       "raw_hot": 1764453,
       "num": 435788,
@@ -28,7 +36,7 @@
     },
     {
       "raw_hot": 981811,
-      "num": 287479,
+      "num": 378911,
       "word": "金秀贤公司回应",
       "onboard_time": 1711240218,
       "rank": 11,
@@ -59,8 +67,8 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 747933,
-      "num": 747933,
+      "raw_hot": 778947,
+      "num": 778947,
       "word": "小区要求空调外机必须统一为黑色",
       "onboard_time": 1711241959,
       "rank": 15,
@@ -73,6 +81,22 @@
       "onboard_time": 1711206800,
       "rank": 3,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 724053,
+      "num": 724053,
+      "word": "小林制药公司召回约30万份产品",
+      "onboard_time": 1711243339,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 723694,
+      "num": 723694,
+      "word": "你愿意把5年寿命给自家狗狗吗",
+      "onboard_time": 1711243399,
+      "rank": 16,
+      "category": "情感"
     },
     {
       "raw_hot": 701868,
@@ -92,7 +116,7 @@
     },
     {
       "raw_hot": 612770,
-      "num": 286977,
+      "num": 313701,
       "word": "收费站工作人员逼司机吃垃圾桶食物",
       "onboard_time": 1711227551,
       "rank": 36,
@@ -137,6 +161,14 @@
       "onboard_time": 1711211357,
       "rank": 31,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 474271,
+      "num": 474271,
+      "word": "5岁女孩洗澡被烫伤面部严重水肿",
+      "onboard_time": 1711241839,
+      "rank": 23,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 469240,
@@ -228,19 +260,11 @@
     },
     {
       "raw_hot": 379093,
-      "num": 282320,
+      "num": 348970,
       "word": "外媒称伊斯兰国发布袭击音乐厅视频",
       "onboard_time": 1711241059,
       "rank": 30,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 363902,
-      "num": 281394,
-      "word": "你愿意把5年寿命给自家狗狗吗",
-      "onboard_time": 1711243399,
-      "rank": 16,
-      "category": "情感"
     },
     {
       "raw_hot": 363096,
@@ -249,6 +273,14 @@
       "onboard_time": 1711205182,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 361822,
+      "num": 361822,
+      "word": "李清照是才女更是拽姐",
+      "onboard_time": 1711246398,
+      "rank": 12,
+      "category": "综艺"
     },
     {
       "raw_hot": 357207,
@@ -265,14 +297,6 @@
       "onboard_time": 1711206261,
       "rank": 20,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 356617,
-      "num": 259803,
-      "word": "5岁女孩洗澡被烫伤面部严重水肿",
-      "onboard_time": 1711241839,
-      "rank": 23,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 350519,
@@ -331,14 +355,6 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 287745,
-      "num": 287745,
-      "word": "小林制药公司召回约30万份产品",
-      "onboard_time": 1711243339,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 286308,
       "num": 286308,
       "word": "马拉松",
@@ -371,8 +387,8 @@
       "category": "运动健身"
     },
     {
-      "raw_hot": 255233,
-      "num": 255233,
+      "raw_hot": 255252,
+      "num": 255252,
       "word": "何杰打破全国马拉松纪录",
       "onboard_time": 1711243639,
       "rank": 26,
@@ -435,12 +451,36 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 219109,
+      "num": 219109,
+      "word": "学校里男女生断崖式身高差",
+      "onboard_time": 1711242617,
+      "rank": 35,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 214899,
+      "num": 214899,
+      "word": "喜茶解聘倒卖周边员工",
+      "onboard_time": 1711242557,
+      "rank": 42,
+      "category": "美食"
+    },
+    {
       "raw_hot": 208813,
       "num": 208813,
       "word": "莫斯科",
       "onboard_time": 1711236073,
       "rank": 9,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 206847,
+      "num": 206847,
+      "word": "treasure南韩汪峰",
+      "onboard_time": 1711244719,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 197441,
@@ -465,6 +505,22 @@
       "onboard_time": 1711205901,
       "rank": 31,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 195198,
+      "num": 195198,
+      "word": "商场回应情侣霸占母婴室",
+      "onboard_time": 1711246279,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 191307,
+      "num": 191307,
+      "word": "邓超说孙俪真过分",
+      "onboard_time": 1711246337,
+      "rank": 29,
+      "category": "综艺"
     },
     {
       "raw_hot": 186159,
@@ -499,20 +555,20 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 174246,
+      "num": 174246,
+      "word": "林俊杰粉丝收到猫眼退款",
+      "onboard_time": 1711245379,
+      "rank": 32,
+      "category": "演出"
+    },
+    {
       "raw_hot": 173520,
       "num": 173520,
       "word": "喜茶回应周边被倒卖",
       "onboard_time": 1711206920,
       "rank": 34,
       "category": "美食"
-    },
-    {
-      "raw_hot": 172943,
-      "num": 172943,
-      "word": "学校里男女生断崖式身高差",
-      "onboard_time": 1711242617,
-      "rank": 35,
-      "category": "情感"
     },
     {
       "raw_hot": 171159,
@@ -545,14 +601,6 @@
       "onboard_time": 1711204882,
       "rank": 36,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 166213,
-      "num": 166213,
-      "word": "喜茶解聘倒卖周边员工",
-      "onboard_time": 1711242557,
-      "rank": 42,
-      "category": "美食"
     },
     {
       "raw_hot": 165739,
@@ -603,6 +651,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 148818,
+      "num": 148818,
+      "word": "何老师给蒲熠星擦脸",
+      "onboard_time": 1711245618,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 145768,
       "num": 145768,
       "word": "与凤行直播",
@@ -612,11 +668,35 @@
     },
     {
       "raw_hot": 143103,
-      "num": 749459,
+      "num": 888467,
       "word": "10.92亿背后的流量与力量",
       "onboard_time": 1711198040,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 140552,
+      "num": 140552,
+      "word": "中国马拉松进入206时代",
+      "onboard_time": 1711244059,
+      "rank": 42,
+      "category": "运动健身"
+    },
+    {
+      "raw_hot": 139278,
+      "num": 139278,
+      "word": "五哈济南",
+      "onboard_time": 1711246999,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 138518,
+      "num": 138518,
+      "word": "想换工作应该先提离职还是先拿offer",
+      "onboard_time": 1711246697,
+      "rank": 40,
+      "category": "情感"
     },
     {
       "raw_hot": 138211,
@@ -627,20 +707,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 137505,
+      "num": 137505,
+      "word": "肖战藏海传进京路透",
+      "onboard_time": 1711242738,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 137369,
       "num": 137369,
       "word": "赵丽颖抹胸亮片高定裙",
       "onboard_time": 1711195220,
       "rank": 45,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 134096,
-      "num": 134096,
-      "word": "中国马拉松进入206时代",
-      "onboard_time": 1711244059,
-      "rank": 42,
-      "category": "运动健身"
     },
     {
       "raw_hot": 128278,
@@ -675,20 +755,28 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 123999,
-      "num": 123999,
-      "word": "肖战藏海传进京路透",
-      "onboard_time": 1711242738,
-      "rank": 47,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 123786,
       "num": 123786,
       "word": "俄遭袭音乐厅废墟中发现多具遗体",
       "onboard_time": 1711202121,
       "rank": 47,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 119959,
+      "num": 119959,
+      "word": "颐和园玉兰花盛开",
+      "onboard_time": 1711245740,
+      "rank": 44,
+      "category": "旅游"
+    },
+    {
+      "raw_hot": 119875,
+      "num": 119875,
+      "word": "你完全可以相信硬核防晒",
+      "onboard_time": 1711245978,
+      "rank": 45,
+      "category": "美妆"
     },
     {
       "raw_hot": 118642,
@@ -713,6 +801,14 @@
       "onboard_time": 1711242800,
       "rank": 45,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 107169,
+      "num": 107169,
+      "word": "汉字是属于中国人独有的浪漫",
+      "onboard_time": 1711247181,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 104590,
