@@ -1,0 +1,410 @@
+{
+  "runTime": 1711287307475,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1814557,
+        "num": 1814557,
+        "word": "胖东来回应985女生应聘没进面试",
+        "onboard_time": 1711278739,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1493644,
+        "num": 1493644,
+        "word": "朝鲜祖国统一民主主义战线中央委员会解散",
+        "onboard_time": 1711285580,
+        "rank": 1,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 94619,
+        "num": 813211,
+        "word": "花花盛开的中国春意拉满",
+        "onboard_time": 1711282880,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 804961,
+        "num": 804961,
+        "word": "纪凌尘 小时候发过高烧的感觉",
+        "onboard_time": 1711281561,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 737440,
+        "num": 737440,
+        "word": "俄媒播出普京获悉音乐厅恐袭后画面",
+        "onboard_time": 1711282880,
+        "rank": 4,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 485133,
+        "num": 485133,
+        "word": "裴珠泫与中国粉丝双向奔赴",
+        "onboard_time": 1711284619,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 478975,
+        "num": 478975,
+        "word": "杨和苏鼻梁",
+        "onboard_time": 1711283600,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 474394,
+        "num": 474394,
+        "word": "追风者破2了",
+        "onboard_time": 1711285279,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 421391,
+        "num": 421391,
+        "word": "特鲁姆普10比4丁俊晖",
+        "onboard_time": 1711286240,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 412104,
+        "num": 412104,
+        "word": "首个国产女性向3A游戏",
+        "onboard_time": 1711258939,
+        "rank": 9,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 1655298,
+        "num": 406827,
+        "word": "女子实名举报年幼时遭亲生父亲多次强奸",
+        "onboard_time": 1711283659,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 545070,
+        "num": 401229,
+        "word": "台湾",
+        "onboard_time": 1711255638,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 541686,
+        "num": 389262,
+        "word": "王诗龄砂锅铺满了黑松露",
+        "onboard_time": 1711267638,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 518625,
+        "num": 380908,
+        "word": "我是学校里唯一一条蛆",
+        "onboard_time": 1711271298,
+        "rank": 13,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 460183,
+        "num": 374938,
+        "word": "林更新是怎么做到不笑场的",
+        "onboard_time": 1711286240,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 365996,
+        "num": 365996,
+        "word": "AG对战WB",
+        "onboard_time": 1711283840,
+        "rank": 15,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 358942,
+        "num": 358942,
+        "word": "眼泪女王",
+        "onboard_time": 1711286480,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 327166,
+        "num": 327166,
+        "word": "张杰他懂他真的懂",
+        "onboard_time": 1711280540,
+        "rank": 17,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 324900,
+        "num": 324900,
+        "word": "做美甲游离线真的会变长",
+        "onboard_time": 1711276039,
+        "rank": 18,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 311640,
+        "num": 311640,
+        "word": "什么是友情断层",
+        "onboard_time": 1711278380,
+        "rank": 19,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 476817,
+        "num": 300662,
+        "word": "港媒镜头下的赵露思生图",
+        "onboard_time": 1711267339,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 320636,
+        "num": 292558,
+        "word": "女子卖藕收到中国儿童银行5元钞",
+        "onboard_time": 1711284141,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 280646,
+        "num": 280646,
+        "word": "怀孕7个月后仍安排上班12小时合理吗",
+        "onboard_time": 1711273519,
+        "rank": 22,
+        "category": "母婴育儿"
+      },
+      {
+        "raw_hot": 254626,
+        "num": 254626,
+        "word": "沙利文",
+        "onboard_time": 1711281138,
+        "rank": 23,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 244813,
+        "num": 244813,
+        "word": "俄对乌发动无人机和导弹混合袭击",
+        "onboard_time": 1711278080,
+        "rank": 24,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 239077,
+        "num": 239077,
+        "word": "被辞退的实习生在大群发的消息",
+        "onboard_time": 1711272679,
+        "rank": 25,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 232925,
+        "num": 232925,
+        "word": "怀孕会加速衰老约增加2岁",
+        "onboard_time": 1711287080,
+        "rank": 26,
+        "category": "母婴育儿"
+      },
+      {
+        "raw_hot": 224038,
+        "num": 224038,
+        "word": "小日子",
+        "onboard_time": 1711284380,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 207163,
+        "num": 207163,
+        "word": "女生的裤子可以多到什么程度",
+        "onboard_time": 1711266558,
+        "rank": 28,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 201977,
+        "num": 201977,
+        "word": "你的苹果手机使几年了",
+        "onboard_time": 1711276460,
+        "rank": 29,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 198657,
+        "num": 198657,
+        "word": "未来几十年可能发生的事",
+        "onboard_time": 1711285158,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 191582,
+        "num": 191582,
+        "word": "强忍泪水等于慢性自杀",
+        "onboard_time": 1711285820,
+        "rank": 31,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 188498,
+        "num": 188498,
+        "word": "赵奕欢回怼李菲儿",
+        "onboard_time": 1711254380,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 180240,
+        "num": 180240,
+        "word": "WBG晋级春季赛季后赛",
+        "onboard_time": 1711282759,
+        "rank": 33,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 180078,
+        "num": 180078,
+        "word": "分享欲为什么会逐渐消失",
+        "onboard_time": 1711283059,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 164431,
+        "num": 164431,
+        "word": "俄罗斯",
+        "onboard_time": 1711277478,
+        "rank": 35,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 158532,
+        "num": 158532,
+        "word": "陈丽君浪姐全妆路透",
+        "onboard_time": 1711281081,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 156737,
+        "num": 156737,
+        "word": "陶喆爆改Melody给老婆",
+        "onboard_time": 1711274058,
+        "rank": 37,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 155851,
+        "num": 155851,
+        "word": "官方回应极氪轿车在车展撞伤游客",
+        "onboard_time": 1711283899,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 155393,
+        "num": 155393,
+        "word": "鞠婧祎夸刘学义吻技",
+        "onboard_time": 1711286060,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 154769,
+        "num": 154769,
+        "word": "毛孔粗大如何改善",
+        "onboard_time": 1711286300,
+        "rank": 40,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 150377,
+        "num": 150377,
+        "word": "特鲁姆普世界公开赛夺冠",
+        "onboard_time": 1711287141,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 148816,
+        "num": 148816,
+        "word": "女孩走失被热成像无人机20分钟找到",
+        "onboard_time": 1711274422,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 148335,
+        "num": 148335,
+        "word": "丁俊晖状态",
+        "onboard_time": 1711264999,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 146072,
+        "num": 146072,
+        "word": "狼人杀为啥没人玩了",
+        "onboard_time": 1711277360,
+        "rank": 44,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 145739,
+        "num": 145739,
+        "word": "重庆姐弟坠亡案生母需终生服药",
+        "onboard_time": 1711269198,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 145649,
+        "num": 145649,
+        "word": "AG二比零领先",
+        "onboard_time": 1711287199,
+        "rank": 46,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 137823,
+        "num": 137823,
+        "word": "倪妮拍戏",
+        "onboard_time": 1711281499,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 134471,
+        "num": 134471,
+        "word": "周深新歌",
+        "onboard_time": 1711283238,
+        "rank": 48,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 124970,
+        "num": 124970,
+        "word": "爸爸因为妈妈要学车开始发癫",
+        "onboard_time": 1711267699,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#循着总书记关切看京津冀交通陆海空之变#"
+    }
+  }
+}

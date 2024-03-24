@@ -1,6 +1,6 @@
 {
   "startTime": 1709223640991,
-  "endTime": 1711286310195,
+  "endTime": 1711287307475,
   "band_list": [
     {
       "raw_hot": 12728050,
@@ -1963,6 +1963,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 1655298,
+      "num": 406827,
+      "word": "女子实名举报年幼时遭亲生父亲多次强奸",
+      "onboard_time": 1711283659,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1655089,
       "num": 1655089,
       "word": "网红主播小马哥夫妇偷税被罚317万",
@@ -2489,6 +2497,14 @@
       "onboard_time": 1710828693,
       "rank": 3,
       "category": "电影"
+    },
+    {
+      "raw_hot": 1493644,
+      "num": 1493644,
+      "word": "朝鲜祖国统一民主主义战线中央委员会解散",
+      "onboard_time": 1711285580,
+      "rank": 4,
+      "category": "国外时政"
     },
     {
       "raw_hot": 1487774,
@@ -3529,14 +3545,6 @@
       "onboard_time": 1709959531,
       "rank": 3,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1268570,
-      "num": 392602,
-      "word": "女子实名举报年幼时遭亲生父亲多次强奸",
-      "onboard_time": 1711283659,
-      "rank": 31,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1266697,
@@ -9073,14 +9081,6 @@
       "onboard_time": 1709616514,
       "rank": 17,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 736929,
-      "num": 736929,
-      "word": "朝鲜祖国统一民主主义战线中央委员会解散",
-      "onboard_time": 1711285580,
-      "rank": 4,
-      "category": "国外时政"
     },
     {
       "raw_hot": 736470,
@@ -16355,6 +16355,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 485133,
+      "num": 485133,
+      "word": "裴珠泫与中国粉丝双向奔赴",
+      "onboard_time": 1711284619,
+      "rank": 6,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 484669,
       "num": 328154,
       "word": "男子常熬夜致眼睛成80岁状态",
@@ -16769,6 +16777,14 @@
       "onboard_time": 1710655951,
       "rank": 16,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 474394,
+      "num": 474394,
+      "word": "追风者破2了",
+      "onboard_time": 1711285279,
+      "rank": 9,
+      "category": "剧集"
     },
     {
       "raw_hot": 474215,
@@ -17393,6 +17409,14 @@
       "onboard_time": 1711247360,
       "rank": 45,
       "category": "财经"
+    },
+    {
+      "raw_hot": 460183,
+      "num": 374938,
+      "word": "林更新是怎么做到不笑场的",
+      "onboard_time": 1711286240,
+      "rank": 30,
+      "category": "剧集"
     },
     {
       "raw_hot": 460030,
@@ -18241,14 +18265,6 @@
       "onboard_time": 1709477252,
       "rank": 8,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 440434,
-      "num": 440434,
-      "word": "裴珠泫与中国粉丝双向奔赴",
-      "onboard_time": 1711284619,
-      "rank": 6,
-      "category": "艺人"
     },
     {
       "raw_hot": 440377,
@@ -19129,6 +19145,14 @@
       "onboard_time": 1709699493,
       "rank": 46,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 421391,
+      "num": 421391,
+      "word": "特鲁姆普10比4丁俊晖",
+      "onboard_time": 1711286240,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 421333,
@@ -20384,14 +20408,6 @@
       "word": "李小冉当时害怕极了",
       "onboard_time": 1711067661,
       "rank": 14,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 393567,
-      "num": 393567,
-      "word": "追风者破2了",
-      "onboard_time": 1711285279,
-      "rank": 9,
       "category": "剧集"
     },
     {
@@ -21945,6 +21961,14 @@
       "onboard_time": 1710584133,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 365996,
+      "num": 365996,
+      "word": "AG对战WB",
+      "onboard_time": 1711283840,
+      "rank": 14,
+      "category": "电竞"
     },
     {
       "raw_hot": 365965,
@@ -24179,14 +24203,6 @@
       "category": "综艺,综艺"
     },
     {
-      "raw_hot": 325847,
-      "num": 325847,
-      "word": "AG对战WB",
-      "onboard_time": 1711283840,
-      "rank": 14,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 325718,
       "num": 325718,
       "word": "孙颖莎世界排名第一",
@@ -24465,6 +24481,14 @@
       "onboard_time": 1709985813,
       "rank": 6,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 320636,
+      "num": 292558,
+      "word": "女子卖藕收到中国儿童银行5元钞",
+      "onboard_time": 1711284141,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 320537,
@@ -26257,14 +26281,6 @@
       "onboard_time": 1709390735,
       "rank": 32,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 297822,
-      "num": 233207,
-      "word": "女子卖藕收到中国儿童银行5元钞",
-      "onboard_time": 1711284141,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 297816,
@@ -32803,6 +32819,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 232925,
+      "num": 232925,
+      "word": "怀孕会加速衰老约增加2岁",
+      "onboard_time": 1711287080,
+      "rank": 26,
+      "category": "母婴育儿"
+    },
+    {
       "raw_hot": 232908,
       "num": 232908,
       "word": "张雨绮理想的婚姻状态是分房睡",
@@ -34097,6 +34121,14 @@
       "onboard_time": 1709971350,
       "rank": 30,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 224038,
+      "num": 224038,
+      "word": "小日子",
+      "onboard_time": 1709948849,
+      "rank": 34,
+      "category": "剧集"
     },
     {
       "raw_hot": 223867,
@@ -36433,14 +36465,6 @@
       "onboard_time": 1710407552,
       "rank": 21,
       "category": "互联网,网红"
-    },
-    {
-      "raw_hot": 211515,
-      "num": 213721,
-      "word": "小日子",
-      "onboard_time": 1709948849,
-      "rank": 34,
-      "category": "剧集"
     },
     {
       "raw_hot": 211480,
@@ -40739,14 +40763,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 194212,
-      "num": 194212,
-      "word": "林更新是怎么做到不笑场的",
-      "onboard_time": 1711286240,
-      "rank": 30,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 194188,
       "num": 194188,
       "word": "你想活出怎样的人生",
@@ -41449,6 +41465,14 @@
       "onboard_time": 1710641194,
       "rank": 31,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 191582,
+      "num": 191582,
+      "word": "强忍泪水等于慢性自杀",
+      "onboard_time": 1711285820,
+      "rank": 43,
+      "category": "科学科普"
     },
     {
       "raw_hot": 191551,
@@ -50547,6 +50571,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 155393,
+      "num": 155393,
+      "word": "鞠婧祎夸刘学义吻技",
+      "onboard_time": 1711286060,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 155369,
       "num": 155369,
       "word": "Ning质疑霸哥开挂",
@@ -50729,6 +50761,14 @@
       "onboard_time": 1709534547,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 154769,
+      "num": 154769,
+      "word": "毛孔粗大如何改善",
+      "onboard_time": 1711286300,
+      "rank": 40,
+      "category": "美妆"
     },
     {
       "raw_hot": 154665,
@@ -51939,6 +51979,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 150377,
+      "num": 150377,
+      "word": "特鲁姆普世界公开赛夺冠",
+      "onboard_time": 1711287141,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 150368,
       "num": 150368,
       "word": "为了带饭不洗碗能有多拼",
@@ -53105,6 +53153,14 @@
       "onboard_time": 1710082173,
       "rank": 40,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 145649,
+      "num": 145649,
+      "word": "AG二比零领先",
+      "onboard_time": 1711287199,
+      "rank": 46,
+      "category": "电竞"
     },
     {
       "raw_hot": 145635,
@@ -54899,14 +54955,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 139062,
-      "num": 139062,
-      "word": "强忍泪水等于慢性自杀",
-      "onboard_time": 1711285820,
-      "rank": 43,
-      "category": "科学科普"
-    },
-    {
       "raw_hot": 139037,
       "num": 139037,
       "word": "詹姆斯距离4万分还差9分",
@@ -56187,14 +56235,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 134677,
-      "num": 134677,
-      "word": "鞠婧祎夸刘学义吻技",
-      "onboard_time": 1711286060,
-      "rank": 46,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 134647,
       "num": 209696,
       "word": "广东省考行测",
@@ -56473,14 +56513,6 @@
       "onboard_time": 1710558513,
       "rank": 39,
       "category": "美食"
-    },
-    {
-      "raw_hot": 133781,
-      "num": 133781,
-      "word": "特鲁姆普10比4丁俊晖",
-      "onboard_time": 1711286240,
-      "rank": 47,
-      "category": "体育"
     },
     {
       "raw_hot": 133769,

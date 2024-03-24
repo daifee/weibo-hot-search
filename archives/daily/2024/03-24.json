@@ -1,6 +1,6 @@
 {
   "startTime": 1711210803824,
-  "endTime": 1711286310195,
+  "endTime": 1711287307475,
   "band_list": [
     {
       "raw_hot": 3435224,
@@ -59,6 +59,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1655298,
+      "num": 406827,
+      "word": "女子实名举报年幼时遭亲生父亲多次强奸",
+      "onboard_time": 1711283659,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1582845,
       "num": 1582845,
       "word": "王诗龄砂锅铺满了黑松露",
@@ -75,6 +83,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1493644,
+      "num": 1493644,
+      "word": "朝鲜祖国统一民主主义战线中央委员会解散",
+      "onboard_time": 1711285580,
+      "rank": 4,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 1338266,
       "num": 1338266,
       "word": "涉黄AI换脸案有人用暗恋女生换脸",
@@ -89,14 +105,6 @@
       "onboard_time": 1711254380,
       "rank": 13,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1268570,
-      "num": 392602,
-      "word": "女子实名举报年幼时遭亲生父亲多次强奸",
-      "onboard_time": 1711283659,
-      "rank": 31,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1251020,
@@ -321,14 +329,6 @@
       "onboard_time": 1711276039,
       "rank": 45,
       "category": "科学科普"
-    },
-    {
-      "raw_hot": 736929,
-      "num": 736929,
-      "word": "朝鲜祖国统一民主主义战线中央委员会解散",
-      "onboard_time": 1711285580,
-      "rank": 4,
-      "category": "国外时政"
     },
     {
       "raw_hot": 731282,
@@ -603,6 +603,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 485133,
+      "num": 485133,
+      "word": "裴珠泫与中国粉丝双向奔赴",
+      "onboard_time": 1711284619,
+      "rank": 6,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 484107,
       "num": 484107,
       "word": "夏之光翟潇闻 嗑到了",
@@ -625,6 +633,14 @@
       "onboard_time": 1711250660,
       "rank": 32,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 474394,
+      "num": 474394,
+      "word": "追风者破2了",
+      "onboard_time": 1711285279,
+      "rank": 9,
+      "category": "剧集"
     },
     {
       "raw_hot": 472689,
@@ -657,6 +673,14 @@
       "onboard_time": 1711247360,
       "rank": 45,
       "category": "财经"
+    },
+    {
+      "raw_hot": 460183,
+      "num": 374938,
+      "word": "林更新是怎么做到不笑场的",
+      "onboard_time": 1711286240,
+      "rank": 30,
+      "category": "剧集"
     },
     {
       "raw_hot": 457054,
@@ -699,14 +723,6 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 440434,
-      "num": 440434,
-      "word": "裴珠泫与中国粉丝双向奔赴",
-      "onboard_time": 1711284619,
-      "rank": 6,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 440270,
       "num": 440270,
       "word": "苹果高管一家四口被撞身亡",
@@ -737,6 +753,14 @@
       "onboard_time": 1711271900,
       "rank": 22,
       "category": "演出"
+    },
+    {
+      "raw_hot": 421391,
+      "num": 421391,
+      "word": "特鲁姆普10比4丁俊晖",
+      "onboard_time": 1711286240,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 420705,
@@ -795,14 +819,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 393567,
-      "num": 393567,
-      "word": "追风者破2了",
-      "onboard_time": 1711285279,
-      "rank": 9,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 387274,
       "num": 342523,
       "word": "被辞退的实习生在大群发的消息",
@@ -851,6 +867,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 365996,
+      "num": 365996,
+      "word": "AG对战WB",
+      "onboard_time": 1711283840,
+      "rank": 14,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 363096,
       "num": 363096,
       "word": "上海打雷",
@@ -865,6 +889,14 @@
       "onboard_time": 1711282759,
       "rank": 18,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 358942,
+      "num": 358942,
+      "word": "眼泪女王",
+      "onboard_time": 1711200981,
+      "rank": 25,
+      "category": "剧集"
     },
     {
       "raw_hot": 357207,
@@ -955,12 +987,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 325847,
-      "num": 325847,
-      "word": "AG对战WB",
-      "onboard_time": 1711283840,
-      "rank": 14,
-      "category": "电竞"
+      "raw_hot": 320636,
+      "num": 292558,
+      "word": "女子卖藕收到中国儿童银行5元钞",
+      "onboard_time": 1711284141,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 307358,
@@ -1009,14 +1041,6 @@
       "onboard_time": 1711226712,
       "rank": 11,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 297822,
-      "num": 233207,
-      "word": "女子卖藕收到中国儿童银行5元钞",
-      "onboard_time": 1711284141,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 297503,
@@ -1096,14 +1120,6 @@
       "word": "三十九二十八开机",
       "onboard_time": 1711266499,
       "rank": 26,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 275686,
-      "num": 234248,
-      "word": "眼泪女王",
-      "onboard_time": 1711200981,
-      "rank": 25,
       "category": "剧集"
     },
     {
@@ -1323,6 +1339,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 232925,
+      "num": 232925,
+      "word": "怀孕会加速衰老约增加2岁",
+      "onboard_time": 1711287080,
+      "rank": 26,
+      "category": "母婴育儿"
+    },
+    {
       "raw_hot": 232821,
       "num": 232821,
       "word": "喜茶解聘倒卖周边员工",
@@ -1377,6 +1401,14 @@
       "onboard_time": 1711263619,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 224038,
+      "num": 224038,
+      "word": "小日子",
+      "onboard_time": 1711284380,
+      "rank": 29,
+      "category": "剧集"
     },
     {
       "raw_hot": 223424,
@@ -1603,22 +1635,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 194223,
-      "num": 194223,
-      "word": "小日子",
-      "onboard_time": 1711284380,
-      "rank": 29,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 194212,
-      "num": 194212,
-      "word": "林更新是怎么做到不笑场的",
-      "onboard_time": 1711286240,
-      "rank": 30,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 194104,
       "num": 194104,
       "word": "难哄",
@@ -1657,6 +1673,14 @@
       "onboard_time": 1711279159,
       "rank": 34,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 191582,
+      "num": 191582,
+      "word": "强忍泪水等于慢性自杀",
+      "onboard_time": 1711285820,
+      "rank": 43,
+      "category": "科学科普"
     },
     {
       "raw_hot": 190726,
@@ -2003,6 +2027,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 155393,
+      "num": 155393,
+      "word": "鞠婧祎夸刘学义吻技",
+      "onboard_time": 1711286060,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 155266,
       "num": 155266,
       "word": "陈楚生粉丝吃的也太好了吧",
@@ -2017,6 +2049,14 @@
       "onboard_time": 1711263077,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 154769,
+      "num": 154769,
+      "word": "毛孔粗大如何改善",
+      "onboard_time": 1711286300,
+      "rank": 40,
+      "category": "美妆"
     },
     {
       "raw_hot": 153152,
@@ -2059,6 +2099,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 150377,
+      "num": 150377,
+      "word": "特鲁姆普世界公开赛夺冠",
+      "onboard_time": 1711287141,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 149839,
       "num": 149839,
       "word": "根据我的微博 判断我的MBTI",
@@ -2081,6 +2129,14 @@
       "onboard_time": 1711199300,
       "rank": 43,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 145649,
+      "num": 145649,
+      "word": "AG二比零领先",
+      "onboard_time": 1711287199,
+      "rank": 46,
+      "category": "电竞"
     },
     {
       "raw_hot": 144892,
@@ -2153,14 +2209,6 @@
       "onboard_time": 1711274179,
       "rank": 39,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 139062,
-      "num": 139062,
-      "word": "强忍泪水等于慢性自杀",
-      "onboard_time": 1711285820,
-      "rank": 43,
-      "category": "科学科普"
     },
     {
       "raw_hot": 138805,
@@ -2241,22 +2289,6 @@
       "onboard_time": 1711264639,
       "rank": 46,
       "category": "情感"
-    },
-    {
-      "raw_hot": 134677,
-      "num": 134677,
-      "word": "鞠婧祎夸刘学义吻技",
-      "onboard_time": 1711286060,
-      "rank": 46,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 133781,
-      "num": 133781,
-      "word": "特鲁姆普10比4丁俊晖",
-      "onboard_time": 1711286240,
-      "rank": 47,
-      "category": "体育"
     },
     {
       "raw_hot": 133468,
@@ -2611,8 +2643,8 @@
       "category": "动漫,网红"
     },
     {
-      "raw_hot": 81851,
-      "num": 775922,
+      "raw_hot": 94619,
+      "num": 813211,
       "word": "花花盛开的中国春意拉满",
       "onboard_time": 1711282880,
       "rank": 2,
