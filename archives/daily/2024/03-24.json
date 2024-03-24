@@ -1,6 +1,6 @@
 {
   "startTime": 1711210803824,
-  "endTime": 1711254871132,
+  "endTime": 1711257395567,
   "band_list": [
     {
       "raw_hot": 3435224,
@@ -11,6 +11,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1886573,
+      "num": 592096,
+      "word": "台湾",
+      "onboard_time": 1711255638,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1764453,
       "num": 461251,
       "word": "莫斯科恐袭中国贸易参展商感到进退维谷",
@@ -19,8 +27,8 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 1718565,
-      "num": 1718565,
+      "raw_hot": 1744705,
+      "num": 1744705,
       "word": "李菲儿扣了250分",
       "onboard_time": 1711251260,
       "rank": 1,
@@ -32,6 +40,22 @@
       "word": "涉黄AI换脸案有人用暗恋女生换脸",
       "onboard_time": 1711237996,
       "rank": 0,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1292964,
+      "num": 1017155,
+      "word": "赵奕欢回怼李菲儿",
+      "onboard_time": 1711254380,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 1263242,
+      "num": 1263242,
+      "word": "台湾一男子持枪朝派出所门口扫射",
+      "onboard_time": 1711254919,
+      "rank": 3,
       "category": "社会新闻"
     },
     {
@@ -51,20 +75,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1017677,
+      "num": 1017677,
+      "word": "中国各省第一大姓",
+      "onboard_time": 1711254019,
+      "rank": 30,
+      "category": "科学科普"
+    },
+    {
+      "raw_hot": 1004662,
+      "num": 1004662,
+      "word": "乌克兰全境响防空警报",
+      "onboard_time": 1711253479,
+      "rank": 5,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 981811,
       "num": 459590,
       "word": "金秀贤公司回应",
       "onboard_time": 1711240218,
       "rank": 11,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 935675,
-      "num": 935675,
-      "word": "乌克兰全境响防空警报",
-      "onboard_time": 1711253479,
-      "rank": 5,
-      "category": "国外时政"
     },
     {
       "raw_hot": 828870,
@@ -163,6 +195,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 608054,
+      "num": 608054,
+      "word": "男子捡17岁女生手机归还反被讹200",
+      "onboard_time": 1711254499,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 601427,
       "num": 601427,
       "word": "林更新被100多条信息轰炸求剧透",
@@ -188,7 +228,7 @@
     },
     {
       "raw_hot": 565982,
-      "num": 327913,
+      "num": 367643,
       "word": "普京承诺将惩罚莫斯科恐袭幕后黑手",
       "onboard_time": 1711250599,
       "rank": 27,
@@ -196,7 +236,7 @@
     },
     {
       "raw_hot": 558933,
-      "num": 317178,
+      "num": 396128,
       "word": "金秀贤ins评论区",
       "onboard_time": 1711250838,
       "rank": 23,
@@ -251,14 +291,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 485848,
-      "num": 295272,
-      "word": "中国各省第一大姓",
-      "onboard_time": 1711254019,
-      "rank": 30,
-      "category": "科学科普"
-    },
-    {
       "raw_hot": 482441,
       "num": 482441,
       "word": "金秀贤哭戏",
@@ -273,6 +305,14 @@
       "onboard_time": 1711250660,
       "rank": 32,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 472689,
+      "num": 472689,
+      "word": "金晨一个睫毛夹用了17年",
+      "onboard_time": 1711255518,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 469240,
@@ -304,6 +344,14 @@
       "word": "邓超在春晚还是太收敛了",
       "onboard_time": 1711204522,
       "rank": 15,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 454201,
+      "num": 454201,
+      "word": "王俊凯被强迫摆拍",
+      "onboard_time": 1711254619,
+      "rank": 27,
       "category": "艺人"
     },
     {
@@ -363,14 +411,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 400351,
-      "num": 294421,
-      "word": "赵奕欢回怼李菲儿",
-      "onboard_time": 1711254380,
-      "rank": 13,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 395321,
       "num": 354927,
       "word": "郑合惠子回复粉丝",
@@ -411,6 +451,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 359044,
+      "num": 359044,
+      "word": "白敬亭杀回现偶了",
+      "onboard_time": 1711254919,
+      "rank": 15,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 357207,
       "num": 258736,
       "word": "90后女孩存下100万后买了房",
@@ -435,6 +483,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 341015,
+      "num": 341015,
+      "word": "天水机场免费麻辣烫专线",
+      "onboard_time": 1711253720,
+      "rank": 32,
+      "category": "美食"
+    },
+    {
       "raw_hot": 340645,
       "num": 363697,
       "word": "俄恐袭嫌疑人称有人出100万卢布买凶",
@@ -451,12 +507,28 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 330058,
+      "num": 330058,
+      "word": "俄罗斯男子赤手空拳打晕恐怖分子",
+      "onboard_time": 1711256479,
+      "rank": 17,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 307358,
       "num": 307358,
       "word": "普京宣布24日为俄罗斯全民哀悼日",
       "onboard_time": 1711200021,
       "rank": 18,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 306846,
+      "num": 306846,
+      "word": "赵露思曾黎素颜合照",
+      "onboard_time": 1711257080,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 302813,
@@ -515,6 +587,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 281908,
+      "num": 275197,
+      "word": "租下了连中介都嫌弃的房子",
+      "onboard_time": 1711255159,
+      "rank": 20,
+      "category": "情感"
+    },
+    {
       "raw_hot": 275686,
       "num": 234248,
       "word": "眼泪女王",
@@ -547,12 +627,28 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 261077,
+      "num": 261077,
+      "word": "为什么女装的退货率高",
+      "onboard_time": 1711254739,
+      "rank": 44,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 259690,
       "num": 247458,
       "word": "如果让你嫁给一个古代人物",
       "onboard_time": 1711250779,
       "rank": 35,
       "category": "情感"
+    },
+    {
+      "raw_hot": 258597,
+      "num": 258597,
+      "word": "供应链确认华为P70手机已开始供货",
+      "onboard_time": 1711255938,
+      "rank": 23,
+      "category": "数码"
     },
     {
       "raw_hot": 255252,
@@ -587,12 +683,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 247520,
-      "num": 247520,
-      "word": "天水机场免费麻辣烫专线",
-      "onboard_time": 1711253720,
-      "rank": 32,
-      "category": "美食"
+      "raw_hot": 247272,
+      "num": 247272,
+      "word": "鹿晗跳自己的歌输给陈赫",
+      "onboard_time": 1711256359,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 241647,
@@ -667,6 +763,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 220165,
+      "num": 190238,
+      "word": "雷军回应小米SU7为何始终不公布价格",
+      "onboard_time": 1711256660,
+      "rank": 30,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 219109,
       "num": 219109,
       "word": "学校里男女生断崖式身高差",
@@ -715,6 +819,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 202772,
+      "num": 202772,
+      "word": "最适合定居的城市",
+      "onboard_time": 1711256720,
+      "rank": 28,
+      "category": "情感"
+    },
+    {
       "raw_hot": 201162,
       "num": 201162,
       "word": "德善身上发光的地方",
@@ -755,12 +867,12 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 195733,
-      "num": 195733,
-      "word": "王俊凯被强迫摆拍",
-      "onboard_time": 1711254619,
-      "rank": 27,
-      "category": "艺人"
+      "raw_hot": 189539,
+      "num": 189539,
+      "word": "王者荣耀",
+      "onboard_time": 1711257200,
+      "rank": 31,
+      "category": "游戏"
     },
     {
       "raw_hot": 186159,
@@ -769,6 +881,14 @@
       "onboard_time": 1711176439,
       "rank": 44,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 185455,
+      "num": 185455,
+      "word": "王者荣耀战队星元计划",
+      "onboard_time": 1711255518,
+      "rank": 32,
+      "category": "游戏"
     },
     {
       "raw_hot": 183919,
@@ -851,6 +971,14 @@
       "category": "国外时政,军事"
     },
     {
+      "raw_hot": 165383,
+      "num": 165383,
+      "word": "五哈节目组辟谣网传录制安排",
+      "onboard_time": 1711254800,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 164631,
       "num": 164631,
       "word": "金莎化丑妆和男朋友视频",
@@ -899,6 +1027,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 161202,
+      "num": 161202,
+      "word": "维斯塔潘退赛",
+      "onboard_time": 1711255159,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 157756,
       "num": 157756,
       "word": "跟父母谎报价格最狠的一次",
@@ -929,6 +1065,14 @@
       "onboard_time": 1711251858,
       "rank": 35,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 152882,
+      "num": 152882,
+      "word": "库克体验世界首款iPhone光追手游",
+      "onboard_time": 1711256120,
+      "rank": 38,
+      "category": "数码,游戏"
     },
     {
       "raw_hot": 152418,
@@ -1075,6 +1219,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 124984,
+      "num": 124984,
+      "word": "天水首届麻辣烫文化节",
+      "onboard_time": 1711257139,
+      "rank": 46,
+      "category": "美食"
+    },
+    {
       "raw_hot": 124687,
       "num": 124687,
       "word": "普京就恐怖袭击事件发表电视讲话",
@@ -1099,14 +1251,6 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 119930,
-      "num": 119930,
-      "word": "为什么女装的退货率高",
-      "onboard_time": 1711254739,
-      "rank": 44,
-      "category": "时尚"
-    },
-    {
       "raw_hot": 119875,
       "num": 119875,
       "word": "你完全可以相信硬核防晒",
@@ -1129,14 +1273,6 @@
       "onboard_time": 1711249159,
       "rank": 44,
       "category": "体育"
-    },
-    {
-      "raw_hot": 114921,
-      "num": 114921,
-      "word": "五哈节目组辟谣网传录制安排",
-      "onboard_time": 1711254800,
-      "rank": 45,
-      "category": "综艺"
     },
     {
       "raw_hot": 113700,
@@ -1185,14 +1321,6 @@
       "onboard_time": 1711247780,
       "rank": 49,
       "category": "情感"
-    },
-    {
-      "raw_hot": 107850,
-      "num": 107850,
-      "word": "男子捡17岁女生手机归还反被讹200",
-      "onboard_time": 1711254499,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 104590,
