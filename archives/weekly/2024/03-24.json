@@ -1,6 +1,6 @@
 {
   "startTime": 1711210803824,
-  "endTime": 1711261307883,
+  "endTime": 1711262039001,
   "band_list": [
     {
       "raw_hot": 3435224,
@@ -17,6 +17,14 @@
       "onboard_time": 1711255638,
       "rank": 10,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1923566,
+      "num": 1923566,
+      "word": "首个国产女性向3A游戏",
+      "onboard_time": 1711258939,
+      "rank": 1,
+      "category": "游戏"
     },
     {
       "raw_hot": 1764453,
@@ -41,14 +49,6 @@
       "onboard_time": 1711254919,
       "rank": 3,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1354236,
-      "num": 1354236,
-      "word": "首个国产女性向3A游戏",
-      "onboard_time": 1711258939,
-      "rank": 1,
-      "category": "游戏"
     },
     {
       "raw_hot": 1338266,
@@ -411,6 +411,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 429483,
+      "num": 429483,
+      "word": "明兰终究变成了红狼",
+      "onboard_time": 1711260740,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 427678,
       "num": 427678,
       "word": "南北",
@@ -499,20 +507,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 366453,
+      "num": 366453,
+      "word": "雷军回应小米SU7为何始终不公布价格",
+      "onboard_time": 1711256660,
+      "rank": 30,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 363096,
       "num": 363096,
       "word": "上海打雷",
       "onboard_time": 1711205182,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 362518,
-      "num": 362518,
-      "word": "雷军回应小米SU7为何始终不公布价格",
-      "onboard_time": 1711256660,
-      "rank": 30,
-      "category": "汽车"
     },
     {
       "raw_hot": 357207,
@@ -659,6 +667,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 275093,
+      "num": 275093,
+      "word": "姓李的人今天一定要拜老子",
+      "onboard_time": 1711260439,
+      "rank": 24,
+      "category": "情感"
+    },
+    {
       "raw_hot": 271094,
       "num": 271094,
       "word": "林依晨新版你",
@@ -707,6 +723,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 259493,
+      "num": 259493,
+      "word": "副教授26岁学生比自己还大",
+      "onboard_time": 1711261038,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 258897,
       "num": 258897,
       "word": "最适合定居的城市",
@@ -729,6 +753,14 @@
       "onboard_time": 1711243639,
       "rank": 26,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 249688,
+      "num": 249688,
+      "word": "五哈瞒着鹿晗请来安叔",
+      "onboard_time": 1711259959,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 249550,
@@ -763,12 +795,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 245790,
-      "num": 245790,
-      "word": "姓李的人今天一定要拜老子",
-      "onboard_time": 1711260439,
-      "rank": 24,
-      "category": "情感"
+      "raw_hot": 247172,
+      "num": 247172,
+      "word": "中国气象局发布大地磁暴预警",
+      "onboard_time": 1711261399,
+      "rank": 27,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 241647,
@@ -776,14 +808,6 @@
       "word": "五哈",
       "onboard_time": 1711252340,
       "rank": 18,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 238555,
-      "num": 238555,
-      "word": "五哈瞒着鹿晗请来安叔",
-      "onboard_time": 1711259959,
-      "rank": 25,
       "category": "综艺"
     },
     {
@@ -801,6 +825,14 @@
       "onboard_time": 1711198701,
       "rank": 24,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 233578,
+      "num": 233578,
+      "word": "Jessi认出了六年没见的粉丝",
+      "onboard_time": 1711261939,
+      "rank": 28,
+      "category": "演出"
     },
     {
       "raw_hot": 232821,
@@ -851,6 +883,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 221944,
+      "num": 221944,
+      "word": "张天爱腰臀比例",
+      "onboard_time": 1711257919,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 219109,
       "num": 219109,
       "word": "学校里男女生断崖式身高差",
@@ -873,14 +913,6 @@
       "onboard_time": 1711246337,
       "rank": 29,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 210856,
-      "num": 210856,
-      "word": "张天爱腰臀比例",
-      "onboard_time": 1711257919,
-      "rank": 32,
-      "category": "艺人"
     },
     {
       "raw_hot": 208813,
@@ -913,6 +945,14 @@
       "onboard_time": 1711252578,
       "rank": 25,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 200428,
+      "num": 200428,
+      "word": "承认父母不爱自己并不是很难",
+      "onboard_time": 1711261158,
+      "rank": 43,
+      "category": "情感"
     },
     {
       "raw_hot": 199230,
@@ -955,12 +995,28 @@
       "category": "体育"
     },
     {
-      "raw_hot": 193252,
-      "num": 193252,
-      "word": "明兰终究变成了红狼",
-      "onboard_time": 1711260740,
-      "rank": 30,
-      "category": "剧集"
+      "raw_hot": 193204,
+      "num": 193204,
+      "word": "张杰麦克风是用女儿名字命名的",
+      "onboard_time": 1711261399,
+      "rank": 33,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 191670,
+      "num": 191670,
+      "word": "金善禹金发",
+      "onboard_time": 1711261399,
+      "rank": 34,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 187797,
+      "num": 187797,
+      "word": "P人整理桌子",
+      "onboard_time": 1711258818,
+      "rank": 34,
+      "category": "幽默"
     },
     {
       "raw_hot": 187318,
@@ -995,6 +1051,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 182596,
+      "num": 182596,
+      "word": "爱与不爱真的很明显",
+      "onboard_time": 1711260799,
+      "rank": 42,
+      "category": "情感"
+    },
+    {
       "raw_hot": 177822,
       "num": 177822,
       "word": "邻居WiFi名字是想来我们家玩",
@@ -1008,14 +1072,6 @@
       "word": "如何区分自己长相是普通还是丑",
       "onboard_time": 1711197499,
       "rank": 33,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 176350,
-      "num": 176350,
-      "word": "P人整理桌子",
-      "onboard_time": 1711258818,
-      "rank": 34,
       "category": "幽默"
     },
     {
@@ -1089,6 +1145,14 @@
       "onboard_time": 1711197740,
       "rank": 38,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 163687,
+      "num": 163687,
+      "word": "DYG对战XYG",
+      "onboard_time": 1711261700,
+      "rank": 39,
+      "category": "电竞"
     },
     {
       "raw_hot": 162690,
@@ -1363,36 +1427,12 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 123040,
-      "num": 123040,
-      "word": "副教授26岁学生比自己还大",
-      "onboard_time": 1711261038,
-      "rank": 41,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 121997,
-      "num": 121997,
-      "word": "爱与不爱真的很明显",
-      "onboard_time": 1711260799,
-      "rank": 42,
-      "category": "情感"
-    },
-    {
       "raw_hot": 121148,
       "num": 121148,
       "word": "拂容君七宗罪",
       "onboard_time": 1711258160,
       "rank": 42,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 121144,
-      "num": 121144,
-      "word": "承认父母不爱自己并不是很难",
-      "onboard_time": 1711261158,
-      "rank": 43,
-      "category": "情感"
     },
     {
       "raw_hot": 119959,
@@ -1497,6 +1537,14 @@
       "onboard_time": 1711247780,
       "rank": 49,
       "category": "情感"
+    },
+    {
+      "raw_hot": 108245,
+      "num": 108245,
+      "word": "猜猜我是谁 行不通的富二代",
+      "onboard_time": 1711261998,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 105889,
