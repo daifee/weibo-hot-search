@@ -1,10 +1,10 @@
 {
   "startTime": 1711210803824,
-  "endTime": 1711247195489,
+  "endTime": 1711247821434,
   "band_list": [
     {
-      "raw_hot": 1887041,
-      "num": 1887041,
+      "raw_hot": 3435224,
+      "num": 3435224,
       "word": "难哄官宣",
       "onboard_time": 1711246398,
       "rank": 0,
@@ -75,28 +75,28 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 731282,
-      "num": 731282,
-      "word": "俄方称已抓捕的恐袭者均为外国公民",
-      "onboard_time": 1711206800,
-      "rank": 3,
-      "category": "国外时政"
+      "raw_hot": 770630,
+      "num": 770630,
+      "word": "你愿意把5年寿命给自家狗狗吗",
+      "onboard_time": 1711243399,
+      "rank": 16,
+      "category": "情感"
     },
     {
-      "raw_hot": 724053,
-      "num": 724053,
+      "raw_hot": 741997,
+      "num": 741997,
       "word": "小林制药公司召回约30万份产品",
       "onboard_time": 1711243339,
       "rank": 9,
       "category": "社会新闻"
     },
     {
-      "raw_hot": 723694,
-      "num": 723694,
-      "word": "你愿意把5年寿命给自家狗狗吗",
-      "onboard_time": 1711243399,
-      "rank": 16,
-      "category": "情感"
+      "raw_hot": 731282,
+      "num": 731282,
+      "word": "俄方称已抓捕的恐袭者均为外国公民",
+      "onboard_time": 1711206800,
+      "rank": 3,
+      "category": "国外时政"
     },
     {
       "raw_hot": 701868,
@@ -147,6 +147,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 495201,
+      "num": 495201,
+      "word": "5岁女孩洗澡被烫伤面部严重水肿",
+      "onboard_time": 1711241839,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 489693,
       "num": 286373,
       "word": "中国留学生称有人在俄炒卖防弹衣",
@@ -163,20 +171,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 474271,
-      "num": 474271,
-      "word": "5岁女孩洗澡被烫伤面部严重水肿",
-      "onboard_time": 1711241839,
-      "rank": 23,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 469240,
       "num": 469240,
       "word": "难哄要官宣了",
       "onboard_time": 1711203021,
       "rank": 8,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 465078,
+      "num": 465078,
+      "word": "李清照是才女更是拽姐",
+      "onboard_time": 1711246398,
+      "rank": 12,
+      "category": "综艺"
     },
     {
       "raw_hot": 457054,
@@ -275,14 +283,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 361822,
-      "num": 361822,
-      "word": "李清照是才女更是拽姐",
-      "onboard_time": 1711246398,
-      "rank": 12,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 357207,
       "num": 258736,
       "word": "90后女孩存下100万后买了房",
@@ -379,6 +379,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 272202,
+      "num": 272202,
+      "word": "商场回应情侣霸占母婴室",
+      "onboard_time": 1711246279,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 261210,
       "num": 261210,
       "word": "无锡马拉松",
@@ -403,6 +411,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 237935,
+      "num": 237935,
+      "word": "向佐郭碧婷视频亲亲",
+      "onboard_time": 1711247538,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 235813,
       "num": 235813,
       "word": "王室专家称凯特因孩子推迟公布患癌",
@@ -417,6 +433,14 @@
       "onboard_time": 1711198701,
       "rank": 24,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 232821,
+      "num": 232821,
+      "word": "喜茶解聘倒卖周边员工",
+      "onboard_time": 1711242557,
+      "rank": 42,
+      "category": "美食"
     },
     {
       "raw_hot": 232808,
@@ -459,12 +483,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 214899,
-      "num": 214899,
-      "word": "喜茶解聘倒卖周边员工",
-      "onboard_time": 1711242557,
-      "rank": 42,
-      "category": "美食"
+      "raw_hot": 213717,
+      "num": 213717,
+      "word": "邓超说孙俪真过分",
+      "onboard_time": 1711246337,
+      "rank": 29,
+      "category": "综艺"
     },
     {
       "raw_hot": 208813,
@@ -481,6 +505,14 @@
       "onboard_time": 1711244719,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 199230,
+      "num": 199230,
+      "word": "五哈济南",
+      "onboard_time": 1711246999,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 197441,
@@ -507,20 +539,12 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 195198,
-      "num": 195198,
-      "word": "商场回应情侣霸占母婴室",
-      "onboard_time": 1711246279,
-      "rank": 28,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 191307,
-      "num": 191307,
-      "word": "邓超说孙俪真过分",
-      "onboard_time": 1711246337,
-      "rank": 29,
-      "category": "综艺"
+      "raw_hot": 187758,
+      "num": 187758,
+      "word": "人体中最不怕冷的器官是哪个",
+      "onboard_time": 1711247538,
+      "rank": 31,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 186159,
@@ -555,8 +579,8 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 174246,
-      "num": 174246,
+      "raw_hot": 176913,
+      "num": 176913,
       "word": "林俊杰粉丝收到猫眼退款",
       "onboard_time": 1711245379,
       "rank": 32,
@@ -635,6 +659,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 162016,
+      "num": 162016,
+      "word": "汉字是属于中国人独有的浪漫",
+      "onboard_time": 1711247181,
+      "rank": 49,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 161394,
+      "num": 161394,
+      "word": "想换工作应该先提离职还是先拿offer",
+      "onboard_time": 1711246697,
+      "rank": 40,
+      "category": "情感"
+    },
+    {
       "raw_hot": 161228,
       "num": 161228,
       "word": "billkin演唱会",
@@ -683,20 +723,20 @@
       "category": "运动健身"
     },
     {
-      "raw_hot": 139278,
-      "num": 139278,
-      "word": "五哈济南",
-      "onboard_time": 1711246999,
-      "rank": 39,
-      "category": "综艺"
+      "raw_hot": 139920,
+      "num": 139920,
+      "word": "当外甥女和男朋友第一次交流时",
+      "onboard_time": 1711247538,
+      "rank": 40,
+      "category": "幽默"
     },
     {
-      "raw_hot": 138518,
-      "num": 138518,
-      "word": "想换工作应该先提离职还是先拿offer",
-      "onboard_time": 1711246697,
-      "rank": 40,
-      "category": "情感"
+      "raw_hot": 138567,
+      "num": 138567,
+      "word": "肖战藏海传进京路透",
+      "onboard_time": 1711242738,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 138211,
@@ -705,14 +745,6 @@
       "onboard_time": 1711224851,
       "rank": 47,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 137505,
-      "num": 137505,
-      "word": "肖战藏海传进京路透",
-      "onboard_time": 1711242738,
-      "rank": 47,
-      "category": "剧集"
     },
     {
       "raw_hot": 137369,
@@ -729,6 +761,22 @@
       "onboard_time": 1711241959,
       "rank": 40,
       "category": "体育"
+    },
+    {
+      "raw_hot": 128013,
+      "num": 128013,
+      "word": "全明星或改为美国队vs世界队",
+      "onboard_time": 1711247479,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 126982,
+      "num": 126982,
+      "word": "星巴克创始人称对价格战不感兴趣",
+      "onboard_time": 1711247360,
+      "rank": 45,
+      "category": "财经"
     },
     {
       "raw_hot": 126396,
@@ -787,12 +835,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 114892,
+      "num": 114892,
+      "word": "眼泪女王收视率下跌",
+      "onboard_time": 1711247780,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 112203,
       "num": 112203,
       "word": "莫斯科恐袭悼念现场摆着许多玩偶",
       "onboard_time": 1711244180,
       "rank": 49,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 112185,
+      "num": 112185,
+      "word": "不敢想象坐上这车能有多快乐",
+      "onboard_time": 1711247599,
+      "rank": 48,
+      "category": "汽车"
     },
     {
       "raw_hot": 110856,
@@ -803,10 +867,10 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 107169,
-      "num": 107169,
-      "word": "汉字是属于中国人独有的浪漫",
-      "onboard_time": 1711247181,
+      "raw_hot": 109337,
+      "num": 109337,
+      "word": "背景图",
+      "onboard_time": 1711247780,
       "rank": 49,
       "category": "情感"
     },

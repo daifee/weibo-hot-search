@@ -1,6 +1,6 @@
 {
   "startTime": 1709223640991,
-  "endTime": 1711247195489,
+  "endTime": 1711247821434,
   "band_list": [
     {
       "raw_hot": 12728050,
@@ -193,6 +193,14 @@
       "onboard_time": 1710723814,
       "rank": 16,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 3435224,
+      "num": 3435224,
+      "word": "难哄官宣",
+      "onboard_time": 1711246398,
+      "rank": 0,
+      "category": "剧集"
     },
     {
       "raw_hot": 3421549,
@@ -1329,14 +1337,6 @@
       "onboard_time": 1710601838,
       "rank": 11,
       "category": "财经"
-    },
-    {
-      "raw_hot": 1887041,
-      "num": 1887041,
-      "word": "难哄官宣",
-      "onboard_time": 1711246398,
-      "rank": 0,
-      "category": "剧集"
     },
     {
       "raw_hot": 1885209,
@@ -8211,6 +8211,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 770630,
+      "num": 770630,
+      "word": "你愿意把5年寿命给自家狗狗吗",
+      "onboard_time": 1711243399,
+      "rank": 16,
+      "category": "情感"
+    },
+    {
       "raw_hot": 770372,
       "num": 770372,
       "word": "江西省考被曝有考生作弊",
@@ -8707,6 +8715,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 741997,
+      "num": 741997,
+      "word": "小林制药公司召回约30万份产品",
+      "onboard_time": 1711243339,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 741929,
       "num": 741929,
       "word": "刘亦菲又在撕嘴皮",
@@ -9112,22 +9128,6 @@
       "word": "淡人 浓人",
       "onboard_time": 1710134912,
       "rank": 27,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 724053,
-      "num": 724053,
-      "word": "小林制药公司召回约30万份产品",
-      "onboard_time": 1711243339,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 723694,
-      "num": 723694,
-      "word": "你愿意把5年寿命给自家狗狗吗",
-      "onboard_time": 1711243399,
-      "rank": 16,
       "category": "情感"
     },
     {
@@ -15467,6 +15467,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 495201,
+      "num": 495201,
+      "word": "5岁女孩洗澡被烫伤面部严重水肿",
+      "onboard_time": 1711241839,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 494848,
       "num": 494848,
       "word": "酱园弄杀青了",
@@ -16315,14 +16323,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 474271,
-      "num": 474271,
-      "word": "5岁女孩洗澡被烫伤面部严重水肿",
-      "onboard_time": 1711241839,
-      "rank": 23,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 474215,
       "num": 474215,
       "word": "花儿与少年好友记关键词",
@@ -16761,6 +16761,14 @@
       "onboard_time": 1710729455,
       "rank": 13,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 465078,
+      "num": 465078,
+      "word": "李清照是才女更是拽姐",
+      "onboard_time": 1711246398,
+      "rank": 12,
+      "category": "综艺"
     },
     {
       "raw_hot": 465057,
@@ -21561,14 +21569,6 @@
       "onboard_time": 1710388833,
       "rank": 21,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 361822,
-      "num": 361822,
-      "word": "李清照是才女更是拽姐",
-      "onboard_time": 1711246398,
-      "rank": 12,
-      "category": "综艺"
     },
     {
       "raw_hot": 361479,
@@ -27795,6 +27795,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 272202,
+      "num": 272202,
+      "word": "商场回应情侣霸占母婴室",
+      "onboard_time": 1711246279,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 272194,
       "num": 272194,
       "word": "我是女皇 请让道",
@@ -31355,6 +31363,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 237935,
+      "num": 237935,
+      "word": "向佐郭碧婷视频亲亲",
+      "onboard_time": 1711247538,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 237930,
       "num": 237930,
       "word": "BLG四人亮天使致敬angel",
@@ -31921,6 +31937,14 @@
       "onboard_time": 1709350649,
       "rank": 20,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 232821,
+      "num": 232821,
+      "word": "喜茶解聘倒卖周边员工",
+      "onboard_time": 1711242557,
+      "rank": 42,
+      "category": "美食"
     },
     {
       "raw_hot": 232818,
@@ -34827,14 +34851,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 214899,
-      "num": 214899,
-      "word": "喜茶解聘倒卖周边员工",
-      "onboard_time": 1711242557,
-      "rank": 42,
-      "category": "美食"
-    },
-    {
       "raw_hot": 214654,
       "num": 214654,
       "word": "你只是钱少而已",
@@ -35080,6 +35096,14 @@
       "word": "张予曦浪姐上班",
       "onboard_time": 1709526634,
       "rank": 33,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 213717,
+      "num": 213717,
+      "word": "邓超说孙俪真过分",
+      "onboard_time": 1711246337,
+      "rank": 29,
       "category": "综艺"
     },
     {
@@ -38291,6 +38315,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 199230,
+      "num": 199230,
+      "word": "五哈济南",
+      "onboard_time": 1711246999,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 199219,
       "num": 199219,
       "word": "林俊杰talking",
@@ -39435,14 +39467,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 195198,
-      "num": 195198,
-      "word": "商场回应情侣霸占母婴室",
-      "onboard_time": 1711246279,
-      "rank": 28,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 195173,
       "num": 183838,
       "word": "我和丁俊晖就差了一只猫",
@@ -40411,14 +40435,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 191307,
-      "num": 191307,
-      "word": "邓超说孙俪真过分",
-      "onboard_time": 1711246337,
-      "rank": 29,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 191302,
       "num": 191302,
       "word": "我们仨今日开播",
@@ -41361,6 +41377,14 @@
       "onboard_time": 1709447249,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 187758,
+      "num": 187758,
+      "word": "人体中最不怕冷的器官是哪个",
+      "onboard_time": 1711247538,
+      "rank": 31,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 187742,
@@ -43731,6 +43755,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 176913,
+      "num": 176913,
+      "word": "林俊杰粉丝收到猫眼退款",
+      "onboard_time": 1711245379,
+      "rank": 32,
+      "category": "演出"
+    },
+    {
       "raw_hot": 176907,
       "num": 176907,
       "word": "龙晶陶瓷事件大结局",
@@ -44425,14 +44457,6 @@
       "onboard_time": 1710827373,
       "rank": 36,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 174246,
-      "num": 174246,
-      "word": "林俊杰粉丝收到猫眼退款",
-      "onboard_time": 1711245379,
-      "rank": 32,
-      "category": "演出"
     },
     {
       "raw_hot": 174238,
@@ -47315,6 +47339,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 162016,
+      "num": 162016,
+      "word": "汉字是属于中国人独有的浪漫",
+      "onboard_time": 1711247181,
+      "rank": 49,
+      "category": "情感"
+    },
+    {
       "raw_hot": 161982,
       "num": 161982,
       "word": "18女孩摆摊3年免费教300人学会救人",
@@ -47472,6 +47504,14 @@
       "word": "为什么我们越来越不想和长辈交流",
       "onboard_time": 1710643470,
       "rank": 34,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 161394,
+      "num": 161394,
+      "word": "想换工作应该先提离职还是先拿offer",
+      "onboard_time": 1711246697,
+      "rank": 40,
       "category": "情感"
     },
     {
@@ -53307,6 +53347,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 139920,
+      "num": 139920,
+      "word": "当外甥女和男朋友第一次交流时",
+      "onboard_time": 1711247538,
+      "rank": 40,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 139908,
       "num": 139908,
       "word": "杨幂巴黎对镜自拍",
@@ -53441,14 +53489,6 @@
       "onboard_time": 1709467291,
       "rank": 37,
       "category": "作品衍生,情感"
-    },
-    {
-      "raw_hot": 139278,
-      "num": 139278,
-      "word": "五哈济南",
-      "onboard_time": 1711246999,
-      "rank": 39,
-      "category": "综艺"
     },
     {
       "raw_hot": 139261,
@@ -53627,6 +53667,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 138567,
+      "num": 138567,
+      "word": "肖战藏海传进京路透",
+      "onboard_time": 1711242738,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 138565,
       "num": 138565,
       "word": "很新的取群名方法",
@@ -53657,14 +53705,6 @@
       "onboard_time": 1709813493,
       "rank": 36,
       "category": "财经"
-    },
-    {
-      "raw_hot": 138518,
-      "num": 138518,
-      "word": "想换工作应该先提离职还是先拿offer",
-      "onboard_time": 1711246697,
-      "rank": 40,
-      "category": "情感"
     },
     {
       "raw_hot": 138501,
@@ -53953,14 +53993,6 @@
       "onboard_time": 1710031407,
       "rank": 35,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 137505,
-      "num": 137505,
-      "word": "肖战藏海传进京路透",
-      "onboard_time": 1711242738,
-      "rank": 47,
-      "category": "剧集"
     },
     {
       "raw_hot": 137460,
@@ -56499,6 +56531,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 128013,
+      "num": 128013,
+      "word": "全明星或改为美国队vs世界队",
+      "onboard_time": 1711247479,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 127973,
       "num": 127973,
       "word": "大家意外落水如何自救",
@@ -56673,6 +56713,14 @@
       "onboard_time": 1710044669,
       "rank": 37,
       "category": "体育"
+    },
+    {
+      "raw_hot": 126982,
+      "num": 126982,
+      "word": "星巴克创始人称对价格战不感兴趣",
+      "onboard_time": 1711247360,
+      "rank": 45,
+      "category": "财经"
     },
     {
       "raw_hot": 126980,
@@ -59163,6 +59211,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 114892,
+      "num": 114892,
+      "word": "眼泪女王收视率下跌",
+      "onboard_time": 1711247780,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 114717,
       "num": 114717,
       "word": "胡锡进谈SpaceX星舰第三次试飞",
@@ -59731,6 +59787,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 112185,
+      "num": 112185,
+      "word": "不敢想象坐上这车能有多快乐",
+      "onboard_time": 1711247599,
+      "rank": 48,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 112184,
       "num": 112184,
       "word": "湖勇大战",
@@ -60171,6 +60235,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 109337,
+      "num": 109337,
+      "word": "背景图",
+      "onboard_time": 1711247780,
+      "rank": 49,
+      "category": "情感"
+    },
+    {
       "raw_hot": 109246,
       "num": 109246,
       "word": "集中整治自媒体造热点蹭热点",
@@ -60529,14 +60601,6 @@
       "onboard_time": 1710001228,
       "rank": 48,
       "category": "运动健身"
-    },
-    {
-      "raw_hot": 107169,
-      "num": 107169,
-      "word": "汉字是属于中国人独有的浪漫",
-      "onboard_time": 1711247181,
-      "rank": 49,
-      "category": "情感"
     },
     {
       "raw_hot": 107161,
