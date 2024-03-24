@@ -1,6 +1,6 @@
 {
   "startTime": 1711297217204,
-  "endTime": 1711298058936,
+  "endTime": 1711300507821,
   "band_list": [
     {
       "raw_hot": 2081066,
@@ -107,6 +107,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 366783,
+      "num": 230303,
+      "word": "Cindy去走秀了",
+      "onboard_time": 1711298477,
+      "rank": 11,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 358301,
       "num": 358301,
       "word": "小日子 朱大力去世",
@@ -171,6 +179,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 240652,
+      "num": 240652,
+      "word": "印尼偶遇花少节目组",
+      "onboard_time": 1711297218,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 229269,
       "num": 229269,
       "word": "港媒镜头下的赵露思生图",
@@ -201,14 +217,6 @@
       "onboard_time": 1711288520,
       "rank": 27,
       "category": "自然"
-    },
-    {
-      "raw_hot": 200049,
-      "num": 200049,
-      "word": "印尼偶遇花少节目组",
-      "onboard_time": 1711297218,
-      "rank": 25,
-      "category": "综艺"
     },
     {
       "raw_hot": 195962,
@@ -387,7 +395,7 @@
       "category": "演出"
     },
     {
-      "raw_hot": 86286,
+      "raw_hot": 91668,
       "num": 109893,
       "word": "俄对乌发动无人机和导弹混合袭击",
       "onboard_time": 1711278080,
@@ -401,6 +409,14 @@
       "onboard_time": 1711290140,
       "rank": 48,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 82997,
+      "num": 82997,
+      "word": "鹿晗用你的名字手机壁纸",
+      "onboard_time": 1711299256,
+      "rank": 37,
+      "category": "艺人"
     },
     {
       "raw_hot": 44304,
