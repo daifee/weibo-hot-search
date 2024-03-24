@@ -1,0 +1,410 @@
+{
+  "runTime": 1711293355447,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1344297,
+        "num": 1344297,
+        "word": "眼泪女王 家被偷没了",
+        "onboard_time": 1711289599,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1216735,
+        "num": 1216735,
+        "word": "赵丽颖晒嘘嘘",
+        "onboard_time": 1711291041,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 67882,
+        "num": 1116569,
+        "word": "花花盛开的中国春意拉满",
+        "onboard_time": 1711282880,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1104305,
+        "num": 1104305,
+        "word": "怀孕会加速衰老约增加2岁",
+        "onboard_time": 1711287080,
+        "rank": 3,
+        "category": "母婴育儿"
+      },
+      {
+        "raw_hot": 1025424,
+        "num": 1025424,
+        "word": "胖东来回应985女生应聘没进面试",
+        "onboard_time": 1711278739,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 948919,
+        "num": 948919,
+        "word": "小日子 朱大力去世",
+        "onboard_time": 1711289599,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 931866,
+        "num": 931866,
+        "word": "地磁暴",
+        "onboard_time": 1711288520,
+        "rank": 6,
+        "category": "自然"
+      },
+      {
+        "raw_hot": 902086,
+        "num": 902086,
+        "word": "俄恐袭现场发现137具遗体",
+        "onboard_time": 1711289900,
+        "rank": 7,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 767008,
+        "num": 767008,
+        "word": "本周狗屎运最旺的星座",
+        "onboard_time": 1711291940,
+        "rank": 8,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 517298,
+        "num": 517298,
+        "word": "朝鲜祖国统一民主主义战线中央委员会解散",
+        "onboard_time": 1711285580,
+        "rank": 9,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 824163,
+        "num": 515021,
+        "word": "经期真正需要忌口的食物",
+        "onboard_time": 1711292482,
+        "rank": 10,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 668295,
+        "num": 508212,
+        "word": "开车为什么要伸一只手出来",
+        "onboard_time": 1711290561,
+        "rank": 11,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 488400,
+        "num": 488400,
+        "word": "一阳",
+        "onboard_time": 1711292181,
+        "rank": 12,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 458884,
+        "num": 458884,
+        "word": "眼泪女王 离婚协议书",
+        "onboard_time": 1711289301,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 439837,
+        "num": 439837,
+        "word": "白桃星座",
+        "onboard_time": 1711292842,
+        "rank": 14,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 434187,
+        "num": 434187,
+        "word": "江西省级原则上不再举办中等职业学校",
+        "onboard_time": 1711288100,
+        "rank": 15,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 431867,
+        "num": 431867,
+        "word": "王诗龄砂锅铺满了黑松露",
+        "onboard_time": 1711267638,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 391702,
+        "num": 391702,
+        "word": "纪凌尘 小时候发过高烧的感觉",
+        "onboard_time": 1711281561,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 366699,
+        "num": 366699,
+        "word": "突然发现父母是近亲结婚",
+        "onboard_time": 1711292482,
+        "rank": 18,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 340015,
+        "num": 340015,
+        "word": "月光实名制吃饭",
+        "onboard_time": 1711287980,
+        "rank": 19,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 450773,
+        "num": 339290,
+        "word": "9.9元咖啡要消失了吗",
+        "onboard_time": 1711288340,
+        "rank": 20,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 352672,
+        "num": 338069,
+        "word": "我爸看到了我的微信余额",
+        "onboard_time": 1711290621,
+        "rank": 21,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 352382,
+        "num": 337583,
+        "word": "港媒镜头下的赵露思生图",
+        "onboard_time": 1711267339,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 335516,
+        "num": 335516,
+        "word": "iOS18将采用新的主屏幕",
+        "onboard_time": 1711287380,
+        "rank": 23,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 303830,
+        "num": 303830,
+        "word": "大学室友突然要退学回家继承家业",
+        "onboard_time": 1711291940,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 299140,
+        "num": 299140,
+        "word": "30岁以上真的很难找工作吗",
+        "onboard_time": 1711291221,
+        "rank": 25,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 251959,
+        "num": 251959,
+        "word": "AG终结WB八连胜",
+        "onboard_time": 1711288880,
+        "rank": 26,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 248737,
+        "num": 248737,
+        "word": "什么是友情断层",
+        "onboard_time": 1711278380,
+        "rank": 27,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 219573,
+        "num": 241262,
+        "word": "俄媒播出普京获悉音乐厅恐袭后画面",
+        "onboard_time": 1711282880,
+        "rank": 28,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 202097,
+        "num": 235401,
+        "word": "极氪发布南京车展意外事件情况说明",
+        "onboard_time": 1711292361,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 235318,
+        "num": 235318,
+        "word": "林更新是怎么做到不笑场的",
+        "onboard_time": 1711286240,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 234044,
+        "num": 234044,
+        "word": "170元5串的烧烤值不值",
+        "onboard_time": 1711291940,
+        "rank": 31,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 226009,
+        "num": 226009,
+        "word": "眼泪女王",
+        "onboard_time": 1711286480,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 218397,
+        "num": 218397,
+        "word": "王力宏常州",
+        "onboard_time": 1711292662,
+        "rank": 33,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 216150,
+        "num": 216150,
+        "word": "李宇春别感冒了",
+        "onboard_time": 1711289720,
+        "rank": 34,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 215065,
+        "num": 215065,
+        "word": "沈璃被扇",
+        "onboard_time": 1711293320,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 207079,
+        "num": 207079,
+        "word": "在俊 又是你",
+        "onboard_time": 1711292121,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 197892,
+        "num": 197892,
+        "word": "华西医院又完成一项全球首例",
+        "onboard_time": 1711292599,
+        "rank": 37,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 190291,
+        "num": 193131,
+        "word": "俄恐袭遇难者遗体辨认工作开始",
+        "onboard_time": 1711288280,
+        "rank": 38,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 190307,
+        "num": 190307,
+        "word": "极氪",
+        "onboard_time": 1711293021,
+        "rank": 39,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 178209,
+        "num": 178209,
+        "word": "00后的钝感力有多强",
+        "onboard_time": 1711293021,
+        "rank": 40,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 177470,
+        "num": 177470,
+        "word": "穷人家的孩子补课真的好愧疚",
+        "onboard_time": 1711291221,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 168013,
+        "num": 168013,
+        "word": "33Svan 下班了",
+        "onboard_time": 1711293320,
+        "rank": 42,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 164663,
+        "num": 164663,
+        "word": "杨鑫来吃",
+        "onboard_time": 1711289180,
+        "rank": 43,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 162518,
+        "num": 162518,
+        "word": "眼泪女王第六集",
+        "onboard_time": 1711289421,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 161674,
+        "num": 161674,
+        "word": "突然有点懂成年人的恋爱观了",
+        "onboard_time": 1711290860,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 159707,
+        "num": 159707,
+        "word": "俄恐袭现场发现3名儿童遗体",
+        "onboard_time": 1711290140,
+        "rank": 46,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 157216,
+        "num": 157216,
+        "word": "女生的裤子可以多到什么程度",
+        "onboard_time": 1711266558,
+        "rank": 47,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 148621,
+        "num": 148621,
+        "word": "眼泪女王开虐",
+        "onboard_time": 1711290921,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 144715,
+        "num": 144715,
+        "word": "一诺 再接再厉",
+        "onboard_time": 1711291940,
+        "rank": 49,
+        "category": "电竞"
+      }
+    ],
+    "hotgov": {
+      "word": "#发展清洁生产加快实现绿色低碳发展#"
+    }
+  }
+}
