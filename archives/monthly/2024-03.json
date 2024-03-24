@@ -1,6 +1,6 @@
 {
   "startTime": 1709223640991,
-  "endTime": 1711293355447,
+  "endTime": 1711294442170,
   "band_list": [
     {
       "raw_hot": 12728050,
@@ -1937,6 +1937,14 @@
       "onboard_time": 1709448090,
       "rank": 0,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1670368,
+      "num": 1670368,
+      "word": "经期真正需要忌口的食物",
+      "onboard_time": 1711292482,
+      "rank": 10,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 1665708,
@@ -6875,6 +6883,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 891836,
+      "num": 672634,
+      "word": "陈铭",
+      "onboard_time": 1711293444,
+      "rank": 10,
+      "category": "电影"
+    },
+    {
       "raw_hot": 890983,
       "num": 890983,
       "word": "阚清子和未婚夫聚餐",
@@ -7363,6 +7379,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 856561,
+      "num": 665372,
+      "word": "一阳",
+      "onboard_time": 1711292181,
+      "rank": 12,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 854341,
       "num": 854341,
       "word": "日媒曝国乒教练可能调整",
@@ -7665,14 +7689,6 @@
       "onboard_time": 1711025780,
       "rank": 18,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 824163,
-      "num": 515021,
-      "word": "经期真正需要忌口的食物",
-      "onboard_time": 1711292482,
-      "rank": 10,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 823890,
@@ -10676,7 +10692,7 @@
     },
     {
       "raw_hot": 668295,
-      "num": 508212,
+      "num": 645210,
       "word": "开车为什么要伸一只手出来",
       "onboard_time": 1711290561,
       "rank": 38,
@@ -13723,6 +13739,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 557010,
+      "num": 557010,
+      "word": "突然发现父母是近亲结婚",
+      "onboard_time": 1711292482,
+      "rank": 18,
+      "category": "情感"
+    },
+    {
       "raw_hot": 556821,
       "num": 556821,
       "word": "夏之光 感谢你们来看我",
@@ -14177,6 +14201,14 @@
       "onboard_time": 1709809711,
       "rank": 41,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 544598,
+      "num": 544598,
+      "word": "王勉爆改",
+      "onboard_time": 1711293862,
+      "rank": 14,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 544392,
@@ -16257,14 +16289,6 @@
       "onboard_time": 1710762692,
       "rank": 12,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 488400,
-      "num": 488400,
-      "word": "一阳",
-      "onboard_time": 1711292181,
-      "rank": 12,
-      "category": "电竞"
     },
     {
       "raw_hot": 488328,
@@ -18443,20 +18467,20 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 439996,
+      "num": 439996,
+      "word": "白桃星座",
+      "onboard_time": 1710086130,
+      "rank": 13,
+      "category": "情感"
+    },
+    {
       "raw_hot": 439872,
       "num": 348727,
       "word": "孟羽童回应收入",
       "onboard_time": 1709994696,
       "rank": 24,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 439837,
-      "num": 439837,
-      "word": "白桃星座",
-      "onboard_time": 1710086130,
-      "rank": 13,
-      "category": "情感"
     },
     {
       "raw_hot": 439616,
@@ -22040,14 +22064,6 @@
       "word": "小孩请不要为打翻的牛奶哭泣",
       "onboard_time": 1709518409,
       "rank": 21,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 366699,
-      "num": 366699,
-      "word": "突然发现父母是近亲结婚",
-      "onboard_time": 1711292482,
-      "rank": 18,
       "category": "情感"
     },
     {
@@ -30643,6 +30659,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 252873,
+      "num": 252873,
+      "word": "沈璃被扇",
+      "onboard_time": 1711293320,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 252868,
       "num": 252868,
       "word": "新传又涨了",
@@ -32675,6 +32699,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 236426,
+      "num": 236426,
+      "word": "极氪",
+      "onboard_time": 1711293021,
+      "rank": 39,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 236300,
       "num": 231533,
       "word": "看啥都想买是对童年的过度补偿",
@@ -34161,6 +34193,14 @@
       "onboard_time": 1709476292,
       "rank": 28,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 225182,
+      "num": 225182,
+      "word": "在俊啊 回到水泥里吧",
+      "onboard_time": 1711293562,
+      "rank": 31,
+      "category": "剧集"
     },
     {
       "raw_hot": 225077,
@@ -36009,14 +36049,6 @@
       "onboard_time": 1709261251,
       "rank": 26,
       "category": "情感"
-    },
-    {
-      "raw_hot": 215065,
-      "num": 215065,
-      "word": "沈璃被扇",
-      "onboard_time": 1711293320,
-      "rank": 35,
-      "category": "剧集"
     },
     {
       "raw_hot": 214962,
@@ -38755,6 +38787,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 202448,
+      "num": 235401,
+      "word": "极氪发布南京车展意外事件情况说明",
+      "onboard_time": 1711292361,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 202379,
       "num": 202379,
       "word": "湖人vs掘金",
@@ -38817,14 +38857,6 @@
       "onboard_time": 1709475875,
       "rank": 34,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 202097,
-      "num": 235401,
-      "word": "极氪发布南京车展意外事件情况说明",
-      "onboard_time": 1711292361,
-      "rank": 29,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 202030,
@@ -42073,14 +42105,6 @@
       "onboard_time": 1709714252,
       "rank": 27,
       "category": "体育"
-    },
-    {
-      "raw_hot": 190307,
-      "num": 190307,
-      "word": "极氪",
-      "onboard_time": 1711293021,
-      "rank": 39,
-      "category": "汽车"
     },
     {
       "raw_hot": 190264,
@@ -46713,6 +46737,14 @@
       "onboard_time": 1709646213,
       "rank": 39,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 170857,
+      "num": 170857,
+      "word": "白鹿制服拍立得",
+      "onboard_time": 1711293802,
+      "rank": 37,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 170826,
@@ -57297,6 +57329,14 @@
       "onboard_time": 1710112762,
       "rank": 25,
       "category": "体育"
+    },
+    {
+      "raw_hot": 132086,
+      "num": 132086,
+      "word": "上一秒结仇下一秒结婚",
+      "onboard_time": 1711294343,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 132085,

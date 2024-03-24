@@ -1,6 +1,6 @@
 {
   "startTime": 1711210803824,
-  "endTime": 1711293355447,
+  "endTime": 1711294442170,
   "band_list": [
     {
       "raw_hot": 3435224,
@@ -65,6 +65,14 @@
       "onboard_time": 1711251260,
       "rank": 1,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1670368,
+      "num": 1670368,
+      "word": "经期真正需要忌口的食物",
+      "onboard_time": 1711292482,
+      "rank": 10,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 1582845,
@@ -283,20 +291,28 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 891836,
+      "num": 672634,
+      "word": "陈铭",
+      "onboard_time": 1711293444,
+      "rank": 10,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 856561,
+      "num": 665372,
+      "word": "一阳",
+      "onboard_time": 1711292181,
+      "rank": 12,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 828870,
       "num": 435254,
       "word": "王俊凯爸妈的奶茶店引发粉丝凌晨排队",
       "onboard_time": 1711201521,
       "rank": 11,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 824163,
-      "num": 515021,
-      "word": "经期真正需要忌口的食物",
-      "onboard_time": 1711292482,
-      "rank": 10,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 817120,
@@ -468,7 +484,7 @@
     },
     {
       "raw_hot": 668295,
-      "num": 508212,
+      "num": 645210,
       "word": "开车为什么要伸一只手出来",
       "onboard_time": 1711290561,
       "rank": 38,
@@ -603,12 +619,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 557010,
+      "num": 557010,
+      "word": "突然发现父母是近亲结婚",
+      "onboard_time": 1711292482,
+      "rank": 18,
+      "category": "情感"
+    },
+    {
       "raw_hot": 546675,
       "num": 546675,
       "word": "女孩走失被热成像无人机20分钟找到",
       "onboard_time": 1711274422,
       "rank": 8,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 544598,
+      "num": 544598,
+      "word": "王勉爆改",
+      "onboard_time": 1711293862,
+      "rank": 14,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 538379,
@@ -713,14 +745,6 @@
       "onboard_time": 1711248498,
       "rank": 9,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 488400,
-      "num": 488400,
-      "word": "一阳",
-      "onboard_time": 1711292181,
-      "rank": 12,
-      "category": "电竞"
     },
     {
       "raw_hot": 486776,
@@ -867,8 +891,8 @@
       "category": "数码"
     },
     {
-      "raw_hot": 439837,
-      "num": 439837,
+      "raw_hot": 439996,
+      "num": 439996,
       "word": "白桃星座",
       "onboard_time": 1711292842,
       "rank": 14,
@@ -1017,14 +1041,6 @@
       "onboard_time": 1711249399,
       "rank": 30,
       "category": "体育"
-    },
-    {
-      "raw_hot": 366699,
-      "num": 366699,
-      "word": "突然发现父母是近亲结婚",
-      "onboard_time": 1711292482,
-      "rank": 18,
-      "category": "情感"
     },
     {
       "raw_hot": 366453,
@@ -1427,6 +1443,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 252873,
+      "num": 252873,
+      "word": "沈璃被扇",
+      "onboard_time": 1711293320,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 249688,
       "num": 249688,
       "word": "五哈瞒着鹿晗请来安叔",
@@ -1547,6 +1571,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 236426,
+      "num": 236426,
+      "word": "极氪",
+      "onboard_time": 1711293021,
+      "rank": 39,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 235813,
       "num": 235813,
       "word": "王室专家称凯特因孩子推迟公布患癌",
@@ -1627,6 +1659,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 225182,
+      "num": 225182,
+      "word": "在俊啊 回到水泥里吧",
+      "onboard_time": 1711293562,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 223424,
       "num": 223424,
       "word": "周深新歌",
@@ -1697,14 +1737,6 @@
       "onboard_time": 1711270759,
       "rank": 27,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 215065,
-      "num": 215065,
-      "word": "沈璃被扇",
-      "onboard_time": 1711293320,
-      "rank": 35,
-      "category": "剧集"
     },
     {
       "raw_hot": 213717,
@@ -1787,7 +1819,7 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 202097,
+      "raw_hot": 202448,
       "num": 235401,
       "word": "极氪发布南京车展意外事件情况说明",
       "onboard_time": 1711292361,
@@ -1963,14 +1995,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 190307,
-      "num": 190307,
-      "word": "极氪",
-      "onboard_time": 1711293021,
-      "rank": 39,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 189671,
       "num": 189671,
       "word": "俄恐袭现场发现3名儿童遗体",
@@ -2129,6 +2153,14 @@
       "onboard_time": 1711239798,
       "rank": 32,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 170857,
+      "num": 170857,
+      "word": "白鹿制服拍立得",
+      "onboard_time": 1711293802,
+      "rank": 37,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 170823,
@@ -2665,6 +2697,14 @@
       "onboard_time": 1711273340,
       "rank": 42,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 132086,
+      "num": 132086,
+      "word": "上一秒结仇下一秒结婚",
+      "onboard_time": 1711294343,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 131419,
