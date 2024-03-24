@@ -1,6 +1,6 @@
 {
   "startTime": 1709223640991,
-  "endTime": 1711275453453,
+  "endTime": 1711276447402,
   "band_list": [
     {
       "raw_hot": 12728050,
@@ -4468,7 +4468,7 @@
     },
     {
       "raw_hot": 1140173,
-      "num": 421918,
+      "num": 429071,
       "word": "我是学校里唯一一条蛆",
       "onboard_time": 1711271298,
       "rank": 30,
@@ -5393,6 +5393,14 @@
       "onboard_time": 1709467893,
       "rank": 6,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1027137,
+      "num": 1027137,
+      "word": "前男友大半夜开始发疯了",
+      "onboard_time": 1711272140,
+      "rank": 26,
+      "category": "幽默"
     },
     {
       "raw_hot": 1026016,
@@ -8937,14 +8945,6 @@
       "onboard_time": 1710770678,
       "rank": 24,
       "category": "社会新闻,财经"
-    },
-    {
-      "raw_hot": 740592,
-      "num": 740592,
-      "word": "前男友大半夜开始发疯了",
-      "onboard_time": 1711272140,
-      "rank": 26,
-      "category": "幽默"
     },
     {
       "raw_hot": 740345,
@@ -15523,6 +15523,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 500732,
+      "num": 343768,
+      "word": "怀孕7个月后仍安排上班12小时合理吗",
+      "onboard_time": 1711273519,
+      "rank": 20,
+      "category": "母婴育儿"
+    },
+    {
       "raw_hot": 500698,
       "num": 500698,
       "word": "农村断缴城乡居民医保背后",
@@ -16299,14 +16307,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 483535,
-      "num": 343768,
-      "word": "怀孕7个月后仍安排上班12小时合理吗",
-      "onboard_time": 1711273519,
-      "rank": 20,
-      "category": "母婴育儿"
-    },
-    {
       "raw_hot": 483109,
       "num": 426935,
       "word": "夫妻高层装防护栏不慎坠亡",
@@ -16441,6 +16441,14 @@
       "onboard_time": 1709626595,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 481324,
+      "num": 481324,
+      "word": "陶喆爆改Melody给老婆",
+      "onboard_time": 1711274058,
+      "rank": 15,
+      "category": "演出"
     },
     {
       "raw_hot": 481195,
@@ -18619,6 +18627,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 431349,
+      "num": 431349,
+      "word": "石榴姐",
+      "onboard_time": 1711272679,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 431343,
       "num": 388393,
       "word": "杨幂IP地址先回家了",
@@ -19211,14 +19227,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 417180,
-      "num": 417180,
-      "word": "石榴姐",
-      "onboard_time": 1711272679,
-      "rank": 44,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 417075,
       "num": 417075,
       "word": "宝马就315曝光道歉",
@@ -19409,6 +19417,14 @@
       "onboard_time": 1711062435,
       "rank": 21,
       "category": "健康医疗,社会新闻"
+    },
+    {
+      "raw_hot": 412840,
+      "num": 412840,
+      "word": "枭起青壤审美",
+      "onboard_time": 1711274538,
+      "rank": 19,
+      "category": "剧集"
     },
     {
       "raw_hot": 412192,
@@ -19945,14 +19961,6 @@
       "onboard_time": 1710315095,
       "rank": 30,
       "category": "体育"
-    },
-    {
-      "raw_hot": 401730,
-      "num": 401730,
-      "word": "陶喆爆改Melody给老婆",
-      "onboard_time": 1711274058,
-      "rank": 15,
-      "category": "演出"
     },
     {
       "raw_hot": 401509,
@@ -22867,14 +22875,6 @@
       "category": "美妆,网红"
     },
     {
-      "raw_hot": 346335,
-      "num": 346335,
-      "word": "枭起青壤审美",
-      "onboard_time": 1711274538,
-      "rank": 19,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 346175,
       "num": 346175,
       "word": "为什么大学生不快乐",
@@ -23811,6 +23811,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 330110,
+      "num": 205660,
+      "word": "丁俊晖犯规",
+      "onboard_time": 1711275018,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 330011,
       "num": 330011,
       "word": "网飞三体特效",
@@ -24209,6 +24217,14 @@
       "onboard_time": 1710501338,
       "rank": 19,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 322300,
+      "num": 463962,
+      "word": "女孩走失被热成像无人机20分钟找到",
+      "onboard_time": 1711274422,
+      "rank": 8,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 322258,
@@ -35979,6 +35995,14 @@
       "category": "作品衍生,美妆"
     },
     {
+      "raw_hot": 212723,
+      "num": 205485,
+      "word": "妈妈知道孔晓振交往小10岁男友的反应",
+      "onboard_time": 1711276039,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 212716,
       "num": 212716,
       "word": "成毅鱼花灯",
@@ -37891,6 +37915,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 203663,
+      "num": 203663,
+      "word": "十年后才弄明白高中时的那道题",
+      "onboard_time": 1711274779,
+      "rank": 31,
+      "category": "情感"
+    },
+    {
       "raw_hot": 203659,
       "num": 203659,
       "word": "广州塔水龙头",
@@ -38859,6 +38891,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 199991,
+      "num": 199991,
+      "word": "TES对战AL",
+      "onboard_time": 1711275797,
+      "rank": 33,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 199987,
       "num": 199987,
       "word": "JDG战胜RNG",
@@ -38937,6 +38977,14 @@
       "onboard_time": 1709366670,
       "rank": 27,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 199756,
+      "num": 199756,
+      "word": "浪姐一公上班路透",
+      "onboard_time": 1711275620,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 199692,
@@ -39281,14 +39329,6 @@
       "onboard_time": 1709298813,
       "rank": 29,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 198231,
-      "num": 198231,
-      "word": "十年后才弄明白高中时的那道题",
-      "onboard_time": 1711274779,
-      "rank": 31,
-      "category": "情感"
     },
     {
       "raw_hot": 198214,
@@ -40465,6 +40505,14 @@
       "onboard_time": 1709268756,
       "rank": 34,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 194233,
+      "num": 512095,
+      "word": "3男孩遇杂草起火先报警再灭火",
+      "onboard_time": 1711273877,
+      "rank": 7,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 194224,
@@ -46891,14 +46939,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 167432,
-      "num": 512095,
-      "word": "3男孩遇杂草起火先报警再灭火",
-      "onboard_time": 1711273877,
-      "rank": 7,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 167429,
       "num": 167429,
       "word": "张云龙狐妖竹业篇生日海报",
@@ -47395,6 +47435,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 165444,
+      "num": 165444,
+      "word": "丁俊晖2比7落后特鲁姆普",
+      "onboard_time": 1711275559,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 165430,
       "num": 165430,
       "word": "恋与深空混池",
@@ -47513,14 +47561,6 @@
       "onboard_time": 1710246994,
       "rank": 39,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 165009,
-      "num": 165009,
-      "word": "丁俊晖犯规",
-      "onboard_time": 1711275018,
-      "rank": 35,
-      "category": "体育"
     },
     {
       "raw_hot": 164982,
@@ -56371,6 +56411,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 132787,
+      "num": 132787,
+      "word": "媒体人直击莫斯科生活现状",
+      "onboard_time": 1711273340,
+      "rank": 42,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 132783,
       "num": 132783,
       "word": "山东泰山四外援齐破门",
@@ -56657,14 +56705,6 @@
       "onboard_time": 1709721510,
       "rank": 35,
       "category": "情感"
-    },
-    {
-      "raw_hot": 131445,
-      "num": 131445,
-      "word": "媒体人直击莫斯科生活现状",
-      "onboard_time": 1711273340,
-      "rank": 42,
-      "category": "国外时政"
     },
     {
       "raw_hot": 131427,
@@ -57153,14 +57193,6 @@
       "onboard_time": 1709795312,
       "rank": 40,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 129502,
-      "num": 463962,
-      "word": "女孩走失被热成像无人机20分钟找到",
-      "onboard_time": 1711274422,
-      "rank": 8,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 129471,
@@ -57747,6 +57779,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 127371,
+      "num": 127371,
+      "word": "俄总理向恐袭受害者家属表示哀悼和慰问",
+      "onboard_time": 1711276159,
+      "rank": 44,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 127331,
       "num": 127331,
       "word": "3家汽车央企新能源汽车业务将单独考核",
@@ -58265,6 +58305,14 @@
       "onboard_time": 1710673894,
       "rank": 48,
       "category": "情感"
+    },
+    {
+      "raw_hot": 125189,
+      "num": 125189,
+      "word": "做美甲游离线真的会变长",
+      "onboard_time": 1711276039,
+      "rank": 45,
+      "category": "科学科普"
     },
     {
       "raw_hot": 125115,
@@ -66953,6 +67001,14 @@
       "onboard_time": 1709270913,
       "rank": 40,
       "category": "电影"
+    },
+    {
+      "raw_hot": 30449,
+      "num": 414659,
+      "word": "何杰回应再破国家纪录",
+      "onboard_time": 1711275978,
+      "rank": 14,
+      "category": "体育"
     },
     {
       "raw_hot": 30184,
