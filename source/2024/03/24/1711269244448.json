@@ -1,0 +1,410 @@
+{
+  "runTime": 1711269244448,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1892488,
+        "num": 1892488,
+        "word": "首个国产女性向3A游戏",
+        "onboard_time": 1711258939,
+        "rank": 0,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 1200997,
+        "num": 1200997,
+        "word": "王诗龄砂锅铺满了黑松露",
+        "onboard_time": 1711267638,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 114579,
+        "num": 1135181,
+        "word": "一张对比图感受什么是绿色奇迹",
+        "onboard_time": 1711267220,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1087979,
+        "num": 1087979,
+        "word": "女生的裤子可以多到什么程度",
+        "onboard_time": 1711266558,
+        "rank": 3,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 1029440,
+        "num": 1029440,
+        "word": "姓李的人今天一定要拜老子",
+        "onboard_time": 1711260439,
+        "rank": 4,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 770420,
+        "num": 770420,
+        "word": "赵奕欢回怼李菲儿",
+        "onboard_time": 1711254380,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 672599,
+        "num": 672599,
+        "word": "孙俪新剧",
+        "onboard_time": 1711266619,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 669311,
+        "num": 669311,
+        "word": "嫌疑人称莫斯科恐袭招募人命令无差别射杀",
+        "onboard_time": 1711265720,
+        "rank": 7,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 667711,
+        "num": 667711,
+        "word": "港媒镜头下的赵露思生图",
+        "onboard_time": 1711267339,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 556289,
+        "num": 556289,
+        "word": "中国气象局发布大地磁暴预警",
+        "onboard_time": 1711261399,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 825421,
+        "num": 533266,
+        "word": "台湾",
+        "onboard_time": 1711255638,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 568394,
+        "num": 525725,
+        "word": "海关查获200张Switch游戏卡",
+        "onboard_time": 1711264518,
+        "rank": 11,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 502910,
+        "num": 502910,
+        "word": "迪丽热巴路透",
+        "onboard_time": 1711266980,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 461383,
+        "num": 461383,
+        "word": "鹿晗淄博",
+        "onboard_time": 1711267638,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 457444,
+        "num": 457444,
+        "word": "难哄官宣",
+        "onboard_time": 1711246398,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 447784,
+        "num": 447784,
+        "word": "夏之光翟潇闻 嗑到了",
+        "onboard_time": 1711266138,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 432270,
+        "num": 432270,
+        "word": "恋爱一年后依然没有情绪价值",
+        "onboard_time": 1711267038,
+        "rank": 16,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 418837,
+        "num": 418837,
+        "word": "李菲儿扣了250分",
+        "onboard_time": 1711251260,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 319518,
+        "num": 357411,
+        "word": "莫斯科恐袭已致133死152伤",
+        "onboard_time": 1711258098,
+        "rank": 18,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 248115,
+        "num": 352528,
+        "word": "男子捡17岁女生手机归还反被讹200",
+        "onboard_time": 1711254499,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 350982,
+        "num": 350982,
+        "word": "腾讯辟谣马化腾衰老照",
+        "onboard_time": 1711267699,
+        "rank": 20,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 331843,
+        "num": 331843,
+        "word": "张予曦细腰",
+        "onboard_time": 1711267339,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 303402,
+        "num": 303402,
+        "word": "爸爸因为妈妈要学车开始发癫",
+        "onboard_time": 1711267699,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 303018,
+        "num": 303018,
+        "word": "明兰终究变成了红狼",
+        "onboard_time": 1711260740,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 290639,
+        "num": 290639,
+        "word": "孙俪胡杏儿二搭",
+        "onboard_time": 1711268239,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 270304,
+        "num": 270304,
+        "word": "Jessi认出了六年没见的粉丝",
+        "onboard_time": 1711261939,
+        "rank": 25,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 243252,
+        "num": 243252,
+        "word": "三十九二十八开机",
+        "onboard_time": 1711266499,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 238095,
+        "num": 238095,
+        "word": "副教授26岁学生比自己还大",
+        "onboard_time": 1711261038,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 232585,
+        "num": 232585,
+        "word": "网友求邓超断更",
+        "onboard_time": 1711266680,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 154181,
+        "num": 222136,
+        "word": "俄罗斯男子赤手空拳打晕恐怖分子",
+        "onboard_time": 1711256479,
+        "rank": 29,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 220744,
+        "num": 220744,
+        "word": "赵本山沈腾北野武同框",
+        "onboard_time": 1711262300,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 194104,
+        "num": 194104,
+        "word": "难哄",
+        "onboard_time": 1711268598,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 187802,
+        "num": 187802,
+        "word": "我妈让我找对象借三万块给她",
+        "onboard_time": 1711265239,
+        "rank": 32,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 183045,
+        "num": 183045,
+        "word": "中国各省第一大姓",
+        "onboard_time": 1711254019,
+        "rank": 33,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 179933,
+        "num": 179933,
+        "word": "向佐 重生之我是花洒",
+        "onboard_time": 1711268779,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 170029,
+        "num": 170029,
+        "word": "王力宏听到前妻的反应",
+        "onboard_time": 1711249819,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 163890,
+        "num": 163890,
+        "word": "25岁的自己和想象中不一样",
+        "onboard_time": 1711268478,
+        "rank": 36,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 145614,
+        "num": 145614,
+        "word": "白敬亭杀回现偶了",
+        "onboard_time": 1711254919,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 143712,
+        "num": 143712,
+        "word": "丁俊晖打破10年不胜罗伯逊魔咒",
+        "onboard_time": 1711263619,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 17377,
+        "num": 143334,
+        "word": "2024济南花朝节开幕",
+        "onboard_time": 1711267220,
+        "rank": 39,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 143153,
+        "num": 143153,
+        "word": "林更新被问和赵丽颖拍戏时耳朵怎么红",
+        "onboard_time": 1711262238,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 142851,
+        "num": 142851,
+        "word": "金晨一个睫毛夹用了17年",
+        "onboard_time": 1711255518,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 141977,
+        "num": 141977,
+        "word": "乌克兰全境响防空警报",
+        "onboard_time": 1711253479,
+        "rank": 42,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 138805,
+        "num": 138805,
+        "word": "光电潇应",
+        "onboard_time": 1711268898,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 135898,
+        "num": 135898,
+        "word": "赵露思曾黎素颜合照",
+        "onboard_time": 1711257080,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 133281,
+        "num": 133281,
+        "word": "邓超给女儿买礼物",
+        "onboard_time": 1711265239,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 124719,
+        "num": 124719,
+        "word": "台湾一男子持枪朝派出所门口扫射",
+        "onboard_time": 1711254919,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 118571,
+        "num": 118571,
+        "word": "强来了文学",
+        "onboard_time": 1711269020,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 117453,
+        "num": 117453,
+        "word": "DYG 抽象",
+        "onboard_time": 1711266917,
+        "rank": 48,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 109153,
+        "num": 116641,
+        "word": "重庆姐弟坠亡案生母需终生服药",
+        "onboard_time": 1711269198,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#新时代治水兴水总书记这样擘画#"
+    }
+  }
+}
