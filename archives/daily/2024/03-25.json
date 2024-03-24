@@ -1,6 +1,6 @@
 {
   "startTime": 1711297217204,
-  "endTime": 1711322382753,
+  "endTime": 1711323262872,
   "band_list": [
     {
       "raw_hot": 2081066,
@@ -27,8 +27,8 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 676644,
-      "num": 676644,
+      "raw_hot": 773517,
+      "num": 773517,
       "word": "30岁以上真的很难找工作吗",
       "onboard_time": 1711291221,
       "rank": 33,
@@ -91,8 +91,8 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 489080,
-      "num": 489080,
+      "raw_hot": 519747,
+      "num": 519747,
       "word": "24岁女子跳河轻生被救家属转1000元感谢",
       "onboard_time": 1711311310,
       "rank": 49,
@@ -123,6 +123,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 392724,
+      "num": 392724,
+      "word": "俄媒播出普京获悉音乐厅恐袭后画面",
+      "onboard_time": 1711282880,
+      "rank": 28,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 366783,
       "num": 308458,
       "word": "Cindy去走秀了",
@@ -131,20 +139,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 358301,
-      "num": 358301,
+      "raw_hot": 366382,
+      "num": 366382,
       "word": "小日子 朱大力去世",
       "onboard_time": 1711289599,
       "rank": 15,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 356815,
-      "num": 356815,
-      "word": "俄媒播出普京获悉音乐厅恐袭后画面",
-      "onboard_time": 1711282880,
-      "rank": 28,
-      "category": "国外时政"
     },
     {
       "raw_hot": 348801,
@@ -153,6 +153,14 @@
       "onboard_time": 1711300095,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 325309,
+      "num": 325309,
+      "word": "养老金并轨倒计时",
+      "onboard_time": 1711322237,
+      "rank": 42,
+      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 322737,
@@ -283,6 +291,30 @@
       "category": "情感"
     },
     {
+      "raw_hot": 178425,
+      "num": 178425,
+      "word": "为什么卵巢对女人如此重要",
+      "onboard_time": 1711322536,
+      "rank": 19,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 177908,
+      "num": 177908,
+      "word": "4名直接参与俄恐袭的嫌犯被批捕",
+      "onboard_time": 1711322596,
+      "rank": 21,
+      "category": "国外时政"
+    },
+    {
+      "raw_hot": 150991,
+      "num": 150991,
+      "word": "一旦开始喝咖啡这辈子就定型了",
+      "onboard_time": 1711322176,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 149137,
       "num": 149137,
       "word": "纪凌尘 小时候发过高烧的感觉",
@@ -297,6 +329,22 @@
       "onboard_time": 1711289301,
       "rank": 35,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 147898,
+      "num": 147898,
+      "word": "何超莲赵露思合照",
+      "onboard_time": 1711322596,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 140968,
+      "num": 140968,
+      "word": "全红婵世界杯夺金",
+      "onboard_time": 1711322717,
+      "rank": 26,
+      "category": "体育"
     },
     {
       "raw_hot": 140314,
@@ -315,8 +363,8 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 128611,
-      "num": 128611,
+      "raw_hot": 136222,
+      "num": 136222,
       "word": "华西医院又完成一项全球首例",
       "onboard_time": 1711292599,
       "rank": 38,
@@ -345,6 +393,30 @@
       "onboard_time": 1711286480,
       "rank": 42,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 117411,
+      "num": 117411,
+      "word": "辽宁浙江赛后冲突",
+      "onboard_time": 1711321577,
+      "rank": 25,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 114650,
+      "num": 114650,
+      "word": "坠落的审判北大映后主持人道歉",
+      "onboard_time": 1711322777,
+      "rank": 32,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 111312,
+      "num": 111312,
+      "word": "张艺兴林更新新综预约破优酷综艺纪录",
+      "onboard_time": 1711321215,
+      "rank": 29,
+      "category": "综艺"
     },
     {
       "raw_hot": 110292,
@@ -379,14 +451,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 107223,
-      "num": 107223,
-      "word": "辽宁浙江赛后冲突",
-      "onboard_time": 1711321577,
-      "rank": 25,
-      "category": "体育"
-    },
-    {
       "raw_hot": 102912,
       "num": 102912,
       "word": "眼泪女王第六集",
@@ -401,6 +465,14 @@
       "onboard_time": 1711288280,
       "rank": 29,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 100335,
+      "num": 100335,
+      "word": "坠落的审判",
+      "onboard_time": 1711322656,
+      "rank": 36,
+      "category": "电影"
     },
     {
       "raw_hot": 95878,
@@ -435,28 +507,20 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 86647,
-      "num": 86647,
-      "word": "张艺兴林更新新综预约破优酷综艺纪录",
-      "onboard_time": 1711321215,
-      "rank": 29,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 85825,
-      "num": 85825,
-      "word": "一旦开始喝咖啡这辈子就定型了",
-      "onboard_time": 1711322176,
-      "rank": 30,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 82997,
       "num": 82997,
       "word": "鹿晗用你的名字手机壁纸",
       "onboard_time": 1711299256,
       "rank": 37,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 82302,
+      "num": 82302,
+      "word": "iOS18支持更自由定制主屏幕",
+      "onboard_time": 1711322957,
+      "rank": 40,
+      "category": "数码"
     },
     {
       "raw_hot": 77994,
@@ -467,6 +531,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 77391,
+      "num": 77391,
+      "word": "扫墓烧纸钱结果烧了两万真钱",
+      "onboard_time": 1711322717,
+      "rank": 41,
+      "category": "情感"
+    },
+    {
       "raw_hot": 75030,
       "num": 75030,
       "word": "内向是天生的还是后天形成的",
@@ -475,8 +547,8 @@
       "category": "情感"
     },
     {
-      "raw_hot": 68497,
-      "num": 68497,
+      "raw_hot": 69239,
+      "num": 69239,
       "word": "关灯玩手机屏幕是亮点好还是暗点好",
       "onboard_time": 1711309451,
       "rank": 21,
@@ -484,11 +556,19 @@
     },
     {
       "raw_hot": 66469,
-      "num": 62753,
+      "num": 65476,
       "word": "奚梦瑶何猷君牵手走红毯",
       "onboard_time": 1711304233,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 63571,
+      "num": 63571,
+      "word": "这是水肿不是胖了",
+      "onboard_time": 1711314431,
+      "rank": 43,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 58088,
@@ -497,22 +577,6 @@
       "onboard_time": 1711301234,
       "rank": 43,
       "category": "演出"
-    },
-    {
-      "raw_hot": 53613,
-      "num": 53613,
-      "word": "养老金并轨倒计时",
-      "onboard_time": 1711322237,
-      "rank": 42,
-      "category": "社会新闻,财经"
-    },
-    {
-      "raw_hot": 47404,
-      "num": 47404,
-      "word": "这是水肿不是胖了",
-      "onboard_time": 1711314431,
-      "rank": 43,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 46521,
@@ -547,20 +611,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 26559,
+      "num": 725073,
+      "word": "筑牢粮食安全耕基",
+      "onboard_time": 1711282759,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 23062,
       "num": 23062,
       "word": "3种蔬菜最适合春天吃",
       "onboard_time": 1711315750,
       "rank": 49,
       "category": "美食"
-    },
-    {
-      "raw_hot": 23048,
-      "num": 725073,
-      "word": "筑牢粮食安全耕基",
-      "onboard_time": 1711282759,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 22292,
