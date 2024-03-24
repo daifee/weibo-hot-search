@@ -1,6 +1,6 @@
 {
   "startTime": 1711210803824,
-  "endTime": 1711284379532,
+  "endTime": 1711286310195,
   "band_list": [
     {
       "raw_hot": 3435224,
@@ -89,6 +89,14 @@
       "onboard_time": 1711254380,
       "rank": 13,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1268570,
+      "num": 392602,
+      "word": "女子实名举报年幼时遭亲生父亲多次强奸",
+      "onboard_time": 1711283659,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1251020,
@@ -203,20 +211,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 934667,
+      "num": 934667,
+      "word": "纪凌尘 小时候发过高烧的感觉",
+      "onboard_time": 1711281561,
+      "rank": 1,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 912935,
       "num": 912935,
       "word": "莫斯科恐袭已致133死152伤",
       "onboard_time": 1711258098,
       "rank": 20,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 862626,
-      "num": 862626,
-      "word": "纪凌尘 小时候发过高烧的感觉",
-      "onboard_time": 1711281561,
-      "rank": 1,
-      "category": "综艺"
     },
     {
       "raw_hot": 828870,
@@ -283,6 +291,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 766117,
+      "num": 766117,
+      "word": "俄媒播出普京获悉音乐厅恐袭后画面",
+      "onboard_time": 1711282880,
+      "rank": 29,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 758618,
       "num": 758618,
       "word": "孙俪新剧",
@@ -305,6 +321,14 @@
       "onboard_time": 1711276039,
       "rank": 45,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 736929,
+      "num": 736929,
+      "word": "朝鲜祖国统一民主主义战线中央委员会解散",
+      "onboard_time": 1711285580,
+      "rank": 4,
+      "category": "国外时政"
     },
     {
       "raw_hot": 731282,
@@ -515,6 +539,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 509945,
+      "num": 509945,
+      "word": "杨和苏鼻梁",
+      "onboard_time": 1711283600,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 502910,
       "num": 502910,
       "word": "迪丽热巴路透",
@@ -659,20 +691,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 441816,
-      "num": 441816,
-      "word": "俄媒播出普京获悉音乐厅恐袭后画面",
-      "onboard_time": 1711282880,
-      "rank": 29,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 440649,
       "num": 278563,
       "word": "泽连斯基回应乌被指与恐袭有关",
       "onboard_time": 1711237036,
       "rank": 14,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 440434,
+      "num": 440434,
+      "word": "裴珠泫与中国粉丝双向奔赴",
+      "onboard_time": 1711284619,
+      "rank": 6,
+      "category": "艺人"
     },
     {
       "raw_hot": 440270,
@@ -761,6 +793,14 @@
       "onboard_time": 1711203982,
       "rank": 16,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 393567,
+      "num": 393567,
+      "word": "追风者破2了",
+      "onboard_time": 1711285279,
+      "rank": 9,
+      "category": "剧集"
     },
     {
       "raw_hot": 387274,
@@ -923,14 +963,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 317571,
-      "num": 317571,
-      "word": "杨和苏鼻梁",
-      "onboard_time": 1711283600,
-      "rank": 16,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 307358,
       "num": 307358,
       "word": "普京宣布24日为俄罗斯全民哀悼日",
@@ -977,6 +1009,14 @@
       "onboard_time": 1711226712,
       "rank": 11,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 297822,
+      "num": 233207,
+      "word": "女子卖藕收到中国儿童银行5元钞",
+      "onboard_time": 1711284141,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 297503,
@@ -1427,6 +1467,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 208240,
+      "num": 208240,
+      "word": "未来几十年可能发生的事",
+      "onboard_time": 1711285158,
+      "rank": 27,
+      "category": "情感"
+    },
+    {
       "raw_hot": 207522,
       "num": 207522,
       "word": "白敬亭章若楠演偶像剧",
@@ -1507,14 +1555,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 197973,
-      "num": 197973,
-      "word": "女子实名举报年幼时遭亲生父亲多次强奸",
-      "onboard_time": 1711283659,
-      "rank": 31,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 197441,
       "num": 197441,
       "word": "经常早醒算是一种疾病吗",
@@ -1561,6 +1601,22 @@
       "onboard_time": 1711273877,
       "rank": 7,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 194223,
+      "num": 194223,
+      "word": "小日子",
+      "onboard_time": 1711284380,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 194212,
+      "num": 194212,
+      "word": "林更新是怎么做到不笑场的",
+      "onboard_time": 1711286240,
+      "rank": 30,
+      "category": "剧集"
     },
     {
       "raw_hot": 194104,
@@ -1673,6 +1729,14 @@
       "onboard_time": 1711268779,
       "rank": 34,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 179783,
+      "num": 179783,
+      "word": "官方回应极氪轿车在车展撞伤游客",
+      "onboard_time": 1711283899,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 179336,
@@ -2091,6 +2155,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 139062,
+      "num": 139062,
+      "word": "强忍泪水等于慢性自杀",
+      "onboard_time": 1711285820,
+      "rank": 43,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 138805,
       "num": 138805,
       "word": "光电潇应",
@@ -2147,6 +2219,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 136041,
+      "num": 136041,
+      "word": "长生王昭君精准控制",
+      "onboard_time": 1711285158,
+      "rank": 45,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 135902,
       "num": 135902,
       "word": "没想到小龙虾还有这功能",
@@ -2161,6 +2241,22 @@
       "onboard_time": 1711264639,
       "rank": 46,
       "category": "情感"
+    },
+    {
+      "raw_hot": 134677,
+      "num": 134677,
+      "word": "鞠婧祎夸刘学义吻技",
+      "onboard_time": 1711286060,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 133781,
+      "num": 133781,
+      "word": "特鲁姆普10比4丁俊晖",
+      "onboard_time": 1711286240,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 133468,
@@ -2243,6 +2339,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 128181,
+      "num": 128181,
+      "word": "中石化2023年净利润604.63亿元",
+      "onboard_time": 1711284619,
+      "rank": 48,
+      "category": "财经"
+    },
+    {
       "raw_hot": 128013,
       "num": 128013,
       "word": "全明星或改为美国队vs世界队",
@@ -2315,14 +2419,6 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 123594,
-      "num": 123594,
-      "word": "官方回应极氪轿车在车展撞伤游客",
-      "onboard_time": 1711283899,
-      "rank": 47,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 123377,
       "num": 123377,
       "word": "ZS.Lin对战MRC",
@@ -2393,14 +2489,6 @@
       "onboard_time": 1711237876,
       "rank": 43,
       "category": "情感"
-    },
-    {
-      "raw_hot": 117641,
-      "num": 120010,
-      "word": "女子卖藕收到中国儿童银行5元钞",
-      "onboard_time": 1711284141,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 117480,
@@ -2523,6 +2611,14 @@
       "category": "动漫,网红"
     },
     {
+      "raw_hot": 81851,
+      "num": 775922,
+      "word": "花花盛开的中国春意拉满",
+      "onboard_time": 1711282880,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 76353,
       "num": 76353,
       "word": "杨幂发现自己五狐临门了",
@@ -2569,14 +2665,6 @@
       "onboard_time": 1711220052,
       "rank": 26,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 64003,
-      "num": 740789,
-      "word": "花花盛开的中国春意拉满",
-      "onboard_time": 1711282880,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 63361,
