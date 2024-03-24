@@ -1,6 +1,6 @@
 {
   "startTime": 1709223640991,
-  "endTime": 1711258435100,
+  "endTime": 1711261307883,
   "band_list": [
     {
       "raw_hot": 12728050,
@@ -2387,6 +2387,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1505448,
+      "num": 1505448,
+      "word": "台湾一男子持枪朝派出所门口扫射",
+      "onboard_time": 1711254919,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1501572,
       "num": 1501572,
       "word": "绯闻小三否认插足凯特王妃婚姻",
@@ -3003,6 +3011,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 1354236,
+      "num": 1354236,
+      "word": "首个国产女性向3A游戏",
+      "onboard_time": 1711258939,
+      "rank": 1,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 1352696,
       "num": 1261328,
       "word": "村委会回应3名初中生将同学杀害埋尸",
@@ -3089,14 +3105,6 @@
       "onboard_time": 1709872234,
       "rank": 21,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 1339597,
-      "num": 1339597,
-      "word": "台湾一男子持枪朝派出所门口扫射",
-      "onboard_time": 1711254919,
-      "rank": 3,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1338266,
@@ -3201,6 +3209,14 @@
       "onboard_time": 1710203013,
       "rank": 0,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 1322465,
+      "num": 1322465,
+      "word": "赵奕欢回怼李菲儿",
+      "onboard_time": 1711254380,
+      "rank": 13,
+      "category": "综艺"
     },
     {
       "raw_hot": 1319841,
@@ -3345,14 +3361,6 @@
       "onboard_time": 1710300873,
       "rank": 3,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1292964,
-      "num": 1019968,
-      "word": "赵奕欢回怼李菲儿",
-      "onboard_time": 1711254380,
-      "rank": 13,
-      "category": "综艺"
     },
     {
       "raw_hot": 1291810,
@@ -4473,6 +4481,14 @@
       "onboard_time": 1710127650,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1133761,
+      "num": 535969,
+      "word": "警方回应女子遭父亲多次强奸",
+      "onboard_time": 1711259359,
+      "rank": 11,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1133456,
@@ -6425,6 +6441,14 @@
       "onboard_time": 1710053491,
       "rank": 15,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 912935,
+      "num": 912935,
+      "word": "莫斯科恐袭已致133死152伤",
+      "onboard_time": 1711258098,
+      "rank": 20,
+      "category": "国外时政"
     },
     {
       "raw_hot": 912572,
@@ -12579,6 +12603,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 580533,
+      "num": 580533,
+      "word": "赵露思曾黎素颜合照",
+      "onboard_time": 1711257080,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 580111,
       "num": 580111,
       "word": "没想到都三月份还在穿羽绒服",
@@ -13897,14 +13929,6 @@
       "onboard_time": 1709940805,
       "rank": 42,
       "category": "演出,体育"
-    },
-    {
-      "raw_hot": 543264,
-      "num": 543264,
-      "word": "赵露思曾黎素颜合照",
-      "onboard_time": 1711257080,
-      "rank": 18,
-      "category": "艺人"
     },
     {
       "raw_hot": 543238,
@@ -19243,6 +19267,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 411244,
+      "num": 411244,
+      "word": "鹿晗跳自己的歌输给陈赫",
+      "onboard_time": 1711256359,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 411172,
       "num": 411172,
       "word": "全国政协委员建议取消入住酒店必须刷脸规定",
@@ -21731,6 +21763,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 362518,
+      "num": 362518,
+      "word": "雷军回应小米SU7为何始终不公布价格",
+      "onboard_time": 1711256660,
+      "rank": 30,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 362274,
       "num": 300486,
       "word": "你的工资刚够花还是能照顾到家人",
@@ -22249,6 +22289,14 @@
       "onboard_time": 1710899670,
       "rank": 23,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 352873,
+      "num": 352873,
+      "word": "重庆司机动用人脉给广东人找微辣火锅",
+      "onboard_time": 1711259959,
+      "rank": 17,
+      "category": "美食"
     },
     {
       "raw_hot": 352493,
@@ -23443,14 +23491,6 @@
       "category": "电影,动漫"
     },
     {
-      "raw_hot": 331911,
-      "num": 331911,
-      "word": "雷军回应小米SU7为何始终不公布价格",
-      "onboard_time": 1711256660,
-      "rank": 30,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 331694,
       "num": 290888,
       "word": "哈佛毕业回国考公是大材小用吗",
@@ -23464,14 +23504,6 @@
       "word": "张翰花少好友记路透",
       "onboard_time": 1711101079,
       "rank": 23,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 331531,
-      "num": 331531,
-      "word": "鹿晗跳自己的歌输给陈赫",
-      "onboard_time": 1711256359,
-      "rank": 26,
       "category": "综艺"
     },
     {
@@ -25267,14 +25299,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 304110,
-      "num": 304110,
-      "word": "莫斯科恐袭已致133死152伤",
-      "onboard_time": 1711258098,
-      "rank": 20,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 303860,
       "num": 303860,
       "word": "种地吧直播",
@@ -26688,6 +26712,14 @@
       "word": "花间令 亲吧你俩就亲吧",
       "onboard_time": 1711204581,
       "rank": 26,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 288490,
+      "num": 288490,
+      "word": "花间令校园暴力",
+      "onboard_time": 1711258459,
+      "rank": 21,
       "category": "剧集"
     },
     {
@@ -28641,6 +28673,14 @@
       "onboard_time": 1709362109,
       "rank": 22,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 265725,
+      "num": 265725,
+      "word": "拉塞尔退赛",
+      "onboard_time": 1711259540,
+      "rank": 23,
+      "category": "体育"
     },
     {
       "raw_hot": 265619,
@@ -30683,6 +30723,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 245790,
+      "num": 245790,
+      "word": "姓李的人今天一定要拜老子",
+      "onboard_time": 1711260439,
+      "rank": 24,
+      "category": "情感"
+    },
+    {
       "raw_hot": 245688,
       "num": 245688,
       "word": "Gucci活动",
@@ -31593,6 +31641,14 @@
       "onboard_time": 1710768996,
       "rank": 33,
       "category": "演出"
+    },
+    {
+      "raw_hot": 238555,
+      "num": 238555,
+      "word": "五哈瞒着鹿晗请来安叔",
+      "onboard_time": 1711259959,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 238458,
@@ -35953,6 +36009,14 @@
       "onboard_time": 1709800711,
       "rank": 24,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 210856,
+      "num": 210856,
+      "word": "张天爱腰臀比例",
+      "onboard_time": 1711257919,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 210802,
@@ -40347,6 +40411,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 193252,
+      "num": 193252,
+      "word": "明兰终究变成了红狼",
+      "onboard_time": 1711260740,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 193141,
       "num": 193141,
       "word": "差点就断崖式暧昧了",
@@ -40897,14 +40969,6 @@
       "onboard_time": 1710555756,
       "rank": 32,
       "category": "美食"
-    },
-    {
-      "raw_hot": 190893,
-      "num": 190893,
-      "word": "张天爱腰臀比例",
-      "onboard_time": 1711257919,
-      "rank": 32,
-      "category": "艺人"
     },
     {
       "raw_hot": 190862,
@@ -41841,6 +41905,14 @@
       "onboard_time": 1710576815,
       "rank": 37,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 187318,
+      "num": 187318,
+      "word": "邓超咬鹿晗",
+      "onboard_time": 1711257739,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 187220,
@@ -44233,6 +44305,14 @@
       "onboard_time": 1709510308,
       "rank": 34,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 176350,
+      "num": 176350,
+      "word": "P人整理桌子",
+      "onboard_time": 1711258818,
+      "rank": 34,
+      "category": "幽默"
     },
     {
       "raw_hot": 176295,
@@ -46712,14 +46792,6 @@
       "word": "时代少年团下岛第一件事",
       "onboard_time": 1710170852,
       "rank": 39,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 166167,
-      "num": 166167,
-      "word": "邓超咬鹿晗",
-      "onboard_time": 1711257739,
-      "rank": 34,
       "category": "综艺"
     },
     {
@@ -56883,6 +56955,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 128295,
+      "num": 128295,
+      "word": "公安民警没接到五哈在大明湖一带录制报备",
+      "onboard_time": 1711259180,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 128278,
       "num": 128278,
       "word": "斯诺克",
@@ -58035,6 +58115,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 123040,
+      "num": 123040,
+      "word": "副教授26岁学生比自己还大",
+      "onboard_time": 1711261038,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 123031,
       "num": 123031,
       "word": "何浩楠 水培生菜收工",
@@ -58225,6 +58313,14 @@
       "onboard_time": 1709447070,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 121997,
+      "num": 121997,
+      "word": "爱与不爱真的很明显",
+      "onboard_time": 1711260799,
+      "rank": 42,
+      "category": "情感"
     },
     {
       "raw_hot": 121941,
@@ -58457,6 +58553,14 @@
       "onboard_time": 1709802029,
       "rank": 43,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 121144,
+      "num": 121144,
+      "word": "承认父母不爱自己并不是很难",
+      "onboard_time": 1711261158,
+      "rank": 43,
+      "category": "情感"
     },
     {
       "raw_hot": 121083,
@@ -59539,6 +59643,14 @@
       "category": "作品衍生,美妆"
     },
     {
+      "raw_hot": 115662,
+      "num": 115662,
+      "word": "夏之光费加罗庄周梦蝶封面",
+      "onboard_time": 1711259060,
+      "rank": 44,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 115517,
       "num": 115517,
       "word": "国产剧女性角色不再cos王宝钏",
@@ -60499,6 +60611,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 110796,
+      "num": 110796,
+      "word": "莱特中册",
+      "onboard_time": 1711259779,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 110732,
       "num": 110732,
       "word": "沙丘2影迷cos沙虫",
@@ -61225,6 +61345,14 @@
       "onboard_time": 1709601630,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 105889,
+      "num": 105889,
+      "word": "F1澳大利亚大奖赛塞恩斯冠军",
+      "onboard_time": 1711259359,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 105766,
@@ -64196,7 +64324,7 @@
     },
     {
       "raw_hot": 63361,
-      "num": 1290192,
+      "num": 1335099,
       "word": "春耕春播春管新图景",
       "onboard_time": 1711251198,
       "rank": 2,
