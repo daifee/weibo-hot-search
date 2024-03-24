@@ -1,6 +1,6 @@
 {
   "startTime": 1711210803824,
-  "endTime": 1711262039001,
+  "endTime": 1711264512047,
   "band_list": [
     {
       "raw_hot": 3435224,
@@ -11,20 +11,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 2325245,
+      "num": 2325245,
+      "word": "首个国产女性向3A游戏",
+      "onboard_time": 1711258939,
+      "rank": 1,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 2064292,
       "num": 592096,
       "word": "台湾",
       "onboard_time": 1711255638,
       "rank": 10,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1923566,
-      "num": 1923566,
-      "word": "首个国产女性向3A游戏",
-      "onboard_time": 1711258939,
-      "rank": 1,
-      "category": "游戏"
     },
     {
       "raw_hot": 1764453,
@@ -97,6 +97,14 @@
       "onboard_time": 1711249819,
       "rank": 17,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1029712,
+      "num": 1029712,
+      "word": "中国气象局发布大地磁暴预警",
+      "onboard_time": 1711261399,
+      "rank": 27,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1004662,
@@ -187,6 +195,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 754460,
+      "num": 754460,
+      "word": "姓李的人今天一定要拜老子",
+      "onboard_time": 1711260439,
+      "rank": 24,
+      "category": "情感"
+    },
+    {
       "raw_hot": 741997,
       "num": 741997,
       "word": "小林制药公司召回约30万份产品",
@@ -227,6 +243,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 638595,
+      "num": 638595,
+      "word": "明兰终究变成了红狼",
+      "onboard_time": 1711260740,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 612770,
       "num": 313701,
       "word": "收费站工作人员逼司机吃垃圾桶食物",
@@ -249,6 +273,14 @@
       "onboard_time": 1711246279,
       "rank": 28,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 586765,
+      "num": 586765,
+      "word": "Jessi认出了六年没见的粉丝",
+      "onboard_time": 1711261939,
+      "rank": 28,
+      "category": "演出"
     },
     {
       "raw_hot": 585648,
@@ -395,6 +427,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 450227,
+      "num": 259493,
+      "word": "副教授26岁学生比自己还大",
+      "onboard_time": 1711261038,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 440649,
       "num": 278563,
       "word": "泽连斯基回应乌被指与恐袭有关",
@@ -409,14 +449,6 @@
       "onboard_time": 1711182859,
       "rank": 9,
       "category": "数码"
-    },
-    {
-      "raw_hot": 429483,
-      "num": 429483,
-      "word": "明兰终究变成了红狼",
-      "onboard_time": 1711260740,
-      "rank": 30,
-      "category": "剧集"
     },
     {
       "raw_hot": 427678,
@@ -579,6 +611,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 317350,
+      "num": 317350,
+      "word": "赵本山沈腾北野武同框",
+      "onboard_time": 1711262300,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 307358,
       "num": 307358,
       "word": "普京宣布24日为俄罗斯全民哀悼日",
@@ -667,14 +707,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 275093,
-      "num": 275093,
-      "word": "姓李的人今天一定要拜老子",
-      "onboard_time": 1711260439,
-      "rank": 24,
-      "category": "情感"
-    },
-    {
       "raw_hot": 271094,
       "num": 271094,
       "word": "林依晨新版你",
@@ -723,14 +755,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 259493,
-      "num": 259493,
-      "word": "副教授26岁学生比自己还大",
-      "onboard_time": 1711261038,
-      "rank": 41,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 258897,
       "num": 258897,
       "word": "最适合定居的城市",
@@ -753,6 +777,14 @@
       "onboard_time": 1711243639,
       "rank": 26,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 254847,
+      "num": 244673,
+      "word": "三年后才打开初恋送的礼物",
+      "onboard_time": 1711262179,
+      "rank": 21,
+      "category": "情感"
     },
     {
       "raw_hot": 249688,
@@ -795,20 +827,20 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 247172,
-      "num": 247172,
-      "word": "中国气象局发布大地磁暴预警",
-      "onboard_time": 1711261399,
-      "rank": 27,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 241647,
       "num": 241647,
       "word": "五哈",
       "onboard_time": 1711252340,
       "rank": 18,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 235987,
+      "num": 235987,
+      "word": "林更新被问和赵丽颖拍戏时耳朵怎么红",
+      "onboard_time": 1711262238,
+      "rank": 22,
+      "category": "剧集"
     },
     {
       "raw_hot": 235813,
@@ -825,14 +857,6 @@
       "onboard_time": 1711198701,
       "rank": 24,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 233578,
-      "num": 233578,
-      "word": "Jessi认出了六年没见的粉丝",
-      "onboard_time": 1711261939,
-      "rank": 28,
-      "category": "演出"
     },
     {
       "raw_hot": 232821,
@@ -907,12 +931,28 @@
       "category": "演出"
     },
     {
+      "raw_hot": 217606,
+      "num": 217606,
+      "word": "锦超白挨李菲儿一顿骂",
+      "onboard_time": 1711263619,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 213717,
       "num": 213717,
       "word": "邓超说孙俪真过分",
       "onboard_time": 1711246337,
       "rank": 29,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 211948,
+      "num": 196038,
+      "word": "丁俊晖打破10年不胜罗伯逊魔咒",
+      "onboard_time": 1711263619,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 208813,
@@ -937,6 +977,14 @@
       "onboard_time": 1711244719,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 204941,
+      "num": 204941,
+      "word": "P人整理桌子",
+      "onboard_time": 1711258818,
+      "rank": 34,
+      "category": "幽默"
     },
     {
       "raw_hot": 201162,
@@ -971,6 +1019,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 197325,
+      "num": 197325,
+      "word": "金善禹金发",
+      "onboard_time": 1711261399,
+      "rank": 34,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 196737,
       "num": 196737,
       "word": "林俊杰开大G",
@@ -1003,20 +1059,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 191670,
-      "num": 191670,
-      "word": "金善禹金发",
-      "onboard_time": 1711261399,
-      "rank": 34,
-      "category": "作品衍生"
-    },
-    {
-      "raw_hot": 187797,
-      "num": 187797,
-      "word": "P人整理桌子",
-      "onboard_time": 1711258818,
-      "rank": 34,
-      "category": "幽默"
+      "raw_hot": 193037,
+      "num": 193037,
+      "word": "XYG 抽象",
+      "onboard_time": 1711263799,
+      "rank": 32,
+      "category": "电竞"
     },
     {
       "raw_hot": 187318,
@@ -1049,6 +1097,14 @@
       "onboard_time": 1711207760,
       "rank": 32,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 182629,
+      "num": 182629,
+      "word": "这些蔬菜居然比牛奶还补钙",
+      "onboard_time": 1711263858,
+      "rank": 35,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 182596,
@@ -1203,6 +1259,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 160208,
+      "num": 160208,
+      "word": "李一桐 初恋感",
+      "onboard_time": 1711263979,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 157756,
       "num": 157756,
       "word": "跟父母谎报价格最狠的一次",
@@ -1225,6 +1289,14 @@
       "onboard_time": 1711251198,
       "rank": 37,
       "category": "演出"
+    },
+    {
+      "raw_hot": 155095,
+      "num": 155095,
+      "word": "温以凡的人物底色",
+      "onboard_time": 1711263077,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 153075,
@@ -1449,6 +1521,14 @@
       "onboard_time": 1711245978,
       "rank": 45,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 119728,
+      "num": 119728,
+      "word": "老子精神状态领先年轻人2500多年",
+      "onboard_time": 1711263440,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 118642,
