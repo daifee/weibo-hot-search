@@ -1,6 +1,6 @@
 {
   "startTime": 1711210803824,
-  "endTime": 1711276447402,
+  "endTime": 1711278796091,
   "band_list": [
     {
       "raw_hot": 3435224,
@@ -108,7 +108,7 @@
     },
     {
       "raw_hot": 1140173,
-      "num": 429071,
+      "num": 503724,
       "word": "我是学校里唯一一条蛆",
       "onboard_time": 1711271298,
       "rank": 30,
@@ -291,6 +291,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 672210,
+      "num": 672210,
+      "word": "石榴姐",
+      "onboard_time": 1711272679,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 669683,
       "num": 669683,
       "word": "赵露思出图",
@@ -363,6 +371,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 596405,
+      "num": 596405,
+      "word": "俄罗斯",
+      "onboard_time": 1711277478,
+      "rank": 6,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 586765,
       "num": 586765,
       "word": "Jessi认出了六年没见的粉丝",
@@ -409,6 +425,22 @@
       "onboard_time": 1711250838,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 553197,
+      "num": 530371,
+      "word": "俄对乌发动无人机和导弹混合袭击",
+      "onboard_time": 1711278080,
+      "rank": 9,
+      "category": "国外时政"
+    },
+    {
+      "raw_hot": 546675,
+      "num": 546675,
+      "word": "女孩走失被热成像无人机20分钟找到",
+      "onboard_time": 1711274422,
+      "rank": 8,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 538379,
@@ -483,6 +515,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 486355,
+      "num": 486355,
+      "word": "陶喆爆改Melody给老婆",
+      "onboard_time": 1711274058,
+      "rank": 15,
+      "category": "演出"
+    },
+    {
       "raw_hot": 484107,
       "num": 484107,
       "word": "夏之光翟潇闻 嗑到了",
@@ -505,14 +545,6 @@
       "onboard_time": 1711250660,
       "rank": 32,
       "category": "运动健身"
-    },
-    {
-      "raw_hot": 481324,
-      "num": 481324,
-      "word": "陶喆爆改Melody给老婆",
-      "onboard_time": 1711274058,
-      "rank": 15,
-      "category": "演出"
     },
     {
       "raw_hot": 472689,
@@ -595,14 +627,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 431349,
-      "num": 431349,
-      "word": "石榴姐",
-      "onboard_time": 1711272679,
-      "rank": 44,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 427678,
       "num": 427678,
       "word": "南北",
@@ -683,6 +707,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 387514,
+      "num": 387514,
+      "word": "infp是写文字天赋型选手",
+      "onboard_time": 1711277360,
+      "rank": 15,
+      "category": "情感"
+    },
+    {
       "raw_hot": 387274,
       "num": 342523,
       "word": "被辞退的实习生在大群发的消息",
@@ -729,6 +761,14 @@
       "onboard_time": 1711205182,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 361935,
+      "num": 361935,
+      "word": "做美甲游离线真的会变长",
+      "onboard_time": 1711276039,
+      "rank": 45,
+      "category": "科学科普"
     },
     {
       "raw_hot": 357207,
@@ -812,19 +852,11 @@
     },
     {
       "raw_hot": 330110,
-      "num": 205660,
+      "num": 259840,
       "word": "丁俊晖犯规",
       "onboard_time": 1711275018,
       "rank": 35,
       "category": "体育"
-    },
-    {
-      "raw_hot": 322300,
-      "num": 463962,
-      "word": "女孩走失被热成像无人机20分钟找到",
-      "onboard_time": 1711274422,
-      "rank": 8,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 307358,
@@ -913,6 +945,14 @@
       "onboard_time": 1711243458,
       "rank": 25,
       "category": "演出"
+    },
+    {
+      "raw_hot": 283542,
+      "num": 283542,
+      "word": "你的苹果手机使几年了",
+      "onboard_time": 1711276460,
+      "rank": 22,
+      "category": "数码"
     },
     {
       "raw_hot": 281908,
@@ -1075,6 +1115,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 243091,
+      "num": 243091,
+      "word": "赵丽颖的造型师还是闵塔鲨",
+      "onboard_time": 1711276760,
+      "rank": 26,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 242512,
       "num": 242512,
       "word": "锦超白挨李菲儿一顿骂",
@@ -1147,6 +1195,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 229850,
+      "num": 229850,
+      "word": "妈妈知道孔晓振交往小10岁男友的反应",
+      "onboard_time": 1711276039,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 229482,
       "num": 229482,
       "word": "汉字是属于中国人独有的浪漫",
@@ -1161,6 +1217,14 @@
       "onboard_time": 1711263619,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 224203,
+      "num": 224203,
+      "word": "彭昱畅 窝囊废赛道特型演员",
+      "onboard_time": 1711274479,
+      "rank": 33,
+      "category": "电影"
     },
     {
       "raw_hot": 223317,
@@ -1227,14 +1291,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 212723,
-      "num": 205485,
-      "word": "妈妈知道孔晓振交往小10岁男友的反应",
-      "onboard_time": 1711276039,
-      "rank": 31,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 211100,
       "num": 211100,
       "word": "周也潍坊",
@@ -1265,6 +1321,14 @@
       "onboard_time": 1711244719,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 206594,
+      "num": 206594,
+      "word": "浪姐一公上班路透",
+      "onboard_time": 1711275620,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 204941,
@@ -1313,14 +1377,6 @@
       "onboard_time": 1711275797,
       "rank": 33,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 199756,
-      "num": 199756,
-      "word": "浪姐一公上班路透",
-      "onboard_time": 1711275620,
-      "rank": 34,
-      "category": "综艺"
     },
     {
       "raw_hot": 199692,
@@ -1380,7 +1436,7 @@
     },
     {
       "raw_hot": 194233,
-      "num": 512095,
+      "num": 542388,
       "word": "3男孩遇杂草起火先报警再灭火",
       "onboard_time": 1711273877,
       "rank": 7,
@@ -1411,6 +1467,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 190726,
+      "num": 190726,
+      "word": "终于悟了我单身的原因",
+      "onboard_time": 1711277960,
+      "rank": 33,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 187318,
       "num": 187318,
       "word": "邓超咬鹿晗",
@@ -1435,14 +1499,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 185161,
-      "num": 185161,
-      "word": "彭昱畅 窝囊废赛道特型演员",
-      "onboard_time": 1711274479,
-      "rank": 33,
-      "category": "电影"
-    },
-    {
       "raw_hot": 183919,
       "num": 183919,
       "word": "林更新卷毛回来了",
@@ -1465,6 +1521,14 @@
       "onboard_time": 1711264999,
       "rank": 32,
       "category": "体育"
+    },
+    {
+      "raw_hot": 180583,
+      "num": 180583,
+      "word": "狼人杀为啥没人玩了",
+      "onboard_time": 1711277360,
+      "rank": 34,
+      "category": "游戏"
     },
     {
       "raw_hot": 179933,
@@ -1571,6 +1635,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 168012,
+      "num": 168012,
+      "word": "宋亚轩失恋循环预告MV",
+      "onboard_time": 1711277360,
+      "rank": 38,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 165739,
       "num": 165739,
       "word": "俄罗斯已进入战争状态",
@@ -1675,6 +1747,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 159893,
+      "num": 159893,
+      "word": "周鸿祎分享清华读博日常",
+      "onboard_time": 1711277960,
+      "rank": 40,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 158818,
       "num": 158818,
       "word": "Gr对战FPX.ZQ",
@@ -1721,6 +1801,14 @@
       "onboard_time": 1711263077,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 153888,
+      "num": 153888,
+      "word": "什么是友情断层",
+      "onboard_time": 1711278380,
+      "rank": 42,
+      "category": "情感"
     },
     {
       "raw_hot": 153152,
@@ -1811,12 +1899,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 140646,
+      "num": 140646,
+      "word": "根据我的微博 判断我的MBTI",
+      "onboard_time": 1711278678,
+      "rank": 45,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 140552,
       "num": 140552,
       "word": "中国马拉松进入206时代",
       "onboard_time": 1711244059,
       "rank": 42,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 139900,
+      "num": 139900,
+      "word": "如何让自己变得积极快乐",
+      "onboard_time": 1711277779,
+      "rank": 46,
+      "category": "情感"
     },
     {
       "raw_hot": 139135,
@@ -2003,14 +2107,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 125189,
-      "num": 125189,
-      "word": "做美甲游离线真的会变长",
-      "onboard_time": 1711276039,
-      "rank": 45,
-      "category": "科学科普"
-    },
-    {
       "raw_hot": 124984,
       "num": 124984,
       "word": "天水首届麻辣烫文化节",
@@ -2179,6 +2275,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 110280,
+      "num": 134084,
+      "word": "胖东来回应985女生应聘没进面试",
+      "onboard_time": 1711278739,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 109337,
       "num": 109337,
       "word": "背景图",
@@ -2265,6 +2369,14 @@
       "onboard_time": 1711236194,
       "rank": 42,
       "category": "体育"
+    },
+    {
+      "raw_hot": 49782,
+      "num": 389344,
+      "word": "今天超15万人在跑马拉松",
+      "onboard_time": 1711278018,
+      "rank": 14,
+      "category": "运动健身"
     },
     {
       "raw_hot": 45301,
