@@ -1,0 +1,410 @@
+{
+  "runTime": 1711284379532,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2500219,
+        "num": 2500219,
+        "word": "胖东来回应985女生应聘没进面试",
+        "onboard_time": 1711278739,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 862626,
+        "num": 862626,
+        "word": "纪凌尘 小时候发过高烧的感觉",
+        "onboard_time": 1711281561,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 64003,
+        "num": 736869,
+        "word": "花花盛开的中国春意拉满",
+        "onboard_time": 1711282880,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 612915,
+        "num": 612915,
+        "word": "做美甲游离线真的会变长",
+        "onboard_time": 1711276039,
+        "rank": 3,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 474477,
+        "num": 474477,
+        "word": "首个国产女性向3A游戏",
+        "onboard_time": 1711258939,
+        "rank": 4,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 490185,
+        "num": 474157,
+        "word": "沙利文",
+        "onboard_time": 1711281138,
+        "rank": 5,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 473208,
+        "num": 473208,
+        "word": "张杰他懂他真的懂",
+        "onboard_time": 1711280540,
+        "rank": 6,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 465152,
+        "num": 465152,
+        "word": "俄对乌发动无人机和导弹混合袭击",
+        "onboard_time": 1711278080,
+        "rank": 7,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 441816,
+        "num": 441816,
+        "word": "俄媒播出普京获悉音乐厅恐袭后画面",
+        "onboard_time": 1711282880,
+        "rank": 8,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 386907,
+        "num": 386907,
+        "word": "什么是友情断层",
+        "onboard_time": 1711278380,
+        "rank": 9,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 648339,
+        "num": 379428,
+        "word": "王诗龄砂锅铺满了黑松露",
+        "onboard_time": 1711267638,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 527706,
+        "num": 374700,
+        "word": "我是学校里唯一一条蛆",
+        "onboard_time": 1711271298,
+        "rank": 11,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 455502,
+        "num": 373501,
+        "word": "台湾",
+        "onboard_time": 1711255638,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 362946,
+        "num": 362946,
+        "word": "WBG晋级春季赛季后赛",
+        "onboard_time": 1711282759,
+        "rank": 13,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 325847,
+        "num": 325847,
+        "word": "AG对战WB",
+        "onboard_time": 1711283840,
+        "rank": 14,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 320058,
+        "num": 320058,
+        "word": "前男友大半夜开始发疯了",
+        "onboard_time": 1711272140,
+        "rank": 15,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 317571,
+        "num": 317571,
+        "word": "杨和苏鼻梁",
+        "onboard_time": 1711283600,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 295899,
+        "num": 295899,
+        "word": "女孩走失被热成像无人机20分钟找到",
+        "onboard_time": 1711274422,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 293815,
+        "num": 293815,
+        "word": "赵奕欢回怼李菲儿",
+        "onboard_time": 1711254380,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 288083,
+        "num": 288083,
+        "word": "你的苹果手机使几年了",
+        "onboard_time": 1711276460,
+        "rank": 19,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 522547,
+        "num": 280177,
+        "word": "港媒镜头下的赵露思生图",
+        "onboard_time": 1711267339,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 315884,
+        "num": 268427,
+        "word": "怀孕7个月后仍安排上班12小时合理吗",
+        "onboard_time": 1711273519,
+        "rank": 21,
+        "category": "母婴育儿"
+      },
+      {
+        "raw_hot": 247428,
+        "num": 247428,
+        "word": "分享欲为什么会逐渐消失",
+        "onboard_time": 1711283059,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 246444,
+        "num": 246444,
+        "word": "陈丽君浪姐全妆路透",
+        "onboard_time": 1711281081,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 238104,
+        "num": 238104,
+        "word": "infp是写文字天赋型选手",
+        "onboard_time": 1711277360,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 233404,
+        "num": 233404,
+        "word": "俄罗斯",
+        "onboard_time": 1711277478,
+        "rank": 25,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 223424,
+        "num": 223424,
+        "word": "周深新歌",
+        "onboard_time": 1711283238,
+        "rank": 26,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 221571,
+        "num": 221571,
+        "word": "倪妮拍戏",
+        "onboard_time": 1711281499,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 217645,
+        "num": 217645,
+        "word": "石榴姐",
+        "onboard_time": 1711272679,
+        "rank": 28,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 208304,
+        "num": 208304,
+        "word": "被辞退的实习生在大群发的消息",
+        "onboard_time": 1711272679,
+        "rank": 29,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 206942,
+        "num": 206942,
+        "word": "重庆姐弟坠亡案生母需终生服药",
+        "onboard_time": 1711269198,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 197973,
+        "num": 197973,
+        "word": "女子实名举报年幼时遭亲生父亲多次强奸",
+        "onboard_time": 1711283659,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 194732,
+        "num": 194732,
+        "word": "陶喆爆改Melody给老婆",
+        "onboard_time": 1711274058,
+        "rank": 32,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 193561,
+        "num": 193561,
+        "word": "赵丽颖的造型师还是闵塔鲨",
+        "onboard_time": 1711276760,
+        "rank": 33,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 183763,
+        "num": 183763,
+        "word": "他用三十块钱跟外婆再见了一次",
+        "onboard_time": 1711279219,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 162862,
+        "num": 162862,
+        "word": "花间令癫成了我想要的样子",
+        "onboard_time": 1711280719,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 161957,
+        "num": 161957,
+        "word": "张栋梁王心凌 何群成晓诗",
+        "onboard_time": 1711271900,
+        "rank": 36,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 161907,
+        "num": 161907,
+        "word": "狼人杀为啥没人玩了",
+        "onboard_time": 1711277360,
+        "rank": 37,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 160646,
+        "num": 160646,
+        "word": "孙俪新剧",
+        "onboard_time": 1711266619,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 129531,
+        "num": 159465,
+        "word": "辽宁男篮vs浙江男篮",
+        "onboard_time": 1711283180,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 158746,
+        "num": 158746,
+        "word": "TES战胜AL",
+        "onboard_time": 1711282580,
+        "rank": 40,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 157236,
+        "num": 157236,
+        "word": "女生的裤子可以多到什么程度",
+        "onboard_time": 1711266558,
+        "rank": 41,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 152475,
+        "num": 152475,
+        "word": "爸爸因为妈妈要学车开始发癫",
+        "onboard_time": 1711267699,
+        "rank": 42,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 134514,
+        "num": 134514,
+        "word": "恋爱一年后依然没有情绪价值",
+        "onboard_time": 1711267038,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 130053,
+        "num": 130053,
+        "word": "过生日被流浪汉送项链",
+        "onboard_time": 1711283301,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 128760,
+        "num": 128760,
+        "word": "终于悟了我单身的原因",
+        "onboard_time": 1711277960,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 125819,
+        "num": 125819,
+        "word": "宋雨琦卷发",
+        "onboard_time": 1711279940,
+        "rank": 46,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 123594,
+        "num": 123594,
+        "word": "官方回应极氪轿车在车展撞伤游客",
+        "onboard_time": 1711283899,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 120336,
+        "num": 120336,
+        "word": "吴磊尊嘟假嘟",
+        "onboard_time": 1711280299,
+        "rank": 48,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 117641,
+        "num": 120010,
+        "word": "女子卖藕收到中国儿童银行5元钞",
+        "onboard_time": 1711284141,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#发展清洁生产加快实现绿色低碳发展#"
+    }
+  }
+}

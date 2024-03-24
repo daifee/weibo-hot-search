@@ -1,6 +1,6 @@
 {
   "startTime": 1711210803824,
-  "endTime": 1711283475969,
+  "endTime": 1711284379532,
   "band_list": [
     {
       "raw_hot": 3435224,
@@ -211,6 +211,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 862626,
+      "num": 862626,
+      "word": "纪凌尘 小时候发过高烧的感觉",
+      "onboard_time": 1711281561,
+      "rank": 1,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 828870,
       "num": 435254,
       "word": "王俊凯爸妈的奶茶店引发粉丝凌晨排队",
@@ -281,14 +289,6 @@
       "onboard_time": 1711266619,
       "rank": 5,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 742900,
-      "num": 742900,
-      "word": "纪凌尘 小时候发过高烧的感觉",
-      "onboard_time": 1711281561,
-      "rank": 1,
-      "category": "综艺"
     },
     {
       "raw_hot": 741997,
@@ -659,6 +659,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 441816,
+      "num": 441816,
+      "word": "俄媒播出普京获悉音乐厅恐袭后画面",
+      "onboard_time": 1711282880,
+      "rank": 29,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 440649,
       "num": 278563,
       "word": "泽连斯基回应乌被指与恐袭有关",
@@ -763,6 +771,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 386907,
+      "num": 386907,
+      "word": "什么是友情断层",
+      "onboard_time": 1711278380,
+      "rank": 42,
+      "category": "情感"
+    },
+    {
       "raw_hot": 379093,
       "num": 348970,
       "word": "外媒称伊斯兰国发布袭击音乐厅视频",
@@ -801,6 +817,14 @@
       "onboard_time": 1711205182,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 362946,
+      "num": 362946,
+      "word": "WBG晋级春季赛季后赛",
+      "onboard_time": 1711282759,
+      "rank": 18,
+      "category": "电竞"
     },
     {
       "raw_hot": 357207,
@@ -867,14 +891,6 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 336172,
-      "num": 336172,
-      "word": "什么是友情断层",
-      "onboard_time": 1711278380,
-      "rank": 42,
-      "category": "情感"
-    },
-    {
       "raw_hot": 332920,
       "num": 279529,
       "word": "人体中最不怕冷的器官是哪个",
@@ -897,6 +913,22 @@
       "onboard_time": 1711275018,
       "rank": 35,
       "category": "体育"
+    },
+    {
+      "raw_hot": 325847,
+      "num": 325847,
+      "word": "AG对战WB",
+      "onboard_time": 1711283840,
+      "rank": 14,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 317571,
+      "num": 317571,
+      "word": "杨和苏鼻梁",
+      "onboard_time": 1711283600,
+      "rank": 16,
+      "category": "综艺"
     },
     {
       "raw_hot": 307358,
@@ -963,14 +995,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 292651,
-      "num": 292651,
-      "word": "WBG晋级春季赛季后赛",
-      "onboard_time": 1711282759,
-      "rank": 18,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 290639,
       "num": 290639,
       "word": "孙俪胡杏儿二搭",
@@ -987,6 +1011,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 288083,
+      "num": 288083,
+      "word": "你的苹果手机使几年了",
+      "onboard_time": 1711276460,
+      "rank": 22,
+      "category": "数码"
+    },
+    {
       "raw_hot": 286308,
       "num": 286308,
       "word": "马拉松",
@@ -1001,14 +1033,6 @@
       "onboard_time": 1711243458,
       "rank": 25,
       "category": "演出"
-    },
-    {
-      "raw_hot": 283542,
-      "num": 283542,
-      "word": "你的苹果手机使几年了",
-      "onboard_time": 1711276460,
-      "rank": 22,
-      "category": "数码"
     },
     {
       "raw_hot": 282091,
@@ -1187,6 +1211,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 247428,
+      "num": 247428,
+      "word": "分享欲为什么会逐渐消失",
+      "onboard_time": 1711283059,
+      "rank": 36,
+      "category": "情感"
+    },
+    {
       "raw_hot": 242512,
       "num": 242512,
       "word": "锦超白挨李菲儿一顿骂",
@@ -1305,6 +1337,14 @@
       "onboard_time": 1711263619,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 223424,
+      "num": 223424,
+      "word": "周深新歌",
+      "onboard_time": 1711283238,
+      "rank": 42,
+      "category": "音乐"
     },
     {
       "raw_hot": 223317,
@@ -1467,6 +1507,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 197973,
+      "num": 197973,
+      "word": "女子实名举报年幼时遭亲生父亲多次强奸",
+      "onboard_time": 1711283659,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 197441,
       "num": 197441,
       "word": "经常早醒算是一种疾病吗",
@@ -1489,14 +1537,6 @@
       "onboard_time": 1711196060,
       "rank": 30,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 196616,
-      "num": 196616,
-      "word": "俄媒播出普京获悉音乐厅恐袭后画面",
-      "onboard_time": 1711282880,
-      "rank": 29,
-      "category": "国外时政"
     },
     {
       "raw_hot": 196370,
@@ -1723,14 +1763,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 168506,
-      "num": 168506,
-      "word": "分享欲为什么会逐渐消失",
-      "onboard_time": 1711283059,
-      "rank": 36,
-      "category": "情感"
-    },
-    {
       "raw_hot": 168083,
       "num": 168083,
       "word": "当外甥女和男朋友第一次交流时",
@@ -1793,6 +1825,14 @@
       "onboard_time": 1711261700,
       "rank": 39,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 162862,
+      "num": 162862,
+      "word": "花间令癫成了我想要的样子",
+      "onboard_time": 1711280719,
+      "rank": 38,
+      "category": "剧集"
     },
     {
       "raw_hot": 162690,
@@ -1913,14 +1953,6 @@
       "onboard_time": 1711263077,
       "rank": 38,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 154278,
-      "num": 154278,
-      "word": "花间令癫成了我想要的样子",
-      "onboard_time": 1711280719,
-      "rank": 38,
-      "category": "剧集"
     },
     {
       "raw_hot": 153152,
@@ -2099,14 +2131,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 136930,
-      "num": 136930,
-      "word": "周深新歌",
-      "onboard_time": 1711283238,
-      "rank": 42,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 136827,
       "num": 136827,
       "word": "巴菲特持股可口可乐35年豪赚2200亿",
@@ -2179,6 +2203,22 @@
       "category": "电影"
     },
     {
+      "raw_hot": 130053,
+      "num": 130053,
+      "word": "过生日被流浪汉送项链",
+      "onboard_time": 1711283301,
+      "rank": 44,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 129531,
+      "num": 159465,
+      "word": "辽宁男篮vs浙江男篮",
+      "onboard_time": 1711283180,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 128427,
       "num": 128427,
       "word": "阿修罗花合战",
@@ -2225,14 +2265,6 @@
       "onboard_time": 1711257500,
       "rank": 40,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 126899,
-      "num": 126899,
-      "word": "过生日被流浪汉送项链",
-      "onboard_time": 1711283301,
-      "rank": 44,
-      "category": "情感"
     },
     {
       "raw_hot": 126729,
@@ -2283,6 +2315,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 123594,
+      "num": 123594,
+      "word": "官方回应极氪轿车在车展撞伤游客",
+      "onboard_time": 1711283899,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 123377,
       "num": 123377,
       "word": "ZS.Lin对战MRC",
@@ -2305,14 +2345,6 @@
       "onboard_time": 1711283359,
       "rank": 47,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 121481,
-      "num": 146187,
-      "word": "辽宁男篮vs浙江男篮",
-      "onboard_time": 1711283180,
-      "rank": 39,
-      "category": "体育"
     },
     {
       "raw_hot": 121148,
@@ -2361,6 +2393,14 @@
       "onboard_time": 1711237876,
       "rank": 43,
       "category": "情感"
+    },
+    {
+      "raw_hot": 117641,
+      "num": 120010,
+      "word": "女子卖藕收到中国儿童银行5元钞",
+      "onboard_time": 1711284141,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 117480,
@@ -2531,6 +2571,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 64003,
+      "num": 740789,
+      "word": "花花盛开的中国春意拉满",
+      "onboard_time": 1711282880,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 63361,
       "num": 1335099,
       "word": "春耕春播春管新图景",
@@ -2609,14 +2657,6 @@
       "onboard_time": 1711275978,
       "rank": 14,
       "category": "体育"
-    },
-    {
-      "raw_hot": 29095,
-      "num": 740789,
-      "word": "花花盛开的中国春意拉满",
-      "onboard_time": 1711282880,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 26835,
