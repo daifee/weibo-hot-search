@@ -1,0 +1,410 @@
+{
+  "runTime": 1711271872687,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1781181,
+        "num": 1781181,
+        "word": "唐九洲 霸王茶姬霸王茶姬霸王茶姬",
+        "onboard_time": 1711270638,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1582845,
+        "num": 1582845,
+        "word": "王诗龄砂锅铺满了黑松露",
+        "onboard_time": 1711267638,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 54989,
+        "num": 1267319,
+        "word": "用移轴技巧呈现春耕之美",
+        "onboard_time": 1711269499,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1237435,
+        "num": 1237435,
+        "word": "港媒镜头下的赵露思生图",
+        "onboard_time": 1711267339,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1081989,
+        "num": 1081989,
+        "word": "首个国产女性向3A游戏",
+        "onboard_time": 1711258939,
+        "rank": 4,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 1050056,
+        "num": 1050056,
+        "word": "女生的裤子可以多到什么程度",
+        "onboard_time": 1711266558,
+        "rank": 5,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 623763,
+        "num": 623763,
+        "word": "恋爱一年后依然没有情绪价值",
+        "onboard_time": 1711267038,
+        "rank": 6,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 606726,
+        "num": 606726,
+        "word": "爸爸因为妈妈要学车开始发癫",
+        "onboard_time": 1711267699,
+        "rank": 7,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 461396,
+        "num": 574526,
+        "word": "中国气象局发布大地磁暴预警",
+        "onboard_time": 1711261399,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 414998,
+        "num": 572235,
+        "word": "嫌疑人称莫斯科恐袭招募人命令无差别射杀",
+        "onboard_time": 1711265720,
+        "rank": 9,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 1090492,
+        "num": 571848,
+        "word": "重庆姐弟坠亡案生母需终生服药",
+        "onboard_time": 1711269198,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 571390,
+        "num": 571390,
+        "word": "赵奕欢回怼李菲儿",
+        "onboard_time": 1711254380,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 455985,
+        "num": 455985,
+        "word": "孙俪新剧",
+        "onboard_time": 1711266619,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 413863,
+        "num": 413863,
+        "word": "鹿晗淄博",
+        "onboard_time": 1711267638,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 407279,
+        "num": 407279,
+        "word": "台湾",
+        "onboard_time": 1711255638,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 406355,
+        "num": 406355,
+        "word": "迪丽热巴路透",
+        "onboard_time": 1711266980,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 392217,
+        "num": 392217,
+        "word": "姓李的人今天一定要拜老子",
+        "onboard_time": 1711260439,
+        "rank": 16,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 331006,
+        "num": 331006,
+        "word": "李菲儿扣了250分",
+        "onboard_time": 1711251260,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 133068,
+        "num": 304824,
+        "word": "点咖啡偶遇卡琳娜",
+        "onboard_time": 1711270219,
+        "rank": 18,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 250367,
+        "num": 300733,
+        "word": "莫斯科恐袭已致133死152伤",
+        "onboard_time": 1711258098,
+        "rank": 19,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 300358,
+        "num": 300358,
+        "word": "海关查获200张Switch游戏卡",
+        "onboard_time": 1711264518,
+        "rank": 20,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 278801,
+        "num": 278801,
+        "word": "难哄官宣",
+        "onboard_time": 1711246398,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 238032,
+        "num": 238032,
+        "word": "Hero续命",
+        "onboard_time": 1711271358,
+        "rank": 22,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 235208,
+        "num": 235208,
+        "word": "张予曦细腰",
+        "onboard_time": 1711267339,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 186490,
+        "num": 234285,
+        "word": "男子捡17岁女生手机归还反被讹200",
+        "onboard_time": 1711254499,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 233938,
+        "num": 233938,
+        "word": "腾讯辟谣马化腾衰老照",
+        "onboard_time": 1711267699,
+        "rank": 25,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 216049,
+        "num": 216049,
+        "word": "夏之光翟潇闻 嗑到了",
+        "onboard_time": 1711266138,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 215508,
+        "num": 215508,
+        "word": "XYG战胜DYG",
+        "onboard_time": 1711270759,
+        "rank": 27,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 214982,
+        "num": 214982,
+        "word": "副教授26岁学生比自己还大",
+        "onboard_time": 1711261038,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 120785,
+        "num": 204005,
+        "word": "乌克兰全境响防空警报",
+        "onboard_time": 1711253479,
+        "rank": 29,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 247048,
+        "num": 203886,
+        "word": "我是学校里唯一一条蛆",
+        "onboard_time": 1711271298,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 202915,
+        "num": 202915,
+        "word": "奶鳄传",
+        "onboard_time": 1711269739,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 194950,
+        "num": 194950,
+        "word": "孙俪胡杏儿二搭",
+        "onboard_time": 1711268239,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 188997,
+        "num": 188997,
+        "word": "网友求邓超断更",
+        "onboard_time": 1711266680,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 187303,
+        "num": 187303,
+        "word": "明兰终究变成了红狼",
+        "onboard_time": 1711260740,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 178474,
+        "num": 178474,
+        "word": "XYG赛季首胜",
+        "onboard_time": 1711270400,
+        "rank": 35,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 172634,
+        "num": 172634,
+        "word": "DYG 抽象",
+        "onboard_time": 1711266917,
+        "rank": 36,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 161449,
+        "num": 161449,
+        "word": "25岁的自己和想象中不一样",
+        "onboard_time": 1711268478,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 153247,
+        "num": 153247,
+        "word": "周也潍坊",
+        "onboard_time": 1711271598,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 111726,
+        "num": 153191,
+        "word": "俄罗斯男子赤手空拳打晕恐怖分子",
+        "onboard_time": 1711256479,
+        "rank": 39,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 153152,
+        "num": 153152,
+        "word": "不知道的还以为霍建华演了与凤行",
+        "onboard_time": 1711269919,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 142070,
+        "num": 142070,
+        "word": "DYG对战XYG",
+        "onboard_time": 1711261700,
+        "rank": 41,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 133468,
+        "num": 133468,
+        "word": "强来了文学",
+        "onboard_time": 1711269020,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 132605,
+        "num": 132605,
+        "word": "中国各省第一大姓",
+        "onboard_time": 1711254019,
+        "rank": 43,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 130261,
+        "num": 130261,
+        "word": "三十九二十八开机",
+        "onboard_time": 1711266499,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 127493,
+        "num": 127493,
+        "word": "Jessi认出了六年没见的粉丝",
+        "onboard_time": 1711261939,
+        "rank": 45,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 117643,
+        "num": 117643,
+        "word": "XYG 抽象",
+        "onboard_time": 1711263799,
+        "rank": 46,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 117480,
+        "num": 117480,
+        "word": "其实明道也演过纪存希",
+        "onboard_time": 1711269318,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 104891,
+        "num": 113701,
+        "word": "丁俊晖vs特鲁姆普",
+        "onboard_time": 1711270280,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 90718,
+        "num": 113315,
+        "word": "丁俊晖打破10年不胜罗伯逊魔咒",
+        "onboard_time": 1711263619,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#新时代治水兴水总书记这样擘画#"
+    }
+  }
+}

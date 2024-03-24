@@ -1,6 +1,6 @@
 {
   "startTime": 1711210803824,
-  "endTime": 1711269244448,
+  "endTime": 1711271872687,
   "band_list": [
     {
       "raw_hot": 3435224,
@@ -27,6 +27,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1781181,
+      "num": 1781181,
+      "word": "唐九洲 霸王茶姬霸王茶姬霸王茶姬",
+      "onboard_time": 1711270638,
+      "rank": 0,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1764453,
       "num": 461251,
       "word": "莫斯科恐袭中国贸易参展商感到进退维谷",
@@ -41,6 +49,14 @@
       "onboard_time": 1711251260,
       "rank": 1,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1582845,
+      "num": 1582845,
+      "word": "王诗龄砂锅铺满了黑松露",
+      "onboard_time": 1711267638,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 1505448,
@@ -75,11 +91,11 @@
       "category": "情感"
     },
     {
-      "raw_hot": 1200997,
-      "num": 1200997,
-      "word": "王诗龄砂锅铺满了黑松露",
-      "onboard_time": 1711267638,
-      "rank": 12,
+      "raw_hot": 1237435,
+      "num": 1237435,
+      "word": "港媒镜头下的赵露思生图",
+      "onboard_time": 1711267339,
+      "rank": 15,
       "category": "艺人"
     },
     {
@@ -105,6 +121,14 @@
       "onboard_time": 1711254019,
       "rank": 30,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 1090492,
+      "num": 571848,
+      "word": "重庆姐弟坠亡案生母需终生服药",
+      "onboard_time": 1711269198,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1087979,
@@ -267,14 +291,6 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 667711,
-      "num": 667711,
-      "word": "港媒镜头下的赵露思生图",
-      "onboard_time": 1711267339,
-      "rank": 15,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 640729,
       "num": 640729,
       "word": "向佐郭碧婷视频亲亲",
@@ -291,12 +307,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 623763,
+      "num": 623763,
+      "word": "恋爱一年后依然没有情绪价值",
+      "onboard_time": 1711267038,
+      "rank": 20,
+      "category": "情感"
+    },
+    {
       "raw_hot": 612770,
       "num": 313701,
       "word": "收费站工作人员逼司机吃垃圾桶食物",
       "onboard_time": 1711227551,
       "rank": 36,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 606726,
+      "num": 606726,
+      "word": "爸爸因为妈妈要学车开始发癫",
+      "onboard_time": 1711267699,
+      "rank": 32,
+      "category": "情感"
     },
     {
       "raw_hot": 601427,
@@ -523,14 +555,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 432270,
-      "num": 432270,
-      "word": "恋爱一年后依然没有情绪价值",
-      "onboard_time": 1711267038,
-      "rank": 20,
-      "category": "情感"
-    },
-    {
       "raw_hot": 427678,
       "num": 427678,
       "word": "南北",
@@ -721,14 +745,6 @@
       "onboard_time": 1711200021,
       "rank": 18,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 303402,
-      "num": 303402,
-      "word": "爸爸因为妈妈要学车开始发癫",
-      "onboard_time": 1711267699,
-      "rank": 32,
-      "category": "情感"
     },
     {
       "raw_hot": 302813,
@@ -955,6 +971,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 247048,
+      "num": 203886,
+      "word": "我是学校里唯一一条蛆",
+      "onboard_time": 1711271298,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 242512,
       "num": 242512,
       "word": "锦超白挨李菲儿一顿骂",
@@ -969,6 +993,14 @@
       "onboard_time": 1711252340,
       "rank": 18,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 238032,
+      "num": 238032,
+      "word": "Hero续命",
+      "onboard_time": 1711271358,
+      "rank": 22,
+      "category": "电竞"
     },
     {
       "raw_hot": 236826,
@@ -1083,6 +1115,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 215508,
+      "num": 215508,
+      "word": "XYG战胜DYG",
+      "onboard_time": 1711270759,
+      "rank": 27,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 213717,
       "num": 213717,
       "word": "邓超说孙俪真过分",
@@ -1121,6 +1161,14 @@
       "onboard_time": 1711258818,
       "rank": 34,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 202915,
+      "num": 202915,
+      "word": "奶鳄传",
+      "onboard_time": 1711269739,
+      "rank": 31,
+      "category": "剧集"
     },
     {
       "raw_hot": 201162,
@@ -1283,6 +1331,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 178474,
+      "num": 178474,
+      "word": "XYG赛季首胜",
+      "onboard_time": 1711270400,
+      "rank": 35,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 177822,
       "num": 177822,
       "word": "邻居WiFi名字是想来我们家玩",
@@ -1305,6 +1361,14 @@
       "onboard_time": 1711206920,
       "rank": 34,
       "category": "美食"
+    },
+    {
+      "raw_hot": 172634,
+      "num": 172634,
+      "word": "DYG 抽象",
+      "onboard_time": 1711266917,
+      "rank": 40,
+      "category": "电竞"
     },
     {
       "raw_hot": 171159,
@@ -1345,14 +1409,6 @@
       "onboard_time": 1711247538,
       "rank": 40,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 167938,
-      "num": 167938,
-      "word": "DYG 抽象",
-      "onboard_time": 1711266917,
-      "rank": 40,
-      "category": "电竞"
     },
     {
       "raw_hot": 165739,
@@ -1491,6 +1547,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 153247,
+      "num": 153247,
+      "word": "周也潍坊",
+      "onboard_time": 1711271598,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 153152,
+      "num": 153152,
+      "word": "不知道的还以为霍建华演了与凤行",
+      "onboard_time": 1711269919,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 153075,
       "num": 153075,
       "word": "赵丽颖吐槽林更新闷骚",
@@ -1627,6 +1699,22 @@
       "category": "情感"
     },
     {
+      "raw_hot": 133468,
+      "num": 133468,
+      "word": "强来了文学",
+      "onboard_time": 1711269020,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 133068,
+      "num": 304824,
+      "word": "点咖啡偶遇卡琳娜",
+      "onboard_time": 1711270219,
+      "rank": 18,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 131419,
       "num": 131419,
       "word": "大屏上的张杰",
@@ -1755,12 +1843,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 118571,
-      "num": 118571,
-      "word": "强来了文学",
-      "onboard_time": 1711269020,
+      "raw_hot": 117480,
+      "num": 117480,
+      "word": "其实明道也演过纪存希",
+      "onboard_time": 1711269318,
       "rank": 47,
-      "category": "幽默"
+      "category": "剧集"
     },
     {
       "raw_hot": 116574,
@@ -1851,14 +1939,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 109153,
-      "num": 116641,
-      "word": "重庆姐弟坠亡案生母需终生服药",
-      "onboard_time": 1711269198,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 108245,
       "num": 108245,
       "word": "猜猜我是谁 行不通的富二代",
@@ -1872,6 +1952,14 @@
       "word": "F1澳大利亚大奖赛塞恩斯冠军",
       "onboard_time": 1711259359,
       "rank": 47,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 104891,
+      "num": 113701,
+      "word": "丁俊晖vs特鲁姆普",
+      "onboard_time": 1711270280,
+      "rank": 48,
       "category": "体育"
     },
     {
@@ -1919,6 +2007,14 @@
       "num": 1335099,
       "word": "春耕春播春管新图景",
       "onboard_time": 1711251198,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 54989,
+      "num": 1267319,
+      "word": "用移轴技巧呈现春耕之美",
+      "onboard_time": 1711269499,
       "rank": 2,
       "category": "社会新闻"
     },
