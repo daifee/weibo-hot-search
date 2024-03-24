@@ -1,6 +1,6 @@
 {
   "startTime": 1711297217204,
-  "endTime": 1711311429593,
+  "endTime": 1711312518076,
   "band_list": [
     {
       "raw_hot": 2081066,
@@ -468,7 +468,7 @@
     },
     {
       "raw_hot": 30900,
-      "num": 27851,
+      "num": 28321,
       "word": "关灯玩手机屏幕是亮点好还是暗点好",
       "onboard_time": 1711309451,
       "rank": 21,
@@ -513,6 +513,14 @@
       "onboard_time": 1711311310,
       "rank": 49,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 12917,
+      "num": 13824,
+      "word": "网友 发出去把仇人笑死是吗",
+      "onboard_time": 1711312270,
+      "rank": 49,
+      "category": "幽默"
     }
   ],
   "hotgov_list": [
