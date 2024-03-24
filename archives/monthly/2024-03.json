@@ -1,6 +1,6 @@
 {
   "startTime": 1709223640991,
-  "endTime": 1711307712931,
+  "endTime": 1711308836468,
   "band_list": [
     {
       "raw_hot": 12728050,
@@ -68235,6 +68235,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 22292,
+      "num": 22292,
+      "word": "三十岁才是人生的开始",
+      "onboard_time": 1711304892,
+      "rank": 40,
+      "category": "情感"
+    },
+    {
       "raw_hot": 22111,
       "num": 20927,
       "word": "陈桂林原型",
@@ -68249,14 +68257,6 @@
       "onboard_time": 1710364516,
       "rank": 35,
       "category": "电影"
-    },
-    {
-      "raw_hot": 22003,
-      "num": 22003,
-      "word": "三十岁才是人生的开始",
-      "onboard_time": 1711304892,
-      "rank": 40,
-      "category": "情感"
     },
     {
       "raw_hot": 21985,
