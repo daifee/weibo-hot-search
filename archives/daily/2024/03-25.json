@@ -1,6 +1,6 @@
 {
   "startTime": 1711297217204,
-  "endTime": 1711300507821,
+  "endTime": 1711301708523,
   "band_list": [
     {
       "raw_hot": 2081066,
@@ -108,7 +108,7 @@
     },
     {
       "raw_hot": 366783,
-      "num": 230303,
+      "num": 308458,
       "word": "Cindy去走秀了",
       "onboard_time": 1711298477,
       "rank": 11,
@@ -417,6 +417,22 @@
       "onboard_time": 1711299256,
       "rank": 37,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 77994,
+      "num": 77994,
+      "word": "尚雯婕换发型了",
+      "onboard_time": 1711300816,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 58088,
+      "num": 58088,
+      "word": "苏打绿香港",
+      "onboard_time": 1711301234,
+      "rank": 43,
+      "category": "演出"
     },
     {
       "raw_hot": 44304,
