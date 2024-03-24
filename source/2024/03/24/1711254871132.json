@@ -1,0 +1,410 @@
+{
+  "runTime": 1711254871132,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1718565,
+        "num": 1718565,
+        "word": "李菲儿扣了250分",
+        "onboard_time": 1711251260,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1713598,
+        "num": 1713598,
+        "word": "难哄官宣",
+        "onboard_time": 1711246398,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 63361,
+        "num": 1047254,
+        "word": "春耕春播春管新图景",
+        "onboard_time": 1711251198,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 969812,
+        "num": 969812,
+        "word": "王力宏听到前妻的反应",
+        "onboard_time": 1711249819,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 935675,
+        "num": 935675,
+        "word": "乌克兰全境响防空警报",
+        "onboard_time": 1711253479,
+        "rank": 4,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 781757,
+        "num": 781757,
+        "word": "小林制药中国公司致歉",
+        "onboard_time": 1711253298,
+        "rank": 5,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 481819,
+        "num": 481819,
+        "word": "95后小伙健身10年增重至200斤",
+        "onboard_time": 1711250660,
+        "rank": 6,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 467560,
+        "num": 467560,
+        "word": "莫斯科恐袭嫌疑人招供细节",
+        "onboard_time": 1711240339,
+        "rank": 7,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 374574,
+        "num": 374574,
+        "word": "你愿意把5年寿命给自家狗狗吗",
+        "onboard_time": 1711243399,
+        "rank": 8,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 297324,
+        "num": 297324,
+        "word": "商场回应情侣霸占母婴室",
+        "onboard_time": 1711246279,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 552809,
+        "num": 296917,
+        "word": "普京承诺将惩罚莫斯科恐袭幕后黑手",
+        "onboard_time": 1711250599,
+        "rank": 10,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 541725,
+        "num": 296270,
+        "word": "金秀贤ins评论区",
+        "onboard_time": 1711250838,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 485848,
+        "num": 295272,
+        "word": "中国各省第一大姓",
+        "onboard_time": 1711254019,
+        "rank": 12,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 400351,
+        "num": 294421,
+        "word": "赵奕欢回怼李菲儿",
+        "onboard_time": 1711254380,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 353677,
+        "num": 293651,
+        "word": "莫斯科恐袭中国贸易参展商感到进退维谷",
+        "onboard_time": 1711206500,
+        "rank": 14,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 292778,
+        "num": 292778,
+        "word": "涉黄AI换脸案有人用暗恋女生换脸",
+        "onboard_time": 1711237996,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 369739,
+        "num": 292586,
+        "word": "金秀贤公司官方声明",
+        "onboard_time": 1711253538,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 284059,
+        "num": 284059,
+        "word": "泰国偶遇娜扎",
+        "onboard_time": 1711248798,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 248688,
+        "num": 248688,
+        "word": "小区要求空调外机必须统一为黑色",
+        "onboard_time": 1711241959,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 247520,
+        "num": 247520,
+        "word": "天水机场免费麻辣烫专线",
+        "onboard_time": 1711253720,
+        "rank": 19,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 270917,
+        "num": 247503,
+        "word": "女子照徐冬冬样子整容",
+        "onboard_time": 1711253838,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 259690,
+        "num": 247458,
+        "word": "如果让你嫁给一个古代人物",
+        "onboard_time": 1711250779,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 246622,
+        "num": 246622,
+        "word": "白敬亭桑延湿发",
+        "onboard_time": 1711248498,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 243406,
+        "num": 243406,
+        "word": "向佐郭碧婷视频亲亲",
+        "onboard_time": 1711247538,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 221591,
+        "num": 221591,
+        "word": "五哈",
+        "onboard_time": 1711252340,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 204893,
+        "num": 204893,
+        "word": "男朋友想让我公司当法人",
+        "onboard_time": 1711249278,
+        "rank": 25,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 201162,
+        "num": 201162,
+        "word": "德善身上发光的地方",
+        "onboard_time": 1711252578,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 195733,
+        "num": 195733,
+        "word": "王俊凯被强迫摆拍",
+        "onboard_time": 1711254619,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 188042,
+        "num": 188042,
+        "word": "星巴克创始人称对价格战不感兴趣",
+        "onboard_time": 1711247360,
+        "rank": 28,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 181282,
+        "num": 181282,
+        "word": "李清照是才女更是拽姐",
+        "onboard_time": 1711246398,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 248941,
+        "num": 180002,
+        "word": "晨晖惠比寿建模",
+        "onboard_time": 1711254558,
+        "rank": 30,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 178428,
+        "num": 178428,
+        "word": "5岁女孩洗澡被烫伤面部严重水肿",
+        "onboard_time": 1711241839,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 168271,
+        "num": 168271,
+        "word": "金秀贤公司回应",
+        "onboard_time": 1711240218,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 159414,
+        "num": 159414,
+        "word": "人体中最不怕冷的器官是哪个",
+        "onboard_time": 1711247538,
+        "rank": 33,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 158072,
+        "num": 158072,
+        "word": "马琳琳夺冠",
+        "onboard_time": 1711249399,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 157756,
+        "num": 157756,
+        "word": "跟父母谎报价格最狠的一次",
+        "onboard_time": 1711250299,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 151135,
+        "num": 151135,
+        "word": "赵露思出图",
+        "onboard_time": 1711195399,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 150722,
+        "num": 150722,
+        "word": "莫斯科恐袭救援结束",
+        "onboard_time": 1711236016,
+        "rank": 37,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 148843,
+        "num": 148843,
+        "word": "执笔",
+        "onboard_time": 1711252939,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 137256,
+        "num": 137256,
+        "word": "李菲儿江湖侠客造型",
+        "onboard_time": 1711254678,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 133118,
+        "num": 133118,
+        "word": "陈楚生粉丝吃的也太好了吧",
+        "onboard_time": 1711251198,
+        "rank": 40,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 130530,
+        "num": 130530,
+        "word": "林依晨新版你",
+        "onboard_time": 1711249579,
+        "rank": 41,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 125403,
+        "num": 125403,
+        "word": "赵丽颖吐槽林更新闷骚",
+        "onboard_time": 1711251858,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 125134,
+        "num": 125134,
+        "word": "Doinb已停播四个月",
+        "onboard_time": 1711251379,
+        "rank": 43,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 119930,
+        "num": 119930,
+        "word": "为什么女装的退货率高",
+        "onboard_time": 1711254739,
+        "rank": 44,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 114921,
+        "num": 114921,
+        "word": "五哈节目组辟谣网传录制安排",
+        "onboard_time": 1711254800,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 114398,
+        "num": 114398,
+        "word": "眼泪女王收视率下跌",
+        "onboard_time": 1711247780,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 110889,
+        "num": 110889,
+        "word": "90后女孩存下100万后买了房",
+        "onboard_time": 1711213217,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 110331,
+        "num": 110331,
+        "word": "喜茶解聘倒卖周边员工",
+        "onboard_time": 1711242557,
+        "rank": 48,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 107850,
+        "num": 107850,
+        "word": "男子捡17岁女生手机归还反被讹200",
+        "onboard_time": 1711254499,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记对推动中部地区崛起提出明确要求#"
+    }
+  }
+}

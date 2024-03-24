@@ -1,6 +1,6 @@
 {
   "startTime": 1711210803824,
-  "endTime": 1711254133033,
+  "endTime": 1711254871132,
   "band_list": [
     {
       "raw_hot": 3435224,
@@ -19,8 +19,8 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 1612721,
-      "num": 1612721,
+      "raw_hot": 1718565,
+      "num": 1718565,
       "word": "李菲儿扣了250分",
       "onboard_time": 1711251260,
       "rank": 1,
@@ -59,6 +59,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 935675,
+      "num": 935675,
+      "word": "乌克兰全境响防空警报",
+      "onboard_time": 1711253479,
+      "rank": 5,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 828870,
       "num": 435254,
       "word": "王俊凯爸妈的奶茶店引发粉丝凌晨排队",
@@ -81,6 +89,14 @@
       "onboard_time": 1711240339,
       "rank": 1,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 781757,
+      "num": 781757,
+      "word": "小林制药中国公司致歉",
+      "onboard_time": 1711253298,
+      "rank": 14,
+      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 778947,
@@ -235,6 +251,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 485848,
+      "num": 295272,
+      "word": "中国各省第一大姓",
+      "onboard_time": 1711254019,
+      "rank": 30,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 482441,
       "num": 482441,
       "word": "金秀贤哭戏",
@@ -243,12 +267,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 477428,
-      "num": 477428,
-      "word": "乌克兰全境响防空警报",
-      "onboard_time": 1711253479,
-      "rank": 5,
-      "category": "国外时政"
+      "raw_hot": 481819,
+      "num": 481819,
+      "word": "95后小伙健身10年增重至200斤",
+      "onboard_time": 1711250660,
+      "rank": 32,
+      "category": "运动健身"
     },
     {
       "raw_hot": 469240,
@@ -307,14 +331,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 425347,
-      "num": 312923,
-      "word": "95后小伙健身10年增重至200斤",
-      "onboard_time": 1711250660,
-      "rank": 32,
-      "category": "运动健身"
-    },
-    {
       "raw_hot": 424619,
       "num": 424619,
       "word": "杭州兵马俑被游客吐槽不值票价",
@@ -347,6 +363,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 400351,
+      "num": 294421,
+      "word": "赵奕欢回怼李菲儿",
+      "onboard_time": 1711254380,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 395321,
       "num": 354927,
       "word": "郑合惠子回复粉丝",
@@ -361,6 +385,14 @@
       "onboard_time": 1711241059,
       "rank": 30,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 369739,
+      "num": 292586,
+      "word": "金秀贤公司官方声明",
+      "onboard_time": 1711253538,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 368573,
@@ -393,14 +425,6 @@
       "onboard_time": 1711206261,
       "rank": 20,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 354729,
-      "num": 293183,
-      "word": "小林制药中国公司致歉",
-      "onboard_time": 1711253298,
-      "rank": 14,
-      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 350519,
@@ -499,14 +523,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 274857,
-      "num": 173038,
-      "word": "中国各省第一大姓",
-      "onboard_time": 1711254019,
-      "rank": 30,
-      "category": "科学科普"
-    },
-    {
       "raw_hot": 271094,
       "num": 271094,
       "word": "林依晨新版你",
@@ -515,12 +531,28 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 270917,
+      "num": 247503,
+      "word": "女子照徐冬冬样子整容",
+      "onboard_time": 1711253838,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 261210,
       "num": 261210,
       "word": "无锡马拉松",
       "onboard_time": 1711243520,
       "rank": 19,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 259690,
+      "num": 247458,
+      "word": "如果让你嫁给一个古代人物",
+      "onboard_time": 1711250779,
+      "rank": 35,
+      "category": "情感"
     },
     {
       "raw_hot": 255252,
@@ -539,6 +571,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 248941,
+      "num": 180002,
+      "word": "晨晖惠比寿建模",
+      "onboard_time": 1711254558,
+      "rank": 30,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 248479,
       "num": 243580,
       "word": "纪凌尘emo了",
@@ -547,20 +587,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 247520,
+      "num": 247520,
+      "word": "天水机场免费麻辣烫专线",
+      "onboard_time": 1711253720,
+      "rank": 32,
+      "category": "美食"
+    },
+    {
       "raw_hot": 241647,
       "num": 241647,
       "word": "五哈",
       "onboard_time": 1711252340,
       "rank": 18,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 236320,
-      "num": 230809,
-      "word": "如果让你嫁给一个古代人物",
-      "onboard_time": 1711250779,
-      "rank": 35,
-      "category": "情感"
     },
     {
       "raw_hot": 235813,
@@ -627,14 +667,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 221543,
-      "num": 221543,
-      "word": "金秀贤公司官方声明",
-      "onboard_time": 1711253538,
-      "rank": 23,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 219109,
       "num": 219109,
       "word": "学校里男女生断崖式身高差",
@@ -683,6 +715,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 201162,
+      "num": 201162,
+      "word": "德善身上发光的地方",
+      "onboard_time": 1711252578,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 199230,
       "num": 199230,
       "word": "五哈济南",
@@ -715,12 +755,12 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 190576,
-      "num": 190576,
-      "word": "德善身上发光的地方",
-      "onboard_time": 1711252578,
-      "rank": 25,
-      "category": "剧集"
+      "raw_hot": 195733,
+      "num": 195733,
+      "word": "王俊凯被强迫摆拍",
+      "onboard_time": 1711254619,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 186159,
@@ -753,14 +793,6 @@
       "onboard_time": 1711197499,
       "rank": 33,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 173653,
-      "num": 173653,
-      "word": "女子照徐冬冬样子整容",
-      "onboard_time": 1711253838,
-      "rank": 29,
-      "category": "艺人"
     },
     {
       "raw_hot": 173520,
@@ -801,14 +833,6 @@
       "onboard_time": 1711204882,
       "rank": 36,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 169039,
-      "num": 169039,
-      "word": "天水机场免费麻辣烫专线",
-      "onboard_time": 1711253720,
-      "rank": 32,
-      "category": "美食"
     },
     {
       "raw_hot": 168083,
@@ -875,6 +899,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 157756,
+      "num": 157756,
+      "word": "跟父母谎报价格最狠的一次",
+      "onboard_time": 1711250299,
+      "rank": 41,
+      "category": "情感"
+    },
+    {
       "raw_hot": 157747,
       "num": 157747,
       "word": "王力宏常州音乐节",
@@ -913,14 +945,6 @@
       "onboard_time": 1711250299,
       "rank": 39,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 149635,
-      "num": 149635,
-      "word": "跟父母谎报价格最狠的一次",
-      "onboard_time": 1711250299,
-      "rank": 41,
-      "category": "情感"
     },
     {
       "raw_hot": 148818,
@@ -995,6 +1019,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 137256,
+      "num": 137256,
+      "word": "李菲儿江湖侠客造型",
+      "onboard_time": 1711254678,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 136393,
       "num": 136393,
       "word": "Doinb已停播四个月",
@@ -1067,6 +1099,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 119930,
+      "num": 119930,
+      "word": "为什么女装的退货率高",
+      "onboard_time": 1711254739,
+      "rank": 44,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 119875,
       "num": 119875,
       "word": "你完全可以相信硬核防晒",
@@ -1089,6 +1129,14 @@
       "onboard_time": 1711249159,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 114921,
+      "num": 114921,
+      "word": "五哈节目组辟谣网传录制安排",
+      "onboard_time": 1711254800,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 113700,
@@ -1139,6 +1187,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 107850,
+      "num": 107850,
+      "word": "男子捡17岁女生手机归还反被讹200",
+      "onboard_time": 1711254499,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 104590,
       "num": 104590,
       "word": "卡琳娜 全知读者视角",
@@ -1179,7 +1235,7 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 58468,
+      "raw_hot": 63361,
       "num": 1290192,
       "word": "春耕春播春管新图景",
       "onboard_time": 1711251198,
