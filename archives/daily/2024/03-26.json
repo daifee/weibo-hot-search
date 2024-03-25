@@ -1,6 +1,6 @@
 {
   "startTime": 1711383717224,
-  "endTime": 1711402439623,
+  "endTime": 1711405059426,
   "band_list": [
     {
       "raw_hot": 881618,
@@ -267,6 +267,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 132963,
+      "num": 132963,
+      "word": "闺蜜合伙盗窃靠反复怀孕育11子躲刑罚",
+      "onboard_time": 1711394531,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 127578,
       "num": 127578,
       "word": "如何看待中国大学的宿舍制度",
@@ -371,14 +379,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 83090,
-      "num": 83090,
-      "word": "闺蜜合伙盗窃靠反复怀孕育11子躲刑罚",
-      "onboard_time": 1711394531,
-      "rank": 35,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 83042,
       "num": 83042,
       "word": "追风者",
@@ -419,20 +419,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 63982,
+      "num": 63982,
+      "word": "周扬青浪姐一公上班路透",
+      "onboard_time": 1711397292,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 60389,
       "num": 545823,
       "word": "原来设计条铁路有这么多高科技",
       "onboard_time": 1711373540,
       "rank": 2,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 52501,
-      "num": 52501,
-      "word": "周扬青浪姐一公上班路透",
-      "onboard_time": 1711397292,
-      "rank": 13,
-      "category": "综艺"
     },
     {
       "raw_hot": 50835,
@@ -459,7 +459,7 @@
       "category": "读书作家,作品衍生"
     },
     {
-      "raw_hot": 35041,
+      "raw_hot": 37493,
       "num": 35041,
       "word": "终于有剧吐槽嘴对嘴喂药了",
       "onboard_time": 1711372339,
@@ -473,6 +473,14 @@
       "onboard_time": 1711387992,
       "rank": 49,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 32567,
+      "num": 32567,
+      "word": "琅琊榜剧组当年的精神状态",
+      "onboard_time": 1711400890,
+      "rank": 39,
+      "category": "剧集"
     },
     {
       "raw_hot": 31298,
@@ -491,12 +499,28 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 27392,
-      "num": 27392,
+      "raw_hot": 29935,
+      "num": 27932,
       "word": "穿开衫好看的方法",
       "onboard_time": 1711389793,
       "rank": 38,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 29592,
+      "num": 27822,
+      "word": "我的国家队生涯最后只画了个点",
+      "onboard_time": 1711399270,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 29069,
+      "num": 27791,
+      "word": "泰国人真的好爱看国产偶像剧",
+      "onboard_time": 1711402331,
+      "rank": 33,
+      "category": "剧集"
     },
     {
       "raw_hot": 26529,
@@ -515,14 +539,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 21576,
-      "num": 18357,
-      "word": "我的国家队生涯最后只画了个点",
-      "onboard_time": 1711399270,
-      "rank": 30,
-      "category": "体育"
-    },
-    {
       "raw_hot": 20193,
       "num": 20193,
       "word": "韩女的头包脸发型教程",
@@ -531,32 +547,24 @@
       "category": "美妆"
     },
     {
-      "raw_hot": 17382,
-      "num": 17382,
-      "word": "琅琊榜剧组当年的精神状态",
-      "onboard_time": 1711400890,
-      "rank": 39,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 17053,
-      "num": 17053,
+      "raw_hot": 18556,
+      "num": 18556,
       "word": "大地磁暴碰上满月",
       "onboard_time": 1711394351,
       "rank": 41,
       "category": "自然,科学科普"
     },
     {
-      "raw_hot": 12298,
-      "num": 14165,
+      "raw_hot": 18029,
+      "num": 18029,
       "word": "猫 会不会说点吉利话",
       "onboard_time": 1711400650,
       "rank": 44,
       "category": "幽默"
     },
     {
-      "raw_hot": 12123,
-      "num": 13441,
+      "raw_hot": 14733,
+      "num": 15974,
       "word": "马思纯化的口红耳妆",
       "onboard_time": 1711396630,
       "rank": 45,
