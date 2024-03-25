@@ -1,6 +1,6 @@
 {
   "startTime": 1711297217204,
-  "endTime": 1711337660796,
+  "endTime": 1711340559433,
   "band_list": [
     {
       "raw_hot": 2474722,
@@ -27,6 +27,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1631032,
+      "num": 1631032,
+      "word": "发现刘亦菲是表姑的侄女",
+      "onboard_time": 1711336759,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1622443,
       "num": 1128984,
       "word": "俄罗斯无法判处恐怖分子死刑",
@@ -41,6 +49,14 @@
       "onboard_time": 1711322237,
       "rank": 42,
       "category": "社会新闻,财经"
+    },
+    {
+      "raw_hot": 1411027,
+      "num": 1411027,
+      "word": "林更新退出九亿梦影视公司",
+      "onboard_time": 1711338258,
+      "rank": 3,
+      "category": "艺人"
     },
     {
       "raw_hot": 1352453,
@@ -59,6 +75,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1119669,
+      "num": 1119669,
+      "word": "俄恐袭一嫌犯年仅19岁",
+      "onboard_time": 1711338319,
+      "rank": 4,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 1112255,
       "num": 1112255,
       "word": "王勉爆改",
@@ -75,6 +99,14 @@
       "category": "自然"
     },
     {
+      "raw_hot": 1016658,
+      "num": 1016658,
+      "word": "张艺兴女团成员正面照",
+      "onboard_time": 1711337598,
+      "rank": 49,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 964527,
       "num": 964527,
       "word": "锦超躲李菲儿",
@@ -83,12 +115,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 893543,
-      "num": 409209,
-      "word": "发现刘亦菲是表姑的侄女",
-      "onboard_time": 1711336759,
-      "rank": 22,
-      "category": "艺人"
+      "raw_hot": 862566,
+      "num": 862566,
+      "word": "乡村小学校长侵害5名未成年女生",
+      "onboard_time": 1711338499,
+      "rank": 6,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 801877,
@@ -99,12 +131,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 777203,
+      "num": 777203,
+      "word": "马英九将率台湾青年来大陆交流参访",
+      "onboard_time": 1711336519,
+      "rank": 34,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 773517,
       "num": 773517,
       "word": "30岁以上真的很难找工作吗",
       "onboard_time": 1711291221,
       "rank": 33,
       "category": "情感"
+    },
+    {
+      "raw_hot": 755136,
+      "num": 755136,
+      "word": "刘学义工作室声明",
+      "onboard_time": 1711338918,
+      "rank": 8,
+      "category": "艺人"
     },
     {
       "raw_hot": 741541,
@@ -211,12 +259,36 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 553615,
+      "num": 553615,
+      "word": "钟睒睒连续四年成为中国首富",
+      "onboard_time": 1711339399,
+      "rank": 10,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 544299,
       "num": 378215,
       "word": "一阳",
       "onboard_time": 1711292181,
       "rank": 12,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 528167,
+      "num": 306551,
+      "word": "星期一已经崩溃一万次了",
+      "onboard_time": 1711337058,
+      "rank": 25,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 523267,
+      "num": 523267,
+      "word": "张杰40岁的腰",
+      "onboard_time": 1711334839,
+      "rank": 13,
+      "category": "演出"
     },
     {
       "raw_hot": 521424,
@@ -243,6 +315,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 466243,
+      "num": 466243,
+      "word": "叶蓁蓁 远离假性友谊",
+      "onboard_time": 1711338438,
+      "rank": 12,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 455890,
       "num": 318744,
       "word": "减肥吃甜玉米还是糯玉米",
@@ -267,12 +347,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 450952,
-      "num": 450952,
-      "word": "马英九将率台湾青年来大陆交流参访",
-      "onboard_time": 1711336519,
-      "rank": 34,
-      "category": "国内时政"
+      "raw_hot": 453431,
+      "num": 453431,
+      "word": "俄罗斯",
+      "onboard_time": 1711336640,
+      "rank": 29,
+      "category": "国外时政"
     },
     {
       "raw_hot": 446987,
@@ -289,14 +369,6 @@
       "onboard_time": 1711296079,
       "rank": 14,
       "category": "网红"
-    },
-    {
-      "raw_hot": 401931,
-      "num": 401931,
-      "word": "张杰40岁的腰",
-      "onboard_time": 1711334839,
-      "rank": 13,
-      "category": "演出"
     },
     {
       "raw_hot": 396027,
@@ -379,20 +451,20 @@
       "category": "情感"
     },
     {
+      "raw_hot": 340841,
+      "num": 303209,
+      "word": "刘维真的快碎了",
+      "onboard_time": 1711338438,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 331727,
       "num": 331727,
       "word": "宋亚轩新歌词曲邹沛沛",
       "onboard_time": 1711334599,
       "rank": 17,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 325836,
-      "num": 325836,
-      "word": "俄罗斯",
-      "onboard_time": 1711336640,
-      "rank": 29,
-      "category": "国外时政"
     },
     {
       "raw_hot": 322737,
@@ -427,20 +499,28 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 295911,
-      "num": 295911,
-      "word": "星期一已经崩溃一万次了",
-      "onboard_time": 1711337058,
-      "rank": 25,
-      "category": "情感"
-    },
-    {
       "raw_hot": 295413,
       "num": 295413,
       "word": "CROCS 王俊凯",
       "onboard_time": 1711329378,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 291158,
+      "num": 291158,
+      "word": "王一博醉酒戏是即兴发挥",
+      "onboard_time": 1711339279,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 289614,
+      "num": 289614,
+      "word": "每杯188元的奶茶到底香不香",
+      "onboard_time": 1711337478,
+      "rank": 44,
+      "category": "美食"
     },
     {
       "raw_hot": 273506,
@@ -523,6 +603,22 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 238103,
+      "num": 238103,
+      "word": "15岁暂时休学在家整理人生",
+      "onboard_time": 1711337539,
+      "rank": 46,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 233830,
+      "num": 233830,
+      "word": "张艺兴张PD回归",
+      "onboard_time": 1711338558,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 232552,
       "num": 232552,
       "word": "魔卡少女樱 李莓铃",
@@ -569,6 +665,14 @@
       "onboard_time": 1711267638,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 219929,
+      "num": 219929,
+      "word": "研究发现大腿粗的人更长寿",
+      "onboard_time": 1711339699,
+      "rank": 32,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 219660,
@@ -635,6 +739,38 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 201311,
+      "num": 201311,
+      "word": "刘学义方否认偷税漏税",
+      "onboard_time": 1711340421,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 200648,
+      "num": 200648,
+      "word": "赵丽颖早期写真照",
+      "onboard_time": 1711337779,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 198441,
+      "num": 198441,
+      "word": "宋亚轩新歌简介",
+      "onboard_time": 1711339940,
+      "rank": 36,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 197564,
+      "num": 197564,
+      "word": "孙颖莎祝贺孙铭阳",
+      "onboard_time": 1711338798,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 195962,
       "num": 195962,
       "word": "大学室友突然要退学回家继承家业",
@@ -657,6 +793,14 @@
       "onboard_time": 1711288100,
       "rank": 19,
       "category": "教育"
+    },
+    {
+      "raw_hot": 194262,
+      "num": 194262,
+      "word": "东北人对语言的操控能力真的太强了",
+      "onboard_time": 1711340241,
+      "rank": 38,
+      "category": "幽默"
     },
     {
       "raw_hot": 193383,
@@ -715,12 +859,28 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 186481,
+      "num": 1509019,
+      "word": "春天的浪漫是花花给的",
+      "onboard_time": 1711338319,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 183406,
       "num": 183406,
       "word": "WBG老板疑似离队",
       "onboard_time": 1711325182,
       "rank": 38,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 182854,
+      "num": 182854,
+      "word": "大侦探",
+      "onboard_time": 1711337357,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 177908,
@@ -747,14 +907,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 169137,
-      "num": 169137,
-      "word": "大侦探",
-      "onboard_time": 1711337357,
-      "rank": 35,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 168961,
       "num": 168961,
       "word": "俄罗斯恐怖袭击",
@@ -763,12 +915,28 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 166647,
+      "num": 166647,
+      "word": "安溥抢票",
+      "onboard_time": 1711339759,
+      "rank": 42,
+      "category": "演出"
+    },
+    {
       "raw_hot": 164474,
       "num": 164474,
       "word": "我们宿舍真是最懂相互尊重了",
       "onboard_time": 1711333819,
       "rank": 44,
       "category": "情感"
+    },
+    {
+      "raw_hot": 163683,
+      "num": 163683,
+      "word": "俄公布恐袭事件68位遇难者名单",
+      "onboard_time": 1711340300,
+      "rank": 43,
+      "category": "国外时政"
     },
     {
       "raw_hot": 162688,
@@ -867,12 +1035,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 144241,
-      "num": 144241,
-      "word": "每杯188元的奶茶到底香不香",
-      "onboard_time": 1711337478,
-      "rank": 44,
-      "category": "美食"
+      "raw_hot": 142945,
+      "num": 142945,
+      "word": "百度将为国行iPhone16提供AI功能",
+      "onboard_time": 1711340480,
+      "rank": 48,
+      "category": "互联网,数码"
     },
     {
       "raw_hot": 142705,
@@ -907,12 +1075,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 138295,
-      "num": 142657,
-      "word": "15岁暂时休学在家整理人生",
-      "onboard_time": 1711337539,
-      "rank": 46,
-      "category": "情感"
+      "raw_hot": 138975,
+      "num": 138975,
+      "word": "陈晓 迫碎感",
+      "onboard_time": 1711340480,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 136524,
@@ -929,14 +1097,6 @@
       "onboard_time": 1711292599,
       "rank": 38,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 132428,
-      "num": 141243,
-      "word": "张艺兴女团成员正面照",
-      "onboard_time": 1711337598,
-      "rank": 49,
-      "category": "综艺"
     },
     {
       "raw_hot": 124693,

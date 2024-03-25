@@ -1,0 +1,410 @@
+{
+  "runTime": 1711340559433,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1841001,
+        "num": 1841001,
+        "word": "韩国第一夫人消失100天非常不寻常",
+        "onboard_time": 1711331659,
+        "rank": 0,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 1631032,
+        "num": 1631032,
+        "word": "发现刘亦菲是表姑的侄女",
+        "onboard_time": 1711336759,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 186481,
+        "num": 1509019,
+        "word": "春天的浪漫是花花给的",
+        "onboard_time": 1711338319,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1411027,
+        "num": 1411027,
+        "word": "林更新退出九亿梦影视公司",
+        "onboard_time": 1711338258,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1119669,
+        "num": 1119669,
+        "word": "俄恐袭一嫌犯年仅19岁",
+        "onboard_time": 1711338319,
+        "rank": 4,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 1016658,
+        "num": 1016658,
+        "word": "张艺兴女团成员正面照",
+        "onboard_time": 1711337598,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 862566,
+        "num": 862566,
+        "word": "乡村小学校长侵害5名未成年女生",
+        "onboard_time": 1711338499,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 777203,
+        "num": 777203,
+        "word": "马英九将率台湾青年来大陆交流参访",
+        "onboard_time": 1711336519,
+        "rank": 7,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 755136,
+        "num": 755136,
+        "word": "刘学义工作室声明",
+        "onboard_time": 1711338918,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 565520,
+        "num": 565520,
+        "word": "锦超躲李菲儿",
+        "onboard_time": 1711334540,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 553615,
+        "num": 553615,
+        "word": "钟睒睒连续四年成为中国首富",
+        "onboard_time": 1711339399,
+        "rank": 10,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 523267,
+        "num": 523267,
+        "word": "张杰40岁的腰",
+        "onboard_time": 1711334839,
+        "rank": 11,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 466243,
+        "num": 466243,
+        "word": "叶蓁蓁 远离假性友谊",
+        "onboard_time": 1711338438,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 453431,
+        "num": 453431,
+        "word": "俄罗斯",
+        "onboard_time": 1711336640,
+        "rank": 13,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 452671,
+        "num": 452671,
+        "word": "这是我的岛",
+        "onboard_time": 1711332319,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 400689,
+        "num": 400689,
+        "word": "1年花380元参加居民医保值不值",
+        "onboard_time": 1711330159,
+        "rank": 15,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 382496,
+        "num": 382496,
+        "word": "俄全国哀悼日克里姆林宫降半旗",
+        "onboard_time": 1711336519,
+        "rank": 16,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 366386,
+        "num": 366386,
+        "word": "陈铭",
+        "onboard_time": 1711293444,
+        "rank": 17,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 363967,
+        "num": 363967,
+        "word": "俄男子重返音乐厅撬门救100多人",
+        "onboard_time": 1711332259,
+        "rank": 18,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 320073,
+        "num": 320073,
+        "word": "大地磁暴",
+        "onboard_time": 1711323258,
+        "rank": 19,
+        "category": "自然"
+      },
+      {
+        "raw_hot": 1055431,
+        "num": 315591,
+        "word": "江西农村彩礼涨到50万元",
+        "onboard_time": 1711328959,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 528167,
+        "num": 306551,
+        "word": "星期一已经崩溃一万次了",
+        "onboard_time": 1711337058,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 340841,
+        "num": 303209,
+        "word": "刘维真的快碎了",
+        "onboard_time": 1711338438,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 293372,
+        "num": 293372,
+        "word": "正在伤害卵巢的6个习惯",
+        "onboard_time": 1711333878,
+        "rank": 23,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 291158,
+        "num": 291158,
+        "word": "王一博醉酒戏是即兴发挥",
+        "onboard_time": 1711339279,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 289614,
+        "num": 289614,
+        "word": "每杯188元的奶茶到底香不香",
+        "onboard_time": 1711337478,
+        "rank": 25,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 264687,
+        "num": 264687,
+        "word": "独游峨眉山失联女生遗体被找到",
+        "onboard_time": 1711323258,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 259765,
+        "num": 259765,
+        "word": "养老金并轨倒计时",
+        "onboard_time": 1711322237,
+        "rank": 27,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 238103,
+        "num": 238103,
+        "word": "15岁暂时休学在家整理人生",
+        "onboard_time": 1711337539,
+        "rank": 28,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 233830,
+        "num": 233830,
+        "word": "张艺兴张PD回归",
+        "onboard_time": 1711338558,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 233436,
+        "num": 233436,
+        "word": "减肥吃甜玉米还是糯玉米",
+        "onboard_time": 1711332139,
+        "rank": 30,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 224689,
+        "num": 224689,
+        "word": "小米SU7在门店开启静态展示",
+        "onboard_time": 1711335379,
+        "rank": 31,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 219929,
+        "num": 219929,
+        "word": "研究发现大腿粗的人更长寿",
+        "onboard_time": 1711339699,
+        "rank": 32,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 201311,
+        "num": 201311,
+        "word": "刘学义方否认偷税漏税",
+        "onboard_time": 1711340421,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 200648,
+        "num": 200648,
+        "word": "赵丽颖早期写真照",
+        "onboard_time": 1711337779,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 199947,
+        "num": 199947,
+        "word": "俄罗斯无法判处恐怖分子死刑",
+        "onboard_time": 1711324098,
+        "rank": 35,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 198441,
+        "num": 198441,
+        "word": "宋亚轩新歌简介",
+        "onboard_time": 1711339940,
+        "rank": 36,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 197564,
+        "num": 197564,
+        "word": "孙颖莎祝贺孙铭阳",
+        "onboard_time": 1711338798,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 194262,
+        "num": 194262,
+        "word": "东北人对语言的操控能力真的太强了",
+        "onboard_time": 1711340241,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 193048,
+        "num": 193048,
+        "word": "突然发现父母是近亲结婚",
+        "onboard_time": 1711292482,
+        "rank": 39,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 182854,
+        "num": 182854,
+        "word": "大侦探",
+        "onboard_time": 1711337357,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 176361,
+        "num": 176361,
+        "word": "微信朋友圈只发文字的方法",
+        "onboard_time": 1711325182,
+        "rank": 41,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 166647,
+        "num": 166647,
+        "word": "安溥抢票",
+        "onboard_time": 1711339759,
+        "rank": 42,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 163683,
+        "num": 163683,
+        "word": "俄公布恐袭事件68位遇难者名单",
+        "onboard_time": 1711340300,
+        "rank": 43,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 163071,
+        "num": 163071,
+        "word": "国家医保局回应医保缴费标准调整",
+        "onboard_time": 1711328899,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 160983,
+        "num": 160983,
+        "word": "百分百出品定档",
+        "onboard_time": 1711336519,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 157908,
+        "num": 157908,
+        "word": "经期真正需要忌口的食物",
+        "onboard_time": 1711292482,
+        "rank": 46,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 153724,
+        "num": 153724,
+        "word": "赵丽颖晒嘘嘘",
+        "onboard_time": 1711291041,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 142945,
+        "num": 142945,
+        "word": "百度将为国行iPhone16提供AI功能",
+        "onboard_time": 1711340480,
+        "rank": 48,
+        "category": "互联网,数码"
+      },
+      {
+        "raw_hot": 138975,
+        "num": 138975,
+        "word": "陈晓 迫碎感",
+        "onboard_time": 1711340480,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#循着总书记关切看京津冀交通陆海空之变#"
+    }
+  }
+}
