@@ -1,6 +1,6 @@
 {
   "startTime": 1709223640991,
-  "endTime": 1711323262872,
+  "endTime": 1711329217776,
   "band_list": [
     {
       "raw_hot": 12728050,
@@ -2051,6 +2051,14 @@
       "category": "数码,艺人"
     },
     {
+      "raw_hot": 1622443,
+      "num": 1061446,
+      "word": "俄罗斯无法判处恐怖分子死刑",
+      "onboard_time": 1711324098,
+      "rank": 3,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 1619908,
       "num": 1619908,
       "word": "建议国家全面禁止未成年人网游",
@@ -2513,6 +2521,14 @@
       "onboard_time": 1711285580,
       "rank": 4,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 1493595,
+      "num": 1493595,
+      "word": "养老金并轨倒计时",
+      "onboard_time": 1711322237,
+      "rank": 42,
+      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 1487774,
@@ -3337,6 +3353,14 @@
       "onboard_time": 1709382514,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1311082,
+      "num": 1311082,
+      "word": "独游峨眉山失联女生遗体被找到",
+      "onboard_time": 1711323258,
+      "rank": 1,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1310276,
@@ -5537,6 +5561,14 @@
       "onboard_time": 1709438311,
       "rank": 30,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 1019557,
+      "num": 1019557,
+      "word": "大地磁暴",
+      "onboard_time": 1711323258,
+      "rank": 5,
+      "category": "自然"
     },
     {
       "raw_hot": 1019213,
@@ -8011,6 +8043,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 801877,
+      "num": 801877,
+      "word": "何超莲赵露思合照",
+      "onboard_time": 1711322596,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 799981,
       "num": 799981,
       "word": "大叔坐火车一整天只吃一根萝卜",
@@ -9081,6 +9121,14 @@
       "onboard_time": 1709940321,
       "rank": 36,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 741541,
+      "num": 741541,
+      "word": "普京含泪为恐袭遇难者点蜡致哀",
+      "onboard_time": 1711325182,
+      "rank": 7,
+      "category": "国外时政"
     },
     {
       "raw_hot": 741277,
@@ -12803,6 +12851,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 585926,
+      "num": 585926,
+      "word": "突然发现父母是近亲结婚",
+      "onboard_time": 1711292482,
+      "rank": 18,
+      "category": "情感"
+    },
+    {
       "raw_hot": 585483,
       "num": 585483,
       "word": "龚俊邓为撞衫",
@@ -13193,14 +13249,6 @@
       "onboard_time": 1710758612,
       "rank": 5,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 573037,
-      "num": 573037,
-      "word": "突然发现父母是近亲结婚",
-      "onboard_time": 1711292482,
-      "rank": 18,
-      "category": "情感"
     },
     {
       "raw_hot": 572936,
@@ -13841,6 +13889,14 @@
       "onboard_time": 1710687523,
       "rank": 15,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 554505,
+      "num": 554505,
+      "word": "微信朋友圈只发文字的方法",
+      "onboard_time": 1711325182,
+      "rank": 12,
+      "category": "互联网"
     },
     {
       "raw_hot": 554409,
@@ -15145,6 +15201,14 @@
       "onboard_time": 1709276673,
       "rank": 33,
       "category": "情感"
+    },
+    {
+      "raw_hot": 519428,
+      "num": 519428,
+      "word": "部分农村大龄男青年因彩礼高结不起婚",
+      "onboard_time": 1711325599,
+      "rank": 13,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 519128,
@@ -20547,6 +20611,14 @@
       "category": "美食,艺人"
     },
     {
+      "raw_hot": 394530,
+      "num": 394530,
+      "word": "全红婵世界杯夺金",
+      "onboard_time": 1711322717,
+      "rank": 26,
+      "category": "体育"
+    },
+    {
       "raw_hot": 394410,
       "num": 303821,
       "word": "刘诗诗蓝色高定",
@@ -22355,6 +22427,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 361995,
+      "num": 361995,
+      "word": "俄罗斯圣彼得堡一购物中心紧急疏散",
+      "onboard_time": 1711323738,
+      "rank": 18,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 361921,
       "num": 361921,
       "word": "枭起青壤",
@@ -23379,6 +23459,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 342950,
+      "num": 342950,
+      "word": "初中生免三考直接读985本科硕士",
+      "onboard_time": 1711327521,
+      "rank": 19,
+      "category": "教育"
+    },
+    {
       "raw_hot": 342935,
       "num": 342935,
       "word": "山东泰山vs横滨水手",
@@ -24067,6 +24155,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 332218,
+      "num": 332218,
+      "word": "我国基本医保参保覆盖面稳定在95%以上",
+      "onboard_time": 1711327880,
+      "rank": 20,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 332102,
       "num": 332102,
       "word": "花间令今日开播",
@@ -24433,14 +24529,6 @@
       "onboard_time": 1710389433,
       "rank": 23,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 325309,
-      "num": 325309,
-      "word": "养老金并轨倒计时",
-      "onboard_time": 1711322237,
-      "rank": 42,
-      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 325183,
@@ -28699,6 +28787,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 272854,
+      "num": 272854,
+      "word": "张杰骨相",
+      "onboard_time": 1711329138,
+      "rank": 23,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 272730,
       "num": 899996,
       "word": "花开种花家",
@@ -31139,6 +31235,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 248787,
+      "num": 248787,
+      "word": "成都雪山",
+      "onboard_time": 1711327641,
+      "rank": 24,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 248652,
       "num": 248652,
       "word": "这么好的春天我却在上班",
@@ -31401,6 +31505,14 @@
       "onboard_time": 1710984033,
       "rank": 30,
       "category": "美食"
+    },
+    {
+      "raw_hot": 246661,
+      "num": 246661,
+      "word": "央视曝光湖北部分高标准农田被偷梁换柱",
+      "onboard_time": 1711328360,
+      "rank": 26,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 246654,
@@ -32411,6 +32523,22 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 238948,
+      "num": 238948,
+      "word": "一旦开始喝咖啡这辈子就定型了",
+      "onboard_time": 1711322176,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 238942,
+      "num": 238942,
+      "word": "国家医保局回应医保缴费标准调整",
+      "onboard_time": 1711328899,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 238925,
       "num": 238925,
       "word": "听花酒被315晚会点名",
@@ -32473,6 +32601,14 @@
       "onboard_time": 1709773292,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 238219,
+      "num": 238219,
+      "word": "俄自媒体博主亲历恐袭拍下惊魂时刻",
+      "onboard_time": 1711328060,
+      "rank": 29,
+      "category": "国外时政"
     },
     {
       "raw_hot": 238199,
@@ -35721,6 +35857,14 @@
       "onboard_time": 1710755735,
       "rank": 31,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 217124,
+      "num": 217124,
+      "word": "眼泪女王收视率再创新高",
+      "onboard_time": 1711325899,
+      "rank": 31,
+      "category": "剧集"
     },
     {
       "raw_hot": 217035,
@@ -40635,6 +40779,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 195870,
+      "num": 195870,
+      "word": "内耗严重要经常默念这几句话",
+      "onboard_time": 1711328599,
+      "rank": 35,
+      "category": "情感"
+    },
+    {
       "raw_hot": 195854,
       "num": 195854,
       "word": "肖俊宣传NCT WISH",
@@ -42163,6 +42315,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 190317,
+      "num": 190317,
+      "word": "江西农村彩礼涨到50万元",
+      "onboard_time": 1711328959,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 190264,
       "num": 190264,
       "word": "郑合惠子 反内耗的神",
@@ -42881,6 +43041,14 @@
       "onboard_time": 1710144631,
       "rank": 31,
       "category": "电影"
+    },
+    {
+      "raw_hot": 187608,
+      "num": 187608,
+      "word": "为什么卵巢对女人如此重要",
+      "onboard_time": 1711322536,
+      "rank": 19,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 187600,
@@ -43816,6 +43984,14 @@
       "word": "WE战胜RNG",
       "onboard_time": 1709370212,
       "rank": 29,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 183406,
+      "num": 183406,
+      "word": "WBG老板疑似离队",
+      "onboard_time": 1711325182,
+      "rank": 38,
       "category": "电竞"
     },
     {
@@ -45033,14 +45209,6 @@
       "onboard_time": 1709770650,
       "rank": 35,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 178425,
-      "num": 178425,
-      "word": "为什么卵巢对女人如此重要",
-      "onboard_time": 1711322536,
-      "rank": 19,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 178410,
@@ -51123,6 +51291,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 154973,
+      "num": 154973,
+      "word": "余华真的好会比喻",
+      "onboard_time": 1711328959,
+      "rank": 43,
+      "category": "读书作家"
+    },
+    {
       "raw_hot": 154929,
       "num": 154929,
       "word": "想去她家上班",
@@ -51939,6 +52115,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 151952,
+      "num": 151952,
+      "word": "我对早八态度",
+      "onboard_time": 1711324939,
+      "rank": 44,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 151949,
       "num": 151949,
       "word": "原来周处除三害有那么多特效",
@@ -52131,6 +52315,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 151233,
+      "num": 151233,
+      "word": "坠落的审判北大映后主持人道歉",
+      "onboard_time": 1711322777,
+      "rank": 32,
+      "category": "电影"
+    },
+    {
       "raw_hot": 151199,
       "num": 151199,
       "word": "傅融神游",
@@ -52177,14 +52369,6 @@
       "onboard_time": 1709879970,
       "rank": 31,
       "category": "情感"
-    },
-    {
-      "raw_hot": 150991,
-      "num": 150991,
-      "word": "一旦开始喝咖啡这辈子就定型了",
-      "onboard_time": 1711322176,
-      "rank": 30,
-      "category": "幽默"
     },
     {
       "raw_hot": 150964,
@@ -53043,14 +53227,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 147898,
-      "num": 147898,
-      "word": "何超莲赵露思合照",
-      "onboard_time": 1711322596,
-      "rank": 25,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 147890,
       "num": 168188,
       "word": "语文课本和祖国大好河山的适配度",
@@ -53232,6 +53408,14 @@
       "word": "马伯骞 肉夹馍蛋糕",
       "onboard_time": 1710991773,
       "rank": 45,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 147333,
+      "num": 147333,
+      "word": "于适宽肩",
+      "onboard_time": 1711327220,
+      "rank": 46,
       "category": "艺人"
     },
     {
@@ -53745,6 +53929,14 @@
       "onboard_time": 1709994576,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 145124,
+      "num": 145124,
+      "word": "行止掉马甲了",
+      "onboard_time": 1711327341,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 145123,
@@ -54857,14 +55049,6 @@
       "onboard_time": 1710033150,
       "rank": 48,
       "category": "国内时政,教育"
-    },
-    {
-      "raw_hot": 140968,
-      "num": 140968,
-      "word": "全红婵世界杯夺金",
-      "onboard_time": 1711322717,
-      "rank": 26,
-      "category": "体育"
     },
     {
       "raw_hot": 140966,
@@ -61337,14 +61521,6 @@
       "onboard_time": 1710721354,
       "rank": 49,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 114650,
-      "num": 114650,
-      "word": "坠落的审判北大映后主持人道歉",
-      "onboard_time": 1711322777,
-      "rank": 32,
-      "category": "电影"
     },
     {
       "raw_hot": 114645,
@@ -68196,7 +68372,7 @@
     },
     {
       "raw_hot": 26559,
-      "num": 725073,
+      "num": 1063657,
       "word": "筑牢粮食安全耕基",
       "onboard_time": 1711282759,
       "rank": 2,
