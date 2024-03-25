@@ -1,6 +1,6 @@
 {
   "startTime": 1711297217204,
-  "endTime": 1711340559433,
+  "endTime": 1711341304139,
   "band_list": [
     {
       "raw_hot": 2474722,
@@ -51,8 +51,8 @@
       "category": "社会新闻,财经"
     },
     {
-      "raw_hot": 1411027,
-      "num": 1411027,
+      "raw_hot": 1425933,
+      "num": 1425933,
       "word": "林更新退出九亿梦影视公司",
       "onboard_time": 1711338258,
       "rank": 3,
@@ -91,6 +91,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 1033159,
+      "num": 1033159,
+      "word": "张艺兴女团成员正面照",
+      "onboard_time": 1711337598,
+      "rank": 49,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1019557,
       "num": 1019557,
       "word": "大地磁暴",
@@ -99,12 +107,12 @@
       "category": "自然"
     },
     {
-      "raw_hot": 1016658,
-      "num": 1016658,
-      "word": "张艺兴女团成员正面照",
-      "onboard_time": 1711337598,
-      "rank": 49,
-      "category": "综艺"
+      "raw_hot": 992013,
+      "num": 992013,
+      "word": "乡村小学校长侵害5名未成年女生",
+      "onboard_time": 1711338499,
+      "rank": 6,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 964527,
@@ -115,12 +123,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 862566,
-      "num": 862566,
-      "word": "乡村小学校长侵害5名未成年女生",
-      "onboard_time": 1711338499,
-      "rank": 6,
-      "category": "社会新闻"
+      "raw_hot": 898142,
+      "num": 898142,
+      "word": "钟睒睒连续四年成为中国首富",
+      "onboard_time": 1711339399,
+      "rank": 10,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 801877,
@@ -259,14 +267,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 553615,
-      "num": 553615,
-      "word": "钟睒睒连续四年成为中国首富",
-      "onboard_time": 1711339399,
-      "rank": 10,
-      "category": "财经,社会新闻"
-    },
-    {
       "raw_hot": 544299,
       "num": 378215,
       "word": "一阳",
@@ -276,7 +276,7 @@
     },
     {
       "raw_hot": 528167,
-      "num": 306551,
+      "num": 336927,
       "word": "星期一已经崩溃一万次了",
       "onboard_time": 1711337058,
       "rank": 25,
@@ -299,6 +299,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 520103,
+      "num": 520103,
+      "word": "叶蓁蓁 远离假性友谊",
+      "onboard_time": 1711338438,
+      "rank": 12,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 519747,
       "num": 519747,
       "word": "24岁女子跳河轻生被救家属转1000元感谢",
@@ -315,12 +323,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 466243,
-      "num": 466243,
-      "word": "叶蓁蓁 远离假性友谊",
-      "onboard_time": 1711338438,
-      "rank": 12,
-      "category": "剧集"
+      "raw_hot": 474764,
+      "num": 474764,
+      "word": "俄罗斯",
+      "onboard_time": 1711336640,
+      "rank": 29,
+      "category": "国外时政"
     },
     {
       "raw_hot": 455890,
@@ -345,14 +353,6 @@
       "onboard_time": 1711332319,
       "rank": 19,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 453431,
-      "num": 453431,
-      "word": "俄罗斯",
-      "onboard_time": 1711336640,
-      "rank": 29,
-      "category": "国外时政"
     },
     {
       "raw_hot": 446987,
@@ -419,12 +419,36 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 364544,
+      "num": 364544,
+      "word": "王一博醉酒戏是即兴发挥",
+      "onboard_time": 1711339279,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 361995,
       "num": 361995,
       "word": "俄罗斯圣彼得堡一购物中心紧急疏散",
       "onboard_time": 1711323738,
       "rank": 18,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 360849,
+      "num": 328703,
+      "word": "刘学义方否认偷税漏税",
+      "onboard_time": 1711340421,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 357982,
+      "num": 357982,
+      "word": "研究发现大腿粗的人更长寿",
+      "onboard_time": 1711339699,
+      "rank": 32,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 348801,
@@ -507,14 +531,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 291158,
-      "num": 291158,
-      "word": "王一博醉酒戏是即兴发挥",
-      "onboard_time": 1711339279,
-      "rank": 24,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 289614,
       "num": 289614,
       "word": "每杯188元的奶茶到底香不香",
@@ -529,6 +545,14 @@
       "onboard_time": 1711294759,
       "rank": 21,
       "category": "美食"
+    },
+    {
+      "raw_hot": 269401,
+      "num": 269401,
+      "word": "百度将为国行iPhone16提供AI功能",
+      "onboard_time": 1711340480,
+      "rank": 48,
+      "category": "互联网,数码"
     },
     {
       "raw_hot": 259954,
@@ -667,20 +691,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 219929,
-      "num": 219929,
-      "word": "研究发现大腿粗的人更长寿",
-      "onboard_time": 1711339699,
-      "rank": 32,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 219660,
       "num": 219660,
       "word": "A股",
       "onboard_time": 1711331539,
       "rank": 30,
       "category": "财经"
+    },
+    {
+      "raw_hot": 219402,
+      "num": 1509019,
+      "word": "春天的浪漫是花花给的",
+      "onboard_time": 1711338319,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 218320,
@@ -723,6 +747,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 202522,
+      "num": 202522,
+      "word": "俄公布恐袭事件68位遇难者名单",
+      "onboard_time": 1711340300,
+      "rank": 43,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 202398,
       "num": 202398,
       "word": "这是我的岛线下海岛全员直播",
@@ -737,14 +769,6 @@
       "onboard_time": 1711336099,
       "rank": 30,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 201311,
-      "num": 201311,
-      "word": "刘学义方否认偷税漏税",
-      "onboard_time": 1711340421,
-      "rank": 33,
-      "category": "艺人"
     },
     {
       "raw_hot": 200648,
@@ -827,6 +851,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 191397,
+      "num": 191397,
+      "word": "宫崎骏上班日记",
+      "onboard_time": 1711340780,
+      "rank": 38,
+      "category": "动漫,艺人"
+    },
+    {
       "raw_hot": 188904,
       "num": 188904,
       "word": "飞鲨起降超燃现场",
@@ -859,14 +891,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 186481,
-      "num": 1509019,
-      "word": "春天的浪漫是花花给的",
-      "onboard_time": 1711338319,
-      "rank": 2,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 183406,
       "num": 183406,
       "word": "WBG老板疑似离队",
@@ -881,6 +905,14 @@
       "onboard_time": 1711337357,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 179828,
+      "num": 179828,
+      "word": "陈晓 迫碎感",
+      "onboard_time": 1711340480,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 177908,
@@ -931,12 +963,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 163683,
-      "num": 163683,
-      "word": "俄公布恐袭事件68位遇难者名单",
-      "onboard_time": 1711340300,
-      "rank": 43,
-      "category": "国外时政"
+      "raw_hot": 163963,
+      "num": 163963,
+      "word": "撒贝宁 追星其实是你在追自己",
+      "onboard_time": 1711341080,
+      "rank": 45,
+      "category": "情感"
     },
     {
       "raw_hot": 162688,
@@ -1035,14 +1067,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 142945,
-      "num": 142945,
-      "word": "百度将为国行iPhone16提供AI功能",
-      "onboard_time": 1711340480,
-      "rank": 48,
-      "category": "互联网,数码"
-    },
-    {
       "raw_hot": 142705,
       "num": 142705,
       "word": "2024胡润全球富豪榜发布",
@@ -1073,14 +1097,6 @@
       "onboard_time": 1711327521,
       "rank": 49,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 138975,
-      "num": 138975,
-      "word": "陈晓 迫碎感",
-      "onboard_time": 1711340480,
-      "rank": 49,
-      "category": "剧集"
     },
     {
       "raw_hot": 136524,
