@@ -1,6 +1,6 @@
 {
   "startTime": 1711210803824,
-  "endTime": 1711343900731,
+  "endTime": 1711344832834,
   "band_list": [
     {
       "raw_hot": 3435224,
@@ -148,7 +148,7 @@
     },
     {
       "raw_hot": 1422979,
-      "num": 266623,
+      "num": 318613,
       "word": "前同事离职时删光了所有资料",
       "onboard_time": 1711342579,
       "rank": 20,
@@ -563,6 +563,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 744349,
+      "num": 367139,
+      "word": "Kimi每天获客成本超20万元",
+      "onboard_time": 1711342760,
+      "rank": 14,
+      "category": "互联网,科学科普"
+    },
+    {
       "raw_hot": 741997,
       "num": 741997,
       "word": "小林制药公司召回约30万份产品",
@@ -731,6 +739,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 620473,
+      "num": 620473,
+      "word": "百度将为国行iPhone16提供AI功能",
+      "onboard_time": 1711340480,
+      "rank": 48,
+      "category": "互联网,数码"
+    },
+    {
       "raw_hot": 614764,
       "num": 614764,
       "word": "AG终结WB八连胜",
@@ -833,14 +849,6 @@
       "onboard_time": 1711250599,
       "rank": 27,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 562346,
-      "num": 562346,
-      "word": "百度将为国行iPhone16提供AI功能",
-      "onboard_time": 1711340480,
-      "rank": 48,
-      "category": "互联网,数码"
     },
     {
       "raw_hot": 558933,
@@ -953,6 +961,14 @@
       "onboard_time": 1711325599,
       "rank": 13,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 516876,
+      "num": 516876,
+      "word": "刘学义方否认偷税漏税",
+      "onboard_time": 1711340421,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 509945,
@@ -1084,7 +1100,7 @@
     },
     {
       "raw_hot": 470218,
-      "num": 415075,
+      "num": 415467,
       "word": "唐嫣官宣电视剧品质盛典",
       "onboard_time": 1711342041,
       "rank": 11,
@@ -1105,14 +1121,6 @@
       "onboard_time": 1711203021,
       "rank": 8,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 467701,
-      "num": 467701,
-      "word": "刘学义方否认偷税漏税",
-      "onboard_time": 1711340421,
-      "rank": 33,
-      "category": "艺人"
     },
     {
       "raw_hot": 461383,
@@ -1275,6 +1283,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 411808,
+      "num": 343584,
+      "word": "向佐说现在和郭碧婷恩爱到极点了",
+      "onboard_time": 1711344258,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 411244,
       "num": 411244,
       "word": "鹿晗跳自己的歌输给陈赫",
@@ -1353,6 +1369,14 @@
       "onboard_time": 1711336519,
       "rank": 35,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 381763,
+      "num": 381763,
+      "word": "小米su7",
+      "onboard_time": 1711341381,
+      "rank": 18,
+      "category": "汽车"
     },
     {
       "raw_hot": 379093,
@@ -1435,14 +1459,6 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 357342,
-      "num": 357342,
-      "word": "Kimi每天获客成本超20万元",
-      "onboard_time": 1711342760,
-      "rank": 14,
-      "category": "互联网,科学科普"
-    },
-    {
       "raw_hot": 357207,
       "num": 258736,
       "word": "90后女孩存下100万后买了房",
@@ -1468,7 +1484,7 @@
     },
     {
       "raw_hot": 352689,
-      "num": 260849,
+      "num": 318266,
       "word": "撒贝宁 追星其实是你在追自己",
       "onboard_time": 1711341080,
       "rank": 45,
@@ -1553,14 +1569,6 @@
       "onboard_time": 1711193660,
       "rank": 17,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 336991,
-      "num": 336991,
-      "word": "小米su7",
-      "onboard_time": 1711341381,
-      "rank": 18,
-      "category": "汽车"
     },
     {
       "raw_hot": 332920,
@@ -1825,6 +1833,14 @@
       "onboard_time": 1711259540,
       "rank": 23,
       "category": "体育"
+    },
+    {
+      "raw_hot": 263738,
+      "num": 263738,
+      "word": "时空中的绘旅人",
+      "onboard_time": 1711344498,
+      "rank": 24,
+      "category": "游戏"
     },
     {
       "raw_hot": 263701,
@@ -2203,12 +2219,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 226647,
+      "num": 226647,
+      "word": "请把图书馆让一点给读书人",
+      "onboard_time": 1711344378,
+      "rank": 32,
+      "category": "情感"
+    },
+    {
       "raw_hot": 225118,
       "num": 225118,
       "word": "快乐男声时期的张杰谢娜",
       "onboard_time": 1711331119,
       "rank": 29,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 223617,
+      "num": 318952,
+      "word": "湖人轰下150分",
+      "onboard_time": 1711343660,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 223424,
@@ -2233,6 +2265,14 @@
       "onboard_time": 1711257919,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 220236,
+      "num": 220236,
+      "word": "很多女生中年吃的苦年轻时就注定了",
+      "onboard_time": 1711344498,
+      "rank": 34,
+      "category": "情感"
     },
     {
       "raw_hot": 219660,
@@ -2331,6 +2371,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 213372,
+      "num": 213372,
+      "word": "小米汽车上架AppStore",
+      "onboard_time": 1711344019,
+      "rank": 35,
+      "category": "汽车,互联网"
+    },
+    {
       "raw_hot": 211100,
       "num": 211100,
       "word": "周也潍坊",
@@ -2420,7 +2468,7 @@
     },
     {
       "raw_hot": 202522,
-      "num": 244512,
+      "num": 246408,
       "word": "俄公布恐袭事件68位遇难者名单",
       "onboard_time": 1711340300,
       "rank": 43,
@@ -2697,6 +2745,14 @@
       "onboard_time": 1711277960,
       "rank": 33,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 190148,
+      "num": 190148,
+      "word": "花间令 为弱者发声",
+      "onboard_time": 1711343840,
+      "rank": 44,
+      "category": "剧集"
     },
     {
       "raw_hot": 189671,
@@ -3259,14 +3315,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 153436,
-      "num": 153436,
-      "word": "湖人轰下150分",
-      "onboard_time": 1711343660,
-      "rank": 43,
-      "category": "体育"
-    },
-    {
       "raw_hot": 153152,
       "num": 153152,
       "word": "不知道的还以为霍建华演了与凤行",
@@ -3345,14 +3393,6 @@
       "onboard_time": 1711278678,
       "rank": 45,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 149822,
-      "num": 149822,
-      "word": "花间令 为弱者发声",
-      "onboard_time": 1711343840,
-      "rank": 44,
-      "category": "剧集"
     },
     {
       "raw_hot": 148818,
@@ -3457,6 +3497,22 @@
       "onboard_time": 1711253180,
       "rank": 39,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 143902,
+      "num": 143902,
+      "word": "多校呼吁毕业生不要只盯着考研考公",
+      "onboard_time": 1711344798,
+      "rank": 46,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 143335,
+      "num": 143335,
+      "word": "小说爱好者给我闭眼冲",
+      "onboard_time": 1711343958,
+      "rank": 47,
+      "category": "读书作家"
     },
     {
       "raw_hot": 143103,
@@ -3651,6 +3707,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 131767,
+      "num": 157729,
+      "word": "多名男子疑当众向油罐车内注水",
+      "onboard_time": 1711344498,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 131419,
       "num": 131419,
       "word": "大屏上的张杰",
@@ -3721,6 +3785,14 @@
       "onboard_time": 1711247479,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 127482,
+      "num": 143308,
+      "word": "警方已介入幼儿园老师打孩子头并踩脸",
+      "onboard_time": 1711344738,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 127371,
@@ -4228,7 +4300,7 @@
     },
     {
       "raw_hot": 29508,
-      "num": 222950,
+      "num": 380686,
       "word": "小米SU7真车比图强",
       "onboard_time": 1711343359,
       "rank": 32,
