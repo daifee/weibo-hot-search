@@ -1,6 +1,6 @@
 {
   "startTime": 1711210803824,
-  "endTime": 1711366449905,
+  "endTime": 1711369856477,
   "band_list": [
     {
       "raw_hot": 3435224,
@@ -121,6 +121,14 @@
       "onboard_time": 1711251260,
       "rank": 1,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1687565,
+      "num": 1687565,
+      "word": "IU自曝吃东西每口咬150下",
+      "onboard_time": 1711366819,
+      "rank": 1,
+      "category": "艺人"
     },
     {
       "raw_hot": 1631032,
@@ -331,6 +339,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 1136835,
+      "num": 1136835,
+      "word": "墨香铜臭称将全额退还新书霸王票",
+      "onboard_time": 1711362258,
+      "rank": 25,
+      "category": "读书作家"
+    },
+    {
       "raw_hot": 1133761,
       "num": 535969,
       "word": "警方回应女子遭父亲多次强奸",
@@ -345,6 +361,14 @@
       "onboard_time": 1711344258,
       "rank": 15,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1120845,
+      "num": 1120845,
+      "word": "郭敬明 纪凌尘最好的医美",
+      "onboard_time": 1711368738,
+      "rank": 5,
+      "category": "剧集"
     },
     {
       "raw_hot": 1119669,
@@ -593,14 +617,6 @@
       "onboard_time": 1711201521,
       "rank": 11,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 824866,
-      "num": 824866,
-      "word": "墨香铜臭称将全额退还新书霸王票",
-      "onboard_time": 1711362258,
-      "rank": 25,
-      "category": "读书作家"
     },
     {
       "raw_hot": 819855,
@@ -1419,6 +1435,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 464781,
+      "num": 464781,
+      "word": "肖战工作室放饭了",
+      "onboard_time": 1711368679,
+      "rank": 8,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 461383,
       "num": 461383,
       "word": "鹿晗淄博",
@@ -1520,6 +1544,14 @@
       "word": "白桃星座",
       "onboard_time": 1711292842,
       "rank": 14,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 436168,
+      "num": 347080,
+      "word": "工作8个月攒了11万想辞职",
+      "onboard_time": 1711368439,
+      "rank": 20,
       "category": "情感"
     },
     {
@@ -1691,12 +1723,28 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 387879,
+      "num": 387879,
+      "word": "李湘晒王诗龄生活照",
+      "onboard_time": 1711368079,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 387274,
       "num": 342523,
       "word": "被辞退的实习生在大群发的消息",
       "onboard_time": 1711272679,
       "rank": 34,
       "category": "情感"
+    },
+    {
+      "raw_hot": 386235,
+      "num": 386235,
+      "word": "好友说金赛纶有难言之隐",
+      "onboard_time": 1711368920,
+      "rank": 14,
+      "category": "剧集"
     },
     {
       "raw_hot": 384348,
@@ -1721,6 +1769,22 @@
       "onboard_time": 1711341381,
       "rank": 18,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 381415,
+      "num": 381415,
+      "word": "优酷的七部养老剧",
+      "onboard_time": 1711369099,
+      "rank": 16,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 379568,
+      "num": 379568,
+      "word": "摩羯座寡淡的原因",
+      "onboard_time": 1711366577,
+      "rank": 17,
+      "category": "情感"
     },
     {
       "raw_hot": 379093,
@@ -1897,6 +1961,14 @@
       "onboard_time": 1711327880,
       "rank": 20,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 346945,
+      "num": 346945,
+      "word": "长期吃太饱身体会发生什么变化",
+      "onboard_time": 1711367419,
+      "rank": 21,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 346438,
@@ -2747,6 +2819,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 231437,
+      "num": 231437,
+      "word": "极光",
+      "onboard_time": 1711367959,
+      "rank": 27,
+      "category": "自然"
+    },
+    {
       "raw_hot": 230717,
       "num": 230717,
       "word": "孙千陈靖可芭莎春日大片",
@@ -2761,6 +2841,14 @@
       "onboard_time": 1711333878,
       "rank": 37,
       "category": "美食"
+    },
+    {
+      "raw_hot": 229971,
+      "num": 229971,
+      "word": "妈妈劝我早点离职",
+      "onboard_time": 1711369038,
+      "rank": 28,
+      "category": "情感"
     },
     {
       "raw_hot": 229850,
@@ -2849,6 +2937,14 @@
       "onboard_time": 1711257919,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 220748,
+      "num": 220748,
+      "word": "100块钱的龙虾90块钱的壳",
+      "onboard_time": 1711368859,
+      "rank": 30,
+      "category": "美食"
     },
     {
       "raw_hot": 219402,
@@ -2969,6 +3065,14 @@
       "onboard_time": 1711343242,
       "rank": 34,
       "category": "情感"
+    },
+    {
+      "raw_hot": 209621,
+      "num": 209621,
+      "word": "哥哥带女朋友回家我成了外人",
+      "onboard_time": 1711366997,
+      "rank": 32,
+      "category": "幽默"
     },
     {
       "raw_hot": 209169,
@@ -3171,12 +3275,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 199386,
+      "num": 199386,
+      "word": "杨超越钉珠蕾丝裙",
+      "onboard_time": 1711367718,
+      "rank": 36,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 199230,
       "num": 199230,
       "word": "五哈济南",
       "onboard_time": 1711246999,
       "rank": 39,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 198921,
+      "num": 224884,
+      "word": "这种海鲜吃一口就有6000条寄生虫",
+      "onboard_time": 1711365678,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 198441,
@@ -3577,14 +3697,6 @@
       "onboard_time": 1711264999,
       "rank": 32,
       "category": "体育"
-    },
-    {
-      "raw_hot": 180579,
-      "num": 180579,
-      "word": "这种海鲜吃一口就有6000条寄生虫",
-      "onboard_time": 1711365678,
-      "rank": 33,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 179933,
@@ -4107,6 +4219,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 155557,
+      "num": 155557,
+      "word": "建议早上设置两个闹钟",
+      "onboard_time": 1711369457,
+      "rank": 40,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 155360,
       "num": 155360,
       "word": "云南事业单位 考点",
@@ -4153,6 +4273,14 @@
       "onboard_time": 1711336877,
       "rank": 41,
       "category": "情感"
+    },
+    {
+      "raw_hot": 154064,
+      "num": 154064,
+      "word": "月亮",
+      "onboard_time": 1711366347,
+      "rank": 41,
+      "category": "自然"
     },
     {
       "raw_hot": 153311,
@@ -4227,6 +4355,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 150413,
+      "num": 150413,
+      "word": "成毅直播状态",
+      "onboard_time": 1711369698,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 150377,
       "num": 150377,
       "word": "特鲁姆普世界公开赛夺冠",
@@ -4241,6 +4377,14 @@
       "onboard_time": 1711278678,
       "rank": 45,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 149617,
+      "num": 149617,
+      "word": "减掉1公斤脂肪需要多久",
+      "onboard_time": 1711369520,
+      "rank": 44,
+      "category": "运动健身"
     },
     {
       "raw_hot": 148818,
@@ -4313,14 +4457,6 @@
       "onboard_time": 1711365439,
       "rank": 40,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 146126,
-      "num": 146126,
-      "word": "月亮",
-      "onboard_time": 1711366347,
-      "rank": 41,
-      "category": "自然"
     },
     {
       "raw_hot": 145768,
@@ -4481,6 +4617,14 @@
       "onboard_time": 1711244059,
       "rank": 42,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 140548,
+      "num": 140548,
+      "word": "执笔 上头",
+      "onboard_time": 1711366639,
+      "rank": 46,
+      "category": "剧集"
     },
     {
       "raw_hot": 140314,
@@ -5051,6 +5195,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 98027,
+      "num": 138031,
+      "word": "孙准浩被释放返回韩国",
+      "onboard_time": 1711369819,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 94619,
       "num": 1116569,
       "word": "花花盛开的中国春意拉满",
@@ -5089,6 +5241,14 @@
       "onboard_time": 1711322717,
       "rank": 41,
       "category": "情感"
+    },
+    {
+      "raw_hot": 76392,
+      "num": 382407,
+      "word": "癫文化开始侵袭时尚圈了",
+      "onboard_time": 1711367059,
+      "rank": 15,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 76353,
@@ -5345,6 +5505,14 @@
       "onboard_time": 1711308850,
       "rank": 44,
       "category": "动漫,作品衍生"
+    },
+    {
+      "raw_hot": 14579,
+      "num": 134400,
+      "word": "这场秀是在演我的精神状态吗",
+      "onboard_time": 1711369819,
+      "rank": 49,
+      "category": "作品衍生"
     }
   ],
   "hotgov_list": [
