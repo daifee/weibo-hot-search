@@ -1,0 +1,410 @@
+{
+  "runTime": 1711377246776,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1297851,
+        "num": 1297851,
+        "word": "张亮麻辣烫部分门店收汤费",
+        "onboard_time": 1711372098,
+        "rank": 0,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 993898,
+        "num": 993898,
+        "word": "郭敬明 纪凌尘最好的医美",
+        "onboard_time": 1711368738,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 147314,
+        "num": 963564,
+        "word": "原来设计条铁路有这么多高科技",
+        "onboard_time": 1711373540,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 959587,
+        "num": 959587,
+        "word": "墨香铜臭回来了",
+        "onboard_time": 1711348338,
+        "rank": 3,
+        "category": "读书作家,作品衍生"
+      },
+      {
+        "raw_hot": 785382,
+        "num": 785382,
+        "word": "IU自曝吃东西每口咬150下",
+        "onboard_time": 1711366819,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 757816,
+        "num": 757816,
+        "word": "樊振东发文维权",
+        "onboard_time": 1711364720,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 686900,
+        "num": 686900,
+        "word": "威廉凯特计划带孩子复活节外出",
+        "onboard_time": 1711374739,
+        "rank": 6,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 650940,
+        "num": 650940,
+        "word": "墨香铜臭称将全额退还新书霸王票",
+        "onboard_time": 1711362258,
+        "rank": 7,
+        "category": "读书作家,作品衍生"
+      },
+      {
+        "raw_hot": 593557,
+        "num": 593557,
+        "word": "教育部要求开展学生欺凌防治培训",
+        "onboard_time": 1711373359,
+        "rank": 8,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 590926,
+        "num": 590926,
+        "word": "谁家合法夫妻偷感这么重啊",
+        "onboard_time": 1711371198,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 568615,
+        "num": 568615,
+        "word": "王濛的母亲张晓霞",
+        "onboard_time": 1711361298,
+        "rank": 10,
+        "category": "作品衍生,体育"
+      },
+      {
+        "raw_hot": 518791,
+        "num": 518791,
+        "word": "strong哥",
+        "onboard_time": 1711374080,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 497454,
+        "num": 497454,
+        "word": "优酷的七部养老剧",
+        "onboard_time": 1711369099,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 413655,
+        "num": 413655,
+        "word": "泰国曼谷68元一位的海鲜自助",
+        "onboard_time": 1711375461,
+        "rank": 13,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 396844,
+        "num": 396844,
+        "word": "开封王婆身体不适暂别舞台",
+        "onboard_time": 1711375519,
+        "rank": 14,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 383408,
+        "num": 383408,
+        "word": "杭州姐姐给了弟弟200元刮中100万",
+        "onboard_time": 1711376180,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 376486,
+        "num": 376486,
+        "word": "种地吧郁金香线上销售预告",
+        "onboard_time": 1711372761,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 357129,
+        "num": 357129,
+        "word": "长期吃太饱身体会发生什么变化",
+        "onboard_time": 1711367419,
+        "rank": 17,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 325228,
+        "num": 325228,
+        "word": "孙俪惊讶大家还在讨论甄嬛传",
+        "onboard_time": 1711360339,
+        "rank": 18,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 311571,
+        "num": 311571,
+        "word": "公办高中教师招聘薪资1000以下",
+        "onboard_time": 1711355537,
+        "rank": 19,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 1270155,
+        "num": 309501,
+        "word": "上海中医药大学一规培生烧炭自杀",
+        "onboard_time": 1711371620,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 501818,
+        "num": 308544,
+        "word": "断崖式衰老发生在几岁",
+        "onboard_time": 1711373180,
+        "rank": 21,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 367574,
+        "num": 308054,
+        "word": "减掉1公斤脂肪需要多久",
+        "onboard_time": 1711369520,
+        "rank": 22,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 305654,
+        "num": 305654,
+        "word": "种地吧郁金香开售",
+        "onboard_time": 1711364899,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 303817,
+        "num": 303817,
+        "word": "工作8个月攒了11万想辞职",
+        "onboard_time": 1711368439,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 299038,
+        "num": 299038,
+        "word": "大学生借书发现67年前书签",
+        "onboard_time": 1711360219,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 245155,
+        "num": 245155,
+        "word": "我的相亲对象是母单系列",
+        "onboard_time": 1711373720,
+        "rank": 26,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 237486,
+        "num": 237486,
+        "word": "Angelababy杨超越互夸美甲",
+        "onboard_time": 1711377201,
+        "rank": 27,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 227389,
+        "num": 227389,
+        "word": "小寨",
+        "onboard_time": 1711360878,
+        "rank": 28,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 226157,
+        "num": 226157,
+        "word": "好友说金赛纶有难言之隐",
+        "onboard_time": 1711368920,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 200827,
+        "num": 200827,
+        "word": "摩羯座寡淡的原因",
+        "onboard_time": 1711366577,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 198532,
+        "num": 198532,
+        "word": "一个苹果可以虚假到什么程度",
+        "onboard_time": 1711375881,
+        "rank": 31,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 198347,
+        "num": 198347,
+        "word": "这种海鲜吃一口就有6000条寄生虫",
+        "onboard_time": 1711365678,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 191795,
+        "num": 191795,
+        "word": "李湘晒王诗龄生活照",
+        "onboard_time": 1711368079,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 185796,
+        "num": 185796,
+        "word": "肖战工作室放饭了",
+        "onboard_time": 1711368679,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 182718,
+        "num": 182718,
+        "word": "离职后有必要删除同事吗",
+        "onboard_time": 1711375700,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 175516,
+        "num": 175516,
+        "word": "天官赐福解锁",
+        "onboard_time": 1711348938,
+        "rank": 36,
+        "category": "读书作家,作品衍生"
+      },
+      {
+        "raw_hot": 170766,
+        "num": 170766,
+        "word": "与凤行预告",
+        "onboard_time": 1711376841,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 169205,
+        "num": 169205,
+        "word": "难听",
+        "onboard_time": 1711359258,
+        "rank": 38,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 164483,
+        "num": 164483,
+        "word": "女子为饿死肿瘤节食暴瘦44斤",
+        "onboard_time": 1711355897,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 158771,
+        "num": 158771,
+        "word": "肛肠科待久了对帅哥都无感了",
+        "onboard_time": 1711353378,
+        "rank": 40,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 156295,
+        "num": 156295,
+        "word": "弟弟结婚要我给2万礼金",
+        "onboard_time": 1711365378,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 153042,
+        "num": 153042,
+        "word": "帅其实是一种感觉",
+        "onboard_time": 1711377138,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 143294,
+        "num": 143294,
+        "word": "终于有剧吐槽嘴对嘴喂药了",
+        "onboard_time": 1711372339,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 142810,
+        "num": 142810,
+        "word": "白鹿素人时期旧照",
+        "onboard_time": 1711364839,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 142536,
+        "num": 142536,
+        "word": "魏若来订了娃娃亲",
+        "onboard_time": 1711371980,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 137321,
+        "num": 137321,
+        "word": "如何看待中国大学的宿舍制度",
+        "onboard_time": 1711376841,
+        "rank": 46,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 136597,
+        "num": 136597,
+        "word": "薛之谦演唱会官宣三站",
+        "onboard_time": 1711359617,
+        "rank": 47,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 121484,
+        "num": 121484,
+        "word": "百分百歌手 不修音舞台",
+        "onboard_time": 1711371379,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 118109,
+        "num": 118109,
+        "word": "杨超越钉珠蕾丝裙",
+        "onboard_time": 1711367718,
+        "rank": 49,
+        "category": "作品衍生"
+      }
+    ],
+    "hotgov": {
+      "word": "#推进全球发展倡议落地落实#"
+    }
+  }
+}

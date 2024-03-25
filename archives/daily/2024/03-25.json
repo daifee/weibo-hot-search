@@ -1,6 +1,6 @@
 {
   "startTime": 1711297217204,
-  "endTime": 1711376195773,
+  "endTime": 1711377246776,
   "band_list": [
     {
       "raw_hot": 3117943,
@@ -163,6 +163,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1297851,
+      "num": 1297851,
+      "word": "张亮麻辣烫部分门店收汤费",
+      "onboard_time": 1711372098,
+      "rank": 26,
+      "category": "美食"
+    },
+    {
       "raw_hot": 1287479,
       "num": 1287479,
       "word": "王鸥复工身材状态",
@@ -185,14 +193,6 @@
       "onboard_time": 1711338499,
       "rank": 6,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1182899,
-      "num": 1182899,
-      "word": "张亮麻辣烫部分门店收汤费",
-      "onboard_time": 1711372098,
-      "rank": 26,
-      "category": "美食"
     },
     {
       "raw_hot": 1179042,
@@ -483,6 +483,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 686900,
+      "num": 686900,
+      "word": "威廉凯特计划带孩子复活节外出",
+      "onboard_time": 1711374739,
+      "rank": 12,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 685666,
       "num": 685666,
       "word": "1年花380元参加居民医保值不值",
@@ -585,6 +593,14 @@
       "onboard_time": 1711369520,
       "rank": 44,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 593557,
+      "num": 608330,
+      "word": "教育部要求开展学生欺凌防治培训",
+      "onboard_time": 1711373359,
+      "rank": 33,
+      "category": "教育"
     },
     {
       "raw_hot": 585926,
@@ -723,36 +739,20 @@
       "category": "财经"
     },
     {
-      "raw_hot": 494816,
-      "num": 494816,
-      "word": "语文就适合晚上考",
-      "onboard_time": 1711353078,
-      "rank": 18,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 490541,
-      "num": 608330,
-      "word": "教育部要求开展学生欺凌防治培训",
-      "onboard_time": 1711373359,
-      "rank": 33,
-      "category": "教育"
-    },
-    {
-      "raw_hot": 486383,
-      "num": 264466,
+      "raw_hot": 501818,
+      "num": 308544,
       "word": "断崖式衰老发生在几岁",
       "onboard_time": 1711373180,
       "rank": 27,
       "category": "健康医疗"
     },
     {
-      "raw_hot": 481466,
-      "num": 481466,
-      "word": "威廉凯特计划带孩子复活节外出",
-      "onboard_time": 1711374739,
-      "rank": 12,
-      "category": "国外时政"
+      "raw_hot": 494816,
+      "num": 494816,
+      "word": "语文就适合晚上考",
+      "onboard_time": 1711353078,
+      "rank": 18,
+      "category": "情感"
     },
     {
       "raw_hot": 476901,
@@ -859,6 +859,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 413655,
+      "num": 413655,
+      "word": "泰国曼谷68元一位的海鲜自助",
+      "onboard_time": 1711375461,
+      "rank": 30,
+      "category": "美食"
+    },
+    {
       "raw_hot": 410424,
       "num": 362552,
       "word": "韩安冉晒二胎B超照",
@@ -891,20 +899,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 396844,
+      "num": 396844,
+      "word": "开封王婆身体不适暂别舞台",
+      "onboard_time": 1711375519,
+      "rank": 31,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 396027,
       "num": 396027,
       "word": "俄恐袭现场发现137具遗体",
       "onboard_time": 1711289900,
       "rank": 9,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 395916,
-      "num": 207247,
-      "word": "泰国曼谷68元一位的海鲜自助",
-      "onboard_time": 1711375461,
-      "rank": 30,
-      "category": "美食"
     },
     {
       "raw_hot": 395397,
@@ -945,6 +953,14 @@
       "onboard_time": 1711336519,
       "rank": 35,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 383408,
+      "num": 383408,
+      "word": "杭州姐姐给了弟弟200元刮中100万",
+      "onboard_time": 1711376180,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 382987,
@@ -1004,7 +1020,7 @@
     },
     {
       "raw_hot": 361953,
-      "num": 346945,
+      "num": 357129,
       "word": "长期吃太饱身体会发生什么变化",
       "onboard_time": 1711367419,
       "rank": 21,
@@ -1403,6 +1419,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 237486,
+      "num": 237486,
+      "word": "Angelababy杨超越互夸美甲",
+      "onboard_time": 1711377201,
+      "rank": 27,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 236591,
       "num": 236591,
       "word": "当我知道朋友一个月工资5千",
@@ -1417,14 +1441,6 @@
       "onboard_time": 1711368859,
       "rank": 30,
       "category": "美食"
-    },
-    {
-      "raw_hot": 235110,
-      "num": 206423,
-      "word": "开封王婆身体不适暂别舞台",
-      "onboard_time": 1711375519,
-      "rank": 31,
-      "category": "旅游"
     },
     {
       "raw_hot": 234848,
@@ -1755,6 +1771,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 198532,
+      "num": 198532,
+      "word": "一个苹果可以虚假到什么程度",
+      "onboard_time": 1711375881,
+      "rank": 36,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 198441,
       "num": 198441,
       "word": "宋亚轩新歌简介",
@@ -1995,6 +2019,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 182718,
+      "num": 182718,
+      "word": "离职后有必要删除同事吗",
+      "onboard_time": 1711375700,
+      "rank": 39,
+      "category": "情感"
+    },
+    {
       "raw_hot": 179828,
       "num": 179828,
       "word": "陈晓 迫碎感",
@@ -2051,14 +2083,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 172994,
-      "num": 172994,
-      "word": "一个苹果可以虚假到什么程度",
-      "onboard_time": 1711375881,
-      "rank": 36,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 172779,
       "num": 172779,
       "word": "贬低式催婚",
@@ -2081,6 +2105,14 @@
       "onboard_time": 1711345339,
       "rank": 34,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 170766,
+      "num": 170766,
+      "word": "与凤行预告",
+      "onboard_time": 1711376841,
+      "rank": 37,
+      "category": "剧集"
     },
     {
       "raw_hot": 170577,
@@ -2227,14 +2259,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 155182,
-      "num": 155182,
-      "word": "离职后有必要删除同事吗",
-      "onboard_time": 1711375700,
-      "rank": 39,
-      "category": "情感"
-    },
-    {
       "raw_hot": 154973,
       "num": 154973,
       "word": "余华真的好会比喻",
@@ -2265,6 +2289,14 @@
       "onboard_time": 1711361600,
       "rank": 46,
       "category": "电影,动漫"
+    },
+    {
+      "raw_hot": 153042,
+      "num": 153042,
+      "word": "帅其实是一种感觉",
+      "onboard_time": 1711377138,
+      "rank": 42,
+      "category": "幽默"
     },
     {
       "raw_hot": 151952,
@@ -2345,6 +2377,14 @@
       "onboard_time": 1711327220,
       "rank": 46,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 147314,
+      "num": 1091642,
+      "word": "原来设计条铁路有这么多高科技",
+      "onboard_time": 1711373540,
+      "rank": 2,
+      "category": "科学科普"
     },
     {
       "raw_hot": 146975,
@@ -2523,6 +2563,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 137321,
+      "num": 137321,
+      "word": "如何看待中国大学的宿舍制度",
+      "onboard_time": 1711376841,
+      "rank": 46,
+      "category": "教育"
+    },
+    {
       "raw_hot": 136524,
       "num": 136524,
       "word": "白鹿制服拍立得",
@@ -2561,14 +2609,6 @@
       "onboard_time": 1711344498,
       "rank": 44,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 129503,
-      "num": 1091642,
-      "word": "原来设计条铁路有这么多高科技",
-      "onboard_time": 1711373540,
-      "rank": 2,
-      "category": "科学科普"
     },
     {
       "raw_hot": 127910,
@@ -2633,14 +2673,6 @@
       "onboard_time": 1711321577,
       "rank": 25,
       "category": "体育"
-    },
-    {
-      "raw_hot": 115063,
-      "num": 115063,
-      "word": "杭州姐姐给了弟弟200元刮中100万",
-      "onboard_time": 1711376180,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 112624,
