@@ -1,6 +1,6 @@
 {
   "startTime": 1711210803824,
-  "endTime": 1711344832834,
+  "endTime": 1711347828570,
   "band_list": [
     {
       "raw_hot": 3435224,
@@ -105,6 +105,14 @@
       "onboard_time": 1711324098,
       "rank": 3,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 1588412,
+      "num": 1588412,
+      "word": "警方已介入幼儿园老师打孩子头并踩脸",
+      "onboard_time": 1711344738,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1582845,
@@ -249,6 +257,14 @@
       "onboard_time": 1711259359,
       "rank": 11,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1133066,
+      "num": 1133066,
+      "word": "向佐说现在和郭碧婷恩爱到极点了",
+      "onboard_time": 1711344258,
+      "rank": 15,
+      "category": "综艺"
     },
     {
       "raw_hot": 1119669,
@@ -419,6 +435,14 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 865176,
+      "num": 865176,
+      "word": "多校呼吁毕业生不要只盯着考研考公",
+      "onboard_time": 1711344798,
+      "rank": 46,
+      "category": "教育"
+    },
+    {
       "raw_hot": 856561,
       "num": 665372,
       "word": "一阳",
@@ -539,6 +563,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 765875,
+      "num": 765875,
+      "word": "Kimi每天获客成本超20万元",
+      "onboard_time": 1711342760,
+      "rank": 14,
+      "category": "互联网,科学科普"
+    },
+    {
       "raw_hot": 758618,
       "num": 758618,
       "word": "孙俪新剧",
@@ -561,14 +593,6 @@
       "onboard_time": 1711339699,
       "rank": 32,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 744349,
-      "num": 367139,
-      "word": "Kimi每天获客成本超20万元",
-      "onboard_time": 1711342760,
-      "rank": 14,
-      "category": "互联网,科学科普"
     },
     {
       "raw_hot": 741997,
@@ -761,6 +785,14 @@
       "onboard_time": 1711227551,
       "rank": 36,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 612268,
+      "num": 612268,
+      "word": "迪丽热巴首位破3000w点赞女明星",
+      "onboard_time": 1711346478,
+      "rank": 7,
+      "category": "艺人"
     },
     {
       "raw_hot": 609738,
@@ -1283,14 +1315,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 411808,
-      "num": 343584,
-      "word": "向佐说现在和郭碧婷恩爱到极点了",
-      "onboard_time": 1711344258,
-      "rank": 15,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 411244,
       "num": 411244,
       "word": "鹿晗跳自己的歌输给陈赫",
@@ -1531,6 +1555,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 346438,
+      "num": 213566,
+      "word": "正式被确诊为功夫熊猫",
+      "onboard_time": 1711346059,
+      "rank": 21,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 344562,
       "num": 307017,
       "word": "内耗严重要经常默念这几句话",
@@ -1603,6 +1635,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 326136,
+      "num": 226647,
+      "word": "请把图书馆让一点给读书人",
+      "onboard_time": 1711344378,
+      "rank": 32,
+      "category": "情感"
+    },
+    {
       "raw_hot": 322737,
       "num": 322737,
       "word": "沈璃被扇",
@@ -1616,6 +1656,14 @@
       "word": "女子卖藕收到中国儿童银行5元钞",
       "onboard_time": 1711284141,
       "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 317807,
+      "num": 317807,
+      "word": "镇政府回应网传初中生结婚",
+      "onboard_time": 1711345578,
+      "rank": 14,
       "category": "社会新闻"
     },
     {
@@ -1657,6 +1705,14 @@
       "onboard_time": 1711190600,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 302182,
+      "num": 302182,
+      "word": "很多女生中年吃的苦年轻时就注定了",
+      "onboard_time": 1711344498,
+      "rank": 34,
+      "category": "情感"
     },
     {
       "raw_hot": 300842,
@@ -1737,6 +1793,14 @@
       "onboard_time": 1711276460,
       "rank": 22,
       "category": "数码"
+    },
+    {
+      "raw_hot": 286738,
+      "num": 190100,
+      "word": "安宰贤被工作人员cue离婚梗",
+      "onboard_time": 1711347320,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 286308,
@@ -2187,6 +2251,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 230717,
+      "num": 230717,
+      "word": "孙千陈靖可芭莎春日大片",
+      "onboard_time": 1711347619,
+      "rank": 18,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 230177,
       "num": 409246,
       "word": "霸王茶姬获首批营养分级标识",
@@ -2217,14 +2289,6 @@
       "onboard_time": 1711263619,
       "rank": 30,
       "category": "体育"
-    },
-    {
-      "raw_hot": 226647,
-      "num": 226647,
-      "word": "请把图书馆让一点给读书人",
-      "onboard_time": 1711344378,
-      "rank": 32,
-      "category": "情感"
     },
     {
       "raw_hot": 225118,
@@ -2265,14 +2329,6 @@
       "onboard_time": 1711257919,
       "rank": 32,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 220236,
-      "num": 220236,
-      "word": "很多女生中年吃的苦年轻时就注定了",
-      "onboard_time": 1711344498,
-      "rank": 34,
-      "category": "情感"
     },
     {
       "raw_hot": 219660,
@@ -2449,6 +2505,14 @@
       "onboard_time": 1711258818,
       "rank": 34,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 204533,
+      "num": 204533,
+      "word": "突然发现了infp的成功之路",
+      "onboard_time": 1711346899,
+      "rank": 24,
+      "category": "情感"
     },
     {
       "raw_hot": 203663,
@@ -2979,6 +3043,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 171091,
+      "num": 171091,
+      "word": "吴昕金色卷发",
+      "onboard_time": 1711345339,
+      "rank": 34,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 170857,
       "num": 170857,
       "word": "白鹿制服拍立得",
@@ -3057,6 +3129,14 @@
       "onboard_time": 1711277360,
       "rank": 38,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 167773,
+      "num": 167773,
+      "word": "李相烨婚礼现场",
+      "onboard_time": 1711345518,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 166647,
@@ -3459,6 +3539,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 145058,
+      "num": 145058,
+      "word": "NCT DREAM回归",
+      "onboard_time": 1711344918,
+      "rank": 40,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 144939,
       "num": 144939,
       "word": "孙铭阳3比1张本美和",
@@ -3497,14 +3585,6 @@
       "onboard_time": 1711253180,
       "rank": 39,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 143902,
-      "num": 143902,
-      "word": "多校呼吁毕业生不要只盯着考研考公",
-      "onboard_time": 1711344798,
-      "rank": 46,
-      "category": "教育"
     },
     {
       "raw_hot": 143335,
@@ -3601,6 +3681,14 @@
       "onboard_time": 1711274179,
       "rank": 39,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 139075,
+      "num": 139075,
+      "word": "浙江农村已经建成这样了",
+      "onboard_time": 1711345999,
+      "rank": 41,
+      "category": "旅游"
     },
     {
       "raw_hot": 138805,
@@ -3785,14 +3873,6 @@
       "onboard_time": 1711247479,
       "rank": 44,
       "category": "体育"
-    },
-    {
-      "raw_hot": 127482,
-      "num": 143308,
-      "word": "警方已介入幼儿园老师打孩子头并踩脸",
-      "onboard_time": 1711344738,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 127371,
@@ -3995,6 +4075,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 112624,
+      "num": 112624,
+      "word": "张艺兴女团",
+      "onboard_time": 1711345397,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 112203,
       "num": 112203,
       "word": "莫斯科恐袭悼念现场摆着许多玩偶",
@@ -4035,6 +4123,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 110677,
+      "num": 110677,
+      "word": "薛之谦记得五年前见过的粉丝",
+      "onboard_time": 1711347740,
+      "rank": 46,
+      "category": "演出"
+    },
+    {
       "raw_hot": 110531,
       "num": 110531,
       "word": "3.5分餐厅劝你别盲冲",
@@ -4065,6 +4161,14 @@
       "onboard_time": 1711297158,
       "rank": 47,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 106432,
+      "num": 106432,
+      "word": "马思纯双丸子头",
+      "onboard_time": 1711347619,
+      "rank": 49,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 105889,

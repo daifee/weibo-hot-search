@@ -1,0 +1,410 @@
+{
+  "runTime": 1711347828570,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1588412,
+        "num": 1588412,
+        "word": "警方已介入幼儿园老师打孩子头并踩脸",
+        "onboard_time": 1711344738,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1133066,
+        "num": 1133066,
+        "word": "向佐说现在和郭碧婷恩爱到极点了",
+        "onboard_time": 1711344258,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 112075,
+        "num": 944491,
+        "word": "春天的浪漫是花花给的",
+        "onboard_time": 1711338319,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 865176,
+        "num": 865176,
+        "word": "多校呼吁毕业生不要只盯着考研考公",
+        "onboard_time": 1711344798,
+        "rank": 3,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 775176,
+        "num": 775176,
+        "word": "林更新退出九亿梦影视公司",
+        "onboard_time": 1711338258,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 765875,
+        "num": 765875,
+        "word": "Kimi每天获客成本超20万元",
+        "onboard_time": 1711342760,
+        "rank": 5,
+        "category": "互联网,科学科普"
+      },
+      {
+        "raw_hot": 743046,
+        "num": 743046,
+        "word": "韩国第一夫人消失100天非常不寻常",
+        "onboard_time": 1711331659,
+        "rank": 6,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 612268,
+        "num": 612268,
+        "word": "迪丽热巴首位破3000w点赞女明星",
+        "onboard_time": 1711346478,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 482130,
+        "num": 482130,
+        "word": "霉霉85亿身家首登胡润富豪榜",
+        "onboard_time": 1711342760,
+        "rank": 8,
+        "category": "艺人,财经"
+      },
+      {
+        "raw_hot": 419889,
+        "num": 419889,
+        "word": "张艺兴女团成员正面照",
+        "onboard_time": 1711337598,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 532146,
+        "num": 418205,
+        "word": "乡村小学校长侵害5名未成年女生",
+        "onboard_time": 1711338499,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 370991,
+        "num": 370991,
+        "word": "研究发现大腿粗的人更长寿",
+        "onboard_time": 1711339699,
+        "rank": 11,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 343930,
+        "num": 343930,
+        "word": "刘学义方否认偷税漏税",
+        "onboard_time": 1711340421,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 330329,
+        "num": 330329,
+        "word": "百度将为国行iPhone16提供AI功能",
+        "onboard_time": 1711340480,
+        "rank": 13,
+        "category": "互联网,数码"
+      },
+      {
+        "raw_hot": 317807,
+        "num": 317807,
+        "word": "镇政府回应网传初中生结婚",
+        "onboard_time": 1711345578,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 302182,
+        "num": 302182,
+        "word": "很多女生中年吃的苦年轻时就注定了",
+        "onboard_time": 1711344498,
+        "rank": 15,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 274419,
+        "num": 274419,
+        "word": "俄恐袭一嫌犯年仅19岁",
+        "onboard_time": 1711338319,
+        "rank": 16,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 234064,
+        "num": 234064,
+        "word": "发现刘亦菲是表姑的侄女",
+        "onboard_time": 1711336759,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 230717,
+        "num": 230717,
+        "word": "孙千陈靖可芭莎春日大片",
+        "onboard_time": 1711347619,
+        "rank": 18,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 218386,
+        "num": 218386,
+        "word": "唐嫣官宣电视剧品质盛典",
+        "onboard_time": 1711342041,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 469705,
+        "num": 217605,
+        "word": "前同事离职时删光了所有资料",
+        "onboard_time": 1711342579,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 346438,
+        "num": 213566,
+        "word": "正式被确诊为功夫熊猫",
+        "onboard_time": 1711346059,
+        "rank": 21,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 326136,
+        "num": 211408,
+        "word": "请把图书馆让一点给读书人",
+        "onboard_time": 1711344378,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 226379,
+        "num": 207343,
+        "word": "江西农村彩礼涨到50万元",
+        "onboard_time": 1711328959,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 204533,
+        "num": 204533,
+        "word": "突然发现了infp的成功之路",
+        "onboard_time": 1711346899,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 204507,
+        "num": 204507,
+        "word": "叶蓁蓁 远离假性友谊",
+        "onboard_time": 1711338438,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 203031,
+        "num": 203031,
+        "word": "小米su7",
+        "onboard_time": 1711341381,
+        "rank": 26,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 199765,
+        "num": 199765,
+        "word": "陈铭",
+        "onboard_time": 1711293444,
+        "rank": 27,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 191245,
+        "num": 191245,
+        "word": "小米汽车上架AppStore",
+        "onboard_time": 1711344019,
+        "rank": 28,
+        "category": "汽车,互联网"
+      },
+      {
+        "raw_hot": 166263,
+        "num": 190447,
+        "word": "湖人轰下150分",
+        "onboard_time": 1711343660,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 22100,
+        "num": 190141,
+        "word": "小米SU7真车比图强",
+        "onboard_time": 1711343359,
+        "rank": 30,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 286738,
+        "num": 190100,
+        "word": "安宰贤被工作人员cue离婚梗",
+        "onboard_time": 1711347320,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 190046,
+        "num": 190046,
+        "word": "撒贝宁 追星其实是你在追自己",
+        "onboard_time": 1711341080,
+        "rank": 32,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 189873,
+        "num": 189873,
+        "word": "张杰40岁的腰",
+        "onboard_time": 1711334839,
+        "rank": 33,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 171091,
+        "num": 171091,
+        "word": "吴昕金色卷发",
+        "onboard_time": 1711345339,
+        "rank": 34,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 167773,
+        "num": 167773,
+        "word": "李相烨婚礼现场",
+        "onboard_time": 1711345518,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 159508,
+        "num": 159508,
+        "word": "大地磁暴",
+        "onboard_time": 1711323258,
+        "rank": 36,
+        "category": "自然"
+      },
+      {
+        "raw_hot": 158379,
+        "num": 158379,
+        "word": "正在伤害卵巢的6个习惯",
+        "onboard_time": 1711333878,
+        "rank": 37,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 153557,
+        "num": 153557,
+        "word": "刘维真的快碎了",
+        "onboard_time": 1711338438,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 127886,
+        "num": 146279,
+        "word": "多名男子疑当众向油罐车内注水",
+        "onboard_time": 1711344498,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 145058,
+        "num": 145058,
+        "word": "NCT DREAM回归",
+        "onboard_time": 1711344918,
+        "rank": 40,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 139075,
+        "num": 139075,
+        "word": "浙江农村已经建成这样了",
+        "onboard_time": 1711345999,
+        "rank": 41,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 136190,
+        "num": 136190,
+        "word": "减肥吃甜玉米还是糯玉米",
+        "onboard_time": 1711332139,
+        "rank": 42,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 115325,
+        "num": 115325,
+        "word": "王一博醉酒戏是即兴发挥",
+        "onboard_time": 1711339279,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 112624,
+        "num": 112624,
+        "word": "张艺兴女团",
+        "onboard_time": 1711345397,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 111718,
+        "num": 111718,
+        "word": "锦超躲李菲儿",
+        "onboard_time": 1711334540,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 110677,
+        "num": 110677,
+        "word": "薛之谦记得五年前见过的粉丝",
+        "onboard_time": 1711347740,
+        "rank": 46,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 110053,
+        "num": 110053,
+        "word": "马英九将率台湾青年来大陆交流参访",
+        "onboard_time": 1711336519,
+        "rank": 47,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 108306,
+        "num": 108306,
+        "word": "俄公布恐袭事件68位遇难者名单",
+        "onboard_time": 1711340300,
+        "rank": 48,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 106432,
+        "num": 106432,
+        "word": "马思纯双丸子头",
+        "onboard_time": 1711347619,
+        "rank": 49,
+        "category": "作品衍生"
+      }
+    ],
+    "hotgov": {
+      "word": "#推进全球发展倡议落地落实#"
+    }
+  }
+}

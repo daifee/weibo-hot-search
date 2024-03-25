@@ -1,6 +1,6 @@
 {
   "startTime": 1709223640991,
-  "endTime": 1711344832834,
+  "endTime": 1711347828570,
   "band_list": [
     {
       "raw_hot": 12728050,
@@ -2209,6 +2209,14 @@
       "onboard_time": 1711119200,
       "rank": 10,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 1588412,
+      "num": 1588412,
+      "word": "警方已介入幼儿园老师打孩子头并踩脸",
+      "onboard_time": 1711344738,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1587878,
@@ -4664,6 +4672,14 @@
       "word": "欧阳娣娣掉出出道位",
       "onboard_time": 1710645574,
       "rank": 11,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 1133066,
+      "num": 1133066,
+      "word": "向佐说现在和郭碧婷恩爱到极点了",
+      "onboard_time": 1711344258,
+      "rank": 15,
       "category": "综艺"
     },
     {
@@ -7307,6 +7323,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 865176,
+      "num": 865176,
+      "word": "多校呼吁毕业生不要只盯着考研考公",
+      "onboard_time": 1711344798,
+      "rank": 46,
+      "category": "教育"
+    },
+    {
       "raw_hot": 864539,
       "num": 346288,
       "word": "高君雨妈妈称MCN运营出现严重问题",
@@ -8771,6 +8795,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 765875,
+      "num": 765875,
+      "word": "Kimi每天获客成本超20万元",
+      "onboard_time": 1711342760,
+      "rank": 14,
+      "category": "互联网,科学科普"
+    },
+    {
       "raw_hot": 764867,
       "num": 764867,
       "word": "点读机女孩为学业放弃进娱乐圈",
@@ -9145,14 +9177,6 @@
       "onboard_time": 1709809531,
       "rank": 33,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 744349,
-      "num": 367139,
-      "word": "Kimi每天获客成本超20万元",
-      "onboard_time": 1711342760,
-      "rank": 14,
-      "category": "互联网,科学科普"
     },
     {
       "raw_hot": 743884,
@@ -12289,6 +12313,14 @@
       "onboard_time": 1711066639,
       "rank": 6,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 612268,
+      "num": 612268,
+      "word": "迪丽热巴首位破3000w点赞女明星",
+      "onboard_time": 1711346478,
+      "rank": 7,
+      "category": "艺人"
     },
     {
       "raw_hot": 612206,
@@ -20051,14 +20083,6 @@
       "category": "时尚"
     },
     {
-      "raw_hot": 411808,
-      "num": 343584,
-      "word": "向佐说现在和郭碧婷恩爱到极点了",
-      "onboard_time": 1711344258,
-      "rank": 15,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 411677,
       "num": 411677,
       "word": "泪失禁体质可能是大脑太发达",
@@ -23603,6 +23627,14 @@
       "category": "美妆,网红"
     },
     {
+      "raw_hot": 346438,
+      "num": 213566,
+      "word": "正式被确诊为功夫熊猫",
+      "onboard_time": 1711346059,
+      "rank": 21,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 346175,
       "num": 346175,
       "word": "为什么大学生不快乐",
@@ -24779,6 +24811,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 326136,
+      "num": 226647,
+      "word": "请把图书馆让一点给读书人",
+      "onboard_time": 1711344378,
+      "rank": 32,
+      "category": "情感"
+    },
+    {
       "raw_hot": 326061,
       "num": 268324,
       "word": "从脂肪肝到肝癌只有4步",
@@ -25361,6 +25401,14 @@
       "onboard_time": 1710776432,
       "rank": 24,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 317807,
+      "num": 317807,
+      "word": "镇政府回应网传初中生结婚",
+      "onboard_time": 1711345578,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 317703,
@@ -26472,6 +26520,14 @@
       "word": "小县城最好听的名字",
       "onboard_time": 1710760714,
       "rank": 20,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 302182,
+      "num": 302182,
+      "word": "很多女生中年吃的苦年轻时就注定了",
+      "onboard_time": 1711344498,
+      "rank": 34,
       "category": "情感"
     },
     {
@@ -27881,6 +27937,14 @@
       "onboard_time": 1710597637,
       "rank": 39,
       "category": "数码"
+    },
+    {
+      "raw_hot": 286738,
+      "num": 190100,
+      "word": "安宰贤被工作人员cue离婚梗",
+      "onboard_time": 1711347320,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 286737,
@@ -33859,6 +33923,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 230717,
+      "num": 230717,
+      "word": "孙千陈靖可芭莎春日大片",
+      "onboard_time": 1711347619,
+      "rank": 18,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 230669,
       "num": 230669,
       "word": "爱马仕CEO曾称中国客户迷恋爱马仕",
@@ -34513,14 +34585,6 @@
       "onboard_time": 1710753636,
       "rank": 25,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 226647,
-      "num": 226647,
-      "word": "请把图书馆让一点给读书人",
-      "onboard_time": 1711344378,
-      "rank": 32,
-      "category": "情感"
     },
     {
       "raw_hot": 226638,
@@ -35625,14 +35689,6 @@
       "onboard_time": 1709546430,
       "rank": 33,
       "category": "教育,社会新闻"
-    },
-    {
-      "raw_hot": 220236,
-      "num": 220236,
-      "word": "很多女生中年吃的苦年轻时就注定了",
-      "onboard_time": 1711344498,
-      "rank": 34,
-      "category": "情感"
     },
     {
       "raw_hot": 220191,
@@ -38809,6 +38865,14 @@
       "onboard_time": 1710726216,
       "rank": 31,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 204533,
+      "num": 204533,
+      "word": "突然发现了infp的成功之路",
+      "onboard_time": 1711346899,
+      "rank": 24,
+      "category": "情感"
     },
     {
       "raw_hot": 204523,
@@ -47459,6 +47523,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 171091,
+      "num": 171091,
+      "word": "吴昕金色卷发",
+      "onboard_time": 1711345339,
+      "rank": 34,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 171069,
       "num": 171069,
       "word": "王楚钦感谢队友和搭档",
@@ -48241,6 +48313,14 @@
       "onboard_time": 1709775211,
       "rank": 39,
       "category": "国内时政,教育"
+    },
+    {
+      "raw_hot": 167773,
+      "num": 167773,
+      "word": "李相烨婚礼现场",
+      "onboard_time": 1711345518,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 167726,
@@ -54563,6 +54643,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 145058,
+      "num": 145058,
+      "word": "NCT DREAM回归",
+      "onboard_time": 1711344918,
+      "rank": 40,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 145030,
       "num": 145030,
       "word": "LWX斯莫德",
@@ -54921,14 +55009,6 @@
       "onboard_time": 1709885550,
       "rank": 38,
       "category": "体育"
-    },
-    {
-      "raw_hot": 143902,
-      "num": 143902,
-      "word": "多校呼吁毕业生不要只盯着考研考公",
-      "onboard_time": 1711344798,
-      "rank": 46,
-      "category": "教育"
     },
     {
       "raw_hot": 143847,
@@ -56249,6 +56329,14 @@
       "onboard_time": 1711274179,
       "rank": 39,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 139075,
+      "num": 139075,
+      "word": "浙江农村已经建成这样了",
+      "onboard_time": 1711345999,
+      "rank": 41,
+      "category": "旅游"
     },
     {
       "raw_hot": 139037,
@@ -59457,14 +59545,6 @@
       "onboard_time": 1709383232,
       "rank": 46,
       "category": "电影"
-    },
-    {
-      "raw_hot": 127482,
-      "num": 143308,
-      "word": "警方已介入幼儿园老师打孩子头并踩脸",
-      "onboard_time": 1711344738,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 127472,
@@ -62707,6 +62787,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 112624,
+      "num": 112624,
+      "word": "张艺兴女团",
+      "onboard_time": 1711345397,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 112593,
       "num": 112593,
       "word": "金龟子升级做姥姥了",
@@ -63041,6 +63129,14 @@
       "onboard_time": 1709888848,
       "rank": 37,
       "category": "电影"
+    },
+    {
+      "raw_hot": 110677,
+      "num": 110677,
+      "word": "薛之谦记得五年前见过的粉丝",
+      "onboard_time": 1711347740,
+      "rank": 46,
+      "category": "演出"
     },
     {
       "raw_hot": 110676,
@@ -63713,6 +63809,14 @@
       "onboard_time": 1709731110,
       "rank": 48,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 106432,
+      "num": 106432,
+      "word": "马思纯双丸子头",
+      "onboard_time": 1711347619,
+      "rank": 49,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 106396,
