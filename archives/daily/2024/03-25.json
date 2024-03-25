@@ -1,7 +1,15 @@
 {
   "startTime": 1711297217204,
-  "endTime": 1711348597597,
+  "endTime": 1711350990306,
   "band_list": [
+    {
+      "raw_hot": 3117943,
+      "num": 500133,
+      "word": "墨香铜臭回来了",
+      "onboard_time": 1711348338,
+      "rank": 11,
+      "category": "读书作家,作品衍生"
+    },
     {
       "raw_hot": 2474722,
       "num": 2474722,
@@ -123,8 +131,8 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 1048326,
-      "num": 1048326,
+      "raw_hot": 1072025,
+      "num": 1072025,
       "word": "多校呼吁毕业生不要只盯着考研考公",
       "onboard_time": 1711344798,
       "rank": 46,
@@ -153,6 +161,14 @@
       "onboard_time": 1711334540,
       "rank": 1,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 908252,
+      "num": 908252,
+      "word": "天官赐福解锁",
+      "onboard_time": 1711348938,
+      "rank": 3,
+      "category": "读书作家,作品衍生"
     },
     {
       "raw_hot": 898142,
@@ -259,6 +275,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 656372,
+      "num": 656372,
+      "word": "郭德纲直播首秀曹云金狂刷礼物",
+      "onboard_time": 1711348518,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 631597,
+      "num": 488367,
+      "word": "安宰贤被工作人员cue离婚梗",
+      "onboard_time": 1711347320,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 621762,
       "num": 585265,
       "word": "开车为什么要伸一只手出来",
@@ -289,6 +321,14 @@
       "onboard_time": 1711342760,
       "rank": 5,
       "category": "艺人,财经"
+    },
+    {
+      "raw_hot": 607496,
+      "num": 607496,
+      "word": "雷军称小米最恨品牌溢价",
+      "onboard_time": 1711348458,
+      "rank": 44,
+      "category": "汽车"
     },
     {
       "raw_hot": 602208,
@@ -339,14 +379,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 547333,
-      "num": 370085,
-      "word": "安宰贤被工作人员cue离婚梗",
-      "onboard_time": 1711347320,
-      "rank": 31,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 544299,
       "num": 378215,
       "word": "一阳",
@@ -377,6 +409,14 @@
       "onboard_time": 1711333878,
       "rank": 30,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 520851,
+      "num": 486396,
+      "word": "墨香铜臭 没有封笔",
+      "onboard_time": 1711349538,
+      "rank": 12,
+      "category": "读书作家,作品衍生"
     },
     {
       "raw_hot": 520103,
@@ -411,12 +451,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 482371,
-      "num": 362834,
-      "word": "墨香铜臭回来了",
-      "onboard_time": 1711348338,
-      "rank": 11,
-      "category": "读书作家,作品衍生"
+      "raw_hot": 507862,
+      "num": 507862,
+      "word": "A股",
+      "onboard_time": 1711331539,
+      "rank": 30,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 475145,
+      "num": 475145,
+      "word": "英媒指控中国炒作凯特王妃消失",
+      "onboard_time": 1711349239,
+      "rank": 13,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 474764,
@@ -459,12 +507,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 448841,
+      "num": 290774,
+      "word": "考研成绩出了关怀一下前夫哥",
+      "onboard_time": 1711349659,
+      "rank": 20,
+      "category": "教育"
+    },
+    {
       "raw_hot": 446987,
       "num": 446987,
       "word": "国家医保局回应医保缴费标准调整",
       "onboard_time": 1711328899,
       "rank": 28,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 416473,
+      "num": 416473,
+      "word": "俄恐袭嫌犯如罪名成立将面临终身监禁",
+      "onboard_time": 1711347978,
+      "rank": 25,
+      "category": "国外时政"
     },
     {
       "raw_hot": 410424,
@@ -595,6 +659,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 336928,
+      "num": 336928,
+      "word": "河南商丘打孩子的幼师被开除",
+      "onboard_time": 1711348158,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 331727,
       "num": 331727,
       "word": "宋亚轩新歌词曲邹沛沛",
@@ -609,6 +681,14 @@
       "onboard_time": 1711344378,
       "rank": 32,
       "category": "情感"
+    },
+    {
+      "raw_hot": 324110,
+      "num": 324110,
+      "word": "奔跑吧12要官宣了",
+      "onboard_time": 1711350259,
+      "rank": 18,
+      "category": "综艺"
     },
     {
       "raw_hot": 322737,
@@ -667,6 +747,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 290786,
+      "num": 290786,
+      "word": "90后有高马尾10后有鲶鱼须",
+      "onboard_time": 1711348818,
+      "rank": 19,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 289614,
       "num": 289614,
       "word": "每杯188元的奶茶到底香不香",
@@ -689,6 +777,14 @@
       "onboard_time": 1711344498,
       "rank": 24,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 260087,
+      "num": 260087,
+      "word": "异地恋分手高峰期",
+      "onboard_time": 1711349298,
+      "rank": 24,
+      "category": "情感"
     },
     {
       "raw_hot": 259954,
@@ -779,6 +875,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 235618,
+      "num": 235618,
+      "word": "王鸥复工身材状态",
+      "onboard_time": 1711350978,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 233830,
       "num": 233830,
       "word": "张艺兴张PD回归",
@@ -827,20 +931,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 225003,
+      "num": 225003,
+      "word": "商丘一幼儿园老师坐男童身上玩手机",
+      "onboard_time": 1711348639,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 224563,
       "num": 224563,
       "word": "9.9元咖啡要消失了吗",
       "onboard_time": 1711288340,
       "rank": 25,
       "category": "美食"
-    },
-    {
-      "raw_hot": 224099,
-      "num": 224099,
-      "word": "俄恐袭嫌犯如罪名成立将面临终身监禁",
-      "onboard_time": 1711347978,
-      "rank": 25,
-      "category": "国外时政"
     },
     {
       "raw_hot": 223617,
@@ -851,28 +955,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 221910,
-      "num": 221910,
-      "word": "郭德纲直播首秀曹云金狂刷礼物",
-      "onboard_time": 1711348518,
-      "rank": 26,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 221832,
       "num": 221832,
       "word": "王诗龄砂锅铺满了黑松露",
       "onboard_time": 1711267638,
       "rank": 26,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 219660,
-      "num": 219660,
-      "word": "A股",
-      "onboard_time": 1711331539,
-      "rank": 30,
-      "category": "财经"
     },
     {
       "raw_hot": 219402,
@@ -923,14 +1011,6 @@
       "category": "自然"
     },
     {
-      "raw_hot": 211214,
-      "num": 211214,
-      "word": "河南商丘打孩子的幼师被开除",
-      "onboard_time": 1711348158,
-      "rank": 28,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 210152,
       "num": 210152,
       "word": "丁程鑫两天后来对比肤色",
@@ -961,6 +1041,14 @@
       "onboard_time": 1711346899,
       "rank": 24,
       "category": "情感"
+    },
+    {
+      "raw_hot": 203276,
+      "num": 203276,
+      "word": "赵露思生活plog",
+      "onboard_time": 1711350138,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 202522,
@@ -1083,6 +1171,14 @@
       "category": "动漫,艺人"
     },
     {
+      "raw_hot": 190466,
+      "num": 190466,
+      "word": "当房东来查房说不让养猫",
+      "onboard_time": 1711350620,
+      "rank": 34,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 190148,
       "num": 190148,
       "word": "花间令 为弱者发声",
@@ -1107,6 +1203,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 188689,
+      "num": 188689,
+      "word": "NCTDREAM新MV",
+      "onboard_time": 1711350499,
+      "rank": 35,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 188432,
       "num": 188432,
       "word": "170元5串的烧烤值不值",
@@ -1129,6 +1233,14 @@
       "onboard_time": 1711322536,
       "rank": 19,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 183673,
+      "num": 183673,
+      "word": "关晓彤录制这是我的岛",
+      "onboard_time": 1711349417,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 183406,
@@ -1171,6 +1283,30 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 175946,
+      "num": 175946,
+      "word": "男朋友开公司法人是我",
+      "onboard_time": 1711349358,
+      "rank": 38,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 175720,
+      "num": 175720,
+      "word": "遭幼师殴打男童父母在外打工",
+      "onboard_time": 1711350077,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 172779,
+      "num": 172779,
+      "word": "贬低式催婚",
+      "onboard_time": 1711348458,
+      "rank": 47,
+      "category": "情感"
+    },
+    {
       "raw_hot": 171131,
       "num": 171131,
       "word": "舞剧红楼梦抢票",
@@ -1195,6 +1331,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 168217,
+      "num": 168217,
+      "word": "1688启动全面入淘",
+      "onboard_time": 1711349839,
+      "rank": 43,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 167773,
       "num": 167773,
       "word": "李相烨婚礼现场",
@@ -1209,6 +1353,14 @@
       "onboard_time": 1711339759,
       "rank": 42,
       "category": "演出"
+    },
+    {
+      "raw_hot": 164546,
+      "num": 164546,
+      "word": "射雕公测时间",
+      "onboard_time": 1711348759,
+      "rank": 44,
+      "category": "游戏"
     },
     {
       "raw_hot": 164474,
@@ -1323,6 +1475,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 146691,
+      "num": 146691,
+      "word": "魏若来 穷小子爆改沪上精英",
+      "onboard_time": 1711350558,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 145124,
       "num": 145124,
       "word": "行止掉马甲了",
@@ -1419,6 +1579,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 139049,
+      "num": 139049,
+      "word": "原来水果也分公母的",
+      "onboard_time": 1711350858,
+      "rank": 47,
+      "category": "美食"
+    },
+    {
       "raw_hot": 136524,
       "num": 136524,
       "word": "白鹿制服拍立得",
@@ -1433,22 +1601,6 @@
       "onboard_time": 1711292599,
       "rank": 38,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 135773,
-      "num": 135773,
-      "word": "雷军称小米最恨品牌溢价",
-      "onboard_time": 1711348458,
-      "rank": 44,
-      "category": "汽车"
-    },
-    {
-      "raw_hot": 135198,
-      "num": 135198,
-      "word": "贬低式催婚",
-      "onboard_time": 1711348458,
-      "rank": 47,
-      "category": "情感"
     },
     {
       "raw_hot": 131767,

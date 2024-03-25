@@ -1,0 +1,410 @@
+{
+  "runTime": 1711350990306,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1838133,
+        "num": 1838133,
+        "word": "警方已介入幼儿园老师打孩子头并踩脸",
+        "onboard_time": 1711344738,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1072025,
+        "num": 1072025,
+        "word": "多校呼吁毕业生不要只盯着考研考公",
+        "onboard_time": 1711344798,
+        "rank": 1,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 94341,
+        "num": 929652,
+        "word": "春天的浪漫是花花给的",
+        "onboard_time": 1711338319,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 908252,
+        "num": 908252,
+        "word": "天官赐福解锁",
+        "onboard_time": 1711348938,
+        "rank": 3,
+        "category": "读书作家,作品衍生"
+      },
+      {
+        "raw_hot": 704009,
+        "num": 704009,
+        "word": "向佐说现在和郭碧婷恩爱到极点了",
+        "onboard_time": 1711344258,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 656372,
+        "num": 656372,
+        "word": "郭德纲直播首秀曹云金狂刷礼物",
+        "onboard_time": 1711348518,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 607496,
+        "num": 607496,
+        "word": "雷军称小米最恨品牌溢价",
+        "onboard_time": 1711348458,
+        "rank": 6,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 602518,
+        "num": 602518,
+        "word": "迪丽热巴首位破3000w点赞女明星",
+        "onboard_time": 1711346478,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 509631,
+        "num": 509631,
+        "word": "林更新退出九亿梦影视公司",
+        "onboard_time": 1711338258,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 507862,
+        "num": 507862,
+        "word": "A股",
+        "onboard_time": 1711349839,
+        "rank": 9,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 3117943,
+        "num": 500133,
+        "word": "墨香铜臭回来了",
+        "onboard_time": 1711348338,
+        "rank": 10,
+        "category": "读书作家,作品衍生"
+      },
+      {
+        "raw_hot": 631597,
+        "num": 488367,
+        "word": "安宰贤被工作人员cue离婚梗",
+        "onboard_time": 1711347320,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 520851,
+        "num": 486396,
+        "word": "墨香铜臭 没有封笔",
+        "onboard_time": 1711349538,
+        "rank": 12,
+        "category": "读书作家,作品衍生"
+      },
+      {
+        "raw_hot": 475145,
+        "num": 475145,
+        "word": "英媒指控中国炒作凯特王妃消失",
+        "onboard_time": 1711349239,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 465584,
+        "num": 465584,
+        "word": "韩国第一夫人消失100天非常不寻常",
+        "onboard_time": 1711331659,
+        "rank": 14,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 416473,
+        "num": 416473,
+        "word": "俄恐袭嫌犯如罪名成立将面临终身监禁",
+        "onboard_time": 1711347978,
+        "rank": 15,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 339927,
+        "num": 339927,
+        "word": "Kimi每天获客成本超20万元",
+        "onboard_time": 1711342760,
+        "rank": 16,
+        "category": "互联网,科学科普"
+      },
+      {
+        "raw_hot": 336928,
+        "num": 336928,
+        "word": "河南商丘打孩子的幼师被开除",
+        "onboard_time": 1711348158,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 324110,
+        "num": 324110,
+        "word": "奔跑吧12要官宣了",
+        "onboard_time": 1711350259,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 290786,
+        "num": 290786,
+        "word": "90后有高马尾10后有鲶鱼须",
+        "onboard_time": 1711348818,
+        "rank": 19,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 448841,
+        "num": 290774,
+        "word": "考研成绩出了关怀一下前夫哥",
+        "onboard_time": 1711349659,
+        "rank": 20,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 290538,
+        "num": 290538,
+        "word": "发现刘亦菲是表姑的侄女",
+        "onboard_time": 1711336759,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 276584,
+        "num": 276584,
+        "word": "前同事离职时删光了所有资料",
+        "onboard_time": 1711342579,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 260153,
+        "num": 260153,
+        "word": "研究发现大腿粗的人更长寿",
+        "onboard_time": 1711339699,
+        "rank": 23,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 260087,
+        "num": 260087,
+        "word": "异地恋分手高峰期",
+        "onboard_time": 1711349298,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 235618,
+        "num": 235618,
+        "word": "王鸥复工身材状态",
+        "onboard_time": 1711350978,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 235147,
+        "num": 235147,
+        "word": "张艺兴女团成员正面照",
+        "onboard_time": 1711337598,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 225453,
+        "num": 225453,
+        "word": "乡村小学校长侵害5名未成年女生",
+        "onboard_time": 1711338499,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 225003,
+        "num": 225003,
+        "word": "商丘一幼儿园老师坐男童身上玩手机",
+        "onboard_time": 1711348639,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 213052,
+        "num": 213052,
+        "word": "请把图书馆让一点给读书人",
+        "onboard_time": 1711344378,
+        "rank": 29,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 203276,
+        "num": 203276,
+        "word": "赵露思生活plog",
+        "onboard_time": 1711350138,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 200781,
+        "num": 200781,
+        "word": "黄仁俊状态",
+        "onboard_time": 1711348040,
+        "rank": 31,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 198222,
+        "num": 198222,
+        "word": "镇政府回应网传初中生结婚",
+        "onboard_time": 1711345578,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 195087,
+        "num": 195087,
+        "word": "刘学义方否认偷税漏税",
+        "onboard_time": 1711340421,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 190466,
+        "num": 190466,
+        "word": "当房东来查房说不让养猫",
+        "onboard_time": 1711350620,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 188689,
+        "num": 188689,
+        "word": "NCTDREAM新MV",
+        "onboard_time": 1711350499,
+        "rank": 35,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 183673,
+        "num": 183673,
+        "word": "关晓彤录制这是我的岛",
+        "onboard_time": 1711349417,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 180822,
+        "num": 180822,
+        "word": "霉霉85亿身家首登胡润富豪榜",
+        "onboard_time": 1711342760,
+        "rank": 37,
+        "category": "艺人,财经"
+      },
+      {
+        "raw_hot": 175946,
+        "num": 175946,
+        "word": "男朋友开公司法人是我",
+        "onboard_time": 1711349358,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 175720,
+        "num": 175720,
+        "word": "遭幼师殴打男童父母在外打工",
+        "onboard_time": 1711350077,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 174534,
+        "num": 174534,
+        "word": "江西农村彩礼涨到50万元",
+        "onboard_time": 1711328959,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 172779,
+        "num": 172779,
+        "word": "贬低式催婚",
+        "onboard_time": 1711348458,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 171559,
+        "num": 171559,
+        "word": "俄恐袭一嫌犯年仅19岁",
+        "onboard_time": 1711338319,
+        "rank": 42,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 168217,
+        "num": 168217,
+        "word": "1688启动全面入淘",
+        "onboard_time": 1711349839,
+        "rank": 43,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 164546,
+        "num": 164546,
+        "word": "射雕公测时间",
+        "onboard_time": 1711348759,
+        "rank": 44,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 161793,
+        "num": 161793,
+        "word": "很多女生中年吃的苦年轻时就注定了",
+        "onboard_time": 1711344498,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 146691,
+        "num": 146691,
+        "word": "魏若来 穷小子爆改沪上精英",
+        "onboard_time": 1711350558,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 139049,
+        "num": 139049,
+        "word": "原来水果也分公母的",
+        "onboard_time": 1711350858,
+        "rank": 47,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 135911,
+        "num": 135911,
+        "word": "丁程鑫两天后来对比肤色",
+        "onboard_time": 1711348219,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 133099,
+        "num": 133099,
+        "word": "正式被确诊为功夫熊猫",
+        "onboard_time": 1711346059,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#循着总书记关切看京津冀交通陆海空之变#"
+    }
+  }
+}

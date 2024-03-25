@@ -1,6 +1,6 @@
 {
   "startTime": 1709223640991,
-  "endTime": 1711348597597,
+  "endTime": 1711350990306,
   "band_list": [
     {
       "raw_hot": 12728050,
@@ -281,6 +281,14 @@
       "onboard_time": 1710308552,
       "rank": 0,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 3117943,
+      "num": 500133,
+      "word": "墨香铜臭回来了",
+      "onboard_time": 1711348338,
+      "rank": 11,
+      "category": "读书作家,作品衍生"
     },
     {
       "raw_hot": 3103314,
@@ -5227,6 +5235,14 @@
       "category": "社会新闻,美食"
     },
     {
+      "raw_hot": 1072025,
+      "num": 1072025,
+      "word": "多校呼吁毕业生不要只盯着考研考公",
+      "onboard_time": 1711344798,
+      "rank": 46,
+      "category": "教育"
+    },
+    {
       "raw_hot": 1071912,
       "num": 1071912,
       "word": "建议整治校园形式主义",
@@ -5401,14 +5417,6 @@
       "onboard_time": 1710115770,
       "rank": 10,
       "category": "数码"
-    },
-    {
-      "raw_hot": 1048326,
-      "num": 1048326,
-      "word": "多校呼吁毕业生不要只盯着考研考公",
-      "onboard_time": 1711344798,
-      "rank": 46,
-      "category": "教育"
     },
     {
       "raw_hot": 1047464,
@@ -6849,6 +6857,14 @@
       "onboard_time": 1710503619,
       "rank": 7,
       "category": "体育"
+    },
+    {
+      "raw_hot": 908252,
+      "num": 908252,
+      "word": "天官赐福解锁",
+      "onboard_time": 1711348938,
+      "rank": 3,
+      "category": "读书作家,作品衍生"
     },
     {
       "raw_hot": 908235,
@@ -11203,6 +11219,14 @@
       "category": "演出,艺人"
     },
     {
+      "raw_hot": 656372,
+      "num": 656372,
+      "word": "郭德纲直播首秀曹云金狂刷礼物",
+      "onboard_time": 1711348518,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 656066,
       "num": 656066,
       "word": "韩国仍有超1.1万名医生未返岗",
@@ -11875,6 +11899,14 @@
       "category": "国外时政,科学科普"
     },
     {
+      "raw_hot": 631597,
+      "num": 488367,
+      "word": "安宰贤被工作人员cue离婚梗",
+      "onboard_time": 1711347320,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 631463,
       "num": 631463,
       "word": "房东的猫刘恋第三次合作",
@@ -12465,6 +12497,14 @@
       "onboard_time": 1710372683,
       "rank": 20,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 607496,
+      "num": 607496,
+      "word": "雷军称小米最恨品牌溢价",
+      "onboard_time": 1711348458,
+      "rank": 44,
+      "category": "汽车"
     },
     {
       "raw_hot": 606895,
@@ -14427,14 +14467,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 547333,
-      "num": 370085,
-      "word": "安宰贤被工作人员cue离婚梗",
-      "onboard_time": 1711347320,
-      "rank": 31,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 546968,
       "num": 317594,
       "word": "窦骁何超莲又发糖了",
@@ -15395,6 +15427,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 520851,
+      "num": 486396,
+      "word": "墨香铜臭 没有封笔",
+      "onboard_time": 1711349538,
+      "rank": 12,
+      "category": "读书作家,作品衍生"
+    },
+    {
       "raw_hot": 520103,
       "num": 520103,
       "word": "叶蓁蓁 远离假性友谊",
@@ -15825,6 +15865,14 @@
       "onboard_time": 1710907116,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 507862,
+      "num": 507862,
+      "word": "A股",
+      "onboard_time": 1709519249,
+      "rank": 36,
+      "category": "财经"
     },
     {
       "raw_hot": 507826,
@@ -16947,14 +16995,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 482371,
-      "num": 362834,
-      "word": "墨香铜臭回来了",
-      "onboard_time": 1711348338,
-      "rank": 11,
-      "category": "读书作家,作品衍生"
-    },
-    {
       "raw_hot": 482319,
       "num": 482319,
       "word": "巴黎世家大秀",
@@ -17249,6 +17289,14 @@
       "onboard_time": 1709899766,
       "rank": 6,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 475145,
+      "num": 475145,
+      "word": "英媒指控中国炒作凯特王妃消失",
+      "onboard_time": 1711349239,
+      "rank": 13,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 474494,
@@ -18411,6 +18459,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 448841,
+      "num": 290774,
+      "word": "考研成绩出了关怀一下前夫哥",
+      "onboard_time": 1711349659,
+      "rank": 20,
+      "category": "教育"
+    },
+    {
       "raw_hot": 448838,
       "num": 306677,
       "word": "我爸退出了家族群",
@@ -19547,14 +19603,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 424678,
-      "num": 424678,
-      "word": "A股",
-      "onboard_time": 1709519249,
-      "rank": 36,
-      "category": "财经"
-    },
-    {
       "raw_hot": 424619,
       "num": 424619,
       "word": "杭州兵马俑被游客吐槽不值票价",
@@ -19913,6 +19961,14 @@
       "onboard_time": 1710243152,
       "rank": 45,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 416473,
+      "num": 416473,
+      "word": "俄恐袭嫌犯如罪名成立将面临终身监禁",
+      "onboard_time": 1711347978,
+      "rank": 25,
+      "category": "国外时政"
     },
     {
       "raw_hot": 416262,
@@ -24203,6 +24259,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 336928,
+      "num": 336928,
+      "word": "河南商丘打孩子的幼师被开除",
+      "onboard_time": 1711348158,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 336783,
       "num": 322483,
       "word": "文韬不想泼水给蒲熠星",
@@ -24945,6 +25009,14 @@
       "onboard_time": 1710159331,
       "rank": 32,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 324110,
+      "num": 324110,
+      "word": "奔跑吧12要官宣了",
+      "onboard_time": 1711350259,
+      "rank": 18,
+      "category": "综艺"
     },
     {
       "raw_hot": 323954,
@@ -27691,6 +27763,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 290786,
+      "num": 290786,
+      "word": "90后有高马尾10后有鲶鱼须",
+      "onboard_time": 1711348818,
+      "rank": 19,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 290639,
       "num": 290639,
       "word": "孙俪胡杏儿二搭",
@@ -30433,6 +30513,14 @@
       "onboard_time": 1709321537,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 260087,
+      "num": 260087,
+      "word": "异地恋分手高峰期",
+      "onboard_time": 1711349298,
+      "rank": 24,
+      "category": "情感"
     },
     {
       "raw_hot": 260065,
@@ -33355,6 +33443,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 235618,
+      "num": 235618,
+      "word": "王鸥复工身材状态",
+      "onboard_time": 1711350978,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 235489,
       "num": 235489,
       "word": "将太郎道歉",
@@ -34851,6 +34947,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 225003,
+      "num": 225003,
+      "word": "商丘一幼儿园老师坐男童身上玩手机",
+      "onboard_time": 1711348639,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 224941,
       "num": 224941,
       "word": "LNG战胜EDG",
@@ -34993,14 +35097,6 @@
       "onboard_time": 1710210329,
       "rank": 30,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 224099,
-      "num": 224099,
-      "word": "俄恐袭嫌犯如罪名成立将面临终身监禁",
-      "onboard_time": 1711347978,
-      "rank": 25,
-      "category": "国外时政"
     },
     {
       "raw_hot": 224079,
@@ -35457,14 +35553,6 @@
       "onboard_time": 1710576213,
       "rank": 28,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 221910,
-      "num": 221910,
-      "word": "郭德纲直播首秀曹云金狂刷礼物",
-      "onboard_time": 1711348518,
-      "rank": 26,
-      "category": "艺人"
     },
     {
       "raw_hot": 221764,
@@ -37483,14 +37571,6 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 211214,
-      "num": 211214,
-      "word": "河南商丘打孩子的幼师被开除",
-      "onboard_time": 1711348158,
-      "rank": 28,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 211194,
       "num": 211194,
       "word": "浓眉眼角膜擦伤",
@@ -39225,6 +39305,14 @@
       "onboard_time": 1709285911,
       "rank": 46,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 203276,
+      "num": 203276,
+      "word": "赵露思生活plog",
+      "onboard_time": 1711350138,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 203274,
@@ -42899,6 +42987,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 190466,
+      "num": 190466,
+      "word": "当房东来查房说不让养猫",
+      "onboard_time": 1711350620,
+      "rank": 34,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 190445,
       "num": 190445,
       "word": "热卖多年的尿素手霜为何不敌小众品牌",
@@ -43465,6 +43561,14 @@
       "onboard_time": 1709963790,
       "rank": 32,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 188689,
+      "num": 188689,
+      "word": "NCTDREAM新MV",
+      "onboard_time": 1711350499,
+      "rank": 35,
+      "category": "音乐"
     },
     {
       "raw_hot": 188669,
@@ -44545,6 +44649,14 @@
       "onboard_time": 1709447910,
       "rank": 27,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 183673,
+      "num": 183673,
+      "word": "关晓彤录制这是我的岛",
+      "onboard_time": 1711349417,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 183599,
@@ -46347,6 +46459,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 175946,
+      "num": 175946,
+      "word": "男朋友开公司法人是我",
+      "onboard_time": 1711349358,
+      "rank": 38,
+      "category": "情感"
+    },
+    {
       "raw_hot": 175942,
       "num": 175942,
       "word": "娃哈哈建议理性消费",
@@ -46393,6 +46513,14 @@
       "onboard_time": 1710382289,
       "rank": 35,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 175720,
+      "num": 175720,
+      "word": "遭幼师殴打男童父母在外打工",
+      "onboard_time": 1711350077,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 175719,
@@ -47217,6 +47345,14 @@
       "onboard_time": 1710581794,
       "rank": 34,
       "category": "演出"
+    },
+    {
+      "raw_hot": 172779,
+      "num": 172779,
+      "word": "贬低式催婚",
+      "onboard_time": 1711348458,
+      "rank": 47,
+      "category": "情感"
     },
     {
       "raw_hot": 172775,
@@ -48267,6 +48403,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 168217,
+      "num": 168217,
+      "word": "1688启动全面入淘",
+      "onboard_time": 1711349839,
+      "rank": 43,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 168176,
       "num": 162541,
       "word": "一碗水真的在不经意间就端不平",
@@ -49201,6 +49345,14 @@
       "onboard_time": 1710681397,
       "rank": 47,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 164546,
+      "num": 164546,
+      "word": "射雕公测时间",
+      "onboard_time": 1711348759,
+      "rank": 44,
+      "category": "游戏"
     },
     {
       "raw_hot": 164496,
@@ -54307,6 +54459,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 146691,
+      "num": 146691,
+      "word": "魏若来 穷小子爆改沪上精英",
+      "onboard_time": 1711350558,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 146688,
       "num": 146688,
       "word": "一看就是00后当上了老板",
@@ -56411,6 +56571,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 139049,
+      "num": 139049,
+      "word": "原来水果也分公母的",
+      "onboard_time": 1711350858,
+      "rank": 47,
+      "category": "美食"
+    },
+    {
       "raw_hot": 139037,
       "num": 139037,
       "word": "詹姆斯距离4万分还差9分",
@@ -57363,14 +57531,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 135773,
-      "num": 135773,
-      "word": "雷军称小米最恨品牌溢价",
-      "onboard_time": 1711348458,
-      "rank": 44,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 135742,
       "num": 135742,
       "word": "这是二十岁的通病吗",
@@ -57529,14 +57689,6 @@
       "onboard_time": 1709557834,
       "rank": 47,
       "category": "旅游,社会新闻"
-    },
-    {
-      "raw_hot": 135198,
-      "num": 135198,
-      "word": "贬低式催婚",
-      "onboard_time": 1711348458,
-      "rank": 47,
-      "category": "情感"
     },
     {
       "raw_hot": 135151,
