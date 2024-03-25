@@ -1,6 +1,6 @@
 {
   "startTime": 1711383717224,
-  "endTime": 1711405059426,
+  "endTime": 1711406056959,
   "band_list": [
     {
       "raw_hot": 881618,
@@ -155,15 +155,15 @@
       "category": "美食"
     },
     {
-      "raw_hot": 239212,
-      "num": 239212,
+      "raw_hot": 269033,
+      "num": 269033,
       "word": "大姐自制清明果一年只卖20天赚十万",
       "onboard_time": 1711383376,
       "rank": 47,
       "category": "社会新闻"
     },
     {
-      "raw_hot": 215508,
+      "raw_hot": 230862,
       "num": 201323,
       "word": "7年前考上央美的保安现在怎么样了",
       "onboard_time": 1711378400,
@@ -185,6 +185,14 @@
       "onboard_time": 1711373180,
       "rank": 21,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 189363,
+      "num": 189363,
+      "word": "闺蜜合伙盗窃靠反复怀孕育11子躲刑罚",
+      "onboard_time": 1711394531,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 172523,
@@ -267,14 +275,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 132963,
-      "num": 132963,
-      "word": "闺蜜合伙盗窃靠反复怀孕育11子躲刑罚",
-      "onboard_time": 1711394531,
-      "rank": 35,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 127578,
       "num": 127578,
       "word": "如何看待中国大学的宿舍制度",
@@ -313,6 +313,14 @@
       "onboard_time": 1711366577,
       "rank": 35,
       "category": "情感"
+    },
+    {
+      "raw_hot": 103454,
+      "num": 103454,
+      "word": "周扬青浪姐一公上班路透",
+      "onboard_time": 1711397292,
+      "rank": 13,
+      "category": "综艺"
     },
     {
       "raw_hot": 102734,
@@ -419,20 +427,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 63982,
-      "num": 63982,
-      "word": "周扬青浪姐一公上班路透",
-      "onboard_time": 1711397292,
-      "rank": 13,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 60389,
       "num": 545823,
       "word": "原来设计条铁路有这么多高科技",
       "onboard_time": 1711373540,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 52921,
+      "num": 44256,
+      "word": "终于有剧吐槽嘴对嘴喂药了",
+      "onboard_time": 1711372339,
+      "rank": 25,
+      "category": "剧集"
     },
     {
       "raw_hot": 50835,
@@ -451,20 +459,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 44255,
+      "num": 44255,
+      "word": "琅琊榜剧组当年的精神状态",
+      "onboard_time": 1711400890,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 41987,
       "num": 41987,
       "word": "墨香铜臭已被注册为商标",
       "onboard_time": 1711364298,
       "rank": 49,
       "category": "读书作家,作品衍生"
-    },
-    {
-      "raw_hot": 37493,
-      "num": 35041,
-      "word": "终于有剧吐槽嘴对嘴喂药了",
-      "onboard_time": 1711372339,
-      "rank": 25,
-      "category": "剧集"
     },
     {
       "raw_hot": 33865,
@@ -475,11 +483,11 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 32567,
-      "num": 32567,
-      "word": "琅琊榜剧组当年的精神状态",
-      "onboard_time": 1711400890,
-      "rank": 39,
+      "raw_hot": 33576,
+      "num": 33576,
+      "word": "泰国人真的好爱看国产偶像剧",
+      "onboard_time": 1711402331,
+      "rank": 33,
       "category": "剧集"
     },
     {
@@ -500,7 +508,7 @@
     },
     {
       "raw_hot": 29935,
-      "num": 27932,
+      "num": 28950,
       "word": "穿开衫好看的方法",
       "onboard_time": 1711389793,
       "rank": 38,
@@ -508,19 +516,11 @@
     },
     {
       "raw_hot": 29592,
-      "num": 27822,
+      "num": 27915,
       "word": "我的国家队生涯最后只画了个点",
       "onboard_time": 1711399270,
       "rank": 30,
       "category": "体育"
-    },
-    {
-      "raw_hot": 29069,
-      "num": 27791,
-      "word": "泰国人真的好爱看国产偶像剧",
-      "onboard_time": 1711402331,
-      "rank": 33,
-      "category": "剧集"
     },
     {
       "raw_hot": 26529,
@@ -539,32 +539,32 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 20193,
-      "num": 20193,
-      "word": "韩女的头包脸发型教程",
-      "onboard_time": 1711391710,
-      "rank": 35,
-      "category": "美妆"
-    },
-    {
-      "raw_hot": 18556,
-      "num": 18556,
-      "word": "大地磁暴碰上满月",
-      "onboard_time": 1711394351,
-      "rank": 41,
-      "category": "自然,科学科普"
-    },
-    {
-      "raw_hot": 18029,
-      "num": 18029,
+      "raw_hot": 22089,
+      "num": 22089,
       "word": "猫 会不会说点吉利话",
       "onboard_time": 1711400650,
       "rank": 44,
       "category": "幽默"
     },
     {
-      "raw_hot": 14733,
-      "num": 15974,
+      "raw_hot": 21576,
+      "num": 21576,
+      "word": "大地磁暴碰上满月",
+      "onboard_time": 1711394351,
+      "rank": 41,
+      "category": "自然,科学科普"
+    },
+    {
+      "raw_hot": 20297,
+      "num": 20810,
+      "word": "韩女的头包脸发型教程",
+      "onboard_time": 1711391710,
+      "rank": 35,
+      "category": "美妆"
+    },
+    {
+      "raw_hot": 17770,
+      "num": 20791,
       "word": "马思纯化的口红耳妆",
       "onboard_time": 1711396630,
       "rank": 45,
