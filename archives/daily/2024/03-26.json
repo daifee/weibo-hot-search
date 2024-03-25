@@ -1,6 +1,6 @@
 {
   "startTime": 1711383717224,
-  "endTime": 1711387022820,
+  "endTime": 1711388053180,
   "band_list": [
     {
       "raw_hot": 881618,
@@ -220,7 +220,7 @@
     },
     {
       "raw_hot": 160893,
-      "num": 134774,
+      "num": 150316,
       "word": "杨超越捧花头像",
       "onboard_time": 1711383257,
       "rank": 36,
@@ -411,6 +411,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 54620,
+      "num": 54620,
+      "word": "地磁暴 极光",
+      "onboard_time": 1711387512,
+      "rank": 31,
+      "category": "自然,科学科普"
+    },
+    {
       "raw_hot": 50835,
       "num": 50835,
       "word": "坠落的审判导演接受女性主义者标签",
@@ -433,6 +441,14 @@
       "onboard_time": 1711364298,
       "rank": 49,
       "category": "读书作家,作品衍生"
+    },
+    {
+      "raw_hot": 33865,
+      "num": 33865,
+      "word": "WE对战UP",
+      "onboard_time": 1711387992,
+      "rank": 49,
+      "category": "电竞"
     }
   ],
   "hotgov_list": [

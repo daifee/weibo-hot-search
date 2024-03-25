@@ -1,6 +1,6 @@
 {
   "startTime": 1711210803824,
-  "endTime": 1711387022820,
+  "endTime": 1711388053180,
   "band_list": [
     {
       "raw_hot": 3435224,
@@ -4404,7 +4404,7 @@
     },
     {
       "raw_hot": 160893,
-      "num": 134774,
+      "num": 150316,
       "word": "杨超越捧花头像",
       "onboard_time": 1711383257,
       "rank": 36,
@@ -5739,6 +5739,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 54620,
+      "num": 54620,
+      "word": "地磁暴 极光",
+      "onboard_time": 1711387512,
+      "rank": 31,
+      "category": "自然,科学科普"
+    },
+    {
       "raw_hot": 52437,
       "num": 1328640,
       "word": "春日花海列车美到了心尖上",
@@ -5825,6 +5833,14 @@
       "onboard_time": 1711198400,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 33865,
+      "num": 33865,
+      "word": "WE对战UP",
+      "onboard_time": 1711387992,
+      "rank": 49,
+      "category": "电竞"
     },
     {
       "raw_hot": 30449,
