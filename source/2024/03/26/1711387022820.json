@@ -1,0 +1,410 @@
+{
+  "runTime": 1711387022820,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 338767,
+        "num": 338767,
+        "word": "杭州姐姐给了弟弟200元刮中100万",
+        "onboard_time": 1711376180,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 255548,
+        "num": 255548,
+        "word": "长期吃太饱身体会发生什么变化",
+        "onboard_time": 1711367419,
+        "rank": 1,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 25600,
+        "num": 253740,
+        "word": "原来设计条铁路有这么多高科技",
+        "onboard_time": 1711373540,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 253522,
+        "num": 253522,
+        "word": "墨香铜臭回来了",
+        "onboard_time": 1711348338,
+        "rank": 3,
+        "category": "读书作家,作品衍生"
+      },
+      {
+        "raw_hot": 239212,
+        "num": 239212,
+        "word": "大姐自制清明果一年只卖20天赚十万",
+        "onboard_time": 1711383376,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 216530,
+        "num": 216530,
+        "word": "郭敬明 纪凌尘最好的医美",
+        "onboard_time": 1711368738,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 203921,
+        "num": 203921,
+        "word": "IU自曝吃东西每口咬150下",
+        "onboard_time": 1711366819,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 180824,
+        "num": 180824,
+        "word": "爱情公寓特效",
+        "onboard_time": 1711381279,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 180075,
+        "num": 180075,
+        "word": "孙俪背沟好深",
+        "onboard_time": 1711378880,
+        "rank": 8,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 176555,
+        "num": 176555,
+        "word": "墨香铜臭称将全额退还新书霸王票",
+        "onboard_time": 1711362258,
+        "rank": 9,
+        "category": "读书作家,作品衍生"
+      },
+      {
+        "raw_hot": 393315,
+        "num": 173001,
+        "word": "家属回应爷孙被渣土车碾压致死",
+        "onboard_time": 1711381698,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 258142,
+        "num": 171554,
+        "word": "Angelababy杨超越互夸美甲",
+        "onboard_time": 1711377201,
+        "rank": 11,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 158190,
+        "num": 158190,
+        "word": "谁家合法夫妻偷感这么重啊",
+        "onboard_time": 1711371198,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 155024,
+        "num": 155024,
+        "word": "开封王婆身体不适暂别舞台",
+        "onboard_time": 1711375519,
+        "rank": 13,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 139596,
+        "num": 139596,
+        "word": "张亮麻辣烫部分门店收汤费",
+        "onboard_time": 1711372098,
+        "rank": 14,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 134605,
+        "num": 134605,
+        "word": "安理会首次通过明确要求加沙停火决议",
+        "onboard_time": 1711379658,
+        "rank": 15,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 160893,
+        "num": 134235,
+        "word": "杨超越捧花头像",
+        "onboard_time": 1711383257,
+        "rank": 16,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 132632,
+        "num": 132632,
+        "word": "优酷的七部养老剧",
+        "onboard_time": 1711369099,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 121698,
+        "num": 121698,
+        "word": "十个勤天的小店",
+        "onboard_time": 1711378400,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 114543,
+        "num": 114543,
+        "word": "泰国曼谷68元一位的海鲜自助",
+        "onboard_time": 1711375461,
+        "rank": 19,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 111689,
+        "num": 111689,
+        "word": "断崖式衰老发生在几岁",
+        "onboard_time": 1711373180,
+        "rank": 20,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 98593,
+        "num": 98593,
+        "word": "工作8个月攒了11万想辞职",
+        "onboard_time": 1711368439,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 93052,
+        "num": 93052,
+        "word": "减掉1公斤脂肪需要多久",
+        "onboard_time": 1711369520,
+        "rank": 22,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 92516,
+        "num": 92516,
+        "word": "种地吧郁金香开售",
+        "onboard_time": 1711364899,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 86974,
+        "num": 86974,
+        "word": "樊振东发文维权",
+        "onboard_time": 1711364720,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 85255,
+        "num": 85255,
+        "word": "7年前考上央美的保安现在怎么样了",
+        "onboard_time": 1711378400,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 80033,
+        "num": 80033,
+        "word": "为什么港男的花期那么长",
+        "onboard_time": 1711384336,
+        "rank": 26,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 78705,
+        "num": 78705,
+        "word": "王濛的母亲张晓霞",
+        "onboard_time": 1711361298,
+        "rank": 27,
+        "category": "体育,作品衍生"
+      },
+      {
+        "raw_hot": 73205,
+        "num": 73205,
+        "word": "林更新发的行止行云",
+        "onboard_time": 1711380918,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 68561,
+        "num": 68561,
+        "word": "如何看待中国大学的宿舍制度",
+        "onboard_time": 1711376841,
+        "rank": 29,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 66513,
+        "num": 66513,
+        "word": "这种海鲜吃一口就有6000条寄生虫",
+        "onboard_time": 1711365678,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 63277,
+        "num": 63277,
+        "word": "沈璃小荷 白蛇青蛇",
+        "onboard_time": 1711378759,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 62530,
+        "num": 62530,
+        "word": "摩羯座寡淡的原因",
+        "onboard_time": 1711366577,
+        "rank": 32,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 59619,
+        "num": 59619,
+        "word": "赵露思何超欣手挽手",
+        "onboard_time": 1711382898,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 51799,
+        "num": 51799,
+        "word": "肖战工作室放饭了",
+        "onboard_time": 1711368679,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 50835,
+        "num": 50835,
+        "word": "坠落的审判导演接受女性主义者标签",
+        "onboard_time": 1711386314,
+        "rank": 35,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 50687,
+        "num": 50687,
+        "word": "帅其实是一种感觉",
+        "onboard_time": 1711377138,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 49805,
+        "num": 49805,
+        "word": "与凤行弹幕",
+        "onboard_time": 1711379959,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 49591,
+        "num": 49591,
+        "word": "威廉凯特计划带孩子复活节外出",
+        "onboard_time": 1711374739,
+        "rank": 38,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 48986,
+        "num": 48986,
+        "word": "种地吧这谁分得清是卖花还是偷花",
+        "onboard_time": 1711378639,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 48136,
+        "num": 48136,
+        "word": "strong哥",
+        "onboard_time": 1711374080,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 48859,
+        "num": 47969,
+        "word": "种地吧郁金香线上销售预告",
+        "onboard_time": 1711372761,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 47584,
+        "num": 47584,
+        "word": "迪丽热巴宣传中国广电",
+        "onboard_time": 1711386733,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 47118,
+        "num": 47118,
+        "word": "追风者",
+        "onboard_time": 1711378880,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 45444,
+        "num": 45444,
+        "word": "好友说金赛纶有难言之隐",
+        "onboard_time": 1711368920,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 44479,
+        "num": 44479,
+        "word": "我的相亲对象是母单系列",
+        "onboard_time": 1711373720,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 43443,
+        "num": 43443,
+        "word": "教育部要求开展学生欺凌防治培训",
+        "onboard_time": 1711373359,
+        "rank": 46,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 43225,
+        "num": 43225,
+        "word": "孙俪惊讶大家还在讨论甄嬛传",
+        "onboard_time": 1711360339,
+        "rank": 47,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 42663,
+        "num": 42663,
+        "word": "与凤行预告",
+        "onboard_time": 1711376841,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 41987,
+        "num": 41987,
+        "word": "墨香铜臭已被注册为商标",
+        "onboard_time": 1711364298,
+        "rank": 49,
+        "category": "读书作家,作品衍生"
+      }
+    ],
+    "hotgov": {
+      "word": "#推进全球发展倡议落地落实#"
+    }
+  }
+}
