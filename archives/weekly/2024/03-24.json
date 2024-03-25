@@ -1,6 +1,6 @@
 {
   "startTime": 1711210803824,
-  "endTime": 1711365357486,
+  "endTime": 1711366449905,
   "band_list": [
     {
       "raw_hot": 3435224,
@@ -12,7 +12,7 @@
     },
     {
       "raw_hot": 3117943,
-      "num": 1028176,
+      "num": 1184480,
       "word": "墨香铜臭回来了",
       "onboard_time": 1711348338,
       "rank": 11,
@@ -57,6 +57,14 @@
       "onboard_time": 1711270638,
       "rank": 0,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 2100414,
+      "num": 2100414,
+      "word": "樊振东发文维权",
+      "onboard_time": 1711364720,
+      "rank": 5,
+      "category": "体育"
     },
     {
       "raw_hot": 2081066,
@@ -587,20 +595,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 824866,
+      "num": 824866,
+      "word": "墨香铜臭称将全额退还新书霸王票",
+      "onboard_time": 1711362258,
+      "rank": 25,
+      "category": "读书作家"
+    },
+    {
+      "raw_hot": 819855,
+      "num": 819855,
+      "word": "大学生借书发现67年前书签",
+      "onboard_time": 1711360219,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 817120,
       "num": 817120,
       "word": "尔冬升把徐若晗赶出片场",
       "onboard_time": 1711199541,
       "rank": 1,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 815773,
-      "num": 815773,
-      "word": "樊振东发文维权",
-      "onboard_time": 1711364720,
-      "rank": 5,
-      "category": "体育"
     },
     {
       "raw_hot": 813868,
@@ -697,14 +713,6 @@
       "onboard_time": 1711243399,
       "rank": 16,
       "category": "情感"
-    },
-    {
-      "raw_hot": 769200,
-      "num": 769200,
-      "word": "大学生借书发现67年前书签",
-      "onboard_time": 1711360219,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 767008,
@@ -865,6 +873,14 @@
       "onboard_time": 1711330159,
       "rank": 38,
       "category": "财经"
+    },
+    {
+      "raw_hot": 683123,
+      "num": 683123,
+      "word": "种地吧郁金香开售",
+      "onboard_time": 1711364899,
+      "rank": 19,
+      "category": "综艺"
     },
     {
       "raw_hot": 676258,
@@ -1067,14 +1083,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 575579,
-      "num": 575579,
-      "word": "墨香铜臭称将全额退还新书霸王票",
-      "onboard_time": 1711362258,
-      "rank": 25,
-      "category": "读书作家"
-    },
-    {
       "raw_hot": 572864,
       "num": 572864,
       "word": "初中生免三考直接读985本科硕士",
@@ -1225,6 +1233,14 @@
       "onboard_time": 1711340421,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 515968,
+      "num": 336037,
+      "word": "弟弟结婚要我给2万礼金",
+      "onboard_time": 1711365378,
+      "rank": 20,
+      "category": "情感"
     },
     {
       "raw_hot": 509945,
@@ -1715,6 +1731,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 378574,
+      "num": 378574,
+      "word": "白鹿素人时期旧照",
+      "onboard_time": 1711364839,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 369739,
       "num": 292586,
       "word": "金秀贤公司官方声明",
@@ -1833,14 +1857,6 @@
       "onboard_time": 1711290621,
       "rank": 27,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 352245,
-      "num": 352245,
-      "word": "种地吧郁金香开售",
-      "onboard_time": 1711364899,
-      "rank": 19,
-      "category": "综艺"
     },
     {
       "raw_hot": 351209,
@@ -2129,14 +2145,6 @@
       "onboard_time": 1711249278,
       "rank": 21,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 291796,
-      "num": 291796,
-      "word": "白鹿素人时期旧照",
-      "onboard_time": 1711364839,
-      "rank": 23,
-      "category": "艺人"
     },
     {
       "raw_hot": 291795,
@@ -2515,6 +2523,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 246241,
+      "num": 246241,
+      "word": "墨香铜臭已被注册为商标",
+      "onboard_time": 1711364298,
+      "rank": 30,
+      "category": "读书作家,作品衍生"
+    },
+    {
       "raw_hot": 244668,
       "num": 244668,
       "word": "一旦开始喝咖啡这辈子就定型了",
@@ -2659,14 +2675,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 235316,
-      "num": 209525,
-      "word": "墨香铜臭已被注册为商标",
-      "onboard_time": 1711364298,
-      "rank": 30,
-      "category": "读书作家,作品衍生"
-    },
-    {
       "raw_hot": 234848,
       "num": 234848,
       "word": "冰雹",
@@ -2801,6 +2809,14 @@
       "onboard_time": 1711331119,
       "rank": 29,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 223744,
+      "num": 223744,
+      "word": "甘肃天水麻辣烫",
+      "onboard_time": 1711365201,
+      "rank": 38,
+      "category": "美食"
     },
     {
       "raw_hot": 223617,
@@ -3563,6 +3579,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 180579,
+      "num": 180579,
+      "word": "这种海鲜吃一口就有6000条寄生虫",
+      "onboard_time": 1711365678,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 179933,
       "num": 179933,
       "word": "向佐 重生之我是花洒",
@@ -4003,6 +4027,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 160331,
+      "num": 160331,
+      "word": "从飞机上看局部降雨",
+      "onboard_time": 1711366038,
+      "rank": 37,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 159893,
       "num": 159893,
       "word": "周鸿祎分享清华读博日常",
@@ -4113,14 +4145,6 @@
       "onboard_time": 1711286300,
       "rank": 40,
       "category": "美妆"
-    },
-    {
-      "raw_hot": 154755,
-      "num": 154755,
-      "word": "甘肃天水麻辣烫",
-      "onboard_time": 1711365201,
-      "rank": 38,
-      "category": "美食"
     },
     {
       "raw_hot": 154066,
@@ -4252,7 +4276,7 @@
     },
     {
       "raw_hot": 148074,
-      "num": 1028524,
+      "num": 1591185,
       "word": "这个超级工程用到了海上巨型滑梯",
       "onboard_time": 1711356498,
       "rank": 2,
@@ -4281,6 +4305,22 @@
       "onboard_time": 1711358840,
       "rank": 43,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 146643,
+      "num": 146643,
+      "word": "ILLIT空降成绩",
+      "onboard_time": 1711365439,
+      "rank": 40,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 146126,
+      "num": 146126,
+      "word": "月亮",
+      "onboard_time": 1711366347,
+      "rank": 41,
+      "category": "自然"
     },
     {
       "raw_hot": 145768,

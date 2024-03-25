@@ -1,0 +1,410 @@
+{
+  "runTime": 1711366449905,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2810230,
+        "num": 2810230,
+        "word": "王濛的母亲张晓霞",
+        "onboard_time": 1711361298,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 2100414,
+        "num": 2100414,
+        "word": "樊振东发文维权",
+        "onboard_time": 1711364720,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 99728,
+        "num": 1591185,
+        "word": "这个超级工程用到了海上巨型滑梯",
+        "onboard_time": 1711356498,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1184480,
+        "num": 1184480,
+        "word": "墨香铜臭回来了",
+        "onboard_time": 1711348338,
+        "rank": 3,
+        "category": "读书作家,作品衍生"
+      },
+      {
+        "raw_hot": 869949,
+        "num": 869949,
+        "word": "孙俪惊讶大家还在讨论甄嬛传",
+        "onboard_time": 1711360339,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 824866,
+        "num": 824866,
+        "word": "墨香铜臭称将全额退还新书霸王票",
+        "onboard_time": 1711362258,
+        "rank": 5,
+        "category": "读书作家,作品衍生"
+      },
+      {
+        "raw_hot": 819855,
+        "num": 819855,
+        "word": "大学生借书发现67年前书签",
+        "onboard_time": 1711360219,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 692051,
+        "num": 692051,
+        "word": "难听",
+        "onboard_time": 1711359258,
+        "rank": 7,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 121942,
+        "num": 683928,
+        "word": "治沙工人给沙漠穿上了格子衫",
+        "onboard_time": 1711360219,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 683123,
+        "num": 683123,
+        "word": "种地吧郁金香开售",
+        "onboard_time": 1711364899,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1092035,
+        "num": 678244,
+        "word": "小寨",
+        "onboard_time": 1711360878,
+        "rank": 10,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 617660,
+        "num": 617660,
+        "word": "外交部回应中国籍油轮遭胡塞武装袭击",
+        "onboard_time": 1711357219,
+        "rank": 11,
+        "category": "国内时政,军事"
+      },
+      {
+        "raw_hot": 584199,
+        "num": 584199,
+        "word": "空降",
+        "onboard_time": 1711362738,
+        "rank": 12,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 580408,
+        "num": 580408,
+        "word": "公办高中教师招聘薪资1000以下",
+        "onboard_time": 1711355537,
+        "rank": 13,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 471888,
+        "num": 471888,
+        "word": "肛肠科待久了对帅哥都无感了",
+        "onboard_time": 1711353378,
+        "rank": 14,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 441561,
+        "num": 441561,
+        "word": "UP主吐槽B站装修综艺令其损失百万",
+        "onboard_time": 1711356378,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 378574,
+        "num": 378574,
+        "word": "白鹿素人时期旧照",
+        "onboard_time": 1711364839,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 376542,
+        "num": 376542,
+        "word": "天官赐福解锁",
+        "onboard_time": 1711348938,
+        "rank": 17,
+        "category": "读书作家,作品衍生"
+      },
+      {
+        "raw_hot": 366982,
+        "num": 366982,
+        "word": "向佐荧幕初吻给了阿娇",
+        "onboard_time": 1711354159,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 345324,
+        "num": 345324,
+        "word": "宋亚轩坐上了刘耀文的副驾",
+        "onboard_time": 1711360939,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 515968,
+        "num": 336037,
+        "word": "弟弟结婚要我给2万礼金",
+        "onboard_time": 1711365378,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 323975,
+        "num": 323975,
+        "word": "女子为饿死肿瘤节食暴瘦44斤",
+        "onboard_time": 1711355897,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 313829,
+        "num": 313829,
+        "word": "薛之谦演唱会官宣三站",
+        "onboard_time": 1711359617,
+        "rank": 22,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 294662,
+        "num": 294662,
+        "word": "农场养400只鸭子忘剪翅全飞了",
+        "onboard_time": 1711359798,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 267325,
+        "num": 267325,
+        "word": "王鸥复工身材状态",
+        "onboard_time": 1711350978,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 246241,
+        "num": 246241,
+        "word": "墨香铜臭已被注册为商标",
+        "onboard_time": 1711364298,
+        "rank": 25,
+        "category": "读书作家,作品衍生"
+      },
+      {
+        "raw_hot": 223744,
+        "num": 223744,
+        "word": "甘肃天水麻辣烫",
+        "onboard_time": 1711365201,
+        "rank": 26,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 220947,
+        "num": 220947,
+        "word": "十年后我登上了爱情公寓网",
+        "onboard_time": 1711356259,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 211884,
+        "num": 211884,
+        "word": "父母要不要一次性给孩子一年的生活费",
+        "onboard_time": 1711362558,
+        "rank": 28,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 207274,
+        "num": 207274,
+        "word": "王者荣耀全新分路段位系统",
+        "onboard_time": 1711361238,
+        "rank": 29,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 202199,
+        "num": 202199,
+        "word": "墨香铜臭 没有封笔",
+        "onboard_time": 1711349538,
+        "rank": 30,
+        "category": "读书作家,作品衍生"
+      },
+      {
+        "raw_hot": 192052,
+        "num": 192052,
+        "word": "迪丽热巴首位破3000w点赞女明星",
+        "onboard_time": 1711346478,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 182863,
+        "num": 182863,
+        "word": "坐飞机拒绝了想换座的情侣",
+        "onboard_time": 1711360339,
+        "rank": 32,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 180579,
+        "num": 180579,
+        "word": "这种海鲜吃一口就有6000条寄生虫",
+        "onboard_time": 1711365678,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 179213,
+        "num": 179213,
+        "word": "翟欣欣或将获刑10年以上",
+        "onboard_time": 1711355779,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 176731,
+        "num": 176731,
+        "word": "年轻人让奶茶卷成健康饮品",
+        "onboard_time": 1711363338,
+        "rank": 35,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 162870,
+        "num": 162870,
+        "word": "英媒指控中国炒作凯特王妃消失",
+        "onboard_time": 1711349239,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 160331,
+        "num": 160331,
+        "word": "从飞机上看局部降雨",
+        "onboard_time": 1711366038,
+        "rank": 37,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 158359,
+        "num": 158359,
+        "word": "语文就适合晚上考",
+        "onboard_time": 1711353078,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 151802,
+        "num": 151802,
+        "word": "何超莲霍启山同框",
+        "onboard_time": 1711361959,
+        "rank": 39,
+        "category": "艺人,艺人"
+      },
+      {
+        "raw_hot": 146643,
+        "num": 146643,
+        "word": "ILLIT空降成绩",
+        "onboard_time": 1711365439,
+        "rank": 40,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 146126,
+        "num": 146126,
+        "word": "月亮",
+        "onboard_time": 1711366347,
+        "rank": 41,
+        "category": "自然"
+      },
+      {
+        "raw_hot": 135924,
+        "num": 135924,
+        "word": "王一博原声台词被文旅刷屏",
+        "onboard_time": 1711357640,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 133664,
+        "num": 133664,
+        "word": "减肥期间正确称体重的方法",
+        "onboard_time": 1711351999,
+        "rank": 43,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 131887,
+        "num": 131887,
+        "word": "沈璃真的不考虑一下吗",
+        "onboard_time": 1711364657,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 131405,
+        "num": 131405,
+        "word": "商丘一幼儿园老师坐男童身上玩手机",
+        "onboard_time": 1711348639,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 130532,
+        "num": 130532,
+        "word": "林更新退出九亿梦影视公司",
+        "onboard_time": 1711338258,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 128513,
+        "num": 128513,
+        "word": "奔跑吧12要官宣了",
+        "onboard_time": 1711350259,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 126880,
+        "num": 126880,
+        "word": "女性电影人话语权",
+        "onboard_time": 1711361898,
+        "rank": 48,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 121480,
+        "num": 121480,
+        "word": "王树国任福耀高等研究院院长",
+        "onboard_time": 1711361418,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#推进全球发展倡议落地落实#"
+    }
+  }
+}
