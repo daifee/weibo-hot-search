@@ -1,6 +1,6 @@
 {
   "startTime": 1711297217204,
-  "endTime": 1711336831786,
+  "endTime": 1711337660796,
   "band_list": [
     {
       "raw_hot": 2474722,
@@ -75,12 +75,20 @@
       "category": "自然"
     },
     {
-      "raw_hot": 947408,
-      "num": 947408,
+      "raw_hot": 964527,
+      "num": 964527,
       "word": "锦超躲李菲儿",
       "onboard_time": 1711334540,
       "rank": 1,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 893543,
+      "num": 409209,
+      "word": "发现刘亦菲是表姑的侄女",
+      "onboard_time": 1711336759,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 801877,
@@ -212,7 +220,7 @@
     },
     {
       "raw_hot": 521424,
-      "num": 299875,
+      "num": 318823,
       "word": "正在伤害卵巢的6个习惯",
       "onboard_time": 1711333878,
       "rank": 30,
@@ -236,7 +244,7 @@
     },
     {
       "raw_hot": 455890,
-      "num": 296871,
+      "num": 318744,
       "word": "减肥吃甜玉米还是糯玉米",
       "onboard_time": 1711332139,
       "rank": 21,
@@ -251,6 +259,22 @@
       "category": "母婴育儿"
     },
     {
+      "raw_hot": 454024,
+      "num": 454024,
+      "word": "这是我的岛",
+      "onboard_time": 1711332319,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 450952,
+      "num": 450952,
+      "word": "马英九将率台湾青年来大陆交流参访",
+      "onboard_time": 1711336519,
+      "rank": 34,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 446987,
       "num": 446987,
       "word": "国家医保局回应医保缴费标准调整",
@@ -259,20 +283,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 422330,
-      "num": 422330,
-      "word": "这是我的岛",
-      "onboard_time": 1711332319,
-      "rank": 19,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 410424,
       "num": 362552,
       "word": "韩安冉晒二胎B超照",
       "onboard_time": 1711296079,
       "rank": 14,
       "category": "网红"
+    },
+    {
+      "raw_hot": 401931,
+      "num": 401931,
+      "word": "张杰40岁的腰",
+      "onboard_time": 1711334839,
+      "rank": 13,
+      "category": "演出"
     },
     {
       "raw_hot": 396027,
@@ -299,12 +323,12 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 373899,
-      "num": 345440,
-      "word": "张杰40岁的腰",
-      "onboard_time": 1711334839,
-      "rank": 13,
-      "category": "演出"
+      "raw_hot": 384348,
+      "num": 384348,
+      "word": "俄全国哀悼日克里姆林宫降半旗",
+      "onboard_time": 1711336519,
+      "rank": 35,
+      "category": "国外时政"
     },
     {
       "raw_hot": 366783,
@@ -363,6 +387,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 325836,
+      "num": 325836,
+      "word": "俄罗斯",
+      "onboard_time": 1711336640,
+      "rank": 29,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 322737,
       "num": 322737,
       "word": "沈璃被扇",
@@ -395,19 +427,19 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 295911,
+      "num": 295911,
+      "word": "星期一已经崩溃一万次了",
+      "onboard_time": 1711337058,
+      "rank": 25,
+      "category": "情感"
+    },
+    {
       "raw_hot": 295413,
       "num": 295413,
       "word": "CROCS 王俊凯",
       "onboard_time": 1711329378,
       "rank": 24,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 285660,
-      "num": 285660,
-      "word": "发现刘亦菲是表姑的侄女",
-      "onboard_time": 1711336759,
-      "rank": 22,
       "category": "艺人"
     },
     {
@@ -451,6 +483,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 249882,
+      "num": 249882,
+      "word": "百分百出品定档",
+      "onboard_time": 1711336519,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 248787,
       "num": 248787,
       "word": "成都雪山",
@@ -492,7 +532,7 @@
     },
     {
       "raw_hot": 230177,
-      "num": 332590,
+      "num": 409246,
       "word": "霸王茶姬获首批营养分级标识",
       "onboard_time": 1711333878,
       "rank": 37,
@@ -571,14 +611,6 @@
       "category": "自然"
     },
     {
-      "raw_hot": 209267,
-      "num": 209267,
-      "word": "俄罗斯",
-      "onboard_time": 1711336640,
-      "rank": 29,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 209169,
       "num": 209169,
       "word": "白百何短发照",
@@ -603,20 +635,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 198648,
-      "num": 198648,
-      "word": "百分百出品定档",
-      "onboard_time": 1711336519,
-      "rank": 31,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 195962,
       "num": 195962,
       "word": "大学室友突然要退学回家继承家业",
       "onboard_time": 1711291940,
       "rank": 30,
       "category": "情感"
+    },
+    {
+      "raw_hot": 195050,
+      "num": 195050,
+      "word": "金价创13年新高疯狂囤金理智吗",
+      "onboard_time": 1711336939,
+      "rank": 32,
+      "category": "财经"
     },
     {
       "raw_hot": 194864,
@@ -635,14 +667,6 @@
       "category": "财经,社会新闻"
     },
     {
-      "raw_hot": 193042,
-      "num": 193042,
-      "word": "马英九将率台湾青年来大陆交流参访",
-      "onboard_time": 1711336519,
-      "rank": 34,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 192187,
       "num": 192187,
       "word": "早醒第一件事",
@@ -659,12 +683,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 191156,
-      "num": 191156,
-      "word": "俄全国哀悼日克里姆林宫降半旗",
-      "onboard_time": 1711336519,
-      "rank": 35,
-      "category": "国外时政"
+      "raw_hot": 188904,
+      "num": 188904,
+      "word": "飞鲨起降超燃现场",
+      "onboard_time": 1711337118,
+      "rank": 33,
+      "category": "军事"
     },
     {
       "raw_hot": 188432,
@@ -723,6 +747,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 169137,
+      "num": 169137,
+      "word": "大侦探",
+      "onboard_time": 1711337357,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 168961,
       "num": 168961,
       "word": "俄罗斯恐怖袭击",
@@ -761,6 +793,14 @@
       "onboard_time": 1711328959,
       "rank": 43,
       "category": "读书作家"
+    },
+    {
+      "raw_hot": 154066,
+      "num": 154066,
+      "word": "最好的怯魅就是经历",
+      "onboard_time": 1711336877,
+      "rank": 41,
+      "category": "情感"
     },
     {
       "raw_hot": 151952,
@@ -819,6 +859,30 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 144939,
+      "num": 144939,
+      "word": "孙铭阳3比1张本美和",
+      "onboard_time": 1711337357,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 144241,
+      "num": 144241,
+      "word": "每杯188元的奶茶到底香不香",
+      "onboard_time": 1711337478,
+      "rank": 44,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 142705,
+      "num": 142705,
+      "word": "2024胡润全球富豪榜发布",
+      "onboard_time": 1711337420,
+      "rank": 45,
+      "category": "财经"
+    },
+    {
       "raw_hot": 140951,
       "num": 140951,
       "word": "磁暴会对人类生活产生什么影响",
@@ -843,6 +907,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 138295,
+      "num": 142657,
+      "word": "15岁暂时休学在家整理人生",
+      "onboard_time": 1711337539,
+      "rank": 46,
+      "category": "情感"
+    },
+    {
       "raw_hot": 136524,
       "num": 136524,
       "word": "白鹿制服拍立得",
@@ -857,6 +929,14 @@
       "onboard_time": 1711292599,
       "rank": 38,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 132428,
+      "num": 141243,
+      "word": "张艺兴女团成员正面照",
+      "onboard_time": 1711337598,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 124693,

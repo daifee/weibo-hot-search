@@ -1,0 +1,410 @@
+{
+  "runTime": 1711337660796,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2257317,
+        "num": 2257317,
+        "word": "韩国第一夫人消失100天非常不寻常",
+        "onboard_time": 1711331659,
+        "rank": 0,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 964527,
+        "num": 964527,
+        "word": "锦超躲李菲儿",
+        "onboard_time": 1711334540,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 6673,
+        "num": 796520,
+        "word": "筑牢粮食安全耕基",
+        "onboard_time": 1711282759,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1386924,
+        "num": 764277,
+        "word": "江西农村彩礼涨到50万元",
+        "onboard_time": 1711328959,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 683219,
+        "num": 683219,
+        "word": "俄男子重返音乐厅撬门救100多人",
+        "onboard_time": 1711332259,
+        "rank": 4,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 522791,
+        "num": 522791,
+        "word": "1年花380元参加居民医保值不值",
+        "onboard_time": 1711330159,
+        "rank": 5,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 465484,
+        "num": 465484,
+        "word": "养老金并轨倒计时",
+        "onboard_time": 1711322237,
+        "rank": 6,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 454024,
+        "num": 454024,
+        "word": "这是我的岛",
+        "onboard_time": 1711332319,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 450952,
+        "num": 450952,
+        "word": "马英九将率台湾青年来大陆交流参访",
+        "onboard_time": 1711336519,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 413228,
+        "num": 413228,
+        "word": "俄罗斯无法判处恐怖分子死刑",
+        "onboard_time": 1711324098,
+        "rank": 9,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 150688,
+        "num": 409246,
+        "word": "霸王茶姬获首批营养分级标识",
+        "onboard_time": 1711333878,
+        "rank": 10,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 893543,
+        "num": 409209,
+        "word": "发现刘亦菲是表姑的侄女",
+        "onboard_time": 1711336759,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 458984,
+        "num": 409010,
+        "word": "陈铭",
+        "onboard_time": 1711293444,
+        "rank": 12,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 408415,
+        "num": 408415,
+        "word": "独游峨眉山失联女生遗体被找到",
+        "onboard_time": 1711323258,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 401931,
+        "num": 401931,
+        "word": "张杰40岁的腰",
+        "onboard_time": 1711334839,
+        "rank": 14,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 384348,
+        "num": 384348,
+        "word": "俄全国哀悼日克里姆林宫降半旗",
+        "onboard_time": 1711336519,
+        "rank": 15,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 327514,
+        "num": 327514,
+        "word": "大地磁暴",
+        "onboard_time": 1711323258,
+        "rank": 16,
+        "category": "自然"
+      },
+      {
+        "raw_hot": 325836,
+        "num": 325836,
+        "word": "俄罗斯",
+        "onboard_time": 1711336640,
+        "rank": 17,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 319474,
+        "num": 319474,
+        "word": "国家医保局回应医保缴费标准调整",
+        "onboard_time": 1711328899,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 379180,
+        "num": 318901,
+        "word": "张杰骨相",
+        "onboard_time": 1711329138,
+        "rank": 19,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 462872,
+        "num": 318823,
+        "word": "正在伤害卵巢的6个习惯",
+        "onboard_time": 1711333878,
+        "rank": 20,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 389636,
+        "num": 318744,
+        "word": "减肥吃甜玉米还是糯玉米",
+        "onboard_time": 1711332139,
+        "rank": 21,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 317476,
+        "num": 317476,
+        "word": "宋亚轩新歌词曲邹沛沛",
+        "onboard_time": 1711334599,
+        "rank": 22,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 308091,
+        "num": 308091,
+        "word": "经期真正需要忌口的食物",
+        "onboard_time": 1711292482,
+        "rank": 23,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 302127,
+        "num": 302127,
+        "word": "开车为什么要伸一只手出来",
+        "onboard_time": 1711290561,
+        "rank": 24,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 295911,
+        "num": 295911,
+        "word": "星期一已经崩溃一万次了",
+        "onboard_time": 1711337058,
+        "rank": 25,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 261649,
+        "num": 261649,
+        "word": "央视曝光湖北部分高标准农田被偷梁换柱",
+        "onboard_time": 1711328360,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 249882,
+        "num": 249882,
+        "word": "百分百出品定档",
+        "onboard_time": 1711336519,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 245484,
+        "num": 245484,
+        "word": "小米SU7在门店开启静态展示",
+        "onboard_time": 1711335379,
+        "rank": 28,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 238787,
+        "num": 238787,
+        "word": "赵丽颖晒嘘嘘",
+        "onboard_time": 1711291041,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 214944,
+        "num": 214944,
+        "word": "微信朋友圈只发文字的方法",
+        "onboard_time": 1711325182,
+        "rank": 30,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 203931,
+        "num": 203931,
+        "word": "突然发现父母是近亲结婚",
+        "onboard_time": 1711292482,
+        "rank": 31,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 195050,
+        "num": 195050,
+        "word": "金价创13年新高疯狂囤金理智吗",
+        "onboard_time": 1711336939,
+        "rank": 32,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 188904,
+        "num": 188904,
+        "word": "飞鲨起降超燃现场",
+        "onboard_time": 1711337118,
+        "rank": 33,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 187470,
+        "num": 187470,
+        "word": "何超莲赵露思合照",
+        "onboard_time": 1711322596,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 169137,
+        "num": 169137,
+        "word": "大侦探",
+        "onboard_time": 1711337357,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 160162,
+        "num": 160162,
+        "word": "普京含泪为恐袭遇难者点蜡致哀",
+        "onboard_time": 1711325182,
+        "rank": 36,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 156722,
+        "num": 156722,
+        "word": "中国黄金门店超九成为加盟门店",
+        "onboard_time": 1711333098,
+        "rank": 37,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 156692,
+        "num": 156692,
+        "word": "我们宿舍真是最懂相互尊重了",
+        "onboard_time": 1711333819,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 155846,
+        "num": 155846,
+        "word": "初中生免三考直接读985本科硕士",
+        "onboard_time": 1711327521,
+        "rank": 39,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 154219,
+        "num": 154219,
+        "word": "我爸看到了我的微信余额",
+        "onboard_time": 1711290621,
+        "rank": 40,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 154066,
+        "num": 154066,
+        "word": "最好的怯魅就是经历",
+        "onboard_time": 1711336877,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 146675,
+        "num": 146675,
+        "word": "眼泪女王 家被偷没了",
+        "onboard_time": 1711289599,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 144939,
+        "num": 144939,
+        "word": "孙铭阳3比1张本美和",
+        "onboard_time": 1711337357,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 144241,
+        "num": 144241,
+        "word": "每杯188元的奶茶到底香不香",
+        "onboard_time": 1711337478,
+        "rank": 44,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 142705,
+        "num": 142705,
+        "word": "2024胡润全球富豪榜发布",
+        "onboard_time": 1711337420,
+        "rank": 45,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 138295,
+        "num": 142657,
+        "word": "15岁暂时休学在家整理人生",
+        "onboard_time": 1711337539,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 132079,
+        "num": 141859,
+        "word": "檀健次滤镜杀青",
+        "onboard_time": 1711336099,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 132777,
+        "num": 141490,
+        "word": "石头赶路 目前是待业",
+        "onboard_time": 1711334959,
+        "rank": 48,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 132428,
+        "num": 141243,
+        "word": "张艺兴女团成员正面照",
+        "onboard_time": 1711337598,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#循着总书记关切看京津冀交通陆海空之变#"
+    }
+  }
+}
