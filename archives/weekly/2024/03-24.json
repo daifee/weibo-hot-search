@@ -1,6 +1,6 @@
 {
   "startTime": 1711210803824,
-  "endTime": 1711401371316,
+  "endTime": 1711402439623,
   "band_list": [
     {
       "raw_hot": 3435224,
@@ -5595,6 +5595,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 83090,
+      "num": 83090,
+      "word": "闺蜜合伙盗窃靠反复怀孕育11子躲刑罚",
+      "onboard_time": 1711394531,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 82997,
       "num": 82997,
       "word": "鹿晗用你的名字手机壁纸",
@@ -5665,14 +5673,6 @@
       "onboard_time": 1711316172,
       "rank": 36,
       "category": "情感"
-    },
-    {
-      "raw_hot": 74026,
-      "num": 74026,
-      "word": "闺蜜合伙盗窃靠反复怀孕育11子躲刑罚",
-      "onboard_time": 1711394531,
-      "rank": 35,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 73579,
@@ -5963,6 +5963,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 21576,
+      "num": 18357,
+      "word": "我的国家队生涯最后只画了个点",
+      "onboard_time": 1711399270,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 20193,
       "num": 20193,
       "word": "韩女的头包脸发型教程",
@@ -6003,12 +6011,20 @@
       "category": "美食"
     },
     {
-      "raw_hot": 17087,
-      "num": 17087,
-      "word": "我的国家队生涯最后只画了个点",
-      "onboard_time": 1711399270,
-      "rank": 30,
-      "category": "体育"
+      "raw_hot": 17382,
+      "num": 17382,
+      "word": "琅琊榜剧组当年的精神状态",
+      "onboard_time": 1711400890,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 17053,
+      "num": 17053,
+      "word": "大地磁暴碰上满月",
+      "onboard_time": 1711394351,
+      "rank": 41,
+      "category": "自然,科学科普"
     },
     {
       "raw_hot": 16517,
@@ -6019,20 +6035,12 @@
       "category": "动漫,作品衍生"
     },
     {
-      "raw_hot": 15844,
-      "num": 15844,
-      "word": "大地磁暴碰上满月",
-      "onboard_time": 1711394351,
-      "rank": 41,
-      "category": "自然,科学科普"
-    },
-    {
-      "raw_hot": 14247,
-      "num": 14247,
-      "word": "琅琊榜剧组当年的精神状态",
-      "onboard_time": 1711400890,
-      "rank": 39,
-      "category": "剧集"
+      "raw_hot": 12298,
+      "num": 14165,
+      "word": "猫 会不会说点吉利话",
+      "onboard_time": 1711400650,
+      "rank": 44,
+      "category": "幽默"
     },
     {
       "raw_hot": 12123,
@@ -6041,6 +6049,14 @@
       "onboard_time": 1711396630,
       "rank": 45,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 11856,
+      "num": 14123,
+      "word": "谁懂北大医学院三代同堂的含金量",
+      "onboard_time": 1711402391,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 11854,
