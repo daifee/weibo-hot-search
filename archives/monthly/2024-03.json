@@ -1,6 +1,6 @@
 {
   "startTime": 1709223640991,
-  "endTime": 1711341304139,
+  "endTime": 1711343900731,
   "band_list": [
     {
       "raw_hot": 12728050,
@@ -2803,6 +2803,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1422979,
+      "num": 266623,
+      "word": "前同事离职时删光了所有资料",
+      "onboard_time": 1711342579,
+      "rank": 20,
+      "category": "情感"
+    },
+    {
       "raw_hot": 1422485,
       "num": 1422485,
       "word": "古茗",
@@ -3583,6 +3591,14 @@
       "num": 1279066,
       "word": "广州越秀区车祸致11人受伤",
       "onboard_time": 1710212910,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1276474,
+      "num": 1276474,
+      "word": "乡村小学校长侵害5名未成年女生",
+      "onboard_time": 1711338499,
       "rank": 6,
       "category": "社会新闻"
     },
@@ -5905,14 +5921,6 @@
       "onboard_time": 1709700454,
       "rank": 12,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 992013,
-      "num": 992013,
-      "word": "乡村小学校长侵害5名未成年女生",
-      "onboard_time": 1711338499,
-      "rank": 6,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 991355,
@@ -8977,6 +8985,14 @@
       "onboard_time": 1710729510,
       "rank": 8,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 754061,
+      "num": 422379,
+      "word": "研究发现大腿粗的人更长寿",
+      "onboard_time": 1711339699,
+      "rank": 32,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 752923,
@@ -12339,6 +12355,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 609738,
+      "num": 609738,
+      "word": "霉霉85亿身家首登胡润富豪榜",
+      "onboard_time": 1711342760,
+      "rank": 5,
+      "category": "艺人,财经"
+    },
+    {
       "raw_hot": 609276,
       "num": 609276,
       "word": "蒋勤勤不想蹭甄嬛传热度",
@@ -13801,6 +13825,14 @@
       "onboard_time": 1710637349,
       "rank": 28,
       "category": "美食"
+    },
+    {
+      "raw_hot": 562346,
+      "num": 562346,
+      "word": "百度将为国行iPhone16提供AI功能",
+      "onboard_time": 1711340480,
+      "rank": 48,
+      "category": "互联网,数码"
     },
     {
       "raw_hot": 561031,
@@ -17371,6 +17403,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 470218,
+      "num": 415075,
+      "word": "唐嫣官宣电视剧品质盛典",
+      "onboard_time": 1711342041,
+      "rank": 11,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 470166,
       "num": 307280,
       "word": "徐正溪还剩两部待播剧",
@@ -17473,6 +17513,14 @@
       "onboard_time": 1709548112,
       "rank": 15,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 467701,
+      "num": 467701,
+      "word": "刘学义方否认偷税漏税",
+      "onboard_time": 1711340421,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 467673,
@@ -22659,14 +22707,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 360849,
-      "num": 328703,
-      "word": "刘学义方否认偷税漏税",
-      "onboard_time": 1711340421,
-      "rank": 33,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 360598,
       "num": 360598,
       "word": "会计专硕201",
@@ -22819,14 +22859,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 357982,
-      "num": 357982,
-      "word": "研究发现大腿粗的人更长寿",
-      "onboard_time": 1711339699,
-      "rank": 32,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 357697,
       "num": 357697,
       "word": "赵丽颖回应床咚吻",
@@ -22849,6 +22881,14 @@
       "onboard_time": 1710293552,
       "rank": 46,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 357342,
+      "num": 357342,
+      "word": "Kimi每天获客成本超20万元",
+      "onboard_time": 1711342760,
+      "rank": 14,
+      "category": "互联网,科学科普"
     },
     {
       "raw_hot": 357276,
@@ -23153,6 +23193,14 @@
       "onboard_time": 1711259959,
       "rank": 17,
       "category": "美食"
+    },
+    {
+      "raw_hot": 352689,
+      "num": 260849,
+      "word": "撒贝宁 追星其实是你在追自己",
+      "onboard_time": 1711341080,
+      "rank": 45,
+      "category": "情感"
     },
     {
       "raw_hot": 352672,
@@ -24073,6 +24121,14 @@
       "onboard_time": 1710938016,
       "rank": 24,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 336991,
+      "num": 336991,
+      "word": "小米su7",
+      "onboard_time": 1711341381,
+      "rank": 18,
+      "category": "汽车"
     },
     {
       "raw_hot": 336990,
@@ -29393,14 +29449,6 @@
       "onboard_time": 1711006879,
       "rank": 8,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 269401,
-      "num": 269401,
-      "word": "百度将为国行iPhone16提供AI功能",
-      "onboard_time": 1711340480,
-      "rank": 48,
-      "category": "互联网,数码"
     },
     {
       "raw_hot": 269399,
@@ -37507,6 +37555,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 209825,
+      "num": 209825,
+      "word": "原来这就是人夫感",
+      "onboard_time": 1711343242,
+      "rank": 34,
+      "category": "情感"
+    },
+    {
       "raw_hot": 209813,
       "num": 209813,
       "word": "独居女孩真的要注意安全",
@@ -39316,7 +39372,7 @@
     },
     {
       "raw_hot": 202522,
-      "num": 202522,
+      "num": 244512,
       "word": "俄公布恐袭事件68位遇难者名单",
       "onboard_time": 1711340300,
       "rank": 43,
@@ -42049,6 +42105,14 @@
       "onboard_time": 1709907392,
       "rank": 46,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 192846,
+      "num": 192846,
+      "word": "本田仁美加入TripleS",
+      "onboard_time": 1711341320,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 192810,
@@ -49107,14 +49171,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 163963,
-      "num": 163963,
-      "word": "撒贝宁 追星其实是你在追自己",
-      "onboard_time": 1711341080,
-      "rank": 45,
-      "category": "情感"
-    },
-    {
       "raw_hot": 163890,
       "num": 163890,
       "word": "25岁的自己和想象中不一样",
@@ -49977,6 +50033,14 @@
       "onboard_time": 1710844114,
       "rank": 8,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 160849,
+      "num": 160849,
+      "word": "湖人战胜步行者",
+      "onboard_time": 1711343539,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 160837,
@@ -51691,6 +51755,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 155175,
+      "num": 155175,
+      "word": "ILLIT正式出道",
+      "onboard_time": 1711341981,
+      "rank": 42,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 155159,
       "num": 155159,
       "word": "Uzi韩服排位现状",
@@ -52081,6 +52153,14 @@
       "onboard_time": 1709442390,
       "rank": 34,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 153436,
+      "num": 153436,
+      "word": "湖人轰下150分",
+      "onboard_time": 1711343660,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 153432,
@@ -53179,6 +53259,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 149822,
+      "num": 149822,
+      "word": "花间令 为弱者发声",
+      "onboard_time": 1711343840,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 149815,
       "num": 149815,
       "word": "足金首饰价格突破650元每克",
@@ -53561,6 +53649,14 @@
       "onboard_time": 1709795251,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 148380,
+      "num": 148380,
+      "word": "许嵩武汉场二开",
+      "onboard_time": 1711342401,
+      "rank": 46,
+      "category": "演出"
     },
     {
       "raw_hot": 148309,
@@ -54633,6 +54729,14 @@
       "onboard_time": 1709989111,
       "rank": 44,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 144625,
+      "num": 144625,
+      "word": "吴磊体验吃酸嘢",
+      "onboard_time": 1711342160,
+      "rank": 47,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 144615,
@@ -68739,6 +68843,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 29508,
+      "num": 222950,
+      "word": "小米SU7真车比图强",
+      "onboard_time": 1711343359,
+      "rank": 32,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 29063,
       "num": 58917,
       "word": "2024F1巴林大奖赛",
@@ -70101,6 +70213,9 @@
     },
     {
       "word": "#循着总书记关切看京津冀交通陆海空之变#"
+    },
+    {
+      "word": "#推进全球发展倡议落地落实#"
     }
   ]
 }

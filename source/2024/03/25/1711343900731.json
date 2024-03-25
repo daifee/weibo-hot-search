@@ -1,0 +1,410 @@
+{
+  "runTime": 1711343900731,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1426304,
+        "num": 1426304,
+        "word": "韩国第一夫人消失100天非常不寻常",
+        "onboard_time": 1711331659,
+        "rank": 0,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 1298109,
+        "num": 1298109,
+        "word": "林更新退出九亿梦影视公司",
+        "onboard_time": 1711338258,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 191725,
+        "num": 1277303,
+        "word": "春天的浪漫是花花给的",
+        "onboard_time": 1711338319,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1276474,
+        "num": 1276474,
+        "word": "乡村小学校长侵害5名未成年女生",
+        "onboard_time": 1711338499,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 856183,
+        "num": 856183,
+        "word": "张艺兴女团成员正面照",
+        "onboard_time": 1711337598,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 609738,
+        "num": 609738,
+        "word": "霉霉85亿身家首登胡润富豪榜",
+        "onboard_time": 1711342760,
+        "rank": 5,
+        "category": "艺人,财经"
+      },
+      {
+        "raw_hot": 565419,
+        "num": 565419,
+        "word": "俄恐袭一嫌犯年仅19岁",
+        "onboard_time": 1711338319,
+        "rank": 6,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 562346,
+        "num": 562346,
+        "word": "百度将为国行iPhone16提供AI功能",
+        "onboard_time": 1711340480,
+        "rank": 7,
+        "category": "互联网,数码"
+      },
+      {
+        "raw_hot": 467701,
+        "num": 467701,
+        "word": "刘学义方否认偷税漏税",
+        "onboard_time": 1711340421,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 428994,
+        "num": 428994,
+        "word": "发现刘亦菲是表姑的侄女",
+        "onboard_time": 1711336759,
+        "rank": 9,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 754061,
+        "num": 422379,
+        "word": "研究发现大腿粗的人更长寿",
+        "onboard_time": 1711339699,
+        "rank": 10,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 470218,
+        "num": 415075,
+        "word": "唐嫣官宣电视剧品质盛典",
+        "onboard_time": 1711342041,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 451153,
+        "num": 404228,
+        "word": "陈铭",
+        "onboard_time": 1711293444,
+        "rank": 12,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 387963,
+        "num": 387963,
+        "word": "叶蓁蓁 远离假性友谊",
+        "onboard_time": 1711338438,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 357342,
+        "num": 357342,
+        "word": "Kimi每天获客成本超20万元",
+        "onboard_time": 1711342760,
+        "rank": 14,
+        "category": "互联网,科学科普"
+      },
+      {
+        "raw_hot": 366121,
+        "num": 351279,
+        "word": "刘学义工作室声明",
+        "onboard_time": 1711338918,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 344354,
+        "num": 344354,
+        "word": "张杰40岁的腰",
+        "onboard_time": 1711334839,
+        "rank": 16,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 337105,
+        "num": 337105,
+        "word": "马英九将率台湾青年来大陆交流参访",
+        "onboard_time": 1711336519,
+        "rank": 17,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 336991,
+        "num": 336991,
+        "word": "小米su7",
+        "onboard_time": 1711341381,
+        "rank": 18,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 268123,
+        "num": 268123,
+        "word": "大地磁暴",
+        "onboard_time": 1711323258,
+        "rank": 19,
+        "category": "自然"
+      },
+      {
+        "raw_hot": 1422979,
+        "num": 266623,
+        "word": "前同事离职时删光了所有资料",
+        "onboard_time": 1711342579,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 656634,
+        "num": 264680,
+        "word": "江西农村彩礼涨到50万元",
+        "onboard_time": 1711328959,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 352689,
+        "num": 260849,
+        "word": "撒贝宁 追星其实是你在追自己",
+        "onboard_time": 1711341080,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 303288,
+        "num": 259213,
+        "word": "王一博醉酒戏是即兴发挥",
+        "onboard_time": 1711339279,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 301250,
+        "num": 255702,
+        "word": "刘维真的快碎了",
+        "onboard_time": 1711338438,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 290549,
+        "num": 254052,
+        "word": "锦超躲李菲儿",
+        "onboard_time": 1711334540,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 271106,
+        "num": 251098,
+        "word": "星期一已经崩溃一万次了",
+        "onboard_time": 1711337058,
+        "rank": 26,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 270066,
+        "num": 249193,
+        "word": "正在伤害卵巢的6个习惯",
+        "onboard_time": 1711333878,
+        "rank": 27,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 187301,
+        "num": 247157,
+        "word": "俄罗斯",
+        "onboard_time": 1711336640,
+        "rank": 28,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 161949,
+        "num": 244512,
+        "word": "俄公布恐袭事件68位遇难者名单",
+        "onboard_time": 1711340300,
+        "rank": 29,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 243267,
+        "num": 243267,
+        "word": "每杯188元的奶茶到底香不香",
+        "onboard_time": 1711337478,
+        "rank": 30,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 231438,
+        "num": 231438,
+        "word": "突然发现父母是近亲结婚",
+        "onboard_time": 1711292482,
+        "rank": 31,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 29508,
+        "num": 222950,
+        "word": "小米SU7真车比图强",
+        "onboard_time": 1711343359,
+        "rank": 32,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 221148,
+        "num": 221148,
+        "word": "减肥吃甜玉米还是糯玉米",
+        "onboard_time": 1711332139,
+        "rank": 33,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 209825,
+        "num": 209825,
+        "word": "原来这就是人夫感",
+        "onboard_time": 1711343242,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 192846,
+        "num": 192846,
+        "word": "本田仁美加入TripleS",
+        "onboard_time": 1711341320,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 190632,
+        "num": 190632,
+        "word": "这是我的岛",
+        "onboard_time": 1711332319,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 179585,
+        "num": 179585,
+        "word": "赵丽颖早期写真照",
+        "onboard_time": 1711337779,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 172323,
+        "num": 172323,
+        "word": "陈晓 迫碎感",
+        "onboard_time": 1711340480,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 160849,
+        "num": 160849,
+        "word": "湖人战胜步行者",
+        "onboard_time": 1711343539,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 167239,
+        "num": 160796,
+        "word": "张艺兴张PD回归",
+        "onboard_time": 1711338558,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 157992,
+        "num": 157992,
+        "word": "15岁暂时休学在家整理人生",
+        "onboard_time": 1711337539,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 155175,
+        "num": 155175,
+        "word": "ILLIT正式出道",
+        "onboard_time": 1711341981,
+        "rank": 42,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 153436,
+        "num": 153436,
+        "word": "湖人轰下150分",
+        "onboard_time": 1711343660,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 149822,
+        "num": 149822,
+        "word": "花间令 为弱者发声",
+        "onboard_time": 1711343840,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 148433,
+        "num": 148433,
+        "word": "独游峨眉山失联女生遗体被找到",
+        "onboard_time": 1711323258,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 148380,
+        "num": 148380,
+        "word": "许嵩武汉场二开",
+        "onboard_time": 1711342401,
+        "rank": 46,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 144625,
+        "num": 144625,
+        "word": "吴磊体验吃酸嘢",
+        "onboard_time": 1711342160,
+        "rank": 47,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 140389,
+        "num": 140389,
+        "word": "微信朋友圈只发文字的方法",
+        "onboard_time": 1711325182,
+        "rank": 48,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 138444,
+        "num": 138444,
+        "word": "俄男子重返音乐厅撬门救100多人",
+        "onboard_time": 1711332259,
+        "rank": 49,
+        "category": "国外时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#推进全球发展倡议落地落实#"
+    }
+  }
+}
