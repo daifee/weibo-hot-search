@@ -1,6 +1,6 @@
 {
   "startTime": 1711297217204,
-  "endTime": 1711354983097,
+  "endTime": 1711355684726,
   "band_list": [
     {
       "raw_hot": 3117943,
@@ -171,6 +171,14 @@
       "category": "自然"
     },
     {
+      "raw_hot": 972098,
+      "num": 972098,
+      "word": "考研每四位统考生中平均有一人被录取",
+      "onboard_time": 1711351519,
+      "rank": 29,
+      "category": "教育"
+    },
+    {
       "raw_hot": 964527,
       "num": 964527,
       "word": "锦超躲李菲儿",
@@ -195,12 +203,12 @@
       "category": "财经,社会新闻"
     },
     {
-      "raw_hot": 897465,
-      "num": 897465,
-      "word": "考研每四位统考生中平均有一人被录取",
-      "onboard_time": 1711351519,
-      "rank": 29,
-      "category": "教育"
+      "raw_hot": 857824,
+      "num": 857824,
+      "word": "减肥期间正确称体重的方法",
+      "onboard_time": 1711351999,
+      "rank": 30,
+      "category": "运动健身"
     },
     {
       "raw_hot": 801877,
@@ -209,6 +217,14 @@
       "onboard_time": 1711322596,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 784213,
+      "num": 268577,
+      "word": "肛肠科待久了对帅哥都无感了",
+      "onboard_time": 1711353378,
+      "rank": 21,
+      "category": "幽默"
     },
     {
       "raw_hot": 777203,
@@ -267,14 +283,6 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 724727,
-      "num": 724727,
-      "word": "减肥期间正确称体重的方法",
-      "onboard_time": 1711351999,
-      "rank": 30,
-      "category": "运动健身"
-    },
-    {
       "raw_hot": 712647,
       "num": 712647,
       "word": "央视曝光湖北部分高标准农田被偷梁换柱",
@@ -291,19 +299,19 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 700614,
+      "num": 700614,
+      "word": "向佐荧幕初吻给了阿娇",
+      "onboard_time": 1711354159,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 693833,
       "num": 273043,
       "word": "死丫头劲真大",
       "onboard_time": 1711352419,
       "rank": 20,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 690662,
-      "num": 268577,
-      "word": "肛肠科待久了对帅哥都无感了",
-      "onboard_time": 1711353378,
-      "rank": 21,
       "category": "幽默"
     },
     {
@@ -507,6 +515,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 494816,
+      "num": 494816,
+      "word": "语文就适合晚上考",
+      "onboard_time": 1711353078,
+      "rank": 18,
+      "category": "情感"
+    },
+    {
       "raw_hot": 474764,
       "num": 474764,
       "word": "俄罗斯",
@@ -569,14 +585,6 @@
       "onboard_time": 1711328899,
       "rank": 28,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 427459,
-      "num": 418503,
-      "word": "向佐荧幕初吻给了阿娇",
-      "onboard_time": 1711354159,
-      "rank": 12,
-      "category": "综艺"
     },
     {
       "raw_hot": 416473,
@@ -720,14 +728,6 @@
       "word": "内耗严重要经常默念这几句话",
       "onboard_time": 1711328599,
       "rank": 35,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 342713,
-      "num": 342713,
-      "word": "语文就适合晚上考",
-      "onboard_time": 1711353078,
-      "rank": 18,
       "category": "情感"
     },
     {
@@ -891,20 +891,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 251064,
+      "num": 251064,
+      "word": "何猷君与妈妈合照",
+      "onboard_time": 1711353919,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 249882,
       "num": 249882,
       "word": "百分百出品定档",
       "onboard_time": 1711336519,
       "rank": 31,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 249711,
-      "num": 249711,
-      "word": "何猷君与妈妈合照",
-      "onboard_time": 1711353919,
-      "rank": 25,
-      "category": "艺人"
     },
     {
       "raw_hot": 248787,
@@ -1121,6 +1121,14 @@
       "onboard_time": 1711331718,
       "rank": 33,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 206621,
+      "num": 206621,
+      "word": "离职一年前同事还在问工作问题",
+      "onboard_time": 1711355420,
+      "rank": 26,
+      "category": "幽默"
     },
     {
       "raw_hot": 204533,
@@ -1379,6 +1387,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 178211,
+      "num": 178211,
+      "word": "WTT抽签",
+      "onboard_time": 1711355479,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 177908,
       "num": 177908,
       "word": "4名直接参与俄恐袭的嫌犯被批捕",
@@ -1393,6 +1409,14 @@
       "onboard_time": 1711330159,
       "rank": 35,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 174159,
+      "num": 174159,
+      "word": "射雕逆子",
+      "onboard_time": 1711355479,
+      "rank": 31,
+      "category": "游戏"
     },
     {
       "raw_hot": 172779,
@@ -1491,6 +1515,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 161255,
+      "num": 161255,
+      "word": "公办高中教师招聘薪资1000以下",
+      "onboard_time": 1711355537,
+      "rank": 36,
+      "category": "教育"
+    },
+    {
       "raw_hot": 160849,
       "num": 160849,
       "word": "湖人战胜步行者",
@@ -1512,6 +1544,14 @@
       "word": "大学生已经玩不过老师了",
       "onboard_time": 1711351999,
       "rank": 49,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 158855,
+      "num": 158855,
+      "word": "当我知道朋友一个月工资5千",
+      "onboard_time": 1711355420,
+      "rank": 37,
       "category": "幽默"
     },
     {
@@ -1553,6 +1593,14 @@
       "onboard_time": 1711324939,
       "rank": 44,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 151394,
+      "num": 151394,
+      "word": "ILLIT出道曲",
+      "onboard_time": 1711355119,
+      "rank": 39,
+      "category": "音乐"
     },
     {
       "raw_hot": 151233,
@@ -1713,6 +1761,14 @@
       "onboard_time": 1711292599,
       "rank": 38,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 134137,
+      "num": 134137,
+      "word": "何浩楠 春耕图景vlog",
+      "onboard_time": 1711355479,
+      "rank": 45,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 133272,
@@ -1987,6 +2043,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 28294,
+      "num": 906080,
+      "word": "春种科技范拉满",
+      "onboard_time": 1711338078,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 26675,
       "num": 26675,
       "word": "追风者",
@@ -2001,14 +2065,6 @@
       "onboard_time": 1711282759,
       "rank": 2,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 24109,
-      "num": 898295,
-      "word": "春种科技范拉满",
-      "onboard_time": 1711338078,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 23062,
