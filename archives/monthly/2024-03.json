@@ -1,6 +1,6 @@
 {
   "startTime": 1709223640991,
-  "endTime": 1711379957370,
+  "endTime": 1711380871944,
   "band_list": [
     {
       "raw_hot": 12728050,
@@ -3243,6 +3243,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 1347164,
+      "num": 1347164,
+      "word": "杭州姐姐给了弟弟200元刮中100万",
+      "onboard_time": 1711376180,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1345892,
       "num": 480020,
       "word": "邯郸杀人案嫌犯被带走时神态平静",
@@ -3353,14 +3361,6 @@
       "onboard_time": 1711186880,
       "rank": 3,
       "category": "动漫,作品衍生"
-    },
-    {
-      "raw_hot": 1332045,
-      "num": 1332045,
-      "word": "杭州姐姐给了弟弟200元刮中100万",
-      "onboard_time": 1711376180,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1331742,
@@ -6851,6 +6851,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 917921,
+      "num": 511956,
+      "word": "Angelababy杨超越互夸美甲",
+      "onboard_time": 1711377201,
+      "rank": 27,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 917636,
       "num": 386527,
       "word": "贵人鸟创始人曾是泉州首富",
@@ -6929,14 +6937,6 @@
       "onboard_time": 1711258098,
       "rank": 20,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 912934,
-      "num": 450619,
-      "word": "Angelababy杨超越互夸美甲",
-      "onboard_time": 1711377201,
-      "rank": 27,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 912572,
@@ -8900,7 +8900,7 @@
     },
     {
       "raw_hot": 771699,
-      "num": 440027,
+      "num": 511836,
       "word": "开封王婆身体不适暂别舞台",
       "onboard_time": 1711375519,
       "rank": 31,
@@ -11977,6 +11977,14 @@
       "onboard_time": 1709430449,
       "rank": 7,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 638280,
+      "num": 638280,
+      "word": "安理会首次通过明确要求加沙停火决议",
+      "onboard_time": 1711379658,
+      "rank": 29,
+      "category": "国外时政"
     },
     {
       "raw_hot": 638162,
@@ -15483,6 +15491,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 526647,
+      "num": 526647,
+      "word": "泰国曼谷68元一位的海鲜自助",
+      "onboard_time": 1711375461,
+      "rank": 30,
+      "category": "美食"
+    },
+    {
       "raw_hot": 526480,
       "num": 526480,
       "word": "林诗栋波尔",
@@ -15673,14 +15689,6 @@
       "onboard_time": 1711334839,
       "rank": 13,
       "category": "演出"
-    },
-    {
-      "raw_hot": 522973,
-      "num": 434053,
-      "word": "泰国曼谷68元一位的海鲜自助",
-      "onboard_time": 1711375461,
-      "rank": 30,
-      "category": "美食"
     },
     {
       "raw_hot": 522556,
@@ -16129,6 +16137,14 @@
       "onboard_time": 1711011679,
       "rank": 30,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 509209,
+      "num": 509209,
+      "word": "孙俪背沟好深",
+      "onboard_time": 1711378880,
+      "rank": 18,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 508948,
@@ -20115,6 +20131,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 421216,
+      "num": 421216,
+      "word": "十个勤天的小店",
+      "onboard_time": 1711378400,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 421162,
       "num": 421162,
       "word": "张杰演唱会抢票",
@@ -20457,14 +20481,6 @@
       "onboard_time": 1709442330,
       "rank": 21,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 413791,
-      "num": 413791,
-      "word": "十个勤天的小店",
-      "onboard_time": 1711378400,
-      "rank": 16,
-      "category": "综艺"
     },
     {
       "raw_hot": 413765,
@@ -25411,14 +25427,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 325305,
-      "num": 325305,
-      "word": "孙俪背沟好深",
-      "onboard_time": 1711378880,
-      "rank": 18,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 325183,
       "num": 325183,
       "word": "刘浩存演惠英红奶奶",
@@ -29179,6 +29187,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 279020,
+      "num": 279020,
+      "word": "沈璃小荷 白蛇青蛇",
+      "onboard_time": 1711378759,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 278931,
       "num": 186213,
       "word": "这3个年龄段易断崖式衰老",
@@ -30097,14 +30113,6 @@
       "onboard_time": 1710754470,
       "rank": 33,
       "category": "情感"
-    },
-    {
-      "raw_hot": 269971,
-      "num": 269971,
-      "word": "沈璃小荷 白蛇青蛇",
-      "onboard_time": 1711378759,
-      "rank": 23,
-      "category": "剧集"
     },
     {
       "raw_hot": 269954,
@@ -32611,6 +32619,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 246130,
+      "num": 246130,
+      "word": "7年前考上央美的保安现在怎么样了",
+      "onboard_time": 1711378400,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 246093,
       "num": 246093,
       "word": "王鸥大侦探路透",
@@ -33857,14 +33873,6 @@
       "onboard_time": 1710578494,
       "rank": 23,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 237065,
-      "num": 237065,
-      "word": "7年前考上央美的保安现在怎么样了",
-      "onboard_time": 1711378400,
-      "rank": 26,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 237064,
@@ -38593,14 +38601,6 @@
       "onboard_time": 1710473855,
       "rank": 33,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 209234,
-      "num": 209234,
-      "word": "安理会首次通过明确要求加沙停火决议",
-      "onboard_time": 1711379658,
-      "rank": 29,
-      "category": "国外时政"
     },
     {
       "raw_hot": 209219,
@@ -44379,6 +44379,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 188486,
+      "num": 188486,
+      "word": "与凤行弹幕",
+      "onboard_time": 1711379959,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 188482,
       "num": 177640,
       "word": "亚洲电影大奖",
@@ -45249,6 +45257,14 @@
       "onboard_time": 1710332134,
       "rank": 34,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 184574,
+      "num": 184574,
+      "word": "如何看待中国大学的宿舍制度",
+      "onboard_time": 1711376841,
+      "rank": 46,
+      "category": "教育"
     },
     {
       "raw_hot": 184569,
@@ -47721,14 +47737,6 @@
       "onboard_time": 1710287130,
       "rank": 33,
       "category": "电影"
-    },
-    {
-      "raw_hot": 174461,
-      "num": 174461,
-      "word": "如何看待中国大学的宿舍制度",
-      "onboard_time": 1711376841,
-      "rank": 46,
-      "category": "教育"
     },
     {
       "raw_hot": 174423,
