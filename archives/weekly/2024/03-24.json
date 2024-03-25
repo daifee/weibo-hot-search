@@ -1,6 +1,6 @@
 {
   "startTime": 1711210803824,
-  "endTime": 1711330394650,
+  "endTime": 1711333550670,
   "band_list": [
     {
       "raw_hot": 3435224,
@@ -75,11 +75,27 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1698594,
+      "num": 769555,
+      "word": "江西农村彩礼涨到50万元",
+      "onboard_time": 1711328959,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1622443,
       "num": 1128984,
       "word": "俄罗斯无法判处恐怖分子死刑",
       "onboard_time": 1711324098,
       "rank": 3,
+      "category": "国外时政"
+    },
+    {
+      "raw_hot": 1582912,
+      "num": 1582912,
+      "word": "韩国第一夫人消失100天非常不寻常",
+      "onboard_time": 1711331659,
+      "rank": 0,
       "category": "国外时政"
     },
     {
@@ -491,6 +507,22 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 712647,
+      "num": 712647,
+      "word": "央视曝光湖北部分高标准农田被偷梁换柱",
+      "onboard_time": 1711328360,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 703803,
+      "num": 703803,
+      "word": "张杰骨相",
+      "onboard_time": 1711329138,
+      "rank": 23,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 701868,
       "num": 701868,
       "word": "我们仨",
@@ -659,14 +691,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 578476,
-      "num": 578476,
-      "word": "张杰骨相",
-      "onboard_time": 1711329138,
-      "rank": 23,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 576089,
       "num": 576089,
       "word": "iOS18将采用新的主屏幕",
@@ -705,6 +729,14 @@
       "onboard_time": 1711250838,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 557910,
+      "num": 557910,
+      "word": "1年花380元参加居民医保值不值",
+      "onboard_time": 1711330159,
+      "rank": 38,
+      "category": "财经"
     },
     {
       "raw_hot": 554505,
@@ -761,14 +793,6 @@
       "onboard_time": 1711281138,
       "rank": 6,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 526642,
-      "num": 330502,
-      "word": "江西农村彩礼涨到50万元",
-      "onboard_time": 1711328959,
-      "rank": 36,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 519747,
@@ -1283,6 +1307,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 344562,
+      "num": 307017,
+      "word": "内耗严重要经常默念这几句话",
+      "onboard_time": 1711328599,
+      "rank": 35,
+      "category": "情感"
+    },
+    {
       "raw_hot": 343079,
       "num": 343079,
       "word": "赵本山沈腾北野武同框",
@@ -1305,14 +1337,6 @@
       "onboard_time": 1711193660,
       "rank": 17,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 336164,
-      "num": 336164,
-      "word": "央视曝光湖北部分高标准农田被偷梁换柱",
-      "onboard_time": 1711328360,
-      "rank": 26,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 332920,
@@ -1339,6 +1363,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 330030,
+      "num": 280312,
+      "word": "减肥吃甜玉米还是糯玉米",
+      "onboard_time": 1711332139,
+      "rank": 21,
+      "category": "美食"
+    },
+    {
       "raw_hot": 322737,
       "num": 322737,
       "word": "沈璃被扇",
@@ -1361,14 +1393,6 @@
       "onboard_time": 1711200021,
       "rank": 18,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 307017,
-      "num": 307017,
-      "word": "内耗严重要经常默念这几句话",
-      "onboard_time": 1711328599,
-      "rank": 35,
-      "category": "情感"
     },
     {
       "raw_hot": 305221,
@@ -1499,6 +1523,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 282969,
+      "num": 282969,
+      "word": "这是我的岛",
+      "onboard_time": 1711332319,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 282091,
       "num": 282091,
       "word": "他用三十块钱跟外婆再见了一次",
@@ -1563,6 +1595,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 268863,
+      "num": 268863,
+      "word": "俄男子重返音乐厅撬门救100多人",
+      "onboard_time": 1711332259,
+      "rank": 23,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 265725,
       "num": 265725,
       "word": "拉塞尔退赛",
@@ -1625,6 +1665,14 @@
       "onboard_time": 1711262179,
       "rank": 21,
       "category": "情感"
+    },
+    {
+      "raw_hot": 255691,
+      "num": 255691,
+      "word": "恐袭的4名嫌疑人是塔吉克斯坦公民",
+      "onboard_time": 1711330998,
+      "rank": 24,
+      "category": "国外时政"
     },
     {
       "raw_hot": 255560,
@@ -1915,6 +1963,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 220742,
+      "num": 220742,
+      "word": "快乐男声时期的张杰谢娜",
+      "onboard_time": 1711331119,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 219660,
+      "num": 219660,
+      "word": "A股",
+      "onboard_time": 1711331539,
+      "rank": 30,
+      "category": "财经"
+    },
+    {
       "raw_hot": 219382,
       "num": 219382,
       "word": "这些蔬菜居然比牛奶还补钙",
@@ -1979,12 +2043,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 212844,
+      "num": 212844,
+      "word": "魔卡少女樱 李莓铃",
+      "onboard_time": 1711330816,
+      "rank": 32,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 211100,
       "num": 211100,
       "word": "周也潍坊",
       "onboard_time": 1711271598,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 209169,
+      "num": 209169,
+      "word": "白百何短发照",
+      "onboard_time": 1711331718,
+      "rank": 33,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 208813,
@@ -2211,6 +2291,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 191330,
+      "num": 191330,
+      "word": "这是我的岛线下海岛全员直播",
+      "onboard_time": 1711333159,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 191206,
       "num": 191206,
       "word": "4AM时隔1337天再夺周冠",
@@ -2283,6 +2371,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 184001,
+      "num": 184001,
+      "word": "种地吧",
+      "onboard_time": 1711330638,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 183919,
       "num": 183919,
       "word": "林更新卷毛回来了",
@@ -2337,6 +2433,14 @@
       "onboard_time": 1711265239,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 178901,
+      "num": 178901,
+      "word": "经期不建议做的事",
+      "onboard_time": 1711332920,
+      "rank": 36,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 178484,
@@ -2409,14 +2513,6 @@
       "onboard_time": 1711266917,
       "rank": 40,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 172330,
-      "num": 172330,
-      "word": "1年花380元参加居民医保值不值",
-      "onboard_time": 1711330159,
-      "rank": 38,
-      "category": "财经"
     },
     {
       "raw_hot": 171159,
@@ -2555,6 +2651,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 163247,
+      "num": 163247,
+      "word": "中国黄金门店超九成为加盟门店",
+      "onboard_time": 1711333098,
+      "rank": 38,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 162862,
       "num": 162862,
       "word": "花间令癫成了我想要的样子",
@@ -2673,6 +2777,14 @@
       "onboard_time": 1711279519,
       "rank": 38,
       "category": "数码"
+    },
+    {
+      "raw_hot": 155360,
+      "num": 155360,
+      "word": "云南事业单位 考点",
+      "onboard_time": 1711331958,
+      "rank": 41,
+      "category": "教育"
     },
     {
       "raw_hot": 155266,
@@ -3017,6 +3129,14 @@
       "onboard_time": 1711264639,
       "rank": 46,
       "category": "情感"
+    },
+    {
+      "raw_hot": 133701,
+      "num": 133701,
+      "word": "陈慧琳周传雄记事本回忆杀",
+      "onboard_time": 1711333399,
+      "rank": 43,
+      "category": "音乐"
     },
     {
       "raw_hot": 133468,

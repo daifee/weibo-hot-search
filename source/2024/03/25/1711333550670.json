@@ -1,0 +1,410 @@
+{
+  "runTime": 1711333550670,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1582912,
+        "num": 1582912,
+        "word": "韩国第一夫人消失100天非常不寻常",
+        "onboard_time": 1711331659,
+        "rank": 0,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 898666,
+        "num": 898666,
+        "word": "独游峨眉山失联女生遗体被找到",
+        "onboard_time": 1711323258,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 14902,
+        "num": 776184,
+        "word": "筑牢粮食安全耕基",
+        "onboard_time": 1711282759,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1698594,
+        "num": 769555,
+        "word": "江西农村彩礼涨到50万元",
+        "onboard_time": 1711328959,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 753701,
+        "num": 753701,
+        "word": "俄罗斯无法判处恐怖分子死刑",
+        "onboard_time": 1711324098,
+        "rank": 4,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 750210,
+        "num": 750210,
+        "word": "养老金并轨倒计时",
+        "onboard_time": 1711322237,
+        "rank": 5,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 712647,
+        "num": 712647,
+        "word": "央视曝光湖北部分高标准农田被偷梁换柱",
+        "onboard_time": 1711328360,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 703803,
+        "num": 703803,
+        "word": "张杰骨相",
+        "onboard_time": 1711329138,
+        "rank": 7,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 599619,
+        "num": 599619,
+        "word": "经期真正需要忌口的食物",
+        "onboard_time": 1711292482,
+        "rank": 8,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 557910,
+        "num": 557910,
+        "word": "1年花380元参加居民医保值不值",
+        "onboard_time": 1711330159,
+        "rank": 9,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 653107,
+        "num": 546163,
+        "word": "陈铭",
+        "onboard_time": 1711293444,
+        "rank": 10,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 510482,
+        "num": 510482,
+        "word": "初中生免三考直接读985本科硕士",
+        "onboard_time": 1711327521,
+        "rank": 11,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 391929,
+        "num": 391929,
+        "word": "何超莲赵露思合照",
+        "onboard_time": 1711322596,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 375209,
+        "num": 375209,
+        "word": "国家医保局回应医保缴费标准调整",
+        "onboard_time": 1711328899,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 365882,
+        "num": 365882,
+        "word": "大地磁暴",
+        "onboard_time": 1711323258,
+        "rank": 14,
+        "category": "自然"
+      },
+      {
+        "raw_hot": 321368,
+        "num": 321368,
+        "word": "开车为什么要伸一只手出来",
+        "onboard_time": 1711290561,
+        "rank": 15,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 301285,
+        "num": 301285,
+        "word": "微信朋友圈只发文字的方法",
+        "onboard_time": 1711325182,
+        "rank": 16,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 296770,
+        "num": 296770,
+        "word": "突然发现父母是近亲结婚",
+        "onboard_time": 1711292482,
+        "rank": 17,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 285545,
+        "num": 285545,
+        "word": "赵丽颖晒嘘嘘",
+        "onboard_time": 1711291041,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 282969,
+        "num": 282969,
+        "word": "这是我的岛",
+        "onboard_time": 1711332319,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 344562,
+        "num": 280714,
+        "word": "内耗严重要经常默念这几句话",
+        "onboard_time": 1711328599,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 330030,
+        "num": 280312,
+        "word": "减肥吃甜玉米还是糯玉米",
+        "onboard_time": 1711332139,
+        "rank": 21,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 276768,
+        "num": 276768,
+        "word": "CROCS 王俊凯",
+        "onboard_time": 1711329378,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 268863,
+        "num": 268863,
+        "word": "俄男子重返音乐厅撬门救100多人",
+        "onboard_time": 1711332259,
+        "rank": 23,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 255691,
+        "num": 255691,
+        "word": "恐袭的4名嫌疑人是塔吉克斯坦公民",
+        "onboard_time": 1711330998,
+        "rank": 24,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 250962,
+        "num": 250962,
+        "word": "普京含泪为恐袭遇难者点蜡致哀",
+        "onboard_time": 1711325182,
+        "rank": 25,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 235834,
+        "num": 235834,
+        "word": "眼泪女王 家被偷没了",
+        "onboard_time": 1711289599,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 234345,
+        "num": 234345,
+        "word": "我国基本医保参保覆盖面稳定在95%以上",
+        "onboard_time": 1711327880,
+        "rank": 27,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 228843,
+        "num": 228843,
+        "word": "王勉爆改",
+        "onboard_time": 1711293862,
+        "rank": 28,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 220742,
+        "num": 220742,
+        "word": "快乐男声时期的张杰谢娜",
+        "onboard_time": 1711331119,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 219660,
+        "num": 219660,
+        "word": "A股",
+        "onboard_time": 1711331539,
+        "rank": 30,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 214851,
+        "num": 214851,
+        "word": "我爸看到了我的微信余额",
+        "onboard_time": 1711290621,
+        "rank": 31,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 212844,
+        "num": 212844,
+        "word": "魔卡少女樱 李莓铃",
+        "onboard_time": 1711330816,
+        "rank": 32,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 209169,
+        "num": 209169,
+        "word": "白百何短发照",
+        "onboard_time": 1711331718,
+        "rank": 33,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 191330,
+        "num": 191330,
+        "word": "这是我的岛线下海岛全员直播",
+        "onboard_time": 1711333159,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 184001,
+        "num": 184001,
+        "word": "种地吧",
+        "onboard_time": 1711330638,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 178901,
+        "num": 178901,
+        "word": "经期不建议做的事",
+        "onboard_time": 1711332920,
+        "rank": 36,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 167803,
+        "num": 167803,
+        "word": "刘学义郑合惠子cp感",
+        "onboard_time": 1711297038,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 163247,
+        "num": 163247,
+        "word": "中国黄金门店超九成为加盟门店",
+        "onboard_time": 1711333098,
+        "rank": 38,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 159738,
+        "num": 159738,
+        "word": "一旦开始喝咖啡这辈子就定型了",
+        "onboard_time": 1711322176,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 157063,
+        "num": 157063,
+        "word": "30岁以上真的很难找工作吗",
+        "onboard_time": 1711291221,
+        "rank": 40,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 155360,
+        "num": 155360,
+        "word": "云南事业单位 考点",
+        "onboard_time": 1711331958,
+        "rank": 41,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 139233,
+        "num": 139233,
+        "word": "坠落的审判北大映后主持人道歉",
+        "onboard_time": 1711322777,
+        "rank": 42,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 133701,
+        "num": 133701,
+        "word": "陈慧琳周传雄记事本回忆杀",
+        "onboard_time": 1711333399,
+        "rank": 43,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 130784,
+        "num": 130784,
+        "word": "成都雪山",
+        "onboard_time": 1711327641,
+        "rank": 44,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 129847,
+        "num": 129847,
+        "word": "全红婵世界杯夺金",
+        "onboard_time": 1711322717,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 128965,
+        "num": 128965,
+        "word": "胖东来回应985女生应聘没进面试",
+        "onboard_time": 1711278739,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 128698,
+        "num": 128698,
+        "word": "磁暴会对人类生活产生什么影响",
+        "onboard_time": 1711330098,
+        "rank": 47,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 115715,
+        "num": 115715,
+        "word": "Cindy去走秀了",
+        "onboard_time": 1711298477,
+        "rank": 48,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 114287,
+        "num": 114287,
+        "word": "部分农村大龄男青年因彩礼高结不起婚",
+        "onboard_time": 1711325599,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#循着总书记关切看京津冀交通陆海空之变#"
+    }
+  }
+}
