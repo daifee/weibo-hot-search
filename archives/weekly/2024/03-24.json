@@ -1,6 +1,6 @@
 {
   "startTime": 1711210803824,
-  "endTime": 1711406056959,
+  "endTime": 1711408762264,
   "band_list": [
     {
       "raw_hot": 3435224,
@@ -835,6 +835,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 745823,
+      "num": 745823,
+      "word": "家属回应爷孙被渣土车碾压致死",
+      "onboard_time": 1711381698,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 741997,
       "num": 741997,
       "word": "小林制药公司召回约30万份产品",
@@ -1171,6 +1179,22 @@
       "category": "教育"
     },
     {
+      "raw_hot": 591789,
+      "num": 246130,
+      "word": "7年前考上央美的保安现在怎么样了",
+      "onboard_time": 1711378400,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 586883,
+      "num": 586883,
+      "word": "大姐自制清明果一年只卖20天赚十万",
+      "onboard_time": 1711383376,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 586765,
       "num": 586765,
       "word": "Jessi认出了六年没见的粉丝",
@@ -1387,14 +1411,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 515868,
-      "num": 380550,
-      "word": "家属回应爷孙被渣土车碾压致死",
-      "onboard_time": 1711381698,
-      "rank": 12,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 509945,
       "num": 509945,
       "word": "杨和苏鼻梁",
@@ -1603,6 +1619,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 462254,
+      "num": 462254,
+      "word": "闺蜜合伙盗窃靠反复怀孕育11子躲刑罚",
+      "onboard_time": 1711394531,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 461383,
       "num": 461383,
       "word": "鹿晗淄博",
@@ -1777,6 +1801,14 @@
       "onboard_time": 1711236016,
       "rank": 1,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 417647,
+      "num": 417647,
+      "word": "地磁暴 极光",
+      "onboard_time": 1711387512,
+      "rank": 31,
+      "category": "自然,科学科普"
     },
     {
       "raw_hot": 416639,
@@ -2259,14 +2291,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 307571,
-      "num": 307571,
-      "word": "地磁暴 极光",
-      "onboard_time": 1711387512,
-      "rank": 31,
-      "category": "自然,科学科普"
-    },
-    {
       "raw_hot": 307358,
       "num": 307358,
       "word": "普京宣布24日为俄罗斯全民哀悼日",
@@ -2555,14 +2579,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 269033,
-      "num": 269033,
-      "word": "大姐自制清明果一年只卖20天赚十万",
-      "onboard_time": 1711383376,
-      "rank": 47,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 266032,
       "num": 266032,
       "word": "成毅直播状态",
@@ -2795,14 +2811,6 @@
       "category": "读书作家,作品衍生"
     },
     {
-      "raw_hot": 246130,
-      "num": 246130,
-      "word": "7年前考上央美的保安现在怎么样了",
-      "onboard_time": 1711378400,
-      "rank": 26,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 244668,
       "num": 244668,
       "word": "一旦开始喝咖啡这辈子就定型了",
@@ -3025,6 +3033,14 @@
       "onboard_time": 1711330816,
       "rank": 32,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 232438,
+      "num": 232438,
+      "word": "周扬青浪姐一公上班路透",
+      "onboard_time": 1711397292,
+      "rank": 13,
+      "category": "综艺"
     },
     {
       "raw_hot": 232369,
@@ -3809,14 +3825,6 @@
       "onboard_time": 1711290140,
       "rank": 40,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 189363,
-      "num": 189363,
-      "word": "闺蜜合伙盗窃靠反复怀孕育11子躲刑罚",
-      "onboard_time": 1711394531,
-      "rank": 35,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 188951,
@@ -5579,14 +5587,6 @@
       "category": "动漫,网红"
     },
     {
-      "raw_hot": 103454,
-      "num": 103454,
-      "word": "周扬青浪姐一公上班路透",
-      "onboard_time": 1711397292,
-      "rank": 13,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 102734,
       "num": 102734,
       "word": "赵露思何超欣手挽手",
@@ -5609,6 +5609,14 @@
       "onboard_time": 1711282880,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 90639,
+      "num": 90639,
+      "word": "ILLIT 好听",
+      "onboard_time": 1711408335,
+      "rank": 24,
+      "category": "音乐"
     },
     {
       "raw_hot": 82997,
@@ -5731,6 +5739,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 66520,
+      "num": 66520,
+      "word": "泰国人真的好爱看国产偶像剧",
+      "onboard_time": 1711402331,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 66469,
       "num": 65476,
       "word": "奚梦瑶何猷君牵手走红毯",
@@ -5763,6 +5779,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 54117,
+      "num": 54117,
+      "word": "穿开衫好看的方法",
+      "onboard_time": 1711389793,
+      "rank": 38,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 52437,
       "num": 1328640,
       "word": "春日花海列车美到了心尖上",
@@ -5785,6 +5809,14 @@
       "onboard_time": 1711236194,
       "rank": 42,
       "category": "体育"
+    },
+    {
+      "raw_hot": 49175,
+      "num": 49175,
+      "word": "马思纯化的口红耳妆",
+      "onboard_time": 1711396630,
+      "rank": 45,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 47584,
@@ -5835,6 +5867,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 40813,
+      "num": 40813,
+      "word": "韩女的头包脸发型教程",
+      "onboard_time": 1711391710,
+      "rank": 35,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 39972,
       "num": 47739,
       "word": "为什么我们没有耐心和父母说话",
@@ -5843,12 +5883,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 38973,
+      "num": 40280,
+      "word": "我的国家队生涯最后只画了个点",
+      "onboard_time": 1711399270,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 37612,
       "num": 37612,
       "word": "OMG对战iG",
       "onboard_time": 1711218433,
       "rank": 40,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 36357,
+      "num": 493856,
+      "word": "列车穿越粉色花海如漫画世界",
+      "onboard_time": 1711374020,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 33945,
@@ -5867,12 +5923,12 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 33576,
-      "num": 33576,
-      "word": "泰国人真的好爱看国产偶像剧",
-      "onboard_time": 1711402331,
-      "rank": 33,
-      "category": "剧集"
+      "raw_hot": 33380,
+      "num": 40271,
+      "word": "猫 会不会说点吉利话",
+      "onboard_time": 1711400650,
+      "rank": 44,
+      "category": "幽默"
     },
     {
       "raw_hot": 31298,
@@ -5896,22 +5952,6 @@
       "word": "何杰回应再破国家纪录",
       "onboard_time": 1711275978,
       "rank": 14,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 29935,
-      "num": 28950,
-      "word": "穿开衫好看的方法",
-      "onboard_time": 1711389793,
-      "rank": 38,
-      "category": "时尚"
-    },
-    {
-      "raw_hot": 29592,
-      "num": 27915,
-      "word": "我的国家队生涯最后只画了个点",
-      "onboard_time": 1711399270,
-      "rank": 30,
       "category": "体育"
     },
     {
@@ -5987,28 +6027,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 22089,
-      "num": 22089,
-      "word": "猫 会不会说点吉利话",
-      "onboard_time": 1711400650,
-      "rank": 44,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 21576,
       "num": 21576,
       "word": "大地磁暴碰上满月",
       "onboard_time": 1711394351,
       "rank": 41,
       "category": "自然,科学科普"
-    },
-    {
-      "raw_hot": 20297,
-      "num": 20810,
-      "word": "韩女的头包脸发型教程",
-      "onboard_time": 1711391710,
-      "rank": 35,
-      "category": "美妆"
     },
     {
       "raw_hot": 20066,
@@ -6041,14 +6065,6 @@
       "onboard_time": 1711226052,
       "rank": 49,
       "category": "美食"
-    },
-    {
-      "raw_hot": 17770,
-      "num": 20791,
-      "word": "马思纯化的口红耳妆",
-      "onboard_time": 1711396630,
-      "rank": 45,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 16517,
