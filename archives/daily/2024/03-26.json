@@ -1,6 +1,6 @@
 {
   "startTime": 1711383717224,
-  "endTime": 1711390957359,
+  "endTime": 1711391663558,
   "band_list": [
     {
       "raw_hot": 881618,
@@ -115,6 +115,14 @@
       "category": "读书作家,作品衍生"
     },
     {
+      "raw_hot": 307571,
+      "num": 307571,
+      "word": "地磁暴 极光",
+      "onboard_time": 1711387512,
+      "rank": 31,
+      "category": "自然,科学科普"
+    },
+    {
       "raw_hot": 299906,
       "num": 299906,
       "word": "十个勤天的小店",
@@ -137,14 +145,6 @@
       "onboard_time": 1711371198,
       "rank": 17,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 287282,
-      "num": 287282,
-      "word": "地磁暴 极光",
-      "onboard_time": 1711387512,
-      "rank": 31,
-      "category": "自然,科学科普"
     },
     {
       "raw_hot": 285780,
