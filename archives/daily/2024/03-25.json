@@ -1,10 +1,10 @@
 {
   "startTime": 1711297217204,
-  "endTime": 1711334215648,
+  "endTime": 1711336831786,
   "band_list": [
     {
-      "raw_hot": 2299749,
-      "num": 2299749,
+      "raw_hot": 2474722,
+      "num": 2474722,
       "word": "韩国第一夫人消失100天非常不寻常",
       "onboard_time": 1711331659,
       "rank": 0,
@@ -75,6 +75,14 @@
       "category": "自然"
     },
     {
+      "raw_hot": 947408,
+      "num": 947408,
+      "word": "锦超躲李菲儿",
+      "onboard_time": 1711334540,
+      "rank": 1,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 801877,
       "num": 801877,
       "word": "何超莲赵露思合照",
@@ -115,8 +123,16 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 677400,
-      "num": 677400,
+      "raw_hot": 689134,
+      "num": 689134,
+      "word": "俄男子重返音乐厅撬门救100多人",
+      "onboard_time": 1711332259,
+      "rank": 23,
+      "category": "国外时政"
+    },
+    {
+      "raw_hot": 685666,
+      "num": 685666,
       "word": "1年花380元参加居民医保值不值",
       "onboard_time": 1711330159,
       "rank": 38,
@@ -195,6 +211,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 521424,
+      "num": 299875,
+      "word": "正在伤害卵巢的6个习惯",
+      "onboard_time": 1711333878,
+      "rank": 30,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 519747,
       "num": 519747,
       "word": "24岁女子跳河轻生被救家属转1000元感谢",
@@ -209,6 +233,14 @@
       "onboard_time": 1711325599,
       "rank": 13,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 455890,
+      "num": 296871,
+      "word": "减肥吃甜玉米还是糯玉米",
+      "onboard_time": 1711332139,
+      "rank": 21,
+      "category": "美食"
     },
     {
       "raw_hot": 454964,
@@ -267,12 +299,12 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 391054,
-      "num": 291923,
-      "word": "减肥吃甜玉米还是糯玉米",
-      "onboard_time": 1711332139,
-      "rank": 21,
-      "category": "美食"
+      "raw_hot": 373899,
+      "num": 345440,
+      "word": "张杰40岁的腰",
+      "onboard_time": 1711334839,
+      "rank": 13,
+      "category": "演出"
     },
     {
       "raw_hot": 366783,
@@ -323,20 +355,20 @@
       "category": "情感"
     },
     {
+      "raw_hot": 331727,
+      "num": 331727,
+      "word": "宋亚轩新歌词曲邹沛沛",
+      "onboard_time": 1711334599,
+      "rank": 17,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 322737,
       "num": 322737,
       "word": "沈璃被扇",
       "onboard_time": 1711293320,
       "rank": 16,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 318718,
-      "num": 318718,
-      "word": "俄男子重返音乐厅撬门救100多人",
-      "onboard_time": 1711332259,
-      "rank": 23,
-      "category": "国外时政"
     },
     {
       "raw_hot": 318463,
@@ -371,6 +403,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 285660,
+      "num": 285660,
+      "word": "发现刘亦菲是表姑的侄女",
+      "onboard_time": 1711336759,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 273506,
       "num": 255992,
       "word": "猪身上3个最脏的地方千万别吃",
@@ -385,6 +425,14 @@
       "onboard_time": 1711292842,
       "rank": 18,
       "category": "情感"
+    },
+    {
+      "raw_hot": 259081,
+      "num": 259081,
+      "word": "小米SU7在门店开启静态展示",
+      "onboard_time": 1711335379,
+      "rank": 23,
+      "category": "汽车"
     },
     {
       "raw_hot": 255691,
@@ -409,14 +457,6 @@
       "onboard_time": 1711327641,
       "rank": 24,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 245862,
-      "num": 217289,
-      "word": "正在伤害卵巢的6个习惯",
-      "onboard_time": 1711333878,
-      "rank": 30,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 244668,
@@ -449,6 +489,14 @@
       "onboard_time": 1711330816,
       "rank": 32,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 230177,
+      "num": 332590,
+      "word": "霸王茶姬获首批营养分级标识",
+      "onboard_time": 1711333878,
+      "rank": 37,
+      "category": "美食"
     },
     {
       "raw_hot": 229269,
@@ -507,12 +555,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 217078,
+      "num": 217078,
+      "word": "李旻浩开通个人ins",
+      "onboard_time": 1711335918,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 211751,
       "num": 211751,
       "word": "地磁暴",
       "onboard_time": 1711288520,
       "rank": 27,
       "category": "自然"
+    },
+    {
+      "raw_hot": 209267,
+      "num": 209267,
+      "word": "俄罗斯",
+      "onboard_time": 1711336640,
+      "rank": 29,
+      "category": "国外时政"
     },
     {
       "raw_hot": 209169,
@@ -528,6 +592,22 @@
       "word": "这是我的岛线下海岛全员直播",
       "onboard_time": 1711333159,
       "rank": 34,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 201891,
+      "num": 201891,
+      "word": "檀健次滤镜杀青",
+      "onboard_time": 1711336099,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 198648,
+      "num": 198648,
+      "word": "百分百出品定档",
+      "onboard_time": 1711336519,
+      "rank": 31,
       "category": "综艺"
     },
     {
@@ -555,6 +635,14 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 193042,
+      "num": 193042,
+      "word": "马英九将率台湾青年来大陆交流参访",
+      "onboard_time": 1711336519,
+      "rank": 34,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 192187,
       "num": 192187,
       "word": "早醒第一件事",
@@ -569,6 +657,14 @@
       "onboard_time": 1711330638,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 191156,
+      "num": 191156,
+      "word": "俄全国哀悼日克里姆林宫降半旗",
+      "onboard_time": 1711336519,
+      "rank": 35,
+      "category": "国外时政"
     },
     {
       "raw_hot": 188432,
@@ -619,6 +715,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 171131,
+      "num": 171131,
+      "word": "舞剧红楼梦抢票",
+      "onboard_time": 1711335139,
+      "rank": 37,
+      "category": "演出"
+    },
+    {
       "raw_hot": 168961,
       "num": 168961,
       "word": "俄罗斯恐怖袭击",
@@ -627,20 +731,20 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 164474,
+      "num": 164474,
+      "word": "我们宿舍真是最懂相互尊重了",
+      "onboard_time": 1711333819,
+      "rank": 44,
+      "category": "情感"
+    },
+    {
       "raw_hot": 162688,
       "num": 162688,
       "word": "陈慧琳周传雄记事本回忆杀",
       "onboard_time": 1711333399,
       "rank": 43,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 157704,
-      "num": 191620,
-      "word": "霸王茶姬获首批营养分级标识",
-      "onboard_time": 1711333878,
-      "rank": 37,
-      "category": "美食"
     },
     {
       "raw_hot": 155360,
@@ -699,20 +803,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 146975,
+      "num": 146975,
+      "word": "石头赶路 目前是待业",
+      "onboard_time": 1711334959,
+      "rank": 43,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 145124,
       "num": 145124,
       "word": "行止掉马甲了",
       "onboard_time": 1711327341,
       "rank": 47,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 141002,
-      "num": 141002,
-      "word": "我们宿舍真是最懂相互尊重了",
-      "onboard_time": 1711333819,
-      "rank": 44,
-      "category": "情感"
     },
     {
       "raw_hot": 140951,
@@ -761,6 +865,14 @@
       "onboard_time": 1711292121,
       "rank": 40,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 123885,
+      "num": 123885,
+      "word": "减肥的心拗不过爱吃的嘴",
+      "onboard_time": 1711334839,
+      "rank": 48,
+      "category": "情感"
     },
     {
       "raw_hot": 121080,
