@@ -1,6 +1,6 @@
 {
   "startTime": 1711383717224,
-  "endTime": 1711408762264,
+  "endTime": 1711409668253,
   "band_list": [
     {
       "raw_hot": 881618,
@@ -8,6 +8,14 @@
       "word": "杭州姐姐给了弟弟200元刮中100万",
       "onboard_time": 1711376180,
       "rank": 0,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 773012,
+      "num": 773012,
+      "word": "家属回应爷孙被渣土车碾压致死",
+      "onboard_time": 1711381698,
+      "rank": 12,
       "category": "社会新闻"
     },
     {
@@ -19,24 +27,16 @@
       "category": "互联网,网红"
     },
     {
-      "raw_hot": 745823,
-      "num": 745823,
-      "word": "家属回应爷孙被渣土车碾压致死",
-      "onboard_time": 1711381698,
-      "rank": 12,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 591789,
-      "num": 201323,
+      "raw_hot": 683052,
+      "num": 229311,
       "word": "7年前考上央美的保安现在怎么样了",
       "onboard_time": 1711378400,
       "rank": 20,
       "category": "社会新闻"
     },
     {
-      "raw_hot": 586883,
-      "num": 586883,
+      "raw_hot": 610982,
+      "num": 610982,
       "word": "大姐自制清明果一年只卖20天赚十万",
       "onboard_time": 1711383376,
       "rank": 47,
@@ -57,6 +57,22 @@
       "onboard_time": 1711367419,
       "rank": 1,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 545443,
+      "num": 545443,
+      "word": "闺蜜合伙盗窃靠反复怀孕育11子躲刑罚",
+      "onboard_time": 1711394531,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 526689,
+      "num": 526689,
+      "word": "地磁暴 极光",
+      "onboard_time": 1711387512,
+      "rank": 31,
+      "category": "自然,科学科普"
     },
     {
       "raw_hot": 516862,
@@ -83,14 +99,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 462254,
-      "num": 462254,
-      "word": "闺蜜合伙盗窃靠反复怀孕育11子躲刑罚",
-      "onboard_time": 1711394531,
-      "rank": 35,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 461696,
       "num": 461696,
       "word": "泰国曼谷68元一位的海鲜自助",
@@ -113,14 +121,6 @@
       "onboard_time": 1711378880,
       "rank": 9,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 417647,
-      "num": 417647,
-      "word": "地磁暴 极光",
-      "onboard_time": 1711387512,
-      "rank": 31,
-      "category": "自然,科学科普"
     },
     {
       "raw_hot": 397915,
@@ -147,6 +147,14 @@
       "category": "读书作家,作品衍生"
     },
     {
+      "raw_hot": 320512,
+      "num": 320512,
+      "word": "周扬青浪姐一公上班路透",
+      "onboard_time": 1711397292,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 299906,
       "num": 299906,
       "word": "十个勤天的小店",
@@ -161,6 +169,14 @@
       "onboard_time": 1711369099,
       "rank": 16,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 290672,
+      "num": 219546,
+      "word": "天水麻辣烫把锅煮烂了",
+      "onboard_time": 1711408755,
+      "rank": 11,
+      "category": "美食"
     },
     {
       "raw_hot": 288051,
@@ -179,20 +195,20 @@
       "category": "美食"
     },
     {
-      "raw_hot": 232438,
-      "num": 232438,
-      "word": "周扬青浪姐一公上班路透",
-      "onboard_time": 1711397292,
-      "rank": 13,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 204602,
-      "num": 204602,
+      "raw_hot": 232306,
+      "num": 232306,
       "word": "威廉凯特计划带孩子复活节外出",
       "onboard_time": 1711374739,
       "rank": 26,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 214495,
+      "num": 200880,
+      "word": "断崖式衰老发生在几岁",
+      "onboard_time": 1711373180,
+      "rank": 21,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 201474,
@@ -201,14 +217,6 @@
       "onboard_time": 1711364899,
       "rank": 19,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 200880,
-      "num": 200880,
-      "word": "断崖式衰老发生在几岁",
-      "onboard_time": 1711373180,
-      "rank": 21,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 185187,
@@ -267,6 +275,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 138956,
+      "num": 138956,
+      "word": "十个勤天",
+      "onboard_time": 1711409176,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 138754,
       "num": 138754,
       "word": "strong哥",
@@ -283,12 +299,28 @@
       "category": "教育"
     },
     {
+      "raw_hot": 134518,
+      "num": 134518,
+      "word": "ILLIT出道曲一股子鲸味",
+      "onboard_time": 1711409176,
+      "rank": 23,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 127578,
       "num": 127578,
       "word": "如何看待中国大学的宿舍制度",
       "onboard_time": 1711376841,
       "rank": 31,
       "category": "教育"
+    },
+    {
+      "raw_hot": 125624,
+      "num": 125624,
+      "word": "这种海鲜吃一口就有6000条寄生虫",
+      "onboard_time": 1711365678,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 120596,
@@ -307,20 +339,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 115004,
-      "num": 115004,
-      "word": "这种海鲜吃一口就有6000条寄生虫",
-      "onboard_time": 1711365678,
-      "rank": 34,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 114619,
       "num": 114619,
       "word": "摩羯座寡淡的原因",
       "onboard_time": 1711366577,
       "rank": 35,
       "category": "情感"
+    },
+    {
+      "raw_hot": 106290,
+      "num": 106290,
+      "word": "我的相亲对象是母单系列",
+      "onboard_time": 1711373720,
+      "rank": 44,
+      "category": "幽默"
     },
     {
       "raw_hot": 102734,
@@ -339,12 +371,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 99393,
+      "num": 99393,
+      "word": "苹果官网鼓励升级到iPhone15",
+      "onboard_time": 1711409415,
+      "rank": 28,
+      "category": "数码"
+    },
+    {
       "raw_hot": 96394,
       "num": 96394,
       "word": "与凤行预告",
       "onboard_time": 1711376841,
       "rank": 39,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 95280,
+      "num": 95280,
+      "word": "ILLIT 好听",
+      "onboard_time": 1711408335,
+      "rank": 24,
+      "category": "音乐"
     },
     {
       "raw_hot": 92902,
@@ -371,14 +419,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 90639,
-      "num": 90639,
-      "word": "ILLIT 好听",
-      "onboard_time": 1711408335,
-      "rank": 24,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 87775,
       "num": 87775,
       "word": "minju直拍",
@@ -387,12 +427,20 @@
       "category": "演出"
     },
     {
-      "raw_hot": 84662,
-      "num": 84662,
-      "word": "我的相亲对象是母单系列",
-      "onboard_time": 1711373720,
-      "rank": 44,
-      "category": "幽默"
+      "raw_hot": 84800,
+      "num": 84800,
+      "word": "李在明质问尹锡悦政府为何招惹中国",
+      "onboard_time": 1711409356,
+      "rank": 32,
+      "category": "国外时政"
+    },
+    {
+      "raw_hot": 83798,
+      "num": 83798,
+      "word": "香奈儿被曝再涨价",
+      "onboard_time": 1711409176,
+      "rank": 34,
+      "category": "时尚"
     },
     {
       "raw_hot": 83042,
@@ -419,11 +467,27 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 78918,
+      "num": 78918,
+      "word": "小伙与女友相恋十年婚期前2月却退婚",
+      "onboard_time": 1711409055,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 78408,
       "num": 78408,
       "word": "花间令 默念17遍名字召唤心上人",
       "onboard_time": 1711383437,
       "rank": 48,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 76917,
+      "num": 76917,
+      "word": "泰国人真的好爱看国产偶像剧",
+      "onboard_time": 1711402331,
+      "rank": 33,
       "category": "剧集"
     },
     {
@@ -435,12 +499,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 66520,
-      "num": 66520,
-      "word": "泰国人真的好爱看国产偶像剧",
-      "onboard_time": 1711402331,
-      "rank": 33,
-      "category": "剧集"
+      "raw_hot": 68194,
+      "num": 68194,
+      "word": "穿开衫好看的方法",
+      "onboard_time": 1711389793,
+      "rank": 38,
+      "category": "时尚"
+    },
+    {
+      "raw_hot": 63419,
+      "num": 63419,
+      "word": "人体身上看不见的条纹",
+      "onboard_time": 1711409116,
+      "rank": 45,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 60389,
@@ -451,20 +523,28 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 54117,
-      "num": 54117,
-      "word": "穿开衫好看的方法",
-      "onboard_time": 1711389793,
-      "rank": 38,
-      "category": "时尚"
-    },
-    {
-      "raw_hot": 52921,
-      "num": 52077,
+      "raw_hot": 54346,
+      "num": 54346,
       "word": "终于有剧吐槽嘴对嘴喂药了",
       "onboard_time": 1711372339,
       "rank": 25,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 54139,
+      "num": 576868,
+      "word": "列车穿越粉色花海如漫画世界",
+      "onboard_time": 1711374020,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 52024,
+      "num": 52024,
+      "word": "俄罗斯民众为恐袭遇难儿童送上玩偶",
+      "onboard_time": 1711409656,
+      "rank": 49,
+      "category": "国外时政"
     },
     {
       "raw_hot": 50835,
@@ -521,14 +601,6 @@
       "onboard_time": 1711399270,
       "rank": 30,
       "category": "体育"
-    },
-    {
-      "raw_hot": 36357,
-      "num": 493856,
-      "word": "列车穿越粉色花海如漫画世界",
-      "onboard_time": 1711374020,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 33865,
