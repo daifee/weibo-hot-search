@@ -1,6 +1,6 @@
 {
   "startTime": 1711297217204,
-  "endTime": 1711358266843,
+  "endTime": 1711359262915,
   "band_list": [
     {
       "raw_hot": 3117943,
@@ -75,6 +75,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1441516,
+      "num": 1441516,
+      "word": "公办高中教师招聘薪资1000以下",
+      "onboard_time": 1711355537,
+      "rank": 36,
+      "category": "教育"
+    },
+    {
       "raw_hot": 1425933,
       "num": 1425933,
       "word": "林更新退出九亿梦影视公司",
@@ -124,7 +132,7 @@
     },
     {
       "raw_hot": 1157780,
-      "num": 827402,
+      "num": 977096,
       "word": "翟欣欣或将获刑10年以上",
       "onboard_time": 1711355779,
       "rank": 3,
@@ -163,20 +171,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 1091758,
-      "num": 1091758,
-      "word": "公办高中教师招聘薪资1000以下",
-      "onboard_time": 1711355537,
-      "rank": 36,
-      "category": "教育"
-    },
-    {
       "raw_hot": 1072025,
       "num": 1072025,
       "word": "多校呼吁毕业生不要只盯着考研考公",
       "onboard_time": 1711344798,
       "rank": 46,
       "category": "教育"
+    },
+    {
+      "raw_hot": 1036913,
+      "num": 1036913,
+      "word": "UP主吐槽B站装修综艺令其损失百万",
+      "onboard_time": 1711356378,
+      "rank": 5,
+      "category": "综艺"
     },
     {
       "raw_hot": 1033159,
@@ -235,6 +243,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 813868,
+      "num": 813868,
+      "word": "外交部回应中国籍邮轮遭胡塞武装袭击",
+      "onboard_time": 1711357219,
+      "rank": 12,
+      "category": "国内时政,军事"
+    },
+    {
       "raw_hot": 809214,
       "num": 298671,
       "word": "肛肠科待久了对帅哥都无感了",
@@ -249,14 +265,6 @@
       "onboard_time": 1711322596,
       "rank": 25,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 783150,
-      "num": 783150,
-      "word": "UP主吐槽B站装修综艺令其损失百万",
-      "onboard_time": 1711356378,
-      "rank": 5,
-      "category": "综艺"
     },
     {
       "raw_hot": 777203,
@@ -443,6 +451,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 559025,
+      "num": 296093,
+      "word": "女子为饿死肿瘤节食暴瘦44斤",
+      "onboard_time": 1711355897,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 558702,
       "num": 558702,
       "word": "胖东来回应985女生应聘没进面试",
@@ -473,14 +489,6 @@
       "onboard_time": 1711292181,
       "rank": 12,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 536909,
-      "num": 296093,
-      "word": "女子为饿死肿瘤节食暴瘦44斤",
-      "onboard_time": 1711355897,
-      "rank": 21,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 528167,
@@ -619,14 +627,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 427178,
-      "num": 427178,
-      "word": "外交部回应中国籍邮轮遭胡塞武装袭击",
-      "onboard_time": 1711357219,
-      "rank": 12,
-      "category": "国内时政,军事"
-    },
-    {
       "raw_hot": 416473,
       "num": 416473,
       "word": "俄恐袭嫌犯如罪名成立将面临终身监禁",
@@ -641,6 +641,22 @@
       "onboard_time": 1711296079,
       "rank": 14,
       "category": "网红"
+    },
+    {
+      "raw_hot": 407897,
+      "num": 407897,
+      "word": "王一博原声台词被文旅刷屏",
+      "onboard_time": 1711357640,
+      "rank": 14,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 407224,
+      "num": 407224,
+      "word": "十年后我登上了爱情公寓网",
+      "onboard_time": 1711356259,
+      "rank": 13,
+      "category": "剧集"
     },
     {
       "raw_hot": 396027,
@@ -699,14 +715,6 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 378551,
-      "num": 378551,
-      "word": "十年后我登上了爱情公寓网",
-      "onboard_time": 1711356259,
-      "rank": 13,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 366783,
       "num": 308458,
       "word": "Cindy去走秀了",
@@ -739,12 +747,12 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 354458,
-      "num": 354458,
-      "word": "王一博原声台词被文旅刷屏",
-      "onboard_time": 1711357640,
-      "rank": 14,
-      "category": "剧集"
+      "raw_hot": 355157,
+      "num": 355157,
+      "word": "ILLIT出道曲",
+      "onboard_time": 1711355119,
+      "rank": 39,
+      "category": "音乐"
     },
     {
       "raw_hot": 352689,
@@ -753,14 +761,6 @@
       "onboard_time": 1711341080,
       "rank": 45,
       "category": "情感"
-    },
-    {
-      "raw_hot": 352066,
-      "num": 352066,
-      "word": "ILLIT出道曲",
-      "onboard_time": 1711355119,
-      "rank": 39,
-      "category": "音乐"
     },
     {
       "raw_hot": 348801,
@@ -899,6 +899,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 295319,
+      "num": 258742,
+      "word": "每天跑步五公里会瘦吗",
+      "onboard_time": 1711357098,
+      "rank": 27,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 291795,
       "num": 291795,
       "word": "频繁聊天可以让你喜欢对方吗",
@@ -921,6 +929,14 @@
       "onboard_time": 1711349298,
       "rank": 24,
       "category": "情感"
+    },
+    {
+      "raw_hot": 278670,
+      "num": 258701,
+      "word": "离职一年前同事还在问工作问题",
+      "onboard_time": 1711355420,
+      "rank": 26,
+      "category": "幽默"
     },
     {
       "raw_hot": 273506,
@@ -955,14 +971,6 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 256262,
-      "num": 256262,
-      "word": "每天跑步五公里会瘦吗",
-      "onboard_time": 1711357098,
-      "rank": 27,
-      "category": "运动健身"
-    },
-    {
       "raw_hot": 255691,
       "num": 255691,
       "word": "恐袭的4名嫌疑人是塔吉克斯坦公民",
@@ -979,12 +987,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 253572,
-      "num": 253572,
-      "word": "离职一年前同事还在问工作问题",
-      "onboard_time": 1711355420,
-      "rank": 26,
-      "category": "幽默"
+      "raw_hot": 251298,
+      "num": 251298,
+      "word": "ILLIT正式出道",
+      "onboard_time": 1711341981,
+      "rank": 42,
+      "category": "音乐"
     },
     {
       "raw_hot": 251064,
@@ -1057,6 +1065,22 @@
       "onboard_time": 1711337539,
       "rank": 46,
       "category": "情感"
+    },
+    {
+      "raw_hot": 236591,
+      "num": 236591,
+      "word": "当我知道朋友一个月工资5千",
+      "onboard_time": 1711355420,
+      "rank": 37,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 234848,
+      "num": 234848,
+      "word": "冰雹",
+      "onboard_time": 1711358898,
+      "rank": 27,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 233830,
@@ -1145,14 +1169,6 @@
       "onboard_time": 1711267638,
       "rank": 26,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 220729,
-      "num": 220729,
-      "word": "当我知道朋友一个月工资5千",
-      "onboard_time": 1711355420,
-      "rank": 37,
-      "category": "幽默"
     },
     {
       "raw_hot": 219402,
@@ -1249,6 +1265,14 @@
       "onboard_time": 1711350138,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 203099,
+      "num": 203099,
+      "word": "给猫剃毛剃到一半没电了",
+      "onboard_time": 1711358360,
+      "rank": 31,
+      "category": "幽默"
     },
     {
       "raw_hot": 202958,
@@ -1475,6 +1499,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 183752,
+      "num": 183752,
+      "word": "对象点菜之前总是查团购",
+      "onboard_time": 1711358719,
+      "rank": 33,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 183673,
       "num": 183673,
       "word": "关晓彤录制这是我的岛",
@@ -1545,6 +1577,14 @@
       "onboard_time": 1711355479,
       "rank": 31,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 174669,
+      "num": 174669,
+      "word": "国产蓝莓单盒降至9元以下",
+      "onboard_time": 1711359019,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 173265,
@@ -1683,14 +1723,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 155175,
-      "num": 155175,
-      "word": "ILLIT正式出道",
-      "onboard_time": 1711341981,
-      "rank": 42,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 154973,
       "num": 154973,
       "word": "余华真的好会比喻",
@@ -1747,6 +1779,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 148074,
+      "num": 997388,
+      "word": "这个超级工程用到了海上巨型滑梯",
+      "onboard_time": 1711356498,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 147333,
       "num": 147333,
       "word": "于适宽肩",
@@ -1761,6 +1801,14 @@
       "onboard_time": 1711334959,
       "rank": 43,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 146973,
+      "num": 146973,
+      "word": "ILLIT出道新闻图",
+      "onboard_time": 1711358840,
+      "rank": 43,
+      "category": "艺人"
     },
     {
       "raw_hot": 145124,
@@ -1801,6 +1849,14 @@
       "onboard_time": 1711348040,
       "rank": 41,
       "category": "演出"
+    },
+    {
+      "raw_hot": 143952,
+      "num": 143952,
+      "word": "郭靖杨康世纪大战",
+      "onboard_time": 1711358958,
+      "rank": 44,
+      "category": "游戏"
     },
     {
       "raw_hot": 143335,
@@ -1921,14 +1977,6 @@
       "onboard_time": 1711334839,
       "rank": 48,
       "category": "情感"
-    },
-    {
-      "raw_hot": 123069,
-      "num": 852145,
-      "word": "这个超级工程用到了海上巨型滑梯",
-      "onboard_time": 1711356498,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 121080,
