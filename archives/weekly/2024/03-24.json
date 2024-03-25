@@ -1,6 +1,6 @@
 {
   "startTime": 1711210803824,
-  "endTime": 1711388053180,
+  "endTime": 1711390957359,
   "band_list": [
     {
       "raw_hot": 3435224,
@@ -2417,6 +2417,14 @@
       "onboard_time": 1711359019,
       "rank": 37,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 287282,
+      "num": 287282,
+      "word": "地磁暴 极光",
+      "onboard_time": 1711387512,
+      "rank": 31,
+      "category": "自然,科学科普"
     },
     {
       "raw_hot": 286308,
@@ -5739,14 +5747,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 54620,
-      "num": 54620,
-      "word": "地磁暴 极光",
-      "onboard_time": 1711387512,
-      "rank": 31,
-      "category": "自然,科学科普"
-    },
-    {
       "raw_hot": 52437,
       "num": 1328640,
       "word": "春日花海列车美到了心尖上",
@@ -5843,6 +5843,22 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 31298,
+      "num": 31298,
+      "word": "地租新闻图",
+      "onboard_time": 1711390214,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 31236,
+      "num": 31236,
+      "word": "杨采薇素衣撑伞",
+      "onboard_time": 1711388472,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 30449,
       "num": 414659,
       "word": "何杰回应再破国家纪录",
@@ -5867,6 +5883,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 27392,
+      "num": 27392,
+      "word": "穿开衫好看的方法",
+      "onboard_time": 1711389793,
+      "rank": 38,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 26835,
       "num": 26835,
       "word": "陈楚生苏州演唱会",
@@ -5883,12 +5907,28 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 26529,
+      "num": 26529,
+      "word": "坠落的审判 翻译",
+      "onboard_time": 1711388952,
+      "rank": 42,
+      "category": "电影"
+    },
+    {
       "raw_hot": 23590,
       "num": 173890,
       "word": "这场秀是在演我的精神状态吗",
       "onboard_time": 1711369819,
       "rank": 49,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 23446,
+      "num": 23446,
+      "word": "鞠婧祎红绳低马尾",
+      "onboard_time": 1711390632,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 23062,

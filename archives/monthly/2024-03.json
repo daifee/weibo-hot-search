@@ -1,6 +1,6 @@
 {
   "startTime": 1709223640991,
-  "endTime": 1711388053180,
+  "endTime": 1711390957359,
   "band_list": [
     {
       "raw_hot": 12728050,
@@ -28537,6 +28537,14 @@
       "onboard_time": 1709874272,
       "rank": 20,
       "category": "演出"
+    },
+    {
+      "raw_hot": 287282,
+      "num": 287282,
+      "word": "地磁暴 极光",
+      "onboard_time": 1711387512,
+      "rank": 31,
+      "category": "自然,科学科普"
     },
     {
       "raw_hot": 287276,
@@ -68955,14 +68963,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 54620,
-      "num": 54620,
-      "word": "地磁暴 极光",
-      "onboard_time": 1711387512,
-      "rank": 31,
-      "category": "自然,科学科普"
-    },
-    {
       "raw_hot": 54438,
       "num": 54438,
       "word": "身体5个表现可能是肝病了",
@@ -70347,6 +70347,22 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 31298,
+      "num": 31298,
+      "word": "地租新闻图",
+      "onboard_time": 1711390214,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 31236,
+      "num": 31236,
+      "word": "杨采薇素衣撑伞",
+      "onboard_time": 1711388472,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 31208,
       "num": 45701,
       "word": "两会学习笔记",
@@ -70555,6 +70571,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 27392,
+      "num": 27392,
+      "word": "穿开衫好看的方法",
+      "onboard_time": 1711389793,
+      "rank": 38,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 27084,
       "num": 33592,
       "word": "有一种叫云南的生活",
@@ -70617,6 +70641,14 @@
       "onboard_time": 1711282759,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 26529,
+      "num": 26529,
+      "word": "坠落的审判 翻译",
+      "onboard_time": 1711388952,
+      "rank": 42,
+      "category": "电影"
     },
     {
       "raw_hot": 26148,
@@ -70761,6 +70793,14 @@
       "onboard_time": 1711369819,
       "rank": 49,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 23446,
+      "num": 23446,
+      "word": "鞠婧祎红绳低马尾",
+      "onboard_time": 1711390632,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 23254,

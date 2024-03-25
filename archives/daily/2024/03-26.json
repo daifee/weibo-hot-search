@@ -1,6 +1,6 @@
 {
   "startTime": 1711383717224,
-  "endTime": 1711388053180,
+  "endTime": 1711390957359,
   "band_list": [
     {
       "raw_hot": 881618,
@@ -137,6 +137,14 @@
       "onboard_time": 1711371198,
       "rank": 17,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 287282,
+      "num": 287282,
+      "word": "地磁暴 极光",
+      "onboard_time": 1711387512,
+      "rank": 31,
+      "category": "自然,科学科普"
     },
     {
       "raw_hot": 285780,
@@ -411,14 +419,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 54620,
-      "num": 54620,
-      "word": "地磁暴 极光",
-      "onboard_time": 1711387512,
-      "rank": 31,
-      "category": "自然,科学科普"
-    },
-    {
       "raw_hot": 50835,
       "num": 50835,
       "word": "坠落的审判导演接受女性主义者标签",
@@ -443,12 +443,60 @@
       "category": "读书作家,作品衍生"
     },
     {
+      "raw_hot": 35041,
+      "num": 35041,
+      "word": "终于有剧吐槽嘴对嘴喂药了",
+      "onboard_time": 1711372339,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 33865,
       "num": 33865,
       "word": "WE对战UP",
       "onboard_time": 1711387992,
       "rank": 49,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 31298,
+      "num": 31298,
+      "word": "地租新闻图",
+      "onboard_time": 1711390214,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 31236,
+      "num": 31236,
+      "word": "杨采薇素衣撑伞",
+      "onboard_time": 1711388472,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 27392,
+      "num": 27392,
+      "word": "穿开衫好看的方法",
+      "onboard_time": 1711389793,
+      "rank": 38,
+      "category": "时尚"
+    },
+    {
+      "raw_hot": 26529,
+      "num": 26529,
+      "word": "坠落的审判 翻译",
+      "onboard_time": 1711388952,
+      "rank": 42,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 23446,
+      "num": 23446,
+      "word": "鞠婧祎红绳低马尾",
+      "onboard_time": 1711390632,
+      "rank": 47,
+      "category": "剧集"
     }
   ],
   "hotgov_list": [
