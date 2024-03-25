@@ -1,6 +1,6 @@
 {
   "startTime": 1711210803824,
-  "endTime": 1711329217776,
+  "endTime": 1711330394650,
   "band_list": [
     {
       "raw_hot": 3435224,
@@ -76,7 +76,7 @@
     },
     {
       "raw_hot": 1622443,
-      "num": 1061446,
+      "num": 1128984,
       "word": "俄罗斯无法判处恐怖分子死刑",
       "onboard_time": 1711324098,
       "rank": 3,
@@ -659,12 +659,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 578476,
+      "num": 578476,
+      "word": "张杰骨相",
+      "onboard_time": 1711329138,
+      "rank": 23,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 576089,
       "num": 576089,
       "word": "iOS18将采用新的主屏幕",
       "onboard_time": 1711287380,
       "rank": 7,
       "category": "数码"
+    },
+    {
+      "raw_hot": 572864,
+      "num": 572864,
+      "word": "初中生免三考直接读985本科硕士",
+      "onboard_time": 1711327521,
+      "rank": 19,
+      "category": "教育"
     },
     {
       "raw_hot": 568394,
@@ -745,6 +761,14 @@
       "onboard_time": 1711281138,
       "rank": 6,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 526642,
+      "num": 330502,
+      "word": "江西农村彩礼涨到50万元",
+      "onboard_time": 1711328959,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 519747,
@@ -952,6 +976,14 @@
       "word": "副教授26岁学生比自己还大",
       "onboard_time": 1711261038,
       "rank": 41,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 446987,
+      "num": 446987,
+      "word": "国家医保局回应医保缴费标准调整",
+      "onboard_time": 1711328899,
+      "rank": 28,
       "category": "社会新闻"
     },
     {
@@ -1243,20 +1275,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 347439,
+      "num": 347439,
+      "word": "我国基本医保参保覆盖面稳定在95%以上",
+      "onboard_time": 1711327880,
+      "rank": 20,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 343079,
       "num": 343079,
       "word": "赵本山沈腾北野武同框",
       "onboard_time": 1711262300,
       "rank": 17,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 342950,
-      "num": 342950,
-      "word": "初中生免三考直接读985本科硕士",
-      "onboard_time": 1711327521,
-      "rank": 19,
-      "category": "教育"
     },
     {
       "raw_hot": 341015,
@@ -1275,20 +1307,20 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 336164,
+      "num": 336164,
+      "word": "央视曝光湖北部分高标准农田被偷梁换柱",
+      "onboard_time": 1711328360,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 332920,
       "num": 279529,
       "word": "人体中最不怕冷的器官是哪个",
       "onboard_time": 1711247538,
       "rank": 31,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 332218,
-      "num": 332218,
-      "word": "我国基本医保参保覆盖面稳定在95%以上",
-      "onboard_time": 1711327880,
-      "rank": 20,
-      "category": "国内时政"
     },
     {
       "raw_hot": 331843,
@@ -1329,6 +1361,14 @@
       "onboard_time": 1711200021,
       "rank": 18,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 307017,
+      "num": 307017,
+      "word": "内耗严重要经常默念这几句话",
+      "onboard_time": 1711328599,
+      "rank": 35,
+      "category": "情感"
     },
     {
       "raw_hot": 305221,
@@ -1393,6 +1433,14 @@
       "onboard_time": 1711197139,
       "rank": 19,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 295413,
+      "num": 295413,
+      "word": "CROCS 王俊凯",
+      "onboard_time": 1711329378,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 293429,
@@ -1497,14 +1545,6 @@
       "onboard_time": 1711281081,
       "rank": 23,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 272854,
-      "num": 272854,
-      "word": "张杰骨相",
-      "onboard_time": 1711329138,
-      "rank": 23,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 271094,
@@ -1683,12 +1723,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 246661,
-      "num": 246661,
-      "word": "央视曝光湖北部分高标准农田被偷梁换柱",
-      "onboard_time": 1711328360,
-      "rank": 26,
-      "category": "社会新闻"
+      "raw_hot": 244668,
+      "num": 244668,
+      "word": "一旦开始喝咖啡这辈子就定型了",
+      "onboard_time": 1711322176,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 242512,
@@ -1737,22 +1777,6 @@
       "onboard_time": 1711288880,
       "rank": 31,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 238948,
-      "num": 238948,
-      "word": "一旦开始喝咖啡这辈子就定型了",
-      "onboard_time": 1711322176,
-      "rank": 30,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 238942,
-      "num": 238942,
-      "word": "国家医保局回应医保缴费标准调整",
-      "onboard_time": 1711328899,
-      "rank": 28,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 238219,
@@ -2115,14 +2139,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 195870,
-      "num": 195870,
-      "word": "内耗严重要经常默念这几句话",
-      "onboard_time": 1711328599,
-      "rank": 35,
-      "category": "情感"
-    },
-    {
       "raw_hot": 194432,
       "num": 194432,
       "word": "索伯换胎",
@@ -2209,14 +2225,6 @@
       "onboard_time": 1711277960,
       "rank": 33,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 190317,
-      "num": 190317,
-      "word": "江西农村彩礼涨到50万元",
-      "onboard_time": 1711328959,
-      "rank": 36,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 189671,
@@ -2355,6 +2363,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 177900,
+      "num": 177900,
+      "word": "别让校园欺凌成为童年的一道疤",
+      "onboard_time": 1711330159,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 177822,
       "num": 177822,
       "word": "邻居WiFi名字是想来我们家玩",
@@ -2393,6 +2409,14 @@
       "onboard_time": 1711266917,
       "rank": 40,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 172330,
+      "num": 172330,
+      "word": "1年花380元参加居民医保值不值",
+      "onboard_time": 1711330159,
+      "rank": 38,
+      "category": "财经"
     },
     {
       "raw_hot": 171159,
@@ -2865,6 +2889,14 @@
       "onboard_time": 1711279940,
       "rank": 45,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 140951,
+      "num": 140951,
+      "word": "磁暴会对人类生活产生什么影响",
+      "onboard_time": 1711330098,
+      "rank": 45,
+      "category": "科学科普"
     },
     {
       "raw_hot": 140552,
@@ -3588,7 +3620,7 @@
     },
     {
       "raw_hot": 26559,
-      "num": 1063657,
+      "num": 1130878,
       "word": "筑牢粮食安全耕基",
       "onboard_time": 1711282759,
       "rank": 2,
