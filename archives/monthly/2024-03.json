@@ -1,6 +1,6 @@
 {
   "startTime": 1709223640991,
-  "endTime": 1711362892159,
+  "endTime": 1711365357486,
   "band_list": [
     {
       "raw_hot": 12728050,
@@ -417,6 +417,14 @@
       "onboard_time": 1710311371,
       "rank": 17,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 2859654,
+      "num": 2859654,
+      "word": "王濛的母亲张晓霞",
+      "onboard_time": 1711361298,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 2838525,
@@ -3611,6 +3619,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 1281499,
+      "num": 693291,
+      "word": "小寨",
+      "onboard_time": 1711360878,
+      "rank": 13,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 1281395,
       "num": 946657,
       "word": "李惠利经纪公司回应",
@@ -4137,14 +4153,6 @@
       "onboard_time": 1711027100,
       "rank": 42,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 1213138,
-      "num": 586373,
-      "word": "王濛的母亲张晓霞",
-      "onboard_time": 1711361298,
-      "rank": 30,
-      "category": "体育"
     },
     {
       "raw_hot": 1212808,
@@ -5299,6 +5307,14 @@
       "category": "社会新闻,美食"
     },
     {
+      "raw_hot": 1074619,
+      "num": 1074619,
+      "word": "孙俪惊讶大家还在讨论甄嬛传",
+      "onboard_time": 1711360339,
+      "rank": 6,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1072025,
       "num": 1072025,
       "word": "多校呼吁毕业生不要只盯着考研考公",
@@ -5977,14 +5993,6 @@
       "onboard_time": 1709970689,
       "rank": 22,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 997231,
-      "num": 997231,
-      "word": "孙俪惊讶大家还在讨论甄嬛传",
-      "onboard_time": 1711360339,
-      "rank": 6,
-      "category": "剧集"
     },
     {
       "raw_hot": 996809,
@@ -8083,6 +8091,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 815773,
+      "num": 815773,
+      "word": "樊振东发文维权",
+      "onboard_time": 1711364720,
+      "rank": 5,
+      "category": "体育"
+    },
+    {
       "raw_hot": 814918,
       "num": 814918,
       "word": "马卉",
@@ -8353,14 +8369,6 @@
       "onboard_time": 1709347711,
       "rank": 5,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 792059,
-      "num": 576831,
-      "word": "小寨",
-      "onboard_time": 1711360878,
-      "rank": 13,
-      "category": "社会负面"
     },
     {
       "raw_hot": 791682,
@@ -8872,6 +8880,14 @@
       "word": "男子购车后下午车辆降价1.7万",
       "onboard_time": 1709689411,
       "rank": 4,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 769200,
+      "num": 769200,
+      "word": "大学生借书发现67年前书签",
+      "onboard_time": 1711360219,
+      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -10660,7 +10676,7 @@
     },
     {
       "raw_hot": 687248,
-      "num": 350125,
+      "num": 351756,
       "word": "女子为饿死肿瘤节食暴瘦44斤",
       "onboard_time": 1711355897,
       "rank": 21,
@@ -11955,6 +11971,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 635169,
+      "num": 635169,
+      "word": "空降",
+      "onboard_time": 1711362738,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 635076,
       "num": 635076,
       "word": "黄大宪 朴知元",
@@ -12665,14 +12689,6 @@
       "onboard_time": 1709733213,
       "rank": 5,
       "category": "情感"
-    },
-    {
-      "raw_hot": 606251,
-      "num": 682879,
-      "word": "大学生借书发现67年前书签",
-      "onboard_time": 1711360219,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 606171,
@@ -13577,6 +13593,14 @@
       "onboard_time": 1710473376,
       "rank": 24,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 575579,
+      "num": 575579,
+      "word": "墨香铜臭称将全额退还新书霸王票",
+      "onboard_time": 1711362258,
+      "rank": 25,
+      "category": "读书作家"
     },
     {
       "raw_hot": 575498,
@@ -23563,6 +23587,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 352245,
+      "num": 352245,
+      "word": "种地吧郁金香开售",
+      "onboard_time": 1711364899,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 352162,
       "num": 352162,
       "word": "LV大秀",
@@ -23649,6 +23681,14 @@
       "onboard_time": 1710754470,
       "rank": 30,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 351209,
+      "num": 351209,
+      "word": "农场养400只鸭子忘剪翅全飞了",
+      "onboard_time": 1711359798,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 351147,
@@ -27883,6 +27923,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 291796,
+      "num": 291796,
+      "word": "白鹿素人时期旧照",
+      "onboard_time": 1711364839,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 291795,
       "num": 291795,
       "word": "频繁聊天可以让你喜欢对方吗",
@@ -28265,14 +28313,6 @@
       "onboard_time": 1711027159,
       "rank": 44,
       "category": "体育"
-    },
-    {
-      "raw_hot": 287267,
-      "num": 287267,
-      "word": "农场养400只鸭子忘剪翅全飞了",
-      "onboard_time": 1711359798,
-      "rank": 33,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 286939,
@@ -30923,14 +30963,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 258682,
-      "num": 258682,
-      "word": "墨香铜臭称将全额退还新书霸王票",
-      "onboard_time": 1711362258,
-      "rank": 25,
-      "category": "读书作家"
-    },
-    {
       "raw_hot": 258632,
       "num": 258632,
       "word": "陈泽 恶评",
@@ -32795,6 +32827,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 242915,
+      "num": 242915,
+      "word": "父母要不要一次性给孩子一年的生活费",
+      "onboard_time": 1711362558,
+      "rank": 31,
+      "category": "情感"
+    },
+    {
       "raw_hot": 242862,
       "num": 242862,
       "word": "普京称将查明并惩罚所有幕后黑手",
@@ -33240,6 +33280,14 @@
       "word": "外婆偷偷塞给我一个没有红包的红包",
       "onboard_time": 1709789012,
       "rank": 30,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 239660,
+      "num": 239660,
+      "word": "坐飞机拒绝了想换座的情侣",
+      "onboard_time": 1711360339,
+      "rank": 29,
       "category": "情感"
     },
     {
@@ -33801,6 +33849,14 @@
       "onboard_time": 1709980410,
       "rank": 48,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 235316,
+      "num": 209525,
+      "word": "墨香铜臭已被注册为商标",
+      "onboard_time": 1711364298,
+      "rank": 30,
+      "category": "读书作家,作品衍生"
     },
     {
       "raw_hot": 235235,
@@ -34713,14 +34769,6 @@
       "onboard_time": 1710516401,
       "rank": 44,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 228657,
-      "num": 228657,
-      "word": "坐飞机拒绝了想换座的情侣",
-      "onboard_time": 1711360339,
-      "rank": 29,
-      "category": "情感"
     },
     {
       "raw_hot": 228578,
@@ -36625,14 +36673,6 @@
       "onboard_time": 1709610572,
       "rank": 27,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 217744,
-      "num": 217744,
-      "word": "父母要不要一次性给孩子一年的生活费",
-      "onboard_time": 1711362558,
-      "rank": 31,
-      "category": "情感"
     },
     {
       "raw_hot": 217719,
@@ -44211,14 +44251,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 187533,
-      "num": 187533,
-      "word": "空降",
-      "onboard_time": 1711362738,
-      "rank": 39,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 187486,
       "num": 187486,
       "word": "魏若来一秒800个假动作",
@@ -45217,6 +45249,14 @@
       "onboard_time": 1711018461,
       "rank": 36,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 183015,
+      "num": 183015,
+      "word": "年轻人让奶茶卷成健康饮品",
+      "onboard_time": 1711363338,
+      "rank": 35,
+      "category": "美食"
     },
     {
       "raw_hot": 183006,
@@ -51979,6 +52019,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 157228,
+      "num": 157228,
+      "word": "沈璃真的不考虑一下吗",
+      "onboard_time": 1711364657,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 157202,
       "num": 157202,
       "word": "我为啥不想谈恋爱",
@@ -54345,6 +54393,14 @@
       "onboard_time": 1710334892,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 148691,
+      "num": 148691,
+      "word": "WE晋级春季赛季后赛",
+      "onboard_time": 1711364839,
+      "rank": 40,
+      "category": "电竞"
     },
     {
       "raw_hot": 148660,

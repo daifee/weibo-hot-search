@@ -1,0 +1,410 @@
+{
+  "runTime": 1711365357486,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2859654,
+        "num": 2859654,
+        "word": "王濛的母亲张晓霞",
+        "onboard_time": 1711361298,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1074619,
+        "num": 1074619,
+        "word": "孙俪惊讶大家还在讨论甄嬛传",
+        "onboard_time": 1711360339,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 97431,
+        "num": 918531,
+        "word": "这个超级工程用到了海上巨型滑梯",
+        "onboard_time": 1711356498,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1446244,
+        "num": 916688,
+        "word": "墨香铜臭回来了",
+        "onboard_time": 1711348338,
+        "rank": 3,
+        "category": "读书作家,作品衍生"
+      },
+      {
+        "raw_hot": 914461,
+        "num": 914461,
+        "word": "难听",
+        "onboard_time": 1711359258,
+        "rank": 4,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 815773,
+        "num": 815773,
+        "word": "樊振东发文维权",
+        "onboard_time": 1711364720,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 772920,
+        "num": 772920,
+        "word": "外交部回应中国籍油轮遭胡塞武装袭击",
+        "onboard_time": 1711357219,
+        "rank": 6,
+        "category": "国内时政,军事"
+      },
+      {
+        "raw_hot": 769200,
+        "num": 769200,
+        "word": "大学生借书发现67年前书签",
+        "onboard_time": 1711360219,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 121103,
+        "num": 742364,
+        "word": "治沙工人给沙漠穿上了格子衫",
+        "onboard_time": 1711360219,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 726871,
+        "num": 726871,
+        "word": "公办高中教师招聘薪资1000以下",
+        "onboard_time": 1711355537,
+        "rank": 9,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 1281499,
+        "num": 693291,
+        "word": "小寨",
+        "onboard_time": 1711360878,
+        "rank": 10,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 635169,
+        "num": 635169,
+        "word": "空降",
+        "onboard_time": 1711362738,
+        "rank": 11,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 575579,
+        "num": 575579,
+        "word": "墨香铜臭称将全额退还新书霸王票",
+        "onboard_time": 1711362258,
+        "rank": 12,
+        "category": "读书作家,作品衍生"
+      },
+      {
+        "raw_hot": 558978,
+        "num": 558978,
+        "word": "UP主吐槽B站装修综艺令其损失百万",
+        "onboard_time": 1711356378,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 431275,
+        "num": 431275,
+        "word": "天官赐福解锁",
+        "onboard_time": 1711348938,
+        "rank": 14,
+        "category": "读书作家,作品衍生"
+      },
+      {
+        "raw_hot": 418223,
+        "num": 418223,
+        "word": "肛肠科待久了对帅哥都无感了",
+        "onboard_time": 1711353378,
+        "rank": 15,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 408598,
+        "num": 408598,
+        "word": "薛之谦演唱会官宣三站",
+        "onboard_time": 1711359617,
+        "rank": 16,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 391036,
+        "num": 391036,
+        "word": "宋亚轩坐上了刘耀文的副驾",
+        "onboard_time": 1711360939,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 389990,
+        "num": 389990,
+        "word": "向佐荧幕初吻给了阿娇",
+        "onboard_time": 1711354159,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 352245,
+        "num": 352245,
+        "word": "种地吧郁金香开售",
+        "onboard_time": 1711364899,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 377697,
+        "num": 351756,
+        "word": "女子为饿死肿瘤节食暴瘦44斤",
+        "onboard_time": 1711355897,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 351209,
+        "num": 351209,
+        "word": "农场养400只鸭子忘剪翅全飞了",
+        "onboard_time": 1711359798,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 348686,
+        "num": 348686,
+        "word": "王鸥复工身材状态",
+        "onboard_time": 1711350978,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 291796,
+        "num": 291796,
+        "word": "白鹿素人时期旧照",
+        "onboard_time": 1711364839,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 242915,
+        "num": 242915,
+        "word": "父母要不要一次性给孩子一年的生活费",
+        "onboard_time": 1711362558,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 240665,
+        "num": 240665,
+        "word": "十年后我登上了爱情公寓网",
+        "onboard_time": 1711356259,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 239660,
+        "num": 239660,
+        "word": "坐飞机拒绝了想换座的情侣",
+        "onboard_time": 1711360339,
+        "rank": 26,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 232123,
+        "num": 232123,
+        "word": "墨香铜臭 没有封笔",
+        "onboard_time": 1711349538,
+        "rank": 27,
+        "category": "读书作家,作品衍生"
+      },
+      {
+        "raw_hot": 224241,
+        "num": 224241,
+        "word": "翟欣欣或将获刑10年以上",
+        "onboard_time": 1711355779,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 209925,
+        "num": 209925,
+        "word": "何超莲霍启山同框",
+        "onboard_time": 1711361959,
+        "rank": 29,
+        "category": "艺人,艺人"
+      },
+      {
+        "raw_hot": 235316,
+        "num": 209525,
+        "word": "墨香铜臭已被注册为商标",
+        "onboard_time": 1711364298,
+        "rank": 30,
+        "category": "读书作家,作品衍生"
+      },
+      {
+        "raw_hot": 209042,
+        "num": 209042,
+        "word": "王者荣耀全新分路段位系统",
+        "onboard_time": 1711361238,
+        "rank": 31,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 199405,
+        "num": 199405,
+        "word": "英媒指控中国炒作凯特王妃消失",
+        "onboard_time": 1711349239,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 192046,
+        "num": 192046,
+        "word": "语文就适合晚上考",
+        "onboard_time": 1711353078,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 184291,
+        "num": 184291,
+        "word": "迪丽热巴首位破3000w点赞女明星",
+        "onboard_time": 1711346478,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 183015,
+        "num": 183015,
+        "word": "年轻人让奶茶卷成健康饮品",
+        "onboard_time": 1711363338,
+        "rank": 35,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 179821,
+        "num": 179821,
+        "word": "减肥期间正确称体重的方法",
+        "onboard_time": 1711351999,
+        "rank": 36,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 157228,
+        "num": 157228,
+        "word": "沈璃真的不考虑一下吗",
+        "onboard_time": 1711364657,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 154755,
+        "num": 154755,
+        "word": "甘肃天水麻辣烫",
+        "onboard_time": 1711365201,
+        "rank": 38,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 154686,
+        "num": 154686,
+        "word": "王一博原声台词被文旅刷屏",
+        "onboard_time": 1711357640,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 148691,
+        "num": 148691,
+        "word": "WE晋级春季赛季后赛",
+        "onboard_time": 1711364839,
+        "rank": 40,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 146299,
+        "num": 146299,
+        "word": "ILLIT出道曲",
+        "onboard_time": 1711355119,
+        "rank": 41,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 142365,
+        "num": 142365,
+        "word": "商丘一幼儿园老师坐男童身上玩手机",
+        "onboard_time": 1711348639,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 142036,
+        "num": 142036,
+        "word": "国产蓝莓单盒降至9元以下",
+        "onboard_time": 1711359019,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 140128,
+        "num": 140128,
+        "word": "王树国任福耀高等研究院院长",
+        "onboard_time": 1711361418,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 136042,
+        "num": 136042,
+        "word": "奔跑吧12要官宣了",
+        "onboard_time": 1711350259,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 133476,
+        "num": 133476,
+        "word": "每天跑步五公里会瘦吗",
+        "onboard_time": 1711357098,
+        "rank": 46,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 127263,
+        "num": 127263,
+        "word": "林更新退出九亿梦影视公司",
+        "onboard_time": 1711338258,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 125031,
+        "num": 125031,
+        "word": "女性电影人话语权",
+        "onboard_time": 1711361898,
+        "rank": 48,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 123223,
+        "num": 123223,
+        "word": "薛之谦杭州",
+        "onboard_time": 1711360278,
+        "rank": 49,
+        "category": "演出"
+      }
+    ],
+    "hotgov": {
+      "word": "#推进全球发展倡议落地落实#"
+    }
+  }
+}
