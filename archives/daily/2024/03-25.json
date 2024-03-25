@@ -1,6 +1,6 @@
 {
   "startTime": 1711297217204,
-  "endTime": 1711369856477,
+  "endTime": 1711370762434,
   "band_list": [
     {
       "raw_hot": 3117943,
@@ -139,6 +139,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 1345779,
+      "num": 1345779,
+      "word": "郭敬明 纪凌尘最好的医美",
+      "onboard_time": 1711368738,
+      "rank": 5,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1311082,
       "num": 1311082,
       "word": "独游峨眉山失联女生遗体被找到",
@@ -201,14 +209,6 @@
       "onboard_time": 1711344258,
       "rank": 15,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1120845,
-      "num": 1120845,
-      "word": "郭敬明 纪凌尘最好的医美",
-      "onboard_time": 1711368738,
-      "rank": 5,
-      "category": "剧集"
     },
     {
       "raw_hot": 1119669,
@@ -587,12 +587,28 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 545067,
+      "num": 545067,
+      "word": "优酷的七部养老剧",
+      "onboard_time": 1711369099,
+      "rank": 16,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 544299,
       "num": 378215,
       "word": "一阳",
       "onboard_time": 1711292181,
       "rank": 12,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 540405,
+      "num": 475841,
+      "word": "好友说金赛纶有难言之隐",
+      "onboard_time": 1711368920,
+      "rank": 14,
+      "category": "剧集"
     },
     {
       "raw_hot": 528167,
@@ -675,6 +691,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 476901,
+      "num": 347080,
+      "word": "工作8个月攒了11万想辞职",
+      "onboard_time": 1711368439,
+      "rank": 20,
+      "category": "情感"
+    },
+    {
       "raw_hot": 474764,
       "num": 474764,
       "word": "俄罗斯",
@@ -747,14 +771,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 436168,
-      "num": 347080,
-      "word": "工作8个月攒了11万想辞职",
-      "onboard_time": 1711368439,
-      "rank": 20,
-      "category": "情感"
-    },
-    {
       "raw_hot": 426117,
       "num": 426117,
       "word": "十年后我登上了爱情公寓网",
@@ -777,6 +793,14 @@
       "onboard_time": 1711296079,
       "rank": 14,
       "category": "网红"
+    },
+    {
+      "raw_hot": 410138,
+      "num": 410138,
+      "word": "摩羯座寡淡的原因",
+      "onboard_time": 1711366577,
+      "rank": 17,
+      "category": "情感"
     },
     {
       "raw_hot": 407897,
@@ -819,28 +843,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 392724,
-      "num": 392724,
-      "word": "俄媒播出普京获悉音乐厅恐袭后画面",
-      "onboard_time": 1711282880,
-      "rank": 28,
-      "category": "国外时政"
-    },
-    {
-      "raw_hot": 387879,
-      "num": 387879,
+      "raw_hot": 394166,
+      "num": 394166,
       "word": "李湘晒王诗龄生活照",
       "onboard_time": 1711368079,
       "rank": 13,
       "category": "艺人"
     },
     {
-      "raw_hot": 386235,
-      "num": 386235,
-      "word": "好友说金赛纶有难言之隐",
-      "onboard_time": 1711368920,
-      "rank": 14,
-      "category": "剧集"
+      "raw_hot": 392724,
+      "num": 392724,
+      "word": "俄媒播出普京获悉音乐厅恐袭后画面",
+      "onboard_time": 1711282880,
+      "rank": 28,
+      "category": "国外时政"
     },
     {
       "raw_hot": 384348,
@@ -865,22 +881,6 @@
       "onboard_time": 1711341381,
       "rank": 18,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 381415,
-      "num": 381415,
-      "word": "优酷的七部养老剧",
-      "onboard_time": 1711369099,
-      "rank": 16,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 379568,
-      "num": 379568,
-      "word": "摩羯座寡淡的原因",
-      "onboard_time": 1711366577,
-      "rank": 17,
-      "category": "情感"
     },
     {
       "raw_hot": 378574,
@@ -923,6 +923,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 361953,
+      "num": 346945,
+      "word": "长期吃太饱身体会发生什么变化",
+      "onboard_time": 1711367419,
+      "rank": 21,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 355157,
       "num": 355157,
       "word": "ILLIT出道曲",
@@ -963,14 +971,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 346945,
-      "num": 346945,
-      "word": "长期吃太饱身体会发生什么变化",
-      "onboard_time": 1711367419,
-      "rank": 21,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 346438,
       "num": 237353,
       "word": "正式被确诊为功夫熊猫",
@@ -1009,6 +1009,14 @@
       "onboard_time": 1711348158,
       "rank": 28,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 334662,
+      "num": 334662,
+      "word": "减掉1公斤脂肪需要多久",
+      "onboard_time": 1711369520,
+      "rank": 44,
+      "category": "运动健身"
     },
     {
       "raw_hot": 331727,
@@ -1163,6 +1171,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 266032,
+      "num": 266032,
+      "word": "成毅直播状态",
+      "onboard_time": 1711369698,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 263738,
       "num": 263738,
       "word": "时空中的绘旅人",
@@ -1315,6 +1331,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 236490,
+      "num": 236490,
+      "word": "100块钱的龙虾90块钱的壳",
+      "onboard_time": 1711368859,
+      "rank": 30,
+      "category": "美食"
+    },
+    {
       "raw_hot": 234848,
       "num": 234848,
       "word": "冰雹",
@@ -1329,6 +1353,14 @@
       "onboard_time": 1711338558,
       "rank": 29,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 233670,
+      "num": 233670,
+      "word": "哥哥带女朋友回家我成了外人",
+      "onboard_time": 1711366997,
+      "rank": 32,
+      "category": "幽默"
     },
     {
       "raw_hot": 232579,
@@ -1443,14 +1475,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 220748,
-      "num": 220748,
-      "word": "100块钱的龙虾90块钱的壳",
-      "onboard_time": 1711368859,
-      "rank": 30,
-      "category": "美食"
-    },
-    {
       "raw_hot": 219402,
       "num": 1509019,
       "word": "春天的浪漫是花花给的",
@@ -1513,14 +1537,6 @@
       "onboard_time": 1711343242,
       "rank": 34,
       "category": "情感"
-    },
-    {
-      "raw_hot": 209621,
-      "num": 209621,
-      "word": "哥哥带女朋友回家我成了外人",
-      "onboard_time": 1711366997,
-      "rank": 32,
-      "category": "幽默"
     },
     {
       "raw_hot": 209169,
@@ -1619,20 +1635,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 200012,
+      "num": 224884,
+      "word": "这种海鲜吃一口就有6000条寄生虫",
+      "onboard_time": 1711365678,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 199386,
       "num": 199386,
       "word": "杨超越钉珠蕾丝裙",
       "onboard_time": 1711367718,
       "rank": 36,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 198921,
-      "num": 224884,
-      "word": "这种海鲜吃一口就有6000条寄生虫",
-      "onboard_time": 1711365678,
-      "rank": 33,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 198441,
@@ -2051,6 +2067,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 158597,
+      "num": 158597,
+      "word": "对断崖式断联朋友最好的安慰剂",
+      "onboard_time": 1711370118,
+      "rank": 39,
+      "category": "情感"
+    },
+    {
       "raw_hot": 157228,
       "num": 157228,
       "word": "沈璃真的不考虑一下吗",
@@ -2123,20 +2147,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 150413,
-      "num": 150413,
-      "word": "成毅直播状态",
-      "onboard_time": 1711369698,
-      "rank": 42,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 149617,
-      "num": 149617,
-      "word": "减掉1公斤脂肪需要多久",
-      "onboard_time": 1711369520,
-      "rank": 44,
-      "category": "运动健身"
+      "raw_hot": 150946,
+      "num": 150946,
+      "word": "孙准浩被释放返回韩国",
+      "onboard_time": 1711369819,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 149137,
@@ -2331,6 +2347,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 137819,
+      "num": 137819,
+      "word": "LPL季后赛队伍出炉",
+      "onboard_time": 1711370599,
+      "rank": 47,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 136524,
       "num": 136524,
       "word": "白鹿制服拍立得",
@@ -2499,14 +2523,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 98027,
-      "num": 138031,
-      "word": "孙准浩被释放返回韩国",
-      "onboard_time": 1711369819,
-      "rank": 47,
-      "category": "体育"
-    },
-    {
       "raw_hot": 95878,
       "num": 124917,
       "word": "极氪发布南京车展意外事件情况说明",
@@ -2555,6 +2571,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 81206,
+      "num": 427016,
+      "word": "癫文化开始侵袭时尚圈了",
+      "onboard_time": 1711367059,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 77994,
       "num": 77994,
       "word": "尚雯婕换发型了",
@@ -2569,14 +2593,6 @@
       "onboard_time": 1711322717,
       "rank": 41,
       "category": "情感"
-    },
-    {
-      "raw_hot": 76392,
-      "num": 382407,
-      "word": "癫文化开始侵袭时尚圈了",
-      "onboard_time": 1711367059,
-      "rank": 15,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 75030,
@@ -2699,20 +2715,20 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 19729,
+      "num": 161679,
+      "word": "这场秀是在演我的精神状态吗",
+      "onboard_time": 1711369819,
+      "rank": 49,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 16517,
       "num": 16517,
       "word": "黑执事新作 看顺眼了",
       "onboard_time": 1711308850,
       "rank": 44,
       "category": "动漫,作品衍生"
-    },
-    {
-      "raw_hot": 14579,
-      "num": 134400,
-      "word": "这场秀是在演我的精神状态吗",
-      "onboard_time": 1711369819,
-      "rank": 49,
-      "category": "作品衍生"
     }
   ],
   "hotgov_list": [
