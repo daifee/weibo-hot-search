@@ -1,6 +1,6 @@
 {
   "startTime": 1711210803824,
-  "endTime": 1711355684726,
+  "endTime": 1711358266843,
   "band_list": [
     {
       "raw_hot": 3435224,
@@ -267,6 +267,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 1157780,
+      "num": 827402,
+      "word": "翟欣欣或将获刑10年以上",
+      "onboard_time": 1711355779,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1140173,
       "num": 503724,
       "word": "我是学校里唯一一条蛆",
@@ -321,6 +329,22 @@
       "onboard_time": 1711287080,
       "rank": 26,
       "category": "母婴育儿"
+    },
+    {
+      "raw_hot": 1095772,
+      "num": 1095772,
+      "word": "向佐荧幕初吻给了阿娇",
+      "onboard_time": 1711354159,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 1091758,
+      "num": 1091758,
+      "word": "公办高中教师招聘薪资1000以下",
+      "onboard_time": 1711355537,
+      "rank": 36,
+      "category": "教育"
     },
     {
       "raw_hot": 1090492,
@@ -515,6 +539,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 809214,
+      "num": 298671,
+      "word": "肛肠科待久了对帅哥都无感了",
+      "onboard_time": 1711353378,
+      "rank": 21,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 808692,
       "num": 808692,
       "word": "俄罗斯男子赤手空拳打晕恐怖分子",
@@ -547,12 +579,12 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 784213,
-      "num": 268577,
-      "word": "肛肠科待久了对帅哥都无感了",
-      "onboard_time": 1711353378,
-      "rank": 21,
-      "category": "幽默"
+      "raw_hot": 783150,
+      "num": 783150,
+      "word": "UP主吐槽B站装修综艺令其损失百万",
+      "onboard_time": 1711356378,
+      "rank": 5,
+      "category": "综艺"
     },
     {
       "raw_hot": 781757,
@@ -712,14 +744,6 @@
       "word": "我们仨",
       "onboard_time": 1711205121,
       "rank": 4,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 700614,
-      "num": 700614,
-      "word": "向佐荧幕初吻给了阿娇",
-      "onboard_time": 1711354159,
-      "rank": 12,
       "category": "综艺"
     },
     {
@@ -1025,6 +1049,14 @@
       "onboard_time": 1711280540,
       "rank": 5,
       "category": "演出"
+    },
+    {
+      "raw_hot": 536909,
+      "num": 296093,
+      "word": "女子为饿死肿瘤节食暴瘦44斤",
+      "onboard_time": 1711355897,
+      "rank": 21,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 533573,
@@ -1395,6 +1427,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 427178,
+      "num": 427178,
+      "word": "外交部回应中国籍邮轮遭胡塞武装袭击",
+      "onboard_time": 1711357219,
+      "rank": 12,
+      "category": "国内时政,军事"
+    },
+    {
       "raw_hot": 424619,
       "num": 424619,
       "word": "杭州兵马俑被游客吐槽不值票价",
@@ -1571,6 +1611,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 378551,
+      "num": 378551,
+      "word": "十年后我登上了爱情公寓网",
+      "onboard_time": 1711356259,
+      "rank": 13,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 369739,
       "num": 292586,
       "word": "金秀贤公司官方声明",
@@ -1659,6 +1707,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 354458,
+      "num": 354458,
+      "word": "王一博原声台词被文旅刷屏",
+      "onboard_time": 1711357640,
+      "rank": 14,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 352873,
       "num": 352873,
       "word": "重庆司机动用人脉给广东人找微辣火锅",
@@ -1681,6 +1737,14 @@
       "onboard_time": 1711290621,
       "rank": 27,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 352066,
+      "num": 352066,
+      "word": "ILLIT出道曲",
+      "onboard_time": 1711355119,
+      "rank": 39,
+      "category": "音乐"
     },
     {
       "raw_hot": 350982,
@@ -1761,6 +1825,14 @@
       "onboard_time": 1711193660,
       "rank": 17,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 339582,
+      "num": 339582,
+      "word": "张艺兴有两部综艺要播",
+      "onboard_time": 1711356738,
+      "rank": 16,
+      "category": "综艺"
     },
     {
       "raw_hot": 336928,
@@ -1937,6 +2009,14 @@
       "onboard_time": 1711249278,
       "rank": 21,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 291795,
+      "num": 291795,
+      "word": "频繁聊天可以让你喜欢对方吗",
+      "onboard_time": 1711356558,
+      "rank": 22,
+      "category": "情感"
     },
     {
       "raw_hot": 290639,
@@ -2147,6 +2227,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 256262,
+      "num": 256262,
+      "word": "每天跑步五公里会瘦吗",
+      "onboard_time": 1711357098,
+      "rank": 27,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 255691,
       "num": 255691,
       "word": "恐袭的4名嫌疑人是塔吉克斯坦公民",
@@ -2169,6 +2257,14 @@
       "onboard_time": 1711243639,
       "rank": 26,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 253572,
+      "num": 253572,
+      "word": "离职一年前同事还在问工作问题",
+      "onboard_time": 1711355420,
+      "rank": 26,
+      "category": "幽默"
     },
     {
       "raw_hot": 253122,
@@ -2547,6 +2643,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 220729,
+      "num": 220729,
+      "word": "当我知道朋友一个月工资5千",
+      "onboard_time": 1711355420,
+      "rank": 37,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 219402,
       "num": 1509019,
       "word": "春天的浪漫是花花给的",
@@ -2715,12 +2819,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 206621,
-      "num": 206621,
-      "word": "离职一年前同事还在问工作问题",
-      "onboard_time": 1711355420,
-      "rank": 26,
-      "category": "幽默"
+      "raw_hot": 206453,
+      "num": 206453,
+      "word": "wtt仁川冠军赛2024",
+      "onboard_time": 1711357818,
+      "rank": 33,
+      "category": "体育"
     },
     {
       "raw_hot": 204941,
@@ -3011,6 +3115,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 192207,
+      "num": 192207,
+      "word": "滤镜",
+      "onboard_time": 1711357518,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 192187,
       "num": 192187,
       "word": "早醒第一件事",
@@ -3129,6 +3241,14 @@
       "onboard_time": 1711257739,
       "rank": 34,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 187008,
+      "num": 187008,
+      "word": "檀健次杀青哽咽了",
+      "onboard_time": 1711357640,
+      "rank": 36,
+      "category": "剧集"
     },
     {
       "raw_hot": 186366,
@@ -3307,8 +3427,16 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 174159,
-      "num": 174159,
+      "raw_hot": 175950,
+      "num": 175950,
+      "word": "专家称考不考研劝是没用的",
+      "onboard_time": 1711356198,
+      "rank": 38,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 175120,
+      "num": 175120,
       "word": "射雕逆子",
       "onboard_time": 1711355479,
       "rank": 31,
@@ -3321,6 +3449,14 @@
       "onboard_time": 1711206920,
       "rank": 34,
       "category": "美食"
+    },
+    {
+      "raw_hot": 173265,
+      "num": 173265,
+      "word": "全国第一名是咱河南考生",
+      "onboard_time": 1711356498,
+      "rank": 40,
+      "category": "教育"
     },
     {
       "raw_hot": 172779,
@@ -3603,14 +3739,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 161255,
-      "num": 161255,
-      "word": "公办高中教师招聘薪资1000以下",
-      "onboard_time": 1711355537,
-      "rank": 36,
-      "category": "教育"
-    },
-    {
       "raw_hot": 161228,
       "num": 161228,
       "word": "billkin演唱会",
@@ -3664,14 +3792,6 @@
       "word": "大学生已经玩不过老师了",
       "onboard_time": 1711351999,
       "rank": 49,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 158855,
-      "num": 158855,
-      "word": "当我知道朋友一个月工资5千",
-      "onboard_time": 1711355420,
-      "rank": 37,
       "category": "幽默"
     },
     {
@@ -3817,14 +3937,6 @@
       "onboard_time": 1711324939,
       "rank": 44,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 151394,
-      "num": 151394,
-      "word": "ILLIT出道曲",
-      "onboard_time": 1711355119,
-      "rank": 39,
-      "category": "音乐"
     },
     {
       "raw_hot": 151233,
@@ -4291,6 +4403,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 127642,
+      "num": 127642,
+      "word": "和平超体新角色西尼娅",
+      "onboard_time": 1711356860,
+      "rank": 49,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 127371,
       "num": 127371,
       "word": "俄总理向恐袭受害者家属表示哀悼和慰问",
@@ -4369,6 +4489,14 @@
       "onboard_time": 1711282040,
       "rank": 46,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 123069,
+      "num": 852145,
+      "word": "这个超级工程用到了海上巨型滑梯",
+      "onboard_time": 1711356498,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 122119,
