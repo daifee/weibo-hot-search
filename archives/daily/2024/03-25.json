@@ -1,6 +1,6 @@
 {
   "startTime": 1711297217204,
-  "endTime": 1711352059580,
+  "endTime": 1711354983097,
   "band_list": [
     {
       "raw_hot": 3117943,
@@ -67,6 +67,14 @@
       "category": "社会新闻,财经"
     },
     {
+      "raw_hot": 1477966,
+      "num": 1014894,
+      "word": "英媒指控中国炒作凯特王妃消失",
+      "onboard_time": 1711349239,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1425933,
       "num": 1425933,
       "word": "林更新退出九亿梦影视公司",
@@ -97,6 +105,14 @@
       "onboard_time": 1711323258,
       "rank": 1,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1287479,
+      "num": 1287479,
+      "word": "王鸥复工身材状态",
+      "onboard_time": 1711350978,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 1276474,
@@ -155,14 +171,6 @@
       "category": "自然"
     },
     {
-      "raw_hot": 1014894,
-      "num": 1014894,
-      "word": "英媒指控中国炒作凯特王妃消失",
-      "onboard_time": 1711349239,
-      "rank": 13,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 964527,
       "num": 964527,
       "word": "锦超躲李菲儿",
@@ -187,12 +195,12 @@
       "category": "财经,社会新闻"
     },
     {
-      "raw_hot": 847975,
-      "num": 465275,
-      "word": "王鸥复工身材状态",
-      "onboard_time": 1711350978,
-      "rank": 25,
-      "category": "艺人"
+      "raw_hot": 897465,
+      "num": 897465,
+      "word": "考研每四位统考生中平均有一人被录取",
+      "onboard_time": 1711351519,
+      "rank": 29,
+      "category": "教育"
     },
     {
       "raw_hot": 801877,
@@ -259,6 +267,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 724727,
+      "num": 724727,
+      "word": "减肥期间正确称体重的方法",
+      "onboard_time": 1711351999,
+      "rank": 30,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 712647,
       "num": 712647,
       "word": "央视曝光湖北部分高标准农田被偷梁换柱",
@@ -273,6 +289,22 @@
       "onboard_time": 1711329138,
       "rank": 23,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 693833,
+      "num": 273043,
+      "word": "死丫头劲真大",
+      "onboard_time": 1711352419,
+      "rank": 20,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 690662,
+      "num": 268577,
+      "word": "肛肠科待久了对帅哥都无感了",
+      "onboard_time": 1711353378,
+      "rank": 21,
+      "category": "幽默"
     },
     {
       "raw_hot": 689134,
@@ -539,6 +571,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 427459,
+      "num": 418503,
+      "word": "向佐荧幕初吻给了阿娇",
+      "onboard_time": 1711354159,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 416473,
       "num": 416473,
       "word": "俄恐袭嫌犯如罪名成立将面临终身监禁",
@@ -563,6 +603,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 395397,
+      "num": 395397,
+      "word": "90后有高马尾10后有鲶鱼须",
+      "onboard_time": 1711348818,
+      "rank": 19,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 394530,
       "num": 394530,
       "word": "全红婵世界杯夺金",
@@ -585,6 +633,14 @@
       "onboard_time": 1711336519,
       "rank": 35,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 382987,
+      "num": 382987,
+      "word": "商丘一幼儿园老师坐男童身上玩手机",
+      "onboard_time": 1711348639,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 381763,
@@ -667,6 +723,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 342713,
+      "num": 342713,
+      "word": "语文就适合晚上考",
+      "onboard_time": 1711353078,
+      "rank": 18,
+      "category": "情感"
+    },
+    {
       "raw_hot": 340841,
       "num": 303209,
       "word": "刘维真的快碎了",
@@ -689,6 +753,14 @@
       "onboard_time": 1711334599,
       "rank": 17,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 327906,
+      "num": 259207,
+      "word": "从微信三件套分析一个人的性格",
+      "onboard_time": 1711353559,
+      "rank": 23,
+      "category": "情感"
     },
     {
       "raw_hot": 326136,
@@ -745,14 +817,6 @@
       "onboard_time": 1711344498,
       "rank": 34,
       "category": "情感"
-    },
-    {
-      "raw_hot": 297650,
-      "num": 297650,
-      "word": "90后有高马尾10后有鲶鱼须",
-      "onboard_time": 1711348818,
-      "rank": 19,
-      "category": "美妆"
     },
     {
       "raw_hot": 295413,
@@ -835,12 +899,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 248956,
-      "num": 248956,
-      "word": "商丘一幼儿园老师坐男童身上玩手机",
-      "onboard_time": 1711348639,
-      "rank": 28,
-      "category": "社会新闻"
+      "raw_hot": 249711,
+      "num": 249711,
+      "word": "何猷君与妈妈合照",
+      "onboard_time": 1711353919,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 248787,
@@ -905,6 +969,14 @@
       "onboard_time": 1711338558,
       "rank": 29,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 232579,
+      "num": 232579,
+      "word": "张元英好会转圈",
+      "onboard_time": 1711353559,
+      "rank": 27,
+      "category": "作品衍生,幽默"
     },
     {
       "raw_hot": 232552,
@@ -995,14 +1067,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 217211,
-      "num": 217211,
-      "word": "考研每四位统考生中平均有一人被录取",
-      "onboard_time": 1711351519,
-      "rank": 29,
-      "category": "教育"
-    },
-    {
       "raw_hot": 217124,
       "num": 217124,
       "word": "眼泪女王收视率再创新高",
@@ -1041,14 +1105,6 @@
       "onboard_time": 1711348219,
       "rank": 29,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 210062,
-      "num": 210062,
-      "word": "减肥期间正确称体重的方法",
-      "onboard_time": 1711351999,
-      "rank": 30,
-      "category": "运动健身"
     },
     {
       "raw_hot": 209825,
@@ -1121,6 +1177,14 @@
       "onboard_time": 1711349358,
       "rank": 38,
       "category": "情感"
+    },
+    {
+      "raw_hot": 200750,
+      "num": 200750,
+      "word": "‍邓为时装男士三月封面",
+      "onboard_time": 1711353797,
+      "rank": 30,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 200648,
@@ -1419,12 +1483,36 @@
       "category": "美食"
     },
     {
+      "raw_hot": 161576,
+      "num": 161576,
+      "word": "乒乓球单打世界杯吉祥物波仔",
+      "onboard_time": 1711354639,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 160849,
       "num": 160849,
       "word": "湖人战胜步行者",
       "onboard_time": 1711343539,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 159458,
+      "num": 159458,
+      "word": "行止茶君",
+      "onboard_time": 1711354038,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 159245,
+      "num": 159245,
+      "word": "大学生已经玩不过老师了",
+      "onboard_time": 1711351999,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 155360,
@@ -1641,14 +1729,6 @@
       "onboard_time": 1711344498,
       "rank": 44,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 131053,
-      "num": 131053,
-      "word": "大学生已经玩不过老师了",
-      "onboard_time": 1711351999,
-      "rank": 49,
-      "category": "幽默"
     },
     {
       "raw_hot": 124693,
@@ -1921,6 +2001,14 @@
       "onboard_time": 1711282759,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 24109,
+      "num": 898295,
+      "word": "春种科技范拉满",
+      "onboard_time": 1711338078,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 23062,
