@@ -1,6 +1,6 @@
 {
   "startTime": 1709223640991,
-  "endTime": 1711391663558,
+  "endTime": 1711394088007,
   "band_list": [
     {
       "raw_hot": 12728050,
@@ -71009,6 +71009,14 @@
       "onboard_time": 1710363015,
       "rank": 40,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 20193,
+      "num": 20193,
+      "word": "韩女的头包脸发型教程",
+      "onboard_time": 1711391710,
+      "rank": 35,
+      "category": "美妆"
     },
     {
       "raw_hot": 20156,
