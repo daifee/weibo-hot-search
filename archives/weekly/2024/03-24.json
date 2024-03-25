@@ -1,6 +1,6 @@
 {
   "startTime": 1711210803824,
-  "endTime": 1711397903909,
+  "endTime": 1711398952825,
   "band_list": [
     {
       "raw_hot": 3435224,
@@ -5707,6 +5707,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 68189,
+      "num": 68189,
+      "word": "闺蜜合伙盗窃靠反复怀孕育11子躲刑罚",
+      "onboard_time": 1711394531,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 67921,
       "num": 67921,
       "word": "珠帘玉幕 磨皮",
@@ -5739,20 +5747,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 58583,
-      "num": 58583,
-      "word": "闺蜜合伙盗窃靠反复怀孕育11子躲刑罚",
-      "onboard_time": 1711394531,
-      "rank": 35,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 58088,
       "num": 58088,
       "word": "苏打绿香港",
       "onboard_time": 1711301234,
       "rank": 43,
       "category": "演出"
+    },
+    {
+      "raw_hot": 52501,
+      "num": 52501,
+      "word": "周扬青浪姐一公上班路透",
+      "onboard_time": 1711397292,
+      "rank": 13,
+      "category": "综艺"
     },
     {
       "raw_hot": 52437,
@@ -5825,14 +5833,6 @@
       "onboard_time": 1711228331,
       "rank": 22,
       "category": "情感"
-    },
-    {
-      "raw_hot": 37772,
-      "num": 37772,
-      "word": "周扬青浪姐一公上班路透",
-      "onboard_time": 1711397292,
-      "rank": 13,
-      "category": "综艺"
     },
     {
       "raw_hot": 37612,
@@ -6019,12 +6019,28 @@
       "category": "自然,科学科普"
     },
     {
+      "raw_hot": 12123,
+      "num": 13441,
+      "word": "马思纯化的口红耳妆",
+      "onboard_time": 1711396630,
+      "rank": 45,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 11854,
       "num": 12509,
       "word": "成都今晨又见雪山了",
       "onboard_time": 1711397890,
       "rank": 49,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 11676,
+      "num": 13432,
+      "word": "浙江379名高中生入选英才计划",
+      "onboard_time": 1711398909,
+      "rank": 48,
+      "category": "教育"
     }
   ],
   "hotgov_list": [

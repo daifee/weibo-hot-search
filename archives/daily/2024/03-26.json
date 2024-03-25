@@ -1,6 +1,6 @@
 {
   "startTime": 1711383717224,
-  "endTime": 1711397903909,
+  "endTime": 1711398952825,
   "band_list": [
     {
       "raw_hot": 881618,
@@ -411,6 +411,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 68189,
+      "num": 68189,
+      "word": "闺蜜合伙盗窃靠反复怀孕育11子躲刑罚",
+      "onboard_time": 1711394531,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 60389,
       "num": 545823,
       "word": "原来设计条铁路有这么多高科技",
@@ -419,12 +427,12 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 58583,
-      "num": 58583,
-      "word": "闺蜜合伙盗窃靠反复怀孕育11子躲刑罚",
-      "onboard_time": 1711394531,
-      "rank": 35,
-      "category": "社会新闻"
+      "raw_hot": 52501,
+      "num": 52501,
+      "word": "周扬青浪姐一公上班路透",
+      "onboard_time": 1711397292,
+      "rank": 13,
+      "category": "综艺"
     },
     {
       "raw_hot": 50835,
@@ -449,14 +457,6 @@
       "onboard_time": 1711364298,
       "rank": 49,
       "category": "读书作家,作品衍生"
-    },
-    {
-      "raw_hot": 37772,
-      "num": 37772,
-      "word": "周扬青浪姐一公上班路透",
-      "onboard_time": 1711397292,
-      "rank": 13,
-      "category": "综艺"
     },
     {
       "raw_hot": 35041,
@@ -531,12 +531,28 @@
       "category": "自然,科学科普"
     },
     {
+      "raw_hot": 12123,
+      "num": 13441,
+      "word": "马思纯化的口红耳妆",
+      "onboard_time": 1711396630,
+      "rank": 45,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 11854,
       "num": 12509,
       "word": "成都今晨又见雪山了",
       "onboard_time": 1711397890,
       "rank": 49,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 11676,
+      "num": 13432,
+      "word": "浙江379名高中生入选英才计划",
+      "onboard_time": 1711398909,
+      "rank": 48,
+      "category": "教育"
     }
   ],
   "hotgov_list": [
