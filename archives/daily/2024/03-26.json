@@ -1,6 +1,6 @@
 {
   "startTime": 1711383717224,
-  "endTime": 1711463660969,
+  "endTime": 1711466239632,
   "band_list": [
     {
       "raw_hot": 3922233,
@@ -211,6 +211,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1155392,
+      "num": 1155392,
+      "word": "金赛纶发金秀贤合影是为了炫耀",
+      "onboard_time": 1711463359,
+      "rank": 8,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1124991,
       "num": 1124991,
       "word": "我的孩子怎么会得精神疾病呢",
@@ -371,6 +379,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 763167,
+      "num": 763167,
+      "word": "iPhone16功能键或变大",
+      "onboard_time": 1711461502,
+      "rank": 19,
+      "category": "数码"
+    },
+    {
       "raw_hot": 760877,
       "num": 760877,
       "word": "地球出现3小时特大地磁暴",
@@ -435,14 +451,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 684480,
-      "num": 684480,
-      "word": "金赛纶发金秀贤合影是为了炫耀",
-      "onboard_time": 1711463359,
-      "rank": 8,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 683052,
       "num": 571891,
       "word": "7年前考上央美的保安现在怎么样了",
@@ -465,14 +473,6 @@
       "onboard_time": 1711423158,
       "rank": 21,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 650460,
-      "num": 650460,
-      "word": "iPhone16功能键或变大",
-      "onboard_time": 1711461502,
-      "rank": 19,
-      "category": "数码"
     },
     {
       "raw_hot": 643477,
@@ -747,6 +747,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 494231,
+      "num": 494231,
+      "word": "下班后的年轻人开始搞第二事业了",
+      "onboard_time": 1711456757,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 487485,
       "num": 487485,
       "word": "招行大客户们存了10万亿元",
@@ -889,6 +897,14 @@
       "onboard_time": 1711435218,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 419752,
+      "num": 419752,
+      "word": "张元英转圈",
+      "onboard_time": 1711463839,
+      "rank": 12,
+      "category": "演出"
     },
     {
       "raw_hot": 405798,
@@ -1091,6 +1107,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 332936,
+      "num": 332936,
+      "word": "武磊 一哥",
+      "onboard_time": 1711464018,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
       "raw_hot": 332181,
       "num": 332181,
       "word": "肖宇梁好瘦",
@@ -1105,6 +1129,22 @@
       "onboard_time": 1711442057,
       "rank": 44,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 329796,
+      "num": 329796,
+      "word": "论穿搭对一个人的影响有多大",
+      "onboard_time": 1711463839,
+      "rank": 19,
+      "category": "时尚"
+    },
+    {
+      "raw_hot": 326351,
+      "num": 326351,
+      "word": "29岁了爸爸还在意我快不快乐",
+      "onboard_time": 1711464979,
+      "rank": 21,
+      "category": "情感"
     },
     {
       "raw_hot": 324031,
@@ -1179,14 +1219,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 298869,
-      "num": 283750,
-      "word": "下班后的年轻人开始搞第二事业了",
-      "onboard_time": 1711456757,
-      "rank": 41,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 298311,
       "num": 298311,
       "word": "飞儿乐团法院合体",
@@ -1201,6 +1233,14 @@
       "onboard_time": 1711427903,
       "rank": 23,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 297570,
+      "num": 297570,
+      "word": "AI还原武则天",
+      "onboard_time": 1711464320,
+      "rank": 22,
+      "category": "互联网"
     },
     {
       "raw_hot": 294311,
@@ -1321,6 +1361,14 @@
       "onboard_time": 1711456578,
       "rank": 30,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 275257,
+      "num": 275257,
+      "word": "周也头巾",
+      "onboard_time": 1711464081,
+      "rank": 23,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 273043,
@@ -1555,6 +1603,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 231426,
+      "num": 231426,
+      "word": "王一博翻牌评论",
+      "onboard_time": 1711465760,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 231037,
       "num": 231037,
       "word": "粉丝18秒看了吴磊7次",
@@ -1649,6 +1705,14 @@
       "onboard_time": 1711441277,
       "rank": 32,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 217339,
+      "num": 217339,
+      "word": "李沁翡翠绿拖地礼服裙",
+      "onboard_time": 1711464619,
+      "rank": 28,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 215379,
@@ -1899,6 +1963,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 194096,
+      "num": 194096,
+      "word": "白鹿张鑫自拍",
+      "onboard_time": 1711465520,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 193917,
       "num": 193917,
       "word": "警方通报女子被拖行推下扶梯",
@@ -2067,6 +2139,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 181662,
+      "num": 181662,
+      "word": "下班后快速回血的方式",
+      "onboard_time": 1711464081,
+      "rank": 34,
+      "category": "情感"
+    },
+    {
       "raw_hot": 181599,
       "num": 181599,
       "word": "网易射雕定档",
@@ -2081,6 +2161,14 @@
       "onboard_time": 1711409176,
       "rank": 19,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 180102,
+      "num": 180102,
+      "word": "iPhone16Pro保护壳曝光",
+      "onboard_time": 1711464500,
+      "rank": 37,
+      "category": "数码"
     },
     {
       "raw_hot": 177619,
@@ -2113,6 +2201,14 @@
       "onboard_time": 1711412959,
       "rank": 36,
       "category": "体育"
+    },
+    {
+      "raw_hot": 176583,
+      "num": 176583,
+      "word": "赵丽颖晒粉衣沈璃",
+      "onboard_time": 1711464920,
+      "rank": 39,
+      "category": "剧集"
     },
     {
       "raw_hot": 176552,
@@ -2547,6 +2643,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 148712,
+      "num": 148712,
+      "word": "泰国0比3韩国",
+      "onboard_time": 1711465459,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 148666,
       "num": 148666,
       "word": "沙溢官宣奔跑吧12",
@@ -2675,6 +2779,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 141366,
+      "num": 141366,
+      "word": "以为是休息其实在耗气血的行为",
+      "onboard_time": 1711463660,
+      "rank": 46,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 140961,
       "num": 140961,
       "word": "辛云来做红烧肉vlog",
@@ -2745,6 +2857,14 @@
       "onboard_time": 1711437140,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 136220,
+      "num": 136220,
+      "word": "魏若来新西装还没捂热",
+      "onboard_time": 1711465100,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 134826,
@@ -2931,6 +3051,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 118326,
+      "num": 118326,
+      "word": "14岁男孩免试直读985硕士",
+      "onboard_time": 1711465999,
+      "rank": 49,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 117397,
       "num": 117397,
       "word": "iPhone或将应用VisionPro空中手势",
@@ -2985,6 +3113,14 @@
       "onboard_time": 1711418597,
       "rank": 48,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 111910,
+      "num": 201644,
+      "word": "国足终于赢了",
+      "onboard_time": 1711465039,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 111388,
