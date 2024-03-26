@@ -1,0 +1,410 @@
+{
+  "runTime": 1711449436239,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1779606,
+        "num": 1779606,
+        "word": "妇产科迎来关停潮",
+        "onboard_time": 1711438638,
+        "rank": 0,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 1382613,
+        "num": 1382613,
+        "word": "原来是地磁暴 还以为上班上的",
+        "onboard_time": 1711439478,
+        "rank": 1,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 41393,
+        "num": 924777,
+        "word": "海基二号海上安装就位",
+        "onboard_time": 1711442119,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 801817,
+        "num": 801817,
+        "word": "秋瓷炫微博谁发的",
+        "onboard_time": 1711447699,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 757457,
+        "num": 757457,
+        "word": "地磁暴 嗜睡",
+        "onboard_time": 1711428021,
+        "rank": 4,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 747443,
+        "num": 747443,
+        "word": "十个勤天郁金香线上开售",
+        "onboard_time": 1711443139,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 731839,
+        "num": 731839,
+        "word": "胖东来新增10天不开心假",
+        "onboard_time": 1711440558,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 700458,
+        "num": 700458,
+        "word": "女孩趁妈妈外出包一锅老鼠饺子",
+        "onboard_time": 1711446739,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 437648,
+        "num": 662765,
+        "word": "女子下班途中遭陌生男锁脖初中生相救",
+        "onboard_time": 1711446618,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 639665,
+        "num": 639665,
+        "word": "爸爸当家3官宣定档",
+        "onboard_time": 1711443439,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1808130,
+        "num": 637845,
+        "word": "南宁出现大量裸奔人士系谣言",
+        "onboard_time": 1711444700,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 623608,
+        "num": 623608,
+        "word": "Doinb疑似前往巴西",
+        "onboard_time": 1711447520,
+        "rank": 11,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 521272,
+        "num": 521272,
+        "word": "刘亦菲 我不要面子的吗",
+        "onboard_time": 1711441699,
+        "rank": 12,
+        "category": "艺人,幽默"
+      },
+      {
+        "raw_hot": 347411,
+        "num": 347411,
+        "word": "官方通报初中校长发表小小说杜鹃花落",
+        "onboard_time": 1711446138,
+        "rank": 13,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 345589,
+        "num": 345589,
+        "word": "胃癌几乎都是喂出来的",
+        "onboard_time": 1711423339,
+        "rank": 14,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 341946,
+        "num": 341946,
+        "word": "武艺去爸爸当家",
+        "onboard_time": 1711446198,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 300553,
+        "num": 300553,
+        "word": "杜鹃花落作者已被免职",
+        "onboard_time": 1711429581,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 264958,
+        "num": 264958,
+        "word": "赵丽颖林更新不找朋友宣传剧的原因",
+        "onboard_time": 1711440919,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 261527,
+        "num": 261527,
+        "word": "多囊卵巢综合征的危害有多大",
+        "onboard_time": 1711443620,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 250928,
+        "num": 250928,
+        "word": "Angelababy嘟嘴比耶照",
+        "onboard_time": 1711448179,
+        "rank": 19,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 923153,
+        "num": 250592,
+        "word": "武汉万科广场一女子裸奔",
+        "onboard_time": 1711441577,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 503047,
+        "num": 250464,
+        "word": "警方介入女子裸体现身商场",
+        "onboard_time": 1711447578,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 249771,
+        "num": 249771,
+        "word": "教师的另一半是什么职业",
+        "onboard_time": 1711446377,
+        "rank": 22,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 247599,
+        "num": 247599,
+        "word": "金智媛成为烧酒代言人",
+        "onboard_time": 1711441520,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 245894,
+        "num": 245894,
+        "word": "国足首发",
+        "onboard_time": 1711446319,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 244599,
+        "num": 244599,
+        "word": "鹿晗金色长假发",
+        "onboard_time": 1711439957,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 243946,
+        "num": 243946,
+        "word": "种地吧郁金香秒售罄",
+        "onboard_time": 1711447699,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 231037,
+        "num": 231037,
+        "word": "粉丝18秒看了吴磊7次",
+        "onboard_time": 1711447819,
+        "rank": 27,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 234447,
+        "num": 230869,
+        "word": "十个勤天你们是真火了",
+        "onboard_time": 1711447278,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 230198,
+        "num": 230198,
+        "word": "不上班后皮肤越来越好了",
+        "onboard_time": 1711447218,
+        "rank": 29,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 343246,
+        "num": 228725,
+        "word": "跳楼自杀女生生前多次给霸凌者转账",
+        "onboard_time": 1711426880,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 226957,
+        "num": 226957,
+        "word": "外媒称5名中国公民在巴基斯坦遇袭身亡",
+        "onboard_time": 1711449198,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 195082,
+        "num": 195082,
+        "word": "建议大家在单位立有对象人设",
+        "onboard_time": 1711443919,
+        "rank": 32,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 192819,
+        "num": 192819,
+        "word": "东南大学回应发复试通知又取消",
+        "onboard_time": 1711441577,
+        "rank": 33,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 191758,
+        "num": 191758,
+        "word": "丽挽狂岚",
+        "onboard_time": 1711442057,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 182653,
+        "num": 182653,
+        "word": "大学老师为什么连上两小时不累",
+        "onboard_time": 1711448119,
+        "rank": 35,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 174577,
+        "num": 174577,
+        "word": "刘涛秦海璐来自闺蜜的压制",
+        "onboard_time": 1711446018,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 171457,
+        "num": 171457,
+        "word": "中国人民绝不会忘记驻南联盟使馆被炸历史",
+        "onboard_time": 1711444339,
+        "rank": 37,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 165861,
+        "num": 165861,
+        "word": "王大雷国足首发",
+        "onboard_time": 1711449378,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 165110,
+        "num": 165110,
+        "word": "郁金香",
+        "onboard_time": 1711447339,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 163330,
+        "num": 163330,
+        "word": "不化妆却越来越漂亮的6个原因",
+        "onboard_time": 1711441338,
+        "rank": 40,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 159114,
+        "num": 159114,
+        "word": "秦岚迪丽热巴白衣自拍",
+        "onboard_time": 1711439598,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 155403,
+        "num": 155403,
+        "word": "天呐 我被吴磊给摸了",
+        "onboard_time": 1711422738,
+        "rank": 42,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 154930,
+        "num": 154930,
+        "word": "每天洗1次和7天洗1次头哪个更健康",
+        "onboard_time": 1711428620,
+        "rank": 43,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 152728,
+        "num": 152728,
+        "word": "地球出现3小时特大地磁暴",
+        "onboard_time": 1711424957,
+        "rank": 44,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 149860,
+        "num": 149860,
+        "word": "我是一个偷感很重的人",
+        "onboard_time": 1711449019,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 147957,
+        "num": 147957,
+        "word": "CPSP摊位",
+        "onboard_time": 1711449198,
+        "rank": 46,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 146441,
+        "num": 146441,
+        "word": "Hero暗夜灯影转场",
+        "onboard_time": 1711449378,
+        "rank": 47,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 138248,
+        "num": 138248,
+        "word": "易烊千玺宣传雪豹",
+        "onboard_time": 1711442418,
+        "rank": 48,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 119145,
+        "num": 119145,
+        "word": "周处除三害片方否认抄袭",
+        "onboard_time": 1711446919,
+        "rank": 49,
+        "category": "电影"
+      }
+    ],
+    "hotgov": {
+      "word": "#中多关系已经成为南南合作的典范#"
+    }
+  }
+}

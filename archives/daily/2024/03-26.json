@@ -1,6 +1,6 @@
 {
   "startTime": 1711383717224,
-  "endTime": 1711448368582,
+  "endTime": 1711449436239,
   "band_list": [
     {
       "raw_hot": 3922233,
@@ -52,7 +52,7 @@
     },
     {
       "raw_hot": 1810036,
-      "num": 586494,
+      "num": 637845,
       "word": "南宁出现大量裸奔人士系谣言",
       "onboard_time": 1711444700,
       "rank": 10,
@@ -227,6 +227,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 801817,
+      "num": 801817,
+      "word": "秋瓷炫微博谁发的",
+      "onboard_time": 1711447699,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 797064,
       "num": 797064,
       "word": "鹿晗金色长假发",
@@ -315,6 +323,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 700458,
+      "num": 700458,
+      "word": "女孩趁妈妈外出包一锅老鼠饺子",
+      "onboard_time": 1711446739,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 683052,
       "num": 571891,
       "word": "7年前考上央美的保安现在怎么样了",
@@ -347,12 +363,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 643093,
-      "num": 643093,
-      "word": "女孩趁妈妈外出包一锅老鼠饺子",
-      "onboard_time": 1711446739,
-      "rank": 7,
-      "category": "社会新闻"
+      "raw_hot": 623608,
+      "num": 623608,
+      "word": "Doinb疑似前往巴西",
+      "onboard_time": 1711447520,
+      "rank": 11,
+      "category": "电竞"
     },
     {
       "raw_hot": 610982,
@@ -491,14 +507,6 @@
       "category": "自然,科学科普"
     },
     {
-      "raw_hot": 525949,
-      "num": 525949,
-      "word": "Doinb疑似前往巴西",
-      "onboard_time": 1711447520,
-      "rank": 11,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 520457,
       "num": 520457,
       "word": "歌手吹牛老爹涉嫌多起性侵案",
@@ -528,6 +536,14 @@
       "word": "女儿为去世妈妈写20万字重生文",
       "onboard_time": 1711417158,
       "rank": 18,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 503047,
+      "num": 269979,
+      "word": "警方介入女子裸体现身商场",
+      "onboard_time": 1711447578,
+      "rank": 22,
       "category": "社会新闻"
     },
     {
@@ -633,6 +649,14 @@
       "onboard_time": 1711378880,
       "rank": 9,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 437648,
+      "num": 662765,
+      "word": "女子下班途中遭陌生男锁脖初中生相救",
+      "onboard_time": 1711446618,
+      "rank": 8,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 437568,
@@ -795,6 +819,14 @@
       "category": "读书作家,作品衍生"
     },
     {
+      "raw_hot": 347411,
+      "num": 347411,
+      "word": "官方通报初中校长发表小小说杜鹃花落",
+      "onboard_time": 1711446138,
+      "rank": 19,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 339343,
       "num": 290531,
       "word": "年轻人是如何一步步走向胃癌的",
@@ -843,14 +875,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 329217,
-      "num": 329217,
-      "word": "秋瓷炫微博谁发的",
-      "onboard_time": 1711447699,
-      "rank": 14,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 320325,
       "num": 317476,
       "word": "不化妆却越来越漂亮的6个原因",
@@ -865,14 +889,6 @@
       "onboard_time": 1711440438,
       "rank": 23,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 315644,
-      "num": 634162,
-      "word": "女子下班途中遭陌生男锁脖初中生相救",
-      "onboard_time": 1711446618,
-      "rank": 8,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 315073,
@@ -955,14 +971,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 292975,
-      "num": 292975,
-      "word": "官方通报初中校长发表小小说杜鹃花落",
-      "onboard_time": 1711446138,
-      "rank": 19,
-      "category": "社会新闻,教育"
-    },
-    {
       "raw_hot": 291540,
       "num": 291540,
       "word": "镇政府回应抱幼儿女子遭丈夫拖拽踢打",
@@ -1040,14 +1048,6 @@
       "word": "女子商场购物地板突然坍塌被吞噬",
       "onboard_time": 1711412359,
       "rank": 23,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 269979,
-      "num": 269979,
-      "word": "警方介入女子裸体现身商场",
-      "onboard_time": 1711447578,
-      "rank": 22,
       "category": "社会新闻"
     },
     {
@@ -1131,6 +1131,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 250928,
+      "num": 250928,
+      "word": "Angelababy嘟嘴比耶照",
+      "onboard_time": 1711448179,
+      "rank": 33,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 246507,
       "num": 246507,
       "word": "张元英默剧表演",
@@ -1139,12 +1147,28 @@
       "category": "演出"
     },
     {
+      "raw_hot": 245894,
+      "num": 245894,
+      "word": "国足首发",
+      "onboard_time": 1711446319,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 245790,
       "num": 245790,
       "word": "什么时候认为要分手了",
       "onboard_time": 1711420759,
       "rank": 21,
       "category": "情感"
+    },
+    {
+      "raw_hot": 243946,
+      "num": 243946,
+      "word": "种地吧郁金香秒售罄",
+      "onboard_time": 1711447699,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 241573,
@@ -1195,12 +1219,28 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 231037,
+      "num": 231037,
+      "word": "粉丝18秒看了吴磊7次",
+      "onboard_time": 1711447819,
+      "rank": 45,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 230424,
       "num": 230424,
       "word": "易烊千玺宣传雪豹",
       "onboard_time": 1711442418,
       "rank": 27,
       "category": "电影"
+    },
+    {
+      "raw_hot": 230198,
+      "num": 230198,
+      "word": "不上班后皮肤越来越好了",
+      "onboard_time": 1711447218,
+      "rank": 29,
+      "category": "美妆"
     },
     {
       "raw_hot": 229729,
@@ -1227,6 +1267,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 226957,
+      "num": 226957,
+      "word": "外媒称5名中国公民在巴基斯坦遇袭身亡",
+      "onboard_time": 1711449198,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 226328,
       "num": 226328,
       "word": "王一博受刑戏是下雪天拍的",
@@ -1243,14 +1291,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 224122,
-      "num": 224122,
-      "word": "种地吧郁金香秒售罄",
-      "onboard_time": 1711447699,
-      "rank": 27,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 222116,
       "num": 222116,
       "word": "王珞丹全素颜出镜",
@@ -1265,14 +1305,6 @@
       "onboard_time": 1711441277,
       "rank": 32,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 217053,
-      "num": 217053,
-      "word": "不上班后皮肤越来越好了",
-      "onboard_time": 1711447218,
-      "rank": 29,
-      "category": "美妆"
     },
     {
       "raw_hot": 215379,
@@ -1411,14 +1443,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 195812,
-      "num": 195812,
-      "word": "Angelababy嘟嘴比耶照",
-      "onboard_time": 1711448179,
-      "rank": 33,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 194795,
       "num": 194795,
       "word": "巴尔的摩",
@@ -1539,6 +1563,14 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 182653,
+      "num": 182653,
+      "word": "大学老师为什么连上两小时不累",
+      "onboard_time": 1711448119,
+      "rank": 48,
+      "category": "教育"
+    },
+    {
       "raw_hot": 181510,
       "num": 181510,
       "word": "十个勤天",
@@ -1601,14 +1633,6 @@
       "onboard_time": 1711432819,
       "rank": 29,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 173366,
-      "num": 173366,
-      "word": "国足首发",
-      "onboard_time": 1711446319,
-      "rank": 39,
-      "category": "体育"
     },
     {
       "raw_hot": 173186,
@@ -1731,12 +1755,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 166781,
-      "num": 153757,
-      "word": "粉丝18秒看了吴磊7次",
-      "onboard_time": 1711447819,
-      "rank": 45,
-      "category": "作品衍生"
+      "raw_hot": 165861,
+      "num": 165861,
+      "word": "王大雷国足首发",
+      "onboard_time": 1711449378,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 163124,
@@ -1867,6 +1891,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 149860,
+      "num": 149860,
+      "word": "我是一个偷感很重的人",
+      "onboard_time": 1711449019,
+      "rank": 45,
+      "category": "情感"
+    },
+    {
       "raw_hot": 149236,
       "num": 149236,
       "word": "苹果又面临3起消费者集体诉讼",
@@ -1891,6 +1923,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 147957,
+      "num": 147957,
+      "word": "CPSP摊位",
+      "onboard_time": 1711449198,
+      "rank": 46,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 146972,
       "num": 146972,
       "word": "林更新发的行止行云",
@@ -1905,6 +1945,14 @@
       "onboard_time": 1711423039,
       "rank": 48,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 146441,
+      "num": 146441,
+      "word": "Hero暗夜灯影转场",
+      "onboard_time": 1711449378,
+      "rank": 47,
+      "category": "电竞"
     },
     {
       "raw_hot": 145338,
@@ -1961,14 +2009,6 @@
       "onboard_time": 1711439058,
       "rank": 39,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 139457,
-      "num": 139457,
-      "word": "大学老师为什么连上两小时不累",
-      "onboard_time": 1711448119,
-      "rank": 48,
-      "category": "教育"
     },
     {
       "raw_hot": 139326,
