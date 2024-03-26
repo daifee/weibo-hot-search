@@ -1,0 +1,410 @@
+{
+  "runTime": 1711441279077,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3155981,
+        "num": 3155981,
+        "word": "妇产科迎来关停潮",
+        "onboard_time": 1711438638,
+        "rank": 0,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 2778404,
+        "num": 2778404,
+        "word": "原来是地磁暴 还以为上班上的",
+        "onboard_time": 1711439478,
+        "rank": 1,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 25768,
+        "num": 1936338,
+        "word": "当汉字与春天不期而遇",
+        "onboard_time": 1711413320,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1734187,
+        "num": 1734187,
+        "word": "地磁暴 嗜睡",
+        "onboard_time": 1711428021,
+        "rank": 3,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 742141,
+        "num": 742141,
+        "word": "鹿晗金色长假发",
+        "onboard_time": 1711439957,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 673068,
+        "num": 673068,
+        "word": "秦岚迪丽热巴白衣自拍",
+        "onboard_time": 1711439598,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 584351,
+        "num": 584351,
+        "word": "地球出现3小时特大地磁暴",
+        "onboard_time": 1711424957,
+        "rank": 6,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 448074,
+        "num": 571377,
+        "word": "频繁洗澡或给身体埋下皮肤癌隐患",
+        "onboard_time": 1711436358,
+        "rank": 7,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 332575,
+        "num": 567320,
+        "word": "福州一学校厕所装反欺凌报警器",
+        "onboard_time": 1711432039,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 248953,
+        "num": 565976,
+        "word": "晋江教育局通报初中女生坠亡",
+        "onboard_time": 1711431019,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 565161,
+        "num": 565161,
+        "word": "杜鹃花落作者已被免职",
+        "onboard_time": 1711429581,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 564624,
+        "num": 564624,
+        "word": "胃癌几乎都是喂出来的",
+        "onboard_time": 1711423339,
+        "rank": 11,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 381785,
+        "num": 381785,
+        "word": "天呐 我被吴磊给摸了",
+        "onboard_time": 1711422738,
+        "rank": 12,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 377772,
+        "num": 377772,
+        "word": "山姆同款鸡腿南京卖74元上海卖29元",
+        "onboard_time": 1711433358,
+        "rank": 13,
+        "category": "美食,社会新闻"
+      },
+      {
+        "raw_hot": 355126,
+        "num": 355126,
+        "word": "研发运动鞋服4年花近50亿",
+        "onboard_time": 1711438638,
+        "rank": 14,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 298942,
+        "num": 298942,
+        "word": "成都初三语文试卷被曝美化侵华日军",
+        "onboard_time": 1711430180,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 296323,
+        "num": 296323,
+        "word": "张颂文的烂菜叶传闻",
+        "onboard_time": 1711435218,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 289313,
+        "num": 289313,
+        "word": "赵丽颖林更新不找朋友宣传剧的原因",
+        "onboard_time": 1711440919,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 249953,
+        "num": 249953,
+        "word": "爬山9小时后的宋江",
+        "onboard_time": 1711434258,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 217556,
+        "num": 249673,
+        "word": "黑龙江出现腮红款极光",
+        "onboard_time": 1711439058,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 942738,
+        "num": 248734,
+        "word": "跳楼自杀女生生前多次给霸凌者转账",
+        "onboard_time": 1711426880,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 423497,
+        "num": 248594,
+        "word": "唐艺昕 我要告发",
+        "onboard_time": 1711438218,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 401157,
+        "num": 247562,
+        "word": "每天洗1次和7天洗1次头哪个更健康",
+        "onboard_time": 1711428620,
+        "rank": 22,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 303930,
+        "num": 247030,
+        "word": "儿子继承了他爸小时候的婴儿床",
+        "onboard_time": 1711440438,
+        "rank": 23,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 246663,
+        "num": 246663,
+        "word": "媒体评价王一博演技",
+        "onboard_time": 1711437979,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 227152,
+        "num": 227152,
+        "word": "奔跑吧南宁录制",
+        "onboard_time": 1711428200,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 215106,
+        "num": 215106,
+        "word": "朴灿烈在线",
+        "onboard_time": 1711437077,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 210052,
+        "num": 210052,
+        "word": "美国一大桥被货船撞塌",
+        "onboard_time": 1711440678,
+        "rank": 27,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 206956,
+        "num": 206956,
+        "word": "店家称188元一杯奶茶亏本卖",
+        "onboard_time": 1711431739,
+        "rank": 28,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 123695,
+        "num": 191523,
+        "word": "双高父母偏信遗传基因17岁儿子身高仅163",
+        "onboard_time": 1711427300,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 186975,
+        "num": 186975,
+        "word": "原来女生爱旅游在相亲届扣大分",
+        "onboard_time": 1711431739,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 167105,
+        "num": 167105,
+        "word": "逆水寒小熊猫",
+        "onboard_time": 1711440438,
+        "rank": 31,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 155823,
+        "num": 155823,
+        "word": "同事朋友圈晒什么你会很反感",
+        "onboard_time": 1711440919,
+        "rank": 32,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 150724,
+        "num": 150724,
+        "word": "给P人一点J人的旅游震撼",
+        "onboard_time": 1711437258,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 127672,
+        "num": 148632,
+        "word": "巴尔的摩",
+        "onboard_time": 1711441039,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 115538,
+        "num": 148522,
+        "word": "王楚钦出席WTT北京发布会",
+        "onboard_time": 1711434500,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 148471,
+        "num": 148471,
+        "word": "王珞丹全素颜出镜",
+        "onboard_time": 1711437619,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 144342,
+        "num": 144342,
+        "word": "张元英默剧表演",
+        "onboard_time": 1711435879,
+        "rank": 37,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 142999,
+        "num": 142999,
+        "word": "地磁暴",
+        "onboard_time": 1711417276,
+        "rank": 38,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 139602,
+        "num": 139602,
+        "word": "Angelababy杨超越G社生图",
+        "onboard_time": 1711439058,
+        "rank": 39,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 131126,
+        "num": 131126,
+        "word": "吴磊 女人当自强",
+        "onboard_time": 1711434919,
+        "rank": 40,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 127057,
+        "num": 127057,
+        "word": "i人有自己的拒绝流程",
+        "onboard_time": 1711439238,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 124916,
+        "num": 124916,
+        "word": "歌手吹牛老爹涉嫌多起性侵案",
+        "onboard_time": 1711431139,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 120312,
+        "num": 120312,
+        "word": "奔跑吧12全阵容",
+        "onboard_time": 1711420458,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 119687,
+        "num": 119687,
+        "word": "170元5串的烧烤值不值",
+        "onboard_time": 1711435399,
+        "rank": 44,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 117224,
+        "num": 117224,
+        "word": "十个勤天回应郁金香只发江浙沪",
+        "onboard_time": 1711426280,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 116214,
+        "num": 116214,
+        "word": "吴磊蒋勤勤母子戏",
+        "onboard_time": 1711439358,
+        "rank": 46,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 115131,
+        "num": 115131,
+        "word": "飞书裁员",
+        "onboard_time": 1711441218,
+        "rank": 47,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 104302,
+        "num": 113532,
+        "word": "胖东来新增10天不开心假",
+        "onboard_time": 1711440558,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 96795,
+        "num": 113165,
+        "word": "武磊表示目标就是全力争胜",
+        "onboard_time": 1711440499,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#中多关系已经成为南南合作的典范#"
+    }
+  }
+}
