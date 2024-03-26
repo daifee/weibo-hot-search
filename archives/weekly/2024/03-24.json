@@ -1,6 +1,6 @@
 {
   "startTime": 1711210803824,
-  "endTime": 1711424077140,
+  "endTime": 1711426868660,
   "band_list": [
     {
       "raw_hot": 3435224,
@@ -235,6 +235,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1471231,
+      "num": 546162,
+      "word": "胃癌几乎都是喂出来的",
+      "onboard_time": 1711423339,
+      "rank": 11,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 1450849,
       "num": 1450849,
       "word": "郭敬明 纪凌尘最好的医美",
@@ -281,6 +289,14 @@
       "onboard_time": 1711293444,
       "rank": 10,
       "category": "电影"
+    },
+    {
+      "raw_hot": 1348147,
+      "num": 534286,
+      "word": "男朋友用我的照片挂数据线",
+      "onboard_time": 1711424658,
+      "rank": 11,
+      "category": "幽默"
     },
     {
       "raw_hot": 1347164,
@@ -369,6 +385,14 @@
       "onboard_time": 1711260439,
       "rank": 24,
       "category": "情感"
+    },
+    {
+      "raw_hot": 1241686,
+      "num": 1241686,
+      "word": "阮经天 我怕老婆",
+      "onboard_time": 1711424419,
+      "rank": 0,
+      "category": "艺人"
     },
     {
       "raw_hot": 1237435,
@@ -747,14 +771,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 827457,
-      "num": 394292,
-      "word": "胃癌几乎都是喂出来的",
-      "onboard_time": 1711423339,
-      "rank": 11,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 819855,
       "num": 819855,
       "word": "大学生借书发现67年前书签",
@@ -987,6 +1003,22 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 730644,
+      "num": 730644,
+      "word": "步步倾心定档",
+      "onboard_time": 1711423818,
+      "rank": 14,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 729237,
+      "num": 729237,
+      "word": "天水麻辣烫老板回应锅煮烂了",
+      "onboard_time": 1711424179,
+      "rank": 5,
+      "category": "美食"
+    },
+    {
       "raw_hot": 712647,
       "num": 712647,
       "word": "央视曝光湖北部分高标准农田被偷梁换柱",
@@ -1153,6 +1185,14 @@
       "onboard_time": 1711267699,
       "rank": 32,
       "category": "情感"
+    },
+    {
+      "raw_hot": 643477,
+      "num": 643477,
+      "word": "种地吧 只发江浙沪",
+      "onboard_time": 1711422918,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 640729,
@@ -1387,6 +1427,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 564634,
+      "num": 564634,
+      "word": "中石油一年赚了1611亿元",
+      "onboard_time": 1711420939,
+      "rank": 18,
+      "category": "财经"
+    },
+    {
       "raw_hot": 558933,
       "num": 396128,
       "word": "金秀贤ins评论区",
@@ -1556,7 +1604,7 @@
     },
     {
       "raw_hot": 510102,
-      "num": 393276,
+      "num": 507294,
       "word": "天呐 我被吴磊给摸了",
       "onboard_time": 1711422738,
       "rank": 34,
@@ -1617,6 +1665,14 @@
       "onboard_time": 1711373180,
       "rank": 27,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 501642,
+      "num": 501642,
+      "word": "Angelababy背部身材",
+      "onboard_time": 1711423158,
+      "rank": 21,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 500732,
@@ -2043,14 +2099,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 404000,
-      "num": 404000,
-      "word": "种地吧 只发江浙沪",
-      "onboard_time": 1711422918,
-      "rank": 35,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 402729,
       "num": 402729,
       "word": "茶里九世",
@@ -2256,14 +2304,6 @@
       "word": "王一博醉酒戏是即兴发挥",
       "onboard_time": 1711339279,
       "rank": 24,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 364175,
-      "num": 364175,
-      "word": "步步倾心定档",
-      "onboard_time": 1711423818,
-      "rank": 14,
       "category": "剧集"
     },
     {
@@ -2563,6 +2603,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 315073,
+      "num": 315073,
+      "word": "当我跟老公说孕反太难受想辞职",
+      "onboard_time": 1711425080,
+      "rank": 21,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 307358,
       "num": 307358,
       "word": "普京宣布24日为俄罗斯全民哀悼日",
@@ -2609,6 +2657,14 @@
       "onboard_time": 1711190600,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 302127,
+      "num": 302127,
+      "word": "宋雨琦 奔跑吧12",
+      "onboard_time": 1711425198,
+      "rank": 22,
+      "category": "综艺"
     },
     {
       "raw_hot": 300842,
@@ -2691,6 +2747,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 291540,
+      "num": 291540,
+      "word": "镇政府回应抱幼儿女子遭丈夫拖拽踢打",
+      "onboard_time": 1711425921,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 290979,
       "num": 290979,
       "word": "限量版行李箱被摔破损吉祥航空只赔500",
@@ -2713,6 +2777,14 @@
       "onboard_time": 1711268239,
       "rank": 30,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 290121,
+      "num": 290121,
+      "word": "地磁暴1次要背多少锅",
+      "onboard_time": 1711425319,
+      "rank": 24,
+      "category": "科学科普"
     },
     {
       "raw_hot": 289614,
@@ -2753,6 +2825,22 @@
       "onboard_time": 1711359019,
       "rank": 37,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 287420,
+      "num": 287420,
+      "word": "郑恺小猎豹回归",
+      "onboard_time": 1711425560,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 286531,
+      "num": 286531,
+      "word": "白鹿画的跑男团",
+      "onboard_time": 1711425019,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 286308,
@@ -2843,14 +2931,6 @@
       "category": "艺人,艺人"
     },
     {
-      "raw_hot": 274375,
-      "num": 274375,
-      "word": "中石油一年赚了1611亿元",
-      "onboard_time": 1711420939,
-      "rank": 18,
-      "category": "财经"
-    },
-    {
       "raw_hot": 274129,
       "num": 274129,
       "word": "李宇春别感冒了",
@@ -2905,14 +2985,6 @@
       "onboard_time": 1711414100,
       "rank": 26,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 268158,
-      "num": 268158,
-      "word": "Angelababy背部身材",
-      "onboard_time": 1711423158,
-      "rank": 21,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 266909,
@@ -3057,6 +3129,14 @@
       "onboard_time": 1711243639,
       "rank": 26,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 255228,
+      "num": 218012,
+      "word": "十个勤天回应郁金香只发江浙沪",
+      "onboard_time": 1711426280,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 253122,
@@ -3587,6 +3667,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 222906,
+      "num": 222906,
+      "word": "地球出现3小时特大地磁暴",
+      "onboard_time": 1711424957,
+      "rank": 29,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 222658,
       "num": 204874,
       "word": "魏若来订了娃娃亲",
@@ -3715,6 +3803,14 @@
       "category": "汽车,互联网"
     },
     {
+      "raw_hot": 213074,
+      "num": 213074,
+      "word": "鸳鸯锅在韩国的用处",
+      "onboard_time": 1711424179,
+      "rank": 31,
+      "category": "美食"
+    },
+    {
       "raw_hot": 211100,
       "num": 211100,
       "word": "周也潍坊",
@@ -3785,6 +3881,14 @@
       "onboard_time": 1711249519,
       "rank": 24,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 207189,
+      "num": 207189,
+      "word": "鹿晗纯白造型",
+      "onboard_time": 1711424299,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 207079,
@@ -3985,6 +4089,14 @@
       "onboard_time": 1711246999,
       "rank": 39,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 199018,
+      "num": 199018,
+      "word": "花间令潘杨之好相认了",
+      "onboard_time": 1711424957,
+      "rank": 33,
+      "category": "剧集"
     },
     {
       "raw_hot": 198532,
@@ -4555,6 +4667,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 177619,
+      "num": 177619,
+      "word": "陈楚生上海抢票",
+      "onboard_time": 1711425260,
+      "rank": 37,
+      "category": "演出"
+    },
+    {
       "raw_hot": 177470,
       "num": 177470,
       "word": "穷人家的孩子补课真的好愧疚",
@@ -4915,6 +5035,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 161678,
+      "num": 161678,
+      "word": "宫崎骏新片和失去的事物告别",
+      "onboard_time": 1711424839,
+      "rank": 40,
+      "category": "电影"
+    },
+    {
       "raw_hot": 161674,
       "num": 161674,
       "word": "突然有点懂成年人的恋爱观了",
@@ -5145,6 +5273,14 @@
       "onboard_time": 1711361600,
       "rank": 46,
       "category": "电影,动漫"
+    },
+    {
+      "raw_hot": 153231,
+      "num": 153231,
+      "word": "董铮被控受贿2200万余元当庭认罪",
+      "onboard_time": 1711425738,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 153152,
@@ -5739,6 +5875,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 135005,
+      "num": 135005,
+      "word": "原生家庭习以为常的卫生习惯",
+      "onboard_time": 1711426760,
+      "rank": 48,
+      "category": "情感"
+    },
+    {
       "raw_hot": 134518,
       "num": 134518,
       "word": "ILLIT出道曲一股子鲸味",
@@ -6244,7 +6388,7 @@
     },
     {
       "raw_hot": 107409,
-      "num": 174643,
+      "num": 326100,
       "word": "四管型气垫鞋国内首发",
       "onboard_time": 1711423398,
       "rank": 32,
@@ -6491,7 +6635,7 @@
       "category": "演出"
     },
     {
-      "raw_hot": 53730,
+      "raw_hot": 56659,
       "num": 1332950,
       "word": "与春日繁花来场浪漫邂逅",
       "onboard_time": 1711422618,
