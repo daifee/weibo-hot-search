@@ -1,6 +1,6 @@
 {
   "startTime": 1711383717224,
-  "endTime": 1711444677777,
+  "endTime": 1711445671542,
   "band_list": [
     {
       "raw_hot": 3922233,
@@ -107,6 +107,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1383546,
+      "num": 1383546,
+      "word": "胖东来新增10天不开心假",
+      "onboard_time": 1711440558,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1367648,
       "num": 1367648,
       "word": "杜鹃花落作者已被免职",
@@ -129,14 +137,6 @@
       "onboard_time": 1711420458,
       "rank": 35,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1144219,
-      "num": 1144219,
-      "word": "胖东来新增10天不开心假",
-      "onboard_time": 1711440558,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1124991,
@@ -171,6 +171,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 878233,
+      "num": 328257,
+      "word": "武汉万科广场一女子裸奔",
+      "onboard_time": 1711441577,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 868975,
       "num": 868975,
       "word": "李惠利ins晒照",
@@ -195,6 +203,14 @@
       "category": "美食,社会新闻"
     },
     {
+      "raw_hot": 819661,
+      "num": 819661,
+      "word": "爸爸当家3官宣定档",
+      "onboard_time": 1711443439,
+      "rank": 7,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 815578,
       "num": 815578,
       "word": "地磁暴",
@@ -209,14 +225,6 @@
       "onboard_time": 1711439957,
       "rank": 4,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 790521,
-      "num": 328257,
-      "word": "武汉万科广场一女子裸奔",
-      "onboard_time": 1711441577,
-      "rank": 36,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 790193,
@@ -299,6 +307,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 727381,
+      "num": 511357,
+      "word": "南宁出现大量裸奔人士系谣言",
+      "onboard_time": 1711444700,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 683052,
       "num": 571891,
       "word": "7年前考上央美的保安现在怎么样了",
@@ -328,14 +344,6 @@
       "word": "种地吧 只发江浙沪",
       "onboard_time": 1711422918,
       "rank": 35,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 633693,
-      "num": 633693,
-      "word": "爸爸当家3官宣定档",
-      "onboard_time": 1711443439,
-      "rank": 7,
       "category": "综艺"
     },
     {
@@ -377,6 +385,14 @@
       "onboard_time": 1711441520,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 571337,
+      "num": 571337,
+      "word": "东南大学回应发复试通知又取消",
+      "onboard_time": 1711441577,
+      "rank": 28,
+      "category": "教育"
     },
     {
       "raw_hot": 568860,
@@ -537,14 +553,6 @@
       "onboard_time": 1711436358,
       "rank": 16,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 474490,
-      "num": 474490,
-      "word": "东南大学回应发复试通知又取消",
-      "onboard_time": 1711441577,
-      "rank": 28,
-      "category": "教育"
     },
     {
       "raw_hot": 471423,
@@ -1035,6 +1043,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 260349,
+      "num": 260349,
+      "word": "建议大家在单位立有对象人设",
+      "onboard_time": 1711443919,
+      "rank": 29,
+      "category": "情感"
+    },
+    {
       "raw_hot": 259381,
       "num": 259381,
       "word": "迪丽热巴登北京周报封面",
@@ -1080,6 +1096,14 @@
       "word": "求职被告知空窗期不能大于3个月",
       "onboard_time": 1711413078,
       "rank": 27,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 234232,
+      "num": 383385,
+      "word": "多囊卵巢综合征的危害有多大",
+      "onboard_time": 1711443620,
+      "rank": 14,
       "category": "社会新闻"
     },
     {
@@ -1203,6 +1227,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 204830,
+      "num": 182973,
+      "word": "一个小女孩轻轻的碎掉了",
+      "onboard_time": 1711445117,
+      "rank": 31,
+      "category": "情感"
+    },
+    {
       "raw_hot": 204384,
       "num": 204384,
       "word": "小伙与女友相恋十年婚期前2月却退婚",
@@ -1225,14 +1257,6 @@
       "onboard_time": 1711434378,
       "rank": 30,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 201839,
-      "num": 201839,
-      "word": "建议大家在单位立有对象人设",
-      "onboard_time": 1711443919,
-      "rank": 29,
-      "category": "情感"
     },
     {
       "raw_hot": 201474,
@@ -1435,6 +1459,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 176475,
+      "num": 176475,
+      "word": "比苹果更没有果张力的水果",
+      "onboard_time": 1711441878,
+      "rank": 45,
+      "category": "美食"
+    },
+    {
       "raw_hot": 176390,
       "num": 176390,
       "word": "仙剑奇侠传 经典花絮",
@@ -1611,14 +1643,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 157841,
-      "num": 157841,
-      "word": "比苹果更没有果张力的水果",
-      "onboard_time": 1711441878,
-      "rank": 45,
-      "category": "美食"
-    },
-    {
       "raw_hot": 155838,
       "num": 155838,
       "word": "黄仁俊泡泡",
@@ -1651,12 +1675,28 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 154046,
+      "num": 177648,
+      "word": "中国人民绝不会忘记驻南联盟使馆被炸历史",
+      "onboard_time": 1711444339,
+      "rank": 49,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 153231,
       "num": 153231,
       "word": "董铮被控受贿2200万余元当庭认罪",
       "onboard_time": 1711425738,
       "rank": 42,
       "category": "体育"
+    },
+    {
+      "raw_hot": 153026,
+      "num": 153026,
+      "word": "田曦薇大唐妆容",
+      "onboard_time": 1711444818,
+      "rank": 39,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 152224,
@@ -1763,6 +1803,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 144154,
+      "num": 144154,
+      "word": "你嗜睡可能真的不能赖地磁暴",
+      "onboard_time": 1711444998,
+      "rank": 43,
+      "category": "健康医疗,科学科普"
+    },
+    {
       "raw_hot": 139602,
       "num": 139602,
       "word": "Angelababy杨超越G社生图",
@@ -1809,6 +1857,14 @@
       "onboard_time": 1711437140,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 134579,
+      "num": 134579,
+      "word": "矿物爱好者",
+      "onboard_time": 1711444998,
+      "rank": 44,
+      "category": "情感"
     },
     {
       "raw_hot": 134538,
@@ -1971,6 +2027,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 116965,
+      "num": 116965,
+      "word": "花间令终于亲了",
+      "onboard_time": 1711445538,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 116419,
       "num": 116419,
       "word": "小米集团涨超3%",
@@ -2099,14 +2163,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 94506,
-      "num": 383385,
-      "word": "多囊卵巢综合征的危害有多大",
-      "onboard_time": 1711443620,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 92902,
       "num": 92902,
       "word": "孙俪惊讶大家还在讨论甄嬛传",
@@ -2121,14 +2177,6 @@
       "onboard_time": 1711368679,
       "rank": 41,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 92048,
-      "num": 118997,
-      "word": "中国人民绝不会忘记驻南联盟使馆被炸历史",
-      "onboard_time": 1711444339,
-      "rank": 49,
-      "category": "国内时政"
     },
     {
       "raw_hot": 91061,
@@ -2227,6 +2275,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 70131,
+      "num": 2269172,
+      "word": "海基二号海上安装就位",
+      "onboard_time": 1711442119,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 68194,
       "num": 68194,
       "word": "穿开衫好看的方法",
@@ -2257,14 +2313,6 @@
       "onboard_time": 1711409116,
       "rank": 45,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 62619,
-      "num": 2269172,
-      "word": "海基二号海上安装就位",
-      "onboard_time": 1711442119,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 60389,
@@ -2395,7 +2443,7 @@
       "category": "电影"
     },
     {
-      "raw_hot": 23768,
+      "raw_hot": 25275,
       "num": 180692,
       "word": "新款AirMax国内首发测评",
       "onboard_time": 1711441818,
