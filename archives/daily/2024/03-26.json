@@ -1,7 +1,39 @@
 {
   "startTime": 1711383717224,
-  "endTime": 1711409668253,
+  "endTime": 1711415501135,
   "band_list": [
+    {
+      "raw_hot": 1724901,
+      "num": 1724901,
+      "word": "房价要触底了吗",
+      "onboard_time": 1711410858,
+      "rank": 0,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 1720402,
+      "num": 1720402,
+      "word": "天水麻辣烫把锅煮烂了",
+      "onboard_time": 1711408755,
+      "rank": 11,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 1124991,
+      "num": 1124991,
+      "word": "我的孩子怎么会得精神疾病呢",
+      "onboard_time": 1711410498,
+      "rank": 3,
+      "category": "科学科普"
+    },
+    {
+      "raw_hot": 911724,
+      "num": 911724,
+      "word": "普京说俄方更关心恐袭雇主是谁",
+      "onboard_time": 1711411878,
+      "rank": 4,
+      "category": "国外时政"
+    },
     {
       "raw_hot": 881618,
       "num": 881618,
@@ -9,6 +41,14 @@
       "onboard_time": 1711376180,
       "rank": 0,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 868975,
+      "num": 868975,
+      "word": "李惠利ins晒照",
+      "onboard_time": 1711411159,
+      "rank": 5,
+      "category": "艺人"
     },
     {
       "raw_hot": 773012,
@@ -28,7 +68,7 @@
     },
     {
       "raw_hot": 683052,
-      "num": 229311,
+      "num": 571891,
       "word": "7年前考上央美的保安现在怎么样了",
       "onboard_time": 1711378400,
       "rank": 20,
@@ -43,12 +83,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 603498,
+      "num": 603498,
+      "word": "苹果官网鼓励升级到iPhone15",
+      "onboard_time": 1711409415,
+      "rank": 28,
+      "category": "数码"
+    },
+    {
       "raw_hot": 577426,
       "num": 435782,
       "word": "Angelababy杨超越互夸美甲",
       "onboard_time": 1711377201,
       "rank": 10,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 552993,
+      "num": 502720,
+      "word": "陈铭",
+      "onboard_time": 1711409897,
+      "rank": 10,
+      "category": "电影"
     },
     {
       "raw_hot": 552657,
@@ -115,6 +171,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 452053,
+      "num": 452053,
+      "word": "莫斯科多个购物中心收爆炸威胁",
+      "onboard_time": 1711412057,
+      "rank": 11,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 442931,
       "num": 442931,
       "word": "孙俪背沟好深",
@@ -131,12 +195,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 395942,
+      "num": 395942,
+      "word": "茶里九世",
+      "onboard_time": 1711410798,
+      "rank": 13,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 378264,
       "num": 378264,
       "word": "爱情公寓特效",
       "onboard_time": 1711381279,
       "rank": 13,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 360912,
+      "num": 360912,
+      "word": "陈戌源案今天一审宣判",
+      "onboard_time": 1711410858,
+      "rank": 15,
+      "category": "体育"
     },
     {
       "raw_hot": 351662,
@@ -147,8 +227,16 @@
       "category": "读书作家,作品衍生"
     },
     {
-      "raw_hot": 320512,
-      "num": 320512,
+      "raw_hot": 339343,
+      "num": 290531,
+      "word": "年轻人是如何一步步走向胃癌的",
+      "onboard_time": 1711413499,
+      "rank": 20,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 337901,
+      "num": 337901,
       "word": "周扬青浪姐一公上班路透",
       "onboard_time": 1711397292,
       "rank": 13,
@@ -171,12 +259,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 290672,
-      "num": 219546,
-      "word": "天水麻辣烫把锅煮烂了",
-      "onboard_time": 1711408755,
-      "rank": 11,
-      "category": "美食"
+      "raw_hot": 290676,
+      "num": 290676,
+      "word": "李在明质问尹锡悦政府为何招惹中国",
+      "onboard_time": 1711409356,
+      "rank": 32,
+      "category": "国外时政"
+    },
+    {
+      "raw_hot": 289350,
+      "num": 289350,
+      "word": "长时间玩手机容易得腱鞘炎",
+      "onboard_time": 1711413380,
+      "rank": 21,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 288051,
@@ -195,6 +291,46 @@
       "category": "美食"
     },
     {
+      "raw_hot": 273043,
+      "num": 273043,
+      "word": "女子商场购物地板突然坍塌被吞噬",
+      "onboard_time": 1711412359,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 266909,
+      "num": 266909,
+      "word": "肖战顺毛侧颜",
+      "onboard_time": 1711410018,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 264096,
+      "num": 264096,
+      "word": "陈戌源90度鞠躬向球迷道歉",
+      "onboard_time": 1711413739,
+      "rank": 25,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 257029,
+      "num": 257029,
+      "word": "经常梳头和不怎么梳头哪种更健康",
+      "onboard_time": 1711414100,
+      "rank": 26,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 236676,
+      "num": 236676,
+      "word": "求职被告知空窗期不能大于3个月",
+      "onboard_time": 1711413078,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 232306,
       "num": 232306,
       "word": "威廉凯特计划带孩子复活节外出",
@@ -203,12 +339,36 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 231509,
+      "num": 231509,
+      "word": "魏若来的工资能买2.5个如萍手镯",
+      "onboard_time": 1711413919,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 215120,
+      "num": 215120,
+      "word": "原来人真的会一下子变老",
+      "onboard_time": 1711414939,
+      "rank": 29,
+      "category": "情感"
+    },
+    {
       "raw_hot": 214495,
-      "num": 200880,
+      "num": 213673,
       "word": "断崖式衰老发生在几岁",
       "onboard_time": 1711373180,
       "rank": 21,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 204384,
+      "num": 204384,
+      "word": "小伙与女友相恋十年婚期前2月却退婚",
+      "onboard_time": 1711409055,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 201474,
@@ -225,6 +385,30 @@
       "onboard_time": 1711369520,
       "rank": 27,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 181510,
+      "num": 181510,
+      "word": "十个勤天",
+      "onboard_time": 1711409176,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 181001,
+      "num": 181001,
+      "word": "垫底辣妹将翻拍中国版",
+      "onboard_time": 1711415119,
+      "rank": 35,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 176658,
+      "num": 176658,
+      "word": "陈戌源庭审现场",
+      "onboard_time": 1711412959,
+      "rank": 36,
+      "category": "体育"
     },
     {
       "raw_hot": 172523,
@@ -267,6 +451,30 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 155838,
+      "num": 155838,
+      "word": "黄仁俊泡泡",
+      "onboard_time": 1711410498,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 150878,
+      "num": 150878,
+      "word": "四川女婴接种疫苗后瘫痪",
+      "onboard_time": 1711414939,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 149236,
+      "num": 149236,
+      "word": "苹果又面临3起消费者集体诉讼",
+      "onboard_time": 1711415059,
+      "rank": 40,
+      "category": "数码"
+    },
+    {
       "raw_hot": 146972,
       "num": 146972,
       "word": "林更新发的行止行云",
@@ -275,12 +483,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 138956,
-      "num": 138956,
-      "word": "十个勤天",
-      "onboard_time": 1711409176,
-      "rank": 19,
-      "category": "综艺"
+      "raw_hot": 145299,
+      "num": 145299,
+      "word": "工作第一年的人设",
+      "onboard_time": 1711414699,
+      "rank": 42,
+      "category": "情感"
     },
     {
       "raw_hot": 138754,
@@ -315,6 +523,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 126057,
+      "num": 126057,
+      "word": "青海玉树发生4.5级地震",
+      "onboard_time": 1711411759,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 125624,
       "num": 125624,
       "word": "这种海鲜吃一口就有6000条寄生虫",
@@ -339,12 +555,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 117397,
+      "num": 117397,
+      "word": "iPhone或将应用VisionPro空中手势",
+      "onboard_time": 1711412601,
+      "rank": 49,
+      "category": "数码"
+    },
+    {
       "raw_hot": 114619,
       "num": 114619,
       "word": "摩羯座寡淡的原因",
       "onboard_time": 1711366577,
       "rank": 35,
       "category": "情感"
+    },
+    {
+      "raw_hot": 111388,
+      "num": 1236828,
+      "word": "列车穿越粉色花海如漫画世界",
+      "onboard_time": 1711374020,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 106290,
@@ -369,14 +601,6 @@
       "onboard_time": 1711372761,
       "rank": 38,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 99393,
-      "num": 99393,
-      "word": "苹果官网鼓励升级到iPhone15",
-      "onboard_time": 1711409415,
-      "rank": 28,
-      "category": "数码"
     },
     {
       "raw_hot": 96394,
@@ -427,14 +651,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 84800,
-      "num": 84800,
-      "word": "李在明质问尹锡悦政府为何招惹中国",
-      "onboard_time": 1711409356,
-      "rank": 32,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 83798,
       "num": 83798,
       "word": "香奈儿被曝再涨价",
@@ -465,14 +681,6 @@
       "onboard_time": 1711384336,
       "rank": 45,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 78918,
-      "num": 78918,
-      "word": "小伙与女友相恋十年婚期前2月却退婚",
-      "onboard_time": 1711409055,
-      "rank": 37,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 78408,
@@ -529,14 +737,6 @@
       "onboard_time": 1711372339,
       "rank": 25,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 54139,
-      "num": 576868,
-      "word": "列车穿越粉色花海如漫画世界",
-      "onboard_time": 1711374020,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 52024,
