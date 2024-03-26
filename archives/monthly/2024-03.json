@@ -1,6 +1,6 @@
 {
   "startTime": 1709223640991,
-  "endTime": 1711460058821,
+  "endTime": 1711462691349,
   "band_list": [
     {
       "raw_hot": 12728050,
@@ -321,6 +321,14 @@
       "onboard_time": 1709873313,
       "rank": 1,
       "category": "情感"
+    },
+    {
+      "raw_hot": 3066066,
+      "num": 3066066,
+      "word": "国足4比1新加坡",
+      "onboard_time": 1711461861,
+      "rank": 0,
+      "category": "体育"
     },
     {
       "raw_hot": 3055738,
@@ -3291,6 +3299,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 1364873,
+      "num": 1364873,
+      "word": "林允为闭口第一次刷酸",
+      "onboard_time": 1711459759,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1364541,
       "num": 507936,
       "word": "山西高速致14死大巴车载夕阳红旅行团",
@@ -3771,6 +3787,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1288357,
+      "num": 1288357,
+      "word": "任敏生图",
+      "onboard_time": 1711458139,
+      "rank": 5,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 1287479,
       "num": 1287479,
       "word": "王鸥复工身材状态",
@@ -3873,14 +3897,6 @@
       "onboard_time": 1710737021,
       "rank": 7,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1275153,
-      "num": 1275153,
-      "word": "任敏生图",
-      "onboard_time": 1711458139,
-      "rank": 5,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 1272764,
@@ -12195,6 +12211,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 644809,
+      "num": 644809,
+      "word": "王一博 转型",
+      "onboard_time": 1711459520,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 644596,
       "num": 644596,
       "word": "向琴琴入学新乡医学院",
@@ -13049,6 +13073,14 @@
       "onboard_time": 1710126151,
       "rank": 7,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 613478,
+      "num": 613478,
+      "word": "武磊单刀破门",
+      "onboard_time": 1711456458,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 612826,
@@ -15699,6 +15731,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 536924,
+      "num": 536924,
+      "word": "赵丽颖李嘉琦对手戏",
+      "onboard_time": 1711458558,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 536863,
       "num": 318756,
       "word": "洗头后最忌讳搓头发",
@@ -16972,7 +17012,7 @@
     },
     {
       "raw_hot": 503047,
-      "num": 293882,
+      "num": 301779,
       "word": "警方介入女子裸体现身商场",
       "onboard_time": 1711447578,
       "rank": 22,
@@ -19208,6 +19248,14 @@
       "word": "林孝埈500米夺金",
       "onboard_time": 1710606749,
       "rank": 23,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 455740,
+      "num": 455740,
+      "word": "武磊战泰国将停赛",
+      "onboard_time": 1711462219,
+      "rank": 13,
       "category": "体育"
     },
     {
@@ -23259,6 +23307,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 375393,
+      "num": 375393,
+      "word": "iPhone16功能键或变大",
+      "onboard_time": 1711461502,
+      "rank": 19,
+      "category": "数码"
+    },
+    {
       "raw_hot": 375263,
       "num": 375263,
       "word": "陈都灵奶白大衣",
@@ -25779,6 +25835,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 334882,
+      "num": 334882,
+      "word": "孙颖莎休闲装参加晚宴",
+      "onboard_time": 1711458977,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 334840,
       "num": 334840,
       "word": "委员称小学课间休息应改为30分钟",
@@ -28099,6 +28163,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 301870,
+      "num": 301870,
+      "word": "泰国vs韩国",
+      "onboard_time": 1711462280,
+      "rank": 22,
+      "category": "体育"
+    },
+    {
       "raw_hot": 301690,
       "num": 301690,
       "word": "和平精英未成年充值不予退款",
@@ -29337,14 +29409,6 @@
       "onboard_time": 1710773436,
       "rank": 26,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 290105,
-      "num": 290105,
-      "word": "孙颖莎休闲装参加晚宴",
-      "onboard_time": 1711458977,
-      "rank": 36,
-      "category": "体育"
     },
     {
       "raw_hot": 289984,
@@ -31339,14 +31403,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 268699,
-      "num": 268699,
-      "word": "武磊单刀破门",
-      "onboard_time": 1711456458,
-      "rank": 24,
-      "category": "体育"
-    },
-    {
       "raw_hot": 268693,
       "num": 268693,
       "word": "经常梳头和不怎么梳头哪种更健康",
@@ -31681,14 +31737,6 @@
       "onboard_time": 1710299976,
       "rank": 30,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 265260,
-      "num": 265260,
-      "word": "林允为闭口第一次刷酸",
-      "onboard_time": 1711459759,
-      "rank": 24,
-      "category": "艺人"
     },
     {
       "raw_hot": 265217,
@@ -32649,14 +32697,6 @@
       "onboard_time": 1709463987,
       "rank": 31,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 256607,
-      "num": 256607,
-      "word": "王一博 转型",
-      "onboard_time": 1711459520,
-      "rank": 25,
-      "category": "剧集"
     },
     {
       "raw_hot": 256582,
@@ -34755,6 +34795,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 239890,
+      "num": 239890,
+      "word": "飞儿乐团法院合体",
+      "onboard_time": 1711458079,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 239872,
       "num": 239872,
       "word": "陈奕迅武汉",
@@ -35033,14 +35081,6 @@
       "onboard_time": 1709774671,
       "rank": 30,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 238017,
-      "num": 238017,
-      "word": "赵丽颖李嘉琦对手戏",
-      "onboard_time": 1711458558,
-      "rank": 28,
-      "category": "剧集"
     },
     {
       "raw_hot": 237967,
@@ -35340,7 +35380,7 @@
     },
     {
       "raw_hot": 236192,
-      "num": 236192,
+      "num": 253794,
       "word": "俄军对乌克兰决策中心进行了集群打击",
       "onboard_time": 1711452257,
       "rank": 34,
@@ -36499,6 +36539,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 228129,
+      "num": 228129,
+      "word": "范志毅携五哈团为国足加油",
+      "onboard_time": 1711462101,
+      "rank": 33,
+      "category": "体育,综艺"
+    },
+    {
       "raw_hot": 228011,
       "num": 228011,
       "word": "王一博巴黎时装周",
@@ -36649,6 +36697,14 @@
       "onboard_time": 1710976706,
       "rank": 38,
       "category": "财经,国外时政"
+    },
+    {
+      "raw_hot": 227252,
+      "num": 227252,
+      "word": "我的保洁阿姨在北京买了套房",
+      "onboard_time": 1711462219,
+      "rank": 34,
+      "category": "情感"
     },
     {
       "raw_hot": 227153,
@@ -40644,7 +40700,7 @@
     },
     {
       "raw_hot": 206618,
-      "num": 234639,
+      "num": 294882,
       "word": "vivo折叠屏打破生态次元壁",
       "onboard_time": 1711459520,
       "rank": 28,
@@ -41859,14 +41915,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 202298,
-      "num": 202298,
-      "word": "飞儿乐团法院合体",
-      "onboard_time": 1711458079,
-      "rank": 31,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 202260,
       "num": 202260,
       "word": "乔兮戈娅五杀",
@@ -42451,6 +42499,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 200251,
+      "num": 200251,
+      "word": "韦世豪破门",
+      "onboard_time": 1711462160,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 200245,
       "num": 227705,
       "word": "萨巴伦卡男友去世",
@@ -42753,6 +42809,14 @@
       "onboard_time": 1709366670,
       "rank": 28,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 199159,
+      "num": 199159,
+      "word": "文韬生日会门票",
+      "onboard_time": 1711460839,
+      "rank": 37,
+      "category": "艺人"
     },
     {
       "raw_hot": 199142,
@@ -44787,6 +44851,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 192360,
+      "num": 192360,
+      "word": "李源一红牌",
+      "onboard_time": 1711461682,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 192251,
       "num": 177006,
       "word": "霍启刚 完善休假制度是必要的",
@@ -46427,6 +46499,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 186705,
+      "num": 186705,
+      "word": "行止开大",
+      "onboard_time": 1711461200,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 186643,
       "num": 186643,
       "word": "歼击机女飞行员太飒了",
@@ -46481,6 +46561,14 @@
       "onboard_time": 1710159993,
       "rank": 46,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 186542,
+      "num": 186542,
+      "word": "武磊为张玉宁出头",
+      "onboard_time": 1711460899,
+      "rank": 41,
+      "category": "体育"
     },
     {
       "raw_hot": 186498,
@@ -47667,6 +47755,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 181599,
+      "num": 181599,
+      "word": "网易射雕定档",
+      "onboard_time": 1711459999,
+      "rank": 49,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 181560,
       "num": 181560,
       "word": "周到 马导也是不容易",
@@ -48617,6 +48713,14 @@
       "onboard_time": 1711291221,
       "rank": 41,
       "category": "情感"
+    },
+    {
+      "raw_hot": 177406,
+      "num": 177406,
+      "word": "辽宁男篮",
+      "onboard_time": 1711462280,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 177382,
@@ -50412,7 +50516,7 @@
     },
     {
       "raw_hot": 170809,
-      "num": 1438345,
+      "num": 1623413,
       "word": "我国完成印度洋渔业资源调查",
       "onboard_time": 1711457719,
       "rank": 2,
@@ -52809,6 +52913,14 @@
       "onboard_time": 1709722291,
       "rank": 30,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 161857,
+      "num": 161857,
+      "word": "LGD战胜RNG",
+      "onboard_time": 1711461320,
+      "rank": 45,
+      "category": "电竞"
     },
     {
       "raw_hot": 161849,
@@ -56131,6 +56243,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 151267,
+      "num": 151267,
+      "word": "陈晓直播",
+      "onboard_time": 1711461378,
+      "rank": 47,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 151247,
       "num": 151247,
       "word": "N2报名",
@@ -57475,6 +57595,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 146842,
+      "num": 426372,
+      "word": "vivo打破折叠屏轻薄记录",
+      "onboard_time": 1711458618,
+      "rank": 32,
+      "category": "数码"
+    },
+    {
       "raw_hot": 146803,
       "num": 146803,
       "word": "新说唱",
@@ -58216,6 +58344,14 @@
       "word": "我们也是第一次做父母啊",
       "onboard_time": 1710676655,
       "rank": 45,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 144587,
+      "num": 144587,
+      "word": "大家不要老是幻想自己死了",
+      "onboard_time": 1711462639,
+      "rank": 49,
       "category": "情感"
     },
     {
@@ -61769,14 +61905,6 @@
       "onboard_time": 1709993733,
       "rank": 44,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 132715,
-      "num": 132715,
-      "word": "网易射雕定档",
-      "onboard_time": 1711459999,
-      "rank": 49,
-      "category": "游戏"
     },
     {
       "raw_hot": 132705,
@@ -69691,14 +69819,6 @@
       "category": "运动健身"
     },
     {
-      "raw_hot": 81762,
-      "num": 340997,
-      "word": "vivo打破折叠屏轻薄记录",
-      "onboard_time": 1711458618,
-      "rank": 32,
-      "category": "数码"
-    },
-    {
       "raw_hot": 81645,
       "num": 351264,
       "word": "政协委员谈国潮新中式成顶流",
@@ -72961,6 +73081,14 @@
       "onboard_time": 1711390214,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 31256,
+      "num": 250895,
+      "word": "AI和折叠屏天生是绝配",
+      "onboard_time": 1711461682,
+      "rank": 30,
+      "category": "数码,互联网"
     },
     {
       "raw_hot": 31236,
