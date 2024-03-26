@@ -1,6 +1,6 @@
 {
   "startTime": 1711210803824,
-  "endTime": 1711487871372,
+  "endTime": 1711488935102,
   "band_list": [
     {
       "raw_hot": 3922233,
@@ -9027,6 +9027,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 28813,
+      "num": 28813,
+      "word": "胃食管反流",
+      "onboard_time": 1711483811,
+      "rank": 44,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 28546,
       "num": 373360,
       "word": "索纳塔打响中级车反击战",
@@ -9049,14 +9057,6 @@
       "onboard_time": 1711338078,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 28067,
-      "num": 28067,
-      "word": "胃食管反流",
-      "onboard_time": 1711483811,
-      "rank": 44,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 26835,
@@ -9155,8 +9155,16 @@
       "category": "自然,科学科普"
     },
     {
+      "raw_hot": 21414,
+      "num": 21414,
+      "word": "在吃奶嘴的年纪参加了马拉松",
+      "onboard_time": 1711483330,
+      "rank": 39,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 20303,
-      "num": 18632,
+      "num": 20110,
       "word": "如何让儿子同学不要再来家里了",
       "onboard_time": 1711482191,
       "rank": 35,
@@ -9179,6 +9187,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 18653,
+      "num": 18653,
+      "word": "福州满记甜品即将闭店",
+      "onboard_time": 1711485731,
+      "rank": 41,
+      "category": "美食,社会新闻"
+    },
+    {
       "raw_hot": 18051,
       "num": 1078334,
       "word": "随手一拍便是一整个春天",
@@ -9195,12 +9211,12 @@
       "category": "美食"
     },
     {
-      "raw_hot": 17379,
-      "num": 17552,
-      "word": "在吃奶嘴的年纪参加了马拉松",
-      "onboard_time": 1711483330,
-      "rank": 39,
-      "category": "运动健身"
+      "raw_hot": 17715,
+      "num": 17715,
+      "word": "王珞丹独居生活状态",
+      "onboard_time": 1711488251,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 16840,
@@ -9217,14 +9233,6 @@
       "onboard_time": 1711308850,
       "rank": 44,
       "category": "动漫,作品衍生"
-    },
-    {
-      "raw_hot": 15490,
-      "num": 15490,
-      "word": "福州满记甜品即将闭店",
-      "onboard_time": 1711485731,
-      "rank": 41,
-      "category": "美食,社会新闻"
     },
     {
       "raw_hot": 15109,
