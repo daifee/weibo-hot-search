@@ -1,6 +1,6 @@
 {
   "startTime": 1709223640991,
-  "endTime": 1711451733407,
+  "endTime": 1711452849377,
   "band_list": [
     {
       "raw_hot": 12728050,
@@ -4667,8 +4667,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1167994,
-      "num": 1167994,
+      "raw_hot": 1169767,
+      "num": 1169767,
       "word": "外媒称5名中国公民在巴基斯坦遇袭身亡",
       "onboard_time": 1711449198,
       "rank": 31,
@@ -9003,6 +9003,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 778954,
+      "num": 778954,
+      "word": "张艺兴是个考公的好苗子",
+      "onboard_time": 1711449678,
+      "rank": 5,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 778947,
       "num": 778947,
       "word": "小区要求空调外机必须统一为黑色",
@@ -11003,14 +11011,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 692040,
-      "num": 692040,
-      "word": "张艺兴是个考公的好苗子",
-      "onboard_time": 1711449678,
-      "rank": 5,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 692011,
       "num": 692011,
       "word": "松子狂炫中国火锅",
@@ -12585,6 +12585,14 @@
       "onboard_time": 1709690195,
       "rank": 8,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 630620,
+      "num": 630620,
+      "word": "天水20天狂赚近14亿",
+      "onboard_time": 1711450099,
+      "rank": 17,
+      "category": "旅游"
     },
     {
       "raw_hot": 630471,
@@ -15243,6 +15251,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 546588,
+      "num": 546588,
+      "word": "费启鸣拍的虞书欣",
+      "onboard_time": 1711451718,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 546454,
       "num": 391711,
       "word": "蒲熠星带猫去献血",
@@ -16892,7 +16908,7 @@
     },
     {
       "raw_hot": 503047,
-      "num": 269979,
+      "num": 293882,
       "word": "警方介入女子裸体现身商场",
       "onboard_time": 1711447578,
       "rank": 22,
@@ -18777,6 +18793,14 @@
       "onboard_time": 1709523093,
       "rank": 10,
       "category": "艺人,美妆"
+    },
+    {
+      "raw_hot": 463889,
+      "num": 463889,
+      "word": "Angelababy嘟嘴比耶照",
+      "onboard_time": 1711448179,
+      "rank": 33,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 463663,
@@ -24115,14 +24139,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 358292,
-      "num": 358292,
-      "word": "Angelababy嘟嘴比耶照",
-      "onboard_time": 1711448179,
-      "rank": 33,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 358204,
       "num": 358204,
       "word": "瘦子Ella新片演情侣",
@@ -25819,6 +25835,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 332181,
+      "num": 332181,
+      "word": "肖宇梁好瘦",
+      "onboard_time": 1711450999,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 332102,
       "num": 332102,
       "word": "花间令今日开播",
@@ -25873,14 +25897,6 @@
       "onboard_time": 1710223830,
       "rank": 28,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 331414,
-      "num": 331414,
-      "word": "天水20天狂赚近14亿",
-      "onboard_time": 1711450099,
-      "rank": 17,
-      "category": "旅游"
     },
     {
       "raw_hot": 331356,
@@ -27283,6 +27299,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 311513,
+      "num": 289170,
+      "word": "原来是先决定结婚才求婚的",
+      "onboard_time": 1711449559,
+      "rank": 22,
+      "category": "情感"
+    },
+    {
       "raw_hot": 311469,
       "num": 311469,
       "word": "原神前瞻",
@@ -27441,14 +27465,6 @@
       "onboard_time": 1709651137,
       "rank": 8,
       "category": "电影"
-    },
-    {
-      "raw_hot": 308833,
-      "num": 255205,
-      "word": "原来是先决定结婚才求婚的",
-      "onboard_time": 1711449559,
-      "rank": 22,
-      "category": "情感"
     },
     {
       "raw_hot": 308780,
@@ -29499,6 +29515,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 286363,
+      "num": 286363,
+      "word": "阿里37.5亿美元收购菜鸟剩余股权",
+      "onboard_time": 1711451837,
+      "rank": 24,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 286316,
       "num": 286316,
       "word": "秦岚也出发录制花少了",
@@ -30521,6 +30545,14 @@
       "onboard_time": 1710477699,
       "rank": 20,
       "category": "美食"
+    },
+    {
+      "raw_hot": 275169,
+      "num": 275169,
+      "word": "为什么越来越多女性开始单身",
+      "onboard_time": 1711452078,
+      "rank": 26,
+      "category": "情感"
     },
     {
       "raw_hot": 275091,
@@ -33411,6 +33443,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 248089,
+      "num": 248089,
+      "word": "大学四年买书花了五万",
+      "onboard_time": 1711451718,
+      "rank": 38,
+      "category": "情感"
+    },
+    {
       "raw_hot": 248075,
       "num": 248075,
       "word": "以闪亮之名三丽鸥家族联动",
@@ -36249,6 +36289,14 @@
       "onboard_time": 1709432010,
       "rank": 44,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 228297,
+      "num": 228297,
+      "word": "巴基斯坦",
+      "onboard_time": 1711451898,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 228265,
@@ -40795,14 +40843,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 204842,
-      "num": 204842,
-      "word": "肖宇梁好瘦",
-      "onboard_time": 1711450999,
-      "rank": 26,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 204830,
       "num": 182973,
       "word": "一个小女孩轻轻的碎掉了",
@@ -41721,14 +41761,6 @@
       "onboard_time": 1711013179,
       "rank": 26,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 201633,
-      "num": 201633,
-      "word": "费启鸣拍的虞书欣",
-      "onboard_time": 1711451718,
-      "rank": 27,
-      "category": "剧集"
     },
     {
       "raw_hot": 201606,
@@ -44553,6 +44585,14 @@
       "onboard_time": 1711357518,
       "rank": 35,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 192191,
+      "num": 192191,
+      "word": "俄军对乌克兰决策中心进行了集群打击",
+      "onboard_time": 1711452257,
+      "rank": 34,
+      "category": "国外时政"
     },
     {
       "raw_hot": 192187,
@@ -51803,6 +51843,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 164411,
+      "num": 164411,
+      "word": "海底捞2023年营收414.5亿",
+      "onboard_time": 1711451958,
+      "rank": 37,
+      "category": "财经,美食"
+    },
+    {
       "raw_hot": 164344,
       "num": 164344,
       "word": "中超",
@@ -52955,6 +53003,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 160331,
+      "num": 160331,
+      "word": "最宠朋友的星座",
+      "onboard_time": 1711450578,
+      "rank": 36,
+      "category": "情感"
+    },
+    {
       "raw_hot": 160294,
       "num": 160294,
       "word": "法令纹遮瑕",
@@ -53497,14 +53553,6 @@
       "onboard_time": 1710750279,
       "rank": 34,
       "category": "体育"
-    },
-    {
-      "raw_hot": 158613,
-      "num": 158613,
-      "word": "最宠朋友的星座",
-      "onboard_time": 1711450578,
-      "rank": 36,
-      "category": "情感"
     },
     {
       "raw_hot": 158597,
@@ -56259,6 +56307,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 149706,
+      "num": 149706,
+      "word": "FPX老板谈石头赶路被开除",
+      "onboard_time": 1711452318,
+      "rank": 43,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 149662,
       "num": 149662,
       "word": "巴黎街头的魏大勋",
@@ -57355,6 +57411,14 @@
       "category": "艺人,体育"
     },
     {
+      "raw_hot": 145814,
+      "num": 145814,
+      "word": "在变懒的路上倒是挺勤快的",
+      "onboard_time": 1711451837,
+      "rank": 44,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 145797,
       "num": 145797,
       "word": "大学生版与凤行何错之有",
@@ -57657,14 +57721,6 @@
       "onboard_time": 1711110019,
       "rank": 36,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 144981,
-      "num": 144981,
-      "word": "大学四年买书花了五万",
-      "onboard_time": 1711451718,
-      "rank": 38,
-      "category": "情感"
     },
     {
       "raw_hot": 144979,
@@ -59883,6 +59939,14 @@
       "category": "读书作家"
     },
     {
+      "raw_hot": 137530,
+      "num": 137530,
+      "word": "国足vs新加坡",
+      "onboard_time": 1711452677,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 137514,
       "num": 137514,
       "word": "持铁锤打砸抢金店男子疑有精神疾病",
@@ -60681,6 +60745,14 @@
       "onboard_time": 1709871395,
       "rank": 47,
       "category": "演出"
+    },
+    {
+      "raw_hot": 134826,
+      "num": 294873,
+      "word": "撒贝宁解密vivo蓝科技",
+      "onboard_time": 1711451418,
+      "rank": 42,
+      "category": "数码"
     },
     {
       "raw_hot": 134794,
@@ -63059,14 +63131,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 126287,
-      "num": 129645,
-      "word": "撒贝宁解密vivo蓝科技",
-      "onboard_time": 1711451418,
-      "rank": 42,
-      "category": "数码"
-    },
-    {
       "raw_hot": 126276,
       "num": 126276,
       "word": "周也文笔",
@@ -64241,6 +64305,14 @@
       "onboard_time": 1709737175,
       "rank": 46,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 121491,
+      "num": 121491,
+      "word": "周杰伦祝林俊杰生日快乐",
+      "onboard_time": 1711452798,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 121454,
@@ -70347,6 +70419,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 65973,
+      "num": 584630,
+      "word": "当美梦有了轮廓",
+      "onboard_time": 1711450339,
+      "rank": 11,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 65772,
       "num": 65772,
       "word": "刘诗诗窦骁首次合作",
@@ -71009,14 +71089,6 @@
       "onboard_time": 1711000834,
       "rank": 14,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 55563,
-      "num": 458574,
-      "word": "当美梦有了轮廓",
-      "onboard_time": 1711450339,
-      "rank": 11,
-      "category": "汽车"
     },
     {
       "raw_hot": 55553,
@@ -72027,6 +72099,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 39879,
+      "num": 193556,
+      "word": "长城汽车魏建军首发微博",
+      "onboard_time": 1711450158,
+      "rank": 34,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 39603,
       "num": 353087,
       "word": "方太如何解决开敞式厨房痛点",
@@ -72201,14 +72281,6 @@
       "onboard_time": 1709632235,
       "rank": 8,
       "category": "社会正能量"
-    },
-    {
-      "raw_hot": 37057,
-      "num": 167441,
-      "word": "长城汽车魏建军首发微博",
-      "onboard_time": 1711450158,
-      "rank": 34,
-      "category": "汽车"
     },
     {
       "raw_hot": 36779,

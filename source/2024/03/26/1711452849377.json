@@ -1,0 +1,410 @@
+{
+  "runTime": 1711452849377,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1302201,
+        "num": 1302201,
+        "word": "妇产科迎来关停潮",
+        "onboard_time": 1711438638,
+        "rank": 0,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 1184922,
+        "num": 1184922,
+        "word": "原来是地磁暴 还以为上班上的",
+        "onboard_time": 1711439478,
+        "rank": 1,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 31452,
+        "num": 1170257,
+        "word": "海基二号海上安装就位",
+        "onboard_time": 1711442119,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1169767,
+        "num": 1169767,
+        "word": "外媒称5名中国公民在巴基斯坦遇袭身亡",
+        "onboard_time": 1711449198,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1146526,
+        "num": 1146526,
+        "word": "秋瓷炫微博谁发的",
+        "onboard_time": 1711447699,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 778954,
+        "num": 778954,
+        "word": "张艺兴是个考公的好苗子",
+        "onboard_time": 1711449678,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 684077,
+        "num": 684077,
+        "word": "地磁暴 嗜睡",
+        "onboard_time": 1711428021,
+        "rank": 6,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 630620,
+        "num": 630620,
+        "word": "天水20天狂赚近14亿",
+        "onboard_time": 1711450099,
+        "rank": 7,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 373149,
+        "num": 612081,
+        "word": "女孩趁妈妈外出包一锅老鼠饺子",
+        "onboard_time": 1711446739,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 530224,
+        "num": 595028,
+        "word": "女子下班途中遭陌生男锁脖初中生相救",
+        "onboard_time": 1711446618,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 65973,
+        "num": 584630,
+        "word": "当美梦有了轮廓",
+        "onboard_time": 1711450339,
+        "rank": 10,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 1412037,
+        "num": 566489,
+        "word": "南宁出现大量裸奔人士系谣言",
+        "onboard_time": 1711444700,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 546588,
+        "num": 546588,
+        "word": "费启鸣拍的虞书欣",
+        "onboard_time": 1711451718,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 463889,
+        "num": 463889,
+        "word": "Angelababy嘟嘴比耶照",
+        "onboard_time": 1711448179,
+        "rank": 13,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 405452,
+        "num": 405452,
+        "word": "爸爸当家3官宣定档",
+        "onboard_time": 1711443439,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 396240,
+        "num": 396240,
+        "word": "Doinb疑似前往巴西",
+        "onboard_time": 1711447520,
+        "rank": 15,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 391703,
+        "num": 391703,
+        "word": "胖东来新增10天不开心假",
+        "onboard_time": 1711440558,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 332181,
+        "num": 332181,
+        "word": "肖宇梁好瘦",
+        "onboard_time": 1711450999,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 305547,
+        "num": 305547,
+        "word": "刘亦菲 我不要面子的吗",
+        "onboard_time": 1711441699,
+        "rank": 18,
+        "category": "艺人,幽默"
+      },
+      {
+        "raw_hot": 244056,
+        "num": 302519,
+        "word": "官方通报初中校长发表小小说杜鹃花落",
+        "onboard_time": 1711446138,
+        "rank": 19,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 809494,
+        "num": 300887,
+        "word": "武汉万科广场一女子裸奔",
+        "onboard_time": 1711441577,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 134826,
+        "num": 294873,
+        "word": "撒贝宁解密vivo蓝科技",
+        "onboard_time": 1711451418,
+        "rank": 21,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 332657,
+        "num": 293882,
+        "word": "警方介入女子裸体现身商场",
+        "onboard_time": 1711447578,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 311513,
+        "num": 289170,
+        "word": "原来是先决定结婚才求婚的",
+        "onboard_time": 1711449559,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 286363,
+        "num": 286363,
+        "word": "阿里37.5亿美元收购菜鸟剩余股权",
+        "onboard_time": 1711451837,
+        "rank": 24,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 279579,
+        "num": 279579,
+        "word": "十个勤天郁金香线上开售",
+        "onboard_time": 1711443139,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 275169,
+        "num": 275169,
+        "word": "为什么越来越多女性开始单身",
+        "onboard_time": 1711452078,
+        "rank": 26,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 248089,
+        "num": 248089,
+        "word": "大学四年买书花了五万",
+        "onboard_time": 1711451718,
+        "rank": 27,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 228297,
+        "num": 228297,
+        "word": "巴基斯坦",
+        "onboard_time": 1711451898,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 198804,
+        "num": 223235,
+        "word": "教师的另一半是什么职业",
+        "onboard_time": 1711446377,
+        "rank": 29,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 235476,
+        "num": 223160,
+        "word": "赵丽颖林更新不找朋友宣传剧的原因",
+        "onboard_time": 1711440919,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 222690,
+        "num": 222690,
+        "word": "胃癌几乎都是喂出来的",
+        "onboard_time": 1711423339,
+        "rank": 31,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 209671,
+        "num": 209671,
+        "word": "武艺去爸爸当家",
+        "onboard_time": 1711446198,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 39879,
+        "num": 193556,
+        "word": "长城汽车魏建军首发微博",
+        "onboard_time": 1711450158,
+        "rank": 33,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 192191,
+        "num": 192191,
+        "word": "俄军对乌克兰决策中心进行了集群打击",
+        "onboard_time": 1711452257,
+        "rank": 34,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 167289,
+        "num": 167289,
+        "word": "鹿晗金色长假发",
+        "onboard_time": 1711439957,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 165896,
+        "num": 165896,
+        "word": "王一博演追风者自己要求不化妆",
+        "onboard_time": 1711450158,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 164411,
+        "num": 164411,
+        "word": "海底捞2023年营收414.5亿",
+        "onboard_time": 1711451958,
+        "rank": 37,
+        "category": "财经,美食"
+      },
+      {
+        "raw_hot": 160331,
+        "num": 160331,
+        "word": "最宠朋友的星座",
+        "onboard_time": 1711450578,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 156684,
+        "num": 156684,
+        "word": "金智媛成为烧酒代言人",
+        "onboard_time": 1711441520,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 155721,
+        "num": 155721,
+        "word": "国足首发",
+        "onboard_time": 1711446319,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 154597,
+        "num": 154597,
+        "word": "杜鹃花落作者已被免职",
+        "onboard_time": 1711429581,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 149729,
+        "num": 149729,
+        "word": "王者新打野英雄大司命",
+        "onboard_time": 1711451119,
+        "rank": 42,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 149706,
+        "num": 149706,
+        "word": "FPX老板谈石头赶路被开除",
+        "onboard_time": 1711452318,
+        "rank": 43,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 145814,
+        "num": 145814,
+        "word": "在变懒的路上倒是挺勤快的",
+        "onboard_time": 1711451837,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 137530,
+        "num": 137530,
+        "word": "国足vs新加坡",
+        "onboard_time": 1711452677,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 134098,
+        "num": 134098,
+        "word": "粉丝18秒看了吴磊7次",
+        "onboard_time": 1711447819,
+        "rank": 46,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 132987,
+        "num": 132987,
+        "word": "秦岚迪丽热巴白衣自拍",
+        "onboard_time": 1711439598,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 126423,
+        "num": 126423,
+        "word": "十个勤天你们是真火了",
+        "onboard_time": 1711447278,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 121491,
+        "num": 121491,
+        "word": "周杰伦祝林俊杰生日快乐",
+        "onboard_time": 1711452798,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#中多关系已经成为南南合作的典范#"
+    }
+  }
+}
