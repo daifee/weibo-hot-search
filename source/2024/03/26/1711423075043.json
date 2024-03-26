@@ -1,0 +1,410 @@
+{
+  "runTime": 1711423075043,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1870376,
+        "num": 1870376,
+        "word": "奔跑吧12官宣",
+        "onboard_time": 1711419376,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1216889,
+        "num": 1216889,
+        "word": "奔跑吧12全阵容",
+        "onboard_time": 1711420458,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 26872,
+        "num": 1140775,
+        "word": "与春日繁花来场浪漫邂逅",
+        "onboard_time": 1711422618,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1537555,
+        "num": 1140714,
+        "word": "福建一女生长期遭同学霸凌跳楼身亡",
+        "onboard_time": 1711418538,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1436192,
+        "num": 1139956,
+        "word": "秋瓷炫喝醉被于晓光背上车",
+        "onboard_time": 1711419677,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1138314,
+        "num": 1138314,
+        "word": "陈戌源一审被判无期",
+        "onboard_time": 1711416917,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 847072,
+        "num": 847072,
+        "word": "莫斯科恐袭案4名被告全部认罪",
+        "onboard_time": 1711420398,
+        "rank": 6,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 496855,
+        "num": 496855,
+        "word": "房价要触底了吗",
+        "onboard_time": 1711410858,
+        "rank": 7,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 444697,
+        "num": 444697,
+        "word": "派出所回应女生长期遭霸凌跳楼身亡",
+        "onboard_time": 1711420277,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 401150,
+        "num": 401150,
+        "word": "招行大客户们存了10万亿元",
+        "onboard_time": 1711418899,
+        "rank": 9,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 375564,
+        "num": 375564,
+        "word": "我的孩子怎么会得精神疾病呢",
+        "onboard_time": 1711410498,
+        "rank": 10,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 368640,
+        "num": 368640,
+        "word": "女儿为去世妈妈写20万字重生文",
+        "onboard_time": 1711417158,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 366094,
+        "num": 366094,
+        "word": "垫底辣妹将翻拍中国版",
+        "onboard_time": 1711415119,
+        "rank": 12,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 331057,
+        "num": 331057,
+        "word": "地磁暴",
+        "onboard_time": 1711417276,
+        "rank": 13,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 315112,
+        "num": 315112,
+        "word": "陶昕然晒孙俪开机照",
+        "onboard_time": 1711422018,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 299266,
+        "num": 299266,
+        "word": "十个勤天直播包花",
+        "onboard_time": 1711419497,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 272399,
+        "num": 272399,
+        "word": "李惠利ins晒照",
+        "onboard_time": 1711411159,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 270907,
+        "num": 270907,
+        "word": "王者荣耀新赛季",
+        "onboard_time": 1711422499,
+        "rank": 17,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 262061,
+        "num": 262061,
+        "word": "中石油一年赚了1611亿元",
+        "onboard_time": 1711420939,
+        "rank": 18,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 259381,
+        "num": 259381,
+        "word": "迪丽热巴登北京周报封面",
+        "onboard_time": 1711421717,
+        "rank": 19,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 255401,
+        "num": 255401,
+        "word": "李耕耘 清风纸巾",
+        "onboard_time": 1711422437,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 245790,
+        "num": 245790,
+        "word": "什么时候认为要分手了",
+        "onboard_time": 1711420759,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 229729,
+        "num": 229729,
+        "word": "电影排球少年定档",
+        "onboard_time": 1711420098,
+        "rank": 22,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 221498,
+        "num": 221498,
+        "word": "陈铭",
+        "onboard_time": 1711409897,
+        "rank": 23,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 215823,
+        "num": 215823,
+        "word": "茶里九世",
+        "onboard_time": 1711410798,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 208492,
+        "num": 208492,
+        "word": "周深  奔跑吧12",
+        "onboard_time": 1711422738,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 185234,
+        "num": 185234,
+        "word": "中超原总经理董铮一审被判8年",
+        "onboard_time": 1711422320,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 184329,
+        "num": 184329,
+        "word": "足协原常务副秘书长陈永亮被判14年",
+        "onboard_time": 1711422557,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 182192,
+        "num": 182192,
+        "word": "限量版行李箱被摔破损吉祥航空只赔500",
+        "onboard_time": 1711417519,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 177605,
+        "num": 177605,
+        "word": "宝妈雇人带娃自己创业月售5000万",
+        "onboard_time": 1711416677,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 174903,
+        "num": 174903,
+        "word": "大姐自制清明果一年只卖20天赚十万",
+        "onboard_time": 1711383376,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 173811,
+        "num": 173811,
+        "word": "苹果官网鼓励升级到iPhone15",
+        "onboard_time": 1711409415,
+        "rank": 31,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 173186,
+        "num": 173186,
+        "word": "存款利率倒挂大概率是短期现象",
+        "onboard_time": 1711422138,
+        "rank": 32,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 164265,
+        "num": 164265,
+        "word": "原来人真的会一下子变老",
+        "onboard_time": 1711414939,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 158816,
+        "num": 158816,
+        "word": "天呐 我被吴磊给摸了",
+        "onboard_time": 1711422738,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 154006,
+        "num": 154006,
+        "word": "种地吧 只发江浙沪",
+        "onboard_time": 1711422918,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 36021,
+        "num": 152185,
+        "word": "当汉字与春天不期而遇",
+        "onboard_time": 1711413320,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 152076,
+        "num": 152076,
+        "word": "男子花90万收集NBA限量版球鞋",
+        "onboard_time": 1711421657,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 151797,
+        "num": 151797,
+        "word": "刘耀文坐严浩翔副驾",
+        "onboard_time": 1711420218,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 147177,
+        "num": 147177,
+        "word": "长时间玩手机容易得腱鞘炎",
+        "onboard_time": 1711413380,
+        "rank": 39,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 143269,
+        "num": 146707,
+        "word": "反向海淘到底有多香",
+        "onboard_time": 1711420038,
+        "rank": 40,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 146388,
+        "num": 146388,
+        "word": "王一博受刑戏是下雪天拍的",
+        "onboard_time": 1711417337,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 144385,
+        "num": 144385,
+        "word": "陈戌源揭发他人犯罪行为有立功表现",
+        "onboard_time": 1711417158,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 141795,
+        "num": 141795,
+        "word": "十个勤天",
+        "onboard_time": 1711409176,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 141488,
+        "num": 141488,
+        "word": "经常梳头和不怎么梳头哪种更健康",
+        "onboard_time": 1711414100,
+        "rank": 44,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 139326,
+        "num": 139326,
+        "word": "陈奕迅杭州抢票",
+        "onboard_time": 1711421059,
+        "rank": 45,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 135614,
+        "num": 135614,
+        "word": "杭州姐姐给了弟弟200元刮中100万",
+        "onboard_time": 1711376180,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 127970,
+        "num": 127970,
+        "word": "少林寺辟谣释永信之子释正恩接过衣钵",
+        "onboard_time": 1711417519,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 127870,
+        "num": 127870,
+        "word": "拂容君 与凤行行走的活性炭",
+        "onboard_time": 1711423039,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 125355,
+        "num": 125355,
+        "word": "今天的她们定档预告",
+        "onboard_time": 1711421538,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#中多关系已经成为南南合作的典范#"
+    }
+  }
+}
