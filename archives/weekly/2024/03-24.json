@@ -1,6 +1,6 @@
 {
   "startTime": 1711210803824,
-  "endTime": 1711419913551,
+  "endTime": 1711420592152,
   "band_list": [
     {
       "raw_hot": 3435224,
@@ -33,6 +33,14 @@
       "onboard_time": 1711278739,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2477774,
+      "num": 2477774,
+      "word": "奔跑吧12官宣",
+      "onboard_time": 1711419376,
+      "rank": 3,
+      "category": "综艺"
     },
     {
       "raw_hot": 2474722,
@@ -184,6 +192,14 @@
       "word": "台湾一男子持枪朝派出所门口扫射",
       "onboard_time": 1711254919,
       "rank": 3,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1504989,
+      "num": 1122943,
+      "word": "福建一女生长期遭同学霸凌跳楼身亡",
+      "onboard_time": 1711418538,
+      "rank": 47,
       "category": "社会新闻"
     },
     {
@@ -427,6 +443,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 1118176,
+      "num": 1118176,
+      "word": "秋瓷炫喝醉被于晓光背上车",
+      "onboard_time": 1711419677,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1112255,
       "num": 1112255,
       "word": "王勉爆改",
@@ -619,14 +643,6 @@
       "category": "自然"
     },
     {
-      "raw_hot": 924461,
-      "num": 924461,
-      "word": "奔跑吧12官宣",
-      "onboard_time": 1711419376,
-      "rank": 3,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 917921,
       "num": 511956,
       "word": "Angelababy杨超越互夸美甲",
@@ -673,14 +689,6 @@
       "onboard_time": 1711339399,
       "rank": 10,
       "category": "财经,社会新闻"
-    },
-    {
-      "raw_hot": 886799,
-      "num": 518889,
-      "word": "福建一女生长期遭同学霸凌跳楼身亡",
-      "onboard_time": 1711418538,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 882348,
@@ -1635,6 +1643,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 487485,
+      "num": 487485,
+      "word": "招行大客户们存了10万亿元",
+      "onboard_time": 1711418899,
+      "rank": 13,
+      "category": "财经"
+    },
+    {
       "raw_hot": 486776,
       "num": 486776,
       "word": "林更新是怎么做到不笑场的",
@@ -2059,6 +2075,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 389445,
+      "num": 389445,
+      "word": "十个勤天直播包花",
+      "onboard_time": 1711419497,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 387274,
       "num": 342523,
       "word": "被辞退的实习生在大群发的消息",
@@ -2121,14 +2145,6 @@
       "onboard_time": 1711381279,
       "rank": 13,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 375449,
-      "num": 375449,
-      "word": "招行大客户们存了10万亿元",
-      "onboard_time": 1711418899,
-      "rank": 13,
-      "category": "财经"
     },
     {
       "raw_hot": 369739,
@@ -2947,14 +2963,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 252223,
-      "num": 252223,
-      "word": "秋瓷炫喝醉被于晓光背上车",
-      "onboard_time": 1711419677,
-      "rank": 24,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 251298,
       "num": 251298,
       "word": "ILLIT正式出道",
@@ -2969,14 +2977,6 @@
       "onboard_time": 1711353919,
       "rank": 25,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 250340,
-      "num": 250340,
-      "word": "十个勤天直播包花",
-      "onboard_time": 1711419497,
-      "rank": 26,
-      "category": "综艺"
     },
     {
       "raw_hot": 249882,
@@ -3121,6 +3121,14 @@
       "onboard_time": 1711274479,
       "rank": 33,
       "category": "电影"
+    },
+    {
+      "raw_hot": 239850,
+      "num": 239850,
+      "word": "反向海淘到底有多香",
+      "onboard_time": 1711420038,
+      "rank": 22,
+      "category": "美妆"
     },
     {
       "raw_hot": 239660,
@@ -3579,6 +3587,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 213376,
+      "num": 213376,
+      "word": "电影排球少年定档",
+      "onboard_time": 1711420098,
+      "rank": 26,
+      "category": "电影"
+    },
+    {
       "raw_hot": 213372,
       "num": 213372,
       "word": "小米汽车上架AppStore",
@@ -3667,6 +3683,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 207016,
+      "num": 207016,
+      "word": "莫斯科恐袭案4名被告全部认罪",
+      "onboard_time": 1711420398,
+      "rank": 28,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 206847,
       "num": 206847,
       "word": "treasure南韩汪峰",
@@ -3681,6 +3705,14 @@
       "onboard_time": 1711357818,
       "rank": 33,
       "category": "体育"
+    },
+    {
+      "raw_hot": 205602,
+      "num": 205602,
+      "word": "派出所回应女生长期遭霸凌跳楼身亡",
+      "onboard_time": 1711420277,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 204941,
@@ -4147,6 +4179,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 187980,
+      "num": 187980,
+      "word": "奔跑吧12全阵容",
+      "onboard_time": 1711420458,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 187753,
       "num": 187753,
       "word": "00后的钝感力有多强",
@@ -4193,6 +4233,14 @@
       "onboard_time": 1711176439,
       "rank": 44,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 185913,
+      "num": 185913,
+      "word": "田协原主席于洪臣一审被判13年",
+      "onboard_time": 1711420277,
+      "rank": 36,
+      "category": "体育"
     },
     {
       "raw_hot": 185607,
@@ -4593,6 +4641,14 @@
       "onboard_time": 1711293320,
       "rank": 42,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 168013,
+      "num": 168013,
+      "word": "足球领域系列腐败案宣判",
+      "onboard_time": 1711420458,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 168012,
@@ -5273,6 +5329,14 @@
       "onboard_time": 1711343958,
       "rank": 47,
       "category": "读书作家"
+    },
+    {
+      "raw_hot": 143324,
+      "num": 143324,
+      "word": "刘耀文坐严浩翔副驾",
+      "onboard_time": 1711420218,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 143103,

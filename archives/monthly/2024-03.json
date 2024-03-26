@@ -1,6 +1,6 @@
 {
   "startTime": 1709223640991,
-  "endTime": 1711419913551,
+  "endTime": 1711420592152,
   "band_list": [
     {
       "raw_hot": 12728050,
@@ -593,6 +593,14 @@
       "onboard_time": 1710808597,
       "rank": 0,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 2477774,
+      "num": 2477774,
+      "word": "奔跑吧12官宣",
+      "onboard_time": 1711419376,
+      "rank": 3,
+      "category": "综艺"
     },
     {
       "raw_hot": 2474722,
@@ -2536,6 +2544,14 @@
       "word": "台湾一男子持枪朝派出所门口扫射",
       "onboard_time": 1711254919,
       "rank": 3,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1504989,
+      "num": 1122943,
+      "word": "福建一女生长期遭同学霸凌跳楼身亡",
+      "onboard_time": 1711418538,
+      "rank": 47,
       "category": "社会新闻"
     },
     {
@@ -4947,6 +4963,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 1118176,
+      "num": 1118176,
+      "word": "秋瓷炫喝醉被于晓光背上车",
+      "onboard_time": 1711419677,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1117216,
       "num": 1052315,
       "word": "鹿晗骨相",
@@ -6843,14 +6867,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 924461,
-      "num": 924461,
-      "word": "奔跑吧12官宣",
-      "onboard_time": 1711419376,
-      "rank": 3,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 922170,
       "num": 278629,
       "word": "反诈老陈回应是否后悔辞去公职",
@@ -7297,14 +7313,6 @@
       "onboard_time": 1710836734,
       "rank": 31,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 886799,
-      "num": 518889,
-      "word": "福建一女生长期遭同学霸凌跳楼身亡",
-      "onboard_time": 1711418538,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 883745,
@@ -17219,6 +17227,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 487485,
+      "num": 487485,
+      "word": "招行大客户们存了10万亿元",
+      "onboard_time": 1711418899,
+      "rank": 13,
+      "category": "财经"
+    },
+    {
       "raw_hot": 487481,
       "num": 487481,
       "word": "大侦探 自我介绍呢",
@@ -21819,6 +21835,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 389445,
+      "num": 389445,
+      "word": "十个勤天直播包花",
+      "onboard_time": 1711419497,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 389435,
       "num": 389435,
       "word": "为什么人类几乎不吃食肉动物的肉",
@@ -22633,14 +22657,6 @@
       "onboard_time": 1710059310,
       "rank": 31,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 375449,
-      "num": 375449,
-      "word": "招行大客户们存了10万亿元",
-      "onboard_time": 1711418899,
-      "rank": 13,
-      "category": "财经"
     },
     {
       "raw_hot": 375263,
@@ -32227,14 +32243,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 252223,
-      "num": 252223,
-      "word": "秋瓷炫喝醉被于晓光背上车",
-      "onboard_time": 1711419677,
-      "rank": 24,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 252159,
       "num": 252159,
       "word": "同程金融",
@@ -32377,14 +32385,6 @@
       "onboard_time": 1710682959,
       "rank": 30,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 250340,
-      "num": 250340,
-      "word": "十个勤天直播包花",
-      "onboard_time": 1711419497,
-      "rank": 26,
-      "category": "综艺"
     },
     {
       "raw_hot": 250321,
@@ -33785,6 +33785,14 @@
       "onboard_time": 1710908496,
       "rank": 42,
       "category": "演出"
+    },
+    {
+      "raw_hot": 239850,
+      "num": 239850,
+      "word": "反向海淘到底有多香",
+      "onboard_time": 1711420038,
+      "rank": 22,
+      "category": "美妆"
     },
     {
       "raw_hot": 239777,
@@ -38187,6 +38195,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 213376,
+      "num": 213376,
+      "word": "电影排球少年定档",
+      "onboard_time": 1711420098,
+      "rank": 26,
+      "category": "电影"
+    },
+    {
       "raw_hot": 213372,
       "num": 213372,
       "word": "小米汽车上架AppStore",
@@ -39451,6 +39467,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 207016,
+      "num": 207016,
+      "word": "莫斯科恐袭案4名被告全部认罪",
+      "onboard_time": 1711420398,
+      "rank": 28,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 206975,
       "num": 206975,
       "word": "你知道选择性缄默症吗",
@@ -39761,6 +39785,14 @@
       "onboard_time": 1710226473,
       "rank": 34,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 205602,
+      "num": 205602,
+      "word": "派出所回应女生长期遭霸凌跳楼身亡",
+      "onboard_time": 1711420277,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 205582,
@@ -44859,6 +44891,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 187980,
+      "num": 187980,
+      "word": "奔跑吧12全阵容",
+      "onboard_time": 1711420458,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 187907,
       "num": 187907,
       "word": "搭伙过日子和爱情的区别",
@@ -45353,6 +45393,14 @@
       "onboard_time": 1710031168,
       "rank": 21,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 185913,
+      "num": 185913,
+      "word": "田协原主席于洪臣一审被判13年",
+      "onboard_time": 1711420277,
+      "rank": 36,
+      "category": "体育"
     },
     {
       "raw_hot": 185832,
@@ -49705,6 +49753,14 @@
       "onboard_time": 1711293320,
       "rank": 42,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 168013,
+      "num": 168013,
+      "word": "足球领域系列腐败案宣判",
+      "onboard_time": 1711420458,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 168012,
@@ -56841,6 +56897,14 @@
       "onboard_time": 1710488671,
       "rank": 40,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 143324,
+      "num": 143324,
+      "word": "刘耀文坐严浩翔副驾",
+      "onboard_time": 1711420218,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 143306,
