@@ -1,6 +1,6 @@
 {
   "startTime": 1711383717224,
-  "endTime": 1711431318105,
+  "endTime": 1711434170585,
   "band_list": [
     {
       "raw_hot": 3922233,
@@ -81,6 +81,14 @@
       "onboard_time": 1711419677,
       "rank": 24,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1314070,
+      "num": 1314070,
+      "word": "杜鹃花落作者已被免职",
+      "onboard_time": 1711429581,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1241686,
@@ -171,6 +179,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 771468,
+      "num": 771468,
+      "word": "李彩玟方承认与柳多仁恋情",
+      "onboard_time": 1711431978,
+      "rank": 3,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 766828,
       "num": 766828,
       "word": "董宇辉湖北行被指排场大",
@@ -240,14 +256,6 @@
       "word": "大姐自制清明果一年只卖20天赚十万",
       "onboard_time": 1711383376,
       "rank": 47,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 606644,
-      "num": 606644,
-      "word": "杜鹃花落作者已被免职",
-      "onboard_time": 1711429581,
-      "rank": 29,
       "category": "社会新闻"
     },
     {
@@ -323,6 +331,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 546151,
+      "num": 546151,
+      "word": "成都初三语文试卷被曝美化侵华日军",
+      "onboard_time": 1711430180,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 545443,
       "num": 545443,
       "word": "闺蜜合伙盗窃靠反复怀孕育11子躲刑罚",
@@ -347,6 +363,14 @@
       "category": "自然,科学科普"
     },
     {
+      "raw_hot": 520457,
+      "num": 520457,
+      "word": "歌手吹牛老爹涉嫌多起性侵案",
+      "onboard_time": 1711431139,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 519892,
       "num": 519892,
       "word": "地磁暴1次要背多少锅",
@@ -361,14 +385,6 @@
       "onboard_time": 1711379658,
       "rank": 4,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 513798,
-      "num": 513798,
-      "word": "成都初三语文试卷被曝美化侵华日军",
-      "onboard_time": 1711430180,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 507094,
@@ -435,6 +451,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 453716,
+      "num": 418384,
+      "word": "店家称188元一杯奶茶亏本卖",
+      "onboard_time": 1711431739,
+      "rank": 12,
+      "category": "美食"
+    },
+    {
       "raw_hot": 444697,
       "num": 444697,
       "word": "派出所回应女生长期遭霸凌跳楼身亡",
@@ -449,6 +473,38 @@
       "onboard_time": 1711378880,
       "rank": 9,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 441995,
+      "num": 441995,
+      "word": "福州一学校厕所装反欺凌报警器",
+      "onboard_time": 1711432039,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 437568,
+      "num": 270246,
+      "word": "原来女生爱旅游在相亲届扣大分",
+      "onboard_time": 1711431739,
+      "rank": 22,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 435388,
+      "num": 435388,
+      "word": "晋江教育局通报初中女生坠亡",
+      "onboard_time": 1711431019,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 422426,
+      "num": 422426,
+      "word": "小米汽车销售称泄密要赔百万",
+      "onboard_time": 1711429221,
+      "rank": 27,
+      "category": "汽车"
     },
     {
       "raw_hot": 405663,
@@ -497,6 +553,14 @@
       "onboard_time": 1711381279,
       "rank": 13,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 375130,
+      "num": 375130,
+      "word": "王楚钦世排第一8020分",
+      "onboard_time": 1711430780,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 368677,
@@ -561,14 +625,6 @@
       "onboard_time": 1711414939,
       "rank": 29,
       "category": "情感"
-    },
-    {
-      "raw_hot": 315095,
-      "num": 315095,
-      "word": "小米汽车销售称泄密要赔百万",
-      "onboard_time": 1711429221,
-      "rank": 27,
-      "category": "汽车"
     },
     {
       "raw_hot": 315073,
@@ -707,6 +763,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 268330,
+      "num": 268330,
+      "word": "山姆同款鸡腿南京卖74元上海卖29元",
+      "onboard_time": 1711433358,
+      "rank": 23,
+      "category": "美食,社会新闻"
+    },
+    {
       "raw_hot": 266909,
       "num": 266909,
       "word": "肖战顺毛侧颜",
@@ -745,14 +809,6 @@
       "onboard_time": 1711421717,
       "rank": 19,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 252888,
-      "num": 252888,
-      "word": "王楚钦世排第一8020分",
-      "onboard_time": 1711430780,
-      "rank": 24,
-      "category": "体育"
     },
     {
       "raw_hot": 245790,
@@ -859,12 +915,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 205239,
+      "num": 205239,
+      "word": "众筹给猴崽换新衣服",
+      "onboard_time": 1711434137,
+      "rank": 24,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 204384,
       "num": 204384,
       "word": "小伙与女友相恋十年婚期前2月却退婚",
       "onboard_time": 1711409055,
       "rank": 37,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 202775,
+      "num": 202775,
+      "word": "黄仁俊变化",
+      "onboard_time": 1711432458,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 201474,
@@ -897,6 +969,22 @@
       "onboard_time": 1711423517,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 193917,
+      "num": 193917,
+      "word": "警方通报女子被拖行推下扶梯",
+      "onboard_time": 1711432157,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 189695,
+      "num": 189695,
+      "word": "陈都灵山水眼妆",
+      "onboard_time": 1711433300,
+      "rank": 28,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 189350,
@@ -1003,6 +1091,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 173656,
+      "num": 173656,
+      "word": "ILLIT电台live",
+      "onboard_time": 1711432819,
+      "rank": 29,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 173186,
       "num": 173186,
       "word": "存款利率倒挂大概率是短期现象",
@@ -1033,6 +1129,14 @@
       "onboard_time": 1711368439,
       "rank": 23,
       "category": "情感"
+    },
+    {
+      "raw_hot": 171098,
+      "num": 171098,
+      "word": "被魏若来受刑硬控了三分钟",
+      "onboard_time": 1711433117,
+      "rank": 30,
+      "category": "剧集"
     },
     {
       "raw_hot": 170365,
@@ -1067,14 +1171,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 168529,
-      "num": 168529,
-      "word": "晋江教育局通报初中女生坠亡",
-      "onboard_time": 1711431019,
-      "rank": 32,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 168314,
       "num": 168314,
       "word": "春天 精神病的高发季",
@@ -1097,14 +1193,6 @@
       "onboard_time": 1711361298,
       "rank": 25,
       "category": "体育,作品衍生"
-    },
-    {
-      "raw_hot": 164642,
-      "num": 164642,
-      "word": "歌手吹牛老爹涉嫌多起性侵案",
-      "onboard_time": 1711431139,
-      "rank": 35,
-      "category": "艺人"
     },
     {
       "raw_hot": 161678,
@@ -1283,6 +1371,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 133888,
+      "num": 133888,
+      "word": "属于沈星回的春天",
+      "onboard_time": 1711432939,
+      "rank": 37,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 127578,
       "num": 127578,
       "word": "如何看待中国大学的宿舍制度",
@@ -1297,6 +1393,14 @@
       "onboard_time": 1711416558,
       "rank": 48,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 126730,
+      "num": 126730,
+      "word": "时代少年团版左手指月",
+      "onboard_time": 1711432399,
+      "rank": 40,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 126057,
@@ -1371,6 +1475,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 115205,
+      "num": 115205,
+      "word": "上官正义举报宜丰县产科主任勾结代孕中介",
+      "onboard_time": 1711433839,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 114619,
       "num": 114619,
       "word": "摩羯座寡淡的原因",
@@ -1393,6 +1505,14 @@
       "onboard_time": 1711374020,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 107711,
+      "num": 107711,
+      "word": "官方回应高中教师招聘薪资低于1K",
+      "onboard_time": 1711431558,
+      "rank": 47,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 107409,
@@ -1531,6 +1651,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 70558,
+      "num": 158873,
+      "word": "穿气垫鞋原来需要先激活",
+      "onboard_time": 1711430780,
+      "rank": 38,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 68194,
       "num": 68194,
       "word": "穿开衫好看的方法",
@@ -1611,6 +1739,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 44226,
+      "num": 111432,
+      "word": "唐毅给陈都灵画青山绿水妆",
+      "onboard_time": 1711433778,
+      "rank": 45,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 41987,
       "num": 41987,
       "word": "墨香铜臭已被注册为商标",
@@ -1673,14 +1809,6 @@
       "onboard_time": 1711388472,
       "rank": 32,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 27512,
-      "num": 158873,
-      "word": "穿气垫鞋原来需要先激活",
-      "onboard_time": 1711430780,
-      "rank": 38,
-      "category": "运动健身"
     },
     {
       "raw_hot": 26529,
