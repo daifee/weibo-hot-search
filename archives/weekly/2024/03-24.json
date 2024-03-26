@@ -1,6 +1,6 @@
 {
   "startTime": 1711210803824,
-  "endTime": 1711478073122,
+  "endTime": 1711480484673,
   "band_list": [
     {
       "raw_hot": 3922233,
@@ -8803,6 +8803,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 50139,
+      "num": 47238,
+      "word": "优酷待播剧预约前十",
+      "onboard_time": 1711477092,
+      "rank": 22,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 49657,
       "num": 49657,
       "word": "崩坏星穹铁道",
@@ -8825,14 +8833,6 @@
       "onboard_time": 1711453699,
       "rank": 10,
       "category": "数码"
-    },
-    {
-      "raw_hot": 47815,
-      "num": 45612,
-      "word": "优酷待播剧预约前十",
-      "onboard_time": 1711477092,
-      "rank": 22,
-      "category": "剧集"
     },
     {
       "raw_hot": 47584,
@@ -9185,6 +9185,14 @@
       "onboard_time": 1711308850,
       "rank": 44,
       "category": "动漫,作品衍生"
+    },
+    {
+      "raw_hot": 15892,
+      "num": 16781,
+      "word": "茅威涛 陈丽君爆火意料之外情理之中",
+      "onboard_time": 1711480391,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 13985,

@@ -1,6 +1,6 @@
 {
   "startTime": 1709223640991,
-  "endTime": 1711478073122,
+  "endTime": 1711480484673,
   "band_list": [
     {
       "raw_hot": 12728050,
@@ -72243,6 +72243,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 50139,
+      "num": 47238,
+      "word": "优酷待播剧预约前十",
+      "onboard_time": 1711477092,
+      "rank": 22,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 50094,
       "num": 45028,
       "word": "何炅演发疯",
@@ -72385,14 +72393,6 @@
       "onboard_time": 1710164011,
       "rank": 47,
       "category": "时尚,作品衍生"
-    },
-    {
-      "raw_hot": 47815,
-      "num": 45612,
-      "word": "优酷待播剧预约前十",
-      "onboard_time": 1711477092,
-      "rank": 22,
-      "category": "剧集"
     },
     {
       "raw_hot": 47782,
@@ -74377,6 +74377,14 @@
       "onboard_time": 1709584395,
       "rank": 49,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 15892,
+      "num": 16781,
+      "word": "茅威涛 陈丽君爆火意料之外情理之中",
+      "onboard_time": 1711480391,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 15683,
