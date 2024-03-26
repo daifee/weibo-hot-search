@@ -1,6 +1,6 @@
 {
   "startTime": 1711383717224,
-  "endTime": 1711462691349,
+  "endTime": 1711463660969,
   "band_list": [
     {
       "raw_hot": 3922233,
@@ -76,7 +76,7 @@
     },
     {
       "raw_hot": 1810036,
-      "num": 637845,
+      "num": 654362,
       "word": "南宁出现大量裸奔人士系谣言",
       "onboard_time": 1711444700,
       "rank": 10,
@@ -419,6 +419,30 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 687402,
+      "num": 687402,
+      "word": "王一博 转型",
+      "onboard_time": 1711459520,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 686897,
+      "num": 686897,
+      "word": "泰国vs韩国",
+      "onboard_time": 1711462280,
+      "rank": 22,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 684480,
+      "num": 684480,
+      "word": "金赛纶发金秀贤合影是为了炫耀",
+      "onboard_time": 1711463359,
+      "rank": 8,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 683052,
       "num": 571891,
       "word": "7年前考上央美的保安现在怎么样了",
@@ -443,12 +467,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 644809,
-      "num": 644809,
-      "word": "王一博 转型",
-      "onboard_time": 1711459520,
-      "rank": 25,
-      "category": "剧集"
+      "raw_hot": 650460,
+      "num": 650460,
+      "word": "iPhone16功能键或变大",
+      "onboard_time": 1711461502,
+      "rank": 19,
+      "category": "数码"
     },
     {
       "raw_hot": 643477,
@@ -603,6 +627,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 545854,
+      "num": 545854,
+      "word": "赵丽颖李嘉琦对手戏",
+      "onboard_time": 1711458558,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 545443,
       "num": 545443,
       "word": "闺蜜合伙盗窃靠反复怀孕育11子躲刑罚",
@@ -633,14 +665,6 @@
       "onboard_time": 1711422738,
       "rank": 34,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 536924,
-      "num": 536924,
-      "word": "赵丽颖李嘉琦对手戏",
-      "onboard_time": 1711458558,
-      "rank": 28,
-      "category": "剧集"
     },
     {
       "raw_hot": 526689,
@@ -675,6 +699,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 513831,
+      "num": 513831,
+      "word": "武磊战泰国将停赛",
+      "onboard_time": 1711462219,
+      "rank": 13,
+      "category": "体育"
+    },
+    {
       "raw_hot": 507094,
       "num": 507094,
       "word": "女儿为去世妈妈写20万字重生文",
@@ -684,7 +716,7 @@
     },
     {
       "raw_hot": 503047,
-      "num": 301779,
+      "num": 333914,
       "word": "警方介入女子裸体现身商场",
       "onboard_time": 1711447578,
       "rank": 22,
@@ -777,14 +809,6 @@
       "onboard_time": 1711375519,
       "rank": 8,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 455740,
-      "num": 455740,
-      "word": "武磊战泰国将停赛",
-      "onboard_time": 1711462219,
-      "rank": 13,
-      "category": "体育"
     },
     {
       "raw_hot": 455619,
@@ -953,14 +977,6 @@
       "onboard_time": 1711381279,
       "rank": 13,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 375393,
-      "num": 375393,
-      "word": "iPhone16功能键或变大",
-      "onboard_time": 1711461502,
-      "rank": 19,
-      "category": "数码"
     },
     {
       "raw_hot": 375130,
@@ -1155,14 +1171,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 301870,
-      "num": 301870,
-      "word": "泰国vs韩国",
-      "onboard_time": 1711462280,
-      "rank": 22,
-      "category": "体育"
-    },
-    {
       "raw_hot": 299906,
       "num": 299906,
       "word": "十个勤天的小店",
@@ -1177,6 +1185,14 @@
       "onboard_time": 1711456757,
       "rank": 41,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 298311,
+      "num": 298311,
+      "word": "飞儿乐团法院合体",
+      "onboard_time": 1711458079,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 297713,
@@ -1427,6 +1443,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 251775,
+      "num": 251775,
+      "word": "我的保洁阿姨在北京买了套房",
+      "onboard_time": 1711462219,
+      "rank": 34,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 249921,
+      "num": 249921,
+      "word": "武磊两射一传",
+      "onboard_time": 1711463480,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 248089,
       "num": 248089,
       "word": "大学四年买书花了五万",
@@ -1473,14 +1505,6 @@
       "onboard_time": 1711447278,
       "rank": 25,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 239890,
-      "num": 239890,
-      "word": "飞儿乐团法院合体",
-      "onboard_time": 1711458079,
-      "rank": 31,
-      "category": "艺人"
     },
     {
       "raw_hot": 239850,
@@ -1579,10 +1603,10 @@
       "category": "体育,综艺"
     },
     {
-      "raw_hot": 227252,
-      "num": 227252,
-      "word": "我的保洁阿姨在北京买了套房",
-      "onboard_time": 1711462219,
+      "raw_hot": 227173,
+      "num": 227173,
+      "word": "因为什么跟最好的朋友互删了",
+      "onboard_time": 1711463179,
       "rank": 34,
       "category": "情感"
     },
@@ -1651,6 +1675,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 210269,
+      "num": 256524,
+      "word": "国足2024年首胜",
+      "onboard_time": 1711463179,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 208492,
       "num": 208492,
       "word": "周深  奔跑吧12",
@@ -1683,6 +1715,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 205665,
+      "num": 205665,
+      "word": "大家不要老是幻想自己死了",
+      "onboard_time": 1711462639,
+      "rank": 49,
+      "category": "情感"
+    },
+    {
       "raw_hot": 205239,
       "num": 205239,
       "word": "众筹给猴崽换新衣服",
@@ -1699,6 +1739,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 204759,
+      "num": 204759,
+      "word": "国足主场大屏幕有梅西",
+      "onboard_time": 1711462580,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 204384,
       "num": 204384,
       "word": "小伙与女友相恋十年婚期前2月却退婚",
@@ -1713,6 +1761,14 @@
       "onboard_time": 1711447339,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 203243,
+      "num": 203243,
+      "word": "武磊梅开二度",
+      "onboard_time": 1711462400,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 202775,
@@ -1795,12 +1851,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 197225,
+      "num": 197225,
+      "word": "RNG群访",
+      "onboard_time": 1711462880,
+      "rank": 39,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 195830,
       "num": 195830,
       "word": "奔跑吧",
       "onboard_time": 1711441937,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 194799,
+      "num": 194799,
+      "word": "行止拔沈璃的头发",
+      "onboard_time": 1711463000,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 194795,
@@ -1851,6 +1923,22 @@
       "category": "互联网,社会新闻"
     },
     {
+      "raw_hot": 192567,
+      "num": 192567,
+      "word": "行止开大",
+      "onboard_time": 1711461200,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 192418,
+      "num": 192418,
+      "word": "世界杯预选赛",
+      "onboard_time": 1711462940,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 192360,
       "num": 192360,
       "word": "李源一红牌",
@@ -1899,27 +1987,11 @@
       "category": "演出"
     },
     {
-      "raw_hot": 187685,
-      "num": 187685,
-      "word": "武磊梅开二度",
-      "onboard_time": 1711462400,
-      "rank": 39,
-      "category": "体育"
-    },
-    {
       "raw_hot": 186995,
       "num": 186995,
       "word": "还好王一博会popping",
       "onboard_time": 1711457418,
       "rank": 34,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 186705,
-      "num": 186705,
-      "word": "行止开大",
-      "onboard_time": 1711461200,
-      "rank": 40,
       "category": "剧集"
     },
     {
@@ -2355,6 +2427,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 158009,
+      "num": 158009,
+      "word": "陈晓直播",
+      "onboard_time": 1711461378,
+      "rank": 47,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 155838,
       "num": 155838,
       "word": "黄仁俊泡泡",
@@ -2425,14 +2505,6 @@
       "onboard_time": 1711420218,
       "rank": 45,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 151267,
-      "num": 151267,
-      "word": "陈晓直播",
-      "onboard_time": 1711461378,
-      "rank": 47,
-      "category": "艺人"
     },
     {
       "raw_hot": 150158,
@@ -2523,6 +2595,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 146341,
+      "num": 146341,
+      "word": "与凤行",
+      "onboard_time": 1711463599,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 145814,
       "num": 145814,
       "word": "在变懒的路上倒是挺勤快的",
@@ -2571,14 +2651,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 144587,
-      "num": 144587,
-      "word": "大家不要老是幻想自己死了",
-      "onboard_time": 1711462639,
-      "rank": 49,
-      "category": "情感"
-    },
-    {
       "raw_hot": 144154,
       "num": 144154,
       "word": "你嗜睡可能真的不能赖地磁暴",
@@ -2593,6 +2665,14 @@
       "onboard_time": 1711455137,
       "rank": 47,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 141724,
+      "num": 141724,
+      "word": "真是年纪越大越不想社交",
+      "onboard_time": 1711463599,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 140961,
@@ -3291,6 +3371,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 33813,
+      "num": 254187,
+      "word": "AI和折叠屏天生是绝配",
+      "onboard_time": 1711461682,
+      "rank": 30,
+      "category": "数码,互联网"
+    },
+    {
       "raw_hot": 33380,
       "num": 40271,
       "word": "猫 会不会说点吉利话",
@@ -3305,14 +3393,6 @@
       "onboard_time": 1711390214,
       "rank": 31,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 31256,
-      "num": 250895,
-      "word": "AI和折叠屏天生是绝配",
-      "onboard_time": 1711461682,
-      "rank": 30,
-      "category": "数码,互联网"
     },
     {
       "raw_hot": 31236,
