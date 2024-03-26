@@ -1,6 +1,6 @@
 {
   "startTime": 1711210803824,
-  "endTime": 1711456317590,
+  "endTime": 1711457165386,
   "band_list": [
     {
       "raw_hot": 3922233,
@@ -136,6 +136,14 @@
       "word": "警方已介入幼儿园老师打孩子头并踩脸",
       "onboard_time": 1711344738,
       "rank": 48,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1920659,
+      "num": 1257033,
+      "word": "女子怀孕后鼻子变大两倍",
+      "onboard_time": 1711455080,
+      "rank": 3,
       "category": "社会新闻"
     },
     {
@@ -379,6 +387,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1342121,
+      "num": 1342121,
+      "word": "国足vs新加坡",
+      "onboard_time": 1711452677,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1338266,
       "num": 1338266,
       "word": "涉黄AI换脸案有人用暗恋女生换脸",
@@ -419,14 +435,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 1290347,
-      "num": 1290347,
-      "word": "国足vs新加坡",
-      "onboard_time": 1711452677,
-      "rank": 45,
-      "category": "体育"
-    },
-    {
       "raw_hot": 1287479,
       "num": 1287479,
       "word": "王鸥复工身材状态",
@@ -448,14 +456,6 @@
       "word": "乡村小学校长侵害5名未成年女生",
       "onboard_time": 1711338499,
       "rank": 6,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1257033,
-      "num": 1257033,
-      "word": "女子怀孕后鼻子变大两倍",
-      "onboard_time": 1711455080,
-      "rank": 3,
       "category": "社会新闻"
     },
     {
@@ -708,7 +708,7 @@
     },
     {
       "raw_hot": 1017961,
-      "num": 339932,
+      "num": 373177,
       "word": "武汉万科广场一女子裸奔",
       "onboard_time": 1711441577,
       "rank": 36,
@@ -843,6 +843,14 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 891812,
+      "num": 891812,
+      "word": "巴基斯坦",
+      "onboard_time": 1711451898,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 868975,
       "num": 868975,
       "word": "李惠利ins晒照",
@@ -881,14 +889,6 @@
       "onboard_time": 1711433358,
       "rank": 23,
       "category": "美食,社会新闻"
-    },
-    {
-      "raw_hot": 832677,
-      "num": 832677,
-      "word": "巴基斯坦",
-      "onboard_time": 1711451898,
-      "rank": 28,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 828870,
@@ -2443,6 +2443,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 422074,
+      "num": 422074,
+      "word": "为什么越来越多女性开始单身",
+      "onboard_time": 1711452078,
+      "rank": 26,
+      "category": "情感"
+    },
+    {
       "raw_hot": 421391,
       "num": 421391,
       "word": "特鲁姆普10比4丁俊晖",
@@ -2547,20 +2555,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 402433,
+      "num": 402433,
+      "word": "花间令 临终把男二托给男主",
+      "onboard_time": 1711454900,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 402318,
       "num": 402318,
       "word": "宋亚轩坐上了刘耀文的副驾",
       "onboard_time": 1711360939,
       "rank": 21,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 401706,
-      "num": 401706,
-      "word": "花间令 临终把男二托给男主",
-      "onboard_time": 1711454900,
-      "rank": 17,
-      "category": "剧集"
     },
     {
       "raw_hot": 401012,
@@ -2619,6 +2627,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 392589,
+      "num": 392589,
+      "word": "叔圈天菜和娃娃菜",
+      "onboard_time": 1711453637,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 390697,
       "num": 390697,
       "word": "俄恐袭遇难者遗体辨认工作开始",
@@ -2628,7 +2644,7 @@
     },
     {
       "raw_hot": 389457,
-      "num": 338950,
+      "num": 372198,
       "word": "女生取24颗胆结石没事盘着玩",
       "onboard_time": 1711454538,
       "rank": 22,
@@ -2835,14 +2851,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 355300,
-      "num": 355300,
-      "word": "为什么越来越多女性开始单身",
-      "onboard_time": 1711452078,
-      "rank": 26,
-      "category": "情感"
-    },
-    {
       "raw_hot": 355157,
       "num": 355157,
       "word": "ILLIT出道曲",
@@ -3017,14 +3025,6 @@
       "onboard_time": 1711397292,
       "rank": 13,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 337875,
-      "num": 337875,
-      "word": "叔圈天菜和娃娃菜",
-      "onboard_time": 1711453637,
-      "rank": 23,
-      "category": "剧集"
     },
     {
       "raw_hot": 337022,
@@ -3531,6 +3531,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 277549,
+      "num": 207321,
+      "word": "有的树一出生就是陈皮",
+      "onboard_time": 1711456578,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 277367,
       "num": 277367,
       "word": "何超莲霍启山同框",
@@ -3585,6 +3593,14 @@
       "onboard_time": 1711253838,
       "rank": 29,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 268699,
+      "num": 268699,
+      "word": "武磊单刀破门",
+      "onboard_time": 1711456458,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 268693,
@@ -4691,6 +4707,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 206093,
+      "num": 206093,
+      "word": "丁达尔效应下的白鹿",
+      "onboard_time": 1711456699,
+      "rank": 31,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 205239,
       "num": 205239,
       "word": "众筹给猴崽换新衣服",
@@ -5555,6 +5579,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 179747,
+      "num": 179747,
+      "word": "刘洋思考人生",
+      "onboard_time": 1711456998,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 179336,
       "num": 179336,
       "word": "邓超给女儿买礼物",
@@ -5659,6 +5691,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 176521,
+      "num": 176521,
+      "word": "赵小棠和妈妈俩人炒不出一份西红柿鸡蛋",
+      "onboard_time": 1711456757,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 176475,
       "num": 176475,
       "word": "比苹果更没有果张力的水果",
@@ -5731,6 +5771,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 172732,
+      "num": 172732,
+      "word": "网易射雕",
+      "onboard_time": 1711456877,
+      "rank": 40,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 172634,
       "num": 172634,
       "word": "DYG 抽象",
@@ -5745,6 +5793,14 @@
       "onboard_time": 1711428620,
       "rank": 37,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 172010,
+      "num": 172010,
+      "word": "下班后的年轻人开始搞第二事业了",
+      "onboard_time": 1711456757,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 171159,
@@ -6041,6 +6097,14 @@
       "onboard_time": 1711451958,
       "rank": 37,
       "category": "财经,美食"
+    },
+    {
+      "raw_hot": 163948,
+      "num": 163948,
+      "word": "新加坡闪电扳平",
+      "onboard_time": 1711456939,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 163890,
@@ -6801,6 +6865,14 @@
       "onboard_time": 1711275139,
       "rank": 38,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 144771,
+      "num": 144771,
+      "word": "辽宁男篮vs新疆男篮",
+      "onboard_time": 1711456699,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 144715,
@@ -7987,6 +8059,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 74151,
+      "num": 219193,
+      "word": "没想到vivo是真听劝啊",
+      "onboard_time": 1711455858,
+      "rank": 29,
+      "category": "数码"
+    },
+    {
       "raw_hot": 73579,
       "num": 73579,
       "word": "法国0比2德国",
@@ -8099,14 +8179,6 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 64848,
-      "num": 219193,
-      "word": "没想到vivo是真听劝啊",
-      "onboard_time": 1711455858,
-      "rank": 29,
-      "category": "数码"
-    },
-    {
       "raw_hot": 63571,
       "num": 63571,
       "word": "这是水肿不是胖了",
@@ -8137,6 +8209,14 @@
       "onboard_time": 1711301234,
       "rank": 43,
       "category": "演出"
+    },
+    {
+      "raw_hot": 52825,
+      "num": 187173,
+      "word": "一句话就能让AI剪好视频",
+      "onboard_time": 1711456398,
+      "rank": 35,
+      "category": "互联网"
     },
     {
       "raw_hot": 52437,
@@ -8179,6 +8259,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 48908,
+      "num": 497238,
+      "word": "vivoXFold3发布会",
+      "onboard_time": 1711453699,
+      "rank": 10,
+      "category": "数码"
+    },
+    {
       "raw_hot": 47584,
       "num": 47584,
       "word": "迪丽热巴宣传中国广电",
@@ -8217,14 +8305,6 @@
       "onboard_time": 1711236735,
       "rank": 46,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 42917,
-      "num": 497238,
-      "word": "vivoXFold3发布会",
-      "onboard_time": 1711453699,
-      "rank": 10,
-      "category": "数码"
     },
     {
       "raw_hot": 42345,
@@ -8276,7 +8356,7 @@
     },
     {
       "raw_hot": 36935,
-      "num": 191305,
+      "num": 196321,
       "word": "vivoXFold3发布标志折叠机已成熟",
       "onboard_time": 1711454719,
       "rank": 34,
@@ -8347,6 +8427,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 28546,
+      "num": 373360,
+      "word": "索纳塔打响中级车反击战",
+      "onboard_time": 1711453578,
+      "rank": 20,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 28294,
       "num": 906080,
       "word": "春种科技范拉满",
@@ -8401,14 +8489,6 @@
       "onboard_time": 1711390632,
       "rank": 47,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 23234,
-      "num": 340657,
-      "word": "索纳塔打响中级车反击战",
-      "onboard_time": 1711453578,
-      "rank": 20,
-      "category": "汽车"
     },
     {
       "raw_hot": 23062,
@@ -8468,7 +8548,7 @@
     },
     {
       "raw_hot": 16840,
-      "num": 493758,
+      "num": 1005869,
       "word": "春日高铁路线上新伴你走花路",
       "onboard_time": 1711441937,
       "rank": 7,
