@@ -1,7 +1,15 @@
 {
   "startTime": 1711210803824,
-  "endTime": 1711430195980,
+  "endTime": 1711431318105,
   "band_list": [
+    {
+      "raw_hot": 3922233,
+      "num": 3922233,
+      "word": "地磁暴 嗜睡",
+      "onboard_time": 1711428021,
+      "rank": 0,
+      "category": "科学科普"
+    },
     {
       "raw_hot": 3435224,
       "num": 3435224,
@@ -17,14 +25,6 @@
       "onboard_time": 1711348338,
       "rank": 11,
       "category": "读书作家,作品衍生"
-    },
-    {
-      "raw_hot": 2906437,
-      "num": 2906437,
-      "word": "地磁暴 嗜睡",
-      "onboard_time": 1711428021,
-      "rank": 0,
-      "category": "科学科普"
     },
     {
       "raw_hot": 2859654,
@@ -707,6 +707,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 916507,
+      "num": 916507,
+      "word": "双高父母偏信遗传基因17岁儿子身高仅163",
+      "onboard_time": 1711427300,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 912935,
       "num": 912935,
       "word": "莫斯科恐袭已致133死152伤",
@@ -1075,14 +1083,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 698110,
-      "num": 698110,
-      "word": "双高父母偏信遗传基因17岁儿子身高仅163",
-      "onboard_time": 1711427300,
-      "rank": 36,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 693833,
       "num": 273043,
       "word": "死丫头劲真大",
@@ -1137,6 +1137,14 @@
       "onboard_time": 1711330159,
       "rank": 38,
       "category": "财经"
+    },
+    {
+      "raw_hot": 683769,
+      "num": 683769,
+      "word": "地球出现3小时特大地磁暴",
+      "onboard_time": 1711424957,
+      "rank": 29,
+      "category": "科学科普"
     },
     {
       "raw_hot": 683123,
@@ -1339,6 +1347,14 @@
       "category": "艺人,财经"
     },
     {
+      "raw_hot": 606644,
+      "num": 606644,
+      "word": "杜鹃花落作者已被免职",
+      "onboard_time": 1711429581,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 603572,
       "num": 603572,
       "word": "strong哥",
@@ -1507,6 +1523,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 549445,
+      "num": 549445,
+      "word": "深圳取消7090政策",
+      "onboard_time": 1711428261,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 546675,
       "num": 546675,
       "word": "女孩走失被热成像无人机20分钟找到",
@@ -1667,6 +1691,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 513798,
+      "num": 513798,
+      "word": "成都初三语文试卷被曝美化侵华日军",
+      "onboard_time": 1711430180,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 509945,
       "num": 509945,
       "word": "杨和苏鼻梁",
@@ -1745,14 +1777,6 @@
       "onboard_time": 1711272259,
       "rank": 21,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 497266,
-      "num": 497266,
-      "word": "地球出现3小时特大地磁暴",
-      "onboard_time": 1711424957,
-      "rank": 29,
-      "category": "科学科普"
     },
     {
       "raw_hot": 495201,
@@ -2161,14 +2185,6 @@
       "onboard_time": 1711422437,
       "rank": 20,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 403542,
-      "num": 403542,
-      "word": "深圳取消7090政策",
-      "onboard_time": 1711428261,
-      "rank": 16,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 402729,
@@ -2673,6 +2689,14 @@
       "onboard_time": 1711345578,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 315095,
+      "num": 315095,
+      "word": "小米汽车销售称泄密要赔百万",
+      "onboard_time": 1711429221,
+      "rank": 27,
+      "category": "汽车"
     },
     {
       "raw_hot": 315073,
@@ -3203,14 +3227,6 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 255680,
-      "num": 255680,
-      "word": "小米汽车销售称泄密要赔百万",
-      "onboard_time": 1711429221,
-      "rank": 27,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 255560,
       "num": 255560,
       "word": "在俊啊 回到水泥里吧",
@@ -3235,12 +3251,12 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 252956,
-      "num": 252956,
-      "word": "杜鹃花落作者已被免职",
-      "onboard_time": 1711429581,
-      "rank": 29,
-      "category": "社会新闻"
+      "raw_hot": 252888,
+      "num": 252888,
+      "word": "王楚钦世排第一8020分",
+      "onboard_time": 1711430780,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 251298,
@@ -3907,14 +3923,6 @@
       "category": "汽车,互联网"
     },
     {
-      "raw_hot": 212948,
-      "num": 212948,
-      "word": "成都初三语文试卷被曝美化侵华日军",
-      "onboard_time": 1711430180,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 211100,
       "num": 211100,
       "word": "周也潍坊",
@@ -4515,12 +4523,28 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 188677,
+      "num": 188677,
+      "word": "杨幂高马尾运动风",
+      "onboard_time": 1711430119,
+      "rank": 48,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 188486,
       "num": 188486,
       "word": "与凤行弹幕",
       "onboard_time": 1711379959,
       "rank": 30,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 188080,
+      "num": 188080,
+      "word": "国潮音乐节",
+      "onboard_time": 1711430539,
+      "rank": 30,
+      "category": "演出"
     },
     {
       "raw_hot": 187753,
@@ -5003,6 +5027,22 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 168529,
+      "num": 168529,
+      "word": "晋江教育局通报初中女生坠亡",
+      "onboard_time": 1711431019,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 168314,
+      "num": 168314,
+      "word": "春天 精神病的高发季",
+      "onboard_time": 1711429700,
+      "rank": 41,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 168217,
       "num": 168217,
       "word": "1688启动全面入淘",
@@ -5083,6 +5123,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 164642,
+      "num": 164642,
+      "word": "歌手吹牛老爹涉嫌多起性侵案",
+      "onboard_time": 1711431139,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 164631,
       "num": 164631,
       "word": "金莎化丑妆和男朋友视频",
@@ -5105,14 +5153,6 @@
       "onboard_time": 1711333819,
       "rank": 44,
       "category": "情感"
-    },
-    {
-      "raw_hot": 164067,
-      "num": 164067,
-      "word": "春天 精神病的高发季",
-      "onboard_time": 1711429700,
-      "rank": 41,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 163890,
@@ -5963,14 +6003,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 138427,
-      "num": 138427,
-      "word": "杨幂高马尾运动风",
-      "onboard_time": 1711430119,
-      "rank": 48,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 138234,
       "num": 138234,
       "word": "尔滨上新草莓烤冷面",
@@ -6265,6 +6297,14 @@
       "onboard_time": 1711421538,
       "rank": 49,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 125005,
+      "num": 125005,
+      "word": "AG全员蝉联周最佳",
+      "onboard_time": 1711427720,
+      "rank": 47,
+      "category": "电竞"
     },
     {
       "raw_hot": 124984,
@@ -6723,6 +6763,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 72242,
+      "num": 318670,
+      "word": "一双鞋解锁赛博运动风",
+      "onboard_time": 1711427540,
+      "rank": 49,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 71217,
       "num": 71217,
       "word": "刘嘉玲梁朝伟孔晓振合照",
@@ -6809,14 +6857,6 @@
       "onboard_time": 1711251198,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 63002,
-      "num": 318670,
-      "word": "一双鞋解锁赛博运动风",
-      "onboard_time": 1711427540,
-      "rank": 49,
-      "category": "时尚"
     },
     {
       "raw_hot": 58088,
@@ -7017,6 +7057,14 @@
       "onboard_time": 1711338078,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 27512,
+      "num": 158873,
+      "word": "穿气垫鞋原来需要先激活",
+      "onboard_time": 1711430780,
+      "rank": 38,
+      "category": "运动健身"
     },
     {
       "raw_hot": 26835,
