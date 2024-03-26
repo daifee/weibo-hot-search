@@ -1,0 +1,410 @@
+{
+  "runTime": 1711434942980,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3554734,
+        "num": 3554734,
+        "word": "地磁暴 嗜睡",
+        "onboard_time": 1711428021,
+        "rank": 0,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 1367648,
+        "num": 1367648,
+        "word": "杜鹃花落作者已被免职",
+        "onboard_time": 1711429581,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 43032,
+        "num": 921493,
+        "word": "与春日繁花来场浪漫邂逅",
+        "onboard_time": 1711422618,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 750435,
+        "num": 750435,
+        "word": "李彩玟方承认与柳多仁恋情",
+        "onboard_time": 1711431978,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 620942,
+        "num": 620942,
+        "word": "地球出现3小时特大地磁暴",
+        "onboard_time": 1711424957,
+        "rank": 4,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 537264,
+        "num": 537264,
+        "word": "福州一学校厕所装反欺凌报警器",
+        "onboard_time": 1711432039,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 519934,
+        "num": 519934,
+        "word": "歌手吹牛老爹涉嫌多起性侵案",
+        "onboard_time": 1711431139,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 487160,
+        "num": 487160,
+        "word": "成都初三语文试卷被曝美化侵华日军",
+        "onboard_time": 1711430180,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 423249,
+        "num": 423249,
+        "word": "晋江教育局通报初中女生坠亡",
+        "onboard_time": 1711431019,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 375916,
+        "num": 375916,
+        "word": "小米汽车销售称泄密要赔百万",
+        "onboard_time": 1711429221,
+        "rank": 9,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 822817,
+        "num": 372702,
+        "word": "胃癌几乎都是喂出来的",
+        "onboard_time": 1711423339,
+        "rank": 10,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 455619,
+        "num": 369903,
+        "word": "店家称188元一杯奶茶亏本卖",
+        "onboard_time": 1711431739,
+        "rank": 11,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 412253,
+        "num": 360621,
+        "word": "双高父母偏信遗传基因17岁儿子身高仅163",
+        "onboard_time": 1711427300,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 390443,
+        "num": 356428,
+        "word": "山姆同款鸡腿南京卖74元上海卖29元",
+        "onboard_time": 1711433358,
+        "rank": 13,
+        "category": "美食,社会新闻"
+      },
+      {
+        "raw_hot": 355406,
+        "num": 355406,
+        "word": "奔跑吧12全阵容",
+        "onboard_time": 1711420458,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 345281,
+        "num": 345281,
+        "word": "十个勤天回应郁金香只发江浙沪",
+        "onboard_time": 1711426280,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 332624,
+        "num": 332624,
+        "word": "王楚钦世排第一8020分",
+        "onboard_time": 1711430780,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 286127,
+        "num": 286127,
+        "word": "奔跑吧南宁录制",
+        "onboard_time": 1711428200,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 280607,
+        "num": 280607,
+        "word": "天呐 我被吴磊给摸了",
+        "onboard_time": 1711422738,
+        "rank": 18,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 265946,
+        "num": 265946,
+        "word": "深圳取消7090政策",
+        "onboard_time": 1711428261,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1487862,
+        "num": 255438,
+        "word": "跳楼自杀女生生前多次给霸凌者转账",
+        "onboard_time": 1711426880,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 539745,
+        "num": 250630,
+        "word": "每天洗1次和7天洗1次头哪个更健康",
+        "onboard_time": 1711428620,
+        "rank": 21,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 304036,
+        "num": 246183,
+        "word": "原来女生爱旅游在相亲届扣大分",
+        "onboard_time": 1711431739,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 238270,
+        "num": 238270,
+        "word": "王楚钦出席WTT北京发布会",
+        "onboard_time": 1711434500,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 231273,
+        "num": 231273,
+        "word": "爬山9小时后的宋江",
+        "onboard_time": 1711434258,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 225555,
+        "num": 225555,
+        "word": "步步倾心定档",
+        "onboard_time": 1711423818,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 198910,
+        "num": 198910,
+        "word": "陈都灵山水眼妆",
+        "onboard_time": 1711433300,
+        "rank": 26,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 189993,
+        "num": 189993,
+        "word": "黄仁俊变化",
+        "onboard_time": 1711432458,
+        "rank": 27,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 189503,
+        "num": 189503,
+        "word": "众筹给猴崽换新衣服",
+        "onboard_time": 1711434137,
+        "rank": 28,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 100999,
+        "num": 180731,
+        "word": "穿AirMax感受缓震革命",
+        "onboard_time": 1711434198,
+        "rank": 29,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 202048,
+        "num": 179033,
+        "word": "林俊杰告黑成功",
+        "onboard_time": 1711434378,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 175704,
+        "num": 175704,
+        "word": "李耕耘 清风纸巾",
+        "onboard_time": 1711422437,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 170510,
+        "num": 170510,
+        "word": "警方通报女子被拖行推下扶梯",
+        "onboard_time": 1711432157,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 158730,
+        "num": 158730,
+        "word": "吴磊 女人当自强",
+        "onboard_time": 1711434919,
+        "rank": 33,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 145156,
+        "num": 145156,
+        "word": "逆袭少女 庄达菲井柏然",
+        "onboard_time": 1711434557,
+        "rank": 34,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 46878,
+        "num": 142344,
+        "word": "唐毅给陈都灵画青山绿水妆",
+        "onboard_time": 1711433778,
+        "rank": 35,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 141593,
+        "num": 141593,
+        "word": "杨幂高马尾运动风",
+        "onboard_time": 1711430119,
+        "rank": 36,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 63689,
+        "num": 137505,
+        "word": "穿气垫鞋原来需要先激活",
+        "onboard_time": 1711430780,
+        "rank": 37,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 136809,
+        "num": 136809,
+        "word": "天水麻辣烫老板回应锅煮烂了",
+        "onboard_time": 1711424179,
+        "rank": 38,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 135972,
+        "num": 135972,
+        "word": "房价要触底了吗",
+        "onboard_time": 1711410858,
+        "rank": 39,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 133600,
+        "num": 133600,
+        "word": "福建一女生长期遭同学霸凌跳楼身亡",
+        "onboard_time": 1711418538,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 133412,
+        "num": 133412,
+        "word": "上官正义举报宜丰县产科主任勾结代孕中介",
+        "onboard_time": 1711433839,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 132669,
+        "num": 132669,
+        "word": "白鹿提花吊带裙",
+        "onboard_time": 1711428320,
+        "rank": 42,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 128967,
+        "num": 128967,
+        "word": "猫猫每天都在跟你行大礼",
+        "onboard_time": 1711434437,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 121592,
+        "num": 121592,
+        "word": "地磁暴",
+        "onboard_time": 1711417276,
+        "rank": 44,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 119210,
+        "num": 119210,
+        "word": "当我跟老公说孕反太难受想辞职",
+        "onboard_time": 1711425080,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 103225,
+        "num": 103225,
+        "word": "小米计划自建充电桩网络",
+        "onboard_time": 1711434858,
+        "rank": 46,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 101320,
+        "num": 101320,
+        "word": "神里绫人",
+        "onboard_time": 1711427903,
+        "rank": 47,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 101142,
+        "num": 101142,
+        "word": "地磁暴1次要背多少锅",
+        "onboard_time": 1711425319,
+        "rank": 48,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 99989,
+        "num": 99989,
+        "word": "时代少年团版左手指月",
+        "onboard_time": 1711432399,
+        "rank": 49,
+        "category": "作品衍生"
+      }
+    ],
+    "hotgov": {
+      "word": "#中多关系已经成为南南合作的典范#"
+    }
+  }
+}

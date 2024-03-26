@@ -1,6 +1,6 @@
 {
   "startTime": 1711383717224,
-  "endTime": 1711434170585,
+  "endTime": 1711434942980,
   "band_list": [
     {
       "raw_hot": 3922233,
@@ -83,8 +83,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 1314070,
-      "num": 1314070,
+      "raw_hot": 1367648,
+      "num": 1367648,
       "word": "杜鹃花落作者已被免职",
       "onboard_time": 1711429581,
       "rank": 29,
@@ -355,6 +355,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 537264,
+      "num": 537264,
+      "word": "福州一学校厕所装反欺凌报警器",
+      "onboard_time": 1711432039,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 526689,
       "num": 526689,
       "word": "地磁暴 极光",
@@ -451,7 +459,7 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 453716,
+      "raw_hot": 455619,
       "num": 418384,
       "word": "店家称188元一杯奶茶亏本卖",
       "onboard_time": 1711431739,
@@ -473,14 +481,6 @@
       "onboard_time": 1711378880,
       "rank": 9,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 441995,
-      "num": 441995,
-      "word": "福州一学校厕所装反欺凌报警器",
-      "onboard_time": 1711432039,
-      "rank": 7,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 437568,
@@ -529,6 +529,14 @@
       "onboard_time": 1711366819,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 390443,
+      "num": 356428,
+      "word": "山姆同款鸡腿南京卖74元上海卖29元",
+      "onboard_time": 1711433358,
+      "rank": 23,
+      "category": "美食,社会新闻"
     },
     {
       "raw_hot": 389445,
@@ -763,14 +771,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 268330,
-      "num": 268330,
-      "word": "山姆同款鸡腿南京卖74元上海卖29元",
-      "onboard_time": 1711433358,
-      "rank": 23,
-      "category": "美食,社会新闻"
-    },
-    {
       "raw_hot": 266909,
       "num": 266909,
       "word": "肖战顺毛侧颜",
@@ -827,6 +827,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 238270,
+      "num": 238270,
+      "word": "王楚钦出席WTT北京发布会",
+      "onboard_time": 1711434500,
+      "rank": 23,
+      "category": "体育"
+    },
+    {
       "raw_hot": 237898,
       "num": 237898,
       "word": "鸳鸯锅在韩国的用处",
@@ -857,6 +865,14 @@
       "onboard_time": 1711374739,
       "rank": 26,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 231273,
+      "num": 231273,
+      "word": "爬山9小时后的宋江",
+      "onboard_time": 1711434258,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 229729,
@@ -939,6 +955,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 202048,
+      "num": 179033,
+      "word": "林俊杰告黑成功",
+      "onboard_time": 1711434378,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 201474,
       "num": 201474,
       "word": "种地吧郁金香开售",
@@ -963,6 +987,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 198910,
+      "num": 198910,
+      "word": "陈都灵山水眼妆",
+      "onboard_time": 1711433300,
+      "rank": 28,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 198051,
       "num": 177303,
       "word": "柳丝木全球品牌代言人鹿晗",
@@ -977,14 +1009,6 @@
       "onboard_time": 1711432157,
       "rank": 27,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 189695,
-      "num": 189695,
-      "word": "陈都灵山水眼妆",
-      "onboard_time": 1711433300,
-      "rank": 28,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 189350,
@@ -1211,6 +1235,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 158730,
+      "num": 158730,
+      "word": "吴磊 女人当自强",
+      "onboard_time": 1711434919,
+      "rank": 33,
+      "category": "电影"
+    },
+    {
       "raw_hot": 155838,
       "num": 155838,
       "word": "黄仁俊泡泡",
@@ -1323,6 +1355,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 145156,
+      "num": 145156,
+      "word": "逆袭少女 庄达菲井柏然",
+      "onboard_time": 1711434557,
+      "rank": 34,
+      "category": "电影"
+    },
+    {
       "raw_hot": 144837,
       "num": 139638,
       "word": "种地吧郁金香线上销售预告",
@@ -1377,6 +1417,22 @@
       "onboard_time": 1711432939,
       "rank": 37,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 133412,
+      "num": 133412,
+      "word": "上官正义举报宜丰县产科主任勾结代孕中介",
+      "onboard_time": 1711433839,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 128967,
+      "num": 128967,
+      "word": "猫猫每天都在跟你行大礼",
+      "onboard_time": 1711434437,
+      "rank": 43,
+      "category": "幽默"
     },
     {
       "raw_hot": 127578,
@@ -1475,14 +1531,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 115205,
-      "num": 115205,
-      "word": "上官正义举报宜丰县产科主任勾结代孕中介",
-      "onboard_time": 1711433839,
-      "rank": 44,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 114619,
       "num": 114619,
       "word": "摩羯座寡淡的原因",
@@ -1531,12 +1579,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 103225,
+      "num": 103225,
+      "word": "小米计划自建充电桩网络",
+      "onboard_time": 1711434858,
+      "rank": 46,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 102734,
       "num": 102734,
       "word": "赵露思何超欣手挽手",
       "onboard_time": 1711382898,
       "rank": 37,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 100999,
+      "num": 180731,
+      "word": "穿AirMax感受缓震革命",
+      "onboard_time": 1711434198,
+      "rank": 29,
+      "category": "运动健身"
     },
     {
       "raw_hot": 96394,
@@ -1731,20 +1795,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 46878,
+      "num": 142344,
+      "word": "唐毅给陈都灵画青山绿水妆",
+      "onboard_time": 1711433778,
+      "rank": 45,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 44255,
       "num": 44255,
       "word": "琅琊榜剧组当年的精神状态",
       "onboard_time": 1711400890,
       "rank": 39,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 44226,
-      "num": 111432,
-      "word": "唐毅给陈都灵画青山绿水妆",
-      "onboard_time": 1711433778,
-      "rank": 45,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 41987,
