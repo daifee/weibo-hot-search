@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1711427641071,
+  "endTime": 1711430195980,
   "band_list": [
     {
       "raw_hot": 18909527,
@@ -1851,6 +1851,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 2906437,
+      "num": 2906437,
+      "word": "地磁暴 嗜睡",
+      "onboard_time": 1711428021,
+      "rank": 0,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 2901318,
       "num": 2901318,
       "word": "白敬亭粉丝澄清视频下架",
@@ -2393,14 +2401,6 @@
       "onboard_time": 1707901356,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 2618819,
-      "num": 2618819,
-      "word": "今天是四年一遇的日子",
-      "onboard_time": 1709163448,
-      "rank": 1,
-      "category": "社会新闻"
     }
   ],
   "hotgov_list": [

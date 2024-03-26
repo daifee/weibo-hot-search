@@ -1,6 +1,6 @@
 {
   "startTime": 1711210803824,
-  "endTime": 1711427641071,
+  "endTime": 1711430195980,
   "band_list": [
     {
       "raw_hot": 3435224,
@@ -19,6 +19,14 @@
       "category": "读书作家,作品衍生"
     },
     {
+      "raw_hot": 2906437,
+      "num": 2906437,
+      "word": "地磁暴 嗜睡",
+      "onboard_time": 1711428021,
+      "rank": 0,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 2859654,
       "num": 2859654,
       "word": "王濛的母亲张晓霞",
@@ -32,6 +40,14 @@
       "word": "胖东来回应985女生应聘没进面试",
       "onboard_time": 1711278739,
       "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2546242,
+      "num": 801597,
+      "word": "跳楼自杀女生生前多次给霸凌者转账",
+      "onboard_time": 1711426880,
+      "rank": 5,
       "category": "社会新闻"
     },
     {
@@ -827,14 +843,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 801597,
-      "num": 801597,
-      "word": "跳楼自杀女生生前多次给霸凌者转账",
-      "onboard_time": 1711426880,
-      "rank": 5,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 787458,
       "num": 787458,
       "word": "垫底辣妹将翻拍中国版",
@@ -929,6 +937,14 @@
       "onboard_time": 1711382476,
       "rank": 3,
       "category": "互联网,网红"
+    },
+    {
+      "raw_hot": 766199,
+      "num": 309444,
+      "word": "每天洗1次和7天洗1次头哪个更健康",
+      "onboard_time": 1711428620,
+      "rank": 20,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 766117,
@@ -1057,6 +1073,14 @@
       "onboard_time": 1711205121,
       "rank": 4,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 698110,
+      "num": 698110,
+      "word": "双高父母偏信遗传基因17岁儿子身高仅163",
+      "onboard_time": 1711427300,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 693833,
@@ -1451,6 +1475,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 559533,
+      "num": 559533,
+      "word": "十个勤天回应郁金香只发江浙沪",
+      "onboard_time": 1711426280,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 558933,
       "num": 396128,
       "word": "金秀贤ins评论区",
@@ -1595,6 +1627,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 519892,
+      "num": 519892,
+      "word": "地磁暴1次要背多少锅",
+      "onboard_time": 1711425319,
+      "rank": 24,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 519747,
       "num": 519747,
       "word": "24岁女子跳河轻生被救家属转1000元感谢",
@@ -1707,6 +1747,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 497266,
+      "num": 497266,
+      "word": "地球出现3小时特大地磁暴",
+      "onboard_time": 1711424957,
+      "rank": 29,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 495201,
       "num": 495201,
       "word": "5岁女孩洗澡被烫伤面部严重水肿",
@@ -1817,6 +1865,14 @@
       "onboard_time": 1711255518,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 471423,
+      "num": 471423,
+      "word": "奔跑吧南宁录制",
+      "onboard_time": 1711428200,
+      "rank": 13,
+      "category": "综艺"
     },
     {
       "raw_hot": 470218,
@@ -2107,6 +2163,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 403542,
+      "num": 403542,
+      "word": "深圳取消7090政策",
+      "onboard_time": 1711428261,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 402729,
       "num": 402729,
       "word": "茶里九世",
@@ -2281,14 +2345,6 @@
       "onboard_time": 1711249399,
       "rank": 30,
       "category": "体育"
-    },
-    {
-      "raw_hot": 366859,
-      "num": 366859,
-      "word": "十个勤天回应郁金香只发江浙沪",
-      "onboard_time": 1711426280,
-      "rank": 30,
-      "category": "综艺"
     },
     {
       "raw_hot": 366783,
@@ -2547,14 +2603,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 333765,
-      "num": 333765,
-      "word": "地磁暴1次要背多少锅",
-      "onboard_time": 1711425319,
-      "rank": 24,
-      "category": "科学科普"
-    },
-    {
       "raw_hot": 332920,
       "num": 279529,
       "word": "人体中最不怕冷的器官是哪个",
@@ -2715,6 +2763,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 297713,
+      "num": 297713,
+      "word": "神里绫人",
+      "onboard_time": 1711427903,
+      "rank": 23,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 297503,
       "num": 297503,
       "word": "莫斯科恐袭嫌疑人被捕现场",
@@ -2745,6 +2801,14 @@
       "onboard_time": 1711360278,
       "rank": 22,
       "category": "演出"
+    },
+    {
+      "raw_hot": 294121,
+      "num": 166163,
+      "word": "光与夜之恋 喜茶",
+      "onboard_time": 1711428561,
+      "rank": 40,
+      "category": "游戏"
     },
     {
       "raw_hot": 293999,
@@ -3059,6 +3123,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 263234,
+      "num": 263234,
+      "word": "白鹿画了gidle的新歌",
+      "onboard_time": 1711427600,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 261210,
       "num": 261210,
       "word": "无锡马拉松",
@@ -3131,6 +3203,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 255680,
+      "num": 255680,
+      "word": "小米汽车销售称泄密要赔百万",
+      "onboard_time": 1711429221,
+      "rank": 27,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 255560,
       "num": 255560,
       "word": "在俊啊 回到水泥里吧",
@@ -3153,6 +3233,14 @@
       "onboard_time": 1711271358,
       "rank": 22,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 252956,
+      "num": 252956,
+      "word": "杜鹃花落作者已被免职",
+      "onboard_time": 1711429581,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 251298,
@@ -3555,14 +3643,6 @@
       "category": "自然"
     },
     {
-      "raw_hot": 231063,
-      "num": 231063,
-      "word": "地球出现3小时特大地磁暴",
-      "onboard_time": 1711424957,
-      "rank": 29,
-      "category": "科学科普"
-    },
-    {
       "raw_hot": 230717,
       "num": 230717,
       "word": "孙千陈靖可芭莎春日大片",
@@ -3609,6 +3689,14 @@
       "onboard_time": 1711247181,
       "rank": 49,
       "category": "情感"
+    },
+    {
+      "raw_hot": 229439,
+      "num": 210538,
+      "word": "白鹿提花吊带裙",
+      "onboard_time": 1711428320,
+      "rank": 31,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 229383,
@@ -3817,6 +3905,14 @@
       "onboard_time": 1711344019,
       "rank": 35,
       "category": "汽车,互联网"
+    },
+    {
+      "raw_hot": 212948,
+      "num": 212948,
+      "word": "成都初三语文试卷被曝美化侵华日军",
+      "onboard_time": 1711430180,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 211100,
@@ -4379,20 +4475,20 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 189984,
-      "num": 189984,
-      "word": "白鹿画了gidle的新歌",
-      "onboard_time": 1711427600,
-      "rank": 34,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 189671,
       "num": 189671,
       "word": "俄恐袭现场发现3名儿童遗体",
       "onboard_time": 1711290140,
       "rank": 40,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 189350,
+      "num": 189350,
+      "word": "半熟恋人",
+      "onboard_time": 1711428501,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 188951,
@@ -4795,6 +4891,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 172153,
+      "num": 172153,
+      "word": "杨紫襄阳古城vlog",
+      "onboard_time": 1711428620,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 171159,
       "num": 171159,
       "word": "汉马",
@@ -4864,14 +4968,6 @@
       "word": "今日地磁暴活动趋于减弱",
       "onboard_time": 1711416259,
       "rank": 37,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 169813,
-      "num": 169813,
-      "word": "双高父母偏信遗传基因17岁儿子身高仅163",
-      "onboard_time": 1711427300,
-      "rank": 36,
       "category": "社会新闻"
     },
     {
@@ -5009,6 +5105,14 @@
       "onboard_time": 1711333819,
       "rank": 44,
       "category": "情感"
+    },
+    {
+      "raw_hot": 164067,
+      "num": 164067,
+      "word": "春天 精神病的高发季",
+      "onboard_time": 1711429700,
+      "rank": 41,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 163890,
@@ -5443,6 +5547,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 150158,
+      "num": 150158,
+      "word": "去海边不防晒的后果",
+      "onboard_time": 1711429581,
+      "rank": 46,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 149839,
       "num": 149839,
       "word": "根据我的微博 判断我的MBTI",
@@ -5601,6 +5713,14 @@
       "onboard_time": 1711287199,
       "rank": 46,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 145338,
+      "num": 145338,
+      "word": "星穹铁道黄泉PV",
+      "onboard_time": 1711427903,
+      "rank": 47,
+      "category": "游戏"
     },
     {
       "raw_hot": 145299,
@@ -5841,6 +5961,14 @@
       "onboard_time": 1711242738,
       "rank": 47,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 138427,
+      "num": 138427,
+      "word": "杨幂高马尾运动风",
+      "onboard_time": 1711430119,
+      "rank": 48,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 138234,
@@ -6683,6 +6811,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 63002,
+      "num": 318670,
+      "word": "一双鞋解锁赛博运动风",
+      "onboard_time": 1711427540,
+      "rank": 49,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 58088,
       "num": 58088,
       "word": "苏打绿香港",
@@ -6777,14 +6913,6 @@
       "onboard_time": 1711234933,
       "rank": 43,
       "category": "体育"
-    },
-    {
-      "raw_hot": 42137,
-      "num": 148457,
-      "word": "一双鞋解锁赛博运动风",
-      "onboard_time": 1711427540,
-      "rank": 49,
-      "category": "时尚"
     },
     {
       "raw_hot": 40813,

@@ -1,0 +1,410 @@
+{
+  "runTime": 1711430195980,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2906437,
+        "num": 2906437,
+        "word": "地磁暴 嗜睡",
+        "onboard_time": 1711428021,
+        "rank": 0,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 838882,
+        "num": 838882,
+        "word": "阮经天 我怕老婆",
+        "onboard_time": 1711424419,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 49293,
+        "num": 810028,
+        "word": "与春日繁花来场浪漫邂逅",
+        "onboard_time": 1711422618,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2546242,
+        "num": 779567,
+        "word": "跳楼自杀女生生前多次给霸凌者转账",
+        "onboard_time": 1711426880,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 926811,
+        "num": 759011,
+        "word": "秋瓷炫喝醉被于晓光背上车",
+        "onboard_time": 1711419677,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 895871,
+        "num": 707039,
+        "word": "男朋友用我的照片挂数据线",
+        "onboard_time": 1711424658,
+        "rank": 5,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 704688,
+        "num": 704688,
+        "word": "奔跑吧12全阵容",
+        "onboard_time": 1711420458,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 698110,
+        "num": 698110,
+        "word": "双高父母偏信遗传基因17岁儿子身高仅163",
+        "onboard_time": 1711427300,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 559533,
+        "num": 559533,
+        "word": "十个勤天回应郁金香只发江浙沪",
+        "onboard_time": 1711426280,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 519892,
+        "num": 519892,
+        "word": "地磁暴1次要背多少锅",
+        "onboard_time": 1711425319,
+        "rank": 9,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 1113708,
+        "num": 509844,
+        "word": "胃癌几乎都是喂出来的",
+        "onboard_time": 1711423339,
+        "rank": 10,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 497266,
+        "num": 497266,
+        "word": "地球出现3小时特大地磁暴",
+        "onboard_time": 1711424957,
+        "rank": 11,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 471655,
+        "num": 471655,
+        "word": "步步倾心定档",
+        "onboard_time": 1711423818,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 471423,
+        "num": 471423,
+        "word": "奔跑吧南宁录制",
+        "onboard_time": 1711428200,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 468712,
+        "num": 468712,
+        "word": "天水麻辣烫老板回应锅煮烂了",
+        "onboard_time": 1711424179,
+        "rank": 14,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 408606,
+        "num": 408606,
+        "word": "天呐 我被吴磊给摸了",
+        "onboard_time": 1711422738,
+        "rank": 15,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 403542,
+        "num": 403542,
+        "word": "深圳取消7090政策",
+        "onboard_time": 1711428261,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 387585,
+        "num": 387585,
+        "word": "房价要触底了吗",
+        "onboard_time": 1711410858,
+        "rank": 17,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 63002,
+        "num": 318670,
+        "word": "一双鞋解锁赛博运动风",
+        "onboard_time": 1711427540,
+        "rank": 18,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 316505,
+        "num": 316505,
+        "word": "招行大客户们存了10万亿元",
+        "onboard_time": 1711418899,
+        "rank": 19,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 766199,
+        "num": 309444,
+        "word": "每天洗1次和7天洗1次头哪个更健康",
+        "onboard_time": 1711428620,
+        "rank": 20,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 516875,
+        "num": 306838,
+        "word": "福建一女生长期遭同学霸凌跳楼身亡",
+        "onboard_time": 1711418538,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 298538,
+        "num": 298538,
+        "word": "种地吧 只发江浙沪",
+        "onboard_time": 1711422918,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 297713,
+        "num": 297713,
+        "word": "神里绫人",
+        "onboard_time": 1711427903,
+        "rank": 23,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 295263,
+        "num": 295263,
+        "word": "李耕耘 清风纸巾",
+        "onboard_time": 1711422437,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 279160,
+        "num": 279160,
+        "word": "当我跟老公说孕反太难受想辞职",
+        "onboard_time": 1711425080,
+        "rank": 25,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 263234,
+        "num": 263234,
+        "word": "白鹿画了gidle的新歌",
+        "onboard_time": 1711427600,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 255680,
+        "num": 255680,
+        "word": "小米汽车销售称泄密要赔百万",
+        "onboard_time": 1711429221,
+        "rank": 27,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 254788,
+        "num": 254788,
+        "word": "中石油一年赚了1611亿元",
+        "onboard_time": 1711420939,
+        "rank": 28,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 252956,
+        "num": 252956,
+        "word": "杜鹃花落作者已被免职",
+        "onboard_time": 1711429581,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 212948,
+        "num": 212948,
+        "word": "成都初三语文试卷被曝美化侵华日军",
+        "onboard_time": 1711430180,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 229439,
+        "num": 210538,
+        "word": "白鹿提花吊带裙",
+        "onboard_time": 1711428320,
+        "rank": 31,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 203624,
+        "num": 203624,
+        "word": "郑恺小猎豹回归",
+        "onboard_time": 1711425560,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 201382,
+        "num": 201382,
+        "word": "奔跑吧12官宣",
+        "onboard_time": 1711419376,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 198556,
+        "num": 198556,
+        "word": "镇政府回应抱幼儿女子遭丈夫拖拽踢打",
+        "onboard_time": 1711425921,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 189350,
+        "num": 189350,
+        "word": "半熟恋人",
+        "onboard_time": 1711428501,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 173484,
+        "num": 173484,
+        "word": "地磁暴",
+        "onboard_time": 1711417276,
+        "rank": 36,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 172153,
+        "num": 172153,
+        "word": "杨紫襄阳古城vlog",
+        "onboard_time": 1711428620,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 164173,
+        "num": 168405,
+        "word": "莫斯科恐袭案4名被告全部认罪",
+        "onboard_time": 1711420398,
+        "rank": 38,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 167632,
+        "num": 167632,
+        "word": "我的孩子怎么会得精神疾病呢",
+        "onboard_time": 1711410498,
+        "rank": 39,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 294121,
+        "num": 166163,
+        "word": "光与夜之恋 喜茶",
+        "onboard_time": 1711428561,
+        "rank": 40,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 164067,
+        "num": 164067,
+        "word": "春天 精神病的高发季",
+        "onboard_time": 1711429700,
+        "rank": 41,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 161444,
+        "num": 161444,
+        "word": "派出所回应女生长期遭霸凌跳楼身亡",
+        "onboard_time": 1711420277,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 159289,
+        "num": 159289,
+        "word": "鸳鸯锅在韩国的用处",
+        "onboard_time": 1711424179,
+        "rank": 43,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 154422,
+        "num": 154422,
+        "word": "什么时候认为要分手了",
+        "onboard_time": 1711420759,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 150697,
+        "num": 150697,
+        "word": "陶昕然晒孙俪开机照",
+        "onboard_time": 1711422018,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 150158,
+        "num": 150158,
+        "word": "去海边不防晒的后果",
+        "onboard_time": 1711429581,
+        "rank": 46,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 145338,
+        "num": 145338,
+        "word": "星穹铁道黄泉PV",
+        "onboard_time": 1711427903,
+        "rank": 47,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 138427,
+        "num": 138427,
+        "word": "杨幂高马尾运动风",
+        "onboard_time": 1711430119,
+        "rank": 48,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 134264,
+        "num": 134264,
+        "word": "李惠利ins晒照",
+        "onboard_time": 1711411159,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#中多关系已经成为南南合作的典范#"
+    }
+  }
+}
