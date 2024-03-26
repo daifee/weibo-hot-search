@@ -1,6 +1,6 @@
 {
   "startTime": 1709223640991,
-  "endTime": 1711473332161,
+  "endTime": 1711474504209,
   "band_list": [
     {
       "raw_hot": 12728050,
@@ -71627,6 +71627,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 58461,
+      "num": 58461,
+      "word": "地磁暴 最好的背锅侠",
+      "onboard_time": 1711472833,
+      "rank": 42,
+      "category": "自然,幽默"
+    },
+    {
       "raw_hot": 58222,
       "num": 1414542,
       "word": "春日花经济焕发新动力",
@@ -72481,14 +72489,6 @@
       "onboard_time": 1711315451,
       "rank": 46,
       "category": "数码"
-    },
-    {
-      "raw_hot": 46498,
-      "num": 46498,
-      "word": "地磁暴 最好的背锅侠",
-      "onboard_time": 1711472833,
-      "rank": 42,
-      "category": "自然,幽默"
     },
     {
       "raw_hot": 46375,
@@ -73369,6 +73369,14 @@
       "onboard_time": 1710876676,
       "rank": 30,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 32090,
+      "num": 39043,
+      "word": "国足主场能否战胜新加坡",
+      "onboard_time": 1711474332,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 31424,
@@ -74547,6 +74555,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 12307,
+      "num": 416707,
+      "word": "春日里的中国随手拍",
+      "onboard_time": 1711457539,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 12304,
       "num": 20903,
       "word": "不平凡的她",
@@ -74633,14 +74649,6 @@
       "onboard_time": 1709330295,
       "rank": 48,
       "category": "数码"
-    },
-    {
-      "raw_hot": 10800,
-      "num": 416707,
-      "word": "春日里的中国随手拍",
-      "onboard_time": 1711457539,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 10668,
