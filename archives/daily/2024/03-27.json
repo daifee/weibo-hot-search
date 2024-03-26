@@ -1,6 +1,6 @@
 {
   "startTime": 1711470163483,
-  "endTime": 1711485253896,
+  "endTime": 1711487871372,
   "band_list": [
     {
       "raw_hot": 1151583,
@@ -475,6 +475,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 28067,
+      "num": 28067,
+      "word": "胃食管反流",
+      "onboard_time": 1711483811,
+      "rank": 44,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 26300,
       "num": 26300,
       "word": "IROHA 跳EASY",
@@ -499,15 +507,7 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 19219,
-      "num": 19219,
-      "word": "胃食管反流",
-      "onboard_time": 1711483811,
-      "rank": 44,
-      "category": "健康医疗"
-    },
-    {
-      "raw_hot": 18632,
+      "raw_hot": 20303,
       "num": 18632,
       "word": "如何让儿子同学不要再来家里了",
       "onboard_time": 1711482191,
@@ -515,12 +515,20 @@
       "category": "情感"
     },
     {
-      "raw_hot": 15994,
+      "raw_hot": 17379,
       "num": 17552,
       "word": "在吃奶嘴的年纪参加了马拉松",
       "onboard_time": 1711483330,
       "rank": 39,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 15490,
+      "num": 15490,
+      "word": "福州满记甜品即将闭店",
+      "onboard_time": 1711485731,
+      "rank": 41,
+      "category": "美食,社会新闻"
     },
     {
       "raw_hot": 15109,
