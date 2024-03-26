@@ -1,6 +1,6 @@
 {
   "startTime": 1711210803824,
-  "endTime": 1711495214744,
+  "endTime": 1711496050767,
   "band_list": [
     {
       "raw_hot": 3922233,
@@ -451,6 +451,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1308409,
+      "num": 1308409,
+      "word": "考生蔡元培北大复试仍是专业第一",
+      "onboard_time": 1711494074,
+      "rank": 1,
+      "category": "教育"
+    },
+    {
       "raw_hot": 1297851,
       "num": 1297851,
       "word": "张亮麻辣烫部分门店收汤费",
@@ -763,6 +771,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1016470,
+      "num": 1016470,
+      "word": "长期处于压力下身体会怎样",
+      "onboard_time": 1711467378,
+      "rank": 7,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 1004662,
       "num": 1004662,
       "word": "乌克兰全境响防空警报",
@@ -817,14 +833,6 @@
       "onboard_time": 1711334540,
       "rank": 1,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 945285,
-      "num": 945285,
-      "word": "长期处于压力下身体会怎样",
-      "onboard_time": 1711467378,
-      "rank": 7,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 934667,
@@ -1267,14 +1275,6 @@
       "category": "科学科普"
     },
     {
-      "raw_hot": 740298,
-      "num": 740298,
-      "word": "考生蔡元培北大复试仍是专业第一",
-      "onboard_time": 1711494074,
-      "rank": 1,
-      "category": "教育"
-    },
-    {
       "raw_hot": 734306,
       "num": 734306,
       "word": "雷军称小米最恨品牌溢价",
@@ -1475,6 +1475,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 668106,
+      "num": 333914,
+      "word": "警方介入女子裸体现身商场",
+      "onboard_time": 1711447578,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 666979,
       "num": 666979,
       "word": "迪丽热巴首位破3000w点赞女明星",
@@ -1577,14 +1585,6 @@
       "onboard_time": 1711450099,
       "rank": 17,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 625151,
-      "num": 333914,
-      "word": "警方介入女子裸体现身商场",
-      "onboard_time": 1711447578,
-      "rank": 22,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 623763,
@@ -3379,6 +3379,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 305073,
+      "num": 145140,
+      "word": "姐姐离婚时发的朋友圈",
+      "onboard_time": 1711495697,
+      "rank": 21,
+      "category": "情感"
+    },
+    {
       "raw_hot": 304009,
       "num": 304009,
       "word": "很多女生中年吃的苦年轻时就注定了",
@@ -3731,6 +3739,14 @@
       "category": "艺人,艺人"
     },
     {
+      "raw_hot": 276097,
+      "num": 276097,
+      "word": "优酷待播剧预约前十",
+      "onboard_time": 1711477092,
+      "rank": 22,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 275257,
       "num": 275257,
       "word": "周也头巾",
@@ -3793,6 +3809,14 @@
       "onboard_time": 1711253838,
       "rank": 29,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 270846,
+      "num": 270846,
+      "word": "蔡元培复试",
+      "onboard_time": 1711494855,
+      "rank": 25,
+      "category": "教育"
     },
     {
       "raw_hot": 268693,
@@ -4027,6 +4051,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 252764,
+      "num": 252764,
+      "word": "王珞丹独居生活状态",
+      "onboard_time": 1711488251,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 251775,
       "num": 251775,
       "word": "我的保洁阿姨在北京买了套房",
@@ -4195,14 +4227,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 244992,
-      "num": 244992,
-      "word": "优酷待播剧预约前十",
-      "onboard_time": 1711477092,
-      "rank": 22,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 244668,
       "num": 244668,
       "word": "一旦开始喝咖啡这辈子就定型了",
@@ -4329,14 +4353,6 @@
       "onboard_time": 1711424179,
       "rank": 31,
       "category": "美食"
-    },
-    {
-      "raw_hot": 237113,
-      "num": 189218,
-      "word": "王珞丹独居生活状态",
-      "onboard_time": 1711488251,
-      "rank": 35,
-      "category": "艺人"
     },
     {
       "raw_hot": 236969,
@@ -4865,6 +4881,14 @@
       "onboard_time": 1711453757,
       "rank": 30,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 212299,
+      "num": 212299,
+      "word": "大众帕萨特已经12万了",
+      "onboard_time": 1711495936,
+      "rank": 14,
+      "category": "汽车"
     },
     {
       "raw_hot": 211100,
@@ -5579,6 +5603,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 191931,
+      "num": 191931,
+      "word": "磁暴",
+      "onboard_time": 1711495397,
+      "rank": 16,
+      "category": "自然"
+    },
+    {
       "raw_hot": 191739,
       "num": 191739,
       "word": "狼队战胜LGD",
@@ -5817,6 +5849,14 @@
       "onboard_time": 1711420277,
       "rank": 36,
       "category": "体育"
+    },
+    {
+      "raw_hot": 185888,
+      "num": 185888,
+      "word": "金秀贤G社生图",
+      "onboard_time": 1711495095,
+      "rank": 34,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 185607,
@@ -7747,6 +7787,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 135533,
+      "num": 135533,
+      "word": "女子称被父亲强奸事件姑姑发声否认",
+      "onboard_time": 1711495697,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 134826,
       "num": 294873,
       "word": "撒贝宁解密vivo蓝科技",
@@ -8307,6 +8355,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 113548,
+      "num": 113548,
+      "word": "沈璃的情敌来了",
+      "onboard_time": 1711491252,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 112779,
       "num": 112779,
       "word": "小米智驾目标今年进入行业第一阵营",
@@ -8403,14 +8459,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 109181,
-      "num": 109181,
-      "word": "沈璃的情敌来了",
-      "onboard_time": 1711491252,
-      "rank": 45,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 109044,
       "num": 140147,
       "word": "被外国人安利马面裙是什么体验",
@@ -8449,6 +8497,14 @@
       "onboard_time": 1711423398,
       "rank": 32,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 107316,
+      "num": 107316,
+      "word": "减肥前一定要知道的事",
+      "onboard_time": 1711494555,
+      "rank": 38,
+      "category": "运动健身"
     },
     {
       "raw_hot": 106432,
@@ -8499,14 +8555,6 @@
       "category": "运动健身"
     },
     {
-      "raw_hot": 100593,
-      "num": 100593,
-      "word": "蔡元培复试",
-      "onboard_time": 1711494855,
-      "rank": 25,
-      "category": "教育"
-    },
-    {
       "raw_hot": 100335,
       "num": 100335,
       "word": "坠落的审判",
@@ -8555,6 +8603,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 85558,
+      "num": 85558,
+      "word": "在吃奶嘴的年纪参加了马拉松",
+      "onboard_time": 1711483330,
+      "rank": 39,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 83921,
       "num": 334105,
       "word": "科学控糖快乐健康两不误",
@@ -8595,20 +8651,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 80775,
+      "num": 110243,
+      "word": "开封王婆五年前在角落练舞",
+      "onboard_time": 1711494315,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 80033,
       "num": 80033,
       "word": "为什么港男的花期那么长",
       "onboard_time": 1711384336,
       "rank": 45,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 78552,
-      "num": 78552,
-      "word": "在吃奶嘴的年纪参加了马拉松",
-      "onboard_time": 1711483330,
-      "rank": 39,
-      "category": "运动健身"
     },
     {
       "raw_hot": 78408,
@@ -8675,20 +8731,20 @@
       "category": "情感"
     },
     {
+      "raw_hot": 74849,
+      "num": 74849,
+      "word": "比亚迪发布2023全年财报",
+      "onboard_time": 1711491491,
+      "rank": 33,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 73579,
       "num": 73579,
       "word": "法国0比2德国",
       "onboard_time": 1711236073,
       "rank": 36,
       "category": "体育"
-    },
-    {
-      "raw_hot": 73461,
-      "num": 73461,
-      "word": "金秀贤G社生图",
-      "onboard_time": 1711495095,
-      "rank": 34,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 72242,
@@ -8721,6 +8777,14 @@
       "onboard_time": 1711430780,
       "rank": 38,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 70540,
+      "num": 70540,
+      "word": "钱老这是已经重启八次人生了吧",
+      "onboard_time": 1711495995,
+      "rank": 42,
+      "category": "教育"
     },
     {
       "raw_hot": 70131,
@@ -8787,12 +8851,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 66125,
-      "num": 66125,
-      "word": "减肥前一定要知道的事",
-      "onboard_time": 1711494555,
-      "rank": 38,
-      "category": "运动健身"
+      "raw_hot": 66164,
+      "num": 66164,
+      "word": "如何让儿子同学不要再来家里了",
+      "onboard_time": 1711482191,
+      "rank": 35,
+      "category": "情感"
     },
     {
       "raw_hot": 65973,
@@ -8800,14 +8864,6 @@
       "word": "当美梦有了轮廓",
       "onboard_time": 1711450339,
       "rank": 11,
-      "category": "汽车"
-    },
-    {
-      "raw_hot": 65298,
-      "num": 65298,
-      "word": "比亚迪发布2023全年财报",
-      "onboard_time": 1711491491,
-      "rank": 33,
       "category": "汽车"
     },
     {
@@ -8841,14 +8897,6 @@
       "onboard_time": 1711301234,
       "rank": 43,
       "category": "演出"
-    },
-    {
-      "raw_hot": 53713,
-      "num": 53713,
-      "word": "如何让儿子同学不要再来家里了",
-      "onboard_time": 1711482191,
-      "rank": 35,
-      "category": "情感"
     },
     {
       "raw_hot": 52825,
@@ -8987,6 +9035,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 40625,
+      "num": 634883,
+      "word": "春日里的中国随手拍",
+      "onboard_time": 1711457539,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 39972,
       "num": 47739,
       "word": "为什么我们没有耐心和父母说话",
@@ -9033,14 +9089,6 @@
       "onboard_time": 1711454719,
       "rank": 34,
       "category": "数码"
-    },
-    {
-      "raw_hot": 36509,
-      "num": 526318,
-      "word": "春日里的中国随手拍",
-      "onboard_time": 1711457539,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 36021,

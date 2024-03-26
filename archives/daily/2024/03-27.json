@@ -1,7 +1,15 @@
 {
   "startTime": 1711470163483,
-  "endTime": 1711495214744,
+  "endTime": 1711496050767,
   "band_list": [
+    {
+      "raw_hot": 1308409,
+      "num": 1308409,
+      "word": "考生蔡元培北大复试仍是专业第一",
+      "onboard_time": 1711494074,
+      "rank": 1,
+      "category": "教育"
+    },
     {
       "raw_hot": 1151583,
       "num": 1151583,
@@ -11,8 +19,8 @@
       "category": "情感"
     },
     {
-      "raw_hot": 945285,
-      "num": 945285,
+      "raw_hot": 1016470,
+      "num": 1016470,
       "word": "长期处于压力下身体会怎样",
       "onboard_time": 1711467378,
       "rank": 7,
@@ -35,12 +43,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 740298,
-      "num": 740298,
-      "word": "考生蔡元培北大复试仍是专业第一",
-      "onboard_time": 1711494074,
-      "rank": 1,
-      "category": "教育"
+      "raw_hot": 668106,
+      "num": 233615,
+      "word": "警方介入女子裸体现身商场",
+      "onboard_time": 1711447578,
+      "rank": 21,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 631051,
@@ -49,14 +57,6 @@
       "onboard_time": 1711464320,
       "rank": 3,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 625151,
-      "num": 233615,
-      "word": "警方介入女子裸体现身商场",
-      "onboard_time": 1711447578,
-      "rank": 21,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 498483,
@@ -75,8 +75,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 428372,
-      "num": 428372,
+      "raw_hot": 449202,
+      "num": 449202,
       "word": "下班后的年轻人开始搞第二事业了",
       "onboard_time": 1711456757,
       "rank": 6,
@@ -115,6 +115,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 305073,
+      "num": 145140,
+      "word": "姐姐离婚时发的朋友圈",
+      "onboard_time": 1711495697,
+      "rank": 21,
+      "category": "情感"
+    },
+    {
       "raw_hot": 298120,
       "num": 298120,
       "word": "地磁暴 嗜睡",
@@ -139,12 +147,28 @@
       "category": "数码"
     },
     {
+      "raw_hot": 276097,
+      "num": 276097,
+      "word": "优酷待播剧预约前十",
+      "onboard_time": 1711477092,
+      "rank": 22,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 272732,
       "num": 272732,
       "word": "王一博翻牌评论",
       "onboard_time": 1711465760,
       "rank": 17,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 270846,
+      "num": 270846,
+      "word": "蔡元培复试",
+      "onboard_time": 1711494855,
+      "rank": 25,
+      "category": "教育"
     },
     {
       "raw_hot": 259759,
@@ -155,19 +179,19 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 252764,
+      "num": 252764,
+      "word": "王珞丹独居生活状态",
+      "onboard_time": 1711488251,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 248885,
       "num": 248885,
       "word": "芒果你超爱",
       "onboard_time": 1711466300,
       "rank": 18,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 244992,
-      "num": 244992,
-      "word": "优酷待播剧预约前十",
-      "onboard_time": 1711477092,
-      "rank": 22,
       "category": "剧集"
     },
     {
@@ -179,12 +203,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 237113,
-      "num": 189218,
-      "word": "王珞丹独居生活状态",
-      "onboard_time": 1711488251,
-      "rank": 35,
-      "category": "艺人"
+      "raw_hot": 212299,
+      "num": 212299,
+      "word": "大众帕萨特已经12万了",
+      "onboard_time": 1711495936,
+      "rank": 14,
+      "category": "汽车"
     },
     {
       "raw_hot": 199483,
@@ -193,6 +217,14 @@
       "onboard_time": 1711447699,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 191931,
+      "num": 191931,
+      "word": "磁暴",
+      "onboard_time": 1711495397,
+      "rank": 16,
+      "category": "自然"
     },
     {
       "raw_hot": 187747,
@@ -211,6 +243,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 185888,
+      "num": 185888,
+      "word": "金秀贤G社生图",
+      "onboard_time": 1711495095,
+      "rank": 34,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 165797,
       "num": 165797,
       "word": "王一博 转型",
@@ -227,7 +267,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 155113,
+      "raw_hot": 157859,
       "num": 155113,
       "word": "郭德纲回应让他对郭麒麟好一点",
       "onboard_time": 1711453518,
@@ -243,8 +283,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 140506,
-      "num": 140506,
+      "raw_hot": 141156,
+      "num": 141156,
       "word": "女生取24颗胆结石没事盘着玩",
       "onboard_time": 1711454538,
       "rank": 26,
@@ -267,12 +307,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 135533,
+      "num": 135533,
+      "word": "女子称被父亲强奸事件姑姑发声否认",
+      "onboard_time": 1711495697,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 128658,
       "num": 128658,
       "word": "肖宇梁喻言同框",
       "onboard_time": 1711469238,
       "rank": 33,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 126113,
+      "num": 126113,
+      "word": "我的保洁阿姨在北京买了套房",
+      "onboard_time": 1711462219,
+      "rank": 44,
+      "category": "情感"
     },
     {
       "raw_hot": 124829,
@@ -331,6 +387,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 113548,
+      "num": 113548,
+      "word": "沈璃的情敌来了",
+      "onboard_time": 1711491252,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 112070,
       "num": 112070,
       "word": "白鹿张鑫自拍",
@@ -347,20 +411,12 @@
       "category": "数码"
     },
     {
-      "raw_hot": 109181,
-      "num": 109181,
-      "word": "沈璃的情敌来了",
-      "onboard_time": 1711491252,
-      "rank": 45,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 108945,
-      "num": 108945,
-      "word": "我的保洁阿姨在北京买了套房",
-      "onboard_time": 1711462219,
-      "rank": 44,
-      "category": "情感"
+      "raw_hot": 107316,
+      "num": 107316,
+      "word": "减肥前一定要知道的事",
+      "onboard_time": 1711494555,
+      "rank": 38,
+      "category": "运动健身"
     },
     {
       "raw_hot": 101869,
@@ -371,12 +427,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 100593,
-      "num": 100593,
-      "word": "蔡元培复试",
-      "onboard_time": 1711494855,
-      "rank": 25,
-      "category": "教育"
+      "raw_hot": 100744,
+      "num": 100744,
+      "word": "以为是休息其实在耗气血的行为",
+      "onboard_time": 1711463660,
+      "rank": 45,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 98969,
@@ -419,12 +475,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 92509,
-      "num": 92509,
-      "word": "以为是休息其实在耗气血的行为",
-      "onboard_time": 1711463660,
-      "rank": 45,
-      "category": "健康医疗"
+      "raw_hot": 85558,
+      "num": 85558,
+      "word": "在吃奶嘴的年纪参加了马拉松",
+      "onboard_time": 1711483330,
+      "rank": 39,
+      "category": "运动健身"
     },
     {
       "raw_hot": 82442,
@@ -443,12 +499,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 78552,
-      "num": 78552,
-      "word": "在吃奶嘴的年纪参加了马拉松",
-      "onboard_time": 1711483330,
-      "rank": 39,
-      "category": "运动健身"
+      "raw_hot": 80775,
+      "num": 110243,
+      "word": "开封王婆五年前在角落练舞",
+      "onboard_time": 1711494315,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 77489,
@@ -459,12 +515,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 73461,
-      "num": 73461,
-      "word": "金秀贤G社生图",
-      "onboard_time": 1711495095,
-      "rank": 34,
-      "category": "作品衍生"
+      "raw_hot": 74849,
+      "num": 74849,
+      "word": "比亚迪发布2023全年财报",
+      "onboard_time": 1711491491,
+      "rank": 33,
+      "category": "汽车"
+    },
+    {
+      "raw_hot": 70540,
+      "num": 70540,
+      "word": "钱老这是已经重启八次人生了吧",
+      "onboard_time": 1711495995,
+      "rank": 42,
+      "category": "教育"
     },
     {
       "raw_hot": 68022,
@@ -475,20 +539,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 66125,
-      "num": 66125,
-      "word": "减肥前一定要知道的事",
-      "onboard_time": 1711494555,
-      "rank": 38,
-      "category": "运动健身"
-    },
-    {
-      "raw_hot": 65298,
-      "num": 65298,
-      "word": "比亚迪发布2023全年财报",
-      "onboard_time": 1711491491,
-      "rank": 33,
-      "category": "汽车"
+      "raw_hot": 66164,
+      "num": 66164,
+      "word": "如何让儿子同学不要再来家里了",
+      "onboard_time": 1711482191,
+      "rank": 35,
+      "category": "情感"
     },
     {
       "raw_hot": 59315,
@@ -497,14 +553,6 @@
       "onboard_time": 1711465039,
       "rank": 29,
       "category": "体育"
-    },
-    {
-      "raw_hot": 53713,
-      "num": 53713,
-      "word": "如何让儿子同学不要再来家里了",
-      "onboard_time": 1711482191,
-      "rank": 35,
-      "category": "情感"
     },
     {
       "raw_hot": 50582,
@@ -547,20 +595,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 40625,
+      "num": 634883,
+      "word": "春日里的中国随手拍",
+      "onboard_time": 1711457539,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 39435,
       "num": 40032,
       "word": "崔胜澈札幌vlog",
       "onboard_time": 1711471215,
       "rank": 49,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 36509,
-      "num": 526318,
-      "word": "春日里的中国随手拍",
-      "onboard_time": 1711457539,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 32090,
