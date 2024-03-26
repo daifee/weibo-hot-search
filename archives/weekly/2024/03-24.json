@@ -1,6 +1,6 @@
 {
   "startTime": 1711210803824,
-  "endTime": 1711466239632,
+  "endTime": 1711467272562,
   "band_list": [
     {
       "raw_hot": 3922233,
@@ -1459,6 +1459,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 662392,
+      "num": 662392,
+      "word": "29岁了爸爸还在意我快不快乐",
+      "onboard_time": 1711464979,
+      "rank": 21,
+      "category": "情感"
+    },
+    {
       "raw_hot": 656372,
       "num": 656372,
       "word": "郭德纲直播首秀曹云金狂刷礼物",
@@ -2475,6 +2483,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 429903,
+      "num": 429903,
+      "word": "张元英转圈",
+      "onboard_time": 1711463839,
+      "rank": 12,
+      "category": "演出"
+    },
+    {
       "raw_hot": 427678,
       "num": 427678,
       "word": "南北",
@@ -2513,6 +2529,14 @@
       "onboard_time": 1711271900,
       "rank": 22,
       "category": "演出"
+    },
+    {
+      "raw_hot": 423565,
+      "num": 423565,
+      "word": "王一博翻牌评论",
+      "onboard_time": 1711465760,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 423497,
@@ -2569,14 +2593,6 @@
       "onboard_time": 1711236016,
       "rank": 1,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 419752,
-      "num": 419752,
-      "word": "张元英转圈",
-      "onboard_time": 1711463839,
-      "rank": 12,
-      "category": "演出"
     },
     {
       "raw_hot": 416639,
@@ -2697,6 +2713,14 @@
       "onboard_time": 1711278380,
       "rank": 42,
       "category": "情感"
+    },
+    {
+      "raw_hot": 400430,
+      "num": 400430,
+      "word": "论穿搭对一个人的影响有多大",
+      "onboard_time": 1711463839,
+      "rank": 19,
+      "category": "时尚"
     },
     {
       "raw_hot": 395397,
@@ -3219,27 +3243,11 @@
       "category": "体育"
     },
     {
-      "raw_hot": 329796,
-      "num": 329796,
-      "word": "论穿搭对一个人的影响有多大",
-      "onboard_time": 1711463839,
-      "rank": 19,
-      "category": "时尚"
-    },
-    {
       "raw_hot": 327906,
       "num": 259207,
       "word": "从微信三件套分析一个人的性格",
       "onboard_time": 1711353559,
       "rank": 23,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 326351,
-      "num": 326351,
-      "word": "29岁了爸爸还在意我快不快乐",
-      "onboard_time": 1711464979,
-      "rank": 21,
       "category": "情感"
     },
     {
@@ -3249,6 +3257,14 @@
       "onboard_time": 1711344378,
       "rank": 32,
       "category": "情感"
+    },
+    {
+      "raw_hot": 324989,
+      "num": 324989,
+      "word": "AI还原武则天",
+      "onboard_time": 1711464320,
+      "rank": 22,
+      "category": "互联网"
     },
     {
       "raw_hot": 324031,
@@ -3425,14 +3441,6 @@
       "onboard_time": 1711427903,
       "rank": 23,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 297570,
-      "num": 297570,
-      "word": "AI还原武则天",
-      "onboard_time": 1711464320,
-      "rank": 22,
-      "category": "互联网"
     },
     {
       "raw_hot": 297503,
@@ -4459,14 +4467,6 @@
       "category": "自然"
     },
     {
-      "raw_hot": 231426,
-      "num": 231426,
-      "word": "王一博翻牌评论",
-      "onboard_time": 1711465760,
-      "rank": 26,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 231037,
       "num": 231037,
       "word": "粉丝18秒看了吴磊7次",
@@ -4769,6 +4769,14 @@
       "onboard_time": 1711335918,
       "rank": 28,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 215778,
+      "num": 215778,
+      "word": "芒果你超爱",
+      "onboard_time": 1711466300,
+      "rank": 24,
+      "category": "剧集"
     },
     {
       "raw_hot": 215508,
@@ -6643,6 +6651,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 160774,
+      "num": 160774,
+      "word": "行止情绪失控",
+      "onboard_time": 1711466659,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 160622,
       "num": 160622,
       "word": "李一桐 初恋感",
@@ -7147,6 +7163,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 147290,
+      "num": 147290,
+      "word": "国足赢泰国就能提前出线",
+      "onboard_time": 1711466779,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 146975,
       "num": 146975,
       "word": "石头赶路 目前是待业",
@@ -7288,6 +7312,14 @@
       "word": "孙铭阳3比1张本美和",
       "onboard_time": 1711337357,
       "rank": 43,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 144919,
+      "num": 144919,
+      "word": "张玉宁空门不进",
+      "onboard_time": 1711466419,
+      "rank": 40,
       "category": "体育"
     },
     {
