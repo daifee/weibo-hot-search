@@ -1,0 +1,410 @@
+{
+  "runTime": 1711418654154,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1382414,
+        "num": 1382414,
+        "word": "房价要触底了吗",
+        "onboard_time": 1711410858,
+        "rank": 0,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 1210969,
+        "num": 1210969,
+        "word": "天水麻辣烫把锅煮烂了",
+        "onboard_time": 1711408755,
+        "rank": 1,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 74366,
+        "num": 1051922,
+        "word": "列车穿越粉色花海如漫画世界",
+        "onboard_time": 1711374020,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 921778,
+        "num": 921778,
+        "word": "我的孩子怎么会得精神疾病呢",
+        "onboard_time": 1711410498,
+        "rank": 3,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 882348,
+        "num": 882348,
+        "word": "陈戌源一审被判无期",
+        "onboard_time": 1711416917,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 815578,
+        "num": 815578,
+        "word": "地磁暴",
+        "onboard_time": 1711417276,
+        "rank": 5,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 740385,
+        "num": 740385,
+        "word": "垫底辣妹将翻拍中国版",
+        "onboard_time": 1711415119,
+        "rank": 6,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 651183,
+        "num": 651183,
+        "word": "李惠利ins晒照",
+        "onboard_time": 1711411159,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 568860,
+        "num": 568860,
+        "word": "宝妈雇人带娃自己创业月售5000万",
+        "onboard_time": 1711416677,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 443296,
+        "num": 443296,
+        "word": "莫斯科多个购物中心收爆炸威胁",
+        "onboard_time": 1711412057,
+        "rank": 9,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 433297,
+        "num": 433297,
+        "word": "大姐自制清明果一年只卖20天赚十万",
+        "onboard_time": 1711383376,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 420265,
+        "num": 420265,
+        "word": "陈戌源揭发他人犯罪行为有立功表现",
+        "onboard_time": 1711417158,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 404836,
+        "num": 404836,
+        "word": "普京说俄方更关心恐袭雇主是谁",
+        "onboard_time": 1711411878,
+        "rank": 12,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 393642,
+        "num": 393642,
+        "word": "苹果官网鼓励升级到iPhone15",
+        "onboard_time": 1711409415,
+        "rank": 13,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 391989,
+        "num": 391989,
+        "word": "陈铭",
+        "onboard_time": 1711409897,
+        "rank": 14,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 368677,
+        "num": 368677,
+        "word": "黄旭熙solo预告",
+        "onboard_time": 1711416737,
+        "rank": 15,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 346659,
+        "num": 346659,
+        "word": "茶里九世",
+        "onboard_time": 1711410798,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 331356,
+        "num": 331356,
+        "word": "杭州姐姐给了弟弟200元刮中100万",
+        "onboard_time": 1711376180,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 309889,
+        "num": 309889,
+        "word": "女儿为去世妈妈写20万字重生文",
+        "onboard_time": 1711417158,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 277817,
+        "num": 277817,
+        "word": "7年前考上央美的保安现在怎么样了",
+        "onboard_time": 1711378400,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 380813,
+        "num": 274198,
+        "word": "喝豆乳米麻薯是一件很私密的事",
+        "onboard_time": 1711415899,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 337022,
+        "num": 272865,
+        "word": "长时间玩手机容易得腱鞘炎",
+        "onboard_time": 1711413380,
+        "rank": 21,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 279898,
+        "num": 272628,
+        "word": "原来人真的会一下子变老",
+        "onboard_time": 1711414939,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 267623,
+        "num": 267623,
+        "word": "魏若来的工资能买2.5个如萍手镯",
+        "onboard_time": 1711413919,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 263904,
+        "num": 263904,
+        "word": "少林寺辟谣释永信之子释正恩接过衣钵",
+        "onboard_time": 1711417519,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 262721,
+        "num": 262721,
+        "word": "经常梳头和不怎么梳头哪种更健康",
+        "onboard_time": 1711414100,
+        "rank": 25,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 235803,
+        "num": 235803,
+        "word": "限量版行李箱被摔破损吉祥航空只赔500",
+        "onboard_time": 1711417519,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 229889,
+        "num": 229889,
+        "word": "四川女婴接种疫苗后瘫痪",
+        "onboard_time": 1711414939,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 227126,
+        "num": 227126,
+        "word": "种地吧",
+        "onboard_time": 1711412121,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 226328,
+        "num": 226328,
+        "word": "王一博受刑戏是下雪天拍的",
+        "onboard_time": 1711417337,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 225113,
+        "num": 225113,
+        "word": "闺蜜合伙盗窃靠反复怀孕育11子躲刑罚",
+        "onboard_time": 1711394531,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 201441,
+        "num": 201441,
+        "word": "长期吃太饱身体会发生什么变化",
+        "onboard_time": 1711367419,
+        "rank": 31,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 192632,
+        "num": 192632,
+        "word": "家属回应爷孙被渣土车碾压致死",
+        "onboard_time": 1711381698,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 179354,
+        "num": 179354,
+        "word": "十个勤天",
+        "onboard_time": 1711409176,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 175563,
+        "num": 175563,
+        "word": "周扬青浪姐一公上班路透",
+        "onboard_time": 1711397292,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 175304,
+        "num": 175304,
+        "word": "郭敬明 纪凌尘最好的医美",
+        "onboard_time": 1711368738,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 165360,
+        "num": 165360,
+        "word": "求职被告知空窗期不能大于3个月",
+        "onboard_time": 1711413078,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 162557,
+        "num": 162557,
+        "word": "地磁暴 极光",
+        "onboard_time": 1711387512,
+        "rank": 37,
+        "category": "自然,科学科普"
+      },
+      {
+        "raw_hot": 160583,
+        "num": 160583,
+        "word": "今日地磁暴活动趋于减弱",
+        "onboard_time": 1711416259,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 155304,
+        "num": 155304,
+        "word": "肖战顺毛侧颜",
+        "onboard_time": 1711410018,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 149920,
+        "num": 149920,
+        "word": "年轻人是如何一步步走向胃癌的",
+        "onboard_time": 1711413499,
+        "rank": 40,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 145454,
+        "num": 145454,
+        "word": "孙俪背沟好深",
+        "onboard_time": 1711378880,
+        "rank": 41,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 145000,
+        "num": 145000,
+        "word": "十个勤天的小店",
+        "onboard_time": 1711378400,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 143708,
+        "num": 143708,
+        "word": "四川一教师反映非教学负担过重",
+        "onboard_time": 1711418418,
+        "rank": 43,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 138033,
+        "num": 138033,
+        "word": "种地吧郁金香开售",
+        "onboard_time": 1711364899,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 133882,
+        "num": 133882,
+        "word": "辛芷蕾拍的海景",
+        "onboard_time": 1711415718,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 126811,
+        "num": 126811,
+        "word": "ILLIT颜值",
+        "onboard_time": 1711416558,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 114953,
+        "num": 114953,
+        "word": "福建一女生长期遭同学霸凌跳楼身亡",
+        "onboard_time": 1711418538,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 112462,
+        "num": 112462,
+        "word": "这3类人适合吃夜宵",
+        "onboard_time": 1711418597,
+        "rank": 48,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 111216,
+        "num": 111216,
+        "word": "Angelababy杨超越互夸美甲",
+        "onboard_time": 1711377201,
+        "rank": 49,
+        "category": "作品衍生,时尚"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平同瑙鲁总统阿迪昂会谈#"
+    }
+  }
+}
