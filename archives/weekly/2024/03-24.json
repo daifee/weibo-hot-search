@@ -1,6 +1,6 @@
 {
   "startTime": 1711210803824,
-  "endTime": 1711415501135,
+  "endTime": 1711416670289,
   "band_list": [
     {
       "raw_hot": 3435224,
@@ -115,20 +115,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1745267,
+      "num": 1745267,
+      "word": "房价要触底了吗",
+      "onboard_time": 1711410858,
+      "rank": 0,
+      "category": "财经"
+    },
+    {
       "raw_hot": 1744705,
       "num": 1744705,
       "word": "李菲儿扣了250分",
       "onboard_time": 1711251260,
       "rank": 1,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1724901,
-      "num": 1724901,
-      "word": "房价要触底了吗",
-      "onboard_time": 1711410858,
-      "rank": 0,
-      "category": "财经"
     },
     {
       "raw_hot": 1720402,
@@ -1283,6 +1283,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 575772,
+      "num": 575772,
+      "word": "莫斯科多个购物中心收爆炸威胁",
+      "onboard_time": 1711412057,
+      "rank": 11,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 572864,
       "num": 572864,
       "word": "初中生免三考直接读985本科硕士",
@@ -1739,14 +1747,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 452053,
-      "num": 452053,
-      "word": "莫斯科多个购物中心收爆炸威胁",
-      "onboard_time": 1711412057,
-      "rank": 11,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 450227,
       "num": 282877,
       "word": "副教授26岁学生比自己还大",
@@ -1923,6 +1923,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 402729,
+      "num": 402729,
+      "word": "茶里九世",
+      "onboard_time": 1711410798,
+      "rank": 13,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 402318,
       "num": 402318,
       "word": "宋亚轩坐上了刘耀文的副驾",
@@ -1953,14 +1961,6 @@
       "onboard_time": 1711278380,
       "rank": 42,
       "category": "情感"
-    },
-    {
-      "raw_hot": 395942,
-      "num": 395942,
-      "word": "茶里九世",
-      "onboard_time": 1711410798,
-      "rank": 13,
-      "category": "剧集"
     },
     {
       "raw_hot": 395397,
@@ -2057,6 +2057,14 @@
       "onboard_time": 1711381279,
       "rank": 13,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 373449,
+      "num": 373449,
+      "word": "垫底辣妹将翻拍中国版",
+      "onboard_time": 1711415119,
+      "rank": 35,
+      "category": "电影"
     },
     {
       "raw_hot": 369739,
@@ -2227,6 +2235,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 347255,
+      "num": 275831,
+      "word": "喝豆乳米麻薯是一件很私密的事",
+      "onboard_time": 1711415899,
+      "rank": 20,
+      "category": "情感"
+    },
+    {
       "raw_hot": 346438,
       "num": 237353,
       "word": "正式被确诊为功夫熊猫",
@@ -2307,6 +2323,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 335454,
+      "num": 275495,
+      "word": "原来人真的会一下子变老",
+      "onboard_time": 1711414939,
+      "rank": 29,
+      "category": "情感"
+    },
+    {
       "raw_hot": 332920,
       "num": 279529,
       "word": "人体中最不怕冷的器官是哪个",
@@ -2329,6 +2353,14 @@
       "onboard_time": 1711334599,
       "rank": 17,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 330998,
+      "num": 289350,
+      "word": "长时间玩手机容易得腱鞘炎",
+      "onboard_time": 1711413380,
+      "rank": 21,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 330110,
@@ -2523,14 +2555,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 289350,
-      "num": 289350,
-      "word": "长时间玩手机容易得腱鞘炎",
-      "onboard_time": 1711413380,
-      "rank": 21,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 288490,
       "num": 288490,
       "word": "花间令校园暴力",
@@ -2545,6 +2569,14 @@
       "onboard_time": 1711276460,
       "rank": 22,
       "category": "数码"
+    },
+    {
+      "raw_hot": 288050,
+      "num": 288050,
+      "word": "魏若来的工资能买2.5个如萍手镯",
+      "onboard_time": 1711413919,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 287785,
@@ -2691,6 +2723,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 268693,
+      "num": 268693,
+      "word": "经常梳头和不怎么梳头哪种更健康",
+      "onboard_time": 1711414100,
+      "rank": 26,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 266909,
       "num": 266909,
       "word": "肖战顺毛侧颜",
@@ -2793,14 +2833,6 @@
       "onboard_time": 1711262179,
       "rank": 21,
       "category": "情感"
-    },
-    {
-      "raw_hot": 257029,
-      "num": 257029,
-      "word": "经常梳头和不怎么梳头哪种更健康",
-      "onboard_time": 1711414100,
-      "rank": 26,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 255691,
@@ -3179,6 +3211,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 232528,
+      "num": 232528,
+      "word": "四川女婴接种疫苗后瘫痪",
+      "onboard_time": 1711414939,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 232369,
       "num": 232369,
       "word": "赵露思澳门活动造型",
@@ -3193,14 +3233,6 @@
       "onboard_time": 1711204402,
       "rank": 27,
       "category": "体育"
-    },
-    {
-      "raw_hot": 231509,
-      "num": 231509,
-      "word": "魏若来的工资能买2.5个如萍手镯",
-      "onboard_time": 1711413919,
-      "rank": 28,
-      "category": "剧集"
     },
     {
       "raw_hot": 231437,
@@ -3417,14 +3449,6 @@
       "onboard_time": 1711270759,
       "rank": 27,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 215120,
-      "num": 215120,
-      "word": "原来人真的会一下子变老",
-      "onboard_time": 1711414939,
-      "rank": 29,
-      "category": "情感"
     },
     {
       "raw_hot": 214060,
@@ -4163,14 +4187,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 181001,
-      "num": 181001,
-      "word": "垫底辣妹将翻拍中国版",
-      "onboard_time": 1711415119,
-      "rank": 35,
-      "category": "电影"
-    },
-    {
       "raw_hot": 180717,
       "num": 180717,
       "word": "丁俊晖状态",
@@ -4265,6 +4281,14 @@
       "onboard_time": 1711291221,
       "rank": 41,
       "category": "情感"
+    },
+    {
+      "raw_hot": 177291,
+      "num": 177291,
+      "word": "辛芷蕾拍的海景",
+      "onboard_time": 1711415718,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 177213,
@@ -4385,6 +4409,14 @@
       "onboard_time": 1711271960,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 170275,
+      "num": 170275,
+      "word": "今日地磁暴活动趋于减弱",
+      "onboard_time": 1711416259,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 169728,
@@ -4873,14 +4905,6 @@
       "onboard_time": 1711369819,
       "rank": 47,
       "category": "体育"
-    },
-    {
-      "raw_hot": 150878,
-      "num": 150878,
-      "word": "四川女婴接种疫苗后瘫痪",
-      "onboard_time": 1711414939,
-      "rank": 39,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 150624,
@@ -5571,6 +5595,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 123443,
+      "num": 123443,
+      "word": "吴磊表情 尊嘟假嘟",
+      "onboard_time": 1711412240,
+      "rank": 45,
+      "category": "电影"
+    },
+    {
       "raw_hot": 123377,
       "num": 123377,
       "word": "ZS.Lin对战MRC",
@@ -5697,6 +5729,14 @@
       "onboard_time": 1711258339,
       "rank": 46,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 115088,
+      "num": 115088,
+      "word": "ILLIT颜值",
+      "onboard_time": 1711416558,
+      "rank": 48,
+      "category": "艺人"
     },
     {
       "raw_hot": 114579,

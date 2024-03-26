@@ -1,0 +1,410 @@
+{
+  "runTime": 1711416670289,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1745267,
+        "num": 1745267,
+        "word": "房价要触底了吗",
+        "onboard_time": 1711410858,
+        "rank": 0,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 1440795,
+        "num": 1440795,
+        "word": "天水麻辣烫把锅煮烂了",
+        "onboard_time": 1711408755,
+        "rank": 1,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 98017,
+        "num": 1210714,
+        "word": "列车穿越粉色花海如漫画世界",
+        "onboard_time": 1711374020,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1079085,
+        "num": 1079085,
+        "word": "我的孩子怎么会得精神疾病呢",
+        "onboard_time": 1711410498,
+        "rank": 3,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 821090,
+        "num": 821090,
+        "word": "李惠利ins晒照",
+        "onboard_time": 1711411159,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 650660,
+        "num": 650660,
+        "word": "普京说俄方更关心恐袭雇主是谁",
+        "onboard_time": 1711411878,
+        "rank": 5,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 575772,
+        "num": 575772,
+        "word": "莫斯科多个购物中心收爆炸威胁",
+        "onboard_time": 1711412057,
+        "rank": 6,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 510114,
+        "num": 510114,
+        "word": "苹果官网鼓励升级到iPhone15",
+        "onboard_time": 1711409415,
+        "rank": 7,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 479600,
+        "num": 479600,
+        "word": "大姐自制清明果一年只卖20天赚十万",
+        "onboard_time": 1711383376,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 460828,
+        "num": 460828,
+        "word": "杭州姐姐给了弟弟200元刮中100万",
+        "onboard_time": 1711376180,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 501920,
+        "num": 460153,
+        "word": "陈铭",
+        "onboard_time": 1711409897,
+        "rank": 10,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 458850,
+        "num": 458850,
+        "word": "7年前考上央美的保安现在怎么样了",
+        "onboard_time": 1711378400,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 402729,
+        "num": 402729,
+        "word": "茶里九世",
+        "onboard_time": 1711410798,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 373449,
+        "num": 373449,
+        "word": "垫底辣妹将翻拍中国版",
+        "onboard_time": 1711415119,
+        "rank": 13,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 342845,
+        "num": 342845,
+        "word": "家属回应爷孙被渣土车碾压致死",
+        "onboard_time": 1711381698,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 304234,
+        "num": 304234,
+        "word": "地磁暴 极光",
+        "onboard_time": 1711387512,
+        "rank": 15,
+        "category": "自然,科学科普"
+      },
+      {
+        "raw_hot": 290825,
+        "num": 290825,
+        "word": "闺蜜合伙盗窃靠反复怀孕育11子躲刑罚",
+        "onboard_time": 1711394531,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 288050,
+        "num": 288050,
+        "word": "魏若来的工资能买2.5个如萍手镯",
+        "onboard_time": 1711413919,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 284637,
+        "num": 284637,
+        "word": "长期吃太饱身体会发生什么变化",
+        "onboard_time": 1711367419,
+        "rank": 18,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 280540,
+        "num": 280540,
+        "word": "周扬青浪姐一公上班路透",
+        "onboard_time": 1711397292,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 347255,
+        "num": 275831,
+        "word": "喝豆乳米麻薯是一件很私密的事",
+        "onboard_time": 1711415899,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 335454,
+        "num": 275495,
+        "word": "原来人真的会一下子变老",
+        "onboard_time": 1711414939,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 330998,
+        "num": 274217,
+        "word": "长时间玩手机容易得腱鞘炎",
+        "onboard_time": 1711413380,
+        "rank": 22,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 268693,
+        "num": 268693,
+        "word": "经常梳头和不怎么梳头哪种更健康",
+        "onboard_time": 1711414100,
+        "rank": 23,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 237647,
+        "num": 237647,
+        "word": "Angelababy杨超越互夸美甲",
+        "onboard_time": 1711377201,
+        "rank": 24,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 236870,
+        "num": 236870,
+        "word": "年轻人是如何一步步走向胃癌的",
+        "onboard_time": 1711413499,
+        "rank": 25,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 234764,
+        "num": 234764,
+        "word": "求职被告知空窗期不能大于3个月",
+        "onboard_time": 1711413078,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 232528,
+        "num": 232528,
+        "word": "四川女婴接种疫苗后瘫痪",
+        "onboard_time": 1711414939,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 218691,
+        "num": 218691,
+        "word": "肖战顺毛侧颜",
+        "onboard_time": 1711410018,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 216625,
+        "num": 216625,
+        "word": "陈戌源90度鞠躬向球迷道歉",
+        "onboard_time": 1711413739,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 207689,
+        "num": 207689,
+        "word": "孙俪背沟好深",
+        "onboard_time": 1711378880,
+        "rank": 30,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 207112,
+        "num": 207112,
+        "word": "女子商场购物地板突然坍塌被吞噬",
+        "onboard_time": 1711412359,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 191729,
+        "num": 191729,
+        "word": "郭敬明 纪凌尘最好的医美",
+        "onboard_time": 1711368738,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 191556,
+        "num": 191556,
+        "word": "陈戌源案今天一审宣判",
+        "onboard_time": 1711410858,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 188248,
+        "num": 188248,
+        "word": "李在明质问尹锡悦政府为何招惹中国",
+        "onboard_time": 1711409356,
+        "rank": 34,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 177291,
+        "num": 177291,
+        "word": "辛芷蕾拍的海景",
+        "onboard_time": 1711415718,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 175473,
+        "num": 175473,
+        "word": "断崖式衰老发生在几岁",
+        "onboard_time": 1711373180,
+        "rank": 36,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 170275,
+        "num": 170275,
+        "word": "今日地磁暴活动趋于减弱",
+        "onboard_time": 1711416259,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 159944,
+        "num": 159944,
+        "word": "十个勤天",
+        "onboard_time": 1711409176,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 151922,
+        "num": 151922,
+        "word": "小伙与女友相恋十年婚期前2月却退婚",
+        "onboard_time": 1711409055,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 147587,
+        "num": 147587,
+        "word": "十个勤天的小店",
+        "onboard_time": 1711378400,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 144341,
+        "num": 144341,
+        "word": "工作8个月攒了11万想辞职",
+        "onboard_time": 1711368439,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 136825,
+        "num": 136825,
+        "word": "工作第一年的人设",
+        "onboard_time": 1711414699,
+        "rank": 42,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 133879,
+        "num": 133879,
+        "word": "黄仁俊泡泡",
+        "onboard_time": 1711410498,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 126125,
+        "num": 126125,
+        "word": "IU自曝吃东西每口咬150下",
+        "onboard_time": 1711366819,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 123443,
+        "num": 123443,
+        "word": "吴磊表情 尊嘟假嘟",
+        "onboard_time": 1711412240,
+        "rank": 45,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 120078,
+        "num": 120078,
+        "word": "墨香铜臭回来了",
+        "onboard_time": 1711348338,
+        "rank": 46,
+        "category": "读书作家,作品衍生"
+      },
+      {
+        "raw_hot": 116758,
+        "num": 116758,
+        "word": "苹果又面临3起消费者集体诉讼",
+        "onboard_time": 1711415059,
+        "rank": 47,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 115088,
+        "num": 115088,
+        "word": "ILLIT颜值",
+        "onboard_time": 1711416558,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 108959,
+        "num": 114959,
+        "word": "陈戌源庭审现场",
+        "onboard_time": 1711412959,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平会见多米尼克总理斯凯里特#"
+    }
+  }
+}
