@@ -1,6 +1,6 @@
 {
   "startTime": 1711383717224,
-  "endTime": 1711434942980,
+  "endTime": 1711437355923,
   "band_list": [
     {
       "raw_hot": 3922233,
@@ -163,6 +163,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 801692,
+      "num": 801692,
+      "word": "山姆同款鸡腿南京卖74元上海卖29元",
+      "onboard_time": 1711433358,
+      "rank": 23,
+      "category": "美食,社会新闻"
+    },
+    {
       "raw_hot": 787458,
       "num": 787458,
       "word": "垫底辣妹将翻拍中国版",
@@ -209,6 +217,14 @@
       "onboard_time": 1711424179,
       "rank": 5,
       "category": "美食"
+    },
+    {
+      "raw_hot": 751658,
+      "num": 751658,
+      "word": "福州一学校厕所装反欺凌报警器",
+      "onboard_time": 1711432039,
+      "rank": 7,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 744240,
@@ -355,14 +371,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 537264,
-      "num": 537264,
-      "word": "福州一学校厕所装反欺凌报警器",
-      "onboard_time": 1711432039,
-      "rank": 7,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 526689,
       "num": 526689,
       "word": "地磁暴 极光",
@@ -484,7 +492,7 @@
     },
     {
       "raw_hot": 437568,
-      "num": 270246,
+      "num": 286783,
       "word": "原来女生爱旅游在相亲届扣大分",
       "onboard_time": 1711431739,
       "rank": 22,
@@ -531,14 +539,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 390443,
-      "num": 356428,
-      "word": "山姆同款鸡腿南京卖74元上海卖29元",
-      "onboard_time": 1711433358,
-      "rank": 23,
-      "category": "美食,社会新闻"
-    },
-    {
       "raw_hot": 389445,
       "num": 389445,
       "word": "十个勤天直播包花",
@@ -553,6 +553,14 @@
       "onboard_time": 1711415899,
       "rank": 20,
       "category": "情感"
+    },
+    {
+      "raw_hot": 378976,
+      "num": 378976,
+      "word": "爬山9小时后的宋江",
+      "onboard_time": 1711434258,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 378264,
@@ -611,6 +619,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 338027,
+      "num": 338027,
+      "word": "王楚钦出席WTT北京发布会",
+      "onboard_time": 1711434500,
+      "rank": 23,
+      "category": "体育"
+    },
+    {
       "raw_hot": 337901,
       "num": 337901,
       "word": "周扬青浪姐一公上班路透",
@@ -633,6 +649,22 @@
       "onboard_time": 1711414939,
       "rank": 29,
       "category": "情感"
+    },
+    {
+      "raw_hot": 334557,
+      "num": 334557,
+      "word": "张颂文的烂菜叶传闻",
+      "onboard_time": 1711435218,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 324084,
+      "num": 324084,
+      "word": "频繁洗澡或给身体埋下皮肤癌隐患",
+      "onboard_time": 1711436358,
+      "rank": 16,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 315073,
@@ -811,6 +843,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 246507,
+      "num": 246507,
+      "word": "张元英默剧表演",
+      "onboard_time": 1711435879,
+      "rank": 26,
+      "category": "演出"
+    },
+    {
       "raw_hot": 245790,
       "num": 245790,
       "word": "什么时候认为要分手了",
@@ -825,14 +865,6 @@
       "onboard_time": 1711420038,
       "rank": 22,
       "category": "美妆"
-    },
-    {
-      "raw_hot": 238270,
-      "num": 238270,
-      "word": "王楚钦出席WTT北京发布会",
-      "onboard_time": 1711434500,
-      "rank": 23,
-      "category": "体育"
     },
     {
       "raw_hot": 237898,
@@ -867,14 +899,6 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 231273,
-      "num": 231273,
-      "word": "爬山9小时后的宋江",
-      "onboard_time": 1711434258,
-      "rank": 24,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 229729,
       "num": 229729,
       "word": "电影排球少年定档",
@@ -905,6 +929,22 @@
       "onboard_time": 1711417337,
       "rank": 29,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 224728,
+      "num": 224728,
+      "word": "吴磊 女人当自强",
+      "onboard_time": 1711434919,
+      "rank": 33,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 215379,
+      "num": 199846,
+      "word": "小英穿搭",
+      "onboard_time": 1711435158,
+      "rank": 30,
+      "category": "网红,时尚"
     },
     {
       "raw_hot": 214495,
@@ -971,6 +1011,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 200456,
+      "num": 200456,
+      "word": "世界植发之都",
+      "onboard_time": 1711436717,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 199457,
       "num": 199457,
       "word": "Fate Challenge",
@@ -1009,6 +1057,14 @@
       "onboard_time": 1711432157,
       "rank": 27,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 193319,
+      "num": 193319,
+      "word": "范丞丞手绘海报图",
+      "onboard_time": 1711436419,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 189350,
@@ -1081,6 +1137,14 @@
       "onboard_time": 1711409176,
       "rank": 19,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 179859,
+      "num": 179859,
+      "word": "朴灿烈在线",
+      "onboard_time": 1711437077,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 177619,
@@ -1233,14 +1297,6 @@
       "onboard_time": 1711383257,
       "rank": 36,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 158730,
-      "num": 158730,
-      "word": "吴磊 女人当自强",
-      "onboard_time": 1711434919,
-      "rank": 33,
-      "category": "电影"
     },
     {
       "raw_hot": 155838,
@@ -1403,6 +1459,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 134973,
+      "num": 134973,
+      "word": "170元5串的烧烤值不值",
+      "onboard_time": 1711435399,
+      "rank": 38,
+      "category": "美食"
+    },
+    {
       "raw_hot": 134518,
       "num": 134518,
       "word": "ILLIT出道曲一股子鲸味",
@@ -1441,6 +1505,14 @@
       "onboard_time": 1711376841,
       "rank": 31,
       "category": "教育"
+    },
+    {
+      "raw_hot": 127231,
+      "num": 127231,
+      "word": "赵一博 第99个盒子发生一件大事",
+      "onboard_time": 1711437140,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 126811,
@@ -1539,12 +1611,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 112779,
+      "num": 112779,
+      "word": "小米智驾目标今年进入行业第一阵营",
+      "onboard_time": 1711436059,
+      "rank": 47,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 112462,
       "num": 112462,
       "word": "这3类人适合吃夜宵",
       "onboard_time": 1711418597,
       "rank": 48,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 111821,
+      "num": 111821,
+      "word": "给P人一点J人的旅游震撼",
+      "onboard_time": 1711437258,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 111388,
@@ -1596,7 +1684,7 @@
     },
     {
       "raw_hot": 100999,
-      "num": 180731,
+      "num": 307030,
       "word": "穿AirMax感受缓震革命",
       "onboard_time": 1711434198,
       "rank": 29,
@@ -1731,6 +1819,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 67481,
+      "num": 302457,
+      "word": "唐毅给陈都灵画青山绿水妆",
+      "onboard_time": 1711433778,
+      "rank": 45,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 67397,
       "num": 1332950,
       "word": "与春日繁花来场浪漫邂逅",
@@ -1795,14 +1891,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 46878,
-      "num": 142344,
-      "word": "唐毅给陈都灵画青山绿水妆",
-      "onboard_time": 1711433778,
-      "rank": 45,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 44255,
       "num": 44255,
       "word": "琅琊榜剧组当年的精神状态",
@@ -1836,11 +1924,19 @@
     },
     {
       "raw_hot": 36021,
-      "num": 152185,
+      "num": 856274,
       "word": "当汉字与春天不期而遇",
       "onboard_time": 1711413320,
       "rank": 36,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 34342,
+      "num": 334105,
+      "word": "科学控糖快乐健康两不误",
+      "onboard_time": 1711436419,
+      "rank": 14,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 33865,
