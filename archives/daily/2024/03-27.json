@@ -1,6 +1,6 @@
 {
   "startTime": 1711470163483,
-  "endTime": 1711481725750,
+  "endTime": 1711484313723,
   "band_list": [
     {
       "raw_hot": 1151583,
@@ -459,6 +459,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 29739,
+      "num": 29739,
+      "word": "茅威涛 陈丽君爆火意料之外情理之中",
+      "onboard_time": 1711480391,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 28487,
       "num": 28487,
       "word": "范丞丞笑的对称的方式",
@@ -491,12 +499,28 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 20838,
-      "num": 20838,
-      "word": "茅威涛 陈丽君爆火意料之外情理之中",
-      "onboard_time": 1711480391,
-      "rank": 47,
-      "category": "综艺"
+      "raw_hot": 16875,
+      "num": 17583,
+      "word": "如何让儿子同学不要再来家里了",
+      "onboard_time": 1711482191,
+      "rank": 35,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 15109,
+      "num": 17560,
+      "word": "天官赐福 红花与纯洁",
+      "onboard_time": 1711482310,
+      "rank": 38,
+      "category": "动漫"
+    },
+    {
+      "raw_hot": 14533,
+      "num": 17552,
+      "word": "在吃奶嘴的年纪参加了马拉松",
+      "onboard_time": 1711483330,
+      "rank": 39,
+      "category": "运动健身"
     },
     {
       "raw_hot": 13985,
@@ -505,6 +529,14 @@
       "onboard_time": 1711457539,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 13205,
+      "num": 17502,
+      "word": "胃食管反流",
+      "onboard_time": 1711483811,
+      "rank": 44,
+      "category": "健康医疗"
     }
   ],
   "hotgov_list": [
