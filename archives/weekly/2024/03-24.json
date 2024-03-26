@@ -1,6 +1,6 @@
 {
   "startTime": 1711210803824,
-  "endTime": 1711442152408,
+  "endTime": 1711444677777,
   "band_list": [
     {
       "raw_hot": 3922233,
@@ -9,6 +9,14 @@
       "onboard_time": 1711428021,
       "rank": 0,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 3833957,
+      "num": 3833957,
+      "word": "十个勤天郁金香线上开售",
+      "onboard_time": 1711443139,
+      "rank": 0,
+      "category": "综艺"
     },
     {
       "raw_hot": 3505714,
@@ -483,6 +491,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1144219,
+      "num": 1144219,
+      "word": "胖东来新增10天不开心假",
+      "onboard_time": 1711440558,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1140173,
       "num": 503724,
       "word": "我是学校里唯一一条蛆",
@@ -889,6 +905,22 @@
       "onboard_time": 1711439957,
       "rank": 4,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 790521,
+      "num": 328257,
+      "word": "武汉万科广场一女子裸奔",
+      "onboard_time": 1711441577,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 790193,
+      "num": 790193,
+      "word": "刘亦菲 我不要面子的吗",
+      "onboard_time": 1711441699,
+      "rank": 14,
+      "category": "艺人,幽默"
     },
     {
       "raw_hot": 787458,
@@ -1339,6 +1371,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 633693,
+      "num": 633693,
+      "word": "爸爸当家3官宣定档",
+      "onboard_time": 1711443439,
+      "rank": 7,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 633340,
       "num": 633340,
       "word": "infp是写文字天赋型选手",
@@ -1507,6 +1547,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 573144,
+      "num": 573144,
+      "word": "金智媛成为烧酒代言人",
+      "onboard_time": 1711441520,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 572864,
       "num": 572864,
       "word": "初中生免三考直接读985本科硕士",
@@ -1609,6 +1657,14 @@
       "onboard_time": 1711394531,
       "rank": 35,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 544929,
+      "num": 544929,
+      "word": "爸爸当家",
+      "onboard_time": 1711443439,
+      "rank": 10,
+      "category": "综艺"
     },
     {
       "raw_hot": 540405,
@@ -1835,6 +1891,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 498456,
+      "num": 548726,
+      "word": "美国一大桥被货船撞塌",
+      "onboard_time": 1711440678,
+      "rank": 27,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 497649,
       "num": 421462,
       "word": "赵露思造型师",
@@ -1931,14 +1995,6 @@
       "category": "运动健身"
     },
     {
-      "raw_hot": 479295,
-      "num": 479295,
-      "word": "美国一大桥被货船撞塌",
-      "onboard_time": 1711440678,
-      "rank": 27,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 476901,
       "num": 365373,
       "word": "工作8个月攒了11万想辞职",
@@ -1953,6 +2009,14 @@
       "onboard_time": 1711436358,
       "rank": 16,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 474490,
+      "num": 474490,
+      "word": "东南大学回应发复试通知又取消",
+      "onboard_time": 1711441577,
+      "rank": 28,
+      "category": "教育"
     },
     {
       "raw_hot": 474394,
@@ -1977,6 +2041,14 @@
       "onboard_time": 1711428200,
       "rank": 13,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 470503,
+      "num": 201317,
+      "word": "QQ闪退",
+      "onboard_time": 1711444219,
+      "rank": 30,
+      "category": "互联网"
     },
     {
       "raw_hot": 470218,
@@ -2611,14 +2683,6 @@
       "category": "运动健身"
     },
     {
-      "raw_hot": 354686,
-      "num": 354686,
-      "word": "刘亦菲 我不要面子的吗",
-      "onboard_time": 1711441699,
-      "rank": 14,
-      "category": "艺人,幽默"
-    },
-    {
       "raw_hot": 353896,
       "num": 353896,
       "word": "陶昕然晒孙俪开机照",
@@ -2819,6 +2883,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 330443,
+      "num": 330443,
+      "word": "丽挽狂岚",
+      "onboard_time": 1711442057,
+      "rank": 44,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 330110,
       "num": 259840,
       "word": "丁俊晖犯规",
@@ -2860,7 +2932,7 @@
     },
     {
       "raw_hot": 320325,
-      "num": 277337,
+      "num": 317476,
       "word": "不化妆却越来越漂亮的6个原因",
       "onboard_time": 1711441338,
       "rank": 23,
@@ -2889,14 +2961,6 @@
       "onboard_time": 1711425080,
       "rank": 21,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 315041,
-      "num": 315041,
-      "word": "金智媛成为烧酒代言人",
-      "onboard_time": 1711441520,
-      "rank": 16,
-      "category": "艺人"
     },
     {
       "raw_hot": 312265,
@@ -3307,14 +3371,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 266951,
-      "num": 266951,
-      "word": "胖东来新增10天不开心假",
-      "onboard_time": 1711440558,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 266909,
       "num": 266909,
       "word": "肖战顺毛侧颜",
@@ -3369,6 +3425,14 @@
       "onboard_time": 1711289180,
       "rank": 34,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 263374,
+      "num": 263374,
+      "word": "第一次感受到防晒的重要性",
+      "onboard_time": 1711443620,
+      "rank": 25,
+      "category": "美妆"
     },
     {
       "raw_hot": 263234,
@@ -3899,6 +3963,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 230424,
+      "num": 230424,
+      "word": "易烊千玺宣传雪豹",
+      "onboard_time": 1711442418,
+      "rank": 27,
+      "category": "电影"
+    },
+    {
       "raw_hot": 230177,
       "num": 409246,
       "word": "霸王茶姬获首批营养分级标识",
@@ -4219,14 +4291,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 209755,
-      "num": 262859,
-      "word": "东南大学回应发复试通知又取消",
-      "onboard_time": 1711441577,
-      "rank": 28,
-      "category": "教育"
-    },
-    {
       "raw_hot": 209169,
       "num": 209169,
       "word": "白百何短发照",
@@ -4425,6 +4489,14 @@
       "onboard_time": 1711336099,
       "rank": 30,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 201839,
+      "num": 201839,
+      "word": "建议大家在单位立有对象人设",
+      "onboard_time": 1711443919,
+      "rank": 29,
+      "category": "情感"
     },
     {
       "raw_hot": 201162,
@@ -4635,6 +4707,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 194463,
+      "num": 194463,
+      "word": "种地吧直播",
+      "onboard_time": 1711444219,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 194432,
       "num": 194432,
       "word": "索伯换胎",
@@ -4811,14 +4891,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 190779,
-      "num": 190779,
-      "word": "武汉万科广场一女子裸奔",
-      "onboard_time": 1711441577,
-      "rank": 36,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 190726,
       "num": 190726,
       "word": "终于悟了我单身的原因",
@@ -4897,6 +4969,14 @@
       "onboard_time": 1711379959,
       "rank": 30,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 188251,
+      "num": 188251,
+      "word": "地磁暴不背锅",
+      "onboard_time": 1711443379,
+      "rank": 33,
+      "category": "科学科普"
     },
     {
       "raw_hot": 188080,
@@ -5547,6 +5627,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 163124,
+      "num": 158698,
+      "word": "飞书裁员",
+      "onboard_time": 1711441218,
+      "rank": 47,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 162862,
       "num": 162862,
       "word": "花间令癫成了我想要的样子",
@@ -5675,12 +5763,28 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 160136,
+      "num": 160136,
+      "word": "女大有自己的早八三件套",
+      "onboard_time": 1711442659,
+      "rank": 37,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 159893,
       "num": 159893,
       "word": "周鸿祎分享清华读博日常",
       "onboard_time": 1711277960,
       "rank": 40,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 159463,
+      "num": 159463,
+      "word": "赵雅芝 马面裙",
+      "onboard_time": 1711441397,
+      "rank": 40,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 159458,
@@ -5721,6 +5825,14 @@
       "onboard_time": 1711370118,
       "rank": 39,
       "category": "情感"
+    },
+    {
+      "raw_hot": 157841,
+      "num": 157841,
+      "word": "比苹果更没有果张力的水果",
+      "onboard_time": 1711441878,
+      "rank": 45,
+      "category": "美食"
     },
     {
       "raw_hot": 157756,
@@ -5825,6 +5937,14 @@
       "onboard_time": 1711286300,
       "rank": 40,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 154741,
+      "num": 154741,
+      "word": "樱花",
+      "onboard_time": 1711443680,
+      "rank": 43,
+      "category": "旅游"
     },
     {
       "raw_hot": 154552,
@@ -5955,14 +6075,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 150796,
-      "num": 150796,
-      "word": "丽挽狂岚",
-      "onboard_time": 1711442057,
-      "rank": 44,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 150624,
       "num": 150624,
       "word": "行止背后抱沈璃",
@@ -5995,14 +6107,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 149278,
-      "num": 149278,
-      "word": "比苹果更没有果张力的水果",
-      "onboard_time": 1711441878,
-      "rank": 45,
-      "category": "美食"
-    },
-    {
       "raw_hot": 149236,
       "num": 149236,
       "word": "苹果又面临3起消费者集体诉讼",
@@ -6017,14 +6121,6 @@
       "onboard_time": 1711372339,
       "rank": 45,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 149193,
-      "num": 149193,
-      "word": "飞书裁员",
-      "onboard_time": 1711441218,
-      "rank": 47,
-      "category": "互联网"
     },
     {
       "raw_hot": 148861,
@@ -6891,12 +6987,28 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 119857,
+      "num": 130359,
+      "word": "输菲律宾后周鹏砸了更衣室",
+      "onboard_time": 1711441998,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 119728,
       "num": 119728,
       "word": "老子精神状态领先年轻人2500多年",
       "onboard_time": 1711263440,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 118712,
+      "num": 119096,
+      "word": "川渝大学的课还是太超前了",
+      "onboard_time": 1711442238,
+      "rank": 48,
+      "category": "教育"
     },
     {
       "raw_hot": 118709,
@@ -7139,14 +7251,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 105482,
-      "num": 130359,
-      "word": "输菲律宾后周鹏砸了更衣室",
-      "onboard_time": 1711441998,
-      "rank": 49,
-      "category": "体育"
-    },
-    {
       "raw_hot": 104590,
       "num": 104590,
       "word": "卡琳娜 全知读者视角",
@@ -7217,6 +7321,22 @@
       "onboard_time": 1711282880,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 94506,
+      "num": 383385,
+      "word": "多囊卵巢综合征的危害有多大",
+      "onboard_time": 1711443620,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 92048,
+      "num": 118997,
+      "word": "中国人民绝不会忘记驻南联盟使馆被炸历史",
+      "onboard_time": 1711444339,
+      "rank": 49,
+      "category": "国内时政"
     },
     {
       "raw_hot": 83921,
@@ -7431,6 +7551,14 @@
       "num": 1335099,
       "word": "春耕春播春管新图景",
       "onboard_time": 1711251198,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 62619,
+      "num": 2269172,
+      "word": "海基二号海上安装就位",
+      "onboard_time": 1711442119,
       "rank": 2,
       "category": "社会新闻"
     },
@@ -7659,6 +7787,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 23768,
+      "num": 180692,
+      "word": "新款AirMax国内首发测评",
+      "onboard_time": 1711441818,
+      "rank": 38,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 23590,
       "num": 173890,
       "word": "这场秀是在演我的精神状态吗",
@@ -7769,22 +7905,6 @@
       "onboard_time": 1711398909,
       "rank": 48,
       "category": "教育"
-    },
-    {
-      "raw_hot": 11262,
-      "num": 180692,
-      "word": "新款AirMax国内首发测评",
-      "onboard_time": 1711441818,
-      "rank": 38,
-      "category": "时尚"
-    },
-    {
-      "raw_hot": 7016,
-      "num": 1311082,
-      "word": "海基二号海上安装就位",
-      "onboard_time": 1711442119,
-      "rank": 2,
-      "category": "社会新闻"
     }
   ],
   "hotgov_list": [

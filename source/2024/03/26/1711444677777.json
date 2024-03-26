@@ -1,0 +1,410 @@
+{
+  "runTime": 1711444677777,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3833957,
+        "num": 3833957,
+        "word": "十个勤天郁金香线上开售",
+        "onboard_time": 1711443139,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 2801312,
+        "num": 2801312,
+        "word": "妇产科迎来关停潮",
+        "onboard_time": 1711438638,
+        "rank": 1,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 62619,
+        "num": 2269172,
+        "word": "海基二号海上安装就位",
+        "onboard_time": 1711442119,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2206569,
+        "num": 2206569,
+        "word": "原来是地磁暴 还以为上班上的",
+        "onboard_time": 1711439478,
+        "rank": 3,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 1144219,
+        "num": 1144219,
+        "word": "胖东来新增10天不开心假",
+        "onboard_time": 1711440558,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 837717,
+        "num": 837717,
+        "word": "地磁暴 嗜睡",
+        "onboard_time": 1711428021,
+        "rank": 5,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 790193,
+        "num": 790193,
+        "word": "刘亦菲 我不要面子的吗",
+        "onboard_time": 1711441699,
+        "rank": 6,
+        "category": "艺人,幽默"
+      },
+      {
+        "raw_hot": 633693,
+        "num": 633693,
+        "word": "爸爸当家3官宣定档",
+        "onboard_time": 1711443439,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 573144,
+        "num": 573144,
+        "word": "金智媛成为烧酒代言人",
+        "onboard_time": 1711441520,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 498456,
+        "num": 548726,
+        "word": "美国一大桥被货船撞塌",
+        "onboard_time": 1711440678,
+        "rank": 9,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 544929,
+        "num": 544929,
+        "word": "爸爸当家",
+        "onboard_time": 1711443439,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 532340,
+        "num": 532340,
+        "word": "鹿晗金色长假发",
+        "onboard_time": 1711439957,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 474490,
+        "num": 474490,
+        "word": "东南大学回应发复试通知又取消",
+        "onboard_time": 1711441577,
+        "rank": 12,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 387724,
+        "num": 387724,
+        "word": "胃癌几乎都是喂出来的",
+        "onboard_time": 1711423339,
+        "rank": 13,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 94506,
+        "num": 383385,
+        "word": "多囊卵巢综合征的危害有多大",
+        "onboard_time": 1711443620,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 379881,
+        "num": 379881,
+        "word": "秦岚迪丽热巴白衣自拍",
+        "onboard_time": 1711439598,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 365692,
+        "num": 365692,
+        "word": "杜鹃花落作者已被免职",
+        "onboard_time": 1711429581,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 353882,
+        "num": 353882,
+        "word": "赵丽颖林更新不找朋友宣传剧的原因",
+        "onboard_time": 1711440919,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 337914,
+        "num": 337914,
+        "word": "地球出现3小时特大地磁暴",
+        "onboard_time": 1711424957,
+        "rank": 18,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 330443,
+        "num": 330443,
+        "word": "丽挽狂岚",
+        "onboard_time": 1711442057,
+        "rank": 19,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 790521,
+        "num": 328257,
+        "word": "武汉万科广场一女子裸奔",
+        "onboard_time": 1711441577,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 626515,
+        "num": 324045,
+        "word": "跳楼自杀女生生前多次给霸凌者转账",
+        "onboard_time": 1711426880,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 317476,
+        "num": 317476,
+        "word": "不化妆却越来越漂亮的6个原因",
+        "onboard_time": 1711441338,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 265070,
+        "num": 265070,
+        "word": "天呐 我被吴磊给摸了",
+        "onboard_time": 1711422738,
+        "rank": 23,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 264506,
+        "num": 264506,
+        "word": "黑龙江出现腮红款极光",
+        "onboard_time": 1711439058,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 263374,
+        "num": 263374,
+        "word": "第一次感受到防晒的重要性",
+        "onboard_time": 1711443620,
+        "rank": 25,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 230764,
+        "num": 230764,
+        "word": "儿子继承了他爸小时候的婴儿床",
+        "onboard_time": 1711440438,
+        "rank": 26,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 230424,
+        "num": 230424,
+        "word": "易烊千玺宣传雪豹",
+        "onboard_time": 1711442418,
+        "rank": 27,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 222566,
+        "num": 222566,
+        "word": "每天洗1次和7天洗1次头哪个更健康",
+        "onboard_time": 1711428620,
+        "rank": 28,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 201839,
+        "num": 201839,
+        "word": "建议大家在单位立有对象人设",
+        "onboard_time": 1711443919,
+        "rank": 29,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 470503,
+        "num": 201317,
+        "word": "QQ闪退",
+        "onboard_time": 1711444219,
+        "rank": 30,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 195594,
+        "num": 195594,
+        "word": "频繁洗澡或给身体埋下皮肤癌隐患",
+        "onboard_time": 1711436358,
+        "rank": 31,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 194463,
+        "num": 194463,
+        "word": "种地吧直播",
+        "onboard_time": 1711444219,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 188251,
+        "num": 188251,
+        "word": "地磁暴不背锅",
+        "onboard_time": 1711443379,
+        "rank": 33,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 181900,
+        "num": 181900,
+        "word": "小米汽车APP",
+        "onboard_time": 1711441277,
+        "rank": 34,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 177851,
+        "num": 177851,
+        "word": "同事朋友圈晒什么你会很反感",
+        "onboard_time": 1711440919,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 175144,
+        "num": 175144,
+        "word": "成都初三语文试卷被曝美化侵华日军",
+        "onboard_time": 1711430180,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 160136,
+        "num": 160136,
+        "word": "女大有自己的早八三件套",
+        "onboard_time": 1711442659,
+        "rank": 37,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 23768,
+        "num": 159756,
+        "word": "新款AirMax国内首发测评",
+        "onboard_time": 1711441818,
+        "rank": 38,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 135857,
+        "num": 159484,
+        "word": "福州一学校厕所装反欺凌报警器",
+        "onboard_time": 1711432039,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 159463,
+        "num": 159463,
+        "word": "赵雅芝 马面裙",
+        "onboard_time": 1711441397,
+        "rank": 40,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 163124,
+        "num": 158698,
+        "word": "飞书裁员",
+        "onboard_time": 1711441218,
+        "rank": 41,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 157841,
+        "num": 157841,
+        "word": "比苹果更没有果张力的水果",
+        "onboard_time": 1711441878,
+        "rank": 42,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 154741,
+        "num": 154741,
+        "word": "樱花",
+        "onboard_time": 1711443680,
+        "rank": 43,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 137677,
+        "num": 137677,
+        "word": "唐艺昕 我要告发",
+        "onboard_time": 1711438218,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 136672,
+        "num": 136672,
+        "word": "山姆同款鸡腿南京卖74元上海卖29元",
+        "onboard_time": 1711433358,
+        "rank": 45,
+        "category": "美食,社会新闻"
+      },
+      {
+        "raw_hot": 127100,
+        "num": 127100,
+        "word": "研发运动鞋服4年花近50亿",
+        "onboard_time": 1711438638,
+        "rank": 46,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 119857,
+        "num": 119857,
+        "word": "输菲律宾后周鹏砸了更衣室",
+        "onboard_time": 1711441998,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 118712,
+        "num": 119096,
+        "word": "川渝大学的课还是太超前了",
+        "onboard_time": 1711442238,
+        "rank": 48,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 92048,
+        "num": 118997,
+        "word": "中国人民绝不会忘记驻南联盟使馆被炸历史",
+        "onboard_time": 1711444339,
+        "rank": 49,
+        "category": "国内时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平同洪都拉斯总统互致贺电#"
+    }
+  }
+}
