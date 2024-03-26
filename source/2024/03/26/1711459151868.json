@@ -1,0 +1,410 @@
+{
+  "runTime": 1711459151868,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1443999,
+        "num": 1443999,
+        "word": "国足vs新加坡",
+        "onboard_time": 1711452677,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1352546,
+        "num": 1352546,
+        "word": "原来是地磁暴 还以为上班上的",
+        "onboard_time": 1711439478,
+        "rank": 1,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 130931,
+        "num": 1224240,
+        "word": "我国完成印度洋渔业资源调查",
+        "onboard_time": 1711457719,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1215076,
+        "num": 1215076,
+        "word": "为什么越来越多女性开始单身",
+        "onboard_time": 1711452078,
+        "rank": 3,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 687396,
+        "num": 687396,
+        "word": "金秀贤主动降薪出演眼泪女王",
+        "onboard_time": 1711453699,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 650498,
+        "num": 650498,
+        "word": "任敏生图",
+        "onboard_time": 1711458139,
+        "rank": 5,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 540586,
+        "num": 540586,
+        "word": "叔圈天菜和娃娃菜",
+        "onboard_time": 1711453637,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 527921,
+        "num": 527921,
+        "word": "张艺兴是个考公的好苗子",
+        "onboard_time": 1711449678,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 485331,
+        "num": 485331,
+        "word": "中使馆回应5中国公民巴基斯坦遇袭",
+        "onboard_time": 1711454419,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 266184,
+        "num": 485149,
+        "word": "外媒称5名中国公民在巴基斯坦遇袭身亡",
+        "onboard_time": 1711449198,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1288741,
+        "num": 482248,
+        "word": "女子怀孕后鼻子变大两倍",
+        "onboard_time": 1711455080,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1210253,
+        "num": 481225,
+        "word": "南宁出现大量裸奔人士系谣言",
+        "onboard_time": 1711444700,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 695879,
+        "num": 478600,
+        "word": "秋瓷炫微博谁发的",
+        "onboard_time": 1711447699,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 477926,
+        "num": 477926,
+        "word": "巴基斯坦",
+        "onboard_time": 1711451898,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 445918,
+        "num": 445918,
+        "word": "地磁暴 嗜睡",
+        "onboard_time": 1711428021,
+        "rank": 14,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 409329,
+        "num": 409329,
+        "word": "女子下班途中遭陌生男锁脖初中生相救",
+        "onboard_time": 1711446618,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 364848,
+        "num": 364848,
+        "word": "花间令 临终把男二托给男主",
+        "onboard_time": 1711454900,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 325833,
+        "num": 325833,
+        "word": "费启鸣拍的虞书欣",
+        "onboard_time": 1711451718,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 324031,
+        "num": 324031,
+        "word": "与凤行烟花宴",
+        "onboard_time": 1711457358,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 280394,
+        "num": 280394,
+        "word": "丁达尔效应下的白鹿",
+        "onboard_time": 1711456699,
+        "rank": 19,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 414024,
+        "num": 278987,
+        "word": "武汉万科广场一女子裸奔",
+        "onboard_time": 1711441577,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 329348,
+        "num": 277017,
+        "word": "女生取24颗胆结石没事盘着玩",
+        "onboard_time": 1711454538,
+        "rank": 21,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 298869,
+        "num": 274141,
+        "word": "下班后的年轻人开始搞第二事业了",
+        "onboard_time": 1711456757,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 267424,
+        "num": 273662,
+        "word": "MOKA也玩第五人格",
+        "onboard_time": 1711458260,
+        "rank": 23,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 271538,
+        "num": 271538,
+        "word": "刘洋思考人生",
+        "onboard_time": 1711456998,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 242753,
+        "num": 242753,
+        "word": "周杰伦祝林俊杰生日快乐",
+        "onboard_time": 1711452798,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 75196,
+        "num": 240072,
+        "word": "没想到vivo是真听劝啊",
+        "onboard_time": 1711455858,
+        "rank": 26,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 239463,
+        "num": 239463,
+        "word": "赵小棠和妈妈俩人炒不出一份西红柿鸡蛋",
+        "onboard_time": 1711456757,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 238017,
+        "num": 238017,
+        "word": "赵丽颖李嘉琦对手戏",
+        "onboard_time": 1711458558,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 140856,
+        "num": 223461,
+        "word": "我使馆要求巴方彻查恐袭严惩凶手",
+        "onboard_time": 1711454836,
+        "rank": 29,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 218430,
+        "num": 218430,
+        "word": "爸爸当家3官宣定档",
+        "onboard_time": 1711443439,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 202298,
+        "num": 202298,
+        "word": "飞儿乐团法院合体",
+        "onboard_time": 1711458079,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 56865,
+        "num": 193203,
+        "word": "vivo打破折叠屏轻薄记录",
+        "onboard_time": 1711458618,
+        "rank": 32,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 50256,
+        "num": 188548,
+        "word": "一句话就能让AI剪好视频",
+        "onboard_time": 1711456398,
+        "rank": 33,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 186995,
+        "num": 186995,
+        "word": "还好王一博会popping",
+        "onboard_time": 1711457418,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 184402,
+        "num": 184402,
+        "word": "魏若来受刑",
+        "onboard_time": 1711458677,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 176537,
+        "num": 176537,
+        "word": "孙颖莎休闲装参加晚宴",
+        "onboard_time": 1711458977,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 175596,
+        "num": 175596,
+        "word": "郭德纲回应让他对郭麒麟好一点",
+        "onboard_time": 1711453518,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 173720,
+        "num": 173720,
+        "word": "天水20天狂赚近14亿",
+        "onboard_time": 1711450099,
+        "rank": 38,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 166446,
+        "num": 166446,
+        "word": "警方介入女子裸体现身商场",
+        "onboard_time": 1711447578,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 166224,
+        "num": 166224,
+        "word": "武磊单刀破门",
+        "onboard_time": 1711456458,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 158011,
+        "num": 158011,
+        "word": "代号鸢",
+        "onboard_time": 1711458378,
+        "rank": 41,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 157459,
+        "num": 157459,
+        "word": "陶喆无锡 抢票",
+        "onboard_time": 1711455137,
+        "rank": 42,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 156259,
+        "num": 156259,
+        "word": "十个勤天郁金香线上开售",
+        "onboard_time": 1711443139,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 151485,
+        "num": 151485,
+        "word": "有的树一出生就是陈皮",
+        "onboard_time": 1711456578,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 150896,
+        "num": 150896,
+        "word": "生活可以苦但朋友圈不行",
+        "onboard_time": 1711458918,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 148440,
+        "num": 148440,
+        "word": "刘亦菲 我不要面子的吗",
+        "onboard_time": 1711441699,
+        "rank": 46,
+        "category": "艺人,幽默"
+      },
+      {
+        "raw_hot": 10166,
+        "num": 146919,
+        "word": "vivoXFold3发布标志折叠机已成熟",
+        "onboard_time": 1711454719,
+        "rank": 47,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 146483,
+        "num": 146483,
+        "word": "肖宇梁好瘦",
+        "onboard_time": 1711450999,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 139852,
+        "num": 139852,
+        "word": "武艺回应去爸爸当家",
+        "onboard_time": 1711454900,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平同洪都拉斯总统互致贺电#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1711383717224,
-  "endTime": 1711457165386,
+  "endTime": 1711459151868,
   "band_list": [
     {
       "raw_hot": 3922233,
@@ -115,6 +115,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 1443999,
+      "num": 1443999,
+      "word": "国足vs新加坡",
+      "onboard_time": 1711452677,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1436192,
       "num": 1327326,
       "word": "秋瓷炫喝醉被于晓光背上车",
@@ -139,14 +147,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1342121,
-      "num": 1342121,
-      "word": "国足vs新加坡",
-      "onboard_time": 1711452677,
-      "rank": 45,
-      "category": "体育"
-    },
-    {
       "raw_hot": 1241686,
       "num": 1241686,
       "word": "阮经天 我怕老婆",
@@ -161,6 +161,14 @@
       "onboard_time": 1711420458,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1215076,
+      "num": 1215076,
+      "word": "为什么越来越多女性开始单身",
+      "onboard_time": 1711452078,
+      "rank": 26,
+      "category": "情感"
     },
     {
       "raw_hot": 1184414,
@@ -411,6 +419,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 650498,
+      "num": 650498,
+      "word": "任敏生图",
+      "onboard_time": 1711458139,
+      "rank": 5,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 643477,
       "num": 643477,
       "word": "种地吧 只发江浙沪",
@@ -569,6 +585,14 @@
       "onboard_time": 1711443439,
       "rank": 10,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 540586,
+      "num": 540586,
+      "word": "叔圈天菜和娃娃菜",
+      "onboard_time": 1711453637,
+      "rank": 23,
+      "category": "剧集"
     },
     {
       "raw_hot": 540206,
@@ -795,14 +819,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 422074,
-      "num": 422074,
-      "word": "为什么越来越多女性开始单身",
-      "onboard_time": 1711452078,
-      "rank": 26,
-      "category": "情感"
-    },
-    {
       "raw_hot": 405798,
       "num": 405798,
       "word": "周杰伦祝林俊杰生日快乐",
@@ -841,14 +857,6 @@
       "onboard_time": 1711366819,
       "rank": 11,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 392589,
-      "num": 392589,
-      "word": "叔圈天菜和娃娃菜",
-      "onboard_time": 1711453637,
-      "rank": 23,
-      "category": "剧集"
     },
     {
       "raw_hot": 389457,
@@ -1011,6 +1019,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 324031,
+      "num": 324031,
+      "word": "与凤行烟花宴",
+      "onboard_time": 1711457358,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 320325,
       "num": 317476,
       "word": "不化妆却越来越漂亮的6个原因",
@@ -1073,6 +1089,14 @@
       "onboard_time": 1711378400,
       "rank": 15,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 298869,
+      "num": 274141,
+      "word": "下班后的年轻人开始搞第二事业了",
+      "onboard_time": 1711456757,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 297713,
@@ -1187,6 +1211,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 280394,
+      "num": 280394,
+      "word": "丁达尔效应下的白鹿",
+      "onboard_time": 1711456699,
+      "rank": 31,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 278678,
       "num": 278678,
       "word": "朴灿烈在线",
@@ -1211,6 +1243,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 271538,
+      "num": 271538,
+      "word": "刘洋思考人生",
+      "onboard_time": 1711456998,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 268699,
       "num": 268699,
       "word": "武磊单刀破门",
@@ -1225,6 +1265,14 @@
       "onboard_time": 1711414100,
       "rank": 26,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 267424,
+      "num": 273662,
+      "word": "MOKA也玩第五人格",
+      "onboard_time": 1711458260,
+      "rank": 23,
+      "category": "游戏"
     },
     {
       "raw_hot": 266909,
@@ -1361,6 +1409,22 @@
       "onboard_time": 1711420038,
       "rank": 22,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 239463,
+      "num": 239463,
+      "word": "赵小棠和妈妈俩人炒不出一份西红柿鸡蛋",
+      "onboard_time": 1711456757,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 238017,
+      "num": 238017,
+      "word": "赵丽颖李嘉琦对手戏",
+      "onboard_time": 1711458558,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 237898,
@@ -1531,14 +1595,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 206093,
-      "num": 206093,
-      "word": "丁达尔效应下的白鹿",
-      "onboard_time": 1711456699,
-      "rank": 31,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 205239,
       "num": 205239,
       "word": "众筹给猴崽换新衣服",
@@ -1576,6 +1632,14 @@
       "word": "黄仁俊变化",
       "onboard_time": 1711432458,
       "rank": 25,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 202298,
+      "num": 202298,
+      "word": "飞儿乐团法院合体",
+      "onboard_time": 1711458079,
+      "rank": 31,
       "category": "艺人"
     },
     {
@@ -1731,6 +1795,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 186995,
+      "num": 186995,
+      "word": "还好王一博会popping",
+      "onboard_time": 1711457418,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 186424,
       "num": 186424,
       "word": "中国人民绝不会忘记驻南联盟使馆被炸历史",
@@ -1761,6 +1833,14 @@
       "onboard_time": 1711369520,
       "rank": 27,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 184402,
+      "num": 184402,
+      "word": "魏若来受刑",
+      "onboard_time": 1711458677,
+      "rank": 35,
+      "category": "剧集"
     },
     {
       "raw_hot": 184329,
@@ -1795,14 +1875,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 179747,
-      "num": 179747,
-      "word": "刘洋思考人生",
-      "onboard_time": 1711456998,
-      "rank": 38,
-      "category": "体育"
-    },
-    {
       "raw_hot": 177619,
       "num": 177619,
       "word": "陈楚生上海抢票",
@@ -1835,12 +1907,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 176521,
-      "num": 176521,
-      "word": "赵小棠和妈妈俩人炒不出一份西红柿鸡蛋",
-      "onboard_time": 1711456757,
-      "rank": 39,
-      "category": "综艺"
+      "raw_hot": 176537,
+      "num": 176537,
+      "word": "孙颖莎休闲装参加晚宴",
+      "onboard_time": 1711458977,
+      "rank": 36,
+      "category": "体育"
     },
     {
       "raw_hot": 176475,
@@ -1897,14 +1969,6 @@
       "onboard_time": 1711428620,
       "rank": 37,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 172010,
-      "num": 172010,
-      "word": "下班后的年轻人开始搞第二事业了",
-      "onboard_time": 1711456757,
-      "rank": 41,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 171430,
@@ -2123,6 +2187,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 158011,
+      "num": 158011,
+      "word": "代号鸢",
+      "onboard_time": 1711458378,
+      "rank": 41,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 155838,
       "num": 155838,
       "word": "黄仁俊泡泡",
@@ -2193,6 +2265,14 @@
       "onboard_time": 1711420218,
       "rank": 45,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 150896,
+      "num": 150896,
+      "word": "生活可以苦但朋友圈不行",
+      "onboard_time": 1711458918,
+      "rank": 45,
+      "category": "情感"
     },
     {
       "raw_hot": 150158,
@@ -2473,6 +2553,14 @@
       "onboard_time": 1711450819,
       "rank": 40,
       "category": "教育"
+    },
+    {
+      "raw_hot": 130931,
+      "num": 1224240,
+      "word": "我国完成印度洋渔业资源调查",
+      "onboard_time": 1711457719,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 128967,
@@ -2835,8 +2923,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 74151,
-      "num": 219193,
+      "raw_hot": 75196,
+      "num": 240072,
       "word": "没想到vivo是真听劝啊",
       "onboard_time": 1711455858,
       "rank": 29,
@@ -2915,6 +3003,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 56865,
+      "num": 193203,
+      "word": "vivo打破折叠屏轻薄记录",
+      "onboard_time": 1711458618,
+      "rank": 32,
+      "category": "数码"
+    },
+    {
       "raw_hot": 54346,
       "num": 54346,
       "word": "终于有剧吐槽嘴对嘴喂药了",
@@ -2924,7 +3020,7 @@
     },
     {
       "raw_hot": 52825,
-      "num": 187173,
+      "num": 188548,
       "word": "一句话就能让AI剪好视频",
       "onboard_time": 1711456398,
       "rank": 35,
