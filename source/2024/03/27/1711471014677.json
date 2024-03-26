@@ -1,0 +1,410 @@
+{
+  "runTime": 1711471014677,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 943322,
+        "num": 943322,
+        "word": "29岁了爸爸还在意我快不快乐",
+        "onboard_time": 1711464979,
+        "rank": 0,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 757626,
+        "num": 757626,
+        "word": "原来是地磁暴 还以为上班上的",
+        "onboard_time": 1711439478,
+        "rank": 1,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 37325,
+        "num": 651706,
+        "word": "我国完成印度洋渔业资源调查",
+        "onboard_time": 1711457719,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 635599,
+        "num": 635599,
+        "word": "长期处于压力下身体会怎样",
+        "onboard_time": 1711467378,
+        "rank": 3,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 560126,
+        "num": 560126,
+        "word": "AI还原武则天",
+        "onboard_time": 1711464320,
+        "rank": 4,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 395655,
+        "num": 395655,
+        "word": "金赛纶发金秀贤合影是为了炫耀",
+        "onboard_time": 1711463359,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 395591,
+        "num": 395591,
+        "word": "林允为闭口第一次刷酸",
+        "onboard_time": 1711459759,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 391520,
+        "num": 391520,
+        "word": "下班后的年轻人开始搞第二事业了",
+        "onboard_time": 1711456757,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 254798,
+        "num": 348946,
+        "word": "国足4比1新加坡",
+        "onboard_time": 1711461861,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 53987,
+        "num": 328906,
+        "word": "国足终于赢了",
+        "onboard_time": 1711465039,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 684648,
+        "num": 325869,
+        "word": "南宁出现大量裸奔人士系谣言",
+        "onboard_time": 1711444700,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 321481,
+        "num": 321481,
+        "word": "张元英转圈",
+        "onboard_time": 1711463839,
+        "rank": 11,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 305662,
+        "num": 305662,
+        "word": "女子怀孕后鼻子变大两倍",
+        "onboard_time": 1711455080,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 268829,
+        "num": 268829,
+        "word": "任敏生图",
+        "onboard_time": 1711458139,
+        "rank": 13,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 259759,
+        "num": 259759,
+        "word": "李冰冰周也双生花封面",
+        "onboard_time": 1711468578,
+        "rank": 14,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 248299,
+        "num": 248299,
+        "word": "地磁暴 嗜睡",
+        "onboard_time": 1711428021,
+        "rank": 15,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 245047,
+        "num": 245047,
+        "word": "iPhone16功能键或变大",
+        "onboard_time": 1711461502,
+        "rank": 16,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 243360,
+        "num": 243360,
+        "word": "论穿搭对一个人的影响有多大",
+        "onboard_time": 1711463839,
+        "rank": 17,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 228920,
+        "num": 228920,
+        "word": "王一博翻牌评论",
+        "onboard_time": 1711465760,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 117302,
+        "num": 211119,
+        "word": "泰国vs韩国",
+        "onboard_time": 1711462280,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 339689,
+        "num": 210732,
+        "word": "警方介入女子裸体现身商场",
+        "onboard_time": 1711447578,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 206925,
+        "num": 206925,
+        "word": "芒果你超爱",
+        "onboard_time": 1711466300,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 202808,
+        "num": 202808,
+        "word": "赵丽颖李嘉琦对手戏",
+        "onboard_time": 1711458558,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 178723,
+        "num": 178723,
+        "word": "秋瓷炫微博谁发的",
+        "onboard_time": 1711447699,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 139884,
+        "num": 139884,
+        "word": "周也头巾",
+        "onboard_time": 1711464081,
+        "rank": 24,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 137331,
+        "num": 137331,
+        "word": "女生取24颗胆结石没事盘着玩",
+        "onboard_time": 1711454538,
+        "rank": 25,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 133826,
+        "num": 133826,
+        "word": "王一博 转型",
+        "onboard_time": 1711459520,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 161327,
+        "num": 133425,
+        "word": "丁子峻转发赵丽颖沈璃",
+        "onboard_time": 1711468097,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 142752,
+        "num": 131945,
+        "word": "外媒称5名中国公民在巴基斯坦遇袭身亡",
+        "onboard_time": 1711449198,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 116973,
+        "num": 125887,
+        "word": "国足赢泰国就能提前出线",
+        "onboard_time": 1711466779,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 121431,
+        "num": 121431,
+        "word": "行止情绪失控",
+        "onboard_time": 1711466659,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 119068,
+        "num": 119068,
+        "word": "叔圈天菜和娃娃菜",
+        "onboard_time": 1711453637,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 118726,
+        "num": 118726,
+        "word": "NewJeans回归计划",
+        "onboard_time": 1711470676,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 100925,
+        "num": 100925,
+        "word": "大家不要老是幻想自己死了",
+        "onboard_time": 1711462639,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 96813,
+        "num": 96813,
+        "word": "白鹿张鑫自拍",
+        "onboard_time": 1711465520,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 96011,
+        "num": 96011,
+        "word": "孙颖莎休闲装参加晚宴",
+        "onboard_time": 1711458977,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 94898,
+        "num": 94898,
+        "word": "李沁翡翠绿拖地礼服裙",
+        "onboard_time": 1711464619,
+        "rank": 36,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 93795,
+        "num": 93795,
+        "word": "肖宇梁喻言同框",
+        "onboard_time": 1711469238,
+        "rank": 37,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 92857,
+        "num": 92857,
+        "word": "iPhone16Pro保护壳曝光",
+        "onboard_time": 1711464500,
+        "rank": 38,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 90151,
+        "num": 90151,
+        "word": "女子下班途中遭陌生男锁脖初中生相救",
+        "onboard_time": 1711446618,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 90278,
+        "num": 89871,
+        "word": "花间令 临终把男二托给男主",
+        "onboard_time": 1711454900,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 89439,
+        "num": 89439,
+        "word": "武汉万科广场一女子裸奔",
+        "onboard_time": 1711441577,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 84926,
+        "num": 84926,
+        "word": "金秀贤主动降薪出演眼泪女王",
+        "onboard_time": 1711453699,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 78958,
+        "num": 78958,
+        "word": "以为是休息其实在耗气血的行为",
+        "onboard_time": 1711463660,
+        "rank": 43,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 76047,
+        "num": 76047,
+        "word": "丁达尔效应下的白鹿",
+        "onboard_time": 1711456699,
+        "rank": 44,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 75701,
+        "num": 75701,
+        "word": "我的保洁阿姨在北京买了套房",
+        "onboard_time": 1711462219,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 73082,
+        "num": 73082,
+        "word": "武磊 一哥",
+        "onboard_time": 1711464018,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 64856,
+        "num": 64856,
+        "word": "江俊霖 体面",
+        "onboard_time": 1711467618,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 63551,
+        "num": 63551,
+        "word": "国足主场大屏幕有梅西",
+        "onboard_time": 1711462580,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 22500,
+        "num": 62247,
+        "word": "玉龙雪山上空现绝美七彩祥云",
+        "onboard_time": 1711470975,
+        "rank": 49,
+        "category": "旅游"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平同洪都拉斯总统互致贺电#"
+    }
+  }
+}
