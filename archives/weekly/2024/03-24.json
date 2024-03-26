@@ -1,6 +1,6 @@
 {
   "startTime": 1711210803824,
-  "endTime": 1711437355923,
+  "endTime": 1711438440065,
   "band_list": [
     {
       "raw_hot": 3922233,
@@ -795,6 +795,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 835458,
+      "num": 835458,
+      "word": "山姆同款鸡腿南京卖74元上海卖29元",
+      "onboard_time": 1711433358,
+      "rank": 23,
+      "category": "美食,社会新闻"
+    },
+    {
       "raw_hot": 828870,
       "num": 435254,
       "word": "王俊凯爸妈的奶茶店引发粉丝凌晨排队",
@@ -857,14 +865,6 @@
       "onboard_time": 1711322596,
       "rank": 25,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 801692,
-      "num": 801692,
-      "word": "山姆同款鸡腿南京卖74元上海卖29元",
-      "onboard_time": 1711433358,
-      "rank": 23,
-      "category": "美食,社会新闻"
     },
     {
       "raw_hot": 787458,
@@ -993,6 +993,14 @@
       "onboard_time": 1711342760,
       "rank": 14,
       "category": "互联网,科学科普"
+    },
+    {
+      "raw_hot": 760877,
+      "num": 760877,
+      "word": "地球出现3小时特大地磁暴",
+      "onboard_time": 1711424957,
+      "rank": 29,
+      "category": "科学科普"
     },
     {
       "raw_hot": 758618,
@@ -1169,14 +1177,6 @@
       "onboard_time": 1711330159,
       "rank": 38,
       "category": "财经"
-    },
-    {
-      "raw_hot": 683769,
-      "num": 683769,
-      "word": "地球出现3小时特大地磁暴",
-      "onboard_time": 1711424957,
-      "rank": 29,
-      "category": "科学科普"
     },
     {
       "raw_hot": 683123,
@@ -1907,6 +1907,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 474900,
+      "num": 474900,
+      "word": "频繁洗澡或给身体埋下皮肤癌隐患",
+      "onboard_time": 1711436358,
+      "rank": 16,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 474394,
       "num": 474394,
       "word": "追风者破2了",
@@ -2163,6 +2171,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 422334,
+      "num": 422334,
+      "word": "张颂文的烂菜叶传闻",
+      "onboard_time": 1711435218,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 421391,
       "num": 421391,
       "word": "特鲁姆普10比4丁俊晖",
@@ -2339,6 +2355,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 388325,
+      "num": 388325,
+      "word": "爬山9小时后的宋江",
+      "onboard_time": 1711434258,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 387274,
       "num": 342523,
       "word": "被辞退的实习生在大群发的消息",
@@ -2385,14 +2409,6 @@
       "onboard_time": 1711241059,
       "rank": 30,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 378976,
-      "num": 378976,
-      "word": "爬山9小时后的宋江",
-      "onboard_time": 1711434258,
-      "rank": 24,
-      "category": "艺人"
     },
     {
       "raw_hot": 378574,
@@ -2707,14 +2723,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 334557,
-      "num": 334557,
-      "word": "张颂文的烂菜叶传闻",
-      "onboard_time": 1711435218,
-      "rank": 13,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 332920,
       "num": 279529,
       "word": "人体中最不怕冷的器官是哪个",
@@ -2763,14 +2771,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 324084,
-      "num": 324084,
-      "word": "频繁洗澡或给身体埋下皮肤癌隐患",
-      "onboard_time": 1711436358,
-      "rank": 16,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 322737,
       "num": 322737,
       "word": "沈璃被扇",
@@ -2801,6 +2801,14 @@
       "onboard_time": 1711425080,
       "rank": 21,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 312265,
+      "num": 312265,
+      "word": "媒体评价王一博演技",
+      "onboard_time": 1711437979,
+      "rank": 12,
+      "category": "剧集"
     },
     {
       "raw_hot": 307358,
@@ -3105,6 +3113,14 @@
       "onboard_time": 1711378759,
       "rank": 23,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 278678,
+      "num": 278678,
+      "word": "朴灿烈在线",
+      "onboard_time": 1711437077,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 278670,
@@ -3905,6 +3921,14 @@
       "onboard_time": 1711371980,
       "rank": 30,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 222116,
+      "num": 222116,
+      "word": "王珞丹全素颜出镜",
+      "onboard_time": 1711437619,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 221944,
@@ -4883,6 +4907,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 182436,
+      "num": 182436,
+      "word": "唐艺昕 我要告发",
+      "onboard_time": 1711438218,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 181510,
       "num": 181510,
       "word": "十个勤天",
@@ -4905,14 +4937,6 @@
       "onboard_time": 1711268779,
       "rank": 34,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 179859,
-      "num": 179859,
-      "word": "朴灿烈在线",
-      "onboard_time": 1711437077,
-      "rank": 33,
-      "category": "艺人"
     },
     {
       "raw_hot": 179828,
@@ -5275,6 +5299,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 167166,
+      "num": 167166,
+      "word": "给P人一点J人的旅游震撼",
+      "onboard_time": 1711437258,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 166647,
       "num": 166647,
       "word": "安溥抢票",
@@ -5497,6 +5529,14 @@
       "onboard_time": 1711351999,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 159230,
+      "num": 159230,
+      "word": "张馨予晒乡村咖啡店",
+      "onboard_time": 1711437498,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 158818,
@@ -6235,6 +6275,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 136905,
+      "num": 136905,
+      "word": "赵一博 第99个盒子发生一件大事",
+      "onboard_time": 1711437140,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 136827,
       "num": 136827,
       "word": "巴菲特持股可口可乐35年豪赚2200亿",
@@ -6449,14 +6497,6 @@
       "onboard_time": 1711276159,
       "rank": 44,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 127231,
-      "num": 127231,
-      "word": "赵一博 第99个盒子发生一件大事",
-      "onboard_time": 1711437140,
-      "rank": 41,
-      "category": "综艺"
     },
     {
       "raw_hot": 127142,
@@ -6691,6 +6731,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 116419,
+      "num": 116419,
+      "word": "小米集团涨超3%",
+      "onboard_time": 1711437558,
+      "rank": 41,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 115662,
       "num": 115662,
       "word": "夏之光费加罗庄周梦蝶封面",
@@ -6761,14 +6809,6 @@
       "onboard_time": 1711247599,
       "rank": 48,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 111821,
-      "num": 111821,
-      "word": "给P人一点J人的旅游震撼",
-      "onboard_time": 1711437258,
-      "rank": 48,
-      "category": "幽默"
     },
     {
       "raw_hot": 111388,
@@ -6915,6 +6955,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 100315,
+      "num": 100315,
+      "word": "WTT中国大满贯十月北京举行",
+      "onboard_time": 1711435038,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 95280,
       "num": 95280,
       "word": "ILLIT 好听",
@@ -6929,6 +6977,14 @@
       "onboard_time": 1711282880,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 83921,
+      "num": 334105,
+      "word": "科学控糖快乐健康两不误",
+      "onboard_time": 1711436419,
+      "rank": 14,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 83798,
@@ -7273,14 +7329,6 @@
       "onboard_time": 1711413320,
       "rank": 36,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 34342,
-      "num": 334105,
-      "word": "科学控糖快乐健康两不误",
-      "onboard_time": 1711436419,
-      "rank": 14,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 33945,

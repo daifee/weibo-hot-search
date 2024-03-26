@@ -1,6 +1,6 @@
 {
   "startTime": 1711383717224,
-  "endTime": 1711437355923,
+  "endTime": 1711438440065,
   "band_list": [
     {
       "raw_hot": 3922233,
@@ -155,20 +155,20 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 835458,
+      "num": 835458,
+      "word": "山姆同款鸡腿南京卖74元上海卖29元",
+      "onboard_time": 1711433358,
+      "rank": 23,
+      "category": "美食,社会新闻"
+    },
+    {
       "raw_hot": 815578,
       "num": 815578,
       "word": "地磁暴",
       "onboard_time": 1711417276,
       "rank": 5,
       "category": "科学科普"
-    },
-    {
-      "raw_hot": 801692,
-      "num": 801692,
-      "word": "山姆同款鸡腿南京卖74元上海卖29元",
-      "onboard_time": 1711433358,
-      "rank": 23,
-      "category": "美食,社会新闻"
     },
     {
       "raw_hot": 787458,
@@ -211,6 +211,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 760877,
+      "num": 760877,
+      "word": "地球出现3小时特大地磁暴",
+      "onboard_time": 1711424957,
+      "rank": 29,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 758118,
       "num": 758118,
       "word": "天水麻辣烫老板回应锅煮烂了",
@@ -233,14 +241,6 @@
       "onboard_time": 1711423818,
       "rank": 14,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 683769,
-      "num": 683769,
-      "word": "地球出现3小时特大地磁暴",
-      "onboard_time": 1711424957,
-      "rank": 29,
-      "category": "科学科普"
     },
     {
       "raw_hot": 683052,
@@ -435,6 +435,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 474900,
+      "num": 474900,
+      "word": "频繁洗澡或给身体埋下皮肤癌隐患",
+      "onboard_time": 1711436358,
+      "rank": 16,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 471423,
       "num": 471423,
       "word": "奔跑吧南宁录制",
@@ -515,6 +523,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 422334,
+      "num": 422334,
+      "word": "张颂文的烂菜叶传闻",
+      "onboard_time": 1711435218,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 405663,
       "num": 405663,
       "word": "李耕耘 清风纸巾",
@@ -547,20 +563,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 388325,
+      "num": 388325,
+      "word": "爬山9小时后的宋江",
+      "onboard_time": 1711434258,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 380813,
       "num": 282235,
       "word": "喝豆乳米麻薯是一件很私密的事",
       "onboard_time": 1711415899,
       "rank": 20,
       "category": "情感"
-    },
-    {
-      "raw_hot": 378976,
-      "num": 378976,
-      "word": "爬山9小时后的宋江",
-      "onboard_time": 1711434258,
-      "rank": 24,
-      "category": "艺人"
     },
     {
       "raw_hot": 378264,
@@ -651,28 +667,20 @@
       "category": "情感"
     },
     {
-      "raw_hot": 334557,
-      "num": 334557,
-      "word": "张颂文的烂菜叶传闻",
-      "onboard_time": 1711435218,
-      "rank": 13,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 324084,
-      "num": 324084,
-      "word": "频繁洗澡或给身体埋下皮肤癌隐患",
-      "onboard_time": 1711436358,
-      "rank": 16,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 315073,
       "num": 315073,
       "word": "当我跟老公说孕反太难受想辞职",
       "onboard_time": 1711425080,
       "rank": 21,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 312265,
+      "num": 312265,
+      "word": "媒体评价王一博演技",
+      "onboard_time": 1711437979,
+      "rank": 12,
+      "category": "剧集"
     },
     {
       "raw_hot": 302127,
@@ -785,6 +793,14 @@
       "onboard_time": 1711372098,
       "rank": 18,
       "category": "美食"
+    },
+    {
+      "raw_hot": 278678,
+      "num": 278678,
+      "word": "朴灿烈在线",
+      "onboard_time": 1711437077,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 273043,
@@ -937,6 +953,14 @@
       "onboard_time": 1711434919,
       "rank": 33,
       "category": "电影"
+    },
+    {
+      "raw_hot": 222116,
+      "num": 222116,
+      "word": "王珞丹全素颜出镜",
+      "onboard_time": 1711437619,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 215379,
@@ -1131,20 +1155,20 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 182436,
+      "num": 182436,
+      "word": "唐艺昕 我要告发",
+      "onboard_time": 1711438218,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 181510,
       "num": 181510,
       "word": "十个勤天",
       "onboard_time": 1711409176,
       "rank": 19,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 179859,
-      "num": 179859,
-      "word": "朴灿烈在线",
-      "onboard_time": 1711437077,
-      "rank": 33,
-      "category": "艺人"
     },
     {
       "raw_hot": 177619,
@@ -1283,6 +1307,14 @@
       "category": "体育,作品衍生"
     },
     {
+      "raw_hot": 167166,
+      "num": 167166,
+      "word": "给P人一点J人的旅游震撼",
+      "onboard_time": 1711437258,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 161678,
       "num": 161678,
       "word": "宫崎骏新片和失去的事物告别",
@@ -1297,6 +1329,14 @@
       "onboard_time": 1711383257,
       "rank": 36,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 159230,
+      "num": 159230,
+      "word": "张馨予晒乡村咖啡店",
+      "onboard_time": 1711437498,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 155838,
@@ -1329,6 +1369,14 @@
       "onboard_time": 1711425738,
       "rank": 42,
       "category": "体育"
+    },
+    {
+      "raw_hot": 152224,
+      "num": 152224,
+      "word": "170元5串的烧烤值不值",
+      "onboard_time": 1711435399,
+      "rank": 38,
+      "category": "美食"
     },
     {
       "raw_hot": 152076,
@@ -1459,12 +1507,12 @@
       "category": "教育"
     },
     {
-      "raw_hot": 134973,
-      "num": 134973,
-      "word": "170元5串的烧烤值不值",
-      "onboard_time": 1711435399,
-      "rank": 38,
-      "category": "美食"
+      "raw_hot": 136905,
+      "num": 136905,
+      "word": "赵一博 第99个盒子发生一件大事",
+      "onboard_time": 1711437140,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 134518,
@@ -1505,14 +1553,6 @@
       "onboard_time": 1711376841,
       "rank": 31,
       "category": "教育"
-    },
-    {
-      "raw_hot": 127231,
-      "num": 127231,
-      "word": "赵一博 第99个盒子发生一件大事",
-      "onboard_time": 1711437140,
-      "rank": 41,
-      "category": "综艺"
     },
     {
       "raw_hot": 126811,
@@ -1603,6 +1643,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 116419,
+      "num": 116419,
+      "word": "小米集团涨超3%",
+      "onboard_time": 1711437558,
+      "rank": 41,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 114619,
       "num": 114619,
       "word": "摩羯座寡淡的原因",
@@ -1625,14 +1673,6 @@
       "onboard_time": 1711418597,
       "rank": 48,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 111821,
-      "num": 111821,
-      "word": "给P人一点J人的旅游震撼",
-      "onboard_time": 1711437258,
-      "rank": 48,
-      "category": "幽默"
     },
     {
       "raw_hot": 111388,
@@ -1691,6 +1731,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 100315,
+      "num": 100315,
+      "word": "WTT中国大满贯十月北京举行",
+      "onboard_time": 1711435038,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 96394,
       "num": 96394,
       "word": "与凤行预告",
@@ -1737,6 +1785,14 @@
       "onboard_time": 1711377681,
       "rank": 43,
       "category": "演出"
+    },
+    {
+      "raw_hot": 83921,
+      "num": 334105,
+      "word": "科学控糖快乐健康两不误",
+      "onboard_time": 1711436419,
+      "rank": 14,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 83798,
@@ -1929,14 +1985,6 @@
       "onboard_time": 1711413320,
       "rank": 36,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 34342,
-      "num": 334105,
-      "word": "科学控糖快乐健康两不误",
-      "onboard_time": 1711436419,
-      "rank": 14,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 33865,
