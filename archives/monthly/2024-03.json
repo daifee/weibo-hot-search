@@ -1,6 +1,6 @@
 {
   "startTime": 1709223640991,
-  "endTime": 1711426868660,
+  "endTime": 1711427641071,
   "band_list": [
     {
       "raw_hot": 12728050,
@@ -1601,6 +1601,14 @@
       "onboard_time": 1710333872,
       "rank": 44,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1805668,
+      "num": 1805668,
+      "word": "男朋友用我的照片挂数据线",
+      "onboard_time": 1711424658,
+      "rank": 11,
+      "category": "幽默"
     },
     {
       "raw_hot": 1801958,
@@ -3297,14 +3305,6 @@
       "onboard_time": 1710902011,
       "rank": 45,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 1348147,
-      "num": 534286,
-      "word": "男朋友用我的照片挂数据线",
-      "onboard_time": 1711424658,
-      "rank": 11,
-      "category": "幽默"
     },
     {
       "raw_hot": 1347164,
@@ -8491,6 +8491,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 801597,
+      "num": 801597,
+      "word": "跳楼自杀女生生前多次给霸凌者转账",
+      "onboard_time": 1711426880,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 799981,
       "num": 799981,
       "word": "大叔坐火车一整天只吃一根萝卜",
@@ -9339,6 +9347,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 758118,
+      "num": 758118,
+      "word": "天水麻辣烫老板回应锅煮烂了",
+      "onboard_time": 1711424179,
+      "rank": 5,
+      "category": "美食"
+    },
+    {
       "raw_hot": 757966,
       "num": 757966,
       "word": "张予曦王子奇演夫妻",
@@ -9545,6 +9561,14 @@
       "onboard_time": 1709809531,
       "rank": 33,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 744240,
+      "num": 744240,
+      "word": "步步倾心定档",
+      "onboard_time": 1711423818,
+      "rank": 14,
+      "category": "剧集"
     },
     {
       "raw_hot": 743884,
@@ -9915,14 +9939,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 730644,
-      "num": 730644,
-      "word": "步步倾心定档",
-      "onboard_time": 1711423818,
-      "rank": 14,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 730255,
       "num": 654148,
       "word": "没钱买房租房的英国人开始分手不分房",
@@ -9937,14 +9953,6 @@
       "onboard_time": 1711024038,
       "rank": 24,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 729237,
-      "num": 729237,
-      "word": "天水麻辣烫老板回应锅煮烂了",
-      "onboard_time": 1711424179,
-      "rank": 5,
-      "category": "美食"
     },
     {
       "raw_hot": 729147,
@@ -11769,6 +11777,14 @@
       "onboard_time": 1710677973,
       "rank": 25,
       "category": "体育"
+    },
+    {
+      "raw_hot": 651668,
+      "num": 501642,
+      "word": "Angelababy背部身材",
+      "onboard_time": 1711423158,
+      "rank": 21,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 651252,
@@ -15227,6 +15243,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 540206,
+      "num": 510462,
+      "word": "天呐 我被吴磊给摸了",
+      "onboard_time": 1711422738,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 539540,
       "num": 539540,
       "word": "提了离职后更焦虑了",
@@ -16339,14 +16363,6 @@
       "category": "社会负面"
     },
     {
-      "raw_hot": 510102,
-      "num": 507294,
-      "word": "天呐 我被吴磊给摸了",
-      "onboard_time": 1711422738,
-      "rank": 34,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 509945,
       "num": 509945,
       "word": "杨和苏鼻梁",
@@ -16689,14 +16705,6 @@
       "onboard_time": 1710479737,
       "rank": 45,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 501642,
-      "num": 501642,
-      "word": "Angelababy背部身材",
-      "onboard_time": 1711423158,
-      "rank": 21,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 501632,
@@ -23275,6 +23283,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 366859,
+      "num": 366859,
+      "word": "十个勤天回应郁金香只发江浙沪",
+      "onboard_time": 1711426280,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 366820,
       "num": 366820,
       "word": "梅菜扣肉原料竟是劣质槽头肉",
@@ -25313,6 +25329,14 @@
       "onboard_time": 1710043950,
       "rank": 32,
       "category": "美食"
+    },
+    {
+      "raw_hot": 333765,
+      "num": 333765,
+      "word": "地磁暴1次要背多少锅",
+      "onboard_time": 1711425319,
+      "rank": 24,
+      "category": "科学科普"
     },
     {
       "raw_hot": 333627,
@@ -28707,14 +28731,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 290121,
-      "num": 290121,
-      "word": "地磁暴1次要背多少锅",
-      "onboard_time": 1711425319,
-      "rank": 24,
-      "category": "科学科普"
-    },
-    {
       "raw_hot": 289984,
       "num": 289984,
       "word": "甜茶不甜了",
@@ -32067,14 +32083,6 @@
       "category": "运动健身"
     },
     {
-      "raw_hot": 255228,
-      "num": 218012,
-      "word": "十个勤天回应郁金香只发江浙沪",
-      "onboard_time": 1711426280,
-      "rank": 30,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 255102,
       "num": 255102,
       "word": "向佐此一时鼻一时",
@@ -34283,6 +34291,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 237898,
+      "num": 237898,
+      "word": "鸳鸯锅在韩国的用处",
+      "onboard_time": 1711424179,
+      "rank": 31,
+      "category": "美食"
+    },
+    {
       "raw_hot": 237794,
       "num": 237794,
       "word": "神木警方通报8名未成年人殴打2人",
@@ -35184,6 +35200,14 @@
       "word": "送你房子能把你送成倾家荡产",
       "onboard_time": 1709629594,
       "rank": 36,
+      "category": "科学科普"
+    },
+    {
+      "raw_hot": 231063,
+      "num": 231063,
+      "word": "地球出现3小时特大地磁暴",
+      "onboard_time": 1711424957,
+      "rank": 29,
       "category": "科学科普"
     },
     {
@@ -36521,14 +36545,6 @@
       "onboard_time": 1710584254,
       "rank": 32,
       "category": "美食"
-    },
-    {
-      "raw_hot": 222906,
-      "num": 222906,
-      "word": "地球出现3小时特大地磁暴",
-      "onboard_time": 1711424957,
-      "rank": 29,
-      "category": "科学科普"
     },
     {
       "raw_hot": 222903,
@@ -38481,14 +38497,6 @@
       "onboard_time": 1710226411,
       "rank": 27,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 213074,
-      "num": 213074,
-      "word": "鸳鸯锅在韩国的用处",
-      "onboard_time": 1711424179,
-      "rank": 31,
-      "category": "美食"
     },
     {
       "raw_hot": 212910,
@@ -41707,6 +41715,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 199457,
+      "num": 199457,
+      "word": "Fate Challenge",
+      "onboard_time": 1711426939,
+      "rank": 32,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 199448,
       "num": 199448,
       "word": "全智贤新证件照",
@@ -44497,6 +44513,14 @@
       "onboard_time": 1709537073,
       "rank": 30,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 189984,
+      "num": 189984,
+      "word": "白鹿画了gidle的新歌",
+      "onboard_time": 1711427600,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 189982,
@@ -49555,6 +49579,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 169813,
+      "num": 169813,
+      "word": "双高父母偏信遗传基因17岁儿子身高仅163",
+      "onboard_time": 1711427300,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 169786,
       "num": 169786,
       "word": "熊猫小时候也喜欢边玩边吃",
@@ -49849,6 +49881,14 @@
       "onboard_time": 1709786375,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 168571,
+      "num": 168571,
+      "word": "飞书宣布精简规模",
+      "onboard_time": 1711427120,
+      "rank": 37,
+      "category": "互联网"
     },
     {
       "raw_hot": 168458,
@@ -53705,6 +53745,14 @@
       "onboard_time": 1711098618,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 155297,
+      "num": 155297,
+      "word": "原生家庭习以为常的卫生习惯",
+      "onboard_time": 1711426760,
+      "rank": 48,
+      "category": "情感"
     },
     {
       "raw_hot": 155266,
@@ -59568,14 +59616,6 @@
       "word": "她提要求我很开心",
       "onboard_time": 1709958450,
       "rank": 41,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 135005,
-      "num": 135005,
-      "word": "原生家庭习以为常的卫生习惯",
-      "onboard_time": 1711426760,
-      "rank": 48,
       "category": "情感"
     },
     {
@@ -69019,6 +69059,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 67397,
+      "num": 1332950,
+      "word": "与春日繁花来场浪漫邂逅",
+      "onboard_time": 1711422618,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 67385,
       "num": 65686,
       "word": "出差时公司给定的儿童房",
@@ -69689,14 +69737,6 @@
       "onboard_time": 1709422161,
       "rank": 40,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 56659,
-      "num": 1332950,
-      "word": "与春日繁花来场浪漫邂逅",
-      "onboard_time": 1711422618,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 56609,
@@ -70625,6 +70665,14 @@
       "onboard_time": 1710027083,
       "rank": 42,
       "category": "体育"
+    },
+    {
+      "raw_hot": 42137,
+      "num": 148457,
+      "word": "一双鞋解锁赛博运动风",
+      "onboard_time": 1711427540,
+      "rank": 49,
+      "category": "时尚"
     },
     {
       "raw_hot": 42035,

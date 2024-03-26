@@ -1,6 +1,6 @@
 {
   "startTime": 1711383717224,
-  "endTime": 1711426868660,
+  "endTime": 1711427641071,
   "band_list": [
     {
       "raw_hot": 2477774,
@@ -9,6 +9,14 @@
       "onboard_time": 1711419376,
       "rank": 3,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1805668,
+      "num": 1805668,
+      "word": "男朋友用我的照片挂数据线",
+      "onboard_time": 1711424658,
+      "rank": 11,
+      "category": "幽默"
     },
     {
       "raw_hot": 1745267,
@@ -57,14 +65,6 @@
       "onboard_time": 1711419677,
       "rank": 24,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1348147,
-      "num": 534286,
-      "word": "男朋友用我的照片挂数据线",
-      "onboard_time": 1711424658,
-      "rank": 11,
-      "category": "幽默"
     },
     {
       "raw_hot": 1241686,
@@ -131,6 +131,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 801597,
+      "num": 801597,
+      "word": "跳楼自杀女生生前多次给霸凌者转账",
+      "onboard_time": 1711426880,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 787458,
       "num": 787458,
       "word": "垫底辣妹将翻拍中国版",
@@ -155,20 +163,20 @@
       "category": "互联网,网红"
     },
     {
-      "raw_hot": 730644,
-      "num": 730644,
-      "word": "步步倾心定档",
-      "onboard_time": 1711423818,
-      "rank": 14,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 729237,
-      "num": 729237,
+      "raw_hot": 758118,
+      "num": 758118,
       "word": "天水麻辣烫老板回应锅煮烂了",
       "onboard_time": 1711424179,
       "rank": 5,
       "category": "美食"
+    },
+    {
+      "raw_hot": 744240,
+      "num": 744240,
+      "word": "步步倾心定档",
+      "onboard_time": 1711423818,
+      "rank": 14,
+      "category": "剧集"
     },
     {
       "raw_hot": 683052,
@@ -177,6 +185,14 @@
       "onboard_time": 1711378400,
       "rank": 20,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 651668,
+      "num": 501642,
+      "word": "Angelababy背部身材",
+      "onboard_time": 1711423158,
+      "rank": 21,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 643477,
@@ -259,6 +275,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 540206,
+      "num": 510462,
+      "word": "天呐 我被吴磊给摸了",
+      "onboard_time": 1711422738,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 526689,
       "num": 526689,
       "word": "地磁暴 极光",
@@ -275,28 +299,12 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 510102,
-      "num": 507294,
-      "word": "天呐 我被吴磊给摸了",
-      "onboard_time": 1711422738,
-      "rank": 34,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 507094,
       "num": 507094,
       "word": "女儿为去世妈妈写20万字重生文",
       "onboard_time": 1711417158,
       "rank": 18,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 501642,
-      "num": 501642,
-      "word": "Angelababy背部身材",
-      "onboard_time": 1711423158,
-      "rank": 21,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 500598,
@@ -419,6 +427,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 366859,
+      "num": 366859,
+      "word": "十个勤天回应郁金香只发江浙沪",
+      "onboard_time": 1711426280,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 360912,
       "num": 360912,
       "word": "陈戌源案今天一审宣判",
@@ -473,6 +489,14 @@
       "onboard_time": 1711414939,
       "rank": 29,
       "category": "情感"
+    },
+    {
+      "raw_hot": 333765,
+      "num": 333765,
+      "word": "地磁暴1次要背多少锅",
+      "onboard_time": 1711425319,
+      "rank": 24,
+      "category": "科学科普"
     },
     {
       "raw_hot": 315073,
@@ -537,14 +561,6 @@
       "onboard_time": 1711409356,
       "rank": 32,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 290121,
-      "num": 290121,
-      "word": "地磁暴1次要背多少锅",
-      "onboard_time": 1711425319,
-      "rank": 24,
-      "category": "科学科普"
     },
     {
       "raw_hot": 288051,
@@ -635,14 +651,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 255228,
-      "num": 218012,
-      "word": "十个勤天回应郁金香只发江浙沪",
-      "onboard_time": 1711426280,
-      "rank": 30,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 245790,
       "num": 245790,
       "word": "什么时候认为要分手了",
@@ -657,6 +665,14 @@
       "onboard_time": 1711420038,
       "rank": 22,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 237898,
+      "num": 237898,
+      "word": "鸳鸯锅在韩国的用处",
+      "onboard_time": 1711424179,
+      "rank": 31,
+      "category": "美食"
     },
     {
       "raw_hot": 236676,
@@ -683,6 +699,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 231063,
+      "num": 231063,
+      "word": "地球出现3小时特大地磁暴",
+      "onboard_time": 1711424957,
+      "rank": 29,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 229729,
       "num": 229729,
       "word": "电影排球少年定档",
@@ -707,28 +731,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 222906,
-      "num": 222906,
-      "word": "地球出现3小时特大地磁暴",
-      "onboard_time": 1711424957,
-      "rank": 29,
-      "category": "科学科普"
-    },
-    {
       "raw_hot": 214495,
       "num": 213673,
       "word": "断崖式衰老发生在几岁",
       "onboard_time": 1711373180,
       "rank": 21,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 213074,
-      "num": 213074,
-      "word": "鸳鸯锅在韩国的用处",
-      "onboard_time": 1711424179,
-      "rank": 31,
-      "category": "美食"
     },
     {
       "raw_hot": 208492,
@@ -763,6 +771,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 199457,
+      "num": 199457,
+      "word": "Fate Challenge",
+      "onboard_time": 1711426939,
+      "rank": 32,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 199018,
       "num": 199018,
       "word": "花间令潘杨之好相认了",
@@ -777,6 +793,14 @@
       "onboard_time": 1711423517,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 189984,
+      "num": 189984,
+      "word": "白鹿画了gidle的新歌",
+      "onboard_time": 1711427600,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 185913,
@@ -899,12 +923,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 169813,
+      "num": 169813,
+      "word": "双高父母偏信遗传基因17岁儿子身高仅163",
+      "onboard_time": 1711427300,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 169439,
       "num": 169439,
       "word": "沈璃小荷 白蛇青蛇",
       "onboard_time": 1711378759,
       "rank": 24,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 168571,
+      "num": 168571,
+      "word": "飞书宣布精简规模",
+      "onboard_time": 1711427120,
+      "rank": 37,
+      "category": "互联网"
     },
     {
       "raw_hot": 168013,
@@ -945,6 +985,22 @@
       "onboard_time": 1711410498,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 155297,
+      "num": 155297,
+      "word": "原生家庭习以为常的卫生习惯",
+      "onboard_time": 1711426760,
+      "rank": 48,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 154552,
+      "num": 154552,
+      "word": "KPL",
+      "onboard_time": 1711427422,
+      "rank": 44,
+      "category": "电竞"
     },
     {
       "raw_hot": 153231,
@@ -1057,14 +1113,6 @@
       "onboard_time": 1711373359,
       "rank": 30,
       "category": "教育"
-    },
-    {
-      "raw_hot": 135005,
-      "num": 135005,
-      "word": "原生家庭习以为常的卫生习惯",
-      "onboard_time": 1711426760,
-      "rank": 48,
-      "category": "情感"
     },
     {
       "raw_hot": 134518,
@@ -1315,6 +1363,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 67397,
+      "num": 1332950,
+      "word": "与春日繁花来场浪漫邂逅",
+      "onboard_time": 1711422618,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 63419,
       "num": 63419,
       "word": "人体身上看不见的条纹",
@@ -1329,14 +1385,6 @@
       "onboard_time": 1711373540,
       "rank": 2,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 56659,
-      "num": 1332950,
-      "word": "与春日繁花来场浪漫邂逅",
-      "onboard_time": 1711422618,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 54346,
@@ -1385,6 +1433,14 @@
       "onboard_time": 1711400890,
       "rank": 39,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 42137,
+      "num": 148457,
+      "word": "一双鞋解锁赛博运动风",
+      "onboard_time": 1711427540,
+      "rank": 49,
+      "category": "时尚"
     },
     {
       "raw_hot": 41987,
