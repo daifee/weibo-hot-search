@@ -1,6 +1,6 @@
 {
   "startTime": 1709223640991,
-  "endTime": 1711477320079,
+  "endTime": 1711478073122,
   "band_list": [
     {
       "raw_hot": 12728050,
@@ -69187,6 +69187,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 94945,
+      "num": 94945,
+      "word": "地磁暴 最好的背锅侠",
+      "onboard_time": 1711472833,
+      "rank": 42,
+      "category": "自然,幽默"
+    },
+    {
       "raw_hot": 94929,
       "num": 94929,
       "word": "想减肥要多站立",
@@ -70609,14 +70617,6 @@
       "onboard_time": 1711078879,
       "rank": 20,
       "category": "数码"
-    },
-    {
-      "raw_hot": 73735,
-      "num": 73735,
-      "word": "地磁暴 最好的背锅侠",
-      "onboard_time": 1711472833,
-      "rank": 42,
-      "category": "自然,幽默"
     },
     {
       "raw_hot": 73579,
@@ -72387,6 +72387,14 @@
       "category": "时尚,作品衍生"
     },
     {
+      "raw_hot": 47815,
+      "num": 45612,
+      "word": "优酷待播剧预约前十",
+      "onboard_time": 1711477092,
+      "rank": 22,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 47782,
       "num": 527219,
       "word": "小米Civi4Pro首发第三代骁龙8s",
@@ -72545,14 +72553,6 @@
       "onboard_time": 1709644293,
       "rank": 38,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 45612,
-      "num": 45612,
-      "word": "优酷待播剧预约前十",
-      "onboard_time": 1711477092,
-      "rank": 22,
-      "category": "剧集"
     },
     {
       "raw_hot": 45484,
@@ -73563,20 +73563,20 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 28487,
+      "num": 28487,
+      "word": "范丞丞笑的对称的方式",
+      "onboard_time": 1711475592,
+      "rank": 38,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 28294,
       "num": 906080,
       "word": "春种科技范拉满",
       "onboard_time": 1711338078,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 28089,
-      "num": 28089,
-      "word": "范丞丞笑的对称的方式",
-      "onboard_time": 1711475592,
-      "rank": 38,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 27982,
@@ -73715,6 +73715,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 26300,
+      "num": 26300,
+      "word": "IROHA 跳EASY",
+      "onboard_time": 1711477571,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 26148,
       "num": 26148,
       "word": "打工尊者",
@@ -73809,6 +73817,14 @@
       "onboard_time": 1709574199,
       "rank": 36,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 24981,
+      "num": 24981,
+      "word": "iroha好漂亮",
+      "onboard_time": 1711477391,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 24710,

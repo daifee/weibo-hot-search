@@ -1,6 +1,6 @@
 {
   "startTime": 1711210803824,
-  "endTime": 1711477320079,
+  "endTime": 1711478073122,
   "band_list": [
     {
       "raw_hot": 3922233,
@@ -8491,6 +8491,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 94945,
+      "num": 94945,
+      "word": "地磁暴 最好的背锅侠",
+      "onboard_time": 1711472833,
+      "rank": 42,
+      "category": "自然,幽默"
+    },
+    {
       "raw_hot": 94619,
       "num": 1116569,
       "word": "花花盛开的中国春意拉满",
@@ -8609,14 +8617,6 @@
       "onboard_time": 1711316172,
       "rank": 36,
       "category": "情感"
-    },
-    {
-      "raw_hot": 73735,
-      "num": 73735,
-      "word": "地磁暴 最好的背锅侠",
-      "onboard_time": 1711472833,
-      "rank": 42,
-      "category": "自然,幽默"
     },
     {
       "raw_hot": 73579,
@@ -8827,6 +8827,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 47815,
+      "num": 45612,
+      "word": "优酷待播剧预约前十",
+      "onboard_time": 1711477092,
+      "rank": 22,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 47584,
       "num": 47584,
       "word": "迪丽热巴宣传中国广电",
@@ -8841,14 +8849,6 @@
       "onboard_time": 1711315451,
       "rank": 46,
       "category": "数码"
-    },
-    {
-      "raw_hot": 45612,
-      "num": 45612,
-      "word": "优酷待播剧预约前十",
-      "onboard_time": 1711477092,
-      "rank": 22,
-      "category": "剧集"
     },
     {
       "raw_hot": 45301,
@@ -9027,20 +9027,20 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 28487,
+      "num": 28487,
+      "word": "范丞丞笑的对称的方式",
+      "onboard_time": 1711475592,
+      "rank": 38,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 28294,
       "num": 906080,
       "word": "春种科技范拉满",
       "onboard_time": 1711338078,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 28089,
-      "num": 28089,
-      "word": "范丞丞笑的对称的方式",
-      "onboard_time": 1711475592,
-      "rank": 38,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 26835,
@@ -9067,12 +9067,28 @@
       "category": "电影"
     },
     {
+      "raw_hot": 26300,
+      "num": 26300,
+      "word": "IROHA 跳EASY",
+      "onboard_time": 1711477571,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 25275,
       "num": 180692,
       "word": "新款AirMax国内首发测评",
       "onboard_time": 1711441818,
       "rank": 38,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 24981,
+      "num": 24981,
+      "word": "iroha好漂亮",
+      "onboard_time": 1711477391,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 23590,
