@@ -1,6 +1,6 @@
 {
   "startTime": 1709223640991,
-  "endTime": 1711566873667,
+  "endTime": 1711568060852,
   "band_list": [
     {
       "raw_hot": 12728050,
@@ -76283,6 +76283,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 31621,
+      "num": 31621,
+      "word": "陈法拉生二胎后首露面",
+      "onboard_time": 1711565412,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 31424,
       "num": 44290,
       "word": "万茜穿平底鞋的身材比例",
@@ -76441,14 +76449,6 @@
       "onboard_time": 1709397568,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 28629,
-      "num": 28629,
-      "word": "陈法拉生二胎后首露面",
-      "onboard_time": 1711565412,
-      "rank": 19,
-      "category": "艺人"
     },
     {
       "raw_hot": 28582,
@@ -77449,6 +77449,22 @@
       "onboard_time": 1709928077,
       "rank": 45,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 14167,
+      "num": 14167,
+      "word": "没和蔡依林一起去",
+      "onboard_time": 1711567751,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 14088,
+      "num": 14088,
+      "word": "1987年版本的语文教材",
+      "onboard_time": 1711567511,
+      "rank": 48,
+      "category": "教育"
     },
     {
       "raw_hot": 13900,
