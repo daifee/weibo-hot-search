@@ -1,6 +1,6 @@
 {
   "startTime": 1711470163483,
-  "endTime": 1711521272580,
+  "endTime": 1711523754411,
   "band_list": [
     {
       "raw_hot": 2391197,
@@ -17,6 +17,14 @@
       "onboard_time": 1711500498,
       "rank": 0,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2007402,
+      "num": 2007402,
+      "word": "第一章回国 第二章体测",
+      "onboard_time": 1711518980,
+      "rank": 1,
+      "category": "艺人"
     },
     {
       "raw_hot": 1979849,
@@ -43,14 +51,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1761791,
-      "num": 1761791,
-      "word": "第一章回国 第二章体测",
-      "onboard_time": 1711518980,
-      "rank": 1,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 1587128,
       "num": 1587128,
       "word": "考生蔡元培北大复试仍是专业第一",
@@ -73,6 +73,14 @@
       "onboard_time": 1711514722,
       "rank": 1,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1185908,
+      "num": 1185908,
+      "word": "海底捞一天翻台率3.3次",
+      "onboard_time": 1711521499,
+      "rank": 1,
+      "category": "美食"
     },
     {
       "raw_hot": 1151583,
@@ -147,6 +155,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 804658,
+      "num": 804658,
+      "word": "扫墓时焚烧冥纸谈不上是封建迷信",
+      "onboard_time": 1711519157,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 774083,
       "num": 774083,
       "word": "南京一米线店改名成甘肃麻辣烫店",
@@ -169,14 +185,6 @@
       "onboard_time": 1711503318,
       "rank": 4,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 690777,
-      "num": 690777,
-      "word": "扫墓时焚烧冥纸谈不上是封建迷信",
-      "onboard_time": 1711519157,
-      "rank": 6,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 683273,
@@ -307,6 +315,14 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 546978,
+      "num": 546978,
+      "word": "南通回应禁止制造销售冥币纸钱",
+      "onboard_time": 1711521558,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 544413,
       "num": 544413,
       "word": "下班后的年轻人开始搞第二事业了",
@@ -331,6 +347,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 517815,
+      "num": 517815,
+      "word": "90后外卖小哥称不愿缴纳社保",
+      "onboard_time": 1711521378,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 506921,
       "num": 506921,
       "word": "宋茜片场摔倒",
@@ -353,6 +377,14 @@
       "onboard_time": 1711495995,
       "rank": 42,
       "category": "教育"
+    },
+    {
+      "raw_hot": 499174,
+      "num": 422960,
+      "word": "A股",
+      "onboard_time": 1711504699,
+      "rank": 13,
+      "category": "财经"
     },
     {
       "raw_hot": 498483,
@@ -459,14 +491,6 @@
       "category": "时尚"
     },
     {
-      "raw_hot": 426157,
-      "num": 422960,
-      "word": "A股",
-      "onboard_time": 1711504699,
-      "rank": 13,
-      "category": "财经"
-    },
-    {
       "raw_hot": 424454,
       "num": 424454,
       "word": "金秀贤金智媛双人画报",
@@ -523,6 +547,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 375902,
+      "num": 375902,
+      "word": "春色寄情人定档",
+      "onboard_time": 1711522159,
+      "rank": 8,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 367948,
       "num": 367948,
       "word": "磁暴",
@@ -545,6 +577,14 @@
       "onboard_time": 1711507879,
       "rank": 13,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 354429,
+      "num": 321631,
+      "word": "何炅吴昕你们不要再吵了",
+      "onboard_time": 1711520238,
+      "rank": 19,
+      "category": "综艺"
     },
     {
       "raw_hot": 345843,
@@ -595,6 +635,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 311455,
+      "num": 262984,
+      "word": "女子称打车爱上司机2年花了400万",
+      "onboard_time": 1711521197,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 308427,
       "num": 308427,
       "word": "SM新女团",
@@ -635,6 +683,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 290061,
+      "num": 290061,
+      "word": "武汉大学回应开设雷军班",
+      "onboard_time": 1711521919,
+      "rank": 17,
+      "category": "教育"
+    },
+    {
       "raw_hot": 289483,
       "num": 289483,
       "word": "星穹铁道",
@@ -665,14 +721,6 @@
       "onboard_time": 1711477092,
       "rank": 22,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 273614,
-      "num": 216494,
-      "word": "何炅吴昕你们不要再吵了",
-      "onboard_time": 1711520238,
-      "rank": 19,
-      "category": "综艺"
     },
     {
       "raw_hot": 272732,
@@ -713,6 +761,14 @@
       "onboard_time": 1711468578,
       "rank": 22,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 259518,
+      "num": 259518,
+      "word": "建议好吃的店不要带对象去",
+      "onboard_time": 1711521499,
+      "rank": 23,
+      "category": "幽默"
     },
     {
       "raw_hot": 258805,
@@ -763,6 +819,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 241387,
+      "num": 241387,
+      "word": "爸爸当家3",
+      "onboard_time": 1711521857,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 239423,
       "num": 239423,
       "word": "赵丽颖李嘉琦对手戏",
@@ -772,7 +836,7 @@
     },
     {
       "raw_hot": 237923,
-      "num": 213577,
+      "num": 236092,
       "word": "免疫力下降的5个信号",
       "onboard_time": 1711520178,
       "rank": 30,
@@ -795,6 +859,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 230654,
+      "num": 230654,
+      "word": "九重紫官宣杀青",
+      "onboard_time": 1711522518,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 227932,
       "num": 227932,
       "word": "毕业半年了喜欢在家啃老",
@@ -811,12 +883,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 223290,
+      "num": 223290,
+      "word": "张艺兴和百分百导演起争执",
+      "onboard_time": 1711523059,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 221299,
       "num": 221299,
       "word": "密切关注台军在金门的动向",
       "onboard_time": 1711508777,
       "rank": 29,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 220382,
+      "num": 265784,
+      "word": "梁靖崑3比2卡尔伯格",
+      "onboard_time": 1711522038,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 218978,
@@ -833,6 +921,14 @@
       "onboard_time": 1711508297,
       "rank": 25,
       "category": "情感"
+    },
+    {
+      "raw_hot": 217678,
+      "num": 217678,
+      "word": "A股再度跌破3000点大关",
+      "onboard_time": 1711523477,
+      "rank": 30,
+      "category": "财经"
     },
     {
       "raw_hot": 215252,
@@ -915,6 +1011,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 198180,
+      "num": 198180,
+      "word": "男子校内虐杀流浪猫被大学生抓获",
+      "onboard_time": 1711523236,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 197333,
       "num": 197333,
       "word": "大一逃一节晚自习有什么后果",
@@ -955,6 +1059,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 190694,
+      "num": 190694,
+      "word": "射雕联名",
+      "onboard_time": 1711523359,
+      "rank": 36,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 189965,
       "num": 189965,
       "word": "慕拉得向檀健次田嘉瑞粉丝道歉",
@@ -963,12 +1075,28 @@
       "category": "艺人,美妆"
     },
     {
+      "raw_hot": 189624,
+      "num": 193560,
+      "word": "丁禹兮出妆",
+      "onboard_time": 1711522940,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 189433,
       "num": 189433,
       "word": "大侦探",
       "onboard_time": 1711515080,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 189376,
+      "num": 189376,
+      "word": "MOKA 迷路姬",
+      "onboard_time": 1711523117,
+      "rank": 37,
+      "category": "艺人"
     },
     {
       "raw_hot": 187747,
@@ -1033,6 +1161,14 @@
       "onboard_time": 1711516759,
       "rank": 28,
       "category": "体育"
+    },
+    {
+      "raw_hot": 173581,
+      "num": 173581,
+      "word": "晚上六点半和九点半下班的区别",
+      "onboard_time": 1711522698,
+      "rank": 39,
+      "category": "幽默"
     },
     {
       "raw_hot": 173561,
@@ -1275,6 +1411,22 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 146361,
+      "num": 146361,
+      "word": "肖顺尧腰右侧横突骨折",
+      "onboard_time": 1711521499,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 144709,
+      "num": 144709,
+      "word": "睡觉从不做梦是不利于健康的",
+      "onboard_time": 1711523301,
+      "rank": 43,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 141486,
       "num": 141486,
       "word": "章昊OST成绩",
@@ -1291,6 +1443,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 141090,
+      "num": 141090,
+      "word": "山河枕路透",
+      "onboard_time": 1711521678,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 141049,
       "num": 141049,
       "word": "葡萄牙不敌斯洛文尼亚",
@@ -1305,6 +1465,14 @@
       "onboard_time": 1711453637,
       "rank": 31,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 138226,
+      "num": 138226,
+      "word": "MOKA横版直拍",
+      "onboard_time": 1711523539,
+      "rank": 45,
+      "category": "音乐"
     },
     {
       "raw_hot": 137980,
@@ -1401,6 +1569,14 @@
       "onboard_time": 1711515259,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 126287,
+      "num": 126287,
+      "word": "终究是地磁暴扛下了所有",
+      "onboard_time": 1711523059,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 124829,
@@ -1515,6 +1691,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 109555,
+      "num": 109555,
+      "word": "A股3000点附近你加仓吗",
+      "onboard_time": 1711523719,
+      "rank": 49,
+      "category": "财经"
+    },
+    {
       "raw_hot": 108036,
       "num": 108036,
       "word": "4名大学室友赴十年之约自驾去拉萨",
@@ -1561,14 +1745,6 @@
       "onboard_time": 1711454900,
       "rank": 40,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 96195,
-      "num": 107917,
-      "word": "女子称打车爱上司机2年花了400万",
-      "onboard_time": 1711521197,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 95776,
@@ -1633,6 +1809,14 @@
       "onboard_time": 1711467618,
       "rank": 48,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 77327,
+      "num": 220453,
+      "word": "5个动作帮你强化膝关节",
+      "onboard_time": 1711523179,
+      "rank": 29,
+      "category": "运动健身"
     },
     {
       "raw_hot": 74849,
@@ -1723,12 +1907,28 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 46023,
+      "num": 952846,
+      "word": "2023中国网络视听12大数据发布",
+      "onboard_time": 1711522337,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 45596,
       "num": 651706,
       "word": "我国完成印度洋渔业资源调查",
       "onboard_time": 1711457719,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 41225,
+      "num": 192844,
+      "word": "领克发布跨界数码新品CoPad",
+      "onboard_time": 1711521439,
+      "rank": 34,
+      "category": "数码"
     },
     {
       "raw_hot": 39435,
@@ -1828,6 +2028,9 @@
     },
     {
       "word": "#倡导不同文明交流互鉴#"
+    },
+    {
+      "word": "#习近平会见美国工商界和战略学术界代表#"
     }
   ]
 }
