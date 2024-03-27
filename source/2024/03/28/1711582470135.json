@@ -1,0 +1,410 @@
+{
+  "runTime": 1711582470135,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 589823,
+        "num": 589823,
+        "word": "180斤山东女孩拍写真美哭网友",
+        "onboard_time": 1711572670,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 439646,
+        "num": 439646,
+        "word": "金宝贝突然停业几天前还怂恿家长充值",
+        "onboard_time": 1711572309,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 55489,
+        "num": 412589,
+        "word": "我国网络视听用户规模达10.74亿人",
+        "onboard_time": 1711543999,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 450623,
+        "num": 412455,
+        "word": "女子将儿媳打得满身疤痕惹众怒",
+        "onboard_time": 1711570150,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 411389,
+        "num": 411389,
+        "word": "持续黑一个历史人物十年",
+        "onboard_time": 1711568830,
+        "rank": 4,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 1249939,
+        "num": 408537,
+        "word": "南通",
+        "onboard_time": 1711548440,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 333250,
+        "num": 333250,
+        "word": "冯提莫腰线",
+        "onboard_time": 1711550721,
+        "rank": 6,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 277031,
+        "num": 277031,
+        "word": "南通有丧葬店下架纸钱冥币改卖鲜花",
+        "onboard_time": 1711581436,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 252039,
+        "num": 252039,
+        "word": "何悯鸿向四美道歉",
+        "onboard_time": 1711558574,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 218711,
+        "num": 218711,
+        "word": "女子得知父亲去世高速上崩溃大哭",
+        "onboard_time": 1711572911,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 217915,
+        "num": 217915,
+        "word": "梦泪当爸爸",
+        "onboard_time": 1711581316,
+        "rank": 10,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 208123,
+        "num": 208123,
+        "word": "北京沙尘暴",
+        "onboard_time": 1711561872,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 205205,
+        "num": 205205,
+        "word": "孔雪儿演女二",
+        "onboard_time": 1711573090,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 180520,
+        "num": 180520,
+        "word": "王嘉尔普吉岛",
+        "onboard_time": 1711548858,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 175865,
+        "num": 175865,
+        "word": "大熊猫青糍死亡",
+        "onboard_time": 1711542680,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 154328,
+        "num": 154328,
+        "word": "王者荣耀维护",
+        "onboard_time": 1711582097,
+        "rank": 15,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 150374,
+        "num": 150374,
+        "word": "王诗龄晒与李湘在英国的日常",
+        "onboard_time": 1711538238,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 145004,
+        "num": 145004,
+        "word": "真想给HR开个不孕不育证明",
+        "onboard_time": 1711582097,
+        "rank": 17,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 139573,
+        "num": 139573,
+        "word": "刚出生就1米85的帅宝宝来了",
+        "onboard_time": 1711525638,
+        "rank": 18,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 136129,
+        "num": 136129,
+        "word": "禁售殡葬用品后南通12345接大量电话",
+        "onboard_time": 1711534938,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 990309,
+        "num": 135897,
+        "word": "你愿意不交社保换更多工资吗",
+        "onboard_time": 1711559774,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 211723,
+        "num": 135810,
+        "word": "幼儿园老师背名牌包被投诉",
+        "onboard_time": 1711549699,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 182770,
+        "num": 135730,
+        "word": "男方准备10万彩礼女方要30万",
+        "onboard_time": 1711553838,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 135598,
+        "num": 135598,
+        "word": "8万的预算能在深圳玩三天吗",
+        "onboard_time": 1711548139,
+        "rank": 23,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 166181,
+        "num": 134591,
+        "word": "经常喝牛奶或增加这两种癌症风险",
+        "onboard_time": 1711541779,
+        "rank": 24,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 147627,
+        "num": 134472,
+        "word": "韩国高中生向女老师保温杯注入精液",
+        "onboard_time": 1711538539,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 132845,
+        "num": 132845,
+        "word": "北京市教委提示师生员工减少外出",
+        "onboard_time": 1711581915,
+        "rank": 26,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 127274,
+        "num": 127274,
+        "word": "魏大勋说不清了",
+        "onboard_time": 1711554559,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 118436,
+        "num": 118436,
+        "word": "为什么肚子上的肉这么难减",
+        "onboard_time": 1711570751,
+        "rank": 28,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 113971,
+        "num": 113971,
+        "word": "一觉醒来夏东海和锅姨在一起了",
+        "onboard_time": 1711530618,
+        "rank": 29,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 111844,
+        "num": 111844,
+        "word": "王一博听到并立于雪山之巅笑了",
+        "onboard_time": 1711549280,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 110957,
+        "num": 110957,
+        "word": "春季最狠减肥法 轻断食",
+        "onboard_time": 1711572911,
+        "rank": 31,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 104469,
+        "num": 104469,
+        "word": "小米SU7续航700公里起步",
+        "onboard_time": 1711547541,
+        "rank": 32,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 99020,
+        "num": 99020,
+        "word": "东方白鹳在东北掉队体验到超大菜量",
+        "onboard_time": 1711581855,
+        "rank": 33,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 96686,
+        "num": 96686,
+        "word": "一想到从此把闺蜜叫嫂子就哈哈哈",
+        "onboard_time": 1711578252,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 94325,
+        "num": 94325,
+        "word": "尿毒症都是拖出来的吗",
+        "onboard_time": 1711560012,
+        "rank": 35,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 90947,
+        "num": 90947,
+        "word": "张慧雯回应演何悯鸿后面相变了",
+        "onboard_time": 1711554918,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 87858,
+        "num": 87858,
+        "word": "自刷差评淄博烧烤店谈爆火1年现状",
+        "onboard_time": 1711582336,
+        "rank": 37,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 85742,
+        "num": 85742,
+        "word": "与凤行 送子婚姻",
+        "onboard_time": 1711545978,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 85734,
+        "num": 85734,
+        "word": "老邪吐槽追风者 翻车",
+        "onboard_time": 1711549760,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 85330,
+        "num": 85330,
+        "word": "陈法拉生二胎后首露面",
+        "onboard_time": 1711565412,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 76208,
+        "num": 76208,
+        "word": "刘亦菲同款带火文旅",
+        "onboard_time": 1711580655,
+        "rank": 41,
+        "category": "艺人,作品衍生"
+      },
+      {
+        "raw_hot": 64073,
+        "num": 64073,
+        "word": "金牛座的焦虑来自于匮乏感",
+        "onboard_time": 1711553960,
+        "rank": 42,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 61310,
+        "num": 61310,
+        "word": "知情人士回应腾讯大规模裁员",
+        "onboard_time": 1711546819,
+        "rank": 43,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 60237,
+        "num": 60237,
+        "word": "长沙暴雨",
+        "onboard_time": 1711582397,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 56968,
+        "num": 56968,
+        "word": "陈铭说与其发水论文不如不发",
+        "onboard_time": 1711582397,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 55152,
+        "num": 55152,
+        "word": "王者荣耀版沈璃上线",
+        "onboard_time": 1711548921,
+        "rank": 46,
+        "category": "剧集,电竞"
+      },
+      {
+        "raw_hot": 53669,
+        "num": 53669,
+        "word": "离异3年内不得京内购房被废止",
+        "onboard_time": 1711532899,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 52804,
+        "num": 53512,
+        "word": "极限挑战",
+        "onboard_time": 1711551318,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 53379,
+        "num": 53379,
+        "word": "去喜欢一个对你有空的人",
+        "onboard_time": 1711551920,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#中美关系回不到过去但能够有更好的未来#"
+    }
+  }
+}

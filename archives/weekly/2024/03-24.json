@@ -1,6 +1,6 @@
 {
   "startTime": 1711210803824,
-  "endTime": 1711581442785,
+  "endTime": 1711582470135,
   "band_list": [
     {
       "raw_hot": 3922233,
@@ -955,6 +955,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 990309,
+      "num": 327852,
+      "word": "你愿意不交社保换更多工资吗",
+      "onboard_time": 1711559774,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 981811,
       "num": 459590,
       "word": "金秀贤公司回应",
@@ -1273,14 +1281,6 @@
       "onboard_time": 1711441699,
       "rank": 14,
       "category": "艺人,幽默"
-    },
-    {
-      "raw_hot": 789423,
-      "num": 327852,
-      "word": "你愿意不交社保换更多工资吗",
-      "onboard_time": 1711559774,
-      "rank": 15,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 787458,
@@ -2107,6 +2107,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 589823,
+      "num": 589823,
+      "word": "180斤山东女孩拍写真美哭网友",
+      "onboard_time": 1711572670,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 586765,
       "num": 586765,
       "word": "Jessi认出了六年没见的粉丝",
@@ -2899,14 +2907,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 482409,
-      "num": 482409,
-      "word": "180斤山东女孩拍写真美哭网友",
-      "onboard_time": 1711572670,
-      "rank": 13,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 481819,
       "num": 481819,
       "word": "95后小伙健身10年增重至200斤",
@@ -3147,6 +3147,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 450623,
+      "num": 412455,
+      "word": "女子将儿媳打得满身疤痕惹众怒",
+      "onboard_time": 1711570150,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 450317,
       "num": 450317,
       "word": "赵丽颖戴高珠",
@@ -3241,6 +3249,14 @@
       "onboard_time": 1711292842,
       "rank": 14,
       "category": "情感"
+    },
+    {
+      "raw_hot": 439646,
+      "num": 439646,
+      "word": "金宝贝突然停业几天前还怂恿家长充值",
+      "onboard_time": 1711572309,
+      "rank": 17,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 437899,
@@ -3435,6 +3451,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 411389,
+      "num": 411389,
+      "word": "持续黑一个历史人物十年",
+      "onboard_time": 1711568830,
+      "rank": 15,
+      "category": "情感"
+    },
+    {
       "raw_hot": 411244,
       "num": 411244,
       "word": "鹿晗跳自己的歌输给陈赫",
@@ -3553,14 +3577,6 @@
       "onboard_time": 1711463839,
       "rank": 19,
       "category": "时尚"
-    },
-    {
-      "raw_hot": 398168,
-      "num": 315892,
-      "word": "女子将儿媳打得满身疤痕惹众怒",
-      "onboard_time": 1711570150,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 397335,
@@ -3809,14 +3825,6 @@
       "onboard_time": 1711521919,
       "rank": 17,
       "category": "教育"
-    },
-    {
-      "raw_hot": 370294,
-      "num": 161240,
-      "word": "金宝贝突然停业几天前还怂恿家长充值",
-      "onboard_time": 1711572309,
-      "rank": 17,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 369915,
@@ -4281,14 +4289,6 @@
       "onboard_time": 1711275018,
       "rank": 35,
       "category": "体育"
-    },
-    {
-      "raw_hot": 329354,
-      "num": 329354,
-      "word": "持续黑一个历史人物十年",
-      "onboard_time": 1711568830,
-      "rank": 15,
-      "category": "情感"
     },
     {
       "raw_hot": 328771,
@@ -4899,6 +4899,14 @@
       "category": "艺人,艺人"
     },
     {
+      "raw_hot": 277031,
+      "num": 277031,
+      "word": "南通有丧葬店下架纸钱冥币改卖鲜花",
+      "onboard_time": 1711581436,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 276097,
       "num": 276097,
       "word": "优酷待播剧预约前十",
@@ -5329,6 +5337,14 @@
       "onboard_time": 1711488251,
       "rank": 35,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 252039,
+      "num": 252039,
+      "word": "何悯鸿向四美道歉",
+      "onboard_time": 1711558574,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 252038,
@@ -6099,14 +6115,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 223765,
-      "num": 223765,
-      "word": "何悯鸿向四美道歉",
-      "onboard_time": 1711558574,
-      "rank": 28,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 223744,
       "num": 223744,
       "word": "甘肃天水麻辣烫",
@@ -6243,6 +6251,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 218711,
+      "num": 218711,
+      "word": "女子得知父亲去世高速上崩溃大哭",
+      "onboard_time": 1711572911,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 218397,
       "num": 218397,
       "word": "王力宏常州",
@@ -6281,6 +6297,14 @@
       "onboard_time": 1711273399,
       "rank": 26,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 217915,
+      "num": 217915,
+      "word": "梦泪当爸爸",
+      "onboard_time": 1711581316,
+      "rank": 44,
+      "category": "电竞"
     },
     {
       "raw_hot": 217339,
@@ -6507,6 +6531,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 208123,
+      "num": 208123,
+      "word": "北京沙尘暴",
+      "onboard_time": 1711561872,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 207720,
       "num": 207720,
       "word": "重庆狼队的山茶花之约",
@@ -6601,6 +6633,14 @@
       "onboard_time": 1711434137,
       "rank": 24,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 205205,
+      "num": 205205,
+      "word": "孔雪儿演女二",
+      "onboard_time": 1711573090,
+      "rank": 25,
+      "category": "剧集"
     },
     {
       "raw_hot": 204941,
@@ -7939,14 +7979,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 177580,
-      "num": 177580,
-      "word": "孔雪儿演女二",
-      "onboard_time": 1711573090,
-      "rank": 25,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 177470,
       "num": 177470,
       "word": "穷人家的孩子补课真的好愧疚",
@@ -8491,14 +8523,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 164813,
-      "num": 164813,
-      "word": "女子得知父亲去世高速上崩溃大哭",
-      "onboard_time": 1711572911,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 164769,
       "num": 164769,
       "word": "模仿张元英",
@@ -8971,14 +8995,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 157024,
-      "num": 157024,
-      "word": "北京沙尘暴",
-      "onboard_time": 1711561872,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 157002,
       "num": 157002,
       "word": "AppleVisionPro年内中国上市",
@@ -9121,6 +9137,14 @@
       "onboard_time": 1711427422,
       "rank": 44,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 154328,
+      "num": 154328,
+      "word": "王者荣耀维护",
+      "onboard_time": 1711582097,
+      "rank": 15,
+      "category": "游戏"
     },
     {
       "raw_hot": 154066,
@@ -9723,6 +9747,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 145004,
+      "num": 145004,
+      "word": "真想给HR开个不孕不育证明",
+      "onboard_time": 1711582097,
+      "rank": 17,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 144939,
       "num": 144939,
       "word": "孙铭阳3比1张本美和",
@@ -10323,6 +10355,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 132845,
+      "num": 132845,
+      "word": "北京市教委提示师生员工减少外出",
+      "onboard_time": 1711581915,
+      "rank": 26,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 132817,
       "num": 132817,
       "word": "元UP发布会",
@@ -10859,6 +10899,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 118436,
+      "num": 118436,
+      "word": "为什么肚子上的肉这么难减",
+      "onboard_time": 1711570751,
+      "rank": 30,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 118326,
       "num": 118326,
       "word": "14岁男孩免试直读985硕士",
@@ -11059,6 +11107,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 110957,
+      "num": 110957,
+      "word": "春季最狠减肥法 轻断食",
+      "onboard_time": 1711572911,
+      "rank": 35,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 110856,
       "num": 110856,
       "word": "夏之光探班何洛洛",
@@ -11211,14 +11267,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 105649,
-      "num": 89919,
-      "word": "为什么肚子上的肉这么难减",
-      "onboard_time": 1711570751,
-      "rank": 30,
-      "category": "运动健身"
-    },
-    {
       "raw_hot": 104590,
       "num": 104590,
       "word": "卡琳娜 全知读者视角",
@@ -11291,12 +11339,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 99020,
+      "num": 99020,
+      "word": "东方白鹳在东北掉队体验到超大菜量",
+      "onboard_time": 1711581855,
+      "rank": 33,
+      "category": "社会新闻,美食"
+    },
+    {
       "raw_hot": 96795,
       "num": 113165,
       "word": "武磊表示目标就是全力争胜",
       "onboard_time": 1711440499,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 96686,
+      "num": 96686,
+      "word": "一想到从此把闺蜜叫嫂子就哈哈哈",
+      "onboard_time": 1711578252,
+      "rank": 44,
+      "category": "幽默"
     },
     {
       "raw_hot": 95280,
@@ -11323,20 +11387,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 94325,
+      "num": 94325,
+      "word": "尿毒症都是拖出来的吗",
+      "onboard_time": 1711560012,
+      "rank": 22,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 93414,
       "num": 93414,
       "word": "IMBT",
       "onboard_time": 1711560792,
       "rank": 46,
       "category": "情感"
-    },
-    {
-      "raw_hot": 90580,
-      "num": 89852,
-      "word": "尿毒症都是拖出来的吗",
-      "onboard_time": 1711560012,
-      "rank": 22,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 90188,
@@ -11347,12 +11411,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 89834,
-      "num": 89834,
-      "word": "春季最狠减肥法 轻断食",
-      "onboard_time": 1711572911,
-      "rank": 35,
-      "category": "运动健身"
+      "raw_hot": 87858,
+      "num": 87858,
+      "word": "自刷差评淄博烧烤店谈爆火1年现状",
+      "onboard_time": 1711582336,
+      "rank": 37,
+      "category": "旅游"
     },
     {
       "raw_hot": 85558,
@@ -11393,14 +11457,6 @@
       "onboard_time": 1711322957,
       "rank": 40,
       "category": "数码"
-    },
-    {
-      "raw_hot": 82084,
-      "num": 82084,
-      "word": "一想到从此把闺蜜叫嫂子就哈哈哈",
-      "onboard_time": 1711578252,
-      "rank": 44,
-      "category": "幽默"
     },
     {
       "raw_hot": 81206,
@@ -11473,6 +11529,14 @@
       "onboard_time": 1711216874,
       "rank": 27,
       "category": "电影"
+    },
+    {
+      "raw_hot": 76208,
+      "num": 76208,
+      "word": "刘亦菲同款带火文旅",
+      "onboard_time": 1711580655,
+      "rank": 35,
+      "category": "艺人,作品衍生"
     },
     {
       "raw_hot": 75196,
@@ -11683,12 +11747,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 60237,
+      "num": 60237,
+      "word": "长沙暴雨",
+      "onboard_time": 1711582397,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 58088,
       "num": 58088,
       "word": "苏打绿香港",
       "onboard_time": 1711301234,
       "rank": 43,
       "category": "演出"
+    },
+    {
+      "raw_hot": 56968,
+      "num": 56968,
+      "word": "陈铭说与其发水论文不如不发",
+      "onboard_time": 1711582397,
+      "rank": 45,
+      "category": "艺人"
     },
     {
       "raw_hot": 56863,
@@ -11705,14 +11785,6 @@
       "onboard_time": 1711509318,
       "rank": 46,
       "category": "数码"
-    },
-    {
-      "raw_hot": 54915,
-      "num": 54915,
-      "word": "刘亦菲同款带火文旅",
-      "onboard_time": 1711580655,
-      "rank": 35,
-      "category": "艺人,作品衍生"
     },
     {
       "raw_hot": 52825,
@@ -11937,14 +12009,6 @@
       "onboard_time": 1711399270,
       "rank": 30,
       "category": "体育"
-    },
-    {
-      "raw_hot": 37982,
-      "num": 37982,
-      "word": "梦泪当爸爸",
-      "onboard_time": 1711581316,
-      "rank": 44,
-      "category": "电竞"
     },
     {
       "raw_hot": 37612,
