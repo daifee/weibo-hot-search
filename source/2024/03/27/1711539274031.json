@@ -1,0 +1,410 @@
+{
+  "runTime": 1711539274031,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1176162,
+        "num": 1176162,
+        "word": "离异3年内不得京内购房被废止",
+        "onboard_time": 1711532899,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 755464,
+        "num": 755464,
+        "word": "白鹿一口气发了28张照片",
+        "onboard_time": 1711537819,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 49236,
+        "num": 715132,
+        "word": "2023中国网络视听12大数据发布",
+        "onboard_time": 1711522337,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 94064,
+        "num": 712458,
+        "word": "NikeAirMax",
+        "onboard_time": 1711533979,
+        "rank": 3,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 711481,
+        "num": 711481,
+        "word": "刚出生就1米85的帅宝宝来了",
+        "onboard_time": 1711525638,
+        "rank": 4,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 668560,
+        "num": 668560,
+        "word": "王诗龄晒与李湘在英国的日常",
+        "onboard_time": 1711538238,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 531913,
+        "num": 531913,
+        "word": "一觉醒来夏东海和锅姨在一起了",
+        "onboard_time": 1711530618,
+        "rank": 6,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 523305,
+        "num": 523305,
+        "word": "阿坝州地震",
+        "onboard_time": 1711536198,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 142949,
+        "num": 425727,
+        "word": "柯基警犬福仔被背着出街",
+        "onboard_time": 1711533018,
+        "rank": 8,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 423040,
+        "num": 423040,
+        "word": "猎罪图鉴2拍摄进展be like",
+        "onboard_time": 1711535778,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 495835,
+        "num": 420993,
+        "word": "中美关系回不到过去但能够有更好的未来",
+        "onboard_time": 1711534339,
+        "rank": 10,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 398780,
+        "num": 398780,
+        "word": "结婚10年育三子妻子报警称遭丈夫强奸",
+        "onboard_time": 1711529418,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 327684,
+        "num": 379339,
+        "word": "扫墓时焚烧冥纸谈不上是封建迷信",
+        "onboard_time": 1711519157,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 368884,
+        "num": 368884,
+        "word": "张庭夫妇搭上AI又瞄向海外",
+        "onboard_time": 1711533920,
+        "rank": 13,
+        "category": "艺人,财经"
+      },
+      {
+        "raw_hot": 335810,
+        "num": 335810,
+        "word": "海底捞一天翻台率3.3次",
+        "onboard_time": 1711521499,
+        "rank": 14,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 334487,
+        "num": 334487,
+        "word": "第一章回国 第二章体测",
+        "onboard_time": 1711518980,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 304969,
+        "num": 304969,
+        "word": "刘学义郑合惠子鞠婧祎 hi6",
+        "onboard_time": 1711531038,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 51441,
+        "num": 270866,
+        "word": "三分钟带你了解Air气垫科技",
+        "onboard_time": 1711535899,
+        "rank": 17,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 23395,
+        "num": 257068,
+        "word": "一张图看懂NikeAirMax",
+        "onboard_time": 1711535899,
+        "rank": 18,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 252955,
+        "num": 252955,
+        "word": "李善均父亲离世",
+        "onboard_time": 1711530919,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 415790,
+        "num": 252623,
+        "word": "韩国高中生向女老师保温杯注入精液",
+        "onboard_time": 1711538539,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 378175,
+        "num": 250776,
+        "word": "禁售殡葬用品后南通12345接大量电话",
+        "onboard_time": 1711534938,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 82084,
+        "num": 249890,
+        "word": "博鳌企业家惊叹黑科技",
+        "onboard_time": 1711535778,
+        "rank": 22,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 292524,
+        "num": 248361,
+        "word": "喝咖啡和吃泡面的都沉默了",
+        "onboard_time": 1711534399,
+        "rank": 23,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 248360,
+        "num": 248360,
+        "word": "陈铭回应论文争议",
+        "onboard_time": 1711526240,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 230016,
+        "num": 230016,
+        "word": "林俊杰演唱会 贵阳马拉松",
+        "onboard_time": 1711532059,
+        "rank": 25,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 31822,
+        "num": 220894,
+        "word": "演绎AirMax的不同穿搭风格",
+        "onboard_time": 1711535719,
+        "rank": 26,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 219078,
+        "num": 219078,
+        "word": "水哥一人带动清华KPI",
+        "onboard_time": 1711537219,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 218831,
+        "num": 218831,
+        "word": "何浩楠 发现了一朵错版郁金香",
+        "onboard_time": 1711537819,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 165469,
+        "num": 206135,
+        "word": "A股杀跌原因",
+        "onboard_time": 1711528937,
+        "rank": 29,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 197470,
+        "num": 197470,
+        "word": "迪拜偶遇陈哲远",
+        "onboard_time": 1711538898,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 179546,
+        "num": 179546,
+        "word": "MBTI懒惰程度排名",
+        "onboard_time": 1711532719,
+        "rank": 31,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 156064,
+        "num": 156064,
+        "word": "蒋敦豪 把这种子酿成果实",
+        "onboard_time": 1711538598,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 152379,
+        "num": 152379,
+        "word": "我国有1508万个职业主播",
+        "onboard_time": 1711535658,
+        "rank": 33,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 144175,
+        "num": 144175,
+        "word": "地磁暴全责",
+        "onboard_time": 1711511419,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 142510,
+        "num": 142510,
+        "word": "Yamy浪姐一公舞台路透",
+        "onboard_time": 1711530858,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 137935,
+        "num": 137935,
+        "word": "杨紫疑似拍戏受伤",
+        "onboard_time": 1711530737,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 137900,
+        "num": 137900,
+        "word": "李斯丹妮没认出杨幂",
+        "onboard_time": 1711533738,
+        "rank": 37,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 122437,
+        "num": 131776,
+        "word": "女子称打车爱上司机2年花了400万",
+        "onboard_time": 1711521197,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 120161,
+        "num": 128150,
+        "word": "有这10种表现说明你压力已经很大了",
+        "onboard_time": 1711537099,
+        "rank": 39,
+        "category": "健康医疗,科学科普"
+      },
+      {
+        "raw_hot": 128073,
+        "num": 128073,
+        "word": "追风者直播",
+        "onboard_time": 1711539198,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 125840,
+        "num": 125840,
+        "word": "天官赐福 封面解禁",
+        "onboard_time": 1711537518,
+        "rank": 41,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 121837,
+        "num": 121837,
+        "word": "男子校内虐杀流浪猫被大学生抓获",
+        "onboard_time": 1711523236,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 121502,
+        "num": 121502,
+        "word": "猜猜我是谁",
+        "onboard_time": 1711538358,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 121283,
+        "num": 121283,
+        "word": "cpsp",
+        "onboard_time": 1711534580,
+        "rank": 44,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 107285,
+        "num": 107285,
+        "word": "药屋少女漫画作画确诊脑动脉瘤",
+        "onboard_time": 1711537998,
+        "rank": 45,
+        "category": "动漫,作品衍生"
+      },
+      {
+        "raw_hot": 105711,
+        "num": 105711,
+        "word": "赵一博赌一把",
+        "onboard_time": 1711535058,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 99978,
+        "num": 99978,
+        "word": "TTG战胜BOA",
+        "onboard_time": 1711538178,
+        "rank": 47,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 98671,
+        "num": 98671,
+        "word": "摘下戴了390天的伊丽莎白",
+        "onboard_time": 1711529838,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 94465,
+        "num": 94465,
+        "word": "俄音乐厅恐袭事件受伤人数升至360人",
+        "onboard_time": 1711539198,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平同美国工商界和战略学术界代表合影#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1711470163483,
-  "endTime": 1711538088193,
+  "endTime": 1711539274031,
   "band_list": [
     {
       "raw_hot": 2391197,
@@ -203,6 +203,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 755464,
+      "num": 755464,
+      "word": "白鹿一口气发了28张照片",
+      "onboard_time": 1711537819,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 754239,
       "num": 754239,
       "word": "结婚10年育三子妻子报警称遭丈夫强奸",
@@ -273,6 +281,14 @@
       "onboard_time": 1711495936,
       "rank": 14,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 668560,
+      "num": 668560,
+      "word": "王诗龄晒与李湘在英国的日常",
+      "onboard_time": 1711538238,
+      "rank": 5,
+      "category": "艺人"
     },
     {
       "raw_hot": 668106,
@@ -435,20 +451,20 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 531913,
+      "num": 531913,
+      "word": "一觉醒来夏东海和锅姨在一起了",
+      "onboard_time": 1711530618,
+      "rank": 37,
+      "category": "电影"
+    },
+    {
       "raw_hot": 520478,
       "num": 411466,
       "word": "无意识却很掉秤的减肥习惯",
       "onboard_time": 1711505477,
       "rank": 30,
       "category": "运动健身"
-    },
-    {
-      "raw_hot": 517858,
-      "num": 517858,
-      "word": "一觉醒来夏东海和锅姨在一起了",
-      "onboard_time": 1711530618,
-      "rank": 37,
-      "category": "电影"
     },
     {
       "raw_hot": 508838,
@@ -521,6 +537,14 @@
       "onboard_time": 1711511419,
       "rank": 17,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 495835,
+      "num": 420993,
+      "word": "中美关系回不到过去但能够有更好的未来",
+      "onboard_time": 1711534339,
+      "rank": 39,
+      "category": "国内时政"
     },
     {
       "raw_hot": 492594,
@@ -619,14 +643,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 458213,
-      "num": 397338,
-      "word": "中美关系回不到过去但能够有更好的未来",
-      "onboard_time": 1711534339,
-      "rank": 39,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 455169,
       "num": 361109,
       "word": "A股再度跌破3000点大关",
@@ -673,6 +689,14 @@
       "onboard_time": 1711499300,
       "rank": 7,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 415790,
+      "num": 252623,
+      "word": "韩国高中生向女老师保温杯注入精液",
+      "onboard_time": 1711538539,
+      "rank": 20,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 397267,
@@ -1051,14 +1075,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 258942,
-      "num": 258942,
-      "word": "白鹿一口气发了28张照片",
-      "onboard_time": 1711537819,
-      "rank": 22,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 258805,
       "num": 266604,
       "word": "4000块的收纳师整理成这样",
@@ -1259,6 +1275,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 218831,
+      "num": 218831,
+      "word": "何浩楠 发现了一朵错版郁金香",
+      "onboard_time": 1711537819,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 218016,
       "num": 218016,
       "word": "发工资后不同年龄段的消费观",
@@ -1369,6 +1393,14 @@
       "onboard_time": 1711535658,
       "rank": 28,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 197470,
+      "num": 197470,
+      "word": "迪拜偶遇陈哲远",
+      "onboard_time": 1711538898,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 197333,
@@ -1571,14 +1603,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 170471,
-      "num": 170471,
-      "word": "何浩楠 发现了一朵错版郁金香",
-      "onboard_time": 1711537819,
-      "rank": 32,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 167517,
       "num": 167517,
       "word": "于适的胸肌会动",
@@ -1753,6 +1777,14 @@
       "onboard_time": 1711520178,
       "rank": 43,
       "category": "情感"
+    },
+    {
+      "raw_hot": 156064,
+      "num": 156064,
+      "word": "蒋敦豪 把这种子酿成果实",
+      "onboard_time": 1711538598,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 155550,
@@ -2083,6 +2115,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 128073,
+      "num": 128073,
+      "word": "追风者直播",
+      "onboard_time": 1711539198,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 127031,
       "num": 146288,
       "word": "阿根廷vs哥斯达黎加",
@@ -2113,6 +2153,14 @@
       "onboard_time": 1711528039,
       "rank": 42,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 125840,
+      "num": 125840,
+      "word": "天官赐福 封面解禁",
+      "onboard_time": 1711537518,
+      "rank": 45,
+      "category": "动漫"
     },
     {
       "raw_hot": 125786,
@@ -2163,8 +2211,16 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 121502,
+      "num": 121502,
+      "word": "猜猜我是谁",
+      "onboard_time": 1711538358,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 120828,
-      "num": 120828,
+      "num": 128150,
       "word": "有这10种表现说明你压力已经很大了",
       "onboard_time": 1711537099,
       "rank": 44,
@@ -2176,14 +2232,6 @@
       "word": "凹凸电波直播",
       "onboard_time": 1711494435,
       "rank": 18,
-      "category": "动漫"
-    },
-    {
-      "raw_hot": 119251,
-      "num": 119251,
-      "word": "天官赐福 封面解禁",
-      "onboard_time": 1711537518,
-      "rank": 45,
       "category": "动漫"
     },
     {
@@ -2212,7 +2260,7 @@
     },
     {
       "raw_hot": 116410,
-      "num": 234811,
+      "num": 249890,
       "word": "博鳌企业家惊叹黑科技",
       "onboard_time": 1711535778,
       "rank": 24,
@@ -2284,7 +2332,7 @@
     },
     {
       "raw_hot": 108913,
-      "num": 398875,
+      "num": 712458,
       "word": "NikeAirMax",
       "onboard_time": 1711533979,
       "rank": 18,
@@ -2307,6 +2355,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 107285,
+      "num": 107285,
+      "word": "药屋少女漫画作画确诊脑动脉瘤",
+      "onboard_time": 1711537998,
+      "rank": 45,
+      "category": "动漫,作品衍生"
+    },
+    {
       "raw_hot": 101869,
       "num": 101869,
       "word": "金秀贤主动降薪出演眼泪女王",
@@ -2321,6 +2377,14 @@
       "onboard_time": 1711463660,
       "rank": 45,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 99978,
+      "num": 99978,
+      "word": "TTG战胜BOA",
+      "onboard_time": 1711538178,
+      "rank": 47,
+      "category": "电竞"
     },
     {
       "raw_hot": 99651,
@@ -2361,6 +2425,14 @@
       "onboard_time": 1711464018,
       "rank": 42,
       "category": "体育"
+    },
+    {
+      "raw_hot": 94465,
+      "num": 94465,
+      "word": "俄音乐厅恐袭事件受伤人数升至360人",
+      "onboard_time": 1711539198,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 94034,
@@ -2475,6 +2547,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 51441,
+      "num": 271058,
+      "word": "三分钟带你了解Air气垫科技",
+      "onboard_time": 1711535899,
+      "rank": 18,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 50582,
       "num": 50582,
       "word": "执笔",
@@ -2539,14 +2619,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 38062,
-      "num": 271058,
-      "word": "三分钟带你了解Air气垫科技",
-      "onboard_time": 1711535899,
-      "rank": 18,
-      "category": "运动健身"
-    },
-    {
       "raw_hot": 32953,
       "num": 332684,
       "word": "杨紫真的不怕晒吗",
@@ -2563,20 +2635,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 31822,
+      "num": 220894,
+      "word": "演绎AirMax的不同穿搭风格",
+      "onboard_time": 1711535719,
+      "rank": 27,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 29739,
       "num": 29739,
       "word": "茅威涛 陈丽君爆火意料之外情理之中",
       "onboard_time": 1711480391,
       "rank": 47,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 28828,
-      "num": 206654,
-      "word": "演绎AirMax的不同穿搭风格",
-      "onboard_time": 1711535719,
-      "rank": 27,
-      "category": "运动健身"
     },
     {
       "raw_hot": 28487,
@@ -2611,20 +2683,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 23395,
+      "num": 266496,
+      "word": "一张图看懂NikeAirMax",
+      "onboard_time": 1711535899,
+      "rank": 19,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 22500,
       "num": 62247,
       "word": "玉龙雪山上空现绝美七彩祥云",
       "onboard_time": 1711470975,
       "rank": 49,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 19258,
-      "num": 266496,
-      "word": "一张图看懂NikeAirMax",
-      "onboard_time": 1711535899,
-      "rank": 19,
-      "category": "运动健身"
     },
     {
       "raw_hot": 15109,
