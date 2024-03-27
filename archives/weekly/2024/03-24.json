@@ -1,6 +1,6 @@
 {
   "startTime": 1711210803824,
-  "endTime": 1711524848067,
+  "endTime": 1711527751205,
   "band_list": [
     {
       "raw_hot": 3922233,
@@ -177,6 +177,14 @@
       "onboard_time": 1711495697,
       "rank": 25,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1944960,
+      "num": 1944960,
+      "word": "刚出生就1米85的帅宝宝来了",
+      "onboard_time": 1711525638,
+      "rank": 0,
+      "category": "幽默"
     },
     {
       "raw_hot": 1924824,
@@ -489,6 +497,14 @@
       "onboard_time": 1711289599,
       "rank": 36,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 1341487,
+      "num": 1341487,
+      "word": "陈铭回应论文争议",
+      "onboard_time": 1711526240,
+      "rank": 1,
+      "category": "艺人"
     },
     {
       "raw_hot": 1338266,
@@ -2091,6 +2107,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 550104,
+      "num": 550104,
+      "word": "我国法律无明确规定禁售冥纸",
+      "onboard_time": 1711524618,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 549830,
       "num": 662765,
       "word": "女子下班途中遭陌生男锁脖初中生相救",
@@ -2467,6 +2491,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 500471,
+      "num": 500471,
+      "word": "男子校内虐杀流浪猫被大学生抓获",
+      "onboard_time": 1711523236,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 498456,
       "num": 548726,
       "word": "美国一大桥被货船撞塌",
@@ -2489,6 +2521,14 @@
       "onboard_time": 1711511419,
       "rank": 17,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 496425,
+      "num": 496425,
+      "word": "俄罗斯击落18枚吸血鬼火箭弹",
+      "onboard_time": 1711525998,
+      "rank": 8,
+      "category": "国外时政"
     },
     {
       "raw_hot": 495201,
@@ -2561,6 +2601,14 @@
       "onboard_time": 1711512798,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 486149,
+      "num": 486149,
+      "word": "邓超摘口罩最快的一次",
+      "onboard_time": 1711524379,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 485133,
@@ -2780,7 +2828,7 @@
     },
     {
       "raw_hot": 455169,
-      "num": 309420,
+      "num": 361109,
       "word": "A股再度跌破3000点大关",
       "onboard_time": 1711523477,
       "rank": 30,
@@ -3291,14 +3339,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 380357,
-      "num": 380357,
-      "word": "男子校内虐杀流浪猫被大学生抓获",
-      "onboard_time": 1711523236,
-      "rank": 31,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 379093,
       "num": 348970,
       "word": "外媒称伊斯兰国发布袭击音乐厅视频",
@@ -3348,7 +3388,7 @@
     },
     {
       "raw_hot": 373469,
-      "num": 309220,
+      "num": 341630,
       "word": "武汉大学回应开设雷军班",
       "onboard_time": 1711521919,
       "rank": 17,
@@ -4211,6 +4251,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 286037,
+      "num": 286037,
+      "word": "逆水寒 开本",
+      "onboard_time": 1711525817,
+      "rank": 14,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 284396,
       "num": 284396,
       "word": "眼泪女王第六集",
@@ -4649,6 +4697,14 @@
       "onboard_time": 1711243639,
       "rank": 26,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 254322,
+      "num": 254322,
+      "word": "西双版纳通报游客不购物被扣购物店",
+      "onboard_time": 1711526359,
+      "rank": 17,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 253210,
@@ -5219,6 +5275,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 230615,
+      "num": 230615,
+      "word": "睡觉从不做梦是不利于健康的",
+      "onboard_time": 1711523301,
+      "rank": 43,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 230424,
       "num": 230424,
       "word": "易烊千玺宣传雪豹",
@@ -5593,6 +5657,14 @@
       "onboard_time": 1711507159,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 214719,
+      "num": 214719,
+      "word": "陈铭否认保研保博",
+      "onboard_time": 1711527319,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 214060,
@@ -6128,14 +6200,6 @@
       "word": "华西医院又完成一项全球首例",
       "onboard_time": 1711292599,
       "rank": 37,
-      "category": "健康医疗"
-    },
-    {
-      "raw_hot": 197710,
-      "num": 197710,
-      "word": "睡觉从不做梦是不利于健康的",
-      "onboard_time": 1711523301,
-      "rank": 43,
       "category": "健康医疗"
     },
     {
@@ -6739,6 +6803,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 185553,
+      "num": 185553,
+      "word": "夏之光杀青vlog",
+      "onboard_time": 1711526599,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 185455,
       "num": 185455,
       "word": "王者荣耀战队星元计划",
@@ -7187,14 +7259,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 171240,
-      "num": 171240,
-      "word": "我国法律无明确规定禁售冥纸",
-      "onboard_time": 1711524618,
-      "rank": 36,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 171159,
       "num": 171159,
       "word": "汉马",
@@ -7545,6 +7609,14 @@
       "onboard_time": 1711507037,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 164110,
+      "num": 164110,
+      "word": "星穹铁道2.1",
+      "onboard_time": 1711525998,
+      "rank": 31,
+      "category": "游戏"
     },
     {
       "raw_hot": 163948,
@@ -8163,6 +8235,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 152284,
+      "num": 152284,
+      "word": "与凤行的与是何与",
+      "onboard_time": 1711527378,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 152076,
       "num": 152076,
       "word": "男子花90万收集NBA限量版球鞋",
@@ -8201,6 +8281,14 @@
       "onboard_time": 1711322777,
       "rank": 32,
       "category": "电影"
+    },
+    {
+      "raw_hot": 150979,
+      "num": 174124,
+      "word": "中美两国各界人士要多来往多交流",
+      "onboard_time": 1711526959,
+      "rank": 29,
+      "category": "国内时政"
     },
     {
       "raw_hot": 150946,
@@ -8393,14 +8481,6 @@
       "onboard_time": 1711520418,
       "rank": 49,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 147048,
-      "num": 147048,
-      "word": "邓超摘口罩最快的一次",
-      "onboard_time": 1711524379,
-      "rank": 42,
-      "category": "综艺"
     },
     {
       "raw_hot": 146975,
@@ -9443,6 +9523,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 121722,
+      "num": 116149,
+      "word": "终究是马立奥多余了",
+      "onboard_time": 1711526478,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 121680,
       "num": 121680,
       "word": "邓超搞笑",
@@ -9681,6 +9769,14 @@
       "onboard_time": 1711247599,
       "rank": 48,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 112121,
+      "num": 112121,
+      "word": "花间令 潘杨之好隔墙对暗号",
+      "onboard_time": 1711526298,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 111910,
@@ -10385,6 +10481,14 @@
       "onboard_time": 1711450158,
       "rank": 34,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 39739,
+      "num": 1296769,
+      "word": "聚焦浙江高质量发展",
+      "onboard_time": 1711522698,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 39435,

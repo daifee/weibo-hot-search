@@ -1,0 +1,410 @@
+{
+  "runTime": 1711527751205,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1944960,
+        "num": 1944960,
+        "word": "刚出生就1米85的帅宝宝来了",
+        "onboard_time": 1711525638,
+        "rank": 0,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 1341487,
+        "num": 1341487,
+        "word": "陈铭回应论文争议",
+        "onboard_time": 1711526240,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 39739,
+        "num": 1296769,
+        "word": "聚焦浙江高质量发展",
+        "onboard_time": 1711522698,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1286827,
+        "num": 1286827,
+        "word": "第一章回国 第二章体测",
+        "onboard_time": 1711518980,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1123331,
+        "num": 1123331,
+        "word": "海底捞一天翻台率3.3次",
+        "onboard_time": 1711521499,
+        "rank": 4,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 562315,
+        "num": 562315,
+        "word": "地磁暴全责",
+        "onboard_time": 1711511419,
+        "rank": 5,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 550104,
+        "num": 550104,
+        "word": "我国法律无明确规定禁售冥纸",
+        "onboard_time": 1711524618,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 500471,
+        "num": 500471,
+        "word": "男子校内虐杀流浪猫被大学生抓获",
+        "onboard_time": 1711523236,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 496425,
+        "num": 496425,
+        "word": "俄罗斯击落18枚吸血鬼火箭弹",
+        "onboard_time": 1711525998,
+        "rank": 8,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 294601,
+        "num": 486402,
+        "word": "扫墓时焚烧冥纸谈不上是封建迷信",
+        "onboard_time": 1711519157,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 486149,
+        "num": 486149,
+        "word": "邓超摘口罩最快的一次",
+        "onboard_time": 1711524379,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 409981,
+        "num": 409981,
+        "word": "陈铭的论文",
+        "onboard_time": 1711514722,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 361109,
+        "num": 361109,
+        "word": "A股再度跌破3000点大关",
+        "onboard_time": 1711523477,
+        "rank": 12,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 341630,
+        "num": 341630,
+        "word": "武汉大学回应开设雷军班",
+        "onboard_time": 1711521919,
+        "rank": 13,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 286037,
+        "num": 286037,
+        "word": "逆水寒 开本",
+        "onboard_time": 1711525817,
+        "rank": 14,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 273110,
+        "num": 273110,
+        "word": "张颂文 你改下网名会不会好点",
+        "onboard_time": 1711508719,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 257497,
+        "num": 257497,
+        "word": "泫雅转圈",
+        "onboard_time": 1711514540,
+        "rank": 16,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 254322,
+        "num": 254322,
+        "word": "西双版纳通报游客不购物被扣购物店",
+        "onboard_time": 1711526359,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 250449,
+        "num": 250449,
+        "word": "网传春色寄情人定档",
+        "onboard_time": 1711522159,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 230615,
+        "num": 230615,
+        "word": "睡觉从不做梦是不利于健康的",
+        "onboard_time": 1711523301,
+        "rank": 19,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 316990,
+        "num": 225277,
+        "word": "90后外卖小哥称不愿缴纳社保",
+        "onboard_time": 1711521378,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 296268,
+        "num": 224066,
+        "word": "女子称打车爱上司机2年花了400万",
+        "onboard_time": 1711521197,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 214719,
+        "num": 214719,
+        "word": "陈铭否认保研保博",
+        "onboard_time": 1711527319,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 194646,
+        "num": 194646,
+        "word": "宋茜片场摔倒",
+        "onboard_time": 1711517419,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 194359,
+        "num": 194359,
+        "word": "建议好吃的店不要带对象去",
+        "onboard_time": 1711521499,
+        "rank": 24,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 189743,
+        "num": 189743,
+        "word": "南通回应禁止制造销售冥币纸钱",
+        "onboard_time": 1711521558,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 185553,
+        "num": 185553,
+        "word": "夏之光杀青vlog",
+        "onboard_time": 1711526599,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 178054,
+        "num": 178054,
+        "word": "马立奥写作业八百个小动作",
+        "onboard_time": 1711517718,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 177632,
+        "num": 177632,
+        "word": "四千五的双休和六千五的单休",
+        "onboard_time": 1711507218,
+        "rank": 28,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 150979,
+        "num": 174124,
+        "word": "中美两国各界人士要多来往多交流",
+        "onboard_time": 1711526959,
+        "rank": 29,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 171011,
+        "num": 171011,
+        "word": "爸爸煮饭费水遭女儿压迫式教育",
+        "onboard_time": 1711514180,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 164110,
+        "num": 164110,
+        "word": "星穹铁道2.1",
+        "onboard_time": 1711525998,
+        "rank": 31,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 163182,
+        "num": 163182,
+        "word": "小林制药保健品已致2死106人住院",
+        "onboard_time": 1711500498,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 158203,
+        "num": 158203,
+        "word": "周也 冰国皇太女",
+        "onboard_time": 1711514961,
+        "rank": 33,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 153006,
+        "num": 153006,
+        "word": "晚上六点半和九点半下班的区别",
+        "onboard_time": 1711522698,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 152284,
+        "num": 152284,
+        "word": "与凤行的与是何与",
+        "onboard_time": 1711527378,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 152073,
+        "num": 152073,
+        "word": "免疫力下降的5个信号",
+        "onboard_time": 1711520178,
+        "rank": 36,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 147864,
+        "num": 147864,
+        "word": "建议大家把体重秤换成这个",
+        "onboard_time": 1711514480,
+        "rank": 37,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 146667,
+        "num": 146667,
+        "word": "射雕联名",
+        "onboard_time": 1711523359,
+        "rank": 38,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 144213,
+        "num": 144213,
+        "word": "张艺兴和百分百导演起争执",
+        "onboard_time": 1711523059,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 140389,
+        "num": 140389,
+        "word": "鹿晗耍帅把假发甩掉了",
+        "onboard_time": 1711513642,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 137549,
+        "num": 137549,
+        "word": "陈楚生苏醒魏晨张杰早期写真",
+        "onboard_time": 1711517778,
+        "rank": 41,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 134531,
+        "num": 134531,
+        "word": "追风者",
+        "onboard_time": 1711526059,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 125489,
+        "num": 125489,
+        "word": "地磁暴",
+        "onboard_time": 1711518917,
+        "rank": 43,
+        "category": "自然"
+      },
+      {
+        "raw_hot": 123624,
+        "num": 123624,
+        "word": "爸爸当家3",
+        "onboard_time": 1711521857,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 118564,
+        "num": 118564,
+        "word": "九重紫官宣杀青",
+        "onboard_time": 1711522518,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 121722,
+        "num": 116149,
+        "word": "终究是马立奥多余了",
+        "onboard_time": 1711526478,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 113291,
+        "num": 113291,
+        "word": "射雕 逆水寒",
+        "onboard_time": 1711524018,
+        "rank": 47,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 112121,
+        "num": 112121,
+        "word": "花间令 潘杨之好隔墙对暗号",
+        "onboard_time": 1711526298,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 110882,
+        "num": 110882,
+        "word": "MOKA 迷路姬",
+        "onboard_time": 1711523117,
+        "rank": 49,
+        "category": "音乐"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平同美国工商界和战略学术界代表合影#"
+    }
+  }
+}
