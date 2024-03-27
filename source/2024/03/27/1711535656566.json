@@ -1,0 +1,410 @@
+{
+  "runTime": 1711535656566,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1389080,
+        "num": 1389080,
+        "word": "离异3年内不得京内购房被废止",
+        "onboard_time": 1711532899,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1044926,
+        "num": 1044926,
+        "word": "刚出生就1米85的帅宝宝来了",
+        "onboard_time": 1711525638,
+        "rank": 1,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 62283,
+        "num": 784282,
+        "word": "2023中国网络视听12大数据发布",
+        "onboard_time": 1711522337,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 549453,
+        "num": 549453,
+        "word": "刘学义郑合惠子鞠婧祎 hi6",
+        "onboard_time": 1711531038,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 517858,
+        "num": 517858,
+        "word": "一觉醒来夏东海和锅姨在一起了",
+        "onboard_time": 1711530618,
+        "rank": 4,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 461595,
+        "num": 461595,
+        "word": "胡锡进今天跌了7195元",
+        "onboard_time": 1711532779,
+        "rank": 5,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 446012,
+        "num": 446012,
+        "word": "林俊杰演唱会 贵阳马拉松",
+        "onboard_time": 1711532059,
+        "rank": 6,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 350593,
+        "num": 427802,
+        "word": "扫墓时焚烧冥纸谈不上是封建迷信",
+        "onboard_time": 1711519157,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 138023,
+        "num": 417969,
+        "word": "柯基警犬福仔被背着出街",
+        "onboard_time": 1711533018,
+        "rank": 8,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 415592,
+        "num": 415592,
+        "word": "第一章回国 第二章体测",
+        "onboard_time": 1711518980,
+        "rank": 9,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 571242,
+        "num": 415148,
+        "word": "结婚10年育三子妻子报警称遭丈夫强奸",
+        "onboard_time": 1711529418,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 407942,
+        "num": 407942,
+        "word": "陈铭回应论文争议",
+        "onboard_time": 1711526240,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 381147,
+        "num": 381147,
+        "word": "海底捞一天翻台率3.3次",
+        "onboard_time": 1711521499,
+        "rank": 12,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 365652,
+        "num": 365652,
+        "word": "李善均父亲离世",
+        "onboard_time": 1711530919,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 341951,
+        "num": 341951,
+        "word": "A股杀跌原因",
+        "onboard_time": 1711528937,
+        "rank": 14,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 108913,
+        "num": 327577,
+        "word": "NikeAirMax",
+        "onboard_time": 1711533979,
+        "rank": 15,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 318096,
+        "num": 318096,
+        "word": "Yamy浪姐一公舞台路透",
+        "onboard_time": 1711530858,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 302649,
+        "num": 302649,
+        "word": "杨紫疑似拍戏受伤",
+        "onboard_time": 1711530737,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 297818,
+        "num": 297818,
+        "word": "张庭夫妇搭上AI又瞄向海外",
+        "onboard_time": 1711533920,
+        "rank": 18,
+        "category": "艺人,财经"
+      },
+      {
+        "raw_hot": 288104,
+        "num": 288104,
+        "word": "cpsp",
+        "onboard_time": 1711534580,
+        "rank": 19,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 283222,
+        "num": 283222,
+        "word": "喝咖啡和吃泡面的都沉默了",
+        "onboard_time": 1711534399,
+        "rank": 20,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 260628,
+        "num": 260628,
+        "word": "中美关系回不到过去但能够有更好的未来",
+        "onboard_time": 1711534339,
+        "rank": 21,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 251040,
+        "num": 251040,
+        "word": "任敏 接受平凡好好爱自己",
+        "onboard_time": 1711529118,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 245336,
+        "num": 245336,
+        "word": "石凯改ID",
+        "onboard_time": 1711530980,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 244646,
+        "num": 244646,
+        "word": "李斯丹妮没认出杨幂",
+        "onboard_time": 1711533738,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 244498,
+        "num": 244498,
+        "word": "MBTI懒惰程度排名",
+        "onboard_time": 1711532719,
+        "rank": 25,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 225489,
+        "num": 225489,
+        "word": "俄罗斯击落18枚吸血鬼火箭弹",
+        "onboard_time": 1711525998,
+        "rank": 26,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 214072,
+        "num": 214072,
+        "word": "地磁暴全责",
+        "onboard_time": 1711511419,
+        "rank": 27,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 188645,
+        "num": 188645,
+        "word": "摘下戴了390天的伊丽莎白",
+        "onboard_time": 1711529838,
+        "rank": 28,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 185190,
+        "num": 185190,
+        "word": "身上爱长疙瘩的人往往有个共同的体质特点",
+        "onboard_time": 1711530078,
+        "rank": 29,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 181433,
+        "num": 181433,
+        "word": "禁售殡葬用品后南通12345接大量电话",
+        "onboard_time": 1711534938,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 179897,
+        "num": 179897,
+        "word": "女子称打车爱上司机2年花了400万",
+        "onboard_time": 1711521197,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 167085,
+        "num": 167085,
+        "word": "赵一博赌一把",
+        "onboard_time": 1711535058,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 165340,
+        "num": 165340,
+        "word": "我国法律无明确规定禁售冥纸",
+        "onboard_time": 1711524618,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 164218,
+        "num": 164218,
+        "word": "沙尘暴",
+        "onboard_time": 1711533559,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 152786,
+        "num": 152786,
+        "word": "工作不开心还有必要坚持吗",
+        "onboard_time": 1711533440,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 145505,
+        "num": 145505,
+        "word": "男子校内虐杀流浪猫被大学生抓获",
+        "onboard_time": 1711523236,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 130780,
+        "num": 130780,
+        "word": "与凤行的与是何与",
+        "onboard_time": 1711527378,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 126556,
+        "num": 126556,
+        "word": "90后外卖小哥称不愿缴纳社保",
+        "onboard_time": 1711521378,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 126224,
+        "num": 126224,
+        "word": "HR是怎么逼疯求职者的",
+        "onboard_time": 1711535419,
+        "rank": 39,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 125577,
+        "num": 125577,
+        "word": "陈铭的论文",
+        "onboard_time": 1711514722,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 110446,
+        "num": 110446,
+        "word": "天官赐福 阿昕",
+        "onboard_time": 1711535478,
+        "rank": 41,
+        "category": "动漫,作品衍生"
+      },
+      {
+        "raw_hot": 109902,
+        "num": 109902,
+        "word": "林俊杰贵阳",
+        "onboard_time": 1711529479,
+        "rank": 42,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 109628,
+        "num": 109628,
+        "word": "薛之谦重庆",
+        "onboard_time": 1711533317,
+        "rank": 43,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 102387,
+        "num": 102387,
+        "word": "胡锡进称希望A股跌破3000点是乍暖还寒",
+        "onboard_time": 1711532239,
+        "rank": 44,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 99684,
+        "num": 99684,
+        "word": "金泳勋徐明浩cha",
+        "onboard_time": 1711532599,
+        "rank": 45,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 95575,
+        "num": 95575,
+        "word": "砂金碎了",
+        "onboard_time": 1711529779,
+        "rank": 46,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 94090,
+        "num": 94090,
+        "word": "地磁暴",
+        "onboard_time": 1711518917,
+        "rank": 47,
+        "category": "自然"
+      },
+      {
+        "raw_hot": 93271,
+        "num": 93271,
+        "word": "花间令 以爱为名的绑架",
+        "onboard_time": 1711535598,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 90938,
+        "num": 90938,
+        "word": "重庆狼队的山茶花之约",
+        "onboard_time": 1711533799,
+        "rank": 49,
+        "category": "电竞"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平同美国工商界和战略学术界代表合影#"
+    }
+  }
+}
