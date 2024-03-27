@@ -1,0 +1,410 @@
+{
+  "runTime": 1711520524715,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1506920,
+        "num": 1506920,
+        "word": "地磁暴全责",
+        "onboard_time": 1711511419,
+        "rank": 0,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 1335509,
+        "num": 1335509,
+        "word": "第一章回国 第二章体测",
+        "onboard_time": 1711518980,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 131385,
+        "num": 1306576,
+        "word": "随手一拍就很出片的春天",
+        "onboard_time": 1711508118,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1279718,
+        "num": 1279718,
+        "word": "陈铭的论文",
+        "onboard_time": 1711514722,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 549716,
+        "num": 549716,
+        "word": "董宇辉回应被说架子大",
+        "onboard_time": 1711514898,
+        "rank": 4,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 522624,
+        "num": 522624,
+        "word": "周也 冰国皇太女",
+        "onboard_time": 1711514961,
+        "rank": 5,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 518155,
+        "num": 518155,
+        "word": "扫墓时焚烧冥纸谈不上是封建迷信",
+        "onboard_time": 1711519157,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 506921,
+        "num": 506921,
+        "word": "宋茜片场摔倒",
+        "onboard_time": 1711517419,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 488554,
+        "num": 488554,
+        "word": "泫雅转圈",
+        "onboard_time": 1711514540,
+        "rank": 8,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 388881,
+        "num": 474028,
+        "word": "爸爸煮饭费水遭女儿压迫式教育",
+        "onboard_time": 1711514180,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 919026,
+        "num": 473481,
+        "word": "国台办回应汪小菲在台北大S住处有关言行",
+        "onboard_time": 1711513402,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 464501,
+        "num": 464501,
+        "word": "陈楚生苏醒魏晨张杰早期写真",
+        "onboard_time": 1711517778,
+        "rank": 11,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 460954,
+        "num": 460954,
+        "word": "马立奥写作业八百个小动作",
+        "onboard_time": 1711517718,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 337502,
+        "num": 337502,
+        "word": "小林制药保健品已致2死106人住院",
+        "onboard_time": 1711500498,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 287423,
+        "num": 287423,
+        "word": "A股再度打响3000点保卫战",
+        "onboard_time": 1711519638,
+        "rank": 14,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 453331,
+        "num": 285945,
+        "word": "张颂文 你改下网名会不会好点",
+        "onboard_time": 1711508719,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 417900,
+        "num": 285901,
+        "word": "鹿晗耍帅把假发甩掉了",
+        "onboard_time": 1711513642,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 283603,
+        "num": 283603,
+        "word": "地磁暴",
+        "onboard_time": 1711518917,
+        "rank": 17,
+        "category": "自然"
+      },
+      {
+        "raw_hot": 218518,
+        "num": 218518,
+        "word": "梅西身价持续下降",
+        "onboard_time": 1711512798,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 206304,
+        "num": 206304,
+        "word": "何炅吴昕你们不要再吵了",
+        "onboard_time": 1711520238,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 311131,
+        "num": 205693,
+        "word": "建议大家把体重秤换成这个",
+        "onboard_time": 1711514480,
+        "rank": 20,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 302527,
+        "num": 205025,
+        "word": "四千五的双休和六千五的单休",
+        "onboard_time": 1711507218,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 251491,
+        "num": 204050,
+        "word": "4000块的收纳师整理成这样",
+        "onboard_time": 1711515320,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 200757,
+        "num": 200757,
+        "word": "章昊体测",
+        "onboard_time": 1711514961,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 174060,
+        "num": 200667,
+        "word": "黄泉歪了",
+        "onboard_time": 1711509499,
+        "rank": 24,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 200614,
+        "num": 200614,
+        "word": "张婧仪女高复古风",
+        "onboard_time": 1711518799,
+        "rank": 25,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 200590,
+        "num": 200590,
+        "word": "向佐的中文水平停留在12岁",
+        "onboard_time": 1711511058,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 187911,
+        "num": 187911,
+        "word": "王一博陈晓 唯一的四驱车知己",
+        "onboard_time": 1711514362,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 180080,
+        "num": 180080,
+        "word": "游本昌为追妻写一麻袋情书",
+        "onboard_time": 1711509799,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 157786,
+        "num": 168638,
+        "word": "詹姆斯很急",
+        "onboard_time": 1711519697,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 166167,
+        "num": 166167,
+        "word": "免疫力下降的5个信号",
+        "onboard_time": 1711520178,
+        "rank": 30,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 165255,
+        "num": 165255,
+        "word": "李雅凛还未恢复意识",
+        "onboard_time": 1711519459,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 159683,
+        "num": 159683,
+        "word": "国台办祝福所有两岸婚姻",
+        "onboard_time": 1711513402,
+        "rank": 32,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 155005,
+        "num": 155005,
+        "word": "曾黎评价赵丽颖",
+        "onboard_time": 1711509197,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 151598,
+        "num": 151598,
+        "word": "女子称被父亲强奸事件姑姑发声否认",
+        "onboard_time": 1711495697,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 154629,
+        "num": 150892,
+        "word": "SM新女团",
+        "onboard_time": 1711514239,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 148521,
+        "num": 148521,
+        "word": "砂金剧情",
+        "onboard_time": 1711519459,
+        "rank": 36,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 145965,
+        "num": 145965,
+        "word": "凤凰传奇抢票",
+        "onboard_time": 1711509737,
+        "rank": 37,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 139700,
+        "num": 139700,
+        "word": "00后已经觉醒了盘玉血脉",
+        "onboard_time": 1711515859,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 123779,
+        "num": 138154,
+        "word": "北京多个大厂员工爱买货币基金理财",
+        "onboard_time": 1711514059,
+        "rank": 39,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 141391,
+        "num": 138138,
+        "word": "赵露思入选VOGUE三月全球女星妆容",
+        "onboard_time": 1711511419,
+        "rank": 40,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 137698,
+        "num": 137698,
+        "word": "infj是拧巴又敏感的矛盾体",
+        "onboard_time": 1711518858,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 137550,
+        "num": 137550,
+        "word": "失眠闭眼躺着算熬夜吗",
+        "onboard_time": 1711513161,
+        "rank": 42,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 135780,
+        "num": 135780,
+        "word": "原来男生之间也会有雄竞吗",
+        "onboard_time": 1711520178,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 134682,
+        "num": 134682,
+        "word": "台湾网友关注天水麻辣烫",
+        "onboard_time": 1711511058,
+        "rank": 44,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 131479,
+        "num": 131479,
+        "word": "叉开腿坐真的是最健康坐姿吗",
+        "onboard_time": 1711503318,
+        "rank": 45,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 130957,
+        "num": 130957,
+        "word": "杨幂嘉人预告",
+        "onboard_time": 1711515561,
+        "rank": 46,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 123006,
+        "num": 123006,
+        "word": "韩庚卢靖姗撒糖",
+        "onboard_time": 1711520358,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 108679,
+        "num": 122721,
+        "word": "WTT仁川冠军赛",
+        "onboard_time": 1711516759,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 87470,
+        "num": 121569,
+        "word": "俄发布救援工作完成后恐袭现场画面",
+        "onboard_time": 1711520418,
+        "rank": 49,
+        "category": "国外时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平同洪都拉斯总统互致贺电#"
+    }
+  }
+}
