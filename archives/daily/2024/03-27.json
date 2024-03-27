@@ -1,6 +1,6 @@
 {
   "startTime": 1711470163483,
-  "endTime": 1711550050919,
+  "endTime": 1711552735583,
   "band_list": [
     {
       "raw_hot": 2391197,
@@ -48,6 +48,14 @@
       "word": "女子称被父亲强奸事件姑姑发声否认",
       "onboard_time": 1711495697,
       "rank": 25,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1976466,
+      "num": 1102192,
+      "word": "南通",
+      "onboard_time": 1711548440,
+      "rank": 27,
       "category": "社会新闻"
     },
     {
@@ -131,14 +139,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 1102192,
-      "num": 1102192,
-      "word": "南通",
-      "onboard_time": 1711548440,
-      "rank": 27,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1086890,
       "num": 921316,
       "word": "中信",
@@ -195,6 +195,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 929106,
+      "num": 929106,
+      "word": "8万的预算能在深圳玩三天吗",
+      "onboard_time": 1711548139,
+      "rank": 33,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 924937,
       "num": 924937,
       "word": "原来是地磁暴 还以为上班上的",
@@ -217,6 +225,14 @@
       "onboard_time": 1711536198,
       "rank": 1,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 845779,
+      "num": 845779,
+      "word": "冯提莫腰线",
+      "onboard_time": 1711550721,
+      "rank": 1,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 845173,
@@ -353,6 +369,14 @@
       "onboard_time": 1711507218,
       "rank": 21,
       "category": "情感"
+    },
+    {
+      "raw_hot": 659003,
+      "num": 659003,
+      "word": "王嘉尔普吉岛",
+      "onboard_time": 1711548858,
+      "rank": 37,
+      "category": "艺人"
     },
     {
       "raw_hot": 652753,
@@ -563,6 +587,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 521107,
+      "num": 459942,
+      "word": "知情人士回应腾讯大规模裁员",
+      "onboard_time": 1711546819,
+      "rank": 13,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 520478,
       "num": 411466,
       "word": "无意识却很掉秤的减肥习惯",
@@ -609,14 +641,6 @@
       "onboard_time": 1711495995,
       "rank": 42,
       "category": "教育"
-    },
-    {
-      "raw_hot": 501346,
-      "num": 459942,
-      "word": "知情人士回应腾讯大规模裁员",
-      "onboard_time": 1711546819,
-      "rank": 13,
-      "category": "互联网"
     },
     {
       "raw_hot": 500471,
@@ -819,20 +843,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 438278,
-      "num": 438278,
-      "word": "王嘉尔普吉岛",
-      "onboard_time": 1711548858,
-      "rank": 37,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 427547,
-      "num": 427547,
-      "word": "8万的预算能在深圳玩三天吗",
-      "onboard_time": 1711548139,
-      "rank": 33,
-      "category": "幽默"
+      "raw_hot": 436841,
+      "num": 234936,
+      "word": "幼儿园老师背名牌包被投诉",
+      "onboard_time": 1711549699,
+      "rank": 23,
+      "category": "情感"
     },
     {
       "raw_hot": 424454,
@@ -841,6 +857,38 @@
       "onboard_time": 1711499300,
       "rank": 7,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 404914,
+      "num": 404914,
+      "word": "全国研究生招生6年增幅超6成",
+      "onboard_time": 1711547478,
+      "rank": 25,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 401328,
+      "num": 401328,
+      "word": "老邪吐槽追风者 翻车",
+      "onboard_time": 1711549760,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 398509,
+      "num": 398509,
+      "word": "极限挑战",
+      "onboard_time": 1711551318,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 397335,
+      "num": 397335,
+      "word": "林更新成都",
+      "onboard_time": 1711551020,
+      "rank": 14,
+      "category": "艺人"
     },
     {
       "raw_hot": 397267,
@@ -1267,14 +1315,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 270160,
-      "num": 229044,
-      "word": "幼儿园老师背名牌包被投诉",
-      "onboard_time": 1711549699,
-      "rank": 23,
-      "category": "情感"
-    },
-    {
       "raw_hot": 266420,
       "num": 213576,
       "word": "湖人疯狂打铁",
@@ -1459,14 +1499,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 232055,
-      "num": 232055,
-      "word": "全国研究生招生6年增幅超6成",
-      "onboard_time": 1711547478,
-      "rank": 25,
-      "category": "教育"
-    },
-    {
       "raw_hot": 231469,
       "num": 231469,
       "word": "沙尘暴",
@@ -1627,6 +1659,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 211748,
+      "num": 211748,
+      "word": "王者荣耀版沈璃上线",
+      "onboard_time": 1711548921,
+      "rank": 30,
+      "category": "剧集,电竞"
+    },
+    {
       "raw_hot": 209851,
       "num": 209851,
       "word": "开封王婆五年前在角落练舞",
@@ -1665,6 +1705,14 @@
       "onboard_time": 1711548981,
       "rank": 28,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 201387,
+      "num": 176409,
+      "word": "Scout说不会韩语",
+      "onboard_time": 1711551801,
+      "rank": 30,
+      "category": "电竞"
     },
     {
       "raw_hot": 200779,
@@ -1787,6 +1835,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 192571,
+      "num": 192571,
+      "word": "蔡文静什么都赖地磁暴",
+      "onboard_time": 1711552460,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 192188,
       "num": 192188,
       "word": "宋亚轩刘耀文张真源互动",
@@ -1801,6 +1857,14 @@
       "onboard_time": 1711509678,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 191503,
+      "num": 191503,
+      "word": "去喜欢一个对你有空的人",
+      "onboard_time": 1711551920,
+      "rank": 26,
+      "category": "情感"
     },
     {
       "raw_hot": 189965,
@@ -1891,6 +1955,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 185589,
+      "num": 185589,
+      "word": "真的有人陷入爱里走不出来",
+      "onboard_time": 1711549819,
+      "rank": 39,
+      "category": "情感"
+    },
+    {
       "raw_hot": 185553,
       "num": 185553,
       "word": "夏之光杀青vlog",
@@ -1905,14 +1977,6 @@
       "onboard_time": 1711501339,
       "rank": 39,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 184150,
-      "num": 184150,
-      "word": "王者荣耀版沈璃上线",
-      "onboard_time": 1711548921,
-      "rank": 30,
-      "category": "剧集,电竞"
     },
     {
       "raw_hot": 182957,
@@ -2235,6 +2299,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 156013,
+      "num": 150334,
+      "word": "烈焰",
+      "onboard_time": 1711552280,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 155550,
       "num": 155550,
       "word": "TXT 大事很妙",
@@ -2273,6 +2345,14 @@
       "onboard_time": 1711519459,
       "rank": 36,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 153032,
+      "num": 153032,
+      "word": "周柯宇成立个人工作室",
+      "onboard_time": 1711550420,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 153030,
@@ -2331,14 +2411,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 150545,
-      "num": 150545,
-      "word": "老邪吐槽追风者 翻车",
-      "onboard_time": 1711549760,
-      "rank": 37,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 150417,
       "num": 241363,
       "word": "泰国vs韩国",
@@ -2360,14 +2432,6 @@
       "word": "在800年前壁画上看到了我的星座",
       "onboard_time": 1711510099,
       "rank": 36,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 148830,
-      "num": 148830,
-      "word": "真的有人陷入爱里走不出来",
-      "onboard_time": 1711549819,
-      "rank": 39,
       "category": "情感"
     },
     {
@@ -2420,7 +2484,7 @@
     },
     {
       "raw_hot": 146419,
-      "num": 668301,
+      "num": 739565,
       "word": "春天的花花接二连三开",
       "onboard_time": 1711546700,
       "rank": 2,
@@ -2473,6 +2537,14 @@
       "onboard_time": 1711542619,
       "rank": 48,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 143858,
+      "num": 143858,
+      "word": "林俊杰生日照",
+      "onboard_time": 1711552579,
+      "rank": 37,
+      "category": "艺人"
     },
     {
       "raw_hot": 141486,
@@ -2915,6 +2987,22 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 109793,
+      "num": 109793,
+      "word": "不修音是因为没钱吗",
+      "onboard_time": 1711552219,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 109338,
+      "num": 126149,
+      "word": "专家称不要把IPO当作套现百亿的致富路",
+      "onboard_time": 1711551318,
+      "rank": 39,
+      "category": "财经"
+    },
+    {
       "raw_hot": 108913,
       "num": 712458,
       "word": "NikeAirMax",
@@ -3325,6 +3413,9 @@
     },
     {
       "word": "#习近平会见荷兰首相吕特#"
+    },
+    {
+      "word": "#中美关系回不到过去但能够有更好的未来#"
     }
   ]
 }

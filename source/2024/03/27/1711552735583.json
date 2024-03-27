@@ -1,0 +1,410 @@
+{
+  "runTime": 1711552735583,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 929106,
+        "num": 929106,
+        "word": "8万的预算能在深圳玩三天吗",
+        "onboard_time": 1711548139,
+        "rank": 0,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 845779,
+        "num": 845779,
+        "word": "冯提莫腰线",
+        "onboard_time": 1711550721,
+        "rank": 1,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 104162,
+        "num": 739565,
+        "word": "春天的花花接二连三开",
+        "onboard_time": 1711546700,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 877362,
+        "num": 717221,
+        "word": "大熊猫青糍死亡",
+        "onboard_time": 1711542680,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1976466,
+        "num": 714391,
+        "word": "南通",
+        "onboard_time": 1711548440,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 659003,
+        "num": 659003,
+        "word": "王嘉尔普吉岛",
+        "onboard_time": 1711548858,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 591532,
+        "num": 591532,
+        "word": "王诗龄晒与李湘在英国的日常",
+        "onboard_time": 1711538238,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 537959,
+        "num": 537959,
+        "word": "王一博听到并立于雪山之巅笑了",
+        "onboard_time": 1711549280,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 470893,
+        "num": 470893,
+        "word": "离异3年内不得京内购房被废止",
+        "onboard_time": 1711532899,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 438068,
+        "num": 438068,
+        "word": "小米SU7续航700公里起步",
+        "onboard_time": 1711547541,
+        "rank": 9,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 521107,
+        "num": 424525,
+        "word": "知情人士回应腾讯大规模裁员",
+        "onboard_time": 1711546819,
+        "rank": 10,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 404914,
+        "num": 404914,
+        "word": "全国研究生招生6年增幅超6成",
+        "onboard_time": 1711547478,
+        "rank": 11,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 401328,
+        "num": 401328,
+        "word": "老邪吐槽追风者 翻车",
+        "onboard_time": 1711549760,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 398509,
+        "num": 398509,
+        "word": "极限挑战",
+        "onboard_time": 1711551318,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 397335,
+        "num": 397335,
+        "word": "林更新成都",
+        "onboard_time": 1711551020,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 339487,
+        "num": 339487,
+        "word": "白鹿一口气发了28张照片",
+        "onboard_time": 1711537819,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 321920,
+        "num": 321920,
+        "word": "黄景瑜我妈要百度你的电话",
+        "onboard_time": 1711543098,
+        "rank": 16,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 310302,
+        "num": 310302,
+        "word": "刚出生就1米85的帅宝宝来了",
+        "onboard_time": 1711525638,
+        "rank": 17,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 299850,
+        "num": 299850,
+        "word": "禁售殡葬用品后南通12345接大量电话",
+        "onboard_time": 1711534938,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 257694,
+        "num": 257694,
+        "word": "与凤行 送子婚姻",
+        "onboard_time": 1711545978,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 562715,
+        "num": 238538,
+        "word": "经常喝牛奶或增加这两种癌症风险",
+        "onboard_time": 1711541779,
+        "rank": 20,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 436841,
+        "num": 234936,
+        "word": "幼儿园老师背名牌包被投诉",
+        "onboard_time": 1711549699,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 322316,
+        "num": 232434,
+        "word": "韩国高中生向女老师保温杯注入精液",
+        "onboard_time": 1711538539,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 211748,
+        "num": 211748,
+        "word": "王者荣耀版沈璃上线",
+        "onboard_time": 1711548921,
+        "rank": 23,
+        "category": "剧集,电竞"
+      },
+      {
+        "raw_hot": 200111,
+        "num": 200111,
+        "word": "曝刘亦菲加盟梁朝伟新片",
+        "onboard_time": 1711544359,
+        "rank": 24,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 192571,
+        "num": 192571,
+        "word": "蔡文静什么都赖地磁暴",
+        "onboard_time": 1711552460,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 191503,
+        "num": 191503,
+        "word": "去喜欢一个对你有空的人",
+        "onboard_time": 1711551920,
+        "rank": 26,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 185589,
+        "num": 185589,
+        "word": "真的有人陷入爱里走不出来",
+        "onboard_time": 1711549819,
+        "rank": 27,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 155259,
+        "num": 180019,
+        "word": "专家称A股跌破3000点别太当回事",
+        "onboard_time": 1711544779,
+        "rank": 28,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 106593,
+        "num": 176508,
+        "word": "手足口病感染高峰",
+        "onboard_time": 1711542619,
+        "rank": 29,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 201387,
+        "num": 176409,
+        "word": "Scout说不会韩语",
+        "onboard_time": 1711551801,
+        "rank": 30,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 175569,
+        "num": 175569,
+        "word": "王一博素颜",
+        "onboard_time": 1711541478,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 169509,
+        "num": 169509,
+        "word": "终于学会删除空白页了",
+        "onboard_time": 1711542738,
+        "rank": 32,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 163113,
+        "num": 163113,
+        "word": "臀腿这下真能重获新生了",
+        "onboard_time": 1711547599,
+        "rank": 33,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 156656,
+        "num": 156656,
+        "word": "任嘉伦回应烈焰造型台词争议",
+        "onboard_time": 1711548739,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 153032,
+        "num": 153032,
+        "word": "周柯宇成立个人工作室",
+        "onboard_time": 1711550420,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 156013,
+        "num": 150334,
+        "word": "烈焰",
+        "onboard_time": 1711552280,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 143858,
+        "num": 143858,
+        "word": "林俊杰生日照",
+        "onboard_time": 1711552579,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 129405,
+        "num": 129405,
+        "word": "看到成毅的胸肌了",
+        "onboard_time": 1711546941,
+        "rank": 38,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 109338,
+        "num": 126149,
+        "word": "专家称不要把IPO当作套现百亿的致富路",
+        "onboard_time": 1711551318,
+        "rank": 39,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 125211,
+        "num": 125211,
+        "word": "张艺兴黄渤 没头脑和不高兴",
+        "onboard_time": 1711545739,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 114263,
+        "num": 114263,
+        "word": "严浩翔极挑漠河录制",
+        "onboard_time": 1711548921,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 112674,
+        "num": 112674,
+        "word": "JDG 放假",
+        "onboard_time": 1711546459,
+        "rank": 42,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 109793,
+        "num": 109793,
+        "word": "不修音是因为没钱吗",
+        "onboard_time": 1711552219,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 109695,
+        "num": 109695,
+        "word": "苏醒 老歌手的日常",
+        "onboard_time": 1711549519,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 109355,
+        "num": 109355,
+        "word": "追风者直播",
+        "onboard_time": 1711539198,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 108530,
+        "num": 108530,
+        "word": "采访刺客王一博",
+        "onboard_time": 1711548981,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 107604,
+        "num": 107604,
+        "word": "结婚10年育三子妻子报警称遭丈夫强奸",
+        "onboard_time": 1711529418,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 89680,
+        "num": 107341,
+        "word": "小林制药中国公司声明",
+        "onboard_time": 1711545439,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 84069,
+        "num": 105264,
+        "word": "莫斯科恐袭死亡升至140人",
+        "onboard_time": 1711542261,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#中美关系回不到过去但能够有更好的未来#"
+    }
+  }
+}
