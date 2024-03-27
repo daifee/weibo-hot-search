@@ -1,6 +1,6 @@
 {
   "startTime": 1711210803824,
-  "endTime": 1711527751205,
+  "endTime": 1711528532574,
   "band_list": [
     {
       "raw_hot": 3922233,
@@ -163,6 +163,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2028560,
+      "num": 2028560,
+      "word": "刚出生就1米85的帅宝宝来了",
+      "onboard_time": 1711525638,
+      "rank": 0,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 2007402,
       "num": 2007402,
       "word": "第一章回国 第二章体测",
@@ -177,14 +185,6 @@
       "onboard_time": 1711495697,
       "rank": 25,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1944960,
-      "num": 1944960,
-      "word": "刚出生就1米85的帅宝宝来了",
-      "onboard_time": 1711525638,
-      "rank": 0,
-      "category": "幽默"
     },
     {
       "raw_hot": 1924824,
@@ -1707,6 +1707,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 652241,
+      "num": 652241,
+      "word": "俄罗斯击落18枚吸血鬼火箭弹",
+      "onboard_time": 1711525998,
+      "rank": 8,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 651668,
       "num": 501642,
       "word": "Angelababy背部身材",
@@ -1971,6 +1979,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 579978,
+      "num": 579978,
+      "word": "我国法律无明确规定禁售冥纸",
+      "onboard_time": 1711524618,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 576089,
       "num": 576089,
       "word": "iOS18将采用新的主屏幕",
@@ -2105,14 +2121,6 @@
       "onboard_time": 1711513642,
       "rank": 25,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 550104,
-      "num": 550104,
-      "word": "我国法律无明确规定禁售冥纸",
-      "onboard_time": 1711524618,
-      "rank": 36,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 549830,
@@ -2521,14 +2529,6 @@
       "onboard_time": 1711511419,
       "rank": 17,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 496425,
-      "num": 496425,
-      "word": "俄罗斯击落18枚吸血鬼火箭弹",
-      "onboard_time": 1711525998,
-      "rank": 8,
-      "category": "国外时政"
     },
     {
       "raw_hot": 495201,
@@ -3899,6 +3899,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 317696,
+      "num": 317696,
+      "word": "西双版纳通报游客不购物被扣购物店",
+      "onboard_time": 1711526359,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 315073,
       "num": 315073,
       "word": "当我跟老公说孕反太难受想辞职",
@@ -4587,6 +4595,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 260461,
+      "num": 260461,
+      "word": "睡觉从不做梦是不利于健康的",
+      "onboard_time": 1711523301,
+      "rank": 43,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 260349,
       "num": 260349,
       "word": "建议大家在单位立有对象人设",
@@ -4697,14 +4713,6 @@
       "onboard_time": 1711243639,
       "rank": 26,
       "category": "运动健身"
-    },
-    {
-      "raw_hot": 254322,
-      "num": 254322,
-      "word": "西双版纳通报游客不购物被扣购物店",
-      "onboard_time": 1711526359,
-      "rank": 17,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 253210,
@@ -5171,6 +5179,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 232931,
+      "num": 232931,
+      "word": "陈铭否认保研保博",
+      "onboard_time": 1711527319,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 232821,
       "num": 232821,
       "word": "喜茶解聘倒卖周边员工",
@@ -5273,14 +5289,6 @@
       "onboard_time": 1711522518,
       "rank": 27,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 230615,
-      "num": 230615,
-      "word": "睡觉从不做梦是不利于健康的",
-      "onboard_time": 1711523301,
-      "rank": 43,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 230424,
@@ -5657,14 +5665,6 @@
       "onboard_time": 1711507159,
       "rank": 24,
       "category": "体育"
-    },
-    {
-      "raw_hot": 214719,
-      "num": 214719,
-      "word": "陈铭否认保研保博",
-      "onboard_time": 1711527319,
-      "rank": 22,
-      "category": "艺人"
     },
     {
       "raw_hot": 214060,
@@ -7299,6 +7299,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 170891,
+      "num": 170891,
+      "word": "央视AI版周处除三害",
+      "onboard_time": 1711528397,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 170857,
       "num": 170857,
       "word": "白鹿制服拍立得",
@@ -7425,6 +7433,14 @@
       "onboard_time": 1711429700,
       "rank": 41,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 168264,
+      "num": 168264,
+      "word": "与凤行的与是何与",
+      "onboard_time": 1711527378,
+      "rank": 35,
+      "category": "剧集"
     },
     {
       "raw_hot": 168217,
@@ -8211,6 +8227,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 152912,
+      "num": 152912,
+      "word": "Somi推出个人彩妆品牌",
+      "onboard_time": 1711528219,
+      "rank": 31,
+      "category": "艺人,美妆"
+    },
+    {
       "raw_hot": 152882,
       "num": 152882,
       "word": "库克体验世界首款iPhone光追手游",
@@ -8227,19 +8251,19 @@
       "category": "财经"
     },
     {
+      "raw_hot": 152811,
+      "num": 174124,
+      "word": "中美两国各界人士要多来往多交流",
+      "onboard_time": 1711526959,
+      "rank": 29,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 152418,
       "num": 152418,
       "word": "执笔",
       "onboard_time": 1711252939,
       "rank": 36,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 152284,
-      "num": 152284,
-      "word": "与凤行的与是何与",
-      "onboard_time": 1711527378,
-      "rank": 35,
       "category": "剧集"
     },
     {
@@ -8281,14 +8305,6 @@
       "onboard_time": 1711322777,
       "rank": 32,
       "category": "电影"
-    },
-    {
-      "raw_hot": 150979,
-      "num": 174124,
-      "word": "中美两国各界人士要多来往多交流",
-      "onboard_time": 1711526959,
-      "rank": 29,
-      "category": "国内时政"
     },
     {
       "raw_hot": 150946,
@@ -9419,6 +9435,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 125854,
+      "num": 125854,
+      "word": "苏锐 恋综届暗恋文学小白花",
+      "onboard_time": 1711528039,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 125355,
       "num": 125355,
       "word": "今天的她们定档预告",
@@ -9524,7 +9548,7 @@
     },
     {
       "raw_hot": 121722,
-      "num": 116149,
+      "num": 119419,
       "word": "终究是马立奥多余了",
       "onboard_time": 1711526478,
       "rank": 46,

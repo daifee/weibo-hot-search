@@ -1,0 +1,410 @@
+{
+  "runTime": 1711528532574,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2028560,
+        "num": 2028560,
+        "word": "刚出生就1米85的帅宝宝来了",
+        "onboard_time": 1711525638,
+        "rank": 0,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 1272326,
+        "num": 1272326,
+        "word": "陈铭回应论文争议",
+        "onboard_time": 1711526240,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 38168,
+        "num": 1156892,
+        "word": "聚焦浙江高质量发展",
+        "onboard_time": 1711522698,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1074756,
+        "num": 1074756,
+        "word": "第一章回国 第二章体测",
+        "onboard_time": 1711518980,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 954630,
+        "num": 954630,
+        "word": "海底捞一天翻台率3.3次",
+        "onboard_time": 1711521499,
+        "rank": 4,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 652241,
+        "num": 652241,
+        "word": "俄罗斯击落18枚吸血鬼火箭弹",
+        "onboard_time": 1711525998,
+        "rank": 5,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 579978,
+        "num": 579978,
+        "word": "我国法律无明确规定禁售冥纸",
+        "onboard_time": 1711524618,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 540934,
+        "num": 540934,
+        "word": "地磁暴全责",
+        "onboard_time": 1711511419,
+        "rank": 7,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 473591,
+        "num": 473591,
+        "word": "男子校内虐杀流浪猫被大学生抓获",
+        "onboard_time": 1711523236,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 247900,
+        "num": 336359,
+        "word": "扫墓时焚烧冥纸谈不上是封建迷信",
+        "onboard_time": 1711519157,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 331375,
+        "num": 331375,
+        "word": "A股再度跌破3000点大关",
+        "onboard_time": 1711523477,
+        "rank": 10,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 322599,
+        "num": 322599,
+        "word": "邓超摘口罩最快的一次",
+        "onboard_time": 1711524379,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 317696,
+        "num": 317696,
+        "word": "西双版纳通报游客不购物被扣购物店",
+        "onboard_time": 1711526359,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 300427,
+        "num": 300427,
+        "word": "陈铭的论文",
+        "onboard_time": 1711514722,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 271630,
+        "num": 271630,
+        "word": "武汉大学回应开设雷军班",
+        "onboard_time": 1711521919,
+        "rank": 14,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 264766,
+        "num": 264766,
+        "word": "张颂文 你改下网名会不会好点",
+        "onboard_time": 1711508719,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 263086,
+        "num": 263086,
+        "word": "泫雅转圈",
+        "onboard_time": 1711514540,
+        "rank": 16,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 260461,
+        "num": 260461,
+        "word": "睡觉从不做梦是不利于健康的",
+        "onboard_time": 1711523301,
+        "rank": 17,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 232931,
+        "num": 232931,
+        "word": "陈铭否认保研保博",
+        "onboard_time": 1711527319,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 202433,
+        "num": 202433,
+        "word": "网传春色寄情人定档",
+        "onboard_time": 1711522159,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 305975,
+        "num": 200505,
+        "word": "女子称打车爱上司机2年花了400万",
+        "onboard_time": 1711521197,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 251940,
+        "num": 199028,
+        "word": "90后外卖小哥称不愿缴纳社保",
+        "onboard_time": 1711521378,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 193974,
+        "num": 193974,
+        "word": "宋茜片场摔倒",
+        "onboard_time": 1711517419,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 180810,
+        "num": 180810,
+        "word": "四千五的双休和六千五的单休",
+        "onboard_time": 1711507218,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 176736,
+        "num": 176736,
+        "word": "建议好吃的店不要带对象去",
+        "onboard_time": 1711521499,
+        "rank": 24,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 173979,
+        "num": 173979,
+        "word": "逆水寒 开本",
+        "onboard_time": 1711525817,
+        "rank": 25,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 170891,
+        "num": 170891,
+        "word": "央视AI版周处除三害",
+        "onboard_time": 1711528397,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 168264,
+        "num": 168264,
+        "word": "与凤行的与是何与",
+        "onboard_time": 1711527378,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 163016,
+        "num": 163016,
+        "word": "周也 冰国皇太女",
+        "onboard_time": 1711514961,
+        "rank": 28,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 152811,
+        "num": 160271,
+        "word": "中美两国各界人士要多来往多交流",
+        "onboard_time": 1711526959,
+        "rank": 29,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 159350,
+        "num": 159350,
+        "word": "爸爸煮饭费水遭女儿压迫式教育",
+        "onboard_time": 1711514180,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 152912,
+        "num": 152912,
+        "word": "Somi推出个人彩妆品牌",
+        "onboard_time": 1711528219,
+        "rank": 31,
+        "category": "艺人,美妆"
+      },
+      {
+        "raw_hot": 149310,
+        "num": 149310,
+        "word": "小林制药保健品已致2死106人住院",
+        "onboard_time": 1711500498,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 149118,
+        "num": 149118,
+        "word": "晚上六点半和九点半下班的区别",
+        "onboard_time": 1711522698,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 146665,
+        "num": 146665,
+        "word": "建议大家把体重秤换成这个",
+        "onboard_time": 1711514480,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 144417,
+        "num": 144417,
+        "word": "马立奥写作业八百个小动作",
+        "onboard_time": 1711517718,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 141869,
+        "num": 141869,
+        "word": "鹿晗耍帅把假发甩掉了",
+        "onboard_time": 1711513642,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 140556,
+        "num": 140556,
+        "word": "南通回应禁止制造销售冥币纸钱",
+        "onboard_time": 1711521558,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 137079,
+        "num": 137079,
+        "word": "张艺兴和百分百导演起争执",
+        "onboard_time": 1711523059,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 135463,
+        "num": 135463,
+        "word": "陈楚生苏醒魏晨张杰早期写真",
+        "onboard_time": 1711517778,
+        "rank": 39,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 134512,
+        "num": 134512,
+        "word": "免疫力下降的5个信号",
+        "onboard_time": 1711520178,
+        "rank": 40,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 133823,
+        "num": 133823,
+        "word": "射雕联名",
+        "onboard_time": 1711523359,
+        "rank": 41,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 125854,
+        "num": 125854,
+        "word": "苏锐 恋综届暗恋文学小白花",
+        "onboard_time": 1711528039,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 124342,
+        "num": 124342,
+        "word": "地磁暴",
+        "onboard_time": 1711518917,
+        "rank": 43,
+        "category": "自然"
+      },
+      {
+        "raw_hot": 121552,
+        "num": 121552,
+        "word": "MOKA 迷路姬",
+        "onboard_time": 1711523117,
+        "rank": 44,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 119419,
+        "num": 119419,
+        "word": "终究是马立奥多余了",
+        "onboard_time": 1711526478,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 114424,
+        "num": 114424,
+        "word": "射雕 逆水寒",
+        "onboard_time": 1711524018,
+        "rank": 46,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 113630,
+        "num": 113630,
+        "word": "追风者",
+        "onboard_time": 1711526059,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 106192,
+        "num": 113553,
+        "word": "爸爸当家3",
+        "onboard_time": 1711521857,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 96617,
+        "num": 113430,
+        "word": "夏之光杀青vlog",
+        "onboard_time": 1711526599,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平会见美国工商界和战略学术界代表#"
+    }
+  }
+}
