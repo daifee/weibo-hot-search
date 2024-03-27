@@ -1,0 +1,410 @@
+{
+  "runTime": 1711543622293,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1152603,
+        "num": 1152603,
+        "word": "大熊猫青糍死亡",
+        "onboard_time": 1711542680,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1152233,
+        "num": 1152233,
+        "word": "王诗龄晒与李湘在英国的日常",
+        "onboard_time": 1711538238,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 38818,
+        "num": 919040,
+        "word": "2023中国网络视听12大数据发布",
+        "onboard_time": 1711522337,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 785636,
+        "num": 785636,
+        "word": "白鹿一口气发了28张照片",
+        "onboard_time": 1711537819,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 763404,
+        "num": 763404,
+        "word": "王一博素颜",
+        "onboard_time": 1711541478,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 632637,
+        "num": 632637,
+        "word": "离异3年内不得京内购房被废止",
+        "onboard_time": 1711532899,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 542777,
+        "num": 542777,
+        "word": "清华黑天鹅大逃亡计划落空",
+        "onboard_time": 1711539919,
+        "rank": 6,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 472597,
+        "num": 472597,
+        "word": "刚出生就1米85的帅宝宝来了",
+        "onboard_time": 1711525638,
+        "rank": 7,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 443735,
+        "num": 443735,
+        "word": "禁售殡葬用品后南通12345接大量电话",
+        "onboard_time": 1711534938,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 221881,
+        "num": 400514,
+        "word": "扫墓时焚烧冥纸谈不上是封建迷信",
+        "onboard_time": 1711519157,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 395758,
+        "num": 395758,
+        "word": "青糍",
+        "onboard_time": 1711539377,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 391881,
+        "num": 391881,
+        "word": "河南一学校劝学生自愿放弃中考",
+        "onboard_time": 1711541057,
+        "rank": 11,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 387756,
+        "num": 387756,
+        "word": "马龙vs莫雷加德",
+        "onboard_time": 1711541838,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 348229,
+        "num": 348229,
+        "word": "海底捞一天翻台率3.3次",
+        "onboard_time": 1711521499,
+        "rank": 13,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 333540,
+        "num": 333540,
+        "word": "莫斯科恐袭死亡升至140人",
+        "onboard_time": 1711542261,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 303265,
+        "num": 303265,
+        "word": "going seventeen",
+        "onboard_time": 1711541779,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 282101,
+        "num": 282101,
+        "word": "第一章回国 第二章体测",
+        "onboard_time": 1711518980,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 256816,
+        "num": 256816,
+        "word": "追风者直播",
+        "onboard_time": 1711539198,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 241330,
+        "num": 241330,
+        "word": "猎罪图鉴2拍摄进展be like",
+        "onboard_time": 1711535778,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 234575,
+        "num": 234575,
+        "word": "一觉醒来夏东海和锅姨在一起了",
+        "onboard_time": 1711530618,
+        "rank": 19,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 642800,
+        "num": 232972,
+        "word": "经常喝牛奶或增加这两种癌症风险",
+        "onboard_time": 1711541779,
+        "rank": 20,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 567424,
+        "num": 231393,
+        "word": "韩国高中生向女老师保温杯注入精液",
+        "onboard_time": 1711538539,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 227877,
+        "num": 227877,
+        "word": "与凤行 错爱的极致be",
+        "onboard_time": 1711542198,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 226552,
+        "num": 226552,
+        "word": "林俊杰演唱会 贵阳马拉松",
+        "onboard_time": 1711532059,
+        "rank": 23,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 218029,
+        "num": 218029,
+        "word": "结婚10年育三子妻子报警称遭丈夫强奸",
+        "onboard_time": 1711529418,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 193292,
+        "num": 193292,
+        "word": "中美关系回不到过去但能够有更好的未来",
+        "onboard_time": 1711534339,
+        "rank": 25,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 192908,
+        "num": 192908,
+        "word": "马嘉祺下岛",
+        "onboard_time": 1711541838,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 188172,
+        "num": 188172,
+        "word": "黄景瑜我妈要百度你的电话",
+        "onboard_time": 1711543098,
+        "rank": 27,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 174521,
+        "num": 174521,
+        "word": "100位快递小哥送别10年快递老哥",
+        "onboard_time": 1711543217,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 172095,
+        "num": 172095,
+        "word": "何浩楠 发现了一朵错版郁金香",
+        "onboard_time": 1711537819,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 354567,
+        "num": 171503,
+        "word": "终于学会删除空白页了",
+        "onboard_time": 1711542738,
+        "rank": 30,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 170763,
+        "num": 170763,
+        "word": "刘学义郑合惠子鞠婧祎 hi6",
+        "onboard_time": 1711531038,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 156353,
+        "num": 156353,
+        "word": "陈铭回应论文争议",
+        "onboard_time": 1711526240,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 154331,
+        "num": 154331,
+        "word": "模仿张元英",
+        "onboard_time": 1711539497,
+        "rank": 33,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 151295,
+        "num": 151295,
+        "word": "当我们把出租屋称为家",
+        "onboard_time": 1711539678,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 151176,
+        "num": 151176,
+        "word": "喝咖啡和吃泡面的都沉默了",
+        "onboard_time": 1711534399,
+        "rank": 35,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 149900,
+        "num": 149900,
+        "word": "小米公司胜诉海信Vidda被判道歉",
+        "onboard_time": 1711540159,
+        "rank": 36,
+        "category": "互联网,数码"
+      },
+      {
+        "raw_hot": 144600,
+        "num": 144600,
+        "word": "手足口病感染高峰",
+        "onboard_time": 1711542619,
+        "rank": 37,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 143411,
+        "num": 143411,
+        "word": "迪拜偶遇陈哲远",
+        "onboard_time": 1711538898,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 137274,
+        "num": 137274,
+        "word": "小米 vidda",
+        "onboard_time": 1711542978,
+        "rank": 39,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 133829,
+        "num": 133829,
+        "word": "A股杀跌原因",
+        "onboard_time": 1711528937,
+        "rank": 40,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 133501,
+        "num": 133501,
+        "word": "阿坝州地震",
+        "onboard_time": 1711536198,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 126471,
+        "num": 126471,
+        "word": "妖神令 千与千寻",
+        "onboard_time": 1711542137,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 124504,
+        "num": 124504,
+        "word": "魏晨当侦探定律",
+        "onboard_time": 1711541478,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 116510,
+        "num": 116510,
+        "word": "杨紫琼和孙子合照",
+        "onboard_time": 1711539798,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 113472,
+        "num": 113472,
+        "word": "Rookie对战JackeyLove",
+        "onboard_time": 1711541958,
+        "rank": 45,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 109583,
+        "num": 109583,
+        "word": "李斯丹妮没认出杨幂",
+        "onboard_time": 1711533738,
+        "rank": 46,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 103249,
+        "num": 103249,
+        "word": "与凤行 前生的债今世讨",
+        "onboard_time": 1711542438,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 102795,
+        "num": 102795,
+        "word": "林俊杰贵阳",
+        "onboard_time": 1711529479,
+        "rank": 48,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 102674,
+        "num": 102674,
+        "word": "TES对战NIP",
+        "onboard_time": 1711540519,
+        "rank": 49,
+        "category": "电竞"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平会见美国工商界和战略学术界代表#"
+    }
+  }
+}

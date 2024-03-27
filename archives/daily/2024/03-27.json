@@ -1,6 +1,6 @@
 {
   "startTime": 1711470163483,
-  "endTime": 1711542718128,
+  "endTime": 1711543622293,
   "band_list": [
     {
       "raw_hot": 2391197,
@@ -115,6 +115,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1152603,
+      "num": 1152603,
+      "word": "大熊猫青糍死亡",
+      "onboard_time": 1711542680,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1151583,
       "num": 1151583,
       "word": "29岁了爸爸还在意我快不快乐",
@@ -217,6 +225,14 @@
       "onboard_time": 1711506078,
       "rank": 46,
       "category": "美食"
+    },
+    {
+      "raw_hot": 763404,
+      "num": 763404,
+      "word": "王一博素颜",
+      "onboard_time": 1711541478,
+      "rank": 5,
+      "category": "剧集"
     },
     {
       "raw_hot": 754239,
@@ -331,6 +347,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 642800,
+      "num": 232972,
+      "word": "经常喝牛奶或增加这两种癌症风险",
+      "onboard_time": 1711541779,
+      "rank": 21,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 631051,
       "num": 631051,
       "word": "AI还原武则天",
@@ -403,14 +427,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 565301,
-      "num": 565301,
-      "word": "王一博素颜",
-      "onboard_time": 1711541478,
-      "rank": 5,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 563125,
       "num": 200182,
       "word": "外交部回应巴基斯坦炸弹袭击",
@@ -459,8 +475,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 541972,
-      "num": 541972,
+      "raw_hot": 542777,
+      "num": 542777,
       "word": "清华黑天鹅大逃亡计划落空",
       "onboard_time": 1711539919,
       "rank": 6,
@@ -699,6 +715,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 443735,
+      "num": 443735,
+      "word": "禁售殡葬用品后南通12345接大量电话",
+      "onboard_time": 1711534938,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 443122,
       "num": 443122,
       "word": "加拿大鹅宣布裁员17%",
@@ -731,12 +755,12 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 393484,
-      "num": 288332,
-      "word": "禁售殡葬用品后南通12345接大量电话",
-      "onboard_time": 1711534938,
-      "rank": 30,
-      "category": "社会新闻"
+      "raw_hot": 391881,
+      "num": 391881,
+      "word": "河南一学校劝学生自愿放弃中考",
+      "onboard_time": 1711541057,
+      "rank": 10,
+      "category": "教育"
     },
     {
       "raw_hot": 391295,
@@ -745,6 +769,14 @@
       "onboard_time": 1711530737,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 387756,
+      "num": 387756,
+      "word": "马龙vs莫雷加德",
+      "onboard_time": 1711541838,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 386916,
@@ -769,14 +801,6 @@
       "onboard_time": 1711463839,
       "rank": 11,
       "category": "演出"
-    },
-    {
-      "raw_hot": 383953,
-      "num": 220824,
-      "word": "经常喝牛奶或增加这两种癌症风险",
-      "onboard_time": 1711541779,
-      "rank": 21,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 383865,
@@ -859,6 +883,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 354567,
+      "num": 171503,
+      "word": "终于学会删除空白页了",
+      "onboard_time": 1711542738,
+      "rank": 30,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 354429,
       "num": 321631,
       "word": "何炅吴昕你们不要再吵了",
@@ -883,20 +915,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 336621,
-      "num": 336621,
-      "word": "河南一学校劝学生自愿放弃中考",
-      "onboard_time": 1711541057,
-      "rank": 10,
-      "category": "教育"
-    },
-    {
       "raw_hot": 336033,
       "num": 301192,
       "word": "建议大家把体重秤换成这个",
       "onboard_time": 1711514480,
       "rank": 26,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 333540,
+      "num": 333540,
+      "word": "莫斯科恐袭死亡升至140人",
+      "onboard_time": 1711542261,
+      "rank": 23,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 329516,
@@ -969,6 +1001,14 @@
       "onboard_time": 1711508239,
       "rank": 14,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 303265,
+      "num": 303265,
+      "word": "going seventeen",
+      "onboard_time": 1711541779,
+      "rank": 22,
+      "category": "综艺"
     },
     {
       "raw_hot": 298120,
@@ -1211,14 +1251,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 238896,
-      "num": 238896,
-      "word": "马龙vs莫雷加德",
-      "onboard_time": 1711541838,
-      "rank": 19,
-      "category": "体育"
-    },
-    {
       "raw_hot": 237923,
       "num": 236092,
       "word": "免疫力下降的5个信号",
@@ -1281,6 +1313,14 @@
       "onboard_time": 1711511779,
       "rank": 27,
       "category": "情感"
+    },
+    {
+      "raw_hot": 227877,
+      "num": 227877,
+      "word": "与凤行 错爱的极致be",
+      "onboard_time": 1711542198,
+      "rank": 29,
+      "category": "剧集"
     },
     {
       "raw_hot": 227808,
@@ -1411,22 +1451,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 207067,
-      "num": 207067,
-      "word": "going seventeen",
-      "onboard_time": 1711541779,
-      "rank": 22,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 203306,
-      "num": 203306,
-      "word": "莫斯科恐袭死亡升至140人",
-      "onboard_time": 1711542261,
-      "rank": 23,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 200779,
       "num": 200779,
       "word": "杨幂嘉人预告",
@@ -1507,19 +1531,19 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 192908,
+      "num": 192908,
+      "word": "马嘉祺下岛",
+      "onboard_time": 1711541838,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 192127,
       "num": 192127,
       "word": "音你而来官宣定档",
       "onboard_time": 1711509678,
       "rank": 32,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 192081,
-      "num": 192081,
-      "word": "马嘉祺下岛",
-      "onboard_time": 1711541838,
-      "rank": 25,
       "category": "综艺"
     },
     {
@@ -1569,6 +1593,14 @@
       "onboard_time": 1711522698,
       "rank": 39,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 188172,
+      "num": 188172,
+      "word": "黄景瑜我妈要百度你的电话",
+      "onboard_time": 1711543098,
+      "rank": 27,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 188162,
@@ -1627,14 +1659,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 184784,
-      "num": 184784,
-      "word": "与凤行 错爱的极致be",
-      "onboard_time": 1711542198,
-      "rank": 29,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 182384,
       "num": 1306576,
       "word": "随手一拍就很出片的春天",
@@ -1665,6 +1689,14 @@
       "onboard_time": 1711524018,
       "rank": 35,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 174521,
+      "num": 174521,
+      "word": "100位快递小哥送别10年快递老哥",
+      "onboard_time": 1711543217,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 173561,
@@ -2083,6 +2115,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 144600,
+      "num": 144600,
+      "word": "手足口病感染高峰",
+      "onboard_time": 1711542619,
+      "rank": 48,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 141486,
       "num": 141486,
       "word": "章昊OST成绩",
@@ -2163,6 +2203,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 137274,
+      "num": 137274,
+      "word": "小米 vidda",
+      "onboard_time": 1711542978,
+      "rank": 39,
+      "category": "数码"
+    },
+    {
       "raw_hot": 135607,
       "num": 135607,
       "word": "这是我的岛",
@@ -2201,14 +2249,6 @@
       "onboard_time": 1711462219,
       "rank": 44,
       "category": "情感"
-    },
-    {
-      "raw_hot": 134645,
-      "num": 134645,
-      "word": "大熊猫青糍死亡",
-      "onboard_time": 1711542680,
-      "rank": 40,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 134531,
@@ -2283,6 +2323,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 126471,
+      "num": 126471,
+      "word": "妖神令 千与千寻",
+      "onboard_time": 1711542137,
+      "rank": 49,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 126287,
       "num": 126287,
       "word": "终究是地磁暴扛下了所有",
@@ -2331,8 +2379,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 124345,
-      "num": 124345,
+      "raw_hot": 124504,
+      "num": 124504,
       "word": "魏晨当侦探定律",
       "onboard_time": 1711541478,
       "rank": 47,
@@ -2353,14 +2401,6 @@
       "onboard_time": 1711446618,
       "rank": 28,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 122689,
-      "num": 122689,
-      "word": "手足口病感染高峰",
-      "onboard_time": 1711542619,
-      "rank": 48,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 122615,
@@ -2401,14 +2441,6 @@
       "onboard_time": 1711494435,
       "rank": 18,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 120009,
-      "num": 120009,
-      "word": "妖神令 千与千寻",
-      "onboard_time": 1711542137,
-      "rank": 49,
-      "category": "剧集"
     },
     {
       "raw_hot": 118726,
@@ -2537,6 +2569,14 @@
       "onboard_time": 1711537998,
       "rank": 45,
       "category": "动漫,作品衍生"
+    },
+    {
+      "raw_hot": 102674,
+      "num": 102674,
+      "word": "TES对战NIP",
+      "onboard_time": 1711540519,
+      "rank": 49,
+      "category": "电竞"
     },
     {
       "raw_hot": 101869,
