@@ -1,6 +1,6 @@
 {
   "startTime": 1711470163483,
-  "endTime": 1711503104361,
+  "endTime": 1711506170482,
   "band_list": [
     {
       "raw_hot": 2092368,
@@ -12,11 +12,19 @@
     },
     {
       "raw_hot": 1979849,
-      "num": 378511,
+      "num": 434506,
       "word": "女子称被父亲强奸事件姑姑发声否认",
       "onboard_time": 1711495697,
       "rank": 25,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1772689,
+      "num": 1772689,
+      "word": "北大招办回应是否录取蔡元培",
+      "onboard_time": 1711503978,
+      "rank": 0,
+      "category": "教育"
     },
     {
       "raw_hot": 1587128,
@@ -35,6 +43,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 1055577,
+      "num": 1055577,
+      "word": "大姨开面馆凭2个浇头火了7年",
+      "onboard_time": 1711501998,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1016470,
       "num": 1016470,
       "word": "长期处于压力下身体会怎样",
@@ -44,7 +60,7 @@
     },
     {
       "raw_hot": 933572,
-      "num": 375542,
+      "num": 430118,
       "word": "Tara李雅凛试图自杀",
       "onboard_time": 1711500558,
       "rank": 11,
@@ -67,6 +83,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 681734,
+      "num": 280494,
+      "word": "福建跳楼身亡女生疑遭至少2人霸凌",
+      "onboard_time": 1711504398,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 672524,
       "num": 374286,
       "word": "大众帕萨特已经12万了",
@@ -80,6 +104,22 @@
       "word": "警方介入女子裸体现身商场",
       "onboard_time": 1711447578,
       "rank": 21,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 667908,
+      "num": 667908,
+      "word": "叉开腿坐真的是最健康坐姿吗",
+      "onboard_time": 1711503318,
+      "rank": 4,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 645327,
+      "num": 645327,
+      "word": "女孩无声直播1小时卖出20万普洱春茶",
+      "onboard_time": 1711502959,
+      "rank": 41,
       "category": "社会新闻"
     },
     {
@@ -155,12 +195,36 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 460488,
+      "num": 460488,
+      "word": "考生蔡元培北大复试后仍专业第一",
+      "onboard_time": 1711494074,
+      "rank": 6,
+      "category": "教育"
+    },
+    {
       "raw_hot": 450317,
       "num": 450317,
       "word": "赵丽颖戴高珠",
       "onboard_time": 1711496897,
       "rank": 6,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 444072,
+      "num": 427151,
+      "word": "iPhone或将配可拆卸模块电池",
+      "onboard_time": 1711500801,
+      "rank": 26,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 437577,
+      "num": 437577,
+      "word": "加拿大鹅宣布裁员17%",
+      "onboard_time": 1711502897,
+      "rank": 40,
+      "category": "时尚"
     },
     {
       "raw_hot": 424454,
@@ -171,12 +235,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 393807,
-      "num": 350216,
-      "word": "iPhone或将配可拆卸模块电池",
-      "onboard_time": 1711500801,
-      "rank": 26,
-      "category": "数码"
+      "raw_hot": 422960,
+      "num": 422960,
+      "word": "A股",
+      "onboard_time": 1711504699,
+      "rank": 13,
+      "category": "财经"
     },
     {
       "raw_hot": 386916,
@@ -209,14 +273,6 @@
       "onboard_time": 1711497259,
       "rank": 9,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 371970,
-      "num": 335993,
-      "word": "大姨开面馆凭2个浇头火了7年",
-      "onboard_time": 1711501998,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 367948,
@@ -275,6 +331,30 @@
       "category": "数码"
     },
     {
+      "raw_hot": 285368,
+      "num": 285368,
+      "word": "星穹铁道",
+      "onboard_time": 1711504820,
+      "rank": 18,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 282329,
+      "num": 172724,
+      "word": "无意识却很掉秤的减肥习惯",
+      "onboard_time": 1711505477,
+      "rank": 30,
+      "category": "运动健身"
+    },
+    {
+      "raw_hot": 281521,
+      "num": 281521,
+      "word": "70%短剧用户是中低收入群体",
+      "onboard_time": 1711505719,
+      "rank": 19,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 276097,
       "num": 276097,
       "word": "优酷待播剧预约前十",
@@ -307,6 +387,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 256839,
+      "num": 256839,
+      "word": "种地吧直播",
+      "onboard_time": 1711503918,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 252764,
       "num": 252764,
       "word": "王珞丹独居生活状态",
@@ -331,6 +419,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 242512,
+      "num": 172719,
+      "word": "湖人疯狂打铁",
+      "onboard_time": 1711505537,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 239423,
       "num": 239423,
       "word": "赵丽颖李嘉琦对手戏",
@@ -353,6 +449,14 @@
       "onboard_time": 1711499539,
       "rank": 28,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 213133,
+      "num": 213133,
+      "word": "模仿张元英转圈",
+      "onboard_time": 1711503199,
+      "rank": 26,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 209851,
@@ -427,6 +531,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 165413,
+      "num": 165413,
+      "word": "为何连卫龙也卖不动了",
+      "onboard_time": 1711503318,
+      "rank": 33,
+      "category": "美食"
+    },
+    {
       "raw_hot": 161826,
       "num": 161826,
       "word": "没工作时感觉天都要塌了",
@@ -483,20 +595,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 142690,
-      "num": 142690,
-      "word": "加拿大鹅宣布裁员17%",
-      "onboard_time": 1711502897,
-      "rank": 40,
-      "category": "时尚"
+      "raw_hot": 144983,
+      "num": 144983,
+      "word": "踩屎感拖鞋或会毁坏你的脚",
+      "onboard_time": 1711502837,
+      "rank": 43,
+      "category": "健康医疗"
     },
     {
-      "raw_hot": 142519,
-      "num": 142519,
-      "word": "女孩无声直播1小时卖出20万普洱春茶",
-      "onboard_time": 1711502959,
-      "rank": 41,
-      "category": "社会新闻"
+      "raw_hot": 144499,
+      "num": 144499,
+      "word": "陶昕然是把女儿当自己重新养一遍",
+      "onboard_time": 1711506019,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 141486,
@@ -547,14 +659,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 135872,
-      "num": 135872,
-      "word": "踩屎感拖鞋或会毁坏你的脚",
-      "onboard_time": 1711502837,
-      "rank": 43,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 135607,
       "num": 135607,
       "word": "这是我的岛",
@@ -577,6 +681,22 @@
       "onboard_time": 1711499840,
       "rank": 46,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 132195,
+      "num": 132195,
+      "word": "洗澡对于P人有多难",
+      "onboard_time": 1711503558,
+      "rank": 39,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 130303,
+      "num": 130303,
+      "word": "射频美容仪跳水式降价清仓",
+      "onboard_time": 1711505838,
+      "rank": 40,
+      "category": "美妆"
     },
     {
       "raw_hot": 128658,
@@ -635,6 +755,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 116320,
+      "num": 116320,
+      "word": "南京一米线店改名成甘肃麻辣烫店",
+      "onboard_time": 1711506078,
+      "rank": 46,
+      "category": "美食"
+    },
+    {
       "raw_hot": 115151,
       "num": 115151,
       "word": "大家不要老是幻想自己死了",
@@ -673,6 +801,22 @@
       "onboard_time": 1711464500,
       "rank": 38,
       "category": "数码"
+    },
+    {
+      "raw_hot": 110485,
+      "num": 110485,
+      "word": "你知道哪些中国戏曲种类",
+      "onboard_time": 1711505237,
+      "rank": 48,
+      "category": "科学科普"
+    },
+    {
+      "raw_hot": 108036,
+      "num": 108036,
+      "word": "4名大学室友赴十年之约自驾去拉萨",
+      "onboard_time": 1711504579,
+      "rank": 49,
+      "category": "旅游"
     },
     {
       "raw_hot": 107316,

@@ -1,0 +1,410 @@
+{
+  "runTime": 1711506170482,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1772689,
+        "num": 1772689,
+        "word": "北大招办回应是否录取蔡元培",
+        "onboard_time": 1711503978,
+        "rank": 0,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 1201714,
+        "num": 1201714,
+        "word": "小林制药保健品已致2死106人住院",
+        "onboard_time": 1711500498,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 34768,
+        "num": 1063438,
+        "word": "春日里的中国随手拍",
+        "onboard_time": 1711457539,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1055577,
+        "num": 1055577,
+        "word": "大姨开面馆凭2个浇头火了7年",
+        "onboard_time": 1711501998,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 667908,
+        "num": 667908,
+        "word": "叉开腿坐真的是最健康坐姿吗",
+        "onboard_time": 1711503318,
+        "rank": 4,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 645327,
+        "num": 645327,
+        "word": "女孩无声直播1小时卖出20万普洱春茶",
+        "onboard_time": 1711502959,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 460488,
+        "num": 460488,
+        "word": "考生蔡元培北大复试后仍专业第一",
+        "onboard_time": 1711494074,
+        "rank": 6,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 452204,
+        "num": 452204,
+        "word": "长期处于压力下身体会怎样",
+        "onboard_time": 1711467378,
+        "rank": 7,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 437577,
+        "num": 437577,
+        "word": "加拿大鹅宣布裁员17%",
+        "onboard_time": 1711502897,
+        "rank": 8,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 437219,
+        "num": 437219,
+        "word": "原来是地磁暴 还以为上班上的",
+        "onboard_time": 1711439478,
+        "rank": 9,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 1326422,
+        "num": 434506,
+        "word": "女子称被父亲强奸事件姑姑发声否认",
+        "onboard_time": 1711495697,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 629291,
+        "num": 430118,
+        "word": "Tara李雅凛试图自杀",
+        "onboard_time": 1711500558,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 444072,
+        "num": 427151,
+        "word": "iPhone或将配可拆卸模块电池",
+        "onboard_time": 1711500801,
+        "rank": 12,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 422960,
+        "num": 422960,
+        "word": "A股",
+        "onboard_time": 1711504699,
+        "rank": 13,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 314821,
+        "num": 314821,
+        "word": "南宁出现大量裸奔人士系谣言",
+        "onboard_time": 1711444700,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 311972,
+        "num": 311972,
+        "word": "迪丽热巴陈星旭墓地路透",
+        "onboard_time": 1711497259,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 293654,
+        "num": 293654,
+        "word": "空投物资致加沙18人死亡",
+        "onboard_time": 1711500498,
+        "rank": 16,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 285530,
+        "num": 285530,
+        "word": "早起后有这4个表现说明身体健康",
+        "onboard_time": 1711500498,
+        "rank": 17,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 285368,
+        "num": 285368,
+        "word": "星穹铁道",
+        "onboard_time": 1711504820,
+        "rank": 18,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 281521,
+        "num": 281521,
+        "word": "70%短剧用户是中低收入群体",
+        "onboard_time": 1711505719,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 681734,
+        "num": 280494,
+        "word": "福建跳楼身亡女生疑遭至少2人霸凌",
+        "onboard_time": 1711504398,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 337723,
+        "num": 279265,
+        "word": "姐姐离婚时发的朋友圈",
+        "onboard_time": 1711495697,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 274693,
+        "num": 274693,
+        "word": "突然断崖式降薪了",
+        "onboard_time": 1711496416,
+        "rank": 22,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 256839,
+        "num": 256839,
+        "word": "种地吧直播",
+        "onboard_time": 1711503918,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 225577,
+        "num": 225577,
+        "word": "金秀贤金智媛双人画报",
+        "onboard_time": 1711499300,
+        "rank": 24,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 215587,
+        "num": 215587,
+        "word": "与凤行16集特效",
+        "onboard_time": 1711498700,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 213133,
+        "num": 213133,
+        "word": "模仿张元英转圈",
+        "onboard_time": 1711503199,
+        "rank": 26,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 180727,
+        "num": 180727,
+        "word": "钱老这是已经重启八次人生了吧",
+        "onboard_time": 1711495995,
+        "rank": 27,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 176871,
+        "num": 176871,
+        "word": "李雅凛前夫",
+        "onboard_time": 1711502897,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 141359,
+        "num": 172730,
+        "word": "春天的花花真的很适合当头像",
+        "onboard_time": 1711498158,
+        "rank": 29,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 282329,
+        "num": 172724,
+        "word": "无意识却很掉秤的减肥习惯",
+        "onboard_time": 1711505477,
+        "rank": 30,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 242512,
+        "num": 172719,
+        "word": "湖人疯狂打铁",
+        "onboard_time": 1711505537,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 172710,
+        "num": 172710,
+        "word": "MOKA 出圈",
+        "onboard_time": 1711501339,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 165413,
+        "num": 165413,
+        "word": "为何连卫龙也卖不动了",
+        "onboard_time": 1711503318,
+        "rank": 33,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 164587,
+        "num": 164587,
+        "word": "赵丽颖戴高珠",
+        "onboard_time": 1711496897,
+        "rank": 34,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 156580,
+        "num": 156580,
+        "word": "下班后的年轻人开始搞第二事业了",
+        "onboard_time": 1711456757,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 147882,
+        "num": 147882,
+        "word": "女子怀孕后鼻子变大两倍",
+        "onboard_time": 1711455080,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 144983,
+        "num": 144983,
+        "word": "踩屎感拖鞋或会毁坏你的脚",
+        "onboard_time": 1711502837,
+        "rank": 37,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 144499,
+        "num": 144499,
+        "word": "陶昕然是把女儿当自己重新养一遍",
+        "onboard_time": 1711506019,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 132195,
+        "num": 132195,
+        "word": "洗澡对于P人有多难",
+        "onboard_time": 1711503558,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 130303,
+        "num": 130303,
+        "word": "射频美容仪跳水式降价清仓",
+        "onboard_time": 1711505838,
+        "rank": 40,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 129197,
+        "num": 129197,
+        "word": "发现研究生身上都有导师的影子",
+        "onboard_time": 1711496178,
+        "rank": 41,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 124253,
+        "num": 124253,
+        "word": "优酷待播剧预约前十",
+        "onboard_time": 1711477092,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 121109,
+        "num": 121109,
+        "word": "瘦脸伸脖子的最佳运动",
+        "onboard_time": 1711499539,
+        "rank": 43,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 120315,
+        "num": 120315,
+        "word": "没工作时感觉天都要塌了",
+        "onboard_time": 1711501099,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 118130,
+        "num": 118130,
+        "word": "论穿搭对一个人的影响有多大",
+        "onboard_time": 1711463839,
+        "rank": 45,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 116320,
+        "num": 116320,
+        "word": "南京一米线店改名成甘肃麻辣烫店",
+        "onboard_time": 1711506078,
+        "rank": 46,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 110544,
+        "num": 110544,
+        "word": "警方介入女子裸体现身商场",
+        "onboard_time": 1711447578,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 110485,
+        "num": 110485,
+        "word": "你知道哪些中国戏曲种类",
+        "onboard_time": 1711505237,
+        "rank": 48,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 108036,
+        "num": 108036,
+        "word": "4名大学室友赴十年之约自驾去拉萨",
+        "onboard_time": 1711504579,
+        "rank": 49,
+        "category": "旅游"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平同洪都拉斯总统互致贺电#"
+    }
+  }
+}
