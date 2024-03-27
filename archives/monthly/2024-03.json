@@ -1,6 +1,6 @@
 {
   "startTime": 1709223640991,
-  "endTime": 1711570663686,
+  "endTime": 1711571666396,
   "band_list": [
     {
       "raw_hot": 12728050,
@@ -75427,6 +75427,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 45350,
+      "num": 45350,
+      "word": "持续黑一个历史人物十年",
+      "onboard_time": 1711568830,
+      "rank": 15,
+      "category": "情感"
+    },
+    {
       "raw_hot": 45301,
       "num": 48004,
       "word": "与凤行播放量破5亿",
@@ -75881,6 +75889,14 @@
       "onboard_time": 1709869595,
       "rank": 19,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 38052,
+      "num": 32500,
+      "word": "女子将儿媳打得满身疤痕惹众怒",
+      "onboard_time": 1711570150,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 37860,
@@ -76819,14 +76835,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 23650,
-      "num": 23650,
-      "word": "持续黑一个历史人物十年",
-      "onboard_time": 1711568830,
-      "rank": 15,
-      "category": "情感"
-    },
-    {
       "raw_hot": 23590,
       "num": 173890,
       "word": "这场秀是在演我的精神状态吗",
@@ -77275,12 +77283,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 16759,
-      "num": 16759,
-      "word": "女子将儿媳打得满身疤痕惹众怒",
-      "onboard_time": 1711570150,
+      "raw_hot": 16819,
+      "num": 16819,
+      "word": "为什么肚子上的肉这么难减",
+      "onboard_time": 1711570751,
       "rank": 30,
-      "category": "社会新闻"
+      "category": "运动健身"
     },
     {
       "raw_hot": 16517,
@@ -77379,6 +77387,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 15279,
+      "num": 15279,
+      "word": "没和蔡依林一起去",
+      "onboard_time": 1711567751,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 15131,
       "num": 31762,
       "word": "花间令追剧日历",
@@ -77401,14 +77417,6 @@
       "onboard_time": 1709837776,
       "rank": 48,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 15100,
-      "num": 15100,
-      "word": "没和蔡依林一起去",
-      "onboard_time": 1711567751,
-      "rank": 46,
-      "category": "艺人"
     },
     {
       "raw_hot": 14916,

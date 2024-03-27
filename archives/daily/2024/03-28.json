@@ -1,6 +1,6 @@
 {
   "startTime": 1711556587484,
-  "endTime": 1711570663686,
+  "endTime": 1711571666396,
   "band_list": [
     {
       "raw_hot": 1267911,
@@ -483,6 +483,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 45350,
+      "num": 45350,
+      "word": "持续黑一个历史人物十年",
+      "onboard_time": 1711568830,
+      "rank": 15,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 38052,
+      "num": 32500,
+      "word": "女子将儿媳打得满身疤痕惹众怒",
+      "onboard_time": 1711570150,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 31621,
       "num": 31621,
       "word": "陈法拉生二胎后首露面",
@@ -515,20 +531,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 23650,
-      "num": 23650,
-      "word": "持续黑一个历史人物十年",
-      "onboard_time": 1711568830,
-      "rank": 15,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 16759,
-      "num": 16759,
-      "word": "女子将儿媳打得满身疤痕惹众怒",
-      "onboard_time": 1711570150,
+      "raw_hot": 16819,
+      "num": 16819,
+      "word": "为什么肚子上的肉这么难减",
+      "onboard_time": 1711570751,
       "rank": 30,
-      "category": "社会新闻"
+      "category": "运动健身"
     },
     {
       "raw_hot": 16051,
@@ -547,8 +555,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 15100,
-      "num": 15100,
+      "raw_hot": 15279,
+      "num": 15279,
       "word": "没和蔡依林一起去",
       "onboard_time": 1711567751,
       "rank": 46,
@@ -564,7 +572,7 @@
     },
     {
       "raw_hot": 7822,
-      "num": 16756,
+      "num": 16757,
       "word": "NikeAirMax",
       "onboard_time": 1711533979,
       "rank": 46,
