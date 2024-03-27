@@ -1,6 +1,6 @@
 {
   "startTime": 1709223640991,
-  "endTime": 1711546462108,
+  "endTime": 1711549030913,
   "band_list": [
     {
       "raw_hot": 12728050,
@@ -5611,6 +5611,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 1086890,
+      "num": 921316,
+      "word": "中信",
+      "onboard_time": 1711544179,
+      "rank": 5,
+      "category": "财经"
+    },
+    {
       "raw_hot": 1085477,
       "num": 1085477,
       "word": "中通快递",
@@ -7235,14 +7243,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 921316,
-      "num": 921316,
-      "word": "中信",
-      "onboard_time": 1711544179,
-      "rank": 5,
-      "category": "财经"
-    },
-    {
       "raw_hot": 921306,
       "num": 921306,
       "word": "深圳市原副市长黄敏被查",
@@ -8388,7 +8388,7 @@
     },
     {
       "raw_hot": 836575,
-      "num": 247316,
+      "num": 262233,
       "word": "经常喝牛奶或增加这两种癌症风险",
       "onboard_time": 1711541779,
       "rank": 21,
@@ -12435,6 +12435,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 651095,
+      "num": 651095,
+      "word": "黄景瑜我妈要百度你的电话",
+      "onboard_time": 1711543098,
+      "rank": 27,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 651082,
       "num": 351239,
       "word": "你会在洗澡中途关花洒吗",
@@ -12452,7 +12460,7 @@
     },
     {
       "raw_hot": 650776,
-      "num": 252623,
+      "num": 262202,
       "word": "韩国高中生向女老师保温杯注入精液",
       "onboard_time": 1711538539,
       "rank": 20,
@@ -12521,14 +12529,6 @@
       "onboard_time": 1710515023,
       "rank": 17,
       "category": "美食"
-    },
-    {
-      "raw_hot": 647167,
-      "num": 647167,
-      "word": "黄景瑜我妈要百度你的电话",
-      "onboard_time": 1711543098,
-      "rank": 27,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 646989,
@@ -15561,6 +15561,14 @@
       "onboard_time": 1710201690,
       "rank": 7,
       "category": "演出"
+    },
+    {
+      "raw_hot": 551898,
+      "num": 551898,
+      "word": "林更新直播给赵丽颖看小兔子",
+      "onboard_time": 1711547240,
+      "rank": 4,
+      "category": "剧集"
     },
     {
       "raw_hot": 551851,
@@ -20057,6 +20065,14 @@
       "onboard_time": 1709791351,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 453868,
+      "num": 453868,
+      "word": "小米SU7续航700公里起步",
+      "onboard_time": 1711547541,
+      "rank": 8,
+      "category": "汽车"
     },
     {
       "raw_hot": 453643,
@@ -25683,6 +25699,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 351882,
+      "num": 351882,
+      "word": "小林制药中国公司声明",
+      "onboard_time": 1711545439,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 351871,
       "num": 351871,
       "word": "一点点怎么消失了",
@@ -26081,6 +26105,14 @@
       "onboard_time": 1709958388,
       "rank": 20,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 344407,
+      "num": 344407,
+      "word": "知情人士回应腾讯大规模裁员",
+      "onboard_time": 1711546819,
+      "rank": 13,
+      "category": "互联网"
     },
     {
       "raw_hot": 344210,
@@ -29011,6 +29043,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 303617,
+      "num": 303617,
+      "word": "专家称A股跌破3000点别太当回事",
+      "onboard_time": 1711544779,
+      "rank": 38,
+      "category": "财经"
+    },
+    {
       "raw_hot": 303375,
       "num": 303375,
       "word": "大学生把娃哈哈拍出国窖风",
@@ -30089,6 +30129,14 @@
       "onboard_time": 1709531553,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 293537,
+      "num": 293537,
+      "word": "与凤行 送子婚姻",
+      "onboard_time": 1711545978,
+      "rank": 30,
+      "category": "剧集"
     },
     {
       "raw_hot": 293429,
@@ -31771,6 +31819,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 275615,
+      "num": 275615,
+      "word": "JDG 放假",
+      "onboard_time": 1711546459,
+      "rank": 17,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 275603,
       "num": 249531,
       "word": "比特币逼近历史最高纪录",
@@ -32409,14 +32465,6 @@
       "onboard_time": 1710462156,
       "rank": 23,
       "category": "情感"
-    },
-    {
-      "raw_hot": 269497,
-      "num": 269497,
-      "word": "小林制药中国公司声明",
-      "onboard_time": 1711545439,
-      "rank": 45,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 269488,
@@ -33449,6 +33497,14 @@
       "onboard_time": 1711443919,
       "rank": 29,
       "category": "情感"
+    },
+    {
+      "raw_hot": 260278,
+      "num": 260278,
+      "word": "臀腿这下真能重获新生了",
+      "onboard_time": 1711547599,
+      "rank": 23,
+      "category": "运动健身"
     },
     {
       "raw_hot": 260155,
@@ -34529,6 +34585,14 @@
       "onboard_time": 1710117814,
       "rank": 25,
       "category": "电影"
+    },
+    {
+      "raw_hot": 250543,
+      "num": 190702,
+      "word": "8万的预算能在深圳玩三天吗",
+      "onboard_time": 1711548139,
+      "rank": 33,
+      "category": "幽默"
     },
     {
       "raw_hot": 250410,
@@ -36675,6 +36739,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 235580,
+      "num": 235580,
+      "word": "赵丽颖看林更新直播",
+      "onboard_time": 1711546339,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 235489,
       "num": 235489,
       "word": "将太郎道歉",
@@ -37185,6 +37257,14 @@
       "onboard_time": 1709862330,
       "rank": 24,
       "category": "数码"
+    },
+    {
+      "raw_hot": 232055,
+      "num": 232055,
+      "word": "全国研究生招生6年增幅超6成",
+      "onboard_time": 1711547478,
+      "rank": 25,
+      "category": "教育"
     },
     {
       "raw_hot": 232050,
@@ -41131,14 +41211,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 211312,
-      "num": 211312,
-      "word": "专家称A股跌破3000点别太当回事",
-      "onboard_time": 1711544779,
-      "rank": 38,
-      "category": "财经"
-    },
-    {
       "raw_hot": 211289,
       "num": 211289,
       "word": "普京感谢选民支持",
@@ -42003,6 +42075,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 207211,
+      "num": 207211,
+      "word": "严浩翔极挑漠河录制",
+      "onboard_time": 1711548921,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 207189,
       "num": 207189,
       "word": "鹿晗纯白造型",
@@ -42665,6 +42745,14 @@
       "onboard_time": 1710155911,
       "rank": 33,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 204671,
+      "num": 204671,
+      "word": "南通",
+      "onboard_time": 1711548440,
+      "rank": 27,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 204612,
@@ -43425,6 +43513,14 @@
       "onboard_time": 1710685605,
       "rank": 36,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 202146,
+      "num": 202146,
+      "word": "采访刺客王一博",
+      "onboard_time": 1711548981,
+      "rank": 28,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 202131,
@@ -45761,6 +45857,14 @@
       "onboard_time": 1709623235,
       "rank": 28,
       "category": "情感"
+    },
+    {
+      "raw_hot": 194664,
+      "num": 194664,
+      "word": "徐杰崴脚",
+      "onboard_time": 1711547179,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 194657,
@@ -48467,14 +48571,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 185710,
-      "num": 185710,
-      "word": "赵丽颖看林更新直播",
-      "onboard_time": 1711546339,
-      "rank": 29,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 185688,
       "num": 185688,
       "word": "陈奕迅额头",
@@ -48931,14 +49027,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 183760,
-      "num": 183760,
-      "word": "与凤行 送子婚姻",
-      "onboard_time": 1711545978,
-      "rank": 30,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 183698,
       "num": 183698,
       "word": "终于知道电视里为啥喜欢买芹菜",
@@ -49105,6 +49193,14 @@
       "onboard_time": 1709529035,
       "rank": 29,
       "category": "情感"
+    },
+    {
+      "raw_hot": 182957,
+      "num": 191309,
+      "word": "LPL季后赛赛程出炉",
+      "onboard_time": 1711547779,
+      "rank": 32,
+      "category": "电竞"
     },
     {
       "raw_hot": 182950,
@@ -49360,6 +49456,14 @@
       "word": "老师不要跑全网下线",
       "onboard_time": 1711074557,
       "rank": 35,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 182073,
+      "num": 182073,
+      "word": "任嘉伦回应烈焰造型台词争议",
+      "onboard_time": 1711548739,
+      "rank": 36,
       "category": "剧集"
     },
     {
@@ -50337,6 +50441,14 @@
       "onboard_time": 1709770650,
       "rank": 35,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 178464,
+      "num": 178464,
+      "word": "王嘉尔普吉岛",
+      "onboard_time": 1711548858,
+      "rank": 37,
+      "category": "艺人"
     },
     {
       "raw_hot": 178410,
@@ -51641,6 +51753,14 @@
       "onboard_time": 1711080680,
       "rank": 44,
       "category": "动漫,作品衍生"
+    },
+    {
+      "raw_hot": 173305,
+      "num": 173305,
+      "word": "看到成毅的胸肌了",
+      "onboard_time": 1711546941,
+      "rank": 38,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 173300,
@@ -58291,6 +58411,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 151490,
+      "num": 151490,
+      "word": "专家建议让A股市场有淘汰机制",
+      "onboard_time": 1711547899,
+      "rank": 42,
+      "category": "财经"
+    },
+    {
       "raw_hot": 151489,
       "num": 151489,
       "word": "夏之光彩票代刮",
@@ -59771,6 +59899,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 146905,
+      "num": 146905,
+      "word": "2023年中信证券人均薪酬降至79万元",
+      "onboard_time": 1711548319,
+      "rank": 44,
+      "category": "财经"
+    },
+    {
       "raw_hot": 146842,
       "num": 426372,
       "word": "vivo打破折叠屏轻薄记录",
@@ -59897,6 +60033,14 @@
       "onboard_time": 1711449378,
       "rank": 47,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 146419,
+      "num": 658782,
+      "word": "春天的花花接二连三开",
+      "onboard_time": 1711546700,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 146388,
@@ -60564,7 +60708,7 @@
     },
     {
       "raw_hot": 144600,
-      "num": 144600,
+      "num": 199931,
       "word": "手足口病感染高峰",
       "onboard_time": 1711542619,
       "rank": 48,
@@ -64817,6 +64961,14 @@
       "onboard_time": 1710487776,
       "rank": 43,
       "category": "电影"
+    },
+    {
+      "raw_hot": 130465,
+      "num": 130465,
+      "word": "张杰演唱会求婚现场",
+      "onboard_time": 1711546520,
+      "rank": 46,
+      "category": "演出"
     },
     {
       "raw_hot": 130323,
