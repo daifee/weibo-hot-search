@@ -1,0 +1,410 @@
+{
+  "runTime": 1711531108127,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1869761,
+        "num": 1869761,
+        "word": "刚出生就1米85的帅宝宝来了",
+        "onboard_time": 1711525638,
+        "rank": 0,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 1036922,
+        "num": 1036922,
+        "word": "陈铭回应论文争议",
+        "onboard_time": 1711526240,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 32914,
+        "num": 870633,
+        "word": "聚焦浙江高质量发展",
+        "onboard_time": 1711522698,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 823582,
+        "num": 823582,
+        "word": "第一章回国 第二章体测",
+        "onboard_time": 1711518980,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 735395,
+        "num": 735395,
+        "word": "任敏 接受平凡好好爱自己",
+        "onboard_time": 1711529118,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 710190,
+        "num": 710190,
+        "word": "海底捞一天翻台率3.3次",
+        "onboard_time": 1711521499,
+        "rank": 5,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 628008,
+        "num": 628008,
+        "word": "俄罗斯击落18枚吸血鬼火箭弹",
+        "onboard_time": 1711525998,
+        "rank": 6,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 486881,
+        "num": 486881,
+        "word": "我国法律无明确规定禁售冥纸",
+        "onboard_time": 1711524618,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 467386,
+        "num": 467386,
+        "word": "A股杀跌原因",
+        "onboard_time": 1711528937,
+        "rank": 8,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 275530,
+        "num": 398903,
+        "word": "扫墓时焚烧冥纸谈不上是封建迷信",
+        "onboard_time": 1711519157,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 472554,
+        "num": 397198,
+        "word": "结婚10年育三子妻子报警称遭丈夫强奸",
+        "onboard_time": 1711529418,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 393774,
+        "num": 393774,
+        "word": "地磁暴全责",
+        "onboard_time": 1711511419,
+        "rank": 11,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 383865,
+        "num": 383865,
+        "word": "西双版纳通报游客不购物被扣购物店",
+        "onboard_time": 1711526359,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 383712,
+        "num": 383712,
+        "word": "林俊杰贵阳",
+        "onboard_time": 1711529479,
+        "rank": 13,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 334168,
+        "num": 334168,
+        "word": "邓超摘口罩最快的一次",
+        "onboard_time": 1711524379,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 303729,
+        "num": 303729,
+        "word": "男子校内虐杀流浪猫被大学生抓获",
+        "onboard_time": 1711523236,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 290229,
+        "num": 290229,
+        "word": "央视AI版周处除三害",
+        "onboard_time": 1711528397,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 266395,
+        "num": 266395,
+        "word": "Yamy浪姐一公舞台路透",
+        "onboard_time": 1711530858,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 241212,
+        "num": 241212,
+        "word": "张颂文 你改下网名会不会好点",
+        "onboard_time": 1711508719,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 213632,
+        "num": 237346,
+        "word": "杨幂丝绒油画妆",
+        "onboard_time": 1711529058,
+        "rank": 19,
+        "category": "作品衍生,美妆"
+      },
+      {
+        "raw_hot": 250485,
+        "num": 236816,
+        "word": "身上爱长疙瘩的人往往有个共同的体质特点",
+        "onboard_time": 1711530078,
+        "rank": 20,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 235875,
+        "num": 235875,
+        "word": "摘下戴了390天的伊丽莎白",
+        "onboard_time": 1711529838,
+        "rank": 21,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 216068,
+        "num": 216068,
+        "word": "女子称打车爱上司机2年花了400万",
+        "onboard_time": 1711521197,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 195108,
+        "num": 195108,
+        "word": "杨紫疑似拍戏受伤",
+        "onboard_time": 1711530737,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 195054,
+        "num": 195054,
+        "word": "泫雅转圈",
+        "onboard_time": 1711514540,
+        "rank": 24,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 188162,
+        "num": 188162,
+        "word": "与凤行的与是何与",
+        "onboard_time": 1711527378,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 172714,
+        "num": 172714,
+        "word": "厦门罕见双色睡莲依次绽放",
+        "onboard_time": 1711530317,
+        "rank": 26,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 167525,
+        "num": 167525,
+        "word": "90后外卖小哥称不愿缴纳社保",
+        "onboard_time": 1711521378,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 162924,
+        "num": 162924,
+        "word": "睡觉从不做梦是不利于健康的",
+        "onboard_time": 1711523301,
+        "rank": 28,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 162177,
+        "num": 162177,
+        "word": "宋茜片场摔倒",
+        "onboard_time": 1711517419,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 320815,
+        "num": 162086,
+        "word": "李善均父亲离世",
+        "onboard_time": 1711530919,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 200736,
+        "num": 160232,
+        "word": "男朋友给了地铁上陌生女生卫生巾",
+        "onboard_time": 1711530678,
+        "rank": 31,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 155369,
+        "num": 155369,
+        "word": "A股再度跌破3000点大关",
+        "onboard_time": 1711523477,
+        "rank": 32,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 155301,
+        "num": 155301,
+        "word": "陈铭的论文",
+        "onboard_time": 1711514722,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 153650,
+        "num": 153650,
+        "word": "建议好吃的店不要带对象去",
+        "onboard_time": 1711521499,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 151974,
+        "num": 151974,
+        "word": "流浪猫被收养前后判若两猫",
+        "onboard_time": 1711529960,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 142966,
+        "num": 142966,
+        "word": "爸爸煮饭费水遭女儿压迫式教育",
+        "onboard_time": 1711514180,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 142504,
+        "num": 142504,
+        "word": "一觉醒来夏东海和锅姨在一起了",
+        "onboard_time": 1711530618,
+        "rank": 37,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 142380,
+        "num": 142380,
+        "word": "小林制药保健品已致2死106人住院",
+        "onboard_time": 1711500498,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 140699,
+        "num": 140699,
+        "word": "石凯改ID",
+        "onboard_time": 1711530980,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 135540,
+        "num": 135540,
+        "word": "砂金碎了",
+        "onboard_time": 1711529779,
+        "rank": 40,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 133524,
+        "num": 133524,
+        "word": "陈铭否认保研保博",
+        "onboard_time": 1711527319,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 126940,
+        "num": 126940,
+        "word": "周也 冰国皇太女",
+        "onboard_time": 1711514961,
+        "rank": 42,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 125215,
+        "num": 125215,
+        "word": "四千五的双休和六千五的单休",
+        "onboard_time": 1711507218,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 120475,
+        "num": 120475,
+        "word": "地磁暴",
+        "onboard_time": 1711518917,
+        "rank": 44,
+        "category": "自然"
+      },
+      {
+        "raw_hot": 119183,
+        "num": 119183,
+        "word": "刘学义郑合惠子鞠婧祎 hi6",
+        "onboard_time": 1711531038,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 117053,
+        "num": 117053,
+        "word": "鹿晗耍帅把假发甩掉了",
+        "onboard_time": 1711513642,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 116945,
+        "num": 116945,
+        "word": "晚上六点半和九点半下班的区别",
+        "onboard_time": 1711522698,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 115178,
+        "num": 115178,
+        "word": "武汉大学回应开设雷军班",
+        "onboard_time": 1711521919,
+        "rank": 48,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 113868,
+        "num": 113868,
+        "word": "中美两国各界人士要多来往多交流",
+        "onboard_time": 1711526959,
+        "rank": 49,
+        "category": "国内时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平同美国工商界和战略学术界代表合影#"
+    }
+  }
+}
