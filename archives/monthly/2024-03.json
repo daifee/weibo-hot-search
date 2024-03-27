@@ -1,6 +1,6 @@
 {
   "startTime": 1709223640991,
-  "endTime": 1711535656566,
+  "endTime": 1711538088193,
   "band_list": [
     {
       "raw_hot": 12728050,
@@ -3171,6 +3171,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1409735,
+      "num": 1409735,
+      "word": "离异3年内不得京内购房被废止",
+      "onboard_time": 1711532899,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1404692,
       "num": 1404692,
       "word": "杨幂全球高定首穿",
@@ -3249,14 +3257,6 @@
       "onboard_time": 1710764851,
       "rank": 30,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 1389080,
-      "num": 1389080,
-      "word": "离异3年内不得京内购房被废止",
-      "onboard_time": 1711532899,
-      "rank": 1,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1387781,
@@ -8161,6 +8161,14 @@
       "onboard_time": 1711292181,
       "rank": 12,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 854800,
+      "num": 854800,
+      "word": "阿坝州地震",
+      "onboard_time": 1711536198,
+      "rank": 1,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 854341,
@@ -13377,6 +13385,14 @@
       "onboard_time": 1711288880,
       "rank": 6,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 614379,
+      "num": 125757,
+      "word": "家属称15岁少年遭13岁男孩刀捅身亡",
+      "onboard_time": 1711536499,
+      "rank": 40,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 613868,
@@ -18675,6 +18691,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 479343,
+      "num": 479343,
+      "word": "猎罪图鉴2拍摄进展be like",
+      "onboard_time": 1711535778,
+      "rank": 5,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 479285,
       "num": 479285,
       "word": "周也喊张淼怡",
@@ -19681,6 +19705,14 @@
       "onboard_time": 1709638472,
       "rank": 17,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 458213,
+      "num": 397338,
+      "word": "中美关系回不到过去但能够有更好的未来",
+      "onboard_time": 1711534339,
+      "rank": 39,
+      "category": "国内时政"
     },
     {
       "raw_hot": 458103,
@@ -22907,6 +22939,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 393484,
+      "num": 265303,
+      "word": "禁售殡葬用品后南通12345接大量电话",
+      "onboard_time": 1711534938,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 393192,
       "num": 393192,
       "word": "林俊杰演唱会",
@@ -24321,6 +24361,14 @@
       "onboard_time": 1711153157,
       "rank": 13,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 369915,
+      "num": 369915,
+      "word": "张庭夫妇搭上AI又瞄向海外",
+      "onboard_time": 1711533920,
+      "rank": 19,
+      "category": "艺人,财经"
     },
     {
       "raw_hot": 369786,
@@ -27915,6 +27963,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 316214,
+      "num": 283222,
+      "word": "喝咖啡和吃泡面的都沉默了",
+      "onboard_time": 1711534399,
+      "rank": 32,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 315885,
       "num": 315885,
       "word": "新裤子穿了手工耿战袍",
@@ -28793,14 +28849,6 @@
       "onboard_time": 1711291940,
       "rank": 24,
       "category": "情感"
-    },
-    {
-      "raw_hot": 303778,
-      "num": 303778,
-      "word": "张庭夫妇搭上AI又瞄向海外",
-      "onboard_time": 1711533920,
-      "rank": 19,
-      "category": "艺人,财经"
     },
     {
       "raw_hot": 303750,
@@ -30857,14 +30905,6 @@
       "onboard_time": 1710258090,
       "rank": 48,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 283222,
-      "num": 283222,
-      "word": "喝咖啡和吃泡面的都沉默了",
-      "onboard_time": 1711534399,
-      "rank": 32,
-      "category": "幽默"
     },
     {
       "raw_hot": 283047,
@@ -33187,14 +33227,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 260628,
-      "num": 260628,
-      "word": "中美关系回不到过去但能够有更好的未来",
-      "onboard_time": 1711534339,
-      "rank": 39,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 260613,
       "num": 260613,
       "word": "洁癖小猫给自己舔毛下不去嘴",
@@ -33369,6 +33401,14 @@
       "onboard_time": 1711335379,
       "rank": 23,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 258942,
+      "num": 258942,
+      "word": "白鹿一口气发了28张照片",
+      "onboard_time": 1711537819,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 258897,
@@ -34771,6 +34811,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 247429,
+      "num": 247429,
+      "word": "MBTI懒惰程度排名",
+      "onboard_time": 1711532719,
+      "rank": 25,
+      "category": "情感"
+    },
+    {
       "raw_hot": 247428,
       "num": 247428,
       "word": "分享欲为什么会逐渐消失",
@@ -35145,14 +35193,6 @@
       "onboard_time": 1711015938,
       "rank": 34,
       "category": "数码"
-    },
-    {
-      "raw_hot": 244498,
-      "num": 244498,
-      "word": "MBTI懒惰程度排名",
-      "onboard_time": 1711532719,
-      "rank": 25,
-      "category": "情感"
     },
     {
       "raw_hot": 244457,
@@ -38137,6 +38177,14 @@
       "onboard_time": 1710951928,
       "rank": 9,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 224969,
+      "num": 224969,
+      "word": "水哥一人带动清华KPI",
+      "onboard_time": 1711537219,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 224941,
@@ -44035,6 +44083,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 199254,
+      "num": 199254,
+      "word": "我国有1508万个职业主播",
+      "onboard_time": 1711535658,
+      "rank": 28,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 199230,
       "num": 199230,
       "word": "沙丘2",
@@ -49235,14 +49291,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 181433,
-      "num": 181433,
-      "word": "禁售殡葬用品后南通12345接大量电话",
-      "onboard_time": 1711534938,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 181427,
       "num": 181427,
       "word": "杨幂近期工作安排",
@@ -52105,6 +52153,14 @@
       "onboard_time": 1710237034,
       "rank": 9,
       "category": "旅游,社会新闻"
+    },
+    {
+      "raw_hot": 170471,
+      "num": 170471,
+      "word": "何浩楠 发现了一朵错版郁金香",
+      "onboard_time": 1711537819,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 170418,
@@ -59595,6 +59651,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 146029,
+      "num": 146029,
+      "word": "天官赐福 阿昕",
+      "onboard_time": 1711535478,
+      "rank": 41,
+      "category": "动漫,作品衍生"
+    },
+    {
       "raw_hot": 145986,
       "num": 145986,
       "word": "文科生的收入",
@@ -59833,6 +59897,14 @@
       "onboard_time": 1710270677,
       "rank": 41,
       "category": "情感"
+    },
+    {
+      "raw_hot": 145280,
+      "num": 470455,
+      "word": "柯基警犬福仔被背着出街",
+      "onboard_time": 1711533018,
+      "rank": 8,
+      "category": "幽默"
     },
     {
       "raw_hot": 145219,
@@ -62049,14 +62121,6 @@
       "onboard_time": 1711360219,
       "rank": 8,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 138023,
-      "num": 470455,
-      "word": "柯基警犬福仔被背着出街",
-      "onboard_time": 1711533018,
-      "rank": 8,
-      "category": "幽默"
     },
     {
       "raw_hot": 137970,
@@ -65731,6 +65795,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 125786,
+      "num": 125786,
+      "word": "花间令 以爱为名的绑架",
+      "onboard_time": 1711535598,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 125742,
       "num": 125742,
       "word": "下班了怎么还是好累",
@@ -66875,6 +66947,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 120828,
+      "num": 120828,
+      "word": "有这10种表现说明你压力已经很大了",
+      "onboard_time": 1711537099,
+      "rank": 44,
+      "category": "健康医疗,科学科普"
+    },
+    {
       "raw_hot": 120743,
       "num": 120743,
       "word": "大熊猫800个心眼子抢了0根竹子",
@@ -67129,6 +67209,14 @@
       "onboard_time": 1710099496,
       "rank": 11,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 119251,
+      "num": 119251,
+      "word": "天官赐福 封面解禁",
+      "onboard_time": 1711537518,
+      "rank": 45,
+      "category": "动漫"
     },
     {
       "raw_hot": 119207,
@@ -67865,6 +67953,14 @@
       "onboard_time": 1711437558,
       "rank": 41,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 116410,
+      "num": 234811,
+      "word": "博鳌企业家惊叹黑科技",
+      "onboard_time": 1711535778,
+      "rank": 24,
+      "category": "汽车"
     },
     {
       "raw_hot": 116373,
@@ -69131,14 +69227,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 110446,
-      "num": 110446,
-      "word": "天官赐福 阿昕",
-      "onboard_time": 1711535478,
-      "rank": 41,
-      "category": "动漫,作品衍生"
-    },
-    {
       "raw_hot": 110393,
       "num": 110393,
       "word": "勇士三连胜",
@@ -69324,7 +69412,7 @@
     },
     {
       "raw_hot": 108913,
-      "num": 327577,
+      "num": 398875,
       "word": "NikeAirMax",
       "onboard_time": 1711533979,
       "rank": 18,
@@ -71105,14 +71193,6 @@
       "onboard_time": 1710072449,
       "rank": 48,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 93271,
-      "num": 93271,
-      "word": "花间令 以爱为名的绑架",
-      "onboard_time": 1711535598,
-      "rank": 48,
-      "category": "剧集"
     },
     {
       "raw_hot": 93236,
@@ -74923,6 +75003,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 38062,
+      "num": 271058,
+      "word": "三分钟带你了解Air气垫科技",
+      "onboard_time": 1711535899,
+      "rank": 18,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 37860,
       "num": 197025,
       "word": "智能床垫有哪些优势",
@@ -75473,6 +75561,14 @@
       "onboard_time": 1709397568,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 28828,
+      "num": 206654,
+      "word": "演绎AirMax的不同穿搭风格",
+      "onboard_time": 1711535719,
+      "rank": 27,
+      "category": "运动健身"
     },
     {
       "raw_hot": 28582,
@@ -76113,6 +76209,14 @@
       "onboard_time": 1710704596,
       "rank": 43,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 19258,
+      "num": 266496,
+      "word": "一张图看懂NikeAirMax",
+      "onboard_time": 1711535899,
+      "rank": 19,
+      "category": "运动健身"
     },
     {
       "raw_hot": 19023,
