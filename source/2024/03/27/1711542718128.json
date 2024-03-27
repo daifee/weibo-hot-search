@@ -1,0 +1,410 @@
+{
+  "runTime": 1711542718128,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1204847,
+        "num": 1204847,
+        "word": "王诗龄晒与李湘在英国的日常",
+        "onboard_time": 1711538238,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 845173,
+        "num": 845173,
+        "word": "白鹿一口气发了28张照片",
+        "onboard_time": 1711537819,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 48815,
+        "num": 682209,
+        "word": "2023中国网络视听12大数据发布",
+        "onboard_time": 1711522337,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 655521,
+        "num": 655521,
+        "word": "离异3年内不得京内购房被废止",
+        "onboard_time": 1711532899,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 608337,
+        "num": 608337,
+        "word": "刚出生就1米85的帅宝宝来了",
+        "onboard_time": 1711525638,
+        "rank": 4,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 565301,
+        "num": 565301,
+        "word": "王一博素颜",
+        "onboard_time": 1711541478,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 541972,
+        "num": 541972,
+        "word": "清华黑天鹅大逃亡计划落空",
+        "onboard_time": 1711539919,
+        "rank": 6,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 530224,
+        "num": 530224,
+        "word": "青糍",
+        "onboard_time": 1711539377,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 355661,
+        "num": 355661,
+        "word": "海底捞一天翻台率3.3次",
+        "onboard_time": 1711521499,
+        "rank": 8,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 242837,
+        "num": 337712,
+        "word": "扫墓时焚烧冥纸谈不上是封建迷信",
+        "onboard_time": 1711519157,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 336621,
+        "num": 336621,
+        "word": "河南一学校劝学生自愿放弃中考",
+        "onboard_time": 1711541057,
+        "rank": 10,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 295928,
+        "num": 295928,
+        "word": "林俊杰演唱会 贵阳马拉松",
+        "onboard_time": 1711532059,
+        "rank": 11,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 290836,
+        "num": 290836,
+        "word": "第一章回国 第二章体测",
+        "onboard_time": 1711518980,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 288332,
+        "num": 288332,
+        "word": "禁售殡葬用品后南通12345接大量电话",
+        "onboard_time": 1711534938,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 282702,
+        "num": 282702,
+        "word": "追风者直播",
+        "onboard_time": 1711539198,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 273976,
+        "num": 273976,
+        "word": "一觉醒来夏东海和锅姨在一起了",
+        "onboard_time": 1711530618,
+        "rank": 15,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 272457,
+        "num": 272457,
+        "word": "猎罪图鉴2拍摄进展be like",
+        "onboard_time": 1711535778,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 267703,
+        "num": 267703,
+        "word": "中美关系回不到过去但能够有更好的未来",
+        "onboard_time": 1711534339,
+        "rank": 17,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 255126,
+        "num": 255126,
+        "word": "结婚10年育三子妻子报警称遭丈夫强奸",
+        "onboard_time": 1711529418,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 238896,
+        "num": 238896,
+        "word": "马龙vs莫雷加德",
+        "onboard_time": 1711541838,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 650776,
+        "num": 225254,
+        "word": "韩国高中生向女老师保温杯注入精液",
+        "onboard_time": 1711538539,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 383953,
+        "num": 220824,
+        "word": "经常喝牛奶或增加这两种癌症风险",
+        "onboard_time": 1711541779,
+        "rank": 21,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 207067,
+        "num": 207067,
+        "word": "going seventeen",
+        "onboard_time": 1711541779,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 203306,
+        "num": 203306,
+        "word": "莫斯科恐袭死亡升至140人",
+        "onboard_time": 1711542261,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 193011,
+        "num": 193011,
+        "word": "阿坝州地震",
+        "onboard_time": 1711536198,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 192081,
+        "num": 192081,
+        "word": "马嘉祺下岛",
+        "onboard_time": 1711541838,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 190890,
+        "num": 190890,
+        "word": "何浩楠 发现了一朵错版郁金香",
+        "onboard_time": 1711537819,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 190436,
+        "num": 190436,
+        "word": "刘学义郑合惠子鞠婧祎 hi6",
+        "onboard_time": 1711531038,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 189706,
+        "num": 189706,
+        "word": "小米公司胜诉海信Vidda被判道歉",
+        "onboard_time": 1711540159,
+        "rank": 28,
+        "category": "互联网,数码"
+      },
+      {
+        "raw_hot": 184784,
+        "num": 184784,
+        "word": "与凤行 错爱的极致be",
+        "onboard_time": 1711542198,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 181317,
+        "num": 181317,
+        "word": "喝咖啡和吃泡面的都沉默了",
+        "onboard_time": 1711534399,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 175654,
+        "num": 175654,
+        "word": "陈铭回应论文争议",
+        "onboard_time": 1711526240,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 172353,
+        "num": 172353,
+        "word": "迪拜偶遇陈哲远",
+        "onboard_time": 1711538898,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 164769,
+        "num": 164769,
+        "word": "模仿张元英",
+        "onboard_time": 1711539497,
+        "rank": 33,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 157570,
+        "num": 157570,
+        "word": "当我们把出租屋称为家",
+        "onboard_time": 1711539678,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 154451,
+        "num": 154451,
+        "word": "林俊杰贵阳",
+        "onboard_time": 1711529479,
+        "rank": 35,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 151551,
+        "num": 151551,
+        "word": "杨紫琼和孙子合照",
+        "onboard_time": 1711539798,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 148878,
+        "num": 148878,
+        "word": "李斯丹妮没认出杨幂",
+        "onboard_time": 1711533738,
+        "rank": 37,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 145195,
+        "num": 145195,
+        "word": "俄音乐厅恐袭事件受伤人数升至360人",
+        "onboard_time": 1711539198,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 138050,
+        "num": 138050,
+        "word": "与凤行 前生的债今世讨",
+        "onboard_time": 1711542438,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 134645,
+        "num": 134645,
+        "word": "大熊猫青糍死亡",
+        "onboard_time": 1711542680,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 129693,
+        "num": 129693,
+        "word": "A股杀跌原因",
+        "onboard_time": 1711528937,
+        "rank": 41,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 128556,
+        "num": 128556,
+        "word": "Rookie对战JackeyLove",
+        "onboard_time": 1711541958,
+        "rank": 42,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 127681,
+        "num": 127681,
+        "word": "教体局回应学校劝学生自愿放弃中考",
+        "onboard_time": 1711540519,
+        "rank": 43,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 126955,
+        "num": 126955,
+        "word": "张庭夫妇搭上AI又瞄向海外",
+        "onboard_time": 1711533920,
+        "rank": 44,
+        "category": "艺人,财经"
+      },
+      {
+        "raw_hot": 125807,
+        "num": 125807,
+        "word": "MBTI懒惰程度排名",
+        "onboard_time": 1711532719,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 124539,
+        "num": 124539,
+        "word": "水哥一人带动清华KPI",
+        "onboard_time": 1711537219,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 124345,
+        "num": 124345,
+        "word": "魏晨当侦探定律",
+        "onboard_time": 1711541478,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 122689,
+        "num": 122689,
+        "word": "手足口病感染高峰",
+        "onboard_time": 1711542619,
+        "rank": 48,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 120009,
+        "num": 120009,
+        "word": "妖神令 千与千寻",
+        "onboard_time": 1711542137,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平会见美国工商界和战略学术界代表#"
+    }
+  }
+}

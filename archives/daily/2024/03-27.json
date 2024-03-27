@@ -1,6 +1,6 @@
 {
   "startTime": 1711470163483,
-  "endTime": 1711539274031,
+  "endTime": 1711542718128,
   "band_list": [
     {
       "raw_hot": 2391197,
@@ -107,6 +107,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 1204847,
+      "num": 1204847,
+      "word": "王诗龄晒与李湘在英国的日常",
+      "onboard_time": 1711538238,
+      "rank": 5,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1151583,
       "num": 1151583,
       "word": "29岁了爸爸还在意我快不快乐",
@@ -187,6 +195,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 845173,
+      "num": 845173,
+      "word": "白鹿一口气发了28张照片",
+      "onboard_time": 1711537819,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 804658,
       "num": 804658,
       "word": "扫墓时焚烧冥纸谈不上是封建迷信",
@@ -201,14 +217,6 @@
       "onboard_time": 1711506078,
       "rank": 46,
       "category": "美食"
-    },
-    {
-      "raw_hot": 755464,
-      "num": 755464,
-      "word": "白鹿一口气发了28张照片",
-      "onboard_time": 1711537819,
-      "rank": 22,
-      "category": "艺人"
     },
     {
       "raw_hot": 754239,
@@ -283,14 +291,6 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 668560,
-      "num": 668560,
-      "word": "王诗龄晒与李湘在英国的日常",
-      "onboard_time": 1711538238,
-      "rank": 5,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 668106,
       "num": 254080,
       "word": "警方介入女子裸体现身商场",
@@ -321,6 +321,14 @@
       "onboard_time": 1711525998,
       "rank": 8,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 650776,
+      "num": 252623,
+      "word": "韩国高中生向女老师保温杯注入精液",
+      "onboard_time": 1711538539,
+      "rank": 20,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 631051,
@@ -395,6 +403,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 565301,
+      "num": 565301,
+      "word": "王一博素颜",
+      "onboard_time": 1711541478,
+      "rank": 5,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 563125,
       "num": 200182,
       "word": "外交部回应巴基斯坦炸弹袭击",
@@ -443,6 +459,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 541972,
+      "num": 541972,
+      "word": "清华黑天鹅大逃亡计划落空",
+      "onboard_time": 1711539919,
+      "rank": 6,
+      "category": "教育"
+    },
+    {
       "raw_hot": 532420,
       "num": 532420,
       "word": "周也 冰国皇太女",
@@ -457,6 +481,14 @@
       "onboard_time": 1711530618,
       "rank": 37,
       "category": "电影"
+    },
+    {
+      "raw_hot": 530224,
+      "num": 530224,
+      "word": "青糍",
+      "onboard_time": 1711539377,
+      "rank": 7,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 520478,
@@ -691,14 +723,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 415790,
-      "num": 252623,
-      "word": "韩国高中生向女老师保温杯注入精液",
-      "onboard_time": 1711538539,
-      "rank": 20,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 397267,
       "num": 397267,
       "word": "国台办祝福所有两岸婚姻",
@@ -708,7 +732,7 @@
     },
     {
       "raw_hot": 393484,
-      "num": 265303,
+      "num": 288332,
       "word": "禁售殡葬用品后南通12345接大量电话",
       "onboard_time": 1711534938,
       "rank": 30,
@@ -745,6 +769,14 @@
       "onboard_time": 1711463839,
       "rank": 11,
       "category": "演出"
+    },
+    {
+      "raw_hot": 383953,
+      "num": 220824,
+      "word": "经常喝牛奶或增加这两种癌症风险",
+      "onboard_time": 1711541779,
+      "rank": 21,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 383865,
@@ -849,6 +881,14 @@
       "onboard_time": 1711521197,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 336621,
+      "num": 336621,
+      "word": "河南一学校劝学生自愿放弃中考",
+      "onboard_time": 1711541057,
+      "rank": 10,
+      "category": "教育"
     },
     {
       "raw_hot": 336033,
@@ -1001,6 +1041,14 @@
       "onboard_time": 1711518917,
       "rank": 17,
       "category": "自然"
+    },
+    {
+      "raw_hot": 282702,
+      "num": 282702,
+      "word": "追风者直播",
+      "onboard_time": 1711539198,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 276097,
@@ -1161,6 +1209,14 @@
       "onboard_time": 1711458558,
       "rank": 20,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 238896,
+      "num": 238896,
+      "word": "马龙vs莫雷加德",
+      "onboard_time": 1711541838,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 237923,
@@ -1355,6 +1411,22 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 207067,
+      "num": 207067,
+      "word": "going seventeen",
+      "onboard_time": 1711541779,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 203306,
+      "num": 203306,
+      "word": "莫斯科恐袭死亡升至140人",
+      "onboard_time": 1711542261,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 200779,
       "num": 200779,
       "word": "杨幂嘉人预告",
@@ -1443,12 +1515,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 192081,
+      "num": 192081,
+      "word": "马嘉祺下岛",
+      "onboard_time": 1711541838,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 189965,
       "num": 189965,
       "word": "慕拉得向檀健次田嘉瑞粉丝道歉",
       "onboard_time": 1711506198,
       "rank": 27,
       "category": "艺人,美妆"
+    },
+    {
+      "raw_hot": 189706,
+      "num": 189706,
+      "word": "小米公司胜诉海信Vidda被判道歉",
+      "onboard_time": 1711540159,
+      "rank": 28,
+      "category": "互联网,数码"
     },
     {
       "raw_hot": 189624,
@@ -1537,6 +1625,14 @@
       "onboard_time": 1711501339,
       "rank": 39,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 184784,
+      "num": 184784,
+      "word": "与凤行 错爱的极致be",
+      "onboard_time": 1711542198,
+      "rank": 29,
+      "category": "剧集"
     },
     {
       "raw_hot": 182384,
@@ -1641,6 +1737,14 @@
       "onboard_time": 1711519459,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 164769,
+      "num": 164769,
+      "word": "模仿张元英",
+      "onboard_time": 1711539497,
+      "rank": 33,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 164394,
@@ -1763,6 +1867,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 157570,
+      "num": 157570,
+      "word": "当我们把出租屋称为家",
+      "onboard_time": 1711539678,
+      "rank": 34,
+      "category": "情感"
+    },
+    {
       "raw_hot": 157366,
       "num": 154287,
       "word": "雷军回应对标特斯拉保时捷",
@@ -1867,6 +1979,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 151551,
+      "num": 151551,
+      "word": "杨紫琼和孙子合照",
+      "onboard_time": 1711539798,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 150417,
       "num": 241363,
       "word": "泰国vs韩国",
@@ -1955,6 +2075,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 145195,
+      "num": 145195,
+      "word": "俄音乐厅恐袭事件受伤人数升至360人",
+      "onboard_time": 1711539198,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 141486,
       "num": 141486,
       "word": "章昊OST成绩",
@@ -2001,6 +2129,14 @@
       "onboard_time": 1711523539,
       "rank": 45,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 138050,
+      "num": 138050,
+      "word": "与凤行 前生的债今世讨",
+      "onboard_time": 1711542438,
+      "rank": 39,
+      "category": "剧集"
     },
     {
       "raw_hot": 137980,
@@ -2067,6 +2203,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 134645,
+      "num": 134645,
+      "word": "大熊猫青糍死亡",
+      "onboard_time": 1711542680,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 134531,
       "num": 134531,
       "word": "追风者",
@@ -2115,12 +2259,20 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 128073,
-      "num": 128073,
-      "word": "追风者直播",
-      "onboard_time": 1711539198,
-      "rank": 40,
-      "category": "剧集"
+      "raw_hot": 128556,
+      "num": 128556,
+      "word": "Rookie对战JackeyLove",
+      "onboard_time": 1711541958,
+      "rank": 42,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 127681,
+      "num": 127681,
+      "word": "教体局回应学校劝学生自愿放弃中考",
+      "onboard_time": 1711540519,
+      "rank": 43,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 127031,
@@ -2179,6 +2331,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 124345,
+      "num": 124345,
+      "word": "魏晨当侦探定律",
+      "onboard_time": 1711541478,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 123917,
       "num": 123917,
       "word": "才知道跷二郎腿会让脸变大",
@@ -2193,6 +2353,14 @@
       "onboard_time": 1711446618,
       "rank": 28,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 122689,
+      "num": 122689,
+      "word": "手足口病感染高峰",
+      "onboard_time": 1711542619,
+      "rank": 48,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 122615,
@@ -2233,6 +2401,14 @@
       "onboard_time": 1711494435,
       "rank": 18,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 120009,
+      "num": 120009,
+      "word": "妖神令 千与千寻",
+      "onboard_time": 1711542137,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 118726,
@@ -2425,14 +2601,6 @@
       "onboard_time": 1711464018,
       "rank": 42,
       "category": "体育"
-    },
-    {
-      "raw_hot": 94465,
-      "num": 94465,
-      "word": "俄音乐厅恐袭事件受伤人数升至360人",
-      "onboard_time": 1711539198,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 94034,
