@@ -1,6 +1,6 @@
 {
   "startTime": 1711470163483,
-  "endTime": 1711549030913,
+  "endTime": 1711550050919,
   "band_list": [
     {
       "raw_hot": 2391197,
@@ -129,6 +129,14 @@
       "onboard_time": 1711464979,
       "rank": 0,
       "category": "情感"
+    },
+    {
+      "raw_hot": 1102192,
+      "num": 1102192,
+      "word": "南通",
+      "onboard_time": 1711548440,
+      "rank": 27,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1086890,
@@ -475,6 +483,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 549969,
+      "num": 549969,
+      "word": "王一博听到并立于雪山之巅笑了",
+      "onboard_time": 1711549280,
+      "rank": 7,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 549716,
       "num": 549716,
       "word": "董宇辉回应被说架子大",
@@ -513,6 +529,14 @@
       "onboard_time": 1711539919,
       "rank": 6,
       "category": "教育"
+    },
+    {
+      "raw_hot": 540039,
+      "num": 540039,
+      "word": "小米SU7续航700公里起步",
+      "onboard_time": 1711547541,
+      "rank": 8,
+      "category": "汽车"
     },
     {
       "raw_hot": 532420,
@@ -585,6 +609,14 @@
       "onboard_time": 1711495995,
       "rank": 42,
       "category": "教育"
+    },
+    {
+      "raw_hot": 501346,
+      "num": 459942,
+      "word": "知情人士回应腾讯大规模裁员",
+      "onboard_time": 1711546819,
+      "rank": 13,
+      "category": "互联网"
     },
     {
       "raw_hot": 500471,
@@ -747,14 +779,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 453868,
-      "num": 453868,
-      "word": "小米SU7续航700公里起步",
-      "onboard_time": 1711547541,
-      "rank": 8,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 450317,
       "num": 450317,
       "word": "赵丽颖戴高珠",
@@ -793,6 +817,22 @@
       "onboard_time": 1711544359,
       "rank": 11,
       "category": "电影"
+    },
+    {
+      "raw_hot": 438278,
+      "num": 438278,
+      "word": "王嘉尔普吉岛",
+      "onboard_time": 1711548858,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 427547,
+      "num": 427547,
+      "word": "8万的预算能在深圳玩三天吗",
+      "onboard_time": 1711548139,
+      "rank": 33,
+      "category": "幽默"
     },
     {
       "raw_hot": 424454,
@@ -977,14 +1017,6 @@
       "onboard_time": 1711510638,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 344407,
-      "num": 344407,
-      "word": "知情人士回应腾讯大规模裁员",
-      "onboard_time": 1711546819,
-      "rank": 13,
-      "category": "互联网"
     },
     {
       "raw_hot": 342561,
@@ -1235,6 +1267,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 270160,
+      "num": 229044,
+      "word": "幼儿园老师背名牌包被投诉",
+      "onboard_time": 1711549699,
+      "rank": 23,
+      "category": "情感"
+    },
+    {
       "raw_hot": 266420,
       "num": 213576,
       "word": "湖人疯狂打铁",
@@ -1337,14 +1377,6 @@
       "onboard_time": 1711498700,
       "rank": 32,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 250543,
-      "num": 190702,
-      "word": "8万的预算能在深圳玩三天吗",
-      "onboard_time": 1711548139,
-      "rank": 33,
-      "category": "幽默"
     },
     {
       "raw_hot": 248885,
@@ -1587,6 +1619,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 212786,
+      "num": 212786,
+      "word": "任嘉伦回应烈焰造型台词争议",
+      "onboard_time": 1711548739,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 209851,
       "num": 209851,
       "word": "开封王婆五年前在角落练舞",
@@ -1617,14 +1657,6 @@
       "onboard_time": 1711548921,
       "rank": 26,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 204671,
-      "num": 204671,
-      "word": "南通",
-      "onboard_time": 1711548440,
-      "rank": 27,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 202146,
@@ -1875,6 +1907,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 184150,
+      "num": 184150,
+      "word": "王者荣耀版沈璃上线",
+      "onboard_time": 1711548921,
+      "rank": 30,
+      "category": "剧集,电竞"
+    },
+    {
       "raw_hot": 182957,
       "num": 191309,
       "word": "LPL季后赛赛程出炉",
@@ -1891,14 +1931,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 182073,
-      "num": 182073,
-      "word": "任嘉伦回应烈焰造型台词争议",
-      "onboard_time": 1711548739,
-      "rank": 36,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 181427,
       "num": 181427,
       "word": "杨幂近期工作安排",
@@ -1913,14 +1945,6 @@
       "onboard_time": 1711516759,
       "rank": 28,
       "category": "体育"
-    },
-    {
-      "raw_hot": 178464,
-      "num": 178464,
-      "word": "王嘉尔普吉岛",
-      "onboard_time": 1711548858,
-      "rank": 37,
-      "category": "艺人"
     },
     {
       "raw_hot": 175348,
@@ -2000,6 +2024,14 @@
       "word": "赵一博赌一把",
       "onboard_time": 1711535058,
       "rank": 32,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 166388,
+      "num": 166388,
+      "word": "苏醒 老歌手的日常",
+      "onboard_time": 1711549519,
+      "rank": 34,
       "category": "综艺"
     },
     {
@@ -2299,6 +2331,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 150545,
+      "num": 150545,
+      "word": "老邪吐槽追风者 翻车",
+      "onboard_time": 1711549760,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 150417,
       "num": 241363,
       "word": "泰国vs韩国",
@@ -2307,11 +2347,27 @@
       "category": "体育"
     },
     {
+      "raw_hot": 149888,
+      "num": 149888,
+      "word": "与凤行预告",
+      "onboard_time": 1711549280,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 149817,
       "num": 149817,
       "word": "在800年前壁画上看到了我的星座",
       "onboard_time": 1711510099,
       "rank": 36,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 148830,
+      "num": 148830,
+      "word": "真的有人陷入爱里走不出来",
+      "onboard_time": 1711549819,
+      "rank": 39,
       "category": "情感"
     },
     {
@@ -2364,7 +2420,7 @@
     },
     {
       "raw_hot": 146419,
-      "num": 658782,
+      "num": 668301,
       "word": "春天的花花接二连三开",
       "onboard_time": 1711546700,
       "rank": 2,

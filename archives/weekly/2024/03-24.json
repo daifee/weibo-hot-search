@@ -1,6 +1,6 @@
 {
   "startTime": 1711210803824,
-  "endTime": 1711549030913,
+  "endTime": 1711550050919,
   "band_list": [
     {
       "raw_hot": 3922233,
@@ -777,6 +777,14 @@
       "onboard_time": 1711287080,
       "rank": 26,
       "category": "母婴育儿"
+    },
+    {
+      "raw_hot": 1102192,
+      "num": 1102192,
+      "word": "南通",
+      "onboard_time": 1711548440,
+      "rank": 27,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1095772,
@@ -2259,6 +2267,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 549969,
+      "num": 549969,
+      "word": "王一博听到并立于雪山之巅笑了",
+      "onboard_time": 1711549280,
+      "rank": 7,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 549830,
       "num": 662765,
       "word": "女子下班途中遭陌生男锁脖初中生相救",
@@ -2385,6 +2401,14 @@
       "onboard_time": 1711422738,
       "rank": 34,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 540039,
+      "num": 540039,
+      "word": "小米SU7续航700公里起步",
+      "onboard_time": 1711547541,
+      "rank": 8,
+      "category": "汽车"
     },
     {
       "raw_hot": 538379,
@@ -2657,6 +2681,14 @@
       "onboard_time": 1711373180,
       "rank": 27,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 501346,
+      "num": 459942,
+      "word": "知情人士回应腾讯大规模裁员",
+      "onboard_time": 1711546819,
+      "rank": 13,
+      "category": "互联网"
     },
     {
       "raw_hot": 500732,
@@ -3075,14 +3107,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 453868,
-      "num": 453868,
-      "word": "小米SU7续航700公里起步",
-      "onboard_time": 1711547541,
-      "rank": 8,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 450317,
       "num": 450317,
       "word": "赵丽颖戴高珠",
@@ -3179,6 +3203,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 438278,
+      "num": 438278,
+      "word": "王嘉尔普吉岛",
+      "onboard_time": 1711548858,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 437568,
       "num": 286783,
       "word": "原来女生爱旅游在相亲届扣大分",
@@ -3225,6 +3257,14 @@
       "onboard_time": 1711201761,
       "rank": 12,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 427547,
+      "num": 427547,
+      "word": "8万的预算能在深圳玩三天吗",
+      "onboard_time": 1711548139,
+      "rank": 33,
+      "category": "幽默"
     },
     {
       "raw_hot": 426117,
@@ -3969,14 +4009,6 @@
       "onboard_time": 1711328599,
       "rank": 35,
       "category": "情感"
-    },
-    {
-      "raw_hot": 344407,
-      "num": 344407,
-      "word": "知情人士回应腾讯大规模裁员",
-      "onboard_time": 1711546819,
-      "rank": 13,
-      "category": "互联网"
     },
     {
       "raw_hot": 343079,
@@ -4859,6 +4891,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 270160,
+      "num": 229044,
+      "word": "幼儿园老师背名牌包被投诉",
+      "onboard_time": 1711549699,
+      "rank": 23,
+      "category": "情感"
+    },
+    {
       "raw_hot": 268693,
       "num": 268693,
       "word": "经常梳头和不怎么梳头哪种更健康",
@@ -5209,14 +5249,6 @@
       "onboard_time": 1711353919,
       "rank": 25,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 250543,
-      "num": 190702,
-      "word": "8万的预算能在深圳玩三天吗",
-      "onboard_time": 1711548139,
-      "rank": 33,
-      "category": "幽默"
     },
     {
       "raw_hot": 249921,
@@ -6235,6 +6267,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 212786,
+      "num": 212786,
+      "word": "任嘉伦回应烈焰造型台词争议",
+      "onboard_time": 1711548739,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 212657,
       "num": 212657,
       "word": "天官赐福 黄油天际",
@@ -6449,14 +6489,6 @@
       "onboard_time": 1711462580,
       "rank": 36,
       "category": "体育"
-    },
-    {
-      "raw_hot": 204671,
-      "num": 204671,
-      "word": "南通",
-      "onboard_time": 1711548440,
-      "rank": 27,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 204533,
@@ -7499,6 +7531,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 184150,
+      "num": 184150,
+      "word": "王者荣耀版沈璃上线",
+      "onboard_time": 1711548921,
+      "rank": 30,
+      "category": "剧集,电竞"
+    },
+    {
       "raw_hot": 184079,
       "num": 184079,
       "word": "三大石油公司去年日赚9.4亿元",
@@ -7585,14 +7625,6 @@
       "onboard_time": 1711508118,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 182073,
-      "num": 182073,
-      "word": "任嘉伦回应烈焰造型台词争议",
-      "onboard_time": 1711548739,
-      "rank": 36,
-      "category": "剧集"
     },
     {
       "raw_hot": 181662,
@@ -7697,14 +7729,6 @@
       "onboard_time": 1711270400,
       "rank": 35,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 178464,
-      "num": 178464,
-      "word": "王嘉尔普吉岛",
-      "onboard_time": 1711548858,
-      "rank": 37,
-      "category": "艺人"
     },
     {
       "raw_hot": 178211,
@@ -8209,6 +8233,14 @@
       "onboard_time": 1711339759,
       "rank": 42,
       "category": "演出"
+    },
+    {
+      "raw_hot": 166388,
+      "num": 166388,
+      "word": "苏醒 老歌手的日常",
+      "onboard_time": 1711549519,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 166035,
@@ -9091,6 +9123,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 150545,
+      "num": 150545,
+      "word": "老邪吐槽追风者 翻车",
+      "onboard_time": 1711549760,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 150377,
       "num": 150377,
       "word": "特鲁姆普世界公开赛夺冠",
@@ -9161,6 +9201,14 @@
       "onboard_time": 1711423276,
       "rank": 36,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 148830,
+      "num": 148830,
+      "word": "真的有人陷入爱里走不出来",
+      "onboard_time": 1711549819,
+      "rank": 39,
+      "category": "情感"
     },
     {
       "raw_hot": 148824,
@@ -9356,7 +9404,7 @@
     },
     {
       "raw_hot": 146419,
-      "num": 658782,
+      "num": 668301,
       "word": "春天的花花接二连三开",
       "onboard_time": 1711546700,
       "rank": 2,
