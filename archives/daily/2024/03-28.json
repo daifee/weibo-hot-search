@@ -1,6 +1,6 @@
 {
   "startTime": 1711556587484,
-  "endTime": 1711556587484,
+  "endTime": 1711557564911,
   "band_list": [
     {
       "raw_hot": 1267911,
@@ -91,8 +91,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 264877,
-      "num": 264877,
+      "raw_hot": 273934,
+      "num": 273934,
       "word": "魏大勋说不清了",
       "onboard_time": 1711554559,
       "rank": 9,
@@ -163,6 +163,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 190378,
+      "num": 190378,
+      "word": "蔡文静什么都赖地磁暴",
+      "onboard_time": 1711552460,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 188728,
       "num": 188728,
       "word": "全国研究生招生6年增幅超6成",
@@ -203,12 +211,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 155981,
-      "num": 155981,
-      "word": "蔡文静什么都赖地磁暴",
-      "onboard_time": 1711552460,
-      "rank": 19,
-      "category": "综艺"
+      "raw_hot": 154528,
+      "num": 122357,
+      "word": "广州10块一碗猪脚面",
+      "onboard_time": 1711555937,
+      "rank": 30,
+      "category": "美食"
     },
     {
       "raw_hot": 152668,
@@ -217,14 +225,6 @@
       "onboard_time": 1711551920,
       "rank": 27,
       "category": "情感"
-    },
-    {
-      "raw_hot": 139866,
-      "num": 122357,
-      "word": "广州10块一碗猪脚面",
-      "onboard_time": 1711555937,
-      "rank": 30,
-      "category": "美食"
     },
     {
       "raw_hot": 133166,
@@ -339,20 +339,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 67432,
+      "num": 67432,
+      "word": "美的2023年净利润337.2亿元",
+      "onboard_time": 1711555218,
+      "rank": 45,
+      "category": "财经"
+    },
+    {
       "raw_hot": 66623,
       "num": 66623,
       "word": "甘肃宴西北菜",
       "onboard_time": 1711554379,
       "rank": 44,
       "category": "美食"
-    },
-    {
-      "raw_hot": 65238,
-      "num": 65238,
-      "word": "美的2023年净利润337.2亿元",
-      "onboard_time": 1711555218,
-      "rank": 45,
-      "category": "财经"
     },
     {
       "raw_hot": 63846,
@@ -401,11 +401,22 @@
       "onboard_time": 1711546700,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 52150,
+      "num": 52150,
+      "word": "猎罪图鉴2拍摄进展be like",
+      "onboard_time": 1711535778,
+      "rank": 48,
+      "category": "剧集"
     }
   ],
   "hotgov_list": [
     {
       "word": "#习近平会见荷兰首相吕特#"
+    },
+    {
+      "word": "#中美关系回不到过去但能够有更好的未来#"
     }
   ]
 }
