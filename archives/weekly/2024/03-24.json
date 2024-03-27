@@ -1,6 +1,6 @@
 {
   "startTime": 1711210803824,
-  "endTime": 1711545579623,
+  "endTime": 1711546462108,
   "band_list": [
     {
       "raw_hot": 3922233,
@@ -1003,6 +1003,14 @@
       "category": "自然"
     },
     {
+      "raw_hot": 921316,
+      "num": 921316,
+      "word": "中信",
+      "onboard_time": 1711544179,
+      "rank": 5,
+      "category": "财经"
+    },
+    {
       "raw_hot": 917921,
       "num": 511956,
       "word": "Angelababy杨超越互夸美甲",
@@ -1787,6 +1795,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 652753,
+      "num": 467837,
+      "word": "终于学会删除空白页了",
+      "onboard_time": 1711542738,
+      "rank": 30,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 652241,
       "num": 652241,
       "word": "俄罗斯击落18枚吸血鬼火箭弹",
@@ -1817,6 +1833,14 @@
       "onboard_time": 1711267699,
       "rank": 32,
       "category": "情感"
+    },
+    {
+      "raw_hot": 647167,
+      "num": 647167,
+      "word": "黄景瑜我妈要百度你的电话",
+      "onboard_time": 1711543098,
+      "rank": 27,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 643477,
@@ -2067,28 +2091,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 582613,
-      "num": 582613,
-      "word": "中信",
-      "onboard_time": 1711544179,
-      "rank": 5,
-      "category": "财经"
-    },
-    {
       "raw_hot": 582504,
       "num": 582504,
       "word": "黄泉歪了",
       "onboard_time": 1711509499,
       "rank": 47,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 581570,
-      "num": 581570,
-      "word": "黄景瑜我妈要百度你的电话",
-      "onboard_time": 1711543098,
-      "rank": 27,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 580533,
@@ -2105,14 +2113,6 @@
       "onboard_time": 1711524618,
       "rank": 36,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 576537,
-      "num": 467837,
-      "word": "终于学会删除空白页了",
-      "onboard_time": 1711542738,
-      "rank": 30,
-      "category": "科学科普"
     },
     {
       "raw_hot": 576089,
@@ -3483,6 +3483,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 392987,
+      "num": 392987,
+      "word": "林更新直播",
+      "onboard_time": 1711545078,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 391881,
       "num": 391881,
       "word": "河南一学校劝学生自愿放弃中考",
@@ -4435,14 +4443,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 293455,
-      "num": 293455,
-      "word": "林更新直播",
-      "onboard_time": 1711545078,
-      "rank": 17,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 293429,
       "num": 277415,
       "word": "男朋友想让我公司当法人",
@@ -4505,6 +4505,14 @@
       "onboard_time": 1711528397,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 289801,
+      "num": 289801,
+      "word": "射雕 公测",
+      "onboard_time": 1711545259,
+      "rank": 23,
+      "category": "游戏"
     },
     {
       "raw_hot": 289614,
@@ -4793,6 +4801,14 @@
       "onboard_time": 1711494855,
       "rank": 25,
       "category": "教育"
+    },
+    {
+      "raw_hot": 269497,
+      "num": 269497,
+      "word": "小林制药中国公司声明",
+      "onboard_time": 1711545439,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 268693,
@@ -6051,6 +6067,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 216783,
+      "num": 216783,
+      "word": "王一博王阳破万flag",
+      "onboard_time": 1711546040,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 215508,
       "num": 215508,
       "word": "XYG战胜DYG",
@@ -6131,20 +6155,20 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 212829,
-      "num": 212829,
-      "word": "射雕 公测",
-      "onboard_time": 1711545259,
-      "rank": 23,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 212657,
       "num": 212657,
       "word": "天官赐福 黄油天际",
       "onboard_time": 1711453757,
       "rank": 30,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 211312,
+      "num": 211312,
+      "word": "专家称A股跌破3000点别太当回事",
+      "onboard_time": 1711544779,
+      "rank": 38,
+      "category": "财经"
     },
     {
       "raw_hot": 211100,
@@ -6731,6 +6755,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 195801,
+      "num": 195801,
+      "word": "任泽平称个人已投资黄金",
+      "onboard_time": 1711545499,
+      "rank": 32,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 195516,
+      "num": 195516,
+      "word": "张艺兴黄渤 没头脑和不高兴",
+      "onboard_time": 1711545739,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 195411,
       "num": 195411,
       "word": "再也不怕早八迟到了",
@@ -7291,6 +7331,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 185710,
+      "num": 185710,
+      "word": "赵丽颖看林更新直播",
+      "onboard_time": 1711546339,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 185607,
       "num": 185607,
       "word": "为什么青少年抑郁的越来越多",
@@ -7379,6 +7427,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 183760,
+      "num": 183760,
+      "word": "与凤行 送子婚姻",
+      "onboard_time": 1711545978,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 183673,
       "num": 183673,
       "word": "关晓彤录制这是我的岛",
@@ -7449,14 +7505,6 @@
       "onboard_time": 1711459999,
       "rank": 49,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 181525,
-      "num": 181525,
-      "word": "任泽平称个人已投资黄金",
-      "onboard_time": 1711545499,
-      "rank": 32,
-      "category": "财经"
     },
     {
       "raw_hot": 181510,
@@ -7731,6 +7779,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 172900,
+      "num": 172900,
+      "word": "娜扎去普吉岛了",
+      "onboard_time": 1711545019,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 172779,
       "num": 172779,
       "word": "贬低式催婚",
@@ -7992,14 +8048,6 @@
       "word": "李相烨婚礼现场",
       "onboard_time": 1711345518,
       "rank": 35,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 167746,
-      "num": 167746,
-      "word": "娜扎去普吉岛了",
-      "onboard_time": 1711545019,
-      "rank": 34,
       "category": "艺人"
     },
     {
@@ -8609,14 +8657,6 @@
       "onboard_time": 1711538598,
       "rank": 32,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 155932,
-      "num": 155932,
-      "word": "专家称A股跌破3000点别太当回事",
-      "onboard_time": 1711544779,
-      "rank": 38,
-      "category": "财经"
     },
     {
       "raw_hot": 155838,
@@ -9739,6 +9779,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 136391,
+      "num": 136391,
+      "word": "TES锁定春季赛常规赛前二",
+      "onboard_time": 1711546099,
+      "rank": 43,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 136220,
       "num": 136220,
       "word": "魏若来新西装还没捂热",
@@ -9803,6 +9851,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 134757,
+      "num": 134757,
+      "word": "妖神令 千与千寻",
+      "onboard_time": 1711542137,
+      "rank": 49,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 134579,
       "num": 134579,
       "word": "矿物爱好者",
@@ -9817,14 +9873,6 @@
       "onboard_time": 1711442119,
       "rank": 47,
       "category": "科学科普"
-    },
-    {
-      "raw_hot": 134536,
-      "num": 134536,
-      "word": "小林制药中国公司声明",
-      "onboard_time": 1711545439,
-      "rank": 45,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 134518,
@@ -10121,14 +10169,6 @@
       "onboard_time": 1711272860,
       "rank": 46,
       "category": "电影"
-    },
-    {
-      "raw_hot": 126471,
-      "num": 126471,
-      "word": "妖神令 千与千寻",
-      "onboard_time": 1711542137,
-      "rank": 49,
-      "category": "剧集"
     },
     {
       "raw_hot": 126396,
@@ -10739,6 +10779,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 106424,
+      "num": 918965,
+      "word": "我国网络视听用户规模达10.74亿人",
+      "onboard_time": 1711543999,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 105889,
       "num": 105889,
       "word": "F1澳大利亚大奖赛塞恩斯冠军",
@@ -10825,14 +10873,6 @@
       "onboard_time": 1711440499,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 95451,
-      "num": 842366,
-      "word": "我国网络视听用户规模达10.74亿人",
-      "onboard_time": 1711543999,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 95280,

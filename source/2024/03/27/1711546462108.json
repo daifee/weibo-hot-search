@@ -1,0 +1,410 @@
+{
+  "runTime": 1711546462108,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2180144,
+        "num": 2180144,
+        "word": "大熊猫青糍死亡",
+        "onboard_time": 1711542680,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 921316,
+        "num": 921316,
+        "word": "中信",
+        "onboard_time": 1711544179,
+        "rank": 1,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 106424,
+        "num": 918965,
+        "word": "我国网络视听用户规模达10.74亿人",
+        "onboard_time": 1711543999,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 918821,
+        "num": 918821,
+        "word": "王诗龄晒与李湘在英国的日常",
+        "onboard_time": 1711538238,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 745348,
+        "num": 745348,
+        "word": "王一博素颜",
+        "onboard_time": 1711541478,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 647167,
+        "num": 647167,
+        "word": "黄景瑜我妈要百度你的电话",
+        "onboard_time": 1711543098,
+        "rank": 5,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 631620,
+        "num": 631620,
+        "word": "白鹿一口气发了28张照片",
+        "onboard_time": 1711537819,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 535793,
+        "num": 535793,
+        "word": "离异3年内不得京内购房被废止",
+        "onboard_time": 1711532899,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 474207,
+        "num": 474207,
+        "word": "禁售殡葬用品后南通12345接大量电话",
+        "onboard_time": 1711534938,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 469750,
+        "num": 469750,
+        "word": "董宇辉湖北省博直播打灯遭质疑",
+        "onboard_time": 1711543760,
+        "rank": 9,
+        "category": "互联网,网红"
+      },
+      {
+        "raw_hot": 652753,
+        "num": 450974,
+        "word": "终于学会删除空白页了",
+        "onboard_time": 1711542738,
+        "rank": 10,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 415200,
+        "num": 415200,
+        "word": "曝刘亦菲加盟梁朝伟新片",
+        "onboard_time": 1711544359,
+        "rank": 11,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 392987,
+        "num": 392987,
+        "word": "林更新直播",
+        "onboard_time": 1711545078,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 387423,
+        "num": 387423,
+        "word": "莫斯科恐袭死亡升至140人",
+        "onboard_time": 1711542261,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 378408,
+        "num": 378408,
+        "word": "刚出生就1米85的帅宝宝来了",
+        "onboard_time": 1711525638,
+        "rank": 14,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 314394,
+        "num": 314394,
+        "word": "河南一学校劝学生自愿放弃中考",
+        "onboard_time": 1711541057,
+        "rank": 15,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 289801,
+        "num": 289801,
+        "word": "射雕 公测",
+        "onboard_time": 1711545259,
+        "rank": 16,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 289695,
+        "num": 289695,
+        "word": "王一博不懂金融奶鳄",
+        "onboard_time": 1711543639,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 269497,
+        "num": 269497,
+        "word": "小林制药中国公司声明",
+        "onboard_time": 1711545439,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 238581,
+        "num": 238581,
+        "word": "going seventeen",
+        "onboard_time": 1711541779,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 817697,
+        "num": 237833,
+        "word": "经常喝牛奶或增加这两种癌症风险",
+        "onboard_time": 1711541779,
+        "rank": 20,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 414052,
+        "num": 236689,
+        "word": "韩国高中生向女老师保温杯注入精液",
+        "onboard_time": 1711538539,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 233928,
+        "num": 233928,
+        "word": "海底捞一天翻台率3.3次",
+        "onboard_time": 1711521499,
+        "rank": 22,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 221156,
+        "num": 221156,
+        "word": "清华黑天鹅大逃亡计划落空",
+        "onboard_time": 1711539919,
+        "rank": 23,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 216783,
+        "num": 216783,
+        "word": "王一博王阳破万flag",
+        "onboard_time": 1711546040,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 211312,
+        "num": 211312,
+        "word": "专家称A股跌破3000点别太当回事",
+        "onboard_time": 1711544779,
+        "rank": 25,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 195801,
+        "num": 195801,
+        "word": "任泽平称个人已投资黄金",
+        "onboard_time": 1711545499,
+        "rank": 26,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 195516,
+        "num": 195516,
+        "word": "张艺兴黄渤 没头脑和不高兴",
+        "onboard_time": 1711545739,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 190143,
+        "num": 190143,
+        "word": "结婚10年育三子妻子报警称遭丈夫强奸",
+        "onboard_time": 1711529418,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 185710,
+        "num": 185710,
+        "word": "赵丽颖看林更新直播",
+        "onboard_time": 1711546339,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 183760,
+        "num": 183760,
+        "word": "与凤行 送子婚姻",
+        "onboard_time": 1711545978,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 179866,
+        "num": 179866,
+        "word": "与凤行 错爱的极致be",
+        "onboard_time": 1711542198,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 179541,
+        "num": 179541,
+        "word": "TES锁定季后赛复活甲",
+        "onboard_time": 1711545019,
+        "rank": 32,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 172900,
+        "num": 172900,
+        "word": "娜扎去普吉岛了",
+        "onboard_time": 1711545019,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 102404,
+        "num": 172416,
+        "word": "扫墓时焚烧冥纸谈不上是封建迷信",
+        "onboard_time": 1711519157,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 171984,
+        "num": 171984,
+        "word": "宋亚轩刘耀文张真源互动",
+        "onboard_time": 1711544479,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 168966,
+        "num": 168966,
+        "word": "猎罪图鉴2拍摄进展be like",
+        "onboard_time": 1711535778,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 156836,
+        "num": 156836,
+        "word": "wtt",
+        "onboard_time": 1711544959,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 155919,
+        "num": 155919,
+        "word": "一觉醒来夏东海和锅姨在一起了",
+        "onboard_time": 1711530618,
+        "rank": 38,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 154905,
+        "num": 154905,
+        "word": "第一章回国 第二章体测",
+        "onboard_time": 1711518980,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 151100,
+        "num": 151100,
+        "word": "TES战胜NIP",
+        "onboard_time": 1711544600,
+        "rank": 40,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 139852,
+        "num": 139852,
+        "word": "追风者直播",
+        "onboard_time": 1711539198,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 138070,
+        "num": 138070,
+        "word": "马龙vs莫雷加德",
+        "onboard_time": 1711541838,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 136391,
+        "num": 136391,
+        "word": "TES锁定春季赛常规赛前二",
+        "onboard_time": 1711546099,
+        "rank": 43,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 91684,
+        "num": 135567,
+        "word": "手足口病感染高峰",
+        "onboard_time": 1711542619,
+        "rank": 44,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 135325,
+        "num": 135325,
+        "word": "喝咖啡和吃泡面的都沉默了",
+        "onboard_time": 1711534399,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 134757,
+        "num": 134757,
+        "word": "妖神令 千与千寻",
+        "onboard_time": 1711542137,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 132886,
+        "num": 132886,
+        "word": "马龙3比0战胜莫雷加德",
+        "onboard_time": 1711545019,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 129729,
+        "num": 129729,
+        "word": "清融要回归了",
+        "onboard_time": 1711544299,
+        "rank": 48,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 128072,
+        "num": 128072,
+        "word": "刘学义郑合惠子鞠婧祎 hi6",
+        "onboard_time": 1711531038,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平同美国工商界和战略学术界代表合影#"
+    }
+  }
+}

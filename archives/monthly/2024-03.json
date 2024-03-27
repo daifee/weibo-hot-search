@@ -1,6 +1,6 @@
 {
   "startTime": 1709223640991,
-  "endTime": 1711545579623,
+  "endTime": 1711546462108,
   "band_list": [
     {
       "raw_hot": 12728050,
@@ -7235,6 +7235,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 921316,
+      "num": 921316,
+      "word": "中信",
+      "onboard_time": 1711544179,
+      "rank": 5,
+      "category": "财经"
+    },
+    {
       "raw_hot": 921306,
       "num": 921306,
       "word": "深圳市原副市长黄敏被查",
@@ -12347,6 +12355,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 652753,
+      "num": 467837,
+      "word": "终于学会删除空白页了",
+      "onboard_time": 1711542738,
+      "rank": 30,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 652241,
       "num": 652241,
       "word": "俄罗斯击落18枚吸血鬼火箭弹",
@@ -12505,6 +12521,14 @@
       "onboard_time": 1710515023,
       "rank": 17,
       "category": "美食"
+    },
+    {
+      "raw_hot": 647167,
+      "num": 647167,
+      "word": "黄景瑜我妈要百度你的电话",
+      "onboard_time": 1711543098,
+      "rank": 27,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 646989,
@@ -14347,14 +14371,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 582613,
-      "num": 582613,
-      "word": "中信",
-      "onboard_time": 1711544179,
-      "rank": 5,
-      "category": "财经"
-    },
-    {
       "raw_hot": 582504,
       "num": 582504,
       "word": "黄泉歪了",
@@ -14377,14 +14393,6 @@
       "onboard_time": 1709691688,
       "rank": 38,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 581570,
-      "num": 581570,
-      "word": "黄景瑜我妈要百度你的电话",
-      "onboard_time": 1711543098,
-      "rank": 27,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 581311,
@@ -14585,14 +14593,6 @@
       "onboard_time": 1710668131,
       "rank": 7,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 576537,
-      "num": 467837,
-      "word": "终于学会删除空白页了",
-      "onboard_time": 1711542738,
-      "rank": 30,
-      "category": "科学科普"
     },
     {
       "raw_hot": 576244,
@@ -23059,6 +23059,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 392987,
+      "num": 392987,
+      "word": "林更新直播",
+      "onboard_time": 1711545078,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 392935,
       "num": 392935,
       "word": "睡得好要看这4个指标",
@@ -30083,14 +30091,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 293455,
-      "num": 293455,
-      "word": "林更新直播",
-      "onboard_time": 1711545078,
-      "rank": 17,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 293429,
       "num": 277415,
       "word": "男朋友想让我公司当法人",
@@ -30457,6 +30457,14 @@
       "onboard_time": 1710600936,
       "rank": 22,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 289801,
+      "num": 289801,
+      "word": "射雕 公测",
+      "onboard_time": 1711545259,
+      "rank": 23,
+      "category": "游戏"
     },
     {
       "raw_hot": 289683,
@@ -32401,6 +32409,14 @@
       "onboard_time": 1710462156,
       "rank": 23,
       "category": "情感"
+    },
+    {
+      "raw_hot": 269497,
+      "num": 269497,
+      "word": "小林制药中国公司声明",
+      "onboard_time": 1711545439,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 269488,
@@ -39963,6 +39979,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 216783,
+      "num": 216783,
+      "word": "王一博王阳破万flag",
+      "onboard_time": 1711546040,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 216564,
       "num": 216564,
       "word": "丁程鑫校园剧男主",
@@ -40803,14 +40827,6 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 212829,
-      "num": 212829,
-      "word": "射雕 公测",
-      "onboard_time": 1711545259,
-      "rank": 23,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 212740,
       "num": 272229,
       "word": "杨紫怼脸拍状态",
@@ -41113,6 +41129,14 @@
       "onboard_time": 1709288012,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 211312,
+      "num": 211312,
+      "word": "专家称A股跌破3000点别太当回事",
+      "onboard_time": 1711544779,
+      "rank": 38,
+      "category": "财经"
     },
     {
       "raw_hot": 211289,
@@ -45363,6 +45387,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 195801,
+      "num": 195801,
+      "word": "任泽平称个人已投资黄金",
+      "onboard_time": 1711545499,
+      "rank": 32,
+      "category": "财经"
+    },
+    {
       "raw_hot": 195790,
       "num": 195790,
       "word": "康康亲吻Smoggy",
@@ -45433,6 +45465,14 @@
       "onboard_time": 1710895355,
       "rank": 36,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 195516,
+      "num": 195516,
+      "word": "张艺兴黄渤 没头脑和不高兴",
+      "onboard_time": 1711545739,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 195497,
@@ -48427,6 +48467,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 185710,
+      "num": 185710,
+      "word": "赵丽颖看林更新直播",
+      "onboard_time": 1711546339,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 185688,
       "num": 185688,
       "word": "陈奕迅额头",
@@ -48881,6 +48929,14 @@
       "onboard_time": 1709425165,
       "rank": 29,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 183760,
+      "num": 183760,
+      "word": "与凤行 送子婚姻",
+      "onboard_time": 1711545978,
+      "rank": 30,
+      "category": "剧集"
     },
     {
       "raw_hot": 183698,
@@ -49489,14 +49545,6 @@
       "onboard_time": 1709452290,
       "rank": 34,
       "category": "运动健身"
-    },
-    {
-      "raw_hot": 181525,
-      "num": 181525,
-      "word": "任泽平称个人已投资黄金",
-      "onboard_time": 1711545499,
-      "rank": 32,
-      "category": "财经"
     },
     {
       "raw_hot": 181515,
@@ -51731,6 +51779,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 172900,
+      "num": 172900,
+      "word": "娜扎去普吉岛了",
+      "onboard_time": 1711545019,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 172889,
       "num": 172889,
       "word": "妈妈活成了我想不到的样子",
@@ -53104,14 +53160,6 @@
       "word": "李相烨婚礼现场",
       "onboard_time": 1711345518,
       "rank": 35,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 167746,
-      "num": 167746,
-      "word": "娜扎去普吉岛了",
-      "onboard_time": 1711545019,
-      "rank": 34,
       "category": "艺人"
     },
     {
@@ -56809,14 +56857,6 @@
       "onboard_time": 1710671255,
       "rank": 46,
       "category": "健康医疗,科学科普"
-    },
-    {
-      "raw_hot": 155932,
-      "num": 155932,
-      "word": "专家称A股跌破3000点别太当回事",
-      "onboard_time": 1711544779,
-      "rank": 38,
-      "category": "财经"
     },
     {
       "raw_hot": 155906,
@@ -62947,6 +62987,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 136391,
+      "num": 136391,
+      "word": "TES锁定春季赛常规赛前二",
+      "onboard_time": 1711546099,
+      "rank": 43,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 136390,
       "num": 136390,
       "word": "朴局 铲后抑郁",
@@ -63507,6 +63555,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 134757,
+      "num": 134757,
+      "word": "妖神令 千与千寻",
+      "onboard_time": 1711542137,
+      "rank": 49,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 134743,
       "num": 134743,
       "word": "张镇麟崔永熙新生代对飙",
@@ -63601,14 +63657,6 @@
       "onboard_time": 1711442119,
       "rank": 47,
       "category": "科学科普"
-    },
-    {
-      "raw_hot": 134536,
-      "num": 134536,
-      "word": "小林制药中国公司声明",
-      "onboard_time": 1711545439,
-      "rank": 45,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 134527,
@@ -65905,14 +65953,6 @@
       "onboard_time": 1709555252,
       "rank": 44,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 126471,
-      "num": 126471,
-      "word": "妖神令 千与千寻",
-      "onboard_time": 1711542137,
-      "rank": 49,
-      "category": "剧集"
     },
     {
       "raw_hot": 126467,
@@ -70275,6 +70315,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 106424,
+      "num": 918965,
+      "word": "我国网络视听用户规模达10.74亿人",
+      "onboard_time": 1711543999,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 106396,
       "num": 106396,
       "word": "奶奶的世界好小又很大",
@@ -71489,14 +71537,6 @@
       "onboard_time": 1709721152,
       "rank": 45,
       "category": "体育"
-    },
-    {
-      "raw_hot": 95451,
-      "num": 842366,
-      "word": "我国网络视听用户规模达10.74亿人",
-      "onboard_time": 1711543999,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 95380,
