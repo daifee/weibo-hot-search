@@ -1,0 +1,411 @@
+{
+  "startTime": 1711556587484,
+  "endTime": 1711556587484,
+  "band_list": [
+    {
+      "raw_hot": 1267911,
+      "num": 442350,
+      "word": "南通",
+      "onboard_time": 1711548440,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 620828,
+      "num": 620828,
+      "word": "冯提莫腰线",
+      "onboard_time": 1711550721,
+      "rank": 0,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 580366,
+      "num": 580366,
+      "word": "8万的预算能在深圳玩三天吗",
+      "onboard_time": 1711548139,
+      "rank": 1,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 506217,
+      "num": 506217,
+      "word": "王嘉尔普吉岛",
+      "onboard_time": 1711548858,
+      "rank": 3,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 477866,
+      "num": 477866,
+      "word": "大熊猫青糍死亡",
+      "onboard_time": 1711542680,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 367126,
+      "num": 155609,
+      "word": "男方准备10万彩礼女方要30万",
+      "onboard_time": 1711553838,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 339143,
+      "num": 260635,
+      "word": "知情人士回应腾讯大规模裁员",
+      "onboard_time": 1711546819,
+      "rank": 10,
+      "category": "互联网"
+    },
+    {
+      "raw_hot": 339118,
+      "num": 339118,
+      "word": "王诗龄晒与李湘在英国的日常",
+      "onboard_time": 1711538238,
+      "rank": 6,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 321424,
+      "num": 321424,
+      "word": "离异3年内不得京内购房被废止",
+      "onboard_time": 1711532899,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 296952,
+      "num": 155347,
+      "word": "经常喝牛奶或增加这两种癌症风险",
+      "onboard_time": 1711541779,
+      "rank": 21,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 284399,
+      "num": 284399,
+      "word": "极限挑战",
+      "onboard_time": 1711551318,
+      "rank": 8,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 264877,
+      "num": 264877,
+      "word": "魏大勋说不清了",
+      "onboard_time": 1711554559,
+      "rank": 9,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 252864,
+      "num": 252864,
+      "word": "Scout说不会韩语",
+      "onboard_time": 1711551801,
+      "rank": 11,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 245995,
+      "num": 245995,
+      "word": "王一博听到并立于雪山之巅笑了",
+      "onboard_time": 1711549280,
+      "rank": 12,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 234024,
+      "num": 234024,
+      "word": "老邪吐槽追风者 翻车",
+      "onboard_time": 1711549760,
+      "rank": 13,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 233123,
+      "num": 154892,
+      "word": "导致胃部癌变的6大因素",
+      "onboard_time": 1711552818,
+      "rank": 22,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 232454,
+      "num": 154527,
+      "word": "韩国高中生向女老师保温杯注入精液",
+      "onboard_time": 1711538539,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 232366,
+      "num": 232366,
+      "word": "刚出生就1米85的帅宝宝来了",
+      "onboard_time": 1711525638,
+      "rank": 14,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 201325,
+      "num": 153987,
+      "word": "金牛座的焦虑来自于匮乏感",
+      "onboard_time": 1711553960,
+      "rank": 24,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 192388,
+      "num": 192388,
+      "word": "小米SU7续航700公里起步",
+      "onboard_time": 1711547541,
+      "rank": 15,
+      "category": "汽车"
+    },
+    {
+      "raw_hot": 188728,
+      "num": 188728,
+      "word": "全国研究生招生6年增幅超6成",
+      "onboard_time": 1711547478,
+      "rank": 16,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 187154,
+      "num": 153251,
+      "word": "张慧雯回应演何悯鸿后面相变了",
+      "onboard_time": 1711554918,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 180614,
+      "num": 152902,
+      "word": "幼儿园老师背名牌包被投诉",
+      "onboard_time": 1711549699,
+      "rank": 26,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 173893,
+      "num": 173893,
+      "word": "白鹿一口气发了28张照片",
+      "onboard_time": 1711537819,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 161908,
+      "num": 161908,
+      "word": "禁售殡葬用品后南通12345接大量电话",
+      "onboard_time": 1711534938,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 155981,
+      "num": 155981,
+      "word": "蔡文静什么都赖地磁暴",
+      "onboard_time": 1711552460,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 152668,
+      "num": 152668,
+      "word": "去喜欢一个对你有空的人",
+      "onboard_time": 1711551920,
+      "rank": 27,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 139866,
+      "num": 122357,
+      "word": "广州10块一碗猪脚面",
+      "onboard_time": 1711555937,
+      "rank": 30,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 133166,
+      "num": 133166,
+      "word": "与凤行 送子婚姻",
+      "onboard_time": 1711545978,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 119567,
+      "num": 119567,
+      "word": "王者荣耀版沈璃上线",
+      "onboard_time": 1711548921,
+      "rank": 31,
+      "category": "剧集,电竞"
+    },
+    {
+      "raw_hot": 108101,
+      "num": 108101,
+      "word": "终于学会删除空白页了",
+      "onboard_time": 1711542738,
+      "rank": 32,
+      "category": "科学科普"
+    },
+    {
+      "raw_hot": 91426,
+      "num": 91426,
+      "word": "臀腿这下真能重获新生了",
+      "onboard_time": 1711547599,
+      "rank": 33,
+      "category": "运动健身"
+    },
+    {
+      "raw_hot": 87331,
+      "num": 87331,
+      "word": "林俊杰生日照",
+      "onboard_time": 1711552579,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 86073,
+      "num": 86073,
+      "word": "曝刘亦菲加盟梁朝伟新片",
+      "onboard_time": 1711544359,
+      "rank": 35,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 84820,
+      "num": 84820,
+      "word": "王一博素颜",
+      "onboard_time": 1711541478,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 84133,
+      "num": 84133,
+      "word": "真的有人陷入爱里走不出来",
+      "onboard_time": 1711549819,
+      "rank": 37,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 83883,
+      "num": 83883,
+      "word": "黄景瑜我妈要百度你的电话",
+      "onboard_time": 1711543098,
+      "rank": 38,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 79286,
+      "num": 79286,
+      "word": "JDG 放假",
+      "onboard_time": 1711546459,
+      "rank": 40,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 74415,
+      "num": 74415,
+      "word": "看到成毅的胸肌了",
+      "onboard_time": 1711546941,
+      "rank": 41,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 72541,
+      "num": 79557,
+      "word": "专家称A股跌破3000点别太当回事",
+      "onboard_time": 1711544779,
+      "rank": 39,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 69889,
+      "num": 69889,
+      "word": "任嘉伦回应烈焰造型台词争议",
+      "onboard_time": 1711548739,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 69218,
+      "num": 69218,
+      "word": "追风者直播",
+      "onboard_time": 1711539198,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 66623,
+      "num": 66623,
+      "word": "甘肃宴西北菜",
+      "onboard_time": 1711554379,
+      "rank": 44,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 65238,
+      "num": 65238,
+      "word": "美的2023年净利润337.2亿元",
+      "onboard_time": 1711555218,
+      "rank": 45,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 63846,
+      "num": 63846,
+      "word": "一觉醒来夏东海和锅姨在一起了",
+      "onboard_time": 1711530618,
+      "rank": 46,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 60284,
+      "num": 122657,
+      "word": "手足口病感染高峰",
+      "onboard_time": 1711542619,
+      "rank": 29,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 58054,
+      "num": 58054,
+      "word": "going seventeen",
+      "onboard_time": 1711541779,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 56977,
+      "num": 56977,
+      "word": "张艺兴黄渤 没头脑和不高兴",
+      "onboard_time": 1711545739,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 55228,
+      "num": 56212,
+      "word": "专家称不要把IPO当作套现百亿的致富路",
+      "onboard_time": 1711551318,
+      "rank": 49,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 54606,
+      "num": 527251,
+      "word": "春天的花花接二连三开",
+      "onboard_time": 1711546700,
+      "rank": 2,
+      "category": "社会新闻"
+    }
+  ],
+  "hotgov_list": [
+    {
+      "word": "#习近平会见荷兰首相吕特#"
+    }
+  ]
+}
