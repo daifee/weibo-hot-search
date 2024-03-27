@@ -1,0 +1,410 @@
+{
+  "runTime": 1711514227221,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1680899,
+        "num": 1680899,
+        "word": "地磁暴全责",
+        "onboard_time": 1711511419,
+        "rank": 0,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 1604947,
+        "num": 1604947,
+        "word": "张颂文 你改下网名会不会好点",
+        "onboard_time": 1711508719,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 177612,
+        "num": 1125486,
+        "word": "随手一拍就很出片的春天",
+        "onboard_time": 1711508118,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 934498,
+        "num": 934498,
+        "word": "游本昌为追妻写一麻袋情书",
+        "onboard_time": 1711509799,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 836111,
+        "num": 836111,
+        "word": "向佐的中文水平停留在12岁",
+        "onboard_time": 1711511058,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 801687,
+        "num": 801687,
+        "word": "凤凰传奇抢票",
+        "onboard_time": 1711509737,
+        "rank": 5,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 633975,
+        "num": 633975,
+        "word": "小林制药保健品已致2死106人住院",
+        "onboard_time": 1711500498,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 598560,
+        "num": 598560,
+        "word": "曾黎评价赵丽颖",
+        "onboard_time": 1711509197,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 578919,
+        "num": 578919,
+        "word": "台湾网友关注天水麻辣烫",
+        "onboard_time": 1711511058,
+        "rank": 8,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 486155,
+        "num": 577281,
+        "word": "梅西身价持续下降",
+        "onboard_time": 1711512798,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1099041,
+        "num": 569990,
+        "word": "国台办回应汪小菲在台北大S住处有关言行",
+        "onboard_time": 1711513402,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 999637,
+        "num": 568764,
+        "word": "女子称被父亲强奸事件姑姑发声否认",
+        "onboard_time": 1711495697,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 50469,
+        "num": 563344,
+        "word": "淡学的风还是吹到了茶饮届",
+        "onboard_time": 1711511298,
+        "rank": 12,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 559195,
+        "num": 559195,
+        "word": "黄泉歪了",
+        "onboard_time": 1711509499,
+        "rank": 13,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 496679,
+        "num": 496679,
+        "word": "赵露思入选VOGUE三月全球女星妆容",
+        "onboard_time": 1711511419,
+        "rank": 14,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 451986,
+        "num": 451986,
+        "word": "陶昕然是把女儿当自己重新养一遍",
+        "onboard_time": 1711506019,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 397267,
+        "num": 397267,
+        "word": "国台办祝福所有两岸婚姻",
+        "onboard_time": 1711513402,
+        "rank": 16,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 388755,
+        "num": 388755,
+        "word": "南京一米线店改名成甘肃麻辣烫店",
+        "onboard_time": 1711506078,
+        "rank": 17,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 375379,
+        "num": 375379,
+        "word": "70%短剧用户是中低收入群体",
+        "onboard_time": 1711505719,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 275213,
+        "num": 340580,
+        "word": "小林制药被命令召回三款产品",
+        "onboard_time": 1711510638,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 29408,
+        "num": 332684,
+        "word": "杨紫真的不怕晒吗",
+        "onboard_time": 1711512798,
+        "rank": 20,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 594828,
+        "num": 332150,
+        "word": "四千五的双休和六千五的单休",
+        "onboard_time": 1711507218,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 330835,
+        "num": 330835,
+        "word": "小米su7",
+        "onboard_time": 1711506917,
+        "rank": 22,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 300238,
+        "num": 300238,
+        "word": "Tara李雅凛试图自杀",
+        "onboard_time": 1711500558,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 294765,
+        "num": 294765,
+        "word": "詹雯婷现身法院",
+        "onboard_time": 1711512562,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 286039,
+        "num": 286039,
+        "word": "鹿晗耍帅把假发甩掉了",
+        "onboard_time": 1711513642,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 274938,
+        "num": 274938,
+        "word": "叉开腿坐真的是最健康坐姿吗",
+        "onboard_time": 1711503318,
+        "rank": 26,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 227932,
+        "num": 227932,
+        "word": "毕业半年了喜欢在家啃老",
+        "onboard_time": 1711511779,
+        "rank": 27,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 226177,
+        "num": 226177,
+        "word": "大姨开面馆凭2个浇头火了7年",
+        "onboard_time": 1711501998,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 203596,
+        "num": 217956,
+        "word": "女孩无声直播1小时卖出20万普洱春茶",
+        "onboard_time": 1711502959,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 226629,
+        "num": 217133,
+        "word": "杨紫更古早的照片",
+        "onboard_time": 1711510759,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 214751,
+        "num": 214751,
+        "word": "长期处于压力下身体会怎样",
+        "onboard_time": 1711467378,
+        "rank": 31,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 197333,
+        "num": 197333,
+        "word": "大一逃一节晚自习有什么后果",
+        "onboard_time": 1711512562,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 184205,
+        "num": 184205,
+        "word": "突然断崖式降薪了",
+        "onboard_time": 1711496416,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 152843,
+        "num": 182130,
+        "word": "北京多个大厂员工爱买货币基金理财",
+        "onboard_time": 1711514059,
+        "rank": 34,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 180730,
+        "num": 180730,
+        "word": "无意识却很掉秤的减肥习惯",
+        "onboard_time": 1711505477,
+        "rank": 35,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 172231,
+        "num": 172231,
+        "word": "为什么年轻人离不开耳机了",
+        "onboard_time": 1711511779,
+        "rank": 36,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 170657,
+        "num": 170657,
+        "word": "失眠闭眼躺着算熬夜吗",
+        "onboard_time": 1711513161,
+        "rank": 37,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 141581,
+        "num": 169864,
+        "word": "密切关注台军在金门的动向",
+        "onboard_time": 1711508777,
+        "rank": 38,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 169164,
+        "num": 169164,
+        "word": "Selina一家三口出游",
+        "onboard_time": 1711512079,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 165808,
+        "num": 165808,
+        "word": "杨幂近期工作安排",
+        "onboard_time": 1711511538,
+        "rank": 40,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 164991,
+        "num": 164991,
+        "word": "发工资后不同年龄段的消费观",
+        "onboard_time": 1711508297,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 157777,
+        "num": 157777,
+        "word": "姐姐离婚时发的朋友圈",
+        "onboard_time": 1711495697,
+        "rank": 42,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 152436,
+        "num": 152436,
+        "word": "音你而来官宣定档",
+        "onboard_time": 1711509678,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 143211,
+        "num": 143211,
+        "word": "王一博好像罗伯特",
+        "onboard_time": 1711508239,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 147129,
+        "num": 143133,
+        "word": "杨紫多巴胺运动风",
+        "onboard_time": 1711507879,
+        "rank": 45,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 142974,
+        "num": 142974,
+        "word": "雷军称SU7是50万内最好开的轿车",
+        "onboard_time": 1711506559,
+        "rank": 46,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 132649,
+        "num": 132649,
+        "word": "花间令潘樾这下子是踢到铁板了",
+        "onboard_time": 1711512500,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 122426,
+        "num": 132047,
+        "word": "爸爸煮饭费水遭女儿压迫式教育",
+        "onboard_time": 1711514180,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 103064,
+        "num": 130563,
+        "word": "湖人战胜雄鹿",
+        "onboard_time": 1711508538,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#倡导不同文明交流互鉴#"
+    }
+  }
+}
