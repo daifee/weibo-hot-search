@@ -1,0 +1,410 @@
+{
+  "runTime": 1711503104361,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2037301,
+        "num": 2037301,
+        "word": "小林制药保健品已致2死106人住院",
+        "onboard_time": 1711500498,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1299009,
+        "num": 1299009,
+        "word": "考生蔡元培北大复试仍是专业第一",
+        "onboard_time": 1711494074,
+        "rank": 1,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 42490,
+        "num": 1032376,
+        "word": "春日里的中国随手拍",
+        "onboard_time": 1711457539,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 782214,
+        "num": 782214,
+        "word": "长期处于压力下身体会怎样",
+        "onboard_time": 1711467378,
+        "rank": 3,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 677286,
+        "num": 677286,
+        "word": "原来是地磁暴 还以为上班上的",
+        "onboard_time": 1711439478,
+        "rank": 4,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 492594,
+        "num": 492594,
+        "word": "空投物资致加沙18人死亡",
+        "onboard_time": 1711500498,
+        "rank": 5,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 455649,
+        "num": 455649,
+        "word": "钱老这是已经重启八次人生了吧",
+        "onboard_time": 1711495995,
+        "rank": 6,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 413945,
+        "num": 413945,
+        "word": "下班后的年轻人开始搞第二事业了",
+        "onboard_time": 1711456757,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 380852,
+        "num": 380852,
+        "word": "金秀贤金智媛双人画报",
+        "onboard_time": 1711499300,
+        "rank": 8,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 368549,
+        "num": 368549,
+        "word": "迪丽热巴陈星旭墓地路透",
+        "onboard_time": 1711497259,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1694533,
+        "num": 362683,
+        "word": "女子称被父亲强奸事件姑姑发声否认",
+        "onboard_time": 1711495697,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 933572,
+        "num": 356544,
+        "word": "Tara李雅凛试图自杀",
+        "onboard_time": 1711500558,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 393807,
+        "num": 350216,
+        "word": "iPhone或将配可拆卸模块电池",
+        "onboard_time": 1711500801,
+        "rank": 12,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 386916,
+        "num": 345013,
+        "word": "早起后有这4个表现说明身体健康",
+        "onboard_time": 1711500498,
+        "rank": 13,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 371970,
+        "num": 335993,
+        "word": "大姨开面馆凭2个浇头火了7年",
+        "onboard_time": 1711501998,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 368767,
+        "num": 329748,
+        "word": "南宁出现大量裸奔人士系谣言",
+        "onboard_time": 1711444700,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 329316,
+        "num": 329316,
+        "word": "赵丽颖戴高珠",
+        "onboard_time": 1711496897,
+        "rank": 16,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 272129,
+        "num": 272129,
+        "word": "女子怀孕后鼻子变大两倍",
+        "onboard_time": 1711455080,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 252038,
+        "num": 252038,
+        "word": "与凤行16集特效",
+        "onboard_time": 1711498700,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 224476,
+        "num": 224476,
+        "word": "王楚然吃面照",
+        "onboard_time": 1711497438,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 454278,
+        "num": 222117,
+        "word": "姐姐离婚时发的朋友圈",
+        "onboard_time": 1711495697,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 371472,
+        "num": 221718,
+        "word": "突然断崖式降薪了",
+        "onboard_time": 1711496416,
+        "rank": 21,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 218978,
+        "num": 218978,
+        "word": "瘦脸伸脖子的最佳运动",
+        "onboard_time": 1711499539,
+        "rank": 22,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 208462,
+        "num": 208462,
+        "word": "林允为闭口第一次刷酸",
+        "onboard_time": 1711459759,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 199384,
+        "num": 199384,
+        "word": "优酷待播剧预约前十",
+        "onboard_time": 1711477092,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 198974,
+        "num": 198974,
+        "word": "磁暴",
+        "onboard_time": 1711495397,
+        "rank": 25,
+        "category": "自然"
+      },
+      {
+        "raw_hot": 190644,
+        "num": 190644,
+        "word": "春天的花花真的很适合当头像",
+        "onboard_time": 1711498158,
+        "rank": 26,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 188685,
+        "num": 188685,
+        "word": "金赛纶发金秀贤合影是为了炫耀",
+        "onboard_time": 1711463359,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 186883,
+        "num": 186883,
+        "word": "开封王婆五年前在角落练舞",
+        "onboard_time": 1711494315,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 186210,
+        "num": 186210,
+        "word": "警方介入女子裸体现身商场",
+        "onboard_time": 1711447578,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 409342,
+        "num": 185830,
+        "word": "外交部回应巴基斯坦炸弹袭击",
+        "onboard_time": 1711499719,
+        "rank": 30,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 209764,
+        "num": 185572,
+        "word": "李雅凛前夫",
+        "onboard_time": 1711502897,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 185062,
+        "num": 185062,
+        "word": "MOKA 出圈",
+        "onboard_time": 1711501339,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 177671,
+        "num": 177671,
+        "word": "发现研究生身上都有导师的影子",
+        "onboard_time": 1711496178,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 173070,
+        "num": 173070,
+        "word": "29岁了爸爸还在意我快不快乐",
+        "onboard_time": 1711464979,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 559013,
+        "num": 171414,
+        "word": "大众帕萨特已经12万了",
+        "onboard_time": 1711495936,
+        "rank": 35,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 168614,
+        "num": 168614,
+        "word": "论穿搭对一个人的影响有多大",
+        "onboard_time": 1711463839,
+        "rank": 36,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 160500,
+        "num": 160500,
+        "word": "瑞士卷和瑞士有关系吗",
+        "onboard_time": 1711501398,
+        "rank": 37,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 159136,
+        "num": 159136,
+        "word": "没工作时感觉天都要塌了",
+        "onboard_time": 1711501099,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 147536,
+        "num": 147536,
+        "word": "AI还原武则天",
+        "onboard_time": 1711464320,
+        "rank": 39,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 142690,
+        "num": 142690,
+        "word": "加拿大鹅宣布裁员17%",
+        "onboard_time": 1711502897,
+        "rank": 40,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 142519,
+        "num": 142519,
+        "word": "女孩无声直播1小时卖出20万普洱春茶",
+        "onboard_time": 1711502959,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 141049,
+        "num": 141049,
+        "word": "葡萄牙不敌斯洛文尼亚",
+        "onboard_time": 1711502118,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 135872,
+        "num": 135872,
+        "word": "踩屎感拖鞋或会毁坏你的脚",
+        "onboard_time": 1711502837,
+        "rank": 43,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 124864,
+        "num": 124864,
+        "word": "金秀贤G社生图",
+        "onboard_time": 1711495095,
+        "rank": 44,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 120430,
+        "num": 120430,
+        "word": "TXT 大事很妙",
+        "onboard_time": 1711500199,
+        "rank": 45,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 114394,
+        "num": 114394,
+        "word": "章昊OST成绩",
+        "onboard_time": 1711501219,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 113331,
+        "num": 113331,
+        "word": "张元英转圈",
+        "onboard_time": 1711463839,
+        "rank": 47,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 112408,
+        "num": 112408,
+        "word": "我的保洁阿姨在北京买了套房",
+        "onboard_time": 1711462219,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 109148,
+        "num": 109148,
+        "word": "国足争气",
+        "onboard_time": 1711497859,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#中多关系已经成为南南合作的典范#"
+    }
+  }
+}

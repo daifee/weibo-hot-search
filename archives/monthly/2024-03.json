@@ -1,6 +1,6 @@
 {
   "startTime": 1709223640991,
-  "endTime": 1711501896983,
+  "endTime": 1711503104361,
   "band_list": [
     {
       "raw_hot": 12728050,
@@ -6987,6 +6987,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 933572,
+      "num": 375542,
+      "word": "Tara李雅凛试图自杀",
+      "onboard_time": 1711500558,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 933496,
       "num": 933496,
       "word": "小女孩拒绝了成毅的抱抱",
@@ -8649,14 +8657,6 @@
       "onboard_time": 1710990510,
       "rank": 37,
       "category": "情感"
-    },
-    {
-      "raw_hot": 803419,
-      "num": 375542,
-      "word": "Tara李雅凛试图自杀",
-      "onboard_time": 1711500558,
-      "rank": 11,
-      "category": "艺人"
     },
     {
       "raw_hot": 803285,
@@ -17180,7 +17180,7 @@
     },
     {
       "raw_hot": 502254,
-      "num": 372407,
+      "num": 455649,
       "word": "钱老这是已经重启八次人生了吧",
       "onboard_time": 1711495995,
       "rank": 42,
@@ -17617,6 +17617,14 @@
       "onboard_time": 1710741217,
       "rank": 12,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 492594,
+      "num": 492594,
+      "word": "空投物资致加沙18人死亡",
+      "onboard_time": 1711500498,
+      "rank": 8,
+      "category": "国外时政"
     },
     {
       "raw_hot": 492466,
@@ -21547,14 +21555,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 410743,
-      "num": 410743,
-      "word": "空投物资致加沙18人死亡",
-      "onboard_time": 1711500498,
-      "rank": 8,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 410664,
       "num": 410664,
       "word": "王一博任奥运资格赛上海站推广大使",
@@ -22419,6 +22419,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 393807,
+      "num": 350216,
+      "word": "iPhone或将配可拆卸模块电池",
+      "onboard_time": 1711500801,
+      "rank": 26,
+      "category": "数码"
+    },
+    {
       "raw_hot": 393635,
       "num": 393635,
       "word": "李小冉当时害怕极了",
@@ -22809,6 +22817,14 @@
       "onboard_time": 1709294912,
       "rank": 35,
       "category": "教育"
+    },
+    {
+      "raw_hot": 386916,
+      "num": 369952,
+      "word": "早起后有这4个表现说明身体健康",
+      "onboard_time": 1711500498,
+      "rank": 15,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 386878,
@@ -23675,6 +23691,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 371970,
+      "num": 335993,
+      "word": "大姨开面馆凭2个浇头火了7年",
+      "onboard_time": 1711501998,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 371865,
       "num": 271103,
       "word": "婆婆每个月给我1w要不要收",
@@ -23801,14 +23825,6 @@
       "onboard_time": 1711153157,
       "rank": 13,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 369952,
-      "num": 369952,
-      "word": "早起后有这4个表现说明身体健康",
-      "onboard_time": 1711500498,
-      "rank": 15,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 369786,
@@ -33483,6 +33499,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 252038,
+      "num": 252038,
+      "word": "与凤行16集特效",
+      "onboard_time": 1711498700,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 251848,
       "num": 251848,
       "word": "DQ联名 排队",
@@ -36851,14 +36875,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 227876,
-      "num": 227876,
-      "word": "iPhone或将配可拆卸模块电池",
-      "onboard_time": 1711500801,
-      "rank": 26,
-      "category": "数码"
-    },
-    {
       "raw_hot": 227838,
       "num": 227838,
       "word": "JDG对战WBG",
@@ -38433,6 +38449,14 @@
       "onboard_time": 1710219690,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 218978,
+      "num": 218978,
+      "word": "瘦脸伸脖子的最佳运动",
+      "onboard_time": 1711499539,
+      "rank": 28,
+      "category": "运动健身"
     },
     {
       "raw_hot": 218969,
@@ -40251,6 +40275,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 209764,
+      "num": 185572,
+      "word": "李雅凛前夫",
+      "onboard_time": 1711502897,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 209743,
       "num": 209743,
       "word": "姚安娜背圆周率",
@@ -41201,14 +41233,6 @@
       "onboard_time": 1711462639,
       "rank": 49,
       "category": "情感"
-    },
-    {
-      "raw_hot": 205657,
-      "num": 205657,
-      "word": "瘦脸伸脖子的最佳运动",
-      "onboard_time": 1711499539,
-      "rank": 28,
-      "category": "运动健身"
     },
     {
       "raw_hot": 205649,
@@ -43921,14 +43945,6 @@
       "onboard_time": 1710719975,
       "rank": 31,
       "category": "数码"
-    },
-    {
-      "raw_hot": 196703,
-      "num": 196703,
-      "word": "与凤行16集特效",
-      "onboard_time": 1711498700,
-      "rank": 32,
-      "category": "剧集"
     },
     {
       "raw_hot": 196695,
@@ -47281,6 +47297,14 @@
       "onboard_time": 1710641373,
       "rank": 32,
       "category": "体育"
+    },
+    {
+      "raw_hot": 185062,
+      "num": 185062,
+      "word": "MOKA 出圈",
+      "onboard_time": 1711501339,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 185029,
@@ -53795,6 +53819,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 160500,
+      "num": 160500,
+      "word": "瑞士卷和瑞士有关系吗",
+      "onboard_time": 1711501398,
+      "rank": 37,
+      "category": "美食"
+    },
+    {
       "raw_hot": 160465,
       "num": 160465,
       "word": "亚洲超星团",
@@ -54601,14 +54633,6 @@
       "onboard_time": 1710293973,
       "rank": 44,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 158148,
-      "num": 158148,
-      "word": "瑞士卷和瑞士有关系吗",
-      "onboard_time": 1711501398,
-      "rank": 37,
-      "category": "美食"
     },
     {
       "raw_hot": 158144,
@@ -55977,14 +56001,6 @@
       "onboard_time": 1710548370,
       "rank": 41,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 153333,
-      "num": 153333,
-      "word": "MOKA 出圈",
-      "onboard_time": 1711501339,
-      "rank": 39,
-      "category": "艺人"
     },
     {
       "raw_hot": 153311,
@@ -59371,6 +59387,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 142690,
+      "num": 142690,
+      "word": "加拿大鹅宣布裁员17%",
+      "onboard_time": 1711502897,
+      "rank": 40,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 142684,
       "num": 142684,
       "word": "C罗亚冠首败",
@@ -59433,6 +59457,14 @@
       "onboard_time": 1709267618,
       "rank": 49,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 142519,
+      "num": 142519,
+      "word": "女孩无声直播1小时卖出20万普洱春茶",
+      "onboard_time": 1711502959,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 142510,
@@ -59777,6 +59809,14 @@
       "onboard_time": 1710466056,
       "rank": 39,
       "category": "情感"
+    },
+    {
+      "raw_hot": 141049,
+      "num": 141049,
+      "word": "葡萄牙不敌斯洛文尼亚",
+      "onboard_time": 1711502118,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 141045,
@@ -61393,6 +61433,14 @@
       "onboard_time": 1709441013,
       "rank": 37,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 135872,
+      "num": 135872,
+      "word": "踩屎感拖鞋或会毁坏你的脚",
+      "onboard_time": 1711502837,
+      "rank": 43,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 135858,

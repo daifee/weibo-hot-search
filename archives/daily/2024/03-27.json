@@ -1,6 +1,6 @@
 {
   "startTime": 1711470163483,
-  "endTime": 1711501896983,
+  "endTime": 1711503104361,
   "band_list": [
     {
       "raw_hot": 2092368,
@@ -43,20 +43,20 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 933572,
+      "num": 375542,
+      "word": "Tara李雅凛试图自杀",
+      "onboard_time": 1711500558,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 924937,
       "num": 924937,
       "word": "原来是地磁暴 还以为上班上的",
       "onboard_time": 1711439478,
       "rank": 1,
       "category": "科学科普"
-    },
-    {
-      "raw_hot": 803419,
-      "num": 375542,
-      "word": "Tara李雅凛试图自杀",
-      "onboard_time": 1711500558,
-      "rank": 11,
-      "category": "艺人"
     },
     {
       "raw_hot": 746197,
@@ -116,7 +116,7 @@
     },
     {
       "raw_hot": 502254,
-      "num": 372407,
+      "num": 455649,
       "word": "钱老这是已经重启八次人生了吧",
       "onboard_time": 1711495995,
       "rank": 42,
@@ -129,6 +129,14 @@
       "onboard_time": 1711463359,
       "rank": 4,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 492594,
+      "num": 492594,
+      "word": "空投物资致加沙18人死亡",
+      "onboard_time": 1711500498,
+      "rank": 8,
+      "category": "国外时政"
     },
     {
       "raw_hot": 481335,
@@ -163,12 +171,20 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 410743,
-      "num": 410743,
-      "word": "空投物资致加沙18人死亡",
+      "raw_hot": 393807,
+      "num": 350216,
+      "word": "iPhone或将配可拆卸模块电池",
+      "onboard_time": 1711500801,
+      "rank": 26,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 386916,
+      "num": 369952,
+      "word": "早起后有这4个表现说明身体健康",
       "onboard_time": 1711500498,
-      "rank": 8,
-      "category": "国外时政"
+      "rank": 15,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 384221,
@@ -195,12 +211,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 369952,
-      "num": 369952,
-      "word": "早起后有这4个表现说明身体健康",
-      "onboard_time": 1711500498,
-      "rank": 15,
-      "category": "健康医疗"
+      "raw_hot": 371970,
+      "num": 335993,
+      "word": "大姨开面馆凭2个浇头火了7年",
+      "onboard_time": 1711501998,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 367948,
@@ -299,6 +315,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 252038,
+      "num": 252038,
+      "word": "与凤行16集特效",
+      "onboard_time": 1711498700,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 248885,
       "num": 248885,
       "word": "芒果你超爱",
@@ -323,12 +347,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 227876,
-      "num": 227876,
-      "word": "iPhone或将配可拆卸模块电池",
-      "onboard_time": 1711500801,
-      "rank": 26,
-      "category": "数码"
+      "raw_hot": 218978,
+      "num": 218978,
+      "word": "瘦脸伸脖子的最佳运动",
+      "onboard_time": 1711499539,
+      "rank": 28,
+      "category": "运动健身"
     },
     {
       "raw_hot": 209851,
@@ -339,12 +363,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 205657,
-      "num": 205657,
-      "word": "瘦脸伸脖子的最佳运动",
-      "onboard_time": 1711499539,
-      "rank": 28,
-      "category": "运动健身"
+      "raw_hot": 209764,
+      "num": 185572,
+      "word": "李雅凛前夫",
+      "onboard_time": 1711502897,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 200467,
@@ -361,14 +385,6 @@
       "onboard_time": 1711447699,
       "rank": 23,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 196703,
-      "num": 196703,
-      "word": "与凤行16集特效",
-      "onboard_time": 1711498700,
-      "rank": 32,
-      "category": "剧集"
     },
     {
       "raw_hot": 187747,
@@ -395,6 +411,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 185062,
+      "num": 185062,
+      "word": "MOKA 出圈",
+      "onboard_time": 1711501339,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 165797,
       "num": 165797,
       "word": "王一博 转型",
@@ -409,6 +433,14 @@
       "onboard_time": 1711501099,
       "rank": 35,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 160500,
+      "num": 160500,
+      "word": "瑞士卷和瑞士有关系吗",
+      "onboard_time": 1711501398,
+      "rank": 37,
+      "category": "美食"
     },
     {
       "raw_hot": 160295,
@@ -427,14 +459,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 158148,
-      "num": 158148,
-      "word": "瑞士卷和瑞士有关系吗",
-      "onboard_time": 1711501398,
-      "rank": 37,
-      "category": "美食"
-    },
-    {
       "raw_hot": 157859,
       "num": 155113,
       "word": "郭德纲回应让他对郭麒麟好一点",
@@ -451,20 +475,28 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 153333,
-      "num": 153333,
-      "word": "MOKA 出圈",
-      "onboard_time": 1711501339,
-      "rank": 39,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 150417,
       "num": 241363,
       "word": "泰国vs韩国",
       "onboard_time": 1711462280,
       "rank": 19,
       "category": "体育"
+    },
+    {
+      "raw_hot": 142690,
+      "num": 142690,
+      "word": "加拿大鹅宣布裁员17%",
+      "onboard_time": 1711502897,
+      "rank": 40,
+      "category": "时尚"
+    },
+    {
+      "raw_hot": 142519,
+      "num": 142519,
+      "word": "女孩无声直播1小时卖出20万普洱春茶",
+      "onboard_time": 1711502959,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 141486,
@@ -481,6 +513,14 @@
       "onboard_time": 1711454538,
       "rank": 26,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 141049,
+      "num": 141049,
+      "word": "葡萄牙不敌斯洛文尼亚",
+      "onboard_time": 1711502118,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 139941,
@@ -505,6 +545,14 @@
       "onboard_time": 1711497919,
       "rank": 42,
       "category": "体育"
+    },
+    {
+      "raw_hot": 135872,
+      "num": 135872,
+      "word": "踩屎感拖鞋或会毁坏你的脚",
+      "onboard_time": 1711502837,
+      "rank": 43,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 135607,
