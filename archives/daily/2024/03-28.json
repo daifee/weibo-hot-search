@@ -1,6 +1,6 @@
 {
   "startTime": 1711556587484,
-  "endTime": 1711577907180,
+  "endTime": 1711578851600,
   "band_list": [
     {
       "raw_hot": 1267911,
@@ -203,6 +203,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 182592,
+      "num": 182592,
+      "word": "持续黑一个历史人物十年",
+      "onboard_time": 1711568830,
+      "rank": 15,
+      "category": "情感"
+    },
+    {
       "raw_hot": 180614,
       "num": 152902,
       "word": "幼儿园老师背名牌包被投诉",
@@ -217,6 +225,14 @@
       "onboard_time": 1711537819,
       "rank": 17,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 172824,
+      "num": 109183,
+      "word": "女子将儿媳打得满身疤痕惹众怒",
+      "onboard_time": 1711570150,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 161908,
@@ -235,6 +251,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 149847,
+      "num": 70062,
+      "word": "金宝贝突然停业几天前还怂恿家长充值",
+      "onboard_time": 1711572309,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 143226,
       "num": 143226,
       "word": "何悯鸿向四美道歉",
@@ -249,22 +273,6 @@
       "onboard_time": 1711545978,
       "rank": 28,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 126811,
-      "num": 126811,
-      "word": "持续黑一个历史人物十年",
-      "onboard_time": 1711568830,
-      "rank": 15,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 125147,
-      "num": 72990,
-      "word": "女子将儿媳打得满身疤痕惹众怒",
-      "onboard_time": 1711570150,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 119567,
@@ -283,11 +291,19 @@
       "category": "科学科普"
     },
     {
-      "raw_hot": 102788,
-      "num": 49595,
-      "word": "金宝贝突然停业几天前还怂恿家长充值",
-      "onboard_time": 1711572309,
-      "rank": 17,
+      "raw_hot": 104590,
+      "num": 104590,
+      "word": "180斤山东女孩拍写真美哭网友",
+      "onboard_time": 1711572670,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 94151,
+      "num": 94151,
+      "word": "女子得知父亲去世高速上崩溃大哭",
+      "onboard_time": 1711572911,
+      "rank": 19,
       "category": "社会新闻"
     },
     {
@@ -395,6 +411,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 68728,
+      "num": 68728,
+      "word": "孔雪儿演女二",
+      "onboard_time": 1711573090,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 68394,
       "num": 68394,
       "word": "杨幂直发侧拍",
@@ -419,14 +443,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 66438,
-      "num": 66438,
-      "word": "女子得知父亲去世高速上崩溃大哭",
-      "onboard_time": 1711572911,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 63846,
       "num": 63846,
       "word": "一觉醒来夏东海和锅姨在一起了",
@@ -435,12 +451,36 @@
       "category": "电影"
     },
     {
+      "raw_hot": 63715,
+      "num": 63715,
+      "word": "陈法拉生二胎后首露面",
+      "onboard_time": 1711565412,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 63496,
+      "num": 63496,
+      "word": "北京沙尘暴",
+      "onboard_time": 1711561872,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 60284,
       "num": 122657,
       "word": "手足口病感染高峰",
       "onboard_time": 1711542619,
       "rank": 29,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 58759,
+      "num": 46198,
+      "word": "春季最狠减肥法 轻断食",
+      "onboard_time": 1711572911,
+      "rank": 35,
+      "category": "运动健身"
     },
     {
       "raw_hot": 58054,
@@ -491,38 +531,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 49355,
-      "num": 49355,
-      "word": "陈法拉生二胎后首露面",
-      "onboard_time": 1711565412,
-      "rank": 19,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 46782,
-      "num": 46782,
-      "word": "180斤山东女孩拍写真美哭网友",
-      "onboard_time": 1711572670,
-      "rank": 13,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 46589,
-      "num": 46589,
-      "word": "北京沙尘暴",
-      "onboard_time": 1711561872,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 46185,
-      "num": 46185,
-      "word": "孔雪儿演女二",
-      "onboard_time": 1711573090,
-      "rank": 25,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 46068,
       "num": 46068,
       "word": "星穹铁道砂金",
@@ -539,16 +547,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 42338,
-      "num": 33052,
-      "word": "春季最狠减肥法 轻断食",
-      "onboard_time": 1711572911,
-      "rank": 35,
-      "category": "运动健身"
-    },
-    {
-      "raw_hot": 36565,
-      "num": 32731,
+      "raw_hot": 43737,
+      "num": 43737,
       "word": "为什么肚子上的肉这么难减",
       "onboard_time": 1711570751,
       "rank": 30,
@@ -579,8 +579,16 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 17151,
-      "num": 109248,
+      "raw_hot": 22193,
+      "num": 22193,
+      "word": "一想到从此把闺蜜叫嫂子就哈哈哈",
+      "onboard_time": 1711578252,
+      "rank": 44,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 20499,
+      "num": 110454,
       "word": "我国网络视听用户规模达10.74亿人",
       "onboard_time": 1711543999,
       "rank": 2,
