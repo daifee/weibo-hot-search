@@ -1,6 +1,6 @@
 {
   "startTime": 1711210803824,
-  "endTime": 1711532098525,
+  "endTime": 1711534735144,
   "band_list": [
     {
       "raw_hot": 3922233,
@@ -1091,6 +1091,14 @@
       "category": "美食,社会新闻"
     },
     {
+      "raw_hot": 834261,
+      "num": 834261,
+      "word": "离异3年内不得京内购房被废止",
+      "onboard_time": 1711532899,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 828870,
       "num": 435254,
       "word": "王俊凯爸妈的奶茶店引发粉丝凌晨排队",
@@ -1947,6 +1955,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 596362,
+      "num": 596362,
+      "word": "刘学义郑合惠子鞠婧祎 hi6",
+      "onboard_time": 1711531038,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 593557,
       "num": 608330,
       "word": "教育部要求开展学生欺凌防治培训",
@@ -2443,6 +2459,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 508838,
+      "num": 508838,
+      "word": "林俊杰演唱会 贵阳马拉松",
+      "onboard_time": 1711532059,
+      "rank": 49,
+      "category": "演出"
+    },
+    {
       "raw_hot": 507862,
       "num": 507862,
       "word": "A股",
@@ -2537,14 +2561,6 @@
       "onboard_time": 1711523236,
       "rank": 31,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 499479,
-      "num": 499479,
-      "word": "刘学义郑合惠子鞠婧祎 hi6",
-      "onboard_time": 1711531038,
-      "rank": 45,
-      "category": "综艺"
     },
     {
       "raw_hot": 498456,
@@ -2761,6 +2777,14 @@
       "onboard_time": 1711203021,
       "rank": 8,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 468617,
+      "num": 468617,
+      "word": "一觉醒来夏东海和锅姨在一起了",
+      "onboard_time": 1711530618,
+      "rank": 37,
+      "category": "电影"
     },
     {
       "raw_hot": 467386,
@@ -3017,6 +3041,14 @@
       "onboard_time": 1711455137,
       "rank": 14,
       "category": "演出"
+    },
+    {
+      "raw_hot": 430041,
+      "num": 482178,
+      "word": "胡锡进今天跌了7195元",
+      "onboard_time": 1711532779,
+      "rank": 6,
+      "category": "财经"
     },
     {
       "raw_hot": 429903,
@@ -3619,14 +3651,6 @@
       "category": "运动健身"
     },
     {
-      "raw_hot": 354894,
-      "num": 354894,
-      "word": "一觉醒来夏东海和锅姨在一起了",
-      "onboard_time": 1711530618,
-      "rank": 37,
-      "category": "电影"
-    },
-    {
       "raw_hot": 354429,
       "num": 321631,
       "word": "何炅吴昕你们不要再吵了",
@@ -4089,6 +4113,14 @@
       "onboard_time": 1711291940,
       "rank": 24,
       "category": "情感"
+    },
+    {
+      "raw_hot": 303778,
+      "num": 303778,
+      "word": "张庭夫妇搭上AI又瞄向海外",
+      "onboard_time": 1711533920,
+      "rank": 19,
+      "category": "艺人,财经"
     },
     {
       "raw_hot": 302918,
@@ -4819,6 +4851,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 254019,
+      "num": 254019,
+      "word": "李斯丹妮没认出杨幂",
+      "onboard_time": 1711533738,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 253210,
       "num": 253210,
       "word": "赵小棠和妈妈俩人炒不出一份西红柿鸡蛋",
@@ -4993,6 +5033,14 @@
       "onboard_time": 1711350620,
       "rank": 34,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 246802,
+      "num": 246802,
+      "word": "cpsp",
+      "onboard_time": 1711534580,
+      "rank": 23,
+      "category": "动漫"
     },
     {
       "raw_hot": 246507,
@@ -5267,6 +5315,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 234424,
+      "num": 234424,
+      "word": "MBTI懒惰程度排名",
+      "onboard_time": 1711532719,
+      "rank": 25,
+      "category": "情感"
+    },
+    {
       "raw_hot": 234044,
       "num": 234044,
       "word": "170元5串的烧烤值不值",
@@ -5361,6 +5417,14 @@
       "onboard_time": 1711204402,
       "rank": 27,
       "category": "体育"
+    },
+    {
+      "raw_hot": 231469,
+      "num": 231469,
+      "word": "沙尘暴",
+      "onboard_time": 1711533559,
+      "rank": 26,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 231437,
@@ -5921,6 +5985,14 @@
       "onboard_time": 1711285158,
       "rank": 27,
       "category": "情感"
+    },
+    {
+      "raw_hot": 207720,
+      "num": 207720,
+      "word": "重庆狼队的山茶花之约",
+      "onboard_time": 1711533799,
+      "rank": 30,
+      "category": "电竞"
     },
     {
       "raw_hot": 207522,
@@ -7307,6 +7379,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 174872,
+      "num": 174872,
+      "word": "喝咖啡和吃泡面的都沉默了",
+      "onboard_time": 1711534399,
+      "rank": 32,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 173656,
       "num": 173656,
       "word": "ILLIT电台live",
@@ -7897,6 +7977,14 @@
       "onboard_time": 1711354639,
       "rank": 35,
       "category": "体育"
+    },
+    {
+      "raw_hot": 161534,
+      "num": 161534,
+      "word": "工作不开心还有必要坚持吗",
+      "onboard_time": 1711533440,
+      "rank": 33,
+      "category": "情感"
     },
     {
       "raw_hot": 161453,
@@ -8531,6 +8619,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 148824,
+      "num": 148824,
+      "word": "薛之谦重庆",
+      "onboard_time": 1711533317,
+      "rank": 35,
+      "category": "演出"
+    },
+    {
       "raw_hot": 148818,
       "num": 148818,
       "word": "何老师给蒲熠星擦脸",
@@ -8603,6 +8699,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 147764,
+      "num": 147764,
+      "word": "IROHA西村力cha",
+      "onboard_time": 1711533379,
+      "rank": 36,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 147333,
       "num": 147333,
       "word": "于适宽肩",
@@ -8633,6 +8737,14 @@
       "onboard_time": 1711520418,
       "rank": 49,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 147000,
+      "num": 147000,
+      "word": "反式脂肪酸都藏在哪里",
+      "onboard_time": 1711532838,
+      "rank": 37,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 146975,
@@ -9387,6 +9499,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 130886,
+      "num": 130886,
+      "word": "胡锡进称希望A股跌破3000点是乍暖还寒",
+      "onboard_time": 1711532239,
+      "rank": 38,
+      "category": "财经"
+    },
+    {
       "raw_hot": 130305,
       "num": 130305,
       "word": "吴磊南宁",
@@ -9457,6 +9577,14 @@
       "onboard_time": 1711241959,
       "rank": 40,
       "category": "体育"
+    },
+    {
+      "raw_hot": 128216,
+      "num": 128216,
+      "word": "中美关系回不到过去但能够有更好的未来",
+      "onboard_time": 1711534339,
+      "rank": 39,
+      "category": "国内时政"
     },
     {
       "raw_hot": 128181,
@@ -9875,6 +10003,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 114717,
+      "num": 470455,
+      "word": "柯基警犬福仔被背着出街",
+      "onboard_time": 1711533018,
+      "rank": 8,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 114579,
       "num": 1135181,
       "word": "一张对比图感受什么是绿色奇迹",
@@ -9897,6 +10033,14 @@
       "onboard_time": 1711491252,
       "rank": 45,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 112829,
+      "num": 112829,
+      "word": "金泳勋徐明浩cha",
+      "onboard_time": 1711532599,
+      "rank": 46,
+      "category": "音乐"
     },
     {
       "raw_hot": 112779,
@@ -10139,14 +10283,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 97936,
-      "num": 97936,
-      "word": "林俊杰演唱会 贵阳马拉松",
-      "onboard_time": 1711532059,
-      "rank": 49,
-      "category": "演出"
-    },
-    {
       "raw_hot": 96795,
       "num": 113165,
       "word": "武磊表示目标就是全力争胜",
@@ -10177,6 +10313,14 @@
       "onboard_time": 1711282880,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 93324,
+      "num": 304619,
+      "word": "NikeAirMax",
+      "onboard_time": 1711533979,
+      "rank": 18,
+      "category": "运动健身"
     },
     {
       "raw_hot": 85558,
@@ -10483,7 +10627,7 @@
       "category": "数码"
     },
     {
-      "raw_hot": 54478,
+      "raw_hot": 54623,
       "num": 1016695,
       "word": "2023中国网络视听12大数据发布",
       "onboard_time": 1711522337,
