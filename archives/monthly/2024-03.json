@@ -1,6 +1,6 @@
 {
   "startTime": 1709223640991,
-  "endTime": 1711506850200,
+  "endTime": 1711509566058,
   "band_list": [
     {
       "raw_hot": 12728050,
@@ -6979,6 +6979,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 935085,
+      "num": 935085,
+      "word": "陶昕然是把女儿当自己重新养一遍",
+      "onboard_time": 1711506019,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 934667,
       "num": 934667,
       "word": "纪凌尘 小时候发过高烧的感觉",
@@ -8889,6 +8897,14 @@
       "onboard_time": 1711021278,
       "rank": 5,
       "category": "演出"
+    },
+    {
+      "raw_hot": 789512,
+      "num": 789512,
+      "word": "张颂文 你改下网名会不会好点",
+      "onboard_time": 1711508719,
+      "rank": 3,
+      "category": "艺人"
     },
     {
       "raw_hot": 788232,
@@ -11523,6 +11539,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 678435,
+      "num": 412696,
+      "word": "南京一米线店改名成甘肃麻辣烫店",
+      "onboard_time": 1711506078,
+      "rank": 46,
+      "category": "美食"
+    },
+    {
       "raw_hot": 678317,
       "num": 518410,
       "word": "科学家成功清除已感染的艾滋病毒",
@@ -13539,6 +13563,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 602768,
+      "num": 244386,
+      "word": "四千五的双休和六千五的单休",
+      "onboard_time": 1711507218,
+      "rank": 21,
+      "category": "情感"
+    },
+    {
       "raw_hot": 601913,
       "num": 365994,
       "word": "减掉1公斤脂肪需要多久",
@@ -14641,6 +14673,14 @@
       "onboard_time": 1709519488,
       "rank": 5,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 567100,
+      "num": 567100,
+      "word": "70%短剧用户是中低收入群体",
+      "onboard_time": 1711505719,
+      "rank": 19,
+      "category": "剧集"
     },
     {
       "raw_hot": 567075,
@@ -15803,6 +15843,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 538886,
+      "num": 538886,
+      "word": "小米su7",
+      "onboard_time": 1711341381,
+      "rank": 18,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 538737,
       "num": 538737,
       "word": "林孝埈更换微博置顶",
@@ -16513,6 +16561,14 @@
       "onboard_time": 1710737977,
       "rank": 19,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 520478,
+      "num": 411466,
+      "word": "无意识却很掉秤的减肥习惯",
+      "onboard_time": 1711505477,
+      "rank": 30,
+      "category": "运动健身"
     },
     {
       "raw_hot": 520457,
@@ -19009,14 +19065,6 @@
       "onboard_time": 1710729455,
       "rank": 13,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 465111,
-      "num": 346613,
-      "word": "无意识却很掉秤的减肥习惯",
-      "onboard_time": 1711505477,
-      "rank": 30,
-      "category": "运动健身"
     },
     {
       "raw_hot": 465057,
@@ -23163,14 +23211,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 381763,
-      "num": 381763,
-      "word": "小米su7",
-      "onboard_time": 1711341381,
-      "rank": 18,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 381610,
       "num": 381610,
       "word": "王曼昱WTT",
@@ -24539,14 +24579,6 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 358642,
-      "num": 358642,
-      "word": "70%短剧用户是中低收入群体",
-      "onboard_time": 1711505719,
-      "rank": 19,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 358576,
       "num": 358576,
       "word": "记协就记者报道燕郊爆炸事故被拦发声",
@@ -24713,6 +24745,14 @@
       "onboard_time": 1709789613,
       "rank": 46,
       "category": "财经"
+    },
+    {
+      "raw_hot": 356040,
+      "num": 356040,
+      "word": "杨紫多巴胺运动风",
+      "onboard_time": 1711507879,
+      "rank": 13,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 355933,
@@ -26153,14 +26193,6 @@
       "onboard_time": 1710316295,
       "rank": 17,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 334160,
-      "num": 334160,
-      "word": "陶昕然是把女儿当自己重新养一遍",
-      "onboard_time": 1711506019,
-      "rank": 38,
-      "category": "综艺"
     },
     {
       "raw_hot": 333944,
@@ -28113,6 +28145,14 @@
       "onboard_time": 1710931898,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 306609,
+      "num": 306609,
+      "word": "王一博好像罗伯特",
+      "onboard_time": 1711508239,
+      "rank": 14,
+      "category": "剧集"
     },
     {
       "raw_hot": 306501,
@@ -31475,6 +31515,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 271352,
+      "num": 271352,
+      "word": "湖人战胜雄鹿",
+      "onboard_time": 1709963728,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 271224,
       "num": 271224,
       "word": "刘维感谢黄新淳陪护",
@@ -31940,7 +31988,7 @@
     },
     {
       "raw_hot": 266420,
-      "num": 172719,
+      "num": 213576,
       "word": "湖人疯狂打铁",
       "onboard_time": 1711505537,
       "rank": 31,
@@ -34321,6 +34369,14 @@
       "onboard_time": 1709462132,
       "rank": 33,
       "category": "情感"
+    },
+    {
+      "raw_hot": 245934,
+      "num": 245934,
+      "word": "曾黎评价赵丽颖",
+      "onboard_time": 1711509197,
+      "rank": 19,
+      "category": "剧集"
     },
     {
       "raw_hot": 245894,
@@ -39179,6 +39235,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 215651,
+      "num": 214940,
+      "word": "发工资后不同年龄段的消费观",
+      "onboard_time": 1711508297,
+      "rank": 25,
+      "category": "情感"
+    },
+    {
       "raw_hot": 215646,
       "num": 215646,
       "word": "天水麻辣烫到底能火多久",
@@ -39345,6 +39409,14 @@
       "onboard_time": 1709261251,
       "rank": 26,
       "category": "情感"
+    },
+    {
+      "raw_hot": 215020,
+      "num": 215020,
+      "word": "湖人雄鹿加时",
+      "onboard_time": 1711507159,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 214962,
@@ -39785,14 +39857,6 @@
       "onboard_time": 1710226411,
       "rank": 27,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 213024,
-      "num": 213024,
-      "word": "南京一米线店改名成甘肃麻辣烫店",
-      "onboard_time": 1711506078,
-      "rank": 46,
-      "category": "美食"
     },
     {
       "raw_hot": 212910,
@@ -42251,6 +42315,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 202745,
+      "num": 202745,
+      "word": "草木人间剧组被举报过",
+      "onboard_time": 1711508958,
+      "rank": 28,
+      "category": "电影"
+    },
+    {
       "raw_hot": 202720,
       "num": 202720,
       "word": "一诺达成2600杀",
@@ -43921,6 +43993,14 @@
       "onboard_time": 1710055589,
       "rank": 30,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 197002,
+      "num": 191177,
+      "word": "aespa计划5月回归",
+      "onboard_time": 1711508838,
+      "rank": 30,
+      "category": "演出"
     },
     {
       "raw_hot": 196956,
@@ -45699,6 +45779,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 191209,
+      "num": 191209,
+      "word": "密切关注台军在金门的动向",
+      "onboard_time": 1711508777,
+      "rank": 29,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 191206,
       "num": 191206,
       "word": "4AM时隔1337天再夺周冠",
@@ -45913,6 +46001,14 @@
       "onboard_time": 1710913830,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 190554,
+      "num": 190554,
+      "word": "罗永浩将首次直播卖云",
+      "onboard_time": 1711508719,
+      "rank": 31,
+      "category": "互联网"
     },
     {
       "raw_hot": 190530,
@@ -52795,6 +52891,14 @@
       "category": "财经,美食"
     },
     {
+      "raw_hot": 164394,
+      "num": 164394,
+      "word": "蔡国庆为小儿子庆生",
+      "onboard_time": 1711507037,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 164344,
       "num": 164344,
       "word": "中超",
@@ -53604,7 +53708,7 @@
     },
     {
       "raw_hot": 161453,
-      "num": 161453,
+      "num": 433425,
       "word": "雷军称SU7是50万内最好开的轿车",
       "onboard_time": 1711506559,
       "rank": 33,
@@ -54001,6 +54105,14 @@
       "onboard_time": 1711450578,
       "rank": 36,
       "category": "情感"
+    },
+    {
+      "raw_hot": 160327,
+      "num": 160327,
+      "word": "什么是红曲成分",
+      "onboard_time": 1711507099,
+      "rank": 35,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 160294,
@@ -55947,6 +56059,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 154126,
+      "num": 154126,
+      "word": "第一次见被背着上班的警犬",
+      "onboard_time": 1711506258,
+      "rank": 39,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 154120,
       "num": 154120,
       "word": "烈焰 仙界是个巨大的草台班子",
@@ -57819,6 +57939,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 148061,
+      "num": 148061,
+      "word": "天水22天旅游收入16亿",
+      "onboard_time": 1711506618,
+      "rank": 47,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 148056,
       "num": 148056,
       "word": "李昀锐吃多少练多少",
@@ -58425,14 +58553,6 @@
       "onboard_time": 1709853142,
       "rank": 35,
       "category": "情感"
-    },
-    {
-      "raw_hot": 145914,
-      "num": 145914,
-      "word": "湖人战胜雄鹿",
-      "onboard_time": 1709963728,
-      "rank": 39,
-      "category": "体育"
     },
     {
       "raw_hot": 145854,
@@ -59643,6 +59763,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 142177,
+      "num": 142177,
+      "word": "肖战 猫人",
+      "onboard_time": 1711509438,
+      "rank": 40,
+      "category": "艺人,时尚"
+    },
+    {
       "raw_hot": 142143,
       "num": 142143,
       "word": "滇西小哥 松针宴",
@@ -60321,14 +60449,6 @@
       "onboard_time": 1709740290,
       "rank": 19,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 140003,
-      "num": 140003,
-      "word": "第一次见被背着上班的警犬",
-      "onboard_time": 1711506258,
-      "rank": 39,
-      "category": "幽默"
     },
     {
       "raw_hot": 139978,
@@ -61699,6 +61819,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 135384,
+      "num": 135384,
+      "word": "勇士战胜热火",
+      "onboard_time": 1711508777,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 135364,
       "num": 135364,
       "word": "周受资回应众议院通过TikTok剥离法案",
@@ -61729,6 +61857,14 @@
       "onboard_time": 1710410735,
       "rank": 39,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 135332,
+      "num": 135332,
+      "word": "伊万说武磊最佳实至名归",
+      "onboard_time": 1711506917,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 135246,
@@ -63715,6 +63851,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 128454,
+      "num": 128454,
+      "word": "黄泉歪了",
+      "onboard_time": 1711509499,
+      "rank": 47,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 128451,
       "num": 128451,
       "word": "国足主帅正式亮相",
@@ -64305,6 +64449,14 @@
       "onboard_time": 1711008211,
       "rank": 20,
       "category": "数码"
+    },
+    {
+      "raw_hot": 126226,
+      "num": 126226,
+      "word": "30多块的麻辣烫到底算不算贵",
+      "onboard_time": 1711509438,
+      "rank": 49,
+      "category": "美食"
     },
     {
       "raw_hot": 126203,
@@ -68067,6 +68219,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 108525,
+      "num": 817291,
+      "word": "随手一拍就很出片的春天",
+      "onboard_time": 1711508118,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 108459,
       "num": 108459,
       "word": "感觉别人赚钱很容易",
@@ -68273,14 +68433,6 @@
       "onboard_time": 1711431558,
       "rank": 47,
       "category": "教育,社会新闻"
-    },
-    {
-      "raw_hot": 107701,
-      "num": 107701,
-      "word": "天水22天旅游收入16亿",
-      "onboard_time": 1711506618,
-      "rank": 47,
-      "category": "旅游"
     },
     {
       "raw_hot": 107639,
@@ -72289,6 +72441,14 @@
       "onboard_time": 1710868220,
       "rank": 41,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 56591,
+      "num": 129918,
+      "word": "vivoXFold3成折叠屏首选",
+      "onboard_time": 1711509318,
+      "rank": 46,
+      "category": "数码"
     },
     {
       "raw_hot": 56505,
