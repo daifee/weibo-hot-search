@@ -1,6 +1,6 @@
 {
   "startTime": 1709223640991,
-  "endTime": 1711496050767,
+  "endTime": 1711501896983,
   "band_list": [
     {
       "raw_hot": 12728050,
@@ -1091,6 +1091,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 2092368,
+      "num": 2092368,
+      "word": "小林制药保健品已致2死106人住院",
+      "onboard_time": 1711500498,
+      "rank": 0,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2088881,
       "num": 430558,
       "word": "李诞爆改",
@@ -1249,6 +1257,14 @@
       "onboard_time": 1709429727,
       "rank": 0,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 1979849,
+      "num": 378511,
+      "word": "女子称被父亲强奸事件姑姑发声否认",
+      "onboard_time": 1711495697,
+      "rank": 25,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1975686,
@@ -2385,6 +2401,14 @@
       "onboard_time": 1709776589,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1587128,
+      "num": 1587128,
+      "word": "考生蔡元培北大复试仍是专业第一",
+      "onboard_time": 1711494074,
+      "rank": 1,
+      "category": "教育"
     },
     {
       "raw_hot": 1582845,
@@ -3673,14 +3697,6 @@
       "onboard_time": 1709271392,
       "rank": 1,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1308409,
-      "num": 1308409,
-      "word": "考生蔡元培北大复试仍是专业第一",
-      "onboard_time": 1711494074,
-      "rank": 1,
-      "category": "教育"
     },
     {
       "raw_hot": 1306580,
@@ -8635,6 +8651,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 803419,
+      "num": 375542,
+      "word": "Tara李雅凛试图自杀",
+      "onboard_time": 1711500558,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 803285,
       "num": 803285,
       "word": "消费者起诉爱马仕配货潜规则",
@@ -11569,6 +11593,14 @@
       "onboard_time": 1709728888,
       "rank": 37,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 672524,
+      "num": 374286,
+      "word": "大众帕萨特已经12万了",
+      "onboard_time": 1711495936,
+      "rank": 14,
+      "category": "汽车"
     },
     {
       "raw_hot": 672445,
@@ -14763,6 +14795,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 563125,
+      "num": 200182,
+      "word": "外交部回应巴基斯坦炸弹袭击",
+      "onboard_time": 1711499719,
+      "rank": 30,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 562935,
       "num": 562935,
       "word": "马龙林高远男双夺冠",
@@ -15473,6 +15513,14 @@
       "onboard_time": 1711443439,
       "rank": 10,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 544413,
+      "num": 544413,
+      "word": "下班后的年轻人开始搞第二事业了",
+      "onboard_time": 1711456757,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 544392,
@@ -17003,6 +17051,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 505567,
+      "num": 281115,
+      "word": "姐姐离婚时发的朋友圈",
+      "onboard_time": 1711495697,
+      "rank": 21,
+      "category": "情感"
+    },
+    {
       "raw_hot": 505354,
       "num": 505354,
       "word": "虞书欣豌豆公主的床",
@@ -17121,6 +17177,14 @@
       "onboard_time": 1709736334,
       "rank": 10,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 502254,
+      "num": 372407,
+      "word": "钱老这是已经重启八次人生了吧",
+      "onboard_time": 1711495995,
+      "rank": 42,
+      "category": "教育"
     },
     {
       "raw_hot": 502077,
@@ -17505,14 +17569,6 @@
       "onboard_time": 1710822037,
       "rank": 48,
       "category": "情感"
-    },
-    {
-      "raw_hot": 494231,
-      "num": 494231,
-      "word": "下班后的年轻人开始搞第二事业了",
-      "onboard_time": 1711456757,
-      "rank": 41,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 494193,
@@ -18555,6 +18611,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 471493,
+      "num": 277805,
+      "word": "突然断崖式降薪了",
+      "onboard_time": 1711496416,
+      "rank": 21,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 471427,
       "num": 433738,
       "word": "男朋友相亲相到了我朋友",
@@ -19537,6 +19601,14 @@
       "onboard_time": 1709286272,
       "rank": 13,
       "category": "游戏,网红"
+    },
+    {
+      "raw_hot": 450317,
+      "num": 450317,
+      "word": "赵丽颖戴高珠",
+      "onboard_time": 1711496897,
+      "rank": 6,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 450227,
@@ -20819,6 +20891,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 424454,
+      "num": 424454,
+      "word": "金秀贤金智媛双人画报",
+      "onboard_time": 1711499300,
+      "rank": 7,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 424313,
       "num": 424313,
       "word": "小凤凰是赵丽颖自己配的音",
@@ -21465,6 +21545,14 @@
       "onboard_time": 1710397654,
       "rank": 37,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 410743,
+      "num": 410743,
+      "word": "空投物资致加沙18人死亡",
+      "onboard_time": 1711500498,
+      "rank": 8,
+      "category": "国外时政"
     },
     {
       "raw_hot": 410664,
@@ -23171,6 +23259,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 378786,
+      "num": 378786,
+      "word": "迪丽热巴陈星旭墓地路透",
+      "onboard_time": 1711497259,
+      "rank": 9,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 378716,
       "num": 269471,
       "word": "诺一霓娜近照",
@@ -23707,6 +23803,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 369952,
+      "num": 369952,
+      "word": "早起后有这4个表现说明身体健康",
+      "onboard_time": 1711500498,
+      "rank": 15,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 369786,
       "num": 298173,
       "word": "杨紫金色高定",
@@ -23817,6 +23921,14 @@
       "onboard_time": 1710557315,
       "rank": 12,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 367948,
+      "num": 367948,
+      "word": "磁暴",
+      "onboard_time": 1711495397,
+      "rank": 16,
+      "category": "自然"
     },
     {
       "raw_hot": 367785,
@@ -27483,6 +27595,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 312559,
+      "num": 312559,
+      "word": "王楚然吃面照",
+      "onboard_time": 1711497438,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 312387,
       "num": 312387,
       "word": "刘学义破万撑伞图",
@@ -28001,14 +28121,6 @@
       "onboard_time": 1709942245,
       "rank": 9,
       "category": "教育"
-    },
-    {
-      "raw_hot": 305073,
-      "num": 145140,
-      "word": "姐姐离婚时发的朋友圈",
-      "onboard_time": 1711495697,
-      "rank": 21,
-      "category": "情感"
     },
     {
       "raw_hot": 305006,
@@ -36211,6 +36323,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 230709,
+      "num": 230709,
+      "word": "发现研究生身上都有导师的影子",
+      "onboard_time": 1711496178,
+      "rank": 25,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 230669,
       "num": 230669,
       "word": "爱马仕CEO曾称中国客户迷恋爱马仕",
@@ -36729,6 +36849,14 @@
       "onboard_time": 1711263619,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 227876,
+      "num": 227876,
+      "word": "iPhone或将配可拆卸模块电池",
+      "onboard_time": 1711500801,
+      "rank": 26,
+      "category": "数码"
     },
     {
       "raw_hot": 227838,
@@ -39651,14 +39779,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 212299,
-      "num": 212299,
-      "word": "大众帕萨特已经12万了",
-      "onboard_time": 1711495936,
-      "rank": 14,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 212286,
       "num": 212286,
       "word": "许垚",
@@ -40089,6 +40209,14 @@
       "onboard_time": 1710952648,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 209851,
+      "num": 209851,
+      "word": "开封王婆五年前在角落练舞",
+      "onboard_time": 1711494315,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 209838,
@@ -41073,6 +41201,14 @@
       "onboard_time": 1711462639,
       "rank": 49,
       "category": "情感"
+    },
+    {
+      "raw_hot": 205657,
+      "num": 205657,
+      "word": "瘦脸伸脖子的最佳运动",
+      "onboard_time": 1711499539,
+      "rank": 28,
+      "category": "运动健身"
     },
     {
       "raw_hot": 205649,
@@ -42595,6 +42731,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 200467,
+      "num": 200467,
+      "word": "春天的花花真的很适合当头像",
+      "onboard_time": 1711498158,
+      "rank": 29,
+      "category": "情感"
+    },
+    {
       "raw_hot": 200456,
       "num": 200456,
       "word": "世界植发之都",
@@ -43777,6 +43921,14 @@
       "onboard_time": 1710719975,
       "rank": 31,
       "category": "数码"
+    },
+    {
+      "raw_hot": 196703,
+      "num": 196703,
+      "word": "与凤行16集特效",
+      "onboard_time": 1711498700,
+      "rank": 32,
+      "category": "剧集"
     },
     {
       "raw_hot": 196695,
@@ -45153,14 +45305,6 @@
       "onboard_time": 1709457630,
       "rank": 27,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 191931,
-      "num": 191931,
-      "word": "磁暴",
-      "onboard_time": 1711495397,
-      "rank": 16,
-      "category": "自然"
     },
     {
       "raw_hot": 191832,
@@ -53195,6 +53339,14 @@
       "category": "健康医疗,科学科普"
     },
     {
+      "raw_hot": 161826,
+      "num": 161826,
+      "word": "没工作时感觉天都要塌了",
+      "onboard_time": 1711501099,
+      "rank": 35,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 161797,
       "num": 161797,
       "word": "金鹤龙晒杨幂新妆",
@@ -53761,6 +53913,14 @@
       "onboard_time": 1709955270,
       "rank": 36,
       "category": "教育"
+    },
+    {
+      "raw_hot": 160062,
+      "num": 160062,
+      "word": "国足争气",
+      "onboard_time": 1711497859,
+      "rank": 36,
+      "category": "体育"
     },
     {
       "raw_hot": 159997,
@@ -54441,6 +54601,14 @@
       "onboard_time": 1710293973,
       "rank": 44,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 158148,
+      "num": 158148,
+      "word": "瑞士卷和瑞士有关系吗",
+      "onboard_time": 1711501398,
+      "rank": 37,
+      "category": "美食"
     },
     {
       "raw_hot": 158144,
@@ -55235,6 +55403,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 155550,
+      "num": 155550,
+      "word": "TXT 大事很妙",
+      "onboard_time": 1711500199,
+      "rank": 38,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 155549,
       "num": 155549,
       "word": "魏大勋巴黎时装周",
@@ -55801,6 +55977,14 @@
       "onboard_time": 1710548370,
       "rank": 41,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 153333,
+      "num": 153333,
+      "word": "MOKA 出圈",
+      "onboard_time": 1711501339,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 153311,
@@ -59507,6 +59691,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 141486,
+      "num": 141486,
+      "word": "章昊OST成绩",
+      "onboard_time": 1711501219,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 141439,
       "num": 141439,
       "word": "张杰新专辑先行曲回上线",
@@ -60635,6 +60827,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 137631,
+      "num": 137631,
+      "word": "下场武磊停赛",
+      "onboard_time": 1711497919,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 137626,
       "num": 192967,
       "word": "短腿小象跨树干有多萌",
@@ -61299,14 +61499,6 @@
       "category": "时尚"
     },
     {
-      "raw_hot": 135533,
-      "num": 135533,
-      "word": "女子称被父亲强奸事件姑姑发声否认",
-      "onboard_time": 1711495697,
-      "rank": 25,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 135522,
       "num": 135522,
       "word": "枭起青壤路透",
@@ -61721,6 +61913,14 @@
       "onboard_time": 1709446286,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 134273,
+      "num": 134273,
+      "word": "推荐可能认识的人或是一种冒犯",
+      "onboard_time": 1711499840,
+      "rank": 46,
+      "category": "互联网"
     },
     {
       "raw_hot": 134261,
@@ -64417,6 +64617,14 @@
       "onboard_time": 1709702314,
       "rank": 46,
       "category": "情感"
+    },
+    {
+      "raw_hot": 123917,
+      "num": 123917,
+      "word": "才知道跷二郎腿会让脸变大",
+      "onboard_time": 1711500440,
+      "rank": 48,
+      "category": "运动健身"
     },
     {
       "raw_hot": 123886,
@@ -70259,14 +70467,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 80775,
-      "num": 110243,
-      "word": "开封王婆五年前在角落练舞",
-      "onboard_time": 1711494315,
-      "rank": 28,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 80313,
       "num": 80313,
       "word": "粉丝抵制黄牛炒作300元生菜",
@@ -70961,14 +71161,6 @@
       "onboard_time": 1711430780,
       "rank": 38,
       "category": "运动健身"
-    },
-    {
-      "raw_hot": 70540,
-      "num": 70540,
-      "word": "钱老这是已经重启八次人生了吧",
-      "onboard_time": 1711495995,
-      "rank": 42,
-      "category": "教育"
     },
     {
       "raw_hot": 70425,
@@ -72275,6 +72467,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 51553,
+      "num": 1086983,
+      "word": "春日里的中国随手拍",
+      "onboard_time": 1711457539,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 51421,
       "num": 1198682,
       "word": "两会数读中国",
@@ -72945,14 +73145,6 @@
       "onboard_time": 1710869601,
       "rank": 48,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 40625,
-      "num": 634883,
-      "word": "春日里的中国随手拍",
-      "onboard_time": 1711457539,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 40536,

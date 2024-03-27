@@ -1,10 +1,26 @@
 {
   "startTime": 1711470163483,
-  "endTime": 1711496050767,
+  "endTime": 1711501896983,
   "band_list": [
     {
-      "raw_hot": 1308409,
-      "num": 1308409,
+      "raw_hot": 2092368,
+      "num": 2092368,
+      "word": "小林制药保健品已致2死106人住院",
+      "onboard_time": 1711500498,
+      "rank": 0,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1979849,
+      "num": 378511,
+      "word": "女子称被父亲强奸事件姑姑发声否认",
+      "onboard_time": 1711495697,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1587128,
+      "num": 1587128,
       "word": "考生蔡元培北大复试仍是专业第一",
       "onboard_time": 1711494074,
       "rank": 1,
@@ -35,6 +51,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 803419,
+      "num": 375542,
+      "word": "Tara李雅凛试图自杀",
+      "onboard_time": 1711500558,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 746197,
       "num": 385900,
       "word": "南宁出现大量裸奔人士系谣言",
@@ -43,8 +67,16 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 672524,
+      "num": 374286,
+      "word": "大众帕萨特已经12万了",
+      "onboard_time": 1711495936,
+      "rank": 14,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 668106,
-      "num": 233615,
+      "num": 254080,
       "word": "警方介入女子裸体现身商场",
       "onboard_time": 1711447578,
       "rank": 21,
@@ -57,6 +89,38 @@
       "onboard_time": 1711464320,
       "rank": 3,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 563125,
+      "num": 200182,
+      "word": "外交部回应巴基斯坦炸弹袭击",
+      "onboard_time": 1711499719,
+      "rank": 30,
+      "category": "国外时政"
+    },
+    {
+      "raw_hot": 544413,
+      "num": 544413,
+      "word": "下班后的年轻人开始搞第二事业了",
+      "onboard_time": 1711456757,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 505567,
+      "num": 281115,
+      "word": "姐姐离婚时发的朋友圈",
+      "onboard_time": 1711495697,
+      "rank": 21,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 502254,
+      "num": 372407,
+      "word": "钱老这是已经重启八次人生了吧",
+      "onboard_time": 1711495995,
+      "rank": 42,
+      "category": "教育"
     },
     {
       "raw_hot": 498483,
@@ -75,12 +139,36 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 449202,
-      "num": 449202,
-      "word": "下班后的年轻人开始搞第二事业了",
-      "onboard_time": 1711456757,
+      "raw_hot": 471493,
+      "num": 277805,
+      "word": "突然断崖式降薪了",
+      "onboard_time": 1711496416,
+      "rank": 21,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 450317,
+      "num": 450317,
+      "word": "赵丽颖戴高珠",
+      "onboard_time": 1711496897,
       "rank": 6,
-      "category": "社会新闻"
+      "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 424454,
+      "num": 424454,
+      "word": "金秀贤金智媛双人画报",
+      "onboard_time": 1711499300,
+      "rank": 7,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 410743,
+      "num": 410743,
+      "word": "空投物资致加沙18人死亡",
+      "onboard_time": 1711500498,
+      "rank": 8,
+      "category": "国外时政"
     },
     {
       "raw_hot": 384221,
@@ -99,6 +187,30 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 378786,
+      "num": 378786,
+      "word": "迪丽热巴陈星旭墓地路透",
+      "onboard_time": 1711497259,
+      "rank": 9,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 369952,
+      "num": 369952,
+      "word": "早起后有这4个表现说明身体健康",
+      "onboard_time": 1711500498,
+      "rank": 15,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 367948,
+      "num": 367948,
+      "word": "磁暴",
+      "onboard_time": 1711495397,
+      "rank": 16,
+      "category": "自然"
+    },
+    {
       "raw_hot": 329516,
       "num": 394952,
       "word": "国足4比1新加坡",
@@ -115,12 +227,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 305073,
-      "num": 145140,
-      "word": "姐姐离婚时发的朋友圈",
-      "onboard_time": 1711495697,
-      "rank": 21,
-      "category": "情感"
+      "raw_hot": 312559,
+      "num": 312559,
+      "word": "王楚然吃面照",
+      "onboard_time": 1711497438,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 298120,
@@ -203,12 +315,44 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 212299,
-      "num": 212299,
-      "word": "大众帕萨特已经12万了",
-      "onboard_time": 1711495936,
-      "rank": 14,
-      "category": "汽车"
+      "raw_hot": 230709,
+      "num": 230709,
+      "word": "发现研究生身上都有导师的影子",
+      "onboard_time": 1711496178,
+      "rank": 25,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 227876,
+      "num": 227876,
+      "word": "iPhone或将配可拆卸模块电池",
+      "onboard_time": 1711500801,
+      "rank": 26,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 209851,
+      "num": 209851,
+      "word": "开封王婆五年前在角落练舞",
+      "onboard_time": 1711494315,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 205657,
+      "num": 205657,
+      "word": "瘦脸伸脖子的最佳运动",
+      "onboard_time": 1711499539,
+      "rank": 28,
+      "category": "运动健身"
+    },
+    {
+      "raw_hot": 200467,
+      "num": 200467,
+      "word": "春天的花花真的很适合当头像",
+      "onboard_time": 1711498158,
+      "rank": 29,
+      "category": "情感"
     },
     {
       "raw_hot": 199483,
@@ -219,12 +363,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 191931,
-      "num": 191931,
-      "word": "磁暴",
-      "onboard_time": 1711495397,
-      "rank": 16,
-      "category": "自然"
+      "raw_hot": 196703,
+      "num": 196703,
+      "word": "与凤行16集特效",
+      "onboard_time": 1711498700,
+      "rank": 32,
+      "category": "剧集"
     },
     {
       "raw_hot": 187747,
@@ -259,12 +403,36 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 161826,
+      "num": 161826,
+      "word": "没工作时感觉天都要塌了",
+      "onboard_time": 1711501099,
+      "rank": 35,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 160295,
       "num": 386904,
       "word": "外媒称5名中国公民在巴基斯坦遇袭身亡",
       "onboard_time": 1711449198,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 160062,
+      "num": 160062,
+      "word": "国足争气",
+      "onboard_time": 1711497859,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 158148,
+      "num": 158148,
+      "word": "瑞士卷和瑞士有关系吗",
+      "onboard_time": 1711501398,
+      "rank": 37,
+      "category": "美食"
     },
     {
       "raw_hot": 157859,
@@ -275,12 +443,36 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 155550,
+      "num": 155550,
+      "word": "TXT 大事很妙",
+      "onboard_time": 1711500199,
+      "rank": 38,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 153333,
+      "num": 153333,
+      "word": "MOKA 出圈",
+      "onboard_time": 1711501339,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 150417,
       "num": 241363,
       "word": "泰国vs韩国",
       "onboard_time": 1711462280,
       "rank": 19,
       "category": "体育"
+    },
+    {
+      "raw_hot": 141486,
+      "num": 141486,
+      "word": "章昊OST成绩",
+      "onboard_time": 1711501219,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 141156,
@@ -307,12 +499,36 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 135533,
-      "num": 135533,
-      "word": "女子称被父亲强奸事件姑姑发声否认",
-      "onboard_time": 1711495697,
-      "rank": 25,
-      "category": "社会新闻"
+      "raw_hot": 137631,
+      "num": 137631,
+      "word": "下场武磊停赛",
+      "onboard_time": 1711497919,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 135607,
+      "num": 135607,
+      "word": "这是我的岛",
+      "onboard_time": 1711498219,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 134902,
+      "num": 134902,
+      "word": "我的保洁阿姨在北京买了套房",
+      "onboard_time": 1711462219,
+      "rank": 44,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 134273,
+      "num": 134273,
+      "word": "推荐可能认识的人或是一种冒犯",
+      "onboard_time": 1711499840,
+      "rank": 46,
+      "category": "互联网"
     },
     {
       "raw_hot": 128658,
@@ -323,20 +539,20 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 126113,
-      "num": 126113,
-      "word": "我的保洁阿姨在北京买了套房",
-      "onboard_time": 1711462219,
-      "rank": 44,
-      "category": "情感"
-    },
-    {
       "raw_hot": 124829,
       "num": 140424,
       "word": "国足赢泰国就能提前出线",
       "onboard_time": 1711466779,
       "rank": 27,
       "category": "体育"
+    },
+    {
+      "raw_hot": 123917,
+      "num": 123917,
+      "word": "才知道跷二郎腿会让脸变大",
+      "onboard_time": 1711500440,
+      "rank": 48,
+      "category": "运动健身"
     },
     {
       "raw_hot": 123778,
@@ -499,14 +715,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 80775,
-      "num": 110243,
-      "word": "开封王婆五年前在角落练舞",
-      "onboard_time": 1711494315,
-      "rank": 28,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 77489,
       "num": 77489,
       "word": "江俊霖 体面",
@@ -521,14 +729,6 @@
       "onboard_time": 1711491491,
       "rank": 33,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 70540,
-      "num": 70540,
-      "word": "钱老这是已经重启八次人生了吧",
-      "onboard_time": 1711495995,
-      "rank": 42,
-      "category": "教育"
     },
     {
       "raw_hot": 68022,
@@ -553,6 +753,14 @@
       "onboard_time": 1711465039,
       "rank": 29,
       "category": "体育"
+    },
+    {
+      "raw_hot": 51553,
+      "num": 1086983,
+      "word": "春日里的中国随手拍",
+      "onboard_time": 1711457539,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 50582,
@@ -591,14 +799,6 @@
       "num": 651706,
       "word": "我国完成印度洋渔业资源调查",
       "onboard_time": 1711457719,
-      "rank": 2,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 40625,
-      "num": 634883,
-      "word": "春日里的中国随手拍",
-      "onboard_time": 1711457539,
       "rank": 2,
       "category": "社会新闻"
     },
