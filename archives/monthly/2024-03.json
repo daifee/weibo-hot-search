@@ -1,6 +1,6 @@
 {
   "startTime": 1709223640991,
-  "endTime": 1711543622293,
+  "endTime": 1711545579623,
   "band_list": [
     {
       "raw_hot": 12728050,
@@ -864,6 +864,14 @@
       "word": "蓝可儿等16人殒命酒店挂牌出售",
       "onboard_time": 1709942365,
       "rank": 10,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2271459,
+      "num": 2271459,
+      "word": "大熊猫青糍死亡",
+      "onboard_time": 1711542680,
+      "rank": 40,
       "category": "社会新闻"
     },
     {
@@ -4939,14 +4947,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 1152603,
-      "num": 1152603,
-      "word": "大熊猫青糍死亡",
-      "onboard_time": 1711542680,
-      "rank": 40,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1151715,
       "num": 1151715,
       "word": "315预制菜",
@@ -8377,6 +8377,14 @@
       "onboard_time": 1709739753,
       "rank": 1,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 836575,
+      "num": 247316,
+      "word": "经常喝牛奶或增加这两种癌症风险",
+      "onboard_time": 1711541779,
+      "rank": 21,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 835920,
@@ -12659,14 +12667,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 642800,
-      "num": 232972,
-      "word": "经常喝牛奶或增加这两种癌症风险",
-      "onboard_time": 1711541779,
-      "rank": 21,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 642751,
       "num": 490426,
       "word": "2024奥斯卡红毯",
@@ -14347,6 +14347,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 582613,
+      "num": 582613,
+      "word": "中信",
+      "onboard_time": 1711544179,
+      "rank": 5,
+      "category": "财经"
+    },
+    {
       "raw_hot": 582504,
       "num": 582504,
       "word": "黄泉歪了",
@@ -14369,6 +14377,14 @@
       "onboard_time": 1709691688,
       "rank": 38,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 581570,
+      "num": 581570,
+      "word": "黄景瑜我妈要百度你的电话",
+      "onboard_time": 1711543098,
+      "rank": 27,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 581311,
@@ -14569,6 +14585,14 @@
       "onboard_time": 1710668131,
       "rank": 7,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 576537,
+      "num": 467837,
+      "word": "终于学会删除空白页了",
+      "onboard_time": 1711542738,
+      "rank": 30,
+      "category": "科学科普"
     },
     {
       "raw_hot": 576244,
@@ -18051,6 +18075,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 493414,
+      "num": 493414,
+      "word": "禁售殡葬用品后南通12345接大量电话",
+      "onboard_time": 1711534938,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 493215,
       "num": 478836,
       "word": "董明珠建议建立家电使用年限强制性标准",
@@ -18145,6 +18177,14 @@
       "onboard_time": 1709549969,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 490953,
+      "num": 490953,
+      "word": "董宇辉湖北省博直播打灯遭质疑",
+      "onboard_time": 1711543760,
+      "rank": 9,
+      "category": "互联网,网红"
     },
     {
       "raw_hot": 490286,
@@ -20451,14 +20491,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 443735,
-      "num": 443735,
-      "word": "禁售殡葬用品后南通12345接大量电话",
-      "onboard_time": 1711534938,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 443651,
       "num": 443651,
       "word": "X疾病会到来吗",
@@ -20633,6 +20665,14 @@
       "onboard_time": 1709477252,
       "rank": 8,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 440514,
+      "num": 440514,
+      "word": "曝刘亦菲加盟梁朝伟新片",
+      "onboard_time": 1711544359,
+      "rank": 11,
+      "category": "电影"
     },
     {
       "raw_hot": 440377,
@@ -23163,6 +23203,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 390724,
+      "num": 390724,
+      "word": "莫斯科恐袭死亡升至140人",
+      "onboard_time": 1711542261,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 390697,
       "num": 390697,
       "word": "俄恐袭遇难者遗体辨认工作开始",
@@ -25387,14 +25435,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 354567,
-      "num": 171503,
-      "word": "终于学会删除空白页了",
-      "onboard_time": 1711542738,
-      "rank": 30,
-      "category": "科学科普"
-    },
-    {
       "raw_hot": 354453,
       "num": 354453,
       "word": "山东小钺钺被刺伤嫌疑人已被逮捕",
@@ -26155,6 +26195,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 342561,
+      "num": 342561,
+      "word": "王一博不懂金融奶鳄",
+      "onboard_time": 1711543639,
+      "rank": 15,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 342361,
       "num": 262984,
       "word": "女子称打车爱上司机2年花了400万",
@@ -26809,14 +26857,6 @@
       "onboard_time": 1710681877,
       "rank": 24,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 333540,
-      "num": 333540,
-      "word": "莫斯科恐袭死亡升至140人",
-      "onboard_time": 1711542261,
-      "rank": 23,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 333503,
@@ -30041,6 +30081,14 @@
       "onboard_time": 1709531553,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 293455,
+      "num": 293455,
+      "word": "林更新直播",
+      "onboard_time": 1711545078,
+      "rank": 17,
+      "category": "剧集"
     },
     {
       "raw_hot": 293429,
@@ -35867,6 +35915,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 240542,
+      "num": 240542,
+      "word": "TES战胜NIP",
+      "onboard_time": 1711544600,
+      "rank": 22,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 240520,
       "num": 240520,
       "word": "打假",
@@ -40745,6 +40801,14 @@
       "onboard_time": 1711163182,
       "rank": 33,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 212829,
+      "num": 212829,
+      "word": "射雕 公测",
+      "onboard_time": 1711545259,
+      "rank": 23,
+      "category": "游戏"
     },
     {
       "raw_hot": 212740,
@@ -46275,6 +46339,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 192725,
+      "num": 187190,
+      "word": "TES锁定季后赛复活甲",
+      "onboard_time": 1711545019,
+      "rank": 30,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 192650,
       "num": 192650,
       "word": "TES战胜iG",
@@ -46401,6 +46473,14 @@
       "onboard_time": 1711357518,
       "rank": 35,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 192188,
+      "num": 192188,
+      "word": "宋亚轩刘耀文张真源互动",
+      "onboard_time": 1711544479,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 192187,
@@ -47697,14 +47777,6 @@
       "onboard_time": 1711522698,
       "rank": 39,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 188172,
-      "num": 188172,
-      "word": "黄景瑜我妈要百度你的电话",
-      "onboard_time": 1711543098,
-      "rank": 27,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 188162,
@@ -49417,6 +49489,14 @@
       "onboard_time": 1709452290,
       "rank": 34,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 181525,
+      "num": 181525,
+      "word": "任泽平称个人已投资黄金",
+      "onboard_time": 1711545499,
+      "rank": 32,
+      "category": "财经"
     },
     {
       "raw_hot": 181515,
@@ -53027,6 +53107,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 167746,
+      "num": 167746,
+      "word": "娜扎去普吉岛了",
+      "onboard_time": 1711545019,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 167726,
       "num": 167726,
       "word": "BLG战胜FPX",
@@ -53651,6 +53739,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 165564,
+      "num": 165564,
+      "word": "wtt",
+      "onboard_time": 1711544959,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 165495,
       "num": 165495,
       "word": "伞兵周决MVP",
@@ -54017,6 +54113,14 @@
       "onboard_time": 1709301814,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 164225,
+      "num": 164225,
+      "word": "马龙3比0战胜莫雷加德",
+      "onboard_time": 1711545019,
+      "rank": 37,
+      "category": "体育"
     },
     {
       "raw_hot": 164211,
@@ -56705,6 +56809,14 @@
       "onboard_time": 1710671255,
       "rank": 46,
       "category": "健康医疗,科学科普"
+    },
+    {
+      "raw_hot": 155932,
+      "num": 155932,
+      "word": "专家称A股跌破3000点别太当回事",
+      "onboard_time": 1711544779,
+      "rank": 38,
+      "category": "财经"
     },
     {
       "raw_hot": 155906,
@@ -62299,6 +62411,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 138104,
+      "num": 138104,
+      "word": "清融要回归了",
+      "onboard_time": 1711544299,
+      "rank": 41,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 138100,
       "num": 138100,
       "word": "JDG战胜iG",
@@ -63481,6 +63601,14 @@
       "onboard_time": 1711442119,
       "rank": 47,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 134536,
+      "num": 134536,
+      "word": "小林制药中国公司声明",
+      "onboard_time": 1711545439,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 134527,
@@ -71363,6 +71491,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 95451,
+      "num": 842366,
+      "word": "我国网络视听用户规模达10.74亿人",
+      "onboard_time": 1711543999,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 95380,
       "num": 2034252,
       "word": "2024年民生工作三大重点",
@@ -77381,6 +77517,9 @@
     },
     {
       "word": "#习近平同美国工商界和战略学术界代表合影#"
+    },
+    {
+      "word": "#习近平会见荷兰首相吕特#"
     }
   ]
 }
