@@ -1,6 +1,6 @@
 {
   "startTime": 1711210803824,
-  "endTime": 1711516688606,
+  "endTime": 1711517649616,
   "band_list": [
     {
       "raw_hot": 3922233,
@@ -387,6 +387,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 1450947,
+      "num": 1450947,
+      "word": "陈铭的论文",
+      "onboard_time": 1711514722,
+      "rank": 1,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1450849,
       "num": 1450849,
       "word": "郭敬明 纪凌尘最好的医美",
@@ -641,14 +649,6 @@
       "onboard_time": 1711464979,
       "rank": 21,
       "category": "情感"
-    },
-    {
-      "raw_hot": 1144648,
-      "num": 1144648,
-      "word": "陈铭的论文",
-      "onboard_time": 1711514722,
-      "rank": 1,
-      "category": "艺人"
     },
     {
       "raw_hot": 1140173,
@@ -2187,6 +2187,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 532420,
+      "num": 532420,
+      "word": "周也 冰国皇太女",
+      "onboard_time": 1711514961,
+      "rank": 15,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 528167,
       "num": 336927,
       "word": "星期一已经崩溃一万次了",
@@ -2369,6 +2377,14 @@
       "onboard_time": 1711266980,
       "rank": 14,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 502657,
+      "num": 502657,
+      "word": "董宇辉回应被说架子大",
+      "onboard_time": 1711514898,
+      "rank": 14,
+      "category": "互联网"
     },
     {
       "raw_hot": 502254,
@@ -2643,6 +2659,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 461280,
+      "num": 461280,
+      "word": "爸爸煮饭费水遭女儿压迫式教育",
+      "onboard_time": 1711514180,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 460969,
       "num": 460969,
       "word": "星巴克创始人称对价格战不感兴趣",
@@ -2705,14 +2729,6 @@
       "onboard_time": 1711332319,
       "rank": 19,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 451647,
-      "num": 314427,
-      "word": "周也 冰国皇太女",
-      "onboard_time": 1711514961,
-      "rank": 15,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 450317,
@@ -2809,14 +2825,6 @@
       "onboard_time": 1711372761,
       "rank": 42,
       "category": "综艺,社会新闻"
-    },
-    {
-      "raw_hot": 436392,
-      "num": 436392,
-      "word": "爸爸煮饭费水遭女儿压迫式教育",
-      "onboard_time": 1711514180,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 435388,
@@ -3579,6 +3587,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 336033,
+      "num": 301192,
+      "word": "建议大家把体重秤换成这个",
+      "onboard_time": 1711514480,
+      "rank": 26,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 335454,
       "num": 275495,
       "word": "原来人真的会一下子变老",
@@ -3731,14 +3747,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 314470,
-      "num": 314470,
-      "word": "董宇辉回应被说架子大",
-      "onboard_time": 1711514898,
-      "rank": 14,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 312559,
       "num": 312559,
       "word": "王楚然吃面照",
@@ -3841,14 +3849,6 @@
       "onboard_time": 1711425198,
       "rank": 22,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 301192,
-      "num": 301192,
-      "word": "建议大家把体重秤换成这个",
-      "onboard_time": 1711514480,
-      "rank": 26,
-      "category": "幽默"
     },
     {
       "raw_hot": 300842,
@@ -4451,20 +4451,20 @@
       "category": "情感"
     },
     {
+      "raw_hot": 258805,
+      "num": 266604,
+      "word": "4000块的收纳师整理成这样",
+      "onboard_time": 1711515320,
+      "rank": 31,
+      "category": "情感"
+    },
+    {
       "raw_hot": 258597,
       "num": 258597,
       "word": "供应链确认华为P70手机已开始供货",
       "onboard_time": 1711255938,
       "rank": 23,
       "category": "数码"
-    },
-    {
-      "raw_hot": 258565,
-      "num": 258565,
-      "word": "4000块的收纳师整理成这样",
-      "onboard_time": 1711515320,
-      "rank": 31,
-      "category": "情感"
     },
     {
       "raw_hot": 258202,
@@ -5147,6 +5147,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 227808,
+      "num": 261843,
+      "word": "00后已经觉醒了盘玉血脉",
+      "onboard_time": 1711515859,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 227173,
       "num": 227173,
       "word": "因为什么跟最好的朋友互删了",
@@ -5369,14 +5377,6 @@
       "onboard_time": 1711335918,
       "rank": 28,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 215924,
-      "num": 261843,
-      "word": "00后已经觉醒了盘玉血脉",
-      "onboard_time": 1711515859,
-      "rank": 27,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 215508,
@@ -6003,12 +6003,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 195411,
+      "num": 195411,
+      "word": "再也不怕早八迟到了",
+      "onboard_time": 1711516280,
+      "rank": 43,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 195050,
       "num": 195050,
       "word": "金价创13年新高疯狂囤金理智吗",
       "onboard_time": 1711336939,
       "rank": 32,
       "category": "财经"
+    },
+    {
+      "raw_hot": 194973,
+      "num": 194973,
+      "word": "全圆佑拍立得",
+      "onboard_time": 1711516819,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 194799,
@@ -6649,6 +6665,14 @@
       "onboard_time": 1711511538,
       "rank": 35,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 181087,
+      "num": 215145,
+      "word": "WTT仁川冠军赛",
+      "onboard_time": 1711516759,
+      "rank": 28,
+      "category": "体育"
     },
     {
       "raw_hot": 180717,
@@ -7571,6 +7595,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 158453,
+      "num": 158453,
+      "word": "宋茜片场摔倒",
+      "onboard_time": 1711517419,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 158011,
       "num": 158011,
       "word": "代号鸢",
@@ -7603,6 +7635,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 157366,
+      "num": 154287,
+      "word": "雷军回应对标特斯拉保时捷",
+      "onboard_time": 1711516520,
+      "rank": 48,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 157307,
       "num": 157307,
       "word": "蒲熠星读书会直播",
@@ -7625,14 +7665,6 @@
       "onboard_time": 1711279519,
       "rank": 38,
       "category": "数码"
-    },
-    {
-      "raw_hot": 156829,
-      "num": 156829,
-      "word": "再也不怕早八迟到了",
-      "onboard_time": 1711516280,
-      "rank": 43,
-      "category": "幽默"
     },
     {
       "raw_hot": 155838,
@@ -7697,6 +7729,14 @@
       "onboard_time": 1711263077,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 154982,
+      "num": 154982,
+      "word": "阿根廷3比1哥斯达黎加",
+      "onboard_time": 1711517058,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 154973,
@@ -8699,14 +8739,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 133091,
-      "num": 133091,
-      "word": "雷军回应对标特斯拉保时捷",
-      "onboard_time": 1711516520,
-      "rank": 48,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 133068,
       "num": 353112,
       "word": "点咖啡偶遇卡琳娜",
@@ -9033,6 +9065,14 @@
       "onboard_time": 1711375159,
       "rank": 46,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 122615,
+      "num": 122615,
+      "word": "董思成五福临门大婚路透",
+      "onboard_time": 1711517298,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 122119,

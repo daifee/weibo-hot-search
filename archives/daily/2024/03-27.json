@@ -1,6 +1,6 @@
 {
   "startTime": 1711470163483,
-  "endTime": 1711516688606,
+  "endTime": 1711517649616,
   "band_list": [
     {
       "raw_hot": 2391197,
@@ -59,20 +59,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1450947,
+      "num": 1450947,
+      "word": "陈铭的论文",
+      "onboard_time": 1711514722,
+      "rank": 1,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1151583,
       "num": 1151583,
       "word": "29岁了爸爸还在意我快不快乐",
       "onboard_time": 1711464979,
       "rank": 0,
       "category": "情感"
-    },
-    {
-      "raw_hot": 1144648,
-      "num": 1144648,
-      "word": "陈铭的论文",
-      "onboard_time": 1711514722,
-      "rank": 1,
-      "category": "艺人"
     },
     {
       "raw_hot": 1055577,
@@ -291,6 +291,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 532420,
+      "num": 532420,
+      "word": "周也 冰国皇太女",
+      "onboard_time": 1711514961,
+      "rank": 15,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 520478,
       "num": 411466,
       "word": "无意识却很掉秤的减肥习惯",
@@ -305,6 +313,14 @@
       "onboard_time": 1711495697,
       "rank": 21,
       "category": "情感"
+    },
+    {
+      "raw_hot": 502657,
+      "num": 502657,
+      "word": "董宇辉回应被说架子大",
+      "onboard_time": 1711514898,
+      "rank": 14,
+      "category": "互联网"
     },
     {
       "raw_hot": 502254,
@@ -363,20 +379,20 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 461280,
+      "num": 461280,
+      "word": "爸爸煮饭费水遭女儿压迫式教育",
+      "onboard_time": 1711514180,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 460488,
       "num": 460488,
       "word": "考生蔡元培北大复试后仍专业第一",
       "onboard_time": 1711494074,
       "rank": 6,
       "category": "教育"
-    },
-    {
-      "raw_hot": 451647,
-      "num": 314427,
-      "word": "周也 冰国皇太女",
-      "onboard_time": 1711514961,
-      "rank": 15,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 450317,
@@ -401,14 +417,6 @@
       "onboard_time": 1711502897,
       "rank": 40,
       "category": "时尚"
-    },
-    {
-      "raw_hot": 436392,
-      "num": 436392,
-      "word": "爸爸煮饭费水遭女儿压迫式教育",
-      "onboard_time": 1711514180,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 426157,
@@ -499,6 +507,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 336033,
+      "num": 301192,
+      "word": "建议大家把体重秤换成这个",
+      "onboard_time": 1711514480,
+      "rank": 26,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 329516,
       "num": 394952,
       "word": "国足4比1新加坡",
@@ -523,14 +539,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 314470,
-      "num": 314470,
-      "word": "董宇辉回应被说架子大",
-      "onboard_time": 1711514898,
-      "rank": 14,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 312559,
       "num": 312559,
       "word": "王楚然吃面照",
@@ -553,14 +561,6 @@
       "onboard_time": 1711508239,
       "rank": 14,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 301192,
-      "num": 301192,
-      "word": "建议大家把体重秤换成这个",
-      "onboard_time": 1711514480,
-      "rank": 26,
-      "category": "幽默"
     },
     {
       "raw_hot": 298120,
@@ -651,8 +651,8 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 258565,
-      "num": 258565,
+      "raw_hot": 258805,
+      "num": 266604,
       "word": "4000块的收纳师整理成这样",
       "onboard_time": 1711515320,
       "rank": 31,
@@ -731,6 +731,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 227808,
+      "num": 261843,
+      "word": "00后已经觉醒了盘玉血脉",
+      "onboard_time": 1711515859,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 221299,
       "num": 221299,
       "word": "密切关注台军在金门的动向",
@@ -753,14 +761,6 @@
       "onboard_time": 1711508297,
       "rank": 25,
       "category": "情感"
-    },
-    {
-      "raw_hot": 215924,
-      "num": 261843,
-      "word": "00后已经觉醒了盘玉血脉",
-      "onboard_time": 1711515859,
-      "rank": 27,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 215252,
@@ -843,6 +843,22 @@
       "category": "演出"
     },
     {
+      "raw_hot": 195411,
+      "num": 195411,
+      "word": "再也不怕早八迟到了",
+      "onboard_time": 1711516280,
+      "rank": 43,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 194973,
+      "num": 194973,
+      "word": "全圆佑拍立得",
+      "onboard_time": 1711516819,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 192127,
       "num": 192127,
       "word": "音你而来官宣定档",
@@ -921,6 +937,14 @@
       "onboard_time": 1711511538,
       "rank": 35,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 181087,
+      "num": 215145,
+      "word": "WTT仁川冠军赛",
+      "onboard_time": 1711516759,
+      "rank": 28,
+      "category": "体育"
     },
     {
       "raw_hot": 173561,
@@ -1035,6 +1059,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 158453,
+      "num": 158453,
+      "word": "宋茜片场摔倒",
+      "onboard_time": 1711517419,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 157859,
       "num": 155113,
       "word": "郭德纲回应让他对郭麒麟好一点",
@@ -1043,12 +1075,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 156829,
-      "num": 156829,
-      "word": "再也不怕早八迟到了",
-      "onboard_time": 1711516280,
-      "rank": 43,
-      "category": "幽默"
+      "raw_hot": 157366,
+      "num": 154287,
+      "word": "雷军回应对标特斯拉保时捷",
+      "onboard_time": 1711516520,
+      "rank": 48,
+      "category": "汽车"
     },
     {
       "raw_hot": 155550,
@@ -1065,6 +1097,14 @@
       "onboard_time": 1711502837,
       "rank": 43,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 154982,
+      "num": 154982,
+      "word": "阿根廷3比1哥斯达黎加",
+      "onboard_time": 1711517058,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 153030,
@@ -1195,14 +1235,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 133091,
-      "num": 133091,
-      "word": "雷军回应对标特斯拉保时捷",
-      "onboard_time": 1711516520,
-      "rank": 48,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 132195,
       "num": 132195,
       "word": "洗澡对于P人有多难",
@@ -1257,6 +1289,14 @@
       "onboard_time": 1711446618,
       "rank": 28,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 122615,
+      "num": 122615,
+      "word": "董思成五福临门大婚路透",
+      "onboard_time": 1711517298,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 120630,
