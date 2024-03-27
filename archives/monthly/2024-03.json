@@ -1,6 +1,6 @@
 {
   "startTime": 1709223640991,
-  "endTime": 1711520524715,
+  "endTime": 1711521272580,
   "band_list": [
     {
       "raw_hot": 12728050,
@@ -1835,6 +1835,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1761791,
+      "num": 1761791,
+      "word": "第一章回国 第二章体测",
+      "onboard_time": 1711518980,
+      "rank": 1,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1761302,
       "num": 1761302,
       "word": "农夫山泉副总回应捧娃哈哈踩农夫山泉",
@@ -3561,14 +3569,6 @@
       "onboard_time": 1709270071,
       "rank": 43,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1335509,
-      "num": 1335509,
-      "word": "第一章回国 第二章体测",
-      "onboard_time": 1711518980,
-      "rank": 1,
-      "category": "艺人"
     },
     {
       "raw_hot": 1334594,
@@ -11283,6 +11283,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 690777,
+      "num": 690777,
+      "word": "扫墓时焚烧冥纸谈不上是封建迷信",
+      "onboard_time": 1711519157,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 690378,
       "num": 690378,
       "word": "偷看凯特病例员工或被永久吊销执照",
@@ -16785,14 +16793,6 @@
       "onboard_time": 1710232535,
       "rank": 11,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 518155,
-      "num": 518155,
-      "word": "扫墓时焚烧冥纸谈不上是封建迷信",
-      "onboard_time": 1711519157,
-      "rank": 6,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 517867,
@@ -23121,6 +23121,14 @@
       "onboard_time": 1711500498,
       "rank": 15,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 386908,
+      "num": 386908,
+      "word": "A股再度打响3000点保卫战",
+      "onboard_time": 1711519638,
+      "rank": 14,
+      "category": "财经"
     },
     {
       "raw_hot": 386878,
@@ -30187,14 +30195,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 287423,
-      "num": 287423,
-      "word": "A股再度打响3000点保卫战",
-      "onboard_time": 1711519638,
-      "rank": 14,
-      "category": "财经"
-    },
-    {
       "raw_hot": 287420,
       "num": 287420,
       "word": "时空中的绘旅人",
@@ -31497,6 +31497,14 @@
       "onboard_time": 1711085062,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 273614,
+      "num": 216494,
+      "word": "何炅吴昕你们不要再吵了",
+      "onboard_time": 1711520238,
+      "rank": 19,
+      "category": "综艺"
     },
     {
       "raw_hot": 273506,
@@ -35779,6 +35787,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 237923,
+      "num": 213577,
+      "word": "免疫力下降的5个信号",
+      "onboard_time": 1711520178,
+      "rank": 30,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 237913,
       "num": 237913,
       "word": "电脑为什么会有咳嗽声",
@@ -40059,6 +40075,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 213374,
+      "num": 213374,
+      "word": "韩庚卢靖姗撒糖",
+      "onboard_time": 1711520358,
+      "rank": 47,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 213372,
       "num": 213372,
       "word": "小米汽车上架AppStore",
@@ -41569,14 +41593,6 @@
       "onboard_time": 1710735159,
       "rank": 36,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 206304,
-      "num": 206304,
-      "word": "何炅吴昕你们不要再吵了",
-      "onboard_time": 1711520238,
-      "rank": 19,
-      "category": "综艺"
     },
     {
       "raw_hot": 206243,
@@ -51187,6 +51203,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 172085,
+      "num": 172085,
+      "word": "烈焰 排面",
+      "onboard_time": 1711520958,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 172078,
       "num": 172078,
       "word": "提议大学生修满学分就毕业",
@@ -52793,14 +52817,6 @@
       "onboard_time": 1710170852,
       "rank": 39,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 166167,
-      "num": 166167,
-      "word": "免疫力下降的5个信号",
-      "onboard_time": 1711520178,
-      "rank": 30,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 166164,
@@ -55843,6 +55859,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 156322,
+      "num": 156322,
+      "word": "原来男生之间也会有雄竞吗",
+      "onboard_time": 1711520178,
+      "rank": 43,
+      "category": "情感"
+    },
+    {
       "raw_hot": 156291,
       "num": 156291,
       "word": "陈漫镜头里的赵露思",
@@ -56561,6 +56585,14 @@
       "onboard_time": 1710249094,
       "rank": 45,
       "category": "教育"
+    },
+    {
+      "raw_hot": 153935,
+      "num": 153935,
+      "word": "砂金剧情",
+      "onboard_time": 1711519459,
+      "rank": 36,
+      "category": "动漫"
     },
     {
       "raw_hot": 153910,
@@ -58243,14 +58275,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 148521,
-      "num": 148521,
-      "word": "砂金剧情",
-      "onboard_time": 1711519459,
-      "rank": 36,
-      "category": "动漫"
-    },
-    {
       "raw_hot": 148519,
       "num": 148519,
       "word": "KSG对战RW",
@@ -58681,6 +58705,14 @@
       "onboard_time": 1711466779,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 147241,
+      "num": 147241,
+      "word": "俄发布救援工作完成后恐袭现场画面",
+      "onboard_time": 1711520418,
+      "rank": 49,
+      "category": "国外时政"
     },
     {
       "raw_hot": 147237,
@@ -62161,14 +62193,6 @@
       "onboard_time": 1709376515,
       "rank": 42,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 135780,
-      "num": 135780,
-      "word": "原来男生之间也会有雄竞吗",
-      "onboard_time": 1711520178,
-      "rank": 43,
-      "category": "情感"
     },
     {
       "raw_hot": 135742,
@@ -65689,14 +65713,6 @@
       "onboard_time": 1709891849,
       "rank": 40,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 123006,
-      "num": 123006,
-      "word": "韩庚卢靖姗撒糖",
-      "onboard_time": 1711520358,
-      "rank": 47,
-      "category": "艺人"
     },
     {
       "raw_hot": 122968,
@@ -70195,6 +70211,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 96195,
+      "num": 107917,
+      "word": "女子称打车爱上司机2年花了400万",
+      "onboard_time": 1711521197,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 96166,
       "num": 96166,
       "word": "县城青年为什么敢花钱",
@@ -70857,14 +70881,6 @@
       "onboard_time": 1710600397,
       "rank": 29,
       "category": "时尚"
-    },
-    {
-      "raw_hot": 87470,
-      "num": 121569,
-      "word": "俄发布救援工作完成后恐袭现场画面",
-      "onboard_time": 1711520418,
-      "rank": 49,
-      "category": "国外时政"
     },
     {
       "raw_hot": 87389,
