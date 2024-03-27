@@ -1,0 +1,410 @@
+{
+  "runTime": 1711577907180,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 126811,
+        "num": 126811,
+        "word": "持续黑一个历史人物十年",
+        "onboard_time": 1711568830,
+        "rank": 0,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 87951,
+        "num": 87951,
+        "word": "冯提莫腰线",
+        "onboard_time": 1711550721,
+        "rank": 1,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 17151,
+        "num": 73043,
+        "word": "我国网络视听用户规模达10.74亿人",
+        "onboard_time": 1711543999,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 125147,
+        "num": 72990,
+        "word": "女子将儿媳打得满身疤痕惹众怒",
+        "onboard_time": 1711570150,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 66438,
+        "num": 66438,
+        "word": "女子得知父亲去世高速上崩溃大哭",
+        "onboard_time": 1711572911,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 322101,
+        "num": 65964,
+        "word": "南通",
+        "onboard_time": 1711548440,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 64387,
+        "num": 64387,
+        "word": "何悯鸿向四美道歉",
+        "onboard_time": 1711558574,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 56343,
+        "num": 56343,
+        "word": "大熊猫青糍死亡",
+        "onboard_time": 1711542680,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 54706,
+        "num": 54706,
+        "word": "王嘉尔普吉岛",
+        "onboard_time": 1711548858,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 49736,
+        "num": 49736,
+        "word": "8万的预算能在深圳玩三天吗",
+        "onboard_time": 1711548139,
+        "rank": 9,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 102788,
+        "num": 49595,
+        "word": "金宝贝突然停业几天前还怂恿家长充值",
+        "onboard_time": 1711572309,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 49355,
+        "num": 49355,
+        "word": "陈法拉生二胎后首露面",
+        "onboard_time": 1711565412,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 48770,
+        "num": 48770,
+        "word": "刚出生就1米85的帅宝宝来了",
+        "onboard_time": 1711525638,
+        "rank": 12,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 46782,
+        "num": 46782,
+        "word": "180斤山东女孩拍写真美哭网友",
+        "onboard_time": 1711572670,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 46185,
+        "num": 46185,
+        "word": "孔雪儿演女二",
+        "onboard_time": 1711573090,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 43677,
+        "num": 43677,
+        "word": "王诗龄晒与李湘在英国的日常",
+        "onboard_time": 1711538238,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 42701,
+        "num": 42701,
+        "word": "魏大勋说不清了",
+        "onboard_time": 1711554559,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 41100,
+        "num": 41100,
+        "word": "北京沙尘暴",
+        "onboard_time": 1711561872,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 40364,
+        "num": 40364,
+        "word": "禁售殡葬用品后南通12345接大量电话",
+        "onboard_time": 1711534938,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 34672,
+        "num": 34672,
+        "word": "一觉醒来夏东海和锅姨在一起了",
+        "onboard_time": 1711530618,
+        "rank": 19,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 212018,
+        "num": 34426,
+        "word": "你愿意不交社保换更多工资吗",
+        "onboard_time": 1711559774,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 64619,
+        "num": 34177,
+        "word": "经常喝牛奶或增加这两种癌症风险",
+        "onboard_time": 1711541779,
+        "rank": 21,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 63862,
+        "num": 33906,
+        "word": "幼儿园老师背名牌包被投诉",
+        "onboard_time": 1711549699,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 48793,
+        "num": 33600,
+        "word": "男方准备10万彩礼女方要30万",
+        "onboard_time": 1711553838,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 45536,
+        "num": 33523,
+        "word": "韩国高中生向女老师保温杯注入精液",
+        "onboard_time": 1711538539,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 42338,
+        "num": 33052,
+        "word": "春季最狠减肥法 轻断食",
+        "onboard_time": 1711572911,
+        "rank": 25,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 36565,
+        "num": 32731,
+        "word": "为什么肚子上的肉这么难减",
+        "onboard_time": 1711570751,
+        "rank": 26,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 32661,
+        "num": 32661,
+        "word": "尿毒症都是拖出来的吗",
+        "onboard_time": 1711560012,
+        "rank": 27,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 32491,
+        "num": 32491,
+        "word": "知情人士回应腾讯大规模裁员",
+        "onboard_time": 1711546819,
+        "rank": 28,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 31654,
+        "num": 31654,
+        "word": "王一博听到并立于雪山之巅笑了",
+        "onboard_time": 1711549280,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 29385,
+        "num": 29385,
+        "word": "老邪吐槽追风者 翻车",
+        "onboard_time": 1711549760,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 26797,
+        "num": 26797,
+        "word": "与凤行 送子婚姻",
+        "onboard_time": 1711545978,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 25931,
+        "num": 25931,
+        "word": "小米SU7续航700公里起步",
+        "onboard_time": 1711547541,
+        "rank": 32,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 25590,
+        "num": 25590,
+        "word": "张慧雯回应演何悯鸿后面相变了",
+        "onboard_time": 1711554918,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 25045,
+        "num": 25045,
+        "word": "广州10块一碗猪脚面",
+        "onboard_time": 1711555937,
+        "rank": 34,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 24126,
+        "num": 24126,
+        "word": "导致胃部癌变的6大因素",
+        "onboard_time": 1711552818,
+        "rank": 35,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 22601,
+        "num": 22601,
+        "word": "南通禁止制造销售封建迷信殡葬用品",
+        "onboard_time": 1711557915,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 21557,
+        "num": 21557,
+        "word": "金牛座的焦虑来自于匮乏感",
+        "onboard_time": 1711553960,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 21053,
+        "num": 21053,
+        "word": "离异3年内不得京内购房被废止",
+        "onboard_time": 1711532899,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 20827,
+        "num": 20827,
+        "word": "王一博素颜",
+        "onboard_time": 1711541478,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 19041,
+        "num": 19041,
+        "word": "去喜欢一个对你有空的人",
+        "onboard_time": 1711551920,
+        "rank": 40,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 19022,
+        "num": 19022,
+        "word": "极限挑战",
+        "onboard_time": 1711551318,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 18741,
+        "num": 18741,
+        "word": "终于学会删除空白页了",
+        "onboard_time": 1711542738,
+        "rank": 42,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 18022,
+        "num": 18022,
+        "word": "杨幂直发侧拍",
+        "onboard_time": 1711557854,
+        "rank": 43,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 17745,
+        "num": 17745,
+        "word": "蔡文静什么都赖地磁暴",
+        "onboard_time": 1711552460,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 8888,
+        "num": 17575,
+        "word": "NikeAirMax",
+        "onboard_time": 1711533979,
+        "rank": 45,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 17036,
+        "num": 17036,
+        "word": "林俊杰生日照",
+        "onboard_time": 1711552579,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 16693,
+        "num": 16693,
+        "word": "天价彩礼何时休",
+        "onboard_time": 1711559054,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 15888,
+        "num": 16693,
+        "word": "白鹿一口气发了28张照片",
+        "onboard_time": 1711537819,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 14723,
+        "num": 16691,
+        "word": "Scout说不会韩语",
+        "onboard_time": 1711551801,
+        "rank": 49,
+        "category": "电竞"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平会见美国工商界和战略学术界代表#"
+    }
+  }
+}

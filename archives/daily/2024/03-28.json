@@ -1,6 +1,6 @@
 {
   "startTime": 1711556587484,
-  "endTime": 1711575249837,
+  "endTime": 1711577907180,
   "band_list": [
     {
       "raw_hot": 1267911,
@@ -251,6 +251,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 126811,
+      "num": 126811,
+      "word": "持续黑一个历史人物十年",
+      "onboard_time": 1711568830,
+      "rank": 15,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 125147,
+      "num": 72990,
+      "word": "女子将儿媳打得满身疤痕惹众怒",
+      "onboard_time": 1711570150,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 119567,
       "num": 119567,
       "word": "王者荣耀版沈璃上线",
@@ -265,6 +281,14 @@
       "onboard_time": 1711542738,
       "rank": 32,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 102788,
+      "num": 49595,
+      "word": "金宝贝突然停业几天前还怂恿家长充值",
+      "onboard_time": 1711572309,
+      "rank": 17,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 93414,
@@ -339,14 +363,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 78826,
-      "num": 78826,
-      "word": "持续黑一个历史人物十年",
-      "onboard_time": 1711568830,
-      "rank": 15,
-      "category": "情感"
-    },
-    {
       "raw_hot": 74415,
       "num": 74415,
       "word": "看到成毅的胸肌了",
@@ -403,20 +419,20 @@
       "category": "美食"
     },
     {
+      "raw_hot": 66438,
+      "num": 66438,
+      "word": "女子得知父亲去世高速上崩溃大哭",
+      "onboard_time": 1711572911,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 63846,
       "num": 63846,
       "word": "一觉醒来夏东海和锅姨在一起了",
       "onboard_time": 1711530618,
       "rank": 46,
       "category": "电影"
-    },
-    {
-      "raw_hot": 61869,
-      "num": 32500,
-      "word": "女子将儿媳打得满身疤痕惹众怒",
-      "onboard_time": 1711570150,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 60284,
@@ -475,12 +491,36 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 49355,
+      "num": 49355,
+      "word": "陈法拉生二胎后首露面",
+      "onboard_time": 1711565412,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 46782,
+      "num": 46782,
+      "word": "180斤山东女孩拍写真美哭网友",
+      "onboard_time": 1711572670,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 46589,
       "num": 46589,
       "word": "北京沙尘暴",
       "onboard_time": 1711561872,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 46185,
+      "num": 46185,
+      "word": "孔雪儿演女二",
+      "onboard_time": 1711573090,
+      "rank": 25,
+      "category": "剧集"
     },
     {
       "raw_hot": 46068,
@@ -499,36 +539,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 42582,
-      "num": 31997,
-      "word": "金宝贝突然停业几天前还怂恿家长充值",
-      "onboard_time": 1711572309,
-      "rank": 17,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 34586,
-      "num": 34586,
-      "word": "女子得知父亲去世高速上崩溃大哭",
+      "raw_hot": 42338,
+      "num": 33052,
+      "word": "春季最狠减肥法 轻断食",
       "onboard_time": 1711572911,
-      "rank": 19,
-      "category": "社会新闻"
+      "rank": 35,
+      "category": "运动健身"
     },
     {
-      "raw_hot": 31621,
-      "num": 31621,
-      "word": "陈法拉生二胎后首露面",
-      "onboard_time": 1711565412,
-      "rank": 19,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 27190,
-      "num": 27190,
-      "word": "孔雪儿演女二",
-      "onboard_time": 1711573090,
-      "rank": 25,
-      "category": "剧集"
+      "raw_hot": 36565,
+      "num": 32731,
+      "word": "为什么肚子上的肉这么难减",
+      "onboard_time": 1711570751,
+      "rank": 30,
+      "category": "运动健身"
     },
     {
       "raw_hot": 26705,
@@ -555,20 +579,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 23129,
-      "num": 21273,
-      "word": "为什么肚子上的肉这么难减",
-      "onboard_time": 1711570751,
-      "rank": 30,
-      "category": "运动健身"
-    },
-    {
-      "raw_hot": 19722,
-      "num": 19722,
-      "word": "春季最狠减肥法 轻断食",
-      "onboard_time": 1711572911,
-      "rank": 35,
-      "category": "运动健身"
+      "raw_hot": 17151,
+      "num": 109248,
+      "word": "我国网络视听用户规模达10.74亿人",
+      "onboard_time": 1711543999,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 16051,
@@ -577,14 +593,6 @@
       "onboard_time": 1711560852,
       "rank": 44,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 16021,
-      "num": 109248,
-      "word": "我国网络视听用户规模达10.74亿人",
-      "onboard_time": 1711543999,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 15279,
@@ -603,8 +611,8 @@
       "category": "教育"
     },
     {
-      "raw_hot": 8055,
-      "num": 16942,
+      "raw_hot": 8888,
+      "num": 17575,
       "word": "NikeAirMax",
       "onboard_time": 1711533979,
       "rank": 46,
