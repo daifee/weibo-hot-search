@@ -1,6 +1,6 @@
 {
   "startTime": 1711210803824,
-  "endTime": 1711564462731,
+  "endTime": 1711566873667,
   "band_list": [
     {
       "raw_hot": 3922233,
@@ -11723,6 +11723,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 46589,
+      "num": 46589,
+      "word": "北京沙尘暴",
+      "onboard_time": 1711561872,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 46521,
       "num": 46521,
       "word": "知道怎么找回微信过期文件了",
@@ -11761,14 +11769,6 @@
       "onboard_time": 1711400890,
       "rank": 39,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 43432,
-      "num": 43432,
-      "word": "北京沙尘暴",
-      "onboard_time": 1711561872,
-      "rank": 19,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 43006,
@@ -11961,6 +11961,14 @@
       "onboard_time": 1711343359,
       "rank": 32,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 28629,
+      "num": 28629,
+      "word": "陈法拉生二胎后首露面",
+      "onboard_time": 1711565412,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 28546,
@@ -12169,6 +12177,14 @@
       "onboard_time": 1711308850,
       "rank": 44,
       "category": "动漫,作品衍生"
+    },
+    {
+      "raw_hot": 16051,
+      "num": 16051,
+      "word": "领悟小分队",
+      "onboard_time": 1711560852,
+      "rank": 44,
+      "category": "艺人"
     },
     {
       "raw_hot": 15109,
