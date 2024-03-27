@@ -1,6 +1,6 @@
 {
   "startTime": 1711556587484,
-  "endTime": 1711571666396,
+  "endTime": 1711574120483,
   "band_list": [
     {
       "raw_hot": 1267911,
@@ -339,6 +339,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 78244,
+      "num": 78244,
+      "word": "持续黑一个历史人物十年",
+      "onboard_time": 1711568830,
+      "rank": 15,
+      "category": "情感"
+    },
+    {
       "raw_hot": 74415,
       "num": 74415,
       "word": "看到成毅的胸肌了",
@@ -427,6 +435,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 56919,
+      "num": 32500,
+      "word": "女子将儿媳打得满身疤痕惹众怒",
+      "onboard_time": 1711570150,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 56863,
       "num": 69885,
       "word": "天价彩礼何时休",
@@ -483,22 +499,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 45350,
-      "num": 45350,
-      "word": "持续黑一个历史人物十年",
-      "onboard_time": 1711568830,
-      "rank": 15,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 38052,
-      "num": 32500,
-      "word": "女子将儿媳打得满身疤痕惹众怒",
-      "onboard_time": 1711570150,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 31621,
       "num": 31621,
       "word": "陈法拉生二胎后首露面",
@@ -531,12 +531,36 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 16819,
-      "num": 16819,
+      "raw_hot": 21765,
+      "num": 18045,
       "word": "为什么肚子上的肉这么难减",
       "onboard_time": 1711570751,
       "rank": 30,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 21724,
+      "num": 21724,
+      "word": "金宝贝突然停业几天前还怂恿家长充值",
+      "onboard_time": 1711572309,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 18253,
+      "num": 18253,
+      "word": "女子得知父亲去世高速上崩溃大哭",
+      "onboard_time": 1711572911,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 18253,
+      "num": 18252,
+      "word": "孔雪儿演女二",
+      "onboard_time": 1711573090,
+      "rank": 25,
+      "category": "剧集"
     },
     {
       "raw_hot": 16051,
@@ -555,6 +579,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 15858,
+      "num": 15858,
+      "word": "春季最狠减肥法 轻断食",
+      "onboard_time": 1711572911,
+      "rank": 35,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 15279,
       "num": 15279,
       "word": "没和蔡依林一起去",
@@ -571,8 +603,8 @@
       "category": "教育"
     },
     {
-      "raw_hot": 7822,
-      "num": 16757,
+      "raw_hot": 7935,
+      "num": 16866,
       "word": "NikeAirMax",
       "onboard_time": 1711533979,
       "rank": 46,
