@@ -1,6 +1,6 @@
 {
   "startTime": 1711470163483,
-  "endTime": 1711552735583,
+  "endTime": 1711553676964,
   "band_list": [
     {
       "raw_hot": 2391197,
@@ -227,8 +227,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 845779,
-      "num": 845779,
+      "raw_hot": 848636,
+      "num": 848636,
       "word": "冯提莫腰线",
       "onboard_time": 1711550721,
       "rank": 1,
@@ -843,6 +843,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 437899,
+      "num": 437899,
+      "word": "极限挑战",
+      "onboard_time": 1711551318,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 436841,
       "num": 234936,
       "word": "幼儿园老师背名牌包被投诉",
@@ -873,14 +881,6 @@
       "onboard_time": 1711549760,
       "rank": 37,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 398509,
-      "num": 398509,
-      "word": "极限挑战",
-      "onboard_time": 1711551318,
-      "rank": 13,
-      "category": "综艺"
     },
     {
       "raw_hot": 397335,
@@ -1379,6 +1379,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 255726,
+      "num": 255726,
+      "word": "Scout说不会韩语",
+      "onboard_time": 1711551801,
+      "rank": 30,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 254256,
       "num": 254256,
       "word": "身上爱长疙瘩的人往往有个共同的体质特点",
@@ -1555,6 +1563,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 224407,
+      "num": 217293,
+      "word": "去喜欢一个对你有空的人",
+      "onboard_time": 1711551920,
+      "rank": 26,
+      "category": "情感"
+    },
+    {
       "raw_hot": 223290,
       "num": 223290,
       "word": "张艺兴和百分百导演起争执",
@@ -1699,20 +1715,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 203815,
+      "num": 203815,
+      "word": "林俊杰生日照",
+      "onboard_time": 1711552579,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 202146,
       "num": 202146,
       "word": "采访刺客王一博",
       "onboard_time": 1711548981,
       "rank": 28,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 201387,
-      "num": 176409,
-      "word": "Scout说不会韩语",
-      "onboard_time": 1711551801,
-      "rank": 30,
-      "category": "电竞"
     },
     {
       "raw_hot": 200779,
@@ -1737,6 +1753,14 @@
       "onboard_time": 1711498158,
       "rank": 29,
       "category": "情感"
+    },
+    {
+      "raw_hot": 200395,
+      "num": 200395,
+      "word": "蔡文静什么都赖地磁暴",
+      "onboard_time": 1711552460,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 199483,
@@ -1835,14 +1859,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 192571,
-      "num": 192571,
-      "word": "蔡文静什么都赖地磁暴",
-      "onboard_time": 1711552460,
-      "rank": 25,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 192188,
       "num": 192188,
       "word": "宋亚轩刘耀文张真源互动",
@@ -1857,14 +1873,6 @@
       "onboard_time": 1711509678,
       "rank": 32,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 191503,
-      "num": 191503,
-      "word": "去喜欢一个对你有空的人",
-      "onboard_time": 1711551920,
-      "rank": 26,
-      "category": "情感"
     },
     {
       "raw_hot": 189965,
@@ -1993,6 +2001,14 @@
       "onboard_time": 1711508118,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 182275,
+      "num": 182275,
+      "word": "导致胃部癌变的6大因素",
+      "onboard_time": 1711552818,
+      "rank": 27,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 181427,
@@ -2539,14 +2555,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 143858,
-      "num": 143858,
-      "word": "林俊杰生日照",
-      "onboard_time": 1711552579,
-      "rank": 37,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 141486,
       "num": 141486,
       "word": "章昊OST成绩",
@@ -2856,6 +2864,14 @@
       "word": "董思成五福临门大婚路透",
       "onboard_time": 1711517298,
       "rank": 47,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 122340,
+      "num": 122340,
+      "word": "辛云来直播",
+      "onboard_time": 1711553238,
+      "rank": 37,
       "category": "剧集"
     },
     {
