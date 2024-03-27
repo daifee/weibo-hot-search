@@ -1,6 +1,6 @@
 {
   "startTime": 1711210803824,
-  "endTime": 1711514227221,
+  "endTime": 1711516688606,
   "band_list": [
     {
       "raw_hot": 3922233,
@@ -105,6 +105,14 @@
       "onboard_time": 1711258939,
       "rank": 1,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 2391197,
+      "num": 2391197,
+      "word": "地磁暴全责",
+      "onboard_time": 1711511419,
+      "rank": 4,
+      "category": "幽默"
     },
     {
       "raw_hot": 2152762,
@@ -267,14 +275,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1680899,
-      "num": 1680899,
-      "word": "地磁暴全责",
-      "onboard_time": 1711511419,
-      "rank": 4,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 1631032,
       "num": 1631032,
       "word": "发现刘亦菲是表姑的侄女",
@@ -320,6 +320,14 @@
       "word": "王诗龄砂锅铺满了黑松露",
       "onboard_time": 1711267638,
       "rank": 12,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1568021,
+      "num": 569990,
+      "word": "国台办回应汪小菲在台北大S住处有关言行",
+      "onboard_time": 1711513402,
+      "rank": 10,
       "category": "艺人"
     },
     {
@@ -635,6 +643,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 1144648,
+      "num": 1144648,
+      "word": "陈铭的论文",
+      "onboard_time": 1711514722,
+      "rank": 1,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1140173,
       "num": 503724,
       "word": "我是学校里唯一一条蛆",
@@ -705,14 +721,6 @@
       "onboard_time": 1711287080,
       "rank": 26,
       "category": "母婴育儿"
-    },
-    {
-      "raw_hot": 1099041,
-      "num": 569990,
-      "word": "国台办回应汪小菲在台北大S住处有关言行",
-      "onboard_time": 1711513402,
-      "rank": 10,
-      "category": "艺人"
     },
     {
       "raw_hot": 1095772,
@@ -1547,6 +1555,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 682498,
+      "num": 682498,
+      "word": "泫雅转圈",
+      "onboard_time": 1711514540,
+      "rank": 4,
+      "category": "演出"
+    },
+    {
       "raw_hot": 681734,
       "num": 280494,
       "word": "福建跳楼身亡女生疑遭至少2人霸凌",
@@ -2033,6 +2049,14 @@
       "onboard_time": 1711325182,
       "rank": 12,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 550331,
+      "num": 550331,
+      "word": "鹿晗耍帅把假发甩掉了",
+      "onboard_time": 1711513642,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 549830,
@@ -2683,6 +2707,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 451647,
+      "num": 314427,
+      "word": "周也 冰国皇太女",
+      "onboard_time": 1711514961,
+      "rank": 15,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 450317,
       "num": 450317,
       "word": "赵丽颖戴高珠",
@@ -2777,6 +2809,14 @@
       "onboard_time": 1711372761,
       "rank": 42,
       "category": "综艺,社会新闻"
+    },
+    {
+      "raw_hot": 436392,
+      "num": 436392,
+      "word": "爸爸煮饭费水遭女儿压迫式教育",
+      "onboard_time": 1711514180,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 435388,
@@ -3299,6 +3339,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 357295,
+      "num": 310134,
+      "word": "章昊体测",
+      "onboard_time": 1711514961,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 357207,
       "num": 258736,
       "word": "90后女孩存下100万后买了房",
@@ -3659,6 +3707,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 319266,
+      "num": 308818,
+      "word": "王一博陈晓 唯一的四驱车知己",
+      "onboard_time": 1711514362,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 317807,
       "num": 317807,
       "word": "镇政府回应网传初中生结婚",
@@ -3673,6 +3729,14 @@
       "onboard_time": 1711425080,
       "rank": 21,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 314470,
+      "num": 314470,
+      "word": "董宇辉回应被说架子大",
+      "onboard_time": 1711514898,
+      "rank": 14,
+      "category": "互联网"
     },
     {
       "raw_hot": 312559,
@@ -3705,6 +3769,14 @@
       "onboard_time": 1711449559,
       "rank": 22,
       "category": "情感"
+    },
+    {
+      "raw_hot": 308427,
+      "num": 308427,
+      "word": "SM新女团",
+      "onboard_time": 1711514239,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 307358,
@@ -3769,6 +3841,14 @@
       "onboard_time": 1711425198,
       "rank": 22,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 301192,
+      "num": 301192,
+      "word": "建议大家把体重秤换成这个",
+      "onboard_time": 1711514480,
+      "rank": 26,
+      "category": "幽默"
     },
     {
       "raw_hot": 300842,
@@ -4001,14 +4081,6 @@
       "onboard_time": 1711243037,
       "rank": 44,
       "category": "运动健身"
-    },
-    {
-      "raw_hot": 286039,
-      "num": 286039,
-      "word": "鹿晗耍帅把假发甩掉了",
-      "onboard_time": 1711513642,
-      "rank": 25,
-      "category": "综艺"
     },
     {
       "raw_hot": 284396,
@@ -4385,6 +4457,14 @@
       "onboard_time": 1711255938,
       "rank": 23,
       "category": "数码"
+    },
+    {
+      "raw_hot": 258565,
+      "num": 258565,
+      "word": "4000块的收纳师整理成这样",
+      "onboard_time": 1711515320,
+      "rank": 31,
+      "category": "情感"
     },
     {
       "raw_hot": 258202,
@@ -5291,6 +5371,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 215924,
+      "num": 261843,
+      "word": "00后已经觉醒了盘玉血脉",
+      "onboard_time": 1711515859,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 215508,
       "num": 215508,
       "word": "XYG战胜DYG",
@@ -5689,6 +5777,14 @@
       "onboard_time": 1711349358,
       "rank": 38,
       "category": "情感"
+    },
+    {
+      "raw_hot": 200779,
+      "num": 200779,
+      "word": "杨幂嘉人预告",
+      "onboard_time": 1711515561,
+      "rank": 35,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 200750,
@@ -6211,6 +6307,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 189433,
+      "num": 189433,
+      "word": "大侦探",
+      "onboard_time": 1711337357,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 189350,
       "num": 189350,
       "word": "半熟恋人",
@@ -6481,14 +6585,6 @@
       "onboard_time": 1711363338,
       "rank": 35,
       "category": "美食"
-    },
-    {
-      "raw_hot": 182854,
-      "num": 182854,
-      "word": "大侦探",
-      "onboard_time": 1711337357,
-      "rank": 35,
-      "category": "综艺"
     },
     {
       "raw_hot": 182718,
@@ -7035,6 +7131,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 167517,
+      "num": 167517,
+      "word": "于适的胸肌会动",
+      "onboard_time": 1711515921,
+      "rank": 40,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 167166,
       "num": 167166,
       "word": "给P人一点J人的旅游震撼",
@@ -7521,6 +7625,14 @@
       "onboard_time": 1711279519,
       "rank": 38,
       "category": "数码"
+    },
+    {
+      "raw_hot": 156829,
+      "num": 156829,
+      "word": "再也不怕早八迟到了",
+      "onboard_time": 1711516280,
+      "rank": 43,
+      "category": "幽默"
     },
     {
       "raw_hot": 155838,
@@ -8587,6 +8699,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 133091,
+      "num": 133091,
+      "word": "雷军回应对标特斯拉保时捷",
+      "onboard_time": 1711516520,
+      "rank": 48,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 133068,
       "num": 353112,
       "word": "点咖啡偶遇卡琳娜",
@@ -8771,6 +8891,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 127031,
+      "num": 146288,
+      "word": "阿根廷vs哥斯达黎加",
+      "onboard_time": 1711515259,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 126811,
       "num": 126811,
       "word": "ILLIT颜值",
@@ -8905,14 +9033,6 @@
       "onboard_time": 1711375159,
       "rank": 46,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 122426,
-      "num": 132047,
-      "word": "爸爸煮饭费水遭女儿压迫式教育",
-      "onboard_time": 1711514180,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 122119,
