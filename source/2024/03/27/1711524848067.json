@@ -1,0 +1,410 @@
+{
+  "runTime": 1711524848067,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1772220,
+        "num": 1772220,
+        "word": "第一章回国 第二章体测",
+        "onboard_time": 1711518980,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1333808,
+        "num": 1333808,
+        "word": "海底捞一天翻台率3.3次",
+        "onboard_time": 1711521499,
+        "rank": 1,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 54478,
+        "num": 1016695,
+        "word": "2023中国网络视听12大数据发布",
+        "onboard_time": 1711522337,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 704612,
+        "num": 704612,
+        "word": "地磁暴全责",
+        "onboard_time": 1711511419,
+        "rank": 3,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 697313,
+        "num": 697313,
+        "word": "扫墓时焚烧冥纸谈不上是封建迷信",
+        "onboard_time": 1711519157,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 566939,
+        "num": 566939,
+        "word": "90后外卖小哥称不愿缴纳社保",
+        "onboard_time": 1711521378,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 557859,
+        "num": 557859,
+        "word": "陈铭的论文",
+        "onboard_time": 1711514722,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 452714,
+        "num": 452714,
+        "word": "南通回应禁止制造销售冥币纸钱",
+        "onboard_time": 1711521558,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 380357,
+        "num": 380357,
+        "word": "男子校内虐杀流浪猫被大学生抓获",
+        "onboard_time": 1711523236,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 311375,
+        "num": 311375,
+        "word": "网传春色寄情人定档",
+        "onboard_time": 1711522159,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 455169,
+        "num": 309420,
+        "word": "A股再度跌破3000点大关",
+        "onboard_time": 1711523477,
+        "rank": 10,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 373469,
+        "num": 309220,
+        "word": "武汉大学回应开设雷军班",
+        "onboard_time": 1711521919,
+        "rank": 11,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 317936,
+        "num": 309204,
+        "word": "A股",
+        "onboard_time": 1711522159,
+        "rank": 12,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 304763,
+        "num": 304763,
+        "word": "宋茜片场摔倒",
+        "onboard_time": 1711517419,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 270595,
+        "num": 270595,
+        "word": "马立奥写作业八百个小动作",
+        "onboard_time": 1711517718,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 270178,
+        "num": 270178,
+        "word": "张颂文 你改下网名会不会好点",
+        "onboard_time": 1711508719,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 269711,
+        "num": 269711,
+        "word": "小林制药保健品已致2死106人住院",
+        "onboard_time": 1711500498,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 263757,
+        "num": 263757,
+        "word": "射雕联名",
+        "onboard_time": 1711523359,
+        "rank": 17,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 252534,
+        "num": 252534,
+        "word": "陈楚生苏醒魏晨张杰早期写真",
+        "onboard_time": 1711517778,
+        "rank": 18,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 248707,
+        "num": 248707,
+        "word": "泫雅转圈",
+        "onboard_time": 1711514540,
+        "rank": 19,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 342361,
+        "num": 246128,
+        "word": "女子称打车爱上司机2年花了400万",
+        "onboard_time": 1711521197,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 243084,
+        "num": 243084,
+        "word": "四千五的双休和六千五的单休",
+        "onboard_time": 1711507218,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 231462,
+        "num": 231462,
+        "word": "免疫力下降的5个信号",
+        "onboard_time": 1711520178,
+        "rank": 22,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 228973,
+        "num": 228973,
+        "word": "建议好吃的店不要带对象去",
+        "onboard_time": 1711521499,
+        "rank": 23,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 226267,
+        "num": 226267,
+        "word": "九重紫官宣杀青",
+        "onboard_time": 1711522518,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 218557,
+        "num": 218557,
+        "word": "张艺兴和百分百导演起争执",
+        "onboard_time": 1711523059,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 218246,
+        "num": 218246,
+        "word": "爸爸煮饭费水遭女儿压迫式教育",
+        "onboard_time": 1711514180,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 215736,
+        "num": 215736,
+        "word": "何炅吴昕你们不要再吵了",
+        "onboard_time": 1711520238,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 211120,
+        "num": 211120,
+        "word": "周也 冰国皇太女",
+        "onboard_time": 1711514961,
+        "rank": 28,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 163598,
+        "num": 199204,
+        "word": "内蒙古局地沙尘暴天空变橙色",
+        "onboard_time": 1711524078,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 197905,
+        "num": 197905,
+        "word": "爸爸当家3",
+        "onboard_time": 1711521857,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 197710,
+        "num": 197710,
+        "word": "睡觉从不做梦是不利于健康的",
+        "onboard_time": 1711523301,
+        "rank": 31,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 188176,
+        "num": 188176,
+        "word": "晚上六点半和九点半下班的区别",
+        "onboard_time": 1711522698,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 177487,
+        "num": 177487,
+        "word": "鹿晗耍帅把假发甩掉了",
+        "onboard_time": 1711513642,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 32369,
+        "num": 175481,
+        "word": "领克发布跨界数码新品CoPad",
+        "onboard_time": 1711521439,
+        "rank": 34,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 175348,
+        "num": 175348,
+        "word": "射雕 逆水寒",
+        "onboard_time": 1711524018,
+        "rank": 35,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 171240,
+        "num": 171240,
+        "word": "我国法律无明确规定禁售冥纸",
+        "onboard_time": 1711524618,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 164558,
+        "num": 164558,
+        "word": "韩庚卢靖姗撒糖",
+        "onboard_time": 1711520358,
+        "rank": 37,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 162008,
+        "num": 162008,
+        "word": "梁靖崑3比2卡尔伯格",
+        "onboard_time": 1711522038,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 155406,
+        "num": 155406,
+        "word": "A股3000点附近你加仓吗",
+        "onboard_time": 1711523719,
+        "rank": 39,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 151430,
+        "num": 151430,
+        "word": "丁禹兮出妆",
+        "onboard_time": 1711522940,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 147645,
+        "num": 147645,
+        "word": "建议大家把体重秤换成这个",
+        "onboard_time": 1711514480,
+        "rank": 41,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 147048,
+        "num": 147048,
+        "word": "邓超摘口罩最快的一次",
+        "onboard_time": 1711524379,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 146220,
+        "num": 146220,
+        "word": "上证指数跌破3000点关口",
+        "onboard_time": 1711524439,
+        "rank": 43,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 141510,
+        "num": 141510,
+        "word": "4000块的收纳师整理成这样",
+        "onboard_time": 1711515320,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 140656,
+        "num": 140656,
+        "word": "肖顺尧腰右侧横突骨折",
+        "onboard_time": 1711521499,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 134685,
+        "num": 134685,
+        "word": "MOKA 迷路姬",
+        "onboard_time": 1711523117,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 131511,
+        "num": 131511,
+        "word": "地磁暴",
+        "onboard_time": 1711518917,
+        "rank": 47,
+        "category": "自然"
+      },
+      {
+        "raw_hot": 127500,
+        "num": 127500,
+        "word": "董宇辉回应被说架子大",
+        "onboard_time": 1711514898,
+        "rank": 48,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 119727,
+        "num": 119727,
+        "word": "MOKA横版直拍",
+        "onboard_time": 1711523539,
+        "rank": 49,
+        "category": "音乐"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平同美国工商界和战略学术界代表合影#"
+    }
+  }
+}
