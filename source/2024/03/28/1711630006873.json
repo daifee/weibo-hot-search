@@ -1,0 +1,410 @@
+{
+  "runTime": 1711630006873,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 12135608,
+        "num": 12135608,
+        "word": "小米SU7价格",
+        "onboard_time": 1711627097,
+        "rank": 0,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 3447750,
+        "num": 3447750,
+        "word": "小米SU7",
+        "onboard_time": 1711623859,
+        "rank": 1,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 40159,
+        "num": 2482321,
+        "word": "2024中国网络媒体论坛",
+        "onboard_time": 1711628721,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2091493,
+        "num": 2091493,
+        "word": "存款到10万是什么感觉",
+        "onboard_time": 1711625898,
+        "rank": 3,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 1915712,
+        "num": 1915712,
+        "word": "小米发布会",
+        "onboard_time": 1711615939,
+        "rank": 4,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 1262902,
+        "num": 1262902,
+        "word": "雷军排面",
+        "onboard_time": 1711624097,
+        "rank": 5,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 1033521,
+        "num": 1033521,
+        "word": "造车很苦 但成功一定很酷",
+        "onboard_time": 1711626259,
+        "rank": 6,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 845609,
+        "num": 845609,
+        "word": "浪姐5 退赛",
+        "onboard_time": 1711615999,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 258199,
+        "num": 784444,
+        "word": "鼠头鸭脖涉事方被列为严重违法失信",
+        "onboard_time": 1711625958,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 196742,
+        "num": 752637,
+        "word": "樊振东晋级",
+        "onboard_time": 1711626560,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 739233,
+        "num": 739233,
+        "word": "小米SU7价格预测",
+        "onboard_time": 1711622179,
+        "rank": 10,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 658923,
+        "num": 658923,
+        "word": "雷军 遥遥领先",
+        "onboard_time": 1711627458,
+        "rank": 11,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 608461,
+        "num": 608461,
+        "word": "女性最无声的炫富",
+        "onboard_time": 1711624398,
+        "rank": 12,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 550957,
+        "num": 550957,
+        "word": "柳智敏签售切小屏",
+        "onboard_time": 1711629441,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 461738,
+        "num": 461738,
+        "word": "张元英听出来了粉丝是中国人",
+        "onboard_time": 1711625718,
+        "rank": 14,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 395807,
+        "num": 395807,
+        "word": "港媒辣评赵露思造型",
+        "onboard_time": 1711615698,
+        "rank": 15,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 329941,
+        "num": 329941,
+        "word": "极限挑战",
+        "onboard_time": 1711626920,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 319269,
+        "num": 319269,
+        "word": "在朋友圈贬损王一博被判赔4万元",
+        "onboard_time": 1711620858,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 290541,
+        "num": 290541,
+        "word": "现在的抑郁症在以前叫什么",
+        "onboard_time": 1711619599,
+        "rank": 18,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 129591,
+        "num": 277872,
+        "word": "大熊猫委屈巴巴说是抱枕先动手的",
+        "onboard_time": 1711623679,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 384449,
+        "num": 272978,
+        "word": "爱吃辣的人癌症死亡率比同龄人要低",
+        "onboard_time": 1711622538,
+        "rank": 20,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 315272,
+        "num": 272933,
+        "word": "肠癌真的一发现就是中晚期吗",
+        "onboard_time": 1711628962,
+        "rank": 21,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 266874,
+        "num": 266874,
+        "word": "科技春晚",
+        "onboard_time": 1711624998,
+        "rank": 22,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 251518,
+        "num": 251518,
+        "word": "贾乃亮黄晓明黄景瑜吃铁锅炖大鱼",
+        "onboard_time": 1711628541,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 246886,
+        "num": 246886,
+        "word": "天蝎座软硬都不吃",
+        "onboard_time": 1711625898,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 229028,
+        "num": 229028,
+        "word": "Vidda回应小米诉讼",
+        "onboard_time": 1711615338,
+        "rank": 25,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 224279,
+        "num": 224279,
+        "word": "隐瞒婚姻状态通过了面试",
+        "onboard_time": 1711629860,
+        "rank": 26,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 223958,
+        "num": 223958,
+        "word": "杨洋小卷毛",
+        "onboard_time": 1711629561,
+        "rank": 27,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 172853,
+        "num": 223671,
+        "word": "女子遭丈夫家暴后死亡",
+        "onboard_time": 1711621219,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 151732,
+        "num": 223240,
+        "word": "负债4万考公上岸值得吗",
+        "onboard_time": 1711616838,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 217622,
+        "num": 222728,
+        "word": "追风者导演回应给王一博通电",
+        "onboard_time": 1711627699,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 387221,
+        "num": 222479,
+        "word": "雷军回应身高181cm",
+        "onboard_time": 1711629860,
+        "rank": 31,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 222055,
+        "num": 222055,
+        "word": "休学旅行一年好朋友都把我删了",
+        "onboard_time": 1711629681,
+        "rank": 32,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 219328,
+        "num": 219328,
+        "word": "父母瞒了我16年我不是他们亲生女儿",
+        "onboard_time": 1711616357,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 211199,
+        "num": 211199,
+        "word": "龚俊李雪琴脱口秀",
+        "onboard_time": 1711629079,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 209159,
+        "num": 209159,
+        "word": "微信半夜自己给别人发信息",
+        "onboard_time": 1711625059,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 208994,
+        "num": 208994,
+        "word": "雷军感谢多家车企",
+        "onboard_time": 1711624159,
+        "rank": 36,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 204031,
+        "num": 204031,
+        "word": "小米SU7首发共9款颜色",
+        "onboard_time": 1711626498,
+        "rank": 37,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 107417,
+        "num": 195373,
+        "word": "甘露寺回应招人",
+        "onboard_time": 1711615338,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 97060,
+        "num": 194397,
+        "word": "杜华卸任乐华法定代表人",
+        "onboard_time": 1711623197,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 193955,
+        "num": 193955,
+        "word": "上了三天班已经算了八次存款",
+        "onboard_time": 1711622837,
+        "rank": 40,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 192575,
+        "num": 192575,
+        "word": "马识途去世",
+        "onboard_time": 1711629921,
+        "rank": 41,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 190009,
+        "num": 190009,
+        "word": "钟楚曦李一桐可以结婚了",
+        "onboard_time": 1711624398,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 187240,
+        "num": 187240,
+        "word": "贾乃亮买10斤瓜子坐绿皮火车",
+        "onboard_time": 1711619479,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 182844,
+        "num": 182844,
+        "word": "网购的新衣服一定要洗了再穿",
+        "onboard_time": 1711629860,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 180520,
+        "num": 180520,
+        "word": "女生举报遭生父性侵有证据在审查",
+        "onboard_time": 1711621937,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 177846,
+        "num": 177846,
+        "word": "白敬亭金晨给丁勇岱让C位",
+        "onboard_time": 1711616538,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 168153,
+        "num": 168153,
+        "word": "小米配件发布会",
+        "onboard_time": 1711627519,
+        "rank": 47,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 164363,
+        "num": 164363,
+        "word": "大一到大四的穿搭变化",
+        "onboard_time": 1711629981,
+        "rank": 48,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 100282,
+        "num": 163567,
+        "word": "媒体人称李铁大概率被判10年以上",
+        "onboard_time": 1711627640,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#中美关系事关人类前途命运#"
+    }
+  }
+}

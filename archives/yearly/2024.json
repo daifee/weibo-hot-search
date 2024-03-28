@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1711629179365,
+  "endTime": 1711630006873,
   "band_list": [
     {
       "raw_hot": 18909527,
@@ -91,6 +91,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 12135608,
+      "num": 12135608,
+      "word": "小米SU7价格",
+      "onboard_time": 1710208890,
+      "rank": 40,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 12106728,
       "num": 12106728,
       "word": "岳云鹏嘴瓢",
@@ -145,14 +153,6 @@
       "onboard_time": 1707300511,
       "rank": 0,
       "category": "体育"
-    },
-    {
-      "raw_hot": 10819269,
-      "num": 10819269,
-      "word": "小米SU7价格",
-      "onboard_time": 1710208890,
-      "rank": 40,
-      "category": "汽车"
     },
     {
       "raw_hot": 10611140,
