@@ -1,7 +1,15 @@
 {
   "startTime": 1709223640991,
-  "endTime": 1711630006873,
+  "endTime": 1711631963147,
   "band_list": [
+    {
+      "raw_hot": 21250232,
+      "num": 21250232,
+      "word": "小米SU7价格",
+      "onboard_time": 1710208890,
+      "rank": 40,
+      "category": "汽车"
+    },
     {
       "raw_hot": 12728050,
       "num": 12320533,
@@ -9,14 +17,6 @@
       "onboard_time": 1709867670,
       "rank": 3,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 12135608,
-      "num": 12135608,
-      "word": "小米SU7价格",
-      "onboard_time": 1710208890,
-      "rank": 40,
-      "category": "汽车"
     },
     {
       "raw_hot": 11692231,
@@ -112,6 +112,14 @@
       "word": "小米SU7",
       "onboard_time": 1711602861,
       "rank": 39,
+      "category": "汽车"
+    },
+    {
+      "raw_hot": 5083654,
+      "num": 5083654,
+      "word": "小米SU7售价21.59万元起",
+      "onboard_time": 1711630402,
+      "rank": 1,
       "category": "汽车"
     },
     {
@@ -305,6 +313,14 @@
       "onboard_time": 1710492457,
       "rank": 5,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 3174247,
+      "num": 3174247,
+      "word": "雷军 雷神",
+      "onboard_time": 1711631302,
+      "rank": 4,
+      "category": "互联网"
     },
     {
       "raw_hot": 3160157,
@@ -763,6 +779,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2399511,
+      "num": 2399511,
+      "word": "存款到10万是什么感觉",
+      "onboard_time": 1711625898,
+      "rank": 3,
+      "category": "情感"
+    },
+    {
       "raw_hot": 2396232,
       "num": 2396232,
       "word": "凯特王妃",
@@ -929,6 +953,14 @@
       "onboard_time": 1711180220,
       "rank": 0,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 2225596,
+      "num": 2225596,
+      "word": "李铁当庭认罪悔罪",
+      "onboard_time": 1711630943,
+      "rank": 6,
+      "category": "体育"
     },
     {
       "raw_hot": 2223864,
@@ -1137,14 +1169,6 @@
       "onboard_time": 1711500498,
       "rank": 0,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 2091493,
-      "num": 2091493,
-      "word": "存款到10万是什么感觉",
-      "onboard_time": 1711625898,
-      "rank": 3,
-      "category": "情感"
     },
     {
       "raw_hot": 2088881,
@@ -1617,6 +1641,14 @@
       "onboard_time": 1710675629,
       "rank": 1,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1853173,
+      "num": 1853173,
+      "word": "雷军排面",
+      "onboard_time": 1711624097,
+      "rank": 30,
+      "category": "数码"
     },
     {
       "raw_hot": 1845566,
@@ -3497,14 +3529,6 @@
       "onboard_time": 1710668792,
       "rank": 5,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 1357405,
-      "num": 1357405,
-      "word": "雷军排面",
-      "onboard_time": 1711624097,
-      "rank": 30,
-      "category": "数码"
     },
     {
       "raw_hot": 1356611,
@@ -9427,6 +9451,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 783272,
+      "num": 783272,
+      "word": "小米SU7价格预测",
+      "onboard_time": 1711622179,
+      "rank": 25,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 783152,
       "num": 450140,
       "word": "向佐请摄影师不要在鼻孔下面拍他",
@@ -10451,14 +10483,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 740148,
-      "num": 740148,
-      "word": "小米SU7价格预测",
-      "onboard_time": 1711622179,
-      "rank": 25,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 740077,
       "num": 740077,
       "word": "赵丽颖说拍大结局从早哭到晚",
@@ -10883,6 +10907,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 721785,
+      "num": 721785,
+      "word": "马识途去世",
+      "onboard_time": 1711629921,
+      "rank": 41,
+      "category": "读书作家"
+    },
+    {
       "raw_hot": 721169,
       "num": 721169,
       "word": "农夫山泉",
@@ -10985,6 +11017,14 @@
       "onboard_time": 1710110358,
       "rank": 11,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 717315,
+      "num": 717315,
+      "word": "雷军 遥遥领先",
+      "onboard_time": 1711627458,
+      "rank": 12,
+      "category": "汽车"
     },
     {
       "raw_hot": 716625,
@@ -11609,14 +11649,6 @@
       "onboard_time": 1710824560,
       "rank": 14,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 696435,
-      "num": 696435,
-      "word": "雷军 遥遥领先",
-      "onboard_time": 1711627458,
-      "rank": 12,
-      "category": "汽车"
     },
     {
       "raw_hot": 695302,
@@ -13345,6 +13377,14 @@
       "onboard_time": 1709374652,
       "rank": 20,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 633981,
+      "num": 633981,
+      "word": "雷军回应身高181cm",
+      "onboard_time": 1711629860,
+      "rank": 31,
+      "category": "互联网"
     },
     {
       "raw_hot": 633340,
@@ -17315,6 +17355,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 524373,
+      "num": 792056,
+      "word": "李铁案择期宣判",
+      "onboard_time": 1711631003,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
       "raw_hot": 524317,
       "num": 515522,
       "word": "郑合惠子否认退圈",
@@ -20227,6 +20275,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 462905,
+      "num": 462905,
+      "word": "张元英听出来了粉丝是中国人",
+      "onboard_time": 1711625718,
+      "rank": 13,
+      "category": "演出"
+    },
+    {
       "raw_hot": 462467,
       "num": 462467,
       "word": "马龙林高远3比2樊振东王楚钦",
@@ -20289,14 +20345,6 @@
       "onboard_time": 1710077552,
       "rank": 36,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 461738,
-      "num": 461738,
-      "word": "张元英听出来了粉丝是中国人",
-      "onboard_time": 1711625718,
-      "rank": 13,
-      "category": "演出"
     },
     {
       "raw_hot": 461696,
@@ -22139,6 +22187,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 426038,
+      "num": 426038,
+      "word": "李铁被控非法收受5089万余元",
+      "onboard_time": 1711631124,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 426032,
       "num": 426032,
       "word": "王俊凯说发微博更像发朋友圈",
@@ -23931,6 +23987,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 391942,
+      "num": 391942,
+      "word": "肠癌真的一发现就是中晚期吗",
+      "onboard_time": 1711628962,
+      "rank": 37,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 391881,
       "num": 391881,
       "word": "河南一学校劝学生自愿放弃中考",
@@ -24201,14 +24265,6 @@
       "onboard_time": 1710233198,
       "rank": 13,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 387221,
-      "num": 222479,
-      "word": "雷军回应身高181cm",
-      "onboard_time": 1711629860,
-      "rank": 31,
-      "category": "互联网"
     },
     {
       "raw_hot": 387169,
@@ -25737,6 +25793,14 @@
       "onboard_time": 1710425615,
       "rank": 36,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 364742,
+      "num": 364742,
+      "word": "军儿 交个朋友",
+      "onboard_time": 1711630822,
+      "rank": 23,
+      "category": "汽车"
     },
     {
       "raw_hot": 364544,
@@ -28179,6 +28243,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 326486,
+      "num": 326486,
+      "word": "曹云金回应给郭德纲刷礼物",
+      "onboard_time": 1711630161,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 326195,
       "num": 326195,
       "word": "上海迪士尼将扩建新景点",
@@ -28481,6 +28553,14 @@
       "onboard_time": 1709289573,
       "rank": 14,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 321302,
+      "num": 321302,
+      "word": "李斌 小米发布会",
+      "onboard_time": 1711626437,
+      "rank": 34,
+      "category": "数码"
     },
     {
       "raw_hot": 321290,
@@ -29073,14 +29153,6 @@
       "onboard_time": 1709594543,
       "rank": 30,
       "category": "国内时政,教育"
-    },
-    {
-      "raw_hot": 315272,
-      "num": 272933,
-      "word": "肠癌真的一发现就是中晚期吗",
-      "onboard_time": 1711628962,
-      "rank": 37,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 315245,
@@ -29707,6 +29779,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 307425,
+      "num": 307425,
+      "word": "周迅胡歌坐一起",
+      "onboard_time": 1711630943,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 307183,
       "num": 307183,
       "word": "某媒体称米哈游终止与原神合作",
@@ -30233,6 +30313,14 @@
       "onboard_time": 1709863946,
       "rank": 25,
       "category": "财经"
+    },
+    {
+      "raw_hot": 300899,
+      "num": 300899,
+      "word": "休学旅行一年好朋友都把我删了",
+      "onboard_time": 1711629681,
+      "rank": 32,
+      "category": "情感"
     },
     {
       "raw_hot": 300842,
@@ -32825,6 +32913,14 @@
       "onboard_time": 1711204882,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 275888,
+      "num": 275888,
+      "word": "雷军晒小米SU7与Model3对比",
+      "onboard_time": 1711631362,
+      "rank": 32,
+      "category": "汽车"
     },
     {
       "raw_hot": 275870,
@@ -37891,6 +37987,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 236255,
+      "num": 236255,
+      "word": "Vidda回应小米诉讼",
+      "onboard_time": 1711615338,
+      "rank": 49,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 236194,
       "num": 236194,
       "word": "叔叔要求我同责赡养爷爷奶奶",
@@ -39049,14 +39153,6 @@
       "onboard_time": 1710668550,
       "rank": 27,
       "category": "情感"
-    },
-    {
-      "raw_hot": 229028,
-      "num": 229028,
-      "word": "Vidda回应小米诉讼",
-      "onboard_time": 1711615338,
-      "rank": 49,
-      "category": "互联网"
     },
     {
       "raw_hot": 228984,
@@ -40371,14 +40467,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 222055,
-      "num": 222055,
-      "word": "休学旅行一年好朋友都把我删了",
-      "onboard_time": 1711629681,
-      "rank": 32,
-      "category": "情感"
-    },
-    {
       "raw_hot": 222029,
       "num": 222029,
       "word": "上班搭子离职了比分手还难受",
@@ -41033,6 +41121,14 @@
       "onboard_time": 1710402333,
       "rank": 30,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 218674,
+      "num": 301117,
+      "word": "陈梦采访",
+      "onboard_time": 1711630462,
+      "rank": 27,
+      "category": "体育"
     },
     {
       "raw_hot": 218650,
@@ -42732,7 +42828,7 @@
     },
     {
       "raw_hot": 210820,
-      "num": 228076,
+      "num": 300918,
       "word": "女子遭丈夫家暴后死亡",
       "onboard_time": 1711621219,
       "rank": 33,
@@ -43832,14 +43928,6 @@
       "word": "Apple 静安",
       "onboard_time": 1711014980,
       "rank": 28,
-      "category": "数码"
-    },
-    {
-      "raw_hot": 206152,
-      "num": 206152,
-      "word": "李斌 小米发布会",
-      "onboard_time": 1711626437,
-      "rank": 34,
       "category": "数码"
     },
     {
@@ -46235,6 +46323,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 198498,
+      "num": 198498,
+      "word": "小米SU7配置",
+      "onboard_time": 1711631724,
+      "rank": 40,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 198450,
       "num": 198450,
       "word": "郝蕾打压式安慰王梓薇",
@@ -48209,14 +48305,6 @@
       "onboard_time": 1710561577,
       "rank": 39,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 192575,
-      "num": 192575,
-      "word": "马识途去世",
-      "onboard_time": 1711629921,
-      "rank": 41,
-      "category": "读书作家"
     },
     {
       "raw_hot": 192569,
@@ -73804,7 +73892,7 @@
     },
     {
       "raw_hot": 100282,
-      "num": 163567,
+      "num": 168470,
       "word": "媒体人称李铁大概率被判10年以上",
       "onboard_time": 1711627640,
       "rank": 49,
@@ -77161,6 +77249,14 @@
       "onboard_time": 1709917882,
       "rank": 47,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 55855,
+      "num": 4107482,
+      "word": "万千气象看云南",
+      "onboard_time": 1711630582,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 55841,
@@ -80625,6 +80721,9 @@
     },
     {
       "word": "#习近平主席向美方人士详解中国发展#"
+    },
+    {
+      "word": "#中央军委举行晋升上将军衔仪式#"
     }
   ]
 }
