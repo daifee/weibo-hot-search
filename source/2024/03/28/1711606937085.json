@@ -1,0 +1,410 @@
+{
+  "runTime": 1711606937085,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 626163,
+        "num": 626163,
+        "word": "张艺兴富养女团穷养男团",
+        "onboard_time": 1711605139,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 492870,
+        "num": 492870,
+        "word": "秦岚的嗓子怎么还没好",
+        "onboard_time": 1711599200,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 36584,
+        "num": 471133,
+        "word": "第十一届中国网络视听大会开幕",
+        "onboard_time": 1711594578,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1247329,
+        "num": 463840,
+        "word": "山西订婚强奸案彩礼纠纷案一审宣判",
+        "onboard_time": 1711603940,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 450840,
+        "num": 450840,
+        "word": "王艳出演贵女",
+        "onboard_time": 1711604180,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 443676,
+        "num": 443676,
+        "word": "B站回应北师大教授发传单推荐免费课",
+        "onboard_time": 1711603998,
+        "rank": 5,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 439223,
+        "num": 439223,
+        "word": "百日咳再现",
+        "onboard_time": 1711604419,
+        "rank": 6,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 384027,
+        "num": 384027,
+        "word": "杨幂嘉人5套高定",
+        "onboard_time": 1711603879,
+        "rank": 7,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 282101,
+        "num": 361733,
+        "word": "男子专升本考试语种错选成俄语",
+        "onboard_time": 1711599679,
+        "rank": 8,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 202911,
+        "num": 359874,
+        "word": "陈戌源曾劝李铁退还4800万遭拒绝",
+        "onboard_time": 1711593137,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 506699,
+        "num": 359866,
+        "word": "雷军称终于到了交作业的时候",
+        "onboard_time": 1711603400,
+        "rank": 10,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 359706,
+        "num": 359706,
+        "word": "张艺兴个人简历",
+        "onboard_time": 1711601300,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 326441,
+        "num": 326441,
+        "word": "北京师范大学教授 发传单授课",
+        "onboard_time": 1711605800,
+        "rank": 12,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 311396,
+        "num": 311396,
+        "word": "赵丽颖的脸比小朋友还小",
+        "onboard_time": 1711596919,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 291266,
+        "num": 291266,
+        "word": "小米SU7霞光紫",
+        "onboard_time": 1711602321,
+        "rank": 14,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 286324,
+        "num": 286324,
+        "word": "什么病应该挂什么科",
+        "onboard_time": 1711604478,
+        "rank": 15,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 273377,
+        "num": 273377,
+        "word": "极限挑战把黄景瑜从品质盛典绑走了",
+        "onboard_time": 1711598898,
+        "rank": 16,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 248992,
+        "num": 248992,
+        "word": "奔跑吧12兄弟团首合体",
+        "onboard_time": 1711599320,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 230188,
+        "num": 230188,
+        "word": "自刷差评淄博烧烤店谈爆火1年现状",
+        "onboard_time": 1711582336,
+        "rank": 18,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 229613,
+        "num": 229613,
+        "word": "华为P70",
+        "onboard_time": 1711594338,
+        "rank": 19,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 322589,
+        "num": 224600,
+        "word": "订婚后发现女朋友之前确诊双相",
+        "onboard_time": 1711589778,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 217923,
+        "num": 217923,
+        "word": "韩素希高中时期照片",
+        "onboard_time": 1711593978,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 214376,
+        "num": 214376,
+        "word": "韩国化妆棉塌房",
+        "onboard_time": 1711603759,
+        "rank": 22,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 205049,
+        "num": 205049,
+        "word": "数码宝贝 武嘉是真的",
+        "onboard_time": 1711606160,
+        "rank": 23,
+        "category": "动漫,作品衍生"
+      },
+      {
+        "raw_hot": 202163,
+        "num": 202163,
+        "word": "赵雷佛山",
+        "onboard_time": 1711606577,
+        "rank": 24,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 189942,
+        "num": 189942,
+        "word": "猫咪洗澡后被奶奶挂起来晒干",
+        "onboard_time": 1711599200,
+        "rank": 25,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 187635,
+        "num": 187635,
+        "word": "TheShy问Ning去不去nip",
+        "onboard_time": 1711601420,
+        "rank": 26,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 179168,
+        "num": 179168,
+        "word": "60岁癌症发病率约为30岁的七倍",
+        "onboard_time": 1711603820,
+        "rank": 27,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 173655,
+        "num": 173655,
+        "word": "女主是个永不道歉的人",
+        "onboard_time": 1711588519,
+        "rank": 28,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 27680,
+        "num": 171861,
+        "word": "阿里AI将接入各类安卓手机",
+        "onboard_time": 1711603940,
+        "rank": 29,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 170696,
+        "num": 170696,
+        "word": "美图秀秀闪退",
+        "onboard_time": 1711606160,
+        "rank": 30,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 165501,
+        "num": 165501,
+        "word": "白鹿范丞丞卖芒果",
+        "onboard_time": 1711603578,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 159706,
+        "num": 159706,
+        "word": "春天为什么是减脂黄金期",
+        "onboard_time": 1711604779,
+        "rank": 32,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 149332,
+        "num": 158780,
+        "word": "李铁",
+        "onboard_time": 1711593557,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 141476,
+        "num": 158565,
+        "word": "医生教你2个动作锻炼手腕",
+        "onboard_time": 1711606458,
+        "rank": 34,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 141143,
+        "num": 158498,
+        "word": "胡锡进谈南通禁售冥纸冥币",
+        "onboard_time": 1711599559,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 158438,
+        "num": 158438,
+        "word": "你愿意不交社保换更多工资吗",
+        "onboard_time": 1711559774,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 157906,
+        "num": 157906,
+        "word": "泡泡岛抢票",
+        "onboard_time": 1711604239,
+        "rank": 37,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 133537,
+        "num": 152071,
+        "word": "南通禁止制销冥币是否有法可依",
+        "onboard_time": 1711603400,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 147649,
+        "num": 147649,
+        "word": "就这个恋与深空爽",
+        "onboard_time": 1711603459,
+        "rank": 39,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 145942,
+        "num": 145942,
+        "word": "咒术回战",
+        "onboard_time": 1711601121,
+        "rank": 40,
+        "category": "动漫,作品衍生"
+      },
+      {
+        "raw_hot": 130180,
+        "num": 130180,
+        "word": "金晨交叉挂脖裙",
+        "onboard_time": 1711602980,
+        "rank": 41,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 125959,
+        "num": 125959,
+        "word": "工商银行每天赚近10亿",
+        "onboard_time": 1711591998,
+        "rank": 42,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 121921,
+        "num": 121921,
+        "word": "祁煜黑背心",
+        "onboard_time": 1711603340,
+        "rank": 43,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 120268,
+        "num": 120268,
+        "word": "陈铭被质疑为何没非升即走",
+        "onboard_time": 1711596257,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 118392,
+        "num": 118392,
+        "word": "日本首相回应小林制药事件",
+        "onboard_time": 1711596017,
+        "rank": 45,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 114861,
+        "num": 114861,
+        "word": "infp和infj的区别是什么",
+        "onboard_time": 1711599800,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 114299,
+        "num": 114299,
+        "word": "百分百出品",
+        "onboard_time": 1711605258,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 113352,
+        "num": 113352,
+        "word": "李铁案时间线梳理",
+        "onboard_time": 1711599919,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 113270,
+        "num": 113270,
+        "word": "魏若来 人间山茶花",
+        "onboard_time": 1711606879,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#中美关系回不到过去但能够有更好的未来#"
+    }
+  }
+}
