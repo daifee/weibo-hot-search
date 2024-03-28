@@ -1,0 +1,410 @@
+{
+  "runTime": 1711610153684,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 763016,
+        "num": 763016,
+        "word": "张艺兴富养女团穷养男团",
+        "onboard_time": 1711605139,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 707913,
+        "num": 707913,
+        "word": "百日咳再现",
+        "onboard_time": 1711604419,
+        "rank": 1,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 32185,
+        "num": 589063,
+        "word": "第十一届中国网络视听大会开幕",
+        "onboard_time": 1711594578,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1022306,
+        "num": 549239,
+        "word": "山西订婚强奸案彩礼纠纷案一审宣判",
+        "onboard_time": 1711603940,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 788275,
+        "num": 547533,
+        "word": "孩子随母姓后夫妻陷入博弈",
+        "onboard_time": 1711607116,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 507858,
+        "num": 507858,
+        "word": "北京师范大学教授 发传单授课",
+        "onboard_time": 1711605800,
+        "rank": 5,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 501244,
+        "num": 501244,
+        "word": "张元英小草莓",
+        "onboard_time": 1711609218,
+        "rank": 6,
+        "category": "艺人,综艺"
+      },
+      {
+        "raw_hot": 478084,
+        "num": 478084,
+        "word": "殡葬用品店家称为数万元存货发愁",
+        "onboard_time": 1711607957,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 447940,
+        "num": 447940,
+        "word": "雷军称终于到了交作业的时候",
+        "onboard_time": 1711603400,
+        "rank": 8,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 165918,
+        "num": 442124,
+        "word": "陈戌源曾劝李铁退还4800万遭拒绝",
+        "onboard_time": 1711593137,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 437333,
+        "num": 437333,
+        "word": "蛋仔UGC地图作者起诉腾讯抄袭",
+        "onboard_time": 1711608378,
+        "rank": 10,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 398008,
+        "num": 398008,
+        "word": "孙颖莎vs平野美宇",
+        "onboard_time": 1711607359,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 309218,
+        "num": 309218,
+        "word": "B站回应北师大教授发传单推荐免费课",
+        "onboard_time": 1711603998,
+        "rank": 12,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 309103,
+        "num": 309103,
+        "word": "日本官员称已开始紧急检查功能性标识食品",
+        "onboard_time": 1711609456,
+        "rank": 13,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 289487,
+        "num": 289487,
+        "word": "王安宇金发背头",
+        "onboard_time": 1711608018,
+        "rank": 14,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 286276,
+        "num": 286276,
+        "word": "秦岚的嗓子怎么还没好",
+        "onboard_time": 1711599200,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 267485,
+        "num": 267485,
+        "word": "赵丽颖的脸比小朋友还小",
+        "onboard_time": 1711596919,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 260466,
+        "num": 260466,
+        "word": "极限挑战把黄景瑜从品质盛典绑走了",
+        "onboard_time": 1711598898,
+        "rank": 17,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 255829,
+        "num": 255829,
+        "word": "减肥期间不吃主食会怎么样",
+        "onboard_time": 1711608497,
+        "rank": 18,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 248565,
+        "num": 248565,
+        "word": "关晓彤抹胸浪花裙",
+        "onboard_time": 1711609276,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 243915,
+        "num": 243915,
+        "word": "孙颖莎3比0平野美宇",
+        "onboard_time": 1711609276,
+        "rank": 20,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 240099,
+        "num": 240099,
+        "word": "杨幂嘉人5套高定",
+        "onboard_time": 1711603879,
+        "rank": 21,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 216009,
+        "num": 216009,
+        "word": "图书馆里考公人和考研人的区别",
+        "onboard_time": 1711609157,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 215848,
+        "num": 215848,
+        "word": "小米汽车SU7四个配置版本疑似曝光",
+        "onboard_time": 1711609157,
+        "rank": 23,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 204003,
+        "num": 204003,
+        "word": "温碧霞头发被蜡烛点着了",
+        "onboard_time": 1711609037,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 202836,
+        "num": 202836,
+        "word": "王艳出演贵女",
+        "onboard_time": 1711604180,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 198759,
+        "num": 198759,
+        "word": "阮经天为照顾生病母亲推掉戏约",
+        "onboard_time": 1711609579,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 195285,
+        "num": 195285,
+        "word": "订婚后发现女朋友之前确诊双相",
+        "onboard_time": 1711589778,
+        "rank": 27,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 190026,
+        "num": 190026,
+        "word": "奔跑吧12兄弟团首合体",
+        "onboard_time": 1711599320,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 70766,
+        "num": 189953,
+        "word": "足协严厉打击假赌黑等行为",
+        "onboard_time": 1711607778,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 189902,
+        "num": 189902,
+        "word": "李遐怡离开AOMG",
+        "onboard_time": 1711608318,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 180746,
+        "num": 180746,
+        "word": "小米SU7霞光紫",
+        "onboard_time": 1711602321,
+        "rank": 31,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 177005,
+        "num": 177005,
+        "word": "华为P70",
+        "onboard_time": 1711594338,
+        "rank": 32,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 173690,
+        "num": 173690,
+        "word": "射雕",
+        "onboard_time": 1711609878,
+        "rank": 33,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 171725,
+        "num": 171725,
+        "word": "王俊凯金尘茶",
+        "onboard_time": 1711609878,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 161528,
+        "num": 161528,
+        "word": "数码宝贝 武嘉是真的",
+        "onboard_time": 1711606160,
+        "rank": 35,
+        "category": "电影,动漫"
+      },
+      {
+        "raw_hot": 160400,
+        "num": 160400,
+        "word": "李铁庭前会见状态比较平稳",
+        "onboard_time": 1711608918,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 159761,
+        "num": 159761,
+        "word": "月经第一天是最疼的",
+        "onboard_time": 1711609878,
+        "rank": 37,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 158386,
+        "num": 158386,
+        "word": "猫咪洗澡后被奶奶挂起来晒干",
+        "onboard_time": 1711599200,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 138883,
+        "num": 138883,
+        "word": "魏若来 人间山茶花",
+        "onboard_time": 1711606879,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 134666,
+        "num": 134666,
+        "word": "李铁",
+        "onboard_time": 1711593557,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 125469,
+        "num": 125469,
+        "word": "孕期饮食或影响胎儿容貌",
+        "onboard_time": 1711609699,
+        "rank": 41,
+        "category": "母婴育儿"
+      },
+      {
+        "raw_hot": 123946,
+        "num": 123946,
+        "word": "你愿意不交社保换更多工资吗",
+        "onboard_time": 1711559774,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 123652,
+        "num": 123652,
+        "word": "TheShy问Ning去不去nip",
+        "onboard_time": 1711601420,
+        "rank": 43,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 114847,
+        "num": 114847,
+        "word": "李铁案时间线梳理",
+        "onboard_time": 1711599919,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 114516,
+        "num": 114516,
+        "word": "白鹿范丞丞卖芒果",
+        "onboard_time": 1711603578,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 112211,
+        "num": 112211,
+        "word": "春天为什么是减脂黄金期",
+        "onboard_time": 1711604779,
+        "rank": 46,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 109163,
+        "num": 109163,
+        "word": "男子专升本考试语种错选成俄语",
+        "onboard_time": 1711599679,
+        "rank": 47,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 107324,
+        "num": 107324,
+        "word": "60岁癌症发病率约为30岁的七倍",
+        "onboard_time": 1711603820,
+        "rank": 48,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 104605,
+        "num": 104605,
+        "word": "韩国化妆棉塌房",
+        "onboard_time": 1711603759,
+        "rank": 49,
+        "category": "美妆"
+      }
+    ],
+    "hotgov": {
+      "word": "#中美关系事关人类前途命运#"
+    }
+  }
+}
