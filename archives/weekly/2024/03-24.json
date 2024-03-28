@@ -1,6 +1,6 @@
 {
   "startTime": 1711210803824,
-  "endTime": 1711582470135,
+  "endTime": 1711588320192,
   "band_list": [
     {
       "raw_hot": 3922233,
@@ -241,6 +241,14 @@
       "onboard_time": 1711424658,
       "rank": 11,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 1804586,
+      "num": 1804586,
+      "word": "自刷差评淄博烧烤店谈爆火1年现状",
+      "onboard_time": 1711582336,
+      "rank": 37,
+      "category": "旅游"
     },
     {
       "raw_hot": 1791285,
@@ -787,6 +795,14 @@
       "category": "母婴育儿"
     },
     {
+      "raw_hot": 1100725,
+      "num": 1100725,
+      "word": "全球高考 影视化",
+      "onboard_time": 1711583658,
+      "rank": 1,
+      "category": "读书作家,作品衍生"
+    },
+    {
       "raw_hot": 1095772,
       "num": 1095772,
       "word": "向佐荧幕初吻给了阿娇",
@@ -1115,6 +1131,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 868578,
+      "num": 243888,
+      "word": "阿娇机场被搭讪",
+      "onboard_time": 1711584138,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 857824,
       "num": 857824,
       "word": "减肥期间正确称体重的方法",
@@ -1177,6 +1201,14 @@
       "onboard_time": 1711433358,
       "rank": 23,
       "category": "美食,社会新闻"
+    },
+    {
+      "raw_hot": 829380,
+      "num": 386729,
+      "word": "韩素希连更4条ins",
+      "onboard_time": 1711585339,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 828870,
@@ -1273,6 +1305,14 @@
       "onboard_time": 1711453699,
       "rank": 5,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 794591,
+      "num": 794591,
+      "word": "Justin Bieber喝醉状况下演唱Stay",
+      "onboard_time": 1711584258,
+      "rank": 3,
+      "category": "演出"
     },
     {
       "raw_hot": 790193,
@@ -1457,6 +1497,14 @@
       "onboard_time": 1711266619,
       "rank": 5,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 758386,
+      "num": 386716,
+      "word": "腾讯裁员10%到30%消息不实",
+      "onboard_time": 1711583358,
+      "rank": 11,
+      "category": "互联网"
     },
     {
       "raw_hot": 758118,
@@ -1953,6 +2001,14 @@
       "onboard_time": 1711450099,
       "rank": 17,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 630550,
+      "num": 630550,
+      "word": "高校呼吁毕业生不要只盯着升学考公考编",
+      "onboard_time": 1711584258,
+      "rank": 4,
+      "category": "教育"
     },
     {
       "raw_hot": 623763,
@@ -2635,6 +2691,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 513439,
+      "num": 513439,
+      "word": "女子将儿媳打得满身疤痕惹众怒",
+      "onboard_time": 1711570150,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 509945,
       "num": 509945,
       "word": "杨和苏鼻梁",
@@ -3131,6 +3195,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 455076,
+      "num": 455076,
+      "word": "莫斯科恐袭死亡升至143人",
+      "onboard_time": 1711584258,
+      "rank": 7,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 454201,
       "num": 454201,
       "word": "王俊凯被强迫摆拍",
@@ -3145,14 +3217,6 @@
       "onboard_time": 1711332319,
       "rank": 19,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 450623,
-      "num": 412455,
-      "word": "女子将儿媳打得满身疤痕惹众怒",
-      "onboard_time": 1711570150,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 450317,
@@ -3177,6 +3241,14 @@
       "onboard_time": 1711349659,
       "rank": 20,
       "category": "教育"
+    },
+    {
+      "raw_hot": 447583,
+      "num": 447583,
+      "word": "南通有丧葬店下架纸钱冥币改卖鲜花",
+      "onboard_time": 1711581436,
+      "rank": 7,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 446987,
@@ -3635,6 +3707,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 392818,
+      "num": 386702,
+      "word": "真想给HR开个不孕不育证明",
+      "onboard_time": 1711582097,
+      "rank": 17,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 391881,
       "num": 391881,
       "word": "河南一学校劝学生自愿放弃中考",
@@ -3721,6 +3801,22 @@
       "onboard_time": 1711519638,
       "rank": 14,
       "category": "财经"
+    },
+    {
+      "raw_hot": 386759,
+      "num": 386759,
+      "word": "背了3天锅的地磁暴确实挺暴躁",
+      "onboard_time": 1711583597,
+      "rank": 9,
+      "category": "科学科普"
+    },
+    {
+      "raw_hot": 386676,
+      "num": 386676,
+      "word": "小米汽车",
+      "onboard_time": 1711584138,
+      "rank": 13,
+      "category": "汽车"
     },
     {
       "raw_hot": 384348,
@@ -3868,7 +3964,7 @@
     },
     {
       "raw_hot": 367126,
-      "num": 155609,
+      "num": 243046,
       "word": "男方准备10万彩礼女方要30万",
       "onboard_time": 1711553838,
       "rank": 20,
@@ -4299,6 +4395,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 328464,
+      "num": 328464,
+      "word": "韩国人迷上宠物石",
+      "onboard_time": 1711586120,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 327906,
       "num": 259207,
       "word": "从微信三件套分析一个人的性格",
@@ -4337,6 +4441,14 @@
       "onboard_time": 1711530980,
       "rank": 39,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 321202,
+      "num": 321202,
+      "word": "长沙暴雨",
+      "onboard_time": 1711582397,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 320636,
@@ -4899,14 +5011,6 @@
       "category": "艺人,艺人"
     },
     {
-      "raw_hot": 277031,
-      "num": 277031,
-      "word": "南通有丧葬店下架纸钱冥币改卖鲜花",
-      "onboard_time": 1711581436,
-      "rank": 7,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 276097,
       "num": 276097,
       "word": "优酷待播剧预约前十",
@@ -4969,6 +5073,22 @@
       "onboard_time": 1711281081,
       "rank": 23,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 272518,
+      "num": 272518,
+      "word": "李铁案一审今日开庭",
+      "onboard_time": 1711583597,
+      "rank": 16,
+      "category": "体育,社会新闻"
+    },
+    {
+      "raw_hot": 271856,
+      "num": 271856,
+      "word": "陈铭说与其发水论文不如不发",
+      "onboard_time": 1711582397,
+      "rank": 45,
+      "category": "艺人"
     },
     {
       "raw_hot": 271538,
@@ -5113,6 +5233,14 @@
       "onboard_time": 1711427600,
       "rank": 34,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 263088,
+      "num": 183352,
+      "word": "代号鸢新主线",
+      "onboard_time": 1711587739,
+      "rank": 30,
+      "category": "游戏"
     },
     {
       "raw_hot": 261866,
@@ -5305,6 +5433,14 @@
       "onboard_time": 1711533738,
       "rank": 22,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 253385,
+      "num": 253385,
+      "word": "易烊千玺更新网站图标",
+      "onboard_time": 1711587259,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 253210,
@@ -5795,6 +5931,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 233894,
+      "num": 179784,
+      "word": "袁基战损",
+      "onboard_time": 1711587859,
+      "rank": 31,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 233830,
       "num": 233830,
       "word": "张艺兴张PD回归",
@@ -6219,6 +6363,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 219140,
+      "num": 219140,
+      "word": "为什么肚子上的肉这么难减",
+      "onboard_time": 1711570751,
+      "rank": 30,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 219109,
       "num": 219109,
       "word": "学校里男女生断崖式身高差",
@@ -6273,6 +6425,14 @@
       "onboard_time": 1711332920,
       "rank": 36,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 218206,
+      "num": 218206,
+      "word": "北京市教委提示师生员工减少外出",
+      "onboard_time": 1711581915,
+      "rank": 26,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 218176,
@@ -6611,6 +6771,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 206503,
+      "num": 206503,
+      "word": "我该怎样拒绝闺蜜的索取",
+      "onboard_time": 1711587259,
+      "rank": 26,
+      "category": "情感"
+    },
+    {
       "raw_hot": 206453,
       "num": 206453,
       "word": "wtt仁川冠军赛2024",
@@ -6801,6 +6969,14 @@
       "onboard_time": 1711336099,
       "rank": 30,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 201728,
+      "num": 201728,
+      "word": "天水麻辣烫代购赚麻了",
+      "onboard_time": 1711583539,
+      "rank": 27,
+      "category": "美食,社会新闻"
     },
     {
       "raw_hot": 201325,
@@ -7747,6 +7923,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 184209,
+      "num": 184209,
+      "word": "惜花芷将定档",
+      "onboard_time": 1711582817,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 184079,
       "num": 184079,
       "word": "三大石油公司去年日赚9.4亿元",
@@ -8179,6 +8363,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 172128,
+      "num": 172128,
+      "word": "射雕捏脸",
+      "onboard_time": 1711587020,
+      "rank": 32,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 172085,
       "num": 172085,
       "word": "烈焰 排面",
@@ -8409,6 +8601,14 @@
       "onboard_time": 1711515921,
       "rank": 40,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 167331,
+      "num": 167331,
+      "word": "第五人格",
+      "onboard_time": 1711587976,
+      "rank": 35,
+      "category": "游戏"
     },
     {
       "raw_hot": 167166,
@@ -8769,6 +8969,14 @@
       "onboard_time": 1711255159,
       "rank": 35,
       "category": "体育"
+    },
+    {
+      "raw_hot": 161117,
+      "num": 161117,
+      "word": "更适合i人体质的面试方法",
+      "onboard_time": 1711587379,
+      "rank": 37,
+      "category": "情感"
     },
     {
       "raw_hot": 160893,
@@ -9347,6 +9555,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 150829,
+      "num": 150829,
+      "word": "成年后我不敢去接受妈妈的好",
+      "onboard_time": 1711584198,
+      "rank": 38,
+      "category": "情感"
+    },
+    {
       "raw_hot": 150624,
       "num": 150624,
       "word": "行止背后抱沈璃",
@@ -9747,14 +9963,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 145004,
-      "num": 145004,
-      "word": "真想给HR开个不孕不育证明",
-      "onboard_time": 1711582097,
-      "rank": 17,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 144939,
       "num": 144939,
       "word": "孙铭阳3比1张本美和",
@@ -9969,6 +10177,14 @@
       "onboard_time": 1711330098,
       "rank": 45,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 140878,
+      "num": 140878,
+      "word": "赵露思hi6上班路透生图",
+      "onboard_time": 1711585941,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 140552,
@@ -10355,14 +10571,6 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 132845,
-      "num": 132845,
-      "word": "北京市教委提示师生员工减少外出",
-      "onboard_time": 1711581915,
-      "rank": 26,
-      "category": "教育,社会新闻"
-    },
-    {
       "raw_hot": 132817,
       "num": 132817,
       "word": "元UP发布会",
@@ -10417,6 +10625,14 @@
       "onboard_time": 1711532239,
       "rank": 38,
       "category": "财经"
+    },
+    {
+      "raw_hot": 130848,
+      "num": 130848,
+      "word": "恒大汽车2023年收入13.4亿",
+      "onboard_time": 1711582577,
+      "rank": 42,
+      "category": "汽车"
     },
     {
       "raw_hot": 130465,
@@ -10561,6 +10777,14 @@
       "onboard_time": 1711257500,
       "rank": 40,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 127089,
+      "num": 127089,
+      "word": "原来戴玉也是有讲究的",
+      "onboard_time": 1711588040,
+      "rank": 43,
+      "category": "时尚"
     },
     {
       "raw_hot": 127057,
@@ -10835,6 +11059,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 120135,
+      "num": 120135,
+      "word": "王一博帮黄秘书OS",
+      "onboard_time": 1711586598,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 119959,
       "num": 119959,
       "word": "颐和园玉兰花盛开",
@@ -10897,14 +11129,6 @@
       "onboard_time": 1711237876,
       "rank": 43,
       "category": "情感"
-    },
-    {
-      "raw_hot": 118436,
-      "num": 118436,
-      "word": "为什么肚子上的肉这么难减",
-      "onboard_time": 1711570751,
-      "rank": 30,
-      "category": "运动健身"
     },
     {
       "raw_hot": 118326,
@@ -11027,6 +11251,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 113407,
+      "num": 113407,
+      "word": "王嘉尔30岁感言",
+      "onboard_time": 1711583417,
+      "rank": 48,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 112829,
       "num": 112829,
       "word": "金泳勋徐明浩cha",
@@ -11041,6 +11273,14 @@
       "onboard_time": 1711436059,
       "rank": 47,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 112634,
+      "num": 112634,
+      "word": "杨紫对接报平安",
+      "onboard_time": 1711586660,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 112624,
@@ -11411,14 +11651,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 87858,
-      "num": 87858,
-      "word": "自刷差评淄博烧烤店谈爆火1年现状",
-      "onboard_time": 1711582336,
-      "rank": 37,
-      "category": "旅游"
-    },
-    {
       "raw_hot": 85558,
       "num": 85558,
       "word": "在吃奶嘴的年纪参加了马拉松",
@@ -11747,28 +11979,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 60237,
-      "num": 60237,
-      "word": "长沙暴雨",
-      "onboard_time": 1711582397,
-      "rank": 44,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 58088,
       "num": 58088,
       "word": "苏打绿香港",
       "onboard_time": 1711301234,
       "rank": 43,
       "category": "演出"
-    },
-    {
-      "raw_hot": 56968,
-      "num": 56968,
-      "word": "陈铭说与其发水论文不如不发",
-      "onboard_time": 1711582397,
-      "rank": 45,
-      "category": "艺人"
     },
     {
       "raw_hot": 56863,
