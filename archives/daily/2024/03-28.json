@@ -1,6 +1,6 @@
 {
   "startTime": 1711556587484,
-  "endTime": 1711588320192,
+  "endTime": 1711589502755,
   "band_list": [
     {
       "raw_hot": 1804586,
@@ -12,7 +12,7 @@
     },
     {
       "raw_hot": 1267911,
-      "num": 598117,
+      "num": 648913,
       "word": "南通",
       "onboard_time": 1711548440,
       "rank": 5,
@@ -44,7 +44,7 @@
     },
     {
       "raw_hot": 829380,
-      "num": 386729,
+      "num": 429259,
       "word": "韩素希连更4条ins",
       "onboard_time": 1711585339,
       "rank": 10,
@@ -60,11 +60,19 @@
     },
     {
       "raw_hot": 758386,
-      "num": 386716,
+      "num": 428925,
       "word": "腾讯裁员10%到30%消息不实",
       "onboard_time": 1711583358,
       "rank": 11,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 659508,
+      "num": 659508,
+      "word": "小米汽车",
+      "onboard_time": 1711584138,
+      "rank": 13,
+      "category": "汽车"
     },
     {
       "raw_hot": 630550,
@@ -123,6 +131,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 464214,
+      "num": 464214,
+      "word": "背了3天锅的地磁暴确实挺暴躁",
+      "onboard_time": 1711583597,
+      "rank": 9,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 455076,
       "num": 455076,
       "word": "莫斯科恐袭死亡升至143人",
@@ -147,6 +163,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 437113,
+      "num": 437113,
+      "word": "韩国人迷上宠物石",
+      "onboard_time": 1711586120,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 411389,
       "num": 411389,
       "word": "持续黑一个历史人物十年",
@@ -163,28 +187,20 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 386759,
-      "num": 386759,
-      "word": "背了3天锅的地磁暴确实挺暴躁",
-      "onboard_time": 1711583597,
-      "rank": 9,
-      "category": "科学科普"
-    },
-    {
-      "raw_hot": 386676,
-      "num": 386676,
-      "word": "小米汽车",
-      "onboard_time": 1711584138,
-      "rank": 13,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 367126,
       "num": 243046,
       "word": "男方准备10万彩礼女方要30万",
       "onboard_time": 1711553838,
       "rank": 20,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 346274,
+      "num": 172232,
+      "word": "女主是个永不道歉的人",
+      "onboard_time": 1711588519,
+      "rank": 30,
+      "category": "情感"
     },
     {
       "raw_hot": 339143,
@@ -211,14 +227,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 328464,
-      "num": 328464,
-      "word": "韩国人迷上宠物石",
-      "onboard_time": 1711586120,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 321424,
       "num": 321424,
       "word": "离异3年内不得京内购房被废止",
@@ -235,12 +243,36 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 300702,
+      "num": 300702,
+      "word": "袁基战损",
+      "onboard_time": 1711587859,
+      "rank": 31,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 300577,
+      "num": 300577,
+      "word": "代号鸢新主线",
+      "onboard_time": 1711587739,
+      "rank": 30,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 296952,
       "num": 186906,
       "word": "经常喝牛奶或增加这两种癌症风险",
       "onboard_time": 1711541779,
       "rank": 21,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 291190,
+      "num": 291190,
+      "word": "初中学历小伙写1500万字后重启人生",
+      "onboard_time": 1711588458,
+      "rank": 16,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 284399,
@@ -275,12 +307,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 263088,
-      "num": 183352,
-      "word": "代号鸢新主线",
-      "onboard_time": 1711587739,
-      "rank": 30,
-      "category": "游戏"
+      "raw_hot": 261369,
+      "num": 171861,
+      "word": "考研未上岸者就业质量不及同期毕业生",
+      "onboard_time": 1711588817,
+      "rank": 31,
+      "category": "教育"
     },
     {
       "raw_hot": 253385,
@@ -321,14 +353,6 @@
       "onboard_time": 1711549760,
       "rank": 13,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 233894,
-      "num": 179784,
-      "word": "袁基战损",
-      "onboard_time": 1711587859,
-      "rank": 31,
-      "category": "游戏"
     },
     {
       "raw_hot": 233123,
@@ -385,6 +409,14 @@
       "onboard_time": 1711581316,
       "rank": 44,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 217371,
+      "num": 217371,
+      "word": "工商银行2023年全年净利润3639.9亿元",
+      "onboard_time": 1711588877,
+      "rank": 24,
+      "category": "财经"
     },
     {
       "raw_hot": 211723,
@@ -473,6 +505,14 @@
       "onboard_time": 1711582817,
       "rank": 29,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 175451,
+      "num": 175451,
+      "word": "罗渽民 略施小计",
+      "onboard_time": 1711588877,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 173893,
@@ -571,6 +611,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 126215,
+      "num": 126215,
+      "word": "王者荣耀新赛季",
+      "onboard_time": 1711584978,
+      "rank": 47,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 120135,
       "num": 120135,
       "word": "王一博帮黄秘书OS",
@@ -579,20 +627,36 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 119993,
-      "num": 119993,
-      "word": "王者荣耀新赛季",
-      "onboard_time": 1711584978,
-      "rank": 47,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 119567,
       "num": 119567,
       "word": "王者荣耀版沈璃上线",
       "onboard_time": 1711548921,
       "rank": 31,
       "category": "剧集,电竞"
+    },
+    {
+      "raw_hot": 118869,
+      "num": 118869,
+      "word": "网友称32岁还在被父母的审美霸凌",
+      "onboard_time": 1711589417,
+      "rank": 46,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 118287,
+      "num": 118287,
+      "word": "ILLIT周偶",
+      "onboard_time": 1711589237,
+      "rank": 47,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 117243,
+      "num": 117243,
+      "word": "三十岁的我已经丧失了共情能力",
+      "onboard_time": 1711589358,
+      "rank": 48,
+      "category": "情感"
     },
     {
       "raw_hot": 113971,

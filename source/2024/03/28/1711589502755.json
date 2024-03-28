@@ -1,0 +1,410 @@
+{
+  "runTime": 1711589502755,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1454766,
+        "num": 1454766,
+        "word": "自刷差评淄博烧烤店谈爆火1年现状",
+        "onboard_time": 1711582336,
+        "rank": 0,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 927666,
+        "num": 927666,
+        "word": "全球高考 影视化",
+        "onboard_time": 1711583658,
+        "rank": 1,
+        "category": "读书作家,作品衍生"
+      },
+      {
+        "raw_hot": 55264,
+        "num": 802973,
+        "word": "我国网络视听用户规模达10.74亿人",
+        "onboard_time": 1711543999,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 716706,
+        "num": 716706,
+        "word": "Justin Bieber喝醉状况下演唱Stay",
+        "onboard_time": 1711584258,
+        "rank": 3,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 659508,
+        "num": 659508,
+        "word": "小米汽车",
+        "onboard_time": 1711584138,
+        "rank": 4,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 939346,
+        "num": 648913,
+        "word": "南通",
+        "onboard_time": 1711548440,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 586942,
+        "num": 586942,
+        "word": "高校呼吁毕业生不要只盯着升学考公考编",
+        "onboard_time": 1711584258,
+        "rank": 6,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 464214,
+        "num": 464214,
+        "word": "背了3天锅的地磁暴确实挺暴躁",
+        "onboard_time": 1711583597,
+        "rank": 7,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 437113,
+        "num": 437113,
+        "word": "韩国人迷上宠物石",
+        "onboard_time": 1711586120,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 434985,
+        "num": 434985,
+        "word": "女子将儿媳打得满身疤痕惹众怒",
+        "onboard_time": 1711570150,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 688518,
+        "num": 429259,
+        "word": "韩素希连更4条ins",
+        "onboard_time": 1711585339,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 600570,
+        "num": 428925,
+        "word": "腾讯裁员10%到30%消息不实",
+        "onboard_time": 1711583358,
+        "rank": 11,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 420349,
+        "num": 420349,
+        "word": "莫斯科恐袭死亡升至143人",
+        "onboard_time": 1711584258,
+        "rank": 12,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 326263,
+        "num": 326263,
+        "word": "真想给HR开个不孕不育证明",
+        "onboard_time": 1711582097,
+        "rank": 13,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 300702,
+        "num": 300702,
+        "word": "袁基战损",
+        "onboard_time": 1711587859,
+        "rank": 14,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 300577,
+        "num": 300577,
+        "word": "代号鸢新主线",
+        "onboard_time": 1711587739,
+        "rank": 15,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 291190,
+        "num": 291190,
+        "word": "初中学历小伙写1500万字后重启人生",
+        "onboard_time": 1711588458,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 282945,
+        "num": 282945,
+        "word": "南通有丧葬店下架纸钱冥币改卖鲜花",
+        "onboard_time": 1711581436,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 239435,
+        "num": 239435,
+        "word": "长沙暴雨",
+        "onboard_time": 1711582397,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 236699,
+        "num": 236699,
+        "word": "易烊千玺更新网站图标",
+        "onboard_time": 1711587259,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 847978,
+        "num": 233955,
+        "word": "你愿意不交社保换更多工资吗",
+        "onboard_time": 1711559774,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 774082,
+        "num": 233936,
+        "word": "阿娇机场被搭讪",
+        "onboard_time": 1711584138,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 228740,
+        "num": 228740,
+        "word": "男方准备10万彩礼女方要30万",
+        "onboard_time": 1711553838,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 217381,
+        "num": 217381,
+        "word": "为什么肚子上的肉这么难减",
+        "onboard_time": 1711570751,
+        "rank": 23,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 217371,
+        "num": 217371,
+        "word": "工商银行2023年全年净利润3639.9亿元",
+        "onboard_time": 1711588877,
+        "rank": 24,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 211205,
+        "num": 211205,
+        "word": "陈铭说与其发水论文不如不发",
+        "onboard_time": 1711582397,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 176437,
+        "num": 176437,
+        "word": "冯提莫腰线",
+        "onboard_time": 1711550721,
+        "rank": 26,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 175629,
+        "num": 175629,
+        "word": "我该怎样拒绝闺蜜的索取",
+        "onboard_time": 1711587259,
+        "rank": 27,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 175451,
+        "num": 175451,
+        "word": "罗渽民 略施小计",
+        "onboard_time": 1711588877,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 158592,
+        "num": 172327,
+        "word": "金宝贝突然停业几天前还怂恿家长充值",
+        "onboard_time": 1711572309,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 346274,
+        "num": 172232,
+        "word": "女主是个永不道歉的人",
+        "onboard_time": 1711588519,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 261369,
+        "num": 171861,
+        "word": "考研未上岸者就业质量不及同期毕业生",
+        "onboard_time": 1711588817,
+        "rank": 31,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 170787,
+        "num": 170787,
+        "word": "天水麻辣烫代购赚麻了",
+        "onboard_time": 1711583539,
+        "rank": 32,
+        "category": "美食,社会新闻"
+      },
+      {
+        "raw_hot": 169500,
+        "num": 169500,
+        "word": "李铁案一审今日开庭",
+        "onboard_time": 1711583597,
+        "rank": 33,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 165507,
+        "num": 165507,
+        "word": "第五人格",
+        "onboard_time": 1711587976,
+        "rank": 34,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 155619,
+        "num": 155619,
+        "word": "经常喝牛奶或增加这两种癌症风险",
+        "onboard_time": 1711541779,
+        "rank": 35,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 152126,
+        "num": 152126,
+        "word": "射雕捏脸",
+        "onboard_time": 1711587020,
+        "rank": 36,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 148401,
+        "num": 148401,
+        "word": "180斤山东女孩拍写真美哭网友",
+        "onboard_time": 1711572670,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 147128,
+        "num": 147128,
+        "word": "北京市教委提示师生员工减少外出",
+        "onboard_time": 1711581915,
+        "rank": 38,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 144301,
+        "num": 144301,
+        "word": "惜花芷将定档",
+        "onboard_time": 1711582817,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 139642,
+        "num": 139642,
+        "word": "幼儿园老师背名牌包被投诉",
+        "onboard_time": 1711549699,
+        "rank": 40,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 139011,
+        "num": 139011,
+        "word": "赵露思hi6上班路透生图",
+        "onboard_time": 1711585941,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 135312,
+        "num": 135312,
+        "word": "更适合i人体质的面试方法",
+        "onboard_time": 1711587379,
+        "rank": 42,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 126215,
+        "num": 126215,
+        "word": "王者荣耀新赛季",
+        "onboard_time": 1711584978,
+        "rank": 43,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 124016,
+        "num": 124016,
+        "word": "王嘉尔普吉岛",
+        "onboard_time": 1711548858,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 122019,
+        "num": 122019,
+        "word": "成年后我不敢去接受妈妈的好",
+        "onboard_time": 1711584198,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 118869,
+        "num": 118869,
+        "word": "网友称32岁还在被父母的审美霸凌",
+        "onboard_time": 1711589417,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 118287,
+        "num": 118287,
+        "word": "ILLIT周偶",
+        "onboard_time": 1711589237,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 117243,
+        "num": 117243,
+        "word": "三十岁的我已经丧失了共情能力",
+        "onboard_time": 1711589358,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 113380,
+        "num": 113380,
+        "word": "梦泪当爸爸",
+        "onboard_time": 1711581316,
+        "rank": 49,
+        "category": "电竞"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平会见美国工商界和战略学术界代表#"
+    }
+  }
+}
