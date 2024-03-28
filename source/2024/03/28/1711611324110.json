@@ -1,0 +1,410 @@
+{
+  "runTime": 1711611324110,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 985169,
+        "num": 985169,
+        "word": "张元英小草莓",
+        "onboard_time": 1711609218,
+        "rank": 0,
+        "category": "艺人,综艺"
+      },
+      {
+        "raw_hot": 652626,
+        "num": 652626,
+        "word": "日本官员称已开始紧急检查功能性标识食品",
+        "onboard_time": 1711609456,
+        "rank": 1,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 26238,
+        "num": 596501,
+        "word": "第十一届中国网络视听大会开幕",
+        "onboard_time": 1711594578,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 981672,
+        "num": 595426,
+        "word": "孩子随母姓后夫妻陷入博弈",
+        "onboard_time": 1711607116,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 802097,
+        "num": 595266,
+        "word": "山西订婚强奸案彩礼纠纷案一审宣判",
+        "onboard_time": 1711603940,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 593180,
+        "num": 593180,
+        "word": "张艺兴富养女团穷养男团",
+        "onboard_time": 1711605139,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 526263,
+        "num": 526263,
+        "word": "百日咳再现",
+        "onboard_time": 1711604419,
+        "rank": 6,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 479449,
+        "num": 479449,
+        "word": "北京师范大学教授 发传单授课",
+        "onboard_time": 1711605800,
+        "rank": 7,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 444510,
+        "num": 444510,
+        "word": "月经第一天是最疼的",
+        "onboard_time": 1711609878,
+        "rank": 8,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 174414,
+        "num": 429640,
+        "word": "陈戌源曾劝李铁退还4800万遭拒绝",
+        "onboard_time": 1711593137,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 429592,
+        "num": 429592,
+        "word": "殡葬用品店家称为数万元存货发愁",
+        "onboard_time": 1711607957,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 375708,
+        "num": 375708,
+        "word": "雷军称终于到了交作业的时候",
+        "onboard_time": 1711603400,
+        "rank": 11,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 354279,
+        "num": 354279,
+        "word": "王俊凯金尘茶",
+        "onboard_time": 1711609878,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 312587,
+        "num": 312587,
+        "word": "关晓彤抹胸浪花裙",
+        "onboard_time": 1711609276,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 290449,
+        "num": 290449,
+        "word": "小米汽车SU7四个配置版本疑似曝光",
+        "onboard_time": 1711609157,
+        "rank": 14,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 288186,
+        "num": 288186,
+        "word": "减肥期间不吃主食会怎么样",
+        "onboard_time": 1711608497,
+        "rank": 15,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 262890,
+        "num": 262890,
+        "word": "B站回应北师大教授发传单推荐免费课",
+        "onboard_time": 1711603998,
+        "rank": 16,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 251568,
+        "num": 251568,
+        "word": "孙颖莎vs平野美宇",
+        "onboard_time": 1711607359,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 234320,
+        "num": 234320,
+        "word": "赵丽颖的脸比小朋友还小",
+        "onboard_time": 1711596919,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 222181,
+        "num": 222181,
+        "word": "图书馆里考公人和考研人的区别",
+        "onboard_time": 1711609157,
+        "rank": 19,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 217087,
+        "num": 217087,
+        "word": "李玟姐姐回应AI李玟",
+        "onboard_time": 1711610239,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 215710,
+        "num": 215710,
+        "word": "秦岚的嗓子怎么还没好",
+        "onboard_time": 1711599200,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 205826,
+        "num": 205826,
+        "word": "蛋仔UGC地图作者起诉腾讯抄袭",
+        "onboard_time": 1711608378,
+        "rank": 22,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 204527,
+        "num": 204527,
+        "word": "王安宇金发背头",
+        "onboard_time": 1711608018,
+        "rank": 23,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 201648,
+        "num": 201648,
+        "word": "射雕",
+        "onboard_time": 1711609878,
+        "rank": 24,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 193946,
+        "num": 193946,
+        "word": "极限挑战把黄景瑜从品质盛典绑走了",
+        "onboard_time": 1711598898,
+        "rank": 25,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 185469,
+        "num": 185469,
+        "word": "孙颖莎3比0平野美宇",
+        "onboard_time": 1711609276,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 185227,
+        "num": 185227,
+        "word": "温碧霞头发被蜡烛点着了",
+        "onboard_time": 1711609037,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 175551,
+        "num": 175551,
+        "word": "杨幂嘉人5套高定",
+        "onboard_time": 1711603879,
+        "rank": 28,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 56219,
+        "num": 175153,
+        "word": "足协严厉打击假赌黑等行为",
+        "onboard_time": 1711607778,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 174768,
+        "num": 174768,
+        "word": "阮经天为照顾生病母亲推掉戏约",
+        "onboard_time": 1711609579,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 174316,
+        "num": 174316,
+        "word": "订婚后发现女朋友之前确诊双相",
+        "onboard_time": 1711589778,
+        "rank": 31,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 162449,
+        "num": 162449,
+        "word": "华为P70",
+        "onboard_time": 1711594338,
+        "rank": 32,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 159259,
+        "num": 159259,
+        "word": "孕期饮食或影响胎儿容貌",
+        "onboard_time": 1711609699,
+        "rank": 33,
+        "category": "母婴育儿"
+      },
+      {
+        "raw_hot": 158234,
+        "num": 158234,
+        "word": "陈都灵辛云来贵女妆造",
+        "onboard_time": 1711610718,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 157384,
+        "num": 157384,
+        "word": "李遐怡离开AOMG",
+        "onboard_time": 1711608318,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 149477,
+        "num": 149477,
+        "word": "李铁庭前会见状态比较平稳",
+        "onboard_time": 1711608918,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 145482,
+        "num": 145482,
+        "word": "李铁",
+        "onboard_time": 1711593557,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 145459,
+        "num": 145459,
+        "word": "小米SU7霞光紫",
+        "onboard_time": 1711602321,
+        "rank": 38,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 136798,
+        "num": 136798,
+        "word": "张多雅不想被贴张元英姐姐标签",
+        "onboard_time": 1711610598,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 136032,
+        "num": 136032,
+        "word": "要多靠近生命力旺盛的人",
+        "onboard_time": 1711610959,
+        "rank": 40,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 135109,
+        "num": 135109,
+        "word": "奔跑吧12兄弟团首合体",
+        "onboard_time": 1711599320,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 132894,
+        "num": 132894,
+        "word": "李铁案时间线梳理",
+        "onboard_time": 1711599919,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 125773,
+        "num": 125773,
+        "word": "猫咪洗澡后被奶奶挂起来晒干",
+        "onboard_time": 1711599200,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 124062,
+        "num": 124062,
+        "word": "王艳出演贵女",
+        "onboard_time": 1711604180,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 116310,
+        "num": 116310,
+        "word": "数码宝贝 武嘉是真的",
+        "onboard_time": 1711606160,
+        "rank": 45,
+        "category": "电影,动漫"
+      },
+      {
+        "raw_hot": 115828,
+        "num": 115828,
+        "word": "仁川赛孙颖莎晋级16强",
+        "onboard_time": 1711610476,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 110163,
+        "num": 110163,
+        "word": "TheShy问Ning去不去nip",
+        "onboard_time": 1711601420,
+        "rank": 47,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 105024,
+        "num": 105024,
+        "word": "魏若来 人间山茶花",
+        "onboard_time": 1711606879,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 103027,
+        "num": 103027,
+        "word": "你愿意不交社保换更多工资吗",
+        "onboard_time": 1711559774,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#中美关系回不到过去但能够有更好的未来#"
+    }
+  }
+}

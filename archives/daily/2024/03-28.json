@@ -1,6 +1,6 @@
 {
   "startTime": 1711556587484,
-  "endTime": 1711610153684,
+  "endTime": 1711611324110,
   "band_list": [
     {
       "raw_hot": 1804586,
@@ -28,7 +28,7 @@
     },
     {
       "raw_hot": 1247329,
-      "num": 577523,
+      "num": 595266,
       "word": "山西订婚强奸案彩礼纠纷案一审宣判",
       "onboard_time": 1711603940,
       "rank": 36,
@@ -64,6 +64,22 @@
       "word": "你愿意不交社保换更多工资吗",
       "onboard_time": 1711559774,
       "rank": 15,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 985169,
+      "num": 985169,
+      "word": "张元英小草莓",
+      "onboard_time": 1711609218,
+      "rank": 6,
+      "category": "艺人,综艺"
+    },
+    {
+      "raw_hot": 981672,
+      "num": 595426,
+      "word": "孩子随母姓后夫妻陷入博弈",
+      "onboard_time": 1711607116,
+      "rank": 36,
       "category": "社会新闻"
     },
     {
@@ -121,14 +137,6 @@
       "onboard_time": 1711584258,
       "rank": 3,
       "category": "演出"
-    },
-    {
-      "raw_hot": 788275,
-      "num": 547533,
-      "word": "孩子随母姓后夫妻陷入博弈",
-      "onboard_time": 1711607116,
-      "rank": 36,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 775048,
@@ -209,6 +217,14 @@
       "onboard_time": 1711584138,
       "rank": 13,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 652626,
+      "num": 652626,
+      "word": "日本官员称已开始紧急检查功能性标识食品",
+      "onboard_time": 1711609456,
+      "rank": 13,
+      "category": "国外时政"
     },
     {
       "raw_hot": 630550,
@@ -347,14 +363,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 501244,
-      "num": 501244,
-      "word": "张元英小草莓",
-      "onboard_time": 1711609218,
-      "rank": 6,
-      "category": "艺人,综艺"
-    },
-    {
       "raw_hot": 498236,
       "num": 498236,
       "word": "初中学历小伙写1500万字后重启人生",
@@ -425,6 +433,14 @@
       "onboard_time": 1711581436,
       "rank": 7,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 444510,
+      "num": 444510,
+      "word": "月经第一天是最疼的",
+      "onboard_time": 1711609878,
+      "rank": 37,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 439646,
@@ -523,6 +539,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 354279,
+      "num": 354279,
+      "word": "王俊凯金尘茶",
+      "onboard_time": 1711609878,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 339143,
       "num": 260635,
       "word": "知情人士回应腾讯大规模裁员",
@@ -603,20 +627,20 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 312587,
+      "num": 312587,
+      "word": "关晓彤抹胸浪花裙",
+      "onboard_time": 1711609276,
+      "rank": 19,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 309855,
       "num": 309714,
       "word": "猫咪洗澡后被奶奶挂起来晒干",
       "onboard_time": 1711599200,
       "rank": 30,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 309103,
-      "num": 309103,
-      "word": "日本官员称已开始紧急检查功能性标识食品",
-      "onboard_time": 1711609456,
-      "rank": 13,
-      "category": "国外时政"
     },
     {
       "raw_hot": 304373,
@@ -667,12 +691,28 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 290449,
+      "num": 290449,
+      "word": "小米汽车SU7四个配置版本疑似曝光",
+      "onboard_time": 1711609157,
+      "rank": 23,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 289487,
       "num": 289487,
       "word": "王安宇金发背头",
       "onboard_time": 1711608018,
       "rank": 14,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 288186,
+      "num": 288186,
+      "word": "减肥期间不吃主食会怎么样",
+      "onboard_time": 1711608497,
+      "rank": 18,
+      "category": "运动健身"
     },
     {
       "raw_hot": 286324,
@@ -755,14 +795,6 @@
       "category": "动漫,作品衍生"
     },
     {
-      "raw_hot": 255829,
-      "num": 255829,
-      "word": "减肥期间不吃主食会怎么样",
-      "onboard_time": 1711608497,
-      "rank": 18,
-      "category": "运动健身"
-    },
-    {
       "raw_hot": 255222,
       "num": 255222,
       "word": "金晨交叉挂脖裙",
@@ -801,14 +833,6 @@
       "onboard_time": 1711592777,
       "rank": 47,
       "category": "演出"
-    },
-    {
-      "raw_hot": 248565,
-      "num": 248565,
-      "word": "关晓彤抹胸浪花裙",
-      "onboard_time": 1711609276,
-      "rank": 19,
-      "category": "剧集"
     },
     {
       "raw_hot": 247283,
@@ -955,6 +979,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 222181,
+      "num": 222181,
+      "word": "图书馆里考公人和考研人的区别",
+      "onboard_time": 1711609157,
+      "rank": 22,
+      "category": "情感"
+    },
+    {
       "raw_hot": 221803,
       "num": 221803,
       "word": "以闪亮之名",
@@ -1003,20 +1035,12 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 216009,
-      "num": 216009,
-      "word": "图书馆里考公人和考研人的区别",
-      "onboard_time": 1711609157,
-      "rank": 22,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 215848,
-      "num": 215848,
-      "word": "小米汽车SU7四个配置版本疑似曝光",
-      "onboard_time": 1711609157,
-      "rank": 23,
-      "category": "汽车"
+      "raw_hot": 217087,
+      "num": 217087,
+      "word": "李玟姐姐回应AI李玟",
+      "onboard_time": 1711610239,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 214376,
@@ -1113,6 +1137,14 @@
       "onboard_time": 1711583539,
       "rank": 27,
       "category": "美食,社会新闻"
+    },
+    {
+      "raw_hot": 201648,
+      "num": 201648,
+      "word": "射雕",
+      "onboard_time": 1711609878,
+      "rank": 33,
+      "category": "游戏"
     },
     {
       "raw_hot": 201438,
@@ -1403,14 +1435,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 173690,
-      "num": 173690,
-      "word": "射雕",
-      "onboard_time": 1711609878,
-      "rank": 33,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 173656,
       "num": 173656,
       "word": "足协拟公开聘请足球社会监督员",
@@ -1441,14 +1465,6 @@
       "onboard_time": 1711594578,
       "rank": 38,
       "category": "体育"
-    },
-    {
-      "raw_hot": 171725,
-      "num": 171725,
-      "word": "王俊凯金尘茶",
-      "onboard_time": 1711609878,
-      "rank": 34,
-      "category": "艺人"
     },
     {
       "raw_hot": 170696,
@@ -1547,20 +1563,28 @@
       "category": "体育"
     },
     {
-      "raw_hot": 159761,
-      "num": 159761,
-      "word": "月经第一天是最疼的",
-      "onboard_time": 1711609878,
-      "rank": 37,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 159706,
       "num": 159706,
       "word": "春天为什么是减脂黄金期",
       "onboard_time": 1711604779,
       "rank": 32,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 159259,
+      "num": 159259,
+      "word": "孕期饮食或影响胎儿容貌",
+      "onboard_time": 1711609699,
+      "rank": 41,
+      "category": "母婴育儿"
+    },
+    {
+      "raw_hot": 158234,
+      "num": 158234,
+      "word": "陈都灵辛云来贵女妆造",
+      "onboard_time": 1711610718,
+      "rank": 34,
+      "category": "剧集"
     },
     {
       "raw_hot": 157906,
@@ -1643,6 +1667,22 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 136798,
+      "num": 136798,
+      "word": "张多雅不想被贴张元英姐姐标签",
+      "onboard_time": 1711610598,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 136032,
+      "num": 136032,
+      "word": "要多靠近生命力旺盛的人",
+      "onboard_time": 1711610959,
+      "rank": 40,
+      "category": "情感"
+    },
+    {
       "raw_hot": 133961,
       "num": 133961,
       "word": "BABYMONSTER主打曲MV预告",
@@ -1723,14 +1763,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 125469,
-      "num": 125469,
-      "word": "孕期饮食或影响胎儿容貌",
-      "onboard_time": 1711609699,
-      "rank": 41,
-      "category": "母婴育儿"
-    },
-    {
       "raw_hot": 120135,
       "num": 120135,
       "word": "王一博帮黄秘书OS",
@@ -1769,6 +1801,14 @@
       "onboard_time": 1711601961,
       "rank": 29,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 115828,
+      "num": 115828,
+      "word": "仁川赛孙颖莎晋级16强",
+      "onboard_time": 1711610476,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 114299,

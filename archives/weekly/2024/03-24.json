@@ -1,6 +1,6 @@
 {
   "startTime": 1711210803824,
-  "endTime": 1711610153684,
+  "endTime": 1711611324110,
   "band_list": [
     {
       "raw_hot": 3922233,
@@ -636,7 +636,7 @@
     },
     {
       "raw_hot": 1247329,
-      "num": 577523,
+      "num": 595266,
       "word": "山西订婚强奸案彩礼纠纷案一审宣判",
       "onboard_time": 1711603940,
       "rank": 36,
@@ -1011,12 +1011,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 985169,
+      "num": 985169,
+      "word": "张元英小草莓",
+      "onboard_time": 1711609218,
+      "rank": 6,
+      "category": "艺人,综艺"
+    },
+    {
       "raw_hot": 981811,
       "num": 459590,
       "word": "金秀贤公司回应",
       "onboard_time": 1711240218,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 981672,
+      "num": 595426,
+      "word": "孩子随母姓后夫妻陷入博弈",
+      "onboard_time": 1711607116,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 972098,
@@ -1385,14 +1401,6 @@
       "onboard_time": 1711441699,
       "rank": 14,
       "category": "艺人,幽默"
-    },
-    {
-      "raw_hot": 788275,
-      "num": 547533,
-      "word": "孩子随母姓后夫妻陷入博弈",
-      "onboard_time": 1711607116,
-      "rank": 36,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 787458,
@@ -2033,6 +2041,14 @@
       "onboard_time": 1711542738,
       "rank": 30,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 652626,
+      "num": 652626,
+      "word": "日本官员称已开始紧急检查功能性标识食品",
+      "onboard_time": 1711609456,
+      "rank": 13,
+      "category": "国外时政"
     },
     {
       "raw_hot": 652241,
@@ -3027,14 +3043,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 501244,
-      "num": 501244,
-      "word": "张元英小草莓",
-      "onboard_time": 1711609218,
-      "rank": 6,
-      "category": "艺人,综艺"
-    },
-    {
       "raw_hot": 500732,
       "num": 343768,
       "word": "怀孕7个月后仍安排上班12小时合理吗",
@@ -3553,6 +3561,14 @@
       "onboard_time": 1711420277,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 444510,
+      "num": 444510,
+      "word": "月经第一天是最疼的",
+      "onboard_time": 1711609878,
+      "rank": 37,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 444072,
@@ -4427,6 +4443,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 354279,
+      "num": 354279,
+      "word": "王俊凯金尘茶",
+      "onboard_time": 1711609878,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 353896,
       "num": 353896,
       "word": "陶昕然晒孙俪开机照",
@@ -4875,6 +4899,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 312587,
+      "num": 312587,
+      "word": "关晓彤抹胸浪花裙",
+      "onboard_time": 1711609276,
+      "rank": 19,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 312559,
       "num": 312559,
       "word": "王楚然吃面照",
@@ -4921,14 +4953,6 @@
       "onboard_time": 1711599200,
       "rank": 30,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 309103,
-      "num": 309103,
-      "word": "日本官员称已开始紧急检查功能性标识食品",
-      "onboard_time": 1711609456,
-      "rank": 13,
-      "category": "国外时政"
     },
     {
       "raw_hot": 308427,
@@ -5219,6 +5243,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 290449,
+      "num": 290449,
+      "word": "小米汽车SU7四个配置版本疑似曝光",
+      "onboard_time": 1711609157,
+      "rank": 23,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 290229,
       "num": 290229,
       "word": "央视AI版周处除三害",
@@ -5265,6 +5297,14 @@
       "onboard_time": 1711258459,
       "rank": 21,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 288186,
+      "num": 288186,
+      "word": "减肥期间不吃主食会怎么样",
+      "onboard_time": 1711608497,
+      "rank": 18,
+      "category": "运动健身"
     },
     {
       "raw_hot": 288104,
@@ -5859,14 +5899,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 255829,
-      "num": 255829,
-      "word": "减肥期间不吃主食会怎么样",
-      "onboard_time": 1711608497,
-      "rank": 18,
-      "category": "运动健身"
-    },
-    {
       "raw_hot": 255726,
       "num": 255726,
       "word": "Scout说不会韩语",
@@ -6073,14 +6105,6 @@
       "onboard_time": 1711327641,
       "rank": 24,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 248565,
-      "num": 248565,
-      "word": "关晓彤抹胸浪花裙",
-      "onboard_time": 1711609276,
-      "rank": 19,
-      "category": "剧集"
     },
     {
       "raw_hot": 248479,
@@ -6907,6 +6931,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 222181,
+      "num": 222181,
+      "word": "图书馆里考公人和考研人的区别",
+      "onboard_time": 1711609157,
+      "rank": 22,
+      "category": "情感"
+    },
+    {
       "raw_hot": 222116,
       "num": 222116,
       "word": "王珞丹全素颜出镜",
@@ -7099,6 +7131,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 217087,
+      "num": 217087,
+      "word": "李玟姐姐回应AI李玟",
+      "onboard_time": 1711610239,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 217078,
       "num": 217078,
       "word": "李旻浩开通个人ins",
@@ -7113,22 +7153,6 @@
       "onboard_time": 1711546040,
       "rank": 24,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 216009,
-      "num": 216009,
-      "word": "图书馆里考公人和考研人的区别",
-      "onboard_time": 1711609157,
-      "rank": 22,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 215848,
-      "num": 215848,
-      "word": "小米汽车SU7四个配置版本疑似曝光",
-      "onboard_time": 1711609157,
-      "rank": 23,
-      "category": "汽车"
     },
     {
       "raw_hot": 215508,
@@ -7665,6 +7689,14 @@
       "onboard_time": 1711583539,
       "rank": 27,
       "category": "美食,社会新闻"
+    },
+    {
+      "raw_hot": 201648,
+      "num": 201648,
+      "word": "射雕",
+      "onboard_time": 1711609878,
+      "rank": 33,
+      "category": "游戏"
     },
     {
       "raw_hot": 201438,
@@ -9187,14 +9219,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 173690,
-      "num": 173690,
-      "word": "射雕",
-      "onboard_time": 1711609878,
-      "rank": 33,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 173656,
       "num": 173656,
       "word": "ILLIT电台live",
@@ -9329,14 +9353,6 @@
       "onboard_time": 1711520958,
       "rank": 26,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 171725,
-      "num": 171725,
-      "word": "王俊凯金尘茶",
-      "onboard_time": 1711609878,
-      "rank": 34,
-      "category": "艺人"
     },
     {
       "raw_hot": 171159,
@@ -10107,14 +10123,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 159761,
-      "num": 159761,
-      "word": "月经第一天是最疼的",
-      "onboard_time": 1711609878,
-      "rank": 37,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 159706,
       "num": 159706,
       "word": "春天为什么是减脂黄金期",
@@ -10137,6 +10145,14 @@
       "onboard_time": 1711354038,
       "rank": 37,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 159259,
+      "num": 159259,
+      "word": "孕期饮食或影响胎儿容貌",
+      "onboard_time": 1711609699,
+      "rank": 41,
+      "category": "母婴育儿"
     },
     {
       "raw_hot": 159245,
@@ -10177,6 +10193,14 @@
       "onboard_time": 1711531638,
       "rank": 31,
       "category": "演出"
+    },
+    {
+      "raw_hot": 158234,
+      "num": 158234,
+      "word": "陈都灵辛云来贵女妆造",
+      "onboard_time": 1711610718,
+      "rank": 34,
+      "category": "剧集"
     },
     {
       "raw_hot": 158011,
@@ -11491,6 +11515,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 136798,
+      "num": 136798,
+      "word": "张多雅不想被贴张元英姐姐标签",
+      "onboard_time": 1711610598,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 136393,
       "num": 136393,
       "word": "Doinb已停播四个月",
@@ -11521,6 +11553,14 @@
       "onboard_time": 1711285158,
       "rank": 45,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 136032,
+      "num": 136032,
+      "word": "要多靠近生命力旺盛的人",
+      "onboard_time": 1711610959,
+      "rank": 40,
+      "category": "情感"
     },
     {
       "raw_hot": 135902,
@@ -12027,14 +12067,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 125469,
-      "num": 125469,
-      "word": "孕期饮食或影响胎儿容貌",
-      "onboard_time": 1711609699,
-      "rank": 41,
-      "category": "母婴育儿"
-    },
-    {
       "raw_hot": 125355,
       "num": 125355,
       "word": "今天的她们定档预告",
@@ -12377,6 +12409,14 @@
       "onboard_time": 1711439358,
       "rank": 46,
       "category": "电影"
+    },
+    {
+      "raw_hot": 115828,
+      "num": 115828,
+      "word": "仁川赛孙颖莎晋级16强",
+      "onboard_time": 1711610476,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 115662,
