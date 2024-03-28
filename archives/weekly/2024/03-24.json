@@ -1,6 +1,6 @@
 {
   "startTime": 1711210803824,
-  "endTime": 1711631963147,
+  "endTime": 1711632846270,
   "band_list": [
     {
       "raw_hot": 21250232,
@@ -9,6 +9,14 @@
       "onboard_time": 1711627097,
       "rank": 0,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 7917148,
+      "num": 7917148,
+      "word": "雷军 雷神",
+      "onboard_time": 1711631302,
+      "rank": 4,
+      "category": "互联网"
     },
     {
       "raw_hot": 5288727,
@@ -57,14 +65,6 @@
       "onboard_time": 1711246398,
       "rank": 0,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 3174247,
-      "num": 3174247,
-      "word": "雷军 雷神",
-      "onboard_time": 1711631302,
-      "rank": 4,
-      "category": "互联网"
     },
     {
       "raw_hot": 3117943,
@@ -171,8 +171,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 2225596,
-      "num": 2225596,
+      "raw_hot": 2256142,
+      "num": 2256142,
       "word": "李铁当庭认罪悔罪",
       "onboard_time": 1711630943,
       "rank": 6,
@@ -3500,7 +3500,7 @@
     },
     {
       "raw_hot": 475254,
-      "num": 236103,
+      "num": 247171,
       "word": "负债4万考公上岸值得吗",
       "onboard_time": 1711616838,
       "rank": 20,
@@ -3633,6 +3633,14 @@
       "onboard_time": 1711583597,
       "rank": 9,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 463978,
+      "num": 463978,
+      "word": "特斯拉",
+      "onboard_time": 1711632322,
+      "rank": 16,
+      "category": "汽车"
     },
     {
       "raw_hot": 463889,
@@ -3996,7 +4004,7 @@
     },
     {
       "raw_hot": 426038,
-      "num": 426038,
+      "num": 442728,
       "word": "李铁被控非法收受5089万余元",
       "onboard_time": 1711631124,
       "rank": 19,
@@ -4499,6 +4507,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 380513,
+      "num": 380513,
+      "word": "极氪001",
+      "onboard_time": 1711632201,
+      "rank": 22,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 379206,
       "num": 379206,
       "word": "papi酱 别人度假vs我度假",
@@ -4705,6 +4721,14 @@
       "onboard_time": 1711410858,
       "rank": 15,
       "category": "体育"
+    },
+    {
+      "raw_hot": 357361,
+      "num": 357361,
+      "word": "王一博的脸比杯子都小",
+      "onboard_time": 1711632262,
+      "rank": 24,
+      "category": "剧集"
     },
     {
       "raw_hot": 357295,
@@ -5579,6 +5603,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 293883,
+      "num": 293883,
+      "word": "何小鹏",
+      "onboard_time": 1711632441,
+      "rank": 32,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 293537,
       "num": 293537,
       "word": "与凤行 送子婚姻",
@@ -5843,6 +5875,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 281520,
+      "num": 281520,
+      "word": "代号鸢",
+      "onboard_time": 1711458378,
+      "rank": 41,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 280560,
       "num": 280560,
       "word": "三十九二十八开机",
@@ -5929,6 +5969,14 @@
       "onboard_time": 1711546459,
       "rank": 17,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 275516,
+      "num": 275516,
+      "word": "比亚迪",
+      "onboard_time": 1711632562,
+      "rank": 36,
+      "category": "汽车"
     },
     {
       "raw_hot": 275474,
@@ -6689,6 +6737,14 @@
       "onboard_time": 1711322176,
       "rank": 30,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 244391,
+      "num": 244391,
+      "word": "小米友商",
+      "onboard_time": 1711631964,
+      "rank": 42,
+      "category": "汽车"
     },
     {
       "raw_hot": 243946,
@@ -7523,6 +7579,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 219455,
+      "num": 219455,
+      "word": "蔚来",
+      "onboard_time": 1711632741,
+      "rank": 43,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 219402,
       "num": 1509019,
       "word": "春天的浪漫是花花给的",
@@ -7588,7 +7652,7 @@
     },
     {
       "raw_hot": 218674,
-      "num": 301117,
+      "num": 439669,
       "word": "陈梦采访",
       "onboard_time": 1711630462,
       "rank": 27,
@@ -7828,7 +7892,7 @@
     },
     {
       "raw_hot": 210820,
-      "num": 300918,
+      "num": 316441,
       "word": "女子遭丈夫家暴后死亡",
       "onboard_time": 1711621219,
       "rank": 33,
@@ -8627,6 +8691,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 196874,
+      "num": 196874,
+      "word": "小米车模",
+      "onboard_time": 1711632802,
+      "rank": 46,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 196737,
       "num": 196737,
       "word": "林俊杰开大G",
@@ -8793,6 +8865,14 @@
       "onboard_time": 1711289421,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 194024,
+      "num": 194024,
+      "word": "雷军称小米SU7标准版不是丐版",
+      "onboard_time": 1711632562,
+      "rank": 47,
+      "category": "汽车"
     },
     {
       "raw_hot": 193917,
@@ -10977,14 +11057,6 @@
       "onboard_time": 1711610718,
       "rank": 34,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 158011,
-      "num": 158011,
-      "word": "代号鸢",
-      "onboard_time": 1711458378,
-      "rank": 41,
-      "category": "游戏"
     },
     {
       "raw_hot": 158009,
@@ -13796,7 +13868,7 @@
     },
     {
       "raw_hot": 100282,
-      "num": 168470,
+      "num": 191500,
       "word": "媒体人称李铁大概率被判10年以上",
       "onboard_time": 1711627640,
       "rank": 49,
@@ -13985,6 +14057,14 @@
       "onboard_time": 1711300816,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 77759,
+      "num": 4693738,
+      "word": "万千气象看云南",
+      "onboard_time": 1711630582,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 77489,
@@ -14297,14 +14377,6 @@
       "onboard_time": 1711509318,
       "rank": 46,
       "category": "数码"
-    },
-    {
-      "raw_hot": 55855,
-      "num": 4107482,
-      "word": "万千气象看云南",
-      "onboard_time": 1711630582,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 52825,
