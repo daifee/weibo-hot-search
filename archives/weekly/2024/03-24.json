@@ -1,6 +1,6 @@
 {
   "startTime": 1711210803824,
-  "endTime": 1711617488120,
+  "endTime": 1711618533221,
   "band_list": [
     {
       "raw_hot": 3922233,
@@ -147,6 +147,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2087863,
+      "num": 2087863,
+      "word": "浪姐5 退赛",
+      "onboard_time": 1711615999,
+      "rank": 0,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 2081066,
       "num": 2081066,
       "word": "经期真正需要忌口的食物",
@@ -185,14 +193,6 @@
       "onboard_time": 1711518980,
       "rank": 1,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 2001401,
-      "num": 2001401,
-      "word": "浪姐5 退赛",
-      "onboard_time": 1711615999,
-      "rank": 0,
-      "category": "综艺"
     },
     {
       "raw_hot": 1979849,
@@ -923,6 +923,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1036761,
+      "num": 1036761,
+      "word": "甘露寺回应招人",
+      "onboard_time": 1711615338,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1033159,
       "num": 1033159,
       "word": "张艺兴女团成员正面照",
@@ -945,6 +953,14 @@
       "onboard_time": 1711261399,
       "rank": 27,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1027203,
+      "num": 1027203,
+      "word": "港媒辣评赵露思造型",
+      "onboard_time": 1711615698,
+      "rank": 3,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 1027137,
@@ -985,14 +1001,6 @@
       "onboard_time": 1711253479,
       "rank": 5,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 1004517,
-      "num": 1004517,
-      "word": "甘露寺回应招人",
-      "onboard_time": 1711615338,
-      "rank": 1,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1004002,
@@ -1113,14 +1121,6 @@
       "onboard_time": 1711548139,
       "rank": 33,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 926915,
-      "num": 926915,
-      "word": "港媒辣评赵露思造型",
-      "onboard_time": 1711615698,
-      "rank": 3,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 917921,
@@ -1393,6 +1393,14 @@
       "onboard_time": 1711322596,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 799076,
+      "num": 799076,
+      "word": "父母瞒了我16年我不是他们亲生女儿",
+      "onboard_time": 1711616357,
+      "rank": 4,
+      "category": "情感"
     },
     {
       "raw_hot": 797064,
@@ -1737,14 +1745,6 @@
       "onboard_time": 1711206800,
       "rank": 3,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 724587,
-      "num": 724587,
-      "word": "父母瞒了我16年我不是他们亲生女儿",
-      "onboard_time": 1711616357,
-      "rank": 4,
-      "category": "情感"
     },
     {
       "raw_hot": 716625,
@@ -2121,6 +2121,14 @@
       "onboard_time": 1711267699,
       "rank": 32,
       "category": "情感"
+    },
+    {
+      "raw_hot": 646361,
+      "num": 646361,
+      "word": "白敬亭金晨给丁勇岱让C位",
+      "onboard_time": 1711616538,
+      "rank": 8,
+      "category": "剧集"
     },
     {
       "raw_hot": 643477,
@@ -2819,6 +2827,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 529768,
+      "num": 529768,
+      "word": "刘耀文被北电国际班录取",
+      "onboard_time": 1711617739,
+      "rank": 7,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 528167,
       "num": 336927,
       "word": "星期一已经崩溃一万次了",
@@ -2969,14 +2985,6 @@
       "onboard_time": 1711570150,
       "rank": 30,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 510864,
-      "num": 510864,
-      "word": "白敬亭金晨给丁勇岱让C位",
-      "onboard_time": 1711616538,
-      "rank": 8,
-      "category": "剧集"
     },
     {
       "raw_hot": 509945,
@@ -3313,6 +3321,14 @@
       "onboard_time": 1711368439,
       "rank": 20,
       "category": "情感"
+    },
+    {
+      "raw_hot": 475254,
+      "num": 214375,
+      "word": "负债4万考公上岸值得吗",
+      "onboard_time": 1711616838,
+      "rank": 20,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 474900,
@@ -5003,6 +5019,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 311685,
+      "num": 311685,
+      "word": "胡歌高圆圆新片入围北影节主竞赛",
+      "onboard_time": 1711616058,
+      "rank": 16,
+      "category": "电影"
+    },
+    {
       "raw_hot": 311513,
       "num": 289170,
       "word": "原来是先决定结婚才求婚的",
@@ -5017,6 +5041,14 @@
       "onboard_time": 1711522159,
       "rank": 9,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 310599,
+      "num": 310599,
+      "word": "小米发布会",
+      "onboard_time": 1711615939,
+      "rank": 18,
+      "category": "数码"
     },
     {
       "raw_hot": 309855,
@@ -5563,14 +5595,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 278161,
-      "num": 212728,
-      "word": "负债4万考公上岸值得吗",
-      "onboard_time": 1711616838,
-      "rank": 20,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 277549,
       "num": 207321,
       "word": "有的树一出生就是陈皮",
@@ -6083,14 +6107,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 252527,
-      "num": 252527,
-      "word": "胡歌高圆圆新片入围北影节主竞赛",
-      "onboard_time": 1711616058,
-      "rank": 16,
-      "category": "电影"
-    },
-    {
       "raw_hot": 252039,
       "num": 252039,
       "word": "何悯鸿向四美道歉",
@@ -6387,6 +6403,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 240616,
+      "num": 240616,
+      "word": "李一桐要和我结婚吗",
+      "onboard_time": 1711617739,
+      "rank": 16,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 240542,
       "num": 240542,
       "word": "TES战胜NIP",
@@ -6633,14 +6657,6 @@
       "onboard_time": 1711366997,
       "rank": 32,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 233492,
-      "num": 233492,
-      "word": "小米发布会",
-      "onboard_time": 1711615939,
-      "rank": 18,
-      "category": "数码"
     },
     {
       "raw_hot": 233123,
@@ -6929,6 +6945,14 @@
       "onboard_time": 1711330638,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 226489,
+      "num": 226489,
+      "word": "沈月把自己P在了花上",
+      "onboard_time": 1711617798,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 226328,
@@ -8025,6 +8049,14 @@
       "onboard_time": 1711609579,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 198738,
+      "num": 198738,
+      "word": "浪姐5",
+      "onboard_time": 1711618098,
+      "rank": 22,
+      "category": "综艺"
     },
     {
       "raw_hot": 198532,
@@ -9307,6 +9339,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 176405,
+      "num": 145520,
+      "word": "终于知道年轻人为什么喜欢养宠物了",
+      "onboard_time": 1711617981,
+      "rank": 30,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 176390,
       "num": 176390,
       "word": "仙剑奇侠传 经典花絮",
@@ -10579,6 +10619,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 155103,
+      "num": 145506,
+      "word": "兰州人吃不上半熟芝士",
+      "onboard_time": 1711617259,
+      "rank": 42,
+      "category": "美食"
+    },
+    {
       "raw_hot": 155095,
       "num": 155095,
       "word": "温以凡的人物底色",
@@ -11139,6 +11187,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 146669,
+      "num": 146669,
+      "word": "看成王一博了",
+      "onboard_time": 1711618219,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 146643,
       "num": 146643,
       "word": "ILLIT空降成绩",
@@ -11241,6 +11297,14 @@
       "onboard_time": 1711287199,
       "rank": 46,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 145488,
+      "num": 145488,
+      "word": "雷军称给了自己很大压力",
+      "onboard_time": 1711617798,
+      "rank": 32,
+      "category": "互联网"
     },
     {
       "raw_hot": 145338,
@@ -12627,14 +12691,6 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 117096,
-      "num": 117096,
-      "word": "兰州人吃不上半熟芝士",
-      "onboard_time": 1711617259,
-      "rank": 42,
-      "category": "美食"
-    },
-    {
       "raw_hot": 116965,
       "num": 116965,
       "word": "花间令终于亲了",
@@ -12753,6 +12809,14 @@
       "onboard_time": 1711532599,
       "rank": 46,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 112806,
+      "num": 112806,
+      "word": "我们到底在怀念2018年的什么",
+      "onboard_time": 1711618397,
+      "rank": 43,
+      "category": "情感"
     },
     {
       "raw_hot": 112779,
@@ -13643,6 +13707,22 @@
       "category": "数码"
     },
     {
+      "raw_hot": 48857,
+      "num": 143768,
+      "word": "帕梅拉代言喜茶的理由找到了",
+      "onboard_time": 1711618219,
+      "rank": 33,
+      "category": "运动健身"
+    },
+    {
+      "raw_hot": 48833,
+      "num": 1028608,
+      "word": "博鳌亚洲论坛会场AI元素满满",
+      "onboard_time": 1711615878,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 47584,
       "num": 47584,
       "word": "迪丽热巴宣传中国广电",
@@ -13689,14 +13769,6 @@
       "onboard_time": 1711400890,
       "rank": 39,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 43237,
-      "num": 934753,
-      "word": "博鳌亚洲论坛会场AI元素满满",
-      "onboard_time": 1711615878,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 43006,
@@ -14147,6 +14219,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 14131,
+      "num": 120918,
+      "word": "济南美丽经济占全球百分之四十",
+      "onboard_time": 1711617499,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 14088,
       "num": 14088,
       "word": "1987年版本的语文教材",
@@ -14232,6 +14312,9 @@
     },
     {
       "word": "#中美关系事关人类前途命运#"
+    },
+    {
+      "word": "#习近平主席向美方人士详解中国发展#"
     }
   ]
 }

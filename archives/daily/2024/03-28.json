@@ -1,10 +1,10 @@
 {
   "startTime": 1711556587484,
-  "endTime": 1711617488120,
+  "endTime": 1711618533221,
   "band_list": [
     {
-      "raw_hot": 2001401,
-      "num": 2001401,
+      "raw_hot": 2087863,
+      "num": 2087863,
       "word": "浪姐5 退赛",
       "onboard_time": 1711615999,
       "rank": 0,
@@ -67,12 +67,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 1004517,
-      "num": 1004517,
+      "raw_hot": 1036761,
+      "num": 1036761,
       "word": "甘露寺回应招人",
       "onboard_time": 1711615338,
       "rank": 1,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1027203,
+      "num": 1027203,
+      "word": "港媒辣评赵露思造型",
+      "onboard_time": 1711615698,
+      "rank": 3,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 990309,
@@ -97,14 +105,6 @@
       "onboard_time": 1711607116,
       "rank": 36,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 926915,
-      "num": 926915,
-      "word": "港媒辣评赵露思造型",
-      "onboard_time": 1711615698,
-      "rank": 3,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 903464,
@@ -155,6 +155,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 799076,
+      "num": 799076,
+      "word": "父母瞒了我16年我不是他们亲生女儿",
+      "onboard_time": 1711616357,
+      "rank": 4,
+      "category": "情感"
+    },
+    {
       "raw_hot": 794591,
       "num": 794591,
       "word": "Justin Bieber喝醉状况下演唱Stay",
@@ -193,14 +201,6 @@
       "onboard_time": 1711599200,
       "rank": 23,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 724587,
-      "num": 724587,
-      "word": "父母瞒了我16年我不是他们亲生女儿",
-      "onboard_time": 1711616357,
-      "rank": 4,
-      "category": "情感"
     },
     {
       "raw_hot": 716625,
@@ -257,6 +257,14 @@
       "onboard_time": 1711609456,
       "rank": 13,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 646361,
+      "num": 646361,
+      "word": "白敬亭金晨给丁勇岱让C位",
+      "onboard_time": 1711616538,
+      "rank": 8,
+      "category": "剧集"
     },
     {
       "raw_hot": 630550,
@@ -363,6 +371,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 529768,
+      "num": 529768,
+      "word": "刘耀文被北电国际班录取",
+      "onboard_time": 1711617739,
+      "rank": 7,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 520124,
       "num": 520124,
       "word": "男子专升本考试语种错选成俄语",
@@ -377,14 +393,6 @@
       "onboard_time": 1711570150,
       "rank": 30,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 510864,
-      "num": 510864,
-      "word": "白敬亭金晨给丁勇岱让C位",
-      "onboard_time": 1711616538,
-      "rank": 8,
-      "category": "剧集"
     },
     {
       "raw_hot": 509777,
@@ -441,6 +449,14 @@
       "onboard_time": 1711603998,
       "rank": 46,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 475254,
+      "num": 214375,
+      "word": "负债4万考公上岸值得吗",
+      "onboard_time": 1711616838,
+      "rank": 20,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 473456,
@@ -707,6 +723,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 311685,
+      "num": 311685,
+      "word": "胡歌高圆圆新片入围北影节主竞赛",
+      "onboard_time": 1711616058,
+      "rank": 16,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 310599,
+      "num": 310599,
+      "word": "小米发布会",
+      "onboard_time": 1711615939,
+      "rank": 18,
+      "category": "数码"
+    },
+    {
       "raw_hot": 309855,
       "num": 309714,
       "word": "猫咪洗澡后被奶奶挂起来晒干",
@@ -819,14 +851,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 278161,
-      "num": 212728,
-      "word": "负债4万考公上岸值得吗",
-      "onboard_time": 1711616838,
-      "rank": 20,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 273934,
       "num": 273934,
       "word": "魏大勋说不清了",
@@ -907,14 +931,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 252527,
-      "num": 252527,
-      "word": "胡歌高圆圆新片入围北影节主竞赛",
-      "onboard_time": 1711616058,
-      "rank": 16,
-      "category": "电影"
-    },
-    {
       "raw_hot": 252039,
       "num": 252039,
       "word": "何悯鸿向四美道歉",
@@ -971,6 +987,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 240616,
+      "num": 240616,
+      "word": "李一桐要和我结婚吗",
+      "onboard_time": 1711617739,
+      "rank": 16,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 238584,
       "num": 238584,
       "word": "赵雷佛山",
@@ -1009,14 +1033,6 @@
       "onboard_time": 1711599800,
       "rank": 30,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 233492,
-      "num": 233492,
-      "word": "小米发布会",
-      "onboard_time": 1711615939,
-      "rank": 18,
-      "category": "数码"
     },
     {
       "raw_hot": 233123,
@@ -1073,6 +1089,14 @@
       "onboard_time": 1711599800,
       "rank": 34,
       "category": "情感"
+    },
+    {
+      "raw_hot": 226489,
+      "num": 226489,
+      "word": "沈月把自己P在了花上",
+      "onboard_time": 1711617798,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 225523,
@@ -1313,6 +1337,14 @@
       "onboard_time": 1711609579,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 198738,
+      "num": 198738,
+      "word": "浪姐5",
+      "onboard_time": 1711618098,
+      "rank": 22,
+      "category": "综艺"
     },
     {
       "raw_hot": 197300,
@@ -1563,6 +1595,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 176405,
+      "num": 145520,
+      "word": "终于知道年轻人为什么喜欢养宠物了",
+      "onboard_time": 1711617981,
+      "rank": 30,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 176372,
       "num": 176372,
       "word": "动画电影小倩定档五一",
@@ -1803,6 +1843,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 155103,
+      "num": 145506,
+      "word": "兰州人吃不上半熟芝士",
+      "onboard_time": 1711617259,
+      "rank": 42,
+      "category": "美食"
+    },
+    {
       "raw_hot": 154328,
       "num": 154328,
       "word": "王者荣耀维护",
@@ -1875,12 +1923,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 146669,
+      "num": 146669,
+      "word": "看成王一博了",
+      "onboard_time": 1711618219,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 146384,
       "num": 146384,
       "word": "王一博看拜师眼眶红了",
       "onboard_time": 1711614258,
       "rank": 32,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 145488,
+      "num": 145488,
+      "word": "雷军称给了自己很大压力",
+      "onboard_time": 1711617798,
+      "rank": 32,
+      "category": "互联网"
     },
     {
       "raw_hot": 142054,
@@ -2075,14 +2139,6 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 117096,
-      "num": 117096,
-      "word": "兰州人吃不上半熟芝士",
-      "onboard_time": 1711617259,
-      "rank": 42,
-      "category": "美食"
-    },
-    {
       "raw_hot": 115828,
       "num": 115828,
       "word": "仁川赛孙颖莎晋级16强",
@@ -2113,6 +2169,14 @@
       "onboard_time": 1711583417,
       "rank": 48,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 112806,
+      "num": 112806,
+      "word": "我们到底在怀念2018年的什么",
+      "onboard_time": 1711618397,
+      "rank": 43,
+      "category": "情感"
     },
     {
       "raw_hot": 112634,
@@ -2419,6 +2483,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 48857,
+      "num": 143768,
+      "word": "帕梅拉代言喜茶的理由找到了",
+      "onboard_time": 1711618219,
+      "rank": 33,
+      "category": "运动健身"
+    },
+    {
+      "raw_hot": 48833,
+      "num": 1028608,
+      "word": "博鳌亚洲论坛会场AI元素满满",
+      "onboard_time": 1711615878,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 46068,
       "num": 46068,
       "word": "星穹铁道砂金",
@@ -2432,14 +2512,6 @@
       "word": "南通禁止制造销售封建迷信殡葬用品",
       "onboard_time": 1711557915,
       "rank": 39,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 43237,
-      "num": 934753,
-      "word": "博鳌亚洲论坛会场AI元素满满",
-      "onboard_time": 1711615878,
-      "rank": 2,
       "category": "社会新闻"
     },
     {
@@ -2507,6 +2579,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 14131,
+      "num": 120918,
+      "word": "济南美丽经济占全球百分之四十",
+      "onboard_time": 1711617499,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 14088,
       "num": 14088,
       "word": "1987年版本的语文教材",
@@ -2538,6 +2618,9 @@
     },
     {
       "word": "#中美关系事关人类前途命运#"
+    },
+    {
+      "word": "#习近平主席向美方人士详解中国发展#"
     }
   ]
 }

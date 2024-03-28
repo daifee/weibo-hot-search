@@ -1,0 +1,410 @@
+{
+  "runTime": 1711618533221,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2087863,
+        "num": 2087863,
+        "word": "浪姐5 退赛",
+        "onboard_time": 1711615999,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1036761,
+        "num": 1036761,
+        "word": "甘露寺回应招人",
+        "onboard_time": 1711615338,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 48833,
+        "num": 1028608,
+        "word": "博鳌亚洲论坛会场AI元素满满",
+        "onboard_time": 1711615878,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1027203,
+        "num": 1027203,
+        "word": "港媒辣评赵露思造型",
+        "onboard_time": 1711615698,
+        "rank": 3,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 799076,
+        "num": 799076,
+        "word": "父母瞒了我16年我不是他们亲生女儿",
+        "onboard_time": 1711616357,
+        "rank": 4,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 646361,
+        "num": 646361,
+        "word": "白敬亭金晨给丁勇岱让C位",
+        "onboard_time": 1711616538,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 604589,
+        "num": 604589,
+        "word": "山西订婚强奸案彩礼纠纷案一审宣判",
+        "onboard_time": 1711603940,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 529768,
+        "num": 529768,
+        "word": "刘耀文被北电国际班录取",
+        "onboard_time": 1711617739,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 438290,
+        "num": 438290,
+        "word": "张元英小草莓",
+        "onboard_time": 1711609218,
+        "rank": 8,
+        "category": "演出,美妆"
+      },
+      {
+        "raw_hot": 358259,
+        "num": 358259,
+        "word": "孩子随母姓后夫妻陷入博弈",
+        "onboard_time": 1711607116,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 311685,
+        "num": 311685,
+        "word": "胡歌高圆圆新片入围北影节主竞赛",
+        "onboard_time": 1711616058,
+        "rank": 10,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 310599,
+        "num": 310599,
+        "word": "小米发布会",
+        "onboard_time": 1711615939,
+        "rank": 11,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 299750,
+        "num": 299750,
+        "word": "饼子不隔夜卖不干净送干净",
+        "onboard_time": 1711612518,
+        "rank": 12,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 260975,
+        "num": 260975,
+        "word": "抑郁症对大脑的损害是永久性的吗",
+        "onboard_time": 1711613898,
+        "rank": 13,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 253215,
+        "num": 253215,
+        "word": "苏诗丁 我参加过离婚综艺你们有么",
+        "onboard_time": 1711614497,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 243725,
+        "num": 243725,
+        "word": "小米汽车SU7四个配置版本疑似曝光",
+        "onboard_time": 1711609157,
+        "rank": 15,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 240616,
+        "num": 240616,
+        "word": "李一桐要和我结婚吗",
+        "onboard_time": 1711617739,
+        "rank": 16,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 226489,
+        "num": 226489,
+        "word": "沈月把自己P在了花上",
+        "onboard_time": 1711617798,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 226032,
+        "num": 226032,
+        "word": "月经第一天是最疼的",
+        "onboard_time": 1711609878,
+        "rank": 18,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 219784,
+        "num": 219784,
+        "word": "日本官员称已开始紧急检查功能性标识食品",
+        "onboard_time": 1711609456,
+        "rank": 19,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 475254,
+        "num": 214375,
+        "word": "负债4万考公上岸值得吗",
+        "onboard_time": 1711616838,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 205375,
+        "num": 205375,
+        "word": "花间令只有哥哥还记得上官芷",
+        "onboard_time": 1711614618,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 198738,
+        "num": 198738,
+        "word": "浪姐5",
+        "onboard_time": 1711618098,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 177172,
+        "num": 177172,
+        "word": "电视剧品质盛典",
+        "onboard_time": 1711615099,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 171283,
+        "num": 171283,
+        "word": "减肥期间不吃主食会怎么样",
+        "onboard_time": 1711608497,
+        "rank": 24,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 155356,
+        "num": 155356,
+        "word": "李铁案时间线梳理",
+        "onboard_time": 1711599919,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 151385,
+        "num": 151385,
+        "word": "李铁曾放话只有自己最了解国足",
+        "onboard_time": 1711616298,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 146669,
+        "num": 146669,
+        "word": "看成王一博了",
+        "onboard_time": 1711618219,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 146131,
+        "num": 146131,
+        "word": "赵丽颖的脸比小朋友还小",
+        "onboard_time": 1711596919,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 122860,
+        "num": 145551,
+        "word": "陈戌源曾劝李铁退还4800万遭拒绝",
+        "onboard_time": 1711593137,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 176405,
+        "num": 145520,
+        "word": "终于知道年轻人为什么喜欢养宠物了",
+        "onboard_time": 1711617981,
+        "rank": 30,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 155103,
+        "num": 145506,
+        "word": "兰州人吃不上半熟芝士",
+        "onboard_time": 1711617259,
+        "rank": 31,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 145488,
+        "num": 145488,
+        "word": "雷军称给了自己很大压力",
+        "onboard_time": 1711617798,
+        "rank": 32,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 48857,
+        "num": 143768,
+        "word": "帕梅拉代言喜茶的理由找到了",
+        "onboard_time": 1711618219,
+        "rank": 33,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 143402,
+        "num": 143402,
+        "word": "杨幂微博之夜穿孤独症儿童送的裙子",
+        "onboard_time": 1711615758,
+        "rank": 34,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 130253,
+        "num": 130253,
+        "word": "过期的防晒霜千万不要用",
+        "onboard_time": 1711616298,
+        "rank": 35,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 129079,
+        "num": 129079,
+        "word": "关晓彤抹胸浪花裙",
+        "onboard_time": 1711609276,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 127736,
+        "num": 127736,
+        "word": "米卢曾赞李铁是上帝赐给中国足球的礼物",
+        "onboard_time": 1711614738,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 126055,
+        "num": 126055,
+        "word": "李铁",
+        "onboard_time": 1711593557,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 14131,
+        "num": 120918,
+        "word": "济南美丽经济占全球百分之四十",
+        "onboard_time": 1711617499,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 119507,
+        "num": 119507,
+        "word": "王一博看拜师眼眶红了",
+        "onboard_time": 1711614258,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 118164,
+        "num": 118164,
+        "word": "招人的甘露寺不是嬛嬛那所",
+        "onboard_time": 1711616119,
+        "rank": 41,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 117376,
+        "num": 117376,
+        "word": "朱一龙担任北影节天坛奖评委",
+        "onboard_time": 1711614798,
+        "rank": 42,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 112806,
+        "num": 112806,
+        "word": "我们到底在怀念2018年的什么",
+        "onboard_time": 1711618397,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 102343,
+        "num": 102343,
+        "word": "原来女生爱旅游在相亲届扣大分",
+        "onboard_time": 1711612398,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 100259,
+        "num": 100259,
+        "word": "孕期饮食或影响胎儿容貌",
+        "onboard_time": 1711609699,
+        "rank": 45,
+        "category": "母婴育儿"
+      },
+      {
+        "raw_hot": 99857,
+        "num": 99857,
+        "word": "图书馆里考公人和考研人的区别",
+        "onboard_time": 1711609157,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 98898,
+        "num": 98898,
+        "word": "假白的防晒有多社死",
+        "onboard_time": 1711613418,
+        "rank": 47,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 95056,
+        "num": 95056,
+        "word": "孙颖莎赛后采访",
+        "onboard_time": 1711614378,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 87834,
+        "num": 87834,
+        "word": "一定要做热爱且擅长的工作",
+        "onboard_time": 1711614977,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平主席向美方人士详解中国发展#"
+    }
+  }
+}
