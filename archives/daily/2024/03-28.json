@@ -1,6 +1,6 @@
 {
   "startTime": 1711556587484,
-  "endTime": 1711606937085,
+  "endTime": 1711607668906,
   "band_list": [
     {
       "raw_hot": 1804586,
@@ -28,7 +28,7 @@
     },
     {
       "raw_hot": 1247329,
-      "num": 463840,
+      "num": 577523,
       "word": "山西订婚强奸案彩礼纠纷案一审宣判",
       "onboard_time": 1711603940,
       "rank": 36,
@@ -147,6 +147,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 727959,
+      "num": 727959,
+      "word": "张艺兴富养女团穷养男团",
+      "onboard_time": 1711605139,
+      "rank": 0,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 716625,
       "num": 716625,
       "word": "考研未上岸者就业质量不及同期毕业生",
@@ -195,14 +203,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 626163,
-      "num": 626163,
-      "word": "张艺兴富养女团穷养男团",
-      "onboard_time": 1711605139,
-      "rank": 0,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 622249,
       "num": 622249,
       "word": "张艺兴个人简历",
@@ -225,6 +225,14 @@
       "onboard_time": 1711594517,
       "rank": 22,
       "category": "情感"
+    },
+    {
+      "raw_hot": 612834,
+      "num": 612834,
+      "word": "百日咳再现",
+      "onboard_time": 1711604419,
+      "rank": 6,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 606326,
@@ -275,6 +283,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 555738,
+      "num": 555738,
+      "word": "雷军称终于到了交作业的时候",
+      "onboard_time": 1711603400,
+      "rank": 26,
+      "category": "汽车"
+    },
+    {
+      "raw_hot": 549849,
+      "num": 549849,
+      "word": "北京师范大学教授 发传单授课",
+      "onboard_time": 1711605800,
+      "rank": 12,
+      "category": "教育"
+    },
+    {
       "raw_hot": 520124,
       "num": 520124,
       "word": "男子专升本考试语种错选成俄语",
@@ -307,14 +331,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 506699,
-      "num": 359866,
-      "word": "雷军称终于到了交作业的时候",
-      "onboard_time": 1711603400,
-      "rank": 26,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 506217,
       "num": 506217,
       "word": "王嘉尔普吉岛",
@@ -337,6 +353,14 @@
       "onboard_time": 1711542680,
       "rank": 4,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 477178,
+      "num": 477178,
+      "word": "B站回应北师大教授发传单推荐免费课",
+      "onboard_time": 1711603998,
+      "rank": 46,
+      "category": "互联网"
     },
     {
       "raw_hot": 473456,
@@ -379,28 +403,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 443676,
-      "num": 443676,
-      "word": "B站回应北师大教授发传单推荐免费课",
-      "onboard_time": 1711603998,
-      "rank": 46,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 439646,
       "num": 439646,
       "word": "金宝贝突然停业几天前还怂恿家长充值",
       "onboard_time": 1711572309,
       "rank": 17,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 439223,
-      "num": 439223,
-      "word": "百日咳再现",
-      "onboard_time": 1711604419,
-      "rank": 6,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 437113,
@@ -505,14 +513,6 @@
       "onboard_time": 1711555937,
       "rank": 30,
       "category": "美食"
-    },
-    {
-      "raw_hot": 326441,
-      "num": 326441,
-      "word": "北京师范大学教授 发传单授课",
-      "onboard_time": 1711605800,
-      "rank": 12,
-      "category": "教育"
     },
     {
       "raw_hot": 321424,
@@ -691,6 +691,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 262654,
+      "num": 262654,
+      "word": "数码宝贝 武嘉是真的",
+      "onboard_time": 1711606160,
+      "rank": 23,
+      "category": "动漫,作品衍生"
+    },
+    {
       "raw_hot": 255222,
       "num": 255222,
       "word": "金晨交叉挂脖裙",
@@ -753,6 +761,14 @@
       "onboard_time": 1711599320,
       "rank": 35,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 238584,
+      "num": 238584,
+      "word": "赵雷佛山",
+      "onboard_time": 1711606577,
+      "rank": 24,
+      "category": "演出"
     },
     {
       "raw_hot": 236194,
@@ -923,6 +939,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 210672,
+      "num": 210672,
+      "word": "孙颖莎vs平野美宇",
+      "onboard_time": 1711607359,
+      "rank": 21,
+      "category": "体育"
+    },
+    {
       "raw_hot": 210261,
       "num": 210261,
       "word": "王一博坚持给王阳搭戏",
@@ -971,14 +995,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 205049,
-      "num": 205049,
-      "word": "数码宝贝 武嘉是真的",
-      "onboard_time": 1711606160,
-      "rank": 23,
-      "category": "动漫,作品衍生"
-    },
-    {
       "raw_hot": 203676,
       "num": 203676,
       "word": "百里屠苏风晴雪的宿命感",
@@ -993,14 +1009,6 @@
       "onboard_time": 1711599440,
       "rank": 38,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 202163,
-      "num": 202163,
-      "word": "赵雷佛山",
-      "onboard_time": 1711606577,
-      "rank": 24,
-      "category": "演出"
     },
     {
       "raw_hot": 201728,
@@ -1387,6 +1395,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 161368,
+      "num": 161368,
+      "word": "魏若来 人间山茶花",
+      "onboard_time": 1711606879,
+      "rank": 49,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 161117,
       "num": 161117,
       "word": "更适合i人体质的面试方法",
@@ -1417,6 +1433,14 @@
       "onboard_time": 1711591758,
       "rank": 33,
       "category": "财经"
+    },
+    {
+      "raw_hot": 156839,
+      "num": 166066,
+      "word": "医生教你2个动作锻炼手腕",
+      "onboard_time": 1711606458,
+      "rank": 34,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 154328,
@@ -1457,14 +1481,6 @@
       "onboard_time": 1711602740,
       "rank": 48,
       "category": "情感"
-    },
-    {
-      "raw_hot": 141476,
-      "num": 158565,
-      "word": "医生教你2个动作锻炼手腕",
-      "onboard_time": 1711606458,
-      "rank": 34,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 140878,
@@ -1529,6 +1545,14 @@
       "onboard_time": 1711589537,
       "rank": 40,
       "category": "情感"
+    },
+    {
+      "raw_hot": 128467,
+      "num": 128467,
+      "word": "孩子随母姓后夫妻陷入博弈",
+      "onboard_time": 1711607116,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 127941,
@@ -1625,14 +1649,6 @@
       "onboard_time": 1711583417,
       "rank": 48,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 113270,
-      "num": 113270,
-      "word": "魏若来 人间山茶花",
-      "onboard_time": 1711606879,
-      "rank": 49,
-      "category": "剧集"
     },
     {
       "raw_hot": 112634,
