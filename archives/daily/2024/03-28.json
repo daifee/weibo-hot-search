@@ -1,6 +1,6 @@
 {
   "startTime": 1711556587484,
-  "endTime": 1711618533221,
+  "endTime": 1711621093949,
   "band_list": [
     {
       "raw_hot": 2087863,
@@ -51,6 +51,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 1176578,
+      "num": 1176578,
+      "word": "港媒辣评赵露思造型",
+      "onboard_time": 1711615698,
+      "rank": 3,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 1100725,
       "num": 1100725,
       "word": "全球高考 影视化",
@@ -73,14 +81,6 @@
       "onboard_time": 1711615338,
       "rank": 1,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1027203,
-      "num": 1027203,
-      "word": "港媒辣评赵露思造型",
-      "onboard_time": 1711615698,
-      "rank": 3,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 990309,
@@ -113,6 +113,14 @@
       "onboard_time": 1711596017,
       "rank": 18,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 875262,
+      "num": 875262,
+      "word": "父母瞒了我16年我不是他们亲生女儿",
+      "onboard_time": 1711616357,
+      "rank": 4,
+      "category": "情感"
     },
     {
       "raw_hot": 868578,
@@ -155,14 +163,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 799076,
-      "num": 799076,
-      "word": "父母瞒了我16年我不是他们亲生女儿",
-      "onboard_time": 1711616357,
-      "rank": 4,
-      "category": "情感"
-    },
-    {
       "raw_hot": 794591,
       "num": 794591,
       "word": "Justin Bieber喝醉状况下演唱Stay",
@@ -193,6 +193,14 @@
       "onboard_time": 1711583358,
       "rank": 11,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 754383,
+      "num": 754383,
+      "word": "刘耀文被北电国际班录取",
+      "onboard_time": 1711617739,
+      "rank": 7,
+      "category": "艺人"
     },
     {
       "raw_hot": 752021,
@@ -273,6 +281,14 @@
       "onboard_time": 1711584258,
       "rank": 4,
       "category": "教育"
+    },
+    {
+      "raw_hot": 624128,
+      "num": 624128,
+      "word": "李铁的涉案金额可能比陈戌源还要大",
+      "onboard_time": 1711619419,
+      "rank": 6,
+      "category": "体育"
     },
     {
       "raw_hot": 622249,
@@ -371,20 +387,20 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 529768,
-      "num": 529768,
-      "word": "刘耀文被北电国际班录取",
-      "onboard_time": 1711617739,
-      "rank": 7,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 520124,
       "num": 520124,
       "word": "男子专升本考试语种错选成俄语",
       "onboard_time": 1711599679,
       "rank": 35,
       "category": "教育"
+    },
+    {
+      "raw_hot": 519982,
+      "num": 519982,
+      "word": "香港女歌手黎明诗去世",
+      "onboard_time": 1711619059,
+      "rank": 7,
+      "category": "艺人"
     },
     {
       "raw_hot": 513439,
@@ -452,7 +468,7 @@
     },
     {
       "raw_hot": 475254,
-      "num": 214375,
+      "num": 230454,
       "word": "负债4万考公上岸值得吗",
       "onboard_time": 1711616838,
       "rank": 20,
@@ -465,6 +481,14 @@
       "onboard_time": 1711599320,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 471133,
+      "num": 471133,
+      "word": "小米发布会",
+      "onboard_time": 1711615939,
+      "rank": 18,
+      "category": "数码"
     },
     {
       "raw_hot": 464214,
@@ -497,6 +521,14 @@
       "onboard_time": 1711604180,
       "rank": 4,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 450097,
+      "num": 450097,
+      "word": "现在的抑郁症在以前叫什么",
+      "onboard_time": 1711619599,
+      "rank": 12,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 447583,
@@ -537,6 +569,14 @@
       "onboard_time": 1711593557,
       "rank": 14,
       "category": "体育"
+    },
+    {
+      "raw_hot": 432574,
+      "num": 432574,
+      "word": "沈月把自己P在了花上",
+      "onboard_time": 1711617798,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 425416,
@@ -593,6 +633,14 @@
       "onboard_time": 1711591037,
       "rank": 14,
       "category": "网红"
+    },
+    {
+      "raw_hot": 374244,
+      "num": 230352,
+      "word": "贾乃亮买10斤瓜子坐绿皮火车",
+      "onboard_time": 1711619479,
+      "rank": 21,
+      "category": "综艺"
     },
     {
       "raw_hot": 367446,
@@ -731,14 +779,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 310599,
-      "num": 310599,
-      "word": "小米发布会",
-      "onboard_time": 1711615939,
-      "rank": 18,
-      "category": "数码"
-    },
-    {
       "raw_hot": 309855,
       "num": 309714,
       "word": "猫咪洗澡后被奶奶挂起来晒干",
@@ -753,6 +793,14 @@
       "onboard_time": 1711609157,
       "rank": 23,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 309234,
+      "num": 309234,
+      "word": "李一桐要和我结婚吗",
+      "onboard_time": 1711617739,
+      "rank": 16,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 304373,
@@ -899,6 +947,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 265183,
+      "num": 265183,
+      "word": "偷看前夫哥被发现的尴尬瞬间",
+      "onboard_time": 1711620138,
+      "rank": 16,
+      "category": "情感"
+    },
+    {
       "raw_hot": 262654,
       "num": 262654,
       "word": "数码宝贝 武嘉是真的",
@@ -985,14 +1041,6 @@
       "onboard_time": 1711609276,
       "rank": 20,
       "category": "体育"
-    },
-    {
-      "raw_hot": 240616,
-      "num": 240616,
-      "word": "李一桐要和我结婚吗",
-      "onboard_time": 1711617739,
-      "rank": 16,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 238584,
@@ -1083,6 +1131,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 230199,
+      "num": 230199,
+      "word": "薛之谦杭州",
+      "onboard_time": 1711619240,
+      "rank": 22,
+      "category": "演出"
+    },
+    {
       "raw_hot": 228265,
       "num": 228265,
       "word": "infp和infj的区别是什么",
@@ -1091,20 +1147,20 @@
       "category": "情感"
     },
     {
-      "raw_hot": 226489,
-      "num": 226489,
-      "word": "沈月把自己P在了花上",
-      "onboard_time": 1711617798,
-      "rank": 17,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 225523,
       "num": 234773,
       "word": "李铁案时间线梳理",
       "onboard_time": 1711599919,
       "rank": 28,
       "category": "体育"
+    },
+    {
+      "raw_hot": 223263,
+      "num": 223263,
+      "word": "在朋友圈贬损王一博被判赔4万元",
+      "onboard_time": 1711620858,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 223002,
@@ -1547,6 +1603,14 @@
       "category": "动漫,作品衍生"
     },
     {
+      "raw_hot": 180531,
+      "num": 143412,
+      "word": "香菜春笋拌牛肉",
+      "onboard_time": 1711619538,
+      "rank": 30,
+      "category": "美食"
+    },
+    {
       "raw_hot": 180476,
       "num": 180476,
       "word": "三十岁的我已经丧失了共情能力",
@@ -1596,7 +1660,7 @@
     },
     {
       "raw_hot": 176405,
-      "num": 145520,
+      "num": 173085,
       "word": "终于知道年轻人为什么喜欢养宠物了",
       "onboard_time": 1711617981,
       "rank": 30,
@@ -1691,12 +1755,28 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 169771,
+      "num": 142993,
+      "word": "梦泪 谢谢大家的祝福",
+      "onboard_time": 1711620378,
+      "rank": 31,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 168717,
       "num": 168717,
       "word": "李铁曾放话只有自己最了解国足",
       "onboard_time": 1711616298,
       "rank": 23,
       "category": "体育"
+    },
+    {
+      "raw_hot": 167738,
+      "num": 139824,
+      "word": "杨凯真的很爱王一博",
+      "onboard_time": 1711620739,
+      "rank": 32,
+      "category": "剧集"
     },
     {
       "raw_hot": 167331,
@@ -1827,6 +1907,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 156917,
+      "num": 156917,
+      "word": "新浪娱乐头像",
+      "onboard_time": 1711620020,
+      "rank": 27,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 156839,
       "num": 166066,
       "word": "医生教你2个动作锻炼手腕",
@@ -1899,6 +1987,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 150271,
+      "num": 137674,
+      "word": "猫 妈妈我没病我只是单纯的没素质",
+      "onboard_time": 1711619599,
+      "rank": 33,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 149862,
       "num": 142195,
       "word": "张真源核心好强",
@@ -1915,20 +2011,20 @@
       "category": "情感"
     },
     {
+      "raw_hot": 148846,
+      "num": 146669,
+      "word": "看成王一博了",
+      "onboard_time": 1711618219,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 148194,
       "num": 148194,
       "word": "山西订婚案男方母亲回应一审判决",
       "onboard_time": 1711613957,
       "rank": 48,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 146669,
-      "num": 146669,
-      "word": "看成王一博了",
-      "onboard_time": 1711618219,
-      "rank": 27,
-      "category": "艺人"
     },
     {
       "raw_hot": 146384,
@@ -2035,6 +2131,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 129825,
+      "num": 129825,
+      "word": "新秀丽发布会",
+      "onboard_time": 1711619240,
+      "rank": 36,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 129739,
       "num": 129739,
       "word": "只有断干净才能更快乐",
@@ -2089,6 +2193,14 @@
       "onboard_time": 1711613598,
       "rank": 37,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 125641,
+      "num": 125641,
+      "word": "我们到底在怀念2018年的什么",
+      "onboard_time": 1711618397,
+      "rank": 43,
+      "category": "情感"
     },
     {
       "raw_hot": 123101,
@@ -2171,14 +2283,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 112806,
-      "num": 112806,
-      "word": "我们到底在怀念2018年的什么",
-      "onboard_time": 1711618397,
-      "rank": 43,
-      "category": "情感"
-    },
-    {
       "raw_hot": 112634,
       "num": 112634,
       "word": "杨紫对接报平安",
@@ -2195,12 +2299,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 111485,
+      "num": 111485,
+      "word": "包三餐的工作真的很省钱",
+      "onboard_time": 1711620978,
+      "rank": 45,
+      "category": "情感"
+    },
+    {
       "raw_hot": 110957,
       "num": 110957,
       "word": "春季最狠减肥法 轻断食",
       "onboard_time": 1711572911,
       "rank": 35,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 110816,
+      "num": 110816,
+      "word": "胡歌高圆圆海报",
+      "onboard_time": 1711619000,
+      "rank": 46,
+      "category": "电影"
     },
     {
       "raw_hot": 108838,
@@ -2217,6 +2337,14 @@
       "onboard_time": 1711542738,
       "rank": 32,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 105408,
+      "num": 105408,
+      "word": "RNGM对战DYG",
+      "onboard_time": 1711620858,
+      "rank": 47,
+      "category": "电竞"
     },
     {
       "raw_hot": 99927,
@@ -2241,6 +2369,14 @@
       "onboard_time": 1711581855,
       "rank": 33,
       "category": "社会新闻,美食"
+    },
+    {
+      "raw_hot": 98087,
+      "num": 98087,
+      "word": "多囊卵巢综合征会导致不孕吗",
+      "onboard_time": 1711621039,
+      "rank": 49,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 96686,
@@ -2411,6 +2547,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 66179,
+      "num": 507775,
+      "word": "AI视频看武汉樱花满城",
+      "onboard_time": 1711619419,
+      "rank": 8,
+      "category": "旅游,社会新闻"
+    },
+    {
       "raw_hot": 65464,
       "num": 809887,
       "word": "我国网络视听用户规模达10.74亿人",
@@ -2484,7 +2628,7 @@
     },
     {
       "raw_hot": 48857,
-      "num": 143768,
+      "num": 235741,
       "word": "帕梅拉代言喜茶的理由找到了",
       "onboard_time": 1711618219,
       "rank": 33,

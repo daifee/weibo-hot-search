@@ -1,0 +1,410 @@
+{
+  "runTime": 1711621093949,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2009067,
+        "num": 2009067,
+        "word": "浪姐5 退赛",
+        "onboard_time": 1711615999,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1176578,
+        "num": 1176578,
+        "word": "港媒辣评赵露思造型",
+        "onboard_time": 1711615698,
+        "rank": 1,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 48390,
+        "num": 897582,
+        "word": "博鳌亚洲论坛会场AI元素满满",
+        "onboard_time": 1711615878,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 892585,
+        "num": 892585,
+        "word": "甘露寺回应招人",
+        "onboard_time": 1711615338,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 875262,
+        "num": 875262,
+        "word": "父母瞒了我16年我不是他们亲生女儿",
+        "onboard_time": 1711616357,
+        "rank": 4,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 754383,
+        "num": 754383,
+        "word": "刘耀文被北电国际班录取",
+        "onboard_time": 1711617739,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 624128,
+        "num": 624128,
+        "word": "李铁的涉案金额可能比陈戌源还要大",
+        "onboard_time": 1711619419,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 519982,
+        "num": 519982,
+        "word": "香港女歌手黎明诗去世",
+        "onboard_time": 1711619059,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 66179,
+        "num": 507775,
+        "word": "AI视频看武汉樱花满城",
+        "onboard_time": 1711619419,
+        "rank": 8,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 498910,
+        "num": 498910,
+        "word": "白敬亭金晨给丁勇岱让C位",
+        "onboard_time": 1711616538,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 491494,
+        "num": 491494,
+        "word": "山西订婚强奸案彩礼纠纷案一审宣判",
+        "onboard_time": 1711603940,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 471133,
+        "num": 471133,
+        "word": "小米发布会",
+        "onboard_time": 1711615939,
+        "rank": 11,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 450097,
+        "num": 450097,
+        "word": "现在的抑郁症在以前叫什么",
+        "onboard_time": 1711619599,
+        "rank": 12,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 432574,
+        "num": 432574,
+        "word": "沈月把自己P在了花上",
+        "onboard_time": 1711617798,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 309234,
+        "num": 309234,
+        "word": "李一桐要和我结婚吗",
+        "onboard_time": 1711617739,
+        "rank": 14,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 294198,
+        "num": 294198,
+        "word": "张元英小草莓",
+        "onboard_time": 1711609218,
+        "rank": 15,
+        "category": "演出,美妆"
+      },
+      {
+        "raw_hot": 265183,
+        "num": 265183,
+        "word": "偷看前夫哥被发现的尴尬瞬间",
+        "onboard_time": 1711620138,
+        "rank": 16,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 30045,
+        "num": 235741,
+        "word": "帕梅拉代言喜茶的理由找到了",
+        "onboard_time": 1711618219,
+        "rank": 17,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 232504,
+        "num": 232504,
+        "word": "胡歌高圆圆新片入围北影节主竞赛",
+        "onboard_time": 1711616058,
+        "rank": 18,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 217448,
+        "num": 230518,
+        "word": "孩子随母姓后夫妻陷入博弈",
+        "onboard_time": 1711607116,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 461615,
+        "num": 230454,
+        "word": "负债4万考公上岸值得吗",
+        "onboard_time": 1711616838,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 374244,
+        "num": 230352,
+        "word": "贾乃亮买10斤瓜子坐绿皮火车",
+        "onboard_time": 1711619479,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 230199,
+        "num": 230199,
+        "word": "薛之谦杭州",
+        "onboard_time": 1711619240,
+        "rank": 22,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 223263,
+        "num": 223263,
+        "word": "在朋友圈贬损王一博被判赔4万元",
+        "onboard_time": 1711620858,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 220707,
+        "num": 220707,
+        "word": "小米汽车SU7四个配置版本疑似曝光",
+        "onboard_time": 1711609157,
+        "rank": 24,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 173085,
+        "num": 173085,
+        "word": "终于知道年轻人为什么喜欢养宠物了",
+        "onboard_time": 1711617981,
+        "rank": 25,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 164984,
+        "num": 164984,
+        "word": "月经第一天是最疼的",
+        "onboard_time": 1711609878,
+        "rank": 26,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 156917,
+        "num": 156917,
+        "word": "新浪娱乐头像",
+        "onboard_time": 1711620020,
+        "rank": 27,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 148961,
+        "num": 148961,
+        "word": "日本官员称已开始紧急检查功能性标识食品",
+        "onboard_time": 1711609456,
+        "rank": 28,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 90777,
+        "num": 147304,
+        "word": "陈戌源曾劝李铁退还4800万遭拒绝",
+        "onboard_time": 1711593137,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 180531,
+        "num": 143412,
+        "word": "香菜春笋拌牛肉",
+        "onboard_time": 1711619538,
+        "rank": 30,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 169771,
+        "num": 142993,
+        "word": "梦泪 谢谢大家的祝福",
+        "onboard_time": 1711620378,
+        "rank": 31,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 167738,
+        "num": 139824,
+        "word": "杨凯真的很爱王一博",
+        "onboard_time": 1711620739,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 150271,
+        "num": 137674,
+        "word": "猫 妈妈我没病我只是单纯的没素质",
+        "onboard_time": 1711619599,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 135081,
+        "num": 135081,
+        "word": "饼子不隔夜卖不干净送干净",
+        "onboard_time": 1711612518,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 131846,
+        "num": 131846,
+        "word": "雷军称给了自己很大压力",
+        "onboard_time": 1711617798,
+        "rank": 35,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 129825,
+        "num": 129825,
+        "word": "新秀丽发布会",
+        "onboard_time": 1711619240,
+        "rank": 36,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 148846,
+        "num": 129689,
+        "word": "看成王一博了",
+        "onboard_time": 1711618219,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 128947,
+        "num": 128947,
+        "word": "兰州人吃不上半熟芝士",
+        "onboard_time": 1711617259,
+        "rank": 38,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 29618,
+        "num": 126920,
+        "word": "气象局坐不住了",
+        "onboard_time": 1711598419,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 126885,
+        "num": 126885,
+        "word": "抑郁症对大脑的损害是永久性的吗",
+        "onboard_time": 1711613898,
+        "rank": 40,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 125959,
+        "num": 125959,
+        "word": "李铁案时间线梳理",
+        "onboard_time": 1711599919,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 125641,
+        "num": 125641,
+        "word": "我们到底在怀念2018年的什么",
+        "onboard_time": 1711618397,
+        "rank": 42,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 118914,
+        "num": 118914,
+        "word": "关晓彤抹胸浪花裙",
+        "onboard_time": 1711609276,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 114598,
+        "num": 114598,
+        "word": "减肥期间不吃主食会怎么样",
+        "onboard_time": 1711608497,
+        "rank": 44,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 111485,
+        "num": 111485,
+        "word": "包三餐的工作真的很省钱",
+        "onboard_time": 1711620978,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 110816,
+        "num": 110816,
+        "word": "胡歌高圆圆海报",
+        "onboard_time": 1711619000,
+        "rank": 46,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 105408,
+        "num": 105408,
+        "word": "RNGM对战DYG",
+        "onboard_time": 1711620858,
+        "rank": 47,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 101443,
+        "num": 101443,
+        "word": "浪姐5",
+        "onboard_time": 1711618098,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 98087,
+        "num": 98087,
+        "word": "多囊卵巢综合征会导致不孕吗",
+        "onboard_time": 1711621039,
+        "rank": 49,
+        "category": "健康医疗"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平主席向美方人士详解中国发展#"
+    }
+  }
+}
