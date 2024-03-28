@@ -1,7 +1,15 @@
 {
   "startTime": 1711556587484,
-  "endTime": 1711614861559,
+  "endTime": 1711617488120,
   "band_list": [
+    {
+      "raw_hot": 2001401,
+      "num": 2001401,
+      "word": "浪姐5 退赛",
+      "onboard_time": 1711615999,
+      "rank": 0,
+      "category": "综艺"
+    },
     {
       "raw_hot": 1804586,
       "num": 1804586,
@@ -28,7 +36,7 @@
     },
     {
       "raw_hot": 1247329,
-      "num": 595266,
+      "num": 628291,
       "word": "山西订婚强奸案彩礼纠纷案一审宣判",
       "onboard_time": 1711603940,
       "rank": 36,
@@ -59,6 +67,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1004517,
+      "num": 1004517,
+      "word": "甘露寺回应招人",
+      "onboard_time": 1711615338,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 990309,
       "num": 333523,
       "word": "你愿意不交社保换更多工资吗",
@@ -81,6 +97,14 @@
       "onboard_time": 1711607116,
       "rank": 36,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 926915,
+      "num": 926915,
+      "word": "港媒辣评赵露思造型",
+      "onboard_time": 1711615698,
+      "rank": 3,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 903464,
@@ -169,6 +193,14 @@
       "onboard_time": 1711599200,
       "rank": 23,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 724587,
+      "num": 724587,
+      "word": "父母瞒了我16年我不是他们亲生女儿",
+      "onboard_time": 1711616357,
+      "rank": 4,
+      "category": "情感"
     },
     {
       "raw_hot": 716625,
@@ -347,6 +379,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 510864,
+      "num": 510864,
+      "word": "白敬亭金晨给丁勇岱让C位",
+      "onboard_time": 1711616538,
+      "rank": 8,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 509777,
       "num": 509777,
       "word": "奔跑吧路透",
@@ -419,6 +459,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 459334,
+      "num": 459334,
+      "word": "饼子不隔夜卖不干净送干净",
+      "onboard_time": 1711612518,
+      "rank": 18,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 455076,
       "num": 455076,
       "word": "莫斯科恐袭死亡升至143人",
@@ -473,6 +521,14 @@
       "onboard_time": 1711593557,
       "rank": 14,
       "category": "体育"
+    },
+    {
+      "raw_hot": 425416,
+      "num": 425416,
+      "word": "抑郁症对大脑的损害是永久性的吗",
+      "onboard_time": 1711613898,
+      "rank": 21,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 419360,
@@ -587,6 +643,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 326611,
+      "num": 326611,
+      "word": "客服回应小米SU7展车车门缝没对齐",
+      "onboard_time": 1711615159,
+      "rank": 11,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 321424,
       "num": 321424,
       "word": "离异3年内不得京内购房被废止",
@@ -699,14 +763,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 295662,
-      "num": 245283,
-      "word": "饼子不隔夜卖不干净送干净",
-      "onboard_time": 1711612518,
-      "rank": 18,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 291266,
       "num": 291266,
       "word": "小米SU7霞光紫",
@@ -731,6 +787,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 284556,
+      "num": 284556,
+      "word": "苏诗丁 我参加过离婚综艺你们有么",
+      "onboard_time": 1711614497,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 284399,
       "num": 284399,
       "word": "极限挑战",
@@ -753,6 +817,14 @@
       "onboard_time": 1711591998,
       "rank": 24,
       "category": "财经"
+    },
+    {
+      "raw_hot": 278161,
+      "num": 212728,
+      "word": "负债4万考公上岸值得吗",
+      "onboard_time": 1711616838,
+      "rank": 20,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 273934,
@@ -835,6 +907,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 252527,
+      "num": 252527,
+      "word": "胡歌高圆圆新片入围北影节主竞赛",
+      "onboard_time": 1711616058,
+      "rank": 16,
+      "category": "电影"
+    },
+    {
       "raw_hot": 252039,
       "num": 252039,
       "word": "何悯鸿向四美道歉",
@@ -857,6 +937,14 @@
       "onboard_time": 1711593137,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 247000,
+      "num": 247000,
+      "word": "花间令只有哥哥还记得上官芷",
+      "onboard_time": 1711614618,
+      "rank": 37,
+      "category": "剧集"
     },
     {
       "raw_hot": 245995,
@@ -923,6 +1011,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 233492,
+      "num": 233492,
+      "word": "小米发布会",
+      "onboard_time": 1711615939,
+      "rank": 18,
+      "category": "数码"
+    },
+    {
       "raw_hot": 233123,
       "num": 154892,
       "word": "导致胃部癌变的6大因素",
@@ -987,14 +1083,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 223651,
-      "num": 223651,
-      "word": "抑郁症对大脑的损害是永久性的吗",
-      "onboard_time": 1711613898,
-      "rank": 21,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 223002,
       "num": 223002,
       "word": "恋与深空",
@@ -1016,6 +1104,14 @@
       "word": "赵丽颖王一博V榜破9",
       "onboard_time": 1711595477,
       "rank": 34,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 220059,
+      "num": 220059,
+      "word": "电视剧品质盛典",
+      "onboard_time": 1711615099,
+      "rank": 19,
       "category": "剧集"
     },
     {
@@ -1555,6 +1651,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 168717,
+      "num": 168717,
+      "word": "李铁曾放话只有自己最了解国足",
+      "onboard_time": 1711616298,
+      "rank": 23,
+      "category": "体育"
+    },
+    {
       "raw_hot": 167331,
       "num": 167331,
       "word": "第五人格",
@@ -1585,6 +1689,14 @@
       "onboard_time": 1711595417,
       "rank": 42,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 162794,
+      "num": 162794,
+      "word": "杨幂微博之夜穿孤独症儿童送的裙子",
+      "onboard_time": 1711615758,
+      "rank": 26,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 162283,
@@ -1699,6 +1811,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 153912,
+      "num": 153912,
+      "word": "招人的甘露寺不是嬛嬛那所",
+      "onboard_time": 1711616119,
+      "rank": 28,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 153577,
       "num": 153577,
       "word": "湖人战胜灰熊",
@@ -1721,6 +1841,14 @@
       "onboard_time": 1711584198,
       "rank": 38,
       "category": "情感"
+    },
+    {
+      "raw_hot": 150647,
+      "num": 150647,
+      "word": "米卢曾赞李铁是上帝赐给中国足球的礼物",
+      "onboard_time": 1711614738,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 149862,
@@ -1747,12 +1875,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 147604,
-      "num": 147604,
-      "word": "苏诗丁 我参加过离婚综艺你们有么",
-      "onboard_time": 1711614497,
-      "rank": 28,
-      "category": "综艺"
+      "raw_hot": 146384,
+      "num": 146384,
+      "word": "王一博看拜师眼眶红了",
+      "onboard_time": 1711614258,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 142054,
+      "num": 142054,
+      "word": "过期的防晒霜千万不要用",
+      "onboard_time": 1711616298,
+      "rank": 32,
+      "category": "美妆"
     },
     {
       "raw_hot": 141684,
@@ -1777,14 +1913,6 @@
       "onboard_time": 1711595658,
       "rank": 36,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 140027,
-      "num": 140027,
-      "word": "王一博看拜师眼眶红了",
-      "onboard_time": 1711614258,
-      "rank": 32,
-      "category": "剧集"
     },
     {
       "raw_hot": 138206,
@@ -1851,6 +1979,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 128024,
+      "num": 128024,
+      "word": "原来涂防晒还有手法",
+      "onboard_time": 1711615578,
+      "rank": 37,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 127941,
       "num": 127941,
       "word": "你有去淄博吃烧烤的计划吗",
@@ -1865,14 +2001,6 @@
       "onboard_time": 1711592538,
       "rank": 44,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 127478,
-      "num": 127478,
-      "word": "花间令只有哥哥还记得上官芷",
-      "onboard_time": 1711614618,
-      "rank": 37,
-      "category": "剧集"
     },
     {
       "raw_hot": 127089,
@@ -1947,6 +2075,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 117096,
+      "num": 117096,
+      "word": "兰州人吃不上半熟芝士",
+      "onboard_time": 1711617259,
+      "rank": 42,
+      "category": "美食"
+    },
+    {
       "raw_hot": 115828,
       "num": 115828,
       "word": "仁川赛孙颖莎晋级16强",
@@ -1987,12 +2123,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 112527,
+      "num": 112527,
+      "word": "一定要做热爱且擅长的工作",
+      "onboard_time": 1711614977,
+      "rank": 45,
+      "category": "情感"
+    },
+    {
       "raw_hot": 110957,
       "num": 110957,
       "word": "春季最狠减肥法 轻断食",
       "onboard_time": 1711572911,
       "rank": 35,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 108838,
+      "num": 108838,
+      "word": "贵女",
+      "onboard_time": 1711615638,
+      "rank": 46,
+      "category": "剧集"
     },
     {
       "raw_hot": 108101,
@@ -2003,20 +2155,20 @@
       "category": "科学科普"
     },
     {
-      "raw_hot": 106164,
-      "num": 106164,
-      "word": "米卢曾赞李铁是上帝赐给中国足球的礼物",
-      "onboard_time": 1711614738,
-      "rank": 47,
-      "category": "体育"
-    },
-    {
       "raw_hot": 99927,
       "num": 99927,
       "word": "勇士战胜魔术",
       "onboard_time": 1711591457,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 99070,
+      "num": 99070,
+      "word": "电视剧品质盛典红毯",
+      "onboard_time": 1711615638,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 99020,
@@ -2280,6 +2432,14 @@
       "word": "南通禁止制造销售封建迷信殡葬用品",
       "onboard_time": 1711557915,
       "rank": 39,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 43237,
+      "num": 934753,
+      "word": "博鳌亚洲论坛会场AI元素满满",
+      "onboard_time": 1711615878,
+      "rank": 2,
       "category": "社会新闻"
     },
     {
