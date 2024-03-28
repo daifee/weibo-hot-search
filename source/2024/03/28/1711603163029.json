@@ -1,0 +1,410 @@
+{
+  "runTime": 1711603163029,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 752021,
+        "num": 752021,
+        "word": "秦岚的嗓子怎么还没好",
+        "onboard_time": 1711599200,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 606326,
+        "num": 606326,
+        "word": "极限挑战把黄景瑜从品质盛典绑走了",
+        "onboard_time": 1711598898,
+        "rank": 1,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 43969,
+        "num": 598444,
+        "word": "第十一届中国网络视听大会开幕",
+        "onboard_time": 1711594578,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 597405,
+        "num": 597405,
+        "word": "赵丽颖的脸比小朋友还小",
+        "onboard_time": 1711596919,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 561513,
+        "num": 561513,
+        "word": "华为P70",
+        "onboard_time": 1711594338,
+        "rank": 4,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 513987,
+        "num": 513987,
+        "word": "男子专升本考试语种错选成俄语",
+        "onboard_time": 1711599679,
+        "rank": 5,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 479983,
+        "num": 479983,
+        "word": "女主是个永不道歉的人",
+        "onboard_time": 1711588519,
+        "rank": 6,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 473456,
+        "num": 473456,
+        "word": "奔跑吧12兄弟团首合体",
+        "onboard_time": 1711599320,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 354697,
+        "num": 428954,
+        "word": "日本首相回应小林制药事件",
+        "onboard_time": 1711596017,
+        "rank": 8,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 273927,
+        "num": 411228,
+        "word": "陈戌源曾劝李铁退还4800万遭拒绝",
+        "onboard_time": 1711593137,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 532899,
+        "num": 406534,
+        "word": "南通",
+        "onboard_time": 1711548440,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 393799,
+        "num": 393799,
+        "word": "张艺兴个人简历",
+        "onboard_time": 1711601300,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 378284,
+        "num": 378284,
+        "word": "韩素希高中时期照片",
+        "onboard_time": 1711593978,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 366983,
+        "num": 366983,
+        "word": "自刷差评淄博烧烤店谈爆火1年现状",
+        "onboard_time": 1711582336,
+        "rank": 13,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 343802,
+        "num": 343802,
+        "word": "黄晓明航班取消",
+        "onboard_time": 1711589958,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 324608,
+        "num": 324608,
+        "word": "陈铭被质疑为何没非升即走",
+        "onboard_time": 1711596257,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 320577,
+        "num": 320577,
+        "word": "咒术回战",
+        "onboard_time": 1711601121,
+        "rank": 16,
+        "category": "动漫,作品衍生"
+      },
+      {
+        "raw_hot": 282446,
+        "num": 282446,
+        "word": "招商银行近两年向员工追薪1亿多元",
+        "onboard_time": 1711591818,
+        "rank": 17,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 282243,
+        "num": 282243,
+        "word": "TheShy问Ning去不去nip",
+        "onboard_time": 1711601420,
+        "rank": 18,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 277788,
+        "num": 277788,
+        "word": "爸爸当家3阵容官宣",
+        "onboard_time": 1711596738,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 559521,
+        "num": 274637,
+        "word": "订婚后发现女朋友之前确诊双相",
+        "onboard_time": 1711589778,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 309855,
+        "num": 272844,
+        "word": "猫咪洗澡后被奶奶挂起来晒干",
+        "onboard_time": 1711599200,
+        "rank": 21,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 297994,
+        "num": 272256,
+        "word": "你愿意不交社保换更多工资吗",
+        "onboard_time": 1711559774,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 270917,
+        "num": 270917,
+        "word": "无期迷途",
+        "onboard_time": 1711602321,
+        "rank": 23,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 260291,
+        "num": 260291,
+        "word": "农历二月十九",
+        "onboard_time": 1711594517,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 243643,
+        "num": 243643,
+        "word": "小米汽车",
+        "onboard_time": 1711584138,
+        "rank": 25,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 225809,
+        "num": 225809,
+        "word": "小米SU7霞光紫",
+        "onboard_time": 1711602321,
+        "rank": 26,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 211313,
+        "num": 211313,
+        "word": "李铁",
+        "onboard_time": 1711593557,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 193523,
+        "num": 208003,
+        "word": "工商银行每天赚近10亿",
+        "onboard_time": 1711591998,
+        "rank": 28,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 117244,
+        "num": 207421,
+        "word": "婺源古村春花绽放美如画卷",
+        "onboard_time": 1711601961,
+        "rank": 29,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 219956,
+        "num": 207351,
+        "word": "infp和infj的区别是什么",
+        "onboard_time": 1711599800,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 207162,
+        "num": 207162,
+        "word": "Justin Bieber喝醉状况下演唱Stay",
+        "onboard_time": 1711584258,
+        "rank": 31,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 206398,
+        "num": 206398,
+        "word": "金晨交叉挂脖裙",
+        "onboard_time": 1711602980,
+        "rank": 32,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 203483,
+        "num": 203483,
+        "word": "叔叔要求我同责赡养爷爷奶奶",
+        "onboard_time": 1711599919,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 201438,
+        "num": 201438,
+        "word": "成毅铆钉外套",
+        "onboard_time": 1711602080,
+        "rank": 34,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 193312,
+        "num": 193312,
+        "word": "总有人在名利场写诗",
+        "onboard_time": 1711601840,
+        "rank": 35,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 190590,
+        "num": 190590,
+        "word": "这届毕业生到底多会整活",
+        "onboard_time": 1711601900,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 185231,
+        "num": 185231,
+        "word": "百里屠苏风晴雪的宿命感",
+        "onboard_time": 1711600100,
+        "rank": 37,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 183131,
+        "num": 183131,
+        "word": "数码宝贝 最好哭的一集",
+        "onboard_time": 1711600700,
+        "rank": 38,
+        "category": "动漫,作品衍生"
+      },
+      {
+        "raw_hot": 180568,
+        "num": 180568,
+        "word": "小米SU7",
+        "onboard_time": 1711602861,
+        "rank": 39,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 179477,
+        "num": 179477,
+        "word": "只有黄明昊到了漠河",
+        "onboard_time": 1711597759,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 174622,
+        "num": 174622,
+        "word": "花间令女主有气不忍到下一集",
+        "onboard_time": 1711599800,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 170277,
+        "num": 170277,
+        "word": "防晒的6大误区",
+        "onboard_time": 1711600639,
+        "rank": 42,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 167099,
+        "num": 167099,
+        "word": "王梓薇 正确减肥要学会好好吃饭",
+        "onboard_time": 1711599800,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 161497,
+        "num": 161497,
+        "word": "李铁案时间线梳理",
+        "onboard_time": 1711599919,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 161216,
+        "num": 161216,
+        "word": "胡一天卢昱晓新戏演兄妹",
+        "onboard_time": 1711599320,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 159114,
+        "num": 159114,
+        "word": "宋雨琦中式双丸子头",
+        "onboard_time": 1711598659,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 158830,
+        "num": 158830,
+        "word": "地磁暴后遗症",
+        "onboard_time": 1711599919,
+        "rank": 47,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 148868,
+        "num": 148868,
+        "word": "工作出问题很正常",
+        "onboard_time": 1711602740,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 124558,
+        "num": 146565,
+        "word": "胡锡进谈南通禁售冥纸冥币",
+        "onboard_time": 1711599559,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#中美关系回不到过去但能够有更好的未来#"
+    }
+  }
+}
