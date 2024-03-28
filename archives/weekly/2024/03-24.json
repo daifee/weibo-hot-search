@@ -1,6 +1,6 @@
 {
   "startTime": 1711210803824,
-  "endTime": 1711640082556,
+  "endTime": 1711642899962,
   "band_list": [
     {
       "raw_hot": 21250232,
@@ -1417,6 +1417,14 @@
       "onboard_time": 1711433358,
       "rank": 23,
       "category": "美食,社会新闻"
+    },
+    {
+      "raw_hot": 834781,
+      "num": 834781,
+      "word": "黄景瑜直播中途脱衣服",
+      "onboard_time": 1711639161,
+      "rank": 16,
+      "category": "综艺"
     },
     {
       "raw_hot": 829380,
@@ -2979,14 +2987,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 541301,
-      "num": 541301,
-      "word": "黄景瑜直播中途脱衣服",
-      "onboard_time": 1711639161,
-      "rank": 16,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 540586,
       "num": 540586,
       "word": "叔圈天菜和娃娃菜",
@@ -4283,6 +4283,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 409139,
+      "num": 409139,
+      "word": "买车跟买手机一样",
+      "onboard_time": 1711639940,
+      "rank": 43,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 408049,
       "num": 408049,
       "word": "科技春晚",
@@ -4297,6 +4305,14 @@
       "onboard_time": 1711357640,
       "rank": 14,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 406591,
+      "num": 522902,
+      "word": "选的刮刮卡被店员卖给别人错失100万",
+      "onboard_time": 1711638681,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 405798,
@@ -5515,6 +5531,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 308809,
+      "num": 308809,
+      "word": "小灰灰第一次立耳",
+      "onboard_time": 1711641318,
+      "rank": 22,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 308427,
       "num": 308427,
       "word": "SM新女团",
@@ -5673,6 +5697,14 @@
       "onboard_time": 1711638200,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 300053,
+      "num": 300053,
+      "word": "周迅胡歌辛芷蕾吃瓜表情",
+      "onboard_time": 1711640060,
+      "rank": 44,
+      "category": "剧集"
     },
     {
       "raw_hot": 299349,
@@ -6673,14 +6705,6 @@
       "onboard_time": 1711632741,
       "rank": 43,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 252432,
-      "num": 522902,
-      "word": "选的刮刮卡被店员卖给别人错失100万",
-      "onboard_time": 1711638681,
-      "rank": 34,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 252039,
@@ -7923,14 +7947,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 217134,
-      "num": 217134,
-      "word": "买车跟买手机一样",
-      "onboard_time": 1711639940,
-      "rank": 43,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 217124,
       "num": 217124,
       "word": "眼泪女王收视率再创新高",
@@ -7960,14 +7976,6 @@
       "word": "王一博王阳破万flag",
       "onboard_time": 1711546040,
       "rank": 24,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 216133,
-      "num": 216133,
-      "word": "周迅胡歌辛芷蕾吃瓜表情",
-      "onboard_time": 1711640060,
-      "rank": 44,
       "category": "剧集"
     },
     {
@@ -9049,6 +9057,14 @@
       "onboard_time": 1711547179,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 194540,
+      "num": 194540,
+      "word": "贾乃亮手机屏保是和甜馨的合照",
+      "onboard_time": 1711642278,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 194432,
@@ -13171,6 +13187,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 127208,
+      "num": 127208,
+      "word": "爱情公寓现场演唱版",
+      "onboard_time": 1711642756,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 127142,
       "num": 127142,
       "word": "白敬亭谈30岁感受",
@@ -14049,6 +14073,14 @@
       "onboard_time": 1711259359,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 105480,
+      "num": 217434,
+      "word": "女子想买鞋丈夫翻出所有单鞋全擦亮",
+      "onboard_time": 1711641797,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 104590,
