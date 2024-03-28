@@ -1,6 +1,6 @@
 {
   "startTime": 1711642899962,
-  "endTime": 1711664172964,
+  "endTime": 1711665271884,
   "band_list": [
     {
       "raw_hot": 6224451,
@@ -148,7 +148,7 @@
     },
     {
       "raw_hot": 352015,
-      "num": 237248,
+      "num": 270462,
       "word": "在英中国女留学生被刺身亡",
       "onboard_time": 1711644495,
       "rank": 16,
@@ -249,6 +249,14 @@
       "onboard_time": 1711642278,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 186485,
+      "num": 186485,
+      "word": "余承东",
+      "onboard_time": 1711659371,
+      "rank": 31,
+      "category": "互联网"
     },
     {
       "raw_hot": 183319,
@@ -387,12 +395,12 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 87957,
-      "num": 87957,
-      "word": "余承东",
-      "onboard_time": 1711659371,
-      "rank": 31,
-      "category": "互联网"
+      "raw_hot": 114685,
+      "num": 114685,
+      "word": "内娱是真缺舞台啊",
+      "onboard_time": 1711655412,
+      "rank": 21,
+      "category": "综艺"
     },
     {
       "raw_hot": 87363,
@@ -403,12 +411,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 85455,
-      "num": 85455,
-      "word": "内娱是真缺舞台啊",
-      "onboard_time": 1711655412,
-      "rank": 21,
-      "category": "综艺"
+      "raw_hot": 73505,
+      "num": 73505,
+      "word": "曾坐在父亲外卖箱的宝宝住进新家了",
+      "onboard_time": 1711645574,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 69512,
@@ -419,11 +427,43 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 69340,
+      "num": 69340,
+      "word": "为什么劝你春天别乱买菠萝吃",
+      "onboard_time": 1711660631,
+      "rank": 39,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 67477,
+      "num": 53541,
+      "word": "内啡肽才是减肥高级模式",
+      "onboard_time": 1711663752,
+      "rank": 36,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 64316,
       "num": 64316,
       "word": "与凤行",
       "onboard_time": 1711644375,
       "rank": 47,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 54772,
+      "num": 54772,
+      "word": "辽宁一居民楼因天然气泄露爆炸",
+      "onboard_time": 1711664232,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 54297,
+      "num": 54297,
+      "word": "王星越吴磊 暴雪时分有续集",
+      "onboard_time": 1711663271,
+      "rank": 43,
       "category": "剧集"
     },
     {
@@ -435,20 +475,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 47966,
-      "num": 65287,
-      "word": "曾坐在父亲外卖箱的宝宝住进新家了",
-      "onboard_time": 1711645574,
-      "rank": 48,
-      "category": "社会新闻"
+      "raw_hot": 50877,
+      "num": 50877,
+      "word": "华为汽车",
+      "onboard_time": 1711659851,
+      "rank": 41,
+      "category": "汽车"
     },
     {
-      "raw_hot": 46159,
-      "num": 46159,
-      "word": "为什么劝你春天别乱买菠萝吃",
-      "onboard_time": 1711660631,
-      "rank": 39,
-      "category": "美食"
+      "raw_hot": 47709,
+      "num": 47709,
+      "word": "小爱同学出息了",
+      "onboard_time": 1711660510,
+      "rank": 48,
+      "category": "汽车"
     },
     {
       "raw_hot": 44058,
@@ -491,22 +531,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 35470,
-      "num": 35470,
-      "word": "华为汽车",
-      "onboard_time": 1711659851,
-      "rank": 41,
-      "category": "汽车"
-    },
-    {
-      "raw_hot": 32671,
-      "num": 32671,
-      "word": "内啡肽才是减肥高级模式",
-      "onboard_time": 1711663752,
-      "rank": 36,
-      "category": "运动健身"
-    },
-    {
       "raw_hot": 31773,
       "num": 31773,
       "word": "被男朋友给点的外卖气笑了",
@@ -515,28 +539,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 28247,
-      "num": 28247,
-      "word": "小爱同学出息了",
-      "onboard_time": 1711660510,
-      "rank": 48,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 27930,
       "num": 27930,
       "word": "久哲心寒",
       "onboard_time": 1711650372,
       "rank": 47,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 27833,
-      "num": 27833,
-      "word": "王星越吴磊 暴雪时分有续集",
-      "onboard_time": 1711663271,
-      "rank": 43,
-      "category": "剧集"
     },
     {
       "raw_hot": 26610,
@@ -548,7 +556,7 @@
     },
     {
       "raw_hot": 24273,
-      "num": 24273,
+      "num": 28256,
       "word": "中使馆回应5中国公民巴基斯坦遇袭",
       "onboard_time": 1711658170,
       "rank": 38,

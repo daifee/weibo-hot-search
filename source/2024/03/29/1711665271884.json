@@ -1,0 +1,410 @@
+{
+  "runTime": 1711665271884,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 499372,
+        "num": 499372,
+        "word": "黄圣依杨子直播事件6人被刑拘",
+        "onboard_time": 1711634542,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 454735,
+        "num": 454735,
+        "word": "小米SU7价格",
+        "onboard_time": 1711627097,
+        "rank": 1,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 12683,
+        "num": 365005,
+        "word": "2024中国网络媒体论坛",
+        "onboard_time": 1711628721,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 312355,
+        "num": 312355,
+        "word": "小米汽车27分钟大定突破50000台",
+        "onboard_time": 1711637000,
+        "rank": 3,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 270462,
+        "num": 270462,
+        "word": "在英中国女留学生被刺身亡",
+        "onboard_time": 1711644495,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 194439,
+        "num": 194439,
+        "word": "小米SU7售价21.59万元起",
+        "onboard_time": 1711630402,
+        "rank": 5,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 186485,
+        "num": 186485,
+        "word": "余承东",
+        "onboard_time": 1711659371,
+        "rank": 6,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 180183,
+        "num": 180183,
+        "word": "存款到10万是什么感觉",
+        "onboard_time": 1711625898,
+        "rank": 7,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 164497,
+        "num": 164497,
+        "word": "选的刮刮卡被店员卖给别人错失100万",
+        "onboard_time": 1711638681,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 136219,
+        "num": 136219,
+        "word": "东方卫视主持人",
+        "onboard_time": 1711634961,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 172183,
+        "num": 135465,
+        "word": "小米SU7",
+        "onboard_time": 1711623859,
+        "rank": 10,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 133258,
+        "num": 133258,
+        "word": "雷军 雷神",
+        "onboard_time": 1711631302,
+        "rank": 11,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 130237,
+        "num": 130237,
+        "word": "黄景瑜直播中途脱衣服",
+        "onboard_time": 1711639161,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 127001,
+        "num": 127001,
+        "word": "小米发布会",
+        "onboard_time": 1711615939,
+        "rank": 13,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 125661,
+        "num": 125661,
+        "word": "小米订单",
+        "onboard_time": 1711638021,
+        "rank": 14,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 124322,
+        "num": 124322,
+        "word": "浪姐5 退赛",
+        "onboard_time": 1711615999,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 114685,
+        "num": 114685,
+        "word": "内娱是真缺舞台啊",
+        "onboard_time": 1711655412,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 102050,
+        "num": 102050,
+        "word": "女子遭丈夫家暴后死亡",
+        "onboard_time": 1711621219,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 79669,
+        "num": 79669,
+        "word": "王阳居然和赵丽颖合作过",
+        "onboard_time": 1711635081,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 73505,
+        "num": 73505,
+        "word": "曾坐在父亲外卖箱的宝宝住进新家了",
+        "onboard_time": 1711645574,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 88137,
+        "num": 71877,
+        "word": "95后女生每月副业收入过万",
+        "onboard_time": 1711638200,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 85761,
+        "num": 71354,
+        "word": "女子想买鞋丈夫翻出所有单鞋全擦亮",
+        "onboard_time": 1711641797,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 69340,
+        "num": 69340,
+        "word": "为什么劝你春天别乱买菠萝吃",
+        "onboard_time": 1711660631,
+        "rank": 22,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 65917,
+        "num": 65917,
+        "word": "肖战年度全媒体关注剧星",
+        "onboard_time": 1711638622,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 65309,
+        "num": 65309,
+        "word": "雷军排面",
+        "onboard_time": 1711624097,
+        "rank": 24,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 63166,
+        "num": 63166,
+        "word": "贾乃亮手机屏保是和甜馨的合照",
+        "onboard_time": 1711642278,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 61288,
+        "num": 61288,
+        "word": "李铁当庭认罪悔罪",
+        "onboard_time": 1711630943,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 56160,
+        "num": 56160,
+        "word": "爱吃辣的人癌症死亡率比同龄人要低",
+        "onboard_time": 1711622538,
+        "rank": 27,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 54772,
+        "num": 54772,
+        "word": "辽宁一居民楼因天然气泄露爆炸",
+        "onboard_time": 1711664232,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 54297,
+        "num": 54297,
+        "word": "王星越吴磊 暴雪时分有续集",
+        "onboard_time": 1711663271,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 67477,
+        "num": 53541,
+        "word": "内啡肽才是减肥高级模式",
+        "onboard_time": 1711663752,
+        "rank": 30,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 52361,
+        "num": 52361,
+        "word": "造车很苦 但成功一定很酷",
+        "onboard_time": 1711626259,
+        "rank": 31,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 50877,
+        "num": 50877,
+        "word": "华为汽车",
+        "onboard_time": 1711659851,
+        "rank": 32,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 47709,
+        "num": 47709,
+        "word": "小爱同学出息了",
+        "onboard_time": 1711660510,
+        "rank": 33,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 47027,
+        "num": 47027,
+        "word": "周迅胡歌辛芷蕾吃瓜表情",
+        "onboard_time": 1711640060,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 45708,
+        "num": 45708,
+        "word": "小米SU7价格预测",
+        "onboard_time": 1711622179,
+        "rank": 35,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 45564,
+        "num": 45564,
+        "word": "雷军 遥遥领先",
+        "onboard_time": 1711627458,
+        "rank": 36,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 42860,
+        "num": 42860,
+        "word": "特斯拉",
+        "onboard_time": 1711632322,
+        "rank": 37,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 42273,
+        "num": 42273,
+        "word": "成毅投票",
+        "onboard_time": 1711638021,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 39457,
+        "num": 39457,
+        "word": "赵丽颖截了被孩子包围镜头",
+        "onboard_time": 1711633760,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 38106,
+        "num": 38106,
+        "word": "小灰灰第一次立耳",
+        "onboard_time": 1711641318,
+        "rank": 40,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 36474,
+        "num": 36474,
+        "word": "唐嫣生图",
+        "onboard_time": 1711635202,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 36325,
+        "num": 36325,
+        "word": "金晨表演镜头切了白敬亭",
+        "onboard_time": 1711653671,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 34280,
+        "num": 34280,
+        "word": "雷军回应身高181cm",
+        "onboard_time": 1711629860,
+        "rank": 43,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 33979,
+        "num": 33979,
+        "word": "买车跟买手机一样",
+        "onboard_time": 1711639940,
+        "rank": 44,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 33101,
+        "num": 33101,
+        "word": "网剧执笔",
+        "onboard_time": 1711645514,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 29623,
+        "num": 29623,
+        "word": "港媒辣评赵露思造型",
+        "onboard_time": 1711615698,
+        "rank": 46,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 28265,
+        "num": 28265,
+        "word": "小米车模",
+        "onboard_time": 1711632802,
+        "rank": 47,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 27253,
+        "num": 28259,
+        "word": "被男朋友给点的外卖气笑了",
+        "onboard_time": 1711657570,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 21900,
+        "num": 28256,
+        "word": "中使馆回应5中国公民巴基斯坦遇袭",
+        "onboard_time": 1711658170,
+        "rank": 49,
+        "category": "国内时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平颁发命令状并向晋衔的军官表示祝贺#"
+    }
+  }
+}
