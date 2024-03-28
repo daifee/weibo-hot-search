@@ -1,0 +1,410 @@
+{
+  "runTime": 1711640082556,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 10855163,
+        "num": 10855163,
+        "word": "小米SU7价格",
+        "onboard_time": 1711627097,
+        "rank": 0,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 4004629,
+        "num": 4004629,
+        "word": "雷军 雷神",
+        "onboard_time": 1711631302,
+        "rank": 1,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 60564,
+        "num": 3756087,
+        "word": "万千气象看云南",
+        "onboard_time": 1711630582,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 3576517,
+        "num": 3576517,
+        "word": "小米SU7售价21.59万元起",
+        "onboard_time": 1711630402,
+        "rank": 3,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 3106668,
+        "num": 3106668,
+        "word": "小米汽车27分钟大定突破50000台",
+        "onboard_time": 1711637000,
+        "rank": 4,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 1360769,
+        "num": 1360769,
+        "word": "黄圣依杨子直播事件6人被刑拘",
+        "onboard_time": 1711634542,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1107306,
+        "num": 1107306,
+        "word": "雷军排面",
+        "onboard_time": 1711624097,
+        "rank": 6,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 783089,
+        "num": 783089,
+        "word": "造车很苦 但成功一定很酷",
+        "onboard_time": 1711626259,
+        "rank": 7,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 372736,
+        "num": 780100,
+        "word": "李铁当庭认罪悔罪",
+        "onboard_time": 1711630943,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 295128,
+        "num": 769913,
+        "word": "女子遭丈夫家暴后死亡",
+        "onboard_time": 1711621219,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 3441451,
+        "num": 764459,
+        "word": "小米SU7",
+        "onboard_time": 1711623859,
+        "rank": 10,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 2446572,
+        "num": 752893,
+        "word": "小米发布会",
+        "onboard_time": 1711615939,
+        "rank": 11,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 750221,
+        "num": 750221,
+        "word": "小米SU7价格预测",
+        "onboard_time": 1711622179,
+        "rank": 12,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 708362,
+        "num": 708362,
+        "word": "存款到10万是什么感觉",
+        "onboard_time": 1711625898,
+        "rank": 13,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 620505,
+        "num": 620505,
+        "word": "王阳居然和赵丽颖合作过",
+        "onboard_time": 1711635081,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 554243,
+        "num": 554243,
+        "word": "小米订单",
+        "onboard_time": 1711638021,
+        "rank": 15,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 541301,
+        "num": 541301,
+        "word": "黄景瑜直播中途脱衣服",
+        "onboard_time": 1711639161,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 530225,
+        "num": 530225,
+        "word": "雷军回应身高181cm",
+        "onboard_time": 1711629860,
+        "rank": 17,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 252432,
+        "num": 522902,
+        "word": "选的刮刮卡被店员卖给别人错失100万",
+        "onboard_time": 1711638681,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 165228,
+        "num": 519684,
+        "word": "负债4万考公上岸值得吗",
+        "onboard_time": 1711616838,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 575983,
+        "num": 519494,
+        "word": "赵丽颖截了被孩子包围镜头",
+        "onboard_time": 1711633760,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 519170,
+        "num": 519170,
+        "word": "浪姐5 退赛",
+        "onboard_time": 1711615999,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 481889,
+        "num": 481889,
+        "word": "东方卫视主持人",
+        "onboard_time": 1711634961,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 415184,
+        "num": 415184,
+        "word": "极限挑战直播",
+        "onboard_time": 1711636341,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 378724,
+        "num": 378724,
+        "word": "雷军 遥遥领先",
+        "onboard_time": 1711627458,
+        "rank": 24,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 369796,
+        "num": 369796,
+        "word": "唐嫣生图",
+        "onboard_time": 1711635202,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 348977,
+        "num": 348977,
+        "word": "小爱同学罢工",
+        "onboard_time": 1711633881,
+        "rank": 26,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 329430,
+        "num": 329430,
+        "word": "成毅投票",
+        "onboard_time": 1711638021,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 300185,
+        "num": 320502,
+        "word": "95后女生每月副业收入过万",
+        "onboard_time": 1711638200,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 100739,
+        "num": 316724,
+        "word": "李铁涉案金额超1亿",
+        "onboard_time": 1711636222,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 313134,
+        "num": 313134,
+        "word": "特斯拉",
+        "onboard_time": 1711632322,
+        "rank": 30,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 288585,
+        "num": 288585,
+        "word": "肖战年度全媒体关注剧星",
+        "onboard_time": 1711638622,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 288437,
+        "num": 288437,
+        "word": "科技春晚",
+        "onboard_time": 1711624998,
+        "rank": 32,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 284880,
+        "num": 284880,
+        "word": "小米车模",
+        "onboard_time": 1711632802,
+        "rank": 33,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 275661,
+        "num": 275661,
+        "word": "问界M9",
+        "onboard_time": 1711633581,
+        "rank": 34,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 269726,
+        "num": 269726,
+        "word": "雷军感谢多家车企",
+        "onboard_time": 1711624159,
+        "rank": 35,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 269244,
+        "num": 269244,
+        "word": "李李没笑 但辛芷蕾笑了",
+        "onboard_time": 1711638200,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 265463,
+        "num": 265463,
+        "word": "港媒辣评赵露思造型",
+        "onboard_time": 1711615698,
+        "rank": 37,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 264166,
+        "num": 264166,
+        "word": "极氪001",
+        "onboard_time": 1711632201,
+        "rank": 38,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 258695,
+        "num": 258695,
+        "word": "张元英听出来了粉丝是中国人",
+        "onboard_time": 1711625718,
+        "rank": 39,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 247770,
+        "num": 247770,
+        "word": "爱吃辣的人癌症死亡率比同龄人要低",
+        "onboard_time": 1711622538,
+        "rank": 40,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 240978,
+        "num": 240978,
+        "word": "小米汽车销量",
+        "onboard_time": 1711637960,
+        "rank": 41,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 223551,
+        "num": 223551,
+        "word": "柳智敏签售切小屏",
+        "onboard_time": 1711629441,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 217134,
+        "num": 217134,
+        "word": "买车跟买手机一样",
+        "onboard_time": 1711639940,
+        "rank": 43,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 216133,
+        "num": 216133,
+        "word": "周迅胡歌辛芷蕾吃瓜表情",
+        "onboard_time": 1711640060,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 204395,
+        "num": 204395,
+        "word": "LGD战胜VG",
+        "onboard_time": 1711639581,
+        "rank": 45,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 199625,
+        "num": 199625,
+        "word": "小米SU7 保时捷",
+        "onboard_time": 1711634061,
+        "rank": 46,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 198948,
+        "num": 198948,
+        "word": "赵丽颖发光神女妆造",
+        "onboard_time": 1711640000,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 72943,
+        "num": 193227,
+        "word": "李铁案择期宣判",
+        "onboard_time": 1711631003,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 69065,
+        "num": 191990,
+        "word": "王曼昱晋级",
+        "onboard_time": 1711633040,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#中央军委举行晋升上将军衔仪式#"
+    }
+  }
+}

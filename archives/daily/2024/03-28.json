@@ -1,6 +1,6 @@
 {
   "startTime": 1711556587484,
-  "endTime": 1711639141968,
+  "endTime": 1711640082556,
   "band_list": [
     {
       "raw_hot": 21250232,
@@ -388,7 +388,7 @@
     },
     {
       "raw_hot": 674451,
-      "num": 603201,
+      "num": 620505,
       "word": "王阳居然和赵丽颖合作过",
       "onboard_time": 1711635081,
       "rank": 26,
@@ -603,6 +603,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 541301,
+      "num": 541301,
+      "word": "黄景瑜直播中途脱衣服",
+      "onboard_time": 1711639161,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 524373,
       "num": 852497,
       "word": "李铁案择期宣判",
@@ -716,7 +724,7 @@
     },
     {
       "raw_hot": 475254,
-      "num": 494179,
+      "num": 519684,
       "word": "负债4万考公上岸值得吗",
       "onboard_time": 1711616838,
       "rank": 20,
@@ -1259,6 +1267,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 300185,
+      "num": 358835,
+      "word": "95后女生每月副业收入过万",
+      "onboard_time": 1711638200,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 298982,
       "num": 298982,
       "word": "光与夜之恋",
@@ -1481,6 +1497,14 @@
       "onboard_time": 1711632741,
       "rank": 43,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 252432,
+      "num": 522902,
+      "word": "选的刮刮卡被店员卖给别人错失100万",
+      "onboard_time": 1711638681,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 252039,
@@ -1819,12 +1843,28 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 217134,
+      "num": 217134,
+      "word": "买车跟买手机一样",
+      "onboard_time": 1711639940,
+      "rank": 43,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 217087,
       "num": 217087,
       "word": "李玟姐姐回应AI李玟",
       "onboard_time": 1711610239,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 216133,
+      "num": 216133,
+      "word": "周迅胡歌辛芷蕾吃瓜表情",
+      "onboard_time": 1711640060,
+      "rank": 44,
+      "category": "剧集"
     },
     {
       "raw_hot": 214376,
@@ -1939,6 +1979,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 204395,
+      "num": 204395,
+      "word": "LGD战胜VG",
+      "onboard_time": 1711639581,
+      "rank": 45,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 204003,
       "num": 204003,
       "word": "温碧霞头发被蜡烛点着了",
@@ -2049,6 +2097,14 @@
       "onboard_time": 1711595658,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 198948,
+      "num": 198948,
+      "word": "赵丽颖发光神女妆造",
+      "onboard_time": 1711640000,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 198759,
@@ -2273,14 +2329,6 @@
       "onboard_time": 1711597999,
       "rank": 37,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 184344,
-      "num": 358835,
-      "word": "95后女生每月副业收入过万",
-      "onboard_time": 1711638200,
-      "rank": 29,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 184209,
@@ -3217,14 +3265,6 @@
       "onboard_time": 1711625598,
       "rank": 48,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 97602,
-      "num": 302110,
-      "word": "选的刮刮卡被店员卖给别人错失100万",
-      "onboard_time": 1711638681,
-      "rank": 34,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 96686,
