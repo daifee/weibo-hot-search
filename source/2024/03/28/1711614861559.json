@@ -1,0 +1,410 @@
+{
+  "runTime": 1711614861559,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 764122,
+        "num": 764122,
+        "word": "张元英小草莓",
+        "onboard_time": 1711609218,
+        "rank": 0,
+        "category": "演出,美妆"
+      },
+      {
+        "raw_hot": 597185,
+        "num": 597185,
+        "word": "日本官员称已开始紧急检查功能性标识食品",
+        "onboard_time": 1711609456,
+        "rank": 1,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 30230,
+        "num": 556920,
+        "word": "第十一届中国网络视听大会开幕",
+        "onboard_time": 1711594578,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 672592,
+        "num": 546080,
+        "word": "孩子随母姓后夫妻陷入博弈",
+        "onboard_time": 1711607116,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 634835,
+        "num": 536328,
+        "word": "山西订婚强奸案彩礼纠纷案一审宣判",
+        "onboard_time": 1711603940,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 517253,
+        "num": 517253,
+        "word": "月经第一天是最疼的",
+        "onboard_time": 1711609878,
+        "rank": 5,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 294041,
+        "num": 294041,
+        "word": "小米汽车SU7四个配置版本疑似曝光",
+        "onboard_time": 1711609157,
+        "rank": 6,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 286439,
+        "num": 286439,
+        "word": "关晓彤抹胸浪花裙",
+        "onboard_time": 1711609276,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 260894,
+        "num": 260894,
+        "word": "张艺兴富养女团穷养男团",
+        "onboard_time": 1711605139,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 173432,
+        "num": 245758,
+        "word": "陈戌源曾劝李铁退还4800万遭拒绝",
+        "onboard_time": 1711593137,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 313979,
+        "num": 245520,
+        "word": "减肥期间不吃主食会怎么样",
+        "onboard_time": 1711608497,
+        "rank": 10,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 295662,
+        "num": 245283,
+        "word": "饼子不隔夜卖不干净送干净",
+        "onboard_time": 1711612518,
+        "rank": 11,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 244857,
+        "num": 244857,
+        "word": "图书馆里考公人和考研人的区别",
+        "onboard_time": 1711609157,
+        "rank": 12,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 237750,
+        "num": 237750,
+        "word": "王俊凯金尘茶",
+        "onboard_time": 1711609878,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 223651,
+        "num": 223651,
+        "word": "抑郁症对大脑的损害是永久性的吗",
+        "onboard_time": 1711613898,
+        "rank": 14,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 219978,
+        "num": 219978,
+        "word": "百日咳再现",
+        "onboard_time": 1711604419,
+        "rank": 15,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 203991,
+        "num": 203991,
+        "word": "假白的防晒有多社死",
+        "onboard_time": 1711613418,
+        "rank": 16,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 203155,
+        "num": 203155,
+        "word": "孙颖莎赛后采访",
+        "onboard_time": 1711614378,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 191972,
+        "num": 191972,
+        "word": "朱一龙担任北影节天坛奖评委",
+        "onboard_time": 1711614798,
+        "rank": 18,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 186281,
+        "num": 186281,
+        "word": "孟佳说张艺兴太溺爱了",
+        "onboard_time": 1711611317,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 182494,
+        "num": 182494,
+        "word": "原来女生爱旅游在相亲届扣大分",
+        "onboard_time": 1711612398,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 169769,
+        "num": 169769,
+        "word": "赵丽颖的脸比小朋友还小",
+        "onboard_time": 1711596919,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 165257,
+        "num": 165257,
+        "word": "孕期饮食或影响胎儿容貌",
+        "onboard_time": 1711609699,
+        "rank": 22,
+        "category": "母婴育儿"
+      },
+      {
+        "raw_hot": 161028,
+        "num": 161028,
+        "word": "要多靠近生命力旺盛的人",
+        "onboard_time": 1711610959,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 157009,
+        "num": 157009,
+        "word": "雷军称终于到了交作业的时候",
+        "onboard_time": 1711603400,
+        "rank": 24,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 155535,
+        "num": 155535,
+        "word": "李铁案时间线梳理",
+        "onboard_time": 1711599919,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 153751,
+        "num": 153751,
+        "word": "李铁",
+        "onboard_time": 1711593557,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 148194,
+        "num": 148194,
+        "word": "山西订婚案男方母亲回应一审判决",
+        "onboard_time": 1711613957,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 147604,
+        "num": 147604,
+        "word": "苏诗丁 我参加过离婚综艺你们有么",
+        "onboard_time": 1711614497,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 73032,
+        "num": 147035,
+        "word": "南通禁止制销冥币是否有法可依",
+        "onboard_time": 1711603400,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 146769,
+        "num": 146769,
+        "word": "极限挑战把黄景瑜从品质盛典绑走了",
+        "onboard_time": 1711598898,
+        "rank": 30,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 145242,
+        "num": 145242,
+        "word": "殡葬用品店家称为数万元存货发愁",
+        "onboard_time": 1711607957,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 140027,
+        "num": 140027,
+        "word": "王一博看拜师眼眶红了",
+        "onboard_time": 1711614258,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 138813,
+        "num": 138813,
+        "word": "香奈儿经典款手袋破9万元",
+        "onboard_time": 1711612158,
+        "rank": 33,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 134732,
+        "num": 134732,
+        "word": "张真源核心好强",
+        "onboard_time": 1711612277,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 131513,
+        "num": 131513,
+        "word": "宋雨琦周深卖山竹",
+        "onboard_time": 1711613179,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 127870,
+        "num": 127870,
+        "word": "农村流水席给我香迷糊了",
+        "onboard_time": 1711611378,
+        "rank": 36,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 127478,
+        "num": 127478,
+        "word": "花间令只有哥哥还记得上官芷",
+        "onboard_time": 1711614618,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 125801,
+        "num": 125801,
+        "word": "这公交站名是生怕我坐对吗",
+        "onboard_time": 1711613598,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 121720,
+        "num": 121720,
+        "word": "华为P70",
+        "onboard_time": 1711594338,
+        "rank": 39,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 121512,
+        "num": 121512,
+        "word": "射雕",
+        "onboard_time": 1711609878,
+        "rank": 40,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 121606,
+        "num": 121025,
+        "word": "李玟姐姐回应AI李玟",
+        "onboard_time": 1711610239,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 117596,
+        "num": 117596,
+        "word": "北京师范大学教授 发传单授课",
+        "onboard_time": 1711605800,
+        "rank": 42,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 112568,
+        "num": 112568,
+        "word": "订婚后发现女朋友之前确诊双相",
+        "onboard_time": 1711589778,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 111895,
+        "num": 111895,
+        "word": "孙颖莎3比0平野美宇",
+        "onboard_time": 1711609276,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 108334,
+        "num": 108334,
+        "word": "杨幂嘉人5套高定",
+        "onboard_time": 1711603879,
+        "rank": 45,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 106283,
+        "num": 106283,
+        "word": "李遐怡离开AOMG",
+        "onboard_time": 1711608318,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 106164,
+        "num": 106164,
+        "word": "米卢曾赞李铁是上帝赐给中国足球的礼物",
+        "onboard_time": 1711614738,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 105860,
+        "num": 105860,
+        "word": "张多雅不想被贴张元英姐姐标签",
+        "onboard_time": 1711610598,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 102904,
+        "num": 102904,
+        "word": "小米王化回应SU7试驾视频泄露",
+        "onboard_time": 1711611678,
+        "rank": 49,
+        "category": "汽车"
+      }
+    ],
+    "hotgov": {
+      "word": "#中美关系事关人类前途命运#"
+    }
+  }
+}
