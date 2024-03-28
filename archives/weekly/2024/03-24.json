@@ -1,6 +1,6 @@
 {
   "startTime": 1711210803824,
-  "endTime": 1711660582532,
+  "endTime": 1711661659354,
   "band_list": [
     {
       "raw_hot": 21250232,
@@ -14667,6 +14667,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 56911,
+      "num": 56911,
+      "word": "内娱是真缺舞台啊",
+      "onboard_time": 1711655412,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 56863,
       "num": 69885,
       "word": "天价彩礼何时休",
@@ -14681,14 +14689,6 @@
       "onboard_time": 1711509318,
       "rank": 46,
       "category": "数码"
-    },
-    {
-      "raw_hot": 52839,
-      "num": 52839,
-      "word": "内娱是真缺舞台啊",
-      "onboard_time": 1711655412,
-      "rank": 21,
-      "category": "综艺"
     },
     {
       "raw_hot": 52825,
@@ -14961,6 +14961,14 @@
       "onboard_time": 1711399270,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 38952,
+      "num": 38952,
+      "word": "余承东",
+      "onboard_time": 1711659371,
+      "rank": 31,
+      "category": "互联网"
     },
     {
       "raw_hot": 37612,
@@ -15283,12 +15291,12 @@
       "category": "自然,科学科普"
     },
     {
-      "raw_hot": 21416,
-      "num": 21416,
-      "word": "余承东",
-      "onboard_time": 1711659371,
-      "rank": 31,
-      "category": "互联网"
+      "raw_hot": 20814,
+      "num": 20814,
+      "word": "被男朋友给点的外卖气笑了",
+      "onboard_time": 1711657570,
+      "rank": 46,
+      "category": "情感"
     },
     {
       "raw_hot": 20350,
@@ -15299,6 +15307,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 20121,
+      "num": 20121,
+      "word": "为什么劝你春天别乱买菠萝吃",
+      "onboard_time": 1711660631,
+      "rank": 39,
+      "category": "美食"
+    },
+    {
       "raw_hot": 20066,
       "num": 169042,
       "word": "2024济南花朝节开幕",
@@ -15307,20 +15323,20 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 20002,
+      "num": 20002,
+      "word": "华为汽车",
+      "onboard_time": 1711659851,
+      "rank": 41,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 19900,
       "num": 19900,
       "word": "网友 发出去把仇人笑死是吗",
       "onboard_time": 1711312270,
       "rank": 49,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 18748,
-      "num": 18748,
-      "word": "被男朋友给点的外卖气笑了",
-      "onboard_time": 1711657570,
-      "rank": 46,
-      "category": "情感"
     },
     {
       "raw_hot": 18051,
@@ -15337,14 +15353,6 @@
       "onboard_time": 1711226052,
       "rank": 49,
       "category": "美食"
-    },
-    {
-      "raw_hot": 16977,
-      "num": 16977,
-      "word": "华为汽车",
-      "onboard_time": 1711659851,
-      "rank": 41,
-      "category": "汽车"
     },
     {
       "raw_hot": 16903,
@@ -15379,6 +15387,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 15939,
+      "num": 18211,
+      "word": "小爱同学出息了",
+      "onboard_time": 1711660510,
+      "rank": 48,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 15279,
       "num": 15279,
       "word": "没和蔡依林一起去",
@@ -15409,14 +15425,6 @@
       "onboard_time": 1711567511,
       "rank": 48,
       "category": "教育"
-    },
-    {
-      "raw_hot": 13088,
-      "num": 16188,
-      "word": "小爱同学出息了",
-      "onboard_time": 1711660510,
-      "rank": 48,
-      "category": "汽车"
     },
     {
       "raw_hot": 13083,
