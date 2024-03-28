@@ -1,7 +1,15 @@
 {
   "startTime": 1711556587484,
-  "endTime": 1711625652276,
+  "endTime": 1711629179365,
   "band_list": [
+    {
+      "raw_hot": 10819269,
+      "num": 10819269,
+      "word": "小米SU7价格",
+      "onboard_time": 1711627097,
+      "rank": 0,
+      "category": "汽车"
+    },
     {
       "raw_hot": 5288727,
       "num": 5288727,
@@ -35,12 +43,28 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 1722858,
+      "num": 1722858,
+      "word": "存款到10万是什么感觉",
+      "onboard_time": 1711625898,
+      "rank": 3,
+      "category": "情感"
+    },
+    {
       "raw_hot": 1524970,
       "num": 1524970,
       "word": "黄晓明航班取消",
       "onboard_time": 1711589958,
       "rank": 0,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1357405,
+      "num": 1357405,
+      "word": "雷军排面",
+      "onboard_time": 1711624097,
+      "rank": 30,
+      "category": "数码"
     },
     {
       "raw_hot": 1267911,
@@ -97,14 +121,6 @@
       "onboard_time": 1711615338,
       "rank": 1,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1016887,
-      "num": 582851,
-      "word": "雷军排面",
-      "onboard_time": 1711624097,
-      "rank": 30,
-      "category": "数码"
     },
     {
       "raw_hot": 990309,
@@ -179,6 +195,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 837212,
+      "num": 837212,
+      "word": "造车很苦 但成功一定很酷",
+      "onboard_time": 1711626259,
+      "rank": 7,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 829380,
       "num": 429259,
       "word": "韩素希连更4条ins",
@@ -243,8 +267,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 735415,
-      "num": 735415,
+      "raw_hot": 740148,
+      "num": 740148,
       "word": "小米SU7价格预测",
       "onboard_time": 1711622179,
       "rank": 25,
@@ -281,6 +305,22 @@
       "onboard_time": 1711590678,
       "rank": 4,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 697637,
+      "num": 697637,
+      "word": "女性最无声的炫富",
+      "onboard_time": 1711624398,
+      "rank": 37,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 696435,
+      "num": 696435,
+      "word": "雷军 遥遥领先",
+      "onboard_time": 1711627458,
+      "rank": 12,
+      "category": "汽车"
     },
     {
       "raw_hot": 675613,
@@ -619,6 +659,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 436052,
+      "num": 436052,
+      "word": "张元英听出来了粉丝是中国人",
+      "onboard_time": 1711625718,
+      "rank": 13,
+      "category": "演出"
+    },
+    {
       "raw_hot": 433587,
       "num": 433587,
       "word": "李铁",
@@ -704,6 +752,14 @@
       "word": "贾乃亮买10斤瓜子坐绿皮火车",
       "onboard_time": 1711619479,
       "rank": 21,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 374626,
+      "num": 374626,
+      "word": "极限挑战",
+      "onboard_time": 1711551318,
+      "rank": 8,
       "category": "综艺"
     },
     {
@@ -931,14 +987,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 293259,
-      "num": 293259,
-      "word": "女性最无声的炫富",
-      "onboard_time": 1711624398,
-      "rank": 37,
-      "category": "情感"
-    },
-    {
       "raw_hot": 291266,
       "num": 291266,
       "word": "小米SU7霞光紫",
@@ -971,14 +1019,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 284399,
-      "num": 284399,
-      "word": "极限挑战",
-      "onboard_time": 1711551318,
-      "rank": 8,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 282243,
       "num": 282243,
       "word": "TheShy问Ning去不去nip",
@@ -993,6 +1033,14 @@
       "onboard_time": 1711591998,
       "rank": 24,
       "category": "财经"
+    },
+    {
+      "raw_hot": 275474,
+      "num": 759646,
+      "word": "鼠头鸭脖涉事方被列为严重违法失信",
+      "onboard_time": 1711625958,
+      "rank": 8,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 273934,
@@ -1059,6 +1107,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 255665,
+      "num": 749070,
+      "word": "樊振东晋级",
+      "onboard_time": 1711626560,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
       "raw_hot": 255222,
       "num": 255222,
       "word": "金晨交叉挂脖裙",
@@ -1091,6 +1147,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 251041,
+      "num": 251041,
+      "word": "小米SU7首发共9款颜色",
+      "onboard_time": 1711626498,
+      "rank": 21,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 250140,
       "num": 250140,
       "word": "五月天香港抢票",
@@ -1115,6 +1179,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 246558,
+      "num": 246558,
+      "word": "贾乃亮黄晓明黄景瑜吃铁锅炖大鱼",
+      "onboard_time": 1711628541,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 245995,
       "num": 245995,
       "word": "王一博听到并立于雪山之巅笑了",
@@ -1137,6 +1209,14 @@
       "onboard_time": 1711609276,
       "rank": 20,
       "category": "体育"
+    },
+    {
+      "raw_hot": 241706,
+      "num": 241706,
+      "word": "小米配件发布会",
+      "onboard_time": 1711627519,
+      "rank": 23,
+      "category": "汽车"
     },
     {
       "raw_hot": 238584,
@@ -1179,12 +1259,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 233176,
+      "num": 233176,
+      "word": "天蝎座软硬都不吃",
+      "onboard_time": 1711625898,
+      "rank": 24,
+      "category": "情感"
+    },
+    {
       "raw_hot": 233123,
       "num": 154892,
       "word": "导致胃部癌变的6大因素",
       "onboard_time": 1711552818,
       "rank": 22,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 232808,
+      "num": 232808,
+      "word": "微信半夜自己给别人发信息",
+      "onboard_time": 1711625059,
+      "rank": 32,
+      "category": "情感"
     },
     {
       "raw_hot": 232454,
@@ -1233,6 +1329,14 @@
       "onboard_time": 1711619240,
       "rank": 22,
       "category": "演出"
+    },
+    {
+      "raw_hot": 229369,
+      "num": 229369,
+      "word": "追风者导演回应给王一博通电",
+      "onboard_time": 1711627699,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 228265,
@@ -1356,7 +1460,7 @@
     },
     {
       "raw_hot": 210820,
-      "num": 210820,
+      "num": 228076,
       "word": "女子遭丈夫家暴后死亡",
       "onboard_time": 1711621219,
       "rank": 33,
@@ -1409,6 +1513,14 @@
       "onboard_time": 1711587259,
       "rank": 26,
       "category": "情感"
+    },
+    {
+      "raw_hot": 206152,
+      "num": 206152,
+      "word": "李斌 小米发布会",
+      "onboard_time": 1711626437,
+      "rank": 34,
+      "category": "数码"
     },
     {
       "raw_hot": 205205,
@@ -1539,6 +1651,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 198754,
+      "num": 198754,
+      "word": "Vidda回应小米诉讼",
+      "onboard_time": 1711615338,
+      "rank": 49,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 198738,
       "num": 198738,
       "word": "浪姐5",
@@ -1651,6 +1771,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 191462,
+      "num": 191462,
+      "word": "肠癌真的一发现就是中晚期吗",
+      "onboard_time": 1711628962,
+      "rank": 37,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 191398,
       "num": 191398,
       "word": "地磁暴后遗症",
@@ -1689,14 +1817,6 @@
       "onboard_time": 1711608318,
       "rank": 30,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 189031,
-      "num": 189031,
-      "word": "微信半夜自己给别人发信息",
-      "onboard_time": 1711625059,
-      "rank": 32,
-      "category": "情感"
     },
     {
       "raw_hot": 188728,
@@ -2003,6 +2123,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 164678,
+      "num": 164678,
+      "word": "新浪娱乐头像",
+      "onboard_time": 1711620020,
+      "rank": 27,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 162979,
       "num": 162979,
       "word": "头戴式耳机对发型的伤害",
@@ -2107,20 +2235,20 @@
       "category": "财经"
     },
     {
-      "raw_hot": 156917,
-      "num": 156917,
-      "word": "新浪娱乐头像",
-      "onboard_time": 1711620020,
-      "rank": 27,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 156839,
       "num": 166066,
       "word": "医生教你2个动作锻炼手腕",
       "onboard_time": 1711606458,
       "rank": 34,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 156573,
+      "num": 156573,
+      "word": "虞书欣复古灰色套装",
+      "onboard_time": 1711626077,
+      "rank": 45,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 155799,
@@ -2209,6 +2337,14 @@
       "onboard_time": 1711612277,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 149714,
+      "num": 149714,
+      "word": "龚俊李雪琴脱口秀",
+      "onboard_time": 1711629079,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 148868,
@@ -2491,14 +2627,6 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 116955,
-      "num": 116955,
-      "word": "Vidda回应小米诉讼",
-      "onboard_time": 1711615338,
-      "rank": 49,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 115828,
       "num": 115828,
       "word": "仁川赛孙颖莎晋级16强",
@@ -2633,6 +2761,14 @@
       "onboard_time": 1711581855,
       "rank": 33,
       "category": "社会新闻,美食"
+    },
+    {
+      "raw_hot": 98962,
+      "num": 140744,
+      "word": "媒体人称李铁大概率被判10年以上",
+      "onboard_time": 1711627640,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 97665,
@@ -2945,6 +3081,14 @@
       "onboard_time": 1711603940,
       "rank": 45,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 28968,
+      "num": 2820626,
+      "word": "2024中国网络媒体论坛",
+      "onboard_time": 1711628721,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 26705,
