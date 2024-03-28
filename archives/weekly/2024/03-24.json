@@ -1,6 +1,6 @@
 {
   "startTime": 1711210803824,
-  "endTime": 1711603163029,
+  "endTime": 1711604101917,
   "band_list": [
     {
       "raw_hot": 3922233,
@@ -2147,6 +2147,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 622249,
+      "num": 622249,
+      "word": "张艺兴个人简历",
+      "onboard_time": 1711601300,
+      "rank": 11,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 620473,
       "num": 620473,
       "word": "百度将为国行iPhone16提供AI功能",
@@ -2787,6 +2795,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 520124,
+      "num": 520124,
+      "word": "男子专升本考试语种错选成俄语",
+      "onboard_time": 1711599679,
+      "rank": 35,
+      "category": "教育"
+    },
+    {
       "raw_hot": 520103,
       "num": 520103,
       "word": "叶蓁蓁 远离假性友谊",
@@ -2833,14 +2849,6 @@
       "onboard_time": 1711365378,
       "rank": 20,
       "category": "情感"
-    },
-    {
-      "raw_hot": 513987,
-      "num": 513987,
-      "word": "男子专升本考试语种错选成俄语",
-      "onboard_time": 1711599679,
-      "rank": 35,
-      "category": "教育"
     },
     {
       "raw_hot": 513831,
@@ -3923,14 +3931,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 393799,
-      "num": 393799,
-      "word": "张艺兴个人简历",
-      "onboard_time": 1711601300,
-      "rank": 11,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 392987,
       "num": 392987,
       "word": "林更新直播",
@@ -4763,6 +4763,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 312759,
+      "num": 312759,
+      "word": "祁煜黑背心",
+      "onboard_time": 1711603340,
+      "rank": 14,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 312559,
       "num": 312559,
       "word": "王楚然吃面照",
@@ -4841,6 +4849,14 @@
       "onboard_time": 1711297038,
       "rank": 23,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 304373,
+      "num": 304373,
+      "word": "就这个恋与深空爽",
+      "onboard_time": 1711603459,
+      "rank": 15,
+      "category": "游戏"
     },
     {
       "raw_hot": 304009,
@@ -5299,6 +5315,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 277626,
+      "num": 277626,
+      "word": "小米SU7霞光紫",
+      "onboard_time": 1711602321,
+      "rank": 26,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 277549,
       "num": 207321,
       "word": "有的树一出生就是陈皮",
@@ -5729,6 +5753,14 @@
       "onboard_time": 1711243639,
       "rank": 26,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 255222,
+      "num": 255222,
+      "word": "金晨交叉挂脖裙",
+      "onboard_time": 1711602980,
+      "rank": 32,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 254256,
@@ -6611,14 +6643,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 225809,
-      "num": 225809,
-      "word": "小米SU7霞光紫",
-      "onboard_time": 1711602321,
-      "rank": 26,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 225523,
       "num": 234773,
       "word": "李铁案时间线梳理",
@@ -7035,6 +7059,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 210664,
+      "num": 210664,
+      "word": "雷军称终于到了交作业的时候",
+      "onboard_time": 1711603400,
+      "rank": 26,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 210269,
       "num": 256524,
       "word": "国足2024年首胜",
@@ -7065,6 +7097,14 @@
       "onboard_time": 1711348219,
       "rank": 29,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 210059,
+      "num": 210059,
+      "word": "南通禁止制销冥币是否有法可依",
+      "onboard_time": 1711603400,
+      "rank": 27,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 209851,
@@ -7225,14 +7265,6 @@
       "onboard_time": 1711357818,
       "rank": 33,
       "category": "体育"
-    },
-    {
-      "raw_hot": 206398,
-      "num": 206398,
-      "word": "金晨交叉挂脖裙",
-      "onboard_time": 1711602980,
-      "rank": 32,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 205665,
@@ -7441,6 +7473,14 @@
       "onboard_time": 1711583539,
       "rank": 27,
       "category": "美食,社会新闻"
+    },
+    {
+      "raw_hot": 201538,
+      "num": 196569,
+      "word": "韩国化妆棉塌房",
+      "onboard_time": 1711603759,
+      "rank": 30,
+      "category": "美妆"
     },
     {
       "raw_hot": 201438,
@@ -7907,6 +7947,14 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 193370,
+      "num": 193370,
+      "word": "白鹿范丞丞卖芒果",
+      "onboard_time": 1711603578,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 193319,
       "num": 193319,
       "word": "范丞丞手绘海报图",
@@ -8001,6 +8049,14 @@
       "onboard_time": 1711462940,
       "rank": 43,
       "category": "体育"
+    },
+    {
+      "raw_hot": 192368,
+      "num": 192368,
+      "word": "小米SU7",
+      "onboard_time": 1711602861,
+      "rank": 39,
+      "category": "汽车"
     },
     {
       "raw_hot": 192360,
@@ -8363,6 +8419,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 186836,
+      "num": 186836,
+      "word": "杨幂嘉人5套高定",
+      "onboard_time": 1711603879,
+      "rank": 34,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 186618,
       "num": 157776,
       "word": "丁子峻转发赵丽颖沈璃",
@@ -8603,6 +8667,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 182038,
+      "num": 182038,
+      "word": "山西订婚强奸案彩礼纠纷案一审宣判",
+      "onboard_time": 1711603940,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 181662,
       "num": 181662,
       "word": "下班后快速回血的方式",
@@ -8649,14 +8721,6 @@
       "onboard_time": 1711264999,
       "rank": 32,
       "category": "体育"
-    },
-    {
-      "raw_hot": 180568,
-      "num": 180568,
-      "word": "小米SU7",
-      "onboard_time": 1711602861,
-      "rank": 39,
-      "category": "汽车"
     },
     {
       "raw_hot": 180476,
@@ -9883,6 +9947,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 157803,
+      "num": 157803,
+      "word": "60岁癌症发病率约为30岁的七倍",
+      "onboard_time": 1711603820,
+      "rank": 43,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 157786,
       "num": 168638,
       "word": "詹姆斯很急",
@@ -10129,6 +10201,14 @@
       "onboard_time": 1711594637,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 153512,
+      "num": 153512,
+      "word": "B站回应北师大教授发传单推荐免费课",
+      "onboard_time": 1711603998,
+      "rank": 46,
+      "category": "互联网"
     },
     {
       "raw_hot": 153311,
@@ -13187,6 +13267,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 30646,
+      "num": 154329,
+      "word": "阿里AI将接入各类安卓手机",
+      "onboard_time": 1711603940,
+      "rank": 45,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 30449,
       "num": 414659,
       "word": "何杰回应再破国家纪录",
@@ -13525,6 +13613,9 @@
     },
     {
       "word": "#中美关系回不到过去但能够有更好的未来#"
+    },
+    {
+      "word": "#中美关系事关人类前途命运#"
     }
   ]
 }

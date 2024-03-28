@@ -1,6 +1,6 @@
 {
   "startTime": 1711556587484,
-  "endTime": 1711603163029,
+  "endTime": 1711604101917,
   "band_list": [
     {
       "raw_hot": 1804586,
@@ -187,6 +187,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 622249,
+      "num": 622249,
+      "word": "张艺兴个人简历",
+      "onboard_time": 1711601300,
+      "rank": 11,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 620828,
       "num": 620828,
       "word": "冯提莫腰线",
@@ -251,8 +259,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 513987,
-      "num": 513987,
+      "raw_hot": 520124,
+      "num": 520124,
       "word": "男子专升本考试语种错选成俄语",
       "onboard_time": 1711599679,
       "rank": 35,
@@ -379,14 +387,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 393799,
-      "num": 393799,
-      "word": "张艺兴个人简历",
-      "onboard_time": 1711601300,
-      "rank": 11,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 392818,
       "num": 386702,
       "word": "真想给HR开个不孕不育证明",
@@ -491,12 +491,28 @@
       "category": "财经"
     },
     {
+      "raw_hot": 312759,
+      "num": 312759,
+      "word": "祁煜黑背心",
+      "onboard_time": 1711603340,
+      "rank": 14,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 309855,
       "num": 309714,
       "word": "猫咪洗澡后被奶奶挂起来晒干",
       "onboard_time": 1711599200,
       "rank": 30,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 304373,
+      "num": 304373,
+      "word": "就这个恋与深空爽",
+      "onboard_time": 1711603459,
+      "rank": 15,
+      "category": "游戏"
     },
     {
       "raw_hot": 300702,
@@ -555,6 +571,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 277626,
+      "num": 277626,
+      "word": "小米SU7霞光紫",
+      "onboard_time": 1711602321,
+      "rank": 26,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 273934,
       "num": 273934,
       "word": "魏大勋说不清了",
@@ -593,6 +617,14 @@
       "onboard_time": 1711602321,
       "rank": 23,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 255222,
+      "num": 255222,
+      "word": "金晨交叉挂脖裙",
+      "onboard_time": 1711602980,
+      "rank": 32,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 253385,
@@ -739,14 +771,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 225809,
-      "num": 225809,
-      "word": "小米SU7霞光紫",
-      "onboard_time": 1711602321,
-      "rank": 26,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 225523,
       "num": 234773,
       "word": "李铁案时间线梳理",
@@ -819,12 +843,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 210664,
+      "num": 210664,
+      "word": "雷军称终于到了交作业的时候",
+      "onboard_time": 1711603400,
+      "rank": 26,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 210261,
       "num": 210261,
       "word": "王一博坚持给王阳搭戏",
       "onboard_time": 1711594157,
       "rank": 29,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 210059,
+      "num": 210059,
+      "word": "南通禁止制销冥币是否有法可依",
+      "onboard_time": 1711603400,
+      "rank": 27,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 209007,
@@ -849,14 +889,6 @@
       "onboard_time": 1711587259,
       "rank": 26,
       "category": "情感"
-    },
-    {
-      "raw_hot": 206398,
-      "num": 206398,
-      "word": "金晨交叉挂脖裙",
-      "onboard_time": 1711602980,
-      "rank": 32,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 205205,
@@ -889,6 +921,14 @@
       "onboard_time": 1711583539,
       "rank": 27,
       "category": "美食,社会新闻"
+    },
+    {
+      "raw_hot": 201538,
+      "num": 196569,
+      "word": "韩国化妆棉塌房",
+      "onboard_time": 1711603759,
+      "rank": 30,
+      "category": "美妆"
     },
     {
       "raw_hot": 201438,
@@ -931,6 +971,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 193370,
+      "num": 193370,
+      "word": "白鹿范丞丞卖芒果",
+      "onboard_time": 1711603578,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 193312,
       "num": 193312,
       "word": "总有人在名利场写诗",
@@ -952,6 +1000,14 @@
       "word": "小米SU7续航700公里起步",
       "onboard_time": 1711547541,
       "rank": 15,
+      "category": "汽车"
+    },
+    {
+      "raw_hot": 192368,
+      "num": 192368,
+      "word": "小米SU7",
+      "onboard_time": 1711602861,
+      "rank": 39,
       "category": "汽车"
     },
     {
@@ -1035,6 +1091,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 186836,
+      "num": 186836,
+      "word": "杨幂嘉人5套高定",
+      "onboard_time": 1711603879,
+      "rank": 34,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 185745,
       "num": 185745,
       "word": "刘涛新中式",
@@ -1059,12 +1123,12 @@
       "category": "动漫,作品衍生"
     },
     {
-      "raw_hot": 180568,
-      "num": 180568,
-      "word": "小米SU7",
-      "onboard_time": 1711602861,
-      "rank": 39,
-      "category": "汽车"
+      "raw_hot": 182038,
+      "num": 182038,
+      "word": "山西订婚强奸案彩礼纠纷案一审宣判",
+      "onboard_time": 1711603940,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 180476,
@@ -1251,6 +1315,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 157803,
+      "num": 157803,
+      "word": "60岁癌症发病率约为30岁的七倍",
+      "onboard_time": 1711603820,
+      "rank": 43,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 156990,
       "num": 156990,
       "word": "工商银行大手笔分红超千亿",
@@ -1273,6 +1345,14 @@
       "onboard_time": 1711594637,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 153512,
+      "num": 153512,
+      "word": "B站回应北师大教授发传单推荐免费课",
+      "onboard_time": 1711603998,
+      "rank": 46,
+      "category": "互联网"
     },
     {
       "raw_hot": 152668,
@@ -1755,6 +1835,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 30646,
+      "num": 154329,
+      "word": "阿里AI将接入各类安卓手机",
+      "onboard_time": 1711603940,
+      "rank": 45,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 26705,
       "num": 26705,
       "word": "金智媛演工作日的我",
@@ -1823,6 +1911,9 @@
     },
     {
       "word": "#习近平同美国工商界和战略学术界代表合影#"
+    },
+    {
+      "word": "#中美关系事关人类前途命运#"
     }
   ]
 }
