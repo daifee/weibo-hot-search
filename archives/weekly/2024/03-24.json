@@ -1,6 +1,6 @@
 {
   "startTime": 1711210803824,
-  "endTime": 1711621093949,
+  "endTime": 1711622194039,
   "band_list": [
     {
       "raw_hot": 3922233,
@@ -1123,6 +1123,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 923586,
+      "num": 923586,
+      "word": "父母瞒了我16年我不是他们亲生女儿",
+      "onboard_time": 1711616357,
+      "rank": 4,
+      "category": "情感"
+    },
+    {
       "raw_hot": 917921,
       "num": 511956,
       "word": "Angelababy杨超越互夸美甲",
@@ -1201,14 +1209,6 @@
       "onboard_time": 1711509737,
       "rank": 22,
       "category": "演出"
-    },
-    {
-      "raw_hot": 875262,
-      "num": 875262,
-      "word": "父母瞒了我16年我不是他们亲生女儿",
-      "onboard_time": 1711616357,
-      "rank": 4,
-      "category": "情感"
     },
     {
       "raw_hot": 868975,
@@ -2123,6 +2123,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 650351,
+      "num": 650351,
+      "word": "李铁的涉案金额可能比陈戌源还要大",
+      "onboard_time": 1711619419,
+      "rank": 6,
+      "category": "体育"
+    },
+    {
       "raw_hot": 647605,
       "num": 647605,
       "word": "爸爸因为妈妈要学车开始发癫",
@@ -2137,6 +2145,14 @@
       "onboard_time": 1711616538,
       "rank": 8,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 645028,
+      "num": 645028,
+      "word": "小米发布会",
+      "onboard_time": 1711615939,
+      "rank": 18,
+      "category": "数码"
     },
     {
       "raw_hot": 643477,
@@ -2217,14 +2233,6 @@
       "onboard_time": 1711584258,
       "rank": 4,
       "category": "教育"
-    },
-    {
-      "raw_hot": 624128,
-      "num": 624128,
-      "word": "李铁的涉案金额可能比陈戌源还要大",
-      "onboard_time": 1711619419,
-      "rank": 6,
-      "category": "体育"
     },
     {
       "raw_hot": 623763,
@@ -2331,6 +2339,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 606312,
+      "num": 606312,
+      "word": "现在的抑郁症在以前叫什么",
+      "onboard_time": 1711619599,
+      "rank": 12,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 603572,
       "num": 603572,
       "word": "strong哥",
@@ -2409,6 +2425,14 @@
       "onboard_time": 1711572670,
       "rank": 13,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 588748,
+      "num": 588748,
+      "word": "偷看前夫哥被发现的尴尬瞬间",
+      "onboard_time": 1711620138,
+      "rank": 16,
+      "category": "情感"
     },
     {
       "raw_hot": 586765,
@@ -2841,6 +2865,14 @@
       "onboard_time": 1711539377,
       "rank": 7,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 528373,
+      "num": 528373,
+      "word": "在朋友圈贬损王一博被判赔4万元",
+      "onboard_time": 1711620858,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 528167,
@@ -3340,7 +3372,7 @@
     },
     {
       "raw_hot": 475254,
-      "num": 230454,
+      "num": 236103,
       "word": "负债4万考公上岸值得吗",
       "onboard_time": 1711616838,
       "rank": 20,
@@ -3393,14 +3425,6 @@
       "onboard_time": 1711428200,
       "rank": 13,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 471133,
-      "num": 471133,
-      "word": "小米发布会",
-      "onboard_time": 1711615939,
-      "rank": 18,
-      "category": "数码"
     },
     {
       "raw_hot": 470503,
@@ -3625,14 +3649,6 @@
       "onboard_time": 1711261038,
       "rank": 41,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 450097,
-      "num": 450097,
-      "word": "现在的抑郁症在以前叫什么",
-      "onboard_time": 1711619599,
-      "rank": 12,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 448841,
@@ -4371,8 +4387,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 374244,
-      "num": 230352,
+      "raw_hot": 375001,
+      "num": 231843,
       "word": "贾乃亮买10斤瓜子坐绿皮火车",
       "onboard_time": 1711619479,
       "rank": 21,
@@ -5859,14 +5875,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 265183,
-      "num": 265183,
-      "word": "偷看前夫哥被发现的尴尬瞬间",
-      "onboard_time": 1711620138,
-      "rank": 16,
-      "category": "情感"
-    },
-    {
       "raw_hot": 264096,
       "num": 264096,
       "word": "陈戌源90度鞠躬向球迷道歉",
@@ -7051,6 +7059,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 224246,
+      "num": 224246,
+      "word": "多囊卵巢综合征会导致不孕吗",
+      "onboard_time": 1711621039,
+      "rank": 49,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 223744,
       "num": 223744,
       "word": "甘肃天水麻辣烫",
@@ -7089,14 +7105,6 @@
       "onboard_time": 1711523059,
       "rank": 28,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 223263,
-      "num": 223263,
-      "word": "在朋友圈贬损王一博被判赔4万元",
-      "onboard_time": 1711620858,
-      "rank": 23,
-      "category": "艺人"
     },
     {
       "raw_hot": 223002,
@@ -7241,6 +7249,14 @@
       "onboard_time": 1711572911,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 218599,
+      "num": 218599,
+      "word": "杨凯真的很爱王一博",
+      "onboard_time": 1711620739,
+      "rank": 32,
+      "category": "剧集"
     },
     {
       "raw_hot": 218397,
@@ -7456,6 +7472,14 @@
       "word": "周也潍坊",
       "onboard_time": 1711271598,
       "rank": 38,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 210456,
+      "num": 210456,
+      "word": "王俊凯快被玩坏了",
+      "onboard_time": 1711621759,
+      "rank": 24,
       "category": "艺人"
     },
     {
@@ -7771,6 +7795,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 203641,
+      "num": 203641,
+      "word": "小米SU7价格预测",
+      "onboard_time": 1711622179,
+      "rank": 25,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 203276,
       "num": 203276,
       "word": "赵露思生活plog",
@@ -7929,6 +7961,22 @@
       "onboard_time": 1711349358,
       "rank": 38,
       "category": "情感"
+    },
+    {
+      "raw_hot": 200833,
+      "num": 169477,
+      "word": "莫非导演真给王一博通了电",
+      "onboard_time": 1711621458,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 200782,
+      "num": 200782,
+      "word": "龚俊抢发工作室的图",
+      "onboard_time": 1711621517,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 200779,
@@ -8385,6 +8433,14 @@
       "onboard_time": 1711362318,
       "rank": 36,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 193410,
+      "num": 193410,
+      "word": "于适担任北影节短片单元评委",
+      "onboard_time": 1711621279,
+      "rank": 27,
+      "category": "电影"
     },
     {
       "raw_hot": 193383,
@@ -9180,7 +9236,7 @@
     },
     {
       "raw_hot": 180531,
-      "num": 143412,
+      "num": 161426,
       "word": "香菜春笋拌牛肉",
       "onboard_time": 1711619538,
       "rank": 30,
@@ -9209,6 +9265,14 @@
       "onboard_time": 1711599559,
       "rank": 48,
       "category": "演出"
+    },
+    {
+      "raw_hot": 180133,
+      "num": 180133,
+      "word": "终于知道年轻人为什么喜欢养宠物了",
+      "onboard_time": 1711617981,
+      "rank": 30,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 180102,
@@ -9393,14 +9457,6 @@
       "onboard_time": 1711441878,
       "rank": 45,
       "category": "美食"
-    },
-    {
-      "raw_hot": 176405,
-      "num": 173085,
-      "word": "终于知道年轻人为什么喜欢养宠物了",
-      "onboard_time": 1711617981,
-      "rank": 30,
-      "category": "幽默,情感"
     },
     {
       "raw_hot": 176390,
@@ -9748,7 +9804,7 @@
     },
     {
       "raw_hot": 169771,
-      "num": 142993,
+      "num": 145379,
       "word": "梦泪 谢谢大家的祝福",
       "onboard_time": 1711620378,
       "rank": 31,
@@ -9857,14 +9913,6 @@
       "onboard_time": 1711345518,
       "rank": 35,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 167738,
-      "num": 139824,
-      "word": "杨凯真的很爱王一博",
-      "onboard_time": 1711620739,
-      "rank": 32,
-      "category": "剧集"
     },
     {
       "raw_hot": 167517,
@@ -10313,6 +10361,14 @@
       "onboard_time": 1711610959,
       "rank": 40,
       "category": "情感"
+    },
+    {
+      "raw_hot": 161005,
+      "num": 161005,
+      "word": "女子遭丈夫家暴后死亡",
+      "onboard_time": 1711621219,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 160893,
@@ -10969,6 +11025,14 @@
       "onboard_time": 1711322777,
       "rank": 32,
       "category": "电影"
+    },
+    {
+      "raw_hot": 151123,
+      "num": 151123,
+      "word": "包三餐的工作真的很省钱",
+      "onboard_time": 1711620978,
+      "rank": 45,
+      "category": "情感"
     },
     {
       "raw_hot": 150946,
@@ -12411,6 +12475,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 126659,
+      "num": 126659,
+      "word": "我们到底在怀念2018年的什么",
+      "onboard_time": 1711618397,
+      "rank": 43,
+      "category": "情感"
+    },
+    {
       "raw_hot": 126396,
       "num": 126396,
       "word": "宝妈睡醒后看到父子俩在厨房做饭",
@@ -12481,14 +12553,6 @@
       "onboard_time": 1711535598,
       "rank": 48,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 125641,
-      "num": 125641,
-      "word": "我们到底在怀念2018年的什么",
-      "onboard_time": 1711618397,
-      "rank": 43,
-      "category": "情感"
     },
     {
       "raw_hot": 125355,
@@ -12705,6 +12769,14 @@
       "onboard_time": 1711263440,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 119528,
+      "num": 119528,
+      "word": "何小鹏预祝小米SU7大卖",
+      "onboard_time": 1711621937,
+      "rank": 45,
+      "category": "汽车"
     },
     {
       "raw_hot": 119392,
@@ -12987,14 +13059,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 111485,
-      "num": 111485,
-      "word": "包三餐的工作真的很省钱",
-      "onboard_time": 1711620978,
-      "rank": 45,
-      "category": "情感"
-    },
-    {
       "raw_hot": 111388,
       "num": 1236828,
       "word": "列车穿越粉色花海如漫画世界",
@@ -13009,6 +13073,14 @@
       "onboard_time": 1711321215,
       "rank": 29,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 110990,
+      "num": 110990,
+      "word": "女生举报遭生父性侵有证据在审查",
+      "onboard_time": 1711621937,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 110957,
@@ -13195,6 +13267,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 104664,
+      "num": 104664,
+      "word": "Vidda回应小米诉讼",
+      "onboard_time": 1711615338,
+      "rank": 49,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 104590,
       "num": 104590,
       "word": "卡琳娜 全知读者视角",
@@ -13289,14 +13369,6 @@
       "onboard_time": 1711581855,
       "rank": 33,
       "category": "社会新闻,美食"
-    },
-    {
-      "raw_hot": 98087,
-      "num": 98087,
-      "word": "多囊卵巢综合征会导致不孕吗",
-      "onboard_time": 1711621039,
-      "rank": 49,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 96795,
@@ -13660,7 +13732,7 @@
     },
     {
       "raw_hot": 66179,
-      "num": 507775,
+      "num": 611371,
       "word": "AI视频看武汉樱花满城",
       "onboard_time": 1711619419,
       "rank": 8,
@@ -13745,6 +13817,14 @@
       "onboard_time": 1711509318,
       "rank": 46,
       "category": "数码"
+    },
+    {
+      "raw_hot": 55595,
+      "num": 618332,
+      "word": "消防员扑灭山火在大雪中激动欢呼",
+      "onboard_time": 1711621579,
+      "rank": 8,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 52825,
@@ -13844,7 +13924,7 @@
     },
     {
       "raw_hot": 48857,
-      "num": 235741,
+      "num": 384488,
       "word": "帕梅拉代言喜茶的理由找到了",
       "onboard_time": 1711618219,
       "rank": 33,

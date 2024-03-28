@@ -1,0 +1,410 @@
+{
+  "runTime": 1711622194039,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1815015,
+        "num": 1815015,
+        "word": "浪姐5 退赛",
+        "onboard_time": 1711615999,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1085183,
+        "num": 1085183,
+        "word": "港媒辣评赵露思造型",
+        "onboard_time": 1711615698,
+        "rank": 1,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 39361,
+        "num": 932507,
+        "word": "博鳌亚洲论坛会场AI元素满满",
+        "onboard_time": 1711615878,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 923586,
+        "num": 923586,
+        "word": "父母瞒了我16年我不是他们亲生女儿",
+        "onboard_time": 1711616357,
+        "rank": 3,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 652254,
+        "num": 652254,
+        "word": "甘露寺回应招人",
+        "onboard_time": 1711615338,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 650351,
+        "num": 650351,
+        "word": "李铁的涉案金额可能比陈戌源还要大",
+        "onboard_time": 1711619419,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 645028,
+        "num": 645028,
+        "word": "小米发布会",
+        "onboard_time": 1711615939,
+        "rank": 6,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 644761,
+        "num": 644761,
+        "word": "刘耀文被北电国际班录取",
+        "onboard_time": 1711617739,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 55595,
+        "num": 618332,
+        "word": "消防员扑灭山火在大雪中激动欢呼",
+        "onboard_time": 1711621579,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 65316,
+        "num": 611371,
+        "word": "AI视频看武汉樱花满城",
+        "onboard_time": 1711619419,
+        "rank": 9,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 606312,
+        "num": 606312,
+        "word": "现在的抑郁症在以前叫什么",
+        "onboard_time": 1711619599,
+        "rank": 10,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 588748,
+        "num": 588748,
+        "word": "偷看前夫哥被发现的尴尬瞬间",
+        "onboard_time": 1711620138,
+        "rank": 11,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 528373,
+        "num": 528373,
+        "word": "在朋友圈贬损王一博被判赔4万元",
+        "onboard_time": 1711620858,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 437993,
+        "num": 437993,
+        "word": "香港女歌手黎明诗去世",
+        "onboard_time": 1711619059,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 435913,
+        "num": 435913,
+        "word": "山西订婚强奸案彩礼纠纷案一审宣判",
+        "onboard_time": 1711603940,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 394954,
+        "num": 394954,
+        "word": "白敬亭金晨给丁勇岱让C位",
+        "onboard_time": 1711616538,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 22362,
+        "num": 384488,
+        "word": "帕梅拉代言喜茶的理由找到了",
+        "onboard_time": 1711618219,
+        "rank": 16,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 375705,
+        "num": 375705,
+        "word": "沈月把自己P在了花上",
+        "onboard_time": 1711617798,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 260619,
+        "num": 260619,
+        "word": "张元英小草莓",
+        "onboard_time": 1711609218,
+        "rank": 18,
+        "category": "演出,美妆"
+      },
+      {
+        "raw_hot": 238684,
+        "num": 238684,
+        "word": "李一桐要和我结婚吗",
+        "onboard_time": 1711617739,
+        "rank": 19,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 398478,
+        "num": 236103,
+        "word": "负债4万考公上岸值得吗",
+        "onboard_time": 1711616838,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 375001,
+        "num": 231843,
+        "word": "贾乃亮买10斤瓜子坐绿皮火车",
+        "onboard_time": 1711619479,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 224246,
+        "num": 224246,
+        "word": "多囊卵巢综合征会导致不孕吗",
+        "onboard_time": 1711621039,
+        "rank": 22,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 218599,
+        "num": 218599,
+        "word": "杨凯真的很爱王一博",
+        "onboard_time": 1711620739,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 210456,
+        "num": 210456,
+        "word": "王俊凯快被玩坏了",
+        "onboard_time": 1711621759,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 203641,
+        "num": 203641,
+        "word": "小米SU7价格预测",
+        "onboard_time": 1711622179,
+        "rank": 25,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 200782,
+        "num": 200782,
+        "word": "龚俊抢发工作室的图",
+        "onboard_time": 1711621517,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 193410,
+        "num": 193410,
+        "word": "于适担任北影节短片单元评委",
+        "onboard_time": 1711621279,
+        "rank": 27,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 180133,
+        "num": 180133,
+        "word": "终于知道年轻人为什么喜欢养宠物了",
+        "onboard_time": 1711617981,
+        "rank": 28,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 178134,
+        "num": 178134,
+        "word": "孩子随母姓后夫妻陷入博弈",
+        "onboard_time": 1711607116,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 174897,
+        "num": 174897,
+        "word": "小米汽车SU7四个配置版本疑似曝光",
+        "onboard_time": 1711609157,
+        "rank": 30,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 200833,
+        "num": 169477,
+        "word": "莫非导演真给王一博通了电",
+        "onboard_time": 1711621458,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 161426,
+        "num": 161426,
+        "word": "香菜春笋拌牛肉",
+        "onboard_time": 1711619538,
+        "rank": 32,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 161005,
+        "num": 161005,
+        "word": "女子遭丈夫家暴后死亡",
+        "onboard_time": 1711621219,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 160806,
+        "num": 160806,
+        "word": "月经第一天是最疼的",
+        "onboard_time": 1711609878,
+        "rank": 34,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 151978,
+        "num": 151978,
+        "word": "胡歌高圆圆新片入围北影节主竞赛",
+        "onboard_time": 1711616058,
+        "rank": 35,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 151123,
+        "num": 151123,
+        "word": "包三餐的工作真的很省钱",
+        "onboard_time": 1711620978,
+        "rank": 36,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 145379,
+        "num": 145379,
+        "word": "梦泪 谢谢大家的祝福",
+        "onboard_time": 1711620378,
+        "rank": 37,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 144045,
+        "num": 144045,
+        "word": "薛之谦杭州",
+        "onboard_time": 1711619240,
+        "rank": 38,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 139769,
+        "num": 139769,
+        "word": "雷军称给了自己很大压力",
+        "onboard_time": 1711617798,
+        "rank": 39,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 129579,
+        "num": 129579,
+        "word": "饼子不隔夜卖不干净送干净",
+        "onboard_time": 1711612518,
+        "rank": 40,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 126659,
+        "num": 126659,
+        "word": "我们到底在怀念2018年的什么",
+        "onboard_time": 1711618397,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 123822,
+        "num": 123822,
+        "word": "李铁案时间线梳理",
+        "onboard_time": 1711599919,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 121847,
+        "num": 121847,
+        "word": "关晓彤抹胸浪花裙",
+        "onboard_time": 1711609276,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 121173,
+        "num": 121173,
+        "word": "新浪娱乐头像",
+        "onboard_time": 1711620020,
+        "rank": 44,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 119528,
+        "num": 119528,
+        "word": "何小鹏预祝小米SU7大卖",
+        "onboard_time": 1711621937,
+        "rank": 45,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 117044,
+        "num": 117044,
+        "word": "猫 妈妈我没病我只是单纯的没素质",
+        "onboard_time": 1711619599,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 110990,
+        "num": 110990,
+        "word": "女生举报遭生父性侵有证据在审查",
+        "onboard_time": 1711621937,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 108071,
+        "num": 108071,
+        "word": "兰州人吃不上半熟芝士",
+        "onboard_time": 1711617259,
+        "rank": 48,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 104664,
+        "num": 104664,
+        "word": "Vidda回应小米诉讼",
+        "onboard_time": 1711615338,
+        "rank": 49,
+        "category": "互联网"
+      }
+    ],
+    "hotgov": {
+      "word": "#中美关系事关人类前途命运#"
+    }
+  }
+}
