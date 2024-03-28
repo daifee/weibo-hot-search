@@ -1,6 +1,6 @@
 {
   "startTime": 1711556587484,
-  "endTime": 1711595985425,
+  "endTime": 1711596860661,
   "band_list": [
     {
       "raw_hot": 1804586,
@@ -20,7 +20,7 @@
     },
     {
       "raw_hot": 1267911,
-      "num": 679348,
+      "num": 695728,
       "word": "南通",
       "onboard_time": 1711548440,
       "rank": 5,
@@ -44,7 +44,7 @@
     },
     {
       "raw_hot": 990309,
-      "num": 327852,
+      "num": 332287,
       "word": "你愿意不交社保换更多工资吗",
       "onboard_time": 1711559774,
       "rank": 15,
@@ -57,6 +57,14 @@
       "onboard_time": 1711584138,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 854657,
+      "num": 854657,
+      "word": "柯基考上山东公务员了",
+      "onboard_time": 1711591877,
+      "rank": 30,
+      "category": "情感"
     },
     {
       "raw_hot": 829380,
@@ -75,8 +83,16 @@
       "category": "演出"
     },
     {
+      "raw_hot": 783075,
+      "num": 783075,
+      "word": "华为P70",
+      "onboard_time": 1711594338,
+      "rank": 8,
+      "category": "数码"
+    },
+    {
       "raw_hot": 775048,
-      "num": 312556,
+      "num": 333337,
       "word": "订婚后发现女朋友之前确诊双相",
       "onboard_time": 1711589778,
       "rank": 20,
@@ -115,20 +131,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 700915,
-      "num": 700915,
-      "word": "柯基考上山东公务员了",
-      "onboard_time": 1711591877,
-      "rank": 30,
-      "category": "情感"
-    },
-    {
       "raw_hot": 659508,
       "num": 659508,
       "word": "小米汽车",
       "onboard_time": 1711584138,
       "rank": 13,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 634019,
+      "num": 634019,
+      "word": "韩素希高中时期照片",
+      "onboard_time": 1711593978,
+      "rank": 9,
+      "category": "艺人"
     },
     {
       "raw_hot": 630550,
@@ -155,6 +171,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 582118,
+      "num": 582118,
+      "word": "招商银行近两年向员工追薪1亿多元",
+      "onboard_time": 1711591818,
+      "rank": 19,
+      "category": "财经"
+    },
+    {
       "raw_hot": 580366,
       "num": 580366,
       "word": "8万的预算能在深圳玩三天吗",
@@ -163,36 +187,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 559546,
-      "num": 559546,
-      "word": "招商银行近两年向员工追薪1亿多元",
-      "onboard_time": 1711591818,
-      "rank": 19,
-      "category": "财经"
-    },
-    {
       "raw_hot": 559188,
       "num": 559188,
       "word": "李铁押解车辆已经驶入法院",
       "onboard_time": 1711591218,
       "rank": 10,
       "category": "体育"
-    },
-    {
-      "raw_hot": 543015,
-      "num": 543015,
-      "word": "华为P70",
-      "onboard_time": 1711594338,
-      "rank": 8,
-      "category": "数码"
-    },
-    {
-      "raw_hot": 513904,
-      "num": 513904,
-      "word": "韩素希高中时期照片",
-      "onboard_time": 1711593978,
-      "rank": 9,
-      "category": "艺人"
     },
     {
       "raw_hot": 513439,
@@ -209,6 +209,14 @@
       "onboard_time": 1711593918,
       "rank": 11,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 509099,
+      "num": 509099,
+      "word": "许嵩武汉二开",
+      "onboard_time": 1711596617,
+      "rank": 9,
+      "category": "演出"
     },
     {
       "raw_hot": 506217,
@@ -275,6 +283,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 433587,
+      "num": 433587,
+      "word": "李铁",
+      "onboard_time": 1711593557,
+      "rank": 14,
+      "category": "体育"
+    },
+    {
       "raw_hot": 419360,
       "num": 419360,
       "word": "惜花芷定档",
@@ -289,14 +305,6 @@
       "onboard_time": 1711568830,
       "rank": 15,
       "category": "情感"
-    },
-    {
-      "raw_hot": 410655,
-      "num": 410655,
-      "word": "李铁",
-      "onboard_time": 1711593557,
-      "rank": 14,
-      "category": "体育"
     },
     {
       "raw_hot": 392818,
@@ -329,6 +337,14 @@
       "onboard_time": 1711592657,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 344672,
+      "num": 344672,
+      "word": "日本首相回应小林制药事件",
+      "onboard_time": 1711596017,
+      "rank": 18,
+      "category": "国外时政"
     },
     {
       "raw_hot": 339143,
@@ -499,6 +515,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 248552,
+      "num": 248552,
+      "word": "陈铭被质疑为何没非升即走",
+      "onboard_time": 1711596257,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 247283,
       "num": 247283,
       "word": "全红婵17岁啦",
@@ -553,6 +577,30 @@
       "onboard_time": 1711525638,
       "rank": 14,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 230439,
+      "num": 230439,
+      "word": "乘风踏浪定档",
+      "onboard_time": 1711596498,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 221803,
+      "num": 221803,
+      "word": "以闪亮之名",
+      "onboard_time": 1711596377,
+      "rank": 31,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 221524,
+      "num": 221524,
+      "word": "赵丽颖王一博V榜破9",
+      "onboard_time": 1711595477,
+      "rank": 34,
+      "category": "剧集"
     },
     {
       "raw_hot": 219140,
@@ -659,6 +707,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 196590,
+      "num": 196590,
+      "word": "不玩手机可以做的事",
+      "onboard_time": 1711595118,
+      "rank": 43,
+      "category": "情感"
+    },
+    {
       "raw_hot": 192388,
       "num": 192388,
       "word": "小米SU7续航700公里起步",
@@ -715,11 +771,11 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 185885,
-      "num": 175148,
-      "word": "赵丽颖王一博V榜破9",
-      "onboard_time": 1711595477,
-      "rank": 34,
+      "raw_hot": 186995,
+      "num": 186995,
+      "word": "品质盛典全阵容名单",
+      "onboard_time": 1711596557,
+      "rank": 39,
       "category": "剧集"
     },
     {
@@ -755,6 +811,22 @@
       "category": "情感"
     },
     {
+      "raw_hot": 176372,
+      "num": 176372,
+      "word": "动画电影小倩定档五一",
+      "onboard_time": 1711595898,
+      "rank": 48,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 176129,
+      "num": 176129,
+      "word": "恋与深空运动陪伴",
+      "onboard_time": 1711596677,
+      "rank": 42,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 175451,
       "num": 175451,
       "word": "罗渽民 略施小计",
@@ -763,12 +835,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 173935,
+      "num": 173935,
+      "word": "南通市监局到多家祭祀用品店入户登记",
+      "onboard_time": 1711594277,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 173893,
       "num": 173893,
       "word": "白鹿一口气发了28张照片",
       "onboard_time": 1711537819,
       "rank": 17,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 173599,
+      "num": 173599,
+      "word": "代号鸢 师尊出场",
+      "onboard_time": 1711596077,
+      "rank": 44,
+      "category": "游戏"
     },
     {
       "raw_hot": 172989,
@@ -787,14 +875,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 168520,
-      "num": 168520,
-      "word": "南通市监局到多家祭祀用品店入户登记",
-      "onboard_time": 1711594277,
-      "rank": 40,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 167331,
       "num": 167331,
       "word": "第五人格",
@@ -803,12 +883,20 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 164068,
-      "num": 164068,
+      "raw_hot": 166665,
+      "num": 233690,
       "word": "李铁曾说当球员时最恨踢假球的人",
       "onboard_time": 1711593557,
       "rank": 41,
       "category": "体育"
+    },
+    {
+      "raw_hot": 166626,
+      "num": 166626,
+      "word": "爸爸当家3阵容官宣",
+      "onboard_time": 1711596738,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 162979,
@@ -817,6 +905,14 @@
       "onboard_time": 1711595417,
       "rank": 42,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 162283,
+      "num": 162283,
+      "word": "赵一博 我给你一铲子",
+      "onboard_time": 1711596138,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 161908,
@@ -832,14 +928,6 @@
       "word": "更适合i人体质的面试方法",
       "onboard_time": 1711587379,
       "rank": 37,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 160287,
-      "num": 160287,
-      "word": "不玩手机可以做的事",
-      "onboard_time": 1711595118,
-      "rank": 43,
       "category": "情感"
     },
     {
@@ -939,14 +1027,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 128943,
-      "num": 128943,
-      "word": "动画电影小倩定档五一",
-      "onboard_time": 1711595898,
-      "rank": 48,
-      "category": "电影"
-    },
-    {
       "raw_hot": 127941,
       "num": 127941,
       "word": "你有去淄博吃烧烤的计划吗",
@@ -976,6 +1056,14 @@
       "word": "王者荣耀新赛季",
       "onboard_time": 1711584978,
       "rank": 47,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 122263,
+      "num": 348810,
+      "word": "黑红星期四",
+      "onboard_time": 1711595658,
+      "rank": 36,
       "category": "游戏"
     },
     {
@@ -1041,14 +1129,6 @@
       "onboard_time": 1711572911,
       "rank": 35,
       "category": "运动健身"
-    },
-    {
-      "raw_hot": 108380,
-      "num": 172778,
-      "word": "黑红星期四",
-      "onboard_time": 1711595658,
-      "rank": 36,
-      "category": "游戏"
     },
     {
       "raw_hot": 108101,
@@ -1283,6 +1363,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 53109,
+      "num": 790695,
+      "word": "第十一届中国网络视听大会开幕",
+      "onboard_time": 1711594578,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 52150,
       "num": 52150,
       "word": "猎罪图鉴2拍摄进展be like",
@@ -1304,14 +1392,6 @@
       "word": "南通禁止制造销售封建迷信殡葬用品",
       "onboard_time": 1711557915,
       "rank": 39,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 44370,
-      "num": 172672,
-      "word": "第十一届中国网络视听大会开幕",
-      "onboard_time": 1711594578,
-      "rank": 37,
       "category": "社会新闻"
     },
     {

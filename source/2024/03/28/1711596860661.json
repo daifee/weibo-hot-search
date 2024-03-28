@@ -1,0 +1,410 @@
+{
+  "runTime": 1711596860661,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1001439,
+        "num": 1001439,
+        "word": "陈戌源曾劝李铁退还4800万遭拒绝",
+        "onboard_time": 1711593137,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 854657,
+        "num": 854657,
+        "word": "柯基考上山东公务员了",
+        "onboard_time": 1711591877,
+        "rank": 1,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 53109,
+        "num": 790695,
+        "word": "第十一届中国网络视听大会开幕",
+        "onboard_time": 1711594578,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 783075,
+        "num": 783075,
+        "word": "华为P70",
+        "onboard_time": 1711594338,
+        "rank": 3,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 699144,
+        "num": 699144,
+        "word": "女主是个永不道歉的人",
+        "onboard_time": 1711588519,
+        "rank": 4,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 801974,
+        "num": 695728,
+        "word": "南通",
+        "onboard_time": 1711548440,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 634019,
+        "num": 634019,
+        "word": "韩素希高中时期照片",
+        "onboard_time": 1711593978,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 582118,
+        "num": 582118,
+        "word": "招商银行近两年向员工追薪1亿多元",
+        "onboard_time": 1711591818,
+        "rank": 7,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 542448,
+        "num": 542448,
+        "word": "自刷差评淄博烧烤店谈爆火1年现状",
+        "onboard_time": 1711582336,
+        "rank": 8,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 509099,
+        "num": 509099,
+        "word": "许嵩武汉二开",
+        "onboard_time": 1711596617,
+        "rank": 9,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 1019500,
+        "num": 499594,
+        "word": "黄晓明航班取消",
+        "onboard_time": 1711589958,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 477829,
+        "num": 477829,
+        "word": "李铁押解车辆已经驶入法院",
+        "onboard_time": 1711591218,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 445862,
+        "num": 445862,
+        "word": "奔跑吧路透",
+        "onboard_time": 1711593918,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 433587,
+        "num": 433587,
+        "word": "李铁",
+        "onboard_time": 1711593557,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 410340,
+        "num": 410340,
+        "word": "考研未上岸者就业质量不及同期毕业生",
+        "onboard_time": 1711588817,
+        "rank": 14,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 371405,
+        "num": 371405,
+        "word": "惜花芷定档",
+        "onboard_time": 1711593017,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 370359,
+        "num": 370359,
+        "word": "小米汽车",
+        "onboard_time": 1711584138,
+        "rank": 16,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 122263,
+        "num": 348810,
+        "word": "黑红星期四",
+        "onboard_time": 1711595658,
+        "rank": 17,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 344672,
+        "num": 344672,
+        "word": "日本首相回应小林制药事件",
+        "onboard_time": 1711596017,
+        "rank": 18,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 335428,
+        "num": 335428,
+        "word": "极限挑战漠囧官宣",
+        "onboard_time": 1711592657,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 602969,
+        "num": 333337,
+        "word": "订婚后发现女朋友之前确诊双相",
+        "onboard_time": 1711589778,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 335814,
+        "num": 332287,
+        "word": "你愿意不交社保换更多工资吗",
+        "onboard_time": 1711559774,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 329301,
+        "num": 329301,
+        "word": "papi酱 别人度假vs我度假",
+        "onboard_time": 1711591037,
+        "rank": 22,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 286507,
+        "num": 286507,
+        "word": "Justin Bieber喝醉状况下演唱Stay",
+        "onboard_time": 1711584258,
+        "rank": 23,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 270425,
+        "num": 270425,
+        "word": "农历二月十九",
+        "onboard_time": 1711594517,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 268901,
+        "num": 268901,
+        "word": "射雕上线",
+        "onboard_time": 1711593738,
+        "rank": 25,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 248552,
+        "num": 248552,
+        "word": "陈铭被质疑为何没非升即走",
+        "onboard_time": 1711596257,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 241009,
+        "num": 241009,
+        "word": "全红婵17岁啦",
+        "onboard_time": 1711593137,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 240736,
+        "num": 240736,
+        "word": "韩素希连更4条ins",
+        "onboard_time": 1711585339,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 166665,
+        "num": 233690,
+        "word": "李铁曾说当球员时最恨踢假球的人",
+        "onboard_time": 1711593557,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 230439,
+        "num": 230439,
+        "word": "乘风踏浪定档",
+        "onboard_time": 1711596498,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 221803,
+        "num": 221803,
+        "word": "以闪亮之名",
+        "onboard_time": 1711596377,
+        "rank": 31,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 221524,
+        "num": 221524,
+        "word": "赵丽颖王一博V榜破9",
+        "onboard_time": 1711595477,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 220195,
+        "num": 220195,
+        "word": "全球高考 影视化",
+        "onboard_time": 1711583658,
+        "rank": 33,
+        "category": "读书作家,作品衍生"
+      },
+      {
+        "raw_hot": 218131,
+        "num": 218131,
+        "word": "贵女阵容官宣",
+        "onboard_time": 1711593617,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 211079,
+        "num": 211079,
+        "word": "腾讯裁员10%到30%消息不实",
+        "onboard_time": 1711583358,
+        "rank": 35,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 196590,
+        "num": 196590,
+        "word": "不玩手机可以做的事",
+        "onboard_time": 1711595118,
+        "rank": 36,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 207227,
+        "num": 195350,
+        "word": "王一博坚持给王阳搭戏",
+        "onboard_time": 1711594157,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 193568,
+        "num": 193568,
+        "word": "火箭10连胜",
+        "onboard_time": 1711595658,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 186995,
+        "num": 186995,
+        "word": "品质盛典全阵容名单",
+        "onboard_time": 1711596557,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 180412,
+        "num": 180412,
+        "word": "工商银行每天赚近10亿",
+        "onboard_time": 1711591998,
+        "rank": 40,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 176372,
+        "num": 176372,
+        "word": "动画电影小倩定档五一",
+        "onboard_time": 1711595898,
+        "rank": 41,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 176129,
+        "num": 176129,
+        "word": "恋与深空运动陪伴",
+        "onboard_time": 1711596677,
+        "rank": 42,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 173935,
+        "num": 173935,
+        "word": "南通市监局到多家祭祀用品店入户登记",
+        "onboard_time": 1711594277,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 173599,
+        "num": 173599,
+        "word": "代号鸢 师尊出场",
+        "onboard_time": 1711596077,
+        "rank": 44,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 166626,
+        "num": 166626,
+        "word": "爸爸当家3阵容官宣",
+        "onboard_time": 1711596738,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 162283,
+        "num": 162283,
+        "word": "赵一博 我给你一铲子",
+        "onboard_time": 1711596138,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 158441,
+        "num": 158441,
+        "word": "李铁庭审预计持续到下午",
+        "onboard_time": 1711593077,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 154175,
+        "num": 154175,
+        "word": "小林制药保健品致死人数升至4人",
+        "onboard_time": 1711590678,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 148013,
+        "num": 148013,
+        "word": "初中学历小伙写1500万字后重启人生",
+        "onboard_time": 1711588458,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平会见美国工商界和战略学术界代表#"
+    }
+  }
+}
