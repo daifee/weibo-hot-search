@@ -1,6 +1,6 @@
 {
   "startTime": 1711556587484,
-  "endTime": 1711593450736,
+  "endTime": 1711595985425,
   "band_list": [
     {
       "raw_hot": 1804586,
@@ -33,6 +33,14 @@
       "onboard_time": 1711583658,
       "rank": 1,
       "category": "读书作家,作品衍生"
+    },
+    {
+      "raw_hot": 1093390,
+      "num": 1093390,
+      "word": "陈戌源曾劝李铁退还4800万遭拒绝",
+      "onboard_time": 1711593137,
+      "rank": 9,
+      "category": "体育"
     },
     {
       "raw_hot": 990309,
@@ -68,7 +76,7 @@
     },
     {
       "raw_hot": 775048,
-      "num": 263090,
+      "num": 312556,
       "word": "订婚后发现女朋友之前确诊双相",
       "onboard_time": 1711589778,
       "rank": 20,
@@ -81,6 +89,14 @@
       "onboard_time": 1711583358,
       "rank": 11,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 753968,
+      "num": 753968,
+      "word": "女主是个永不道歉的人",
+      "onboard_time": 1711588519,
+      "rank": 30,
+      "category": "情感"
     },
     {
       "raw_hot": 716625,
@@ -99,20 +115,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 700915,
+      "num": 700915,
+      "word": "柯基考上山东公务员了",
+      "onboard_time": 1711591877,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 659508,
       "num": 659508,
       "word": "小米汽车",
       "onboard_time": 1711584138,
       "rank": 13,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 649369,
-      "num": 649369,
-      "word": "女主是个永不道歉的人",
-      "onboard_time": 1711588519,
-      "rank": 30,
-      "category": "情感"
     },
     {
       "raw_hot": 630550,
@@ -147,12 +163,36 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 518870,
-      "num": 518870,
+      "raw_hot": 559546,
+      "num": 559546,
+      "word": "招商银行近两年向员工追薪1亿多元",
+      "onboard_time": 1711591818,
+      "rank": 19,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 559188,
+      "num": 559188,
       "word": "李铁押解车辆已经驶入法院",
       "onboard_time": 1711591218,
       "rank": 10,
       "category": "体育"
+    },
+    {
+      "raw_hot": 543015,
+      "num": 543015,
+      "word": "华为P70",
+      "onboard_time": 1711594338,
+      "rank": 8,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 513904,
+      "num": 513904,
+      "word": "韩素希高中时期照片",
+      "onboard_time": 1711593978,
+      "rank": 9,
+      "category": "艺人"
     },
     {
       "raw_hot": 513439,
@@ -161,6 +201,14 @@
       "onboard_time": 1711570150,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 509777,
+      "num": 509777,
+      "word": "奔跑吧路透",
+      "onboard_time": 1711593918,
+      "rank": 11,
+      "category": "综艺"
     },
     {
       "raw_hot": 506217,
@@ -203,14 +251,6 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 453096,
-      "num": 453096,
-      "word": "陈戌源曾劝李铁退还4800万遭拒绝",
-      "onboard_time": 1711593137,
-      "rank": 9,
-      "category": "体育"
-    },
-    {
       "raw_hot": 447583,
       "num": 447583,
       "word": "南通有丧葬店下架纸钱冥币改卖鲜花",
@@ -235,12 +275,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 419360,
+      "num": 419360,
+      "word": "惜花芷定档",
+      "onboard_time": 1711593017,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 411389,
       "num": 411389,
       "word": "持续黑一个历史人物十年",
       "onboard_time": 1711568830,
       "rank": 15,
       "category": "情感"
+    },
+    {
+      "raw_hot": 410655,
+      "num": 410655,
+      "word": "李铁",
+      "onboard_time": 1711593557,
+      "rank": 14,
+      "category": "体育"
     },
     {
       "raw_hot": 392818,
@@ -267,6 +323,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 357194,
+      "num": 357194,
+      "word": "极限挑战漠囧官宣",
+      "onboard_time": 1711592657,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 339143,
       "num": 260635,
       "word": "知情人士回应腾讯大规模裁员",
@@ -291,6 +355,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 322056,
+      "num": 305144,
+      "word": "农历二月十九",
+      "onboard_time": 1711594517,
+      "rank": 22,
+      "category": "情感"
+    },
+    {
       "raw_hot": 321424,
       "num": 321424,
       "word": "离异3年内不得京内购房被废止",
@@ -307,20 +379,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 318073,
+      "num": 318073,
+      "word": "射雕上线",
+      "onboard_time": 1711593738,
+      "rank": 18,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 313521,
       "num": 313521,
       "word": "工商银行2023年全年净利润3639.9亿元",
       "onboard_time": 1711588877,
       "rank": 24,
       "category": "财经"
-    },
-    {
-      "raw_hot": 301933,
-      "num": 301933,
-      "word": "柯基考上山东公务员了",
-      "onboard_time": 1711591877,
-      "rank": 30,
-      "category": "情感"
     },
     {
       "raw_hot": 300702,
@@ -355,14 +427,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 278825,
-      "num": 278825,
-      "word": "招商银行近两年向员工追薪1亿多元",
-      "onboard_time": 1711591818,
-      "rank": 19,
-      "category": "财经"
-    },
-    {
       "raw_hot": 278202,
       "num": 249602,
       "word": "工商银行每天赚近10亿",
@@ -385,6 +449,14 @@
       "onboard_time": 1711583597,
       "rank": 16,
       "category": "体育,社会新闻"
+    },
+    {
+      "raw_hot": 271965,
+      "num": 271965,
+      "word": "贵女阵容官宣",
+      "onboard_time": 1711593617,
+      "rank": 24,
+      "category": "剧集"
     },
     {
       "raw_hot": 271856,
@@ -427,19 +499,19 @@
       "category": "演出"
     },
     {
+      "raw_hot": 247283,
+      "num": 247283,
+      "word": "全红婵17岁啦",
+      "onboard_time": 1711593137,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 245995,
       "num": 245995,
       "word": "王一博听到并立于雪山之巅笑了",
       "onboard_time": 1711549280,
       "rank": 12,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 235927,
-      "num": 235927,
-      "word": "惜花芷定档",
-      "onboard_time": 1711593017,
-      "rank": 25,
       "category": "剧集"
     },
     {
@@ -515,20 +587,20 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 213899,
-      "num": 213899,
-      "word": "极限挑战漠囧官宣",
-      "onboard_time": 1711592657,
-      "rank": 35,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 211723,
       "num": 169856,
       "word": "幼儿园老师背名牌包被投诉",
       "onboard_time": 1711549699,
       "rank": 26,
       "category": "情感"
+    },
+    {
+      "raw_hot": 210261,
+      "num": 210261,
+      "word": "王一博坚持给王阳搭戏",
+      "onboard_time": 1711594157,
+      "rank": 29,
+      "category": "剧集"
     },
     {
       "raw_hot": 208123,
@@ -577,6 +649,14 @@
       "onboard_time": 1711591337,
       "rank": 25,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 199103,
+      "num": 199103,
+      "word": "火箭10连胜",
+      "onboard_time": 1711595658,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 192388,
@@ -632,6 +712,14 @@
       "word": "张慧雯回应演何悯鸿后面相变了",
       "onboard_time": 1711554918,
       "rank": 25,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 185885,
+      "num": 175148,
+      "word": "赵丽颖王一博V榜破9",
+      "onboard_time": 1711595477,
+      "rank": 34,
       "category": "剧集"
     },
     {
@@ -691,12 +779,44 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 172658,
+      "num": 172658,
+      "word": "湖人五连胜",
+      "onboard_time": 1711594578,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 168520,
+      "num": 168520,
+      "word": "南通市监局到多家祭祀用品店入户登记",
+      "onboard_time": 1711594277,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 167331,
       "num": 167331,
       "word": "第五人格",
       "onboard_time": 1711587976,
       "rank": 35,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 164068,
+      "num": 164068,
+      "word": "李铁曾说当球员时最恨踢假球的人",
+      "onboard_time": 1711593557,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 162979,
+      "num": 162979,
+      "word": "头戴式耳机对发型的伤害",
+      "onboard_time": 1711595417,
+      "rank": 42,
+      "category": "美妆"
     },
     {
       "raw_hot": 161908,
@@ -715,12 +835,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 157705,
-      "num": 157705,
-      "word": "全红婵17岁啦",
-      "onboard_time": 1711593137,
-      "rank": 38,
-      "category": "体育"
+      "raw_hot": 160287,
+      "num": 160287,
+      "word": "不玩手机可以做的事",
+      "onboard_time": 1711595118,
+      "rank": 43,
+      "category": "情感"
     },
     {
       "raw_hot": 156990,
@@ -737,6 +857,14 @@
       "onboard_time": 1711582097,
       "rank": 15,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 153577,
+      "num": 153577,
+      "word": "湖人战胜灰熊",
+      "onboard_time": 1711594637,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 152668,
@@ -761,6 +889,14 @@
       "onboard_time": 1711585941,
       "rank": 39,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 133961,
+      "num": 133961,
+      "word": "BABYMONSTER主打曲MV预告",
+      "onboard_time": 1711595597,
+      "rank": 47,
+      "category": "音乐"
     },
     {
       "raw_hot": 133412,
@@ -801,6 +937,14 @@
       "onboard_time": 1711589537,
       "rank": 40,
       "category": "情感"
+    },
+    {
+      "raw_hot": 128943,
+      "num": 128943,
+      "word": "动画电影小倩定档五一",
+      "onboard_time": 1711595898,
+      "rank": 48,
+      "category": "电影"
     },
     {
       "raw_hot": 127941,
@@ -897,6 +1041,14 @@
       "onboard_time": 1711572911,
       "rank": 35,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 108380,
+      "num": 172778,
+      "word": "黑红星期四",
+      "onboard_time": 1711595658,
+      "rank": 36,
+      "category": "游戏"
     },
     {
       "raw_hot": 108101,
@@ -1155,12 +1307,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 44370,
+      "num": 172672,
+      "word": "第十一届中国网络视听大会开幕",
+      "onboard_time": 1711594578,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 42959,
       "num": 42959,
       "word": "100克果蔬脆42.5克油",
       "onboard_time": 1711580414,
       "rank": 41,
       "category": "美食"
+    },
+    {
+      "raw_hot": 32150,
+      "num": 701011,
+      "word": "春花头像上新",
+      "onboard_time": 1711586239,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 26705,
