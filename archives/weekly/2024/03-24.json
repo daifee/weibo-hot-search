@@ -1,6 +1,6 @@
 {
   "startTime": 1711210803824,
-  "endTime": 1711596860661,
+  "endTime": 1711599595398,
   "band_list": [
     {
       "raw_hot": 3922233,
@@ -675,6 +675,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1197069,
+      "num": 1197069,
+      "word": "华为P70",
+      "onboard_time": 1711594338,
+      "rank": 8,
+      "category": "数码"
+    },
+    {
       "raw_hot": 1184414,
       "num": 1184414,
       "word": "秋瓷炫微博谁发的",
@@ -1115,6 +1123,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 900597,
+      "num": 900597,
+      "word": "日本首相回应小林制药事件",
+      "onboard_time": 1711596017,
+      "rank": 18,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 898142,
       "num": 898142,
       "word": "钟睒睒连续四年成为中国首富",
@@ -1153,6 +1169,14 @@
       "onboard_time": 1711584138,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 859146,
+      "num": 859146,
+      "word": "女主是个永不道歉的人",
+      "onboard_time": 1711588519,
+      "rank": 30,
+      "category": "情感"
     },
     {
       "raw_hot": 857824,
@@ -1355,20 +1379,20 @@
       "category": "电影"
     },
     {
+      "raw_hot": 785883,
+      "num": 785883,
+      "word": "赵丽颖的脸比小朋友还小",
+      "onboard_time": 1711596919,
+      "rank": 4,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 785166,
       "num": 785166,
       "word": "莫斯科恐袭嫌疑人招供细节",
       "onboard_time": 1711240339,
       "rank": 1,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 783075,
-      "num": 783075,
-      "word": "华为P70",
-      "onboard_time": 1711594338,
-      "rank": 8,
-      "category": "数码"
     },
     {
       "raw_hot": 781757,
@@ -1577,14 +1601,6 @@
       "onboard_time": 1711339699,
       "rank": 32,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 753968,
-      "num": 753968,
-      "word": "女主是个永不道歉的人",
-      "onboard_time": 1711588519,
-      "rank": 30,
-      "category": "情感"
     },
     {
       "raw_hot": 751658,
@@ -1851,6 +1867,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 675613,
+      "num": 675613,
+      "word": "韩素希高中时期照片",
+      "onboard_time": 1711593978,
+      "rank": 9,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 673068,
       "num": 673068,
       "word": "秦岚迪丽热巴白衣自拍",
@@ -2043,14 +2067,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 634019,
-      "num": 634019,
-      "word": "韩素希高中时期照片",
-      "onboard_time": 1711593978,
-      "rank": 9,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 633340,
       "num": 633340,
       "word": "infp是写文字天赋型选手",
@@ -2089,6 +2105,14 @@
       "onboard_time": 1711584258,
       "rank": 4,
       "category": "教育"
+    },
+    {
+      "raw_hot": 625694,
+      "num": 625694,
+      "word": "陈铭被质疑为何没非升即走",
+      "onboard_time": 1711596257,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 623763,
@@ -2401,6 +2425,14 @@
       "onboard_time": 1711499719,
       "rank": 30,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 560762,
+      "num": 560762,
+      "word": "爸爸当家3阵容官宣",
+      "onboard_time": 1711596738,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 559533,
@@ -3361,6 +3393,14 @@
       "onboard_time": 1711261038,
       "rank": 41,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 449479,
+      "num": 449479,
+      "word": "农历二月十九",
+      "onboard_time": 1711594517,
+      "rank": 22,
+      "category": "情感"
     },
     {
       "raw_hot": 448841,
@@ -4347,14 +4387,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 344672,
-      "num": 344672,
-      "word": "日本首相回应小林制药事件",
-      "onboard_time": 1711596017,
-      "rank": 18,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 344562,
       "num": 307017,
       "word": "内耗严重要经常默念这几句话",
@@ -4465,6 +4497,14 @@
       "onboard_time": 1711348158,
       "rank": 28,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 336288,
+      "num": 336288,
+      "word": "只有黄明昊到了漠河",
+      "onboard_time": 1711597759,
+      "rank": 18,
+      "category": "综艺"
     },
     {
       "raw_hot": 336033,
@@ -4585,14 +4625,6 @@
       "onboard_time": 1711293320,
       "rank": 35,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 322056,
-      "num": 305144,
-      "word": "农历二月十九",
-      "onboard_time": 1711594517,
-      "rank": 22,
-      "category": "情感"
     },
     {
       "raw_hot": 321290,
@@ -4907,6 +4939,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 294351,
+      "num": 294351,
+      "word": "极限挑战把黄景瑜从品质盛典绑走了",
+      "onboard_time": 1711598898,
+      "rank": 22,
+      "category": "电影"
+    },
+    {
       "raw_hot": 294121,
       "num": 166163,
       "word": "光与夜之恋 喜茶",
@@ -5089,6 +5129,14 @@
       "onboard_time": 1711243037,
       "rank": 44,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 286266,
+      "num": 286266,
+      "word": "秦岚的嗓子怎么还没好",
+      "onboard_time": 1711599200,
+      "rank": 23,
+      "category": "综艺"
     },
     {
       "raw_hot": 286037,
@@ -5785,14 +5833,6 @@
       "onboard_time": 1711327641,
       "rank": 24,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 248552,
-      "num": 248552,
-      "word": "陈铭被质疑为何没非升即走",
-      "onboard_time": 1711596257,
-      "rank": 26,
-      "category": "艺人"
     },
     {
       "raw_hot": 248479,
@@ -6531,6 +6571,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 223002,
+      "num": 223002,
+      "word": "恋与深空",
+      "onboard_time": 1711327521,
+      "rank": 49,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 222658,
       "num": 204874,
       "word": "魏若来订了娃娃亲",
@@ -6585,6 +6633,14 @@
       "onboard_time": 1711508777,
       "rank": 29,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 221289,
+      "num": 221289,
+      "word": "猫咪洗澡后被奶奶挂起来晒干",
+      "onboard_time": 1711599200,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 220382,
@@ -6779,6 +6835,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 214131,
+      "num": 214131,
+      "word": "宋雨琦中式双丸子头",
+      "onboard_time": 1711598659,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 214060,
       "num": 196358,
       "word": "逆天而行受刑",
@@ -6851,6 +6915,14 @@
       "category": "剧集,电竞"
     },
     {
+      "raw_hot": 211494,
+      "num": 211494,
+      "word": "奔跑吧12兄弟团首合体",
+      "onboard_time": 1711599320,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 211100,
       "num": 211100,
       "word": "周也潍坊",
@@ -6921,6 +6993,14 @@
       "onboard_time": 1711331718,
       "rank": 33,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 209007,
+      "num": 209007,
+      "word": "淄博烧烤去年只是热身今年才是开始",
+      "onboard_time": 1711597518,
+      "rank": 33,
+      "category": "美食"
     },
     {
       "raw_hot": 208813,
@@ -7739,6 +7819,14 @@
       "category": "互联网,社会新闻"
     },
     {
+      "raw_hot": 192788,
+      "num": 192788,
+      "word": "胡一天卢昱晓新戏演兄妹",
+      "onboard_time": 1711599320,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 192725,
       "num": 187190,
       "word": "TES锁定季后赛复活甲",
@@ -8011,6 +8099,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 188324,
+      "num": 188324,
+      "word": "许嵩武汉正式开票",
+      "onboard_time": 1711596617,
+      "rank": 36,
+      "category": "演出"
+    },
+    {
       "raw_hot": 188251,
       "num": 188251,
       "word": "地磁暴不背锅",
@@ -8161,6 +8257,14 @@
       "onboard_time": 1711495095,
       "rank": 34,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 185745,
+      "num": 185745,
+      "word": "刘涛新中式",
+      "onboard_time": 1711597999,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 185607,
@@ -8361,6 +8465,14 @@
       "onboard_time": 1711511538,
       "rank": 35,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 181317,
+      "num": 181317,
+      "word": "南通商户正常售卖冥币纸钱",
+      "onboard_time": 1711599440,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 181087,
@@ -8641,6 +8753,14 @@
       "onboard_time": 1711432819,
       "rank": 29,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 173656,
+      "num": 173656,
+      "word": "足协拟公开聘请足球社会监督员",
+      "onboard_time": 1711597159,
+      "rank": 41,
+      "category": "体育"
     },
     {
       "raw_hot": 173599,
@@ -9035,14 +9155,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 166626,
-      "num": 166626,
-      "word": "爸爸当家3阵容官宣",
-      "onboard_time": 1711596738,
-      "rank": 45,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 166388,
       "num": 166388,
       "word": "苏醒 老歌手的日常",
@@ -9057,6 +9169,14 @@
       "onboard_time": 1711453399,
       "rank": 42,
       "category": "数码"
+    },
+    {
+      "raw_hot": 165866,
+      "num": 165866,
+      "word": "谁把小狗的键位改了",
+      "onboard_time": 1711597999,
+      "rank": 45,
+      "category": "幽默"
     },
     {
       "raw_hot": 165861,
@@ -9219,6 +9339,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 163494,
+      "num": 163494,
+      "word": "胡锡进谈南通禁售冥纸冥币",
+      "onboard_time": 1711599559,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 163124,
       "num": 158698,
       "word": "飞书裁员",
@@ -9339,12 +9467,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 161582,
+      "num": 161582,
+      "word": "许嵩武汉秒没",
+      "onboard_time": 1711599559,
+      "rank": 48,
+      "category": "演出"
+    },
+    {
       "raw_hot": 161576,
       "num": 161576,
       "word": "乒乓球单打世界杯吉祥物波仔",
       "onboard_time": 1711354639,
       "rank": 35,
       "category": "体育"
+    },
+    {
+      "raw_hot": 161544,
+      "num": 161544,
+      "word": "mmo玩家必玩的七大理由",
+      "onboard_time": 1711597338,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 161534,
@@ -10635,6 +10779,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 140356,
+      "num": 438382,
+      "word": "黑红星期四",
+      "onboard_time": 1711595658,
+      "rank": 36,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 140314,
       "num": 140314,
       "word": "上一秒结仇下一秒结婚",
@@ -10657,14 +10809,6 @@
       "onboard_time": 1711277779,
       "rank": 46,
       "category": "情感"
-    },
-    {
-      "raw_hot": 139827,
-      "num": 139827,
-      "word": "恋与深空",
-      "onboard_time": 1711327521,
-      "rank": 49,
-      "category": "游戏"
     },
     {
       "raw_hot": 139602,
@@ -11481,14 +11625,6 @@
       "onboard_time": 1711553238,
       "rank": 37,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 122263,
-      "num": 348810,
-      "word": "黑红星期四",
-      "onboard_time": 1711595658,
-      "rank": 36,
-      "category": "游戏"
     },
     {
       "raw_hot": 122119,
@@ -12459,6 +12595,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 65808,
+      "num": 864399,
+      "word": "第十一届中国网络视听大会开幕",
+      "onboard_time": 1711594578,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 63571,
       "num": 63571,
       "word": "这是水肿不是胖了",
@@ -12513,14 +12657,6 @@
       "onboard_time": 1711509318,
       "rank": 46,
       "category": "数码"
-    },
-    {
-      "raw_hot": 53109,
-      "num": 790695,
-      "word": "第十一届中国网络视听大会开幕",
-      "onboard_time": 1711594578,
-      "rank": 37,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 52825,
@@ -12705,6 +12841,14 @@
       "onboard_time": 1711391710,
       "rank": 35,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 40235,
+      "num": 173993,
+      "word": "气象局坐不住了",
+      "onboard_time": 1711598419,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 39972,
