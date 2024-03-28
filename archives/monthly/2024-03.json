@@ -1,6 +1,6 @@
 {
   "startTime": 1709223640991,
-  "endTime": 1711624518611,
+  "endTime": 1711625652276,
   "band_list": [
     {
       "raw_hot": 12728050,
@@ -99,6 +99,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 5288727,
+      "num": 5288727,
+      "word": "小米SU7",
+      "onboard_time": 1711602861,
+      "rank": 39,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 4791031,
       "num": 4791031,
       "word": "德州车祸致2死6重伤",
@@ -169,14 +177,6 @@
       "onboard_time": 1710290554,
       "rank": 0,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 4060616,
-      "num": 4060616,
-      "word": "小米SU7",
-      "onboard_time": 1711602861,
-      "rank": 39,
-      "category": "汽车"
     },
     {
       "raw_hot": 3922233,
@@ -6329,6 +6329,14 @@
       "onboard_time": 1711441577,
       "rank": 36,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1016887,
+      "num": 582851,
+      "word": "雷军排面",
+      "onboard_time": 1711624097,
+      "rank": 30,
+      "category": "数码"
     },
     {
       "raw_hot": 1016470,
@@ -12507,6 +12515,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 659009,
+      "num": 313928,
+      "word": "爱吃辣的人癌症死亡率比同龄人要低",
+      "onboard_time": 1711622538,
+      "rank": 20,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 659003,
       "num": 659003,
       "word": "王嘉尔普吉岛",
@@ -14801,14 +14817,6 @@
       "onboard_time": 1711032622,
       "rank": 20,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 581118,
-      "num": 175529,
-      "word": "雷军排面",
-      "onboard_time": 1711624097,
-      "rank": 30,
-      "category": "数码"
     },
     {
       "raw_hot": 580975,
@@ -17505,14 +17513,6 @@
       "onboard_time": 1710373470,
       "rank": 8,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 517188,
-      "num": 243457,
-      "word": "爱吃辣的人癌症死亡率比同龄人要低",
-      "onboard_time": 1711622538,
-      "rank": 20,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 516876,
@@ -24964,7 +24964,7 @@
     },
     {
       "raw_hot": 375001,
-      "num": 232021,
+      "num": 263288,
       "word": "贾乃亮买10斤瓜子坐绿皮火车",
       "onboard_time": 1711619479,
       "rank": 21,
@@ -25593,6 +25593,14 @@
       "onboard_time": 1710493301,
       "rank": 25,
       "category": "情感"
+    },
+    {
+      "raw_hot": 365955,
+      "num": 365955,
+      "word": "科技春晚",
+      "onboard_time": 1711624998,
+      "rank": 15,
+      "category": "汽车"
     },
     {
       "raw_hot": 365931,
@@ -29259,6 +29267,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 312307,
+      "num": 312307,
+      "word": "钟楚曦李一桐可以结婚了",
+      "onboard_time": 1711624398,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 312276,
       "num": 383385,
       "word": "多囊卵巢综合征的危害有多大",
@@ -30523,6 +30539,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 297870,
+      "num": 297870,
+      "word": "雷军感谢多家车企",
+      "onboard_time": 1711624159,
+      "rank": 31,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 297867,
       "num": 225910,
       "word": "迪丽热巴与发型师贴贴",
@@ -31073,6 +31097,14 @@
       "onboard_time": 1711177038,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 293259,
+      "num": 293259,
+      "word": "女性最无声的炫富",
+      "onboard_time": 1711624398,
+      "rank": 37,
+      "category": "情感"
     },
     {
       "raw_hot": 293229,
@@ -34739,6 +34771,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 258450,
+      "num": 258450,
+      "word": "杜华卸任乐华法定代表人",
+      "onboard_time": 1711623197,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 258437,
       "num": 192064,
       "word": "你那个耳朵不好的朋友belike",
@@ -36201,14 +36241,6 @@
       "onboard_time": 1710307892,
       "rank": 36,
       "category": "美食"
-    },
-    {
-      "raw_hot": 246544,
-      "num": 246544,
-      "word": "杜华卸任乐华法定代表人",
-      "onboard_time": 1711623197,
-      "rank": 19,
-      "category": "艺人"
     },
     {
       "raw_hot": 246522,
@@ -43691,14 +43723,6 @@
       "category": "时尚"
     },
     {
-      "raw_hot": 205948,
-      "num": 172854,
-      "word": "雷军感谢多家车企",
-      "onboard_time": 1711624159,
-      "rank": 31,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 205908,
       "num": 205908,
       "word": "刘宇宁直播",
@@ -44097,6 +44121,14 @@
       "onboard_time": 1711346899,
       "rank": 24,
       "category": "情感"
+    },
+    {
+      "raw_hot": 204532,
+      "num": 192042,
+      "word": "Hero止步春季赛",
+      "onboard_time": 1711625178,
+      "rank": 30,
+      "category": "电竞"
     },
     {
       "raw_hot": 204523,
@@ -48147,6 +48179,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 192135,
+      "num": 192135,
+      "word": "男子3年隔空猥亵40多名未成年人",
+      "onboard_time": 1711622419,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 192127,
       "num": 192127,
       "word": "音你而来官宣定档",
@@ -49209,6 +49249,14 @@
       "onboard_time": 1710770560,
       "rank": 40,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 189031,
+      "num": 189031,
+      "word": "微信半夜自己给别人发信息",
+      "onboard_time": 1711625059,
+      "rank": 32,
+      "category": "情感"
     },
     {
       "raw_hot": 189028,
@@ -53019,6 +53067,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 175018,
+      "num": 727009,
+      "word": "大熊猫委屈巴巴说是抱枕先动手的",
+      "onboard_time": 1711623679,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 175014,
       "num": 175014,
       "word": "异常春困可能是身体在发出预警",
@@ -53081,6 +53137,14 @@
       "onboard_time": 1710167734,
       "rank": 38,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 174794,
+      "num": 174794,
+      "word": "云黎杨玉环五杀",
+      "onboard_time": 1711624998,
+      "rank": 33,
+      "category": "电竞"
     },
     {
       "raw_hot": 174777,
@@ -58465,14 +58529,6 @@
       "onboard_time": 1711516520,
       "rank": 48,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 157364,
-      "num": 157364,
-      "word": "男子3年隔空猥亵40多名未成年人",
-      "onboard_time": 1711622419,
-      "rank": 36,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 157338,
@@ -64627,14 +64683,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 138291,
-      "num": 138291,
-      "word": "女性最无声的炫富",
-      "onboard_time": 1711624398,
-      "rank": 37,
-      "category": "情感"
-    },
-    {
       "raw_hot": 138271,
       "num": 138271,
       "word": "各行各业都有自己的显眼包",
@@ -69715,6 +69763,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 120972,
+      "num": 120972,
+      "word": "元梦之星声明",
+      "onboard_time": 1711624758,
+      "rank": 44,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 120913,
       "num": 120913,
       "word": "原来我的审美一直都没变",
@@ -70075,14 +70131,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 119171,
-      "num": 727009,
-      "word": "大熊猫委屈巴巴说是抱枕先动手的",
-      "onboard_time": 1711623679,
-      "rank": 7,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 119159,
       "num": 119159,
       "word": "我话说在前面",
@@ -70385,6 +70433,14 @@
       "onboard_time": 1709816191,
       "rank": 39,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 117862,
+      "num": 117862,
+      "word": "小米汽车配色",
+      "onboard_time": 1711625477,
+      "rank": 45,
+      "category": "汽车"
     },
     {
       "raw_hot": 117810,
@@ -70897,14 +70953,6 @@
       "onboard_time": 1711610476,
       "rank": 46,
       "category": "体育"
-    },
-    {
-      "raw_hot": 115828,
-      "num": 108488,
-      "word": "钟楚曦李一桐可以结婚了",
-      "onboard_time": 1711624398,
-      "rank": 44,
-      "category": "剧集"
     },
     {
       "raw_hot": 115824,
@@ -73873,6 +73921,14 @@
       "onboard_time": 1710794536,
       "rank": 38,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 97665,
+      "num": 97665,
+      "word": "雷军 造车太难了",
+      "onboard_time": 1711625598,
+      "rank": 48,
+      "category": "汽车"
     },
     {
       "raw_hot": 97623,

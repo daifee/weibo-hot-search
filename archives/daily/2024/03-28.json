@@ -1,10 +1,10 @@
 {
   "startTime": 1711556587484,
-  "endTime": 1711624518611,
+  "endTime": 1711625652276,
   "band_list": [
     {
-      "raw_hot": 4060616,
-      "num": 4060616,
+      "raw_hot": 5288727,
+      "num": 5288727,
       "word": "小米SU7",
       "onboard_time": 1711602861,
       "rank": 39,
@@ -97,6 +97,14 @@
       "onboard_time": 1711615338,
       "rank": 1,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1016887,
+      "num": 582851,
+      "word": "雷军排面",
+      "onboard_time": 1711624097,
+      "rank": 30,
+      "category": "数码"
     },
     {
       "raw_hot": 990309,
@@ -307,6 +315,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 659009,
+      "num": 313928,
+      "word": "爱吃辣的人癌症死亡率比同龄人要低",
+      "onboard_time": 1711622538,
+      "rank": 20,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 652626,
       "num": 652626,
       "word": "日本官员称已开始紧急检查功能性标识食品",
@@ -387,14 +403,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 581118,
-      "num": 175529,
-      "word": "雷军排面",
-      "onboard_time": 1711624097,
-      "rank": 30,
-      "category": "数码"
-    },
-    {
       "raw_hot": 580366,
       "num": 580366,
       "word": "8万的预算能在深圳玩三天吗",
@@ -457,14 +465,6 @@
       "onboard_time": 1711619059,
       "rank": 7,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 517188,
-      "num": 243457,
-      "word": "爱吃辣的人癌症死亡率比同龄人要低",
-      "onboard_time": 1711622538,
-      "rank": 20,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 513439,
@@ -700,7 +700,7 @@
     },
     {
       "raw_hot": 375001,
-      "num": 232021,
+      "num": 263288,
       "word": "贾乃亮买10斤瓜子坐绿皮火车",
       "onboard_time": 1711619479,
       "rank": 21,
@@ -721,6 +721,14 @@
       "onboard_time": 1711553838,
       "rank": 20,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 365955,
+      "num": 365955,
+      "word": "科技春晚",
+      "onboard_time": 1711624998,
+      "rank": 15,
+      "category": "汽车"
     },
     {
       "raw_hot": 357194,
@@ -835,6 +843,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 312307,
+      "num": 312307,
+      "word": "钟楚曦李一桐可以结婚了",
+      "onboard_time": 1711624398,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 311685,
       "num": 311685,
       "word": "胡歌高圆圆新片入围北影节主竞赛",
@@ -899,12 +915,28 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 297870,
+      "num": 297870,
+      "word": "雷军感谢多家车企",
+      "onboard_time": 1711624159,
+      "rank": 31,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 296952,
       "num": 186906,
       "word": "经常喝牛奶或增加这两种癌症风险",
       "onboard_time": 1711541779,
       "rank": 21,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 293259,
+      "num": 293259,
+      "word": "女性最无声的炫富",
+      "onboard_time": 1711624398,
+      "rank": 37,
+      "category": "情感"
     },
     {
       "raw_hot": 291266,
@@ -1019,6 +1051,14 @@
       "category": "动漫,作品衍生"
     },
     {
+      "raw_hot": 258450,
+      "num": 258450,
+      "word": "杜华卸任乐华法定代表人",
+      "onboard_time": 1711623197,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 255222,
       "num": 255222,
       "word": "金晨交叉挂脖裙",
@@ -1073,14 +1113,6 @@
       "onboard_time": 1711614618,
       "rank": 37,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 246544,
-      "num": 246544,
-      "word": "杜华卸任乐华法定代表人",
-      "onboard_time": 1711623197,
-      "rank": 19,
-      "category": "艺人"
     },
     {
       "raw_hot": 245995,
@@ -1379,20 +1411,20 @@
       "category": "情感"
     },
     {
-      "raw_hot": 205948,
-      "num": 172854,
-      "word": "雷军感谢多家车企",
-      "onboard_time": 1711624159,
-      "rank": 31,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 205205,
       "num": 205205,
       "word": "孔雪儿演女二",
       "onboard_time": 1711573090,
       "rank": 25,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 204532,
+      "num": 192042,
+      "word": "Hero止步春季赛",
+      "onboard_time": 1711625178,
+      "rank": 30,
+      "category": "电竞"
     },
     {
       "raw_hot": 204003,
@@ -1595,6 +1627,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 192135,
+      "num": 192135,
+      "word": "男子3年隔空猥亵40多名未成年人",
+      "onboard_time": 1711622419,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 191972,
       "num": 191972,
       "word": "朱一龙担任北影节天坛奖评委",
@@ -1649,6 +1689,14 @@
       "onboard_time": 1711608318,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 189031,
+      "num": 189031,
+      "word": "微信半夜自己给别人发信息",
+      "onboard_time": 1711625059,
+      "rank": 32,
+      "category": "情感"
     },
     {
       "raw_hot": 188728,
@@ -1817,6 +1865,22 @@
       "onboard_time": 1711588877,
       "rank": 28,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 175018,
+      "num": 727009,
+      "word": "大熊猫委屈巴巴说是抱枕先动手的",
+      "onboard_time": 1711623679,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 174794,
+      "num": 174794,
+      "word": "云黎杨玉环五杀",
+      "onboard_time": 1711624998,
+      "rank": 33,
+      "category": "电竞"
     },
     {
       "raw_hot": 173935,
@@ -2035,14 +2099,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 157364,
-      "num": 157364,
-      "word": "男子3年隔空猥亵40多名未成年人",
-      "onboard_time": 1711622419,
-      "rank": 36,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 156990,
       "num": 156990,
       "word": "工商银行大手笔分红超千亿",
@@ -2227,14 +2283,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 138291,
-      "num": 138291,
-      "word": "女性最无声的炫富",
-      "onboard_time": 1711624398,
-      "rank": 37,
-      "category": "情感"
-    },
-    {
       "raw_hot": 138206,
       "num": 138206,
       "word": "宋雨琦周深卖山竹",
@@ -2371,6 +2419,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 120972,
+      "num": 120972,
+      "word": "元梦之星声明",
+      "onboard_time": 1711624758,
+      "rank": 44,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 120135,
       "num": 120135,
       "word": "王一博帮黄秘书OS",
@@ -2403,14 +2459,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 119171,
-      "num": 727009,
-      "word": "大熊猫委屈巴巴说是抱枕先动手的",
-      "onboard_time": 1711623679,
-      "rank": 7,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 118454,
       "num": 118454,
       "word": "RNGM对战DYG",
@@ -2425,6 +2473,14 @@
       "onboard_time": 1711589237,
       "rank": 47,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 117862,
+      "num": 117862,
+      "word": "小米汽车配色",
+      "onboard_time": 1711625477,
+      "rank": 45,
+      "category": "汽车"
     },
     {
       "raw_hot": 117244,
@@ -2449,14 +2505,6 @@
       "onboard_time": 1711610476,
       "rank": 46,
       "category": "体育"
-    },
-    {
-      "raw_hot": 115828,
-      "num": 108488,
-      "word": "钟楚曦李一桐可以结婚了",
-      "onboard_time": 1711624398,
-      "rank": 44,
-      "category": "剧集"
     },
     {
       "raw_hot": 114299,
@@ -2585,6 +2633,14 @@
       "onboard_time": 1711581855,
       "rank": 33,
       "category": "社会新闻,美食"
+    },
+    {
+      "raw_hot": 97665,
+      "num": 97665,
+      "word": "雷军 造车太难了",
+      "onboard_time": 1711625598,
+      "rank": 48,
+      "category": "汽车"
     },
     {
       "raw_hot": 96686,
