@@ -1,6 +1,6 @@
 {
   "startTime": 1711642899962,
-  "endTime": 1711642899962,
+  "endTime": 1711643784105,
   "band_list": [
     {
       "raw_hot": 6224451,
@@ -83,6 +83,22 @@
       "category": "情感"
     },
     {
+      "raw_hot": 451080,
+      "num": 495679,
+      "word": "选的刮刮卡被店员卖给别人错失100万",
+      "onboard_time": 1711638681,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 431626,
+      "num": 431626,
+      "word": "买车跟买手机一样",
+      "onboard_time": 1711639940,
+      "rank": 15,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 430705,
       "num": 430705,
       "word": "小米订单",
@@ -99,22 +115,6 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 409139,
-      "num": 409139,
-      "word": "买车跟买手机一样",
-      "onboard_time": 1711639940,
-      "rank": 15,
-      "category": "汽车"
-    },
-    {
-      "raw_hot": 406591,
-      "num": 406591,
-      "word": "选的刮刮卡被店员卖给别人错失100万",
-      "onboard_time": 1711638681,
-      "rank": 16,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 402983,
       "num": 402983,
       "word": "小米SU7价格预测",
@@ -129,6 +129,14 @@
       "onboard_time": 1711635081,
       "rank": 18,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 370996,
+      "num": 336906,
+      "word": "小灰灰第一次立耳",
+      "onboard_time": 1711641318,
+      "rank": 22,
+      "category": "动漫"
     },
     {
       "raw_hot": 370842,
@@ -153,14 +161,6 @@
       "onboard_time": 1711633760,
       "rank": 23,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 308809,
-      "num": 308809,
-      "word": "小灰灰第一次立耳",
-      "onboard_time": 1711641318,
-      "rank": 22,
-      "category": "动漫"
     },
     {
       "raw_hot": 305090,
@@ -227,8 +227,8 @@
       "category": "演出"
     },
     {
-      "raw_hot": 194540,
-      "num": 194540,
+      "raw_hot": 197203,
+      "num": 197203,
       "word": "贾乃亮手机屏保是和甜馨的合照",
       "onboard_time": 1711642278,
       "rank": 32,
@@ -275,12 +275,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 163164,
-      "num": 163164,
+      "raw_hot": 167487,
+      "num": 167487,
       "word": "柳智敏签售切小屏",
       "onboard_time": 1711629441,
       "rank": 37,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 167475,
+      "num": 167475,
+      "word": "爱情公寓现场演唱版",
+      "onboard_time": 1711642756,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 159630,
@@ -323,6 +331,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 137751,
+      "num": 217434,
+      "word": "女子想买鞋丈夫翻出所有单鞋全擦亮",
+      "onboard_time": 1711641797,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 134525,
       "num": 134525,
       "word": "小米车模",
@@ -347,28 +363,20 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 131970,
+      "num": 131970,
+      "word": "边伯贤亚洲巡演",
+      "onboard_time": 1711643417,
+      "rank": 41,
+      "category": "演出"
+    },
+    {
       "raw_hot": 129080,
       "num": 129080,
       "word": "科技春晚",
       "onboard_time": 1711624998,
       "rank": 47,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 127208,
-      "num": 127208,
-      "word": "爱情公寓现场演唱版",
-      "onboard_time": 1711642756,
-      "rank": 48,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 105480,
-      "num": 217434,
-      "word": "女子想买鞋丈夫翻出所有单鞋全擦亮",
-      "onboard_time": 1711641797,
-      "rank": 29,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 87363,
@@ -406,6 +414,9 @@
   "hotgov_list": [
     {
       "word": "#中央军委举行晋升上将军衔仪式#"
+    },
+    {
+      "word": "#习近平主席向美方人士详解中国发展#"
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "startTime": 1709223640991,
-  "endTime": 1711642899962,
+  "endTime": 1711643784105,
   "band_list": [
     {
       "raw_hot": 21250232,
@@ -20923,6 +20923,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 451080,
+      "num": 522902,
+      "word": "选的刮刮卡被店员卖给别人错失100万",
+      "onboard_time": 1711638681,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 450997,
       "num": 450997,
       "word": "TheShy力挺Ning",
@@ -22033,6 +22041,14 @@
       "onboard_time": 1710680015,
       "rank": 17,
       "category": "演出"
+    },
+    {
+      "raw_hot": 431626,
+      "num": 431626,
+      "word": "买车跟买手机一样",
+      "onboard_time": 1711639940,
+      "rank": 43,
+      "category": "汽车"
     },
     {
       "raw_hot": 431490,
@@ -23187,14 +23203,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 409139,
-      "num": 409139,
-      "word": "买车跟买手机一样",
-      "onboard_time": 1711639940,
-      "rank": 43,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 409047,
       "num": 409047,
       "word": "鞠婧祎小号",
@@ -23361,14 +23369,6 @@
       "onboard_time": 1710669213,
       "rank": 13,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 406591,
-      "num": 522902,
-      "word": "选的刮刮卡被店员卖给别人错失100万",
-      "onboard_time": 1711638681,
-      "rank": 34,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 406199,
@@ -25465,6 +25465,14 @@
       "onboard_time": 1710754834,
       "rank": 20,
       "category": "母婴育儿"
+    },
+    {
+      "raw_hot": 370996,
+      "num": 336906,
+      "word": "小灰灰第一次立耳",
+      "onboard_time": 1711641318,
+      "rank": 22,
+      "category": "动漫"
     },
     {
       "raw_hot": 370944,
@@ -29881,14 +29889,6 @@
       "onboard_time": 1709651137,
       "rank": 8,
       "category": "电影"
-    },
-    {
-      "raw_hot": 308809,
-      "num": 308809,
-      "word": "小灰灰第一次立耳",
-      "onboard_time": 1711641318,
-      "rank": 22,
-      "category": "动漫"
     },
     {
       "raw_hot": 308780,
@@ -47091,6 +47091,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 197203,
+      "num": 197203,
+      "word": "贾乃亮手机屏保是和甜馨的合照",
+      "onboard_time": 1711642278,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 197190,
       "num": 197190,
       "word": "袁悦击败郑钦文",
@@ -47969,14 +47977,6 @@
       "onboard_time": 1710724653,
       "rank": 33,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 194540,
-      "num": 194540,
-      "word": "贾乃亮手机屏保是和甜馨的合照",
-      "onboard_time": 1711642278,
-      "rank": 32,
-      "category": "艺人"
     },
     {
       "raw_hot": 194472,
@@ -55793,6 +55793,14 @@
       "onboard_time": 1710486753,
       "rank": 41,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 167475,
+      "num": 167475,
+      "word": "爱情公寓现场演唱版",
+      "onboard_time": 1711642756,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 167474,
@@ -65483,6 +65491,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 137751,
+      "num": 217434,
+      "word": "女子想买鞋丈夫翻出所有单鞋全擦亮",
+      "onboard_time": 1711641797,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 137736,
       "num": 137736,
       "word": "谢谢你温暖我 女天降男竹马",
@@ -67387,6 +67403,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 131970,
+      "num": 131970,
+      "word": "边伯贤亚洲巡演",
+      "onboard_time": 1711643417,
+      "rank": 41,
+      "category": "演出"
+    },
+    {
       "raw_hot": 131918,
       "num": 131918,
       "word": "RNG终结八连败",
@@ -68737,14 +68761,6 @@
       "onboard_time": 1710518794,
       "rank": 45,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 127208,
-      "num": 127208,
-      "word": "爱情公寓现场演唱版",
-      "onboard_time": 1711642756,
-      "rank": 48,
-      "category": "剧集"
     },
     {
       "raw_hot": 127174,
@@ -73649,14 +73665,6 @@
       "onboard_time": 1710162391,
       "rank": 20,
       "category": "时尚,作品衍生"
-    },
-    {
-      "raw_hot": 105480,
-      "num": 217434,
-      "word": "女子想买鞋丈夫翻出所有单鞋全擦亮",
-      "onboard_time": 1711641797,
-      "rank": 29,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 105265,
