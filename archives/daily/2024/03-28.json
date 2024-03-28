@@ -1,7 +1,23 @@
 {
   "startTime": 1711556587484,
-  "endTime": 1711622194039,
+  "endTime": 1711624518611,
   "band_list": [
+    {
+      "raw_hot": 4060616,
+      "num": 4060616,
+      "word": "小米SU7",
+      "onboard_time": 1711602861,
+      "rank": 39,
+      "category": "汽车"
+    },
+    {
+      "raw_hot": 2583476,
+      "num": 2583476,
+      "word": "小米发布会",
+      "onboard_time": 1711615939,
+      "rank": 18,
+      "category": "数码"
+    },
     {
       "raw_hot": 2087863,
       "num": 2087863,
@@ -123,6 +139,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 881560,
+      "num": 881560,
+      "word": "在朋友圈贬损王一博被判赔4万元",
+      "onboard_time": 1711620858,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 868578,
       "num": 254429,
       "word": "阿娇机场被搭讪",
@@ -211,6 +235,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 735415,
+      "num": 735415,
+      "word": "小米SU7价格预测",
+      "onboard_time": 1711622179,
+      "rank": 25,
+      "category": "汽车"
+    },
+    {
+      "raw_hot": 727958,
+      "num": 727958,
+      "word": "偷看前夫哥被发现的尴尬瞬间",
+      "onboard_time": 1711620138,
+      "rank": 16,
+      "category": "情感"
+    },
+    {
       "raw_hot": 716625,
       "num": 716625,
       "word": "考研未上岸者就业质量不及同期毕业生",
@@ -251,6 +291,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 668687,
+      "num": 668687,
+      "word": "现在的抑郁症在以前叫什么",
+      "onboard_time": 1711619599,
+      "rank": 12,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 659508,
       "num": 659508,
       "word": "小米汽车",
@@ -281,14 +329,6 @@
       "onboard_time": 1711616538,
       "rank": 8,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 645028,
-      "num": 645028,
-      "word": "小米发布会",
-      "onboard_time": 1711615939,
-      "rank": 18,
-      "category": "数码"
     },
     {
       "raw_hot": 630550,
@@ -331,14 +371,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 606312,
-      "num": 606312,
-      "word": "现在的抑郁症在以前叫什么",
-      "onboard_time": 1711619599,
-      "rank": 12,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 589823,
       "num": 589823,
       "word": "180斤山东女孩拍写真美哭网友",
@@ -347,20 +379,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 588748,
-      "num": 588748,
-      "word": "偷看前夫哥被发现的尴尬瞬间",
-      "onboard_time": 1711620138,
-      "rank": 16,
-      "category": "情感"
-    },
-    {
       "raw_hot": 582118,
       "num": 582118,
       "word": "招商银行近两年向员工追薪1亿多元",
       "onboard_time": 1711591818,
       "rank": 19,
       "category": "财经"
+    },
+    {
+      "raw_hot": 581118,
+      "num": 175529,
+      "word": "雷军排面",
+      "onboard_time": 1711624097,
+      "rank": 30,
+      "category": "数码"
     },
     {
       "raw_hot": 580366,
@@ -411,14 +443,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 528373,
-      "num": 528373,
-      "word": "在朋友圈贬损王一博被判赔4万元",
-      "onboard_time": 1711620858,
-      "rank": 23,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 520124,
       "num": 520124,
       "word": "男子专升本考试语种错选成俄语",
@@ -433,6 +457,14 @@
       "onboard_time": 1711619059,
       "rank": 7,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 517188,
+      "num": 243457,
+      "word": "爱吃辣的人癌症死亡率比同龄人要低",
+      "onboard_time": 1711622538,
+      "rank": 20,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 513439,
@@ -513,6 +545,14 @@
       "onboard_time": 1711599320,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 464796,
+      "num": 464796,
+      "word": "上了三天班已经算了八次存款",
+      "onboard_time": 1711622837,
+      "rank": 12,
+      "category": "幽默"
     },
     {
       "raw_hot": 464214,
@@ -619,6 +659,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 402065,
+      "num": 402065,
+      "word": "女生举报遭生父性侵有证据在审查",
+      "onboard_time": 1711621937,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 398008,
       "num": 398008,
       "word": "孙颖莎vs平野美宇",
@@ -652,7 +700,7 @@
     },
     {
       "raw_hot": 375001,
-      "num": 231843,
+      "num": 232021,
       "word": "贾乃亮买10斤瓜子坐绿皮火车",
       "onboard_time": 1711619479,
       "rank": 21,
@@ -1027,6 +1075,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 246544,
+      "num": 246544,
+      "word": "杜华卸任乐华法定代表人",
+      "onboard_time": 1711623197,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 245995,
       "num": 245995,
       "word": "王一博听到并立于雪山之巅笑了",
@@ -1267,6 +1323,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 210820,
+      "num": 210820,
+      "word": "女子遭丈夫家暴后死亡",
+      "onboard_time": 1711621219,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 210456,
       "num": 210456,
       "word": "王俊凯快被玩坏了",
@@ -1315,6 +1379,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 205948,
+      "num": 172854,
+      "word": "雷军感谢多家车企",
+      "onboard_time": 1711624159,
+      "rank": 31,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 205205,
       "num": 205205,
       "word": "孔雪儿演女二",
@@ -1345,14 +1417,6 @@
       "onboard_time": 1711600100,
       "rank": 37,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 203641,
-      "num": 203641,
-      "word": "小米SU7价格预测",
-      "onboard_time": 1711622179,
-      "rank": 25,
-      "category": "汽车"
     },
     {
       "raw_hot": 203155,
@@ -1475,6 +1539,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 195507,
+      "num": 195507,
+      "word": "中国新能源车一起向前",
+      "onboard_time": 1711623679,
+      "rank": 27,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 194025,
       "num": 194025,
       "word": "原来女生爱旅游在相亲届扣大分",
@@ -1520,14 +1592,6 @@
       "word": "小米SU7续航700公里起步",
       "onboard_time": 1711547541,
       "rank": 15,
-      "category": "汽车"
-    },
-    {
-      "raw_hot": 192368,
-      "num": 192368,
-      "word": "小米SU7",
-      "onboard_time": 1711602861,
-      "rank": 39,
       "category": "汽车"
     },
     {
@@ -1715,6 +1779,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 177403,
+      "num": 177403,
+      "word": "龚俊钟楚曦走红毯",
+      "onboard_time": 1711622957,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 177308,
       "num": 177308,
       "word": "上班给人带来的改变能有多大",
@@ -1811,6 +1883,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 169984,
+      "num": 169984,
+      "word": "小米发布会直播",
+      "onboard_time": 1711623558,
+      "rank": 32,
+      "category": "数码"
+    },
+    {
       "raw_hot": 169771,
       "num": 145379,
       "word": "梦泪 谢谢大家的祝福",
@@ -1825,6 +1905,14 @@
       "onboard_time": 1711616298,
       "rank": 23,
       "category": "体育"
+    },
+    {
+      "raw_hot": 167749,
+      "num": 167749,
+      "word": "销售称已有60人通过自己盲订小米SU7",
+      "onboard_time": 1711623620,
+      "rank": 34,
+      "category": "汽车"
     },
     {
       "raw_hot": 167331,
@@ -1915,14 +2003,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 161005,
-      "num": 161005,
-      "word": "女子遭丈夫家暴后死亡",
-      "onboard_time": 1711621219,
-      "rank": 33,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 160400,
       "num": 160400,
       "word": "李铁庭前会见状态比较平稳",
@@ -1953,6 +2033,14 @@
       "onboard_time": 1711604239,
       "rank": 37,
       "category": "演出"
+    },
+    {
+      "raw_hot": 157364,
+      "num": 157364,
+      "word": "男子3年隔空猥亵40多名未成年人",
+      "onboard_time": 1711622419,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 156990,
@@ -2139,6 +2227,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 138291,
+      "num": 138291,
+      "word": "女性最无声的炫富",
+      "onboard_time": 1711624398,
+      "rank": 37,
+      "category": "情感"
+    },
+    {
       "raw_hot": 138206,
       "num": 138206,
       "word": "宋雨琦周深卖山竹",
@@ -2307,6 +2403,22 @@
       "category": "情感"
     },
     {
+      "raw_hot": 119171,
+      "num": 727009,
+      "word": "大熊猫委屈巴巴说是抱枕先动手的",
+      "onboard_time": 1711623679,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 118454,
+      "num": 118454,
+      "word": "RNGM对战DYG",
+      "onboard_time": 1711620858,
+      "rank": 47,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 118287,
       "num": 118287,
       "word": "ILLIT周偶",
@@ -2323,12 +2435,28 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 116955,
+      "num": 116955,
+      "word": "Vidda回应小米诉讼",
+      "onboard_time": 1711615338,
+      "rank": 49,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 115828,
       "num": 115828,
       "word": "仁川赛孙颖莎晋级16强",
       "onboard_time": 1711610476,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 115828,
+      "num": 108488,
+      "word": "钟楚曦李一桐可以结婚了",
+      "onboard_time": 1711624398,
+      "rank": 44,
+      "category": "剧集"
     },
     {
       "raw_hot": 114299,
@@ -2355,6 +2483,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 112734,
+      "num": 112734,
+      "word": "宫崎骏新片中国首映礼",
+      "onboard_time": 1711623438,
+      "rank": 42,
+      "category": "电影"
+    },
+    {
       "raw_hot": 112634,
       "num": 112634,
       "word": "杨紫对接报平安",
@@ -2369,14 +2505,6 @@
       "onboard_time": 1711614977,
       "rank": 45,
       "category": "情感"
-    },
-    {
-      "raw_hot": 110990,
-      "num": 110990,
-      "word": "女生举报遭生父性侵有证据在审查",
-      "onboard_time": 1711621937,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 110957,
@@ -2411,20 +2539,28 @@
       "category": "科学科普"
     },
     {
-      "raw_hot": 105408,
-      "num": 105408,
-      "word": "RNGM对战DYG",
-      "onboard_time": 1711620858,
-      "rank": 47,
-      "category": "电竞"
+      "raw_hot": 107193,
+      "num": 107193,
+      "word": "原来我是那个裁员大动脉",
+      "onboard_time": 1711622957,
+      "rank": 45,
+      "category": "幽默"
     },
     {
-      "raw_hot": 104664,
-      "num": 104664,
-      "word": "Vidda回应小米诉讼",
-      "onboard_time": 1711615338,
-      "rank": 49,
-      "category": "互联网"
+      "raw_hot": 103237,
+      "num": 103237,
+      "word": "王者S35新赛季",
+      "onboard_time": 1711623679,
+      "rank": 48,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 100897,
+      "num": 726425,
+      "word": "消防员扑灭山火在大雪中激动欢呼",
+      "onboard_time": 1711621579,
+      "rank": 8,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 99927,
@@ -2675,14 +2811,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 55595,
-      "num": 618332,
-      "word": "消防员扑灭山火在大雪中激动欢呼",
-      "onboard_time": 1711621579,
-      "rank": 8,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 55228,
       "num": 56212,
       "word": "专家称不要把IPO当作套现百亿的致富路",
@@ -2716,7 +2844,7 @@
     },
     {
       "raw_hot": 48833,
-      "num": 1028608,
+      "num": 1863286,
       "word": "博鳌亚洲论坛会场AI元素满满",
       "onboard_time": 1711615878,
       "rank": 2,

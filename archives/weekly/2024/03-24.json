@@ -1,7 +1,15 @@
 {
   "startTime": 1711210803824,
-  "endTime": 1711622194039,
+  "endTime": 1711624518611,
   "band_list": [
+    {
+      "raw_hot": 4060616,
+      "num": 4060616,
+      "word": "小米SU7",
+      "onboard_time": 1711602861,
+      "rank": 39,
+      "category": "汽车"
+    },
     {
       "raw_hot": 3922233,
       "num": 3922233,
@@ -73,6 +81,14 @@
       "onboard_time": 1711278739,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2583476,
+      "num": 2583476,
+      "word": "小米发布会",
+      "onboard_time": 1711615939,
+      "rank": 18,
+      "category": "数码"
     },
     {
       "raw_hot": 2546242,
@@ -1203,6 +1219,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 881560,
+      "num": 881560,
+      "word": "在朋友圈贬损王一博被判赔4万元",
+      "onboard_time": 1711620858,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 877263,
       "num": 877263,
       "word": "凤凰传奇抢票",
@@ -1731,6 +1755,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 735415,
+      "num": 735415,
+      "word": "小米SU7价格预测",
+      "onboard_time": 1711622179,
+      "rank": 25,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 735395,
       "num": 735395,
       "word": "任敏 接受平凡好好爱自己",
@@ -1753,6 +1785,14 @@
       "onboard_time": 1711206800,
       "rank": 3,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 727958,
+      "num": 727958,
+      "word": "偷看前夫哥被发现的尴尬瞬间",
+      "onboard_time": 1711620138,
+      "rank": 16,
+      "category": "情感"
     },
     {
       "raw_hot": 716625,
@@ -2011,6 +2051,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 668687,
+      "num": 668687,
+      "word": "现在的抑郁症在以前叫什么",
+      "onboard_time": 1711619599,
+      "rank": 12,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 668295,
       "num": 645210,
       "word": "开车为什么要伸一只手出来",
@@ -2145,14 +2193,6 @@
       "onboard_time": 1711616538,
       "rank": 8,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 645028,
-      "num": 645028,
-      "word": "小米发布会",
-      "onboard_time": 1711615939,
-      "rank": 18,
-      "category": "数码"
     },
     {
       "raw_hot": 643477,
@@ -2339,14 +2379,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 606312,
-      "num": 606312,
-      "word": "现在的抑郁症在以前叫什么",
-      "onboard_time": 1711619599,
-      "rank": 12,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 603572,
       "num": 603572,
       "word": "strong哥",
@@ -2427,14 +2459,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 588748,
-      "num": 588748,
-      "word": "偷看前夫哥被发现的尴尬瞬间",
-      "onboard_time": 1711620138,
-      "rank": 16,
-      "category": "情感"
-    },
-    {
       "raw_hot": 586765,
       "num": 586765,
       "word": "Jessi认出了六年没见的粉丝",
@@ -2473,6 +2497,14 @@
       "onboard_time": 1711591818,
       "rank": 19,
       "category": "财经"
+    },
+    {
+      "raw_hot": 581118,
+      "num": 175529,
+      "word": "雷军排面",
+      "onboard_time": 1711624097,
+      "rank": 30,
+      "category": "数码"
     },
     {
       "raw_hot": 580533,
@@ -2867,14 +2899,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 528373,
-      "num": 528373,
-      "word": "在朋友圈贬损王一博被判赔4万元",
-      "onboard_time": 1711620858,
-      "rank": 23,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 528167,
       "num": 336927,
       "word": "星期一已经崩溃一万次了",
@@ -3001,6 +3025,14 @@
       "onboard_time": 1711325599,
       "rank": 13,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 517188,
+      "num": 243457,
+      "word": "爱吃辣的人癌症死亡率比同龄人要低",
+      "onboard_time": 1711622538,
+      "rank": 20,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 516876,
@@ -3473,6 +3505,14 @@
       "onboard_time": 1711350259,
       "rank": 18,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 464796,
+      "num": 464796,
+      "word": "上了三天班已经算了八次存款",
+      "onboard_time": 1711622837,
+      "rank": 12,
+      "category": "幽默"
     },
     {
       "raw_hot": 464781,
@@ -4075,6 +4115,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 402065,
+      "num": 402065,
+      "word": "女生举报遭生父性侵有证据在审查",
+      "onboard_time": 1711621937,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 401328,
       "num": 401328,
       "word": "老邪吐槽追风者 翻车",
@@ -4388,7 +4436,7 @@
     },
     {
       "raw_hot": 375001,
-      "num": 231843,
+      "num": 232021,
       "word": "贾乃亮买10斤瓜子坐绿皮火车",
       "onboard_time": 1711619479,
       "rank": 21,
@@ -6355,6 +6403,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 246544,
+      "num": 246544,
+      "word": "杜华卸任乐华法定代表人",
+      "onboard_time": 1711623197,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 246507,
       "num": 246507,
       "word": "张元英默剧表演",
@@ -7475,6 +7531,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 210820,
+      "num": 210820,
+      "word": "女子遭丈夫家暴后死亡",
+      "onboard_time": 1711621219,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 210456,
       "num": 210456,
       "word": "王俊凯快被玩坏了",
@@ -7683,6 +7747,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 205948,
+      "num": 172854,
+      "word": "雷军感谢多家车企",
+      "onboard_time": 1711624159,
+      "rank": 31,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 205665,
       "num": 205665,
       "word": "大家不要老是幻想自己死了",
@@ -7793,14 +7865,6 @@
       "onboard_time": 1711274779,
       "rank": 31,
       "category": "情感"
-    },
-    {
-      "raw_hot": 203641,
-      "num": 203641,
-      "word": "小米SU7价格预测",
-      "onboard_time": 1711622179,
-      "rank": 25,
-      "category": "汽车"
     },
     {
       "raw_hot": 203276,
@@ -8307,6 +8371,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 195507,
+      "num": 195507,
+      "word": "中国新能源车一起向前",
+      "onboard_time": 1711623679,
+      "rank": 27,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 195411,
       "num": 195411,
       "word": "再也不怕早八迟到了",
@@ -8553,14 +8625,6 @@
       "onboard_time": 1711462940,
       "rank": 43,
       "category": "体育"
-    },
-    {
-      "raw_hot": 192368,
-      "num": 192368,
-      "word": "小米SU7",
-      "onboard_time": 1711602861,
-      "rank": 39,
-      "category": "汽车"
     },
     {
       "raw_hot": 192360,
@@ -9403,6 +9467,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 177403,
+      "num": 177403,
+      "word": "龚俊钟楚曦走红毯",
+      "onboard_time": 1711622957,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 177308,
       "num": 177308,
       "word": "上班给人带来的改变能有多大",
@@ -9803,6 +9875,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 169984,
+      "num": 169984,
+      "word": "小米发布会直播",
+      "onboard_time": 1711623558,
+      "rank": 32,
+      "category": "数码"
+    },
+    {
       "raw_hot": 169771,
       "num": 145379,
       "word": "梦泪 谢谢大家的祝福",
@@ -9913,6 +9993,14 @@
       "onboard_time": 1711345518,
       "rank": 35,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 167749,
+      "num": 167749,
+      "word": "销售称已有60人通过自己盲订小米SU7",
+      "onboard_time": 1711623620,
+      "rank": 34,
+      "category": "汽车"
     },
     {
       "raw_hot": 167517,
@@ -10363,14 +10451,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 161005,
-      "num": 161005,
-      "word": "女子遭丈夫家暴后死亡",
-      "onboard_time": 1711621219,
-      "rank": 33,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 160893,
       "num": 150316,
       "word": "杨超越捧花头像",
@@ -10609,6 +10689,14 @@
       "onboard_time": 1711516520,
       "rank": 48,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 157364,
+      "num": 157364,
+      "word": "男子3年隔空猥亵40多名未成年人",
+      "onboard_time": 1711622419,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 157307,
@@ -11851,6 +11939,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 138291,
+      "num": 138291,
+      "word": "女性最无声的炫富",
+      "onboard_time": 1711624398,
+      "rank": 37,
+      "category": "情感"
+    },
+    {
       "raw_hot": 138234,
       "num": 138234,
       "word": "尔滨上新草莓烤冷面",
@@ -12787,6 +12883,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 119171,
+      "num": 727009,
+      "word": "大熊猫委屈巴巴说是抱枕先动手的",
+      "onboard_time": 1711623679,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 118726,
       "num": 118726,
       "word": "NewJeans回归计划",
@@ -12817,6 +12921,14 @@
       "onboard_time": 1711237876,
       "rank": 43,
       "category": "情感"
+    },
+    {
+      "raw_hot": 118454,
+      "num": 118454,
+      "word": "RNGM对战DYG",
+      "onboard_time": 1711620858,
+      "rank": 47,
+      "category": "电竞"
     },
     {
       "raw_hot": 118326,
@@ -12875,6 +12987,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 116955,
+      "num": 116955,
+      "word": "Vidda回应小米诉讼",
+      "onboard_time": 1711615338,
+      "rank": 49,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 116706,
       "num": 115978,
       "word": "鹭卓 少年之家有大事",
@@ -12921,6 +13041,14 @@
       "onboard_time": 1711610476,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 115828,
+      "num": 108488,
+      "word": "钟楚曦李一桐可以结婚了",
+      "onboard_time": 1711624398,
+      "rank": 44,
+      "category": "剧集"
     },
     {
       "raw_hot": 115662,
@@ -12993,6 +13121,14 @@
       "onboard_time": 1711436059,
       "rank": 47,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 112734,
+      "num": 112734,
+      "word": "宫崎骏新片中国首映礼",
+      "onboard_time": 1711623438,
+      "rank": 42,
+      "category": "电影"
     },
     {
       "raw_hot": 112634,
@@ -13073,14 +13209,6 @@
       "onboard_time": 1711321215,
       "rank": 29,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 110990,
-      "num": 110990,
-      "word": "女生举报遭生父性侵有证据在审查",
-      "onboard_time": 1711621937,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 110957,
@@ -13235,6 +13363,14 @@
       "category": "动漫,作品衍生"
     },
     {
+      "raw_hot": 107193,
+      "num": 107193,
+      "word": "原来我是那个裁员大动脉",
+      "onboard_time": 1711622957,
+      "rank": 45,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 106432,
       "num": 106432,
       "word": "马思纯双丸子头",
@@ -13259,28 +13395,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 105408,
-      "num": 105408,
-      "word": "RNGM对战DYG",
-      "onboard_time": 1711620858,
-      "rank": 47,
-      "category": "电竞"
-    },
-    {
-      "raw_hot": 104664,
-      "num": 104664,
-      "word": "Vidda回应小米诉讼",
-      "onboard_time": 1711615338,
-      "rank": 49,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 104590,
       "num": 104590,
       "word": "卡琳娜 全知读者视角",
       "onboard_time": 1711191200,
       "rank": 49,
       "category": "动漫,网红"
+    },
+    {
+      "raw_hot": 103237,
+      "num": 103237,
+      "word": "王者S35新赛季",
+      "onboard_time": 1711623679,
+      "rank": 48,
+      "category": "游戏"
     },
     {
       "raw_hot": 103225,
@@ -13313,6 +13441,14 @@
       "onboard_time": 1711434198,
       "rank": 29,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 100897,
+      "num": 726425,
+      "word": "消防员扑灭山火在大雪中激动欢呼",
+      "onboard_time": 1711621579,
+      "rank": 8,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 100335,
@@ -13819,14 +13955,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 55595,
-      "num": 618332,
-      "word": "消防员扑灭山火在大雪中激动欢呼",
-      "onboard_time": 1711621579,
-      "rank": 8,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 52825,
       "num": 199766,
       "word": "一句话就能让AI剪好视频",
@@ -13932,7 +14060,7 @@
     },
     {
       "raw_hot": 48833,
-      "num": 1028608,
+      "num": 1863286,
       "word": "博鳌亚洲论坛会场AI元素满满",
       "onboard_time": 1711615878,
       "rank": 2,
