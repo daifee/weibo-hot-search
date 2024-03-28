@@ -1,6 +1,6 @@
 {
   "startTime": 1711210803824,
-  "endTime": 1711592806211,
+  "endTime": 1711593450736,
   "band_list": [
     {
       "raw_hot": 3922233,
@@ -379,6 +379,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1524970,
+      "num": 1524970,
+      "word": "黄晓明航班取消",
+      "onboard_time": 1711589958,
+      "rank": 0,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1505448,
       "num": 1505448,
       "word": "台湾一男子持枪朝派出所门口扫射",
@@ -473,14 +481,6 @@
       "onboard_time": 1711342579,
       "rank": 20,
       "category": "情感"
-    },
-    {
-      "raw_hot": 1417302,
-      "num": 1417302,
-      "word": "黄晓明航班取消",
-      "onboard_time": 1711589958,
-      "rank": 0,
-      "category": "综艺"
     },
     {
       "raw_hot": 1409735,
@@ -1140,7 +1140,7 @@
     },
     {
       "raw_hot": 868578,
-      "num": 243888,
+      "num": 254429,
       "word": "阿娇机场被搭讪",
       "onboard_time": 1711584138,
       "rank": 21,
@@ -1388,7 +1388,7 @@
     },
     {
       "raw_hot": 775048,
-      "num": 206981,
+      "num": 263090,
       "word": "订婚后发现女朋友之前确诊双相",
       "onboard_time": 1711589778,
       "rank": 20,
@@ -1963,6 +1963,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 649369,
+      "num": 649369,
+      "word": "女主是个永不道歉的人",
+      "onboard_time": 1711588519,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 647605,
       "num": 647605,
       "word": "爸爸因为妈妈要学车开始发癫",
@@ -2347,14 +2355,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 563913,
-      "num": 563913,
-      "word": "女主是个永不道歉的人",
-      "onboard_time": 1711588519,
-      "rank": 30,
-      "category": "情感"
-    },
-    {
       "raw_hot": 563125,
       "num": 200182,
       "word": "外交部回应巴基斯坦炸弹袭击",
@@ -2713,6 +2713,14 @@
       "onboard_time": 1711325599,
       "rank": 13,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 518870,
+      "num": 518870,
+      "word": "李铁押解车辆已经驶入法院",
+      "onboard_time": 1711591218,
+      "rank": 10,
+      "category": "体育"
     },
     {
       "raw_hot": 516876,
@@ -3219,14 +3227,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 457209,
-      "num": 457209,
-      "word": "李铁押解车辆已经驶入法院",
-      "onboard_time": 1711591218,
-      "rank": 10,
-      "category": "体育"
-    },
-    {
       "raw_hot": 457054,
       "num": 457054,
       "word": "女生跑42公里全马庆祝30岁生日",
@@ -3289,6 +3289,14 @@
       "onboard_time": 1711332319,
       "rank": 19,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 453096,
+      "num": 453096,
+      "word": "陈戌源曾劝李铁退还4800万遭拒绝",
+      "onboard_time": 1711593137,
+      "rank": 9,
+      "category": "体育"
     },
     {
       "raw_hot": 450317,
@@ -3931,6 +3939,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 379206,
+      "num": 379206,
+      "word": "papi酱 别人度假vs我度假",
+      "onboard_time": 1711591037,
+      "rank": 14,
+      "category": "网红"
+    },
+    {
       "raw_hot": 379093,
       "num": 348970,
       "word": "外媒称伊斯兰国发布袭击音乐厅视频",
@@ -4323,14 +4339,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 340398,
-      "num": 340398,
-      "word": "papi酱 别人度假vs我度假",
-      "onboard_time": 1711591037,
-      "rank": 14,
-      "category": "网红"
-    },
-    {
       "raw_hot": 339582,
       "num": 339582,
       "word": "张艺兴有两部综艺要播",
@@ -4707,6 +4715,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 301933,
+      "num": 301933,
+      "word": "柯基考上山东公务员了",
+      "onboard_time": 1711591877,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 300842,
       "num": 257577,
       "word": "小户型为什么不香了",
@@ -5059,6 +5075,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 278825,
+      "num": 278825,
+      "word": "招商银行近两年向员工追薪1亿多元",
+      "onboard_time": 1711591818,
+      "rank": 19,
+      "category": "财经"
+    },
+    {
       "raw_hot": 278678,
       "num": 278678,
       "word": "朴灿烈在线",
@@ -5081,6 +5105,14 @@
       "onboard_time": 1711373720,
       "rank": 23,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 278202,
+      "num": 249602,
+      "word": "工商银行每天赚近10亿",
+      "onboard_time": 1711591998,
+      "rank": 24,
+      "category": "财经"
     },
     {
       "raw_hot": 277549,
@@ -5595,6 +5627,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 250140,
+      "num": 250140,
+      "word": "五月天香港抢票",
+      "onboard_time": 1711592777,
+      "rank": 47,
+      "category": "演出"
+    },
+    {
       "raw_hot": 249921,
       "num": 249921,
       "word": "武磊两射一传",
@@ -5633,14 +5673,6 @@
       "onboard_time": 1711254558,
       "rank": 30,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 248897,
-      "num": 178417,
-      "word": "柯基考上山东公务员了",
-      "onboard_time": 1711591877,
-      "rank": 30,
-      "category": "情感"
     },
     {
       "raw_hot": 248885,
@@ -5753,14 +5785,6 @@
       "onboard_time": 1711420759,
       "rank": 21,
       "category": "情感"
-    },
-    {
-      "raw_hot": 245478,
-      "num": 205080,
-      "word": "工商银行每天赚近10亿",
-      "onboard_time": 1711591998,
-      "rank": 24,
-      "category": "财经"
     },
     {
       "raw_hot": 244668,
@@ -5977,6 +6001,14 @@
       "onboard_time": 1711452257,
       "rank": 34,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 235927,
+      "num": 235927,
+      "word": "惜花芷定档",
+      "onboard_time": 1711593017,
+      "rank": 25,
+      "category": "剧集"
     },
     {
       "raw_hot": 235875,
@@ -6635,6 +6667,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 213899,
+      "num": 213899,
+      "word": "极限挑战漠囧官宣",
+      "onboard_time": 1711592657,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 213717,
       "num": 213717,
       "word": "邓超说孙俪真过分",
@@ -6841,14 +6881,6 @@
       "onboard_time": 1711377681,
       "rank": 32,
       "category": "演出"
-    },
-    {
-      "raw_hot": 207008,
-      "num": 207008,
-      "word": "招商银行近两年向员工追薪1亿多元",
-      "onboard_time": 1711591818,
-      "rank": 19,
-      "category": "财经"
     },
     {
       "raw_hot": 206847,
@@ -7667,6 +7699,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 191502,
+      "num": 191502,
+      "word": "贵女开机图",
+      "onboard_time": 1711592837,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 191397,
       "num": 191397,
       "word": "宫崎骏上班日记",
@@ -7729,6 +7769,14 @@
       "onboard_time": 1711506198,
       "rank": 27,
       "category": "艺人,美妆"
+    },
+    {
+      "raw_hot": 189910,
+      "num": 189910,
+      "word": "李铁庭审预计持续到下午",
+      "onboard_time": 1711593077,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 189706,
@@ -7809,6 +7857,14 @@
       "onboard_time": 1711430119,
       "rank": 48,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 188549,
+      "num": 188549,
+      "word": "移风易俗不能简单一刀切",
+      "onboard_time": 1711593197,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 188486,
@@ -8459,6 +8515,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 172989,
+      "num": 172989,
+      "word": "种地吧监工直播",
+      "onboard_time": 1711591337,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 172900,
       "num": 172900,
       "word": "娜扎去普吉岛了",
@@ -8649,14 +8713,6 @@
       "onboard_time": 1711204882,
       "rank": 36,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 169176,
-      "num": 169176,
-      "word": "种地吧监工直播",
-      "onboard_time": 1711591337,
-      "rank": 32,
-      "category": "综艺"
     },
     {
       "raw_hot": 168961,
@@ -9313,6 +9369,14 @@
       "onboard_time": 1711208420,
       "rank": 40,
       "category": "演出"
+    },
+    {
+      "raw_hot": 157705,
+      "num": 157705,
+      "word": "全红婵17岁啦",
+      "onboard_time": 1711593137,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 157570,
@@ -10251,14 +10315,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 142239,
-      "num": 142239,
-      "word": "极限挑战漠囧官宣",
-      "onboard_time": 1711592657,
-      "rank": 35,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 141988,
       "num": 141988,
       "word": "公园二十分钟效应",
@@ -10715,12 +10771,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 133412,
+      "num": 133412,
+      "word": "为什么会有巨婴",
+      "onboard_time": 1711592357,
+      "rank": 43,
+      "category": "情感"
+    },
+    {
       "raw_hot": 133272,
       "num": 133272,
       "word": "逆水寒晋剧联动",
       "onboard_time": 1711349477,
       "rank": 48,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 133187,
+      "num": 133187,
+      "word": "还没上班我妈已经规划好了我的工资",
+      "onboard_time": 1711589719,
+      "rank": 37,
+      "category": "幽默"
     },
     {
       "raw_hot": 133068,
@@ -10777,14 +10849,6 @@
       "onboard_time": 1711250119,
       "rank": 41,
       "category": "演出"
-    },
-    {
-      "raw_hot": 131252,
-      "num": 131252,
-      "word": "还没上班我妈已经规划好了我的工资",
-      "onboard_time": 1711589719,
-      "rank": 37,
-      "category": "幽默"
     },
     {
       "raw_hot": 130886,
@@ -10929,6 +10993,14 @@
       "onboard_time": 1711375039,
       "rank": 45,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 127884,
+      "num": 127884,
+      "word": "Wendy俺老孙来也",
+      "onboard_time": 1711592538,
+      "rank": 44,
+      "category": "艺人"
     },
     {
       "raw_hot": 127681,
@@ -11211,14 +11283,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 121669,
-      "num": 121669,
-      "word": "为什么会有巨婴",
-      "onboard_time": 1711592357,
-      "rank": 43,
-      "category": "情感"
-    },
-    {
       "raw_hot": 121502,
       "num": 121502,
       "word": "猜猜我是谁",
@@ -11281,14 +11345,6 @@
       "onboard_time": 1711441998,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 119789,
-      "num": 119789,
-      "word": "Wendy俺老孙来也",
-      "onboard_time": 1711592538,
-      "rank": 44,
-      "category": "艺人"
     },
     {
       "raw_hot": 119728,
@@ -11449,14 +11505,6 @@
       "onboard_time": 1711267220,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 113946,
-      "num": 113946,
-      "word": "五月天香港抢票",
-      "onboard_time": 1711592777,
-      "rank": 47,
-      "category": "演出"
     },
     {
       "raw_hot": 113700,
