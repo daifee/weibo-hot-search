@@ -1,6 +1,6 @@
 {
   "startTime": 1711210803824,
-  "endTime": 1711636445702,
+  "endTime": 1711639141968,
   "band_list": [
     {
       "raw_hot": 21250232,
@@ -51,6 +51,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 3826348,
+      "num": 3826348,
+      "word": "小米汽车27分钟大定突破50000台",
+      "onboard_time": 1711637000,
+      "rank": 3,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 3505714,
       "num": 3505714,
       "word": "妇产科迎来关停潮",
@@ -83,6 +91,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 2884638,
+      "num": 2583476,
+      "word": "小米发布会",
+      "onboard_time": 1711615939,
+      "rank": 18,
+      "category": "数码"
+    },
+    {
       "raw_hot": 2859654,
       "num": 2859654,
       "word": "王濛的母亲张晓霞",
@@ -97,14 +113,6 @@
       "onboard_time": 1711439478,
       "rank": 1,
       "category": "科学科普"
-    },
-    {
-      "raw_hot": 2706079,
-      "num": 2583476,
-      "word": "小米发布会",
-      "onboard_time": 1711615939,
-      "rank": 18,
-      "category": "数码"
     },
     {
       "raw_hot": 2611195,
@@ -1363,6 +1371,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 852270,
+      "num": 852270,
+      "word": "小米SU7价格预测",
+      "onboard_time": 1711622179,
+      "rank": 25,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 848636,
       "num": 848636,
       "word": "冯提莫腰线",
@@ -1545,14 +1561,6 @@
       "onboard_time": 1711240339,
       "rank": 1,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 783272,
-      "num": 783272,
-      "word": "小米SU7价格预测",
-      "onboard_time": 1711622179,
-      "rank": 25,
-      "category": "汽车"
     },
     {
       "raw_hot": 781757,
@@ -2099,6 +2107,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 674451,
+      "num": 603201,
+      "word": "王阳居然和赵丽颖合作过",
+      "onboard_time": 1711635081,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 673258,
       "num": 673258,
       "word": "陈铭被质疑为何没非升即走",
@@ -2515,14 +2531,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 603201,
-      "num": 603201,
-      "word": "王阳居然和赵丽颖合作过",
-      "onboard_time": 1711635081,
-      "rank": 26,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 602528,
       "num": 578919,
       "word": "台湾网友关注天水麻辣烫",
@@ -2697,6 +2705,14 @@
       "onboard_time": 1711441577,
       "rank": 28,
       "category": "教育"
+    },
+    {
+      "raw_hot": 570409,
+      "num": 570409,
+      "word": "小米订单",
+      "onboard_time": 1711638021,
+      "rank": 15,
+      "category": "汽车"
     },
     {
       "raw_hot": 568860,
@@ -3227,6 +3243,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 510236,
+      "num": 510236,
+      "word": "极限挑战直播",
+      "onboard_time": 1711636341,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 509945,
       "num": 509945,
       "word": "杨和苏鼻梁",
@@ -3564,7 +3588,7 @@
     },
     {
       "raw_hot": 475254,
-      "num": 376733,
+      "num": 494179,
       "word": "负债4万考公上岸值得吗",
       "onboard_time": 1711616838,
       "rank": 20,
@@ -3939,6 +3963,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 440173,
+      "num": 440173,
+      "word": "唐嫣生图",
+      "onboard_time": 1711635202,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 439996,
       "num": 439996,
       "word": "白桃星座",
@@ -4243,6 +4275,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 408049,
+      "num": 408049,
+      "word": "科技春晚",
+      "onboard_time": 1711624998,
+      "rank": 15,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 407897,
       "num": 407897,
       "word": "王一博原声台词被文旅刷屏",
@@ -4403,6 +4443,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 393535,
+      "num": 393535,
+      "word": "成毅投票",
+      "onboard_time": 1711638021,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 392987,
       "num": 392987,
       "word": "林更新直播",
@@ -4457,14 +4505,6 @@
       "onboard_time": 1711288280,
       "rank": 18,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 389614,
-      "num": 389614,
-      "word": "唐嫣生图",
-      "onboard_time": 1711635202,
-      "rank": 42,
-      "category": "剧集"
     },
     {
       "raw_hot": 389457,
@@ -4729,14 +4769,6 @@
       "onboard_time": 1711283840,
       "rank": 14,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 365955,
-      "num": 365955,
-      "word": "科技春晚",
-      "onboard_time": 1711624998,
-      "rank": 15,
-      "category": "汽车"
     },
     {
       "raw_hot": 364742,
@@ -5139,6 +5171,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 332861,
+      "num": 332861,
+      "word": "小米汽车销量",
+      "onboard_time": 1711637960,
+      "rank": 31,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 332181,
       "num": 332181,
       "word": "肖宇梁好瘦",
@@ -5240,6 +5280,14 @@
       "word": "沈璃被扇",
       "onboard_time": 1711293320,
       "rank": 35,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 321523,
+      "num": 321523,
+      "word": "肖战年度全媒体关注剧星",
+      "onboard_time": 1711638622,
+      "rank": 33,
       "category": "剧集"
     },
     {
@@ -5425,6 +5473,14 @@
       "onboard_time": 1711599200,
       "rank": 30,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 309548,
+      "num": 857202,
+      "word": "女子遭丈夫家暴后死亡",
+      "onboard_time": 1711621219,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 309349,
@@ -5721,6 +5777,14 @@
       "onboard_time": 1711439058,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 293108,
+      "num": 293108,
+      "word": "李李没笑 但辛芷蕾笑了",
+      "onboard_time": 1711638200,
+      "rank": 36,
+      "category": "剧集"
     },
     {
       "raw_hot": 291795,
@@ -6041,6 +6105,14 @@
       "onboard_time": 1711361959,
       "rank": 23,
       "category": "艺人,艺人"
+    },
+    {
+      "raw_hot": 276319,
+      "num": 276319,
+      "word": "赵丽颖设计的花钿",
+      "onboard_time": 1711637661,
+      "rank": 39,
+      "category": "剧集"
     },
     {
       "raw_hot": 276097,
@@ -7179,14 +7251,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 233347,
-      "num": 233347,
-      "word": "极限挑战直播",
-      "onboard_time": 1711636341,
-      "rank": 46,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 233123,
       "num": 182275,
       "word": "导致胃部癌变的6大因素",
@@ -7505,14 +7569,6 @@
       "onboard_time": 1711361238,
       "rank": 35,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 225728,
-      "num": 377479,
-      "word": "女子遭丈夫家暴后死亡",
-      "onboard_time": 1711621219,
-      "rank": 33,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 225523,
@@ -7939,6 +7995,14 @@
       "category": "作品衍生,美妆"
     },
     {
+      "raw_hot": 213503,
+      "num": 213503,
+      "word": "新浪娱乐头像",
+      "onboard_time": 1711620020,
+      "rank": 27,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 213374,
       "num": 213374,
       "word": "韩庚卢靖姗撒糖",
@@ -8281,6 +8345,14 @@
       "onboard_time": 1711625178,
       "rank": 30,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 204468,
+      "num": 204468,
+      "word": "原来世界上真的有快乐减肥的方法",
+      "onboard_time": 1711636641,
+      "rank": 48,
+      "category": "运动健身"
     },
     {
       "raw_hot": 204384,
@@ -9635,6 +9707,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 184344,
+      "num": 358835,
+      "word": "95后女生每月副业收入过万",
+      "onboard_time": 1711638200,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 184329,
       "num": 184329,
       "word": "足协原常务副秘书长陈永亮被判14年",
@@ -10680,14 +10760,6 @@
       "word": "模仿张元英",
       "onboard_time": 1711539497,
       "rank": 33,
-      "category": "作品衍生"
-    },
-    {
-      "raw_hot": 164678,
-      "num": 164678,
-      "word": "新浪娱乐头像",
-      "onboard_time": 1711620020,
-      "rank": 27,
       "category": "作品衍生"
     },
     {
@@ -12860,7 +12932,7 @@
     },
     {
       "raw_hot": 130860,
-      "num": 365212,
+      "num": 496079,
       "word": "李铁涉案金额超1亿",
       "onboard_time": 1711636222,
       "rank": 29,
@@ -14057,6 +14129,14 @@
       "onboard_time": 1711625598,
       "rank": 48,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 97602,
+      "num": 302110,
+      "word": "选的刮刮卡被店员卖给别人错失100万",
+      "onboard_time": 1711638681,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 96795,
