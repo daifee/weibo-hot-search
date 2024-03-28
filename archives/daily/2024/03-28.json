@@ -1,6 +1,6 @@
 {
   "startTime": 1711556587484,
-  "endTime": 1711635497822,
+  "endTime": 1711636445702,
   "band_list": [
     {
       "raw_hot": 21250232,
@@ -35,7 +35,7 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 2583476,
+      "raw_hot": 2706079,
       "num": 2583476,
       "word": "小米发布会",
       "onboard_time": 1711615939,
@@ -75,6 +75,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 1837894,
+      "num": 1837894,
+      "word": "黄圣依杨子直播事件6人被刑拘",
+      "onboard_time": 1711634542,
+      "rank": 4,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1804586,
       "num": 1804586,
       "word": "自刷差评淄博烧烤店谈爆火1年现状",
@@ -89,14 +97,6 @@
       "onboard_time": 1711589958,
       "rank": 0,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1402437,
-      "num": 1402437,
-      "word": "黄圣依杨子直播事件6人被刑拘",
-      "onboard_time": 1711634542,
-      "rank": 4,
-      "category": "艺人"
     },
     {
       "raw_hot": 1267911,
@@ -404,7 +404,7 @@
     },
     {
       "raw_hot": 659009,
-      "num": 319289,
+      "num": 331338,
       "word": "爱吃辣的人癌症死亡率比同龄人要低",
       "onboard_time": 1711622538,
       "rank": 20,
@@ -489,6 +489,14 @@
       "onboard_time": 1711598898,
       "rank": 22,
       "category": "电影"
+    },
+    {
+      "raw_hot": 603201,
+      "num": 603201,
+      "word": "王阳居然和赵丽颖合作过",
+      "onboard_time": 1711635081,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 598826,
@@ -601,6 +609,14 @@
       "onboard_time": 1711619059,
       "rank": 7,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 514607,
+      "num": 514607,
+      "word": "东方卫视主持人",
+      "onboard_time": 1711634961,
+      "rank": 30,
+      "category": "剧集"
     },
     {
       "raw_hot": 513439,
@@ -788,7 +804,7 @@
     },
     {
       "raw_hot": 426038,
-      "num": 546481,
+      "num": 571577,
       "word": "李铁被控非法收受5089万余元",
       "onboard_time": 1711631124,
       "rank": 19,
@@ -867,19 +883,11 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 389329,
-      "num": 376554,
-      "word": "东方卫视主持人",
-      "onboard_time": 1711634961,
-      "rank": 30,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 388879,
-      "num": 388879,
-      "word": "王阳居然和赵丽颖合作过",
-      "onboard_time": 1711635081,
-      "rank": 26,
+      "raw_hot": 389614,
+      "num": 389614,
+      "word": "唐嫣生图",
+      "onboard_time": 1711635202,
+      "rank": 42,
       "category": "剧集"
     },
     {
@@ -953,6 +961,14 @@
       "onboard_time": 1711592657,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 355616,
+      "num": 355616,
+      "word": "等红米汽车",
+      "onboard_time": 1711634421,
+      "rank": 35,
+      "category": "汽车"
     },
     {
       "raw_hot": 354279,
@@ -1091,14 +1107,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 311811,
-      "num": 311811,
-      "word": "等红米汽车",
-      "onboard_time": 1711634421,
-      "rank": 35,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 311685,
       "num": 311685,
       "word": "胡歌高圆圆新片入围北影节主竞赛",
@@ -1145,6 +1153,14 @@
       "onboard_time": 1711630943,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 307207,
+      "num": 307207,
+      "word": "比亚迪",
+      "onboard_time": 1711632562,
+      "rank": 36,
+      "category": "汽车"
     },
     {
       "raw_hot": 304373,
@@ -1219,14 +1235,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 288281,
-      "num": 288281,
-      "word": "比亚迪",
-      "onboard_time": 1711632562,
-      "rank": 36,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 286324,
       "num": 286324,
       "word": "什么病应该挂什么科",
@@ -1243,14 +1251,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 284378,
-      "num": 284378,
-      "word": "唐嫣生图",
-      "onboard_time": 1711635202,
-      "rank": 42,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 282243,
       "num": 282243,
       "word": "TheShy问Ning去不去nip",
@@ -1265,6 +1265,14 @@
       "onboard_time": 1711632322,
       "rank": 35,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 279784,
+      "num": 279784,
+      "word": "李想",
+      "onboard_time": 1711635502,
+      "rank": 42,
+      "category": "汽车"
     },
     {
       "raw_hot": 278202,
@@ -1547,6 +1555,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 233347,
+      "num": 233347,
+      "word": "极限挑战直播",
+      "onboard_time": 1711636341,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 233123,
       "num": 154892,
       "word": "导致胃部癌变的6大因素",
@@ -1625,6 +1641,14 @@
       "onboard_time": 1711599800,
       "rank": 34,
       "category": "情感"
+    },
+    {
+      "raw_hot": 225728,
+      "num": 377479,
+      "word": "女子遭丈夫家暴后死亡",
+      "onboard_time": 1711621219,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 225523,
@@ -1771,14 +1795,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 210820,
-      "num": 377479,
-      "word": "女子遭丈夫家暴后死亡",
-      "onboard_time": 1711621219,
-      "rank": 33,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 210456,
       "num": 210456,
       "word": "王俊凯快被玩坏了",
@@ -1884,7 +1900,7 @@
     },
     {
       "raw_hot": 202859,
-      "num": 546090,
+      "num": 573115,
       "word": "王曼昱晋级",
       "onboard_time": 1711633040,
       "rank": 19,
@@ -2715,6 +2731,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 144093,
+      "num": 745660,
+      "word": "小米SU7价格真香",
+      "onboard_time": 1711632982,
+      "rank": 11,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 142054,
       "num": 142054,
       "word": "过期的防晒霜千万不要用",
@@ -2793,6 +2817,14 @@
       "onboard_time": 1711545978,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 130860,
+      "num": 365212,
+      "word": "李铁涉案金额超1亿",
+      "onboard_time": 1711636222,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 130848,
@@ -2891,6 +2923,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 120439,
+      "num": 4693738,
+      "word": "万千气象看云南",
+      "onboard_time": 1711630582,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 120135,
       "num": 120135,
       "word": "王一博帮黄秘书OS",
@@ -2947,14 +2987,6 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 117807,
-      "num": 4693738,
-      "word": "万千气象看云南",
-      "onboard_time": 1711630582,
-      "rank": 2,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 117244,
       "num": 207421,
       "word": "婺源古村春花绽放美如画卷",
@@ -2977,14 +3009,6 @@
       "onboard_time": 1711605258,
       "rank": 47,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 114295,
-      "num": 725263,
-      "word": "小米SU7价格真香",
-      "onboard_time": 1711632982,
-      "rank": 11,
-      "category": "汽车"
     },
     {
       "raw_hot": 113971,

@@ -1,6 +1,6 @@
 {
   "startTime": 1711210803824,
-  "endTime": 1711635497822,
+  "endTime": 1711636445702,
   "band_list": [
     {
       "raw_hot": 21250232,
@@ -99,20 +99,20 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 2706079,
+      "num": 2583476,
+      "word": "小米发布会",
+      "onboard_time": 1711615939,
+      "rank": 18,
+      "category": "数码"
+    },
+    {
       "raw_hot": 2611195,
       "num": 2611195,
       "word": "胖东来回应985女生应聘没进面试",
       "onboard_time": 1711278739,
       "rank": 49,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 2583476,
-      "num": 2583476,
-      "word": "小米发布会",
-      "onboard_time": 1711615939,
-      "rank": 18,
-      "category": "数码"
     },
     {
       "raw_hot": 2546242,
@@ -297,6 +297,14 @@
       "onboard_time": 1711328959,
       "rank": 36,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1837894,
+      "num": 1837894,
+      "word": "黄圣依杨子直播事件6人被刑拘",
+      "onboard_time": 1711634542,
+      "rank": 4,
+      "category": "艺人"
     },
     {
       "raw_hot": 1810036,
@@ -561,14 +569,6 @@
       "onboard_time": 1711532899,
       "rank": 1,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1402437,
-      "num": 1402437,
-      "word": "黄圣依杨子直播事件6人被刑拘",
-      "onboard_time": 1711634542,
-      "rank": 4,
-      "category": "艺人"
     },
     {
       "raw_hot": 1383546,
@@ -2204,7 +2204,7 @@
     },
     {
       "raw_hot": 659009,
-      "num": 319289,
+      "num": 331338,
       "word": "爱吃辣的人癌症死亡率比同龄人要低",
       "onboard_time": 1711622538,
       "rank": 20,
@@ -2513,6 +2513,14 @@
       "onboard_time": 1711409415,
       "rank": 28,
       "category": "数码"
+    },
+    {
+      "raw_hot": 603201,
+      "num": 603201,
+      "word": "王阳居然和赵丽颖合作过",
+      "onboard_time": 1711635081,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 602528,
@@ -3185,6 +3193,14 @@
       "onboard_time": 1711365378,
       "rank": 20,
       "category": "情感"
+    },
+    {
+      "raw_hot": 514607,
+      "num": 514607,
+      "word": "东方卫视主持人",
+      "onboard_time": 1711634961,
+      "rank": 30,
+      "category": "剧集"
     },
     {
       "raw_hot": 513831,
@@ -4044,7 +4060,7 @@
     },
     {
       "raw_hot": 426038,
-      "num": 546481,
+      "num": 571577,
       "word": "李铁被控非法收受5089万余元",
       "onboard_time": 1711631124,
       "rank": 19,
@@ -4443,6 +4459,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 389614,
+      "num": 389614,
+      "word": "唐嫣生图",
+      "onboard_time": 1711635202,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 389457,
       "num": 372198,
       "word": "女生取24颗胆结石没事盘着玩",
@@ -4457,22 +4481,6 @@
       "onboard_time": 1711419497,
       "rank": 26,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 389329,
-      "num": 376554,
-      "word": "东方卫视主持人",
-      "onboard_time": 1711634961,
-      "rank": 30,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 388879,
-      "num": 388879,
-      "word": "王阳居然和赵丽颖合作过",
-      "onboard_time": 1711635081,
-      "rank": 26,
-      "category": "剧集"
     },
     {
       "raw_hot": 388325,
@@ -4825,6 +4833,14 @@
       "onboard_time": 1711507879,
       "rank": 13,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 355616,
+      "num": 355616,
+      "word": "等红米汽车",
+      "onboard_time": 1711634421,
+      "rank": 35,
+      "category": "汽车"
     },
     {
       "raw_hot": 355157,
@@ -5379,14 +5395,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 311811,
-      "num": 311811,
-      "word": "等红米汽车",
-      "onboard_time": 1711634421,
-      "rank": 35,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 311685,
       "num": 311685,
       "word": "胡歌高圆圆新片入围北影节主竞赛",
@@ -5465,6 +5473,14 @@
       "onboard_time": 1711200021,
       "rank": 18,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 307207,
+      "num": 307207,
+      "word": "比亚迪",
+      "onboard_time": 1711632562,
+      "rank": 36,
+      "category": "汽车"
     },
     {
       "raw_hot": 306609,
@@ -5803,14 +5819,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 288281,
-      "num": 288281,
-      "word": "比亚迪",
-      "onboard_time": 1711632562,
-      "rank": 36,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 288104,
       "num": 288104,
       "word": "cpsp",
@@ -5907,14 +5915,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 284378,
-      "num": 284378,
-      "word": "唐嫣生图",
-      "onboard_time": 1711635202,
-      "rank": 42,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 283849,
       "num": 283849,
       "word": "异地恋分手高峰期",
@@ -5977,6 +5977,14 @@
       "onboard_time": 1711266499,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 279784,
+      "num": 279784,
+      "word": "李想",
+      "onboard_time": 1711635502,
+      "rank": 42,
+      "category": "汽车"
     },
     {
       "raw_hot": 279020,
@@ -7171,6 +7179,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 233347,
+      "num": 233347,
+      "word": "极限挑战直播",
+      "onboard_time": 1711636341,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 233123,
       "num": 182275,
       "word": "导致胃部癌变的6大因素",
@@ -7489,6 +7505,14 @@
       "onboard_time": 1711361238,
       "rank": 35,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 225728,
+      "num": 377479,
+      "word": "女子遭丈夫家暴后死亡",
+      "onboard_time": 1711621219,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 225523,
@@ -7979,14 +8003,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 210820,
-      "num": 377479,
-      "word": "女子遭丈夫家暴后死亡",
-      "onboard_time": 1711621219,
-      "rank": 33,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 210456,
       "num": 210456,
       "word": "王俊凯快被玩坏了",
@@ -8372,7 +8388,7 @@
     },
     {
       "raw_hot": 202859,
-      "num": 546090,
+      "num": 573115,
       "word": "王曼昱晋级",
       "onboard_time": 1711633040,
       "rank": 19,
@@ -12195,6 +12211,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 144093,
+      "num": 745660,
+      "word": "小米SU7价格真香",
+      "onboard_time": 1711632982,
+      "rank": 11,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 143993,
       "num": 143993,
       "word": "代号鸢三国志魂魂版",
@@ -12835,6 +12859,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 130860,
+      "num": 365212,
+      "word": "李铁涉案金额超1亿",
+      "onboard_time": 1711636222,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 130848,
       "num": 130848,
       "word": "恒大汽车2023年收入13.4亿",
@@ -13339,6 +13371,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 120439,
+      "num": 4693738,
+      "word": "万千气象看云南",
+      "onboard_time": 1711630582,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 120135,
       "num": 120135,
       "word": "王一博帮黄秘书OS",
@@ -13459,14 +13499,6 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 117807,
-      "num": 4693738,
-      "word": "万千气象看云南",
-      "onboard_time": 1711630582,
-      "rank": 2,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 117480,
       "num": 117480,
       "word": "其实明道也演过纪存希",
@@ -13585,14 +13617,6 @@
       "onboard_time": 1711605258,
       "rank": 47,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 114295,
-      "num": 725263,
-      "word": "小米SU7价格真香",
-      "onboard_time": 1711632982,
-      "rank": 11,
-      "category": "汽车"
     },
     {
       "raw_hot": 113700,
