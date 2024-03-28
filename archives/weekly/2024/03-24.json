@@ -1,6 +1,6 @@
 {
   "startTime": 1711210803824,
-  "endTime": 1711643784105,
+  "endTime": 1711646292575,
   "band_list": [
     {
       "raw_hot": 21250232,
@@ -7139,6 +7139,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 237248,
+      "num": 237248,
+      "word": "在英中国女留学生被刺身亡",
+      "onboard_time": 1711644495,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 236969,
       "num": 236969,
       "word": "与凤行预告",
@@ -8721,6 +8729,14 @@
       "onboard_time": 1711462160,
       "rank": 36,
       "category": "体育"
+    },
+    {
+      "raw_hot": 200067,
+      "num": 200067,
+      "word": "爱情公寓现场演唱版",
+      "onboard_time": 1711642756,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 199991,
@@ -10681,14 +10697,6 @@
       "onboard_time": 1711515921,
       "rank": 40,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 167475,
-      "num": 167475,
-      "word": "爱情公寓现场演唱版",
-      "onboard_time": 1711642756,
-      "rank": 48,
-      "category": "剧集"
     },
     {
       "raw_hot": 167331,
@@ -14643,6 +14651,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 62109,
+      "num": 62109,
+      "word": "网剧执笔",
+      "onboard_time": 1711645514,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 58088,
       "num": 58088,
       "word": "苏打绿香港",
@@ -14936,6 +14952,14 @@
       "word": "当汉字与春天不期而遇",
       "onboard_time": 1711413320,
       "rank": 36,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 34393,
+      "num": 58406,
+      "word": "曾坐在父亲外卖箱的宝宝住进新家了",
+      "onboard_time": 1711645574,
+      "rank": 48,
       "category": "社会新闻"
     },
     {
