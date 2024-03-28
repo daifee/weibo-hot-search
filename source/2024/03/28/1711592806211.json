@@ -1,0 +1,410 @@
+{
+  "runTime": 1711592806211,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1417302,
+        "num": 1417302,
+        "word": "黄晓明航班取消",
+        "onboard_time": 1711589958,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 938698,
+        "num": 938698,
+        "word": "自刷差评淄博烧烤店谈爆火1年现状",
+        "onboard_time": 1711582336,
+        "rank": 1,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 39192,
+        "num": 779257,
+        "word": "我国网络视听用户规模达10.74亿人",
+        "onboard_time": 1711543999,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 716625,
+        "num": 716625,
+        "word": "考研未上岸者就业质量不及同期毕业生",
+        "onboard_time": 1711588817,
+        "rank": 3,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 702908,
+        "num": 702908,
+        "word": "小林制药保健品致死人数升至4人",
+        "onboard_time": 1711590678,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 728175,
+        "num": 664083,
+        "word": "南通",
+        "onboard_time": 1711548440,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 563913,
+        "num": 563913,
+        "word": "女主是个永不道歉的人",
+        "onboard_time": 1711588519,
+        "rank": 6,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 563363,
+        "num": 563363,
+        "word": "小米汽车",
+        "onboard_time": 1711584138,
+        "rank": 7,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 525194,
+        "num": 525194,
+        "word": "Justin Bieber喝醉状况下演唱Stay",
+        "onboard_time": 1711584258,
+        "rank": 8,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 498236,
+        "num": 498236,
+        "word": "初中学历小伙写1500万字后重启人生",
+        "onboard_time": 1711588458,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 457209,
+        "num": 457209,
+        "word": "李铁押解车辆已经驶入法院",
+        "onboard_time": 1711591218,
+        "rank": 10,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 429472,
+        "num": 429472,
+        "word": "全球高考 影视化",
+        "onboard_time": 1711583658,
+        "rank": 11,
+        "category": "读书作家,作品衍生"
+      },
+      {
+        "raw_hot": 414671,
+        "num": 414671,
+        "word": "韩素希连更4条ins",
+        "onboard_time": 1711585339,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 349086,
+        "num": 349086,
+        "word": "腾讯裁员10%到30%消息不实",
+        "onboard_time": 1711583358,
+        "rank": 13,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 340398,
+        "num": 340398,
+        "word": "papi酱 别人度假vs我度假",
+        "onboard_time": 1711591037,
+        "rank": 14,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 313614,
+        "num": 313614,
+        "word": "韩国人迷上宠物石",
+        "onboard_time": 1711586120,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 313521,
+        "num": 313521,
+        "word": "工商银行2023年全年净利润3639.9亿元",
+        "onboard_time": 1711588877,
+        "rank": 16,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 235200,
+        "num": 235200,
+        "word": "陈梦 来的早球台都是我们的",
+        "onboard_time": 1711589657,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 229516,
+        "num": 229516,
+        "word": "背了3天锅的地磁暴确实挺暴躁",
+        "onboard_time": 1711583597,
+        "rank": 18,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 207008,
+        "num": 207008,
+        "word": "招商银行近两年向员工追薪1亿多元",
+        "onboard_time": 1711591818,
+        "rank": 19,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 775048,
+        "num": 206981,
+        "word": "订婚后发现女朋友之前确诊双相",
+        "onboard_time": 1711589778,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 434270,
+        "num": 206892,
+        "word": "你愿意不交社保换更多工资吗",
+        "onboard_time": 1711559774,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 330781,
+        "num": 206885,
+        "word": "阿娇机场被搭讪",
+        "onboard_time": 1711584138,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 206785,
+        "num": 206785,
+        "word": "女子将儿媳打得满身疤痕惹众怒",
+        "onboard_time": 1711570150,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 245478,
+        "num": 205080,
+        "word": "工商银行每天赚近10亿",
+        "onboard_time": 1711591998,
+        "rank": 24,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 199785,
+        "num": 199785,
+        "word": "小林制药",
+        "onboard_time": 1711591337,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 180476,
+        "num": 180476,
+        "word": "三十岁的我已经丧失了共情能力",
+        "onboard_time": 1711589358,
+        "rank": 26,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 180350,
+        "num": 180350,
+        "word": "射雕捏脸",
+        "onboard_time": 1711587020,
+        "rank": 27,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 179573,
+        "num": 179573,
+        "word": "网友称32岁还在被父母的审美霸凌",
+        "onboard_time": 1711589417,
+        "rank": 28,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 83384,
+        "num": 178515,
+        "word": "金宝贝突然停业几天前还怂恿家长充值",
+        "onboard_time": 1711572309,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 248897,
+        "num": 178417,
+        "word": "柯基考上山东公务员了",
+        "onboard_time": 1711591877,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 177471,
+        "num": 177471,
+        "word": "真想给HR开个不孕不育证明",
+        "onboard_time": 1711582097,
+        "rank": 31,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 169176,
+        "num": 169176,
+        "word": "种地吧监工直播",
+        "onboard_time": 1711591337,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 156990,
+        "num": 156990,
+        "word": "工商银行大手笔分红超千亿",
+        "onboard_time": 1711591758,
+        "rank": 33,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 146768,
+        "num": 146768,
+        "word": "易烊千玺更新网站图标",
+        "onboard_time": 1711587259,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 142239,
+        "num": 142239,
+        "word": "极限挑战漠囧官宣",
+        "onboard_time": 1711592657,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 134516,
+        "num": 134516,
+        "word": "李铁案一审今日开庭",
+        "onboard_time": 1711583597,
+        "rank": 36,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 131252,
+        "num": 131252,
+        "word": "还没上班我妈已经规划好了我的工资",
+        "onboard_time": 1711589719,
+        "rank": 37,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 130787,
+        "num": 130787,
+        "word": "惜花芷将定档",
+        "onboard_time": 1711582817,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 130174,
+        "num": 130174,
+        "word": "男方准备10万彩礼女方要30万",
+        "onboard_time": 1711553838,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 129739,
+        "num": 129739,
+        "word": "只有断干净才能更快乐",
+        "onboard_time": 1711589537,
+        "rank": 40,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 127941,
+        "num": 127941,
+        "word": "你有去淄博吃烧烤的计划吗",
+        "onboard_time": 1711590497,
+        "rank": 41,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 127538,
+        "num": 127538,
+        "word": "为什么肚子上的肉这么难减",
+        "onboard_time": 1711570751,
+        "rank": 42,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 121669,
+        "num": 121669,
+        "word": "为什么会有巨婴",
+        "onboard_time": 1711592357,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 119789,
+        "num": 119789,
+        "word": "Wendy俺老孙来也",
+        "onboard_time": 1711592538,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 119671,
+        "num": 119671,
+        "word": "袁基战损",
+        "onboard_time": 1711587859,
+        "rank": 45,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 119392,
+        "num": 119392,
+        "word": "以前为什么会羡慕频繁出差的人",
+        "onboard_time": 1711590258,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 113946,
+        "num": 113946,
+        "word": "五月天香港抢票",
+        "onboard_time": 1711592777,
+        "rank": 47,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 101009,
+        "num": 101009,
+        "word": "高校呼吁毕业生不要只盯着升学考公考编",
+        "onboard_time": 1711584258,
+        "rank": 48,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 99927,
+        "num": 99927,
+        "word": "勇士战胜魔术",
+        "onboard_time": 1711591457,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平会见荷兰首相吕特#"
+    }
+  }
+}
