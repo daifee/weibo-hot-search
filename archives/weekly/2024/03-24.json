@@ -1,6 +1,6 @@
 {
   "startTime": 1711210803824,
-  "endTime": 1711667860117,
+  "endTime": 1711668893170,
   "band_list": [
     {
       "raw_hot": 21250232,
@@ -1859,6 +1859,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 735088,
+      "num": 735088,
+      "word": "在英中国女留学生被刺身亡",
+      "onboard_time": 1711644495,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 734306,
       "num": 734306,
       "word": "雷军称小米最恨品牌溢价",
@@ -2667,14 +2675,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 577652,
-      "num": 577652,
-      "word": "在英中国女留学生被刺身亡",
-      "onboard_time": 1711644495,
-      "rank": 16,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 576089,
       "num": 576089,
       "word": "iOS18将采用新的主屏幕",
@@ -3115,6 +3115,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 525659,
+      "num": 525659,
+      "word": "选的刮刮卡被店员卖给别人错失100万",
+      "onboard_time": 1711638681,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 524373,
       "num": 852497,
       "word": "李铁案择期宣判",
@@ -3425,6 +3433,14 @@
       "onboard_time": 1711272259,
       "rank": 21,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 497008,
+      "num": 497008,
+      "word": "曾坐在父亲外卖箱的宝宝住进新家了",
+      "onboard_time": 1711645574,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 496679,
@@ -3875,14 +3891,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 451080,
-      "num": 522902,
-      "word": "选的刮刮卡被店员卖给别人错失100万",
-      "onboard_time": 1711638681,
-      "rank": 34,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 450840,
       "num": 450840,
       "word": "王艳出演贵女",
@@ -3993,6 +4001,14 @@
       "onboard_time": 1711635202,
       "rank": 42,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 440106,
+      "num": 440106,
+      "word": "内啡肽才是减肥高级模式",
+      "onboard_time": 1711663752,
+      "rank": 36,
+      "category": "运动健身"
     },
     {
       "raw_hot": 439996,
@@ -4243,6 +4259,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 417279,
+      "num": 417279,
+      "word": "余承东",
+      "onboard_time": 1711659371,
+      "rank": 31,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 416639,
       "num": 416639,
       "word": "郝蕾说看纪凌尘演戏太难受了",
@@ -4427,6 +4451,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 397666,
+      "num": 397666,
+      "word": "辽宁一居民楼因天然气泄露爆炸",
+      "onboard_time": 1711664232,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 397335,
       "num": 397335,
       "word": "林更新成都",
@@ -4595,6 +4627,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 386656,
+      "num": 386656,
+      "word": "内娱是真缺舞台啊",
+      "onboard_time": 1711655412,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 384348,
       "num": 384348,
       "word": "俄全国哀悼日克里姆林宫降半旗",
@@ -4689,14 +4729,6 @@
       "onboard_time": 1711381279,
       "rank": 13,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 376274,
-      "num": 376274,
-      "word": "曾坐在父亲外卖箱的宝宝住进新家了",
-      "onboard_time": 1711645574,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 375902,
@@ -5635,14 +5667,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 303454,
-      "num": 303454,
-      "word": "辽宁一居民楼因天然气泄露爆炸",
-      "onboard_time": 1711664232,
-      "rank": 28,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 303265,
       "num": 303265,
       "word": "going seventeen",
@@ -5763,14 +5787,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 298213,
-      "num": 298213,
-      "word": "内娱是真缺舞台啊",
-      "onboard_time": 1711655412,
-      "rank": 21,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 297713,
       "num": 297713,
       "word": "神里绫人",
@@ -5865,14 +5881,6 @@
       "onboard_time": 1711638200,
       "rank": 36,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 292610,
-      "num": 292610,
-      "word": "内啡肽才是减肥高级模式",
-      "onboard_time": 1711663752,
-      "rank": 36,
-      "category": "运动健身"
     },
     {
       "raw_hot": 291795,
@@ -6305,14 +6313,6 @@
       "onboard_time": 1711582397,
       "rank": 45,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 271597,
-      "num": 271597,
-      "word": "余承东",
-      "onboard_time": 1711659371,
-      "rank": 31,
-      "category": "互联网"
     },
     {
       "raw_hot": 271538,
@@ -8235,6 +8235,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 209620,
+      "num": 217434,
+      "word": "女子想买鞋丈夫翻出所有单鞋全擦亮",
+      "onboard_time": 1711641797,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 209169,
       "num": 209169,
       "word": "白百何短发照",
@@ -9811,14 +9819,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 185252,
-      "num": 217434,
-      "word": "女子想买鞋丈夫翻出所有单鞋全擦亮",
-      "onboard_time": 1711641797,
-      "rank": 29,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 185234,
       "num": 185234,
       "word": "中超原总经理董铮一审被判8年",
@@ -10451,6 +10451,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 172688,
+      "num": 172688,
+      "word": "为什么劝你春天别乱买菠萝吃",
+      "onboard_time": 1711660631,
+      "rank": 39,
+      "category": "美食"
+    },
+    {
       "raw_hot": 172658,
       "num": 172658,
       "word": "湖人五连胜",
@@ -10649,6 +10657,14 @@
       "onboard_time": 1711204882,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 169202,
+      "num": 169202,
+      "word": "女子上午求助省厅官微下午专家就来了",
+      "onboard_time": 1711667295,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 168961,
@@ -11240,14 +11256,6 @@
       "word": "瑞士卷和瑞士有关系吗",
       "onboard_time": 1711501398,
       "rank": 37,
-      "category": "美食"
-    },
-    {
-      "raw_hot": 160452,
-      "num": 160452,
-      "word": "为什么劝你春天别乱买菠萝吃",
-      "onboard_time": 1711660631,
-      "rank": 39,
       "category": "美食"
     },
     {
@@ -13203,6 +13211,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 128274,
+      "num": 128274,
+      "word": "小爱同学出息了",
+      "onboard_time": 1711660510,
+      "rank": 48,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 128181,
       "num": 128181,
       "word": "中石化2023年净利润604.63亿元",
@@ -13819,12 +13835,28 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 115285,
+      "num": 115285,
+      "word": "王星越吴磊 暴雪时分有续集",
+      "onboard_time": 1711663271,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 115277,
       "num": 115277,
       "word": "钓鱼佬被小猫监督了",
       "onboard_time": 1711258339,
       "rank": 46,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 114743,
+      "num": 114743,
+      "word": "李斌祝贺雷军",
+      "onboard_time": 1711668857,
+      "rank": 36,
+      "category": "汽车"
     },
     {
       "raw_hot": 114579,
@@ -14163,14 +14195,6 @@
       "category": "动漫,网红"
     },
     {
-      "raw_hot": 104532,
-      "num": 104532,
-      "word": "小爱同学出息了",
-      "onboard_time": 1711660510,
-      "rank": 48,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 103237,
       "num": 103237,
       "word": "王者S35新赛季",
@@ -14371,20 +14395,20 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 83829,
-      "num": 83829,
-      "word": "王星越吴磊 暴雪时分有续集",
-      "onboard_time": 1711663271,
-      "rank": 43,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 83798,
       "num": 83798,
       "word": "香奈儿被曝再涨价",
       "onboard_time": 1711409176,
       "rank": 34,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 83423,
+      "num": 83423,
+      "word": "华为汽车",
+      "onboard_time": 1711659851,
+      "rank": 41,
+      "category": "汽车"
     },
     {
       "raw_hot": 82997,
@@ -14409,6 +14433,14 @@
       "onboard_time": 1711367059,
       "rank": 15,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 80870,
+      "num": 80870,
+      "word": "原来乌蒙山日出云海这么美",
+      "onboard_time": 1711668738,
+      "rank": 44,
+      "category": "旅游"
     },
     {
       "raw_hot": 80033,
@@ -14457,6 +14489,14 @@
       "onboard_time": 1711523179,
       "rank": 29,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 77036,
+      "num": 77036,
+      "word": "被男朋友给点的外卖气笑了",
+      "onboard_time": 1711657570,
+      "rank": 46,
+      "category": "情感"
     },
     {
       "raw_hot": 76917,
@@ -14523,14 +14563,6 @@
       "category": "时尚"
     },
     {
-      "raw_hot": 71396,
-      "num": 71396,
-      "word": "华为汽车",
-      "onboard_time": 1711659851,
-      "rank": 41,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 71217,
       "num": 71217,
       "word": "刘嘉玲梁朝伟孔晓振合照",
@@ -14585,6 +14617,14 @@
       "onboard_time": 1711511298,
       "rank": 15,
       "category": "美食"
+    },
+    {
+      "raw_hot": 69932,
+      "num": 69932,
+      "word": "金晨表演镜头切了白敬亭",
+      "onboard_time": 1711653671,
+      "rank": 41,
+      "category": "剧集"
     },
     {
       "raw_hot": 69512,
@@ -14747,22 +14787,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 57731,
-      "num": 57731,
-      "word": "女子上午求助省厅官微下午专家就来了",
-      "onboard_time": 1711667295,
-      "rank": 44,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 57299,
-      "num": 57299,
-      "word": "金晨表演镜头切了白敬亭",
-      "onboard_time": 1711653671,
-      "rank": 41,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 56863,
       "num": 69885,
       "word": "天价彩礼何时休",
@@ -14777,14 +14801,6 @@
       "onboard_time": 1711509318,
       "rank": 46,
       "category": "数码"
-    },
-    {
-      "raw_hot": 53686,
-      "num": 53686,
-      "word": "被男朋友给点的外卖气笑了",
-      "onboard_time": 1711657570,
-      "rank": 46,
-      "category": "情感"
     },
     {
       "raw_hot": 52825,
