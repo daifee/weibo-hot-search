@@ -1,0 +1,410 @@
+{
+  "runTime": 1711716409502,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1828664,
+        "num": 1828664,
+        "word": "韩沐伯 出家",
+        "onboard_time": 1711712237,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1233373,
+        "num": 1233373,
+        "word": "将门毒后 新丽",
+        "onboard_time": 1711713617,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 39576,
+        "num": 1145065,
+        "word": "有一种叫云南的生活",
+        "onboard_time": 1711684279,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1096407,
+        "num": 1096407,
+        "word": "闲鱼现大量车主转卖旧车购买小米SU7",
+        "onboard_time": 1711714819,
+        "rank": 3,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 790576,
+        "num": 790576,
+        "word": "小时候被盗的QQ终于有救了",
+        "onboard_time": 1711710079,
+        "rank": 4,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 611477,
+        "num": 611477,
+        "word": "我19岁了妈妈还在大学家长群回收到",
+        "onboard_time": 1711707438,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 557359,
+        "num": 557359,
+        "word": "为卖淫女看病被判协助组织卖淫",
+        "onboard_time": 1711690999,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 473677,
+        "num": 473677,
+        "word": "陈梦vs张本美和",
+        "onboard_time": 1711714819,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 421297,
+        "num": 421297,
+        "word": "12岁孩子拿盲人手机充游戏家长无理回应",
+        "onboard_time": 1711713318,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 196424,
+        "num": 390741,
+        "word": "被网课满屏的老师好弹幕戳到了",
+        "onboard_time": 1711708157,
+        "rank": 9,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 390286,
+        "num": 390286,
+        "word": "4月十二星座注意事项",
+        "onboard_time": 1711711938,
+        "rank": 10,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 309724,
+        "num": 309724,
+        "word": "杨幂紫色截断眼妆",
+        "onboard_time": 1711713678,
+        "rank": 11,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 305177,
+        "num": 305177,
+        "word": "承欢记 杨紫站位",
+        "onboard_time": 1711704978,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 300431,
+        "num": 300431,
+        "word": "iPhone16Pro外观或更光滑",
+        "onboard_time": 1711707737,
+        "rank": 13,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 282854,
+        "num": 282854,
+        "word": "恋爱兄妹",
+        "onboard_time": 1711711998,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 270809,
+        "num": 270809,
+        "word": "吴磊吃绿鸡蛋食物中毒",
+        "onboard_time": 1711703238,
+        "rank": 15,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 253047,
+        "num": 253047,
+        "word": "女子花10元中681万结果彩票被洗得稀碎",
+        "onboard_time": 1711698198,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 235097,
+        "num": 235097,
+        "word": "罗永浩称小米汽车很可能上演良币驱逐劣币",
+        "onboard_time": 1711716139,
+        "rank": 17,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 232031,
+        "num": 232031,
+        "word": "小米",
+        "onboard_time": 1711712778,
+        "rank": 18,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 214543,
+        "num": 214543,
+        "word": "下周只上3天班",
+        "onboard_time": 1711713798,
+        "rank": 19,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 752470,
+        "num": 214306,
+        "word": "阴道侧切的缝合",
+        "onboard_time": 1711706298,
+        "rank": 20,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 736637,
+        "num": 214258,
+        "word": "小米汽车被曝出现多起退定投诉",
+        "onboard_time": 1711700179,
+        "rank": 21,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 403625,
+        "num": 214218,
+        "word": "广州暴雨",
+        "onboard_time": 1711714219,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 213611,
+        "num": 213611,
+        "word": "感染性病后多久能查出来",
+        "onboard_time": 1711707918,
+        "rank": 23,
+        "category": "健康医疗,科学科普"
+      },
+      {
+        "raw_hot": 203800,
+        "num": 203800,
+        "word": "考研1年收到3个亿",
+        "onboard_time": 1711703177,
+        "rank": 24,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 199008,
+        "num": 199008,
+        "word": "全员加速中",
+        "onboard_time": 1711715297,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 197583,
+        "num": 197583,
+        "word": "眉姐姐走秀",
+        "onboard_time": 1711715838,
+        "rank": 26,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 195271,
+        "num": 195271,
+        "word": "李惠利近照状态",
+        "onboard_time": 1711697658,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 185512,
+        "num": 185512,
+        "word": "LGD DOTA2分部",
+        "onboard_time": 1711715058,
+        "rank": 28,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 185006,
+        "num": 185006,
+        "word": "解决网约车臭的方法找到了",
+        "onboard_time": 1711716078,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 181972,
+        "num": 181972,
+        "word": "张本智和3比2吴晙诚",
+        "onboard_time": 1711715777,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 180835,
+        "num": 180835,
+        "word": "陈梦3比0张本美和",
+        "onboard_time": 1711716139,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 179305,
+        "num": 179305,
+        "word": "长城汽车魏建军称小米发布会名不虚传",
+        "onboard_time": 1711710737,
+        "rank": 32,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 178159,
+        "num": 178159,
+        "word": "张杰演唱会的小细节",
+        "onboard_time": 1711715899,
+        "rank": 33,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 163207,
+        "num": 163207,
+        "word": "李国庆称排队等小米SU7",
+        "onboard_time": 1711715178,
+        "rank": 34,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 163046,
+        "num": 163046,
+        "word": "山东小钺钺已有轻微意识仍在ICU",
+        "onboard_time": 1711713738,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 162976,
+        "num": 162976,
+        "word": "明制汉服",
+        "onboard_time": 1711711458,
+        "rank": 36,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 161835,
+        "num": 161835,
+        "word": "五月天高雄演唱会",
+        "onboard_time": 1711716258,
+        "rank": 37,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 151210,
+        "num": 151210,
+        "word": "小米回应试驾车爆胎视频",
+        "onboard_time": 1711705760,
+        "rank": 38,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 149672,
+        "num": 149672,
+        "word": "第一次看老头打群架",
+        "onboard_time": 1711709839,
+        "rank": 39,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 147355,
+        "num": 147355,
+        "word": "水杯内一层滑滑的东西是什么",
+        "onboard_time": 1711698798,
+        "rank": 40,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 146013,
+        "num": 146013,
+        "word": "B站装修综艺令UP主损失百万后续",
+        "onboard_time": 1711708698,
+        "rank": 41,
+        "category": "社会新闻,综艺"
+      },
+      {
+        "raw_hot": 144110,
+        "num": 144110,
+        "word": "金饰价格每克冲向700元",
+        "onboard_time": 1711711217,
+        "rank": 42,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 140543,
+        "num": 140543,
+        "word": "罗永浩说小米威武",
+        "onboard_time": 1711710498,
+        "rank": 43,
+        "category": "汽车,互联网"
+      },
+      {
+        "raw_hot": 124003,
+        "num": 124003,
+        "word": "现在的小朋友也太高了",
+        "onboard_time": 1711713738,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 121298,
+        "num": 121298,
+        "word": "阿维塔12焕新上市",
+        "onboard_time": 1711716078,
+        "rank": 45,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 117595,
+        "num": 117595,
+        "word": "张凌赫徐若晗樱花吻路透",
+        "onboard_time": 1711706898,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 116778,
+        "num": 116778,
+        "word": "腿脚是人体的血糖仪",
+        "onboard_time": 1711697538,
+        "rank": 47,
+        "category": "科学科普,健康医疗"
+      },
+      {
+        "raw_hot": 115412,
+        "num": 115412,
+        "word": "周深新专辑反深代词",
+        "onboard_time": 1711714039,
+        "rank": 48,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 114268,
+        "num": 114268,
+        "word": "赵丽颖进组在人间",
+        "onboard_time": 1711700539,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#中共中央政治局3月29日召开会议#"
+    }
+  }
+}

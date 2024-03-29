@@ -1,6 +1,6 @@
 {
   "startTime": 1711642899962,
-  "endTime": 1711715561103,
+  "endTime": 1711716409502,
   "band_list": [
     {
       "raw_hot": 6224451,
@@ -123,6 +123,14 @@
       "category": "幽默,教育"
     },
     {
+      "raw_hot": 1233373,
+      "num": 1233373,
+      "word": "将门毒后 新丽",
+      "onboard_time": 1711713617,
+      "rank": 1,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1233106,
       "num": 1233106,
       "word": "黄圣依杨子直播事件6人被刑拘",
@@ -171,12 +179,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 1127520,
-      "num": 1127520,
-      "word": "将门毒后 新丽",
-      "onboard_time": 1711713617,
-      "rank": 1,
-      "category": "剧集"
+      "raw_hot": 1096407,
+      "num": 1096407,
+      "word": "闲鱼现大量车主转卖旧车购买小米SU7",
+      "onboard_time": 1711714819,
+      "rank": 6,
+      "category": "汽车"
     },
     {
       "raw_hot": 1040341,
@@ -539,6 +547,14 @@
       "category": "艺人,互联网"
     },
     {
+      "raw_hot": 473677,
+      "num": 473677,
+      "word": "陈梦vs张本美和",
+      "onboard_time": 1711714819,
+      "rank": 10,
+      "category": "体育"
+    },
+    {
       "raw_hot": 463393,
       "num": 463393,
       "word": "90%的年轻人担心自己有病",
@@ -619,6 +635,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 421297,
+      "num": 421297,
+      "word": "12岁孩子拿盲人手机充游戏家长无理回应",
+      "onboard_time": 1711713318,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 417279,
       "num": 417279,
       "word": "余承东",
@@ -640,6 +664,14 @@
       "word": "95后女生每月副业收入过万",
       "onboard_time": 1711638200,
       "rank": 26,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 403625,
+      "num": 273291,
+      "word": "广州暴雨",
+      "onboard_time": 1711714219,
+      "rank": 21,
       "category": "社会新闻"
     },
     {
@@ -683,6 +715,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 390286,
+      "num": 390286,
+      "word": "4月十二星座注意事项",
+      "onboard_time": 1711711938,
+      "rank": 38,
+      "category": "情感"
+    },
+    {
       "raw_hot": 388403,
       "num": 388403,
       "word": "原来朋友圈都是精心打造的",
@@ -723,14 +763,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 374916,
-      "num": 374916,
-      "word": "闲鱼现大量车主转卖旧车购买小米SU7",
-      "onboard_time": 1711714819,
-      "rank": 6,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 370996,
       "num": 336906,
       "word": "小灰灰第一次立耳",
@@ -747,36 +779,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 366538,
-      "num": 273291,
-      "word": "广州暴雨",
-      "onboard_time": 1711714219,
-      "rank": 21,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 363957,
-      "num": 363957,
-      "word": "12岁孩子拿盲人手机充游戏家长无理回应",
-      "onboard_time": 1711713318,
-      "rank": 8,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 363533,
       "num": 363533,
       "word": "专家称买小米汽车不如买小米股票",
       "onboard_time": 1711702936,
       "rank": 18,
       "category": "财经,汽车"
-    },
-    {
-      "raw_hot": 362143,
-      "num": 362143,
-      "word": "陈梦vs张本美和",
-      "onboard_time": 1711714819,
-      "rank": 10,
-      "category": "体育"
     },
     {
       "raw_hot": 361615,
@@ -801,14 +809,6 @@
       "onboard_time": 1711684339,
       "rank": 18,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 352749,
-      "num": 352749,
-      "word": "4月十二星座注意事项",
-      "onboard_time": 1711711938,
-      "rank": 38,
-      "category": "情感"
     },
     {
       "raw_hot": 332455,
@@ -899,6 +899,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 309724,
+      "num": 309724,
+      "word": "杨幂紫色截断眼妆",
+      "onboard_time": 1711713678,
+      "rank": 15,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 308875,
       "num": 308875,
       "word": "官方回应南通烧纸有两层楼高",
@@ -913,14 +921,6 @@
       "onboard_time": 1711634961,
       "rank": 24,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 303859,
-      "num": 303859,
-      "word": "杨幂紫色截断眼妆",
-      "onboard_time": 1711713678,
-      "rank": 15,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 301658,
@@ -1203,6 +1203,14 @@
       "category": "游戏,互联网"
     },
     {
+      "raw_hot": 235097,
+      "num": 235097,
+      "word": "罗永浩称小米汽车很可能上演良币驱逐劣币",
+      "onboard_time": 1711716139,
+      "rank": 17,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 232273,
       "num": 232273,
       "word": "唐嫣生图",
@@ -1364,7 +1372,7 @@
     },
     {
       "raw_hot": 211692,
-      "num": 172800,
+      "num": 179305,
       "word": "长城汽车魏建军称小米发布会名不虚传",
       "onboard_time": 1711710737,
       "rank": 40,
@@ -1459,6 +1467,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 199008,
+      "num": 199008,
+      "word": "全员加速中",
+      "onboard_time": 1711715297,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 199007,
       "num": 199007,
       "word": "共享员工火了",
@@ -1497,6 +1513,14 @@
       "onboard_time": 1711677139,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 197583,
+      "num": 197583,
+      "word": "眉姐姐走秀",
+      "onboard_time": 1711715838,
+      "rank": 26,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 197203,
@@ -1611,6 +1635,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 185006,
+      "num": 185006,
+      "word": "解决网约车臭的方法找到了",
+      "onboard_time": 1711716078,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 184488,
       "num": 184488,
       "word": "时代少年团综艺",
@@ -1635,12 +1667,28 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 181972,
+      "num": 181972,
+      "word": "张本智和3比2吴晙诚",
+      "onboard_time": 1711715777,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 180840,
       "num": 180840,
       "word": "水逆来了 重灾区星座要小心",
       "onboard_time": 1711676420,
       "rank": 43,
       "category": "情感"
+    },
+    {
+      "raw_hot": 180835,
+      "num": 180835,
+      "word": "陈梦3比0张本美和",
+      "onboard_time": 1711716139,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 180471,
@@ -1657,6 +1705,14 @@
       "onboard_time": 1711688779,
       "rank": 33,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 178159,
+      "num": 178159,
+      "word": "张杰演唱会的小细节",
+      "onboard_time": 1711715899,
+      "rank": 33,
+      "category": "演出"
     },
     {
       "raw_hot": 177429,
@@ -1795,12 +1851,36 @@
       "category": "演出"
     },
     {
+      "raw_hot": 163207,
+      "num": 163207,
+      "word": "李国庆称排队等小米SU7",
+      "onboard_time": 1711715178,
+      "rank": 39,
+      "category": "汽车"
+    },
+    {
+      "raw_hot": 162976,
+      "num": 162976,
+      "word": "明制汉服",
+      "onboard_time": 1711711458,
+      "rank": 32,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 162939,
       "num": 162939,
       "word": "肖战发表获奖感言",
       "onboard_time": 1711677798,
       "rank": 47,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 161835,
+      "num": 161835,
+      "word": "五月天高雄演唱会",
+      "onboard_time": 1711716258,
+      "rank": 37,
+      "category": "演出"
     },
     {
       "raw_hot": 161422,
@@ -2003,14 +2083,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 143064,
-      "num": 143064,
-      "word": "明制汉服",
-      "onboard_time": 1711711458,
-      "rank": 32,
-      "category": "时尚"
-    },
-    {
       "raw_hot": 141342,
       "num": 141342,
       "word": "费曼模仿吴镇宇掐嘴",
@@ -2025,14 +2097,6 @@
       "onboard_time": 1711697358,
       "rank": 31,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 139151,
-      "num": 139151,
-      "word": "李国庆称排队等小米SU7",
-      "onboard_time": 1711715178,
-      "rank": 39,
-      "category": "汽车"
     },
     {
       "raw_hot": 139105,
@@ -2137,14 +2201,6 @@
       "onboard_time": 1711643417,
       "rank": 41,
       "category": "演出"
-    },
-    {
-      "raw_hot": 131505,
-      "num": 131505,
-      "word": "全员加速中",
-      "onboard_time": 1711715297,
-      "rank": 43,
-      "category": "综艺"
     },
     {
       "raw_hot": 131394,
@@ -2260,7 +2316,7 @@
     },
     {
       "raw_hot": 123253,
-      "num": 892498,
+      "num": 1145065,
       "word": "有一种叫云南的生活",
       "onboard_time": 1711684279,
       "rank": 47,
@@ -2273,6 +2329,14 @@
       "onboard_time": 1711701858,
       "rank": 46,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 121298,
+      "num": 121298,
+      "word": "阿维塔12焕新上市",
+      "onboard_time": 1711716078,
+      "rank": 45,
+      "category": "汽车"
     },
     {
       "raw_hot": 120266,
