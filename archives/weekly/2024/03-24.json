@@ -1,6 +1,6 @@
 {
   "startTime": 1711210803824,
-  "endTime": 1711682282384,
+  "endTime": 1711683285138,
   "band_list": [
     {
       "raw_hot": 21250232,
@@ -179,8 +179,8 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 2289133,
-      "num": 2289133,
+      "raw_hot": 2300129,
+      "num": 2300129,
       "word": "金价",
       "onboard_time": 1711679177,
       "rank": 23,
@@ -835,6 +835,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 1181797,
+      "num": 1181797,
+      "word": "研究生们请把脸皮读厚一点",
+      "onboard_time": 1711679717,
+      "rank": 4,
+      "category": "幽默,教育"
+    },
+    {
       "raw_hot": 1179042,
       "num": 1179042,
       "word": "UP主吐槽B站装修综艺令其损失百万",
@@ -1321,14 +1329,6 @@
       "onboard_time": 1711289900,
       "rank": 5,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 900757,
-      "num": 900757,
-      "word": "研究生们请把脸皮读厚一点",
-      "onboard_time": 1711679717,
-      "rank": 4,
-      "category": "幽默,教育"
     },
     {
       "raw_hot": 898142,
@@ -1921,6 +1921,14 @@
       "onboard_time": 1711276039,
       "rank": 45,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 738879,
+      "num": 738879,
+      "word": "猫人代言人 肖战",
+      "onboard_time": 1711681938,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 737555,
@@ -3163,6 +3171,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 537476,
+      "num": 537476,
+      "word": "10部电影定档五一",
+      "onboard_time": 1711680378,
+      "rank": 11,
+      "category": "电影"
+    },
+    {
       "raw_hot": 533573,
       "num": 533573,
       "word": "李清照是才女更是拽姐",
@@ -3337,14 +3353,6 @@
       "onboard_time": 1711340421,
       "rank": 33,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 516296,
-      "num": 516296,
-      "word": "10部电影定档五一",
-      "onboard_time": 1711680378,
-      "rank": 11,
-      "category": "电影"
     },
     {
       "raw_hot": 515968,
@@ -4361,6 +4369,14 @@
       "onboard_time": 1711286240,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 421338,
+      "num": 421338,
+      "word": "福宝5天后同姜爷爷回国",
+      "onboard_time": 1711680019,
+      "rank": 16,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 421216,
@@ -5803,14 +5819,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 305684,
-      "num": 305684,
-      "word": "福宝5天后同姜爷爷回国",
-      "onboard_time": 1711680019,
-      "rank": 16,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 305221,
       "num": 241097,
       "word": "刘学义郑合惠子cp感",
@@ -5889,6 +5897,14 @@
       "onboard_time": 1711634061,
       "rank": 40,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 301658,
+      "num": 301658,
+      "word": "小时候经常吃现在看不到的水果",
+      "onboard_time": 1711679598,
+      "rank": 46,
+      "category": "美食"
     },
     {
       "raw_hot": 300899,
@@ -6105,6 +6121,14 @@
       "onboard_time": 1711602321,
       "rank": 26,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 291145,
+      "num": 291145,
+      "word": "开局精神小妹结局人民教师",
+      "onboard_time": 1711681100,
+      "rank": 35,
+      "category": "情感"
     },
     {
       "raw_hot": 290979,
@@ -6723,14 +6747,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 261650,
-      "num": 261650,
-      "word": "小时候经常吃现在看不到的水果",
-      "onboard_time": 1711679598,
-      "rank": 46,
-      "category": "美食"
-    },
-    {
       "raw_hot": 261210,
       "num": 261210,
       "word": "无锡马拉松",
@@ -7179,14 +7195,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 247409,
-      "num": 247409,
-      "word": "猫人代言人 肖战",
-      "onboard_time": 1711681938,
-      "rank": 25,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 247283,
       "num": 247283,
       "word": "全红婵17岁啦",
@@ -7225,6 +7233,14 @@
       "onboard_time": 1711435879,
       "rank": 26,
       "category": "演出"
+    },
+    {
+      "raw_hot": 246307,
+      "num": 246307,
+      "word": "男子花500万帮1604名残疾人就业",
+      "onboard_time": 1711681697,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 246241,
@@ -7393,6 +7409,14 @@
       "onboard_time": 1711348040,
       "rank": 19,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 239025,
+      "num": 239025,
+      "word": "米津玄师让宫崎骏感动落泪",
+      "onboard_time": 1711681399,
+      "rank": 32,
+      "category": "动漫,作品衍生"
     },
     {
       "raw_hot": 239015,
@@ -8315,14 +8339,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 217053,
-      "num": 217053,
-      "word": "米津玄师让宫崎骏感动落泪",
-      "onboard_time": 1711681399,
-      "rank": 32,
-      "category": "动漫,作品衍生"
-    },
-    {
       "raw_hot": 216783,
       "num": 216783,
       "word": "王一博王阳破万flag",
@@ -8465,14 +8481,6 @@
       "onboard_time": 1711548921,
       "rank": 30,
       "category": "剧集,电竞"
-    },
-    {
-      "raw_hot": 211592,
-      "num": 211592,
-      "word": "开局精神小妹结局人民教师",
-      "onboard_time": 1711681100,
-      "rank": 35,
-      "category": "情感"
     },
     {
       "raw_hot": 211199,
@@ -9291,6 +9299,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 197992,
+      "num": 197992,
+      "word": "哈哈哈哈哈",
+      "onboard_time": 1711682599,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 197892,
       "num": 197892,
       "word": "华西医院又完成一项全球首例",
@@ -9673,14 +9689,6 @@
       "onboard_time": 1711461200,
       "rank": 40,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 192558,
-      "num": 224607,
-      "word": "男子花500万帮1604名残疾人就业",
-      "onboard_time": 1711681697,
-      "rank": 28,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 192459,
@@ -10395,6 +10403,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 180962,
+      "num": 180962,
+      "word": "米时捷",
+      "onboard_time": 1711682898,
+      "rank": 36,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 180840,
       "num": 180840,
       "word": "水逆来了 重灾区星座要小心",
@@ -10905,6 +10921,14 @@
       "onboard_time": 1711454779,
       "rank": 40,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 170984,
+      "num": 170984,
+      "word": "小爱同学被雷军喊崩了",
+      "onboard_time": 1711682959,
+      "rank": 38,
+      "category": "汽车,互联网"
     },
     {
       "raw_hot": 170857,
@@ -12483,6 +12507,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 148624,
+      "num": 148624,
+      "word": "刚睡醒的潦草小狗",
+      "onboard_time": 1711681399,
+      "rank": 44,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 148621,
       "num": 148621,
       "word": "眼泪女王开虐",
@@ -12913,14 +12945,6 @@
       "onboard_time": 1711198040,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 142845,
-      "num": 142845,
-      "word": "刚睡醒的潦草小狗",
-      "onboard_time": 1711681399,
-      "rank": 44,
-      "category": "幽默"
     },
     {
       "raw_hot": 142837,
@@ -13531,6 +13555,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 132003,
+      "num": 169681,
+      "word": "雷军投资千余家科研公司",
+      "onboard_time": 1711682599,
+      "rank": 39,
+      "category": "财经"
+    },
+    {
       "raw_hot": 131970,
       "num": 131970,
       "word": "边伯贤亚洲巡演",
@@ -13556,7 +13588,7 @@
     },
     {
       "raw_hot": 131394,
-      "num": 284429,
+      "num": 301912,
       "word": "东方甄选与辉同行分场直播",
       "onboard_time": 1711679118,
       "rank": 33,

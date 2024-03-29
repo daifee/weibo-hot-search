@@ -1,0 +1,410 @@
+{
+  "runTime": 1711683285138,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2300129,
+        "num": 2300129,
+        "word": "金价",
+        "onboard_time": 1711679177,
+        "rank": 0,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 1181797,
+        "num": 1181797,
+        "word": "研究生们请把脸皮读厚一点",
+        "onboard_time": 1711679717,
+        "rank": 1,
+        "category": "幽默,教育"
+      },
+      {
+        "raw_hot": 9892,
+        "num": 1025692,
+        "word": "2024中国网络媒体论坛",
+        "onboard_time": 1711628721,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1016793,
+        "num": 1016793,
+        "word": "19岁唐氏女孩变脸绝技惊艳众人",
+        "onboard_time": 1711677498,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 974614,
+        "num": 974614,
+        "word": "小米SU7价格",
+        "onboard_time": 1711627097,
+        "rank": 4,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 738879,
+        "num": 738879,
+        "word": "猫人代言人 肖战",
+        "onboard_time": 1711681938,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 736651,
+        "num": 736651,
+        "word": "张子枫胡先煦演夫妻",
+        "onboard_time": 1711679419,
+        "rank": 6,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 681521,
+        "num": 681521,
+        "word": "小米汽车向员工发放F码",
+        "onboard_time": 1711675579,
+        "rank": 7,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 541088,
+        "num": 541088,
+        "word": "小米汽车一晚收到1亿元定金",
+        "onboard_time": 1711677678,
+        "rank": 8,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 537476,
+        "num": 537476,
+        "word": "10部电影定档五一",
+        "onboard_time": 1711680378,
+        "rank": 9,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 1152577,
+        "num": 523912,
+        "word": "冉莹颖邹市明分床睡三年了",
+        "onboard_time": 1711673959,
+        "rank": 10,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 488642,
+        "num": 488642,
+        "word": "雷军 雷神",
+        "onboard_time": 1711631302,
+        "rank": 11,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 466065,
+        "num": 466065,
+        "word": "谢霆锋给网红做红烧肉被当面评价菜一般",
+        "onboard_time": 1711673360,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 452229,
+        "num": 452229,
+        "word": "肛肠科医生最不希望你放弃的一项检查",
+        "onboard_time": 1711674379,
+        "rank": 13,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 421338,
+        "num": 421338,
+        "word": "福宝5天后同姜爷爷回国",
+        "onboard_time": 1711680019,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 379564,
+        "num": 379564,
+        "word": "小米SU7售价21.59万元起",
+        "onboard_time": 1711630402,
+        "rank": 15,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 325012,
+        "num": 325012,
+        "word": "原来朋友圈都是精心打造的",
+        "onboard_time": 1711678400,
+        "rank": 16,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 302535,
+        "num": 302535,
+        "word": "人民日报评樊振东身份证号被恶意传播",
+        "onboard_time": 1711675998,
+        "rank": 17,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 58794,
+        "num": 301912,
+        "word": "东方甄选与辉同行分场直播",
+        "onboard_time": 1711679118,
+        "rank": 18,
+        "category": "网红,互联网"
+      },
+      {
+        "raw_hot": 301658,
+        "num": 301658,
+        "word": "小时候经常吃现在看不到的水果",
+        "onboard_time": 1711679598,
+        "rank": 19,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 291145,
+        "num": 291145,
+        "word": "开局精神小妹结局人民教师",
+        "onboard_time": 1711681100,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 260941,
+        "num": 260941,
+        "word": "小米汽车",
+        "onboard_time": 1711667657,
+        "rank": 21,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 260582,
+        "num": 260582,
+        "word": "小米SU7",
+        "onboard_time": 1711623859,
+        "rank": 22,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 252784,
+        "num": 252784,
+        "word": "小米汽车27分钟大定突破50000台",
+        "onboard_time": 1711637000,
+        "rank": 23,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 246307,
+        "num": 246307,
+        "word": "男子花500万帮1604名残疾人就业",
+        "onboard_time": 1711681697,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 239025,
+        "num": 239025,
+        "word": "米津玄师让宫崎骏感动落泪",
+        "onboard_time": 1711681399,
+        "rank": 25,
+        "category": "动漫,作品衍生"
+      },
+      {
+        "raw_hot": 224385,
+        "num": 224385,
+        "word": "雷军称顶配版是吐血价",
+        "onboard_time": 1711677557,
+        "rank": 26,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 213315,
+        "num": 218507,
+        "word": "做完手术不代表近视治愈了",
+        "onboard_time": 1711677798,
+        "rank": 27,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 172496,
+        "num": 217096,
+        "word": "小米股票",
+        "onboard_time": 1711673360,
+        "rank": 28,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 73380,
+        "num": 216457,
+        "word": "山东和新疆的紫色浪漫",
+        "onboard_time": 1711680439,
+        "rank": 29,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 216365,
+        "num": 216365,
+        "word": "李子柒回应何时回归",
+        "onboard_time": 1711669998,
+        "rank": 30,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 215889,
+        "num": 215889,
+        "word": "黄圣依杨子直播事件6人被刑拘",
+        "onboard_time": 1711634542,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 197992,
+        "num": 197992,
+        "word": "哈哈哈哈哈",
+        "onboard_time": 1711682599,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 195442,
+        "num": 195442,
+        "word": "陈震小米SU7测评",
+        "onboard_time": 1711672520,
+        "rank": 33,
+        "category": "汽车,网红"
+      },
+      {
+        "raw_hot": 184969,
+        "num": 184969,
+        "word": "李玟母亲要求7日内下架AI侵权内容",
+        "onboard_time": 1711673239,
+        "rank": 34,
+        "category": "艺人,互联网"
+      },
+      {
+        "raw_hot": 184505,
+        "num": 184505,
+        "word": "承欢记预约",
+        "onboard_time": 1711680798,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 180962,
+        "num": 180962,
+        "word": "米时捷",
+        "onboard_time": 1711682898,
+        "rank": 36,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 172290,
+        "num": 172290,
+        "word": "胡歌打电话给三十年后的自己",
+        "onboard_time": 1711678159,
+        "rank": 37,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 170984,
+        "num": 170984,
+        "word": "小爱同学被雷军喊崩了",
+        "onboard_time": 1711682959,
+        "rank": 38,
+        "category": "汽车,互联网"
+      },
+      {
+        "raw_hot": 132003,
+        "num": 169681,
+        "word": "雷军投资千余家科研公司",
+        "onboard_time": 1711682599,
+        "rank": 39,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 167687,
+        "num": 169180,
+        "word": "当下年轻人中国式租房观念",
+        "onboard_time": 1711681580,
+        "rank": 40,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 169041,
+        "num": 169041,
+        "word": "雷军",
+        "onboard_time": 1711667236,
+        "rank": 41,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 150629,
+        "num": 150629,
+        "word": "小米发布会",
+        "onboard_time": 1711615939,
+        "rank": 42,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 148624,
+        "num": 148624,
+        "word": "刚睡醒的潦草小狗",
+        "onboard_time": 1711681399,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 141290,
+        "num": 141290,
+        "word": "181男生喊话雷军配件已齐就缺SU7了",
+        "onboard_time": 1711675579,
+        "rank": 44,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 132008,
+        "num": 132008,
+        "word": "小米SU7值得买吗",
+        "onboard_time": 1711682180,
+        "rank": 45,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 126047,
+        "num": 126047,
+        "word": "雷军称小米SU7肯定亏了",
+        "onboard_time": 1711674379,
+        "rank": 46,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 119894,
+        "num": 119894,
+        "word": "肖战发表获奖感言",
+        "onboard_time": 1711677798,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 97223,
+        "num": 118247,
+        "word": "95后女生每月副业收入过万",
+        "onboard_time": 1711638200,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 90313,
+        "num": 118034,
+        "word": "穆雷绝杀凯尔特人",
+        "onboard_time": 1711679598,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平主席向美方人士详解中国发展#"
+    }
+  }
+}
