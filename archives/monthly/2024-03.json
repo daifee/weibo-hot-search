@@ -1,6 +1,6 @@
 {
   "startTime": 1709223640991,
-  "endTime": 1711687003636,
+  "endTime": 1711689432837,
   "band_list": [
     {
       "raw_hot": 21250232,
@@ -1017,6 +1017,14 @@
       "onboard_time": 1709293531,
       "rank": 1,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2190340,
+      "num": 2190340,
+      "word": "小米回应无法退定金问题",
+      "onboard_time": 1711685899,
+      "rank": 43,
+      "category": "汽车"
     },
     {
       "raw_hot": 2185298,
@@ -13755,14 +13763,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 627329,
-      "num": 466525,
-      "word": "小米回应无法退定金问题",
-      "onboard_time": 1711685899,
-      "rank": 43,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 627168,
       "num": 627168,
       "word": "喜茶光与夜之恋联名",
@@ -15457,6 +15457,14 @@
       "onboard_time": 1711064477,
       "rank": 10,
       "category": "数码"
+    },
+    {
+      "raw_hot": 571832,
+      "num": 571832,
+      "word": "张杰纠正年龄",
+      "onboard_time": 1711685838,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 571589,
@@ -20691,14 +20699,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 459909,
-      "num": 459909,
-      "word": "张杰纠正年龄",
-      "onboard_time": 1711685838,
-      "rank": 38,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 459510,
       "num": 354322,
       "word": "微信注销后的样子",
@@ -22545,6 +22545,14 @@
       "onboard_time": 1711440919,
       "rank": 17,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 425756,
+      "num": 425756,
+      "word": "上班搭子离职了比失恋还难过",
+      "onboard_time": 1711686739,
+      "rank": 34,
+      "category": "情感"
     },
     {
       "raw_hot": 425470,
@@ -29419,6 +29427,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 317828,
+      "num": 317828,
+      "word": "执笔结局",
+      "onboard_time": 1711687880,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 317807,
       "num": 317807,
       "word": "镇政府回应网传初中生结婚",
@@ -29697,6 +29713,14 @@
       "onboard_time": 1709547751,
       "rank": 4,
       "category": "体育"
+    },
+    {
+      "raw_hot": 314601,
+      "num": 289431,
+      "word": "情商低的五大表现",
+      "onboard_time": 1711687281,
+      "rank": 21,
+      "category": "情感"
     },
     {
       "raw_hot": 314572,
@@ -32553,6 +32577,14 @@
       "onboard_time": 1711002330,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 286064,
+      "num": 286064,
+      "word": "月子还没出就来离婚的妈妈",
+      "onboard_time": 1711687579,
+      "rank": 22,
+      "category": "母婴育儿"
     },
     {
       "raw_hot": 286054,
@@ -43683,14 +43715,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 210253,
-      "num": 210253,
-      "word": "上班搭子离职了比失恋还难过",
-      "onboard_time": 1711686739,
-      "rank": 34,
-      "category": "情感"
-    },
-    {
       "raw_hot": 210176,
       "num": 210176,
       "word": "迪丽热巴六部作品全球热播",
@@ -44555,6 +44579,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 206717,
+      "num": 206717,
+      "word": "张真源奔跑吧下班和粉丝告别",
+      "onboard_time": 1711688539,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 206706,
       "num": 206706,
       "word": "张婧仪19岁至23岁颜值变化",
@@ -44712,6 +44744,14 @@
       "word": "妇女节放假应该是上午还是下午",
       "onboard_time": 1709807252,
       "rank": 20,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 206082,
+      "num": 206082,
+      "word": "长期被打压容易反应慢",
+      "onboard_time": 1711685778,
+      "rank": 37,
       "category": "情感"
     },
     {
@@ -45265,14 +45305,6 @@
       "onboard_time": 1710316234,
       "rank": 30,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 204211,
-      "num": 204211,
-      "word": "长期被打压容易反应慢",
-      "onboard_time": 1711685778,
-      "rank": 37,
-      "category": "情感"
     },
     {
       "raw_hot": 204191,
@@ -49099,6 +49131,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 192927,
+      "num": 192927,
+      "word": "花间令真情侣变地下恋",
+      "onboard_time": 1711688240,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 192923,
       "num": 192923,
       "word": "刘诗诗春天随拍",
@@ -52843,6 +52883,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 180139,
+      "num": 180139,
+      "word": "祁煜占有欲",
+      "onboard_time": 1711688779,
+      "rank": 33,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 180133,
       "num": 180133,
       "word": "终于知道年轻人为什么喜欢养宠物了",
@@ -56211,6 +56259,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 168097,
+      "num": 195282,
+      "word": "多家公司抢注米时捷商标",
+      "onboard_time": 1711686800,
+      "rank": 39,
+      "category": "财经,汽车"
+    },
+    {
       "raw_hot": 168083,
       "num": 168083,
       "word": "当外甥女和男朋友第一次交流时",
@@ -57505,6 +57561,14 @@
       "onboard_time": 1711191859,
       "rank": 39,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 163798,
+      "num": 163798,
+      "word": "读研也是一种爱豆出道",
+      "onboard_time": 1711689259,
+      "rank": 37,
+      "category": "情感"
     },
     {
       "raw_hot": 163766,
@@ -58833,6 +58897,14 @@
       "onboard_time": 1711094839,
       "rank": 37,
       "category": "体育"
+    },
+    {
+      "raw_hot": 159803,
+      "num": 159803,
+      "word": "赵丽颖上海出发图",
+      "onboard_time": 1711687460,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 159775,
@@ -62539,6 +62611,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 148839,
+      "num": 148839,
+      "word": "论骑行眼镜的重要性",
+      "onboard_time": 1711689019,
+      "rank": 42,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 148824,
       "num": 148824,
       "word": "薛之谦重庆",
@@ -63507,6 +63587,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 145973,
+      "num": 145973,
+      "word": "孙颖莎3比1琳达",
+      "onboard_time": 1711689379,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 145854,
       "num": 145854,
       "word": "五月天公益演出",
@@ -63625,6 +63713,14 @@
       "onboard_time": 1710311371,
       "rank": 39,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 145600,
+      "num": 193260,
+      "word": "小米暴涨12.13%",
+      "onboard_time": 1711687639,
+      "rank": 29,
+      "category": "财经"
     },
     {
       "raw_hot": 145561,
@@ -65369,14 +65465,6 @@
       "onboard_time": 1711595658,
       "rank": 36,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 140339,
-      "num": 193151,
-      "word": "多家公司抢注米时捷商标",
-      "onboard_time": 1711686800,
-      "rank": 39,
-      "category": "财经,汽车"
     },
     {
       "raw_hot": 140336,
