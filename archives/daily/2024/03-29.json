@@ -1,6 +1,6 @@
 {
   "startTime": 1711642899962,
-  "endTime": 1711707536042,
+  "endTime": 1711708444074,
   "band_list": [
     {
       "raw_hot": 6224451,
@@ -100,7 +100,7 @@
     },
     {
       "raw_hot": 1312068,
-      "num": 450829,
+      "num": 513144,
       "word": "李惠利近照状态",
       "onboard_time": 1711697658,
       "rank": 10,
@@ -163,6 +163,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 992928,
+      "num": 992928,
+      "word": "盒马要求部分全职员工转外包",
+      "onboard_time": 1711704619,
+      "rank": 31,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 982688,
       "num": 755885,
       "word": "小米汽车向员工发放F码",
@@ -171,7 +179,7 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 910794,
+      "raw_hot": 919526,
       "num": 281746,
       "word": "阴道侧切的缝合",
       "onboard_time": 1711706298,
@@ -219,20 +227,20 @@
       "category": "电影"
     },
     {
-      "raw_hot": 812873,
-      "num": 812873,
-      "word": "盒马要求部分全职员工转外包",
-      "onboard_time": 1711704619,
-      "rank": 31,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 800865,
       "num": 800865,
       "word": "小爱同学被雷军喊崩了",
       "onboard_time": 1711682959,
       "rank": 38,
       "category": "汽车,互联网"
+    },
+    {
+      "raw_hot": 757384,
+      "num": 757384,
+      "word": "承欢记 杨紫站位",
+      "onboard_time": 1711704978,
+      "rank": 6,
+      "category": "剧集"
     },
     {
       "raw_hot": 756096,
@@ -259,14 +267,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 736852,
-      "num": 736852,
-      "word": "承欢记 杨紫站位",
-      "onboard_time": 1711704978,
-      "rank": 6,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 735088,
       "num": 735088,
       "word": "在英中国女留学生被刺身亡",
@@ -289,6 +289,14 @@
       "onboard_time": 1711692078,
       "rank": 8,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 668372,
+      "num": 668372,
+      "word": "张凌赫徐若晗樱花吻路透",
+      "onboard_time": 1711706898,
+      "rank": 11,
+      "category": "剧集"
     },
     {
       "raw_hot": 662627,
@@ -377,6 +385,14 @@
       "onboard_time": 1711674379,
       "rank": 30,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 550703,
+      "num": 550703,
+      "word": "小米回应试驾车爆胎视频",
+      "onboard_time": 1711705760,
+      "rank": 13,
+      "category": "汽车"
     },
     {
       "raw_hot": 548916,
@@ -499,14 +515,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 448484,
-      "num": 448484,
-      "word": "张凌赫徐若晗樱花吻路透",
-      "onboard_time": 1711706898,
-      "rank": 11,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 447586,
       "num": 333760,
       "word": "张杰谢娜叫赵丽颖的区别",
@@ -601,14 +609,6 @@
       "onboard_time": 1711635081,
       "rank": 18,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 393837,
-      "num": 393837,
-      "word": "小米回应试驾车爆胎视频",
-      "onboard_time": 1711705760,
-      "rank": 13,
-      "category": "汽车"
     },
     {
       "raw_hot": 393790,
@@ -795,20 +795,20 @@
       "category": "情感"
     },
     {
+      "raw_hot": 308875,
+      "num": 308875,
+      "word": "官方回应南通烧纸有两层楼高",
+      "onboard_time": 1711705158,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 305090,
       "num": 305090,
       "word": "东方卫视主持人",
       "onboard_time": 1711634961,
       "rank": 24,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 302298,
-      "num": 302298,
-      "word": "官方回应南通烧纸有两层楼高",
-      "onboard_time": 1711705158,
-      "rank": 16,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 301658,
@@ -907,6 +907,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 287615,
+      "num": 287615,
+      "word": "我19岁了妈妈还在大学家长群回收到",
+      "onboard_time": 1711707438,
+      "rank": 47,
+      "category": "情感"
+    },
+    {
       "raw_hot": 282074,
       "num": 235904,
       "word": "雷军称发布会前1天还在修改汽车定价",
@@ -929,6 +937,14 @@
       "onboard_time": 1711669098,
       "rank": 31,
       "category": "美食"
+    },
+    {
+      "raw_hot": 262781,
+      "num": 262781,
+      "word": "iPhone16Pro外观或更光滑",
+      "onboard_time": 1711707737,
+      "rank": 22,
+      "category": "数码"
     },
     {
       "raw_hot": 262755,
@@ -1073,6 +1089,14 @@
       "onboard_time": 1711695556,
       "rank": 25,
       "category": "情感"
+    },
+    {
+      "raw_hot": 230919,
+      "num": 181804,
+      "word": "如何看待小米被曝无法退定金问题",
+      "onboard_time": 1711707978,
+      "rank": 30,
+      "category": "汽车"
     },
     {
       "raw_hot": 229218,
@@ -1411,6 +1435,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 182761,
+      "num": 182761,
+      "word": "懂车帝实测小米SU7",
+      "onboard_time": 1711706837,
+      "rank": 38,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 180840,
       "num": 180840,
       "word": "水逆来了 重灾区星座要小心",
@@ -1539,6 +1571,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 165666,
+      "num": 165666,
+      "word": "感染性病后多久能查出来",
+      "onboard_time": 1711707918,
+      "rank": 32,
+      "category": "健康医疗,科学科普"
+    },
+    {
       "raw_hot": 164670,
       "num": 164670,
       "word": "小米SU7顶配版原定价35万",
@@ -1593,6 +1633,14 @@
       "onboard_time": 1711624159,
       "rank": 38,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 159397,
+      "num": 159397,
+      "word": "执笔",
+      "onboard_time": 1711707678,
+      "rank": 35,
+      "category": "剧集"
     },
     {
       "raw_hot": 159056,
@@ -1691,14 +1739,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 146073,
-      "num": 146073,
-      "word": "懂车帝实测小米SU7",
-      "onboard_time": 1711706837,
-      "rank": 38,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 145600,
       "num": 193260,
       "word": "小米暴涨12.13%",
@@ -1769,6 +1809,14 @@
       "onboard_time": 1711700179,
       "rank": 41,
       "category": "演出"
+    },
+    {
+      "raw_hot": 134799,
+      "num": 134799,
+      "word": "王俊凯杭州",
+      "onboard_time": 1711707497,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 134525,
@@ -1979,20 +2027,20 @@
       "category": "演出"
     },
     {
-      "raw_hot": 117522,
-      "num": 117522,
-      "word": "我19岁了妈妈还在大学家长群回收到",
-      "onboard_time": 1711707438,
-      "rank": 47,
-      "category": "情感"
-    },
-    {
       "raw_hot": 115285,
       "num": 115285,
       "word": "王星越吴磊 暴雪时分有续集",
       "onboard_time": 1711663271,
       "rank": 43,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 113326,
+      "num": 524016,
+      "word": "63岁退伍老兵从10多米高桥跳水救人",
+      "onboard_time": 1711705819,
+      "rank": 9,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 110981,
@@ -2019,12 +2067,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 109367,
-      "num": 451013,
-      "word": "63岁退伍老兵从10多米高桥跳水救人",
-      "onboard_time": 1711705819,
-      "rank": 9,
-      "category": "社会正能量"
+      "raw_hot": 109159,
+      "num": 109159,
+      "word": "周鸿祎自称开源信徒",
+      "onboard_time": 1711707558,
+      "rank": 49,
+      "category": "互联网"
     },
     {
       "raw_hot": 108963,
@@ -2057,14 +2105,6 @@
       "onboard_time": 1711676478,
       "rank": 49,
       "category": "教育"
-    },
-    {
-      "raw_hot": 103473,
-      "num": 117053,
-      "word": "王俊凯杭州",
-      "onboard_time": 1711707497,
-      "rank": 49,
-      "category": "艺人"
     },
     {
       "raw_hot": 101901,
@@ -2105,6 +2145,14 @@
       "onboard_time": 1711680439,
       "rank": 29,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 88337,
+      "num": 320717,
+      "word": "被网课满屏的老师好弹幕戳到了",
+      "onboard_time": 1711708157,
+      "rank": 13,
+      "category": "教育"
     },
     {
       "raw_hot": 87363,
@@ -2163,7 +2211,7 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 58893,
+      "raw_hot": 59166,
       "num": 455462,
       "word": "他们抬着雅江送的24面锦旗回来了",
       "onboard_time": 1711705819,
@@ -2227,6 +2275,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 38599,
+      "num": 283128,
+      "word": "求得紫色上上签",
+      "onboard_time": 1711705819,
+      "rank": 19,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 36768,
       "num": 36768,
       "word": "有些人就是为了扫兴而生的",
@@ -2241,14 +2297,6 @@
       "onboard_time": 1711628721,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 31019,
-      "num": 283128,
-      "word": "求得紫色上上签",
-      "onboard_time": 1711705819,
-      "rank": 19,
-      "category": "美妆"
     },
     {
       "raw_hot": 27930,
@@ -2307,7 +2355,7 @@
       "category": "运动健身"
     },
     {
-      "raw_hot": 13511,
+      "raw_hot": 16598,
       "num": 358182,
       "word": "全新蛋仔超燃竞技场",
       "onboard_time": 1711706418,

@@ -1,6 +1,6 @@
 {
   "startTime": 1711210803824,
-  "endTime": 1711707536042,
+  "endTime": 1711708444074,
   "band_list": [
     {
       "raw_hot": 21250232,
@@ -724,7 +724,7 @@
     },
     {
       "raw_hot": 1312068,
-      "num": 450829,
+      "num": 513144,
       "word": "李惠利近照状态",
       "onboard_time": 1711697658,
       "rank": 10,
@@ -1219,6 +1219,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 992928,
+      "num": 992928,
+      "word": "盒马要求部分全职员工转外包",
+      "onboard_time": 1711704619,
+      "rank": 31,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 990309,
       "num": 333523,
       "word": "你愿意不交社保换更多工资吗",
@@ -1331,6 +1339,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 919526,
+      "num": 281746,
+      "word": "阴道侧切的缝合",
+      "onboard_time": 1711706298,
+      "rank": 20,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 917921,
       "num": 511956,
       "word": "Angelababy杨超越互夸美甲",
@@ -1361,14 +1377,6 @@
       "onboard_time": 1711411878,
       "rank": 4,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 910794,
-      "num": 281746,
-      "word": "阴道侧切的缝合",
-      "onboard_time": 1711706298,
-      "rank": 20,
-      "category": "科学科普"
     },
     {
       "raw_hot": 908252,
@@ -1633,14 +1641,6 @@
       "onboard_time": 1711357219,
       "rank": 12,
       "category": "国内时政,军事"
-    },
-    {
-      "raw_hot": 812873,
-      "num": 812873,
-      "word": "盒马要求部分全职员工转外包",
-      "onboard_time": 1711704619,
-      "rank": 31,
-      "category": "互联网"
     },
     {
       "raw_hot": 809214,
@@ -1931,6 +1931,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 757384,
+      "num": 757384,
+      "word": "承欢记 杨紫站位",
+      "onboard_time": 1711704978,
+      "rank": 6,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 756096,
       "num": 756096,
       "word": "小米股票",
@@ -2041,14 +2049,6 @@
       "onboard_time": 1711530919,
       "rank": 30,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 736852,
-      "num": 736852,
-      "word": "承欢记 杨紫站位",
-      "onboard_time": 1711704978,
-      "rank": 6,
-      "category": "剧集"
     },
     {
       "raw_hot": 735395,
@@ -2401,6 +2401,14 @@
       "onboard_time": 1711619599,
       "rank": 12,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 668372,
+      "num": 668372,
+      "word": "张凌赫徐若晗樱花吻路透",
+      "onboard_time": 1711706898,
+      "rank": 11,
+      "category": "剧集"
     },
     {
       "raw_hot": 668295,
@@ -3137,6 +3145,14 @@
       "onboard_time": 1711629441,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 550703,
+      "num": 550703,
+      "word": "小米回应试驾车爆胎视频",
+      "onboard_time": 1711705760,
+      "rank": 13,
+      "category": "汽车"
     },
     {
       "raw_hot": 550331,
@@ -4307,14 +4323,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 448484,
-      "num": 448484,
-      "word": "张凌赫徐若晗樱花吻路透",
-      "onboard_time": 1711706898,
-      "rank": 11,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 447586,
       "num": 333760,
       "word": "张杰谢娜叫赵丽颖的区别",
@@ -4929,14 +4937,6 @@
       "onboard_time": 1711368079,
       "rank": 13,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 393837,
-      "num": 393837,
-      "word": "小米回应试驾车爆胎视频",
-      "onboard_time": 1711705760,
-      "rank": 13,
-      "category": "汽车"
     },
     {
       "raw_hot": 393790,
@@ -6163,6 +6163,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 308875,
+      "num": 308875,
+      "word": "官方回应南通烧纸有两层楼高",
+      "onboard_time": 1711705158,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 308427,
       "num": 308427,
       "word": "SM新女团",
@@ -6265,14 +6273,6 @@
       "onboard_time": 1711190600,
       "rank": 21,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 302298,
-      "num": 302298,
-      "word": "官方回应南通烧纸有两层楼高",
-      "onboard_time": 1711705158,
-      "rank": 16,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 302127,
@@ -6665,6 +6665,14 @@
       "onboard_time": 1711359019,
       "rank": 37,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 287615,
+      "num": 287615,
+      "word": "我19岁了妈妈还在大学家长群回收到",
+      "onboard_time": 1711707438,
+      "rank": 47,
+      "category": "情感"
     },
     {
       "raw_hot": 287420,
@@ -7161,6 +7169,14 @@
       "onboard_time": 1711427600,
       "rank": 34,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 262781,
+      "num": 262781,
+      "word": "iPhone16Pro外观或更光滑",
+      "onboard_time": 1711707737,
+      "rank": 22,
+      "category": "数码"
     },
     {
       "raw_hot": 262755,
@@ -8265,6 +8281,14 @@
       "onboard_time": 1711447819,
       "rank": 45,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 230919,
+      "num": 181804,
+      "word": "如何看待小米被曝无法退定金问题",
+      "onboard_time": 1711707978,
+      "rank": 30,
+      "category": "汽车"
     },
     {
       "raw_hot": 230717,
@@ -11019,6 +11043,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 182761,
+      "num": 182761,
+      "word": "懂车帝实测小米SU7",
+      "onboard_time": 1711706837,
+      "rank": 38,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 182718,
       "num": 182718,
       "word": "离职后有必要删除同事吗",
@@ -12011,6 +12043,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 165666,
+      "num": 165666,
+      "word": "感染性病后多久能查出来",
+      "onboard_time": 1711707918,
+      "rank": 32,
+      "category": "健康医疗,科学科普"
+    },
+    {
       "raw_hot": 165564,
       "num": 165564,
       "word": "wtt",
@@ -12539,6 +12579,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 159397,
+      "num": 159397,
+      "word": "执笔",
+      "onboard_time": 1711252939,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 159245,
       "num": 159245,
       "word": "大学生已经玩不过老师了",
@@ -13032,14 +13080,6 @@
       "word": "在人间",
       "onboard_time": 1711695798,
       "rank": 43,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 152418,
-      "num": 152418,
-      "word": "执笔",
-      "onboard_time": 1711252939,
-      "rank": 36,
       "category": "剧集"
     },
     {
@@ -13537,14 +13577,6 @@
       "onboard_time": 1711371080,
       "rank": 45,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 146073,
-      "num": 146073,
-      "word": "懂车帝实测小米SU7",
-      "onboard_time": 1711706837,
-      "rank": 38,
-      "category": "汽车"
     },
     {
       "raw_hot": 146029,
@@ -14249,6 +14281,14 @@
       "onboard_time": 1711451418,
       "rank": 42,
       "category": "数码"
+    },
+    {
+      "raw_hot": 134799,
+      "num": 134799,
+      "word": "王俊凯杭州",
+      "onboard_time": 1711707497,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 134757,
@@ -15235,14 +15275,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 117522,
-      "num": 117522,
-      "word": "我19岁了妈妈还在大学家长群回收到",
-      "onboard_time": 1711707438,
-      "rank": 47,
-      "category": "情感"
-    },
-    {
       "raw_hot": 117480,
       "num": 117480,
       "word": "其实明道也演过纪存希",
@@ -15393,6 +15425,14 @@
       "onboard_time": 1711583417,
       "rank": 48,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 113326,
+      "num": 524016,
+      "word": "63岁退伍老兵从10多米高桥跳水救人",
+      "onboard_time": 1711705819,
+      "rank": 9,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 112829,
@@ -15579,14 +15619,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 109367,
-      "num": 451013,
-      "word": "63岁退伍老兵从10多米高桥跳水救人",
-      "onboard_time": 1711705819,
-      "rank": 9,
-      "category": "社会正能量"
-    },
-    {
       "raw_hot": 109338,
       "num": 126149,
       "word": "专家称不要把IPO当作套现百亿的致富路",
@@ -15601,6 +15633,14 @@
       "onboard_time": 1711247780,
       "rank": 49,
       "category": "情感"
+    },
+    {
+      "raw_hot": 109159,
+      "num": 109159,
+      "word": "周鸿祎自称开源信徒",
+      "onboard_time": 1711707558,
+      "rank": 49,
+      "category": "互联网"
     },
     {
       "raw_hot": 109044,
@@ -15753,14 +15793,6 @@
       "onboard_time": 1711191200,
       "rank": 49,
       "category": "动漫,网红"
-    },
-    {
-      "raw_hot": 103473,
-      "num": 117053,
-      "word": "王俊凯杭州",
-      "onboard_time": 1711707497,
-      "rank": 49,
-      "category": "艺人"
     },
     {
       "raw_hot": 103237,
@@ -15977,6 +16009,14 @@
       "onboard_time": 1711565412,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 88337,
+      "num": 320717,
+      "word": "被网课满屏的老师好弹幕戳到了",
+      "onboard_time": 1711708157,
+      "rank": 13,
+      "category": "教育"
     },
     {
       "raw_hot": 85558,
@@ -16379,7 +16419,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 58893,
+      "raw_hot": 59166,
       "num": 455462,
       "word": "他们抬着雅江送的24面锦旗回来了",
       "onboard_time": 1711705819,
@@ -16691,6 +16731,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 38599,
+      "num": 283128,
+      "word": "求得紫色上上签",
+      "onboard_time": 1711705819,
+      "rank": 19,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 37612,
       "num": 37612,
       "word": "OMG对战iG",
@@ -16801,14 +16849,6 @@
       "onboard_time": 1711388472,
       "rank": 32,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 31019,
-      "num": 283128,
-      "word": "求得紫色上上签",
-      "onboard_time": 1711705819,
-      "rank": 19,
-      "category": "美妆"
     },
     {
       "raw_hot": 30646,
@@ -17083,6 +17123,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 16598,
+      "num": 358182,
+      "word": "全新蛋仔超燃竞技场",
+      "onboard_time": 1711706418,
+      "rank": 14,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 16517,
       "num": 16517,
       "word": "黑执事新作 看顺眼了",
@@ -17129,14 +17177,6 @@
       "onboard_time": 1711567511,
       "rank": 48,
       "category": "教育"
-    },
-    {
-      "raw_hot": 13511,
-      "num": 358182,
-      "word": "全新蛋仔超燃竞技场",
-      "onboard_time": 1711706418,
-      "rank": 14,
-      "category": "游戏"
     },
     {
       "raw_hot": 13083,
