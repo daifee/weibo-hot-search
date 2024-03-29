@@ -1,6 +1,6 @@
 {
   "startTime": 1709223640991,
-  "endTime": 1711725488674,
+  "endTime": 1711726457294,
   "band_list": [
     {
       "raw_hot": 21250232,
@@ -15265,6 +15265,14 @@
       "onboard_time": 1710892532,
       "rank": 13,
       "category": "网红"
+    },
+    {
+      "raw_hot": 583979,
+      "num": 583979,
+      "word": "粉色哥斯拉",
+      "onboard_time": 1711724778,
+      "rank": 18,
+      "category": "电影"
     },
     {
       "raw_hot": 583501,
@@ -36515,6 +36523,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 255711,
+      "num": 255711,
+      "word": "拂容君沈璃 先婚后爱文学",
+      "onboard_time": 1711722920,
+      "rank": 22,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 255691,
       "num": 255691,
       "word": "恐袭的4名嫌疑人是塔吉克斯坦公民",
@@ -42275,14 +42291,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 220365,
-      "num": 220365,
-      "word": "粉色哥斯拉",
-      "onboard_time": 1711724778,
-      "rank": 18,
-      "category": "电影"
-    },
-    {
       "raw_hot": 220292,
       "num": 220292,
       "word": "胃是个很敏感的器官",
@@ -43099,14 +43107,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 216570,
-      "num": 216570,
-      "word": "拂容君沈璃 先婚后爱文学",
-      "onboard_time": 1711722920,
-      "rank": 22,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 216564,
       "num": 216564,
       "word": "丁程鑫校园剧男主",
@@ -43289,6 +43289,14 @@
       "onboard_time": 1711202721,
       "rank": 42,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 215725,
+      "num": 215725,
+      "word": "杨幂吻樱桃",
+      "onboard_time": 1711725198,
+      "rank": 31,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 215646,
@@ -45889,6 +45897,14 @@
       "onboard_time": 1711258818,
       "rank": 34,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 204920,
+      "num": 204920,
+      "word": "徐明浩文俊辉同时营业",
+      "onboard_time": 1711725859,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 204874,
@@ -51867,6 +51883,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 187161,
+      "num": 187161,
+      "word": "朋友圈就能看出应届生的offer质量",
+      "onboard_time": 1711723699,
+      "rank": 25,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 187154,
       "num": 153251,
       "word": "张慧雯回应演何悯鸿后面相变了",
@@ -52025,14 +52049,6 @@
       "onboard_time": 1709897609,
       "rank": 26,
       "category": "军事"
-    },
-    {
-      "raw_hot": 186640,
-      "num": 186640,
-      "word": "朋友圈就能看出应届生的offer质量",
-      "onboard_time": 1711723699,
-      "rank": 25,
-      "category": "幽默"
     },
     {
       "raw_hot": 186618,
@@ -57531,6 +57547,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 167317,
+      "num": 167317,
+      "word": "杨幂G社生图",
+      "onboard_time": 1711726219,
+      "rank": 30,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 167306,
       "num": 167306,
       "word": "只有infp才擅长的天赋",
@@ -57769,14 +57793,6 @@
       "onboard_time": 1709807790,
       "rank": 37,
       "category": "美食"
-    },
-    {
-      "raw_hot": 166477,
-      "num": 166477,
-      "word": "杨幂吻樱桃",
-      "onboard_time": 1711725198,
-      "rank": 31,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 166470,
@@ -61385,6 +61401,14 @@
       "onboard_time": 1710677314,
       "rank": 42,
       "category": "体育"
+    },
+    {
+      "raw_hot": 155843,
+      "num": 155843,
+      "word": "雷军回忆造车崩溃时刻",
+      "onboard_time": 1711725320,
+      "rank": 48,
+      "category": "汽车,互联网"
     },
     {
       "raw_hot": 155838,
@@ -65529,6 +65553,14 @@
       "onboard_time": 1711358958,
       "rank": 44,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 143890,
+      "num": 143890,
+      "word": "郭昊文",
+      "onboard_time": 1711726039,
+      "rank": 34,
+      "category": "体育"
     },
     {
       "raw_hot": 143868,
@@ -70763,6 +70795,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 127813,
+      "num": 127813,
+      "word": "中国新能源车拉长续航一起向前",
+      "onboard_time": 1711725620,
+      "rank": 41,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 127760,
       "num": 127760,
       "word": "迈阿密国际vs纳什维尔",
@@ -73337,14 +73377,6 @@
       "onboard_time": 1710507707,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 117770,
-      "num": 117770,
-      "word": "雷军回忆造车崩溃时刻",
-      "onboard_time": 1711725320,
-      "rank": 48,
-      "category": "汽车,互联网"
     },
     {
       "raw_hot": 117758,
@@ -76001,6 +76033,14 @@
       "onboard_time": 1711676478,
       "rank": 49,
       "category": "教育"
+    },
+    {
+      "raw_hot": 105273,
+      "num": 105273,
+      "word": "WBG四局两鸡",
+      "onboard_time": 1711725678,
+      "rank": 47,
+      "category": "电竞"
     },
     {
       "raw_hot": 105265,

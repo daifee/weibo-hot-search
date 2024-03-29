@@ -1,6 +1,6 @@
 {
   "startTime": 1711642899962,
-  "endTime": 1711725488674,
+  "endTime": 1711726457294,
   "band_list": [
     {
       "raw_hot": 6224451,
@@ -473,6 +473,14 @@
       "onboard_time": 1711716078,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 583979,
+      "num": 583979,
+      "word": "粉色哥斯拉",
+      "onboard_time": 1711724778,
+      "rank": 18,
+      "category": "电影"
     },
     {
       "raw_hot": 577492,
@@ -1259,6 +1267,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 255711,
+      "num": 255711,
+      "word": "拂容君沈璃 先婚后爱文学",
+      "onboard_time": 1711722920,
+      "rank": 22,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 255237,
       "num": 184456,
       "word": "原来身上的小红点是皮肤老化",
@@ -1475,14 +1491,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 220365,
-      "num": 220365,
-      "word": "粉色哥斯拉",
-      "onboard_time": 1711724778,
-      "rank": 18,
-      "category": "电影"
-    },
-    {
       "raw_hot": 219920,
       "num": 219920,
       "word": "胡歌打电话给三十年后的自己",
@@ -1523,12 +1531,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 216570,
-      "num": 216570,
-      "word": "拂容君沈璃 先婚后爱文学",
-      "onboard_time": 1711722920,
-      "rank": 22,
-      "category": "剧集"
+      "raw_hot": 215725,
+      "num": 215725,
+      "word": "杨幂吻樱桃",
+      "onboard_time": 1711725198,
+      "rank": 31,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 215501,
@@ -1641,6 +1649,14 @@
       "onboard_time": 1711674559,
       "rank": 34,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 204920,
+      "num": 204920,
+      "word": "徐明浩文俊辉同时营业",
+      "onboard_time": 1711725859,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 202245,
@@ -1803,6 +1819,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 190026,
+      "num": 190026,
+      "word": "追风者",
+      "onboard_time": 1711726039,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 189386,
       "num": 189386,
       "word": "严浩翔到东北了",
@@ -1835,8 +1859,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 186640,
-      "num": 186640,
+      "raw_hot": 187161,
+      "num": 187161,
       "word": "朋友圈就能看出应届生的offer质量",
       "onboard_time": 1711723699,
       "rank": 25,
@@ -2059,11 +2083,11 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 166477,
-      "num": 166477,
-      "word": "杨幂吻樱桃",
-      "onboard_time": 1711725198,
-      "rank": 31,
+      "raw_hot": 167317,
+      "num": 167317,
+      "word": "杨幂G社生图",
+      "onboard_time": 1711726219,
+      "rank": 30,
       "category": "作品衍生,时尚"
     },
     {
@@ -2219,6 +2243,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 155843,
+      "num": 155843,
+      "word": "雷军回忆造车崩溃时刻",
+      "onboard_time": 1711725320,
+      "rank": 48,
+      "category": "汽车,互联网"
+    },
+    {
       "raw_hot": 154980,
       "num": 154980,
       "word": "路人看到白鹿的反应",
@@ -2353,6 +2385,14 @@
       "onboard_time": 1711690699,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 143890,
+      "num": 143890,
+      "word": "郭昊文",
+      "onboard_time": 1711726039,
+      "rank": 34,
+      "category": "体育"
     },
     {
       "raw_hot": 143868,
@@ -2603,6 +2643,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 127813,
+      "num": 127813,
+      "word": "中国新能源车拉长续航一起向前",
+      "onboard_time": 1711725620,
+      "rank": 41,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 127292,
       "num": 127292,
       "word": "阿维塔12焕新上市",
@@ -2739,14 +2787,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 117770,
-      "num": 117770,
-      "word": "雷军回忆造车崩溃时刻",
-      "onboard_time": 1711725320,
-      "rank": 48,
-      "category": "汽车,互联网"
-    },
-    {
       "raw_hot": 117758,
       "num": 117758,
       "word": "罗伯特叫吴磊目莲哥哥",
@@ -2849,6 +2889,14 @@
       "onboard_time": 1711676478,
       "rank": 49,
       "category": "教育"
+    },
+    {
+      "raw_hot": 105273,
+      "num": 105273,
+      "word": "WBG四局两鸡",
+      "onboard_time": 1711725678,
+      "rank": 47,
+      "category": "电竞"
     },
     {
       "raw_hot": 102514,
