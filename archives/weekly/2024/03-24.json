@@ -1,6 +1,6 @@
 {
   "startTime": 1711210803824,
-  "endTime": 1711744463823,
+  "endTime": 1711746973854,
   "band_list": [
     {
       "raw_hot": 21250232,
@@ -17907,6 +17907,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 26553,
+      "num": 17014,
+      "word": "一口价黄金每克或超2000元",
+      "onboard_time": 1711743971,
+      "rank": 39,
+      "category": "财经"
+    },
+    {
       "raw_hot": 26529,
       "num": 26529,
       "word": "坠落的审判 翻译",
@@ -18099,14 +18107,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 15330,
-      "num": 15330,
-      "word": "一口价黄金每克或超2000元",
-      "onboard_time": 1711743971,
-      "rank": 39,
-      "category": "财经"
-    },
-    {
       "raw_hot": 15279,
       "num": 15279,
       "word": "没和蔡依林一起去",
@@ -18121,6 +18121,14 @@
       "onboard_time": 1711482310,
       "rank": 38,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 14182,
+      "num": 14969,
+      "word": "周深二专",
+      "onboard_time": 1711745711,
+      "rank": 41,
+      "category": "音乐"
     },
     {
       "raw_hot": 14131,
@@ -18185,6 +18193,14 @@
       "onboard_time": 1711654452,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 11323,
+      "num": 14918,
+      "word": "我国计划2030前后完成火星采样返回",
+      "onboard_time": 1711746910,
+      "rank": 49,
+      "category": "国内时政,科学科普"
     },
     {
       "raw_hot": 10452,
