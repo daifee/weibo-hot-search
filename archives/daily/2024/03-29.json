@@ -1,6 +1,6 @@
 {
   "startTime": 1711642899962,
-  "endTime": 1711718367393,
+  "endTime": 1711719243684,
   "band_list": [
     {
       "raw_hot": 6224451,
@@ -267,6 +267,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 811846,
+      "num": 811846,
+      "word": "罗永浩称小米汽车很可能上演良币驱逐劣币",
+      "onboard_time": 1711716139,
+      "rank": 17,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 800865,
       "num": 800865,
       "word": "小爱同学被雷军喊崩了",
@@ -313,14 +321,6 @@
       "onboard_time": 1711644495,
       "rank": 16,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 721439,
-      "num": 408776,
-      "word": "罗永浩称小米汽车很可能上演良币驱逐劣币",
-      "onboard_time": 1711716139,
-      "rank": 17,
-      "category": "汽车"
     },
     {
       "raw_hot": 691967,
@@ -523,6 +523,22 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 514446,
+      "num": 236214,
+      "word": "经常塞牙其实是牙齿在求救",
+      "onboard_time": 1711716861,
+      "rank": 21,
+      "category": "健康医疗,科学科普"
+    },
+    {
+      "raw_hot": 514119,
+      "num": 514119,
+      "word": "李惠利金泰妍舞蹈挑战",
+      "onboard_time": 1711717038,
+      "rank": 7,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 507019,
       "num": 507019,
       "word": "宋亚轩给国家地理微博留言",
@@ -537,14 +553,6 @@
       "onboard_time": 1711645574,
       "rank": 48,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 487830,
-      "num": 201744,
-      "word": "经常塞牙其实是牙齿在求救",
-      "onboard_time": 1711716861,
-      "rank": 21,
-      "category": "健康医疗,科学科普"
     },
     {
       "raw_hot": 486074,
@@ -563,6 +571,14 @@
       "category": "艺人,互联网"
     },
     {
+      "raw_hot": 480525,
+      "num": 480525,
+      "word": "解决网约车臭的方法找到了",
+      "onboard_time": 1711716078,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 473677,
       "num": 473677,
       "word": "陈梦vs张本美和",
@@ -571,28 +587,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 471117,
-      "num": 471117,
-      "word": "解决网约车臭的方法找到了",
-      "onboard_time": 1711716078,
-      "rank": 29,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 463393,
       "num": 463393,
       "word": "90%的年轻人担心自己有病",
       "onboard_time": 1711701798,
       "rank": 14,
       "category": "健康医疗,科学科普"
-    },
-    {
-      "raw_hot": 462845,
-      "num": 462845,
-      "word": "李惠利金泰妍舞蹈挑战",
-      "onboard_time": 1711717038,
-      "rank": 7,
-      "category": "音乐"
     },
     {
       "raw_hot": 459953,
@@ -665,6 +665,14 @@
       "onboard_time": 1711695618,
       "rank": 9,
       "category": "体育,社会新闻"
+    },
+    {
+      "raw_hot": 424159,
+      "num": 424159,
+      "word": "下周只上3天班",
+      "onboard_time": 1711713798,
+      "rank": 22,
+      "category": "情感"
     },
     {
       "raw_hot": 421338,
@@ -795,6 +803,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 373233,
+      "num": 373233,
+      "word": "诛仙2鬼厉陆雪琪重逢",
+      "onboard_time": 1711716738,
+      "rank": 11,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 370996,
       "num": 336906,
       "word": "小灰灰第一次立耳",
@@ -835,28 +851,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 356520,
+      "num": 356520,
+      "word": "没想到跳绳这么瘦肚子",
+      "onboard_time": 1711717698,
+      "rank": 24,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 355425,
       "num": 355425,
       "word": "愚人节换头像",
       "onboard_time": 1711684339,
       "rank": 18,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 351054,
-      "num": 351054,
-      "word": "诛仙2鬼厉陆雪琪重逢",
-      "onboard_time": 1711716738,
-      "rank": 11,
-      "category": "动漫"
-    },
-    {
-      "raw_hot": 342889,
-      "num": 342889,
-      "word": "下周只上3天班",
-      "onboard_time": 1711713798,
-      "rank": 22,
-      "category": "情感"
     },
     {
       "raw_hot": 332455,
@@ -1123,14 +1131,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 262377,
-      "num": 195638,
-      "word": "没想到跳绳这么瘦肚子",
-      "onboard_time": 1711717698,
-      "rank": 24,
-      "category": "运动健身"
-    },
-    {
       "raw_hot": 260747,
       "num": 260747,
       "word": "蛋仔派对暹罗猫",
@@ -1168,6 +1168,14 @@
       "word": "樊振东3比0弗朗西斯卡",
       "onboard_time": 1711698977,
       "rank": 18,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 251471,
+      "num": 251471,
+      "word": "王曼昱比赛",
+      "onboard_time": 1711718598,
+      "rank": 17,
       "category": "体育"
     },
     {
@@ -1217,6 +1225,14 @@
       "onboard_time": 1711681697,
       "rank": 28,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 243754,
+      "num": 167666,
+      "word": "缚骨清姬典藏皮肤",
+      "onboard_time": 1711718238,
+      "rank": 33,
+      "category": "游戏"
     },
     {
       "raw_hot": 243687,
@@ -1323,6 +1339,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 222069,
+      "num": 222069,
+      "word": "王阳好会说",
+      "onboard_time": 1711717577,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 221797,
       "num": 221797,
       "word": "在男朋友房间发现很多关于我的东西",
@@ -1385,6 +1409,14 @@
       "onboard_time": 1711691959,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 214772,
+      "num": 214772,
+      "word": "与凤行",
+      "onboard_time": 1711644375,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 214552,
@@ -1465,14 +1497,6 @@
       "onboard_time": 1711674559,
       "rank": 34,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 203641,
-      "num": 203641,
-      "word": "与凤行",
-      "onboard_time": 1711644375,
-      "rank": 47,
-      "category": "剧集"
     },
     {
       "raw_hot": 202245,
@@ -1755,6 +1779,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 178723,
+      "num": 178723,
+      "word": "什么情况下你会考虑换车",
+      "onboard_time": 1711719019,
+      "rank": 27,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 178159,
       "num": 178159,
       "word": "张杰演唱会的小细节",
@@ -1776,14 +1808,6 @@
       "word": "极限挑战直播",
       "onboard_time": 1711636341,
       "rank": 34,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 176404,
-      "num": 176404,
-      "word": "王阳好会说",
-      "onboard_time": 1711717577,
-      "rank": 28,
       "category": "综艺"
     },
     {
@@ -1945,14 +1969,6 @@
       "onboard_time": 1711700838,
       "rank": 28,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 160677,
-      "num": 160677,
-      "word": "缚骨清姬典藏皮肤",
-      "onboard_time": 1711718238,
-      "rank": 33,
-      "category": "游戏"
     },
     {
       "raw_hot": 159803,
@@ -2147,6 +2163,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 141972,
+      "num": 141972,
+      "word": "李铁7年前寄语监狱服刑人员好好改造",
+      "onboard_time": 1711718059,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 141342,
       "num": 141342,
       "word": "费曼模仿吴镇宇掐嘴",
@@ -2163,6 +2187,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 140179,
+      "num": 140179,
+      "word": "雷军说会开小米SU7上班",
+      "onboard_time": 1711718719,
+      "rank": 34,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 139105,
       "num": 139105,
       "word": "王俊凯杭州",
@@ -2177,14 +2209,6 @@
       "onboard_time": 1711632201,
       "rank": 43,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 137271,
-      "num": 137271,
-      "word": "李铁7年前寄语监狱服刑人员好好改造",
-      "onboard_time": 1711718059,
-      "rank": 39,
-      "category": "体育"
     },
     {
       "raw_hot": 136344,
@@ -2411,6 +2435,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 120751,
+      "num": 120751,
+      "word": "KSG对战EDGM",
+      "onboard_time": 1711718960,
+      "rank": 42,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 120266,
       "num": 120266,
       "word": "阿维塔发布会",
@@ -2475,12 +2507,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 115226,
+      "num": 115226,
+      "word": "Jinggg将重返赛场",
+      "onboard_time": 1711718479,
+      "rank": 45,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 111113,
       "num": 111113,
       "word": "月明千里主演",
       "onboard_time": 1711709898,
       "rank": 47,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 111031,
+      "num": 111031,
+      "word": "当教室来了一只萨摩耶",
+      "onboard_time": 1711719139,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 110981,
