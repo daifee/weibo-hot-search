@@ -1,0 +1,410 @@
+{
+  "runTime": 1711733744631,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 623703,
+        "num": 623703,
+        "word": "经常塞牙其实是牙齿在求救",
+        "onboard_time": 1711716861,
+        "rank": 0,
+        "category": "健康医疗,科学科普"
+      },
+      {
+        "raw_hot": 336893,
+        "num": 336893,
+        "word": "幸亏乐华没让李到晛当爱豆",
+        "onboard_time": 1711731196,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 10833,
+        "num": 310024,
+        "word": "有一种叫云南的生活",
+        "onboard_time": 1711684279,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 297568,
+        "num": 297568,
+        "word": "美国连体双胞胎姐妹其中一人已婚",
+        "onboard_time": 1711721539,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 286015,
+        "num": 286015,
+        "word": "闲鱼现大量车主转卖旧车购买小米SU7",
+        "onboard_time": 1711714819,
+        "rank": 4,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 247578,
+        "num": 247578,
+        "word": "粉色哥斯拉",
+        "onboard_time": 1711724778,
+        "rank": 5,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 224646,
+        "num": 224646,
+        "word": "罗永浩称小米汽车很可能上演良币驱逐劣币",
+        "onboard_time": 1711716139,
+        "rank": 6,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 206040,
+        "num": 206040,
+        "word": "小米汽车回应",
+        "onboard_time": 1711722739,
+        "rank": 7,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 146524,
+        "num": 205366,
+        "word": "为卖淫女看病被判协助组织卖淫",
+        "onboard_time": 1711690999,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 104266,
+        "num": 205257,
+        "word": "解决网约车臭的方法找到了",
+        "onboard_time": 1711716078,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 339647,
+        "num": 205250,
+        "word": "相亲强奸案当事男子改判无罪获赔57万",
+        "onboard_time": 1711720279,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 205215,
+        "num": 205215,
+        "word": "杨幂G社生图",
+        "onboard_time": 1711726219,
+        "rank": 11,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 185425,
+        "num": 185425,
+        "word": "将门毒后 新丽",
+        "onboard_time": 1711713617,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 180844,
+        "num": 180844,
+        "word": "齐邦媛去世",
+        "onboard_time": 1711720938,
+        "rank": 13,
+        "category": "读书作家,作品衍生"
+      },
+      {
+        "raw_hot": 135861,
+        "num": 135861,
+        "word": "朱珠花裙子",
+        "onboard_time": 1711729637,
+        "rank": 14,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 109528,
+        "num": 109528,
+        "word": "白鹿跳了Fate",
+        "onboard_time": 1711726580,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 106520,
+        "num": 106520,
+        "word": "韩沐伯 出家",
+        "onboard_time": 1711712237,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 100901,
+        "num": 100901,
+        "word": "没想到跳绳这么瘦肚子",
+        "onboard_time": 1711717698,
+        "rank": 17,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 96307,
+        "num": 96307,
+        "word": "小米汽车上市24小时大定88898台",
+        "onboard_time": 1711723218,
+        "rank": 18,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 81409,
+        "num": 93722,
+        "word": "郭昊文",
+        "onboard_time": 1711726039,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 236154,
+        "num": 93437,
+        "word": "阴道侧切的缝合",
+        "onboard_time": 1711706298,
+        "rank": 20,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 91916,
+        "num": 91916,
+        "word": "赵丽颖成毅友情",
+        "onboard_time": 1711723038,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 84120,
+        "num": 84120,
+        "word": "文韬高端玩家卡点反杀",
+        "onboard_time": 1711730116,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 75813,
+        "num": 75813,
+        "word": "朋友圈就能看出应届生的offer质量",
+        "onboard_time": 1711723699,
+        "rank": 23,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 72633,
+        "num": 72633,
+        "word": "鞠婧祎转头甩发",
+        "onboard_time": 1711720040,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 67681,
+        "num": 67681,
+        "word": "王阳好会说",
+        "onboard_time": 1711717577,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 64628,
+        "num": 64628,
+        "word": "小时候被盗的QQ终于有救了",
+        "onboard_time": 1711710079,
+        "rank": 26,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 55878,
+        "num": 64619,
+        "word": "中消协提醒立即停用小林制药有关产品",
+        "onboard_time": 1711720938,
+        "rank": 27,
+        "category": "社会新闻,健康医疗"
+      },
+      {
+        "raw_hot": 47002,
+        "num": 64220,
+        "word": "老中医时隔30年收到亡父药方",
+        "onboard_time": 1711727598,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 34348,
+        "num": 64037,
+        "word": "一个动作帮久坐族排湿",
+        "onboard_time": 1711731494,
+        "rank": 29,
+        "category": "健康医疗,运动健身"
+      },
+      {
+        "raw_hot": 268657,
+        "num": 63870,
+        "word": "钟南山称当前无需对X疾病过于恐慌",
+        "onboard_time": 1711729878,
+        "rank": 30,
+        "category": "健康医疗,科学科普"
+      },
+      {
+        "raw_hot": 63724,
+        "num": 63724,
+        "word": "凤囚凰或将翻拍",
+        "onboard_time": 1711720820,
+        "rank": 31,
+        "category": "剧集,读书作家"
+      },
+      {
+        "raw_hot": 60241,
+        "num": 60241,
+        "word": "马思纯把酒店当家布置",
+        "onboard_time": 1711732574,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 58801,
+        "num": 58801,
+        "word": "金世佳福州",
+        "onboard_time": 1711727058,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 56005,
+        "num": 56005,
+        "word": "小米汽车手机支架",
+        "onboard_time": 1711720759,
+        "rank": 34,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 54080,
+        "num": 54080,
+        "word": "裴珠泫今年将solo出道",
+        "onboard_time": 1711721360,
+        "rank": 35,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 52288,
+        "num": 52288,
+        "word": "追风者",
+        "onboard_time": 1711726039,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 52048,
+        "num": 52048,
+        "word": "梦天拍的杨幂",
+        "onboard_time": 1711728020,
+        "rank": 37,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 51483,
+        "num": 51483,
+        "word": "小米SU7价格",
+        "onboard_time": 1711627097,
+        "rank": 38,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 40661,
+        "num": 49513,
+        "word": "我19岁了妈妈还在大学家长群回收到",
+        "onboard_time": 1711707438,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 49062,
+        "num": 49062,
+        "word": "拂容君沈璃 先婚后爱文学",
+        "onboard_time": 1711722920,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 48498,
+        "num": 48498,
+        "word": "王鹤棣保护武大靖",
+        "onboard_time": 1711733415,
+        "rank": 41,
+        "category": "综艺,体育"
+      },
+      {
+        "raw_hot": 46455,
+        "num": 46455,
+        "word": "又有男团选秀了",
+        "onboard_time": 1711720400,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 43877,
+        "num": 43877,
+        "word": "雷军回忆造车崩溃时刻",
+        "onboard_time": 1711725320,
+        "rank": 43,
+        "category": "汽车,互联网"
+      },
+      {
+        "raw_hot": 43431,
+        "num": 43875,
+        "word": "哥斯拉大战金刚2没有彩蛋",
+        "onboard_time": 1711729217,
+        "rank": 44,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 43225,
+        "num": 43874,
+        "word": "我们一起摇太阳 眼泪小偷",
+        "onboard_time": 1711728738,
+        "rank": 45,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 42985,
+        "num": 43872,
+        "word": "鸣潮公测定档",
+        "onboard_time": 1711731855,
+        "rank": 46,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 41093,
+        "num": 43868,
+        "word": "小米汽车收到退单及改配需求469例",
+        "onboard_time": 1711723879,
+        "rank": 47,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 37198,
+        "num": 43867,
+        "word": "吴艳妮8秒06",
+        "onboard_time": 1711719919,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 33862,
+        "num": 43862,
+        "word": "马龙vs林钟勋",
+        "onboard_time": 1711721180,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#中共中央政治局3月29日召开会议#"
+    }
+  }
+}
