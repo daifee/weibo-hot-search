@@ -1,6 +1,6 @@
 {
   "startTime": 1711642899962,
-  "endTime": 1711693327636,
+  "endTime": 1711694170464,
   "band_list": [
     {
       "raw_hot": 6224451,
@@ -35,6 +35,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 2168627,
+      "num": 2168627,
+      "word": "为卖淫女看病被判协助组织卖淫",
+      "onboard_time": 1711690999,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2064436,
       "num": 2064436,
       "word": "雷军 雷神",
@@ -57,14 +65,6 @@
       "onboard_time": 1711623859,
       "rank": 10,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 1856476,
-      "num": 321928,
-      "word": "为卖淫女看病被判协助组织卖淫",
-      "onboard_time": 1711690999,
-      "rank": 10,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1524199,
@@ -227,6 +227,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 596198,
+      "num": 596198,
+      "word": "没钱的时候就喜欢看看公积金",
+      "onboard_time": 1711692078,
+      "rank": 8,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 587885,
       "num": 587885,
       "word": "雷军排面",
@@ -321,6 +329,14 @@
       "onboard_time": 1711673239,
       "rank": 15,
       "category": "艺人,互联网"
+    },
+    {
+      "raw_hot": 473161,
+      "num": 473161,
+      "word": "乌高官被曝在办公室与多名女同事热吻",
+      "onboard_time": 1711692979,
+      "rank": 28,
+      "category": "国外时政"
     },
     {
       "raw_hot": 459953,
@@ -475,14 +491,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 363995,
-      "num": 363995,
-      "word": "没钱的时候就喜欢看看公积金",
-      "onboard_time": 1711692078,
-      "rank": 8,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 359691,
       "num": 359691,
       "word": "张子枫工作室维权声明",
@@ -497,6 +505,14 @@
       "onboard_time": 1711684339,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 347475,
+      "num": 200917,
+      "word": "饿瘦跟运动瘦的区别",
+      "onboard_time": 1711693638,
+      "rank": 21,
+      "category": "运动健身,科学科普"
     },
     {
       "raw_hot": 332455,
@@ -827,6 +843,22 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 217275,
+      "num": 217275,
+      "word": "与凤行小凤凰表情上线",
+      "onboard_time": 1711693998,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 215050,
+      "num": 215050,
+      "word": "女星轻生宝冢歌剧团承认集体霸凌",
+      "onboard_time": 1711691959,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 214552,
       "num": 214552,
       "word": "雷军",
@@ -891,14 +923,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 202631,
-      "num": 202631,
-      "word": "女星轻生宝冢歌剧团承认集体霸凌",
-      "onboard_time": 1711691959,
-      "rank": 25,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 201463,
       "num": 201463,
       "word": "WTT",
@@ -955,20 +979,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 196550,
+      "num": 196550,
+      "word": "小米汽车F码被炒至5万元",
+      "onboard_time": 1711690577,
+      "rank": 26,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 195121,
       "num": 195121,
       "word": "黄晓明贾乃亮黄景瑜睡姿",
       "onboard_time": 1711689558,
       "rank": 29,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 194945,
-      "num": 194945,
-      "word": "小米汽车F码被炒至5万元",
-      "onboard_time": 1711690577,
-      "rank": 26,
-      "category": "汽车"
     },
     {
       "raw_hot": 194120,
@@ -1107,14 +1131,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 168322,
-      "num": 168322,
-      "word": "乌高官被曝在办公室与多名女同事热吻",
-      "onboard_time": 1711692979,
-      "rank": 28,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 168097,
       "num": 195282,
       "word": "多家公司抢注米时捷商标",
@@ -1171,6 +1187,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 162575,
+      "num": 162575,
+      "word": "有些糖尿病是睡出来的",
+      "onboard_time": 1711693397,
+      "rank": 31,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 159803,
       "num": 159803,
       "word": "赵丽颖上海出发图",
@@ -1209,6 +1233,14 @@
       "onboard_time": 1711690218,
       "rank": 38,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 153982,
+      "num": 153982,
+      "word": "长期吃精制碳水会变丑",
+      "onboard_time": 1711693518,
+      "rank": 32,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 153491,
@@ -1387,8 +1419,8 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 124811,
-      "num": 124811,
+      "raw_hot": 128206,
+      "num": 128206,
       "word": "小狗被邀请参加人类的生日派对",
       "onboard_time": 1711691777,
       "rank": 39,
@@ -1435,8 +1467,16 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 110528,
+      "num": 110528,
+      "word": "购买计生用品你看重价格吗",
+      "onboard_time": 1711693938,
+      "rank": 42,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 108963,
-      "num": 1094838,
+      "num": 1236467,
       "word": "春天把浪漫写在山水间",
       "onboard_time": 1711684699,
       "rank": 2,
