@@ -1,6 +1,6 @@
 {
   "startTime": 1711210803824,
-  "endTime": 1711686077612,
+  "endTime": 1711687003636,
   "band_list": [
     {
       "raw_hot": 21250232,
@@ -1059,6 +1059,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1040341,
+      "num": 1040341,
+      "word": "米时捷",
+      "onboard_time": 1711682898,
+      "rank": 36,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 1036761,
       "num": 1036761,
       "word": "甘露寺回应招人",
@@ -1273,14 +1281,6 @@
       "onboard_time": 1711616357,
       "rank": 4,
       "category": "情感"
-    },
-    {
-      "raw_hot": 921606,
-      "num": 921606,
-      "word": "米时捷",
-      "onboard_time": 1711682898,
-      "rank": 36,
-      "category": "汽车"
     },
     {
       "raw_hot": 917921,
@@ -1601,6 +1601,14 @@
       "onboard_time": 1711322596,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 800865,
+      "num": 800865,
+      "word": "小爱同学被雷军喊崩了",
+      "onboard_time": 1711682959,
+      "rank": 38,
+      "category": "汽车,互联网"
     },
     {
       "raw_hot": 797064,
@@ -2259,14 +2267,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 670119,
-      "num": 467029,
-      "word": "小爱同学被雷军喊崩了",
-      "onboard_time": 1711682959,
-      "rank": 38,
-      "category": "汽车,互联网"
-    },
-    {
       "raw_hot": 669683,
       "num": 669683,
       "word": "赵露思出图",
@@ -2483,6 +2483,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 637526,
+      "num": 637526,
+      "word": "5人服用日本小林制药保健品后死亡",
+      "onboard_time": 1711683437,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 635169,
       "num": 635169,
       "word": "空降",
@@ -2529,6 +2537,14 @@
       "onboard_time": 1711584258,
       "rank": 4,
       "category": "教育"
+    },
+    {
+      "raw_hot": 627329,
+      "num": 466525,
+      "word": "小米回应无法退定金问题",
+      "onboard_time": 1711685899,
+      "rank": 43,
+      "category": "汽车"
     },
     {
       "raw_hot": 623763,
@@ -3971,12 +3987,12 @@
       "category": "教育"
     },
     {
-      "raw_hot": 460319,
-      "num": 460319,
-      "word": "5人服用日本小林制药保健品后死亡",
-      "onboard_time": 1711683437,
-      "rank": 12,
-      "category": "社会新闻"
+      "raw_hot": 459909,
+      "num": 459909,
+      "word": "张杰纠正年龄",
+      "onboard_time": 1711685838,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 459334,
@@ -4049,6 +4065,14 @@
       "onboard_time": 1711332319,
       "rank": 19,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 453831,
+      "num": 350991,
+      "word": "没想到结个婚花了快40万",
+      "onboard_time": 1711686259,
+      "rank": 20,
+      "category": "情感"
     },
     {
       "raw_hot": 450840,
@@ -4889,6 +4913,14 @@
       "onboard_time": 1711415899,
       "rank": 20,
       "category": "情感"
+    },
+    {
+      "raw_hot": 379464,
+      "num": 379464,
+      "word": "执笔超点",
+      "onboard_time": 1711685718,
+      "rank": 31,
+      "category": "剧集"
     },
     {
       "raw_hot": 379206,
@@ -6099,6 +6131,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 294387,
+      "num": 294387,
+      "word": "与凤行开辟仙侠新赛道",
+      "onboard_time": 1711684759,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 294121,
       "num": 166163,
       "word": "光与夜之恋 喜茶",
@@ -6249,14 +6289,6 @@
       "onboard_time": 1711673059,
       "rank": 28,
       "category": "情感"
-    },
-    {
-      "raw_hot": 288832,
-      "num": 288832,
-      "word": "与凤行开辟仙侠新赛道",
-      "onboard_time": 1711684759,
-      "rank": 24,
-      "category": "剧集"
     },
     {
       "raw_hot": 288490,
@@ -7179,6 +7211,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 249526,
+      "num": 249526,
+      "word": "夏之光费加罗封面",
+      "onboard_time": 1711685778,
+      "rank": 35,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 248941,
       "num": 180002,
       "word": "晨晖惠比寿建模",
@@ -7657,14 +7697,6 @@
       "onboard_time": 1711589657,
       "rank": 17,
       "category": "体育"
-    },
-    {
-      "raw_hot": 235071,
-      "num": 235071,
-      "word": "执笔超点",
-      "onboard_time": 1711685718,
-      "rank": 31,
-      "category": "剧集"
     },
     {
       "raw_hot": 234848,
@@ -8611,6 +8643,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 210253,
+      "num": 210253,
+      "word": "上班搭子离职了比失恋还难过",
+      "onboard_time": 1711686739,
+      "rank": 34,
+      "category": "情感"
+    },
+    {
       "raw_hot": 210152,
       "num": 210152,
       "word": "丁程鑫两天后来对比肤色",
@@ -8867,14 +8907,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 204556,
-      "num": 204556,
-      "word": "夏之光费加罗封面",
-      "onboard_time": 1711685778,
-      "rank": 35,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 204533,
       "num": 204533,
       "word": "突然发现了infp的成功之路",
@@ -9041,14 +9073,6 @@
       "onboard_time": 1711340300,
       "rank": 43,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 202493,
-      "num": 202493,
-      "word": "张杰纠正年龄",
-      "onboard_time": 1711685838,
-      "rank": 38,
-      "category": "艺人"
     },
     {
       "raw_hot": 202448,
@@ -9699,12 +9723,12 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 193717,
-      "num": 193717,
-      "word": "小米回应无法退定金问题",
-      "onboard_time": 1711685899,
-      "rank": 43,
-      "category": "汽车"
+      "raw_hot": 193703,
+      "num": 193703,
+      "word": "这样骑行减肥可以瘦更快",
+      "onboard_time": 1711684759,
+      "rank": 38,
+      "category": "运动健身"
     },
     {
       "raw_hot": 193410,
@@ -13211,6 +13235,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 140339,
+      "num": 193151,
+      "word": "多家公司抢注米时捷商标",
+      "onboard_time": 1711686800,
+      "rank": 39,
+      "category": "财经,汽车"
+    },
+    {
       "raw_hot": 140314,
       "num": 140314,
       "word": "上一秒结仇下一秒结婚",
@@ -14148,7 +14180,7 @@
     },
     {
       "raw_hot": 123253,
-      "num": 157621,
+      "num": 247291,
       "word": "有一种叫云南的生活",
       "onboard_time": 1711684279,
       "rank": 47,
@@ -14731,6 +14763,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 108963,
+      "num": 1094838,
+      "word": "春天把浪漫写在山水间",
+      "onboard_time": 1711684699,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 108913,
       "num": 712458,
       "word": "NikeAirMax",
@@ -14945,14 +14985,6 @@
       "onboard_time": 1711510458,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 99111,
-      "num": 946853,
-      "word": "春天把浪漫写在山水间",
-      "onboard_time": 1711684699,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 99070,
@@ -15225,6 +15257,14 @@
       "onboard_time": 1711236073,
       "rank": 36,
       "category": "体育"
+    },
+    {
+      "raw_hot": 73384,
+      "num": 433665,
+      "word": "蛋仔派对皮蛋节",
+      "onboard_time": 1711684820,
+      "rank": 14,
+      "category": "游戏"
     },
     {
       "raw_hot": 72242,
@@ -15595,6 +15635,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 47786,
+      "num": 357010,
+      "word": "vivo引领折叠屏走向大众市场",
+      "onboard_time": 1711685059,
+      "rank": 20,
+      "category": "数码"
+    },
+    {
       "raw_hot": 47584,
       "num": 47584,
       "word": "迪丽热巴宣传中国广电",
@@ -15617,14 +15665,6 @@
       "onboard_time": 1711559233,
       "rank": 38,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 45507,
-      "num": 314995,
-      "word": "vivo引领折叠屏走向大众市场",
-      "onboard_time": 1711685059,
-      "rank": 20,
-      "category": "数码"
     },
     {
       "raw_hot": 45459,
@@ -15921,14 +15961,6 @@
       "onboard_time": 1711650372,
       "rank": 47,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 27407,
-      "num": 414987,
-      "word": "蛋仔派对皮蛋节",
-      "onboard_time": 1711684820,
-      "rank": 14,
-      "category": "游戏"
     },
     {
       "raw_hot": 27261,

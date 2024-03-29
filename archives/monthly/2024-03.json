@@ -1,6 +1,6 @@
 {
   "startTime": 1709223640991,
-  "endTime": 1711686077612,
+  "endTime": 1711687003636,
   "band_list": [
     {
       "raw_hot": 21250232,
@@ -6179,6 +6179,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1040341,
+      "num": 1040341,
+      "word": "米时捷",
+      "onboard_time": 1711682898,
+      "rank": 36,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 1040305,
       "num": 1040305,
       "word": "王毅四问美国",
@@ -7489,14 +7497,6 @@
       "onboard_time": 1709683169,
       "rank": 11,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 921606,
-      "num": 921606,
-      "word": "米时捷",
-      "onboard_time": 1711682898,
-      "rank": 36,
-      "category": "汽车"
     },
     {
       "raw_hot": 921306,
@@ -9249,6 +9249,14 @@
       "onboard_time": 1711322596,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 800865,
+      "num": 800865,
+      "word": "小爱同学被雷军喊崩了",
+      "onboard_time": 1711682959,
+      "rank": 38,
+      "category": "汽车,互联网"
     },
     {
       "raw_hot": 799981,
@@ -12419,14 +12427,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 670119,
-      "num": 467029,
-      "word": "小爱同学被雷军喊崩了",
-      "onboard_time": 1711682959,
-      "rank": 38,
-      "category": "汽车,互联网"
-    },
-    {
       "raw_hot": 669909,
       "num": 669909,
       "word": "长风破浪央视定档",
@@ -13427,6 +13427,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 637526,
+      "num": 637526,
+      "word": "5人服用日本小林制药保健品后死亡",
+      "onboard_time": 1711683437,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 637412,
       "num": 637412,
       "word": "Q币结算工资",
@@ -13745,6 +13753,14 @@
       "onboard_time": 1709909072,
       "rank": 20,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 627329,
+      "num": 466525,
+      "word": "小米回应无法退定金问题",
+      "onboard_time": 1711685899,
+      "rank": 43,
+      "category": "汽车"
     },
     {
       "raw_hot": 627168,
@@ -20667,19 +20683,19 @@
       "category": "教育"
     },
     {
-      "raw_hot": 460319,
-      "num": 460319,
-      "word": "5人服用日本小林制药保健品后死亡",
-      "onboard_time": 1711683437,
-      "rank": 12,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 460030,
       "num": 301450,
       "word": "Rihanna印度富豪婚礼演唱",
       "onboard_time": 1709381433,
       "rank": 23,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 459909,
+      "num": 459909,
+      "word": "张杰纠正年龄",
+      "onboard_time": 1711685838,
+      "rank": 38,
       "category": "艺人"
     },
     {
@@ -21017,6 +21033,14 @@
       "onboard_time": 1709791351,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 453831,
+      "num": 350991,
+      "word": "没想到结个婚花了快40万",
+      "onboard_time": 1711686259,
+      "rank": 20,
+      "category": "情感"
     },
     {
       "raw_hot": 453643,
@@ -25153,6 +25177,14 @@
       "onboard_time": 1711003051,
       "rank": 16,
       "category": "美食"
+    },
+    {
+      "raw_hot": 379464,
+      "num": 379464,
+      "word": "执笔超点",
+      "onboard_time": 1711685718,
+      "rank": 31,
+      "category": "剧集"
     },
     {
       "raw_hot": 379206,
@@ -31627,6 +31659,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 294387,
+      "num": 294387,
+      "word": "与凤行开辟仙侠新赛道",
+      "onboard_time": 1711684759,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 294301,
       "num": 294301,
       "word": "钟薛高被限制高消费",
@@ -32257,14 +32297,6 @@
       "onboard_time": 1709599532,
       "rank": 18,
       "category": "财经"
-    },
-    {
-      "raw_hot": 288832,
-      "num": 288832,
-      "word": "与凤行开辟仙侠新赛道",
-      "onboard_time": 1711684759,
-      "rank": 24,
-      "category": "剧集"
     },
     {
       "raw_hot": 288623,
@@ -36643,6 +36675,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 249526,
+      "num": 249526,
+      "word": "夏之光费加罗封面",
+      "onboard_time": 1711685778,
+      "rank": 35,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 249495,
       "num": 249495,
       "word": "玲娜贝儿 头之大婚纱当头纱都装不下",
@@ -38809,14 +38849,6 @@
       "onboard_time": 1710681215,
       "rank": 25,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 235071,
-      "num": 235071,
-      "word": "执笔超点",
-      "onboard_time": 1711685718,
-      "rank": 31,
-      "category": "剧集"
     },
     {
       "raw_hot": 235062,
@@ -43651,6 +43683,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 210253,
+      "num": 210253,
+      "word": "上班搭子离职了比失恋还难过",
+      "onboard_time": 1711686739,
+      "rank": 34,
+      "category": "情感"
+    },
+    {
       "raw_hot": 210176,
       "num": 210176,
       "word": "迪丽热巴六部作品全球热播",
@@ -45123,14 +45163,6 @@
       "category": "美妆"
     },
     {
-      "raw_hot": 204556,
-      "num": 204556,
-      "word": "夏之光费加罗封面",
-      "onboard_time": 1711685778,
-      "rank": 35,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 204533,
       "num": 204533,
       "word": "突然发现了infp的成功之路",
@@ -45881,14 +45913,6 @@
       "onboard_time": 1711340300,
       "rank": 43,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 202493,
-      "num": 202493,
-      "word": "张杰纠正年龄",
-      "onboard_time": 1711685838,
-      "rank": 38,
-      "category": "艺人"
     },
     {
       "raw_hot": 202448,
@@ -48771,20 +48795,20 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 193717,
-      "num": 193717,
-      "word": "小米回应无法退定金问题",
-      "onboard_time": 1711685899,
-      "rank": 43,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 193709,
       "num": 193709,
       "word": "我对友谊有些过度依赖",
       "onboard_time": 1709893888,
       "rank": 24,
       "category": "情感"
+    },
+    {
+      "raw_hot": 193703,
+      "num": 193703,
+      "word": "这样骑行减肥可以瘦更快",
+      "onboard_time": 1711684759,
+      "rank": 38,
+      "category": "运动健身"
     },
     {
       "raw_hot": 193692,
@@ -65347,6 +65371,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 140339,
+      "num": 193151,
+      "word": "多家公司抢注米时捷商标",
+      "onboard_time": 1711686800,
+      "rank": 39,
+      "category": "财经,汽车"
+    },
+    {
       "raw_hot": 140336,
       "num": 140336,
       "word": "在叶片上隐身的虫子",
@@ -70500,7 +70532,7 @@
     },
     {
       "raw_hot": 123253,
-      "num": 157621,
+      "num": 247291,
       "word": "有一种叫云南的生活",
       "onboard_time": 1709502134,
       "rank": 48,
@@ -73763,6 +73795,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 108963,
+      "num": 1094838,
+      "word": "春天把浪漫写在山水间",
+      "onboard_time": 1711684699,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 108913,
       "num": 712458,
       "word": "NikeAirMax",
@@ -75161,14 +75201,6 @@
       "onboard_time": 1710285803,
       "rank": 32,
       "category": "财经"
-    },
-    {
-      "raw_hot": 99111,
-      "num": 946853,
-      "word": "春天把浪漫写在山水间",
-      "onboard_time": 1711684699,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 99070,
@@ -77123,6 +77155,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 73384,
+      "num": 433665,
+      "word": "蛋仔派对皮蛋节",
+      "onboard_time": 1711684820,
+      "rank": 14,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 73346,
       "num": 73346,
       "word": "迪丽热巴广州出发",
@@ -79035,6 +79075,14 @@
       "category": "时尚,作品衍生"
     },
     {
+      "raw_hot": 47786,
+      "num": 357010,
+      "word": "vivo引领折叠屏走向大众市场",
+      "onboard_time": 1711685059,
+      "rank": 20,
+      "category": "数码"
+    },
+    {
       "raw_hot": 47782,
       "num": 527219,
       "word": "小米Civi4Pro首发第三代骁龙8s",
@@ -79201,14 +79249,6 @@
       "onboard_time": 1709644293,
       "rank": 38,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 45507,
-      "num": 314995,
-      "word": "vivo引领折叠屏走向大众市场",
-      "onboard_time": 1711685059,
-      "rank": 20,
-      "category": "数码"
     },
     {
       "raw_hot": 45484,
@@ -80400,14 +80440,6 @@
       "word": "星露谷更新",
       "onboard_time": 1710873496,
       "rank": 24,
-      "category": "游戏"
-    },
-    {
-      "raw_hot": 27407,
-      "num": 414987,
-      "word": "蛋仔派对皮蛋节",
-      "onboard_time": 1711684820,
-      "rank": 14,
       "category": "游戏"
     },
     {
