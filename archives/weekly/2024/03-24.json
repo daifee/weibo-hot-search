@@ -1,6 +1,6 @@
 {
   "startTime": 1711210803824,
-  "endTime": 1711689432837,
+  "endTime": 1711690449876,
   "band_list": [
     {
       "raw_hot": 21250232,
@@ -139,6 +139,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2485721,
+      "num": 2485721,
+      "word": "小米回应无法退定金问题",
+      "onboard_time": 1711685899,
+      "rank": 43,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 2477774,
       "num": 2477774,
       "word": "奔跑吧12官宣",
@@ -201,14 +209,6 @@
       "onboard_time": 1711630943,
       "rank": 6,
       "category": "体育"
-    },
-    {
-      "raw_hot": 2190340,
-      "num": 2190340,
-      "word": "小米回应无法退定金问题",
-      "onboard_time": 1711685899,
-      "rank": 43,
-      "category": "汽车"
     },
     {
       "raw_hot": 2152762,
@@ -2659,6 +2659,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 603582,
+      "num": 342923,
+      "word": "唐嫣哽咽回应质疑",
+      "onboard_time": 1711689979,
+      "rank": 11,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 603572,
       "num": 603572,
       "word": "strong哥",
@@ -3161,6 +3169,14 @@
       "onboard_time": 1711539919,
       "rank": 6,
       "category": "教育"
+    },
+    {
+      "raw_hot": 542312,
+      "num": 542312,
+      "word": "上班搭子离职了比失恋还难过",
+      "onboard_time": 1711686739,
+      "rank": 34,
+      "category": "情感"
     },
     {
       "raw_hot": 540586,
@@ -4339,14 +4355,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 425756,
-      "num": 425756,
-      "word": "上班搭子离职了比失恋还难过",
-      "onboard_time": 1711686739,
-      "rank": 34,
-      "category": "情感"
-    },
-    {
       "raw_hot": 425416,
       "num": 425416,
       "word": "抑郁症对大脑的损害是永久性的吗",
@@ -5339,6 +5347,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 346174,
+      "num": 263085,
+      "word": "唐嫣微信只有300多个联系人",
+      "onboard_time": 1711690278,
+      "rank": 21,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 345843,
       "num": 579556,
       "word": "小林制药被命令召回三款产品",
@@ -5545,6 +5561,14 @@
       "onboard_time": 1711334599,
       "rank": 17,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 331552,
+      "num": 331552,
+      "word": "孙颖莎3比1琳达",
+      "onboard_time": 1711689379,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 330443,
@@ -6251,6 +6275,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 290696,
+      "num": 286064,
+      "word": "月子还没出就来离婚的妈妈",
+      "onboard_time": 1711687579,
+      "rank": 22,
+      "category": "母婴育儿"
+    },
+    {
       "raw_hot": 290676,
       "num": 290676,
       "word": "李在明质问尹锡悦政府为何招惹中国",
@@ -6393,14 +6425,6 @@
       "onboard_time": 1711243037,
       "rank": 44,
       "category": "运动健身"
-    },
-    {
-      "raw_hot": 286064,
-      "num": 286064,
-      "word": "月子还没出就来离婚的妈妈",
-      "onboard_time": 1711687579,
-      "rank": 22,
-      "category": "母婴育儿"
     },
     {
       "raw_hot": 286037,
@@ -8747,6 +8771,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 208776,
+      "num": 208776,
+      "word": "南通烧纸",
+      "onboard_time": 1711690098,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 208492,
       "num": 208492,
       "word": "周深  奔跑吧12",
@@ -9169,6 +9201,14 @@
       "onboard_time": 1711609878,
       "rank": 33,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 201463,
+      "num": 201463,
+      "word": "WTT",
+      "onboard_time": 1711689379,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 201438,
@@ -9595,6 +9635,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 195762,
+      "num": 195762,
+      "word": "王阳种地吧联动",
+      "onboard_time": 1711689979,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 195516,
       "num": 195516,
       "word": "张艺兴黄渤 没头脑和不高兴",
@@ -9617,6 +9665,14 @@
       "onboard_time": 1711516280,
       "rank": 43,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 195121,
+      "num": 195121,
+      "word": "黄晓明贾乃亮黄景瑜睡姿",
+      "onboard_time": 1711689558,
+      "rank": 29,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 195050,
@@ -10025,6 +10081,14 @@
       "onboard_time": 1711601900,
       "rank": 36,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 190560,
+      "num": 190560,
+      "word": "论骑行眼镜的重要性",
+      "onboard_time": 1711689019,
+      "rank": 42,
+      "category": "运动健身"
     },
     {
       "raw_hot": 190433,
@@ -10769,6 +10833,14 @@
       "onboard_time": 1711291221,
       "rank": 41,
       "category": "情感"
+    },
+    {
+      "raw_hot": 177429,
+      "num": 177429,
+      "word": "雷军回应网友SU7颜色加价",
+      "onboard_time": 1711690098,
+      "rank": 31,
+      "category": "汽车"
     },
     {
       "raw_hot": 177406,
@@ -12123,6 +12195,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 157107,
+      "num": 157107,
+      "word": "这是我的岛先导片",
+      "onboard_time": 1711690218,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 157002,
       "num": 157002,
       "word": "AppleVisionPro年内中国上市",
@@ -12683,14 +12763,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 148839,
-      "num": 148839,
-      "word": "论骑行眼镜的重要性",
-      "onboard_time": 1711689019,
-      "rank": 42,
-      "category": "运动健身"
-    },
-    {
       "raw_hot": 148824,
       "num": 148824,
       "word": "薛之谦重庆",
@@ -12953,14 +13025,6 @@
       "onboard_time": 1711535478,
       "rank": 41,
       "category": "动漫,作品衍生"
-    },
-    {
-      "raw_hot": 145973,
-      "num": 145973,
-      "word": "孙颖莎3比1琳达",
-      "onboard_time": 1711689379,
-      "rank": 44,
-      "category": "体育"
     },
     {
       "raw_hot": 145814,
@@ -13545,14 +13609,6 @@
       "onboard_time": 1711610598,
       "rank": 39,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 136687,
-      "num": 136687,
-      "word": "WTT",
-      "onboard_time": 1711689379,
-      "rank": 48,
-      "category": "体育"
     },
     {
       "raw_hot": 136393,
