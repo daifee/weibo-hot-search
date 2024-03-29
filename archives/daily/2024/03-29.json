@@ -1,6 +1,6 @@
 {
   "startTime": 1711642899962,
-  "endTime": 1711721737925,
+  "endTime": 1711722845895,
   "band_list": [
     {
       "raw_hot": 6224451,
@@ -107,6 +107,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1390530,
+      "num": 1390530,
+      "word": "相亲强奸案当事男子改判无罪获赔57万",
+      "onboard_time": 1711720279,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1345462,
       "num": 1345462,
       "word": "唐嫣哽咽回应质疑",
@@ -187,6 +195,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 1044245,
+      "num": 1044245,
+      "word": "齐邦媛去世",
+      "onboard_time": 1711720938,
+      "rank": 6,
+      "category": "读书作家"
+    },
+    {
       "raw_hot": 1040341,
       "num": 1040341,
       "word": "米时捷",
@@ -212,7 +228,7 @@
     },
     {
       "raw_hot": 947196,
-      "num": 439851,
+      "num": 483890,
       "word": "没想到跳绳这么瘦肚子",
       "onboard_time": 1711717698,
       "rank": 24,
@@ -249,14 +265,6 @@
       "onboard_time": 1711710079,
       "rank": 17,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 857799,
-      "num": 437384,
-      "word": "相亲强奸案当事男子改判无罪获赔57万",
-      "onboard_time": 1711720279,
-      "rank": 11,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 837882,
@@ -297,6 +305,14 @@
       "onboard_time": 1711682959,
       "rank": 38,
       "category": "汽车,互联网"
+    },
+    {
+      "raw_hot": 779881,
+      "num": 779881,
+      "word": "中消协提醒立即停用小林制药有关产品",
+      "onboard_time": 1711720938,
+      "rank": 9,
+      "category": "社会新闻,健康医疗"
     },
     {
       "raw_hot": 757384,
@@ -409,6 +425,14 @@
       "onboard_time": 1711703177,
       "rank": 20,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 590915,
+      "num": 590915,
+      "word": "凤囚凰或将翻拍",
+      "onboard_time": 1711720820,
+      "rank": 8,
+      "category": "剧集,读书作家"
     },
     {
       "raw_hot": 587885,
@@ -531,14 +555,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 534373,
-      "num": 534373,
-      "word": "齐邦媛去世",
-      "onboard_time": 1711720938,
-      "rank": 6,
-      "category": "读书作家"
-    },
-    {
       "raw_hot": 526574,
       "num": 357636,
       "word": "雷军敲定小米定价只用了1小时",
@@ -579,14 +595,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 498301,
-      "num": 498301,
-      "word": "凤囚凰或将翻拍",
-      "onboard_time": 1711720820,
-      "rank": 8,
-      "category": "剧集,读书作家"
-    },
-    {
       "raw_hot": 497008,
       "num": 497008,
       "word": "曾坐在父亲外卖箱的宝宝住进新家了",
@@ -609,6 +617,14 @@
       "onboard_time": 1711673239,
       "rank": 15,
       "category": "艺人,互联网"
+    },
+    {
+      "raw_hot": 474134,
+      "num": 474134,
+      "word": "马龙vs林钟勋",
+      "onboard_time": 1711721180,
+      "rank": 22,
+      "category": "体育"
     },
     {
       "raw_hot": 473677,
@@ -635,6 +651,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 456797,
+      "num": 456797,
+      "word": "美国连体双胞胎姐妹其中一人已婚",
+      "onboard_time": 1711721539,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 453831,
       "num": 350991,
       "word": "没想到结个婚花了快40万",
@@ -649,14 +673,6 @@
       "onboard_time": 1711701858,
       "rank": 13,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 443000,
-      "num": 443000,
-      "word": "中消协提醒立即停用小林制药有关产品",
-      "onboard_time": 1711720938,
-      "rank": 9,
-      "category": "社会新闻,健康医疗"
     },
     {
       "raw_hot": 440106,
@@ -675,6 +691,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 434600,
+      "num": 434600,
+      "word": "裴珠泫今年将solo出道",
+      "onboard_time": 1711721360,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 431626,
       "num": 431626,
       "word": "买车跟买手机一样",
@@ -689,6 +713,14 @@
       "onboard_time": 1711638021,
       "rank": 13,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 429741,
+      "num": 429741,
+      "word": "又有男团选秀了",
+      "onboard_time": 1711720400,
+      "rank": 16,
+      "category": "综艺"
     },
     {
       "raw_hot": 429503,
@@ -891,6 +923,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 357514,
+      "num": 357514,
+      "word": "王阳好会说",
+      "onboard_time": 1711717577,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 355425,
       "num": 355425,
       "word": "愚人节换头像",
@@ -899,28 +939,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 350107,
-      "num": 350107,
-      "word": "王阳好会说",
-      "onboard_time": 1711717577,
-      "rank": 28,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 335877,
       "num": 335877,
       "word": "吴艳妮8秒06",
       "onboard_time": 1711719919,
       "rank": 14,
       "category": "体育"
-    },
-    {
-      "raw_hot": 332871,
-      "num": 332871,
-      "word": "又有男团选秀了",
-      "onboard_time": 1711720400,
-      "rank": 16,
-      "category": "综艺"
     },
     {
       "raw_hot": 332455,
@@ -1163,14 +1187,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 283429,
-      "num": 283429,
-      "word": "马龙vs林钟勋",
-      "onboard_time": 1711721180,
-      "rank": 22,
-      "category": "体育"
-    },
-    {
       "raw_hot": 282074,
       "num": 235904,
       "word": "雷军称发布会前1天还在修改汽车定价",
@@ -1315,6 +1331,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 239710,
+      "num": 239710,
+      "word": "小米汽车手机支架",
+      "onboard_time": 1711720759,
+      "rank": 33,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 239505,
       "num": 230115,
       "word": "第一批去天水吃麻辣烫的后悔了吗",
@@ -1387,6 +1411,14 @@
       "category": "财经,汽车"
     },
     {
+      "raw_hot": 227079,
+      "num": 227079,
+      "word": "鞠婧祎转头甩发",
+      "onboard_time": 1711720040,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 226999,
       "num": 226999,
       "word": "王源机场",
@@ -1401,6 +1433,14 @@
       "onboard_time": 1711681580,
       "rank": 30,
       "category": "情感"
+    },
+    {
+      "raw_hot": 222120,
+      "num": 222120,
+      "word": "王一博一镜到底的哭戏",
+      "onboard_time": 1711722139,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 221797,
@@ -1499,6 +1539,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 212695,
+      "num": 212695,
+      "word": "小米汽车回应",
+      "onboard_time": 1711722739,
+      "rank": 30,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 211754,
       "num": 211754,
       "word": "张元英听出来了粉丝是中国人",
@@ -1513,14 +1561,6 @@
       "onboard_time": 1711710737,
       "rank": 40,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 209732,
-      "num": 209732,
-      "word": "鞠婧祎转头甩发",
-      "onboard_time": 1711720040,
-      "rank": 28,
-      "category": "艺人"
     },
     {
       "raw_hot": 209620,
@@ -1609,14 +1649,6 @@
       "onboard_time": 1711642756,
       "rank": 48,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 199549,
-      "num": 199549,
-      "word": "裴珠泫今年将solo出道",
-      "onboard_time": 1711721360,
-      "rank": 30,
-      "category": "艺人"
     },
     {
       "raw_hot": 199535,
@@ -1755,6 +1787,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 188621,
+      "num": 188621,
+      "word": "李沁叫王阳天菜哥哥",
+      "onboard_time": 1711722200,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 188168,
       "num": 188168,
       "word": "山东小钺钺已有轻微意识仍在ICU",
@@ -1891,14 +1931,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 176354,
-      "num": 176354,
-      "word": "小米汽车手机支架",
-      "onboard_time": 1711720759,
-      "rank": 33,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 176185,
       "num": 176185,
       "word": "祁煜潮汐之神",
@@ -1953,6 +1985,14 @@
       "onboard_time": 1711671799,
       "rank": 43,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 168690,
+      "num": 168690,
+      "word": "最强大脑",
+      "onboard_time": 1711721659,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 168097,
@@ -2267,6 +2307,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 142826,
+      "num": 142826,
+      "word": "KSG战胜EDGM",
+      "onboard_time": 1711721719,
+      "rank": 48,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 141972,
       "num": 141972,
       "word": "李铁7年前寄语监狱服刑人员好好改造",
@@ -2411,14 +2459,6 @@
       "category": "网红,互联网"
     },
     {
-      "raw_hot": 130625,
-      "num": 130625,
-      "word": "美国连体双胞胎姐妹其中一人已婚",
-      "onboard_time": 1711721539,
-      "rank": 44,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 129932,
       "num": 129932,
       "word": "原来骑行会变酷是真的",
@@ -2521,14 +2561,6 @@
       "onboard_time": 1711710018,
       "rank": 43,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 124705,
-      "num": 124705,
-      "word": "KSG战胜EDGM",
-      "onboard_time": 1711721719,
-      "rank": 48,
-      "category": "电竞"
     },
     {
       "raw_hot": 124452,

@@ -1,6 +1,6 @@
 {
   "startTime": 1711210803824,
-  "endTime": 1711721737925,
+  "endTime": 1711722845895,
   "band_list": [
     {
       "raw_hot": 21250232,
@@ -643,6 +643,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1390530,
+      "num": 1390530,
+      "word": "相亲强奸案当事男子改判无罪获赔57万",
+      "onboard_time": 1711720279,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1383546,
       "num": 1383546,
       "word": "胖东来新增10天不开心假",
@@ -1131,6 +1139,14 @@
       "category": "国内时政,军事"
     },
     {
+      "raw_hot": 1044245,
+      "num": 1044245,
+      "word": "齐邦媛去世",
+      "onboard_time": 1711720938,
+      "rank": 6,
+      "category": "读书作家"
+    },
+    {
       "raw_hot": 1042550,
       "num": 1042550,
       "word": "游本昌为追妻写一麻袋情书",
@@ -1316,7 +1332,7 @@
     },
     {
       "raw_hot": 947196,
-      "num": 439851,
+      "num": 483890,
       "word": "没想到跳绳这么瘦肚子",
       "onboard_time": 1711717698,
       "rank": 24,
@@ -1537,14 +1553,6 @@
       "onboard_time": 1711351999,
       "rank": 30,
       "category": "运动健身"
-    },
-    {
-      "raw_hot": 857799,
-      "num": 437384,
-      "word": "相亲强奸案当事男子改判无罪获赔57万",
-      "onboard_time": 1711720279,
-      "rank": 11,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 856561,
@@ -1817,6 +1825,14 @@
       "onboard_time": 1711254499,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 779881,
+      "num": 779881,
+      "word": "中消协提醒立即停用小林制药有关产品",
+      "onboard_time": 1711720938,
+      "rank": 9,
+      "category": "社会新闻,健康医疗"
     },
     {
       "raw_hot": 778954,
@@ -2939,6 +2955,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 590915,
+      "num": 590915,
+      "word": "凤囚凰或将翻拍",
+      "onboard_time": 1711720820,
+      "rank": 8,
+      "category": "剧集,读书作家"
+    },
+    {
       "raw_hot": 590558,
       "num": 590558,
       "word": "70%短剧用户是中低收入群体",
@@ -3483,14 +3507,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 534373,
-      "num": 534373,
-      "word": "齐邦媛去世",
-      "onboard_time": 1711720938,
-      "rank": 6,
-      "category": "读书作家"
-    },
-    {
       "raw_hot": 533573,
       "num": 533573,
       "word": "李清照是才女更是拽姐",
@@ -3891,14 +3907,6 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 498301,
-      "num": 498301,
-      "word": "凤囚凰或将翻拍",
-      "onboard_time": 1711720820,
-      "rank": 8,
-      "category": "剧集,读书作家"
-    },
-    {
       "raw_hot": 498236,
       "num": 498236,
       "word": "初中学历小伙写1500万字后重启人生",
@@ -4139,6 +4147,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 474134,
+      "num": 474134,
+      "word": "马龙vs林钟勋",
+      "onboard_time": 1711721180,
+      "rank": 22,
+      "category": "体育"
+    },
+    {
       "raw_hot": 473677,
       "num": 473677,
       "word": "陈梦vs张本美和",
@@ -4355,6 +4371,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 456797,
+      "num": 456797,
+      "word": "美国连体双胞胎姐妹其中一人已婚",
+      "onboard_time": 1711721539,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 455890,
       "num": 318744,
       "word": "减肥吃甜玉米还是糯玉米",
@@ -4499,14 +4523,6 @@
       "category": "时尚"
     },
     {
-      "raw_hot": 443000,
-      "num": 443000,
-      "word": "中消协提醒立即停用小林制药有关产品",
-      "onboard_time": 1711720938,
-      "rank": 9,
-      "category": "社会新闻,健康医疗"
-    },
-    {
       "raw_hot": 442339,
       "num": 442339,
       "word": "Yamy浪姐一公舞台路透",
@@ -4635,6 +4651,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 434600,
+      "num": 434600,
+      "word": "裴珠泫今年将solo出道",
+      "onboard_time": 1711721360,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 433587,
       "num": 433587,
       "word": "李铁",
@@ -4673,6 +4697,14 @@
       "onboard_time": 1711463839,
       "rank": 12,
       "category": "演出"
+    },
+    {
+      "raw_hot": 429741,
+      "num": 429741,
+      "word": "又有男团选秀了",
+      "onboard_time": 1711720400,
+      "rank": 16,
+      "category": "综艺"
     },
     {
       "raw_hot": 427678,
@@ -5587,6 +5619,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 357514,
+      "num": 357514,
+      "word": "王阳好会说",
+      "onboard_time": 1711717577,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 357361,
       "num": 357361,
       "word": "王一博的脸比杯子都小",
@@ -5745,14 +5785,6 @@
       "onboard_time": 1711194619,
       "rank": 35,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 350107,
-      "num": 350107,
-      "word": "王阳好会说",
-      "onboard_time": 1711717577,
-      "rank": 28,
-      "category": "综艺"
     },
     {
       "raw_hot": 348801,
@@ -5961,14 +5993,6 @@
       "onboard_time": 1711247538,
       "rank": 31,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 332871,
-      "num": 332871,
-      "word": "又有男团选秀了",
-      "onboard_time": 1711720400,
-      "rank": 16,
-      "category": "综艺"
     },
     {
       "raw_hot": 332861,
@@ -7001,14 +7025,6 @@
       "onboard_time": 1711243458,
       "rank": 25,
       "category": "演出"
-    },
-    {
-      "raw_hot": 283429,
-      "num": 283429,
-      "word": "马龙vs林钟勋",
-      "onboard_time": 1711721180,
-      "rank": 22,
-      "category": "体育"
     },
     {
       "raw_hot": 282702,
@@ -8163,6 +8179,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 239710,
+      "num": 239710,
+      "word": "小米汽车手机支架",
+      "onboard_time": 1711720759,
+      "rank": 33,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 239660,
       "num": 239660,
       "word": "坐飞机拒绝了想换座的情侣",
@@ -8763,6 +8787,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 227079,
+      "num": 227079,
+      "word": "鞠婧祎转头甩发",
+      "onboard_time": 1711720040,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 226999,
       "num": 226999,
       "word": "王源机场",
@@ -8912,6 +8944,14 @@
       "word": "魏若来订了娃娃亲",
       "onboard_time": 1711371980,
       "rank": 30,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 222120,
+      "num": 222120,
+      "word": "王一博一镜到底的哭戏",
+      "onboard_time": 1711722139,
+      "rank": 26,
       "category": "剧集"
     },
     {
@@ -9347,6 +9387,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 212695,
+      "num": 212695,
+      "word": "小米汽车回应",
+      "onboard_time": 1711722739,
+      "rank": 30,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 212657,
       "num": 212657,
       "word": "天官赐福 黄油天际",
@@ -9456,14 +9504,6 @@
       "word": "李雅凛前夫",
       "onboard_time": 1711502897,
       "rank": 31,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 209732,
-      "num": 209732,
-      "word": "鞠婧祎转头甩发",
-      "onboard_time": 1711720040,
-      "rank": 28,
       "category": "艺人"
     },
     {
@@ -10113,14 +10153,6 @@
       "onboard_time": 1711265239,
       "rank": 31,
       "category": "情感"
-    },
-    {
-      "raw_hot": 199549,
-      "num": 199549,
-      "word": "裴珠泫今年将solo出道",
-      "onboard_time": 1711721360,
-      "rank": 30,
-      "category": "艺人"
     },
     {
       "raw_hot": 199535,
@@ -11027,6 +11059,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 188621,
+      "num": 188621,
+      "word": "李沁叫王阳天菜哥哥",
+      "onboard_time": 1711722200,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 188549,
       "num": 188549,
       "word": "移风易俗不能简单一刀切",
@@ -11819,14 +11859,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 176354,
-      "num": 176354,
-      "word": "小米汽车手机支架",
-      "onboard_time": 1711720759,
-      "rank": 33,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 176185,
       "num": 176185,
       "word": "祁煜潮汐之神",
@@ -12257,6 +12289,14 @@
       "onboard_time": 1711616298,
       "rank": 23,
       "category": "体育"
+    },
+    {
+      "raw_hot": 168690,
+      "num": 168690,
+      "word": "最强大脑",
+      "onboard_time": 1711721659,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 168571,
@@ -14307,6 +14347,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 142826,
+      "num": 142826,
+      "word": "KSG战胜EDGM",
+      "onboard_time": 1711721719,
+      "rank": 48,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 142796,
       "num": 142796,
       "word": "11年前就赢过了全校同学",
@@ -15035,14 +15083,6 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 130625,
-      "num": 130625,
-      "word": "美国连体双胞胎姐妹其中一人已婚",
-      "onboard_time": 1711721539,
-      "rank": 44,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 130465,
       "num": 130465,
       "word": "张杰演唱会求婚现场",
@@ -15473,14 +15513,6 @@
       "onboard_time": 1711257139,
       "rank": 46,
       "category": "美食"
-    },
-    {
-      "raw_hot": 124705,
-      "num": 124705,
-      "word": "KSG战胜EDGM",
-      "onboard_time": 1711721719,
-      "rank": 48,
-      "category": "电竞"
     },
     {
       "raw_hot": 124687,
