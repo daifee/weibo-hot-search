@@ -1,6 +1,6 @@
 {
   "startTime": 1711642899962,
-  "endTime": 1711710976705,
+  "endTime": 1711712058003,
   "band_list": [
     {
       "raw_hot": 6224451,
@@ -155,20 +155,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1184905,
+      "num": 1184905,
+      "word": "我19岁了妈妈还在大学家长群回收到",
+      "onboard_time": 1711707438,
+      "rank": 47,
+      "category": "情感"
+    },
+    {
       "raw_hot": 1040341,
       "num": 1040341,
       "word": "米时捷",
       "onboard_time": 1711682898,
       "rank": 36,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 1018230,
-      "num": 1018230,
-      "word": "我19岁了妈妈还在大学家长群回收到",
-      "onboard_time": 1711707438,
-      "rank": 47,
-      "category": "情感"
     },
     {
       "raw_hot": 992928,
@@ -283,6 +283,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 710422,
+      "num": 710422,
+      "word": "小时候被盗的QQ终于有救了",
+      "onboard_time": 1711710079,
+      "rank": 17,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 691967,
       "num": 683525,
       "word": "水杯内一层滑滑的东西是什么",
@@ -329,6 +337,14 @@
       "onboard_time": 1711683437,
       "rank": 12,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 619069,
+      "num": 619069,
+      "word": "iPhone16Pro外观或更光滑",
+      "onboard_time": 1711707737,
+      "rank": 22,
+      "category": "数码"
     },
     {
       "raw_hot": 601857,
@@ -385,14 +401,6 @@
       "onboard_time": 1711709118,
       "rank": 5,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 562406,
-      "num": 562406,
-      "word": "iPhone16Pro外观或更光滑",
-      "onboard_time": 1711707737,
-      "rank": 22,
-      "category": "数码"
     },
     {
       "raw_hot": 558154,
@@ -603,6 +611,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 416056,
+      "num": 416056,
+      "word": "感染性病后多久能查出来",
+      "onboard_time": 1711707918,
+      "rank": 32,
+      "category": "健康医疗,科学科普"
+    },
+    {
       "raw_hot": 405250,
       "num": 405250,
       "word": "95后女生每月副业收入过万",
@@ -803,6 +819,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 315740,
+      "num": 315740,
+      "word": "罗永浩说小米威武",
+      "onboard_time": 1711710498,
+      "rank": 23,
+      "category": "汽车,互联网"
+    },
+    {
       "raw_hot": 314717,
       "num": 314717,
       "word": "小米汽车退定",
@@ -851,6 +875,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 300127,
+      "num": 300127,
+      "word": "田志希3比2伊藤美诚",
+      "onboard_time": 1711710439,
+      "rank": 25,
+      "category": "体育"
+    },
+    {
       "raw_hot": 300053,
       "num": 300053,
       "word": "周迅胡歌辛芷蕾吃瓜表情",
@@ -889,14 +921,6 @@
       "onboard_time": 1711677258,
       "rank": 22,
       "category": "美食"
-    },
-    {
-      "raw_hot": 296839,
-      "num": 296839,
-      "word": "感染性病后多久能查出来",
-      "onboard_time": 1711707918,
-      "rank": 32,
-      "category": "健康医疗,科学科普"
     },
     {
       "raw_hot": 295394,
@@ -945,14 +969,6 @@
       "onboard_time": 1711684218,
       "rank": 30,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 280955,
-      "num": 280955,
-      "word": "小时候被盗的QQ终于有救了",
-      "onboard_time": 1711710079,
-      "rank": 17,
-      "category": "互联网"
     },
     {
       "raw_hot": 280608,
@@ -1155,14 +1171,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 225972,
-      "num": 225972,
-      "word": "罗永浩说小米威武",
-      "onboard_time": 1711710498,
-      "rank": 23,
-      "category": "汽车,互联网"
-    },
-    {
       "raw_hot": 222735,
       "num": 222735,
       "word": "当下年轻人中国式租房观念",
@@ -1185,6 +1193,14 @@
       "onboard_time": 1711678159,
       "rank": 31,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 219817,
+      "num": 120179,
+      "word": "名创优品chiikawa",
+      "onboard_time": 1711710798,
+      "rank": 46,
+      "category": "时尚"
     },
     {
       "raw_hot": 219704,
@@ -1257,6 +1273,14 @@
       "onboard_time": 1711625718,
       "rank": 31,
       "category": "演出"
+    },
+    {
+      "raw_hot": 211692,
+      "num": 151561,
+      "word": "长城汽车魏建军称小米发布会名不虚传",
+      "onboard_time": 1711710737,
+      "rank": 40,
+      "category": "汽车"
     },
     {
       "raw_hot": 209620,
@@ -1403,14 +1427,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 194867,
-      "num": 194867,
-      "word": "田志希3比2伊藤美诚",
-      "onboard_time": 1711710439,
-      "rank": 25,
-      "category": "体育"
-    },
-    {
       "raw_hot": 194120,
       "num": 194120,
       "word": "未定事件簿",
@@ -1425,6 +1441,14 @@
       "onboard_time": 1711684759,
       "rank": 38,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 193685,
+      "num": 193685,
+      "word": "第一次看老头打群架",
+      "onboard_time": 1711709839,
+      "rank": 26,
+      "category": "电影"
     },
     {
       "raw_hot": 193624,
@@ -1467,14 +1491,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 187578,
-      "num": 187578,
-      "word": "第一次看老头打群架",
-      "onboard_time": 1711709839,
-      "rank": 26,
-      "category": "电影"
-    },
-    {
       "raw_hot": 185611,
       "num": 185611,
       "word": "2024LPL春季赛常规赛最数据",
@@ -1489,6 +1505,14 @@
       "onboard_time": 1711699638,
       "rank": 31,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 184488,
+      "num": 184488,
+      "word": "时代少年团综艺",
+      "onboard_time": 1711711699,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 183319,
@@ -1723,6 +1747,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 154980,
+      "num": 154980,
+      "word": "路人看到白鹿的反应",
+      "onboard_time": 1711710919,
+      "rank": 49,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 153903,
       "num": 153903,
       "word": "蒋勤勤打吴磊屁股",
@@ -1875,6 +1907,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 138019,
+      "num": 138019,
+      "word": "明制汉服",
+      "onboard_time": 1711711458,
+      "rank": 32,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 136344,
       "num": 214701,
       "word": "春天的天气变脸速度有多快",
@@ -1955,6 +1995,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 131466,
+      "num": 131466,
+      "word": "金饰价格每克冲向700元",
+      "onboard_time": 1711711217,
+      "rank": 37,
+      "category": "财经"
+    },
+    {
       "raw_hot": 131394,
       "num": 301912,
       "word": "东方甄选与辉同行分场直播",
@@ -1963,12 +2011,12 @@
       "category": "网红,互联网"
     },
     {
-      "raw_hot": 130385,
-      "num": 130385,
-      "word": "长城汽车魏建军称小米发布会名不虚传",
-      "onboard_time": 1711710737,
-      "rank": 40,
-      "category": "汽车"
+      "raw_hot": 130413,
+      "num": 130413,
+      "word": "4月十二星座注意事项",
+      "onboard_time": 1711711938,
+      "rank": 38,
+      "category": "情感"
     },
     {
       "raw_hot": 129932,
@@ -2107,14 +2155,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 120179,
-      "num": 120179,
-      "word": "名创优品chiikawa",
-      "onboard_time": 1711710798,
-      "rank": 46,
-      "category": "时尚"
-    },
-    {
       "raw_hot": 118141,
       "num": 118141,
       "word": "黄子弘凡我的碎嘴暖男",
@@ -2227,14 +2267,6 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 101278,
-      "num": 101278,
-      "word": "路人看到白鹿的反应",
-      "onboard_time": 1711710919,
-      "rank": 49,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 100381,
       "num": 132941,
       "word": "A股",
@@ -2257,6 +2289,14 @@
       "onboard_time": 1711698378,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 92632,
+      "num": 92632,
+      "word": "恋爱兄妹",
+      "onboard_time": 1711711998,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 92266,
@@ -2355,6 +2395,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 46836,
+      "num": 245164,
+      "word": "蛋仔雕宝了",
+      "onboard_time": 1711710439,
+      "rank": 19,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 45450,
       "num": 1193259,
       "word": "重温经典频道满载回忆",
@@ -2377,14 +2425,6 @@
       "onboard_time": 1711636222,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 40930,
-      "num": 245164,
-      "word": "蛋仔雕宝了",
-      "onboard_time": 1711710439,
-      "rank": 19,
-      "category": "游戏"
     },
     {
       "raw_hot": 38705,
