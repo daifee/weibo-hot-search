@@ -1,6 +1,6 @@
 {
   "startTime": 1709223640991,
-  "endTime": 1711703818890,
+  "endTime": 1711704861962,
   "band_list": [
     {
       "raw_hot": 21250232,
@@ -2563,6 +2563,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 1590936,
+      "num": 1590936,
+      "word": "小米汽车被曝出现多起退定投诉",
+      "onboard_time": 1711700179,
+      "rank": 12,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 1587878,
       "num": 1587878,
       "word": "贾玲半披发",
@@ -3908,7 +3916,7 @@
     },
     {
       "raw_hot": 1312068,
-      "num": 381629,
+      "num": 417247,
       "word": "李惠利近照状态",
       "onboard_time": 1711697658,
       "rank": 10,
@@ -4489,14 +4497,6 @@
       "onboard_time": 1710210449,
       "rank": 20,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1233948,
-      "num": 1233948,
-      "word": "小米汽车被曝出现多起退定投诉",
-      "onboard_time": 1711700179,
-      "rank": 12,
-      "category": "汽车"
     },
     {
       "raw_hot": 1233051,
@@ -10003,6 +10003,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 767744,
+      "num": 767744,
+      "word": "吴磊吃绿鸡蛋食物中毒",
+      "onboard_time": 1711703238,
+      "rank": 12,
+      "category": "电影"
+    },
+    {
       "raw_hot": 767627,
       "num": 767627,
       "word": "没想到iPhone备忘录还能这么用",
@@ -14571,6 +14579,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 601217,
+      "num": 225009,
+      "word": "考研1年收到3个亿",
+      "onboard_time": 1711703177,
+      "rank": 20,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 601155,
       "num": 601155,
       "word": "山东事业编 亚冠",
@@ -17465,14 +17481,6 @@
       "onboard_time": 1710399692,
       "rank": 17,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 529172,
-      "num": 212178,
-      "word": "考研1年收到3个亿",
-      "onboard_time": 1711703177,
-      "rank": 20,
-      "category": "幽默"
     },
     {
       "raw_hot": 529157,
@@ -20755,6 +20763,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 462080,
+      "num": 462080,
+      "word": "90%的年轻人担心自己有病",
+      "onboard_time": 1711701798,
+      "rank": 14,
+      "category": "健康医疗,科学科普"
+    },
+    {
       "raw_hot": 462026,
       "num": 302783,
       "word": "差点亲到张凌赫",
@@ -21481,6 +21497,14 @@
       "onboard_time": 1709542889,
       "rank": 15,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 447586,
+      "num": 333760,
+      "word": "张杰谢娜叫赵丽颖的区别",
+      "onboard_time": 1711701858,
+      "rank": 13,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 447583,
@@ -22809,14 +22833,6 @@
       "onboard_time": 1711271900,
       "rank": 22,
       "category": "演出"
-    },
-    {
-      "raw_hot": 423606,
-      "num": 333760,
-      "word": "张杰谢娜叫赵丽颖的区别",
-      "onboard_time": 1711701858,
-      "rank": 13,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 423565,
@@ -26451,6 +26467,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 363533,
+      "num": 363533,
+      "word": "专家称买小米汽车不如买小米股票",
+      "onboard_time": 1711702936,
+      "rank": 18,
+      "category": "财经,汽车"
+    },
+    {
       "raw_hot": 363118,
       "num": 363118,
       "word": "山东泰山1比2横滨水手",
@@ -28249,14 +28273,6 @@
       "onboard_time": 1711106178,
       "rank": 15,
       "category": "演出"
-    },
-    {
-      "raw_hot": 336297,
-      "num": 336297,
-      "word": "吴磊吃绿鸡蛋食物中毒",
-      "onboard_time": 1711703238,
-      "rank": 12,
-      "category": "电影"
     },
     {
       "raw_hot": 336288,
@@ -31089,14 +31105,6 @@
       "onboard_time": 1710552033,
       "rank": 22,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 301116,
-      "num": 301116,
-      "word": "90%的年轻人担心自己有病",
-      "onboard_time": 1711701798,
-      "rank": 14,
-      "category": "健康医疗,科学科普"
     },
     {
       "raw_hot": 300982,
@@ -37275,6 +37283,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 247543,
+      "num": 247543,
+      "word": "华为2023年净利润870亿元",
+      "onboard_time": 1711702936,
+      "rank": 36,
+      "category": "财经,互联网"
+    },
+    {
       "raw_hot": 247441,
       "num": 247441,
       "word": "向佐老师对不起",
@@ -38497,6 +38513,14 @@
       "onboard_time": 1710736301,
       "rank": 43,
       "category": "情感"
+    },
+    {
+      "raw_hot": 239505,
+      "num": 224788,
+      "word": "第一批去天水吃麻辣烫的后悔了吗",
+      "onboard_time": 1711703479,
+      "rank": 40,
+      "category": "美食"
     },
     {
       "raw_hot": 239496,
@@ -40755,6 +40779,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 226061,
+      "num": 226061,
+      "word": "王源机场",
+      "onboard_time": 1711703837,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 225983,
       "num": 225983,
       "word": "60元的酸奶碗是智商税吗",
@@ -40913,14 +40945,6 @@
       "onboard_time": 1709787154,
       "rank": 29,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 224831,
-      "num": 224831,
-      "word": "专家称买小米汽车不如买小米股票",
-      "onboard_time": 1711702936,
-      "rank": 18,
-      "category": "财经,汽车"
     },
     {
       "raw_hot": 224752,
@@ -41585,6 +41609,14 @@
       "onboard_time": 1711596377,
       "rank": 31,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 221797,
+      "num": 221797,
+      "word": "在男朋友房间发现很多关于我的东西",
+      "onboard_time": 1711701978,
+      "rank": 30,
+      "category": "情感"
     },
     {
       "raw_hot": 221764,
@@ -43033,14 +43065,6 @@
       "onboard_time": 1711691959,
       "rank": 25,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 215043,
-      "num": 171395,
-      "word": "在男朋友房间发现很多关于我的东西",
-      "onboard_time": 1711701978,
-      "rank": 30,
-      "category": "情感"
     },
     {
       "raw_hot": 215020,
@@ -46651,6 +46675,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 201136,
+      "num": 201136,
+      "word": "小米SU7评测",
+      "onboard_time": 1711703297,
+      "rank": 39,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 201121,
       "num": 243278,
       "word": "CBA",
@@ -47409,6 +47441,14 @@
       "onboard_time": 1711424957,
       "rank": 33,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 199007,
+      "num": 199007,
+      "word": "共享员工火了",
+      "onboard_time": 1711702399,
+      "rank": 27,
+      "category": "互联网"
     },
     {
       "raw_hot": 198948,
@@ -53731,14 +53771,6 @@
       "category": "教育,社会新闻"
     },
     {
-      "raw_hot": 178544,
-      "num": 178544,
-      "word": "共享员工火了",
-      "onboard_time": 1711702399,
-      "rank": 27,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 178531,
       "num": 178531,
       "word": "RNG六连败",
@@ -53921,6 +53953,14 @@
       "onboard_time": 1711100179,
       "rank": 34,
       "category": "体育"
+    },
+    {
+      "raw_hot": 177512,
+      "num": 177512,
+      "word": "MSI",
+      "onboard_time": 1711704318,
+      "rank": 30,
+      "category": "电竞"
     },
     {
       "raw_hot": 177470,
@@ -59867,6 +59907,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 158388,
+      "num": 158388,
+      "word": "盒马要求部分全职员工转外包",
+      "onboard_time": 1711704619,
+      "rank": 31,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 158386,
       "num": 158386,
       "word": "文化人骂人就是不一样",
@@ -61993,14 +62041,6 @@
       "onboard_time": 1710725551,
       "rank": 41,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 152229,
-      "num": 152229,
-      "word": "华为2023年净利润870亿元",
-      "onboard_time": 1711702936,
-      "rank": 36,
-      "category": "财经,互联网"
     },
     {
       "raw_hot": 152213,
@@ -67563,6 +67603,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 135287,
+      "num": 135287,
+      "word": "夏之光蝴蝶",
+      "onboard_time": 1711704558,
+      "rank": 38,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 135246,
       "num": 135246,
       "word": "Scout4500助攻",
@@ -68907,14 +68955,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 130931,
-      "num": 130931,
-      "word": "小米SU7评测",
-      "onboard_time": 1711703297,
-      "rank": 39,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 130890,
       "num": 130890,
       "word": "坨坨面",
@@ -69315,14 +69355,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 129634,
-      "num": 129634,
-      "word": "第一批去天水吃麻辣烫的后悔了吗",
-      "onboard_time": 1711703479,
-      "rank": 40,
-      "category": "美食"
-    },
-    {
       "raw_hot": 129628,
       "num": 129628,
       "word": "上汽大众1周2次降价",
@@ -69705,6 +69737,14 @@
       "onboard_time": 1710374731,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 128486,
+      "num": 128486,
+      "word": "新浪娱乐头像投票",
+      "onboard_time": 1711703719,
+      "rank": 48,
+      "category": "艺人"
     },
     {
       "raw_hot": 128475,
@@ -70241,6 +70281,14 @@
       "onboard_time": 1711272860,
       "rank": 46,
       "category": "电影"
+    },
+    {
+      "raw_hot": 126704,
+      "num": 126704,
+      "word": "白鹿变范丞丞拉杆箱挂件",
+      "onboard_time": 1711702818,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 126702,
@@ -70897,14 +70945,6 @@
       "onboard_time": 1710557315,
       "rank": 41,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 124143,
-      "num": 124143,
-      "word": "白鹿变范丞丞拉杆箱挂件",
-      "onboard_time": 1711702818,
-      "rank": 45,
-      "category": "综艺"
     },
     {
       "raw_hot": 124117,
@@ -75563,14 +75603,6 @@
       "category": "读书作家"
     },
     {
-      "raw_hot": 101840,
-      "num": 101840,
-      "word": "新浪娱乐头像投票",
-      "onboard_time": 1711703719,
-      "rank": 48,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 101718,
       "num": 101718,
       "word": "贵人鸟即将退市",
@@ -79979,6 +80011,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 45450,
+      "num": 1193259,
+      "word": "重温经典频道满载回忆",
+      "onboard_time": 1711699819,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 45301,
       "num": 48004,
       "word": "与凤行播放量破5亿",
@@ -80033,14 +80073,6 @@
       "onboard_time": 1710995737,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 44566,
-      "num": 1193259,
-      "word": "重温经典频道满载回忆",
-      "onboard_time": 1711699819,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 44453,
@@ -81131,6 +81163,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 27572,
+      "num": 180528,
+      "word": "坐小火车穿越嘉阳油菜花5G矿山",
+      "onboard_time": 1711701260,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 27546,
       "num": 26828,
       "word": "刘忻郭碧婷可以合作残忍的缠绵了",
@@ -81489,14 +81529,6 @@
       "onboard_time": 1710351439,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 22898,
-      "num": 178996,
-      "word": "坐小火车穿越嘉阳油菜花5G矿山",
-      "onboard_time": 1711701260,
-      "rank": 26,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 22791,
