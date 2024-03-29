@@ -1,6 +1,6 @@
 {
   "startTime": 1711642899962,
-  "endTime": 1711678963120,
+  "endTime": 1711679657566,
   "band_list": [
     {
       "raw_hot": 6224451,
@@ -83,20 +83,28 @@
       "category": "数码"
     },
     {
+      "raw_hot": 982688,
+      "num": 480498,
+      "word": "小米汽车向员工发放F码",
+      "onboard_time": 1711675579,
+      "rank": 30,
+      "category": "汽车"
+    },
+    {
+      "raw_hot": 966787,
+      "num": 966787,
+      "word": "19岁唐氏女孩变脸绝技惊艳众人",
+      "onboard_time": 1711677498,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 875548,
       "num": 875548,
       "word": "陈震小米SU7测评",
       "onboard_time": 1711672520,
       "rank": 6,
       "category": "汽车,网红"
-    },
-    {
-      "raw_hot": 844705,
-      "num": 480498,
-      "word": "小米汽车向员工发放F码",
-      "onboard_time": 1711675579,
-      "rank": 30,
-      "category": "汽车"
     },
     {
       "raw_hot": 834781,
@@ -123,16 +131,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 693407,
-      "num": 693407,
-      "word": "19岁唐氏女孩变脸绝技惊艳众人",
-      "onboard_time": 1711677498,
-      "rank": 28,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 658369,
-      "num": 658369,
+      "raw_hot": 662627,
+      "num": 662627,
       "word": "人民日报评樊振东身份证号被恶意传播",
       "onboard_time": 1711675998,
       "rank": 9,
@@ -172,7 +172,7 @@
     },
     {
       "raw_hot": 554748,
-      "num": 350275,
+      "num": 487541,
       "word": "肛肠科医生最不希望你放弃的一项检查",
       "onboard_time": 1711674379,
       "rank": 30,
@@ -201,6 +201,14 @@
       "onboard_time": 1711673239,
       "rank": 15,
       "category": "艺人,互联网"
+    },
+    {
+      "raw_hot": 474939,
+      "num": 404865,
+      "word": "小米汽车一晚收到1亿元定金",
+      "onboard_time": 1711677678,
+      "rank": 41,
+      "category": "汽车"
     },
     {
       "raw_hot": 440106,
@@ -315,12 +323,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 360488,
-      "num": 360488,
-      "word": "小米汽车一晚收到1亿元定金",
-      "onboard_time": 1711677678,
-      "rank": 41,
-      "category": "汽车"
+      "raw_hot": 361437,
+      "num": 361437,
+      "word": "张子枫胡先煦演夫妻",
+      "onboard_time": 1711679419,
+      "rank": 16,
+      "category": "电影"
     },
     {
       "raw_hot": 359691,
@@ -363,6 +371,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 301744,
+      "num": 301744,
+      "word": "原来朋友圈都是精心打造的",
+      "onboard_time": 1711678400,
+      "rank": 26,
+      "category": "情感"
+    },
+    {
       "raw_hot": 300847,
       "num": 300847,
       "word": "李斌祝贺雷军",
@@ -395,8 +411,8 @@
       "category": "美食"
     },
     {
-      "raw_hot": 291212,
-      "num": 291212,
+      "raw_hot": 295394,
+      "num": 295394,
       "word": "做完手术不代表近视治愈了",
       "onboard_time": 1711677798,
       "rank": 36,
@@ -411,8 +427,16 @@
       "category": "情感"
     },
     {
-      "raw_hot": 279316,
-      "num": 279316,
+      "raw_hot": 286953,
+      "num": 286953,
+      "word": "金价",
+      "onboard_time": 1711679177,
+      "rank": 23,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 280608,
+      "num": 280608,
       "word": "雷军称顶配版是吐血价",
       "onboard_time": 1711677557,
       "rank": 37,
@@ -459,14 +483,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 244384,
-      "num": 244384,
-      "word": "原来朋友圈都是精心打造的",
-      "onboard_time": 1711678400,
-      "rank": 26,
-      "category": "情感"
-    },
-    {
       "raw_hot": 236160,
       "num": 236160,
       "word": "胡夏工作室严正声明",
@@ -484,11 +500,19 @@
     },
     {
       "raw_hot": 228732,
-      "num": 228732,
+      "num": 233556,
       "word": "小米汽车概念股集体大涨",
       "onboard_time": 1711677858,
       "rank": 28,
       "category": "财经,汽车"
+    },
+    {
+      "raw_hot": 219920,
+      "num": 219920,
+      "word": "胡歌打电话给三十年后的自己",
+      "onboard_time": 1711678159,
+      "rank": 31,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 219704,
@@ -537,14 +561,6 @@
       "onboard_time": 1711674559,
       "rank": 34,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 203935,
-      "num": 203935,
-      "word": "胡歌打电话给三十年后的自己",
-      "onboard_time": 1711678159,
-      "rank": 31,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 200909,
@@ -763,6 +779,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 143045,
+      "num": 143045,
+      "word": "小时候经常吃现在看不到的水果",
+      "onboard_time": 1711679598,
+      "rank": 46,
+      "category": "美食"
+    },
+    {
       "raw_hot": 138328,
       "num": 138328,
       "word": "极氪001",
@@ -819,6 +843,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 131394,
+      "num": 180060,
+      "word": "东方甄选与辉同行分场直播",
+      "onboard_time": 1711679118,
+      "rank": 33,
+      "category": "网红,互联网"
+    },
+    {
       "raw_hot": 129080,
       "num": 129080,
       "word": "科技春晚",
@@ -841,6 +873,14 @@
       "onboard_time": 1711660510,
       "rank": 48,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 120217,
+      "num": 127990,
+      "word": "穆雷绝杀凯尔特人",
+      "onboard_time": 1711679598,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 115285,
