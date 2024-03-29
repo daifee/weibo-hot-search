@@ -1,0 +1,410 @@
+{
+  "runTime": 1711693327636,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1633831,
+        "num": 1633831,
+        "word": "小米回应无法退定金问题",
+        "onboard_time": 1711685899,
+        "rank": 0,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 1345462,
+        "num": 1345462,
+        "word": "唐嫣哽咽回应质疑",
+        "onboard_time": 1711689979,
+        "rank": 1,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 63998,
+        "num": 751645,
+        "word": "春天把浪漫写在山水间",
+        "onboard_time": 1711684699,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 606415,
+        "num": 606415,
+        "word": "金价",
+        "onboard_time": 1711679177,
+        "rank": 3,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 539742,
+        "num": 539742,
+        "word": "南通烧纸",
+        "onboard_time": 1711690098,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 460211,
+        "num": 460211,
+        "word": "小米SU7价格",
+        "onboard_time": 1711627097,
+        "rank": 5,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 430593,
+        "num": 430593,
+        "word": "研究生们请把脸皮读厚一点",
+        "onboard_time": 1711679717,
+        "rank": 6,
+        "category": "幽默,教育"
+      },
+      {
+        "raw_hot": 387680,
+        "num": 387680,
+        "word": "上班搭子离职了比失恋还难过",
+        "onboard_time": 1711686739,
+        "rank": 7,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 363995,
+        "num": 363995,
+        "word": "没钱的时候就喜欢看看公积金",
+        "onboard_time": 1711692078,
+        "rank": 8,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 321990,
+        "num": 321990,
+        "word": "延安大学一考生与李大钊同名",
+        "onboard_time": 1711690517,
+        "rank": 9,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 1856476,
+        "num": 321928,
+        "word": "为卖淫女看病被判协助组织卖淫",
+        "onboard_time": 1711690999,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 472723,
+        "num": 316920,
+        "word": "冉莹颖邹市明分床睡三年了",
+        "onboard_time": 1711673959,
+        "rank": 11,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 297770,
+        "num": 297770,
+        "word": "读研也是一种爱豆出道",
+        "onboard_time": 1711689259,
+        "rank": 12,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 268494,
+        "num": 268494,
+        "word": "19岁唐氏女孩变脸绝技惊艳众人",
+        "onboard_time": 1711677498,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 258352,
+        "num": 258352,
+        "word": "王阳种地吧联动",
+        "onboard_time": 1711689979,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 257829,
+        "num": 257829,
+        "word": "小爱同学被雷军喊崩了",
+        "onboard_time": 1711682959,
+        "rank": 15,
+        "category": "汽车,互联网"
+      },
+      {
+        "raw_hot": 233046,
+        "num": 233046,
+        "word": "张杰纠正年龄",
+        "onboard_time": 1711685838,
+        "rank": 16,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 221575,
+        "num": 221575,
+        "word": "福宝5天后同姜爷爷回国",
+        "onboard_time": 1711680019,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 213052,
+        "num": 213052,
+        "word": "肛肠科医生最不希望你放弃的一项检查",
+        "onboard_time": 1711674379,
+        "rank": 18,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 212555,
+        "num": 212555,
+        "word": "谢霆锋给网红做红烧肉被当面评价菜一般",
+        "onboard_time": 1711673360,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 459953,
+        "num": 210813,
+        "word": "唐嫣微信只有300多个联系人",
+        "onboard_time": 1711690278,
+        "rank": 20,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 241221,
+        "num": 210465,
+        "word": "情商低的五大表现",
+        "onboard_time": 1711687281,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 235540,
+        "num": 209840,
+        "word": "天美自曝新瓜",
+        "onboard_time": 1711690577,
+        "rank": 22,
+        "category": "游戏,互联网"
+      },
+      {
+        "raw_hot": 208975,
+        "num": 208975,
+        "word": "月子还没出就来离婚的妈妈",
+        "onboard_time": 1711687579,
+        "rank": 23,
+        "category": "母婴育儿"
+      },
+      {
+        "raw_hot": 208706,
+        "num": 208706,
+        "word": "没想到结个婚花了快40万",
+        "onboard_time": 1711686259,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 202631,
+        "num": 202631,
+        "word": "女星轻生宝冢歌剧团承认集体霸凌",
+        "onboard_time": 1711691959,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 194945,
+        "num": 194945,
+        "word": "小米汽车F码被炒至5万元",
+        "onboard_time": 1711690577,
+        "rank": 26,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 185611,
+        "num": 185611,
+        "word": "2024LPL春季赛常规赛最数据",
+        "onboard_time": 1711692799,
+        "rank": 27,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 168322,
+        "num": 168322,
+        "word": "乌高官被曝在办公室与多名女同事热吻",
+        "onboard_time": 1711692979,
+        "rank": 28,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 151765,
+        "num": 162312,
+        "word": "5人服用日本小林制药保健品后死亡",
+        "onboard_time": 1711683437,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 162067,
+        "num": 162067,
+        "word": "10部电影定档五一",
+        "onboard_time": 1711680378,
+        "rank": 30,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 149569,
+        "num": 149569,
+        "word": "张子枫胡先煦演夫妻",
+        "onboard_time": 1711679419,
+        "rank": 31,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 148674,
+        "num": 148674,
+        "word": "执笔结局",
+        "onboard_time": 1711687880,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 147485,
+        "num": 147485,
+        "word": "黄晓明贾乃亮黄景瑜睡姿",
+        "onboard_time": 1711689558,
+        "rank": 33,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 146692,
+        "num": 146692,
+        "word": "雷军 雷神",
+        "onboard_time": 1711631302,
+        "rank": 34,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 144300,
+        "num": 144300,
+        "word": "陈楚生劝蔡国庆别上岛",
+        "onboard_time": 1711690699,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 130842,
+        "num": 130842,
+        "word": "执笔超点",
+        "onboard_time": 1711685718,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 128236,
+        "num": 128236,
+        "word": "卫生棉条如何正确使用",
+        "onboard_time": 1711691419,
+        "rank": 37,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 126315,
+        "num": 126315,
+        "word": "孙颖莎3比1琳达",
+        "onboard_time": 1711689379,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 124811,
+        "num": 124811,
+        "word": "小狗被邀请参加人类的生日派对",
+        "onboard_time": 1711691777,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 118141,
+        "num": 118141,
+        "word": "黄子弘凡我的碎嘴暖男",
+        "onboard_time": 1711692259,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 115849,
+        "num": 115849,
+        "word": "这是我的岛先导片",
+        "onboard_time": 1711690218,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 110172,
+        "num": 110172,
+        "word": "小时候经常吃现在看不到的水果",
+        "onboard_time": 1711679598,
+        "rank": 42,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 109414,
+        "num": 109414,
+        "word": "小米SU7售价21.59万元起",
+        "onboard_time": 1711630402,
+        "rank": 43,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 106461,
+        "num": 106461,
+        "word": "李庚希 摇太阳不好看找我退票",
+        "onboard_time": 1711684938,
+        "rank": 44,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 106287,
+        "num": 106287,
+        "word": "小米汽车",
+        "onboard_time": 1711667657,
+        "rank": 45,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 104380,
+        "num": 104380,
+        "word": "祁煜占有欲",
+        "onboard_time": 1711688779,
+        "rank": 46,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 100781,
+        "num": 100781,
+        "word": "米时捷",
+        "onboard_time": 1711682898,
+        "rank": 47,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 98960,
+        "num": 98960,
+        "word": "小米发布会",
+        "onboard_time": 1711615939,
+        "rank": 48,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 93974,
+        "num": 93974,
+        "word": "林俊杰演唱会",
+        "onboard_time": 1711687639,
+        "rank": 49,
+        "category": "演出"
+      }
+    ],
+    "hotgov": {
+      "word": "#中央军委举行晋升上将军衔仪式#"
+    }
+  }
+}

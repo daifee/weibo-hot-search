@@ -1,6 +1,6 @@
 {
   "startTime": 1709223640991,
-  "endTime": 1711690449876,
+  "endTime": 1711693327636,
   "band_list": [
     {
       "raw_hot": 21250232,
@@ -1673,6 +1673,14 @@
       "onboard_time": 1710675629,
       "rank": 1,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1856476,
+      "num": 321928,
+      "word": "为卖淫女看病被判协助组织卖淫",
+      "onboard_time": 1711690999,
+      "rank": 10,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1853173,
@@ -3649,6 +3657,14 @@
       "onboard_time": 1710676895,
       "rank": 12,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1345462,
+      "num": 1345462,
+      "word": "唐嫣哽咽回应质疑",
+      "onboard_time": 1711689979,
+      "rank": 11,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 1344712,
@@ -14419,14 +14435,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 603582,
-      "num": 342923,
-      "word": "唐嫣哽咽回应质疑",
-      "onboard_time": 1711689979,
-      "rank": 11,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 603579,
       "num": 603579,
       "word": "于适CK预热",
@@ -16929,6 +16937,14 @@
       "onboard_time": 1711547541,
       "rank": 8,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 539742,
+      "num": 539742,
+      "word": "南通烧纸",
+      "onboard_time": 1711690098,
+      "rank": 26,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 539540,
@@ -20713,6 +20729,14 @@
       "onboard_time": 1709381433,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 459953,
+      "num": 263085,
+      "word": "唐嫣微信只有300多个联系人",
+      "onboard_time": 1711690278,
+      "rank": 21,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 459510,
@@ -26259,6 +26283,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 363995,
+      "num": 363995,
+      "word": "没钱的时候就喜欢看看公积金",
+      "onboard_time": 1711692078,
+      "rank": 8,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 363931,
       "num": 316807,
       "word": "95后女孩考研失败后隐居荒岛",
@@ -27393,14 +27425,6 @@
       "onboard_time": 1710377372,
       "rank": 23,
       "category": "情感"
-    },
-    {
-      "raw_hot": 346174,
-      "num": 263085,
-      "word": "唐嫣微信只有300多个联系人",
-      "onboard_time": 1711690278,
-      "rank": 21,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 345843,
@@ -29025,6 +29049,14 @@
       "onboard_time": 1710836197,
       "rank": 38,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 321990,
+      "num": 321990,
+      "word": "延安大学一考生与李大钊同名",
+      "onboard_time": 1711690517,
+      "rank": 9,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 321922,
@@ -31297,6 +31329,14 @@
       "onboard_time": 1709453971,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 297770,
+      "num": 297770,
+      "word": "读研也是一种爱豆出道",
+      "onboard_time": 1711689259,
+      "rank": 37,
+      "category": "情感"
     },
     {
       "raw_hot": 297759,
@@ -35659,6 +35699,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 258352,
+      "num": 258352,
+      "word": "王阳种地吧联动",
+      "onboard_time": 1711689979,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 258318,
       "num": 258318,
       "word": "张慧雯演技",
@@ -38825,6 +38873,14 @@
       "onboard_time": 1711546339,
       "rank": 29,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 235540,
+      "num": 209840,
+      "word": "天美自曝新瓜",
+      "onboard_time": 1711690577,
+      "rank": 22,
+      "category": "游戏,互联网"
     },
     {
       "raw_hot": 235489,
@@ -44083,14 +44139,6 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 208776,
-      "num": 208776,
-      "word": "南通烧纸",
-      "onboard_time": 1711690098,
-      "rank": 26,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 208769,
       "num": 208769,
       "word": "C罗亚冠出局",
@@ -45929,6 +45977,14 @@
       "onboard_time": 1710673172,
       "rank": 31,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 202631,
+      "num": 202631,
+      "word": "女星轻生宝冢歌剧团承认集体霸凌",
+      "onboard_time": 1711691959,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 202630,
@@ -48195,14 +48251,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 195762,
-      "num": 195762,
-      "word": "王阳种地吧联动",
-      "onboard_time": 1711689979,
-      "rank": 28,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 195715,
       "num": 195715,
       "word": "姐弟恋 精神年龄契合",
@@ -48489,6 +48537,14 @@
       "onboard_time": 1711516819,
       "rank": 34,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 194945,
+      "num": 194945,
+      "word": "小米汽车F码被炒至5万元",
+      "onboard_time": 1711690577,
+      "rank": 26,
+      "category": "汽车"
     },
     {
       "raw_hot": 194942,
@@ -51497,6 +51553,14 @@
       "onboard_time": 1710647252,
       "rank": 36,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 185611,
+      "num": 185611,
+      "word": "2024LPL春季赛常规赛最数据",
+      "onboard_time": 1711692799,
+      "rank": 27,
+      "category": "电竞"
     },
     {
       "raw_hot": 185607,
@@ -56251,6 +56315,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 168322,
+      "num": 168322,
+      "word": "乌高官被曝在办公室与多名女同事热吻",
+      "onboard_time": 1711692979,
+      "rank": 28,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 168314,
       "num": 168314,
       "word": "春天 精神病的高发季",
@@ -57625,14 +57697,6 @@
       "onboard_time": 1711191859,
       "rank": 39,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 163798,
-      "num": 163798,
-      "word": "读研也是一种爱豆出道",
-      "onboard_time": 1711689259,
-      "rank": 37,
-      "category": "情感"
     },
     {
       "raw_hot": 163766,
@@ -64299,6 +64363,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 144300,
+      "num": 144300,
+      "word": "陈楚生劝蔡国庆别上岛",
+      "onboard_time": 1711690699,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 144253,
       "num": 144253,
       "word": "国足新帅伊万科维奇率队首训",
@@ -69347,6 +69419,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 128236,
+      "num": 128236,
+      "word": "卫生棉条如何正确使用",
+      "onboard_time": 1711691419,
+      "rank": 37,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 128231,
       "num": 128231,
       "word": "猴哥 人间理想",
@@ -70281,6 +70361,14 @@
       "onboard_time": 1709799754,
       "rank": 46,
       "category": "情感"
+    },
+    {
+      "raw_hot": 124811,
+      "num": 124811,
+      "word": "小狗被邀请参加人类的生日派对",
+      "onboard_time": 1711691777,
+      "rank": 39,
+      "category": "幽默"
     },
     {
       "raw_hot": 124772,
@@ -71905,6 +71993,14 @@
       "onboard_time": 1709805093,
       "rank": 18,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 118141,
+      "num": 118141,
+      "word": "黄子弘凡我的碎嘴暖男",
+      "onboard_time": 1711692259,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 118123,
