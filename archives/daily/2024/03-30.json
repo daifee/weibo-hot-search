@@ -1,6 +1,6 @@
 {
   "startTime": 1711729335311,
-  "endTime": 1711746973854,
+  "endTime": 1711748054069,
   "band_list": [
     {
       "raw_hot": 969670,
@@ -492,15 +492,15 @@
     },
     {
       "raw_hot": 34348,
-      "num": 22397,
+      "num": 22603,
       "word": "丈夫给娃取名太奇葩妻子气成面瘫",
       "onboard_time": 1711740611,
       "rank": 47,
       "category": "社会新闻"
     },
     {
-      "raw_hot": 26553,
-      "num": 17014,
+      "raw_hot": 30386,
+      "num": 17890,
       "word": "一口价黄金每克或超2000元",
       "onboard_time": 1711743971,
       "rank": 39,
@@ -523,12 +523,28 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 14182,
-      "num": 14969,
+      "raw_hot": 15884,
+      "num": 18103,
+      "word": "我国计划2030前后完成火星采样返回",
+      "onboard_time": 1711746910,
+      "rank": 49,
+      "category": "国内时政,科学科普"
+    },
+    {
+      "raw_hot": 14628,
+      "num": 15387,
       "word": "周深二专",
       "onboard_time": 1711745711,
       "rank": 41,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 13609,
+      "num": 15378,
+      "word": "北师大陈志新老师粉丝已超90万",
+      "onboard_time": 1711747812,
+      "rank": 44,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 13284,
@@ -539,12 +555,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 11323,
-      "num": 14918,
-      "word": "我国计划2030前后完成火星采样返回",
-      "onboard_time": 1711746910,
+      "raw_hot": 12023,
+      "num": 15351,
+      "word": "999朵玫瑰花究竟有多大",
+      "onboard_time": 1711747991,
       "rank": 49,
-      "category": "国内时政,科学科普"
+      "category": "情感"
     },
     {
       "raw_hot": 10833,
