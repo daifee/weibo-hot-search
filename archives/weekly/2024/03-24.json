@@ -1,6 +1,6 @@
 {
   "startTime": 1711210803824,
-  "endTime": 1711704861962,
+  "endTime": 1711707536042,
   "band_list": [
     {
       "raw_hot": 21250232,
@@ -435,6 +435,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1649756,
+      "num": 1649756,
+      "word": "小米汽车被曝出现多起退定投诉",
+      "onboard_time": 1711700179,
+      "rank": 12,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 1631032,
       "num": 1631032,
       "word": "发现刘亦菲是表姑的侄女",
@@ -465,14 +473,6 @@
       "onboard_time": 1711359258,
       "rank": 4,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 1590936,
-      "num": 1590936,
-      "word": "小米汽车被曝出现多起退定投诉",
-      "onboard_time": 1711700179,
-      "rank": 12,
-      "category": "汽车"
     },
     {
       "raw_hot": 1587128,
@@ -724,7 +724,7 @@
     },
     {
       "raw_hot": 1312068,
-      "num": 417247,
+      "num": 450829,
       "word": "李惠利近照状态",
       "onboard_time": 1711697658,
       "rank": 10,
@@ -1363,6 +1363,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 910794,
+      "num": 281746,
+      "word": "阴道侧切的缝合",
+      "onboard_time": 1711706298,
+      "rank": 20,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 908252,
       "num": 908252,
       "word": "天官赐福解锁",
@@ -1579,6 +1587,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 820310,
+      "num": 820310,
+      "word": "吴磊吃绿鸡蛋食物中毒",
+      "onboard_time": 1711703238,
+      "rank": 12,
+      "category": "电影"
+    },
+    {
       "raw_hot": 820040,
       "num": 820040,
       "word": "赵丽颖的脸比小朋友还小",
@@ -1617,6 +1633,14 @@
       "onboard_time": 1711357219,
       "rank": 12,
       "category": "国内时政,军事"
+    },
+    {
+      "raw_hot": 812873,
+      "num": 812873,
+      "word": "盒马要求部分全职员工转外包",
+      "onboard_time": 1711704619,
+      "rank": 31,
+      "category": "互联网"
     },
     {
       "raw_hot": 809214,
@@ -1809,14 +1833,6 @@
       "onboard_time": 1711243399,
       "rank": 16,
       "category": "情感"
-    },
-    {
-      "raw_hot": 767744,
-      "num": 767744,
-      "word": "吴磊吃绿鸡蛋食物中毒",
-      "onboard_time": 1711703238,
-      "rank": 12,
-      "category": "电影"
     },
     {
       "raw_hot": 767008,
@@ -2025,6 +2041,14 @@
       "onboard_time": 1711530919,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 736852,
+      "num": 736852,
+      "word": "承欢记 杨紫站位",
+      "onboard_time": 1711704978,
+      "rank": 6,
+      "category": "剧集"
     },
     {
       "raw_hot": 735395,
@@ -2796,7 +2820,7 @@
     },
     {
       "raw_hot": 601217,
-      "num": 225009,
+      "num": 281473,
       "word": "考研1年收到3个亿",
       "onboard_time": 1711703177,
       "rank": 20,
@@ -4099,20 +4123,20 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 463393,
+      "num": 463393,
+      "word": "90%的年轻人担心自己有病",
+      "onboard_time": 1711701798,
+      "rank": 14,
+      "category": "健康医疗,科学科普"
+    },
+    {
       "raw_hot": 462905,
       "num": 462905,
       "word": "张元英听出来了粉丝是中国人",
       "onboard_time": 1711625718,
       "rank": 13,
       "category": "演出"
-    },
-    {
-      "raw_hot": 462080,
-      "num": 462080,
-      "word": "90%的年轻人担心自己有病",
-      "onboard_time": 1711701798,
-      "rank": 14,
-      "category": "健康医疗,科学科普"
     },
     {
       "raw_hot": 461595,
@@ -4281,6 +4305,14 @@
       "onboard_time": 1711349659,
       "rank": 20,
       "category": "教育"
+    },
+    {
+      "raw_hot": 448484,
+      "num": 448484,
+      "word": "张凌赫徐若晗樱花吻路透",
+      "onboard_time": 1711706898,
+      "rank": 11,
+      "category": "剧集"
     },
     {
       "raw_hot": 447586,
@@ -4897,6 +4929,14 @@
       "onboard_time": 1711368079,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 393837,
+      "num": 393837,
+      "word": "小米回应试驾车爆胎视频",
+      "onboard_time": 1711705760,
+      "rank": 13,
+      "category": "汽车"
     },
     {
       "raw_hot": 393790,
@@ -6225,6 +6265,14 @@
       "onboard_time": 1711190600,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 302298,
+      "num": 302298,
+      "word": "官方回应南通烧纸有两层楼高",
+      "onboard_time": 1711705158,
+      "rank": 16,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 302127,
@@ -7844,7 +7892,7 @@
     },
     {
       "raw_hot": 239505,
-      "num": 224788,
+      "num": 230115,
       "word": "第一批去天水吃麻辣烫的后悔了吗",
       "onboard_time": 1711703479,
       "rank": 40,
@@ -8419,6 +8467,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 226999,
+      "num": 226999,
+      "word": "王源机场",
+      "onboard_time": 1711703837,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 226328,
       "num": 226328,
       "word": "王一博受刑戏是下雪天拍的",
@@ -8433,14 +8489,6 @@
       "onboard_time": 1711361238,
       "rank": 35,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 226061,
-      "num": 226061,
-      "word": "王源机场",
-      "onboard_time": 1711703837,
-      "rank": 18,
-      "category": "艺人"
     },
     {
       "raw_hot": 225523,
@@ -8792,6 +8840,14 @@
       "word": "梦泪当爸爸",
       "onboard_time": 1711581316,
       "rank": 44,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 217474,
+      "num": 217474,
+      "word": "MSI",
+      "onboard_time": 1711704318,
+      "rank": 30,
       "category": "电竞"
     },
     {
@@ -10179,6 +10235,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 193624,
+      "num": 193624,
+      "word": "胡歌谈唐嫣",
+      "onboard_time": 1711705458,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 193410,
       "num": 193410,
       "word": "于适担任北影节短片单元评委",
@@ -11201,14 +11265,6 @@
       "onboard_time": 1711425260,
       "rank": 37,
       "category": "演出"
-    },
-    {
-      "raw_hot": 177512,
-      "num": 177512,
-      "word": "MSI",
-      "onboard_time": 1711704318,
-      "rank": 30,
-      "category": "电竞"
     },
     {
       "raw_hot": 177470,
@@ -12523,14 +12579,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 158388,
-      "num": 158388,
-      "word": "盒马要求部分全职员工转外包",
-      "onboard_time": 1711704619,
-      "rank": 31,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 158234,
       "num": 158234,
       "word": "陈都灵辛云来贵女妆造",
@@ -13083,6 +13131,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 150827,
+      "num": 150827,
+      "word": "定金和订金你分清楚了吗",
+      "onboard_time": 1711705219,
+      "rank": 35,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 150647,
       "num": 150647,
       "word": "米卢曾赞李铁是上帝赐给中国足球的礼物",
@@ -13267,6 +13323,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 148245,
+      "num": 148245,
+      "word": "吴磊听到想和他结婚的反应",
+      "onboard_time": 1711706597,
+      "rank": 36,
+      "category": "电影"
+    },
+    {
       "raw_hot": 148194,
       "num": 148194,
       "word": "山西订婚案男方母亲回应一审判决",
@@ -13297,6 +13361,14 @@
       "onboard_time": 1711449198,
       "rank": 46,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 147943,
+      "num": 147943,
+      "word": "夏之光蝴蝶",
+      "onboard_time": 1711704558,
+      "rank": 38,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 147813,
@@ -13465,6 +13537,14 @@
       "onboard_time": 1711371080,
       "rank": 45,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 146073,
+      "num": 146073,
+      "word": "懂车帝实测小米SU7",
+      "onboard_time": 1711706837,
+      "rank": 38,
+      "category": "汽车"
     },
     {
       "raw_hot": 146029,
@@ -14163,14 +14243,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 135287,
-      "num": 135287,
-      "word": "夏之光蝴蝶",
-      "onboard_time": 1711704558,
-      "rank": 38,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 134826,
       "num": 294873,
       "word": "撒贝宁解密vivo蓝科技",
@@ -14779,6 +14851,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 125746,
+      "num": 125746,
+      "word": "云合播放量",
+      "onboard_time": 1711707077,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 125355,
       "num": 125355,
       "word": "今天的她们定档预告",
@@ -14995,6 +15075,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 120266,
+      "num": 120266,
+      "word": "阿维塔发布会",
+      "onboard_time": 1711706659,
+      "rank": 45,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 120217,
       "num": 132944,
       "word": "穆雷绝杀凯尔特人",
@@ -15145,6 +15233,14 @@
       "onboard_time": 1711699698,
       "rank": 46,
       "category": "演出"
+    },
+    {
+      "raw_hot": 117522,
+      "num": 117522,
+      "word": "我19岁了妈妈还在大学家长群回收到",
+      "onboard_time": 1711707438,
+      "rank": 47,
+      "category": "情感"
     },
     {
       "raw_hot": 117480,
@@ -15467,12 +15563,28 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 110244,
+      "num": 117298,
+      "word": "赵樱子妖神令妆造",
+      "onboard_time": 1711705638,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 109793,
       "num": 109793,
       "word": "不修音是因为没钱吗",
       "onboard_time": 1711552219,
       "rank": 43,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 109367,
+      "num": 451013,
+      "word": "63岁退伍老兵从10多米高桥跳水救人",
+      "onboard_time": 1711705819,
+      "rank": 9,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 109338,
@@ -15641,6 +15753,14 @@
       "onboard_time": 1711191200,
       "rank": 49,
       "category": "动漫,网红"
+    },
+    {
+      "raw_hot": 103473,
+      "num": 117053,
+      "word": "王俊凯杭州",
+      "onboard_time": 1711707497,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 103237,
@@ -16259,6 +16379,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 58893,
+      "num": 455462,
+      "word": "他们抬着雅江送的24面锦旗回来了",
+      "onboard_time": 1711705819,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 58088,
       "num": 58088,
       "word": "苏打绿香港",
@@ -16675,6 +16803,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 31019,
+      "num": 283128,
+      "word": "求得紫色上上签",
+      "onboard_time": 1711705819,
+      "rank": 19,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 30646,
       "num": 171861,
       "word": "阿里AI将接入各类安卓手机",
@@ -16993,6 +17129,14 @@
       "onboard_time": 1711567511,
       "rank": 48,
       "category": "教育"
+    },
+    {
+      "raw_hot": 13511,
+      "num": 358182,
+      "word": "全新蛋仔超燃竞技场",
+      "onboard_time": 1711706418,
+      "rank": 14,
+      "category": "游戏"
     },
     {
       "raw_hot": 13083,
