@@ -1,6 +1,6 @@
 {
   "startTime": 1711210803824,
-  "endTime": 1711712058003,
+  "endTime": 1711715561103,
   "band_list": [
     {
       "raw_hot": 21250232,
@@ -273,6 +273,14 @@
       "onboard_time": 1711255638,
       "rank": 10,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2045859,
+      "num": 2045859,
+      "word": "韩沐伯 出家",
+      "onboard_time": 1711712237,
+      "rank": 0,
+      "category": "艺人"
     },
     {
       "raw_hot": 2028560,
@@ -979,6 +987,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1127520,
+      "num": 1127520,
+      "word": "将门毒后 新丽",
+      "onboard_time": 1711713617,
+      "rank": 1,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1124991,
       "num": 1124991,
       "word": "我的孩子怎么会得精神疾病呢",
@@ -1473,6 +1489,14 @@
       "onboard_time": 1711584138,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 861222,
+      "num": 861222,
+      "word": "小时候被盗的QQ终于有救了",
+      "onboard_time": 1711710079,
+      "rank": 17,
+      "category": "互联网"
     },
     {
       "raw_hot": 859146,
@@ -2145,14 +2169,6 @@
       "onboard_time": 1711369099,
       "rank": 16,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 710422,
-      "num": 710422,
-      "word": "小时候被盗的QQ终于有救了",
-      "onboard_time": 1711710079,
-      "rank": 17,
-      "category": "互联网"
     },
     {
       "raw_hot": 707913,
@@ -5275,6 +5291,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 374916,
+      "num": 374916,
+      "word": "闲鱼现大量车主转卖旧车购买小米SU7",
+      "onboard_time": 1711714819,
+      "rank": 6,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 373469,
       "num": 341630,
       "word": "武汉大学回应开设雷军班",
@@ -5355,6 +5379,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 366538,
+      "num": 273291,
+      "word": "广州暴雨",
+      "onboard_time": 1711714219,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 366453,
       "num": 366453,
       "word": "雷军回应小米SU7为何始终不公布价格",
@@ -5387,6 +5419,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 363957,
+      "num": 363957,
+      "word": "12岁孩子拿盲人手机充游戏家长无理回应",
+      "onboard_time": 1711713318,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 363533,
       "num": 363533,
       "word": "专家称买小米汽车不如买小米股票",
@@ -5409,6 +5449,14 @@
       "onboard_time": 1711282759,
       "rank": 18,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 362143,
+      "num": 362143,
+      "word": "陈梦vs张本美和",
+      "onboard_time": 1711714819,
+      "rank": 10,
+      "category": "体育"
     },
     {
       "raw_hot": 361995,
@@ -5553,6 +5601,14 @@
       "onboard_time": 1711259959,
       "rank": 17,
       "category": "美食"
+    },
+    {
+      "raw_hot": 352749,
+      "num": 352749,
+      "word": "4月十二星座注意事项",
+      "onboard_time": 1711711938,
+      "rank": 38,
+      "category": "情感"
     },
     {
       "raw_hot": 352689,
@@ -6283,6 +6339,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 303859,
+      "num": 303859,
+      "word": "杨幂紫色截断眼妆",
+      "onboard_time": 1711713678,
+      "rank": 15,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 303830,
       "num": 303830,
       "word": "大学室友突然要退学回家继承家业",
@@ -6473,6 +6537,14 @@
       "onboard_time": 1711677258,
       "rank": 22,
       "category": "美食"
+    },
+    {
+      "raw_hot": 296901,
+      "num": 296901,
+      "word": "小米",
+      "onboard_time": 1711712778,
+      "rank": 16,
+      "category": "汽车"
     },
     {
       "raw_hot": 295413,
@@ -6721,6 +6793,14 @@
       "onboard_time": 1711359019,
       "rank": 37,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 287754,
+      "num": 287754,
+      "word": "恋爱兄妹",
+      "onboard_time": 1711711998,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 287420,
@@ -8747,6 +8827,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 220834,
+      "num": 220834,
+      "word": "下周只上3天班",
+      "onboard_time": 1711713798,
+      "rank": 22,
+      "category": "情感"
+    },
+    {
       "raw_hot": 220382,
       "num": 265784,
       "word": "梁靖崑3比2卡尔伯格",
@@ -9132,7 +9220,7 @@
     },
     {
       "raw_hot": 211692,
-      "num": 151561,
+      "num": 172800,
       "word": "长城汽车魏建军称小米发布会名不虚传",
       "onboard_time": 1711710737,
       "rank": 40,
@@ -10803,6 +10891,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 188168,
+      "num": 188168,
+      "word": "山东小钺钺已有轻微意识仍在ICU",
+      "onboard_time": 1711713738,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 188162,
       "num": 188162,
       "word": "与凤行的与是何与",
@@ -10945,6 +11041,14 @@
       "onboard_time": 1711597999,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 185661,
+      "num": 185661,
+      "word": "LGD DOTA2分部",
+      "onboard_time": 1711715058,
+      "rank": 27,
+      "category": "电竞"
     },
     {
       "raw_hot": 185611,
@@ -11241,6 +11345,14 @@
       "onboard_time": 1711589358,
       "rank": 48,
       "category": "情感"
+    },
+    {
+      "raw_hot": 180471,
+      "num": 180471,
+      "word": "现在的小朋友也太高了",
+      "onboard_time": 1711713738,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 180350,
@@ -12779,6 +12891,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 157316,
+      "num": 157316,
+      "word": "广东男篮vs广厦男篮",
+      "onboard_time": 1711714338,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 157307,
       "num": 157307,
       "word": "蒲熠星读书会直播",
@@ -13523,6 +13643,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 147603,
+      "num": 147603,
+      "word": "金饰价格每克冲向700元",
+      "onboard_time": 1711711217,
+      "rank": 37,
+      "category": "财经"
+    },
+    {
       "raw_hot": 147333,
       "num": 147333,
       "word": "于适宽肩",
@@ -13915,6 +14043,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 143064,
+      "num": 143064,
+      "word": "明制汉服",
+      "onboard_time": 1711711458,
+      "rank": 32,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 142837,
       "num": 142837,
       "word": "吴磊尊嘟假嘟",
@@ -14123,6 +14259,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 139151,
+      "num": 139151,
+      "word": "李国庆称排队等小米SU7",
+      "onboard_time": 1711715178,
+      "rank": 39,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 139135,
       "num": 139135,
       "word": "LGD对战狼队",
@@ -14217,14 +14361,6 @@
       "onboard_time": 1711542438,
       "rank": 39,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 138019,
-      "num": 138019,
-      "word": "明制汉服",
-      "onboard_time": 1711711458,
-      "rank": 32,
-      "category": "时尚"
     },
     {
       "raw_hot": 137819,
@@ -14411,6 +14547,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 134674,
+      "num": 134674,
+      "word": "周深新专辑反深代词",
+      "onboard_time": 1711714039,
+      "rank": 40,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 134579,
       "num": 134579,
       "word": "矿物爱好者",
@@ -14595,12 +14739,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 131466,
-      "num": 131466,
-      "word": "金饰价格每克冲向700元",
-      "onboard_time": 1711711217,
-      "rank": 37,
-      "category": "财经"
+      "raw_hot": 131505,
+      "num": 131505,
+      "word": "全员加速中",
+      "onboard_time": 1711715297,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 131419,
@@ -14649,14 +14793,6 @@
       "onboard_time": 1711546520,
       "rank": 46,
       "category": "演出"
-    },
-    {
-      "raw_hot": 130413,
-      "num": 130413,
-      "word": "4月十二星座注意事项",
-      "onboard_time": 1711711938,
-      "rank": 38,
-      "category": "情感"
     },
     {
       "raw_hot": 130305,
@@ -15148,7 +15284,7 @@
     },
     {
       "raw_hot": 123253,
-      "num": 247291,
+      "num": 892498,
       "word": "有一种叫云南的生活",
       "onboard_time": 1711684279,
       "rank": 47,
@@ -15329,6 +15465,14 @@
       "onboard_time": 1711621937,
       "rank": 45,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 119406,
+      "num": 119406,
+      "word": "重生之我在霸总短剧当保姆",
+      "onboard_time": 1711712598,
+      "rank": 45,
+      "category": "幽默"
     },
     {
       "raw_hot": 119392,
@@ -16145,14 +16289,6 @@
       "onboard_time": 1711698378,
       "rank": 49,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 92632,
-      "num": 92632,
-      "word": "恋爱兄妹",
-      "onboard_time": 1711711998,
-      "rank": 49,
-      "category": "综艺"
     },
     {
       "raw_hot": 92266,
@@ -17452,6 +17588,9 @@
     },
     {
       "word": "#统筹推进科技创新和产业创新#"
+    },
+    {
+      "word": "#中共中央政治局3月29日召开会议#"
     }
   ]
 }
