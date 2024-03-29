@@ -1,6 +1,6 @@
 {
   "startTime": 1711210803824,
-  "endTime": 1711675892097,
+  "endTime": 1711677841771,
   "band_list": [
     {
       "raw_hot": 21250232,
@@ -755,6 +755,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1229133,
+      "num": 1229133,
+      "word": "谢霆锋给网红做红烧肉被当面评价菜一般",
+      "onboard_time": 1711673360,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1227403,
       "num": 1227403,
       "word": "李子柒回应何时回归",
@@ -1001,14 +1009,6 @@
       "onboard_time": 1711344798,
       "rank": 46,
       "category": "教育"
-    },
-    {
-      "raw_hot": 1071455,
-      "num": 1071455,
-      "word": "谢霆锋给网红做红烧肉被当面评价菜一般",
-      "onboard_time": 1711673360,
-      "rank": 10,
-      "category": "艺人"
     },
     {
       "raw_hot": 1055577,
@@ -1931,6 +1931,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 721917,
+      "num": 480498,
+      "word": "小米汽车向员工发放F码",
+      "onboard_time": 1711675579,
+      "rank": 30,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 721785,
       "num": 721785,
       "word": "马识途去世",
@@ -2601,6 +2609,14 @@
       "onboard_time": 1711369520,
       "rank": 44,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 601857,
+      "num": 601857,
+      "word": "181男生喊话雷军配件已齐就缺SU7了",
+      "onboard_time": 1711675579,
+      "rank": 23,
+      "category": "汽车"
     },
     {
       "raw_hot": 601427,
@@ -3537,6 +3553,14 @@
       "onboard_time": 1711500498,
       "rank": 8,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 492557,
+      "num": 492557,
+      "word": "人民日报评樊振东身份证号被恶意传播",
+      "onboard_time": 1711675998,
+      "rank": 9,
+      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 490953,
@@ -4987,14 +5011,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 358441,
-      "num": 241015,
-      "word": "小米汽车向员工发放F码",
-      "onboard_time": 1711675579,
-      "rank": 30,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 357361,
       "num": 357361,
       "word": "王一博的脸比杯子都小",
@@ -5907,6 +5923,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 297386,
+      "num": 297386,
+      "word": "春菜贵族香椿价格跌至每斤40元",
+      "onboard_time": 1711677258,
+      "rank": 22,
+      "category": "美食"
+    },
+    {
       "raw_hot": 295413,
       "num": 295413,
       "word": "CROCS 王俊凯",
@@ -5937,14 +5961,6 @@
       "onboard_time": 1711512562,
       "rank": 25,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 294521,
-      "num": 294521,
-      "word": "181男生喊话雷军配件已齐就缺SU7了",
-      "onboard_time": 1711675579,
-      "rank": 23,
-      "category": "汽车"
     },
     {
       "raw_hot": 294121,
@@ -6971,6 +6987,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 249847,
+      "num": 249847,
+      "word": "为什么enfp是e中最i的人",
+      "onboard_time": 1711674139,
+      "rank": 36,
+      "category": "情感"
+    },
+    {
       "raw_hot": 249688,
       "num": 249688,
       "word": "五哈瞒着鹿晗请来安叔",
@@ -7403,6 +7427,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 236160,
+      "num": 236160,
+      "word": "胡夏工作室严正声明",
+      "onboard_time": 1711675518,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 235875,
       "num": 235875,
       "word": "摘下戴了390天的伊丽莎白",
@@ -7793,14 +7825,6 @@
       "onboard_time": 1711417337,
       "rank": 29,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 226220,
-      "num": 226220,
-      "word": "为什么enfp是e中最i的人",
-      "onboard_time": 1711674139,
-      "rank": 36,
-      "category": "情感"
     },
     {
       "raw_hot": 226163,
@@ -8211,14 +8235,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 214639,
-      "num": 214639,
-      "word": "胡夏工作室严正声明",
-      "onboard_time": 1711675518,
-      "rank": 40,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 214376,
       "num": 214376,
       "word": "韩国化妆棉塌房",
@@ -8561,6 +8577,14 @@
       "onboard_time": 1711462639,
       "rank": 49,
       "category": "情感"
+    },
+    {
+      "raw_hot": 205636,
+      "num": 205636,
+      "word": "19岁唐氏女孩变脸绝技惊艳众人",
+      "onboard_time": 1711677498,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 205335,
@@ -9747,6 +9771,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 189386,
+      "num": 189386,
+      "word": "严浩翔到东北了",
+      "onboard_time": 1711676598,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 189376,
       "num": 189376,
       "word": "MOKA 迷路姬",
@@ -9785,6 +9817,14 @@
       "onboard_time": 1711337118,
       "rank": 33,
       "category": "军事"
+    },
+    {
+      "raw_hot": 188710,
+      "num": 188710,
+      "word": "做完手术不代表近视治愈了",
+      "onboard_time": 1711677798,
+      "rank": 36,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 188689,
@@ -9865,6 +9905,14 @@
       "onboard_time": 1711293021,
       "rank": 40,
       "category": "情感"
+    },
+    {
+      "raw_hot": 187666,
+      "num": 187666,
+      "word": "雷军称顶配版是吐血价",
+      "onboard_time": 1711677557,
+      "rank": 37,
+      "category": "汽车"
     },
     {
       "raw_hot": 187608,
@@ -10851,6 +10899,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 169264,
+      "num": 169264,
+      "word": "小米汽车一晚收到1亿元定金",
+      "onboard_time": 1711677678,
+      "rank": 41,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 169068,
       "num": 169068,
       "word": "杨子回应直播事件6人被刑拘",
@@ -11009,6 +11065,14 @@
       "onboard_time": 1711339759,
       "rank": 42,
       "category": "演出"
+    },
+    {
+      "raw_hot": 166616,
+      "num": 166616,
+      "word": "水逆来了 重灾区星座要小心",
+      "onboard_time": 1711676420,
+      "rank": 43,
+      "category": "情感"
     },
     {
       "raw_hot": 166388,
@@ -11995,6 +12059,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 152995,
+      "num": 152995,
+      "word": "开封王婆说爱情没有门当户对",
+      "onboard_time": 1711676780,
+      "rank": 44,
+      "category": "网红"
+    },
+    {
       "raw_hot": 152912,
       "num": 152912,
       "word": "Somi推出个人彩妆品牌",
@@ -12649,6 +12721,14 @@
       "onboard_time": 1711542619,
       "rank": 48,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 144498,
+      "num": 144498,
+      "word": "肖战发表获奖感言",
+      "onboard_time": 1711677798,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 144154,
@@ -14427,6 +14507,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 105313,
+      "num": 140307,
+      "word": "浙大学霸20门课程满绩还整理151份笔记共享",
+      "onboard_time": 1711676478,
+      "rank": 49,
+      "category": "教育"
+    },
+    {
       "raw_hot": 104590,
       "num": 104590,
       "word": "卡琳娜 全知读者视角",
@@ -14569,6 +14657,14 @@
       "onboard_time": 1711578252,
       "rank": 44,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 95833,
+      "num": 192934,
+      "word": "军营版东北麻辣烫申请出战",
+      "onboard_time": 1711676900,
+      "rank": 33,
+      "category": "美食"
     },
     {
       "raw_hot": 95280,
