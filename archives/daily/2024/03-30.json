@@ -1,6 +1,6 @@
 {
   "startTime": 1711729335311,
-  "endTime": 1711754192625,
+  "endTime": 1711755254166,
   "band_list": [
     {
       "raw_hot": 969670,
@@ -59,11 +59,19 @@
       "category": "电影"
     },
     {
-      "raw_hot": 567611,
-      "num": 567611,
+      "raw_hot": 603876,
+      "num": 603876,
       "word": "男生在工位上养了一整株月季",
       "onboard_time": 1711733593,
       "rank": 15,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 556414,
+      "num": 556414,
+      "word": "女生带回一件染血校服学校补发一套",
+      "onboard_time": 1711753393,
+      "rank": 13,
       "category": "社会新闻"
     },
     {
@@ -81,6 +89,22 @@
       "onboard_time": 1711706298,
       "rank": 20,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 460802,
+      "num": 171391,
+      "word": "35岁是男性生育力拐点",
+      "onboard_time": 1711754475,
+      "rank": 11,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 401265,
+      "num": 401265,
+      "word": "李一桐 结婚结不过来咯",
+      "onboard_time": 1711753333,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 370388,
@@ -107,12 +131,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 326831,
-      "num": 158468,
-      "word": "李一桐 结婚结不过来咯",
-      "onboard_time": 1711753333,
-      "rank": 11,
-      "category": "艺人"
+      "raw_hot": 326026,
+      "num": 326026,
+      "word": "罗永浩称小米汽车很可能上演良币驱逐劣币",
+      "onboard_time": 1711716139,
+      "rank": 18,
+      "category": "汽车"
     },
     {
       "raw_hot": 317401,
@@ -147,14 +171,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 298032,
-      "num": 298032,
-      "word": "罗永浩称小米汽车很可能上演良币驱逐劣币",
-      "onboard_time": 1711716139,
-      "rank": 18,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 284583,
       "num": 91244,
       "word": "钟南山称当前无需对X疾病过于恐慌",
@@ -187,6 +203,14 @@
       "category": "社会新闻,健康医疗"
     },
     {
+      "raw_hot": 220291,
+      "num": 164398,
+      "word": "小米汽车回应SU7大量订单被转让",
+      "onboard_time": 1711733833,
+      "rank": 31,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 208152,
       "num": 196739,
       "word": "朋友圈就能看出应届生的offer质量",
@@ -209,6 +233,14 @@
       "onboard_time": 1711717698,
       "rank": 22,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 194915,
+      "num": 194915,
+      "word": "林允 怎敌她千娇百媚",
+      "onboard_time": 1711753333,
+      "rank": 8,
+      "category": "剧集"
     },
     {
       "raw_hot": 189467,
@@ -235,30 +267,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 160355,
-      "num": 160355,
-      "word": "林允 怎敌她千娇百媚",
-      "onboard_time": 1711753333,
-      "rank": 8,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 158328,
-      "num": 158328,
-      "word": "小米汽车回应SU7大量订单被转让",
-      "onboard_time": 1711733833,
-      "rank": 31,
-      "category": "汽车"
-    },
-    {
-      "raw_hot": 155712,
-      "num": 155712,
-      "word": "女生带回一件染血校服学校补发一套",
-      "onboard_time": 1711753393,
-      "rank": 13,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 154981,
       "num": 154981,
       "word": "文韬高端玩家卡点反杀",
@@ -273,6 +281,14 @@
       "onboard_time": 1711729637,
       "rank": 31,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 151978,
+      "num": 113764,
+      "word": "丈夫给娃取名太奇葩妻子气成面瘫",
+      "onboard_time": 1711740611,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 151164,
@@ -363,14 +379,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 120466,
-      "num": 93715,
-      "word": "丈夫给娃取名太奇葩妻子气成面瘫",
-      "onboard_time": 1711740611,
-      "rank": 47,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 116431,
       "num": 134723,
       "word": "王阳好会说",
@@ -419,6 +427,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 91164,
+      "num": 91164,
+      "word": "一口价黄金每克或超2000元",
+      "onboard_time": 1711743971,
+      "rank": 39,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 90309,
+      "num": 90309,
+      "word": "苗苗领娃探班郑恺",
+      "onboard_time": 1711754836,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 89694,
       "num": 134670,
       "word": "小米SU7价格",
@@ -451,20 +475,28 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 84192,
-      "num": 84192,
-      "word": "一口价黄金每克或超2000元",
-      "onboard_time": 1711743971,
-      "rank": 39,
-      "category": "财经"
-    },
-    {
       "raw_hot": 83973,
       "num": 134642,
       "word": "小米汽车被曝出现多起退定投诉",
       "onboard_time": 1711700179,
       "rank": 46,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 76796,
+      "num": 76796,
+      "word": "曹县新款马面裙走起路来波光粼粼",
+      "onboard_time": 1711754714,
+      "rank": 26,
+      "category": "时尚"
+    },
+    {
+      "raw_hot": 73980,
+      "num": 73980,
+      "word": "王昱珩推荐张徐涵予为脑王",
+      "onboard_time": 1711753274,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 72856,
@@ -507,20 +539,20 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 61733,
-      "num": 61733,
-      "word": "王昱珩推荐张徐涵予为脑王",
-      "onboard_time": 1711753274,
-      "rank": 27,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 60241,
       "num": 60241,
       "word": "马思纯把酒店当家布置",
       "onboard_time": 1711732574,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 52800,
+      "num": 52800,
+      "word": "与凤行凤凰引路",
+      "onboard_time": 1711754415,
+      "rank": 37,
+      "category": "剧集"
     },
     {
       "raw_hot": 48498,
@@ -539,16 +571,16 @@
       "category": "教育,社会新闻"
     },
     {
-      "raw_hot": 46190,
-      "num": 46190,
+      "raw_hot": 46843,
+      "num": 46843,
       "word": "微博之夜北京卫视",
       "onboard_time": 1711751772,
       "rank": 37,
       "category": "综艺"
     },
     {
-      "raw_hot": 41474,
-      "num": 41474,
+      "raw_hot": 43564,
+      "num": 46705,
       "word": "周深二专",
       "onboard_time": 1711745711,
       "rank": 41,
@@ -571,8 +603,8 @@
       "category": "健康医疗,运动健身"
     },
     {
-      "raw_hot": 30646,
-      "num": 56284,
+      "raw_hot": 32591,
+      "num": 73397,
       "word": "我国计划2030前后完成火星采样返回",
       "onboard_time": 1711746910,
       "rank": 49,
@@ -595,19 +627,19 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 18052,
+      "num": 563771,
+      "word": "有一种叫云南的生活",
+      "onboard_time": 1711684279,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 15742,
       "num": 20215,
       "word": "生动源自行动",
       "onboard_time": 1711745831,
       "rank": 49,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 15381,
-      "num": 430666,
-      "word": "有一种叫云南的生活",
-      "onboard_time": 1711684279,
-      "rank": 2,
       "category": "社会新闻"
     },
     {
