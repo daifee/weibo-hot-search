@@ -1,6 +1,6 @@
 {
   "startTime": 1709223640991,
-  "endTime": 1711719243684,
+  "endTime": 1711721737925,
   "band_list": [
     {
       "raw_hot": 21250232,
@@ -7347,6 +7347,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 947196,
+      "num": 439851,
+      "word": "没想到跳绳这么瘦肚子",
+      "onboard_time": 1711717698,
+      "rank": 24,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 945969,
       "num": 945969,
       "word": "春色寄情人成年人的恋爱",
@@ -7356,7 +7364,7 @@
     },
     {
       "raw_hot": 944928,
-      "num": 281746,
+      "num": 294861,
       "word": "阴道侧切的缝合",
       "onboard_time": 1711706298,
       "rank": 20,
@@ -7409,6 +7417,14 @@
       "onboard_time": 1709607992,
       "rank": 18,
       "category": "情感"
+    },
+    {
+      "raw_hot": 937143,
+      "num": 937143,
+      "word": "罗永浩称小米汽车很可能上演良币驱逐劣币",
+      "onboard_time": 1711716139,
+      "rank": 17,
+      "category": "汽车"
     },
     {
       "raw_hot": 936535,
@@ -8547,6 +8563,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 857799,
+      "num": 437384,
+      "word": "相亲强奸案当事男子改判无罪获赔57万",
+      "onboard_time": 1711720279,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 857726,
       "num": 857726,
       "word": "杨紫张予曦撞衫",
@@ -9201,14 +9225,6 @@
       "onboard_time": 1711357219,
       "rank": 12,
       "category": "国内时政,军事"
-    },
-    {
-      "raw_hot": 811846,
-      "num": 811846,
-      "word": "罗永浩称小米汽车很可能上演良币驱逐劣币",
-      "onboard_time": 1711716139,
-      "rank": 17,
-      "category": "汽车"
     },
     {
       "raw_hot": 810838,
@@ -15107,6 +15123,14 @@
       "category": "网红,社会新闻"
     },
     {
+      "raw_hot": 587663,
+      "num": 587663,
+      "word": "解决网约车臭的方法找到了",
+      "onboard_time": 1711716078,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 587295,
       "num": 587295,
       "word": "经常用耳机的3个60原则",
@@ -17379,6 +17403,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 534373,
+      "num": 534373,
+      "word": "齐邦媛去世",
+      "onboard_time": 1711720938,
+      "rank": 6,
+      "category": "读书作家"
+    },
+    {
       "raw_hot": 534051,
       "num": 534051,
       "word": "饿了么免单",
@@ -18099,6 +18131,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 517099,
+      "num": 292688,
+      "word": "经常塞牙其实是牙齿在求救",
+      "onboard_time": 1711716861,
+      "rank": 21,
+      "category": "健康医疗,科学科普"
+    },
+    {
       "raw_hot": 516876,
       "num": 516876,
       "word": "刘学义方否认偷税漏税",
@@ -18193,14 +18233,6 @@
       "onboard_time": 1711634961,
       "rank": 30,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 514446,
-      "num": 236214,
-      "word": "经常塞牙其实是牙齿在求救",
-      "onboard_time": 1711716861,
-      "rank": 21,
-      "category": "健康医疗,科学科普"
     },
     {
       "raw_hot": 514180,
@@ -19041,6 +19073,14 @@
       "onboard_time": 1710674434,
       "rank": 15,
       "category": "体育"
+    },
+    {
+      "raw_hot": 498301,
+      "num": 498301,
+      "word": "凤囚凰或将翻拍",
+      "onboard_time": 1711720820,
+      "rank": 8,
+      "category": "剧集,读书作家"
     },
     {
       "raw_hot": 498236,
@@ -19945,14 +19985,6 @@
       "onboard_time": 1710815912,
       "rank": 12,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 480525,
-      "num": 480525,
-      "word": "解决网约车臭的方法找到了",
-      "onboard_time": 1711716078,
-      "rank": 29,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 480472,
@@ -21857,6 +21889,14 @@
       "onboard_time": 1711502897,
       "rank": 40,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 443000,
+      "num": 443000,
+      "word": "中消协提醒立即停用小林制药有关产品",
+      "onboard_time": 1711720938,
+      "rank": 9,
+      "category": "社会新闻,健康医疗"
     },
     {
       "raw_hot": 442883,
@@ -27083,14 +27123,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 356520,
-      "num": 356520,
-      "word": "没想到跳绳这么瘦肚子",
-      "onboard_time": 1711717698,
-      "rank": 24,
-      "category": "运动健身"
-    },
-    {
       "raw_hot": 356312,
       "num": 356312,
       "word": "60亿资金抄底药明康德",
@@ -27553,6 +27585,14 @@
       "onboard_time": 1710237152,
       "rank": 23,
       "category": "美食"
+    },
+    {
+      "raw_hot": 350107,
+      "num": 350107,
+      "word": "王阳好会说",
+      "onboard_time": 1711717577,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 349662,
@@ -28515,6 +28555,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 335877,
+      "num": 335877,
+      "word": "吴艳妮8秒06",
+      "onboard_time": 1711719919,
+      "rank": 14,
+      "category": "体育"
+    },
+    {
       "raw_hot": 335867,
       "num": 335867,
       "word": "GAI喊话王鹤棣",
@@ -28721,6 +28769,14 @@
       "onboard_time": 1711247538,
       "rank": 31,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 332871,
+      "num": 332871,
+      "word": "又有男团选秀了",
+      "onboard_time": 1711720400,
+      "rank": 16,
+      "category": "综艺"
     },
     {
       "raw_hot": 332861,
@@ -29241,6 +29297,14 @@
       "onboard_time": 1710625156,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 324884,
+      "num": 324884,
+      "word": "王曼昱比赛",
+      "onboard_time": 1711718598,
+      "rank": 17,
+      "category": "体育"
     },
     {
       "raw_hot": 324882,
@@ -33323,6 +33387,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 283429,
+      "num": 283429,
+      "word": "马龙vs林钟勋",
+      "onboard_time": 1711721180,
+      "rank": 22,
+      "category": "体育"
+    },
+    {
       "raw_hot": 283428,
       "num": 283428,
       "word": "豪士面包 种地吧",
@@ -36977,14 +37049,6 @@
       "onboard_time": 1711628541,
       "rank": 22,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 251471,
-      "num": 251471,
-      "word": "王曼昱比赛",
-      "onboard_time": 1711718598,
-      "rank": 17,
-      "category": "体育"
     },
     {
       "raw_hot": 251378,
@@ -41819,14 +41883,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 222069,
-      "num": 222069,
-      "word": "王阳好会说",
-      "onboard_time": 1711717577,
-      "rank": 28,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 222060,
       "num": 222060,
       "word": "无法接受自己已经30了",
@@ -44499,6 +44555,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 209732,
+      "num": 209732,
+      "word": "鞠婧祎转头甩发",
+      "onboard_time": 1711720040,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 209728,
       "num": 209728,
       "word": "高校连放7天春假鼓励学生去赏花恋爱",
@@ -44977,6 +45041,14 @@
       "onboard_time": 1709797471,
       "rank": 30,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 207865,
+      "num": 207865,
+      "word": "雷军说会开小米SU7上班",
+      "onboard_time": 1711718719,
+      "rank": 34,
+      "category": "汽车"
     },
     {
       "raw_hot": 207855,
@@ -47529,6 +47601,14 @@
       "onboard_time": 1711089620,
       "rank": 28,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 199549,
+      "num": 199549,
+      "word": "裴珠泫今年将solo出道",
+      "onboard_time": 1711721360,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 199535,
@@ -54721,6 +54801,14 @@
       "onboard_time": 1711595898,
       "rank": 48,
       "category": "电影"
+    },
+    {
+      "raw_hot": 176354,
+      "num": 176354,
+      "word": "小米汽车手机支架",
+      "onboard_time": 1711720759,
+      "rank": 33,
+      "category": "汽车"
     },
     {
       "raw_hot": 176295,
@@ -63067,6 +63155,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 150595,
+      "num": 150595,
+      "word": "当教室来了一只萨摩耶",
+      "onboard_time": 1711719139,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 150503,
       "num": 150503,
       "word": "证监会集中发布四项两强两严政策文件",
@@ -65331,6 +65427,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 143868,
+      "num": 143868,
+      "word": "阿维塔12",
+      "onboard_time": 1711719558,
+      "rank": 40,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 143847,
       "num": 143847,
       "word": "张禹珍林钟勋退赛",
@@ -66139,6 +66243,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 141283,
+      "num": 141283,
+      "word": "今屿露娜太帅了",
+      "onboard_time": 1711720938,
+      "rank": 43,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 141163,
       "num": 141163,
       "word": "贵人鸟还没等来想要的贵人",
@@ -66513,14 +66625,6 @@
       "onboard_time": 1711001251,
       "rank": 36,
       "category": "美食"
-    },
-    {
-      "raw_hot": 140179,
-      "num": 140179,
-      "word": "雷军说会开小米SU7上班",
-      "onboard_time": 1711718719,
-      "rank": 34,
-      "category": "汽车"
     },
     {
       "raw_hot": 140148,
@@ -69563,6 +69667,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 130625,
+      "num": 130625,
+      "word": "美国连体双胞胎姐妹其中一人已婚",
+      "onboard_time": 1711721539,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 130609,
       "num": 130609,
       "word": "张婧仪鹅黄碎花裙",
@@ -71369,6 +71481,14 @@
       "onboard_time": 1709883449,
       "rank": 35,
       "category": "演出"
+    },
+    {
+      "raw_hot": 124705,
+      "num": 124705,
+      "word": "KSG战胜EDGM",
+      "onboard_time": 1711721719,
+      "rank": 48,
+      "category": "电竞"
     },
     {
       "raw_hot": 124679,
@@ -74697,14 +74817,6 @@
       "onboard_time": 1711709898,
       "rank": 47,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 111031,
-      "num": 111031,
-      "word": "当教室来了一只萨摩耶",
-      "onboard_time": 1711719139,
-      "rank": 48,
-      "category": "幽默"
     },
     {
       "raw_hot": 111021,
