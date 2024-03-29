@@ -1,0 +1,410 @@
+{
+  "runTime": 1711703818890,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1466012,
+        "num": 1466012,
+        "word": "女子花10元中681万结果彩票被洗得稀碎",
+        "onboard_time": 1711698198,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1233948,
+        "num": 1233948,
+        "word": "小米汽车被曝出现多起退定投诉",
+        "onboard_time": 1711700179,
+        "rank": 1,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 44566,
+        "num": 1193259,
+        "word": "重温经典频道满载回忆",
+        "onboard_time": 1711699819,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1160184,
+        "num": 1160184,
+        "word": "为卖淫女看病被判协助组织卖淫",
+        "onboard_time": 1711690999,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 683525,
+        "num": 683525,
+        "word": "水杯内一层滑滑的东西是什么",
+        "onboard_time": 1711698798,
+        "rank": 4,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 673727,
+        "num": 673727,
+        "word": "腿脚是人体的血糖仪",
+        "onboard_time": 1711697538,
+        "rank": 5,
+        "category": "科学科普,健康医疗"
+      },
+      {
+        "raw_hot": 641949,
+        "num": 641949,
+        "word": "小红书bug",
+        "onboard_time": 1711700358,
+        "rank": 6,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 545329,
+        "num": 545329,
+        "word": "小米回应无法退定金问题",
+        "onboard_time": 1711685899,
+        "rank": 7,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 540615,
+        "num": 540615,
+        "word": "赵丽颖进组在人间",
+        "onboard_time": 1711700539,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 375033,
+        "num": 375033,
+        "word": "唐嫣哽咽回应质疑",
+        "onboard_time": 1711689979,
+        "rank": 9,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 784567,
+        "num": 363540,
+        "word": "李惠利近照状态",
+        "onboard_time": 1711697658,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 415173,
+        "num": 355919,
+        "word": "雷军敲定小米定价只用了1小时",
+        "onboard_time": 1711699218,
+        "rank": 11,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 336297,
+        "num": 336297,
+        "word": "吴磊吃绿鸡蛋食物中毒",
+        "onboard_time": 1711703238,
+        "rank": 12,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 423606,
+        "num": 333760,
+        "word": "张杰谢娜叫赵丽颖的区别",
+        "onboard_time": 1711701858,
+        "rank": 13,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 301116,
+        "num": 301116,
+        "word": "90%的年轻人担心自己有病",
+        "onboard_time": 1711701798,
+        "rank": 14,
+        "category": "健康医疗,科学科普"
+      },
+      {
+        "raw_hot": 284496,
+        "num": 284496,
+        "word": "金价",
+        "onboard_time": 1711679177,
+        "rank": 15,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 242698,
+        "num": 242698,
+        "word": "乌高官被曝在办公室与多名女同事热吻",
+        "onboard_time": 1711692979,
+        "rank": 16,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 226084,
+        "num": 226084,
+        "word": "小米汽车退定",
+        "onboard_time": 1711700179,
+        "rank": 17,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 224831,
+        "num": 224831,
+        "word": "专家称买小米汽车不如买小米股票",
+        "onboard_time": 1711702936,
+        "rank": 18,
+        "category": "财经,汽车"
+      },
+      {
+        "raw_hot": 212270,
+        "num": 212270,
+        "word": "没钱的时候就喜欢看看公积金",
+        "onboard_time": 1711692078,
+        "rank": 19,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 529172,
+        "num": 212178,
+        "word": "考研1年收到3个亿",
+        "onboard_time": 1711703177,
+        "rank": 20,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 208688,
+        "num": 208688,
+        "word": "小米SU7订单被加价数千元转让",
+        "onboard_time": 1711695980,
+        "rank": 21,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 202245,
+        "num": 202245,
+        "word": "饿瘦跟运动瘦的区别",
+        "onboard_time": 1711693638,
+        "rank": 22,
+        "category": "运动健身,科学科普"
+      },
+      {
+        "raw_hot": 198915,
+        "num": 198915,
+        "word": "这是我的岛居然有赵丽颖",
+        "onboard_time": 1711702637,
+        "rank": 23,
+        "category": "艺人,剧集"
+      },
+      {
+        "raw_hot": 197941,
+        "num": 197941,
+        "word": "吴艳妮跑出8秒10",
+        "onboard_time": 1711697058,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 179673,
+        "num": 179673,
+        "word": "全员加速中全员喜提新职业",
+        "onboard_time": 1711698018,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 22898,
+        "num": 178996,
+        "word": "坐小火车穿越嘉阳油菜花5G矿山",
+        "onboard_time": 1711701260,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 178544,
+        "num": 178544,
+        "word": "共享员工火了",
+        "onboard_time": 1711702399,
+        "rank": 27,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 143480,
+        "num": 174517,
+        "word": "有些糖尿病是睡出来的",
+        "onboard_time": 1711693397,
+        "rank": 28,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 172947,
+        "num": 172947,
+        "word": "华为发布2023年年报",
+        "onboard_time": 1711703177,
+        "rank": 29,
+        "category": "数码,互联网"
+      },
+      {
+        "raw_hot": 215043,
+        "num": 171395,
+        "word": "在男朋友房间发现很多关于我的东西",
+        "onboard_time": 1711701978,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 164030,
+        "num": 164030,
+        "word": "冉莹颖邹市明分床睡三年了",
+        "onboard_time": 1711673959,
+        "rank": 31,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 159618,
+        "num": 159618,
+        "word": "花间令圆房了",
+        "onboard_time": 1711694240,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 159289,
+        "num": 159289,
+        "word": "唐嫣微信只有300多个联系人",
+        "onboard_time": 1711690278,
+        "rank": 33,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 153903,
+        "num": 153903,
+        "word": "蒋勤勤打吴磊屁股",
+        "onboard_time": 1711700718,
+        "rank": 34,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 152581,
+        "num": 152581,
+        "word": "在人间",
+        "onboard_time": 1711695798,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 152229,
+        "num": 152229,
+        "word": "华为2023年净利润870亿元",
+        "onboard_time": 1711702936,
+        "rank": 36,
+        "category": "财经,互联网"
+      },
+      {
+        "raw_hot": 140203,
+        "num": 140203,
+        "word": "原来散步才是最高级的纯爱",
+        "onboard_time": 1711695556,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 138988,
+        "num": 138988,
+        "word": "长城汽车每天入账5个亿",
+        "onboard_time": 1711700838,
+        "rank": 38,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 130931,
+        "num": 130931,
+        "word": "小米SU7评测",
+        "onboard_time": 1711703297,
+        "rank": 39,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 129634,
+        "num": 129634,
+        "word": "第一批去天水吃麻辣烫的后悔了吗",
+        "onboard_time": 1711703479,
+        "rank": 40,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 129491,
+        "num": 129491,
+        "word": "小米SU7价格",
+        "onboard_time": 1711627097,
+        "rank": 41,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 129378,
+        "num": 129378,
+        "word": "人们若不相爱 就会变成石头",
+        "onboard_time": 1711702159,
+        "rank": 42,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 125388,
+        "num": 125388,
+        "word": "李铁出庭为何刘海还在",
+        "onboard_time": 1711694779,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 124452,
+        "num": 124452,
+        "word": "在人间开通官微",
+        "onboard_time": 1711701738,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 124143,
+        "num": 124143,
+        "word": "白鹿变范丞丞拉杆箱挂件",
+        "onboard_time": 1711702818,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 122993,
+        "num": 122993,
+        "word": "秦海璐学王安宇拍照姿势",
+        "onboard_time": 1711701858,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 107647,
+        "num": 107647,
+        "word": "情商低的五大表现",
+        "onboard_time": 1711687281,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 101840,
+        "num": 101840,
+        "word": "新浪娱乐头像投票",
+        "onboard_time": 1711703719,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 100493,
+        "num": 100493,
+        "word": "2024MSI比赛场馆官宣",
+        "onboard_time": 1711699038,
+        "rank": 49,
+        "category": "电竞"
+      }
+    ],
+    "hotgov": {
+      "word": "#统筹推进科技创新和产业创新#"
+    }
+  }
+}

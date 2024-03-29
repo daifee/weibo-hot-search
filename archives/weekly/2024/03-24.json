@@ -1,6 +1,6 @@
 {
   "startTime": 1711210803824,
-  "endTime": 1711701261377,
+  "endTime": 1711703818890,
   "band_list": [
     {
       "raw_hot": 21250232,
@@ -555,6 +555,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 1466012,
+      "num": 1466012,
+      "word": "女子花10元中681万结果彩票被洗得稀碎",
+      "onboard_time": 1711698198,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1450947,
       "num": 1450947,
       "word": "陈铭的论文",
@@ -801,6 +809,14 @@
       "onboard_time": 1711267339,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1233948,
+      "num": 1233948,
+      "word": "小米汽车被曝出现多起退定投诉",
+      "onboard_time": 1711700179,
+      "rank": 12,
+      "category": "汽车"
     },
     {
       "raw_hot": 1229133,
@@ -1257,14 +1273,6 @@
       "onboard_time": 1711334540,
       "rank": 1,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 954834,
-      "num": 954834,
-      "word": "女子花10元中681万结果彩票被洗得稀碎",
-      "onboard_time": 1711698198,
-      "rank": 1,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 935085,
@@ -2164,7 +2172,7 @@
     },
     {
       "raw_hot": 691967,
-      "num": 372218,
+      "num": 683525,
       "word": "水杯内一层滑滑的东西是什么",
       "onboard_time": 1711698798,
       "rank": 11,
@@ -2531,6 +2539,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 641949,
+      "num": 641949,
+      "word": "小红书bug",
+      "onboard_time": 1711700358,
+      "rank": 26,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 640729,
       "num": 640729,
       "word": "向佐郭碧婷视频亲亲",
@@ -2609,14 +2625,6 @@
       "onboard_time": 1711584258,
       "rank": 4,
       "category": "教育"
-    },
-    {
-      "raw_hot": 630310,
-      "num": 362403,
-      "word": "小米汽车被曝出现多起退定投诉",
-      "onboard_time": 1711700179,
-      "rank": 12,
-      "category": "汽车"
     },
     {
       "raw_hot": 623763,
@@ -3259,6 +3267,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 540615,
+      "num": 540615,
+      "word": "赵丽颖进组在人间",
+      "onboard_time": 1711700539,
+      "rank": 8,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 540586,
       "num": 540586,
       "word": "叔圈天菜和娃娃菜",
@@ -3353,6 +3369,14 @@
       "onboard_time": 1711539377,
       "rank": 7,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 529172,
+      "num": 212178,
+      "word": "考研1年收到3个亿",
+      "onboard_time": 1711703177,
+      "rank": 20,
+      "category": "幽默"
     },
     {
       "raw_hot": 528167,
@@ -4243,14 +4267,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 448691,
-      "num": 448691,
-      "word": "小红书bug",
-      "onboard_time": 1711700358,
-      "rank": 26,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 447583,
       "num": 447583,
       "word": "南通有丧葬店下架纸钱冥币改卖鲜花",
@@ -4443,14 +4459,6 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 431608,
-      "num": 431608,
-      "word": "赵丽颖进组在人间",
-      "onboard_time": 1711700539,
-      "rank": 8,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 429903,
       "num": 429903,
       "word": "张元英转圈",
@@ -4529,6 +4537,14 @@
       "onboard_time": 1711271900,
       "rank": 22,
       "category": "演出"
+    },
+    {
+      "raw_hot": 423606,
+      "num": 333760,
+      "word": "张杰谢娜叫赵丽颖的区别",
+      "onboard_time": 1711701858,
+      "rank": 13,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 423565,
@@ -5635,6 +5651,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 336297,
+      "num": 336297,
+      "word": "吴磊吃绿鸡蛋食物中毒",
+      "onboard_time": 1711703238,
+      "rank": 12,
+      "category": "电影"
+    },
+    {
       "raw_hot": 336288,
       "num": 336288,
       "word": "只有黄明昊到了漠河",
@@ -6209,6 +6233,14 @@
       "onboard_time": 1711679598,
       "rank": 46,
       "category": "美食"
+    },
+    {
+      "raw_hot": 301116,
+      "num": 301116,
+      "word": "90%的年轻人担心自己有病",
+      "onboard_time": 1711701798,
+      "rank": 14,
+      "category": "健康医疗,科学科普"
     },
     {
       "raw_hot": 300899,
@@ -8403,6 +8435,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 224831,
+      "num": 224831,
+      "word": "专家称买小米汽车不如买小米股票",
+      "onboard_time": 1711702936,
+      "rank": 18,
+      "category": "财经,汽车"
+    },
+    {
       "raw_hot": 224728,
       "num": 224728,
       "word": "吴磊 女人当自强",
@@ -8801,6 +8841,14 @@
       "onboard_time": 1711691959,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 215043,
+      "num": 171395,
+      "word": "在男朋友房间发现很多关于我的东西",
+      "onboard_time": 1711701978,
+      "rank": 30,
+      "category": "情感"
     },
     {
       "raw_hot": 215020,
@@ -9705,6 +9753,14 @@
       "onboard_time": 1711640000,
       "rank": 47,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 198915,
+      "num": 198915,
+      "word": "这是我的岛居然有赵丽颖",
+      "onboard_time": 1711702637,
+      "rank": 23,
+      "category": "艺人,剧集"
     },
     {
       "raw_hot": 198910,
@@ -11051,6 +11107,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 178544,
+      "num": 178544,
+      "word": "共享员工火了",
+      "onboard_time": 1711702399,
+      "rank": 27,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 178484,
       "num": 178484,
       "word": "鞠婧祎夸刘学义吻技",
@@ -11369,6 +11433,14 @@
       "onboard_time": 1711591337,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 172947,
+      "num": 172947,
+      "word": "华为发布2023年年报",
+      "onboard_time": 1711703177,
+      "rank": 29,
+      "category": "数码,互联网"
     },
     {
       "raw_hot": 172900,
@@ -12731,6 +12803,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 153903,
+      "num": 153903,
+      "word": "蒋勤勤打吴磊屁股",
+      "onboard_time": 1711700718,
+      "rank": 31,
+      "category": "电影"
+    },
+    {
       "raw_hot": 153577,
       "num": 153577,
       "word": "湖人战胜灰熊",
@@ -12851,12 +12931,28 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 152581,
+      "num": 152581,
+      "word": "在人间",
+      "onboard_time": 1711695798,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 152418,
       "num": 152418,
       "word": "执笔",
       "onboard_time": 1711252939,
       "rank": 36,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 152229,
+      "num": 152229,
+      "word": "华为2023年净利润870亿元",
+      "onboard_time": 1711702936,
+      "rank": 36,
+      "category": "财经,互联网"
     },
     {
       "raw_hot": 152076,
@@ -12929,14 +13025,6 @@
       "onboard_time": 1711620978,
       "rank": 45,
       "category": "情感"
-    },
-    {
-      "raw_hot": 150959,
-      "num": 150959,
-      "word": "蒋勤勤打吴磊屁股",
-      "onboard_time": 1711700718,
-      "rank": 31,
-      "category": "电影"
     },
     {
       "raw_hot": 150946,
@@ -14243,6 +14331,14 @@
       "category": "网红,互联网"
     },
     {
+      "raw_hot": 130931,
+      "num": 130931,
+      "word": "小米SU7评测",
+      "onboard_time": 1711703297,
+      "rank": 39,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 130886,
       "num": 130886,
       "word": "胡锡进称希望A股跌破3000点是乍暖还寒",
@@ -14323,12 +14419,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 129634,
+      "num": 129634,
+      "word": "第一批去天水吃麻辣烫的后悔了吗",
+      "onboard_time": 1711703479,
+      "rank": 40,
+      "category": "美食"
+    },
+    {
       "raw_hot": 129531,
       "num": 159465,
       "word": "辽宁男篮vs浙江男篮",
       "onboard_time": 1711283180,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 129378,
+      "num": 129378,
+      "word": "人们若不相爱 就会变成石头",
+      "onboard_time": 1711702159,
+      "rank": 42,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 128967,
@@ -14659,6 +14771,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 124452,
+      "num": 124452,
+      "word": "在人间开通官微",
+      "onboard_time": 1711701738,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 124143,
+      "num": 124143,
+      "word": "白鹿变范丞丞拉杆箱挂件",
+      "onboard_time": 1711702818,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 123917,
       "num": 123917,
       "word": "才知道跷二郎腿会让脸变大",
@@ -14721,6 +14849,14 @@
       "onboard_time": 1711611678,
       "rank": 38,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 122993,
+      "num": 122993,
+      "word": "秦海璐学王安宇拍照姿势",
+      "onboard_time": 1711701858,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 122798,
@@ -15347,14 +15483,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 108829,
-      "num": 108829,
-      "word": "在人间",
-      "onboard_time": 1711695798,
-      "rank": 43,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 108290,
       "num": 108290,
       "word": "为何说狂犬病致死率高达99.99%",
@@ -15513,6 +15641,14 @@
       "onboard_time": 1711696219,
       "rank": 49,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 101840,
+      "num": 101840,
+      "word": "新浪娱乐头像投票",
+      "onboard_time": 1711703719,
+      "rank": 48,
+      "category": "艺人"
     },
     {
       "raw_hot": 100999,
@@ -16283,6 +16419,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 44566,
+      "num": 1193259,
+      "word": "重温经典频道满载回忆",
+      "onboard_time": 1711699819,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 44255,
       "num": 44255,
       "word": "琅琊榜剧组当年的精神状态",
@@ -16449,14 +16593,6 @@
       "onboard_time": 1711400650,
       "rank": 44,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 33219,
-      "num": 848301,
-      "word": "重温经典频道满载回忆",
-      "onboard_time": 1711699819,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 32953,
@@ -16689,6 +16825,14 @@
       "onboard_time": 1711315750,
       "rank": 49,
       "category": "美食"
+    },
+    {
+      "raw_hot": 22898,
+      "num": 178996,
+      "word": "坐小火车穿越嘉阳油菜花5G矿山",
+      "onboard_time": 1711701260,
+      "rank": 26,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 22500,
@@ -16929,6 +17073,9 @@
     },
     {
       "word": "#习近平颁发命令状并向晋衔的军官表示祝贺#"
+    },
+    {
+      "word": "#统筹推进科技创新和产业创新#"
     }
   ]
 }
