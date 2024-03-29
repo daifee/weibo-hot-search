@@ -1,6 +1,6 @@
 {
   "startTime": 1709223640991,
-  "endTime": 1711683285138,
+  "endTime": 1711686077612,
   "band_list": [
     {
       "raw_hot": 21250232,
@@ -3979,6 +3979,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1293524,
+      "num": 1293524,
+      "word": "研究生们请把脸皮读厚一点",
+      "onboard_time": 1711679717,
+      "rank": 4,
+      "category": "幽默,教育"
+    },
+    {
       "raw_hot": 1293350,
       "num": 1293350,
       "word": "钟睒睒之母郭瑾离世",
@@ -4929,14 +4937,6 @@
       "onboard_time": 1710223650,
       "rank": 1,
       "category": "体育"
-    },
-    {
-      "raw_hot": 1181797,
-      "num": 1181797,
-      "word": "研究生们请把脸皮读厚一点",
-      "onboard_time": 1711679717,
-      "rank": 4,
-      "category": "幽默,教育"
     },
     {
       "raw_hot": 1179535,
@@ -7489,6 +7489,14 @@
       "onboard_time": 1709683169,
       "rank": 11,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 921606,
+      "num": 921606,
+      "word": "米时捷",
+      "onboard_time": 1711682898,
+      "rank": 36,
+      "category": "汽车"
     },
     {
       "raw_hot": 921306,
@@ -12409,6 +12417,14 @@
       "onboard_time": 1709377593,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 670119,
+      "num": 467029,
+      "word": "小爱同学被雷军喊崩了",
+      "onboard_time": 1711682959,
+      "rank": 38,
+      "category": "汽车,互联网"
     },
     {
       "raw_hot": 669909,
@@ -20651,6 +20667,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 460319,
+      "num": 460319,
+      "word": "5人服用日本小林制药保健品后死亡",
+      "onboard_time": 1711683437,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 460030,
       "num": 301450,
       "word": "Rihanna印度富豪婚礼演唱",
@@ -26683,6 +26707,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 355425,
+      "num": 355425,
+      "word": "愚人节换头像",
+      "onboard_time": 1711684339,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 355184,
       "num": 355184,
       "word": "茶百道",
@@ -28281,6 +28313,14 @@
       "onboard_time": 1710385651,
       "rank": 23,
       "category": "情感"
+    },
+    {
+      "raw_hot": 332455,
+      "num": 314795,
+      "word": "李庚希 摇太阳不好看找我退票",
+      "onboard_time": 1711684938,
+      "rank": 21,
+      "category": "电影"
     },
     {
       "raw_hot": 332181,
@@ -31211,6 +31251,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 297595,
+      "num": 297595,
+      "word": "祁煜 海神大人",
+      "onboard_time": 1711685119,
+      "rank": 23,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 297560,
       "num": 297560,
       "word": "虹桥机场听到两个人的对话",
@@ -32211,6 +32259,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 288832,
+      "num": 288832,
+      "word": "与凤行开辟仙侠新赛道",
+      "onboard_time": 1711684759,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 288623,
       "num": 288623,
       "word": "肝脏好不好看这4个部位",
@@ -32849,6 +32905,14 @@
       "onboard_time": 1710985532,
       "rank": 20,
       "category": "情感"
+    },
+    {
+      "raw_hot": 282074,
+      "num": 235904,
+      "word": "雷军称发布会前1天还在修改汽车定价",
+      "onboard_time": 1711684218,
+      "rank": 30,
+      "category": "汽车"
     },
     {
       "raw_hot": 281908,
@@ -38747,6 +38811,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 235071,
+      "num": 235071,
+      "word": "执笔超点",
+      "onboard_time": 1711685718,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 235062,
       "num": 235062,
       "word": "顾茉莉 两瓶水泡了一壶茶",
@@ -39705,6 +39777,14 @@
       "onboard_time": 1709930535,
       "rank": 30,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 229218,
+      "num": 229218,
+      "word": "明日方舟音律联觉",
+      "onboard_time": 1711685601,
+      "rank": 32,
+      "category": "游戏"
     },
     {
       "raw_hot": 229209,
@@ -45043,6 +45123,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 204556,
+      "num": 204556,
+      "word": "夏之光费加罗封面",
+      "onboard_time": 1711685778,
+      "rank": 35,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 204533,
       "num": 204533,
       "word": "突然发现了infp的成功之路",
@@ -45145,6 +45233,14 @@
       "onboard_time": 1710316234,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 204211,
+      "num": 204211,
+      "word": "长期被打压容易反应慢",
+      "onboard_time": 1711685778,
+      "rank": 37,
+      "category": "情感"
     },
     {
       "raw_hot": 204191,
@@ -45785,6 +45881,14 @@
       "onboard_time": 1711340300,
       "rank": 43,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 202493,
+      "num": 202493,
+      "word": "张杰纠正年龄",
+      "onboard_time": 1711685838,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 202448,
@@ -48665,6 +48769,14 @@
       "onboard_time": 1709819252,
       "rank": 26,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 193717,
+      "num": 193717,
+      "word": "小米回应无法退定金问题",
+      "onboard_time": 1711685899,
+      "rank": 43,
+      "category": "汽车"
     },
     {
       "raw_hot": 193709,
@@ -52491,14 +52603,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 180962,
-      "num": 180962,
-      "word": "米时捷",
-      "onboard_time": 1711682898,
-      "rank": 36,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 180940,
       "num": 166403,
       "word": "金晨的皮肤状态",
@@ -53737,6 +53841,14 @@
       "onboard_time": 1709287113,
       "rank": 29,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 176185,
+      "num": 176185,
+      "word": "祁煜潮汐之神",
+      "onboard_time": 1711683499,
+      "rank": 44,
+      "category": "游戏"
     },
     {
       "raw_hot": 176164,
@@ -55281,14 +55393,6 @@
       "onboard_time": 1711454779,
       "rank": 40,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 170984,
-      "num": 170984,
-      "word": "小爱同学被雷军喊崩了",
-      "onboard_time": 1711682959,
-      "rank": 38,
-      "category": "汽车,互联网"
     },
     {
       "raw_hot": 170880,
@@ -67948,7 +68052,7 @@
     },
     {
       "raw_hot": 132003,
-      "num": 169681,
+      "num": 202232,
       "word": "雷军投资千余家科研公司",
       "onboard_time": 1711682599,
       "rank": 39,
@@ -70393,6 +70497,14 @@
       "onboard_time": 1709772634,
       "rank": 45,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 123253,
+      "num": 157621,
+      "word": "有一种叫云南的生活",
+      "onboard_time": 1709502134,
+      "rank": 48,
+      "category": "旅游"
     },
     {
       "raw_hot": 123193,
@@ -73283,6 +73395,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 110981,
+      "num": 157471,
+      "word": "万科郁亮称房地产市场超跌了",
+      "onboard_time": 1711683859,
+      "rank": 48,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 110968,
       "num": 110968,
       "word": "免费餐这事在猫圈传开了",
@@ -75041,6 +75161,14 @@
       "onboard_time": 1710285803,
       "rank": 32,
       "category": "财经"
+    },
+    {
+      "raw_hot": 99111,
+      "num": 946853,
+      "word": "春天把浪漫写在山水间",
+      "onboard_time": 1711684699,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 99070,
@@ -78163,6 +78291,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 57347,
+      "num": 204280,
+      "word": "比财富自由更难的是情绪自由",
+      "onboard_time": 1711683380,
+      "rank": 36,
+      "category": "情感"
+    },
+    {
       "raw_hot": 57316,
       "num": 57316,
       "word": "建议将网络科普纳入医生评职称考核",
@@ -79065,6 +79201,14 @@
       "onboard_time": 1709644293,
       "rank": 38,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 45507,
+      "num": 314995,
+      "word": "vivo引领折叠屏走向大众市场",
+      "onboard_time": 1711685059,
+      "rank": 20,
+      "category": "数码"
     },
     {
       "raw_hot": 45484,
@@ -80259,20 +80403,20 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 27407,
+      "num": 414987,
+      "word": "蛋仔派对皮蛋节",
+      "onboard_time": 1711684820,
+      "rank": 14,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 27261,
       "num": 27261,
       "word": "福州满记甜品即将闭店",
       "onboard_time": 1711485731,
       "rank": 41,
       "category": "美食,社会新闻"
-    },
-    {
-      "raw_hot": 27084,
-      "num": 33592,
-      "word": "有一种叫云南的生活",
-      "onboard_time": 1709502134,
-      "rank": 48,
-      "category": "旅游"
     },
     {
       "raw_hot": 26932,

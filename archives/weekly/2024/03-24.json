@@ -1,6 +1,6 @@
 {
   "startTime": 1711210803824,
-  "endTime": 1711683285138,
+  "endTime": 1711686077612,
   "band_list": [
     {
       "raw_hot": 21250232,
@@ -699,6 +699,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 1293524,
+      "num": 1293524,
+      "word": "研究生们请把脸皮读厚一点",
+      "onboard_time": 1711679717,
+      "rank": 4,
+      "category": "幽默,教育"
+    },
+    {
       "raw_hot": 1288357,
       "num": 1288357,
       "word": "任敏生图",
@@ -833,14 +841,6 @@
       "onboard_time": 1711193779,
       "rank": 0,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 1181797,
-      "num": 1181797,
-      "word": "研究生们请把脸皮读厚一点",
-      "onboard_time": 1711679717,
-      "rank": 4,
-      "category": "幽默,教育"
     },
     {
       "raw_hot": 1179042,
@@ -1273,6 +1273,14 @@
       "onboard_time": 1711616357,
       "rank": 4,
       "category": "情感"
+    },
+    {
+      "raw_hot": 921606,
+      "num": 921606,
+      "word": "米时捷",
+      "onboard_time": 1711682898,
+      "rank": 36,
+      "category": "汽车"
     },
     {
       "raw_hot": 917921,
@@ -2249,6 +2257,14 @@
       "onboard_time": 1711272679,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 670119,
+      "num": 467029,
+      "word": "小爱同学被雷军喊崩了",
+      "onboard_time": 1711682959,
+      "rank": 38,
+      "category": "汽车,互联网"
     },
     {
       "raw_hot": 669683,
@@ -3955,6 +3971,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 460319,
+      "num": 460319,
+      "word": "5人服用日本小林制药保健品后死亡",
+      "onboard_time": 1711683437,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 459334,
       "num": 459334,
       "word": "饼子不隔夜卖不干净送干净",
@@ -5139,6 +5163,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 355425,
+      "num": 355425,
+      "word": "愚人节换头像",
+      "onboard_time": 1711684339,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 355157,
       "num": 355157,
       "word": "ILLIT出道曲",
@@ -5441,6 +5473,14 @@
       "onboard_time": 1711637960,
       "rank": 31,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 332455,
+      "num": 314795,
+      "word": "李庚希 摇太阳不好看找我退票",
+      "onboard_time": 1711684938,
+      "rank": 21,
+      "category": "电影"
     },
     {
       "raw_hot": 332181,
@@ -5995,6 +6035,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 297595,
+      "num": 297595,
+      "word": "祁煜 海神大人",
+      "onboard_time": 1711685119,
+      "rank": 23,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 297503,
       "num": 297503,
       "word": "莫斯科恐袭嫌疑人被捕现场",
@@ -6203,6 +6251,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 288832,
+      "num": 288832,
+      "word": "与凤行开辟仙侠新赛道",
+      "onboard_time": 1711684759,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 288490,
       "num": 288490,
       "word": "花间令校园暴力",
@@ -6345,6 +6401,14 @@
       "onboard_time": 1711279219,
       "rank": 27,
       "category": "情感"
+    },
+    {
+      "raw_hot": 282074,
+      "num": 235904,
+      "word": "雷军称发布会前1天还在修改汽车定价",
+      "onboard_time": 1711684218,
+      "rank": 30,
+      "category": "汽车"
     },
     {
       "raw_hot": 281908,
@@ -7595,6 +7659,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 235071,
+      "num": 235071,
+      "word": "执笔超点",
+      "onboard_time": 1711685718,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 234848,
       "num": 234848,
       "word": "冰雹",
@@ -7873,6 +7945,14 @@
       "onboard_time": 1711627699,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 229218,
+      "num": 229218,
+      "word": "明日方舟音律联觉",
+      "onboard_time": 1711685601,
+      "rank": 32,
+      "category": "游戏"
     },
     {
       "raw_hot": 228732,
@@ -8787,6 +8867,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 204556,
+      "num": 204556,
+      "word": "夏之光费加罗封面",
+      "onboard_time": 1711685778,
+      "rank": 35,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 204533,
       "num": 204533,
       "word": "突然发现了infp的成功之路",
@@ -8825,6 +8913,14 @@
       "onboard_time": 1711409055,
       "rank": 37,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 204211,
+      "num": 204211,
+      "word": "长期被打压容易反应慢",
+      "onboard_time": 1711685778,
+      "rank": 37,
+      "category": "情感"
     },
     {
       "raw_hot": 204191,
@@ -8945,6 +9041,14 @@
       "onboard_time": 1711340300,
       "rank": 43,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 202493,
+      "num": 202493,
+      "word": "张杰纠正年龄",
+      "onboard_time": 1711685838,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 202448,
@@ -9539,6 +9643,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 194120,
+      "num": 194120,
+      "word": "未定事件簿",
+      "onboard_time": 1711683678,
+      "rank": 42,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 194104,
       "num": 194104,
       "word": "难哄",
@@ -9585,6 +9697,14 @@
       "onboard_time": 1711362318,
       "rank": 36,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 193717,
+      "num": 193717,
+      "word": "小米回应无法退定金问题",
+      "onboard_time": 1711685899,
+      "rank": 43,
+      "category": "汽车"
     },
     {
       "raw_hot": 193410,
@@ -10403,14 +10523,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 180962,
-      "num": 180962,
-      "word": "米时捷",
-      "onboard_time": 1711682898,
-      "rank": 36,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 180840,
       "num": 180840,
       "word": "水逆来了 重灾区星座要小心",
@@ -10675,6 +10787,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 176185,
+      "num": 176185,
+      "word": "祁煜潮汐之神",
+      "onboard_time": 1711683499,
+      "rank": 44,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 176129,
       "num": 176129,
       "word": "恋与深空运动陪伴",
@@ -10921,14 +11041,6 @@
       "onboard_time": 1711454779,
       "rank": 40,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 170984,
-      "num": 170984,
-      "word": "小爱同学被雷军喊崩了",
-      "onboard_time": 1711682959,
-      "rank": 38,
-      "category": "汽车,互联网"
     },
     {
       "raw_hot": 170857,
@@ -13556,7 +13668,7 @@
     },
     {
       "raw_hot": 132003,
-      "num": 169681,
+      "num": 202232,
       "word": "雷军投资千余家科研公司",
       "onboard_time": 1711682599,
       "rank": 39,
@@ -14033,6 +14145,14 @@
       "onboard_time": 1711282040,
       "rank": 46,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 123253,
+      "num": 157621,
+      "word": "有一种叫云南的生活",
+      "onboard_time": 1711684279,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 123101,
@@ -14523,6 +14643,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 110981,
+      "num": 157471,
+      "word": "万科郁亮称房地产市场超跌了",
+      "onboard_time": 1711683859,
+      "rank": 48,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 110957,
       "num": 110957,
       "word": "春季最狠减肥法 轻断食",
@@ -14817,6 +14945,14 @@
       "onboard_time": 1711510458,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 99111,
+      "num": 946853,
+      "word": "春天把浪漫写在山水间",
+      "onboard_time": 1711684699,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 99070,
@@ -15323,6 +15459,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 57347,
+      "num": 204280,
+      "word": "比财富自由更难的是情绪自由",
+      "onboard_time": 1711683380,
+      "rank": 36,
+      "category": "情感"
+    },
+    {
       "raw_hot": 56863,
       "num": 69885,
       "word": "天价彩礼何时休",
@@ -15473,6 +15617,14 @@
       "onboard_time": 1711559233,
       "rank": 38,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 45507,
+      "num": 314995,
+      "word": "vivo引领折叠屏走向大众市场",
+      "onboard_time": 1711685059,
+      "rank": 20,
+      "category": "数码"
     },
     {
       "raw_hot": 45459,
@@ -15769,6 +15921,14 @@
       "onboard_time": 1711650372,
       "rank": 47,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 27407,
+      "num": 414987,
+      "word": "蛋仔派对皮蛋节",
+      "onboard_time": 1711684820,
+      "rank": 14,
+      "category": "游戏"
     },
     {
       "raw_hot": 27261,
