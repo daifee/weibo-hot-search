@@ -1,6 +1,6 @@
 {
   "startTime": 1711210803824,
-  "endTime": 1711679657566,
+  "endTime": 1711682282384,
   "band_list": [
     {
       "raw_hot": 21250232,
@@ -177,6 +177,14 @@
       "onboard_time": 1711511419,
       "rank": 4,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 2289133,
+      "num": 2289133,
+      "word": "金价",
+      "onboard_time": 1711679177,
+      "rank": 23,
+      "category": "财经"
     },
     {
       "raw_hot": 2271459,
@@ -803,6 +811,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 1185612,
+      "num": 1185612,
+      "word": "19岁唐氏女孩变脸绝技惊艳众人",
+      "onboard_time": 1711677498,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1184414,
       "num": 1184414,
       "word": "秋瓷炫微博谁发的",
@@ -1156,7 +1172,7 @@
     },
     {
       "raw_hot": 982688,
-      "num": 480498,
+      "num": 755885,
       "word": "小米汽车向员工发放F码",
       "onboard_time": 1711675579,
       "rank": 30,
@@ -1185,14 +1201,6 @@
       "onboard_time": 1711351519,
       "rank": 29,
       "category": "教育"
-    },
-    {
-      "raw_hot": 966787,
-      "num": 966787,
-      "word": "19岁唐氏女孩变脸绝技惊艳众人",
-      "onboard_time": 1711677498,
-      "rank": 28,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 964527,
@@ -1313,6 +1321,14 @@
       "onboard_time": 1711289900,
       "rank": 5,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 900757,
+      "num": 900757,
+      "word": "研究生们请把脸皮读厚一点",
+      "onboard_time": 1711679717,
+      "rank": 4,
+      "category": "幽默,教育"
     },
     {
       "raw_hot": 898142,
@@ -1489,6 +1505,14 @@
       "onboard_time": 1711201521,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 826434,
+      "num": 826434,
+      "word": "张子枫胡先煦演夫妻",
+      "onboard_time": 1711679419,
+      "rank": 16,
+      "category": "电影"
     },
     {
       "raw_hot": 820040,
@@ -2908,7 +2932,7 @@
     },
     {
       "raw_hot": 554748,
-      "num": 487541,
+      "num": 488698,
       "word": "肛肠科医生最不希望你放弃的一项检查",
       "onboard_time": 1711674379,
       "rank": 30,
@@ -2993,6 +3017,14 @@
       "onboard_time": 1711509438,
       "rank": 40,
       "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 548916,
+      "num": 548916,
+      "word": "小米汽车一晚收到1亿元定金",
+      "onboard_time": 1711677678,
+      "rank": 41,
+      "category": "汽车"
     },
     {
       "raw_hot": 547459,
@@ -3305,6 +3337,14 @@
       "onboard_time": 1711340421,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 516296,
+      "num": 516296,
+      "word": "10部电影定档五一",
+      "onboard_time": 1711680378,
+      "rank": 11,
+      "category": "电影"
     },
     {
       "raw_hot": 515968,
@@ -3713,14 +3753,6 @@
       "onboard_time": 1711616838,
       "rank": 20,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 474939,
-      "num": 404865,
-      "word": "小米汽车一晚收到1亿元定金",
-      "onboard_time": 1711677678,
-      "rank": 41,
-      "category": "汽车"
     },
     {
       "raw_hot": 474900,
@@ -4699,6 +4731,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 388403,
+      "num": 388403,
+      "word": "原来朋友圈都是精心打造的",
+      "onboard_time": 1711678400,
+      "rank": 26,
+      "category": "情感"
+    },
+    {
       "raw_hot": 388325,
       "num": 388325,
       "word": "爬山9小时后的宋江",
@@ -5009,14 +5049,6 @@
       "onboard_time": 1711323738,
       "rank": 18,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 361437,
-      "num": 361437,
-      "word": "张子枫胡先煦演夫妻",
-      "onboard_time": 1711679419,
-      "rank": 16,
-      "category": "电影"
     },
     {
       "raw_hot": 360912,
@@ -5771,6 +5803,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 305684,
+      "num": 305684,
+      "word": "福宝5天后同姜爷爷回国",
+      "onboard_time": 1711680019,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 305221,
       "num": 241097,
       "word": "刘学义郑合惠子cp感",
@@ -5849,14 +5889,6 @@
       "onboard_time": 1711634061,
       "rank": 40,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 301744,
-      "num": 301744,
-      "word": "原来朋友圈都是精心打造的",
-      "onboard_time": 1711678400,
-      "rank": 26,
-      "category": "情感"
     },
     {
       "raw_hot": 300899,
@@ -6193,14 +6225,6 @@
       "onboard_time": 1711425560,
       "rank": 25,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 286953,
-      "num": 286953,
-      "word": "金价",
-      "onboard_time": 1711679177,
-      "rank": 23,
-      "category": "财经"
     },
     {
       "raw_hot": 286531,
@@ -6699,6 +6723,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 261650,
+      "num": 261650,
+      "word": "小时候经常吃现在看不到的水果",
+      "onboard_time": 1711679598,
+      "rank": 46,
+      "category": "美食"
+    },
+    {
       "raw_hot": 261210,
       "num": 261210,
       "word": "无锡马拉松",
@@ -7145,6 +7177,14 @@
       "onboard_time": 1711283059,
       "rank": 36,
       "category": "情感"
+    },
+    {
+      "raw_hot": 247409,
+      "num": 247409,
+      "word": "猫人代言人 肖战",
+      "onboard_time": 1711681938,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 247283,
@@ -8011,6 +8051,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 222735,
+      "num": 222735,
+      "word": "当下年轻人中国式租房观念",
+      "onboard_time": 1711681580,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 222658,
       "num": 204874,
       "word": "魏若来订了娃娃亲",
@@ -8267,6 +8315,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 217053,
+      "num": 217053,
+      "word": "米津玄师让宫崎骏感动落泪",
+      "onboard_time": 1711681399,
+      "rank": 32,
+      "category": "动漫,作品衍生"
+    },
+    {
       "raw_hot": 216783,
       "num": 216783,
       "word": "王一博王阳破万flag",
@@ -8307,6 +8363,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 214552,
+      "num": 214552,
+      "word": "雷军",
+      "onboard_time": 1711667236,
+      "rank": 22,
+      "category": "数码"
+    },
+    {
       "raw_hot": 214376,
       "num": 214376,
       "word": "韩国化妆棉塌房",
@@ -8345,6 +8409,14 @@
       "onboard_time": 1711620020,
       "rank": 27,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 213472,
+      "num": 213472,
+      "word": "承欢记预约",
+      "onboard_time": 1711680798,
+      "rank": 34,
+      "category": "剧集"
     },
     {
       "raw_hot": 213374,
@@ -8393,6 +8465,14 @@
       "onboard_time": 1711548921,
       "rank": 30,
       "category": "剧集,电竞"
+    },
+    {
+      "raw_hot": 211592,
+      "num": 211592,
+      "word": "开局精神小妹结局人民教师",
+      "onboard_time": 1711681100,
+      "rank": 35,
+      "category": "情感"
     },
     {
       "raw_hot": 211199,
@@ -9595,6 +9675,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 192558,
+      "num": 224607,
+      "word": "男子花500万帮1604名残疾人就业",
+      "onboard_time": 1711681697,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 192459,
       "num": 192459,
       "word": "TES战胜AL",
@@ -9737,14 +9825,6 @@
       "onboard_time": 1711277960,
       "rank": 33,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 190644,
-      "num": 190644,
-      "word": "雷军",
-      "onboard_time": 1711667236,
-      "rank": 22,
-      "category": "数码"
     },
     {
       "raw_hot": 190590,
@@ -12707,6 +12787,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 145058,
+      "num": 145058,
+      "word": "小米SU7值得买吗",
+      "onboard_time": 1711682180,
+      "rank": 43,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 144939,
       "num": 144939,
       "word": "孙铭阳3比1张本美和",
@@ -12827,12 +12915,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 143045,
-      "num": 143045,
-      "word": "小时候经常吃现在看不到的水果",
-      "onboard_time": 1711679598,
-      "rank": 46,
-      "category": "美食"
+      "raw_hot": 142845,
+      "num": 142845,
+      "word": "刚睡醒的潦草小狗",
+      "onboard_time": 1711681399,
+      "rank": 44,
+      "category": "幽默"
     },
     {
       "raw_hot": 142837,
@@ -13315,6 +13403,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 134399,
+      "num": 134399,
+      "word": "瑞奇与叮当时空跳转国行版",
+      "onboard_time": 1711681638,
+      "rank": 47,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 134273,
       "num": 134273,
       "word": "推荐可能认识的人或是一种冒犯",
@@ -13460,7 +13556,7 @@
     },
     {
       "raw_hot": 131394,
-      "num": 180060,
+      "num": 284429,
       "word": "东方甄选与辉同行分场直播",
       "onboard_time": 1711679118,
       "rank": 33,
@@ -14012,7 +14108,7 @@
     },
     {
       "raw_hot": 120217,
-      "num": 127990,
+      "num": 132944,
       "word": "穆雷绝杀凯尔特人",
       "onboard_time": 1711679598,
       "rank": 49,
@@ -14777,6 +14873,14 @@
       "onboard_time": 1711560792,
       "rank": 46,
       "category": "情感"
+    },
+    {
+      "raw_hot": 92266,
+      "num": 223045,
+      "word": "山东和新疆的紫色浪漫",
+      "onboard_time": 1711680439,
+      "rank": 29,
+      "category": "旅游"
     },
     {
       "raw_hot": 90188,
