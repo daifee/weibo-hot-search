@@ -1,0 +1,410 @@
+{
+  "runTime": 1711730213097,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 783485,
+        "num": 783485,
+        "word": "美国连体双胞胎姐妹其中一人已婚",
+        "onboard_time": 1711721539,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 720964,
+        "num": 720964,
+        "word": "经常塞牙其实是牙齿在求救",
+        "onboard_time": 1711716861,
+        "rank": 1,
+        "category": "健康医疗,科学科普"
+      },
+      {
+        "raw_hot": 4551,
+        "num": 706805,
+        "word": "2024中国网络媒体论坛",
+        "onboard_time": 1711628721,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 703878,
+        "num": 703878,
+        "word": "闲鱼现大量车主转卖旧车购买小米SU7",
+        "onboard_time": 1711714819,
+        "rank": 3,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 580346,
+        "num": 580346,
+        "word": "齐邦媛去世",
+        "onboard_time": 1711720938,
+        "rank": 4,
+        "category": "读书作家,作品衍生"
+      },
+      {
+        "raw_hot": 529384,
+        "num": 529384,
+        "word": "粉色哥斯拉",
+        "onboard_time": 1711724778,
+        "rank": 5,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 491985,
+        "num": 491985,
+        "word": "小米汽车回应",
+        "onboard_time": 1711722739,
+        "rank": 6,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 479967,
+        "num": 479967,
+        "word": "杨幂G社生图",
+        "onboard_time": 1711726219,
+        "rank": 7,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 367352,
+        "num": 367352,
+        "word": "将门毒后 新丽",
+        "onboard_time": 1711713617,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 275069,
+        "num": 295885,
+        "word": "为卖淫女看病被判协助组织卖淫",
+        "onboard_time": 1711690999,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 735914,
+        "num": 294560,
+        "word": "相亲强奸案当事男子改判无罪获赔57万",
+        "onboard_time": 1711720279,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 293142,
+        "num": 293142,
+        "word": "赵丽颖成毅友情",
+        "onboard_time": 1711723038,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 265737,
+        "num": 265737,
+        "word": "白鹿跳了Fate",
+        "onboard_time": 1711726580,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 257096,
+        "num": 257096,
+        "word": "韩沐伯 出家",
+        "onboard_time": 1711712237,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 254982,
+        "num": 254982,
+        "word": "小米汽车上市24小时大定88898台",
+        "onboard_time": 1711723218,
+        "rank": 14,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 236898,
+        "num": 236898,
+        "word": "郭昊文",
+        "onboard_time": 1711726039,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 226394,
+        "num": 226394,
+        "word": "罗永浩称小米汽车很可能上演良币驱逐劣币",
+        "onboard_time": 1711716139,
+        "rank": 16,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 204103,
+        "num": 204103,
+        "word": "拂容君沈璃 先婚后爱文学",
+        "onboard_time": 1711722920,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 198192,
+        "num": 198192,
+        "word": "中消协提醒立即停用小林制药有关产品",
+        "onboard_time": 1711720938,
+        "rank": 18,
+        "category": "社会新闻,健康医疗"
+      },
+      {
+        "raw_hot": 184343,
+        "num": 184343,
+        "word": "没想到跳绳这么瘦肚子",
+        "onboard_time": 1711717698,
+        "rank": 19,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 477753,
+        "num": 180069,
+        "word": "阴道侧切的缝合",
+        "onboard_time": 1711706298,
+        "rank": 20,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 173282,
+        "num": 173282,
+        "word": "朋友圈就能看出应届生的offer质量",
+        "onboard_time": 1711723699,
+        "rank": 21,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 171660,
+        "num": 171660,
+        "word": "金世佳福州",
+        "onboard_time": 1711727058,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 154981,
+        "num": 154981,
+        "word": "文韬高端玩家卡点反杀",
+        "onboard_time": 1711730116,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 136738,
+        "num": 136738,
+        "word": "凤囚凰或将翻拍",
+        "onboard_time": 1711720820,
+        "rank": 24,
+        "category": "剧集,读书作家"
+      },
+      {
+        "raw_hot": 130016,
+        "num": 130016,
+        "word": "又有男团选秀了",
+        "onboard_time": 1711720400,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 125830,
+        "num": 125830,
+        "word": "小时候被盗的QQ终于有救了",
+        "onboard_time": 1711710079,
+        "rank": 26,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 123444,
+        "num": 123444,
+        "word": "杨幂吻樱桃",
+        "onboard_time": 1711725198,
+        "rank": 27,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 112620,
+        "num": 121263,
+        "word": "老中医时隔30年收到亡父药方",
+        "onboard_time": 1711727598,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 103370,
+        "num": 120873,
+        "word": "解决网约车臭的方法找到了",
+        "onboard_time": 1711716078,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 120629,
+        "num": 120629,
+        "word": "鞠婧祎转头甩发",
+        "onboard_time": 1711720040,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 118545,
+        "num": 118545,
+        "word": "朱珠花裙子",
+        "onboard_time": 1711729637,
+        "rank": 31,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 122676,
+        "num": 116981,
+        "word": "梦天拍的杨幂",
+        "onboard_time": 1711728020,
+        "rank": 32,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 114370,
+        "num": 114370,
+        "word": "追风者",
+        "onboard_time": 1711726039,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 111798,
+        "num": 111798,
+        "word": "徐明浩文俊辉同时营业",
+        "onboard_time": 1711725859,
+        "rank": 34,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 109901,
+        "num": 109901,
+        "word": "韩沐伯否认出家",
+        "onboard_time": 1711726699,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 106890,
+        "num": 106890,
+        "word": "小米汽车收到退单及改配需求469例",
+        "onboard_time": 1711723879,
+        "rank": 36,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 104703,
+        "num": 104703,
+        "word": "我们一起摇太阳 眼泪小偷",
+        "onboard_time": 1711728738,
+        "rank": 37,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 101556,
+        "num": 101556,
+        "word": "裴珠泫今年将solo出道",
+        "onboard_time": 1711721360,
+        "rank": 38,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 74076,
+        "num": 101098,
+        "word": "我19岁了妈妈还在大学家长群回收到",
+        "onboard_time": 1711707438,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 101023,
+        "num": 101023,
+        "word": "王阳好会说",
+        "onboard_time": 1711717577,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 99797,
+        "num": 99797,
+        "word": "雷军回忆造车崩溃时刻",
+        "onboard_time": 1711725320,
+        "rank": 41,
+        "category": "汽车,互联网"
+      },
+      {
+        "raw_hot": 91244,
+        "num": 91244,
+        "word": "钟南山称当前无需对X疾病过于恐慌",
+        "onboard_time": 1711729878,
+        "rank": 42,
+        "category": "健康医疗,科学科普"
+      },
+      {
+        "raw_hot": 87836,
+        "num": 87836,
+        "word": "哥斯拉大战金刚2没有彩蛋",
+        "onboard_time": 1711729217,
+        "rank": 43,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 80406,
+        "num": 80406,
+        "word": "吴磊吃绿鸡蛋食物中毒",
+        "onboard_time": 1711703238,
+        "rank": 44,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 77952,
+        "num": 77952,
+        "word": "承欢记 杨紫站位",
+        "onboard_time": 1711704978,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 77940,
+        "num": 77940,
+        "word": "小米SU7价格",
+        "onboard_time": 1711627097,
+        "rank": 46,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 74387,
+        "num": 77937,
+        "word": "李沁叫王阳天菜哥哥",
+        "onboard_time": 1711722200,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 64238,
+        "num": 77935,
+        "word": "吴艳妮8秒06",
+        "onboard_time": 1711719919,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 57370,
+        "num": 77932,
+        "word": "马龙vs林钟勋",
+        "onboard_time": 1711721180,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#统筹推进科技创新和产业创新#"
+    }
+  }
+}
