@@ -1,6 +1,6 @@
 {
   "startTime": 1711729335311,
-  "endTime": 1711740830662,
+  "endTime": 1711743543223,
   "band_list": [
     {
       "raw_hot": 969670,
@@ -491,6 +491,14 @@
       "category": "健康医疗,运动健身"
     },
     {
+      "raw_hot": 34217,
+      "num": 22397,
+      "word": "丈夫给娃取名太奇葩妻子气成面瘫",
+      "onboard_time": 1711740611,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 25116,
       "num": 29356,
       "word": "执笔直播",
@@ -507,12 +515,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 16273,
-      "num": 21974,
-      "word": "丈夫给娃取名太奇葩妻子气成面瘫",
-      "onboard_time": 1711740611,
+      "raw_hot": 13284,
+      "num": 16223,
+      "word": "与凤行",
+      "onboard_time": 1711716498,
       "rank": 47,
-      "category": "社会新闻"
+      "category": "剧集"
     },
     {
       "raw_hot": 10833,
