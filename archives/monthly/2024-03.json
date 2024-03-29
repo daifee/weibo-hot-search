@@ -1,6 +1,6 @@
 {
   "startTime": 1709223640991,
-  "endTime": 1711739697572,
+  "endTime": 1711740830662,
   "band_list": [
     {
       "raw_hot": 21250232,
@@ -81411,6 +81411,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 39719,
+      "num": 39719,
+      "word": "申有娜转圈",
+      "onboard_time": 1711738871,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 39603,
       "num": 353087,
       "word": "方太如何解决开敞式厨房痛点",
@@ -81473,14 +81481,6 @@
       "onboard_time": 1710631643,
       "rank": 41,
       "category": "体育"
-    },
-    {
-      "raw_hot": 38610,
-      "num": 38610,
-      "word": "申有娜转圈",
-      "onboard_time": 1711738871,
-      "rank": 16,
-      "category": "艺人"
     },
     {
       "raw_hot": 38599,
@@ -83057,6 +83057,14 @@
       "onboard_time": 1710879617,
       "rank": 43,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 16273,
+      "num": 21974,
+      "word": "丈夫给娃取名太奇葩妻子气成面瘫",
+      "onboard_time": 1711740611,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 16232,
