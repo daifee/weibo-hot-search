@@ -1,6 +1,6 @@
 {
   "startTime": 1711210803824,
-  "endTime": 1711677841771,
+  "endTime": 1711678963120,
   "band_list": [
     {
       "raw_hot": 21250232,
@@ -1435,6 +1435,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 844705,
+      "num": 480498,
+      "word": "小米汽车向员工发放F码",
+      "onboard_time": 1711675579,
+      "rank": 30,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 836575,
       "num": 262233,
       "word": "经常喝牛奶或增加这两种癌症风险",
@@ -1931,14 +1939,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 721917,
-      "num": 480498,
-      "word": "小米汽车向员工发放F码",
-      "onboard_time": 1711675579,
-      "rank": 30,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 721785,
       "num": 721785,
       "word": "马识途去世",
@@ -2049,6 +2049,14 @@
       "onboard_time": 1711503318,
       "rank": 4,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 693407,
+      "num": 693407,
+      "word": "19岁唐氏女孩变脸绝技惊艳众人",
+      "onboard_time": 1711677498,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 689134,
@@ -2297,6 +2305,14 @@
       "onboard_time": 1711548858,
       "rank": 37,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 658369,
+      "num": 658369,
+      "word": "人民日报评樊振东身份证号被恶意传播",
+      "onboard_time": 1711675998,
+      "rank": 9,
+      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 656372,
@@ -3553,14 +3569,6 @@
       "onboard_time": 1711500498,
       "rank": 8,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 492557,
-      "num": 492557,
-      "word": "人民日报评樊振东身份证号被恶意传播",
-      "onboard_time": 1711675998,
-      "rank": 9,
-      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 490953,
@@ -5003,6 +5011,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 360488,
+      "num": 360488,
+      "word": "小米汽车一晚收到1亿元定金",
+      "onboard_time": 1711677678,
+      "rank": 41,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 359691,
       "num": 359691,
       "word": "张子枫工作室维权声明",
@@ -6035,6 +6051,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 291212,
+      "num": 291212,
+      "word": "做完手术不代表近视治愈了",
+      "onboard_time": 1711677798,
+      "rank": 36,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 290979,
       "num": 290979,
       "word": "限量版行李箱被摔破损吉祥航空只赔500",
@@ -6280,6 +6304,14 @@
       "word": "李想",
       "onboard_time": 1711635502,
       "rank": 42,
+      "category": "汽车"
+    },
+    {
+      "raw_hot": 279316,
+      "num": 279316,
+      "word": "雷军称顶配版是吐血价",
+      "onboard_time": 1711677557,
+      "rank": 37,
       "category": "汽车"
     },
     {
@@ -7179,6 +7211,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 244384,
+      "num": 244384,
+      "word": "原来朋友圈都是精心打造的",
+      "onboard_time": 1711678400,
+      "rank": 26,
+      "category": "情感"
+    },
+    {
       "raw_hot": 243946,
       "num": 243946,
       "word": "种地吧郁金香秒售罄",
@@ -7753,6 +7793,14 @@
       "onboard_time": 1711627699,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 228732,
+      "num": 228732,
+      "word": "小米汽车概念股集体大涨",
+      "onboard_time": 1711677858,
+      "rank": 28,
+      "category": "财经,汽车"
     },
     {
       "raw_hot": 228265,
@@ -8579,14 +8627,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 205636,
-      "num": 205636,
-      "word": "19岁唐氏女孩变脸绝技惊艳众人",
-      "onboard_time": 1711677498,
-      "rank": 28,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 205335,
       "num": 205335,
       "word": "金泰妍回归不打歌的原因",
@@ -8697,6 +8737,14 @@
       "onboard_time": 1711613418,
       "rank": 35,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 203935,
+      "num": 203935,
+      "word": "胡歌打电话给三十年后的自己",
+      "onboard_time": 1711678159,
+      "rank": 31,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 203815,
@@ -9819,14 +9867,6 @@
       "category": "军事"
     },
     {
-      "raw_hot": 188710,
-      "num": 188710,
-      "word": "做完手术不代表近视治愈了",
-      "onboard_time": 1711677798,
-      "rank": 36,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 188689,
       "num": 188689,
       "word": "NCTDREAM新MV",
@@ -9905,14 +9945,6 @@
       "onboard_time": 1711293021,
       "rank": 40,
       "category": "情感"
-    },
-    {
-      "raw_hot": 187666,
-      "num": 187666,
-      "word": "雷军称顶配版是吐血价",
-      "onboard_time": 1711677557,
-      "rank": 37,
-      "category": "汽车"
     },
     {
       "raw_hot": 187608,
@@ -10265,6 +10297,14 @@
       "onboard_time": 1711516759,
       "rank": 28,
       "category": "体育"
+    },
+    {
+      "raw_hot": 180840,
+      "num": 180840,
+      "word": "水逆来了 重灾区星座要小心",
+      "onboard_time": 1711676420,
+      "rank": 43,
+      "category": "情感"
     },
     {
       "raw_hot": 180717,
@@ -10899,14 +10939,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 169264,
-      "num": 169264,
-      "word": "小米汽车一晚收到1亿元定金",
-      "onboard_time": 1711677678,
-      "rank": 41,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 169068,
       "num": 169068,
       "word": "杨子回应直播事件6人被刑拘",
@@ -11065,14 +11097,6 @@
       "onboard_time": 1711339759,
       "rank": 42,
       "category": "演出"
-    },
-    {
-      "raw_hot": 166616,
-      "num": 166616,
-      "word": "水逆来了 重灾区星座要小心",
-      "onboard_time": 1711676420,
-      "rank": 43,
-      "category": "情感"
     },
     {
       "raw_hot": 166388,
@@ -11305,6 +11329,14 @@
       "onboard_time": 1711595417,
       "rank": 42,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 162939,
+      "num": 162939,
+      "word": "肖战发表获奖感言",
+      "onboard_time": 1711677798,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 162862,
@@ -12723,14 +12755,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 144498,
-      "num": 144498,
-      "word": "肖战发表获奖感言",
-      "onboard_time": 1711677798,
-      "rank": 47,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 144154,
       "num": 144154,
       "word": "你嗜睡可能真的不能赖地磁暴",
@@ -13497,6 +13521,14 @@
       "onboard_time": 1711434437,
       "rank": 43,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 128953,
+      "num": 128953,
+      "word": "这5个因素会损伤生育力",
+      "onboard_time": 1711678278,
+      "rank": 47,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 128658,
