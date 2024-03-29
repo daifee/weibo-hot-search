@@ -1,6 +1,6 @@
 {
   "startTime": 1709223640991,
-  "endTime": 1711700465527,
+  "endTime": 1711701261377,
   "band_list": [
     {
       "raw_hot": 21250232,
@@ -3900,7 +3900,7 @@
     },
     {
       "raw_hot": 1312068,
-      "num": 360789,
+      "num": 381629,
       "word": "李惠利近照状态",
       "onboard_time": 1711697658,
       "rank": 10,
@@ -7187,6 +7187,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 954834,
+      "num": 954834,
+      "word": "女子花10元中681万结果彩票被洗得稀碎",
+      "onboard_time": 1711698198,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 954686,
       "num": 954686,
       "word": "国人平均睡眠时长6.75小时",
@@ -8601,14 +8609,6 @@
       "onboard_time": 1709520808,
       "rank": 12,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 849680,
-      "num": 849680,
-      "word": "女子花10元中681万结果彩票被洗得稀碎",
-      "onboard_time": 1711698198,
-      "rank": 1,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 849301,
@@ -10339,6 +10339,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 754301,
+      "num": 754301,
+      "word": "腿脚是人体的血糖仪",
+      "onboard_time": 1711697538,
+      "rank": 28,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 754239,
       "num": 754239,
       "word": "结婚10年育三子妻子报警称遭丈夫强奸",
@@ -11921,6 +11929,14 @@
       "onboard_time": 1709299953,
       "rank": 41,
       "category": "美食,综艺"
+    },
+    {
+      "raw_hot": 691967,
+      "num": 372218,
+      "word": "水杯内一层滑滑的东西是什么",
+      "onboard_time": 1711698798,
+      "rank": 11,
+      "category": "幽默"
     },
     {
       "raw_hot": 691658,
@@ -13745,6 +13761,14 @@
       "onboard_time": 1710082413,
       "rank": 6,
       "category": "电影"
+    },
+    {
+      "raw_hot": 630310,
+      "num": 362403,
+      "word": "小米汽车被曝出现多起退定投诉",
+      "onboard_time": 1711700179,
+      "rank": 12,
+      "category": "汽车"
     },
     {
       "raw_hot": 629177,
@@ -15915,14 +15939,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 563394,
-      "num": 563394,
-      "word": "腿脚是人体的血糖仪",
-      "onboard_time": 1711697538,
-      "rank": 28,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 563125,
       "num": 200182,
       "word": "外交部回应巴基斯坦炸弹袭击",
@@ -17529,6 +17545,14 @@
       "onboard_time": 1711375461,
       "rank": 30,
       "category": "美食"
+    },
+    {
+      "raw_hot": 526574,
+      "num": 357636,
+      "word": "雷军敲定小米定价只用了1小时",
+      "onboard_time": 1711699218,
+      "rank": 13,
+      "category": "汽车"
     },
     {
       "raw_hot": 526480,
@@ -19249,14 +19273,6 @@
       "onboard_time": 1710245253,
       "rank": 16,
       "category": "电影"
-    },
-    {
-      "raw_hot": 489425,
-      "num": 359511,
-      "word": "水杯内一层滑滑的东西是什么",
-      "onboard_time": 1711698798,
-      "rank": 11,
-      "category": "幽默"
     },
     {
       "raw_hot": 489228,
@@ -21387,6 +21403,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 448691,
+      "num": 448691,
+      "word": "小红书bug",
+      "onboard_time": 1711700358,
+      "rank": 26,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 448548,
       "num": 448548,
       "word": "上官芷五集换了十三套衣服",
@@ -22369,6 +22393,14 @@
       "onboard_time": 1711639940,
       "rank": 43,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 431608,
+      "num": 431608,
+      "word": "赵丽颖进组在人间",
+      "onboard_time": 1711700539,
+      "rank": 8,
+      "category": "剧集"
     },
     {
       "raw_hot": 431490,
@@ -25331,14 +25363,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 379358,
-      "num": 359142,
-      "word": "小米汽车被曝出现多起退定投诉",
-      "onboard_time": 1711700179,
-      "rank": 12,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 379206,
       "num": 379206,
       "word": "papi酱 别人度假vs我度假",
@@ -26368,14 +26392,6 @@
       "word": "军儿 交个朋友",
       "onboard_time": 1711630822,
       "rank": 23,
-      "category": "汽车"
-    },
-    {
-      "raw_hot": 364724,
-      "num": 357636,
-      "word": "雷军敲定小米定价只用了1小时",
-      "onboard_time": 1711699218,
-      "rank": 13,
       "category": "汽车"
     },
     {
@@ -29889,6 +29905,14 @@
       "onboard_time": 1711078041,
       "rank": 29,
       "category": "体育"
+    },
+    {
+      "raw_hot": 314717,
+      "num": 314717,
+      "word": "小米汽车退定",
+      "onboard_time": 1711700179,
+      "rank": 19,
+      "category": "汽车"
     },
     {
       "raw_hot": 314619,
@@ -37105,14 +37129,6 @@
       "onboard_time": 1710213929,
       "rank": 31,
       "category": "美食"
-    },
-    {
-      "raw_hot": 248215,
-      "num": 248215,
-      "word": "小米汽车退定",
-      "onboard_time": 1711700179,
-      "rank": 19,
-      "category": "汽车"
     },
     {
       "raw_hot": 248174,
@@ -51787,6 +51803,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 185487,
+      "num": 162239,
+      "word": "消费者称遭遇小米汽车误锁单",
+      "onboard_time": 1711699638,
+      "rank": 31,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 185455,
       "num": 185455,
       "word": "王者荣耀战队星元计划",
@@ -55033,14 +55057,6 @@
       "onboard_time": 1710373228,
       "rank": 36,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 173629,
-      "num": 173629,
-      "word": "小红书bug",
-      "onboard_time": 1711700358,
-      "rank": 26,
-      "category": "互联网"
     },
     {
       "raw_hot": 173599,
@@ -58355,14 +58371,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 162239,
-      "num": 162239,
-      "word": "消费者称遭遇小米汽车误锁单",
-      "onboard_time": 1711699638,
-      "rank": 31,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 162231,
       "num": 209990,
       "word": "新基金只募集到26元还是员工自购",
@@ -58648,6 +58656,14 @@
       "word": "雷军称SU7是50万内最好开的轿车",
       "onboard_time": 1711506559,
       "rank": 33,
+      "category": "汽车"
+    },
+    {
+      "raw_hot": 161422,
+      "num": 161422,
+      "word": "长城汽车每天入账5个亿",
+      "onboard_time": 1711700838,
+      "rank": 28,
       "category": "汽车"
     },
     {
@@ -62288,6 +62304,14 @@
       "word": "沙丘2 字幕翻译",
       "onboard_time": 1710077969,
       "rank": 40,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 150959,
+      "num": 150959,
+      "word": "蒋勤勤打吴磊屁股",
+      "onboard_time": 1711700718,
+      "rank": 31,
       "category": "电影"
     },
     {
@@ -67345,6 +67369,14 @@
       "onboard_time": 1709349570,
       "rank": 37,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 135577,
+      "num": 135577,
+      "word": "满堂音乐节",
+      "onboard_time": 1711700179,
+      "rank": 41,
+      "category": "演出"
     },
     {
       "raw_hot": 135570,
@@ -73203,14 +73235,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 114061,
-      "num": 114061,
-      "word": "满堂音乐节",
-      "onboard_time": 1711700179,
-      "rank": 41,
-      "category": "演出"
-    },
-    {
       "raw_hot": 114012,
       "num": 114012,
       "word": "大学生曾经都是高中生",
@@ -74611,6 +74635,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 107581,
+      "num": 107581,
+      "word": "上班的26个好处",
+      "onboard_time": 1711700179,
+      "rank": 47,
+      "category": "情感"
+    },
+    {
       "raw_hot": 107462,
       "num": 107462,
       "word": "杨幂下车神图",
@@ -75625,14 +75657,6 @@
       "onboard_time": 1710028643,
       "rank": 44,
       "category": "体育"
-    },
-    {
-      "raw_hot": 99959,
-      "num": 99959,
-      "word": "上班的26个好处",
-      "onboard_time": 1711700179,
-      "rank": 47,
-      "category": "情感"
     },
     {
       "raw_hot": 99927,
@@ -80611,6 +80635,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 33219,
+      "num": 848301,
+      "word": "重温经典频道满载回忆",
+      "onboard_time": 1711699819,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 33030,
       "num": 1094086,
       "word": "播种春天播撒希望",
@@ -81329,14 +81361,6 @@
       "onboard_time": 1711101617,
       "rank": 14,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 22581,
-      "num": 586149,
-      "word": "重温经典频道满载回忆",
-      "onboard_time": 1711699819,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 22500,

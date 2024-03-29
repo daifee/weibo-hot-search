@@ -1,6 +1,6 @@
 {
   "startTime": 1711642899962,
-  "endTime": 1711700465527,
+  "endTime": 1711701261377,
   "band_list": [
     {
       "raw_hot": 6224451,
@@ -84,7 +84,7 @@
     },
     {
       "raw_hot": 1312068,
-      "num": 360789,
+      "num": 381629,
       "word": "李惠利近照状态",
       "onboard_time": 1711697658,
       "rank": 10,
@@ -155,20 +155,20 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 954834,
+      "num": 954834,
+      "word": "女子花10元中681万结果彩票被洗得稀碎",
+      "onboard_time": 1711698198,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 875548,
       "num": 875548,
       "word": "陈震小米SU7测评",
       "onboard_time": 1711672520,
       "rank": 6,
       "category": "汽车,网红"
-    },
-    {
-      "raw_hot": 849680,
-      "num": 849680,
-      "word": "女子花10元中681万结果彩票被洗得稀碎",
-      "onboard_time": 1711698198,
-      "rank": 1,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 837882,
@@ -211,6 +211,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 754301,
+      "num": 754301,
+      "word": "腿脚是人体的血糖仪",
+      "onboard_time": 1711697538,
+      "rank": 28,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 738879,
       "num": 738879,
       "word": "猫人代言人 肖战",
@@ -225,6 +233,14 @@
       "onboard_time": 1711644495,
       "rank": 16,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 691967,
+      "num": 372218,
+      "word": "水杯内一层滑滑的东西是什么",
+      "onboard_time": 1711698798,
+      "rank": 11,
+      "category": "幽默"
     },
     {
       "raw_hot": 672801,
@@ -249,6 +265,14 @@
       "onboard_time": 1711683437,
       "rank": 12,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 630310,
+      "num": 362403,
+      "word": "小米汽车被曝出现多起退定投诉",
+      "onboard_time": 1711700179,
+      "rank": 12,
+      "category": "汽车"
     },
     {
       "raw_hot": 601857,
@@ -289,14 +313,6 @@
       "onboard_time": 1711695980,
       "rank": 24,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 563394,
-      "num": 563394,
-      "word": "腿脚是人体的血糖仪",
-      "onboard_time": 1711697538,
-      "rank": 28,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 558154,
@@ -355,6 +371,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 526574,
+      "num": 357636,
+      "word": "雷军敲定小米定价只用了1小时",
+      "onboard_time": 1711699218,
+      "rank": 13,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 515891,
       "num": 515891,
       "word": "小米汽车",
@@ -377,14 +401,6 @@
       "onboard_time": 1711645574,
       "rank": 48,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 489425,
-      "num": 359511,
-      "word": "水杯内一层滑滑的东西是什么",
-      "onboard_time": 1711698798,
-      "rank": 11,
-      "category": "幽默"
     },
     {
       "raw_hot": 486074,
@@ -419,6 +435,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 448691,
+      "num": 448691,
+      "word": "小红书bug",
+      "onboard_time": 1711700358,
+      "rank": 26,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 440106,
       "num": 440106,
       "word": "内啡肽才是减肥高级模式",
@@ -433,6 +457,14 @@
       "onboard_time": 1711639940,
       "rank": 15,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 431608,
+      "num": 431608,
+      "word": "赵丽颖进组在人间",
+      "onboard_time": 1711700539,
+      "rank": 8,
+      "category": "剧集"
     },
     {
       "raw_hot": 430705,
@@ -563,14 +595,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 379358,
-      "num": 359142,
-      "word": "小米汽车被曝出现多起退定投诉",
-      "onboard_time": 1711700179,
-      "rank": 12,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 370996,
       "num": 336906,
       "word": "小灰灰第一次立耳",
@@ -585,14 +609,6 @@
       "onboard_time": 1711615999,
       "rank": 20,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 364724,
-      "num": 357636,
-      "word": "雷军敲定小米定价只用了1小时",
-      "onboard_time": 1711699218,
-      "rank": 13,
-      "category": "汽车"
     },
     {
       "raw_hot": 361615,
@@ -681,6 +697,14 @@
       "onboard_time": 1711633760,
       "rank": 23,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 314717,
+      "num": 314717,
+      "word": "小米汽车退定",
+      "onboard_time": 1711700179,
+      "rank": 19,
+      "category": "汽车"
     },
     {
       "raw_hot": 314601,
@@ -889,14 +913,6 @@
       "onboard_time": 1711685778,
       "rank": 35,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 248215,
-      "num": 248215,
-      "word": "小米汽车退定",
-      "onboard_time": 1711700179,
-      "rank": 19,
-      "category": "汽车"
     },
     {
       "raw_hot": 246307,
@@ -1219,6 +1235,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 185487,
+      "num": 162239,
+      "word": "消费者称遭遇小米汽车误锁单",
+      "onboard_time": 1711699638,
+      "rank": 31,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 183319,
       "num": 576863,
       "word": "女子遭丈夫家暴后死亡",
@@ -1273,14 +1297,6 @@
       "onboard_time": 1711638021,
       "rank": 33,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 173629,
-      "num": 173629,
-      "word": "小红书bug",
-      "onboard_time": 1711700358,
-      "rank": 26,
-      "category": "互联网"
     },
     {
       "raw_hot": 173465,
@@ -1387,11 +1403,11 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 162239,
-      "num": 162239,
-      "word": "消费者称遭遇小米汽车误锁单",
-      "onboard_time": 1711699638,
-      "rank": 31,
+      "raw_hot": 161422,
+      "num": 161422,
+      "word": "长城汽车每天入账5个亿",
+      "onboard_time": 1711700838,
+      "rank": 28,
       "category": "汽车"
     },
     {
@@ -1449,6 +1465,14 @@
       "onboard_time": 1711676780,
       "rank": 44,
       "category": "网红"
+    },
+    {
+      "raw_hot": 150959,
+      "num": 150959,
+      "word": "蒋勤勤打吴磊屁股",
+      "onboard_time": 1711700718,
+      "rank": 31,
+      "category": "电影"
     },
     {
       "raw_hot": 148624,
@@ -1529,6 +1553,14 @@
       "onboard_time": 1711675758,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 135577,
+      "num": 135577,
+      "word": "满堂音乐节",
+      "onboard_time": 1711700179,
+      "rank": 41,
+      "category": "演出"
     },
     {
       "raw_hot": 134525,
@@ -1675,20 +1707,20 @@
       "category": "电影"
     },
     {
+      "raw_hot": 117614,
+      "num": 117614,
+      "word": "林俊杰福州",
+      "onboard_time": 1711699698,
+      "rank": 46,
+      "category": "演出"
+    },
+    {
       "raw_hot": 115285,
       "num": 115285,
       "word": "王星越吴磊 暴雪时分有续集",
       "onboard_time": 1711663271,
       "rank": 43,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 114061,
-      "num": 114061,
-      "word": "满堂音乐节",
-      "onboard_time": 1711700179,
-      "rank": 41,
-      "category": "演出"
     },
     {
       "raw_hot": 110981,
@@ -1731,12 +1763,12 @@
       "category": "科学科普,健康医疗"
     },
     {
-      "raw_hot": 106011,
-      "num": 106011,
-      "word": "林俊杰福州",
-      "onboard_time": 1711699698,
-      "rank": 46,
-      "category": "演出"
+      "raw_hot": 107581,
+      "num": 107581,
+      "word": "上班的26个好处",
+      "onboard_time": 1711700179,
+      "rank": 47,
+      "category": "情感"
     },
     {
       "raw_hot": 105313,
@@ -1761,14 +1793,6 @@
       "onboard_time": 1711680559,
       "rank": 49,
       "category": "财经"
-    },
-    {
-      "raw_hot": 99959,
-      "num": 99959,
-      "word": "上班的26个好处",
-      "onboard_time": 1711700179,
-      "rank": 47,
-      "category": "情感"
     },
     {
       "raw_hot": 95833,
@@ -1915,6 +1939,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 33219,
+      "num": 848301,
+      "word": "重温经典频道满载回忆",
+      "onboard_time": 1711699819,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 27930,
       "num": 27930,
       "word": "久哲心寒",
@@ -1936,14 +1968,6 @@
       "word": "中使馆回应5中国公民巴基斯坦遇袭",
       "onboard_time": 1711658170,
       "rank": 38,
-      "category": "国内时政"
-    },
-    {
-      "raw_hot": 22581,
-      "num": 586149,
-      "word": "重温经典频道满载回忆",
-      "onboard_time": 1711699819,
-      "rank": 2,
       "category": "国内时政"
     },
     {
