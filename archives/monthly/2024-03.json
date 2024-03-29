@@ -1,6 +1,6 @@
 {
   "startTime": 1709223640991,
-  "endTime": 1711743543223,
+  "endTime": 1711744463823,
   "band_list": [
     {
       "raw_hot": 21250232,
@@ -81763,20 +81763,20 @@
       "category": "社会新闻,互联网"
     },
     {
+      "raw_hot": 34348,
+      "num": 22397,
+      "word": "丈夫给娃取名太奇葩妻子气成面瘫",
+      "onboard_time": 1711740611,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 34322,
       "num": 27425,
       "word": "港星李焯宁44岁状态",
       "onboard_time": 1709410217,
       "rank": 30,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 34217,
-      "num": 22397,
-      "word": "丈夫给娃取名太奇葩妻子气成面瘫",
-      "onboard_time": 1711740611,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 34093,
@@ -83121,6 +83121,14 @@
       "onboard_time": 1709318718,
       "rank": 46,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 15330,
+      "num": 15330,
+      "word": "一口价黄金每克或超2000元",
+      "onboard_time": 1711743971,
+      "rank": 39,
+      "category": "财经"
     },
     {
       "raw_hot": 15279,

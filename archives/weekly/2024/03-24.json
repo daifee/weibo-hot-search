@@ -1,6 +1,6 @@
 {
   "startTime": 1711210803824,
-  "endTime": 1711743543223,
+  "endTime": 1711744463823,
   "band_list": [
     {
       "raw_hot": 21250232,
@@ -17699,7 +17699,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 34217,
+      "raw_hot": 34348,
       "num": 22397,
       "word": "丈夫给娃取名太奇葩妻子气成面瘫",
       "onboard_time": 1711740611,
@@ -18097,6 +18097,14 @@
       "onboard_time": 1711560852,
       "rank": 44,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 15330,
+      "num": 15330,
+      "word": "一口价黄金每克或超2000元",
+      "onboard_time": 1711743971,
+      "rank": 39,
+      "category": "财经"
     },
     {
       "raw_hot": 15279,
