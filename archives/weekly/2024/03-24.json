@@ -1,6 +1,6 @@
 {
   "startTime": 1711210803824,
-  "endTime": 1711697646298,
+  "endTime": 1711700465527,
   "band_list": [
     {
       "raw_hot": 21250232,
@@ -705,6 +705,14 @@
       "onboard_time": 1711254380,
       "rank": 13,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1312068,
+      "num": 360789,
+      "word": "李惠利近照状态",
+      "onboard_time": 1711697658,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 1311082,
@@ -1473,6 +1481,14 @@
       "onboard_time": 1711622179,
       "rank": 25,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 849680,
+      "num": 849680,
+      "word": "女子花10元中681万结果彩票被洗得稀碎",
+      "onboard_time": 1711698198,
+      "rank": 1,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 848636,
@@ -2907,6 +2923,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 570948,
+      "num": 570948,
+      "word": "小米SU7订单被加价数千元转让",
+      "onboard_time": 1711695980,
+      "rank": 24,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 570409,
       "num": 570409,
       "word": "小米订单",
@@ -2953,6 +2977,14 @@
       "onboard_time": 1711420939,
       "rank": 18,
       "category": "财经"
+    },
+    {
+      "raw_hot": 563394,
+      "num": 563394,
+      "word": "腿脚是人体的血糖仪",
+      "onboard_time": 1711697538,
+      "rank": 28,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 563125,
@@ -3739,6 +3771,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 489425,
+      "num": 359511,
+      "word": "水杯内一层滑滑的东西是什么",
+      "onboard_time": 1711698798,
+      "rank": 11,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 488754,
       "num": 488754,
       "word": "白敬亭桑延湿发",
@@ -3953,14 +3993,6 @@
       "onboard_time": 1711203021,
       "rank": 8,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 467613,
-      "num": 362101,
-      "word": "小米SU7订单被加价数千元转让",
-      "onboard_time": 1711695980,
-      "rank": 24,
-      "category": "汽车"
     },
     {
       "raw_hot": 467386,
@@ -4804,7 +4836,7 @@
     },
     {
       "raw_hot": 393790,
-      "num": 200917,
+      "num": 246097,
       "word": "饿瘦跟运动瘦的区别",
       "onboard_time": 1711693638,
       "rank": 21,
@@ -5035,6 +5067,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 379358,
+      "num": 359142,
+      "word": "小米汽车被曝出现多起退定投诉",
+      "onboard_time": 1711700179,
+      "rank": 12,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 379206,
       "num": 379206,
       "word": "papi酱 别人度假vs我度假",
@@ -5203,6 +5243,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 364724,
+      "num": 357636,
+      "word": "雷军敲定小米定价只用了1小时",
+      "onboard_time": 1711699218,
+      "rank": 13,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 364544,
       "num": 364544,
       "word": "王一博醉酒戏是即兴发挥",
@@ -5233,6 +5281,14 @@
       "onboard_time": 1711323738,
       "rank": 18,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 361615,
+      "num": 357336,
+      "word": "吴艳妮跑出8秒10",
+      "onboard_time": 1711697058,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 360912,
@@ -5681,6 +5737,14 @@
       "onboard_time": 1711555937,
       "rank": 30,
       "category": "美食"
+    },
+    {
+      "raw_hot": 328325,
+      "num": 328325,
+      "word": "全员加速中全员喜提新职业",
+      "onboard_time": 1711698018,
+      "rank": 16,
+      "category": "综艺"
     },
     {
       "raw_hot": 328322,
@@ -7291,6 +7355,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 252266,
+      "num": 252266,
+      "word": "樊振东3比0弗朗西斯卡",
+      "onboard_time": 1711698977,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
       "raw_hot": 252039,
       "num": 252039,
       "word": "何悯鸿向四美道歉",
@@ -7449,6 +7521,14 @@
       "onboard_time": 1711288340,
       "rank": 30,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 248215,
+      "num": 248215,
+      "word": "小米汽车退定",
+      "onboard_time": 1711700179,
+      "rank": 19,
+      "category": "汽车"
     },
     {
       "raw_hot": 248089,
@@ -8036,7 +8116,7 @@
     },
     {
       "raw_hot": 232135,
-      "num": 178210,
+      "num": 231333,
       "word": "原来散步才是最高级的纯爱",
       "onboard_time": 1711695556,
       "rank": 25,
@@ -9683,14 +9763,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 197974,
-      "num": 141113,
-      "word": "吴艳妮跑出8秒10",
-      "onboard_time": 1711697058,
-      "rank": 30,
-      "category": "体育"
-    },
-    {
       "raw_hot": 197892,
       "num": 197892,
       "word": "华西医院又完成一项全球首例",
@@ -11211,6 +11283,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 173629,
+      "num": 173629,
+      "word": "小红书bug",
+      "onboard_time": 1711700358,
+      "rank": 26,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 173599,
       "num": 173599,
       "word": "代号鸢 师尊出场",
@@ -11723,6 +11803,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 165747,
+      "num": 165747,
+      "word": "仁川赛樊振东晋级8强",
+      "onboard_time": 1711700238,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 165739,
       "num": 165739,
       "word": "俄罗斯已进入战争状态",
@@ -11867,6 +11955,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 163937,
+      "num": 163937,
+      "word": "2024MSI比赛场馆官宣",
+      "onboard_time": 1711699038,
+      "rank": 30,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 163890,
       "num": 163890,
       "word": "25岁的自己和想象中不一样",
@@ -11977,6 +12073,14 @@
       "onboard_time": 1711596138,
       "rank": 46,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 162239,
+      "num": 162239,
+      "word": "消费者称遭遇小米汽车误锁单",
+      "onboard_time": 1711699638,
+      "rank": 31,
+      "category": "汽车"
     },
     {
       "raw_hot": 162107,
@@ -13475,14 +13579,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 142690,
-      "num": 142690,
-      "word": "腿脚是人体的血糖仪",
-      "onboard_time": 1711697538,
-      "rank": 28,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 142054,
       "num": 142054,
       "word": "过期的防晒霜千万不要用",
@@ -14963,6 +15059,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 114061,
+      "num": 114061,
+      "word": "满堂音乐节",
+      "onboard_time": 1711700179,
+      "rank": 41,
+      "category": "演出"
+    },
+    {
       "raw_hot": 113700,
       "num": 113700,
       "word": "维尔茨创德国队史最快进球纪录",
@@ -15219,6 +15323,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 108290,
+      "num": 108290,
+      "word": "为何说狂犬病致死率高达99.99%",
+      "onboard_time": 1711698018,
+      "rank": 44,
+      "category": "科学科普,健康医疗"
+    },
+    {
       "raw_hot": 108245,
       "num": 108245,
       "word": "猜猜我是谁 行不通的富二代",
@@ -15297,6 +15409,14 @@
       "onboard_time": 1711543999,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 106011,
+      "num": 106011,
+      "word": "林俊杰福州",
+      "onboard_time": 1711699698,
+      "rank": 46,
+      "category": "演出"
     },
     {
       "raw_hot": 105889,
@@ -15411,6 +15531,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 99959,
+      "num": 99959,
+      "word": "上班的26个好处",
+      "onboard_time": 1711700179,
+      "rank": 47,
+      "category": "情感"
+    },
+    {
       "raw_hot": 99927,
       "num": 99927,
       "word": "勇士战胜魔术",
@@ -15513,6 +15641,14 @@
       "onboard_time": 1711560792,
       "rank": 46,
       "category": "情感"
+    },
+    {
+      "raw_hot": 92751,
+      "num": 92751,
+      "word": "长大后发现自己就是神经病",
+      "onboard_time": 1711698378,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 92266,
@@ -16521,6 +16657,14 @@
       "onboard_time": 1711315750,
       "rank": 49,
       "category": "美食"
+    },
+    {
+      "raw_hot": 22581,
+      "num": 586149,
+      "word": "重温经典频道满载回忆",
+      "onboard_time": 1711699819,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 22500,

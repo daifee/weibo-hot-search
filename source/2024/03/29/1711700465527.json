@@ -1,0 +1,410 @@
+{
+  "runTime": 1711700465527,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1061826,
+        "num": 1061826,
+        "word": "小米回应无法退定金问题",
+        "onboard_time": 1711685899,
+        "rank": 0,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 849680,
+        "num": 849680,
+        "word": "女子花10元中681万结果彩票被洗得稀碎",
+        "onboard_time": 1711698198,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 22581,
+        "num": 586149,
+        "word": "重温经典频道满载回忆",
+        "onboard_time": 1711699819,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1387249,
+        "num": 579799,
+        "word": "为卖淫女看病被判协助组织卖淫",
+        "onboard_time": 1711690999,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 570948,
+        "num": 570948,
+        "word": "小米SU7订单被加价数千元转让",
+        "onboard_time": 1711695980,
+        "rank": 4,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 563394,
+        "num": 563394,
+        "word": "腿脚是人体的血糖仪",
+        "onboard_time": 1711697538,
+        "rank": 5,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 466489,
+        "num": 466489,
+        "word": "唐嫣哽咽回应质疑",
+        "onboard_time": 1711689979,
+        "rank": 6,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 458019,
+        "num": 458019,
+        "word": "乌高官被曝在办公室与多名女同事热吻",
+        "onboard_time": 1711692979,
+        "rank": 7,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 450177,
+        "num": 450177,
+        "word": "有些糖尿病是睡出来的",
+        "onboard_time": 1711693397,
+        "rank": 8,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 360809,
+        "num": 360809,
+        "word": "金价",
+        "onboard_time": 1711679177,
+        "rank": 9,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 1312068,
+        "num": 360789,
+        "word": "李惠利近照状态",
+        "onboard_time": 1711697658,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 489425,
+        "num": 359511,
+        "word": "水杯内一层滑滑的东西是什么",
+        "onboard_time": 1711698798,
+        "rank": 11,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 379358,
+        "num": 359142,
+        "word": "小米汽车被曝出现多起退定投诉",
+        "onboard_time": 1711700179,
+        "rank": 12,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 364724,
+        "num": 357636,
+        "word": "雷军敲定小米定价只用了1小时",
+        "onboard_time": 1711699218,
+        "rank": 13,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 361615,
+        "num": 357336,
+        "word": "吴艳妮跑出8秒10",
+        "onboard_time": 1711697058,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 356711,
+        "num": 356711,
+        "word": "没钱的时候就喜欢看看公积金",
+        "onboard_time": 1711692078,
+        "rank": 15,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 328325,
+        "num": 328325,
+        "word": "全员加速中全员喜提新职业",
+        "onboard_time": 1711698018,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 271854,
+        "num": 271854,
+        "word": "宋亚轩给国家地理微博留言",
+        "onboard_time": 1711694719,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 252266,
+        "num": 252266,
+        "word": "樊振东3比0弗朗西斯卡",
+        "onboard_time": 1711698977,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 248215,
+        "num": 248215,
+        "word": "小米汽车退定",
+        "onboard_time": 1711700179,
+        "rank": 19,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 330096,
+        "num": 246929,
+        "word": "李铁出庭为何刘海还在",
+        "onboard_time": 1711694779,
+        "rank": 20,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 279979,
+        "num": 246097,
+        "word": "饿瘦跟运动瘦的区别",
+        "onboard_time": 1711693638,
+        "rank": 21,
+        "category": "运动健身,科学科普"
+      },
+      {
+        "raw_hot": 239125,
+        "num": 239125,
+        "word": "花间令圆房了",
+        "onboard_time": 1711694240,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 235703,
+        "num": 235703,
+        "word": "冉莹颖邹市明分床睡三年了",
+        "onboard_time": 1711673959,
+        "rank": 23,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 231333,
+        "num": 231333,
+        "word": "原来散步才是最高级的纯爱",
+        "onboard_time": 1711695556,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 183013,
+        "num": 183013,
+        "word": "唐嫣微信只有300多个联系人",
+        "onboard_time": 1711690278,
+        "rank": 25,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 173629,
+        "num": 173629,
+        "word": "小红书bug",
+        "onboard_time": 1711700358,
+        "rank": 26,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 172775,
+        "num": 172775,
+        "word": "足协原副主席李毓毅当庭认罪悔罪",
+        "onboard_time": 1711695618,
+        "rank": 27,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 169798,
+        "num": 169798,
+        "word": "原来身上的小红点是皮肤老化",
+        "onboard_time": 1711695438,
+        "rank": 28,
+        "category": "科学科普,健康医疗"
+      },
+      {
+        "raw_hot": 165747,
+        "num": 165747,
+        "word": "仁川赛樊振东晋级8强",
+        "onboard_time": 1711700238,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 163937,
+        "num": 163937,
+        "word": "2024MSI比赛场馆官宣",
+        "onboard_time": 1711699038,
+        "rank": 30,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 162239,
+        "num": 162239,
+        "word": "消费者称遭遇小米汽车误锁单",
+        "onboard_time": 1711699638,
+        "rank": 31,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 145229,
+        "num": 145229,
+        "word": "小米SU7价格",
+        "onboard_time": 1711627097,
+        "rank": 32,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 144350,
+        "num": 144350,
+        "word": "赵丽颖晒小凤凰表情",
+        "onboard_time": 1711697298,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 140695,
+        "num": 140695,
+        "word": "长期吃精制碳水会变丑",
+        "onboard_time": 1711693518,
+        "rank": 34,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 135027,
+        "num": 135027,
+        "word": "情商低的五大表现",
+        "onboard_time": 1711687281,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 134749,
+        "num": 134749,
+        "word": "研究生们请把脸皮读厚一点",
+        "onboard_time": 1711679717,
+        "rank": 36,
+        "category": "幽默,教育"
+      },
+      {
+        "raw_hot": 132448,
+        "num": 132448,
+        "word": "与凤行小凤凰表情上线",
+        "onboard_time": 1711693998,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 127478,
+        "num": 127478,
+        "word": "小爱同学被雷军喊崩了",
+        "onboard_time": 1711682959,
+        "rank": 38,
+        "category": "汽车,互联网"
+      },
+      {
+        "raw_hot": 124437,
+        "num": 124437,
+        "word": "没想到结个婚花了快40万",
+        "onboard_time": 1711686259,
+        "rank": 39,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 115874,
+        "num": 115874,
+        "word": "月子还没出就来离婚的妈妈",
+        "onboard_time": 1711687579,
+        "rank": 40,
+        "category": "母婴育儿"
+      },
+      {
+        "raw_hot": 114061,
+        "num": 114061,
+        "word": "满堂音乐节",
+        "onboard_time": 1711700179,
+        "rank": 41,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 112568,
+        "num": 112568,
+        "word": "刘浩存粉色外套",
+        "onboard_time": 1711697358,
+        "rank": 42,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 108384,
+        "num": 108384,
+        "word": "5人服用日本小林制药保健品后死亡",
+        "onboard_time": 1711683437,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 108290,
+        "num": 108290,
+        "word": "为何说狂犬病致死率高达99.99%",
+        "onboard_time": 1711698018,
+        "rank": 44,
+        "category": "科学科普,健康医疗"
+      },
+      {
+        "raw_hot": 106462,
+        "num": 106462,
+        "word": "19岁唐氏女孩变脸绝技惊艳众人",
+        "onboard_time": 1711677498,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 106011,
+        "num": 106011,
+        "word": "林俊杰福州",
+        "onboard_time": 1711699698,
+        "rank": 46,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 99959,
+        "num": 99959,
+        "word": "上班的26个好处",
+        "onboard_time": 1711700179,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 98407,
+        "num": 98407,
+        "word": "小米发布会",
+        "onboard_time": 1711615939,
+        "rank": 48,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 92751,
+        "num": 92751,
+        "word": "长大后发现自己就是神经病",
+        "onboard_time": 1711698378,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#中央军委举行晋升上将军衔仪式#"
+    }
+  }
+}

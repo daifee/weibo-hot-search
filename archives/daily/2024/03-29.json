@@ -1,6 +1,6 @@
 {
   "startTime": 1711642899962,
-  "endTime": 1711697646298,
+  "endTime": 1711700465527,
   "band_list": [
     {
       "raw_hot": 6224451,
@@ -83,6 +83,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 1312068,
+      "num": 360789,
+      "word": "李惠利近照状态",
+      "onboard_time": 1711697658,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1293524,
       "num": 1293524,
       "word": "研究生们请把脸皮读厚一点",
@@ -153,6 +161,14 @@
       "onboard_time": 1711672520,
       "rank": 6,
       "category": "汽车,网红"
+    },
+    {
+      "raw_hot": 849680,
+      "num": 849680,
+      "word": "女子花10元中681万结果彩票被洗得稀碎",
+      "onboard_time": 1711698198,
+      "rank": 1,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 837882,
@@ -267,6 +283,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 570948,
+      "num": 570948,
+      "word": "小米SU7订单被加价数千元转让",
+      "onboard_time": 1711695980,
+      "rank": 24,
+      "category": "汽车"
+    },
+    {
+      "raw_hot": 563394,
+      "num": 563394,
+      "word": "腿脚是人体的血糖仪",
+      "onboard_time": 1711697538,
+      "rank": 28,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 558154,
       "num": 558154,
       "word": "存款到10万是什么感觉",
@@ -347,6 +379,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 489425,
+      "num": 359511,
+      "word": "水杯内一层滑滑的东西是什么",
+      "onboard_time": 1711698798,
+      "rank": 11,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 486074,
       "num": 486074,
       "word": "有些糖尿病是睡出来的",
@@ -361,14 +401,6 @@
       "onboard_time": 1711673239,
       "rank": 15,
       "category": "艺人,互联网"
-    },
-    {
-      "raw_hot": 467613,
-      "num": 362101,
-      "word": "小米SU7订单被加价数千元转让",
-      "onboard_time": 1711695980,
-      "rank": 24,
-      "category": "汽车"
     },
     {
       "raw_hot": 459953,
@@ -476,7 +508,7 @@
     },
     {
       "raw_hot": 393790,
-      "num": 200917,
+      "num": 246097,
       "word": "饿瘦跟运动瘦的区别",
       "onboard_time": 1711693638,
       "rank": 21,
@@ -531,6 +563,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 379358,
+      "num": 359142,
+      "word": "小米汽车被曝出现多起退定投诉",
+      "onboard_time": 1711700179,
+      "rank": 12,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 370996,
       "num": 336906,
       "word": "小灰灰第一次立耳",
@@ -545,6 +585,22 @@
       "onboard_time": 1711615999,
       "rank": 20,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 364724,
+      "num": 357636,
+      "word": "雷军敲定小米定价只用了1小时",
+      "onboard_time": 1711699218,
+      "rank": 13,
+      "category": "汽车"
+    },
+    {
+      "raw_hot": 361615,
+      "num": 357336,
+      "word": "吴艳妮跑出8秒10",
+      "onboard_time": 1711697058,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 359691,
@@ -577,6 +633,14 @@
       "onboard_time": 1711689379,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 328325,
+      "num": 328325,
+      "word": "全员加速中全员喜提新职业",
+      "onboard_time": 1711698018,
+      "rank": 16,
+      "category": "综艺"
     },
     {
       "raw_hot": 323006,
@@ -787,6 +851,14 @@
       "category": "科学科普,健康医疗"
     },
     {
+      "raw_hot": 252266,
+      "num": 252266,
+      "word": "樊振东3比0弗朗西斯卡",
+      "onboard_time": 1711698977,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
       "raw_hot": 250957,
       "num": 250957,
       "word": "雷军 遥遥领先",
@@ -817,6 +889,14 @@
       "onboard_time": 1711685778,
       "rank": 35,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 248215,
+      "num": 248215,
+      "word": "小米汽车退定",
+      "onboard_time": 1711700179,
+      "rank": 19,
+      "category": "汽车"
     },
     {
       "raw_hot": 246307,
@@ -868,7 +948,7 @@
     },
     {
       "raw_hot": 232135,
-      "num": 178210,
+      "num": 231333,
       "word": "原来散步才是最高级的纯爱",
       "onboard_time": 1711695556,
       "rank": 25,
@@ -1059,14 +1139,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 197974,
-      "num": 141113,
-      "word": "吴艳妮跑出8秒10",
-      "onboard_time": 1711697058,
-      "rank": 30,
-      "category": "体育"
-    },
-    {
       "raw_hot": 197951,
       "num": 197951,
       "word": "这是我的岛",
@@ -1203,6 +1275,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 173629,
+      "num": 173629,
+      "word": "小红书bug",
+      "onboard_time": 1711700358,
+      "rank": 26,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 173465,
       "num": 173465,
       "word": "爱吃辣的人癌症死亡率比同龄人要低",
@@ -1259,6 +1339,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 165747,
+      "num": 165747,
+      "word": "仁川赛樊振东晋级8强",
+      "onboard_time": 1711700238,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 165691,
       "num": 216450,
       "word": "福建将对所有中小学起底式大排查",
@@ -1275,6 +1363,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 163937,
+      "num": 163937,
+      "word": "2024MSI比赛场馆官宣",
+      "onboard_time": 1711699038,
+      "rank": 30,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 163590,
       "num": 163590,
       "word": "林俊杰演唱会",
@@ -1289,6 +1385,14 @@
       "onboard_time": 1711677798,
       "rank": 47,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 162239,
+      "num": 162239,
+      "word": "消费者称遭遇小米汽车误锁单",
+      "onboard_time": 1711699638,
+      "rank": 31,
+      "category": "汽车"
     },
     {
       "raw_hot": 159803,
@@ -1401,14 +1505,6 @@
       "onboard_time": 1711640000,
       "rank": 42,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 142690,
-      "num": 142690,
-      "word": "腿脚是人体的血糖仪",
-      "onboard_time": 1711697538,
-      "rank": 28,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 141010,
@@ -1587,6 +1683,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 114061,
+      "num": 114061,
+      "word": "满堂音乐节",
+      "onboard_time": 1711700179,
+      "rank": 41,
+      "category": "演出"
+    },
+    {
       "raw_hot": 110981,
       "num": 157471,
       "word": "万科郁亮称房地产市场超跌了",
@@ -1619,6 +1723,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 108290,
+      "num": 108290,
+      "word": "为何说狂犬病致死率高达99.99%",
+      "onboard_time": 1711698018,
+      "rank": 44,
+      "category": "科学科普,健康医疗"
+    },
+    {
+      "raw_hot": 106011,
+      "num": 106011,
+      "word": "林俊杰福州",
+      "onboard_time": 1711699698,
+      "rank": 46,
+      "category": "演出"
+    },
+    {
       "raw_hot": 105313,
       "num": 140307,
       "word": "浙大学霸20门课程满绩还整理151份笔记共享",
@@ -1643,12 +1763,28 @@
       "category": "财经"
     },
     {
+      "raw_hot": 99959,
+      "num": 99959,
+      "word": "上班的26个好处",
+      "onboard_time": 1711700179,
+      "rank": 47,
+      "category": "情感"
+    },
+    {
       "raw_hot": 95833,
       "num": 192934,
       "word": "军营版东北麻辣烫申请出战",
       "onboard_time": 1711676900,
       "rank": 33,
       "category": "美食"
+    },
+    {
+      "raw_hot": 92751,
+      "num": 92751,
+      "word": "长大后发现自己就是神经病",
+      "onboard_time": 1711698378,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 92266,
@@ -1800,6 +1936,14 @@
       "word": "中使馆回应5中国公民巴基斯坦遇袭",
       "onboard_time": 1711658170,
       "rank": 38,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 22581,
+      "num": 586149,
+      "word": "重温经典频道满载回忆",
+      "onboard_time": 1711699819,
+      "rank": 2,
       "category": "国内时政"
     },
     {
