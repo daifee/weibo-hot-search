@@ -1,0 +1,410 @@
+{
+  "runTime": 1711697646298,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1107143,
+        "num": 1107143,
+        "word": "小米回应无法退定金问题",
+        "onboard_time": 1711685899,
+        "rank": 0,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 793286,
+        "num": 793286,
+        "word": "乌高官被曝在办公室与多名女同事热吻",
+        "onboard_time": 1711692979,
+        "rank": 1,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 57324,
+        "num": 717692,
+        "word": "春天把浪漫写在山水间",
+        "onboard_time": 1711684699,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1867237,
+        "num": 704456,
+        "word": "为卖淫女看病被判协助组织卖淫",
+        "onboard_time": 1711690999,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 681316,
+        "num": 681316,
+        "word": "唐嫣哽咽回应质疑",
+        "onboard_time": 1711689979,
+        "rank": 4,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 625194,
+        "num": 625194,
+        "word": "没钱的时候就喜欢看看公积金",
+        "onboard_time": 1711692078,
+        "rank": 5,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 511800,
+        "num": 511800,
+        "word": "金价",
+        "onboard_time": 1711679177,
+        "rank": 6,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 507019,
+        "num": 507019,
+        "word": "宋亚轩给国家地理微博留言",
+        "onboard_time": 1711694719,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 486074,
+        "num": 486074,
+        "word": "有些糖尿病是睡出来的",
+        "onboard_time": 1711693397,
+        "rank": 8,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 426273,
+        "num": 426273,
+        "word": "足协原副主席李毓毅当庭认罪悔罪",
+        "onboard_time": 1711695618,
+        "rank": 9,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 542282,
+        "num": 380191,
+        "word": "李铁出庭为何刘海还在",
+        "onboard_time": 1711694779,
+        "rank": 10,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 467613,
+        "num": 362101,
+        "word": "小米SU7订单被加价数千元转让",
+        "onboard_time": 1711695980,
+        "rank": 11,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 324909,
+        "num": 324909,
+        "word": "花间令圆房了",
+        "onboard_time": 1711694240,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 310953,
+        "num": 310953,
+        "word": "冉莹颖邹市明分床睡三年了",
+        "onboard_time": 1711673959,
+        "rank": 13,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 251439,
+        "num": 251439,
+        "word": "与凤行小凤凰表情上线",
+        "onboard_time": 1711693998,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 201439,
+        "num": 201439,
+        "word": "南通烧纸",
+        "onboard_time": 1711690098,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 197654,
+        "num": 197654,
+        "word": "小米汽车F码被炒至5万元",
+        "onboard_time": 1711690577,
+        "rank": 16,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 197321,
+        "num": 197321,
+        "word": "研究生们请把脸皮读厚一点",
+        "onboard_time": 1711679717,
+        "rank": 17,
+        "category": "幽默,教育"
+      },
+      {
+        "raw_hot": 202245,
+        "num": 196455,
+        "word": "土楼为什么是圆的",
+        "onboard_time": 1711695858,
+        "rank": 18,
+        "category": "科学科普,社会新闻"
+      },
+      {
+        "raw_hot": 180811,
+        "num": 180811,
+        "word": "小爱同学被雷军喊崩了",
+        "onboard_time": 1711682959,
+        "rank": 19,
+        "category": "汽车,互联网"
+      },
+      {
+        "raw_hot": 323902,
+        "num": 180006,
+        "word": "饿瘦跟运动瘦的区别",
+        "onboard_time": 1711693638,
+        "rank": 20,
+        "category": "运动健身,科学科普"
+      },
+      {
+        "raw_hot": 251379,
+        "num": 179349,
+        "word": "唐嫣微信只有300多个联系人",
+        "onboard_time": 1711690278,
+        "rank": 21,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 232135,
+        "num": 178210,
+        "word": "原来散步才是最高级的纯爱",
+        "onboard_time": 1711695556,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 229788,
+        "num": 176487,
+        "word": "原来身上的小红点是皮肤老化",
+        "onboard_time": 1711695438,
+        "rank": 23,
+        "category": "科学科普,健康医疗"
+      },
+      {
+        "raw_hot": 199535,
+        "num": 174683,
+        "word": "猴崽首次插花体验",
+        "onboard_time": 1711696878,
+        "rank": 24,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 189493,
+        "num": 174367,
+        "word": "长期吃精制碳水会变丑",
+        "onboard_time": 1711693518,
+        "rank": 25,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 173090,
+        "num": 173090,
+        "word": "赵丽颖晒小凤凰表情",
+        "onboard_time": 1711697298,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 150878,
+        "num": 150878,
+        "word": "小米SU7价格",
+        "onboard_time": 1711627097,
+        "rank": 27,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 142690,
+        "num": 142690,
+        "word": "腿脚是人体的血糖仪",
+        "onboard_time": 1711697538,
+        "rank": 28,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 141135,
+        "num": 141135,
+        "word": "19岁唐氏女孩变脸绝技惊艳众人",
+        "onboard_time": 1711677498,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 197974,
+        "num": 141113,
+        "word": "吴艳妮跑出8秒10",
+        "onboard_time": 1711697058,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 141010,
+        "num": 141010,
+        "word": "刘浩存粉色外套",
+        "onboard_time": 1711697358,
+        "rank": 31,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 139188,
+        "num": 139188,
+        "word": "没想到结个婚花了快40万",
+        "onboard_time": 1711686259,
+        "rank": 32,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 136846,
+        "num": 136846,
+        "word": "延安大学一考生与李大钊同名",
+        "onboard_time": 1711690517,
+        "rank": 33,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 133512,
+        "num": 133512,
+        "word": "5人服用日本小林制药保健品后死亡",
+        "onboard_time": 1711683437,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 117289,
+        "num": 117289,
+        "word": "情商低的五大表现",
+        "onboard_time": 1711687281,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 110683,
+        "num": 110683,
+        "word": "雷军 雷神",
+        "onboard_time": 1711631302,
+        "rank": 36,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 110653,
+        "num": 110653,
+        "word": "月子还没出就来离婚的妈妈",
+        "onboard_time": 1711687579,
+        "rank": 37,
+        "category": "母婴育儿"
+      },
+      {
+        "raw_hot": 110052,
+        "num": 110052,
+        "word": "种地吧就是这个干活爽",
+        "onboard_time": 1711696339,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 108826,
+        "num": 108826,
+        "word": "女星轻生宝冢歌剧团承认集体霸凌",
+        "onboard_time": 1711691959,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 108075,
+        "num": 108075,
+        "word": "10部电影定档五一",
+        "onboard_time": 1711680378,
+        "rank": 40,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 106947,
+        "num": 106947,
+        "word": "王阳种地吧联动",
+        "onboard_time": 1711689979,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 105246,
+        "num": 105246,
+        "word": "张杰纠正年龄",
+        "onboard_time": 1711685838,
+        "rank": 42,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 104167,
+        "num": 104167,
+        "word": "上班搭子离职了比失恋还难过",
+        "onboard_time": 1711686739,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 100721,
+        "num": 100721,
+        "word": "罗伯特叫吴磊目莲哥哥",
+        "onboard_time": 1711695319,
+        "rank": 44,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 98804,
+        "num": 98804,
+        "word": "原来骑行会变酷是真的",
+        "onboard_time": 1711695980,
+        "rank": 45,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 95868,
+        "num": 95868,
+        "word": "电车能否代替油车",
+        "onboard_time": 1711696219,
+        "rank": 46,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 95674,
+        "num": 95674,
+        "word": "谢霆锋给网红做红烧肉被当面评价菜一般",
+        "onboard_time": 1711673360,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 94402,
+        "num": 94402,
+        "word": "执笔结局",
+        "onboard_time": 1711687880,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 94265,
+        "num": 94265,
+        "word": "小米发布会",
+        "onboard_time": 1711615939,
+        "rank": 49,
+        "category": "数码"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平颁发命令状并向晋衔的军官表示祝贺#"
+    }
+  }
+}
