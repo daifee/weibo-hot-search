@@ -1,6 +1,6 @@
 {
   "startTime": 1709223640991,
-  "endTime": 1711822914092,
+  "endTime": 1711823633370,
   "band_list": [
     {
       "raw_hot": 21250232,
@@ -79539,6 +79539,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 98262,
+      "num": 98262,
+      "word": "宋雨琦在奔跑吧跳fate了",
+      "onboard_time": 1711819993,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 97951,
       "num": 113290,
       "word": "三菱铅笔收购德国LAMY钢笔",
@@ -80001,14 +80009,6 @@
       "onboard_time": 1710072449,
       "rank": 48,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 93433,
-      "num": 60593,
-      "word": "宋雨琦在奔跑吧跳fate了",
-      "onboard_time": 1711819993,
-      "rank": 43,
-      "category": "综艺"
     },
     {
       "raw_hot": 93414,
@@ -84739,6 +84739,14 @@
       "category": "网红,互联网"
     },
     {
+      "raw_hot": 31165,
+      "num": 36939,
+      "word": "3个细节可能是肠癌信号",
+      "onboard_time": 1711822512,
+      "rank": 49,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 30900,
       "num": 375828,
       "word": "中国汽车硬起来了",
@@ -85361,14 +85369,6 @@
       "onboard_time": 1711304892,
       "rank": 40,
       "category": "情感"
-    },
-    {
-      "raw_hot": 22272,
-      "num": 36939,
-      "word": "3个细节可能是肠癌信号",
-      "onboard_time": 1711822512,
-      "rank": 49,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 22111,
