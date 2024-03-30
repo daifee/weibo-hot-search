@@ -1,6 +1,6 @@
 {
   "startTime": 1711210803824,
-  "endTime": 1711802578094,
+  "endTime": 1711804747613,
   "band_list": [
     {
       "raw_hot": 21250232,
@@ -1035,6 +1035,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1187779,
+      "num": 413924,
+      "word": "疑被虐待致死5岁男童生母曾是幼师",
+      "onboard_time": 1711800858,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1185612,
       "num": 1185612,
       "word": "19岁唐氏女孩变脸绝技惊艳众人",
@@ -1161,6 +1169,14 @@
       "onboard_time": 1711410498,
       "rank": 3,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 1122518,
+      "num": 252390,
+      "word": "张颂文称喜欢橄榄绿SU7",
+      "onboard_time": 1711803559,
+      "rank": 25,
+      "category": "艺人,汽车"
     },
     {
       "raw_hot": 1119669,
@@ -2339,6 +2355,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 749301,
+      "num": 749301,
+      "word": "樊振东爆冷输球的原因在哪里",
+      "onboard_time": 1711800439,
+      "rank": 16,
+      "category": "体育"
+    },
+    {
       "raw_hot": 744240,
       "num": 744240,
       "word": "步步倾心定档",
@@ -2489,6 +2513,14 @@
       "onboard_time": 1711328360,
       "rank": 26,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 710827,
+      "num": 365070,
+      "word": "郝蕾痛批朱梓骁",
+      "onboard_time": 1711803859,
+      "rank": 12,
+      "category": "综艺"
     },
     {
       "raw_hot": 710503,
@@ -2963,14 +2995,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 648927,
-      "num": 413924,
-      "word": "疑被虐待致死5岁男童生母曾是幼师",
-      "onboard_time": 1711800858,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 648680,
       "num": 648680,
       "word": "杭州东站跳轨旅客伤情得到控制",
@@ -3153,14 +3177,6 @@
       "onboard_time": 1711601300,
       "rank": 11,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 621845,
-      "num": 621845,
-      "word": "樊振东爆冷输球的原因在哪里",
-      "onboard_time": 1711800439,
-      "rank": 16,
-      "category": "体育"
     },
     {
       "raw_hot": 620473,
@@ -4851,12 +4867,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 460804,
+      "num": 460804,
+      "word": "重师美院原院长被曝诱骗学生当小三",
+      "onboard_time": 1711799476,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 460488,
       "num": 460488,
       "word": "考生蔡元培北大复试后仍专业第一",
       "onboard_time": 1711494074,
       "rank": 6,
       "category": "教育"
+    },
+    {
+      "raw_hot": 460479,
+      "num": 359897,
+      "word": "梁靖崑4比3马龙",
+      "onboard_time": 1711804159,
+      "rank": 15,
+      "category": "体育"
     },
     {
       "raw_hot": 459953,
@@ -5579,14 +5611,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 407297,
-      "num": 407297,
-      "word": "重师美院原院长被曝诱骗学生当小三",
-      "onboard_time": 1711799476,
-      "rank": 15,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 405798,
       "num": 405798,
       "word": "周杰伦祝林俊杰生日快乐",
@@ -5627,6 +5651,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 403481,
+      "num": 403481,
+      "word": "与凤行",
+      "onboard_time": 1711248019,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 402729,
       "num": 402729,
       "word": "茶里九世",
@@ -5649,6 +5681,14 @@
       "onboard_time": 1711360939,
       "rank": 21,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 402110,
+      "num": 363131,
+      "word": "与凤行直播",
+      "onboard_time": 1711199300,
+      "rank": 43,
+      "category": "剧集"
     },
     {
       "raw_hot": 402065,
@@ -5891,6 +5931,14 @@
       "category": "综艺,艺人"
     },
     {
+      "raw_hot": 389628,
+      "num": 357028,
+      "word": "十个勤天 音乐节",
+      "onboard_time": 1711803498,
+      "rank": 17,
+      "category": "演出"
+    },
+    {
       "raw_hot": 389457,
       "num": 372198,
       "word": "女生取24颗胆结石没事盘着玩",
@@ -5905,14 +5953,6 @@
       "onboard_time": 1711419497,
       "rank": 26,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 389049,
-      "num": 389049,
-      "word": "与凤行",
-      "onboard_time": 1711248019,
-      "rank": 36,
-      "category": "剧集"
     },
     {
       "raw_hot": 388403,
@@ -6065,6 +6105,14 @@
       "onboard_time": 1711591037,
       "rank": 14,
       "category": "网红"
+    },
+    {
+      "raw_hot": 379184,
+      "num": 355904,
+      "word": "孙千陈靖可甜晕了",
+      "onboard_time": 1711803138,
+      "rank": 18,
+      "category": "综艺"
     },
     {
       "raw_hot": 379093,
@@ -6737,6 +6785,14 @@
       "onboard_time": 1711782137,
       "rank": 16,
       "category": "演出"
+    },
+    {
+      "raw_hot": 333703,
+      "num": 333703,
+      "word": "赵奕欢回怼消失的她制片人",
+      "onboard_time": 1711803739,
+      "rank": 20,
+      "category": "综艺"
     },
     {
       "raw_hot": 333132,
@@ -7811,6 +7867,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 288921,
+      "num": 288921,
+      "word": "成年人崩溃800次问就是没事",
+      "onboard_time": 1711801939,
+      "rank": 31,
+      "category": "电影"
+    },
+    {
       "raw_hot": 288490,
       "num": 288490,
       "word": "花间令校园暴力",
@@ -8145,6 +8209,14 @@
       "onboard_time": 1711631362,
       "rank": 32,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 275832,
+      "num": 275832,
+      "word": "王曼昱vs陈梦",
+      "onboard_time": 1711803498,
+      "rank": 22,
+      "category": "体育"
     },
     {
       "raw_hot": 275615,
@@ -8955,6 +9027,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 248917,
+      "num": 248917,
+      "word": "娃娃菜的娃娃亲",
+      "onboard_time": 1711803921,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 248885,
       "num": 248885,
       "word": "芒果你超爱",
@@ -9553,6 +9633,14 @@
       "onboard_time": 1711778059,
       "rank": 27,
       "category": "情感"
+    },
+    {
+      "raw_hot": 233437,
+      "num": 252845,
+      "word": "国乒能守住男单冠军吗",
+      "onboard_time": 1711804038,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 233123,
@@ -10209,14 +10297,6 @@
       "onboard_time": 1711675158,
       "rank": 37,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 219687,
-      "num": 219687,
-      "word": "成年人崩溃800次问就是没事",
-      "onboard_time": 1711801939,
-      "rank": 31,
-      "category": "电影"
     },
     {
       "raw_hot": 219402,
@@ -11259,14 +11339,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 202077,
-      "num": 202077,
-      "word": "与凤行直播",
-      "onboard_time": 1711199300,
-      "rank": 43,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 202048,
       "num": 179033,
       "word": "林俊杰告黑成功",
@@ -11513,6 +11585,14 @@
       "onboard_time": 1711426939,
       "rank": 32,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 199429,
+      "num": 193277,
+      "word": "林俊杰福州演唱会",
+      "onboard_time": 1711804098,
+      "rank": 35,
+      "category": "演出"
     },
     {
       "raw_hot": 199386,
@@ -11921,6 +12001,14 @@
       "onboard_time": 1711441039,
       "rank": 34,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 194789,
+      "num": 194789,
+      "word": "马龙梁靖崑高质量对决",
+      "onboard_time": 1711803859,
+      "rank": 34,
+      "category": "体育"
     },
     {
       "raw_hot": 194768,
@@ -12747,6 +12835,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 185777,
+      "num": 185777,
+      "word": "王栎鑫长沙演唱会",
+      "onboard_time": 1711803679,
+      "rank": 37,
+      "category": "演出"
+    },
+    {
       "raw_hot": 185745,
       "num": 185745,
       "word": "刘涛新中式",
@@ -13121,6 +13217,14 @@
       "onboard_time": 1711619538,
       "rank": 30,
       "category": "美食"
+    },
+    {
+      "raw_hot": 180524,
+      "num": 160182,
+      "word": "TWS香港",
+      "onboard_time": 1711804038,
+      "rank": 40,
+      "category": "演出"
     },
     {
       "raw_hot": 180476,
@@ -14739,6 +14843,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 160301,
+      "num": 160301,
+      "word": "狼队对战WB",
+      "onboard_time": 1711803079,
+      "rank": 39,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 160136,
       "num": 160136,
       "word": "女大有自己的早八三件套",
@@ -15833,6 +15945,14 @@
       "onboard_time": 1711764138,
       "rank": 33,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 147691,
+      "num": 147691,
+      "word": "小米代言人",
+      "onboard_time": 1711804700,
+      "rank": 46,
+      "category": "数码,艺人"
     },
     {
       "raw_hot": 147603,
@@ -18099,6 +18219,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 118344,
+      "num": 133618,
+      "word": "上海一餐厅被樱花给的泼天富贵砸晕了",
+      "onboard_time": 1711804520,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 118326,
       "num": 118326,
       "word": "14岁男孩免试直读985硕士",
@@ -19155,6 +19283,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 78825,
+      "num": 706799,
+      "word": "如果云南花开是一场运动会",
+      "onboard_time": 1711787119,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 78408,
       "num": 78408,
       "word": "花间令 默念17遍名字召唤心上人",
@@ -20017,14 +20153,6 @@
       "onboard_time": 1711535719,
       "rank": 27,
       "category": "运动健身"
-    },
-    {
-      "raw_hot": 31761,
-      "num": 649996,
-      "word": "如果云南花开是一场运动会",
-      "onboard_time": 1711787119,
-      "rank": 12,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 31298,
