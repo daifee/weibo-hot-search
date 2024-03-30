@@ -1,0 +1,410 @@
+{
+  "runTime": 1711802578094,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1088282,
+        "num": 1088282,
+        "word": "金价再度爆发",
+        "onboard_time": 1711792458,
+        "rank": 0,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 719389,
+        "num": 719389,
+        "word": "马龙vs梁靖崑",
+        "onboard_time": 1711800257,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 31761,
+        "num": 649996,
+        "word": "如果云南花开是一场运动会",
+        "onboard_time": 1711787119,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1472387,
+        "num": 639420,
+        "word": "monster",
+        "onboard_time": 1711798697,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 621845,
+        "num": 621845,
+        "word": "樊振东爆冷输球的原因在哪里",
+        "onboard_time": 1711800439,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1010070,
+        "num": 573145,
+        "word": "雷军回复张颂文",
+        "onboard_time": 1711791918,
+        "rank": 5,
+        "category": "艺人,互联网"
+      },
+      {
+        "raw_hot": 999798,
+        "num": 535381,
+        "word": "郑合惠子工作室发声",
+        "onboard_time": 1711795938,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 443394,
+        "num": 443394,
+        "word": "员工请假照顾父亲00后老板提前发工资",
+        "onboard_time": 1711796538,
+        "rank": 7,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 440751,
+        "num": 440751,
+        "word": "樊振东2比4雨果",
+        "onboard_time": 1711796597,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 423654,
+        "num": 423654,
+        "word": "孟佳触碰到了张艺兴的舞台盲区",
+        "onboard_time": 1711795159,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 849183,
+        "num": 423481,
+        "word": "雷军张颂文 霸道总裁爱上我",
+        "onboard_time": 1711798218,
+        "rank": 10,
+        "category": "艺人,互联网"
+      },
+      {
+        "raw_hot": 795986,
+        "num": 418100,
+        "word": "警方回应5岁男童疑被打身亡",
+        "onboard_time": 1711800138,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 648927,
+        "num": 413924,
+        "word": "疑被虐待致死5岁男童生母曾是幼师",
+        "onboard_time": 1711800858,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 586275,
+        "num": 410722,
+        "word": "医院取精室里都有些什么",
+        "onboard_time": 1711786998,
+        "rank": 13,
+        "category": "健康医疗,科学科普"
+      },
+      {
+        "raw_hot": 15059,
+        "num": 408229,
+        "word": "蛋仔奇思妙想计划",
+        "onboard_time": 1711800019,
+        "rank": 14,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 407297,
+        "num": 407297,
+        "word": "重师美院原院长被曝诱骗学生当小三",
+        "onboard_time": 1711799476,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 389049,
+        "num": 389049,
+        "word": "与凤行",
+        "onboard_time": 1711801159,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 366915,
+        "num": 366915,
+        "word": "短效避孕药的13个真相",
+        "onboard_time": 1711795637,
+        "rank": 17,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 348268,
+        "num": 348268,
+        "word": "王菲李嫣机场同框",
+        "onboard_time": 1711798878,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 345542,
+        "num": 345542,
+        "word": "将门毒后女主原型",
+        "onboard_time": 1711784958,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 304677,
+        "num": 304677,
+        "word": "夫妻丢下女婴自称去继承前男友4亿遗产",
+        "onboard_time": 1711798458,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 293044,
+        "num": 293044,
+        "word": "刘美含泳装",
+        "onboard_time": 1711801759,
+        "rank": 21,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 291264,
+        "num": 291264,
+        "word": "经常午睡大脑年轻近7年",
+        "onboard_time": 1711796779,
+        "rank": 22,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 286729,
+        "num": 286729,
+        "word": "为什么有人朋友圈不爱发自己照片",
+        "onboard_time": 1711798278,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 267906,
+        "num": 267906,
+        "word": "百日咳今年已致13人死亡",
+        "onboard_time": 1711774157,
+        "rank": 24,
+        "category": "社会新闻,健康医疗"
+      },
+      {
+        "raw_hot": 258016,
+        "num": 258016,
+        "word": "鞠婧祎回应上官芷被玩梗",
+        "onboard_time": 1711798697,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 253013,
+        "num": 253013,
+        "word": "雷军说造车是被逼出来的",
+        "onboard_time": 1711798637,
+        "rank": 26,
+        "category": "汽车,互联网"
+      },
+      {
+        "raw_hot": 243121,
+        "num": 243121,
+        "word": "孙颖莎4比0王艺迪",
+        "onboard_time": 1711799839,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 233111,
+        "num": 233111,
+        "word": "SEVENTEEN演唱会",
+        "onboard_time": 1711802178,
+        "rank": 28,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 227986,
+        "num": 227986,
+        "word": "你好星期六",
+        "onboard_time": 1711801159,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 295983,
+        "num": 225198,
+        "word": "雷总好宠张颂文",
+        "onboard_time": 1711797199,
+        "rank": 30,
+        "category": "艺人,互联网"
+      },
+      {
+        "raw_hot": 219687,
+        "num": 219687,
+        "word": "成年人崩溃800次问就是没事",
+        "onboard_time": 1711801939,
+        "rank": 31,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 217918,
+        "num": 217918,
+        "word": "魏若来 牛春苗",
+        "onboard_time": 1711799958,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 202430,
+        "num": 202430,
+        "word": "黄子弘凡直拍",
+        "onboard_time": 1711801520,
+        "rank": 33,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 202077,
+        "num": 202077,
+        "word": "与凤行直播",
+        "onboard_time": 1711802299,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 199169,
+        "num": 199169,
+        "word": "纪凌尘 海澜之家",
+        "onboard_time": 1711789998,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 167490,
+        "num": 167490,
+        "word": "刘宇宁胡意旋 将门毒后",
+        "onboard_time": 1711789277,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 165749,
+        "num": 165749,
+        "word": "每天走一万步能把脂肪肝走没吗",
+        "onboard_time": 1711796358,
+        "rank": 37,
+        "category": "健康医疗,运动健身"
+      },
+      {
+        "raw_hot": 163694,
+        "num": 163694,
+        "word": "XG广州",
+        "onboard_time": 1711801399,
+        "rank": 38,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 145370,
+        "num": 145370,
+        "word": "仁川赛樊振东止步半决赛",
+        "onboard_time": 1711797019,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 153874,
+        "num": 139973,
+        "word": "张杰演唱会",
+        "onboard_time": 1711798519,
+        "rank": 40,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 150222,
+        "num": 139199,
+        "word": "段奥娟风格 刘浩存",
+        "onboard_time": 1711773257,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 148074,
+        "num": 138100,
+        "word": "黄磊好宠张艺兴",
+        "onboard_time": 1711800619,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 134096,
+        "num": 134096,
+        "word": "XYG发文道歉",
+        "onboard_time": 1711799476,
+        "rank": 43,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 127109,
+        "num": 127109,
+        "word": "孙颖莎vs王艺迪",
+        "onboard_time": 1711798578,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 126561,
+        "num": 126561,
+        "word": "代号鸢",
+        "onboard_time": 1711785137,
+        "rank": 45,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 120858,
+        "num": 120858,
+        "word": "魏若来未婚妻成助攻",
+        "onboard_time": 1711798998,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 119653,
+        "num": 119653,
+        "word": "爸爸的情绪能有多稳定",
+        "onboard_time": 1711802359,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 118371,
+        "num": 118371,
+        "word": "KCON香港",
+        "onboard_time": 1711799118,
+        "rank": 48,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 112930,
+        "num": 112930,
+        "word": "马斯克表态支持美国红色浪潮",
+        "onboard_time": 1711795339,
+        "rank": 49,
+        "category": "互联网"
+      }
+    ],
+    "hotgov": {
+      "word": "#确保粮食等重要农产品稳定安全供给#"
+    }
+  }
+}
