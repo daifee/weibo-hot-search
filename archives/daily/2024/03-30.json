@@ -1,6 +1,6 @@
 {
   "startTime": 1711729335311,
-  "endTime": 1711766121233,
+  "endTime": 1711768869504,
   "band_list": [
     {
       "raw_hot": 1493483,
@@ -17,6 +17,14 @@
       "onboard_time": 1711754475,
       "rank": 11,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 1089608,
+      "num": 496039,
+      "word": "代号鸢尺度",
+      "onboard_time": 1711763360,
+      "rank": 10,
+      "category": "游戏"
     },
     {
       "raw_hot": 998005,
@@ -59,14 +67,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 830855,
-      "num": 496039,
-      "word": "代号鸢尺度",
-      "onboard_time": 1711763360,
-      "rank": 10,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 789320,
       "num": 789320,
       "word": "经常塞牙其实是牙齿在求救",
@@ -81,6 +81,14 @@
       "onboard_time": 1711714819,
       "rank": 1,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 774260,
+      "num": 774260,
+      "word": "你好星期六全员分享理想型",
+      "onboard_time": 1711764919,
+      "rank": 22,
+      "category": "综艺"
     },
     {
       "raw_hot": 736849,
@@ -179,6 +187,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 520076,
+      "num": 520076,
+      "word": "李一桐 结婚结不过来咯",
+      "onboard_time": 1711753333,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 515906,
       "num": 515906,
       "word": "张踩铃 大胖媳妇重新定义上坟",
@@ -187,12 +203,12 @@
       "category": "网红"
     },
     {
-      "raw_hot": 471119,
-      "num": 471119,
-      "word": "李一桐 结婚结不过来咯",
-      "onboard_time": 1711753333,
-      "rank": 11,
-      "category": "艺人"
+      "raw_hot": 479231,
+      "num": 409526,
+      "word": "何超莲宋轶手挽手",
+      "onboard_time": 1711767857,
+      "rank": 12,
+      "category": "综艺"
     },
     {
       "raw_hot": 460930,
@@ -211,6 +227,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 435679,
+      "num": 435679,
+      "word": "厦门一民房发生火灾致4人死亡",
+      "onboard_time": 1711766177,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 410718,
       "num": 272314,
       "word": "为什么体制内的人都偏爱喝茶",
@@ -225,6 +249,14 @@
       "onboard_time": 1711755857,
       "rank": 8,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 405336,
+      "num": 405336,
+      "word": "官方通报房东拿探照灯验房索赔",
+      "onboard_time": 1711764737,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 394124,
@@ -265,14 +297,6 @@
       "onboard_time": 1711731196,
       "rank": 11,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 326393,
-      "num": 326393,
-      "word": "你好星期六全员分享理想型",
-      "onboard_time": 1711764919,
-      "rank": 22,
-      "category": "综艺"
     },
     {
       "raw_hot": 326026,
@@ -323,6 +347,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 307331,
+      "num": 244873,
+      "word": "疯狂的代购正在毁掉胖东来",
+      "onboard_time": 1711764858,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 298899,
+      "num": 298899,
+      "word": "孙策剧情",
+      "onboard_time": 1711766777,
+      "rank": 16,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 286566,
       "num": 286566,
       "word": "小米汽车回应SU7大量订单被转让",
@@ -339,28 +379,12 @@
       "category": "健康医疗,科学科普"
     },
     {
-      "raw_hot": 272372,
-      "num": 272372,
-      "word": "官方通报房东拿探照灯验房索赔",
-      "onboard_time": 1711764737,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 271718,
       "num": 271718,
       "word": "郭昊文",
       "onboard_time": 1711726039,
       "rank": 15,
       "category": "体育"
-    },
-    {
-      "raw_hot": 257512,
-      "num": 140487,
-      "word": "疯狂的代购正在毁掉胖东来",
-      "onboard_time": 1711764858,
-      "rank": 36,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 256255,
@@ -401,6 +425,14 @@
       "onboard_time": 1711755857,
       "rank": 22,
       "category": "母婴育儿"
+    },
+    {
+      "raw_hot": 247902,
+      "num": 247902,
+      "word": "盒子里的猫开播",
+      "onboard_time": 1711767737,
+      "rank": 19,
+      "category": "综艺"
     },
     {
       "raw_hot": 211350,
@@ -459,6 +491,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 188364,
+      "num": 188364,
+      "word": "最想和喜欢的人做的一件事是什么",
+      "onboard_time": 1711766657,
+      "rank": 25,
+      "category": "情感"
+    },
+    {
       "raw_hot": 187539,
       "num": 187539,
       "word": "央视曝光跑路黄金店",
@@ -473,6 +513,14 @@
       "onboard_time": 1711757537,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 180349,
+      "num": 180349,
+      "word": "陈震测评",
+      "onboard_time": 1711766717,
+      "rank": 26,
+      "category": "汽车"
     },
     {
       "raw_hot": 180085,
@@ -521,6 +569,22 @@
       "onboard_time": 1711764258,
       "rank": 19,
       "category": "美食"
+    },
+    {
+      "raw_hot": 160649,
+      "num": 160649,
+      "word": "忽冷忽热的人可能是病了",
+      "onboard_time": 1711765877,
+      "rank": 44,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 159275,
+      "num": 159275,
+      "word": "李沁王阳喊话王一博破万三人跳舞",
+      "onboard_time": 1711767437,
+      "rank": 29,
+      "category": "剧集"
     },
     {
       "raw_hot": 156944,
@@ -587,6 +651,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 143924,
+      "num": 143924,
+      "word": "周冬雨二八分贴头皮发型",
+      "onboard_time": 1711764138,
+      "rank": 33,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 143447,
       "num": 143447,
       "word": "小米汽车收到退单及改配需求469例",
@@ -611,14 +683,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 140397,
-      "num": 140397,
-      "word": "周冬雨二八分贴头皮发型",
-      "onboard_time": 1711764138,
-      "rank": 33,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 139728,
       "num": 139728,
       "word": "韩沐伯否认出家",
@@ -633,6 +697,14 @@
       "onboard_time": 1711754836,
       "rank": 24,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 136790,
+      "num": 123237,
+      "word": "王一博中国银幕封面",
+      "onboard_time": 1711767017,
+      "rank": 34,
+      "category": "电影"
     },
     {
       "raw_hot": 135791,
@@ -673,6 +745,14 @@
       "onboard_time": 1711725859,
       "rank": 34,
       "category": "演出"
+    },
+    {
+      "raw_hot": 124686,
+      "num": 124686,
+      "word": "特斯拉下线第600万辆汽车",
+      "onboard_time": 1711766117,
+      "rank": 32,
+      "category": "汽车"
     },
     {
       "raw_hot": 124471,
@@ -755,6 +835,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 120475,
+      "num": 120475,
+      "word": "原来多喝茶也是有好处的",
+      "onboard_time": 1711765638,
+      "rank": 40,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 116431,
       "num": 134723,
       "word": "王阳好会说",
@@ -795,20 +883,28 @@
       "category": "电影"
     },
     {
-      "raw_hot": 107666,
-      "num": 107666,
-      "word": "原来多喝茶也是有好处的",
-      "onboard_time": 1711765638,
-      "rank": 40,
+      "raw_hot": 106940,
+      "num": 106940,
+      "word": "身体出现这些变化警惕抑郁症",
+      "onboard_time": 1711767196,
+      "rank": 41,
       "category": "健康医疗"
     },
     {
-      "raw_hot": 102289,
-      "num": 102289,
-      "word": "忽冷忽热的人可能是病了",
-      "onboard_time": 1711765877,
+      "raw_hot": 103861,
+      "num": 103861,
+      "word": "当p人和j人准备出门时",
+      "onboard_time": 1711767976,
+      "rank": 43,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 103608,
+      "num": 103608,
+      "word": "重返未来1.8版本",
+      "onboard_time": 1711768757,
       "rank": 44,
-      "category": "健康医疗"
+      "category": "游戏"
     },
     {
       "raw_hot": 97190,
@@ -875,6 +971,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 89127,
+      "num": 89127,
+      "word": "中国军队将赴俄罗斯参赛",
+      "onboard_time": 1711768638,
+      "rank": 48,
+      "category": "国内时政,军事"
+    },
+    {
       "raw_hot": 87836,
       "num": 134633,
       "word": "哥斯拉大战金刚2没有彩蛋",
@@ -889,6 +993,14 @@
       "onboard_time": 1711724778,
       "rank": 45,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 86656,
+      "num": 86656,
+      "word": "小米定金",
+      "onboard_time": 1711766596,
+      "rank": 49,
+      "category": "汽车"
     },
     {
       "raw_hot": 84320,
@@ -1075,7 +1187,7 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 5251,
+      "raw_hot": 5871,
       "num": 920515,
       "word": "2024中国网络媒体论坛",
       "onboard_time": 1711628721,
