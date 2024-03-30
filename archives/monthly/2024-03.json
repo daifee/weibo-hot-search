@@ -1,6 +1,6 @@
 {
   "startTime": 1709223640991,
-  "endTime": 1711820046828,
+  "endTime": 1711822914092,
   "band_list": [
     {
       "raw_hot": 21250232,
@@ -41443,6 +41443,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 231690,
+      "num": 152734,
+      "word": "郝蕾说纪凌尘就是实力不够",
+      "onboard_time": 1711817955,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 231577,
       "num": 231577,
       "word": "1块钱的盐和20块钱的盐有啥区别",
@@ -62307,14 +62315,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 158959,
-      "num": 102379,
-      "word": "郝蕾说纪凌尘就是实力不够",
-      "onboard_time": 1711817955,
-      "rank": 22,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 158928,
       "num": 158928,
       "word": "kpop士兵突击",
@@ -70121,6 +70121,14 @@
       "onboard_time": 1710076470,
       "rank": 48,
       "category": "军事"
+    },
+    {
+      "raw_hot": 136710,
+      "num": 136710,
+      "word": "福州暴雨",
+      "onboard_time": 1711819755,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 136685,
@@ -79995,6 +80003,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 93433,
+      "num": 60593,
+      "word": "宋雨琦在奔跑吧跳fate了",
+      "onboard_time": 1711819993,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 93414,
       "num": 93414,
       "word": "IMBT",
@@ -82475,14 +82491,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 60593,
-      "num": 60593,
-      "word": "宋雨琦在奔跑吧跳fate了",
-      "onboard_time": 1711819993,
-      "rank": 43,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 60564,
       "num": 1365312,
       "word": "全国两会怎样影响我们的生活",
@@ -84139,6 +84147,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 39262,
+      "num": 37746,
+      "word": "王子奇创造营舞台幕后vlog",
+      "onboard_time": 1711822632,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 39221,
       "num": 280476,
       "word": "9代凯美瑞有多强",
@@ -84425,14 +84441,6 @@
       "onboard_time": 1709807252,
       "rank": 38,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 34792,
-      "num": 59134,
-      "word": "福州暴雨",
-      "onboard_time": 1711819755,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 34745,
@@ -85353,6 +85361,14 @@
       "onboard_time": 1711304892,
       "rank": 40,
       "category": "情感"
+    },
+    {
+      "raw_hot": 22272,
+      "num": 36939,
+      "word": "3个细节可能是肠癌信号",
+      "onboard_time": 1711822512,
+      "rank": 49,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 22111,
