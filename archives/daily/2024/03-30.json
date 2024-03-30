@@ -1,6 +1,6 @@
 {
   "startTime": 1711729335311,
-  "endTime": 1711773262778,
+  "endTime": 1711775894304,
   "band_list": [
     {
       "raw_hot": 1598351,
@@ -27,8 +27,16 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 1094128,
-      "num": 1094128,
+      "raw_hot": 1324874,
+      "num": 1324874,
+      "word": "杨采薇入狱",
+      "onboard_time": 1711773797,
+      "rank": 0,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 1290367,
+      "num": 1290367,
       "word": "杭州东站",
       "onboard_time": 1711770977,
       "rank": 4,
@@ -36,7 +44,7 @@
     },
     {
       "raw_hot": 1089608,
-      "num": 496039,
+      "num": 533399,
       "word": "代号鸢尺度",
       "onboard_time": 1711763360,
       "rank": 10,
@@ -56,6 +64,14 @@
       "word": "黄晓明报平安",
       "onboard_time": 1711755375,
       "rank": 3,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 974897,
+      "num": 974897,
+      "word": "段奥娟风格 刘浩存",
+      "onboard_time": 1711773257,
+      "rank": 4,
       "category": "艺人"
     },
     {
@@ -123,6 +139,14 @@
       "category": "国内时政,军事"
     },
     {
+      "raw_hot": 751949,
+      "num": 536641,
+      "word": "百日咳今年已致13人死亡",
+      "onboard_time": 1711774157,
+      "rank": 10,
+      "category": "社会新闻,健康医疗"
+    },
+    {
       "raw_hot": 736849,
       "num": 736849,
       "word": "齐邦媛去世",
@@ -177,6 +201,22 @@
       "onboard_time": 1711724778,
       "rank": 5,
       "category": "电影"
+    },
+    {
+      "raw_hot": 631682,
+      "num": 631682,
+      "word": "杭州东站一男子闯入动车轨道奔跑",
+      "onboard_time": 1711772897,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 628204,
+      "num": 628204,
+      "word": "事业编",
+      "onboard_time": 1711773198,
+      "rank": 47,
+      "category": "教育"
     },
     {
       "raw_hot": 627730,
@@ -241,6 +281,22 @@
       "onboard_time": 1711762099,
       "rank": 30,
       "category": "网红"
+    },
+    {
+      "raw_hot": 472319,
+      "num": 539323,
+      "word": "蒲熠星 抢票",
+      "onboard_time": 1711772777,
+      "rank": 16,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 465427,
+      "num": 465427,
+      "word": "樊振东vs张本智和",
+      "onboard_time": 1711774997,
+      "rank": 13,
+      "category": "体育"
     },
     {
       "raw_hot": 460930,
@@ -315,6 +371,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 384114,
+      "num": 317048,
+      "word": "从不痛经的女生到底有什么不一样",
+      "onboard_time": 1711773857,
+      "rank": 20,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 380130,
+      "num": 380130,
+      "word": "范志毅咬鹿晗脖子大腿",
+      "onboard_time": 1711774337,
+      "rank": 15,
+      "category": "综艺,艺人"
+    },
+    {
       "raw_hot": 370388,
       "num": 370388,
       "word": "赵丽颖成毅友情",
@@ -336,14 +408,6 @@
       "word": "肖战家居服的松弛感",
       "onboard_time": 1711769596,
       "rank": 42,
-      "category": "作品衍生"
-    },
-    {
-      "raw_hot": 343117,
-      "num": 343117,
-      "word": "蒲熠星 抢票",
-      "onboard_time": 1711772777,
-      "rank": 16,
       "category": "作品衍生"
     },
     {
@@ -371,6 +435,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 328779,
+      "num": 328779,
+      "word": "蓝盈莹回碎玉轩了",
+      "onboard_time": 1711774638,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 326026,
       "num": 326026,
       "word": "罗永浩称小米汽车很可能上演良币驱逐劣币",
@@ -393,6 +465,14 @@
       "onboard_time": 1711726580,
       "rank": 12,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 317286,
+      "num": 317286,
+      "word": "江西师大通报男生宿舍虐猫",
+      "onboard_time": 1711774519,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 313776,
@@ -451,6 +531,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 287933,
+      "num": 287933,
+      "word": "奔跑吧",
+      "onboard_time": 1711772957,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 286566,
       "num": 286566,
       "word": "小米汽车回应SU7大量订单被转让",
@@ -472,6 +560,14 @@
       "word": "郭昊文",
       "onboard_time": 1711726039,
       "rank": 15,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 266806,
+      "num": 266806,
+      "word": "陈梦vs斯佐科斯",
+      "onboard_time": 1711773797,
+      "rank": 23,
       "category": "体育"
     },
     {
@@ -539,12 +635,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 220832,
+      "num": 220832,
+      "word": "事业单位联考答案",
+      "onboard_time": 1711774939,
+      "rank": 27,
+      "category": "教育"
+    },
+    {
       "raw_hot": 211350,
       "num": 211350,
       "word": "眼泪女王",
       "onboard_time": 1711761258,
       "rank": 23,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 210078,
+      "num": 210078,
+      "word": "陈梦女单进4强",
+      "onboard_time": 1711775299,
+      "rank": 28,
+      "category": "体育"
     },
     {
       "raw_hot": 208152,
@@ -563,12 +675,12 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 205767,
-      "num": 205767,
-      "word": "杭州东站一男子闯入动车轨道奔跑",
-      "onboard_time": 1711772897,
-      "rank": 28,
-      "category": "社会新闻"
+      "raw_hot": 207518,
+      "num": 207518,
+      "word": "难哄剧组说明",
+      "onboard_time": 1711773797,
+      "rank": 30,
+      "category": "剧集"
     },
     {
       "raw_hot": 197778,
@@ -595,12 +707,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 194018,
+      "num": 194018,
+      "word": "时代少年团演唱会",
+      "onboard_time": 1711775358,
+      "rank": 32,
+      "category": "演出"
+    },
+    {
       "raw_hot": 192330,
       "num": 192330,
       "word": "长期不防晒皮肤会发生哪些变化",
       "onboard_time": 1711772058,
       "rank": 41,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 190309,
+      "num": 190309,
+      "word": "明星用假人直播带货要担责吗",
+      "onboard_time": 1711775778,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 189467,
@@ -699,14 +827,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 172913,
-      "num": 172913,
-      "word": "奔跑吧",
-      "onboard_time": 1711772957,
-      "rank": 32,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 172799,
       "num": 172799,
       "word": "花钱洗牙是智商税吗",
@@ -753,6 +873,14 @@
       "onboard_time": 1711770017,
       "rank": 35,
       "category": "教育"
+    },
+    {
+      "raw_hot": 159084,
+      "num": 159084,
+      "word": "翻到了十年前穿过的旧衣服",
+      "onboard_time": 1711773317,
+      "rank": 37,
+      "category": "情感"
     },
     {
       "raw_hot": 156944,
@@ -835,6 +963,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 144519,
+      "num": 144519,
+      "word": "冗余",
+      "onboard_time": 1711773497,
+      "rank": 41,
+      "category": "教育"
+    },
+    {
       "raw_hot": 143447,
       "num": 143447,
       "word": "小米汽车收到退单及改配需求469例",
@@ -891,6 +1027,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 136209,
+      "num": 136209,
+      "word": "小说坠落",
+      "onboard_time": 1711775478,
+      "rank": 43,
+      "category": "读书作家"
+    },
+    {
       "raw_hot": 135791,
       "num": 135791,
       "word": "鞠婧祎转头甩发",
@@ -905,6 +1049,14 @@
       "onboard_time": 1711721360,
       "rank": 33,
       "category": "演出"
+    },
+    {
+      "raw_hot": 133950,
+      "num": 133950,
+      "word": "在自习室收到了一张传单",
+      "onboard_time": 1711773438,
+      "rank": 44,
+      "category": "情感"
     },
     {
       "raw_hot": 133913,
@@ -955,6 +1107,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 123949,
+      "num": 123949,
+      "word": "欧文末节之王",
+      "onboard_time": 1711775719,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 123759,
       "num": 134748,
       "word": "梦天拍的杨幂",
@@ -969,6 +1129,14 @@
       "onboard_time": 1711760477,
       "rank": 40,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 123221,
+      "num": 123221,
+      "word": "泰山治嘴硬 黄山治命硬",
+      "onboard_time": 1711774216,
+      "rank": 48,
+      "category": "旅游"
     },
     {
       "raw_hot": 123090,
@@ -993,6 +1161,14 @@
       "onboard_time": 1711716078,
       "rank": 28,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 122415,
+      "num": 122415,
+      "word": "哥斯拉",
+      "onboard_time": 1711774216,
+      "rank": 49,
+      "category": "电影"
     },
     {
       "raw_hot": 121761,
@@ -1049,14 +1225,6 @@
       "onboard_time": 1711717577,
       "rank": 37,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 115325,
-      "num": 115325,
-      "word": "事业编",
-      "onboard_time": 1711773198,
-      "rank": 47,
-      "category": "教育"
     },
     {
       "raw_hot": 113779,
@@ -1427,8 +1595,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 7435,
-      "num": 1043523,
+      "raw_hot": 8931,
+      "num": 1231799,
       "word": "2024中国网络媒体论坛",
       "onboard_time": 1711628721,
       "rank": 2,

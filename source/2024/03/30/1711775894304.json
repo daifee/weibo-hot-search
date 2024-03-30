@@ -1,0 +1,410 @@
+{
+  "runTime": 1711775894304,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1324874,
+        "num": 1324874,
+        "word": "杨采薇入狱",
+        "onboard_time": 1711773797,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1290367,
+        "num": 1290367,
+        "word": "杭州东站",
+        "onboard_time": 1711770977,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 8931,
+        "num": 1231799,
+        "word": "2024中国网络媒体论坛",
+        "onboard_time": 1711628721,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1215368,
+        "num": 1215368,
+        "word": "偷点外卖就不要写真实姓名了",
+        "onboard_time": 1711770197,
+        "rank": 3,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 974897,
+        "num": 974897,
+        "word": "段奥娟风格 刘浩存",
+        "onboard_time": 1711773257,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 869337,
+        "num": 869337,
+        "word": "事业单位联考",
+        "onboard_time": 1711772479,
+        "rank": 5,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 631682,
+        "num": 631682,
+        "word": "杭州东站一男子闯入动车轨道奔跑",
+        "onboard_time": 1711772897,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 628204,
+        "num": 628204,
+        "word": "事业编",
+        "onboard_time": 1711773198,
+        "rank": 7,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 559948,
+        "num": 559948,
+        "word": "网曝女子未出月子抱着孩子离婚",
+        "onboard_time": 1711759038,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 472319,
+        "num": 539323,
+        "word": "蒲熠星 抢票",
+        "onboard_time": 1711772777,
+        "rank": 9,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 751949,
+        "num": 536641,
+        "word": "百日咳今年已致13人死亡",
+        "onboard_time": 1711774157,
+        "rank": 10,
+        "category": "社会新闻,健康医疗"
+      },
+      {
+        "raw_hot": 554872,
+        "num": 533399,
+        "word": "代号鸢尺度",
+        "onboard_time": 1711763360,
+        "rank": 11,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 507677,
+        "num": 507677,
+        "word": "35岁是男性生育力拐点",
+        "onboard_time": 1711754475,
+        "rank": 12,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 465427,
+        "num": 465427,
+        "word": "樊振东vs张本智和",
+        "onboard_time": 1711774997,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 384071,
+        "num": 384071,
+        "word": "北大毕业女生摆摊卖手串月入5万",
+        "onboard_time": 1711762278,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 380130,
+        "num": 380130,
+        "word": "范志毅咬鹿晗脖子大腿",
+        "onboard_time": 1711774337,
+        "rank": 15,
+        "category": "综艺,艺人"
+      },
+      {
+        "raw_hot": 334080,
+        "num": 334080,
+        "word": "阿富汗将恢复对通奸妇女石刑鞭刑",
+        "onboard_time": 1711759938,
+        "rank": 16,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 331345,
+        "num": 331345,
+        "word": "代号鸢离国服越来越远了",
+        "onboard_time": 1711771156,
+        "rank": 17,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 328779,
+        "num": 328779,
+        "word": "蓝盈莹回碎玉轩了",
+        "onboard_time": 1711774638,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 317286,
+        "num": 317286,
+        "word": "江西师大通报男生宿舍虐猫",
+        "onboard_time": 1711774519,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 384114,
+        "num": 317048,
+        "word": "从不痛经的女生到底有什么不一样",
+        "onboard_time": 1711773857,
+        "rank": 20,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 316572,
+        "num": 316572,
+        "word": "中国军队将赴俄罗斯参赛",
+        "onboard_time": 1711768638,
+        "rank": 21,
+        "category": "国内时政,军事"
+      },
+      {
+        "raw_hot": 287933,
+        "num": 287933,
+        "word": "奔跑吧",
+        "onboard_time": 1711772957,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 266806,
+        "num": 266806,
+        "word": "陈梦vs斯佐科斯",
+        "onboard_time": 1711773797,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 263764,
+        "num": 263764,
+        "word": "女生带回一件染血校服学校补发一套",
+        "onboard_time": 1711753393,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 248670,
+        "num": 248670,
+        "word": "李一桐 结婚结不过来咯",
+        "onboard_time": 1711753333,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 226710,
+        "num": 226710,
+        "word": "何超莲宋轶手挽手",
+        "onboard_time": 1711767857,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 220832,
+        "num": 220832,
+        "word": "事业单位联考答案",
+        "onboard_time": 1711774939,
+        "rank": 27,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 210078,
+        "num": 210078,
+        "word": "陈梦女单进4强",
+        "onboard_time": 1711775299,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 85712,
+        "num": 208563,
+        "word": "厦门一民房发生火灾致4人死亡",
+        "onboard_time": 1711766177,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 207518,
+        "num": 207518,
+        "word": "难哄剧组说明",
+        "onboard_time": 1711773797,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 203532,
+        "num": 203532,
+        "word": "陈靖可孙千怎么亲上了",
+        "onboard_time": 1711771096,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 194018,
+        "num": 194018,
+        "word": "时代少年团演唱会",
+        "onboard_time": 1711775358,
+        "rank": 32,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 192494,
+        "num": 192494,
+        "word": "你好星期六全员分享理想型",
+        "onboard_time": 1711764919,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 190309,
+        "num": 190309,
+        "word": "明星用假人直播带货要担责吗",
+        "onboard_time": 1711775778,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 66188,
+        "num": 183084,
+        "word": "智界S7开启大规模交付",
+        "onboard_time": 1711771337,
+        "rank": 35,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 176856,
+        "num": 176856,
+        "word": "迪丽热巴三月末对镜拍",
+        "onboard_time": 1711770618,
+        "rank": 36,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 159084,
+        "num": 159084,
+        "word": "翻到了十年前穿过的旧衣服",
+        "onboard_time": 1711773317,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 156599,
+        "num": 156599,
+        "word": "为什么体制内的人都偏爱喝茶",
+        "onboard_time": 1711759158,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 154156,
+        "num": 154156,
+        "word": "疯狂的代购正在毁掉胖东来",
+        "onboard_time": 1711764858,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 145547,
+        "num": 145547,
+        "word": "长期不防晒皮肤会发生哪些变化",
+        "onboard_time": 1711772058,
+        "rank": 40,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 144519,
+        "num": 144519,
+        "word": "冗余",
+        "onboard_time": 1711773497,
+        "rank": 41,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 142238,
+        "num": 142238,
+        "word": "梁靖崑绝境大逆转",
+        "onboard_time": 1711770737,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 136209,
+        "num": 136209,
+        "word": "小说坠落",
+        "onboard_time": 1711775478,
+        "rank": 43,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 133950,
+        "num": 133950,
+        "word": "在自习室收到了一张传单",
+        "onboard_time": 1711773438,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 130907,
+        "num": 130907,
+        "word": "小米汽车销售称凌晨2点下班7点又上班",
+        "onboard_time": 1711759038,
+        "rank": 45,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 129121,
+        "num": 129121,
+        "word": "小米汽车回应",
+        "onboard_time": 1711722739,
+        "rank": 46,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 123949,
+        "num": 123949,
+        "word": "欧文末节之王",
+        "onboard_time": 1711775719,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 123221,
+        "num": 123221,
+        "word": "泰山治嘴硬 黄山治命硬",
+        "onboard_time": 1711774216,
+        "rank": 48,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 122415,
+        "num": 122415,
+        "word": "哥斯拉",
+        "onboard_time": 1711774216,
+        "rank": 49,
+        "category": "电影"
+      }
+    ],
+    "hotgov": {
+      "word": "#中共中央政治局3月29日召开会议#"
+    }
+  }
+}
