@@ -1,6 +1,6 @@
 {
   "startTime": 1709223640991,
-  "endTime": 1711826050170,
+  "endTime": 1711827236936,
   "band_list": [
     {
       "raw_hot": 21250232,
@@ -82723,6 +82723,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 57870,
+      "num": 32754,
+      "word": "吴宗宪回应女儿咖啡店被砸",
+      "onboard_time": 1711825752,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 57855,
       "num": 1258578,
       "word": "100秒说两会",
@@ -83729,14 +83737,6 @@
       "onboard_time": 1709644293,
       "rank": 38,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 45664,
-      "num": 32754,
-      "word": "吴宗宪回应女儿咖啡店被砸",
-      "onboard_time": 1711825752,
-      "rank": 31,
-      "category": "艺人"
     },
     {
       "raw_hot": 45484,

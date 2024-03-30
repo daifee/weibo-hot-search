@@ -1,6 +1,6 @@
 {
   "startTime": 1711815680412,
-  "endTime": 1711826050170,
+  "endTime": 1711827236936,
   "band_list": [
     {
       "raw_hot": 1290409,
@@ -459,6 +459,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 57870,
+      "num": 32754,
+      "word": "吴宗宪回应女儿咖啡店被砸",
+      "onboard_time": 1711825752,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 52856,
       "num": 137992,
       "word": "员工请假照顾父亲00后老板提前发工资",
@@ -473,14 +481,6 @@
       "onboard_time": 1711820113,
       "rank": 35,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 45664,
-      "num": 32754,
-      "word": "吴宗宪回应女儿咖啡店被砸",
-      "onboard_time": 1711825752,
-      "rank": 31,
-      "category": "艺人"
     },
     {
       "raw_hot": 43176,
