@@ -1,6 +1,6 @@
 {
   "startTime": 1711210803824,
-  "endTime": 1711783012470,
+  "endTime": 1711784032266,
   "band_list": [
     {
       "raw_hot": 21250232,
@@ -443,6 +443,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1742416,
+      "num": 1742416,
+      "word": "雷军能不能生产一下相机",
+      "onboard_time": 1711778538,
+      "rank": 13,
+      "category": "数码"
+    },
+    {
       "raw_hot": 1720402,
       "num": 1720402,
       "word": "天水麻辣烫把锅煮烂了",
@@ -593,14 +601,6 @@
       "onboard_time": 1711759038,
       "rank": 1,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1491210,
-      "num": 1491210,
-      "word": "雷军能不能生产一下相机",
-      "onboard_time": 1711778538,
-      "rank": 13,
-      "category": "数码"
     },
     {
       "raw_hot": 1485763,
@@ -1729,6 +1729,14 @@
       "onboard_time": 1711537819,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 838385,
+      "num": 838385,
+      "word": "孙颖莎vs早田希娜",
+      "onboard_time": 1711780457,
+      "rank": 4,
+      "category": "体育"
     },
     {
       "raw_hot": 837882,
@@ -3027,14 +3035,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 617927,
-      "num": 617927,
-      "word": "孙颖莎vs早田希娜",
-      "onboard_time": 1711780457,
-      "rank": 4,
-      "category": "体育"
-    },
-    {
       "raw_hot": 617183,
       "num": 617183,
       "word": "农历二月十九",
@@ -3307,6 +3307,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 576337,
+      "num": 576337,
+      "word": "郝蕾怼难哄制片人",
+      "onboard_time": 1711778658,
+      "rank": 7,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 576089,
       "num": 576089,
       "word": "iOS18将采用新的主屏幕",
@@ -3449,14 +3457,6 @@
       "onboard_time": 1711596738,
       "rank": 45,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 560508,
-      "num": 560508,
-      "word": "郝蕾怼难哄制片人",
-      "onboard_time": 1711778658,
-      "rank": 7,
-      "category": "剧集"
     },
     {
       "raw_hot": 559533,
@@ -6003,6 +6003,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 364617,
+      "num": 327362,
+      "word": "小米汽车遭遇上百余名消费者投诉",
+      "onboard_time": 1711782857,
+      "rank": 43,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 364544,
       "num": 364544,
       "word": "王一博醉酒戏是即兴发挥",
@@ -6457,6 +6465,14 @@
       "onboard_time": 1711458977,
       "rank": 36,
       "category": "体育"
+    },
+    {
+      "raw_hot": 333777,
+      "num": 333777,
+      "word": "SEVENTEEN十三人完整体",
+      "onboard_time": 1711782137,
+      "rank": 16,
+      "category": "演出"
     },
     {
       "raw_hot": 333132,
@@ -7019,6 +7035,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 303418,
+      "num": 254957,
+      "word": "卵巢癌的预警信号可能被你忽视了",
+      "onboard_time": 1711782196,
+      "rank": 21,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 303265,
       "num": 303265,
       "word": "going seventeen",
@@ -7355,6 +7379,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 291085,
+      "num": 255891,
+      "word": "实习生转正后拒绝了提薪",
+      "onboard_time": 1711780036,
+      "rank": 28,
+      "category": "情感"
+    },
+    {
       "raw_hot": 290979,
       "num": 290979,
       "word": "限量版行李箱被摔破损吉祥航空只赔500",
@@ -7547,12 +7579,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 285378,
-      "num": 285378,
-      "word": "SEVENTEEN十三人完整体",
-      "onboard_time": 1711782137,
-      "rank": 16,
-      "category": "演出"
+      "raw_hot": 284790,
+      "num": 284790,
+      "word": "谁给李灿剪的头",
+      "onboard_time": 1711781537,
+      "rank": 17,
+      "category": "演出,时尚"
     },
     {
       "raw_hot": 284583,
@@ -7665,14 +7697,6 @@
       "onboard_time": 1711266499,
       "rank": 26,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 279999,
-      "num": 255891,
-      "word": "实习生转正后拒绝了提薪",
-      "onboard_time": 1711780036,
-      "rank": 28,
-      "category": "情感"
     },
     {
       "raw_hot": 279784,
@@ -7993,14 +8017,6 @@
       "onboard_time": 1711417519,
       "rank": 24,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 265074,
-      "num": 265074,
-      "word": "谁给李灿剪的头",
-      "onboard_time": 1711781537,
-      "rank": 17,
-      "category": "演出,时尚"
     },
     {
       "raw_hot": 264321,
@@ -8329,14 +8345,6 @@
       "onboard_time": 1711715838,
       "rank": 26,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 254957,
-      "num": 254957,
-      "word": "卵巢癌的预警信号可能被你忽视了",
-      "onboard_time": 1711782196,
-      "rank": 21,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 254256,
@@ -10979,6 +10987,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 199537,
+      "num": 199537,
+      "word": "尹净汉妹妹头",
+      "onboard_time": 1711782738,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 199535,
       "num": 174683,
       "word": "猴崽首次插花体验",
@@ -11275,6 +11291,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 195993,
+      "num": 195993,
+      "word": "孙颖莎3比2早田希娜",
+      "onboard_time": 1711783876,
+      "rank": 27,
+      "category": "体育"
+    },
+    {
       "raw_hot": 195892,
       "num": 195892,
       "word": "kcon",
@@ -11505,6 +11529,14 @@
       "onboard_time": 1711621279,
       "rank": 27,
       "category": "电影"
+    },
+    {
+      "raw_hot": 193407,
+      "num": 193407,
+      "word": "迪丽热巴聂九罗艺术家穿搭",
+      "onboard_time": 1711781778,
+      "rank": 34,
+      "category": "剧集"
     },
     {
       "raw_hot": 193383,
@@ -12017,6 +12049,14 @@
       "onboard_time": 1711430539,
       "rank": 30,
       "category": "演出"
+    },
+    {
+      "raw_hot": 188041,
+      "num": 188041,
+      "word": "现实中的狸猫换太子",
+      "onboard_time": 1711782857,
+      "rank": 41,
+      "category": "幽默"
     },
     {
       "raw_hot": 187753,
@@ -12875,6 +12915,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 174805,
+      "num": 174805,
+      "word": "泰妍和惠利是怎样成为挚友的",
+      "onboard_time": 1711782438,
+      "rank": 39,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 174794,
       "num": 174794,
       "word": "云黎杨玉环五杀",
@@ -12945,14 +12993,6 @@
       "onboard_time": 1711206920,
       "rank": 34,
       "category": "美食"
-    },
-    {
-      "raw_hot": 173459,
-      "num": 173459,
-      "word": "迪丽热巴聂九罗艺术家穿搭",
-      "onboard_time": 1711781778,
-      "rank": 34,
-      "category": "剧集"
     },
     {
       "raw_hot": 173305,
@@ -13083,12 +13123,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 171169,
-      "num": 171169,
-      "word": "尹净汉妹妹头",
-      "onboard_time": 1711782738,
-      "rank": 36,
-      "category": "艺人"
+      "raw_hot": 172068,
+      "num": 172068,
+      "word": "刘宇成都",
+      "onboard_time": 1711783217,
+      "rank": 34,
+      "category": "演出"
     },
     {
       "raw_hot": 171159,
@@ -13531,14 +13571,6 @@
       "category": "教育,社会新闻"
     },
     {
-      "raw_hot": 165665,
-      "num": 165665,
-      "word": "泰妍和惠利是怎样成为挚友的",
-      "onboard_time": 1711782438,
-      "rank": 39,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 165564,
       "num": 165564,
       "word": "wtt",
@@ -13569,6 +13601,14 @@
       "onboard_time": 1711254800,
       "rank": 45,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 165285,
+      "num": 165285,
+      "word": "赵丽颖沈璃梦回碧瑶",
+      "onboard_time": 1711783338,
+      "rank": 37,
+      "category": "剧集"
     },
     {
       "raw_hot": 165255,
@@ -14155,14 +14195,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 159111,
-      "num": 159111,
-      "word": "现实中的狸猫换太子",
-      "onboard_time": 1711782857,
-      "rank": 41,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 159084,
       "num": 159084,
       "word": "翻到了十年前穿过的旧衣服",
@@ -14523,6 +14555,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 154310,
+      "num": 154310,
+      "word": "巅峰盛典红毯",
+      "onboard_time": 1711783940,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 154066,
       "num": 154066,
       "word": "最好的怯魅就是经历",
@@ -14827,14 +14867,6 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 150659,
-      "num": 150659,
-      "word": "小米汽车遭遇上百余名消费者投诉",
-      "onboard_time": 1711782857,
-      "rank": 43,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 150647,
       "num": 150647,
       "word": "米卢曾赞李铁是上帝赐给中国足球的礼物",
@@ -15035,6 +15067,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 148506,
+      "num": 148506,
+      "word": "百日咳卷土重来或因成人免疫力下降",
+      "onboard_time": 1711782738,
+      "rank": 46,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 148380,
       "num": 148380,
       "word": "许嵩武汉场二开",
@@ -15065,6 +15105,14 @@
       "onboard_time": 1711613957,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 148161,
+      "num": 148161,
+      "word": "花间令 不怕男二坏就怕男二帅",
+      "onboard_time": 1711782558,
+      "rank": 45,
+      "category": "剧集"
     },
     {
       "raw_hot": 148074,
@@ -15627,14 +15675,6 @@
       "category": "时尚"
     },
     {
-      "raw_hot": 141621,
-      "num": 141621,
-      "word": "花间令 不怕男二坏就怕男二帅",
-      "onboard_time": 1711782558,
-      "rank": 45,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 141486,
       "num": 141486,
       "word": "章昊OST成绩",
@@ -15729,14 +15769,6 @@
       "onboard_time": 1711585941,
       "rank": 39,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 140741,
-      "num": 140741,
-      "word": "百日咳卷土重来或因成人免疫力下降",
-      "onboard_time": 1711782738,
-      "rank": 46,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 140552,
@@ -17011,6 +17043,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 122750,
+      "num": 286831,
+      "word": "你见过粉色的大理么",
+      "onboard_time": 1711779498,
+      "rank": 48,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 122740,
       "num": 122740,
       "word": "张杰三生三世蒙眼杀",
@@ -17824,14 +17864,6 @@
       "word": "4名大学室友赴十年之约自驾去拉萨",
       "onboard_time": 1711504579,
       "rank": 49,
-      "category": "旅游"
-    },
-    {
-      "raw_hot": 107757,
-      "num": 286831,
-      "word": "你见过粉色的大理么",
-      "onboard_time": 1711779498,
-      "rank": 48,
       "category": "旅游"
     },
     {
