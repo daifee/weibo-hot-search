@@ -1,6 +1,6 @@
 {
   "startTime": 1711210803824,
-  "endTime": 1711811880903,
+  "endTime": 1711812923775,
   "band_list": [
     {
       "raw_hot": 21250232,
@@ -491,6 +491,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1669926,
+      "num": 1669926,
+      "word": "一个富二代留学生被家里断供一年后",
+      "onboard_time": 1711809441,
+      "rank": 0,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1657154,
       "num": 774371,
       "word": "医院取精室里都有些什么",
@@ -705,14 +713,6 @@
       "onboard_time": 1711368738,
       "rank": 5,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 1447681,
-      "num": 1447681,
-      "word": "一个富二代留学生被家里断供一年后",
-      "onboard_time": 1711809441,
-      "rank": 0,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1445197,
@@ -2972,7 +2972,7 @@
     },
     {
       "raw_hot": 657913,
-      "num": 374718,
+      "num": 537805,
       "word": "1800名肺癌患者赠药突然中止",
       "onboard_time": 1711807700,
       "rank": 37,
@@ -3505,6 +3505,14 @@
       "onboard_time": 1711197020,
       "rank": 6,
       "category": "演出"
+    },
+    {
+      "raw_hot": 584431,
+      "num": 361812,
+      "word": "尔冬升说张栋梁是天生的变态",
+      "onboard_time": 1711811779,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 582504,
@@ -7139,6 +7147,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 321777,
+      "num": 321777,
+      "word": "内娱天选理想型",
+      "onboard_time": 1711810879,
+      "rank": 22,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 321523,
       "num": 321523,
       "word": "肖战年度全媒体关注剧星",
@@ -8324,7 +8340,7 @@
     },
     {
       "raw_hot": 277720,
-      "num": 277720,
+      "num": 370250,
       "word": "王曼昱孙颖莎女单争冠",
       "onboard_time": 1711809620,
       "rank": 9,
@@ -8875,20 +8891,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 256884,
-      "num": 256884,
-      "word": "内娱天选理想型",
-      "onboard_time": 1711810879,
-      "rank": 22,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 256839,
       "num": 256839,
       "word": "种地吧直播",
       "onboard_time": 1711444219,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 256350,
+      "num": 234339,
+      "word": "墨方原来是卧底",
+      "onboard_time": 1711811600,
+      "rank": 41,
+      "category": "剧集"
     },
     {
       "raw_hot": 256255,
@@ -9793,6 +9809,14 @@
       "onboard_time": 1711599800,
       "rank": 30,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 233716,
+      "num": 233716,
+      "word": "每天久坐超4小时会怎样",
+      "onboard_time": 1711812021,
+      "rank": 24,
+      "category": "健康医疗,科学科普"
     },
     {
       "raw_hot": 233670,
@@ -10867,6 +10891,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 212077,
+      "num": 243417,
+      "word": "武磊说孙兴慜进球后不该挑衅球迷",
+      "onboard_time": 1711810038,
+      "rank": 26,
+      "category": "体育"
+    },
+    {
       "raw_hot": 211756,
       "num": 211756,
       "word": "坠落特签",
@@ -10913,14 +10945,6 @@
       "onboard_time": 1711271598,
       "rank": 38,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 211055,
-      "num": 243417,
-      "word": "武磊说孙兴慜进球后不该挑衅球迷",
-      "onboard_time": 1711810038,
-      "rank": 26,
-      "category": "体育"
     },
     {
       "raw_hot": 210456,
@@ -11377,6 +11401,14 @@
       "onboard_time": 1711613418,
       "rank": 35,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 203922,
+      "num": 203922,
+      "word": "追风者 编剧",
+      "onboard_time": 1711812439,
+      "rank": 32,
+      "category": "剧集"
     },
     {
       "raw_hot": 203815,
@@ -13123,6 +13155,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 184927,
+      "num": 184927,
+      "word": "代号鸢下载",
+      "onboard_time": 1711808060,
+      "rank": 39,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 184863,
       "num": 405131,
       "word": "汽车失控小伙飞身挂在车窗上截停",
@@ -13473,14 +13513,6 @@
       "onboard_time": 1711599559,
       "rank": 48,
       "category": "演出"
-    },
-    {
-      "raw_hot": 180161,
-      "num": 180161,
-      "word": "尔冬升说张栋梁是天生的变态",
-      "onboard_time": 1711811779,
-      "rank": 36,
-      "category": "综艺"
     },
     {
       "raw_hot": 180139,
@@ -13947,14 +13979,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 173123,
-      "num": 165730,
-      "word": "墨方原来是卧底",
-      "onboard_time": 1711811600,
-      "rank": 41,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 173090,
       "num": 173090,
       "word": "赵丽颖晒小凤凰表情",
@@ -14041,14 +14065,6 @@
       "onboard_time": 1711266917,
       "rank": 40,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 172376,
-      "num": 172376,
-      "word": "代号鸢下载",
-      "onboard_time": 1711808060,
-      "rank": 39,
-      "category": "游戏"
     },
     {
       "raw_hot": 172237,
@@ -19017,6 +19033,14 @@
       "onboard_time": 1711504579,
       "rank": 49,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 107782,
+      "num": 107782,
+      "word": "浙江男子账户里的2470万保住了",
+      "onboard_time": 1711812500,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 107711,
