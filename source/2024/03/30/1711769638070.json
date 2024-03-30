@@ -1,0 +1,410 @@
+{
+  "runTime": 1711769638070,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1097643,
+        "num": 1097643,
+        "word": "网曝女子未出月子抱着孩子离婚",
+        "onboard_time": 1711759038,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 856693,
+        "num": 856693,
+        "word": "北大毕业女生摆摊卖手串月入5万",
+        "onboard_time": 1711762278,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 7352,
+        "num": 804205,
+        "word": "2024中国网络媒体论坛",
+        "onboard_time": 1711628721,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 791675,
+        "num": 791675,
+        "word": "你好星期六全员分享理想型",
+        "onboard_time": 1711764919,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 656227,
+        "num": 656227,
+        "word": "35岁是男性生育力拐点",
+        "onboard_time": 1711754475,
+        "rank": 4,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 570045,
+        "num": 570045,
+        "word": "何超莲宋轶手挽手",
+        "onboard_time": 1711767857,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 557783,
+        "num": 557783,
+        "word": "李一桐 结婚结不过来咯",
+        "onboard_time": 1711753333,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 468002,
+        "num": 468002,
+        "word": "女生带回一件染血校服学校补发一套",
+        "onboard_time": 1711753393,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 450744,
+        "num": 450744,
+        "word": "官方通报房东拿探照灯验房索赔",
+        "onboard_time": 1711764737,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 428889,
+        "num": 428889,
+        "word": "厦门一民房发生火灾致4人死亡",
+        "onboard_time": 1711766177,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1056768,
+        "num": 403609,
+        "word": "代号鸢尺度",
+        "onboard_time": 1711763360,
+        "rank": 10,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 565759,
+        "num": 401770,
+        "word": "阿富汗将恢复对通奸妇女石刑鞭刑",
+        "onboard_time": 1711759938,
+        "rank": 11,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 367391,
+        "num": 367391,
+        "word": "秦岚曾给陈楚生苏醒魏晨张杰当过嘉宾",
+        "onboard_time": 1711762578,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 363208,
+        "num": 363208,
+        "word": "二线城市月入过万一天只花29算什么水平",
+        "onboard_time": 1711763059,
+        "rank": 13,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 301717,
+        "num": 301717,
+        "word": "盒子里的猫开播",
+        "onboard_time": 1711767737,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 284053,
+        "num": 284053,
+        "word": "小米汽车销售称凌晨2点下班7点又上班",
+        "onboard_time": 1711759038,
+        "rank": 15,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 278821,
+        "num": 278821,
+        "word": "张踩铃 大胖媳妇重新定义上坟",
+        "onboard_time": 1711762099,
+        "rank": 16,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 275887,
+        "num": 275887,
+        "word": "孙策剧情",
+        "onboard_time": 1711766777,
+        "rank": 17,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 271853,
+        "num": 271853,
+        "word": "黄晓明报平安",
+        "onboard_time": 1711755375,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 261126,
+        "num": 261126,
+        "word": "中国军队将赴俄罗斯参赛",
+        "onboard_time": 1711768638,
+        "rank": 19,
+        "category": "国内时政,军事"
+      },
+      {
+        "raw_hot": 298566,
+        "num": 258402,
+        "word": "疯狂的代购正在毁掉胖东来",
+        "onboard_time": 1711764858,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 250041,
+        "num": 250041,
+        "word": "孔雪儿回应了",
+        "onboard_time": 1711756457,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 237157,
+        "num": 237157,
+        "word": "为什么体制内的人都偏爱喝茶",
+        "onboard_time": 1711759158,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 233824,
+        "num": 233824,
+        "word": "粉色哥斯拉",
+        "onboard_time": 1711724778,
+        "rank": 23,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 184908,
+        "num": 184908,
+        "word": "小米汽车回应",
+        "onboard_time": 1711722739,
+        "rank": 24,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 184725,
+        "num": 184725,
+        "word": "李沁王阳喊话王一博破万三人跳舞",
+        "onboard_time": 1711767437,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 182540,
+        "num": 182540,
+        "word": "忽冷忽热的人可能是病了",
+        "onboard_time": 1711765877,
+        "rank": 26,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 182196,
+        "num": 182196,
+        "word": "最想和喜欢的人做的一件事是什么",
+        "onboard_time": 1711766657,
+        "rank": 27,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 174512,
+        "num": 174512,
+        "word": "上海情侣排队5小时限购10分钟chiikawa",
+        "onboard_time": 1711759397,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 173761,
+        "num": 173761,
+        "word": "陈震测评",
+        "onboard_time": 1711766717,
+        "rank": 29,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 153021,
+        "num": 153021,
+        "word": "经常塞牙其实是牙齿在求救",
+        "onboard_time": 1711716861,
+        "rank": 30,
+        "category": "健康医疗,科学科普"
+      },
+      {
+        "raw_hot": 151431,
+        "num": 151431,
+        "word": "重返未来1.8版本",
+        "onboard_time": 1711768757,
+        "rank": 31,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 147764,
+        "num": 147764,
+        "word": "周冬雨二八分贴头皮发型",
+        "onboard_time": 1711764138,
+        "rank": 32,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 141380,
+        "num": 141380,
+        "word": "王一博中国银幕封面",
+        "onboard_time": 1711767017,
+        "rank": 33,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 120857,
+        "num": 120857,
+        "word": "小狗的缺点就是太相信人类",
+        "onboard_time": 1711764557,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 120647,
+        "num": 120647,
+        "word": "相亲强奸案当事男子改判无罪获赔57万",
+        "onboard_time": 1711720279,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 114525,
+        "num": 114525,
+        "word": "韩国一地三年来首迎新生儿",
+        "onboard_time": 1711757417,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 113350,
+        "num": 113350,
+        "word": "原来多喝茶也是有好处的",
+        "onboard_time": 1711765638,
+        "rank": 37,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 113100,
+        "num": 113100,
+        "word": "新浪娱乐头像",
+        "onboard_time": 1711762939,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 111364,
+        "num": 111364,
+        "word": "特斯拉下线第600万辆汽车",
+        "onboard_time": 1711766117,
+        "rank": 39,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 109729,
+        "num": 109729,
+        "word": "文班亚马40分20篮板",
+        "onboard_time": 1711769297,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 83891,
+        "num": 109118,
+        "word": "陕西大熊猫VS达斯维达",
+        "onboard_time": 1711769056,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 108181,
+        "num": 108181,
+        "word": "肖战家居服的松弛感",
+        "onboard_time": 1711769596,
+        "rank": 42,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 98828,
+        "num": 98828,
+        "word": "小龙虾这个大功臣该怎么奖励",
+        "onboard_time": 1711769238,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 97755,
+        "num": 97755,
+        "word": "那些在互联网上发传单的老师",
+        "onboard_time": 1711768998,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 97624,
+        "num": 97624,
+        "word": "当p人和j人准备出门时",
+        "onboard_time": 1711767976,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 96976,
+        "num": 96976,
+        "word": "身体出现这些变化警惕抑郁症",
+        "onboard_time": 1711767196,
+        "rank": 46,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 95999,
+        "num": 95999,
+        "word": "抑郁症和躁郁症有什么区别",
+        "onboard_time": 1711759877,
+        "rank": 47,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 95630,
+        "num": 95630,
+        "word": "贾国龙中国堡已全部关店",
+        "onboard_time": 1711769415,
+        "rank": 48,
+        "category": "美食,财经"
+      },
+      {
+        "raw_hot": 93940,
+        "num": 93940,
+        "word": "张子枫胡先煦激情戏镜头",
+        "onboard_time": 1711757297,
+        "rank": 49,
+        "category": "电影"
+      }
+    ],
+    "hotgov": {
+      "word": "#中共中央政治局3月29日召开会议#"
+    }
+  }
+}
