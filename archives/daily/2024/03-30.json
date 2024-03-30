@@ -1,6 +1,6 @@
 {
   "startTime": 1711729335311,
-  "endTime": 1711779658236,
+  "endTime": 1711780444468,
   "band_list": [
     {
       "raw_hot": 1598351,
@@ -179,6 +179,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 681690,
+      "num": 681690,
+      "word": "雷军能不能生产一下相机",
+      "onboard_time": 1711778538,
+      "rank": 13,
+      "category": "数码"
+    },
+    {
       "raw_hot": 672345,
       "num": 672345,
       "word": "小孩界的劳斯莱斯出现了",
@@ -235,6 +243,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 627491,
+      "num": 627491,
+      "word": "能不能禁止小说人名平民化",
+      "onboard_time": 1711778899,
+      "rank": 19,
+      "category": "读书作家,幽默"
+    },
+    {
       "raw_hot": 603876,
       "num": 603876,
       "word": "男生在工位上养了一整株月季",
@@ -275,6 +291,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 528558,
+      "num": 528558,
+      "word": "郝蕾怼难哄制片人",
+      "onboard_time": 1711778658,
+      "rank": 7,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 521274,
       "num": 197010,
       "word": "阴道侧切的缝合",
@@ -297,14 +321,6 @@
       "onboard_time": 1711762099,
       "rank": 30,
       "category": "网红"
-    },
-    {
-      "raw_hot": 488785,
-      "num": 488785,
-      "word": "郝蕾怼难哄制片人",
-      "onboard_time": 1711778658,
-      "rank": 7,
-      "category": "剧集"
     },
     {
       "raw_hot": 476350,
@@ -411,14 +427,6 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 406802,
-      "num": 406802,
-      "word": "雷军能不能生产一下相机",
-      "onboard_time": 1711778538,
-      "rank": 13,
-      "category": "数码"
-    },
-    {
       "raw_hot": 395871,
       "num": 395871,
       "word": "蓝盈莹回碎玉轩了",
@@ -507,14 +515,6 @@
       "category": "演出,时尚"
     },
     {
-      "raw_hot": 332044,
-      "num": 332044,
-      "word": "能不能禁止小说人名平民化",
-      "onboard_time": 1711778899,
-      "rank": 19,
-      "category": "读书作家,幽默"
-    },
-    {
       "raw_hot": 326026,
       "num": 326026,
       "word": "罗永浩称小米汽车很可能上演良币驱逐劣币",
@@ -545,6 +545,14 @@
       "onboard_time": 1711723218,
       "rank": 13,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 312218,
+      "num": 312218,
+      "word": "宫崎骏 感受到AI对生命的侮辱",
+      "onboard_time": 1711777518,
+      "rank": 22,
+      "category": "动漫,艺人"
     },
     {
       "raw_hot": 310907,
@@ -595,14 +603,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 289726,
-      "num": 289726,
-      "word": "宫崎骏 感受到AI对生命的侮辱",
-      "onboard_time": 1711777518,
-      "rank": 22,
-      "category": "动漫,艺人"
-    },
-    {
       "raw_hot": 287933,
       "num": 287933,
       "word": "奔跑吧",
@@ -633,6 +633,14 @@
       "onboard_time": 1711775358,
       "rank": 32,
       "category": "演出"
+    },
+    {
+      "raw_hot": 278314,
+      "num": 278314,
+      "word": "范湉湉瘦了",
+      "onboard_time": 1711779618,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 271718,
@@ -707,6 +715,14 @@
       "category": "母婴育儿"
     },
     {
+      "raw_hot": 242115,
+      "num": 242115,
+      "word": "张艺兴见不得黄渤变老",
+      "onboard_time": 1711779498,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 240240,
       "num": 103975,
       "word": "肖战灰色睡衣",
@@ -729,6 +745,14 @@
       "onboard_time": 1711769837,
       "rank": 23,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 228084,
+      "num": 228084,
+      "word": "实习生转正后拒绝了提薪",
+      "onboard_time": 1711780036,
+      "rank": 28,
+      "category": "情感"
     },
     {
       "raw_hot": 227602,
@@ -795,6 +819,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 209098,
+      "num": 221803,
+      "word": "花1400万为农民喝好水却成闹心工程",
+      "onboard_time": 1711777097,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 208152,
       "num": 196739,
       "word": "朋友圈就能看出应届生的offer质量",
@@ -819,20 +851,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 206834,
-      "num": 206834,
-      "word": "张艺兴见不得黄渤变老",
-      "onboard_time": 1711779498,
-      "rank": 32,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 205735,
       "num": 200432,
       "word": "盒子里的猫",
       "onboard_time": 1711778777,
       "rank": 34,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 202657,
+      "num": 202657,
+      "word": "女性其实有天然的族谱",
+      "onboard_time": 1711777340,
+      "rank": 40,
+      "category": "情感"
     },
     {
       "raw_hot": 197778,
@@ -848,14 +880,6 @@
       "word": "铁路杭州站通报旅客跳入股道",
       "onboard_time": 1711775897,
       "rank": 31,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 196294,
-      "num": 220747,
-      "word": "花1400万为农民喝好水却成闹心工程",
-      "onboard_time": 1711777097,
-      "rank": 29,
       "category": "社会新闻"
     },
     {
@@ -979,6 +1003,14 @@
       "category": "剧集,读书作家"
     },
     {
+      "raw_hot": 178122,
+      "num": 178122,
+      "word": "SEVENTEEN线上观影",
+      "onboard_time": 1711780218,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 175931,
       "num": 175931,
       "word": "以闪亮之名山海序章",
@@ -995,6 +1027,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 174058,
+      "num": 174058,
+      "word": "旅客跳入杭州东站轨道警方介入调查",
+      "onboard_time": 1711778178,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 172799,
       "num": 172799,
       "word": "花钱洗牙是智商税吗",
@@ -1003,12 +1043,12 @@
       "category": "科学科普"
     },
     {
-      "raw_hot": 169760,
-      "num": 169760,
-      "word": "旅客跳入杭州东站轨道警方介入调查",
-      "onboard_time": 1711778178,
-      "rank": 38,
-      "category": "社会新闻"
+      "raw_hot": 172484,
+      "num": 172484,
+      "word": "孙千存了陈靖可的照片",
+      "onboard_time": 1711780036,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 168977,
@@ -1017,14 +1057,6 @@
       "onboard_time": 1711772537,
       "rank": 33,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 167771,
-      "num": 167771,
-      "word": "女性其实有天然的族谱",
-      "onboard_time": 1711777340,
-      "rank": 40,
-      "category": "情感"
     },
     {
       "raw_hot": 166372,
@@ -1145,6 +1177,14 @@
       "onboard_time": 1711710079,
       "rank": 26,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 148611,
+      "num": 148611,
+      "word": "马龙3比1林昀儒",
+      "onboard_time": 1711780338,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 148202,
@@ -1297,14 +1337,6 @@
       "onboard_time": 1711725859,
       "rank": 34,
       "category": "演出"
-    },
-    {
-      "raw_hot": 125749,
-      "num": 125749,
-      "word": "范湉湉瘦了",
-      "onboard_time": 1711779618,
-      "rank": 47,
-      "category": "综艺"
     },
     {
       "raw_hot": 124686,
@@ -1508,7 +1540,7 @@
     },
     {
       "raw_hot": 100726,
-      "num": 123343,
+      "num": 243289,
       "word": "你见过粉色的大理么",
       "onboard_time": 1711779498,
       "rank": 48,

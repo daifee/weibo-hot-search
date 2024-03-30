@@ -1,0 +1,410 @@
+{
+  "runTime": 1711780444468,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1387271,
+        "num": 1387271,
+        "word": "百日咳今年已致13人死亡",
+        "onboard_time": 1711774157,
+        "rank": 0,
+        "category": "社会新闻,健康医疗"
+      },
+      {
+        "raw_hot": 1091538,
+        "num": 1091538,
+        "word": "杨采薇入狱",
+        "onboard_time": 1711773797,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 9368,
+        "num": 815462,
+        "word": "2024中国网络媒体论坛",
+        "onboard_time": 1711628721,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 681690,
+        "num": 681690,
+        "word": "雷军能不能生产一下相机",
+        "onboard_time": 1711778538,
+        "rank": 3,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 648065,
+        "num": 648065,
+        "word": "段奥娟风格 刘浩存",
+        "onboard_time": 1711773257,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 627491,
+        "num": 627491,
+        "word": "能不能禁止小说人名平民化",
+        "onboard_time": 1711778899,
+        "rank": 5,
+        "category": "读书作家,幽默"
+      },
+      {
+        "raw_hot": 616780,
+        "num": 616780,
+        "word": "偷点外卖就不要写真实姓名了",
+        "onboard_time": 1711770197,
+        "rank": 6,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 600621,
+        "num": 600621,
+        "word": "杭州东站",
+        "onboard_time": 1711770977,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 528558,
+        "num": 528558,
+        "word": "郝蕾怼难哄制片人",
+        "onboard_time": 1711778658,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 507442,
+        "num": 507442,
+        "word": "奔跑吧全员录制大声公",
+        "onboard_time": 1711777218,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 475130,
+        "num": 475130,
+        "word": "马龙vs林昀儒",
+        "onboard_time": 1711778358,
+        "rank": 10,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 429896,
+        "num": 429896,
+        "word": "陈震回应小米SU7测评争议",
+        "onboard_time": 1711777218,
+        "rank": 11,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 412426,
+        "num": 412426,
+        "word": "明星用假人直播带货要担责吗",
+        "onboard_time": 1711775778,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 368775,
+        "num": 368775,
+        "word": "江西师大通报男生宿舍虐猫",
+        "onboard_time": 1711774519,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 342734,
+        "num": 342734,
+        "word": "35岁是男性生育力拐点",
+        "onboard_time": 1711754475,
+        "rank": 14,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 338471,
+        "num": 338471,
+        "word": "网曝女子未出月子抱着孩子离婚",
+        "onboard_time": 1711759038,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 312218,
+        "num": 312218,
+        "word": "宫崎骏 感受到AI对生命的侮辱",
+        "onboard_time": 1711777518,
+        "rank": 16,
+        "category": "动漫,艺人"
+      },
+      {
+        "raw_hot": 297516,
+        "num": 297516,
+        "word": "事业单位联考",
+        "onboard_time": 1711772479,
+        "rank": 17,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 289820,
+        "num": 289820,
+        "word": "蓝盈莹回碎玉轩了",
+        "onboard_time": 1711774638,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 281839,
+        "num": 281839,
+        "word": "樊振东vs张本智和",
+        "onboard_time": 1711774997,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 278314,
+        "num": 278314,
+        "word": "范湉湉瘦了",
+        "onboard_time": 1711779618,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 273307,
+        "num": 273307,
+        "word": "代号鸢尺度",
+        "onboard_time": 1711763360,
+        "rank": 21,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 255320,
+        "num": 255320,
+        "word": "崔胜澈红发",
+        "onboard_time": 1711777638,
+        "rank": 22,
+        "category": "演出,时尚"
+      },
+      {
+        "raw_hot": 247823,
+        "num": 247823,
+        "word": "万达将获约600亿元投资",
+        "onboard_time": 1711777458,
+        "rank": 23,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 247147,
+        "num": 247147,
+        "word": "事业编",
+        "onboard_time": 1711773198,
+        "rank": 24,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 94329,
+        "num": 243289,
+        "word": "你见过粉色的大理么",
+        "onboard_time": 1711779498,
+        "rank": 25,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 242115,
+        "num": 242115,
+        "word": "张艺兴见不得黄渤变老",
+        "onboard_time": 1711779498,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 235119,
+        "num": 235119,
+        "word": "从不痛经的女生到底有什么不一样",
+        "onboard_time": 1711773857,
+        "rank": 27,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 228084,
+        "num": 228084,
+        "word": "实习生转正后拒绝了提薪",
+        "onboard_time": 1711780036,
+        "rank": 28,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 209098,
+        "num": 221803,
+        "word": "花1400万为农民喝好水却成闹心工程",
+        "onboard_time": 1711777097,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 217043,
+        "num": 217043,
+        "word": "北大毕业女生摆摊卖手串月入5万",
+        "onboard_time": 1711762278,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 217037,
+        "num": 217037,
+        "word": "范志毅咬鹿晗脖子大腿",
+        "onboard_time": 1711774337,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 206605,
+        "num": 206605,
+        "word": "男朋友妈妈给我寄的特产",
+        "onboard_time": 1711778059,
+        "rank": 32,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 202657,
+        "num": 202657,
+        "word": "女性其实有天然的族谱",
+        "onboard_time": 1711777340,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 190721,
+        "num": 190721,
+        "word": "紫外线会惩罚每个不防晒的人",
+        "onboard_time": 1711777997,
+        "rank": 34,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 163619,
+        "num": 190441,
+        "word": "蒲熠星 抢票",
+        "onboard_time": 1711772777,
+        "rank": 35,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 185356,
+        "num": 185356,
+        "word": "洪知秀棕长",
+        "onboard_time": 1711778538,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 181819,
+        "num": 181819,
+        "word": "真的很抵触大网吧式工位",
+        "onboard_time": 1711776078,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 178764,
+        "num": 178764,
+        "word": "kcon",
+        "onboard_time": 1711779138,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 178122,
+        "num": 178122,
+        "word": "SEVENTEEN线上观影",
+        "onboard_time": 1711780218,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 176769,
+        "num": 176769,
+        "word": "代号鸢离国服越来越远了",
+        "onboard_time": 1711771156,
+        "rank": 40,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 174058,
+        "num": 174058,
+        "word": "旅客跳入杭州东站轨道警方介入调查",
+        "onboard_time": 1711778178,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 172484,
+        "num": 172484,
+        "word": "孙千存了陈靖可的照片",
+        "onboard_time": 1711780036,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 172338,
+        "num": 172338,
+        "word": "盒子里的猫",
+        "onboard_time": 1711778777,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 170555,
+        "num": 170555,
+        "word": "陈都灵贵女马面裙",
+        "onboard_time": 1711776676,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 158458,
+        "num": 158458,
+        "word": "时代少年团演唱会",
+        "onboard_time": 1711775358,
+        "rank": 45,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 148611,
+        "num": 148611,
+        "word": "马龙3比1林昀儒",
+        "onboard_time": 1711780338,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 134041,
+        "num": 134041,
+        "word": "按对穴位也能变美",
+        "onboard_time": 1711779019,
+        "rank": 47,
+        "category": "健康医疗,美妆"
+      },
+      {
+        "raw_hot": 129752,
+        "num": 129752,
+        "word": "女生带回一件染血校服学校补发一套",
+        "onboard_time": 1711753393,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 127583,
+        "num": 127583,
+        "word": "陈靖可孙千怎么亲上了",
+        "onboard_time": 1711771096,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#中共中央政治局召开会议#"
+    }
+  }
+}

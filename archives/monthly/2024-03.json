@@ -1,6 +1,6 @@
 {
   "startTime": 1709223640991,
-  "endTime": 1711779658236,
+  "endTime": 1711780444468,
   "band_list": [
     {
       "raw_hot": 21250232,
@@ -12515,6 +12515,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 681690,
+      "num": 681690,
+      "word": "雷军能不能生产一下相机",
+      "onboard_time": 1711778538,
+      "rank": 13,
+      "category": "数码"
+    },
+    {
       "raw_hot": 681283,
       "num": 681283,
       "word": "甘肃文旅喊话麻辣烫老板注意表情管理",
@@ -14169,6 +14177,14 @@
       "onboard_time": 1709479231,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 627491,
+      "num": 627491,
+      "word": "能不能禁止小说人名平民化",
+      "onboard_time": 1711778899,
+      "rank": 19,
+      "category": "读书作家,幽默"
     },
     {
       "raw_hot": 627448,
@@ -17915,6 +17931,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 528558,
+      "num": 528558,
+      "word": "郝蕾怼难哄制片人",
+      "onboard_time": 1711778658,
+      "rank": 7,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 528167,
       "num": 336927,
       "word": "星期一已经崩溃一万次了",
@@ -19753,14 +19777,6 @@
       "onboard_time": 1711002390,
       "rank": 31,
       "category": "情感"
-    },
-    {
-      "raw_hot": 488785,
-      "num": 488785,
-      "word": "郝蕾怼难哄制片人",
-      "onboard_time": 1711778658,
-      "rank": 7,
-      "category": "剧集"
     },
     {
       "raw_hot": 488754,
@@ -24361,14 +24377,6 @@
       "onboard_time": 1710284781,
       "rank": 36,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 406802,
-      "num": 406802,
-      "word": "雷军能不能生产一下相机",
-      "onboard_time": 1711778538,
-      "rank": 13,
-      "category": "数码"
     },
     {
       "raw_hot": 406766,
@@ -29323,14 +29331,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 332044,
-      "num": 332044,
-      "word": "能不能禁止小说人名平民化",
-      "onboard_time": 1711778899,
-      "rank": 19,
-      "category": "读书作家,幽默"
-    },
-    {
       "raw_hot": 331959,
       "num": 331959,
       "word": "排球少年确认引进",
@@ -30953,6 +30953,14 @@
       "onboard_time": 1711437979,
       "rank": 12,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 312218,
+      "num": 312218,
+      "word": "宫崎骏 感受到AI对生命的侮辱",
+      "onboard_time": 1711777518,
+      "rank": 22,
+      "category": "动漫,艺人"
     },
     {
       "raw_hot": 312197,
@@ -33307,14 +33315,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 289726,
-      "num": 289726,
-      "word": "宫崎骏 感受到AI对生命的侮辱",
-      "onboard_time": 1711777518,
-      "rank": 22,
-      "category": "动漫,艺人"
-    },
-    {
       "raw_hot": 289683,
       "num": 289683,
       "word": "女性绝经后仍有患乳腺癌风险",
@@ -34433,6 +34433,14 @@
       "onboard_time": 1710316354,
       "rank": 19,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 278314,
+      "num": 278314,
+      "word": "范湉湉瘦了",
+      "onboard_time": 1711779618,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 278259,
@@ -39043,6 +39051,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 242115,
+      "num": 242115,
+      "word": "张艺兴见不得黄渤变老",
+      "onboard_time": 1711779498,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 242057,
       "num": 242057,
       "word": "王锵徐若晗还原东宫名场面",
@@ -41361,6 +41377,14 @@
       "onboard_time": 1711462101,
       "rank": 33,
       "category": "体育,综艺"
+    },
+    {
+      "raw_hot": 228084,
+      "num": 228084,
+      "word": "实习生转正后拒绝了提薪",
+      "onboard_time": 1711780036,
+      "rank": 28,
+      "category": "情感"
     },
     {
       "raw_hot": 228011,
@@ -45435,6 +45459,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 209098,
+      "num": 221803,
+      "word": "花1400万为农民喝好水却成闹心工程",
+      "onboard_time": 1711777097,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 209039,
       "num": 209039,
       "word": "现场缴获恐怖分子武器画面曝光",
@@ -46033,14 +46065,6 @@
       "onboard_time": 1711244719,
       "rank": 26,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 206834,
-      "num": 206834,
-      "word": "张艺兴见不得黄渤变老",
-      "onboard_time": 1711779498,
-      "rank": 32,
-      "category": "综艺"
     },
     {
       "raw_hot": 206813,
@@ -47393,6 +47417,14 @@
       "onboard_time": 1710673172,
       "rank": 31,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 202657,
+      "num": 202657,
+      "word": "女性其实有天然的族谱",
+      "onboard_time": 1711777340,
+      "rank": 40,
+      "category": "情感"
     },
     {
       "raw_hot": 202630,
@@ -49545,14 +49577,6 @@
       "onboard_time": 1710301357,
       "rank": 36,
       "category": "电影"
-    },
-    {
-      "raw_hot": 196294,
-      "num": 220747,
-      "word": "花1400万为农民喝好水却成闹心工程",
-      "onboard_time": 1711777097,
-      "rank": 29,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 196291,
@@ -55211,6 +55235,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 178122,
+      "num": 178122,
+      "word": "SEVENTEEN线上观影",
+      "onboard_time": 1711780218,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 178042,
       "num": 178042,
       "word": "宋茜的皮肤状态",
@@ -56371,6 +56403,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 174058,
+      "num": 174058,
+      "word": "旅客跳入杭州东站轨道警方介入调查",
+      "onboard_time": 1711778178,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 174011,
       "num": 174011,
       "word": "阮经天的脸好紧",
@@ -56897,6 +56937,14 @@
       "onboard_time": 1710675873,
       "rank": 35,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 172484,
+      "num": 172484,
+      "word": "孙千存了陈靖可的照片",
+      "onboard_time": 1711780036,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 172433,
@@ -57651,14 +57699,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 169760,
-      "num": 169760,
-      "word": "旅客跳入杭州东站轨道警方介入调查",
-      "onboard_time": 1711778178,
-      "rank": 38,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 169755,
       "num": 169755,
       "word": "EDGM对战XYG",
@@ -58233,14 +58273,6 @@
       "onboard_time": 1711345518,
       "rank": 35,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 167771,
-      "num": 167771,
-      "word": "女性其实有天然的族谱",
-      "onboard_time": 1711777340,
-      "rank": 40,
-      "category": "情感"
     },
     {
       "raw_hot": 167749,
@@ -64809,6 +64841,14 @@
       "onboard_time": 1711290921,
       "rank": 48,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 148611,
+      "num": 148611,
+      "word": "马龙3比1林昀儒",
+      "onboard_time": 1711780338,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 148547,
@@ -72451,14 +72491,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 125749,
-      "num": 125749,
-      "word": "范湉湉瘦了",
-      "onboard_time": 1711779618,
-      "rank": 47,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 125746,
       "num": 125746,
       "word": "云合播放量",
@@ -77828,7 +77860,7 @@
     },
     {
       "raw_hot": 100726,
-      "num": 123343,
+      "num": 243289,
       "word": "你见过粉色的大理么",
       "onboard_time": 1711779498,
       "rank": 48,
