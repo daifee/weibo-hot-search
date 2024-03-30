@@ -1,6 +1,6 @@
 {
   "startTime": 1711815680412,
-  "endTime": 1711833268887,
+  "endTime": 1711834488217,
   "band_list": [
     {
       "raw_hot": 1290409,
@@ -476,7 +476,7 @@
     },
     {
       "raw_hot": 57870,
-      "num": 36487,
+      "num": 36664,
       "word": "吴宗宪回应女儿咖啡店被砸",
       "onboard_time": 1711825752,
       "rank": 31,
@@ -523,23 +523,31 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 16718,
-      "num": 16718,
+      "raw_hot": 17341,
+      "num": 17341,
       "word": "秦岚穿得好像锦鲤",
       "onboard_time": 1711831210,
       "rank": 33,
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 13781,
-      "num": 15060,
+      "raw_hot": 13877,
+      "num": 15192,
       "word": "把化妆过程拍成了化妆游戏",
       "onboard_time": 1711832411,
       "rank": 44,
       "category": "美妆"
     },
     {
-      "raw_hot": 2292,
+      "raw_hot": 13127,
+      "num": 15189,
+      "word": "金秀贤金智媛吵架戏",
+      "onboard_time": 1711834331,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 2317,
       "num": 275270,
       "word": "2024中国网络媒体论坛",
       "onboard_time": 1711628721,
