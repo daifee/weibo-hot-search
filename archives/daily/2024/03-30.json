@@ -1,6 +1,6 @@
 {
   "startTime": 1711729335311,
-  "endTime": 1711776866219,
+  "endTime": 1711779658236,
   "band_list": [
     {
       "raw_hot": 1598351,
@@ -17,6 +17,14 @@
       "onboard_time": 1711759038,
       "rank": 1,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1485763,
+      "num": 1485763,
+      "word": "百日咳今年已致13人死亡",
+      "onboard_time": 1711774157,
+      "rank": 10,
+      "category": "社会新闻,健康医疗"
     },
     {
       "raw_hot": 1445197,
@@ -49,14 +57,6 @@
       "onboard_time": 1711763360,
       "rank": 10,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 1072846,
-      "num": 1072846,
-      "word": "百日咳今年已致13人死亡",
-      "onboard_time": 1711774157,
-      "rank": 10,
-      "category": "社会新闻,健康医疗"
     },
     {
       "raw_hot": 1011788,
@@ -283,6 +283,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 520300,
+      "num": 520300,
+      "word": "奔跑吧全员录制大声公",
+      "onboard_time": 1711777218,
+      "rank": 6,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 515906,
       "num": 515906,
       "word": "张踩铃 大胖媳妇重新定义上坟",
@@ -291,12 +299,36 @@
       "category": "网红"
     },
     {
+      "raw_hot": 488785,
+      "num": 488785,
+      "word": "郝蕾怼难哄制片人",
+      "onboard_time": 1711778658,
+      "rank": 7,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 476350,
+      "num": 476350,
+      "word": "马龙vs林昀儒",
+      "onboard_time": 1711778358,
+      "rank": 8,
+      "category": "体育"
+    },
+    {
       "raw_hot": 472319,
       "num": 539323,
       "word": "蒲熠星 抢票",
       "onboard_time": 1711772777,
       "rank": 16,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 465413,
+      "num": 465413,
+      "word": "明星用假人直播带货要担责吗",
+      "onboard_time": 1711775778,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 460930,
@@ -331,11 +363,27 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 437984,
+      "num": 437984,
+      "word": "陈震回应小米SU7测评争议",
+      "onboard_time": 1711777218,
+      "rank": 10,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 435679,
       "num": 435679,
       "word": "厦门一民房发生火灾致4人死亡",
       "onboard_time": 1711766177,
       "rank": 8,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 428138,
+      "num": 428138,
+      "word": "江西师大通报男生宿舍虐猫",
+      "onboard_time": 1711774519,
+      "rank": 19,
       "category": "社会新闻"
     },
     {
@@ -363,12 +411,12 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 397408,
-      "num": 397408,
-      "word": "江西师大通报男生宿舍虐猫",
-      "onboard_time": 1711774519,
-      "rank": 19,
-      "category": "社会新闻"
+      "raw_hot": 406802,
+      "num": 406802,
+      "word": "雷军能不能生产一下相机",
+      "onboard_time": 1711778538,
+      "rank": 13,
+      "category": "数码"
     },
     {
       "raw_hot": 395871,
@@ -451,6 +499,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 333132,
+      "num": 333132,
+      "word": "崔胜澈红发",
+      "onboard_time": 1711777638,
+      "rank": 17,
+      "category": "演出,时尚"
+    },
+    {
+      "raw_hot": 332044,
+      "num": 332044,
+      "word": "能不能禁止小说人名平民化",
+      "onboard_time": 1711778899,
+      "rank": 19,
+      "category": "读书作家,幽默"
+    },
+    {
       "raw_hot": 326026,
       "num": 326026,
       "word": "罗永浩称小米汽车很可能上演良币驱逐劣币",
@@ -531,6 +595,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 289726,
+      "num": 289726,
+      "word": "宫崎骏 感受到AI对生命的侮辱",
+      "onboard_time": 1711777518,
+      "rank": 22,
+      "category": "动漫,艺人"
+    },
+    {
       "raw_hot": 287933,
       "num": 287933,
       "word": "奔跑吧",
@@ -587,12 +659,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 263838,
-      "num": 263838,
-      "word": "明星用假人直播带货要担责吗",
-      "onboard_time": 1711775778,
-      "rank": 34,
-      "category": "艺人"
+      "raw_hot": 263634,
+      "num": 263634,
+      "word": "万达将获约600亿元投资",
+      "onboard_time": 1711777458,
+      "rank": 26,
+      "category": "财经"
     },
     {
       "raw_hot": 256255,
@@ -643,6 +715,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 233643,
+      "num": 233643,
+      "word": "男朋友妈妈给我寄的特产",
+      "onboard_time": 1711778059,
+      "rank": 27,
+      "category": "情感"
+    },
+    {
       "raw_hot": 232489,
       "num": 232489,
       "word": "秦闲 孙策夜猎",
@@ -681,6 +761,22 @@
       "onboard_time": 1711775958,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 218199,
+      "num": 218199,
+      "word": "紫外线会惩罚每个不防晒的人",
+      "onboard_time": 1711777997,
+      "rank": 30,
+      "category": "美妆"
+    },
+    {
+      "raw_hot": 214613,
+      "num": 214613,
+      "word": "洪知秀棕长",
+      "onboard_time": 1711778538,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 211350,
@@ -723,6 +819,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 206834,
+      "num": 206834,
+      "word": "张艺兴见不得黄渤变老",
+      "onboard_time": 1711779498,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 205735,
+      "num": 200432,
+      "word": "盒子里的猫",
+      "onboard_time": 1711778777,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 197778,
       "num": 197778,
       "word": "又有男团选秀了",
@@ -739,6 +851,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 196294,
+      "num": 220747,
+      "word": "花1400万为农民喝好水却成闹心工程",
+      "onboard_time": 1711777097,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 195892,
+      "num": 195892,
+      "word": "kcon",
+      "onboard_time": 1711779138,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 195491,
       "num": 195491,
       "word": "没想到跳绳这么瘦肚子",
@@ -752,6 +880,14 @@
       "word": "林允 怎敌她千娇百媚",
       "onboard_time": 1711753333,
       "rank": 8,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 193038,
+      "num": 193038,
+      "word": "陈都灵贵女马面裙",
+      "onboard_time": 1711776676,
+      "rank": 43,
       "category": "剧集"
     },
     {
@@ -867,12 +1003,28 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 169760,
+      "num": 169760,
+      "word": "旅客跳入杭州东站轨道警方介入调查",
+      "onboard_time": 1711778178,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 168977,
       "num": 168977,
       "word": "全国大学生的统一穿搭",
       "onboard_time": 1711772537,
       "rank": 33,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 167771,
+      "num": 167771,
+      "word": "女性其实有天然的族谱",
+      "onboard_time": 1711777340,
+      "rank": 40,
+      "category": "情感"
     },
     {
       "raw_hot": 166372,
@@ -995,6 +1147,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 148202,
+      "num": 148202,
+      "word": "按对穴位也能变美",
+      "onboard_time": 1711779019,
+      "rank": 43,
+      "category": "健康医疗,美妆"
+    },
+    {
       "raw_hot": 147764,
       "num": 147764,
       "word": "周冬雨二八分贴头皮发型",
@@ -1075,14 +1235,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 135795,
-      "num": 135795,
-      "word": "陈都灵贵女马面裙",
-      "onboard_time": 1711776676,
-      "rank": 43,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 135791,
       "num": 135791,
       "word": "鞠婧祎转头甩发",
@@ -1131,12 +1283,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 128224,
+      "num": 128224,
+      "word": "代号鸢孙策",
+      "onboard_time": 1711778358,
+      "rank": 46,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 127463,
       "num": 134760,
       "word": "徐明浩文俊辉同时营业",
       "onboard_time": 1711725859,
       "rank": 34,
       "category": "演出"
+    },
+    {
+      "raw_hot": 125749,
+      "num": 125749,
+      "word": "范湉湉瘦了",
+      "onboard_time": 1711779618,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 124686,
@@ -1337,6 +1505,14 @@
       "onboard_time": 1711769238,
       "rank": 43,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 100726,
+      "num": 123343,
+      "word": "你见过粉色的大理么",
+      "onboard_time": 1711779498,
+      "rank": 48,
+      "category": "旅游"
     },
     {
       "raw_hot": 97755,
@@ -1651,7 +1827,7 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 9920,
+      "raw_hot": 9996,
       "num": 1231799,
       "word": "2024中国网络媒体论坛",
       "onboard_time": 1711628721,
@@ -1665,6 +1841,9 @@
     },
     {
       "word": "#统筹推进科技创新和产业创新#"
+    },
+    {
+      "word": "#中共中央政治局召开会议#"
     }
   ]
 }
