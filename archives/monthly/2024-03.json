@@ -1,6 +1,6 @@
 {
   "startTime": 1709223640991,
-  "endTime": 1711816496810,
+  "endTime": 1711818850376,
   "band_list": [
     {
       "raw_hot": 21250232,
@@ -23883,6 +23883,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 422709,
+      "num": 422709,
+      "word": "上海偶遇陆毅鲍蕾一家四口",
+      "onboard_time": 1711814539,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 422547,
       "num": 422547,
       "word": "骨泥到底有多不卫生",
@@ -30801,14 +30809,6 @@
       "onboard_time": 1710741755,
       "rank": 24,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 318974,
-      "num": 318974,
-      "word": "上海偶遇陆毅鲍蕾一家四口",
-      "onboard_time": 1711814539,
-      "rank": 21,
-      "category": "艺人"
     },
     {
       "raw_hot": 318905,
@@ -64939,6 +64939,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 151887,
+      "num": 102379,
+      "word": "郝蕾说纪凌尘就是实力不够",
+      "onboard_time": 1711817955,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 151856,
       "num": 151856,
       "word": "FPX老板回应Milkyway合同",
@@ -74339,6 +74347,14 @@
       "category": "互联网,旅游"
     },
     {
+      "raw_hot": 123509,
+      "num": 95109,
+      "word": "王锵角色被锦超换掉",
+      "onboard_time": 1711816996,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 123497,
       "num": 123497,
       "word": "日本麦当劳薯条味香水",
@@ -74785,6 +74801,14 @@
       "onboard_time": 1710923614,
       "rank": 46,
       "category": "演出"
+    },
+    {
+      "raw_hot": 121927,
+      "num": 93924,
+      "word": "刘亦菲谈保持容貌的方法",
+      "onboard_time": 1711818135,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 121901,
@@ -80347,6 +80371,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 89618,
+      "num": 89618,
+      "word": "丁程鑫00后的DNA动了",
+      "onboard_time": 1711817175,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 89606,
       "num": 1505602,
       "word": "这个春天祝你春风得意向阳花开",
@@ -81297,6 +81329,14 @@
       "onboard_time": 1711580655,
       "rank": 35,
       "category": "艺人,作品衍生"
+    },
+    {
+      "raw_hot": 76151,
+      "num": 68277,
+      "word": "沈璃战损用了青衣谣",
+      "onboard_time": 1711816637,
+      "rank": 43,
+      "category": "剧集"
     },
     {
       "raw_hot": 76096,
