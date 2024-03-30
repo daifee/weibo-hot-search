@@ -1,6 +1,6 @@
 {
   "startTime": 1711815680412,
-  "endTime": 1711827236936,
+  "endTime": 1711829809465,
   "band_list": [
     {
       "raw_hot": 1290409,
@@ -505,6 +505,14 @@
       "onboard_time": 1711822512,
       "rank": 49,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 32035,
+      "num": 32035,
+      "word": "老人被冻一夜也没舍得冷孩子",
+      "onboard_time": 1711827851,
+      "rank": 16,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 2292,
