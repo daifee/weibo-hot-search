@@ -1,0 +1,410 @@
+{
+  "runTime": 1711786903383,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1511599,
+        "num": 1511599,
+        "word": "雷军能不能生产一下相机",
+        "onboard_time": 1711778538,
+        "rank": 0,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 1195797,
+        "num": 1195797,
+        "word": "小米汽车遭遇上百余名消费者投诉",
+        "onboard_time": 1711782857,
+        "rank": 1,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 12173,
+        "num": 933056,
+        "word": "2024中国网络媒体论坛",
+        "onboard_time": 1711628721,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 900144,
+        "num": 900144,
+        "word": "将门毒后女主原型",
+        "onboard_time": 1711784958,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 735853,
+        "num": 735853,
+        "word": "百日咳今年已致13人死亡",
+        "onboard_time": 1711774157,
+        "rank": 4,
+        "category": "社会新闻,健康医疗"
+      },
+      {
+        "raw_hot": 568559,
+        "num": 568559,
+        "word": "杨采薇入狱",
+        "onboard_time": 1711773797,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 467592,
+        "num": 467592,
+        "word": "段奥娟风格 刘浩存",
+        "onboard_time": 1711773257,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 459403,
+        "num": 459403,
+        "word": "王曼昱vs田志希",
+        "onboard_time": 1711784657,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 377041,
+        "num": 377041,
+        "word": "孙颖莎3比2早田希娜",
+        "onboard_time": 1711783876,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 341810,
+        "num": 341810,
+        "word": "房地产 小米之家",
+        "onboard_time": 1711785197,
+        "rank": 9,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 336198,
+        "num": 336198,
+        "word": "郝蕾怼难哄制片人",
+        "onboard_time": 1711778658,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 333871,
+        "num": 333871,
+        "word": "宫崎骏 感受到AI对生命的侮辱",
+        "onboard_time": 1711777518,
+        "rank": 11,
+        "category": "动漫,艺人"
+      },
+      {
+        "raw_hot": 320064,
+        "num": 320064,
+        "word": "文韬 补拍",
+        "onboard_time": 1711786217,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 300448,
+        "num": 300448,
+        "word": "能不能禁止小说人名平民化",
+        "onboard_time": 1711778899,
+        "rank": 13,
+        "category": "读书作家,幽默"
+      },
+      {
+        "raw_hot": 313838,
+        "num": 299582,
+        "word": "全员加速中 控分",
+        "onboard_time": 1711785917,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 288971,
+        "num": 288971,
+        "word": "代号鸢",
+        "onboard_time": 1711785137,
+        "rank": 15,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 284753,
+        "num": 284753,
+        "word": "12星座4月运势",
+        "onboard_time": 1711780819,
+        "rank": 16,
+        "category": "情感,网红"
+      },
+      {
+        "raw_hot": 243152,
+        "num": 243152,
+        "word": "偷点外卖就不要写真实姓名了",
+        "onboard_time": 1711770197,
+        "rank": 17,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 242812,
+        "num": 242812,
+        "word": "奔跑吧全员录制大声公",
+        "onboard_time": 1711777218,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 223299,
+        "num": 240366,
+        "word": "孙颖莎四两拨千斤",
+        "onboard_time": 1711784538,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 280050,
+        "num": 240278,
+        "word": "卵巢癌的预警信号可能被你忽视了",
+        "onboard_time": 1711782196,
+        "rank": 20,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 240077,
+        "num": 240077,
+        "word": "林依轮妻子近照",
+        "onboard_time": 1711786698,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 230277,
+        "num": 230277,
+        "word": "35岁是男性生育力拐点",
+        "onboard_time": 1711754475,
+        "rank": 22,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 226205,
+        "num": 226205,
+        "word": "SEVENTEEN十三人完整体",
+        "onboard_time": 1711782137,
+        "rank": 23,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 223471,
+        "num": 223471,
+        "word": "谁给李灿剪的头",
+        "onboard_time": 1711781537,
+        "rank": 24,
+        "category": "演出,时尚"
+      },
+      {
+        "raw_hot": 213291,
+        "num": 213291,
+        "word": "花间令女性群像没有郑合惠子",
+        "onboard_time": 1711786519,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 209827,
+        "num": 209827,
+        "word": "杭州东站",
+        "onboard_time": 1711770977,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 203588,
+        "num": 203588,
+        "word": "殡葬用品店否认南通烧纸普遍2层楼高",
+        "onboard_time": 1711785797,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 200524,
+        "num": 200524,
+        "word": "Uzi也在练",
+        "onboard_time": 1711785317,
+        "rank": 28,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 112642,
+        "num": 199090,
+        "word": "花1400万为农民喝好水却成闹心工程",
+        "onboard_time": 1711777097,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 198391,
+        "num": 198391,
+        "word": "实习生转正后拒绝了提薪",
+        "onboard_time": 1711780036,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 198244,
+        "num": 198244,
+        "word": "RNGM零封XYG",
+        "onboard_time": 1711786339,
+        "rank": 31,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 195506,
+        "num": 195506,
+        "word": "石凯拎枕头走红毯",
+        "onboard_time": 1711785977,
+        "rank": 32,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 187888,
+        "num": 187888,
+        "word": "范湉湉瘦了",
+        "onboard_time": 1711779618,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 186002,
+        "num": 186002,
+        "word": "网曝女子未出月子抱着孩子离婚",
+        "onboard_time": 1711759038,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 164344,
+        "num": 164344,
+        "word": "蓝盈莹回碎玉轩了",
+        "onboard_time": 1711774638,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 163363,
+        "num": 163363,
+        "word": "代号鸢尺度",
+        "onboard_time": 1711763360,
+        "rank": 36,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 149216,
+        "num": 149216,
+        "word": "现实中的狸猫换太子",
+        "onboard_time": 1711782857,
+        "rank": 37,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 145387,
+        "num": 145387,
+        "word": "在天水偶遇张大大做服务员",
+        "onboard_time": 1711784958,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 142933,
+        "num": 142933,
+        "word": "代号鸢离国服越来越远了",
+        "onboard_time": 1711771156,
+        "rank": 39,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 141773,
+        "num": 141773,
+        "word": "事业编",
+        "onboard_time": 1711773198,
+        "rank": 40,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 140921,
+        "num": 140921,
+        "word": "明星用假人直播带货要担责吗",
+        "onboard_time": 1711775778,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 134841,
+        "num": 134841,
+        "word": "迪丽热巴聂九罗艺术家穿搭",
+        "onboard_time": 1711781778,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 131654,
+        "num": 131654,
+        "word": "泰妍和惠利是怎样成为挚友的",
+        "onboard_time": 1711782438,
+        "rank": 43,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 130072,
+        "num": 130072,
+        "word": "赵小童重庆",
+        "onboard_time": 1711786638,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 125813,
+        "num": 125813,
+        "word": "WTT仁川冠军赛2024",
+        "onboard_time": 1711784958,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 121360,
+        "num": 121360,
+        "word": "赵丽颖沈璃梦回碧瑶",
+        "onboard_time": 1711783338,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 120704,
+        "num": 120704,
+        "word": "孙千存了陈靖可的照片",
+        "onboard_time": 1711780036,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 118668,
+        "num": 118668,
+        "word": "孙颖莎vs早田希娜",
+        "onboard_time": 1711780457,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 115814,
+        "num": 115814,
+        "word": "尹净汉妹妹头",
+        "onboard_time": 1711782738,
+        "rank": 49,
+        "category": "演出,时尚"
+      }
+    ],
+    "hotgov": {
+      "word": "#中共中央政治局3月29日召开会议#"
+    }
+  }
+}
