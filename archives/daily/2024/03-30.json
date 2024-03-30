@@ -1,6 +1,6 @@
 {
   "startTime": 1711729335311,
-  "endTime": 1711794830333,
+  "endTime": 1711797301816,
   "band_list": [
     {
       "raw_hot": 2578317,
@@ -51,6 +51,14 @@
       "category": "社会新闻,健康医疗"
     },
     {
+      "raw_hot": 1455092,
+      "num": 1455092,
+      "word": "樊振东2比4雨果",
+      "onboard_time": 1711796597,
+      "rank": 1,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1445197,
       "num": 1445197,
       "word": "杭州东站",
@@ -75,12 +83,36 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1250772,
+      "num": 1250772,
+      "word": "郑合惠子工作室发声",
+      "onboard_time": 1711795938,
+      "rank": 3,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1195797,
       "num": 1195797,
       "word": "小米汽车遭遇上百余名消费者投诉",
       "onboard_time": 1711782857,
       "rank": 43,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 1189451,
+      "num": 1189451,
+      "word": "樊振东vs雨果",
+      "onboard_time": 1711795578,
+      "rank": 4,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 1184205,
+      "num": 1184205,
+      "word": "金价再度爆发",
+      "onboard_time": 1711792458,
+      "rank": 15,
+      "category": "财经"
     },
     {
       "raw_hot": 1089608,
@@ -235,14 +267,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 711719,
-      "num": 711719,
-      "word": "金价再度爆发",
-      "onboard_time": 1711792458,
-      "rank": 15,
-      "category": "财经"
-    },
-    {
       "raw_hot": 694143,
       "num": 694143,
       "word": "二线城市月入过万一天只花29算什么水平",
@@ -379,6 +403,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 540862,
+      "num": 461788,
+      "word": "短效避孕药的13个真相",
+      "onboard_time": 1711795637,
+      "rank": 10,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 521274,
       "num": 197010,
       "word": "阴道侧切的缝合",
@@ -465,6 +497,14 @@
       "onboard_time": 1711784657,
       "rank": 7,
       "category": "体育"
+    },
+    {
+      "raw_hot": 458677,
+      "num": 458677,
+      "word": "孟佳触碰到了张艺兴的舞台盲区",
+      "onboard_time": 1711795159,
+      "rank": 11,
+      "category": "综艺"
     },
     {
       "raw_hot": 450744,
@@ -651,6 +691,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 335268,
+      "num": 335268,
+      "word": "QQ音乐巅峰盛典",
+      "onboard_time": 1711794799,
+      "rank": 45,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 333777,
       "num": 333777,
       "word": "SEVENTEEN十三人完整体",
@@ -681,6 +729,14 @@
       "onboard_time": 1711716139,
       "rank": 18,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 320474,
+      "num": 177041,
+      "word": "仁川赛樊振东止步半决赛",
+      "onboard_time": 1711797019,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 318672,
@@ -779,6 +835,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 294013,
+      "num": 294013,
+      "word": "李知勋金长发",
+      "onboard_time": 1711793537,
+      "rank": 28,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 291085,
       "num": 255891,
       "word": "实习生转正后拒绝了提薪",
@@ -867,14 +931,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 277877,
-      "num": 277877,
-      "word": "李知勋金长发",
-      "onboard_time": 1711793537,
-      "rank": 28,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 271718,
       "num": 271718,
       "word": "郭昊文",
@@ -947,20 +1003,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 250624,
+      "num": 561146,
+      "word": "非师范专业男生跟初中班主任实习",
+      "onboard_time": 1711789759,
+      "rank": 32,
+      "category": "教育"
+    },
+    {
       "raw_hot": 249417,
       "num": 249417,
       "word": "南通35平米纸别墅售价6800元",
       "onboard_time": 1711756397,
       "rank": 19,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 248379,
-      "num": 561146,
-      "word": "非师范专业男生跟初中班主任实习",
-      "onboard_time": 1711789759,
-      "rank": 32,
-      "category": "教育"
     },
     {
       "raw_hot": 248328,
@@ -1073,6 +1129,14 @@
       "onboard_time": 1711778538,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 211756,
+      "num": 211756,
+      "word": "坠落特签",
+      "onboard_time": 1711796898,
+      "rank": 22,
+      "category": "读书作家"
     },
     {
       "raw_hot": 211433,
@@ -1315,12 +1379,28 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 190341,
+      "num": 190341,
+      "word": "经常午睡大脑年轻近7年",
+      "onboard_time": 1711796779,
+      "rank": 24,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 189467,
       "num": 189467,
       "word": "金世佳福州",
       "onboard_time": 1711727058,
       "rank": 23,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 189369,
+      "num": 189369,
+      "word": "樊振东追分能力",
+      "onboard_time": 1711794859,
+      "rank": 25,
+      "category": "体育"
     },
     {
       "raw_hot": 188364,
@@ -1395,6 +1475,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 180468,
+      "num": 564542,
+      "word": "这位00后老板的处事方式简单却细腻",
+      "onboard_time": 1711792217,
+      "rank": 8,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 180349,
       "num": 180349,
       "word": "陈震测评",
@@ -1433,6 +1521,22 @@
       "onboard_time": 1711780218,
       "rank": 39,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 177254,
+      "num": 177254,
+      "word": "KPL",
+      "onboard_time": 1711796478,
+      "rank": 29,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 176301,
+      "num": 176301,
+      "word": "每天走一万步能把脂肪肝走没吗",
+      "onboard_time": 1711796358,
+      "rank": 31,
+      "category": "健康医疗,运动健身"
     },
     {
       "raw_hot": 175931,
@@ -1507,6 +1611,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 168516,
+      "num": 168516,
+      "word": "当她们主动选择改母姓",
+      "onboard_time": 1711794739,
+      "rank": 46,
+      "category": "情感"
+    },
+    {
       "raw_hot": 167326,
       "num": 167326,
       "word": "AG的控制链",
@@ -1569,6 +1681,14 @@
       "onboard_time": 1711775478,
       "rank": 43,
       "category": "读书作家"
+    },
+    {
+      "raw_hot": 159180,
+      "num": 159180,
+      "word": "马斯克表态支持美国红色浪潮",
+      "onboard_time": 1711795339,
+      "rank": 35,
+      "category": "互联网"
     },
     {
       "raw_hot": 159084,
@@ -1787,6 +1907,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 140178,
+      "num": 140178,
+      "word": "员工请假照顾父亲00后老板提前发工资",
+      "onboard_time": 1711796538,
+      "rank": 38,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 139983,
       "num": 139983,
       "word": "第一次见旱獭打架",
@@ -1891,12 +2019,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 126537,
-      "num": 564542,
-      "word": "这位00后老板的处事方式简单却细腻",
-      "onboard_time": 1711792217,
-      "rank": 8,
-      "category": "幽默"
+      "raw_hot": 127274,
+      "num": 127274,
+      "word": "AG六连胜",
+      "onboard_time": 1711795760,
+      "rank": 41,
+      "category": "电竞"
     },
     {
       "raw_hot": 126380,
@@ -1913,6 +2041,14 @@
       "onboard_time": 1711784958,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 124723,
+      "num": 124723,
+      "word": "雷总好宠张颂文",
+      "onboard_time": 1711797199,
+      "rank": 42,
+      "category": "艺人,互联网"
     },
     {
       "raw_hot": 124686,
@@ -2027,6 +2163,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 121099,
+      "num": 121099,
+      "word": "TES锁定第三轮S组",
+      "onboard_time": 1711794978,
+      "rank": 43,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 120475,
       "num": 120475,
       "word": "原来多喝茶也是有好处的",
@@ -2139,14 +2283,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 105759,
-      "num": 105759,
-      "word": "QQ音乐巅峰盛典",
-      "onboard_time": 1711794799,
-      "rank": 45,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 103861,
       "num": 103861,
       "word": "当p人和j人准备出门时",
@@ -2161,14 +2297,6 @@
       "onboard_time": 1711769238,
       "rank": 43,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 103080,
-      "num": 103080,
-      "word": "当她们主动选择改母姓",
-      "onboard_time": 1711794739,
-      "rank": 46,
-      "category": "情感"
     },
     {
       "raw_hot": 101082,
@@ -2524,7 +2652,7 @@
     },
     {
       "raw_hot": 12173,
-      "num": 1231799,
+      "num": 1284989,
       "word": "2024中国网络媒体论坛",
       "onboard_time": 1711628721,
       "rank": 2,
