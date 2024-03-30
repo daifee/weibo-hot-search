@@ -1,6 +1,6 @@
 {
   "startTime": 1711815680412,
-  "endTime": 1711834488217,
+  "endTime": 1711836988731,
   "band_list": [
     {
       "raw_hot": 1290409,
@@ -420,7 +420,7 @@
     },
     {
       "raw_hot": 80824,
-      "num": 46103,
+      "num": 51524,
       "word": "日本歌剧团承认自杀女星生前遭10人霸凌",
       "onboard_time": 1711830190,
       "rank": 18,
@@ -476,7 +476,7 @@
     },
     {
       "raw_hot": 57870,
-      "num": 36664,
+      "num": 50284,
       "word": "吴宗宪回应女儿咖啡店被砸",
       "onboard_time": 1711825752,
       "rank": 31,
@@ -523,28 +523,52 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 17341,
-      "num": 17341,
+      "raw_hot": 32320,
+      "num": 32320,
+      "word": "金秀贤金智媛吵架戏",
+      "onboard_time": 1711834331,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 26533,
+      "num": 26533,
+      "word": "汉代的三只小熊高压锅萌翻了",
+      "onboard_time": 1711835891,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 21743,
+      "num": 21743,
       "word": "秦岚穿得好像锦鲤",
       "onboard_time": 1711831210,
       "rank": 33,
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 13877,
-      "num": 15192,
+      "raw_hot": 20654,
+      "num": 20654,
+      "word": "这届年轻人为何爱上徒步登山",
+      "onboard_time": 1711834511,
+      "rank": 35,
+      "category": "运动健身"
+    },
+    {
+      "raw_hot": 20363,
+      "num": 19340,
+      "word": "秦岚陈靖可自拍",
+      "onboard_time": 1711835050,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 14998,
+      "num": 17619,
       "word": "把化妆过程拍成了化妆游戏",
       "onboard_time": 1711832411,
       "rank": 44,
       "category": "美妆"
-    },
-    {
-      "raw_hot": 13127,
-      "num": 15189,
-      "word": "金秀贤金智媛吵架戏",
-      "onboard_time": 1711834331,
-      "rank": 45,
-      "category": "剧集"
     },
     {
       "raw_hot": 2317,
