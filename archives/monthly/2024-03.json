@@ -1,6 +1,6 @@
 {
   "startTime": 1709223640991,
-  "endTime": 1711787641984,
+  "endTime": 1711790144136,
   "band_list": [
     {
       "raw_hot": 21250232,
@@ -2785,6 +2785,14 @@
       "onboard_time": 1710389014,
       "rank": 4,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1542232,
+      "num": 701892,
+      "word": "医院取精室里都有些什么",
+      "onboard_time": 1711786998,
+      "rank": 10,
+      "category": "健康医疗,科学科普"
     },
     {
       "raw_hot": 1537555,
@@ -14531,6 +14539,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 615433,
+      "num": 615433,
+      "word": "杨紫杭州",
+      "onboard_time": 1711789158,
+      "rank": 5,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 615305,
       "num": 615305,
       "word": "天水麻辣烫",
@@ -22307,6 +22323,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 442726,
+      "num": 442726,
+      "word": "文韬 补拍",
+      "onboard_time": 1711786217,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 442695,
       "num": 442695,
       "word": "美国前财长尝试收购TikTok",
@@ -24235,6 +24259,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 409632,
+      "num": 409632,
+      "word": "花间令女性群像没有郑合惠子",
+      "onboard_time": 1711786519,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 409417,
       "num": 409417,
       "word": "伊能静发长文谈儿子哈利",
@@ -24417,14 +24449,6 @@
       "onboard_time": 1710788357,
       "rank": 38,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 407075,
-      "num": 407075,
-      "word": "文韬 补拍",
-      "onboard_time": 1711786217,
-      "rank": 12,
-      "category": "综艺"
     },
     {
       "raw_hot": 406898,
@@ -24969,6 +24993,14 @@
       "onboard_time": 1711664232,
       "rank": 28,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 397497,
+      "num": 397497,
+      "word": "刘宇宁胡意旋 将门毒后",
+      "onboard_time": 1711789277,
+      "rank": 10,
+      "category": "剧集"
     },
     {
       "raw_hot": 397335,
@@ -28273,14 +28305,6 @@
       "onboard_time": 1710914969,
       "rank": 30,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 347506,
-      "num": 331546,
-      "word": "医院取精室里都有些什么",
-      "onboard_time": 1711786998,
-      "rank": 10,
-      "category": "健康医疗,科学科普"
     },
     {
       "raw_hot": 347496,
@@ -33363,14 +33387,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 290449,
-      "num": 290449,
-      "word": "花间令女性群像没有郑合惠子",
-      "onboard_time": 1711786519,
-      "rank": 25,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 290436,
       "num": 290436,
       "word": "祝她铮铮 祝她昂扬",
@@ -34321,6 +34337,14 @@
       "onboard_time": 1709280810,
       "rank": 36,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 280772,
+      "num": 403559,
+      "word": "殡葬用品店否认南通烧纸普遍2层楼高",
+      "onboard_time": 1711785797,
+      "rank": 27,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 280711,
@@ -38745,14 +38769,6 @@
       "onboard_time": 1709364750,
       "rank": 38,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 244966,
-      "num": 264815,
-      "word": "殡葬用品店否认南通烧纸普遍2层楼高",
-      "onboard_time": 1711785797,
-      "rank": 27,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 244921,
@@ -46131,6 +46147,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 207195,
+      "num": 207195,
+      "word": "林景云中文",
+      "onboard_time": 1711789219,
+      "rank": 16,
+      "category": "演出"
+    },
+    {
       "raw_hot": 207189,
       "num": 207189,
       "word": "鹿晗纯白造型",
@@ -49577,6 +49601,14 @@
       "onboard_time": 1711023379,
       "rank": 31,
       "category": "情感"
+    },
+    {
+      "raw_hot": 196876,
+      "num": 206673,
+      "word": "孙颖莎14连胜早田希娜",
+      "onboard_time": 1711788439,
+      "rank": 18,
+      "category": "体育"
     },
     {
       "raw_hot": 196832,
@@ -54428,7 +54460,7 @@
     },
     {
       "raw_hot": 181736,
-      "num": 205162,
+      "num": 206894,
       "word": "被福建的中式美学惊艳到了",
       "onboard_time": 1711787177,
       "rank": 27,
@@ -54721,6 +54753,14 @@
       "onboard_time": 1709860768,
       "rank": 36,
       "category": "电影"
+    },
+    {
+      "raw_hot": 180786,
+      "num": 206639,
+      "word": "杭州东站跳轨旅客伤情得到控制",
+      "onboard_time": 1711789699,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 180717,
@@ -62507,6 +62547,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 156088,
+      "num": 156088,
+      "word": "综艺 剧本",
+      "onboard_time": 1711789877,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 156081,
       "num": 156081,
       "word": "姿态COS艾希",
@@ -63000,6 +63048,14 @@
       "word": "女生返校为室友带60多斤特产",
       "onboard_time": 1709534547,
       "rank": 29,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 154793,
+      "num": 154793,
+      "word": "10万卖旧车到家才发现印着魔法银行",
+      "onboard_time": 1711789459,
+      "rank": 27,
       "category": "社会新闻"
     },
     {
@@ -69193,6 +69249,14 @@
       "onboard_time": 1710471095,
       "rank": 42,
       "category": "体育"
+    },
+    {
+      "raw_hot": 136550,
+      "num": 136550,
+      "word": "非师范专业男生跟初中班主任实习",
+      "onboard_time": 1711789759,
+      "rank": 32,
+      "category": "教育"
     },
     {
       "raw_hot": 136544,
@@ -77147,6 +77211,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 107964,
+      "num": 107964,
+      "word": "免费的化妆品小样满是狠活",
+      "onboard_time": 1711790058,
+      "rank": 41,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 107828,
       "num": 107828,
       "word": "和妈妈做生意搭子像极了爽文",
@@ -77520,6 +77592,14 @@
       "word": "F1澳大利亚大奖赛塞恩斯冠军",
       "onboard_time": 1711259359,
       "rank": 47,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 105815,
+      "num": 105815,
+      "word": "孙颖莎逆天手感",
+      "onboard_time": 1711788738,
+      "rank": 42,
       "category": "体育"
     },
     {
@@ -78131,6 +78211,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 101082,
+      "num": 101082,
+      "word": "哪些人容易得百日咳",
+      "onboard_time": 1711789398,
+      "rank": 45,
+      "category": "健康医疗,科学科普"
+    },
+    {
       "raw_hot": 100999,
       "num": 307030,
       "word": "穿AirMax感受缓震革命",
@@ -78619,6 +78707,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 96751,
+      "num": 96751,
+      "word": "周深蓝色戏服",
+      "onboard_time": 1711788018,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 96686,
       "num": 96686,
       "word": "一想到从此把闺蜜叫嫂子就哈哈哈",
@@ -78753,6 +78849,14 @@
       "onboard_time": 1710608427,
       "rank": 43,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 95781,
+      "num": 95781,
+      "word": "国航就航班颠簸致歉",
+      "onboard_time": 1711790058,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 95723,

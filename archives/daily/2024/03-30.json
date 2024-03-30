@@ -1,6 +1,6 @@
 {
   "startTime": 1711729335311,
-  "endTime": 1711787641984,
+  "endTime": 1711790144136,
   "band_list": [
     {
       "raw_hot": 1742416,
@@ -17,6 +17,14 @@
       "onboard_time": 1711770197,
       "rank": 0,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 1542232,
+      "num": 701892,
+      "word": "医院取精室里都有些什么",
+      "onboard_time": 1711786998,
+      "rank": 10,
+      "category": "健康医疗,科学科普"
     },
     {
       "raw_hot": 1493483,
@@ -275,6 +283,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 615433,
+      "num": 615433,
+      "word": "杨紫杭州",
+      "onboard_time": 1711789158,
+      "rank": 5,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 603876,
       "num": 603876,
       "word": "男生在工位上养了一整株月季",
@@ -419,6 +435,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 442726,
+      "num": 442726,
+      "word": "文韬 补拍",
+      "onboard_time": 1711786217,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 440871,
       "num": 440871,
       "word": "小米汽车销售称凌晨2点下班7点又上班",
@@ -467,6 +491,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 409632,
+      "num": 409632,
+      "word": "花间令女性群像没有郑合惠子",
+      "onboard_time": 1711786519,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 408286,
       "num": 408286,
       "word": "俄恐袭遇难已升至144人",
@@ -475,12 +507,12 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 407075,
-      "num": 407075,
-      "word": "文韬 补拍",
-      "onboard_time": 1711786217,
-      "rank": 12,
-      "category": "综艺"
+      "raw_hot": 397497,
+      "num": 397497,
+      "word": "刘宇宁胡意旋 将门毒后",
+      "onboard_time": 1711789277,
+      "rank": 10,
+      "category": "剧集"
     },
     {
       "raw_hot": 395871,
@@ -545,14 +577,6 @@
       "onboard_time": 1711769596,
       "rank": 42,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 347506,
-      "num": 331546,
-      "word": "医院取精室里都有些什么",
-      "onboard_time": 1711786998,
-      "rank": 10,
-      "category": "健康医疗,科学科普"
     },
     {
       "raw_hot": 347184,
@@ -707,14 +731,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 290449,
-      "num": 290449,
-      "word": "花间令女性群像没有郑合惠子",
-      "onboard_time": 1711786519,
-      "rank": 25,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 288971,
       "num": 288971,
       "word": "代号鸢",
@@ -769,6 +785,14 @@
       "onboard_time": 1711775358,
       "rank": 32,
       "category": "演出"
+    },
+    {
+      "raw_hot": 280772,
+      "num": 403559,
+      "word": "殡葬用品店否认南通烧纸普遍2层楼高",
+      "onboard_time": 1711785797,
+      "rank": 27,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 271718,
@@ -849,14 +873,6 @@
       "onboard_time": 1711755857,
       "rank": 22,
       "category": "母婴育儿"
-    },
-    {
-      "raw_hot": 244966,
-      "num": 264815,
-      "word": "殡葬用品店否认南通烧纸普遍2层楼高",
-      "onboard_time": 1711785797,
-      "rank": 27,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 242115,
@@ -1011,6 +1027,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 207195,
+      "num": 207195,
+      "word": "林景云中文",
+      "onboard_time": 1711789219,
+      "rank": 16,
+      "category": "演出"
+    },
+    {
       "raw_hot": 206037,
       "num": 206037,
       "word": "王曼昱3比1田志希",
@@ -1081,6 +1105,14 @@
       "onboard_time": 1711775897,
       "rank": 31,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 196876,
+      "num": 206673,
+      "word": "孙颖莎14连胜早田希娜",
+      "onboard_time": 1711788439,
+      "rank": 18,
+      "category": "体育"
     },
     {
       "raw_hot": 195892,
@@ -1204,11 +1236,19 @@
     },
     {
       "raw_hot": 181736,
-      "num": 205162,
+      "num": 206894,
       "word": "被福建的中式美学惊艳到了",
       "onboard_time": 1711787177,
       "rank": 27,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 180786,
+      "num": 206639,
+      "word": "杭州东站跳轨旅客伤情得到控制",
+      "onboard_time": 1711789699,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 180349,
@@ -1379,12 +1419,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 156088,
+      "num": 156088,
+      "word": "综艺 剧本",
+      "onboard_time": 1711789877,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 154981,
       "num": 154981,
       "word": "文韬高端玩家卡点反杀",
       "onboard_time": 1711730116,
       "rank": 23,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 154793,
+      "num": 154793,
+      "word": "10万卖旧车到家才发现印着魔法银行",
+      "onboard_time": 1711789459,
+      "rank": 27,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 154310,
@@ -1585,6 +1641,14 @@
       "onboard_time": 1711754836,
       "rank": 24,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 136550,
+      "num": 136550,
+      "word": "非师范专业男生跟初中班主任实习",
+      "onboard_time": 1711789759,
+      "rank": 32,
+      "category": "教育"
     },
     {
       "raw_hot": 135791,
@@ -1843,6 +1907,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 107964,
+      "num": 107964,
+      "word": "免费的化妆品小样满是狠活",
+      "onboard_time": 1711790058,
+      "rank": 41,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 106940,
       "num": 106940,
       "word": "身体出现这些变化警惕抑郁症",
@@ -1859,6 +1931,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 105815,
+      "num": 105815,
+      "word": "孙颖莎逆天手感",
+      "onboard_time": 1711788738,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 103861,
       "num": 103861,
       "word": "当p人和j人准备出门时",
@@ -1873,6 +1953,14 @@
       "onboard_time": 1711769238,
       "rank": 43,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 101082,
+      "num": 101082,
+      "word": "哪些人容易得百日咳",
+      "onboard_time": 1711789398,
+      "rank": 45,
+      "category": "健康医疗,科学科普"
     },
     {
       "raw_hot": 97755,
@@ -1899,12 +1987,28 @@
       "category": "数码"
     },
     {
+      "raw_hot": 96751,
+      "num": 96751,
+      "word": "周深蓝色戏服",
+      "onboard_time": 1711788018,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 96297,
       "num": 96297,
       "word": "曹县新款马面裙走起路来波光粼粼",
       "onboard_time": 1711754714,
       "rank": 26,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 95781,
+      "num": 95781,
+      "word": "国航就航班颠簸致歉",
+      "onboard_time": 1711790058,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 95630,
