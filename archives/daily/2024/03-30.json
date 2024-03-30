@@ -1,6 +1,6 @@
 {
   "startTime": 1711729335311,
-  "endTime": 1711797301816,
+  "endTime": 1711798436646,
   "band_list": [
     {
       "raw_hot": 2578317,
@@ -9,6 +9,14 @@
       "onboard_time": 1711791918,
       "rank": 0,
       "category": "艺人,互联网"
+    },
+    {
+      "raw_hot": 1906542,
+      "num": 1906542,
+      "word": "郑合惠子工作室发声",
+      "onboard_time": 1711795938,
+      "rank": 3,
+      "category": "艺人"
     },
     {
       "raw_hot": 1742416,
@@ -81,14 +89,6 @@
       "onboard_time": 1711773797,
       "rank": 0,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 1250772,
-      "num": 1250772,
-      "word": "郑合惠子工作室发声",
-      "onboard_time": 1711795938,
-      "rank": 3,
-      "category": "艺人"
     },
     {
       "raw_hot": 1195797,
@@ -291,6 +291,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 671643,
+      "num": 461788,
+      "word": "短效避孕药的13个真相",
+      "onboard_time": 1711795637,
+      "rank": 10,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 671176,
       "num": 671176,
       "word": "小米汽车回应",
@@ -403,12 +411,12 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 540862,
-      "num": 461788,
-      "word": "短效避孕药的13个真相",
-      "onboard_time": 1711795637,
-      "rank": 10,
-      "category": "科学科普"
+      "raw_hot": 533715,
+      "num": 533715,
+      "word": "孟佳触碰到了张艺兴的舞台盲区",
+      "onboard_time": 1711795159,
+      "rank": 11,
+      "category": "综艺"
     },
     {
       "raw_hot": 521274,
@@ -499,20 +507,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 458677,
-      "num": 458677,
-      "word": "孟佳触碰到了张艺兴的舞台盲区",
-      "onboard_time": 1711795159,
-      "rank": 11,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 450744,
       "num": 450744,
       "word": "官方通报房东拿探照灯验房索赔",
       "onboard_time": 1711764737,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 447403,
+      "num": 447403,
+      "word": "仁川赛樊振东止步半决赛",
+      "onboard_time": 1711797019,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 443488,
@@ -659,6 +667,22 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 361177,
+      "num": 242083,
+      "word": "经常午睡大脑年轻近7年",
+      "onboard_time": 1711796779,
+      "rank": 24,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 348620,
+      "num": 348620,
+      "word": "雷总好宠张颂文",
+      "onboard_time": 1711797199,
+      "rank": 42,
+      "category": "艺人,互联网"
+    },
+    {
       "raw_hot": 347184,
       "num": 347184,
       "word": "房地产 小米之家",
@@ -729,14 +753,6 @@
       "onboard_time": 1711716139,
       "rank": 18,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 320474,
-      "num": 177041,
-      "word": "仁川赛樊振东止步半决赛",
-      "onboard_time": 1711797019,
-      "rank": 30,
-      "category": "体育"
     },
     {
       "raw_hot": 318672,
@@ -979,6 +995,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 254805,
+      "num": 561146,
+      "word": "非师范专业男生跟初中班主任实习",
+      "onboard_time": 1711789759,
+      "rank": 32,
+      "category": "教育"
+    },
+    {
       "raw_hot": 254488,
       "num": 254488,
       "word": "拂容君沈璃 先婚后爱文学",
@@ -1001,14 +1025,6 @@
       "onboard_time": 1711791319,
       "rank": 23,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 250624,
-      "num": 561146,
-      "word": "非师范专业男生跟初中班主任实习",
-      "onboard_time": 1711789759,
-      "rank": 32,
-      "category": "教育"
     },
     {
       "raw_hot": 249417,
@@ -1131,6 +1147,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 212992,
+      "num": 212992,
+      "word": "每天走一万步能把脂肪肝走没吗",
+      "onboard_time": 1711796358,
+      "rank": 31,
+      "category": "健康医疗,运动健身"
+    },
+    {
       "raw_hot": 211756,
       "num": 211756,
       "word": "坠落特签",
@@ -1201,6 +1225,14 @@
       "onboard_time": 1711789219,
       "rank": 16,
       "category": "演出"
+    },
+    {
+      "raw_hot": 206880,
+      "num": 445869,
+      "word": "员工请假照顾父亲00后老板提前发工资",
+      "onboard_time": 1711796538,
+      "rank": 38,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 206037,
@@ -1379,14 +1411,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 190341,
-      "num": 190341,
-      "word": "经常午睡大脑年轻近7年",
-      "onboard_time": 1711796779,
-      "rank": 24,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 189467,
       "num": 189467,
       "word": "金世佳福州",
@@ -1531,14 +1555,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 176301,
-      "num": 176301,
-      "word": "每天走一万步能把脂肪肝走没吗",
-      "onboard_time": 1711796358,
-      "rank": 31,
-      "category": "健康医疗,运动健身"
-    },
-    {
       "raw_hot": 175931,
       "num": 175931,
       "word": "以闪亮之名山海序章",
@@ -1601,6 +1617,14 @@
       "onboard_time": 1711783217,
       "rank": 34,
       "category": "演出"
+    },
+    {
+      "raw_hot": 172020,
+      "num": 158296,
+      "word": "雷军张颂文 霸道总裁爱上我",
+      "onboard_time": 1711798218,
+      "rank": 30,
+      "category": "艺人,互联网"
     },
     {
       "raw_hot": 168977,
@@ -1907,14 +1931,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 140178,
-      "num": 140178,
-      "word": "员工请假照顾父亲00后老板提前发工资",
-      "onboard_time": 1711796538,
-      "rank": 38,
-      "category": "社会正能量"
-    },
-    {
       "raw_hot": 139983,
       "num": 139983,
       "word": "第一次见旱獭打架",
@@ -2043,14 +2059,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 124723,
-      "num": 124723,
-      "word": "雷总好宠张颂文",
-      "onboard_time": 1711797199,
-      "rank": 42,
-      "category": "艺人,互联网"
-    },
-    {
       "raw_hot": 124686,
       "num": 124686,
       "word": "特斯拉下线第600万辆汽车",
@@ -2105,6 +2113,14 @@
       "onboard_time": 1711758856,
       "rank": 37,
       "category": "网红"
+    },
+    {
+      "raw_hot": 122834,
+      "num": 122834,
+      "word": "为什么有人朋友圈不爱发自己照片",
+      "onboard_time": 1711798278,
+      "rank": 40,
+      "category": "情感"
     },
     {
       "raw_hot": 122750,
