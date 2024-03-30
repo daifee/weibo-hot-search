@@ -1,6 +1,6 @@
 {
   "startTime": 1711729335311,
-  "endTime": 1711790144136,
+  "endTime": 1711791246643,
   "band_list": [
     {
       "raw_hot": 1742416,
@@ -11,20 +11,20 @@
       "category": "数码"
     },
     {
+      "raw_hot": 1657154,
+      "num": 701892,
+      "word": "医院取精室里都有些什么",
+      "onboard_time": 1711786998,
+      "rank": 10,
+      "category": "健康医疗,科学科普"
+    },
+    {
       "raw_hot": 1598351,
       "num": 1598351,
       "word": "偷点外卖就不要写真实姓名了",
       "onboard_time": 1711770197,
       "rank": 0,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 1542232,
-      "num": 701892,
-      "word": "医院取精室里都有些什么",
-      "onboard_time": 1711786998,
-      "rank": 10,
-      "category": "健康医疗,科学科普"
     },
     {
       "raw_hot": 1493483,
@@ -211,6 +211,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 709893,
+      "num": 709893,
+      "word": "刘宇宁胡意旋 将门毒后",
+      "onboard_time": 1711789277,
+      "rank": 10,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 694143,
       "num": 694143,
       "word": "二线城市月入过万一天只花29算什么水平",
@@ -321,6 +329,14 @@
       "onboard_time": 1711767857,
       "rank": 12,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 567189,
+      "num": 567189,
+      "word": "杭州东站跳轨旅客伤情得到控制",
+      "onboard_time": 1711789699,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 557783,
@@ -483,6 +499,22 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 415069,
+      "num": 415069,
+      "word": "纪凌尘 海澜之家",
+      "onboard_time": 1711789998,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 412599,
+      "num": 412599,
+      "word": "综艺 剧本",
+      "onboard_time": 1711789877,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 410718,
       "num": 272314,
       "word": "为什么体制内的人都偏爱喝茶",
@@ -505,14 +537,6 @@
       "onboard_time": 1711755857,
       "rank": 8,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 397497,
-      "num": 397497,
-      "word": "刘宇宁胡意旋 将门毒后",
-      "onboard_time": 1711789277,
-      "rank": 10,
-      "category": "剧集"
     },
     {
       "raw_hot": 395871,
@@ -731,6 +755,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 290556,
+      "num": 141000,
+      "word": "免费的化妆品小样满是狠活",
+      "onboard_time": 1711790058,
+      "rank": 41,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 288971,
       "num": 288971,
       "word": "代号鸢",
@@ -939,6 +971,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 220043,
+      "num": 140891,
+      "word": "父母瞒了我16年我不是他们亲生女儿",
+      "onboard_time": 1711790479,
+      "rank": 31,
+      "category": "情感"
+    },
+    {
       "raw_hot": 219014,
       "num": 198558,
       "word": "杭州东站列车大面积延误",
@@ -1057,6 +1097,14 @@
       "onboard_time": 1711777340,
       "rank": 40,
       "category": "情感"
+    },
+    {
+      "raw_hot": 202311,
+      "num": 202311,
+      "word": "10万卖旧车到家才发现印着魔法银行",
+      "onboard_time": 1711789459,
+      "rank": 27,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 200524,
@@ -1227,6 +1275,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 184501,
+      "num": 184501,
+      "word": "山东专升本计算机",
+      "onboard_time": 1711790838,
+      "rank": 22,
+      "category": "教育"
+    },
+    {
       "raw_hot": 182540,
       "num": 182540,
       "word": "忽冷忽热的人可能是病了",
@@ -1236,19 +1292,11 @@
     },
     {
       "raw_hot": 181736,
-      "num": 206894,
+      "num": 239219,
       "word": "被福建的中式美学惊艳到了",
       "onboard_time": 1711787177,
       "rank": 27,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 180786,
-      "num": 206639,
-      "word": "杭州东站跳轨旅客伤情得到控制",
-      "onboard_time": 1711789699,
-      "rank": 19,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 180349,
@@ -1371,6 +1419,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 164250,
+      "num": 164250,
+      "word": "国航就航班颠簸致歉",
+      "onboard_time": 1711790058,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 163265,
       "num": 163265,
       "word": "火箭11连胜",
@@ -1419,12 +1475,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 156088,
-      "num": 156088,
-      "word": "综艺 剧本",
-      "onboard_time": 1711789877,
-      "rank": 25,
-      "category": "综艺"
+      "raw_hot": 155419,
+      "num": 155419,
+      "word": "3分钟了解自由泳学习要点",
+      "onboard_time": 1711790719,
+      "rank": 27,
+      "category": "运动健身"
     },
     {
       "raw_hot": 154981,
@@ -1433,14 +1489,6 @@
       "onboard_time": 1711730116,
       "rank": 23,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 154793,
-      "num": 154793,
-      "word": "10万卖旧车到家才发现印着魔法银行",
-      "onboard_time": 1711789459,
-      "rank": 27,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 154310,
@@ -1497,6 +1545,14 @@
       "onboard_time": 1711725198,
       "rank": 25,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 150805,
+      "num": 150805,
+      "word": "非师范专业男生跟初中班主任实习",
+      "onboard_time": 1711789759,
+      "rank": 32,
+      "category": "教育"
     },
     {
       "raw_hot": 148944,
@@ -1643,14 +1699,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 136550,
-      "num": 136550,
-      "word": "非师范专业男生跟初中班主任实习",
-      "onboard_time": 1711789759,
-      "rank": 32,
-      "category": "教育"
-    },
-    {
       "raw_hot": 135791,
       "num": 135791,
       "word": "鞠婧祎转头甩发",
@@ -1713,6 +1761,14 @@
       "onboard_time": 1711725859,
       "rank": 34,
       "category": "演出"
+    },
+    {
+      "raw_hot": 126380,
+      "num": 126380,
+      "word": "国乒包揽仁川赛女单四强",
+      "onboard_time": 1711790599,
+      "rank": 37,
+      "category": "体育"
     },
     {
       "raw_hot": 125813,
@@ -1859,6 +1915,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 117356,
+      "num": 117356,
+      "word": "网易游戏清明节对未成年人限时",
+      "onboard_time": 1711790359,
+      "rank": 39,
+      "category": "游戏,互联网"
+    },
+    {
       "raw_hot": 116431,
       "num": 134723,
       "word": "王阳好会说",
@@ -1905,14 +1969,6 @@
       "onboard_time": 1711703238,
       "rank": 40,
       "category": "电影"
-    },
-    {
-      "raw_hot": 107964,
-      "num": 107964,
-      "word": "免费的化妆品小样满是狠活",
-      "onboard_time": 1711790058,
-      "rank": 41,
-      "category": "美妆"
     },
     {
       "raw_hot": 106940,
@@ -2001,14 +2057,6 @@
       "onboard_time": 1711754714,
       "rank": 26,
       "category": "时尚"
-    },
-    {
-      "raw_hot": 95781,
-      "num": 95781,
-      "word": "国航就航班颠簸致歉",
-      "onboard_time": 1711790058,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 95630,

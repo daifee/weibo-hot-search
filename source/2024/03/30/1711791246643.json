@@ -1,0 +1,410 @@
+{
+  "runTime": 1711791246643,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 862511,
+        "num": 862511,
+        "word": "雷军能不能生产一下相机",
+        "onboard_time": 1711778538,
+        "rank": 0,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 709893,
+        "num": 709893,
+        "word": "刘宇宁胡意旋 将门毒后",
+        "onboard_time": 1711789277,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 10673,
+        "num": 645101,
+        "word": "2024中国网络媒体论坛",
+        "onboard_time": 1711628721,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1657154,
+        "num": 644125,
+        "word": "医院取精室里都有些什么",
+        "onboard_time": 1711786998,
+        "rank": 3,
+        "category": "健康医疗,科学科普"
+      },
+      {
+        "raw_hot": 608908,
+        "num": 608908,
+        "word": "杨紫杭州",
+        "onboard_time": 1711789158,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 594837,
+        "num": 594837,
+        "word": "将门毒后女主原型",
+        "onboard_time": 1711784958,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 567189,
+        "num": 567189,
+        "word": "杭州东站跳轨旅客伤情得到控制",
+        "onboard_time": 1711789699,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 530139,
+        "num": 530139,
+        "word": "小米汽车遭遇上百余名消费者投诉",
+        "onboard_time": 1711782857,
+        "rank": 7,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 441694,
+        "num": 441694,
+        "word": "百日咳今年已致13人死亡",
+        "onboard_time": 1711774157,
+        "rank": 8,
+        "category": "社会新闻,健康医疗"
+      },
+      {
+        "raw_hot": 422792,
+        "num": 422792,
+        "word": "文韬 补拍",
+        "onboard_time": 1711786217,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 415069,
+        "num": 415069,
+        "word": "纪凌尘 海澜之家",
+        "onboard_time": 1711789998,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 412599,
+        "num": 412599,
+        "word": "综艺 剧本",
+        "onboard_time": 1711789877,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 376280,
+        "num": 376280,
+        "word": "花间令女性群像没有郑合惠子",
+        "onboard_time": 1711786519,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 286410,
+        "num": 286410,
+        "word": "段奥娟风格 刘浩存",
+        "onboard_time": 1711773257,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 262804,
+        "num": 262804,
+        "word": "殡葬用品店否认南通烧纸普遍2层楼高",
+        "onboard_time": 1711785797,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 259879,
+        "num": 259879,
+        "word": "全员加速中 控分",
+        "onboard_time": 1711785917,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 245239,
+        "num": 245239,
+        "word": "能不能禁止小说人名平民化",
+        "onboard_time": 1711778899,
+        "rank": 16,
+        "category": "读书作家,幽默"
+      },
+      {
+        "raw_hot": 24102,
+        "num": 239219,
+        "word": "被福建的中式美学惊艳到了",
+        "onboard_time": 1711787177,
+        "rank": 17,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 238414,
+        "num": 238414,
+        "word": "房地产 小米之家",
+        "onboard_time": 1711785197,
+        "rank": 18,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 202311,
+        "num": 202311,
+        "word": "10万卖旧车到家才发现印着魔法银行",
+        "onboard_time": 1711789459,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 193924,
+        "num": 193924,
+        "word": "孙颖莎14连胜早田希娜",
+        "onboard_time": 1711788439,
+        "rank": 20,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 187015,
+        "num": 187015,
+        "word": "奔跑吧全员录制大声公",
+        "onboard_time": 1711777218,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 184501,
+        "num": 184501,
+        "word": "山东专升本计算机",
+        "onboard_time": 1711790838,
+        "rank": 22,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 179601,
+        "num": 179601,
+        "word": "代号鸢",
+        "onboard_time": 1711785137,
+        "rank": 23,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 174629,
+        "num": 174629,
+        "word": "杨采薇入狱",
+        "onboard_time": 1711773797,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 164250,
+        "num": 164250,
+        "word": "国航就航班颠簸致歉",
+        "onboard_time": 1711790058,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 161673,
+        "num": 161673,
+        "word": "卵巢癌的预警信号可能被你忽视了",
+        "onboard_time": 1711782196,
+        "rank": 26,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 155419,
+        "num": 155419,
+        "word": "3分钟了解自由泳学习要点",
+        "onboard_time": 1711790719,
+        "rank": 27,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 150805,
+        "num": 150805,
+        "word": "非师范专业男生跟初中班主任实习",
+        "onboard_time": 1711789759,
+        "rank": 28,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 141581,
+        "num": 141581,
+        "word": "宫崎骏 感受到AI对生命的侮辱",
+        "onboard_time": 1711777518,
+        "rank": 29,
+        "category": "动漫,艺人"
+      },
+      {
+        "raw_hot": 290556,
+        "num": 141000,
+        "word": "免费的化妆品小样满是狠活",
+        "onboard_time": 1711790058,
+        "rank": 30,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 220043,
+        "num": 140891,
+        "word": "父母瞒了我16年我不是他们亲生女儿",
+        "onboard_time": 1711790479,
+        "rank": 31,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 140181,
+        "num": 140181,
+        "word": "SEVENTEEN十三人完整体",
+        "onboard_time": 1711782137,
+        "rank": 32,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 137741,
+        "num": 137741,
+        "word": "代号鸢尺度",
+        "onboard_time": 1711763360,
+        "rank": 33,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 134747,
+        "num": 134747,
+        "word": "代号鸢离国服越来越远了",
+        "onboard_time": 1711771156,
+        "rank": 34,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 131531,
+        "num": 131531,
+        "word": "林景云中文",
+        "onboard_time": 1711789219,
+        "rank": 35,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 130260,
+        "num": 130260,
+        "word": "偷点外卖就不要写真实姓名了",
+        "onboard_time": 1711770197,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 126380,
+        "num": 126380,
+        "word": "国乒包揽仁川赛女单四强",
+        "onboard_time": 1711790599,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 119791,
+        "num": 119791,
+        "word": "实习生转正后拒绝了提薪",
+        "onboard_time": 1711780036,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 117356,
+        "num": 117356,
+        "word": "网易游戏清明节对未成年人限时",
+        "onboard_time": 1711790359,
+        "rank": 39,
+        "category": "游戏,互联网"
+      },
+      {
+        "raw_hot": 117307,
+        "num": 117307,
+        "word": "12星座4月运势",
+        "onboard_time": 1711780819,
+        "rank": 40,
+        "category": "情感,网红"
+      },
+      {
+        "raw_hot": 109997,
+        "num": 109997,
+        "word": "事业编",
+        "onboard_time": 1711773198,
+        "rank": 41,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 109578,
+        "num": 109578,
+        "word": "Uzi也在练",
+        "onboard_time": 1711785317,
+        "rank": 42,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 104242,
+        "num": 104242,
+        "word": "杭州东站",
+        "onboard_time": 1711770977,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 104068,
+        "num": 104068,
+        "word": "谁给李灿剪的头",
+        "onboard_time": 1711781537,
+        "rank": 44,
+        "category": "演出,时尚"
+      },
+      {
+        "raw_hot": 97801,
+        "num": 97801,
+        "word": "明星用假人直播带货要担责吗",
+        "onboard_time": 1711775778,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 95005,
+        "num": 95005,
+        "word": "林依轮妻子近照",
+        "onboard_time": 1711786698,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 93886,
+        "num": 93886,
+        "word": "郝蕾怼难哄制片人",
+        "onboard_time": 1711778658,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 91231,
+        "num": 91231,
+        "word": "花1400万为农民喝好水却成闹心工程",
+        "onboard_time": 1711777097,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 84931,
+        "num": 84931,
+        "word": "孙颖莎逆天手感",
+        "onboard_time": 1711788738,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#中共中央政治局召开会议#"
+    }
+  }
+}
