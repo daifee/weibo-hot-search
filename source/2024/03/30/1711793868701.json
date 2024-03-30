@@ -1,0 +1,410 @@
+{
+  "runTime": 1711793868701,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2033609,
+        "num": 2033609,
+        "word": "雷军回复张颂文",
+        "onboard_time": 1711791918,
+        "rank": 0,
+        "category": "艺人,互联网"
+      },
+      {
+        "raw_hot": 872680,
+        "num": 872680,
+        "word": "刘宇宁胡意旋 将门毒后",
+        "onboard_time": 1711789277,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 8590,
+        "num": 784625,
+        "word": "2024中国网络媒体论坛",
+        "onboard_time": 1711628721,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 892348,
+        "num": 774371,
+        "word": "医院取精室里都有些什么",
+        "onboard_time": 1711786998,
+        "rank": 3,
+        "category": "健康医疗,科学科普"
+      },
+      {
+        "raw_hot": 723973,
+        "num": 723973,
+        "word": "纪凌尘 海澜之家",
+        "onboard_time": 1711789998,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 648680,
+        "num": 648680,
+        "word": "杭州东站跳轨旅客伤情得到控制",
+        "onboard_time": 1711789699,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 624185,
+        "num": 624185,
+        "word": "雷军能不能生产一下相机",
+        "onboard_time": 1711778538,
+        "rank": 6,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 565533,
+        "num": 565533,
+        "word": "将门毒后女主原型",
+        "onboard_time": 1711784958,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 104954,
+        "num": 513143,
+        "word": "这位00后老板的处事方式简单却细腻",
+        "onboard_time": 1711792217,
+        "rank": 8,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 218151,
+        "num": 470178,
+        "word": "非师范专业男生跟初中班主任实习",
+        "onboard_time": 1711789759,
+        "rank": 9,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 468423,
+        "num": 468423,
+        "word": "百日咳今年已致13人死亡",
+        "onboard_time": 1711774157,
+        "rank": 10,
+        "category": "社会新闻,健康医疗"
+      },
+      {
+        "raw_hot": 459455,
+        "num": 459455,
+        "word": "综艺 剧本",
+        "onboard_time": 1711789877,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 418583,
+        "num": 418583,
+        "word": "小米汽车遭遇上百余名消费者投诉",
+        "onboard_time": 1711782857,
+        "rank": 12,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 382171,
+        "num": 382171,
+        "word": "杨紫杭州",
+        "onboard_time": 1711789158,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 19206,
+        "num": 365413,
+        "word": "蛋仔派对赞萌露比联动",
+        "onboard_time": 1711792818,
+        "rank": 14,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 354118,
+        "num": 354118,
+        "word": "金价再度爆发",
+        "onboard_time": 1711792458,
+        "rank": 15,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 292197,
+        "num": 292197,
+        "word": "段奥娟风格 刘浩存",
+        "onboard_time": 1711773257,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 291666,
+        "num": 291666,
+        "word": "花间令女性群像没有郑合惠子",
+        "onboard_time": 1711786519,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 309523,
+        "num": 286858,
+        "word": "杨紫工作室出图",
+        "onboard_time": 1711792519,
+        "rank": 18,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 280157,
+        "num": 280157,
+        "word": "10万卖旧车到家才发现印着魔法银行",
+        "onboard_time": 1711789459,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 36523,
+        "num": 261219,
+        "word": "肖战的舒适日常",
+        "onboard_time": 1711792278,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 261148,
+        "num": 261148,
+        "word": "文韬 补拍",
+        "onboard_time": 1711786217,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 252996,
+        "num": 252996,
+        "word": "免费的化妆品小样满是狠活",
+        "onboard_time": 1711790058,
+        "rank": 22,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 251177,
+        "num": 251177,
+        "word": "白鹿直拍",
+        "onboard_time": 1711791319,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 216663,
+        "num": 216663,
+        "word": "父母瞒了我16年我不是他们亲生女儿",
+        "onboard_time": 1711790479,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 199749,
+        "num": 199749,
+        "word": "KCON香港红毯",
+        "onboard_time": 1711793058,
+        "rank": 25,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 192787,
+        "num": 192787,
+        "word": "能不能禁止小说人名平民化",
+        "onboard_time": 1711778899,
+        "rank": 26,
+        "category": "读书作家,幽默"
+      },
+      {
+        "raw_hot": 170818,
+        "num": 170818,
+        "word": "超2000名股民获赔3.29亿元",
+        "onboard_time": 1711793356,
+        "rank": 27,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 167000,
+        "num": 167000,
+        "word": "李知勋金长发",
+        "onboard_time": 1711793537,
+        "rank": 28,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 164018,
+        "num": 164018,
+        "word": "代号鸢",
+        "onboard_time": 1711785137,
+        "rank": 29,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 149441,
+        "num": 149441,
+        "word": "蔡依林佛山演唱会",
+        "onboard_time": 1711793119,
+        "rank": 30,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 141513,
+        "num": 141513,
+        "word": "打台球和打麻将的都沉默了",
+        "onboard_time": 1711791620,
+        "rank": 31,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 138527,
+        "num": 138527,
+        "word": "AG对战LGD",
+        "onboard_time": 1711791620,
+        "rank": 32,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 136527,
+        "num": 136527,
+        "word": "卵巢癌的预警信号可能被你忽视了",
+        "onboard_time": 1711782196,
+        "rank": 33,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 136517,
+        "num": 136517,
+        "word": "房地产 小米之家",
+        "onboard_time": 1711785197,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 135735,
+        "num": 135735,
+        "word": "泽连斯基对和谈松口",
+        "onboard_time": 1711793598,
+        "rank": 35,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 134772,
+        "num": 134772,
+        "word": "AG的控制链",
+        "onboard_time": 1711791979,
+        "rank": 36,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 133806,
+        "num": 133806,
+        "word": "全员加速中 控分",
+        "onboard_time": 1711785917,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 128849,
+        "num": 128849,
+        "word": "孙颖莎14连胜早田希娜",
+        "onboard_time": 1711788439,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 125811,
+        "num": 125811,
+        "word": "国航就航班颠簸致歉",
+        "onboard_time": 1711790058,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 124795,
+        "num": 124795,
+        "word": "SEVENTEEN十三人完整体",
+        "onboard_time": 1711782137,
+        "rank": 40,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 124117,
+        "num": 124117,
+        "word": "奔跑吧全员录制大声公",
+        "onboard_time": 1711777218,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 122230,
+        "num": 122230,
+        "word": "杨采薇入狱",
+        "onboard_time": 1711773797,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 118558,
+        "num": 118558,
+        "word": "山东专升本计算机",
+        "onboard_time": 1711790838,
+        "rank": 43,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 115490,
+        "num": 115490,
+        "word": "ACT复活赛",
+        "onboard_time": 1711792938,
+        "rank": 44,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 110814,
+        "num": 110814,
+        "word": "代号鸢离国服越来越远了",
+        "onboard_time": 1711771156,
+        "rank": 45,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 106081,
+        "num": 106081,
+        "word": "武汉三镇0比1北京国安",
+        "onboard_time": 1711793058,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 102869,
+        "num": 102869,
+        "word": "代号鸢尺度",
+        "onboard_time": 1711763360,
+        "rank": 47,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 102070,
+        "num": 102070,
+        "word": "事业编",
+        "onboard_time": 1711773198,
+        "rank": 48,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 100040,
+        "num": 100040,
+        "word": "殡葬用品店否认南通烧纸普遍2层楼高",
+        "onboard_time": 1711785797,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#中共中央政治局召开会议#"
+    }
+  }
+}

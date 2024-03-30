@@ -1,7 +1,15 @@
 {
   "startTime": 1711729335311,
-  "endTime": 1711791246643,
+  "endTime": 1711793868701,
   "band_list": [
+    {
+      "raw_hot": 2033609,
+      "num": 2033609,
+      "word": "雷军回复张颂文",
+      "onboard_time": 1711791918,
+      "rank": 0,
+      "category": "艺人,互联网"
+    },
     {
       "raw_hot": 1742416,
       "num": 1742416,
@@ -12,7 +20,7 @@
     },
     {
       "raw_hot": 1657154,
-      "num": 701892,
+      "num": 774371,
       "word": "医院取精室里都有些什么",
       "onboard_time": 1711786998,
       "rank": 10,
@@ -147,6 +155,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 872680,
+      "num": 872680,
+      "word": "刘宇宁胡意旋 将门毒后",
+      "onboard_time": 1711789277,
+      "rank": 10,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 838385,
       "num": 838385,
       "word": "孙颖莎vs早田希娜",
@@ -211,12 +227,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 709893,
-      "num": 709893,
-      "word": "刘宇宁胡意旋 将门毒后",
-      "onboard_time": 1711789277,
+      "raw_hot": 723973,
+      "num": 723973,
+      "word": "纪凌尘 海澜之家",
+      "onboard_time": 1711789998,
       "rank": 10,
-      "category": "剧集"
+      "category": "艺人"
     },
     {
       "raw_hot": 694143,
@@ -256,6 +272,14 @@
       "word": "上海情侣排队5小时限购10分钟chiikawa",
       "onboard_time": 1711759397,
       "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 648680,
+      "num": 648680,
+      "word": "杭州东站跳轨旅客伤情得到控制",
+      "onboard_time": 1711789699,
+      "rank": 19,
       "category": "社会新闻"
     },
     {
@@ -329,14 +353,6 @@
       "onboard_time": 1711767857,
       "rank": 12,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 567189,
-      "num": 567189,
-      "word": "杭州东站跳轨旅客伤情得到控制",
-      "onboard_time": 1711789699,
-      "rank": 19,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 557783,
@@ -427,6 +443,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 459455,
+      "num": 459455,
+      "word": "综艺 剧本",
+      "onboard_time": 1711789877,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 459403,
       "num": 459403,
       "word": "王曼昱vs田志希",
@@ -497,22 +521,6 @@
       "onboard_time": 1711773857,
       "rank": 20,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 415069,
-      "num": 415069,
-      "word": "纪凌尘 海澜之家",
-      "onboard_time": 1711789998,
-      "rank": 10,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 412599,
-      "num": 412599,
-      "word": "综艺 剧本",
-      "onboard_time": 1711789877,
-      "rank": 25,
-      "category": "综艺"
     },
     {
       "raw_hot": 410718,
@@ -601,6 +609,14 @@
       "onboard_time": 1711769596,
       "rank": 42,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 354118,
+      "num": 354118,
+      "word": "金价再度爆发",
+      "onboard_time": 1711792458,
+      "rank": 15,
+      "category": "财经"
     },
     {
       "raw_hot": 347184,
@@ -699,6 +715,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 309523,
+      "num": 286858,
+      "word": "杨紫工作室出图",
+      "onboard_time": 1711792519,
+      "rank": 18,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 308909,
       "num": 308909,
       "word": "韩沐伯 出家",
@@ -756,7 +780,7 @@
     },
     {
       "raw_hot": 290556,
-      "num": 141000,
+      "num": 252996,
       "word": "免费的化妆品小样满是狠活",
       "onboard_time": 1711790058,
       "rank": 41,
@@ -827,6 +851,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 280157,
+      "num": 280157,
+      "word": "10万卖旧车到家才发现印着魔法银行",
+      "onboard_time": 1711789459,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 271718,
       "num": 271718,
       "word": "郭昊文",
@@ -889,6 +921,14 @@
       "onboard_time": 1711720938,
       "rank": 17,
       "category": "社会新闻,健康医疗"
+    },
+    {
+      "raw_hot": 251177,
+      "num": 251177,
+      "word": "白鹿直拍",
+      "onboard_time": 1711791319,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 249417,
@@ -972,7 +1012,7 @@
     },
     {
       "raw_hot": 220043,
-      "num": 140891,
+      "num": 216663,
       "word": "父母瞒了我16年我不是他们亲生女儿",
       "onboard_time": 1711790479,
       "rank": 31,
@@ -1001,6 +1041,14 @@
       "onboard_time": 1711777997,
       "rank": 30,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 218151,
+      "num": 470178,
+      "word": "非师范专业男生跟初中班主任实习",
+      "onboard_time": 1711789759,
+      "rank": 32,
+      "category": "教育"
     },
     {
       "raw_hot": 214613,
@@ -1099,20 +1147,20 @@
       "category": "情感"
     },
     {
-      "raw_hot": 202311,
-      "num": 202311,
-      "word": "10万卖旧车到家才发现印着魔法银行",
-      "onboard_time": 1711789459,
-      "rank": 27,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 200524,
       "num": 200524,
       "word": "Uzi也在练",
       "onboard_time": 1711785317,
       "rank": 28,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 199749,
+      "num": 199749,
+      "word": "KCON香港红毯",
+      "onboard_time": 1711793058,
+      "rank": 25,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 199537,
@@ -1395,12 +1443,28 @@
       "category": "演出"
     },
     {
+      "raw_hot": 170818,
+      "num": 170818,
+      "word": "超2000名股民获赔3.29亿元",
+      "onboard_time": 1711793356,
+      "rank": 27,
+      "category": "财经"
+    },
+    {
       "raw_hot": 168977,
       "num": 168977,
       "word": "全国大学生的统一穿搭",
       "onboard_time": 1711772537,
       "rank": 33,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 167000,
+      "num": 167000,
+      "word": "李知勋金长发",
+      "onboard_time": 1711793537,
+      "rank": 28,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 166372,
@@ -1547,12 +1611,12 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 150805,
-      "num": 150805,
-      "word": "非师范专业男生跟初中班主任实习",
-      "onboard_time": 1711789759,
-      "rank": 32,
-      "category": "教育"
+      "raw_hot": 149441,
+      "num": 149441,
+      "word": "蔡依林佛山演唱会",
+      "onboard_time": 1711793119,
+      "rank": 30,
+      "category": "演出"
     },
     {
       "raw_hot": 148944,
@@ -1659,6 +1723,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 141513,
+      "num": 141513,
+      "word": "打台球和打麻将的都沉默了",
+      "onboard_time": 1711791620,
+      "rank": 31,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 141380,
       "num": 141380,
       "word": "王一博中国银幕封面",
@@ -1691,6 +1763,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 138527,
+      "num": 138527,
+      "word": "AG对战LGD",
+      "onboard_time": 1711791620,
+      "rank": 32,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 137139,
       "num": 137139,
       "word": "苗苗领娃探班郑恺",
@@ -1707,12 +1787,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 135735,
+      "num": 135735,
+      "word": "泽连斯基对和谈松口",
+      "onboard_time": 1711793598,
+      "rank": 35,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 135293,
       "num": 135293,
       "word": "阮澜竹 化蝶",
       "onboard_time": 1711776558,
       "rank": 44,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 134772,
+      "num": 134772,
+      "word": "AG的控制链",
+      "onboard_time": 1711791979,
+      "rank": 36,
+      "category": "电竞"
     },
     {
       "raw_hot": 134760,
@@ -1931,6 +2027,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 115490,
+      "num": 115490,
+      "word": "ACT复活赛",
+      "onboard_time": 1711792938,
+      "rank": 44,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 113779,
       "num": 134721,
       "word": "雷军回忆造车崩溃时刻",
@@ -1987,12 +2091,28 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 106081,
+      "num": 106081,
+      "word": "武汉三镇0比1北京国安",
+      "onboard_time": 1711793058,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 105815,
       "num": 105815,
       "word": "孙颖莎逆天手感",
       "onboard_time": 1711788738,
       "rank": 42,
       "category": "体育"
+    },
+    {
+      "raw_hot": 104954,
+      "num": 513143,
+      "word": "这位00后老板的处事方式简单却细腻",
+      "onboard_time": 1711792217,
+      "rank": 8,
+      "category": "幽默"
     },
     {
       "raw_hot": 103861,
@@ -2275,6 +2395,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 36523,
+      "num": 261219,
+      "word": "肖战的舒适日常",
+      "onboard_time": 1711792278,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 36159,
       "num": 78904,
       "word": "一个动作帮久坐族排湿",
@@ -2329,6 +2457,14 @@
       "onboard_time": 1711771997,
       "rank": 14,
       "category": "游戏,美食"
+    },
+    {
+      "raw_hot": 19206,
+      "num": 365413,
+      "word": "蛋仔派对赞萌露比联动",
+      "onboard_time": 1711792818,
+      "rank": 14,
+      "category": "游戏"
     },
     {
       "raw_hot": 15742,
