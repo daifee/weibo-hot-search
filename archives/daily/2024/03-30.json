@@ -1,6 +1,6 @@
 {
   "startTime": 1711729335311,
-  "endTime": 1711786903383,
+  "endTime": 1711787641984,
   "band_list": [
     {
       "raw_hot": 1742416,
@@ -475,6 +475,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 407075,
+      "num": 407075,
+      "word": "文韬 补拍",
+      "onboard_time": 1711786217,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 395871,
       "num": 395871,
       "word": "蓝盈莹回碎玉轩了",
@@ -539,8 +547,16 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 341810,
-      "num": 341810,
+      "raw_hot": 347506,
+      "num": 331546,
+      "word": "医院取精室里都有些什么",
+      "onboard_time": 1711786998,
+      "rank": 10,
+      "category": "健康医疗,科学科普"
+    },
+    {
+      "raw_hot": 347184,
+      "num": 347184,
       "word": "房地产 小米之家",
       "onboard_time": 1711785197,
       "rank": 9,
@@ -587,20 +603,20 @@
       "category": "演出,时尚"
     },
     {
+      "raw_hot": 328278,
+      "num": 328278,
+      "word": "全员加速中 控分",
+      "onboard_time": 1711785917,
+      "rank": 14,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 326026,
       "num": 326026,
       "word": "罗永浩称小米汽车很可能上演良币驱逐劣币",
       "onboard_time": 1711716139,
       "rank": 18,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 320064,
-      "num": 320064,
-      "word": "文韬 补拍",
-      "onboard_time": 1711786217,
-      "rank": 12,
-      "category": "综艺"
     },
     {
       "raw_hot": 318672,
@@ -616,14 +632,6 @@
       "word": "白鹿跳了Fate",
       "onboard_time": 1711726580,
       "rank": 12,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 313838,
-      "num": 299582,
-      "word": "全员加速中 控分",
-      "onboard_time": 1711785917,
-      "rank": 14,
       "category": "综艺"
     },
     {
@@ -697,6 +705,14 @@
       "onboard_time": 1711780036,
       "rank": 28,
       "category": "情感"
+    },
+    {
+      "raw_hot": 290449,
+      "num": 290449,
+      "word": "花间令女性群像没有郑合惠子",
+      "onboard_time": 1711786519,
+      "rank": 25,
+      "category": "剧集"
     },
     {
       "raw_hot": 288971,
@@ -779,6 +795,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 264228,
+      "num": 264228,
+      "word": "林依轮妻子近照",
+      "onboard_time": 1711786698,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 263634,
       "num": 263634,
       "word": "万达将获约600亿元投资",
@@ -827,6 +851,14 @@
       "category": "母婴育儿"
     },
     {
+      "raw_hot": 244966,
+      "num": 264815,
+      "word": "殡葬用品店否认南通烧纸普遍2层楼高",
+      "onboard_time": 1711785797,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 242115,
       "num": 242115,
       "word": "张艺兴见不得黄渤变老",
@@ -841,14 +873,6 @@
       "onboard_time": 1711770557,
       "rank": 46,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 240077,
-      "num": 240077,
-      "word": "林依轮妻子近照",
-      "onboard_time": 1711786698,
-      "rank": 21,
-      "category": "艺人"
     },
     {
       "raw_hot": 233643,
@@ -931,10 +955,10 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 213291,
-      "num": 213291,
-      "word": "花间令女性群像没有郑合惠子",
-      "onboard_time": 1711786519,
+      "raw_hot": 211433,
+      "num": 211433,
+      "word": "王一博魏若来锄奸花絮",
+      "onboard_time": 1711786938,
       "rank": 25,
       "category": "剧集"
     },
@@ -987,20 +1011,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 206037,
+      "num": 206037,
+      "word": "王曼昱3比1田志希",
+      "onboard_time": 1711787177,
+      "rank": 26,
+      "category": "体育"
+    },
+    {
       "raw_hot": 205735,
       "num": 200432,
       "word": "盒子里的猫",
       "onboard_time": 1711778777,
       "rank": 34,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 203588,
-      "num": 203588,
-      "word": "殡葬用品店否认南通烧纸普遍2层楼高",
-      "onboard_time": 1711785797,
-      "rank": 27,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 202657,
@@ -1177,6 +1201,14 @@
       "onboard_time": 1711765877,
       "rank": 44,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 181736,
+      "num": 205162,
+      "word": "被福建的中式美学惊艳到了",
+      "onboard_time": 1711787177,
+      "rank": 27,
+      "category": "旅游"
     },
     {
       "raw_hot": 180349,
@@ -1467,6 +1499,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 144791,
+      "num": 144791,
+      "word": "赵小童重庆",
+      "onboard_time": 1711786638,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 144519,
       "num": 144519,
       "word": "冗余",
@@ -1593,14 +1633,6 @@
       "onboard_time": 1711762278,
       "rank": 37,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 130072,
-      "num": 130072,
-      "word": "赵小童重庆",
-      "onboard_time": 1711786638,
-      "rank": 44,
-      "category": "艺人"
     },
     {
       "raw_hot": 128224,
@@ -1816,6 +1848,14 @@
       "word": "身体出现这些变化警惕抑郁症",
       "onboard_time": 1711767196,
       "rank": 41,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 106744,
+      "num": 106744,
+      "word": "百日咳再现",
+      "onboard_time": 1711787598,
+      "rank": 49,
       "category": "健康医疗"
     },
     {
@@ -2107,6 +2147,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 26633,
+      "num": 304959,
+      "word": "如果云南花开是一场运动会",
+      "onboard_time": 1711787119,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 25116,
       "num": 29356,
       "word": "执笔直播",
@@ -2164,6 +2212,9 @@
     },
     {
       "word": "#中共中央政治局召开会议#"
+    },
+    {
+      "word": "#确保粮食等重要农产品稳定安全供给#"
     }
   ]
 }

@@ -1,0 +1,410 @@
+{
+  "runTime": 1711787641984,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1190130,
+        "num": 1190130,
+        "word": "雷军能不能生产一下相机",
+        "onboard_time": 1711778538,
+        "rank": 0,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 1136604,
+        "num": 1136604,
+        "word": "小米汽车遭遇上百余名消费者投诉",
+        "onboard_time": 1711782857,
+        "rank": 1,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 10399,
+        "num": 897804,
+        "word": "2024中国网络媒体论坛",
+        "onboard_time": 1711628721,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 833141,
+        "num": 833141,
+        "word": "将门毒后女主原型",
+        "onboard_time": 1711784958,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 609219,
+        "num": 609219,
+        "word": "百日咳今年已致13人死亡",
+        "onboard_time": 1711774157,
+        "rank": 4,
+        "category": "社会新闻,健康医疗"
+      },
+      {
+        "raw_hot": 502475,
+        "num": 502475,
+        "word": "杨采薇入狱",
+        "onboard_time": 1711773797,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 421790,
+        "num": 421790,
+        "word": "段奥娟风格 刘浩存",
+        "onboard_time": 1711773257,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 407075,
+        "num": 407075,
+        "word": "文韬 补拍",
+        "onboard_time": 1711786217,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 347184,
+        "num": 347184,
+        "word": "房地产 小米之家",
+        "onboard_time": 1711785197,
+        "rank": 8,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 302645,
+        "num": 333318,
+        "word": "王曼昱vs田志希",
+        "onboard_time": 1711784657,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 347506,
+        "num": 331546,
+        "word": "医院取精室里都有些什么",
+        "onboard_time": 1711786998,
+        "rank": 10,
+        "category": "健康医疗,科学科普"
+      },
+      {
+        "raw_hot": 328278,
+        "num": 328278,
+        "word": "全员加速中 控分",
+        "onboard_time": 1711785917,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 26633,
+        "num": 304959,
+        "word": "如果云南花开是一场运动会",
+        "onboard_time": 1711787119,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 290449,
+        "num": 290449,
+        "word": "花间令女性群像没有郑合惠子",
+        "onboard_time": 1711786519,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 282382,
+        "num": 282382,
+        "word": "宫崎骏 感受到AI对生命的侮辱",
+        "onboard_time": 1711777518,
+        "rank": 14,
+        "category": "动漫,艺人"
+      },
+      {
+        "raw_hot": 276158,
+        "num": 276158,
+        "word": "代号鸢",
+        "onboard_time": 1711785137,
+        "rank": 15,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 273067,
+        "num": 273067,
+        "word": "孙颖莎3比2早田希娜",
+        "onboard_time": 1711783876,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 269807,
+        "num": 269807,
+        "word": "能不能禁止小说人名平民化",
+        "onboard_time": 1711778899,
+        "rank": 17,
+        "category": "读书作家,幽默"
+      },
+      {
+        "raw_hot": 267118,
+        "num": 267118,
+        "word": "12星座4月运势",
+        "onboard_time": 1711780819,
+        "rank": 18,
+        "category": "情感,网红"
+      },
+      {
+        "raw_hot": 244966,
+        "num": 264815,
+        "word": "殡葬用品店否认南通烧纸普遍2层楼高",
+        "onboard_time": 1711785797,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 264228,
+        "num": 264228,
+        "word": "林依轮妻子近照",
+        "onboard_time": 1711786698,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 252824,
+        "num": 252824,
+        "word": "卵巢癌的预警信号可能被你忽视了",
+        "onboard_time": 1711782196,
+        "rank": 21,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 249916,
+        "num": 249916,
+        "word": "郝蕾怼难哄制片人",
+        "onboard_time": 1711778658,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 228852,
+        "num": 228852,
+        "word": "奔跑吧全员录制大声公",
+        "onboard_time": 1711777218,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 216875,
+        "num": 216875,
+        "word": "偷点外卖就不要写真实姓名了",
+        "onboard_time": 1711770197,
+        "rank": 24,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 211433,
+        "num": 211433,
+        "word": "王一博魏若来锄奸花絮",
+        "onboard_time": 1711786938,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 206037,
+        "num": 206037,
+        "word": "王曼昱3比1田志希",
+        "onboard_time": 1711787177,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 181736,
+        "num": 205162,
+        "word": "被福建的中式美学惊艳到了",
+        "onboard_time": 1711787177,
+        "rank": 27,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 174289,
+        "num": 204892,
+        "word": "杭州东站",
+        "onboard_time": 1711770977,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 113146,
+        "num": 204876,
+        "word": "花1400万为农民喝好水却成闹心工程",
+        "onboard_time": 1711777097,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 204867,
+        "num": 204867,
+        "word": "35岁是男性生育力拐点",
+        "onboard_time": 1711754475,
+        "rank": 30,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 188148,
+        "num": 188148,
+        "word": "SEVENTEEN十三人完整体",
+        "onboard_time": 1711782137,
+        "rank": 31,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 186991,
+        "num": 186991,
+        "word": "RNGM零封XYG",
+        "onboard_time": 1711786339,
+        "rank": 32,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 186163,
+        "num": 186163,
+        "word": "谁给李灿剪的头",
+        "onboard_time": 1711781537,
+        "rank": 33,
+        "category": "演出,时尚"
+      },
+      {
+        "raw_hot": 172430,
+        "num": 172430,
+        "word": "代号鸢尺度",
+        "onboard_time": 1711763360,
+        "rank": 34,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 172176,
+        "num": 172176,
+        "word": "Uzi也在练",
+        "onboard_time": 1711785317,
+        "rank": 35,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 161188,
+        "num": 161188,
+        "word": "孙颖莎四两拨千斤",
+        "onboard_time": 1711784538,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 159994,
+        "num": 159994,
+        "word": "范湉湉瘦了",
+        "onboard_time": 1711779618,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 158720,
+        "num": 158720,
+        "word": "实习生转正后拒绝了提薪",
+        "onboard_time": 1711780036,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 158268,
+        "num": 158268,
+        "word": "代号鸢离国服越来越远了",
+        "onboard_time": 1711771156,
+        "rank": 39,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 157059,
+        "num": 157059,
+        "word": "蓝盈莹回碎玉轩了",
+        "onboard_time": 1711774638,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 144791,
+        "num": 144791,
+        "word": "赵小童重庆",
+        "onboard_time": 1711786638,
+        "rank": 41,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 131011,
+        "num": 131011,
+        "word": "网曝女子未出月子抱着孩子离婚",
+        "onboard_time": 1711759038,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 130982,
+        "num": 130982,
+        "word": "迪丽热巴聂九罗艺术家穿搭",
+        "onboard_time": 1711781778,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 128082,
+        "num": 128082,
+        "word": "在天水偶遇张大大做服务员",
+        "onboard_time": 1711784958,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 125869,
+        "num": 125869,
+        "word": "事业编",
+        "onboard_time": 1711773198,
+        "rank": 45,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 125059,
+        "num": 125059,
+        "word": "明星用假人直播带货要担责吗",
+        "onboard_time": 1711775778,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 124297,
+        "num": 124297,
+        "word": "现实中的狸猫换太子",
+        "onboard_time": 1711782857,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 118023,
+        "num": 118023,
+        "word": "泰妍和惠利是怎样成为挚友的",
+        "onboard_time": 1711782438,
+        "rank": 48,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 106744,
+        "num": 106744,
+        "word": "百日咳再现",
+        "onboard_time": 1711787598,
+        "rank": 49,
+        "category": "健康医疗"
+      }
+    ],
+    "hotgov": {
+      "word": "#确保粮食等重要农产品稳定安全供给#"
+    }
+  }
+}
