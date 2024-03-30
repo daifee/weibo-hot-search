@@ -1,6 +1,6 @@
 {
   "startTime": 1711210803824,
-  "endTime": 1711793868701,
+  "endTime": 1711794830333,
   "band_list": [
     {
       "raw_hot": 21250232,
@@ -129,6 +129,14 @@
       "onboard_time": 1711673959,
       "rank": 0,
       "category": "体育,艺人"
+    },
+    {
+      "raw_hot": 2578317,
+      "num": 2578317,
+      "word": "雷军回复张颂文",
+      "onboard_time": 1711791918,
+      "rank": 0,
+      "category": "艺人,互联网"
     },
     {
       "raw_hot": 2546242,
@@ -281,14 +289,6 @@
       "onboard_time": 1711712237,
       "rank": 0,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 2033609,
-      "num": 2033609,
-      "word": "雷军回复张颂文",
-      "onboard_time": 1711791918,
-      "rank": 0,
-      "category": "艺人,互联网"
     },
     {
       "raw_hot": 2028560,
@@ -2425,6 +2425,14 @@
       "onboard_time": 1711328360,
       "rank": 26,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 711719,
+      "num": 711719,
+      "word": "金价再度爆发",
+      "onboard_time": 1711792458,
+      "rank": 15,
+      "category": "财经"
     },
     {
       "raw_hot": 710503,
@@ -6283,14 +6291,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 354118,
-      "num": 354118,
-      "word": "金价再度爆发",
-      "onboard_time": 1711792458,
-      "rank": 15,
-      "category": "财经"
-    },
-    {
       "raw_hot": 353896,
       "num": 353896,
       "word": "陶昕然晒孙俪开机照",
@@ -7171,6 +7171,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 303404,
+      "num": 303404,
+      "word": "泽连斯基对和谈松口",
+      "onboard_time": 1711793598,
+      "rank": 35,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 303265,
       "num": 303265,
       "word": "going seventeen",
@@ -7905,6 +7913,14 @@
       "onboard_time": 1711591998,
       "rank": 24,
       "category": "财经"
+    },
+    {
+      "raw_hot": 277877,
+      "num": 277877,
+      "word": "李知勋金长发",
+      "onboard_time": 1711793537,
+      "rank": 28,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 277549,
@@ -8753,6 +8769,14 @@
       "onboard_time": 1711209920,
       "rank": 29,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 248379,
+      "num": 561146,
+      "word": "非师范专业男生跟初中班主任实习",
+      "onboard_time": 1711789759,
+      "rank": 32,
+      "category": "教育"
     },
     {
       "raw_hot": 248328,
@@ -10099,14 +10123,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 218151,
-      "num": 470178,
-      "word": "非师范专业男生跟初中班主任实习",
-      "onboard_time": 1711789759,
-      "rank": 32,
-      "category": "教育"
-    },
-    {
       "raw_hot": 218016,
       "num": 218016,
       "word": "发工资后不同年龄段的消费观",
@@ -11387,6 +11403,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 198001,
+      "num": 198001,
+      "word": "刘宇宁辟谣接触将门毒后",
+      "onboard_time": 1711794258,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 197992,
       "num": 197992,
       "word": "哈哈哈哈哈",
@@ -11681,6 +11705,14 @@
       "onboard_time": 1711273877,
       "rank": 7,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 194172,
+      "num": 194172,
+      "word": "ACT复活赛",
+      "onboard_time": 1711792938,
+      "rank": 44,
+      "category": "电竞"
     },
     {
       "raw_hot": 194120,
@@ -12033,6 +12065,14 @@
       "onboard_time": 1711361418,
       "rank": 43,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 190820,
+      "num": 190820,
+      "word": "霸哥开团Baolan",
+      "onboard_time": 1711794018,
+      "rank": 27,
+      "category": "电竞"
     },
     {
       "raw_hot": 190726,
@@ -12681,6 +12721,14 @@
       "onboard_time": 1711448119,
       "rank": 48,
       "category": "教育"
+    },
+    {
+      "raw_hot": 182644,
+      "num": 182644,
+      "word": "AG对战LGD",
+      "onboard_time": 1711791620,
+      "rank": 32,
+      "category": "电竞"
     },
     {
       "raw_hot": 182596,
@@ -13339,6 +13387,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 172669,
+      "num": 172669,
+      "word": "超2000名股民获赔3.29亿元",
+      "onboard_time": 1711793356,
+      "rank": 27,
+      "category": "财经"
+    },
+    {
       "raw_hot": 172658,
       "num": 172658,
       "word": "湖人五连胜",
@@ -13441,14 +13497,6 @@
       "onboard_time": 1711204102,
       "rank": 41,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 170818,
-      "num": 170818,
-      "word": "超2000名股民获赔3.29亿元",
-      "onboard_time": 1711793356,
-      "rank": 27,
-      "category": "财经"
     },
     {
       "raw_hot": 170809,
@@ -13715,6 +13763,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 167326,
+      "num": 167326,
+      "word": "AG的控制链",
+      "onboard_time": 1711791979,
+      "rank": 36,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 167166,
       "num": 167166,
       "word": "给P人一点J人的旅游震撼",
@@ -13737,14 +13793,6 @@
       "onboard_time": 1711535058,
       "rank": 32,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 167000,
-      "num": 167000,
-      "word": "李知勋金长发",
-      "onboard_time": 1711793537,
-      "rank": 28,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 166665,
@@ -16219,14 +16267,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 138527,
-      "num": 138527,
-      "word": "AG对战LGD",
-      "onboard_time": 1711791620,
-      "rank": 32,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 138234,
       "num": 138234,
       "word": "尔滨上新草莓烤冷面",
@@ -16427,14 +16467,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 135735,
-      "num": 135735,
-      "word": "泽连斯基对和谈松口",
-      "onboard_time": 1711793598,
-      "rank": 35,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 135636,
       "num": 135636,
       "word": "老子教你人生大智慧",
@@ -16489,14 +16521,6 @@
       "onboard_time": 1711451418,
       "rank": 42,
       "category": "数码"
-    },
-    {
-      "raw_hot": 134772,
-      "num": 134772,
-      "word": "AG的控制链",
-      "onboard_time": 1711791979,
-      "rank": 36,
-      "category": "电竞"
     },
     {
       "raw_hot": 134757,
@@ -16843,6 +16867,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 129178,
+      "num": 129178,
+      "word": "雷军成网友新一代许愿池",
+      "onboard_time": 1711794378,
+      "rank": 37,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 128967,
       "num": 128967,
       "word": "猫猫每天都在跟你行大礼",
@@ -17097,6 +17129,14 @@
       "onboard_time": 1711618397,
       "rank": 43,
       "category": "情感"
+    },
+    {
+      "raw_hot": 126537,
+      "num": 564542,
+      "word": "这位00后老板的处事方式简单却细腻",
+      "onboard_time": 1711792217,
+      "rank": 8,
+      "category": "幽默"
     },
     {
       "raw_hot": 126396,
@@ -17867,14 +17907,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 115490,
-      "num": 115490,
-      "word": "ACT复活赛",
-      "onboard_time": 1711792938,
-      "rank": 44,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 115285,
       "num": 115285,
       "word": "王星越吴磊 暴雪时分有续集",
@@ -18339,6 +18371,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 105759,
+      "num": 105759,
+      "word": "QQ音乐巅峰盛典",
+      "onboard_time": 1711794799,
+      "rank": 45,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 105313,
       "num": 140307,
       "word": "浙大学霸20门课程满绩还整理151份笔记共享",
@@ -18353,14 +18393,6 @@
       "onboard_time": 1711725678,
       "rank": 47,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 104954,
-      "num": 513143,
-      "word": "这位00后老板的处事方式简单却细腻",
-      "onboard_time": 1711792217,
-      "rank": 8,
-      "category": "幽默"
     },
     {
       "raw_hot": 104590,
@@ -18401,6 +18433,14 @@
       "onboard_time": 1711434858,
       "rank": 46,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 103080,
+      "num": 103080,
+      "word": "当她们主动选择改母姓",
+      "onboard_time": 1711794739,
+      "rank": 46,
+      "category": "情感"
     },
     {
       "raw_hot": 102734,
@@ -19315,6 +19355,14 @@
       "category": "综艺,体育"
     },
     {
+      "raw_hot": 47990,
+      "num": 261219,
+      "word": "肖战的舒适日常",
+      "onboard_time": 1711792278,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 47988,
       "num": 47988,
       "word": "北师大陈志新老师粉丝已超90万",
@@ -19545,14 +19593,6 @@
       "onboard_time": 1711648453,
       "rank": 40,
       "category": "情感"
-    },
-    {
-      "raw_hot": 36523,
-      "num": 261219,
-      "word": "肖战的舒适日常",
-      "onboard_time": 1711792278,
-      "rank": 20,
-      "category": "艺人"
     },
     {
       "raw_hot": 36159,
@@ -19803,6 +19843,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 25418,
+      "num": 365413,
+      "word": "蛋仔派对赞萌露比联动",
+      "onboard_time": 1711792818,
+      "rank": 14,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 25275,
       "num": 180692,
       "word": "新款AirMax国内首发测评",
@@ -19929,14 +19977,6 @@
       "onboard_time": 1711312270,
       "rank": 49,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 19206,
-      "num": 365413,
-      "word": "蛋仔派对赞萌露比联动",
-      "onboard_time": 1711792818,
-      "rank": 14,
-      "category": "游戏"
     },
     {
       "raw_hot": 18051,
