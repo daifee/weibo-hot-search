@@ -1,0 +1,410 @@
+{
+  "runTime": 1711773262778,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1598351,
+        "num": 1598351,
+        "word": "偷点外卖就不要写真实姓名了",
+        "onboard_time": 1711770197,
+        "rank": 0,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 1094128,
+        "num": 1094128,
+        "word": "杭州东站",
+        "onboard_time": 1711770977,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 7017,
+        "num": 1043523,
+        "word": "2024中国网络媒体论坛",
+        "onboard_time": 1711628721,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1003354,
+        "num": 1003354,
+        "word": "事业单位联考",
+        "onboard_time": 1711772479,
+        "rank": 3,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 817306,
+        "num": 817306,
+        "word": "网曝女子未出月子抱着孩子离婚",
+        "onboard_time": 1711759038,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 732288,
+        "num": 732288,
+        "word": "中国军队将赴俄罗斯参赛",
+        "onboard_time": 1711768638,
+        "rank": 5,
+        "category": "国内时政,军事"
+      },
+      {
+        "raw_hot": 577131,
+        "num": 577131,
+        "word": "35岁是男性生育力拐点",
+        "onboard_time": 1711754475,
+        "rank": 6,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 565037,
+        "num": 565037,
+        "word": "北大毕业女生摆摊卖手串月入5万",
+        "onboard_time": 1711762278,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 443488,
+        "num": 443488,
+        "word": "代号鸢离国服越来越远了",
+        "onboard_time": 1711771156,
+        "rank": 8,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 437751,
+        "num": 437751,
+        "word": "阿富汗将恢复对通奸妇女石刑鞭刑",
+        "onboard_time": 1711759938,
+        "rank": 9,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 856698,
+        "num": 425557,
+        "word": "代号鸢尺度",
+        "onboard_time": 1711763360,
+        "rank": 10,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 404791,
+        "num": 404791,
+        "word": "何超莲宋轶手挽手",
+        "onboard_time": 1711767857,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 380518,
+        "num": 380518,
+        "word": "你好星期六全员分享理想型",
+        "onboard_time": 1711764919,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 90418,
+        "num": 377825,
+        "word": "智界S7开启大规模交付",
+        "onboard_time": 1711771337,
+        "rank": 13,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 23243,
+        "num": 376821,
+        "word": "蛋仔肯爷爷联动第二弹",
+        "onboard_time": 1711771997,
+        "rank": 14,
+        "category": "游戏,美食"
+      },
+      {
+        "raw_hot": 376660,
+        "num": 376660,
+        "word": "李一桐 结婚结不过来咯",
+        "onboard_time": 1711753333,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 343117,
+        "num": 343117,
+        "word": "蒲熠星 抢票",
+        "onboard_time": 1711772777,
+        "rank": 16,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 328285,
+        "num": 328285,
+        "word": "梁靖崑绝境大逆转",
+        "onboard_time": 1711770737,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 323687,
+        "num": 323687,
+        "word": "迪丽热巴三月末对镜拍",
+        "onboard_time": 1711770618,
+        "rank": 18,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 285641,
+        "num": 285641,
+        "word": "肖战家居服的松弛感",
+        "onboard_time": 1711769596,
+        "rank": 19,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 295986,
+        "num": 285540,
+        "word": "陈靖可孙千怎么亲上了",
+        "onboard_time": 1711771096,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 283664,
+        "num": 283664,
+        "word": "女生带回一件染血校服学校补发一套",
+        "onboard_time": 1711753393,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 241365,
+        "num": 241365,
+        "word": "粉色哥斯拉",
+        "onboard_time": 1711724778,
+        "rank": 22,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 240735,
+        "num": 240735,
+        "word": "盒子里的猫开播",
+        "onboard_time": 1711767737,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 225475,
+        "num": 225475,
+        "word": "小米汽车销售称凌晨2点下班7点又上班",
+        "onboard_time": 1711759038,
+        "rank": 24,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 225255,
+        "num": 225255,
+        "word": "萧敬腾叫林有慧爱宝",
+        "onboard_time": 1711771638,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 215828,
+        "num": 215828,
+        "word": "疯狂的代购正在毁掉胖东来",
+        "onboard_time": 1711764858,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 208199,
+        "num": 208199,
+        "word": "为什么体制内的人都偏爱喝茶",
+        "onboard_time": 1711759158,
+        "rank": 27,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 205767,
+        "num": 205767,
+        "word": "杭州东站一男子闯入动车轨道奔跑",
+        "onboard_time": 1711772897,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 117030,
+        "num": 196898,
+        "word": "厦门一民房发生火灾致4人死亡",
+        "onboard_time": 1711766177,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 192330,
+        "num": 192330,
+        "word": "长期不防晒皮肤会发生哪些变化",
+        "onboard_time": 1711772058,
+        "rank": 30,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 175405,
+        "num": 175405,
+        "word": "孔雪儿回应了",
+        "onboard_time": 1711756457,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 172913,
+        "num": 172913,
+        "word": "奔跑吧",
+        "onboard_time": 1711772957,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 168977,
+        "num": 168977,
+        "word": "全国大学生的统一穿搭",
+        "onboard_time": 1711772537,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 167123,
+        "num": 167123,
+        "word": "以闪亮之名山海序章",
+        "onboard_time": 1711772177,
+        "rank": 34,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 163265,
+        "num": 163265,
+        "word": "火箭11连胜",
+        "onboard_time": 1711773077,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 162619,
+        "num": 162619,
+        "word": "官方通报房东拿探照灯验房索赔",
+        "onboard_time": 1711764737,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 158706,
+        "num": 158706,
+        "word": "小米汽车回应",
+        "onboard_time": 1711722739,
+        "rank": 37,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 156995,
+        "num": 156995,
+        "word": "花钱洗牙是智商税吗",
+        "onboard_time": 1711770618,
+        "rank": 38,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 155297,
+        "num": 155297,
+        "word": "二线城市月入过万一天只花29算什么水平",
+        "onboard_time": 1711763059,
+        "rank": 39,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 154963,
+        "num": 154963,
+        "word": "李沁王阳喊话王一博破万三人跳舞",
+        "onboard_time": 1711767437,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 142882,
+        "num": 142882,
+        "word": "王艺迪3比0波尔卡诺娃",
+        "onboard_time": 1711772897,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 139209,
+        "num": 139209,
+        "word": "黄晓明报平安",
+        "onboard_time": 1711755375,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 121815,
+        "num": 121815,
+        "word": "秦闲 孙策夜猎",
+        "onboard_time": 1711769837,
+        "rank": 43,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 121272,
+        "num": 121272,
+        "word": "山东专升本",
+        "onboard_time": 1711770017,
+        "rank": 44,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 117713,
+        "num": 117713,
+        "word": "秦岚曾给陈楚生苏醒魏晨张杰当过嘉宾",
+        "onboard_time": 1711762578,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 116784,
+        "num": 116784,
+        "word": "最想和喜欢的人做的一件事是什么",
+        "onboard_time": 1711766657,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 115325,
+        "num": 115325,
+        "word": "事业编",
+        "onboard_time": 1711773198,
+        "rank": 47,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 113502,
+        "num": 113502,
+        "word": "忽冷忽热的人可能是病了",
+        "onboard_time": 1711765877,
+        "rank": 48,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 112418,
+        "num": 112418,
+        "word": "陈震测评",
+        "onboard_time": 1711766717,
+        "rank": 49,
+        "category": "汽车"
+      }
+    ],
+    "hotgov": {
+      "word": "#中共中央政治局3月29日召开会议#"
+    }
+  }
+}
