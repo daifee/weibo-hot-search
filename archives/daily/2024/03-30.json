@@ -1,6 +1,6 @@
 {
   "startTime": 1711729335311,
-  "endTime": 1711808065905,
+  "endTime": 1711809278527,
   "band_list": [
     {
       "raw_hot": 2578317,
@@ -59,6 +59,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1508990,
+      "num": 1508990,
+      "word": "小米代言人",
+      "onboard_time": 1711804700,
+      "rank": 46,
+      "category": "数码,艺人"
+    },
+    {
       "raw_hot": 1493483,
       "num": 1493483,
       "word": "网曝女子未出月子抱着孩子离婚",
@@ -73,14 +81,6 @@
       "onboard_time": 1711774157,
       "rank": 10,
       "category": "社会新闻,健康医疗"
-    },
-    {
-      "raw_hot": 1479883,
-      "num": 1479883,
-      "word": "小米代言人",
-      "onboard_time": 1711804700,
-      "rank": 46,
-      "category": "数码,艺人"
     },
     {
       "raw_hot": 1455092,
@@ -164,7 +164,7 @@
     },
     {
       "raw_hot": 1122518,
-      "num": 275793,
+      "num": 282631,
       "word": "张颂文称喜欢橄榄绿SU7",
       "onboard_time": 1711803559,
       "rank": 25,
@@ -265,6 +265,14 @@
       "onboard_time": 1711780457,
       "rank": 4,
       "category": "体育"
+    },
+    {
+      "raw_hot": 803451,
+      "num": 321737,
+      "word": "长期睡前玩手机或要承担5个后果",
+      "onboard_time": 1711805359,
+      "rank": 43,
+      "category": "健康医疗,科学科普"
     },
     {
       "raw_hot": 795986,
@@ -483,14 +491,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 600617,
-      "num": 294307,
-      "word": "长期睡前玩手机或要承担5个后果",
-      "onboard_time": 1711805359,
-      "rank": 43,
-      "category": "健康医疗,科学科普"
-    },
-    {
       "raw_hot": 578602,
       "num": 578602,
       "word": "孔雪儿回应了",
@@ -547,6 +547,14 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 527559,
+      "num": 505487,
+      "word": "眼泪女王直播",
+      "onboard_time": 1711805779,
+      "rank": 13,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 521274,
       "num": 197010,
       "word": "阴道侧切的缝合",
@@ -595,12 +603,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 505487,
-      "num": 505487,
-      "word": "眼泪女王直播",
-      "onboard_time": 1711805779,
-      "rank": 13,
-      "category": "剧集"
+      "raw_hot": 494992,
+      "num": 457108,
+      "word": "你好星期六预告",
+      "onboard_time": 1711805539,
+      "rank": 24,
+      "category": "综艺"
     },
     {
       "raw_hot": 481255,
@@ -617,6 +625,14 @@
       "onboard_time": 1711778358,
       "rank": 8,
       "category": "体育"
+    },
+    {
+      "raw_hot": 473516,
+      "num": 374718,
+      "word": "1800名肺癌患者赠药突然中止",
+      "onboard_time": 1711807700,
+      "rank": 37,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 472319,
@@ -681,14 +697,6 @@
       "onboard_time": 1711784657,
       "rank": 7,
       "category": "体育"
-    },
-    {
-      "raw_hot": 457108,
-      "num": 457108,
-      "word": "你好星期六预告",
-      "onboard_time": 1711805539,
-      "rank": 24,
-      "category": "综艺"
     },
     {
       "raw_hot": 450744,
@@ -761,6 +769,14 @@
       "onboard_time": 1711773857,
       "rank": 20,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 421510,
+      "num": 317166,
+      "word": "长期喝奶茶可能会导致抑郁焦虑",
+      "onboard_time": 1711806922,
+      "rank": 26,
+      "category": "科学科普,健康医疗"
     },
     {
       "raw_hot": 410718,
@@ -841,6 +857,14 @@
       "onboard_time": 1711798878,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 381867,
+      "num": 308171,
+      "word": "眼泪女王",
+      "onboard_time": 1711761258,
+      "rank": 23,
+      "category": "剧集"
     },
     {
       "raw_hot": 377041,
@@ -939,6 +963,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 335052,
+      "num": 299034,
+      "word": "赵丽颖翻牌评论",
+      "onboard_time": 1711807280,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 333777,
       "num": 333777,
       "word": "SEVENTEEN十三人完整体",
@@ -969,6 +1001,14 @@
       "onboard_time": 1711803921,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 329102,
+      "num": 329102,
+      "word": "王曼昱4比2陈梦",
+      "onboard_time": 1711808540,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 328278,
@@ -1219,28 +1259,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 280598,
-      "num": 280598,
-      "word": "长期喝奶茶可能会导致抑郁焦虑",
-      "onboard_time": 1711806922,
-      "rank": 26,
-      "category": "科学科普,健康医疗"
-    },
-    {
       "raw_hot": 280157,
       "num": 280157,
       "word": "10万卖旧车到家才发现印着魔法银行",
       "onboard_time": 1711789459,
       "rank": 27,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 274475,
-      "num": 274475,
-      "word": "赵丽颖翻牌评论",
-      "onboard_time": 1711807280,
-      "rank": 31,
-      "category": "艺人"
     },
     {
       "raw_hot": 271718,
@@ -1260,7 +1284,7 @@
     },
     {
       "raw_hot": 267655,
-      "num": 280026,
+      "num": 297449,
       "word": "上海一餐厅被樱花给的泼天富贵砸晕了",
       "onboard_time": 1711804520,
       "rank": 49,
@@ -1361,14 +1385,6 @@
       "onboard_time": 1711756397,
       "rank": 19,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 249323,
-      "num": 212698,
-      "word": "眼泪女王",
-      "onboard_time": 1711761258,
-      "rank": 23,
-      "category": "剧集"
     },
     {
       "raw_hot": 248328,
@@ -1620,7 +1636,7 @@
     },
     {
       "raw_hot": 205684,
-      "num": 157281,
+      "num": 171873,
       "word": "张栋梁演变态",
       "onboard_time": 1711807100,
       "rank": 42,
@@ -1644,7 +1660,7 @@
     },
     {
       "raw_hot": 200971,
-      "num": 156412,
+      "num": 171882,
       "word": "李耕耘新歌首唱",
       "onboard_time": 1711807700,
       "rank": 44,
@@ -1809,14 +1825,6 @@
       "onboard_time": 1711772058,
       "rank": 41,
       "category": "美妆"
-    },
-    {
-      "raw_hot": 191860,
-      "num": 191860,
-      "word": "1800名肺癌患者赠药突然中止",
-      "onboard_time": 1711807700,
-      "rank": 37,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 190820,
@@ -2003,6 +2011,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 175854,
+      "num": 175854,
+      "word": "王曼昱陈梦超级球",
+      "onboard_time": 1711808299,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 175596,
       "num": 175596,
       "word": "老中医时隔30年收到亡父药方",
@@ -2057,6 +2073,14 @@
       "onboard_time": 1711783217,
       "rank": 34,
       "category": "演出"
+    },
+    {
+      "raw_hot": 171927,
+      "num": 171927,
+      "word": "代号鸢下载",
+      "onboard_time": 1711808060,
+      "rank": 39,
+      "category": "游戏"
     },
     {
       "raw_hot": 168977,
@@ -2971,6 +2995,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 83164,
+      "num": 1423565,
+      "word": "万千气象看云南",
+      "onboard_time": 1711807280,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 82263,
       "num": 82263,
       "word": "吴艳妮全国室内田径锦标赛冠军",
@@ -3009,14 +3041,6 @@
       "onboard_time": 1711731855,
       "rank": 35,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 68886,
-      "num": 1423565,
-      "word": "万千气象看云南",
-      "onboard_time": 1711807280,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 67867,
