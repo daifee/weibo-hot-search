@@ -1,6 +1,6 @@
 {
   "startTime": 1711210803824,
-  "endTime": 1711809278527,
+  "endTime": 1711811880903,
   "band_list": [
     {
       "raw_hot": 21250232,
@@ -705,6 +705,14 @@
       "onboard_time": 1711368738,
       "rank": 5,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 1447681,
+      "num": 1447681,
+      "word": "一个富二代留学生被家里断供一年后",
+      "onboard_time": 1711809441,
+      "rank": 0,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1445197,
@@ -1891,6 +1899,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 836348,
+      "num": 836348,
+      "word": "孙千是陈靖可的理想型",
+      "onboard_time": 1711809559,
+      "rank": 5,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 835458,
       "num": 835458,
       "word": "山姆同款鸡腿南京卖74元上海卖29元",
@@ -2953,6 +2969,14 @@
       "onboard_time": 1711548858,
       "rank": 37,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 657913,
+      "num": 374718,
+      "word": "1800名肺癌患者赠药突然中止",
+      "onboard_time": 1711807700,
+      "rank": 37,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 656372,
@@ -4753,14 +4777,6 @@
       "onboard_time": 1711714819,
       "rank": 10,
       "category": "体育"
-    },
-    {
-      "raw_hot": 473516,
-      "num": 374718,
-      "word": "1800名肺癌患者赠药突然中止",
-      "onboard_time": 1711807700,
-      "rank": 37,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 473456,
@@ -8307,6 +8323,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 277720,
+      "num": 277720,
+      "word": "王曼昱孙颖莎女单争冠",
+      "onboard_time": 1711809620,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
       "raw_hot": 277549,
       "num": 207321,
       "word": "有的树一出生就是陈皮",
@@ -8849,6 +8873,14 @@
       "onboard_time": 1711798697,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 256884,
+      "num": 256884,
+      "word": "内娱天选理想型",
+      "onboard_time": 1711810879,
+      "rank": 22,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 256839,
@@ -10881,6 +10913,14 @@
       "onboard_time": 1711271598,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 211055,
+      "num": 243417,
+      "word": "武磊说孙兴慜进球后不该挑衅球迷",
+      "onboard_time": 1711810038,
+      "rank": 26,
+      "category": "体育"
     },
     {
       "raw_hot": 210456,
@@ -13435,6 +13475,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 180161,
+      "num": 180161,
+      "word": "尔冬升说张栋梁是天生的变态",
+      "onboard_time": 1711811779,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 180139,
       "num": 180139,
       "word": "祁煜占有欲",
@@ -13585,6 +13633,14 @@
       "onboard_time": 1711201580,
       "rank": 48,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 177712,
+      "num": 166061,
+      "word": "眼泪女王预告",
+      "onboard_time": 1711297158,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 177619,
@@ -13891,6 +13947,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 173123,
+      "num": 165730,
+      "word": "墨方原来是卧底",
+      "onboard_time": 1711811600,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 173090,
       "num": 173090,
       "word": "赵丽颖晒小凤凰表情",
@@ -13979,6 +14043,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 172376,
+      "num": 172376,
+      "word": "代号鸢下载",
+      "onboard_time": 1711808060,
+      "rank": 39,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 172237,
       "num": 172237,
       "word": "李维嘉喊鹿晗晗晗",
@@ -14009,14 +14081,6 @@
       "onboard_time": 1711783217,
       "rank": 34,
       "category": "演出"
-    },
-    {
-      "raw_hot": 171927,
-      "num": 171927,
-      "word": "代号鸢下载",
-      "onboard_time": 1711808060,
-      "rank": 39,
-      "category": "游戏"
     },
     {
       "raw_hot": 171159,
@@ -14609,6 +14673,14 @@
       "onboard_time": 1711545019,
       "rank": 37,
       "category": "体育"
+    },
+    {
+      "raw_hot": 164222,
+      "num": 164222,
+      "word": "追风者热度",
+      "onboard_time": 1711809559,
+      "rank": 43,
+      "category": "剧集"
     },
     {
       "raw_hot": 164110,
@@ -15563,6 +15635,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 153581,
+      "num": 153581,
+      "word": "名侦探柯南特别篇结尾",
+      "onboard_time": 1711810700,
+      "rank": 44,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 153577,
       "num": 153577,
       "word": "湖人战胜灰熊",
@@ -16275,6 +16355,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 146333,
+      "num": 146333,
+      "word": "沈璃的大我和小我",
+      "onboard_time": 1711811359,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 146220,
       "num": 146220,
       "word": "上证指数跌破3000点关口",
@@ -16521,6 +16609,14 @@
       "onboard_time": 1711632982,
       "rank": 11,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 144090,
+      "num": 144090,
+      "word": "WB战胜狼队",
+      "onboard_time": 1711810159,
+      "rank": 47,
+      "category": "电竞"
     },
     {
       "raw_hot": 143993,
@@ -18912,14 +19008,6 @@
       "word": "猜猜我是谁 行不通的富二代",
       "onboard_time": 1711261998,
       "rank": 49,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 108075,
-      "num": 108075,
-      "word": "眼泪女王预告",
-      "onboard_time": 1711297158,
-      "rank": 47,
       "category": "剧集"
     },
     {

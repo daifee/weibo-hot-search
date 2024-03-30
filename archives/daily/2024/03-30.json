@@ -1,6 +1,6 @@
 {
   "startTime": 1711729335311,
-  "endTime": 1711809278527,
+  "endTime": 1711811880903,
   "band_list": [
     {
       "raw_hot": 2578317,
@@ -89,6 +89,14 @@
       "onboard_time": 1711796597,
       "rank": 1,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1447681,
+      "num": 1447681,
+      "word": "一个富二代留学生被家里断供一年后",
+      "onboard_time": 1711809441,
+      "rank": 0,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1445197,
@@ -267,6 +275,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 836348,
+      "num": 836348,
+      "word": "孙千是陈靖可的理想型",
+      "onboard_time": 1711809559,
+      "rank": 5,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 803451,
       "num": 321737,
       "word": "长期睡前玩手机或要承担5个后果",
@@ -417,6 +433,14 @@
       "onboard_time": 1711803138,
       "rank": 18,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 657913,
+      "num": 374718,
+      "word": "1800名肺癌患者赠药突然中止",
+      "onboard_time": 1711807700,
+      "rank": 37,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 648680,
@@ -625,14 +649,6 @@
       "onboard_time": 1711778358,
       "rank": 8,
       "category": "体育"
-    },
-    {
-      "raw_hot": 473516,
-      "num": 374718,
-      "word": "1800名肺癌患者赠药突然中止",
-      "onboard_time": 1711807700,
-      "rank": 37,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 472319,
@@ -1267,6 +1283,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 277720,
+      "num": 277720,
+      "word": "王曼昱孙颖莎女单争冠",
+      "onboard_time": 1711809620,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
       "raw_hot": 271718,
       "num": 271718,
       "word": "郭昊文",
@@ -1329,6 +1353,14 @@
       "onboard_time": 1711798697,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 256884,
+      "num": 256884,
+      "word": "内娱天选理想型",
+      "onboard_time": 1711810879,
+      "rank": 22,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 256255,
@@ -1569,6 +1601,14 @@
       "onboard_time": 1711786938,
       "rank": 25,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 211055,
+      "num": 243417,
+      "word": "武磊说孙兴慜进球后不该挑衅球迷",
+      "onboard_time": 1711810038,
+      "rank": 26,
+      "category": "体育"
     },
     {
       "raw_hot": 210078,
@@ -1963,6 +2003,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 180161,
+      "num": 180161,
+      "word": "尔冬升说张栋梁是天生的变态",
+      "onboard_time": 1711811779,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 180085,
       "num": 139927,
       "word": "常常头晕小心是卒中信号",
@@ -1993,6 +2041,14 @@
       "onboard_time": 1711780218,
       "rank": 39,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 177712,
+      "num": 166061,
+      "word": "眼泪女王预告",
+      "onboard_time": 1711809500,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 177254,
@@ -2043,6 +2099,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 173123,
+      "num": 165730,
+      "word": "墨方原来是卧底",
+      "onboard_time": 1711811600,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 172799,
       "num": 172799,
       "word": "花钱洗牙是智商税吗",
@@ -2059,6 +2123,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 172376,
+      "num": 172376,
+      "word": "代号鸢下载",
+      "onboard_time": 1711808060,
+      "rank": 39,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 172237,
       "num": 172237,
       "word": "李维嘉喊鹿晗晗晗",
@@ -2073,14 +2145,6 @@
       "onboard_time": 1711783217,
       "rank": 34,
       "category": "演出"
-    },
-    {
-      "raw_hot": 171927,
-      "num": 171927,
-      "word": "代号鸢下载",
-      "onboard_time": 1711808060,
-      "rank": 39,
-      "category": "游戏"
     },
     {
       "raw_hot": 168977,
@@ -2123,12 +2187,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 165095,
+      "num": 165095,
+      "word": "与凤行预告",
+      "onboard_time": 1711811301,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 164250,
       "num": 164250,
       "word": "国航就航班颠簸致歉",
       "onboard_time": 1711790058,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 164222,
+      "num": 164222,
+      "word": "追风者热度",
+      "onboard_time": 1711809559,
+      "rank": 43,
+      "category": "剧集"
     },
     {
       "raw_hot": 163694,
@@ -2259,6 +2339,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 153581,
+      "num": 153581,
+      "word": "名侦探柯南特别篇结尾",
+      "onboard_time": 1711810700,
+      "rank": 44,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 153429,
       "num": 153429,
       "word": "20块和200块的防晒衣有啥区别",
@@ -2363,6 +2451,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 146333,
+      "num": 146333,
+      "word": "沈璃的大我和小我",
+      "onboard_time": 1711811359,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 145971,
       "num": 145971,
       "word": "XYG发文道歉",
@@ -2393,6 +2489,14 @@
       "onboard_time": 1711773497,
       "rank": 41,
       "category": "教育"
+    },
+    {
+      "raw_hot": 144090,
+      "num": 144090,
+      "word": "WB战胜狼队",
+      "onboard_time": 1711810159,
+      "rank": 47,
+      "category": "电竞"
     },
     {
       "raw_hot": 143447,
