@@ -1,6 +1,6 @@
 {
   "startTime": 1711729335311,
-  "endTime": 1711804747613,
+  "endTime": 1711805644136,
   "band_list": [
     {
       "raw_hot": 2578317,
@@ -83,6 +83,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1436423,
+      "num": 1436423,
+      "word": "郝蕾痛批朱梓骁",
+      "onboard_time": 1711803859,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1341818,
       "num": 1341818,
       "word": "35岁是男性生育力拐点",
@@ -116,7 +124,7 @@
     },
     {
       "raw_hot": 1187779,
-      "num": 413924,
+      "num": 422867,
       "word": "疑被虐待致死5岁男童生母曾是幼师",
       "onboard_time": 1711800858,
       "rank": 30,
@@ -323,14 +331,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 710827,
-      "num": 365070,
-      "word": "郝蕾痛批朱梓骁",
-      "onboard_time": 1711803859,
-      "rank": 12,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 694143,
       "num": 694143,
       "word": "二线城市月入过万一天只花29算什么水平",
@@ -435,6 +435,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 598847,
+      "num": 598847,
+      "word": "小米代言人",
+      "onboard_time": 1711804700,
+      "rank": 46,
+      "category": "数码,艺人"
+    },
+    {
       "raw_hot": 578602,
       "num": 578602,
       "word": "孔雪儿回应了",
@@ -531,6 +539,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 481255,
+      "num": 417581,
+      "word": "十个勤天 音乐节",
+      "onboard_time": 1711803498,
+      "rank": 17,
+      "category": "演出"
+    },
+    {
       "raw_hot": 476350,
       "num": 476350,
       "word": "马龙vs林昀儒",
@@ -572,7 +588,7 @@
     },
     {
       "raw_hot": 460479,
-      "num": 359897,
+      "num": 427870,
       "word": "梁靖崑4比3马龙",
       "onboard_time": 1711804159,
       "rank": 15,
@@ -635,6 +651,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 438377,
+      "num": 414936,
+      "word": "孙千陈靖可甜晕了",
+      "onboard_time": 1711803138,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 437984,
       "num": 437984,
       "word": "陈震回应小米SU7测评争议",
@@ -665,6 +689,14 @@
       "onboard_time": 1711773857,
       "rank": 20,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 413557,
+      "num": 413557,
+      "word": "赵奕欢回怼消失的她制片人",
+      "onboard_time": 1711803739,
+      "rank": 20,
+      "category": "综艺"
     },
     {
       "raw_hot": 410718,
@@ -700,7 +732,7 @@
     },
     {
       "raw_hot": 402110,
-      "num": 363131,
+      "num": 387101,
       "word": "与凤行直播",
       "onboard_time": 1711802299,
       "rank": 34,
@@ -739,28 +771,12 @@
       "category": "综艺,艺人"
     },
     {
-      "raw_hot": 389628,
-      "num": 357028,
-      "word": "十个勤天 音乐节",
-      "onboard_time": 1711803498,
-      "rank": 17,
-      "category": "演出"
-    },
-    {
       "raw_hot": 384057,
       "num": 384057,
       "word": "王菲李嫣机场同框",
       "onboard_time": 1711798878,
       "rank": 13,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 379184,
-      "num": 355904,
-      "word": "孙千陈靖可甜晕了",
-      "onboard_time": 1711803138,
-      "rank": 18,
-      "category": "综艺"
     },
     {
       "raw_hot": 377041,
@@ -785,6 +801,14 @@
       "onboard_time": 1711713617,
       "rank": 11,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 363445,
+      "num": 363445,
+      "word": "王曼昱vs陈梦",
+      "onboard_time": 1711803498,
+      "rank": 22,
+      "category": "体育"
     },
     {
       "raw_hot": 361882,
@@ -817,6 +841,14 @@
       "onboard_time": 1711785197,
       "rank": 9,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 346452,
+      "num": 346452,
+      "word": "国乒能守住男单冠军吗",
+      "onboard_time": 1711804038,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 341328,
@@ -859,14 +891,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 333703,
-      "num": 333703,
-      "word": "赵奕欢回怼消失的她制片人",
-      "onboard_time": 1711803739,
-      "rank": 20,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 333132,
       "num": 333132,
       "word": "崔胜澈红发",
@@ -881,6 +905,14 @@
       "onboard_time": 1711798458,
       "rank": 20,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 331121,
+      "num": 331121,
+      "word": "娃娃菜的娃娃亲",
+      "onboard_time": 1711803921,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 328278,
@@ -1123,14 +1155,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 275832,
-      "num": 275832,
-      "word": "王曼昱vs陈梦",
-      "onboard_time": 1711803498,
-      "rank": 22,
-      "category": "体育"
-    },
-    {
       "raw_hot": 271718,
       "num": 271718,
       "word": "郭昊文",
@@ -1227,6 +1251,14 @@
       "category": "汽车,互联网"
     },
     {
+      "raw_hot": 251325,
+      "num": 251325,
+      "word": "你好星期六预告",
+      "onboard_time": 1711805539,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 251177,
       "num": 251177,
       "word": "白鹿直拍",
@@ -1241,14 +1273,6 @@
       "onboard_time": 1711756397,
       "rank": 19,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 248917,
-      "num": 248917,
-      "word": "娃娃菜的娃娃亲",
-      "onboard_time": 1711803921,
-      "rank": 26,
-      "category": "剧集"
     },
     {
       "raw_hot": 248328,
@@ -1267,6 +1291,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 240452,
+      "num": 240452,
+      "word": "沈璃苻生同归于尽",
+      "onboard_time": 1711804938,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 240240,
       "num": 103975,
       "word": "肖战灰色睡衣",
@@ -1281,14 +1313,6 @@
       "onboard_time": 1711778059,
       "rank": 27,
       "category": "情感"
-    },
-    {
-      "raw_hot": 233437,
-      "num": 252845,
-      "word": "国乒能守住男单冠军吗",
-      "onboard_time": 1711804038,
-      "rank": 24,
-      "category": "体育"
     },
     {
       "raw_hot": 233111,
@@ -1715,6 +1739,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 187106,
+      "num": 187106,
+      "word": "上海一餐厅被樱花给的泼天富贵砸晕了",
+      "onboard_time": 1711804520,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 186411,
       "num": 186411,
       "word": "张杰演唱会",
@@ -1780,7 +1812,7 @@
     },
     {
       "raw_hot": 180524,
-      "num": 160182,
+      "num": 168107,
       "word": "TWS香港",
       "onboard_time": 1711804038,
       "rank": 40,
@@ -2075,6 +2107,14 @@
       "category": "科学科普,时尚"
     },
     {
+      "raw_hot": 152513,
+      "num": 152513,
+      "word": "重庆音乐节",
+      "onboard_time": 1711805179,
+      "rank": 41,
+      "category": "演出"
+    },
+    {
       "raw_hot": 152291,
       "num": 152291,
       "word": "短期胃口突然变好要当心这5种疾病",
@@ -2163,12 +2203,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 147691,
-      "num": 147691,
-      "word": "小米代言人",
-      "onboard_time": 1711804700,
-      "rank": 46,
-      "category": "数码,艺人"
+      "raw_hot": 146684,
+      "num": 146684,
+      "word": "长期睡前玩手机或要承担5个后果",
+      "onboard_time": 1711805359,
+      "rank": 43,
+      "category": "健康医疗,科学科普"
     },
     {
       "raw_hot": 145971,
@@ -2305,6 +2345,14 @@
       "onboard_time": 1711776558,
       "rank": 44,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 135118,
+      "num": 135118,
+      "word": "陈楚生脱了",
+      "onboard_time": 1711805599,
+      "rank": 46,
+      "category": "演出"
     },
     {
       "raw_hot": 134760,
@@ -2545,14 +2593,6 @@
       "onboard_time": 1711769297,
       "rank": 40,
       "category": "体育"
-    },
-    {
-      "raw_hot": 118344,
-      "num": 133618,
-      "word": "上海一餐厅被樱花给的泼天富贵砸晕了",
-      "onboard_time": 1711804520,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 117356,
@@ -2820,7 +2860,7 @@
     },
     {
       "raw_hot": 78825,
-      "num": 706799,
+      "num": 722236,
       "word": "如果云南花开是一场运动会",
       "onboard_time": 1711787119,
       "rank": 12,
