@@ -1,6 +1,6 @@
 {
   "startTime": 1709223640991,
-  "endTime": 1711780444468,
+  "endTime": 1711783012470,
   "band_list": [
     {
       "raw_hot": 21250232,
@@ -3001,6 +3001,14 @@
       "onboard_time": 1711759038,
       "rank": 1,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1491210,
+      "num": 1491210,
+      "word": "雷军能不能生产一下相机",
+      "onboard_time": 1711778538,
+      "rank": 13,
+      "category": "数码"
     },
     {
       "raw_hot": 1487774,
@@ -12379,6 +12387,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 685859,
+      "num": 627491,
+      "word": "能不能禁止小说人名平民化",
+      "onboard_time": 1711778899,
+      "rank": 19,
+      "category": "读书作家,幽默"
+    },
+    {
       "raw_hot": 685768,
       "num": 685768,
       "word": "满舒克工作室声明",
@@ -12513,14 +12529,6 @@
       "onboard_time": 1709523451,
       "rank": 12,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 681690,
-      "num": 681690,
-      "word": "雷军能不能生产一下相机",
-      "onboard_time": 1711778538,
-      "rank": 13,
-      "category": "数码"
     },
     {
       "raw_hot": 681283,
@@ -14179,14 +14187,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 627491,
-      "num": 627491,
-      "word": "能不能禁止小说人名平民化",
-      "onboard_time": 1711778899,
-      "rank": 19,
-      "category": "读书作家,幽默"
-    },
-    {
       "raw_hot": 627448,
       "num": 220318,
       "word": "被好朋友删了",
@@ -14441,6 +14441,14 @@
       "onboard_time": 1709380355,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 617927,
+      "num": 617927,
+      "word": "孙颖莎vs早田希娜",
+      "onboard_time": 1711780457,
+      "rank": 4,
+      "category": "体育"
     },
     {
       "raw_hot": 617815,
@@ -16443,6 +16451,14 @@
       "category": "动漫,艺人"
     },
     {
+      "raw_hot": 560508,
+      "num": 560508,
+      "word": "郝蕾怼难哄制片人",
+      "onboard_time": 1711778658,
+      "rank": 7,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 560332,
       "num": 560332,
       "word": "杨幂吴磊同框",
@@ -17931,14 +17947,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 528558,
-      "num": 528558,
-      "word": "郝蕾怼难哄制片人",
-      "onboard_time": 1711778658,
-      "rank": 7,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 528167,
       "num": 336927,
       "word": "星期一已经崩溃一万次了",
@@ -18531,12 +18539,28 @@
       "category": "母婴育儿"
     },
     {
+      "raw_hot": 514623,
+      "num": 514623,
+      "word": "宫崎骏 感受到AI对生命的侮辱",
+      "onboard_time": 1711777518,
+      "rank": 22,
+      "category": "动漫,艺人"
+    },
+    {
       "raw_hot": 514607,
       "num": 514607,
       "word": "东方卫视主持人",
       "onboard_time": 1711634961,
       "rank": 30,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 514600,
+      "num": 514600,
+      "word": "范湉湉瘦了",
+      "onboard_time": 1711779618,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 514180,
@@ -30955,14 +30979,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 312218,
-      "num": 312218,
-      "word": "宫崎骏 感受到AI对生命的侮辱",
-      "onboard_time": 1711777518,
-      "rank": 22,
-      "category": "动漫,艺人"
-    },
-    {
       "raw_hot": 312197,
       "num": 312197,
       "word": "孙艺珍新闻图",
@@ -33779,6 +33795,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 285378,
+      "num": 285378,
+      "word": "SEVENTEEN十三人完整体",
+      "onboard_time": 1711782137,
+      "rank": 16,
+      "category": "演出"
+    },
+    {
       "raw_hot": 285255,
       "num": 216062,
       "word": "午睡有个最佳时长",
@@ -34235,6 +34259,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 279999,
+      "num": 255891,
+      "word": "实习生转正后拒绝了提薪",
+      "onboard_time": 1711780036,
+      "rank": 28,
+      "category": "情感"
+    },
+    {
       "raw_hot": 279949,
       "num": 279949,
       "word": "唐探2荣梓杉一变脸画风对了",
@@ -34433,14 +34465,6 @@
       "onboard_time": 1710316354,
       "rank": 19,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 278314,
-      "num": 278314,
-      "word": "范湉湉瘦了",
-      "onboard_time": 1711779618,
-      "rank": 47,
-      "category": "综艺"
     },
     {
       "raw_hot": 278259,
@@ -35939,6 +35963,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 265074,
+      "num": 265074,
+      "word": "谁给李灿剪的头",
+      "onboard_time": 1711781537,
+      "rank": 17,
+      "category": "演出,时尚"
+    },
+    {
       "raw_hot": 264907,
       "num": 264907,
       "word": "钟楚曦侯雯元聚餐",
@@ -37177,6 +37209,14 @@
       "onboard_time": 1711715838,
       "rank": 26,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 254957,
+      "num": 254957,
+      "word": "卵巢癌的预警信号可能被你忽视了",
+      "onboard_time": 1711782196,
+      "rank": 21,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 254677,
@@ -38657,6 +38697,14 @@
       "onboard_time": 1711015938,
       "rank": 34,
       "category": "数码"
+    },
+    {
+      "raw_hot": 244524,
+      "num": 244524,
+      "word": "12星座4月运势",
+      "onboard_time": 1711780819,
+      "rank": 23,
+      "category": "情感,网红"
     },
     {
       "raw_hot": 244457,
@@ -41379,14 +41427,6 @@
       "category": "体育,综艺"
     },
     {
-      "raw_hot": 228084,
-      "num": 228084,
-      "word": "实习生转正后拒绝了提薪",
-      "onboard_time": 1711780036,
-      "rank": 28,
-      "category": "情感"
-    },
-    {
       "raw_hot": 228011,
       "num": 228011,
       "word": "王一博巴黎时装周",
@@ -43249,6 +43289,14 @@
       "onboard_time": 1710504338,
       "rank": 34,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 218945,
+      "num": 218945,
+      "word": "百日咳早期症状与普通感冒相似",
+      "onboard_time": 1711780878,
+      "rank": 25,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 218894,
@@ -49003,6 +49051,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 197841,
+      "num": 197841,
+      "word": "林俊杰 福州",
+      "onboard_time": 1711782498,
+      "rank": 28,
+      "category": "演出"
+    },
+    {
       "raw_hot": 197778,
       "num": 197778,
       "word": "奥本海默奥斯卡最佳配乐",
@@ -49961,6 +50017,14 @@
       "onboard_time": 1710411752,
       "rank": 31,
       "category": "情感"
+    },
+    {
+      "raw_hot": 195123,
+      "num": 195123,
+      "word": "孙千存了陈靖可的照片",
+      "onboard_time": 1711780036,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 195121,
@@ -56595,6 +56659,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 173459,
+      "num": 173459,
+      "word": "迪丽热巴聂九罗艺术家穿搭",
+      "onboard_time": 1711781778,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 173439,
       "num": 173439,
       "word": "猜猜我是谁 不骗穷人",
@@ -56939,14 +57011,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 172484,
-      "num": 172484,
-      "word": "孙千存了陈靖可的照片",
-      "onboard_time": 1711780036,
-      "rank": 42,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 172433,
       "num": 172433,
       "word": "纪凌尘早期旧照",
@@ -57025,6 +57089,14 @@
       "onboard_time": 1709698832,
       "rank": 35,
       "category": "财经"
+    },
+    {
+      "raw_hot": 172237,
+      "num": 172237,
+      "word": "李维嘉喊鹿晗晗晗",
+      "onboard_time": 1711782616,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 172203,
@@ -57233,6 +57305,14 @@
       "onboard_time": 1711031480,
       "rank": 48,
       "category": "情感"
+    },
+    {
+      "raw_hot": 171169,
+      "num": 171169,
+      "word": "尹净汉妹妹头",
+      "onboard_time": 1711782738,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 171159,
@@ -58937,6 +59017,14 @@
       "onboard_time": 1709268457,
       "rank": 40,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 165665,
+      "num": 165665,
+      "word": "泰妍和惠利是怎样成为挚友的",
+      "onboard_time": 1711782438,
+      "rank": 39,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 165602,
@@ -61121,6 +61209,14 @@
       "onboard_time": 1710775655,
       "rank": 40,
       "category": "情感"
+    },
+    {
+      "raw_hot": 159111,
+      "num": 159111,
+      "word": "现实中的狸猫换太子",
+      "onboard_time": 1711782857,
+      "rank": 41,
+      "category": "幽默"
     },
     {
       "raw_hot": 159084,
@@ -64185,6 +64281,14 @@
       "onboard_time": 1709995653,
       "rank": 42,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 150659,
+      "num": 150659,
+      "word": "小米汽车遭遇上百余名消费者投诉",
+      "onboard_time": 1711782857,
+      "rank": 43,
+      "category": "汽车"
     },
     {
       "raw_hot": 150647,
@@ -67275,6 +67379,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 141621,
+      "num": 141621,
+      "word": "花间令 不怕男二坏就怕男二帅",
+      "onboard_time": 1711782558,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 141582,
       "num": 141582,
       "word": "Sora为何没能诞生在中国",
@@ -67555,6 +67667,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 140741,
+      "num": 140741,
+      "word": "百日咳卷土重来或因成人免疫力下降",
+      "onboard_time": 1711782738,
+      "rank": 46,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 140694,
       "num": 140694,
       "word": "林一演的病人状态",
@@ -67833,6 +67953,14 @@
       "onboard_time": 1709740290,
       "rank": 19,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 139983,
+      "num": 139983,
+      "word": "第一次见旱獭打架",
+      "onboard_time": 1711782498,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 139978,
@@ -76851,6 +76979,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 107757,
+      "num": 286831,
+      "word": "你见过粉色的大理么",
+      "onboard_time": 1711779498,
+      "rank": 48,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 107748,
       "num": 107748,
       "word": "曼联vs埃弗顿",
@@ -77857,14 +77993,6 @@
       "onboard_time": 1710982234,
       "rank": 49,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 100726,
-      "num": 243289,
-      "word": "你见过粉色的大理么",
-      "onboard_time": 1711779498,
-      "rank": 48,
-      "category": "旅游"
     },
     {
       "raw_hot": 100338,
