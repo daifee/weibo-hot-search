@@ -1,6 +1,6 @@
 {
   "startTime": 1709223640991,
-  "endTime": 1711818850376,
+  "endTime": 1711820046828,
   "band_list": [
     {
       "raw_hot": 21250232,
@@ -62307,6 +62307,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 158959,
+      "num": 102379,
+      "word": "郝蕾说纪凌尘就是实力不够",
+      "onboard_time": 1711817955,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 158928,
       "num": 158928,
       "word": "kpop士兵突击",
@@ -64937,14 +64945,6 @@
       "onboard_time": 1710845377,
       "rank": 27,
       "category": "财经"
-    },
-    {
-      "raw_hot": 151887,
-      "num": 102379,
-      "word": "郝蕾说纪凌尘就是实力不够",
-      "onboard_time": 1711817955,
-      "rank": 22,
-      "category": "综艺"
     },
     {
       "raw_hot": 151856,
@@ -74603,6 +74603,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 122768,
+      "num": 93924,
+      "word": "刘亦菲谈保持容貌的方法",
+      "onboard_time": 1711818135,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 122750,
       "num": 286831,
       "word": "你见过粉色的大理么",
@@ -74801,14 +74809,6 @@
       "onboard_time": 1710923614,
       "rank": 46,
       "category": "演出"
-    },
-    {
-      "raw_hot": 121927,
-      "num": 93924,
-      "word": "刘亦菲谈保持容貌的方法",
-      "onboard_time": 1711818135,
-      "rank": 31,
-      "category": "艺人"
     },
     {
       "raw_hot": 121901,
@@ -82475,6 +82475,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 60593,
+      "num": 60593,
+      "word": "宋雨琦在奔跑吧跳fate了",
+      "onboard_time": 1711819993,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 60564,
       "num": 1365312,
       "word": "全国两会怎样影响我们的生活",
@@ -84417,6 +84425,14 @@
       "onboard_time": 1709807252,
       "rank": 38,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 34792,
+      "num": 59134,
+      "word": "福州暴雨",
+      "onboard_time": 1711819755,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 34745,

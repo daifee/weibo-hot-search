@@ -1,0 +1,410 @@
+{
+  "runTime": 1711820046828,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 601528,
+        "num": 601528,
+        "word": "每天久坐超4小时会怎样",
+        "onboard_time": 1711812021,
+        "rank": 0,
+        "category": "健康医疗,科学科普"
+      },
+      {
+        "raw_hot": 523504,
+        "num": 523504,
+        "word": "一个富二代留学生被家里断供一年后",
+        "onboard_time": 1711809441,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 19104,
+        "num": 427915,
+        "word": "万千气象看云南",
+        "onboard_time": 1711807280,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 411476,
+        "num": 411476,
+        "word": "郝蕾痛批朱梓骁",
+        "onboard_time": 1711803859,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 350998,
+        "num": 350998,
+        "word": "上海偶遇陆毅鲍蕾一家四口",
+        "onboard_time": 1711814539,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 285157,
+        "num": 285157,
+        "word": "浙江男子账户里的2470万保住了",
+        "onboard_time": 1711812500,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 270001,
+        "num": 270001,
+        "word": "尔冬升说张栋梁是天生的变态",
+        "onboard_time": 1711811779,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 243574,
+        "num": 243574,
+        "word": "赵露思去林俊杰演唱会",
+        "onboard_time": 1711806199,
+        "rank": 7,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 241978,
+        "num": 241978,
+        "word": "小米代言人",
+        "onboard_time": 1711804700,
+        "rank": 8,
+        "category": "数码,艺人"
+      },
+      {
+        "raw_hot": 231920,
+        "num": 231920,
+        "word": "孙千是陈靖可的理想型",
+        "onboard_time": 1711809559,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 278318,
+        "num": 227042,
+        "word": "医院取精室里都有些什么",
+        "onboard_time": 1711786998,
+        "rank": 10,
+        "category": "健康医疗,科学科普"
+      },
+      {
+        "raw_hot": 246915,
+        "num": 215359,
+        "word": "陈楚生脱了",
+        "onboard_time": 1711805599,
+        "rank": 11,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 190604,
+        "num": 190604,
+        "word": "雷军张颂文 霸道总裁爱上我",
+        "onboard_time": 1711798218,
+        "rank": 12,
+        "category": "艺人,互联网"
+      },
+      {
+        "raw_hot": 190436,
+        "num": 190436,
+        "word": "赵奕欢回怼消失的她制片人",
+        "onboard_time": 1711803739,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 116716,
+        "num": 116716,
+        "word": "代号鸢下载",
+        "onboard_time": 1711808060,
+        "rank": 14,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 175732,
+        "num": 114269,
+        "word": "内娱天选理想型",
+        "onboard_time": 1711810879,
+        "rank": 15,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 163772,
+        "num": 109451,
+        "word": "郑合惠子工作室发声",
+        "onboard_time": 1711795938,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 92838,
+        "num": 92838,
+        "word": "金价再度爆发",
+        "onboard_time": 1711792458,
+        "rank": 17,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 91660,
+        "num": 91660,
+        "word": "1800名肺癌患者赠药突然中止",
+        "onboard_time": 1711807700,
+        "rank": 18,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 83812,
+        "num": 83812,
+        "word": "武磊说孙兴慜进球后不该挑衅球迷",
+        "onboard_time": 1711810038,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 235733,
+        "num": 83759,
+        "word": "长期睡前玩手机或要承担5个后果",
+        "onboard_time": 1711805359,
+        "rank": 20,
+        "category": "健康医疗,科学科普"
+      },
+      {
+        "raw_hot": 158959,
+        "num": 83430,
+        "word": "郝蕾说纪凌尘就是实力不够",
+        "onboard_time": 1711817955,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 148802,
+        "num": 82760,
+        "word": "亲妈收了百万彩礼却不给嫁妆",
+        "onboard_time": 1711814898,
+        "rank": 22,
+        "category": "剧集,情感"
+      },
+      {
+        "raw_hot": 92122,
+        "num": 82528,
+        "word": "长期喝奶茶可能会导致抑郁焦虑",
+        "onboard_time": 1711806922,
+        "rank": 23,
+        "category": "科学科普,健康医疗"
+      },
+      {
+        "raw_hot": 73510,
+        "num": 82020,
+        "word": "为什么有人朋友圈不爱发自己照片",
+        "onboard_time": 1711798278,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 124877,
+        "num": 81649,
+        "word": "眼泪女王",
+        "onboard_time": 1711807459,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 122768,
+        "num": 81490,
+        "word": "刘亦菲谈保持容貌的方法",
+        "onboard_time": 1711818135,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 112070,
+        "num": 81080,
+        "word": "王锵角色被锦超换掉",
+        "onboard_time": 1711816996,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 53194,
+        "num": 80765,
+        "word": "夫妻丢下女婴自称去继承前男友4亿遗产",
+        "onboard_time": 1711798458,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 29857,
+        "num": 80335,
+        "word": "员工请假照顾父亲00后老板提前发工资",
+        "onboard_time": 1711796538,
+        "rank": 29,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 98513,
+        "num": 79986,
+        "word": "雷军回复张颂文",
+        "onboard_time": 1711791918,
+        "rank": 30,
+        "category": "艺人,互联网"
+      },
+      {
+        "raw_hot": 79627,
+        "num": 79627,
+        "word": "十个勤天 音乐节",
+        "onboard_time": 1711803498,
+        "rank": 31,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 74563,
+        "num": 74563,
+        "word": "丁程鑫00后的DNA动了",
+        "onboard_time": 1711817175,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 62059,
+        "num": 73026,
+        "word": "樊振东爆冷输球的原因在哪里",
+        "onboard_time": 1711800439,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 54638,
+        "num": 72872,
+        "word": "小米汽车颜色",
+        "onboard_time": 1711805839,
+        "rank": 34,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 72860,
+        "num": 72860,
+        "word": "与凤行",
+        "onboard_time": 1711801159,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 72232,
+        "num": 72232,
+        "word": "眼泪女王预告",
+        "onboard_time": 1711809500,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 53607,
+        "num": 66812,
+        "word": "短效避孕药的13个真相",
+        "onboard_time": 1711795637,
+        "rank": 37,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 43878,
+        "num": 64935,
+        "word": "重师美院原院长被曝诱骗学生当小三",
+        "onboard_time": 1711799476,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 43495,
+        "num": 63605,
+        "word": "上海一餐厅被樱花给的泼天富贵砸晕了",
+        "onboard_time": 1711804520,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 63311,
+        "num": 63311,
+        "word": "赵丽颖翻牌评论",
+        "onboard_time": 1711807280,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 63179,
+        "num": 63179,
+        "word": "沈璃战损用了青衣谣",
+        "onboard_time": 1711816637,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 62509,
+        "num": 62509,
+        "word": "张杰演唱会上海六场收官",
+        "onboard_time": 1711813039,
+        "rank": 42,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 60593,
+        "num": 60593,
+        "word": "宋雨琦在奔跑吧跳fate了",
+        "onboard_time": 1711819993,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 59958,
+        "num": 59958,
+        "word": "眼泪女王直播",
+        "onboard_time": 1711805779,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 37797,
+        "num": 59805,
+        "word": "很怕狗的亲戚要来我家做客",
+        "onboard_time": 1711813159,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 36792,
+        "num": 59320,
+        "word": "国乒能守住男单冠军吗",
+        "onboard_time": 1711804038,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 34792,
+        "num": 59134,
+        "word": "福州暴雨",
+        "onboard_time": 1711819755,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 27750,
+        "num": 58683,
+        "word": "梁靖崑4比3马龙",
+        "onboard_time": 1711804159,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 27231,
+        "num": 58313,
+        "word": "名侦探柯南特别篇结尾",
+        "onboard_time": 1711810700,
+        "rank": 49,
+        "category": "动漫"
+      }
+    ],
+    "hotgov": {
+      "word": "#中共中央政治局召开会议#"
+    }
+  }
+}

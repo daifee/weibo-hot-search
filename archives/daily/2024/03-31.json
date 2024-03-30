@@ -1,6 +1,6 @@
 {
   "startTime": 1711815680412,
-  "endTime": 1711818850376,
+  "endTime": 1711820046828,
   "band_list": [
     {
       "raw_hot": 1290409,
@@ -211,20 +211,20 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 158959,
+      "num": 102379,
+      "word": "郝蕾说纪凌尘就是实力不够",
+      "onboard_time": 1711817955,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 152930,
       "num": 137884,
       "word": "石凯年度巅峰潜力男歌手",
       "onboard_time": 1711814898,
       "rank": 31,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 151887,
-      "num": 102379,
-      "word": "郝蕾说纪凌尘就是实力不够",
-      "onboard_time": 1711817955,
-      "rank": 22,
-      "category": "综艺"
     },
     {
       "raw_hot": 150660,
@@ -291,7 +291,7 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 121927,
+      "raw_hot": 122768,
       "num": 93924,
       "word": "刘亦菲谈保持容貌的方法",
       "onboard_time": 1711818135,
@@ -443,6 +443,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 60593,
+      "num": 60593,
+      "word": "宋雨琦在奔跑吧跳fate了",
+      "onboard_time": 1711819993,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 52856,
       "num": 137992,
       "word": "员工请假照顾父亲00后老板提前发工资",
@@ -457,6 +465,14 @@
       "onboard_time": 1711807280,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 34792,
+      "num": 59134,
+      "word": "福州暴雨",
+      "onboard_time": 1711819755,
+      "rank": 47,
+      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
@@ -465,6 +481,9 @@
     },
     {
       "word": "#确保粮食等重要农产品稳定安全供给#"
+    },
+    {
+      "word": "#中共中央政治局召开会议#"
     }
   ]
 }
