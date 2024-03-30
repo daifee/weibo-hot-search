@@ -1,6 +1,6 @@
 {
   "startTime": 1711210803824,
-  "endTime": 1711798436646,
+  "endTime": 1711801711099,
   "band_list": [
     {
       "raw_hot": 21250232,
@@ -569,6 +569,14 @@
       "onboard_time": 1711513402,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1540192,
+      "num": 985938,
+      "word": "monster",
+      "onboard_time": 1711798697,
+      "rank": 1,
+      "category": "综艺"
     },
     {
       "raw_hot": 1537555,
@@ -1843,6 +1851,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 829756,
+      "num": 829756,
+      "word": "雷军张颂文 霸道总裁爱上我",
+      "onboard_time": 1711798218,
+      "rank": 30,
+      "category": "艺人,互联网"
+    },
+    {
       "raw_hot": 829380,
       "num": 429259,
       "word": "韩素希连更4条ins",
@@ -2691,6 +2707,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 673090,
+      "num": 673090,
+      "word": "马龙vs梁靖崑",
+      "onboard_time": 1711800257,
+      "rank": 4,
+      "category": "体育"
+    },
+    {
       "raw_hot": 673068,
       "num": 673068,
       "word": "秦岚迪丽热巴白衣自拍",
@@ -2732,7 +2756,7 @@
     },
     {
       "raw_hot": 671643,
-      "num": 461788,
+      "num": 521814,
       "word": "短效避孕药的13个真相",
       "onboard_time": 1711795637,
       "rank": 10,
@@ -3947,6 +3971,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 528069,
+      "num": 528069,
+      "word": "员工请假照顾父亲00后老板提前发工资",
+      "onboard_time": 1711796538,
+      "rank": 38,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 527577,
       "num": 527577,
       "word": "小爱同学差点帮我买了一套房",
@@ -4265,6 +4297,14 @@
       "onboard_time": 1711517419,
       "rank": 38,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 506336,
+      "num": 506336,
+      "word": "警方回应5岁男童疑被打身亡",
+      "onboard_time": 1711800138,
+      "rank": 11,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 505567,
@@ -5907,6 +5947,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 384057,
+      "num": 384057,
+      "word": "王菲李嫣机场同框",
+      "onboard_time": 1711798878,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 384027,
       "num": 384027,
       "word": "杨幂嘉人5套高定",
@@ -6059,6 +6107,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 373337,
+      "num": 373337,
+      "word": "重师美院原院长被曝诱骗学生当小三",
+      "onboard_time": 1711799476,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 373233,
       "num": 373233,
       "word": "诛仙2鬼厉陆雪琪重逢",
@@ -6137,6 +6193,14 @@
       "onboard_time": 1711298477,
       "rank": 11,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 366511,
+      "num": 366511,
+      "word": "樊振东爆冷输球的原因在哪里",
+      "onboard_time": 1711800439,
+      "rank": 16,
+      "category": "体育"
     },
     {
       "raw_hot": 366453,
@@ -6220,7 +6284,7 @@
     },
     {
       "raw_hot": 361177,
-      "num": 242083,
+      "num": 282252,
       "word": "经常午睡大脑年轻近7年",
       "onboard_time": 1711796779,
       "rank": 24,
@@ -6705,6 +6769,14 @@
       "onboard_time": 1711450999,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 331871,
+      "num": 290321,
+      "word": "夫妻丢下女婴自称去继承前男友4亿遗产",
+      "onboard_time": 1711798458,
+      "rank": 20,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 331843,
@@ -7443,6 +7515,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 297068,
+      "num": 199748,
+      "word": "疑被虐待致死5岁男童生母曾是幼师",
+      "onboard_time": 1711800858,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 296901,
       "num": 296901,
       "word": "小米",
@@ -7563,6 +7643,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 292416,
+      "num": 274528,
+      "word": "为什么有人朋友圈不爱发自己照片",
+      "onboard_time": 1711798278,
+      "rank": 40,
+      "category": "情感"
+    },
+    {
       "raw_hot": 291795,
       "num": 291795,
       "word": "频繁聊天可以让你喜欢对方吗",
@@ -7641,6 +7729,14 @@
       "onboard_time": 1711790058,
       "rank": 41,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 290523,
+      "num": 290523,
+      "word": "孙颖莎4比0王艺迪",
+      "onboard_time": 1711799839,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 290229,
@@ -8331,6 +8427,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 263336,
+      "num": 263336,
+      "word": "魏若来 牛春苗",
+      "onboard_time": 1711799958,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 263234,
       "num": 263234,
       "word": "白鹿画了gidle的新歌",
@@ -8961,6 +9065,14 @@
       "onboard_time": 1711364298,
       "rank": 30,
       "category": "读书作家,作品衍生"
+    },
+    {
+      "raw_hot": 246113,
+      "num": 246113,
+      "word": "雷军说造车是被逼出来的",
+      "onboard_time": 1711798637,
+      "rank": 25,
+      "category": "汽车,互联网"
     },
     {
       "raw_hot": 245894,
@@ -10307,6 +10419,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 215193,
+      "num": 215193,
+      "word": "鞠婧祎回应上官芷被玩梗",
+      "onboard_time": 1711798697,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 215050,
       "num": 215050,
       "word": "女星轻生宝冢歌剧团承认集体霸凌",
@@ -10353,6 +10473,14 @@
       "onboard_time": 1711603759,
       "rank": 30,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 214096,
+      "num": 214096,
+      "word": "孙颖莎vs王艺迪",
+      "onboard_time": 1711798578,
+      "rank": 28,
+      "category": "体育"
     },
     {
       "raw_hot": 214060,
@@ -10737,14 +10865,6 @@
       "onboard_time": 1711377681,
       "rank": 32,
       "category": "演出"
-    },
-    {
-      "raw_hot": 206880,
-      "num": 445869,
-      "word": "员工请假照顾父亲00后老板提前发工资",
-      "onboard_time": 1711796538,
-      "rank": 38,
-      "category": "社会正能量"
     },
     {
       "raw_hot": 206847,
@@ -12539,6 +12659,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 186411,
+      "num": 186411,
+      "word": "张杰演唱会",
+      "onboard_time": 1711798519,
+      "rank": 33,
+      "category": "演出"
+    },
+    {
       "raw_hot": 186366,
       "num": 186366,
       "word": "狼人杀为啥没人玩了",
@@ -13531,6 +13659,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 172484,
+      "num": 172484,
+      "word": "你好星期六",
+      "onboard_time": 1711801159,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 172237,
       "num": 172237,
       "word": "李维嘉喊鹿晗晗晗",
@@ -13561,14 +13697,6 @@
       "onboard_time": 1711783217,
       "rank": 34,
       "category": "演出"
-    },
-    {
-      "raw_hot": 172020,
-      "num": 158296,
-      "word": "雷军张颂文 霸道总裁爱上我",
-      "onboard_time": 1711798218,
-      "rank": 30,
-      "category": "艺人,互联网"
     },
     {
       "raw_hot": 171159,
@@ -14107,6 +14235,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 164548,
+      "num": 164548,
+      "word": "黄子弘凡直拍",
+      "onboard_time": 1711801520,
+      "rank": 36,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 164546,
       "num": 164546,
       "word": "射雕公测时间",
@@ -14593,6 +14729,14 @@
       "onboard_time": 1711277960,
       "rank": 40,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 159869,
+      "num": 159869,
+      "word": "黄磊好宠张艺兴",
+      "onboard_time": 1711800619,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 159803,
@@ -15811,6 +15955,14 @@
       "category": "动漫,作品衍生"
     },
     {
+      "raw_hot": 145971,
+      "num": 145971,
+      "word": "XYG发文道歉",
+      "onboard_time": 1711799476,
+      "rank": 38,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 145814,
       "num": 145814,
       "word": "在变懒的路上倒是挺勤快的",
@@ -16273,6 +16425,14 @@
       "onboard_time": 1711585941,
       "rank": 39,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 140788,
+      "num": 140788,
+      "word": "KCON香港",
+      "onboard_time": 1711799118,
+      "rank": 41,
+      "category": "演出"
     },
     {
       "raw_hot": 140552,
@@ -16875,6 +17035,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 131596,
+      "num": 131596,
+      "word": "XG广州",
+      "onboard_time": 1711801399,
+      "rank": 43,
+      "category": "演出"
+    },
+    {
       "raw_hot": 131419,
       "num": 131419,
       "word": "大屏上的张杰",
@@ -16889,6 +17057,14 @@
       "onboard_time": 1711679118,
       "rank": 33,
       "category": "网红,互联网"
+    },
+    {
+      "raw_hot": 131209,
+      "num": 131209,
+      "word": "魏若来未婚妻成助攻",
+      "onboard_time": 1711798998,
+      "rank": 45,
+      "category": "剧集"
     },
     {
       "raw_hot": 130886,
@@ -17569,14 +17745,6 @@
       "onboard_time": 1711701858,
       "rank": 46,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 122834,
-      "num": 122834,
-      "word": "为什么有人朋友圈不爱发自己照片",
-      "onboard_time": 1711798278,
-      "rank": 40,
-      "category": "情感"
     },
     {
       "raw_hot": 122798,
@@ -20193,6 +20361,14 @@
       "onboard_time": 1711482310,
       "rank": 38,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 14670,
+      "num": 375125,
+      "word": "蛋仔奇思妙想计划",
+      "onboard_time": 1711800019,
+      "rank": 14,
+      "category": "游戏"
     },
     {
       "raw_hot": 14131,
