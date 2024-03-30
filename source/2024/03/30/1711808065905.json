@@ -1,0 +1,410 @@
+{
+  "runTime": 1711808065905,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1776573,
+        "num": 1776573,
+        "word": "郝蕾痛批朱梓骁",
+        "onboard_time": 1711803859,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1479883,
+        "num": 1479883,
+        "word": "小米代言人",
+        "onboard_time": 1711804700,
+        "rank": 1,
+        "category": "数码,艺人"
+      },
+      {
+        "raw_hot": 68886,
+        "num": 1423565,
+        "word": "万千气象看云南",
+        "onboard_time": 1711807280,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1414884,
+        "num": 1414884,
+        "word": "赵露思去林俊杰演唱会",
+        "onboard_time": 1711806199,
+        "rank": 3,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 662809,
+        "num": 662809,
+        "word": "孙千陈靖可甜晕了",
+        "onboard_time": 1711803138,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 642490,
+        "num": 642490,
+        "word": "王曼昱vs陈梦",
+        "onboard_time": 1711803498,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 634701,
+        "num": 634701,
+        "word": "赵奕欢回怼消失的她制片人",
+        "onboard_time": 1711803739,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 587968,
+        "num": 587968,
+        "word": "雷军回复张颂文",
+        "onboard_time": 1711791918,
+        "rank": 7,
+        "category": "艺人,互联网"
+      },
+      {
+        "raw_hot": 506703,
+        "num": 506703,
+        "word": "国乒能守住男单冠军吗",
+        "onboard_time": 1711804038,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 314588,
+        "num": 506698,
+        "word": "重师美院原院长被曝诱骗学生当小三",
+        "onboard_time": 1711799476,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1440951,
+        "num": 506353,
+        "word": "陈楚生脱了",
+        "onboard_time": 1711805599,
+        "rank": 10,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 533655,
+        "num": 505928,
+        "word": "金价再度爆发",
+        "onboard_time": 1711792458,
+        "rank": 11,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 545424,
+        "num": 505757,
+        "word": "雷军张颂文 霸道总裁爱上我",
+        "onboard_time": 1711798218,
+        "rank": 12,
+        "category": "艺人,互联网"
+      },
+      {
+        "raw_hot": 505487,
+        "num": 505487,
+        "word": "眼泪女王直播",
+        "onboard_time": 1711805779,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 437647,
+        "num": 486754,
+        "word": "樊振东爆冷输球的原因在哪里",
+        "onboard_time": 1711800439,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 471626,
+        "num": 471626,
+        "word": "徐明浩脱力",
+        "onboard_time": 1711806199,
+        "rank": 15,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 457108,
+        "num": 457108,
+        "word": "你好星期六预告",
+        "onboard_time": 1711805539,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 419998,
+        "num": 419998,
+        "word": "医院取精室里都有些什么",
+        "onboard_time": 1711786998,
+        "rank": 17,
+        "category": "健康医疗,科学科普"
+      },
+      {
+        "raw_hot": 307477,
+        "num": 307477,
+        "word": "梁靖崑4比3马龙",
+        "onboard_time": 1711804159,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 301614,
+        "num": 301614,
+        "word": "小米汽车颜色",
+        "onboard_time": 1711805839,
+        "rank": 19,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 764845,
+        "num": 299333,
+        "word": "疑被虐待致死5岁男童生母曾是幼师",
+        "onboard_time": 1711800858,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 455529,
+        "num": 296114,
+        "word": "郑合惠子工作室发声",
+        "onboard_time": 1711795938,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 600617,
+        "num": 294307,
+        "word": "长期睡前玩手机或要承担5个后果",
+        "onboard_time": 1711805359,
+        "rank": 22,
+        "category": "健康医疗,科学科普"
+      },
+      {
+        "raw_hot": 357117,
+        "num": 289606,
+        "word": "十个勤天 音乐节",
+        "onboard_time": 1711803498,
+        "rank": 23,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 337425,
+        "num": 287247,
+        "word": "文俊辉直播",
+        "onboard_time": 1711806619,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 322430,
+        "num": 281745,
+        "word": "aespa舞台",
+        "onboard_time": 1711806140,
+        "rank": 25,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 280598,
+        "num": 280598,
+        "word": "长期喝奶茶可能会导致抑郁焦虑",
+        "onboard_time": 1711806922,
+        "rank": 26,
+        "category": "科学科普,健康医疗"
+      },
+      {
+        "raw_hot": 267655,
+        "num": 280026,
+        "word": "上海一餐厅被樱花给的泼天富贵砸晕了",
+        "onboard_time": 1711804520,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 178533,
+        "num": 277617,
+        "word": "夫妻丢下女婴自称去继承前男友4亿遗产",
+        "onboard_time": 1711798458,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 128870,
+        "num": 276783,
+        "word": "员工请假照顾父亲00后老板提前发工资",
+        "onboard_time": 1711796538,
+        "rank": 29,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 636097,
+        "num": 275793,
+        "word": "张颂文称喜欢橄榄绿SU7",
+        "onboard_time": 1711803559,
+        "rank": 30,
+        "category": "艺人,汽车"
+      },
+      {
+        "raw_hot": 274475,
+        "num": 274475,
+        "word": "赵丽颖翻牌评论",
+        "onboard_time": 1711807280,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 268919,
+        "num": 268919,
+        "word": "娃娃菜的娃娃亲",
+        "onboard_time": 1711803921,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 256285,
+        "num": 256285,
+        "word": "monster",
+        "onboard_time": 1711798697,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 221513,
+        "num": 221513,
+        "word": "UP主入围美国雨果奖",
+        "onboard_time": 1711806978,
+        "rank": 34,
+        "category": "科学科普,读书作家"
+      },
+      {
+        "raw_hot": 249323,
+        "num": 212698,
+        "word": "眼泪女王",
+        "onboard_time": 1711807459,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 243427,
+        "num": 206620,
+        "word": "在人间将官宣",
+        "onboard_time": 1711807821,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 191860,
+        "num": 191860,
+        "word": "1800名肺癌患者赠药突然中止",
+        "onboard_time": 1711807700,
+        "rank": 37,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 184655,
+        "num": 184655,
+        "word": "为什么有人朋友圈不爱发自己照片",
+        "onboard_time": 1711798278,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 157658,
+        "num": 157658,
+        "word": "经常午睡大脑年轻近7年",
+        "onboard_time": 1711796779,
+        "rank": 39,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 229295,
+        "num": 157464,
+        "word": "与凤行直播",
+        "onboard_time": 1711802299,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 228636,
+        "num": 157367,
+        "word": "沈璃苻生同归于尽",
+        "onboard_time": 1711804938,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 205684,
+        "num": 157281,
+        "word": "张栋梁演变态",
+        "onboard_time": 1711807100,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 156943,
+        "num": 156943,
+        "word": "小米汽车",
+        "onboard_time": 1711807700,
+        "rank": 43,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 200971,
+        "num": 156412,
+        "word": "李耕耘新歌首唱",
+        "onboard_time": 1711807700,
+        "rank": 44,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 162560,
+        "num": 156027,
+        "word": "与凤行",
+        "onboard_time": 1711801159,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 155492,
+        "num": 155492,
+        "word": "孙颖莎这球太先进了",
+        "onboard_time": 1711807521,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 147654,
+        "num": 147654,
+        "word": "短效避孕药的13个真相",
+        "onboard_time": 1711795637,
+        "rank": 47,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 144695,
+        "num": 144695,
+        "word": "将门毒后女主原型",
+        "onboard_time": 1711784958,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 141494,
+        "num": 141494,
+        "word": "警方回应5岁男童疑被打身亡",
+        "onboard_time": 1711800138,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#国有企业要纵深推进全面从严治党#"
+    }
+  }
+}
