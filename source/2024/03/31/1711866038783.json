@@ -1,0 +1,410 @@
+{
+  "runTime": 1711866038783,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1821657,
+        "num": 1821657,
+        "word": "小米订单 strong男",
+        "onboard_time": 1711864519,
+        "rank": 0,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 1281762,
+        "num": 1281762,
+        "word": "霸王茶姬 张杰演唱会",
+        "onboard_time": 1711862778,
+        "rank": 1,
+        "category": "演出,美食"
+      },
+      {
+        "raw_hot": 53470,
+        "num": 972462,
+        "word": "美好生活在云南",
+        "onboard_time": 1711858578,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 903492,
+        "num": 903492,
+        "word": "纪凌尘认为分手舆情影响他接戏",
+        "onboard_time": 1711852037,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 749527,
+        "num": 749527,
+        "word": "赵露思林俊杰合照",
+        "onboard_time": 1711861518,
+        "rank": 4,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 734860,
+        "num": 734860,
+        "word": "赵奕欢被制片人踢出了演员行列",
+        "onboard_time": 1711853238,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 716512,
+        "num": 716512,
+        "word": "宁静 谁找你演二愣子",
+        "onboard_time": 1711861637,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 585049,
+        "num": 585049,
+        "word": "一句话让男人为我花了21万",
+        "onboard_time": 1711859597,
+        "rank": 7,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 296198,
+        "num": 512708,
+        "word": "泽连斯基被问到俄恐袭露出诡异微笑",
+        "onboard_time": 1711858998,
+        "rank": 8,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 204804,
+        "num": 503456,
+        "word": "一个富二代留学生被家里断供一年后",
+        "onboard_time": 1711809441,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 637053,
+        "num": 500454,
+        "word": "宋仲基眼泪女王剧照",
+        "onboard_time": 1711864338,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 495142,
+        "num": 495142,
+        "word": "魏晨分享当爸9个月感受",
+        "onboard_time": 1711864217,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 485921,
+        "num": 485921,
+        "word": "孙千回复",
+        "onboard_time": 1711855099,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 261779,
+        "num": 261779,
+        "word": "女性太瘦并不是件好事",
+        "onboard_time": 1711854378,
+        "rank": 13,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 240192,
+        "num": 240192,
+        "word": "济州岛被玩成江浙沪后花园了",
+        "onboard_time": 1711853238,
+        "rank": 14,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 475183,
+        "num": 220804,
+        "word": "娜扎红色泳衣",
+        "onboard_time": 1711864456,
+        "rank": 15,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 280680,
+        "num": 206960,
+        "word": "郝蕾的点评真是一针见血",
+        "onboard_time": 1711864817,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 192841,
+        "num": 192841,
+        "word": "陈震回应删除与雷军合照",
+        "onboard_time": 1711850837,
+        "rank": 17,
+        "category": "互联网,汽车"
+      },
+      {
+        "raw_hot": 161669,
+        "num": 192593,
+        "word": "丫丫回国快一年了",
+        "onboard_time": 1711856119,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 157043,
+        "num": 192441,
+        "word": "法国向45个国家寻求安保协助",
+        "onboard_time": 1711852518,
+        "rank": 19,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 274531,
+        "num": 191855,
+        "word": "欧阳娣娣情商",
+        "onboard_time": 1711863557,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 240718,
+        "num": 191620,
+        "word": "二战失败爸爸给了我20万",
+        "onboard_time": 1711853418,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 212644,
+        "num": 191332,
+        "word": "赵丽颖尹昉合作",
+        "onboard_time": 1711862838,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 210621,
+        "num": 190914,
+        "word": "被自己一个月的掉发量惊呆了",
+        "onboard_time": 1711863739,
+        "rank": 23,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 211634,
+        "num": 190524,
+        "word": "在人间官宣",
+        "onboard_time": 1711856239,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 205889,
+        "num": 190092,
+        "word": "钟楚曦侯雯元看张杰演唱会",
+        "onboard_time": 1711856057,
+        "rank": 25,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 203245,
+        "num": 189788,
+        "word": "邓超有五哈团丑照",
+        "onboard_time": 1711864878,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 200806,
+        "num": 189427,
+        "word": "爸爸穿的太显眼竟把女儿气哭",
+        "onboard_time": 1711865598,
+        "rank": 27,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 142568,
+        "num": 189027,
+        "word": "新疆喀什大风刮起百米沙墙",
+        "onboard_time": 1711862178,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 134496,
+        "num": 188938,
+        "word": "孙颖莎彻底打服日本一号",
+        "onboard_time": 1711855997,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 188597,
+        "num": 188597,
+        "word": "上班后才发现旅游是退休后的事",
+        "onboard_time": 1711860917,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 187963,
+        "num": 187963,
+        "word": "百日咳具有高度传染性",
+        "onboard_time": 1711865177,
+        "rank": 31,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 182992,
+        "num": 182992,
+        "word": "鹿晗老挝写真",
+        "onboard_time": 1711863857,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 182237,
+        "num": 182237,
+        "word": "肖战官宣代言",
+        "onboard_time": 1711860437,
+        "rank": 33,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 172251,
+        "num": 172251,
+        "word": "热辣滚烫北美票房",
+        "onboard_time": 1711855398,
+        "rank": 34,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 167954,
+        "num": 167954,
+        "word": "陈星旭蓝发",
+        "onboard_time": 1711862657,
+        "rank": 35,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 163501,
+        "num": 163501,
+        "word": "孙千172高不到97斤",
+        "onboard_time": 1711847959,
+        "rank": 36,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 157299,
+        "num": 157299,
+        "word": "吃了词汇量大的亏",
+        "onboard_time": 1711857378,
+        "rank": 37,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 147317,
+        "num": 147317,
+        "word": "人体最薄的皮肤在哪",
+        "onboard_time": 1711851076,
+        "rank": 38,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 102125,
+        "num": 143800,
+        "word": "从小学就开始卷真的有必要吗",
+        "onboard_time": 1711865539,
+        "rank": 39,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 163007,
+        "num": 143728,
+        "word": "娜扎把微博当朋友圈发",
+        "onboard_time": 1711865777,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 152573,
+        "num": 143724,
+        "word": "赵露思大屏",
+        "onboard_time": 1711858518,
+        "rank": 41,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 143556,
+        "num": 143556,
+        "word": "GR状态",
+        "onboard_time": 1711864636,
+        "rank": 42,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 144058,
+        "num": 143374,
+        "word": "赵丽颖工作室带医保卡救沈璃",
+        "onboard_time": 1711856838,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 142786,
+        "num": 142786,
+        "word": "陈靖可回复",
+        "onboard_time": 1711859237,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 140059,
+        "num": 140059,
+        "word": "早期赵奕欢",
+        "onboard_time": 1711860197,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 120633,
+        "num": 120633,
+        "word": "每平米美甲价格超一线城市房价",
+        "onboard_time": 1711860258,
+        "rank": 46,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 104908,
+        "num": 120497,
+        "word": "工作到没有生活的人最容易内耗",
+        "onboard_time": 1711865957,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 81051,
+        "num": 119173,
+        "word": "夜校唢呐课500人抢16个名额",
+        "onboard_time": 1711862237,
+        "rank": 48,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 80049,
+        "num": 117825,
+        "word": "麦迪想去村BA打球",
+        "onboard_time": 1711864338,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#确保粮食等重要农产品稳定安全供给#"
+    }
+  }
+}

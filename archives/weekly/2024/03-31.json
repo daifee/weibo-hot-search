@@ -1,10 +1,18 @@
 {
   "startTime": 1711815680412,
-  "endTime": 1711863240476,
+  "endTime": 1711866038783,
   "band_list": [
     {
+      "raw_hot": 1821657,
+      "num": 1821657,
+      "word": "小米订单 strong男",
+      "onboard_time": 1711864519,
+      "rank": 0,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 1590780,
-      "num": 795449,
+      "num": 903492,
       "word": "纪凌尘认为分手舆情影响他接戏",
       "onboard_time": 1711852037,
       "rank": 13,
@@ -25,6 +33,14 @@
       "onboard_time": 1711809441,
       "rank": 0,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1281762,
+      "num": 1281762,
+      "word": "霸王茶姬 张杰演唱会",
+      "onboard_time": 1711862778,
+      "rank": 12,
+      "category": "演出,美食"
     },
     {
       "raw_hot": 1236320,
@@ -91,8 +107,8 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 732737,
-      "num": 732737,
+      "raw_hot": 749527,
+      "num": 749527,
       "word": "赵露思林俊杰合照",
       "onboard_time": 1711861518,
       "rank": 13,
@@ -115,6 +131,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 716512,
+      "num": 716512,
+      "word": "宁静 谁找你演二愣子",
+      "onboard_time": 1711861637,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 691845,
       "num": 691845,
       "word": "尔冬升说张栋梁是天生的变态",
@@ -131,12 +155,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 634607,
-      "num": 362946,
-      "word": "宁静 谁找你演二愣子",
-      "onboard_time": 1711861637,
-      "rank": 21,
-      "category": "综艺"
+      "raw_hot": 637053,
+      "num": 500454,
+      "word": "宋仲基眼泪女王剧照",
+      "onboard_time": 1711864338,
+      "rank": 10,
+      "category": "剧集"
     },
     {
       "raw_hot": 628212,
@@ -275,12 +299,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 495142,
+      "num": 495142,
+      "word": "魏晨分享当爸9个月感受",
+      "onboard_time": 1711864217,
+      "rank": 11,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 484250,
       "num": 484250,
       "word": "赵露思去林俊杰演唱会",
       "onboard_time": 1711806199,
       "rank": 9,
       "category": "演出"
+    },
+    {
+      "raw_hot": 475183,
+      "num": 220804,
+      "word": "娜扎红色泳衣",
+      "onboard_time": 1711864456,
+      "rank": 15,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 474110,
@@ -475,14 +515,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 303773,
-      "num": 303773,
-      "word": "霸王茶姬 张杰演唱会",
-      "onboard_time": 1711862778,
-      "rank": 12,
-      "category": "演出,美食"
-    },
-    {
       "raw_hot": 302512,
       "num": 302512,
       "word": "薛之谦回国",
@@ -531,6 +563,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 280680,
+      "num": 206960,
+      "word": "郝蕾的点评真是一针见血",
+      "onboard_time": 1711864817,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 278790,
       "num": 250028,
       "word": "郑合惠子工作室发声",
@@ -545,6 +585,14 @@
       "onboard_time": 1711843938,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 274531,
+      "num": 191855,
+      "word": "欧阳娣娣情商",
+      "onboard_time": 1711863557,
+      "rank": 20,
+      "category": "综艺"
     },
     {
       "raw_hot": 270356,
@@ -683,6 +731,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 212644,
+      "num": 191332,
+      "word": "赵丽颖尹昉合作",
+      "onboard_time": 1711862838,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 210621,
+      "num": 190914,
+      "word": "被自己一个月的掉发量惊呆了",
+      "onboard_time": 1711863739,
+      "rank": 23,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 208509,
       "num": 208509,
       "word": "原来花才是春天的顶流",
@@ -715,20 +779,28 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 206344,
-      "num": 168893,
-      "word": "赵丽颖尹昉合作",
-      "onboard_time": 1711862838,
-      "rank": 35,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 205831,
       "num": 205831,
       "word": "刘宇演唱会 赠票",
       "onboard_time": 1711860857,
       "rank": 33,
       "category": "演出"
+    },
+    {
+      "raw_hot": 203245,
+      "num": 189788,
+      "word": "邓超有五哈团丑照",
+      "onboard_time": 1711864878,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 200806,
+      "num": 189427,
+      "word": "爸爸穿的太显眼竟把女儿气哭",
+      "onboard_time": 1711865598,
+      "rank": 27,
+      "category": "情感"
     },
     {
       "raw_hot": 199072,
@@ -753,6 +825,14 @@
       "onboard_time": 1711807459,
       "rank": 25,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 187963,
+      "num": 187963,
+      "word": "百日咳具有高度传染性",
+      "onboard_time": 1711865177,
+      "rank": 31,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 187188,
@@ -793,6 +873,14 @@
       "onboard_time": 1711860077,
       "rank": 35,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 182992,
+      "num": 182992,
+      "word": "鹿晗老挝写真",
+      "onboard_time": 1711863857,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 179827,
@@ -857,6 +945,14 @@
       "onboard_time": 1711860258,
       "rank": 36,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 163007,
+      "num": 143728,
+      "word": "娜扎把微博当朋友圈发",
+      "onboard_time": 1711865777,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 161151,
@@ -977,6 +1073,22 @@
       "onboard_time": 1711803498,
       "rank": 35,
       "category": "演出"
+    },
+    {
+      "raw_hot": 143556,
+      "num": 143556,
+      "word": "GR状态",
+      "onboard_time": 1711864636,
+      "rank": 42,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 142568,
+      "num": 189027,
+      "word": "新疆喀什大风刮起百米沙墙",
+      "onboard_time": 1711862178,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 141934,
@@ -1203,14 +1315,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 112532,
-      "num": 115527,
-      "word": "新疆喀什大风刮起百米沙墙",
-      "onboard_time": 1711862178,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 110878,
       "num": 110878,
       "word": "王逍遥",
@@ -1251,6 +1355,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 104908,
+      "num": 120497,
+      "word": "工作到没有生活的人最容易内耗",
+      "onboard_time": 1711865957,
+      "rank": 47,
+      "category": "情感"
+    },
+    {
       "raw_hot": 104847,
       "num": 104847,
       "word": "拜仁0比2多特蒙德",
@@ -1281,6 +1393,14 @@
       "onboard_time": 1711801159,
       "rank": 45,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 102125,
+      "num": 143800,
+      "word": "从小学就开始卷真的有必要吗",
+      "onboard_time": 1711865539,
+      "rank": 39,
+      "category": "教育"
     },
     {
       "raw_hot": 98262,
@@ -1356,11 +1476,19 @@
     },
     {
       "raw_hot": 85036,
-      "num": 815907,
+      "num": 972462,
       "word": "美好生活在云南",
       "onboard_time": 1711858578,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 80049,
+      "num": 117825,
+      "word": "麦迪想去村BA打球",
+      "onboard_time": 1711864338,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 80044,
