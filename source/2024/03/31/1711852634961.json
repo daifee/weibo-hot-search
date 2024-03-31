@@ -1,0 +1,410 @@
+{
+  "runTime": 1711852634961,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1124922,
+        "num": 1124922,
+        "word": "孙千172高不到97斤",
+        "onboard_time": 1711847959,
+        "rank": 0,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 935975,
+        "num": 935975,
+        "word": "每天久坐超4小时会怎样",
+        "onboard_time": 1711812021,
+        "rank": 1,
+        "category": "健康医疗,科学科普"
+      },
+      {
+        "raw_hot": 5422,
+        "num": 843112,
+        "word": "2024中国网络媒体论坛",
+        "onboard_time": 1711628721,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 841253,
+        "num": 841253,
+        "word": "吉克隽逸因司机迷路错过彩排",
+        "onboard_time": 1711847477,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 824314,
+        "num": 824314,
+        "word": "陈震回应删除与雷军合照",
+        "onboard_time": 1711850837,
+        "rank": 4,
+        "category": "互联网,汽车"
+      },
+      {
+        "raw_hot": 480339,
+        "num": 480339,
+        "word": "一个富二代留学生被家里断供一年后",
+        "onboard_time": 1711809441,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 474110,
+        "num": 474110,
+        "word": "俄恐袭134名遇难者身份已确认",
+        "onboard_time": 1711851318,
+        "rank": 6,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 465747,
+        "num": 465747,
+        "word": "4天酒店游客仅住1天被赶走",
+        "onboard_time": 1711847117,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 437942,
+        "num": 437942,
+        "word": "郝蕾说纪凌尘就是实力不够",
+        "onboard_time": 1711817955,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 417163,
+        "num": 417163,
+        "word": "俄罗斯",
+        "onboard_time": 1711851378,
+        "rank": 9,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 397764,
+        "num": 397764,
+        "word": "锦超曾因入戏太深恨其他演员",
+        "onboard_time": 1711850237,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 389961,
+        "num": 389961,
+        "word": "13岁男孩起诉妈妈归还100万房款",
+        "onboard_time": 1711845976,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 380319,
+        "num": 380319,
+        "word": "油价4月或进入8元时代",
+        "onboard_time": 1711850358,
+        "rank": 12,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 423246,
+        "num": 376869,
+        "word": "纪凌尘认为分手舆情影响他接戏",
+        "onboard_time": 1711852037,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 361848,
+        "num": 361848,
+        "word": "李斯丹妮演唱会朝台下泼水",
+        "onboard_time": 1711849518,
+        "rank": 14,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 328323,
+        "num": 328323,
+        "word": "眼泪女王收视率",
+        "onboard_time": 1711846577,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 292040,
+        "num": 292040,
+        "word": "去东海救碧苍王",
+        "onboard_time": 1711849158,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 290593,
+        "num": 290593,
+        "word": "Jennie将于6月solo回归",
+        "onboard_time": 1711844296,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 284063,
+        "num": 284063,
+        "word": "赵晴回应于正让自己减肥",
+        "onboard_time": 1711848618,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 233671,
+        "num": 233671,
+        "word": "荷兰欲砸近200亿元挽留光刻机巨头",
+        "onboard_time": 1711842014,
+        "rank": 19,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 509507,
+        "num": 233647,
+        "word": "奔驰加塞事件原视频",
+        "onboard_time": 1711840453,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 429422,
+        "num": 232743,
+        "word": "人体最薄的皮肤在哪",
+        "onboard_time": 1711851076,
+        "rank": 21,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 303916,
+        "num": 232104,
+        "word": "06年出生的今年要成年了",
+        "onboard_time": 1711848498,
+        "rank": 22,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 259638,
+        "num": 230765,
+        "word": "薛之谦回国",
+        "onboard_time": 1711846636,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 230567,
+        "num": 230567,
+        "word": "雷军张颂文 霸道总裁爱上我",
+        "onboard_time": 1711798218,
+        "rank": 24,
+        "category": "艺人,互联网"
+      },
+      {
+        "raw_hot": 201458,
+        "num": 201458,
+        "word": "多地学校厕所装防欺凌警报装置",
+        "onboard_time": 1711850297,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 199388,
+        "num": 199388,
+        "word": "周雨彤苏晓彤是喝了多少",
+        "onboard_time": 1711844417,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 187457,
+        "num": 187457,
+        "word": "孙千是陈靖可的理想型",
+        "onboard_time": 1711809559,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 183841,
+        "num": 183841,
+        "word": "学校通报美院原院长与学生不正当关系",
+        "onboard_time": 1711844596,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 146853,
+        "num": 169865,
+        "word": "81岁女儿跨越81年找到烈士父亲",
+        "onboard_time": 1711850118,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 169084,
+        "num": 169084,
+        "word": "郝蕾痛批朱梓骁",
+        "onboard_time": 1711803859,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 166616,
+        "num": 166616,
+        "word": "南昌暴雨",
+        "onboard_time": 1711846937,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 165876,
+        "num": 165876,
+        "word": "赵奕欢回应演网大出身",
+        "onboard_time": 1711851378,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 165439,
+        "num": 165439,
+        "word": "陈楚生脱了",
+        "onboard_time": 1711805599,
+        "rank": 33,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 156376,
+        "num": 156376,
+        "word": "魏哲鸣吴宣仪玫瑰花游戏",
+        "onboard_time": 1711852159,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 154063,
+        "num": 154063,
+        "word": "赵露思去林俊杰演唱会",
+        "onboard_time": 1711806199,
+        "rank": 35,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 138369,
+        "num": 138369,
+        "word": "猫妹妹",
+        "onboard_time": 1711845017,
+        "rank": 36,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 136628,
+        "num": 136628,
+        "word": "亲妈收了百万彩礼却不给嫁妆",
+        "onboard_time": 1711814898,
+        "rank": 37,
+        "category": "剧集,情感"
+      },
+      {
+        "raw_hot": 134076,
+        "num": 134076,
+        "word": "当你约公司顶梁柱出来旅游",
+        "onboard_time": 1711851738,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 132794,
+        "num": 132794,
+        "word": "长期睡前玩手机或要承担5个后果",
+        "onboard_time": 1711805359,
+        "rank": 39,
+        "category": "健康医疗,科学科普"
+      },
+      {
+        "raw_hot": 132695,
+        "num": 132695,
+        "word": "夏之光杂志销量",
+        "onboard_time": 1711848198,
+        "rank": 40,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 131766,
+        "num": 131766,
+        "word": "SEVENTEEN 堂吉诃德",
+        "onboard_time": 1711851617,
+        "rank": 41,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 129596,
+        "num": 129596,
+        "word": "魏若来梦女",
+        "onboard_time": 1711846636,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 129169,
+        "num": 129169,
+        "word": "原来恋爱脑真的不适合做饭",
+        "onboard_time": 1711846157,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 121581,
+        "num": 121581,
+        "word": "日本歌剧团承认自杀女星生前遭10人霸凌",
+        "onboard_time": 1711830190,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 116919,
+        "num": 116919,
+        "word": "判断睡眠好坏的3个关键",
+        "onboard_time": 1711850898,
+        "rank": 45,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 113229,
+        "num": 113229,
+        "word": "弟弟的床头柜挺潮的",
+        "onboard_time": 1711846937,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 112993,
+        "num": 112993,
+        "word": "6个月大柯基警犬巡逻人气好旺",
+        "onboard_time": 1711847718,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 110120,
+        "num": 110120,
+        "word": "法国向45个国家寻求安保协助",
+        "onboard_time": 1711852518,
+        "rank": 48,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 105814,
+        "num": 105814,
+        "word": "王逍遥",
+        "onboard_time": 1711850358,
+        "rank": 49,
+        "category": "电竞"
+      }
+    ],
+    "hotgov": {
+      "word": "#中共中央政治局召开会议#"
+    }
+  }
+}

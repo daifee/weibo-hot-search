@@ -1,6 +1,6 @@
 {
   "startTime": 1711815680412,
-  "endTime": 1711852000408,
+  "endTime": 1711852634961,
   "band_list": [
     {
       "raw_hot": 1290409,
@@ -35,6 +35,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 824314,
+      "num": 824314,
+      "word": "陈震回应删除与雷军合照",
+      "onboard_time": 1711850837,
+      "rank": 4,
+      "category": "互联网,汽车"
+    },
+    {
       "raw_hot": 730260,
       "num": 730260,
       "word": "郝蕾痛批朱梓骁",
@@ -44,7 +52,7 @@
     },
     {
       "raw_hot": 725389,
-      "num": 220540,
+      "num": 233647,
       "word": "奔驰加塞事件原视频",
       "onboard_time": 1711840453,
       "rank": 49,
@@ -73,14 +81,6 @@
       "onboard_time": 1711842014,
       "rank": 4,
       "category": "财经"
-    },
-    {
-      "raw_hot": 623419,
-      "num": 623419,
-      "word": "陈震回应删除与雷军合照",
-      "onboard_time": 1711850837,
-      "rank": 4,
-      "category": "互联网,汽车"
     },
     {
       "raw_hot": 588678,
@@ -155,6 +155,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 474110,
+      "num": 474110,
+      "word": "俄恐袭134名遇难者身份已确认",
+      "onboard_time": 1711851318,
+      "rank": 13,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 435370,
       "num": 435370,
       "word": "锦超曾因入戏太深恨其他演员",
@@ -171,12 +179,36 @@
       "category": "健康医疗,科学科普"
     },
     {
+      "raw_hot": 429422,
+      "num": 232743,
+      "word": "人体最薄的皮肤在哪",
+      "onboard_time": 1711851076,
+      "rank": 21,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 423246,
+      "num": 376869,
+      "word": "纪凌尘认为分手舆情影响他接戏",
+      "onboard_time": 1711852037,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 422709,
       "num": 422709,
       "word": "上海偶遇陆毅鲍蕾一家四口",
       "onboard_time": 1711814539,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 417163,
+      "num": 417163,
+      "word": "俄罗斯",
+      "onboard_time": 1711851378,
+      "rank": 25,
+      "category": "国外时政"
     },
     {
       "raw_hot": 408424,
@@ -211,8 +243,8 @@
       "category": "艺人,互联网"
     },
     {
-      "raw_hot": 380083,
-      "num": 380083,
+      "raw_hot": 380319,
+      "num": 380319,
       "word": "油价4月或进入8元时代",
       "onboard_time": 1711850358,
       "rank": 10,
@@ -227,14 +259,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 355891,
-      "num": 220044,
-      "word": "人体最薄的皮肤在哪",
-      "onboard_time": 1711851076,
-      "rank": 21,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 344834,
       "num": 344834,
       "word": "猫妹妹",
@@ -243,12 +267,12 @@
       "category": "网红"
     },
     {
-      "raw_hot": 311037,
-      "num": 311037,
-      "word": "俄恐袭134名遇难者身份已确认",
-      "onboard_time": 1711851318,
-      "rank": 13,
-      "category": "国外时政"
+      "raw_hot": 328323,
+      "num": 328323,
+      "word": "眼泪女王收视率",
+      "onboard_time": 1711846577,
+      "rank": 25,
+      "category": "剧集"
     },
     {
       "raw_hot": 308666,
@@ -259,12 +283,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 306438,
-      "num": 306438,
-      "word": "眼泪女王收视率",
-      "onboard_time": 1711846577,
-      "rank": 25,
-      "category": "剧集"
+      "raw_hot": 303916,
+      "num": 232104,
+      "word": "06年出生的今年要成年了",
+      "onboard_time": 1711848498,
+      "rank": 39,
+      "category": "幽默"
     },
     {
       "raw_hot": 302512,
@@ -283,12 +307,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 282330,
-      "num": 218515,
-      "word": "06年出生的今年要成年了",
-      "onboard_time": 1711848498,
-      "rank": 39,
-      "category": "幽默"
+      "raw_hot": 292040,
+      "num": 292040,
+      "word": "去东海救碧苍王",
+      "onboard_time": 1711849158,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 284063,
+      "num": 284063,
+      "word": "赵晴回应于正让自己减肥",
+      "onboard_time": 1711848618,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 278790,
@@ -307,28 +339,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 272308,
-      "num": 272308,
-      "word": "赵晴回应于正让自己减肥",
-      "onboard_time": 1711848618,
-      "rank": 40,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 264886,
       "num": 289744,
       "word": "金价再度爆发",
       "onboard_time": 1711792458,
       "rank": 14,
       "category": "财经"
-    },
-    {
-      "raw_hot": 254925,
-      "num": 254925,
-      "word": "去东海救碧苍王",
-      "onboard_time": 1711849158,
-      "rank": 18,
-      "category": "剧集"
     },
     {
       "raw_hot": 253560,
@@ -361,14 +377,6 @@
       "onboard_time": 1711846157,
       "rank": 28,
       "category": "情感"
-    },
-    {
-      "raw_hot": 215807,
-      "num": 215807,
-      "word": "俄罗斯",
-      "onboard_time": 1711851378,
-      "rank": 25,
-      "category": "国外时政"
     },
     {
       "raw_hot": 215015,
@@ -499,6 +507,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 156376,
+      "num": 156376,
+      "word": "魏哲鸣吴宣仪玫瑰花游戏",
+      "onboard_time": 1711852159,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 155537,
       "num": 155537,
       "word": "夏之光杂志销量",
@@ -604,7 +620,7 @@
     },
     {
       "raw_hot": 137397,
-      "num": 129589,
+      "num": 131766,
       "word": "SEVENTEEN 堂吉诃德",
       "onboard_time": 1711851617,
       "rank": 42,
@@ -617,6 +633,14 @@
       "onboard_time": 1711819755,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 134076,
+      "num": 134076,
+      "word": "当你约公司顶梁柱出来旅游",
+      "onboard_time": 1711851738,
+      "rank": 45,
+      "category": "幽默"
     },
     {
       "raw_hot": 128302,
@@ -665,14 +689,6 @@
       "onboard_time": 1711818135,
       "rank": 31,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 121332,
-      "num": 121332,
-      "word": "当你约公司顶梁柱出来旅游",
-      "onboard_time": 1711851738,
-      "rank": 45,
-      "category": "幽默"
     },
     {
       "raw_hot": 121182,
@@ -737,6 +753,14 @@
       "onboard_time": 1711850358,
       "rank": 48,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 110120,
+      "num": 110120,
+      "word": "法国向45个国家寻求安保协助",
+      "onboard_time": 1711852518,
+      "rank": 48,
+      "category": "国外时政"
     },
     {
       "raw_hot": 109769,
