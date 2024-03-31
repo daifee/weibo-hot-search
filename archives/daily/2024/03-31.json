@@ -1,6 +1,6 @@
 {
   "startTime": 1711815680412,
-  "endTime": 1711862201089,
+  "endTime": 1711863240476,
   "band_list": [
     {
       "raw_hot": 1590780,
@@ -75,12 +75,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 787594,
+      "num": 787594,
+      "word": "一句话让男人为我花了21万",
+      "onboard_time": 1711859597,
+      "rank": 36,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 772305,
       "num": 772305,
       "word": "济州岛被玩成江浙沪后花园了",
       "onboard_time": 1711853238,
       "rank": 10,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 732737,
+      "num": 732737,
+      "word": "赵露思林俊杰合照",
+      "onboard_time": 1711861518,
+      "rank": 13,
+      "category": "演出"
     },
     {
       "raw_hot": 730260,
@@ -107,19 +123,19 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 662737,
-      "num": 662737,
-      "word": "一句话让男人为我花了21万",
-      "onboard_time": 1711859597,
-      "rank": 36,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 643061,
       "num": 643061,
       "word": "郝蕾说纪凌尘就是实力不够",
       "onboard_time": 1711817955,
       "rank": 22,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 634607,
+      "num": 362946,
+      "word": "宁静 谁找你演二愣子",
+      "onboard_time": 1711861637,
+      "rank": 21,
       "category": "综艺"
     },
     {
@@ -395,14 +411,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 373748,
-      "num": 306623,
-      "word": "赵露思林俊杰合照",
-      "onboard_time": 1711861518,
-      "rank": 13,
-      "category": "演出"
-    },
-    {
       "raw_hot": 346401,
       "num": 297089,
       "word": "陈靖可回复",
@@ -467,12 +475,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 303722,
-      "num": 241668,
-      "word": "宁静 谁找你演二愣子",
-      "onboard_time": 1711861637,
-      "rank": 21,
-      "category": "综艺"
+      "raw_hot": 303773,
+      "num": 303773,
+      "word": "霸王茶姬 张杰演唱会",
+      "onboard_time": 1711862778,
+      "rank": 12,
+      "category": "演出,美食"
     },
     {
       "raw_hot": 302512,
@@ -537,6 +545,14 @@
       "onboard_time": 1711843938,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 270356,
+      "num": 201870,
+      "word": "陈星旭蓝发",
+      "onboard_time": 1711862657,
+      "rank": 25,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 264886,
@@ -699,6 +715,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 206344,
+      "num": 168893,
+      "word": "赵丽颖尹昉合作",
+      "onboard_time": 1711862838,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 205831,
       "num": 205831,
       "word": "刘宇演唱会 赠票",
@@ -737,6 +761,14 @@
       "onboard_time": 1711841174,
       "rank": 12,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 187085,
+      "num": 163887,
+      "word": "韩东君开车技术",
+      "onboard_time": 1711862117,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 185142,
@@ -963,6 +995,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 140846,
+      "num": 140846,
+      "word": "魏如萱演唱会",
+      "onboard_time": 1711862538,
+      "rank": 43,
+      "category": "演出"
+    },
+    {
       "raw_hot": 140735,
       "num": 140735,
       "word": "3月最后一天",
@@ -1083,20 +1123,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 122193,
-      "num": 122193,
-      "word": "韩东君开车技术",
-      "onboard_time": 1711862117,
-      "rank": 47,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 121182,
       "num": 121182,
       "word": "与凤行预告",
       "onboard_time": 1711811301,
       "rank": 41,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 120691,
+      "num": 156319,
+      "word": "夜校唢呐课500人抢16个名额",
+      "onboard_time": 1711862237,
+      "rank": 39,
+      "category": "教育"
     },
     {
       "raw_hot": 118268,
@@ -1139,6 +1179,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 114473,
+      "num": 114473,
+      "word": "大牌美妆为什么卖不动了",
+      "onboard_time": 1711863198,
+      "rank": 46,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 114166,
       "num": 114166,
       "word": "花间令",
@@ -1153,6 +1201,14 @@
       "onboard_time": 1711809500,
       "rank": 43,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 112532,
+      "num": 115527,
+      "word": "新疆喀什大风刮起百米沙墙",
+      "onboard_time": 1711862178,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 110878,
@@ -1267,14 +1323,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 89069,
-      "num": 115527,
-      "word": "新疆喀什大风刮起百米沙墙",
-      "onboard_time": 1711862178,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 88358,
       "num": 96029,
       "word": "原来这才是拜财神的正确方式",
@@ -1307,6 +1355,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 85036,
+      "num": 815907,
+      "word": "美好生活在云南",
+      "onboard_time": 1711858578,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 80044,
       "num": 80044,
       "word": "老人被冻一夜也没舍得冷孩子",
@@ -1329,14 +1385,6 @@
       "onboard_time": 1711805779,
       "rank": 44,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 72831,
-      "num": 815907,
-      "word": "美好生活在云南",
-      "onboard_time": 1711858578,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 72705,
@@ -1484,6 +1532,9 @@
     },
     {
       "word": "#中共中央政治局召开会议#"
+    },
+    {
+      "word": "#不断提升作品的精神能量文化内涵艺术价值#"
     }
   ]
 }
