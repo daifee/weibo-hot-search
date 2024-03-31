@@ -1,6 +1,6 @@
 {
   "startTime": 1711902044401,
-  "endTime": 1711903035433,
+  "endTime": 1711905326445,
   "band_list": [
     {
       "raw_hot": 1983650,
@@ -67,6 +67,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 699718,
+      "num": 699718,
+      "word": "张元英站姐发了刘耀文",
+      "onboard_time": 1711902258,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 595671,
       "num": 595671,
       "word": "上班七个月亏了两万多",
@@ -105,14 +113,6 @@
       "onboard_time": 1711896200,
       "rank": 15,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 450769,
-      "num": 450769,
-      "word": "张元英站姐发了刘耀文",
-      "onboard_time": 1711902258,
-      "rank": 14,
-      "category": "艺人"
     },
     {
       "raw_hot": 433013,
@@ -211,6 +211,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 180149,
+      "num": 180149,
+      "word": "3岁男童走失狗狗在山上陪了一夜",
+      "onboard_time": 1711901838,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 173737,
       "num": 173737,
       "word": "原来头像真的会影响第一印象",
@@ -259,6 +267,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 159165,
+      "num": 159165,
+      "word": "你家里床单多久换一次",
+      "onboard_time": 1711902197,
+      "rank": 27,
+      "category": "情感"
+    },
+    {
       "raw_hot": 156896,
       "num": 156896,
       "word": "赵露思内核",
@@ -281,6 +297,14 @@
       "onboard_time": 1711895659,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 146457,
+      "num": 146457,
+      "word": "夏之光胸沟",
+      "onboard_time": 1711903037,
+      "rank": 25,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 137935,
@@ -307,12 +331,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 128912,
-      "num": 153237,
-      "word": "你家里床单多久换一次",
-      "onboard_time": 1711902197,
+      "raw_hot": 136052,
+      "num": 136052,
+      "word": "金秀贤宋仲基两大爆剧男神同框",
+      "onboard_time": 1711903636,
       "rank": 27,
-      "category": "情感"
+      "category": "剧集"
     },
     {
       "raw_hot": 126120,
@@ -331,14 +355,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 120739,
-      "num": 152829,
-      "word": "3岁男童走失狗狗在山上陪了一夜",
-      "onboard_time": 1711901838,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 119239,
       "num": 119239,
       "word": "怪不得上班这么苦",
@@ -348,7 +364,7 @@
     },
     {
       "raw_hot": 116461,
-      "num": 170186,
+      "num": 190973,
       "word": "曼城vs阿森纳",
       "onboard_time": 1711896920,
       "rank": 28,
