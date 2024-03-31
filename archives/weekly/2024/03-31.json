@@ -1,6 +1,6 @@
 {
   "startTime": 1711815680412,
-  "endTime": 1711926982797,
+  "endTime": 1711928129368,
   "band_list": [
     {
       "raw_hot": 2776736,
@@ -387,6 +387,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 707533,
+      "num": 707533,
+      "word": "代号鸢 跑路",
+      "onboard_time": 1711926675,
+      "rank": 16,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 699718,
       "num": 699718,
       "word": "张元英站姐发了刘耀文",
@@ -747,6 +755,22 @@
       "category": "演出"
     },
     {
+      "raw_hot": 481782,
+      "num": 567487,
+      "word": "女子工作1年半胖40斤判若两人",
+      "onboard_time": 1711898120,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 477512,
+      "num": 786669,
+      "word": "一种娇妻文化似乎正在北美蔓延",
+      "onboard_time": 1711888277,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 475183,
       "num": 355040,
       "word": "娜扎红色泳衣",
@@ -827,20 +851,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 436467,
+      "num": 436467,
+      "word": "成都来福士交通事故造成2死2伤",
+      "onboard_time": 1711926855,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 435370,
       "num": 435370,
       "word": "锦超曾因入戏太深恨其他演员",
       "onboard_time": 1711850237,
       "rank": 8,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 433013,
-      "num": 786669,
-      "word": "一种娇妻文化似乎正在北美蔓延",
-      "onboard_time": 1711888277,
-      "rank": 28,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 431304,
@@ -1011,14 +1035,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 359663,
-      "num": 567487,
-      "word": "女子工作1年半胖40斤判若两人",
-      "onboard_time": 1711898120,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 346401,
       "num": 297089,
       "word": "陈靖可回复",
@@ -1113,6 +1129,14 @@
       "onboard_time": 1711866557,
       "rank": 23,
       "category": "情感"
+    },
+    {
+      "raw_hot": 313905,
+      "num": 313905,
+      "word": "金秀贤宋仲基两大爆剧男神同框",
+      "onboard_time": 1711903636,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 312759,
@@ -1225,6 +1249,14 @@
       "onboard_time": 1711895659,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 296819,
+      "num": 296819,
+      "word": "春天睡不好是正常现象",
+      "onboard_time": 1711920190,
+      "rank": 29,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 296690,
@@ -1355,6 +1387,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 270412,
+      "num": 270412,
+      "word": "成都警方回应迈巴赫撞倒多人",
+      "onboard_time": 1711927096,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 270356,
       "num": 201870,
       "word": "陈星旭蓝发",
@@ -1379,20 +1419,20 @@
       "category": "财经"
     },
     {
+      "raw_hot": 260447,
+      "num": 260447,
+      "word": "呼叫81192",
+      "onboard_time": 1711926557,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 257875,
       "num": 223429,
       "word": "肖战官宣代言",
       "onboard_time": 1711860437,
       "rank": 26,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 254710,
-      "num": 254710,
-      "word": "春天睡不好是正常现象",
-      "onboard_time": 1711920190,
-      "rank": 29,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 254598,
@@ -1441,14 +1481,6 @@
       "onboard_time": 1711898601,
       "rank": 26,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 248339,
-      "num": 248339,
-      "word": "金秀贤宋仲基两大爆剧男神同框",
-      "onboard_time": 1711903636,
-      "rank": 27,
-      "category": "剧集"
     },
     {
       "raw_hot": 248044,
@@ -1859,6 +1891,22 @@
       "category": "演出"
     },
     {
+      "raw_hot": 202172,
+      "num": 202172,
+      "word": "4月第一天",
+      "onboard_time": 1711927036,
+      "rank": 20,
+      "category": "情感,社会新闻"
+    },
+    {
+      "raw_hot": 200810,
+      "num": 200810,
+      "word": "四月你好",
+      "onboard_time": 1711927816,
+      "rank": 21,
+      "category": "情感"
+    },
+    {
       "raw_hot": 199988,
       "num": 199988,
       "word": "COA7小组赛",
@@ -1881,6 +1929,14 @@
       "onboard_time": 1711866619,
       "rank": 32,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 199162,
+      "num": 199162,
+      "word": "韩国人真的每天只睡4小时吗",
+      "onboard_time": 1711905374,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 199072,
@@ -1913,6 +1969,14 @@
       "onboard_time": 1711880418,
       "rank": 33,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 197335,
+      "num": 197335,
+      "word": "四月对我好一点",
+      "onboard_time": 1711927816,
+      "rank": 23,
+      "category": "情感"
     },
     {
       "raw_hot": 196516,
@@ -1953,6 +2017,14 @@
       "onboard_time": 1711801159,
       "rank": 45,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 192807,
+      "num": 192807,
+      "word": "深夜看见这种诡异蓝光请立刻报警",
+      "onboard_time": 1711900818,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 192693,
@@ -2179,6 +2251,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 177988,
+      "num": 177988,
+      "word": "王伟烈士牺牲23年了",
+      "onboard_time": 1711927036,
+      "rank": 27,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 176690,
       "num": 176690,
       "word": "赵奕欢回应演网大出身",
@@ -2201,14 +2281,6 @@
       "onboard_time": 1711813039,
       "rank": 30,
       "category": "演出"
-    },
-    {
-      "raw_hot": 175377,
-      "num": 151884,
-      "word": "深夜看见这种诡异蓝光请立刻报警",
-      "onboard_time": 1711900818,
-      "rank": 38,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 174830,
@@ -2257,14 +2329,6 @@
       "onboard_time": 1711870939,
       "rank": 36,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 168712,
-      "num": 168712,
-      "word": "代号鸢 跑路",
-      "onboard_time": 1711926675,
-      "rank": 16,
-      "category": "游戏"
     },
     {
       "raw_hot": 168324,
@@ -2345,14 +2409,6 @@
       "onboard_time": 1711895121,
       "rank": 38,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 163013,
-      "num": 134108,
-      "word": "韩国人真的每天只睡4小时吗",
-      "onboard_time": 1711905374,
-      "rank": 35,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 161151,
@@ -3043,14 +3099,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 111978,
-      "num": 111978,
-      "word": "呼叫81192",
-      "onboard_time": 1711926557,
-      "rank": 24,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 110878,
       "num": 110878,
       "word": "王逍遥",
@@ -3139,6 +3187,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 101437,
+      "num": 101437,
+      "word": "赵露思回复了林俊杰",
+      "onboard_time": 1711910711,
+      "rank": 15,
+      "category": "演出"
+    },
+    {
       "raw_hot": 98262,
       "num": 98262,
       "word": "宋雨琦在奔跑吧跳fate了",
@@ -3147,12 +3203,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 98046,
+      "num": 98046,
+      "word": "人民海军75周岁",
+      "onboard_time": 1711927036,
+      "rank": 35,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 97476,
       "num": 164526,
       "word": "汉代的三只小熊高压锅萌翻了",
       "onboard_time": 1711835891,
       "rank": 27,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 94855,
+      "num": 94855,
+      "word": "严浩翔首张个人EP",
+      "onboard_time": 1711926796,
+      "rank": 39,
+      "category": "音乐"
     },
     {
       "raw_hot": 94215,
@@ -3168,14 +3240,6 @@
       "word": "重师美院原院长被曝诱骗学生当小三",
       "onboard_time": 1711799476,
       "rank": 39,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 93100,
-      "num": 93100,
-      "word": "成都来福士交通事故造成2死2伤",
-      "onboard_time": 1711926855,
-      "rank": 27,
       "category": "社会新闻"
     },
     {
@@ -3201,14 +3265,6 @@
       "onboard_time": 1711845618,
       "rank": 49,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 88340,
-      "num": 82853,
-      "word": "赵露思回复了林俊杰",
-      "onboard_time": 1711910711,
-      "rank": 15,
-      "category": "演出"
     },
     {
       "raw_hot": 88244,
@@ -3251,6 +3307,22 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 82606,
+      "num": 82606,
+      "word": "四月文案",
+      "onboard_time": 1711927997,
+      "rank": 40,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 82220,
+      "num": 82220,
+      "word": "00后在体制内能闯出多大篓子",
+      "onboard_time": 1711927997,
+      "rank": 41,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 81225,
       "num": 123559,
       "word": "CBA",
@@ -3273,6 +3345,14 @@
       "onboard_time": 1711827851,
       "rank": 16,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 76275,
+      "num": 76275,
+      "word": "和爸妈一起旅游住进了浴缸",
+      "onboard_time": 1711908311,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 76151,
@@ -3331,12 +3411,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 63995,
+      "num": 63995,
+      "word": "enhypen回归时间",
+      "onboard_time": 1711928117,
+      "rank": 46,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 63003,
       "num": 63003,
       "word": "这届年轻人为何爱上徒步登山",
       "onboard_time": 1711834511,
       "rank": 35,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 62537,
+      "num": 62537,
+      "word": "aespa的手臂",
+      "onboard_time": 1711911732,
+      "rank": 23,
+      "category": "演出"
     },
     {
       "raw_hot": 62214,
@@ -3363,14 +3459,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 58379,
-      "num": 58379,
-      "word": "严浩翔首张个人EP",
-      "onboard_time": 1711926796,
-      "rank": 39,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 57184,
       "num": 57184,
       "word": "山东泰山0比3上海申花",
@@ -3385,14 +3473,6 @@
       "onboard_time": 1711902258,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 55716,
-      "num": 55716,
-      "word": "和爸妈一起旅游住进了浴缸",
-      "onboard_time": 1711908311,
-      "rank": 47,
-      "category": "幽默"
     },
     {
       "raw_hot": 53020,
@@ -3433,14 +3513,6 @@
       "onboard_time": 1711912032,
       "rank": 44,
       "category": "时尚"
-    },
-    {
-      "raw_hot": 45087,
-      "num": 55663,
-      "word": "aespa的手臂",
-      "onboard_time": 1711911732,
-      "rank": 23,
-      "category": "演出"
     },
     {
       "raw_hot": 44491,
