@@ -1,10 +1,10 @@
 {
   "startTime": 1711815680412,
-  "endTime": 1711866038783,
+  "endTime": 1711866853376,
   "band_list": [
     {
-      "raw_hot": 1821657,
-      "num": 1821657,
+      "raw_hot": 2140814,
+      "num": 2140814,
       "word": "小米订单 strong男",
       "onboard_time": 1711864519,
       "rank": 0,
@@ -137,6 +137,14 @@
       "onboard_time": 1711861637,
       "rank": 21,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 696305,
+      "num": 478172,
+      "word": "雷军 我为张老师准备的车是顶配",
+      "onboard_time": 1711866498,
+      "rank": 10,
+      "category": "艺人,汽车"
     },
     {
       "raw_hot": 691845,
@@ -451,6 +459,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 349866,
+      "num": 210133,
+      "word": "邓超买了摆摊小孩所有的画",
+      "onboard_time": 1711866257,
+      "rank": 20,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 346401,
       "num": 297089,
       "word": "陈靖可回复",
@@ -465,6 +481,14 @@
       "onboard_time": 1711845017,
       "rank": 10,
       "category": "网红"
+    },
+    {
+      "raw_hot": 333616,
+      "num": 208713,
+      "word": "爸爸穿的太显眼竟把女儿气哭",
+      "onboard_time": 1711865598,
+      "rank": 27,
+      "category": "情感"
     },
     {
       "raw_hot": 328323,
@@ -489,6 +513,14 @@
       "onboard_time": 1711857798,
       "rank": 23,
       "category": "演出"
+    },
+    {
+      "raw_hot": 318487,
+      "num": 207857,
+      "word": "郝蕾的点评真是一针见血",
+      "onboard_time": 1711864817,
+      "rank": 16,
+      "category": "综艺"
     },
     {
       "raw_hot": 309342,
@@ -563,14 +595,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 280680,
-      "num": 206960,
-      "word": "郝蕾的点评真是一针见血",
-      "onboard_time": 1711864817,
-      "rank": 16,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 278790,
       "num": 250028,
       "word": "郑合惠子工作室发声",
@@ -588,7 +612,7 @@
     },
     {
       "raw_hot": 274531,
-      "num": 191855,
+      "num": 203384,
       "word": "欧阳娣娣情商",
       "onboard_time": 1711863557,
       "rank": 20,
@@ -609,6 +633,14 @@
       "onboard_time": 1711792458,
       "rank": 14,
       "category": "财经"
+    },
+    {
+      "raw_hot": 258657,
+      "num": 206533,
+      "word": "大学洗澡二十分钟被室友说太久",
+      "onboard_time": 1711866557,
+      "rank": 23,
+      "category": "情感"
     },
     {
       "raw_hot": 257875,
@@ -691,6 +723,22 @@
       "category": "情感"
     },
     {
+      "raw_hot": 232657,
+      "num": 203637,
+      "word": "娜扎把微博当朋友圈发",
+      "onboard_time": 1711865777,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 231698,
+      "num": 200470,
+      "word": "让她读到真大学了",
+      "onboard_time": 1711866798,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 231172,
       "num": 231172,
       "word": "穷人有钱后能挥霍到什么程度",
@@ -705,6 +753,14 @@
       "onboard_time": 1711846157,
       "rank": 28,
       "category": "情感"
+    },
+    {
+      "raw_hot": 218048,
+      "num": 218048,
+      "word": "小米SU7部分订单已排到半年左右",
+      "onboard_time": 1711866377,
+      "rank": 14,
+      "category": "汽车"
     },
     {
       "raw_hot": 215015,
@@ -740,7 +796,7 @@
     },
     {
       "raw_hot": 210621,
-      "num": 190914,
+      "num": 202338,
       "word": "被自己一个月的掉发量惊呆了",
       "onboard_time": 1711863739,
       "rank": 23,
@@ -795,12 +851,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 200806,
-      "num": 189427,
-      "word": "爸爸穿的太显眼竟把女儿气哭",
-      "onboard_time": 1711865598,
-      "rank": 27,
-      "category": "情感"
+      "raw_hot": 199660,
+      "num": 199660,
+      "word": "初夏的含金量还在上升",
+      "onboard_time": 1711866619,
+      "rank": 32,
+      "category": "电竞"
     },
     {
       "raw_hot": 199072,
@@ -827,8 +883,16 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 190196,
+      "num": 190196,
+      "word": "GR还在复活",
+      "onboard_time": 1711866557,
+      "rank": 34,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 187963,
-      "num": 187963,
+      "num": 200144,
       "word": "百日咳具有高度传染性",
       "onboard_time": 1711865177,
       "rank": 31,
@@ -923,6 +987,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 172240,
+      "num": 172240,
+      "word": "已婚男子王婆说媒相亲走红后道歉",
+      "onboard_time": 1711866318,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 167056,
       "num": 167056,
       "word": "高海宁控制不住纪凌尘",
@@ -945,14 +1017,6 @@
       "onboard_time": 1711860258,
       "rank": 36,
       "category": "美妆"
-    },
-    {
-      "raw_hot": 163007,
-      "num": 143728,
-      "word": "娜扎把微博当朋友圈发",
-      "onboard_time": 1711865777,
-      "rank": 40,
-      "category": "艺人"
     },
     {
       "raw_hot": 161151,
@@ -995,12 +1059,28 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 154257,
+      "num": 154257,
+      "word": "毛不易 一款非常易碎人士",
+      "onboard_time": 1711866438,
+      "rank": 40,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 153631,
       "num": 153631,
       "word": "百日咳",
       "onboard_time": 1711853838,
       "rank": 38,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 152989,
+      "num": 152989,
+      "word": "李晨郑恺周深宋雨琦跳TroubleMaker",
+      "onboard_time": 1711866138,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 152930,
@@ -1084,7 +1164,7 @@
     },
     {
       "raw_hot": 142568,
-      "num": 189027,
+      "num": 201261,
       "word": "新疆喀什大风刮起百米沙墙",
       "onboard_time": 1711862178,
       "rank": 49,
@@ -1484,7 +1564,7 @@
     },
     {
       "raw_hot": 80049,
-      "num": 117825,
+      "num": 125060,
       "word": "麦迪想去村BA打球",
       "onboard_time": 1711864338,
       "rank": 49,
