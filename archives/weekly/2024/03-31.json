@@ -1,6 +1,6 @@
 {
   "startTime": 1711815680412,
-  "endTime": 1711898157716,
+  "endTime": 1711899243179,
   "band_list": [
     {
       "raw_hot": 2776736,
@@ -187,6 +187,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 1066026,
+      "num": 654745,
+      "word": "迈巴赫成都来福士连续碾压多人",
+      "onboard_time": 1711897279,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1035412,
       "num": 1035412,
       "word": "赵丽颖首部水仙剧",
@@ -201,6 +209,14 @@
       "onboard_time": 1711866798,
       "rank": 30,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 907383,
+      "num": 587953,
+      "word": "成都",
+      "onboard_time": 1711897160,
+      "rank": 17,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 883192,
@@ -249,6 +265,14 @@
       "onboard_time": 1711874298,
       "rank": 6,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 805023,
+      "num": 805023,
+      "word": "24岁我还不能和男朋友出去旅游",
+      "onboard_time": 1711895720,
+      "rank": 7,
+      "category": "情感"
     },
     {
       "raw_hot": 803710,
@@ -313,14 +337,6 @@
       "onboard_time": 1711888637,
       "rank": 10,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 730280,
-      "num": 730280,
-      "word": "24岁我还不能和男朋友出去旅游",
-      "onboard_time": 1711895720,
-      "rank": 7,
-      "category": "情感"
     },
     {
       "raw_hot": 730260,
@@ -787,14 +803,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 426443,
-      "num": 426443,
-      "word": "迈巴赫成都来福士连续碾压多人",
-      "onboard_time": 1711897279,
-      "rank": 15,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 422709,
       "num": 422709,
       "word": "上海偶遇陆毅鲍蕾一家四口",
@@ -859,11 +867,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 393697,
-      "num": 393697,
-      "word": "成都",
-      "onboard_time": 1711897160,
-      "rank": 17,
+      "raw_hot": 390413,
+      "num": 786669,
+      "word": "一种娇妻文化似乎正在北美蔓延",
+      "onboard_time": 1711888277,
+      "rank": 28,
       "category": "社会新闻"
     },
     {
@@ -889,6 +897,14 @@
       "onboard_time": 1711852518,
       "rank": 48,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 383955,
+      "num": 383955,
+      "word": "张新成 我们还是不要散了",
+      "onboard_time": 1711897101,
+      "rank": 22,
+      "category": "演出"
     },
     {
       "raw_hot": 381425,
@@ -923,6 +939,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 371010,
+      "num": 371010,
+      "word": "蔡徐坤ins",
+      "onboard_time": 1711899020,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 366559,
       "num": 366559,
       "word": "当了四年后爸第一次被女儿喊爸",
@@ -947,14 +971,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 361616,
-      "num": 674571,
-      "word": "一种娇妻文化似乎正在北美蔓延",
-      "onboard_time": 1711888277,
-      "rank": 28,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 346401,
       "num": 297089,
       "word": "陈靖可回复",
@@ -971,8 +987,16 @@
       "category": "网红"
     },
     {
+      "raw_hot": 344776,
+      "num": 233814,
+      "word": "雷军回应拦截小米SU7部分异常订单",
+      "onboard_time": 1711897940,
+      "rank": 43,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 342732,
-      "num": 644478,
+      "num": 688412,
       "word": "官方通报采耳店被认定非法行医罚22万",
       "onboard_time": 1711895240,
       "rank": 46,
@@ -1057,14 +1081,6 @@
       "onboard_time": 1711874657,
       "rank": 21,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 311036,
-      "num": 284488,
-      "word": "张新成 我们还是不要散了",
-      "onboard_time": 1711897101,
-      "rank": 22,
-      "category": "演出"
     },
     {
       "raw_hot": 309467,
@@ -1291,6 +1307,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 267338,
+      "num": 237693,
+      "word": "贾玲减肥后刘维痛失代表作",
+      "onboard_time": 1711898601,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 266135,
       "num": 266135,
       "word": "凯迪拉克回应海报暗讽小米SU7",
@@ -1353,6 +1377,14 @@
       "onboard_time": 1711872737,
       "rank": 21,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 250872,
+      "num": 236981,
+      "word": "赵露思内核",
+      "onboard_time": 1711898601,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 248044,
@@ -1435,6 +1467,14 @@
       "category": "剧集,情感"
     },
     {
+      "raw_hot": 237740,
+      "num": 237740,
+      "word": "愚人节换头像",
+      "onboard_time": 1711898601,
+      "rank": 24,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 236966,
       "num": 236966,
       "word": "于正说衡门有狐播完白鹿就是超一线",
@@ -1473,6 +1513,14 @@
       "onboard_time": 1711859417,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 233757,
+      "num": 233757,
+      "word": "赵丽颖工作室不让薅沈璃头发",
+      "onboard_time": 1711898000,
+      "rank": 41,
+      "category": "剧集"
     },
     {
       "raw_hot": 232826,
@@ -2003,6 +2051,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 180765,
+      "num": 236515,
+      "word": "女子工作1年半胖40斤判若两人",
+      "onboard_time": 1711898120,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 179827,
       "num": 208066,
       "word": "吴艳妮说自己不是网红",
@@ -2123,6 +2179,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 170466,
+      "num": 170466,
+      "word": "微博之夜北京卫视",
+      "onboard_time": 1711898480,
+      "rank": 43,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 169982,
       "num": 169982,
       "word": "追风者 好剧本",
@@ -2137,14 +2201,6 @@
       "onboard_time": 1711874597,
       "rank": 36,
       "category": "情感"
-    },
-    {
-      "raw_hot": 167319,
-      "num": 167319,
-      "word": "赵丽颖工作室不让薅沈璃头发",
-      "onboard_time": 1711898000,
-      "rank": 41,
-      "category": "剧集"
     },
     {
       "raw_hot": 167155,
@@ -2219,14 +2275,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 164073,
-      "num": 164073,
-      "word": "雷军回应拦截小米SU7部分异常订单",
-      "onboard_time": 1711897940,
-      "rank": 43,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 161151,
       "num": 208676,
       "word": "81岁女儿跨越81年找到烈士父亲",
@@ -2289,6 +2337,14 @@
       "onboard_time": 1711881619,
       "rank": 40,
       "category": "演出"
+    },
+    {
+      "raw_hot": 155112,
+      "num": 155112,
+      "word": "怪不得上班这么苦",
+      "onboard_time": 1711898538,
+      "rank": 45,
+      "category": "幽默"
     },
     {
       "raw_hot": 154980,
@@ -2433,6 +2489,14 @@
       "onboard_time": 1711868118,
       "rank": 37,
       "category": "演出"
+    },
+    {
+      "raw_hot": 148359,
+      "num": 176217,
+      "word": "利物浦2比1布莱顿",
+      "onboard_time": 1711898239,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 146727,
@@ -2963,14 +3027,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 98560,
-      "num": 137640,
-      "word": "女子工作1年半胖40斤判若两人",
-      "onboard_time": 1711898120,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 98262,
       "num": 98262,
       "word": "宋雨琦在奔跑吧跳fate了",
@@ -3065,6 +3121,14 @@
       "onboard_time": 1711870098,
       "rank": 49,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 81225,
+      "num": 123559,
+      "word": "CBA",
+      "onboard_time": 1711896502,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 80049,
