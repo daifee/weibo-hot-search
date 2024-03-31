@@ -1,6 +1,6 @@
 {
   "startTime": 1711815680412,
-  "endTime": 1711899243179,
+  "endTime": 1711902044401,
   "band_list": [
     {
       "raw_hot": 2776736,
@@ -40,6 +40,14 @@
       "word": "聂远每月给老婆300万生活费",
       "onboard_time": 1711883359,
       "rank": 10,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1983650,
+      "num": 1983650,
+      "word": "愚人节站姐团建",
+      "onboard_time": 1711890498,
+      "rank": 15,
       "category": "艺人"
     },
     {
@@ -179,20 +187,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1093436,
+      "num": 654745,
+      "word": "迈巴赫成都来福士连续碾压多人",
+      "onboard_time": 1711897279,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1076261,
       "num": 1076261,
       "word": "骑行一个月后瘦了10斤",
       "onboard_time": 1711878557,
       "rank": 6,
       "category": "运动健身"
-    },
-    {
-      "raw_hot": 1066026,
-      "num": 654745,
-      "word": "迈巴赫成都来福士连续碾压多人",
-      "onboard_time": 1711897279,
-      "rank": 15,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1035412,
@@ -211,20 +219,20 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 945169,
+      "num": 945169,
+      "word": "贾玲减肥后刘维痛失代表作",
+      "onboard_time": 1711898601,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 907383,
       "num": 587953,
       "word": "成都",
       "onboard_time": 1711897160,
       "rank": 17,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 883192,
-      "num": 883192,
-      "word": "愚人节站姐团建",
-      "onboard_time": 1711890498,
-      "rank": 15,
-      "category": "艺人"
     },
     {
       "raw_hot": 877607,
@@ -241,6 +249,14 @@
       "onboard_time": 1711871958,
       "rank": 7,
       "category": "演出"
+    },
+    {
+      "raw_hot": 876023,
+      "num": 566137,
+      "word": "蔡徐坤ins",
+      "onboard_time": 1711899020,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 824314,
@@ -296,6 +312,14 @@
       "word": "一句话让男人为我花了21万",
       "onboard_time": 1711859597,
       "rank": 36,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 783055,
+      "num": 783055,
+      "word": "愚人节换头像",
+      "onboard_time": 1711898601,
+      "rank": 24,
       "category": "幽默"
     },
     {
@@ -505,6 +529,14 @@
       "onboard_time": 1711807459,
       "rank": 25,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 543477,
+      "num": 543477,
+      "word": "雷军回应拦截小米SU7部分异常订单",
+      "onboard_time": 1711897940,
+      "rank": 43,
+      "category": "汽车"
     },
     {
       "raw_hot": 541773,
@@ -787,6 +819,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 433013,
+      "num": 786669,
+      "word": "一种娇妻文化似乎正在北美蔓延",
+      "onboard_time": 1711888277,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 431304,
       "num": 431304,
       "word": "医院取精室里都有些什么",
@@ -867,14 +907,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 390413,
-      "num": 786669,
-      "word": "一种娇妻文化似乎正在北美蔓延",
-      "onboard_time": 1711888277,
-      "rank": 28,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 386789,
       "num": 386789,
       "word": "28岁我反而拥有了巨量快乐",
@@ -939,14 +971,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 371010,
-      "num": 371010,
-      "word": "蔡徐坤ins",
-      "onboard_time": 1711899020,
-      "rank": 20,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 366559,
       "num": 366559,
       "word": "当了四年后爸第一次被女儿喊爸",
@@ -971,6 +995,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 359663,
+      "num": 567487,
+      "word": "女子工作1年半胖40斤判若两人",
+      "onboard_time": 1711898120,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 346401,
       "num": 297089,
       "word": "陈靖可回复",
@@ -985,14 +1017,6 @@
       "onboard_time": 1711845017,
       "rank": 10,
       "category": "网红"
-    },
-    {
-      "raw_hot": 344776,
-      "num": 233814,
-      "word": "雷军回应拦截小米SU7部分异常订单",
-      "onboard_time": 1711897940,
-      "rank": 43,
-      "category": "汽车"
     },
     {
       "raw_hot": 342732,
@@ -1121,6 +1145,14 @@
       "onboard_time": 1711893140,
       "rank": 30,
       "category": "情感"
+    },
+    {
+      "raw_hot": 304483,
+      "num": 304483,
+      "word": "愚人节",
+      "onboard_time": 1711895360,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 303916,
@@ -1307,14 +1339,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 267338,
-      "num": 237693,
-      "word": "贾玲减肥后刘维痛失代表作",
-      "onboard_time": 1711898601,
-      "rank": 25,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 266135,
       "num": 266135,
       "word": "凯迪拉克回应海报暗讽小米SU7",
@@ -1384,6 +1408,14 @@
       "word": "赵露思内核",
       "onboard_time": 1711898601,
       "rank": 26,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 248081,
+      "num": 248081,
+      "word": "陈乔恩晒照纪念结婚两周年",
+      "onboard_time": 1711901060,
+      "rank": 21,
       "category": "艺人"
     },
     {
@@ -1467,12 +1499,12 @@
       "category": "剧集,情感"
     },
     {
-      "raw_hot": 237740,
-      "num": 237740,
-      "word": "愚人节换头像",
-      "onboard_time": 1711898601,
-      "rank": 24,
-      "category": "幽默"
+      "raw_hot": 237346,
+      "num": 237346,
+      "word": "林俊杰弹唱see you again",
+      "onboard_time": 1711901659,
+      "rank": 22,
+      "category": "演出"
     },
     {
       "raw_hot": 236966,
@@ -2051,14 +2083,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 180765,
-      "num": 236515,
-      "word": "女子工作1年半胖40斤判若两人",
-      "onboard_time": 1711898120,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 179827,
       "num": 208066,
       "word": "吴艳妮说自己不是网红",
@@ -2089,14 +2113,6 @@
       "onboard_time": 1711846937,
       "rank": 33,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 178673,
-      "num": 255115,
-      "word": "愚人节",
-      "onboard_time": 1711895360,
-      "rank": 34,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 178556,
@@ -2691,6 +2707,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 133995,
+      "num": 133995,
+      "word": "深夜看见这种诡异蓝光请立刻报警",
+      "onboard_time": 1711900818,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 130859,
       "num": 166915,
       "word": "DOU5战队晋级COA7全球总决赛",
@@ -2745,6 +2769,14 @@
       "onboard_time": 1711878618,
       "rank": 9,
       "category": "美食"
+    },
+    {
+      "raw_hot": 126120,
+      "num": 126120,
+      "word": "当猫咪以为主人给它做的绝育",
+      "onboard_time": 1711901118,
+      "rank": 39,
+      "category": "幽默"
     },
     {
       "raw_hot": 125455,
@@ -3225,6 +3257,14 @@
       "onboard_time": 1711840814,
       "rank": 33,
       "category": "体育"
+    },
+    {
+      "raw_hot": 59272,
+      "num": 96562,
+      "word": "3岁男童走失狗狗在山上陪了一夜",
+      "onboard_time": 1711901838,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 52856,

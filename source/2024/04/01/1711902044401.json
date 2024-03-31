@@ -1,0 +1,410 @@
+{
+  "runTime": 1711902044401,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1983650,
+        "num": 1983650,
+        "word": "愚人节站姐团建",
+        "onboard_time": 1711890498,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1029872,
+        "num": 1029872,
+        "word": "赵露思 澳门鬼迷日眼的照片",
+        "onboard_time": 1711892780,
+        "rank": 1,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 5329,
+        "num": 985619,
+        "word": "2024中国网络媒体论坛",
+        "onboard_time": 1711628721,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 945169,
+        "num": 945169,
+        "word": "贾玲减肥后刘维痛失代表作",
+        "onboard_time": 1711898601,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 783055,
+        "num": 783055,
+        "word": "愚人节换头像",
+        "onboard_time": 1711898601,
+        "rank": 4,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 703657,
+        "num": 703657,
+        "word": "鞠婧祎愿意为了角色扮丑",
+        "onboard_time": 1711895360,
+        "rank": 5,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 595671,
+        "num": 595671,
+        "word": "上班七个月亏了两万多",
+        "onboard_time": 1711894040,
+        "rank": 6,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 568561,
+        "num": 568561,
+        "word": "24岁我还不能和男朋友出去旅游",
+        "onboard_time": 1711895720,
+        "rank": 7,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 433013,
+        "num": 568105,
+        "word": "一种娇妻文化似乎正在北美蔓延",
+        "onboard_time": 1711888277,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 359663,
+        "num": 567487,
+        "word": "女子工作1年半胖40斤判若两人",
+        "onboard_time": 1711898120,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1093436,
+        "num": 567266,
+        "word": "迈巴赫成都来福士连续碾压多人",
+        "onboard_time": 1711897279,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 876023,
+        "num": 566137,
+        "word": "蔡徐坤ins",
+        "onboard_time": 1711899020,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 566126,
+        "num": 566126,
+        "word": "聂远每月给老婆300万生活费",
+        "onboard_time": 1711883359,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 766891,
+        "num": 554818,
+        "word": "成都",
+        "onboard_time": 1711897160,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 543477,
+        "num": 543477,
+        "word": "雷军回应拦截小米SU7部分异常订单",
+        "onboard_time": 1711897940,
+        "rank": 14,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 485469,
+        "num": 485469,
+        "word": "眼泪女王 宋仲基",
+        "onboard_time": 1711896200,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 419596,
+        "num": 419596,
+        "word": "张国荣",
+        "onboard_time": 1711889658,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 360421,
+        "num": 360421,
+        "word": "babymonster直播",
+        "onboard_time": 1711897340,
+        "rank": 17,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 304483,
+        "num": 304483,
+        "word": "愚人节",
+        "onboard_time": 1711895360,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 152747,
+        "num": 253946,
+        "word": "官方通报采耳店被认定非法行医罚22万",
+        "onboard_time": 1711895240,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 327009,
+        "num": 252617,
+        "word": "张新成 我们还是不要散了",
+        "onboard_time": 1711897101,
+        "rank": 20,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 248081,
+        "num": 248081,
+        "word": "陈乔恩晒照纪念结婚两周年",
+        "onboard_time": 1711901060,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 237346,
+        "num": 237346,
+        "word": "林俊杰弹唱see you again",
+        "onboard_time": 1711901659,
+        "rank": 22,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 198636,
+        "num": 198636,
+        "word": "原来工作了真的会没空了",
+        "onboard_time": 1711894220,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 173737,
+        "num": 173737,
+        "word": "原来头像真的会影响第一印象",
+        "onboard_time": 1711891820,
+        "rank": 24,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 202637,
+        "num": 173670,
+        "word": "陆婷怀孕",
+        "onboard_time": 1711881079,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 201662,
+        "num": 172550,
+        "word": "眼泪女王",
+        "onboard_time": 1711891159,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 136436,
+        "num": 171127,
+        "word": "已婚男子找王婆说媒妻子或将离婚",
+        "onboard_time": 1711890078,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 116461,
+        "num": 170186,
+        "word": "曼城vs阿森纳",
+        "onboard_time": 1711896920,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 73804,
+        "num": 169686,
+        "word": "大连有一条通向大海的街",
+        "onboard_time": 1711895479,
+        "rank": 29,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 193454,
+        "num": 168400,
+        "word": "迪丽热巴腿环",
+        "onboard_time": 1711883237,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 168319,
+        "num": 168319,
+        "word": "白桃星座",
+        "onboard_time": 1711895300,
+        "rank": 31,
+        "category": "情感,网红"
+      },
+      {
+        "raw_hot": 160089,
+        "num": 160089,
+        "word": "追风者23集 哭死了",
+        "onboard_time": 1711888218,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 159745,
+        "num": 159745,
+        "word": "赵丽颖工作室不让薅沈璃头发",
+        "onboard_time": 1711898000,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 159168,
+        "num": 159168,
+        "word": "李逍遥竟然是拂容君",
+        "onboard_time": 1711889239,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 156896,
+        "num": 156896,
+        "word": "赵露思内核",
+        "onboard_time": 1711898601,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 148105,
+        "num": 148105,
+        "word": "金智媛ins更新",
+        "onboard_time": 1711895659,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 137935,
+        "num": 137935,
+        "word": "工作人员回应小米SU7甩尾撞路边",
+        "onboard_time": 1711895121,
+        "rank": 37,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 133995,
+        "num": 133995,
+        "word": "深夜看见这种诡异蓝光请立刻报警",
+        "onboard_time": 1711900818,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 126120,
+        "num": 126120,
+        "word": "当猫咪以为主人给它做的绝育",
+        "onboard_time": 1711901118,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 137215,
+        "num": 125341,
+        "word": "时代少年团直播",
+        "onboard_time": 1711886358,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 123002,
+        "num": 123002,
+        "word": "鞠婧祎换了微博头像",
+        "onboard_time": 1711889838,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 119239,
+        "num": 119239,
+        "word": "怪不得上班这么苦",
+        "onboard_time": 1711898538,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 115870,
+        "num": 115870,
+        "word": "追风者编剧 牛",
+        "onboard_time": 1711891761,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 113425,
+        "num": 113425,
+        "word": "赵露思高定短裙",
+        "onboard_time": 1711888637,
+        "rank": 44,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 110899,
+        "num": 110899,
+        "word": "骑行一个月后瘦了10斤",
+        "onboard_time": 1711878557,
+        "rank": 45,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 108326,
+        "num": 108326,
+        "word": "哥斯拉每天从两万平米的大床上醒来",
+        "onboard_time": 1711895001,
+        "rank": 46,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 108029,
+        "num": 108029,
+        "word": "小时候不吃长大却接受了的食物",
+        "onboard_time": 1711888819,
+        "rank": 47,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 59272,
+        "num": 96562,
+        "word": "3岁男童走失狗狗在山上陪了一夜",
+        "onboard_time": 1711901838,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 55955,
+        "num": 92274,
+        "word": "山东泰山",
+        "onboard_time": 1711893140,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#要把为民造福作为最重要的政绩#"
+    }
+  }
+}
