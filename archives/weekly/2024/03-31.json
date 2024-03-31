@@ -1,6 +1,6 @@
 {
   "startTime": 1711815680412,
-  "endTime": 1711895635805,
+  "endTime": 1711898157716,
   "band_list": [
     {
       "raw_hot": 2776736,
@@ -83,6 +83,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 1499855,
+      "num": 1499855,
+      "word": "上班七个月亏了两万多",
+      "onboard_time": 1711894040,
+      "rank": 17,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 1435925,
       "num": 1435925,
       "word": "赵奕欢被制片人踢出了演员行列",
@@ -147,12 +155,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 1138275,
-      "num": 1138275,
-      "word": "上班七个月亏了两万多",
-      "onboard_time": 1711894040,
-      "rank": 17,
-      "category": "幽默"
+      "raw_hot": 1144310,
+      "num": 1144310,
+      "word": "鞠婧祎愿意为了角色扮丑",
+      "onboard_time": 1711895360,
+      "rank": 31,
+      "category": "音乐"
     },
     {
       "raw_hot": 1132862,
@@ -251,6 +259,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 792888,
+      "num": 792888,
+      "word": "babymonster直播",
+      "onboard_time": 1711897340,
+      "rank": 5,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 787594,
       "num": 787594,
       "word": "一句话让男人为我花了21万",
@@ -297,6 +313,14 @@
       "onboard_time": 1711888637,
       "rank": 10,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 730280,
+      "num": 730280,
+      "word": "24岁我还不能和男朋友出去旅游",
+      "onboard_time": 1711895720,
+      "rank": 7,
+      "category": "情感"
     },
     {
       "raw_hot": 730260,
@@ -361,6 +385,14 @@
       "onboard_time": 1711817955,
       "rank": 22,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 639278,
+      "num": 639278,
+      "word": "眼泪女王 宋仲基",
+      "onboard_time": 1711896200,
+      "rank": 10,
+      "category": "剧集"
     },
     {
       "raw_hot": 637053,
@@ -521,6 +553,14 @@
       "onboard_time": 1711856838,
       "rank": 10,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 517702,
+      "num": 517702,
+      "word": "工作人员回应小米SU7甩尾撞路边",
+      "onboard_time": 1711895121,
+      "rank": 28,
+      "category": "汽车"
     },
     {
       "raw_hot": 511653,
@@ -707,6 +747,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 451791,
+      "num": 451791,
+      "word": "白桃星座",
+      "onboard_time": 1711895300,
+      "rank": 23,
+      "category": "情感,网红"
+    },
+    {
       "raw_hot": 441886,
       "num": 441886,
       "word": "孙颖莎状态",
@@ -737,6 +785,14 @@
       "onboard_time": 1711851076,
       "rank": 21,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 426443,
+      "num": 426443,
+      "word": "迈巴赫成都来福士连续碾压多人",
+      "onboard_time": 1711897279,
+      "rank": 15,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 422709,
@@ -800,6 +856,14 @@
       "word": "学校通报美院原院长与学生不正当关系",
       "onboard_time": 1711844596,
       "rank": 7,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 393697,
+      "num": 393697,
+      "word": "成都",
+      "onboard_time": 1711897160,
+      "rank": 17,
       "category": "社会新闻"
     },
     {
@@ -883,20 +947,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 361616,
+      "num": 674571,
+      "word": "一种娇妻文化似乎正在北美蔓延",
+      "onboard_time": 1711888277,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 346401,
       "num": 297089,
       "word": "陈靖可回复",
       "onboard_time": 1711859237,
       "rank": 29,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 345256,
-      "num": 342215,
-      "word": "一种娇妻文化似乎正在北美蔓延",
-      "onboard_time": 1711888277,
-      "rank": 28,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 344834,
@@ -907,12 +971,28 @@
       "category": "网红"
     },
     {
+      "raw_hot": 342732,
+      "num": 644478,
+      "word": "官方通报采耳店被认定非法行医罚22万",
+      "onboard_time": 1711895240,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 337171,
       "num": 337171,
       "word": "广州冰雹",
       "onboard_time": 1711873578,
       "rank": 28,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 335896,
+      "num": 330435,
+      "word": "原来工作了真的会没空了",
+      "onboard_time": 1711894220,
+      "rank": 35,
+      "category": "情感"
     },
     {
       "raw_hot": 333616,
@@ -929,14 +1009,6 @@
       "onboard_time": 1711891761,
       "rank": 31,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 330435,
-      "num": 330435,
-      "word": "原来工作了真的会没空了",
-      "onboard_time": 1711894220,
-      "rank": 35,
-      "category": "情感"
     },
     {
       "raw_hot": 328323,
@@ -985,6 +1057,14 @@
       "onboard_time": 1711874657,
       "rank": 21,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 311036,
+      "num": 284488,
+      "word": "张新成 我们还是不要散了",
+      "onboard_time": 1711897101,
+      "rank": 22,
+      "category": "演出"
     },
     {
       "raw_hot": 309467,
@@ -1075,6 +1155,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 298682,
+      "num": 262419,
+      "word": "金智媛ins更新",
+      "onboard_time": 1711895659,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 296690,
       "num": 296690,
       "word": "男朋友妈妈叫我把微信头像换掉",
@@ -1137,14 +1225,6 @@
       "onboard_time": 1711885640,
       "rank": 20,
       "category": "情感"
-    },
-    {
-      "raw_hot": 281375,
-      "num": 281375,
-      "word": "白桃星座",
-      "onboard_time": 1711895300,
-      "rank": 23,
-      "category": "情感,网红"
     },
     {
       "raw_hot": 278790,
@@ -1315,14 +1395,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 243151,
-      "num": 243151,
-      "word": "工作人员回应小米SU7甩尾撞路边",
-      "onboard_time": 1711895121,
-      "rank": 28,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 240072,
       "num": 240072,
       "word": "西野七濑山田裕贵宣布结婚",
@@ -1473,6 +1545,14 @@
       "onboard_time": 1711879939,
       "rank": 26,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 222924,
+      "num": 222924,
+      "word": "赵露思说下部剧明年播",
+      "onboard_time": 1711895900,
+      "rank": 34,
+      "category": "剧集"
     },
     {
       "raw_hot": 218525,
@@ -1707,6 +1787,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 197970,
+      "num": 257813,
+      "word": "曼城vs阿森纳",
+      "onboard_time": 1711896920,
+      "rank": 27,
+      "category": "体育"
+    },
+    {
       "raw_hot": 197939,
       "num": 197939,
       "word": "花海曜五杀",
@@ -1721,6 +1809,14 @@
       "onboard_time": 1711879458,
       "rank": 29,
       "category": "体育"
+    },
+    {
+      "raw_hot": 196335,
+      "num": 196335,
+      "word": "突然看见十几年前妈妈的QQ空间",
+      "onboard_time": 1711896859,
+      "rank": 38,
+      "category": "情感"
     },
     {
       "raw_hot": 196161,
@@ -1739,12 +1835,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 193158,
-      "num": 193158,
-      "word": "鞠婧祎愿意为了角色扮丑",
-      "onboard_time": 1711895360,
-      "rank": 31,
-      "category": "音乐"
+      "raw_hot": 192693,
+      "num": 192693,
+      "word": "哥斯拉每天从两万平米的大床上醒来",
+      "onboard_time": 1711895001,
+      "rank": 32,
+      "category": "电影"
     },
     {
       "raw_hot": 191934,
@@ -1907,14 +2003,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 180234,
-      "num": 180234,
-      "word": "哥斯拉每天从两万平米的大床上醒来",
-      "onboard_time": 1711895001,
-      "rank": 32,
-      "category": "电影"
-    },
-    {
       "raw_hot": 179827,
       "num": 208066,
       "word": "吴艳妮说自己不是网红",
@@ -1948,7 +2036,7 @@
     },
     {
       "raw_hot": 178673,
-      "num": 178673,
+      "num": 255115,
       "word": "愚人节",
       "onboard_time": 1711895360,
       "rank": 34,
@@ -2051,6 +2139,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 167319,
+      "num": 167319,
+      "word": "赵丽颖工作室不让薅沈璃头发",
+      "onboard_time": 1711898000,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 167155,
       "num": 167155,
       "word": "国乒包揽女子单打冠亚军",
@@ -2091,6 +2187,14 @@
       "category": "读书作家"
     },
     {
+      "raw_hot": 166482,
+      "num": 166482,
+      "word": "欢乐颂",
+      "onboard_time": 1711897400,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 165845,
       "num": 165845,
       "word": "每平米美甲价格超一线城市房价",
@@ -2113,6 +2217,14 @@
       "onboard_time": 1711895121,
       "rank": 38,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 164073,
+      "num": 164073,
+      "word": "雷军回应拦截小米SU7部分异常订单",
+      "onboard_time": 1711897940,
+      "rank": 43,
+      "category": "汽车"
     },
     {
       "raw_hot": 161151,
@@ -2257,6 +2369,14 @@
       "onboard_time": 1711858099,
       "rank": 37,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 152164,
+      "num": 152164,
+      "word": "祁煜 海神的水床",
+      "onboard_time": 1711895900,
+      "rank": 45,
+      "category": "动漫,作品衍生"
     },
     {
       "raw_hot": 151943,
@@ -2436,7 +2556,7 @@
     },
     {
       "raw_hot": 138612,
-      "num": 165632,
+      "num": 252237,
       "word": "大连有一条通向大海的街",
       "onboard_time": 1711895479,
       "rank": 39,
@@ -2505,14 +2625,6 @@
       "onboard_time": 1711851738,
       "rank": 45,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 134022,
-      "num": 134022,
-      "word": "官方通报采耳店被认定非法行医罚22万",
-      "onboard_time": 1711895240,
-      "rank": 46,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 130859,
@@ -2849,6 +2961,14 @@
       "onboard_time": 1711865539,
       "rank": 39,
       "category": "教育"
+    },
+    {
+      "raw_hot": 98560,
+      "num": 137640,
+      "word": "女子工作1年半胖40斤判若两人",
+      "onboard_time": 1711898120,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 98262,
