@@ -1,6 +1,6 @@
 {
   "startTime": 1711815680412,
-  "endTime": 1711894479944,
+  "endTime": 1711895635805,
   "band_list": [
     {
       "raw_hot": 2776736,
@@ -9,6 +9,14 @@
       "onboard_time": 1711881079,
       "rank": 17,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 2171960,
+      "num": 2171960,
+      "word": "赵露思 澳门鬼迷日眼的照片",
+      "onboard_time": 1711892780,
+      "rank": 0,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 2140814,
@@ -33,14 +41,6 @@
       "onboard_time": 1711883359,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1967844,
-      "num": 1967844,
-      "word": "赵露思 澳门鬼迷日眼的照片",
-      "onboard_time": 1711892780,
-      "rank": 0,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 1734647,
@@ -147,6 +147,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 1138275,
+      "num": 1138275,
+      "word": "上班七个月亏了两万多",
+      "onboard_time": 1711894040,
+      "rank": 17,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 1132862,
       "num": 1132862,
       "word": "在人间官宣",
@@ -187,6 +195,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 883192,
+      "num": 883192,
+      "word": "愚人节站姐团建",
+      "onboard_time": 1711890498,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 877607,
       "num": 877607,
       "word": "吉克隽逸因司机迷路错过彩排",
@@ -201,14 +217,6 @@
       "onboard_time": 1711871958,
       "rank": 7,
       "category": "演出"
-    },
-    {
-      "raw_hot": 875876,
-      "num": 875876,
-      "word": "愚人节站姐团建",
-      "onboard_time": 1711890498,
-      "rank": 15,
-      "category": "艺人"
     },
     {
       "raw_hot": 824314,
@@ -315,6 +323,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 699540,
+      "num": 699540,
+      "word": "奔驰加塞事件男子砸车前遭对方车头碰撞",
+      "onboard_time": 1711892000,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 691845,
       "num": 691845,
       "word": "尔冬升说张栋梁是天生的变态",
@@ -393,14 +409,6 @@
       "onboard_time": 1711854259,
       "rank": 6,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 603369,
-      "num": 603369,
-      "word": "奔驰加塞事件男子砸车前遭对方车头碰撞",
-      "onboard_time": 1711892000,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 596495,
@@ -611,6 +619,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 495137,
+      "num": 398097,
+      "word": "订婚我妈也想要三金",
+      "onboard_time": 1711893200,
+      "rank": 22,
+      "category": "情感"
+    },
+    {
       "raw_hot": 494254,
       "num": 494254,
       "word": "赵丽颖早就明示拍在人间了",
@@ -697,14 +713,6 @@
       "onboard_time": 1711875077,
       "rank": 14,
       "category": "体育"
-    },
-    {
-      "raw_hot": 436041,
-      "num": 436041,
-      "word": "上班七个月亏了两万多",
-      "onboard_time": 1711894040,
-      "rank": 17,
-      "category": "幽默"
     },
     {
       "raw_hot": 435370,
@@ -803,6 +811,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 385461,
+      "num": 403496,
+      "word": "山东泰山",
+      "onboard_time": 1711893140,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
       "raw_hot": 384041,
       "num": 522123,
       "word": "法国向45个国家寻求安保协助",
@@ -867,14 +883,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 348515,
-      "num": 348515,
-      "word": "订婚我妈也想要三金",
-      "onboard_time": 1711893200,
-      "rank": 22,
-      "category": "情感"
-    },
-    {
       "raw_hot": 346401,
       "num": 297089,
       "word": "陈靖可回复",
@@ -915,6 +923,22 @@
       "category": "情感"
     },
     {
+      "raw_hot": 332320,
+      "num": 332320,
+      "word": "追风者编剧 牛",
+      "onboard_time": 1711891761,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 330435,
+      "num": 330435,
+      "word": "原来工作了真的会没空了",
+      "onboard_time": 1711894220,
+      "rank": 35,
+      "category": "情感"
+    },
+    {
       "raw_hot": 328323,
       "num": 328323,
       "word": "眼泪女王收视率",
@@ -939,28 +963,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 323360,
-      "num": 403496,
-      "word": "山东泰山",
-      "onboard_time": 1711893140,
-      "rank": 18,
-      "category": "体育"
-    },
-    {
       "raw_hot": 318487,
       "num": 207857,
       "word": "郝蕾的点评真是一针见血",
       "onboard_time": 1711864817,
       "rank": 16,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 317087,
-      "num": 317087,
-      "word": "追风者编剧 牛",
-      "onboard_time": 1711891761,
-      "rank": 31,
-      "category": "剧集"
     },
     {
       "raw_hot": 317074,
@@ -1099,7 +1107,7 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 289513,
+      "raw_hot": 290441,
       "num": 289513,
       "word": "沈璃复活",
       "onboard_time": 1711893800,
@@ -1129,6 +1137,14 @@
       "onboard_time": 1711885640,
       "rank": 20,
       "category": "情感"
+    },
+    {
+      "raw_hot": 281375,
+      "num": 281375,
+      "word": "白桃星座",
+      "onboard_time": 1711895300,
+      "rank": 23,
+      "category": "情感,网红"
     },
     {
       "raw_hot": 278790,
@@ -1243,12 +1259,28 @@
       "category": "艺人,互联网"
     },
     {
+      "raw_hot": 253510,
+      "num": 253510,
+      "word": "原来头像真的会影响第一印象",
+      "onboard_time": 1711891820,
+      "rank": 44,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 252327,
       "num": 226251,
       "word": "黄渤被张艺兴吓老了十岁",
       "onboard_time": 1711872737,
       "rank": 21,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 248044,
+      "num": 248044,
+      "word": "迪丽热巴对接辟谣去林俊杰演唱会",
+      "onboard_time": 1711894220,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 247869,
@@ -1281,6 +1313,14 @@
       "onboard_time": 1711854259,
       "rank": 19,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 243151,
+      "num": 243151,
+      "word": "工作人员回应小米SU7甩尾撞路边",
+      "onboard_time": 1711895121,
+      "rank": 28,
+      "category": "汽车"
     },
     {
       "raw_hot": 240072,
@@ -1411,14 +1451,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 225504,
-      "num": 225504,
-      "word": "原来头像真的会影响第一印象",
-      "onboard_time": 1711891820,
-      "rank": 44,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 224480,
       "num": 224480,
       "word": "林孝埈手势模仿赛",
@@ -1521,6 +1553,14 @@
       "onboard_time": 1711863739,
       "rank": 23,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 210198,
+      "num": 210198,
+      "word": "林葳致命失误",
+      "onboard_time": 1711894099,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 208693,
@@ -1627,14 +1667,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 202903,
-      "num": 180137,
-      "word": "迪丽热巴对接辟谣去林俊杰演唱会",
-      "onboard_time": 1711894220,
-      "rank": 39,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 199988,
       "num": 199988,
       "word": "COA7小组赛",
@@ -1705,6 +1737,14 @@
       "onboard_time": 1711801159,
       "rank": 45,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 193158,
+      "num": 193158,
+      "word": "鞠婧祎愿意为了角色扮丑",
+      "onboard_time": 1711895360,
+      "rank": 31,
+      "category": "音乐"
     },
     {
       "raw_hot": 191934,
@@ -1803,14 +1843,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 185701,
-      "num": 185701,
-      "word": "原来工作了真的会没空了",
-      "onboard_time": 1711894220,
-      "rank": 35,
-      "category": "情感"
-    },
-    {
       "raw_hot": 185154,
       "num": 187046,
       "word": "申花",
@@ -1875,6 +1907,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 180234,
+      "num": 180234,
+      "word": "哥斯拉每天从两万平米的大床上醒来",
+      "onboard_time": 1711895001,
+      "rank": 32,
+      "category": "电影"
+    },
+    {
       "raw_hot": 179827,
       "num": 208066,
       "word": "吴艳妮说自己不是网红",
@@ -1905,6 +1945,14 @@
       "onboard_time": 1711846937,
       "rank": 33,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 178673,
+      "num": 178673,
+      "word": "愚人节",
+      "onboard_time": 1711895360,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 178556,
@@ -1987,14 +2035,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 170593,
-      "num": 170593,
-      "word": "林葳致命失误",
-      "onboard_time": 1711894099,
-      "rank": 42,
-      "category": "体育"
-    },
-    {
       "raw_hot": 169982,
       "num": 169982,
       "word": "追风者 好剧本",
@@ -2057,6 +2097,22 @@
       "onboard_time": 1711860258,
       "rank": 36,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 165757,
+      "num": 165757,
+      "word": "爸妈给男朋友起的外号",
+      "onboard_time": 1711894760,
+      "rank": 37,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 165690,
+      "num": 165690,
+      "word": "沈璃碧苍色衣裙",
+      "onboard_time": 1711895121,
+      "rank": 38,
+      "category": "剧集"
     },
     {
       "raw_hot": 161151,
@@ -2379,6 +2435,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 138612,
+      "num": 165632,
+      "word": "大连有一条通向大海的街",
+      "onboard_time": 1711895479,
+      "rank": 39,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 138467,
       "num": 170987,
       "word": "你有没有很小众的择偶标准",
@@ -2441,6 +2505,14 @@
       "onboard_time": 1711851738,
       "rank": 45,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 134022,
+      "num": 134022,
+      "word": "官方通报采耳店被认定非法行医罚22万",
+      "onboard_time": 1711895240,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 130859,
@@ -3071,6 +3143,9 @@
     },
     {
       "word": "#不断提升作品的精神能量文化内涵艺术价值#"
+    },
+    {
+      "word": "#要把为民造福作为最重要的政绩#"
     }
   ]
 }
