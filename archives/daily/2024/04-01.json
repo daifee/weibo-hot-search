@@ -1,6 +1,6 @@
 {
   "startTime": 1711902044401,
-  "endTime": 1711905326445,
+  "endTime": 1711906460579,
   "band_list": [
     {
       "raw_hot": 1983650,
@@ -291,6 +291,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 149426,
+      "num": 149426,
+      "word": "金秀贤宋仲基两大爆剧男神同框",
+      "onboard_time": 1711903636,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 148105,
       "num": 148105,
       "word": "金智媛ins更新",
@@ -331,12 +339,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 136052,
-      "num": 136052,
-      "word": "金秀贤宋仲基两大爆剧男神同框",
-      "onboard_time": 1711903636,
-      "rank": 27,
-      "category": "剧集"
+      "raw_hot": 126391,
+      "num": 230998,
+      "word": "曼城vs阿森纳",
+      "onboard_time": 1711896920,
+      "rank": 28,
+      "category": "体育"
     },
     {
       "raw_hot": 126120,
@@ -361,14 +369,6 @@
       "onboard_time": 1711898538,
       "rank": 42,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 116461,
-      "num": 190973,
-      "word": "曼城vs阿森纳",
-      "onboard_time": 1711896920,
-      "rank": 28,
-      "category": "体育"
     },
     {
       "raw_hot": 115870,
@@ -411,12 +411,28 @@
       "category": "美食"
     },
     {
+      "raw_hot": 77351,
+      "num": 77351,
+      "word": "韩国人真的每天只睡4小时吗",
+      "onboard_time": 1711905374,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 73804,
       "num": 169686,
       "word": "大连有一条通向大海的街",
       "onboard_time": 1711895479,
       "rank": 29,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 57378,
+      "num": 57378,
+      "word": "Doinb疑似在韩国服兵役",
+      "onboard_time": 1711906153,
+      "rank": 39,
+      "category": "电竞"
     },
     {
       "raw_hot": 56713,
@@ -433,6 +449,14 @@
       "onboard_time": 1711893140,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 51202,
+      "num": 55339,
+      "word": "张杰演唱会来了好多明星",
+      "onboard_time": 1711888759,
+      "rank": 46,
+      "category": "演出"
     },
     {
       "raw_hot": 5329,
