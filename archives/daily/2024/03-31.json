@@ -1,6 +1,6 @@
 {
   "startTime": 1711815680412,
-  "endTime": 1711892034701,
+  "endTime": 1711894479944,
   "band_list": [
     {
       "raw_hot": 2776736,
@@ -35,12 +35,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1967844,
+      "num": 1967844,
+      "word": "赵露思 澳门鬼迷日眼的照片",
+      "onboard_time": 1711892780,
+      "rank": 0,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 1734647,
       "num": 1734647,
       "word": "雷军 我为张老师准备的车是顶配",
       "onboard_time": 1711866498,
       "rank": 10,
       "category": "艺人,汽车"
+    },
+    {
+      "raw_hot": 1680144,
+      "num": 1680144,
+      "word": "35岁才意识到工作是没有意义的",
+      "onboard_time": 1711888218,
+      "rank": 20,
+      "category": "情感"
     },
     {
       "raw_hot": 1590780,
@@ -187,6 +203,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 875876,
+      "num": 875876,
+      "word": "愚人节站姐团建",
+      "onboard_time": 1711890498,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 824314,
       "num": 824314,
       "word": "陈震回应删除与雷军合照",
@@ -291,14 +315,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 707492,
-      "num": 609059,
-      "word": "愚人节站姐团建",
-      "onboard_time": 1711890498,
-      "rank": 15,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 691845,
       "num": 691845,
       "word": "尔冬升说张栋梁是天生的变态",
@@ -308,19 +324,11 @@
     },
     {
       "raw_hot": 687681,
-      "num": 564823,
+      "num": 602336,
       "word": "鞠婧祎换了微博头像",
       "onboard_time": 1711889838,
       "rank": 12,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 675741,
-      "num": 675741,
-      "word": "35岁才意识到工作是没有意义的",
-      "onboard_time": 1711888218,
-      "rank": 20,
-      "category": "情感"
     },
     {
       "raw_hot": 651815,
@@ -387,6 +395,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 603369,
+      "num": 603369,
+      "word": "奔驰加塞事件男子砸车前遭对方车头碰撞",
+      "onboard_time": 1711892000,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 596495,
       "num": 560281,
       "word": "追风者23集 哭死了",
@@ -425,6 +441,22 @@
       "onboard_time": 1711856057,
       "rank": 45,
       "category": "演出"
+    },
+    {
+      "raw_hot": 564418,
+      "num": 502770,
+      "word": "眼泪女王",
+      "onboard_time": 1711807459,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 541773,
+      "num": 541773,
+      "word": "小时候不吃长大却接受了的食物",
+      "onboard_time": 1711888819,
+      "rank": 39,
+      "category": "美食"
     },
     {
       "raw_hot": 537642,
@@ -505,6 +537,14 @@
       "onboard_time": 1711855398,
       "rank": 16,
       "category": "电影"
+    },
+    {
+      "raw_hot": 506187,
+      "num": 648197,
+      "word": "已婚男子找王婆说媒妻子或将离婚",
+      "onboard_time": 1711890078,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 504859,
@@ -659,6 +699,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 436041,
+      "num": 436041,
+      "word": "上班七个月亏了两万多",
+      "onboard_time": 1711894040,
+      "rank": 17,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 435370,
       "num": 435370,
       "word": "锦超曾因入戏太深恨其他演员",
@@ -721,14 +769,6 @@
       "onboard_time": 1711887678,
       "rank": 25,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 410811,
-      "num": 648197,
-      "word": "已婚男子找王婆说媒妻子或将离婚",
-      "onboard_time": 1711890078,
-      "rank": 19,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 408424,
@@ -827,12 +867,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 347755,
-      "num": 343238,
-      "word": "眼泪女王",
-      "onboard_time": 1711807459,
-      "rank": 25,
-      "category": "剧集"
+      "raw_hot": 348515,
+      "num": 348515,
+      "word": "订婚我妈也想要三金",
+      "onboard_time": 1711893200,
+      "rank": 22,
+      "category": "情感"
     },
     {
       "raw_hot": 346401,
@@ -849,14 +889,6 @@
       "onboard_time": 1711888277,
       "rank": 28,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 345108,
-      "num": 345108,
-      "word": "小时候不吃长大却接受了的食物",
-      "onboard_time": 1711888819,
-      "rank": 39,
-      "category": "美食"
     },
     {
       "raw_hot": 344834,
@@ -907,12 +939,28 @@
       "category": "演出"
     },
     {
+      "raw_hot": 323360,
+      "num": 403496,
+      "word": "山东泰山",
+      "onboard_time": 1711893140,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
       "raw_hot": 318487,
       "num": 207857,
       "word": "郝蕾的点评真是一针见血",
       "onboard_time": 1711864817,
       "rank": 16,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 317087,
+      "num": 317087,
+      "word": "追风者编剧 牛",
+      "onboard_time": 1711891761,
+      "rank": 31,
+      "category": "剧集"
     },
     {
       "raw_hot": 317074,
@@ -961,6 +1009,14 @@
       "onboard_time": 1711866377,
       "rank": 14,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 307865,
+      "num": 239636,
+      "word": "假装不在意就是最严重的占有欲",
+      "onboard_time": 1711893140,
+      "rank": 30,
+      "category": "情感"
     },
     {
       "raw_hot": 303916,
@@ -1043,6 +1099,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 289513,
+      "num": 289513,
+      "word": "沈璃复活",
+      "onboard_time": 1711893800,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 286269,
       "num": 286269,
       "word": "追风者开虐",
@@ -1089,6 +1153,14 @@
       "onboard_time": 1711843938,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 274597,
+      "num": 383171,
+      "word": "警方将根据加塞事件原视频通报最新进展",
+      "onboard_time": 1711891159,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 274531,
@@ -1235,6 +1307,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 239325,
+      "num": 239325,
+      "word": "眼泪女王求婚",
+      "onboard_time": 1711893259,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 239158,
       "num": 214687,
       "word": "亲妈收了百万彩礼却不给嫁妆",
@@ -1329,6 +1409,14 @@
       "onboard_time": 1711883897,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 225504,
+      "num": 225504,
+      "word": "原来头像真的会影响第一印象",
+      "onboard_time": 1711891820,
+      "rank": 44,
+      "category": "幽默"
     },
     {
       "raw_hot": 224480,
@@ -1491,6 +1579,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 205862,
+      "num": 180572,
+      "word": "邓紫棋演唱会",
+      "onboard_time": 1711893559,
+      "rank": 38,
+      "category": "演出"
+    },
+    {
       "raw_hot": 205831,
       "num": 205831,
       "word": "刘宇演唱会 赠票",
@@ -1515,20 +1611,28 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 203711,
-      "num": 203711,
-      "word": "追风者编剧 牛",
-      "onboard_time": 1711891761,
-      "rank": 31,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 203245,
       "num": 189788,
       "word": "邓超有五哈团丑照",
       "onboard_time": 1711864878,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 203129,
+      "num": 203129,
+      "word": "林俊杰演唱会",
+      "onboard_time": 1711893319,
+      "rank": 33,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 202903,
+      "num": 180137,
+      "word": "迪丽热巴对接辟谣去林俊杰演唱会",
+      "onboard_time": 1711894220,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 199988,
@@ -1619,6 +1723,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 191360,
+      "num": 191360,
+      "word": "北京WBG周冠军",
+      "onboard_time": 1711894040,
+      "rank": 34,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 190196,
       "num": 190196,
       "word": "GR还在复活",
@@ -1691,6 +1803,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 185701,
+      "num": 185701,
+      "word": "原来工作了真的会没空了",
+      "onboard_time": 1711894220,
+      "rank": 35,
+      "category": "情感"
+    },
+    {
       "raw_hot": 185154,
       "num": 187046,
       "word": "申花",
@@ -1739,6 +1859,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 182690,
+      "num": 182690,
+      "word": "陈立农新歌",
+      "onboard_time": 1711893380,
+      "rank": 36,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 181291,
       "num": 181291,
       "word": "魏若来要脱粉回踩了",
@@ -1777,6 +1905,14 @@
       "onboard_time": 1711846937,
       "rank": 33,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 178556,
+      "num": 178556,
+      "word": "WE战胜OMG",
+      "onboard_time": 1711892960,
+      "rank": 40,
+      "category": "电竞"
     },
     {
       "raw_hot": 178483,
@@ -1851,6 +1987,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 170593,
+      "num": 170593,
+      "word": "林葳致命失误",
+      "onboard_time": 1711894099,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 169982,
       "num": 169982,
       "word": "追风者 好剧本",
@@ -1865,14 +2009,6 @@
       "onboard_time": 1711874597,
       "rank": 36,
       "category": "情感"
-    },
-    {
-      "raw_hot": 167324,
-      "num": 210300,
-      "word": "警方将根据加塞事件原视频通报最新进展",
-      "onboard_time": 1711891159,
-      "rank": 29,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 167155,
@@ -1947,12 +2083,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 157238,
+      "num": 157238,
+      "word": "三月再见",
+      "onboard_time": 1711893140,
+      "rank": 46,
+      "category": "情感"
+    },
+    {
       "raw_hot": 156376,
       "num": 156376,
       "word": "魏哲鸣吴宣仪玫瑰花游戏",
       "onboard_time": 1711852159,
       "rank": 34,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 155944,
+      "num": 155944,
+      "word": "魏若来沈图南 送别",
+      "onboard_time": 1711892180,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 155537,
@@ -2288,14 +2440,6 @@
       "word": "当你约公司顶梁柱出来旅游",
       "onboard_time": 1711851738,
       "rank": 45,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 131971,
-      "num": 131971,
-      "word": "原来头像真的会影响第一印象",
-      "onboard_time": 1711891820,
-      "rank": 44,
       "category": "幽默"
     },
     {
@@ -2635,14 +2779,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 101412,
-      "num": 106015,
-      "word": "奔驰加塞事件男子砸车前遭对方车头碰撞",
-      "onboard_time": 1711892000,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 98262,
       "num": 98262,
       "word": "宋雨琦在奔跑吧跳fate了",
@@ -2916,7 +3052,7 @@
     },
     {
       "raw_hot": 8385,
-      "num": 1047571,
+      "num": 1593171,
       "word": "2024中国网络媒体论坛",
       "onboard_time": 1711628721,
       "rank": 2,
