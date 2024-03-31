@@ -1,0 +1,410 @@
+{
+  "runTime": 1711874063762,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1334473,
+        "num": 1334473,
+        "word": "已婚男子王婆说媒相亲走红后道歉",
+        "onboard_time": 1711866318,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1316793,
+        "num": 1316793,
+        "word": "雷军 我为张老师准备的车是顶配",
+        "onboard_time": 1711866498,
+        "rank": 1,
+        "category": "艺人,汽车"
+      },
+      {
+        "raw_hot": 5085,
+        "num": 1047571,
+        "word": "2024中国网络媒体论坛",
+        "onboard_time": 1711628721,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1035412,
+        "num": 1035412,
+        "word": "赵丽颖首部水仙剧",
+        "onboard_time": 1711872139,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 859660,
+        "num": 859660,
+        "word": "让她读到真大学了",
+        "onboard_time": 1711866798,
+        "rank": 4,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 801733,
+        "num": 801733,
+        "word": "林俊杰发文感谢赵露思",
+        "onboard_time": 1711871958,
+        "rank": 5,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 788348,
+        "num": 788348,
+        "word": "魏直树和牛湘琴",
+        "onboard_time": 1711872077,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 666261,
+        "num": 666261,
+        "word": "小米订单 strong男",
+        "onboard_time": 1711864519,
+        "rank": 7,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 490372,
+        "num": 490372,
+        "word": "纪凌尘认为分手舆情影响他接戏",
+        "onboard_time": 1711852037,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 477404,
+        "num": 477404,
+        "word": "孙颖莎vs王曼昱",
+        "onboard_time": 1711871477,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 610481,
+        "num": 472402,
+        "word": "SU7 舒淇",
+        "onboard_time": 1711872498,
+        "rank": 10,
+        "category": "艺人,汽车"
+      },
+      {
+        "raw_hot": 460275,
+        "num": 460275,
+        "word": "鞠婧祎红毯",
+        "onboard_time": 1711868658,
+        "rank": 11,
+        "category": "音乐,时尚"
+      },
+      {
+        "raw_hot": 458594,
+        "num": 458594,
+        "word": "赵丽颖早就明示拍在人间了",
+        "onboard_time": 1711868717,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 48853,
+        "num": 398400,
+        "word": "美好生活在云南",
+        "onboard_time": 1711858578,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 370421,
+        "num": 370421,
+        "word": "疑被打死男童生母与其男友被刑拘",
+        "onboard_time": 1711867158,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 415165,
+        "num": 366523,
+        "word": "邓超买了摆摊小孩所有的画",
+        "onboard_time": 1711866257,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 331656,
+        "num": 331656,
+        "word": "赵露思林俊杰合照",
+        "onboard_time": 1711861518,
+        "rank": 16,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 306692,
+        "num": 306692,
+        "word": "Ning王疑似恋爱",
+        "onboard_time": 1711868419,
+        "rank": 17,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 268029,
+        "num": 268029,
+        "word": "一句话让男人为我花了21万",
+        "onboard_time": 1711859597,
+        "rank": 18,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 238265,
+        "num": 256438,
+        "word": "13岁女孩称帮同学取快递失踪7天",
+        "onboard_time": 1711872558,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 247848,
+        "num": 247848,
+        "word": "李荣浩杨丞琳新情头",
+        "onboard_time": 1711869797,
+        "rank": 20,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 240072,
+        "num": 240072,
+        "word": "西野七濑山田裕贵宣布结婚",
+        "onboard_time": 1711872558,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 234564,
+        "num": 234564,
+        "word": "大学洗澡二十分钟被室友说太久",
+        "onboard_time": 1711866557,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 227776,
+        "num": 227776,
+        "word": "马英九访问大陆11天完整行程公布",
+        "onboard_time": 1711867457,
+        "rank": 23,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 223847,
+        "num": 223847,
+        "word": "年轻人靠穿戴甲月入8万",
+        "onboard_time": 1711869317,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 233603,
+        "num": 221215,
+        "word": "赵奕欢被制片人踢出了演员行列",
+        "onboard_time": 1711853238,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 231189,
+        "num": 219983,
+        "word": "黄渤被张艺兴吓老了十岁",
+        "onboard_time": 1711872737,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 217396,
+        "num": 217396,
+        "word": "小米SU7部分订单已排到半年左右",
+        "onboard_time": 1711866377,
+        "rank": 27,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 217007,
+        "num": 217007,
+        "word": "广州冰雹",
+        "onboard_time": 1711873578,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 204995,
+        "num": 204995,
+        "word": "一诺爆改少爷",
+        "onboard_time": 1711870939,
+        "rank": 29,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 323120,
+        "num": 203180,
+        "word": "网友回应帮张颂文跟雷军要到小米SU7",
+        "onboard_time": 1711872737,
+        "rank": 30,
+        "category": "汽车,艺人"
+      },
+      {
+        "raw_hot": 199843,
+        "num": 199843,
+        "word": "赵奕欢 青春期",
+        "onboard_time": 1711872978,
+        "rank": 31,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 195864,
+        "num": 195864,
+        "word": "孙千回复",
+        "onboard_time": 1711855099,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 189083,
+        "num": 189083,
+        "word": "鞠婧祎黑纱满绣礼裙",
+        "onboard_time": 1711873157,
+        "rank": 33,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 183451,
+        "num": 183451,
+        "word": "哪个妈妈不心疼自己的崽呀",
+        "onboard_time": 1711873397,
+        "rank": 34,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 176939,
+        "num": 176939,
+        "word": "意外被父母看见了存款",
+        "onboard_time": 1711868357,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 174528,
+        "num": 174528,
+        "word": "金智媛宋仲基三搭",
+        "onboard_time": 1711868717,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 148486,
+        "num": 174413,
+        "word": "爸爸穿的太显眼竟把女儿气哭",
+        "onboard_time": 1711865598,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 117120,
+        "num": 170987,
+        "word": "你有没有很小众的择偶标准",
+        "onboard_time": 1711873939,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 114208,
+        "num": 169474,
+        "word": "什么时候开始不花家里钱的",
+        "onboard_time": 1711872858,
+        "rank": 39,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 84121,
+        "num": 167499,
+        "word": "泽连斯基被问到俄恐袭露出诡异微笑",
+        "onboard_time": 1711858998,
+        "rank": 40,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 165597,
+        "num": 165597,
+        "word": "宋仲基眼泪女王剧照",
+        "onboard_time": 1711864338,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 155127,
+        "num": 155127,
+        "word": "王鹤棣周也或将合作",
+        "onboard_time": 1711868477,
+        "rank": 42,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 152238,
+        "num": 152238,
+        "word": "追风者 好剧本",
+        "onboard_time": 1711870939,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 148018,
+        "num": 148018,
+        "word": "娜扎红色泳衣",
+        "onboard_time": 1711864456,
+        "rank": 44,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 146133,
+        "num": 146133,
+        "word": "魏若来要脱粉回踩了",
+        "onboard_time": 1711871057,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 130854,
+        "num": 130854,
+        "word": "在人间官宣",
+        "onboard_time": 1711856239,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 112859,
+        "num": 112859,
+        "word": "普京签署春季征兵令",
+        "onboard_time": 1711873397,
+        "rank": 47,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 111540,
+        "num": 111540,
+        "word": "LPL最佳新秀milkyway",
+        "onboard_time": 1711869377,
+        "rank": 48,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 102240,
+        "num": 102240,
+        "word": "女性太瘦并不是件好事",
+        "onboard_time": 1711854378,
+        "rank": 49,
+        "category": "健康医疗"
+      }
+    ],
+    "hotgov": {
+      "word": "#国有企业要纵深推进全面从严治党#"
+    }
+  }
+}
