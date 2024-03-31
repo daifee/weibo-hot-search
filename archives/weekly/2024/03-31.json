@@ -1,6 +1,6 @@
 {
   "startTime": 1711815680412,
-  "endTime": 1711877637335,
+  "endTime": 1711880268942,
   "band_list": [
     {
       "raw_hot": 2140814,
@@ -9,6 +9,14 @@
       "onboard_time": 1711864519,
       "rank": 0,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 2006543,
+      "num": 2006543,
+      "word": "梁靖崑冠军",
+      "onboard_time": 1711878797,
+      "rank": 0,
+      "category": "体育"
     },
     {
       "raw_hot": 1734647,
@@ -33,6 +41,14 @@
       "onboard_time": 1711866318,
       "rank": 36,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1535238,
+      "num": 1535238,
+      "word": "凯迪拉克海报暗讽小米SU7",
+      "onboard_time": 1711876997,
+      "rank": 7,
+      "category": "汽车"
     },
     {
       "raw_hot": 1435925,
@@ -155,6 +171,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 801674,
+      "num": 634218,
+      "word": "删了吧我有个朋友要生气了",
+      "onboard_time": 1711878557,
+      "rank": 10,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 787594,
       "num": 787594,
       "word": "一句话让男人为我花了21万",
@@ -211,20 +235,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 693101,
-      "num": 693101,
-      "word": "凯迪拉克海报暗讽小米SU7",
-      "onboard_time": 1711876997,
-      "rank": 7,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 691845,
       "num": 691845,
       "word": "尔冬升说张栋梁是天生的变态",
       "onboard_time": 1711811779,
       "rank": 4,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 651771,
+      "num": 651771,
+      "word": "骑行一个月后瘦了10斤",
+      "onboard_time": 1711878557,
+      "rank": 6,
+      "category": "运动健身"
     },
     {
       "raw_hot": 643061,
@@ -243,20 +267,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 633911,
+      "num": 633911,
+      "word": "仙剑一定档预告",
+      "onboard_time": 1711876039,
+      "rank": 15,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 628212,
       "num": 628212,
       "word": "荷兰欲砸近200亿元挽留光刻机巨头",
       "onboard_time": 1711842014,
       "rank": 4,
       "category": "财经"
-    },
-    {
-      "raw_hot": 617132,
-      "num": 617132,
-      "word": "仙剑一定档预告",
-      "onboard_time": 1711876039,
-      "rank": 15,
-      "category": "剧集"
     },
     {
       "raw_hot": 611580,
@@ -411,6 +435,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 502946,
+      "num": 502946,
+      "word": "梁靖崑vs雨果",
+      "onboard_time": 1711875619,
+      "rank": 16,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 502723,
+      "num": 502723,
+      "word": "警方通报5岁男童疑被打致死事件",
+      "onboard_time": 1711876458,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 502589,
       "num": 502589,
       "word": "马英九访问大陆11天完整行程公布",
@@ -547,14 +587,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 421553,
-      "num": 421553,
-      "word": "梁靖崑vs雨果",
-      "onboard_time": 1711875619,
-      "rank": 16,
-      "category": "体育"
-    },
-    {
       "raw_hot": 408424,
       "num": 408424,
       "word": "周雨彤苏晓彤是喝了多少",
@@ -633,6 +665,14 @@
       "onboard_time": 1711869797,
       "rank": 25,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 348855,
+      "num": 348855,
+      "word": "招行人均年薪降至61万",
+      "onboard_time": 1711877117,
+      "rank": 28,
+      "category": "财经"
     },
     {
       "raw_hot": 346401,
@@ -715,6 +755,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 309467,
+      "num": 309467,
+      "word": "凯迪拉克 商战",
+      "onboard_time": 1711878978,
+      "rank": 21,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 309342,
       "num": 329029,
       "word": "吃了词汇量大的亏",
@@ -787,6 +835,14 @@
       "category": "互联网,汽车"
     },
     {
+      "raw_hot": 294651,
+      "num": 294651,
+      "word": "下班后在出租屋偷偷流泪",
+      "onboard_time": 1711878197,
+      "rank": 22,
+      "category": "情感"
+    },
+    {
       "raw_hot": 292040,
       "num": 292040,
       "word": "去东海救碧苍王",
@@ -833,6 +889,14 @@
       "onboard_time": 1711863557,
       "rank": 20,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 271556,
+      "num": 271556,
+      "word": "seventeen回归",
+      "onboard_time": 1711876818,
+      "rank": 23,
+      "category": "演出"
     },
     {
       "raw_hot": 270813,
@@ -899,6 +963,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 248595,
+      "num": 248595,
+      "word": "男朋友妈妈叫我把微信头像换掉",
+      "onboard_time": 1711879939,
+      "rank": 25,
+      "category": "情感"
+    },
+    {
       "raw_hot": 247869,
       "num": 220586,
       "word": "早期赵奕欢",
@@ -913,14 +985,6 @@
       "onboard_time": 1711842794,
       "rank": 18,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 243428,
-      "num": 243428,
-      "word": "警方通报5岁男童疑被打致死事件",
-      "onboard_time": 1711876458,
-      "rank": 39,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 243359,
@@ -1011,20 +1075,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 223144,
+      "num": 223144,
+      "word": "清融轮换上场",
+      "onboard_time": 1711879939,
+      "rank": 26,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 218525,
       "num": 186143,
       "word": "原来恋爱脑真的不适合做饭",
       "onboard_time": 1711846157,
       "rank": 28,
       "category": "情感"
-    },
-    {
-      "raw_hot": 215236,
-      "num": 215236,
-      "word": "seventeen回归",
-      "onboard_time": 1711876818,
-      "rank": 23,
-      "category": "演出"
     },
     {
       "raw_hot": 215015,
@@ -1081,6 +1145,14 @@
       "onboard_time": 1711863739,
       "rank": 23,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 210032,
+      "num": 210032,
+      "word": "爸妈真的很害怕我过期",
+      "onboard_time": 1711878557,
+      "rank": 28,
+      "category": "情感"
     },
     {
       "raw_hot": 208509,
@@ -1179,6 +1251,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 196516,
+      "num": 196516,
+      "word": "梁靖崑4比1雨果",
+      "onboard_time": 1711879458,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 196161,
       "num": 196161,
       "word": "于正夸赵晴",
@@ -1209,14 +1289,6 @@
       "onboard_time": 1711869377,
       "rank": 33,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 188307,
-      "num": 188307,
-      "word": "招行人均年薪降至61万",
-      "onboard_time": 1711877117,
-      "rank": 28,
-      "category": "财经"
     },
     {
       "raw_hot": 187963,
@@ -1307,6 +1379,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 179478,
+      "num": 179478,
+      "word": "什么是水仙剧",
+      "onboard_time": 1711879398,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 179245,
       "num": 179245,
       "word": "鹿晗也逃不过科目三",
@@ -1337,6 +1417,14 @@
       "onboard_time": 1711876936,
       "rank": 33,
       "category": "演出"
+    },
+    {
+      "raw_hot": 177210,
+      "num": 177210,
+      "word": "上班后发现不上班更省钱",
+      "onboard_time": 1711880057,
+      "rank": 33,
+      "category": "幽默"
     },
     {
       "raw_hot": 176690,
@@ -1411,12 +1499,28 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 166670,
+      "num": 166670,
+      "word": "作家冯唐母亲去世",
+      "onboard_time": 1711877296,
+      "rank": 43,
+      "category": "读书作家"
+    },
+    {
       "raw_hot": 165845,
       "num": 165845,
       "word": "每平米美甲价格超一线城市房价",
       "onboard_time": 1711860258,
       "rank": 36,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 163619,
+      "num": 163619,
+      "word": "张碧晨 每一步都算数",
+      "onboard_time": 1711879577,
+      "rank": 36,
+      "category": "演出"
     },
     {
       "raw_hot": 161151,
@@ -1464,6 +1568,14 @@
       "word": "烈焰 在天上挂了三天终于开打了",
       "onboard_time": 1711869197,
       "rank": 43,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 154288,
+      "num": 154288,
+      "word": "牛来了",
+      "onboard_time": 1711878137,
+      "rank": 39,
       "category": "剧集"
     },
     {
@@ -1523,6 +1635,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 151943,
+      "num": 151943,
+      "word": "孙颖莎WTT冠军赛三冠王",
+      "onboard_time": 1711879039,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 150660,
       "num": 137841,
       "word": "赵丽颖翻牌评论",
@@ -1577,14 +1697,6 @@
       "onboard_time": 1711847358,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 146174,
-      "num": 146174,
-      "word": "作家冯唐母亲去世",
-      "onboard_time": 1711877296,
-      "rank": 43,
-      "category": "读书作家"
     },
     {
       "raw_hot": 146108,
@@ -1723,6 +1835,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 135873,
+      "num": 135873,
+      "word": "Hero对战eStar",
+      "onboard_time": 1711878797,
+      "rank": 46,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 134076,
       "num": 134076,
       "word": "当你约公司顶梁柱出来旅游",
@@ -1737,6 +1857,14 @@
       "onboard_time": 1711872498,
       "rank": 38,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 129120,
+      "num": 129120,
+      "word": "侯明昊近照",
+      "onboard_time": 1711878017,
+      "rank": 48,
+      "category": "艺人"
     },
     {
       "raw_hot": 128529,
@@ -1841,6 +1969,14 @@
       "onboard_time": 1711811301,
       "rank": 41,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 121007,
+      "num": 634405,
+      "word": "在青岛菜市场50元品尝春天的味道",
+      "onboard_time": 1711878618,
+      "rank": 9,
+      "category": "美食"
     },
     {
       "raw_hot": 120691,
@@ -2228,11 +2364,19 @@
     },
     {
       "raw_hot": 43176,
-      "num": 1026609,
+      "num": 1036445,
       "word": "万千气象看云南",
       "onboard_time": 1711807280,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 41496,
+      "num": 635699,
+      "word": "成都春季限定浪漫有多美",
+      "onboard_time": 1711878618,
+      "rank": 8,
+      "category": "旅游"
     },
     {
       "raw_hot": 40393,
