@@ -1,6 +1,6 @@
 {
   "startTime": 1711815680412,
-  "endTime": 1711906460579,
+  "endTime": 1711909218060,
   "band_list": [
     {
       "raw_hot": 2776736,
@@ -1915,6 +1915,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 195984,
+      "num": 195984,
+      "word": "Doinb疑似在韩国服兵役",
+      "onboard_time": 1711906153,
+      "rank": 39,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 195078,
       "num": 195078,
       "word": "与凤行",
@@ -3115,6 +3123,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 95570,
+      "num": 77351,
+      "word": "韩国人真的每天只睡4小时吗",
+      "onboard_time": 1711905374,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 94215,
       "num": 105448,
       "word": "听说打电话时什么东西都会接",
@@ -3219,14 +3235,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 77351,
-      "num": 77351,
-      "word": "韩国人真的每天只睡4小时吗",
-      "onboard_time": 1711905374,
-      "rank": 35,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 76151,
       "num": 68277,
       "word": "沈璃战损用了青衣谣",
@@ -3307,20 +3315,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 57378,
-      "num": 57378,
-      "word": "Doinb疑似在韩国服兵役",
-      "onboard_time": 1711906153,
-      "rank": 39,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 56713,
       "num": 76324,
       "word": "CBA季后赛晋级球队确定",
       "onboard_time": 1711902258,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 53020,
+      "num": 53020,
+      "word": "AHYEON中文",
+      "onboard_time": 1711906813,
+      "rank": 30,
+      "category": "音乐"
     },
     {
       "raw_hot": 52856,
@@ -3385,6 +3393,22 @@
       "onboard_time": 1711822632,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 38686,
+      "num": 37151,
+      "word": "王劲松出演拜月教主",
+      "onboard_time": 1711908493,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 25508,
+      "num": 33757,
+      "word": "和爸妈一起旅游住进了浴缸",
+      "onboard_time": 1711908311,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 24100,
