@@ -1,6 +1,6 @@
 {
   "startTime": 1711815680412,
-  "endTime": 1711841638468,
+  "endTime": 1711847906211,
   "band_list": [
     {
       "raw_hot": 1290409,
@@ -11,8 +11,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1030165,
-      "num": 1030165,
+      "raw_hot": 1100124,
+      "num": 1100124,
       "word": "每天久坐超4小时会怎样",
       "onboard_time": 1711812021,
       "rank": 1,
@@ -27,12 +27,36 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 725389,
+      "num": 214938,
+      "word": "奔驰加塞事件原视频",
+      "onboard_time": 1711840453,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 691845,
       "num": 691845,
       "word": "尔冬升说张栋梁是天生的变态",
       "onboard_time": 1711811779,
       "rank": 4,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 643061,
+      "num": 643061,
+      "word": "郝蕾说纪凌尘就是实力不够",
+      "onboard_time": 1711817955,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 628212,
+      "num": 628212,
+      "word": "荷兰欲砸近200亿元挽留光刻机巨头",
+      "onboard_time": 1711842014,
+      "rank": 4,
+      "category": "财经"
     },
     {
       "raw_hot": 588678,
@@ -75,20 +99,20 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 496335,
+      "num": 496335,
+      "word": "Jennie将于6月solo回归",
+      "onboard_time": 1711844296,
+      "rank": 5,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 484250,
       "num": 484250,
       "word": "赵露思去林俊杰演唱会",
       "onboard_time": 1711806199,
       "rank": 9,
       "category": "演出"
-    },
-    {
-      "raw_hot": 461634,
-      "num": 461634,
-      "word": "郝蕾说纪凌尘就是实力不够",
-      "onboard_time": 1711817955,
-      "rank": 22,
-      "category": "综艺"
     },
     {
       "raw_hot": 431304,
@@ -108,11 +132,35 @@
     },
     {
       "raw_hot": 408107,
-      "num": 163279,
+      "num": 204727,
       "word": "长期睡前玩手机或要承担5个后果",
       "onboard_time": 1711805359,
       "rank": 20,
       "category": "健康医疗,科学科普"
+    },
+    {
+      "raw_hot": 402396,
+      "num": 402396,
+      "word": "周雨彤苏晓彤是喝了多少",
+      "onboard_time": 1711844417,
+      "rank": 6,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 393460,
+      "num": 393460,
+      "word": "学校通报美院原院长与学生不正当关系",
+      "onboard_time": 1711844596,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 390807,
+      "num": 390807,
+      "word": "13岁男孩起诉妈妈归还100万房款",
+      "onboard_time": 1711845976,
+      "rank": 8,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 381425,
@@ -121,6 +169,14 @@
       "onboard_time": 1711798218,
       "rank": 12,
       "category": "艺人,互联网"
+    },
+    {
+      "raw_hot": 344834,
+      "num": 344834,
+      "word": "猫妹妹",
+      "onboard_time": 1711845017,
+      "rank": 10,
+      "category": "网红"
     },
     {
       "raw_hot": 308666,
@@ -147,6 +203,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 275156,
+      "num": 275156,
+      "word": "SHE合体为田馥甄庆生",
+      "onboard_time": 1711843938,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 264886,
       "num": 289744,
       "word": "金价再度爆发",
@@ -163,12 +227,36 @@
       "category": "艺人,互联网"
     },
     {
+      "raw_hot": 245771,
+      "num": 245771,
+      "word": "波兰总理称欧洲已进入战前时代",
+      "onboard_time": 1711842794,
+      "rank": 18,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 239158,
-      "num": 151294,
+      "num": 214687,
       "word": "亲妈收了百万彩礼却不给嫁妆",
       "onboard_time": 1711814898,
       "rank": 22,
       "category": "剧集,情感"
+    },
+    {
+      "raw_hot": 215640,
+      "num": 215640,
+      "word": "薛之谦回国",
+      "onboard_time": 1711846636,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 213039,
+      "num": 213039,
+      "word": "日本歌剧团承认自杀女星生前遭10人霸凌",
+      "onboard_time": 1711830190,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 212950,
@@ -179,12 +267,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 199920,
-      "num": 199920,
-      "word": "奔驰加塞事件原视频",
-      "onboard_time": 1711840453,
-      "rank": 49,
-      "category": "社会新闻"
+      "raw_hot": 206343,
+      "num": 204854,
+      "word": "眼泪女王收视率",
+      "onboard_time": 1711846577,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 200388,
+      "num": 200388,
+      "word": "吉克隽逸因司机迷路错过彩排",
+      "onboard_time": 1711847477,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 199072,
@@ -227,6 +323,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 182464,
+      "num": 182464,
+      "word": "原来恋爱脑真的不适合做饭",
+      "onboard_time": 1711846157,
+      "rank": 28,
+      "category": "情感"
+    },
+    {
       "raw_hot": 179094,
       "num": 149902,
       "word": "长期喝奶茶可能会导致抑郁焦虑",
@@ -243,6 +347,22 @@
       "category": "演出"
     },
     {
+      "raw_hot": 174754,
+      "num": 174754,
+      "word": "南昌暴雨",
+      "onboard_time": 1711846937,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 167056,
+      "num": 167056,
+      "word": "高海宁控制不住纪凌尘",
+      "onboard_time": 1711845496,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 166995,
       "num": 166995,
       "word": "小米汽车颜色",
@@ -251,12 +371,20 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 163611,
-      "num": 163611,
-      "word": "日本歌剧团承认自杀女星生前遭10人霸凌",
-      "onboard_time": 1711830190,
-      "rank": 18,
-      "category": "艺人"
+      "raw_hot": 165831,
+      "num": 165831,
+      "word": "弟弟的床头柜挺潮的",
+      "onboard_time": 1711846937,
+      "rank": 33,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 164190,
+      "num": 164190,
+      "word": "4天酒店游客仅住1天被赶走",
+      "onboard_time": 1711847117,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 152930,
@@ -265,6 +393,14 @@
       "onboard_time": 1711814898,
       "rank": 31,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 152561,
+      "num": 152561,
+      "word": "真正的亲密关系需要看见彼此",
+      "onboard_time": 1711845856,
+      "rank": 36,
+      "category": "情感"
     },
     {
       "raw_hot": 150660,
@@ -289,6 +425,22 @@
       "onboard_time": 1711803498,
       "rank": 35,
       "category": "演出"
+    },
+    {
+      "raw_hot": 142149,
+      "num": 142149,
+      "word": "魏若来梦女",
+      "onboard_time": 1711846636,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 141443,
+      "num": 141443,
+      "word": "黄旭熙solo新歌",
+      "onboard_time": 1711846157,
+      "rank": 38,
+      "category": "音乐"
     },
     {
       "raw_hot": 140735,
@@ -339,6 +491,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 123631,
+      "num": 123631,
+      "word": "赤脚医生回应给失足女看病获刑",
+      "onboard_time": 1711845317,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 123509,
       "num": 95109,
       "word": "王锵角色被锦超换掉",
@@ -348,7 +508,7 @@
     },
     {
       "raw_hot": 122768,
-      "num": 93924,
+      "num": 109033,
       "word": "刘亦菲谈保持容貌的方法",
       "onboard_time": 1711818135,
       "rank": 31,
@@ -368,6 +528,14 @@
       "word": "你好星期六预告",
       "onboard_time": 1711805539,
       "rank": 42,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 116197,
+      "num": 116197,
+      "word": "宁静一语惊醒梦中人",
+      "onboard_time": 1711843155,
+      "rank": 44,
       "category": "综艺"
     },
     {
@@ -395,6 +563,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 109769,
+      "num": 109769,
+      "word": "C罗帽子戏法",
+      "onboard_time": 1711843576,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 109364,
       "num": 99580,
       "word": "周深新歌蜃楼",
@@ -409,6 +585,14 @@
       "onboard_time": 1711806199,
       "rank": 44,
       "category": "演出"
+    },
+    {
+      "raw_hot": 106062,
+      "num": 106062,
+      "word": "打雷",
+      "onboard_time": 1711842736,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 104847,
@@ -435,6 +619,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 100968,
+      "num": 139833,
+      "word": "6个月大柯基警犬巡逻人气好旺",
+      "onboard_time": 1711847718,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 98262,
       "num": 98262,
       "word": "宋雨琦在奔跑吧跳fate了",
@@ -443,8 +635,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 93856,
-      "num": 93856,
+      "raw_hot": 97476,
+      "num": 164526,
       "word": "汉代的三只小熊高压锅萌翻了",
       "onboard_time": 1711835891,
       "rank": 27,
@@ -459,12 +651,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 91340,
+      "num": 91340,
+      "word": "眼泪女王第八集",
+      "onboard_time": 1711842254,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 89618,
       "num": 89618,
       "word": "丁程鑫00后的DNA动了",
       "onboard_time": 1711817175,
       "rank": 36,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 88358,
+      "num": 88358,
+      "word": "原来这才是拜财神的正确方式",
+      "onboard_time": 1711845618,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 88244,
@@ -619,6 +827,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 31663,
+      "num": 285590,
+      "word": "中央网信办整治涉企侵权信息乱象",
+      "onboard_time": 1711847358,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 16815,
       "num": 19489,
       "word": "把化妆过程拍成了化妆游戏",
@@ -627,8 +843,8 @@
       "category": "美妆"
     },
     {
-      "raw_hot": 3764,
-      "num": 480789,
+      "raw_hot": 7601,
+      "num": 675214,
       "word": "2024中国网络媒体论坛",
       "onboard_time": 1711628721,
       "rank": 2,
