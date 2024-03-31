@@ -1,6 +1,6 @@
 {
   "startTime": 1709223640991,
-  "endTime": 1711881285130,
+  "endTime": 1711883684088,
   "band_list": [
     {
       "raw_hot": 21250232,
@@ -529,6 +529,14 @@
       "onboard_time": 1711439478,
       "rank": 1,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 2776736,
+      "num": 810940,
+      "word": "陆婷怀孕",
+      "onboard_time": 1711881079,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 2703744,
@@ -18371,6 +18379,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 532712,
+      "num": 456065,
+      "word": "聂远每月给老婆300万生活费",
+      "onboard_time": 1711883359,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 532439,
       "num": 532439,
       "word": "烈焰首播口碑",
@@ -20883,6 +20899,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 483022,
+      "num": 483022,
+      "word": "谢娜拍的张杰",
+      "onboard_time": 1711881856,
+      "rank": 7,
+      "category": "演出"
+    },
+    {
       "raw_hot": 482985,
       "num": 358528,
       "word": "许凯把丁程鑫的手揽在怀里",
@@ -22425,6 +22449,14 @@
       "onboard_time": 1709291972,
       "rank": 7,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 455933,
+      "num": 455933,
+      "word": "小米汽车副总裁回应近期风波",
+      "onboard_time": 1711880298,
+      "rank": 19,
+      "category": "汽车"
     },
     {
       "raw_hot": 455890,
@@ -26867,6 +26899,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 381498,
+      "num": 287530,
+      "word": "迪丽热巴腿环",
+      "onboard_time": 1711883237,
+      "rank": 20,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 381299,
       "num": 381299,
       "word": "老师打电话屏幕上涌出一堆小脑袋",
@@ -28273,14 +28313,6 @@
       "onboard_time": 1711410858,
       "rank": 15,
       "category": "体育"
-    },
-    {
-      "raw_hot": 360827,
-      "num": 360827,
-      "word": "陆婷怀孕",
-      "onboard_time": 1711881079,
-      "rank": 17,
-      "category": "艺人"
     },
     {
       "raw_hot": 360598,
@@ -32761,14 +32793,6 @@
       "onboard_time": 1710256172,
       "rank": 18,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 305174,
-      "num": 305174,
-      "word": "小米汽车副总裁回应近期风波",
-      "onboard_time": 1711880298,
-      "rank": 19,
-      "category": "汽车"
     },
     {
       "raw_hot": 305168,
@@ -40955,6 +40979,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 239902,
+      "num": 239902,
+      "word": "什么是水仙剧",
+      "onboard_time": 1711879398,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 239872,
       "num": 239872,
       "word": "陈奕迅武汉",
@@ -45467,6 +45499,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 216430,
+      "num": 216430,
+      "word": "小米汽车回应建议舒淇代言SU7",
+      "onboard_time": 1711882218,
+      "rank": 25,
+      "category": "艺人,汽车"
+    },
+    {
       "raw_hot": 216420,
       "num": 216420,
       "word": "不可能的婚礼",
@@ -47979,6 +48019,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 206512,
+      "num": 206512,
+      "word": "DK战胜KT",
+      "onboard_time": 1711882877,
+      "rank": 27,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 206503,
       "num": 206503,
       "word": "我该怎样拒绝闺蜜的索取",
@@ -49609,14 +49657,6 @@
       "onboard_time": 1711602080,
       "rank": 34,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 201420,
-      "num": 201420,
-      "word": "什么是水仙剧",
-      "onboard_time": 1711879398,
-      "rank": 32,
-      "category": "剧集"
     },
     {
       "raw_hot": 201331,
@@ -53091,6 +53131,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 191934,
+      "num": 191934,
+      "word": "陈星旭直播",
+      "onboard_time": 1711883119,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 191832,
       "num": 191832,
       "word": "水培郁金香",
@@ -53345,6 +53393,14 @@
       "onboard_time": 1711166360,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 191300,
+      "num": 191300,
+      "word": "当了四年后爸第一次被女儿喊爸",
+      "onboard_time": 1711882158,
+      "rank": 30,
+      "category": "情感"
     },
     {
       "raw_hot": 191269,
@@ -58043,6 +58099,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 176101,
+      "num": 176101,
+      "word": "同事让公婆女儿蹭我的顺风车",
+      "onboard_time": 1711881498,
+      "rank": 33,
+      "category": "情感"
+    },
+    {
       "raw_hot": 176100,
       "num": 176100,
       "word": "张远称现在精神状态很稳定",
@@ -58617,6 +58681,14 @@
       "onboard_time": 1711090819,
       "rank": 35,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 174411,
+      "num": 174411,
+      "word": "isfp好像很喜欢奖励自己",
+      "onboard_time": 1711882518,
+      "rank": 35,
+      "category": "情感"
     },
     {
       "raw_hot": 174408,
@@ -59395,6 +59467,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 171934,
+      "num": 171934,
+      "word": "第五人格 ZETA",
+      "onboard_time": 1711883297,
+      "rank": 36,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 171925,
       "num": 171925,
       "word": "确诊淡人",
@@ -59465,6 +59545,14 @@
       "onboard_time": 1710316414,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 171660,
+      "num": 171660,
+      "word": "李冰冰周也 大花小花",
+      "onboard_time": 1711883597,
+      "rank": 37,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 171624,
@@ -60873,6 +60961,14 @@
       "onboard_time": 1711535058,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 167069,
+      "num": 567758,
+      "word": "女交警跪地救助心脏病患者累到虚脱",
+      "onboard_time": 1711880477,
+      "rank": 8,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 167058,
@@ -64963,6 +65059,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 155472,
+      "num": 155472,
+      "word": "张杰晒演唱会上的朋友们",
+      "onboard_time": 1711881619,
+      "rank": 40,
+      "category": "演出"
+    },
+    {
       "raw_hot": 155448,
       "num": 155448,
       "word": "踩屎感拖鞋或会毁坏你的脚",
@@ -66043,6 +66147,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 152646,
+      "num": 152646,
+      "word": "马龙樊振东坐一起看比赛",
+      "onboard_time": 1711881556,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 152625,
       "num": 152625,
       "word": "上班后对一切都失去了兴趣",
@@ -66929,6 +67041,14 @@
       "onboard_time": 1711619599,
       "rank": 33,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 150253,
+      "num": 150253,
+      "word": "陈震希望删雷军合影风波到此结束",
+      "onboard_time": 1711883541,
+      "rank": 45,
+      "category": "汽车"
     },
     {
       "raw_hot": 150241,
@@ -82225,14 +82345,6 @@
       "onboard_time": 1709345674,
       "rank": 49,
       "category": "美食"
-    },
-    {
-      "raw_hot": 88732,
-      "num": 567758,
-      "word": "女交警跪地救助心脏病患者累到虚脱",
-      "onboard_time": 1711880477,
-      "rank": 8,
-      "category": "社会正能量"
     },
     {
       "raw_hot": 88708,

@@ -1,7 +1,15 @@
 {
   "startTime": 1711815680412,
-  "endTime": 1711881285130,
+  "endTime": 1711883684088,
   "band_list": [
+    {
+      "raw_hot": 2776736,
+      "num": 810940,
+      "word": "陆婷怀孕",
+      "onboard_time": 1711881079,
+      "rank": 17,
+      "category": "艺人"
+    },
     {
       "raw_hot": 2140814,
       "num": 2140814,
@@ -355,6 +363,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 532712,
+      "num": 456065,
+      "word": "聂远每月给老婆300万生活费",
+      "onboard_time": 1711883359,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 532629,
       "num": 532629,
       "word": "孙千是陈靖可的理想型",
@@ -499,6 +515,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 483022,
+      "num": 483022,
+      "word": "谢娜拍的张杰",
+      "onboard_time": 1711881856,
+      "rank": 7,
+      "category": "演出"
+    },
+    {
       "raw_hot": 475183,
       "num": 355040,
       "word": "娜扎红色泳衣",
@@ -537,6 +561,14 @@
       "onboard_time": 1711872737,
       "rank": 30,
       "category": "汽车,艺人"
+    },
+    {
+      "raw_hot": 455933,
+      "num": 455933,
+      "word": "小米汽车副总裁回应近期风波",
+      "onboard_time": 1711880298,
+      "rank": 19,
+      "category": "汽车"
     },
     {
       "raw_hot": 441886,
@@ -627,6 +659,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 381498,
+      "num": 287530,
+      "word": "迪丽热巴腿环",
+      "onboard_time": 1711883237,
+      "rank": 20,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 381425,
       "num": 381425,
       "word": "雷军张颂文 霸道总裁爱上我",
@@ -665,14 +705,6 @@
       "onboard_time": 1711869797,
       "rank": 25,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 360827,
-      "num": 360827,
-      "word": "陆婷怀孕",
-      "onboard_time": 1711881079,
-      "rank": 17,
-      "category": "艺人"
     },
     {
       "raw_hot": 348855,
@@ -792,14 +824,6 @@
       "word": "小米SU7部分订单已排到半年左右",
       "onboard_time": 1711866377,
       "rank": 14,
-      "category": "汽车"
-    },
-    {
-      "raw_hot": 305174,
-      "num": 305174,
-      "word": "小米汽车副总裁回应近期风波",
-      "onboard_time": 1711880298,
-      "rank": 19,
       "category": "汽车"
     },
     {
@@ -1027,6 +1051,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 239902,
+      "num": 239902,
+      "word": "什么是水仙剧",
+      "onboard_time": 1711879398,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 239869,
       "num": 239869,
       "word": "娜扎把微博当朋友圈发",
@@ -1113,6 +1145,14 @@
       "onboard_time": 1711846157,
       "rank": 28,
       "category": "情感"
+    },
+    {
+      "raw_hot": 216430,
+      "num": 216430,
+      "word": "小米汽车回应建议舒淇代言SU7",
+      "onboard_time": 1711882218,
+      "rank": 25,
+      "category": "艺人,汽车"
     },
     {
       "raw_hot": 215015,
@@ -1203,6 +1243,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 206512,
+      "num": 206512,
+      "word": "DK战胜KT",
+      "onboard_time": 1711882877,
+      "rank": 27,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 206482,
       "num": 206482,
       "word": "南昌暴雨",
@@ -1241,14 +1289,6 @@
       "onboard_time": 1711864878,
       "rank": 26,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 201420,
-      "num": 201420,
-      "word": "什么是水仙剧",
-      "onboard_time": 1711879398,
-      "rank": 32,
-      "category": "剧集"
     },
     {
       "raw_hot": 199988,
@@ -1313,6 +1353,22 @@
       "onboard_time": 1711854678,
       "rank": 35,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 191934,
+      "num": 191934,
+      "word": "陈星旭直播",
+      "onboard_time": 1711883119,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 191300,
+      "num": 191300,
+      "word": "当了四年后爸第一次被女儿喊爸",
+      "onboard_time": 1711882158,
+      "rank": 30,
+      "category": "情感"
     },
     {
       "raw_hot": 190364,
@@ -1483,6 +1539,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 176101,
+      "num": 176101,
+      "word": "同事让公婆女儿蹭我的顺风车",
+      "onboard_time": 1711881498,
+      "rank": 33,
+      "category": "情感"
+    },
+    {
       "raw_hot": 175875,
       "num": 137968,
       "word": "张杰演唱会上海六场收官",
@@ -1497,6 +1561,30 @@
       "onboard_time": 1711869858,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 174411,
+      "num": 174411,
+      "word": "isfp好像很喜欢奖励自己",
+      "onboard_time": 1711882518,
+      "rank": 35,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 171934,
+      "num": 171934,
+      "word": "第五人格 ZETA",
+      "onboard_time": 1711883297,
+      "rank": 36,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 171660,
+      "num": 171660,
+      "word": "李冰冰周也 大花小花",
+      "onboard_time": 1711883597,
+      "rank": 37,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 171363,
@@ -1529,6 +1617,14 @@
       "onboard_time": 1711876879,
       "rank": 36,
       "category": "体育"
+    },
+    {
+      "raw_hot": 167069,
+      "num": 567758,
+      "word": "女交警跪地救助心脏病患者累到虚脱",
+      "onboard_time": 1711880477,
+      "rank": 8,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 167056,
@@ -1603,6 +1699,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 155472,
+      "num": 155472,
+      "word": "张杰晒演唱会上的朋友们",
+      "onboard_time": 1711881619,
+      "rank": 40,
+      "category": "演出"
+    },
+    {
       "raw_hot": 154980,
       "num": 154980,
       "word": "烈焰 在天上挂了三天终于开打了",
@@ -1659,6 +1763,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 152646,
+      "num": 152646,
+      "word": "马龙樊振东坐一起看比赛",
+      "onboard_time": 1711881556,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 152561,
       "num": 152561,
       "word": "真正的亲密关系需要看见彼此",
@@ -1689,6 +1801,14 @@
       "onboard_time": 1711807280,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 150253,
+      "num": 150253,
+      "word": "陈震希望删雷军合影风波到此结束",
+      "onboard_time": 1711883541,
+      "rank": 45,
+      "category": "汽车"
     },
     {
       "raw_hot": 149980,
@@ -2233,14 +2353,6 @@
       "onboard_time": 1711817175,
       "rank": 36,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 88732,
-      "num": 567758,
-      "word": "女交警跪地救助心脏病患者累到虚脱",
-      "onboard_time": 1711880477,
-      "rank": 8,
-      "category": "社会正能量"
     },
     {
       "raw_hot": 88358,

@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1711881285130,
+  "endTime": 1711883684088,
   "band_list": [
     {
       "raw_hot": 21250232,
@@ -2107,6 +2107,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 2776736,
+      "num": 810940,
+      "word": "陆婷怀孕",
+      "onboard_time": 1711881079,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 2775213,
       "num": 2775213,
       "word": "吃完头孢7天内不能喝酒",
@@ -2393,14 +2401,6 @@
       "onboard_time": 1708603776,
       "rank": 0,
       "category": "社会新闻,网红"
-    },
-    {
-      "raw_hot": 2655228,
-      "num": 2655228,
-      "word": "满舒克HPV检测呈阴性",
-      "onboard_time": 1710229771,
-      "rank": 0,
-      "category": "艺人"
     }
   ],
   "hotgov_list": [
