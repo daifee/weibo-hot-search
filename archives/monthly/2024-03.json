@@ -1,6 +1,6 @@
 {
   "startTime": 1709223640991,
-  "endTime": 1711880268942,
+  "endTime": 1711881285130,
   "band_list": [
     {
       "raw_hot": 21250232,
@@ -3491,6 +3491,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 1420306,
+      "num": 1126646,
+      "word": "删了吧我有个朋友要生气了",
+      "onboard_time": 1711878557,
+      "rank": 10,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 1417986,
       "num": 1417986,
       "word": "李诞cos孟宴臣",
@@ -6289,6 +6297,14 @@
       "onboard_time": 1709884649,
       "rank": 1,
       "category": "国内时政,动漫"
+    },
+    {
+      "raw_hot": 1076261,
+      "num": 1076261,
+      "word": "骑行一个月后瘦了10斤",
+      "onboard_time": 1711878557,
+      "rank": 6,
+      "category": "运动健身"
     },
     {
       "raw_hot": 1076153,
@@ -9849,14 +9865,6 @@
       "onboard_time": 1711322596,
       "rank": 25,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 801674,
-      "num": 634218,
-      "word": "删了吧我有个朋友要生气了",
-      "onboard_time": 1711878557,
-      "rank": 10,
-      "category": "幽默"
     },
     {
       "raw_hot": 800865,
@@ -13817,14 +13825,6 @@
       "onboard_time": 1710403533,
       "rank": 18,
       "category": "科学科普"
-    },
-    {
-      "raw_hot": 651771,
-      "num": 651771,
-      "word": "骑行一个月后瘦了10斤",
-      "onboard_time": 1711878557,
-      "rank": 6,
-      "category": "运动健身"
     },
     {
       "raw_hot": 651754,
@@ -28275,6 +28275,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 360827,
+      "num": 360827,
+      "word": "陆婷怀孕",
+      "onboard_time": 1711881079,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 360598,
       "num": 360598,
       "word": "会计专硕201",
@@ -32755,6 +32763,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 305174,
+      "num": 305174,
+      "word": "小米汽车副总裁回应近期风波",
+      "onboard_time": 1711880298,
+      "rank": 19,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 305168,
       "num": 305364,
       "word": "教资笔试今天开考",
@@ -33744,6 +33760,14 @@
       "word": "独居后终于理解了电视的意义",
       "onboard_time": 1710585935,
       "rank": 21,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 296690,
+      "num": 296690,
+      "word": "男朋友妈妈叫我把微信头像换掉",
+      "onboard_time": 1711879939,
+      "rank": 25,
       "category": "情感"
     },
     {
@@ -39523,14 +39547,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 248595,
-      "num": 248595,
-      "word": "男朋友妈妈叫我把微信头像换掉",
-      "onboard_time": 1711879939,
-      "rank": 25,
-      "category": "情感"
-    },
-    {
       "raw_hot": 248484,
       "num": 248484,
       "word": "俄罗斯一炼油厂起火",
@@ -40353,6 +40369,14 @@
       "onboard_time": 1709531792,
       "rank": 26,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 243584,
+      "num": 243584,
+      "word": "爸妈真的很害怕我过期",
+      "onboard_time": 1711878557,
+      "rank": 28,
+      "category": "情感"
     },
     {
       "raw_hot": 243563,
@@ -46955,14 +46979,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 210032,
-      "num": 210032,
-      "word": "爸妈真的很害怕我过期",
-      "onboard_time": 1711878557,
-      "rank": 28,
-      "category": "情感"
-    },
-    {
       "raw_hot": 209936,
       "num": 226759,
       "word": "借哥哥军装拍照的00后立二等功",
@@ -47305,6 +47321,14 @@
       "onboard_time": 1711175599,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 208693,
+      "num": 208693,
+      "word": "澳门世界杯",
+      "onboard_time": 1711880298,
+      "rank": 28,
+      "category": "体育"
     },
     {
       "raw_hot": 208681,
@@ -49587,6 +49611,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 201420,
+      "num": 201420,
+      "word": "什么是水仙剧",
+      "onboard_time": 1711879398,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 201331,
       "num": 201331,
       "word": "XYG太菜了",
@@ -50128,6 +50160,14 @@
       "word": "TES对战AL",
       "onboard_time": 1711275797,
       "rank": 33,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 199988,
+      "num": 199988,
+      "word": "COA7小组赛",
+      "onboard_time": 1711880717,
+      "rank": 31,
       "category": "电竞"
     },
     {
@@ -50841,6 +50881,14 @@
       "onboard_time": 1710915392,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 197939,
+      "num": 197939,
+      "word": "花海曜五杀",
+      "onboard_time": 1711880418,
+      "rank": 33,
+      "category": "电竞"
     },
     {
       "raw_hot": 197920,
@@ -57083,14 +57131,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 179478,
-      "num": 179478,
-      "word": "什么是水仙剧",
-      "onboard_time": 1711879398,
-      "rank": 32,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 179466,
       "num": 179466,
       "word": "30岁给20岁建议",
@@ -57409,6 +57449,14 @@
       "onboard_time": 1709899288,
       "rank": 31,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 178213,
+      "num": 178213,
+      "word": "张碧晨 每一步都算数",
+      "onboard_time": 1711879577,
+      "rank": 36,
+      "category": "演出"
     },
     {
       "raw_hot": 178211,
@@ -61905,14 +61953,6 @@
       "onboard_time": 1711261700,
       "rank": 39,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 163619,
-      "num": 163619,
-      "word": "张碧晨 每一步都算数",
-      "onboard_time": 1711879577,
-      "rank": 36,
-      "category": "演出"
     },
     {
       "raw_hot": 163598,
@@ -70115,6 +70155,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 141166,
+      "num": 141166,
+      "word": "Hero对战eStar",
+      "onboard_time": 1711878797,
+      "rank": 46,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 141163,
       "num": 141163,
       "word": "贵人鸟还没等来想要的贵人",
@@ -71977,14 +72025,6 @@
       "onboard_time": 1709441013,
       "rank": 37,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 135873,
-      "num": 135873,
-      "word": "Hero对战eStar",
-      "onboard_time": 1711878797,
-      "rank": 46,
-      "category": "电竞"
     },
     {
       "raw_hot": 135858,
@@ -75051,6 +75091,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 126635,
+      "num": 634405,
+      "word": "在青岛菜市场50元品尝春天的味道",
+      "onboard_time": 1711878618,
+      "rank": 9,
+      "category": "美食"
+    },
+    {
       "raw_hot": 126621,
       "num": 126621,
       "word": "马竞晋级欧冠八强",
@@ -76737,14 +76785,6 @@
       "onboard_time": 1710311071,
       "rank": 48,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 121007,
-      "num": 634405,
-      "word": "在青岛菜市场50元品尝春天的味道",
-      "onboard_time": 1711878618,
-      "rank": 9,
-      "category": "美食"
     },
     {
       "raw_hot": 120972,
@@ -82185,6 +82225,14 @@
       "onboard_time": 1709345674,
       "rank": 49,
       "category": "美食"
+    },
+    {
+      "raw_hot": 88732,
+      "num": 567758,
+      "word": "女交警跪地救助心脏病患者累到虚脱",
+      "onboard_time": 1711880477,
+      "rank": 8,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 88708,

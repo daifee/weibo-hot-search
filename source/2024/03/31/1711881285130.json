@@ -1,0 +1,410 @@
+{
+  "runTime": 1711881285130,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1762496,
+        "num": 1762496,
+        "word": "梁靖崑冠军",
+        "onboard_time": 1711878797,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1331004,
+        "num": 1331004,
+        "word": "凯迪拉克海报暗讽小米SU7",
+        "onboard_time": 1711876997,
+        "rank": 1,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 13656,
+        "num": 1131781,
+        "word": "万千气象看云南",
+        "onboard_time": 1711807280,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1420306,
+        "num": 1126646,
+        "word": "删了吧我有个朋友要生气了",
+        "onboard_time": 1711878557,
+        "rank": 3,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 1076261,
+        "num": 1076261,
+        "word": "骑行一个月后瘦了10斤",
+        "onboard_time": 1711878557,
+        "rank": 4,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 636008,
+        "num": 636008,
+        "word": "已婚男子王婆说媒相亲走红后道歉",
+        "onboard_time": 1711866318,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 572175,
+        "num": 572175,
+        "word": "赵丽颖首部水仙剧",
+        "onboard_time": 1711872139,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 569233,
+        "num": 569233,
+        "word": "林俊杰发文感谢赵露思",
+        "onboard_time": 1711871958,
+        "rank": 7,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 88732,
+        "num": 567758,
+        "word": "女交警跪地救助心脏病患者累到虚脱",
+        "onboard_time": 1711880477,
+        "rank": 8,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 126635,
+        "num": 567415,
+        "word": "在青岛菜市场50元品尝春天的味道",
+        "onboard_time": 1711878618,
+        "rank": 9,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 567267,
+        "num": 567267,
+        "word": "孙艺珍晒婚纱照",
+        "onboard_time": 1711874298,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 490863,
+        "num": 490863,
+        "word": "仙剑一定档预告",
+        "onboard_time": 1711876039,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 436343,
+        "num": 436343,
+        "word": "警方通报5岁男童疑被打致死事件",
+        "onboard_time": 1711876458,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 436048,
+        "num": 436048,
+        "word": "魏直树和牛湘琴",
+        "onboard_time": 1711872077,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 382375,
+        "num": 382375,
+        "word": "小米订单 strong男",
+        "onboard_time": 1711864519,
+        "rank": 14,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 380499,
+        "num": 380499,
+        "word": "让她读到真大学了",
+        "onboard_time": 1711866798,
+        "rank": 15,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 375157,
+        "num": 375157,
+        "word": "纪凌尘认为分手舆情影响他接戏",
+        "onboard_time": 1711852037,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 360827,
+        "num": 360827,
+        "word": "陆婷怀孕",
+        "onboard_time": 1711881079,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 357567,
+        "num": 357567,
+        "word": "孙颖莎冠军",
+        "onboard_time": 1711875498,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 305174,
+        "num": 305174,
+        "word": "小米汽车副总裁回应近期风波",
+        "onboard_time": 1711880298,
+        "rank": 19,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 345727,
+        "num": 303349,
+        "word": "招行人均年薪降至61万",
+        "onboard_time": 1711877117,
+        "rank": 20,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 296690,
+        "num": 296690,
+        "word": "男朋友妈妈叫我把微信头像换掉",
+        "onboard_time": 1711879939,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 295797,
+        "num": 295797,
+        "word": "13岁女孩称帮同学取快递失踪7天",
+        "onboard_time": 1711872558,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 247582,
+        "num": 247582,
+        "word": "梁靖崑vs雨果",
+        "onboard_time": 1711875619,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 247552,
+        "num": 247552,
+        "word": "凯迪拉克 商战",
+        "onboard_time": 1711878978,
+        "rank": 24,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 244802,
+        "num": 244802,
+        "word": "下班后在出租屋偷偷流泪",
+        "onboard_time": 1711878197,
+        "rank": 25,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 243622,
+        "num": 243622,
+        "word": "seventeen回归",
+        "onboard_time": 1711876818,
+        "rank": 26,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 243584,
+        "num": 243584,
+        "word": "爸妈真的很害怕我过期",
+        "onboard_time": 1711878557,
+        "rank": 27,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 208693,
+        "num": 208693,
+        "word": "澳门世界杯",
+        "onboard_time": 1711880298,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 201420,
+        "num": 201420,
+        "word": "什么是水仙剧",
+        "onboard_time": 1711879398,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 201341,
+        "num": 201341,
+        "word": "网友回应帮张颂文跟雷军要到小米SU7",
+        "onboard_time": 1711872737,
+        "rank": 30,
+        "category": "汽车,艺人"
+      },
+      {
+        "raw_hot": 199988,
+        "num": 199988,
+        "word": "COA7小组赛",
+        "onboard_time": 1711880717,
+        "rank": 31,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 199971,
+        "num": 199971,
+        "word": "清融轮换上场",
+        "onboard_time": 1711879939,
+        "rank": 32,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 197939,
+        "num": 197939,
+        "word": "花海曜五杀",
+        "onboard_time": 1711880418,
+        "rank": 33,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 182409,
+        "num": 182409,
+        "word": "账号零作品却涨粉400万背后故事看哭全网",
+        "onboard_time": 1711874657,
+        "rank": 34,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 178213,
+        "num": 178213,
+        "word": "张碧晨 每一步都算数",
+        "onboard_time": 1711879577,
+        "rank": 35,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 172763,
+        "num": 172763,
+        "word": "赵奕欢 青春期",
+        "onboard_time": 1711872978,
+        "rank": 36,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 162546,
+        "num": 162546,
+        "word": "上班后发现不上班更省钱",
+        "onboard_time": 1711880057,
+        "rank": 37,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 159752,
+        "num": 159752,
+        "word": "邓超买了摆摊小孩所有的画",
+        "onboard_time": 1711866257,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 156858,
+        "num": 156858,
+        "word": "鞠婧祎红毯",
+        "onboard_time": 1711868658,
+        "rank": 39,
+        "category": "音乐,时尚"
+      },
+      {
+        "raw_hot": 154705,
+        "num": 154705,
+        "word": "赵露思林俊杰合照",
+        "onboard_time": 1711861518,
+        "rank": 40,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 153661,
+        "num": 153661,
+        "word": "大学洗澡二十分钟被室友说太久",
+        "onboard_time": 1711866557,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 149239,
+        "num": 149239,
+        "word": "赵丽颖早就明示拍在人间了",
+        "onboard_time": 1711868717,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 146800,
+        "num": 146800,
+        "word": "赵奕欢被制片人踢出了演员行列",
+        "onboard_time": 1711853238,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 141166,
+        "num": 141166,
+        "word": "Hero对战eStar",
+        "onboard_time": 1711878797,
+        "rank": 44,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 137198,
+        "num": 137198,
+        "word": "作家冯唐母亲去世",
+        "onboard_time": 1711877296,
+        "rank": 45,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 129853,
+        "num": 129853,
+        "word": "鞠婧祎黑纱满绣礼裙",
+        "onboard_time": 1711873157,
+        "rank": 46,
+        "category": "音乐,时尚"
+      },
+      {
+        "raw_hot": 146891,
+        "num": 127613,
+        "word": "赵丽颖严选",
+        "onboard_time": 1711875141,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 124684,
+        "num": 124684,
+        "word": "孙颖莎WTT冠军赛三冠王",
+        "onboard_time": 1711879039,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 121199,
+        "num": 121199,
+        "word": "李荣浩杨丞琳新情头",
+        "onboard_time": 1711869797,
+        "rank": 49,
+        "category": "作品衍生"
+      }
+    ],
+    "hotgov": {
+      "word": "#不断提升作品的精神能量文化内涵艺术价值#"
+    }
+  }
+}
