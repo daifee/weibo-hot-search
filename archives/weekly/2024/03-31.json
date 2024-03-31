@@ -1,6 +1,6 @@
 {
   "startTime": 1711815680412,
-  "endTime": 1711891158312,
+  "endTime": 1711892034701,
   "band_list": [
     {
       "raw_hot": 2776736,
@@ -115,6 +115,14 @@
       "category": "健康医疗,科学科普"
     },
     {
+      "raw_hot": 1198308,
+      "num": 1198308,
+      "word": "张国荣",
+      "onboard_time": 1711889658,
+      "rank": 3,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1146601,
       "num": 1146601,
       "word": "孙千172高不到97斤",
@@ -185,14 +193,6 @@
       "onboard_time": 1711850837,
       "rank": 4,
       "category": "互联网,汽车"
-    },
-    {
-      "raw_hot": 819672,
-      "num": 819672,
-      "word": "张国荣",
-      "onboard_time": 1711889658,
-      "rank": 3,
-      "category": "艺人"
     },
     {
       "raw_hot": 812718,
@@ -291,12 +291,36 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 707492,
+      "num": 609059,
+      "word": "愚人节站姐团建",
+      "onboard_time": 1711890498,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 691845,
       "num": 691845,
       "word": "尔冬升说张栋梁是天生的变态",
       "onboard_time": 1711811779,
       "rank": 4,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 687681,
+      "num": 564823,
+      "word": "鞠婧祎换了微博头像",
+      "onboard_time": 1711889838,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 675741,
+      "num": 675741,
+      "word": "35岁才意识到工作是没有意义的",
+      "onboard_time": 1711888218,
+      "rank": 20,
+      "category": "情感"
     },
     {
       "raw_hot": 651815,
@@ -363,16 +387,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 608111,
-      "num": 275822,
-      "word": "35岁才意识到工作是没有意义的",
-      "onboard_time": 1711888218,
-      "rank": 20,
-      "category": "情感"
-    },
-    {
       "raw_hot": 596495,
-      "num": 535079,
+      "num": 560281,
       "word": "追风者23集 哭死了",
       "onboard_time": 1711888218,
       "rank": 17,
@@ -587,6 +603,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 474187,
+      "num": 474187,
+      "word": "李逍遥竟然是拂容君",
+      "onboard_time": 1711889239,
+      "rank": 13,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 474110,
       "num": 474110,
       "word": "俄恐袭134名遇难者身份已确认",
@@ -627,14 +651,6 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 447551,
-      "num": 447551,
-      "word": "鞠婧祎换了微博头像",
-      "onboard_time": 1711889838,
-      "rank": 12,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 441886,
       "num": 441886,
       "word": "孙颖莎状态",
@@ -667,14 +683,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 423170,
-      "num": 423170,
-      "word": "李逍遥竟然是拂容君",
-      "onboard_time": 1711889239,
-      "rank": 13,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 422709,
       "num": 422709,
       "word": "上海偶遇陆毅鲍蕾一家四口",
@@ -700,7 +708,7 @@
     },
     {
       "raw_hot": 413250,
-      "num": 561834,
+      "num": 622793,
       "word": "招行人均年薪降至61万",
       "onboard_time": 1711877117,
       "rank": 28,
@@ -713,6 +721,14 @@
       "onboard_time": 1711887678,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 410811,
+      "num": 648197,
+      "word": "已婚男子找王婆说媒妻子或将离婚",
+      "onboard_time": 1711890078,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 408424,
@@ -811,12 +827,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 351537,
-      "num": 351537,
-      "word": "愚人节站姐团建",
-      "onboard_time": 1711890498,
-      "rank": 15,
-      "category": "艺人"
+      "raw_hot": 347755,
+      "num": 343238,
+      "word": "眼泪女王",
+      "onboard_time": 1711807459,
+      "rank": 25,
+      "category": "剧集"
     },
     {
       "raw_hot": 346401,
@@ -827,20 +843,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 345256,
+      "num": 342215,
+      "word": "一种娇妻文化似乎正在北美蔓延",
+      "onboard_time": 1711888277,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 345108,
+      "num": 345108,
+      "word": "小时候不吃长大却接受了的食物",
+      "onboard_time": 1711888819,
+      "rank": 39,
+      "category": "美食"
+    },
+    {
       "raw_hot": 344834,
       "num": 344834,
       "word": "猫妹妹",
       "onboard_time": 1711845017,
       "rank": 10,
       "category": "网红"
-    },
-    {
-      "raw_hot": 340049,
-      "num": 245764,
-      "word": "一种娇妻文化似乎正在北美蔓延",
-      "onboard_time": 1711888277,
-      "rank": 28,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 337171,
@@ -1155,14 +1179,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 248720,
-      "num": 248720,
-      "word": "小时候不吃长大却接受了的食物",
-      "onboard_time": 1711888819,
-      "rank": 39,
-      "category": "美食"
-    },
-    {
       "raw_hot": 247869,
       "num": 220586,
       "word": "早期赵奕欢",
@@ -1251,6 +1267,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 234806,
+      "num": 234806,
+      "word": "渐冻症病因研究实现初步突破",
+      "onboard_time": 1711891039,
+      "rank": 45,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 234343,
       "num": 208995,
       "word": "郝蕾批评朱梓骁带货镜头切向佐",
@@ -1281,6 +1305,14 @@
       "onboard_time": 1711857499,
       "rank": 26,
       "category": "情感"
+    },
+    {
+      "raw_hot": 229437,
+      "num": 229437,
+      "word": "赵露思直播",
+      "onboard_time": 1711890020,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 228547,
@@ -1427,6 +1459,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 207892,
+      "num": 207892,
+      "word": "张杰演唱会来了好多明星",
+      "onboard_time": 1711888759,
+      "rank": 38,
+      "category": "演出"
+    },
+    {
       "raw_hot": 207796,
       "num": 207796,
       "word": "上班后才发现旅游是退休后的事",
@@ -1475,12 +1515,12 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 203853,
-      "num": 203434,
-      "word": "张杰演唱会来了好多明星",
-      "onboard_time": 1711888759,
-      "rank": 38,
-      "category": "演出"
+      "raw_hot": 203711,
+      "num": 203711,
+      "word": "追风者编剧 牛",
+      "onboard_time": 1711891761,
+      "rank": 31,
+      "category": "剧集"
     },
     {
       "raw_hot": 203245,
@@ -1555,6 +1595,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 195078,
+      "num": 195078,
+      "word": "与凤行",
+      "onboard_time": 1711801159,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 191934,
       "num": 191934,
       "word": "陈星旭直播",
@@ -1569,22 +1617,6 @@
       "onboard_time": 1711880057,
       "rank": 33,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 191553,
-      "num": 191553,
-      "word": "与凤行",
-      "onboard_time": 1711801159,
-      "rank": 45,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 190364,
-      "num": 138289,
-      "word": "眼泪女王",
-      "onboard_time": 1711807459,
-      "rank": 25,
-      "category": "剧集"
     },
     {
       "raw_hot": 190196,
@@ -1619,8 +1651,16 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 187709,
+      "num": 196186,
+      "word": "追风者",
+      "onboard_time": 1711890979,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 187678,
-      "num": 191682,
+      "num": 196355,
       "word": "我妈给我准备的嫁妆落满了灰",
       "onboard_time": 1711887798,
       "rank": 32,
@@ -1641,14 +1681,6 @@
       "onboard_time": 1711862117,
       "rank": 47,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 186788,
-      "num": 156927,
-      "word": "赵露思直播",
-      "onboard_time": 1711890020,
-      "rank": 41,
-      "category": "艺人"
     },
     {
       "raw_hot": 186154,
@@ -1811,14 +1843,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 171811,
-      "num": 247478,
-      "word": "已婚男子找王婆说媒妻子或将离婚",
-      "onboard_time": 1711890078,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 171363,
       "num": 171363,
       "word": "小狗狗的失望都写在了尾巴上",
@@ -1841,6 +1865,14 @@
       "onboard_time": 1711874597,
       "rank": 36,
       "category": "情感"
+    },
+    {
+      "raw_hot": 167324,
+      "num": 210300,
+      "word": "警方将根据加塞事件原视频通报最新进展",
+      "onboard_time": 1711891159,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 167155,
@@ -2259,6 +2291,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 131971,
+      "num": 131971,
+      "word": "原来头像真的会影响第一印象",
+      "onboard_time": 1711891820,
+      "rank": 44,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 130859,
       "num": 166915,
       "word": "DOU5战队晋级COA7全球总决赛",
@@ -2379,6 +2419,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 122940,
+      "num": 122940,
+      "word": "情绪稳定是两性长久相处的秘诀",
+      "onboard_time": 1711889838,
+      "rank": 47,
+      "category": "情感"
+    },
+    {
       "raw_hot": 122768,
       "num": 109033,
       "word": "刘亦菲谈保持容貌的方法",
@@ -2491,6 +2539,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 112779,
+      "num": 112779,
+      "word": "第一次外向换来一生内向",
+      "onboard_time": 1711891761,
+      "rank": 46,
+      "category": "情感"
+    },
+    {
       "raw_hot": 110878,
       "num": 110878,
       "word": "王逍遥",
@@ -2523,20 +2579,20 @@
       "category": "演出"
     },
     {
-      "raw_hot": 107118,
-      "num": 107118,
-      "word": "渐冻症病因研究实现初步突破",
-      "onboard_time": 1711891039,
-      "rank": 45,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 106062,
       "num": 106062,
       "word": "打雷",
       "onboard_time": 1711842736,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 105879,
+      "num": 591572,
+      "word": "肖战把春天穿身上",
+      "onboard_time": 1711890678,
+      "rank": 38,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 104908,
@@ -2579,12 +2635,12 @@
       "category": "教育"
     },
     {
-      "raw_hot": 100408,
-      "num": 105581,
-      "word": "情绪稳定是两性长久相处的秘诀",
-      "onboard_time": 1711889838,
-      "rank": 47,
-      "category": "情感"
+      "raw_hot": 101412,
+      "num": 106015,
+      "word": "奔驰加塞事件男子砸车前遭对方车头碰撞",
+      "onboard_time": 1711892000,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 98262,
@@ -2779,14 +2835,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 59612,
-      "num": 167323,
-      "word": "肖战把春天穿身上",
-      "onboard_time": 1711890678,
-      "rank": 38,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 52856,
       "num": 137992,
       "word": "员工请假照顾父亲00后老板提前发工资",
@@ -2820,7 +2868,7 @@
     },
     {
       "raw_hot": 41989,
-      "num": 205984,
+      "num": 216346,
       "word": "秦霄贤捧哏式狼人杀",
       "onboard_time": 1711887978,
       "rank": 48,
