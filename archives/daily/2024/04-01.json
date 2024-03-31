@@ -1,6 +1,6 @@
 {
   "startTime": 1711902044401,
-  "endTime": 1711912452982,
+  "endTime": 1711913659877,
   "band_list": [
     {
       "raw_hot": 1983650,
@@ -427,20 +427,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 88340,
+      "num": 68303,
+      "word": "赵露思回复了林俊杰",
+      "onboard_time": 1711910711,
+      "rank": 15,
+      "category": "演出"
+    },
+    {
       "raw_hot": 73804,
       "num": 169686,
       "word": "大连有一条通向大海的街",
       "onboard_time": 1711895479,
       "rank": 29,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 68303,
-      "num": 68303,
-      "word": "赵露思回复了林俊杰",
-      "onboard_time": 1711910711,
-      "rank": 15,
-      "category": "演出"
     },
     {
       "raw_hot": 56713,
@@ -505,6 +505,14 @@
       "onboard_time": 1711910771,
       "rank": 45,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 20922,
+      "num": 20922,
+      "word": "网红包MCM过气了吗",
+      "onboard_time": 1711912032,
+      "rank": 44,
+      "category": "时尚"
     },
     {
       "raw_hot": 5329,
