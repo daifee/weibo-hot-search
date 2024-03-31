@@ -1,6 +1,6 @@
 {
   "startTime": 1711815680412,
-  "endTime": 1711924434093,
+  "endTime": 1711926982797,
   "band_list": [
     {
       "raw_hot": 2776736,
@@ -811,6 +811,14 @@
       "category": "情感,网红"
     },
     {
+      "raw_hot": 449939,
+      "num": 449939,
+      "word": "3岁男童走失狗狗在山上陪了一夜",
+      "onboard_time": 1711901838,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 441886,
       "num": 441886,
       "word": "孙颖莎状态",
@@ -1379,6 +1387,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 254710,
+      "num": 254710,
+      "word": "春天睡不好是正常现象",
+      "onboard_time": 1711920190,
+      "rank": 29,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 254598,
       "num": 254598,
       "word": "WTT",
@@ -1425,6 +1441,14 @@
       "onboard_time": 1711898601,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 248339,
+      "num": 248339,
+      "word": "金秀贤宋仲基两大爆剧男神同框",
+      "onboard_time": 1711903636,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 248044,
@@ -1721,14 +1745,6 @@
       "onboard_time": 1711863739,
       "rank": 23,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 210318,
-      "num": 180149,
-      "word": "3岁男童走失狗狗在山上陪了一夜",
-      "onboard_time": 1711901838,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 210198,
@@ -2187,6 +2203,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 175377,
+      "num": 151884,
+      "word": "深夜看见这种诡异蓝光请立刻报警",
+      "onboard_time": 1711900818,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 174830,
       "num": 174830,
       "word": "邓超老挝偶遇中国摊主",
@@ -2233,6 +2257,14 @@
       "onboard_time": 1711870939,
       "rank": 36,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 168712,
+      "num": 168712,
+      "word": "代号鸢 跑路",
+      "onboard_time": 1711926675,
+      "rank": 16,
+      "category": "游戏"
     },
     {
       "raw_hot": 168324,
@@ -2315,11 +2347,11 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 163193,
-      "num": 151884,
-      "word": "深夜看见这种诡异蓝光请立刻报警",
-      "onboard_time": 1711900818,
-      "rank": 38,
+      "raw_hot": 163013,
+      "num": 134108,
+      "word": "韩国人真的每天只睡4小时吗",
+      "onboard_time": 1711905374,
+      "rank": 35,
       "category": "社会新闻"
     },
     {
@@ -2512,14 +2544,6 @@
       "word": "墨方原来是卧底",
       "onboard_time": 1711811600,
       "rank": 33,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 149426,
-      "num": 149426,
-      "word": "金秀贤宋仲基两大爆剧男神同框",
-      "onboard_time": 1711903636,
-      "rank": 27,
       "category": "剧集"
     },
     {
@@ -3019,6 +3043,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 111978,
+      "num": 111978,
+      "word": "呼叫81192",
+      "onboard_time": 1711926557,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 110878,
       "num": 110878,
       "word": "王逍遥",
@@ -3099,14 +3131,6 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 102326,
-      "num": 55174,
-      "word": "春天睡不好是正常现象",
-      "onboard_time": 1711920190,
-      "rank": 29,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 102125,
       "num": 143800,
       "word": "从小学就开始卷真的有必要吗",
@@ -3131,14 +3155,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 95570,
-      "num": 77351,
-      "word": "韩国人真的每天只睡4小时吗",
-      "onboard_time": 1711905374,
-      "rank": 35,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 94215,
       "num": 105448,
       "word": "听说打电话时什么东西都会接",
@@ -3152,6 +3168,14 @@
       "word": "重师美院原院长被曝诱骗学生当小三",
       "onboard_time": 1711799476,
       "rank": 39,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 93100,
+      "num": 93100,
+      "word": "成都来福士交通事故造成2死2伤",
+      "onboard_time": 1711926855,
+      "rank": 27,
       "category": "社会新闻"
     },
     {
@@ -3180,7 +3204,7 @@
     },
     {
       "raw_hot": 88340,
-      "num": 74549,
+      "num": 82853,
       "word": "赵露思回复了林俊杰",
       "onboard_time": 1711910711,
       "rank": 15,
@@ -3331,12 +3355,44 @@
       "category": "体育"
     },
     {
+      "raw_hot": 58418,
+      "num": 58418,
+      "word": "刘诗诗短发齐刘海旧照",
+      "onboard_time": 1711923133,
+      "rank": 43,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 58379,
+      "num": 58379,
+      "word": "严浩翔首张个人EP",
+      "onboard_time": 1711926796,
+      "rank": 39,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 57184,
+      "num": 57184,
+      "word": "山东泰山0比3上海申花",
+      "onboard_time": 1711926255,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 56713,
       "num": 76324,
       "word": "CBA季后赛晋级球队确定",
       "onboard_time": 1711902258,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 55716,
+      "num": 55716,
+      "word": "和爸妈一起旅游住进了浴缸",
+      "onboard_time": 1711908311,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 53020,
@@ -3371,6 +3427,30 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 47548,
+      "num": 55700,
+      "word": "网红包MCM过气了吗",
+      "onboard_time": 1711912032,
+      "rank": 44,
+      "category": "时尚"
+    },
+    {
+      "raw_hot": 45087,
+      "num": 55663,
+      "word": "aespa的手臂",
+      "onboard_time": 1711911732,
+      "rank": 23,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 44491,
+      "num": 55647,
+      "word": "张杰年度巅峰歌手",
+      "onboard_time": 1711910771,
+      "rank": 45,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 43176,
       "num": 1131781,
       "word": "万千气象看云南",
@@ -3379,12 +3459,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 42592,
-      "num": 42592,
-      "word": "刘诗诗短发齐刘海旧照",
-      "onboard_time": 1711923133,
-      "rank": 43,
-      "category": "作品衍生"
+      "raw_hot": 42911,
+      "num": 55637,
+      "word": "追风者剧情",
+      "onboard_time": 1711923312,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 41989,
@@ -3411,14 +3491,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 39687,
-      "num": 39687,
-      "word": "aespa的手臂",
-      "onboard_time": 1711911732,
-      "rank": 23,
-      "category": "演出"
-    },
-    {
       "raw_hot": 39262,
       "num": 37746,
       "word": "王子奇创造营舞台幕后vlog",
@@ -3443,22 +3515,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 29214,
-      "num": 33757,
-      "word": "和爸妈一起旅游住进了浴缸",
-      "onboard_time": 1711908311,
-      "rank": 47,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 29203,
-      "num": 29203,
-      "word": "网红包MCM过气了吗",
-      "onboard_time": 1711912032,
-      "rank": 44,
-      "category": "时尚"
-    },
-    {
       "raw_hot": 24100,
       "num": 401003,
       "word": "皮蛋节露营团建",
@@ -3467,28 +3523,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 23687,
-      "num": 29197,
-      "word": "追风者剧情",
-      "onboard_time": 1711923312,
-      "rank": 47,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 22900,
       "num": 29196,
       "word": "父母对孩子情感漠视的影响有多大",
       "onboard_time": 1711918030,
       "rank": 40,
       "category": "母婴育儿"
-    },
-    {
-      "raw_hot": 22345,
-      "num": 22345,
-      "word": "张杰年度巅峰歌手",
-      "onboard_time": 1711910771,
-      "rank": 45,
-      "category": "音乐"
     },
     {
       "raw_hot": 16815,

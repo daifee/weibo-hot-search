@@ -1,6 +1,6 @@
 {
   "startTime": 1711902044401,
-  "endTime": 1711924434093,
+  "endTime": 1711926982797,
   "band_list": [
     {
       "raw_hot": 1983650,
@@ -107,6 +107,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 501015,
+      "num": 501015,
+      "word": "张国荣",
+      "onboard_time": 1711889658,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 485469,
       "num": 485469,
       "word": "眼泪女王 宋仲基",
@@ -115,20 +123,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 449939,
+      "num": 449939,
+      "word": "3岁男童走失狗狗在山上陪了一夜",
+      "onboard_time": 1711901838,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 433013,
       "num": 568105,
       "word": "一种娇妻文化似乎正在北美蔓延",
       "onboard_time": 1711888277,
       "rank": 8,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 419596,
-      "num": 419596,
-      "word": "张国荣",
-      "onboard_time": 1711889658,
-      "rank": 16,
-      "category": "艺人"
     },
     {
       "raw_hot": 360421,
@@ -171,20 +179,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 254710,
+      "num": 254710,
+      "word": "春天睡不好是正常现象",
+      "onboard_time": 1711920190,
+      "rank": 29,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 248339,
+      "num": 248339,
+      "word": "金秀贤宋仲基两大爆剧男神同框",
+      "onboard_time": 1711903636,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 237346,
       "num": 237346,
       "word": "林俊杰弹唱see you again",
       "onboard_time": 1711901659,
       "rank": 22,
       "category": "演出"
-    },
-    {
-      "raw_hot": 210318,
-      "num": 180149,
-      "word": "3岁男童走失狗狗在山上陪了一夜",
-      "onboard_time": 1711901838,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 203381,
@@ -227,12 +243,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 175377,
+      "num": 151884,
+      "word": "深夜看见这种诡异蓝光请立刻报警",
+      "onboard_time": 1711900818,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 173737,
       "num": 173737,
       "word": "原来头像真的会影响第一印象",
       "onboard_time": 1711891820,
       "rank": 24,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 168712,
+      "num": 168712,
+      "word": "代号鸢 跑路",
+      "onboard_time": 1711926675,
+      "rank": 16,
+      "category": "游戏"
     },
     {
       "raw_hot": 168319,
@@ -243,11 +275,19 @@
       "category": "情感,网红"
     },
     {
-      "raw_hot": 163193,
-      "num": 151884,
-      "word": "深夜看见这种诡异蓝光请立刻报警",
-      "onboard_time": 1711900818,
-      "rank": 38,
+      "raw_hot": 163013,
+      "num": 134108,
+      "word": "韩国人真的每天只睡4小时吗",
+      "onboard_time": 1711905374,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 162369,
+      "num": 171127,
+      "word": "已婚男子找王婆说媒妻子或将离婚",
+      "onboard_time": 1711890078,
+      "rank": 27,
       "category": "社会新闻"
     },
     {
@@ -299,14 +339,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 149426,
-      "num": 149426,
-      "word": "金秀贤宋仲基两大爆剧男神同框",
-      "onboard_time": 1711903636,
-      "rank": 27,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 148105,
       "num": 148105,
       "word": "金智媛ins更新",
@@ -337,14 +369,6 @@
       "onboard_time": 1711886358,
       "rank": 40,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 136436,
-      "num": 171127,
-      "word": "已婚男子找王婆说媒妻子或将离婚",
-      "onboard_time": 1711890078,
-      "rank": 27,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 126391,
@@ -395,6 +419,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 111978,
+      "num": 111978,
+      "word": "呼叫81192",
+      "onboard_time": 1711926557,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 110899,
       "num": 110899,
       "word": "骑行一个月后瘦了10斤",
@@ -419,24 +451,16 @@
       "category": "美食"
     },
     {
-      "raw_hot": 102326,
-      "num": 55174,
-      "word": "春天睡不好是正常现象",
-      "onboard_time": 1711920190,
-      "rank": 29,
-      "category": "健康医疗"
-    },
-    {
-      "raw_hot": 95570,
-      "num": 77351,
-      "word": "韩国人真的每天只睡4小时吗",
-      "onboard_time": 1711905374,
-      "rank": 35,
+      "raw_hot": 93100,
+      "num": 93100,
+      "word": "成都来福士交通事故造成2死2伤",
+      "onboard_time": 1711926855,
+      "rank": 27,
       "category": "社会新闻"
     },
     {
       "raw_hot": 88340,
-      "num": 74549,
+      "num": 82853,
       "word": "赵露思回复了林俊杰",
       "onboard_time": 1711910711,
       "rank": 15,
@@ -449,6 +473,30 @@
       "onboard_time": 1711895479,
       "rank": 29,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 58418,
+      "num": 58418,
+      "word": "刘诗诗短发齐刘海旧照",
+      "onboard_time": 1711923133,
+      "rank": 43,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 58379,
+      "num": 58379,
+      "word": "严浩翔首张个人EP",
+      "onboard_time": 1711926796,
+      "rank": 39,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 57184,
+      "num": 57184,
+      "word": "山东泰山0比3上海申花",
+      "onboard_time": 1711926255,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 56713,
@@ -467,6 +515,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 55716,
+      "num": 55716,
+      "word": "和爸妈一起旅游住进了浴缸",
+      "onboard_time": 1711908311,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 53020,
       "num": 53020,
       "word": "AHYEON中文",
@@ -483,20 +539,36 @@
       "category": "演出"
     },
     {
-      "raw_hot": 42592,
-      "num": 42592,
-      "word": "刘诗诗短发齐刘海旧照",
-      "onboard_time": 1711923133,
-      "rank": 43,
-      "category": "作品衍生"
+      "raw_hot": 47548,
+      "num": 55700,
+      "word": "网红包MCM过气了吗",
+      "onboard_time": 1711912032,
+      "rank": 44,
+      "category": "时尚"
     },
     {
-      "raw_hot": 39687,
-      "num": 39687,
+      "raw_hot": 45087,
+      "num": 55663,
       "word": "aespa的手臂",
       "onboard_time": 1711911732,
       "rank": 23,
       "category": "演出"
+    },
+    {
+      "raw_hot": 44491,
+      "num": 55647,
+      "word": "张杰年度巅峰歌手",
+      "onboard_time": 1711910771,
+      "rank": 45,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 42911,
+      "num": 55637,
+      "word": "追风者剧情",
+      "onboard_time": 1711923312,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 38776,
@@ -515,44 +587,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 29214,
-      "num": 33757,
-      "word": "和爸妈一起旅游住进了浴缸",
-      "onboard_time": 1711908311,
-      "rank": 47,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 29203,
-      "num": 29203,
-      "word": "网红包MCM过气了吗",
-      "onboard_time": 1711912032,
-      "rank": 44,
-      "category": "时尚"
-    },
-    {
-      "raw_hot": 23687,
-      "num": 29197,
-      "word": "追风者剧情",
-      "onboard_time": 1711923312,
-      "rank": 47,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 22900,
       "num": 29196,
       "word": "父母对孩子情感漠视的影响有多大",
       "onboard_time": 1711918030,
       "rank": 40,
       "category": "母婴育儿"
-    },
-    {
-      "raw_hot": 22345,
-      "num": 22345,
-      "word": "张杰年度巅峰歌手",
-      "onboard_time": 1711910771,
-      "rank": 45,
-      "category": "音乐"
     },
     {
       "raw_hot": 11607,
