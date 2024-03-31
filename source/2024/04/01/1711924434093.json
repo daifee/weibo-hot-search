@@ -1,0 +1,410 @@
+{
+  "runTime": 1711924434093,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 319571,
+        "num": 319571,
+        "word": "愚人节站姐团建",
+        "onboard_time": 1711890498,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 217234,
+        "num": 217234,
+        "word": "赵露思 澳门鬼迷日眼的照片",
+        "onboard_time": 1711892780,
+        "rank": 1,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 2660,
+        "num": 215917,
+        "word": "2024中国网络媒体论坛",
+        "onboard_time": 1711628721,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 215805,
+        "num": 215805,
+        "word": "张国荣",
+        "onboard_time": 1711889658,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 189131,
+        "num": 189131,
+        "word": "上班七个月亏了两万多",
+        "onboard_time": 1711894040,
+        "rank": 4,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 181682,
+        "num": 181682,
+        "word": "一种娇妻文化似乎正在北美蔓延",
+        "onboard_time": 1711888277,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 167563,
+        "num": 167563,
+        "word": "24岁我还不能和男朋友出去旅游",
+        "onboard_time": 1711895720,
+        "rank": 6,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 161686,
+        "num": 161686,
+        "word": "雷军回应拦截小米SU7部分异常订单",
+        "onboard_time": 1711897940,
+        "rank": 7,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 150342,
+        "num": 150342,
+        "word": "聂远每月给老婆300万生活费",
+        "onboard_time": 1711883359,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 106806,
+        "num": 140844,
+        "word": "女子工作1年半胖40斤判若两人",
+        "onboard_time": 1711898120,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 273966,
+        "num": 138274,
+        "word": "迈巴赫成都来福士连续碾压多人",
+        "onboard_time": 1711897279,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 210318,
+        "num": 136911,
+        "word": "3岁男童走失狗狗在山上陪了一夜",
+        "onboard_time": 1711901838,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 132279,
+        "num": 132279,
+        "word": "贾玲减肥后刘维痛失代表作",
+        "onboard_time": 1711898601,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 124692,
+        "num": 124692,
+        "word": "金秀贤宋仲基两大爆剧男神同框",
+        "onboard_time": 1711903636,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 109548,
+        "num": 109548,
+        "word": "张元英站姐发了刘耀文",
+        "onboard_time": 1711902258,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 82230,
+        "num": 82230,
+        "word": "已婚男子找王婆说媒妻子或将离婚",
+        "onboard_time": 1711890078,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 78686,
+        "num": 78686,
+        "word": "蔡徐坤ins",
+        "onboard_time": 1711899020,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 74549,
+        "num": 74549,
+        "word": "赵露思回复了林俊杰",
+        "onboard_time": 1711910711,
+        "rank": 17,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 61200,
+        "num": 61200,
+        "word": "鞠婧祎愿意为了角色扮丑",
+        "onboard_time": 1711895360,
+        "rank": 18,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 55369,
+        "num": 55369,
+        "word": "你家里床单多久换一次",
+        "onboard_time": 1711902197,
+        "rank": 19,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 102326,
+        "num": 55174,
+        "word": "春天睡不好是正常现象",
+        "onboard_time": 1711920190,
+        "rank": 20,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 72836,
+        "num": 53531,
+        "word": "韩国人真的每天只睡4小时吗",
+        "onboard_time": 1711905374,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 69322,
+        "num": 52545,
+        "word": "深夜看见这种诡异蓝光请立刻报警",
+        "onboard_time": 1711900818,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 59040,
+        "num": 51830,
+        "word": "追风者23集 哭死了",
+        "onboard_time": 1711888218,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 51179,
+        "num": 51179,
+        "word": "李逍遥竟然是拂容君",
+        "onboard_time": 1711889239,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 48000,
+        "num": 48000,
+        "word": "眼泪女王 宋仲基",
+        "onboard_time": 1711896200,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 42672,
+        "num": 42672,
+        "word": "迪丽热巴腿环",
+        "onboard_time": 1711883237,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 42592,
+        "num": 42592,
+        "word": "刘诗诗短发齐刘海旧照",
+        "onboard_time": 1711923133,
+        "rank": 27,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 41798,
+        "num": 41798,
+        "word": "Doinb疑似在韩国服兵役",
+        "onboard_time": 1711906153,
+        "rank": 28,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 40192,
+        "num": 40192,
+        "word": "愚人节换头像",
+        "onboard_time": 1711898601,
+        "rank": 29,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 36857,
+        "num": 36857,
+        "word": "原来头像真的会影响第一印象",
+        "onboard_time": 1711891820,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 38485,
+        "num": 36685,
+        "word": "愚人节",
+        "onboard_time": 1711895360,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 35077,
+        "num": 35077,
+        "word": "赵丽颖工作室不让薅沈璃头发",
+        "onboard_time": 1711898000,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 33978,
+        "num": 33978,
+        "word": "原来工作了真的会没空了",
+        "onboard_time": 1711894220,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 33969,
+        "num": 33969,
+        "word": "我们是冠军",
+        "onboard_time": 1711920369,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 33625,
+        "num": 33625,
+        "word": "成都",
+        "onboard_time": 1711897160,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 33585,
+        "num": 33585,
+        "word": "张新成 我们还是不要散了",
+        "onboard_time": 1711897101,
+        "rank": 36,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 33251,
+        "num": 33251,
+        "word": "陈乔恩晒照纪念结婚两周年",
+        "onboard_time": 1711901060,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 32361,
+        "num": 32361,
+        "word": "白桃星座",
+        "onboard_time": 1711895300,
+        "rank": 38,
+        "category": "情感,网红"
+      },
+      {
+        "raw_hot": 31735,
+        "num": 31735,
+        "word": "曼城vs阿森纳",
+        "onboard_time": 1711896920,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 31629,
+        "num": 31629,
+        "word": "官方通报采耳店被认定非法行医罚22万",
+        "onboard_time": 1711895240,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 29669,
+        "num": 29669,
+        "word": "当猫咪以为主人给它做的绝育",
+        "onboard_time": 1711901118,
+        "rank": 41,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 29214,
+        "num": 29214,
+        "word": "和爸妈一起旅游住进了浴缸",
+        "onboard_time": 1711908311,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 29203,
+        "num": 29203,
+        "word": "网红包MCM过气了吗",
+        "onboard_time": 1711912032,
+        "rank": 43,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 27461,
+        "num": 29203,
+        "word": "王劲松出演拜月教主",
+        "onboard_time": 1711908493,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 26352,
+        "num": 29200,
+        "word": "陆婷怀孕",
+        "onboard_time": 1711881079,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 25030,
+        "num": 29199,
+        "word": "金智媛ins更新",
+        "onboard_time": 1711895659,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 23687,
+        "num": 29197,
+        "word": "追风者剧情",
+        "onboard_time": 1711923312,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 22900,
+        "num": 29196,
+        "word": "父母对孩子情感漠视的影响有多大",
+        "onboard_time": 1711918030,
+        "rank": 48,
+        "category": "母婴育儿"
+      },
+      {
+        "raw_hot": 22737,
+        "num": 29194,
+        "word": "眼泪女王",
+        "onboard_time": 1711891159,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#不断提升作品的精神能量文化内涵艺术价值#"
+    }
+  }
+}
