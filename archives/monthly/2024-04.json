@@ -1,6 +1,6 @@
 {
   "startTime": 1711902044401,
-  "endTime": 1711917247629,
+  "endTime": 1711919668972,
   "band_list": [
     {
       "raw_hot": 1983650,
@@ -513,6 +513,22 @@
       "onboard_time": 1711912032,
       "rank": 44,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 14907,
+      "num": 14907,
+      "word": "父母对孩子情感漠视的影响有多大",
+      "onboard_time": 1711918030,
+      "rank": 40,
+      "category": "母婴育儿"
+    },
+    {
+      "raw_hot": 11607,
+      "num": 14817,
+      "word": "女子口吐白沫晕倒8岁娃机智求救",
+      "onboard_time": 1711919590,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 5329,
