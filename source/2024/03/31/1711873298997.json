@@ -1,0 +1,410 @@
+{
+  "runTime": 1711873298997,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1491615,
+        "num": 1491615,
+        "word": "已婚男子王婆说媒相亲走红后道歉",
+        "onboard_time": 1711866318,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1388503,
+        "num": 1388503,
+        "word": "雷军 我为张老师准备的车是顶配",
+        "onboard_time": 1711866498,
+        "rank": 1,
+        "category": "艺人,汽车"
+      },
+      {
+        "raw_hot": 45013,
+        "num": 1110817,
+        "word": "美好生活在云南",
+        "onboard_time": 1711858578,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 967385,
+        "num": 967385,
+        "word": "让她读到真大学了",
+        "onboard_time": 1711866798,
+        "rank": 3,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 954742,
+        "num": 954742,
+        "word": "赵丽颖首部水仙剧",
+        "onboard_time": 1711872139,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 803710,
+        "num": 803710,
+        "word": "魏直树和牛湘琴",
+        "onboard_time": 1711872077,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 790071,
+        "num": 790071,
+        "word": "小米订单 strong男",
+        "onboard_time": 1711864519,
+        "rank": 6,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 648522,
+        "num": 648522,
+        "word": "林俊杰发文感谢赵露思",
+        "onboard_time": 1711871958,
+        "rank": 7,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 528666,
+        "num": 528666,
+        "word": "鞠婧祎红毯",
+        "onboard_time": 1711868658,
+        "rank": 8,
+        "category": "音乐,时尚"
+      },
+      {
+        "raw_hot": 417682,
+        "num": 511549,
+        "word": "疑被打死男童生母与其男友被刑拘",
+        "onboard_time": 1711867158,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 509572,
+        "num": 509572,
+        "word": "纪凌尘认为分手舆情影响他接戏",
+        "onboard_time": 1711852037,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 494254,
+        "num": 494254,
+        "word": "赵丽颖早就明示拍在人间了",
+        "onboard_time": 1711868717,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 485361,
+        "num": 485361,
+        "word": "邓超买了摆摊小孩所有的画",
+        "onboard_time": 1711866257,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 392894,
+        "num": 392894,
+        "word": "孙颖莎vs王曼昱",
+        "onboard_time": 1711871477,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 324108,
+        "num": 324108,
+        "word": "Ning王疑似恋爱",
+        "onboard_time": 1711868419,
+        "rank": 14,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 409424,
+        "num": 311818,
+        "word": "赵露思林俊杰合照",
+        "onboard_time": 1711861518,
+        "rank": 15,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 365260,
+        "num": 308357,
+        "word": "SU7 舒淇",
+        "onboard_time": 1711872498,
+        "rank": 16,
+        "category": "艺人,汽车"
+      },
+      {
+        "raw_hot": 285584,
+        "num": 285584,
+        "word": "一句话让男人为我花了21万",
+        "onboard_time": 1711859597,
+        "rank": 17,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 274129,
+        "num": 274129,
+        "word": "马英九访问大陆11天完整行程公布",
+        "onboard_time": 1711867457,
+        "rank": 18,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 232118,
+        "num": 232118,
+        "word": "小米SU7部分订单已排到半年左右",
+        "onboard_time": 1711866377,
+        "rank": 19,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 364803,
+        "num": 229850,
+        "word": "李荣浩杨丞琳新情头",
+        "onboard_time": 1711869797,
+        "rank": 20,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 252327,
+        "num": 226251,
+        "word": "黄渤被张艺兴吓老了十岁",
+        "onboard_time": 1711872737,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 252233,
+        "num": 224429,
+        "word": "大学洗澡二十分钟被室友说太久",
+        "onboard_time": 1711866557,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 250691,
+        "num": 222275,
+        "word": "赵奕欢被制片人踢出了演员行列",
+        "onboard_time": 1711853238,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 235388,
+        "num": 217672,
+        "word": "年轻人靠穿戴甲月入8万",
+        "onboard_time": 1711869317,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 233759,
+        "num": 213795,
+        "word": "孙千回复",
+        "onboard_time": 1711855099,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 213246,
+        "num": 213246,
+        "word": "鞠婧祎黑纱满绣礼裙",
+        "onboard_time": 1711873157,
+        "rank": 26,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 181750,
+        "num": 211629,
+        "word": "意外被父母看见了存款",
+        "onboard_time": 1711868357,
+        "rank": 27,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 172184,
+        "num": 209934,
+        "word": "13岁女孩称帮同学取快递失踪7天",
+        "onboard_time": 1711872558,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 85443,
+        "num": 207484,
+        "word": "泽连斯基被问到俄恐袭露出诡异微笑",
+        "onboard_time": 1711858998,
+        "rank": 29,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 367750,
+        "num": 205413,
+        "word": "网友回应帮张颂文跟雷军要到小米SU7",
+        "onboard_time": 1711872737,
+        "rank": 30,
+        "category": "汽车,艺人"
+      },
+      {
+        "raw_hot": 205182,
+        "num": 205182,
+        "word": "西野七濑山田裕贵宣布结婚",
+        "onboard_time": 1711872558,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 189831,
+        "num": 189831,
+        "word": "宋仲基眼泪女王剧照",
+        "onboard_time": 1711864338,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 181291,
+        "num": 181291,
+        "word": "魏若来要脱粉回踩了",
+        "onboard_time": 1711871057,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 169078,
+        "num": 174166,
+        "word": "一诺爆改少爷",
+        "onboard_time": 1711870939,
+        "rank": 34,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 172738,
+        "num": 172738,
+        "word": "王鹤棣周也或将合作",
+        "onboard_time": 1711868477,
+        "rank": 35,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 169982,
+        "num": 169982,
+        "word": "追风者 好剧本",
+        "onboard_time": 1711870939,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 161273,
+        "num": 167099,
+        "word": "爸爸穿的太显眼竟把女儿气哭",
+        "onboard_time": 1711865598,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 130859,
+        "num": 166915,
+        "word": "DOU5战队晋级COA7全球总决赛",
+        "onboard_time": 1711872498,
+        "rank": 38,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 119942,
+        "num": 166833,
+        "word": "LPL最佳新秀milkyway",
+        "onboard_time": 1711869377,
+        "rank": 39,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 166796,
+        "num": 166796,
+        "word": "娜扎红色泳衣",
+        "onboard_time": 1711864456,
+        "rank": 40,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 164418,
+        "num": 164418,
+        "word": "金智媛宋仲基三搭",
+        "onboard_time": 1711868717,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 163511,
+        "num": 163511,
+        "word": "在人间官宣",
+        "onboard_time": 1711856239,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 156021,
+        "num": 156021,
+        "word": "赵奕欢 青春期",
+        "onboard_time": 1711872978,
+        "rank": 43,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 136689,
+        "num": 136689,
+        "word": "又见逍遥定档",
+        "onboard_time": 1711870577,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 115264,
+        "num": 115264,
+        "word": "什么时候开始不花家里钱的",
+        "onboard_time": 1711872858,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 103116,
+        "num": 103116,
+        "word": "女性太瘦并不是件好事",
+        "onboard_time": 1711854378,
+        "rank": 46,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 100884,
+        "num": 100884,
+        "word": "二战失败爸爸给了我20万",
+        "onboard_time": 1711853418,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 84973,
+        "num": 100873,
+        "word": "学生被欺凌不敢或不愿报告怎么办",
+        "onboard_time": 1711870098,
+        "rank": 48,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 66366,
+        "num": 100204,
+        "word": "丫丫回国快一年了",
+        "onboard_time": 1711856119,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#不断提升作品的精神能量文化内涵艺术价值#"
+    }
+  }
+}

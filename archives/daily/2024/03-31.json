@@ -1,6 +1,6 @@
 {
   "startTime": 1711815680412,
-  "endTime": 1711870440107,
+  "endTime": 1711873298997,
   "band_list": [
     {
       "raw_hot": 2140814,
@@ -83,6 +83,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 967385,
+      "num": 967385,
+      "word": "让她读到真大学了",
+      "onboard_time": 1711866798,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 954742,
+      "num": 954742,
+      "word": "赵丽颖首部水仙剧",
+      "onboard_time": 1711872139,
+      "rank": 4,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 877607,
       "num": 877607,
       "word": "吉克隽逸因司机迷路错过彩排",
@@ -107,12 +123,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 804286,
-      "num": 804286,
-      "word": "让她读到真大学了",
-      "onboard_time": 1711866798,
-      "rank": 30,
-      "category": "幽默"
+      "raw_hot": 803710,
+      "num": 803710,
+      "word": "魏直树和牛湘琴",
+      "onboard_time": 1711872077,
+      "rank": 5,
+      "category": "剧集"
     },
     {
       "raw_hot": 787594,
@@ -169,6 +185,14 @@
       "onboard_time": 1711811779,
       "rank": 4,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 648522,
+      "num": 648522,
+      "word": "林俊杰发文感谢赵露思",
+      "onboard_time": 1711871958,
+      "rank": 7,
+      "category": "演出"
     },
     {
       "raw_hot": 643061,
@@ -267,6 +291,14 @@
       "category": "数码,艺人"
     },
     {
+      "raw_hot": 528666,
+      "num": 528666,
+      "word": "鞠婧祎红毯",
+      "onboard_time": 1711868658,
+      "rank": 26,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 521330,
       "num": 328995,
       "word": "二战失败爸爸给了我20万",
@@ -355,12 +387,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 487088,
-      "num": 487088,
-      "word": "鞠婧祎红毯",
-      "onboard_time": 1711868658,
-      "rank": 26,
-      "category": "作品衍生"
+      "raw_hot": 494254,
+      "num": 494254,
+      "word": "赵丽颖早就明示拍在人间了",
+      "onboard_time": 1711868717,
+      "rank": 25,
+      "category": "剧集"
     },
     {
       "raw_hot": 484250,
@@ -467,6 +499,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 392894,
+      "num": 392894,
+      "word": "孙颖莎vs王曼昱",
+      "onboard_time": 1711871477,
+      "rank": 13,
+      "category": "体育"
+    },
+    {
       "raw_hot": 386789,
       "num": 386789,
       "word": "28岁我反而拥有了巨量快乐",
@@ -515,12 +555,28 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 362005,
-      "num": 362005,
-      "word": "赵丽颖早就明示拍在人间了",
-      "onboard_time": 1711868717,
+      "raw_hot": 367750,
+      "num": 205413,
+      "word": "网友回应帮张颂文跟雷军要到小米SU7",
+      "onboard_time": 1711872737,
+      "rank": 30,
+      "category": "汽车,艺人"
+    },
+    {
+      "raw_hot": 365260,
+      "num": 308357,
+      "word": "SU7 舒淇",
+      "onboard_time": 1711872498,
+      "rank": 16,
+      "category": "艺人,汽车"
+    },
+    {
+      "raw_hot": 364803,
+      "num": 231199,
+      "word": "李荣浩杨丞琳新情头",
+      "onboard_time": 1711869797,
       "rank": 25,
-      "category": "剧集"
+      "category": "作品衍生"
     },
     {
       "raw_hot": 346401,
@@ -715,14 +771,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 270550,
-      "num": 231199,
-      "word": "李荣浩杨丞琳新情头",
-      "onboard_time": 1711869797,
-      "rank": 25,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 270356,
       "num": 201870,
       "word": "陈星旭蓝发",
@@ -753,6 +801,14 @@
       "onboard_time": 1711791918,
       "rank": 17,
       "category": "艺人,互联网"
+    },
+    {
+      "raw_hot": 252327,
+      "num": 226251,
+      "word": "黄渤被张艺兴吓老了十岁",
+      "onboard_time": 1711872737,
+      "rank": 21,
+      "category": "综艺"
     },
     {
       "raw_hot": 247869,
@@ -811,6 +867,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 235388,
+      "num": 217672,
+      "word": "年轻人靠穿戴甲月入8万",
+      "onboard_time": 1711869317,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 234343,
       "num": 208995,
       "word": "郝蕾批评朱梓骁带货镜头切向佐",
@@ -857,6 +921,14 @@
       "onboard_time": 1711868357,
       "rank": 31,
       "category": "情感"
+    },
+    {
+      "raw_hot": 213246,
+      "num": 213246,
+      "word": "鞠婧祎黑纱满绣礼裙",
+      "onboard_time": 1711873157,
+      "rank": 26,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 213039,
@@ -929,6 +1001,14 @@
       "onboard_time": 1711860857,
       "rank": 33,
       "category": "演出"
+    },
+    {
+      "raw_hot": 205182,
+      "num": 205182,
+      "word": "西野七濑山田裕贵宣布结婚",
+      "onboard_time": 1711872558,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 203245,
@@ -1051,6 +1131,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 181291,
+      "num": 181291,
+      "word": "魏若来要脱粉回踩了",
+      "onboard_time": 1711871057,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 179827,
       "num": 208066,
       "word": "吴艳妮说自己不是网红",
@@ -1107,12 +1195,28 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 170882,
-      "num": 170882,
-      "word": "年轻人靠穿戴甲月入8万",
-      "onboard_time": 1711869317,
-      "rank": 48,
+      "raw_hot": 172184,
+      "num": 209934,
+      "word": "13岁女孩称帮同学取快递失踪7天",
+      "onboard_time": 1711872558,
+      "rank": 28,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 169982,
+      "num": 169982,
+      "word": "追风者 好剧本",
+      "onboard_time": 1711870939,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 169078,
+      "num": 174166,
+      "word": "一诺爆改少爷",
+      "onboard_time": 1711870939,
+      "rank": 34,
+      "category": "电竞"
     },
     {
       "raw_hot": 167056,
@@ -1169,6 +1273,14 @@
       "onboard_time": 1711852159,
       "rank": 34,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 156021,
+      "num": 156021,
+      "word": "赵奕欢 青春期",
+      "onboard_time": 1711872978,
+      "rank": 43,
+      "category": "电影"
     },
     {
       "raw_hot": 155537,
@@ -1387,12 +1499,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 136689,
+      "num": 136689,
+      "word": "又见逍遥定档",
+      "onboard_time": 1711870577,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 134076,
       "num": 134076,
       "word": "当你约公司顶梁柱出来旅游",
       "onboard_time": 1711851738,
       "rank": 45,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 130859,
+      "num": 166915,
+      "word": "DOU5战队晋级COA7全球总决赛",
+      "onboard_time": 1711872498,
+      "rank": 38,
+      "category": "电竞"
     },
     {
       "raw_hot": 128529,
@@ -1529,6 +1657,14 @@
       "onboard_time": 1711869018,
       "rank": 46,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 115264,
+      "num": 115264,
+      "word": "什么时候开始不花家里钱的",
+      "onboard_time": 1711872858,
+      "rank": 45,
+      "category": "情感"
     },
     {
       "raw_hot": 114732,
@@ -1739,6 +1875,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 84973,
+      "num": 121202,
+      "word": "学生被欺凌不敢或不愿报告怎么办",
+      "onboard_time": 1711870098,
+      "rank": 49,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 80049,
       "num": 125060,
       "word": "麦迪想去村BA打球",
@@ -1769,14 +1913,6 @@
       "onboard_time": 1711805779,
       "rank": 44,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 73929,
-      "num": 121202,
-      "word": "学生被欺凌不敢或不愿报告怎么办",
-      "onboard_time": 1711870098,
-      "rank": 49,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 72705,
