@@ -1,6 +1,6 @@
 {
   "startTime": 1711815680412,
-  "endTime": 1711902044401,
+  "endTime": 1711903035433,
   "band_list": [
     {
       "raw_hot": 2776736,
@@ -803,6 +803,14 @@
       "category": "情感,网红"
     },
     {
+      "raw_hot": 450769,
+      "num": 450769,
+      "word": "张元英站姐发了刘耀文",
+      "onboard_time": 1711902258,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 441886,
       "num": 441886,
       "word": "孙颖莎状态",
@@ -1148,7 +1156,7 @@
     },
     {
       "raw_hot": 304483,
-      "num": 304483,
+      "num": 315316,
       "word": "愚人节",
       "onboard_time": 1711895360,
       "rank": 34,
@@ -1257,6 +1265,14 @@
       "onboard_time": 1711885758,
       "rank": 17,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 285364,
+      "num": 285364,
+      "word": "陈乔恩晒照纪念结婚两周年",
+      "onboard_time": 1711901060,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 284063,
@@ -1408,14 +1424,6 @@
       "word": "赵露思内核",
       "onboard_time": 1711898601,
       "rank": 26,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 248081,
-      "num": 248081,
-      "word": "陈乔恩晒照纪念结婚两周年",
-      "onboard_time": 1711901060,
-      "rank": 21,
       "category": "艺人"
     },
     {
@@ -2291,6 +2299,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 163193,
+      "num": 151884,
+      "word": "深夜看见这种诡异蓝光请立刻报警",
+      "onboard_time": 1711900818,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 161151,
       "num": 208676,
       "word": "81岁女儿跨越81年找到烈士父亲",
@@ -2707,14 +2723,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 133995,
-      "num": 133995,
-      "word": "深夜看见这种诡异蓝光请立刻报警",
-      "onboard_time": 1711900818,
-      "rank": 38,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 130859,
       "num": 166915,
       "word": "DOU5战队晋级COA7全球总决赛",
@@ -2729,6 +2737,14 @@
       "onboard_time": 1711878017,
       "rank": 48,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 128912,
+      "num": 153237,
+      "word": "你家里床单多久换一次",
+      "onboard_time": 1711902197,
+      "rank": 27,
+      "category": "情感"
     },
     {
       "raw_hot": 128529,
@@ -2873,6 +2889,14 @@
       "onboard_time": 1711811301,
       "rank": 41,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 120739,
+      "num": 152829,
+      "word": "3岁男童走失狗狗在山上陪了一夜",
+      "onboard_time": 1711901838,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 120691,
@@ -3259,12 +3283,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 59272,
-      "num": 96562,
-      "word": "3岁男童走失狗狗在山上陪了一夜",
-      "onboard_time": 1711901838,
-      "rank": 48,
-      "category": "社会新闻"
+      "raw_hot": 56713,
+      "num": 76324,
+      "word": "CBA季后赛晋级球队确定",
+      "onboard_time": 1711902258,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 52856,

@@ -1,6 +1,6 @@
 {
   "startTime": 1711902044401,
-  "endTime": 1711902044401,
+  "endTime": 1711903035433,
   "band_list": [
     {
       "raw_hot": 1983650,
@@ -107,6 +107,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 450769,
+      "num": 450769,
+      "word": "张元英站姐发了刘耀文",
+      "onboard_time": 1711902258,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 433013,
       "num": 568105,
       "word": "一种娇妻文化似乎正在北美蔓延",
@@ -140,7 +148,7 @@
     },
     {
       "raw_hot": 327009,
-      "num": 252617,
+      "num": 294572,
       "word": "张新成 我们还是不要散了",
       "onboard_time": 1711897101,
       "rank": 20,
@@ -148,15 +156,15 @@
     },
     {
       "raw_hot": 304483,
-      "num": 304483,
+      "num": 315316,
       "word": "愚人节",
       "onboard_time": 1711895360,
       "rank": 18,
       "category": "社会新闻"
     },
     {
-      "raw_hot": 248081,
-      "num": 248081,
+      "raw_hot": 285364,
+      "num": 285364,
       "word": "陈乔恩晒照纪念结婚两周年",
       "onboard_time": 1711901060,
       "rank": 21,
@@ -171,20 +179,20 @@
       "category": "演出"
     },
     {
+      "raw_hot": 203381,
+      "num": 172550,
+      "word": "眼泪女王",
+      "onboard_time": 1711891159,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 202637,
       "num": 173670,
       "word": "陆婷怀孕",
       "onboard_time": 1711881079,
       "rank": 25,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 201662,
-      "num": 172550,
-      "word": "眼泪女王",
-      "onboard_time": 1711891159,
-      "rank": 26,
-      "category": "剧集"
     },
     {
       "raw_hot": 198636,
@@ -217,6 +225,14 @@
       "onboard_time": 1711895300,
       "rank": 31,
       "category": "情感,网红"
+    },
+    {
+      "raw_hot": 163193,
+      "num": 151884,
+      "word": "深夜看见这种诡异蓝光请立刻报警",
+      "onboard_time": 1711900818,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 160089,
@@ -252,7 +268,7 @@
     },
     {
       "raw_hot": 152747,
-      "num": 253946,
+      "num": 298349,
       "word": "官方通报采耳店被认定非法行医罚22万",
       "onboard_time": 1711895240,
       "rank": 19,
@@ -291,12 +307,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 133995,
-      "num": 133995,
-      "word": "深夜看见这种诡异蓝光请立刻报警",
-      "onboard_time": 1711900818,
-      "rank": 38,
-      "category": "社会新闻"
+      "raw_hot": 128912,
+      "num": 153237,
+      "word": "你家里床单多久换一次",
+      "onboard_time": 1711902197,
+      "rank": 27,
+      "category": "情感"
     },
     {
       "raw_hot": 126120,
@@ -307,12 +323,20 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 123002,
+      "raw_hot": 123951,
       "num": 123002,
       "word": "鞠婧祎换了微博头像",
       "onboard_time": 1711889838,
       "rank": 41,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 120739,
+      "num": 152829,
+      "word": "3岁男童走失狗狗在山上陪了一夜",
+      "onboard_time": 1711901838,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 119239,
@@ -379,12 +403,12 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 59272,
-      "num": 96562,
-      "word": "3岁男童走失狗狗在山上陪了一夜",
-      "onboard_time": 1711901838,
-      "rank": 48,
-      "category": "社会新闻"
+      "raw_hot": 56713,
+      "num": 76324,
+      "word": "CBA季后赛晋级球队确定",
+      "onboard_time": 1711902258,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 55955,
@@ -406,6 +430,9 @@
   "hotgov_list": [
     {
       "word": "#要把为民造福作为最重要的政绩#"
+    },
+    {
+      "word": "#不断提升作品的精神能量文化内涵艺术价值#"
     }
   ]
 }
