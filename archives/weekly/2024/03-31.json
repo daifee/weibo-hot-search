@@ -1,6 +1,6 @@
 {
   "startTime": 1711815680412,
-  "endTime": 1711849067407,
+  "endTime": 1711852000408,
   "band_list": [
     {
       "raw_hot": 1290409,
@@ -19,12 +19,20 @@
       "category": "健康医疗,科学科普"
     },
     {
-      "raw_hot": 843853,
-      "num": 843853,
+      "raw_hot": 1146601,
+      "num": 1146601,
       "word": "孙千172高不到97斤",
       "onboard_time": 1711847959,
       "rank": 1,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 877607,
+      "num": 877607,
+      "word": "吉克隽逸因司机迷路错过彩排",
+      "onboard_time": 1711847477,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 730260,
@@ -36,7 +44,7 @@
     },
     {
       "raw_hot": 725389,
-      "num": 214938,
+      "num": 220540,
       "word": "奔驰加塞事件原视频",
       "onboard_time": 1711840453,
       "rank": 49,
@@ -67,20 +75,20 @@
       "category": "财经"
     },
     {
+      "raw_hot": 623419,
+      "num": 623419,
+      "word": "陈震回应删除与雷军合照",
+      "onboard_time": 1711850837,
+      "rank": 4,
+      "category": "互联网,汽车"
+    },
+    {
       "raw_hot": 588678,
       "num": 475633,
       "word": "陈楚生脱了",
       "onboard_time": 1711805599,
       "rank": 10,
       "category": "演出"
-    },
-    {
-      "raw_hot": 574885,
-      "num": 574885,
-      "word": "吉克隽逸因司机迷路错过彩排",
-      "onboard_time": 1711847477,
-      "rank": 27,
-      "category": "艺人"
     },
     {
       "raw_hot": 572660,
@@ -123,6 +131,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 503515,
+      "num": 503515,
+      "word": "4天酒店游客仅住1天被赶走",
+      "onboard_time": 1711847117,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 496335,
       "num": 496335,
       "word": "Jennie将于6月solo回归",
@@ -137,6 +153,14 @@
       "onboard_time": 1711806199,
       "rank": 9,
       "category": "演出"
+    },
+    {
+      "raw_hot": 435370,
+      "num": 435370,
+      "word": "锦超曾因入戏太深恨其他演员",
+      "onboard_time": 1711850237,
+      "rank": 8,
+      "category": "综艺"
     },
     {
       "raw_hot": 431304,
@@ -187,12 +211,28 @@
       "category": "艺人,互联网"
     },
     {
-      "raw_hot": 347594,
-      "num": 347594,
-      "word": "4天酒店游客仅住1天被赶走",
-      "onboard_time": 1711847117,
-      "rank": 35,
-      "category": "社会新闻"
+      "raw_hot": 380083,
+      "num": 380083,
+      "word": "油价4月或进入8元时代",
+      "onboard_time": 1711850358,
+      "rank": 10,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 379278,
+      "num": 379278,
+      "word": "李斯丹妮演唱会朝台下泼水",
+      "onboard_time": 1711849518,
+      "rank": 11,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 355891,
+      "num": 220044,
+      "word": "人体最薄的皮肤在哪",
+      "onboard_time": 1711851076,
+      "rank": 21,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 344834,
@@ -203,6 +243,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 311037,
+      "num": 311037,
+      "word": "俄恐袭134名遇难者身份已确认",
+      "onboard_time": 1711851318,
+      "rank": 13,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 308666,
       "num": 308666,
       "word": "上海一餐厅被樱花给的泼天富贵砸晕了",
@@ -211,12 +259,36 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 306438,
+      "num": 306438,
+      "word": "眼泪女王收视率",
+      "onboard_time": 1711846577,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 302512,
+      "num": 302512,
+      "word": "薛之谦回国",
+      "onboard_time": 1711846636,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 299852,
       "num": 299852,
       "word": "赵奕欢回怼消失的她制片人",
       "onboard_time": 1711803739,
       "rank": 13,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 282330,
+      "num": 218515,
+      "word": "06年出生的今年要成年了",
+      "onboard_time": 1711848498,
+      "rank": 39,
+      "category": "幽默"
     },
     {
       "raw_hot": 278790,
@@ -235,12 +307,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 270882,
-      "num": 270882,
-      "word": "薛之谦回国",
-      "onboard_time": 1711846636,
-      "rank": 19,
-      "category": "艺人"
+      "raw_hot": 272308,
+      "num": 272308,
+      "word": "赵晴回应于正让自己减肥",
+      "onboard_time": 1711848618,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 264886,
@@ -249,6 +321,14 @@
       "onboard_time": 1711792458,
       "rank": 14,
       "category": "财经"
+    },
+    {
+      "raw_hot": 254925,
+      "num": 254925,
+      "word": "去东海救碧苍王",
+      "onboard_time": 1711849158,
+      "rank": 18,
+      "category": "剧集"
     },
     {
       "raw_hot": 253560,
@@ -275,20 +355,28 @@
       "category": "剧集,情感"
     },
     {
-      "raw_hot": 238203,
-      "num": 204854,
-      "word": "眼泪女王收视率",
-      "onboard_time": 1711846577,
-      "rank": 25,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 218525,
       "num": 186143,
       "word": "原来恋爱脑真的不适合做饭",
       "onboard_time": 1711846157,
       "rank": 28,
       "category": "情感"
+    },
+    {
+      "raw_hot": 215807,
+      "num": 215807,
+      "word": "俄罗斯",
+      "onboard_time": 1711851378,
+      "rank": 25,
+      "category": "国外时政"
+    },
+    {
+      "raw_hot": 215015,
+      "num": 215015,
+      "word": "多地学校厕所装防欺凌警报装置",
+      "onboard_time": 1711850297,
+      "rank": 26,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 213039,
@@ -307,6 +395,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 206482,
+      "num": 206482,
+      "word": "南昌暴雨",
+      "onboard_time": 1711846937,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 199072,
       "num": 199072,
       "word": "1800名肺癌患者赠药突然中止",
@@ -321,14 +417,6 @@
       "onboard_time": 1711807459,
       "rank": 25,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 189826,
-      "num": 189826,
-      "word": "南昌暴雨",
-      "onboard_time": 1711846937,
-      "rank": 31,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 187188,
@@ -371,6 +459,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 176690,
+      "num": 176690,
+      "word": "赵奕欢回应演网大出身",
+      "onboard_time": 1711851378,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 175875,
       "num": 137968,
       "word": "张杰演唱会上海六场收官",
@@ -393,6 +489,14 @@
       "onboard_time": 1711805839,
       "rank": 19,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 161151,
+      "num": 187642,
+      "word": "81岁女儿跨越81年找到烈士父亲",
+      "onboard_time": 1711850118,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 155537,
@@ -443,14 +547,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 147559,
-      "num": 138739,
-      "word": "赵晴回应于正让自己减肥",
-      "onboard_time": 1711848618,
-      "rank": 40,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 146727,
       "num": 285590,
       "word": "中央网信办整治涉企侵权信息乱象",
@@ -491,14 +587,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 138881,
-      "num": 138881,
-      "word": "06年出生的今年要成年了",
-      "onboard_time": 1711848498,
-      "rank": 39,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 138297,
       "num": 138297,
       "word": "代号鸢下载",
@@ -515,12 +603,28 @@
       "category": "艺人,汽车"
     },
     {
+      "raw_hot": 137397,
+      "num": 129589,
+      "word": "SEVENTEEN 堂吉诃德",
+      "onboard_time": 1711851617,
+      "rank": 42,
+      "category": "演出"
+    },
+    {
       "raw_hot": 136710,
       "num": 136710,
       "word": "福州暴雨",
       "onboard_time": 1711819755,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 128302,
+      "num": 128302,
+      "word": "判断睡眠好坏的3个关键",
+      "onboard_time": 1711850898,
+      "rank": 43,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 127674,
@@ -561,6 +665,14 @@
       "onboard_time": 1711818135,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 121332,
+      "num": 121332,
+      "word": "当你约公司顶梁柱出来旅游",
+      "onboard_time": 1711851738,
+      "rank": 45,
+      "category": "幽默"
     },
     {
       "raw_hot": 121182,
@@ -617,6 +729,14 @@
       "onboard_time": 1711809500,
       "rank": 43,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 110878,
+      "num": 110878,
+      "word": "王逍遥",
+      "onboard_time": 1711850358,
+      "rank": 48,
+      "category": "电竞"
     },
     {
       "raw_hot": 109769,
@@ -884,7 +1004,7 @@
     },
     {
       "raw_hot": 8385,
-      "num": 782766,
+      "num": 891104,
       "word": "2024中国网络媒体论坛",
       "onboard_time": 1711628721,
       "rank": 2,
