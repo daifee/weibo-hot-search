@@ -1,6 +1,6 @@
 {
   "startTime": 1711815680412,
-  "endTime": 1711866853376,
+  "endTime": 1711869352222,
   "band_list": [
     {
       "raw_hot": 2140814,
@@ -11,12 +11,28 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 1734647,
+      "num": 1734647,
+      "word": "雷军 我为张老师准备的车是顶配",
+      "onboard_time": 1711866498,
+      "rank": 10,
+      "category": "艺人,汽车"
+    },
+    {
       "raw_hot": 1590780,
       "num": 903492,
       "word": "纪凌尘认为分手舆情影响他接戏",
       "onboard_time": 1711852037,
       "rank": 13,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1438929,
+      "num": 1438929,
+      "word": "已婚男子王婆说媒相亲走红后道歉",
+      "onboard_time": 1711866318,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1435925,
@@ -139,14 +155,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 696305,
-      "num": 478172,
-      "word": "雷军 我为张老师准备的车是顶配",
-      "onboard_time": 1711866498,
-      "rank": 10,
-      "category": "艺人,汽车"
-    },
-    {
       "raw_hot": 691845,
       "num": 691845,
       "word": "尔冬升说张栋梁是天生的变态",
@@ -185,6 +193,22 @@
       "onboard_time": 1711854259,
       "rank": 6,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 602391,
+      "num": 404719,
+      "word": "让她读到真大学了",
+      "onboard_time": 1711866798,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 591211,
+      "num": 591211,
+      "word": "疑被打死男童生母与其男友被刑拘",
+      "onboard_time": 1711867158,
+      "rank": 5,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 588678,
@@ -299,6 +323,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 502589,
+      "num": 502589,
+      "word": "马英九访问大陆11天完整行程公布",
+      "onboard_time": 1711867457,
+      "rank": 7,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 496335,
       "num": 496335,
       "word": "Jennie将于6月solo回归",
@@ -323,8 +355,16 @@
       "category": "演出"
     },
     {
+      "raw_hot": 479096,
+      "num": 479096,
+      "word": "邓超买了摆摊小孩所有的画",
+      "onboard_time": 1711866257,
+      "rank": 20,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 475183,
-      "num": 220804,
+      "num": 355040,
       "word": "娜扎红色泳衣",
       "onboard_time": 1711864456,
       "rank": 15,
@@ -459,14 +499,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 349866,
-      "num": 210133,
-      "word": "邓超买了摆摊小孩所有的画",
-      "onboard_time": 1711866257,
-      "rank": 20,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 346401,
       "num": 297089,
       "word": "陈靖可回复",
@@ -483,8 +515,16 @@
       "category": "网红"
     },
     {
+      "raw_hot": 344136,
+      "num": 344136,
+      "word": "Ning王疑似恋爱",
+      "onboard_time": 1711868419,
+      "rank": 13,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 333616,
-      "num": 208713,
+      "num": 263216,
       "word": "爸爸穿的太显眼竟把女儿气哭",
       "onboard_time": 1711865598,
       "rank": 27,
@@ -523,6 +563,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 317074,
+      "num": 289293,
+      "word": "大学洗澡二十分钟被室友说太久",
+      "onboard_time": 1711866557,
+      "rank": 23,
+      "category": "情感"
+    },
+    {
       "raw_hot": 309342,
       "num": 329029,
       "word": "吃了词汇量大的亏",
@@ -537,6 +585,14 @@
       "onboard_time": 1711804520,
       "rank": 28,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 308430,
+      "num": 308430,
+      "word": "小米SU7部分订单已排到半年左右",
+      "onboard_time": 1711866377,
+      "rank": 14,
+      "category": "汽车"
     },
     {
       "raw_hot": 303916,
@@ -579,6 +635,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 296689,
+      "num": 296689,
+      "word": "雷军",
+      "onboard_time": 1711866917,
+      "rank": 18,
+      "category": "互联网,汽车"
+    },
+    {
       "raw_hot": 292040,
       "num": 292040,
       "word": "去东海救碧苍王",
@@ -619,6 +683,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 270813,
+      "num": 270813,
+      "word": "金智媛宋仲基三搭",
+      "onboard_time": 1711868717,
+      "rank": 22,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 270356,
       "num": 201870,
       "word": "陈星旭蓝发",
@@ -633,14 +705,6 @@
       "onboard_time": 1711792458,
       "rank": 14,
       "category": "财经"
-    },
-    {
-      "raw_hot": 258657,
-      "num": 206533,
-      "word": "大学洗澡二十分钟被室友说太久",
-      "onboard_time": 1711866557,
-      "rank": 23,
-      "category": "情感"
     },
     {
       "raw_hot": 257875,
@@ -683,6 +747,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 239869,
+      "num": 239869,
+      "word": "娜扎把微博当朋友圈发",
+      "onboard_time": 1711865777,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 239158,
       "num": 214687,
       "word": "亲妈收了百万彩礼却不给嫁妆",
@@ -707,6 +779,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 236037,
+      "num": 236037,
+      "word": "赵丽颖早就明示拍在人间了",
+      "onboard_time": 1711868717,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 234343,
       "num": 208995,
       "word": "郝蕾批评朱梓骁带货镜头切向佐",
@@ -723,28 +803,20 @@
       "category": "情感"
     },
     {
-      "raw_hot": 232657,
-      "num": 203637,
-      "word": "娜扎把微博当朋友圈发",
-      "onboard_time": 1711865777,
-      "rank": 40,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 231698,
-      "num": 200470,
-      "word": "让她读到真大学了",
-      "onboard_time": 1711866798,
-      "rank": 30,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 231172,
       "num": 231172,
       "word": "穷人有钱后能挥霍到什么程度",
       "onboard_time": 1711857499,
       "rank": 26,
       "category": "情感"
+    },
+    {
+      "raw_hot": 224351,
+      "num": 224351,
+      "word": "鞠婧祎红毯",
+      "onboard_time": 1711868658,
+      "rank": 26,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 218525,
@@ -755,12 +827,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 218048,
-      "num": 218048,
-      "word": "小米SU7部分订单已排到半年左右",
-      "onboard_time": 1711866377,
-      "rank": 14,
-      "category": "汽车"
+      "raw_hot": 216897,
+      "num": 216897,
+      "word": "王鹤棣周也或将合作",
+      "onboard_time": 1711868477,
+      "rank": 30,
+      "category": "剧集"
     },
     {
       "raw_hot": 215015,
@@ -769,6 +841,14 @@
       "onboard_time": 1711850297,
       "rank": 26,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 213595,
+      "num": 213595,
+      "word": "意外被父母看见了存款",
+      "onboard_time": 1711868357,
+      "rank": 31,
+      "category": "情感"
     },
     {
       "raw_hot": 213039,
@@ -955,6 +1035,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 179245,
+      "num": 179245,
+      "word": "鹿晗也逃不过科目三",
+      "onboard_time": 1711867878,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 179094,
       "num": 149902,
       "word": "长期喝奶茶可能会导致抑郁焦虑",
@@ -985,14 +1073,6 @@
       "onboard_time": 1711813039,
       "rank": 30,
       "category": "演出"
-    },
-    {
-      "raw_hot": 172240,
-      "num": 172240,
-      "word": "已婚男子王婆说媒相亲走红后道歉",
-      "onboard_time": 1711866318,
-      "rank": 36,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 167056,
@@ -1129,6 +1209,22 @@
       "onboard_time": 1711846636,
       "rank": 37,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 148740,
+      "num": 148740,
+      "word": "老外来中国旅游就跟开盲盒一样",
+      "onboard_time": 1711867996,
+      "rank": 36,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 148446,
+      "num": 148446,
+      "word": "aespa Spicy舞台",
+      "onboard_time": 1711868118,
+      "rank": 37,
+      "category": "演出"
     },
     {
       "raw_hot": 146727,
@@ -1315,6 +1411,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 121257,
+      "num": 121257,
+      "word": "第五人格",
+      "onboard_time": 1711867338,
+      "rank": 42,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 121182,
       "num": 121182,
       "word": "与凤行预告",
@@ -1329,6 +1433,14 @@
       "onboard_time": 1711862237,
       "rank": 39,
       "category": "教育"
+    },
+    {
+      "raw_hot": 119909,
+      "num": 119909,
+      "word": "烈焰 在天上挂了三天终于开打了",
+      "onboard_time": 1711869197,
+      "rank": 43,
+      "category": "剧集"
     },
     {
       "raw_hot": 118268,
@@ -1347,12 +1459,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 116589,
+      "num": 116589,
+      "word": "被MOKA直拍硬控半小时",
+      "onboard_time": 1711869197,
+      "rank": 45,
+      "category": "演出"
+    },
+    {
       "raw_hot": 116197,
       "num": 116197,
       "word": "宁静一语惊醒梦中人",
       "onboard_time": 1711843155,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 115668,
+      "num": 115668,
+      "word": "国医大师谈中医妇科产科使命",
+      "onboard_time": 1711869018,
+      "rank": 46,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 114732,
@@ -1393,6 +1521,14 @@
       "onboard_time": 1711809500,
       "rank": 43,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 112611,
+      "num": 112611,
+      "word": "脱发的人通常心火都比较旺",
+      "onboard_time": 1711867996,
+      "rank": 47,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 110878,
@@ -1556,7 +1692,7 @@
     },
     {
       "raw_hot": 85036,
-      "num": 972462,
+      "num": 1571599,
       "word": "美好生活在云南",
       "onboard_time": 1711858578,
       "rank": 2,
@@ -1576,6 +1712,14 @@
       "word": "老人被冻一夜也没舍得冷孩子",
       "onboard_time": 1711827851,
       "rank": 16,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 78230,
+      "num": 111879,
+      "word": "年轻人靠穿戴甲月入8万",
+      "onboard_time": 1711869317,
+      "rank": 48,
       "category": "社会新闻"
     },
     {
