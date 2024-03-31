@@ -1,0 +1,410 @@
+{
+  "runTime": 1711856114772,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1235478,
+        "num": 1235478,
+        "word": "赵奕欢被制片人踢出了演员行列",
+        "onboard_time": 1711853238,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 745541,
+        "num": 745541,
+        "word": "孙千172高不到97斤",
+        "onboard_time": 1711847959,
+        "rank": 1,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 6001,
+        "num": 665002,
+        "word": "2024中国网络媒体论坛",
+        "onboard_time": 1711628721,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1479910,
+        "num": 661048,
+        "word": "纪凌尘认为分手舆情影响他接戏",
+        "onboard_time": 1711852037,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 622896,
+        "num": 622896,
+        "word": "陈震回应删除与雷军合照",
+        "onboard_time": 1711850837,
+        "rank": 4,
+        "category": "互联网,汽车"
+      },
+      {
+        "raw_hot": 620873,
+        "num": 620873,
+        "word": "济州岛被玩成江浙沪后花园了",
+        "onboard_time": 1711853238,
+        "rank": 5,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 610475,
+        "num": 610475,
+        "word": "在人间官微",
+        "onboard_time": 1711854259,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 538000,
+        "num": 538000,
+        "word": "孙千回复",
+        "onboard_time": 1711855099,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 384041,
+        "num": 522123,
+        "word": "法国向45个国家寻求安保协助",
+        "onboard_time": 1711852518,
+        "rank": 8,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 363799,
+        "num": 516545,
+        "word": "一个富二代留学生被家里断供一年后",
+        "onboard_time": 1711809441,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 511137,
+        "num": 511137,
+        "word": "玄彬孙艺珍结婚两周年",
+        "onboard_time": 1711854438,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 491355,
+        "num": 491355,
+        "word": "每天久坐超4小时会怎样",
+        "onboard_time": 1711812021,
+        "rank": 11,
+        "category": "健康医疗,科学科普"
+      },
+      {
+        "raw_hot": 377812,
+        "num": 377812,
+        "word": "28岁我反而拥有了巨量快乐",
+        "onboard_time": 1711852878,
+        "rank": 12,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 352168,
+        "num": 352168,
+        "word": "吉克隽逸因司机迷路错过彩排",
+        "onboard_time": 1711847477,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 330008,
+        "num": 330008,
+        "word": "俄罗斯",
+        "onboard_time": 1711851378,
+        "rank": 14,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 304211,
+        "num": 304211,
+        "word": "俞敏洪回应抢董宇辉风头",
+        "onboard_time": 1711852937,
+        "rank": 15,
+        "category": "互联网,网红"
+      },
+      {
+        "raw_hot": 293571,
+        "num": 293571,
+        "word": "热辣滚烫北美票房",
+        "onboard_time": 1711855398,
+        "rank": 16,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 284655,
+        "num": 284655,
+        "word": "俞敏洪要求河南新东方文旅停播整顿",
+        "onboard_time": 1711854139,
+        "rank": 17,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 254463,
+        "num": 254463,
+        "word": "13岁男孩起诉妈妈归还100万房款",
+        "onboard_time": 1711845976,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 239102,
+        "num": 239102,
+        "word": "油价4月或进入8元时代",
+        "onboard_time": 1711850358,
+        "rank": 19,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 491767,
+        "num": 236333,
+        "word": "二战失败爸爸给了我20万",
+        "onboard_time": 1711853418,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 374160,
+        "num": 233094,
+        "word": "女性太瘦并不是件好事",
+        "onboard_time": 1711854378,
+        "rank": 21,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 327256,
+        "num": 231720,
+        "word": "人体最薄的皮肤在哪",
+        "onboard_time": 1711851076,
+        "rank": 22,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 225904,
+        "num": 225904,
+        "word": "4天酒店游客仅住1天被赶走",
+        "onboard_time": 1711847117,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 224877,
+        "num": 224877,
+        "word": "艺人四月行程图",
+        "onboard_time": 1711854259,
+        "rank": 24,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 222313,
+        "num": 222313,
+        "word": "眼泪女王收视率",
+        "onboard_time": 1711846577,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 216950,
+        "num": 216950,
+        "word": "李斯丹妮演唱会朝台下泼水",
+        "onboard_time": 1711849518,
+        "rank": 26,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 207349,
+        "num": 207349,
+        "word": "成毅斯凯奇预热",
+        "onboard_time": 1711854737,
+        "rank": 27,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 205347,
+        "num": 205347,
+        "word": "锦超曾因入戏太深恨其他演员",
+        "onboard_time": 1711850237,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 77929,
+        "num": 197109,
+        "word": "81岁女儿跨越81年找到烈士父亲",
+        "onboard_time": 1711850118,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 196161,
+        "num": 196161,
+        "word": "于正夸赵晴",
+        "onboard_time": 1711854678,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 191835,
+        "num": 191835,
+        "word": "孙颖莎彻底打服日本一号",
+        "onboard_time": 1711855997,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 176744,
+        "num": 176744,
+        "word": "去东海救碧苍王",
+        "onboard_time": 1711849158,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 169446,
+        "num": 169446,
+        "word": "06年出生的今年要成年了",
+        "onboard_time": 1711848498,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 165080,
+        "num": 165080,
+        "word": "Jennie将于6月solo回归",
+        "onboard_time": 1711844296,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 163944,
+        "num": 163944,
+        "word": "雷军张颂文 霸道总裁爱上我",
+        "onboard_time": 1711798218,
+        "rank": 35,
+        "category": "艺人,互联网"
+      },
+      {
+        "raw_hot": 162522,
+        "num": 162522,
+        "word": "奔驰加塞事件原视频",
+        "onboard_time": 1711840453,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 153495,
+        "num": 153495,
+        "word": "俄恐袭134名遇难者身份已确认",
+        "onboard_time": 1711851318,
+        "rank": 37,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 149501,
+        "num": 149501,
+        "word": "孙千是陈靖可的理想型",
+        "onboard_time": 1711809559,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 130206,
+        "num": 130206,
+        "word": "郝蕾说纪凌尘就是实力不够",
+        "onboard_time": 1711817955,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 125987,
+        "num": 125987,
+        "word": "薛之谦回国",
+        "onboard_time": 1711846636,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 122424,
+        "num": 122424,
+        "word": "SEVENTEEN 堂吉诃德",
+        "onboard_time": 1711851617,
+        "rank": 41,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 117831,
+        "num": 117831,
+        "word": "周雨彤苏晓彤是喝了多少",
+        "onboard_time": 1711844417,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 115811,
+        "num": 115811,
+        "word": "百日咳",
+        "onboard_time": 1711853838,
+        "rank": 43,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 114822,
+        "num": 114822,
+        "word": "荷兰欲砸近200亿元挽留光刻机巨头",
+        "onboard_time": 1711842014,
+        "rank": 44,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 112819,
+        "num": 112819,
+        "word": "钟楚曦侯雯元看张杰演唱会",
+        "onboard_time": 1711856057,
+        "rank": 45,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 112273,
+        "num": 112273,
+        "word": "谁懂这个后备箱的含金量",
+        "onboard_time": 1711853356,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 104902,
+        "num": 104902,
+        "word": "赵晴回应于正让自己减肥",
+        "onboard_time": 1711848618,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 101996,
+        "num": 101996,
+        "word": "陈楚生脱了",
+        "onboard_time": 1711805599,
+        "rank": 48,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 99158,
+        "num": 99158,
+        "word": "为了拍松弛感有多努力",
+        "onboard_time": 1711854198,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#确保粮食等重要农产品稳定安全供给#"
+    }
+  }
+}
