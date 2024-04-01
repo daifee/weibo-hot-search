@@ -1,6 +1,6 @@
 {
   "startTime": 1711902044401,
-  "endTime": 1711949685332,
+  "endTime": 1711952589462,
   "band_list": [
     {
       "raw_hot": 12825415,
@@ -39,6 +39,22 @@
       "num": 2382706,
       "word": "81192",
       "onboard_time": 1711935739,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2106976,
+      "num": 2106976,
+      "word": "旅日大熊猫爽爽死亡",
+      "onboard_time": 1711950321,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2051937,
+      "num": 2051937,
+      "word": "知情人称扔小孩母亲避开了安全气囊",
+      "onboard_time": 1711951221,
       "rank": 3,
       "category": "社会新闻"
     },
@@ -104,6 +120,14 @@
       "word": "扔小孩女子疑似精神行为异常",
       "onboard_time": 1711945585,
       "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1131381,
+      "num": 1131381,
+      "word": "女子欲扔第二个孩子时被控制",
+      "onboard_time": 1711951283,
+      "rank": 4,
       "category": "社会新闻"
     },
     {
@@ -204,7 +228,7 @@
     },
     {
       "raw_hot": 874024,
-      "num": 317194,
+      "num": 354385,
       "word": "刚领证发现老公欠了15万",
       "onboard_time": 1711946185,
       "rank": 20,
@@ -411,6 +435,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 522751,
+      "num": 522751,
+      "word": "最癫的是罗伯特",
+      "onboard_time": 1711949602,
+      "rank": 46,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 516400,
       "num": 516400,
       "word": "唐鹤德希望今天是复活节",
@@ -425,6 +457,14 @@
       "onboard_time": 1711898120,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 492236,
+      "num": 492236,
+      "word": "张元英生图",
+      "onboard_time": 1711949482,
+      "rank": 37,
+      "category": "艺人"
     },
     {
       "raw_hot": 488928,
@@ -619,6 +659,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 357444,
+      "num": 357444,
+      "word": "重庆女子高空抛子或不承担刑事责任",
+      "onboard_time": 1711952180,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 347499,
       "num": 347499,
       "word": "电影我才不要和你做朋友呢定档",
@@ -649,6 +697,14 @@
       "onboard_time": 1711897101,
       "rank": 20,
       "category": "演出"
+    },
+    {
+      "raw_hot": 322862,
+      "num": 322862,
+      "word": "试用期一天被辞退要工资有错吗",
+      "onboard_time": 1711950802,
+      "rank": 22,
+      "category": "情感"
     },
     {
       "raw_hot": 316342,
@@ -739,6 +795,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 277657,
+      "num": 277657,
+      "word": "南北站姐",
+      "onboard_time": 1711950142,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 270412,
       "num": 270412,
       "word": "成都警方回应迈巴赫撞倒多人",
@@ -755,6 +819,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 266566,
+      "num": 266566,
+      "word": "佘诗曼 隐形脐带没剪断",
+      "onboard_time": 1711949901,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 264587,
       "num": 264587,
       "word": "因为和父母关系不好直接改姓了",
@@ -769,6 +841,22 @@
       "onboard_time": 1711926557,
       "rank": 24,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 255714,
+      "num": 255714,
+      "word": "韩国总统首次就医改寻求妥协",
+      "onboard_time": 1711951640,
+      "rank": 27,
+      "category": "国外时政"
+    },
+    {
+      "raw_hot": 254326,
+      "num": 254326,
+      "word": "欧阳娜娜正面回应猫咪纹",
+      "onboard_time": 1711950681,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 239250,
@@ -796,7 +884,7 @@
     },
     {
       "raw_hot": 233934,
-      "num": 1709299,
+      "num": 2059298,
       "word": "有一种叫云南的生活",
       "onboard_time": 1711943841,
       "rank": 2,
@@ -867,6 +955,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 212174,
+      "num": 212174,
+      "word": "南昌强对流天气已致4死10余人伤",
+      "onboard_time": 1711952241,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 211533,
       "num": 211533,
       "word": "李云霄巡演合照",
@@ -905,14 +1001,6 @@
       "onboard_time": 1711946485,
       "rank": 40,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 202646,
-      "num": 202646,
-      "word": "张元英生图",
-      "onboard_time": 1711949482,
-      "rank": 37,
-      "category": "艺人"
     },
     {
       "raw_hot": 202637,
@@ -993,6 +1081,14 @@
       "onboard_time": 1711894220,
       "rank": 23,
       "category": "情感"
+    },
+    {
+      "raw_hot": 197374,
+      "num": 197374,
+      "word": "babymonster音源",
+      "onboard_time": 1711949781,
+      "rank": 34,
+      "category": "音乐"
     },
     {
       "raw_hot": 197335,
@@ -1091,6 +1187,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 190799,
+      "num": 190799,
+      "word": "成毅站姐发的最强绿卡line",
+      "onboard_time": 1711951582,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 187932,
       "num": 187932,
       "word": "女性对人狗关系的影响其实更大",
@@ -1147,14 +1251,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 179160,
-      "num": 179160,
-      "word": "最癫的是罗伯特",
-      "onboard_time": 1711949602,
-      "rank": 46,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 177988,
       "num": 177988,
       "word": "王伟烈士牺牲23年了",
@@ -1185,6 +1281,14 @@
       "onboard_time": 1711949240,
       "rank": 48,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 168755,
+      "num": 168755,
+      "word": "SEVENTEEN特典",
+      "onboard_time": 1711950321,
+      "rank": 38,
+      "category": "音乐"
     },
     {
       "raw_hot": 168630,
@@ -1369,6 +1473,14 @@
       "onboard_time": 1711935138,
       "rank": 39,
       "category": "财经"
+    },
+    {
+      "raw_hot": 126584,
+      "num": 126584,
+      "word": "周处除三害背后的台湾乱象",
+      "onboard_time": 1711952421,
+      "rank": 47,
+      "category": "电影"
     },
     {
       "raw_hot": 126391,
