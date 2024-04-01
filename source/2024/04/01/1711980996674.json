@@ -1,0 +1,410 @@
+{
+  "runTime": 1711980996674,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1804682,
+        "num": 1804682,
+        "word": "冯绍峰谈到儿子眼圈红了",
+        "onboard_time": 1711979001,
+        "rank": 0,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 1109842,
+        "num": 1109842,
+        "word": "郑爽若故意隐瞒转移财产或被判刑3年",
+        "onboard_time": 1711968380,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 71351,
+        "num": 685335,
+        "word": "七年雄安拔节生长",
+        "onboard_time": 1711975700,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 678056,
+        "num": 678056,
+        "word": "赵丽颖受刑戏又有钉子",
+        "onboard_time": 1711978280,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 633618,
+        "num": 633618,
+        "word": "6个月婴儿雨夜爬上马路被接力守护",
+        "onboard_time": 1711969460,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 601487,
+        "num": 601487,
+        "word": "玄彬孙艺珍出演眼泪女王",
+        "onboard_time": 1711975940,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 541298,
+        "num": 541298,
+        "word": "追风者阿文跳楼",
+        "onboard_time": 1711974019,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 379953,
+        "num": 379953,
+        "word": "王腾回应红米汽车",
+        "onboard_time": 1711979241,
+        "rank": 7,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 298962,
+        "num": 298962,
+        "word": "雷军恳请各位口下留情",
+        "onboard_time": 1711963821,
+        "rank": 8,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 275903,
+        "num": 275903,
+        "word": "新疆成为包邮区",
+        "onboard_time": 1711967001,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1769662,
+        "num": 274711,
+        "word": "女子睡觉被大风吹下11楼身亡",
+        "onboard_time": 1711971080,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1300538,
+        "num": 273530,
+        "word": "为什么无性婚姻越来越多",
+        "onboard_time": 1711976478,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 441811,
+        "num": 272065,
+        "word": "邓为站姐发了EXO",
+        "onboard_time": 1711976421,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 435299,
+        "num": 269936,
+        "word": "汪苏泷郁可唯互发自拍",
+        "onboard_time": 1711976478,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 349673,
+        "num": 267133,
+        "word": "朋友整个孕期抽了48管血",
+        "onboard_time": 1711969701,
+        "rank": 14,
+        "category": "母婴育儿"
+      },
+      {
+        "raw_hot": 341498,
+        "num": 265396,
+        "word": "上海一轿车失控撞飞多名路人",
+        "onboard_time": 1711972040,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 305526,
+        "num": 264603,
+        "word": "物业回应南昌一小区窗框吹落3人坠亡",
+        "onboard_time": 1711972640,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 304183,
+        "num": 261945,
+        "word": "宋昰昀被曝校园暴力",
+        "onboard_time": 1711975100,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 285969,
+        "num": 260878,
+        "word": "白鹿簪花妆",
+        "onboard_time": 1711975940,
+        "rank": 18,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 259261,
+        "num": 259261,
+        "word": "杨幂好用心",
+        "onboard_time": 1711975340,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 366747,
+        "num": 256163,
+        "word": "酒店拖鞋上这个洞有什么用",
+        "onboard_time": 1711977440,
+        "rank": 20,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 252653,
+        "num": 252653,
+        "word": "这居然是罗云熙",
+        "onboard_time": 1711966281,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 252640,
+        "num": 252640,
+        "word": "罗伯特头像",
+        "onboard_time": 1711969880,
+        "rank": 22,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 242761,
+        "num": 242761,
+        "word": "WBG对战iG",
+        "onboard_time": 1711969401,
+        "rank": 23,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 233334,
+        "num": 233334,
+        "word": "七宝街 我哭死",
+        "onboard_time": 1711979722,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 224395,
+        "num": 224395,
+        "word": "存了12万被妈妈一年花完了",
+        "onboard_time": 1711960341,
+        "rank": 25,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 222039,
+        "num": 222039,
+        "word": "爸爸用排烟管给女儿做了一条粉色龙",
+        "onboard_time": 1711979602,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 218272,
+        "num": 218272,
+        "word": "张大大在天水麻辣烫店当服务员",
+        "onboard_time": 1711972640,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 217417,
+        "num": 217417,
+        "word": "南昌天气",
+        "onboard_time": 1711967960,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 151628,
+        "num": 216731,
+        "word": "90后小伙银行离职后在殡葬行业找到人生价值",
+        "onboard_time": 1711980021,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 619548,
+        "num": 216729,
+        "word": "微信崩了",
+        "onboard_time": 1711962560,
+        "rank": 30,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 216611,
+        "num": 216611,
+        "word": "躁郁症比抑郁症更严重",
+        "onboard_time": 1711961480,
+        "rank": 31,
+        "category": "科学科普,健康医疗"
+      },
+      {
+        "raw_hot": 204320,
+        "num": 204320,
+        "word": "HYBE是不是疯了",
+        "onboard_time": 1711968020,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 100561,
+        "num": 193676,
+        "word": "南昌强对流天气已致4死10余人伤",
+        "onboard_time": 1711952241,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 188151,
+        "num": 188151,
+        "word": "花间令结局",
+        "onboard_time": 1711970002,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 181314,
+        "num": 181314,
+        "word": "爸妈已经发现工作不好找了",
+        "onboard_time": 1711966160,
+        "rank": 35,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 177821,
+        "num": 177821,
+        "word": "谁亲了卢昱晓",
+        "onboard_time": 1711974200,
+        "rank": 36,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 176530,
+        "num": 176530,
+        "word": "向佐尬聊",
+        "onboard_time": 1711978100,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 168414,
+        "num": 168414,
+        "word": "男朋友婚前隐瞒他7年前坐过牢",
+        "onboard_time": 1711966459,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 167430,
+        "num": 167430,
+        "word": "双子座迷人的反差感",
+        "onboard_time": 1711976361,
+        "rank": 39,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 165096,
+        "num": 165096,
+        "word": "裙裤叠穿",
+        "onboard_time": 1711976299,
+        "rank": 40,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 162220,
+        "num": 162220,
+        "word": "黄旭熙怎么又出道了",
+        "onboard_time": 1711963760,
+        "rank": 41,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 154085,
+        "num": 154085,
+        "word": "周也模仿陈欣怡",
+        "onboard_time": 1711973060,
+        "rank": 42,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 99305,
+        "num": 132719,
+        "word": "新生蔡元培莫言被北大拟录取",
+        "onboard_time": 1711961782,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 132295,
+        "num": 132295,
+        "word": "王者荣耀妲己 无双返场",
+        "onboard_time": 1711966820,
+        "rank": 44,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 127812,
+        "num": 127812,
+        "word": "韩商言 张元英转圈",
+        "onboard_time": 1711960161,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 106263,
+        "num": 127109,
+        "word": "班主任辞职参军全班沸腾了",
+        "onboard_time": 1711980981,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 126771,
+        "num": 126771,
+        "word": "成毅方回应被起诉",
+        "onboard_time": 1711976901,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 98455,
+        "num": 124624,
+        "word": "发传单教授",
+        "onboard_time": 1711979300,
+        "rank": 48,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 124587,
+        "num": 124587,
+        "word": "花间令郡主自杀了",
+        "onboard_time": 1711974380,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平同印尼当选总统普拉博沃会谈#"
+    }
+  }
+}
