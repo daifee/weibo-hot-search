@@ -1,6 +1,6 @@
 {
   "startTime": 1711902044401,
-  "endTime": 1711985674620,
+  "endTime": 1711988526523,
   "band_list": [
     {
       "raw_hot": 12825415,
@@ -579,6 +579,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 676112,
+      "num": 676112,
+      "word": "男性其实也有最佳生育年龄",
+      "onboard_time": 1711982301,
+      "rank": 24,
+      "category": "母婴育儿"
+    },
+    {
       "raw_hot": 672066,
       "num": 672066,
       "word": "杨幂卡点微博",
@@ -1059,6 +1067,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 417597,
+      "num": 417597,
+      "word": "妈妈陪读十年将自闭症儿子培养成调律师",
+      "onboard_time": 1711984880,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 415659,
       "num": 415659,
       "word": "宋亚轩站姐发了肖战",
@@ -1073,6 +1089,14 @@
       "onboard_time": 1711972640,
       "rank": 13,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 395656,
+      "num": 395656,
+      "word": "Joy站姐发了内娱的Joy",
+      "onboard_time": 1711984940,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 395161,
@@ -1257,14 +1281,6 @@
       "onboard_time": 1711966160,
       "rank": 33,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 341467,
-      "num": 341467,
-      "word": "男性其实也有最佳生育年龄",
-      "onboard_time": 1711982301,
-      "rank": 24,
-      "category": "母婴育儿"
     },
     {
       "raw_hot": 339067,
@@ -1563,6 +1579,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 257667,
+      "num": 257667,
+      "word": "站姐神图",
+      "onboard_time": 1711986319,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 254326,
       "num": 254326,
       "word": "欧阳娜娜正面回应猫咪纹",
@@ -1697,14 +1721,6 @@
       "onboard_time": 1711943841,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 233639,
-      "num": 188689,
-      "word": "Joy站姐发了内娱的Joy",
-      "onboard_time": 1711984940,
-      "rank": 26,
-      "category": "艺人"
     },
     {
       "raw_hot": 232920,
@@ -2467,6 +2483,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 168936,
+      "num": 168936,
+      "word": "把朋友圈权限给妈妈打开以后",
+      "onboard_time": 1711986079,
+      "rank": 20,
+      "category": "情感"
+    },
+    {
       "raw_hot": 168755,
       "num": 168755,
       "word": "SEVENTEEN特典",
@@ -2691,6 +2715,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 150606,
+      "num": 150606,
+      "word": "李沁王阳飙戏",
+      "onboard_time": 1711987998,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 149953,
       "num": 149953,
       "word": "愚人节文案",
@@ -2809,14 +2841,6 @@
       "onboard_time": 1711935198,
       "rank": 42,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 142696,
-      "num": 188550,
-      "word": "妈妈陪读十年将自闭症儿子培养成调律师",
-      "onboard_time": 1711984880,
-      "rank": 29,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 141600,
@@ -3019,6 +3043,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 104976,
+      "num": 104976,
+      "word": "五条悟模仿樱木花道",
+      "onboard_time": 1711987937,
+      "rank": 37,
+      "category": "动漫,作品衍生"
+    },
+    {
       "raw_hot": 101437,
       "num": 101437,
       "word": "赵露思回复了林俊杰",
@@ -3097,6 +3129,14 @@
       "onboard_time": 1711895479,
       "rank": 29,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 73737,
+      "num": 73737,
+      "word": "别借极端个案贩卖家庭矛盾焦虑",
+      "onboard_time": 1711986916,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 71351,
