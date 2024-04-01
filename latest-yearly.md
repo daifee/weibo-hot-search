@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/01/01 00:21:05 ~ 2024/04/01 11:34:48
+本榜单时间：2024/01/01 00:21:05 ~ 2024/04/01 12:21:05
 </p>
 </blockquote>
 <p>
@@ -95,6 +95,12 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B2%B3%E5%8C%97%E9%82%AF%E9%83%B8%E9%80%9A%E6%8A%A5%E5%88%9D%E4%B8%AD%E7%94%9F%E8%A2%AB%E6%9D%80%E5%AE%B3%E6%A1%88%23" target="weibo">
 河北邯郸通报初中生被杀害案（热度：11692231）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%87%8D%E5%BA%86%E4%B8%80%E5%B0%8F%E5%AD%A9%E8%A2%AB%E6%89%94%E4%B8%8B%E9%AB%98%E6%A5%BC%23" target="weibo">
+重庆一小孩被扔下高楼（热度：11342348）
 </a>
 </li>
 
@@ -1805,12 +1811,6 @@ Angel父亲离世（热度：2686013）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BF%84%E6%81%90%E8%A2%AD%E5%B7%B2%E8%87%B4143%E4%BA%BA%E9%81%87%E9%9A%BE%23" target="weibo">
 俄恐袭已致143人遇难（热度：2668002）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%BD%91%E7%BA%A2%E6%9D%A8%E8%80%81%E4%BA%8C%E5%8E%BB%E4%B8%96%23" target="weibo">
-网红杨老二去世（热度：2662399）
 </a>
 </li>
 

@@ -1,7 +1,15 @@
 {
   "startTime": 1711815680412,
-  "endTime": 1711942488344,
+  "endTime": 1711945265501,
   "band_list": [
+    {
+      "raw_hot": 11342348,
+      "num": 12592348,
+      "word": "重庆一小孩被扔下高楼",
+      "onboard_time": 1711941680,
+      "rank": 1,
+      "category": "社会新闻"
+    },
     {
       "raw_hot": 2776736,
       "num": 1041024,
@@ -9,6 +17,14 @@
       "onboard_time": 1711881079,
       "rank": 17,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 2382706,
+      "num": 2382706,
+      "word": "81192",
+      "onboard_time": 1711935739,
+      "rank": 3,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 2171960,
@@ -25,14 +41,6 @@
       "onboard_time": 1711864519,
       "rank": 0,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 2097713,
-      "num": 2097713,
-      "word": "81192",
-      "onboard_time": 1711935739,
-      "rank": 3,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 2006543,
@@ -59,12 +67,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1910184,
-      "num": 1910184,
-      "word": "重庆一小孩被扔下高楼",
-      "onboard_time": 1711941680,
-      "rank": 1,
-      "category": "社会新闻"
+      "raw_hot": 1910076,
+      "num": 540948,
+      "word": "最癫站姐",
+      "onboard_time": 1711942461,
+      "rank": 45,
+      "category": "艺人"
     },
     {
       "raw_hot": 1734647,
@@ -107,12 +115,28 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 1508210,
+      "num": 532507,
+      "word": "重庆扔小孩案第二名孩子没事",
+      "onboard_time": 1711944082,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1499855,
       "num": 1499855,
       "word": "上班七个月亏了两万多",
       "onboard_time": 1711894040,
       "rank": 17,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 1439282,
+      "num": 1439282,
+      "word": "八十家站姐发了迪丽热巴",
+      "onboard_time": 1711942940,
+      "rank": 3,
+      "category": "艺人"
     },
     {
       "raw_hot": 1435925,
@@ -305,6 +329,14 @@
       "onboard_time": 1711866798,
       "rank": 30,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 958339,
+      "num": 958339,
+      "word": "南昌突发强对流天气3人坠楼身亡",
+      "onboard_time": 1711941978,
+      "rank": 23,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 945169,
@@ -531,6 +563,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 672703,
+      "num": 672703,
+      "word": "凤凰传奇抢票",
+      "onboard_time": 1711941200,
+      "rank": 41,
+      "category": "演出"
+    },
+    {
       "raw_hot": 672066,
       "num": 672066,
       "word": "杨幂卡点微博",
@@ -665,6 +705,14 @@
       "onboard_time": 1711856057,
       "rank": 45,
       "category": "演出"
+    },
+    {
+      "raw_hot": 565050,
+      "num": 565050,
+      "word": "重庆警方回应小孩被扔下高楼",
+      "onboard_time": 1711942100,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 564418,
@@ -979,6 +1027,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 466055,
+      "num": 466055,
+      "word": "马英九",
+      "onboard_time": 1711941439,
+      "rank": 21,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 465637,
       "num": 465637,
       "word": "每天通勤几十公里可能被视为营运车",
@@ -1049,6 +1105,14 @@
       "onboard_time": 1711850237,
       "rank": 8,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 434808,
+      "num": 434808,
+      "word": "白月光沈翊回归了",
+      "onboard_time": 1711942882,
+      "rank": 16,
+      "category": "剧集"
     },
     {
       "raw_hot": 431304,
@@ -1179,14 +1243,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 384600,
-      "num": 384600,
-      "word": "马英九",
-      "onboard_time": 1711941439,
-      "rank": 21,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 384041,
       "num": 522123,
       "word": "法国向45个国家寻求安保协助",
@@ -1217,6 +1273,14 @@
       "onboard_time": 1711850358,
       "rank": 10,
       "category": "财经"
+    },
+    {
+      "raw_hot": 380268,
+      "num": 380268,
+      "word": "规培医生不该成为廉价劳动力",
+      "onboard_time": 1711941380,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 379278,
@@ -1291,12 +1355,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 359655,
-      "num": 359655,
-      "word": "南昌突发强对流天气3人坠楼身亡",
-      "onboard_time": 1711941978,
-      "rank": 23,
-      "category": "社会新闻"
+      "raw_hot": 356662,
+      "num": 356662,
+      "word": "杨迪 一年一度当流量的日子",
+      "onboard_time": 1711943782,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 347499,
@@ -1403,6 +1467,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 316342,
+      "num": 316342,
+      "word": "Epic愚人节宣布收购Steam",
+      "onboard_time": 1711942940,
+      "rank": 22,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 313905,
       "num": 313905,
       "word": "金秀贤宋仲基两大爆剧男神同框",
@@ -1459,6 +1531,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 305522,
+      "num": 305522,
+      "word": "352名缅北电诈嫌疑人移交中方",
+      "onboard_time": 1711943902,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 304483,
       "num": 315316,
       "word": "愚人节",
@@ -1473,14 +1553,6 @@
       "onboard_time": 1711848498,
       "rank": 39,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 303487,
-      "num": 303487,
-      "word": "凤凰传奇抢票",
-      "onboard_time": 1711941200,
-      "rank": 41,
-      "category": "演出"
     },
     {
       "raw_hot": 302636,
@@ -1715,6 +1787,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 262949,
+      "num": 262949,
+      "word": "婆婆请吊车将生产完的儿媳送上楼",
+      "onboard_time": 1711944744,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 260447,
       "num": 260447,
       "word": "呼叫81192",
@@ -1769,14 +1849,6 @@
       "onboard_time": 1711872737,
       "rank": 21,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 252145,
-      "num": 252145,
-      "word": "规培医生不该成为廉价劳动力",
-      "onboard_time": 1711941380,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 250872,
@@ -1963,6 +2035,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 231434,
+      "num": 231434,
+      "word": "马斯克称AI毁灭人类的可能性为20%",
+      "onboard_time": 1711944682,
+      "rank": 34,
+      "category": "科学科普,互联网"
+    },
+    {
       "raw_hot": 231172,
       "num": 231172,
       "word": "穷人有钱后能挥霍到什么程度",
@@ -2075,6 +2155,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 213743,
+      "num": 213743,
+      "word": "小米高管辟谣SU7锁单量",
+      "onboard_time": 1711943662,
+      "rank": 37,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 213595,
       "num": 213595,
       "word": "意外被父母看见了存款",
@@ -2155,14 +2243,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 209430,
-      "num": 209430,
-      "word": "重庆警方回应小孩被扔下高楼",
-      "onboard_time": 1711942100,
-      "rank": 36,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 208693,
       "num": 208693,
       "word": "澳门世界杯",
@@ -2187,12 +2267,28 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 208291,
+      "num": 1564788,
+      "word": "有一种叫云南的生活",
+      "onboard_time": 1711943841,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 208274,
       "num": 208274,
       "word": "变身罗伯特",
       "onboard_time": 1711939879,
       "rank": 35,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 207946,
+      "num": 207946,
+      "word": "特斯拉宣布原价1.2万星空灰车漆免费",
+      "onboard_time": 1711945224,
+      "rank": 38,
+      "category": "汽车"
     },
     {
       "raw_hot": 207892,
@@ -2305,6 +2401,14 @@
       "onboard_time": 1711927816,
       "rank": 21,
       "category": "情感"
+    },
+    {
+      "raw_hot": 200049,
+      "num": 200049,
+      "word": "大侦探",
+      "onboard_time": 1711943421,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 199988,
@@ -2547,14 +2651,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 186503,
-      "num": 186503,
-      "word": "最癫站姐",
-      "onboard_time": 1711942461,
-      "rank": 45,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 186154,
       "num": 186154,
       "word": "孙颖莎4比0王曼昱",
@@ -2577,6 +2673,14 @@
       "onboard_time": 1711812439,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 184479,
+      "num": 184479,
+      "word": "李昀锐站姐发了黄曦彦黄子琪",
+      "onboard_time": 1711945104,
+      "rank": 43,
+      "category": "艺人"
     },
     {
       "raw_hot": 183679,
@@ -2611,6 +2715,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 182741,
+      "num": 182741,
+      "word": "Turbo3",
+      "onboard_time": 1711944383,
+      "rank": 45,
+      "category": "数码"
+    },
+    {
       "raw_hot": 182690,
       "num": 182690,
       "word": "陈立农新歌",
@@ -2633,6 +2745,14 @@
       "onboard_time": 1711937478,
       "rank": 34,
       "category": "体育"
+    },
+    {
+      "raw_hot": 181301,
+      "num": 181301,
+      "word": "小米汽车回应安全问题",
+      "onboard_time": 1711944863,
+      "rank": 46,
+      "category": "汽车"
     },
     {
       "raw_hot": 181291,
@@ -2785,6 +2905,14 @@
       "onboard_time": 1711870939,
       "rank": 36,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 169106,
+      "num": 169106,
+      "word": "男子送外卖供女友上大学后分手",
+      "onboard_time": 1711945045,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 168630,
@@ -3868,7 +3996,7 @@
     },
     {
       "raw_hot": 81435,
-      "num": 305648,
+      "num": 441447,
       "word": "最大的奥迪",
       "onboard_time": 1711941500,
       "rank": 47,
@@ -3896,6 +4024,14 @@
       "word": "老人被冻一夜也没舍得冷孩子",
       "onboard_time": 1711827851,
       "rank": 16,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 79549,
+      "num": 302369,
+      "word": "成都惊现越狱熊猫",
+      "onboard_time": 1711943002,
+      "rank": 27,
       "category": "社会新闻"
     },
     {
