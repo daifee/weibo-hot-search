@@ -1,6 +1,6 @@
 {
   "startTime": 1711988526523,
-  "endTime": 1712010854141,
+  "endTime": 1712013556682,
   "band_list": [
     {
       "raw_hot": 855073,
@@ -19,12 +19,28 @@
       "category": "母婴育儿"
     },
     {
+      "raw_hot": 675238,
+      "num": 675238,
+      "word": "妈妈陪读十年将自闭症儿子培养成调律师",
+      "onboard_time": 1711984880,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 674991,
       "num": 674991,
       "word": "冯绍峰谈到儿子眼圈红了",
       "onboard_time": 1711979001,
       "rank": 1,
       "category": "电影"
+    },
+    {
+      "raw_hot": 620177,
+      "num": 620177,
+      "word": "班主任辞职参军全班沸腾了",
+      "onboard_time": 1711980981,
+      "rank": 4,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 594597,
@@ -59,12 +75,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 472426,
-      "num": 472426,
-      "word": "班主任辞职参军全班沸腾了",
-      "onboard_time": 1711980981,
-      "rank": 4,
-      "category": "社会新闻"
+      "raw_hot": 433725,
+      "num": 433725,
+      "word": "别再因为害羞放弃肛门指检了",
+      "onboard_time": 1711991834,
+      "rank": 48,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 426342,
@@ -72,14 +88,6 @@
       "word": "为什么无性婚姻越来越多",
       "onboard_time": 1711976478,
       "rank": 13,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 422875,
-      "num": 422875,
-      "word": "妈妈陪读十年将自闭症儿子培养成调律师",
-      "onboard_time": 1711984880,
-      "rank": 6,
       "category": "社会新闻"
     },
     {
@@ -115,12 +123,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 357064,
+      "num": 357064,
+      "word": "提灯定损",
+      "onboard_time": 1712005511,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 319779,
       "num": 319779,
       "word": "四川信托破产",
       "onboard_time": 1711981042,
       "rank": 9,
       "category": "财经"
+    },
+    {
+      "raw_hot": 284287,
+      "num": 284287,
+      "word": "90后小伙银行离职后在殡葬行业找到人生价值",
+      "onboard_time": 1711980021,
+      "rank": 16,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 279864,
@@ -139,14 +163,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 219169,
-      "num": 219169,
-      "word": "90后小伙银行离职后在殡葬行业找到人生价值",
-      "onboard_time": 1711980021,
-      "rank": 16,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 210543,
       "num": 210543,
       "word": "原来电话卡是有寿命的",
@@ -156,7 +172,7 @@
     },
     {
       "raw_hot": 204425,
-      "num": 110270,
+      "num": 115600,
       "word": "2天睡眠不足会让人感觉老了4岁",
       "onboard_time": 1711988896,
       "rank": 28,
@@ -171,12 +187,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 191945,
+      "num": 191945,
+      "word": "烧伤女孩百万救命款一夜凑齐哥哥泪谢浙江",
+      "onboard_time": 1712003169,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 189950,
       "num": 189950,
       "word": "6个月婴儿雨夜爬上马路被接力守护",
       "onboard_time": 1711969460,
       "rank": 18,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 185713,
+      "num": 185713,
+      "word": "于正 祝你也遇到法治咖",
+      "onboard_time": 1712000651,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 185099,
@@ -195,6 +227,30 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 173490,
+      "num": 173490,
+      "word": "南昌大风",
+      "onboard_time": 1712013136,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 172743,
+      "num": 172743,
+      "word": "iPhone6Plus被列入过时产品",
+      "onboard_time": 1712013075,
+      "rank": 15,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 171357,
+      "num": 171357,
+      "word": "最佳生育间隔是多久",
+      "onboard_time": 1711981701,
+      "rank": 32,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 166680,
       "num": 166680,
       "word": "玄彬孙艺珍出演眼泪女王",
@@ -209,22 +265,6 @@
       "onboard_time": 1711982181,
       "rank": 22,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 161563,
-      "num": 137995,
-      "word": "别再因为害羞放弃肛门指检了",
-      "onboard_time": 1711991834,
-      "rank": 48,
-      "category": "健康医疗"
-    },
-    {
-      "raw_hot": 160534,
-      "num": 62474,
-      "word": "提灯定损",
-      "onboard_time": 1712005511,
-      "rank": 36,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 152437,
@@ -267,6 +307,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 132234,
+      "num": 114957,
+      "word": "乳腺结节不疼更要警惕乳腺癌",
+      "onboard_time": 1712008391,
+      "rank": 24,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 131020,
       "num": 144161,
       "word": "酒店拖鞋上这个洞有什么用",
@@ -283,20 +331,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 128071,
-      "num": 128071,
-      "word": "最佳生育间隔是多久",
-      "onboard_time": 1711981701,
-      "rank": 32,
-      "category": "健康医疗"
-    },
-    {
-      "raw_hot": 127501,
-      "num": 61929,
-      "word": "于正 祝你也遇到法治咖",
-      "onboard_time": 1712000651,
-      "rank": 12,
-      "category": "艺人"
+      "raw_hot": 129456,
+      "num": 113665,
+      "word": "女子豌杂面加香菜加到店家崩溃",
+      "onboard_time": 1711982901,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 117374,
@@ -363,6 +403,22 @@
       "category": "电影"
     },
     {
+      "raw_hot": 92278,
+      "num": 92278,
+      "word": "奥本海默日本上映观众情绪复杂",
+      "onboard_time": 1711995131,
+      "rank": 39,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 91654,
+      "num": 91654,
+      "word": "这3种情况不建议洗澡",
+      "onboard_time": 1712004069,
+      "rank": 21,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 91415,
       "num": 91415,
       "word": "失恋就是很苦的",
@@ -387,6 +443,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 87897,
+      "num": 87897,
+      "word": "王艳贵女路透",
+      "onboard_time": 1712003411,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 86425,
       "num": 86425,
       "word": "欢乐颂5",
@@ -401,6 +465,14 @@
       "onboard_time": 1711979602,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 76783,
+      "num": 76783,
+      "word": "与凤行 知识狡猾地进入我脑袋",
+      "onboard_time": 1712010734,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 76737,
@@ -452,7 +524,7 @@
     },
     {
       "raw_hot": 69210,
-      "num": 28726,
+      "num": 56732,
       "word": "陈汉典 披荆斩棘的哥哥",
       "onboard_time": 1712004850,
       "rank": 32,
@@ -467,80 +539,32 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 56453,
-      "num": 41509,
-      "word": "乳腺结节不疼更要警惕乳腺癌",
-      "onboard_time": 1712008391,
-      "rank": 24,
-      "category": "健康医疗"
-    },
-    {
-      "raw_hot": 55756,
-      "num": 70374,
-      "word": "女子豌杂面加香菜加到店家崩溃",
-      "onboard_time": 1711982901,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 48831,
-      "num": 40704,
-      "word": "这3种情况不建议洗澡",
-      "onboard_time": 1712004069,
-      "rank": 21,
-      "category": "健康医疗"
-    },
-    {
-      "raw_hot": 45766,
-      "num": 45766,
+      "raw_hot": 59438,
+      "num": 59438,
       "word": "欢瑞为成毅怒怼前公司",
       "onboard_time": 1711992552,
       "rank": 40,
       "category": "艺人"
     },
     {
-      "raw_hot": 42117,
-      "num": 42117,
-      "word": "烧伤女孩百万救命款一夜凑齐哥哥泪谢浙江",
-      "onboard_time": 1712003169,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 41288,
-      "num": 36439,
+      "raw_hot": 57627,
+      "num": 57627,
       "word": "东审未来倒闭声明",
       "onboard_time": 1712007490,
       "rank": 32,
       "category": "艺人"
     },
     {
-      "raw_hot": 38364,
-      "num": 38364,
-      "word": "王艳贵女路透",
-      "onboard_time": 1712003411,
-      "rank": 41,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 37033,
-      "num": 37033,
+      "raw_hot": 48006,
+      "num": 48006,
       "word": "站姐撞图",
       "onboard_time": 1712006170,
       "rank": 48,
       "category": "艺人"
     },
     {
-      "raw_hot": 35893,
-      "num": 35893,
-      "word": "奥本海默日本上映观众情绪复杂",
-      "onboard_time": 1711995131,
-      "rank": 39,
-      "category": "电影"
-    },
-    {
-      "raw_hot": 35890,
-      "num": 24020,
+      "raw_hot": 44784,
+      "num": 44784,
       "word": "阮经天砍价自曝祖坟",
       "onboard_time": 1711998250,
       "rank": 35,
@@ -571,16 +595,8 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 19418,
-      "num": 23774,
-      "word": "与凤行 知识狡猾地进入我脑袋",
-      "onboard_time": 1712010734,
-      "rank": 49,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 2560,
-      "num": 326738,
+      "raw_hot": 5277,
+      "num": 521871,
       "word": "万千气象看云南",
       "onboard_time": 1711807280,
       "rank": 2,

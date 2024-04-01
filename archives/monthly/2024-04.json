@@ -1,6 +1,6 @@
 {
   "startTime": 1711902044401,
-  "endTime": 1712010854141,
+  "endTime": 1712013556682,
   "band_list": [
     {
       "raw_hot": 12825415,
@@ -587,6 +587,14 @@
       "category": "母婴育儿"
     },
     {
+      "raw_hot": 675238,
+      "num": 675238,
+      "word": "妈妈陪读十年将自闭症儿子培养成调律师",
+      "onboard_time": 1711984880,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 672066,
       "num": 672066,
       "word": "杨幂卡点微博",
@@ -1027,6 +1035,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 433725,
+      "num": 433725,
+      "word": "别再因为害羞放弃肛门指检了",
+      "onboard_time": 1711991834,
+      "rank": 48,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 432759,
       "num": 432759,
       "word": "张若昀站姐发了赵丽颖",
@@ -1057,14 +1073,6 @@
       "onboard_time": 1711955660,
       "rank": 43,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 422875,
-      "num": 422875,
-      "word": "妈妈陪读十年将自闭症儿子培养成调律师",
-      "onboard_time": 1711984880,
-      "rank": 29,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 421427,
@@ -1241,6 +1249,14 @@
       "onboard_time": 1711948222,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 357064,
+      "num": 357064,
+      "word": "提灯定损",
+      "onboard_time": 1712005511,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 347559,
@@ -1908,7 +1924,7 @@
     },
     {
       "raw_hot": 204425,
-      "num": 110270,
+      "num": 115600,
       "word": "2天睡眠不足会让人感觉老了4岁",
       "onboard_time": 1711988896,
       "rank": 28,
@@ -2211,6 +2227,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 191945,
+      "num": 191945,
+      "word": "烧伤女孩百万救命款一夜凑齐哥哥泪谢浙江",
+      "onboard_time": 1712003169,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 191431,
       "num": 191431,
       "word": "人间四月天",
@@ -2281,6 +2305,14 @@
       "onboard_time": 1711949302,
       "rank": 43,
       "category": "情感"
+    },
+    {
+      "raw_hot": 185713,
+      "num": 185713,
+      "word": "于正 祝你也遇到法治咖",
+      "onboard_time": 1712000651,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 185099,
@@ -2467,12 +2499,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 173490,
+      "num": 173490,
+      "word": "南昌大风",
+      "onboard_time": 1712013136,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 172818,
       "num": 172818,
       "word": "WBG战胜iG",
       "onboard_time": 1711985000,
       "rank": 32,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 172743,
+      "num": 172743,
+      "word": "iPhone6Plus被列入过时产品",
+      "onboard_time": 1712013075,
+      "rank": 15,
+      "category": "数码"
     },
     {
       "raw_hot": 171604,
@@ -2595,28 +2643,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 161563,
-      "num": 137995,
-      "word": "别再因为害羞放弃肛门指检了",
-      "onboard_time": 1711991834,
-      "rank": 48,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 161444,
       "num": 161444,
       "word": "李逍遥竟然是拂容君",
       "onboard_time": 1711889239,
       "rank": 34,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 160534,
-      "num": 62474,
-      "word": "提灯定损",
-      "onboard_time": 1712005511,
-      "rank": 36,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 160247,
@@ -2955,6 +2987,14 @@
       "category": "动漫,作品衍生"
     },
     {
+      "raw_hot": 132234,
+      "num": 114957,
+      "word": "乳腺结节不疼更要警惕乳腺癌",
+      "onboard_time": 1712008391,
+      "rank": 24,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 130601,
       "num": 150534,
       "word": "金价狂飙还会再涨吗",
@@ -2963,20 +3003,20 @@
       "category": "财经"
     },
     {
+      "raw_hot": 129456,
+      "num": 113665,
+      "word": "女子豌杂面加香菜加到店家崩溃",
+      "onboard_time": 1711982901,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 128647,
       "num": 638959,
       "word": "浙大走廊被紫藤花淹没",
       "onboard_time": 1711965140,
       "rank": 9,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 127501,
-      "num": 61929,
-      "word": "于正 祝你也遇到法治咖",
-      "onboard_time": 1712000651,
-      "rank": 12,
-      "category": "艺人"
     },
     {
       "raw_hot": 126719,
@@ -3155,6 +3195,30 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 92278,
+      "num": 92278,
+      "word": "奥本海默日本上映观众情绪复杂",
+      "onboard_time": 1711995131,
+      "rank": 39,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 91654,
+      "num": 91654,
+      "word": "这3种情况不建议洗澡",
+      "onboard_time": 1712004069,
+      "rank": 21,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 87897,
+      "num": 87897,
+      "word": "王艳贵女路透",
+      "onboard_time": 1712003411,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 82606,
       "num": 82606,
       "word": "四月文案",
@@ -3169,6 +3233,14 @@
       "onboard_time": 1711941500,
       "rank": 47,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 76783,
+      "num": 76783,
+      "word": "与凤行 知识狡猾地进入我脑袋",
+      "onboard_time": 1712010734,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 76275,
@@ -3212,7 +3284,7 @@
     },
     {
       "raw_hot": 69210,
-      "num": 28726,
+      "num": 56732,
       "word": "陈汉典 披荆斩棘的哥哥",
       "onboard_time": 1712004850,
       "rank": 32,
@@ -3243,12 +3315,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 59438,
+      "num": 59438,
+      "word": "欢瑞为成毅怒怼前公司",
+      "onboard_time": 1711992552,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 58418,
       "num": 58418,
       "word": "刘诗诗短发齐刘海旧照",
       "onboard_time": 1711923133,
       "rank": 43,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 57627,
+      "num": 57627,
+      "word": "东审未来倒闭声明",
+      "onboard_time": 1712007490,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 57184,
@@ -3267,28 +3355,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 56453,
-      "num": 41509,
-      "word": "乳腺结节不疼更要警惕乳腺癌",
-      "onboard_time": 1712008391,
-      "rank": 24,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 55955,
       "num": 92274,
       "word": "山东泰山",
       "onboard_time": 1711893140,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 55756,
-      "num": 70374,
-      "word": "女子豌杂面加香菜加到店家崩溃",
-      "onboard_time": 1711982901,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 53020,
@@ -3315,12 +3387,12 @@
       "category": "数码"
     },
     {
-      "raw_hot": 48831,
-      "num": 40704,
-      "word": "这3种情况不建议洗澡",
-      "onboard_time": 1712004069,
-      "rank": 21,
-      "category": "健康医疗"
+      "raw_hot": 48006,
+      "num": 48006,
+      "word": "站姐撞图",
+      "onboard_time": 1712006170,
+      "rank": 48,
+      "category": "艺人"
     },
     {
       "raw_hot": 47548,
@@ -3331,12 +3403,12 @@
       "category": "时尚"
     },
     {
-      "raw_hot": 45766,
-      "num": 45766,
-      "word": "欢瑞为成毅怒怼前公司",
-      "onboard_time": 1711992552,
-      "rank": 40,
-      "category": "艺人"
+      "raw_hot": 44784,
+      "num": 44784,
+      "word": "阮经天砍价自曝祖坟",
+      "onboard_time": 1711998250,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 44491,
@@ -3355,60 +3427,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 42117,
-      "num": 42117,
-      "word": "烧伤女孩百万救命款一夜凑齐哥哥泪谢浙江",
-      "onboard_time": 1712003169,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 41288,
-      "num": 36439,
-      "word": "东审未来倒闭声明",
-      "onboard_time": 1712007490,
-      "rank": 32,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 38776,
       "num": 38776,
       "word": "王劲松出演拜月教主",
       "onboard_time": 1711908493,
       "rank": 42,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 38364,
-      "num": 38364,
-      "word": "王艳贵女路透",
-      "onboard_time": 1712003411,
-      "rank": 41,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 37033,
-      "num": 37033,
-      "word": "站姐撞图",
-      "onboard_time": 1712006170,
-      "rank": 48,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 35893,
-      "num": 35893,
-      "word": "奥本海默日本上映观众情绪复杂",
-      "onboard_time": 1711995131,
-      "rank": 39,
-      "category": "电影"
-    },
-    {
-      "raw_hot": 35890,
-      "num": 24020,
-      "word": "阮经天砍价自曝祖坟",
-      "onboard_time": 1711998250,
-      "rank": 35,
-      "category": "综艺"
     },
     {
       "raw_hot": 33969,
@@ -3441,14 +3465,6 @@
       "onboard_time": 1711999571,
       "rank": 44,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 19418,
-      "num": 23774,
-      "word": "与凤行 知识狡猾地进入我脑袋",
-      "onboard_time": 1712010734,
-      "rank": 49,
-      "category": "剧集"
     },
     {
       "raw_hot": 11652,
