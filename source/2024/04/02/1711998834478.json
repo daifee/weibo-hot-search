@@ -1,0 +1,410 @@
+{
+  "runTime": 1711998834478,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 97094,
+        "num": 97094,
+        "word": "把朋友圈权限给妈妈打开以后",
+        "onboard_time": 1711986079,
+        "rank": 0,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 94660,
+        "num": 94660,
+        "word": "郑爽若故意隐瞒转移财产或被判刑3年",
+        "onboard_time": 1711968380,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1841,
+        "num": 74128,
+        "word": "万千气象看云南",
+        "onboard_time": 1711807280,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 70495,
+        "num": 70495,
+        "word": "冯绍峰谈到儿子眼圈红了",
+        "onboard_time": 1711979001,
+        "rank": 3,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 59679,
+        "num": 59679,
+        "word": "周也头像",
+        "onboard_time": 1711996512,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 59605,
+        "num": 59605,
+        "word": "男性其实也有最佳生育年龄",
+        "onboard_time": 1711982301,
+        "rank": 5,
+        "category": "母婴育儿"
+      },
+      {
+        "raw_hot": 51057,
+        "num": 51057,
+        "word": "妈妈陪读十年将自闭症儿子培养成调律师",
+        "onboard_time": 1711984880,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 50427,
+        "num": 50427,
+        "word": "新版赵灵儿 阴蚀王",
+        "onboard_time": 1711983322,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 44587,
+        "num": 44587,
+        "word": "班主任辞职参军全班沸腾了",
+        "onboard_time": 1711980981,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 38011,
+        "num": 38011,
+        "word": "迪丽热巴被摸手臂",
+        "onboard_time": 1711990334,
+        "rank": 9,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 123413,
+        "num": 37674,
+        "word": "女子睡觉被大风吹下11楼身亡",
+        "onboard_time": 1711971080,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 88533,
+        "num": 36885,
+        "word": "别再因为害羞放弃肛门指检了",
+        "onboard_time": 1711991834,
+        "rank": 11,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 80779,
+        "num": 36609,
+        "word": "阿福朱莉离婚",
+        "onboard_time": 1711982002,
+        "rank": 12,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 53913,
+        "num": 35902,
+        "word": "为什么无性婚姻越来越多",
+        "onboard_time": 1711976478,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 35721,
+        "num": 35721,
+        "word": "90后小伙银行离职后在殡葬行业找到人生价值",
+        "onboard_time": 1711980021,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 35346,
+        "num": 35346,
+        "word": "生过和没生过孩子的都沉默了",
+        "onboard_time": 1711982781,
+        "rank": 15,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 32730,
+        "num": 32730,
+        "word": "邓为站姐发了EXO",
+        "onboard_time": 1711976421,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 32725,
+        "num": 32725,
+        "word": "欢瑞为成毅怒怼前公司",
+        "onboard_time": 1711992552,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 32014,
+        "num": 32014,
+        "word": "周也模仿陈欣怡",
+        "onboard_time": 1711973060,
+        "rank": 18,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 31035,
+        "num": 31035,
+        "word": "四川信托破产",
+        "onboard_time": 1711981042,
+        "rank": 19,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 49082,
+        "num": 31021,
+        "word": "2天睡眠不足会让人感觉老了4岁",
+        "onboard_time": 1711988896,
+        "rank": 20,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 29956,
+        "num": 29956,
+        "word": "王一博演技",
+        "onboard_time": 1711982181,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 29134,
+        "num": 29134,
+        "word": "花间令结局",
+        "onboard_time": 1711970002,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 28664,
+        "num": 28664,
+        "word": "酒店拖鞋上这个洞有什么用",
+        "onboard_time": 1711977440,
+        "rank": 23,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 27131,
+        "num": 27131,
+        "word": "女子豌杂面加香菜加到店家崩溃",
+        "onboard_time": 1711982901,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 25448,
+        "num": 25448,
+        "word": "原来电话卡是有寿命的",
+        "onboard_time": 1711982781,
+        "rank": 25,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 25111,
+        "num": 25111,
+        "word": "奥本海默日本上映观众情绪复杂",
+        "onboard_time": 1711995131,
+        "rank": 26,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 24456,
+        "num": 24456,
+        "word": "王者荣耀妲己 无双返场",
+        "onboard_time": 1711966820,
+        "rank": 27,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 23615,
+        "num": 23615,
+        "word": "追风者 拿奖",
+        "onboard_time": 1711983322,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 23059,
+        "num": 23059,
+        "word": "南昌天气",
+        "onboard_time": 1711967960,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 75693,
+        "num": 23036,
+        "word": "微信崩了",
+        "onboard_time": 1711962560,
+        "rank": 30,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 23079,
+        "num": 23023,
+        "word": "玄彬孙艺珍出演眼泪女王",
+        "onboard_time": 1711975940,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 22939,
+        "num": 22939,
+        "word": "王者荣耀新赛季",
+        "onboard_time": 1711981161,
+        "rank": 32,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 22278,
+        "num": 22278,
+        "word": "站姐神图",
+        "onboard_time": 1711986319,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 22223,
+        "num": 22223,
+        "word": "李沁王阳飙戏",
+        "onboard_time": 1711987998,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 22015,
+        "num": 22015,
+        "word": "阮经天砍价自曝祖坟",
+        "onboard_time": 1711998250,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 21997,
+        "num": 21997,
+        "word": "五条悟模仿樱木花道",
+        "onboard_time": 1711987937,
+        "rank": 36,
+        "category": "动漫,作品衍生"
+      },
+      {
+        "raw_hot": 21627,
+        "num": 21627,
+        "word": "朋友整个孕期抽了48管血",
+        "onboard_time": 1711969701,
+        "rank": 37,
+        "category": "母婴育儿"
+      },
+      {
+        "raw_hot": 20988,
+        "num": 20988,
+        "word": "HYBE是不是疯了",
+        "onboard_time": 1711968020,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 20164,
+        "num": 20902,
+        "word": "爸爸用排烟管给女儿做了一条粉色龙",
+        "onboard_time": 1711979602,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 20830,
+        "num": 20830,
+        "word": "最佳生育间隔是多久",
+        "onboard_time": 1711981701,
+        "rank": 40,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 19941,
+        "num": 19941,
+        "word": "6个月婴儿雨夜爬上马路被接力守护",
+        "onboard_time": 1711969460,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 19551,
+        "num": 19551,
+        "word": "金宇珍向StrayKids道歉",
+        "onboard_time": 1711982841,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 19475,
+        "num": 19475,
+        "word": "徐正溪站姐发了赵丽颖",
+        "onboard_time": 1711981042,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 18481,
+        "num": 19470,
+        "word": "Joy站姐发了内娱的Joy",
+        "onboard_time": 1711984940,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 17942,
+        "num": 19460,
+        "word": "存了12万被妈妈一年花完了",
+        "onboard_time": 1711960341,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 17933,
+        "num": 19451,
+        "word": "躁郁症比抑郁症更严重",
+        "onboard_time": 1711961480,
+        "rank": 46,
+        "category": "科学科普,健康医疗"
+      },
+      {
+        "raw_hot": 17827,
+        "num": 19433,
+        "word": "花间令有第二季吗",
+        "onboard_time": 1711994112,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 16616,
+        "num": 19419,
+        "word": "赵丽颖给熊猫玩偶喂水",
+        "onboard_time": 1711982600,
+        "rank": 48,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 16382,
+        "num": 19405,
+        "word": "别借极端个案贩卖家庭矛盾焦虑",
+        "onboard_time": 1711986916,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平同印尼当选总统普拉博沃会谈#"
+    }
+  }
+}

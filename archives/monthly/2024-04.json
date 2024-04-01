@@ -1,6 +1,6 @@
 {
   "startTime": 1711902044401,
-  "endTime": 1711996447291,
+  "endTime": 1711998834478,
   "band_list": [
     {
       "raw_hot": 12825415,
@@ -3211,6 +3211,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 59679,
+      "num": 59679,
+      "word": "周也头像",
+      "onboard_time": 1711996512,
+      "rank": 4,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 58418,
       "num": 58418,
       "word": "刘诗诗短发齐刘海旧照",
@@ -3345,6 +3353,14 @@
       "onboard_time": 1711918030,
       "rank": 40,
       "category": "母婴育儿"
+    },
+    {
+      "raw_hot": 22015,
+      "num": 22015,
+      "word": "阮经天砍价自曝祖坟",
+      "onboard_time": 1711998250,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 11652,

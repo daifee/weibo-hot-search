@@ -1,6 +1,6 @@
 {
   "startTime": 1711988526523,
-  "endTime": 1711996447291,
+  "endTime": 1711998834478,
   "band_list": [
     {
       "raw_hot": 855073,
@@ -435,6 +435,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 59679,
+      "num": 59679,
+      "word": "周也头像",
+      "onboard_time": 1711996512,
+      "rank": 4,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 55756,
       "num": 70374,
       "word": "女子豌杂面加香菜加到店家崩溃",
@@ -473,6 +481,14 @@
       "onboard_time": 1711994112,
       "rank": 48,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 22015,
+      "num": 22015,
+      "word": "阮经天砍价自曝祖坟",
+      "onboard_time": 1711998250,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 2474,
