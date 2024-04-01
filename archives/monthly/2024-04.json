@@ -1,6 +1,6 @@
 {
   "startTime": 1711902044401,
-  "endTime": 1711956882542,
+  "endTime": 1711959825330,
   "band_list": [
     {
       "raw_hot": 12825415,
@@ -323,6 +323,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 711398,
+      "num": 711398,
+      "word": "茶百道 进不去",
+      "onboard_time": 1711956560,
+      "rank": 30,
+      "category": "美食"
+    },
+    {
       "raw_hot": 709112,
       "num": 709112,
       "word": "特斯拉宣布原价1.2万星空灰车漆免费",
@@ -344,6 +352,14 @@
       "word": "张元英站姐发了刘耀文",
       "onboard_time": 1711902258,
       "rank": 14,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 680615,
+      "num": 680615,
+      "word": "李汶翰 BOSS直聘",
+      "onboard_time": 1711957579,
+      "rank": 5,
       "category": "艺人"
     },
     {
@@ -371,6 +387,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 643264,
+      "num": 643264,
+      "word": "为什么高铁上跳过了E直接是F座",
+      "onboard_time": 1711952840,
+      "rank": 40,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 640453,
       "num": 640453,
       "word": "张国荣",
@@ -388,7 +412,7 @@
     },
     {
       "raw_hot": 609557,
-      "num": 418134,
+      "num": 492329,
       "word": "贾跃亭点评小米汽车",
       "onboard_time": 1711955301,
       "rank": 19,
@@ -507,6 +531,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 511246,
+      "num": 511246,
+      "word": "美国强生一款心脏泵致49人死亡",
+      "onboard_time": 1711956201,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 496413,
       "num": 567487,
       "word": "女子工作1年半胖40斤判若两人",
@@ -603,6 +635,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 432759,
+      "num": 432759,
+      "word": "张若昀站姐发了赵丽颖",
+      "onboard_time": 1711956140,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 422989,
+      "num": 422989,
+      "word": "周雨彤 裸背",
+      "onboard_time": 1711955660,
+      "rank": 43,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 415659,
       "num": 415659,
       "word": "宋亚轩站姐发了肖战",
@@ -611,12 +659,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 412646,
-      "num": 412646,
-      "word": "张若昀站姐发了赵丽颖",
-      "onboard_time": 1711956140,
+      "raw_hot": 395948,
+      "num": 395948,
+      "word": "开封王婆说媒现在变味了",
+      "onboard_time": 1711957159,
       "rank": 14,
-      "category": "艺人"
+      "category": "社会新闻"
     },
     {
       "raw_hot": 395161,
@@ -667,14 +715,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 375614,
-      "num": 375614,
-      "word": "周雨彤 裸背",
-      "onboard_time": 1711955660,
-      "rank": 43,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 371777,
       "num": 565200,
       "word": "莎头",
@@ -721,6 +761,14 @@
       "onboard_time": 1711948222,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 356514,
+      "num": 356514,
+      "word": "羊幂无语",
+      "onboard_time": 1711959080,
+      "rank": 16,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 347559,
@@ -779,6 +827,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 316988,
+      "num": 316988,
+      "word": "南昌强对流天气已致4死10余人伤",
+      "onboard_time": 1711952241,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 316342,
       "num": 316342,
       "word": "Epic愚人节宣布收购Steam",
@@ -808,14 +864,6 @@
       "word": "愚人节",
       "onboard_time": 1711895360,
       "rank": 18,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 300479,
-      "num": 300479,
-      "word": "南昌强对流天气已致4死10余人伤",
-      "onboard_time": 1711952241,
-      "rank": 32,
       "category": "社会新闻"
     },
     {
@@ -907,14 +955,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 275605,
-      "num": 200242,
-      "word": "茶百道 进不去",
-      "onboard_time": 1711956560,
-      "rank": 30,
-      "category": "美食"
-    },
-    {
       "raw_hot": 270412,
       "num": 270412,
       "word": "成都警方回应迈巴赫撞倒多人",
@@ -945,14 +985,6 @@
       "onboard_time": 1711926557,
       "rank": 24,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 256639,
-      "num": 425059,
-      "word": "为什么高铁上跳过了E直接是F座",
-      "onboard_time": 1711952840,
-      "rank": 40,
-      "category": "科学科普"
     },
     {
       "raw_hot": 254326,
@@ -1009,6 +1041,14 @@
       "onboard_time": 1711940541,
       "rank": 32,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 231971,
+      "num": 231971,
+      "word": "承欢记定档",
+      "onboard_time": 1711958601,
+      "rank": 24,
+      "category": "剧集"
     },
     {
       "raw_hot": 231434,
@@ -1099,6 +1139,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 203354,
+      "num": 203354,
+      "word": "牛春苗为什么没全国海选",
+      "onboard_time": 1711958181,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 203314,
       "num": 203314,
       "word": "桑启新皮肤上线",
@@ -1136,6 +1184,22 @@
       "word": "四月是你的谎言",
       "onboard_time": 1711936218,
       "rank": 30,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 201424,
+      "num": 201424,
+      "word": "中方坚定支持巴方严惩恐袭凶手及主使",
+      "onboard_time": 1711956380,
+      "rank": 47,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 201232,
+      "num": 201232,
+      "word": "愚人节表白",
+      "onboard_time": 1711957221,
+      "rank": 27,
       "category": "情感"
     },
     {
@@ -1299,6 +1363,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 190356,
+      "num": 190356,
+      "word": "车企降价",
+      "onboard_time": 1711959321,
+      "rank": 28,
+      "category": "汽车"
+    },
+    {
+      "raw_hot": 189660,
+      "num": 189660,
+      "word": "罗伯特 站姐们都是女英雄",
+      "onboard_time": 1711956860,
+      "rank": 49,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 189477,
       "num": 189477,
       "word": "欣浪虞乐",
@@ -1371,12 +1451,36 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 178262,
+      "num": 178262,
+      "word": "家人因债务拒绝继承价值400万别墅",
+      "onboard_time": 1711958900,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 178122,
+      "num": 178122,
+      "word": "建议留学生在国外不要随意讲中文",
+      "onboard_time": 1711959500,
+      "rank": 32,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 177988,
       "num": 177988,
       "word": "王伟烈士牺牲23年了",
       "onboard_time": 1711927036,
       "rank": 27,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 176539,
+      "num": 176539,
+      "word": "邓文迪看小米SU7",
+      "onboard_time": 1711958181,
+      "rank": 33,
+      "category": "艺人,汽车"
     },
     {
       "raw_hot": 175505,
@@ -1400,6 +1504,14 @@
       "word": "赵丽颖尹昉拍摄路透",
       "onboard_time": 1711954761,
       "rank": 37,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 169412,
+      "num": 169412,
+      "word": "眼泪女王爆改在俊他妈",
+      "onboard_time": 1711956860,
+      "rank": 48,
       "category": "剧集"
     },
     {
@@ -1459,14 +1571,6 @@
       "category": "动漫,作品衍生"
     },
     {
-      "raw_hot": 161626,
-      "num": 161626,
-      "word": "美国强生一款心脏泵致49人死亡",
-      "onboard_time": 1711956201,
-      "rank": 37,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 161444,
       "num": 161444,
       "word": "李逍遥竟然是拂容君",
@@ -1513,6 +1617,14 @@
       "onboard_time": 1711902197,
       "rank": 27,
       "category": "情感"
+    },
+    {
+      "raw_hot": 158478,
+      "num": 158478,
+      "word": "TFBOYS站姐愚人节团建",
+      "onboard_time": 1711959681,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 156896,
@@ -1571,6 +1683,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 148800,
+      "num": 148800,
+      "word": "足金首饰零售价涨至693元每克",
+      "onboard_time": 1711958181,
+      "rank": 40,
+      "category": "财经"
+    },
+    {
       "raw_hot": 148105,
       "num": 148105,
       "word": "金智媛ins更新",
@@ -1585,6 +1705,14 @@
       "onboard_time": 1711952960,
       "rank": 44,
       "category": "情感"
+    },
+    {
+      "raw_hot": 147506,
+      "num": 147506,
+      "word": "没人能拒绝中式美学的魅力",
+      "onboard_time": 1711957759,
+      "rank": 41,
+      "category": "时尚"
     },
     {
       "raw_hot": 146457,
@@ -1611,6 +1739,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 145063,
+      "num": 145063,
+      "word": "瞧 牛真的从南边来了",
+      "onboard_time": 1711958001,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 143436,
       "num": 143436,
       "word": "樱木花道",
@@ -1635,20 +1771,20 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 137574,
-      "num": 137574,
-      "word": "中方坚定支持巴方严惩恐袭凶手及主使",
-      "onboard_time": 1711956380,
-      "rank": 47,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 137215,
       "num": 125341,
       "word": "时代少年团直播",
       "onboard_time": 1711886358,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 136876,
+      "num": 900278,
+      "word": "雄安新区7岁了",
+      "onboard_time": 1711956500,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 136699,
@@ -1683,6 +1819,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 131281,
+      "num": 131281,
+      "word": "同事没礼貌今天没忍住",
+      "onboard_time": 1711959741,
+      "rank": 46,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 130601,
       "num": 150534,
       "word": "金价狂飙还会再涨吗",
@@ -1707,27 +1851,11 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 125863,
-      "num": 125863,
-      "word": "眼泪女王爆改在俊他妈",
-      "onboard_time": 1711956860,
-      "rank": 48,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 123951,
       "num": 123002,
       "word": "鞠婧祎换了微博头像",
       "onboard_time": 1711889838,
       "rank": 41,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 122961,
-      "num": 122961,
-      "word": "罗伯特 站姐们都是女英雄",
-      "onboard_time": 1711956860,
-      "rank": 49,
       "category": "艺人"
     },
     {
@@ -1849,14 +1977,6 @@
       "onboard_time": 1711895479,
       "rank": 29,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 67924,
-      "num": 900278,
-      "word": "雄安新区7岁了",
-      "onboard_time": 1711956500,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 63995,
