@@ -1,0 +1,410 @@
+{
+  "runTime": 1711941529746,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1137105,
+        "num": 1137105,
+        "word": "愚人节站姐团建",
+        "onboard_time": 1711890498,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1088574,
+        "num": 1088574,
+        "word": "19岁女生和41岁阿姨处成闺蜜",
+        "onboard_time": 1711936938,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 5256,
+        "num": 1064573,
+        "word": "万千气象看云南",
+        "onboard_time": 1711807280,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1055899,
+        "num": 1055899,
+        "word": "81192",
+        "onboard_time": 1711935739,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 865061,
+        "num": 865061,
+        "word": "乳腺增生真是豆浆惹的祸吗",
+        "onboard_time": 1711931959,
+        "rank": 4,
+        "category": "科学科普,健康医疗"
+      },
+      {
+        "raw_hot": 684706,
+        "num": 684706,
+        "word": "陈少熙火了",
+        "onboard_time": 1711940477,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 650839,
+        "num": 650839,
+        "word": "宁静吐槽李菲儿",
+        "onboard_time": 1711932259,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 646612,
+        "num": 646612,
+        "word": "成都迈巴赫肇事司机已被控制",
+        "onboard_time": 1711935979,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 553787,
+        "num": 553787,
+        "word": "金价",
+        "onboard_time": 1711938438,
+        "rank": 8,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 552832,
+        "num": 552832,
+        "word": "问界M7降价2万元",
+        "onboard_time": 1711936278,
+        "rank": 9,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 920633,
+        "num": 543631,
+        "word": "成都致2死司机事发后动作怪异",
+        "onboard_time": 1711933640,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 897964,
+        "num": 542706,
+        "word": "决战站姐之巅",
+        "onboard_time": 1711936399,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 756522,
+        "num": 538791,
+        "word": "迈巴赫",
+        "onboard_time": 1711935257,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 533925,
+        "num": 533925,
+        "word": "还好只上三天就放假了",
+        "onboard_time": 1711932561,
+        "rank": 13,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 34369,
+        "num": 470433,
+        "word": "红米发布Turbo全新性能系列",
+        "onboard_time": 1711940421,
+        "rank": 14,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 465637,
+        "num": 465637,
+        "word": "每天通勤几十公里可能被视为营运车",
+        "onboard_time": 1711937181,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 451926,
+        "num": 451926,
+        "word": "黄旭熙solo出道",
+        "onboard_time": 1711939819,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 448271,
+        "num": 448271,
+        "word": "代号鸢 跑路",
+        "onboard_time": 1711926675,
+        "rank": 17,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 415659,
+        "num": 415659,
+        "word": "宋亚轩站姐发了肖战",
+        "onboard_time": 1711938379,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 395161,
+        "num": 395161,
+        "word": "她嗑生嗑死他磕昏了",
+        "onboard_time": 1711938919,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 968847,
+        "num": 391673,
+        "word": "男朋友把我们隐私照发朋友圈",
+        "onboard_time": 1711937000,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 387610,
+        "num": 387610,
+        "word": "每个研究生身上都有导师的影子",
+        "onboard_time": 1711939218,
+        "rank": 21,
+        "category": "教育,幽默"
+      },
+      {
+        "raw_hot": 386295,
+        "num": 386295,
+        "word": "张颂文参加婚礼合影",
+        "onboard_time": 1711939638,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 116761,
+        "num": 360592,
+        "word": "极氪007增强版上市",
+        "onboard_time": 1711939159,
+        "rank": 23,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 354588,
+        "num": 354588,
+        "word": "赵露思 澳门鬼迷日眼的照片",
+        "onboard_time": 1711892780,
+        "rank": 24,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 352895,
+        "num": 352895,
+        "word": "服部平次 接吻应激障碍",
+        "onboard_time": 1711930038,
+        "rank": 25,
+        "category": "动漫,作品衍生"
+      },
+      {
+        "raw_hot": 347499,
+        "num": 347499,
+        "word": "电影我才不要和你做朋友呢定档",
+        "onboard_time": 1711940541,
+        "rank": 26,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 338812,
+        "num": 338812,
+        "word": "承欢记",
+        "onboard_time": 1711936337,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 310214,
+        "num": 310214,
+        "word": "本想免费试用结果被扣一年会员费",
+        "onboard_time": 1711931360,
+        "rank": 28,
+        "category": "互联网,社会新闻"
+      },
+      {
+        "raw_hot": 291864,
+        "num": 291864,
+        "word": "新浪娱乐头像",
+        "onboard_time": 1711937599,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 278764,
+        "num": 278764,
+        "word": "这种体态真的很好改善",
+        "onboard_time": 1711934837,
+        "rank": 30,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 234289,
+        "num": 234289,
+        "word": "愚人节",
+        "onboard_time": 1711940421,
+        "rank": 31,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 232920,
+        "num": 232920,
+        "word": "问界",
+        "onboard_time": 1711940541,
+        "rank": 32,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 220001,
+        "num": 220001,
+        "word": "杨幂卡点微博",
+        "onboard_time": 1711928478,
+        "rank": 33,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 218920,
+        "num": 218920,
+        "word": "iPhoneSE4手机壳曝光",
+        "onboard_time": 1711938258,
+        "rank": 34,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 208274,
+        "num": 208274,
+        "word": "变身罗伯特",
+        "onboard_time": 1711939879,
+        "rank": 35,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 206973,
+        "num": 206973,
+        "word": "唐鹤德希望今天是复活节",
+        "onboard_time": 1711928837,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 197506,
+        "num": 197506,
+        "word": "结婚的婚纱被婆婆剪了",
+        "onboard_time": 1711932739,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 196480,
+        "num": 196480,
+        "word": "中金公司人均薪酬两年缩水近40%",
+        "onboard_time": 1711939038,
+        "rank": 38,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 191431,
+        "num": 191431,
+        "word": "人间四月天",
+        "onboard_time": 1711941140,
+        "rank": 39,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 191794,
+        "num": 190516,
+        "word": "贾玲减肥后刘维痛失代表作",
+        "onboard_time": 1711898601,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 189103,
+        "num": 189103,
+        "word": "凤凰传奇抢票",
+        "onboard_time": 1711941200,
+        "rank": 41,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 182513,
+        "num": 182513,
+        "word": "詹姆斯为自己戴上王冠",
+        "onboard_time": 1711937478,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 182078,
+        "num": 182078,
+        "word": "韩国人真的每天只睡4小时吗",
+        "onboard_time": 1711905374,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 155102,
+        "num": 155102,
+        "word": "莎头",
+        "onboard_time": 1711929559,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 154664,
+        "num": 154664,
+        "word": "是什么影响了我们的生育力",
+        "onboard_time": 1711935497,
+        "rank": 45,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 148985,
+        "num": 148985,
+        "word": "特斯拉中国今日涨价",
+        "onboard_time": 1711931240,
+        "rank": 46,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 37690,
+        "num": 143716,
+        "word": "最大的奥迪",
+        "onboard_time": 1711941500,
+        "rank": 47,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 142798,
+        "num": 142798,
+        "word": "张国荣",
+        "onboard_time": 1711889658,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 134037,
+        "num": 134037,
+        "word": "规培医生不该成为廉价劳动力",
+        "onboard_time": 1711941380,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#不断提升作品的精神能量文化内涵艺术价值#"
+    }
+  }
+}

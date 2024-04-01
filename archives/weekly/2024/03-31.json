@@ -1,6 +1,6 @@
 {
   "startTime": 1711815680412,
-  "endTime": 1711939312530,
+  "endTime": 1711941529746,
   "band_list": [
     {
       "raw_hot": 2776736,
@@ -164,7 +164,7 @@
     },
     {
       "raw_hot": 1210558,
-      "num": 529168,
+      "num": 538791,
       "word": "迈巴赫",
       "onboard_time": 1711935257,
       "rank": 27,
@@ -219,12 +219,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1088574,
+      "num": 1088574,
+      "word": "19岁女生和41岁阿姨处成闺蜜",
+      "onboard_time": 1711936938,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1076261,
       "num": 1076261,
       "word": "骑行一个月后瘦了10斤",
       "onboard_time": 1711878557,
       "rank": 6,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 1055899,
+      "num": 1055899,
+      "word": "81192",
+      "onboard_time": 1711935739,
+      "rank": 3,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1035412,
@@ -252,11 +268,19 @@
     },
     {
       "raw_hot": 993951,
-      "num": 527779,
+      "num": 542706,
       "word": "决战站姐之巅",
       "onboard_time": 1711936399,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 968847,
+      "num": 391673,
+      "word": "男朋友把我们隐私照发朋友圈",
+      "onboard_time": 1711937000,
+      "rank": 20,
+      "category": "情感"
     },
     {
       "raw_hot": 967666,
@@ -273,14 +297,6 @@
       "onboard_time": 1711866798,
       "rank": 30,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 946017,
-      "num": 946017,
-      "word": "81192",
-      "onboard_time": 1711935739,
-      "rank": 3,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 945169,
@@ -321,14 +337,6 @@
       "onboard_time": 1711899020,
       "rank": 20,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 860850,
-      "num": 352182,
-      "word": "男朋友把我们隐私照发朋友圈",
-      "onboard_time": 1711937000,
-      "rank": 20,
-      "category": "情感"
     },
     {
       "raw_hot": 824314,
@@ -507,6 +515,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 684706,
+      "num": 684706,
+      "word": "陈少熙火了",
+      "onboard_time": 1711940477,
+      "rank": 5,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 672066,
       "num": 672066,
       "word": "杨幂卡点微博",
@@ -523,11 +539,11 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 644722,
-      "num": 644722,
-      "word": "19岁女生和41岁阿姨处成闺蜜",
-      "onboard_time": 1711936938,
-      "rank": 14,
+      "raw_hot": 646612,
+      "num": 646612,
+      "word": "成都迈巴赫肇事司机已被控制",
+      "onboard_time": 1711935979,
+      "rank": 16,
       "category": "社会新闻"
     },
     {
@@ -649,6 +665,14 @@
       "onboard_time": 1711807459,
       "rank": 25,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 553787,
+      "num": 553787,
+      "word": "金价",
+      "onboard_time": 1711938438,
+      "rank": 40,
+      "category": "财经"
     },
     {
       "raw_hot": 543477,
@@ -899,14 +923,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 480001,
-      "num": 480001,
-      "word": "成都迈巴赫肇事司机已被控制",
-      "onboard_time": 1711935979,
-      "rank": 16,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 477512,
       "num": 786669,
       "word": "一种娇妻文化似乎正在北美蔓延",
@@ -955,6 +971,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 465637,
+      "num": 465637,
+      "word": "每天通勤几十公里可能被视为营运车",
+      "onboard_time": 1711937181,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 459773,
       "num": 459773,
       "word": "网友回应帮张颂文跟雷军要到小米SU7",
@@ -969,6 +993,14 @@
       "onboard_time": 1711880298,
       "rank": 19,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 451926,
+      "num": 451926,
+      "word": "黄旭熙solo出道",
+      "onboard_time": 1711939819,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 451791,
@@ -1027,14 +1059,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 428936,
-      "num": 428936,
-      "word": "每天通勤几十公里可能被视为营运车",
-      "onboard_time": 1711937181,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 422709,
       "num": 422709,
       "word": "上海偶遇陆毅鲍蕾一家四口",
@@ -1057,6 +1081,14 @@
       "onboard_time": 1711885458,
       "rank": 11,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 415659,
+      "num": 415659,
+      "word": "宋亚轩站姐发了肖战",
+      "onboard_time": 1711938379,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 413250,
@@ -1099,12 +1131,36 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 395161,
+      "num": 395161,
+      "word": "她嗑生嗑死他磕昏了",
+      "onboard_time": 1711938919,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 387610,
+      "num": 387610,
+      "word": "每个研究生身上都有导师的影子",
+      "onboard_time": 1711939218,
+      "rank": 33,
+      "category": "教育,幽默"
+    },
+    {
       "raw_hot": 386789,
       "num": 386789,
       "word": "28岁我反而拥有了巨量快乐",
       "onboard_time": 1711852878,
       "rank": 14,
       "category": "情感"
+    },
+    {
+      "raw_hot": 386295,
+      "num": 386295,
+      "word": "张颂文参加婚礼合影",
+      "onboard_time": 1711939638,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 385461,
@@ -1179,14 +1235,6 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 369586,
-      "num": 369586,
-      "word": "宋亚轩站姐发了肖战",
-      "onboard_time": 1711938379,
-      "rank": 24,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 366559,
       "num": 366559,
       "word": "当了四年后爸第一次被女儿喊爸",
@@ -1225,6 +1273,14 @@
       "onboard_time": 1711886358,
       "rank": 12,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 347499,
+      "num": 347499,
+      "word": "电影我才不要和你做朋友呢定档",
+      "onboard_time": 1711940541,
+      "rank": 26,
+      "category": "电影"
     },
     {
       "raw_hot": 346401,
@@ -1369,14 +1425,6 @@
       "onboard_time": 1711866377,
       "rank": 14,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 308373,
-      "num": 308373,
-      "word": "金价",
-      "onboard_time": 1711938438,
-      "rank": 40,
-      "category": "财经"
     },
     {
       "raw_hot": 307865,
@@ -1851,6 +1899,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 232920,
+      "num": 232920,
+      "word": "问界",
+      "onboard_time": 1711940541,
+      "rank": 32,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 232826,
       "num": 232826,
       "word": "才知道起床后不要马上叠被子",
@@ -1937,14 +1993,6 @@
       "onboard_time": 1711932561,
       "rank": 31,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 219106,
-      "num": 219106,
-      "word": "她嗑生嗑死他磕昏了",
-      "onboard_time": 1711938919,
-      "rank": 29,
-      "category": "剧集"
     },
     {
       "raw_hot": 218525,
@@ -2081,6 +2129,14 @@
       "onboard_time": 1711854737,
       "rank": 30,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 208274,
+      "num": 208274,
+      "word": "变身罗伯特",
+      "onboard_time": 1711939879,
+      "rank": 35,
+      "category": "互联网"
     },
     {
       "raw_hot": 207892,
@@ -2275,6 +2331,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 196480,
+      "num": 196480,
+      "word": "中金公司人均薪酬两年缩水近40%",
+      "onboard_time": 1711939038,
+      "rank": 38,
+      "category": "财经"
+    },
+    {
       "raw_hot": 196335,
       "num": 196335,
       "word": "突然看见十几年前妈妈的QQ空间",
@@ -2347,12 +2411,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 191662,
-      "num": 191662,
-      "word": "每个研究生身上都有导师的影子",
-      "onboard_time": 1711939218,
-      "rank": 33,
-      "category": "教育,幽默"
+      "raw_hot": 191431,
+      "num": 191431,
+      "word": "人间四月天",
+      "onboard_time": 1711941140,
+      "rank": 39,
+      "category": "情感"
     },
     {
       "raw_hot": 191360,
@@ -2377,6 +2441,14 @@
       "onboard_time": 1711869377,
       "rank": 33,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 189103,
+      "num": 189103,
+      "word": "凤凰传奇抢票",
+      "onboard_time": 1711941200,
+      "rank": 41,
+      "category": "演出"
     },
     {
       "raw_hot": 189029,
@@ -2499,8 +2571,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 182040,
-      "num": 182040,
+      "raw_hot": 182513,
+      "num": 182513,
       "word": "詹姆斯为自己戴上王冠",
       "onboard_time": 1711937478,
       "rank": 34,
@@ -2657,14 +2729,6 @@
       "onboard_time": 1711870939,
       "rank": 36,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 168895,
-      "num": 168895,
-      "word": "中金公司人均薪酬两年缩水近40%",
-      "onboard_time": 1711939038,
-      "rank": 38,
-      "category": "财经"
     },
     {
       "raw_hot": 168324,
@@ -3251,6 +3315,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 134037,
+      "num": 134037,
+      "word": "规培医生不该成为廉价劳动力",
+      "onboard_time": 1711941380,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 130859,
       "num": 166915,
       "word": "DOU5战队晋级COA7全球总决赛",
@@ -3443,6 +3515,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 116761,
+      "num": 360592,
+      "word": "极氪007增强版上市",
+      "onboard_time": 1711939159,
+      "rank": 49,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 116197,
       "num": 116197,
       "word": "宁静一语惊醒梦中人",
@@ -3593,14 +3673,6 @@
       "onboard_time": 1711810700,
       "rank": 38,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 103143,
-      "num": 123837,
-      "word": "极氪007增强版上市",
-      "onboard_time": 1711939159,
-      "rank": 49,
-      "category": "汽车"
     },
     {
       "raw_hot": 102125,
@@ -3985,6 +4057,22 @@
       "onboard_time": 1711908493,
       "rank": 42,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 37690,
+      "num": 143716,
+      "word": "最大的奥迪",
+      "onboard_time": 1711941500,
+      "rank": 47,
+      "category": "汽车"
+    },
+    {
+      "raw_hot": 34369,
+      "num": 470433,
+      "word": "红米发布Turbo全新性能系列",
+      "onboard_time": 1711940421,
+      "rank": 14,
+      "category": "数码"
     },
     {
       "raw_hot": 33969,

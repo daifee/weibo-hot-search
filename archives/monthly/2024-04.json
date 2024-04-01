@@ -1,6 +1,6 @@
 {
   "startTime": 1711902044401,
-  "endTime": 1711939312530,
+  "endTime": 1711941529746,
   "band_list": [
     {
       "raw_hot": 1983650,
@@ -28,7 +28,7 @@
     },
     {
       "raw_hot": 1210558,
-      "num": 529168,
+      "num": 538791,
       "word": "迈巴赫",
       "onboard_time": 1711935257,
       "rank": 27,
@@ -40,6 +40,22 @@
       "word": "迈巴赫成都来福士连续碾压多人",
       "onboard_time": 1711897279,
       "rank": 10,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1088574,
+      "num": 1088574,
+      "word": "19岁女生和41岁阿姨处成闺蜜",
+      "onboard_time": 1711936938,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1055899,
+      "num": 1055899,
+      "word": "81192",
+      "onboard_time": 1711935739,
+      "rank": 3,
       "category": "社会新闻"
     },
     {
@@ -68,11 +84,19 @@
     },
     {
       "raw_hot": 993951,
-      "num": 527779,
+      "num": 542706,
       "word": "决战站姐之巅",
       "onboard_time": 1711936399,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 968847,
+      "num": 391673,
+      "word": "男朋友把我们隐私照发朋友圈",
+      "onboard_time": 1711937000,
+      "rank": 20,
+      "category": "情感"
     },
     {
       "raw_hot": 967666,
@@ -81,14 +105,6 @@
       "onboard_time": 1711932259,
       "rank": 4,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 946017,
-      "num": 946017,
-      "word": "81192",
-      "onboard_time": 1711935739,
-      "rank": 3,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 945169,
@@ -105,14 +121,6 @@
       "onboard_time": 1711899020,
       "rank": 11,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 860850,
-      "num": 352182,
-      "word": "男朋友把我们隐私照发朋友圈",
-      "onboard_time": 1711937000,
-      "rank": 20,
-      "category": "情感"
     },
     {
       "raw_hot": 804827,
@@ -163,6 +171,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 684706,
+      "num": 684706,
+      "word": "陈少熙火了",
+      "onboard_time": 1711940477,
+      "rank": 5,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 672066,
       "num": 672066,
       "word": "杨幂卡点微博",
@@ -171,11 +187,11 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 644722,
-      "num": 644722,
-      "word": "19岁女生和41岁阿姨处成闺蜜",
-      "onboard_time": 1711936938,
-      "rank": 14,
+      "raw_hot": 646612,
+      "num": 646612,
+      "word": "成都迈巴赫肇事司机已被控制",
+      "onboard_time": 1711935979,
+      "rank": 16,
       "category": "社会新闻"
     },
     {
@@ -217,6 +233,14 @@
       "onboard_time": 1711883359,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 553787,
+      "num": 553787,
+      "word": "金价",
+      "onboard_time": 1711938438,
+      "rank": 40,
+      "category": "财经"
     },
     {
       "raw_hot": 543477,
@@ -275,20 +299,28 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 480001,
-      "num": 480001,
-      "word": "成都迈巴赫肇事司机已被控制",
-      "onboard_time": 1711935979,
-      "rank": 16,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 477512,
       "num": 568105,
       "word": "一种娇妻文化似乎正在北美蔓延",
       "onboard_time": 1711888277,
       "rank": 8,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 465637,
+      "num": 465637,
+      "word": "每天通勤几十公里可能被视为营运车",
+      "onboard_time": 1711937181,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 451926,
+      "num": 451926,
+      "word": "黄旭熙solo出道",
+      "onboard_time": 1711939819,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 449939,
@@ -307,12 +339,36 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 428936,
-      "num": 428936,
-      "word": "每天通勤几十公里可能被视为营运车",
-      "onboard_time": 1711937181,
-      "rank": 19,
-      "category": "社会新闻"
+      "raw_hot": 415659,
+      "num": 415659,
+      "word": "宋亚轩站姐发了肖战",
+      "onboard_time": 1711938379,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 395161,
+      "num": 395161,
+      "word": "她嗑生嗑死他磕昏了",
+      "onboard_time": 1711938919,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 387610,
+      "num": 387610,
+      "word": "每个研究生身上都有导师的影子",
+      "onboard_time": 1711939218,
+      "rank": 33,
+      "category": "教育,幽默"
+    },
+    {
+      "raw_hot": 386295,
+      "num": 386295,
+      "word": "张颂文参加婚礼合影",
+      "onboard_time": 1711939638,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 371777,
@@ -329,14 +385,6 @@
       "onboard_time": 1711930038,
       "rank": 22,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 369586,
-      "num": 369586,
-      "word": "宋亚轩站姐发了肖战",
-      "onboard_time": 1711938379,
-      "rank": 24,
-      "category": "艺人"
     },
     {
       "raw_hot": 365503,
@@ -363,6 +411,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 347499,
+      "num": 347499,
+      "word": "电影我才不要和你做朋友呢定档",
+      "onboard_time": 1711940541,
+      "rank": 26,
+      "category": "电影"
+    },
+    {
       "raw_hot": 327009,
       "num": 294572,
       "word": "张新成 我们还是不要散了",
@@ -377,14 +433,6 @@
       "onboard_time": 1711903636,
       "rank": 27,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 308373,
-      "num": 308373,
-      "word": "金价",
-      "onboard_time": 1711938438,
-      "rank": 40,
-      "category": "财经"
     },
     {
       "raw_hot": 304483,
@@ -467,20 +515,20 @@
       "category": "数码"
     },
     {
+      "raw_hot": 232920,
+      "num": 232920,
+      "word": "问界",
+      "onboard_time": 1711940541,
+      "rank": 32,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 220827,
       "num": 220827,
       "word": "YG耳",
       "onboard_time": 1711932561,
       "rank": 31,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 219106,
-      "num": 219106,
-      "word": "她嗑生嗑死他磕昏了",
-      "onboard_time": 1711938919,
-      "rank": 29,
-      "category": "剧集"
     },
     {
       "raw_hot": 214339,
@@ -505,6 +553,14 @@
       "onboard_time": 1711933759,
       "rank": 35,
       "category": "演出"
+    },
+    {
+      "raw_hot": 208274,
+      "num": 208274,
+      "word": "变身罗伯特",
+      "onboard_time": 1711939879,
+      "rank": 35,
+      "category": "互联网"
     },
     {
       "raw_hot": 203381,
@@ -579,6 +635,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 196480,
+      "num": 196480,
+      "word": "中金公司人均薪酬两年缩水近40%",
+      "onboard_time": 1711939038,
+      "rank": 38,
+      "category": "财经"
+    },
+    {
       "raw_hot": 195984,
       "num": 195984,
       "word": "Doinb疑似在韩国服兵役",
@@ -611,12 +675,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 191662,
-      "num": 191662,
-      "word": "每个研究生身上都有导师的影子",
-      "onboard_time": 1711939218,
-      "rank": 33,
-      "category": "教育,幽默"
+      "raw_hot": 191431,
+      "num": 191431,
+      "word": "人间四月天",
+      "onboard_time": 1711941140,
+      "rank": 39,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 189103,
+      "num": 189103,
+      "word": "凤凰传奇抢票",
+      "onboard_time": 1711941200,
+      "rank": 41,
+      "category": "演出"
     },
     {
       "raw_hot": 184351,
@@ -635,8 +707,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 182040,
-      "num": 182040,
+      "raw_hot": 182513,
+      "num": 182513,
       "word": "詹姆斯为自己戴上王冠",
       "onboard_time": 1711937478,
       "rank": 34,
@@ -665,14 +737,6 @@
       "onboard_time": 1711891820,
       "rank": 24,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 168895,
-      "num": 168895,
-      "word": "中金公司人均薪酬两年缩水近40%",
-      "onboard_time": 1711939038,
-      "rank": 38,
-      "category": "财经"
     },
     {
       "raw_hot": 168319,
@@ -835,6 +899,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 134037,
+      "num": 134037,
+      "word": "规培医生不该成为廉价劳动力",
+      "onboard_time": 1711941380,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 130601,
       "num": 150534,
       "word": "金价狂飙还会再涨吗",
@@ -875,6 +947,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 116761,
+      "num": 360592,
+      "word": "极氪007增强版上市",
+      "onboard_time": 1711939159,
+      "rank": 49,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 115870,
       "num": 115870,
       "word": "追风者编剧 牛",
@@ -913,14 +993,6 @@
       "onboard_time": 1711888819,
       "rank": 47,
       "category": "美食"
-    },
-    {
-      "raw_hot": 103143,
-      "num": 123837,
-      "word": "极氪007增强版上市",
-      "onboard_time": 1711939159,
-      "rank": 49,
-      "category": "汽车"
     },
     {
       "raw_hot": 101437,
@@ -1067,6 +1139,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 37690,
+      "num": 143716,
+      "word": "最大的奥迪",
+      "onboard_time": 1711941500,
+      "rank": 47,
+      "category": "汽车"
+    },
+    {
+      "raw_hot": 34369,
+      "num": 470433,
+      "word": "红米发布Turbo全新性能系列",
+      "onboard_time": 1711940421,
+      "rank": 14,
+      "category": "数码"
+    },
+    {
       "raw_hot": 33969,
       "num": 33969,
       "word": "我们是冠军",
@@ -1096,6 +1184,14 @@
       "word": "女子口吐白沫晕倒8岁娃机智求救",
       "onboard_time": 1711919590,
       "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 5256,
+      "num": 1064573,
+      "word": "万千气象看云南",
+      "onboard_time": 1711807280,
+      "rank": 2,
       "category": "社会新闻"
     }
   ],
