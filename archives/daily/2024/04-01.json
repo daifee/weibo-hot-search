@@ -1,6 +1,6 @@
 {
   "startTime": 1711902044401,
-  "endTime": 1711955826028,
+  "endTime": 1711956882542,
   "band_list": [
     {
       "raw_hot": 12825415,
@@ -83,6 +83,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1749664,
+      "num": 400287,
+      "word": "重庆坠亡小孩被抛前多次尝试翻进窗户",
+      "onboard_time": 1711953499,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1439282,
       "num": 1439282,
       "word": "八十家站姐发了迪丽热巴",
@@ -105,14 +113,6 @@
       "onboard_time": 1711931959,
       "rank": 1,
       "category": "科学科普,健康医疗"
-    },
-    {
-      "raw_hot": 1268335,
-      "num": 384034,
-      "word": "重庆坠亡小孩被抛前多次尝试翻进窗户",
-      "onboard_time": 1711953499,
-      "rank": 16,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1210558,
@@ -169,6 +169,14 @@
       "onboard_time": 1711892780,
       "rank": 1,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 1029668,
+      "num": 1029668,
+      "word": "张颂文参加婚礼吃上肘子",
+      "onboard_time": 1711952660,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 1015475,
@@ -251,19 +259,19 @@
       "category": "情感"
     },
     {
+      "raw_hot": 869845,
+      "num": 869845,
+      "word": "一百家站姐发了陈都灵",
+      "onboard_time": 1711954339,
+      "rank": 4,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 868161,
       "num": 868161,
       "word": "李汶翰 乐华娱乐",
       "onboard_time": 1711945946,
       "rank": 36,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 862162,
-      "num": 862162,
-      "word": "张颂文参加婚礼吃上肘子",
-      "onboard_time": 1711952660,
-      "rank": 19,
       "category": "艺人"
     },
     {
@@ -355,14 +363,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 654118,
-      "num": 654118,
-      "word": "一百家站姐发了陈都灵",
-      "onboard_time": 1711954339,
-      "rank": 4,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 646612,
       "num": 646612,
       "word": "成都迈巴赫肇事司机已被控制",
@@ -385,6 +385,14 @@
       "onboard_time": 1711894040,
       "rank": 6,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 609557,
+      "num": 418134,
+      "word": "贾跃亭点评小米汽车",
+      "onboard_time": 1711955301,
+      "rank": 19,
+      "category": "汽车"
     },
     {
       "raw_hot": 604745,
@@ -475,6 +483,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 518341,
+      "num": 518341,
+      "word": "成毅被前经纪公司起诉",
+      "onboard_time": 1711953259,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 516400,
       "num": 516400,
       "word": "唐鹤德希望今天是复活节",
@@ -497,14 +513,6 @@
       "onboard_time": 1711898120,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 490429,
-      "num": 490429,
-      "word": "成毅被前经纪公司起诉",
-      "onboard_time": 1711953259,
-      "rank": 46,
-      "category": "艺人"
     },
     {
       "raw_hot": 488928,
@@ -603,6 +611,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 412646,
+      "num": 412646,
+      "word": "张若昀站姐发了赵丽颖",
+      "onboard_time": 1711956140,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 395161,
       "num": 395161,
       "word": "她嗑生嗑死他磕昏了",
@@ -649,6 +665,14 @@
       "onboard_time": 1711943782,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 375614,
+      "num": 375614,
+      "word": "周雨彤 裸背",
+      "onboard_time": 1711955660,
+      "rank": 43,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 371777,
@@ -699,6 +723,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 347559,
+      "num": 347559,
+      "word": "吴奇隆抱儿子出商场",
+      "onboard_time": 1711954582,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 347499,
       "num": 347499,
       "word": "电影我才不要和你做朋友呢定档",
@@ -712,14 +744,6 @@
       "word": "杨幂站姐发金鹤龙了",
       "onboard_time": 1711945585,
       "rank": 27,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 343624,
-      "num": 343624,
-      "word": "吴奇隆抱儿子出商场",
-      "onboard_time": 1711954582,
-      "rank": 17,
       "category": "艺人"
     },
     {
@@ -737,6 +761,14 @@
       "onboard_time": 1711897101,
       "rank": 20,
       "category": "演出"
+    },
+    {
+      "raw_hot": 325160,
+      "num": 325160,
+      "word": "周处除三害怎么不把周一除了",
+      "onboard_time": 1711955301,
+      "rank": 30,
+      "category": "电影"
     },
     {
       "raw_hot": 322862,
@@ -785,14 +817,6 @@
       "onboard_time": 1711952241,
       "rank": 32,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 300001,
-      "num": 300001,
-      "word": "贾跃亭点评小米汽车",
-      "onboard_time": 1711955301,
-      "rank": 19,
-      "category": "汽车"
     },
     {
       "raw_hot": 299302,
@@ -851,6 +875,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 283419,
+      "num": 283419,
+      "word": "22岁大四和父母决裂了",
+      "onboard_time": 1711953200,
+      "rank": 39,
+      "category": "情感"
+    },
+    {
       "raw_hot": 281822,
       "num": 281822,
       "word": "男子送外卖供女友上大学后分手",
@@ -873,6 +905,14 @@
       "onboard_time": 1711950142,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 275605,
+      "num": 200242,
+      "word": "茶百道 进不去",
+      "onboard_time": 1711956560,
+      "rank": 30,
+      "category": "美食"
     },
     {
       "raw_hot": 270412,
@@ -907,20 +947,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 256639,
+      "num": 425059,
+      "word": "为什么高铁上跳过了E直接是F座",
+      "onboard_time": 1711952840,
+      "rank": 40,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 254326,
       "num": 254326,
       "word": "欧阳娜娜正面回应猫咪纹",
       "onboard_time": 1711950681,
       "rank": 28,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 245592,
-      "num": 245592,
-      "word": "22岁大四和父母决裂了",
-      "onboard_time": 1711953200,
-      "rank": 39,
-      "category": "情感"
     },
     {
       "raw_hot": 243304,
@@ -995,28 +1035,12 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 223553,
-      "num": 209978,
-      "word": "周处除三害怎么不把周一除了",
-      "onboard_time": 1711955301,
-      "rank": 30,
-      "category": "电影"
-    },
-    {
       "raw_hot": 220827,
       "num": 220827,
       "word": "YG耳",
       "onboard_time": 1711932561,
       "rank": 31,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 216667,
-      "num": 216667,
-      "word": "为什么高铁上跳过了E直接是F座",
-      "onboard_time": 1711952840,
-      "rank": 40,
-      "category": "科学科普"
     },
     {
       "raw_hot": 214339,
@@ -1435,6 +1459,14 @@
       "category": "动漫,作品衍生"
     },
     {
+      "raw_hot": 161626,
+      "num": 161626,
+      "word": "美国强生一款心脏泵致49人死亡",
+      "onboard_time": 1711956201,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 161444,
       "num": 161444,
       "word": "李逍遥竟然是拂容君",
@@ -1571,12 +1603,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 145170,
-      "num": 145170,
-      "word": "周雨彤 裸背",
-      "onboard_time": 1711955660,
-      "rank": 43,
-      "category": "作品衍生"
+      "raw_hot": 145436,
+      "num": 145436,
+      "word": "大厂离职开咖啡馆的人怎么样了",
+      "onboard_time": 1711955239,
+      "rank": 45,
+      "category": "互联网"
     },
     {
       "raw_hot": 143436,
@@ -1601,6 +1633,14 @@
       "onboard_time": 1711895121,
       "rank": 37,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 137574,
+      "num": 137574,
+      "word": "中方坚定支持巴方严惩恐袭凶手及主使",
+      "onboard_time": 1711956380,
+      "rank": 47,
+      "category": "国内时政"
     },
     {
       "raw_hot": 137215,
@@ -1651,14 +1691,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 130228,
-      "num": 130228,
-      "word": "大厂离职开咖啡馆的人怎么样了",
-      "onboard_time": 1711955239,
-      "rank": 45,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 126391,
       "num": 230998,
       "word": "曼城vs阿森纳",
@@ -1675,11 +1707,27 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 125863,
+      "num": 125863,
+      "word": "眼泪女王爆改在俊他妈",
+      "onboard_time": 1711956860,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 123951,
       "num": 123002,
       "word": "鞠婧祎换了微博头像",
       "onboard_time": 1711889838,
       "rank": 41,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 122961,
+      "num": 122961,
+      "word": "罗伯特 站姐们都是女英雄",
+      "onboard_time": 1711956860,
+      "rank": 49,
       "category": "艺人"
     },
     {
@@ -1801,6 +1849,14 @@
       "onboard_time": 1711895479,
       "rank": 29,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 67924,
+      "num": 900278,
+      "word": "雄安新区7岁了",
+      "onboard_time": 1711956500,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 63995,

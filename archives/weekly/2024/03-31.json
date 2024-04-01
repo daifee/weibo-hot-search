@@ -1,6 +1,6 @@
 {
   "startTime": 1711815680412,
-  "endTime": 1711955826028,
+  "endTime": 1711956882542,
   "band_list": [
     {
       "raw_hot": 12825415,
@@ -123,6 +123,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1749664,
+      "num": 400287,
+      "word": "重庆坠亡小孩被抛前多次尝试翻进窗户",
+      "onboard_time": 1711953499,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1734647,
       "num": 1734647,
       "word": "雷军 我为张老师准备的车是顶配",
@@ -233,14 +241,6 @@
       "onboard_time": 1711875498,
       "rank": 0,
       "category": "体育"
-    },
-    {
-      "raw_hot": 1268335,
-      "num": 384034,
-      "word": "重庆坠亡小孩被抛前多次尝试翻进窗户",
-      "onboard_time": 1711953499,
-      "rank": 16,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1236320,
@@ -355,6 +355,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 1029668,
+      "num": 1029668,
+      "word": "张颂文参加婚礼吃上肘子",
+      "onboard_time": 1711952660,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1015475,
       "num": 1015475,
       "word": "本想免费试用结果被扣一年会员费",
@@ -467,19 +475,19 @@
       "category": "情感"
     },
     {
+      "raw_hot": 869845,
+      "num": 869845,
+      "word": "一百家站姐发了陈都灵",
+      "onboard_time": 1711954339,
+      "rank": 4,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 868161,
       "num": 868161,
       "word": "李汶翰 乐华娱乐",
       "onboard_time": 1711945946,
       "rank": 36,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 862162,
-      "num": 862162,
-      "word": "张颂文参加婚礼吃上肘子",
-      "onboard_time": 1711952660,
-      "rank": 19,
       "category": "艺人"
     },
     {
@@ -699,14 +707,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 654118,
-      "num": 654118,
-      "word": "一百家站姐发了陈都灵",
-      "onboard_time": 1711954339,
-      "rank": 4,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 651815,
       "num": 651815,
       "word": "李冰冰周也 大花小花",
@@ -785,6 +785,14 @@
       "onboard_time": 1711854259,
       "rank": 6,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 609557,
+      "num": 418134,
+      "word": "贾跃亭点评小米汽车",
+      "onboard_time": 1711955301,
+      "rank": 19,
+      "category": "汽车"
     },
     {
       "raw_hot": 604745,
@@ -963,6 +971,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 518341,
+      "num": 518341,
+      "word": "成毅被前经纪公司起诉",
+      "onboard_time": 1711953259,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 517988,
       "num": 517988,
       "word": "赵丽颖工作室带医保卡救沈璃",
@@ -1113,14 +1129,6 @@
       "onboard_time": 1711868717,
       "rank": 25,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 490429,
-      "num": 490429,
-      "word": "成毅被前经纪公司起诉",
-      "onboard_time": 1711953259,
-      "rank": 46,
-      "category": "艺人"
     },
     {
       "raw_hot": 488928,
@@ -1355,6 +1363,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 412646,
+      "num": 412646,
+      "word": "张若昀站姐发了赵丽颖",
+      "onboard_time": 1711956140,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 411537,
       "num": 411537,
       "word": "肖战直播",
@@ -1491,6 +1507,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 375614,
+      "num": 375614,
+      "word": "周雨彤 裸背",
+      "onboard_time": 1711955660,
+      "rank": 43,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 374160,
       "num": 328297,
       "word": "女性太瘦并不是件好事",
@@ -1563,6 +1587,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 347559,
+      "num": 347559,
+      "word": "吴奇隆抱儿子出商场",
+      "onboard_time": 1711954582,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 347499,
       "num": 347499,
       "word": "电影我才不要和你做朋友呢定档",
@@ -1593,14 +1625,6 @@
       "onboard_time": 1711845017,
       "rank": 10,
       "category": "网红"
-    },
-    {
-      "raw_hot": 343624,
-      "num": 343624,
-      "word": "吴奇隆抱儿子出商场",
-      "onboard_time": 1711954582,
-      "rank": 17,
-      "category": "艺人"
     },
     {
       "raw_hot": 343312,
@@ -1673,6 +1697,14 @@
       "onboard_time": 1711857798,
       "rank": 23,
       "category": "演出"
+    },
+    {
+      "raw_hot": 325160,
+      "num": 325160,
+      "word": "周处除三害怎么不把周一除了",
+      "onboard_time": 1711955301,
+      "rank": 30,
+      "category": "电影"
     },
     {
       "raw_hot": 322862,
@@ -1819,14 +1851,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 300001,
-      "num": 300001,
-      "word": "贾跃亭点评小米汽车",
-      "onboard_time": 1711955301,
-      "rank": 19,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 299852,
       "num": 299852,
       "word": "赵奕欢回怼消失的她制片人",
@@ -1971,6 +1995,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 283419,
+      "num": 283419,
+      "word": "22岁大四和父母决裂了",
+      "onboard_time": 1711953200,
+      "rank": 39,
+      "category": "情感"
+    },
+    {
       "raw_hot": 281822,
       "num": 281822,
       "word": "男子送外卖供女友上大学后分手",
@@ -2009,6 +2041,14 @@
       "onboard_time": 1711950142,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 275605,
+      "num": 200242,
+      "word": "茶百道 进不去",
+      "onboard_time": 1711956560,
+      "rank": 30,
+      "category": "美食"
     },
     {
       "raw_hot": 275156,
@@ -2115,6 +2155,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 256639,
+      "num": 425059,
+      "word": "为什么高铁上跳过了E直接是F座",
+      "onboard_time": 1711952840,
+      "rank": 40,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 254598,
       "num": 254598,
       "word": "WTT",
@@ -2193,14 +2241,6 @@
       "onboard_time": 1711842794,
       "rank": 18,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 245592,
-      "num": 245592,
-      "word": "22岁大四和父母决裂了",
-      "onboard_time": 1711953200,
-      "rank": 39,
-      "category": "情感"
     },
     {
       "raw_hot": 243584,
@@ -2443,14 +2483,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 223553,
-      "num": 209978,
-      "word": "周处除三害怎么不把周一除了",
-      "onboard_time": 1711955301,
-      "rank": 30,
-      "category": "电影"
-    },
-    {
       "raw_hot": 223144,
       "num": 223144,
       "word": "清融轮换上场",
@@ -2481,14 +2513,6 @@
       "onboard_time": 1711846157,
       "rank": 28,
       "category": "情感"
-    },
-    {
-      "raw_hot": 216667,
-      "num": 216667,
-      "word": "为什么高铁上跳过了E直接是F座",
-      "onboard_time": 1711952840,
-      "rank": 40,
-      "category": "科学科普"
     },
     {
       "raw_hot": 216430,
@@ -3499,6 +3523,14 @@
       "category": "动漫,作品衍生"
     },
     {
+      "raw_hot": 161626,
+      "num": 161626,
+      "word": "美国强生一款心脏泵致49人死亡",
+      "onboard_time": 1711956201,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 161151,
       "num": 208676,
       "word": "81岁女儿跨越81年找到烈士父亲",
@@ -3827,20 +3859,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 145436,
+      "num": 145436,
+      "word": "大厂离职开咖啡馆的人怎么样了",
+      "onboard_time": 1711955239,
+      "rank": 45,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 145276,
       "num": 145276,
       "word": "杨幂绿苑十八岁成人礼",
       "onboard_time": 1711886897,
       "rank": 36,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 145170,
-      "num": 145170,
-      "word": "周雨彤 裸背",
-      "onboard_time": 1711955660,
-      "rank": 43,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 144210,
@@ -3987,6 +4019,14 @@
       "category": "艺人,汽车"
     },
     {
+      "raw_hot": 137574,
+      "num": 137574,
+      "word": "中方坚定支持巴方严惩恐袭凶手及主使",
+      "onboard_time": 1711956380,
+      "rank": 47,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 137465,
       "num": 137465,
       "word": "追风者有自己的恶作剧之吻",
@@ -4075,14 +4115,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 130228,
-      "num": 130228,
-      "word": "大厂离职开咖啡馆的人怎么样了",
-      "onboard_time": 1711955239,
-      "rank": 45,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 129120,
       "num": 129120,
       "word": "侯明昊近照",
@@ -4137,6 +4169,14 @@
       "onboard_time": 1711901118,
       "rank": 39,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 125863,
+      "num": 125863,
+      "word": "眼泪女王爆改在俊他妈",
+      "onboard_time": 1711956860,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 125455,
@@ -4201,6 +4241,14 @@
       "onboard_time": 1711869197,
       "rank": 45,
       "category": "演出"
+    },
+    {
+      "raw_hot": 122961,
+      "num": 122961,
+      "word": "罗伯特 站姐们都是女英雄",
+      "onboard_time": 1711956860,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 122940,
@@ -4649,6 +4697,14 @@
       "onboard_time": 1711804159,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 67924,
+      "num": 900278,
+      "word": "雄安新区7岁了",
+      "onboard_time": 1711956500,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 67356,
