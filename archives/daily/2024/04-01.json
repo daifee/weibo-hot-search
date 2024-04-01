@@ -1,6 +1,6 @@
 {
   "startTime": 1711902044401,
-  "endTime": 1711977528134,
+  "endTime": 1711978461629,
   "band_list": [
     {
       "raw_hot": 12825415,
@@ -200,6 +200,14 @@
       "word": "扔小孩女子疑似精神行为异常",
       "onboard_time": 1711945585,
       "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1110320,
+      "num": 338821,
+      "word": "为什么无性婚姻越来越多",
+      "onboard_time": 1711976478,
+      "rank": 13,
       "category": "社会新闻"
     },
     {
@@ -427,6 +435,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 769672,
+      "num": 769672,
+      "word": "追风者阿文跳楼",
+      "onboard_time": 1711974019,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 766891,
       "num": 554818,
       "word": "成都",
@@ -531,14 +547,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 669703,
-      "num": 309203,
-      "word": "为什么无性婚姻越来越多",
-      "onboard_time": 1711976478,
-      "rank": 13,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 668127,
       "num": 668127,
       "word": "孙怡站姐呢",
@@ -552,6 +560,14 @@
       "word": "张凌赫站姐发了王鹤棣虞书欣",
       "onboard_time": 1711947204,
       "rank": 12,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 660244,
+      "num": 660244,
+      "word": "邓为站姐发了EXO",
+      "onboard_time": 1711976421,
+      "rank": 5,
       "category": "艺人"
     },
     {
@@ -635,22 +651,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 575596,
-      "num": 575596,
-      "word": "邓为站姐发了EXO",
-      "onboard_time": 1711976421,
-      "rank": 5,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 574352,
-      "num": 574352,
-      "word": "追风者阿文跳楼",
-      "onboard_time": 1711974019,
-      "rank": 27,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 571328,
       "num": 209364,
       "word": "张艺兴站姐 鹿晗",
@@ -705,6 +705,14 @@
       "onboard_time": 1711897940,
       "rank": 14,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 539904,
+      "num": 539904,
+      "word": "汪苏泷郁可唯互发自拍",
+      "onboard_time": 1711976478,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 534234,
@@ -851,6 +859,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 463927,
+      "num": 338213,
+      "word": "张大大在天水麻辣烫店当服务员",
+      "onboard_time": 1711972640,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 451980,
       "num": 451980,
       "word": "白鹿站姐发于正生图",
@@ -907,14 +923,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 435313,
-      "num": 338213,
-      "word": "张大大在天水麻辣烫店当服务员",
-      "onboard_time": 1711972640,
-      "rank": 15,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 434808,
       "num": 434808,
       "word": "白月光沈翊回归了",
@@ -964,7 +972,7 @@
     },
     {
       "raw_hot": 398440,
-      "num": 330588,
+      "num": 331477,
       "word": "物业回应南昌一小区窗框吹落3人坠亡",
       "onboard_time": 1711972640,
       "rank": 13,
@@ -1108,19 +1116,11 @@
     },
     {
       "raw_hot": 346095,
-      "num": 281303,
+      "num": 329741,
       "word": "白鹿簪花妆",
       "onboard_time": 1711975940,
       "rank": 20,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 344345,
-      "num": 280605,
-      "word": "汪苏泷郁可唯互发自拍",
-      "onboard_time": 1711976478,
-      "rank": 21,
-      "category": "艺人"
     },
     {
       "raw_hot": 343312,
@@ -1371,6 +1371,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 259656,
+      "num": 259656,
+      "word": "杨幂好用心",
+      "onboard_time": 1711975340,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 258344,
       "num": 258344,
       "word": "林俊杰济南二开",
@@ -1491,14 +1499,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 234922,
-      "num": 234922,
-      "word": "杨幂好用心",
-      "onboard_time": 1711975340,
-      "rank": 43,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 234018,
       "num": 234018,
       "word": "林俊杰演唱会 i人座位区",
@@ -1555,6 +1555,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 226974,
+      "num": 226974,
+      "word": "酒店拖鞋上这个洞有什么用",
+      "onboard_time": 1711977440,
+      "rank": 41,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 225576,
       "num": 225576,
       "word": "门店回应买保时捷送小米SU7",
@@ -1601,6 +1609,14 @@
       "onboard_time": 1711976299,
       "rank": 31,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 215471,
+      "num": 215471,
+      "word": "赵丽颖受刑戏又有钉子",
+      "onboard_time": 1711978280,
+      "rank": 31,
+      "category": "剧集"
     },
     {
       "raw_hot": 214339,
@@ -1907,6 +1923,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 193121,
+      "num": 193121,
+      "word": "成毅方回应被起诉",
+      "onboard_time": 1711976901,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 192807,
       "num": 192807,
       "word": "深夜看见这种诡异蓝光请立刻报警",
@@ -2051,14 +2075,6 @@
       "category": "运动健身"
     },
     {
-      "raw_hot": 182753,
-      "num": 182753,
-      "word": "成毅方回应被起诉",
-      "onboard_time": 1711976901,
-      "rank": 36,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 182741,
       "num": 182741,
       "word": "Turbo3",
@@ -2107,6 +2123,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 180073,
+      "num": 223969,
+      "word": "人人都是志愿者",
+      "onboard_time": 1711977921,
+      "rank": 27,
+      "category": "社会新闻,电竞"
+    },
+    {
       "raw_hot": 179621,
       "num": 179621,
       "word": "霉霉眼中的自己vs实际上的",
@@ -2137,6 +2161,14 @@
       "onboard_time": 1711949002,
       "rank": 45,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 178847,
+      "num": 178847,
+      "word": "向佐尬聊",
+      "onboard_time": 1711978100,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 177988,
@@ -2249,14 +2281,6 @@
       "onboard_time": 1711895300,
       "rank": 31,
       "category": "情感,网红"
-    },
-    {
-      "raw_hot": 165516,
-      "num": 165516,
-      "word": "酒店拖鞋上这个洞有什么用",
-      "onboard_time": 1711977440,
-      "rank": 41,
-      "category": "幽默"
     },
     {
       "raw_hot": 164258,
@@ -2779,6 +2803,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 99819,
+      "num": 341343,
+      "word": "30万级家庭首选超舒适SUV",
+      "onboard_time": 1711974200,
+      "rank": 22,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 98046,
       "num": 98046,
       "word": "人民海军75周岁",
@@ -2793,14 +2825,6 @@
       "onboard_time": 1711926796,
       "rank": 39,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 94367,
-      "num": 334144,
-      "word": "30万级家庭首选超舒适SUV",
-      "onboard_time": 1711974200,
-      "rank": 22,
-      "category": "汽车"
     },
     {
       "raw_hot": 82606,
@@ -2836,10 +2860,18 @@
     },
     {
       "raw_hot": 71237,
-      "num": 125201,
+      "num": 129303,
       "word": "南昌强对流天气狂风暴雨看得揪心",
       "onboard_time": 1711972759,
       "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 66737,
+      "num": 781186,
+      "word": "七年雄安拔节生长",
+      "onboard_time": 1711975700,
+      "rank": 2,
       "category": "社会新闻"
     },
     {
@@ -2889,14 +2921,6 @@
       "onboard_time": 1711893140,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 55561,
-      "num": 746529,
-      "word": "七年雄安拔节生长",
-      "onboard_time": 1711975700,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 53020,
