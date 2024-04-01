@@ -1,6 +1,6 @@
 {
   "startTime": 1711902044401,
-  "endTime": 1711935550601,
+  "endTime": 1711938672865,
   "band_list": [
     {
       "raw_hot": 1983650,
@@ -25,6 +25,14 @@
       "onboard_time": 1711931959,
       "rank": 1,
       "category": "科学科普,健康医疗"
+    },
+    {
+      "raw_hot": 1210558,
+      "num": 529168,
+      "word": "迈巴赫",
+      "onboard_time": 1711935257,
+      "rank": 27,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1093436,
@@ -67,6 +75,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 946017,
+      "num": 946017,
+      "word": "81192",
+      "onboard_time": 1711935739,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 945169,
       "num": 945169,
       "word": "贾玲减肥后刘维痛失代表作",
@@ -81,6 +97,30 @@
       "onboard_time": 1711899020,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 875137,
+      "num": 527779,
+      "word": "决战站姐之巅",
+      "onboard_time": 1711936399,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 834392,
+      "num": 313104,
+      "word": "男朋友把我们隐私照发朋友圈",
+      "onboard_time": 1711937000,
+      "rank": 20,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 804827,
+      "num": 804827,
+      "word": "还好只上三天就放假了",
+      "onboard_time": 1711932561,
+      "rank": 13,
+      "category": "情感"
     },
     {
       "raw_hot": 783055,
@@ -99,12 +139,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 752924,
-      "num": 752924,
-      "word": "还好只上三天就放假了",
-      "onboard_time": 1711932561,
-      "rank": 13,
-      "category": "情感"
+      "raw_hot": 737606,
+      "num": 737606,
+      "word": "问界M7降价2万元",
+      "onboard_time": 1711936278,
+      "rank": 6,
+      "category": "汽车"
     },
     {
       "raw_hot": 703657,
@@ -179,6 +219,22 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 532847,
+      "num": 532847,
+      "word": "一批30岁青年不再租房",
+      "onboard_time": 1711936278,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 524949,
+      "num": 524949,
+      "word": "承欢记",
+      "onboard_time": 1711936337,
+      "rank": 13,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 523084,
       "num": 368136,
       "word": "结婚的婚纱被婆婆剪了",
@@ -227,11 +283,27 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 442220,
+      "num": 442220,
+      "word": "19岁女生和41岁阿姨处成闺蜜",
+      "onboard_time": 1711936938,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 436467,
       "num": 436467,
       "word": "成都来福士交通事故造成2死2伤",
       "onboard_time": 1711926855,
       "rank": 27,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 383393,
+      "num": 383393,
+      "word": "成都迈巴赫肇事司机已被控制",
+      "onboard_time": 1711935979,
+      "rank": 16,
       "category": "社会新闻"
     },
     {
@@ -267,6 +339,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 332130,
+      "num": 332130,
+      "word": "新浪娱乐头像",
+      "onboard_time": 1711937599,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 327009,
       "num": 294572,
       "word": "张新成 我们还是不要散了",
@@ -281,6 +361,14 @@
       "onboard_time": 1711903636,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 313637,
+      "num": 313637,
+      "word": "每天通勤几十公里可能被视为营运车",
+      "onboard_time": 1711937181,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 304483,
@@ -299,11 +387,27 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 290284,
+      "num": 290284,
+      "word": "这种体态真的很好改善",
+      "onboard_time": 1711934837,
+      "rank": 30,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 285364,
       "num": 285364,
       "word": "陈乔恩晒照纪念结婚两周年",
       "onboard_time": 1711901060,
       "rank": 21,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 284781,
+      "num": 284781,
+      "word": "宋亚轩站姐发了肖战",
+      "onboard_time": 1711938379,
+      "rank": 24,
       "category": "艺人"
     },
     {
@@ -347,14 +451,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 231908,
-      "num": 202095,
-      "word": "这种体态真的很好改善",
-      "onboard_time": 1711934837,
-      "rank": 30,
-      "category": "运动健身"
-    },
-    {
       "raw_hot": 220827,
       "num": 220827,
       "word": "YG耳",
@@ -371,20 +467,20 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 213387,
+      "num": 233106,
+      "word": "韩国人真的每天只睡4小时吗",
+      "onboard_time": 1711905374,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 211533,
       "num": 211533,
       "word": "李云霄巡演合照",
       "onboard_time": 1711933759,
       "rank": 35,
       "category": "演出"
-    },
-    {
-      "raw_hot": 208059,
-      "num": 208059,
-      "word": "迈巴赫",
-      "onboard_time": 1711935257,
-      "rank": 27,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 203381,
@@ -419,20 +515,20 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 201788,
+      "num": 201788,
+      "word": "四月是你的谎言",
+      "onboard_time": 1711936218,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 200810,
       "num": 200810,
       "word": "四月你好",
       "onboard_time": 1711927816,
       "rank": 21,
       "category": "情感"
-    },
-    {
-      "raw_hot": 200432,
-      "num": 233106,
-      "word": "韩国人真的每天只睡4小时吗",
-      "onboard_time": 1711905374,
-      "rank": 35,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 199983,
@@ -483,6 +579,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 192450,
+      "num": 192450,
+      "word": "承欢记谈个恋爱吧预告",
+      "onboard_time": 1711937779,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 184351,
       "num": 184351,
       "word": "已婚男子找王婆说媒妻子或将离婚",
@@ -491,12 +595,44 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 182594,
+      "num": 182594,
+      "word": "种地吧",
+      "onboard_time": 1711936760,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 182040,
+      "num": 182040,
+      "word": "詹姆斯为自己戴上王冠",
+      "onboard_time": 1711937478,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 178908,
+      "num": 178908,
+      "word": "iPhoneSE4手机壳曝光",
+      "onboard_time": 1711938258,
+      "rank": 36,
+      "category": "数码"
+    },
+    {
       "raw_hot": 177988,
       "num": 177988,
       "word": "王伟烈士牺牲23年了",
       "onboard_time": 1711927036,
       "rank": 27,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 175505,
+      "num": 175505,
+      "word": "是什么影响了我们的生育力",
+      "onboard_time": 1711935497,
+      "rank": 46,
+      "category": "科学科普"
     },
     {
       "raw_hot": 173737,
@@ -529,6 +665,14 @@
       "onboard_time": 1711929739,
       "rank": 38,
       "category": "动漫,作品衍生"
+    },
+    {
+      "raw_hot": 162391,
+      "num": 162391,
+      "word": "金价",
+      "onboard_time": 1711938438,
+      "rank": 40,
+      "category": "财经"
     },
     {
       "raw_hot": 161444,
@@ -673,14 +817,6 @@
       "onboard_time": 1711935138,
       "rank": 39,
       "category": "财经"
-    },
-    {
-      "raw_hot": 130500,
-      "num": 130500,
-      "word": "是什么影响了我们的生育力",
-      "onboard_time": 1711935497,
-      "rank": 46,
-      "category": "科学科普"
     },
     {
       "raw_hot": 126391,
@@ -915,19 +1051,19 @@
       "category": "母婴育儿"
     },
     {
+      "raw_hot": 11652,
+      "num": 1131661,
+      "word": "2024中国网络媒体论坛",
+      "onboard_time": 1711628721,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 11607,
       "num": 14817,
       "word": "女子口吐白沫晕倒8岁娃机智求救",
       "onboard_time": 1711919590,
       "rank": 49,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 11409,
-      "num": 1131661,
-      "word": "2024中国网络媒体论坛",
-      "onboard_time": 1711628721,
-      "rank": 2,
       "category": "社会新闻"
     }
   ],
