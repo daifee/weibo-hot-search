@@ -1,6 +1,6 @@
 {
   "startTime": 1711815680412,
-  "endTime": 1711974824981,
+  "endTime": 1711975689125,
   "band_list": [
     {
       "raw_hot": 12825415,
@@ -51,19 +51,19 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 2498151,
+      "num": 352456,
+      "word": "女子睡觉被大风吹下11楼身亡",
+      "onboard_time": 1711971080,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2382706,
       "num": 2382706,
       "word": "81192",
       "onboard_time": 1711935739,
       "rank": 3,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 2326217,
-      "num": 330126,
-      "word": "女子睡觉被大风吹下11楼身亡",
-      "onboard_time": 1711971080,
-      "rank": 41,
       "category": "社会新闻"
     },
     {
@@ -763,6 +763,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 737572,
+      "num": 349789,
+      "word": "上海一轿车失控撞飞多名路人",
+      "onboard_time": 1711972040,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 730260,
       "num": 730260,
       "word": "郝蕾痛批朱梓骁",
@@ -953,14 +961,6 @@
       "onboard_time": 1711842014,
       "rank": 4,
       "category": "财经"
-    },
-    {
-      "raw_hot": 624653,
-      "num": 329237,
-      "word": "上海一轿车失控撞飞多名路人",
-      "onboard_time": 1711972040,
-      "rank": 12,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 614136,
@@ -1160,6 +1160,14 @@
       "word": "鞠婧祎红毯",
       "onboard_time": 1711868658,
       "rank": 26,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 526731,
+      "num": 342539,
+      "word": "谁亲了卢昱晓",
+      "onboard_time": 1711974200,
+      "rank": 14,
       "category": "作品衍生"
     },
     {
@@ -1539,6 +1547,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 438059,
+      "num": 438059,
+      "word": "南昌天气",
+      "onboard_time": 1711967960,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 436467,
       "num": 436467,
       "word": "成都来福士交通事故造成2死2伤",
@@ -1553,6 +1569,14 @@
       "onboard_time": 1711850237,
       "rank": 8,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 435313,
+      "num": 338213,
+      "word": "张大大在天水麻辣烫店当服务员",
+      "onboard_time": 1711972640,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 434808,
@@ -1684,7 +1708,7 @@
     },
     {
       "raw_hot": 398440,
-      "num": 328948,
+      "num": 330588,
       "word": "物业回应南昌一小区窗框吹落3人坠亡",
       "onboard_time": 1711972640,
       "rank": 13,
@@ -1803,14 +1827,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 376260,
-      "num": 328783,
-      "word": "谁亲了卢昱晓",
-      "onboard_time": 1711974200,
-      "rank": 14,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 374160,
       "num": 328297,
       "word": "女性太瘦并不是件好事",
@@ -1849,14 +1865,6 @@
       "onboard_time": 1711882158,
       "rank": 30,
       "category": "情感"
-    },
-    {
-      "raw_hot": 366385,
-      "num": 328309,
-      "word": "张大大在天水麻辣烫店当服务员",
-      "onboard_time": 1711972640,
-      "rank": 15,
-      "category": "艺人"
     },
     {
       "raw_hot": 365503,
@@ -2000,6 +2008,14 @@
       "word": "追风者编剧 牛",
       "onboard_time": 1711891761,
       "rank": 31,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 329620,
+      "num": 329620,
+      "word": "追风者阿文跳楼",
+      "onboard_time": 1711974019,
+      "rank": 27,
       "category": "剧集"
     },
     {
@@ -2339,6 +2355,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 283658,
+      "num": 283658,
+      "word": "宋昰昀被曝校园暴力",
+      "onboard_time": 1711975100,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 283419,
       "num": 283419,
       "word": "22岁大四和父母决裂了",
@@ -2635,6 +2659,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 247428,
+      "num": 247428,
+      "word": "花间令郡主自杀了",
+      "onboard_time": 1711974380,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 245831,
       "num": 245831,
       "word": "妲己青丘九尾无双特性优化",
@@ -2753,14 +2785,6 @@
       "onboard_time": 1711855997,
       "rank": 31,
       "category": "体育"
-    },
-    {
-      "raw_hot": 236114,
-      "num": 236114,
-      "word": "追风者阿文跳楼",
-      "onboard_time": 1711974019,
-      "rank": 27,
-      "category": "剧集"
     },
     {
       "raw_hot": 235786,
@@ -2977,14 +3001,6 @@
       "onboard_time": 1711963281,
       "rank": 19,
       "category": "财经"
-    },
-    {
-      "raw_hot": 220774,
-      "num": 220774,
-      "word": "花间令郡主自杀了",
-      "onboard_time": 1711974380,
-      "rank": 32,
-      "category": "剧集"
     },
     {
       "raw_hot": 218966,
@@ -3241,6 +3257,14 @@
       "onboard_time": 1711870939,
       "rank": 34,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 203412,
+      "num": 203412,
+      "word": "霸王茶姬cp",
+      "onboard_time": 1711973659,
+      "rank": 37,
+      "category": "剧集"
     },
     {
       "raw_hot": 203354,
@@ -3763,6 +3787,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 184653,
+      "num": 184653,
+      "word": "腾势发布会",
+      "onboard_time": 1711975458,
+      "rank": 36,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 184450,
       "num": 184450,
       "word": "WBG对战iG",
@@ -3905,6 +3937,14 @@
       "onboard_time": 1711961001,
       "rank": 36,
       "category": "情感"
+    },
+    {
+      "raw_hot": 179373,
+      "num": 179373,
+      "word": "腾势N7",
+      "onboard_time": 1711975340,
+      "rank": 37,
+      "category": "汽车"
     },
     {
       "raw_hot": 179245,
@@ -4137,14 +4177,6 @@
       "onboard_time": 1711874597,
       "rank": 36,
       "category": "情感"
-    },
-    {
-      "raw_hot": 167866,
-      "num": 167866,
-      "word": "霸王茶姬cp",
-      "onboard_time": 1711973659,
-      "rank": 37,
-      "category": "剧集"
     },
     {
       "raw_hot": 167155,
@@ -4593,6 +4625,14 @@
       "onboard_time": 1711877539,
       "rank": 40,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 148660,
+      "num": 148660,
+      "word": "杨幂好用心",
+      "onboard_time": 1711975340,
+      "rank": 43,
+      "category": "艺人"
     },
     {
       "raw_hot": 148446,
@@ -5155,6 +5195,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 117403,
+      "num": 117403,
+      "word": "人大食堂自研天水麻辣烫",
+      "onboard_time": 1711975640,
+      "rank": 47,
+      "category": "美食"
+    },
+    {
       "raw_hot": 116197,
       "num": 116197,
       "word": "宁静一语惊醒梦中人",
@@ -5579,6 +5627,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 63206,
+      "num": 334144,
+      "word": "30万级家庭首选超舒适SUV",
+      "onboard_time": 1711974200,
+      "rank": 22,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 63003,
       "num": 63003,
       "word": "这届年轻人为何爱上徒步登山",
@@ -5673,14 +5729,6 @@
       "onboard_time": 1711912032,
       "rank": 44,
       "category": "时尚"
-    },
-    {
-      "raw_hot": 46022,
-      "num": 284659,
-      "word": "30万级家庭首选超舒适SUV",
-      "onboard_time": 1711974200,
-      "rank": 22,
-      "category": "汽车"
     },
     {
       "raw_hot": 44491,
@@ -5813,6 +5861,9 @@
     },
     {
       "word": "#雄安新区要靠生态环境来体现价值增加吸引力#"
+    },
+    {
+      "word": "#中印尼关系进入共建命运共同体的新阶段#"
     }
   ]
 }
