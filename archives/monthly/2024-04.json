@@ -1,6 +1,6 @@
 {
   "startTime": 1711902044401,
-  "endTime": 1712002809713,
+  "endTime": 1712003655884,
   "band_list": [
     {
       "raw_hot": 12825415,
@@ -3195,6 +3195,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 67775,
+      "num": 26772,
+      "word": "于正 祝你也遇到法治咖",
+      "onboard_time": 1712000651,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 63995,
       "num": 63995,
       "word": "enhypen回归时间",
@@ -3209,14 +3217,6 @@
       "onboard_time": 1711911732,
       "rank": 23,
       "category": "演出"
-    },
-    {
-      "raw_hot": 61790,
-      "num": 26493,
-      "word": "于正 祝你也遇到法治咖",
-      "onboard_time": 1712000651,
-      "rank": 12,
-      "category": "艺人"
     },
     {
       "raw_hot": 59679,
@@ -3377,6 +3377,14 @@
       "onboard_time": 1711999571,
       "rank": 44,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 13600,
+      "num": 13600,
+      "word": "王艳贵女路透",
+      "onboard_time": 1712003411,
+      "rank": 41,
+      "category": "剧集"
     },
     {
       "raw_hot": 11652,
