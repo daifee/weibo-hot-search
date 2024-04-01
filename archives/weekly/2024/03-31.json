@@ -1,6 +1,6 @@
 {
   "startTime": 1711815680412,
-  "endTime": 1711970183620,
+  "endTime": 1711971249069,
   "band_list": [
     {
       "raw_hot": 12825415,
@@ -139,6 +139,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1742065,
+      "num": 1742065,
+      "word": "郑爽若故意隐瞒转移财产或被判刑3年",
+      "onboard_time": 1711968380,
+      "rank": 1,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1734647,
       "num": 1734647,
       "word": "雷军 我为张老师准备的车是顶配",
@@ -177,14 +185,6 @@
       "onboard_time": 1711876997,
       "rank": 7,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 1533195,
-      "num": 1533195,
-      "word": "郑爽若故意隐瞒转移财产或被判刑3年",
-      "onboard_time": 1711968380,
-      "rank": 1,
-      "category": "艺人"
     },
     {
       "raw_hot": 1499855,
@@ -249,6 +249,14 @@
       "onboard_time": 1711931959,
       "rank": 1,
       "category": "科学科普,健康医疗"
+    },
+    {
+      "raw_hot": 1294992,
+      "num": 1294992,
+      "word": "南昌",
+      "onboard_time": 1711967960,
+      "rank": 4,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1290409,
@@ -409,14 +417,6 @@
       "onboard_time": 1711952660,
       "rank": 19,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1020238,
-      "num": 1020238,
-      "word": "南昌",
-      "onboard_time": 1711967960,
-      "rank": 4,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1015475,
@@ -635,6 +635,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 802775,
+      "num": 802775,
+      "word": "朋友整个孕期抽了48管血",
+      "onboard_time": 1711969701,
+      "rank": 28,
+      "category": "母婴育儿"
+    },
+    {
       "raw_hot": 792888,
       "num": 792888,
       "word": "babymonster直播",
@@ -849,6 +857,14 @@
       "onboard_time": 1711960341,
       "rank": 20,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 655349,
+      "num": 655349,
+      "word": "花间令结局",
+      "onboard_time": 1711970002,
+      "rank": 45,
+      "category": "剧集"
     },
     {
       "raw_hot": 651815,
@@ -1147,6 +1163,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 518449,
+      "num": 518449,
+      "word": "王者荣耀妲己 无双返场",
+      "onboard_time": 1711966820,
+      "rank": 15,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 518341,
       "num": 518341,
       "word": "成毅被前经纪公司起诉",
@@ -1185,14 +1209,6 @@
       "onboard_time": 1711949482,
       "rank": 37,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 512506,
-      "num": 512506,
-      "word": "王者荣耀妲己 无双返场",
-      "onboard_time": 1711966820,
-      "rank": 15,
-      "category": "游戏"
     },
     {
       "raw_hot": 511653,
@@ -1579,6 +1595,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 419397,
+      "num": 419397,
+      "word": "罗伯特头像",
+      "onboard_time": 1711969880,
+      "rank": 34,
+      "category": "互联网"
+    },
+    {
+      "raw_hot": 416228,
+      "num": 531887,
+      "word": "6个月婴儿雨夜爬上马路被接力守护",
+      "onboard_time": 1711969460,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 415659,
       "num": 415659,
       "word": "宋亚轩站姐发了肖战",
@@ -1891,6 +1923,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 339067,
+      "num": 347402,
+      "word": "新疆成为包邮区",
+      "onboard_time": 1711967001,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 337171,
       "num": 337171,
       "word": "广州冰雹",
@@ -2195,14 +2235,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 288731,
-      "num": 347402,
-      "word": "新疆成为包邮区",
-      "onboard_time": 1711967001,
-      "rank": 28,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 288371,
       "num": 288371,
       "word": "郑元畅不知道唐禹哲有两个小孩",
@@ -2393,14 +2425,6 @@
       "onboard_time": 1711884077,
       "rank": 22,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 265864,
-      "num": 265864,
-      "word": "朋友整个孕期抽了48管血",
-      "onboard_time": 1711969701,
-      "rank": 28,
-      "category": "母婴育儿"
     },
     {
       "raw_hot": 264886,
@@ -2779,6 +2803,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 229447,
+      "num": 229447,
+      "word": "张朝阳说35岁年龄歧视很奇怪",
+      "onboard_time": 1711969640,
+      "rank": 37,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 229437,
       "num": 229437,
       "word": "赵露思直播",
@@ -2937,14 +2969,6 @@
       "onboard_time": 1711905374,
       "rank": 35,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 213336,
-      "num": 213336,
-      "word": "罗伯特头像",
-      "onboard_time": 1711969880,
-      "rank": 34,
-      "category": "互联网"
     },
     {
       "raw_hot": 213246,
@@ -3139,14 +3163,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 203418,
-      "num": 203418,
-      "word": "张朝阳说35岁年龄歧视很奇怪",
-      "onboard_time": 1711969640,
-      "rank": 37,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 203354,
       "num": 203354,
       "word": "牛春苗为什么没全国海选",
@@ -3225,6 +3241,14 @@
       "onboard_time": 1711927816,
       "rank": 21,
       "category": "情感"
+    },
+    {
+      "raw_hot": 200253,
+      "num": 200253,
+      "word": "林一 幽我一默",
+      "onboard_time": 1711970720,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 200049,
@@ -4011,14 +4035,6 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 168877,
-      "num": 168877,
-      "word": "花间令结局",
-      "onboard_time": 1711970002,
-      "rank": 45,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 168755,
       "num": 168755,
       "word": "SEVENTEEN特典",
@@ -4115,6 +4131,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 164258,
+      "num": 164258,
+      "word": "吉利高管到小米线下门店看SU7",
+      "onboard_time": 1711970960,
+      "rank": 39,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 164242,
       "num": 164242,
       "word": "崔秀彬18秒镜头",
@@ -4145,6 +4169,14 @@
       "onboard_time": 1711929739,
       "rank": 38,
       "category": "动漫,作品衍生"
+    },
+    {
+      "raw_hot": 163377,
+      "num": 610789,
+      "word": "民警收到8牛锦旗秒变显眼包",
+      "onboard_time": 1711965019,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 161151,
@@ -4225,6 +4257,14 @@
       "onboard_time": 1711893140,
       "rank": 46,
       "category": "情感"
+    },
+    {
+      "raw_hot": 156794,
+      "num": 156794,
+      "word": "女子睡觉被大风吹下11楼身亡",
+      "onboard_time": 1711971080,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 156376,
@@ -4371,6 +4411,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 152281,
+      "num": 152281,
+      "word": "马伊琍怎么偷偷摸摸的",
+      "onboard_time": 1711970840,
+      "rank": 42,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 152164,
       "num": 152164,
       "word": "祁煜 海神的水床",
@@ -4491,14 +4539,6 @@
       "category": "时尚"
     },
     {
-      "raw_hot": 147071,
-      "num": 610789,
-      "word": "民警收到8牛锦旗秒变显眼包",
-      "onboard_time": 1711965019,
-      "rank": 24,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 146727,
       "num": 285590,
       "word": "中央网信办整治涉企侵权信息乱象",
@@ -4513,14 +4553,6 @@
       "onboard_time": 1711903037,
       "rank": 25,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 146205,
-      "num": 285307,
-      "word": "6个月婴儿雨夜爬上马路被接力守护",
-      "onboard_time": 1711969460,
-      "rank": 24,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 146108,
@@ -4769,6 +4801,14 @@
       "onboard_time": 1711953020,
       "rank": 47,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 136041,
+      "num": 136041,
+      "word": "100只生蚝能做出多少蚝油",
+      "onboard_time": 1711970960,
+      "rank": 45,
+      "category": "美食"
     },
     {
       "raw_hot": 134441,
