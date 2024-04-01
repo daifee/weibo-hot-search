@@ -1,0 +1,410 @@
+{
+  "runTime": 1711967760175,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1633975,
+        "num": 1633975,
+        "word": "罗伯特 TFBOYS已经解散了",
+        "onboard_time": 1711966281,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1157067,
+        "num": 1157067,
+        "word": "新生蔡元培莫言被北大拟录取",
+        "onboard_time": 1711961782,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 80080,
+        "num": 955708,
+        "word": "雄安新区7岁了",
+        "onboard_time": 1711956500,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 891401,
+        "num": 891401,
+        "word": "雷军恳请各位口下留情",
+        "onboard_time": 1711963821,
+        "rank": 3,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 774078,
+        "num": 774078,
+        "word": "法院认定郑爽无财产可供执行",
+        "onboard_time": 1711946724,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 723332,
+        "num": 723332,
+        "word": "躁郁症比抑郁症更严重",
+        "onboard_time": 1711961480,
+        "rank": 5,
+        "category": "健康医疗,科学科普"
+      },
+      {
+        "raw_hot": 573699,
+        "num": 573699,
+        "word": "孙怡站姐呢",
+        "onboard_time": 1711964600,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 568537,
+        "num": 568537,
+        "word": "韩商言 张元英转圈",
+        "onboard_time": 1711960161,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 106122,
+        "num": 567256,
+        "word": "民警收到8牛锦旗秒变显眼包",
+        "onboard_time": 1711965019,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 121960,
+        "num": 560780,
+        "word": "浙大走廊被紫藤花淹没",
+        "onboard_time": 1711965140,
+        "rank": 9,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 678087,
+        "num": 552736,
+        "word": "男朋友婚前隐瞒他7年前坐过牢",
+        "onboard_time": 1711966459,
+        "rank": 10,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 675505,
+        "num": 551643,
+        "word": "郑爽仍有上亿案款未履行",
+        "onboard_time": 1711963459,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 547457,
+        "num": 547457,
+        "word": "黄旭熙怎么又出道了",
+        "onboard_time": 1711963760,
+        "rank": 12,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 539404,
+        "num": 539404,
+        "word": "这居然是罗云熙",
+        "onboard_time": 1711966281,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 539041,
+        "num": 539041,
+        "word": "最癫站姐",
+        "onboard_time": 1711942461,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 385302,
+        "num": 385302,
+        "word": "王者荣耀妲己 无双返场",
+        "onboard_time": 1711966820,
+        "rank": 15,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 374702,
+        "num": 374702,
+        "word": "杨幂美人鱼表白",
+        "onboard_time": 1711962440,
+        "rank": 16,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 383845,
+        "num": 370532,
+        "word": "黄旭熙solo歌词",
+        "onboard_time": 1711965563,
+        "rank": 17,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 347260,
+        "num": 347260,
+        "word": "南昌强对流天气已致4死10余人伤",
+        "onboard_time": 1711952241,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 344756,
+        "num": 344756,
+        "word": "旅日大熊猫爽爽死亡",
+        "onboard_time": 1711950321,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 419472,
+        "num": 344525,
+        "word": "存了12万被妈妈一年花完了",
+        "onboard_time": 1711960341,
+        "rank": 20,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 343240,
+        "num": 343240,
+        "word": "爸妈已经发现工作不好找了",
+        "onboard_time": 1711966160,
+        "rank": 21,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 271628,
+        "num": 271628,
+        "word": "官宣忘记屏蔽妈妈了",
+        "onboard_time": 1711960762,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 266696,
+        "num": 266696,
+        "word": "张颂文参加婚礼吃上肘子",
+        "onboard_time": 1711952660,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 230190,
+        "num": 230190,
+        "word": "刘亦菲玫瑰的故事开启招商",
+        "onboard_time": 1711965320,
+        "rank": 24,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 225960,
+        "num": 225960,
+        "word": "TFBOYS站姐愚人节团建",
+        "onboard_time": 1711959681,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 225343,
+        "num": 225343,
+        "word": "为什么高铁上跳过了E直接是F座",
+        "onboard_time": 1711952840,
+        "rank": 26,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 221292,
+        "num": 221292,
+        "word": "缺点是瘦的太快了",
+        "onboard_time": 1711965739,
+        "rank": 27,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 201606,
+        "num": 214029,
+        "word": "新疆成为包邮区",
+        "onboard_time": 1711967001,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 177941,
+        "num": 211323,
+        "word": "开封王婆说媒现在变味了",
+        "onboard_time": 1711957159,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1249514,
+        "num": 211307,
+        "word": "微信崩了",
+        "onboard_time": 1711962560,
+        "rank": 30,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 211280,
+        "num": 211280,
+        "word": "奶奶送的黄金吊坠是铁的",
+        "onboard_time": 1711964361,
+        "rank": 31,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 205598,
+        "num": 205598,
+        "word": "一百家站姐发了陈都灵",
+        "onboard_time": 1711954339,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 202128,
+        "num": 202128,
+        "word": "门店回应买保时捷送小米SU7",
+        "onboard_time": 1711965202,
+        "rank": 33,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 198659,
+        "num": 198659,
+        "word": "妲己青丘九尾无双特性优化",
+        "onboard_time": 1711964840,
+        "rank": 34,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 195453,
+        "num": 195453,
+        "word": "林俊杰贵阳 抢票",
+        "onboard_time": 1711966701,
+        "rank": 35,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 194124,
+        "num": 194124,
+        "word": "TXT新歌回归",
+        "onboard_time": 1711965860,
+        "rank": 36,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 178086,
+        "num": 178086,
+        "word": "新版赵灵儿 古装叶文洁",
+        "onboard_time": 1711960762,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 194679,
+        "num": 176988,
+        "word": "林俊杰土味情话",
+        "onboard_time": 1711967480,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 149061,
+        "num": 174941,
+        "word": "油价",
+        "onboard_time": 1711963281,
+        "rank": 39,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 173960,
+        "num": 173960,
+        "word": "原来这就是菠萝跟凤梨的区别",
+        "onboard_time": 1711967360,
+        "rank": 40,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 173496,
+        "num": 173496,
+        "word": "马英九参观腾讯总部",
+        "onboard_time": 1711964781,
+        "rank": 41,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 171831,
+        "num": 171831,
+        "word": "成毅被前经纪公司起诉",
+        "onboard_time": 1711953259,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 170583,
+        "num": 170583,
+        "word": "陈都灵 仕女图",
+        "onboard_time": 1711963338,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 166840,
+        "num": 166840,
+        "word": "不想运动可能不是因为懒",
+        "onboard_time": 1711963520,
+        "rank": 44,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 164242,
+        "num": 164242,
+        "word": "崔秀彬18秒镜头",
+        "onboard_time": 1711967659,
+        "rank": 45,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 164099,
+        "num": 164099,
+        "word": "张元英生图",
+        "onboard_time": 1711949482,
+        "rank": 46,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 156630,
+        "num": 156630,
+        "word": "公司把发朋友圈计入考勤",
+        "onboard_time": 1711965679,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 156010,
+        "num": 156010,
+        "word": "嘴唇会随着年龄的增长而变薄",
+        "onboard_time": 1711963221,
+        "rank": 48,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 111898,
+        "num": 144939,
+        "word": "女生花钱找人改简历发现效果不如AI",
+        "onboard_time": 1711963760,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#要把为民造福作为最重要的政绩#"
+    }
+  }
+}

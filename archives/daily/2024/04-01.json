@@ -1,6 +1,6 @@
 {
   "startTime": 1711902044401,
-  "endTime": 1711966772837,
+  "endTime": 1711967760175,
   "band_list": [
     {
       "raw_hot": 12825415,
@@ -89,6 +89,14 @@
       "onboard_time": 1711953499,
       "rank": 16,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1633975,
+      "num": 1633975,
+      "word": "罗伯特 TFBOYS已经解散了",
+      "onboard_time": 1711966281,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 1439282,
@@ -283,6 +291,14 @@
       "category": "健康医疗,科学科普"
     },
     {
+      "raw_hot": 891401,
+      "num": 891401,
+      "word": "雷军恳请各位口下留情",
+      "onboard_time": 1711963821,
+      "rank": 35,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 876023,
       "num": 566137,
       "word": "蔡徐坤ins",
@@ -321,14 +337,6 @@
       "onboard_time": 1711956560,
       "rank": 30,
       "category": "美食"
-    },
-    {
-      "raw_hot": 807260,
-      "num": 807260,
-      "word": "雷军恳请各位口下留情",
-      "onboard_time": 1711963821,
-      "rank": 35,
-      "category": "汽车"
     },
     {
       "raw_hot": 804827,
@@ -427,6 +435,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 678087,
+      "num": 552736,
+      "word": "男朋友婚前隐瞒他7年前坐过牢",
+      "onboard_time": 1711966459,
+      "rank": 32,
+      "category": "情感"
+    },
+    {
       "raw_hot": 672066,
       "num": 672066,
       "word": "杨幂卡点微博",
@@ -452,7 +468,7 @@
     },
     {
       "raw_hot": 659268,
-      "num": 282830,
+      "num": 344525,
       "word": "存了12万被妈妈一年花完了",
       "onboard_time": 1711960341,
       "rank": 20,
@@ -523,14 +539,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 581045,
-      "num": 581045,
-      "word": "罗伯特 TFBOYS已经解散了",
-      "onboard_time": 1711966281,
-      "rank": 11,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 571328,
       "num": 209364,
       "word": "张艺兴站姐 鹿晗",
@@ -585,6 +593,14 @@
       "onboard_time": 1711897940,
       "rank": 14,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 539404,
+      "num": 539404,
+      "word": "这居然是罗云熙",
+      "onboard_time": 1711966281,
+      "rank": 41,
+      "category": "剧集"
     },
     {
       "raw_hot": 534234,
@@ -819,6 +835,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 385302,
+      "num": 385302,
+      "word": "王者荣耀妲己 无双返场",
+      "onboard_time": 1711966820,
+      "rank": 15,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 383845,
+      "num": 370532,
+      "word": "黄旭熙solo歌词",
+      "onboard_time": 1711965563,
+      "rank": 17,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 381588,
       "num": 381588,
       "word": "华为P70",
@@ -931,6 +963,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 343240,
+      "num": 343240,
+      "word": "爸妈已经发现工作不好找了",
+      "onboard_time": 1711966160,
+      "rank": 33,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 327009,
       "num": 294572,
       "word": "张新成 我们还是不要散了",
@@ -969,14 +1009,6 @@
       "onboard_time": 1711903636,
       "rank": 27,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 311879,
-      "num": 311879,
-      "word": "黄旭熙solo歌词",
-      "onboard_time": 1711965563,
-      "rank": 17,
-      "category": "音乐"
     },
     {
       "raw_hot": 310250,
@@ -1155,14 +1187,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 256703,
-      "num": 232710,
-      "word": "男朋友婚前隐瞒他7年前坐过牢",
-      "onboard_time": 1711966459,
-      "rank": 32,
-      "category": "情感"
-    },
-    {
       "raw_hot": 254326,
       "num": 254326,
       "word": "欧阳娜娜正面回应猫咪纹",
@@ -1273,14 +1297,6 @@
       "onboard_time": 1711958601,
       "rank": 24,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 231964,
-      "num": 231964,
-      "word": "爸妈已经发现工作不好找了",
-      "onboard_time": 1711966160,
-      "rank": 33,
-      "category": "幽默"
     },
     {
       "raw_hot": 231434,
@@ -1459,6 +1475,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 201606,
+      "num": 214029,
+      "word": "新疆成为包邮区",
+      "onboard_time": 1711967001,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 201424,
       "num": 211410,
       "word": "中方坚定支持巴方严惩恐袭凶手及主使",
@@ -1473,14 +1497,6 @@
       "onboard_time": 1711957221,
       "rank": 27,
       "category": "情感"
-    },
-    {
-      "raw_hot": 201133,
-      "num": 201133,
-      "word": "这居然是罗云熙",
-      "onboard_time": 1711966281,
-      "rank": 41,
-      "category": "剧集"
     },
     {
       "raw_hot": 200810,
@@ -1585,6 +1601,22 @@
       "onboard_time": 1711948461,
       "rank": 48,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 195453,
+      "num": 195453,
+      "word": "林俊杰贵阳 抢票",
+      "onboard_time": 1711966701,
+      "rank": 45,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 194679,
+      "num": 176988,
+      "word": "林俊杰土味情话",
+      "onboard_time": 1711967480,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 193454,
@@ -1819,20 +1851,20 @@
       "category": "科学科普"
     },
     {
-      "raw_hot": 174333,
-      "num": 174333,
-      "word": "林俊杰贵阳 抢票",
-      "onboard_time": 1711966701,
-      "rank": 45,
-      "category": "演出"
-    },
-    {
       "raw_hot": 174014,
       "num": 174014,
       "word": "李汶翰让站姐入职",
       "onboard_time": 1711962620,
       "rank": 37,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 173960,
+      "num": 173960,
+      "word": "原来这就是菠萝跟凤梨的区别",
+      "onboard_time": 1711967360,
+      "rank": 40,
+      "category": "美食"
     },
     {
       "raw_hot": 173737,
@@ -1905,6 +1937,14 @@
       "onboard_time": 1711895300,
       "rank": 31,
       "category": "情感,网红"
+    },
+    {
+      "raw_hot": 164242,
+      "num": 164242,
+      "word": "崔秀彬18秒镜头",
+      "onboard_time": 1711967659,
+      "rank": 45,
+      "category": "音乐"
     },
     {
       "raw_hot": 164141,
@@ -2076,7 +2116,7 @@
     },
     {
       "raw_hot": 147916,
-      "num": 905470,
+      "num": 955708,
       "word": "雄安新区7岁了",
       "onboard_time": 1711956500,
       "rank": 2,
@@ -2267,6 +2307,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 121960,
+      "num": 638959,
+      "word": "浙大走廊被紫藤花淹没",
+      "onboard_time": 1711965140,
+      "rank": 9,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 119239,
       "num": 119239,
       "word": "怪不得上班这么苦",
@@ -2323,12 +2371,12 @@
       "category": "美食"
     },
     {
-      "raw_hot": 106850,
-      "num": 638959,
-      "word": "浙大走廊被紫藤花淹没",
-      "onboard_time": 1711965140,
-      "rank": 9,
-      "category": "旅游"
+      "raw_hot": 106122,
+      "num": 567256,
+      "word": "民警收到8牛锦旗秒变显眼包",
+      "onboard_time": 1711965019,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 101437,
@@ -2433,14 +2481,6 @@
       "onboard_time": 1711902258,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 56422,
-      "num": 257998,
-      "word": "民警收到8牛锦旗秒变显眼包",
-      "onboard_time": 1711965019,
-      "rank": 24,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 55955,
