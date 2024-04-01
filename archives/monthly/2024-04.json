@@ -1,6 +1,6 @@
 {
   "startTime": 1711902044401,
-  "endTime": 1711975689125,
+  "endTime": 1711977528134,
   "band_list": [
     {
       "raw_hot": 12825415,
@@ -371,6 +371,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 856714,
+      "num": 856714,
+      "word": "玄彬孙艺珍出演眼泪女王",
+      "onboard_time": 1711975940,
+      "rank": 1,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 825288,
       "num": 825288,
       "word": "这居然是罗云熙",
@@ -523,6 +531,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 669703,
+      "num": 309203,
+      "word": "为什么无性婚姻越来越多",
+      "onboard_time": 1711976478,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 668127,
       "num": 668127,
       "word": "孙怡站姐呢",
@@ -617,6 +633,22 @@
       "onboard_time": 1711948643,
       "rank": 41,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 575596,
+      "num": 575596,
+      "word": "邓为站姐发了EXO",
+      "onboard_time": 1711976421,
+      "rank": 5,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 574352,
+      "num": 574352,
+      "word": "追风者阿文跳楼",
+      "onboard_time": 1711974019,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 571328,
@@ -793,6 +825,14 @@
       "onboard_time": 1711888277,
       "rank": 8,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 468966,
+      "num": 468966,
+      "word": "宋昰昀被曝校园暴力",
+      "onboard_time": 1711975100,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 466055,
@@ -1067,6 +1107,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 346095,
+      "num": 281303,
+      "word": "白鹿簪花妆",
+      "onboard_time": 1711975940,
+      "rank": 20,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 344345,
+      "num": 280605,
+      "word": "汪苏泷郁可唯互发自拍",
+      "onboard_time": 1711976478,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 343312,
       "num": 343312,
       "word": "萌探2024官宣",
@@ -1089,14 +1145,6 @@
       "onboard_time": 1711967001,
       "rank": 28,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 329620,
-      "num": 329620,
-      "word": "追风者阿文跳楼",
-      "onboard_time": 1711974019,
-      "rank": 27,
-      "category": "剧集"
     },
     {
       "raw_hot": 327009,
@@ -1232,14 +1280,6 @@
       "word": "李昀锐站姐发了黄曦彦黄子琪",
       "onboard_time": 1711945104,
       "rank": 43,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 283658,
-      "num": 283658,
-      "word": "宋昰昀被曝校园暴力",
-      "onboard_time": 1711975100,
-      "rank": 21,
       "category": "艺人"
     },
     {
@@ -1451,6 +1491,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 234922,
+      "num": 234922,
+      "word": "杨幂好用心",
+      "onboard_time": 1711975340,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 234018,
       "num": 234018,
       "word": "林俊杰演唱会 i人座位区",
@@ -1545,6 +1593,14 @@
       "onboard_time": 1711964781,
       "rank": 36,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 217866,
+      "num": 217866,
+      "word": "裙裤叠穿",
+      "onboard_time": 1711976299,
+      "rank": 31,
+      "category": "时尚"
     },
     {
       "raw_hot": 214339,
@@ -1995,6 +2051,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 182753,
+      "num": 182753,
+      "word": "成毅方回应被起诉",
+      "onboard_time": 1711976901,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 182741,
       "num": 182741,
       "word": "Turbo3",
@@ -2187,6 +2251,14 @@
       "category": "情感,网红"
     },
     {
+      "raw_hot": 165516,
+      "num": 165516,
+      "word": "酒店拖鞋上这个洞有什么用",
+      "onboard_time": 1711977440,
+      "rank": 41,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 164258,
       "num": 164258,
       "word": "吉利高管到小米线下门店看SU7",
@@ -2371,6 +2443,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 151407,
+      "num": 151407,
+      "word": "双子座迷人的反差感",
+      "onboard_time": 1711976361,
+      "rank": 44,
+      "category": "情感"
+    },
+    {
       "raw_hot": 151243,
       "num": 151243,
       "word": "雀魂联动蔚蓝档案",
@@ -2393,14 +2473,6 @@
       "onboard_time": 1711958181,
       "rank": 40,
       "category": "财经"
-    },
-    {
-      "raw_hot": 148660,
-      "num": 148660,
-      "word": "杨幂好用心",
-      "onboard_time": 1711975340,
-      "rank": 43,
-      "category": "艺人"
     },
     {
       "raw_hot": 148105,
@@ -2723,6 +2795,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 94367,
+      "num": 334144,
+      "word": "30万级家庭首选超舒适SUV",
+      "onboard_time": 1711974200,
+      "rank": 22,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 82606,
       "num": 82606,
       "word": "四月文案",
@@ -2771,14 +2851,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 63206,
-      "num": 334144,
-      "word": "30万级家庭首选超舒适SUV",
-      "onboard_time": 1711974200,
-      "rank": 22,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 62537,
       "num": 62537,
       "word": "aespa的手臂",
@@ -2817,6 +2889,14 @@
       "onboard_time": 1711893140,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 55561,
+      "num": 746529,
+      "word": "七年雄安拔节生长",
+      "onboard_time": 1711975700,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 53020,
