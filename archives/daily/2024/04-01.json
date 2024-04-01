@@ -1,7 +1,15 @@
 {
   "startTime": 1711902044401,
-  "endTime": 1711941529746,
+  "endTime": 1711942488344,
   "band_list": [
+    {
+      "raw_hot": 2097713,
+      "num": 2097713,
+      "word": "81192",
+      "onboard_time": 1711935739,
+      "rank": 3,
+      "category": "社会新闻"
+    },
     {
       "raw_hot": 1983650,
       "num": 1983650,
@@ -9,6 +17,14 @@
       "onboard_time": 1711890498,
       "rank": 0,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1910184,
+      "num": 1910184,
+      "word": "重庆一小孩被扔下高楼",
+      "onboard_time": 1711941680,
+      "rank": 1,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1373607,
@@ -35,27 +51,19 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1093436,
-      "num": 567266,
-      "word": "迈巴赫成都来福士连续碾压多人",
-      "onboard_time": 1711897279,
-      "rank": 10,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1088574,
-      "num": 1088574,
+      "raw_hot": 1201350,
+      "num": 1201350,
       "word": "19岁女生和41岁阿姨处成闺蜜",
       "onboard_time": 1711936938,
       "rank": 14,
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1055899,
-      "num": 1055899,
-      "word": "81192",
-      "onboard_time": 1711935739,
-      "rank": 3,
+      "raw_hot": 1093436,
+      "num": 567266,
+      "word": "迈巴赫成都来福士连续碾压多人",
+      "onboard_time": 1711897279,
+      "rank": 10,
       "category": "社会新闻"
     },
     {
@@ -131,6 +139,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 790470,
+      "num": 790470,
+      "word": "陈少熙火了",
+      "onboard_time": 1711940477,
+      "rank": 5,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 783055,
       "num": 783055,
       "word": "愚人节换头像",
@@ -169,14 +185,6 @@
       "onboard_time": 1711902258,
       "rank": 14,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 684706,
-      "num": 684706,
-      "word": "陈少熙火了",
-      "onboard_time": 1711940477,
-      "rank": 5,
-      "category": "综艺"
     },
     {
       "raw_hot": 672066,
@@ -371,6 +379,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 384600,
+      "num": 384600,
+      "word": "马英九",
+      "onboard_time": 1711941439,
+      "rank": 21,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 371777,
       "num": 565200,
       "word": "莎头",
@@ -411,6 +427,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 359655,
+      "num": 359655,
+      "word": "南昌突发强对流天气3人坠楼身亡",
+      "onboard_time": 1711941978,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 347499,
       "num": 347499,
       "word": "电影我才不要和你做朋友呢定档",
@@ -441,6 +465,14 @@
       "onboard_time": 1711895360,
       "rank": 18,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 303487,
+      "num": 303487,
+      "word": "凤凰传奇抢票",
+      "onboard_time": 1711941200,
+      "rank": 41,
+      "category": "演出"
     },
     {
       "raw_hot": 296819,
@@ -491,6 +523,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 252145,
+      "num": 252145,
+      "word": "规培医生不该成为廉价劳动力",
+      "onboard_time": 1711941380,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 239250,
       "num": 239250,
       "word": "多批次梦龙雪糕被召回",
@@ -523,6 +563,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 227972,
+      "num": 227972,
+      "word": "成都老板亲自到天水背辣椒回蓉",
+      "onboard_time": 1711941560,
+      "rank": 35,
+      "category": "美食"
+    },
+    {
       "raw_hot": 220827,
       "num": 220827,
       "word": "YG耳",
@@ -553,6 +601,14 @@
       "onboard_time": 1711933759,
       "rank": 35,
       "category": "演出"
+    },
+    {
+      "raw_hot": 209430,
+      "num": 209430,
+      "word": "重庆警方回应小孩被扔下高楼",
+      "onboard_time": 1711942100,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 208274,
@@ -619,6 +675,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 199751,
+      "num": 199751,
+      "word": "中金公司人均薪酬两年缩水近40%",
+      "onboard_time": 1711939038,
+      "rank": 38,
+      "category": "财经"
+    },
+    {
       "raw_hot": 198636,
       "num": 198636,
       "word": "原来工作了真的会没空了",
@@ -633,14 +697,6 @@
       "onboard_time": 1711927816,
       "rank": 23,
       "category": "情感"
-    },
-    {
-      "raw_hot": 196480,
-      "num": 196480,
-      "word": "中金公司人均薪酬两年缩水近40%",
-      "onboard_time": 1711939038,
-      "rank": 38,
-      "category": "财经"
     },
     {
       "raw_hot": 195984,
@@ -683,12 +739,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 189103,
-      "num": 189103,
-      "word": "凤凰传奇抢票",
-      "onboard_time": 1711941200,
-      "rank": 41,
-      "category": "演出"
+      "raw_hot": 186503,
+      "num": 186503,
+      "word": "最癫站姐",
+      "onboard_time": 1711942461,
+      "rank": 45,
+      "category": "艺人"
     },
     {
       "raw_hot": 184351,
@@ -737,6 +793,14 @@
       "onboard_time": 1711891820,
       "rank": 24,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 168630,
+      "num": 168630,
+      "word": "8万以下车型又有新选择",
+      "onboard_time": 1711942220,
+      "rank": 47,
+      "category": "汽车"
     },
     {
       "raw_hot": 168319,
@@ -899,12 +963,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 134037,
-      "num": 134037,
-      "word": "规培医生不该成为廉价劳动力",
-      "onboard_time": 1711941380,
+      "raw_hot": 133160,
+      "num": 360592,
+      "word": "极氪007增强版上市",
+      "onboard_time": 1711939159,
       "rank": 49,
-      "category": "社会新闻"
+      "category": "汽车"
     },
     {
       "raw_hot": 130601,
@@ -945,14 +1009,6 @@
       "onboard_time": 1711898538,
       "rank": 42,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 116761,
-      "num": 360592,
-      "word": "极氪007增强版上市",
-      "onboard_time": 1711939159,
-      "rank": 49,
-      "category": "汽车"
     },
     {
       "raw_hot": 115870,
@@ -1025,6 +1081,14 @@
       "onboard_time": 1711927997,
       "rank": 40,
       "category": "情感"
+    },
+    {
+      "raw_hot": 81435,
+      "num": 305648,
+      "word": "最大的奥迪",
+      "onboard_time": 1711941500,
+      "rank": 47,
+      "category": "汽车"
     },
     {
       "raw_hot": 76275,
@@ -1107,6 +1171,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 49448,
+      "num": 470433,
+      "word": "红米发布Turbo全新性能系列",
+      "onboard_time": 1711940421,
+      "rank": 14,
+      "category": "数码"
+    },
+    {
       "raw_hot": 47548,
       "num": 55700,
       "word": "网红包MCM过气了吗",
@@ -1137,22 +1209,6 @@
       "onboard_time": 1711908493,
       "rank": 42,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 37690,
-      "num": 143716,
-      "word": "最大的奥迪",
-      "onboard_time": 1711941500,
-      "rank": 47,
-      "category": "汽车"
-    },
-    {
-      "raw_hot": 34369,
-      "num": 470433,
-      "word": "红米发布Turbo全新性能系列",
-      "onboard_time": 1711940421,
-      "rank": 14,
-      "category": "数码"
     },
     {
       "raw_hot": 33969,
@@ -1187,8 +1243,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 5256,
-      "num": 1064573,
+      "raw_hot": 8405,
+      "num": 1478500,
       "word": "万千气象看云南",
       "onboard_time": 1711807280,
       "rank": 2,
