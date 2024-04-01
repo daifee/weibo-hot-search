@@ -1,6 +1,6 @@
 {
   "startTime": 1711815680412,
-  "endTime": 1711959825330,
+  "endTime": 1711960632223,
   "band_list": [
     {
       "raw_hot": 12825415,
@@ -787,6 +787,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 614136,
+      "num": 614136,
+      "word": "开封王婆说媒现在变味了",
+      "onboard_time": 1711957159,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 611580,
       "num": 611580,
       "word": "孙颖莎vs王曼昱",
@@ -993,6 +1001,14 @@
       "onboard_time": 1711853418,
       "rank": 20,
       "category": "情感"
+    },
+    {
+      "raw_hot": 520213,
+      "num": 520213,
+      "word": "羊幂无语",
+      "onboard_time": 1711959080,
+      "rank": 16,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 518341,
@@ -1315,6 +1331,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 439458,
+      "num": 282110,
+      "word": "存了12万被妈妈一年花完了",
+      "onboard_time": 1711960341,
+      "rank": 20,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 436467,
       "num": 436467,
       "word": "成都来福士交通事故造成2死2伤",
@@ -1443,14 +1467,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 395948,
-      "num": 395948,
-      "word": "开封王婆说媒现在变味了",
-      "onboard_time": 1711957159,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 395161,
       "num": 395161,
       "word": "她嗑生嗑死他磕昏了",
@@ -1505,6 +1521,14 @@
       "onboard_time": 1711897101,
       "rank": 22,
       "category": "演出"
+    },
+    {
+      "raw_hot": 383692,
+      "num": 383692,
+      "word": "TFBOYS站姐愚人节团建",
+      "onboard_time": 1711959681,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 381588,
@@ -1625,14 +1649,6 @@
       "onboard_time": 1711948222,
       "rank": 24,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 356514,
-      "num": 356514,
-      "word": "羊幂无语",
-      "onboard_time": 1711959080,
-      "rank": 16,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 347559,
@@ -2179,6 +2195,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 261773,
+      "num": 261773,
+      "word": "车企降价",
+      "onboard_time": 1711959321,
+      "rank": 28,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 260447,
       "num": 260447,
       "word": "呼叫81192",
@@ -2241,6 +2265,22 @@
       "onboard_time": 1711872737,
       "rank": 21,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 251713,
+      "num": 207978,
+      "word": "建议留学生在国外不要随意讲中文",
+      "onboard_time": 1711959500,
+      "rank": 32,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 251522,
+      "num": 251522,
+      "word": "韩商言 张元英转圈",
+      "onboard_time": 1711960161,
+      "rank": 25,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 250872,
@@ -2443,8 +2483,8 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 231971,
-      "num": 231971,
+      "raw_hot": 232086,
+      "num": 232086,
       "word": "承欢记定档",
       "onboard_time": 1711958601,
       "rank": 24,
@@ -2497,6 +2537,14 @@
       "onboard_time": 1711941560,
       "rank": 35,
       "category": "美食"
+    },
+    {
+      "raw_hot": 225027,
+      "num": 225027,
+      "word": "家人因债务拒绝继承价值400万别墅",
+      "onboard_time": 1711958900,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 224810,
@@ -2715,6 +2763,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 207712,
+      "num": 207712,
+      "word": "王鹤棣代言花絮照",
+      "onboard_time": 1711960221,
+      "rank": 31,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 206512,
       "num": 206512,
       "word": "DK战胜KT",
@@ -2828,7 +2884,7 @@
     },
     {
       "raw_hot": 201424,
-      "num": 201424,
+      "num": 208206,
       "word": "中方坚定支持巴方严惩恐袭凶手及主使",
       "onboard_time": 1711956380,
       "rank": 47,
@@ -3107,14 +3163,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 190356,
-      "num": 190356,
-      "word": "车企降价",
-      "onboard_time": 1711959321,
-      "rank": 28,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 190196,
       "num": 190196,
       "word": "GR还在复活",
@@ -3225,6 +3273,14 @@
       "onboard_time": 1711812439,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 183787,
+      "num": 183787,
+      "word": "同事没礼貌今天没忍住",
+      "onboard_time": 1711959741,
+      "rank": 46,
+      "category": "幽默"
     },
     {
       "raw_hot": 183679,
@@ -3371,28 +3427,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 178262,
-      "num": 178262,
-      "word": "家人因债务拒绝继承价值400万别墅",
-      "onboard_time": 1711958900,
-      "rank": 31,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 178213,
       "num": 178213,
       "word": "张碧晨 每一步都算数",
       "onboard_time": 1711879577,
       "rank": 36,
       "category": "演出"
-    },
-    {
-      "raw_hot": 178122,
-      "num": 178122,
-      "word": "建议留学生在国外不要随意讲中文",
-      "onboard_time": 1711959500,
-      "rank": 32,
-      "category": "幽默"
     },
     {
       "raw_hot": 177988,
@@ -3465,6 +3505,14 @@
       "onboard_time": 1711883297,
       "rank": 36,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 171604,
+      "num": 171604,
+      "word": "发现找工作是有隐形成本的",
+      "onboard_time": 1711960040,
+      "rank": 35,
+      "category": "幽默"
     },
     {
       "raw_hot": 171363,
@@ -3683,14 +3731,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 158478,
-      "num": 158478,
-      "word": "TFBOYS站姐愚人节团建",
-      "onboard_time": 1711959681,
-      "rank": 38,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 157238,
       "num": 157238,
       "word": "三月再见",
@@ -3753,6 +3793,14 @@
       "onboard_time": 1711898538,
       "rank": 45,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 155055,
+      "num": 155055,
+      "word": "雷军妻子罕见露面",
+      "onboard_time": 1711960521,
+      "rank": 39,
+      "category": "汽车"
     },
     {
       "raw_hot": 154980,
@@ -4123,6 +4171,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 138773,
+      "num": 900278,
+      "word": "雄安新区7岁了",
+      "onboard_time": 1711956500,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 138612,
       "num": 252237,
       "word": "大连有一条通向大海的街",
@@ -4169,14 +4225,6 @@
       "onboard_time": 1711851617,
       "rank": 42,
       "category": "演出"
-    },
-    {
-      "raw_hot": 136876,
-      "num": 900278,
-      "word": "雄安新区7岁了",
-      "onboard_time": 1711956500,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 136710,
@@ -4235,14 +4283,6 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 131281,
-      "num": 131281,
-      "word": "同事没礼貌今天没忍住",
-      "onboard_time": 1711959741,
-      "rank": 46,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 130859,
       "num": 166915,
       "word": "DOU5战队晋级COA7全球总决赛",
@@ -4297,6 +4337,14 @@
       "onboard_time": 1711803138,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 126719,
+      "num": 126719,
+      "word": "什么是躁狂发作",
+      "onboard_time": 1711959919,
+      "rank": 48,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 126635,

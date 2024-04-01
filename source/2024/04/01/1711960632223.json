@@ -1,0 +1,410 @@
+{
+  "runTime": 1711960632223,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1161301,
+        "num": 1161301,
+        "word": "法院认定郑爽无财产可供执行",
+        "onboard_time": 1711946724,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 697634,
+        "num": 697634,
+        "word": "一百家站姐发了陈都灵",
+        "onboard_time": 1711954339,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 138773,
+        "num": 684624,
+        "word": "雄安新区7岁了",
+        "onboard_time": 1711956500,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 678276,
+        "num": 678276,
+        "word": "茶百道 进不去",
+        "onboard_time": 1711956560,
+        "rank": 3,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 614136,
+        "num": 614136,
+        "word": "开封王婆说媒现在变味了",
+        "onboard_time": 1711957159,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 769171,
+        "num": 608757,
+        "word": "张颂文参加婚礼吃上肘子",
+        "onboard_time": 1711952660,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 576962,
+        "num": 576962,
+        "word": "李汶翰 BOSS直聘",
+        "onboard_time": 1711957579,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 565839,
+        "num": 565839,
+        "word": "为什么高铁上跳过了E直接是F座",
+        "onboard_time": 1711952840,
+        "rank": 7,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 520213,
+        "num": 520213,
+        "word": "羊幂无语",
+        "onboard_time": 1711959080,
+        "rank": 8,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 483011,
+        "num": 483011,
+        "word": "旅日大熊猫爽爽死亡",
+        "onboard_time": 1711950321,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 884624,
+        "num": 481092,
+        "word": "最癫站姐",
+        "onboard_time": 1711942461,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 471306,
+        "num": 471306,
+        "word": "美国强生一款心脏泵致49人死亡",
+        "onboard_time": 1711956201,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 464626,
+        "num": 464626,
+        "word": "贾跃亭点评小米汽车",
+        "onboard_time": 1711955301,
+        "rank": 12,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 383692,
+        "num": 383692,
+        "word": "TFBOYS站姐愚人节团建",
+        "onboard_time": 1711959681,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 381897,
+        "num": 381897,
+        "word": "张若昀站姐发了赵丽颖",
+        "onboard_time": 1711956140,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 364599,
+        "num": 364599,
+        "word": "南昌突发强对流天气3人坠楼身亡",
+        "onboard_time": 1711941978,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 353687,
+        "num": 353687,
+        "word": "张元英生图",
+        "onboard_time": 1711949482,
+        "rank": 16,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 299457,
+        "num": 299457,
+        "word": "特斯拉宣布原价1.2万星空灰车漆免费",
+        "onboard_time": 1711945224,
+        "rank": 17,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 297921,
+        "num": 297921,
+        "word": "81192",
+        "onboard_time": 1711935739,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 282784,
+        "num": 282784,
+        "word": "南昌强对流天气已致4死10余人伤",
+        "onboard_time": 1711952241,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 439458,
+        "num": 282110,
+        "word": "存了12万被妈妈一年花完了",
+        "onboard_time": 1711960341,
+        "rank": 20,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 339328,
+        "num": 281755,
+        "word": "刚领证发现老公欠了15万",
+        "onboard_time": 1711946185,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 277035,
+        "num": 277035,
+        "word": "成毅被前经纪公司起诉",
+        "onboard_time": 1711953259,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 275835,
+        "num": 275835,
+        "word": "周雨彤 裸背",
+        "onboard_time": 1711955660,
+        "rank": 23,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 261773,
+        "num": 261773,
+        "word": "车企降价",
+        "onboard_time": 1711959321,
+        "rank": 24,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 251522,
+        "num": 251522,
+        "word": "韩商言 张元英转圈",
+        "onboard_time": 1711960161,
+        "rank": 25,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 232086,
+        "num": 232086,
+        "word": "承欢记定档",
+        "onboard_time": 1711958601,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 225027,
+        "num": 225027,
+        "word": "家人因债务拒绝继承价值400万别墅",
+        "onboard_time": 1711958900,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 215974,
+        "num": 215974,
+        "word": "22岁大四和父母决裂了",
+        "onboard_time": 1711953200,
+        "rank": 28,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 171049,
+        "num": 208206,
+        "word": "中方坚定支持巴方严惩恐袭凶手及主使",
+        "onboard_time": 1711956380,
+        "rank": 29,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 251713,
+        "num": 207978,
+        "word": "建议留学生在国外不要随意讲中文",
+        "onboard_time": 1711959500,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 207712,
+        "num": 207712,
+        "word": "王鹤棣代言花絮照",
+        "onboard_time": 1711960221,
+        "rank": 31,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 204366,
+        "num": 204366,
+        "word": "吴奇隆抱儿子出商场",
+        "onboard_time": 1711954582,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 190971,
+        "num": 190971,
+        "word": "牛春苗为什么没全国海选",
+        "onboard_time": 1711958181,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 183787,
+        "num": 183787,
+        "word": "同事没礼貌今天没忍住",
+        "onboard_time": 1711959741,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 171604,
+        "num": 171604,
+        "word": "发现找工作是有隐形成本的",
+        "onboard_time": 1711960040,
+        "rank": 35,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 163330,
+        "num": 163330,
+        "word": "八十家站姐发了迪丽热巴",
+        "onboard_time": 1711942940,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 162431,
+        "num": 162431,
+        "word": "罗伯特 站姐们都是女英雄",
+        "onboard_time": 1711956860,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 158430,
+        "num": 158430,
+        "word": "愚人节表白",
+        "onboard_time": 1711957221,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 155055,
+        "num": 155055,
+        "word": "雷军妻子罕见露面",
+        "onboard_time": 1711960521,
+        "rank": 39,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 152709,
+        "num": 152709,
+        "word": "男朋友把我们隐私照发朋友圈",
+        "onboard_time": 1711937000,
+        "rank": 40,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 149741,
+        "num": 149741,
+        "word": "眼泪女王爆改在俊他妈",
+        "onboard_time": 1711956860,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 144451,
+        "num": 144451,
+        "word": "婆婆请吊车将生产完的儿媳送上楼",
+        "onboard_time": 1711944744,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 139197,
+        "num": 139197,
+        "word": "邓文迪看小米SU7",
+        "onboard_time": 1711958181,
+        "rank": 43,
+        "category": "艺人,汽车"
+      },
+      {
+        "raw_hot": 138530,
+        "num": 138530,
+        "word": "没人能拒绝中式美学的魅力",
+        "onboard_time": 1711957759,
+        "rank": 44,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 131129,
+        "num": 131129,
+        "word": "足金首饰零售价涨至693元每克",
+        "onboard_time": 1711958181,
+        "rank": 45,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 130000,
+        "num": 130000,
+        "word": "周处除三害怎么不把周一除了",
+        "onboard_time": 1711955301,
+        "rank": 46,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 127809,
+        "num": 127809,
+        "word": "站姐发何赛飞 让你发了吗",
+        "onboard_time": 1711948044,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 126719,
+        "num": 126719,
+        "word": "什么是躁狂发作",
+        "onboard_time": 1711959919,
+        "rank": 48,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 125766,
+        "num": 125766,
+        "word": "瞧 牛真的从南边来了",
+        "onboard_time": 1711958001,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#要把为民造福作为最重要的政绩#"
+    }
+  }
+}
