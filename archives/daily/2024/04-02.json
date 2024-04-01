@@ -1,6 +1,6 @@
 {
   "startTime": 1711988526523,
-  "endTime": 1711989501261,
+  "endTime": 1711991934133,
   "band_list": [
     {
       "raw_hot": 855073,
@@ -99,6 +99,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 389349,
+      "num": 389349,
+      "word": "把朋友圈权限给妈妈打开以后",
+      "onboard_time": 1711986079,
+      "rank": 20,
+      "category": "情感"
+    },
+    {
       "raw_hot": 365206,
       "num": 365206,
       "word": "徐正溪站姐发了赵丽颖",
@@ -139,20 +147,28 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 211650,
-      "num": 211650,
-      "word": "把朋友圈权限给妈妈打开以后",
-      "onboard_time": 1711986079,
-      "rank": 20,
-      "category": "情感"
-    },
-    {
       "raw_hot": 210543,
       "num": 210543,
       "word": "原来电话卡是有寿命的",
       "onboard_time": 1711982781,
       "rank": 17,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 204425,
+      "num": 110270,
+      "word": "2天睡眠不足会让人感觉老了4岁",
+      "onboard_time": 1711988896,
+      "rank": 28,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 202070,
+      "num": 158822,
+      "word": "迪丽热巴被摸手臂",
+      "onboard_time": 1711990334,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 189950,
@@ -283,14 +299,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 110270,
-      "num": 110270,
-      "word": "2天睡眠不足会让人感觉老了4岁",
-      "onboard_time": 1711988896,
-      "rank": 28,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 108272,
       "num": 108272,
       "word": "HYBE是不是疯了",
@@ -419,12 +427,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 51302,
-      "num": 62688,
+      "raw_hot": 55756,
+      "num": 70374,
       "word": "女子豌杂面加香菜加到店家崩溃",
       "onboard_time": 1711982901,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 42172,
+      "num": 42172,
+      "word": "别再因为害羞放弃肛门指检了",
+      "onboard_time": 1711991834,
+      "rank": 48,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 35259,
@@ -433,11 +449,22 @@
       "onboard_time": 1711975700,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2474,
+      "num": 326738,
+      "word": "万千气象看云南",
+      "onboard_time": 1711807280,
+      "rank": 2,
+      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
     {
       "word": "#雄安新区要靠生态环境来体现价值增加吸引力#"
+    },
+    {
+      "word": "#中印尼关系进入共建命运共同体的新阶段#"
     }
   ]
 }
