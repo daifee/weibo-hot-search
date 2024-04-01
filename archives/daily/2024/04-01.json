@@ -1,6 +1,6 @@
 {
   "startTime": 1711902044401,
-  "endTime": 1711953343152,
+  "endTime": 1711955826028,
   "band_list": [
     {
       "raw_hot": 12825415,
@@ -59,6 +59,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2078788,
+      "num": 1725833,
+      "word": "女子欲扔第二个孩子时被控制",
+      "onboard_time": 1711951283,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1983650,
       "num": 1983650,
       "word": "愚人节站姐团建",
@@ -72,14 +80,6 @@
       "word": "重庆警方通报一女子高空抛子",
       "onboard_time": 1711945344,
       "rank": 11,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1725833,
-      "num": 1725833,
-      "word": "女子欲扔第二个孩子时被控制",
-      "onboard_time": 1711951283,
-      "rank": 4,
       "category": "社会新闻"
     },
     {
@@ -105,6 +105,14 @@
       "onboard_time": 1711931959,
       "rank": 1,
       "category": "科学科普,健康医疗"
+    },
+    {
+      "raw_hot": 1268335,
+      "num": 384034,
+      "word": "重庆坠亡小孩被抛前多次尝试翻进窗户",
+      "onboard_time": 1711953499,
+      "rank": 16,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1210558,
@@ -251,6 +259,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 862162,
+      "num": 862162,
+      "word": "张颂文参加婚礼吃上肘子",
+      "onboard_time": 1711952660,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 804827,
       "num": 804827,
       "word": "还好只上三天就放假了",
@@ -336,6 +352,14 @@
       "word": "张凌赫站姐发了王鹤棣虞书欣",
       "onboard_time": 1711947204,
       "rank": 12,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 654118,
+      "num": 654118,
+      "word": "一百家站姐发了陈都灵",
+      "onboard_time": 1711954339,
+      "rank": 4,
       "category": "艺人"
     },
     {
@@ -473,6 +497,14 @@
       "onboard_time": 1711898120,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 490429,
+      "num": 490429,
+      "word": "成毅被前经纪公司起诉",
+      "onboard_time": 1711953259,
+      "rank": 46,
+      "category": "艺人"
     },
     {
       "raw_hot": 488928,
@@ -619,14 +651,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 375598,
-      "num": 375598,
-      "word": "张颂文参加婚礼吃上肘子",
-      "onboard_time": 1711952660,
-      "rank": 19,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 371777,
       "num": 565200,
       "word": "莎头",
@@ -688,6 +712,14 @@
       "word": "杨幂站姐发金鹤龙了",
       "onboard_time": 1711945585,
       "rank": 27,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 343624,
+      "num": 343624,
+      "word": "吴奇隆抱儿子出商场",
+      "onboard_time": 1711954582,
+      "rank": 17,
       "category": "艺人"
     },
     {
@@ -753,6 +785,14 @@
       "onboard_time": 1711952241,
       "rank": 32,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 300001,
+      "num": 300001,
+      "word": "贾跃亭点评小米汽车",
+      "onboard_time": 1711955301,
+      "rank": 19,
+      "category": "汽车"
     },
     {
       "raw_hot": 299302,
@@ -875,6 +915,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 245592,
+      "num": 245592,
+      "word": "22岁大四和父母决裂了",
+      "onboard_time": 1711953200,
+      "rank": 39,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 243304,
+      "num": 243304,
+      "word": "王一博早春穿搭",
+      "onboard_time": 1711955479,
+      "rank": 23,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 239250,
       "num": 239250,
       "word": "多批次梦龙雪糕被召回",
@@ -939,12 +995,28 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 223553,
+      "num": 209978,
+      "word": "周处除三害怎么不把周一除了",
+      "onboard_time": 1711955301,
+      "rank": 30,
+      "category": "电影"
+    },
+    {
       "raw_hot": 220827,
       "num": 220827,
       "word": "YG耳",
       "onboard_time": 1711932561,
       "rank": 31,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 216667,
+      "num": 216667,
+      "word": "为什么高铁上跳过了E直接是F座",
+      "onboard_time": 1711952840,
+      "rank": 40,
+      "category": "科学科普"
     },
     {
       "raw_hot": 214339,
@@ -1203,6 +1275,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 189477,
+      "num": 189477,
+      "word": "欣浪虞乐",
+      "onboard_time": 1711953440,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 187932,
       "num": 187932,
       "word": "女性对人狗关系的影响其实更大",
@@ -1291,6 +1371,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 170660,
+      "num": 170660,
+      "word": "赵丽颖尹昉拍摄路透",
+      "onboard_time": 1711954761,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 169026,
       "num": 169026,
       "word": "二手车商为何不敢收新能源车",
@@ -1323,6 +1411,14 @@
       "category": "情感,网红"
     },
     {
+      "raw_hot": 164141,
+      "num": 164141,
+      "word": "被同事养的巨型花惊艳了",
+      "onboard_time": 1711953980,
+      "rank": 38,
+      "category": "情感"
+    },
+    {
       "raw_hot": 164050,
       "num": 164050,
       "word": "尹净汉Weverse",
@@ -1345,6 +1441,14 @@
       "onboard_time": 1711889239,
       "rank": 34,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 160247,
+      "num": 160247,
+      "word": "小米汽车引发同行快速反应",
+      "onboard_time": 1711953741,
+      "rank": 39,
+      "category": "汽车"
     },
     {
       "raw_hot": 160089,
@@ -1395,20 +1499,12 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 155230,
-      "num": 155230,
-      "word": "22岁大四和父母决裂了",
-      "onboard_time": 1711953200,
-      "rank": 39,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 154117,
-      "num": 154117,
-      "word": "为什么高铁上跳过了E直接是F座",
-      "onboard_time": 1711952840,
-      "rank": 40,
-      "category": "科学科普"
+      "raw_hot": 155294,
+      "num": 155294,
+      "word": "李汶翰0722 别告我",
+      "onboard_time": 1711954041,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 153181,
@@ -1475,6 +1571,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 145170,
+      "num": 145170,
+      "word": "周雨彤 裸背",
+      "onboard_time": 1711955660,
+      "rank": 43,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 143436,
       "num": 143436,
       "word": "樱木花道",
@@ -1489,14 +1593,6 @@
       "onboard_time": 1711935198,
       "rank": 42,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 140730,
-      "num": 140730,
-      "word": "成毅被前经纪公司起诉",
-      "onboard_time": 1711953259,
-      "rank": 46,
-      "category": "艺人"
     },
     {
       "raw_hot": 137935,
@@ -1531,6 +1627,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 134441,
+      "num": 134441,
+      "word": "赵丽颖琼瑶式哭戏",
+      "onboard_time": 1711953859,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 133160,
       "num": 360592,
       "word": "极氪007增强版上市",
@@ -1545,6 +1649,14 @@
       "onboard_time": 1711935138,
       "rank": 39,
       "category": "财经"
+    },
+    {
+      "raw_hot": 130228,
+      "num": 130228,
+      "word": "大厂离职开咖啡馆的人怎么样了",
+      "onboard_time": 1711955239,
+      "rank": 45,
+      "category": "互联网"
     },
     {
       "raw_hot": 126391,
@@ -1593,6 +1705,14 @@
       "onboard_time": 1711888637,
       "rank": 44,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 111987,
+      "num": 118254,
+      "word": "澳门国际乒联世界杯奖牌公布",
+      "onboard_time": 1711955419,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 110899,
