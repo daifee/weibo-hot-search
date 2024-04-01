@@ -1,6 +1,6 @@
 {
   "startTime": 1711902044401,
-  "endTime": 1711964070314,
+  "endTime": 1711966772837,
   "band_list": [
     {
       "raw_hot": 12825415,
@@ -107,6 +107,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1366661,
+      "num": 237857,
+      "word": "微信崩了",
+      "onboard_time": 1711962560,
+      "rank": 31,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 1315411,
       "num": 1315411,
       "word": "乳腺增生真是豆浆惹的祸吗",
@@ -115,12 +123,12 @@
       "category": "科学科普,健康医疗"
     },
     {
-      "raw_hot": 1232235,
-      "num": 209030,
-      "word": "微信崩了",
-      "onboard_time": 1711962560,
-      "rank": 31,
-      "category": "互联网"
+      "raw_hot": 1242195,
+      "num": 1242195,
+      "word": "新生蔡元培莫言被北大拟录取",
+      "onboard_time": 1711961782,
+      "rank": 32,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1210558,
@@ -267,6 +275,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 904022,
+      "num": 904022,
+      "word": "躁郁症比抑郁症更严重",
+      "onboard_time": 1711961480,
+      "rank": 4,
+      "category": "健康医疗,科学科普"
+    },
+    {
       "raw_hot": 876023,
       "num": 566137,
       "word": "蔡徐坤ins",
@@ -299,20 +315,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 830545,
-      "num": 830545,
-      "word": "躁郁症比抑郁症更严重",
-      "onboard_time": 1711961480,
-      "rank": 4,
-      "category": "健康医疗,科学科普"
-    },
-    {
       "raw_hot": 821922,
       "num": 821922,
       "word": "茶百道 进不去",
       "onboard_time": 1711956560,
       "rank": 30,
       "category": "美食"
+    },
+    {
+      "raw_hot": 807260,
+      "num": 807260,
+      "word": "雷军恳请各位口下留情",
+      "onboard_time": 1711963821,
+      "rank": 35,
+      "category": "汽车"
     },
     {
       "raw_hot": 804827,
@@ -345,6 +361,14 @@
       "onboard_time": 1711897160,
       "rank": 13,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 757344,
+      "num": 685918,
+      "word": "郑爽仍有上亿案款未履行",
+      "onboard_time": 1711963459,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 738115,
@@ -387,6 +411,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 689687,
+      "num": 689687,
+      "word": "黄旭熙怎么又出道了",
+      "onboard_time": 1711963760,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 680615,
       "num": 680615,
       "word": "李汶翰 BOSS直聘",
@@ -401,6 +433,14 @@
       "onboard_time": 1711928478,
       "rank": 6,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 668127,
+      "num": 668127,
+      "word": "孙怡站姐呢",
+      "onboard_time": 1711964600,
+      "rank": 7,
+      "category": "艺人"
     },
     {
       "raw_hot": 665171,
@@ -483,6 +523,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 581045,
+      "num": 581045,
+      "word": "罗伯特 TFBOYS已经解散了",
+      "onboard_time": 1711966281,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 571328,
       "num": 209364,
       "word": "张艺兴站姐 鹿晗",
@@ -529,14 +577,6 @@
       "onboard_time": 1711938438,
       "rank": 40,
       "category": "财经"
-    },
-    {
-      "raw_hot": 552622,
-      "num": 552622,
-      "word": "新生蔡元培莫言被北大拟录取",
-      "onboard_time": 1711961782,
-      "rank": 32,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 543477,
@@ -763,14 +803,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 394591,
-      "num": 394591,
-      "word": "郑爽仍有上亿案款未履行",
-      "onboard_time": 1711963459,
-      "rank": 12,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 387610,
       "num": 387610,
       "word": "每个研究生身上都有导师的影子",
@@ -939,6 +971,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 311879,
+      "num": 311879,
+      "word": "黄旭熙solo歌词",
+      "onboard_time": 1711965563,
+      "rank": 17,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 310250,
       "num": 310250,
       "word": "燥候TXT",
@@ -984,6 +1024,14 @@
       "word": "这种体态真的很好改善",
       "onboard_time": 1711934837,
       "rank": 30,
+      "category": "运动健身"
+    },
+    {
+      "raw_hot": 290865,
+      "num": 237031,
+      "word": "缺点是瘦的太快了",
+      "onboard_time": 1711965739,
+      "rank": 31,
       "category": "运动健身"
     },
     {
@@ -1099,12 +1147,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 258328,
-      "num": 208553,
-      "word": "黄旭熙怎么又出道了",
-      "onboard_time": 1711963760,
+      "raw_hot": 257960,
+      "num": 257960,
+      "word": "奶奶送的黄金吊坠是铁的",
+      "onboard_time": 1711964361,
       "rank": 25,
-      "category": "艺人"
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 256703,
+      "num": 232710,
+      "word": "男朋友婚前隐瞒他7年前坐过牢",
+      "onboard_time": 1711966459,
+      "rank": 32,
+      "category": "情感"
     },
     {
       "raw_hot": 254326,
@@ -1128,6 +1184,22 @@
       "word": "明日方舟",
       "onboard_time": 1711962380,
       "rank": 24,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 249154,
+      "num": 249154,
+      "word": "刘亦菲玫瑰的故事开启招商",
+      "onboard_time": 1711965320,
+      "rank": 26,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 245831,
+      "num": 245831,
+      "word": "妲己青丘九尾无双特性优化",
+      "onboard_time": 1711964840,
+      "rank": 27,
       "category": "游戏"
     },
     {
@@ -1164,7 +1236,7 @@
     },
     {
       "raw_hot": 235786,
-      "num": 203526,
+      "num": 204878,
       "word": "陈都灵 仕女图",
       "onboard_time": 1711963338,
       "rank": 27,
@@ -1203,6 +1275,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 231964,
+      "num": 231964,
+      "word": "爸妈已经发现工作不好找了",
+      "onboard_time": 1711966160,
+      "rank": 33,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 231434,
       "num": 231434,
       "word": "马斯克称AI毁灭人类的可能性为20%",
@@ -1217,6 +1297,14 @@
       "onboard_time": 1711941560,
       "rank": 35,
       "category": "美食"
+    },
+    {
+      "raw_hot": 225576,
+      "num": 225576,
+      "word": "门店回应买保时捷送小米SU7",
+      "onboard_time": 1711965202,
+      "rank": 35,
+      "category": "汽车"
     },
     {
       "raw_hot": 224810,
@@ -1236,11 +1324,19 @@
     },
     {
       "raw_hot": 220817,
-      "num": 220817,
+      "num": 241306,
       "word": "油价",
       "onboard_time": 1711963281,
       "rank": 19,
       "category": "财经"
+    },
+    {
+      "raw_hot": 218966,
+      "num": 218966,
+      "word": "马英九参观腾讯总部",
+      "onboard_time": 1711964781,
+      "rank": 36,
+      "category": "互联网"
     },
     {
       "raw_hot": 214339,
@@ -1273,6 +1369,14 @@
       "onboard_time": 1711933759,
       "rank": 35,
       "category": "演出"
+    },
+    {
+      "raw_hot": 210512,
+      "num": 210512,
+      "word": "TXT新歌回归",
+      "onboard_time": 1711965860,
+      "rank": 37,
+      "category": "音乐"
     },
     {
       "raw_hot": 208274,
@@ -1371,6 +1475,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 201133,
+      "num": 201133,
+      "word": "这居然是罗云熙",
+      "onboard_time": 1711966281,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 200810,
       "num": 200810,
       "word": "四月你好",
@@ -1419,6 +1531,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 197777,
+      "num": 197777,
+      "word": "公司把发朋友圈计入考勤",
+      "onboard_time": 1711965679,
+      "rank": 42,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 197374,
       "num": 197374,
       "word": "babymonster音源",
@@ -1441,6 +1561,14 @@
       "onboard_time": 1711948105,
       "rank": 43,
       "category": "演出"
+    },
+    {
+      "raw_hot": 196053,
+      "num": 196053,
+      "word": "我妈把狗粮当中药熬给我弟喝了",
+      "onboard_time": 1711966640,
+      "rank": 43,
+      "category": "幽默"
     },
     {
       "raw_hot": 195984,
@@ -1539,6 +1667,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 190475,
+      "num": 258301,
+      "word": "四川泸州媒婆人气火爆",
+      "onboard_time": 1711965019,
+      "rank": 20,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 189884,
       "num": 189884,
       "word": "原生家庭幸福的人是什么样子",
@@ -1585,6 +1721,14 @@
       "onboard_time": 1711959741,
       "rank": 46,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 182760,
+      "num": 245738,
+      "word": "不想运动可能不是因为懒",
+      "onboard_time": 1711963520,
+      "rank": 29,
+      "category": "运动健身"
     },
     {
       "raw_hot": 182741,
@@ -1675,6 +1819,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 174333,
+      "num": 174333,
+      "word": "林俊杰贵阳 抢票",
+      "onboard_time": 1711966701,
+      "rank": 45,
+      "category": "演出"
+    },
+    {
       "raw_hot": 174014,
       "num": 174014,
       "word": "李汶翰让站姐入职",
@@ -1691,20 +1843,20 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 173089,
-      "num": 173089,
-      "word": "雷军恳请各位口下留情",
-      "onboard_time": 1711963821,
-      "rank": 35,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 171604,
       "num": 171604,
       "word": "发现找工作是有隐形成本的",
       "onboard_time": 1711960040,
       "rank": 35,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 171321,
+      "num": 171321,
+      "word": "嘴唇会随着年龄的增长而变薄",
+      "onboard_time": 1711963221,
+      "rank": 42,
+      "category": "科学科普"
     },
     {
       "raw_hot": 170660,
@@ -1763,14 +1915,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 164110,
-      "num": 196279,
-      "word": "不想运动可能不是因为懒",
-      "onboard_time": 1711963520,
-      "rank": 29,
-      "category": "运动健身"
-    },
-    {
       "raw_hot": 164050,
       "num": 164050,
       "word": "尹净汉Weverse",
@@ -1793,14 +1937,6 @@
       "onboard_time": 1711889239,
       "rank": 34,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 160565,
-      "num": 160565,
-      "word": "嘴唇会随着年龄的增长而变薄",
-      "onboard_time": 1711963221,
-      "rank": 42,
-      "category": "科学科普"
     },
     {
       "raw_hot": 160247,
@@ -1849,6 +1985,14 @@
       "onboard_time": 1711902197,
       "rank": 27,
       "category": "情感"
+    },
+    {
+      "raw_hot": 158045,
+      "num": 158045,
+      "word": "人工智障的家电有多离谱",
+      "onboard_time": 1711966220,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 157283,
@@ -1932,7 +2076,7 @@
     },
     {
       "raw_hot": 147916,
-      "num": 900278,
+      "num": 905470,
       "word": "雄安新区7岁了",
       "onboard_time": 1711956500,
       "rank": 2,
@@ -2011,6 +2155,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 141600,
+      "num": 202439,
+      "word": "女生花钱找人改简历发现效果不如AI",
+      "onboard_time": 1711963760,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 137935,
       "num": 137935,
       "word": "工作人员回应小米SU7甩尾撞路边",
@@ -2049,14 +2201,6 @@
       "onboard_time": 1711953859,
       "rank": 44,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 133724,
-      "num": 133724,
-      "word": "女生花钱找人改简历发现效果不如AI",
-      "onboard_time": 1711963760,
-      "rank": 46,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 133160,
@@ -2179,6 +2323,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 106850,
+      "num": 638959,
+      "word": "浙大走廊被紫藤花淹没",
+      "onboard_time": 1711965140,
+      "rank": 9,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 101437,
       "num": 101437,
       "word": "赵露思回复了林俊杰",
@@ -2281,6 +2433,14 @@
       "onboard_time": 1711902258,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 56422,
+      "num": 257998,
+      "word": "民警收到8牛锦旗秒变显眼包",
+      "onboard_time": 1711965019,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 55955,
