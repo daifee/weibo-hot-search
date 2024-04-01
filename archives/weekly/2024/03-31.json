@@ -1,6 +1,6 @@
 {
   "startTime": 1711815680412,
-  "endTime": 1711967760175,
+  "endTime": 1711970183620,
   "band_list": [
     {
       "raw_hot": 12825415,
@@ -123,6 +123,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1830152,
+      "num": 1830152,
+      "word": "罗伯特 TFBOYS已经解散了",
+      "onboard_time": 1711966281,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1749664,
       "num": 400287,
       "word": "重庆坠亡小孩被抛前多次尝试翻进窗户",
@@ -145,14 +153,6 @@
       "onboard_time": 1711888218,
       "rank": 20,
       "category": "情感"
-    },
-    {
-      "raw_hot": 1633975,
-      "num": 1633975,
-      "word": "罗伯特 TFBOYS已经解散了",
-      "onboard_time": 1711966281,
-      "rank": 11,
-      "category": "艺人"
     },
     {
       "raw_hot": 1590780,
@@ -179,12 +179,28 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 1533195,
+      "num": 1533195,
+      "word": "郑爽若故意隐瞒转移财产或被判刑3年",
+      "onboard_time": 1711968380,
+      "rank": 1,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1499855,
       "num": 1499855,
       "word": "上班七个月亏了两万多",
       "onboard_time": 1711894040,
       "rank": 17,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 1468015,
+      "num": 1468015,
+      "word": "男朋友婚前隐瞒他7年前坐过牢",
+      "onboard_time": 1711966459,
+      "rank": 32,
+      "category": "情感"
     },
     {
       "raw_hot": 1439282,
@@ -220,7 +236,7 @@
     },
     {
       "raw_hot": 1366661,
-      "num": 237857,
+      "num": 243976,
       "word": "微信崩了",
       "onboard_time": 1711962560,
       "rank": 31,
@@ -395,6 +411,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1020238,
+      "num": 1020238,
+      "word": "南昌",
+      "onboard_time": 1711967960,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1015475,
       "num": 1015475,
       "word": "本想免费试用结果被扣一年会员费",
@@ -545,6 +569,14 @@
       "onboard_time": 1711945946,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 825288,
+      "num": 825288,
+      "word": "这居然是罗云熙",
+      "onboard_time": 1711966281,
+      "rank": 41,
+      "category": "剧集"
     },
     {
       "raw_hot": 824314,
@@ -771,20 +803,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 680667,
+      "num": 680667,
+      "word": "HYBE是不是疯了",
+      "onboard_time": 1711968020,
+      "rank": 6,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 680615,
       "num": 680615,
       "word": "李汶翰 BOSS直聘",
       "onboard_time": 1711957579,
       "rank": 5,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 678087,
-      "num": 552736,
-      "word": "男朋友婚前隐瞒他7年前坐过牢",
-      "onboard_time": 1711966459,
-      "rank": 32,
-      "category": "情感"
     },
     {
       "raw_hot": 672066,
@@ -812,7 +844,7 @@
     },
     {
       "raw_hot": 659268,
-      "num": 344525,
+      "num": 347323,
       "word": "存了12万被妈妈一年花完了",
       "onboard_time": 1711960341,
       "rank": 20,
@@ -1035,14 +1067,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 539404,
-      "num": 539404,
-      "word": "这居然是罗云熙",
-      "onboard_time": 1711966281,
-      "rank": 41,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 537642,
       "num": 537642,
       "word": "浙江男子账户里的2470万保住了",
@@ -1161,6 +1185,14 @@
       "onboard_time": 1711949482,
       "rank": 37,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 512506,
+      "num": 512506,
+      "word": "王者荣耀妲己 无双返场",
+      "onboard_time": 1711966820,
+      "rank": 15,
+      "category": "游戏"
     },
     {
       "raw_hot": 511653,
@@ -1635,14 +1667,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 385302,
-      "num": 385302,
-      "word": "王者荣耀妲己 无双返场",
-      "onboard_time": 1711966820,
-      "rank": 15,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 384041,
       "num": 522123,
       "word": "法国向45个国家寻求安保协助",
@@ -1792,6 +1816,14 @@
       "word": "许光汉站姐",
       "onboard_time": 1711948222,
       "rank": 24,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 354411,
+      "num": 354411,
+      "word": "张杰发了十年前的自己",
+      "onboard_time": 1711969340,
+      "rank": 16,
       "category": "艺人"
     },
     {
@@ -2148,7 +2180,7 @@
     },
     {
       "raw_hot": 290865,
-      "num": 237031,
+      "num": 237666,
       "word": "缺点是瘦的太快了",
       "onboard_time": 1711965739,
       "rank": 31,
@@ -2161,6 +2193,14 @@
       "onboard_time": 1711893800,
       "rank": 25,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 288731,
+      "num": 347402,
+      "word": "新疆成为包邮区",
+      "onboard_time": 1711967001,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 288371,
@@ -2339,12 +2379,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 268497,
+      "num": 268497,
+      "word": "李汶翰站姐 985程序员",
+      "onboard_time": 1711968079,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 266135,
       "num": 266135,
       "word": "凯迪拉克回应海报暗讽小米SU7",
       "onboard_time": 1711884077,
       "rank": 22,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 265864,
+      "num": 265864,
+      "word": "朋友整个孕期抽了48管血",
+      "onboard_time": 1711969701,
+      "rank": 28,
+      "category": "母婴育儿"
     },
     {
       "raw_hot": 264886,
@@ -2651,6 +2707,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 234018,
+      "num": 234018,
+      "word": "林俊杰演唱会 i人座位区",
+      "onboard_time": 1711968139,
+      "rank": 32,
+      "category": "演出"
+    },
+    {
       "raw_hot": 233934,
       "num": 2059298,
       "word": "有一种叫云南的生活",
@@ -2875,6 +2939,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 213336,
+      "num": 213336,
+      "word": "罗伯特头像",
+      "onboard_time": 1711969880,
+      "rank": 34,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 213246,
       "num": 213246,
       "word": "鞠婧祎黑纱满绣礼裙",
@@ -2921,6 +2993,14 @@
       "onboard_time": 1711933759,
       "rank": 35,
       "category": "演出"
+    },
+    {
+      "raw_hot": 211524,
+      "num": 211524,
+      "word": "读研后感觉自己一身老人味儿",
+      "onboard_time": 1711968860,
+      "rank": 36,
+      "category": "幽默"
     },
     {
       "raw_hot": 210621,
@@ -3059,6 +3139,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 203418,
+      "num": 203418,
+      "word": "张朝阳说35岁年龄歧视很奇怪",
+      "onboard_time": 1711969640,
+      "rank": 37,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 203354,
       "num": 203354,
       "word": "牛春苗为什么没全国海选",
@@ -3113,14 +3201,6 @@
       "onboard_time": 1711936218,
       "rank": 30,
       "category": "情感"
-    },
-    {
-      "raw_hot": 201606,
-      "num": 214029,
-      "word": "新疆成为包邮区",
-      "onboard_time": 1711967001,
-      "rank": 28,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 201424,
@@ -3323,6 +3403,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 195182,
+      "num": 195182,
+      "word": "强对流天气",
+      "onboard_time": 1711969640,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 195078,
       "num": 195078,
       "word": "与凤行",
@@ -3337,6 +3425,14 @@
       "onboard_time": 1711967480,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 193819,
+      "num": 193819,
+      "word": "TXT空降成绩",
+      "onboard_time": 1711968680,
+      "rank": 39,
+      "category": "音乐"
     },
     {
       "raw_hot": 193373,
@@ -3569,6 +3665,14 @@
       "onboard_time": 1711812439,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 184450,
+      "num": 184450,
+      "word": "WBG对战iG",
+      "onboard_time": 1711969401,
+      "rank": 41,
+      "category": "电竞"
     },
     {
       "raw_hot": 183787,
@@ -3905,6 +4009,14 @@
       "onboard_time": 1711949240,
       "rank": 48,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 168877,
+      "num": 168877,
+      "word": "花间令结局",
+      "onboard_time": 1711970002,
+      "rank": 45,
+      "category": "剧集"
     },
     {
       "raw_hot": 168755,
@@ -4356,7 +4468,7 @@
     },
     {
       "raw_hot": 147916,
-      "num": 955708,
+      "num": 1498766,
       "word": "雄安新区7岁了",
       "onboard_time": 1711956500,
       "rank": 2,
@@ -4379,6 +4491,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 147071,
+      "num": 610789,
+      "word": "民警收到8牛锦旗秒变显眼包",
+      "onboard_time": 1711965019,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 146727,
       "num": 285590,
       "word": "中央网信办整治涉企侵权信息乱象",
@@ -4393,6 +4513,14 @@
       "onboard_time": 1711903037,
       "rank": 25,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 146205,
+      "num": 285307,
+      "word": "6个月婴儿雨夜爬上马路被接力守护",
+      "onboard_time": 1711969460,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 146108,
@@ -4699,6 +4827,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 128647,
+      "num": 638959,
+      "word": "浙大走廊被紫藤花淹没",
+      "onboard_time": 1711965140,
+      "rank": 9,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 128529,
       "num": 128529,
       "word": "绘旅人魔法学院",
@@ -4843,14 +4979,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 121960,
-      "num": 638959,
-      "word": "浙大走廊被紫藤花淹没",
-      "onboard_time": 1711965140,
-      "rank": 9,
-      "category": "旅游"
-    },
-    {
       "raw_hot": 121257,
       "num": 121257,
       "word": "第五人格",
@@ -4913,6 +5041,14 @@
       "onboard_time": 1711872858,
       "rank": 45,
       "category": "情感"
+    },
+    {
+      "raw_hot": 115027,
+      "num": 284694,
+      "word": "小米汽车实现100%自动化在线检测",
+      "onboard_time": 1711968739,
+      "rank": 25,
+      "category": "汽车"
     },
     {
       "raw_hot": 114732,
@@ -5001,14 +5137,6 @@
       "onboard_time": 1711806199,
       "rank": 44,
       "category": "演出"
-    },
-    {
-      "raw_hot": 106122,
-      "num": 567256,
-      "word": "民警收到8牛锦旗秒变显眼包",
-      "onboard_time": 1711965019,
-      "rank": 24,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 106062,

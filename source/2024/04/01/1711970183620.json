@@ -1,0 +1,410 @@
+{
+  "runTime": 1711970183620,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1830152,
+        "num": 1830152,
+        "word": "罗伯特 TFBOYS已经解散了",
+        "onboard_time": 1711966281,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1533195,
+        "num": 1533195,
+        "word": "郑爽若故意隐瞒转移财产或被判刑3年",
+        "onboard_time": 1711968380,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 78536,
+        "num": 1498766,
+        "word": "雄安新区7岁了",
+        "onboard_time": 1711956500,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1468015,
+        "num": 1468015,
+        "word": "男朋友婚前隐瞒他7年前坐过牢",
+        "onboard_time": 1711966459,
+        "rank": 3,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 1020238,
+        "num": 1020238,
+        "word": "南昌",
+        "onboard_time": 1711967960,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 825288,
+        "num": 825288,
+        "word": "这居然是罗云熙",
+        "onboard_time": 1711966281,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 680667,
+        "num": 680667,
+        "word": "HYBE是不是疯了",
+        "onboard_time": 1711968020,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 666077,
+        "num": 666077,
+        "word": "雷军恳请各位口下留情",
+        "onboard_time": 1711963821,
+        "rank": 7,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 643242,
+        "num": 643242,
+        "word": "新生蔡元培莫言被北大拟录取",
+        "onboard_time": 1711961782,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 147071,
+        "num": 610789,
+        "word": "民警收到8牛锦旗秒变显眼包",
+        "onboard_time": 1711965019,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 590438,
+        "num": 590438,
+        "word": "法院认定郑爽无财产可供执行",
+        "onboard_time": 1711946724,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 513036,
+        "num": 513036,
+        "word": "最癫站姐",
+        "onboard_time": 1711942461,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 512506,
+        "num": 512506,
+        "word": "王者荣耀妲己 无双返场",
+        "onboard_time": 1711966820,
+        "rank": 12,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 439810,
+        "num": 439810,
+        "word": "躁郁症比抑郁症更严重",
+        "onboard_time": 1711961480,
+        "rank": 13,
+        "category": "科学科普,健康医疗"
+      },
+      {
+        "raw_hot": 411755,
+        "num": 411755,
+        "word": "孙怡站姐呢",
+        "onboard_time": 1711964600,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 381529,
+        "num": 381529,
+        "word": "韩商言 张元英转圈",
+        "onboard_time": 1711960161,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 354411,
+        "num": 354411,
+        "word": "张杰发了十年前的自己",
+        "onboard_time": 1711969340,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 349120,
+        "num": 349120,
+        "word": "郑爽仍有上亿案款未履行",
+        "onboard_time": 1711963459,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 128647,
+        "num": 347931,
+        "word": "浙大走廊被紫藤花淹没",
+        "onboard_time": 1711965140,
+        "rank": 18,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 288731,
+        "num": 347402,
+        "word": "新疆成为包邮区",
+        "onboard_time": 1711967001,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 392346,
+        "num": 347323,
+        "word": "存了12万被妈妈一年花完了",
+        "onboard_time": 1711960341,
+        "rank": 20,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 347079,
+        "num": 347079,
+        "word": "黄旭熙怎么又出道了",
+        "onboard_time": 1711963760,
+        "rank": 21,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 304435,
+        "num": 304435,
+        "word": "爸妈已经发现工作不好找了",
+        "onboard_time": 1711966160,
+        "rank": 22,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 286230,
+        "num": 286230,
+        "word": "官宣忘记屏蔽妈妈了",
+        "onboard_time": 1711960762,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 146205,
+        "num": 285307,
+        "word": "6个月婴儿雨夜爬上马路被接力守护",
+        "onboard_time": 1711969460,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 115027,
+        "num": 284694,
+        "word": "小米汽车实现100%自动化在线检测",
+        "onboard_time": 1711968739,
+        "rank": 25,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 284515,
+        "num": 284515,
+        "word": "南昌强对流天气已致4死10余人伤",
+        "onboard_time": 1711952241,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 268497,
+        "num": 268497,
+        "word": "李汶翰站姐 985程序员",
+        "onboard_time": 1711968079,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 265864,
+        "num": 265864,
+        "word": "朋友整个孕期抽了48管血",
+        "onboard_time": 1711969701,
+        "rank": 28,
+        "category": "母婴育儿"
+      },
+      {
+        "raw_hot": 246087,
+        "num": 246087,
+        "word": "黄旭熙solo歌词",
+        "onboard_time": 1711965563,
+        "rank": 29,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 746789,
+        "num": 243976,
+        "word": "微信崩了",
+        "onboard_time": 1711962560,
+        "rank": 30,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 237666,
+        "num": 237666,
+        "word": "缺点是瘦的太快了",
+        "onboard_time": 1711965739,
+        "rank": 31,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 234018,
+        "num": 234018,
+        "word": "林俊杰演唱会 i人座位区",
+        "onboard_time": 1711968139,
+        "rank": 32,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 219849,
+        "num": 219849,
+        "word": "旅日大熊猫爽爽死亡",
+        "onboard_time": 1711950321,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 213336,
+        "num": 213336,
+        "word": "罗伯特头像",
+        "onboard_time": 1711969880,
+        "rank": 34,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 212709,
+        "num": 212709,
+        "word": "杨幂美人鱼表白",
+        "onboard_time": 1711962440,
+        "rank": 35,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 211524,
+        "num": 211524,
+        "word": "读研后感觉自己一身老人味儿",
+        "onboard_time": 1711968860,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 203418,
+        "num": 203418,
+        "word": "张朝阳说35岁年龄歧视很奇怪",
+        "onboard_time": 1711969640,
+        "rank": 37,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 195182,
+        "num": 195182,
+        "word": "强对流天气",
+        "onboard_time": 1711969640,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 193819,
+        "num": 193819,
+        "word": "TXT空降成绩",
+        "onboard_time": 1711968680,
+        "rank": 39,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 187978,
+        "num": 187978,
+        "word": "奶奶送的黄金吊坠是铁的",
+        "onboard_time": 1711964361,
+        "rank": 40,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 184450,
+        "num": 184450,
+        "word": "WBG对战iG",
+        "onboard_time": 1711969401,
+        "rank": 41,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 180222,
+        "num": 180222,
+        "word": "刘亦菲玫瑰的故事开启招商",
+        "onboard_time": 1711965320,
+        "rank": 42,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 173280,
+        "num": 173280,
+        "word": "门店回应买保时捷送小米SU7",
+        "onboard_time": 1711965202,
+        "rank": 43,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 171105,
+        "num": 171105,
+        "word": "张颂文参加婚礼吃上肘子",
+        "onboard_time": 1711952660,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 168877,
+        "num": 168877,
+        "word": "花间令结局",
+        "onboard_time": 1711970002,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 144681,
+        "num": 144681,
+        "word": "陈都灵 仕女图",
+        "onboard_time": 1711963338,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 143402,
+        "num": 143402,
+        "word": "为什么高铁上跳过了E直接是F座",
+        "onboard_time": 1711952840,
+        "rank": 47,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 134352,
+        "num": 134352,
+        "word": "林俊杰土味情话",
+        "onboard_time": 1711967480,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 104690,
+        "num": 130793,
+        "word": "开封王婆说媒现在变味了",
+        "onboard_time": 1711957159,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#要把为民造福作为最重要的政绩#"
+    }
+  }
+}
