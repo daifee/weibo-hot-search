@@ -1,6 +1,6 @@
 {
   "startTime": 1711988526523,
-  "endTime": 1711998834478,
+  "endTime": 1712000082089,
   "band_list": [
     {
       "raw_hot": 855073,
@@ -459,6 +459,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 35890,
+      "num": 22015,
+      "word": "阮经天砍价自曝祖坟",
+      "onboard_time": 1711998250,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 35259,
       "num": 601681,
       "word": "七年雄安拔节生长",
@@ -483,12 +491,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 22015,
-      "num": 22015,
-      "word": "阮经天砍价自曝祖坟",
-      "onboard_time": 1711998250,
-      "rank": 35,
-      "category": "综艺"
+      "raw_hot": 16350,
+      "num": 16350,
+      "word": "奶茶成瘾与抑郁焦虑正相关",
+      "onboard_time": 1711999571,
+      "rank": 44,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 2474,
