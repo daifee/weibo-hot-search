@@ -1,6 +1,6 @@
 {
   "startTime": 1711902044401,
-  "endTime": 1712013556682,
+  "endTime": 1712014456517,
   "band_list": [
     {
       "raw_hot": 12825415,
@@ -483,6 +483,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 752678,
+      "num": 752678,
+      "word": "妈妈陪读十年将自闭症儿子培养成调律师",
+      "onboard_time": 1711984880,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 745256,
       "num": 745256,
       "word": "6个月婴儿雨夜爬上马路被接力守护",
@@ -585,14 +593,6 @@
       "onboard_time": 1711982301,
       "rank": 24,
       "category": "母婴育儿"
-    },
-    {
-      "raw_hot": 675238,
-      "num": 675238,
-      "word": "妈妈陪读十年将自闭症儿子培养成调律师",
-      "onboard_time": 1711984880,
-      "rank": 29,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 672066,
@@ -809,6 +809,14 @@
       "onboard_time": 1711936278,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 533215,
+      "num": 533215,
+      "word": "别再因为害羞放弃肛门指检了",
+      "onboard_time": 1711991834,
+      "rank": 48,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 526731,
@@ -1035,14 +1043,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 433725,
-      "num": 433725,
-      "word": "别再因为害羞放弃肛门指检了",
-      "onboard_time": 1711991834,
-      "rank": 48,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 432759,
       "num": 432759,
       "word": "张若昀站姐发了赵丽颖",
@@ -1089,6 +1089,14 @@
       "onboard_time": 1711938379,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 398459,
+      "num": 398459,
+      "word": "提灯定损",
+      "onboard_time": 1712005511,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 398440,
@@ -1171,6 +1179,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 380583,
+      "num": 380583,
+      "word": "iPhone6Plus被列入过时产品",
+      "onboard_time": 1712013075,
+      "rank": 15,
+      "category": "数码"
+    },
+    {
       "raw_hot": 380268,
       "num": 380268,
       "word": "规培医生不该成为廉价劳动力",
@@ -1249,14 +1265,6 @@
       "onboard_time": 1711948222,
       "rank": 24,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 357064,
-      "num": 357064,
-      "word": "提灯定损",
-      "onboard_time": 1712005511,
-      "rank": 36,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 347559,
@@ -1401,6 +1409,14 @@
       "onboard_time": 1711895360,
       "rank": 18,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 302899,
+      "num": 93152,
+      "word": "盗月社被胖东来老板抓包",
+      "onboard_time": 1712013677,
+      "rank": 30,
+      "category": "美食"
     },
     {
       "raw_hot": 299718,
@@ -1569,6 +1585,14 @@
       "onboard_time": 1711959321,
       "rank": 28,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 261118,
+      "num": 261118,
+      "word": "烧伤女孩百万救命款一夜凑齐哥哥泪谢浙江",
+      "onboard_time": 1712003169,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 260447,
@@ -1859,6 +1883,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 214151,
+      "num": 214151,
+      "word": "南昌大风",
+      "onboard_time": 1712013136,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 213743,
       "num": 213743,
       "word": "小米高管辟谣SU7锁单量",
@@ -1924,7 +1956,7 @@
     },
     {
       "raw_hot": 204425,
-      "num": 115600,
+      "num": 136976,
       "word": "2天睡眠不足会让人感觉老了4岁",
       "onboard_time": 1711988896,
       "rank": 28,
@@ -2147,6 +2179,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 195311,
+      "num": 195311,
+      "word": "于正 祝你也遇到法治咖",
+      "onboard_time": 1712000651,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 195182,
       "num": 195182,
       "word": "强对流天气",
@@ -2227,14 +2267,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 191945,
-      "num": 191945,
-      "word": "烧伤女孩百万救命款一夜凑齐哥哥泪谢浙江",
-      "onboard_time": 1712003169,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 191431,
       "num": 191431,
       "word": "人间四月天",
@@ -2305,14 +2337,6 @@
       "onboard_time": 1711949302,
       "rank": 43,
       "category": "情感"
-    },
-    {
-      "raw_hot": 185713,
-      "num": 185713,
-      "word": "于正 祝你也遇到法治咖",
-      "onboard_time": 1712000651,
-      "rank": 12,
-      "category": "艺人"
     },
     {
       "raw_hot": 185099,
@@ -2467,6 +2491,14 @@
       "category": "艺人,汽车"
     },
     {
+      "raw_hot": 176156,
+      "num": 176156,
+      "word": "上饶提灯定损房东女儿疑被开除",
+      "onboard_time": 1712013736,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 175505,
       "num": 175505,
       "word": "是什么影响了我们的生育力",
@@ -2499,28 +2531,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 173490,
-      "num": 173490,
-      "word": "南昌大风",
-      "onboard_time": 1712013136,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 172818,
       "num": 172818,
       "word": "WBG战胜iG",
       "onboard_time": 1711985000,
       "rank": 32,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 172743,
-      "num": 172743,
-      "word": "iPhone6Plus被列入过时产品",
-      "onboard_time": 1712013075,
-      "rank": 15,
-      "category": "数码"
     },
     {
       "raw_hot": 171604,
@@ -2955,6 +2971,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 136021,
+      "num": 136021,
+      "word": "女子豌杂面加香菜加到店家崩溃",
+      "onboard_time": 1711982901,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 134650,
       "num": 134650,
       "word": "卓澜江下线",
@@ -2988,7 +3012,7 @@
     },
     {
       "raw_hot": 132234,
-      "num": 114957,
+      "num": 116595,
       "word": "乳腺结节不疼更要警惕乳腺癌",
       "onboard_time": 1712008391,
       "rank": 24,
@@ -3001,14 +3025,6 @@
       "onboard_time": 1711935138,
       "rank": 39,
       "category": "财经"
-    },
-    {
-      "raw_hot": 129456,
-      "num": 113665,
-      "word": "女子豌杂面加香菜加到店家崩溃",
-      "onboard_time": 1711982901,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 128647,
@@ -3059,6 +3075,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 121657,
+      "num": 92470,
+      "word": "3周瘦7斤的底层逻辑",
+      "onboard_time": 1712013557,
+      "rank": 31,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 119239,
       "num": 119239,
       "word": "怪不得上班这么苦",
@@ -3107,12 +3131,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 111964,
+      "num": 111964,
+      "word": "小林制药保健品已致157人住院",
+      "onboard_time": 1712013856,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 110899,
       "num": 110899,
       "word": "骑行一个月后瘦了10斤",
       "onboard_time": 1711878557,
       "rank": 45,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 110134,
+      "num": 110134,
+      "word": "奥本海默日本上映观众情绪复杂",
+      "onboard_time": 1711995131,
+      "rank": 39,
+      "category": "电影"
     },
     {
       "raw_hot": 108326,
@@ -3137,6 +3177,14 @@
       "onboard_time": 1711987937,
       "rank": 37,
       "category": "动漫,作品衍生"
+    },
+    {
+      "raw_hot": 104562,
+      "num": 104562,
+      "word": "王艳贵女路透",
+      "onboard_time": 1712003411,
+      "rank": 41,
+      "category": "剧集"
     },
     {
       "raw_hot": 101437,
@@ -3195,27 +3243,19 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 92278,
-      "num": 92278,
-      "word": "奥本海默日本上映观众情绪复杂",
-      "onboard_time": 1711995131,
-      "rank": 39,
-      "category": "电影"
-    },
-    {
-      "raw_hot": 91654,
-      "num": 91654,
+      "raw_hot": 94692,
+      "num": 94692,
       "word": "这3种情况不建议洗澡",
       "onboard_time": 1712004069,
       "rank": 21,
       "category": "健康医疗"
     },
     {
-      "raw_hot": 87897,
-      "num": 87897,
-      "word": "王艳贵女路透",
-      "onboard_time": 1712003411,
-      "rank": 41,
+      "raw_hot": 86602,
+      "num": 86602,
+      "word": "与凤行 知识狡猾地进入我脑袋",
+      "onboard_time": 1712010734,
+      "rank": 49,
       "category": "剧集"
     },
     {
@@ -3235,12 +3275,12 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 76783,
-      "num": 76783,
-      "word": "与凤行 知识狡猾地进入我脑袋",
-      "onboard_time": 1712010734,
-      "rank": 49,
-      "category": "剧集"
+      "raw_hot": 81007,
+      "num": 81007,
+      "word": "别因为误解让星星的孩子痛上加痛",
+      "onboard_time": 1712013856,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 76275,
@@ -3267,6 +3307,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 73031,
+      "num": 73031,
+      "word": "欢瑞为成毅怒怼前公司",
+      "onboard_time": 1711992552,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 71689,
+      "num": 71689,
+      "word": "小米汽车回应提车日期",
+      "onboard_time": 1712014217,
+      "rank": 41,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 71351,
       "num": 838133,
       "word": "七年雄安拔节生长",
@@ -3284,7 +3340,7 @@
     },
     {
       "raw_hot": 69210,
-      "num": 56732,
+      "num": 61242,
       "word": "陈汉典 披荆斩棘的哥哥",
       "onboard_time": 1712004850,
       "rank": 32,
@@ -3312,14 +3368,6 @@
       "word": "周也头像",
       "onboard_time": 1711996512,
       "rank": 4,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 59438,
-      "num": 59438,
-      "word": "欢瑞为成毅怒怼前公司",
-      "onboard_time": 1711992552,
-      "rank": 40,
       "category": "艺人"
     },
     {
