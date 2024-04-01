@@ -1,6 +1,6 @@
 {
   "startTime": 1711815680412,
-  "endTime": 1712000082089,
+  "endTime": 1712002809713,
   "band_list": [
     {
       "raw_hot": 12825415,
@@ -6083,6 +6083,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 61790,
+      "num": 26493,
+      "word": "于正 祝你也遇到法治咖",
+      "onboard_time": 1712000651,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 60657,
       "num": 60657,
       "word": "布伦特福德1比1曼联",
@@ -6291,20 +6299,20 @@
       "category": "母婴育儿"
     },
     {
+      "raw_hot": 20228,
+      "num": 20228,
+      "word": "奶茶成瘾与抑郁焦虑正相关",
+      "onboard_time": 1711999571,
+      "rank": 44,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 16815,
       "num": 19489,
       "word": "把化妆过程拍成了化妆游戏",
       "onboard_time": 1711832411,
       "rank": 44,
       "category": "美妆"
-    },
-    {
-      "raw_hot": 16350,
-      "num": 16350,
-      "word": "奶茶成瘾与抑郁焦虑正相关",
-      "onboard_time": 1711999571,
-      "rank": 44,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 11652,
