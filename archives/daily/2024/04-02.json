@@ -1,6 +1,6 @@
 {
   "startTime": 1711988526523,
-  "endTime": 1711988526523,
+  "endTime": 1711989501261,
   "band_list": [
     {
       "raw_hot": 855073,
@@ -75,20 +75,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 422875,
+      "num": 422875,
+      "word": "妈妈陪读十年将自闭症儿子培养成调律师",
+      "onboard_time": 1711984880,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 422183,
       "num": 422183,
       "word": "新版赵灵儿 阴蚀王",
       "onboard_time": 1711983322,
       "rank": 5,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 417597,
-      "num": 417597,
-      "word": "妈妈陪读十年将自闭症儿子培养成调律师",
-      "onboard_time": 1711984880,
-      "rank": 6,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 395656,
@@ -115,6 +115,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 279864,
+      "num": 279864,
+      "word": "站姐神图",
+      "onboard_time": 1711986319,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 274154,
       "num": 274154,
       "word": "追风者 拿奖",
@@ -123,20 +131,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 257667,
-      "num": 257667,
-      "word": "站姐神图",
-      "onboard_time": 1711986319,
-      "rank": 15,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 219169,
       "num": 219169,
       "word": "90后小伙银行离职后在殡葬行业找到人生价值",
       "onboard_time": 1711980021,
       "rank": 16,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 211650,
+      "num": 211650,
+      "word": "把朋友圈权限给妈妈打开以后",
+      "onboard_time": 1711986079,
+      "rank": 20,
+      "category": "情感"
     },
     {
       "raw_hot": 210543,
@@ -155,20 +163,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 185099,
+      "num": 185099,
+      "word": "TXT闯中了",
+      "onboard_time": 1711989017,
+      "rank": 17,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 177091,
       "num": 177091,
       "word": "赵丽颖受刑戏又有钉子",
       "onboard_time": 1711978280,
       "rank": 19,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 168936,
-      "num": 168936,
-      "word": "把朋友圈权限给妈妈打开以后",
-      "onboard_time": 1711986079,
-      "rank": 20,
-      "category": "情感"
     },
     {
       "raw_hot": 166680,
@@ -187,8 +195,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 150606,
-      "num": 150606,
+      "raw_hot": 152437,
+      "num": 152437,
       "word": "李沁王阳飙戏",
       "onboard_time": 1711987998,
       "rank": 23,
@@ -275,6 +283,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 110270,
+      "num": 110270,
+      "word": "2天睡眠不足会让人感觉老了4岁",
+      "onboard_time": 1711988896,
+      "rank": 28,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 108272,
       "num": 108272,
       "word": "HYBE是不是疯了",
@@ -292,7 +308,7 @@
     },
     {
       "raw_hot": 104224,
-      "num": 90212,
+      "num": 93151,
       "word": "周也模仿陈欣怡",
       "onboard_time": 1711973060,
       "rank": 40,
@@ -305,6 +321,14 @@
       "onboard_time": 1711967960,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 97557,
+      "num": 97557,
+      "word": "冯绍峰警队体验生活碰到真命案",
+      "onboard_time": 1711989138,
+      "rank": 33,
+      "category": "电影"
     },
     {
       "raw_hot": 91415,
@@ -323,6 +347,14 @@
       "category": "科学科普,健康医疗"
     },
     {
+      "raw_hot": 87965,
+      "num": 87965,
+      "word": "王者荣耀妲己 无双返场",
+      "onboard_time": 1711966820,
+      "rank": 43,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 86425,
       "num": 86425,
       "word": "欢乐颂5",
@@ -332,19 +364,11 @@
     },
     {
       "raw_hot": 84324,
-      "num": 90273,
+      "num": 91358,
       "word": "爸爸用排烟管给女儿做了一条粉色龙",
       "onboard_time": 1711979602,
       "rank": 39,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 82068,
-      "num": 82068,
-      "word": "王者荣耀妲己 无双返场",
-      "onboard_time": 1711966820,
-      "rank": 43,
-      "category": "游戏"
     },
     {
       "raw_hot": 76737,
@@ -393,6 +417,14 @@
       "onboard_time": 1711974019,
       "rank": 49,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 51302,
+      "num": 62688,
+      "word": "女子豌杂面加香菜加到店家崩溃",
+      "onboard_time": 1711982901,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 35259,

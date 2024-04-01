@@ -1,6 +1,6 @@
 {
   "startTime": 1711815680412,
-  "endTime": 1711988526523,
+  "endTime": 1711989501261,
   "band_list": [
     {
       "raw_hot": 12825415,
@@ -1779,6 +1779,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 422875,
+      "num": 422875,
+      "word": "妈妈陪读十年将自闭症儿子培养成调律师",
+      "onboard_time": 1711984880,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 422709,
       "num": 422709,
       "word": "上海偶遇陆毅鲍蕾一家四口",
@@ -1809,14 +1817,6 @@
       "onboard_time": 1711885458,
       "rank": 11,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 417597,
-      "num": 417597,
-      "word": "妈妈陪读十年将自闭症儿子培养成调律师",
-      "onboard_time": 1711984880,
-      "rank": 29,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 415659,
@@ -2595,6 +2595,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 279864,
+      "num": 279864,
+      "word": "站姐神图",
+      "onboard_time": 1711986319,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 278790,
       "num": 250028,
       "word": "郑合惠子工作室发声",
@@ -2785,14 +2793,6 @@
       "onboard_time": 1711860437,
       "rank": 26,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 257667,
-      "num": 257667,
-      "word": "站姐神图",
-      "onboard_time": 1711986319,
-      "rank": 15,
-      "category": "艺人"
     },
     {
       "raw_hot": 254598,
@@ -3385,6 +3385,14 @@
       "onboard_time": 1711862838,
       "rank": 35,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 211650,
+      "num": 211650,
+      "word": "把朋友圈权限给妈妈打开以后",
+      "onboard_time": 1711986079,
+      "rank": 20,
+      "category": "情感"
     },
     {
       "raw_hot": 211533,
@@ -4091,6 +4099,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 185099,
+      "num": 185099,
+      "word": "TXT闯中了",
+      "onboard_time": 1711989017,
+      "rank": 17,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 184653,
       "num": 184653,
       "word": "腾势发布会",
@@ -4473,14 +4489,6 @@
       "onboard_time": 1711949240,
       "rank": 48,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 168936,
-      "num": 168936,
-      "word": "把朋友圈权限给妈妈打开以后",
-      "onboard_time": 1711986079,
-      "rank": 20,
-      "category": "情感"
     },
     {
       "raw_hot": 168755,
@@ -4867,6 +4875,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 152437,
+      "num": 152437,
+      "word": "李沁王阳飙戏",
+      "onboard_time": 1711987998,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 152308,
       "num": 152308,
       "word": "眼霜眼膜真的能抵抗眼部衰老吗",
@@ -4913,14 +4929,6 @@
       "onboard_time": 1711807280,
       "rank": 32,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 150606,
-      "num": 150606,
-      "word": "李沁王阳飙戏",
-      "onboard_time": 1711987998,
-      "rank": 23,
-      "category": "剧集"
     },
     {
       "raw_hot": 149980,
@@ -5651,6 +5659,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 110270,
+      "num": 110270,
+      "word": "2天睡眠不足会让人感觉老了4岁",
+      "onboard_time": 1711988896,
+      "rank": 28,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 109769,
       "num": 109769,
       "word": "C罗帽子戏法",
@@ -5785,6 +5801,14 @@
       "onboard_time": 1711927036,
       "rank": 35,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 97557,
+      "num": 97557,
+      "word": "冯绍峰警队体验生活碰到真命案",
+      "onboard_time": 1711989138,
+      "rank": 33,
+      "category": "电影"
     },
     {
       "raw_hot": 97476,
@@ -6089,6 +6113,14 @@
       "onboard_time": 1711796538,
       "rank": 29,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 51302,
+      "num": 62688,
+      "word": "女子豌杂面加香菜加到店家崩溃",
+      "onboard_time": 1711982901,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 50751,
