@@ -1,6 +1,6 @@
 {
   "startTime": 1711902044401,
-  "endTime": 1711971249069,
+  "endTime": 1711974824981,
   "band_list": [
     {
       "raw_hot": 12825415,
@@ -48,6 +48,14 @@
       "word": "81192",
       "onboard_time": 1711935739,
       "rank": 3,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2326217,
+      "num": 330126,
+      "word": "女子睡觉被大风吹下11楼身亡",
+      "onboard_time": 1711971080,
+      "rank": 41,
       "category": "社会新闻"
     },
     {
@@ -161,6 +169,14 @@
       "onboard_time": 1711961782,
       "rank": 32,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1218689,
+      "num": 1218689,
+      "word": "罗伯特头像",
+      "onboard_time": 1711969880,
+      "rank": 34,
+      "category": "互联网"
     },
     {
       "raw_hot": 1210558,
@@ -419,6 +435,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 745256,
+      "num": 745256,
+      "word": "6个月婴儿雨夜爬上马路被接力守护",
+      "onboard_time": 1711969460,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 738115,
       "num": 738115,
       "word": "凤凰传奇抢票",
@@ -553,6 +577,14 @@
       "onboard_time": 1711894040,
       "rank": 6,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 624653,
+      "num": 329237,
+      "word": "上海一轿车失控撞飞多名路人",
+      "onboard_time": 1711972040,
+      "rank": 12,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 614136,
@@ -851,20 +883,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 419397,
-      "num": 419397,
-      "word": "罗伯特头像",
-      "onboard_time": 1711969880,
-      "rank": 34,
-      "category": "互联网"
-    },
-    {
-      "raw_hot": 416228,
-      "num": 531887,
-      "word": "6个月婴儿雨夜爬上马路被接力守护",
-      "onboard_time": 1711969460,
-      "rank": 24,
-      "category": "社会新闻"
+      "raw_hot": 421427,
+      "num": 421427,
+      "word": "张杰发了十年前的自己",
+      "onboard_time": 1711969340,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 415659,
@@ -873,6 +897,14 @@
       "onboard_time": 1711938379,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 398440,
+      "num": 328948,
+      "word": "物业回应南昌一小区窗框吹落3人坠亡",
+      "onboard_time": 1711972640,
+      "rank": 13,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 395161,
@@ -931,6 +963,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 376260,
+      "num": 328783,
+      "word": "谁亲了卢昱晓",
+      "onboard_time": 1711974200,
+      "rank": 14,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 371777,
       "num": 565200,
       "word": "莎头",
@@ -953,6 +993,14 @@
       "onboard_time": 1711952241,
       "rank": 32,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 366385,
+      "num": 328309,
+      "word": "张大大在天水麻辣烫店当服务员",
+      "onboard_time": 1711972640,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 365503,
@@ -984,14 +1032,6 @@
       "word": "许光汉站姐",
       "onboard_time": 1711948222,
       "rank": 24,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 354411,
-      "num": 354411,
-      "word": "张杰发了十年前的自己",
-      "onboard_time": 1711969340,
-      "rank": 16,
       "category": "艺人"
     },
     {
@@ -1105,6 +1145,14 @@
       "onboard_time": 1711895360,
       "rank": 18,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 299718,
+      "num": 299718,
+      "word": "林一 幽我一默",
+      "onboard_time": 1711970720,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 299302,
@@ -1259,6 +1307,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 258344,
+      "num": 258344,
+      "word": "林俊杰济南二开",
+      "onboard_time": 1711974200,
+      "rank": 24,
+      "category": "演出"
+    },
+    {
       "raw_hot": 257960,
       "num": 257960,
       "word": "奶奶送的黄金吊坠是铁的",
@@ -1289,6 +1345,14 @@
       "onboard_time": 1711962380,
       "rank": 24,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 249346,
+      "num": 249346,
+      "word": "100只生蚝能做出多少蚝油",
+      "onboard_time": 1711970960,
+      "rank": 45,
+      "category": "美食"
     },
     {
       "raw_hot": 249154,
@@ -1337,6 +1401,14 @@
       "onboard_time": 1711901659,
       "rank": 22,
       "category": "演出"
+    },
+    {
+      "raw_hot": 236114,
+      "num": 236114,
+      "word": "追风者阿文跳楼",
+      "onboard_time": 1711974019,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 235786,
@@ -1441,6 +1513,14 @@
       "onboard_time": 1711963281,
       "rank": 19,
       "category": "财经"
+    },
+    {
+      "raw_hot": 220774,
+      "num": 220774,
+      "word": "花间令郡主自杀了",
+      "onboard_time": 1711974380,
+      "rank": 32,
+      "category": "剧集"
     },
     {
       "raw_hot": 218966,
@@ -1601,14 +1681,6 @@
       "onboard_time": 1711927816,
       "rank": 21,
       "category": "情感"
-    },
-    {
-      "raw_hot": 200253,
-      "num": 200253,
-      "word": "林一 幽我一默",
-      "onboard_time": 1711970720,
-      "rank": 32,
-      "category": "艺人"
     },
     {
       "raw_hot": 200049,
@@ -1915,6 +1987,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 181599,
+      "num": 181599,
+      "word": "周也模仿陈欣怡",
+      "onboard_time": 1711973060,
+      "rank": 36,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 181301,
       "num": 181301,
       "word": "小米汽车回应安全问题",
@@ -2067,6 +2147,14 @@
       "category": "情感,网红"
     },
     {
+      "raw_hot": 167866,
+      "num": 167866,
+      "word": "霸王茶姬cp",
+      "onboard_time": 1711973659,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 164258,
       "num": 164258,
       "word": "吉利高管到小米线下门店看SU7",
@@ -2179,6 +2267,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 157767,
+      "num": 157767,
+      "word": "水逆",
+      "onboard_time": 1711973419,
+      "rank": 38,
+      "category": "情感"
+    },
+    {
       "raw_hot": 157283,
       "num": 157283,
       "word": "建议打工人周末在公园待20分钟",
@@ -2195,14 +2291,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 156794,
-      "num": 156794,
-      "word": "女子睡觉被大风吹下11楼身亡",
-      "onboard_time": 1711971080,
-      "rank": 41,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 155688,
       "num": 155688,
       "word": "tabe",
@@ -2217,6 +2305,14 @@
       "onboard_time": 1711954041,
       "rank": 41,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 154060,
+      "num": 232189,
+      "word": "95后靠模拟带娃存2万",
+      "onboard_time": 1711972879,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 153181,
@@ -2395,12 +2491,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 136041,
-      "num": 136041,
-      "word": "100只生蚝能做出多少蚝油",
-      "onboard_time": 1711970960,
+      "raw_hot": 134650,
+      "num": 134650,
+      "word": "卓澜江下线",
+      "onboard_time": 1711973599,
       "rank": 45,
-      "category": "美食"
+      "category": "剧集"
     },
     {
       "raw_hot": 134441,
@@ -2611,6 +2707,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 71237,
+      "num": 125201,
+      "word": "南昌强对流天气狂风暴雨看得揪心",
+      "onboard_time": 1711972759,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 63995,
       "num": 63995,
       "word": "enhypen回归时间",
@@ -2689,6 +2793,14 @@
       "onboard_time": 1711912032,
       "rank": 44,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 46022,
+      "num": 284659,
+      "word": "30万级家庭首选超舒适SUV",
+      "onboard_time": 1711974200,
+      "rank": 22,
+      "category": "汽车"
     },
     {
       "raw_hot": 44491,
