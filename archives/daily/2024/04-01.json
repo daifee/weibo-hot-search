@@ -1,6 +1,6 @@
 {
   "startTime": 1711902044401,
-  "endTime": 1711952589462,
+  "endTime": 1711953343152,
   "band_list": [
     {
       "raw_hot": 12825415,
@@ -17,6 +17,14 @@
       "onboard_time": 1711946724,
       "rank": 0,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 3120127,
+      "num": 3120127,
+      "word": "知情人称扔小孩母亲避开了安全气囊",
+      "onboard_time": 1711951221,
+      "rank": 3,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 2947462,
@@ -51,14 +59,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 2051937,
-      "num": 2051937,
-      "word": "知情人称扔小孩母亲避开了安全气囊",
-      "onboard_time": 1711951221,
-      "rank": 3,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1983650,
       "num": 1983650,
       "word": "愚人节站姐团建",
@@ -72,6 +72,14 @@
       "word": "重庆警方通报一女子高空抛子",
       "onboard_time": 1711945344,
       "rank": 11,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1725833,
+      "num": 1725833,
+      "word": "女子欲扔第二个孩子时被控制",
+      "onboard_time": 1711951283,
+      "rank": 4,
       "category": "社会新闻"
     },
     {
@@ -123,14 +131,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1131381,
-      "num": 1131381,
-      "word": "女子欲扔第二个孩子时被控制",
-      "onboard_time": 1711951283,
-      "rank": 4,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1093436,
       "num": 567266,
       "word": "迈巴赫成都来福士连续碾压多人",
@@ -169,6 +169,14 @@
       "onboard_time": 1711931360,
       "rank": 5,
       "category": "互联网,社会新闻"
+    },
+    {
+      "raw_hot": 995407,
+      "num": 995407,
+      "word": "重庆女子高空抛子或不承担刑事责任",
+      "onboard_time": 1711952180,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 993951,
@@ -228,7 +236,7 @@
     },
     {
       "raw_hot": 874024,
-      "num": 354385,
+      "num": 362050,
       "word": "刚领证发现老公欠了15万",
       "onboard_time": 1711946185,
       "rank": 20,
@@ -371,6 +379,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 570282,
+      "num": 570282,
+      "word": "最癫的是罗伯特",
+      "onboard_time": 1711949602,
+      "rank": 46,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 568561,
       "num": 568561,
       "word": "24岁我还不能和男朋友出去旅游",
@@ -435,19 +451,19 @@
       "category": "情感"
     },
     {
-      "raw_hot": 522751,
-      "num": 522751,
-      "word": "最癫的是罗伯特",
-      "onboard_time": 1711949602,
-      "rank": 46,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 516400,
       "num": 516400,
       "word": "唐鹤德希望今天是复活节",
       "onboard_time": 1711928837,
       "rank": 12,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 515732,
+      "num": 515732,
+      "word": "张元英生图",
+      "onboard_time": 1711949482,
+      "rank": 37,
       "category": "艺人"
     },
     {
@@ -457,14 +473,6 @@
       "onboard_time": 1711898120,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 492236,
-      "num": 492236,
-      "word": "张元英生图",
-      "onboard_time": 1711949482,
-      "rank": 37,
-      "category": "艺人"
     },
     {
       "raw_hot": 488928,
@@ -611,6 +619,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 375598,
+      "num": 375598,
+      "word": "张颂文参加婚礼吃上肘子",
+      "onboard_time": 1711952660,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 371777,
       "num": 565200,
       "word": "莎头",
@@ -657,14 +673,6 @@
       "onboard_time": 1711948222,
       "rank": 24,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 357444,
-      "num": 357444,
-      "word": "重庆女子高空抛子或不承担刑事责任",
-      "onboard_time": 1711952180,
-      "rank": 19,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 347499,
@@ -739,6 +747,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 300479,
+      "num": 300479,
+      "word": "南昌强对流天气已致4死10余人伤",
+      "onboard_time": 1711952241,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 299302,
+      "num": 299302,
+      "word": "佘诗曼 隐形脐带没剪断",
+      "onboard_time": 1711949901,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 296819,
       "num": 296819,
       "word": "春天睡不好是正常现象",
@@ -795,6 +819,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 277748,
+      "num": 277748,
+      "word": "韩国总统首次就医改寻求妥协",
+      "onboard_time": 1711951640,
+      "rank": 27,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 277657,
       "num": 277657,
       "word": "南北站姐",
@@ -819,14 +851,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 266566,
-      "num": 266566,
-      "word": "佘诗曼 隐形脐带没剪断",
-      "onboard_time": 1711949901,
-      "rank": 26,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 264587,
       "num": 264587,
       "word": "因为和父母关系不好直接改姓了",
@@ -841,14 +865,6 @@
       "onboard_time": 1711926557,
       "rank": 24,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 255714,
-      "num": 255714,
-      "word": "韩国总统首次就医改寻求妥协",
-      "onboard_time": 1711951640,
-      "rank": 27,
-      "category": "国外时政"
     },
     {
       "raw_hot": 254326,
@@ -952,14 +968,6 @@
       "word": "韩国人真的每天只睡4小时吗",
       "onboard_time": 1711905374,
       "rank": 35,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 212174,
-      "num": 212174,
-      "word": "南昌强对流天气已致4死10余人伤",
-      "onboard_time": 1711952241,
-      "rank": 32,
       "category": "社会新闻"
     },
     {
@@ -1243,6 +1251,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 180708,
+      "num": 180708,
+      "word": "周处除三害背后的台湾乱象",
+      "onboard_time": 1711952421,
+      "rank": 47,
+      "category": "电影"
+    },
+    {
       "raw_hot": 179170,
       "num": 179170,
       "word": "王者荣耀",
@@ -1379,6 +1395,22 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 155230,
+      "num": 155230,
+      "word": "22岁大四和父母决裂了",
+      "onboard_time": 1711953200,
+      "rank": 39,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 154117,
+      "num": 154117,
+      "word": "为什么高铁上跳过了E直接是F座",
+      "onboard_time": 1711952840,
+      "rank": 40,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 153181,
       "num": 153181,
       "word": "刘忻站姐发了洪辰",
@@ -1393,6 +1425,14 @@
       "onboard_time": 1711895240,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 151243,
+      "num": 151243,
+      "word": "雀魂联动蔚蓝档案",
+      "onboard_time": 1711952660,
+      "rank": 41,
+      "category": "游戏"
     },
     {
       "raw_hot": 149953,
@@ -1411,12 +1451,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 147825,
+      "num": 147825,
+      "word": "最美是人间四月的天",
+      "onboard_time": 1711952960,
+      "rank": 44,
+      "category": "情感"
+    },
+    {
       "raw_hot": 146457,
       "num": 146457,
       "word": "夏之光胸沟",
       "onboard_time": 1711903037,
       "rank": 25,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 145705,
+      "num": 145705,
+      "word": "怀念张国荣",
+      "onboard_time": 1711953080,
+      "rank": 45,
+      "category": "艺人"
     },
     {
       "raw_hot": 143436,
@@ -1433,6 +1489,14 @@
       "onboard_time": 1711935198,
       "rank": 42,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 140730,
+      "num": 140730,
+      "word": "成毅被前经纪公司起诉",
+      "onboard_time": 1711953259,
+      "rank": 46,
+      "category": "艺人"
     },
     {
       "raw_hot": 137935,
@@ -1459,6 +1523,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 136641,
+      "num": 136641,
+      "word": "二次元公司的内斗方式",
+      "onboard_time": 1711953020,
+      "rank": 47,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 133160,
       "num": 360592,
       "word": "极氪007增强版上市",
@@ -1473,14 +1545,6 @@
       "onboard_time": 1711935138,
       "rank": 39,
       "category": "财经"
-    },
-    {
-      "raw_hot": 126584,
-      "num": 126584,
-      "word": "周处除三害背后的台湾乱象",
-      "onboard_time": 1711952421,
-      "rank": 47,
-      "category": "电影"
     },
     {
       "raw_hot": 126391,

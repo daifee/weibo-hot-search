@@ -1,0 +1,410 @@
+{
+  "runTime": 1711953343152,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3120127,
+        "num": 3120127,
+        "word": "知情人称扔小孩母亲避开了安全气囊",
+        "onboard_time": 1711951221,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1942487,
+        "num": 1942487,
+        "word": "法院认定郑爽无财产可供执行",
+        "onboard_time": 1711946724,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 158223,
+        "num": 1774793,
+        "word": "有一种叫云南的生活",
+        "onboard_time": 1711943841,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1765227,
+        "num": 1765227,
+        "word": "旅日大熊猫爽爽死亡",
+        "onboard_time": 1711950321,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1725833,
+        "num": 1725833,
+        "word": "女子欲扔第二个孩子时被控制",
+        "onboard_time": 1711951283,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 995407,
+        "num": 995407,
+        "word": "重庆女子高空抛子或不承担刑事责任",
+        "onboard_time": 1711952180,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 750842,
+        "num": 750842,
+        "word": "站姐发何赛飞 让你发了吗",
+        "onboard_time": 1711948044,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 615657,
+        "num": 615657,
+        "word": "81192",
+        "onboard_time": 1711935739,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 594115,
+        "num": 594115,
+        "word": "特斯拉宣布原价1.2万星空灰车漆免费",
+        "onboard_time": 1711945224,
+        "rank": 8,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 225189,
+        "num": 572003,
+        "word": "本想免费试用结果被扣一年会员费",
+        "onboard_time": 1711931360,
+        "rank": 9,
+        "category": "互联网,社会新闻"
+      },
+      {
+        "raw_hot": 1447161,
+        "num": 571886,
+        "word": "最癫站姐",
+        "onboard_time": 1711942461,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 570282,
+        "num": 570282,
+        "word": "最癫的是罗伯特",
+        "onboard_time": 1711949602,
+        "rank": 11,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 544816,
+        "num": 544816,
+        "word": "妈妈澄清欧阳娣娣名字由来",
+        "onboard_time": 1711945946,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 525922,
+        "num": 525922,
+        "word": "南昌突发强对流天气3人坠楼身亡",
+        "onboard_time": 1711941978,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 515732,
+        "num": 515732,
+        "word": "张元英生图",
+        "onboard_time": 1711949482,
+        "rank": 14,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 470709,
+        "num": 470709,
+        "word": "八十家站姐发了迪丽热巴",
+        "onboard_time": 1711942940,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 443326,
+        "num": 443326,
+        "word": "张凌赫站姐发了王鹤棣虞书欣",
+        "onboard_time": 1711947204,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 410390,
+        "num": 410390,
+        "word": "扔小孩女子疑似精神行为异常",
+        "onboard_time": 1711945585,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 403948,
+        "num": 403948,
+        "word": "杨洋站姐",
+        "onboard_time": 1711948643,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 375598,
+        "num": 375598,
+        "word": "张颂文参加婚礼吃上肘子",
+        "onboard_time": 1711952660,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 519991,
+        "num": 362050,
+        "word": "刚领证发现老公欠了15万",
+        "onboard_time": 1711946185,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 399301,
+        "num": 347354,
+        "word": "重庆警方通报一女子高空抛子",
+        "onboard_time": 1711945344,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 300479,
+        "num": 300479,
+        "word": "南昌强对流天气已致4死10余人伤",
+        "onboard_time": 1711952241,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 299302,
+        "num": 299302,
+        "word": "佘诗曼 隐形脐带没剪断",
+        "onboard_time": 1711949901,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 283492,
+        "num": 283492,
+        "word": "试用期一天被辞退要工资有错吗",
+        "onboard_time": 1711950802,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 277748,
+        "num": 277748,
+        "word": "韩国总统首次就医改寻求妥协",
+        "onboard_time": 1711951640,
+        "rank": 25,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 268235,
+        "num": 268235,
+        "word": "李汶翰 乐华娱乐",
+        "onboard_time": 1711945946,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 249925,
+        "num": 249925,
+        "word": "南北站姐",
+        "onboard_time": 1711950142,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 246562,
+        "num": 246562,
+        "word": "男朋友把我们隐私照发朋友圈",
+        "onboard_time": 1711937000,
+        "rank": 28,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 220764,
+        "num": 220764,
+        "word": "欧阳娜娜正面回应猫咪纹",
+        "onboard_time": 1711950681,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 219323,
+        "num": 219323,
+        "word": "华为P70",
+        "onboard_time": 1711947624,
+        "rank": 30,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 206612,
+        "num": 206612,
+        "word": "婆婆请吊车将生产完的儿媳送上楼",
+        "onboard_time": 1711944744,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 187411,
+        "num": 187411,
+        "word": "愚人节站姐团建",
+        "onboard_time": 1711890498,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 180708,
+        "num": 180708,
+        "word": "周处除三害背后的台湾乱象",
+        "onboard_time": 1711952421,
+        "rank": 33,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 175634,
+        "num": 175634,
+        "word": "成毅站姐发的最强绿卡line",
+        "onboard_time": 1711951582,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 170698,
+        "num": 170698,
+        "word": "babymonster音源",
+        "onboard_time": 1711949781,
+        "rank": 35,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 165992,
+        "num": 165992,
+        "word": "白鹿站姐发于正生图",
+        "onboard_time": 1711948162,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 165925,
+        "num": 165925,
+        "word": "王者荣耀",
+        "onboard_time": 1711949002,
+        "rank": 37,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 165532,
+        "num": 165532,
+        "word": "许光汉站姐",
+        "onboard_time": 1711948222,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 155230,
+        "num": 155230,
+        "word": "22岁大四和父母决裂了",
+        "onboard_time": 1711953200,
+        "rank": 39,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 154117,
+        "num": 154117,
+        "word": "为什么高铁上跳过了E直接是F座",
+        "onboard_time": 1711952840,
+        "rank": 40,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 151243,
+        "num": 151243,
+        "word": "雀魂联动蔚蓝档案",
+        "onboard_time": 1711952660,
+        "rank": 41,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 149653,
+        "num": 149653,
+        "word": "赵露思 澳门鬼迷日眼的照片",
+        "onboard_time": 1711892780,
+        "rank": 42,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 148134,
+        "num": 148134,
+        "word": "SEVENTEEN特典",
+        "onboard_time": 1711950321,
+        "rank": 43,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 147825,
+        "num": 147825,
+        "word": "最美是人间四月的天",
+        "onboard_time": 1711952960,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 145705,
+        "num": 145705,
+        "word": "怀念张国荣",
+        "onboard_time": 1711953080,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 140730,
+        "num": 140730,
+        "word": "成毅被前经纪公司起诉",
+        "onboard_time": 1711953259,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 136641,
+        "num": 136641,
+        "word": "二次元公司的内斗方式",
+        "onboard_time": 1711953020,
+        "rank": 47,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 134982,
+        "num": 134982,
+        "word": "陈少熙火了",
+        "onboard_time": 1711940477,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 132631,
+        "num": 132631,
+        "word": "女性对人狗关系的影响其实更大",
+        "onboard_time": 1711949302,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#要把为民造福作为最重要的政绩#"
+    }
+  }
+}
