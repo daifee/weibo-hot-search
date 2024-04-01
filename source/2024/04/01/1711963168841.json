@@ -1,0 +1,410 @@
+{
+  "runTime": 1711963168841,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1097527,
+        "num": 1097527,
+        "word": "法院认定郑爽无财产可供执行",
+        "onboard_time": 1711946724,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 821922,
+        "num": 821922,
+        "word": "茶百道 进不去",
+        "onboard_time": 1711956560,
+        "rank": 1,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 147916,
+        "num": 811219,
+        "word": "雄安新区7岁了",
+        "onboard_time": 1711956500,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 803602,
+        "num": 803602,
+        "word": "韩商言 张元英转圈",
+        "onboard_time": 1711960161,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 599963,
+        "num": 599963,
+        "word": "躁郁症比抑郁症更严重",
+        "onboard_time": 1711961480,
+        "rank": 4,
+        "category": "健康医疗,科学科普"
+      },
+      {
+        "raw_hot": 597956,
+        "num": 597956,
+        "word": "开封王婆说媒现在变味了",
+        "onboard_time": 1711957159,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 523626,
+        "num": 523626,
+        "word": "张颂文参加婚礼吃上肘子",
+        "onboard_time": 1711952660,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 484892,
+        "num": 484892,
+        "word": "旅日大熊猫爽爽死亡",
+        "onboard_time": 1711950321,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 460818,
+        "num": 460818,
+        "word": "为什么高铁上跳过了E直接是F座",
+        "onboard_time": 1711952840,
+        "rank": 8,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 443943,
+        "num": 443943,
+        "word": "一百家站姐发了陈都灵",
+        "onboard_time": 1711954339,
+        "rank": 9,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 733370,
+        "num": 443073,
+        "word": "最癫站姐",
+        "onboard_time": 1711942461,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 653619,
+        "num": 442925,
+        "word": "官宣忘记屏蔽妈妈了",
+        "onboard_time": 1711960762,
+        "rank": 11,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 441179,
+        "num": 441179,
+        "word": "TFBOYS站姐愚人节团建",
+        "onboard_time": 1711959681,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 416337,
+        "num": 416337,
+        "word": "李汶翰 BOSS直聘",
+        "onboard_time": 1711957579,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 393426,
+        "num": 393426,
+        "word": "羊幂无语",
+        "onboard_time": 1711959080,
+        "rank": 14,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 356648,
+        "num": 356648,
+        "word": "特斯拉宣布原价1.2万星空灰车漆免费",
+        "onboard_time": 1711945224,
+        "rank": 15,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 313287,
+        "num": 313287,
+        "word": "南昌强对流天气已致4死10余人伤",
+        "onboard_time": 1711952241,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 479382,
+        "num": 310340,
+        "word": "雷军妻子罕见露面",
+        "onboard_time": 1711960521,
+        "rank": 17,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 307374,
+        "num": 307374,
+        "word": "张元英生图",
+        "onboard_time": 1711949482,
+        "rank": 18,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 254170,
+        "num": 283440,
+        "word": "美国强生一款心脏泵致49人死亡",
+        "onboard_time": 1711956201,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 659268,
+        "num": 282830,
+        "word": "存了12万被妈妈一年花完了",
+        "onboard_time": 1711960341,
+        "rank": 20,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 280012,
+        "num": 280012,
+        "word": "新版赵灵儿 古装叶文洁",
+        "onboard_time": 1711960762,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 275752,
+        "num": 275752,
+        "word": "刚领证发现老公欠了15万",
+        "onboard_time": 1711946185,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 272222,
+        "num": 272222,
+        "word": "杨幂美人鱼表白",
+        "onboard_time": 1711962440,
+        "rank": 23,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 251584,
+        "num": 251584,
+        "word": "明日方舟",
+        "onboard_time": 1711962380,
+        "rank": 24,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 238984,
+        "num": 238984,
+        "word": "家人因债务拒绝继承价值400万别墅",
+        "onboard_time": 1711958900,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 238351,
+        "num": 238351,
+        "word": "张若昀站姐发了赵丽颖",
+        "onboard_time": 1711956140,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 236660,
+        "num": 236660,
+        "word": "南昌突发强对流天气3人坠楼身亡",
+        "onboard_time": 1711941978,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 225127,
+        "num": 225127,
+        "word": "车企降价",
+        "onboard_time": 1711959321,
+        "rank": 28,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 110782,
+        "num": 211410,
+        "word": "中方坚定支持巴方严惩恐袭凶手及主使",
+        "onboard_time": 1711956380,
+        "rank": 29,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 571328,
+        "num": 209364,
+        "word": "张艺兴站姐 鹿晗",
+        "onboard_time": 1711961660,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 602480,
+        "num": 209030,
+        "word": "微信崩了",
+        "onboard_time": 1711962560,
+        "rank": 31,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 206911,
+        "num": 206911,
+        "word": "新生蔡元培莫言被北大拟录取",
+        "onboard_time": 1711961782,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 203264,
+        "num": 203264,
+        "word": "建议留学生在国外不要随意讲中文",
+        "onboard_time": 1711959500,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 181347,
+        "num": 181347,
+        "word": "成毅被前经纪公司起诉",
+        "onboard_time": 1711953259,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 179621,
+        "num": 179621,
+        "word": "霉霉眼中的自己vs实际上的",
+        "onboard_time": 1711961961,
+        "rank": 35,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 179602,
+        "num": 179602,
+        "word": "发现自己越来越喜欢去公园了",
+        "onboard_time": 1711961001,
+        "rank": 36,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 174014,
+        "num": 174014,
+        "word": "李汶翰让站姐入职",
+        "onboard_time": 1711962620,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 159620,
+        "num": 159620,
+        "word": "回到小县城的人现在怎样了",
+        "onboard_time": 1711961720,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 190872,
+        "num": 159573,
+        "word": "付辛博站姐发了井柏然",
+        "onboard_time": 1711962141,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 157247,
+        "num": 157247,
+        "word": "原生家庭幸福的人是什么样子",
+        "onboard_time": 1711962740,
+        "rank": 40,
+        "category": "情感,电影"
+      },
+      {
+        "raw_hot": 152586,
+        "num": 152586,
+        "word": "同事没礼貌今天没忍住",
+        "onboard_time": 1711959741,
+        "rank": 41,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 152351,
+        "num": 152351,
+        "word": "牛春苗为什么没全国海选",
+        "onboard_time": 1711958181,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 146754,
+        "num": 146754,
+        "word": "81192",
+        "onboard_time": 1711935739,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 144686,
+        "num": 144686,
+        "word": "长生cos王昭君",
+        "onboard_time": 1711961841,
+        "rank": 44,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 139019,
+        "num": 139019,
+        "word": "发现找工作是有隐形成本的",
+        "onboard_time": 1711960040,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 135306,
+        "num": 135306,
+        "word": "八十家站姐发了迪丽热巴",
+        "onboard_time": 1711942940,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 131798,
+        "num": 131798,
+        "word": "承欢记定档",
+        "onboard_time": 1711958601,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 125916,
+        "num": 125916,
+        "word": "周雨彤 裸背",
+        "onboard_time": 1711955660,
+        "rank": 48,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 124573,
+        "num": 124573,
+        "word": "特斯拉FSD正式取消测试版标签",
+        "onboard_time": 1711962320,
+        "rank": 49,
+        "category": "汽车"
+      }
+    ],
+    "hotgov": {
+      "word": "#要把为民造福作为最重要的政绩#"
+    }
+  }
+}

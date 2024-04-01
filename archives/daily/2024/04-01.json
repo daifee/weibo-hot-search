@@ -1,6 +1,6 @@
 {
   "startTime": 1711902044401,
-  "endTime": 1711960632223,
+  "endTime": 1711963168841,
   "band_list": [
     {
       "raw_hot": 12825415,
@@ -275,12 +275,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 821922,
+      "num": 821922,
+      "word": "茶百道 进不去",
+      "onboard_time": 1711956560,
+      "rank": 30,
+      "category": "美食"
+    },
+    {
       "raw_hot": 804827,
       "num": 804827,
       "word": "还好只上三天就放假了",
       "onboard_time": 1711932561,
       "rank": 13,
       "category": "情感"
+    },
+    {
+      "raw_hot": 803602,
+      "num": 803602,
+      "word": "韩商言 张元英转圈",
+      "onboard_time": 1711960161,
+      "rank": 25,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 790470,
@@ -321,14 +337,6 @@
       "onboard_time": 1711936278,
       "rank": 6,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 711398,
-      "num": 711398,
-      "word": "茶百道 进不去",
-      "onboard_time": 1711956560,
-      "rank": 30,
-      "category": "美食"
     },
     {
       "raw_hot": 709112,
@@ -377,6 +385,22 @@
       "onboard_time": 1711947204,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 659268,
+      "num": 282830,
+      "word": "存了12万被妈妈一年花完了",
+      "onboard_time": 1711960341,
+      "rank": 20,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 653619,
+      "num": 442925,
+      "word": "官宣忘记屏蔽妈妈了",
+      "onboard_time": 1711960762,
+      "rank": 11,
+      "category": "情感"
     },
     {
       "raw_hot": 646612,
@@ -435,11 +459,35 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 602480,
+      "num": 209030,
+      "word": "微信崩了",
+      "onboard_time": 1711962560,
+      "rank": 31,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 602298,
       "num": 602298,
       "word": "杨洋站姐",
       "onboard_time": 1711948643,
       "rank": 41,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 599963,
+      "num": 599963,
+      "word": "躁郁症比抑郁症更严重",
+      "onboard_time": 1711961480,
+      "rank": 4,
+      "category": "健康医疗,科学科普"
+    },
+    {
+      "raw_hot": 571328,
+      "num": 209364,
+      "word": "张艺兴站姐 鹿晗",
+      "onboard_time": 1711961660,
+      "rank": 30,
       "category": "艺人"
     },
     {
@@ -579,6 +627,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 479382,
+      "num": 310340,
+      "word": "雷军妻子罕见露面",
+      "onboard_time": 1711960521,
+      "rank": 39,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 477512,
       "num": 568105,
       "word": "一种娇妻文化似乎正在北美蔓延",
@@ -635,12 +691,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 439458,
-      "num": 282110,
-      "word": "存了12万被妈妈一年花完了",
-      "onboard_time": 1711960341,
-      "rank": 20,
-      "category": "幽默"
+      "raw_hot": 441179,
+      "num": 441179,
+      "word": "TFBOYS站姐愚人节团建",
+      "onboard_time": 1711959681,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 436467,
@@ -704,14 +760,6 @@
       "word": "张颂文参加婚礼合影",
       "onboard_time": 1711939638,
       "rank": 22,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 383692,
-      "num": 383692,
-      "word": "TFBOYS站姐愚人节团建",
-      "onboard_time": 1711959681,
-      "rank": 38,
       "category": "艺人"
     },
     {
@@ -955,6 +1003,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 280012,
+      "num": 280012,
+      "word": "新版赵灵儿 古装叶文洁",
+      "onboard_time": 1711960762,
+      "rank": 21,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 277748,
       "num": 277748,
       "word": "韩国总统首次就医改寻求妥协",
@@ -969,6 +1025,14 @@
       "onboard_time": 1711950142,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 272222,
+      "num": 272222,
+      "word": "杨幂美人鱼表白",
+      "onboard_time": 1711962440,
+      "rank": 23,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 270412,
@@ -1027,12 +1091,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 251522,
-      "num": 251522,
-      "word": "韩商言 张元英转圈",
-      "onboard_time": 1711960161,
-      "rank": 25,
-      "category": "作品衍生"
+      "raw_hot": 251584,
+      "num": 251584,
+      "word": "明日方舟",
+      "onboard_time": 1711962380,
+      "rank": 24,
+      "category": "游戏"
     },
     {
       "raw_hot": 243304,
@@ -1049,6 +1113,14 @@
       "onboard_time": 1711932500,
       "rank": 26,
       "category": "美食"
+    },
+    {
+      "raw_hot": 238984,
+      "num": 238984,
+      "word": "家人因债务拒绝继承价值400万别墅",
+      "onboard_time": 1711958900,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 237346,
@@ -1105,14 +1177,6 @@
       "onboard_time": 1711941560,
       "rank": 35,
       "category": "美食"
-    },
-    {
-      "raw_hot": 225027,
-      "num": 225027,
-      "word": "家人因债务拒绝继承价值400万别墅",
-      "onboard_time": 1711958900,
-      "rank": 31,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 224810,
@@ -1177,6 +1241,14 @@
       "onboard_time": 1711960221,
       "rank": 31,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 206911,
+      "num": 206911,
+      "word": "新生蔡元培莫言被北大拟录取",
+      "onboard_time": 1711961782,
+      "rank": 32,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 205452,
@@ -1244,7 +1316,7 @@
     },
     {
       "raw_hot": 201424,
-      "num": 208206,
+      "num": 211410,
       "word": "中方坚定支持巴方严惩恐袭凶手及主使",
       "onboard_time": 1711956380,
       "rank": 47,
@@ -1411,6 +1483,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 190872,
+      "num": 159573,
+      "word": "付辛博站姐发了井柏然",
+      "onboard_time": 1711962141,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 190799,
       "num": 190799,
       "word": "成毅站姐发的最强绿卡line",
@@ -1499,6 +1579,22 @@
       "category": "电影"
     },
     {
+      "raw_hot": 179621,
+      "num": 179621,
+      "word": "霉霉眼中的自己vs实际上的",
+      "onboard_time": 1711961961,
+      "rank": 35,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 179602,
+      "num": 179602,
+      "word": "发现自己越来越喜欢去公园了",
+      "onboard_time": 1711961001,
+      "rank": 36,
+      "category": "情感"
+    },
+    {
       "raw_hot": 179170,
       "num": 179170,
       "word": "王者荣耀",
@@ -1529,6 +1625,14 @@
       "onboard_time": 1711935497,
       "rank": 46,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 174014,
+      "num": 174014,
+      "word": "李汶翰让站姐入职",
+      "onboard_time": 1711962620,
+      "rank": 37,
+      "category": "艺人"
     },
     {
       "raw_hot": 173737,
@@ -1659,12 +1763,28 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 159620,
+      "num": 159620,
+      "word": "回到小县城的人现在怎样了",
+      "onboard_time": 1711961720,
+      "rank": 38,
+      "category": "情感"
+    },
+    {
       "raw_hot": 159165,
       "num": 159165,
       "word": "你家里床单多久换一次",
       "onboard_time": 1711902197,
       "rank": 27,
       "category": "情感"
+    },
+    {
+      "raw_hot": 157247,
+      "num": 157247,
+      "word": "原生家庭幸福的人是什么样子",
+      "onboard_time": 1711962740,
+      "rank": 40,
+      "category": "情感,电影"
     },
     {
       "raw_hot": 156896,
@@ -1689,14 +1809,6 @@
       "onboard_time": 1711954041,
       "rank": 41,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 155055,
-      "num": 155055,
-      "word": "雷军妻子罕见露面",
-      "onboard_time": 1711960521,
-      "rank": 39,
-      "category": "汽车"
     },
     {
       "raw_hot": 153181,
@@ -1747,6 +1859,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 147916,
+      "num": 900278,
+      "word": "雄安新区7岁了",
+      "onboard_time": 1711956500,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 147825,
       "num": 147825,
       "word": "最美是人间四月的天",
@@ -1795,6 +1915,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 144686,
+      "num": 144686,
+      "word": "长生cos王昭君",
+      "onboard_time": 1711961841,
+      "rank": 44,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 143436,
       "num": 143436,
       "word": "樱木花道",
@@ -1809,14 +1937,6 @@
       "onboard_time": 1711935198,
       "rank": 42,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 138773,
-      "num": 900278,
-      "word": "雄安新区7岁了",
-      "onboard_time": 1711956500,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 137935,
@@ -1897,6 +2017,14 @@
       "onboard_time": 1711901118,
       "rank": 39,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 124573,
+      "num": 124573,
+      "word": "特斯拉FSD正式取消测试版标签",
+      "onboard_time": 1711962320,
+      "rank": 49,
+      "category": "汽车"
     },
     {
       "raw_hot": 123951,
