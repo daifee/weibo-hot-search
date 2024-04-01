@@ -1,0 +1,410 @@
+{
+  "runTime": 1711946100397,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 12825415,
+        "num": 13782154,
+        "word": "重庆一小孩被扔下高楼",
+        "onboard_time": 1711941680,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2097146,
+        "num": 2097146,
+        "word": "81192",
+        "onboard_time": 1711935739,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 233934,
+        "num": 1257977,
+        "word": "有一种叫云南的生活",
+        "onboard_time": 1711943841,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1255122,
+        "num": 1255122,
+        "word": "八十家站姐发了迪丽热巴",
+        "onboard_time": 1711942940,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 2947462,
+        "num": 1201274,
+        "word": "重庆扔小孩案第二名孩子没事",
+        "onboard_time": 1711944082,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 932871,
+        "num": 932871,
+        "word": "南昌突发强对流天气3人坠楼身亡",
+        "onboard_time": 1711941978,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 738115,
+        "num": 738115,
+        "word": "凤凰传奇抢票",
+        "onboard_time": 1711941200,
+        "rank": 6,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 719262,
+        "num": 719262,
+        "word": "愚人节站姐团建",
+        "onboard_time": 1711890498,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 492289,
+        "num": 492289,
+        "word": "陈少熙火了",
+        "onboard_time": 1711940477,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 438838,
+        "num": 438838,
+        "word": "19岁女生和41岁阿姨处成闺蜜",
+        "onboard_time": 1711936938,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1881608,
+        "num": 437928,
+        "word": "最癫站姐",
+        "onboard_time": 1711942461,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1178076,
+        "num": 428863,
+        "word": "重庆警方通报一女子高空抛子",
+        "onboard_time": 1711945344,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 439144,
+        "num": 424070,
+        "word": "决战站姐之巅",
+        "onboard_time": 1711936399,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 414428,
+        "num": 414428,
+        "word": "白月光沈翊回归了",
+        "onboard_time": 1711942882,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 489146,
+        "num": 412996,
+        "word": "扔小孩女子疑似精神行为异常",
+        "onboard_time": 1711945585,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 407321,
+        "num": 407321,
+        "word": "成都致2死司机事发后动作怪异",
+        "onboard_time": 1711933640,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 403236,
+        "num": 403236,
+        "word": "乳腺增生真是豆浆惹的祸吗",
+        "onboard_time": 1711931959,
+        "rank": 16,
+        "category": "科学科普,健康医疗"
+      },
+      {
+        "raw_hot": 450321,
+        "num": 395863,
+        "word": "重庆从22楼扔小孩女子被警方带走",
+        "onboard_time": 1711945464,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 378528,
+        "num": 378528,
+        "word": "杨迪 一年一度当流量的日子",
+        "onboard_time": 1711943782,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 353983,
+        "num": 353983,
+        "word": "妈妈澄清欧阳娣娣名字由来",
+        "onboard_time": 1711945946,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 718527,
+        "num": 350699,
+        "word": "男朋友把我们隐私照发朋友圈",
+        "onboard_time": 1711937000,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 488928,
+        "num": 350236,
+        "word": "婆婆请吊车将生产完的儿媳送上楼",
+        "onboard_time": 1711944744,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 389602,
+        "num": 348541,
+        "word": "重庆警方回应小孩被扔下高楼",
+        "onboard_time": 1711942100,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 343312,
+        "num": 343312,
+        "word": "萌探2024官宣",
+        "onboard_time": 1711945344,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 329510,
+        "num": 329510,
+        "word": "还好只上三天就放假了",
+        "onboard_time": 1711932561,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 325647,
+        "num": 325647,
+        "word": "赵露思 澳门鬼迷日眼的照片",
+        "onboard_time": 1711892780,
+        "rank": 25,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 100142,
+        "num": 313016,
+        "word": "成都惊现越狱熊猫",
+        "onboard_time": 1711943002,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 307471,
+        "num": 307471,
+        "word": "杨幂站姐发金鹤龙了",
+        "onboard_time": 1711945585,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 284591,
+        "num": 284591,
+        "word": "李昀锐站姐发了黄曦彦黄子琪",
+        "onboard_time": 1711945104,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 281215,
+        "num": 281215,
+        "word": "宁静吐槽李菲儿",
+        "onboard_time": 1711932259,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 431558,
+        "num": 279762,
+        "word": "特斯拉宣布原价1.2万星空灰车漆免费",
+        "onboard_time": 1711945224,
+        "rank": 30,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 277882,
+        "num": 277882,
+        "word": "代号鸢 跑路",
+        "onboard_time": 1711926675,
+        "rank": 31,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 275257,
+        "num": 275257,
+        "word": "迈巴赫",
+        "onboard_time": 1711935257,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 268579,
+        "num": 268579,
+        "word": "352名缅北电诈嫌疑人移交中方",
+        "onboard_time": 1711943902,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 257428,
+        "num": 257428,
+        "word": "Epic愚人节宣布收购Steam",
+        "onboard_time": 1711942940,
+        "rank": 34,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 254083,
+        "num": 254083,
+        "word": "规培医生不该成为廉价劳动力",
+        "onboard_time": 1711941380,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 252167,
+        "num": 252167,
+        "word": "李汶翰 乐华娱乐",
+        "onboard_time": 1711945946,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 241373,
+        "num": 241373,
+        "word": "新浪娱乐头像",
+        "onboard_time": 1711937599,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 235776,
+        "num": 235776,
+        "word": "男子送外卖供女友上大学后分手",
+        "onboard_time": 1711945045,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 232604,
+        "num": 232604,
+        "word": "重庆一小孩被扔下高楼涉事住户正做笔录",
+        "onboard_time": 1711945765,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 228111,
+        "num": 228111,
+        "word": "每天通勤几十公里可能被视为营运车",
+        "onboard_time": 1711937181,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 224810,
+        "num": 224810,
+        "word": "大家都是罗伯特",
+        "onboard_time": 1711945704,
+        "rank": 41,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 218288,
+        "num": 218288,
+        "word": "本想免费试用结果被扣一年会员费",
+        "onboard_time": 1711931360,
+        "rank": 42,
+        "category": "互联网,社会新闻"
+      },
+      {
+        "raw_hot": 214702,
+        "num": 214702,
+        "word": "张颂文参加婚礼合影",
+        "onboard_time": 1711939638,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 211030,
+        "num": 211030,
+        "word": "每个研究生身上都有导师的影子",
+        "onboard_time": 1711939218,
+        "rank": 44,
+        "category": "教育,幽默"
+      },
+      {
+        "raw_hot": 196042,
+        "num": 196042,
+        "word": "结婚的婚纱被婆婆剪了",
+        "onboard_time": 1711932739,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 31463,
+        "num": 194152,
+        "word": "最大的奥迪",
+        "onboard_time": 1711941500,
+        "rank": 46,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 193373,
+        "num": 193373,
+        "word": "小米汽车",
+        "onboard_time": 1711945825,
+        "rank": 47,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 192365,
+        "num": 192365,
+        "word": "我并不喜欢你的玩笑话",
+        "onboard_time": 1711946064,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 191843,
+        "num": 191843,
+        "word": "马斯克称AI毁灭人类的可能性为20%",
+        "onboard_time": 1711944682,
+        "rank": 49,
+        "category": "科学科普,互联网"
+      }
+    ],
+    "hotgov": {
+      "word": "#雄安新区要靠生态环境来体现价值增加吸引力#"
+    }
+  }
+}

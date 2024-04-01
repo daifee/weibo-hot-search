@@ -1,13 +1,21 @@
 {
   "startTime": 1711902044401,
-  "endTime": 1711945265501,
+  "endTime": 1711946100397,
   "band_list": [
     {
-      "raw_hot": 11342348,
-      "num": 12592348,
+      "raw_hot": 12825415,
+      "num": 13782154,
       "word": "重庆一小孩被扔下高楼",
       "onboard_time": 1711941680,
       "rank": 1,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2947462,
+      "num": 1201274,
+      "word": "重庆扔小孩案第二名孩子没事",
+      "onboard_time": 1711944082,
+      "rank": 11,
       "category": "社会新闻"
     },
     {
@@ -33,14 +41,6 @@
       "onboard_time": 1711942461,
       "rank": 45,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1508210,
-      "num": 532507,
-      "word": "重庆扔小孩案第二名孩子没事",
-      "onboard_time": 1711944082,
-      "rank": 11,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1439282,
@@ -80,6 +80,14 @@
       "word": "19岁女生和41岁阿姨处成闺蜜",
       "onboard_time": 1711936938,
       "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1178076,
+      "num": 428863,
+      "word": "重庆警方通报一女子高空抛子",
+      "onboard_time": 1711945344,
+      "rank": 11,
       "category": "社会新闻"
     },
     {
@@ -195,6 +203,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 738115,
+      "num": 738115,
+      "word": "凤凰传奇抢票",
+      "onboard_time": 1711941200,
+      "rank": 41,
+      "category": "演出"
+    },
+    {
       "raw_hot": 737606,
       "num": 737606,
       "word": "问界M7降价2万元",
@@ -217,14 +233,6 @@
       "onboard_time": 1711902258,
       "rank": 14,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 672703,
-      "num": 672703,
-      "word": "凤凰传奇抢票",
-      "onboard_time": 1711941200,
-      "rank": 41,
-      "category": "演出"
     },
     {
       "raw_hot": 672066,
@@ -347,6 +355,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 489146,
+      "num": 412996,
+      "word": "扔小孩女子疑似精神行为异常",
+      "onboard_time": 1711945585,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 488928,
+      "num": 350236,
+      "word": "婆婆请吊车将生产完的儿媳送上楼",
+      "onboard_time": 1711944744,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 485469,
       "num": 485469,
       "word": "眼泪女王 宋仲基",
@@ -387,6 +411,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 450321,
+      "num": 395863,
+      "word": "重庆从22楼扔小孩女子被警方带走",
+      "onboard_time": 1711945464,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 449939,
       "num": 449939,
       "word": "3岁男童走失狗狗在山上陪了一夜",
@@ -409,6 +441,14 @@
       "onboard_time": 1711942882,
       "rank": 16,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 431558,
+      "num": 279762,
+      "word": "特斯拉宣布原价1.2万星空灰车漆免费",
+      "onboard_time": 1711945224,
+      "rank": 38,
+      "category": "汽车"
     },
     {
       "raw_hot": 415659,
@@ -451,6 +491,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 378528,
+      "num": 378528,
+      "word": "杨迪 一年一度当流量的日子",
+      "onboard_time": 1711943782,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 371777,
       "num": 565200,
       "word": "莎头",
@@ -491,12 +539,12 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 356662,
-      "num": 356662,
-      "word": "杨迪 一年一度当流量的日子",
-      "onboard_time": 1711943782,
+      "raw_hot": 353983,
+      "num": 353983,
+      "word": "妈妈澄清欧阳娣娣名字由来",
+      "onboard_time": 1711945946,
       "rank": 19,
-      "category": "艺人"
+      "category": "综艺"
     },
     {
       "raw_hot": 347499,
@@ -505,6 +553,14 @@
       "onboard_time": 1711940541,
       "rank": 26,
       "category": "电影"
+    },
+    {
+      "raw_hot": 343312,
+      "num": 343312,
+      "word": "萌探2024官宣",
+      "onboard_time": 1711945344,
+      "rank": 23,
+      "category": "综艺"
     },
     {
       "raw_hot": 327009,
@@ -529,6 +585,14 @@
       "onboard_time": 1711903636,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 307471,
+      "num": 307471,
+      "word": "杨幂站姐发金鹤龙了",
+      "onboard_time": 1711945585,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 305522,
@@ -571,6 +635,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 284591,
+      "num": 284591,
+      "word": "李昀锐站姐发了黄曦彦黄子琪",
+      "onboard_time": 1711945104,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 270412,
       "num": 270412,
       "word": "成都警方回应迈巴赫撞倒多人",
@@ -587,20 +659,20 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 262949,
-      "num": 262949,
-      "word": "婆婆请吊车将生产完的儿媳送上楼",
-      "onboard_time": 1711944744,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 260447,
       "num": 260447,
       "word": "呼叫81192",
       "onboard_time": 1711926557,
       "rank": 24,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 252167,
+      "num": 252167,
+      "word": "李汶翰 乐华娱乐",
+      "onboard_time": 1711945946,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 239250,
@@ -619,6 +691,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 235776,
+      "num": 235776,
+      "word": "男子送外卖供女友上大学后分手",
+      "onboard_time": 1711945045,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 235422,
       "num": 235422,
       "word": "iPhoneSE4手机壳曝光",
@@ -627,12 +707,28 @@
       "category": "数码"
     },
     {
+      "raw_hot": 233934,
+      "num": 1564788,
+      "word": "有一种叫云南的生活",
+      "onboard_time": 1711943841,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 232920,
       "num": 232920,
       "word": "问界",
       "onboard_time": 1711940541,
       "rank": 32,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 232604,
+      "num": 232604,
+      "word": "重庆一小孩被扔下高楼涉事住户正做笔录",
+      "onboard_time": 1711945765,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 231434,
@@ -649,6 +745,14 @@
       "onboard_time": 1711941560,
       "rank": 35,
       "category": "美食"
+    },
+    {
+      "raw_hot": 224810,
+      "num": 224810,
+      "word": "大家都是罗伯特",
+      "onboard_time": 1711945704,
+      "rank": 41,
+      "category": "互联网"
     },
     {
       "raw_hot": 220827,
@@ -691,28 +795,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 208291,
-      "num": 1564788,
-      "word": "有一种叫云南的生活",
-      "onboard_time": 1711943841,
-      "rank": 2,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 208274,
       "num": 208274,
       "word": "变身罗伯特",
       "onboard_time": 1711939879,
       "rank": 35,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 207946,
-      "num": 207946,
-      "word": "特斯拉宣布原价1.2万星空灰车漆免费",
-      "onboard_time": 1711945224,
-      "rank": 38,
-      "category": "汽车"
     },
     {
       "raw_hot": 203381,
@@ -819,6 +907,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 193373,
+      "num": 193373,
+      "word": "小米汽车",
+      "onboard_time": 1711945825,
+      "rank": 47,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 192807,
       "num": 192807,
       "word": "深夜看见这种诡异蓝光请立刻报警",
@@ -835,20 +931,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 192365,
+      "num": 192365,
+      "word": "我并不喜欢你的玩笑话",
+      "onboard_time": 1711946064,
+      "rank": 48,
+      "category": "情感"
+    },
+    {
       "raw_hot": 191431,
       "num": 191431,
       "word": "人间四月天",
       "onboard_time": 1711941140,
       "rank": 39,
       "category": "情感"
-    },
-    {
-      "raw_hot": 184479,
-      "num": 184479,
-      "word": "李昀锐站姐发了黄曦彦黄子琪",
-      "onboard_time": 1711945104,
-      "rank": 43,
-      "category": "艺人"
     },
     {
       "raw_hot": 184351,
@@ -913,14 +1009,6 @@
       "onboard_time": 1711891820,
       "rank": 24,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 169106,
-      "num": 169106,
-      "word": "男子送外卖供女友上大学后分手",
-      "onboard_time": 1711945045,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 168630,
@@ -1187,6 +1275,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 100142,
+      "num": 313016,
+      "word": "成都惊现越狱熊猫",
+      "onboard_time": 1711943002,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 98046,
       "num": 98046,
       "word": "人民海军75周岁",
@@ -1217,14 +1313,6 @@
       "onboard_time": 1711941500,
       "rank": 47,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 79549,
-      "num": 302369,
-      "word": "成都惊现越狱熊猫",
-      "onboard_time": 1711943002,
-      "rank": 27,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 76275,
@@ -1393,6 +1481,9 @@
     },
     {
       "word": "#不断提升作品的精神能量文化内涵艺术价值#"
+    },
+    {
+      "word": "#雄安新区要靠生态环境来体现价值增加吸引力#"
     }
   ]
 }
