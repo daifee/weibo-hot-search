@@ -1,6 +1,6 @@
 {
   "startTime": 1711815680412,
-  "endTime": 1711938672865,
+  "endTime": 1711939312530,
   "band_list": [
     {
       "raw_hot": 2776736,
@@ -251,6 +251,14 @@
       "category": "互联网,社会新闻"
     },
     {
+      "raw_hot": 993951,
+      "num": 527779,
+      "word": "决战站姐之巅",
+      "onboard_time": 1711936399,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 967666,
       "num": 967666,
       "word": "宁静吐槽李菲儿",
@@ -315,16 +323,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 875137,
-      "num": 527779,
-      "word": "决战站姐之巅",
-      "onboard_time": 1711936399,
-      "rank": 12,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 834392,
-      "num": 313104,
+      "raw_hot": 860850,
+      "num": 352182,
       "word": "男朋友把我们隐私照发朋友圈",
       "onboard_time": 1711937000,
       "rank": 20,
@@ -523,6 +523,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 644722,
+      "num": 644722,
+      "word": "19岁女生和41岁阿姨处成闺蜜",
+      "onboard_time": 1711936938,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 643061,
       "num": 643061,
       "word": "郝蕾说纪凌尘就是实力不够",
@@ -675,8 +683,8 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 532847,
-      "num": 532847,
+      "raw_hot": 534234,
+      "num": 534234,
       "word": "一批30岁青年不再租房",
       "onboard_time": 1711936278,
       "rank": 9,
@@ -891,6 +899,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 480001,
+      "num": 480001,
+      "word": "成都迈巴赫肇事司机已被控制",
+      "onboard_time": 1711935979,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 477512,
       "num": 786669,
       "word": "一种娇妻文化似乎正在北美蔓延",
@@ -971,14 +987,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 442220,
-      "num": 442220,
-      "word": "19岁女生和41岁阿姨处成闺蜜",
-      "onboard_time": 1711936938,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 441886,
       "num": 441886,
       "word": "孙颖莎状态",
@@ -1017,6 +1025,14 @@
       "onboard_time": 1711851076,
       "rank": 21,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 428936,
+      "num": 428936,
+      "word": "每天通勤几十公里可能被视为营运车",
+      "onboard_time": 1711937181,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 422709,
@@ -1115,14 +1131,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 383393,
-      "num": 383393,
-      "word": "成都迈巴赫肇事司机已被控制",
-      "onboard_time": 1711935979,
-      "rank": 16,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 381425,
       "num": 381425,
       "word": "雷军张颂文 霸道总裁爱上我",
@@ -1171,6 +1179,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 369586,
+      "num": 369586,
+      "word": "宋亚轩站姐发了肖战",
+      "onboard_time": 1711938379,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 366559,
       "num": 366559,
       "word": "当了四年后爸第一次被女儿喊爸",
@@ -1193,6 +1209,14 @@
       "onboard_time": 1711869797,
       "rank": 25,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 363211,
+      "num": 363211,
+      "word": "新浪娱乐头像",
+      "onboard_time": 1711937599,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 361694,
@@ -1259,14 +1283,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 332130,
-      "num": 332130,
-      "word": "新浪娱乐头像",
-      "onboard_time": 1711937599,
-      "rank": 18,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 328323,
       "num": 328323,
       "word": "眼泪女王收视率",
@@ -1315,14 +1331,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 313637,
-      "num": 313637,
-      "word": "每天通勤几十公里可能被视为营运车",
-      "onboard_time": 1711937181,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 312759,
       "num": 254370,
       "word": "账号零作品却涨粉400万背后故事看哭全网",
@@ -1361,6 +1369,14 @@
       "onboard_time": 1711866377,
       "rank": 14,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 308373,
+      "num": 308373,
+      "word": "金价",
+      "onboard_time": 1711938438,
+      "rank": 40,
+      "category": "财经"
     },
     {
       "raw_hot": 307865,
@@ -1475,20 +1491,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 291649,
+      "num": 291649,
+      "word": "这种体态真的很好改善",
+      "onboard_time": 1711934837,
+      "rank": 30,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 290441,
       "num": 289513,
       "word": "沈璃复活",
       "onboard_time": 1711893800,
       "rank": 25,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 290284,
-      "num": 290284,
-      "word": "这种体态真的很好改善",
-      "onboard_time": 1711934837,
-      "rank": 30,
-      "category": "运动健身"
     },
     {
       "raw_hot": 286269,
@@ -1504,14 +1520,6 @@
       "word": "陈乔恩晒照纪念结婚两周年",
       "onboard_time": 1711901060,
       "rank": 21,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 284781,
-      "num": 284781,
-      "word": "宋亚轩站姐发了肖战",
-      "onboard_time": 1711938379,
-      "rank": 24,
       "category": "艺人"
     },
     {
@@ -1803,6 +1811,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 235422,
+      "num": 235422,
+      "word": "iPhoneSE4手机壳曝光",
+      "onboard_time": 1711938258,
+      "rank": 36,
+      "category": "数码"
+    },
+    {
       "raw_hot": 235388,
       "num": 223847,
       "word": "年轻人靠穿戴甲月入8万",
@@ -1921,6 +1937,14 @@
       "onboard_time": 1711932561,
       "rank": 31,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 219106,
+      "num": 219106,
+      "word": "她嗑生嗑死他磕昏了",
+      "onboard_time": 1711938919,
+      "rank": 29,
+      "category": "剧集"
     },
     {
       "raw_hot": 218525,
@@ -2323,6 +2347,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 191662,
+      "num": 191662,
+      "word": "每个研究生身上都有导师的影子",
+      "onboard_time": 1711939218,
+      "rank": 33,
+      "category": "教育,幽默"
+    },
+    {
       "raw_hot": 191360,
       "num": 191360,
       "word": "北京WBG周冠军",
@@ -2507,14 +2539,6 @@
       "category": "科学科普,健康医疗"
     },
     {
-      "raw_hot": 178908,
-      "num": 178908,
-      "word": "iPhoneSE4手机壳曝光",
-      "onboard_time": 1711938258,
-      "rank": 36,
-      "category": "数码"
-    },
-    {
       "raw_hot": 178721,
       "num": 178721,
       "word": "弟弟的床头柜挺潮的",
@@ -2635,6 +2659,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 168895,
+      "num": 168895,
+      "word": "中金公司人均薪酬两年缩水近40%",
+      "onboard_time": 1711939038,
+      "rank": 38,
+      "category": "财经"
+    },
+    {
       "raw_hot": 168324,
       "num": 168324,
       "word": "难道工作不就是为了钱吗",
@@ -2729,14 +2761,6 @@
       "onboard_time": 1711929739,
       "rank": 38,
       "category": "动漫,作品衍生"
-    },
-    {
-      "raw_hot": 162391,
-      "num": 162391,
-      "word": "金价",
-      "onboard_time": 1711938438,
-      "rank": 40,
-      "category": "财经"
     },
     {
       "raw_hot": 161151,
@@ -3569,6 +3593,14 @@
       "onboard_time": 1711810700,
       "rank": 38,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 103143,
+      "num": 123837,
+      "word": "极氪007增强版上市",
+      "onboard_time": 1711939159,
+      "rank": 49,
+      "category": "汽车"
     },
     {
       "raw_hot": 102125,
