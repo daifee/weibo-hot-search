@@ -1,6 +1,6 @@
 {
   "startTime": 1711815680412,
-  "endTime": 1711963168841,
+  "endTime": 1711964070314,
   "band_list": [
     {
       "raw_hot": 12825415,
@@ -251,6 +251,14 @@
       "category": "健康医疗,科学科普"
     },
     {
+      "raw_hot": 1232235,
+      "num": 209030,
+      "word": "微信崩了",
+      "onboard_time": 1711962560,
+      "rank": 31,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 1210558,
       "num": 538791,
       "word": "迈巴赫",
@@ -355,6 +363,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 1031688,
+      "num": 442925,
+      "word": "官宣忘记屏蔽妈妈了",
+      "onboard_time": 1711960762,
+      "rank": 11,
+      "category": "情感"
+    },
+    {
       "raw_hot": 1029668,
       "num": 1029668,
       "word": "张颂文参加婚礼吃上肘子",
@@ -435,6 +451,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 927333,
+      "num": 927333,
+      "word": "韩商言 张元英转圈",
+      "onboard_time": 1711960161,
+      "rank": 25,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 907383,
       "num": 587953,
       "word": "成都",
@@ -491,6 +515,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 830545,
+      "num": 830545,
+      "word": "躁郁症比抑郁症更严重",
+      "onboard_time": 1711961480,
+      "rank": 4,
+      "category": "健康医疗,科学科普"
+    },
+    {
       "raw_hot": 824314,
       "num": 824314,
       "word": "陈震回应删除与雷军合照",
@@ -545,14 +577,6 @@
       "onboard_time": 1711872077,
       "rank": 5,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 803602,
-      "num": 803602,
-      "word": "韩商言 张元英转圈",
-      "onboard_time": 1711960161,
-      "rank": 25,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 792888,
@@ -739,14 +763,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 653619,
-      "num": 442925,
-      "word": "官宣忘记屏蔽妈妈了",
-      "onboard_time": 1711960762,
-      "rank": 11,
-      "category": "情感"
-    },
-    {
       "raw_hot": 651815,
       "num": 651815,
       "word": "李冰冰周也 大花小花",
@@ -859,28 +875,12 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 602480,
-      "num": 209030,
-      "word": "微信崩了",
-      "onboard_time": 1711962560,
-      "rank": 31,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 602298,
       "num": 602298,
       "word": "杨洋站姐",
       "onboard_time": 1711948643,
       "rank": 41,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 599963,
-      "num": 599963,
-      "word": "躁郁症比抑郁症更严重",
-      "onboard_time": 1711961480,
-      "rank": 4,
-      "category": "健康医疗,科学科普"
     },
     {
       "raw_hot": 596495,
@@ -961,6 +961,14 @@
       "onboard_time": 1711938438,
       "rank": 40,
       "category": "财经"
+    },
+    {
+      "raw_hot": 552622,
+      "num": 552622,
+      "word": "新生蔡元培莫言被北大拟录取",
+      "onboard_time": 1711961782,
+      "rank": 32,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 543477,
@@ -1443,6 +1451,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 426766,
+      "num": 426766,
+      "word": "杨幂美人鱼表白",
+      "onboard_time": 1711962440,
+      "rank": 23,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 422989,
       "num": 422989,
       "word": "周雨彤 裸背",
@@ -1529,6 +1545,14 @@
       "onboard_time": 1711938919,
       "rank": 29,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 394591,
+      "num": 394591,
+      "word": "郑爽仍有上亿案款未履行",
+      "onboard_time": 1711963459,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 387610,
@@ -1649,6 +1673,14 @@
       "onboard_time": 1711930038,
       "rank": 22,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 368929,
+      "num": 368929,
+      "word": "南昌强对流天气已致4死10余人伤",
+      "onboard_time": 1711952241,
+      "rank": 32,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 366559,
@@ -1843,14 +1875,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 316988,
-      "num": 316988,
-      "word": "南昌强对流天气已致4死10余人伤",
-      "onboard_time": 1711952241,
-      "rank": 32,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 316342,
       "num": 316342,
       "word": "Epic愚人节宣布收购Steam",
@@ -1873,6 +1897,14 @@
       "onboard_time": 1711874657,
       "rank": 21,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 310250,
+      "num": 310250,
+      "word": "燥候TXT",
+      "onboard_time": 1711953380,
+      "rank": 18,
+      "category": "音乐"
     },
     {
       "raw_hot": 309467,
@@ -2187,14 +2219,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 272222,
-      "num": 272222,
-      "word": "杨幂美人鱼表白",
-      "onboard_time": 1711962440,
-      "rank": 23,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 271556,
       "num": 271556,
       "word": "seventeen回归",
@@ -2273,6 +2297,14 @@
       "onboard_time": 1711926557,
       "rank": 24,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 258328,
+      "num": 208553,
+      "word": "黄旭熙怎么又出道了",
+      "onboard_time": 1711963760,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 257875,
@@ -2483,6 +2515,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 235786,
+      "num": 203526,
+      "word": "陈都灵 仕女图",
+      "onboard_time": 1711963338,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 235422,
       "num": 235422,
       "word": "iPhoneSE4手机壳曝光",
@@ -2659,6 +2699,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 220817,
+      "num": 220817,
+      "word": "油价",
+      "onboard_time": 1711963281,
+      "rank": 19,
+      "category": "财经"
+    },
+    {
       "raw_hot": 218525,
       "num": 186143,
       "word": "原来恋爱脑真的不适合做饭",
@@ -2833,14 +2881,6 @@
       "onboard_time": 1711960221,
       "rank": 31,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 206911,
-      "num": 206911,
-      "word": "新生蔡元培莫言被北大拟录取",
-      "onboard_time": 1711961782,
-      "rank": 32,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 206512,
@@ -3259,6 +3299,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 189884,
+      "num": 189884,
+      "word": "原生家庭幸福的人是什么样子",
+      "onboard_time": 1711962740,
+      "rank": 40,
+      "category": "情感,电影"
+    },
+    {
       "raw_hot": 189660,
       "num": 189660,
       "word": "罗伯特 站姐们都是女英雄",
@@ -3603,6 +3651,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 173089,
+      "num": 173089,
+      "word": "雷军恳请各位口下留情",
+      "onboard_time": 1711963821,
+      "rank": 35,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 171934,
       "num": 171934,
       "word": "第五人格 ZETA",
@@ -3771,6 +3827,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 164110,
+      "num": 196279,
+      "word": "不想运动可能不是因为懒",
+      "onboard_time": 1711963520,
+      "rank": 29,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 164050,
       "num": 164050,
       "word": "尹净汉Weverse",
@@ -3801,6 +3865,14 @@
       "onboard_time": 1711859597,
       "rank": 48,
       "category": "电影"
+    },
+    {
+      "raw_hot": 160565,
+      "num": 160565,
+      "word": "嘴唇会随着年龄的增长而变薄",
+      "onboard_time": 1711963221,
+      "rank": 42,
+      "category": "科学科普"
     },
     {
       "raw_hot": 160247,
@@ -3843,12 +3915,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 157247,
-      "num": 157247,
-      "word": "原生家庭幸福的人是什么样子",
-      "onboard_time": 1711962740,
-      "rank": 40,
-      "category": "情感,电影"
+      "raw_hot": 157283,
+      "num": 157283,
+      "word": "建议打工人周末在公园待20分钟",
+      "onboard_time": 1711963580,
+      "rank": 43,
+      "category": "情感"
     },
     {
       "raw_hot": 157238,
@@ -4395,12 +4467,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 133724,
+      "num": 133724,
+      "word": "女生花钱找人改简历发现效果不如AI",
+      "onboard_time": 1711963760,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 133160,
       "num": 360592,
       "word": "极氪007增强版上市",
       "onboard_time": 1711939159,
       "rank": 49,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 132247,
+      "num": 132247,
+      "word": "兄弟你好香",
+      "onboard_time": 1711964060,
+      "rank": 47,
+      "category": "动漫,作品衍生"
     },
     {
       "raw_hot": 130859,
