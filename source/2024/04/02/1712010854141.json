@@ -1,0 +1,410 @@
+{
+  "runTime": 1712010854141,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 287375,
+        "num": 287375,
+        "word": "妈妈陪读十年将自闭症儿子培养成调律师",
+        "onboard_time": 1711984880,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 241246,
+        "num": 241246,
+        "word": "班主任辞职参军全班沸腾了",
+        "onboard_time": 1711980981,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2560,
+        "num": 182756,
+        "word": "万千气象看云南",
+        "onboard_time": 1711807280,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 169797,
+        "num": 169797,
+        "word": "冯绍峰谈到儿子眼圈红了",
+        "onboard_time": 1711979001,
+        "rank": 3,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 145487,
+        "num": 145487,
+        "word": "郑爽若故意隐瞒转移财产或被判刑3年",
+        "onboard_time": 1711968380,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 137995,
+        "num": 137995,
+        "word": "别再因为害羞放弃肛门指检了",
+        "onboard_time": 1711991834,
+        "rank": 5,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 96176,
+        "num": 96176,
+        "word": "新版赵灵儿 阴蚀王",
+        "onboard_time": 1711983322,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 93185,
+        "num": 93185,
+        "word": "90后小伙银行离职后在殡葬行业找到人生价值",
+        "onboard_time": 1711980021,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 86901,
+        "num": 86901,
+        "word": "最佳生育间隔是多久",
+        "onboard_time": 1711981701,
+        "rank": 8,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 63894,
+        "num": 63894,
+        "word": "王一博演技",
+        "onboard_time": 1711982181,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 289868,
+        "num": 63812,
+        "word": "女子睡觉被大风吹下11楼身亡",
+        "onboard_time": 1711971080,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 205295,
+        "num": 63138,
+        "word": "阿福朱莉离婚",
+        "onboard_time": 1711982002,
+        "rank": 11,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 171744,
+        "num": 62629,
+        "word": "为什么无性婚姻越来越多",
+        "onboard_time": 1711976478,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 160534,
+        "num": 62474,
+        "word": "提灯定损",
+        "onboard_time": 1712005511,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 127501,
+        "num": 61929,
+        "word": "于正 祝你也遇到法治咖",
+        "onboard_time": 1712000651,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 61673,
+        "num": 61673,
+        "word": "6个月婴儿雨夜爬上马路被接力守护",
+        "onboard_time": 1711969460,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 58968,
+        "num": 58968,
+        "word": "四川信托破产",
+        "onboard_time": 1711981042,
+        "rank": 16,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 57233,
+        "num": 57233,
+        "word": "迪丽热巴被摸手臂",
+        "onboard_time": 1711990334,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 56094,
+        "num": 56094,
+        "word": "生过和没生过孩子的都沉默了",
+        "onboard_time": 1711982781,
+        "rank": 18,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 42117,
+        "num": 42117,
+        "word": "烧伤女孩百万救命款一夜凑齐哥哥泪谢浙江",
+        "onboard_time": 1712003169,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 82811,
+        "num": 42015,
+        "word": "2天睡眠不足会让人感觉老了4岁",
+        "onboard_time": 1711988896,
+        "rank": 20,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 56453,
+        "num": 41509,
+        "word": "乳腺结节不疼更要警惕乳腺癌",
+        "onboard_time": 1712008391,
+        "rank": 21,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 53530,
+        "num": 41076,
+        "word": "女子豌杂面加香菜加到店家崩溃",
+        "onboard_time": 1711982901,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 48831,
+        "num": 40704,
+        "word": "这3种情况不建议洗澡",
+        "onboard_time": 1712004069,
+        "rank": 23,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 40608,
+        "num": 40608,
+        "word": "原来电话卡是有寿命的",
+        "onboard_time": 1711982781,
+        "rank": 24,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 39951,
+        "num": 39951,
+        "word": "玄彬孙艺珍出演眼泪女王",
+        "onboard_time": 1711975940,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 38364,
+        "num": 38364,
+        "word": "王艳贵女路透",
+        "onboard_time": 1712003411,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 37033,
+        "num": 37033,
+        "word": "站姐撞图",
+        "onboard_time": 1712006170,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 36754,
+        "num": 36754,
+        "word": "酒店拖鞋上这个洞有什么用",
+        "onboard_time": 1711977440,
+        "rank": 28,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 36568,
+        "num": 36568,
+        "word": "追风者 拿奖",
+        "onboard_time": 1711983322,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 65687,
+        "num": 36529,
+        "word": "微信崩了",
+        "onboard_time": 1711962560,
+        "rank": 30,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 41288,
+        "num": 36439,
+        "word": "东审未来倒闭声明",
+        "onboard_time": 1712007490,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 36108,
+        "num": 36108,
+        "word": "男性其实也有最佳生育年龄",
+        "onboard_time": 1711982301,
+        "rank": 32,
+        "category": "母婴育儿"
+      },
+      {
+        "raw_hot": 35893,
+        "num": 35893,
+        "word": "奥本海默日本上映观众情绪复杂",
+        "onboard_time": 1711995131,
+        "rank": 33,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 35495,
+        "num": 35495,
+        "word": "花间令结局",
+        "onboard_time": 1711970002,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 33137,
+        "num": 33137,
+        "word": "爸爸用排烟管给女儿做了一条粉色龙",
+        "onboard_time": 1711979602,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 32338,
+        "num": 32338,
+        "word": "赵丽颖给熊猫玩偶喂水",
+        "onboard_time": 1711982600,
+        "rank": 36,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 31486,
+        "num": 31486,
+        "word": "朋友整个孕期抽了48管血",
+        "onboard_time": 1711969701,
+        "rank": 37,
+        "category": "母婴育儿"
+      },
+      {
+        "raw_hot": 29833,
+        "num": 29833,
+        "word": "邓为站姐发了EXO",
+        "onboard_time": 1711976421,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 28858,
+        "num": 28858,
+        "word": "躁郁症比抑郁症更严重",
+        "onboard_time": 1711961480,
+        "rank": 39,
+        "category": "科学科普,健康医疗"
+      },
+      {
+        "raw_hot": 28726,
+        "num": 28726,
+        "word": "陈汉典 披荆斩棘的哥哥",
+        "onboard_time": 1712004850,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 28097,
+        "num": 28097,
+        "word": "冯绍峰警队体验生活碰到真命案",
+        "onboard_time": 1711989138,
+        "rank": 41,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 27630,
+        "num": 27630,
+        "word": "徐正溪站姐发了赵丽颖",
+        "onboard_time": 1711981042,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 27077,
+        "num": 27077,
+        "word": "五条悟模仿樱木花道",
+        "onboard_time": 1711987937,
+        "rank": 43,
+        "category": "动漫,作品衍生"
+      },
+      {
+        "raw_hot": 26504,
+        "num": 26504,
+        "word": "欢瑞为成毅怒怼前公司",
+        "onboard_time": 1711992552,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 26116,
+        "num": 26116,
+        "word": "把朋友圈权限给妈妈打开以后",
+        "onboard_time": 1711986079,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 26110,
+        "num": 26110,
+        "word": "李沁王阳飙戏",
+        "onboard_time": 1711987998,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 24038,
+        "num": 24038,
+        "word": "王者荣耀新赛季",
+        "onboard_time": 1711981161,
+        "rank": 47,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 20856,
+        "num": 24020,
+        "word": "阮经天砍价自曝祖坟",
+        "onboard_time": 1711998250,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 19418,
+        "num": 23774,
+        "word": "与凤行 知识狡猾地进入我脑袋",
+        "onboard_time": 1712010734,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平同印尼当选总统普拉博沃会谈#"
+    }
+  }
+}

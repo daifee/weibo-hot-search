@@ -1,6 +1,6 @@
 {
   "startTime": 1711902044401,
-  "endTime": 1712009829961,
+  "endTime": 1712010854141,
   "band_list": [
     {
       "raw_hot": 12825415,
@@ -2596,7 +2596,7 @@
     },
     {
       "raw_hot": 161563,
-      "num": 64543,
+      "num": 137995,
       "word": "别再因为害羞放弃肛门指检了",
       "onboard_time": 1711991834,
       "rank": 48,
@@ -2609,6 +2609,14 @@
       "onboard_time": 1711889239,
       "rank": 34,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 160534,
+      "num": 62474,
+      "word": "提灯定损",
+      "onboard_time": 1712005511,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 160247,
@@ -2963,6 +2971,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 127501,
+      "num": 61929,
+      "word": "于正 祝你也遇到法治咖",
+      "onboard_time": 1712000651,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 126719,
       "num": 126719,
       "word": "什么是躁狂发作",
@@ -3139,14 +3155,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 94209,
-      "num": 46777,
-      "word": "提灯定损",
-      "onboard_time": 1712005511,
-      "rank": 36,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 82606,
       "num": 82606,
       "word": "四月文案",
@@ -3161,14 +3169,6 @@
       "onboard_time": 1711941500,
       "rank": 47,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 79220,
-      "num": 46507,
-      "word": "于正 祝你也遇到法治咖",
-      "onboard_time": 1712000651,
-      "rank": 12,
-      "category": "艺人"
     },
     {
       "raw_hot": 76275,
@@ -3212,7 +3212,7 @@
     },
     {
       "raw_hot": 69210,
-      "num": 27734,
+      "num": 28726,
       "word": "陈汉典 披荆斩棘的哥哥",
       "onboard_time": 1712004850,
       "rank": 32,
@@ -3267,6 +3267,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 56453,
+      "num": 41509,
+      "word": "乳腺结节不疼更要警惕乳腺癌",
+      "onboard_time": 1712008391,
+      "rank": 24,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 55955,
       "num": 92274,
       "word": "山东泰山",
@@ -3307,6 +3315,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 48831,
+      "num": 40704,
+      "word": "这3种情况不建议洗澡",
+      "onboard_time": 1712004069,
+      "rank": 21,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 47548,
       "num": 55700,
       "word": "网红包MCM过气了吗",
@@ -3339,12 +3355,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 40281,
-      "num": 35933,
-      "word": "这3种情况不建议洗澡",
-      "onboard_time": 1712004069,
-      "rank": 21,
-      "category": "健康医疗"
+      "raw_hot": 42117,
+      "num": 42117,
+      "word": "烧伤女孩百万救命款一夜凑齐哥哥泪谢浙江",
+      "onboard_time": 1712003169,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 41288,
+      "num": 36439,
+      "word": "东审未来倒闭声明",
+      "onboard_time": 1712007490,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 38776,
@@ -3355,20 +3379,36 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 35890,
-      "num": 22015,
-      "word": "阮经天砍价自曝祖坟",
-      "onboard_time": 1711998250,
-      "rank": 35,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 35121,
-      "num": 35121,
+      "raw_hot": 38364,
+      "num": 38364,
       "word": "王艳贵女路透",
       "onboard_time": 1712003411,
       "rank": 41,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 37033,
+      "num": 37033,
+      "word": "站姐撞图",
+      "onboard_time": 1712006170,
+      "rank": 48,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 35893,
+      "num": 35893,
+      "word": "奥本海默日本上映观众情绪复杂",
+      "onboard_time": 1711995131,
+      "rank": 39,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 35890,
+      "num": 24020,
+      "word": "阮经天砍价自曝祖坟",
+      "onboard_time": 1711998250,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 33969,
@@ -3377,46 +3417,6 @@
       "onboard_time": 1711920369,
       "rank": 48,
       "category": "体育"
-    },
-    {
-      "raw_hot": 33393,
-      "num": 27726,
-      "word": "东审未来倒闭声明",
-      "onboard_time": 1712007490,
-      "rank": 32,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 32007,
-      "num": 32007,
-      "word": "乳腺结节不疼更要警惕乳腺癌",
-      "onboard_time": 1712008391,
-      "rank": 24,
-      "category": "健康医疗"
-    },
-    {
-      "raw_hot": 31523,
-      "num": 31523,
-      "word": "奥本海默日本上映观众情绪复杂",
-      "onboard_time": 1711995131,
-      "rank": 39,
-      "category": "电影"
-    },
-    {
-      "raw_hot": 30876,
-      "num": 30876,
-      "word": "站姐撞图",
-      "onboard_time": 1712006170,
-      "rank": 48,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 27708,
-      "num": 27708,
-      "word": "烧伤女孩百万救命款一夜凑齐哥哥泪谢浙江",
-      "onboard_time": 1712003169,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 23884,
@@ -3441,6 +3441,14 @@
       "onboard_time": 1711999571,
       "rank": 44,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 19418,
+      "num": 23774,
+      "word": "与凤行 知识狡猾地进入我脑袋",
+      "onboard_time": 1712010734,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 11652,

@@ -1,6 +1,6 @@
 {
   "startTime": 1711988526523,
-  "endTime": 1712009829961,
+  "endTime": 1712010854141,
   "band_list": [
     {
       "raw_hot": 855073,
@@ -212,11 +212,19 @@
     },
     {
       "raw_hot": 161563,
-      "num": 64543,
+      "num": 137995,
       "word": "别再因为害羞放弃肛门指检了",
       "onboard_time": 1711991834,
       "rank": 48,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 160534,
+      "num": 62474,
+      "word": "提灯定损",
+      "onboard_time": 1712005511,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 152437,
@@ -283,6 +291,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 127501,
+      "num": 61929,
+      "word": "于正 祝你也遇到法治咖",
+      "onboard_time": 1712000651,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 117374,
       "num": 117374,
       "word": "花间令结局",
@@ -347,14 +363,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 94209,
-      "num": 46777,
-      "word": "提灯定损",
-      "onboard_time": 1712005511,
-      "rank": 36,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 91415,
       "num": 91415,
       "word": "失恋就是很苦的",
@@ -393,14 +401,6 @@
       "onboard_time": 1711979602,
       "rank": 39,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 79220,
-      "num": 46507,
-      "word": "于正 祝你也遇到法治咖",
-      "onboard_time": 1712000651,
-      "rank": 12,
-      "category": "艺人"
     },
     {
       "raw_hot": 76737,
@@ -452,7 +452,7 @@
     },
     {
       "raw_hot": 69210,
-      "num": 27734,
+      "num": 28726,
       "word": "陈汉典 披荆斩棘的哥哥",
       "onboard_time": 1712004850,
       "rank": 32,
@@ -467,12 +467,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 56453,
+      "num": 41509,
+      "word": "乳腺结节不疼更要警惕乳腺癌",
+      "onboard_time": 1712008391,
+      "rank": 24,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 55756,
       "num": 70374,
       "word": "女子豌杂面加香菜加到店家崩溃",
       "onboard_time": 1711982901,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 48831,
+      "num": 40704,
+      "word": "这3种情况不建议洗澡",
+      "onboard_time": 1712004069,
+      "rank": 21,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 45766,
@@ -483,16 +499,48 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 40281,
-      "num": 35933,
-      "word": "这3种情况不建议洗澡",
-      "onboard_time": 1712004069,
-      "rank": 21,
-      "category": "健康医疗"
+      "raw_hot": 42117,
+      "num": 42117,
+      "word": "烧伤女孩百万救命款一夜凑齐哥哥泪谢浙江",
+      "onboard_time": 1712003169,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 41288,
+      "num": 36439,
+      "word": "东审未来倒闭声明",
+      "onboard_time": 1712007490,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 38364,
+      "num": 38364,
+      "word": "王艳贵女路透",
+      "onboard_time": 1712003411,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 37033,
+      "num": 37033,
+      "word": "站姐撞图",
+      "onboard_time": 1712006170,
+      "rank": 48,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 35893,
+      "num": 35893,
+      "word": "奥本海默日本上映观众情绪复杂",
+      "onboard_time": 1711995131,
+      "rank": 39,
+      "category": "电影"
     },
     {
       "raw_hot": 35890,
-      "num": 22015,
+      "num": 24020,
       "word": "阮经天砍价自曝祖坟",
       "onboard_time": 1711998250,
       "rank": 35,
@@ -504,54 +552,6 @@
       "word": "七年雄安拔节生长",
       "onboard_time": 1711975700,
       "rank": 2,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 35121,
-      "num": 35121,
-      "word": "王艳贵女路透",
-      "onboard_time": 1712003411,
-      "rank": 41,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 33393,
-      "num": 27726,
-      "word": "东审未来倒闭声明",
-      "onboard_time": 1712007490,
-      "rank": 32,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 32007,
-      "num": 32007,
-      "word": "乳腺结节不疼更要警惕乳腺癌",
-      "onboard_time": 1712008391,
-      "rank": 24,
-      "category": "健康医疗"
-    },
-    {
-      "raw_hot": 31523,
-      "num": 31523,
-      "word": "奥本海默日本上映观众情绪复杂",
-      "onboard_time": 1711995131,
-      "rank": 39,
-      "category": "电影"
-    },
-    {
-      "raw_hot": 30876,
-      "num": 30876,
-      "word": "站姐撞图",
-      "onboard_time": 1712006170,
-      "rank": 48,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 27708,
-      "num": 27708,
-      "word": "烧伤女孩百万救命款一夜凑齐哥哥泪谢浙江",
-      "onboard_time": 1712003169,
-      "rank": 49,
       "category": "社会新闻"
     },
     {
@@ -571,7 +571,15 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 2474,
+      "raw_hot": 19418,
+      "num": 23774,
+      "word": "与凤行 知识狡猾地进入我脑袋",
+      "onboard_time": 1712010734,
+      "rank": 49,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 2560,
       "num": 326738,
       "word": "万千气象看云南",
       "onboard_time": 1711807280,
