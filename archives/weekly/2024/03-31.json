@@ -1,6 +1,6 @@
 {
   "startTime": 1711815680412,
-  "endTime": 1711982043281,
+  "endTime": 1711984665352,
   "band_list": [
     {
       "raw_hot": 12825415,
@@ -52,7 +52,7 @@
     },
     {
       "raw_hot": 2498151,
-      "num": 352456,
+      "num": 452128,
       "word": "女子睡觉被大风吹下11楼身亡",
       "onboard_time": 1711971080,
       "rank": 41,
@@ -268,7 +268,7 @@
     },
     {
       "raw_hot": 1300538,
-      "num": 338821,
+      "num": 443553,
       "word": "为什么无性婚姻越来越多",
       "onboard_time": 1711976478,
       "rank": 13,
@@ -417,6 +417,14 @@
       "onboard_time": 1711948044,
       "rank": 8,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1062644,
+      "num": 447565,
+      "word": "阿福朱莉离婚",
+      "onboard_time": 1711982002,
+      "rank": 44,
+      "category": "网红"
     },
     {
       "raw_hot": 1035412,
@@ -683,6 +691,14 @@
       "category": "母婴育儿"
     },
     {
+      "raw_hot": 798173,
+      "num": 798173,
+      "word": "班主任辞职参军全班沸腾了",
+      "onboard_time": 1711980981,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 792888,
       "num": 792888,
       "word": "babymonster直播",
@@ -851,6 +867,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 698101,
+      "num": 698101,
+      "word": "徐正溪站姐发了赵丽颖",
+      "onboard_time": 1711981042,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 691845,
       "num": 691845,
       "word": "尔冬升说张栋梁是天生的变态",
@@ -1011,6 +1035,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 622012,
+      "num": 439603,
+      "word": "生过和没生过孩子的都沉默了",
+      "onboard_time": 1711982781,
+      "rank": 13,
+      "category": "情感"
+    },
+    {
       "raw_hot": 614136,
       "num": 614136,
       "word": "开封王婆说媒现在变味了",
@@ -1049,6 +1081,14 @@
       "onboard_time": 1711955301,
       "rank": 19,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 606933,
+      "num": 606933,
+      "word": "追风者 拿奖",
+      "onboard_time": 1711983322,
+      "rank": 5,
+      "category": "剧集"
     },
     {
       "raw_hot": 604745,
@@ -1131,14 +1171,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 564814,
-      "num": 261812,
-      "word": "徐正溪站姐发了赵丽颖",
-      "onboard_time": 1711981042,
-      "rank": 12,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 564418,
       "num": 502770,
       "word": "眼泪女王",
@@ -1153,6 +1185,14 @@
       "onboard_time": 1711938438,
       "rank": 40,
       "category": "财经"
+    },
+    {
+      "raw_hot": 548519,
+      "num": 548519,
+      "word": "新版赵灵儿 阴蚀王",
+      "onboard_time": 1711983322,
+      "rank": 6,
+      "category": "剧集"
     },
     {
       "raw_hot": 543477,
@@ -1201,6 +1241,14 @@
       "onboard_time": 1711936278,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 533585,
+      "num": 533585,
+      "word": "四川信托破产",
+      "onboard_time": 1711981042,
+      "rank": 28,
+      "category": "财经"
     },
     {
       "raw_hot": 532629,
@@ -1571,6 +1619,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 455619,
+      "num": 455619,
+      "word": "90后小伙银行离职后在殡葬行业找到人生价值",
+      "onboard_time": 1711980021,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 451980,
       "num": 451980,
       "word": "白鹿站姐发于正生图",
@@ -1656,6 +1712,14 @@
       "word": "白月光沈翊回归了",
       "onboard_time": 1711942882,
       "rank": 16,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 434415,
+      "num": 434415,
+      "word": "王一博演技",
+      "onboard_time": 1711982181,
+      "rank": 14,
       "category": "剧集"
     },
     {
@@ -1859,6 +1923,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 383271,
+      "num": 383271,
+      "word": "金宇珍向StrayKids道歉",
+      "onboard_time": 1711982841,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 381588,
       "num": 381588,
       "word": "华为P70",
@@ -2051,14 +2123,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 343283,
-      "num": 343283,
-      "word": "班主任辞职参军全班沸腾了",
-      "onboard_time": 1711980981,
-      "rank": 46,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 343240,
       "num": 343240,
       "word": "爸妈已经发现工作不好找了",
@@ -2113,6 +2177,14 @@
       "onboard_time": 1711891761,
       "rank": 31,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 331392,
+      "num": 331392,
+      "word": "杨幂为粉丝考潜水证",
+      "onboard_time": 1711981161,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 328323,
@@ -2179,6 +2251,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 315313,
+      "num": 261337,
+      "word": "万一把成毅名字收回去呢",
+      "onboard_time": 1711984042,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 313905,
       "num": 313905,
       "word": "金秀贤宋仲基两大爆剧男神同框",
@@ -2241,6 +2321,14 @@
       "onboard_time": 1711893140,
       "rank": 30,
       "category": "情感"
+    },
+    {
+      "raw_hot": 305666,
+      "num": 305666,
+      "word": "原来电话卡是有寿命的",
+      "onboard_time": 1711982781,
+      "rank": 18,
+      "category": "科学科普"
     },
     {
       "raw_hot": 305522,
@@ -2603,12 +2691,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 263397,
-      "num": 263397,
-      "word": "90后小伙银行离职后在殡葬行业找到人生价值",
-      "onboard_time": 1711980021,
-      "rank": 29,
-      "category": "社会新闻"
+      "raw_hot": 261979,
+      "num": 242209,
+      "word": "赵丽颖给熊猫玩偶喂水",
+      "onboard_time": 1711982600,
+      "rank": 25,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 261773,
@@ -2635,20 +2723,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 259471,
+      "num": 259471,
+      "word": "最佳生育间隔是多久",
+      "onboard_time": 1711981701,
+      "rank": 27,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 258344,
       "num": 258344,
       "word": "林俊杰济南二开",
       "onboard_time": 1711974200,
       "rank": 24,
       "category": "演出"
-    },
-    {
-      "raw_hot": 257971,
-      "num": 257971,
-      "word": "杨幂为粉丝考潜水证",
-      "onboard_time": 1711981161,
-      "rank": 21,
-      "category": "艺人"
     },
     {
       "raw_hot": 257960,
@@ -2795,6 +2883,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 245818,
+      "num": 242194,
+      "word": "赵露思挂脖高定",
+      "onboard_time": 1711984639,
+      "rank": 26,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 245771,
       "num": 245771,
       "word": "波兰总理称欧洲已进入战前时代",
@@ -2833,6 +2929,14 @@
       "onboard_time": 1711969401,
       "rank": 41,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 242214,
+      "num": 242214,
+      "word": "男性其实也有最佳生育年龄",
+      "onboard_time": 1711982301,
+      "rank": 24,
+      "category": "母婴育儿"
     },
     {
       "raw_hot": 240072,
@@ -3091,14 +3195,6 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 224822,
-      "num": 224822,
-      "word": "最佳生育间隔是多久",
-      "onboard_time": 1711981701,
-      "rank": 27,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 224810,
       "num": 224810,
       "word": "大家都是罗伯特",
@@ -3152,14 +3248,6 @@
       "word": "油价",
       "onboard_time": 1711963281,
       "rank": 19,
-      "category": "财经"
-    },
-    {
-      "raw_hot": 219848,
-      "num": 219848,
-      "word": "四川信托破产",
-      "onboard_time": 1711981042,
-      "rank": 28,
       "category": "财经"
     },
     {
@@ -3561,6 +3649,14 @@
       "onboard_time": 1711939038,
       "rank": 38,
       "category": "财经"
+    },
+    {
+      "raw_hot": 199727,
+      "num": 199727,
+      "word": "欢乐颂5",
+      "onboard_time": 1711983021,
+      "rank": 32,
+      "category": "剧集"
     },
     {
       "raw_hot": 199660,
@@ -4939,14 +5035,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 143947,
-      "num": 143947,
-      "word": "阿福朱莉离婚",
-      "onboard_time": 1711982002,
-      "rank": 44,
-      "category": "网红"
-    },
-    {
       "raw_hot": 143771,
       "num": 137623,
       "word": "十个勤天 音乐节",
@@ -4969,6 +5057,14 @@
       "onboard_time": 1711931059,
       "rank": 46,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 143376,
+      "num": 143376,
+      "word": "WBG对战iG战歌起",
+      "onboard_time": 1711983860,
+      "rank": 44,
+      "category": "电竞"
     },
     {
       "raw_hot": 143345,
@@ -5105,6 +5201,14 @@
       "onboard_time": 1711851617,
       "rank": 42,
       "category": "演出"
+    },
+    {
+      "raw_hot": 136841,
+      "num": 136841,
+      "word": "失恋就是很苦的",
+      "onboard_time": 1711984522,
+      "rank": 48,
+      "category": "情感"
     },
     {
       "raw_hot": 136710,
@@ -5804,7 +5908,7 @@
     },
     {
       "raw_hot": 71351,
-      "num": 821840,
+      "num": 838133,
       "word": "七年雄安拔节生长",
       "onboard_time": 1711975700,
       "rank": 2,
