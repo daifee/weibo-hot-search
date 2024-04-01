@@ -1,6 +1,6 @@
 {
   "startTime": 1711902044401,
-  "endTime": 1711934312037,
+  "endTime": 1711935550601,
   "band_list": [
     {
       "raw_hot": 1983650,
@@ -11,8 +11,16 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1248514,
-      "num": 1248514,
+      "raw_hot": 1373607,
+      "num": 565197,
+      "word": "成都致2死司机事发后动作怪异",
+      "onboard_time": 1711933640,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1315411,
+      "num": 1315411,
       "word": "乳腺增生真是豆浆惹的祸吗",
       "onboard_time": 1711931959,
       "rank": 1,
@@ -43,6 +51,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 1015475,
+      "num": 1015475,
+      "word": "本想免费试用结果被扣一年会员费",
+      "onboard_time": 1711931360,
+      "rank": 5,
+      "category": "互联网,社会新闻"
+    },
+    {
       "raw_hot": 967666,
       "num": 967666,
       "word": "宁静吐槽李菲儿",
@@ -57,14 +73,6 @@
       "onboard_time": 1711898601,
       "rank": 3,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 925837,
-      "num": 925837,
-      "word": "本想免费试用结果被扣一年会员费",
-      "onboard_time": 1711931360,
-      "rank": 5,
-      "category": "互联网,社会新闻"
     },
     {
       "raw_hot": 876023,
@@ -89,6 +97,14 @@
       "onboard_time": 1711897160,
       "rank": 13,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 752924,
+      "num": 752924,
+      "word": "还好只上三天就放假了",
+      "onboard_time": 1711932561,
+      "rank": 13,
+      "category": "情感"
     },
     {
       "raw_hot": 703657,
@@ -131,6 +147,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 604745,
+      "num": 604745,
+      "word": "特斯拉中国今日涨价",
+      "onboard_time": 1711931240,
+      "rank": 11,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 568561,
       "num": 568561,
       "word": "24岁我还不能和男朋友出去旅游",
@@ -145,14 +169,6 @@
       "onboard_time": 1711883359,
       "rank": 12,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 547831,
-      "num": 547831,
-      "word": "特斯拉中国今日涨价",
-      "onboard_time": 1711931240,
-      "rank": 11,
-      "category": "汽车"
     },
     {
       "raw_hot": 543477,
@@ -179,27 +195,11 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 512009,
-      "num": 512009,
-      "word": "还好只上三天就放假了",
-      "onboard_time": 1711932561,
-      "rank": 13,
-      "category": "情感"
-    },
-    {
       "raw_hot": 496413,
       "num": 567487,
       "word": "女子工作1年半胖40斤判若两人",
       "onboard_time": 1711898120,
       "rank": 9,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 493737,
-      "num": 493737,
-      "word": "成都致2死司机事发后动作怪异",
-      "onboard_time": 1711933640,
-      "rank": 14,
       "category": "社会新闻"
     },
     {
@@ -236,11 +236,19 @@
     },
     {
       "raw_hot": 371777,
-      "num": 548144,
+      "num": 565200,
       "word": "莎头",
       "onboard_time": 1711929559,
       "rank": 9,
       "category": "体育"
+    },
+    {
+      "raw_hot": 371750,
+      "num": 371750,
+      "word": "服部平次 接吻应激障碍",
+      "onboard_time": 1711930038,
+      "rank": 22,
+      "category": "动漫"
     },
     {
       "raw_hot": 365503,
@@ -257,14 +265,6 @@
       "onboard_time": 1711897340,
       "rank": 17,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 332684,
-      "num": 332684,
-      "word": "服部平次 接吻应激障碍",
-      "onboard_time": 1711930038,
-      "rank": 22,
-      "category": "动漫"
     },
     {
       "raw_hot": 327009,
@@ -347,6 +347,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 231908,
+      "num": 202095,
+      "word": "这种体态真的很好改善",
+      "onboard_time": 1711934837,
+      "rank": 30,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 220827,
       "num": 220827,
       "word": "YG耳",
@@ -369,6 +377,14 @@
       "onboard_time": 1711933759,
       "rank": 35,
       "category": "演出"
+    },
+    {
+      "raw_hot": 208059,
+      "num": 208059,
+      "word": "迈巴赫",
+      "onboard_time": 1711935257,
+      "rank": 27,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 203381,
@@ -499,6 +515,14 @@
       "category": "情感,网红"
     },
     {
+      "raw_hot": 164050,
+      "num": 164050,
+      "word": "尹净汉Weverse",
+      "onboard_time": 1711935078,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 163924,
       "num": 163924,
       "word": "魔卡少女樱 木之本樱",
@@ -611,6 +635,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 143345,
+      "num": 143345,
+      "word": "全圆佑饭拍",
+      "onboard_time": 1711935198,
+      "rank": 42,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 137935,
       "num": 137935,
       "word": "工作人员回应小米SU7甩尾撞路边",
@@ -633,6 +665,22 @@
       "onboard_time": 1711934238,
       "rank": 49,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 130601,
+      "num": 150534,
+      "word": "金价狂飙还会再涨吗",
+      "onboard_time": 1711935138,
+      "rank": 39,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 130500,
+      "num": 130500,
+      "word": "是什么影响了我们的生育力",
+      "onboard_time": 1711935497,
+      "rank": 46,
+      "category": "科学科普"
     },
     {
       "raw_hot": 126391,
