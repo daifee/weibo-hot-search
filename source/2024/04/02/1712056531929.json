@@ -1,0 +1,410 @@
+{
+  "runTime": 1712056531929,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1671398,
+        "num": 1671398,
+        "word": "孙亚龙 小楼",
+        "onboard_time": 1712052680,
+        "rank": 0,
+        "category": "电竞,网红"
+      },
+      {
+        "raw_hot": 798628,
+        "num": 798628,
+        "word": "李惠利更新ins了",
+        "onboard_time": 1712054898,
+        "rank": 1,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 24581,
+        "num": 704143,
+        "word": "中非互联网发展与合作论坛",
+        "onboard_time": 1712044158,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 3930017,
+        "num": 694610,
+        "word": "09 出轨",
+        "onboard_time": 1712047398,
+        "rank": 3,
+        "category": "电竞,网红"
+      },
+      {
+        "raw_hot": 664234,
+        "num": 664234,
+        "word": "福宝还不满4岁不能谈恋爱",
+        "onboard_time": 1712053341,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 526178,
+        "num": 526178,
+        "word": "华为已撤回遥遥领先商标申请",
+        "onboard_time": 1712047518,
+        "rank": 5,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 336733,
+        "num": 524149,
+        "word": "在美20岁中国女留学生校外身亡",
+        "onboard_time": 1712048720,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1490286,
+        "num": 510207,
+        "word": "海涛 09",
+        "onboard_time": 1712053877,
+        "rank": 7,
+        "category": "电竞,网红"
+      },
+      {
+        "raw_hot": 113022,
+        "num": 508750,
+        "word": "成都紫藤花墙如瀑布倾泻",
+        "onboard_time": 1712051419,
+        "rank": 8,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 259684,
+        "num": 498330,
+        "word": "淄博烧烤赵大爷和日日鲜的cp感",
+        "onboard_time": 1712051419,
+        "rank": 9,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 1646671,
+        "num": 486884,
+        "word": "放三天补一天的意义是什么",
+        "onboard_time": 1712047098,
+        "rank": 10,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 484118,
+        "num": 484118,
+        "word": "09微博回应小楼",
+        "onboard_time": 1712052680,
+        "rank": 11,
+        "category": "电竞,网红"
+      },
+      {
+        "raw_hot": 437826,
+        "num": 437826,
+        "word": "服用紧急避孕药会影响生育吗",
+        "onboard_time": 1712055139,
+        "rank": 12,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 414485,
+        "num": 414485,
+        "word": "宋昰昀承认校园暴力",
+        "onboard_time": 1712044218,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 386817,
+        "num": 386817,
+        "word": "黄旭熙 给粉丝下跪",
+        "onboard_time": 1712037859,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 362501,
+        "num": 362501,
+        "word": "章昊韩网被审判",
+        "onboard_time": 1712055860,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 343745,
+        "num": 343745,
+        "word": "赵小棠抑郁了两年",
+        "onboard_time": 1712038998,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 315892,
+        "num": 315892,
+        "word": "沙溢让胡可归还自己失去的颜值",
+        "onboard_time": 1712055560,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 293395,
+        "num": 293395,
+        "word": "省考成绩",
+        "onboard_time": 1712044279,
+        "rank": 18,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 261441,
+        "num": 290395,
+        "word": "旅游时被拖进洞房3分钟收费168",
+        "onboard_time": 1712039779,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 355742,
+        "num": 290338,
+        "word": "复试结束在酒店把书全撕了",
+        "onboard_time": 1712054718,
+        "rank": 20,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 313749,
+        "num": 289699,
+        "word": "张彬彬 张元英转圈",
+        "onboard_time": 1712055620,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 287605,
+        "num": 287605,
+        "word": "恋与深空",
+        "onboard_time": 1712054419,
+        "rank": 22,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 269709,
+        "num": 269709,
+        "word": "09是谁",
+        "onboard_time": 1712052198,
+        "rank": 23,
+        "category": "电竞,网红"
+      },
+      {
+        "raw_hot": 247953,
+        "num": 247953,
+        "word": "见过开黄腔的婚礼司仪吗",
+        "onboard_time": 1712054840,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 223412,
+        "num": 223412,
+        "word": "一场演唱会带火一座城",
+        "onboard_time": 1712044279,
+        "rank": 25,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 214954,
+        "num": 214954,
+        "word": "0作品却涨粉400万",
+        "onboard_time": 1712056520,
+        "rank": 26,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 212854,
+        "num": 212854,
+        "word": "还有比炸蛋更可怕的食物吗",
+        "onboard_time": 1712044939,
+        "rank": 27,
+        "category": "美食,健康医疗"
+      },
+      {
+        "raw_hot": 179500,
+        "num": 210510,
+        "word": "唐一军接受审查调查",
+        "onboard_time": 1712043919,
+        "rank": 28,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 159232,
+        "num": 209355,
+        "word": "南昌冰雹预警",
+        "onboard_time": 1712052680,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 209330,
+        "num": 209330,
+        "word": "楼处除三害",
+        "onboard_time": 1712053820,
+        "rank": 30,
+        "category": "电竞,网红"
+      },
+      {
+        "raw_hot": 186657,
+        "num": 186657,
+        "word": "Steam真人乙游上线",
+        "onboard_time": 1712055620,
+        "rank": 31,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 172146,
+        "num": 172146,
+        "word": "这种螺一口吃出6000条寄生虫",
+        "onboard_time": 1712048300,
+        "rank": 32,
+        "category": "健康医疗,美食"
+      },
+      {
+        "raw_hot": 165894,
+        "num": 165894,
+        "word": "全员加速中全员猎人",
+        "onboard_time": 1712049440,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 160053,
+        "num": 160053,
+        "word": "女性为什么会选择独自生养孩子",
+        "onboard_time": 1712049860,
+        "rank": 34,
+        "category": "母婴育儿,情感"
+      },
+      {
+        "raw_hot": 158891,
+        "num": 158891,
+        "word": "笑笑发博回应伍声",
+        "onboard_time": 1712055741,
+        "rank": 35,
+        "category": "电竞,网红"
+      },
+      {
+        "raw_hot": 155156,
+        "num": 155156,
+        "word": "中医让我把鸡蛋牛奶戒了",
+        "onboard_time": 1712035520,
+        "rank": 36,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 153306,
+        "num": 153306,
+        "word": "巴黎奥运排查出约800名不怀好意者",
+        "onboard_time": 1712046079,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 146529,
+        "num": 146529,
+        "word": "吉林省考成绩",
+        "onboard_time": 1712050460,
+        "rank": 38,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 143615,
+        "num": 143615,
+        "word": "人为了防猫开门能做到什么程度",
+        "onboard_time": 1712056400,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 142774,
+        "num": 142774,
+        "word": "何炅 咬布条",
+        "onboard_time": 1712040439,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 452952,
+        "num": 141721,
+        "word": "09 小舞",
+        "onboard_time": 1712049260,
+        "rank": 41,
+        "category": "电竞,网红"
+      },
+      {
+        "raw_hot": 140003,
+        "num": 140003,
+        "word": "海外探源为什么越来越火",
+        "onboard_time": 1712055319,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 135797,
+        "num": 135797,
+        "word": "猫咪彻夜未归居然跑了7公里",
+        "onboard_time": 1712053280,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 131823,
+        "num": 131823,
+        "word": "清华教学楼里到底发生过什么",
+        "onboard_time": 1712056460,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 131798,
+        "num": 131798,
+        "word": "孙亚龙回应",
+        "onboard_time": 1712056460,
+        "rank": 45,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 130470,
+        "num": 130470,
+        "word": "惜花芷神级转场",
+        "onboard_time": 1712055198,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 129623,
+        "num": 129623,
+        "word": "伊朗",
+        "onboard_time": 1712047518,
+        "rank": 47,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 120981,
+        "num": 120981,
+        "word": "天津省考成绩",
+        "onboard_time": 1712053400,
+        "rank": 48,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 114434,
+        "num": 114434,
+        "word": "河南的裹凉皮对我的诱惑力有多大",
+        "onboard_time": 1712054540,
+        "rank": 49,
+        "category": "美食"
+      }
+    ],
+    "hotgov": {
+      "word": "#中方愿同印尼方一道跑好历史接力赛#"
+    }
+  }
+}

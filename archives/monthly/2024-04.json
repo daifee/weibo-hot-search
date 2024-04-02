@@ -1,6 +1,6 @@
 {
   "startTime": 1711902044401,
-  "endTime": 1712054102898,
+  "endTime": 1712056531929,
   "band_list": [
     {
       "raw_hot": 12825415,
@@ -225,6 +225,14 @@
       "onboard_time": 1712019679,
       "rank": 11,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1490286,
+      "num": 510207,
+      "word": "海涛 09",
+      "onboard_time": 1712053877,
+      "rank": 31,
+      "category": "电竞,网红"
     },
     {
       "raw_hot": 1480529,
@@ -643,6 +651,14 @@
       "category": "母婴育儿"
     },
     {
+      "raw_hot": 798628,
+      "num": 798628,
+      "word": "李惠利更新ins了",
+      "onboard_time": 1712054898,
+      "rank": 1,
+      "category": "艺人,时尚"
+    },
+    {
       "raw_hot": 798173,
       "num": 798173,
       "word": "班主任辞职参军全班沸腾了",
@@ -897,6 +913,14 @@
       "onboard_time": 1711947204,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 664234,
+      "num": 664234,
+      "word": "福宝还不满4岁不能谈恋爱",
+      "onboard_time": 1712053341,
+      "rank": 16,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 660244,
@@ -1475,6 +1499,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 437826,
+      "num": 437826,
+      "word": "服用紧急避孕药会影响生育吗",
+      "onboard_time": 1712055139,
+      "rank": 12,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 436748,
       "num": 436748,
       "word": "蓝色真的能抑制一切食欲",
@@ -1827,6 +1859,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 362501,
+      "num": 362501,
+      "word": "章昊韩网被审判",
+      "onboard_time": 1712055860,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 360421,
       "num": 360421,
       "word": "babymonster直播",
@@ -1849,6 +1889,14 @@
       "onboard_time": 1712032581,
       "rank": 18,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 355742,
+      "num": 290338,
+      "word": "复试结束在酒店把书全撕了",
+      "onboard_time": 1712054718,
+      "rank": 20,
+      "category": "幽默"
     },
     {
       "raw_hot": 355699,
@@ -2003,14 +2051,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 324289,
-      "num": 324289,
-      "word": "福宝还不满4岁不能谈恋爱",
-      "onboard_time": 1712053341,
-      "rank": 16,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 322862,
       "num": 322862,
       "word": "试用期一天被辞退要工资有错吗",
@@ -2035,6 +2075,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 315892,
+      "num": 315892,
+      "word": "沙溢让胡可归还自己失去的颜值",
+      "onboard_time": 1712055560,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 315454,
       "num": 315454,
       "word": "为什么你睡醒后腰酸背痛",
@@ -2056,6 +2104,14 @@
       "word": "金秀贤宋仲基两大爆剧男神同框",
       "onboard_time": 1711903636,
       "rank": 27,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 313749,
+      "num": 289699,
+      "word": "张彬彬 张元英转圈",
+      "onboard_time": 1712055620,
+      "rank": 21,
       "category": "剧集"
     },
     {
@@ -2185,6 +2241,14 @@
       "onboard_time": 1712027719,
       "rank": 32,
       "category": "体育"
+    },
+    {
+      "raw_hot": 287605,
+      "num": 287605,
+      "word": "恋与深空",
+      "onboard_time": 1712054419,
+      "rank": 22,
+      "category": "游戏"
     },
     {
       "raw_hot": 287562,
@@ -2529,6 +2593,14 @@
       "onboard_time": 1712045000,
       "rank": 30,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 247953,
+      "num": 247953,
+      "word": "见过开黄腔的婚礼司仪吗",
+      "onboard_time": 1712054840,
+      "rank": 24,
+      "category": "情感"
     },
     {
       "raw_hot": 247879,
@@ -2883,6 +2955,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 214954,
+      "num": 214954,
+      "word": "0作品却涨粉400万",
+      "onboard_time": 1712056520,
+      "rank": 26,
+      "category": "情感"
+    },
+    {
       "raw_hot": 214790,
       "num": 214790,
       "word": "杨幂粉嫩新中式",
@@ -2977,6 +3057,14 @@
       "onboard_time": 1711965860,
       "rank": 37,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 209330,
+      "num": 209330,
+      "word": "楼处除三害",
+      "onboard_time": 1712053820,
+      "rank": 41,
+      "category": "电竞,网红"
     },
     {
       "raw_hot": 208274,
@@ -3515,6 +3603,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 186657,
+      "num": 186657,
+      "word": "Steam真人乙游上线",
+      "onboard_time": 1712055620,
+      "rank": 31,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 186277,
       "num": 186277,
       "word": "林俊杰周边",
@@ -3891,14 +3987,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 169317,
-      "num": 169317,
-      "word": "海涛 09",
-      "onboard_time": 1712053877,
-      "rank": 31,
-      "category": "电竞,网红"
-    },
-    {
       "raw_hot": 169026,
       "num": 169026,
       "word": "二手车商为何不敢收新能源车",
@@ -4129,6 +4217,14 @@
       "onboard_time": 1711902197,
       "rank": 27,
       "category": "情感"
+    },
+    {
+      "raw_hot": 158891,
+      "num": 158891,
+      "word": "笑笑发博回应伍声",
+      "onboard_time": 1712055741,
+      "rank": 35,
+      "category": "电竞,网红"
     },
     {
       "raw_hot": 158573,
@@ -4395,6 +4491,14 @@
       "category": "母婴育儿"
     },
     {
+      "raw_hot": 146529,
+      "num": 146529,
+      "word": "吉林省考成绩",
+      "onboard_time": 1712050460,
+      "rank": 47,
+      "category": "教育"
+    },
+    {
       "raw_hot": 146457,
       "num": 146457,
       "word": "夏之光胸沟",
@@ -4483,6 +4587,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 143615,
+      "num": 143615,
+      "word": "人为了防猫开门能做到什么程度",
+      "onboard_time": 1712056400,
+      "rank": 39,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 143436,
       "num": 143436,
       "word": "樱木花道",
@@ -4561,6 +4673,14 @@
       "onboard_time": 1712041578,
       "rank": 41,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 140003,
+      "num": 140003,
+      "word": "海外探源为什么越来越火",
+      "onboard_time": 1712055319,
+      "rank": 42,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 139083,
@@ -4731,14 +4851,6 @@
       "category": "科学科普"
     },
     {
-      "raw_hot": 133343,
-      "num": 133343,
-      "word": "楼处除三害",
-      "onboard_time": 1712053820,
-      "rank": 41,
-      "category": "电竞,网红"
-    },
-    {
       "raw_hot": 133160,
       "num": 360592,
       "word": "极氪007增强版上市",
@@ -4779,12 +4891,36 @@
       "category": "财经"
     },
     {
+      "raw_hot": 131823,
+      "num": 131823,
+      "word": "清华教学楼里到底发生过什么",
+      "onboard_time": 1712056460,
+      "rank": 44,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 131798,
+      "num": 131798,
+      "word": "孙亚龙回应",
+      "onboard_time": 1712056460,
+      "rank": 45,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 130601,
       "num": 150534,
       "word": "金价狂飙还会再涨吗",
       "onboard_time": 1711935138,
       "rank": 39,
       "category": "财经"
+    },
+    {
+      "raw_hot": 130470,
+      "num": 130470,
+      "word": "惜花芷神级转场",
+      "onboard_time": 1712055198,
+      "rank": 46,
+      "category": "剧集"
     },
     {
       "raw_hot": 129172,
@@ -4955,6 +5091,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 114434,
+      "num": 114434,
+      "word": "河南的裹凉皮对我的诱惑力有多大",
+      "onboard_time": 1712054540,
+      "rank": 49,
+      "category": "美食"
+    },
+    {
       "raw_hot": 114369,
       "num": 114369,
       "word": "只要狗不着地就能随便进",
@@ -4969,6 +5113,14 @@
       "onboard_time": 1711888637,
       "rank": 44,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 113022,
+      "num": 522436,
+      "word": "成都紫藤花墙如瀑布倾泻",
+      "onboard_time": 1712051419,
+      "rank": 8,
+      "category": "旅游"
     },
     {
       "raw_hot": 112662,
@@ -5003,14 +5155,6 @@
       "category": "运动健身"
     },
     {
-      "raw_hot": 110587,
-      "num": 110587,
-      "word": "吉林省考成绩",
-      "onboard_time": 1712050460,
-      "rank": 47,
-      "category": "教育"
-    },
-    {
       "raw_hot": 110134,
       "num": 110134,
       "word": "奥本海默日本上映观众情绪复杂",
@@ -5033,14 +5177,6 @@
       "onboard_time": 1711888819,
       "rank": 47,
       "category": "美食"
-    },
-    {
-      "raw_hot": 105599,
-      "num": 522436,
-      "word": "成都紫藤花墙如瀑布倾泻",
-      "onboard_time": 1712051419,
-      "rank": 8,
-      "category": "旅游"
     },
     {
       "raw_hot": 104976,
