@@ -1,6 +1,6 @@
 {
   "startTime": 1711815680412,
-  "endTime": 1712074937436,
+  "endTime": 1712075860721,
   "band_list": [
     {
       "raw_hot": 12825415,
@@ -387,6 +387,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 1403062,
+      "num": 1403062,
+      "word": "中美关系要不折腾不挑事不越界",
+      "onboard_time": 1712073259,
+      "rank": 0,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 1374447,
       "num": 968054,
       "word": "姜爷爷母亲去世",
@@ -425,14 +433,6 @@
       "onboard_time": 1711976478,
       "rank": 13,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1297331,
-      "num": 1297331,
-      "word": "中美关系要不折腾不挑事不越界",
-      "onboard_time": 1712073259,
-      "rank": 0,
-      "category": "国内时政"
     },
     {
       "raw_hot": 1294992,
@@ -1827,6 +1827,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 535337,
+      "num": 535337,
+      "word": "小杨哥退出与美腕合资公司",
+      "onboard_time": 1712073079,
+      "rank": 5,
+      "category": "网红"
+    },
+    {
       "raw_hot": 534298,
       "num": 534298,
       "word": "王俊凯直播",
@@ -2065,14 +2073,6 @@
       "onboard_time": 1711866257,
       "rank": 20,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 499213,
-      "num": 499213,
-      "word": "小杨哥退出与美腕合资公司",
-      "onboard_time": 1712073079,
-      "rank": 5,
-      "category": "网红"
     },
     {
       "raw_hot": 496413,
@@ -6251,6 +6251,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 178302,
+      "num": 161093,
+      "word": "聊天聊出来的感情不聊就断了",
+      "onboard_time": 1712074099,
+      "rank": 32,
+      "category": "情感"
+    },
+    {
       "raw_hot": 178213,
       "num": 178213,
       "word": "张碧晨 每一步都算数",
@@ -8123,6 +8131,14 @@
       "category": "母婴育儿"
     },
     {
+      "raw_hot": 126175,
+      "num": 126175,
+      "word": "杨幂幺鸡造型",
+      "onboard_time": 1712074876,
+      "rank": 47,
+      "category": "电影"
+    },
+    {
       "raw_hot": 126120,
       "num": 126120,
       "word": "当猫咪以为主人给它做的绝育",
@@ -8177,14 +8193,6 @@
       "onboard_time": 1711800439,
       "rank": 34,
       "category": "体育"
-    },
-    {
-      "raw_hot": 124261,
-      "num": 124261,
-      "word": "聊天聊出来的感情不聊就断了",
-      "onboard_time": 1712074099,
-      "rank": 32,
-      "category": "情感"
     },
     {
       "raw_hot": 123509,
@@ -8483,6 +8491,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 110522,
+      "num": 110522,
+      "word": "惜花芷 改编",
+      "onboard_time": 1712075117,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 110134,
       "num": 110134,
       "word": "奥本海默日本上映观众情绪复杂",
@@ -8691,6 +8707,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 90547,
+      "num": 90547,
+      "word": "黄磊黄渤张艺兴面馆一起吃面",
+      "onboard_time": 1712075416,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 89618,
       "num": 89618,
       "word": "丁程鑫00后的DNA动了",
@@ -8761,14 +8785,6 @@
       "onboard_time": 1711927997,
       "rank": 40,
       "category": "情感"
-    },
-    {
-      "raw_hot": 82140,
-      "num": 89811,
-      "word": "杨幂幺鸡造型",
-      "onboard_time": 1712074876,
-      "rank": 47,
-      "category": "电影"
     },
     {
       "raw_hot": 81435,

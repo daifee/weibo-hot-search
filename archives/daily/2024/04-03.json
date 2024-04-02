@@ -1,10 +1,10 @@
 {
   "startTime": 1712074937436,
-  "endTime": 1712074937436,
+  "endTime": 1712075860721,
   "band_list": [
     {
-      "raw_hot": 1297331,
-      "num": 1297331,
+      "raw_hot": 1403062,
+      "num": 1403062,
       "word": "中美关系要不折腾不挑事不越界",
       "onboard_time": 1712073259,
       "rank": 0,
@@ -35,20 +35,20 @@
       "category": "情感"
     },
     {
+      "raw_hot": 535337,
+      "num": 535337,
+      "word": "小杨哥退出与美腕合资公司",
+      "onboard_time": 1712073079,
+      "rank": 5,
+      "category": "网红"
+    },
+    {
       "raw_hot": 499999,
       "num": 499999,
       "word": "家属求医生把癌症报告由晚期改为中期",
       "onboard_time": 1712060360,
       "rank": 4,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 499213,
-      "num": 499213,
-      "word": "小杨哥退出与美腕合资公司",
-      "onboard_time": 1712073079,
-      "rank": 5,
-      "category": "网红"
     },
     {
       "raw_hot": 452552,
@@ -83,8 +83,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 368690,
-      "num": 368690,
+      "raw_hot": 371599,
+      "num": 371599,
       "word": "杨雪",
       "onboard_time": 1712064261,
       "rank": 11,
@@ -161,6 +161,14 @@
       "onboard_time": 1712068581,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 178302,
+      "num": 161093,
+      "word": "聊天聊出来的感情不聊就断了",
+      "onboard_time": 1712074099,
+      "rank": 32,
+      "category": "情感"
     },
     {
       "raw_hot": 174360,
@@ -251,12 +259,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 124261,
-      "num": 124261,
-      "word": "聊天聊出来的感情不聊就断了",
-      "onboard_time": 1712074099,
-      "rank": 32,
-      "category": "情感"
+      "raw_hot": 126175,
+      "num": 126175,
+      "word": "杨幂幺鸡造型",
+      "onboard_time": 1712074876,
+      "rank": 47,
+      "category": "电影"
     },
     {
       "raw_hot": 120105,
@@ -281,6 +289,14 @@
       "onboard_time": 1712052680,
       "rank": 35,
       "category": "电竞,网红"
+    },
+    {
+      "raw_hot": 110522,
+      "num": 110522,
+      "word": "惜花芷 改编",
+      "onboard_time": 1712075117,
+      "rank": 31,
+      "category": "剧集"
     },
     {
       "raw_hot": 105506,
@@ -355,6 +371,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 90547,
+      "num": 90547,
+      "word": "黄磊黄渤张艺兴面馆一起吃面",
+      "onboard_time": 1712075416,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 90128,
       "num": 90128,
       "word": "脸上有疤 心上有他",
@@ -371,12 +395,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 82140,
-      "num": 89811,
-      "word": "杨幂幺鸡造型",
-      "onboard_time": 1712074876,
-      "rank": 47,
-      "category": "电影"
+      "raw_hot": 77709,
+      "num": 89315,
+      "word": "为何南昌强对流天气破坏力极大",
+      "onboard_time": 1712062280,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 72633,
@@ -385,14 +409,6 @@
       "onboard_time": 1712069840,
       "rank": 48,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 71468,
-      "num": 89315,
-      "word": "为何南昌强对流天气破坏力极大",
-      "onboard_time": 1712062280,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 3452,
@@ -406,6 +422,9 @@
   "hotgov_list": [
     {
       "word": "#中印尼友好之轮始终破浪向前#"
+    },
+    {
+      "word": "#这次会谈体现中印尼关系的高水平#"
     }
   ]
 }
