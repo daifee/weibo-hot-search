@@ -1,0 +1,410 @@
+{
+  "runTime": 1712038962151,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1471260,
+        "num": 1471260,
+        "word": "王灿被烫伤",
+        "onboard_time": 1712033780,
+        "rank": 0,
+        "category": "艺人,艺人"
+      },
+      {
+        "raw_hot": 704627,
+        "num": 704627,
+        "word": "华晨宇我们终于要一起看日出了",
+        "onboard_time": 1712034321,
+        "rank": 1,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 108960,
+        "num": 689917,
+        "word": "强对流天气应该如何避险",
+        "onboard_time": 1712026758,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1235086,
+        "num": 689665,
+        "word": "黄旭熙 给粉丝下跪",
+        "onboard_time": 1712037859,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 685067,
+        "num": 685067,
+        "word": "日本专家说小米汽车如同iPhone问世",
+        "onboard_time": 1712034740,
+        "rank": 4,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 648775,
+        "num": 648775,
+        "word": "分手厨房实绩",
+        "onboard_time": 1712032762,
+        "rank": 5,
+        "category": "游戏,艺人"
+      },
+      {
+        "raw_hot": 500326,
+        "num": 500326,
+        "word": "99年女孩两年不上班逛吃30个城市",
+        "onboard_time": 1712020459,
+        "rank": 6,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 472559,
+        "num": 472559,
+        "word": "宋江入伍",
+        "onboard_time": 1712032281,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 431379,
+        "num": 431379,
+        "word": "任敏别气李现了",
+        "onboard_time": 1712037258,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 345170,
+        "num": 431064,
+        "word": "伊朗外长称已给美国传话",
+        "onboard_time": 1712030480,
+        "rank": 9,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 897612,
+        "num": 430984,
+        "word": "华晨宇9年前就拒绝月经羞耻",
+        "onboard_time": 1712024719,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 430793,
+        "num": 430793,
+        "word": "女子入职体检发现怀孕后被拒录用",
+        "onboard_time": 1712017701,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 410973,
+        "num": 410973,
+        "word": "张婧仪神图的诞生",
+        "onboard_time": 1712034740,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 399429,
+        "num": 399429,
+        "word": "黄旭熙中文还没郑雅娴说得好",
+        "onboard_time": 1712031923,
+        "rank": 13,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 333831,
+        "num": 333831,
+        "word": "减肥关键点是饿",
+        "onboard_time": 1712023878,
+        "rank": 14,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 292885,
+        "num": 292885,
+        "word": "承欢记处处吻",
+        "onboard_time": 1712034081,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 278536,
+        "num": 278536,
+        "word": "向佐向网友道歉",
+        "onboard_time": 1712031080,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 266179,
+        "num": 266179,
+        "word": "飓风坠楼3条人命牵出江西贪腐第一大案",
+        "onboard_time": 1712019679,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 217413,
+        "num": 260623,
+        "word": "贵州长顺发生山火致3人死亡",
+        "onboard_time": 1712035999,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 188910,
+        "num": 255075,
+        "word": "蓝色真的能抑制一切食欲",
+        "onboard_time": 1712030721,
+        "rank": 19,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 550147,
+        "num": 253678,
+        "word": "中医让我把鸡蛋牛奶戒了",
+        "onboard_time": 1712035520,
+        "rank": 20,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 316932,
+        "num": 246703,
+        "word": "大四下才是大学最难熬的吧",
+        "onboard_time": 1712036180,
+        "rank": 21,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 243829,
+        "num": 243829,
+        "word": "王珞丹给陶昕然送麝香",
+        "onboard_time": 1712038818,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 240858,
+        "num": 240858,
+        "word": "王嘉尔生日长文",
+        "onboard_time": 1712036299,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 202636,
+        "num": 232232,
+        "word": "24岁女生和48岁的室友妈妈处成母女",
+        "onboard_time": 1712031801,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 229623,
+        "num": 229623,
+        "word": "杨幂纯白造型",
+        "onboard_time": 1712038098,
+        "rank": 25,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 223095,
+        "num": 223095,
+        "word": "田曦薇背沟",
+        "onboard_time": 1712036180,
+        "rank": 26,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 185415,
+        "num": 185415,
+        "word": "平躺才是脊柱最喜欢的睡姿",
+        "onboard_time": 1712037139,
+        "rank": 27,
+        "category": "健康医疗,科学科普"
+      },
+      {
+        "raw_hot": 180950,
+        "num": 180950,
+        "word": "指原莉乃玩胡闹厨房与男友分手",
+        "onboard_time": 1712032041,
+        "rank": 28,
+        "category": "游戏,艺人"
+      },
+      {
+        "raw_hot": 178527,
+        "num": 178527,
+        "word": "以前的大学生吃的到底有多好",
+        "onboard_time": 1712037678,
+        "rank": 29,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 168930,
+        "num": 168930,
+        "word": "李现好优越的鼻梁",
+        "onboard_time": 1712038219,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 163207,
+        "num": 163207,
+        "word": "宫崎骏新片i人狂喜",
+        "onboard_time": 1712036959,
+        "rank": 31,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 158613,
+        "num": 158613,
+        "word": "南昌",
+        "onboard_time": 1712038879,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 155666,
+        "num": 155666,
+        "word": "林俊杰周边",
+        "onboard_time": 1712035820,
+        "rank": 33,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 154944,
+        "num": 154944,
+        "word": "花间令女二悲惨的一生",
+        "onboard_time": 1712034380,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 151561,
+        "num": 151561,
+        "word": "华晨宇官宣烟台演唱会",
+        "onboard_time": 1712015779,
+        "rank": 35,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 141917,
+        "num": 141917,
+        "word": "归期想成为P人",
+        "onboard_time": 1712038458,
+        "rank": 36,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 140621,
+        "num": 140621,
+        "word": "年轻人为何会怪罪原生家庭",
+        "onboard_time": 1712035640,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 138464,
+        "num": 138464,
+        "word": "浙江人就医已经用上AI了",
+        "onboard_time": 1712038458,
+        "rank": 38,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 131515,
+        "num": 131515,
+        "word": "Keep恋与深空联名",
+        "onboard_time": 1712032581,
+        "rank": 39,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 129172,
+        "num": 129172,
+        "word": "LPL加入蓝色行动",
+        "onboard_time": 1712037199,
+        "rank": 40,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 128558,
+        "num": 128558,
+        "word": "第一次看见有人跑不过乌龟",
+        "onboard_time": 1712038758,
+        "rank": 41,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 126120,
+        "num": 126120,
+        "word": "小猫咪的已读不回",
+        "onboard_time": 1712035098,
+        "rank": 42,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 125349,
+        "num": 125349,
+        "word": "女子睡觉被大风吹下11楼身亡",
+        "onboard_time": 1711971080,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 123483,
+        "num": 123483,
+        "word": "福宝回家倒计时",
+        "onboard_time": 1712035820,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 120813,
+        "num": 120813,
+        "word": "00后女生当模特穿自己设计的寿衣",
+        "onboard_time": 1712024599,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 117800,
+        "num": 117800,
+        "word": "潘玮柏 俺是潮霸",
+        "onboard_time": 1712030420,
+        "rank": 46,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 117391,
+        "num": 117391,
+        "word": "与凤行",
+        "onboard_time": 1712036719,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 114641,
+        "num": 114641,
+        "word": "郭艾伦回来了",
+        "onboard_time": 1712037799,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 114369,
+        "num": 114369,
+        "word": "只要狗不着地就能随便进",
+        "onboard_time": 1712037618,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#中印尼关系进入共建命运共同体的新阶段#"
+    }
+  }
+}

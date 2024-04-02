@@ -1,6 +1,6 @@
 {
   "startTime": 1711902044401,
-  "endTime": 1712036037630,
+  "endTime": 1712038962151,
   "band_list": [
     {
       "raw_hot": 12825415,
@@ -171,6 +171,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1471260,
+      "num": 1471260,
+      "word": "王灿被烫伤",
+      "onboard_time": 1712033780,
+      "rank": 3,
+      "category": "艺人,艺人"
+    },
+    {
       "raw_hot": 1468015,
       "num": 1468015,
       "word": "男朋友婚前隐瞒他7年前坐过牢",
@@ -219,14 +227,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1300101,
-      "num": 1300101,
-      "word": "王灿被烫伤",
-      "onboard_time": 1712033780,
-      "rank": 3,
-      "category": "艺人,艺人"
-    },
-    {
       "raw_hot": 1294992,
       "num": 1294992,
       "word": "南昌",
@@ -241,6 +241,14 @@
       "onboard_time": 1711961782,
       "rank": 32,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1235086,
+      "num": 689665,
+      "word": "黄旭熙 给粉丝下跪",
+      "onboard_time": 1712037859,
+      "rank": 3,
+      "category": "艺人"
     },
     {
       "raw_hot": 1234442,
@@ -316,7 +324,7 @@
     },
     {
       "raw_hot": 1056634,
-      "num": 598101,
+      "num": 704627,
       "word": "华晨宇我们终于要一起看日出了",
       "onboard_time": 1712034321,
       "rank": 9,
@@ -699,6 +707,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 685067,
+      "num": 685067,
+      "word": "日本专家说小米汽车如同iPhone问世",
+      "onboard_time": 1712034740,
+      "rank": 44,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 680667,
       "num": 680667,
       "word": "HYBE是不是疯了",
@@ -809,6 +825,14 @@
       "onboard_time": 1711982781,
       "rank": 13,
       "category": "情感"
+    },
+    {
+      "raw_hot": 648775,
+      "num": 648775,
+      "word": "分手厨房实绩",
+      "onboard_time": 1712032762,
+      "rank": 17,
+      "category": "游戏"
     },
     {
       "raw_hot": 646612,
@@ -931,14 +955,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 578890,
-      "num": 512253,
-      "word": "分手厨房实绩",
-      "onboard_time": 1712032762,
-      "rank": 17,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 573993,
       "num": 573993,
       "word": "相柳战死图",
@@ -1009,6 +1025,14 @@
       "onboard_time": 1712029459,
       "rank": 11,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 550147,
+      "num": 302934,
+      "word": "中医让我把鸡蛋牛奶戒了",
+      "onboard_time": 1712035520,
+      "rank": 20,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 543477,
@@ -1219,14 +1243,6 @@
       "category": "游戏,艺人"
     },
     {
-      "raw_hot": 463319,
-      "num": 302934,
-      "word": "中医让我把鸡蛋牛奶戒了",
-      "onboard_time": 1712035520,
-      "rank": 20,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 455619,
       "num": 455619,
       "word": "90后小伙银行离职后在殡葬行业找到人生价值",
@@ -1347,6 +1363,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 431379,
+      "num": 431379,
+      "word": "任敏别气李现了",
+      "onboard_time": 1712037258,
+      "rank": 8,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 426766,
       "num": 426766,
       "word": "杨幂美人鱼表白",
@@ -1409,6 +1433,14 @@
       "onboard_time": 1712023878,
       "rank": 25,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 410973,
+      "num": 410973,
+      "word": "张婧仪神图的诞生",
+      "onboard_time": 1712034740,
+      "rank": 21,
+      "category": "剧集"
     },
     {
       "raw_hot": 398459,
@@ -1739,6 +1771,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 316932,
+      "num": 246703,
+      "word": "大四下才是大学最难熬的吧",
+      "onboard_time": 1712036180,
+      "rank": 21,
+      "category": "教育"
+    },
+    {
       "raw_hot": 316342,
       "num": 316342,
       "word": "Epic愚人节宣布收购Steam",
@@ -1809,14 +1849,6 @@
       "onboard_time": 1711895360,
       "rank": 18,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 303998,
-      "num": 303998,
-      "word": "张婧仪神图的诞生",
-      "onboard_time": 1712034740,
-      "rank": 21,
-      "category": "剧集"
     },
     {
       "raw_hot": 302879,
@@ -2203,6 +2235,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 243829,
+      "num": 243829,
+      "word": "王珞丹给陶昕然送麝香",
+      "onboard_time": 1712038818,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 243304,
       "num": 243304,
       "word": "王一博早春穿搭",
@@ -2235,12 +2275,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 240817,
-      "num": 240817,
-      "word": "日本专家说小米汽车如同iPhone问世",
-      "onboard_time": 1712034740,
-      "rank": 44,
-      "category": "汽车"
+      "raw_hot": 240858,
+      "num": 240858,
+      "word": "王嘉尔生日长文",
+      "onboard_time": 1712036299,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 239250,
@@ -2323,6 +2363,14 @@
       "category": "科学科普,互联网"
     },
     {
+      "raw_hot": 229623,
+      "num": 229623,
+      "word": "杨幂纯白造型",
+      "onboard_time": 1712038098,
+      "rank": 25,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 229447,
       "num": 229447,
       "word": "张朝阳说35岁年龄歧视很奇怪",
@@ -2387,6 +2435,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 223095,
+      "num": 223095,
+      "word": "田曦薇背沟",
+      "onboard_time": 1712036180,
+      "rank": 26,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 220827,
       "num": 220827,
       "word": "YG耳",
@@ -2417,6 +2473,14 @@
       "onboard_time": 1711976299,
       "rank": 31,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 217413,
+      "num": 260623,
+      "word": "贵州长顺发生山火致3人死亡",
+      "onboard_time": 1712035999,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 215130,
@@ -2995,6 +3059,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 185415,
+      "num": 185415,
+      "word": "平躺才是脊柱最喜欢的睡姿",
+      "onboard_time": 1712037139,
+      "rank": 27,
+      "category": "健康医疗,科学科普"
+    },
+    {
       "raw_hot": 185099,
       "num": 185099,
       "word": "TXT闯中了",
@@ -3171,6 +3243,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 178527,
+      "num": 178527,
+      "word": "以前的大学生吃的到底有多好",
+      "onboard_time": 1712037678,
+      "rank": 29,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 177988,
       "num": 177988,
       "word": "王伟烈士牺牲23年了",
@@ -3323,6 +3403,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 168930,
+      "num": 168930,
+      "word": "李现好优越的鼻梁",
+      "onboard_time": 1712038219,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 168755,
       "num": 168755,
       "word": "SEVENTEEN特典",
@@ -3409,6 +3497,14 @@
       "onboard_time": 1711965019,
       "rank": 24,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 163207,
+      "num": 163207,
+      "word": "宫崎骏新片i人狂喜",
+      "onboard_time": 1712036959,
+      "rank": 31,
+      "category": "电影"
     },
     {
       "raw_hot": 162413,
@@ -3835,6 +3931,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 141917,
+      "num": 141917,
+      "word": "归期想成为P人",
+      "onboard_time": 1712038458,
+      "rank": 36,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 141600,
       "num": 202439,
       "word": "女生花钱找人改简历发现效果不如AI",
@@ -3865,6 +3969,14 @@
       "onboard_time": 1712035759,
       "rank": 41,
       "category": "电影"
+    },
+    {
+      "raw_hot": 138464,
+      "num": 138464,
+      "word": "浙江人就医已经用上AI了",
+      "onboard_time": 1712038458,
+      "rank": 38,
+      "category": "互联网"
     },
     {
       "raw_hot": 138359,
@@ -4003,12 +4115,28 @@
       "category": "财经"
     },
     {
+      "raw_hot": 129172,
+      "num": 129172,
+      "word": "LPL加入蓝色行动",
+      "onboard_time": 1712037199,
+      "rank": 40,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 128647,
       "num": 638959,
       "word": "浙大走廊被紫藤花淹没",
       "onboard_time": 1711965140,
       "rank": 9,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 128558,
+      "num": 128558,
+      "word": "第一次看见有人跑不过乌龟",
+      "onboard_time": 1712038758,
+      "rank": 41,
+      "category": "幽默"
     },
     {
       "raw_hot": 126719,
@@ -4059,14 +4187,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 121845,
-      "num": 121845,
-      "word": "贵州长顺发生山火致3人死亡",
-      "onboard_time": 1712035999,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 121213,
       "num": 121213,
       "word": "工作上一遇到挫折就想辞职",
@@ -4099,6 +4219,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 117391,
+      "num": 117391,
+      "word": "与凤行",
+      "onboard_time": 1712036719,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 115870,
       "num": 115870,
       "word": "追风者编剧 牛",
@@ -4113,6 +4241,22 @@
       "onboard_time": 1711968739,
       "rank": 25,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 114641,
+      "num": 114641,
+      "word": "郭艾伦回来了",
+      "onboard_time": 1712037799,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 114369,
+      "num": 114369,
+      "word": "只要狗不着地就能随便进",
+      "onboard_time": 1712037618,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 113425,
