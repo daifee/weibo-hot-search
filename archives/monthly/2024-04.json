@@ -1,6 +1,6 @@
 {
   "startTime": 1711902044401,
-  "endTime": 1712082094907,
+  "endTime": 1712082879836,
   "band_list": [
     {
       "raw_hot": 12825415,
@@ -3507,6 +3507,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 205671,
+      "num": 82971,
+      "word": "警方回应找王婆说媒已婚男妻子疑轻生",
+      "onboard_time": 1712079373,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 205452,
       "num": 205452,
       "word": "张杰巅峰盛典全程",
@@ -3977,14 +3985,6 @@
       "onboard_time": 1712067621,
       "rank": 33,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 191703,
-      "num": 82971,
-      "word": "警方回应找王婆说媒已婚男妻子疑轻生",
-      "onboard_time": 1712079373,
-      "rank": 10,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 191431,
@@ -5371,6 +5371,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 140370,
+      "num": 82188,
+      "word": "宁艺卓疑似签售切小屏",
+      "onboard_time": 1712080633,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 140063,
       "num": 140063,
       "word": "自虐式管理公司的老板",
@@ -5481,14 +5489,6 @@
       "onboard_time": 1712053160,
       "rank": 49,
       "category": "美食,财经"
-    },
-    {
-      "raw_hot": 136834,
-      "num": 82188,
-      "word": "宁艺卓疑似签售切小屏",
-      "onboard_time": 1712080633,
-      "rank": 11,
-      "category": "艺人"
     },
     {
       "raw_hot": 136815,
@@ -6107,6 +6107,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 71546,
+      "num": 71546,
+      "word": "回避型依恋",
+      "onboard_time": 1712080032,
+      "rank": 17,
+      "category": "情感"
+    },
+    {
       "raw_hot": 71351,
       "num": 838133,
       "word": "七年雄安拔节生长",
@@ -6161,14 +6169,6 @@
       "onboard_time": 1711923133,
       "rank": 43,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 57630,
-      "num": 57630,
-      "word": "回避型依恋",
-      "onboard_time": 1712080032,
-      "rank": 17,
-      "category": "情感"
     },
     {
       "raw_hot": 57627,
@@ -6315,8 +6315,8 @@
       "category": "演出"
     },
     {
-      "raw_hot": 27126,
-      "num": 27126,
+      "raw_hot": 27309,
+      "num": 27309,
       "word": "夏目友人帐 唯美水中花",
       "onboard_time": 1712080992,
       "rank": 42,
