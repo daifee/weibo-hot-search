@@ -1,6 +1,6 @@
 {
   "startTime": 1712074937436,
-  "endTime": 1712075860721,
+  "endTime": 1712078267695,
   "band_list": [
     {
       "raw_hot": 1403062,
@@ -75,20 +75,20 @@
       "category": "科学科普,健康医疗"
     },
     {
+      "raw_hot": 402693,
+      "num": 402693,
+      "word": "杨雪",
+      "onboard_time": 1712064261,
+      "rank": 11,
+      "category": "体育"
+    },
+    {
       "raw_hot": 398799,
       "num": 398799,
       "word": "姜爷爷母亲去世",
       "onboard_time": 1712065879,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 371599,
-      "num": 371599,
-      "word": "杨雪",
-      "onboard_time": 1712064261,
-      "rank": 11,
-      "category": "体育"
     },
     {
       "raw_hot": 330888,
@@ -147,6 +147,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 206822,
+      "num": 109315,
+      "word": "28岁女子长期吃冰箱剩菜确诊胃癌",
+      "onboard_time": 1712076974,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 201157,
       "num": 201157,
       "word": "唐一军涉嫌严重违纪违法被查",
@@ -161,6 +169,14 @@
       "onboard_time": 1712068581,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 179037,
+      "num": 179037,
+      "word": "杨幂幺鸡造型",
+      "onboard_time": 1712074876,
+      "rank": 47,
+      "category": "电影"
     },
     {
       "raw_hot": 178302,
@@ -251,20 +267,20 @@
       "category": "情感"
     },
     {
+      "raw_hot": 127650,
+      "num": 127650,
+      "word": "惜花芷 改编",
+      "onboard_time": 1712075117,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 126843,
       "num": 126843,
       "word": "庆余年第二季已过审",
       "onboard_time": 1712063061,
       "rank": 31,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 126175,
-      "num": 126175,
-      "word": "杨幂幺鸡造型",
-      "onboard_time": 1712074876,
-      "rank": 47,
-      "category": "电影"
     },
     {
       "raw_hot": 120105,
@@ -289,14 +305,6 @@
       "onboard_time": 1712052680,
       "rank": 35,
       "category": "电竞,网红"
-    },
-    {
-      "raw_hot": 110522,
-      "num": 110522,
-      "word": "惜花芷 改编",
-      "onboard_time": 1712075117,
-      "rank": 31,
-      "category": "剧集"
     },
     {
       "raw_hot": 105506,
@@ -371,12 +379,20 @@
       "category": "情感"
     },
     {
-      "raw_hot": 90547,
-      "num": 90547,
+      "raw_hot": 90771,
+      "num": 90771,
       "word": "黄磊黄渤张艺兴面馆一起吃面",
       "onboard_time": 1712075416,
       "rank": 36,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 90208,
+      "num": 90208,
+      "word": "开钟点房的到底是些什么人",
+      "onboard_time": 1712077573,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 90128,
@@ -409,6 +425,14 @@
       "onboard_time": 1712069840,
       "rank": 48,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 38268,
+      "num": 46045,
+      "word": "张杰新歌自己",
+      "onboard_time": 1712078112,
+      "rank": 49,
+      "category": "音乐"
     },
     {
       "raw_hot": 3452,

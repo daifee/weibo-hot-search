@@ -1,6 +1,6 @@
 {
   "startTime": 1711815680412,
-  "endTime": 1712075860721,
+  "endTime": 1712078267695,
   "band_list": [
     {
       "raw_hot": 12825415,
@@ -5075,6 +5075,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 206822,
+      "num": 109315,
+      "word": "28岁女子长期吃冰箱剩菜确诊胃癌",
+      "onboard_time": 1712076974,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 206512,
       "num": 206512,
       "word": "DK战胜KT",
@@ -6201,6 +6209,14 @@
       "onboard_time": 1711806922,
       "rank": 23,
       "category": "科学科普,健康医疗"
+    },
+    {
+      "raw_hot": 179037,
+      "num": 179037,
+      "word": "杨幂幺鸡造型",
+      "onboard_time": 1712074876,
+      "rank": 47,
+      "category": "电影"
     },
     {
       "raw_hot": 178847,
@@ -8107,6 +8123,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 127650,
+      "num": 127650,
+      "word": "惜花芷 改编",
+      "onboard_time": 1712075117,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 126719,
       "num": 126719,
       "word": "什么是躁狂发作",
@@ -8129,14 +8153,6 @@
       "onboard_time": 1712027000,
       "rank": 47,
       "category": "母婴育儿"
-    },
-    {
-      "raw_hot": 126175,
-      "num": 126175,
-      "word": "杨幂幺鸡造型",
-      "onboard_time": 1712074876,
-      "rank": 47,
-      "category": "电影"
     },
     {
       "raw_hot": 126120,
@@ -8491,14 +8507,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 110522,
-      "num": 110522,
-      "word": "惜花芷 改编",
-      "onboard_time": 1712075117,
-      "rank": 31,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 110134,
       "num": 110134,
       "word": "奥本海默日本上映观众情绪复杂",
@@ -8707,12 +8715,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 90547,
-      "num": 90547,
+      "raw_hot": 90771,
+      "num": 90771,
       "word": "黄磊黄渤张艺兴面馆一起吃面",
       "onboard_time": 1712075416,
       "rank": 36,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 90208,
+      "num": 90208,
+      "word": "开钟点房的到底是些什么人",
+      "onboard_time": 1712077573,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 89618,
@@ -9145,6 +9161,14 @@
       "onboard_time": 1711908493,
       "rank": 42,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 38268,
+      "num": 46045,
+      "word": "张杰新歌自己",
+      "onboard_time": 1712078112,
+      "rank": 49,
+      "category": "音乐"
     },
     {
       "raw_hot": 33969,

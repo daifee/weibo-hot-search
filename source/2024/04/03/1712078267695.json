@@ -1,0 +1,410 @@
+{
+  "runTime": 1712078267695,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 575753,
+        "num": 575753,
+        "word": "中美关系要不折腾不挑事不越界",
+        "onboard_time": 1712073259,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 410231,
+        "num": 410231,
+        "word": "0作品却涨粉400万",
+        "onboard_time": 1712056520,
+        "rank": 1,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 2421,
+        "num": 405313,
+        "word": "中非互联网发展与合作论坛",
+        "onboard_time": 1712044158,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 402693,
+        "num": 402693,
+        "word": "杨雪",
+        "onboard_time": 1712064261,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 381842,
+        "num": 381842,
+        "word": "小杨哥退出与美腕合资公司",
+        "onboard_time": 1712073079,
+        "rank": 4,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 265917,
+        "num": 265917,
+        "word": "耳朵痒却掏不出东西咋回事",
+        "onboard_time": 1712057840,
+        "rank": 5,
+        "category": "科学科普,健康医疗"
+      },
+      {
+        "raw_hot": 265750,
+        "num": 265750,
+        "word": "当一个白富美经历家庭破产",
+        "onboard_time": 1712069061,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 245193,
+        "num": 245193,
+        "word": "家属求医生把癌症报告由晚期改为中期",
+        "onboard_time": 1712060360,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 179889,
+        "num": 179889,
+        "word": "八年前的金智媛",
+        "onboard_time": 1712071519,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 179037,
+        "num": 179037,
+        "word": "杨幂幺鸡造型",
+        "onboard_time": 1712074876,
+        "rank": 9,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 301689,
+        "num": 173440,
+        "word": "放三天补一天的意义是什么",
+        "onboard_time": 1712047098,
+        "rank": 10,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 165096,
+        "num": 165096,
+        "word": "方志敏的遗骸竟有两块胫骨戴着镣铐",
+        "onboard_time": 1712068581,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 155032,
+        "num": 155032,
+        "word": "李若彤回应58岁未婚未育",
+        "onboard_time": 1712064080,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 151909,
+        "num": 151909,
+        "word": "姜爷爷母亲去世",
+        "onboard_time": 1712065879,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 150598,
+        "num": 150598,
+        "word": "neinei十年前后变化",
+        "onboard_time": 1712064200,
+        "rank": 14,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 149324,
+        "num": 149324,
+        "word": "新仙剑阿奴出场秒变菜狗",
+        "onboard_time": 1712063061,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 129536,
+        "num": 129536,
+        "word": "小楼是谁",
+        "onboard_time": 1712056640,
+        "rank": 16,
+        "category": "电竞,网红"
+      },
+      {
+        "raw_hot": 127650,
+        "num": 127650,
+        "word": "惜花芷 改编",
+        "onboard_time": 1712075117,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 124410,
+        "num": 124410,
+        "word": "与凤行滤镜改了",
+        "onboard_time": 1712065822,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 117409,
+        "num": 117409,
+        "word": "央视网文娱评花间令",
+        "onboard_time": 1712065521,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 206822,
+        "num": 109315,
+        "word": "28岁女子长期吃冰箱剩菜确诊胃癌",
+        "onboard_time": 1712076974,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 132292,
+        "num": 106539,
+        "word": "聊天聊出来的感情不聊就断了",
+        "onboard_time": 1712074099,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 91708,
+        "num": 91708,
+        "word": "黄旭熙 给粉丝下跪",
+        "onboard_time": 1712037859,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 90771,
+        "num": 90771,
+        "word": "黄磊黄渤张艺兴面馆一起吃面",
+        "onboard_time": 1712075416,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 90208,
+        "num": 90208,
+        "word": "开钟点房的到底是些什么人",
+        "onboard_time": 1712077573,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 87208,
+        "num": 87208,
+        "word": "全宿舍都考上研了就我没考上",
+        "onboard_time": 1712064861,
+        "rank": 25,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 84176,
+        "num": 84176,
+        "word": "赵小棠抑郁了两年",
+        "onboard_time": 1712038998,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 68618,
+        "num": 68618,
+        "word": "09微博回应小楼",
+        "onboard_time": 1712052680,
+        "rank": 27,
+        "category": "电竞,网红"
+      },
+      {
+        "raw_hot": 68376,
+        "num": 68376,
+        "word": "王俊凯直播",
+        "onboard_time": 1712065521,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 61506,
+        "num": 67093,
+        "word": "唐一军涉嫌严重违纪违法被查",
+        "onboard_time": 1712065701,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 66811,
+        "num": 66811,
+        "word": "郑合惠子 清醒的恋爱观",
+        "onboard_time": 1712071161,
+        "rank": 30,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 63821,
+        "num": 63821,
+        "word": "服用紧急避孕药会影响生育吗",
+        "onboard_time": 1712055139,
+        "rank": 31,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 62169,
+        "num": 62169,
+        "word": "跟氯雷他定人交朋友是什么体验",
+        "onboard_time": 1712059400,
+        "rank": 32,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 61804,
+        "num": 61804,
+        "word": "只有教师才懂教师的心酸",
+        "onboard_time": 1712064319,
+        "rank": 33,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 60494,
+        "num": 60494,
+        "word": "江西首次启动大风四级应急响应",
+        "onboard_time": 1712070979,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 58669,
+        "num": 58669,
+        "word": "福宝欢迎回家",
+        "onboard_time": 1712065040,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 57893,
+        "num": 57893,
+        "word": "李惠利更新ins了",
+        "onboard_time": 1712054898,
+        "rank": 36,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 56274,
+        "num": 56274,
+        "word": "庆余年第二季已过审",
+        "onboard_time": 1712063061,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 55736,
+        "num": 55736,
+        "word": "想辞职被领导撒娇留下来了",
+        "onboard_time": 1712065279,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 54999,
+        "num": 54999,
+        "word": "赵灵儿蛇身特效",
+        "onboard_time": 1712059279,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 54909,
+        "num": 54909,
+        "word": "看直播买了107件二手衣服",
+        "onboard_time": 1712065339,
+        "rank": 40,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 54195,
+        "num": 54195,
+        "word": "111岁开国少将张力雄逝世",
+        "onboard_time": 1712064620,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 53665,
+        "num": 53665,
+        "word": "章昊韩网被审判",
+        "onboard_time": 1712055860,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 48686,
+        "num": 48686,
+        "word": "张雨绮束腰短裙",
+        "onboard_time": 1712067981,
+        "rank": 43,
+        "category": "综艺,时尚"
+      },
+      {
+        "raw_hot": 47965,
+        "num": 47965,
+        "word": "为何南昌强对流天气破坏力极大",
+        "onboard_time": 1712062280,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 46079,
+        "num": 46079,
+        "word": "与凤行 东海龙王已读乱送",
+        "onboard_time": 1712065401,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 41034,
+        "num": 46075,
+        "word": "脸上有疤 心上有他",
+        "onboard_time": 1712069660,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 40913,
+        "num": 46065,
+        "word": "秦岚的工作餐",
+        "onboard_time": 1712071459,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 38487,
+        "num": 46046,
+        "word": "NIP对战WE",
+        "onboard_time": 1712069840,
+        "rank": 48,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 38268,
+        "num": 46045,
+        "word": "张杰新歌自己",
+        "onboard_time": 1712078112,
+        "rank": 49,
+        "category": "音乐"
+      }
+    ],
+    "hotgov": {
+      "word": "#这次会谈体现中印尼关系的高水平#"
+    }
+  }
+}
