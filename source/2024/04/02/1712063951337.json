@@ -1,0 +1,410 @@
+{
+  "runTime": 1712063951337,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1528529,
+        "num": 1528529,
+        "word": "0作品却涨粉400万",
+        "onboard_time": 1712056520,
+        "rank": 0,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 1388856,
+        "num": 1388856,
+        "word": "家属求医生把癌症报告由晚期改为中期",
+        "onboard_time": 1712060360,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 15674,
+        "num": 1177410,
+        "word": "中非互联网发展与合作论坛",
+        "onboard_time": 1712044158,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1009620,
+        "num": 1009620,
+        "word": "女子在母亲出殡当天被哥哥要求放弃遗产",
+        "onboard_time": 1712058380,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 632127,
+        "num": 632127,
+        "word": "赵小棠 生病了不是你的错",
+        "onboard_time": 1712058798,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 457340,
+        "num": 457340,
+        "word": "耳朵痒却掏不出东西咋回事",
+        "onboard_time": 1712057840,
+        "rank": 5,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 448468,
+        "num": 448468,
+        "word": "庆余年第二季已过审",
+        "onboard_time": 1712063061,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 445171,
+        "num": 445171,
+        "word": "赵灵儿蛇身特效",
+        "onboard_time": 1712059279,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 424832,
+        "num": 424832,
+        "word": "服用紧急避孕药会影响生育吗",
+        "onboard_time": 1712055139,
+        "rank": 8,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 345074,
+        "num": 409248,
+        "word": "减轻教师非教育教学负担",
+        "onboard_time": 1712058739,
+        "rank": 9,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 627171,
+        "num": 405595,
+        "word": "放三天补一天的意义是什么",
+        "onboard_time": 1712047098,
+        "rank": 10,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 393780,
+        "num": 393780,
+        "word": "福宝",
+        "onboard_time": 1712057541,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 385370,
+        "num": 385370,
+        "word": "雷军担心的事还是发生了",
+        "onboard_time": 1712063539,
+        "rank": 12,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 363908,
+        "num": 363908,
+        "word": "赵小棠抑郁了两年",
+        "onboard_time": 1712038998,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 354032,
+        "num": 354032,
+        "word": "阿坝州地震",
+        "onboard_time": 1712061138,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 348047,
+        "num": 348047,
+        "word": "新仙剑阿奴出场秒变菜狗",
+        "onboard_time": 1712063061,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 340114,
+        "num": 340114,
+        "word": "李惠利更新ins了",
+        "onboard_time": 1712054898,
+        "rank": 16,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 320678,
+        "num": 320678,
+        "word": "见过开黄腔的婚礼司仪吗",
+        "onboard_time": 1712054840,
+        "rank": 17,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 295495,
+        "num": 295495,
+        "word": "章昊韩网被审判",
+        "onboard_time": 1712055860,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 276093,
+        "num": 276093,
+        "word": "文旅部门调查游客被拖进洞房事件",
+        "onboard_time": 1712061619,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 289719,
+        "num": 273977,
+        "word": "跟氯雷他定人交朋友是什么体验",
+        "onboard_time": 1712059400,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 266682,
+        "num": 266682,
+        "word": "黄旭熙 给粉丝下跪",
+        "onboard_time": 1712037859,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 260231,
+        "num": 260231,
+        "word": "华为拟分红770.95亿",
+        "onboard_time": 1712057421,
+        "rank": 22,
+        "category": "互联网,财经"
+      },
+      {
+        "raw_hot": 244080,
+        "num": 244080,
+        "word": "为何南昌强对流天气破坏力极大",
+        "onboard_time": 1712062280,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 235588,
+        "num": 235588,
+        "word": "朱一龙直播",
+        "onboard_time": 1712062280,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 232312,
+        "num": 232312,
+        "word": "小楼是谁",
+        "onboard_time": 1712056640,
+        "rank": 25,
+        "category": "电竞,网红"
+      },
+      {
+        "raw_hot": 196769,
+        "num": 196769,
+        "word": "福宝还不满4岁不能谈恋爱",
+        "onboard_time": 1712053341,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 194383,
+        "num": 194383,
+        "word": "15岁女孩赛艇训练失联遗体被找到",
+        "onboard_time": 1712062639,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 195561,
+        "num": 191537,
+        "word": "09微博回应小楼",
+        "onboard_time": 1712052680,
+        "rank": 28,
+        "category": "电竞,网红"
+      },
+      {
+        "raw_hot": 184141,
+        "num": 184141,
+        "word": "张靓颖直播",
+        "onboard_time": 1712062399,
+        "rank": 29,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 285810,
+        "num": 184101,
+        "word": "华为已撤回遥遥领先商标申请",
+        "onboard_time": 1712047518,
+        "rank": 30,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 183920,
+        "num": 183920,
+        "word": "张可颐回应与宣萱佘诗曼不和",
+        "onboard_time": 1712061560,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 155582,
+        "num": 155582,
+        "word": "法国张震",
+        "onboard_time": 1712059460,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 153932,
+        "num": 153932,
+        "word": "EXO粉丝见面会穿蓝色",
+        "onboard_time": 1712063061,
+        "rank": 33,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 153868,
+        "num": 153868,
+        "word": "宋昰昀承认校园暴力",
+        "onboard_time": 1712044218,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 153277,
+        "num": 153277,
+        "word": "宋雨琦专辑",
+        "onboard_time": 1712063419,
+        "rank": 35,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 149774,
+        "num": 149774,
+        "word": "杨幂叠穿新中式",
+        "onboard_time": 1712056579,
+        "rank": 36,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 147032,
+        "num": 147032,
+        "word": "省考成绩",
+        "onboard_time": 1712044279,
+        "rank": 37,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 141549,
+        "num": 141549,
+        "word": "张彬彬 张元英转圈",
+        "onboard_time": 1712055620,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 139610,
+        "num": 139610,
+        "word": "沙溢让胡可归还自己失去的颜值",
+        "onboard_time": 1712055560,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 136979,
+        "num": 136979,
+        "word": "追风者周姨疯了",
+        "onboard_time": 1712060478,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 135547,
+        "num": 135547,
+        "word": "复试结束在酒店把书全撕了",
+        "onboard_time": 1712054718,
+        "rank": 41,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 127187,
+        "num": 127187,
+        "word": "蒋勤勤 吴磊小时候咋没演过我儿子",
+        "onboard_time": 1712057960,
+        "rank": 42,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 123217,
+        "num": 123217,
+        "word": "被幼儿园小朋友厨艺震惊了",
+        "onboard_time": 1712060060,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 122382,
+        "num": 122382,
+        "word": "曾舜晞又去客串了",
+        "onboard_time": 1712056819,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 121320,
+        "num": 121320,
+        "word": "原神4.5",
+        "onboard_time": 1712061679,
+        "rank": 45,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 117449,
+        "num": 117449,
+        "word": "小舞回应",
+        "onboard_time": 1712058620,
+        "rank": 46,
+        "category": "电竞,网红"
+      },
+      {
+        "raw_hot": 116964,
+        "num": 116964,
+        "word": "华为三折屏手机最早第二季度发布",
+        "onboard_time": 1712062038,
+        "rank": 47,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 112313,
+        "num": 112313,
+        "word": "惜花芷 全家扔进变形计",
+        "onboard_time": 1712063840,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 107571,
+        "num": 107571,
+        "word": "原来做父母有这么大的权利",
+        "onboard_time": 1712063840,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#这次会谈体现中印尼关系的高水平#"
+    }
+  }
+}
