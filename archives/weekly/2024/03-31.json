@@ -1,6 +1,6 @@
 {
   "startTime": 1711815680412,
-  "endTime": 1712050500913,
+  "endTime": 1712053175020,
   "band_list": [
     {
       "raw_hot": 12825415,
@@ -11,8 +11,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 3312102,
-      "num": 827890,
+      "raw_hot": 4820066,
+      "num": 877275,
       "word": "09 出轨",
       "onboard_time": 1712047398,
       "rank": 3,
@@ -201,6 +201,14 @@
       "onboard_time": 1711979001,
       "rank": 0,
       "category": "电影"
+    },
+    {
+      "raw_hot": 1788945,
+      "num": 1147288,
+      "word": "09 小舞",
+      "onboard_time": 1712049260,
+      "rank": 26,
+      "category": "电竞,网红"
     },
     {
       "raw_hot": 1758169,
@@ -491,14 +499,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1147288,
-      "num": 1147288,
-      "word": "09 小舞",
-      "onboard_time": 1712049260,
-      "rank": 26,
-      "category": "电竞,网红"
-    },
-    {
       "raw_hot": 1146601,
       "num": 1146601,
       "word": "孙千172高不到97斤",
@@ -723,6 +723,14 @@
       "category": "健康医疗,科学科普"
     },
     {
+      "raw_hot": 898255,
+      "num": 898255,
+      "word": "孙亚龙 小楼",
+      "onboard_time": 1712052680,
+      "rank": 1,
+      "category": "电竞,网红"
+    },
+    {
       "raw_hot": 891401,
       "num": 891401,
       "word": "雷军恳请各位口下留情",
@@ -753,6 +761,14 @@
       "onboard_time": 1711899020,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 875162,
+      "num": 875162,
+      "word": "华为已撤回遥遥领先商标申请",
+      "onboard_time": 1712047518,
+      "rank": 7,
+      "category": "互联网"
     },
     {
       "raw_hot": 874024,
@@ -1041,14 +1057,6 @@
       "onboard_time": 1711972040,
       "rank": 12,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 735939,
-      "num": 735939,
-      "word": "华为已撤回遥遥领先商标申请",
-      "onboard_time": 1712047518,
-      "rank": 7,
-      "category": "互联网"
     },
     {
       "raw_hot": 730260,
@@ -1643,6 +1651,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 535752,
+      "num": 535752,
+      "word": "在美20岁中国女留学生校外身亡",
+      "onboard_time": 1712048720,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 534234,
       "num": 534234,
       "word": "一批30岁青年不再租房",
@@ -2051,14 +2067,6 @@
       "category": "汽车,艺人"
     },
     {
-      "raw_hot": 458166,
-      "num": 458166,
-      "word": "在美20岁中国女留学生校外身亡",
-      "onboard_time": 1712048720,
-      "rank": 23,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 455933,
       "num": 455933,
       "word": "小米汽车副总裁回应近期风波",
@@ -2377,6 +2385,14 @@
       "onboard_time": 1711844596,
       "rank": 7,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 401750,
+      "num": 401750,
+      "word": "09是谁",
+      "onboard_time": 1712052198,
+      "rank": 13,
+      "category": "电竞,网红"
     },
     {
       "raw_hot": 398440,
@@ -2913,6 +2929,14 @@
       "onboard_time": 1711950802,
       "rank": 22,
       "category": "情感"
+    },
+    {
+      "raw_hot": 320205,
+      "num": 320205,
+      "word": "全员加速中全员猎人",
+      "onboard_time": 1712049440,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 318487,
@@ -3587,6 +3611,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 258301,
+      "num": 518947,
+      "word": "淄博烧烤赵大爷和日日鲜的cp感",
+      "onboard_time": 1712051419,
+      "rank": 9,
+      "category": "美食"
+    },
+    {
       "raw_hot": 257960,
       "num": 257960,
       "word": "奶奶送的黄金吊坠是铁的",
@@ -3761,14 +3793,6 @@
       "onboard_time": 1711974380,
       "rank": 32,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 245916,
-      "num": 245916,
-      "word": "全员加速中全员猎人",
-      "onboard_time": 1712049440,
-      "rank": 49,
-      "category": "综艺"
     },
     {
       "raw_hot": 245831,
@@ -4123,6 +4147,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 228251,
+      "num": 228251,
+      "word": "黄俊捷饼干礼盒188元",
+      "onboard_time": 1712051119,
+      "rank": 24,
+      "category": "艺人,美食"
+    },
+    {
       "raw_hot": 228038,
       "num": 228038,
       "word": "小米集团盘前大涨15%",
@@ -4169,6 +4201,14 @@
       "onboard_time": 1711965202,
       "rank": 35,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 224881,
+      "num": 224881,
+      "word": "女性为什么会选择独自生养孩子",
+      "onboard_time": 1712049860,
+      "rank": 28,
+      "category": "母婴育儿,情感"
     },
     {
       "raw_hot": 224810,
@@ -4523,14 +4563,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 206736,
-      "num": 206736,
-      "word": "女性为什么会选择独自生养孩子",
-      "onboard_time": 1712049860,
-      "rank": 28,
-      "category": "母婴育儿,情感"
-    },
-    {
       "raw_hot": 206512,
       "num": 206512,
       "word": "DK战胜KT",
@@ -4641,6 +4673,14 @@
       "onboard_time": 1711893319,
       "rank": 33,
       "category": "演出"
+    },
+    {
+      "raw_hot": 202901,
+      "num": 202901,
+      "word": "资产3.5亿美元威尔史密斯称不快乐",
+      "onboard_time": 1712051659,
+      "rank": 26,
+      "category": "电影"
     },
     {
       "raw_hot": 202533,
@@ -4971,6 +5011,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 194194,
+      "num": 194194,
+      "word": "09微博回应小楼",
+      "onboard_time": 1712052680,
+      "rank": 28,
+      "category": "电竞,网红"
+    },
+    {
       "raw_hot": 193819,
       "num": 193819,
       "word": "TXT空降成绩",
@@ -5129,6 +5177,14 @@
       "onboard_time": 1711869377,
       "rank": 33,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 190042,
+      "num": 190042,
+      "word": "南昌冰雹预警",
+      "onboard_time": 1712052680,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 189884,
@@ -5441,6 +5497,14 @@
       "onboard_time": 1711871057,
       "rank": 33,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 180888,
+      "num": 180888,
+      "word": "小事J人大事P人",
+      "onboard_time": 1712052380,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 180708,
@@ -5977,6 +6041,14 @@
       "onboard_time": 1711965019,
       "rank": 24,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 163295,
+      "num": 163295,
+      "word": "中信银行人均降薪近9%",
+      "onboard_time": 1712050399,
+      "rank": 49,
+      "category": "财经"
     },
     {
       "raw_hot": 163207,
@@ -6577,6 +6649,14 @@
       "onboard_time": 1712021478,
       "rank": 42,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 145495,
+      "num": 145495,
+      "word": "读大学其实就像是在追星",
+      "onboard_time": 1712051899,
+      "rank": 36,
+      "category": "情感"
     },
     {
       "raw_hot": 145436,
@@ -7267,6 +7347,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 121067,
+      "num": 121067,
+      "word": "潘玮柏上海",
+      "onboard_time": 1712050938,
+      "rank": 38,
+      "category": "演出"
+    },
+    {
       "raw_hot": 120691,
       "num": 156319,
       "word": "夜校唢呐课500人抢16个名额",
@@ -7307,12 +7395,36 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 117578,
+      "num": 117578,
+      "word": "谢楠 补充夸一下吴磊弟弟吧",
+      "onboard_time": 1712051659,
+      "rank": 39,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 117544,
+      "num": 117544,
+      "word": "数码宝贝 太一长大了",
+      "onboard_time": 1712051239,
+      "rank": 40,
+      "category": "电影,动漫"
+    },
+    {
       "raw_hot": 117403,
       "num": 117403,
       "word": "人大食堂自研天水麻辣烫",
       "onboard_time": 1711975640,
       "rank": 47,
       "category": "美食"
+    },
+    {
+      "raw_hot": 117305,
+      "num": 117305,
+      "word": "内部人士回应华为三折屏手机面世时间",
+      "onboard_time": 1712050460,
+      "rank": 48,
+      "category": "数码"
     },
     {
       "raw_hot": 116197,
@@ -7483,22 +7595,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 107083,
-      "num": 107083,
-      "word": "内部人士回应华为三折屏手机面世时间",
-      "onboard_time": 1712050460,
-      "rank": 48,
-      "category": "数码"
-    },
-    {
-      "raw_hot": 106841,
-      "num": 106841,
-      "word": "中信银行人均降薪近9%",
-      "onboard_time": 1712050399,
-      "rank": 49,
-      "category": "财经"
-    },
-    {
       "raw_hot": 106062,
       "num": 106062,
       "word": "打雷",
@@ -7513,6 +7609,14 @@
       "onboard_time": 1711890678,
       "rank": 38,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 105222,
+      "num": 105222,
+      "word": "圆真真创始人谢瑶亏掉1000万摆地摊",
+      "onboard_time": 1712053160,
+      "rank": 49,
+      "category": "美食,财经"
     },
     {
       "raw_hot": 104976,
@@ -7673,6 +7777,14 @@
       "onboard_time": 1711842254,
       "rank": 48,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 89723,
+      "num": 522436,
+      "word": "成都紫藤花墙如瀑布倾泻",
+      "onboard_time": 1712051419,
+      "rank": 8,
+      "category": "旅游"
     },
     {
       "raw_hot": 89618,

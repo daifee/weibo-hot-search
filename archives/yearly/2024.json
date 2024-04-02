@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1712050500913,
+  "endTime": 1712053175020,
   "band_list": [
     {
       "raw_hot": 21250232,
@@ -795,6 +795,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 4820066,
+      "num": 877275,
+      "word": "09 出轨",
+      "onboard_time": 1712047398,
+      "rank": 3,
+      "category": "电竞,网红"
+    },
+    {
       "raw_hot": 4791031,
       "num": 4791031,
       "word": "德州车祸致2死6重伤",
@@ -1441,14 +1449,6 @@
       "onboard_time": 1707298112,
       "rank": 3,
       "category": "财经"
-    },
-    {
-      "raw_hot": 3312102,
-      "num": 827890,
-      "word": "09 出轨",
-      "onboard_time": 1712047398,
-      "rank": 3,
-      "category": "电竞,网红"
     },
     {
       "raw_hot": 3312035,
