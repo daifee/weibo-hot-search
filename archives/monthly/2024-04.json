@@ -1,6 +1,6 @@
 {
   "startTime": 1711902044401,
-  "endTime": 1712072069787,
+  "endTime": 1712074937436,
   "band_list": [
     {
       "raw_hot": 12825415,
@@ -321,6 +321,14 @@
       "onboard_time": 1711976478,
       "rank": 13,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1297331,
+      "num": 1297331,
+      "word": "中美关系要不折腾不挑事不越界",
+      "onboard_time": 1712073259,
+      "rank": 0,
+      "category": "国内时政"
     },
     {
       "raw_hot": 1294992,
@@ -1212,7 +1220,7 @@
     },
     {
       "raw_hot": 583636,
-      "num": 430477,
+      "num": 566174,
       "word": "当一个白富美经历家庭破产",
       "onboard_time": 1712069061,
       "rank": 13,
@@ -1473,6 +1481,14 @@
       "onboard_time": 1712031923,
       "rank": 21,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 499213,
+      "num": 499213,
+      "word": "小杨哥退出与美腕合资公司",
+      "onboard_time": 1712073079,
+      "rank": 5,
+      "category": "网红"
     },
     {
       "raw_hot": 496413,
@@ -1795,6 +1811,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 421108,
+      "num": 421108,
+      "word": "八年前的金智媛",
+      "onboard_time": 1712071519,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 419719,
       "num": 419719,
       "word": "杨幂豹纹辣妹",
@@ -2105,14 +2129,6 @@
       "onboard_time": 1712013677,
       "rank": 30,
       "category": "美食"
-    },
-    {
-      "raw_hot": 352413,
-      "num": 352413,
-      "word": "八年前的金智媛",
-      "onboard_time": 1712071519,
-      "rank": 14,
-      "category": "艺人"
     },
     {
       "raw_hot": 348254,
@@ -5659,6 +5675,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 124261,
+      "num": 124261,
+      "word": "聊天聊出来的感情不聊就断了",
+      "onboard_time": 1712074099,
+      "rank": 32,
+      "category": "情感"
+    },
+    {
       "raw_hot": 123951,
       "num": 123002,
       "word": "鞠婧祎换了微博头像",
@@ -5969,6 +5993,14 @@
       "onboard_time": 1711927997,
       "rank": 40,
       "category": "情感"
+    },
+    {
+      "raw_hot": 82140,
+      "num": 89811,
+      "word": "杨幂幺鸡造型",
+      "onboard_time": 1712074876,
+      "rank": 47,
+      "category": "电影"
     },
     {
       "raw_hot": 81435,
