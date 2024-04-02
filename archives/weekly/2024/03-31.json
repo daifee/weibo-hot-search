@@ -1,6 +1,6 @@
 {
   "startTime": 1711815680412,
-  "endTime": 1712034996136,
+  "endTime": 1712036037630,
   "band_list": [
     {
       "raw_hot": 12825415,
@@ -179,6 +179,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 1758169,
+      "num": 1758169,
+      "word": "任正非据传下禁令一句遥遥领先罚款一万",
+      "onboard_time": 1712032942,
+      "rank": 1,
+      "category": "数码"
+    },
+    {
       "raw_hot": 1749664,
       "num": 400287,
       "word": "重庆坠亡小孩被抛前多次尝试翻进窗户",
@@ -275,14 +283,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 1424106,
-      "num": 1424106,
-      "word": "任正非据传下禁令一句遥遥领先罚款一万",
-      "onboard_time": 1712032942,
-      "rank": 1,
-      "category": "数码"
-    },
-    {
       "raw_hot": 1420306,
       "num": 1126646,
       "word": "删了吧我有个朋友要生气了",
@@ -321,6 +321,14 @@
       "onboard_time": 1711976478,
       "rank": 13,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1300101,
+      "num": 1300101,
+      "word": "王灿被烫伤",
+      "onboard_time": 1712033780,
+      "rank": 3,
+      "category": "艺人,艺人"
     },
     {
       "raw_hot": 1294992,
@@ -459,14 +467,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 1116648,
-      "num": 1116648,
-      "word": "王灿被烫伤",
-      "onboard_time": 1712033780,
-      "rank": 3,
-      "category": "艺人,艺人"
-    },
-    {
       "raw_hot": 1093436,
       "num": 654745,
       "word": "迈巴赫成都来福士连续碾压多人",
@@ -497,6 +497,14 @@
       "onboard_time": 1711982002,
       "rank": 44,
       "category": "网红"
+    },
+    {
+      "raw_hot": 1056634,
+      "num": 598101,
+      "word": "华晨宇我们终于要一起看日出了",
+      "onboard_time": 1712034321,
+      "rank": 9,
+      "category": "演出"
     },
     {
       "raw_hot": 1035412,
@@ -1347,6 +1355,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 578890,
+      "num": 512253,
+      "word": "分手厨房实绩",
+      "onboard_time": 1712032762,
+      "rank": 17,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 573993,
       "num": 573993,
       "word": "相柳战死图",
@@ -1449,14 +1465,6 @@
       "onboard_time": 1711976478,
       "rank": 21,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 539540,
-      "num": 539540,
-      "word": "华晨宇我们终于要一起看日出了",
-      "onboard_time": 1712034321,
-      "rank": 9,
-      "category": "演出"
     },
     {
       "raw_hot": 537642,
@@ -1643,6 +1651,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 506176,
+      "num": 506176,
+      "word": "黄旭熙中文还没郑雅娴说得好",
+      "onboard_time": 1712031923,
+      "rank": 21,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 504859,
       "num": 504859,
       "word": "赵露思大屏",
@@ -1689,14 +1705,6 @@
       "onboard_time": 1711866257,
       "rank": 20,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 498083,
-      "num": 498083,
-      "word": "黄旭熙中文还没郑雅娴说得好",
-      "onboard_time": 1712031923,
-      "rank": 21,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 496413,
@@ -1875,6 +1883,14 @@
       "category": "游戏,艺人"
     },
     {
+      "raw_hot": 463319,
+      "num": 302934,
+      "word": "中医让我把鸡蛋牛奶戒了",
+      "onboard_time": 1712035520,
+      "rank": 20,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 459773,
       "num": 459773,
       "word": "网友回应帮张颂文跟雷军要到小米SU7",
@@ -2016,6 +2032,14 @@
       "word": "王一博演技",
       "onboard_time": 1711982181,
       "rank": 14,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 434094,
+      "num": 434094,
+      "word": "承欢记处处吻",
+      "onboard_time": 1712034081,
+      "rank": 19,
       "category": "剧集"
     },
     {
@@ -2169,14 +2193,6 @@
       "onboard_time": 1711844596,
       "rank": 7,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 400298,
-      "num": 400298,
-      "word": "分手厨房实绩",
-      "onboard_time": 1712032762,
-      "rank": 17,
-      "category": "游戏"
     },
     {
       "raw_hot": 398459,
@@ -2539,14 +2555,6 @@
       "category": "网红"
     },
     {
-      "raw_hot": 344765,
-      "num": 344765,
-      "word": "承欢记处处吻",
-      "onboard_time": 1712034081,
-      "rank": 19,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 343312,
       "num": 343312,
       "word": "萌探2024官宣",
@@ -2803,6 +2811,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 303998,
+      "num": 303998,
+      "word": "张婧仪神图的诞生",
+      "onboard_time": 1712034740,
+      "rank": 21,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 303916,
       "num": 232104,
       "word": "06年出生的今年要成年了",
@@ -2923,6 +2939,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 292226,
+      "num": 292226,
+      "word": "华晨宇官宣烟台演唱会",
+      "onboard_time": 1712015779,
+      "rank": 44,
+      "category": "演出"
+    },
+    {
       "raw_hot": 292040,
       "num": 292040,
       "word": "去东海救碧苍王",
@@ -2952,14 +2976,6 @@
       "word": "沈璃复活",
       "onboard_time": 1711893800,
       "rank": 25,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 290345,
-      "num": 290345,
-      "word": "张婧仪神图的诞生",
-      "onboard_time": 1712034740,
-      "rank": 21,
       "category": "剧集"
     },
     {
@@ -3411,6 +3427,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 247879,
+      "num": 247879,
+      "word": "花间令女二悲惨的一生",
+      "onboard_time": 1712034380,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 247869,
       "num": 220586,
       "word": "早期赵奕欢",
@@ -3507,6 +3531,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 240817,
+      "num": 240817,
+      "word": "日本专家说小米汽车如同iPhone问世",
+      "onboard_time": 1712034740,
+      "rank": 44,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 240072,
       "num": 240072,
       "word": "西野七濑山田裕贵宣布结婚",
@@ -3529,14 +3561,6 @@
       "onboard_time": 1711865777,
       "rank": 40,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 239622,
-      "num": 239622,
-      "word": "花间令女二悲惨的一生",
-      "onboard_time": 1712034380,
-      "rank": 24,
-      "category": "剧集"
     },
     {
       "raw_hot": 239325,
@@ -4635,6 +4659,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 190304,
+      "num": 184003,
+      "word": "这才是好的教学方式",
+      "onboard_time": 1712034980,
+      "rank": 30,
+      "category": "教育"
+    },
+    {
       "raw_hot": 190196,
       "num": 190196,
       "word": "GR还在复活",
@@ -4761,6 +4793,14 @@
       "onboard_time": 1712031923,
       "rank": 34,
       "category": "体育"
+    },
+    {
+      "raw_hot": 186277,
+      "num": 186277,
+      "word": "林俊杰周边",
+      "onboard_time": 1712035820,
+      "rank": 28,
+      "category": "演出"
     },
     {
       "raw_hot": 186154,
@@ -4939,20 +4979,20 @@
       "category": "电影"
     },
     {
+      "raw_hot": 180452,
+      "num": 180452,
+      "word": "小猫咪的已读不回",
+      "onboard_time": 1712035098,
+      "rank": 32,
+      "category": "情感"
+    },
+    {
       "raw_hot": 180073,
       "num": 223969,
       "word": "人人都是志愿者",
       "onboard_time": 1711977921,
       "rank": 27,
       "category": "社会新闻,电竞"
-    },
-    {
-      "raw_hot": 179832,
-      "num": 179832,
-      "word": "这才是好的教学方式",
-      "onboard_time": 1712034980,
-      "rank": 30,
-      "category": "教育"
     },
     {
       "raw_hot": 179827,
@@ -5131,6 +5171,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 174402,
+      "num": 174402,
+      "word": "王一博网球场自拍",
+      "onboard_time": 1712033181,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 174014,
       "num": 174014,
       "word": "李汶翰让站姐入职",
@@ -5171,20 +5219,20 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 171651,
-      "num": 171651,
-      "word": "王一博网球场自拍",
-      "onboard_time": 1712033181,
-      "rank": 33,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 171604,
       "num": 171604,
       "word": "发现找工作是有隐形成本的",
       "onboard_time": 1711960040,
       "rank": 35,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 171585,
+      "num": 171585,
+      "word": "福宝回家倒计时",
+      "onboard_time": 1712035820,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 171363,
@@ -5675,14 +5723,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 153152,
-      "num": 153152,
-      "word": "华晨宇官宣烟台演唱会",
-      "onboard_time": 1712015779,
-      "rank": 44,
-      "category": "演出"
-    },
-    {
       "raw_hot": 152989,
       "num": 152989,
       "word": "李晨郑恺周深宋雨琦跳TroubleMaker",
@@ -5915,14 +5955,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 147009,
-      "num": 147009,
-      "word": "日本专家说小米汽车如同iPhone问世",
-      "onboard_time": 1712034740,
-      "rank": 44,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 146829,
       "num": 146829,
       "word": "1岁还不会牙牙学语警惕孤独症",
@@ -5945,6 +5977,14 @@
       "onboard_time": 1711903037,
       "rank": 25,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 146184,
+      "num": 146184,
+      "word": "年轻人为何会怪罪原生家庭",
+      "onboard_time": 1712035640,
+      "rank": 38,
+      "category": "情感"
     },
     {
       "raw_hot": 146108,
@@ -6177,6 +6217,14 @@
       "onboard_time": 1711861878,
       "rank": 44,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 138738,
+      "num": 138738,
+      "word": "彭昱畅一滴泪",
+      "onboard_time": 1712035759,
+      "rank": 41,
+      "category": "电影"
     },
     {
       "raw_hot": 138612,
@@ -6545,6 +6593,14 @@
       "onboard_time": 1711818135,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 121845,
+      "num": 121845,
+      "word": "贵州长顺发生山火致3人死亡",
+      "onboard_time": 1712035999,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 121257,
