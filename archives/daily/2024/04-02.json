@@ -1,6 +1,6 @@
 {
   "startTime": 1711988526523,
-  "endTime": 1712068479665,
+  "endTime": 1712071121850,
   "band_list": [
     {
       "raw_hot": 4820066,
@@ -259,6 +259,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 829326,
+      "num": 829326,
+      "word": "李若彤回应58岁未婚未育",
+      "onboard_time": 1712064080,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 820802,
       "num": 820802,
       "word": "加沙最大医院已永久停止服务",
@@ -297,14 +305,6 @@
       "onboard_time": 1712019920,
       "rank": 13,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 782618,
-      "num": 782618,
-      "word": "李若彤回应58岁未婚未育",
-      "onboard_time": 1712064080,
-      "rank": 14,
-      "category": "艺人"
     },
     {
       "raw_hot": 767469,
@@ -401,6 +401,14 @@
       "onboard_time": 1711979001,
       "rank": 1,
       "category": "电影"
+    },
+    {
+      "raw_hot": 674058,
+      "num": 674058,
+      "word": "唐一军涉嫌严重违纪违法被查",
+      "onboard_time": 1712065701,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 670216,
@@ -555,20 +563,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 570264,
+      "num": 570264,
+      "word": "只有教师才懂教师的心酸",
+      "onboard_time": 1712064319,
+      "rank": 32,
+      "category": "教育"
+    },
+    {
       "raw_hot": 560603,
       "num": 477961,
       "word": "与多名女同事接吻的乌军官自愿上前线",
       "onboard_time": 1712017399,
       "rank": 12,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 560580,
-      "num": 561320,
-      "word": "唐一军涉嫌严重违纪违法被查",
-      "onboard_time": 1712065701,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 558049,
@@ -641,14 +649,6 @@
       "onboard_time": 1712031923,
       "rank": 21,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 505641,
-      "num": 505641,
-      "word": "只有教师才懂教师的心酸",
-      "onboard_time": 1712064319,
-      "rank": 32,
-      "category": "教育"
     },
     {
       "raw_hot": 502026,
@@ -907,6 +907,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 383510,
+      "num": 383510,
+      "word": "当一个白富美经历家庭破产",
+      "onboard_time": 1712069061,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 376103,
       "num": 324775,
       "word": "24岁女生和48岁的室友妈妈处成母女",
@@ -932,7 +940,7 @@
     },
     {
       "raw_hot": 372482,
-      "num": 257485,
+      "num": 261888,
       "word": "小楼是谁",
       "onboard_time": 1712056640,
       "rank": 30,
@@ -1019,12 +1027,28 @@
       "category": "教育"
     },
     {
+      "raw_hot": 341521,
+      "num": 341521,
+      "word": "111岁开国少将张力雄逝世",
+      "onboard_time": 1712064620,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 332617,
       "num": 332617,
       "word": "王一博维和警察穿搭",
       "onboard_time": 1712027841,
       "rank": 23,
       "category": "电影"
+    },
+    {
+      "raw_hot": 331258,
+      "num": 331258,
+      "word": "看直播买了107件二手衣服",
+      "onboard_time": 1712065339,
+      "rank": 36,
+      "category": "幽默"
     },
     {
       "raw_hot": 329123,
@@ -1235,6 +1259,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 270919,
+      "num": 211494,
+      "word": "方志敏的遗骸竟有两块胫骨戴着镣铐",
+      "onboard_time": 1712068581,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 270243,
       "num": 270243,
       "word": "MSI抢票",
@@ -1299,6 +1331,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 252706,
+      "num": 252706,
+      "word": "张雨绮束腰短裙",
+      "onboard_time": 1712067981,
+      "rank": 23,
+      "category": "综艺,时尚"
+    },
+    {
       "raw_hot": 250790,
       "num": 250790,
       "word": "孙艺珍出演朴赞郁新片",
@@ -1329,14 +1369,6 @@
       "onboard_time": 1712045000,
       "rank": 30,
       "category": "美妆"
-    },
-    {
-      "raw_hot": 248547,
-      "num": 248547,
-      "word": "111岁开国少将张力雄逝世",
-      "onboard_time": 1712064620,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 247879,
@@ -1419,8 +1451,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 233234,
-      "num": 233234,
+      "raw_hot": 233349,
+      "num": 233349,
       "word": "想辞职被领导撒娇留下来了",
       "onboard_time": 1712065279,
       "rank": 26,
@@ -1459,14 +1491,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 231158,
-      "num": 231158,
-      "word": "看直播买了107件二手衣服",
-      "onboard_time": 1712065339,
-      "rank": 36,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 228251,
       "num": 228251,
       "word": "黄俊捷饼干礼盒188元",
@@ -1497,6 +1521,14 @@
       "onboard_time": 1712045958,
       "rank": 48,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 225656,
+      "num": 225656,
+      "word": "NIP对战WE",
+      "onboard_time": 1712069840,
+      "rank": 27,
+      "category": "电竞"
     },
     {
       "raw_hot": 224881,
@@ -1553,6 +1585,14 @@
       "onboard_time": 1712057780,
       "rank": 23,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 217953,
+      "num": 217953,
+      "word": "宫崎骏新电影",
+      "onboard_time": 1712068819,
+      "rank": 28,
+      "category": "电影"
     },
     {
       "raw_hot": 217413,
@@ -1619,6 +1659,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 211096,
+      "num": 211096,
+      "word": "脸上有疤 心上有他",
+      "onboard_time": 1712069660,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 210871,
       "num": 206697,
       "word": "女装敢不敢再敷衍一点",
@@ -1659,6 +1707,14 @@
       "category": "电竞,网红"
     },
     {
+      "raw_hot": 207917,
+      "num": 207917,
+      "word": "茅台2023年净利润747.3亿",
+      "onboard_time": 1712069121,
+      "rank": 33,
+      "category": "财经"
+    },
+    {
       "raw_hot": 205980,
       "num": 205980,
       "word": "追风者周姨疯了",
@@ -1681,6 +1737,14 @@
       "onboard_time": 1711988896,
       "rank": 28,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 204028,
+      "num": 204028,
+      "word": "宋茜山河枕路透",
+      "onboard_time": 1712070380,
+      "rank": 35,
+      "category": "剧集"
     },
     {
       "raw_hot": 203558,
@@ -2187,6 +2251,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 162671,
+      "num": 162671,
+      "word": "小楼 婚姻的魔力",
+      "onboard_time": 1712069958,
+      "rank": 38,
+      "category": "电竞,网红"
+    },
+    {
       "raw_hot": 162413,
       "num": 162413,
       "word": "摇太阳片尾曲是张杰唱的",
@@ -2209,6 +2281,14 @@
       "onboard_time": 1712026758,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 160116,
+      "num": 160116,
+      "word": "泰国猴子大战",
+      "onboard_time": 1712068640,
+      "rank": 39,
+      "category": "旅游"
     },
     {
       "raw_hot": 159729,
@@ -2795,6 +2875,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 129517,
+      "num": 129517,
+      "word": "追风者魏若来觉醒",
+      "onboard_time": 1712069301,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 129508,
       "num": 129508,
       "word": "金宇珍向StrayKids道歉",
@@ -2817,6 +2905,14 @@
       "onboard_time": 1712027000,
       "rank": 47,
       "category": "母婴育儿"
+    },
+    {
+      "raw_hot": 122888,
+      "num": 122888,
+      "word": "没想到兄弟你好香也能具象化",
+      "onboard_time": 1712070681,
+      "rank": 47,
+      "category": "情感"
     },
     {
       "raw_hot": 121213,
@@ -2921,6 +3017,14 @@
       "onboard_time": 1712037799,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 114570,
+      "num": 114570,
+      "word": "江西首次启动大风四级应急响应",
+      "onboard_time": 1712070979,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 114434,
