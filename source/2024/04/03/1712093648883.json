@@ -1,0 +1,410 @@
+{
+  "runTime": 1712093648883,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 78447,
+        "num": 78447,
+        "word": "小杨哥退出与美腕合资公司",
+        "onboard_time": 1712073079,
+        "rank": 0,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 63450,
+        "num": 63450,
+        "word": "0作品却涨粉400万",
+        "onboard_time": 1712056520,
+        "rank": 1,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 1603,
+        "num": 57080,
+        "word": "中非互联网发展与合作论坛",
+        "onboard_time": 1712044158,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 139557,
+        "num": 55376,
+        "word": "开钟点房的到底是些什么人",
+        "onboard_time": 1712077573,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 53661,
+        "num": 53661,
+        "word": "当一个白富美经历家庭破产",
+        "onboard_time": 1712069061,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 52224,
+        "num": 52224,
+        "word": "家属求医生把癌症报告由晚期改为中期",
+        "onboard_time": 1712060360,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 49341,
+        "num": 49341,
+        "word": "中美关系要不折腾不挑事不越界",
+        "onboard_time": 1712073259,
+        "rank": 6,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 47429,
+        "num": 47429,
+        "word": "耳朵痒却掏不出东西咋回事",
+        "onboard_time": 1712057840,
+        "rank": 7,
+        "category": "科学科普,健康医疗"
+      },
+      {
+        "raw_hot": 42912,
+        "num": 42912,
+        "word": "小楼是谁",
+        "onboard_time": 1712056640,
+        "rank": 8,
+        "category": "电竞,网红"
+      },
+      {
+        "raw_hot": 37219,
+        "num": 37219,
+        "word": "杨雪",
+        "onboard_time": 1712064261,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 138254,
+        "num": 35625,
+        "word": "警方回应找王婆说媒已婚男妻子疑轻生",
+        "onboard_time": 1712079373,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 55771,
+        "num": 34254,
+        "word": "方志敏的遗骸竟有两块胫骨戴着镣铐",
+        "onboard_time": 1712068581,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 47852,
+        "num": 33079,
+        "word": "韩剧最强90花",
+        "onboard_time": 1712085310,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 38075,
+        "num": 31521,
+        "word": "放三天补一天的意义是什么",
+        "onboard_time": 1712047098,
+        "rank": 13,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 30192,
+        "num": 30192,
+        "word": "姜爷爷母亲去世",
+        "onboard_time": 1712065879,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 29912,
+        "num": 29912,
+        "word": "宁艺卓疑似签售切小屏",
+        "onboard_time": 1712080633,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 29859,
+        "num": 29859,
+        "word": "李若彤回应58岁未婚未育",
+        "onboard_time": 1712064080,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 28465,
+        "num": 28465,
+        "word": "新仙剑阿奴出场秒变菜狗",
+        "onboard_time": 1712063061,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 26891,
+        "num": 26891,
+        "word": "neinei十年前后变化",
+        "onboard_time": 1712064200,
+        "rank": 18,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 24869,
+        "num": 24869,
+        "word": "看直播买了107件二手衣服",
+        "onboard_time": 1712065339,
+        "rank": 19,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 79480,
+        "num": 24726,
+        "word": "28岁女子长期吃冰箱剩菜确诊胃癌",
+        "onboard_time": 1712076974,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 38881,
+        "num": 24623,
+        "word": "9省份将有8至11级雷暴大风或冰雹",
+        "onboard_time": 1712090171,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 26415,
+        "num": 24623,
+        "word": "紧急避孕药对身体危害有多大",
+        "onboard_time": 1712089451,
+        "rank": 22,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 24454,
+        "num": 24454,
+        "word": "与凤行滤镜改了",
+        "onboard_time": 1712065822,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 22099,
+        "num": 22099,
+        "word": "聊天聊出来的感情不聊就断了",
+        "onboard_time": 1712074099,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 22059,
+        "num": 22059,
+        "word": "男子手术室外晕倒15秒后冲出一群医护",
+        "onboard_time": 1712083991,
+        "rank": 25,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 20633,
+        "num": 20633,
+        "word": "唐一军涉嫌严重违纪违法被查",
+        "onboard_time": 1712065701,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 20146,
+        "num": 20146,
+        "word": "卢昱晓齐刘海",
+        "onboard_time": 1712083331,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 19939,
+        "num": 19939,
+        "word": "黄磊黄渤张艺兴面馆一起吃面",
+        "onboard_time": 1712075416,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 18716,
+        "num": 18716,
+        "word": "09微博回应小楼",
+        "onboard_time": 1712052680,
+        "rank": 29,
+        "category": "电竞,网红"
+      },
+      {
+        "raw_hot": 57258,
+        "num": 18653,
+        "word": "15岁女孩失联遗体被找到家属发声",
+        "onboard_time": 1712091911,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 18165,
+        "num": 18165,
+        "word": "赵灵儿蛇身特效",
+        "onboard_time": 1712059279,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 18145,
+        "num": 18145,
+        "word": "王俊凯直播",
+        "onboard_time": 1712065521,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 17765,
+        "num": 17765,
+        "word": "见过开黄腔的婚礼司仪吗",
+        "onboard_time": 1712054840,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 17263,
+        "num": 17263,
+        "word": "全宿舍都考上研了就我没考上",
+        "onboard_time": 1712064861,
+        "rank": 34,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 17127,
+        "num": 17127,
+        "word": "央视网文娱评花间令",
+        "onboard_time": 1712065521,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 16664,
+        "num": 16664,
+        "word": "李惠利更新ins了",
+        "onboard_time": 1712054898,
+        "rank": 36,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 15982,
+        "num": 15982,
+        "word": "大约80%的人存在鼻中隔偏曲",
+        "onboard_time": 1712084471,
+        "rank": 37,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 15947,
+        "num": 15947,
+        "word": "NIP对战WE",
+        "onboard_time": 1712069840,
+        "rank": 38,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 15684,
+        "num": 15684,
+        "word": "想辞职被领导撒娇留下来了",
+        "onboard_time": 1712065279,
+        "rank": 39,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 15259,
+        "num": 15259,
+        "word": "跟氯雷他定人交朋友是什么体验",
+        "onboard_time": 1712059400,
+        "rank": 40,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 14907,
+        "num": 14907,
+        "word": "赵小棠抑郁了两年",
+        "onboard_time": 1712038998,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 14735,
+        "num": 14735,
+        "word": "王一博哭得好真实",
+        "onboard_time": 1712092870,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 14699,
+        "num": 14699,
+        "word": "第一次水逆对12星座的影响",
+        "onboard_time": 1712084712,
+        "rank": 43,
+        "category": "情感,网红"
+      },
+      {
+        "raw_hot": 14587,
+        "num": 14587,
+        "word": "2024福布斯全球亿万富豪榜",
+        "onboard_time": 1712092751,
+        "rank": 44,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 14107,
+        "num": 14107,
+        "word": "八年前的金智媛",
+        "onboard_time": 1712071519,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 13940,
+        "num": 13940,
+        "word": "福宝欢迎回家",
+        "onboard_time": 1712065040,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 13560,
+        "num": 13935,
+        "word": "惜花芷 改编",
+        "onboard_time": 1712075117,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 13135,
+        "num": 13933,
+        "word": "女生化妆是给自己看的",
+        "onboard_time": 1712087530,
+        "rank": 48,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 13010,
+        "num": 13930,
+        "word": "杨幂幺鸡造型",
+        "onboard_time": 1712074876,
+        "rank": 49,
+        "category": "电影"
+      }
+    ],
+    "hotgov": {
+      "word": "#这次会谈体现中印尼关系的高水平#"
+    }
+  }
+}

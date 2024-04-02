@@ -1,6 +1,6 @@
 {
   "startTime": 1712074937436,
-  "endTime": 1712092590431,
+  "endTime": 1712093648883,
   "band_list": [
     {
       "raw_hot": 1403062,
@@ -451,7 +451,15 @@
       "category": "情感"
     },
     {
-      "raw_hot": 41307,
+      "raw_hot": 57258,
+      "num": 18653,
+      "word": "15岁女孩失联遗体被找到家属发声",
+      "onboard_time": 1712091911,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 47852,
       "num": 36367,
       "word": "韩剧最强90花",
       "onboard_time": 1712085310,
@@ -465,6 +473,14 @@
       "onboard_time": 1712083331,
       "rank": 15,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 38881,
+      "num": 24623,
+      "word": "9省份将有8至11级雷暴大风或冰雹",
+      "onboard_time": 1712090171,
+      "rank": 21,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 38268,
@@ -491,14 +507,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 33916,
-      "num": 22803,
-      "word": "9省份将有8至11级雷暴大风或冰雹",
-      "onboard_time": 1712090171,
-      "rank": 21,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 31834,
       "num": 39106,
       "word": "陈楚生成都站售罄",
@@ -515,8 +523,8 @@
       "category": "动漫,作品衍生"
     },
     {
-      "raw_hot": 25176,
-      "num": 22706,
+      "raw_hot": 26415,
+      "num": 24623,
       "word": "紧急避孕药对身体危害有多大",
       "onboard_time": 1712089451,
       "rank": 37,
@@ -531,12 +539,12 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 22317,
-      "num": 18059,
-      "word": "15岁女孩失联遗体被找到家属发声",
-      "onboard_time": 1712091911,
-      "rank": 30,
-      "category": "社会新闻"
+      "raw_hot": 22059,
+      "num": 22059,
+      "word": "男子手术室外晕倒15秒后冲出一群医护",
+      "onboard_time": 1712083991,
+      "rank": 28,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 19470,
@@ -547,12 +555,20 @@
       "category": "情感,网红"
     },
     {
-      "raw_hot": 18060,
-      "num": 18060,
-      "word": "男子手术室外晕倒15秒后冲出一群医护",
-      "onboard_time": 1712083991,
-      "rank": 28,
-      "category": "社会正能量"
+      "raw_hot": 14735,
+      "num": 14735,
+      "word": "王一博哭得好真实",
+      "onboard_time": 1712092870,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 14587,
+      "num": 14587,
+      "word": "2024福布斯全球亿万富豪榜",
+      "onboard_time": 1712092751,
+      "rank": 44,
+      "category": "财经"
     },
     {
       "raw_hot": 13753,
