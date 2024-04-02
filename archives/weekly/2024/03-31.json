@@ -1,6 +1,6 @@
 {
   "startTime": 1711815680412,
-  "endTime": 1712093648883,
+  "endTime": 1712096382164,
   "band_list": [
     {
       "raw_hot": 12825415,
@@ -3323,6 +3323,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 310909,
+      "num": 82971,
+      "word": "警方回应找王婆说媒已婚男妻子疑轻生",
+      "onboard_time": 1712079373,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 310250,
       "num": 310250,
       "word": "燥候TXT",
@@ -5083,6 +5091,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 207796,
+      "num": 30598,
+      "word": "15岁女孩失联遗体被找到家属发声",
+      "onboard_time": 1712091911,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 207712,
       "num": 207712,
       "word": "王鹤棣代言花絮照",
@@ -5129,14 +5145,6 @@
       "onboard_time": 1711860857,
       "rank": 33,
       "category": "演出"
-    },
-    {
-      "raw_hot": 205671,
-      "num": 82971,
-      "word": "警方回应找王婆说媒已婚男妻子疑轻生",
-      "onboard_time": 1712079373,
-      "rank": 10,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 205452,
@@ -8699,6 +8707,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 95358,
+      "num": 95358,
+      "word": "韩剧最强90花",
+      "onboard_time": 1712085310,
+      "rank": 22,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 94855,
       "num": 94855,
       "word": "严浩翔首张个人EP",
@@ -8979,6 +8995,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 66288,
+      "num": 44412,
+      "word": "9省份将有8至11级雷暴大风或冰雹",
+      "onboard_time": 1712090171,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 63995,
       "num": 63995,
       "word": "enhypen回归时间",
@@ -9043,14 +9067,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 57258,
-      "num": 18653,
-      "word": "15岁女孩失联遗体被找到家属发声",
-      "onboard_time": 1712091911,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 57184,
       "num": 57184,
       "word": "山东泰山0比3上海申花",
@@ -9107,14 +9123,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 47852,
-      "num": 36367,
-      "word": "韩剧最强90花",
-      "onboard_time": 1712085310,
-      "rank": 22,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 47548,
       "num": 55700,
       "word": "网红包MCM过气了吗",
@@ -9129,6 +9137,14 @@
       "onboard_time": 1712044158,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 45105,
+      "num": 45105,
+      "word": "男子手术室外晕倒15秒后冲出一群医护",
+      "onboard_time": 1712083991,
+      "rank": 28,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 44784,
@@ -9203,14 +9219,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 38881,
-      "num": 24623,
-      "word": "9省份将有8至11级雷暴大风或冰雹",
-      "onboard_time": 1712090171,
-      "rank": 21,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 38776,
       "num": 38776,
       "word": "王劲松出演拜月教主",
@@ -9225,6 +9233,14 @@
       "onboard_time": 1712078112,
       "rank": 49,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 37911,
+      "num": 37911,
+      "word": "紧急避孕药对身体危害有多大",
+      "onboard_time": 1712089451,
+      "rank": 37,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 34601,
@@ -9251,6 +9267,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 29353,
+      "num": 29353,
+      "word": "王一博哭得好真实",
+      "onboard_time": 1712092870,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 27309,
       "num": 27309,
       "word": "夏目友人帐 唯美水中花",
@@ -9259,20 +9283,28 @@
       "category": "动漫,作品衍生"
     },
     {
-      "raw_hot": 26415,
-      "num": 24623,
-      "word": "紧急避孕药对身体危害有多大",
-      "onboard_time": 1712089451,
-      "rank": 37,
-      "category": "健康医疗"
-    },
-    {
-      "raw_hot": 24696,
-      "num": 23599,
+      "raw_hot": 25474,
+      "num": 25474,
       "word": "大约80%的人存在鼻中隔偏曲",
       "onboard_time": 1712084471,
       "rank": 43,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 24811,
+      "num": 24811,
+      "word": "这狗能处自己出去谈客户",
+      "onboard_time": 1712094130,
+      "rank": 41,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 24491,
+      "num": 24491,
+      "word": "2024福布斯全球亿万富豪榜",
+      "onboard_time": 1712092751,
+      "rank": 44,
+      "category": "财经"
     },
     {
       "raw_hot": 24100,
@@ -9307,12 +9339,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 22059,
-      "num": 22059,
-      "word": "男子手术室外晕倒15秒后冲出一群医护",
-      "onboard_time": 1712083991,
-      "rank": 28,
-      "category": "社会正能量"
+      "raw_hot": 20628,
+      "num": 20628,
+      "word": "第一次水逆对12星座的影响",
+      "onboard_time": 1712084712,
+      "rank": 47,
+      "category": "情感,网红"
     },
     {
       "raw_hot": 20228,
@@ -9321,14 +9353,6 @@
       "onboard_time": 1711999571,
       "rank": 44,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 19470,
-      "num": 19470,
-      "word": "第一次水逆对12星座的影响",
-      "onboard_time": 1712084712,
-      "rank": 47,
-      "category": "情感,网红"
     },
     {
       "raw_hot": 18220,
@@ -9345,22 +9369,6 @@
       "onboard_time": 1711832411,
       "rank": 44,
       "category": "美妆"
-    },
-    {
-      "raw_hot": 14735,
-      "num": 14735,
-      "word": "王一博哭得好真实",
-      "onboard_time": 1712092870,
-      "rank": 42,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 14587,
-      "num": 14587,
-      "word": "2024福布斯全球亿万富豪榜",
-      "onboard_time": 1712092751,
-      "rank": 44,
-      "category": "财经"
     },
     {
       "raw_hot": 13753,
