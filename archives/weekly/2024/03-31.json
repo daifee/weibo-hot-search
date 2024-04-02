@@ -1,6 +1,6 @@
 {
   "startTime": 1711815680412,
-  "endTime": 1712032589927,
+  "endTime": 1712034996136,
   "band_list": [
     {
       "raw_hot": 12825415,
@@ -275,6 +275,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1424106,
+      "num": 1424106,
+      "word": "任正非据传下禁令一句遥遥领先罚款一万",
+      "onboard_time": 1712032942,
+      "rank": 1,
+      "category": "数码"
+    },
+    {
       "raw_hot": 1420306,
       "num": 1126646,
       "word": "删了吧我有个朋友要生气了",
@@ -449,6 +457,14 @@
       "onboard_time": 1711883237,
       "rank": 20,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 1116648,
+      "num": 1116648,
+      "word": "王灿被烫伤",
+      "onboard_time": 1712033780,
+      "rank": 3,
+      "category": "艺人,艺人"
     },
     {
       "raw_hot": 1093436,
@@ -672,6 +688,14 @@
       "word": "李汶翰 乐华娱乐",
       "onboard_time": 1711945946,
       "rank": 36,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 858452,
+      "num": 858452,
+      "word": "宋江入伍",
+      "onboard_time": 1712032281,
+      "rank": 30,
       "category": "艺人"
     },
     {
@@ -1427,6 +1451,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 539540,
+      "num": 539540,
+      "word": "华晨宇我们终于要一起看日出了",
+      "onboard_time": 1712034321,
+      "rank": 9,
+      "category": "演出"
+    },
+    {
       "raw_hot": 537642,
       "num": 537642,
       "word": "浙江男子账户里的2470万保住了",
@@ -1659,6 +1691,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 498083,
+      "num": 498083,
+      "word": "黄旭熙中文还没郑雅娴说得好",
+      "onboard_time": 1712031923,
+      "rank": 21,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 496413,
       "num": 567487,
       "word": "女子工作1年半胖40斤判若两人",
@@ -1827,6 +1867,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 463504,
+      "num": 463504,
+      "word": "指原莉乃玩胡闹厨房与男友分手",
+      "onboard_time": 1712032041,
+      "rank": 17,
+      "category": "游戏,艺人"
+    },
+    {
       "raw_hot": 459773,
       "num": 459773,
       "word": "网友回应帮张颂文跟雷军要到小米SU7",
@@ -1929,6 +1977,14 @@
       "onboard_time": 1711967960,
       "rank": 5,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 436748,
+      "num": 436748,
+      "word": "蓝色真的能抑制一切食欲",
+      "onboard_time": 1712030721,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 436467,
@@ -2115,6 +2171,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 400298,
+      "num": 400298,
+      "word": "分手厨房实绩",
+      "onboard_time": 1712032762,
+      "rank": 17,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 398459,
       "num": 398459,
       "word": "提灯定损",
@@ -2299,12 +2363,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 378154,
-      "num": 378154,
-      "word": "蓝色真的能抑制一切食欲",
-      "onboard_time": 1712030721,
-      "rank": 30,
-      "category": "幽默"
+      "raw_hot": 376103,
+      "num": 324775,
+      "word": "24岁女生和48岁的室友妈妈处成母女",
+      "onboard_time": 1712031801,
+      "rank": 20,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 374160,
@@ -2403,6 +2467,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 356961,
+      "num": 356961,
+      "word": "Keep恋与深空联名",
+      "onboard_time": 1712032581,
+      "rank": 18,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 355699,
       "num": 355699,
       "word": "盗月社被胖东来老板抓包",
@@ -2467,6 +2539,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 344765,
+      "num": 344765,
+      "word": "承欢记处处吻",
+      "onboard_time": 1712034081,
+      "rank": 19,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 343312,
       "num": 343312,
       "word": "萌探2024官宣",
@@ -2497,14 +2577,6 @@
       "onboard_time": 1711967001,
       "rank": 28,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 337306,
-      "num": 337306,
-      "word": "指原莉乃玩胡闹厨房与男友分手",
-      "onboard_time": 1712032041,
-      "rank": 17,
-      "category": "游戏,艺人"
     },
     {
       "raw_hot": 337171,
@@ -2811,14 +2883,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 297457,
-      "num": 297457,
-      "word": "24岁女生和48岁的室友妈妈处成母女",
-      "onboard_time": 1712031801,
-      "rank": 20,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 296819,
       "num": 296819,
       "word": "春天睡不好是正常现象",
@@ -2891,6 +2955,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 290345,
+      "num": 290345,
+      "word": "张婧仪神图的诞生",
+      "onboard_time": 1712034740,
+      "rank": 21,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 288371,
       "num": 288371,
       "word": "郑元畅不知道唐禹哲有两个小孩",
@@ -2945,14 +3017,6 @@
       "onboard_time": 1711945104,
       "rank": 43,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 284299,
-      "num": 284299,
-      "word": "黄旭熙中文还没郑雅娴说得好",
-      "onboard_time": 1712031923,
-      "rank": 21,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 284063,
@@ -3465,6 +3529,14 @@
       "onboard_time": 1711865777,
       "rank": 40,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 239622,
+      "num": 239622,
+      "word": "花间令女二悲惨的一生",
+      "onboard_time": 1712034380,
+      "rank": 24,
+      "category": "剧集"
     },
     {
       "raw_hot": 239325,
@@ -4161,14 +4233,6 @@
       "onboard_time": 1711956380,
       "rank": 47,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 201374,
-      "num": 201374,
-      "word": "宋江入伍",
-      "onboard_time": 1712032281,
-      "rank": 30,
-      "category": "艺人"
     },
     {
       "raw_hot": 201338,
@@ -4883,6 +4947,14 @@
       "category": "社会新闻,电竞"
     },
     {
+      "raw_hot": 179832,
+      "num": 179832,
+      "word": "这才是好的教学方式",
+      "onboard_time": 1712034980,
+      "rank": 30,
+      "category": "教育"
+    },
+    {
       "raw_hot": 179827,
       "num": 208066,
       "word": "吴艳妮说自己不是网红",
@@ -5043,6 +5115,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 174661,
+      "num": 174661,
+      "word": "其实不用为失眠做任何努力",
+      "onboard_time": 1712034561,
+      "rank": 32,
+      "category": "情感"
+    },
+    {
       "raw_hot": 174411,
       "num": 174411,
       "word": "isfp好像很喜欢奖励自己",
@@ -5089,6 +5169,14 @@
       "onboard_time": 1711883297,
       "rank": 36,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 171651,
+      "num": 171651,
+      "word": "王一博网球场自拍",
+      "onboard_time": 1712033181,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 171604,
@@ -5249,6 +5337,14 @@
       "onboard_time": 1711877296,
       "rank": 43,
       "category": "读书作家"
+    },
+    {
+      "raw_hot": 166584,
+      "num": 166584,
+      "word": "哇啦哇啦密集可爱症",
+      "onboard_time": 1712034261,
+      "rank": 35,
+      "category": "幽默"
     },
     {
       "raw_hot": 166482,
@@ -5441,6 +5537,14 @@
       "onboard_time": 1711966220,
       "rank": 48,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 158043,
+      "num": 158043,
+      "word": "判断一个学校好不好",
+      "onboard_time": 1712034561,
+      "rank": 36,
+      "category": "教育"
     },
     {
       "raw_hot": 157767,
@@ -5715,6 +5819,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 149893,
+      "num": 149893,
+      "word": "四川阿坝州茂县发生3.0级地震",
+      "onboard_time": 1712033300,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 148850,
       "num": 148850,
       "word": "魏若来梦女",
@@ -5801,6 +5913,14 @@
       "onboard_time": 1712023278,
       "rank": 40,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 147009,
+      "num": 147009,
+      "word": "日本专家说小米汽车如同iPhone问世",
+      "onboard_time": 1712034740,
+      "rank": 44,
+      "category": "汽车"
     },
     {
       "raw_hot": 146829,
