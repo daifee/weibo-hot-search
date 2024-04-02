@@ -1,6 +1,6 @@
 {
   "startTime": 1711815680412,
-  "endTime": 1712064866493,
+  "endTime": 1712067372014,
   "band_list": [
     {
       "raw_hot": 12825415,
@@ -547,6 +547,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 1136040,
+      "num": 1136040,
+      "word": "雷军担心的事还是发生了",
+      "onboard_time": 1712063539,
+      "rank": 12,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 1132862,
       "num": 1132862,
       "word": "在人间官宣",
@@ -683,12 +691,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 979601,
+      "num": 979601,
+      "word": "杨雪",
+      "onboard_time": 1712064261,
+      "rank": 26,
+      "category": "体育"
+    },
+    {
       "raw_hot": 968847,
       "num": 391673,
       "word": "男朋友把我们隐私照发朋友圈",
       "onboard_time": 1711937000,
       "rank": 20,
       "category": "情感"
+    },
+    {
+      "raw_hot": 968054,
+      "num": 968054,
+      "word": "姜爷爷母亲去世",
+      "onboard_time": 1712065879,
+      "rank": 5,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 967666,
@@ -1123,14 +1147,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 723688,
-      "num": 723688,
-      "word": "雷军担心的事还是发生了",
-      "onboard_time": 1712063539,
-      "rank": 12,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 716512,
       "num": 716512,
       "word": "宁静 谁找你演二愣子",
@@ -1296,6 +1312,14 @@
       "word": "孙怡站姐呢",
       "onboard_time": 1711964600,
       "rank": 7,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 667274,
+      "num": 667274,
+      "word": "李若彤回应58岁未婚未育",
+      "onboard_time": 1712064080,
+      "rank": 14,
       "category": "艺人"
     },
     {
@@ -1611,6 +1635,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 578526,
+      "num": 578526,
+      "word": "耳朵痒却掏不出东西咋回事",
+      "onboard_time": 1712057840,
+      "rank": 20,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 573993,
       "num": 573993,
       "word": "相柳战死图",
@@ -1673,6 +1705,14 @@
       "onboard_time": 1712017399,
       "rank": 12,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 558049,
+      "num": 558049,
+      "word": "neinei十年前后变化",
+      "onboard_time": 1712064200,
+      "rank": 19,
+      "category": "演出"
     },
     {
       "raw_hot": 553787,
@@ -1753,6 +1793,14 @@
       "onboard_time": 1712048720,
       "rank": 23,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 534298,
+      "num": 534298,
+      "word": "王俊凯直播",
+      "onboard_time": 1712065521,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 534234,
@@ -2099,6 +2147,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 474825,
+      "num": 561320,
+      "word": "唐一军涉嫌严重违纪违法被查",
+      "onboard_time": 1712065701,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 474187,
       "num": 474187,
       "word": "李逍遥竟然是拂容君",
@@ -2113,14 +2169,6 @@
       "onboard_time": 1711851318,
       "rank": 13,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 471437,
-      "num": 471437,
-      "word": "耳朵痒却掏不出东西咋回事",
-      "onboard_time": 1712057840,
-      "rank": 20,
-      "category": "科学科普"
     },
     {
       "raw_hot": 468966,
@@ -2211,6 +2259,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 455506,
+      "num": 455506,
+      "word": "与凤行 东海龙王已读乱送",
+      "onboard_time": 1712065401,
+      "rank": 13,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 451980,
       "num": 451980,
       "word": "白鹿站姐发于正生图",
@@ -2249,6 +2305,14 @@
       "onboard_time": 1711901838,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 447848,
+      "num": 447848,
+      "word": "与凤行滤镜改了",
+      "onboard_time": 1712065822,
+      "rank": 14,
+      "category": "剧集"
     },
     {
       "raw_hot": 445449,
@@ -2659,6 +2723,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 383984,
+      "num": 383984,
+      "word": "央视网文娱评花间令",
+      "onboard_time": 1712065521,
+      "rank": 16,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 383955,
       "num": 383955,
       "word": "张新成 我们还是不要散了",
@@ -2881,14 +2953,6 @@
       "onboard_time": 1712013677,
       "rank": 30,
       "category": "美食"
-    },
-    {
-      "raw_hot": 354072,
-      "num": 354072,
-      "word": "李若彤回应58岁未婚未育",
-      "onboard_time": 1712064080,
-      "rank": 14,
-      "category": "艺人"
     },
     {
       "raw_hot": 348254,
@@ -3195,6 +3259,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 311994,
+      "num": 311994,
+      "word": "只有教师才懂教师的心酸",
+      "onboard_time": 1712064319,
+      "rank": 32,
+      "category": "教育"
+    },
+    {
       "raw_hot": 310250,
       "num": 310250,
       "word": "燥候TXT",
@@ -3217,6 +3289,14 @@
       "onboard_time": 1711857378,
       "rank": 27,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 308755,
+      "num": 308755,
+      "word": "全宿舍都考上研了就我没考上",
+      "onboard_time": 1712064861,
+      "rank": 21,
+      "category": "教育"
     },
     {
       "raw_hot": 308666,
@@ -3457,14 +3537,6 @@
       "onboard_time": 1711893800,
       "rank": 25,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 290023,
-      "num": 290023,
-      "word": "neinei十年前后变化",
-      "onboard_time": 1712064200,
-      "rank": 19,
-      "category": "演出"
     },
     {
       "raw_hot": 288371,
@@ -4163,6 +4235,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 239377,
+      "num": 239377,
+      "word": "银灰动态皮",
+      "onboard_time": 1712066721,
+      "rank": 23,
+      "category": "游戏,作品衍生"
+    },
+    {
       "raw_hot": 239325,
       "num": 239325,
       "word": "眼泪女王求婚",
@@ -4363,6 +4443,14 @@
       "category": "科学科普,互联网"
     },
     {
+      "raw_hot": 231208,
+      "num": 231208,
+      "word": "想辞职被领导撒娇留下来了",
+      "onboard_time": 1712065279,
+      "rank": 26,
+      "category": "情感"
+    },
+    {
       "raw_hot": 231172,
       "num": 231172,
       "word": "穷人有钱后能挥霍到什么程度",
@@ -4491,14 +4579,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 223943,
-      "num": 223943,
-      "word": "杨雪",
-      "onboard_time": 1712064261,
-      "rank": 26,
-      "category": "体育"
-    },
-    {
       "raw_hot": 223748,
       "num": 223748,
       "word": "檀健次进组猎罪图鉴2",
@@ -4553,6 +4633,14 @@
       "onboard_time": 1712059460,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 221388,
+      "num": 221388,
+      "word": "音律联觉",
+      "onboard_time": 1712066781,
+      "rank": 28,
+      "category": "游戏"
     },
     {
       "raw_hot": 220827,
@@ -4640,6 +4728,14 @@
       "word": "多地学校厕所装防欺凌警报装置",
       "onboard_time": 1711850297,
       "rank": 26,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 214947,
+      "num": 214947,
+      "word": "111岁开国少将张力雄逝世",
+      "onboard_time": 1712064620,
+      "rank": 47,
       "category": "社会新闻"
     },
     {
@@ -4761,6 +4857,14 @@
       "onboard_time": 1711968860,
       "rank": 36,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 211442,
+      "num": 211442,
+      "word": "与凤行预告",
+      "onboard_time": 1711811301,
+      "rank": 41,
+      "category": "剧集"
     },
     {
       "raw_hot": 210871,
@@ -5171,6 +5275,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 198441,
+      "num": 221222,
+      "word": "福宝欢迎回家",
+      "onboard_time": 1712065040,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 198363,
       "num": 198363,
       "word": "巴黎奥运会乒乓球项目球台揭晓",
@@ -5265,6 +5377,14 @@
       "onboard_time": 1711854678,
       "rank": 35,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 196106,
+      "num": 196106,
+      "word": "看直播买了107件二手衣服",
+      "onboard_time": 1712065339,
+      "rank": 36,
+      "category": "幽默"
     },
     {
       "raw_hot": 196053,
@@ -5363,6 +5483,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 193696,
+      "num": 193696,
+      "word": "隆多退役",
+      "onboard_time": 1712064440,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 193373,
       "num": 193373,
       "word": "小米汽车",
@@ -5425,6 +5553,14 @@
       "onboard_time": 1711946064,
       "rank": 48,
       "category": "情感"
+    },
+    {
+      "raw_hot": 192238,
+      "num": 192238,
+      "word": "胡一天头套",
+      "onboard_time": 1712065401,
+      "rank": 38,
+      "category": "剧集"
     },
     {
       "raw_hot": 192153,
@@ -6139,6 +6275,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 172299,
+      "num": 172299,
+      "word": "矣进宏CBA首秀",
+      "onboard_time": 1712066960,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 171934,
       "num": 171934,
       "word": "第五人格 ZETA",
@@ -6371,6 +6515,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 165901,
+      "num": 165901,
+      "word": "石凯扎提合照",
+      "onboard_time": 1712065580,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 165845,
       "num": 165845,
       "word": "每平米美甲价格超一线城市房价",
@@ -6449,14 +6601,6 @@
       "onboard_time": 1712050399,
       "rank": 49,
       "category": "财经"
-    },
-    {
-      "raw_hot": 163229,
-      "num": 163229,
-      "word": "只有教师才懂教师的心酸",
-      "onboard_time": 1712064319,
-      "rank": 32,
-      "category": "教育"
     },
     {
       "raw_hot": 163207,
@@ -7067,14 +7211,6 @@
       "category": "母婴育儿"
     },
     {
-      "raw_hot": 146821,
-      "num": 146821,
-      "word": "隆多退役",
-      "onboard_time": 1712064440,
-      "rank": 37,
-      "category": "体育"
-    },
-    {
       "raw_hot": 146727,
       "num": 285590,
       "word": "中央网信办整治涉企侵权信息乱象",
@@ -7089,6 +7225,14 @@
       "onboard_time": 1711903037,
       "rank": 25,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 146429,
+      "num": 146429,
+      "word": "我的累点真的很低",
+      "onboard_time": 1712066060,
+      "rank": 44,
+      "category": "情感"
     },
     {
       "raw_hot": 146184,
@@ -7129,6 +7273,14 @@
       "onboard_time": 1712021478,
       "rank": 42,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 145547,
+      "num": 145547,
+      "word": "新仙剑",
+      "onboard_time": 1712064980,
+      "rank": 45,
+      "category": "剧集"
     },
     {
       "raw_hot": 145495,
@@ -7907,14 +8059,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 121182,
-      "num": 121182,
-      "word": "与凤行预告",
-      "onboard_time": 1711811301,
-      "rank": 41,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 121067,
       "num": 121067,
       "word": "潘玮柏上海",
@@ -8097,14 +8241,6 @@
       "onboard_time": 1711849038,
       "rank": 46,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 114118,
-      "num": 114118,
-      "word": "111岁开国少将张力雄逝世",
-      "onboard_time": 1712064620,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 113283,

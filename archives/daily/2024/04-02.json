@@ -1,6 +1,6 @@
 {
   "startTime": 1711988526523,
-  "endTime": 1712064866493,
+  "endTime": 1712067372014,
   "band_list": [
     {
       "raw_hot": 4820066,
@@ -171,6 +171,14 @@
       "category": "社会新闻,旅游"
     },
     {
+      "raw_hot": 1136040,
+      "num": 1136040,
+      "word": "雷军担心的事还是发生了",
+      "onboard_time": 1712063539,
+      "rank": 12,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 1090349,
       "num": 1009620,
       "word": "女子在母亲出殡当天被哥哥要求放弃遗产",
@@ -193,6 +201,22 @@
       "onboard_time": 1712044279,
       "rank": 4,
       "category": "教育"
+    },
+    {
+      "raw_hot": 979601,
+      "num": 979601,
+      "word": "杨雪",
+      "onboard_time": 1712064261,
+      "rank": 26,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 968054,
+      "num": 968054,
+      "word": "姜爷爷母亲去世",
+      "onboard_time": 1712065879,
+      "rank": 5,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 960905,
@@ -307,14 +331,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 723688,
-      "num": 723688,
-      "word": "雷军担心的事还是发生了",
-      "onboard_time": 1712063539,
-      "rank": 12,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 713418,
       "num": 713418,
       "word": "黄金又暴涨中国资产飙升",
@@ -393,6 +409,14 @@
       "onboard_time": 1712040199,
       "rank": 11,
       "category": "教育"
+    },
+    {
+      "raw_hot": 667274,
+      "num": 667274,
+      "word": "李若彤回应58岁未婚未育",
+      "onboard_time": 1712064080,
+      "rank": 14,
+      "category": "艺人"
     },
     {
       "raw_hot": 665651,
@@ -515,6 +539,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 578526,
+      "num": 578526,
+      "word": "耳朵痒却掏不出东西咋回事",
+      "onboard_time": 1712057840,
+      "rank": 20,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 573993,
       "num": 573993,
       "word": "相柳战死图",
@@ -529,6 +561,14 @@
       "onboard_time": 1712017399,
       "rank": 12,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 558049,
+      "num": 558049,
+      "word": "neinei十年前后变化",
+      "onboard_time": 1712064200,
+      "rank": 19,
+      "category": "演出"
     },
     {
       "raw_hot": 553216,
@@ -561,6 +601,14 @@
       "onboard_time": 1712048720,
       "rank": 23,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 534298,
+      "num": 534298,
+      "word": "王俊凯直播",
+      "onboard_time": 1712065521,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 533349,
@@ -627,12 +675,12 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 471437,
-      "num": 471437,
-      "word": "耳朵痒却掏不出东西咋回事",
-      "onboard_time": 1712057840,
-      "rank": 20,
-      "category": "科学科普"
+      "raw_hot": 474825,
+      "num": 561320,
+      "word": "唐一军涉嫌严重违纪违法被查",
+      "onboard_time": 1712065701,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 463504,
@@ -649,6 +697,22 @@
       "onboard_time": 1712054840,
       "rank": 24,
       "category": "情感"
+    },
+    {
+      "raw_hot": 455506,
+      "num": 455506,
+      "word": "与凤行 东海龙王已读乱送",
+      "onboard_time": 1712065401,
+      "rank": 13,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 447848,
+      "num": 447848,
+      "word": "与凤行滤镜改了",
+      "onboard_time": 1712065822,
+      "rank": 14,
+      "category": "剧集"
     },
     {
       "raw_hot": 445449,
@@ -827,6 +891,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 383984,
+      "num": 383984,
+      "word": "央视网文娱评花间令",
+      "onboard_time": 1712065521,
+      "rank": 16,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 376103,
       "num": 324775,
       "word": "24岁女生和48岁的室友妈妈处成母女",
@@ -897,14 +969,6 @@
       "onboard_time": 1712013677,
       "rank": 30,
       "category": "美食"
-    },
-    {
-      "raw_hot": 354072,
-      "num": 354072,
-      "word": "李若彤回应58岁未婚未育",
-      "onboard_time": 1712064080,
-      "rank": 14,
-      "category": "艺人"
     },
     {
       "raw_hot": 348254,
@@ -1019,6 +1083,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 311994,
+      "num": 311994,
+      "word": "只有教师才懂教师的心酸",
+      "onboard_time": 1712064319,
+      "rank": 32,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 308755,
+      "num": 308755,
+      "word": "全宿舍都考上研了就我没考上",
+      "onboard_time": 1712064861,
+      "rank": 21,
+      "category": "教育"
+    },
+    {
       "raw_hot": 306114,
       "num": 306114,
       "word": "华为拟分红770.95亿",
@@ -1073,14 +1153,6 @@
       "onboard_time": 1712059400,
       "rank": 21,
       "category": "情感"
-    },
-    {
-      "raw_hot": 290023,
-      "num": 290023,
-      "word": "neinei十年前后变化",
-      "onboard_time": 1712064200,
-      "rank": 19,
-      "category": "演出"
     },
     {
       "raw_hot": 287950,
@@ -1323,6 +1395,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 239377,
+      "num": 239377,
+      "word": "银灰动态皮",
+      "onboard_time": 1712066721,
+      "rank": 23,
+      "category": "游戏,作品衍生"
+    },
+    {
       "raw_hot": 235588,
       "num": 235588,
       "word": "朱一龙直播",
@@ -1361,6 +1441,14 @@
       "onboard_time": 1712040797,
       "rank": 26,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 231208,
+      "num": 231208,
+      "word": "想辞职被领导撒娇留下来了",
+      "onboard_time": 1712065279,
+      "rank": 26,
+      "category": "情感"
     },
     {
       "raw_hot": 228251,
@@ -1403,14 +1491,6 @@
       "category": "母婴育儿,情感"
     },
     {
-      "raw_hot": 223943,
-      "num": 223943,
-      "word": "杨雪",
-      "onboard_time": 1712064261,
-      "rank": 26,
-      "category": "体育"
-    },
-    {
       "raw_hot": 223652,
       "num": 223652,
       "word": "清华教学楼里到底发生过什么",
@@ -1441,6 +1521,14 @@
       "onboard_time": 1712059460,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 221388,
+      "num": 221388,
+      "word": "音律联觉",
+      "onboard_time": 1712066781,
+      "rank": 28,
+      "category": "游戏"
     },
     {
       "raw_hot": 218129,
@@ -1475,6 +1563,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 214947,
+      "num": 214947,
+      "word": "111岁开国少将张力雄逝世",
+      "onboard_time": 1712064620,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 214790,
       "num": 214790,
       "word": "杨幂粉嫩新中式",
@@ -1505,6 +1601,14 @@
       "onboard_time": 1712041578,
       "rank": 28,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 211442,
+      "num": 211442,
+      "word": "与凤行预告",
+      "onboard_time": 1712066420,
+      "rank": 33,
+      "category": "剧集"
     },
     {
       "raw_hot": 210871,
@@ -1627,6 +1731,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 198441,
+      "num": 221222,
+      "word": "福宝欢迎回家",
+      "onboard_time": 1712065040,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 198363,
       "num": 198363,
       "word": "巴黎奥运会乒乓球项目球台揭晓",
@@ -1649,6 +1761,14 @@
       "onboard_time": 1712014817,
       "rank": 33,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 196106,
+      "num": 196106,
+      "word": "看直播买了107件二手衣服",
+      "onboard_time": 1712065339,
+      "rank": 36,
+      "category": "幽默"
     },
     {
       "raw_hot": 195311,
@@ -1675,6 +1795,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 193696,
+      "num": 193696,
+      "word": "隆多退役",
+      "onboard_time": 1712064440,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 193346,
       "num": 193346,
       "word": "蒋勤勤 吴磊小时候咋没演过我儿子",
@@ -1689,6 +1817,14 @@
       "onboard_time": 1712027778,
       "rank": 43,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 192238,
+      "num": 192238,
+      "word": "胡一天头套",
+      "onboard_time": 1712065401,
+      "rank": 38,
+      "category": "剧集"
     },
     {
       "raw_hot": 190304,
@@ -1915,6 +2051,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 172299,
+      "num": 172299,
+      "word": "矣进宏CBA首秀",
+      "onboard_time": 1712066960,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 171761,
       "num": 171761,
       "word": "黄金饰品飙升至每克700元",
@@ -2003,20 +2147,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 165901,
+      "num": 165901,
+      "word": "石凯扎提合照",
+      "onboard_time": 1712065580,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 163295,
       "num": 163295,
       "word": "中信银行人均降薪近9%",
       "onboard_time": 1712050399,
       "rank": 49,
       "category": "财经"
-    },
-    {
-      "raw_hot": 163229,
-      "num": 163229,
-      "word": "只有教师才懂教师的心酸",
-      "onboard_time": 1712064319,
-      "rank": 32,
-      "category": "教育"
     },
     {
       "raw_hot": 163207,
@@ -2259,12 +2403,12 @@
       "category": "母婴育儿"
     },
     {
-      "raw_hot": 146821,
-      "num": 146821,
-      "word": "隆多退役",
-      "onboard_time": 1712064440,
-      "rank": 37,
-      "category": "体育"
+      "raw_hot": 146429,
+      "num": 146429,
+      "word": "我的累点真的很低",
+      "onboard_time": 1712066060,
+      "rank": 44,
+      "category": "情感"
     },
     {
       "raw_hot": 146184,
@@ -2289,6 +2433,14 @@
       "onboard_time": 1712021478,
       "rank": 42,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 145547,
+      "num": 145547,
+      "word": "新仙剑",
+      "onboard_time": 1712064980,
+      "rank": 45,
+      "category": "剧集"
     },
     {
       "raw_hot": 145495,
@@ -2761,14 +2913,6 @@
       "onboard_time": 1712037618,
       "rank": 49,
       "category": "情感"
-    },
-    {
-      "raw_hot": 114118,
-      "num": 114118,
-      "word": "111岁开国少将张力雄逝世",
-      "onboard_time": 1712064620,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 112662,
