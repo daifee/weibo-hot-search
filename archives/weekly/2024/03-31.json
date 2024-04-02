@@ -1,6 +1,6 @@
 {
   "startTime": 1711815680412,
-  "endTime": 1712046112098,
+  "endTime": 1712046933530,
   "band_list": [
     {
       "raw_hot": 12825415,
@@ -403,6 +403,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1242190,
+      "num": 1242190,
+      "word": "宋昰昀承认校园暴力",
+      "onboard_time": 1712044218,
+      "rank": 1,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1236320,
       "num": 1236320,
       "word": "每天久坐超4小时会怎样",
@@ -449,14 +457,6 @@
       "onboard_time": 1711936938,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1201134,
-      "num": 1201134,
-      "word": "宋昰昀承认校园暴力",
-      "onboard_time": 1712044218,
-      "rank": 1,
-      "category": "艺人"
     },
     {
       "raw_hot": 1198308,
@@ -603,6 +603,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 990894,
+      "num": 990894,
+      "word": "省考成绩",
+      "onboard_time": 1712044279,
+      "rank": 4,
+      "category": "教育"
+    },
+    {
       "raw_hot": 981512,
       "num": 981512,
       "word": "妈妈澄清欧阳娣娣名字由来",
@@ -665,14 +673,6 @@
       "onboard_time": 1712029339,
       "rank": 4,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 940705,
-      "num": 940705,
-      "word": "省考成绩",
-      "onboard_time": 1712044279,
-      "rank": 4,
-      "category": "教育"
     },
     {
       "raw_hot": 927333,
@@ -2155,6 +2155,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 433420,
+      "num": 433420,
+      "word": "提灯定损",
+      "onboard_time": 1712005511,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 432759,
       "num": 432759,
       "word": "张若昀站姐发了赵丽颖",
@@ -2320,14 +2328,6 @@
       "word": "学校通报美院原院长与学生不正当关系",
       "onboard_time": 1711844596,
       "rank": 7,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 398459,
-      "num": 398459,
-      "word": "提灯定损",
-      "onboard_time": 1712005511,
-      "rank": 36,
       "category": "社会新闻"
     },
     {
@@ -2507,12 +2507,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 376322,
+      "num": 376322,
+      "word": "巴黎奥运排查出约800名不怀好意者",
+      "onboard_time": 1712046079,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 376103,
       "num": 324775,
       "word": "24岁女生和48岁的室友妈妈处成母女",
       "onboard_time": 1712031801,
       "rank": 20,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 375560,
+      "num": 375560,
+      "word": "iPad游戏合集",
+      "onboard_time": 1712043739,
+      "rank": 18,
+      "category": "游戏"
     },
     {
       "raw_hot": 374160,
@@ -2635,6 +2651,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 348254,
+      "num": 348254,
+      "word": "福宝明天回家",
+      "onboard_time": 1712043259,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 347559,
       "num": 347559,
       "word": "吴奇隆抱儿子出商场",
@@ -2753,14 +2777,6 @@
       "onboard_time": 1711894220,
       "rank": 35,
       "category": "情感"
-    },
-    {
-      "raw_hot": 335379,
-      "num": 335379,
-      "word": "福宝明天回家",
-      "onboard_time": 1712043259,
-      "rank": 17,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 333616,
@@ -2963,14 +2979,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 304712,
-      "num": 304712,
-      "word": "iPad游戏合集",
-      "onboard_time": 1712043739,
-      "rank": 18,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 304483,
       "num": 315316,
       "word": "愚人节",
@@ -3089,6 +3097,14 @@
       "onboard_time": 1711878197,
       "rank": 22,
       "category": "情感"
+    },
+    {
+      "raw_hot": 294327,
+      "num": 294327,
+      "word": "还有比炸蛋更可怕的食物吗",
+      "onboard_time": 1712044939,
+      "rank": 27,
+      "category": "美食,健康医疗"
     },
     {
       "raw_hot": 293343,
@@ -3289,6 +3305,14 @@
       "onboard_time": 1711950142,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 277212,
+      "num": 277212,
+      "word": "雷军称将举办小米SU7首批交付仪式",
+      "onboard_time": 1712045178,
+      "rank": 24,
+      "category": "汽车"
     },
     {
       "raw_hot": 276382,
@@ -3628,7 +3652,7 @@
     },
     {
       "raw_hot": 248567,
-      "num": 185795,
+      "num": 205474,
       "word": "今天穿什么香",
       "onboard_time": 1712045000,
       "rank": 30,
@@ -3665,14 +3689,6 @@
       "onboard_time": 1711974380,
       "rank": 32,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 246117,
-      "num": 246117,
-      "word": "雷军称将举办小米SU7首批交付仪式",
-      "onboard_time": 1712045178,
-      "rank": 24,
-      "category": "汽车"
     },
     {
       "raw_hot": 245831,
@@ -4115,14 +4131,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 222888,
-      "num": 222888,
-      "word": "还有比炸蛋更可怕的食物吗",
-      "onboard_time": 1712044939,
-      "rank": 27,
-      "category": "美食,健康医疗"
-    },
-    {
       "raw_hot": 220827,
       "num": 220827,
       "word": "YG耳",
@@ -4257,6 +4265,14 @@
       "onboard_time": 1711830190,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 213023,
+      "num": 213023,
+      "word": "巴以冲突",
+      "onboard_time": 1712045838,
+      "rank": 38,
+      "category": "国外时政"
     },
     {
       "raw_hot": 212950,
@@ -5915,6 +5931,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 159359,
+      "num": 205482,
+      "word": "中方谴责针对伊朗驻叙使馆的袭击行为",
+      "onboard_time": 1712045958,
+      "rank": 48,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 159165,
       "num": 159165,
       "word": "你家里床单多久换一次",
@@ -6056,6 +6080,14 @@
       "word": "烈焰 在天上挂了三天终于开打了",
       "onboard_time": 1711869197,
       "rank": 43,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 154545,
+      "num": 154545,
+      "word": "魏若来人设",
+      "onboard_time": 1712046558,
+      "rank": 33,
       "category": "剧集"
     },
     {
@@ -6435,6 +6467,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 143915,
+      "num": 396225,
+      "word": "为什么这双鞋出圈了",
+      "onboard_time": 1712042658,
+      "rank": 31,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 143771,
       "num": 137623,
       "word": "十个勤天 音乐节",
@@ -6779,14 +6819,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 134751,
-      "num": 134751,
-      "word": "巴以冲突",
-      "onboard_time": 1712045838,
-      "rank": 38,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 134650,
       "num": 134650,
       "word": "卓澜江下线",
@@ -6873,14 +6905,6 @@
       "onboard_time": 1711935138,
       "rank": 39,
       "category": "财经"
-    },
-    {
-      "raw_hot": 129908,
-      "num": 396225,
-      "word": "为什么这双鞋出圈了",
-      "onboard_time": 1712042658,
-      "rank": 31,
-      "category": "运动健身"
     },
     {
       "raw_hot": 129172,
@@ -7227,6 +7251,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 112662,
+      "num": 112662,
+      "word": "司机只是想要每个乘客都上车而已",
+      "onboard_time": 1712046259,
+      "rank": 44,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 111987,
       "num": 118254,
       "word": "澳门国际乒联世界杯奖牌公布",
@@ -7259,27 +7291,11 @@
       "category": "电影"
     },
     {
-      "raw_hot": 110045,
-      "num": 110045,
-      "word": "中方谴责针对伊朗驻叙使馆的袭击行为",
-      "onboard_time": 1712045958,
-      "rank": 48,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 109769,
       "num": 109769,
       "word": "C罗帽子戏法",
       "onboard_time": 1711843576,
       "rank": 45,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 109598,
-      "num": 109598,
-      "word": "巴黎奥运排查出约800名不怀好意者",
-      "onboard_time": 1712046079,
-      "rank": 49,
       "category": "体育"
     },
     {
@@ -7361,6 +7377,14 @@
       "onboard_time": 1711810700,
       "rank": 38,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 102884,
+      "num": 102884,
+      "word": "辛云来演技 木",
+      "onboard_time": 1712046860,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 102125,
@@ -7828,7 +7852,7 @@
     },
     {
       "raw_hot": 46826,
-      "num": 1019827,
+      "num": 1123945,
       "word": "中非互联网发展与合作论坛",
       "onboard_time": 1712044158,
       "rank": 2,
@@ -7955,20 +7979,20 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 18220,
+      "num": 133923,
+      "word": "2024云拜祖正确打开方式",
+      "onboard_time": 1712044819,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 16815,
       "num": 19489,
       "word": "把化妆过程拍成了化妆游戏",
       "onboard_time": 1711832411,
       "rank": 44,
       "category": "美妆"
-    },
-    {
-      "raw_hot": 15412,
-      "num": 133923,
-      "word": "2024云拜祖正确打开方式",
-      "onboard_time": 1712044819,
-      "rank": 39,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 11652,
