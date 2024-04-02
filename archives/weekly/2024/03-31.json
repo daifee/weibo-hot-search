@@ -1,6 +1,6 @@
 {
   "startTime": 1711815680412,
-  "endTime": 1712028013751,
+  "endTime": 1712028863162,
   "band_list": [
     {
       "raw_hot": 12825415,
@@ -145,6 +145,14 @@
       "onboard_time": 1712024719,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1907283,
+      "num": 1907283,
+      "word": "小米SU7退订率40%",
+      "onboard_time": 1712027599,
+      "rank": 3,
+      "category": "汽车"
     },
     {
       "raw_hot": 1849185,
@@ -561,14 +569,6 @@
       "onboard_time": 1711941978,
       "rank": 23,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 955921,
-      "num": 955921,
-      "word": "小米SU7退订率40%",
-      "onboard_time": 1712027599,
-      "rank": 3,
-      "category": "汽车"
     },
     {
       "raw_hot": 945169,
@@ -1179,6 +1179,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 617148,
+      "num": 617148,
+      "word": "万科",
+      "onboard_time": 1712026519,
+      "rank": 8,
+      "category": "财经"
+    },
+    {
       "raw_hot": 614136,
       "num": 614136,
       "word": "开封王婆说媒现在变味了",
@@ -1779,14 +1787,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 461790,
-      "num": 461790,
-      "word": "万科",
-      "onboard_time": 1712026519,
-      "rank": 8,
-      "category": "财经"
-    },
-    {
       "raw_hot": 459773,
       "num": 459773,
       "word": "网友回应帮张颂文跟雷军要到小米SU7",
@@ -2027,6 +2027,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 412096,
+      "num": 412096,
+      "word": "以色列",
+      "onboard_time": 1712023878,
+      "rank": 25,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 411537,
       "num": 411537,
       "word": "肖战直播",
@@ -2235,14 +2243,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 374399,
-      "num": 374399,
-      "word": "以色列",
-      "onboard_time": 1712023878,
-      "rank": 25,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 374160,
       "num": 328297,
       "word": "女性太瘦并不是件好事",
@@ -2449,6 +2449,14 @@
       "onboard_time": 1711865598,
       "rank": 27,
       "category": "情感"
+    },
+    {
+      "raw_hot": 332617,
+      "num": 332617,
+      "word": "王一博维和警察穿搭",
+      "onboard_time": 1712027841,
+      "rank": 23,
+      "category": "电影"
     },
     {
       "raw_hot": 332320,
@@ -3203,6 +3211,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 248838,
+      "num": 248838,
+      "word": "杨幂豹纹辣妹",
+      "onboard_time": 1712028138,
+      "rank": 17,
+      "category": "电影"
+    },
+    {
       "raw_hot": 248044,
       "num": 248044,
       "word": "迪丽热巴对接辟谣去林俊杰演唱会",
@@ -3313,6 +3329,14 @@
       "onboard_time": 1711865777,
       "rank": 40,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 239690,
+      "num": 239690,
+      "word": "王楚钦连续三周世界第一",
+      "onboard_time": 1712027719,
+      "rank": 32,
+      "category": "体育"
     },
     {
       "raw_hot": 239325,
@@ -3747,6 +3771,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 212429,
+      "num": 212429,
+      "word": "00后女生当模特穿自己设计的寿衣",
+      "onboard_time": 1712024599,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 211533,
       "num": 211533,
       "word": "李云霄巡演合照",
@@ -3971,14 +4003,6 @@
       "category": "情感,社会新闻"
     },
     {
-      "raw_hot": 202098,
-      "num": 202098,
-      "word": "王一博维和警察穿搭",
-      "onboard_time": 1712027841,
-      "rank": 23,
-      "category": "电影"
-    },
-    {
       "raw_hot": 202070,
       "num": 179561,
       "word": "迪丽热巴被摸手臂",
@@ -4139,14 +4163,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 197384,
-      "num": 197384,
-      "word": "00后女生当模特穿自己设计的寿衣",
-      "onboard_time": 1712024599,
-      "rank": 45,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 197374,
       "num": 197374,
       "word": "babymonster音源",
@@ -4161,6 +4177,14 @@
       "onboard_time": 1711927816,
       "rank": 23,
       "category": "情感"
+    },
+    {
+      "raw_hot": 197010,
+      "num": 197010,
+      "word": "徐帆女儿气质",
+      "onboard_time": 1712028439,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 196954,
@@ -4321,6 +4345,14 @@
       "onboard_time": 1711937779,
       "rank": 31,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 192366,
+      "num": 192366,
+      "word": "AI程序员首次入职科技公司",
+      "onboard_time": 1712027778,
+      "rank": 43,
+      "category": "互联网"
     },
     {
       "raw_hot": 192365,
@@ -4801,14 +4833,6 @@
       "onboard_time": 1711958181,
       "rank": 33,
       "category": "艺人,汽车"
-    },
-    {
-      "raw_hot": 176117,
-      "num": 176117,
-      "word": "王楚钦连续三周世界第一",
-      "onboard_time": 1712027719,
-      "rank": 32,
-      "category": "体育"
     },
     {
       "raw_hot": 176101,
@@ -5539,6 +5563,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 147531,
+      "num": 1342361,
+      "word": "强对流天气应该如何避险",
+      "onboard_time": 1712026758,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 147506,
       "num": 147506,
       "word": "没人能拒绝中式美学的魅力",
@@ -5739,6 +5771,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 141389,
+      "num": 141389,
+      "word": "延时摄影看苹果花开",
+      "onboard_time": 1712028799,
+      "rank": 37,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 141166,
       "num": 141166,
       "word": "Hero对战eStar",
@@ -5779,22 +5819,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 140321,
-      "num": 140321,
-      "word": "AI程序员首次入职科技公司",
-      "onboard_time": 1712027778,
-      "rank": 43,
-      "category": "互联网"
-    },
-    {
-      "raw_hot": 139935,
-      "num": 956800,
-      "word": "强对流天气应该如何避险",
-      "onboard_time": 1712026758,
-      "rank": 2,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 138919,
       "num": 138919,
       "word": "白鹿4月进组新剧",
@@ -5816,6 +5840,14 @@
       "word": "你有没有很小众的择偶标准",
       "onboard_time": 1711873939,
       "rank": 38,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 138359,
+      "num": 138359,
+      "word": "人在什么时候最舒服",
+      "onboard_time": 1712027960,
+      "rank": 49,
       "category": "情感"
     },
     {
@@ -6043,6 +6075,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 126232,
+      "num": 126232,
+      "word": "生育养育成本应该谁来承担",
+      "onboard_time": 1712027000,
+      "rank": 47,
+      "category": "母婴育儿"
+    },
+    {
       "raw_hot": 126120,
       "num": 126120,
       "word": "当猫咪以为主人给它做的绝育",
@@ -6097,14 +6137,6 @@
       "onboard_time": 1711800439,
       "rank": 34,
       "category": "体育"
-    },
-    {
-      "raw_hot": 123717,
-      "num": 123717,
-      "word": "生育养育成本应该谁来承担",
-      "onboard_time": 1712027000,
-      "rank": 47,
-      "category": "母婴育儿"
     },
     {
       "raw_hot": 123509,
@@ -6179,6 +6211,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 119227,
+      "num": 255735,
+      "word": "又又又被vivo治愈了",
+      "onboard_time": 1712027120,
+      "rank": 31,
+      "category": "数码"
+    },
+    {
       "raw_hot": 118268,
       "num": 118268,
       "word": "乘风踏浪 老寒腚",
@@ -6209,14 +6249,6 @@
       "onboard_time": 1711843155,
       "rank": 44,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 115810,
-      "num": 115810,
-      "word": "人在什么时候最舒服",
-      "onboard_time": 1712027960,
-      "rank": 49,
-      "category": "情感"
     },
     {
       "raw_hot": 115668,
@@ -6305,6 +6337,14 @@
       "onboard_time": 1712013856,
       "rank": 24,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 111580,
+      "num": 111580,
+      "word": "中国黄金回应上亿元托管黄金消失",
+      "onboard_time": 1712028799,
+      "rank": 48,
+      "category": "财经"
     },
     {
       "raw_hot": 110878,
@@ -6497,14 +6537,6 @@
       "onboard_time": 1712004069,
       "rank": 21,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 94562,
-      "num": 176267,
-      "word": "又又又被vivo治愈了",
-      "onboard_time": 1712027120,
-      "rank": 31,
-      "category": "数码"
     },
     {
       "raw_hot": 94215,

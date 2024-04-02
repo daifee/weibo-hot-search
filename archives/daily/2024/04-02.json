@@ -1,6 +1,6 @@
 {
   "startTime": 1711988526523,
-  "endTime": 1712028013751,
+  "endTime": 1712028863162,
   "band_list": [
     {
       "raw_hot": 2142677,
@@ -27,6 +27,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1907283,
+      "num": 1907283,
+      "word": "小米SU7退订率40%",
+      "onboard_time": 1712027599,
+      "rank": 3,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 1549917,
       "num": 1549917,
       "word": "飓风坠楼3条人命迁出江西贪腐第一大案",
@@ -41,14 +49,6 @@
       "onboard_time": 1712020459,
       "rank": 31,
       "category": "社会新闻,旅游"
-    },
-    {
-      "raw_hot": 955921,
-      "num": 955921,
-      "word": "小米SU7退订率40%",
-      "onboard_time": 1712027599,
-      "rank": 3,
-      "category": "汽车"
     },
     {
       "raw_hot": 879668,
@@ -155,6 +155,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 617148,
+      "num": 617148,
+      "word": "万科",
+      "onboard_time": 1712026519,
+      "rank": 8,
+      "category": "财经"
+    },
+    {
       "raw_hot": 607746,
       "num": 607746,
       "word": "伊朗驻叙领馆及大使官邸遭以军空袭",
@@ -235,14 +243,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 461790,
-      "num": 461790,
-      "word": "万科",
-      "onboard_time": 1712026519,
-      "rank": 8,
-      "category": "财经"
-    },
-    {
       "raw_hot": 445449,
       "num": 445449,
       "word": "苹果今年或推出低价AirPods",
@@ -281,6 +281,14 @@
       "onboard_time": 1712013736,
       "rank": 17,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 412096,
+      "num": 412096,
+      "word": "以色列",
+      "onboard_time": 1712023878,
+      "rank": 25,
+      "category": "国外时政"
     },
     {
       "raw_hot": 398459,
@@ -323,14 +331,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 374399,
-      "num": 374399,
-      "word": "以色列",
-      "onboard_time": 1712023878,
-      "rank": 25,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 366377,
       "num": 309860,
       "word": "清明还没到 男二人没了",
@@ -353,6 +353,14 @@
       "onboard_time": 1712013677,
       "rank": 30,
       "category": "美食"
+    },
+    {
+      "raw_hot": 332617,
+      "num": 332617,
+      "word": "王一博维和警察穿搭",
+      "onboard_time": 1712027841,
+      "rank": 23,
+      "category": "电影"
     },
     {
       "raw_hot": 319779,
@@ -451,6 +459,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 248838,
+      "num": 248838,
+      "word": "杨幂豹纹辣妹",
+      "onboard_time": 1712028138,
+      "rank": 17,
+      "category": "电影"
+    },
+    {
       "raw_hot": 245030,
       "num": 245030,
       "word": "黄旭熙G社生图",
@@ -465,6 +481,14 @@
       "onboard_time": 1712017940,
       "rank": 27,
       "category": "情感"
+    },
+    {
+      "raw_hot": 239690,
+      "num": 239690,
+      "word": "王楚钦连续三周世界第一",
+      "onboard_time": 1712027719,
+      "rank": 32,
+      "category": "体育"
     },
     {
       "raw_hot": 228038,
@@ -496,6 +520,14 @@
       "word": "南昌大风",
       "onboard_time": 1712013136,
       "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 212429,
+      "num": 212429,
+      "word": "00后女生当模特穿自己设计的寿衣",
+      "onboard_time": 1712024599,
+      "rank": 45,
       "category": "社会新闻"
     },
     {
@@ -539,14 +571,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 202098,
-      "num": 202098,
-      "word": "王一博维和警察穿搭",
-      "onboard_time": 1712027841,
-      "rank": 23,
-      "category": "电影"
-    },
-    {
       "raw_hot": 202070,
       "num": 179561,
       "word": "迪丽热巴被摸手臂",
@@ -563,12 +587,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 197384,
-      "num": 197384,
-      "word": "00后女生当模特穿自己设计的寿衣",
-      "onboard_time": 1712024599,
-      "rank": 45,
-      "category": "社会新闻"
+      "raw_hot": 197010,
+      "num": 197010,
+      "word": "徐帆女儿气质",
+      "onboard_time": 1712028439,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 196354,
@@ -585,6 +609,14 @@
       "onboard_time": 1712000651,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 192366,
+      "num": 192366,
+      "word": "AI程序员首次入职科技公司",
+      "onboard_time": 1712027778,
+      "rank": 43,
+      "category": "互联网"
     },
     {
       "raw_hot": 189950,
@@ -633,14 +665,6 @@
       "onboard_time": 1711978280,
       "rank": 19,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 176117,
-      "num": 176117,
-      "word": "王楚钦连续三周世界第一",
-      "onboard_time": 1712027719,
-      "rank": 32,
-      "category": "体育"
     },
     {
       "raw_hot": 173046,
@@ -731,6 +755,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 147531,
+      "num": 1342361,
+      "word": "强对流天气应该如何避险",
+      "onboard_time": 1712026758,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 147052,
       "num": 147052,
       "word": "旅行最怕的就是手机没电",
@@ -795,20 +827,20 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 140321,
-      "num": 140321,
-      "word": "AI程序员首次入职科技公司",
-      "onboard_time": 1712027778,
-      "rank": 43,
-      "category": "互联网"
+      "raw_hot": 141389,
+      "num": 141389,
+      "word": "延时摄影看苹果花开",
+      "onboard_time": 1712028799,
+      "rank": 37,
+      "category": "旅游"
     },
     {
-      "raw_hot": 139935,
-      "num": 956800,
-      "word": "强对流天气应该如何避险",
-      "onboard_time": 1712026758,
-      "rank": 2,
-      "category": "社会新闻"
+      "raw_hot": 138359,
+      "num": 138359,
+      "word": "人在什么时候最舒服",
+      "onboard_time": 1712027960,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 138116,
@@ -883,8 +915,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 123717,
-      "num": 123717,
+      "raw_hot": 126232,
+      "num": 126232,
       "word": "生育养育成本应该谁来承担",
       "onboard_time": 1712027000,
       "rank": 47,
@@ -897,6 +929,14 @@
       "onboard_time": 1712024419,
       "rank": 46,
       "category": "情感"
+    },
+    {
+      "raw_hot": 119227,
+      "num": 255735,
+      "word": "又又又被vivo治愈了",
+      "onboard_time": 1712027120,
+      "rank": 31,
+      "category": "数码"
     },
     {
       "raw_hot": 117374,
@@ -915,14 +955,6 @@
       "category": "母婴育儿"
     },
     {
-      "raw_hot": 115810,
-      "num": 115810,
-      "word": "人在什么时候最舒服",
-      "onboard_time": 1712027960,
-      "rank": 49,
-      "category": "情感"
-    },
-    {
       "raw_hot": 111964,
       "num": 111964,
       "word": "小林制药保健品已致157人住院",
@@ -937,6 +969,14 @@
       "onboard_time": 1711975940,
       "rank": 35,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 111580,
+      "num": 111580,
+      "word": "中国黄金回应上亿元托管黄金消失",
+      "onboard_time": 1712028799,
+      "rank": 48,
+      "category": "财经"
     },
     {
       "raw_hot": 110134,
@@ -1001,14 +1041,6 @@
       "onboard_time": 1712004069,
       "rank": 21,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 94562,
-      "num": 176267,
-      "word": "又又又被vivo治愈了",
-      "onboard_time": 1712027120,
-      "rank": 31,
-      "category": "数码"
     },
     {
       "raw_hot": 91415,
