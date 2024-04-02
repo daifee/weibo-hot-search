@@ -1,6 +1,6 @@
 {
   "startTime": 1711815680412,
-  "endTime": 1712021758996,
+  "endTime": 1712024811215,
   "band_list": [
     {
       "raw_hot": 12825415,
@@ -355,6 +355,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 1211067,
+      "num": 1211067,
+      "word": "99年女孩两年不上班逛吃30个城市",
+      "onboard_time": 1712020459,
+      "rank": 31,
+      "category": "社会新闻,旅游"
+    },
+    {
       "raw_hot": 1210558,
       "num": 538791,
       "word": "迈巴赫",
@@ -675,6 +683,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 812368,
+      "num": 359568,
+      "word": "飓风坠楼3条人命牵出江西贪腐第一大案",
+      "onboard_time": 1712019679,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 809489,
       "num": 809489,
       "word": "孙艺珍晒婚纱照",
@@ -881,14 +897,6 @@
       "onboard_time": 1711861637,
       "rank": 21,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 710024,
-      "num": 710024,
-      "word": "99年女孩两年不上班逛吃30个城市",
-      "onboard_time": 1712020459,
-      "rank": 31,
-      "category": "社会新闻,旅游"
     },
     {
       "raw_hot": 709112,
@@ -1113,6 +1121,14 @@
       "onboard_time": 1711842014,
       "rank": 4,
       "category": "财经"
+    },
+    {
+      "raw_hot": 622262,
+      "num": 622262,
+      "word": "伊朗将果断回应以色列行动",
+      "onboard_time": 1712020220,
+      "rank": 36,
+      "category": "国外时政"
     },
     {
       "raw_hot": 618572,
@@ -1627,14 +1643,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 481936,
-      "num": 481936,
-      "word": "伊朗将果断回应以色列行动",
-      "onboard_time": 1712020220,
-      "rank": 36,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 479382,
       "num": 310340,
       "word": "雷军妻子罕见露面",
@@ -1649,6 +1657,14 @@
       "onboard_time": 1711888277,
       "rank": 28,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 476574,
+      "num": 476574,
+      "word": "台军暂缓在金门等地对海实弹射击",
+      "onboard_time": 1712021717,
+      "rank": 48,
+      "category": "国内时政"
     },
     {
       "raw_hot": 475183,
@@ -1785,6 +1801,14 @@
       "onboard_time": 1711901838,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 445449,
+      "num": 445449,
+      "word": "苹果今年或推出低价AirPods",
+      "onboard_time": 1712020400,
+      "rank": 43,
+      "category": "数码"
     },
     {
       "raw_hot": 444961,
@@ -2001,6 +2025,14 @@
       "onboard_time": 1711972640,
       "rank": 13,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 397327,
+      "num": 397327,
+      "word": "孙颖莎世界排名积分7800分",
+      "onboard_time": 1712020700,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 395656,
@@ -2243,14 +2275,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 356443,
-      "num": 356443,
-      "word": "苹果今年或推出低价AirPods",
-      "onboard_time": 1712020400,
-      "rank": 43,
-      "category": "数码"
-    },
-    {
       "raw_hot": 355699,
       "num": 355699,
       "word": "盗月社被胖东来老板抓包",
@@ -2395,6 +2419,14 @@
       "category": "互联网,网红"
     },
     {
+      "raw_hot": 327919,
+      "num": 327919,
+      "word": "华晨宇9年前就拒绝月经羞耻",
+      "onboard_time": 1712024719,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 327637,
       "num": 327637,
       "word": "陈楚生有沟",
@@ -2441,6 +2473,14 @@
       "onboard_time": 1711942940,
       "rank": 22,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 315454,
+      "num": 315454,
+      "word": "为什么你睡醒后腰酸背痛",
+      "onboard_time": 1712020819,
+      "rank": 25,
+      "category": "健康医疗,科学科普"
     },
     {
       "raw_hot": 315313,
@@ -2513,6 +2553,14 @@
       "onboard_time": 1711893140,
       "rank": 30,
       "category": "情感"
+    },
+    {
+      "raw_hot": 306013,
+      "num": 306013,
+      "word": "县城年轻人每天花多少钱点咖啡",
+      "onboard_time": 1712023819,
+      "rank": 16,
+      "category": "社会新闻,美食"
     },
     {
       "raw_hot": 305666,
@@ -2643,6 +2691,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 293783,
+      "num": 293783,
+      "word": "减肥关键点是饿",
+      "onboard_time": 1712023878,
+      "rank": 18,
+      "category": "美食"
+    },
+    {
       "raw_hot": 292040,
       "num": 292040,
       "word": "去东海救碧苍王",
@@ -2681,6 +2737,14 @@
       "onboard_time": 1711947564,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 288046,
+      "num": 288046,
+      "word": "黄金又暴涨中国资产飙升",
+      "onboard_time": 1712023459,
+      "rank": 20,
+      "category": "财经"
     },
     {
       "raw_hot": 287562,
@@ -3107,14 +3171,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 246787,
-      "num": 246787,
-      "word": "为什么你睡醒后腰酸背痛",
-      "onboard_time": 1712020819,
-      "rank": 25,
-      "category": "健康医疗,科学科普"
-    },
-    {
       "raw_hot": 245831,
       "num": 245831,
       "word": "妲己青丘九尾无双特性优化",
@@ -3355,14 +3411,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 232041,
-      "num": 232041,
-      "word": "孙颖莎世界排名积分7800分",
-      "onboard_time": 1712020700,
-      "rank": 29,
-      "category": "体育"
-    },
-    {
       "raw_hot": 231434,
       "num": 231434,
       "word": "马斯克称AI毁灭人类的可能性为20%",
@@ -3395,6 +3443,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 229012,
+      "num": 229012,
+      "word": "以色列",
+      "onboard_time": 1712023878,
+      "rank": 25,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 228605,
       "num": 228605,
       "word": "爸爸用排烟管给女儿做了一条粉色龙",
@@ -3417,6 +3473,14 @@
       "onboard_time": 1711883897,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 228038,
+      "num": 228038,
+      "word": "小米集团盘前大涨15%",
+      "onboard_time": 1712022378,
+      "rank": 26,
+      "category": "数码"
     },
     {
       "raw_hot": 227972,
@@ -3651,12 +3715,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 210871,
+      "num": 206697,
+      "word": "女装敢不敢再敷衍一点",
+      "onboard_time": 1712024119,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 210621,
       "num": 202338,
       "word": "被自己一个月的掉发量惊呆了",
       "onboard_time": 1711863739,
       "rank": 23,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 210534,
+      "num": 210534,
+      "word": "安徽江淮汽车集团原董事长安进接受审查调查",
+      "onboard_time": 1712024179,
+      "rank": 29,
+      "category": "社会新闻,汽车"
     },
     {
       "raw_hot": 210512,
@@ -4579,6 +4659,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 178840,
+      "num": 178840,
+      "word": "赵露思机场没被认出来",
+      "onboard_time": 1712024599,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 178755,
       "num": 178755,
       "word": "3周瘦7斤的底层逻辑",
@@ -5363,6 +5451,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 147052,
+      "num": 147052,
+      "word": "旅行最怕的就是手机没电",
+      "onboard_time": 1712023278,
+      "rank": 40,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 146727,
       "num": 285590,
       "word": "中央网信办整治涉企侵权信息乱象",
@@ -5457,6 +5553,14 @@
       "onboard_time": 1711803498,
       "rank": 35,
       "category": "演出"
+    },
+    {
+      "raw_hot": 143695,
+      "num": 143695,
+      "word": "大柯基叫醒小柯基的方式",
+      "onboard_time": 1712024119,
+      "rank": 41,
+      "category": "幽默"
     },
     {
       "raw_hot": 143556,
@@ -5819,6 +5923,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 126006,
+      "num": 126006,
+      "word": "00后女生当模特穿自己设计的寿衣",
+      "onboard_time": 1712024599,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 125455,
       "num": 125455,
       "word": "脱发的人通常心火都比较旺",
@@ -5907,20 +6019,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 121709,
-      "num": 121709,
-      "word": "台军暂缓在金门等地对海实弹射击",
-      "onboard_time": 1712021717,
-      "rank": 48,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 121257,
       "num": 121257,
       "word": "第五人格",
       "onboard_time": 1711867338,
       "rank": 42,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 121213,
+      "num": 121213,
+      "word": "工作上一遇到挫折就想辞职",
+      "onboard_time": 1712024419,
+      "rank": 46,
+      "category": "情感"
     },
     {
       "raw_hot": 121182,
@@ -6729,6 +6841,14 @@
       "onboard_time": 1711918030,
       "rank": 40,
       "category": "母婴育儿"
+    },
+    {
+      "raw_hot": 22807,
+      "num": 147365,
+      "word": "张朝阳夜跑直播探访北京",
+      "onboard_time": 1712023219,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 20228,
