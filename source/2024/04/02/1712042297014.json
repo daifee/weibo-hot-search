@@ -1,0 +1,410 @@
+{
+  "runTime": 1712042297014,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1480529,
+        "num": 1480529,
+        "word": "赵小棠抑郁了两年",
+        "onboard_time": 1712038998,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1422789,
+        "num": 1422789,
+        "word": "旅游时被拖进洞房3分钟收费168",
+        "onboard_time": 1712039779,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 102253,
+        "num": 1336132,
+        "word": "强对流天气应该如何避险",
+        "onboard_time": 1712026758,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1291442,
+        "num": 1291442,
+        "word": "黄旭熙 给粉丝下跪",
+        "onboard_time": 1712037859,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 914997,
+        "num": 914997,
+        "word": "何炅 咬布条",
+        "onboard_time": 1712040439,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 735973,
+        "num": 735973,
+        "word": "南昌",
+        "onboard_time": 1712038879,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 632942,
+        "num": 632942,
+        "word": "王灿被烫伤",
+        "onboard_time": 1712033780,
+        "rank": 6,
+        "category": "艺人,艺人"
+      },
+      {
+        "raw_hot": 491652,
+        "num": 491652,
+        "word": "日本专家说小米汽车如同iPhone问世",
+        "onboard_time": 1712034740,
+        "rank": 7,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 408558,
+        "num": 408558,
+        "word": "华晨宇我们终于要一起看日出了",
+        "onboard_time": 1712034321,
+        "rank": 8,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 371462,
+        "num": 371462,
+        "word": "巴黎奥运让义乌又爆单了",
+        "onboard_time": 1712040860,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 671913,
+        "num": 371243,
+        "word": "小米SU7退订率",
+        "onboard_time": 1712040319,
+        "rank": 10,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 464071,
+        "num": 365427,
+        "word": "黑龙江省考出不出成绩",
+        "onboard_time": 1712040199,
+        "rank": 11,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 430073,
+        "num": 362606,
+        "word": "女子入职体检发现怀孕后被拒录用",
+        "onboard_time": 1712017701,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 334638,
+        "num": 334638,
+        "word": "李洙赫回关邓为",
+        "onboard_time": 1712039897,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 310105,
+        "num": 310105,
+        "word": "99年女孩两年不上班逛吃30个城市",
+        "onboard_time": 1712020459,
+        "rank": 14,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 303492,
+        "num": 303492,
+        "word": "华晨宇9年前就拒绝月经羞耻",
+        "onboard_time": 1712024719,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 292701,
+        "num": 292701,
+        "word": "分手厨房实绩",
+        "onboard_time": 1712032762,
+        "rank": 16,
+        "category": "游戏,艺人"
+      },
+      {
+        "raw_hot": 290393,
+        "num": 290393,
+        "word": "余承东否认被下令禁提遥遥领先",
+        "onboard_time": 1712040319,
+        "rank": 17,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 280084,
+        "num": 280084,
+        "word": "任敏别气李现了",
+        "onboard_time": 1712037258,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 271099,
+        "num": 271099,
+        "word": "张婧仪神图的诞生",
+        "onboard_time": 1712034740,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 429137,
+        "num": 263696,
+        "word": "中医让我把鸡蛋牛奶戒了",
+        "onboard_time": 1712035520,
+        "rank": 20,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 254907,
+        "num": 254907,
+        "word": "带呼吸法口令的八段锦跟练教程",
+        "onboard_time": 1712041578,
+        "rank": 21,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 237100,
+        "num": 237100,
+        "word": "大四下才是大学最难熬的吧",
+        "onboard_time": 1712036180,
+        "rank": 22,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 232707,
+        "num": 232707,
+        "word": "平躺才是脊柱最喜欢的睡姿",
+        "onboard_time": 1712037139,
+        "rank": 23,
+        "category": "健康医疗,科学科普"
+      },
+      {
+        "raw_hot": 228066,
+        "num": 228066,
+        "word": "MSI抢票",
+        "onboard_time": 1712039239,
+        "rank": 24,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 215122,
+        "num": 215122,
+        "word": "江西人的命都是辣椒给的",
+        "onboard_time": 1712041578,
+        "rank": 25,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 210140,
+        "num": 210140,
+        "word": "当告诉弟弟自己分手了以后",
+        "onboard_time": 1712040797,
+        "rank": 26,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 209916,
+        "num": 209916,
+        "word": "伊朗外长称已给美国传话",
+        "onboard_time": 1712030480,
+        "rank": 27,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 208210,
+        "num": 208210,
+        "word": "小米汽车要求供应商月产1万辆",
+        "onboard_time": 1712041578,
+        "rank": 28,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 206441,
+        "num": 206441,
+        "word": "减肥关键点是饿",
+        "onboard_time": 1712023878,
+        "rank": 29,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 187544,
+        "num": 187544,
+        "word": "王珞丹给陶昕然送麝香",
+        "onboard_time": 1712038818,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 187415,
+        "num": 187415,
+        "word": "陈震再回应小米SU7测评争议",
+        "onboard_time": 1712041098,
+        "rank": 31,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 185063,
+        "num": 185063,
+        "word": "宋江入伍",
+        "onboard_time": 1712032281,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 184994,
+        "num": 184994,
+        "word": "赵露思小狗合照",
+        "onboard_time": 1712039599,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 180247,
+        "num": 180247,
+        "word": "惜花芷小演员和张婧仪好像",
+        "onboard_time": 1712040617,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 171761,
+        "num": 171761,
+        "word": "黄金饰品飙升至每克700元",
+        "onboard_time": 1712039298,
+        "rank": 35,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 171722,
+        "num": 171722,
+        "word": "提灯定损事件当地应直面讹诈质疑",
+        "onboard_time": 1712041218,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 156410,
+        "num": 156410,
+        "word": "加沙最大医院已永久停止服务",
+        "onboard_time": 1712041938,
+        "rank": 37,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 156160,
+        "num": 156160,
+        "word": "宋雨琦预售",
+        "onboard_time": 1712039059,
+        "rank": 38,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 147664,
+        "num": 147664,
+        "word": "原来我们小时候品的都是细糠",
+        "onboard_time": 1712041758,
+        "rank": 39,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 147477,
+        "num": 147477,
+        "word": "飓风坠楼3条人命牵出江西贪腐第一大案",
+        "onboard_time": 1712019679,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 140063,
+        "num": 140063,
+        "word": "自虐式管理公司的老板",
+        "onboard_time": 1712041578,
+        "rank": 41,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 136773,
+        "num": 136773,
+        "word": "田曦薇背沟",
+        "onboard_time": 1712036180,
+        "rank": 42,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 136507,
+        "num": 136507,
+        "word": "小米SU7提车最长等待时间近8个月",
+        "onboard_time": 1712041337,
+        "rank": 43,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 134970,
+        "num": 134970,
+        "word": "黄旭熙中文还没郑雅娴说得好",
+        "onboard_time": 1712031923,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 127502,
+        "num": 127502,
+        "word": "以前的大学生吃的到底有多好",
+        "onboard_time": 1712037678,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 118570,
+        "num": 118570,
+        "word": "华晨宇官宣烟台演唱会",
+        "onboard_time": 1712015779,
+        "rank": 46,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 117217,
+        "num": 117217,
+        "word": "蓝色真的能抑制一切食欲",
+        "onboard_time": 1712030721,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 115806,
+        "num": 115806,
+        "word": "承欢记处处吻",
+        "onboard_time": 1712034081,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 114389,
+        "num": 114389,
+        "word": "赵露思告黑二审胜诉",
+        "onboard_time": 1712042238,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#中方愿同印尼方一道跑好历史接力赛#"
+    }
+  }
+}

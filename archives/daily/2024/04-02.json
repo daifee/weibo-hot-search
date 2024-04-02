@@ -1,6 +1,6 @@
 {
   "startTime": 1711988526523,
-  "endTime": 1712039788767,
+  "endTime": 1712042297014,
   "band_list": [
     {
       "raw_hot": 2142677,
@@ -44,7 +44,7 @@
     },
     {
       "raw_hot": 1622172,
-      "num": 818747,
+      "num": 1291442,
       "word": "黄旭熙 给粉丝下跪",
       "onboard_time": 1712037859,
       "rank": 3,
@@ -59,12 +59,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1480529,
+      "num": 1480529,
+      "word": "赵小棠抑郁了两年",
+      "onboard_time": 1712038998,
+      "rank": 1,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1471260,
       "num": 1471260,
       "word": "王灿被烫伤",
       "onboard_time": 1712033780,
       "rank": 3,
       "category": "艺人,艺人"
+    },
+    {
+      "raw_hot": 1422789,
+      "num": 1422789,
+      "word": "旅游时被拖进洞房3分钟收费168",
+      "onboard_time": 1712039779,
+      "rank": 1,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1234442,
@@ -99,11 +115,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 898093,
-      "num": 898093,
-      "word": "赵小棠抑郁了两年",
-      "onboard_time": 1712038998,
-      "rank": 1,
+      "raw_hot": 914997,
+      "num": 914997,
+      "word": "何炅 咬布条",
+      "onboard_time": 1712040439,
+      "rank": 4,
       "category": "综艺"
     },
     {
@@ -163,6 +179,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 735973,
+      "num": 735973,
+      "word": "南昌",
+      "onboard_time": 1712038879,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 713418,
       "num": 713418,
       "word": "黄金又暴涨中国资产飙升",
@@ -201,6 +225,14 @@
       "onboard_time": 1711979001,
       "rank": 1,
       "category": "电影"
+    },
+    {
+      "raw_hot": 671913,
+      "num": 371243,
+      "word": "小米SU7退订率",
+      "onboard_time": 1712040319,
+      "rank": 10,
+      "category": "汽车"
     },
     {
       "raw_hot": 665651,
@@ -265,14 +297,6 @@
       "onboard_time": 1712016079,
       "rank": 5,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 596706,
-      "num": 596706,
-      "word": "南昌",
-      "onboard_time": 1712038879,
-      "rank": 32,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 594597,
@@ -369,6 +393,14 @@
       "onboard_time": 1712021717,
       "rank": 48,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 464071,
+      "num": 365427,
+      "word": "黑龙江省考出不出成绩",
+      "onboard_time": 1712040199,
+      "rank": 11,
+      "category": "教育"
     },
     {
       "raw_hot": 463504,
@@ -523,6 +555,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 371462,
+      "num": 371462,
+      "word": "巴黎奥运让义乌又爆单了",
+      "onboard_time": 1712040860,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
       "raw_hot": 366377,
       "num": 309860,
       "word": "清明还没到 男二人没了",
@@ -569,6 +609,14 @@
       "onboard_time": 1712036180,
       "rank": 21,
       "category": "教育"
+    },
+    {
+      "raw_hot": 334638,
+      "num": 334638,
+      "word": "李洙赫回关邓为",
+      "onboard_time": 1712039897,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 332617,
@@ -633,6 +681,14 @@
       "onboard_time": 1712015779,
       "rank": 44,
       "category": "演出"
+    },
+    {
+      "raw_hot": 290393,
+      "num": 290393,
+      "word": "余承东否认被下令禁提遥遥领先",
+      "onboard_time": 1712040319,
+      "rank": 17,
+      "category": "数码"
     },
     {
       "raw_hot": 287950,
@@ -715,6 +771,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 254907,
+      "num": 254907,
+      "word": "带呼吸法口令的八段锦跟练教程",
+      "onboard_time": 1712041578,
+      "rank": 21,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 253642,
       "num": 253642,
       "word": "00后女生当模特穿自己设计的寿衣",
@@ -787,6 +851,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 232707,
+      "num": 232707,
+      "word": "平躺才是脊柱最喜欢的睡姿",
+      "onboard_time": 1712037139,
+      "rank": 27,
+      "category": "健康医疗,科学科普"
+    },
+    {
       "raw_hot": 228038,
       "num": 228038,
       "word": "小米集团盘前大涨15%",
@@ -825,6 +897,14 @@
       "onboard_time": 1712017520,
       "rank": 29,
       "category": "体育"
+    },
+    {
+      "raw_hot": 215122,
+      "num": 215122,
+      "word": "江西人的命都是辣椒给的",
+      "onboard_time": 1712041578,
+      "rank": 25,
+      "category": "美食"
     },
     {
       "raw_hot": 214790,
@@ -867,12 +947,20 @@
       "category": "社会新闻,汽车"
     },
     {
-      "raw_hot": 207996,
-      "num": 207996,
-      "word": "平躺才是脊柱最喜欢的睡姿",
-      "onboard_time": 1712037139,
-      "rank": 27,
-      "category": "健康医疗,科学科普"
+      "raw_hot": 210140,
+      "num": 210140,
+      "word": "当告诉弟弟自己分手了以后",
+      "onboard_time": 1712040797,
+      "rank": 26,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 208210,
+      "num": 208210,
+      "word": "小米汽车要求供应商月产1万辆",
+      "onboard_time": 1712041578,
+      "rank": 28,
+      "category": "汽车"
     },
     {
       "raw_hot": 205078,
@@ -979,6 +1067,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 187415,
+      "num": 187415,
+      "word": "陈震再回应小米SU7测评争议",
+      "onboard_time": 1712041098,
+      "rank": 31,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 187302,
       "num": 187302,
       "word": "原来新疆以前是海洋",
@@ -1011,6 +1107,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 184994,
+      "num": 184994,
+      "word": "赵露思小狗合照",
+      "onboard_time": 1712039599,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 184093,
       "num": 184093,
       "word": "深圳买卖黄金超2万元须实名",
@@ -1041,6 +1145,14 @@
       "onboard_time": 1712035098,
       "rank": 32,
       "category": "情感"
+    },
+    {
+      "raw_hot": 180247,
+      "num": 180247,
+      "word": "惜花芷小演员和张婧仪好像",
+      "onboard_time": 1712040617,
+      "rank": 34,
+      "category": "剧集"
     },
     {
       "raw_hot": 178755,
@@ -1089,6 +1201,22 @@
       "onboard_time": 1712018300,
       "rank": 38,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 171761,
+      "num": 171761,
+      "word": "黄金饰品飙升至每克700元",
+      "onboard_time": 1712039298,
+      "rank": 34,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 171722,
+      "num": 171722,
+      "word": "提灯定损事件当地应直面讹诈质疑",
+      "onboard_time": 1712041218,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 171585,
@@ -1219,12 +1347,12 @@
       "category": "教育"
     },
     {
-      "raw_hot": 157646,
-      "num": 157646,
-      "word": "赵露思小狗合照",
-      "onboard_time": 1712039599,
-      "rank": 32,
-      "category": "艺人"
+      "raw_hot": 156410,
+      "num": 156410,
+      "word": "加沙最大医院已永久停止服务",
+      "onboard_time": 1712041938,
+      "rank": 37,
+      "category": "国外时政"
     },
     {
       "raw_hot": 152437,
@@ -1259,20 +1387,20 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 150032,
-      "num": 150032,
-      "word": "黄金饰品飙升至每克700元",
-      "onboard_time": 1712039298,
-      "rank": 34,
-      "category": "财经"
-    },
-    {
       "raw_hot": 149893,
       "num": 149893,
       "word": "四川阿坝州茂县发生3.0级地震",
       "onboard_time": 1712033300,
       "rank": 43,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 147664,
+      "num": 147664,
+      "word": "原来我们小时候品的都是细糠",
+      "onboard_time": 1712041758,
+      "rank": 39,
+      "category": "情感"
     },
     {
       "raw_hot": 147052,
@@ -1379,6 +1507,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 140063,
+      "num": 140063,
+      "word": "自虐式管理公司的老板",
+      "onboard_time": 1712041578,
+      "rank": 41,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 139083,
       "num": 139083,
       "word": "夏奇拉不喜欢芭比",
@@ -1441,6 +1577,14 @@
       "onboard_time": 1711976421,
       "rank": 28,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 136507,
+      "num": 136507,
+      "word": "小米SU7提车最长等待时间近8个月",
+      "onboard_time": 1712041337,
+      "rank": 43,
+      "category": "汽车"
     },
     {
       "raw_hot": 136021,
@@ -1577,6 +1721,14 @@
       "onboard_time": 1712037799,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 114389,
+      "num": 114389,
+      "word": "赵露思告黑二审胜诉",
+      "onboard_time": 1712042238,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 114369,
