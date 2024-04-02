@@ -1,6 +1,6 @@
 {
   "startTime": 1711902044401,
-  "endTime": 1712053175020,
+  "endTime": 1712054102898,
   "band_list": [
     {
       "raw_hot": 12825415,
@@ -193,6 +193,14 @@
       "onboard_time": 1711968380,
       "rank": 1,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1740748,
+      "num": 1740748,
+      "word": "孙亚龙 小楼",
+      "onboard_time": 1712052680,
+      "rank": 1,
+      "category": "电竞,网红"
     },
     {
       "raw_hot": 1622172,
@@ -523,14 +531,6 @@
       "category": "健康医疗,科学科普"
     },
     {
-      "raw_hot": 898255,
-      "num": 898255,
-      "word": "孙亚龙 小楼",
-      "onboard_time": 1712052680,
-      "rank": 1,
-      "category": "电竞,网红"
-    },
-    {
       "raw_hot": 891401,
       "num": 891401,
       "word": "雷军恳请各位口下留情",
@@ -801,6 +801,14 @@
       "onboard_time": 1712031080,
       "rank": 18,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 694159,
+      "num": 513566,
+      "word": "09微博回应小楼",
+      "onboard_time": 1712052680,
+      "rank": 28,
+      "category": "电竞,网红"
     },
     {
       "raw_hot": 690331,
@@ -1531,6 +1539,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 428928,
+      "num": 428928,
+      "word": "09是谁",
+      "onboard_time": 1712052198,
+      "rank": 13,
+      "category": "电竞,网红"
+    },
+    {
       "raw_hot": 426766,
       "num": 426766,
       "word": "杨幂美人鱼表白",
@@ -1601,14 +1617,6 @@
       "onboard_time": 1712034740,
       "rank": 21,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 401750,
-      "num": 401750,
-      "word": "09是谁",
-      "onboard_time": 1712052198,
-      "rank": 13,
-      "category": "电竞,网红"
     },
     {
       "raw_hot": 398440,
@@ -1979,12 +1987,28 @@
       "category": "演出"
     },
     {
+      "raw_hot": 326996,
+      "num": 518947,
+      "word": "淄博烧烤赵大爷和日日鲜的cp感",
+      "onboard_time": 1712051419,
+      "rank": 9,
+      "category": "美食"
+    },
+    {
       "raw_hot": 325160,
       "num": 325160,
       "word": "周处除三害怎么不把周一除了",
       "onboard_time": 1711955301,
       "rank": 30,
       "category": "电影"
+    },
+    {
+      "raw_hot": 324289,
+      "num": 324289,
+      "word": "福宝还不满4岁不能谈恋爱",
+      "onboard_time": 1712053341,
+      "rank": 16,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 322862,
@@ -2411,14 +2435,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 258301,
-      "num": 518947,
-      "word": "淄博烧烤赵大爷和日日鲜的cp感",
-      "onboard_time": 1712051419,
-      "rank": 9,
-      "category": "美食"
-    },
-    {
       "raw_hot": 257960,
       "num": 257960,
       "word": "奶奶送的黄金吊坠是铁的",
@@ -2481,6 +2497,14 @@
       "onboard_time": 1711970960,
       "rank": 45,
       "category": "美食"
+    },
+    {
+      "raw_hot": 249190,
+      "num": 249190,
+      "word": "南昌冰雹预警",
+      "onboard_time": 1712052680,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 249154,
@@ -3291,14 +3315,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 194194,
-      "num": 194194,
-      "word": "09微博回应小楼",
-      "onboard_time": 1712052680,
-      "rank": 28,
-      "category": "电竞,网红"
-    },
-    {
       "raw_hot": 193819,
       "num": 193819,
       "word": "TXT空降成绩",
@@ -3417,14 +3433,6 @@
       "onboard_time": 1712034980,
       "rank": 30,
       "category": "教育"
-    },
-    {
-      "raw_hot": 190042,
-      "num": 190042,
-      "word": "南昌冰雹预警",
-      "onboard_time": 1712052680,
-      "rank": 29,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 189884,
@@ -3747,6 +3755,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 175226,
+      "num": 175226,
+      "word": "猫咪彻夜未归居然跑了7公里",
+      "onboard_time": 1712053280,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 174661,
       "num": 174661,
       "word": "其实不用为失眠做任何努力",
@@ -3875,6 +3891,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 169317,
+      "num": 169317,
+      "word": "海涛 09",
+      "onboard_time": 1712053877,
+      "rank": 31,
+      "category": "电竞,网红"
+    },
+    {
       "raw_hot": 169026,
       "num": 169026,
       "word": "二手车商为何不敢收新能源车",
@@ -3921,6 +3945,14 @@
       "onboard_time": 1711976361,
       "rank": 44,
       "category": "情感"
+    },
+    {
+      "raw_hot": 166990,
+      "num": 166990,
+      "word": "小米王化回应试驾车异响漏液",
+      "onboard_time": 1712053341,
+      "rank": 34,
+      "category": "汽车"
     },
     {
       "raw_hot": 166584,
@@ -4291,6 +4323,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 149684,
+      "num": 149684,
+      "word": "天津省考成绩",
+      "onboard_time": 1712053400,
+      "rank": 38,
+      "category": "教育"
+    },
+    {
       "raw_hot": 148800,
       "num": 148800,
       "word": "足金首饰零售价涨至693元每克",
@@ -4595,6 +4635,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 136911,
+      "num": 136911,
+      "word": "圆真真创始人谢瑶亏掉1000万摆地摊",
+      "onboard_time": 1712053160,
+      "rank": 49,
+      "category": "美食,财经"
+    },
+    {
       "raw_hot": 136815,
       "num": 136815,
       "word": "上饶提灯定损房东被举报违建",
@@ -4635,6 +4683,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 135806,
+      "num": 135806,
+      "word": "张杰杭州演唱会改期",
+      "onboard_time": 1712053520,
+      "rank": 40,
+      "category": "演出"
+    },
+    {
       "raw_hot": 135262,
       "num": 135262,
       "word": "去年253名民警164名辅警因公牺牲",
@@ -4673,6 +4729,14 @@
       "onboard_time": 1712045300,
       "rank": 40,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 133343,
+      "num": 133343,
+      "word": "楼处除三害",
+      "onboard_time": 1712053820,
+      "rank": 41,
+      "category": "电竞,网红"
     },
     {
       "raw_hot": 133160,
@@ -4971,12 +5035,12 @@
       "category": "美食"
     },
     {
-      "raw_hot": 105222,
-      "num": 105222,
-      "word": "圆真真创始人谢瑶亏掉1000万摆地摊",
-      "onboard_time": 1712053160,
-      "rank": 49,
-      "category": "美食,财经"
+      "raw_hot": 105599,
+      "num": 522436,
+      "word": "成都紫藤花墙如瀑布倾泻",
+      "onboard_time": 1712051419,
+      "rank": 8,
+      "category": "旅游"
     },
     {
       "raw_hot": 104976,
@@ -5057,14 +5121,6 @@
       "onboard_time": 1712004069,
       "rank": 21,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 89723,
-      "num": 522436,
-      "word": "成都紫藤花墙如瀑布倾泻",
-      "onboard_time": 1712051419,
-      "rank": 8,
-      "category": "旅游"
     },
     {
       "raw_hot": 86602,

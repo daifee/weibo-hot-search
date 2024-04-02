@@ -1,6 +1,6 @@
 {
   "startTime": 1711988526523,
-  "endTime": 1712053175020,
+  "endTime": 1712054102898,
   "band_list": [
     {
       "raw_hot": 4820066,
@@ -73,6 +73,14 @@
       "onboard_time": 1712032942,
       "rank": 1,
       "category": "数码"
+    },
+    {
+      "raw_hot": 1740748,
+      "num": 1740748,
+      "word": "孙亚龙 小楼",
+      "onboard_time": 1712052680,
+      "rank": 1,
+      "category": "电竞,网红"
     },
     {
       "raw_hot": 1622172,
@@ -171,14 +179,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 898255,
-      "num": 898255,
-      "word": "孙亚龙 小楼",
-      "onboard_time": 1712052680,
-      "rank": 1,
-      "category": "电竞,网红"
-    },
-    {
       "raw_hot": 879668,
       "num": 481942,
       "word": "女子睡觉被大风吹下11楼身亡",
@@ -273,6 +273,14 @@
       "onboard_time": 1712031080,
       "rank": 18,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 694159,
+      "num": 513566,
+      "word": "09微博回应小楼",
+      "onboard_time": 1712052680,
+      "rank": 28,
+      "category": "电竞,网红"
     },
     {
       "raw_hot": 690806,
@@ -571,6 +579,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 428928,
+      "num": 428928,
+      "word": "09是谁",
+      "onboard_time": 1712052198,
+      "rank": 13,
+      "category": "电竞,网红"
+    },
+    {
       "raw_hot": 426342,
       "num": 288971,
       "word": "为什么无性婚姻越来越多",
@@ -617,14 +633,6 @@
       "onboard_time": 1712034740,
       "rank": 21,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 401750,
-      "num": 401750,
-      "word": "09是谁",
-      "onboard_time": 1712052198,
-      "rank": 13,
-      "category": "电竞,网红"
     },
     {
       "raw_hot": 397327,
@@ -785,6 +793,22 @@
       "onboard_time": 1712047459,
       "rank": 19,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 326996,
+      "num": 518947,
+      "word": "淄博烧烤赵大爷和日日鲜的cp感",
+      "onboard_time": 1712051419,
+      "rank": 9,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 324289,
+      "num": 324289,
+      "word": "福宝还不满4岁不能谈恋爱",
+      "onboard_time": 1712053341,
+      "rank": 16,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 320205,
@@ -979,14 +1003,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 258301,
-      "num": 518947,
-      "word": "淄博烧烤赵大爷和日日鲜的cp感",
-      "onboard_time": 1712051419,
-      "rank": 9,
-      "category": "美食"
-    },
-    {
       "raw_hot": 253642,
       "num": 253642,
       "word": "00后女生当模特穿自己设计的寿衣",
@@ -1001,6 +1017,14 @@
       "onboard_time": 1712029039,
       "rank": 21,
       "category": "电影"
+    },
+    {
+      "raw_hot": 249190,
+      "num": 249190,
+      "word": "南昌冰雹预警",
+      "onboard_time": 1712052680,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 249082,
@@ -1331,14 +1355,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 194194,
-      "num": 194194,
-      "word": "09微博回应小楼",
-      "onboard_time": 1712052680,
-      "rank": 28,
-      "category": "电竞,网红"
-    },
-    {
       "raw_hot": 192366,
       "num": 192366,
       "word": "AI程序员首次入职科技公司",
@@ -1353,14 +1369,6 @@
       "onboard_time": 1712034980,
       "rank": 30,
       "category": "教育"
-    },
-    {
-      "raw_hot": 190042,
-      "num": 190042,
-      "word": "南昌冰雹预警",
-      "onboard_time": 1712052680,
-      "rank": 29,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 189950,
@@ -1515,6 +1523,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 175226,
+      "num": 175226,
+      "word": "猫咪彻夜未归居然跑了7公里",
+      "onboard_time": 1712053280,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 174661,
       "num": 174661,
       "word": "其实不用为失眠做任何努力",
@@ -1579,12 +1595,28 @@
       "category": "演出"
     },
     {
+      "raw_hot": 169317,
+      "num": 169317,
+      "word": "海涛 09",
+      "onboard_time": 1712053877,
+      "rank": 31,
+      "category": "电竞,网红"
+    },
+    {
       "raw_hot": 168930,
       "num": 168930,
       "word": "李现好优越的鼻梁",
       "onboard_time": 1712038219,
       "rank": 30,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 166990,
+      "num": 166990,
+      "word": "小米王化回应试驾车异响漏液",
+      "onboard_time": 1712053341,
+      "rank": 34,
+      "category": "汽车"
     },
     {
       "raw_hot": 166680,
@@ -1769,6 +1801,14 @@
       "onboard_time": 1712033300,
       "rank": 43,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 149684,
+      "num": 149684,
+      "word": "天津省考成绩",
+      "onboard_time": 1712053400,
+      "rank": 38,
+      "category": "教育"
     },
     {
       "raw_hot": 147052,
@@ -1963,6 +2003,14 @@
       "category": "游戏,财经"
     },
     {
+      "raw_hot": 136911,
+      "num": 136911,
+      "word": "圆真真创始人谢瑶亏掉1000万摆地摊",
+      "onboard_time": 1712053160,
+      "rank": 49,
+      "category": "美食,财经"
+    },
+    {
       "raw_hot": 136815,
       "num": 136815,
       "word": "上饶提灯定损房东被举报违建",
@@ -1995,6 +2043,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 135806,
+      "num": 135806,
+      "word": "张杰杭州演唱会改期",
+      "onboard_time": 1712053520,
+      "rank": 40,
+      "category": "演出"
+    },
+    {
       "raw_hot": 135262,
       "num": 135262,
       "word": "去年253名民警164名辅警因公牺牲",
@@ -2017,6 +2073,14 @@
       "onboard_time": 1712045300,
       "rank": 40,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 133343,
+      "num": 133343,
+      "word": "楼处除三害",
+      "onboard_time": 1712053820,
+      "rank": 41,
+      "category": "电竞,网红"
     },
     {
       "raw_hot": 132896,
@@ -2219,12 +2283,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 105222,
-      "num": 105222,
-      "word": "圆真真创始人谢瑶亏掉1000万摆地摊",
-      "onboard_time": 1712053160,
-      "rank": 49,
-      "category": "美食,财经"
+      "raw_hot": 105599,
+      "num": 522436,
+      "word": "成都紫藤花墙如瀑布倾泻",
+      "onboard_time": 1712051419,
+      "rank": 8,
+      "category": "旅游"
     },
     {
       "raw_hot": 104976,
@@ -2289,14 +2353,6 @@
       "onboard_time": 1711961480,
       "rank": 41,
       "category": "科学科普,健康医疗"
-    },
-    {
-      "raw_hot": 89723,
-      "num": 522436,
-      "word": "成都紫藤花墙如瀑布倾泻",
-      "onboard_time": 1712051419,
-      "rank": 8,
-      "category": "旅游"
     },
     {
       "raw_hot": 87965,
