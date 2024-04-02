@@ -1,6 +1,6 @@
 {
   "startTime": 1711815680412,
-  "endTime": 1712042297014,
+  "endTime": 1712043258861,
   "band_list": [
     {
       "raw_hot": 12825415,
@@ -227,6 +227,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1604055,
+      "num": 1604055,
+      "word": "旅游时被拖进洞房3分钟收费168",
+      "onboard_time": 1712039779,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1590780,
       "num": 903492,
       "word": "纪凌尘认为分手舆情影响他接戏",
@@ -305,14 +313,6 @@
       "onboard_time": 1711853238,
       "rank": 0,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1422789,
-      "num": 1422789,
-      "word": "旅游时被拖进洞房3分钟收费168",
-      "onboard_time": 1712039779,
-      "rank": 1,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1420306,
@@ -619,6 +619,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 960905,
+      "num": 960905,
+      "word": "何炅 咬布条",
+      "onboard_time": 1712040439,
+      "rank": 4,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 958339,
       "num": 958339,
       "word": "南昌突发强对流天气3人坠楼身亡",
@@ -649,14 +657,6 @@
       "onboard_time": 1711960161,
       "rank": 25,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 914997,
-      "num": 914997,
-      "word": "何炅 咬布条",
-      "onboard_time": 1712040439,
-      "rank": 4,
-      "category": "综艺"
     },
     {
       "raw_hot": 907383,
@@ -1124,11 +1124,19 @@
     },
     {
       "raw_hot": 671913,
-      "num": 371243,
+      "num": 397343,
       "word": "小米SU7退订率",
       "onboard_time": 1712040319,
       "rank": 10,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 669354,
+      "num": 669354,
+      "word": "黑龙江省考出不出成绩",
+      "onboard_time": 1712040199,
+      "rank": 11,
+      "category": "教育"
     },
     {
       "raw_hot": 668127,
@@ -1345,6 +1353,14 @@
       "onboard_time": 1711955301,
       "rank": 19,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 608870,
+      "num": 608870,
+      "word": "巴黎奥运让义乌又爆单了",
+      "onboard_time": 1712040860,
+      "rank": 9,
+      "category": "体育"
     },
     {
       "raw_hot": 607746,
@@ -1923,14 +1939,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 464071,
-      "num": 365427,
-      "word": "黑龙江省考出不出成绩",
-      "onboard_time": 1712040199,
-      "rank": 11,
-      "category": "教育"
-    },
-    {
       "raw_hot": 463927,
       "num": 338213,
       "word": "张大大在天水麻辣烫店当服务员",
@@ -2283,6 +2291,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 397757,
+      "num": 397757,
+      "word": "加沙最大医院已永久停止服务",
+      "onboard_time": 1712041938,
+      "rank": 37,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 397327,
       "num": 397327,
       "word": "孙颖莎世界排名积分7800分",
@@ -2467,6 +2483,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 372958,
+      "num": 372958,
+      "word": "李洙赫回关邓为",
+      "onboard_time": 1712039897,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 371777,
       "num": 565200,
       "word": "莎头",
@@ -2481,14 +2505,6 @@
       "onboard_time": 1711930038,
       "rank": 22,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 371462,
-      "num": 371462,
-      "word": "巴黎奥运让义乌又爆单了",
-      "onboard_time": 1712040860,
-      "rank": 9,
-      "category": "体育"
     },
     {
       "raw_hot": 368929,
@@ -2611,6 +2627,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 346764,
+      "num": 346764,
+      "word": "余承东否认被下令禁提遥遥领先",
+      "onboard_time": 1712040319,
+      "rank": 17,
+      "category": "数码"
+    },
+    {
       "raw_hot": 346401,
       "num": 297089,
       "word": "陈靖可回复",
@@ -2689,14 +2713,6 @@
       "onboard_time": 1711894220,
       "rank": 35,
       "category": "情感"
-    },
-    {
-      "raw_hot": 334638,
-      "num": 334638,
-      "word": "李洙赫回关邓为",
-      "onboard_time": 1712039897,
-      "rank": 13,
-      "category": "艺人"
     },
     {
       "raw_hot": 333616,
@@ -3067,14 +3083,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 290393,
-      "num": 290393,
-      "word": "余承东否认被下令禁提遥遥领先",
-      "onboard_time": 1712040319,
-      "rank": 17,
-      "category": "数码"
-    },
-    {
       "raw_hot": 288371,
       "num": 288371,
       "word": "郑元畅不知道唐禹哲有两个小孩",
@@ -3307,6 +3315,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 269172,
+      "num": 269172,
+      "word": "带呼吸法口令的八段锦跟练教程",
+      "onboard_time": 1712041578,
+      "rank": 21,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 268497,
       "num": 268497,
       "word": "李汶翰站姐 985程序员",
@@ -3395,6 +3411,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 259342,
+      "num": 238229,
+      "word": "江西人的命都是辣椒给的",
+      "onboard_time": 1712041578,
+      "rank": 25,
+      "category": "美食"
+    },
+    {
       "raw_hot": 258344,
       "num": 258344,
       "word": "林俊杰济南二开",
@@ -3417,14 +3441,6 @@
       "onboard_time": 1711860437,
       "rank": 26,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 254907,
-      "num": 254907,
-      "word": "带呼吸法口令的八段锦跟练教程",
-      "onboard_time": 1712041578,
-      "rank": 21,
-      "category": "运动健身"
     },
     {
       "raw_hot": 254598,
@@ -3811,6 +3827,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 233024,
+      "num": 233024,
+      "word": "原来我们小时候品的都是细糠",
+      "onboard_time": 1712041758,
+      "rank": 39,
+      "category": "情感"
+    },
+    {
       "raw_hot": 232920,
       "num": 232920,
       "word": "问界",
@@ -3849,6 +3873,14 @@
       "onboard_time": 1711958601,
       "rank": 24,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 232014,
+      "num": 232014,
+      "word": "当告诉弟弟自己分手了以后",
+      "onboard_time": 1712040797,
+      "rank": 26,
+      "category": "幽默"
     },
     {
       "raw_hot": 231434,
@@ -4059,14 +4091,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 215122,
-      "num": 215122,
-      "word": "江西人的命都是辣椒给的",
-      "onboard_time": 1712041578,
-      "rank": 25,
-      "category": "美食"
-    },
-    {
       "raw_hot": 215015,
       "num": 215015,
       "word": "多地学校厕所装防欺凌警报装置",
@@ -4147,6 +4171,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 212825,
+      "num": 212825,
+      "word": "小米汽车要求供应商月产1万辆",
+      "onboard_time": 1712041578,
+      "rank": 28,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 212756,
       "num": 212756,
       "word": "小米SU7",
@@ -4219,14 +4251,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 210140,
-      "num": 210140,
-      "word": "当告诉弟弟自己分手了以后",
-      "onboard_time": 1712040797,
-      "rank": 26,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 208693,
       "num": 208693,
       "word": "澳门世界杯",
@@ -4257,14 +4281,6 @@
       "onboard_time": 1711939879,
       "rank": 35,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 208210,
-      "num": 208210,
-      "word": "小米汽车要求供应商月产1万辆",
-      "onboard_time": 1712041578,
-      "rank": 28,
-      "category": "汽车"
     },
     {
       "raw_hot": 207892,
@@ -4355,6 +4371,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 203558,
+      "num": 203558,
+      "word": "赵露思告黑二审胜诉",
+      "onboard_time": 1712042238,
+      "rank": 49,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 203412,
       "num": 203412,
       "word": "霸王茶姬cp",
@@ -4427,6 +4451,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 201663,
+      "num": 201663,
+      "word": "提灯定损事件当地应直面讹诈质疑",
+      "onboard_time": 1712041218,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 201424,
       "num": 211410,
       "word": "中方坚定支持巴方严惩恐袭凶手及主使",
@@ -4457,6 +4489,14 @@
       "onboard_time": 1711927816,
       "rank": 21,
       "category": "情感"
+    },
+    {
+      "raw_hot": 200134,
+      "num": 200134,
+      "word": "陈震再回应小米SU7测评争议",
+      "onboard_time": 1712041098,
+      "rank": 31,
+      "category": "汽车"
     },
     {
       "raw_hot": 200049,
@@ -4867,6 +4907,14 @@
       "category": "情感,电影"
     },
     {
+      "raw_hot": 189722,
+      "num": 189722,
+      "word": "惜花芷小演员和张婧仪好像",
+      "onboard_time": 1712040617,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 189660,
       "num": 189660,
       "word": "罗伯特 站姐们都是女英雄",
@@ -4945,14 +4993,6 @@
       "onboard_time": 1711887798,
       "rank": 32,
       "category": "情感"
-    },
-    {
-      "raw_hot": 187415,
-      "num": 187415,
-      "word": "陈震再回应小米SU7测评争议",
-      "onboard_time": 1712041098,
-      "rank": 31,
-      "category": "汽车"
     },
     {
       "raw_hot": 187302,
@@ -5185,14 +5225,6 @@
       "onboard_time": 1712035098,
       "rank": 32,
       "category": "情感"
-    },
-    {
-      "raw_hot": 180247,
-      "num": 180247,
-      "word": "惜花芷小演员和张婧仪好像",
-      "onboard_time": 1712040617,
-      "rank": 34,
-      "category": "剧集"
     },
     {
       "raw_hot": 180073,
@@ -5441,14 +5473,6 @@
       "onboard_time": 1712039298,
       "rank": 34,
       "category": "财经"
-    },
-    {
-      "raw_hot": 171722,
-      "num": 171722,
-      "word": "提灯定损事件当地应直面讹诈质疑",
-      "onboard_time": 1712041218,
-      "rank": 36,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 171604,
@@ -5867,14 +5891,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 156410,
-      "num": 156410,
-      "word": "加沙最大医院已永久停止服务",
-      "onboard_time": 1712041938,
-      "rank": 37,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 156376,
       "num": 156376,
       "word": "魏哲鸣吴宣仪玫瑰花游戏",
@@ -5993,6 +6009,14 @@
       "onboard_time": 1711814898,
       "rank": 31,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 152684,
+      "num": 152684,
+      "word": "领导你看我的午饭方不方",
+      "onboard_time": 1712043020,
+      "rank": 40,
+      "category": "幽默"
     },
     {
       "raw_hot": 152661,
@@ -6192,14 +6216,6 @@
       "word": "最美是人间四月的天",
       "onboard_time": 1711952960,
       "rank": 44,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 147664,
-      "num": 147664,
-      "word": "原来我们小时候品的都是细糠",
-      "onboard_time": 1712041758,
-      "rank": 39,
       "category": "情感"
     },
     {
@@ -6593,6 +6609,14 @@
       "onboard_time": 1711851617,
       "rank": 42,
       "category": "演出"
+    },
+    {
+      "raw_hot": 136815,
+      "num": 136815,
+      "word": "上饶提灯定损房东被举报违建",
+      "onboard_time": 1712042958,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 136710,
@@ -7049,14 +7073,6 @@
       "onboard_time": 1711863198,
       "rank": 46,
       "category": "美妆"
-    },
-    {
-      "raw_hot": 114389,
-      "num": 114389,
-      "word": "赵露思告黑二审胜诉",
-      "onboard_time": 1712042238,
-      "rank": 49,
-      "category": "艺人"
     },
     {
       "raw_hot": 114369,
@@ -7545,6 +7561,14 @@
       "onboard_time": 1711804038,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 66891,
+      "num": 194367,
+      "word": "为什么这双鞋出圈了",
+      "onboard_time": 1712042658,
+      "rank": 31,
+      "category": "运动健身"
     },
     {
       "raw_hot": 63995,
