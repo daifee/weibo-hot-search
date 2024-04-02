@@ -1,0 +1,410 @@
+{
+  "runTime": 1712021758996,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2142677,
+        "num": 2142677,
+        "word": "女子入职体检发现怀孕后被拒录用",
+        "onboard_time": 1712017701,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1549917,
+        "num": 1549917,
+        "word": "飓风坠楼3条人命迁出江西贪腐第一大案",
+        "onboard_time": 1712019679,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 13483,
+        "num": 1416069,
+        "word": "万千气象看云南",
+        "onboard_time": 1711807280,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1287382,
+        "num": 1287382,
+        "word": "市政协委员撞死人大代表获刑15年",
+        "onboard_time": 1712015299,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 787806,
+        "num": 787806,
+        "word": "以色列下班高峰空袭叙利亚",
+        "onboard_time": 1712019920,
+        "rank": 4,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 710024,
+        "num": 710024,
+        "word": "99年女孩两年不上班逛吃30个城市",
+        "onboard_time": 1712020459,
+        "rank": 5,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 580472,
+        "num": 580472,
+        "word": "赵丽颖收到林更新在成都买的熊猫玩偶",
+        "onboard_time": 1712016680,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 508423,
+        "num": 508423,
+        "word": "陈建斌 我一定超过其他窝囊废",
+        "onboard_time": 1712014817,
+        "rank": 7,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 481936,
+        "num": 481936,
+        "word": "伊朗将果断回应以色列行动",
+        "onboard_time": 1712020220,
+        "rank": 8,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 462894,
+        "num": 462894,
+        "word": "妈妈陪读十年将自闭症儿子培养成调律师",
+        "onboard_time": 1711984880,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 652715,
+        "num": 462888,
+        "word": "女子睡觉被大风吹下11楼身亡",
+        "onboard_time": 1711971080,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 462571,
+        "num": 462571,
+        "word": "相柳战死图",
+        "onboard_time": 1712016440,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 459160,
+        "num": 459160,
+        "word": "班主任辞职参军全班沸腾了",
+        "onboard_time": 1711980981,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 433063,
+        "num": 433063,
+        "word": "与多名女同事接吻的乌军官自愿上前线",
+        "onboard_time": 1712017399,
+        "rank": 13,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 379283,
+        "num": 379283,
+        "word": "别再因为害羞放弃肛门指检了",
+        "onboard_time": 1711991834,
+        "rank": 14,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 377053,
+        "num": 377053,
+        "word": "iPhone6Plus被列入过时产品",
+        "onboard_time": 1712013075,
+        "rank": 15,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 364131,
+        "num": 364131,
+        "word": "冯绍峰谈到儿子眼圈红了",
+        "onboard_time": 1711979001,
+        "rank": 16,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 356443,
+        "num": 356443,
+        "word": "苹果今年或推出低价AirPods",
+        "onboard_time": 1712020400,
+        "rank": 17,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 341444,
+        "num": 341444,
+        "word": "新版赵灵儿 阴蚀王",
+        "onboard_time": 1711983322,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 281165,
+        "num": 281165,
+        "word": "伊朗驻叙领馆及大使官邸遭以军空袭",
+        "onboard_time": 1712016079,
+        "rank": 19,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 340331,
+        "num": 281153,
+        "word": "老师去领证打扮精致全班一片沸腾",
+        "onboard_time": 1712016800,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 331700,
+        "num": 281144,
+        "word": "清明还没到 男二人没了",
+        "onboard_time": 1712018959,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 281127,
+        "num": 281127,
+        "word": "赵丽颖黄澄澄对手戏",
+        "onboard_time": 1712017342,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 275155,
+        "num": 275155,
+        "word": "上饶提灯定损房东女儿疑被开除",
+        "onboard_time": 1712013736,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 249082,
+        "num": 249082,
+        "word": "受教育程度越高死亡风险越低",
+        "onboard_time": 1712020040,
+        "rank": 24,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 246787,
+        "num": 246787,
+        "word": "为什么你睡醒后腰酸背痛",
+        "onboard_time": 1712020819,
+        "rank": 25,
+        "category": "健康医疗,科学科普"
+      },
+      {
+        "raw_hot": 241238,
+        "num": 241238,
+        "word": "盗月社被胖东来老板抓包",
+        "onboard_time": 1712013677,
+        "rank": 26,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 241204,
+        "num": 241204,
+        "word": "整个世界是个巨大的图书馆30秒",
+        "onboard_time": 1712017940,
+        "rank": 27,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 239878,
+        "num": 239878,
+        "word": "阿福朱莉离婚",
+        "onboard_time": 1711982002,
+        "rank": 28,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 232041,
+        "num": 232041,
+        "word": "孙颖莎世界排名积分7800分",
+        "onboard_time": 1712020700,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 223173,
+        "num": 223173,
+        "word": "黄旭熙G社生图",
+        "onboard_time": 1712018600,
+        "rank": 30,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 218033,
+        "num": 218033,
+        "word": "郑爽若故意隐瞒转移财产或被判刑3年",
+        "onboard_time": 1711968380,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 213358,
+        "num": 213358,
+        "word": "黄金暴涨再创历史新高",
+        "onboard_time": 1712016859,
+        "rank": 32,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 212904,
+        "num": 212904,
+        "word": "杨幂粉嫩新中式",
+        "onboard_time": 1712016559,
+        "rank": 33,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 189324,
+        "num": 189324,
+        "word": "景区人员向带娃漂流男子扔石头被行拘",
+        "onboard_time": 1712020999,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 188622,
+        "num": 188622,
+        "word": "2天睡眠不足会让人感觉老了4岁",
+        "onboard_time": 1711988896,
+        "rank": 35,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 183762,
+        "num": 183762,
+        "word": "为什么无性婚姻越来越多",
+        "onboard_time": 1711976478,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 165609,
+        "num": 165609,
+        "word": "3周瘦7斤的底层逻辑",
+        "onboard_time": 1712013557,
+        "rank": 37,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 160119,
+        "num": 160119,
+        "word": "生过和没生过孩子的都沉默了",
+        "onboard_time": 1711982781,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 146150,
+        "num": 146150,
+        "word": "大学生早自习的意义在哪里",
+        "onboard_time": 1712017701,
+        "rank": 39,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 145866,
+        "num": 145866,
+        "word": "00后女生打造春天工位引来同事拍照打卡",
+        "onboard_time": 1712021540,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 145686,
+        "num": 145686,
+        "word": "男性其实也有最佳生育年龄",
+        "onboard_time": 1711982301,
+        "rank": 41,
+        "category": "母婴育儿"
+      },
+      {
+        "raw_hot": 145608,
+        "num": 145608,
+        "word": "南昌市民镜头下的狂风暴雨场面",
+        "onboard_time": 1712021478,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 144589,
+        "num": 144589,
+        "word": "国际乒联排名",
+        "onboard_time": 1712017520,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 134820,
+        "num": 134820,
+        "word": "原来电话卡是有寿命的",
+        "onboard_time": 1711982781,
+        "rank": 44,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 133761,
+        "num": 133761,
+        "word": "Cryin哭了",
+        "onboard_time": 1712018300,
+        "rank": 45,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 132192,
+        "num": 132192,
+        "word": "华晨宇官宣烟台演唱会",
+        "onboard_time": 1712015779,
+        "rank": 46,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 122604,
+        "num": 122604,
+        "word": "于正 祝你也遇到法治咖",
+        "onboard_time": 1712000651,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 121709,
+        "num": 121709,
+        "word": "台军暂缓在金门等地对海实弹射击",
+        "onboard_time": 1712021717,
+        "rank": 48,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 119589,
+        "num": 119589,
+        "word": "欢乐颂何悯鸿结局",
+        "onboard_time": 1712014817,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#雄安新区要靠生态环境来体现价值增加吸引力#"
+    }
+  }
+}
