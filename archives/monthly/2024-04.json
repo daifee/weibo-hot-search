@@ -1,6 +1,6 @@
 {
   "startTime": 1711902044401,
-  "endTime": 1712038962151,
+  "endTime": 1712039788767,
   "band_list": [
     {
       "raw_hot": 12825415,
@@ -163,6 +163,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1622172,
+      "num": 818747,
+      "word": "黄旭熙 给粉丝下跪",
+      "onboard_time": 1712037859,
+      "rank": 3,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1549917,
       "num": 1549917,
       "word": "飓风坠楼3条人命迁出江西贪腐第一大案",
@@ -241,14 +249,6 @@
       "onboard_time": 1711961782,
       "rank": 32,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1235086,
-      "num": 689665,
-      "word": "黄旭熙 给粉丝下跪",
-      "onboard_time": 1712037859,
-      "rank": 3,
-      "category": "艺人"
     },
     {
       "raw_hot": 1234442,
@@ -451,6 +451,14 @@
       "category": "健康医疗,科学科普"
     },
     {
+      "raw_hot": 898093,
+      "num": 898093,
+      "word": "赵小棠抑郁了两年",
+      "onboard_time": 1712038998,
+      "rank": 1,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 891401,
       "num": 891401,
       "word": "雷军恳请各位口下留情",
@@ -595,6 +603,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 767469,
+      "num": 767469,
+      "word": "日本专家说小米汽车如同iPhone问世",
+      "onboard_time": 1712034740,
+      "rank": 44,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 766891,
       "num": 554818,
       "word": "成都",
@@ -705,14 +721,6 @@
       "onboard_time": 1711963760,
       "rank": 25,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 685067,
-      "num": 685067,
-      "word": "日本专家说小米汽车如同iPhone问世",
-      "onboard_time": 1712034740,
-      "rank": 44,
-      "category": "汽车"
     },
     {
       "raw_hot": 680667,
@@ -1723,6 +1731,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 342093,
+      "num": 246703,
+      "word": "大四下才是大学最难熬的吧",
+      "onboard_time": 1712036180,
+      "rank": 21,
+      "category": "教育"
+    },
+    {
       "raw_hot": 339067,
       "num": 347402,
       "word": "新疆成为包邮区",
@@ -1769,14 +1785,6 @@
       "onboard_time": 1711950802,
       "rank": 22,
       "category": "情感"
-    },
-    {
-      "raw_hot": 316932,
-      "num": 246703,
-      "word": "大四下才是大学最难熬的吧",
-      "onboard_time": 1712036180,
-      "rank": 21,
-      "category": "教育"
     },
     {
       "raw_hot": 316342,
@@ -2027,12 +2035,28 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 271912,
+      "num": 271912,
+      "word": "王珞丹给陶昕然送麝香",
+      "onboard_time": 1712038818,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 270412,
       "num": 270412,
       "word": "成都警方回应迈巴赫撞倒多人",
       "onboard_time": 1711927096,
       "rank": 17,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 270243,
+      "num": 270243,
+      "word": "MSI抢票",
+      "onboard_time": 1712039239,
+      "rank": 18,
+      "category": "电竞"
     },
     {
       "raw_hot": 269323,
@@ -2049,6 +2073,14 @@
       "onboard_time": 1711968079,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 266112,
+      "num": 229623,
+      "word": "杨幂纯白造型",
+      "onboard_time": 1712038098,
+      "rank": 25,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 264587,
@@ -2235,14 +2267,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 243829,
-      "num": 243829,
-      "word": "王珞丹给陶昕然送麝香",
-      "onboard_time": 1712038818,
-      "rank": 22,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 243304,
       "num": 243304,
       "word": "王一博早春穿搭",
@@ -2361,14 +2385,6 @@
       "onboard_time": 1711944682,
       "rank": 34,
       "category": "科学科普,互联网"
-    },
-    {
-      "raw_hot": 229623,
-      "num": 229623,
-      "word": "杨幂纯白造型",
-      "onboard_time": 1712038098,
-      "rank": 25,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 229447,
@@ -2577,6 +2593,14 @@
       "onboard_time": 1711939879,
       "rank": 35,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 207996,
+      "num": 207996,
+      "word": "平躺才是脊柱最喜欢的睡姿",
+      "onboard_time": 1712037139,
+      "rank": 27,
+      "category": "健康医疗,科学科普"
     },
     {
       "raw_hot": 207712,
@@ -3027,6 +3051,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 188153,
+      "num": 188153,
+      "word": "宋雨琦预售",
+      "onboard_time": 1712039059,
+      "rank": 29,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 187932,
       "num": 187932,
       "word": "女性对人狗关系的影响其实更大",
@@ -3057,14 +3089,6 @@
       "onboard_time": 1712035820,
       "rank": 28,
       "category": "演出"
-    },
-    {
-      "raw_hot": 185415,
-      "num": 185415,
-      "word": "平躺才是脊柱最喜欢的睡姿",
-      "onboard_time": 1712037139,
-      "rank": 27,
-      "category": "健康医疗,科学科普"
     },
     {
       "raw_hot": 185099,
@@ -3635,6 +3659,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 157646,
+      "num": 157646,
+      "word": "赵露思小狗合照",
+      "onboard_time": 1712039599,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 157283,
       "num": 157283,
       "word": "建议打工人周末在公园待20分钟",
@@ -3737,6 +3769,14 @@
       "onboard_time": 1712027000,
       "rank": 39,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 150032,
+      "num": 150032,
+      "word": "黄金饰品飙升至每克700元",
+      "onboard_time": 1712039298,
+      "rank": 34,
+      "category": "财经"
     },
     {
       "raw_hot": 149953,
@@ -3955,6 +3995,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 140464,
+      "num": 140464,
+      "word": "杨幂湄拉红发色",
+      "onboard_time": 1712039479,
+      "rank": 36,
+      "category": "电影"
+    },
+    {
       "raw_hot": 139083,
       "num": 139083,
       "word": "夏奇拉不喜欢芭比",
@@ -3985,6 +4033,14 @@
       "onboard_time": 1712027960,
       "rank": 49,
       "category": "情感"
+    },
+    {
+      "raw_hot": 138112,
+      "num": 138112,
+      "word": "第一次看见有人跑不过乌龟",
+      "onboard_time": 1712038758,
+      "rank": 41,
+      "category": "幽默"
     },
     {
       "raw_hot": 137935,
@@ -4131,14 +4187,6 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 128558,
-      "num": 128558,
-      "word": "第一次看见有人跑不过乌龟",
-      "onboard_time": 1712038758,
-      "rank": 41,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 126719,
       "num": 126719,
       "word": "什么是躁狂发作",
@@ -4193,6 +4241,14 @@
       "onboard_time": 1712024419,
       "rank": 46,
       "category": "情感"
+    },
+    {
+      "raw_hot": 120223,
+      "num": 120223,
+      "word": "壹基金蓝色行动",
+      "onboard_time": 1712039718,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 119442,
