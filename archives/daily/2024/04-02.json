@@ -1,6 +1,6 @@
 {
   "startTime": 1711988526523,
-  "endTime": 1712067372014,
+  "endTime": 1712068479665,
   "band_list": [
     {
       "raw_hot": 4820066,
@@ -147,6 +147,14 @@
       "category": "艺人,艺人"
     },
     {
+      "raw_hot": 1374447,
+      "num": 968054,
+      "word": "姜爷爷母亲去世",
+      "onboard_time": 1712065879,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1242190,
       "num": 1242190,
       "word": "宋昰昀承认校园暴力",
@@ -209,14 +217,6 @@
       "onboard_time": 1712064261,
       "rank": 26,
       "category": "体育"
-    },
-    {
-      "raw_hot": 968054,
-      "num": 968054,
-      "word": "姜爷爷母亲去世",
-      "onboard_time": 1712065879,
-      "rank": 5,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 960905,
@@ -297,6 +297,14 @@
       "onboard_time": 1712019920,
       "rank": 13,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 782618,
+      "num": 782618,
+      "word": "李若彤回应58岁未婚未育",
+      "onboard_time": 1712064080,
+      "rank": 14,
+      "category": "艺人"
     },
     {
       "raw_hot": 767469,
@@ -409,14 +417,6 @@
       "onboard_time": 1712040199,
       "rank": 11,
       "category": "教育"
-    },
-    {
-      "raw_hot": 667274,
-      "num": 667274,
-      "word": "李若彤回应58岁未婚未育",
-      "onboard_time": 1712064080,
-      "rank": 14,
-      "category": "艺人"
     },
     {
       "raw_hot": 665651,
@@ -563,6 +563,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 560580,
+      "num": 561320,
+      "word": "唐一军涉嫌严重违纪违法被查",
+      "onboard_time": 1712065701,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 558049,
       "num": 558049,
       "word": "neinei十年前后变化",
@@ -635,6 +643,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 505641,
+      "num": 505641,
+      "word": "只有教师才懂教师的心酸",
+      "onboard_time": 1712064319,
+      "rank": 32,
+      "category": "教育"
+    },
+    {
       "raw_hot": 502026,
       "num": 131083,
       "word": "微信崩了",
@@ -675,20 +691,20 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 474825,
-      "num": 561320,
-      "word": "唐一军涉嫌严重违纪违法被查",
-      "onboard_time": 1712065701,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 463504,
       "num": 463504,
       "word": "指原莉乃玩胡闹厨房与男友分手",
       "onboard_time": 1712032041,
       "rank": 17,
       "category": "游戏,艺人"
+    },
+    {
+      "raw_hot": 459923,
+      "num": 459923,
+      "word": "与凤行滤镜改了",
+      "onboard_time": 1712065822,
+      "rank": 14,
+      "category": "剧集"
     },
     {
       "raw_hot": 456217,
@@ -707,11 +723,11 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 447848,
-      "num": 447848,
-      "word": "与凤行滤镜改了",
-      "onboard_time": 1712065822,
-      "rank": 14,
+      "raw_hot": 452107,
+      "num": 452107,
+      "word": "央视网文娱评花间令",
+      "onboard_time": 1712065521,
+      "rank": 16,
       "category": "剧集"
     },
     {
@@ -889,14 +905,6 @@
       "onboard_time": 1712025799,
       "rank": 12,
       "category": "数码"
-    },
-    {
-      "raw_hot": 383984,
-      "num": 383984,
-      "word": "央视网文娱评花间令",
-      "onboard_time": 1712065521,
-      "rank": 16,
-      "category": "剧集"
     },
     {
       "raw_hot": 376103,
@@ -1081,14 +1089,6 @@
       "onboard_time": 1712055620,
       "rank": 21,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 311994,
-      "num": 311994,
-      "word": "只有教师才懂教师的心酸",
-      "onboard_time": 1712064319,
-      "rank": 32,
-      "category": "教育"
     },
     {
       "raw_hot": 308755,
@@ -1331,6 +1331,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 248547,
+      "num": 248547,
+      "word": "111岁开国少将张力雄逝世",
+      "onboard_time": 1712064620,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 247879,
       "num": 247879,
       "word": "花间令女二悲惨的一生",
@@ -1411,6 +1419,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 233234,
+      "num": 233234,
+      "word": "想辞职被领导撒娇留下来了",
+      "onboard_time": 1712065279,
+      "rank": 26,
+      "category": "情感"
+    },
+    {
       "raw_hot": 233164,
       "num": 233164,
       "word": "Steam真人乙游上线",
@@ -1443,12 +1459,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 231208,
-      "num": 231208,
-      "word": "想辞职被领导撒娇留下来了",
-      "onboard_time": 1712065279,
-      "rank": 26,
-      "category": "情感"
+      "raw_hot": 231158,
+      "num": 231158,
+      "word": "看直播买了107件二手衣服",
+      "onboard_time": 1712065339,
+      "rank": 36,
+      "category": "幽默"
     },
     {
       "raw_hot": 228251,
@@ -1547,6 +1563,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 217147,
+      "num": 217147,
+      "word": "与凤行预告",
+      "onboard_time": 1712066420,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 217060,
       "num": 217060,
       "word": "张杰杭州",
@@ -1561,14 +1585,6 @@
       "onboard_time": 1712017520,
       "rank": 29,
       "category": "体育"
-    },
-    {
-      "raw_hot": 214947,
-      "num": 214947,
-      "word": "111岁开国少将张力雄逝世",
-      "onboard_time": 1712064620,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 214790,
@@ -1601,14 +1617,6 @@
       "onboard_time": 1712041578,
       "rank": 28,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 211442,
-      "num": 211442,
-      "word": "与凤行预告",
-      "onboard_time": 1712066420,
-      "rank": 33,
-      "category": "剧集"
     },
     {
       "raw_hot": 210871,
@@ -1763,14 +1771,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 196106,
-      "num": 196106,
-      "word": "看直播买了107件二手衣服",
-      "onboard_time": 1712065339,
-      "rank": 36,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 195311,
       "num": 195311,
       "word": "于正 祝你也遇到法治咖",
@@ -1824,6 +1824,14 @@
       "word": "胡一天头套",
       "onboard_time": 1712065401,
       "rank": 38,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 191985,
+      "num": 191985,
+      "word": "不可能的婚礼",
+      "onboard_time": 1712067621,
+      "rank": 33,
       "category": "剧集"
     },
     {
@@ -2299,6 +2307,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 156136,
+      "num": 156136,
+      "word": "我的累点真的很低",
+      "onboard_time": 1712066060,
+      "rank": 44,
+      "category": "情感"
+    },
+    {
       "raw_hot": 154545,
       "num": 154545,
       "word": "魏若来人设",
@@ -2387,6 +2403,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 147994,
+      "num": 147994,
+      "word": "对熟人信息暴露才是最可怕的",
+      "onboard_time": 1712064920,
+      "rank": 41,
+      "category": "情感"
+    },
+    {
       "raw_hot": 147052,
       "num": 147052,
       "word": "旅行最怕的就是手机没电",
@@ -2401,14 +2425,6 @@
       "onboard_time": 1712030899,
       "rank": 48,
       "category": "母婴育儿"
-    },
-    {
-      "raw_hot": 146429,
-      "num": 146429,
-      "word": "我的累点真的很低",
-      "onboard_time": 1712066060,
-      "rank": 44,
-      "category": "情感"
     },
     {
       "raw_hot": 146184,
@@ -2625,6 +2641,14 @@
       "onboard_time": 1712048661,
       "rank": 43,
       "category": "游戏,财经"
+    },
+    {
+      "raw_hot": 137639,
+      "num": 137639,
+      "word": "脸部锻炼操",
+      "onboard_time": 1712068040,
+      "rank": 44,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 137431,
