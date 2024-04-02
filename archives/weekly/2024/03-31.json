@@ -1,6 +1,6 @@
 {
   "startTime": 1711815680412,
-  "endTime": 1712097298081,
+  "endTime": 1712099916468,
   "band_list": [
     {
       "raw_hot": 12825415,
@@ -603,6 +603,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1084793,
+      "num": 1084793,
+      "word": "警方回应找王婆说媒已婚男妻子疑轻生",
+      "onboard_time": 1712079373,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1076261,
       "num": 1076261,
       "word": "骑行一个月后瘦了10斤",
@@ -737,6 +745,14 @@
       "onboard_time": 1711866798,
       "rank": 30,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 966615,
+      "num": 381979,
+      "word": "开钟点房的到底是些什么人",
+      "onboard_time": 1712077573,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 960905,
@@ -2115,6 +2131,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 492521,
+      "num": 79792,
+      "word": "15岁女孩失联遗体被找到家属发声",
+      "onboard_time": 1712091911,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 491290,
       "num": 491290,
       "word": "庆余年第二季已过审",
@@ -2240,6 +2264,14 @@
       "word": "每天通勤几十公里可能被视为营运车",
       "onboard_time": 1711937181,
       "rank": 19,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 464913,
+      "num": 112461,
+      "word": "28岁女子长期吃冰箱剩菜确诊胃癌",
+      "onboard_time": 1712076974,
+      "rank": 20,
       "category": "社会新闻"
     },
     {
@@ -2491,14 +2523,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 428937,
-      "num": 428937,
-      "word": "警方回应找王婆说媒已婚男妻子疑轻生",
-      "onboard_time": 1712079373,
-      "rank": 10,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 428928,
       "num": 428928,
       "word": "09是谁",
@@ -2513,14 +2537,6 @@
       "onboard_time": 1711962440,
       "rank": 23,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 426186,
-      "num": 191872,
-      "word": "开钟点房的到底是些什么人",
-      "onboard_time": 1712077573,
-      "rank": 24,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 424348,
@@ -2777,6 +2793,14 @@
       "onboard_time": 1712025799,
       "rank": 12,
       "category": "数码"
+    },
+    {
+      "raw_hot": 384508,
+      "num": 211494,
+      "word": "方志敏的遗骸竟有两块胫骨戴着镣铐",
+      "onboard_time": 1712068581,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 384041,
@@ -3145,6 +3169,14 @@
       "onboard_time": 1711873578,
       "rank": 28,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 337061,
+      "num": 337061,
+      "word": "男子手术室外晕倒15秒后冲出一群医护",
+      "onboard_time": 1712083991,
+      "rank": 28,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 335896,
@@ -3547,6 +3579,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 293509,
+      "num": 293509,
+      "word": "韩剧最强90花",
+      "onboard_time": 1712085310,
+      "rank": 22,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 293343,
       "num": 293343,
       "word": "韩素希重启活动",
@@ -3651,14 +3691,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 285391,
-      "num": 211494,
-      "word": "方志敏的遗骸竟有两块胫骨戴着镣铐",
-      "onboard_time": 1712068581,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 285364,
       "num": 285364,
       "word": "陈乔恩晒照纪念结婚两周年",
@@ -3673,14 +3705,6 @@
       "onboard_time": 1711945104,
       "rank": 43,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 284323,
-      "num": 36629,
-      "word": "15岁女孩失联遗体被找到家属发声",
-      "onboard_time": 1712091911,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 284117,
@@ -3945,14 +3969,6 @@
       "onboard_time": 1711982600,
       "rank": 25,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 261777,
-      "num": 109315,
-      "word": "28岁女子长期吃冰箱剩菜确诊胃癌",
-      "onboard_time": 1712076974,
-      "rank": 20,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 261773,
@@ -7732,7 +7748,7 @@
     },
     {
       "raw_hot": 140370,
-      "num": 82188,
+      "num": 96978,
       "word": "宁艺卓疑似签售切小屏",
       "onboard_time": 1712080633,
       "rank": 11,
@@ -7889,6 +7905,14 @@
       "onboard_time": 1712053160,
       "rank": 49,
       "category": "美食,财经"
+    },
+    {
+      "raw_hot": 136896,
+      "num": 111166,
+      "word": "9省份将有8至11级雷暴大风或冰雹",
+      "onboard_time": 1712090171,
+      "rank": 21,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 136815,
@@ -8065,14 +8089,6 @@
       "onboard_time": 1712056460,
       "rank": 45,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 131445,
-      "num": 131445,
-      "word": "韩剧最强90花",
-      "onboard_time": 1712085310,
-      "rank": 22,
-      "category": "剧集"
     },
     {
       "raw_hot": 130859,
@@ -8643,6 +8659,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 102420,
+      "num": 102420,
+      "word": "王阳王昱珩武大靖同台走秀",
+      "onboard_time": 1712098634,
+      "rank": 22,
+      "category": "作品衍生,体育"
+    },
+    {
       "raw_hot": 102125,
       "num": 143800,
       "word": "从小学就开始卷真的有必要吗",
@@ -8673,6 +8697,14 @@
       "onboard_time": 1711974200,
       "rank": 22,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 99280,
+      "num": 99280,
+      "word": "卢昱晓齐刘海",
+      "onboard_time": 1712083331,
+      "rank": 15,
+      "category": "剧集"
     },
     {
       "raw_hot": 98455,
@@ -8769,6 +8801,14 @@
       "onboard_time": 1711817175,
       "rank": 36,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 89271,
+      "num": 89271,
+      "word": "王一博哭得好真实",
+      "onboard_time": 1712092870,
+      "rank": 42,
+      "category": "剧集"
     },
     {
       "raw_hot": 88358,
@@ -8875,12 +8915,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 77766,
-      "num": 52008,
-      "word": "9省份将有8至11级雷暴大风或冰雹",
-      "onboard_time": 1712090171,
-      "rank": 21,
-      "category": "社会新闻"
+      "raw_hot": 79820,
+      "num": 79820,
+      "word": "陆虎露额头",
+      "onboard_time": 1712096953,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 76275,
@@ -8987,14 +9027,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 68366,
-      "num": 68366,
-      "word": "男子手术室外晕倒15秒后冲出一群医护",
-      "onboard_time": 1712083991,
-      "rank": 28,
-      "category": "社会正能量"
-    },
-    {
       "raw_hot": 68026,
       "num": 103183,
       "word": "梁靖崑4比3马龙",
@@ -9009,6 +9041,22 @@
       "onboard_time": 1711804038,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 64965,
+      "num": 64965,
+      "word": "一学就会的春日拍照技巧",
+      "onboard_time": 1712099836,
+      "rank": 33,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 64015,
+      "num": 64015,
+      "word": "大约80%的人存在鼻中隔偏曲",
+      "onboard_time": 1712084471,
+      "rank": 43,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 63995,
@@ -9040,6 +9088,22 @@
       "word": "3个细节可能是肠癌信号",
       "onboard_time": 1711822512,
       "rank": 49,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 61896,
+      "num": 61896,
+      "word": "这狗能处自己出去谈客户",
+      "onboard_time": 1712094130,
+      "rank": 41,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 61445,
+      "num": 61445,
+      "word": "紧急避孕药对身体危害有多大",
+      "onboard_time": 1712089451,
+      "rank": 37,
       "category": "健康医疗"
     },
     {
@@ -9147,6 +9211,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 45945,
+      "num": 51147,
+      "word": "2024福布斯全球亿万富豪榜",
+      "onboard_time": 1712092751,
+      "rank": 44,
+      "category": "财经"
+    },
+    {
       "raw_hot": 44784,
       "num": 44784,
       "word": "阮经天砍价自曝祖坟",
@@ -9203,22 +9275,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 39623,
-      "num": 39623,
-      "word": "卢昱晓齐刘海",
-      "onboard_time": 1712083331,
-      "rank": 15,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 39571,
-      "num": 39571,
-      "word": "紧急避孕药对身体危害有多大",
-      "onboard_time": 1712089451,
-      "rank": 37,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 39262,
       "num": 37746,
       "word": "王子奇创造营舞台幕后vlog",
@@ -9231,14 +9287,6 @@
       "num": 38776,
       "word": "王劲松出演拜月教主",
       "onboard_time": 1711908493,
-      "rank": 42,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 38325,
-      "num": 38325,
-      "word": "王一博哭得好真实",
-      "onboard_time": 1712092870,
       "rank": 42,
       "category": "剧集"
     },
@@ -9267,36 +9315,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 32237,
-      "num": 32237,
-      "word": "大约80%的人存在鼻中隔偏曲",
-      "onboard_time": 1712084471,
-      "rank": 43,
-      "category": "健康医疗"
-    },
-    {
-      "raw_hot": 32173,
-      "num": 32173,
-      "word": "这狗能处自己出去谈客户",
-      "onboard_time": 1712094130,
-      "rank": 41,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 31834,
       "num": 39106,
       "word": "陈楚生成都站售罄",
       "onboard_time": 1712075896,
       "rank": 48,
       "category": "演出"
-    },
-    {
-      "raw_hot": 30522,
-      "num": 30522,
-      "word": "2024福布斯全球亿万富豪榜",
-      "onboard_time": 1712092751,
-      "rank": 44,
-      "category": "财经"
     },
     {
       "raw_hot": 27309,
@@ -9337,14 +9361,6 @@
       "onboard_time": 1711918030,
       "rank": 40,
       "category": "母婴育儿"
-    },
-    {
-      "raw_hot": 22865,
-      "num": 26865,
-      "word": "陆虎露额头",
-      "onboard_time": 1712096953,
-      "rank": 49,
-      "category": "综艺"
     },
     {
       "raw_hot": 22807,
