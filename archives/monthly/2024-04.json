@@ -1,6 +1,6 @@
 {
   "startTime": 1711902044401,
-  "endTime": 1712078267695,
+  "endTime": 1712079251828,
   "band_list": [
     {
       "raw_hot": 12825415,
@@ -2371,6 +2371,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 308382,
+      "num": 118358,
+      "word": "开钟点房的到底是些什么人",
+      "onboard_time": 1712077573,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 306114,
       "num": 306114,
       "word": "华为拟分红770.95亿",
@@ -2721,6 +2729,14 @@
       "onboard_time": 1711982600,
       "rank": 25,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 261777,
+      "num": 109315,
+      "word": "28岁女子长期吃冰箱剩菜确诊胃癌",
+      "onboard_time": 1712076974,
+      "rank": 20,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 261773,
@@ -3481,14 +3497,6 @@
       "onboard_time": 1711960221,
       "rank": 31,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 206822,
-      "num": 109315,
-      "word": "28岁女子长期吃冰箱剩菜确诊胃癌",
-      "onboard_time": 1712076974,
-      "rank": 20,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 205980,
@@ -6011,14 +6019,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 90208,
-      "num": 90208,
-      "word": "开钟点房的到底是些什么人",
-      "onboard_time": 1712077573,
-      "rank": 24,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 86602,
       "num": 86602,
       "word": "与凤行 知识狡猾地进入我脑袋",
@@ -6273,6 +6273,14 @@
       "onboard_time": 1711920369,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 31834,
+      "num": 39106,
+      "word": "陈楚生成都站售罄",
+      "onboard_time": 1712075896,
+      "rank": 48,
+      "category": "演出"
     },
     {
       "raw_hot": 23884,

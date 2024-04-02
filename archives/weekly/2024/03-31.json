@@ -1,6 +1,6 @@
 {
   "startTime": 1711815680412,
-  "endTime": 1712078267695,
+  "endTime": 1712079251828,
   "band_list": [
     {
       "raw_hot": 12825415,
@@ -3363,6 +3363,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 308382,
+      "num": 118358,
+      "word": "开钟点房的到底是些什么人",
+      "onboard_time": 1712077573,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 307865,
       "num": 239636,
       "word": "假装不在意就是最严重的占有欲",
@@ -3921,6 +3929,14 @@
       "onboard_time": 1711982600,
       "rank": 25,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 261777,
+      "num": 109315,
+      "word": "28岁女子长期吃冰箱剩菜确诊胃癌",
+      "onboard_time": 1712076974,
+      "rank": 20,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 261773,
@@ -5073,14 +5089,6 @@
       "onboard_time": 1711960221,
       "rank": 31,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 206822,
-      "num": 109315,
-      "word": "28岁女子长期吃冰箱剩菜确诊胃癌",
-      "onboard_time": 1712076974,
-      "rank": 20,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 206512,
@@ -8723,14 +8731,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 90208,
-      "num": 90208,
-      "word": "开钟点房的到底是些什么人",
-      "onboard_time": 1712077573,
-      "rank": 24,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 89618,
       "num": 89618,
       "word": "丁程鑫00后的DNA动了",
@@ -9177,6 +9177,14 @@
       "onboard_time": 1711920369,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 31834,
+      "num": 39106,
+      "word": "陈楚生成都站售罄",
+      "onboard_time": 1712075896,
+      "rank": 48,
+      "category": "演出"
     },
     {
       "raw_hot": 24100,
