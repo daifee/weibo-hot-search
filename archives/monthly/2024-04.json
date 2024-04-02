@@ -1,6 +1,6 @@
 {
   "startTime": 1711902044401,
-  "endTime": 1712031635914,
+  "endTime": 1712032589927,
   "band_list": [
     {
       "raw_hot": 12825415,
@@ -227,6 +227,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1234442,
+      "num": 1234442,
+      "word": "伊朗外长称已给美国传话",
+      "onboard_time": 1712030480,
+      "rank": 1,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 1218689,
       "num": 1218689,
       "word": "罗伯特头像",
@@ -265,14 +273,6 @@
       "onboard_time": 1711945585,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1115025,
-      "num": 1115025,
-      "word": "伊朗外长称已给美国传话",
-      "onboard_time": 1712030480,
-      "rank": 1,
-      "category": "国外时政"
     },
     {
       "raw_hot": 1093436,
@@ -395,20 +395,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 941130,
+      "num": 941130,
+      "word": "11岁女孩找同学途中失联1天后遇害",
+      "onboard_time": 1712029339,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 927333,
       "num": 927333,
       "word": "韩商言 张元英转圈",
       "onboard_time": 1711960161,
       "rank": 25,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 922380,
-      "num": 922380,
-      "word": "11岁女孩找同学途中失联1天后遇害",
-      "onboard_time": 1712029339,
-      "rank": 4,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 904022,
@@ -484,7 +484,7 @@
     },
     {
       "raw_hot": 812368,
-      "num": 420215,
+      "num": 503196,
       "word": "飓风坠楼3条人命牵出江西贪腐第一大案",
       "onboard_time": 1712019679,
       "rank": 10,
@@ -649,6 +649,14 @@
       "onboard_time": 1711981042,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 695205,
+      "num": 695205,
+      "word": "向佐向网友道歉",
+      "onboard_time": 1712031080,
+      "rank": 18,
+      "category": "综艺"
     },
     {
       "raw_hot": 689687,
@@ -956,7 +964,7 @@
     },
     {
       "raw_hot": 553216,
-      "num": 398068,
+      "num": 531060,
       "word": "警方通报11岁女孩独自外出后未归",
       "onboard_time": 1712029459,
       "rank": 11,
@@ -1371,6 +1379,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 390697,
+      "num": 390697,
+      "word": "赵弈钦短剧早已next level",
+      "onboard_time": 1712030300,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 389349,
       "num": 389349,
       "word": "把朋友圈权限给妈妈打开以后",
@@ -1441,6 +1457,14 @@
       "onboard_time": 1711943782,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 378154,
+      "num": 378154,
+      "word": "蓝色真的能抑制一切食欲",
+      "onboard_time": 1712030721,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 371777,
@@ -1587,6 +1611,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 337306,
+      "num": 337306,
+      "word": "指原莉乃玩胡闹厨房与男友分手",
+      "onboard_time": 1712032041,
+      "rank": 17,
+      "category": "游戏,艺人"
+    },
+    {
       "raw_hot": 332617,
       "num": 332617,
       "word": "王一博维和警察穿搭",
@@ -1601,14 +1633,6 @@
       "onboard_time": 1711981161,
       "rank": 21,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 328944,
-      "num": 328944,
-      "word": "赵弈钦短剧早已next level",
-      "onboard_time": 1712030300,
-      "rank": 17,
-      "category": "剧集"
     },
     {
       "raw_hot": 327009,
@@ -1665,14 +1689,6 @@
       "onboard_time": 1711903636,
       "rank": 27,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 313156,
-      "num": 313156,
-      "word": "向佐向网友道歉",
-      "onboard_time": 1712031080,
-      "rank": 18,
-      "category": "综艺"
     },
     {
       "raw_hot": 310250,
@@ -1737,6 +1753,14 @@
       "onboard_time": 1711949901,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 297457,
+      "num": 297457,
+      "word": "24岁女生和48岁的室友妈妈处成母女",
+      "onboard_time": 1712031801,
+      "rank": 20,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 296819,
@@ -1817,6 +1841,14 @@
       "onboard_time": 1711945104,
       "rank": 43,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 284299,
+      "num": 284299,
+      "word": "黄旭熙中文还没郑雅娴说得好",
+      "onboard_time": 1712031923,
+      "rank": 21,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 283419,
@@ -1985,6 +2017,14 @@
       "onboard_time": 1711950681,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 253642,
+      "num": 253642,
+      "word": "00后女生当模特穿自己设计的寿衣",
+      "onboard_time": 1712024599,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 251713,
@@ -2195,14 +2235,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 228999,
-      "num": 228999,
-      "word": "00后女生当模特穿自己设计的寿衣",
-      "onboard_time": 1712024599,
-      "rank": 45,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 228605,
       "num": 228605,
       "word": "爸爸用排烟管给女儿做了一条粉色龙",
@@ -2281,14 +2313,6 @@
       "onboard_time": 1711964781,
       "rank": 36,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 218932,
-      "num": 200379,
-      "word": "蓝色真的能抑制一切食欲",
-      "onboard_time": 1712030721,
-      "rank": 30,
-      "category": "幽默"
     },
     {
       "raw_hot": 217866,
@@ -2499,6 +2523,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 201374,
+      "num": 201374,
+      "word": "宋江入伍",
+      "onboard_time": 1712032281,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 201338,
       "num": 201338,
       "word": "惜花芷今日开播",
@@ -2593,6 +2625,14 @@
       "onboard_time": 1711927816,
       "rank": 23,
       "category": "情感"
+    },
+    {
+      "raw_hot": 196978,
+      "num": 196978,
+      "word": "这么猛生病了还得挂儿科",
+      "onboard_time": 1712028500,
+      "rank": 33,
+      "category": "幽默"
     },
     {
       "raw_hot": 196954,
@@ -2835,6 +2875,22 @@
       "category": "情感"
     },
     {
+      "raw_hot": 187302,
+      "num": 187302,
+      "word": "原来新疆以前是海洋",
+      "onboard_time": 1712031321,
+      "rank": 42,
+      "category": "科学科普"
+    },
+    {
+      "raw_hot": 186667,
+      "num": 186667,
+      "word": "孙颖莎8个有效积分全是冠军",
+      "onboard_time": 1712031923,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 185099,
       "num": 185099,
       "word": "TXT闯中了",
@@ -2872,14 +2928,6 @@
       "word": "同事没礼貌今天没忍住",
       "onboard_time": 1711959741,
       "rank": 46,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 183720,
-      "num": 183720,
-      "word": "这么猛生病了还得挂儿科",
-      "onboard_time": 1712028500,
-      "rank": 33,
       "category": "幽默"
     },
     {
@@ -3115,6 +3163,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 169961,
+      "num": 169961,
+      "word": "潘玮柏 俺是潮霸",
+      "onboard_time": 1712030420,
+      "rank": 37,
+      "category": "演出"
+    },
+    {
       "raw_hot": 169412,
       "num": 169412,
       "word": "眼泪女王爆改在俊他妈",
@@ -3161,14 +3217,6 @@
       "onboard_time": 1711976361,
       "rank": 44,
       "category": "情感"
-    },
-    {
-      "raw_hot": 166499,
-      "num": 166499,
-      "word": "潘玮柏 俺是潮霸",
-      "onboard_time": 1712030420,
-      "rank": 37,
-      "category": "演出"
     },
     {
       "raw_hot": 164258,
@@ -3281,6 +3329,14 @@
       "onboard_time": 1711961720,
       "rank": 38,
       "category": "情感"
+    },
+    {
+      "raw_hot": 159534,
+      "num": 159534,
+      "word": "winter借钱锟手机自拍",
+      "onboard_time": 1712032281,
+      "rank": 41,
+      "category": "演出"
     },
     {
       "raw_hot": 159450,
@@ -3419,6 +3475,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 151863,
+      "num": 151863,
+      "word": "半熟恋人",
+      "onboard_time": 1712032400,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 151243,
       "num": 151243,
       "word": "雀魂联动蔚蓝档案",
@@ -3459,14 +3523,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 148397,
-      "num": 148397,
-      "word": "原来新疆以前是海洋",
-      "onboard_time": 1712031321,
-      "rank": 42,
-      "category": "科学科普"
-    },
-    {
       "raw_hot": 148105,
       "num": 148105,
       "word": "金智媛ins更新",
@@ -3505,6 +3561,14 @@
       "onboard_time": 1712023278,
       "rank": 40,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 146829,
+      "num": 146829,
+      "word": "1岁还不会牙牙学语警惕孤独症",
+      "onboard_time": 1712030899,
+      "rank": 48,
+      "category": "母婴育儿"
     },
     {
       "raw_hot": 146457,
@@ -3737,14 +3801,6 @@
       "onboard_time": 1712026700,
       "rank": 46,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 132584,
-      "num": 132584,
-      "word": "1岁还不会牙牙学语警惕孤独症",
-      "onboard_time": 1712030899,
-      "rank": 48,
-      "category": "母婴育儿"
     },
     {
       "raw_hot": 132247,
@@ -4330,6 +4386,9 @@
     },
     {
       "word": "#习近平同印尼当选总统普拉博沃会谈#"
+    },
+    {
+      "word": "#中方愿同印尼方一道跑好历史接力赛#"
     }
   ]
 }

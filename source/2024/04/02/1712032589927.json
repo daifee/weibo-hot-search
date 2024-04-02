@@ -1,0 +1,410 @@
+{
+  "runTime": 1712032589927,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1349081,
+        "num": 1349081,
+        "word": "华晨宇9年前就拒绝月经羞耻",
+        "onboard_time": 1712024719,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1234442,
+        "num": 1234442,
+        "word": "伊朗外长称已给美国传话",
+        "onboard_time": 1712030480,
+        "rank": 1,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 147860,
+        "num": 1047281,
+        "word": "强对流天气应该如何避险",
+        "onboard_time": 1712026758,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 941130,
+        "num": 941130,
+        "word": "11岁女孩找同学途中失联1天后遇害",
+        "onboard_time": 1712029339,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1012186,
+        "num": 849423,
+        "word": "女子入职体检发现怀孕后被拒录用",
+        "onboard_time": 1712017701,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 695205,
+        "num": 695205,
+        "word": "向佐向网友道歉",
+        "onboard_time": 1712031080,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 663876,
+        "num": 663876,
+        "word": "99年女孩两年不上班逛吃30个城市",
+        "onboard_time": 1712020459,
+        "rank": 6,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 531642,
+        "num": 531642,
+        "word": "光遇复刻",
+        "onboard_time": 1712030960,
+        "rank": 7,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 531060,
+        "num": 531060,
+        "word": "警方通报11岁女孩独自外出后未归",
+        "onboard_time": 1712029459,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 518253,
+        "num": 518253,
+        "word": "万科",
+        "onboard_time": 1712026519,
+        "rank": 9,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 635762,
+        "num": 503196,
+        "word": "飓风坠楼3条人命牵出江西贪腐第一大案",
+        "onboard_time": 1712019679,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 452688,
+        "num": 452688,
+        "word": "减肥关键点是饿",
+        "onboard_time": 1712023878,
+        "rank": 11,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 427261,
+        "num": 427261,
+        "word": "女子睡觉被大风吹下11楼身亡",
+        "onboard_time": 1711971080,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 390697,
+        "num": 390697,
+        "word": "赵弈钦短剧早已next level",
+        "onboard_time": 1712030300,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 381395,
+        "num": 381395,
+        "word": "杨幂豹纹辣妹",
+        "onboard_time": 1712028138,
+        "rank": 14,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 378154,
+        "num": 378154,
+        "word": "蓝色真的能抑制一切食欲",
+        "onboard_time": 1712030721,
+        "rank": 15,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 356217,
+        "num": 356217,
+        "word": "黄金又暴涨中国资产飙升",
+        "onboard_time": 1712023459,
+        "rank": 16,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 337306,
+        "num": 337306,
+        "word": "指原莉乃玩胡闹厨房与男友分手",
+        "onboard_time": 1712032041,
+        "rank": 17,
+        "category": "游戏,艺人"
+      },
+      {
+        "raw_hot": 317112,
+        "num": 317112,
+        "word": "P70发不发售",
+        "onboard_time": 1712025799,
+        "rank": 18,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 298564,
+        "num": 298564,
+        "word": "iG经理发文致歉",
+        "onboard_time": 1712029999,
+        "rank": 19,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 297457,
+        "num": 297457,
+        "word": "24岁女生和48岁的室友妈妈处成母女",
+        "onboard_time": 1712031801,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 284299,
+        "num": 284299,
+        "word": "黄旭熙中文还没郑雅娴说得好",
+        "onboard_time": 1712031923,
+        "rank": 21,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 268808,
+        "num": 268808,
+        "word": "以色列",
+        "onboard_time": 1712023878,
+        "rank": 22,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 267009,
+        "num": 267009,
+        "word": "韩素希重启活动",
+        "onboard_time": 1712030480,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 253642,
+        "num": 253642,
+        "word": "00后女生当模特穿自己设计的寿衣",
+        "onboard_time": 1712024599,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 230315,
+        "num": 230315,
+        "word": "狭管效应",
+        "onboard_time": 1712025198,
+        "rank": 25,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 229044,
+        "num": 229044,
+        "word": "中国黄金回应上亿元托管黄金消失",
+        "onboard_time": 1712028799,
+        "rank": 26,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 223617,
+        "num": 223617,
+        "word": "王楚钦连续三周世界第一",
+        "onboard_time": 1712027719,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 215519,
+        "num": 215519,
+        "word": "于正谈不结婚的原因",
+        "onboard_time": 1712028919,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 205671,
+        "num": 205671,
+        "word": "王一博维和警察穿搭",
+        "onboard_time": 1712027841,
+        "rank": 29,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 201374,
+        "num": 201374,
+        "word": "宋江入伍",
+        "onboard_time": 1712032281,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 196978,
+        "num": 196978,
+        "word": "这么猛生病了还得挂儿科",
+        "onboard_time": 1712028500,
+        "rank": 31,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 189298,
+        "num": 189298,
+        "word": "老师去领证打扮精致全班一片沸腾",
+        "onboard_time": 1712016800,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 187302,
+        "num": 187302,
+        "word": "原来新疆以前是海洋",
+        "onboard_time": 1712031321,
+        "rank": 33,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 186667,
+        "num": 186667,
+        "word": "孙颖莎8个有效积分全是冠军",
+        "onboard_time": 1712031923,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 183088,
+        "num": 183088,
+        "word": "孙艺珍出演朴赞郁新片",
+        "onboard_time": 1712029039,
+        "rank": 35,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 175395,
+        "num": 175395,
+        "word": "台军暂缓在金门等地对海实弹射击",
+        "onboard_time": 1712021717,
+        "rank": 36,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 173229,
+        "num": 173229,
+        "word": "伊朗将果断回应以色列行动",
+        "onboard_time": 1712020220,
+        "rank": 37,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 169961,
+        "num": 169961,
+        "word": "潘玮柏 俺是潮霸",
+        "onboard_time": 1712030420,
+        "rank": 38,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 163439,
+        "num": 163439,
+        "word": "宋雨琦solo行程表",
+        "onboard_time": 1712029279,
+        "rank": 39,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 161375,
+        "num": 161375,
+        "word": "王楚钦打篮球",
+        "onboard_time": 1712029760,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 159534,
+        "num": 159534,
+        "word": "winter借钱锟手机自拍",
+        "onboard_time": 1712032281,
+        "rank": 41,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 159522,
+        "num": 159522,
+        "word": "深圳买卖黄金超2万元须实名",
+        "onboard_time": 1712030241,
+        "rank": 42,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 158312,
+        "num": 158312,
+        "word": "冯绍峰谈到儿子眼圈红了",
+        "onboard_time": 1711979001,
+        "rank": 43,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 151863,
+        "num": 151863,
+        "word": "半熟恋人",
+        "onboard_time": 1712032400,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 146829,
+        "num": 146829,
+        "word": "1岁还不会牙牙学语警惕孤独症",
+        "onboard_time": 1712030899,
+        "rank": 45,
+        "category": "母婴育儿"
+      },
+      {
+        "raw_hot": 142706,
+        "num": 142706,
+        "word": "P人身上有种天然的松弛感",
+        "onboard_time": 1712027000,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 141903,
+        "num": 141903,
+        "word": "相柳战死图",
+        "onboard_time": 1712016440,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 137186,
+        "num": 137186,
+        "word": "摇太阳片尾曲是张杰唱的",
+        "onboard_time": 1712029879,
+        "rank": 48,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 124490,
+        "num": 124490,
+        "word": "潘玮柏上海抢票",
+        "onboard_time": 1712031502,
+        "rank": 49,
+        "category": "演出"
+      }
+    ],
+    "hotgov": {
+      "word": "#中方愿同印尼方一道跑好历史接力赛#"
+    }
+  }
+}
