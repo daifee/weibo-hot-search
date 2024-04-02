@@ -1,6 +1,6 @@
 {
   "startTime": 1711902044401,
-  "endTime": 1712028863162,
+  "endTime": 1712031635914,
   "band_list": [
     {
       "raw_hot": 12825415,
@@ -267,6 +267,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1115025,
+      "num": 1115025,
+      "word": "伊朗外长称已给美国传话",
+      "onboard_time": 1712030480,
+      "rank": 1,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 1093436,
       "num": 567266,
       "word": "迈巴赫成都来福士连续碾压多人",
@@ -393,6 +401,14 @@
       "onboard_time": 1711960161,
       "rank": 25,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 922380,
+      "num": 922380,
+      "word": "11岁女孩找同学途中失联1天后遇害",
+      "onboard_time": 1712029339,
+      "rank": 4,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 904022,
@@ -691,6 +707,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 665651,
+      "num": 665651,
+      "word": "光遇复刻",
+      "onboard_time": 1712030960,
+      "rank": 6,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 665171,
       "num": 611454,
       "word": "张凌赫站姐发了王鹤棣虞书欣",
@@ -779,6 +803,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 626121,
+      "num": 626121,
+      "word": "万科",
+      "onboard_time": 1712026519,
+      "rank": 8,
+      "category": "财经"
+    },
+    {
       "raw_hot": 622262,
       "num": 622262,
       "word": "伊朗将果断回应以色列行动",
@@ -801,14 +833,6 @@
       "onboard_time": 1712023878,
       "rank": 18,
       "category": "美食"
-    },
-    {
-      "raw_hot": 617148,
-      "num": 617148,
-      "word": "万科",
-      "onboard_time": 1712026519,
-      "rank": 8,
-      "category": "财经"
     },
     {
       "raw_hot": 614136,
@@ -929,6 +953,14 @@
       "onboard_time": 1711938438,
       "rank": 40,
       "category": "财经"
+    },
+    {
+      "raw_hot": 553216,
+      "num": 398068,
+      "word": "警方通报11岁女孩独自外出后未归",
+      "onboard_time": 1712029459,
+      "rank": 11,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 543477,
@@ -1259,6 +1291,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 419719,
+      "num": 419719,
+      "word": "杨幂豹纹辣妹",
+      "onboard_time": 1712028138,
+      "rank": 17,
+      "category": "电影"
+    },
+    {
       "raw_hot": 415659,
       "num": 415659,
       "word": "宋亚轩站姐发了肖战",
@@ -1499,6 +1539,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 347279,
+      "num": 347279,
+      "word": "iG经理发文致歉",
+      "onboard_time": 1712029999,
+      "rank": 15,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 346859,
       "num": 346859,
       "word": "杨幂站姐发金鹤龙了",
@@ -1555,6 +1603,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 328944,
+      "num": 328944,
+      "word": "赵弈钦短剧早已next level",
+      "onboard_time": 1712030300,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 327009,
       "num": 294572,
       "word": "张新成 我们还是不要散了",
@@ -1609,6 +1665,14 @@
       "onboard_time": 1711903636,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 313156,
+      "num": 313156,
+      "word": "向佐向网友道歉",
+      "onboard_time": 1712031080,
+      "rank": 18,
+      "category": "综艺"
     },
     {
       "raw_hot": 310250,
@@ -1683,6 +1747,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 293343,
+      "num": 293343,
+      "word": "韩素希重启活动",
+      "onboard_time": 1712030480,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 291649,
       "num": 291649,
       "word": "这种体态真的很好改善",
@@ -1705,6 +1777,14 @@
       "onboard_time": 1711947564,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 287950,
+      "num": 287950,
+      "word": "王楚钦连续三周世界第一",
+      "onboard_time": 1712027719,
+      "rank": 32,
+      "category": "体育"
     },
     {
       "raw_hot": 287562,
@@ -1923,6 +2003,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 250790,
+      "num": 250790,
+      "word": "孙艺珍出演朴赞郁新片",
+      "onboard_time": 1712029039,
+      "rank": 21,
+      "category": "电影"
+    },
+    {
       "raw_hot": 250418,
       "num": 250418,
       "word": "七宝街 我哭死",
@@ -1955,14 +2043,6 @@
       "category": "科学科普"
     },
     {
-      "raw_hot": 248838,
-      "num": 248838,
-      "word": "杨幂豹纹辣妹",
-      "onboard_time": 1712028138,
-      "rank": 17,
-      "category": "电影"
-    },
-    {
       "raw_hot": 247428,
       "num": 247428,
       "word": "花间令郡主自杀了",
@@ -1987,6 +2067,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 244579,
+      "num": 244579,
+      "word": "中国黄金回应上亿元托管黄金消失",
+      "onboard_time": 1712028799,
+      "rank": 48,
+      "category": "财经"
+    },
+    {
       "raw_hot": 243304,
       "num": 243304,
       "word": "王一博早春穿搭",
@@ -2003,20 +2091,20 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 241461,
+      "num": 241461,
+      "word": "徐帆女儿气质",
+      "onboard_time": 1712028439,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 241204,
       "num": 241204,
       "word": "整个世界是个巨大的图书馆30秒",
       "onboard_time": 1712017940,
       "rank": 27,
       "category": "情感"
-    },
-    {
-      "raw_hot": 239690,
-      "num": 239690,
-      "word": "王楚钦连续三周世界第一",
-      "onboard_time": 1712027719,
-      "rank": 32,
-      "category": "体育"
     },
     {
       "raw_hot": 239250,
@@ -2107,6 +2195,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 228999,
+      "num": 228999,
+      "word": "00后女生当模特穿自己设计的寿衣",
+      "onboard_time": 1712024599,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 228605,
       "num": 228605,
       "word": "爸爸用排烟管给女儿做了一条粉色龙",
@@ -2137,6 +2233,14 @@
       "onboard_time": 1711981161,
       "rank": 26,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 227719,
+      "num": 227719,
+      "word": "于正谈不结婚的原因",
+      "onboard_time": 1712028919,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 225576,
@@ -2177,6 +2281,14 @@
       "onboard_time": 1711964781,
       "rank": 36,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 218932,
+      "num": 200379,
+      "word": "蓝色真的能抑制一切食欲",
+      "onboard_time": 1712030721,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 217866,
@@ -2232,14 +2344,6 @@
       "word": "韩国人真的每天只睡4小时吗",
       "onboard_time": 1711905374,
       "rank": 35,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 212429,
-      "num": 212429,
-      "word": "00后女生当模特穿自己设计的寿衣",
-      "onboard_time": 1712024599,
-      "rank": 45,
       "category": "社会新闻"
     },
     {
@@ -2491,14 +2595,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 197010,
-      "num": 197010,
-      "word": "徐帆女儿气质",
-      "onboard_time": 1712028439,
-      "rank": 24,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 196954,
       "num": 196954,
       "word": "凤凰传奇演唱会",
@@ -2723,6 +2819,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 188168,
+      "num": 188168,
+      "word": "水逆退散",
+      "onboard_time": 1712030540,
+      "rank": 31,
+      "category": "情感"
+    },
+    {
       "raw_hot": 187932,
       "num": 187932,
       "word": "女性对人狗关系的影响其实更大",
@@ -2755,11 +2859,27 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 184093,
+      "num": 184093,
+      "word": "深圳买卖黄金超2万元须实名",
+      "onboard_time": 1712030241,
+      "rank": 32,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 183787,
       "num": 183787,
       "word": "同事没礼貌今天没忍住",
       "onboard_time": 1711959741,
       "rank": 46,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 183720,
+      "num": 183720,
+      "word": "这么猛生病了还得挂儿科",
+      "onboard_time": 1712028500,
+      "rank": 33,
       "category": "幽默"
     },
     {
@@ -2809,6 +2929,14 @@
       "onboard_time": 1711973060,
       "rank": 36,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 181412,
+      "num": 181412,
+      "word": "宋雨琦solo行程表",
+      "onboard_time": 1712029279,
+      "rank": 34,
+      "category": "音乐"
     },
     {
       "raw_hot": 181301,
@@ -2971,6 +3099,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 170361,
+      "num": 170361,
+      "word": "王楚钦打篮球",
+      "onboard_time": 1712029760,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 170214,
       "num": 170214,
       "word": "以色列空袭伊朗驻叙利亚使馆致7人死亡",
@@ -3027,6 +3163,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 166499,
+      "num": 166499,
+      "word": "潘玮柏 俺是潮霸",
+      "onboard_time": 1712030420,
+      "rank": 37,
+      "category": "演出"
+    },
+    {
       "raw_hot": 164258,
       "num": 164258,
       "word": "吉利高管到小米线下门店看SU7",
@@ -3075,12 +3219,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 162413,
+      "num": 162413,
+      "word": "摇太阳片尾曲是张杰唱的",
+      "onboard_time": 1712029879,
+      "rank": 38,
+      "category": "电影"
+    },
+    {
       "raw_hot": 161444,
       "num": 161444,
       "word": "李逍遥竟然是拂容君",
       "onboard_time": 1711889239,
       "rank": 34,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 161115,
+      "num": 1342361,
+      "word": "强对流天气应该如何避险",
+      "onboard_time": 1712026758,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 160247,
@@ -3299,6 +3459,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 148397,
+      "num": 148397,
+      "word": "原来新疆以前是海洋",
+      "onboard_time": 1712031321,
+      "rank": 42,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 148105,
       "num": 148105,
       "word": "金智媛ins更新",
@@ -3321,14 +3489,6 @@
       "onboard_time": 1711952960,
       "rank": 44,
       "category": "情感"
-    },
-    {
-      "raw_hot": 147531,
-      "num": 1342361,
-      "word": "强对流天气应该如何避险",
-      "onboard_time": 1712026758,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 147506,
@@ -3467,6 +3627,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 139083,
+      "num": 139083,
+      "word": "夏奇拉不喜欢芭比",
+      "onboard_time": 1712030060,
+      "rank": 44,
+      "category": "电影"
+    },
+    {
       "raw_hot": 138359,
       "num": 138359,
       "word": "人在什么时候最舒服",
@@ -3531,6 +3699,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 134795,
+      "num": 134795,
+      "word": "潘玮柏上海抢票",
+      "onboard_time": 1712031502,
+      "rank": 46,
+      "category": "演出"
+    },
+    {
       "raw_hot": 134650,
       "num": 134650,
       "word": "卓澜江下线",
@@ -3563,6 +3739,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 132584,
+      "num": 132584,
+      "word": "1岁还不会牙牙学语警惕孤独症",
+      "onboard_time": 1712030899,
+      "rank": 48,
+      "category": "母婴育儿"
+    },
+    {
       "raw_hot": 132247,
       "num": 132247,
       "word": "兄弟你好香",
@@ -3577,6 +3761,14 @@
       "onboard_time": 1712008391,
       "rank": 24,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 132184,
+      "num": 132184,
+      "word": "万科股价创新低",
+      "onboard_time": 1712030839,
+      "rank": 49,
+      "category": "财经"
     },
     {
       "raw_hot": 130601,
@@ -3651,20 +3843,20 @@
       "category": "情感"
     },
     {
+      "raw_hot": 119442,
+      "num": 255735,
+      "word": "又又又被vivo治愈了",
+      "onboard_time": 1712027120,
+      "rank": 31,
+      "category": "数码"
+    },
+    {
       "raw_hot": 119239,
       "num": 119239,
       "word": "怪不得上班这么苦",
       "onboard_time": 1711898538,
       "rank": 42,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 119227,
-      "num": 255735,
-      "word": "又又又被vivo治愈了",
-      "onboard_time": 1712027120,
-      "rank": 31,
-      "category": "数码"
     },
     {
       "raw_hot": 117403,
@@ -3713,14 +3905,6 @@
       "onboard_time": 1712013856,
       "rank": 24,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 111580,
-      "num": 111580,
-      "word": "中国黄金回应上亿元托管黄金消失",
-      "onboard_time": 1712028799,
-      "rank": 48,
-      "category": "财经"
     },
     {
       "raw_hot": 110899,
