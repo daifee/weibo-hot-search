@@ -1,0 +1,410 @@
+{
+  "runTime": 1712050500913,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2760200,
+        "num": 2760200,
+        "word": "放三天补一天的意义是什么",
+        "onboard_time": 1712047098,
+        "rank": 0,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 1147288,
+        "num": 1147288,
+        "word": "09 小舞",
+        "onboard_time": 1712049260,
+        "rank": 1,
+        "category": "电竞,网红"
+      },
+      {
+        "raw_hot": 28654,
+        "num": 766605,
+        "word": "中非互联网发展与合作论坛",
+        "onboard_time": 1712044158,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 3312102,
+        "num": 757714,
+        "word": "09 出轨",
+        "onboard_time": 1712047398,
+        "rank": 3,
+        "category": "电竞,网红"
+      },
+      {
+        "raw_hot": 735939,
+        "num": 735939,
+        "word": "华为已撤回遥遥领先商标申请",
+        "onboard_time": 1712047518,
+        "rank": 4,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 642233,
+        "num": 642233,
+        "word": "宋昰昀承认校园暴力",
+        "onboard_time": 1712044218,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 575402,
+        "num": 575402,
+        "word": "旅游时被拖进洞房3分钟收费168",
+        "onboard_time": 1712039779,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 561987,
+        "num": 561987,
+        "word": "省考成绩",
+        "onboard_time": 1712044279,
+        "rank": 7,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 545939,
+        "num": 545939,
+        "word": "唐一军接受审查调查",
+        "onboard_time": 1712043919,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 203121,
+        "num": 523676,
+        "word": "中方谴责针对伊朗驻叙使馆的袭击行为",
+        "onboard_time": 1712045958,
+        "rank": 9,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 585769,
+        "num": 523547,
+        "word": "赵小棠抑郁了两年",
+        "onboard_time": 1712038998,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 523085,
+        "num": 523085,
+        "word": "巴黎奥运排查出约800名不怀好意者",
+        "onboard_time": 1712046079,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 519174,
+        "num": 519174,
+        "word": "黄旭熙 给粉丝下跪",
+        "onboard_time": 1712037859,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 458166,
+        "num": 458166,
+        "word": "在美20岁中国女留学生校外身亡",
+        "onboard_time": 1712048720,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 371590,
+        "num": 371590,
+        "word": "一场演唱会带火一座城",
+        "onboard_time": 1712044279,
+        "rank": 14,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 341017,
+        "num": 341017,
+        "word": "何炅 咬布条",
+        "onboard_time": 1712040439,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 312040,
+        "num": 312040,
+        "word": "提灯定损",
+        "onboard_time": 1712044460,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 303241,
+        "num": 303241,
+        "word": "贝儿是长意妹妹",
+        "onboard_time": 1712047459,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 294072,
+        "num": 294072,
+        "word": "以为家有儿女的小雪搬家了",
+        "onboard_time": 1712044398,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 269746,
+        "num": 269746,
+        "word": "加沙最大医院已永久停止服务",
+        "onboard_time": 1712041938,
+        "rank": 19,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 381944,
+        "num": 266759,
+        "word": "还有比炸蛋更可怕的食物吗",
+        "onboard_time": 1712044939,
+        "rank": 20,
+        "category": "美食,健康医疗"
+      },
+      {
+        "raw_hot": 273012,
+        "num": 265176,
+        "word": "中医让我把鸡蛋牛奶戒了",
+        "onboard_time": 1712035520,
+        "rank": 21,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 259767,
+        "num": 259767,
+        "word": "这种螺一口吃出6000条寄生虫",
+        "onboard_time": 1712048300,
+        "rank": 22,
+        "category": "健康医疗,美食"
+      },
+      {
+        "raw_hot": 254742,
+        "num": 254742,
+        "word": "小米SU7退订率",
+        "onboard_time": 1712040319,
+        "rank": 23,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 249933,
+        "num": 249933,
+        "word": "雷军称将举办小米SU7首批交付仪式",
+        "onboard_time": 1712045178,
+        "rank": 24,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 245916,
+        "num": 245916,
+        "word": "全员加速中全员猎人",
+        "onboard_time": 1712049440,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 234953,
+        "num": 234953,
+        "word": "辛云来演技 木",
+        "onboard_time": 1712046860,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 226966,
+        "num": 226966,
+        "word": "伊朗",
+        "onboard_time": 1712047518,
+        "rank": 27,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 206736,
+        "num": 206736,
+        "word": "女性为什么会选择独自生养孩子",
+        "onboard_time": 1712049860,
+        "rank": 28,
+        "category": "母婴育儿,情感"
+      },
+      {
+        "raw_hot": 53880,
+        "num": 205526,
+        "word": "带呼吸法口令的八段锦跟练教程",
+        "onboard_time": 1712041578,
+        "rank": 29,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 204383,
+        "num": 204383,
+        "word": "南昌大风",
+        "onboard_time": 1712038879,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 187994,
+        "num": 187994,
+        "word": "法考证",
+        "onboard_time": 1712047638,
+        "rank": 31,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 182732,
+        "num": 182732,
+        "word": "王灿被烫伤",
+        "onboard_time": 1712033780,
+        "rank": 32,
+        "category": "艺人,艺人"
+      },
+      {
+        "raw_hot": 171536,
+        "num": 171536,
+        "word": "iPad游戏合集",
+        "onboard_time": 1712043739,
+        "rank": 33,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 166124,
+        "num": 166124,
+        "word": "林智妍为宋慧乔应援",
+        "onboard_time": 1712047879,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 162775,
+        "num": 162775,
+        "word": "张杰杭州",
+        "onboard_time": 1712047158,
+        "rank": 35,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 158357,
+        "num": 158357,
+        "word": "赵丽颖现身重庆铜元局",
+        "onboard_time": 1712049980,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 151560,
+        "num": 151560,
+        "word": "福宝明天回家",
+        "onboard_time": 1712043259,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 149496,
+        "num": 149496,
+        "word": "ELK被盗号",
+        "onboard_time": 1712048240,
+        "rank": 38,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 144520,
+        "num": 144520,
+        "word": "四川一元一串的钵钵鸡火到了国外",
+        "onboard_time": 1712048300,
+        "rank": 39,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 142711,
+        "num": 142711,
+        "word": "2023年银行打工人薪酬曝光",
+        "onboard_time": 1712047039,
+        "rank": 40,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 151865,
+        "num": 141521,
+        "word": "帮赵丽颖老师试过景了",
+        "onboard_time": 1712044100,
+        "rank": 41,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 135242,
+        "num": 135242,
+        "word": "女子入职体检发现怀孕后被拒录用",
+        "onboard_time": 1712017701,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 135075,
+        "num": 135075,
+        "word": "巴黎奥运让义乌又爆单了",
+        "onboard_time": 1712040860,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 134147,
+        "num": 134147,
+        "word": "34家公司游戏收入超3000亿元",
+        "onboard_time": 1712048661,
+        "rank": 44,
+        "category": "游戏,财经"
+      },
+      {
+        "raw_hot": 126887,
+        "num": 126887,
+        "word": "巴以冲突",
+        "onboard_time": 1712045838,
+        "rank": 45,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 121353,
+        "num": 121353,
+        "word": "雷军最喜欢霞光紫",
+        "onboard_time": 1712049019,
+        "rank": 46,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 110587,
+        "num": 110587,
+        "word": "吉林省考成绩",
+        "onboard_time": 1712050460,
+        "rank": 47,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 107083,
+        "num": 107083,
+        "word": "内部人士回应华为三折屏手机面世时间",
+        "onboard_time": 1712050460,
+        "rank": 48,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 106841,
+        "num": 106841,
+        "word": "中信银行人均降薪近9%",
+        "onboard_time": 1712050399,
+        "rank": 49,
+        "category": "财经"
+      }
+    ],
+    "hotgov": {
+      "word": "#中印尼友好之轮始终破浪向前#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1711815680412,
-  "endTime": 1712049491032,
+  "endTime": 1712050500913,
   "band_list": [
     {
       "raw_hot": 12825415,
@@ -9,6 +9,14 @@
       "onboard_time": 1711941680,
       "rank": 1,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 3312102,
+      "num": 827890,
+      "word": "09 出轨",
+      "onboard_time": 1712047398,
+      "rank": 3,
+      "category": "电竞,网红"
     },
     {
       "raw_hot": 3224657,
@@ -27,14 +35,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 3007172,
-      "num": 827890,
-      "word": "09 出轨",
-      "onboard_time": 1712047398,
-      "rank": 3,
-      "category": "电竞,网红"
-    },
-    {
       "raw_hot": 2947462,
       "num": 1201274,
       "word": "重庆扔小孩案第二名孩子没事",
@@ -49,6 +49,14 @@
       "onboard_time": 1711881079,
       "rank": 17,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 2760200,
+      "num": 2760200,
+      "word": "放三天补一天的意义是什么",
+      "onboard_time": 1712047098,
+      "rank": 0,
+      "category": "情感"
     },
     {
       "raw_hot": 2525703,
@@ -73,14 +81,6 @@
       "onboard_time": 1711935739,
       "rank": 3,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 2366508,
-      "num": 2366508,
-      "word": "放三天补一天的意义是什么",
-      "onboard_time": 1712047098,
-      "rank": 0,
-      "category": "情感"
     },
     {
       "raw_hot": 2171960,
@@ -489,6 +489,14 @@
       "onboard_time": 1711945585,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1147288,
+      "num": 1147288,
+      "word": "09 小舞",
+      "onboard_time": 1712049260,
+      "rank": 26,
+      "category": "电竞,网红"
     },
     {
       "raw_hot": 1146601,
@@ -1035,6 +1043,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 735939,
+      "num": 735939,
+      "word": "华为已撤回遥遥领先商标申请",
+      "onboard_time": 1712047518,
+      "rank": 7,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 730260,
       "num": 730260,
       "word": "郝蕾痛批朱梓骁",
@@ -1137,14 +1153,6 @@
       "onboard_time": 1711889838,
       "rank": 12,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 686137,
-      "num": 686137,
-      "word": "华为已撤回遥遥领先商标申请",
-      "onboard_time": 1712047518,
-      "rank": 7,
-      "category": "互联网"
     },
     {
       "raw_hot": 680667,
@@ -2041,6 +2049,14 @@
       "onboard_time": 1711872737,
       "rank": 30,
       "category": "汽车,艺人"
+    },
+    {
+      "raw_hot": 458166,
+      "num": 458166,
+      "word": "在美20岁中国女留学生校外身亡",
+      "onboard_time": 1712048720,
+      "rank": 23,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 455933,
@@ -3163,14 +3179,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 292381,
-      "num": 292381,
-      "word": "在美20岁中国女留学生校外身亡",
-      "onboard_time": 1712048720,
-      "rank": 23,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 292226,
       "num": 292226,
       "word": "华晨宇官宣烟台演唱会",
@@ -3475,14 +3483,6 @@
       "category": "健康医疗,美食"
     },
     {
-      "raw_hot": 266416,
-      "num": 266416,
-      "word": "09 小舞",
-      "onboard_time": 1712049260,
-      "rank": 26,
-      "category": "电竞,网红"
-    },
-    {
       "raw_hot": 266135,
       "num": 266135,
       "word": "凯迪拉克回应海报暗讽小米SU7",
@@ -3761,6 +3761,14 @@
       "onboard_time": 1711974380,
       "rank": 32,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 245916,
+      "num": 245916,
+      "word": "全员加速中全员猎人",
+      "onboard_time": 1712049440,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 245831,
@@ -4513,6 +4521,14 @@
       "onboard_time": 1711960221,
       "rank": 31,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 206736,
+      "num": 206736,
+      "word": "女性为什么会选择独自生养孩子",
+      "onboard_time": 1712049860,
+      "rank": 28,
+      "category": "母婴育儿,情感"
     },
     {
       "raw_hot": 206512,
@@ -6083,6 +6099,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 158357,
+      "num": 158357,
+      "word": "赵丽颖现身重庆铜元局",
+      "onboard_time": 1712049980,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 158275,
       "num": 158275,
       "word": "吴磊 谁是爸",
@@ -7419,6 +7443,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 110587,
+      "num": 110587,
+      "word": "吉林省考成绩",
+      "onboard_time": 1712050460,
+      "rank": 47,
+      "category": "教育"
+    },
+    {
       "raw_hot": 110134,
       "num": 110134,
       "word": "奥本海默日本上映观众情绪复杂",
@@ -7451,12 +7483,20 @@
       "category": "演出"
     },
     {
-      "raw_hot": 108852,
-      "num": 108852,
-      "word": "全员加速中全员猎人",
-      "onboard_time": 1712049440,
+      "raw_hot": 107083,
+      "num": 107083,
+      "word": "内部人士回应华为三折屏手机面世时间",
+      "onboard_time": 1712050460,
+      "rank": 48,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 106841,
+      "num": 106841,
+      "word": "中信银行人均降薪近9%",
+      "onboard_time": 1712050399,
       "rank": 49,
-      "category": "综艺"
+      "category": "财经"
     },
     {
       "raw_hot": 106062,
