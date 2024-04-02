@@ -1,6 +1,6 @@
 {
   "startTime": 1711815680412,
-  "endTime": 1712043258861,
+  "endTime": 1712046112098,
   "band_list": [
     {
       "raw_hot": 12825415,
@@ -129,6 +129,14 @@
       "onboard_time": 1711890498,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1952920,
+      "num": 1952920,
+      "word": "唐一军接受审查调查",
+      "onboard_time": 1712043919,
+      "rank": 0,
+      "category": "国内时政"
     },
     {
       "raw_hot": 1951957,
@@ -443,6 +451,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1201134,
+      "num": 1201134,
+      "word": "宋昰昀承认校园暴力",
+      "onboard_time": 1712044218,
+      "rank": 1,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1198308,
       "num": 1198308,
       "word": "张国荣",
@@ -651,6 +667,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 940705,
+      "num": 940705,
+      "word": "省考成绩",
+      "onboard_time": 1712044279,
+      "rank": 4,
+      "category": "教育"
+    },
+    {
       "raw_hot": 927333,
       "num": 927333,
       "word": "韩商言 张元英转圈",
@@ -769,6 +793,14 @@
       "onboard_time": 1711956560,
       "rank": 30,
       "category": "美食"
+    },
+    {
+      "raw_hot": 820802,
+      "num": 820802,
+      "word": "加沙最大医院已永久停止服务",
+      "onboard_time": 1712041938,
+      "rank": 37,
+      "category": "国外时政"
     },
     {
       "raw_hot": 812718,
@@ -1067,6 +1099,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 690331,
+      "num": 690331,
+      "word": "小米SU7退订率",
+      "onboard_time": 1712040319,
+      "rank": 10,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 689687,
       "num": 689687,
       "word": "黄旭熙怎么又出道了",
@@ -1121,14 +1161,6 @@
       "onboard_time": 1711928478,
       "rank": 6,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 671913,
-      "num": 397343,
-      "word": "小米SU7退订率",
-      "onboard_time": 1712040319,
-      "rank": 10,
-      "category": "汽车"
     },
     {
       "raw_hot": 669354,
@@ -1289,6 +1321,14 @@
       "onboard_time": 1712026519,
       "rank": 8,
       "category": "财经"
+    },
+    {
+      "raw_hot": 624443,
+      "num": 624443,
+      "word": "以为家有儿女的小雪搬家了",
+      "onboard_time": 1712044398,
+      "rank": 11,
+      "category": "剧集"
     },
     {
       "raw_hot": 622262,
@@ -1505,6 +1545,14 @@
       "onboard_time": 1712029459,
       "rank": 11,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 550429,
+      "num": 550429,
+      "word": "一场演唱会带火一座城",
+      "onboard_time": 1712044279,
+      "rank": 13,
+      "category": "演出"
     },
     {
       "raw_hot": 550147,
@@ -2291,14 +2339,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 397757,
-      "num": 397757,
-      "word": "加沙最大医院已永久停止服务",
-      "onboard_time": 1712041938,
-      "rank": 37,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 397327,
       "num": 397327,
       "word": "孙颖莎世界排名积分7800分",
@@ -2715,6 +2755,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 335379,
+      "num": 335379,
+      "word": "福宝明天回家",
+      "onboard_time": 1712043259,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 333616,
       "num": 263216,
       "word": "爸爸穿的太显眼竟把女儿气哭",
@@ -2913,6 +2961,14 @@
       "onboard_time": 1711943902,
       "rank": 26,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 304712,
+      "num": 304712,
+      "word": "iPad游戏合集",
+      "onboard_time": 1712043739,
+      "rank": 18,
+      "category": "游戏"
     },
     {
       "raw_hot": 304483,
@@ -3139,6 +3195,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 284117,
+      "num": 284117,
+      "word": "帮赵丽颖老师试过景了",
+      "onboard_time": 1712044100,
+      "rank": 22,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 284063,
       "num": 284063,
       "word": "赵晴回应于正让自己减肥",
@@ -3316,7 +3380,7 @@
     },
     {
       "raw_hot": 269172,
-      "num": 269172,
+      "num": 638040,
       "word": "带呼吸法口令的八段锦跟练教程",
       "onboard_time": 1712041578,
       "rank": 21,
@@ -3563,6 +3627,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 248567,
+      "num": 185795,
+      "word": "今天穿什么香",
+      "onboard_time": 1712045000,
+      "rank": 30,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 248044,
       "num": 248044,
       "word": "迪丽热巴对接辟谣去林俊杰演唱会",
@@ -3593,6 +3665,14 @@
       "onboard_time": 1711974380,
       "rank": 32,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 246117,
+      "num": 246117,
+      "word": "雷军称将举办小米SU7首批交付仪式",
+      "onboard_time": 1712045178,
+      "rank": 24,
+      "category": "汽车"
     },
     {
       "raw_hot": 245831,
@@ -4025,6 +4105,22 @@
       "onboard_time": 1711895900,
       "rank": 34,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 222913,
+      "num": 222913,
+      "word": "baolan回应霸哥开团",
+      "onboard_time": 1712044638,
+      "rank": 26,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 222888,
+      "num": 222888,
+      "word": "还有比炸蛋更可怕的食物吗",
+      "onboard_time": 1712044939,
+      "rank": 27,
+      "category": "美食,健康医疗"
     },
     {
       "raw_hot": 220827,
@@ -5875,6 +5971,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 157695,
+      "num": 157695,
+      "word": "领导你看我的午饭方不方",
+      "onboard_time": 1712043020,
+      "rank": 40,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 157283,
       "num": 157283,
       "word": "建议打工人周末在公园待20分钟",
@@ -6009,14 +6113,6 @@
       "onboard_time": 1711814898,
       "rank": 31,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 152684,
-      "num": 152684,
-      "word": "领导你看我的午饭方不方",
-      "onboard_time": 1712043020,
-      "rank": 40,
-      "category": "幽默"
     },
     {
       "raw_hot": 152661,
@@ -6683,6 +6779,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 134751,
+      "num": 134751,
+      "word": "巴以冲突",
+      "onboard_time": 1712045838,
+      "rank": 38,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 134650,
       "num": 134650,
       "word": "卓澜江下线",
@@ -6705,6 +6809,14 @@
       "onboard_time": 1711851738,
       "rank": 45,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 133644,
+      "num": 133644,
+      "word": "中国铁路设计大师赵斗",
+      "onboard_time": 1712045300,
+      "rank": 40,
+      "category": "科学科普"
     },
     {
       "raw_hot": 133160,
@@ -6761,6 +6873,14 @@
       "onboard_time": 1711935138,
       "rank": 39,
       "category": "财经"
+    },
+    {
+      "raw_hot": 129908,
+      "num": 396225,
+      "word": "为什么这双鞋出圈了",
+      "onboard_time": 1712042658,
+      "rank": 31,
+      "category": "运动健身"
     },
     {
       "raw_hot": 129172,
@@ -7139,11 +7259,27 @@
       "category": "电影"
     },
     {
+      "raw_hot": 110045,
+      "num": 110045,
+      "word": "中方谴责针对伊朗驻叙使馆的袭击行为",
+      "onboard_time": 1712045958,
+      "rank": 48,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 109769,
       "num": 109769,
       "word": "C罗帽子戏法",
       "onboard_time": 1711843576,
       "rank": 45,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 109598,
+      "num": 109598,
+      "word": "巴黎奥运排查出约800名不怀好意者",
+      "onboard_time": 1712046079,
+      "rank": 49,
       "category": "体育"
     },
     {
@@ -7563,14 +7699,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 66891,
-      "num": 194367,
-      "word": "为什么这双鞋出圈了",
-      "onboard_time": 1712042658,
-      "rank": 31,
-      "category": "运动健身"
-    },
-    {
       "raw_hot": 63995,
       "num": 63995,
       "word": "enhypen回归时间",
@@ -7699,6 +7827,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 46826,
+      "num": 1019827,
+      "word": "中非互联网发展与合作论坛",
+      "onboard_time": 1712044158,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 44784,
       "num": 44784,
       "word": "阮经天砍价自曝祖坟",
@@ -7825,6 +7961,14 @@
       "onboard_time": 1711832411,
       "rank": 44,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 15412,
+      "num": 133923,
+      "word": "2024云拜祖正确打开方式",
+      "onboard_time": 1712044819,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 11652,
