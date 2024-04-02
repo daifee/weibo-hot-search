@@ -1,6 +1,6 @@
 {
   "startTime": 1712074937436,
-  "endTime": 1712079251828,
+  "endTime": 1712082094907,
   "band_list": [
     {
       "raw_hot": 1403062,
@@ -59,6 +59,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 426186,
+      "num": 139807,
+      "word": "开钟点房的到底是些什么人",
+      "onboard_time": 1712077573,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 421108,
       "num": 421108,
       "word": "八年前的金智媛",
@@ -97,14 +105,6 @@
       "onboard_time": 1712064200,
       "rank": 12,
       "category": "演出"
-    },
-    {
-      "raw_hot": 308382,
-      "num": 118358,
-      "word": "开钟点房的到底是些什么人",
-      "onboard_time": 1712077573,
-      "rank": 24,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 261777,
@@ -176,6 +176,14 @@
       "word": "方志敏的遗骸竟有两块胫骨戴着镣铐",
       "onboard_time": 1712068581,
       "rank": 19,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 191703,
+      "num": 82971,
+      "word": "警方回应找王婆说媒已婚男妻子疑轻生",
+      "onboard_time": 1712079373,
+      "rank": 10,
       "category": "社会新闻"
     },
     {
@@ -257,6 +265,14 @@
       "onboard_time": 1712055139,
       "rank": 28,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 136834,
+      "num": 82188,
+      "word": "宁艺卓疑似签售切小屏",
+      "onboard_time": 1712080633,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 133677,
@@ -427,6 +443,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 57630,
+      "num": 57630,
+      "word": "回避型依恋",
+      "onboard_time": 1712080032,
+      "rank": 17,
+      "category": "情感"
+    },
+    {
       "raw_hot": 38268,
       "num": 46045,
       "word": "张杰新歌自己",
@@ -435,12 +459,36 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 34601,
+      "num": 34601,
+      "word": "张婧仪演破产豪门",
+      "onboard_time": 1712079853,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 34311,
+      "num": 34311,
+      "word": "见过开黄腔的婚礼司仪吗",
+      "onboard_time": 1712054840,
+      "rank": 35,
+      "category": "情感"
+    },
+    {
       "raw_hot": 31834,
       "num": 39106,
       "word": "陈楚生成都站售罄",
       "onboard_time": 1712075896,
       "rank": 48,
       "category": "演出"
+    },
+    {
+      "raw_hot": 27126,
+      "num": 27126,
+      "word": "夏目友人帐 唯美水中花",
+      "onboard_time": 1712080992,
+      "rank": 42,
+      "category": "动漫,作品衍生"
     },
     {
       "raw_hot": 3452,
