@@ -1,0 +1,410 @@
+{
+  "runTime": 1712028013751,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1934295,
+        "num": 1934295,
+        "word": "华晨宇9年前就拒绝月经羞耻",
+        "onboard_time": 1712024719,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 997959,
+        "num": 997959,
+        "word": "女子入职体检发现怀孕后被拒录用",
+        "onboard_time": 1712017701,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 139935,
+        "num": 956800,
+        "word": "强对流天气应该如何避险",
+        "onboard_time": 1712026758,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 955921,
+        "num": 955921,
+        "word": "小米SU7退订率40%",
+        "onboard_time": 1712027599,
+        "rank": 3,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 789285,
+        "num": 789285,
+        "word": "赵露思机场没被认出来",
+        "onboard_time": 1712024599,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 713418,
+        "num": 713418,
+        "word": "黄金又暴涨中国资产飙升",
+        "onboard_time": 1712023459,
+        "rank": 5,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 648453,
+        "num": 648453,
+        "word": "99年女孩两年不上班逛吃30个城市",
+        "onboard_time": 1712020459,
+        "rank": 6,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 617535,
+        "num": 617535,
+        "word": "减肥关键点是饿",
+        "onboard_time": 1712023878,
+        "rank": 7,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 461790,
+        "num": 461790,
+        "word": "万科",
+        "onboard_time": 1712026519,
+        "rank": 8,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 436050,
+        "num": 436050,
+        "word": "台军暂缓在金门等地对海实弹射击",
+        "onboard_time": 1712021717,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 606001,
+        "num": 420215,
+        "word": "飓风坠楼3条人命牵出江西贪腐第一大案",
+        "onboard_time": 1712019679,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 448534,
+        "num": 408638,
+        "word": "女子睡觉被大风吹下11楼身亡",
+        "onboard_time": 1711971080,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 385447,
+        "num": 385447,
+        "word": "P70发不发售",
+        "onboard_time": 1712025799,
+        "rank": 12,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 374399,
+        "num": 374399,
+        "word": "以色列",
+        "onboard_time": 1712023878,
+        "rank": 13,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 304716,
+        "num": 304716,
+        "word": "iPhone6Plus被列入过时产品",
+        "onboard_time": 1712013075,
+        "rank": 14,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 302879,
+        "num": 302879,
+        "word": "狭管效应",
+        "onboard_time": 1712025198,
+        "rank": 15,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 276382,
+        "num": 276382,
+        "word": "闪耀暖暖",
+        "onboard_time": 1712026159,
+        "rank": 16,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 267606,
+        "num": 267606,
+        "word": "为什么你睡醒后腰酸背痛",
+        "onboard_time": 1712020819,
+        "rank": 17,
+        "category": "健康医疗,科学科普"
+      },
+      {
+        "raw_hot": 250246,
+        "num": 250246,
+        "word": "县城年轻人每天花多少钱点咖啡",
+        "onboard_time": 1712023819,
+        "rank": 18,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 229068,
+        "num": 229068,
+        "word": "苹果今年或推出低价AirPods",
+        "onboard_time": 1712020400,
+        "rank": 19,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 224396,
+        "num": 224396,
+        "word": "老师去领证打扮精致全班一片沸腾",
+        "onboard_time": 1712016800,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 221914,
+        "num": 221914,
+        "word": "孙颖莎世界排名积分7800分",
+        "onboard_time": 1712020700,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 216764,
+        "num": 216764,
+        "word": "伊朗将果断回应以色列行动",
+        "onboard_time": 1712020220,
+        "rank": 22,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 202098,
+        "num": 202098,
+        "word": "王一博维和警察穿搭",
+        "onboard_time": 1712027841,
+        "rank": 23,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 201338,
+        "num": 201338,
+        "word": "惜花芷今日开播",
+        "onboard_time": 1712027058,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 197384,
+        "num": 197384,
+        "word": "00后女生当模特穿自己设计的寿衣",
+        "onboard_time": 1712024599,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 195933,
+        "num": 195933,
+        "word": "女装敢不敢再敷衍一点",
+        "onboard_time": 1712024119,
+        "rank": 26,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 195147,
+        "num": 195147,
+        "word": "别再因为害羞放弃肛门指检了",
+        "onboard_time": 1711991834,
+        "rank": 27,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 189587,
+        "num": 189587,
+        "word": "陈建斌 我一定超过其他窝囊废",
+        "onboard_time": 1712014817,
+        "rank": 28,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 183062,
+        "num": 183062,
+        "word": "冯绍峰谈到儿子眼圈红了",
+        "onboard_time": 1711979001,
+        "rank": 29,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 182488,
+        "num": 182488,
+        "word": "惜花芷",
+        "onboard_time": 1712026399,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 94562,
+        "num": 176267,
+        "word": "又又又被vivo治愈了",
+        "onboard_time": 1712027120,
+        "rank": 31,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 176117,
+        "num": 176117,
+        "word": "王楚钦连续三周世界第一",
+        "onboard_time": 1712027719,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 175734,
+        "num": 175734,
+        "word": "班主任辞职参军全班沸腾了",
+        "onboard_time": 1711980981,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 174255,
+        "num": 174255,
+        "word": "妈妈陪读十年将自闭症儿子培养成调律师",
+        "onboard_time": 1711984880,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 173917,
+        "num": 173917,
+        "word": "相柳战死图",
+        "onboard_time": 1712016440,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 159421,
+        "num": 159421,
+        "word": "赵丽颖黄澄澄对手戏",
+        "onboard_time": 1712017342,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 158573,
+        "num": 158573,
+        "word": "欢瑞声明成毅与前公司无任何纠纷",
+        "onboard_time": 1712025018,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 158399,
+        "num": 158399,
+        "word": "新版赵灵儿 阴蚀王",
+        "onboard_time": 1711983322,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 151169,
+        "num": 151169,
+        "word": "P人身上有种天然的松弛感",
+        "onboard_time": 1712027000,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 148994,
+        "num": 148994,
+        "word": "黄旭熙G社生图",
+        "onboard_time": 1712018600,
+        "rank": 40,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 144729,
+        "num": 144729,
+        "word": "旅行最怕的就是手机没电",
+        "onboard_time": 1712023278,
+        "rank": 41,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 142954,
+        "num": 142954,
+        "word": "亲戚对你的态度其实取决于父母",
+        "onboard_time": 1712026339,
+        "rank": 42,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 140321,
+        "num": 140321,
+        "word": "AI程序员首次入职科技公司",
+        "onboard_time": 1712027778,
+        "rank": 43,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 137470,
+        "num": 137470,
+        "word": "小米集团盘前大涨15%",
+        "onboard_time": 1712022378,
+        "rank": 44,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 133799,
+        "num": 133799,
+        "word": "安徽江淮汽车集团原董事长安进接受审查调查",
+        "onboard_time": 1712024179,
+        "rank": 45,
+        "category": "社会新闻,汽车"
+      },
+      {
+        "raw_hot": 132896,
+        "num": 132896,
+        "word": "TWS粉丝名42",
+        "onboard_time": 1712026700,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 123717,
+        "num": 123717,
+        "word": "生育养育成本应该谁来承担",
+        "onboard_time": 1712027000,
+        "rank": 47,
+        "category": "母婴育儿"
+      },
+      {
+        "raw_hot": 123258,
+        "num": 123258,
+        "word": "受教育程度越高死亡风险越低",
+        "onboard_time": 1712020040,
+        "rank": 48,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 115810,
+        "num": 115810,
+        "word": "人在什么时候最舒服",
+        "onboard_time": 1712027960,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平同印尼当选总统普拉博沃会谈#"
+    }
+  }
+}

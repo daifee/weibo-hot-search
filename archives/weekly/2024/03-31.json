@@ -1,6 +1,6 @@
 {
   "startTime": 1711815680412,
-  "endTime": 1712025476651,
+  "endTime": 1712028013751,
   "band_list": [
     {
       "raw_hot": 12825415,
@@ -137,6 +137,14 @@
       "onboard_time": 1712015299,
       "rank": 1,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1934295,
+      "num": 1934295,
+      "word": "华晨宇9年前就拒绝月经羞耻",
+      "onboard_time": 1712024719,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 1849185,
@@ -555,6 +563,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 955921,
+      "num": 955921,
+      "word": "小米SU7退订率40%",
+      "onboard_time": 1712027599,
+      "rank": 3,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 945169,
       "num": 945169,
       "word": "贾玲减肥后刘维痛失代表作",
@@ -684,7 +700,7 @@
     },
     {
       "raw_hot": 812368,
-      "num": 359568,
+      "num": 420215,
       "word": "飓风坠楼3条人命牵出江西贪腐第一大案",
       "onboard_time": 1712019679,
       "rank": 10,
@@ -753,6 +769,14 @@
       "onboard_time": 1711940477,
       "rank": 5,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 789285,
+      "num": 789285,
+      "word": "赵露思机场没被认出来",
+      "onboard_time": 1712024599,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 787806,
@@ -897,6 +921,14 @@
       "onboard_time": 1711861637,
       "rank": 21,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 713418,
+      "num": 713418,
+      "word": "黄金又暴涨中国资产飙升",
+      "onboard_time": 1712023459,
+      "rank": 20,
+      "category": "财经"
     },
     {
       "raw_hot": 709112,
@@ -1137,6 +1169,14 @@
       "onboard_time": 1711981042,
       "rank": 28,
       "category": "财经"
+    },
+    {
+      "raw_hot": 617535,
+      "num": 617535,
+      "word": "减肥关键点是饿",
+      "onboard_time": 1712023878,
+      "rank": 18,
+      "category": "美食"
     },
     {
       "raw_hot": 614136,
@@ -1739,6 +1779,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 461790,
+      "num": 461790,
+      "word": "万科",
+      "onboard_time": 1712026519,
+      "rank": 8,
+      "category": "财经"
+    },
+    {
       "raw_hot": 459773,
       "num": 459773,
       "word": "网友回应帮张颂文跟雷军要到小米SU7",
@@ -2099,6 +2147,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 385447,
+      "num": 385447,
+      "word": "P70发不发售",
+      "onboard_time": 1712025799,
+      "rank": 12,
+      "category": "数码"
+    },
+    {
       "raw_hot": 384041,
       "num": 522123,
       "word": "法国向45个国家寻求安保协助",
@@ -2177,6 +2233,14 @@
       "onboard_time": 1711943782,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 374399,
+      "num": 374399,
+      "word": "以色列",
+      "onboard_time": 1712023878,
+      "rank": 25,
+      "category": "国外时政"
     },
     {
       "raw_hot": 374160,
@@ -2419,14 +2483,6 @@
       "category": "互联网,网红"
     },
     {
-      "raw_hot": 327919,
-      "num": 327919,
-      "word": "华晨宇9年前就拒绝月经羞耻",
-      "onboard_time": 1712024719,
-      "rank": 13,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 327637,
       "num": 327637,
       "word": "陈楚生有沟",
@@ -2595,6 +2651,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 302879,
+      "num": 302879,
+      "word": "狭管效应",
+      "onboard_time": 1712025198,
+      "rank": 15,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 302636,
       "num": 302636,
       "word": "广西玉林两货车相撞起火致2人死亡",
@@ -2691,14 +2755,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 293783,
-      "num": 293783,
-      "word": "减肥关键点是饿",
-      "onboard_time": 1712023878,
-      "rank": 18,
-      "category": "美食"
-    },
-    {
       "raw_hot": 292040,
       "num": 292040,
       "word": "去东海救碧苍王",
@@ -2737,14 +2793,6 @@
       "onboard_time": 1711947564,
       "rank": 25,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 288046,
-      "num": 288046,
-      "word": "黄金又暴涨中国资产飙升",
-      "onboard_time": 1712023459,
-      "rank": 20,
-      "category": "财经"
     },
     {
       "raw_hot": 287562,
@@ -2873,6 +2921,14 @@
       "onboard_time": 1711950142,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 276382,
+      "num": 276382,
+      "word": "闪耀暖暖",
+      "onboard_time": 1712026159,
+      "rank": 16,
+      "category": "游戏"
     },
     {
       "raw_hot": 275156,
@@ -3443,14 +3499,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 229012,
-      "num": 229012,
-      "word": "以色列",
-      "onboard_time": 1712023878,
-      "rank": 25,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 228605,
       "num": 228605,
       "word": "爸爸用排烟管给女儿做了一条粉色龙",
@@ -3923,6 +3971,14 @@
       "category": "情感,社会新闻"
     },
     {
+      "raw_hot": 202098,
+      "num": 202098,
+      "word": "王一博维和警察穿搭",
+      "onboard_time": 1712027841,
+      "rank": 23,
+      "category": "电影"
+    },
+    {
       "raw_hot": 202070,
       "num": 179561,
       "word": "迪丽热巴被摸手臂",
@@ -3953,6 +4009,14 @@
       "onboard_time": 1711956380,
       "rank": 47,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 201338,
+      "num": 201338,
+      "word": "惜花芷今日开播",
+      "onboard_time": 1712027058,
+      "rank": 24,
+      "category": "剧集"
     },
     {
       "raw_hot": 201232,
@@ -4073,6 +4137,14 @@
       "onboard_time": 1711965679,
       "rank": 42,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 197384,
+      "num": 197384,
+      "word": "00后女生当模特穿自己设计的寿衣",
+      "onboard_time": 1712024599,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 197374,
@@ -4555,6 +4627,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 182488,
+      "num": 182488,
+      "word": "惜花芷",
+      "onboard_time": 1712026399,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 181599,
       "num": 181599,
       "word": "周也模仿陈欣怡",
@@ -4659,14 +4739,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 178840,
-      "num": 178840,
-      "word": "赵露思机场没被认出来",
-      "onboard_time": 1712024599,
-      "rank": 34,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 178755,
       "num": 178755,
       "word": "3周瘦7斤的底层逻辑",
@@ -4729,6 +4801,14 @@
       "onboard_time": 1711958181,
       "rank": 33,
       "category": "艺人,汽车"
+    },
+    {
+      "raw_hot": 176117,
+      "num": 176117,
+      "word": "王楚钦连续三周世界第一",
+      "onboard_time": 1712027719,
+      "rank": 32,
+      "category": "体育"
     },
     {
       "raw_hot": 176101,
@@ -5099,6 +5179,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 158573,
+      "num": 158573,
+      "word": "欢瑞声明成毅与前公司无任何纠纷",
+      "onboard_time": 1712025018,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 158275,
       "num": 158275,
       "word": "吴磊 谁是爸",
@@ -5345,6 +5433,14 @@
       "onboard_time": 1711952660,
       "rank": 41,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 151169,
+      "num": 151169,
+      "word": "P人身上有种天然的松弛感",
+      "onboard_time": 1712027000,
+      "rank": 39,
+      "category": "幽默"
     },
     {
       "raw_hot": 150660,
@@ -5595,6 +5691,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 142954,
+      "num": 142954,
+      "word": "亲戚对你的态度其实取决于父母",
+      "onboard_time": 1712026339,
+      "rank": 42,
+      "category": "情感"
+    },
+    {
       "raw_hot": 142568,
       "num": 201261,
       "word": "新疆喀什大风刮起百米沙墙",
@@ -5673,6 +5777,22 @@
       "onboard_time": 1711884619,
       "rank": 42,
       "category": "演出"
+    },
+    {
+      "raw_hot": 140321,
+      "num": 140321,
+      "word": "AI程序员首次入职科技公司",
+      "onboard_time": 1712027778,
+      "rank": 43,
+      "category": "互联网"
+    },
+    {
+      "raw_hot": 139935,
+      "num": 956800,
+      "word": "强对流天气应该如何避险",
+      "onboard_time": 1712026758,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 138919,
@@ -5819,6 +5939,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 132896,
+      "num": 132896,
+      "word": "TWS粉丝名42",
+      "onboard_time": 1712026700,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 132247,
       "num": 132247,
       "word": "兄弟你好香",
@@ -5923,14 +6051,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 126006,
-      "num": 126006,
-      "word": "00后女生当模特穿自己设计的寿衣",
-      "onboard_time": 1712024599,
-      "rank": 45,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 125455,
       "num": 125455,
       "word": "脱发的人通常心火都比较旺",
@@ -5977,6 +6097,14 @@
       "onboard_time": 1711800439,
       "rank": 34,
       "category": "体育"
+    },
+    {
+      "raw_hot": 123717,
+      "num": 123717,
+      "word": "生育养育成本应该谁来承担",
+      "onboard_time": 1712027000,
+      "rank": 47,
+      "category": "母婴育儿"
     },
     {
       "raw_hot": 123509,
@@ -6081,6 +6209,14 @@
       "onboard_time": 1711843155,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 115810,
+      "num": 115810,
+      "word": "人在什么时候最舒服",
+      "onboard_time": 1712027960,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 115668,
@@ -6361,6 +6497,14 @@
       "onboard_time": 1712004069,
       "rank": 21,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 94562,
+      "num": 176267,
+      "word": "又又又被vivo治愈了",
+      "onboard_time": 1712027120,
+      "rank": 31,
+      "category": "数码"
     },
     {
       "raw_hot": 94215,
