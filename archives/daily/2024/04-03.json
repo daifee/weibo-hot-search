@@ -1,6 +1,6 @@
 {
   "startTime": 1712074937436,
-  "endTime": 1712099916468,
+  "endTime": 1712100864274,
   "band_list": [
     {
       "raw_hot": 1403062,
@@ -11,16 +11,16 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 1084793,
-      "num": 1084793,
+      "raw_hot": 1319767,
+      "num": 1319767,
       "word": "警方回应找王婆说媒已婚男妻子疑轻生",
       "onboard_time": 1712079373,
       "rank": 10,
       "category": "社会新闻"
     },
     {
-      "raw_hot": 966615,
-      "num": 381979,
+      "raw_hot": 1166439,
+      "num": 499842,
       "word": "开钟点房的到底是些什么人",
       "onboard_time": 1712077573,
       "rank": 24,
@@ -35,12 +35,28 @@
       "category": "情感"
     },
     {
-      "raw_hot": 606460,
+      "raw_hot": 748354,
       "num": 384402,
       "word": "放三天补一天的意义是什么",
       "onboard_time": 1712047098,
       "rank": 10,
       "category": "情感"
+    },
+    {
+      "raw_hot": 594944,
+      "num": 281282,
+      "word": "15岁女孩失联遗体被找到家属发声",
+      "onboard_time": 1712091911,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 581232,
+      "num": 581232,
+      "word": "小杨哥退出与美腕合资公司",
+      "onboard_time": 1712073079,
+      "rank": 5,
+      "category": "网红"
     },
     {
       "raw_hot": 566174,
@@ -51,14 +67,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 535337,
-      "num": 535337,
-      "word": "小杨哥退出与美腕合资公司",
-      "onboard_time": 1712073079,
-      "rank": 5,
-      "category": "网红"
-    },
-    {
       "raw_hot": 499999,
       "num": 499999,
       "word": "家属求医生把癌症报告由晚期改为中期",
@@ -67,20 +75,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 492521,
-      "num": 79792,
-      "word": "15岁女孩失联遗体被找到家属发声",
-      "onboard_time": 1712091911,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 464913,
-      "num": 112461,
+      "raw_hot": 484220,
+      "num": 192416,
       "word": "28岁女子长期吃冰箱剩菜确诊胃癌",
       "onboard_time": 1712076974,
       "rank": 20,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 471915,
+      "num": 471915,
+      "word": "男子手术室外晕倒15秒后冲出一群医护",
+      "onboard_time": 1712083991,
+      "rank": 28,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 452552,
@@ -89,6 +97,14 @@
       "onboard_time": 1712064080,
       "rank": 6,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 431133,
+      "num": 278665,
+      "word": "方志敏的遗骸竟有两块胫骨戴着镣铐",
+      "onboard_time": 1712068581,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 421108,
@@ -123,20 +139,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 384508,
-      "num": 206155,
-      "word": "方志敏的遗骸竟有两块胫骨戴着镣铐",
-      "onboard_time": 1712068581,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 337061,
-      "num": 337061,
-      "word": "男子手术室外晕倒15秒后冲出一群医护",
-      "onboard_time": 1712083991,
-      "rank": 28,
-      "category": "社会正能量"
+      "raw_hot": 362595,
+      "num": 362595,
+      "word": "韩剧最强90花",
+      "onboard_time": 1712085310,
+      "rank": 22,
+      "category": "剧集"
     },
     {
       "raw_hot": 330888,
@@ -147,16 +155,8 @@
       "category": "演出"
     },
     {
-      "raw_hot": 293509,
-      "num": 293509,
-      "word": "韩剧最强90花",
-      "onboard_time": 1712085310,
-      "rank": 22,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 275645,
-      "num": 275645,
+      "raw_hot": 317072,
+      "num": 317072,
       "word": "新仙剑阿奴出场秒变菜狗",
       "onboard_time": 1712063061,
       "rank": 15,
@@ -177,6 +177,14 @@
       "onboard_time": 1712065521,
       "rank": 14,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 234783,
+      "num": 286990,
+      "word": "福宝欢迎回家",
+      "onboard_time": 1712065040,
+      "rank": 42,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 214323,
@@ -201,6 +209,14 @@
       "onboard_time": 1712071161,
       "rank": 20,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 206378,
+      "num": 206378,
+      "word": "南昌",
+      "onboard_time": 1712100436,
+      "rank": 18,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 201157,
@@ -251,11 +267,11 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 164645,
-      "num": 164645,
-      "word": "福宝欢迎回家",
-      "onboard_time": 1712065040,
-      "rank": 42,
+      "raw_hot": 161412,
+      "num": 161412,
+      "word": "9省份将有8至11级雷暴大风或冰雹",
+      "onboard_time": 1712090171,
+      "rank": 21,
       "category": "社会新闻"
     },
     {
@@ -275,6 +291,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 148899,
+      "num": 148899,
+      "word": "王阳王昱珩武大靖同台走秀",
+      "onboard_time": 1712098634,
+      "rank": 22,
+      "category": "作品衍生,体育"
+    },
+    {
+      "raw_hot": 144064,
+      "num": 144064,
+      "word": "宁艺卓疑似签售切小屏",
+      "onboard_time": 1712080633,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 143395,
       "num": 143395,
       "word": "秦岚的工作餐",
@@ -291,28 +323,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 140370,
-      "num": 96978,
-      "word": "宁艺卓疑似签售切小屏",
-      "onboard_time": 1712080633,
-      "rank": 11,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 138113,
       "num": 138113,
       "word": "服用紧急避孕药会影响生育吗",
       "onboard_time": 1712055139,
       "rank": 28,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 136896,
-      "num": 111166,
-      "word": "9省份将有8至11级雷暴大风或冰雹",
-      "onboard_time": 1712090171,
-      "rank": 21,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 133677,
@@ -328,6 +344,14 @@
       "word": "没想到兄弟你好香也能具象化",
       "onboard_time": 1712070681,
       "rank": 30,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 131320,
+      "num": 131320,
+      "word": "一学就会的春日拍照技巧",
+      "onboard_time": 1712099836,
+      "rank": 33,
       "category": "情感"
     },
     {
@@ -352,6 +376,14 @@
       "word": "赵灵儿蛇身特效",
       "onboard_time": 1712059279,
       "rank": 33,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 114638,
+      "num": 114638,
+      "word": "卢昱晓齐刘海",
+      "onboard_time": 1712083331,
+      "rank": 15,
       "category": "剧集"
     },
     {
@@ -387,14 +419,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 102420,
-      "num": 102420,
-      "word": "王阳王昱珩武大靖同台走秀",
-      "onboard_time": 1712098634,
-      "rank": 22,
-      "category": "作品衍生,体育"
-    },
-    {
       "raw_hot": 102314,
       "num": 102314,
       "word": "小楼 婚姻的魔力",
@@ -427,11 +451,11 @@
       "category": "财经"
     },
     {
-      "raw_hot": 99280,
-      "num": 99280,
-      "word": "卢昱晓齐刘海",
-      "onboard_time": 1712083331,
-      "rank": 15,
+      "raw_hot": 98251,
+      "num": 98251,
+      "word": "王一博哭得好真实",
+      "onboard_time": 1712092870,
+      "rank": 42,
       "category": "剧集"
     },
     {
@@ -441,6 +465,14 @@
       "onboard_time": 1712068819,
       "rank": 43,
       "category": "电影"
+    },
+    {
+      "raw_hot": 91813,
+      "num": 91813,
+      "word": "特斯拉股价年内已跌近三分之一",
+      "onboard_time": 1712100256,
+      "rank": 34,
+      "category": "财经,汽车"
     },
     {
       "raw_hot": 91725,
@@ -467,20 +499,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 89271,
-      "num": 89271,
-      "word": "王一博哭得好真实",
-      "onboard_time": 1712092870,
-      "rank": 42,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 86443,
       "num": 89957,
       "word": "章昊韩网被审判",
       "onboard_time": 1712055860,
       "rank": 46,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 83902,
+      "num": 83902,
+      "word": "C罗连场帽子戏法",
+      "onboard_time": 1712100376,
+      "rank": 35,
+      "category": "体育"
     },
     {
       "raw_hot": 79820,
@@ -499,6 +531,30 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 73461,
+      "num": 73461,
+      "word": "台湾嘉义县发生4.2级地震",
+      "onboard_time": 1712100097,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 73121,
+      "num": 73121,
+      "word": "这狗能处自己出去谈客户",
+      "onboard_time": 1712094130,
+      "rank": 41,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 73108,
+      "num": 73108,
+      "word": "紧急避孕药对身体危害有多大",
+      "onboard_time": 1712089451,
+      "rank": 37,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 72633,
       "num": 89680,
       "word": "NIP对战WE",
@@ -515,14 +571,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 64965,
-      "num": 64965,
-      "word": "一学就会的春日拍照技巧",
-      "onboard_time": 1712099836,
-      "rank": 33,
-      "category": "情感"
-    },
-    {
       "raw_hot": 64015,
       "num": 64015,
       "word": "大约80%的人存在鼻中隔偏曲",
@@ -531,20 +579,12 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 61896,
-      "num": 61896,
-      "word": "这狗能处自己出去谈客户",
-      "onboard_time": 1712094130,
-      "rank": 41,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 61445,
-      "num": 61445,
-      "word": "紧急避孕药对身体危害有多大",
-      "onboard_time": 1712089451,
-      "rank": 37,
-      "category": "健康医疗"
+      "raw_hot": 55454,
+      "num": 55454,
+      "word": "小米汽车回应交付问题",
+      "onboard_time": 1712100856,
+      "rank": 49,
+      "category": "汽车"
     },
     {
       "raw_hot": 50887,
@@ -595,6 +635,14 @@
       "category": "动漫,作品衍生"
     },
     {
+      "raw_hot": 26437,
+      "num": 277473,
+      "word": "被春日下互相敬礼这一幕暖到了",
+      "onboard_time": 1712100097,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 25282,
       "num": 26880,
       "word": "第一次水逆对12星座的影响",
@@ -619,7 +667,7 @@
       "category": "美妆"
     },
     {
-      "raw_hot": 3452,
+      "raw_hot": 3457,
       "num": 647690,
       "word": "中非互联网发展与合作论坛",
       "onboard_time": 1712044158,
