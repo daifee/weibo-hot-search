@@ -1,6 +1,6 @@
 {
   "startTime": 1711902044401,
-  "endTime": 1712071121850,
+  "endTime": 1712072069787,
   "band_list": [
     {
       "raw_hot": 12825415,
@@ -1211,6 +1211,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 583636,
+      "num": 430477,
+      "word": "当一个白富美经历家庭破产",
+      "onboard_time": 1712069061,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 583419,
       "num": 583419,
       "word": "新版赵灵儿 阴蚀王",
@@ -1939,14 +1947,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 383510,
-      "num": 383510,
-      "word": "当一个白富美经历家庭破产",
-      "onboard_time": 1712069061,
-      "rank": 13,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 383271,
       "num": 383271,
       "word": "金宇珍向StrayKids道歉",
@@ -2004,7 +2004,7 @@
     },
     {
       "raw_hot": 372482,
-      "num": 261888,
+      "num": 283267,
       "word": "小楼是谁",
       "onboard_time": 1712056640,
       "rank": 30,
@@ -2105,6 +2105,14 @@
       "onboard_time": 1712013677,
       "rank": 30,
       "category": "美食"
+    },
+    {
+      "raw_hot": 352413,
+      "num": 352413,
+      "word": "八年前的金智媛",
+      "onboard_time": 1712071519,
+      "rank": 14,
+      "category": "艺人"
     },
     {
       "raw_hot": 348254,
@@ -2219,20 +2227,20 @@
       "category": "电影"
     },
     {
+      "raw_hot": 332244,
+      "num": 332244,
+      "word": "看直播买了107件二手衣服",
+      "onboard_time": 1712065339,
+      "rank": 36,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 331392,
       "num": 331392,
       "word": "杨幂为粉丝考潜水证",
       "onboard_time": 1711981161,
       "rank": 21,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 331258,
-      "num": 331258,
-      "word": "看直播买了107件二手衣服",
-      "onboard_time": 1712065339,
-      "rank": 36,
-      "category": "幽默"
     },
     {
       "raw_hot": 329123,
@@ -2507,6 +2515,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 285391,
+      "num": 211494,
+      "word": "方志敏的遗骸竟有两块胫骨戴着镣铐",
+      "onboard_time": 1712068581,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 285364,
       "num": 285364,
       "word": "陈乔恩晒照纪念结婚两周年",
@@ -2609,14 +2625,6 @@
       "onboard_time": 1712038818,
       "rank": 22,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 270919,
-      "num": 211494,
-      "word": "方志敏的遗骸竟有两块胫骨戴着镣铐",
-      "onboard_time": 1712068581,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 270412,
@@ -2953,6 +2961,14 @@
       "onboard_time": 1712036299,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 239442,
+      "num": 239442,
+      "word": "郑合惠子 清醒的恋爱观",
+      "onboard_time": 1712071161,
+      "rank": 21,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 239377,
@@ -3465,6 +3481,14 @@
       "onboard_time": 1711948461,
       "rank": 34,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 204637,
+      "num": 204637,
+      "word": "NIP战胜WE",
+      "onboard_time": 1712071579,
+      "rank": 31,
+      "category": "电竞"
     },
     {
       "raw_hot": 204425,
@@ -4363,6 +4387,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 173751,
+      "num": 173751,
+      "word": "秦岚的工作餐",
+      "onboard_time": 1712071459,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 173737,
       "num": 173737,
       "word": "原来头像真的会影响第一印象",
@@ -4433,6 +4465,14 @@
       "onboard_time": 1711954761,
       "rank": 37,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 170379,
+      "num": 170379,
+      "word": "江西首次启动大风四级应急响应",
+      "onboard_time": 1712070979,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 170361,
@@ -5259,6 +5299,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 141062,
+      "num": 141062,
+      "word": "没想到兄弟你好香也能具象化",
+      "onboard_time": 1712070681,
+      "rank": 47,
+      "category": "情感"
+    },
+    {
       "raw_hot": 140464,
       "num": 140464,
       "word": "杨幂湄拉红发色",
@@ -5619,14 +5667,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 122888,
-      "num": 122888,
-      "word": "没想到兄弟你好香也能具象化",
-      "onboard_time": 1712070681,
-      "rank": 47,
-      "category": "情感"
-    },
-    {
       "raw_hot": 121213,
       "num": 121213,
       "word": "工作上一遇到挫折就想辞职",
@@ -5745,14 +5785,6 @@
       "onboard_time": 1712037799,
       "rank": 48,
       "category": "体育"
-    },
-    {
-      "raw_hot": 114570,
-      "num": 114570,
-      "word": "江西首次启动大风四级应急响应",
-      "onboard_time": 1712070979,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 114434,
