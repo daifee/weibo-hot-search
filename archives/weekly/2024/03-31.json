@@ -1,6 +1,6 @@
 {
   "startTime": 1711815680412,
-  "endTime": 1712046933530,
+  "endTime": 1712049491032,
   "band_list": [
     {
       "raw_hot": 12825415,
@@ -25,6 +25,14 @@
       "onboard_time": 1711951221,
       "rank": 3,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 3007172,
+      "num": 827890,
+      "word": "09 出轨",
+      "onboard_time": 1712047398,
+      "rank": 3,
+      "category": "电竞,网红"
     },
     {
       "raw_hot": 2947462,
@@ -65,6 +73,14 @@
       "onboard_time": 1711935739,
       "rank": 3,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2366508,
+      "num": 2366508,
+      "word": "放三天补一天的意义是什么",
+      "onboard_time": 1712047098,
+      "rank": 0,
+      "category": "情感"
     },
     {
       "raw_hot": 2171960,
@@ -1123,6 +1139,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 686137,
+      "num": 686137,
+      "word": "华为已撤回遥遥领先商标申请",
+      "onboard_time": 1712047518,
+      "rank": 7,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 680667,
       "num": 680667,
       "word": "HYBE是不是疯了",
@@ -1241,6 +1265,14 @@
       "onboard_time": 1711883597,
       "rank": 37,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 651046,
+      "num": 651046,
+      "word": "巴黎奥运排查出约800名不怀好意者",
+      "onboard_time": 1712046079,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 648978,
@@ -2371,6 +2403,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 394352,
+      "num": 322905,
+      "word": "还有比炸蛋更可怕的食物吗",
+      "onboard_time": 1712044939,
+      "rank": 27,
+      "category": "美食,健康医疗"
+    },
+    {
       "raw_hot": 390697,
       "num": 390697,
       "word": "赵弈钦短剧早已next level",
@@ -2505,14 +2545,6 @@
       "onboard_time": 1711943782,
       "rank": 19,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 376322,
-      "num": 376322,
-      "word": "巴黎奥运排查出约800名不怀好意者",
-      "onboard_time": 1712046079,
-      "rank": 49,
-      "category": "体育"
     },
     {
       "raw_hot": 376103,
@@ -2811,6 +2843,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 329123,
+      "num": 329123,
+      "word": "雷军称将举办小米SU7首批交付仪式",
+      "onboard_time": 1712045178,
+      "rank": 24,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 328323,
       "num": 328323,
       "word": "眼泪女王收视率",
@@ -2825,6 +2865,14 @@
       "onboard_time": 1711852937,
       "rank": 13,
       "category": "互联网,网红"
+    },
+    {
+      "raw_hot": 327945,
+      "num": 327945,
+      "word": "贝儿是长意妹妹",
+      "onboard_time": 1712047459,
+      "rank": 19,
+      "category": "剧集"
     },
     {
       "raw_hot": 327637,
@@ -3027,6 +3075,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 300961,
+      "num": 300961,
+      "word": "伊朗",
+      "onboard_time": 1712047518,
+      "rank": 21,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 299852,
       "num": 299852,
       "word": "赵奕欢回怼消失的她制片人",
@@ -3099,20 +3155,20 @@
       "category": "情感"
     },
     {
-      "raw_hot": 294327,
-      "num": 294327,
-      "word": "还有比炸蛋更可怕的食物吗",
-      "onboard_time": 1712044939,
-      "rank": 27,
-      "category": "美食,健康医疗"
-    },
-    {
       "raw_hot": 293343,
       "num": 293343,
       "word": "韩素希重启活动",
       "onboard_time": 1712030480,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 292381,
+      "num": 292381,
+      "word": "在美20岁中国女留学生校外身亡",
+      "onboard_time": 1712048720,
+      "rank": 23,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 292226,
@@ -3307,14 +3363,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 277212,
-      "num": 277212,
-      "word": "雷军称将举办小米SU7首批交付仪式",
-      "onboard_time": 1712045178,
-      "rank": 24,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 276382,
       "num": 276382,
       "word": "闪耀暖暖",
@@ -3419,6 +3467,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 268089,
+      "num": 268089,
+      "word": "这种螺一口吃出6000条寄生虫",
+      "onboard_time": 1712048300,
+      "rank": 25,
+      "category": "健康医疗,美食"
+    },
+    {
+      "raw_hot": 266416,
+      "num": 266416,
+      "word": "09 小舞",
+      "onboard_time": 1712049260,
+      "rank": 26,
+      "category": "电竞,网红"
+    },
+    {
       "raw_hot": 266135,
       "num": 266135,
       "word": "凯迪拉克回应海报暗讽小米SU7",
@@ -3449,6 +3513,14 @@
       "onboard_time": 1711947144,
       "rank": 30,
       "category": "情感"
+    },
+    {
+      "raw_hot": 262243,
+      "num": 262243,
+      "word": "辛云来演技 木",
+      "onboard_time": 1712046860,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 261979,
@@ -3753,6 +3825,14 @@
       "onboard_time": 1711969401,
       "rank": 41,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 241987,
+      "num": 241987,
+      "word": "法考证",
+      "onboard_time": 1712047638,
+      "rank": 30,
+      "category": "教育"
     },
     {
       "raw_hot": 241461,
@@ -4067,6 +4147,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 226161,
+      "num": 591205,
+      "word": "中方谴责针对伊朗驻叙使馆的袭击行为",
+      "onboard_time": 1712045958,
+      "rank": 48,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 225576,
       "num": 225576,
       "word": "门店回应买保时捷送小米SU7",
@@ -4177,6 +4265,14 @@
       "onboard_time": 1712035999,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 217060,
+      "num": 217060,
+      "word": "张杰杭州",
+      "onboard_time": 1712047158,
+      "rank": 31,
+      "category": "演出"
     },
     {
       "raw_hot": 216430,
@@ -4529,6 +4625,14 @@
       "onboard_time": 1711893319,
       "rank": 33,
       "category": "演出"
+    },
+    {
+      "raw_hot": 202533,
+      "num": 202533,
+      "word": "林智妍为宋慧乔应援",
+      "onboard_time": 1712047879,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 202172,
@@ -5483,6 +5587,14 @@
       "category": "艺人,汽车"
     },
     {
+      "raw_hot": 176280,
+      "num": 176280,
+      "word": "ELK被盗号",
+      "onboard_time": 1712048240,
+      "rank": 36,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 176101,
       "num": 176101,
       "word": "同事让公婆女儿蹭我的顺风车",
@@ -5859,6 +5971,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 162814,
+      "num": 162814,
+      "word": "四川一元一串的钵钵鸡火到了国外",
+      "onboard_time": 1712048300,
+      "rank": 38,
+      "category": "美食"
+    },
+    {
       "raw_hot": 162413,
       "num": 162413,
       "word": "摇太阳片尾曲是张杰唱的",
@@ -5899,6 +6019,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 159729,
+      "num": 159729,
+      "word": "2023年银行打工人薪酬曝光",
+      "onboard_time": 1712047039,
+      "rank": 39,
+      "category": "财经"
+    },
+    {
       "raw_hot": 159680,
       "num": 159680,
       "word": "难听",
@@ -5929,14 +6057,6 @@
       "onboard_time": 1712017701,
       "rank": 40,
       "category": "情感"
-    },
-    {
-      "raw_hot": 159359,
-      "num": 205482,
-      "word": "中方谴责针对伊朗驻叙使馆的袭击行为",
-      "onboard_time": 1712045958,
-      "rank": 48,
-      "category": "国外时政"
     },
     {
       "raw_hot": 159165,
@@ -5985,6 +6105,14 @@
       "onboard_time": 1712034561,
       "rank": 36,
       "category": "教育"
+    },
+    {
+      "raw_hot": 157984,
+      "num": 157984,
+      "word": "雷军最喜欢霞光紫",
+      "onboard_time": 1712049019,
+      "rank": 40,
+      "category": "汽车"
     },
     {
       "raw_hot": 157767,
@@ -6723,6 +6851,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 137704,
+      "num": 137704,
+      "word": "34家公司游戏收入超3000亿元",
+      "onboard_time": 1712048661,
+      "rank": 43,
+      "category": "游戏,财经"
+    },
+    {
       "raw_hot": 137599,
       "num": 137599,
       "word": "张颂文称喜欢橄榄绿SU7",
@@ -7315,6 +7451,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 108852,
+      "num": 108852,
+      "word": "全员加速中全员猎人",
+      "onboard_time": 1712049440,
+      "rank": 49,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 106062,
       "num": 106062,
       "word": "打雷",
@@ -7377,14 +7521,6 @@
       "onboard_time": 1711810700,
       "rank": 38,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 102884,
-      "num": 102884,
-      "word": "辛云来演技 木",
-      "onboard_time": 1712046860,
-      "rank": 49,
-      "category": "剧集"
     },
     {
       "raw_hot": 102125,
@@ -8038,6 +8174,9 @@
     },
     {
       "word": "#中方愿同印尼方一道跑好历史接力赛#"
+    },
+    {
+      "word": "#中印尼友好之轮始终破浪向前#"
     }
   ]
 }
