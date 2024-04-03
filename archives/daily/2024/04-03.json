@@ -1,6 +1,6 @@
 {
   "startTime": 1712074937436,
-  "endTime": 1712133248889,
+  "endTime": 1712135900868,
   "band_list": [
     {
       "raw_hot": 16874674,
@@ -83,6 +83,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1707338,
+      "num": 1289403,
+      "word": "网传小学生称我爷爷爸爸妈妈都是行长",
+      "onboard_time": 1712132120,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1684894,
       "num": 1684894,
       "word": "王婆说媒换人",
@@ -104,6 +112,14 @@
       "word": "辛者库幼儿园",
       "onboard_time": 1712125880,
       "rank": 8,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 1565791,
+      "num": 1565791,
+      "word": "4月和5月离职好亏",
+      "onboard_time": 1712132780,
+      "rank": 22,
       "category": "幽默"
     },
     {
@@ -179,14 +195,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1289403,
-      "num": 1289403,
-      "word": "网传小学生称我爷爷爸爸妈妈都是行长",
-      "onboard_time": 1712132120,
-      "rank": 16,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1261595,
       "num": 1261595,
       "word": "海啸到达日本冲绳与那国岛",
@@ -225,6 +233,14 @@
       "onboard_time": 1712110041,
       "rank": 10,
       "category": "体育,艺人"
+    },
+    {
+      "raw_hot": 1135898,
+      "num": 595412,
+      "word": "金价飙涨女子卖了60多万股票买金条",
+      "onboard_time": 1712133859,
+      "rank": 10,
+      "category": "财经"
     },
     {
       "raw_hot": 1118722,
@@ -267,6 +283,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1027349,
+      "num": 1027349,
+      "word": "王灿烫伤事件",
+      "onboard_time": 1712131940,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1025174,
       "num": 1025174,
       "word": "国安球迷杨雪丈夫发布讣告",
@@ -305,6 +329,14 @@
       "onboard_time": 1712112200,
       "rank": 7,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 916680,
+      "num": 916680,
+      "word": "死了三个月的带鱼",
+      "onboard_time": 1712133320,
+      "rank": 4,
+      "category": "剧集"
     },
     {
       "raw_hot": 865384,
@@ -355,6 +387,14 @@
       "category": "互联网,汽车"
     },
     {
+      "raw_hot": 793366,
+      "num": 793366,
+      "word": "农业发展银行",
+      "onboard_time": 1712132720,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 780259,
       "num": 780259,
       "word": "杭州东站",
@@ -371,6 +411,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 764321,
+      "num": 592061,
+      "word": "政审结束后被告知有五年服务期",
+      "onboard_time": 1712133320,
+      "rank": 11,
+      "category": "教育"
+    },
+    {
       "raw_hot": 748354,
       "num": 582368,
       "word": "放三天补一天的意义是什么",
@@ -385,14 +433,6 @@
       "onboard_time": 1712100436,
       "rank": 18,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 723969,
-      "num": 723969,
-      "word": "王灿烫伤事件",
-      "onboard_time": 1712131940,
-      "rank": 18,
-      "category": "艺人"
     },
     {
       "raw_hot": 691020,
@@ -651,6 +691,14 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 466012,
+      "num": 466012,
+      "word": "福宝到哪儿了",
+      "onboard_time": 1712133981,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 465975,
       "num": 465975,
       "word": "花莲一5层楼整栋倾斜",
@@ -745,6 +793,14 @@
       "onboard_time": 1712068581,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 430521,
+      "num": 430521,
+      "word": "于正说白鹿推荐的曾舜晞",
+      "onboard_time": 1712133800,
+      "rank": 18,
+      "category": "剧集"
     },
     {
       "raw_hot": 426737,
@@ -843,12 +899,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 389756,
+      "num": 389756,
+      "word": "台湾强震已致9人死亡",
+      "onboard_time": 1712135360,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 380796,
       "num": 380796,
       "word": "一人一句祝福接福宝回国",
       "onboard_time": 1712102478,
       "rank": 28,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 380637,
+      "num": 380637,
+      "word": "十个勤天 啥公司啊还要开家长会",
+      "onboard_time": 1712132421,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 379238,
@@ -891,12 +963,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 342375,
-      "num": 342375,
-      "word": "4月和5月离职好亏",
-      "onboard_time": 1712132780,
-      "rank": 22,
-      "category": "幽默"
+      "raw_hot": 342195,
+      "num": 342195,
+      "word": "小米内部员工可优惠购车",
+      "onboard_time": 1712134280,
+      "rank": 23,
+      "category": "汽车"
     },
     {
       "raw_hot": 340527,
@@ -971,14 +1043,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 310333,
-      "num": 310333,
-      "word": "十个勤天 啥公司啊还要开家长会",
-      "onboard_time": 1712132421,
-      "rank": 41,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 310154,
       "num": 310154,
       "word": "南昌震感",
@@ -1009,6 +1073,22 @@
       "onboard_time": 1712132601,
       "rank": 25,
       "category": "电竞,网红"
+    },
+    {
+      "raw_hot": 301210,
+      "num": 301210,
+      "word": "农发行总行回应男孩想当行长",
+      "onboard_time": 1712133081,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 301130,
+      "num": 276450,
+      "word": "月经出现这2种情况一定要去检查",
+      "onboard_time": 1712135119,
+      "rank": 30,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 295178,
@@ -1395,14 +1475,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 213717,
-      "num": 213717,
-      "word": "农业发展银行",
-      "onboard_time": 1712132720,
-      "rank": 36,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 210888,
       "num": 210888,
       "word": "怪盗基德 脸是最好的时尚单品",
@@ -1537,6 +1609,14 @@
       "onboard_time": 1712125341,
       "rank": 42,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 189963,
+      "num": 189963,
+      "word": "周棋洛 勇者如歌",
+      "onboard_time": 1712135060,
+      "rank": 39,
+      "category": "游戏"
     },
     {
       "raw_hot": 188981,
@@ -1691,14 +1771,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 159236,
-      "num": 159236,
-      "word": "农发行总行回应男孩想当行长",
-      "onboard_time": 1712133081,
-      "rank": 47,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 158228,
       "num": 158228,
       "word": "全宿舍都考上研了就我没考上",
@@ -1713,6 +1785,14 @@
       "onboard_time": 1712070979,
       "rank": 25,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 152644,
+      "num": 152644,
+      "word": "LadyGaga演小丑女",
+      "onboard_time": 1712135721,
+      "rank": 45,
+      "category": "电影"
     },
     {
       "raw_hot": 152007,
@@ -1755,6 +1835,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 143610,
+      "num": 143610,
+      "word": "WTT重庆冠军赛举办日期公布",
+      "onboard_time": 1712134641,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 143395,
       "num": 143395,
       "word": "秦岚的工作餐",
@@ -1777,6 +1865,14 @@
       "onboard_time": 1712055139,
       "rank": 28,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 134332,
+      "num": 134332,
+      "word": "工体将永远为杨雪保留座位",
+      "onboard_time": 1712135841,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 133677,
@@ -1993,6 +2089,14 @@
       "onboard_time": 1712100376,
       "rank": 35,
       "category": "体育"
+    },
+    {
+      "raw_hot": 81884,
+      "num": 452339,
+      "word": "首批车主已经提到小米SU7",
+      "onboard_time": 1712134340,
+      "rank": 15,
+      "category": "汽车"
     },
     {
       "raw_hot": 79820,
