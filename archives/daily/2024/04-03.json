@@ -1,6 +1,6 @@
 {
   "startTime": 1712074937436,
-  "endTime": 1712122458587,
+  "endTime": 1712125329189,
   "band_list": [
     {
       "raw_hot": 16874674,
@@ -195,6 +195,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1107694,
+      "num": 1107694,
+      "word": "吴京谢楠恋情被自己公司记者拍到",
+      "onboard_time": 1712123420,
+      "rank": 3,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1070106,
       "num": 1070106,
       "word": "台湾花莲县海域再发生6.0级地震",
@@ -211,12 +219,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1035066,
+      "num": 1035066,
+      "word": "12306",
+      "onboard_time": 1712123781,
+      "rank": 4,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 1025174,
       "num": 1025174,
       "word": "国安球迷杨雪丈夫发布讣告",
       "onboard_time": 1712117063,
       "rank": 7,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1021726,
+      "num": 1021726,
+      "word": "胖东来金价刚涨到593元",
+      "onboard_time": 1712120182,
+      "rank": 16,
+      "category": "财经"
     },
     {
       "raw_hot": 1006026,
@@ -241,14 +265,6 @@
       "onboard_time": 1712112200,
       "rank": 7,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 873519,
-      "num": 873519,
-      "word": "胖东来金价刚涨到593元",
-      "onboard_time": 1712120182,
-      "rank": 16,
-      "category": "财经"
     },
     {
       "raw_hot": 865384,
@@ -289,6 +305,14 @@
       "onboard_time": 1712108060,
       "rank": 20,
       "category": "教育"
+    },
+    {
+      "raw_hot": 802910,
+      "num": 802910,
+      "word": "王婆说媒换人",
+      "onboard_time": 1712123660,
+      "rank": 11,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 799710,
@@ -337,6 +361,14 @@
       "onboard_time": 1712103453,
       "rank": 18,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 601846,
+      "num": 601846,
+      "word": "原来散步才是真纯爱",
+      "onboard_time": 1712121683,
+      "rank": 27,
+      "category": "情感"
     },
     {
       "raw_hot": 599221,
@@ -441,6 +473,22 @@
       "onboard_time": 1712117663,
       "rank": 26,
       "category": "情感"
+    },
+    {
+      "raw_hot": 509078,
+      "num": 509078,
+      "word": "提灯定损涉事房东被行拘",
+      "onboard_time": 1712122162,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 504233,
+      "num": 504233,
+      "word": "陈赫张子萱一家新加坡度假",
+      "onboard_time": 1712124321,
+      "rank": 14,
+      "category": "艺人"
     },
     {
       "raw_hot": 502242,
@@ -699,6 +747,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 333635,
+      "num": 333635,
+      "word": "台湾未来3天可能还有7级地震",
+      "onboard_time": 1712121980,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 324733,
       "num": 324733,
       "word": "福宝启程回国现场画面",
@@ -771,14 +827,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 300567,
-      "num": 300567,
-      "word": "原来散步才是真纯爱",
-      "onboard_time": 1712121683,
-      "rank": 27,
-      "category": "情感"
-    },
-    {
       "raw_hot": 295178,
       "num": 295178,
       "word": "宁波震感",
@@ -793,6 +841,14 @@
       "onboard_time": 1712117902,
       "rank": 38,
       "category": "教育"
+    },
+    {
+      "raw_hot": 291043,
+      "num": 291043,
+      "word": "09给笑笑道歉",
+      "onboard_time": 1712122101,
+      "rank": 40,
+      "category": "电竞"
     },
     {
       "raw_hot": 289285,
@@ -817,6 +873,14 @@
       "onboard_time": 1712111780,
       "rank": 31,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 280650,
+      "num": 280650,
+      "word": "第五人格",
+      "onboard_time": 1712124021,
+      "rank": 31,
+      "category": "游戏"
     },
     {
       "raw_hot": 275439,
@@ -987,14 +1051,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 231288,
-      "num": 231288,
-      "word": "台湾未来3天可能还有7级地震",
-      "onboard_time": 1712121980,
-      "rank": 38,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 230551,
       "num": 230551,
       "word": "马立奥 我唱歌好听不听",
@@ -1025,14 +1081,6 @@
       "onboard_time": 1712109562,
       "rank": 36,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 224171,
-      "num": 224171,
-      "word": "09给笑笑道歉",
-      "onboard_time": 1712122101,
-      "rank": 40,
-      "category": "电竞"
     },
     {
       "raw_hot": 224085,
@@ -1067,14 +1115,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 217265,
-      "num": 217265,
-      "word": "提灯定损涉事房东被行拘",
-      "onboard_time": 1712122162,
-      "rank": 41,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 214323,
       "num": 214323,
       "word": "小楼是谁",
@@ -1089,6 +1129,14 @@
       "onboard_time": 1712116404,
       "rank": 42,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 213898,
+      "num": 213898,
+      "word": "我承认之前对幽兰太大声了",
+      "onboard_time": 1712121381,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 213840,
@@ -1131,20 +1179,20 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 206975,
-      "num": 206975,
-      "word": "我承认之前对幽兰太大声了",
-      "onboard_time": 1712121381,
-      "rank": 48,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 204744,
       "num": 204744,
       "word": "RIIZE完整版Siren",
       "onboard_time": 1712117243,
       "rank": 43,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 203665,
+      "num": 203665,
+      "word": "解说小楼",
+      "onboard_time": 1712123180,
+      "rank": 34,
+      "category": "电竞"
     },
     {
       "raw_hot": 201171,
@@ -1208,6 +1256,14 @@
       "word": "Girlsday时期的李惠利",
       "onboard_time": 1712112560,
       "rank": 45,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 188553,
+      "num": 188553,
+      "word": "林俊杰福州",
+      "onboard_time": 1712123300,
+      "rank": 36,
       "category": "演出"
     },
     {
@@ -1275,6 +1331,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 168725,
+      "num": 168725,
+      "word": "种地吧",
+      "onboard_time": 1712125161,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 166815,
       "num": 166815,
       "word": "16部治愈系动漫电影",
@@ -1289,6 +1353,14 @@
       "onboard_time": 1712090171,
       "rank": 21,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 161040,
+      "num": 161040,
+      "word": "喜欢旅游演唱会居然是相亲减分项",
+      "onboard_time": 1712124262,
+      "rank": 45,
+      "category": "情感"
     },
     {
       "raw_hot": 158228,
@@ -1315,12 +1387,28 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 151641,
+      "num": 151641,
+      "word": "魏大勋皮衣",
+      "onboard_time": 1712123840,
+      "rank": 47,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 148899,
       "num": 148899,
       "word": "王阳王昱珩武大靖同台走秀",
       "onboard_time": 1712098634,
       "rank": 22,
       "category": "作品衍生,体育"
+    },
+    {
+      "raw_hot": 148741,
+      "num": 148741,
+      "word": "眼泪女王未公开花絮",
+      "onboard_time": 1712124861,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 143395,
@@ -1633,6 +1721,14 @@
       "onboard_time": 1712092751,
       "rank": 44,
       "category": "财经"
+    },
+    {
+      "raw_hot": 38559,
+      "num": 147579,
+      "word": "vivo折叠屏又又又卖爆了",
+      "onboard_time": 1712125042,
+      "rank": 49,
+      "category": "数码"
     },
     {
       "raw_hot": 38268,

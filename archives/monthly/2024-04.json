@@ -1,6 +1,6 @@
 {
   "startTime": 1711902044401,
-  "endTime": 1712122458587,
+  "endTime": 1712125329189,
   "band_list": [
     {
       "raw_hot": 16874674,
@@ -595,6 +595,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1107694,
+      "num": 1107694,
+      "word": "吴京谢楠恋情被自己公司记者拍到",
+      "onboard_time": 1712123420,
+      "rank": 3,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1093436,
       "num": 567266,
       "word": "迈巴赫成都来福士连续碾压多人",
@@ -651,6 +659,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1035066,
+      "num": 1035066,
+      "word": "12306",
+      "onboard_time": 1712123781,
+      "rank": 4,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 1033457,
       "num": 1033457,
       "word": "代号鸢 跑路",
@@ -689,6 +705,14 @@
       "onboard_time": 1712117063,
       "rank": 7,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1021726,
+      "num": 1021726,
+      "word": "胖东来金价刚涨到593元",
+      "onboard_time": 1712120182,
+      "rank": 16,
+      "category": "财经"
     },
     {
       "raw_hot": 1015475,
@@ -859,14 +883,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 873519,
-      "num": 873519,
-      "word": "胖东来金价刚涨到593元",
-      "onboard_time": 1712120182,
-      "rank": 16,
-      "category": "财经"
-    },
-    {
       "raw_hot": 869845,
       "num": 869845,
       "word": "一百家站姐发了陈都灵",
@@ -977,6 +993,14 @@
       "onboard_time": 1711932561,
       "rank": 13,
       "category": "情感"
+    },
+    {
+      "raw_hot": 802910,
+      "num": 802910,
+      "word": "王婆说媒换人",
+      "onboard_time": 1712123660,
+      "rank": 11,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 802775,
@@ -1515,6 +1539,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 601846,
+      "num": 601846,
+      "word": "原来散步才是真纯爱",
+      "onboard_time": 1712121683,
+      "rank": 27,
+      "category": "情感"
+    },
+    {
       "raw_hot": 599221,
       "num": 599221,
       "word": "雷军称小米正式成为一家车厂",
@@ -1867,12 +1899,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 509078,
+      "num": 509078,
+      "word": "提灯定损涉事房东被行拘",
+      "onboard_time": 1712122162,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 506176,
       "num": 506176,
       "word": "黄旭熙中文还没郑雅娴说得好",
       "onboard_time": 1712031923,
       "rank": 21,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 504233,
+      "num": 504233,
+      "word": "陈赫张子萱一家新加坡度假",
+      "onboard_time": 1712124321,
+      "rank": 14,
+      "category": "艺人"
     },
     {
       "raw_hot": 502242,
@@ -2811,6 +2859,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 333635,
+      "num": 333635,
+      "word": "台湾未来3天可能还有7级地震",
+      "onboard_time": 1712121980,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 332617,
       "num": 332617,
       "word": "王一博维和警察穿搭",
@@ -3067,14 +3123,6 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 300567,
-      "num": 300567,
-      "word": "原来散步才是真纯爱",
-      "onboard_time": 1712121683,
-      "rank": 27,
-      "category": "情感"
-    },
-    {
       "raw_hot": 299718,
       "num": 299718,
       "word": "林一 幽我一默",
@@ -3145,6 +3193,14 @@
       "onboard_time": 1712059400,
       "rank": 21,
       "category": "情感"
+    },
+    {
+      "raw_hot": 291043,
+      "num": 291043,
+      "word": "09给笑笑道歉",
+      "onboard_time": 1712122101,
+      "rank": 40,
+      "category": "电竞"
     },
     {
       "raw_hot": 290865,
@@ -3265,6 +3321,14 @@
       "onboard_time": 1712017342,
       "rank": 24,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 280650,
+      "num": 280650,
+      "word": "第五人格",
+      "onboard_time": 1712124021,
+      "rank": 31,
+      "category": "游戏"
     },
     {
       "raw_hot": 280012,
@@ -3947,14 +4011,6 @@
       "category": "科学科普,互联网"
     },
     {
-      "raw_hot": 231288,
-      "num": 231288,
-      "word": "台湾未来3天可能还有7级地震",
-      "onboard_time": 1712121980,
-      "rank": 38,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 230551,
       "num": 230551,
       "word": "马立奥 我唱歌好听不听",
@@ -4081,14 +4137,6 @@
       "onboard_time": 1711945704,
       "rank": 41,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 224171,
-      "num": 224171,
-      "word": "09给笑笑道歉",
-      "onboard_time": 1712122101,
-      "rank": 40,
-      "category": "电竞"
     },
     {
       "raw_hot": 224085,
@@ -4219,14 +4267,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 217265,
-      "num": 217265,
-      "word": "提灯定损涉事房东被行拘",
-      "onboard_time": 1712122162,
-      "rank": 41,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 217147,
       "num": 217147,
       "word": "与凤行预告",
@@ -4281,6 +4321,14 @@
       "onboard_time": 1712116404,
       "rank": 42,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 213898,
+      "num": 213898,
+      "word": "我承认之前对幽兰太大声了",
+      "onboard_time": 1712121381,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 213808,
@@ -4427,14 +4475,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 206975,
-      "num": 206975,
-      "word": "我承认之前对幽兰太大声了",
-      "onboard_time": 1712121381,
-      "rank": 48,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 205980,
       "num": 205980,
       "word": "追风者周姨疯了",
@@ -4481,6 +4521,14 @@
       "onboard_time": 1712070380,
       "rank": 35,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 203665,
+      "num": 203665,
+      "word": "解说小楼",
+      "onboard_time": 1712123180,
+      "rank": 34,
+      "category": "电竞"
     },
     {
       "raw_hot": 203558,
@@ -5064,6 +5112,14 @@
       "word": "Girlsday时期的李惠利",
       "onboard_time": 1712112560,
       "rank": 45,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 188553,
+      "num": 188553,
+      "word": "林俊杰福州",
+      "onboard_time": 1712123300,
+      "rank": 36,
       "category": "演出"
     },
     {
@@ -5779,6 +5835,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 161040,
+      "num": 161040,
+      "word": "喜欢旅游演唱会居然是相亲减分项",
+      "onboard_time": 1712124262,
+      "rank": 45,
+      "category": "情感"
+    },
+    {
       "raw_hot": 160247,
       "num": 160247,
       "word": "小米汽车引发同行快速反应",
@@ -6083,6 +6147,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 151641,
+      "num": 151641,
+      "word": "魏大勋皮衣",
+      "onboard_time": 1712123840,
+      "rank": 47,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 151243,
       "num": 151243,
       "word": "雀魂联动蔚蓝档案",
@@ -6137,6 +6209,14 @@
       "onboard_time": 1711958181,
       "rank": 40,
       "category": "财经"
+    },
+    {
+      "raw_hot": 148741,
+      "num": 148741,
+      "word": "眼泪女王未公开花絮",
+      "onboard_time": 1712124861,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 148634,
@@ -7425,6 +7505,14 @@
       "onboard_time": 1711908493,
       "rank": 42,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 38559,
+      "num": 147579,
+      "word": "vivo折叠屏又又又卖爆了",
+      "onboard_time": 1712125042,
+      "rank": 49,
+      "category": "数码"
     },
     {
       "raw_hot": 38268,
