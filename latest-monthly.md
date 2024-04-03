@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/04/01 00:20:44 ~ 2024/04/04 00:38:13
+本榜单时间：2024/04/01 00:20:44 ~ 2024/04/04 01:15:48
 </p>
 </blockquote>
 <p>
@@ -3717,6 +3717,12 @@ Steam真人乙游上线（热度：233164）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%88%B1%E5%A5%87%E8%89%BA%E5%89%AF%E6%80%BB%E8%A3%81%E6%8E%A2%E7%8F%AD%E7%A7%8D%E5%9C%B0%E5%90%A7%23" target="weibo">
+爱奇艺副总裁探班种地吧（热度：229553）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E6%9C%9D%E9%98%B3%E8%AF%B435%E5%B2%81%E5%B9%B4%E9%BE%84%E6%AD%A7%E8%A7%86%E5%BE%88%E5%A5%87%E6%80%AA%23" target="weibo">
 张朝阳说35岁年龄歧视很奇怪（热度：229447）
 </a>
@@ -6005,12 +6011,6 @@ WBG对战iG战歌起（热度：143376）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%9C%86%E7%9C%9F%E7%9C%9F%E5%88%9B%E5%A7%8B%E4%BA%BA%E8%B0%A2%E7%91%B6%E4%BA%8F%E6%8E%891000%E4%B8%87%E6%91%86%E5%9C%B0%E6%91%8A%23" target="weibo">
 圆真真创始人谢瑶亏掉1000万摆地摊（热度：136911）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%8A%E9%A5%B6%E6%8F%90%E7%81%AF%E5%AE%9A%E6%8D%9F%E6%88%BF%E4%B8%9C%E8%A2%AB%E4%B8%BE%E6%8A%A5%E8%BF%9D%E5%BB%BA%23" target="weibo">
-上饶提灯定损房东被举报违建（热度：136815）
 </a>
 </li>
 
