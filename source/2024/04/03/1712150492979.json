@@ -1,0 +1,410 @@
+{
+  "runTime": 1712150492979,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3460382,
+        "num": 3460382,
+        "word": "福宝回家了",
+        "onboard_time": 1712143879,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1650933,
+        "num": 1650933,
+        "word": "退圈的徐正溪 杀回来的黑珑",
+        "onboard_time": 1712146640,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 363703,
+        "num": 1362279,
+        "word": "清明是唯一一个以节气命名的节日",
+        "onboard_time": 1712133320,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1081228,
+        "num": 1081228,
+        "word": "南京大学回应一考研生成绩第一被刷",
+        "onboard_time": 1712140280,
+        "rank": 3,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 1057010,
+        "num": 1057010,
+        "word": "福宝路上带的竹子没吃完",
+        "onboard_time": 1712147240,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 833631,
+        "num": 833631,
+        "word": "老师用P过的照片吸引同学来上课",
+        "onboard_time": 1712145859,
+        "rank": 5,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 736160,
+        "num": 736160,
+        "word": "姜爷爷和福宝",
+        "onboard_time": 1712147660,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 735570,
+        "num": 735570,
+        "word": "赵丽颖林更新情头",
+        "onboard_time": 1712141539,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 713633,
+        "num": 713633,
+        "word": "张元英ins",
+        "onboard_time": 1712143820,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 127667,
+        "num": 550253,
+        "word": "福宝最喜欢的花是油菜花",
+        "onboard_time": 1712137820,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 714336,
+        "num": 548952,
+        "word": "月经出现这2种情况一定要去检查",
+        "onboard_time": 1712135119,
+        "rank": 10,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 547444,
+        "num": 547444,
+        "word": "金价飙涨女子卖了60多万股票买金条",
+        "onboard_time": 1712133859,
+        "rank": 11,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 510002,
+        "num": 510002,
+        "word": "福宝户口",
+        "onboard_time": 1712148560,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 475907,
+        "num": 475907,
+        "word": "中国农发行纪检委已关注到想当行长的男孩",
+        "onboard_time": 1712138059,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 452533,
+        "num": 452533,
+        "word": "台湾地震已致10死934伤",
+        "onboard_time": 1712144899,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 437641,
+        "num": 437641,
+        "word": "福宝顺利抵达成都",
+        "onboard_time": 1712143879,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 413802,
+        "num": 413802,
+        "word": "台湾强震前网上现天空异象照片",
+        "onboard_time": 1712142921,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 412070,
+        "num": 412070,
+        "word": "赵丽颖林更新吻戏",
+        "onboard_time": 1712142738,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 387801,
+        "num": 387801,
+        "word": "BamBam 谈恋爱有什么错吗",
+        "onboard_time": 1712145200,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 359130,
+        "num": 359130,
+        "word": "大碗娱乐发声明",
+        "onboard_time": 1712150062,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 62615,
+        "num": 305919,
+        "word": "波司登做防晒衣也这么专业",
+        "onboard_time": 1712147179,
+        "rank": 20,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 425530,
+        "num": 298910,
+        "word": "吴磊直播流鼻血",
+        "onboard_time": 1712148859,
+        "rank": 21,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 409229,
+        "num": 296889,
+        "word": "每天吃1个鸡蛋身体会发生什么变化",
+        "onboard_time": 1712144119,
+        "rank": 22,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 289840,
+        "num": 289840,
+        "word": "高启兰用美人计我可不困了",
+        "onboard_time": 1712142199,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 282513,
+        "num": 282513,
+        "word": "当行长继承家产不能只当作童言无忌",
+        "onboard_time": 1712145560,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 281655,
+        "num": 281655,
+        "word": "上一个在机场这么喝的还是王宝强",
+        "onboard_time": 1712148920,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 278433,
+        "num": 278433,
+        "word": "胃癌就是这么一口一口吃出来的",
+        "onboard_time": 1712127921,
+        "rank": 26,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 273030,
+        "num": 273030,
+        "word": "薛之谦抢票",
+        "onboard_time": 1712146640,
+        "rank": 27,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 261376,
+        "num": 261376,
+        "word": "月薪4000要不要交社保",
+        "onboard_time": 1712141360,
+        "rank": 28,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 32642,
+        "num": 230839,
+        "word": "波司登showroom有点东西",
+        "onboard_time": 1712148381,
+        "rank": 29,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 228885,
+        "num": 228885,
+        "word": "福宝",
+        "onboard_time": 1712106804,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 226285,
+        "num": 226285,
+        "word": "华妃2.0",
+        "onboard_time": 1712143099,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 217460,
+        "num": 217460,
+        "word": "花芷比明兰幸福吧",
+        "onboard_time": 1712149400,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 202679,
+        "num": 202679,
+        "word": "大侦探真的好会让嘉宾社死",
+        "onboard_time": 1712146459,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 200198,
+        "num": 200198,
+        "word": "赵丽颖林更新回应二搭",
+        "onboard_time": 1712149520,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 198677,
+        "num": 198677,
+        "word": "男子要求2女孩陪酒被拒后动手打人",
+        "onboard_time": 1712143280,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 193604,
+        "num": 193604,
+        "word": "TF家族 高会",
+        "onboard_time": 1712147481,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 190788,
+        "num": 190788,
+        "word": "特斯拉免息",
+        "onboard_time": 1712146220,
+        "rank": 37,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 188026,
+        "num": 188026,
+        "word": "WBG 韦鲁斯上单",
+        "onboard_time": 1712147179,
+        "rank": 38,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 186887,
+        "num": 186887,
+        "word": "福宝直播",
+        "onboard_time": 1712144298,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 178639,
+        "num": 178639,
+        "word": "宫崎骏",
+        "onboard_time": 1712144000,
+        "rank": 40,
+        "category": "电影,动漫"
+      },
+      {
+        "raw_hot": 177699,
+        "num": 177699,
+        "word": "爷爷 最让我崩溃的不是你的死亡",
+        "onboard_time": 1712150480,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 173783,
+        "num": 173783,
+        "word": "王大陆家墙震裂了",
+        "onboard_time": 1712136321,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 607162,
+        "num": 173249,
+        "word": "张继科高级课程班学费每月9800元",
+        "onboard_time": 1712143159,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 171999,
+        "num": 171999,
+        "word": "福宝隔离期有多个工作组照顾",
+        "onboard_time": 1712144479,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 167889,
+        "num": 167889,
+        "word": "死了三个月的带鱼",
+        "onboard_time": 1712133320,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 166895,
+        "num": 166895,
+        "word": "福宝的未来生活什么样",
+        "onboard_time": 1712147000,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 165120,
+        "num": 165120,
+        "word": "张若昀唐艺昕公开恋情的原因",
+        "onboard_time": 1712126361,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 163123,
+        "num": 163123,
+        "word": "原神",
+        "onboard_time": 1712149280,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 152409,
+        "num": 152409,
+        "word": "LCK",
+        "onboard_time": 1712149581,
+        "rank": 49,
+        "category": "电竞"
+      }
+    ],
+    "hotgov": {
+      "word": "#中美关系要不折腾不挑事不越界#"
+    }
+  }
+}
