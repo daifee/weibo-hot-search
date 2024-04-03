@@ -1,6 +1,6 @@
 {
   "startTime": 1711902044401,
-  "endTime": 1712178972028,
+  "endTime": 1712180056080,
   "band_list": [
     {
       "raw_hot": 16874674,
@@ -9099,6 +9099,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 27765,
+      "num": 25266,
+      "word": "急性胰腺炎多半是吃出来的",
+      "onboard_time": 1712177591,
+      "rank": 36,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 27309,
       "num": 27309,
       "word": "夏目友人帐 唯美水中花",
@@ -9139,6 +9147,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 23858,
+      "num": 23858,
+      "word": "韩剧最强85生",
+      "onboard_time": 1712174350,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 22900,
       "num": 29196,
       "word": "父母对孩子情感漠视的影响有多大",
@@ -9155,14 +9171,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 21880,
-      "num": 21880,
-      "word": "韩剧最强85生",
-      "onboard_time": 1712174350,
-      "rank": 39,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 21716,
       "num": 186309,
       "word": "vivoXFold3轻薄得不像折叠屏",
@@ -9177,14 +9185,6 @@
       "onboard_time": 1712170932,
       "rank": 46,
       "category": "时尚"
-    },
-    {
-      "raw_hot": 20986,
-      "num": 20986,
-      "word": "急性胰腺炎多半是吃出来的",
-      "onboard_time": 1712177591,
-      "rank": 36,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 20228,
@@ -9211,7 +9211,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 14662,
+      "raw_hot": 17193,
       "num": 17832,
       "word": "论留学生父母有多离谱",
       "onboard_time": 1712178371,
