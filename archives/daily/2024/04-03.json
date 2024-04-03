@@ -1,6 +1,6 @@
 {
   "startTime": 1712074937436,
-  "endTime": 1712115261897,
+  "endTime": 1712118095662,
   "band_list": [
     {
       "raw_hot": 16874674,
@@ -27,19 +27,19 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 3252691,
+      "num": 3252691,
+      "word": "高铁停运",
+      "onboard_time": 1712112801,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2947527,
       "num": 2947527,
       "word": "日本海啸",
       "onboard_time": 1712104650,
       "rank": 4,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 2682158,
-      "num": 2682158,
-      "word": "高铁停运",
-      "onboard_time": 1712112801,
-      "rank": 5,
       "category": "社会新闻"
     },
     {
@@ -155,12 +155,36 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1103276,
+      "num": 1103276,
+      "word": "盛一伦家中震感",
+      "onboard_time": 1712115321,
+      "rank": 4,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1070106,
       "num": 1070106,
       "word": "台湾花莲县海域再发生6.0级地震",
       "onboard_time": 1712106388,
       "rank": 11,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1037297,
+      "num": 1037297,
+      "word": "台湾一豪宅顶楼游泳池变瀑布",
+      "onboard_time": 1712112981,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1025174,
+      "num": 1025174,
+      "word": "国安球迷杨雪丈夫发布讣告",
+      "onboard_time": 1712117063,
+      "rank": 7,
+      "category": "体育"
     },
     {
       "raw_hot": 944764,
@@ -179,11 +203,19 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 872044,
-      "num": 872044,
-      "word": "台湾一豪宅顶楼游泳池变瀑布",
-      "onboard_time": 1712112981,
-      "rank": 12,
+      "raw_hot": 921905,
+      "num": 921905,
+      "word": "台湾花莲地震已致4死",
+      "onboard_time": 1712116522,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 865384,
+      "num": 865384,
+      "word": "宋爷爷",
+      "onboard_time": 1712114122,
+      "rank": 38,
       "category": "社会新闻"
     },
     {
@@ -212,7 +244,7 @@
     },
     {
       "raw_hot": 827490,
-      "num": 410623,
+      "num": 412947,
       "word": "考研总成绩差0.01被录取",
       "onboard_time": 1712108060,
       "rank": 20,
@@ -299,14 +331,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 568833,
-      "num": 568833,
-      "word": "宋爷爷",
-      "onboard_time": 1712114122,
-      "rank": 38,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 566174,
       "num": 566174,
       "word": "当一个白富美经历家庭破产",
@@ -321,6 +345,14 @@
       "onboard_time": 1712076974,
       "rank": 20,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 544755,
+      "num": 544755,
+      "word": "边伯贤 香港",
+      "onboard_time": 1712115682,
+      "rank": 16,
+      "category": "演出"
     },
     {
       "raw_hot": 536088,
@@ -427,6 +459,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 436917,
+      "num": 436917,
+      "word": "台湾地震死亡人数升至2人",
+      "onboard_time": 1712115321,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 431133,
       "num": 278665,
       "word": "方志敏的遗骸竟有两块胫骨戴着镣铐",
@@ -483,6 +523,14 @@
       "category": "科学科普,健康医疗"
     },
     {
+      "raw_hot": 405033,
+      "num": 405033,
+      "word": "刘宇宁跟粉丝道歉",
+      "onboard_time": 1712113940,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 402693,
       "num": 402693,
       "word": "杨雪",
@@ -515,12 +563,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 374259,
-      "num": 374259,
-      "word": "刘宇宁跟粉丝道歉",
-      "onboard_time": 1712113940,
-      "rank": 35,
-      "category": "艺人"
+      "raw_hot": 370111,
+      "num": 370111,
+      "word": "与凤行团建定档",
+      "onboard_time": 1712116342,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 364797,
@@ -547,6 +595,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 352459,
+      "num": 352459,
+      "word": "四月桃花运最旺的星座",
+      "onboard_time": 1712117663,
+      "rank": 26,
+      "category": "情感"
+    },
+    {
       "raw_hot": 335411,
       "num": 335411,
       "word": "长沙震感",
@@ -569,6 +625,14 @@
       "onboard_time": 1712110521,
       "rank": 27,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 322051,
+      "num": 322051,
+      "word": "福宝启程回国现场画面",
+      "onboard_time": 1712116041,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 317072,
@@ -611,6 +675,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 289285,
+      "num": 289285,
+      "word": "台湾地震全岛摇晃1分钟",
+      "onboard_time": 1712115923,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 286156,
+      "num": 286156,
+      "word": "00后上班是为了下班",
+      "onboard_time": 1712116103,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 281958,
       "num": 265208,
       "word": "台湾花莲地震现场画面",
@@ -625,6 +705,14 @@
       "onboard_time": 1712110582,
       "rank": 37,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 274228,
+      "num": 274228,
+      "word": "周杰伦祝大家平安",
+      "onboard_time": 1712117363,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 270747,
@@ -651,6 +739,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 264395,
+      "num": 264395,
+      "word": "王一博cp感",
+      "onboard_time": 1712113642,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 262092,
       "num": 262092,
       "word": "杭州高层居民被晃晕跑下楼避险",
@@ -665,14 +761,6 @@
       "onboard_time": 1712109562,
       "rank": 31,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 259073,
-      "num": 259073,
-      "word": "王一博cp感",
-      "onboard_time": 1712113642,
-      "rank": 34,
-      "category": "剧集"
     },
     {
       "raw_hot": 249536,
@@ -721,6 +809,22 @@
       "onboard_time": 1712065521,
       "rank": 14,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 239242,
+      "num": 239242,
+      "word": "什么岗位会接受0经验",
+      "onboard_time": 1712115202,
+      "rank": 48,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 237296,
+      "num": 237296,
+      "word": "心太软的人没法当老师",
+      "onboard_time": 1712117902,
+      "rank": 38,
+      "category": "教育"
     },
     {
       "raw_hot": 232638,
@@ -787,12 +891,36 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 215988,
+      "num": 215988,
+      "word": "武艺的洁癖被公开处刑了",
+      "onboard_time": 1712117902,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 214476,
+      "num": 214476,
+      "word": "被一只北太平洋巨型章鱼抱住脚",
+      "onboard_time": 1712117602,
+      "rank": 41,
+      "category": "情感"
+    },
+    {
       "raw_hot": 214323,
       "num": 214323,
       "word": "小楼是谁",
       "onboard_time": 1712056640,
       "rank": 16,
       "category": "电竞,网红"
+    },
+    {
+      "raw_hot": 213919,
+      "num": 213919,
+      "word": "马英九希望大家一切平安",
+      "onboard_time": 1712116404,
+      "rank": 42,
+      "category": "国内时政"
     },
     {
       "raw_hot": 213840,
@@ -827,6 +955,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 204744,
+      "num": 204744,
+      "word": "RIIZE完整版Siren",
+      "onboard_time": 1712117243,
+      "rank": 43,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 201171,
       "num": 201171,
       "word": "为什么一些大学生关系越来越冷漠",
@@ -849,6 +985,22 @@
       "onboard_time": 1712113940,
       "rank": 40,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 194505,
+      "num": 194505,
+      "word": "就没有猫咪不敢揍的生物",
+      "onboard_time": 1712117602,
+      "rank": 44,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 192188,
+      "num": 192188,
+      "word": "永远不要把工作当成你的全部",
+      "onboard_time": 1712115081,
+      "rank": 45,
+      "category": "情感"
     },
     {
       "raw_hot": 191394,
@@ -907,14 +1059,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 172554,
-      "num": 172554,
-      "word": "永远不要把工作当成你的全部",
-      "onboard_time": 1712115081,
-      "rank": 45,
-      "category": "情感"
-    },
-    {
       "raw_hot": 170727,
       "num": 170727,
       "word": "看直播买了107件二手衣服",
@@ -945,14 +1089,6 @@
       "onboard_time": 1712090171,
       "rank": 21,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 158282,
-      "num": 158282,
-      "word": "什么岗位会接受0经验",
-      "onboard_time": 1712115202,
-      "rank": 48,
-      "category": "情感"
     },
     {
       "raw_hot": 158228,
@@ -1051,6 +1187,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 118527,
+      "num": 568240,
+      "word": "以闪亮之名周年庆",
+      "onboard_time": 1712116823,
+      "rank": 14,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 114638,
       "num": 114638,
       "word": "卢昱晓齐刘海",
@@ -1137,6 +1281,14 @@
       "onboard_time": 1712068819,
       "rank": 43,
       "category": "电影"
+    },
+    {
+      "raw_hot": 92558,
+      "num": 1547242,
+      "word": "清明给英烈写句话",
+      "onboard_time": 1712115621,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 91813,

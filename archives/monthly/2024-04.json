@@ -1,6 +1,6 @@
 {
   "startTime": 1711902044401,
-  "endTime": 1712115261897,
+  "endTime": 1712118095662,
   "band_list": [
     {
       "raw_hot": 16874674,
@@ -43,6 +43,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 3252691,
+      "num": 3252691,
+      "word": "高铁停运",
+      "onboard_time": 1712112801,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 3224657,
       "num": 3224657,
       "word": "法院认定郑爽无财产可供执行",
@@ -81,14 +89,6 @@
       "onboard_time": 1712047098,
       "rank": 0,
       "category": "情感"
-    },
-    {
-      "raw_hot": 2682158,
-      "num": 2682158,
-      "word": "高铁停运",
-      "onboard_time": 1712112801,
-      "rank": 5,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 2525703,
@@ -555,6 +555,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1103276,
+      "num": 1103276,
+      "word": "盛一伦家中震感",
+      "onboard_time": 1712115321,
+      "rank": 4,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1093436,
       "num": 567266,
       "word": "迈巴赫成都来福士连续碾压多人",
@@ -603,6 +611,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 1037297,
+      "num": 1037297,
+      "word": "台湾一豪宅顶楼游泳池变瀑布",
+      "onboard_time": 1712112981,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1033457,
       "num": 1033457,
       "word": "代号鸢 跑路",
@@ -633,6 +649,14 @@
       "onboard_time": 1711952660,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1025174,
+      "num": 1025174,
+      "word": "国安球迷杨雪丈夫发布讣告",
+      "onboard_time": 1712117063,
+      "rank": 7,
+      "category": "体育"
     },
     {
       "raw_hot": 1015475,
@@ -755,6 +779,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 921905,
+      "num": 921905,
+      "word": "台湾花莲地震已致4死",
+      "onboard_time": 1712116522,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 904022,
       "num": 904022,
       "word": "躁郁症比抑郁症更严重",
@@ -795,14 +827,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 872044,
-      "num": 872044,
-      "word": "台湾一豪宅顶楼游泳池变瀑布",
-      "onboard_time": 1712112981,
-      "rank": 12,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 869845,
       "num": 869845,
       "word": "一百家站姐发了陈都灵",
@@ -817,6 +841,14 @@
       "onboard_time": 1711945946,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 865384,
+      "num": 865384,
+      "word": "宋爷爷",
+      "onboard_time": 1712114122,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 858452,
@@ -860,7 +892,7 @@
     },
     {
       "raw_hot": 827490,
-      "num": 410623,
+      "num": 412947,
       "word": "考研总成绩差0.01被录取",
       "onboard_time": 1712108060,
       "rank": 20,
@@ -1539,14 +1571,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 568833,
-      "num": 568833,
-      "word": "宋爷爷",
-      "onboard_time": 1712114122,
-      "rank": 38,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 568561,
       "num": 568561,
       "word": "24岁我还不能和男朋友出去旅游",
@@ -1625,6 +1649,14 @@
       "onboard_time": 1712076974,
       "rank": 20,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 544755,
+      "num": 544755,
+      "word": "边伯贤 香港",
+      "onboard_time": 1712115682,
+      "rank": 16,
+      "category": "演出"
     },
     {
       "raw_hot": 543477,
@@ -2043,6 +2075,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 436917,
+      "num": 436917,
+      "word": "台湾地震死亡人数升至2人",
+      "onboard_time": 1712115321,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 436748,
       "num": 436748,
       "word": "蓝色真的能抑制一切食欲",
@@ -2251,6 +2291,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 405033,
+      "num": 405033,
+      "word": "刘宇宁跟粉丝道歉",
+      "onboard_time": 1712113940,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 398440,
       "num": 331477,
       "word": "物业回应南昌一小区窗框吹落3人坠亡",
@@ -2411,14 +2459,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 374259,
-      "num": 374259,
-      "word": "刘宇宁跟粉丝道歉",
-      "onboard_time": 1712113940,
-      "rank": 35,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 372958,
       "num": 372958,
       "word": "李洙赫回关邓为",
@@ -2449,6 +2489,14 @@
       "onboard_time": 1711930038,
       "rank": 22,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 370111,
+      "num": 370111,
+      "word": "与凤行团建定档",
+      "onboard_time": 1712116342,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 368929,
@@ -2552,6 +2600,14 @@
       "word": "狗狗为什么喜欢嘬嘬嘬的声音",
       "onboard_time": 1712111121,
       "rank": 30,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 352459,
+      "num": 352459,
+      "word": "四月桃花运最旺的星座",
+      "onboard_time": 1712117663,
+      "rank": 26,
       "category": "情感"
     },
     {
@@ -2753,6 +2809,14 @@
       "onboard_time": 1711950802,
       "rank": 22,
       "category": "情感"
+    },
+    {
+      "raw_hot": 322051,
+      "num": 322051,
+      "word": "福宝启程回国现场画面",
+      "onboard_time": 1712116041,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 320205,
@@ -2971,6 +3035,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 289285,
+      "num": 289285,
+      "word": "台湾地震全岛摇晃1分钟",
+      "onboard_time": 1712115923,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 288371,
       "num": 288371,
       "word": "郑元畅不知道唐禹哲有两个小孩",
@@ -3009,6 +3081,14 @@
       "onboard_time": 1712016859,
       "rank": 23,
       "category": "财经"
+    },
+    {
+      "raw_hot": 286156,
+      "num": 286156,
+      "word": "00后上班是为了下班",
+      "onboard_time": 1712116103,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 285364,
@@ -3123,6 +3203,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 274228,
+      "num": 274228,
+      "word": "周杰伦祝大家平安",
+      "onboard_time": 1712117363,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 271912,
       "num": 271912,
       "word": "王珞丹给陶昕然送麝香",
@@ -3219,6 +3307,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 264395,
+      "num": 264395,
+      "word": "王一博cp感",
+      "onboard_time": 1712113642,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 262243,
       "num": 262243,
       "word": "辛云来演技 木",
@@ -3297,14 +3393,6 @@
       "onboard_time": 1712109562,
       "rank": 31,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 259073,
-      "num": 259073,
-      "word": "王一博cp感",
-      "onboard_time": 1712113642,
-      "rank": 34,
-      "category": "剧集"
     },
     {
       "raw_hot": 258344,
@@ -3571,6 +3659,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 239242,
+      "num": 239242,
+      "word": "什么岗位会接受0经验",
+      "onboard_time": 1712115202,
+      "rank": 48,
+      "category": "情感"
+    },
+    {
       "raw_hot": 238984,
       "num": 238984,
       "word": "家人因债务拒绝继承价值400万别墅",
@@ -3585,6 +3681,14 @@
       "onboard_time": 1711901659,
       "rank": 22,
       "category": "演出"
+    },
+    {
+      "raw_hot": 237296,
+      "num": 237296,
+      "word": "心太软的人没法当老师",
+      "onboard_time": 1712117902,
+      "rank": 38,
+      "category": "教育"
     },
     {
       "raw_hot": 235786,
@@ -3963,6 +4067,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 215988,
+      "num": 215988,
+      "word": "武艺的洁癖被公开处刑了",
+      "onboard_time": 1712117902,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 215130,
       "num": 215130,
       "word": "国际乒联排名",
@@ -3979,6 +4091,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 214476,
+      "num": 214476,
+      "word": "被一只北太平洋巨型章鱼抱住脚",
+      "onboard_time": 1712117602,
+      "rank": 41,
+      "category": "情感"
+    },
+    {
       "raw_hot": 214339,
       "num": 214339,
       "word": "熬夜后喝这3种水超伤心血管",
@@ -3993,6 +4113,14 @@
       "onboard_time": 1712013136,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 213919,
+      "num": 213919,
+      "word": "马英九希望大家一切平安",
+      "onboard_time": 1712116404,
+      "rank": 42,
+      "category": "国内时政"
     },
     {
       "raw_hot": 213808,
@@ -4144,6 +4272,14 @@
       "word": "张杰巅峰盛典全程",
       "onboard_time": 1711948461,
       "rank": 34,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 204744,
+      "num": 204744,
+      "word": "RIIZE完整版Siren",
+      "onboard_time": 1712117243,
+      "rank": 43,
       "category": "音乐"
     },
     {
@@ -4507,6 +4643,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 194505,
+      "num": 194505,
+      "word": "就没有猫咪不敢揍的生物",
+      "onboard_time": 1712117602,
+      "rank": 44,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 194383,
       "num": 194383,
       "word": "15岁女孩赛艇训练失联遗体被找到",
@@ -4601,6 +4745,14 @@
       "onboard_time": 1712065401,
       "rank": 38,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 192188,
+      "num": 192188,
+      "word": "永远不要把工作当成你的全部",
+      "onboard_time": 1712115081,
+      "rank": 45,
+      "category": "情感"
     },
     {
       "raw_hot": 192153,
@@ -5131,14 +5283,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 172554,
-      "num": 172554,
-      "word": "永远不要把工作当成你的全部",
-      "onboard_time": 1712115081,
-      "rank": 45,
-      "category": "情感"
-    },
-    {
       "raw_hot": 172299,
       "num": 172299,
       "word": "矣进宏CBA首秀",
@@ -5553,14 +5697,6 @@
       "onboard_time": 1712049980,
       "rank": 36,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 158282,
-      "num": 158282,
-      "word": "什么岗位会接受0经验",
-      "onboard_time": 1712115202,
-      "rank": 48,
-      "category": "情感"
     },
     {
       "raw_hot": 158275,
@@ -6491,6 +6627,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 118527,
+      "num": 568240,
+      "word": "以闪亮之名周年庆",
+      "onboard_time": 1712116823,
+      "rank": 14,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 117578,
       "num": 117578,
       "word": "谢楠 补充夸一下吴磊弟弟吧",
@@ -6745,6 +6889,14 @@
       "onboard_time": 1712004069,
       "rank": 21,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 92558,
+      "num": 1547242,
+      "word": "清明给英烈写句话",
+      "onboard_time": 1712115621,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 91813,

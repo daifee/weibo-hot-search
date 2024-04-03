@@ -1,0 +1,410 @@
+{
+  "runTime": 1712118095662,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 6774725,
+        "num": 6774725,
+        "word": "台湾花莲县海域7.3级地震",
+        "onboard_time": 1712103872,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 3252691,
+        "num": 3252691,
+        "word": "高铁停运",
+        "onboard_time": 1712112801,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 92558,
+        "num": 1547242,
+        "word": "清明给英烈写句话",
+        "onboard_time": 1712115621,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1229015,
+        "num": 1229015,
+        "word": "福宝",
+        "onboard_time": 1712106804,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1103276,
+        "num": 1103276,
+        "word": "盛一伦家中震感",
+        "onboard_time": 1712115321,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1043103,
+        "num": 1043103,
+        "word": "今天上班只干一件事",
+        "onboard_time": 1712108004,
+        "rank": 5,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 1037297,
+        "num": 1037297,
+        "word": "台湾一豪宅顶楼游泳池变瀑布",
+        "onboard_time": 1712112981,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1025174,
+        "num": 1025174,
+        "word": "国安球迷杨雪丈夫发布讣告",
+        "onboard_time": 1712117063,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1007749,
+        "num": 1007749,
+        "word": "上海女婿阿福宣布离婚",
+        "onboard_time": 1712112739,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 164308,
+        "num": 950207,
+        "word": "小学生走失被带去派出所后搞起吃播",
+        "onboard_time": 1712102299,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 921905,
+        "num": 921905,
+        "word": "台湾花莲地震已致4死",
+        "onboard_time": 1712116522,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 865384,
+        "num": 865384,
+        "word": "宋爷爷",
+        "onboard_time": 1712114122,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 815422,
+        "num": 815422,
+        "word": "我国发布海啸红色警报",
+        "onboard_time": 1712105667,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 579425,
+        "num": 579425,
+        "word": "日本海啸",
+        "onboard_time": 1712104650,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 118527,
+        "num": 568240,
+        "word": "以闪亮之名周年庆",
+        "onboard_time": 1712116823,
+        "rank": 14,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 563998,
+        "num": 563998,
+        "word": "雷军给小米车主开车门",
+        "onboard_time": 1712111241,
+        "rank": 15,
+        "category": "互联网,汽车"
+      },
+      {
+        "raw_hot": 544755,
+        "num": 544755,
+        "word": "边伯贤 香港",
+        "onboard_time": 1712115682,
+        "rank": 16,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 506241,
+        "num": 506241,
+        "word": "黑皮果然会让颜值下降",
+        "onboard_time": 1712108481,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 480411,
+        "num": 480411,
+        "word": "韩国民众冒雨排队送别福宝",
+        "onboard_time": 1712112200,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 440355,
+        "num": 440355,
+        "word": "冉莹颖回忆孕期上岸北大",
+        "onboard_time": 1712110041,
+        "rank": 19,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 436917,
+        "num": 436917,
+        "word": "台湾地震死亡人数升至2人",
+        "onboard_time": 1712115321,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 412947,
+        "num": 412947,
+        "word": "考研总成绩差0.01被录取",
+        "onboard_time": 1712108060,
+        "rank": 21,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 405033,
+        "num": 405033,
+        "word": "刘宇宁跟粉丝道歉",
+        "onboard_time": 1712113940,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 394958,
+        "num": 394958,
+        "word": "茶百道 还不开始",
+        "onboard_time": 1712114002,
+        "rank": 23,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 381371,
+        "num": 381371,
+        "word": "赵奕欢36岁身材管理",
+        "onboard_time": 1712113101,
+        "rank": 24,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 370111,
+        "num": 370111,
+        "word": "与凤行团建定档",
+        "onboard_time": 1712116342,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 352459,
+        "num": 352459,
+        "word": "四月桃花运最旺的星座",
+        "onboard_time": 1712117663,
+        "rank": 26,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 339438,
+        "num": 339438,
+        "word": "雷军宣布小米SU7锁单量超4万",
+        "onboard_time": 1712112860,
+        "rank": 27,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 322051,
+        "num": 322051,
+        "word": "福宝启程回国现场画面",
+        "onboard_time": 1712116041,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 289285,
+        "num": 289285,
+        "word": "台湾地震全岛摇晃1分钟",
+        "onboard_time": 1712115923,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 286156,
+        "num": 286156,
+        "word": "00后上班是为了下班",
+        "onboard_time": 1712116103,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 274228,
+        "num": 274228,
+        "word": "周杰伦祝大家平安",
+        "onboard_time": 1712117363,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 267760,
+        "num": 267760,
+        "word": "花间令剧本写了十年",
+        "onboard_time": 1712113461,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 264395,
+        "num": 264395,
+        "word": "王一博cp感",
+        "onboard_time": 1712113642,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 260320,
+        "num": 260320,
+        "word": "台湾又发5.9级地震",
+        "onboard_time": 1712106208,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 247495,
+        "num": 247495,
+        "word": "狗狗为什么喜欢嘬嘬嘬的声音",
+        "onboard_time": 1712111121,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 239242,
+        "num": 239242,
+        "word": "什么岗位会接受0经验",
+        "onboard_time": 1712115202,
+        "rank": 36,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 237852,
+        "num": 237852,
+        "word": "权志龙要开演唱会了",
+        "onboard_time": 1712108004,
+        "rank": 37,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 237296,
+        "num": 237296,
+        "word": "心太软的人没法当老师",
+        "onboard_time": 1712117902,
+        "rank": 38,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 236601,
+        "num": 236601,
+        "word": "福宝欢迎回家",
+        "onboard_time": 1712065040,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 215988,
+        "num": 215988,
+        "word": "武艺的洁癖被公开处刑了",
+        "onboard_time": 1712117902,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 214476,
+        "num": 214476,
+        "word": "被一只北太平洋巨型章鱼抱住脚",
+        "onboard_time": 1712117602,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 213919,
+        "num": 213919,
+        "word": "马英九希望大家一切平安",
+        "onboard_time": 1712116404,
+        "rank": 42,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 204744,
+        "num": 204744,
+        "word": "RIIZE完整版Siren",
+        "onboard_time": 1712117243,
+        "rank": 43,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 194505,
+        "num": 194505,
+        "word": "就没有猫咪不敢揍的生物",
+        "onboard_time": 1712117602,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 192642,
+        "num": 192642,
+        "word": "台湾龟山岛山体崩塌",
+        "onboard_time": 1712108660,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 192188,
+        "num": 192188,
+        "word": "永远不要把工作当成你的全部",
+        "onboard_time": 1712115081,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 186897,
+        "num": 186897,
+        "word": "海啸到达日本冲绳与那国岛",
+        "onboard_time": 1712106027,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 181381,
+        "num": 181381,
+        "word": "台湾花莲县海域再发生6.0级地震",
+        "onboard_time": 1712106388,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 179600,
+        "num": 179600,
+        "word": "黄子佼性骚扰案获不起诉",
+        "onboard_time": 1712114362,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#中印尼友好之轮始终破浪向前#"
+    }
+  }
+}
