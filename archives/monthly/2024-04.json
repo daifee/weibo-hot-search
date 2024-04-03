@@ -1,6 +1,6 @@
 {
   "startTime": 1711902044401,
-  "endTime": 1712182559996,
+  "endTime": 1712183650757,
   "band_list": [
     {
       "raw_hot": 16874674,
@@ -3267,6 +3267,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 366705,
+      "num": 124434,
+      "word": "宝宝栽倒水桶溺亡奶奶数次经过未发现",
+      "onboard_time": 1712167932,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 366377,
       "num": 309860,
       "word": "清明还没到 男二人没了",
@@ -4153,14 +4161,6 @@
       "onboard_time": 1712119703,
       "rank": 31,
       "category": "财经"
-    },
-    {
-      "raw_hot": 272566,
-      "num": 101628,
-      "word": "宝宝栽倒水桶溺亡奶奶数次经过未发现",
-      "onboard_time": 1712167932,
-      "rank": 32,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 271912,
@@ -8603,6 +8603,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 98460,
+      "num": 41804,
+      "word": "急性胰腺炎多半是吃出来的",
+      "onboard_time": 1712177591,
+      "rank": 36,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 98455,
       "num": 124624,
       "word": "发传单教授",
@@ -8729,14 +8737,6 @@
       "onboard_time": 1711908311,
       "rank": 47,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 74935,
-      "num": 35385,
-      "word": "急性胰腺炎多半是吃出来的",
-      "onboard_time": 1712177591,
-      "rank": 36,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 73804,
@@ -9011,6 +9011,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 42628,
+      "num": 42628,
+      "word": "与凤行大结局点映礼",
+      "onboard_time": 1712174650,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 38776,
       "num": 38776,
       "word": "王劲松出演拜月教主",
@@ -9035,20 +9043,20 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 35089,
-      "num": 35089,
-      "word": "与凤行大结局点映礼",
-      "onboard_time": 1712174650,
-      "rank": 25,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 34601,
       "num": 34601,
       "word": "张婧仪演破产豪门",
       "onboard_time": 1712079853,
       "rank": 34,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 34566,
+      "num": 34566,
+      "word": "果然猫界中三花最美",
+      "onboard_time": 1712170393,
+      "rank": 41,
+      "category": "幽默"
     },
     {
       "raw_hot": 34344,
@@ -9067,6 +9075,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 33989,
+      "num": 179238,
+      "word": "春天很好只是太想你",
+      "onboard_time": 1712155103,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 33969,
       "num": 33969,
       "word": "我们是冠军",
@@ -9083,12 +9099,20 @@
       "category": "演出"
     },
     {
-      "raw_hot": 31460,
-      "num": 31460,
-      "word": "果然猫界中三花最美",
-      "onboard_time": 1712170393,
-      "rank": 41,
-      "category": "幽默"
+      "raw_hot": 30243,
+      "num": 30243,
+      "word": "追风者 民国四大家族",
+      "onboard_time": 1712180591,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 30044,
+      "num": 30044,
+      "word": "与凤行中式恐怖密室团综",
+      "onboard_time": 1712182391,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 29757,
@@ -9107,12 +9131,36 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 27508,
+      "num": 27508,
+      "word": "满足对晚礼服的所有想象",
+      "onboard_time": 1712170932,
+      "rank": 46,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 27309,
       "num": 27309,
       "word": "夏目友人帐 唯美水中花",
       "onboard_time": 1712080992,
       "rank": 42,
       "category": "动漫,作品衍生"
+    },
+    {
+      "raw_hot": 27163,
+      "num": 27163,
+      "word": "韩剧最强85生",
+      "onboard_time": 1712174350,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 27144,
+      "num": 27144,
+      "word": "论留学生父母有多离谱",
+      "onboard_time": 1712178371,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 26437,
@@ -9131,36 +9179,12 @@
       "category": "情感,网红"
     },
     {
-      "raw_hot": 25269,
-      "num": 25269,
-      "word": "韩剧最强85生",
-      "onboard_time": 1712174350,
-      "rank": 39,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 25141,
-      "num": 144144,
-      "word": "春天很好只是太想你",
-      "onboard_time": 1712155103,
-      "rank": 2,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 24817,
       "num": 1131105,
       "word": "我国成功发射遥感四十二号01星",
       "onboard_time": 1712101878,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 24490,
-      "num": 24490,
-      "word": "论留学生父母有多离谱",
-      "onboard_time": 1712178371,
-      "rank": 48,
-      "category": "幽默"
     },
     {
       "raw_hot": 23884,
@@ -9187,22 +9211,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 22317,
-      "num": 22317,
-      "word": "满足对晚礼服的所有想象",
-      "onboard_time": 1712170932,
-      "rank": 46,
-      "category": "时尚"
-    },
-    {
-      "raw_hot": 21885,
-      "num": 21885,
-      "word": "追风者 民国四大家族",
-      "onboard_time": 1712180591,
-      "rank": 45,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 21716,
       "num": 186309,
       "word": "vivoXFold3轻薄得不像折叠屏",
@@ -9217,14 +9225,6 @@
       "onboard_time": 1711999571,
       "rank": 44,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 19637,
-      "num": 19637,
-      "word": "与凤行中式恐怖密室团综",
-      "onboard_time": 1712182391,
-      "rank": 48,
-      "category": "剧集"
     },
     {
       "raw_hot": 18220,
