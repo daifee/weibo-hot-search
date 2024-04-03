@@ -1,6 +1,6 @@
 {
   "startTime": 1711815680412,
-  "endTime": 1712135900868,
+  "endTime": 1712136896897,
   "band_list": [
     {
       "raw_hot": 16874674,
@@ -369,6 +369,14 @@
       "onboard_time": 1712037859,
       "rank": 3,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1621834,
+      "num": 1621834,
+      "word": "金价飙涨女子卖了60多万股票买金条",
+      "onboard_time": 1712133859,
+      "rank": 10,
+      "category": "财经"
     },
     {
       "raw_hot": 1604055,
@@ -795,14 +803,6 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 1135898,
-      "num": 595412,
-      "word": "金价飙涨女子卖了60多万股票买金条",
-      "onboard_time": 1712133859,
-      "rank": 10,
-      "category": "财经"
-    },
-    {
       "raw_hot": 1132862,
       "num": 1132862,
       "word": "在人间官宣",
@@ -1195,6 +1195,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 859326,
+      "num": 859326,
+      "word": "政审结束后被告知有五年服务期",
+      "onboard_time": 1712133320,
+      "rank": 11,
+      "category": "教育"
+    },
+    {
       "raw_hot": 858452,
       "num": 858452,
       "word": "宋江入伍",
@@ -1209,6 +1217,14 @@
       "onboard_time": 1711975940,
       "rank": 1,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 854338,
+      "num": 854338,
+      "word": "农业发展银行",
+      "onboard_time": 1712132720,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 829840,
@@ -1355,14 +1371,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 793366,
-      "num": 793366,
-      "word": "农业发展银行",
-      "onboard_time": 1712132720,
-      "rank": 36,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 792888,
       "num": 792888,
       "word": "babymonster直播",
@@ -1457,14 +1465,6 @@
       "onboard_time": 1711872558,
       "rank": 28,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 764321,
-      "num": 592061,
-      "word": "政审结束后被告知有五年服务期",
-      "onboard_time": 1712133320,
-      "rank": 11,
-      "category": "教育"
     },
     {
       "raw_hot": 757999,
@@ -1665,6 +1665,14 @@
       "onboard_time": 1711963760,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 688580,
+      "num": 688580,
+      "word": "台湾强震已致9人死亡",
+      "onboard_time": 1712135360,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 688097,
@@ -2179,6 +2187,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 576554,
+      "num": 576554,
+      "word": "月经出现这2种情况一定要去检查",
+      "onboard_time": 1712135119,
+      "rank": 30,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 573993,
       "num": 573993,
       "word": "相柳战死图",
@@ -2217,6 +2233,14 @@
       "onboard_time": 1712064319,
       "rank": 32,
       "category": "教育"
+    },
+    {
+      "raw_hot": 565853,
+      "num": 565853,
+      "word": "福宝到哪儿了",
+      "onboard_time": 1712133981,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 565300,
@@ -2747,6 +2771,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 483322,
+      "num": 483322,
+      "word": "王大陆家墙震裂了",
+      "onboard_time": 1712136321,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 483022,
       "num": 483022,
       "word": "谢娜拍的张杰",
@@ -2857,14 +2889,6 @@
       "onboard_time": 1711941439,
       "rank": 21,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 466012,
-      "num": 466012,
-      "word": "福宝到哪儿了",
-      "onboard_time": 1712133981,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 465975,
@@ -3489,14 +3513,6 @@
       "onboard_time": 1712030300,
       "rank": 17,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 389756,
-      "num": 389756,
-      "word": "台湾强震已致9人死亡",
-      "onboard_time": 1712135360,
-      "rank": 19,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 389349,
@@ -4395,14 +4411,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 301130,
-      "num": 276450,
-      "word": "月经出现这2种情况一定要去检查",
-      "onboard_time": 1712135119,
-      "rank": 30,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 301110,
       "num": 301110,
       "word": "在人间男主",
@@ -4980,7 +4988,7 @@
     },
     {
       "raw_hot": 262825,
-      "num": 653028,
+      "num": 743623,
       "word": "有个不扫兴的家人多么幸福",
       "onboard_time": 1712128820,
       "rank": 9,
@@ -6723,6 +6731,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 199259,
+      "num": 199259,
+      "word": "小米汽车门店回应SU7座椅包浆",
+      "onboard_time": 1712136381,
+      "rank": 37,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 199141,
       "num": 199141,
       "word": "草木人间主题曲是陈粒唱的",
@@ -7041,6 +7057,14 @@
       "onboard_time": 1711946064,
       "rank": 48,
       "category": "情感"
+    },
+    {
+      "raw_hot": 192239,
+      "num": 192239,
+      "word": "TXT空降超话",
+      "onboard_time": 1712136020,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 192238,
@@ -7457,6 +7481,14 @@
       "onboard_time": 1711825752,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 183472,
+      "num": 183472,
+      "word": "云合",
+      "onboard_time": 1712136200,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 183451,
@@ -8411,6 +8443,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 158380,
+      "num": 158380,
+      "word": "95后小伙向养老院捐骨灰盒被轰走",
+      "onboard_time": 1712136680,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 158357,
       "num": 158357,
       "word": "赵丽颖现身重庆铜元局",
@@ -8571,6 +8611,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 154366,
+      "num": 154366,
+      "word": "LadyGaga演小丑女",
+      "onboard_time": 1712135721,
+      "rank": 45,
+      "category": "电影"
+    },
+    {
       "raw_hot": 154288,
       "num": 154288,
       "word": "牛来了",
@@ -8609,6 +8657,14 @@
       "onboard_time": 1712050460,
       "rank": 47,
       "category": "教育"
+    },
+    {
+      "raw_hot": 153691,
+      "num": 153691,
+      "word": "工体将永远为杨雪保留座位",
+      "onboard_time": 1712135841,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 153631,
@@ -8665,14 +8721,6 @@
       "onboard_time": 1711881556,
       "rank": 43,
       "category": "体育"
-    },
-    {
-      "raw_hot": 152644,
-      "num": 152644,
-      "word": "LadyGaga演小丑女",
-      "onboard_time": 1712135721,
-      "rank": 45,
-      "category": "电影"
     },
     {
       "raw_hot": 152561,
@@ -9531,14 +9579,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 134332,
-      "num": 134332,
-      "word": "工体将永远为杨雪保留座位",
-      "onboard_time": 1712135841,
-      "rank": 49,
-      "category": "体育"
-    },
-    {
       "raw_hot": 134076,
       "num": 134076,
       "word": "当你约公司顶梁柱出来旅游",
@@ -9889,6 +9929,14 @@
       "onboard_time": 1712057119,
       "rank": 49,
       "category": "电竞,网红"
+    },
+    {
+      "raw_hot": 119058,
+      "num": 457538,
+      "word": "首批车主已经提到小米SU7",
+      "onboard_time": 1712134340,
+      "rank": 15,
+      "category": "汽车"
     },
     {
       "raw_hot": 118268,
@@ -10425,14 +10473,6 @@
       "onboard_time": 1711927997,
       "rank": 40,
       "category": "情感"
-    },
-    {
-      "raw_hot": 81884,
-      "num": 452339,
-      "word": "首批车主已经提到小米SU7",
-      "onboard_time": 1712134340,
-      "rank": 15,
-      "category": "汽车"
     },
     {
       "raw_hot": 81435,
