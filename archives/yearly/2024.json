@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1712100864274,
+  "endTime": 1712106734603,
   "band_list": [
     {
       "raw_hot": 21250232,
@@ -25,6 +25,14 @@
       "onboard_time": 1707478356,
       "rank": 6,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 16874674,
+      "num": 16874674,
+      "word": "台湾花莲县海域7.3级地震",
+      "onboard_time": 1712103872,
+      "rank": 0,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 16742993,
@@ -611,6 +619,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 6694788,
+      "num": 6694788,
+      "word": "杭州震感",
+      "onboard_time": 1712103392,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 6545130,
       "num": 6545130,
       "word": "大张伟刘宇宁的节目呢",
@@ -961,6 +977,14 @@
       "onboard_time": 1709033313,
       "rank": 26,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 4143347,
+      "num": 4143347,
+      "word": "我国发布海啸红色警报",
+      "onboard_time": 1712105667,
+      "rank": 3,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 4140986,
@@ -1883,6 +1907,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 2947527,
+      "num": 2947527,
+      "word": "日本海啸",
+      "onboard_time": 1712104650,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2947462,
       "num": 1201274,
       "word": "重庆扔小孩案第二名孩子没事",
@@ -2369,38 +2401,6 @@
       "onboard_time": 1708135349,
       "rank": 10,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 2686013,
-      "num": 2686013,
-      "word": "Angel父亲离世",
-      "onboard_time": 1710682657,
-      "rank": 1,
-      "category": "电竞"
-    },
-    {
-      "raw_hot": 2684505,
-      "num": 2611634,
-      "word": "同时得罪了东北人和南方人",
-      "onboard_time": 1707495118,
-      "rank": 25,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 2681569,
-      "num": 2681569,
-      "word": "夏之光 霸王茶姬",
-      "onboard_time": 1711182859,
-      "rank": 0,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 2678805,
-      "num": 2678805,
-      "word": "唐山打人案属地公安原局长获刑12年",
-      "onboard_time": 1705918345,
-      "rank": 9,
-      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
