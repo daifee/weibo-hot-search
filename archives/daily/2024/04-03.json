@@ -1,6 +1,6 @@
 {
   "startTime": 1712074937436,
-  "endTime": 1712136896897,
+  "endTime": 1712139578352,
   "band_list": [
     {
       "raw_hot": 16874674,
@@ -203,6 +203,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1294661,
+      "num": 1294661,
+      "word": "王大陆家墙震裂了",
+      "onboard_time": 1712136321,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1261595,
       "num": 1261595,
       "word": "海啸到达日本冲绳与那国岛",
@@ -257,6 +265,14 @@
       "onboard_time": 1712112739,
       "rank": 10,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1104003,
+      "num": 582678,
+      "word": "月经出现这2种情况一定要去检查",
+      "onboard_time": 1712135119,
+      "rank": 30,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 1084731,
@@ -555,14 +571,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 576554,
-      "num": 576554,
-      "word": "月经出现这2种情况一定要去检查",
-      "onboard_time": 1712135119,
-      "rank": 30,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 566174,
       "num": 566174,
       "word": "当一个白富美经历家庭破产",
@@ -683,20 +691,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 489573,
+      "num": 489573,
+      "word": "农发行回应小学生3位亲属是行长",
+      "onboard_time": 1712138000,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 485296,
       "num": 485296,
       "word": "江西通报提灯定损事件",
       "onboard_time": 1712121261,
       "rank": 44,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 483322,
-      "num": 483322,
-      "word": "王大陆家墙震裂了",
-      "onboard_time": 1712136321,
-      "rank": 14,
-      "category": "艺人"
     },
     {
       "raw_hot": 477998,
@@ -827,12 +835,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 428110,
+      "num": 582762,
+      "word": "福宝最喜欢的花是油菜花",
+      "onboard_time": 1712137820,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 426737,
       "num": 388268,
       "word": "爱不爱喝水身体有啥区别",
       "onboard_time": 1712111900,
       "rank": 22,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 423500,
+      "num": 423500,
+      "word": "文俊英结婚",
+      "onboard_time": 1712138721,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 423211,
@@ -939,12 +963,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 379899,
+      "num": 379899,
+      "word": "六大行存款一年多了14万亿",
+      "onboard_time": 1712137458,
+      "rank": 18,
+      "category": "财经"
+    },
+    {
       "raw_hot": 379238,
       "num": 379238,
       "word": "辛芷蕾橘色短发",
       "onboard_time": 1712125582,
       "rank": 22,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 373916,
+      "num": 373916,
+      "word": "中国农发行纪检委已关注到想当行长的男孩",
+      "onboard_time": 1712138059,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 370111,
@@ -961,6 +1001,14 @@
       "onboard_time": 1712102970,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 364595,
+      "num": 364595,
+      "word": "原神 挂零",
+      "onboard_time": 1712138481,
+      "rank": 21,
+      "category": "游戏"
     },
     {
       "raw_hot": 362595,
@@ -1163,6 +1211,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 279994,
+      "num": 279994,
+      "word": "古希腊掌管某某的神",
+      "onboard_time": 1712137639,
+      "rank": 24,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 275439,
       "num": 275439,
       "word": "台湾已发生10次地震",
@@ -1313,6 +1369,14 @@
       "onboard_time": 1712065822,
       "rank": 13,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 241252,
+      "num": 241252,
+      "word": "双鱼座真正想要的并不是惊喜浪漫",
+      "onboard_time": 1712137040,
+      "rank": 27,
+      "category": "情感"
     },
     {
       "raw_hot": 240216,
@@ -1531,6 +1595,22 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 201389,
+      "num": 201389,
+      "word": "游戏是最不该失去公平的地方",
+      "onboard_time": 1712139080,
+      "rank": 34,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 201386,
+      "num": 201386,
+      "word": "林更新cos大司命",
+      "onboard_time": 1712139380,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 201171,
       "num": 201171,
       "word": "为什么一些大学生关系越来越冷漠",
@@ -1577,6 +1657,14 @@
       "onboard_time": 1712118683,
       "rank": 45,
       "category": "电影"
+    },
+    {
+      "raw_hot": 196881,
+      "num": 196881,
+      "word": "宋昰昀拍扇巴掌戏要求对手演员道歉",
+      "onboard_time": 1712138900,
+      "rank": 37,
+      "category": "剧集"
     },
     {
       "raw_hot": 196851,
@@ -1771,6 +1859,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 162258,
+      "num": 162258,
+      "word": "台湾花莲县再发生4.1级地震",
+      "onboard_time": 1712136920,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 161786,
       "num": 161786,
       "word": "千万不要独自上陌生人的车",
@@ -1827,12 +1923,28 @@
       "category": "教育"
     },
     {
+      "raw_hot": 157705,
+      "num": 157705,
+      "word": "下班放假",
+      "onboard_time": 1712139560,
+      "rank": 45,
+      "category": "情感"
+    },
+    {
       "raw_hot": 157346,
       "num": 157346,
       "word": "江西首次启动大风四级应急响应",
       "onboard_time": 1712070979,
       "rank": 25,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 154627,
+      "num": 154627,
+      "word": "百度四分之一代码是AI程序员写的",
+      "onboard_time": 1712139560,
+      "rank": 46,
+      "category": "互联网"
     },
     {
       "raw_hot": 154366,
@@ -1849,6 +1961,14 @@
       "onboard_time": 1712135841,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 152048,
+      "num": 152048,
+      "word": "张凌赫为母校录制VCR",
+      "onboard_time": 1712138600,
+      "rank": 47,
+      "category": "艺人"
     },
     {
       "raw_hot": 152007,
