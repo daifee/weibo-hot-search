@@ -1,6 +1,6 @@
 {
   "startTime": 1711815680412,
-  "endTime": 1712153844683,
+  "endTime": 1712154857850,
   "band_list": [
     {
       "raw_hot": 16874674,
@@ -683,6 +683,14 @@
       "category": "演出,美食"
     },
     {
+      "raw_hot": 1278624,
+      "num": 653596,
+      "word": "雷军能不能生产一下卫生巾",
+      "onboard_time": 1712150661,
+      "rank": 18,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 1276304,
       "num": 1276304,
       "word": "孙颖莎冠军",
@@ -705,14 +713,6 @@
       "onboard_time": 1712115321,
       "rank": 4,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1244948,
-      "num": 523297,
-      "word": "雷军能不能生产一下卫生巾",
-      "onboard_time": 1712150661,
-      "rank": 18,
-      "category": "互联网"
     },
     {
       "raw_hot": 1242195,
@@ -777,6 +777,14 @@
       "onboard_time": 1711936938,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1200613,
+      "num": 1200613,
+      "word": "名创优品下架chiikawa不当视频",
+      "onboard_time": 1712153300,
+      "rank": 21,
+      "category": "动漫"
     },
     {
       "raw_hot": 1198308,
@@ -1083,6 +1091,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 989160,
+      "num": 989160,
+      "word": "大学生被赶下车后发现异常救司机一命",
+      "onboard_time": 1712151442,
+      "rank": 8,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 981512,
       "num": 981512,
       "word": "妈妈澄清欧阳娣娣名字由来",
@@ -1121,6 +1137,14 @@
       "onboard_time": 1711866798,
       "rank": 30,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 966651,
+      "num": 653543,
+      "word": "花莲地震骨灰坛被甩出骨灰全混了",
+      "onboard_time": 1712151981,
+      "rank": 11,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 960905,
@@ -1315,6 +1339,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 844234,
+      "num": 844234,
+      "word": "大碗娱乐发声明",
+      "onboard_time": 1712150062,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 829840,
       "num": 829840,
       "word": "茶百道 还不开始",
@@ -1377,14 +1409,6 @@
       "onboard_time": 1712041938,
       "rank": 37,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 815319,
-      "num": 815319,
-      "word": "大碗娱乐发声明",
-      "onboard_time": 1712150062,
-      "rank": 19,
-      "category": "艺人"
     },
     {
       "raw_hot": 812718,
@@ -1579,14 +1603,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 760875,
-      "num": 522605,
-      "word": "花莲地震骨灰坛被甩出骨灰全混了",
-      "onboard_time": 1712151981,
-      "rank": 11,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 760708,
       "num": 760708,
       "word": "张元英ins",
@@ -1609,14 +1625,6 @@
       "onboard_time": 1711963459,
       "rank": 12,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 754989,
-      "num": 754989,
-      "word": "大学生被赶下车后发现异常救司机一命",
-      "onboard_time": 1712151442,
-      "rank": 8,
-      "category": "社会正能量"
     },
     {
       "raw_hot": 752678,
@@ -1995,6 +2003,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 653848,
+      "num": 653848,
+      "word": "名创优品致歉信",
+      "onboard_time": 1712152221,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 653302,
       "num": 653302,
       "word": "陈建斌 我一定超过其他窝囊废",
@@ -2244,7 +2260,7 @@
     },
     {
       "raw_hot": 608246,
-      "num": 521525,
+      "num": 598013,
       "word": "追风者 宋霭龄",
       "onboard_time": 1712150901,
       "rank": 30,
@@ -2377,6 +2393,14 @@
       "onboard_time": 1712057840,
       "rank": 20,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 577073,
+      "num": 577073,
+      "word": "日本核污水或于本月到达我国沿海",
+      "onboard_time": 1712153480,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 573993,
@@ -2689,14 +2713,6 @@
       "onboard_time": 1711936337,
       "rank": 13,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 523487,
-      "num": 523487,
-      "word": "名创优品致歉信",
-      "onboard_time": 1712152221,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 523084,
@@ -3227,6 +3243,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 454834,
+      "num": 393083,
+      "word": "林更新下次想演赵丽颖",
+      "onboard_time": 1712151322,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 452107,
       "num": 452107,
       "word": "央视网文娱评花间令",
@@ -3499,6 +3523,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 427299,
+      "num": 427299,
+      "word": "王一博裴佳欣对手戏",
+      "onboard_time": 1712154021,
+      "rank": 20,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 426766,
       "num": 426766,
       "word": "杨幂美人鱼表白",
@@ -3731,14 +3763,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 403594,
-      "num": 403594,
-      "word": "名创优品下架chiikawa不当视频",
-      "onboard_time": 1712153300,
-      "rank": 21,
-      "category": "动漫"
-    },
-    {
       "raw_hot": 403338,
       "num": 403338,
       "word": "学校通报美院原院长与学生不正当关系",
@@ -3809,14 +3833,6 @@
       "onboard_time": 1712112440,
       "rank": 21,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 390748,
-      "num": 390748,
-      "word": "林更新下次想演赵丽颖",
-      "onboard_time": 1712151322,
-      "rank": 23,
-      "category": "剧集"
     },
     {
       "raw_hot": 390697,
@@ -4187,6 +4203,22 @@
       "category": "情感"
     },
     {
+      "raw_hot": 352778,
+      "num": 352778,
+      "word": "种地吧新闻联播",
+      "onboard_time": 1712152701,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 350960,
+      "num": 350960,
+      "word": "李沁演技",
+      "onboard_time": 1712153182,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 348254,
       "num": 348254,
       "word": "福宝明天回家",
@@ -4371,6 +4403,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 332472,
+      "num": 332472,
+      "word": "追风者 学历史",
+      "onboard_time": 1712153601,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 332320,
       "num": 332320,
       "word": "追风者编剧 牛",
@@ -4545,14 +4585,6 @@
       "onboard_time": 1711984042,
       "rank": 21,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 314708,
-      "num": 314708,
-      "word": "种地吧新闻联播",
-      "onboard_time": 1712152701,
-      "rank": 26,
-      "category": "综艺"
     },
     {
       "raw_hot": 314502,
@@ -5491,6 +5523,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 258950,
+      "num": 258950,
+      "word": "徐正溪或转型导演",
+      "onboard_time": 1712153841,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 258775,
       "num": 157872,
       "word": "小米汽车工厂现日产能不足300辆",
@@ -6211,14 +6251,6 @@
       "category": "网红"
     },
     {
-      "raw_hot": 230370,
-      "num": 230370,
-      "word": "李沁演技",
-      "onboard_time": 1712153182,
-      "rank": 33,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 229447,
       "num": 229447,
       "word": "张朝阳说35岁年龄歧视很奇怪",
@@ -6819,6 +6851,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 210442,
+      "num": 210442,
+      "word": "千万不要等到毕业在找工作",
+      "onboard_time": 1712152822,
+      "rank": 37,
+      "category": "教育"
+    },
+    {
       "raw_hot": 210198,
       "num": 210198,
       "word": "林葳致命失误",
@@ -6835,28 +6875,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 209416,
-      "num": 209416,
-      "word": "日本核污水或于本月到达我国沿海",
-      "onboard_time": 1712153480,
-      "rank": 36,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 209330,
       "num": 209330,
       "word": "楼处除三害",
       "onboard_time": 1712053820,
       "rank": 41,
       "category": "电竞,网红"
-    },
-    {
-      "raw_hot": 209226,
-      "num": 209226,
-      "word": "千万不要等到毕业在找工作",
-      "onboard_time": 1712152822,
-      "rank": 37,
-      "category": "教育"
     },
     {
       "raw_hot": 208969,
@@ -7161,14 +7185,6 @@
       "onboard_time": 1712041218,
       "rank": 36,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 201502,
-      "num": 201502,
-      "word": "追风者 学历史",
-      "onboard_time": 1712153601,
-      "rank": 40,
-      "category": "剧集"
     },
     {
       "raw_hot": 201424,
@@ -8025,6 +8041,14 @@
       "onboard_time": 1712056640,
       "rank": 34,
       "category": "电竞,网红"
+    },
+    {
+      "raw_hot": 185695,
+      "num": 185695,
+      "word": "卓沅 春天太美好了",
+      "onboard_time": 1712153722,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 185154,
@@ -9131,6 +9155,14 @@
       "category": "电竞,网红"
     },
     {
+      "raw_hot": 158778,
+      "num": 158778,
+      "word": "09小楼事件",
+      "onboard_time": 1712154801,
+      "rank": 47,
+      "category": "电竞,网红"
+    },
+    {
       "raw_hot": 158573,
       "num": 158573,
       "word": "欢瑞声明成毅与前公司无任何纠纷",
@@ -9185,14 +9217,6 @@
       "onboard_time": 1712049019,
       "rank": 40,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 157905,
-      "num": 157905,
-      "word": "卓沅 春天太美好了",
-      "onboard_time": 1712153722,
-      "rank": 45,
-      "category": "综艺"
     },
     {
       "raw_hot": 157767,

@@ -1,6 +1,6 @@
 {
   "startTime": 1712074937436,
-  "endTime": 1712153844683,
+  "endTime": 1712154857850,
   "band_list": [
     {
       "raw_hot": 16874674,
@@ -235,6 +235,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1278624,
+      "num": 653596,
+      "word": "雷军能不能生产一下卫生巾",
+      "onboard_time": 1712150661,
+      "rank": 18,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 1261595,
       "num": 1261595,
       "word": "海啸到达日本冲绳与那国岛",
@@ -251,12 +259,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1244948,
-      "num": 523297,
-      "word": "雷军能不能生产一下卫生巾",
-      "onboard_time": 1712150661,
-      "rank": 18,
-      "category": "互联网"
+      "raw_hot": 1200613,
+      "num": 1200613,
+      "word": "名创优品下架chiikawa不当视频",
+      "onboard_time": 1712153300,
+      "rank": 21,
+      "category": "动漫"
     },
     {
       "raw_hot": 1170378,
@@ -395,6 +403,22 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 989160,
+      "num": 989160,
+      "word": "大学生被赶下车后发现异常救司机一命",
+      "onboard_time": 1712151442,
+      "rank": 8,
+      "category": "社会正能量"
+    },
+    {
+      "raw_hot": 966651,
+      "num": 653543,
+      "word": "花莲地震骨灰坛被甩出骨灰全混了",
+      "onboard_time": 1712151981,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 944764,
       "num": 944764,
       "word": "广东震感",
@@ -459,6 +483,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 844234,
+      "num": 844234,
+      "word": "大碗娱乐发声明",
+      "onboard_time": 1712150062,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 829840,
       "num": 829840,
       "word": "茶百道 还不开始",
@@ -481,14 +513,6 @@
       "onboard_time": 1712108060,
       "rank": 20,
       "category": "教育"
-    },
-    {
-      "raw_hot": 815319,
-      "num": 815319,
-      "word": "大碗娱乐发声明",
-      "onboard_time": 1712150062,
-      "rank": 19,
-      "category": "艺人"
     },
     {
       "raw_hot": 812215,
@@ -531,28 +555,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 760875,
-      "num": 522605,
-      "word": "花莲地震骨灰坛被甩出骨灰全混了",
-      "onboard_time": 1712151981,
-      "rank": 11,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 760708,
       "num": 760708,
       "word": "张元英ins",
       "onboard_time": 1712143820,
       "rank": 42,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 754989,
-      "num": 754989,
-      "word": "大学生被赶下车后发现异常救司机一命",
-      "onboard_time": 1712151442,
-      "rank": 8,
-      "category": "社会正能量"
     },
     {
       "raw_hot": 748354,
@@ -635,6 +643,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 653848,
+      "num": 653848,
+      "word": "名创优品致歉信",
+      "onboard_time": 1712152221,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 650915,
       "num": 650915,
       "word": "福宝直播",
@@ -700,7 +716,7 @@
     },
     {
       "raw_hot": 608246,
-      "num": 521525,
+      "num": 598013,
       "word": "追风者 宋霭龄",
       "onboard_time": 1712150901,
       "rank": 30,
@@ -745,6 +761,14 @@
       "onboard_time": 1712113101,
       "rank": 15,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 577073,
+      "num": 577073,
+      "word": "日本核污水或于本月到达我国沿海",
+      "onboard_time": 1712153480,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 570215,
@@ -841,14 +865,6 @@
       "onboard_time": 1712125522,
       "rank": 20,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 523487,
-      "num": 523487,
-      "word": "名创优品致歉信",
-      "onboard_time": 1712152221,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 522050,
@@ -987,6 +1003,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 454834,
+      "num": 393083,
+      "word": "林更新下次想演赵丽颖",
+      "onboard_time": 1712151322,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 452552,
       "num": 452552,
       "word": "李若彤回应58岁未婚未育",
@@ -1091,6 +1115,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 427299,
+      "num": 427299,
+      "word": "王一博裴佳欣对手戏",
+      "onboard_time": 1712154021,
+      "rank": 20,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 426737,
       "num": 388268,
       "word": "爱不爱喝水身体有啥区别",
@@ -1187,14 +1219,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 403594,
-      "num": 403594,
-      "word": "名创优品下架chiikawa不当视频",
-      "onboard_time": 1712153300,
-      "rank": 21,
-      "category": "动漫"
-    },
-    {
       "raw_hot": 402693,
       "num": 402693,
       "word": "杨雪",
@@ -1225,14 +1249,6 @@
       "onboard_time": 1712112440,
       "rank": 21,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 390748,
-      "num": 390748,
-      "word": "林更新下次想演赵丽颖",
-      "onboard_time": 1712151322,
-      "rank": 23,
-      "category": "剧集"
     },
     {
       "raw_hot": 387801,
@@ -1315,6 +1331,22 @@
       "category": "情感"
     },
     {
+      "raw_hot": 352778,
+      "num": 352778,
+      "word": "种地吧新闻联播",
+      "onboard_time": 1712152701,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 350960,
+      "num": 350960,
+      "word": "李沁演技",
+      "onboard_time": 1712153182,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 342195,
       "num": 342195,
       "word": "小米内部员工可优惠购车",
@@ -1337,6 +1369,14 @@
       "onboard_time": 1712105609,
       "rank": 32,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 332472,
+      "num": 332472,
+      "word": "追风者 学历史",
+      "onboard_time": 1712153601,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 324733,
@@ -1385,14 +1425,6 @@
       "onboard_time": 1712063061,
       "rank": 15,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 314708,
-      "num": 314708,
-      "word": "种地吧新闻联播",
-      "onboard_time": 1712152701,
-      "rank": 26,
-      "category": "综艺"
     },
     {
       "raw_hot": 314502,
@@ -1667,6 +1699,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 258950,
+      "num": 258950,
+      "word": "徐正溪或转型导演",
+      "onboard_time": 1712153841,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 258775,
       "num": 157872,
       "word": "小米汽车工厂现日产能不足300辆",
@@ -1851,14 +1891,6 @@
       "category": "网红"
     },
     {
-      "raw_hot": 230370,
-      "num": 230370,
-      "word": "李沁演技",
-      "onboard_time": 1712153182,
-      "rank": 33,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 229122,
       "num": 229122,
       "word": "汕头震感",
@@ -2011,6 +2043,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 210442,
+      "num": 210442,
+      "word": "千万不要等到毕业在找工作",
+      "onboard_time": 1712152822,
+      "rank": 37,
+      "category": "教育"
+    },
+    {
       "raw_hot": 210087,
       "num": 210087,
       "word": "长沙1日游 怒走17个景点",
@@ -2025,22 +2065,6 @@
       "onboard_time": 1712071161,
       "rank": 20,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 209416,
-      "num": 209416,
-      "word": "日本核污水或于本月到达我国沿海",
-      "onboard_time": 1712153480,
-      "rank": 36,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 209226,
-      "num": 209226,
-      "word": "千万不要等到毕业在找工作",
-      "onboard_time": 1712152822,
-      "rank": 37,
-      "category": "教育"
     },
     {
       "raw_hot": 208969,
@@ -2089,14 +2113,6 @@
       "onboard_time": 1712147000,
       "rank": 46,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 201502,
-      "num": 201502,
-      "word": "追风者 学历史",
-      "onboard_time": 1712153601,
-      "rank": 40,
-      "category": "剧集"
     },
     {
       "raw_hot": 201171,
@@ -2307,6 +2323,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 185695,
+      "num": 185695,
+      "word": "卓沅 春天太美好了",
+      "onboard_time": 1712153722,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 183472,
       "num": 183472,
       "word": "云合",
@@ -2451,6 +2475,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 162643,
+      "num": 162643,
+      "word": "与凤行",
+      "onboard_time": 1712154801,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 162258,
       "num": 162258,
       "word": "台湾花莲县再发生4.1级地震",
@@ -2507,6 +2539,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 158778,
+      "num": 158778,
+      "word": "09小楼事件",
+      "onboard_time": 1712154801,
+      "rank": 47,
+      "category": "电竞,网红"
+    },
+    {
       "raw_hot": 158380,
       "num": 158380,
       "word": "95后小伙向养老院捐骨灰盒被轰走",
@@ -2521,14 +2561,6 @@
       "onboard_time": 1712064861,
       "rank": 24,
       "category": "教育"
-    },
-    {
-      "raw_hot": 157905,
-      "num": 157905,
-      "word": "卓沅 春天太美好了",
-      "onboard_time": 1712153722,
-      "rank": 45,
-      "category": "综艺"
     },
     {
       "raw_hot": 157346,
