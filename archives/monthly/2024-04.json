@@ -1,6 +1,6 @@
 {
   "startTime": 1711902044401,
-  "endTime": 1712161260598,
+  "endTime": 1712162293872,
   "band_list": [
     {
       "raw_hot": 16874674,
@@ -3019,6 +3019,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 397858,
+      "num": 397858,
+      "word": "神君红透了",
+      "onboard_time": 1712159657,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 397327,
       "num": 397327,
       "word": "孙颖莎世界排名积分7800分",
@@ -3505,14 +3513,6 @@
       "onboard_time": 1712105609,
       "rank": 32,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 333710,
-      "num": 333710,
-      "word": "神君红透了",
-      "onboard_time": 1712159657,
-      "rank": 18,
-      "category": "剧集"
     },
     {
       "raw_hot": 332617,
@@ -4961,6 +4961,14 @@
       "onboard_time": 1711979602,
       "rank": 26,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 228486,
+      "num": 209543,
+      "word": "赵丽颖你就宠林更新吧",
+      "onboard_time": 1712161396,
+      "rank": 23,
+      "category": "剧集"
     },
     {
       "raw_hot": 228328,
@@ -8259,6 +8267,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 121929,
+      "num": 121929,
+      "word": "王一博哭戏",
+      "onboard_time": 1712161096,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 121213,
       "num": 121213,
       "word": "工作上一遇到挫折就想辞职",
@@ -8313,6 +8329,14 @@
       "onboard_time": 1712134340,
       "rank": 15,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 118781,
+      "num": 118781,
+      "word": "李维嘉约了王源滑雪",
+      "onboard_time": 1712161457,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 118110,
@@ -8435,6 +8459,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 112172,
+      "num": 112172,
+      "word": "WBG剧本",
+      "onboard_time": 1712160499,
+      "rank": 47,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 111987,
       "num": 118254,
       "word": "澳门国际乒联世界杯奖牌公布",
@@ -8491,14 +8523,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 105262,
-      "num": 105262,
-      "word": "王一博哭戏",
-      "onboard_time": 1712161096,
-      "rank": 46,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 104976,
       "num": 104976,
       "word": "五条悟模仿樱木花道",
@@ -8521,14 +8545,6 @@
       "onboard_time": 1711910711,
       "rank": 15,
       "category": "演出"
-    },
-    {
-      "raw_hot": 101211,
-      "num": 101211,
-      "word": "WBG剧本",
-      "onboard_time": 1712160499,
-      "rank": 47,
-      "category": "电竞"
     },
     {
       "raw_hot": 100142,
