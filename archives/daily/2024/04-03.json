@@ -1,6 +1,6 @@
 {
   "startTime": 1712074937436,
-  "endTime": 1712118095662,
+  "endTime": 1712118887321,
   "band_list": [
     {
       "raw_hot": 16874674,
@@ -27,8 +27,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 3252691,
-      "num": 3252691,
+      "raw_hot": 3397715,
+      "num": 3397715,
       "word": "高铁停运",
       "onboard_time": 1712112801,
       "rank": 5,
@@ -123,6 +123,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1254752,
+      "num": 1254752,
+      "word": "盛一伦家中震感",
+      "onboard_time": 1712115321,
+      "rank": 4,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1170378,
       "num": 1170378,
       "word": "台湾连发3次地震",
@@ -155,14 +163,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1103276,
-      "num": 1103276,
-      "word": "盛一伦家中震感",
-      "onboard_time": 1712115321,
-      "rank": 4,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 1070106,
       "num": 1070106,
       "word": "台湾花莲县海域再发生6.0级地震",
@@ -171,8 +171,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1037297,
-      "num": 1037297,
+      "raw_hot": 1055673,
+      "num": 1055673,
       "word": "台湾一豪宅顶楼游泳池变瀑布",
       "onboard_time": 1712112981,
       "rank": 12,
@@ -185,6 +185,14 @@
       "onboard_time": 1712117063,
       "rank": 7,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1006026,
+      "num": 1006026,
+      "word": "台湾花莲地震已致4死",
+      "onboard_time": 1712116522,
+      "rank": 10,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 944764,
@@ -200,14 +208,6 @@
       "word": "韩国民众冒雨排队送别福宝",
       "onboard_time": 1712112200,
       "rank": 7,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 921905,
-      "num": 921905,
-      "word": "台湾花莲地震已致4死",
-      "onboard_time": 1712116522,
-      "rank": 10,
       "category": "社会新闻"
     },
     {
@@ -339,6 +339,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 564892,
+      "num": 278291,
+      "word": "黄子佼购买上百部未成年少女不雅片",
+      "onboard_time": 1712118622,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 547459,
       "num": 536766,
       "word": "28岁女子长期吃冰箱剩菜确诊胃癌",
@@ -441,6 +449,14 @@
       "onboard_time": 1712064200,
       "rank": 12,
       "category": "演出"
+    },
+    {
+      "raw_hot": 447559,
+      "num": 447559,
+      "word": "四月桃花运最旺的星座",
+      "onboard_time": 1712117663,
+      "rank": 26,
+      "category": "情感"
     },
     {
       "raw_hot": 442009,
@@ -595,12 +611,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 352459,
-      "num": 352459,
-      "word": "四月桃花运最旺的星座",
-      "onboard_time": 1712117663,
-      "rank": 26,
-      "category": "情感"
+      "raw_hot": 348563,
+      "num": 348563,
+      "word": "武艺的洁癖被公开处刑了",
+      "onboard_time": 1712117902,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 335411,
@@ -608,6 +624,14 @@
       "word": "长沙震感",
       "onboard_time": 1712105609,
       "rank": 32,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 324733,
+      "num": 324733,
+      "word": "福宝启程回国现场画面",
+      "onboard_time": 1712116041,
+      "rank": 28,
       "category": "社会新闻"
     },
     {
@@ -627,14 +651,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 322051,
-      "num": 322051,
-      "word": "福宝启程回国现场画面",
-      "onboard_time": 1712116041,
-      "rank": 28,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 317072,
       "num": 317072,
       "word": "新仙剑阿奴出场秒变菜狗",
@@ -649,6 +665,14 @@
       "onboard_time": 1712104533,
       "rank": 34,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 311877,
+      "num": 311877,
+      "word": "周杰伦祝大家平安",
+      "onboard_time": 1712117363,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 310154,
@@ -673,6 +697,14 @@
       "onboard_time": 1712104650,
       "rank": 38,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 292484,
+      "num": 292484,
+      "word": "心太软的人没法当老师",
+      "onboard_time": 1712117902,
+      "rank": 38,
+      "category": "教育"
     },
     {
       "raw_hot": 289285,
@@ -705,14 +737,6 @@
       "onboard_time": 1712110582,
       "rank": 37,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 274228,
-      "num": 274228,
-      "word": "周杰伦祝大家平安",
-      "onboard_time": 1712117363,
-      "rank": 31,
-      "category": "艺人"
     },
     {
       "raw_hot": 270747,
@@ -763,6 +787,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 255124,
+      "num": 255124,
+      "word": "什么岗位会接受0经验",
+      "onboard_time": 1712115202,
+      "rank": 48,
+      "category": "情感"
+    },
+    {
       "raw_hot": 249536,
       "num": 249536,
       "word": "全球资金正在加速回流中国",
@@ -811,20 +843,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 239242,
-      "num": 239242,
-      "word": "什么岗位会接受0经验",
-      "onboard_time": 1712115202,
-      "rank": 48,
+      "raw_hot": 238026,
+      "num": 238026,
+      "word": "被一只北太平洋巨型章鱼抱住脚",
+      "onboard_time": 1712117602,
+      "rank": 41,
       "category": "情感"
     },
     {
-      "raw_hot": 237296,
-      "num": 237296,
-      "word": "心太软的人没法当老师",
-      "onboard_time": 1712117902,
-      "rank": 38,
-      "category": "教育"
+      "raw_hot": 235648,
+      "num": 235648,
+      "word": "后悔介绍朋友来自己公司了",
+      "onboard_time": 1712118622,
+      "rank": 37,
+      "category": "情感"
     },
     {
       "raw_hot": 232638,
@@ -891,22 +923,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 215988,
-      "num": 215988,
-      "word": "武艺的洁癖被公开处刑了",
-      "onboard_time": 1712117902,
-      "rank": 40,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 214476,
-      "num": 214476,
-      "word": "被一只北太平洋巨型章鱼抱住脚",
-      "onboard_time": 1712117602,
-      "rank": 41,
-      "category": "情感"
-    },
-    {
       "raw_hot": 214323,
       "num": 214323,
       "word": "小楼是谁",
@@ -955,6 +971,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 208699,
+      "num": 208699,
+      "word": "永远不要把工作当成你的全部",
+      "onboard_time": 1712115081,
+      "rank": 45,
+      "category": "情感"
+    },
+    {
       "raw_hot": 204744,
       "num": 204744,
       "word": "RIIZE完整版Siren",
@@ -987,20 +1011,20 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 199141,
+      "num": 199141,
+      "word": "草木人间主题曲是陈粒唱的",
+      "onboard_time": 1712118683,
+      "rank": 45,
+      "category": "电影"
+    },
+    {
       "raw_hot": 194505,
       "num": 194505,
       "word": "就没有猫咪不敢揍的生物",
       "onboard_time": 1712117602,
       "rank": 44,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 192188,
-      "num": 192188,
-      "word": "永远不要把工作当成你的全部",
-      "onboard_time": 1712115081,
-      "rank": 45,
-      "category": "情感"
     },
     {
       "raw_hot": 191394,
@@ -1067,6 +1091,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 169225,
+      "num": 169225,
+      "word": "解除海啸警报",
+      "onboard_time": 1712118443,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 168792,
       "num": 168792,
       "word": "阴阳师",
@@ -1105,6 +1137,14 @@
       "onboard_time": 1712070979,
       "rank": 25,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 152007,
+      "num": 568240,
+      "word": "以闪亮之名周年庆",
+      "onboard_time": 1712116823,
+      "rank": 14,
+      "category": "游戏"
     },
     {
       "raw_hot": 148899,
@@ -1187,14 +1227,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 118527,
-      "num": 568240,
-      "word": "以闪亮之名周年庆",
-      "onboard_time": 1712116823,
-      "rank": 14,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 114638,
       "num": 114638,
       "word": "卢昱晓齐刘海",
@@ -1267,6 +1299,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 99551,
+      "num": 1547242,
+      "word": "清明给英烈写句话",
+      "onboard_time": 1712115621,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 98251,
       "num": 98251,
       "word": "王一博哭得好真实",
@@ -1281,14 +1321,6 @@
       "onboard_time": 1712068819,
       "rank": 43,
       "category": "电影"
-    },
-    {
-      "raw_hot": 92558,
-      "num": 1547242,
-      "word": "清明给英烈写句话",
-      "onboard_time": 1712115621,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 91813,
@@ -1401,6 +1433,14 @@
       "onboard_time": 1712084471,
       "rank": 43,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 57251,
+      "num": 173944,
+      "word": "无人驾驶都能劈S弯了吗",
+      "onboard_time": 1712118803,
+      "rank": 47,
+      "category": "汽车"
     },
     {
       "raw_hot": 55454,
