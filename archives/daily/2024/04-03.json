@@ -1,6 +1,6 @@
 {
   "startTime": 1712074937436,
-  "endTime": 1712147488958,
+  "endTime": 1712148359056,
   "band_list": [
     {
       "raw_hot": 16874674,
@@ -225,6 +225,14 @@
       "onboard_time": 1712136321,
       "rank": 14,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1274245,
+      "num": 1274245,
+      "word": "退圈的徐正溪 杀回来的黑珑",
+      "onboard_time": 1712146640,
+      "rank": 7,
+      "category": "剧集"
     },
     {
       "raw_hot": 1261595,
@@ -563,14 +571,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 660343,
-      "num": 660343,
-      "word": "退圈的徐正溪 杀回来的黑珑",
-      "onboard_time": 1712146640,
-      "rank": 7,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 660221,
       "num": 660221,
       "word": "张继科高级课程班学费每月9800元",
@@ -755,6 +755,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 531473,
+      "num": 531473,
+      "word": "福宝路上带的竹子没吃完",
+      "onboard_time": 1712147240,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 531120,
       "num": 531120,
       "word": "六大行存款一年多了14万亿",
@@ -923,6 +931,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 444921,
+      "num": 344450,
+      "word": "每天吃1个鸡蛋身体会发生什么变化",
+      "onboard_time": 1712144119,
+      "rank": 21,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 442009,
       "num": 442009,
       "word": "金价",
@@ -961,6 +977,14 @@
       "onboard_time": 1712115321,
       "rank": 20,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 433359,
+      "num": 433359,
+      "word": "老师用P过的照片吸引同学来上课",
+      "onboard_time": 1712145859,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 431133,
@@ -1049,14 +1073,6 @@
       "onboard_time": 1712139380,
       "rank": 35,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 411616,
-      "num": 343969,
-      "word": "每天吃1个鸡蛋身体会发生什么变化",
-      "onboard_time": 1712144119,
-      "rank": 21,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 405818,
@@ -1187,12 +1203,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 352044,
-      "num": 228461,
-      "word": "老师用P过的照片吸引同学来上课",
-      "onboard_time": 1712145859,
-      "rank": 30,
-      "category": "幽默"
+      "raw_hot": 343741,
+      "num": 343741,
+      "word": "BamBam 谈恋爱有什么错吗",
+      "onboard_time": 1712145200,
+      "rank": 22,
+      "category": "综艺"
     },
     {
       "raw_hot": 342195,
@@ -1217,14 +1233,6 @@
       "onboard_time": 1712105609,
       "rank": 32,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 326910,
-      "num": 326910,
-      "word": "BamBam 谈恋爱有什么错吗",
-      "onboard_time": 1712145200,
-      "rank": 22,
-      "category": "综艺"
     },
     {
       "raw_hot": 324733,
@@ -1315,6 +1323,14 @@
       "category": "互联网,汽车"
     },
     {
+      "raw_hot": 308479,
+      "num": 308479,
+      "word": "薛之谦抢票",
+      "onboard_time": 1712146640,
+      "rank": 26,
+      "category": "演出"
+    },
+    {
       "raw_hot": 308032,
       "num": 308032,
       "word": "花间令剧本写了十年",
@@ -1352,6 +1368,14 @@
       "word": "农发行总行回应男孩想当行长",
       "onboard_time": 1712133081,
       "rank": 47,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 300347,
+      "num": 300347,
+      "word": "姜爷爷和福宝",
+      "onboard_time": 1712147660,
+      "rank": 25,
       "category": "社会新闻"
     },
     {
@@ -1563,14 +1587,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 245387,
-      "num": 245387,
-      "word": "薛之谦抢票",
-      "onboard_time": 1712146640,
-      "rank": 26,
-      "category": "演出"
-    },
-    {
       "raw_hot": 245367,
       "num": 245367,
       "word": "辛库者幼儿园",
@@ -1657,6 +1673,14 @@
       "onboard_time": 1712117602,
       "rank": 41,
       "category": "情感"
+    },
+    {
+      "raw_hot": 235514,
+      "num": 235514,
+      "word": "WBG 韦鲁斯上单",
+      "onboard_time": 1712147179,
+      "rank": 37,
+      "category": "电竞"
     },
     {
       "raw_hot": 235375,
@@ -1851,6 +1875,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 205250,
+      "num": 205250,
+      "word": "TF家族 高会",
+      "onboard_time": 1712147481,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 204744,
       "num": 204744,
       "word": "RIIZE完整版Siren",
@@ -1915,6 +1947,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 197296,
+      "num": 197296,
+      "word": "特斯拉免息",
+      "onboard_time": 1712146220,
+      "rank": 39,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 196851,
       "num": 196851,
       "word": "沈璃看不见vs紫薇看不见",
@@ -1929,6 +1969,14 @@
       "onboard_time": 1712130022,
       "rank": 38,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 195136,
+      "num": 195136,
+      "word": "scout尽力了",
+      "onboard_time": 1712147179,
+      "rank": 36,
+      "category": "电竞"
     },
     {
       "raw_hot": 194505,
@@ -1987,28 +2035,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 189938,
-      "num": 189938,
-      "word": "scout尽力了",
-      "onboard_time": 1712147179,
-      "rank": 36,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 188981,
       "num": 188981,
       "word": "雷军现身小米SU7交付仪式",
       "onboard_time": 1712122222,
       "rank": 47,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 188629,
-      "num": 188629,
-      "word": "WBG 韦鲁斯上单",
-      "onboard_time": 1712147179,
-      "rank": 37,
-      "category": "电竞"
     },
     {
       "raw_hot": 188576,
@@ -2035,6 +2067,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 187108,
+      "num": 187108,
+      "word": "华晨宇演唱会带火了周边",
+      "onboard_time": 1712146760,
+      "rank": 38,
+      "category": "演出"
+    },
+    {
       "raw_hot": 186977,
       "num": 186977,
       "word": "LNG对战WBG",
@@ -2051,28 +2091,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 186660,
-      "num": 186660,
-      "word": "华晨宇演唱会带火了周边",
-      "onboard_time": 1712146760,
-      "rank": 38,
-      "category": "演出"
-    },
-    {
       "raw_hot": 186524,
       "num": 186524,
       "word": "李维嘉李冰冰雪场偶遇",
       "onboard_time": 1712141239,
       "rank": 37,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 183678,
-      "num": 183678,
-      "word": "特斯拉免息",
-      "onboard_time": 1712146220,
-      "rank": 39,
-      "category": "汽车"
     },
     {
       "raw_hot": 183472,
@@ -2123,20 +2147,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 175868,
+      "num": 175868,
+      "word": "大侦探真的好会让嘉宾社死",
+      "onboard_time": 1712146459,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 174846,
       "num": 174846,
       "word": "张继科开新号直播乒乓教学",
       "onboard_time": 1712144778,
       "rank": 43,
       "category": "体育"
-    },
-    {
-      "raw_hot": 174715,
-      "num": 174715,
-      "word": "福宝路上带的竹子没吃完",
-      "onboard_time": 1712147240,
-      "rank": 44,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 174360,
@@ -2193,14 +2217,6 @@
       "onboard_time": 1712110160,
       "rank": 47,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 164429,
-      "num": 164429,
-      "word": "大侦探真的好会让嘉宾社死",
-      "onboard_time": 1712146459,
-      "rank": 46,
-      "category": "综艺"
     },
     {
       "raw_hot": 163407,
@@ -2291,6 +2307,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 156045,
+      "num": 156045,
+      "word": "鹭卓李昊版寒战",
+      "onboard_time": 1712148021,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 154366,
       "num": 154366,
       "word": "LadyGaga演小丑女",
@@ -2375,6 +2399,14 @@
       "num": 148741,
       "word": "眼泪女王未公开花絮",
       "onboard_time": 1712124861,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 147838,
+      "num": 147838,
+      "word": "追风者",
+      "onboard_time": 1712148199,
       "rank": 48,
       "category": "剧集"
     },
@@ -2691,6 +2723,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 71230,
+      "num": 1222436,
+      "word": "清明是唯一一个以节气命名的节日",
+      "onboard_time": 1712133320,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 64015,
       "num": 64015,
       "word": "大约80%的人存在鼻中隔偏曲",
@@ -2787,6 +2827,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 25819,
+      "num": 345719,
+      "word": "波司登做防晒衣也这么专业",
+      "onboard_time": 1712147179,
+      "rank": 42,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 25282,
       "num": 26880,
       "word": "第一次水逆对12星座的影响",
@@ -2809,14 +2857,6 @@
       "onboard_time": 1712128161,
       "rank": 38,
       "category": "数码"
-    },
-    {
-      "raw_hot": 16602,
-      "num": 175778,
-      "word": "波司登做防晒衣也这么专业",
-      "onboard_time": 1712147179,
-      "rank": 42,
-      "category": "时尚"
     },
     {
       "raw_hot": 13753,
