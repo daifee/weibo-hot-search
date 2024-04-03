@@ -1,6 +1,6 @@
 {
   "startTime": 1711902044401,
-  "endTime": 1712111715412,
+  "endTime": 1712114359993,
   "band_list": [
     {
       "raw_hot": 16874674,
@@ -91,20 +91,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 2511326,
+      "num": 2511326,
+      "word": "今天上班只干一件事",
+      "onboard_time": 1712108004,
+      "rank": 4,
+      "category": "情感"
+    },
+    {
       "raw_hot": 2498151,
       "num": 481942,
       "word": "女子睡觉被大风吹下11楼身亡",
       "onboard_time": 1711971080,
       "rank": 41,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 2384115,
-      "num": 2384115,
-      "word": "今天上班只干一件事",
-      "onboard_time": 1712108004,
-      "rank": 4,
-      "category": "情感"
     },
     {
       "raw_hot": 2382706,
@@ -523,8 +523,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1141313,
-      "num": 746125,
+      "raw_hot": 1142731,
+      "num": 1142731,
       "word": "冉莹颖回忆孕期上岸北大",
       "onboard_time": 1712110041,
       "rank": 10,
@@ -537,6 +537,14 @@
       "onboard_time": 1712063539,
       "rank": 12,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 1110356,
+      "num": 1110356,
+      "word": "高铁停运",
+      "onboard_time": 1712112801,
+      "rank": 5,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1093436,
@@ -731,6 +739,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 922387,
+      "num": 922387,
+      "word": "韩国民众冒雨排队送别福宝",
+      "onboard_time": 1712112200,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 904022,
       "num": 904022,
       "word": "躁郁症比抑郁症更严重",
@@ -859,6 +875,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 809516,
+      "num": 809516,
+      "word": "上海女婿阿福宣布离婚",
+      "onboard_time": 1712112739,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 804827,
       "num": 804827,
       "word": "还好只上三天就放假了",
@@ -873,6 +897,14 @@
       "onboard_time": 1711969701,
       "rank": 28,
       "category": "母婴育儿"
+    },
+    {
+      "raw_hot": 799710,
+      "num": 799710,
+      "word": "雷军给小米车主开车门",
+      "onboard_time": 1712111241,
+      "rank": 21,
+      "category": "互联网,汽车"
     },
     {
       "raw_hot": 798628,
@@ -921,6 +953,14 @@
       "onboard_time": 1711898601,
       "rank": 4,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 782629,
+      "num": 782629,
+      "word": "台湾一豪宅顶楼游泳池变瀑布",
+      "onboard_time": 1712112981,
+      "rank": 12,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 774644,
@@ -1073,6 +1113,14 @@
       "onboard_time": 1712052680,
       "rank": 28,
       "category": "电竞,网红"
+    },
+    {
+      "raw_hot": 691020,
+      "num": 691020,
+      "word": "高铁晚点",
+      "onboard_time": 1712110462,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 690331,
@@ -1539,20 +1587,20 @@
       "category": "演出"
     },
     {
+      "raw_hot": 550151,
+      "num": 550151,
+      "word": "赵奕欢36岁身材管理",
+      "onboard_time": 1712113101,
+      "rank": 15,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 550147,
       "num": 302934,
       "word": "中医让我把鸡蛋牛奶戒了",
       "onboard_time": 1712035520,
       "rank": 20,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 549567,
-      "num": 549567,
-      "word": "高铁晚点",
-      "onboard_time": 1712110462,
-      "rank": 28,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 547459,
@@ -1713,6 +1761,14 @@
       "onboard_time": 1712106328,
       "rank": 22,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 497035,
+      "num": 235194,
+      "word": "茶百道 还不开始",
+      "onboard_time": 1712114002,
+      "rank": 30,
+      "category": "美食"
     },
     {
       "raw_hot": 496413,
@@ -2155,6 +2211,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 411847,
+      "num": 411847,
+      "word": "雷军宣布小米SU7锁单量超4万",
+      "onboard_time": 1712112860,
+      "rank": 19,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 410973,
       "num": 410973,
       "word": "张婧仪神图的诞生",
@@ -2219,12 +2283,12 @@
       "category": "美食,健康医疗"
     },
     {
-      "raw_hot": 392729,
-      "num": 392729,
-      "word": "雷军给小米车主开车门",
-      "onboard_time": 1712111241,
+      "raw_hot": 392157,
+      "num": 392157,
+      "word": "刘若英报平安",
+      "onboard_time": 1712112440,
       "rank": 21,
-      "category": "互联网,汽车"
+      "category": "艺人"
     },
     {
       "raw_hot": 390697,
@@ -2241,6 +2305,14 @@
       "onboard_time": 1711986079,
       "rank": 20,
       "category": "情感"
+    },
+    {
+      "raw_hot": 388268,
+      "num": 388268,
+      "word": "爱不爱喝水身体有啥区别",
+      "onboard_time": 1712111900,
+      "rank": 22,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 387610,
@@ -2460,7 +2532,7 @@
     },
     {
       "raw_hot": 355099,
-      "num": 272596,
+      "num": 303103,
       "word": "狗狗为什么喜欢嘬嘬嘬的声音",
       "onboard_time": 1712111121,
       "rank": 30,
@@ -2979,6 +3051,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 278158,
+      "num": 233925,
+      "word": "台湾花莲地震现场画面",
+      "onboard_time": 1712111780,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 277748,
       "num": 277748,
       "word": "韩国总统首次就医改寻求妥协",
@@ -3419,6 +3499,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 240146,
+      "num": 240146,
+      "word": "你想活出怎样的人生今日上映",
+      "onboard_time": 1712112200,
+      "rank": 29,
+      "category": "电影"
+    },
+    {
       "raw_hot": 239442,
       "num": 239442,
       "word": "郑合惠子 清醒的恋爱观",
@@ -3699,6 +3787,22 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 224530,
+      "num": 224530,
+      "word": "花间令剧本写了十年",
+      "onboard_time": 1712113461,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 224105,
+      "num": 224105,
+      "word": "王一博cp感",
+      "onboard_time": 1712113642,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 223652,
       "num": 223652,
       "word": "清华教学楼里到底发生过什么",
@@ -3713,6 +3817,14 @@
       "onboard_time": 1712103992,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 223132,
+      "num": 223132,
+      "word": "刘宇宁跟粉丝道歉",
+      "onboard_time": 1712113940,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 223095,
@@ -3873,6 +3985,14 @@
       "onboard_time": 1711943662,
       "rank": 37,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 213700,
+      "num": 213700,
+      "word": "宋爷爷",
+      "onboard_time": 1712114122,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 213387,
@@ -4195,6 +4315,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 199846,
+      "num": 199846,
+      "word": "王俊凯夏季穿搭",
+      "onboard_time": 1712113940,
+      "rank": 40,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 199754,
       "num": 199754,
       "word": "代号鸢",
@@ -4475,6 +4603,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 191394,
+      "num": 191394,
+      "word": "雷军称今天非常开心",
+      "onboard_time": 1712113461,
+      "rank": 42,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 191016,
       "num": 191016,
       "word": "承欢记 三代花旦同屏",
@@ -4561,6 +4697,14 @@
       "onboard_time": 1712020999,
       "rank": 34,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 188576,
+      "num": 188576,
+      "word": "Girlsday时期的李惠利",
+      "onboard_time": 1712112560,
+      "rank": 45,
+      "category": "演出"
     },
     {
       "raw_hot": 188168,

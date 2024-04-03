@@ -1,0 +1,410 @@
+{
+  "runTime": 1712114359993,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 6960826,
+        "num": 6960826,
+        "word": "台湾花莲县海域7.3级地震",
+        "onboard_time": 1712103872,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2511326,
+        "num": 2511326,
+        "word": "今天上班只干一件事",
+        "onboard_time": 1712108004,
+        "rank": 1,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 5088,
+        "num": 1534256,
+        "word": "中非互联网发展与合作论坛",
+        "onboard_time": 1712044158,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1449200,
+        "num": 1449200,
+        "word": "福宝",
+        "onboard_time": 1712106804,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1142731,
+        "num": 1142731,
+        "word": "冉莹颖回忆孕期上岸北大",
+        "onboard_time": 1712110041,
+        "rank": 4,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 1110356,
+        "num": 1110356,
+        "word": "高铁停运",
+        "onboard_time": 1712112801,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1085195,
+        "num": 1085195,
+        "word": "日本海啸",
+        "onboard_time": 1712104650,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 922387,
+        "num": 922387,
+        "word": "韩国民众冒雨排队送别福宝",
+        "onboard_time": 1712112200,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 854927,
+        "num": 854927,
+        "word": "我国发布海啸红色警报",
+        "onboard_time": 1712105667,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 249516,
+        "num": 831154,
+        "word": "小学生走失被带去派出所后搞起吃播",
+        "onboard_time": 1712102299,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 809516,
+        "num": 809516,
+        "word": "上海女婿阿福宣布离婚",
+        "onboard_time": 1712112739,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 799710,
+        "num": 799710,
+        "word": "雷军给小米车主开车门",
+        "onboard_time": 1712111241,
+        "rank": 11,
+        "category": "互联网,汽车"
+      },
+      {
+        "raw_hot": 782629,
+        "num": 782629,
+        "word": "台湾一豪宅顶楼游泳池变瀑布",
+        "onboard_time": 1712112981,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 691020,
+        "num": 691020,
+        "word": "高铁晚点",
+        "onboard_time": 1712110462,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 668289,
+        "num": 668289,
+        "word": "黑皮果然会让颜值下降",
+        "onboard_time": 1712108481,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 550151,
+        "num": 550151,
+        "word": "赵奕欢36岁身材管理",
+        "onboard_time": 1712113101,
+        "rank": 15,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 443544,
+        "num": 443544,
+        "word": "台湾龟山岛山体崩塌",
+        "onboard_time": 1712108660,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 442009,
+        "num": 442009,
+        "word": "金价",
+        "onboard_time": 1712112440,
+        "rank": 17,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 414064,
+        "num": 414064,
+        "word": "台湾又发5.9级地震",
+        "onboard_time": 1712106208,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 411847,
+        "num": 411847,
+        "word": "雷军宣布小米SU7锁单量超4万",
+        "onboard_time": 1712112860,
+        "rank": 19,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 572745,
+        "num": 405360,
+        "word": "考研总成绩差0.01被录取",
+        "onboard_time": 1712108060,
+        "rank": 20,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 392157,
+        "num": 392157,
+        "word": "刘若英报平安",
+        "onboard_time": 1712112440,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 388268,
+        "num": 388268,
+        "word": "爱不爱喝水身体有啥区别",
+        "onboard_time": 1712111900,
+        "rank": 22,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 313926,
+        "num": 313926,
+        "word": "福宝欢迎回家",
+        "onboard_time": 1712065040,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 303103,
+        "num": 303103,
+        "word": "狗狗为什么喜欢嘬嘬嘬的声音",
+        "onboard_time": 1712111121,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 297367,
+        "num": 297367,
+        "word": "权志龙要开演唱会了",
+        "onboard_time": 1712108004,
+        "rank": 25,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 268706,
+        "num": 268706,
+        "word": "直播福宝回国",
+        "onboard_time": 1712102908,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 255808,
+        "num": 255808,
+        "word": "海啸到达日本冲绳与那国岛",
+        "onboard_time": 1712106027,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 241254,
+        "num": 241254,
+        "word": "美财政部部长耶伦将访华",
+        "onboard_time": 1712109861,
+        "rank": 28,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 240146,
+        "num": 240146,
+        "word": "你想活出怎样的人生今日上映",
+        "onboard_time": 1712112200,
+        "rank": 29,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 497035,
+        "num": 235194,
+        "word": "茶百道 还不开始",
+        "onboard_time": 1712114002,
+        "rank": 30,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 278158,
+        "num": 233925,
+        "word": "台湾花莲地震现场画面",
+        "onboard_time": 1712111780,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 226255,
+        "num": 226255,
+        "word": "台湾地震为什么浙江有震感",
+        "onboard_time": 1712108123,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 224530,
+        "num": 224530,
+        "word": "花间令剧本写了十年",
+        "onboard_time": 1712113461,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 224105,
+        "num": 224105,
+        "word": "王一博cp感",
+        "onboard_time": 1712113642,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 223132,
+        "num": 223132,
+        "word": "刘宇宁跟粉丝道歉",
+        "onboard_time": 1712113940,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 217719,
+        "num": 217719,
+        "word": "男子手术室外晕倒15秒后冲出一群医护",
+        "onboard_time": 1712083991,
+        "rank": 36,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 216766,
+        "num": 216766,
+        "word": "一人一句祝福接福宝回国",
+        "onboard_time": 1712102478,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 213700,
+        "num": 213700,
+        "word": "宋爷爷",
+        "onboard_time": 1712114122,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 213476,
+        "num": 213476,
+        "word": "杭州震感",
+        "onboard_time": 1712103392,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 199846,
+        "num": 199846,
+        "word": "王俊凯夏季穿搭",
+        "onboard_time": 1712113940,
+        "rank": 40,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 199793,
+        "num": 199793,
+        "word": "28岁女子长期吃冰箱剩菜确诊胃癌",
+        "onboard_time": 1712076974,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 191394,
+        "num": 191394,
+        "word": "雷军称今天非常开心",
+        "onboard_time": 1712113461,
+        "rank": 42,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 188847,
+        "num": 188847,
+        "word": "雷军称小米正式成为一家车厂",
+        "onboard_time": 1712105966,
+        "rank": 43,
+        "category": "汽车,互联网"
+      },
+      {
+        "raw_hot": 188714,
+        "num": 188714,
+        "word": "国台办回应台湾地震",
+        "onboard_time": 1712110521,
+        "rank": 44,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 188576,
+        "num": 188576,
+        "word": "Girlsday时期的李惠利",
+        "onboard_time": 1712112560,
+        "rank": 45,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 180580,
+        "num": 180580,
+        "word": "花莲一5层楼整栋倾斜",
+        "onboard_time": 1712107105,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 175154,
+        "num": 175154,
+        "word": "台湾已发生10次地震",
+        "onboard_time": 1712110582,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 174677,
+        "num": 174677,
+        "word": "台湾花莲县海域再发生6.0级地震",
+        "onboard_time": 1712106388,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 169027,
+        "num": 169027,
+        "word": "警方回应找王婆说媒已婚男妻子疑轻生",
+        "onboard_time": 1712079373,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#这次会谈体现中印尼关系的高水平#"
+    }
+  }
+}
