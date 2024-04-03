@@ -1,6 +1,6 @@
 {
   "startTime": 1712161260598,
-  "endTime": 1712168506655,
+  "endTime": 1712169291700,
   "band_list": [
     {
       "raw_hot": 1153852,
@@ -419,6 +419,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 101628,
+      "num": 101628,
+      "word": "宝宝栽倒水桶溺亡奶奶数次经过未发现",
+      "onboard_time": 1712167932,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 100887,
       "num": 100887,
       "word": "追风者 学历史",
@@ -475,12 +483,12 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 47593,
-      "num": 47593,
-      "word": "宝宝栽倒水桶溺亡奶奶数次经过未发现",
-      "onboard_time": 1712167932,
-      "rank": 32,
-      "category": "社会新闻"
+      "raw_hot": 29757,
+      "num": 29757,
+      "word": "英雄联盟维护",
+      "onboard_time": 1712168591,
+      "rank": 44,
+      "category": "电竞"
     }
   ],
   "hotgov_list": [
