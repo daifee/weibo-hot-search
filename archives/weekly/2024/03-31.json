@@ -1,6 +1,6 @@
 {
   "startTime": 1711815680412,
-  "endTime": 1712158473965,
+  "endTime": 1712161260598,
   "band_list": [
     {
       "raw_hot": 16874674,
@@ -2123,6 +2123,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 637024,
+      "num": 637024,
+      "word": "向太陈岚称向佐曾遭遇校园霸凌",
+      "onboard_time": 1712158160,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 633911,
       "num": 633911,
       "word": "仙剑一定档预告",
@@ -2313,6 +2321,14 @@
       "onboard_time": 1712105966,
       "rank": 23,
       "category": "汽车,互联网"
+    },
+    {
+      "raw_hot": 596921,
+      "num": 596921,
+      "word": "怀孕了再补叶酸来得及吗",
+      "onboard_time": 1712157440,
+      "rank": 48,
+      "category": "母婴育儿,科学科普"
     },
     {
       "raw_hot": 596495,
@@ -3177,6 +3193,14 @@
       "onboard_time": 1712032041,
       "rank": 17,
       "category": "游戏,艺人"
+    },
+    {
+      "raw_hot": 460847,
+      "num": 460847,
+      "word": "前有王传君拜佛 后有王劲松上香",
+      "onboard_time": 1712158340,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 459923,
@@ -4315,14 +4339,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 342772,
-      "num": 342772,
-      "word": "怀孕了再补叶酸来得及吗",
-      "onboard_time": 1712157440,
-      "rank": 48,
-      "category": "母婴育儿,科学科普"
-    },
-    {
       "raw_hot": 342732,
       "num": 688412,
       "word": "官方通报采耳店被认定非法行医罚22万",
@@ -4393,6 +4409,14 @@
       "onboard_time": 1712105609,
       "rank": 32,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 333710,
+      "num": 333710,
+      "word": "神君红透了",
+      "onboard_time": 1712159657,
+      "rank": 18,
+      "category": "剧集"
     },
     {
       "raw_hot": 333616,
@@ -5609,14 +5633,6 @@
       "onboard_time": 1712153123,
       "rank": 30,
       "category": "电影"
-    },
-    {
-      "raw_hot": 257442,
-      "num": 257442,
-      "word": "向太陈岚称向佐曾遭遇校园霸凌",
-      "onboard_time": 1712158160,
-      "rank": 26,
-      "category": "艺人"
     },
     {
       "raw_hot": 255124,
@@ -8531,14 +8547,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 177222,
-      "num": 177222,
-      "word": "前有王传君拜佛 后有王劲松上香",
-      "onboard_time": 1712158340,
-      "rank": 40,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 176690,
       "num": 176690,
       "word": "赵奕欢回应演网大出身",
@@ -10827,6 +10835,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 118110,
+      "num": 118110,
+      "word": "ILLIT冠军秀",
+      "onboard_time": 1712159777,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 117816,
       "num": 117816,
       "word": "你好星期六预告",
@@ -11083,6 +11099,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 105262,
+      "num": 105262,
+      "word": "王一博哭戏",
+      "onboard_time": 1712161096,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 104976,
       "num": 104976,
       "word": "五条悟模仿樱木花道",
@@ -11145,6 +11169,14 @@
       "onboard_time": 1711910711,
       "rank": 15,
       "category": "演出"
+    },
+    {
+      "raw_hot": 101211,
+      "num": 101211,
+      "word": "WBG剧本",
+      "onboard_time": 1712160499,
+      "rank": 47,
+      "category": "电竞"
     },
     {
       "raw_hot": 100142,
