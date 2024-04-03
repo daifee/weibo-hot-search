@@ -1,0 +1,410 @@
+{
+  "runTime": 1712129646068,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1537005,
+        "num": 1537005,
+        "word": "王婆说媒换人",
+        "onboard_time": 1712123660,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1318292,
+        "num": 1318292,
+        "word": "张若昀唐艺昕公开恋情的原因",
+        "onboard_time": 1712126361,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 59631,
+        "num": 947692,
+        "word": "清明给英烈写句话",
+        "onboard_time": 1712115621,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1629522,
+        "num": 935921,
+        "word": "胃癌就是这么一口一口吃出来的",
+        "onboard_time": 1712127921,
+        "rank": 3,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 919355,
+        "num": 919355,
+        "word": "辛者库幼儿园",
+        "onboard_time": 1712125880,
+        "rank": 4,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 836396,
+        "num": 836396,
+        "word": "高铁停运",
+        "onboard_time": 1712112801,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 786063,
+        "num": 786063,
+        "word": "福宝",
+        "onboard_time": 1712106804,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 686928,
+        "num": 686928,
+        "word": "12306",
+        "onboard_time": 1712123781,
+        "rank": 7,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 614504,
+        "num": 614504,
+        "word": "江西风雹灾害9.3万人受灾",
+        "onboard_time": 1712127502,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 101264,
+        "num": 595502,
+        "word": "有个不扫兴的家人多么幸福",
+        "onboard_time": 1712128820,
+        "rank": 9,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 805969,
+        "num": 594932,
+        "word": "黄子佼购买上百部未成年少女不雅片",
+        "onboard_time": 1712118622,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 591900,
+        "num": 591900,
+        "word": "姐别卖房子了内娱需要你",
+        "onboard_time": 1712121561,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 490388,
+        "num": 490388,
+        "word": "周杰伦亲历台湾地震称晃到不行",
+        "onboard_time": 1712119822,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 486903,
+        "num": 486903,
+        "word": "宋爷爷头抵车门与福宝告别哭成泪人",
+        "onboard_time": 1712119162,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 472391,
+        "num": 472391,
+        "word": "吴京谢楠恋情被自己公司记者拍到",
+        "onboard_time": 1712123420,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 468987,
+        "num": 468987,
+        "word": "台湾花莲县海域7.3级地震",
+        "onboard_time": 1712103872,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 459805,
+        "num": 459805,
+        "word": "台湾地震77人仍被困",
+        "onboard_time": 1712126901,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 446133,
+        "num": 446133,
+        "word": "原来散步才是真纯爱",
+        "onboard_time": 1712121683,
+        "rank": 17,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 445599,
+        "num": 445599,
+        "word": "胖东来金价刚涨到593元",
+        "onboard_time": 1712120182,
+        "rank": 18,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 362662,
+        "num": 362662,
+        "word": "曹格儿子女儿泰国度假",
+        "onboard_time": 1712125822,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 612147,
+        "num": 361421,
+        "word": "维生素片致癌再添新证",
+        "onboard_time": 1712125822,
+        "rank": 20,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 541453,
+        "num": 359572,
+        "word": "生理性排斥要不要继续",
+        "onboard_time": 1712127863,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 481125,
+        "num": 358307,
+        "word": "我老公宁愿离婚也要换车",
+        "onboard_time": 1712125522,
+        "rank": 22,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 356209,
+        "num": 356209,
+        "word": "开除事业编制有多难",
+        "onboard_time": 1712125822,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 314502,
+        "num": 314502,
+        "word": "徐正溪发文告别烈焰",
+        "onboard_time": 1712129301,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 309230,
+        "num": 309230,
+        "word": "辛芷蕾橘色短发",
+        "onboard_time": 1712125582,
+        "rank": 25,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 281873,
+        "num": 281873,
+        "word": "提灯定损涉事房东被行拘",
+        "onboard_time": 1712122162,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 270856,
+        "num": 270856,
+        "word": "台湾花莲地震已致4死",
+        "onboard_time": 1712116522,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 262709,
+        "num": 262709,
+        "word": "金智媛好美",
+        "onboard_time": 1712120423,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 255546,
+        "num": 255546,
+        "word": "台湾花莲地震已致7人死亡",
+        "onboard_time": 1712129242,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 251398,
+        "num": 251398,
+        "word": "陈赫张子萱一家新加坡度假",
+        "onboard_time": 1712124321,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 246029,
+        "num": 246029,
+        "word": "09给笑笑道歉",
+        "onboard_time": 1712122101,
+        "rank": 31,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 235894,
+        "num": 235894,
+        "word": "蔡徐坤愿一切平安",
+        "onboard_time": 1712127320,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 223642,
+        "num": 223642,
+        "word": "TheShy回应夏季赛复出",
+        "onboard_time": 1712127863,
+        "rank": 33,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 212896,
+        "num": 212896,
+        "word": "上海女婿阿福宣布离婚",
+        "onboard_time": 1712112739,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 188361,
+        "num": 188361,
+        "word": "杨紫 声线比戏路还百变",
+        "onboard_time": 1712129122,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 186509,
+        "num": 186509,
+        "word": "台湾一豪宅顶楼游泳池变瀑布",
+        "onboard_time": 1712112981,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 175030,
+        "num": 175030,
+        "word": "日本海啸",
+        "onboard_time": 1712104650,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 21142,
+        "num": 167960,
+        "word": "vivoXFold3轻薄得不像折叠屏",
+        "onboard_time": 1712128161,
+        "rank": 38,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 166691,
+        "num": 166691,
+        "word": "AG菜就多练",
+        "onboard_time": 1712125341,
+        "rank": 39,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 165134,
+        "num": 165134,
+        "word": "今天上班只干一件事",
+        "onboard_time": 1712108004,
+        "rank": 40,
+        "category": "情感,作品衍生"
+      },
+      {
+        "raw_hot": 161786,
+        "num": 161786,
+        "word": "千万不要独自上陌生人的车",
+        "onboard_time": 1712128762,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 159283,
+        "num": 159283,
+        "word": "刚入职发现同事全要离职",
+        "onboard_time": 1712121502,
+        "rank": 42,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 153727,
+        "num": 153727,
+        "word": "台湾未来3天可能还有7级地震",
+        "onboard_time": 1712121980,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 152436,
+        "num": 152436,
+        "word": "盛一伦家中震感",
+        "onboard_time": 1712115321,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 150366,
+        "num": 150366,
+        "word": "景区摆摊P图成为大学生新副业",
+        "onboard_time": 1712128581,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 141373,
+        "num": 141373,
+        "word": "张亮 给孩子试错和承担的权利",
+        "onboard_time": 1712120062,
+        "rank": 46,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 136894,
+        "num": 136894,
+        "word": "她看起来一点也不开心啊",
+        "onboard_time": 1712127863,
+        "rank": 47,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 124448,
+        "num": 124448,
+        "word": "大哥穿上这衣服真是很香艳",
+        "onboard_time": 1712129540,
+        "rank": 48,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 122397,
+        "num": 122397,
+        "word": "福宝启程回国现场画面",
+        "onboard_time": 1712116041,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#中印尼友好之轮始终破浪向前#"
+    }
+  }
+}

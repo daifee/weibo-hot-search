@@ -1,6 +1,6 @@
 {
   "startTime": 1712074937436,
-  "endTime": 1712128611926,
+  "endTime": 1712129646068,
   "band_list": [
     {
       "raw_hot": 16874674,
@@ -83,6 +83,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1629522,
+      "num": 935921,
+      "word": "胃癌就是这么一口一口吃出来的",
+      "onboard_time": 1712127921,
+      "rank": 11,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 1594363,
       "num": 1594363,
       "word": "福宝",
@@ -147,6 +155,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1318292,
+      "num": 1318292,
+      "word": "张若昀唐艺昕公开恋情的原因",
+      "onboard_time": 1712126361,
+      "rank": 1,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1300138,
       "num": 1300138,
       "word": "上海震感",
@@ -161,14 +177,6 @@
       "onboard_time": 1712106027,
       "rank": 12,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1256174,
-      "num": 1256174,
-      "word": "张若昀唐艺昕公开恋情的原因",
-      "onboard_time": 1712126361,
-      "rank": 1,
-      "category": "综艺"
     },
     {
       "raw_hot": 1254752,
@@ -283,12 +291,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 883414,
-      "num": 612651,
-      "word": "胃癌就是这么一口一口吃出来的",
-      "onboard_time": 1712127921,
-      "rank": 11,
-      "category": "健康医疗"
+      "raw_hot": 919355,
+      "num": 919355,
+      "word": "辛者库幼儿园",
+      "onboard_time": 1712125880,
+      "rank": 8,
+      "category": "幽默"
     },
     {
       "raw_hot": 865384,
@@ -403,15 +411,15 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 615088,
-      "num": 615088,
-      "word": "辛者库幼儿园",
-      "onboard_time": 1712125880,
-      "rank": 8,
-      "category": "幽默"
+      "raw_hot": 614504,
+      "num": 614504,
+      "word": "江西风雹灾害9.3万人受灾",
+      "onboard_time": 1712127502,
+      "rank": 18,
+      "category": "社会新闻"
     },
     {
-      "raw_hot": 610945,
+      "raw_hot": 612147,
       "num": 474083,
       "word": "维生素片致癌再添新证",
       "onboard_time": 1712125822,
@@ -491,6 +499,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 541453,
+      "num": 428048,
+      "word": "生理性排斥要不要继续",
+      "onboard_time": 1712127863,
+      "rank": 23,
+      "category": "情感"
+    },
+    {
       "raw_hot": 536088,
       "num": 536088,
       "word": "权志龙要开演唱会了",
@@ -553,14 +569,6 @@
       "onboard_time": 1712125822,
       "rank": 31,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 491350,
-      "num": 491350,
-      "word": "江西风雹灾害9.3万人受灾",
-      "onboard_time": 1712127502,
-      "rank": 18,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 485296,
@@ -673,14 +681,6 @@
       "onboard_time": 1712068581,
       "rank": 19,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 428048,
-      "num": 428048,
-      "word": "生理性排斥要不要继续",
-      "onboard_time": 1712127863,
-      "rank": 23,
-      "category": "情感"
     },
     {
       "raw_hot": 426737,
@@ -875,6 +875,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 314502,
+      "num": 314502,
+      "word": "徐正溪发文告别烈焰",
+      "onboard_time": 1712129301,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 313529,
       "num": 313529,
       "word": "福州震感",
@@ -1051,6 +1059,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 255546,
+      "num": 255546,
+      "word": "台湾花莲地震已致7人死亡",
+      "onboard_time": 1712129242,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 255124,
       "num": 255124,
       "word": "什么岗位会接受0经验",
@@ -1195,6 +1211,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 223642,
+      "num": 223642,
+      "word": "TheShy回应夏季赛复出",
+      "onboard_time": 1712127863,
+      "rank": 34,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 223578,
       "num": 223578,
       "word": "常州震感",
@@ -1225,14 +1249,6 @@
       "onboard_time": 1712056640,
       "rank": 16,
       "category": "电竞,网红"
-    },
-    {
-      "raw_hot": 213932,
-      "num": 213932,
-      "word": "TheShy回应夏季赛复出",
-      "onboard_time": 1712127863,
-      "rank": 34,
-      "category": "电竞"
     },
     {
       "raw_hot": 213919,
@@ -1395,6 +1411,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 188361,
+      "num": 188361,
+      "word": "杨紫 声线比戏路还百变",
+      "onboard_time": 1712129122,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 186667,
       "num": 186667,
       "word": "赵丽颖东海大战绿幕打戏",
@@ -1475,6 +1499,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 161786,
+      "num": 161786,
+      "word": "千万不要独自上陌生人的车",
+      "onboard_time": 1712128762,
+      "rank": 41,
+      "category": "情感"
+    },
+    {
       "raw_hot": 161412,
       "num": 161412,
       "word": "9省份将有8至11级雷暴大风或冰雹",
@@ -1531,6 +1563,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 150366,
+      "num": 150366,
+      "word": "景区摆摊P图成为大学生新副业",
+      "onboard_time": 1712128581,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 148899,
       "num": 148899,
       "word": "王阳王昱珩武大靖同台走秀",
@@ -1569,14 +1609,6 @@
       "onboard_time": 1712055139,
       "rank": 28,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 134132,
-      "num": 134132,
-      "word": "景区摆摊P图成为大学生新副业",
-      "onboard_time": 1712128581,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 133677,
@@ -1625,6 +1657,14 @@
       "onboard_time": 1712063061,
       "rank": 31,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 124448,
+      "num": 124448,
+      "word": "大哥穿上这衣服真是很香艳",
+      "onboard_time": 1712129540,
+      "rank": 48,
+      "category": "动漫"
     },
     {
       "raw_hot": 120105,
@@ -1704,6 +1744,14 @@
       "word": "想辞职被领导撒娇留下来了",
       "onboard_time": 1712065279,
       "rank": 40,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 101264,
+      "num": 595502,
+      "word": "有个不扫兴的家人多么幸福",
+      "onboard_time": 1712128820,
+      "rank": 9,
       "category": "情感"
     },
     {
@@ -1931,7 +1979,7 @@
       "category": "情感,网红"
     },
     {
-      "raw_hot": 18504,
+      "raw_hot": 21142,
       "num": 186309,
       "word": "vivoXFold3轻薄得不像折叠屏",
       "onboard_time": 1712128161,
