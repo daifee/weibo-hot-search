@@ -1,0 +1,410 @@
+{
+  "runTime": 1712171762923,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 178446,
+        "num": 178446,
+        "word": "名创优品下架chiikawa不当视频",
+        "onboard_time": 1712153300,
+        "rank": 0,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 137437,
+        "num": 137437,
+        "word": "福宝回家了",
+        "onboard_time": 1712143879,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 18765,
+        "num": 129312,
+        "word": "春天很好只是太想你",
+        "onboard_time": 1712155103,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 126845,
+        "num": 126845,
+        "word": "大学生被赶下车后发现异常救司机一命",
+        "onboard_time": 1712151442,
+        "rank": 3,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 105359,
+        "num": 105359,
+        "word": "行止不行",
+        "onboard_time": 1712163916,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 97231,
+        "num": 97231,
+        "word": "向太陈岚称向佐曾遭遇校园霸凌",
+        "onboard_time": 1712158160,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 93172,
+        "num": 93172,
+        "word": "退圈的徐正溪 杀回来的黑珑",
+        "onboard_time": 1712146640,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 85620,
+        "num": 85620,
+        "word": "胃癌就是这么一口一口吃出来的",
+        "onboard_time": 1712127921,
+        "rank": 7,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 81620,
+        "num": 81620,
+        "word": "老师用P过的照片吸引同学来上课",
+        "onboard_time": 1712145859,
+        "rank": 8,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 79045,
+        "num": 79045,
+        "word": "福宝最新画面",
+        "onboard_time": 1712164694,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 249375,
+        "num": 76178,
+        "word": "宝宝栽倒水桶溺亡奶奶数次经过未发现",
+        "onboard_time": 1712167932,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 101884,
+        "num": 76016,
+        "word": "雷军能不能生产一下卫生巾",
+        "onboard_time": 1712150661,
+        "rank": 11,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 83221,
+        "num": 75957,
+        "word": "金价飙涨女子卖了60多万股票买金条",
+        "onboard_time": 1712133859,
+        "rank": 12,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 73192,
+        "num": 73192,
+        "word": "花莲地震骨灰坛被甩出骨灰全混了",
+        "onboard_time": 1712151981,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 72954,
+        "num": 72954,
+        "word": "月经出现这2种情况一定要去检查",
+        "onboard_time": 1712135119,
+        "rank": 14,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 70999,
+        "num": 70999,
+        "word": "前有王传君拜佛 后有王劲松上香",
+        "onboard_time": 1712158340,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 70076,
+        "num": 70076,
+        "word": "台湾强震前网上现天空异象照片",
+        "onboard_time": 1712142921,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 69572,
+        "num": 69572,
+        "word": "张元英ins",
+        "onboard_time": 1712143820,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 68900,
+        "num": 68900,
+        "word": "赵丽颖林更新情头",
+        "onboard_time": 1712141539,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 55069,
+        "num": 55069,
+        "word": "神君红透了",
+        "onboard_time": 1712159657,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 52770,
+        "num": 52770,
+        "word": "怀孕了再补叶酸来得及吗",
+        "onboard_time": 1712157440,
+        "rank": 20,
+        "category": "母婴育儿,科学科普"
+      },
+      {
+        "raw_hot": 51467,
+        "num": 51467,
+        "word": "09小楼事件",
+        "onboard_time": 1712154801,
+        "rank": 21,
+        "category": "电竞,网红"
+      },
+      {
+        "raw_hot": 47361,
+        "num": 47361,
+        "word": "福宝顺利抵达成都",
+        "onboard_time": 1712143879,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 56549,
+        "num": 47317,
+        "word": "赵丽颖林更新吻戏",
+        "onboard_time": 1712142738,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 47238,
+        "num": 47238,
+        "word": "吴磊直播流鼻血",
+        "onboard_time": 1712148859,
+        "rank": 24,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 44814,
+        "num": 44814,
+        "word": "南京大学回应一考研生成绩第一被刷",
+        "onboard_time": 1712140280,
+        "rank": 25,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 40944,
+        "num": 40944,
+        "word": "福宝户口",
+        "onboard_time": 1712148560,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 39785,
+        "num": 39785,
+        "word": "每天吃1个鸡蛋身体会发生什么变化",
+        "onboard_time": 1712144119,
+        "rank": 27,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 40132,
+        "num": 38886,
+        "word": "赵丽颖你就宠林更新吧",
+        "onboard_time": 1712161396,
+        "rank": 28,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 36962,
+        "num": 36962,
+        "word": "姜爷爷和福宝",
+        "onboard_time": 1712147660,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 36703,
+        "num": 36703,
+        "word": "月薪4000要不要交社保",
+        "onboard_time": 1712141360,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 32065,
+        "num": 32065,
+        "word": "福宝路上带的竹子没吃完",
+        "onboard_time": 1712147240,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 31462,
+        "num": 31462,
+        "word": "宫崎骏",
+        "onboard_time": 1712144000,
+        "rank": 32,
+        "category": "电影,动漫"
+      },
+      {
+        "raw_hot": 30466,
+        "num": 30466,
+        "word": "爱奇艺副总裁探班种地吧",
+        "onboard_time": 1712162776,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 30082,
+        "num": 30082,
+        "word": "追风者 学历史",
+        "onboard_time": 1712153601,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 29665,
+        "num": 29665,
+        "word": "福宝隔离期有多个工作组照顾",
+        "onboard_time": 1712144479,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 29487,
+        "num": 29487,
+        "word": "追风者 宋霭龄",
+        "onboard_time": 1712150901,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 28707,
+        "num": 28707,
+        "word": "台北捷运高铁全线暂停营运",
+        "onboard_time": 1712171231,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 28347,
+        "num": 28347,
+        "word": "2元和200元的叶酸到底有啥差别",
+        "onboard_time": 1712165594,
+        "rank": 38,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 28139,
+        "num": 28139,
+        "word": "惜花芷",
+        "onboard_time": 1712157140,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 27956,
+        "num": 27956,
+        "word": "英雄联盟维护",
+        "onboard_time": 1712168591,
+        "rank": 40,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 27610,
+        "num": 27610,
+        "word": "果然猫界中三花最美",
+        "onboard_time": 1712170393,
+        "rank": 41,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 27510,
+        "num": 27510,
+        "word": "千万不要等到毕业再找工作",
+        "onboard_time": 1712152822,
+        "rank": 42,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 26892,
+        "num": 26892,
+        "word": "台湾地震已致10死934伤",
+        "onboard_time": 1712144899,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 24464,
+        "num": 26883,
+        "word": "与凤行",
+        "onboard_time": 1712154801,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 23669,
+        "num": 26875,
+        "word": "行止穿深V是为了这一刻",
+        "onboard_time": 1712157920,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 22516,
+        "num": 26860,
+        "word": "WBG剧本",
+        "onboard_time": 1712160499,
+        "rank": 46,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 22516,
+        "num": 26858,
+        "word": "王一博裴佳欣对手戏",
+        "onboard_time": 1712154021,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 21770,
+        "num": 26848,
+        "word": "李沁演技",
+        "onboard_time": 1712153182,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 20956,
+        "num": 26827,
+        "word": "LNG对战WBG",
+        "onboard_time": 1712142020,
+        "rank": 49,
+        "category": "电竞"
+      }
+    ],
+    "hotgov": {
+      "word": "#中美关系要不折腾不挑事不越界#"
+    }
+  }
+}

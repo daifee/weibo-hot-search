@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/04/01 00:20:44 ~ 2024/04/04 02:34:51
+本榜单时间：2024/04/01 00:20:44 ~ 2024/04/04 03:16:02
 </p>
 </blockquote>
 <p>
@@ -3405,6 +3405,12 @@ WBG战胜LNG（热度：251999）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%AE%9D%E5%AE%9D%E6%A0%BD%E5%80%92%E6%B0%B4%E6%A1%B6%E6%BA%BA%E4%BA%A1%E5%A5%B6%E5%A5%B6%E6%95%B0%E6%AC%A1%E7%BB%8F%E8%BF%87%E6%9C%AA%E5%8F%91%E7%8E%B0%23" target="weibo">
+宝宝栽倒水桶溺亡奶奶数次经过未发现（热度：249375）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23100%E5%8F%AA%E7%94%9F%E8%9A%9D%E8%83%BD%E5%81%9A%E5%87%BA%E5%A4%9A%E5%B0%91%E8%9A%9D%E6%B2%B9%23" target="weibo">
 100只生蚝能做出多少蚝油（热度：249346）
 </a>
@@ -6005,12 +6011,6 @@ WBG对战iG战歌起（热度：143376）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%84%B8%E9%83%A8%E9%94%BB%E7%82%BC%E6%93%8D%23" target="weibo">
 脸部锻炼操（热度：137639）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%A2%AB%E5%B9%BC%E5%84%BF%E5%9B%AD%E5%B0%8F%E6%9C%8B%E5%8F%8B%E5%8E%A8%E8%89%BA%E9%9C%87%E6%83%8A%E4%BA%86%23" target="weibo">
-被幼儿园小朋友厨艺震惊了（热度：137431）
 </a>
 </li>
 

@@ -1,6 +1,6 @@
 {
   "startTime": 1712161260598,
-  "endTime": 1712169291700,
+  "endTime": 1712171762923,
   "band_list": [
     {
       "raw_hot": 1153852,
@@ -177,6 +177,14 @@
       "onboard_time": 1712162776,
       "rank": 17,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 249375,
+      "num": 101628,
+      "word": "宝宝栽倒水桶溺亡奶奶数次经过未发现",
+      "onboard_time": 1712167932,
+      "rank": 32,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 229211,
@@ -419,14 +427,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 101628,
-      "num": 101628,
-      "word": "宝宝栽倒水桶溺亡奶奶数次经过未发现",
-      "onboard_time": 1712167932,
-      "rank": 32,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 100887,
       "num": 100887,
       "word": "追风者 学历史",
@@ -489,6 +489,30 @@
       "onboard_time": 1712168591,
       "rank": 44,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 28707,
+      "num": 28707,
+      "word": "台北捷运高铁全线暂停营运",
+      "onboard_time": 1712171231,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 27610,
+      "num": 27610,
+      "word": "果然猫界中三花最美",
+      "onboard_time": 1712170393,
+      "rank": 41,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 18765,
+      "num": 129312,
+      "word": "春天很好只是太想你",
+      "onboard_time": 1712155103,
+      "rank": 2,
+      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
