@@ -1,6 +1,6 @@
 {
   "startTime": 1711902044401,
-  "endTime": 1712154857850,
+  "endTime": 1712157454563,
   "band_list": [
     {
       "raw_hot": 16874674,
@@ -227,6 +227,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 1851247,
+      "num": 803247,
+      "word": "日本核污水或于本月到达我国沿海",
+      "onboard_time": 1712153480,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1849185,
       "num": 1849185,
       "word": "重庆警方通报一女子高空抛子",
@@ -249,6 +257,14 @@
       "onboard_time": 1711979001,
       "rank": 0,
       "category": "电影"
+    },
+    {
+      "raw_hot": 1800507,
+      "num": 1800507,
+      "word": "名创优品下架chiikawa不当视频",
+      "onboard_time": 1712153300,
+      "rank": 21,
+      "category": "动漫"
     },
     {
       "raw_hot": 1788945,
@@ -643,14 +659,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1200613,
-      "num": 1200613,
-      "word": "名创优品下架chiikawa不当视频",
-      "onboard_time": 1712153300,
-      "rank": 21,
-      "category": "动漫"
-    },
-    {
       "raw_hot": 1181394,
       "num": 1136230,
       "word": "扔小孩女子疑似精神行为异常",
@@ -948,7 +956,7 @@
     },
     {
       "raw_hot": 966651,
-      "num": 653543,
+      "num": 949043,
       "word": "花莲地震骨灰坛被甩出骨灰全混了",
       "onboard_time": 1712151981,
       "rank": 11,
@@ -1971,14 +1979,6 @@
       "category": "科学科普"
     },
     {
-      "raw_hot": 577073,
-      "num": 577073,
-      "word": "日本核污水或于本月到达我国沿海",
-      "onboard_time": 1712153480,
-      "rank": 36,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 573993,
       "num": 573993,
       "word": "相柳战死图",
@@ -2564,7 +2564,7 @@
     },
     {
       "raw_hot": 454834,
-      "num": 393083,
+      "num": 408122,
       "word": "林更新下次想演赵丽颖",
       "onboard_time": 1712151322,
       "rank": 23,
@@ -3779,6 +3779,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 305292,
+      "num": 305292,
+      "word": "JDG 研究下WBG",
+      "onboard_time": 1712156541,
+      "rank": 25,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 304483,
       "num": 315316,
       "word": "愚人节",
@@ -4155,6 +4163,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 270239,
+      "num": 270239,
+      "word": "与凤行收视率新高",
+      "onboard_time": 1712155221,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 269741,
       "num": 269741,
       "word": "孩子患百日咳喝蒜泥冰糖水能缓解",
@@ -4209,6 +4225,14 @@
       "onboard_time": 1712048300,
       "rank": 25,
       "category": "健康医疗,美食"
+    },
+    {
+      "raw_hot": 267953,
+      "num": 267953,
+      "word": "09小楼事件",
+      "onboard_time": 1712154801,
+      "rank": 47,
+      "category": "电竞,网红"
     },
     {
       "raw_hot": 266112,
@@ -4417,6 +4441,14 @@
       "onboard_time": 1712067981,
       "rank": 23,
       "category": "综艺,时尚"
+    },
+    {
+      "raw_hot": 251999,
+      "num": 251999,
+      "word": "WBG战胜LNG",
+      "onboard_time": 1712156180,
+      "rank": 31,
+      "category": "电竞"
     },
     {
       "raw_hot": 251713,
@@ -4659,6 +4691,14 @@
       "category": "电影,动漫"
     },
     {
+      "raw_hot": 239615,
+      "num": 239615,
+      "word": "千万不要等到毕业再找工作",
+      "onboard_time": 1712152822,
+      "rank": 32,
+      "category": "教育"
+    },
+    {
       "raw_hot": 239442,
       "num": 239442,
       "word": "郑合惠子 清醒的恋爱观",
@@ -4745,6 +4785,14 @@
       "onboard_time": 1712121081,
       "rank": 39,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 234027,
+      "num": 234027,
+      "word": "LNG对战WBG",
+      "onboard_time": 1712142020,
+      "rank": 36,
+      "category": "电竞"
     },
     {
       "raw_hot": 234018,
@@ -5347,6 +5395,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 208817,
+      "num": 208817,
+      "word": "蒋敦豪开启养蜂之路",
+      "onboard_time": 1712157140,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 208274,
       "num": 208274,
       "word": "变身罗伯特",
@@ -5475,6 +5531,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 203315,
+      "num": 203315,
+      "word": "IVE将4月29日回归",
+      "onboard_time": 1712156060,
+      "rank": 40,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 203314,
       "num": 203314,
       "word": "桑启新皮肤上线",
@@ -5489,6 +5553,14 @@
       "onboard_time": 1712051659,
       "rank": 26,
       "category": "电影"
+    },
+    {
+      "raw_hot": 202639,
+      "num": 202639,
+      "word": "惜花芷",
+      "onboard_time": 1712026399,
+      "rank": 30,
+      "category": "剧集"
     },
     {
       "raw_hot": 202637,
@@ -5753,6 +5825,14 @@
       "onboard_time": 1712132660,
       "rank": 39,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 196400,
+      "num": 196400,
+      "word": "晚点",
+      "onboard_time": 1712156481,
+      "rank": 42,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 196354,
@@ -6187,14 +6267,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 186977,
-      "num": 186977,
-      "word": "LNG对战WBG",
-      "onboard_time": 1712142020,
-      "rank": 36,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 186667,
       "num": 186667,
       "word": "孙颖莎8个有效积分全是冠军",
@@ -6257,6 +6329,14 @@
       "onboard_time": 1712039599,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 184758,
+      "num": 184758,
+      "word": "与凤行",
+      "onboard_time": 1712036719,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 184653,
@@ -6337,14 +6417,6 @@
       "onboard_time": 1711937478,
       "rank": 34,
       "category": "体育"
-    },
-    {
-      "raw_hot": 182488,
-      "num": 182488,
-      "word": "惜花芷",
-      "onboard_time": 1712026399,
-      "rank": 30,
-      "category": "剧集"
     },
     {
       "raw_hot": 181599,
@@ -6491,12 +6563,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 178005,
+      "num": 178005,
+      "word": "怀孕了再补叶酸来得及吗",
+      "onboard_time": 1712157440,
+      "rank": 48,
+      "category": "母婴育儿,科学科普"
+    },
+    {
       "raw_hot": 177988,
       "num": 177988,
       "word": "王伟烈士牺牲23年了",
       "onboard_time": 1711927036,
       "rank": 27,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 177839,
+      "num": 177839,
+      "word": "周震南安检前猛炫茶",
+      "onboard_time": 1712157440,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 177699,
@@ -6931,14 +7019,6 @@
       "category": "电竞,网红"
     },
     {
-      "raw_hot": 162643,
-      "num": 162643,
-      "word": "与凤行",
-      "onboard_time": 1712036719,
-      "rank": 47,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 162413,
       "num": 162413,
       "word": "摇太阳片尾曲是张杰唱的",
@@ -7104,14 +7184,6 @@
       "word": "笑笑发博回应伍声",
       "onboard_time": 1712055741,
       "rank": 35,
-      "category": "电竞,网红"
-    },
-    {
-      "raw_hot": 158778,
-      "num": 158778,
-      "word": "09小楼事件",
-      "onboard_time": 1712154801,
-      "rank": 47,
       "category": "电竞,网红"
     },
     {
@@ -8587,6 +8659,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 72710,
+      "num": 1154857,
+      "word": "家国永念致敬英雄",
+      "onboard_time": 1712155580,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 71689,
       "num": 71689,
       "word": "小米汽车回应提车日期",
@@ -9014,6 +9094,9 @@
     },
     {
       "word": "#中美关系要不折腾不挑事不越界#"
+    },
+    {
+      "word": "#全民植树增绿共建美丽中国#"
     }
   ]
 }
