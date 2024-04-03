@@ -1,0 +1,410 @@
+{
+  "runTime": 1712122458587,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2229176,
+        "num": 2229176,
+        "word": "高铁停运",
+        "onboard_time": 1712112801,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1809431,
+        "num": 1809431,
+        "word": "台湾花莲县海域7.3级地震",
+        "onboard_time": 1712103872,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 77526,
+        "num": 1530476,
+        "word": "清明给英烈写句话",
+        "onboard_time": 1712115621,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1430849,
+        "num": 1430849,
+        "word": "江西风雹灾害7人死亡",
+        "onboard_time": 1712119762,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1378625,
+        "num": 1378625,
+        "word": "周杰伦亲历台湾地震称晃到不行",
+        "onboard_time": 1712119822,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1292401,
+        "num": 1292401,
+        "word": "福宝",
+        "onboard_time": 1712106804,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1118722,
+        "num": 1118722,
+        "word": "宋爷爷头抵车门与福宝告别哭成泪人",
+        "onboard_time": 1712119162,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 873519,
+        "num": 873519,
+        "word": "胖东来金价刚涨到593元",
+        "onboard_time": 1712120182,
+        "rank": 7,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 822290,
+        "num": 822290,
+        "word": "盛一伦家中震感",
+        "onboard_time": 1712115321,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 136632,
+        "num": 822271,
+        "word": "小学生走失被带去派出所后搞起吃播",
+        "onboard_time": 1712102299,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2071602,
+        "num": 822263,
+        "word": "黄子佼购买上百部未成年少女不雅片",
+        "onboard_time": 1712118622,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 822252,
+        "num": 822252,
+        "word": "台湾一豪宅顶楼游泳池变瀑布",
+        "onboard_time": 1712112981,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 727851,
+        "num": 727851,
+        "word": "今天上班只干一件事",
+        "onboard_time": 1712108004,
+        "rank": 12,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 630688,
+        "num": 630688,
+        "word": "上海女婿阿福宣布离婚",
+        "onboard_time": 1712112739,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 586069,
+        "num": 586069,
+        "word": "金智媛好美",
+        "onboard_time": 1712120423,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 109047,
+        "num": 560859,
+        "word": "无人驾驶都能劈S弯了吗",
+        "onboard_time": 1712118803,
+        "rank": 15,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 553498,
+        "num": 553498,
+        "word": "张亮 给孩子试错和承担的权利",
+        "onboard_time": 1712120062,
+        "rank": 16,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 524052,
+        "num": 524052,
+        "word": "台湾花莲地震已致4死",
+        "onboard_time": 1712116522,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 519562,
+        "num": 519562,
+        "word": "四月桃花运最旺的星座",
+        "onboard_time": 1712117663,
+        "rank": 18,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 485296,
+        "num": 485296,
+        "word": "江西通报提灯定损事件",
+        "onboard_time": 1712121261,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 584520,
+        "num": 484613,
+        "word": "姐别卖房子了内娱需要你",
+        "onboard_time": 1712121561,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 481640,
+        "num": 481640,
+        "word": "我国发布海啸红色警报",
+        "onboard_time": 1712105667,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 440542,
+        "num": 440542,
+        "word": "刚入职发现同事全要离职",
+        "onboard_time": 1712121502,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 391376,
+        "num": 391376,
+        "word": "武艺的洁癖被公开处刑了",
+        "onboard_time": 1712117902,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 332483,
+        "num": 332483,
+        "word": "黑皮果然会让颜值下降",
+        "onboard_time": 1712108481,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 325856,
+        "num": 325856,
+        "word": "日本海啸",
+        "onboard_time": 1712104650,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 308097,
+        "num": 308097,
+        "word": "冉莹颖回忆孕期上岸北大",
+        "onboard_time": 1712110041,
+        "rank": 26,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 300567,
+        "num": 300567,
+        "word": "原来散步才是真纯爱",
+        "onboard_time": 1712121683,
+        "rank": 27,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 281247,
+        "num": 281247,
+        "word": "边伯贤 香港",
+        "onboard_time": 1712115682,
+        "rank": 28,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 280217,
+        "num": 280217,
+        "word": "宋爷爷",
+        "onboard_time": 1712114122,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 274405,
+        "num": 274405,
+        "word": "雷军给小米车主开车门",
+        "onboard_time": 1712111241,
+        "rank": 30,
+        "category": "互联网,汽车"
+      },
+      {
+        "raw_hot": 270004,
+        "num": 270004,
+        "word": "赵奕欢36岁身材管理",
+        "onboard_time": 1712113101,
+        "rank": 31,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 249811,
+        "num": 249811,
+        "word": "韩国民众冒雨排队送别福宝",
+        "onboard_time": 1712112200,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 247197,
+        "num": 247197,
+        "word": "周大福足金饰品金价突破700元",
+        "onboard_time": 1712119703,
+        "rank": 33,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 246087,
+        "num": 246087,
+        "word": "雷军",
+        "onboard_time": 1712120483,
+        "rank": 34,
+        "category": "互联网,汽车"
+      },
+      {
+        "raw_hot": 242709,
+        "num": 242709,
+        "word": "福宝启程回国现场画面",
+        "onboard_time": 1712116041,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 237540,
+        "num": 237540,
+        "word": "心太软的人没法当老师",
+        "onboard_time": 1712117902,
+        "rank": 36,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 236438,
+        "num": 236438,
+        "word": "茶百道 还不开始",
+        "onboard_time": 1712114002,
+        "rank": 37,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 231288,
+        "num": 231288,
+        "word": "台湾未来3天可能还有7级地震",
+        "onboard_time": 1712121980,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 224553,
+        "num": 224553,
+        "word": "被一只北太平洋巨型章鱼抱住脚",
+        "onboard_time": 1712117602,
+        "rank": 39,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 224171,
+        "num": 224171,
+        "word": "09给笑笑道歉",
+        "onboard_time": 1712122101,
+        "rank": 40,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 217265,
+        "num": 217265,
+        "word": "提灯定损涉事房东被行拘",
+        "onboard_time": 1712122162,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 208584,
+        "num": 208584,
+        "word": "王俊凯 德云社在逃编外捧哏",
+        "onboard_time": 1712121081,
+        "rank": 42,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 206975,
+        "num": 206975,
+        "word": "我承认之前对幽兰太大声了",
+        "onboard_time": 1712121381,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 204862,
+        "num": 204862,
+        "word": "后悔介绍朋友来自己公司了",
+        "onboard_time": 1712118622,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 198711,
+        "num": 198711,
+        "word": "马立奥 我唱歌好听不听",
+        "onboard_time": 1712119343,
+        "rank": 45,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 196040,
+        "num": 196040,
+        "word": "与凤行团建定档",
+        "onboard_time": 1712116342,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 188981,
+        "num": 188981,
+        "word": "雷军现身小米SU7交付仪式",
+        "onboard_time": 1712122222,
+        "rank": 47,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 184965,
+        "num": 184965,
+        "word": "台湾花莲县海域再发生6.0级地震",
+        "onboard_time": 1712106388,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 182459,
+        "num": 182459,
+        "word": "台湾又发5.9级地震",
+        "onboard_time": 1712106208,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#中美关系要不折腾不挑事不越界#"
+    }
+  }
+}

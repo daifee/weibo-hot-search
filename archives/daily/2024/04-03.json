@@ -1,6 +1,6 @@
 {
   "startTime": 1712074937436,
-  "endTime": 1712121437267,
+  "endTime": 1712122458587,
   "band_list": [
     {
       "raw_hot": 16874674,
@@ -60,7 +60,7 @@
     },
     {
       "raw_hot": 2130266,
-      "num": 761088,
+      "num": 822263,
       "word": "黄子佼购买上百部未成年少女不雅片",
       "onboard_time": 1712118622,
       "rank": 30,
@@ -99,6 +99,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1430849,
+      "num": 1430849,
+      "word": "江西风雹灾害7人死亡",
+      "onboard_time": 1712119762,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1403062,
       "num": 1403062,
       "word": "中美关系要不折腾不挑事不越界",
@@ -107,12 +115,12 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 1367450,
-      "num": 1367450,
-      "word": "江西风雹灾害7人死亡",
-      "onboard_time": 1712119762,
-      "rank": 4,
-      "category": "社会新闻"
+      "raw_hot": 1378625,
+      "num": 1378625,
+      "word": "周杰伦亲历台湾地震称晃到不行",
+      "onboard_time": 1712119822,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 1319767,
@@ -147,14 +155,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1174964,
-      "num": 750705,
-      "word": "周杰伦亲历台湾地震称晃到不行",
-      "onboard_time": 1712119822,
-      "rank": 11,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 1170378,
       "num": 1170378,
       "word": "台湾连发3次地震",
@@ -179,19 +179,19 @@
       "category": "体育,艺人"
     },
     {
+      "raw_hot": 1118722,
+      "num": 1118722,
+      "word": "宋爷爷头抵车门与福宝告别哭成泪人",
+      "onboard_time": 1712119162,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1107972,
       "num": 1107972,
       "word": "上海女婿阿福宣布离婚",
       "onboard_time": 1712112739,
       "rank": 10,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1085045,
-      "num": 1085045,
-      "word": "宋爷爷头抵车门与福宝告别哭成泪人",
-      "onboard_time": 1712119162,
-      "rank": 5,
       "category": "社会新闻"
     },
     {
@@ -241,6 +241,14 @@
       "onboard_time": 1712112200,
       "rank": 7,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 873519,
+      "num": 873519,
+      "word": "胖东来金价刚涨到593元",
+      "onboard_time": 1712120182,
+      "rank": 16,
+      "category": "财经"
     },
     {
       "raw_hot": 865384,
@@ -331,14 +339,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 620799,
-      "num": 620799,
-      "word": "胖东来金价刚涨到593元",
-      "onboard_time": 1712120182,
-      "rank": 16,
-      "category": "财经"
-    },
-    {
       "raw_hot": 599221,
       "num": 599221,
       "word": "雷军称小米正式成为一家车厂",
@@ -353,6 +353,22 @@
       "onboard_time": 1712091911,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 586069,
+      "num": 586069,
+      "word": "金智媛好美",
+      "onboard_time": 1712120423,
+      "rank": 19,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 584520,
+      "num": 484613,
+      "word": "姐别卖房子了内娱需要你",
+      "onboard_time": 1712121561,
+      "rank": 20,
+      "category": "综艺"
     },
     {
       "raw_hot": 581232,
@@ -419,12 +435,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 508332,
-      "num": 508332,
-      "word": "金智媛好美",
-      "onboard_time": 1712120423,
-      "rank": 19,
-      "category": "剧集"
+      "raw_hot": 519562,
+      "num": 519562,
+      "word": "四月桃花运最旺的星座",
+      "onboard_time": 1712117663,
+      "rank": 26,
+      "category": "情感"
     },
     {
       "raw_hot": 502242,
@@ -443,20 +459,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 485296,
+      "num": 485296,
+      "word": "江西通报提灯定损事件",
+      "onboard_time": 1712121261,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 471915,
       "num": 471915,
       "word": "男子手术室外晕倒15秒后冲出一群医护",
       "onboard_time": 1712083991,
       "rank": 28,
       "category": "社会正能量"
-    },
-    {
-      "raw_hot": 468804,
-      "num": 468804,
-      "word": "四月桃花运最旺的星座",
-      "onboard_time": 1712117663,
-      "rank": 26,
-      "category": "情感"
     },
     {
       "raw_hot": 465975,
@@ -513,6 +529,14 @@
       "onboard_time": 1712112440,
       "rank": 17,
       "category": "财经"
+    },
+    {
+      "raw_hot": 440542,
+      "num": 440542,
+      "word": "刚入职发现同事全要离职",
+      "onboard_time": 1712121502,
+      "rank": 22,
+      "category": "情感"
     },
     {
       "raw_hot": 438279,
@@ -747,6 +771,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 300567,
+      "num": 300567,
+      "word": "原来散步才是真纯爱",
+      "onboard_time": 1712121683,
+      "rank": 27,
+      "category": "情感"
+    },
+    {
       "raw_hot": 295178,
       "num": 295178,
       "word": "宁波震感",
@@ -955,6 +987,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 231288,
+      "num": 231288,
+      "word": "台湾未来3天可能还有7级地震",
+      "onboard_time": 1712121980,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 230551,
       "num": 230551,
       "word": "马立奥 我唱歌好听不听",
@@ -985,6 +1025,14 @@
       "onboard_time": 1712109562,
       "rank": 36,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 224171,
+      "num": 224171,
+      "word": "09给笑笑道歉",
+      "onboard_time": 1712122101,
+      "rank": 40,
+      "category": "电竞"
     },
     {
       "raw_hot": 224085,
@@ -1019,11 +1067,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 216002,
-      "num": 216002,
-      "word": "江西通报提灯定损事件",
-      "onboard_time": 1712121261,
-      "rank": 44,
+      "raw_hot": 217265,
+      "num": 217265,
+      "word": "提灯定损涉事房东被行拘",
+      "onboard_time": 1712122162,
+      "rank": 41,
       "category": "社会新闻"
     },
     {
@@ -1083,6 +1131,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 206975,
+      "num": 206975,
+      "word": "我承认之前对幽兰太大声了",
+      "onboard_time": 1712121381,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 204744,
       "num": 204744,
       "word": "RIIZE完整版Siren",
@@ -1139,6 +1195,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 188981,
+      "num": 188981,
+      "word": "雷军现身小米SU7交付仪式",
+      "onboard_time": 1712122222,
+      "rank": 47,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 188576,
       "num": 188576,
       "word": "Girlsday时期的李惠利",
@@ -1169,14 +1233,6 @@
       "onboard_time": 1712074099,
       "rank": 32,
       "category": "情感"
-    },
-    {
-      "raw_hot": 178249,
-      "num": 178249,
-      "word": "我承认之前对幽兰太大声了",
-      "onboard_time": 1712121381,
-      "rank": 48,
-      "category": "剧集"
     },
     {
       "raw_hot": 174360,
@@ -1363,6 +1419,14 @@
       "category": "电竞,网红"
     },
     {
+      "raw_hot": 109047,
+      "num": 631197,
+      "word": "无人驾驶都能劈S弯了吗",
+      "onboard_time": 1712118803,
+      "rank": 47,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 105506,
       "num": 105506,
       "word": "与凤行 东海龙王已读乱送",
@@ -1425,14 +1489,6 @@
       "onboard_time": 1712092870,
       "rank": 42,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 96722,
-      "num": 631197,
-      "word": "无人驾驶都能劈S弯了吗",
-      "onboard_time": 1712118803,
-      "rank": 47,
-      "category": "汽车"
     },
     {
       "raw_hot": 95518,
@@ -1660,6 +1716,9 @@
     },
     {
       "word": "#中方愿同印尼方一道跑好历史接力赛#"
+    },
+    {
+      "word": "#中美关系要不折腾不挑事不越界#"
     }
   ]
 }
