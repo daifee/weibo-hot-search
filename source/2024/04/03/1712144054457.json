@@ -1,0 +1,410 @@
+{
+  "runTime": 1712144054457,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2085556,
+        "num": 2085556,
+        "word": "南京大学回应一考研生成绩第一被刷",
+        "onboard_time": 1712140280,
+        "rank": 0,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 1529756,
+        "num": 1529756,
+        "word": "福宝",
+        "onboard_time": 1712106804,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 19966,
+        "num": 1247399,
+        "word": "清明给英烈写句话",
+        "onboard_time": 1712115621,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1025348,
+        "num": 1025348,
+        "word": "赵丽颖林更新情头",
+        "onboard_time": 1712141539,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 872075,
+        "num": 872075,
+        "word": "中国农发行纪检委已关注到想当行长的男孩",
+        "onboard_time": 1712138059,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 853452,
+        "num": 853452,
+        "word": "福宝回家了",
+        "onboard_time": 1712143879,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 804698,
+        "num": 804698,
+        "word": "福宝预计19时46分抵达成都",
+        "onboard_time": 1712140880,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1019728,
+        "num": 798348,
+        "word": "金价飙涨女子卖了60多万股票买金条",
+        "onboard_time": 1712133859,
+        "rank": 7,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 142960,
+        "num": 788429,
+        "word": "有个不扫兴的家人多么幸福",
+        "onboard_time": 1712128820,
+        "rank": 8,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 285790,
+        "num": 770730,
+        "word": "福宝最喜欢的花是油菜花",
+        "onboard_time": 1712137820,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 858194,
+        "num": 766293,
+        "word": "月经出现这2种情况一定要去检查",
+        "onboard_time": 1712135119,
+        "rank": 10,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 757185,
+        "num": 757185,
+        "word": "福宝顺利抵达成都",
+        "onboard_time": 1712143879,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 739973,
+        "num": 739973,
+        "word": "王大陆家墙震裂了",
+        "onboard_time": 1712136321,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 726004,
+        "num": 726004,
+        "word": "赵丽颖林更新吻戏",
+        "onboard_time": 1712142738,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 616091,
+        "num": 616091,
+        "word": "南京一考研生成绩第一疑因曾虐猫被刷",
+        "onboard_time": 1712140400,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 542837,
+        "num": 542837,
+        "word": "福宝到哪儿了",
+        "onboard_time": 1712133981,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 493589,
+        "num": 493589,
+        "word": "死了三个月的带鱼",
+        "onboard_time": 1712133320,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 488407,
+        "num": 488407,
+        "word": "胃癌就是这么一口一口吃出来的",
+        "onboard_time": 1712127921,
+        "rank": 17,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 526317,
+        "num": 480595,
+        "word": "林更新直播",
+        "onboard_time": 1712143219,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 440129,
+        "num": 440129,
+        "word": "六大行存款一年多了14万亿",
+        "onboard_time": 1712137458,
+        "rank": 19,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 649910,
+        "num": 437142,
+        "word": "月薪4000要不要交社保",
+        "onboard_time": 1712141360,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 419237,
+        "num": 419237,
+        "word": "高启兰用美人计我可不困了",
+        "onboard_time": 1712142199,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 394031,
+        "num": 394031,
+        "word": "政审结束后被告知有五年服务期",
+        "onboard_time": 1712133320,
+        "rank": 22,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 373548,
+        "num": 373548,
+        "word": "张若昀唐艺昕公开恋情的原因",
+        "onboard_time": 1712126361,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 357964,
+        "num": 357964,
+        "word": "台湾强震前网上现天空异象照片",
+        "onboard_time": 1712142921,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 307236,
+        "num": 307236,
+        "word": "华妃2.0",
+        "onboard_time": 1712143099,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 306585,
+        "num": 306585,
+        "word": "农发行回应小学生3位亲属是行长",
+        "onboard_time": 1712138000,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 305433,
+        "num": 305433,
+        "word": "马嘉祺小熊花园",
+        "onboard_time": 1712143520,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 304065,
+        "num": 304065,
+        "word": "张继科高级课程班学费每月9800元",
+        "onboard_time": 1712143159,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 57694,
+        "num": 300730,
+        "word": "就没有波司登做不了的衣服",
+        "onboard_time": 1712142381,
+        "rank": 29,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 299217,
+        "num": 299217,
+        "word": "文俊英结婚",
+        "onboard_time": 1712138721,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 281212,
+        "num": 281212,
+        "word": "张杰海南新公司成立",
+        "onboard_time": 1712142199,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 276618,
+        "num": 276618,
+        "word": "男子要求2女孩陪酒被拒后动手打人",
+        "onboard_time": 1712143280,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 256917,
+        "num": 256917,
+        "word": "台湾强震已致9人死亡",
+        "onboard_time": 1712135360,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 255319,
+        "num": 255319,
+        "word": "原神 挂零",
+        "onboard_time": 1712138481,
+        "rank": 34,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 241928,
+        "num": 241928,
+        "word": "4月和5月离职好亏",
+        "onboard_time": 1712132780,
+        "rank": 35,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 227590,
+        "num": 227590,
+        "word": "网传小学生称我爷爷爸爸妈妈都是行长",
+        "onboard_time": 1712132120,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 226364,
+        "num": 226364,
+        "word": "台湾花莲县海域7.3级地震",
+        "onboard_time": 1712103872,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 32558,
+        "num": 225721,
+        "word": "时尚芭莎在教我防晒",
+        "onboard_time": 1712140880,
+        "rank": 38,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 225654,
+        "num": 225654,
+        "word": "十个勤天 啥公司啊还要开家长会",
+        "onboard_time": 1712132421,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 217520,
+        "num": 217520,
+        "word": "宋爷爷头抵车门与福宝告别哭成泪人",
+        "onboard_time": 1712119162,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 212238,
+        "num": 212238,
+        "word": "罗伯特叫朱正廷烧麦判官",
+        "onboard_time": 1712143520,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 198005,
+        "num": 198005,
+        "word": "张元英ins",
+        "onboard_time": 1712143820,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 197635,
+        "num": 197635,
+        "word": "黄子佼购买上百部未成年少女不雅片",
+        "onboard_time": 1712118622,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 182054,
+        "num": 182054,
+        "word": "宫崎骏",
+        "onboard_time": 1712144000,
+        "rank": 44,
+        "category": "电影,动漫"
+      },
+      {
+        "raw_hot": 173030,
+        "num": 173030,
+        "word": "姐别卖房子了内娱需要你",
+        "onboard_time": 1712121561,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 163044,
+        "num": 163044,
+        "word": "12306",
+        "onboard_time": 1712123781,
+        "rank": 46,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 156808,
+        "num": 156808,
+        "word": "于正说白鹿推荐的曾舜晞",
+        "onboard_time": 1712133800,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 156511,
+        "num": 156511,
+        "word": "李维嘉李冰冰雪场偶遇",
+        "onboard_time": 1712141239,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 150610,
+        "num": 150610,
+        "word": "双鱼座真正想要的并不是惊喜浪漫",
+        "onboard_time": 1712137040,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#中美关系要不折腾不挑事不越界#"
+    }
+  }
+}
