@@ -1,6 +1,6 @@
 {
   "startTime": 1711815680412,
-  "endTime": 1712150492979,
+  "endTime": 1712151247131,
   "band_list": [
     {
       "raw_hot": 16874674,
@@ -379,8 +379,8 @@
       "category": "情感"
     },
     {
-      "raw_hot": 1650933,
-      "num": 1650933,
+      "raw_hot": 1668583,
+      "num": 1668583,
       "word": "退圈的徐正溪 杀回来的黑珑",
       "onboard_time": 1712146640,
       "rank": 7,
@@ -1043,6 +1043,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 999550,
+      "num": 999550,
+      "word": "老师用P过的照片吸引同学来上课",
+      "onboard_time": 1712145859,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 995407,
       "num": 995407,
       "word": "重庆女子高空抛子或不承担刑事责任",
@@ -1297,14 +1305,6 @@
       "onboard_time": 1712132720,
       "rank": 36,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 833631,
-      "num": 833631,
-      "word": "老师用P过的照片吸引同学来上课",
-      "onboard_time": 1712145859,
-      "rank": 30,
-      "category": "幽默"
     },
     {
       "raw_hot": 829840,
@@ -2491,6 +2491,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 544571,
+      "num": 544571,
+      "word": "大碗娱乐发声明",
+      "onboard_time": 1712150062,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 544045,
       "num": 544045,
       "word": "台湾花莲地震已致7人死亡",
@@ -3107,6 +3115,14 @@
       "category": "游戏,艺人"
     },
     {
+      "raw_hot": 460566,
+      "num": 1362279,
+      "word": "清明是唯一一个以节气命名的节日",
+      "onboard_time": 1712133320,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 459923,
       "num": 459923,
       "word": "与凤行滤镜改了",
@@ -3219,6 +3235,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 449778,
+      "num": 449778,
+      "word": "台湾强震前网上现天空异象照片",
+      "onboard_time": 1712142921,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 447237,
       "num": 447237,
       "word": "陈巧葳王震牵手",
@@ -3252,7 +3276,7 @@
     },
     {
       "raw_hot": 444921,
-      "num": 344450,
+      "num": 398131,
       "word": "每天吃1个鸡蛋身体会发生什么变化",
       "onboard_time": 1712144119,
       "rank": 21,
@@ -3452,7 +3476,7 @@
     },
     {
       "raw_hot": 425530,
-      "num": 298910,
+      "num": 417061,
       "word": "吴磊直播流鼻血",
       "onboard_time": 1712148859,
       "rank": 21,
@@ -3577,14 +3601,6 @@
       "onboard_time": 1711938379,
       "rank": 24,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 413802,
-      "num": 413802,
-      "word": "台湾强震前网上现天空异象照片",
-      "onboard_time": 1712142921,
-      "rank": 24,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 413250,
@@ -3979,6 +3995,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 368382,
+      "num": 424689,
+      "word": "雷军能不能生产一下卫生巾",
+      "onboard_time": 1712150661,
+      "rank": 18,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 366747,
       "num": 258053,
       "word": "酒店拖鞋上这个洞有什么用",
@@ -4027,14 +4051,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 363703,
-      "num": 1362279,
-      "word": "清明是唯一一个以节气命名的节日",
-      "onboard_time": 1712133320,
-      "rank": 2,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 363211,
       "num": 363211,
       "word": "新浪娱乐头像",
@@ -4065,14 +4081,6 @@
       "onboard_time": 1712143280,
       "rank": 32,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 359130,
-      "num": 359130,
-      "word": "大碗娱乐发声明",
-      "onboard_time": 1712150062,
-      "rank": 19,
-      "category": "艺人"
     },
     {
       "raw_hot": 358267,
@@ -4819,6 +4827,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 292666,
+      "num": 292666,
+      "word": "上一个在机场这么喝的还是王宝强",
+      "onboard_time": 1712148920,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 292484,
       "num": 292484,
       "word": "心太软的人没法当老师",
@@ -5017,14 +5033,6 @@
       "onboard_time": 1711945045,
       "rank": 47,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 281655,
-      "num": 281655,
-      "word": "上一个在机场这么喝的还是王宝强",
-      "onboard_time": 1712148920,
-      "rank": 25,
-      "category": "艺人"
     },
     {
       "raw_hot": 281212,
@@ -5745,6 +5753,14 @@
       "onboard_time": 1712047638,
       "rank": 30,
       "category": "教育"
+    },
+    {
+      "raw_hot": 241475,
+      "num": 241475,
+      "word": "追风者 宋霭龄",
+      "onboard_time": 1712150901,
+      "rank": 30,
+      "category": "剧集"
     },
     {
       "raw_hot": 241461,
@@ -6531,6 +6547,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 213865,
+      "num": 213865,
+      "word": "金娘子",
+      "onboard_time": 1712150541,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 213808,
       "num": 213808,
       "word": "宋雨琦 特典",
@@ -6729,6 +6753,14 @@
       "onboard_time": 1712053820,
       "rank": 41,
       "category": "电竞,网红"
+    },
+    {
+      "raw_hot": 208969,
+      "num": 208969,
+      "word": "大侦探真的好会让嘉宾社死",
+      "onboard_time": 1712146459,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 208693,
@@ -6969,14 +7001,6 @@
       "onboard_time": 1712051659,
       "rank": 26,
       "category": "电影"
-    },
-    {
-      "raw_hot": 202679,
-      "num": 202679,
-      "word": "大侦探真的好会让嘉宾社死",
-      "onboard_time": 1712146459,
-      "rank": 46,
-      "category": "综艺"
     },
     {
       "raw_hot": 202533,
@@ -7995,6 +8019,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 182770,
+      "num": 182770,
+      "word": "福宝的未来生活什么样",
+      "onboard_time": 1712147000,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 182760,
       "num": 245738,
       "word": "不想运动可能不是因为懒",
@@ -8379,6 +8411,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 173843,
+      "num": 173843,
+      "word": "cpsp",
+      "onboard_time": 1712151080,
+      "rank": 42,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 173751,
       "num": 173751,
       "word": "秦岚的工作餐",
@@ -8641,14 +8681,6 @@
       "onboard_time": 1712053341,
       "rank": 34,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 166895,
-      "num": 166895,
-      "word": "福宝的未来生活什么样",
-      "onboard_time": 1712147000,
-      "rank": 46,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 166815,
@@ -11267,6 +11299,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 66667,
+      "num": 418428,
+      "word": "波司登做防晒衣也这么专业",
+      "onboard_time": 1712147179,
+      "rank": 42,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 64015,
       "num": 64015,
       "word": "大约80%的人存在鼻中隔偏曲",
@@ -11289,14 +11329,6 @@
       "onboard_time": 1711834511,
       "rank": 35,
       "category": "运动健身"
-    },
-    {
-      "raw_hot": 62615,
-      "num": 345719,
-      "word": "波司登做防晒衣也这么专业",
-      "onboard_time": 1712147179,
-      "rank": 42,
-      "category": "时尚"
     },
     {
       "raw_hot": 62537,
@@ -11547,20 +11579,20 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 34024,
+      "num": 250733,
+      "word": "波司登showroom有点东西",
+      "onboard_time": 1712148381,
+      "rank": 29,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 33969,
       "num": 33969,
       "word": "我们是冠军",
       "onboard_time": 1711920369,
       "rank": 48,
       "category": "体育"
-    },
-    {
-      "raw_hot": 32642,
-      "num": 230839,
-      "word": "波司登showroom有点东西",
-      "onboard_time": 1712148381,
-      "rank": 29,
-      "category": "时尚"
     },
     {
       "raw_hot": 31834,

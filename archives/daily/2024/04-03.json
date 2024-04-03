@@ -1,6 +1,6 @@
 {
   "startTime": 1712074937436,
-  "endTime": 1712150492979,
+  "endTime": 1712151247131,
   "band_list": [
     {
       "raw_hot": 16874674,
@@ -115,8 +115,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1650933,
-      "num": 1650933,
+      "raw_hot": 1668583,
+      "num": 1668583,
       "word": "退圈的徐正溪 杀回来的黑珑",
       "onboard_time": 1712146640,
       "rank": 7,
@@ -379,6 +379,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 999550,
+      "num": 999550,
+      "word": "老师用P过的照片吸引同学来上课",
+      "onboard_time": 1712145859,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 944764,
       "num": 944764,
       "word": "广东震感",
@@ -441,14 +449,6 @@
       "onboard_time": 1712132720,
       "rank": 36,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 833631,
-      "num": 833631,
-      "word": "老师用P过的照片吸引同学来上课",
-      "onboard_time": 1712145859,
-      "rank": 30,
-      "category": "幽默"
     },
     {
       "raw_hot": 829840,
@@ -755,6 +755,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 544571,
+      "num": 544571,
+      "word": "大碗娱乐发声明",
+      "onboard_time": 1712150062,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 544045,
       "num": 544045,
       "word": "台湾花莲地震已致7人死亡",
@@ -915,6 +923,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 460566,
+      "num": 1362279,
+      "word": "清明是唯一一个以节气命名的节日",
+      "onboard_time": 1712133320,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 455052,
       "num": 455052,
       "word": "福宝欢迎回家",
@@ -939,6 +955,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 449778,
+      "num": 449778,
+      "word": "台湾强震前网上现天空异象照片",
+      "onboard_time": 1712142921,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 447864,
       "num": 447864,
       "word": "neinei十年前后变化",
@@ -956,7 +980,7 @@
     },
     {
       "raw_hot": 444921,
-      "num": 344450,
+      "num": 398131,
       "word": "每天吃1个鸡蛋身体会发生什么变化",
       "onboard_time": 1712144119,
       "rank": 21,
@@ -1036,7 +1060,7 @@
     },
     {
       "raw_hot": 425530,
-      "num": 298910,
+      "num": 417061,
       "word": "吴磊直播流鼻血",
       "onboard_time": 1712148859,
       "rank": 21,
@@ -1089,14 +1113,6 @@
       "onboard_time": 1712142199,
       "rank": 24,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 413802,
-      "num": 413802,
-      "word": "台湾强震前网上现天空异象照片",
-      "onboard_time": 1712142921,
-      "rank": 24,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 413179,
@@ -1195,19 +1211,19 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 368382,
+      "num": 424689,
+      "word": "雷军能不能生产一下卫生巾",
+      "onboard_time": 1712150661,
+      "rank": 18,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 364797,
       "num": 364797,
       "word": "南昌强对流天气亲历大学生发声",
       "onboard_time": 1712102970,
       "rank": 29,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 363703,
-      "num": 1362279,
-      "word": "清明是唯一一个以节气命名的节日",
-      "onboard_time": 1712133320,
-      "rank": 2,
       "category": "社会新闻"
     },
     {
@@ -1225,14 +1241,6 @@
       "onboard_time": 1712143280,
       "rank": 32,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 359130,
-      "num": 359130,
-      "word": "大碗娱乐发声明",
-      "onboard_time": 1712150062,
-      "rank": 19,
-      "category": "艺人"
     },
     {
       "raw_hot": 357281,
@@ -1419,6 +1427,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 292666,
+      "num": 292666,
+      "word": "上一个在机场这么喝的还是王宝强",
+      "onboard_time": 1712148920,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 292484,
       "num": 292484,
       "word": "心太软的人没法当老师",
@@ -1465,14 +1481,6 @@
       "onboard_time": 1712111780,
       "rank": 31,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 281655,
-      "num": 281655,
-      "word": "上一个在机场这么喝的还是王宝强",
-      "onboard_time": 1712148920,
-      "rank": 25,
-      "category": "艺人"
     },
     {
       "raw_hot": 281212,
@@ -1656,6 +1664,14 @@
       "word": "与凤行滤镜改了",
       "onboard_time": 1712065822,
       "rank": 13,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 241475,
+      "num": 241475,
+      "word": "追风者 宋霭龄",
+      "onboard_time": 1712150901,
+      "rank": 30,
       "category": "剧集"
     },
     {
@@ -1859,6 +1875,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 213865,
+      "num": 213865,
+      "word": "金娘子",
+      "onboard_time": 1712150541,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 213840,
       "num": 213840,
       "word": "赵小棠抑郁了两年",
@@ -1915,6 +1939,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 208969,
+      "num": 208969,
+      "word": "大侦探真的好会让嘉宾社死",
+      "onboard_time": 1712146459,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 208237,
       "num": 208237,
       "word": "杨紫 声线比戏路还百变",
@@ -1945,14 +1977,6 @@
       "onboard_time": 1712123180,
       "rank": 34,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 202679,
-      "num": 202679,
-      "word": "大侦探真的好会让嘉宾社死",
-      "onboard_time": 1712146459,
-      "rank": 46,
-      "category": "综艺"
     },
     {
       "raw_hot": 201171,
@@ -2171,6 +2195,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 182770,
+      "num": 182770,
+      "word": "福宝的未来生活什么样",
+      "onboard_time": 1712147000,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 179720,
       "num": 179720,
       "word": "台湾地震仍有56人受困",
@@ -2235,6 +2267,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 173843,
+      "num": 173843,
+      "word": "cpsp",
+      "onboard_time": 1712151080,
+      "rank": 42,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 172739,
       "num": 172739,
       "word": "黄旭熙 给粉丝下跪",
@@ -2273,14 +2313,6 @@
       "onboard_time": 1712108242,
       "rank": 46,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 166895,
-      "num": 166895,
-      "word": "福宝的未来生活什么样",
-      "onboard_time": 1712147000,
-      "rank": 46,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 166815,
@@ -2811,20 +2843,20 @@
       "category": "情感"
     },
     {
+      "raw_hot": 66667,
+      "num": 418428,
+      "word": "波司登做防晒衣也这么专业",
+      "onboard_time": 1712147179,
+      "rank": 42,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 64015,
       "num": 64015,
       "word": "大约80%的人存在鼻中隔偏曲",
       "onboard_time": 1712084471,
       "rank": 43,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 62615,
-      "num": 345719,
-      "word": "波司登做防晒衣也这么专业",
-      "onboard_time": 1712147179,
-      "rank": 42,
-      "category": "时尚"
     },
     {
       "raw_hot": 57694,
@@ -2891,8 +2923,8 @@
       "category": "美妆"
     },
     {
-      "raw_hot": 32642,
-      "num": 230839,
+      "raw_hot": 34024,
+      "num": 250733,
       "word": "波司登showroom有点东西",
       "onboard_time": 1712148381,
       "rank": 29,
