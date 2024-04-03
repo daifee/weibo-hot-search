@@ -1,6 +1,6 @@
 {
   "startTime": 1712074937436,
-  "endTime": 1712126084307,
+  "endTime": 1712128611926,
   "band_list": [
     {
       "raw_hot": 16874674,
@@ -72,6 +72,14 @@
       "word": "直播福宝回国",
       "onboard_time": 1712102908,
       "rank": 6,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1684894,
+      "num": 1684894,
+      "word": "王婆说媒换人",
+      "onboard_time": 1712123660,
+      "rank": 11,
       "category": "社会新闻"
     },
     {
@@ -155,20 +163,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1256174,
+      "num": 1256174,
+      "word": "张若昀唐艺昕公开恋情的原因",
+      "onboard_time": 1712126361,
+      "rank": 1,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1254752,
       "num": 1254752,
       "word": "盛一伦家中震感",
       "onboard_time": 1712115321,
       "rank": 4,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1177437,
-      "num": 1177437,
-      "word": "王婆说媒换人",
-      "onboard_time": 1712123660,
-      "rank": 11,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1170378,
@@ -275,6 +283,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 883414,
+      "num": 612651,
+      "word": "胃癌就是这么一口一口吃出来的",
+      "onboard_time": 1712127921,
+      "rank": 11,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 865384,
       "num": 865384,
       "word": "宋爷爷",
@@ -371,12 +387,36 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 672726,
+      "num": 672726,
+      "word": "姐别卖房子了内娱需要你",
+      "onboard_time": 1712121561,
+      "rank": 20,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 631928,
       "num": 631928,
       "word": "南京震感",
       "onboard_time": 1712103453,
       "rank": 18,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 615088,
+      "num": 615088,
+      "word": "辛者库幼儿园",
+      "onboard_time": 1712125880,
+      "rank": 8,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 610945,
+      "num": 474083,
+      "word": "维生素片致癌再添新证",
+      "onboard_time": 1712125822,
+      "rank": 40,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 599221,
@@ -401,14 +441,6 @@
       "onboard_time": 1712120423,
       "rank": 19,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 584520,
-      "num": 542851,
-      "word": "姐别卖房子了内娱需要你",
-      "onboard_time": 1712121561,
-      "rank": 20,
-      "category": "综艺"
     },
     {
       "raw_hot": 581232,
@@ -467,6 +499,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 526309,
+      "num": 473015,
+      "word": "我老公宁愿离婚也要换车",
+      "onboard_time": 1712125522,
+      "rank": 20,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 522050,
       "num": 522050,
       "word": "余震",
@@ -507,6 +547,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 496287,
+      "num": 496287,
+      "word": "曹格儿子女儿泰国度假",
+      "onboard_time": 1712125822,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 491350,
+      "num": 491350,
+      "word": "江西风雹灾害9.3万人受灾",
+      "onboard_time": 1712127502,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 485296,
       "num": 485296,
       "word": "江西通报提灯定损事件",
@@ -515,12 +571,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 473855,
-      "num": 338776,
-      "word": "我老公宁愿离婚也要换车",
-      "onboard_time": 1712125522,
-      "rank": 20,
-      "category": "幽默"
+      "raw_hot": 474600,
+      "num": 474600,
+      "word": "台湾地震77人仍被困",
+      "onboard_time": 1712126901,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 471915,
@@ -619,6 +675,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 428048,
+      "num": 428048,
+      "word": "生理性排斥要不要继续",
+      "onboard_time": 1712127863,
+      "rank": 23,
+      "category": "情感"
+    },
+    {
       "raw_hot": 426737,
       "num": 388268,
       "word": "爱不爱喝水身体有啥区别",
@@ -675,6 +739,14 @@
       "category": "科学科普,健康医疗"
     },
     {
+      "raw_hot": 405336,
+      "num": 405336,
+      "word": "开除事业编制有多难",
+      "onboard_time": 1712125822,
+      "rank": 36,
+      "category": "情感"
+    },
+    {
       "raw_hot": 405033,
       "num": 405033,
       "word": "刘宇宁跟粉丝道歉",
@@ -713,6 +785,14 @@
       "onboard_time": 1712102478,
       "rank": 28,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 379238,
+      "num": 379238,
+      "word": "辛芷蕾橘色短发",
+      "onboard_time": 1712125582,
+      "rank": 22,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 370111,
@@ -761,14 +841,6 @@
       "onboard_time": 1712105609,
       "rank": 32,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 333052,
-      "num": 333052,
-      "word": "辛芷蕾橘色短发",
-      "onboard_time": 1712125582,
-      "rank": 22,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 324733,
@@ -859,6 +931,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 291964,
+      "num": 291964,
+      "word": "蔡徐坤愿一切平安",
+      "onboard_time": 1712127320,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 291043,
       "num": 291043,
       "word": "09给笑笑道歉",
@@ -873,14 +953,6 @@
       "onboard_time": 1712115923,
       "rank": 29,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 287558,
-      "num": 287558,
-      "word": "曹格儿子女儿泰国度假",
-      "onboard_time": 1712125822,
-      "rank": 31,
-      "category": "艺人"
     },
     {
       "raw_hot": 286156,
@@ -1059,14 +1131,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 235963,
-      "num": 235963,
-      "word": "开除事业编制有多难",
-      "onboard_time": 1712125822,
-      "rank": 36,
-      "category": "情感"
-    },
-    {
       "raw_hot": 235375,
       "num": 235375,
       "word": "王俊凯 德云社在逃编外捧哏",
@@ -1161,6 +1225,14 @@
       "onboard_time": 1712056640,
       "rank": 16,
       "category": "电竞,网红"
+    },
+    {
+      "raw_hot": 213932,
+      "num": 213932,
+      "word": "TheShy回应夏季赛复出",
+      "onboard_time": 1712127863,
+      "rank": 34,
+      "category": "电竞"
     },
     {
       "raw_hot": 213919,
@@ -1273,14 +1345,6 @@
       "onboard_time": 1712118683,
       "rank": 45,
       "category": "电影"
-    },
-    {
-      "raw_hot": 197620,
-      "num": 197620,
-      "word": "维生素片致癌再添新证",
-      "onboard_time": 1712125822,
-      "rank": 40,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 194505,
@@ -1419,6 +1483,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 161275,
+      "num": 161275,
+      "word": "她看起来一点也不开心啊",
+      "onboard_time": 1712127863,
+      "rank": 44,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 161040,
       "num": 161040,
       "word": "喜欢旅游演唱会居然是相亲减分项",
@@ -1499,6 +1571,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 134132,
+      "num": 134132,
+      "word": "景区摆摊P图成为大学生新副业",
+      "onboard_time": 1712128581,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 133677,
       "num": 133677,
       "word": "张雨绮束腰短裙",
@@ -1521,6 +1601,14 @@
       "onboard_time": 1712099836,
       "rank": 33,
       "category": "情感"
+    },
+    {
+      "raw_hot": 131276,
+      "num": 131276,
+      "word": "普通人要不要额外补充维生素",
+      "onboard_time": 1712128581,
+      "rank": 49,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 127650,
@@ -1788,7 +1876,7 @@
     },
     {
       "raw_hot": 38559,
-      "num": 308569,
+      "num": 415573,
       "word": "vivo折叠屏又又又卖爆了",
       "onboard_time": 1712125042,
       "rank": 49,
@@ -1841,6 +1929,14 @@
       "onboard_time": 1712084712,
       "rank": 47,
       "category": "情感,网红"
+    },
+    {
+      "raw_hot": 18504,
+      "num": 186309,
+      "word": "vivoXFold3轻薄得不像折叠屏",
+      "onboard_time": 1712128161,
+      "rank": 38,
+      "category": "数码"
     },
     {
       "raw_hot": 13753,
