@@ -1,6 +1,6 @@
 {
   "startTime": 1711815680412,
-  "endTime": 1712106734603,
+  "endTime": 1712107938102,
   "band_list": [
     {
       "raw_hot": 16874674,
@@ -547,6 +547,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1261595,
+      "num": 1261595,
+      "word": "海啸到达日本冲绳与那国岛",
+      "onboard_time": 1712106027,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1242195,
       "num": 1242195,
       "word": "新生蔡元培莫言被北大拟录取",
@@ -624,6 +632,14 @@
       "word": "扔小孩女子疑似精神行为异常",
       "onboard_time": 1711945585,
       "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1170378,
+      "num": 1170378,
+      "word": "台湾连发3次地震",
+      "onboard_time": 1712106266,
+      "rank": 17,
       "category": "社会新闻"
     },
     {
@@ -851,14 +867,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 946433,
-      "num": 946433,
-      "word": "海啸到达日本冲绳与那国岛",
-      "onboard_time": 1712106027,
-      "rank": 12,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 945169,
       "num": 945169,
       "word": "贾玲减肥后刘维痛失代表作",
@@ -889,6 +897,14 @@
       "onboard_time": 1711960161,
       "rank": 25,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 922602,
+      "num": 922602,
+      "word": "福宝",
+      "onboard_time": 1712057541,
+      "rank": 42,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 907383,
@@ -1579,14 +1595,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 638924,
-      "num": 638924,
-      "word": "台湾连发3次地震",
-      "onboard_time": 1712106266,
-      "rank": 17,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 637053,
       "num": 500454,
       "word": "宋仲基眼泪女王剧照",
@@ -1737,6 +1745,14 @@
       "onboard_time": 1711948643,
       "rank": 41,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 599221,
+      "num": 599221,
+      "word": "雷军称小米正式成为一家车厂",
+      "onboard_time": 1712105966,
+      "rank": 23,
+      "category": "汽车,互联网"
     },
     {
       "raw_hot": 596495,
@@ -1923,6 +1939,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 547459,
+      "num": 536766,
+      "word": "28岁女子长期吃冰箱剩菜确诊胃癌",
+      "onboard_time": 1712076974,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 543477,
       "num": 543477,
       "word": "雷军回应拦截小米SU7部分异常订单",
@@ -1955,14 +1979,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 536766,
-      "num": 536766,
-      "word": "28岁女子长期吃冰箱剩菜确诊胃癌",
-      "onboard_time": 1712076974,
-      "rank": 20,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 536198,
       "num": 536198,
       "word": "泽连斯基被问到俄恐袭露出诡异微笑",
@@ -1992,14 +2008,6 @@
       "word": "一批30岁青年不再租房",
       "onboard_time": 1711936278,
       "rank": 9,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 533349,
-      "num": 533349,
-      "word": "福宝",
-      "onboard_time": 1712057541,
-      "rank": 42,
       "category": "社会新闻"
     },
     {
@@ -2219,20 +2227,20 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 502242,
+      "num": 502242,
+      "word": "海啸",
+      "onboard_time": 1712106328,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 501504,
       "num": 501504,
       "word": "邓超买了摆摊小孩所有的画",
       "onboard_time": 1711866257,
       "rank": 20,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 499239,
-      "num": 499239,
-      "word": "海啸",
-      "onboard_time": 1712106328,
-      "rank": 22,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 496413,
@@ -2409,14 +2417,6 @@
       "onboard_time": 1711937181,
       "rank": 19,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 465277,
-      "num": 465277,
-      "word": "雷军称小米正式成为一家车厂",
-      "onboard_time": 1712105966,
-      "rank": 23,
-      "category": "汽车,互联网"
     },
     {
       "raw_hot": 463927,
@@ -3113,6 +3113,14 @@
       "onboard_time": 1711930038,
       "rank": 22,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 371143,
+      "num": 371143,
+      "word": "花莲一5层楼整栋倾斜",
+      "onboard_time": 1712107105,
+      "rank": 25,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 368929,
@@ -4115,6 +4123,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 269741,
+      "num": 269741,
+      "word": "孩子患百日咳喝蒜泥冰糖水能缓解",
+      "onboard_time": 1712101878,
+      "rank": 40,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 269323,
       "num": 269323,
       "word": "00后在体制内能闯出多大篓子",
@@ -4313,14 +4329,6 @@
       "onboard_time": 1711891820,
       "rank": 44,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 253335,
-      "num": 253335,
-      "word": "孩子患百日咳喝蒜泥冰糖水能缓解",
-      "onboard_time": 1712101878,
-      "rank": 40,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 252706,
@@ -4801,6 +4809,14 @@
       "onboard_time": 1712040797,
       "rank": 26,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 232008,
+      "num": 232008,
+      "word": "全国多地震感",
+      "onboard_time": 1712106867,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 231434,
