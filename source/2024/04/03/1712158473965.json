@@ -1,0 +1,410 @@
+{
+  "runTime": 1712158473965,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1639191,
+        "num": 1639191,
+        "word": "名创优品下架chiikawa不当视频",
+        "onboard_time": 1712153300,
+        "rank": 0,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 1364083,
+        "num": 1364083,
+        "word": "福宝回家了",
+        "onboard_time": 1712143879,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 84099,
+        "num": 1059704,
+        "word": "家国永念致敬英雄",
+        "onboard_time": 1712155580,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 908952,
+        "num": 908952,
+        "word": "退圈的徐正溪 杀回来的黑珑",
+        "onboard_time": 1712146640,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 857985,
+        "num": 857985,
+        "word": "大学生被赶下车后发现异常救司机一命",
+        "onboard_time": 1712151442,
+        "rank": 4,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 857087,
+        "num": 857087,
+        "word": "花莲地震骨灰坛被甩出骨灰全混了",
+        "onboard_time": 1712151981,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 713593,
+        "num": 713593,
+        "word": "赵丽颖林更新情头",
+        "onboard_time": 1712141539,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 593802,
+        "num": 593802,
+        "word": "南京大学回应一考研生成绩第一被刷",
+        "onboard_time": 1712140280,
+        "rank": 7,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 518357,
+        "num": 518357,
+        "word": "老师用P过的照片吸引同学来上课",
+        "onboard_time": 1712145859,
+        "rank": 8,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 467982,
+        "num": 467982,
+        "word": "福宝路上带的竹子没吃完",
+        "onboard_time": 1712147240,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 805974,
+        "num": 463908,
+        "word": "雷军能不能生产一下卫生巾",
+        "onboard_time": 1712150661,
+        "rank": 10,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 591002,
+        "num": 461348,
+        "word": "金价飙涨女子卖了60多万股票买金条",
+        "onboard_time": 1712133859,
+        "rank": 11,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 458465,
+        "num": 458465,
+        "word": "赵丽颖林更新吻戏",
+        "onboard_time": 1712142738,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 442584,
+        "num": 442584,
+        "word": "月经出现这2种情况一定要去检查",
+        "onboard_time": 1712135119,
+        "rank": 13,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 421429,
+        "num": 421429,
+        "word": "福宝顺利抵达成都",
+        "onboard_time": 1712143879,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 388838,
+        "num": 388838,
+        "word": "张元英ins",
+        "onboard_time": 1712143820,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 382286,
+        "num": 382286,
+        "word": "王一博裴佳欣对手戏",
+        "onboard_time": 1712154021,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 382033,
+        "num": 382033,
+        "word": "大碗娱乐发声明",
+        "onboard_time": 1712150062,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 375701,
+        "num": 375701,
+        "word": "追风者 宋霭龄",
+        "onboard_time": 1712150901,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 366359,
+        "num": 366359,
+        "word": "林更新下次想演赵丽颖",
+        "onboard_time": 1712151322,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 342772,
+        "num": 342772,
+        "word": "怀孕了再补叶酸来得及吗",
+        "onboard_time": 1712157440,
+        "rank": 20,
+        "category": "母婴育儿,科学科普"
+      },
+      {
+        "raw_hot": 319845,
+        "num": 319845,
+        "word": "每天吃1个鸡蛋身体会发生什么变化",
+        "onboard_time": 1712144119,
+        "rank": 21,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 292894,
+        "num": 292894,
+        "word": "胃癌就是这么一口一口吃出来的",
+        "onboard_time": 1712127921,
+        "rank": 22,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 288137,
+        "num": 288137,
+        "word": "JDG 研究下WBG",
+        "onboard_time": 1712156541,
+        "rank": 23,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 273633,
+        "num": 273633,
+        "word": "李沁演技",
+        "onboard_time": 1712153182,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 267145,
+        "num": 267145,
+        "word": "种地吧新闻联播",
+        "onboard_time": 1712152701,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 257442,
+        "num": 257442,
+        "word": "向太陈岚称向佐曾遭遇校园霸凌",
+        "onboard_time": 1712158160,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 249829,
+        "num": 249829,
+        "word": "福宝户口",
+        "onboard_time": 1712148560,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 245455,
+        "num": 245455,
+        "word": "台湾强震前网上现天空异象照片",
+        "onboard_time": 1712142921,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 244772,
+        "num": 244772,
+        "word": "姜爷爷和福宝",
+        "onboard_time": 1712147660,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 236193,
+        "num": 236193,
+        "word": "周震南安检前猛炫茶",
+        "onboard_time": 1712157440,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 228340,
+        "num": 228340,
+        "word": "09小楼事件",
+        "onboard_time": 1712154801,
+        "rank": 31,
+        "category": "电竞,网红"
+      },
+      {
+        "raw_hot": 223469,
+        "num": 223469,
+        "word": "与凤行收视率新高",
+        "onboard_time": 1712155221,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 219642,
+        "num": 219642,
+        "word": "行止穿深V是为了这一刻",
+        "onboard_time": 1712157920,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 203803,
+        "num": 203803,
+        "word": "千万不要等到毕业再找工作",
+        "onboard_time": 1712152822,
+        "rank": 34,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 199256,
+        "num": 199256,
+        "word": "月薪4000要不要交社保",
+        "onboard_time": 1712141360,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 187062,
+        "num": 187062,
+        "word": "与凤行 天然之法",
+        "onboard_time": 1712158100,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 183362,
+        "num": 183362,
+        "word": "惜花芷",
+        "onboard_time": 1712157140,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 181818,
+        "num": 181818,
+        "word": "王鹤棣于适 新电影",
+        "onboard_time": 1712151681,
+        "rank": 38,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 180052,
+        "num": 180052,
+        "word": "追风者 学历史",
+        "onboard_time": 1712153601,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 177222,
+        "num": 177222,
+        "word": "前有王传君拜佛 后有王劲松上香",
+        "onboard_time": 1712158340,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 172237,
+        "num": 172237,
+        "word": "IVE将4月29日回归",
+        "onboard_time": 1712156060,
+        "rank": 41,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 170523,
+        "num": 170523,
+        "word": "蒋敦豪开启养蜂之路",
+        "onboard_time": 1712157140,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 169866,
+        "num": 169866,
+        "word": "清明是唯一一个以节气命名的节日",
+        "onboard_time": 1712133320,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 166058,
+        "num": 166058,
+        "word": "LNG对战WBG",
+        "onboard_time": 1712142020,
+        "rank": 44,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 164239,
+        "num": 164239,
+        "word": "与凤行",
+        "onboard_time": 1712154801,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 163979,
+        "num": 163979,
+        "word": "吴磊直播流鼻血",
+        "onboard_time": 1712148859,
+        "rank": 46,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 155695,
+        "num": 155695,
+        "word": "台湾地震已致10死934伤",
+        "onboard_time": 1712144899,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 155382,
+        "num": 155382,
+        "word": "徐正溪或转型导演",
+        "onboard_time": 1712153841,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 154162,
+        "num": 154162,
+        "word": "宫崎骏",
+        "onboard_time": 1712144000,
+        "rank": 49,
+        "category": "电影,动漫"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平参加首都义务植树活动#"
+    }
+  }
+}
