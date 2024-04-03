@@ -1,6 +1,6 @@
 {
   "startTime": 1711815680412,
-  "endTime": 1712125329189,
+  "endTime": 1712126084307,
   "band_list": [
     {
       "raw_hot": 16874674,
@@ -435,6 +435,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1476130,
+      "num": 1476130,
+      "word": "吴京谢楠恋情被自己公司记者拍到",
+      "onboard_time": 1712123420,
+      "rank": 3,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1471260,
       "num": 1471260,
       "word": "王灿被烫伤",
@@ -691,6 +699,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1177437,
+      "num": 1177437,
+      "word": "王婆说媒换人",
+      "onboard_time": 1712123660,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1170378,
       "num": 1170378,
       "word": "台湾连发3次地震",
@@ -771,14 +787,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1107694,
-      "num": 1107694,
-      "word": "吴京谢楠恋情被自己公司记者拍到",
-      "onboard_time": 1712123420,
-      "rank": 3,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 1093436,
       "num": 654745,
       "word": "迈巴赫成都来福士连续碾压多人",
@@ -793,6 +801,14 @@
       "onboard_time": 1712058380,
       "rank": 4,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1084731,
+      "num": 1084731,
+      "word": "12306",
+      "onboard_time": 1712123781,
+      "rank": 4,
+      "category": "互联网"
     },
     {
       "raw_hot": 1076261,
@@ -849,14 +865,6 @@
       "onboard_time": 1711872139,
       "rank": 4,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 1035066,
-      "num": 1035066,
-      "word": "12306",
-      "onboard_time": 1712123781,
-      "rank": 4,
-      "category": "互联网"
     },
     {
       "raw_hot": 1033457,
@@ -1251,14 +1259,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 802910,
-      "num": 802910,
-      "word": "王婆说媒换人",
-      "onboard_time": 1712123660,
-      "rank": 11,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 802775,
       "num": 802775,
       "word": "朋友整个孕期抽了48管血",
@@ -1579,6 +1579,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 688097,
+      "num": 688097,
+      "word": "原来散步才是真纯爱",
+      "onboard_time": 1712121683,
+      "rank": 27,
+      "category": "情感"
+    },
+    {
       "raw_hot": 687681,
       "num": 602336,
       "word": "鞠婧祎换了微博头像",
@@ -1617,6 +1625,14 @@
       "onboard_time": 1711982301,
       "rank": 24,
       "category": "母婴育儿"
+    },
+    {
+      "raw_hot": 674677,
+      "num": 674677,
+      "word": "陈赫张子萱一家新加坡度假",
+      "onboard_time": 1712124321,
+      "rank": 14,
+      "category": "艺人"
     },
     {
       "raw_hot": 674058,
@@ -1939,14 +1955,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 601846,
-      "num": 601846,
-      "word": "原来散步才是真纯爱",
-      "onboard_time": 1712121683,
-      "rank": 27,
-      "category": "情感"
-    },
-    {
       "raw_hot": 599221,
       "num": 599221,
       "word": "雷军称小米正式成为一家车厂",
@@ -2004,7 +2012,7 @@
     },
     {
       "raw_hot": 584520,
-      "num": 484613,
+      "num": 542851,
       "word": "姐别卖房子了内娱需要你",
       "onboard_time": 1712121561,
       "rank": 20,
@@ -2459,14 +2467,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 504233,
-      "num": 504233,
-      "word": "陈赫张子萱一家新加坡度假",
-      "onboard_time": 1712124321,
-      "rank": 14,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 503515,
       "num": 503515,
       "word": "4天酒店游客仅住1天被赶走",
@@ -2649,6 +2649,14 @@
       "onboard_time": 1711851318,
       "rank": 13,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 473855,
+      "num": 338776,
+      "word": "我老公宁愿离婚也要换车",
+      "onboard_time": 1712125522,
+      "rank": 20,
+      "category": "幽默"
     },
     {
       "raw_hot": 471915,
@@ -3731,6 +3739,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 340527,
+      "num": 340527,
+      "word": "台湾未来3天可能还有7级地震",
+      "onboard_time": 1712121980,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 339067,
       "num": 347402,
       "word": "新疆成为包邮区",
@@ -3763,20 +3779,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 333635,
-      "num": 333635,
-      "word": "台湾未来3天可能还有7级地震",
-      "onboard_time": 1712121980,
-      "rank": 38,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 333616,
       "num": 263216,
       "word": "爸爸穿的太显眼竟把女儿气哭",
       "onboard_time": 1711865598,
       "rank": 27,
       "category": "情感"
+    },
+    {
+      "raw_hot": 333052,
+      "num": 333052,
+      "word": "辛芷蕾橘色短发",
+      "onboard_time": 1712125582,
+      "rank": 22,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 332617,
@@ -4337,6 +4353,14 @@
       "onboard_time": 1711945765,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 287558,
+      "num": 287558,
+      "word": "曹格儿子女儿泰国度假",
+      "onboard_time": 1712125822,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 287515,
@@ -5003,6 +5027,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 245367,
+      "num": 245367,
+      "word": "辛库者幼儿园",
+      "onboard_time": 1712125880,
+      "rank": 33,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 245030,
       "num": 245030,
       "word": "黄旭熙G社生图",
@@ -5225,6 +5257,14 @@
       "onboard_time": 1711855997,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 235963,
+      "num": 235963,
+      "word": "开除事业编制有多难",
+      "onboard_time": 1712125822,
+      "rank": 36,
+      "category": "情感"
     },
     {
       "raw_hot": 235786,
@@ -6307,6 +6347,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 200326,
+      "num": 200326,
+      "word": "种地吧",
+      "onboard_time": 1711820113,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 200134,
       "num": 200134,
       "word": "陈震再回应小米SU7测评争议",
@@ -6441,6 +6489,14 @@
       "onboard_time": 1711965679,
       "rank": 42,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 197620,
+      "num": 197620,
+      "word": "维生素片致癌再添新证",
+      "onboard_time": 1712125822,
+      "rank": 40,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 197374,
@@ -6744,6 +6800,14 @@
       "word": "北京WBG周冠军",
       "onboard_time": 1711894040,
       "rank": 34,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 191079,
+      "num": 191079,
+      "word": "AG菜就多练",
+      "onboard_time": 1712125341,
+      "rank": 42,
       "category": "电竞"
     },
     {
@@ -7123,14 +7187,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 182594,
-      "num": 182594,
-      "word": "种地吧",
-      "onboard_time": 1711820113,
-      "rank": 35,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 182513,
       "num": 182513,
       "word": "詹姆斯为自己戴上王冠",
@@ -7232,6 +7288,14 @@
       "word": "发现自己越来越喜欢去公园了",
       "onboard_time": 1711961001,
       "rank": 36,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 179578,
+      "num": 179578,
+      "word": "为什么有的人刚毕业就要结婚",
+      "onboard_time": 1712125761,
+      "rank": 43,
       "category": "情感"
     },
     {
@@ -10396,7 +10460,7 @@
     },
     {
       "raw_hot": 38559,
-      "num": 147579,
+      "num": 308569,
       "word": "vivo折叠屏又又又卖爆了",
       "onboard_time": 1712125042,
       "rank": 49,
