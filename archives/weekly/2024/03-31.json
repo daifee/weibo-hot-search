@@ -1,6 +1,6 @@
 {
   "startTime": 1711815680412,
-  "endTime": 1712144054457,
+  "endTime": 1712147488958,
   "band_list": [
     {
       "raw_hot": 16874674,
@@ -16,6 +16,14 @@
       "word": "重庆一小孩被扔下高楼",
       "onboard_time": 1711941680,
       "rank": 1,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 7240990,
+      "num": 7240990,
+      "word": "福宝回家了",
+      "onboard_time": 1712143879,
+      "rank": 5,
       "category": "社会新闻"
     },
     {
@@ -971,6 +979,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1027196,
+      "num": 1027196,
+      "word": "福宝顺利抵达成都",
+      "onboard_time": 1712143879,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1025348,
       "num": 1025348,
       "word": "赵丽颖林更新情头",
@@ -1267,14 +1283,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 853452,
-      "num": 853452,
-      "word": "福宝回家了",
-      "onboard_time": 1712143879,
-      "rank": 5,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 829840,
       "num": 829840,
       "word": "茶百道 还不开始",
@@ -1352,6 +1360,14 @@
       "word": "飓风坠楼3条人命牵出江西贪腐第一大案",
       "onboard_time": 1712019679,
       "rank": 10,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 812215,
+      "num": 812215,
+      "word": "台湾地震已致10死934伤",
+      "onboard_time": 1712144899,
+      "rank": 4,
       "category": "社会新闻"
     },
     {
@@ -1523,6 +1539,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 760708,
+      "num": 760708,
+      "word": "张元英ins",
+      "onboard_time": 1712143820,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 757999,
       "num": 757999,
       "word": "陈震希望删雷军合影风波到此结束",
@@ -1537,14 +1561,6 @@
       "onboard_time": 1711963459,
       "rank": 12,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 757185,
-      "num": 757185,
-      "word": "福宝顺利抵达成都",
-      "onboard_time": 1712143879,
-      "rank": 11,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 752678,
@@ -1875,12 +1891,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 660343,
+      "num": 660343,
+      "word": "退圈的徐正溪 杀回来的黑珑",
+      "onboard_time": 1712146640,
+      "rank": 7,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 660244,
       "num": 660244,
       "word": "邓为站姐发了EXO",
       "onboard_time": 1711976421,
       "rank": 5,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 660221,
+      "num": 660221,
+      "word": "张继科高级课程班学费每月9800元",
+      "onboard_time": 1712143159,
+      "rank": 28,
+      "category": "体育"
     },
     {
       "raw_hot": 659268,
@@ -1929,6 +1961,14 @@
       "onboard_time": 1712046079,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 650915,
+      "num": 650915,
+      "word": "福宝直播",
+      "onboard_time": 1712144298,
+      "rank": 11,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 649910,
@@ -3523,6 +3563,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 411616,
+      "num": 343969,
+      "word": "每天吃1个鸡蛋身体会发生什么变化",
+      "onboard_time": 1712144119,
+      "rank": 21,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 411537,
       "num": 411537,
       "word": "肖战直播",
@@ -3947,6 +3995,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 360220,
+      "num": 360220,
+      "word": "男子要求2女孩陪酒被拒后动手打人",
+      "onboard_time": 1712143280,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 358267,
       "num": 305122,
       "word": "许光汉站姐",
@@ -3960,6 +4016,14 @@
       "word": "台湾强震前网上现天空异象照片",
       "onboard_time": 1712142921,
       "rank": 24,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 357281,
+      "num": 357281,
+      "word": "当行长继承家产不能只当作童言无忌",
+      "onboard_time": 1712145560,
+      "rank": 18,
       "category": "社会新闻"
     },
     {
@@ -3993,6 +4057,14 @@
       "onboard_time": 1712111121,
       "rank": 30,
       "category": "情感"
+    },
+    {
+      "raw_hot": 352044,
+      "num": 228461,
+      "word": "老师用P过的照片吸引同学来上课",
+      "onboard_time": 1712145859,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 348254,
@@ -4251,6 +4323,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 326910,
+      "num": 326910,
+      "word": "BamBam 谈恋爱有什么错吗",
+      "onboard_time": 1712145200,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 325160,
       "num": 325160,
       "word": "周处除三害怎么不把周一除了",
@@ -4272,6 +4352,14 @@
       "word": "福建震感",
       "onboard_time": 1712103334,
       "rank": 33,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 323906,
+      "num": 323906,
+      "word": "福宝隔离期有多个工作组照顾",
+      "onboard_time": 1712144479,
+      "rank": 24,
       "category": "社会新闻"
     },
     {
@@ -4537,14 +4625,6 @@
       "onboard_time": 1711895360,
       "rank": 34,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 304065,
-      "num": 304065,
-      "word": "张继科高级课程班学费每月9800元",
-      "onboard_time": 1712143159,
-      "rank": 28,
-      "category": "体育"
     },
     {
       "raw_hot": 303916,
@@ -4963,14 +5043,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 276618,
-      "num": 276618,
-      "word": "男子要求2女孩陪酒被拒后动手打人",
-      "onboard_time": 1712143280,
-      "rank": 32,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 276382,
       "num": 276382,
       "word": "闪耀暖暖",
@@ -5097,6 +5169,14 @@
       "onboard_time": 1712101878,
       "rank": 40,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 269598,
+      "num": 269598,
+      "word": "林更新的榜一大姐赵丽颖什么时候来",
+      "onboard_time": 1712146280,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 269323,
@@ -5515,6 +5595,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 245387,
+      "num": 245387,
+      "word": "薛之谦抢票",
+      "onboard_time": 1712146640,
+      "rank": 26,
+      "category": "演出"
+    },
+    {
       "raw_hot": 245367,
       "num": 245367,
       "word": "辛库者幼儿园",
@@ -5681,6 +5769,14 @@
       "onboard_time": 1711865777,
       "rank": 40,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 239802,
+      "num": 239802,
+      "word": "宫崎骏",
+      "onboard_time": 1712144000,
+      "rank": 44,
+      "category": "电影,动漫"
     },
     {
       "raw_hot": 239442,
@@ -6049,6 +6145,14 @@
       "onboard_time": 1712028919,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 227428,
+      "num": 227428,
+      "word": "守护甜心 审美降级",
+      "onboard_time": 1712145080,
+      "rank": 31,
+      "category": "动漫"
     },
     {
       "raw_hot": 227082,
@@ -7003,14 +7107,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 198005,
-      "num": 198005,
-      "word": "张元英ins",
-      "onboard_time": 1712143820,
-      "rank": 42,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 197970,
       "num": 257813,
       "word": "曼城vs阿森纳",
@@ -7451,6 +7547,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 189938,
+      "num": 189938,
+      "word": "scout尽力了",
+      "onboard_time": 1712147179,
+      "rank": 36,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 189884,
       "num": 189884,
       "word": "原生家庭幸福的人是什么样子",
@@ -7513,6 +7617,14 @@
       "onboard_time": 1712122222,
       "rank": 47,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 188629,
+      "num": 188629,
+      "word": "WBG 韦鲁斯上单",
+      "onboard_time": 1712147179,
+      "rank": 37,
+      "category": "电竞"
     },
     {
       "raw_hot": 188576,
@@ -7635,6 +7747,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 186660,
+      "num": 186660,
+      "word": "华晨宇演唱会带火了周边",
+      "onboard_time": 1712146760,
+      "rank": 38,
+      "category": "演出"
+    },
+    {
       "raw_hot": 186524,
       "num": 186524,
       "word": "李维嘉李冰冰雪场偶遇",
@@ -7747,6 +7867,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 183678,
+      "num": 183678,
+      "word": "特斯拉免息",
+      "onboard_time": 1712146220,
+      "rank": 39,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 183472,
       "num": 183472,
       "word": "云合",
@@ -7819,14 +7947,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 182054,
-      "num": 182054,
-      "word": "宫崎骏",
-      "onboard_time": 1712144000,
-      "rank": 44,
-      "category": "电影,动漫"
-    },
-    {
       "raw_hot": 181599,
       "num": 181599,
       "word": "周也模仿陈欣怡",
@@ -7897,6 +8017,14 @@
       "onboard_time": 1711857198,
       "rank": 28,
       "category": "体育"
+    },
+    {
+      "raw_hot": 179720,
+      "num": 179720,
+      "word": "台湾地震仍有56人受困",
+      "onboard_time": 1712146521,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 179621,
@@ -8099,12 +8227,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 174846,
+      "num": 174846,
+      "word": "张继科开新号直播乒乓教学",
+      "onboard_time": 1712144778,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 174830,
       "num": 174830,
       "word": "邓超老挝偶遇中国摊主",
       "onboard_time": 1711869858,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 174715,
+      "num": 174715,
+      "word": "福宝路上带的竹子没吃完",
+      "onboard_time": 1712147240,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 174661,
@@ -8481,6 +8625,14 @@
       "onboard_time": 1711895121,
       "rank": 38,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 164429,
+      "num": 164429,
+      "word": "大侦探真的好会让嘉宾社死",
+      "onboard_time": 1712146459,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 164258,
@@ -8937,6 +9089,14 @@
       "onboard_time": 1711866438,
       "rank": 40,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 154246,
+      "num": 154246,
+      "word": "宫崎骏 反战精神",
+      "onboard_time": 1712146640,
+      "rank": 48,
+      "category": "动漫,作品衍生"
     },
     {
       "raw_hot": 154066,
@@ -11377,6 +11537,14 @@
       "onboard_time": 1711832411,
       "rank": 44,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 16602,
+      "num": 175778,
+      "word": "波司登做防晒衣也这么专业",
+      "onboard_time": 1712147179,
+      "rank": 42,
+      "category": "时尚"
     },
     {
       "raw_hot": 13753,
