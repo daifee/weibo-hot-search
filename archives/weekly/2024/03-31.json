@@ -1,6 +1,6 @@
 {
   "startTime": 1711815680412,
-  "endTime": 1712151247131,
+  "endTime": 1712153844683,
   "band_list": [
     {
       "raw_hot": 16874674,
@@ -707,6 +707,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1244948,
+      "num": 523297,
+      "word": "雷军能不能生产一下卫生巾",
+      "onboard_time": 1712150661,
+      "rank": 18,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 1242195,
       "num": 1242195,
       "word": "新生蔡元培莫言被北大拟录取",
@@ -1371,6 +1379,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 815319,
+      "num": 815319,
+      "word": "大碗娱乐发声明",
+      "onboard_time": 1712150062,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 812718,
       "num": 812718,
       "word": "孙千回复",
@@ -1563,6 +1579,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 760875,
+      "num": 522605,
+      "word": "花莲地震骨灰坛被甩出骨灰全混了",
+      "onboard_time": 1712151981,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 760708,
       "num": 760708,
       "word": "张元英ins",
@@ -1585,6 +1609,14 @@
       "onboard_time": 1711963459,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 754989,
+      "num": 754989,
+      "word": "大学生被赶下车后发现异常救司机一命",
+      "onboard_time": 1712151442,
+      "rank": 8,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 752678,
@@ -2211,6 +2243,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 608246,
+      "num": 521525,
+      "word": "追风者 宋霭龄",
+      "onboard_time": 1712150901,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 607746,
       "num": 607746,
       "word": "伊朗驻叙领馆及大使官邸遭以军空袭",
@@ -2491,14 +2531,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 544571,
-      "num": 544571,
-      "word": "大碗娱乐发声明",
-      "onboard_time": 1712150062,
-      "rank": 19,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 544045,
       "num": 544045,
       "word": "台湾花莲地震已致7人死亡",
@@ -2657,6 +2689,14 @@
       "onboard_time": 1711936337,
       "rank": 13,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 523487,
+      "num": 523487,
+      "word": "名创优品致歉信",
+      "onboard_time": 1712152221,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 523084,
@@ -2923,6 +2963,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 491550,
+      "num": 1362279,
+      "word": "清明是唯一一个以节气命名的节日",
+      "onboard_time": 1712133320,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 491290,
       "num": 491290,
       "word": "庆余年第二季已过审",
@@ -3113,14 +3161,6 @@
       "onboard_time": 1712032041,
       "rank": 17,
       "category": "游戏,艺人"
-    },
-    {
-      "raw_hot": 460566,
-      "num": 1362279,
-      "word": "清明是唯一一个以节气命名的节日",
-      "onboard_time": 1712133320,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 459923,
@@ -3691,6 +3731,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 403594,
+      "num": 403594,
+      "word": "名创优品下架chiikawa不当视频",
+      "onboard_time": 1712153300,
+      "rank": 21,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 403338,
       "num": 403338,
       "word": "学校通报美院原院长与学生不正当关系",
@@ -3713,6 +3761,14 @@
       "onboard_time": 1712020700,
       "rank": 29,
       "category": "体育"
+    },
+    {
+      "raw_hot": 396372,
+      "num": 396372,
+      "word": "王鹤棣于适 新电影",
+      "onboard_time": 1712151681,
+      "rank": 22,
+      "category": "电影"
     },
     {
       "raw_hot": 395656,
@@ -3753,6 +3809,14 @@
       "onboard_time": 1712112440,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 390748,
+      "num": 390748,
+      "word": "林更新下次想演赵丽颖",
+      "onboard_time": 1712151322,
+      "rank": 23,
+      "category": "剧集"
     },
     {
       "raw_hot": 390697,
@@ -3993,14 +4057,6 @@
       "onboard_time": 1711952241,
       "rank": 32,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 368382,
-      "num": 424689,
-      "word": "雷军能不能生产一下卫生巾",
-      "onboard_time": 1712150661,
-      "rank": 18,
-      "category": "互联网"
     },
     {
       "raw_hot": 366747,
@@ -4489,6 +4545,14 @@
       "onboard_time": 1711984042,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 314708,
+      "num": 314708,
+      "word": "种地吧新闻联播",
+      "onboard_time": 1712152701,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 314502,
@@ -5427,6 +5491,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 258775,
+      "num": 157872,
+      "word": "小米汽车工厂现日产能不足300辆",
+      "onboard_time": 1712152101,
+      "rank": 46,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 258344,
       "num": 258344,
       "word": "林俊杰济南二开",
@@ -5457,6 +5529,14 @@
       "onboard_time": 1712130140,
       "rank": 31,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 257795,
+      "num": 257795,
+      "word": "赵今麦包场吴磊新电影",
+      "onboard_time": 1712153123,
+      "rank": 30,
+      "category": "电影"
     },
     {
       "raw_hot": 255124,
@@ -5651,6 +5731,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 246091,
+      "num": 246091,
+      "word": "沈图南 林樵松",
+      "onboard_time": 1712151860,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 245831,
       "num": 245831,
       "word": "妲己青丘九尾无双特性优化",
@@ -5753,14 +5841,6 @@
       "onboard_time": 1712047638,
       "rank": 30,
       "category": "教育"
-    },
-    {
-      "raw_hot": 241475,
-      "num": 241475,
-      "word": "追风者 宋霭龄",
-      "onboard_time": 1712150901,
-      "rank": 30,
-      "category": "剧集"
     },
     {
       "raw_hot": 241461,
@@ -6131,6 +6211,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 230370,
+      "num": 230370,
+      "word": "李沁演技",
+      "onboard_time": 1712153182,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 229447,
       "num": 229447,
       "word": "张朝阳说35岁年龄歧视很奇怪",
@@ -6379,6 +6467,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 220886,
+      "num": 220886,
+      "word": "金娘子",
+      "onboard_time": 1712150541,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 220827,
       "num": 220827,
       "word": "YG耳",
@@ -6544,14 +6640,6 @@
       "word": "我承认之前对幽兰太大声了",
       "onboard_time": 1712121381,
       "rank": 48,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 213865,
-      "num": 213865,
-      "word": "金娘子",
-      "onboard_time": 1712150541,
-      "rank": 33,
       "category": "剧集"
     },
     {
@@ -6747,12 +6835,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 209416,
+      "num": 209416,
+      "word": "日本核污水或于本月到达我国沿海",
+      "onboard_time": 1712153480,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 209330,
       "num": 209330,
       "word": "楼处除三害",
       "onboard_time": 1712053820,
       "rank": 41,
       "category": "电竞,网红"
+    },
+    {
+      "raw_hot": 209226,
+      "num": 209226,
+      "word": "千万不要等到毕业在找工作",
+      "onboard_time": 1712152822,
+      "rank": 37,
+      "category": "教育"
     },
     {
       "raw_hot": 208969,
@@ -7011,6 +7115,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 202531,
+      "num": 202531,
+      "word": "福宝的未来生活什么样",
+      "onboard_time": 1712147000,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 202172,
       "num": 202172,
       "word": "4月第一天",
@@ -7049,6 +7161,14 @@
       "onboard_time": 1712041218,
       "rank": 36,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 201502,
+      "num": 201502,
+      "word": "追风者 学历史",
+      "onboard_time": 1712153601,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 201424,
@@ -8017,14 +8137,6 @@
       "onboard_time": 1711863857,
       "rank": 32,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 182770,
-      "num": 182770,
-      "word": "福宝的未来生活什么样",
-      "onboard_time": 1712147000,
-      "rank": 46,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 182760,
@@ -9073,6 +9185,14 @@
       "onboard_time": 1712049019,
       "rank": 40,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 157905,
+      "num": 157905,
+      "word": "卓沅 春天太美好了",
+      "onboard_time": 1712153722,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 157767,

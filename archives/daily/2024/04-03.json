@@ -1,6 +1,6 @@
 {
   "startTime": 1712074937436,
-  "endTime": 1712151247131,
+  "endTime": 1712153844683,
   "band_list": [
     {
       "raw_hot": 16874674,
@@ -251,6 +251,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1244948,
+      "num": 523297,
+      "word": "雷军能不能生产一下卫生巾",
+      "onboard_time": 1712150661,
+      "rank": 18,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 1170378,
       "num": 1170378,
       "word": "台湾连发3次地震",
@@ -475,6 +483,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 815319,
+      "num": 815319,
+      "word": "大碗娱乐发声明",
+      "onboard_time": 1712150062,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 812215,
       "num": 812215,
       "word": "台湾地震已致10死934伤",
@@ -515,12 +531,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 760875,
+      "num": 522605,
+      "word": "花莲地震骨灰坛被甩出骨灰全混了",
+      "onboard_time": 1712151981,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 760708,
       "num": 760708,
       "word": "张元英ins",
       "onboard_time": 1712143820,
       "rank": 42,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 754989,
+      "num": 754989,
+      "word": "大学生被赶下车后发现异常救司机一命",
+      "onboard_time": 1712151442,
+      "rank": 8,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 748354,
@@ -667,6 +699,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 608246,
+      "num": 521525,
+      "word": "追风者 宋霭龄",
+      "onboard_time": 1712150901,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 599221,
       "num": 599221,
       "word": "雷军称小米正式成为一家车厂",
@@ -755,14 +795,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 544571,
-      "num": 544571,
-      "word": "大碗娱乐发声明",
-      "onboard_time": 1712150062,
-      "rank": 19,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 544045,
       "num": 544045,
       "word": "台湾花莲地震已致7人死亡",
@@ -809,6 +841,14 @@
       "onboard_time": 1712125522,
       "rank": 20,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 523487,
+      "num": 523487,
+      "word": "名创优品致歉信",
+      "onboard_time": 1712152221,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 522050,
@@ -875,6 +915,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 491550,
+      "num": 1362279,
+      "word": "清明是唯一一个以节气命名的节日",
+      "onboard_time": 1712133320,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 485296,
       "num": 485296,
       "word": "江西通报提灯定损事件",
@@ -920,14 +968,6 @@
       "word": "武汉震感",
       "onboard_time": 1712103992,
       "rank": 25,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 460566,
-      "num": 1362279,
-      "word": "清明是唯一一个以节气命名的节日",
-      "onboard_time": 1712133320,
-      "rank": 2,
       "category": "社会新闻"
     },
     {
@@ -1147,6 +1187,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 403594,
+      "num": 403594,
+      "word": "名创优品下架chiikawa不当视频",
+      "onboard_time": 1712153300,
+      "rank": 21,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 402693,
       "num": 402693,
       "word": "杨雪",
@@ -1163,12 +1211,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 396372,
+      "num": 396372,
+      "word": "王鹤棣于适 新电影",
+      "onboard_time": 1712151681,
+      "rank": 22,
+      "category": "电影"
+    },
+    {
       "raw_hot": 392157,
       "num": 392157,
       "word": "刘若英报平安",
       "onboard_time": 1712112440,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 390748,
+      "num": 390748,
+      "word": "林更新下次想演赵丽颖",
+      "onboard_time": 1712151322,
+      "rank": 23,
+      "category": "剧集"
     },
     {
       "raw_hot": 387801,
@@ -1209,14 +1273,6 @@
       "onboard_time": 1712116342,
       "rank": 25,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 368382,
-      "num": 424689,
-      "word": "雷军能不能生产一下卫生巾",
-      "onboard_time": 1712150661,
-      "rank": 18,
-      "category": "互联网"
     },
     {
       "raw_hot": 364797,
@@ -1329,6 +1385,14 @@
       "onboard_time": 1712063061,
       "rank": 15,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 314708,
+      "num": 314708,
+      "word": "种地吧新闻联播",
+      "onboard_time": 1712152701,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 314502,
@@ -1603,12 +1667,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 258775,
+      "num": 157872,
+      "word": "小米汽车工厂现日产能不足300辆",
+      "onboard_time": 1712152101,
+      "rank": 46,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 257829,
       "num": 257829,
       "word": "陈乔恩明道二搭 王子变仇家",
       "onboard_time": 1712130140,
       "rank": 31,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 257795,
+      "num": 257795,
+      "word": "赵今麦包场吴磊新电影",
+      "onboard_time": 1712153123,
+      "rank": 30,
+      "category": "电影"
     },
     {
       "raw_hot": 255124,
@@ -1633,6 +1713,14 @@
       "onboard_time": 1712110221,
       "rank": 34,
       "category": "财经"
+    },
+    {
+      "raw_hot": 246091,
+      "num": 246091,
+      "word": "沈图南 林樵松",
+      "onboard_time": 1712151860,
+      "rank": 31,
+      "category": "剧集"
     },
     {
       "raw_hot": 245367,
@@ -1664,14 +1752,6 @@
       "word": "与凤行滤镜改了",
       "onboard_time": 1712065822,
       "rank": 13,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 241475,
-      "num": 241475,
-      "word": "追风者 宋霭龄",
-      "onboard_time": 1712150901,
-      "rank": 30,
       "category": "剧集"
     },
     {
@@ -1771,6 +1851,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 230370,
+      "num": 230370,
+      "word": "李沁演技",
+      "onboard_time": 1712153182,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 229122,
       "num": 229122,
       "word": "汕头震感",
@@ -1827,6 +1915,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 220886,
+      "num": 220886,
+      "word": "金娘子",
+      "onboard_time": 1712150541,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 220496,
       "num": 220496,
       "word": "原神签到奖励",
@@ -1872,14 +1968,6 @@
       "word": "我承认之前对幽兰太大声了",
       "onboard_time": 1712121381,
       "rank": 48,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 213865,
-      "num": 213865,
-      "word": "金娘子",
-      "onboard_time": 1712150541,
-      "rank": 33,
       "category": "剧集"
     },
     {
@@ -1939,6 +2027,22 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 209416,
+      "num": 209416,
+      "word": "日本核污水或于本月到达我国沿海",
+      "onboard_time": 1712153480,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 209226,
+      "num": 209226,
+      "word": "千万不要等到毕业在找工作",
+      "onboard_time": 1712152822,
+      "rank": 37,
+      "category": "教育"
+    },
+    {
       "raw_hot": 208969,
       "num": 208969,
       "word": "大侦探真的好会让嘉宾社死",
@@ -1977,6 +2081,22 @@
       "onboard_time": 1712123180,
       "rank": 34,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 202531,
+      "num": 202531,
+      "word": "福宝的未来生活什么样",
+      "onboard_time": 1712147000,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 201502,
+      "num": 201502,
+      "word": "追风者 学历史",
+      "onboard_time": 1712153601,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 201171,
@@ -2195,14 +2315,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 182770,
-      "num": 182770,
-      "word": "福宝的未来生活什么样",
-      "onboard_time": 1712147000,
-      "rank": 46,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 179720,
       "num": 179720,
       "word": "台湾地震仍有56人受困",
@@ -2409,6 +2521,14 @@
       "onboard_time": 1712064861,
       "rank": 24,
       "category": "教育"
+    },
+    {
+      "raw_hot": 157905,
+      "num": 157905,
+      "word": "卓沅 春天太美好了",
+      "onboard_time": 1712153722,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 157346,
