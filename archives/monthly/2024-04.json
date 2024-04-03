@@ -1,6 +1,6 @@
 {
   "startTime": 1711902044401,
-  "endTime": 1712140509019,
+  "endTime": 1712142891655,
   "band_list": [
     {
       "raw_hot": 16874674,
@@ -281,6 +281,14 @@
       "onboard_time": 1712052680,
       "rank": 1,
       "category": "电竞,网红"
+    },
+    {
+      "raw_hot": 1713486,
+      "num": 1713486,
+      "word": "南京大学回应一考研生成绩第一被刷",
+      "onboard_time": 1712140280,
+      "rank": 30,
+      "category": "教育"
     },
     {
       "raw_hot": 1708706,
@@ -931,6 +939,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 913718,
+      "num": 913718,
+      "word": "中国农发行纪检委已关注到想当行长的男孩",
+      "onboard_time": 1712138059,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 904022,
       "num": 904022,
       "word": "躁郁症比抑郁症更严重",
@@ -1025,6 +1041,14 @@
       "onboard_time": 1712132720,
       "rank": 36,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 831438,
+      "num": 831438,
+      "word": "赵丽颖林更新情头",
+      "onboard_time": 1712141539,
+      "rank": 6,
+      "category": "剧集"
     },
     {
       "raw_hot": 829840,
@@ -1563,6 +1587,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 642744,
+      "num": 415633,
+      "word": "月薪4000要不要交社保",
+      "onboard_time": 1712141360,
+      "rank": 20,
+      "category": "情感"
+    },
+    {
       "raw_hot": 640453,
       "num": 640453,
       "word": "张国荣",
@@ -1915,14 +1947,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 546696,
-      "num": 546696,
-      "word": "中国农发行纪检委已关注到想当行长的男孩",
-      "onboard_time": 1712138059,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 544755,
       "num": 544755,
       "word": "边伯贤 香港",
@@ -2001,6 +2025,14 @@
       "onboard_time": 1711991834,
       "rank": 48,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 531120,
+      "num": 531120,
+      "word": "六大行存款一年多了14万亿",
+      "onboard_time": 1712137458,
+      "rank": 18,
+      "category": "财经"
     },
     {
       "raw_hot": 526731,
@@ -2131,14 +2163,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 498119,
-      "num": 498119,
-      "word": "六大行存款一年多了14万亿",
-      "onboard_time": 1712137458,
-      "rank": 18,
-      "category": "财经"
-    },
-    {
       "raw_hot": 496413,
       "num": 567487,
       "word": "女子工作1年半胖40斤判若两人",
@@ -2233,6 +2257,14 @@
       "onboard_time": 1712126901,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 473711,
+      "num": 473711,
+      "word": "赵丽颖林更新吻戏",
+      "onboard_time": 1712142738,
+      "rank": 14,
+      "category": "剧集"
     },
     {
       "raw_hot": 471915,
@@ -2345,6 +2377,14 @@
       "onboard_time": 1712112860,
       "rank": 19,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 453507,
+      "num": 453507,
+      "word": "南京一考研生成绩第一疑因曾虐猫被刷",
+      "onboard_time": 1712140400,
+      "rank": 15,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 452107,
@@ -2547,6 +2587,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 428944,
+      "num": 428944,
+      "word": "福宝预计19时46分抵达成都",
+      "onboard_time": 1712140880,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 428928,
       "num": 428928,
       "word": "09是谁",
@@ -2667,6 +2715,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 413179,
+      "num": 413179,
+      "word": "林更新cos大司命",
+      "onboard_time": 1712139380,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 412441,
       "num": 412441,
       "word": "上饶提灯定损房东女儿疑被开除",
@@ -2705,14 +2761,6 @@
       "onboard_time": 1712125822,
       "rank": 36,
       "category": "情感"
-    },
-    {
-      "raw_hot": 405241,
-      "num": 405241,
-      "word": "林更新cos大司命",
-      "onboard_time": 1712139380,
-      "rank": 35,
-      "category": "艺人"
     },
     {
       "raw_hot": 405033,
@@ -3475,6 +3523,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 298130,
+      "num": 298130,
+      "word": "高启兰用美人计我可不困了",
+      "onboard_time": 1712142199,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 296819,
       "num": 296819,
       "word": "春天睡不好是正常现象",
@@ -3977,6 +4033,14 @@
       "onboard_time": 1712130140,
       "rank": 31,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 255206,
+      "num": 255206,
+      "word": "张杰海南新公司成立",
+      "onboard_time": 1712142199,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 255124,
@@ -4601,14 +4665,6 @@
       "onboard_time": 1712059460,
       "rank": 22,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 221978,
-      "num": 221978,
-      "word": "南京大学回应一考研生成绩第一被刷",
-      "onboard_time": 1712140280,
-      "rank": 30,
-      "category": "教育"
     },
     {
       "raw_hot": 221388,
@@ -5675,6 +5731,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 186977,
+      "num": 186977,
+      "word": "LNG对战WBG",
+      "onboard_time": 1712142020,
+      "rank": 36,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 186667,
       "num": 186667,
       "word": "孙颖莎8个有效积分全是冠军",
@@ -5689,6 +5753,14 @@
       "onboard_time": 1712114842,
       "rank": 40,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 186524,
+      "num": 186524,
+      "word": "李维嘉李冰冰雪场偶遇",
+      "onboard_time": 1712141239,
+      "rank": 37,
+      "category": "艺人"
     },
     {
       "raw_hot": 186277,
@@ -6419,6 +6491,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 160614,
+      "num": 160614,
+      "word": "GEN对战DK",
+      "onboard_time": 1712142080,
+      "rank": 44,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 160247,
       "num": 160247,
       "word": "小米汽车引发同行快速反应",
@@ -6647,6 +6727,14 @@
       "num": 154366,
       "word": "LadyGaga演小丑女",
       "onboard_time": 1712135721,
+      "rank": 45,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 154066,
+      "num": 154066,
+      "word": "吴磊蒋勤勤直播",
+      "onboard_time": 1712141300,
       "rank": 45,
       "category": "电影"
     },
@@ -8155,6 +8243,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 39984,
+      "num": 249105,
+      "word": "就没有波司登做不了的衣服",
+      "onboard_time": 1712142381,
+      "rank": 29,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 38776,
       "num": 38776,
       "word": "王劲松出演拜月教主",
@@ -8185,6 +8281,14 @@
       "onboard_time": 1712079853,
       "rank": 34,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 34344,
+      "num": 184100,
+      "word": "时尚芭莎在教我防晒",
+      "onboard_time": 1712140880,
+      "rank": 38,
+      "category": "美妆"
     },
     {
       "raw_hot": 33969,
