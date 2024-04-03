@@ -1,6 +1,6 @@
 {
   "startTime": 1711815680412,
-  "endTime": 1712164548259,
+  "endTime": 1712165643007,
   "band_list": [
     {
       "raw_hot": 16874674,
@@ -5587,6 +5587,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 258937,
+      "num": 229553,
+      "word": "爱奇艺副总裁探班种地吧",
+      "onboard_time": 1712162776,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 258775,
       "num": 157872,
       "word": "小米汽车工厂现日产能不足300辆",
@@ -6337,14 +6345,6 @@
       "onboard_time": 1712119343,
       "rank": 40,
       "category": "网红"
-    },
-    {
-      "raw_hot": 229553,
-      "num": 229553,
-      "word": "爱奇艺副总裁探班种地吧",
-      "onboard_time": 1712162776,
-      "rank": 17,
-      "category": "综艺"
     },
     {
       "raw_hot": 229447,
@@ -9427,6 +9427,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 155586,
+      "num": 155586,
+      "word": "行止不行",
+      "onboard_time": 1712163916,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 155537,
       "num": 155537,
       "word": "夏之光杂志销量",
@@ -11195,14 +11203,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 101734,
-      "num": 101734,
-      "word": "行止不行",
-      "onboard_time": 1712163916,
-      "rank": 30,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 101437,
       "num": 101437,
       "word": "赵露思回复了林俊杰",
@@ -11385,6 +11385,14 @@
       "onboard_time": 1711834331,
       "rank": 45,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 85242,
+      "num": 85242,
+      "word": "福宝最新画面",
+      "onboard_time": 1712164694,
+      "rank": 32,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 85036,
@@ -11793,6 +11801,14 @@
       "onboard_time": 1712092751,
       "rank": 44,
       "category": "财经"
+    },
+    {
+      "raw_hot": 45377,
+      "num": 59759,
+      "word": "2元和200元的叶酸到底有啥差别",
+      "onboard_time": 1712165594,
+      "rank": 49,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 44784,
