@@ -1,6 +1,6 @@
 {
   "startTime": 1711902044401,
-  "endTime": 1712114359993,
+  "endTime": 1712115261897,
   "band_list": [
     {
       "raw_hot": 16874674,
@@ -81,6 +81,14 @@
       "onboard_time": 1712047098,
       "rank": 0,
       "category": "情感"
+    },
+    {
+      "raw_hot": 2682158,
+      "num": 2682158,
+      "word": "高铁停运",
+      "onboard_time": 1712112801,
+      "rank": 5,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 2525703,
@@ -539,11 +547,11 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 1110356,
-      "num": 1110356,
-      "word": "高铁停运",
-      "onboard_time": 1712112801,
-      "rank": 5,
+      "raw_hot": 1107972,
+      "num": 1107972,
+      "word": "上海女婿阿福宣布离婚",
+      "onboard_time": 1712112739,
+      "rank": 10,
       "category": "社会新闻"
     },
     {
@@ -787,6 +795,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 872044,
+      "num": 872044,
+      "word": "台湾一豪宅顶楼游泳池变瀑布",
+      "onboard_time": 1712112981,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 869845,
       "num": 869845,
       "word": "一百家站姐发了陈都灵",
@@ -817,6 +833,14 @@
       "onboard_time": 1711975940,
       "rank": 1,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 829840,
+      "num": 829840,
+      "word": "茶百道 还不开始",
+      "onboard_time": 1712114002,
+      "rank": 30,
+      "category": "美食"
     },
     {
       "raw_hot": 829326,
@@ -871,14 +895,6 @@
       "num": 503196,
       "word": "飓风坠楼3条人命牵出江西贪腐第一大案",
       "onboard_time": 1712019679,
-      "rank": 10,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 809516,
-      "num": 809516,
-      "word": "上海女婿阿福宣布离婚",
-      "onboard_time": 1712112739,
       "rank": 10,
       "category": "社会新闻"
     },
@@ -953,14 +969,6 @@
       "onboard_time": 1711898601,
       "rank": 4,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 782629,
-      "num": 782629,
-      "word": "台湾一豪宅顶楼游泳池变瀑布",
-      "onboard_time": 1712112981,
-      "rank": 12,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 774644,
@@ -1483,6 +1491,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 580157,
+      "num": 580157,
+      "word": "赵奕欢36岁身材管理",
+      "onboard_time": 1712113101,
+      "rank": 15,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 578526,
       "num": 578526,
       "word": "耳朵痒却掏不出东西咋回事",
@@ -1521,6 +1537,14 @@
       "onboard_time": 1712064319,
       "rank": 32,
       "category": "教育"
+    },
+    {
+      "raw_hot": 568833,
+      "num": 568833,
+      "word": "宋爷爷",
+      "onboard_time": 1712114122,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 568561,
@@ -1585,14 +1609,6 @@
       "onboard_time": 1712044279,
       "rank": 13,
       "category": "演出"
-    },
-    {
-      "raw_hot": 550151,
-      "num": 550151,
-      "word": "赵奕欢36岁身材管理",
-      "onboard_time": 1712113101,
-      "rank": 15,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 550147,
@@ -1763,14 +1779,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 497035,
-      "num": 235194,
-      "word": "茶百道 还不开始",
-      "onboard_time": 1712114002,
-      "rank": 30,
-      "category": "美食"
-    },
-    {
       "raw_hot": 496413,
       "num": 567487,
       "word": "女子工作1年半胖40斤判若两人",
@@ -1937,6 +1945,14 @@
       "onboard_time": 1712065040,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 455003,
+      "num": 455003,
+      "word": "雷军宣布小米SU7锁单量超4万",
+      "onboard_time": 1712112860,
+      "rank": 19,
+      "category": "汽车"
     },
     {
       "raw_hot": 452107,
@@ -2115,6 +2131,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 426737,
+      "num": 388268,
+      "word": "爱不爱喝水身体有啥区别",
+      "onboard_time": 1712111900,
+      "rank": 22,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 424348,
       "num": 345038,
       "word": "赵露思挂脖高定",
@@ -2211,14 +2235,6 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 411847,
-      "num": 411847,
-      "word": "雷军宣布小米SU7锁单量超4万",
-      "onboard_time": 1712112860,
-      "rank": 19,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 410973,
       "num": 410973,
       "word": "张婧仪神图的诞生",
@@ -2307,14 +2323,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 388268,
-      "num": 388268,
-      "word": "爱不爱喝水身体有啥区别",
-      "onboard_time": 1712111900,
-      "rank": 22,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 387610,
       "num": 387610,
       "word": "每个研究生身上都有导师的影子",
@@ -2401,6 +2409,14 @@
       "onboard_time": 1712043739,
       "rank": 18,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 374259,
+      "num": 374259,
+      "word": "刘宇宁跟粉丝道歉",
+      "onboard_time": 1712113940,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 372958,
@@ -2819,6 +2835,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 308032,
+      "num": 308032,
+      "word": "花间令剧本写了十年",
+      "onboard_time": 1712113461,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 306114,
       "num": 306114,
       "word": "华为拟分红770.95亿",
@@ -3019,6 +3043,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 281958,
+      "num": 265208,
+      "word": "台湾花莲地震现场画面",
+      "onboard_time": 1712111780,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 281822,
       "num": 281822,
       "word": "男子送外卖供女友上大学后分手",
@@ -3049,14 +3081,6 @@
       "onboard_time": 1711986319,
       "rank": 15,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 278158,
-      "num": 233925,
-      "word": "台湾花莲地震现场画面",
-      "onboard_time": 1712111780,
-      "rank": 31,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 277748,
@@ -3113,6 +3137,14 @@
       "onboard_time": 1712110941,
       "rank": 45,
       "category": "财经"
+    },
+    {
+      "raw_hot": 270669,
+      "num": 270669,
+      "word": "黄子佼性骚扰案获不起诉",
+      "onboard_time": 1712114362,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 270412,
@@ -3265,6 +3297,14 @@
       "onboard_time": 1712109562,
       "rank": 31,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 259073,
+      "num": 259073,
+      "word": "王一博cp感",
+      "onboard_time": 1712113642,
+      "rank": 34,
+      "category": "剧集"
     },
     {
       "raw_hot": 258344,
@@ -3787,22 +3827,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 224530,
-      "num": 224530,
-      "word": "花间令剧本写了十年",
-      "onboard_time": 1712113461,
-      "rank": 33,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 224105,
-      "num": 224105,
-      "word": "王一博cp感",
-      "onboard_time": 1712113642,
-      "rank": 34,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 223652,
       "num": 223652,
       "word": "清华教学楼里到底发生过什么",
@@ -3817,14 +3841,6 @@
       "onboard_time": 1712103992,
       "rank": 45,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 223132,
-      "num": 223132,
-      "word": "刘宇宁跟粉丝道歉",
-      "onboard_time": 1712113940,
-      "rank": 35,
-      "category": "艺人"
     },
     {
       "raw_hot": 223095,
@@ -3979,20 +3995,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 213808,
+      "num": 213808,
+      "word": "宋雨琦 特典",
+      "onboard_time": 1712114842,
+      "rank": 35,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 213743,
       "num": 213743,
       "word": "小米高管辟谣SU7锁单量",
       "onboard_time": 1711943662,
       "rank": 37,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 213700,
-      "num": 213700,
-      "word": "宋爷爷",
-      "onboard_time": 1712114122,
-      "rank": 38,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 213387,
@@ -4041,6 +4057,14 @@
       "onboard_time": 1712069660,
       "rank": 31,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 210888,
+      "num": 210888,
+      "word": "怪盗基德 脸是最好的时尚单品",
+      "onboard_time": 1712114963,
+      "rank": 36,
+      "category": "动漫"
     },
     {
       "raw_hot": 210871,
@@ -4747,6 +4771,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 186667,
+      "num": 186667,
+      "word": "赵丽颖东海大战绿幕打戏",
+      "onboard_time": 1712114842,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 186277,
       "num": 186277,
       "word": "林俊杰周边",
@@ -5097,6 +5129,14 @@
       "onboard_time": 1711985000,
       "rank": 32,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 172554,
+      "num": 172554,
+      "word": "永远不要把工作当成你的全部",
+      "onboard_time": 1712115081,
+      "rank": 45,
+      "category": "情感"
     },
     {
       "raw_hot": 172299,
@@ -5513,6 +5553,14 @@
       "onboard_time": 1712049980,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 158282,
+      "num": 158282,
+      "word": "什么岗位会接受0经验",
+      "onboard_time": 1712115202,
+      "rank": 48,
+      "category": "情感"
     },
     {
       "raw_hot": 158275,
