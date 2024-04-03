@@ -1,6 +1,6 @@
 {
   "startTime": 1711902044401,
-  "endTime": 1712111064024,
+  "endTime": 1712111715412,
   "band_list": [
     {
       "raw_hot": 16874674,
@@ -99,6 +99,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2384115,
+      "num": 2384115,
+      "word": "今天上班只干一件事",
+      "onboard_time": 1712108004,
+      "rank": 4,
+      "category": "情感"
+    },
+    {
       "raw_hot": 2382706,
       "num": 2382706,
       "word": "81192",
@@ -185,14 +193,6 @@
       "onboard_time": 1712027599,
       "rank": 3,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 1854041,
-      "num": 1854041,
-      "word": "今天上班只干一件事",
-      "onboard_time": 1712108004,
-      "rank": 4,
-      "category": "情感"
     },
     {
       "raw_hot": 1849185,
@@ -523,6 +523,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1141313,
+      "num": 746125,
+      "word": "冉莹颖回忆孕期上岸北大",
+      "onboard_time": 1712110041,
+      "rank": 10,
+      "category": "体育,艺人"
+    },
+    {
       "raw_hot": 1136040,
       "num": 1136040,
       "word": "雷军担心的事还是发生了",
@@ -713,14 +721,6 @@
       "onboard_time": 1712029339,
       "rank": 4,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 929664,
-      "num": 746125,
-      "word": "冉莹颖回忆孕期上岸北大",
-      "onboard_time": 1712110041,
-      "rank": 10,
-      "category": "体育,艺人"
     },
     {
       "raw_hot": 927333,
@@ -1547,6 +1547,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 549567,
+      "num": 549567,
+      "word": "高铁晚点",
+      "onboard_time": 1712110462,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 547459,
       "num": 536766,
       "word": "28岁女子长期吃冰箱剩菜确诊胃癌",
@@ -1947,6 +1955,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 438279,
+      "num": 438279,
+      "word": "美财政部部长耶伦将访华",
+      "onboard_time": 1712109861,
+      "rank": 21,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 438059,
       "num": 438059,
       "word": "南昌天气",
@@ -2171,14 +2187,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 397002,
-      "num": 397002,
-      "word": "美财政部部长耶伦将访华",
-      "onboard_time": 1712109861,
-      "rank": 21,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 395656,
       "num": 395656,
       "word": "Joy站姐发了内娱的Joy",
@@ -2209,6 +2217,14 @@
       "onboard_time": 1712044939,
       "rank": 27,
       "category": "美食,健康医疗"
+    },
+    {
+      "raw_hot": 392729,
+      "num": 392729,
+      "word": "雷军给小米车主开车门",
+      "onboard_time": 1712111241,
+      "rank": 21,
+      "category": "互联网,汽车"
     },
     {
       "raw_hot": 390697,
@@ -2443,6 +2459,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 355099,
+      "num": 272596,
+      "word": "狗狗为什么喜欢嘬嘬嘬的声音",
+      "onboard_time": 1712111121,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 348254,
       "num": 348254,
       "word": "福宝明天回家",
@@ -2625,6 +2649,14 @@
       "onboard_time": 1712103334,
       "rank": 33,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 323482,
+      "num": 323482,
+      "word": "国台办回应台湾地震",
+      "onboard_time": 1712110521,
+      "rank": 27,
+      "category": "国内时政"
     },
     {
       "raw_hot": 322862,
@@ -2947,22 +2979,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 278280,
-      "num": 278280,
-      "word": "国台办回应台湾地震",
-      "onboard_time": 1712110521,
-      "rank": 27,
-      "category": "国内时政"
-    },
-    {
-      "raw_hot": 278125,
-      "num": 278125,
-      "word": "高铁晚点",
-      "onboard_time": 1712110462,
-      "rank": 28,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 277748,
       "num": 277748,
       "word": "韩国总统首次就医改寻求妥协",
@@ -2995,12 +3011,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 275439,
+      "num": 275439,
+      "word": "台湾已发生10次地震",
+      "onboard_time": 1712110582,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 271912,
       "num": 271912,
       "word": "王珞丹给陶昕然送麝香",
       "onboard_time": 1712038818,
       "rank": 22,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 270747,
+      "num": 270747,
+      "word": "A股",
+      "onboard_time": 1712110941,
+      "rank": 45,
+      "category": "财经"
     },
     {
       "raw_hot": 270412,
@@ -3379,6 +3411,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 240216,
+      "num": 240216,
+      "word": "沈璃 三个字让上古神破防一整天",
+      "onboard_time": 1712111421,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 239442,
       "num": 239442,
       "word": "郑合惠子 清醒的恋爱观",
@@ -3705,14 +3745,6 @@
       "onboard_time": 1712066781,
       "rank": 28,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 220840,
-      "num": 220840,
-      "word": "台湾已发生10次地震",
-      "onboard_time": 1712110582,
-      "rank": 37,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 220827,
@@ -4120,6 +4152,14 @@
       "word": "愚人节表白",
       "onboard_time": 1711957221,
       "rank": 27,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 201171,
+      "num": 201171,
+      "word": "为什么一些大学生关系越来越冷漠",
+      "onboard_time": 1712111060,
+      "rank": 42,
       "category": "情感"
     },
     {
@@ -4897,14 +4937,6 @@
       "onboard_time": 1711891820,
       "rank": 24,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 173647,
-      "num": 173647,
-      "word": "A股",
-      "onboard_time": 1712110941,
-      "rank": 45,
-      "category": "财经"
     },
     {
       "raw_hot": 173046,

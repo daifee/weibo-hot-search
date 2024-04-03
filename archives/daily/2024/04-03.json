@@ -1,6 +1,6 @@
 {
   "startTime": 1712074937436,
-  "endTime": 1712111064024,
+  "endTime": 1712111715412,
   "band_list": [
     {
       "raw_hot": 16874674,
@@ -35,20 +35,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2384115,
+      "num": 2384115,
+      "word": "今天上班只干一件事",
+      "onboard_time": 1712108004,
+      "rank": 4,
+      "category": "情感"
+    },
+    {
       "raw_hot": 2229896,
       "num": 2229896,
       "word": "台湾又发5.9级地震",
       "onboard_time": 1712106208,
       "rank": 5,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1854041,
-      "num": 1854041,
-      "word": "今天上班只干一件事",
-      "onboard_time": 1712108004,
-      "rank": 4,
-      "category": "情感"
     },
     {
       "raw_hot": 1708706,
@@ -131,6 +131,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1141313,
+      "num": 746125,
+      "word": "冉莹颖回忆孕期上岸北大",
+      "onboard_time": 1712110041,
+      "rank": 10,
+      "category": "体育,艺人"
+    },
+    {
       "raw_hot": 1070106,
       "num": 1070106,
       "word": "台湾花莲县海域再发生6.0级地震",
@@ -145,14 +153,6 @@
       "onboard_time": 1712104052,
       "rank": 13,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 929664,
-      "num": 746125,
-      "word": "冉莹颖回忆孕期上岸北大",
-      "onboard_time": 1712110041,
-      "rank": 10,
-      "category": "体育,艺人"
     },
     {
       "raw_hot": 855352,
@@ -240,6 +240,14 @@
       "word": "当一个白富美经历家庭破产",
       "onboard_time": 1712069061,
       "rank": 3,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 549567,
+      "num": 549567,
+      "word": "高铁晚点",
+      "onboard_time": 1712110462,
+      "rank": 28,
       "category": "社会新闻"
     },
     {
@@ -331,6 +339,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 438279,
+      "num": 438279,
+      "word": "美财政部部长耶伦将访华",
+      "onboard_time": 1712109861,
+      "rank": 21,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 431133,
       "num": 278665,
       "word": "方志敏的遗骸竟有两块胫骨戴着镣铐",
@@ -395,12 +411,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 397002,
-      "num": 397002,
-      "word": "美财政部部长耶伦将访华",
-      "onboard_time": 1712109861,
+      "raw_hot": 392729,
+      "num": 392729,
+      "word": "雷军给小米车主开车门",
+      "onboard_time": 1712111241,
       "rank": 21,
-      "category": "国内时政"
+      "category": "互联网,汽车"
     },
     {
       "raw_hot": 380796,
@@ -427,6 +443,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 355099,
+      "num": 272596,
+      "word": "狗狗为什么喜欢嘬嘬嘬的声音",
+      "onboard_time": 1712111121,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 335411,
       "num": 335411,
       "word": "长沙震感",
@@ -441,6 +465,14 @@
       "onboard_time": 1712103334,
       "rank": 33,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 323482,
+      "num": 323482,
+      "word": "国台办回应台湾地震",
+      "onboard_time": 1712110521,
+      "rank": 27,
+      "category": "国内时政"
     },
     {
       "raw_hot": 317072,
@@ -475,20 +507,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 278280,
-      "num": 278280,
-      "word": "国台办回应台湾地震",
-      "onboard_time": 1712110521,
-      "rank": 27,
-      "category": "国内时政"
+      "raw_hot": 275439,
+      "num": 275439,
+      "word": "台湾已发生10次地震",
+      "onboard_time": 1712110582,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
-      "raw_hot": 278125,
-      "num": 278125,
-      "word": "高铁晚点",
-      "onboard_time": 1712110462,
-      "rank": 28,
-      "category": "社会新闻"
+      "raw_hot": 270747,
+      "num": 270747,
+      "word": "A股",
+      "onboard_time": 1712110941,
+      "rank": 45,
+      "category": "财经"
     },
     {
       "raw_hot": 269741,
@@ -536,6 +568,14 @@
       "word": "与凤行滤镜改了",
       "onboard_time": 1712065822,
       "rank": 13,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 240216,
+      "num": 240216,
+      "word": "沈璃 三个字让上古神破防一整天",
+      "onboard_time": 1712111421,
+      "rank": 34,
       "category": "剧集"
     },
     {
@@ -595,14 +635,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 220840,
-      "num": 220840,
-      "word": "台湾已发生10次地震",
-      "onboard_time": 1712110582,
-      "rank": 37,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 220496,
       "num": 220496,
       "word": "原神签到奖励",
@@ -643,6 +675,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 201171,
+      "num": 201171,
+      "word": "为什么一些大学生关系越来越冷漠",
+      "onboard_time": 1712111060,
+      "rank": 42,
+      "category": "情感"
+    },
+    {
       "raw_hot": 201157,
       "num": 201157,
       "word": "唐一军涉嫌严重违纪违法被查",
@@ -673,14 +713,6 @@
       "onboard_time": 1712064319,
       "rank": 21,
       "category": "教育"
-    },
-    {
-      "raw_hot": 173647,
-      "num": 173647,
-      "word": "A股",
-      "onboard_time": 1712110941,
-      "rank": 45,
-      "category": "财经"
     },
     {
       "raw_hot": 172739,
