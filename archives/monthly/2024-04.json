@@ -1,6 +1,6 @@
 {
   "startTime": 1711902044401,
-  "endTime": 1712176452733,
+  "endTime": 1712178972028,
   "band_list": [
     {
       "raw_hot": 16874674,
@@ -9155,6 +9155,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 21880,
+      "num": 21880,
+      "word": "韩剧最强85生",
+      "onboard_time": 1712174350,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 21716,
       "num": 186309,
       "word": "vivoXFold3轻薄得不像折叠屏",
@@ -9171,20 +9179,20 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 20986,
+      "num": 20986,
+      "word": "急性胰腺炎多半是吃出来的",
+      "onboard_time": 1712177591,
+      "rank": 36,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 20228,
       "num": 20228,
       "word": "奶茶成瘾与抑郁焦虑正相关",
       "onboard_time": 1711999571,
       "rank": 44,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 20180,
-      "num": 20180,
-      "word": "韩剧最强85生",
-      "onboard_time": 1712174350,
-      "rank": 39,
-      "category": "剧集"
     },
     {
       "raw_hot": 18765,
@@ -9201,6 +9209,14 @@
       "onboard_time": 1712044819,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 14662,
+      "num": 17832,
+      "word": "论留学生父母有多离谱",
+      "onboard_time": 1712178371,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 13822,
