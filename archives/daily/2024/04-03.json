@@ -1,6 +1,6 @@
 {
   "startTime": 1712074937436,
-  "endTime": 1712139578352,
+  "endTime": 1712140509019,
   "band_list": [
     {
       "raw_hot": 16874674,
@@ -571,6 +571,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 570215,
+      "num": 570215,
+      "word": "农发行回应小学生3位亲属是行长",
+      "onboard_time": 1712138000,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 566174,
       "num": 566174,
       "word": "当一个白富美经历家庭破产",
@@ -600,6 +608,14 @@
       "word": "28岁女子长期吃冰箱剩菜确诊胃癌",
       "onboard_time": 1712076974,
       "rank": 20,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 546696,
+      "num": 546696,
+      "word": "中国农发行纪检委已关注到想当行长的男孩",
+      "onboard_time": 1712138059,
+      "rank": 19,
       "category": "社会新闻"
     },
     {
@@ -659,6 +675,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 512102,
+      "num": 512102,
+      "word": "文俊英结婚",
+      "onboard_time": 1712138721,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 509078,
       "num": 509078,
       "word": "提灯定损涉事房东被行拘",
@@ -683,20 +707,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 498119,
+      "num": 498119,
+      "word": "六大行存款一年多了14万亿",
+      "onboard_time": 1712137458,
+      "rank": 18,
+      "category": "财经"
+    },
+    {
       "raw_hot": 496287,
       "num": 496287,
       "word": "曹格儿子女儿泰国度假",
       "onboard_time": 1712125822,
       "rank": 31,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 489573,
-      "num": 489573,
-      "word": "农发行回应小学生3位亲属是行长",
-      "onboard_time": 1712138000,
-      "rank": 15,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 485296,
@@ -803,6 +827,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 439713,
+      "num": 439713,
+      "word": "原神 挂零",
+      "onboard_time": 1712138481,
+      "rank": 21,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 438279,
       "num": 438279,
       "word": "美财政部部长耶伦将访华",
@@ -849,14 +881,6 @@
       "onboard_time": 1712111900,
       "rank": 22,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 423500,
-      "num": 423500,
-      "word": "文俊英结婚",
-      "onboard_time": 1712138721,
-      "rank": 17,
-      "category": "艺人"
     },
     {
       "raw_hot": 423211,
@@ -915,6 +939,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 405241,
+      "num": 405241,
+      "word": "林更新cos大司命",
+      "onboard_time": 1712139380,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 405033,
       "num": 405033,
       "word": "刘宇宁跟粉丝道歉",
@@ -963,28 +995,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 379899,
-      "num": 379899,
-      "word": "六大行存款一年多了14万亿",
-      "onboard_time": 1712137458,
-      "rank": 18,
-      "category": "财经"
-    },
-    {
       "raw_hot": 379238,
       "num": 379238,
       "word": "辛芷蕾橘色短发",
       "onboard_time": 1712125582,
       "rank": 22,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 373916,
-      "num": 373916,
-      "word": "中国农发行纪检委已关注到想当行长的男孩",
-      "onboard_time": 1712138059,
-      "rank": 19,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 370111,
@@ -1001,14 +1017,6 @@
       "onboard_time": 1712102970,
       "rank": 29,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 364595,
-      "num": 364595,
-      "word": "原神 挂零",
-      "onboard_time": 1712138481,
-      "rank": 21,
-      "category": "游戏"
     },
     {
       "raw_hot": 362595,
@@ -1073,6 +1081,14 @@
       "onboard_time": 1712110521,
       "rank": 27,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 318752,
+      "num": 318752,
+      "word": "下班放假",
+      "onboard_time": 1712139560,
+      "rank": 45,
+      "category": "情感"
     },
     {
       "raw_hot": 317072,
@@ -1379,6 +1395,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 240678,
+      "num": 240678,
+      "word": "游戏是最不该失去公平的地方",
+      "onboard_time": 1712139080,
+      "rank": 34,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 240216,
       "num": 240216,
       "word": "沈璃 三个字让上古神破防一整天",
@@ -1491,6 +1515,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 221978,
+      "num": 221978,
+      "word": "南京大学回应一考研生成绩第一被刷",
+      "onboard_time": 1712140280,
+      "rank": 30,
+      "category": "教育"
+    },
+    {
       "raw_hot": 220496,
       "num": 220496,
       "word": "原神签到奖励",
@@ -1547,6 +1579,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 211660,
+      "num": 211660,
+      "word": "宋昰昀拍扇巴掌戏要求对手演员道歉",
+      "onboard_time": 1712138900,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 210888,
       "num": 210888,
       "word": "怪盗基德 脸是最好的时尚单品",
@@ -1593,22 +1633,6 @@
       "onboard_time": 1712123180,
       "rank": 34,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 201389,
-      "num": 201389,
-      "word": "游戏是最不该失去公平的地方",
-      "onboard_time": 1712139080,
-      "rank": 34,
-      "category": "游戏"
-    },
-    {
-      "raw_hot": 201386,
-      "num": 201386,
-      "word": "林更新cos大司命",
-      "onboard_time": 1712139380,
-      "rank": 35,
-      "category": "艺人"
     },
     {
       "raw_hot": 201171,
@@ -1659,14 +1683,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 196881,
-      "num": 196881,
-      "word": "宋昰昀拍扇巴掌戏要求对手演员道歉",
-      "onboard_time": 1712138900,
-      "rank": 37,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 196851,
       "num": 196851,
       "word": "沈璃看不见vs紫薇看不见",
@@ -1705,6 +1721,14 @@
       "onboard_time": 1712136020,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 191739,
+      "num": 191739,
+      "word": "百度四分之一代码是AI程序员写的",
+      "onboard_time": 1712139560,
+      "rank": 46,
+      "category": "互联网"
     },
     {
       "raw_hot": 191394,
@@ -1803,6 +1827,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 176389,
+      "num": 176389,
+      "word": "魏若来回江西了",
+      "onboard_time": 1712139441,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 174360,
       "num": 174360,
       "word": "只有教师才懂教师的心酸",
@@ -1857,6 +1889,14 @@
       "onboard_time": 1712110160,
       "rank": 47,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 163407,
+      "num": 163407,
+      "word": "中国人不愧是地球GAI溜子",
+      "onboard_time": 1712139740,
+      "rank": 45,
+      "category": "幽默"
     },
     {
       "raw_hot": 162258,
@@ -1923,28 +1963,12 @@
       "category": "教育"
     },
     {
-      "raw_hot": 157705,
-      "num": 157705,
-      "word": "下班放假",
-      "onboard_time": 1712139560,
-      "rank": 45,
-      "category": "情感"
-    },
-    {
       "raw_hot": 157346,
       "num": 157346,
       "word": "江西首次启动大风四级应急响应",
       "onboard_time": 1712070979,
       "rank": 25,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 154627,
-      "num": 154627,
-      "word": "百度四分之一代码是AI程序员写的",
-      "onboard_time": 1712139560,
-      "rank": 46,
-      "category": "互联网"
     },
     {
       "raw_hot": 154366,
@@ -1961,6 +1985,14 @@
       "onboard_time": 1712135841,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 153537,
+      "num": 153537,
+      "word": "华为门店回应P70发布时间",
+      "onboard_time": 1712140160,
+      "rank": 48,
+      "category": "数码"
     },
     {
       "raw_hot": 152048,
