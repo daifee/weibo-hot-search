@@ -1,6 +1,6 @@
 {
   "startTime": 1711902044401,
-  "endTime": 1712107938102,
+  "endTime": 1712111064024,
   "band_list": [
     {
       "raw_hot": 16874674,
@@ -187,6 +187,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 1854041,
+      "num": 1854041,
+      "word": "今天上班只干一件事",
+      "onboard_time": 1712108004,
+      "rank": 4,
+      "category": "情感"
+    },
+    {
       "raw_hot": 1849185,
       "num": 1849185,
       "word": "重庆警方通报一女子高空抛子",
@@ -272,6 +280,14 @@
       "word": "旅游时被拖进洞房3分钟收费168",
       "onboard_time": 1712039779,
       "rank": 1,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1594363,
+      "num": 1594363,
+      "word": "福宝",
+      "onboard_time": 1712057541,
+      "rank": 42,
       "category": "社会新闻"
     },
     {
@@ -699,20 +715,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 929664,
+      "num": 746125,
+      "word": "冉莹颖回忆孕期上岸北大",
+      "onboard_time": 1712110041,
+      "rank": 10,
+      "category": "体育,艺人"
+    },
+    {
       "raw_hot": 927333,
       "num": 927333,
       "word": "韩商言 张元英转圈",
       "onboard_time": 1711960161,
       "rank": 25,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 922602,
-      "num": 922602,
-      "word": "福宝",
-      "onboard_time": 1712057541,
-      "rank": 42,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 904022,
@@ -793,6 +809,22 @@
       "onboard_time": 1712064080,
       "rank": 14,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 827716,
+      "num": 827716,
+      "word": "黑皮果然会让颜值下降",
+      "onboard_time": 1712108481,
+      "rank": 7,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 827490,
+      "num": 410623,
+      "word": "考研总成绩差0.01被录取",
+      "onboard_time": 1712108060,
+      "rank": 20,
+      "category": "教育"
     },
     {
       "raw_hot": 825288,
@@ -889,6 +921,14 @@
       "onboard_time": 1711898601,
       "rank": 4,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 774644,
+      "num": 774644,
+      "word": "台湾龟山岛山体崩塌",
+      "onboard_time": 1712108660,
+      "rank": 8,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 769672,
@@ -1531,6 +1571,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 536088,
+      "num": 536088,
+      "word": "权志龙要开演唱会了",
+      "onboard_time": 1712108004,
+      "rank": 13,
+      "category": "演出"
+    },
+    {
       "raw_hot": 535752,
       "num": 738512,
       "word": "在美20岁中国女留学生校外身亡",
@@ -1747,6 +1795,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 465975,
+      "num": 465975,
+      "word": "花莲一5层楼整栋倾斜",
+      "onboard_time": 1712107105,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 465637,
       "num": 465637,
       "word": "每天通勤几十公里可能被视为营运车",
@@ -1809,6 +1865,14 @@
       "onboard_time": 1712065401,
       "rank": 13,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 455052,
+      "num": 455052,
+      "word": "福宝欢迎回家",
+      "onboard_time": 1712065040,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 452107,
@@ -1987,6 +2051,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 423211,
+      "num": 423211,
+      "word": "台湾地震为什么浙江有震感",
+      "onboard_time": 1712108123,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 422989,
       "num": 422989,
       "word": "周雨彤 裸背",
@@ -2097,6 +2169,14 @@
       "onboard_time": 1712020700,
       "rank": 29,
       "category": "体育"
+    },
+    {
+      "raw_hot": 397002,
+      "num": 397002,
+      "word": "美财政部部长耶伦将访华",
+      "onboard_time": 1712109861,
+      "rank": 21,
+      "category": "国内时政"
     },
     {
       "raw_hot": 395656,
@@ -2267,14 +2347,6 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 371143,
-      "num": 371143,
-      "word": "花莲一5层楼整栋倾斜",
-      "onboard_time": 1712107105,
-      "rank": 25,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 368929,
       "num": 368929,
       "word": "南昌强对流天气已致4死10余人伤",
@@ -2369,14 +2441,6 @@
       "onboard_time": 1712013677,
       "rank": 30,
       "category": "美食"
-    },
-    {
-      "raw_hot": 354596,
-      "num": 354596,
-      "word": "福宝欢迎回家",
-      "onboard_time": 1712065040,
-      "rank": 29,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 348254,
@@ -2883,6 +2947,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 278280,
+      "num": 278280,
+      "word": "国台办回应台湾地震",
+      "onboard_time": 1712110521,
+      "rank": 27,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 278125,
+      "num": 278125,
+      "word": "高铁晚点",
+      "onboard_time": 1712110462,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 277748,
       "num": 277748,
       "word": "韩国总统首次就医改寻求妥协",
@@ -3003,6 +3083,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 262092,
+      "num": 262092,
+      "word": "杭州高层居民被晃晕跑下楼避险",
+      "onboard_time": 1712108004,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 261979,
       "num": 242209,
       "word": "赵丽颖给熊猫玩偶喂水",
@@ -3057,6 +3145,14 @@
       "onboard_time": 1712041578,
       "rank": 25,
       "category": "美食"
+    },
+    {
+      "raw_hot": 259187,
+      "num": 259187,
+      "word": "台湾地震最新情况直播",
+      "onboard_time": 1712109562,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 258344,
@@ -3129,6 +3225,14 @@
       "onboard_time": 1711979722,
       "rank": 24,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 249536,
+      "num": 249536,
+      "word": "全球资金正在加速回流中国",
+      "onboard_time": 1712110221,
+      "rank": 34,
+      "category": "财经"
     },
     {
       "raw_hot": 249346,
@@ -3209,6 +3313,14 @@
       "onboard_time": 1712028799,
       "rank": 48,
       "category": "财经"
+    },
+    {
+      "raw_hot": 244480,
+      "num": 244480,
+      "word": "以闪亮之名",
+      "onboard_time": 1712109982,
+      "rank": 35,
+      "category": "游戏"
     },
     {
       "raw_hot": 244080,
@@ -3499,6 +3611,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 227082,
+      "num": 227082,
+      "word": "kep1er五月最后一次回归",
+      "onboard_time": 1712109562,
+      "rank": 36,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 226161,
       "num": 591205,
       "word": "中方谴责针对伊朗驻叙使馆的袭击行为",
@@ -3585,6 +3705,14 @@
       "onboard_time": 1712066781,
       "rank": 28,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 220840,
+      "num": 220840,
+      "word": "台湾已发生10次地震",
+      "onboard_time": 1712110582,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 220827,
@@ -4771,6 +4899,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 173647,
+      "num": 173647,
+      "word": "A股",
+      "onboard_time": 1712110941,
+      "rank": 45,
+      "category": "财经"
+    },
+    {
       "raw_hot": 173046,
       "num": 173046,
       "word": "Cryin哭了",
@@ -4899,6 +5035,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 168792,
+      "num": 168792,
+      "word": "阴阳师",
+      "onboard_time": 1712108242,
+      "rank": 46,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 168755,
       "num": 168755,
       "word": "SEVENTEEN特典",
@@ -4937,6 +5081,14 @@
       "onboard_time": 1712053341,
       "rank": 34,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 166815,
+      "num": 166815,
+      "word": "16部治愈系动漫电影",
+      "onboard_time": 1712110160,
+      "rank": 47,
+      "category": "动漫"
     },
     {
       "raw_hot": 166584,

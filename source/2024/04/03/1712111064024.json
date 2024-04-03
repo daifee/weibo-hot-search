@@ -1,0 +1,410 @@
+{
+  "runTime": 1712111064024,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 11223099,
+        "num": 11223099,
+        "word": "台湾花莲县海域7.3级地震",
+        "onboard_time": 1712103872,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2426204,
+        "num": 2426204,
+        "word": "我国发布海啸红色警报",
+        "onboard_time": 1712105667,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 6241,
+        "num": 2074810,
+        "word": "中非互联网发展与合作论坛",
+        "onboard_time": 1712044158,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2027489,
+        "num": 2027489,
+        "word": "日本海啸",
+        "onboard_time": 1712104650,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1854041,
+        "num": 1854041,
+        "word": "今天上班只干一件事",
+        "onboard_time": 1712108004,
+        "rank": 4,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 1594363,
+        "num": 1594363,
+        "word": "福宝",
+        "onboard_time": 1712106804,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1358509,
+        "num": 1358509,
+        "word": "台湾又发5.9级地震",
+        "onboard_time": 1712106208,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 827716,
+        "num": 827716,
+        "word": "黑皮果然会让颜值下降",
+        "onboard_time": 1712108481,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 774644,
+        "num": 774644,
+        "word": "台湾龟山岛山体崩塌",
+        "onboard_time": 1712108660,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 314015,
+        "num": 746161,
+        "word": "小学生走失被带去派出所后搞起吃播",
+        "onboard_time": 1712102299,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 929664,
+        "num": 746125,
+        "word": "冉莹颖回忆孕期上岸北大",
+        "onboard_time": 1712110041,
+        "rank": 10,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 742652,
+        "num": 742652,
+        "word": "海啸到达日本冲绳与那国岛",
+        "onboard_time": 1712106027,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 576971,
+        "num": 576971,
+        "word": "直播福宝回国",
+        "onboard_time": 1712102908,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 536088,
+        "num": 536088,
+        "word": "权志龙要开演唱会了",
+        "onboard_time": 1712108004,
+        "rank": 13,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 535468,
+        "num": 535468,
+        "word": "雷军称小米正式成为一家车厂",
+        "onboard_time": 1712105966,
+        "rank": 14,
+        "category": "汽车,互联网"
+      },
+      {
+        "raw_hot": 520114,
+        "num": 520114,
+        "word": "杭州震感",
+        "onboard_time": 1712103392,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 465975,
+        "num": 465975,
+        "word": "花莲一5层楼整栋倾斜",
+        "onboard_time": 1712107105,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 455052,
+        "num": 455052,
+        "word": "福宝欢迎回家",
+        "onboard_time": 1712065040,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 451603,
+        "num": 451603,
+        "word": "台湾连发3次地震",
+        "onboard_time": 1712106266,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 423211,
+        "num": 423211,
+        "word": "台湾地震为什么浙江有震感",
+        "onboard_time": 1712108123,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 827490,
+        "num": 410623,
+        "word": "考研总成绩差0.01被录取",
+        "onboard_time": 1712108060,
+        "rank": 20,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 397002,
+        "num": 397002,
+        "word": "美财政部部长耶伦将访华",
+        "onboard_time": 1712109861,
+        "rank": 21,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 383805,
+        "num": 383805,
+        "word": "警方回应找王婆说媒已婚男妻子疑轻生",
+        "onboard_time": 1712079373,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 345121,
+        "num": 345121,
+        "word": "28岁女子长期吃冰箱剩菜确诊胃癌",
+        "onboard_time": 1712076974,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 320527,
+        "num": 320527,
+        "word": "一人一句祝福接福宝回国",
+        "onboard_time": 1712102478,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 302765,
+        "num": 302765,
+        "word": "开钟点房的到底是些什么人",
+        "onboard_time": 1712077573,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 293033,
+        "num": 293033,
+        "word": "男子手术室外晕倒15秒后冲出一群医护",
+        "onboard_time": 1712083991,
+        "rank": 26,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 278280,
+        "num": 278280,
+        "word": "国台办回应台湾地震",
+        "onboard_time": 1712110521,
+        "rank": 27,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 278125,
+        "num": 278125,
+        "word": "高铁晚点",
+        "onboard_time": 1712110462,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 266715,
+        "num": 266715,
+        "word": "上海震感",
+        "onboard_time": 1712103392,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 262092,
+        "num": 262092,
+        "word": "杭州高层居民被晃晕跑下楼避险",
+        "onboard_time": 1712108004,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 259187,
+        "num": 259187,
+        "word": "台湾地震最新情况直播",
+        "onboard_time": 1712109562,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 257398,
+        "num": 257398,
+        "word": "台湾花莲县海域再发生6.0级地震",
+        "onboard_time": 1712106388,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 255616,
+        "num": 255616,
+        "word": "放三天补一天的意义是什么",
+        "onboard_time": 1712047098,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 249536,
+        "num": 249536,
+        "word": "全球资金正在加速回流中国",
+        "onboard_time": 1712110221,
+        "rank": 34,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 244480,
+        "num": 244480,
+        "word": "以闪亮之名",
+        "onboard_time": 1712109982,
+        "rank": 35,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 227082,
+        "num": 227082,
+        "word": "kep1er五月最后一次回归",
+        "onboard_time": 1712109562,
+        "rank": 36,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 220840,
+        "num": 220840,
+        "word": "台湾已发生10次地震",
+        "onboard_time": 1712110582,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 213902,
+        "num": 213902,
+        "word": "neinei十年前后变化",
+        "onboard_time": 1712064200,
+        "rank": 38,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 204028,
+        "num": 204028,
+        "word": "广东震感",
+        "onboard_time": 1712104052,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 202963,
+        "num": 202963,
+        "word": "韩剧最强90花",
+        "onboard_time": 1712085310,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 191502,
+        "num": 191502,
+        "word": "小杨哥退出与美腕合资公司",
+        "onboard_time": 1712073079,
+        "rank": 41,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 187980,
+        "num": 187980,
+        "word": "南昌",
+        "onboard_time": 1712100436,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 184948,
+        "num": 184948,
+        "word": "长沙震感",
+        "onboard_time": 1712105609,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 179389,
+        "num": 179389,
+        "word": "宁艺卓疑似签售切小屏",
+        "onboard_time": 1712080633,
+        "rank": 44,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 173647,
+        "num": 173647,
+        "word": "A股",
+        "onboard_time": 1712110941,
+        "rank": 45,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 168792,
+        "num": 168792,
+        "word": "阴阳师",
+        "onboard_time": 1712108242,
+        "rank": 46,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 166815,
+        "num": 166815,
+        "word": "16部治愈系动漫电影",
+        "onboard_time": 1712110160,
+        "rank": 47,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 165408,
+        "num": 165408,
+        "word": "全国多地震感",
+        "onboard_time": 1712106867,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 164220,
+        "num": 164220,
+        "word": "武汉震感",
+        "onboard_time": 1712103992,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#这次会谈体现中印尼关系的高水平#"
+    }
+  }
+}
