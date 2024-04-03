@@ -1,6 +1,6 @@
 {
   "startTime": 1711902044401,
-  "endTime": 1712118887321,
+  "endTime": 1712121437267,
   "band_list": [
     {
       "raw_hot": 16874674,
@@ -137,6 +137,14 @@
       "onboard_time": 1712017701,
       "rank": 0,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2130266,
+      "num": 761088,
+      "word": "黄子佼购买上百部未成年少女不雅片",
+      "onboard_time": 1712118622,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 2106976,
@@ -395,6 +403,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1367450,
+      "num": 1367450,
+      "word": "江西风雹灾害7人死亡",
+      "onboard_time": 1712119762,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1366661,
       "num": 243976,
       "word": "微信崩了",
@@ -523,6 +539,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1174964,
+      "num": 750705,
+      "word": "周杰伦亲历台湾地震称晃到不行",
+      "onboard_time": 1712119822,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1170378,
       "num": 1170378,
       "word": "台湾连发3次地震",
@@ -576,6 +600,14 @@
       "word": "女子在母亲出殡当天被哥哥要求放弃遗产",
       "onboard_time": 1712058380,
       "rank": 4,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1085045,
+      "num": 1085045,
+      "word": "宋爷爷头抵车门与福宝告别哭成泪人",
+      "onboard_time": 1712119162,
+      "rank": 5,
       "category": "社会新闻"
     },
     {
@@ -1403,6 +1435,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 620799,
+      "num": 620799,
+      "word": "胖东来金价刚涨到593元",
+      "onboard_time": 1712120182,
+      "rank": 16,
+      "category": "财经"
+    },
+    {
       "raw_hot": 618572,
       "num": 618572,
       "word": "四川信托破产",
@@ -1595,12 +1635,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 564892,
-      "num": 278291,
-      "word": "黄子佼购买上百部未成年少女不雅片",
-      "onboard_time": 1712118622,
-      "rank": 30,
-      "category": "艺人"
+      "raw_hot": 563299,
+      "num": 563299,
+      "word": "张亮 给孩子试错和承担的权利",
+      "onboard_time": 1712120062,
+      "rank": 17,
+      "category": "电影"
     },
     {
       "raw_hot": 560603,
@@ -1803,6 +1843,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 508332,
+      "num": 508332,
+      "word": "金智媛好美",
+      "onboard_time": 1712120423,
+      "rank": 19,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 506176,
       "num": 506176,
       "word": "黄旭熙中文还没郑雅娴说得好",
@@ -1897,6 +1945,14 @@
       "onboard_time": 1711975100,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 468804,
+      "num": 468804,
+      "word": "四月桃花运最旺的星座",
+      "onboard_time": 1712117663,
+      "rank": 26,
+      "category": "情感"
     },
     {
       "raw_hot": 466055,
@@ -2033,14 +2089,6 @@
       "onboard_time": 1711901838,
       "rank": 48,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 447559,
-      "num": 447559,
-      "word": "四月桃花运最旺的星座",
-      "onboard_time": 1712117663,
-      "rank": 26,
-      "category": "情感"
     },
     {
       "raw_hot": 445449,
@@ -2241,6 +2289,14 @@
       "onboard_time": 1712071519,
       "rank": 14,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 420420,
+      "num": 420420,
+      "word": "武艺的洁癖被公开处刑了",
+      "onboard_time": 1712117902,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 420204,
@@ -2619,14 +2675,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 348563,
-      "num": 348563,
-      "word": "武艺的洁癖被公开处刑了",
-      "onboard_time": 1712117902,
-      "rank": 40,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 348254,
       "num": 348254,
       "word": "福宝明天回家",
@@ -2913,6 +2961,14 @@
       "onboard_time": 1712105370,
       "rank": 35,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 308971,
+      "num": 308971,
+      "word": "雷军",
+      "onboard_time": 1712120483,
+      "rank": 28,
+      "category": "互联网,汽车"
     },
     {
       "raw_hot": 308755,
@@ -3235,6 +3291,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 273641,
+      "num": 273641,
+      "word": "周大福足金饰品金价突破700元",
+      "onboard_time": 1712119703,
+      "rank": 31,
+      "category": "财经"
+    },
+    {
       "raw_hot": 271912,
       "num": 271912,
       "word": "王珞丹给陶昕然送麝香",
@@ -3337,6 +3401,14 @@
       "onboard_time": 1712113642,
       "rank": 34,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 264287,
+      "num": 264287,
+      "word": "明日方舟",
+      "onboard_time": 1711962380,
+      "rank": 24,
+      "category": "游戏"
     },
     {
       "raw_hot": 262243,
@@ -3475,14 +3547,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 251584,
-      "num": 251584,
-      "word": "明日方舟",
-      "onboard_time": 1711962380,
-      "rank": 24,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 250790,
       "num": 250790,
       "word": "孙艺珍出演朴赞郁新片",
@@ -3619,6 +3683,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 242610,
+      "num": 242610,
+      "word": "后悔介绍朋友来自己公司了",
+      "onboard_time": 1712118622,
+      "rank": 37,
+      "category": "情感"
+    },
+    {
       "raw_hot": 241987,
       "num": 241987,
       "word": "法考证",
@@ -3723,14 +3795,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 235648,
-      "num": 235648,
-      "word": "后悔介绍朋友来自己公司了",
-      "onboard_time": 1712118622,
-      "rank": 37,
-      "category": "情感"
-    },
-    {
       "raw_hot": 235588,
       "num": 235588,
       "word": "朱一龙直播",
@@ -3745,6 +3809,14 @@
       "onboard_time": 1711938258,
       "rank": 36,
       "category": "数码"
+    },
+    {
+      "raw_hot": 235375,
+      "num": 235375,
+      "word": "王俊凯 德云社在逃编外捧哏",
+      "onboard_time": 1712121081,
+      "rank": 39,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 234018,
@@ -3841,6 +3913,14 @@
       "onboard_time": 1711944682,
       "rank": 34,
       "category": "科学科普,互联网"
+    },
+    {
+      "raw_hot": 230551,
+      "num": 230551,
+      "word": "马立奥 我唱歌好听不听",
+      "onboard_time": 1712119343,
+      "rank": 40,
+      "category": "网红"
     },
     {
       "raw_hot": 229447,
@@ -3961,6 +4041,14 @@
       "onboard_time": 1711945704,
       "rank": 41,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 224085,
+      "num": 224085,
+      "word": "永远不要把工作当成你的全部",
+      "onboard_time": 1712115081,
+      "rank": 45,
+      "category": "情感"
     },
     {
       "raw_hot": 223652,
@@ -4097,6 +4185,14 @@
       "onboard_time": 1712047158,
       "rank": 31,
       "category": "演出"
+    },
+    {
+      "raw_hot": 216002,
+      "num": 216002,
+      "word": "江西通报提灯定损事件",
+      "onboard_time": 1712121261,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 215130,
@@ -4243,20 +4339,20 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 210087,
+      "num": 210087,
+      "word": "长沙1日游 怒走17个景点",
+      "onboard_time": 1712120901,
+      "rank": 46,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 209330,
       "num": 209330,
       "word": "楼处除三害",
       "onboard_time": 1712053820,
       "rank": 41,
       "category": "电竞,网红"
-    },
-    {
-      "raw_hot": 208699,
-      "num": 208699,
-      "word": "永远不要把工作当成你的全部",
-      "onboard_time": 1712115081,
-      "rank": 45,
-      "category": "情感"
     },
     {
       "raw_hot": 208274,
@@ -5201,6 +5297,14 @@
       "onboard_time": 1712074099,
       "rank": 32,
       "category": "情感"
+    },
+    {
+      "raw_hot": 178249,
+      "num": 178249,
+      "word": "我承认之前对幽兰太大声了",
+      "onboard_time": 1712121381,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 177988,
@@ -6876,7 +6980,7 @@
     },
     {
       "raw_hot": 99551,
-      "num": 1547242,
+      "num": 1695255,
       "word": "清明给英烈写句话",
       "onboard_time": 1712115621,
       "rank": 2,
@@ -6913,6 +7017,14 @@
       "onboard_time": 1711989138,
       "rank": 33,
       "category": "电影"
+    },
+    {
+      "raw_hot": 96722,
+      "num": 631197,
+      "word": "无人驾驶都能劈S弯了吗",
+      "onboard_time": 1712118803,
+      "rank": 47,
+      "category": "汽车"
     },
     {
       "raw_hot": 94855,
@@ -7137,14 +7249,6 @@
       "onboard_time": 1712007490,
       "rank": 32,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 57251,
-      "num": 173944,
-      "word": "无人驾驶都能劈S弯了吗",
-      "onboard_time": 1712118803,
-      "rank": 47,
-      "category": "汽车"
     },
     {
       "raw_hot": 57184,

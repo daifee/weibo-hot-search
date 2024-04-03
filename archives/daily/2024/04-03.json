@@ -1,6 +1,6 @@
 {
   "startTime": 1712074937436,
-  "endTime": 1712118887321,
+  "endTime": 1712121437267,
   "band_list": [
     {
       "raw_hot": 16874674,
@@ -59,6 +59,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2130266,
+      "num": 761088,
+      "word": "黄子佼购买上百部未成年少女不雅片",
+      "onboard_time": 1712118622,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1708706,
       "num": 1708706,
       "word": "直播福宝回国",
@@ -99,6 +107,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 1367450,
+      "num": 1367450,
+      "word": "江西风雹灾害7人死亡",
+      "onboard_time": 1712119762,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1319767,
       "num": 1319767,
       "word": "警方回应找王婆说媒已婚男妻子疑轻生",
@@ -131,6 +147,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1174964,
+      "num": 750705,
+      "word": "周杰伦亲历台湾地震称晃到不行",
+      "onboard_time": 1712119822,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1170378,
       "num": 1170378,
       "word": "台湾连发3次地震",
@@ -160,6 +184,14 @@
       "word": "上海女婿阿福宣布离婚",
       "onboard_time": 1712112739,
       "rank": 10,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1085045,
+      "num": 1085045,
+      "word": "宋爷爷头抵车门与福宝告别哭成泪人",
+      "onboard_time": 1712119162,
+      "rank": 5,
       "category": "社会新闻"
     },
     {
@@ -299,6 +331,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 620799,
+      "num": 620799,
+      "word": "胖东来金价刚涨到593元",
+      "onboard_time": 1712120182,
+      "rank": 16,
+      "category": "财经"
+    },
+    {
       "raw_hot": 599221,
       "num": 599221,
       "word": "雷军称小米正式成为一家车厂",
@@ -339,12 +379,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 564892,
-      "num": 278291,
-      "word": "黄子佼购买上百部未成年少女不雅片",
-      "onboard_time": 1712118622,
-      "rank": 30,
-      "category": "艺人"
+      "raw_hot": 563299,
+      "num": 563299,
+      "word": "张亮 给孩子试错和承担的权利",
+      "onboard_time": 1712120062,
+      "rank": 17,
+      "category": "电影"
     },
     {
       "raw_hot": 547459,
@@ -379,6 +419,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 508332,
+      "num": 508332,
+      "word": "金智媛好美",
+      "onboard_time": 1712120423,
+      "rank": 19,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 502242,
       "num": 502242,
       "word": "海啸",
@@ -401,6 +449,14 @@
       "onboard_time": 1712083991,
       "rank": 28,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 468804,
+      "num": 468804,
+      "word": "四月桃花运最旺的星座",
+      "onboard_time": 1712117663,
+      "rank": 26,
+      "category": "情感"
     },
     {
       "raw_hot": 465975,
@@ -449,14 +505,6 @@
       "onboard_time": 1712064200,
       "rank": 12,
       "category": "演出"
-    },
-    {
-      "raw_hot": 447559,
-      "num": 447559,
-      "word": "四月桃花运最旺的星座",
-      "onboard_time": 1712117663,
-      "rank": 26,
-      "category": "情感"
     },
     {
       "raw_hot": 442009,
@@ -521,6 +569,14 @@
       "onboard_time": 1712071519,
       "rank": 7,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 420420,
+      "num": 420420,
+      "word": "武艺的洁癖被公开处刑了",
+      "onboard_time": 1712117902,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 420204,
@@ -611,14 +667,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 348563,
-      "num": 348563,
-      "word": "武艺的洁癖被公开处刑了",
-      "onboard_time": 1712117902,
-      "rank": 40,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 335411,
       "num": 335411,
       "word": "长沙震感",
@@ -683,6 +731,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 308971,
+      "num": 308971,
+      "word": "雷军",
+      "onboard_time": 1712120483,
+      "rank": 28,
+      "category": "互联网,汽车"
+    },
+    {
       "raw_hot": 308032,
       "num": 308032,
       "word": "花间令剧本写了十年",
@@ -739,6 +795,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 273641,
+      "num": 273641,
+      "word": "周大福足金饰品金价突破700元",
+      "onboard_time": 1712119703,
+      "rank": 31,
+      "category": "财经"
+    },
+    {
       "raw_hot": 270747,
       "num": 270747,
       "word": "A股",
@@ -769,6 +833,14 @@
       "onboard_time": 1712113642,
       "rank": 34,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 264287,
+      "num": 264287,
+      "word": "明日方舟",
+      "onboard_time": 1712120723,
+      "rank": 34,
+      "category": "游戏"
     },
     {
       "raw_hot": 262092,
@@ -811,6 +883,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 242610,
+      "num": 242610,
+      "word": "后悔介绍朋友来自己公司了",
+      "onboard_time": 1712118622,
+      "rank": 37,
+      "category": "情感"
+    },
+    {
       "raw_hot": 241871,
       "num": 241871,
       "word": "与凤行滤镜改了",
@@ -851,12 +931,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 235648,
-      "num": 235648,
-      "word": "后悔介绍朋友来自己公司了",
-      "onboard_time": 1712118622,
-      "rank": 37,
-      "category": "情感"
+      "raw_hot": 235375,
+      "num": 235375,
+      "word": "王俊凯 德云社在逃编外捧哏",
+      "onboard_time": 1712121081,
+      "rank": 39,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 232638,
@@ -873,6 +953,14 @@
       "onboard_time": 1712106867,
       "rank": 38,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 230551,
+      "num": 230551,
+      "word": "马立奥 我唱歌好听不听",
+      "onboard_time": 1712119343,
+      "rank": 40,
+      "category": "网红"
     },
     {
       "raw_hot": 229122,
@@ -899,6 +987,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 224085,
+      "num": 224085,
+      "word": "永远不要把工作当成你的全部",
+      "onboard_time": 1712115081,
+      "rank": 45,
+      "category": "情感"
+    },
+    {
       "raw_hot": 223578,
       "num": 223578,
       "word": "常州震感",
@@ -920,6 +1016,14 @@
       "word": "浙江震感",
       "onboard_time": 1712104533,
       "rank": 48,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 216002,
+      "num": 216002,
+      "word": "江西通报提灯定损事件",
+      "onboard_time": 1712121261,
+      "rank": 44,
       "category": "社会新闻"
     },
     {
@@ -963,20 +1067,20 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 210087,
+      "num": 210087,
+      "word": "长沙1日游 怒走17个景点",
+      "onboard_time": 1712120901,
+      "rank": 46,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 210010,
       "num": 194689,
       "word": "郑合惠子 清醒的恋爱观",
       "onboard_time": 1712071161,
       "rank": 20,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 208699,
-      "num": 208699,
-      "word": "永远不要把工作当成你的全部",
-      "onboard_time": 1712115081,
-      "rank": 45,
-      "category": "情感"
     },
     {
       "raw_hot": 204744,
@@ -1065,6 +1169,14 @@
       "onboard_time": 1712074099,
       "rank": 32,
       "category": "情感"
+    },
+    {
+      "raw_hot": 178249,
+      "num": 178249,
+      "word": "我承认之前对幽兰太大声了",
+      "onboard_time": 1712121381,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 174360,
@@ -1300,7 +1412,7 @@
     },
     {
       "raw_hot": 99551,
-      "num": 1547242,
+      "num": 1695255,
       "word": "清明给英烈写句话",
       "onboard_time": 1712115621,
       "rank": 2,
@@ -1313,6 +1425,14 @@
       "onboard_time": 1712092870,
       "rank": 42,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 96722,
+      "num": 631197,
+      "word": "无人驾驶都能劈S弯了吗",
+      "onboard_time": 1712118803,
+      "rank": 47,
+      "category": "汽车"
     },
     {
       "raw_hot": 95518,
@@ -1433,14 +1553,6 @@
       "onboard_time": 1712084471,
       "rank": 43,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 57251,
-      "num": 173944,
-      "word": "无人驾驶都能劈S弯了吗",
-      "onboard_time": 1712118803,
-      "rank": 47,
-      "category": "汽车"
     },
     {
       "raw_hot": 55454,
