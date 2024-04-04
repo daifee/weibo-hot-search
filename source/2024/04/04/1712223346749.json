@@ -1,0 +1,410 @@
+{
+  "runTime": 1712223346749,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1360158,
+        "num": 1360158,
+        "word": "岳父母要求继承女婿父母留下的房产",
+        "onboard_time": 1712220199,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1324077,
+        "num": 1324077,
+        "word": "今年清明为啥是4月4日",
+        "onboard_time": 1712216898,
+        "rank": 1,
+        "category": "社会新闻,社会议题"
+      },
+      {
+        "raw_hot": 70735,
+        "num": 912897,
+        "word": "先辈炽热滚烫的信仰我们永远记得",
+        "onboard_time": 1712218577,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2366026,
+        "num": 903213,
+        "word": "行止张嘴了",
+        "onboard_time": 1712221998,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 770716,
+        "num": 770716,
+        "word": "高伟光连发35条微博",
+        "onboard_time": 1712218818,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 694336,
+        "num": 694336,
+        "word": "世界年龄最大男子去世",
+        "onboard_time": 1712217977,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 617923,
+        "num": 617923,
+        "word": "zara包",
+        "onboard_time": 1712209158,
+        "rank": 6,
+        "category": "时尚,作品衍生"
+      },
+      {
+        "raw_hot": 547648,
+        "num": 547648,
+        "word": "姜爷爷希望福宝回中国不要改名字",
+        "onboard_time": 1712209038,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 524639,
+        "num": 524639,
+        "word": "胡一天 之前对你太大声了",
+        "onboard_time": 1712214677,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 262574,
+        "num": 513818,
+        "word": "福宝的首选是红苹果",
+        "onboard_time": 1712207539,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 506773,
+        "num": 506773,
+        "word": "200元快住不起经济型酒店",
+        "onboard_time": 1712219477,
+        "rank": 10,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 505994,
+        "num": 505994,
+        "word": "林更新工作室",
+        "onboard_time": 1712222057,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 351925,
+        "num": 351925,
+        "word": "三十岁才会发现戴珍珠的美",
+        "onboard_time": 1712206338,
+        "rank": 12,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 351446,
+        "num": 351446,
+        "word": "原来清明并不是放三天补一天",
+        "onboard_time": 1712195299,
+        "rank": 13,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 350274,
+        "num": 350274,
+        "word": "学会开车后感觉世界观变了",
+        "onboard_time": 1712213658,
+        "rank": 14,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 327222,
+        "num": 327222,
+        "word": "朴彩英综艺主题曲上线",
+        "onboard_time": 1712222719,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 394846,
+        "num": 320993,
+        "word": "林更新把赵丽颖说的话拉成横幅",
+        "onboard_time": 1712220558,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 290840,
+        "num": 290840,
+        "word": "为什么现在住院都要问学历了",
+        "onboard_time": 1712212158,
+        "rank": 17,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 252598,
+        "num": 252598,
+        "word": "钟辰乐受伤",
+        "onboard_time": 1712221459,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 230573,
+        "num": 230573,
+        "word": "小米汽车称贷款未通过锁单后不可退定",
+        "onboard_time": 1712214077,
+        "rank": 19,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 381327,
+        "num": 226137,
+        "word": "因为喷香水被同事提醒味道重",
+        "onboard_time": 1712221697,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 274459,
+        "num": 225344,
+        "word": "为了卖掉房子做了半年中介",
+        "onboard_time": 1712221637,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 216347,
+        "num": 216347,
+        "word": "库克套现2.4亿元股票",
+        "onboard_time": 1712222599,
+        "rank": 22,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 207850,
+        "num": 207850,
+        "word": "不建议吃冷青团",
+        "onboard_time": 1712222237,
+        "rank": 23,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 206220,
+        "num": 206220,
+        "word": "邓科你也真是的",
+        "onboard_time": 1712222898,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 205204,
+        "num": 205204,
+        "word": "张艺兴回应内娱没有舞台",
+        "onboard_time": 1712211497,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 204594,
+        "num": 204594,
+        "word": "妈妈生日送花被直接丢了出来",
+        "onboard_time": 1712222237,
+        "rank": 26,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 203165,
+        "num": 203165,
+        "word": "林更新我晕腿",
+        "onboard_time": 1712215158,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 197219,
+        "num": 197219,
+        "word": "原来不用剧烈运动也能瘦",
+        "onboard_time": 1712216598,
+        "rank": 28,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 195596,
+        "num": 195596,
+        "word": "地震时男孩一把抱起同桌往外冲",
+        "onboard_time": 1712209097,
+        "rank": 29,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 192633,
+        "num": 192633,
+        "word": "张艺兴被问带领华语音乐走到哪了",
+        "onboard_time": 1712220496,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 186042,
+        "num": 186042,
+        "word": "T1对战HLE",
+        "onboard_time": 1712223079,
+        "rank": 31,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 176066,
+        "num": 176066,
+        "word": "林狗你行不行啊",
+        "onboard_time": 1712189777,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 175072,
+        "num": 175072,
+        "word": "与凤行",
+        "onboard_time": 1712221278,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 169696,
+        "num": 169696,
+        "word": "官方回应福宝被人不戴手套戳",
+        "onboard_time": 1712204359,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 162066,
+        "num": 162066,
+        "word": "沈璃行止的孩子是花千骨吧",
+        "onboard_time": 1712215519,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 160328,
+        "num": 160328,
+        "word": "宫崎骏新片票房破2亿",
+        "onboard_time": 1712220558,
+        "rank": 36,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 151929,
+        "num": 151929,
+        "word": "姜爷爷",
+        "onboard_time": 1712204717,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 146366,
+        "num": 146366,
+        "word": "iPhone16全家福机模曝光",
+        "onboard_time": 1712208979,
+        "rank": 38,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 142248,
+        "num": 142248,
+        "word": "运动瘦脸才能真正的瘦脸",
+        "onboard_time": 1712209158,
+        "rank": 39,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 138154,
+        "num": 138154,
+        "word": "子宫生病的第一个信号就是异常出血",
+        "onboard_time": 1712209337,
+        "rank": 40,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 136533,
+        "num": 136533,
+        "word": "沈月脏脏包造型",
+        "onboard_time": 1712216418,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 135226,
+        "num": 135226,
+        "word": "刚工作三个月父母就向我要钱",
+        "onboard_time": 1712218697,
+        "rank": 42,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 130594,
+        "num": 130594,
+        "word": "长期不上班是什么状态",
+        "onboard_time": 1712206278,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 128829,
+        "num": 128829,
+        "word": "柯南来了都得看监控",
+        "onboard_time": 1712222957,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 126262,
+        "num": 126262,
+        "word": "吴昕洗白失败",
+        "onboard_time": 1712223319,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 124538,
+        "num": 124538,
+        "word": "王婆说媒已婚男妻子深夜发视频哭诉",
+        "onboard_time": 1712195299,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 123331,
+        "num": 123331,
+        "word": "福宝小屋布满竹子笋笋苹果胡萝卜",
+        "onboard_time": 1712200758,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 122177,
+        "num": 122177,
+        "word": "摇太阳 悼词",
+        "onboard_time": 1712216598,
+        "rank": 48,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 121353,
+        "num": 121353,
+        "word": "墓碑上二维码",
+        "onboard_time": 1712222898,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#清明祭英烈家国永念#"
+    }
+  }
+}

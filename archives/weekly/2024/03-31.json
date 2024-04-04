@@ -1,6 +1,6 @@
 {
   "startTime": 1711815680412,
-  "endTime": 1712222273502,
+  "endTime": 1712223346749,
   "band_list": [
     {
       "raw_hot": 16874674,
@@ -137,6 +137,14 @@
       "onboard_time": 1711935739,
       "rank": 3,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2366026,
+      "num": 903213,
+      "word": "行止张嘴了",
+      "onboard_time": 1712221998,
+      "rank": 3,
+      "category": "剧集"
     },
     {
       "raw_hot": 2229896,
@@ -689,6 +697,14 @@
       "onboard_time": 1711962560,
       "rank": 31,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 1360158,
+      "num": 1360158,
+      "word": "岳父母要求继承女婿父母留下的房产",
+      "onboard_time": 1712220199,
+      "rank": 10,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1319767,
@@ -1379,14 +1395,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 915183,
-      "num": 757481,
-      "word": "行止张嘴了",
-      "onboard_time": 1712221998,
-      "rank": 3,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 913718,
       "num": 913718,
       "word": "中国农发行纪检委已关注到想当行长的男孩",
@@ -1537,14 +1545,6 @@
       "onboard_time": 1712150062,
       "rank": 19,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 831041,
-      "num": 458894,
-      "word": "岳父母要求继承女婿父母留下的房产",
-      "onboard_time": 1712220199,
-      "rank": 10,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 829840,
@@ -1908,7 +1908,7 @@
     },
     {
       "raw_hot": 735526,
-      "num": 458299,
+      "num": 694336,
       "word": "世界年龄最大男子去世",
       "onboard_time": 1712217977,
       "rank": 30,
@@ -3235,6 +3235,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 506773,
+      "num": 506773,
+      "word": "200元快住不起经济型酒店",
+      "onboard_time": 1712219477,
+      "rank": 40,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 506187,
       "num": 648197,
       "word": "已婚男子找王婆说媒妻子或将离婚",
@@ -3249,6 +3257,14 @@
       "onboard_time": 1712031923,
       "rank": 21,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 505994,
+      "num": 505994,
+      "word": "林更新工作室",
+      "onboard_time": 1712222057,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 504859,
@@ -3673,14 +3689,6 @@
       "onboard_time": 1712151322,
       "rank": 23,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 452186,
-      "num": 452186,
-      "word": "200元快住不起经济型酒店",
-      "onboard_time": 1712219477,
-      "rank": 40,
-      "category": "旅游"
     },
     {
       "raw_hot": 452107,
@@ -4451,6 +4459,14 @@
       "category": "艺人,互联网"
     },
     {
+      "raw_hot": 381327,
+      "num": 226137,
+      "word": "因为喷香水被同事提醒味道重",
+      "onboard_time": 1712221697,
+      "rank": 31,
+      "category": "情感"
+    },
+    {
       "raw_hot": 380796,
       "num": 380796,
       "word": "一人一句祝福接福宝回国",
@@ -5049,6 +5065,14 @@
       "onboard_time": 1711857798,
       "rank": 23,
       "category": "演出"
+    },
+    {
+      "raw_hot": 327222,
+      "num": 327222,
+      "word": "朴彩英综艺主题曲上线",
+      "onboard_time": 1712222719,
+      "rank": 15,
+      "category": "综艺"
     },
     {
       "raw_hot": 326996,
@@ -5691,14 +5715,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 287113,
-      "num": 287113,
-      "word": "林更新工作室",
-      "onboard_time": 1712222057,
-      "rank": 15,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 286269,
       "num": 286269,
       "word": "追风者开虐",
@@ -5929,6 +5945,14 @@
       "onboard_time": 1711863557,
       "rank": 20,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 274459,
+      "num": 225344,
+      "word": "为了卖掉房子做了半年中介",
+      "onboard_time": 1712221637,
+      "rank": 30,
+      "category": "情感"
     },
     {
       "raw_hot": 273641,
@@ -6409,6 +6433,14 @@
       "onboard_time": 1712067981,
       "rank": 23,
       "category": "综艺,时尚"
+    },
+    {
+      "raw_hot": 252598,
+      "num": 252598,
+      "word": "钟辰乐受伤",
+      "onboard_time": 1712221459,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 252327,
@@ -7491,20 +7523,20 @@
       "category": "演出"
     },
     {
-      "raw_hot": 216448,
-      "num": 183879,
-      "word": "为了卖掉房子做了半年中介",
-      "onboard_time": 1712221637,
-      "rank": 30,
-      "category": "情感"
-    },
-    {
       "raw_hot": 216430,
       "num": 216430,
       "word": "小米汽车回应建议舒淇代言SU7",
       "onboard_time": 1711882218,
       "rank": 25,
       "category": "艺人,汽车"
+    },
+    {
+      "raw_hot": 216347,
+      "num": 216347,
+      "word": "库克套现2.4亿元股票",
+      "onboard_time": 1712222599,
+      "rank": 22,
+      "category": "财经"
     },
     {
       "raw_hot": 215775,
@@ -7803,14 +7835,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 208706,
-      "num": 182809,
-      "word": "因为喷香水被同事提醒味道重",
-      "onboard_time": 1712221697,
-      "rank": 31,
-      "category": "情感"
-    },
-    {
       "raw_hot": 208693,
       "num": 208693,
       "word": "澳门世界杯",
@@ -7867,6 +7891,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 207850,
+      "num": 207850,
+      "word": "不建议吃冷青团",
+      "onboard_time": 1712222237,
+      "rank": 49,
+      "category": "美食"
+    },
+    {
       "raw_hot": 207796,
       "num": 207796,
       "word": "上班后才发现旅游是退休后的事",
@@ -7905,6 +7937,14 @@
       "onboard_time": 1711846937,
       "rank": 31,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 206220,
+      "num": 206220,
+      "word": "邓科你也真是的",
+      "onboard_time": 1712222898,
+      "rank": 24,
+      "category": "剧集"
     },
     {
       "raw_hot": 206073,
@@ -7993,6 +8033,14 @@
       "onboard_time": 1712071579,
       "rank": 31,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 204594,
+      "num": 204594,
+      "word": "妈妈生日送花被直接丢了出来",
+      "onboard_time": 1712222237,
+      "rank": 43,
+      "category": "情感"
     },
     {
       "raw_hot": 204425,
@@ -8587,14 +8635,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 194483,
-      "num": 194483,
-      "word": "钟辰乐受伤",
-      "onboard_time": 1712221459,
-      "rank": 26,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 194383,
       "num": 194383,
       "word": "15岁女孩赛艇训练失联遗体被找到",
@@ -9105,6 +9145,14 @@
       "onboard_time": 1711876458,
       "rank": 32,
       "category": "体育"
+    },
+    {
+      "raw_hot": 186042,
+      "num": 186042,
+      "word": "T1对战HLE",
+      "onboard_time": 1712223079,
+      "rank": 31,
+      "category": "电竞"
     },
     {
       "raw_hot": 185883,
@@ -11867,14 +11915,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 129686,
-      "num": 129686,
-      "word": "妈妈生日送花被直接丢了出来",
-      "onboard_time": 1712222237,
-      "rank": 43,
-      "category": "情感"
-    },
-    {
       "raw_hot": 129517,
       "num": 129517,
       "word": "追风者魏若来觉醒",
@@ -11897,6 +11937,14 @@
       "onboard_time": 1711878017,
       "rank": 48,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 128829,
+      "num": 128829,
+      "word": "柯南来了都得看监控",
+      "onboard_time": 1712222957,
+      "rank": 44,
+      "category": "幽默"
     },
     {
       "raw_hot": 128647,
@@ -11993,6 +12041,14 @@
       "onboard_time": 1712197638,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 126262,
+      "num": 126262,
+      "word": "吴昕洗白失败",
+      "onboard_time": 1712223319,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 126232,
@@ -12129,6 +12185,14 @@
       "onboard_time": 1712161096,
       "rank": 46,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 121353,
+      "num": 121353,
+      "word": "墓碑上二维码",
+      "onboard_time": 1712222898,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 121213,
@@ -12369,14 +12433,6 @@
       "onboard_time": 1712037618,
       "rank": 49,
       "category": "情感"
-    },
-    {
-      "raw_hot": 114268,
-      "num": 114268,
-      "word": "不建议吃冷青团",
-      "onboard_time": 1712222237,
-      "rank": 49,
-      "category": "美食"
     },
     {
       "raw_hot": 114166,
@@ -12900,7 +12956,7 @@
     },
     {
       "raw_hot": 75674,
-      "num": 902976,
+      "num": 912897,
       "word": "先辈炽热滚烫的信仰我们永远记得",
       "onboard_time": 1712218577,
       "rank": 2,

@@ -1,7 +1,15 @@
 {
   "startTime": 1712161260598,
-  "endTime": 1712222273502,
+  "endTime": 1712223346749,
   "band_list": [
+    {
+      "raw_hot": 2366026,
+      "num": 903213,
+      "word": "行止张嘴了",
+      "onboard_time": 1712221998,
+      "rank": 3,
+      "category": "剧集"
+    },
     {
       "raw_hot": 2123188,
       "num": 2123188,
@@ -65,6 +73,14 @@
       "onboard_time": 1712199498,
       "rank": 30,
       "category": "情感"
+    },
+    {
+      "raw_hot": 1360158,
+      "num": 1360158,
+      "word": "岳父母要求继承女婿父母留下的房产",
+      "onboard_time": 1712220199,
+      "rank": 10,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1288666,
@@ -179,14 +195,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 915183,
-      "num": 757481,
-      "word": "行止张嘴了",
-      "onboard_time": 1712221998,
-      "rank": 3,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 893199,
       "num": 893199,
       "word": "学会开车后感觉世界观变了",
@@ -201,14 +209,6 @@
       "onboard_time": 1712189777,
       "rank": 4,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 831041,
-      "num": 458894,
-      "word": "岳父母要求继承女婿父母留下的房产",
-      "onboard_time": 1712220199,
-      "rank": 10,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 823946,
@@ -236,7 +236,7 @@
     },
     {
       "raw_hot": 735526,
-      "num": 458299,
+      "num": 694336,
       "word": "世界年龄最大男子去世",
       "onboard_time": 1712217977,
       "rank": 30,
@@ -435,6 +435,22 @@
       "category": "军事,国外时政"
     },
     {
+      "raw_hot": 506773,
+      "num": 506773,
+      "word": "200元快住不起经济型酒店",
+      "onboard_time": 1712219477,
+      "rank": 40,
+      "category": "旅游"
+    },
+    {
+      "raw_hot": 505994,
+      "num": 505994,
+      "word": "林更新工作室",
+      "onboard_time": 1712222057,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 495586,
       "num": 495586,
       "word": "声入人心团综",
@@ -481,14 +497,6 @@
       "onboard_time": 1712158340,
       "rank": 9,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 452186,
-      "num": 452186,
-      "word": "200元快住不起经济型酒店",
-      "onboard_time": 1712219477,
-      "rank": 40,
-      "category": "旅游"
     },
     {
       "raw_hot": 447567,
@@ -592,6 +600,14 @@
       "word": "微信删好友应不应该先打招呼",
       "onboard_time": 1712194219,
       "rank": 40,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 381327,
+      "num": 226137,
+      "word": "因为喷香水被同事提醒味道重",
+      "onboard_time": 1712221697,
+      "rank": 31,
       "category": "情感"
     },
     {
@@ -699,6 +715,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 327222,
+      "num": 327222,
+      "word": "朴彩英综艺主题曲上线",
+      "onboard_time": 1712222719,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 326139,
       "num": 326139,
       "word": "沈璃行止的孩子是花千骨吧",
@@ -787,14 +811,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 287113,
-      "num": 287113,
-      "word": "林更新工作室",
-      "onboard_time": 1712222057,
-      "rank": 15,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 285334,
       "num": 285334,
       "word": "煮熟的鸡蛋别再用凉水冷却了",
@@ -825,6 +841,14 @@
       "onboard_time": 1712214559,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 274459,
+      "num": 225344,
+      "word": "为了卖掉房子做了半年中介",
+      "onboard_time": 1712221637,
+      "rank": 30,
+      "category": "情感"
     },
     {
       "raw_hot": 273258,
@@ -897,6 +921,14 @@
       "onboard_time": 1712185754,
       "rank": 10,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 252598,
+      "num": 252598,
+      "word": "钟辰乐受伤",
+      "onboard_time": 1712221459,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 248752,
@@ -995,12 +1027,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 216448,
-      "num": 183879,
-      "word": "为了卖掉房子做了半年中介",
-      "onboard_time": 1712221637,
-      "rank": 30,
-      "category": "情感"
+      "raw_hot": 216347,
+      "num": 216347,
+      "word": "库克套现2.4亿元股票",
+      "onboard_time": 1712222599,
+      "rank": 22,
+      "category": "财经"
     },
     {
       "raw_hot": 215775,
@@ -1027,12 +1059,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 208706,
-      "num": 182809,
-      "word": "因为喷香水被同事提醒味道重",
-      "onboard_time": 1712221697,
-      "rank": 31,
-      "category": "情感"
+      "raw_hot": 207850,
+      "num": 207850,
+      "word": "不建议吃冷青团",
+      "onboard_time": 1712222237,
+      "rank": 49,
+      "category": "美食"
     },
     {
       "raw_hot": 206867,
@@ -1041,6 +1073,14 @@
       "onboard_time": 1712164694,
       "rank": 32,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 206220,
+      "num": 206220,
+      "word": "邓科你也真是的",
+      "onboard_time": 1712222898,
+      "rank": 24,
+      "category": "剧集"
     },
     {
       "raw_hot": 206073,
@@ -1057,6 +1097,14 @@
       "onboard_time": 1712198298,
       "rank": 35,
       "category": "美食"
+    },
+    {
+      "raw_hot": 204594,
+      "num": 204594,
+      "word": "妈妈生日送花被直接丢了出来",
+      "onboard_time": 1712222237,
+      "rank": 43,
+      "category": "情感"
     },
     {
       "raw_hot": 200657,
@@ -1123,14 +1171,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 194483,
-      "num": 194483,
-      "word": "钟辰乐受伤",
-      "onboard_time": 1712221459,
-      "rank": 26,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 190532,
       "num": 197947,
       "word": "福宝已顺利入住隔离检疫圈舍",
@@ -1177,6 +1217,14 @@
       "onboard_time": 1712195958,
       "rank": 35,
       "category": "美食"
+    },
+    {
+      "raw_hot": 186042,
+      "num": 186042,
+      "word": "T1对战HLE",
+      "onboard_time": 1712223079,
+      "rank": 31,
+      "category": "电竞"
     },
     {
       "raw_hot": 181744,
@@ -1627,20 +1675,20 @@
       "category": "电影"
     },
     {
-      "raw_hot": 129686,
-      "num": 129686,
-      "word": "妈妈生日送花被直接丢了出来",
-      "onboard_time": 1712222237,
-      "rank": 43,
-      "category": "情感"
-    },
-    {
       "raw_hot": 129674,
       "num": 129674,
       "word": "P70发不发售",
       "onboard_time": 1712204298,
       "rank": 49,
       "category": "数码"
+    },
+    {
+      "raw_hot": 128829,
+      "num": 128829,
+      "word": "柯南来了都得看监控",
+      "onboard_time": 1712222957,
+      "rank": 44,
+      "category": "幽默"
     },
     {
       "raw_hot": 127927,
@@ -1683,6 +1731,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 126262,
+      "num": 126262,
+      "word": "吴昕洗白失败",
+      "onboard_time": 1712223319,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 125781,
       "num": 125781,
       "word": "超意神探 尺度",
@@ -1713,6 +1769,14 @@
       "onboard_time": 1712161096,
       "rank": 46,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 121353,
+      "num": 121353,
+      "word": "墓碑上二维码",
+      "onboard_time": 1712222898,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 120883,
@@ -1777,14 +1841,6 @@
       "onboard_time": 1712218098,
       "rank": 47,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 114268,
-      "num": 114268,
-      "word": "不建议吃冷青团",
-      "onboard_time": 1712222237,
-      "rank": 49,
-      "category": "美食"
     },
     {
       "raw_hot": 112172,
@@ -1868,7 +1924,7 @@
     },
     {
       "raw_hot": 75674,
-      "num": 902976,
+      "num": 912897,
       "word": "先辈炽热滚烫的信仰我们永远记得",
       "onboard_time": 1712218577,
       "rank": 2,
