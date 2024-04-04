@@ -1,0 +1,410 @@
+{
+  "runTime": 1712204557566,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1478092,
+        "num": 1478092,
+        "word": "原来清明并不是放三天补一天",
+        "onboard_time": 1712195299,
+        "rank": 0,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 1371234,
+        "num": 1371234,
+        "word": "去客厅化",
+        "onboard_time": 1712199498,
+        "rank": 1,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 63687,
+        "num": 1313728,
+        "word": "清明祭英烈家国永念",
+        "onboard_time": 1712199857,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1266004,
+        "num": 1266004,
+        "word": "福宝小屋布满竹子笋笋苹果胡萝卜",
+        "onboard_time": 1712200758,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1036556,
+        "num": 1036556,
+        "word": "日本地震",
+        "onboard_time": 1712201658,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 909409,
+        "num": 909409,
+        "word": "王婆说媒已婚男妻子深夜发视频哭诉",
+        "onboard_time": 1712195299,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 800463,
+        "num": 800463,
+        "word": "拍吻戏不张嘴",
+        "onboard_time": 1712193800,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 472154,
+        "num": 472154,
+        "word": "向佐被网友认成外国女人和保姆",
+        "onboard_time": 1712197819,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 453566,
+        "num": 453566,
+        "word": "福宝尚不满4岁",
+        "onboard_time": 1712203276,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 207163,
+        "num": 448162,
+        "word": "下车吃瓜发现自己才是主角",
+        "onboard_time": 1712185873,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 508693,
+        "num": 447798,
+        "word": "马克龙愿单抗俄军不连累美国和北约",
+        "onboard_time": 1712199558,
+        "rank": 10,
+        "category": "军事,国外时政"
+      },
+      {
+        "raw_hot": 445436,
+        "num": 445436,
+        "word": "林狗你行不行啊",
+        "onboard_time": 1712189777,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 431221,
+        "num": 431221,
+        "word": "原来韩国人追剧不看字幕的",
+        "onboard_time": 1712201898,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 371353,
+        "num": 371353,
+        "word": "丈夫称杨雪发病16天已失去治疗机会",
+        "onboard_time": 1712190677,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 357586,
+        "num": 357586,
+        "word": "各大平台禁止售卖分装化妆品",
+        "onboard_time": 1712203220,
+        "rank": 14,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 322122,
+        "num": 322122,
+        "word": "马英九率台湾青年公祭轩辕黄帝",
+        "onboard_time": 1712199257,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 308996,
+        "num": 308996,
+        "word": "男子虐猫后将残肢丢至直播间",
+        "onboard_time": 1712194219,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 290626,
+        "num": 290626,
+        "word": "日本本州6.2级左右地震",
+        "onboard_time": 1712202738,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 290166,
+        "num": 290166,
+        "word": "姜爷爷说福宝有点紧张",
+        "onboard_time": 1712186835,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 283703,
+        "num": 283703,
+        "word": "官方回应福宝被人不戴手套戳",
+        "onboard_time": 1712204359,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 403982,
+        "num": 282847,
+        "word": "为什么很多漂亮女生却没人追",
+        "onboard_time": 1712201118,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 276531,
+        "num": 276531,
+        "word": "福宝入住神树坪基地",
+        "onboard_time": 1712188156,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 253907,
+        "num": 253907,
+        "word": "央视认证追风者是佳作",
+        "onboard_time": 1712204180,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 253091,
+        "num": 253091,
+        "word": "因为一个清明我选择退群了",
+        "onboard_time": 1712203459,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 249209,
+        "num": 249209,
+        "word": "林狗你恋爱白谈了",
+        "onboard_time": 1712195899,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 236627,
+        "num": 236627,
+        "word": "福宝",
+        "onboard_time": 1712186175,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 232917,
+        "num": 232917,
+        "word": "ZICO将与Jennie合作",
+        "onboard_time": 1712199857,
+        "rank": 26,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 226157,
+        "num": 226157,
+        "word": "名创优品",
+        "onboard_time": 1712200878,
+        "rank": 27,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 203140,
+        "num": 203140,
+        "word": "黄梦莹一开口素锦就回来了",
+        "onboard_time": 1712198719,
+        "rank": 28,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 198735,
+        "num": 198735,
+        "word": "为什么年轻人不愿意买房了",
+        "onboard_time": 1712200458,
+        "rank": 29,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 197307,
+        "num": 197307,
+        "word": "她一身校服却惊艳了我整个青春",
+        "onboard_time": 1712200398,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 190885,
+        "num": 190885,
+        "word": "大风致3人家中坠亡家属发声",
+        "onboard_time": 1712194999,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 177772,
+        "num": 177772,
+        "word": "微信删好友应不应该先打招呼",
+        "onboard_time": 1712194219,
+        "rank": 32,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 176138,
+        "num": 176138,
+        "word": "月经出现这5种情况说明子宫健康",
+        "onboard_time": 1712189297,
+        "rank": 33,
+        "category": "科学科普,健康医疗"
+      },
+      {
+        "raw_hot": 165538,
+        "num": 165538,
+        "word": "有些雪糕真的不忍心吃",
+        "onboard_time": 1712198298,
+        "rank": 34,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 164780,
+        "num": 164780,
+        "word": "白鹿罗云熙或三搭",
+        "onboard_time": 1712194219,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 161621,
+        "num": 161621,
+        "word": "青海地震",
+        "onboard_time": 1712192598,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 155985,
+        "num": 155985,
+        "word": "林更新狗过但没丑过",
+        "onboard_time": 1712194939,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 155474,
+        "num": 155474,
+        "word": "上厕所时马桶居然着火了",
+        "onboard_time": 1712187856,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 151567,
+        "num": 151567,
+        "word": "手术直播间定档",
+        "onboard_time": 1712202799,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 150385,
+        "num": 150385,
+        "word": "AI大美中华",
+        "onboard_time": 1712203579,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 149303,
+        "num": 149303,
+        "word": "哈尔滨22岁男子被多名未成年围殴砍伤",
+        "onboard_time": 1712189416,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 146424,
+        "num": 146424,
+        "word": "850元一条的瑜伽裤上海人为啥会买",
+        "onboard_time": 1712194458,
+        "rank": 42,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 144354,
+        "num": 144354,
+        "word": "全网都在替林更新着急",
+        "onboard_time": 1712201118,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 141048,
+        "num": 141048,
+        "word": "我的自卑有一半是妈妈带来的",
+        "onboard_time": 1712198178,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 139874,
+        "num": 139874,
+        "word": "煮熟的鸡蛋别再用凉水冷却了",
+        "onboard_time": 1712194398,
+        "rank": 45,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 138641,
+        "num": 138641,
+        "word": "女子同时兼职9家单位月入3万获刑",
+        "onboard_time": 1712189777,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 135574,
+        "num": 135574,
+        "word": "福宝回家了",
+        "onboard_time": 1712143879,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 129765,
+        "num": 129765,
+        "word": "比入戏更难的是出戏",
+        "onboard_time": 1712202919,
+        "rank": 48,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 129674,
+        "num": 129674,
+        "word": "P70发不发售",
+        "onboard_time": 1712204298,
+        "rank": 49,
+        "category": "数码"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平参加首都义务植树活动#"
+    }
+  }
+}
