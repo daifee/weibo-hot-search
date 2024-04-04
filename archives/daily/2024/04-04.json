@@ -1,6 +1,6 @@
 {
   "startTime": 1712161260598,
-  "endTime": 1712205310978,
+  "endTime": 1712207957037,
   "band_list": [
     {
       "raw_hot": 1943413,
@@ -17,6 +17,14 @@
       "onboard_time": 1712190677,
       "rank": 0,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1511288,
+      "num": 1511288,
+      "word": "各大平台禁止售卖分装化妆品",
+      "onboard_time": 1712203220,
+      "rank": 14,
+      "category": "美妆"
     },
     {
       "raw_hot": 1371234,
@@ -83,6 +91,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1027495,
+      "num": 1027495,
+      "word": "官方回应福宝被人不戴手套戳",
+      "onboard_time": 1712204359,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1020762,
       "num": 445911,
       "word": "哈尔滨22岁男子被多名未成年围殴砍伤",
@@ -123,10 +139,26 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 731985,
+      "num": 731985,
+      "word": "考研失败成了小朋友的反面教材",
+      "onboard_time": 1712206219,
+      "rank": 7,
+      "category": "教育"
+    },
+    {
       "raw_hot": 730747,
       "num": 520366,
       "word": "男子虐猫后将残肢丢至直播间",
       "onboard_time": 1712194219,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 717880,
+      "num": 717880,
+      "word": "姜爷爷",
+      "onboard_time": 1712204717,
       "rank": 28,
       "category": "社会新闻"
     },
@@ -188,7 +220,7 @@
     },
     {
       "raw_hot": 620918,
-      "num": 620918,
+      "num": 710773,
       "word": "下车吃瓜发现自己才是主角",
       "onboard_time": 1712185873,
       "rank": 33,
@@ -219,20 +251,12 @@
       "category": "母婴育儿,科学科普"
     },
     {
-      "raw_hot": 584992,
-      "num": 584992,
-      "word": "各大平台禁止售卖分装化妆品",
-      "onboard_time": 1712203220,
-      "rank": 14,
-      "category": "美妆"
-    },
-    {
-      "raw_hot": 553666,
-      "num": 553666,
-      "word": "官方回应福宝被人不戴手套戳",
-      "onboard_time": 1712204359,
-      "rank": 19,
-      "category": "社会新闻"
+      "raw_hot": 542166,
+      "num": 542166,
+      "word": "三十岁才会发现戴珍珠的美",
+      "onboard_time": 1712206338,
+      "rank": 11,
+      "category": "时尚"
     },
     {
       "raw_hot": 542059,
@@ -281,6 +305,14 @@
       "onboard_time": 1712199558,
       "rank": 31,
       "category": "军事,国外时政"
+    },
+    {
+      "raw_hot": 495586,
+      "num": 495586,
+      "word": "声入人心团综",
+      "onboard_time": 1712205078,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 483980,
@@ -360,6 +392,22 @@
       "word": "老师用P过的照片吸引同学来上课",
       "onboard_time": 1712145859,
       "rank": 14,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 401964,
+      "num": 401964,
+      "word": "长期不上班是什么状态",
+      "onboard_time": 1712206278,
+      "rank": 16,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 400233,
+      "num": 293487,
+      "word": "男朋友的小姨没有边际感",
+      "onboard_time": 1712205078,
+      "rank": 35,
       "category": "幽默"
     },
     {
@@ -555,6 +603,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 262674,
+      "num": 262674,
+      "word": "北京偶遇马东锡",
+      "onboard_time": 1712205799,
+      "rank": 22,
+      "category": "电影"
+    },
+    {
       "raw_hot": 262196,
       "num": 262196,
       "word": "因为一个清明我选择退群了",
@@ -595,20 +651,20 @@
       "category": "情感"
     },
     {
-      "raw_hot": 247979,
-      "num": 247979,
-      "word": "声入人心团综",
-      "onboard_time": 1712205078,
-      "rank": 25,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 245890,
       "num": 245890,
       "word": "幼儿园反对被戏称辛者库",
       "onboard_time": 1712187015,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 229342,
+      "num": 229342,
+      "word": "咒术回战256",
+      "onboard_time": 1712207119,
+      "rank": 24,
+      "category": "动漫,作品衍生"
     },
     {
       "raw_hot": 229211,
@@ -633,14 +689,6 @@
       "onboard_time": 1712200878,
       "rank": 38,
       "category": "时尚"
-    },
-    {
-      "raw_hot": 221627,
-      "num": 221627,
-      "word": "姜爷爷",
-      "onboard_time": 1712204717,
-      "rank": 28,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 219751,
@@ -689,6 +737,14 @@
       "onboard_time": 1712164694,
       "rank": 32,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 206342,
+      "num": 206342,
+      "word": "张艺兴女团的容貌焦虑",
+      "onboard_time": 1712207898,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 205800,
@@ -755,6 +811,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 190093,
+      "num": 190093,
+      "word": "因为查寝不在辅导员让我退学",
+      "onboard_time": 1712204598,
+      "rank": 34,
+      "category": "情感"
+    },
+    {
       "raw_hot": 188203,
       "num": 190849,
       "word": "青海海西5.5级左右地震",
@@ -787,20 +851,20 @@
       "category": "美食"
     },
     {
-      "raw_hot": 182091,
-      "num": 182091,
-      "word": "因为查寝不在辅导员让我退学",
-      "onboard_time": 1712204598,
-      "rank": 34,
-      "category": "情感"
-    },
-    {
       "raw_hot": 181487,
       "num": 181487,
       "word": "白敬亭难哄校服路透",
       "onboard_time": 1712190018,
       "rank": 34,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 181407,
+      "num": 181407,
+      "word": "声入人心",
+      "onboard_time": 1712205498,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 179940,
@@ -811,20 +875,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 179134,
+      "num": 179134,
+      "word": "72岁张纪中自己带孩子",
+      "onboard_time": 1712206697,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 177285,
       "num": 1163178,
       "word": "春天很好只是太想你",
       "onboard_time": 1712155103,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 177039,
-      "num": 177039,
-      "word": "男朋友的小姨没有边际感",
-      "onboard_time": 1712205078,
-      "rank": 35,
-      "category": "幽默"
     },
     {
       "raw_hot": 177003,
@@ -1003,6 +1067,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 138457,
+      "num": 138457,
+      "word": "薛之谦杭州",
+      "onboard_time": 1712207298,
+      "rank": 41,
+      "category": "演出"
+    },
+    {
       "raw_hot": 138162,
       "num": 138162,
       "word": "李沁演技",
@@ -1033,6 +1105,14 @@
       "onboard_time": 1712150062,
       "rank": 34,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 136181,
+      "num": 136181,
+      "word": "福宝的首选是红苹果",
+      "onboard_time": 1712207539,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 135982,
@@ -1113,6 +1193,14 @@
       "onboard_time": 1712197638,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 125781,
+      "num": 125781,
+      "word": "超意神探 尺度",
+      "onboard_time": 1712207839,
+      "rank": 46,
+      "category": "电影"
     },
     {
       "raw_hot": 122928,
