@@ -1,6 +1,6 @@
 {
   "startTime": 1711902044401,
-  "endTime": 1712216069748,
+  "endTime": 1712218946984,
   "band_list": [
     {
       "raw_hot": 16874674,
@@ -329,6 +329,14 @@
       "onboard_time": 1712052680,
       "rank": 1,
       "category": "电竞,网红"
+    },
+    {
+      "raw_hot": 1739262,
+      "num": 1739262,
+      "word": "胡一天 之前对你太大声了",
+      "onboard_time": 1712214677,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 1708706,
@@ -1187,12 +1195,12 @@
       "category": "健康医疗,科学科普"
     },
     {
-      "raw_hot": 900535,
-      "num": 900535,
-      "word": "胡一天 之前对你太大声了",
-      "onboard_time": 1712214677,
-      "rank": 28,
-      "category": "剧集"
+      "raw_hot": 893199,
+      "num": 893199,
+      "word": "学会开车后感觉世界观变了",
+      "onboard_time": 1712213658,
+      "rank": 22,
+      "category": "幽默"
     },
     {
       "raw_hot": 891401,
@@ -2171,6 +2179,14 @@
       "category": "母婴育儿,科学科普"
     },
     {
+      "raw_hot": 596436,
+      "num": 596436,
+      "word": "小米汽车称贷款未通过锁单后不可退定",
+      "onboard_time": 1712214077,
+      "rank": 23,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 594944,
       "num": 299351,
       "word": "15岁女孩失联遗体被找到家属发声",
@@ -2345,6 +2361,14 @@
       "onboard_time": 1712064200,
       "rank": 19,
       "category": "演出"
+    },
+    {
+      "raw_hot": 554159,
+      "num": 554159,
+      "word": "沈月脏脏包造型",
+      "onboard_time": 1712216418,
+      "rank": 7,
+      "category": "艺人"
     },
     {
       "raw_hot": 553787,
@@ -2803,28 +2827,20 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 471137,
+      "num": 471137,
+      "word": "今年清明为啥是4月4日",
+      "onboard_time": 1712216898,
+      "rank": 11,
+      "category": "社会新闻,社会议题"
+    },
+    {
       "raw_hot": 468966,
       "num": 468966,
       "word": "宋昰昀被曝校园暴力",
       "onboard_time": 1711975100,
       "rank": 21,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 467821,
-      "num": 423245,
-      "word": "小米汽车称贷款未通过锁单后不可退定",
-      "onboard_time": 1712214077,
-      "rank": 23,
-      "category": "汽车"
-    },
-    {
-      "raw_hot": 467435,
-      "num": 467435,
-      "word": "学会开车后感觉世界观变了",
-      "onboard_time": 1712213658,
-      "rank": 22,
-      "category": "幽默"
     },
     {
       "raw_hot": 466055,
@@ -3779,6 +3795,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 356731,
+      "num": 238293,
+      "word": "原来不用剧烈运动也能瘦",
+      "onboard_time": 1712216598,
+      "rank": 20,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 356312,
       "num": 356312,
       "word": "白鹿罗云熙或三搭",
@@ -3971,6 +3995,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 334161,
+      "num": 334161,
+      "word": "为什么现在住院都要问学历了",
+      "onboard_time": 1712212158,
+      "rank": 35,
+      "category": "情感"
+    },
+    {
       "raw_hot": 332617,
       "num": 332617,
       "word": "王一博维和警察穿搭",
@@ -4043,6 +4075,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 326139,
+      "num": 326139,
+      "word": "沈璃行止的孩子是花千骨吧",
+      "onboard_time": 1712215519,
+      "rank": 20,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 325160,
       "num": 325160,
       "word": "周处除三害怎么不把周一除了",
@@ -4096,14 +4136,6 @@
       "word": "试用期一天被辞退要工资有错吗",
       "onboard_time": 1711950802,
       "rank": 22,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 320896,
-      "num": 191123,
-      "word": "为什么现在住院都要问学历了",
-      "onboard_time": 1712212158,
-      "rank": 35,
       "category": "情感"
     },
     {
@@ -4353,6 +4385,14 @@
       "onboard_time": 1711949901,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 298004,
+      "num": 298004,
+      "word": "世界殡葬第一村长什么样",
+      "onboard_time": 1712212639,
+      "rank": 31,
+      "category": "科学科普"
     },
     {
       "raw_hot": 296819,
@@ -4619,14 +4659,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 279925,
-      "num": 279925,
-      "word": "沈璃行止的孩子是花千骨吧",
-      "onboard_time": 1712215519,
-      "rank": 20,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 279864,
       "num": 279864,
       "word": "站姐神图",
@@ -4689,6 +4721,14 @@
       "onboard_time": 1712110582,
       "rank": 37,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 274003,
+      "num": 274003,
+      "word": "林更新我晕腿",
+      "onboard_time": 1712215158,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 273641,
@@ -5099,14 +5139,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 251387,
-      "num": 251387,
-      "word": "世界殡葬第一村长什么样",
-      "onboard_time": 1712212639,
-      "rank": 31,
-      "category": "科学科普"
-    },
-    {
       "raw_hot": 250790,
       "num": 250790,
       "word": "孙艺珍出演朴赞郁新片",
@@ -5475,6 +5507,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 234517,
+      "num": 184830,
+      "word": "世界年龄最大男子去世",
+      "onboard_time": 1712217977,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 234027,
       "num": 234027,
       "word": "LNG对战WBG",
@@ -5544,14 +5584,6 @@
       "word": "宁艺卓疑似签售切小屏",
       "onboard_time": 1712080633,
       "rank": 11,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 232460,
-      "num": 232460,
-      "word": "林更新我晕腿",
-      "onboard_time": 1712215158,
-      "rank": 23,
       "category": "艺人"
     },
     {
@@ -5641,6 +5673,14 @@
       "onboard_time": 1712051119,
       "rank": 24,
       "category": "艺人,美食"
+    },
+    {
+      "raw_hot": 228195,
+      "num": 228195,
+      "word": "人气歌谣",
+      "onboard_time": 1712217858,
+      "rank": 23,
+      "category": "综艺"
     },
     {
       "raw_hot": 228038,
@@ -5792,6 +5832,14 @@
       "word": "法国张震",
       "onboard_time": 1712059460,
       "rank": 22,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 221570,
+      "num": 221570,
+      "word": "高伟光连发35条微博",
+      "onboard_time": 1712218818,
+      "rank": 25,
       "category": "艺人"
     },
     {
@@ -6195,6 +6243,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 206073,
+      "num": 183846,
+      "word": "日出拍成核爆",
+      "onboard_time": 1712217017,
+      "rank": 31,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 205980,
       "num": 205980,
       "word": "追风者周姨疯了",
@@ -6497,6 +6553,14 @@
       "onboard_time": 1711983021,
       "rank": 32,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 199346,
+      "num": 199346,
+      "word": "摇太阳 悼词",
+      "onboard_time": 1712216598,
+      "rank": 27,
+      "category": "电影"
     },
     {
       "raw_hot": 199259,
@@ -7273,6 +7337,14 @@
       "onboard_time": 1711937478,
       "rank": 34,
       "category": "体育"
+    },
+    {
+      "raw_hot": 181744,
+      "num": 181744,
+      "word": "韩维辰李瑞人歌MC",
+      "onboard_time": 1712217257,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 181599,
@@ -8891,6 +8963,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 141687,
+      "num": 141687,
+      "word": "情绪稳定还得从小抓起",
+      "onboard_time": 1712217558,
+      "rank": 39,
+      "category": "电影,动漫"
+    },
+    {
       "raw_hot": 141600,
       "num": 202439,
       "word": "女生花钱找人改简历发现效果不如AI",
@@ -9185,6 +9265,14 @@
       "onboard_time": 1711953859,
       "rank": 44,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 134236,
+      "num": 134236,
+      "word": "刚工作三个月父母就向我要钱",
+      "onboard_time": 1712218697,
+      "rank": 41,
+      "category": "情感"
     },
     {
       "raw_hot": 133644,
@@ -9611,6 +9699,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 111997,
+      "num": 111997,
+      "word": "杨千嬅 飞女自观众席降落",
+      "onboard_time": 1712217797,
+      "rank": 45,
+      "category": "演出"
+    },
+    {
       "raw_hot": 111987,
       "num": 118254,
       "word": "澳门国际乒联世界杯奖牌公布",
@@ -9633,6 +9729,14 @@
       "onboard_time": 1711878557,
       "rank": 45,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 110861,
+      "num": 110861,
+      "word": "你这个赛道太小众了",
+      "onboard_time": 1712218098,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 110134,
@@ -9689,6 +9793,14 @@
       "onboard_time": 1712003411,
       "rank": 41,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 102224,
+      "num": 102224,
+      "word": "五条悟 最强术师决战终局",
+      "onboard_time": 1712216236,
+      "rank": 48,
+      "category": "动漫,作品衍生"
     },
     {
       "raw_hot": 101437,
@@ -10139,6 +10251,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 51452,
+      "num": 172528,
+      "word": "在春天思念你们",
+      "onboard_time": 1712218159,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 51202,
       "num": 55339,
       "word": "张杰演唱会来了好多明星",
@@ -10304,6 +10424,14 @@
       "word": "台北捷运高铁全线暂停营运",
       "onboard_time": 1712171231,
       "rank": 37,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 28679,
+      "num": 902976,
+      "word": "先辈炽热滚烫的信仰我们永远记得",
+      "onboard_time": 1712218577,
+      "rank": 2,
       "category": "社会新闻"
     },
     {
@@ -10487,6 +10615,9 @@
     },
     {
       "word": "#总书记用实际行动向英雄先烈致敬#"
+    },
+    {
+      "word": "#清明祭英烈家国永念#"
     }
   ]
 }
