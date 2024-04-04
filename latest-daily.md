@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/04/05 00:21:49 ~ 2024/04/05 02:22:29
+本榜单时间：2024/04/05 00:21:49 ~ 2024/04/05 02:35:04
 </p>
 </blockquote>
 <p>
@@ -334,7 +334,7 @@ Doinb被偶遇（热度：98616）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AE%AB%E5%B4%8E%E9%AA%8F%E6%96%B0%E4%BD%9C%20%E5%AE%8C%E7%BE%8E%E7%9A%84%E8%B0%A2%E5%B9%95%23" target="weibo">
-宫崎骏新作 完美的谢幕（热度：71585）
+宫崎骏新作 完美的谢幕（热度：76451）
 </a>
 </li>
 
@@ -347,6 +347,12 @@ Doinb被偶遇（热度：98616）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8F%A4%E8%AF%97%E8%AF%8D%E9%87%8C%E7%9A%84%E6%B8%85%E6%98%8E%E6%84%8F%E5%A2%83%E8%B6%85%E7%BE%8E%23" target="weibo">
 古诗词里的清明意境超美（热度：55915）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8D%8E%E6%99%A8%E5%AE%87%E6%88%91%E4%BB%AC%E7%BB%88%E4%BA%8E%E8%A6%81%E4%B8%80%E8%B5%B7%E7%9C%8B%E6%97%A5%E5%87%BA%E4%BA%86%23" target="weibo">
+华晨宇我们终于要一起看日出了（热度：50139）
 </a>
 </li>
 
