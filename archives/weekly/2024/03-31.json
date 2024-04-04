@@ -1,6 +1,6 @@
 {
   "startTime": 1711815680412,
-  "endTime": 1712219695954,
+  "endTime": 1712222273502,
   "band_list": [
     {
       "raw_hot": 16874674,
@@ -401,6 +401,14 @@
       "onboard_time": 1712132120,
       "rank": 16,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1698596,
+      "num": 1698596,
+      "word": "今年清明为啥是4月4日",
+      "onboard_time": 1712216898,
+      "rank": 11,
+      "category": "社会新闻,社会议题"
     },
     {
       "raw_hot": 1684894,
@@ -1371,6 +1379,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 915183,
+      "num": 757481,
+      "word": "行止张嘴了",
+      "onboard_time": 1712221998,
+      "rank": 3,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 913718,
       "num": 913718,
       "word": "中国农发行纪检委已关注到想当行长的男孩",
@@ -1523,6 +1539,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 831041,
+      "num": 458894,
+      "word": "岳父母要求继承女婿父母留下的房产",
+      "onboard_time": 1712220199,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 829840,
       "num": 829840,
       "word": "茶百道 还不开始",
@@ -1569,6 +1593,14 @@
       "onboard_time": 1711850837,
       "rank": 4,
       "category": "互联网,汽车"
+    },
+    {
+      "raw_hot": 823946,
+      "num": 823946,
+      "word": "高伟光连发35条微博",
+      "onboard_time": 1712218818,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 821922,
@@ -1875,6 +1907,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 735526,
+      "num": 458299,
+      "word": "世界年龄最大男子去世",
+      "onboard_time": 1712217977,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 730747,
       "num": 520366,
       "word": "男子虐猫后将残肢丢至直播间",
@@ -1913,14 +1953,6 @@
       "onboard_time": 1711840453,
       "rank": 49,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 720656,
-      "num": 720656,
-      "word": "今年清明为啥是4月4日",
-      "onboard_time": 1712216898,
-      "rank": 11,
-      "category": "社会新闻,社会议题"
     },
     {
       "raw_hot": 719007,
@@ -3355,14 +3387,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 488334,
-      "num": 488334,
-      "word": "高伟光连发35条微博",
-      "onboard_time": 1712218818,
-      "rank": 25,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 485296,
       "num": 485296,
       "word": "江西通报提灯定损事件",
@@ -3515,6 +3539,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 466343,
+      "num": 466343,
+      "word": "林更新把赵丽颖说的话拉成横幅",
+      "onboard_time": 1712220558,
+      "rank": 8,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 466055,
       "num": 466055,
       "word": "马英九",
@@ -3641,6 +3673,14 @@
       "onboard_time": 1712151322,
       "rank": 23,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 452186,
+      "num": 452186,
+      "word": "200元快住不起经济型酒店",
+      "onboard_time": 1712219477,
+      "rank": 40,
+      "category": "旅游"
     },
     {
       "raw_hot": 452107,
@@ -4641,14 +4681,6 @@
       "onboard_time": 1711886358,
       "rank": 12,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 360244,
-      "num": 360244,
-      "word": "世界年龄最大男子去世",
-      "onboard_time": 1712217977,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 360220,
@@ -5657,6 +5689,14 @@
       "onboard_time": 1712016859,
       "rank": 23,
       "category": "财经"
+    },
+    {
+      "raw_hot": 287113,
+      "num": 287113,
+      "word": "林更新工作室",
+      "onboard_time": 1712222057,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 286269,
@@ -7451,12 +7491,28 @@
       "category": "演出"
     },
     {
+      "raw_hot": 216448,
+      "num": 183879,
+      "word": "为了卖掉房子做了半年中介",
+      "onboard_time": 1712221637,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 216430,
       "num": 216430,
       "word": "小米汽车回应建议舒淇代言SU7",
       "onboard_time": 1711882218,
       "rank": 25,
       "category": "艺人,汽车"
+    },
+    {
+      "raw_hot": 215775,
+      "num": 215775,
+      "word": "与凤行",
+      "onboard_time": 1711801159,
+      "rank": 45,
+      "category": "剧集"
     },
     {
       "raw_hot": 215285,
@@ -7745,6 +7801,14 @@
       "onboard_time": 1712157140,
       "rank": 38,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 208706,
+      "num": 182809,
+      "word": "因为喷香水被同事提醒味道重",
+      "onboard_time": 1712221697,
+      "rank": 31,
+      "category": "情感"
     },
     {
       "raw_hot": 208693,
@@ -8459,6 +8523,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 195569,
+      "num": 195569,
+      "word": "张艺兴被问带领华语音乐走到哪了",
+      "onboard_time": 1712220496,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 195453,
       "num": 195453,
       "word": "林俊杰贵阳 抢票",
@@ -8499,14 +8571,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 195078,
-      "num": 195078,
-      "word": "与凤行",
-      "onboard_time": 1711801159,
-      "rank": 45,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 194679,
       "num": 176988,
       "word": "林俊杰土味情话",
@@ -8521,6 +8585,14 @@
       "onboard_time": 1712117602,
       "rank": 44,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 194483,
+      "num": 194483,
+      "word": "钟辰乐受伤",
+      "onboard_time": 1712221459,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 194383,
@@ -9433,6 +9505,14 @@
       "onboard_time": 1711876936,
       "rank": 33,
       "category": "演出"
+    },
+    {
+      "raw_hot": 178404,
+      "num": 178404,
+      "word": "宫崎骏新片票房破2亿",
+      "onboard_time": 1712220558,
+      "rank": 32,
+      "category": "电影"
     },
     {
       "raw_hot": 178302,
@@ -11731,14 +11811,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 131900,
-      "num": 131900,
-      "word": "200元快住不起经济型酒店",
-      "onboard_time": 1712219477,
-      "rank": 40,
-      "category": "旅游"
-    },
-    {
       "raw_hot": 131798,
       "num": 131798,
       "word": "孙亚龙回应",
@@ -11793,6 +11865,14 @@
       "onboard_time": 1712202919,
       "rank": 48,
       "category": "电影"
+    },
+    {
+      "raw_hot": 129686,
+      "num": 129686,
+      "word": "妈妈生日送花被直接丢了出来",
+      "onboard_time": 1712222237,
+      "rank": 43,
+      "category": "情感"
     },
     {
       "raw_hot": 129517,
@@ -12027,6 +12107,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 122887,
+      "num": 122887,
+      "word": "亲人的离世是一生的潮湿",
+      "onboard_time": 1712221637,
+      "rank": 47,
+      "category": "电影"
+    },
+    {
       "raw_hot": 122768,
       "num": 109033,
       "word": "刘亦菲谈保持容貌的方法",
@@ -12073,6 +12161,14 @@
       "onboard_time": 1712039718,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 120005,
+      "num": 120005,
+      "word": "和没情商的朋友聊天是什么感觉",
+      "onboard_time": 1712220078,
+      "rank": 48,
+      "category": "情感"
     },
     {
       "raw_hot": 119442,
@@ -12273,6 +12369,14 @@
       "onboard_time": 1712037618,
       "rank": 49,
       "category": "情感"
+    },
+    {
+      "raw_hot": 114268,
+      "num": 114268,
+      "word": "不建议吃冷青团",
+      "onboard_time": 1712222237,
+      "rank": 49,
+      "category": "美食"
     },
     {
       "raw_hot": 114166,
@@ -12795,6 +12899,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 75674,
+      "num": 902976,
+      "word": "先辈炽热滚烫的信仰我们永远记得",
+      "onboard_time": 1712218577,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 74034,
       "num": 68265,
       "word": "眼泪女王直播",
@@ -12977,14 +13089,6 @@
       "onboard_time": 1711911732,
       "rank": 23,
       "category": "演出"
-    },
-    {
-      "raw_hot": 62502,
-      "num": 902976,
-      "word": "先辈炽热滚烫的信仰我们永远记得",
-      "onboard_time": 1712218577,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 62214,
