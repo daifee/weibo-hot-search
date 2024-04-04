@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/03/31 00:21:20 ~ 2024/04/04 23:35:17
+本榜单时间：2024/03/31 00:21:20 ~ 2024/04/05 00:21:49
 </p>
 </blockquote>
 <p>
@@ -431,6 +431,12 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%87%AF%E8%BF%AA%E6%8B%89%E5%85%8B%E6%B5%B7%E6%8A%A5%E6%9A%97%E8%AE%BD%E5%B0%8F%E7%B1%B3SU7%23" target="weibo">
 凯迪拉克海报暗讽小米SU7（热度：1535238）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%BF%99%E4%B8%80%E4%BA%92%E5%85%B3%E5%B0%B1%E6%98%AF%E4%B8%80%E8%BE%88%E5%AD%90%23" target="weibo">
+这一互关就是一辈子（热度：1533243）
 </a>
 </li>
 
@@ -2223,12 +2229,6 @@ SU7 舒淇（热度：610481）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%BF%99%E4%B8%80%E4%BA%92%E5%85%B3%E5%B0%B1%E6%98%AF%E4%B8%80%E8%BE%88%E5%AD%90%23" target="weibo">
-这一互关就是一辈子（热度：570085）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%A6%8F%E5%AE%9D%E5%88%B0%E5%93%AA%E5%84%BF%E4%BA%86%23" target="weibo">
 福宝到哪儿了（热度：565853）
 </a>
@@ -2489,6 +2489,12 @@ neinei十年前后变化（热度：558049）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%9B%9B%E6%9C%88%E6%A1%83%E8%8A%B1%E8%BF%90%E6%9C%80%E6%97%BA%E7%9A%84%E6%98%9F%E5%BA%A7%23" target="weibo">
 四月桃花运最旺的星座（热度：519562）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%BE%85%E5%8A%A9%E7%94%9F%E6%AE%96%E8%A2%AB%E7%BA%B3%E5%85%A54%E7%9C%81%E4%BB%BD%E5%8C%BB%E4%BF%9D%23" target="weibo">
+辅助生殖被纳入4省份医保（热度：519227）
 </a>
 </li>
 
@@ -7769,6 +7775,12 @@ ELK被盗号（热度：176280）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8C%AB%E5%92%AA%E5%BD%BB%E5%A4%9C%E6%9C%AA%E5%BD%92%E5%B1%85%E7%84%B6%E8%B7%91%E4%BA%867%E5%85%AC%E9%87%8C%23" target="weibo">
 猫咪彻夜未归居然跑了7公里（热度：175226）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23cube%E6%96%B0%E7%94%B7%E5%9B%A2%23" target="weibo">
+cube新男团（热度：175162）
 </a>
 </li>
 

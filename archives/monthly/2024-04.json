@@ -1,6 +1,6 @@
 {
   "startTime": 1711902044401,
-  "endTime": 1712244917149,
+  "endTime": 1712247709633,
   "band_list": [
     {
       "raw_hot": 16874674,
@@ -481,6 +481,14 @@
       "onboard_time": 1712060360,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1533243,
+      "num": 1533243,
+      "word": "这一互关就是一辈子",
+      "onboard_time": 1712240720,
+      "rank": 37,
+      "category": "情感"
     },
     {
       "raw_hot": 1519616,
@@ -2515,14 +2523,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 570085,
-      "num": 570085,
-      "word": "这一互关就是一辈子",
-      "onboard_time": 1712240720,
-      "rank": 37,
-      "category": "情感"
-    },
-    {
       "raw_hot": 568561,
       "num": 568561,
       "word": "24岁我还不能和男朋友出去旅游",
@@ -2817,6 +2817,14 @@
       "onboard_time": 1712117663,
       "rank": 26,
       "category": "情感"
+    },
+    {
+      "raw_hot": 519227,
+      "num": 237628,
+      "word": "辅助生殖被纳入4省份医保",
+      "onboard_time": 1712245398,
+      "rank": 20,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 518449,
@@ -8417,6 +8425,14 @@
       "onboard_time": 1712053280,
       "rank": 30,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 175162,
+      "num": 175162,
+      "word": "cube新男团",
+      "onboard_time": 1712245278,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 175123,
