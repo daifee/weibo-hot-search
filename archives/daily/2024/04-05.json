@@ -1,6 +1,6 @@
 {
   "startTime": 1712247709633,
-  "endTime": 1712270040646,
+  "endTime": 1712272698326,
   "band_list": [
     {
       "raw_hot": 1533243,
@@ -19,8 +19,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 584678,
-      "num": 434938,
+      "raw_hot": 642910,
+      "num": 642910,
       "word": "辅助生殖被纳入4省份医保",
       "onboard_time": 1712245398,
       "rank": 20,
@@ -155,6 +155,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 259956,
+      "num": 259956,
+      "word": "林更新喘息声",
+      "onboard_time": 1712240480,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 256674,
       "num": 256674,
       "word": "马丽破产姐妹卡洛琳合作新片",
@@ -163,12 +171,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 250874,
-      "num": 250874,
-      "word": "林更新喘息声",
-      "onboard_time": 1712240480,
-      "rank": 17,
-      "category": "剧集"
+      "raw_hot": 246437,
+      "num": 246437,
+      "word": "为什么鸟类大多是侧面照",
+      "onboard_time": 1712249056,
+      "rank": 33,
+      "category": "科学科普"
     },
     {
       "raw_hot": 242125,
@@ -201,6 +209,14 @@
       "onboard_time": 1712237240,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 195849,
+      "num": 195849,
+      "word": "华晨宇我们终于要一起看日出了",
+      "onboard_time": 1712254992,
+      "rank": 26,
+      "category": "演出"
     },
     {
       "raw_hot": 189990,
@@ -283,6 +299,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 131701,
+      "num": 131701,
+      "word": "切尔西4比3曼联",
+      "onboard_time": 1712272094,
+      "rank": 14,
+      "category": "体育"
+    },
+    {
       "raw_hot": 131105,
       "num": 117646,
       "word": "张婧仪回复卢昱晓",
@@ -291,28 +315,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 130620,
-      "num": 130620,
-      "word": "华晨宇我们终于要一起看日出了",
-      "onboard_time": 1712254992,
-      "rank": 26,
-      "category": "演出"
-    },
-    {
       "raw_hot": 126267,
       "num": 126267,
       "word": "成毅前经纪公司发文",
       "onboard_time": 1712237480,
       "rank": 35,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 118643,
-      "num": 118643,
-      "word": "为什么鸟类大多是侧面照",
-      "onboard_time": 1712249056,
-      "rank": 33,
-      "category": "科学科普"
     },
     {
       "raw_hot": 118326,
@@ -361,6 +369,14 @@
       "onboard_time": 1712235559,
       "rank": 41,
       "category": "社会议题"
+    },
+    {
+      "raw_hot": 97388,
+      "num": 97388,
+      "word": "林更新没有技巧就是硬帅",
+      "onboard_time": 1712262251,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 97201,
@@ -419,6 +435,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 82756,
+      "num": 82756,
+      "word": "结婚真的必须门当户对吗",
+      "onboard_time": 1712268131,
+      "rank": 23,
+      "category": "情感"
+    },
+    {
       "raw_hot": 82737,
       "num": 82737,
       "word": "李耕耘 让少年之家一直开花",
@@ -443,12 +467,28 @@
       "category": "电影"
     },
     {
+      "raw_hot": 62840,
+      "num": 62840,
+      "word": "清明档首日票房破3亿",
+      "onboard_time": 1712267110,
+      "rank": 26,
+      "category": "电影"
+    },
+    {
       "raw_hot": 59476,
       "num": 59476,
       "word": "小米SU7锁单前退定金即时到账",
       "onboard_time": 1712251633,
       "rank": 45,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 56330,
+      "num": 56330,
+      "word": "利物浦3比1谢菲尔德联",
+      "onboard_time": 1712272455,
+      "rank": 32,
+      "category": "体育"
     },
     {
       "raw_hot": 55915,
@@ -459,12 +499,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 50462,
-      "num": 50462,
-      "word": "林更新没有技巧就是硬帅",
-      "onboard_time": 1712262251,
-      "rank": 41,
-      "category": "艺人"
+      "raw_hot": 55504,
+      "num": 55504,
+      "word": "蔡崇信反思阿里为何掉队",
+      "onboard_time": 1712267591,
+      "rank": 39,
+      "category": "互联网"
+    },
+    {
+      "raw_hot": 50119,
+      "num": 50119,
+      "word": "魏若来当官了",
+      "onboard_time": 1712268732,
+      "rank": 46,
+      "category": "剧集"
     },
     {
       "raw_hot": 43197,
@@ -483,28 +531,36 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 36984,
-      "num": 36984,
-      "word": "清明档首日票房破3亿",
-      "onboard_time": 1712267110,
-      "rank": 26,
-      "category": "电影"
+      "raw_hot": 33729,
+      "num": 45275,
+      "word": "帕尔默超时绝杀",
+      "onboard_time": 1712272575,
+      "rank": 45,
+      "category": "体育"
     },
     {
-      "raw_hot": 30197,
-      "num": 30197,
-      "word": "蔡崇信反思阿里为何掉队",
-      "onboard_time": 1712267591,
-      "rank": 39,
-      "category": "互联网"
+      "raw_hot": 33185,
+      "num": 45272,
+      "word": "帕尔默帽子戏法",
+      "onboard_time": 1712272575,
+      "rank": 46,
+      "category": "体育"
     },
     {
-      "raw_hot": 24259,
-      "num": 27177,
+      "raw_hot": 32101,
+      "num": 45269,
       "word": "第一个因推销员受害的小狗出现了",
       "onboard_time": 1712264350,
       "rank": 46,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 26104,
+      "num": 330408,
+      "word": "清明版如愿致敬先辈",
+      "onboard_time": 1712234720,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 23083,
@@ -523,27 +579,11 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 20526,
-      "num": 27166,
-      "word": "魏若来当官了",
-      "onboard_time": 1712268732,
-      "rank": 46,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 18809,
       "num": 27165,
       "word": "20多岁大学生为21岁烈士画像",
       "onboard_time": 1712263451,
       "rank": 39,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 17142,
-      "num": 330408,
-      "word": "清明版如愿致敬先辈",
-      "onboard_time": 1712234720,
-      "rank": 2,
       "category": "社会新闻"
     },
     {

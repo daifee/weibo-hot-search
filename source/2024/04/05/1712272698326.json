@@ -1,0 +1,410 @@
+{
+  "runTime": 1712272698326,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 642910,
+        "num": 642910,
+        "word": "辅助生殖被纳入4省份医保",
+        "onboard_time": 1712245398,
+        "rank": 0,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 356583,
+        "num": 356583,
+        "word": "餐馆老板让暑假工5元随便吃被欠五千餐费",
+        "onboard_time": 1712237959,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 26104,
+        "num": 316794,
+        "word": "清明版如愿致敬先辈",
+        "onboard_time": 1712234720,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 289349,
+        "num": 289349,
+        "word": "十年后才知道朋友提前杀虫了",
+        "onboard_time": 1712235381,
+        "rank": 3,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 278065,
+        "num": 278065,
+        "word": "最让人震惊的爆改出现了",
+        "onboard_time": 1712249715,
+        "rank": 4,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 259956,
+        "num": 259956,
+        "word": "林更新喘息声",
+        "onboard_time": 1712240480,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 246437,
+        "num": 246437,
+        "word": "为什么鸟类大多是侧面照",
+        "onboard_time": 1712249056,
+        "rank": 6,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 195849,
+        "num": 195849,
+        "word": "华晨宇我们终于要一起看日出了",
+        "onboard_time": 1712254992,
+        "rank": 7,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 183987,
+        "num": 183987,
+        "word": "比跷二郎腿伤害更大的坐姿",
+        "onboard_time": 1712230338,
+        "rank": 8,
+        "category": "健康医疗,科学科普"
+      },
+      {
+        "raw_hot": 79974,
+        "num": 179758,
+        "word": "福宝在家嘎嘎炫饭",
+        "onboard_time": 1712224218,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 177160,
+        "num": 177160,
+        "word": "罪犯史泰龙被执行死刑",
+        "onboard_time": 1712229379,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 165246,
+        "num": 165246,
+        "word": "这一互关就是一辈子",
+        "onboard_time": 1712240720,
+        "rank": 11,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 164055,
+        "num": 164055,
+        "word": "徐艺洋发了和黄子韬的合照",
+        "onboard_time": 1712232918,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 156121,
+        "num": 156121,
+        "word": "终于在高铁上发疯了",
+        "onboard_time": 1712225959,
+        "rank": 13,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 131701,
+        "num": 131701,
+        "word": "切尔西4比3曼联",
+        "onboard_time": 1712272094,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 121845,
+        "num": 121845,
+        "word": "行止张嘴了",
+        "onboard_time": 1712221998,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 109281,
+        "num": 109281,
+        "word": "果然上万年的童子身比较补",
+        "onboard_time": 1712230099,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 102361,
+        "num": 102361,
+        "word": "沈璃行止圆房完整版",
+        "onboard_time": 1712237780,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 101532,
+        "num": 101532,
+        "word": "岳父母要求继承女婿父母留下的房产",
+        "onboard_time": 1712220199,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 97388,
+        "num": 97388,
+        "word": "林更新没有技巧就是硬帅",
+        "onboard_time": 1712262251,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 175800,
+        "num": 95720,
+        "word": "四千的工资根本花不完甚至还能存点钱",
+        "onboard_time": 1712242880,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 130019,
+        "num": 89890,
+        "word": "我和老公劝高三儿子放弃高考",
+        "onboard_time": 1712236278,
+        "rank": 21,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 83851,
+        "num": 83851,
+        "word": "台湾4.6级地震",
+        "onboard_time": 1712241981,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 82756,
+        "num": 82756,
+        "word": "结婚真的必须门当户对吗",
+        "onboard_time": 1712268131,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 77562,
+        "num": 77562,
+        "word": "宜家怎么沦为了打工人食堂",
+        "onboard_time": 1712235559,
+        "rank": 24,
+        "category": "社会议题"
+      },
+      {
+        "raw_hot": 71417,
+        "num": 71417,
+        "word": "18岁女生一天给男友打100多个电话",
+        "onboard_time": 1712234540,
+        "rank": 25,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 62883,
+        "num": 62883,
+        "word": "宫崎骏新作 完美的谢幕",
+        "onboard_time": 1712253133,
+        "rank": 26,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 62840,
+        "num": 62840,
+        "word": "清明档首日票房破3亿",
+        "onboard_time": 1712267110,
+        "rank": 27,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 61597,
+        "num": 61597,
+        "word": "沈璃行止事后尴尬",
+        "onboard_time": 1712240540,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 61574,
+        "num": 61574,
+        "word": "瘦了24斤闺蜜说我像张元英",
+        "onboard_time": 1712237240,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 60931,
+        "num": 60931,
+        "word": "姜爷爷回应母亲去世坚持送福宝",
+        "onboard_time": 1712231298,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 60869,
+        "num": 60869,
+        "word": "这次可让李沁演爽了",
+        "onboard_time": 1712230880,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 56330,
+        "num": 56330,
+        "word": "利物浦3比1谢菲尔德联",
+        "onboard_time": 1712272455,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 55504,
+        "num": 55504,
+        "word": "蔡崇信反思阿里为何掉队",
+        "onboard_time": 1712267591,
+        "rank": 33,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 54439,
+        "num": 54439,
+        "word": "林更新工作室",
+        "onboard_time": 1712222057,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 53548,
+        "num": 53548,
+        "word": "与凤行热度",
+        "onboard_time": 1712243240,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 50119,
+        "num": 50119,
+        "word": "魏若来当官了",
+        "onboard_time": 1712268732,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 49986,
+        "num": 49986,
+        "word": "黄晓明自曝胖了30斤",
+        "onboard_time": 1712227098,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 48106,
+        "num": 48106,
+        "word": "成毅前经纪公司发文",
+        "onboard_time": 1712237480,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 47868,
+        "num": 47868,
+        "word": "郭艾伦秀张元英转圈过人",
+        "onboard_time": 1712241981,
+        "rank": 39,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 46932,
+        "num": 46932,
+        "word": "台湾祭音乐节取消回春丹演出",
+        "onboard_time": 1712240899,
+        "rank": 40,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 45641,
+        "num": 45641,
+        "word": "00后女生凭爱好考上大学",
+        "onboard_time": 1712240720,
+        "rank": 41,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 45285,
+        "num": 45285,
+        "word": "小伞说Doinb能随时开播",
+        "onboard_time": 1712242640,
+        "rank": 42,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 43031,
+        "num": 45282,
+        "word": "男朋友加了我妈微信",
+        "onboard_time": 1712236039,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 34165,
+        "num": 45280,
+        "word": "冷漠在男女关系里真的好用",
+        "onboard_time": 1712242039,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 33729,
+        "num": 45275,
+        "word": "帕尔默超时绝杀",
+        "onboard_time": 1712272575,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 33185,
+        "num": 45272,
+        "word": "帕尔默帽子戏法",
+        "onboard_time": 1712272575,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 32101,
+        "num": 45269,
+        "word": "第一个因推销员受害的小狗出现了",
+        "onboard_time": 1712264350,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 30266,
+        "num": 45267,
+        "word": "恋爱让他谈 三界我来守",
+        "onboard_time": 1712243360,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 29648,
+        "num": 45262,
+        "word": "小米SU7锁单前退定金即时到账",
+        "onboard_time": 1712251633,
+        "rank": 49,
+        "category": "汽车"
+      }
+    ],
+    "hotgov": {
+      "word": "#家国永念致敬英雄#"
+    }
+  }
+}
