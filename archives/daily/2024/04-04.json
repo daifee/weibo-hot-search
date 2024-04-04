@@ -1,6 +1,6 @@
 {
   "startTime": 1712161260598,
-  "endTime": 1712211728797,
+  "endTime": 1712212458485,
   "band_list": [
     {
       "raw_hot": 2123188,
@@ -35,8 +35,8 @@
       "category": "美妆"
     },
     {
-      "raw_hot": 1468177,
-      "num": 1468177,
+      "raw_hot": 1519616,
+      "num": 1519616,
       "word": "zara包",
       "onboard_time": 1712209158,
       "rank": 1,
@@ -147,8 +147,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 941738,
-      "num": 941738,
+      "raw_hot": 978832,
+      "num": 978832,
       "word": "姜爷爷希望福宝回中国不要改名字",
       "onboard_time": 1712209038,
       "rank": 4,
@@ -307,6 +307,14 @@
       "category": "科学科普,健康医疗"
     },
     {
+      "raw_hot": 521980,
+      "num": 521980,
+      "word": "运动瘦脸才能真正的瘦脸",
+      "onboard_time": 1712209158,
+      "rank": 15,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 520579,
       "num": 520579,
       "word": "花莲地震骨灰坛被甩出骨灰全混了",
@@ -371,12 +379,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 471781,
-      "num": 471781,
-      "word": "运动瘦脸才能真正的瘦脸",
-      "onboard_time": 1712209158,
-      "rank": 15,
-      "category": "运动健身"
+      "raw_hot": 465619,
+      "num": 465619,
+      "word": "地震时男孩一把抱起同桌往外冲",
+      "onboard_time": 1712209097,
+      "rank": 18,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 460847,
@@ -539,14 +547,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 341460,
-      "num": 341460,
-      "word": "地震时男孩一把抱起同桌往外冲",
-      "onboard_time": 1712209097,
-      "rank": 18,
-      "category": "社会正能量"
-    },
-    {
       "raw_hot": 337958,
       "num": 337958,
       "word": "赵丽颖林更新吻戏",
@@ -561,6 +561,14 @@
       "onboard_time": 1712127921,
       "rank": 20,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 330062,
+      "num": 330062,
+      "word": "张艺兴回应内娱没有舞台",
+      "onboard_time": 1712211497,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 327750,
@@ -659,6 +667,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 263407,
+      "num": 263407,
+      "word": "子宫生病的第一个信号就是异常出血",
+      "onboard_time": 1712209337,
+      "rank": 22,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 263390,
       "num": 263390,
       "word": "林更新狗过但没丑过",
@@ -707,12 +723,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 250151,
-      "num": 250151,
-      "word": "子宫生病的第一个信号就是异常出血",
-      "onboard_time": 1712209337,
-      "rank": 22,
-      "category": "健康医疗"
+      "raw_hot": 249677,
+      "num": 249677,
+      "word": "王珞丹高干文",
+      "onboard_time": 1712211977,
+      "rank": 23,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 248752,
@@ -747,12 +763,12 @@
       "category": "动漫,作品衍生"
     },
     {
-      "raw_hot": 229429,
-      "num": 229429,
-      "word": "张艺兴回应内娱没有舞台",
-      "onboard_time": 1712211497,
-      "rank": 25,
-      "category": "综艺"
+      "raw_hot": 236827,
+      "num": 182475,
+      "word": "小时候我哭着要和哥哥嫂子睡一起",
+      "onboard_time": 1712210838,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 229211,
@@ -811,12 +827,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 214885,
-      "num": 182475,
-      "word": "小时候我哭着要和哥哥嫂子睡一起",
-      "onboard_time": 1712210838,
-      "rank": 30,
-      "category": "幽默"
+      "raw_hot": 215285,
+      "num": 215285,
+      "word": "韩国民众哭肿眼送别福宝",
+      "onboard_time": 1712211079,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 211395,
@@ -1027,11 +1043,19 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 171992,
-      "num": 171992,
+      "raw_hot": 173017,
+      "num": 173017,
       "word": "执笔",
       "onboard_time": 1712210718,
       "rank": 32,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 170441,
+      "num": 170441,
+      "word": "我在医疗剧里看复仇爽文",
+      "onboard_time": 1712211438,
+      "rank": 33,
       "category": "剧集"
     },
     {
@@ -1067,12 +1091,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 160315,
-      "num": 160315,
-      "word": "韩国民众哭肿眼送别福宝",
-      "onboard_time": 1712211079,
-      "rank": 36,
-      "category": "社会新闻"
+      "raw_hot": 163253,
+      "num": 163253,
+      "word": "为什么现在住院都要问学历了",
+      "onboard_time": 1712212158,
+      "rank": 35,
+      "category": "情感"
     },
     {
       "raw_hot": 159924,
@@ -1251,6 +1275,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 136690,
+      "num": 136690,
+      "word": "我的试卷被教授的猫吃了",
+      "onboard_time": 1712211558,
+      "rank": 49,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 136419,
       "num": 136419,
       "word": "大碗娱乐发声明",
@@ -1419,14 +1451,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 118046,
-      "num": 118046,
-      "word": "我的试卷被教授的猫吃了",
-      "onboard_time": 1712211558,
-      "rank": 49,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 112172,
       "num": 112172,
       "word": "WBG剧本",
@@ -1531,6 +1555,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 57816,
+      "num": 472157,
+      "word": "197653我们从未忘记",
+      "onboard_time": 1712210419,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 55885,
       "num": 59759,
       "word": "2元和200元的叶酸到底有啥差别",
@@ -1585,14 +1617,6 @@
       "onboard_time": 1712142020,
       "rank": 47,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 43447,
-      "num": 472157,
-      "word": "197653我们从未忘记",
-      "onboard_time": 1712210419,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 30342,
