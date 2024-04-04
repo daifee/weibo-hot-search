@@ -1,6 +1,6 @@
 {
   "startTime": 1711902044401,
-  "endTime": 1712261888743,
+  "endTime": 1712262856477,
   "band_list": [
     {
       "raw_hot": 16874674,
@@ -11737,6 +11737,14 @@
       "onboard_time": 1712234720,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 17069,
+      "num": 17069,
+      "word": "林更新没有技巧就是硬帅",
+      "onboard_time": 1712262251,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 13982,
