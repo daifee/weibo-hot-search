@@ -1,6 +1,6 @@
 {
   "startTime": 1712161260598,
-  "endTime": 1712243875803,
+  "endTime": 1712244917149,
   "band_list": [
     {
       "raw_hot": 2366026,
@@ -523,6 +523,30 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 577603,
+      "num": 577603,
+      "word": "东宫绝世甜剧不是说说而已",
+      "onboard_time": 1712241439,
+      "rank": 11,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 577341,
+      "num": 320534,
+      "word": "四千的工资根本花不完甚至还能存点钱",
+      "onboard_time": 1712242880,
+      "rank": 22,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 570085,
+      "num": 570085,
+      "word": "这一互关就是一辈子",
+      "onboard_time": 1712240720,
+      "rank": 37,
+      "category": "情感"
+    },
+    {
       "raw_hot": 562019,
       "num": 562019,
       "word": "这次可让李沁演爽了",
@@ -561,14 +585,6 @@
       "onboard_time": 1712189297,
       "rank": 12,
       "category": "科学科普,健康医疗"
-    },
-    {
-      "raw_hot": 527192,
-      "num": 527192,
-      "word": "东宫绝世甜剧不是说说而已",
-      "onboard_time": 1712241439,
-      "rank": 11,
-      "category": "剧集"
     },
     {
       "raw_hot": 526462,
@@ -723,6 +739,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 443856,
+      "num": 443856,
+      "word": "花楼花楼 我要迪斯尼",
+      "onboard_time": 1712242400,
+      "rank": 16,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 437859,
       "num": 437859,
       "word": "管泽元",
@@ -843,6 +867,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 385808,
+      "num": 385808,
+      "word": "小伞说Doinb能随时开播",
+      "onboard_time": 1712242640,
+      "rank": 18,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 384359,
       "num": 384359,
       "word": "小时候我哭着要和哥哥嫂子睡一起",
@@ -873,14 +905,6 @@
       "onboard_time": 1712198719,
       "rank": 11,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 366989,
-      "num": 366989,
-      "word": "花楼花楼 我要迪斯尼",
-      "onboard_time": 1712242400,
-      "rank": 16,
-      "category": "电竞"
     },
     {
       "raw_hot": 366705,
@@ -955,14 +979,6 @@
       "category": "综艺,游戏"
     },
     {
-      "raw_hot": 349569,
-      "num": 349569,
-      "word": "小伞说Doinb能随时开播",
-      "onboard_time": 1712242640,
-      "rank": 18,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 347604,
       "num": 347604,
       "word": "黄子弘凡道歉速度赶不上踩雷速度",
@@ -1019,12 +1035,12 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 332612,
-      "num": 332612,
-      "word": "这一互关就是一辈子",
-      "onboard_time": 1712240720,
-      "rank": 37,
-      "category": "情感"
+      "raw_hot": 329703,
+      "num": 329703,
+      "word": "与凤行热度",
+      "onboard_time": 1712243240,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 327750,
@@ -1065,14 +1081,6 @@
       "onboard_time": 1712232019,
       "rank": 22,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 319424,
-      "num": 319424,
-      "word": "四千的工资根本花不完甚至还能存点钱",
-      "onboard_time": 1712242880,
-      "rank": 22,
-      "category": "情感"
     },
     {
       "raw_hot": 318592,
@@ -1129,6 +1137,14 @@
       "onboard_time": 1712239039,
       "rank": 24,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 303697,
+      "num": 303697,
+      "word": "林更新喘息声",
+      "onboard_time": 1712240480,
+      "rank": 41,
+      "category": "剧集"
     },
     {
       "raw_hot": 302706,
@@ -1243,6 +1259,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 274196,
+      "num": 274196,
+      "word": "十年后才知道朋友提前杀虫了",
+      "onboard_time": 1712235381,
+      "rank": 37,
+      "category": "情感"
+    },
+    {
       "raw_hot": 273258,
       "num": 273258,
       "word": "全校唯一一个自驾上学的高中生",
@@ -1265,6 +1289,14 @@
       "onboard_time": 1712236581,
       "rank": 49,
       "category": "剧集,艺人"
+    },
+    {
+      "raw_hot": 264446,
+      "num": 264446,
+      "word": "恋爱让他谈 三界我来守",
+      "onboard_time": 1712243360,
+      "rank": 34,
+      "category": "剧集"
     },
     {
       "raw_hot": 263407,
@@ -1299,14 +1331,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 261516,
-      "num": 261516,
-      "word": "林更新喘息声",
-      "onboard_time": 1712240480,
-      "rank": 41,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 260407,
       "num": 260407,
       "word": "央视认证追风者是佳作",
@@ -1321,14 +1345,6 @@
       "onboard_time": 1712162776,
       "rank": 17,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 258863,
-      "num": 258863,
-      "word": "与凤行热度",
-      "onboard_time": 1712243240,
-      "rank": 26,
-      "category": "剧集"
     },
     {
       "raw_hot": 256303,
@@ -1419,6 +1435,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 243742,
+      "num": 243742,
+      "word": "辛芷蕾赵昭仪同框拍摄路透",
+      "onboard_time": 1712244618,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 239382,
       "num": 239382,
       "word": "警方回应奔驰压到孩子后逃逸",
@@ -1443,12 +1467,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 234932,
-      "num": 234932,
-      "word": "十年后才知道朋友提前杀虫了",
-      "onboard_time": 1712235381,
-      "rank": 37,
-      "category": "情感"
+      "raw_hot": 231589,
+      "num": 231589,
+      "word": "卢昱晓 可塑性",
+      "onboard_time": 1712242339,
+      "rank": 33,
+      "category": "剧集"
     },
     {
       "raw_hot": 229211,
@@ -1619,27 +1643,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 210790,
-      "num": 210790,
-      "word": "卢昱晓 可塑性",
-      "onboard_time": 1712242339,
-      "rank": 33,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 210323,
       "num": 210323,
       "word": "明兰与花芷 女子本芬芳",
       "onboard_time": 1712235858,
       "rank": 37,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 210109,
-      "num": 210109,
-      "word": "恋爱让他谈 三界我来守",
-      "onboard_time": 1712243360,
-      "rank": 34,
       "category": "剧集"
     },
     {
@@ -1873,6 +1881,14 @@
       "onboard_time": 1712195958,
       "rank": 35,
       "category": "美食"
+    },
+    {
+      "raw_hot": 183377,
+      "num": 183377,
+      "word": "张婧仪回复卢昱晓",
+      "onboard_time": 1712243899,
+      "rank": 36,
+      "category": "剧集"
     },
     {
       "raw_hot": 181744,
@@ -2115,6 +2131,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 159218,
+      "num": 159218,
+      "word": "河南卫视我的嫡长台",
+      "onboard_time": 1712244319,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 157589,
       "num": 157589,
       "word": "鹭卓夸花日常",
@@ -2179,6 +2203,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 153240,
+      "num": 153240,
+      "word": "网友清明拍到小米SU7纸扎版",
+      "onboard_time": 1712242940,
+      "rank": 45,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 152959,
       "num": 152959,
       "word": "原声视频回顾福宝回国全程",
@@ -2227,6 +2259,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 151227,
+      "num": 151227,
+      "word": "花莲县海域发生4.6级地震",
+      "onboard_time": 1712244439,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 151106,
       "num": 151106,
       "word": "叶盛佳 执笔是我的救赎",
@@ -2265,6 +2305,14 @@
       "onboard_time": 1712214137,
       "rank": 34,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 149983,
+      "num": 149983,
+      "word": "邓科邓磕",
+      "onboard_time": 1712243540,
+      "rank": 46,
+      "category": "剧集"
     },
     {
       "raw_hot": 148066,
@@ -2353,22 +2401,6 @@
       "onboard_time": 1712194278,
       "rank": 47,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 142798,
-      "num": 142798,
-      "word": "网友清明拍到小米SU7纸扎版",
-      "onboard_time": 1712242940,
-      "rank": 45,
-      "category": "汽车"
-    },
-    {
-      "raw_hot": 141884,
-      "num": 141884,
-      "word": "邓科邓磕",
-      "onboard_time": 1712243540,
-      "rank": 46,
-      "category": "剧集"
     },
     {
       "raw_hot": 141687,
