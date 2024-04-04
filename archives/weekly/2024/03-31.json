@@ -1,6 +1,6 @@
 {
   "startTime": 1711815680412,
-  "endTime": 1712233910696,
+  "endTime": 1712234769365,
   "band_list": [
     {
       "raw_hot": 16874674,
@@ -241,6 +241,14 @@
       "onboard_time": 1711890498,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1965607,
+      "num": 1965607,
+      "word": "徐艺洋发了和黄子韬的合照",
+      "onboard_time": 1712232918,
+      "rank": 0,
+      "category": "综艺"
     },
     {
       "raw_hot": 1952920,
@@ -665,14 +673,6 @@
       "onboard_time": 1712073259,
       "rank": 0,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 1385841,
-      "num": 1385841,
-      "word": "徐艺洋发了和黄子韬的合照",
-      "onboard_time": 1712232918,
-      "rank": 0,
-      "category": "综艺"
     },
     {
       "raw_hot": 1378625,
@@ -1300,7 +1300,7 @@
     },
     {
       "raw_hot": 992537,
-      "num": 586654,
+      "num": 606946,
       "word": "罪犯史泰龙被执行死刑",
       "onboard_time": 1712229379,
       "rank": 12,
@@ -1771,6 +1771,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 797283,
+      "num": 797283,
+      "word": "姜爷爷回应母亲去世坚持送福宝",
+      "onboard_time": 1712231298,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 792888,
       "num": 792888,
       "word": "babymonster直播",
@@ -1929,14 +1937,6 @@
       "onboard_time": 1711861518,
       "rank": 13,
       "category": "演出"
-    },
-    {
-      "raw_hot": 747005,
-      "num": 747005,
-      "word": "姜爷爷回应母亲去世坚持送福宝",
-      "onboard_time": 1712231298,
-      "rank": 4,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 746632,
@@ -2691,6 +2691,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 606859,
+      "num": 606859,
+      "word": "林更新工作室",
+      "onboard_time": 1712222057,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 604745,
       "num": 604745,
       "word": "特斯拉中国今日涨价",
@@ -2817,14 +2825,6 @@
       "onboard_time": 1712113101,
       "rank": 15,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 579452,
-      "num": 579452,
-      "word": "林更新工作室",
-      "onboard_time": 1712222057,
-      "rank": 15,
-      "category": "艺人"
     },
     {
       "raw_hot": 578526,
@@ -3579,6 +3579,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 479037,
+      "num": 479037,
+      "word": "纸扎SU7",
+      "onboard_time": 1712230998,
+      "rank": 13,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 477998,
       "num": 477998,
       "word": "外交部欢迎福宝回国",
@@ -4139,6 +4147,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 424186,
+      "num": 424186,
+      "word": "这次可让李沁演爽了",
+      "onboard_time": 1712230880,
+      "rank": 15,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 423211,
       "num": 423211,
       "word": "台湾地震为什么浙江有震感",
@@ -4241,14 +4257,6 @@
       "onboard_time": 1712061138,
       "rank": 31,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 417094,
-      "num": 417094,
-      "word": "纸扎SU7",
-      "onboard_time": 1712230998,
-      "rank": 13,
-      "category": "汽车"
     },
     {
       "raw_hot": 415695,
@@ -4563,6 +4571,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 383518,
+      "num": 383518,
+      "word": "金靖cos西施",
+      "onboard_time": 1712232439,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 383271,
       "num": 383271,
       "word": "金宇珍向StrayKids道歉",
@@ -4851,20 +4867,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 358790,
+      "num": 358790,
+      "word": "清明时节雨纷纷可能不是杜牧写的",
+      "onboard_time": 1712230219,
+      "rank": 43,
+      "category": "读书作家"
+    },
+    {
       "raw_hot": 358267,
       "num": 305122,
       "word": "许光汉站姐",
       "onboard_time": 1711948222,
       "rank": 24,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 358211,
-      "num": 358211,
-      "word": "这次可让李沁演爽了",
-      "onboard_time": 1712230880,
-      "rank": 15,
-      "category": "剧集"
     },
     {
       "raw_hot": 357281,
@@ -5185,14 +5201,6 @@
       "onboard_time": 1712065339,
       "rank": 36,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 332025,
-      "num": 332025,
-      "word": "金靖cos西施",
-      "onboard_time": 1712232439,
-      "rank": 18,
-      "category": "综艺"
     },
     {
       "raw_hot": 331392,
@@ -5627,6 +5635,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 303639,
+      "num": 189502,
+      "word": "刘雯看到都忍不住学几个动作",
+      "onboard_time": 1712233640,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 302879,
       "num": 302879,
       "word": "狭管效应",
@@ -5681,6 +5697,14 @@
       "onboard_time": 1712047518,
       "rank": 21,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 300490,
+      "num": 300490,
+      "word": "管泽元",
+      "onboard_time": 1712233399,
+      "rank": 25,
+      "category": "电竞"
     },
     {
       "raw_hot": 299852,
@@ -6019,6 +6043,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 281293,
+      "num": 281293,
+      "word": "沈璃吻了个蚌",
+      "onboard_time": 1712232019,
+      "rank": 22,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 281212,
       "num": 281212,
       "word": "张杰海南新公司成立",
@@ -6251,6 +6283,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 269833,
+      "num": 269833,
+      "word": "酒店拖鞋上的洞是干什么用的",
+      "onboard_time": 1712233339,
+      "rank": 30,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 269741,
       "num": 269741,
       "word": "孩子患百日咳喝蒜泥冰糖水能缓解",
@@ -6313,14 +6353,6 @@
       "onboard_time": 1712154801,
       "rank": 47,
       "category": "电竞,网红"
-    },
-    {
-      "raw_hot": 266700,
-      "num": 266700,
-      "word": "清明时节雨纷纷可能不是杜牧写的",
-      "onboard_time": 1712230219,
-      "rank": 43,
-      "category": "读书作家"
     },
     {
       "raw_hot": 266135,
@@ -6449,14 +6481,6 @@
       "onboard_time": 1712003169,
       "rank": 49,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 260998,
-      "num": 260998,
-      "word": "沈璃吻了个蚌",
-      "onboard_time": 1712232019,
-      "rank": 22,
-      "category": "剧集"
     },
     {
       "raw_hot": 260447,
@@ -7339,6 +7363,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 231773,
+      "num": 188546,
+      "word": "18岁女生一天给男友打100多个电话",
+      "onboard_time": 1712234540,
+      "rank": 31,
+      "category": "情感"
+    },
+    {
       "raw_hot": 231434,
       "num": 231434,
       "word": "马斯克称AI毁灭人类的可能性为20%",
@@ -7627,6 +7659,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 222571,
+      "num": 222571,
+      "word": "崔秀彬崔杋圭cha了Magnetic",
+      "onboard_time": 1712234298,
+      "rank": 24,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 222185,
       "num": 222185,
       "word": "法国张震",
@@ -7889,6 +7929,14 @@
       "onboard_time": 1711868357,
       "rank": 31,
       "category": "情感"
+    },
+    {
+      "raw_hot": 213450,
+      "num": 213450,
+      "word": "老兵带了杯奶茶给24岁牺牲的战友",
+      "onboard_time": 1712233099,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 213420,
@@ -8313,14 +8361,6 @@
       "onboard_time": 1711988896,
       "rank": 28,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 204270,
-      "num": 204270,
-      "word": "管泽元",
-      "onboard_time": 1712233399,
-      "rank": 25,
-      "category": "电竞"
     },
     {
       "raw_hot": 204028,
@@ -9147,6 +9187,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 190534,
+      "num": 190534,
+      "word": "两广地区祭祖有多夸张",
+      "onboard_time": 1712233339,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 190532,
       "num": 197947,
       "word": "福宝已顺利入住隔离检疫圈舍",
@@ -9963,14 +10011,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 176031,
-      "num": 176031,
-      "word": "酒店拖鞋上的洞是干什么用的",
-      "onboard_time": 1712233339,
-      "rank": 30,
-      "category": "科学科普"
-    },
-    {
       "raw_hot": 175875,
       "num": 137968,
       "word": "张杰演唱会上海六场收官",
@@ -10363,6 +10403,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 166851,
+      "num": 166851,
+      "word": "追风者刀麻了",
+      "onboard_time": 1712233399,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 166815,
       "num": 166815,
       "word": "16部治愈系动漫电影",
@@ -10441,14 +10489,6 @@
       "onboard_time": 1711895121,
       "rank": 38,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 165501,
-      "num": 165501,
-      "word": "老兵带了杯奶茶给24岁牺牲的战友",
-      "onboard_time": 1712233099,
-      "rank": 33,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 165186,
@@ -10587,14 +10627,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 162207,
-      "num": 162207,
-      "word": "两广地区祭祖有多夸张",
-      "onboard_time": 1712233339,
-      "rank": 34,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 161786,
       "num": 161786,
       "word": "千万不要独自上陌生人的车",
@@ -10617,14 +10649,6 @@
       "onboard_time": 1712127863,
       "rank": 44,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 161229,
-      "num": 161229,
-      "word": "刘雯看到都忍不住学几个动作",
-      "onboard_time": 1712233640,
-      "rank": 35,
-      "category": "艺人"
     },
     {
       "raw_hot": 161151,
@@ -11323,6 +11347,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 150355,
+      "num": 150355,
+      "word": "作家加藤幸子去世",
+      "onboard_time": 1712233999,
+      "rank": 42,
+      "category": "读书作家"
+    },
+    {
       "raw_hot": 150202,
       "num": 150202,
       "word": "研究所回应地震预警APP收10元年费",
@@ -11408,14 +11440,6 @@
       "word": "在人间",
       "onboard_time": 1711877539,
       "rank": 40,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 148714,
-      "num": 148714,
-      "word": "追风者刀麻了",
-      "onboard_time": 1712233399,
-      "rank": 39,
       "category": "剧集"
     },
     {
@@ -14113,6 +14137,14 @@
       "onboard_time": 1711919590,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 7069,
+      "num": 832596,
+      "word": "清明版如愿致敬先辈",
+      "onboard_time": 1712234720,
+      "rank": 2,
+      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
@@ -14163,6 +14195,9 @@
     },
     {
       "word": "#清明祭英烈家国永念#"
+    },
+    {
+      "word": "#家国永念致敬英雄#"
     }
   ]
 }

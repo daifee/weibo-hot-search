@@ -1,0 +1,410 @@
+{
+  "runTime": 1712234769365,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1965607,
+        "num": 1965607,
+        "word": "徐艺洋发了和黄子韬的合照",
+        "onboard_time": 1712232918,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1241106,
+        "num": 1241106,
+        "word": "比跷二郎腿伤害更大的坐姿",
+        "onboard_time": 1712230338,
+        "rank": 1,
+        "category": "健康医疗,科学科普"
+      },
+      {
+        "raw_hot": 7069,
+        "num": 832596,
+        "word": "清明版如愿致敬先辈",
+        "onboard_time": 1712234720,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 797283,
+        "num": 797283,
+        "word": "姜爷爷回应母亲去世坚持送福宝",
+        "onboard_time": 1712231298,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 750718,
+        "num": 750718,
+        "word": "终于在高铁上发疯了",
+        "onboard_time": 1712225959,
+        "rank": 4,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 677416,
+        "num": 677416,
+        "word": "果然上万年的童子身比较补",
+        "onboard_time": 1712230099,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 46981,
+        "num": 645863,
+        "word": "在春天思念你们",
+        "onboard_time": 1712218159,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 629706,
+        "num": 629706,
+        "word": "12306回应高铁走到半路两车乘客互换",
+        "onboard_time": 1712224338,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 610243,
+        "num": 610243,
+        "word": "黄晓明自曝胖了30斤",
+        "onboard_time": 1712227098,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 399852,
+        "num": 607026,
+        "word": "福宝在家嘎嘎炫饭",
+        "onboard_time": 1712224218,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1167163,
+        "num": 606981,
+        "word": "行止张嘴了",
+        "onboard_time": 1712221998,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 862172,
+        "num": 606946,
+        "word": "罪犯史泰龙被执行死刑",
+        "onboard_time": 1712229379,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 606859,
+        "num": 606859,
+        "word": "林更新工作室",
+        "onboard_time": 1712222057,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 559763,
+        "num": 559763,
+        "word": "岳父母要求继承女婿父母留下的房产",
+        "onboard_time": 1712220199,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 479037,
+        "num": 479037,
+        "word": "纸扎SU7",
+        "onboard_time": 1712230998,
+        "rank": 14,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 424186,
+        "num": 424186,
+        "word": "这次可让李沁演爽了",
+        "onboard_time": 1712230880,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 383518,
+        "num": 383518,
+        "word": "金靖cos西施",
+        "onboard_time": 1712232439,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 371127,
+        "num": 371127,
+        "word": "Doinb被偶遇",
+        "onboard_time": 1712223439,
+        "rank": 17,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 358790,
+        "num": 358790,
+        "word": "清明时节雨纷纷可能不是杜牧写的",
+        "onboard_time": 1712230219,
+        "rank": 18,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 350477,
+        "num": 350477,
+        "word": "zara包",
+        "onboard_time": 1712209158,
+        "rank": 19,
+        "category": "时尚,作品衍生"
+      },
+      {
+        "raw_hot": 300560,
+        "num": 300560,
+        "word": "黄子弘凡道歉速度赶不上踩雷速度",
+        "onboard_time": 1712229619,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 300490,
+        "num": 300490,
+        "word": "管泽元",
+        "onboard_time": 1712233399,
+        "rank": 21,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 281293,
+        "num": 281293,
+        "word": "沈璃吻了个蚌",
+        "onboard_time": 1712232019,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 269833,
+        "num": 269833,
+        "word": "酒店拖鞋上的洞是干什么用的",
+        "onboard_time": 1712233339,
+        "rank": 23,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 222571,
+        "num": 222571,
+        "word": "崔秀彬崔杋圭cha了Magnetic",
+        "onboard_time": 1712234298,
+        "rank": 24,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 219678,
+        "num": 219678,
+        "word": "小金毛考了全班第一名",
+        "onboard_time": 1712228599,
+        "rank": 25,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 213450,
+        "num": 213450,
+        "word": "老兵带了杯奶茶给24岁牺牲的战友",
+        "onboard_time": 1712233099,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 208127,
+        "num": 208127,
+        "word": "章若楠问网友为啥要卖她签名照",
+        "onboard_time": 1712225479,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 207280,
+        "num": 207280,
+        "word": "碾压孩子奔驰司机已投案",
+        "onboard_time": 1712226138,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 190534,
+        "num": 190534,
+        "word": "两广地区祭祖有多夸张",
+        "onboard_time": 1712233339,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 303639,
+        "num": 189502,
+        "word": "刘雯看到都忍不住学几个动作",
+        "onboard_time": 1712233640,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 231773,
+        "num": 188546,
+        "word": "18岁女生一天给男友打100多个电话",
+        "onboard_time": 1712234540,
+        "rank": 31,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 183727,
+        "num": 183727,
+        "word": "胡一天 之前对你太大声了",
+        "onboard_time": 1712214677,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 174332,
+        "num": 174332,
+        "word": "T1被零封",
+        "onboard_time": 1712232259,
+        "rank": 33,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 172940,
+        "num": 172940,
+        "word": "林更新面子回来了",
+        "onboard_time": 1712224998,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 167893,
+        "num": 167893,
+        "word": "世界年龄最大男子去世",
+        "onboard_time": 1712217977,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 166851,
+        "num": 166851,
+        "word": "追风者刀麻了",
+        "onboard_time": 1712233399,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 161584,
+        "num": 161584,
+        "word": "美财政部部长耶伦抵达广州",
+        "onboard_time": 1712226678,
+        "rank": 37,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 160265,
+        "num": 160265,
+        "word": "今年清明为啥是4月4日",
+        "onboard_time": 1712216898,
+        "rank": 38,
+        "category": "社会新闻,社会议题"
+      },
+      {
+        "raw_hot": 158323,
+        "num": 158323,
+        "word": "官方通报奔驰车碾压孩子",
+        "onboard_time": 1712230278,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 151548,
+        "num": 151548,
+        "word": "为了卖掉房子做了半年中介",
+        "onboard_time": 1712221637,
+        "rank": 40,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 151274,
+        "num": 151274,
+        "word": "沈璃事后不认账",
+        "onboard_time": 1712228179,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 150355,
+        "num": 150355,
+        "word": "作家加藤幸子去世",
+        "onboard_time": 1712233999,
+        "rank": 42,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 138410,
+        "num": 138410,
+        "word": "林更新把赵丽颖说的话拉成横幅",
+        "onboard_time": 1712220558,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 134782,
+        "num": 134782,
+        "word": "50元和1000元的瑜伽裤究竟有何差别",
+        "onboard_time": 1712232678,
+        "rank": 44,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 134217,
+        "num": 134217,
+        "word": "为什么看不见INFP的朋友圈",
+        "onboard_time": 1712230219,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 125140,
+        "num": 125140,
+        "word": "因为喷香水被同事提醒味道重",
+        "onboard_time": 1712221697,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 125081,
+        "num": 125081,
+        "word": "高伟光连发35条微博",
+        "onboard_time": 1712218818,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 112490,
+        "num": 112490,
+        "word": "4月29日回归的艺人阵容",
+        "onboard_time": 1712230398,
+        "rank": 48,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 111045,
+        "num": 111045,
+        "word": "高叶泪痣",
+        "onboard_time": 1712231658,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#家国永念致敬英雄#"
+    }
+  }
+}

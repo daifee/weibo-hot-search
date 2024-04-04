@@ -1,6 +1,6 @@
 {
   "startTime": 1712161260598,
-  "endTime": 1712233910696,
+  "endTime": 1712234769365,
   "band_list": [
     {
       "raw_hot": 2366026,
@@ -17,6 +17,14 @@
       "onboard_time": 1712208678,
       "rank": 22,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 1965607,
+      "num": 1965607,
+      "word": "徐艺洋发了和黄子韬的合照",
+      "onboard_time": 1712232918,
+      "rank": 0,
+      "category": "综艺"
     },
     {
       "raw_hot": 1943413,
@@ -73,14 +81,6 @@
       "onboard_time": 1712209158,
       "rank": 1,
       "category": "时尚,作品衍生"
-    },
-    {
-      "raw_hot": 1385841,
-      "num": 1385841,
-      "word": "徐艺洋发了和黄子韬的合照",
-      "onboard_time": 1712232918,
-      "rank": 0,
-      "category": "综艺"
     },
     {
       "raw_hot": 1371234,
@@ -220,7 +220,7 @@
     },
     {
       "raw_hot": 992537,
-      "num": 586654,
+      "num": 606946,
       "word": "罪犯史泰龙被执行死刑",
       "onboard_time": 1712229379,
       "rank": 12,
@@ -275,6 +275,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 797283,
+      "num": 797283,
+      "word": "姜爷爷回应母亲去世坚持送福宝",
+      "onboard_time": 1712231298,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 780592,
       "num": 780592,
       "word": "考研失败成了小朋友的反面教材",
@@ -305,14 +313,6 @@
       "onboard_time": 1712151442,
       "rank": 3,
       "category": "社会正能量"
-    },
-    {
-      "raw_hot": 747005,
-      "num": 747005,
-      "word": "姜爷爷回应母亲去世坚持送福宝",
-      "onboard_time": 1712231298,
-      "rank": 4,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 735526,
@@ -443,6 +443,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 606859,
+      "num": 606859,
+      "word": "林更新工作室",
+      "onboard_time": 1712222057,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 596921,
       "num": 596921,
       "word": "怀孕了再补叶酸来得及吗",
@@ -465,14 +473,6 @@
       "onboard_time": 1712209158,
       "rank": 15,
       "category": "运动健身"
-    },
-    {
-      "raw_hot": 579452,
-      "num": 579452,
-      "word": "林更新工作室",
-      "onboard_time": 1712222057,
-      "rank": 15,
-      "category": "艺人"
     },
     {
       "raw_hot": 559919,
@@ -595,6 +595,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 479037,
+      "num": 479037,
+      "word": "纸扎SU7",
+      "onboard_time": 1712230998,
+      "rank": 13,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 476912,
       "num": 476912,
       "word": "台湾花莲强震已致9人死亡1038人受伤",
@@ -635,12 +643,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 417094,
-      "num": 417094,
-      "word": "纸扎SU7",
-      "onboard_time": 1712230998,
-      "rank": 13,
-      "category": "汽车"
+      "raw_hot": 424186,
+      "num": 424186,
+      "word": "这次可让李沁演爽了",
+      "onboard_time": 1712230880,
+      "rank": 15,
+      "category": "剧集"
     },
     {
       "raw_hot": 416887,
@@ -731,6 +739,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 383518,
+      "num": 383518,
+      "word": "金靖cos西施",
+      "onboard_time": 1712232439,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 382720,
       "num": 308768,
       "word": "微信删好友应不应该先打招呼",
@@ -795,12 +811,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 358211,
-      "num": 358211,
-      "word": "这次可让李沁演爽了",
-      "onboard_time": 1712230880,
-      "rank": 15,
-      "category": "剧集"
+      "raw_hot": 358790,
+      "num": 358790,
+      "word": "清明时节雨纷纷可能不是杜牧写的",
+      "onboard_time": 1712230219,
+      "rank": 43,
+      "category": "读书作家"
     },
     {
       "raw_hot": 356312,
@@ -883,14 +899,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 332025,
-      "num": 332025,
-      "word": "金靖cos西施",
-      "onboard_time": 1712232439,
-      "rank": 18,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 327750,
       "num": 327750,
       "word": "林狗你恋爱白谈了",
@@ -971,12 +979,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 303639,
+      "num": 189502,
+      "word": "刘雯看到都忍不住学几个动作",
+      "onboard_time": 1712233640,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 302706,
       "num": 302706,
       "word": "林更新面子回来了",
       "onboard_time": 1712224998,
       "rank": 30,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 300490,
+      "num": 300490,
+      "word": "管泽元",
+      "onboard_time": 1712233399,
+      "rank": 25,
+      "category": "电竞"
     },
     {
       "raw_hot": 298004,
@@ -1035,6 +1059,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 281293,
+      "num": 281293,
+      "word": "沈璃吻了个蚌",
+      "onboard_time": 1712232019,
+      "rank": 22,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 276951,
       "num": 276951,
       "word": "王一博裴佳欣对手戏",
@@ -1067,12 +1099,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 266700,
-      "num": 266700,
-      "word": "清明时节雨纷纷可能不是杜牧写的",
-      "onboard_time": 1712230219,
-      "rank": 43,
-      "category": "读书作家"
+      "raw_hot": 269833,
+      "num": 269833,
+      "word": "酒店拖鞋上的洞是干什么用的",
+      "onboard_time": 1712233339,
+      "rank": 30,
+      "category": "科学科普"
     },
     {
       "raw_hot": 263407,
@@ -1105,14 +1137,6 @@
       "onboard_time": 1712203459,
       "rank": 23,
       "category": "情感"
-    },
-    {
-      "raw_hot": 260998,
-      "num": 260998,
-      "word": "沈璃吻了个蚌",
-      "onboard_time": 1712232019,
-      "rank": 22,
-      "category": "剧集"
     },
     {
       "raw_hot": 260407,
@@ -1219,6 +1243,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 231773,
+      "num": 188546,
+      "word": "18岁女生一天给男友打100多个电话",
+      "onboard_time": 1712234540,
+      "rank": 31,
+      "category": "情感"
+    },
+    {
       "raw_hot": 229211,
       "num": 229211,
       "word": "追风者 宋霭龄",
@@ -1257,6 +1289,14 @@
       "onboard_time": 1712223079,
       "rank": 31,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 222571,
+      "num": 222571,
+      "word": "崔秀彬崔杋圭cha了Magnetic",
+      "onboard_time": 1712234298,
+      "rank": 24,
+      "category": "音乐"
     },
     {
       "raw_hot": 219751,
@@ -1304,6 +1344,14 @@
       "word": "韩国民众哭肿眼送别福宝",
       "onboard_time": 1712211079,
       "rank": 36,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 213450,
+      "num": 213450,
+      "word": "老兵带了杯奶茶给24岁牺牲的战友",
+      "onboard_time": 1712233099,
+      "rank": 33,
       "category": "社会新闻"
     },
     {
@@ -1369,14 +1417,6 @@
       "onboard_time": 1712222237,
       "rank": 43,
       "category": "情感"
-    },
-    {
-      "raw_hot": 204270,
-      "num": 204270,
-      "word": "管泽元",
-      "onboard_time": 1712233399,
-      "rank": 25,
-      "category": "电竞"
     },
     {
       "raw_hot": 200657,
@@ -1473,6 +1513,14 @@
       "onboard_time": 1712225298,
       "rank": 32,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 190534,
+      "num": 190534,
+      "word": "两广地区祭祖有多夸张",
+      "onboard_time": 1712233339,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 190532,
@@ -1619,14 +1667,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 176031,
-      "num": 176031,
-      "word": "酒店拖鞋上的洞是干什么用的",
-      "onboard_time": 1712233339,
-      "rank": 30,
-      "category": "科学科普"
-    },
-    {
       "raw_hot": 175727,
       "num": 175727,
       "word": "官方通报奔驰车碾压孩子",
@@ -1675,19 +1715,19 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 166851,
+      "num": 166851,
+      "word": "追风者刀麻了",
+      "onboard_time": 1712233399,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 165922,
       "num": 1313728,
       "word": "清明祭英烈家国永念",
       "onboard_time": 1712199857,
       "rank": 2,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 165501,
-      "num": 165501,
-      "word": "老兵带了杯奶茶给24岁牺牲的战友",
-      "onboard_time": 1712233099,
-      "rank": 33,
       "category": "社会新闻"
     },
     {
@@ -1713,22 +1753,6 @@
       "onboard_time": 1712222957,
       "rank": 44,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 162207,
-      "num": 162207,
-      "word": "两广地区祭祖有多夸张",
-      "onboard_time": 1712233339,
-      "rank": 34,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 161229,
-      "num": 161229,
-      "word": "刘雯看到都忍不住学几个动作",
-      "onboard_time": 1712233640,
-      "rank": 35,
-      "category": "艺人"
     },
     {
       "raw_hot": 159924,
@@ -1875,20 +1899,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 150355,
+      "num": 150355,
+      "word": "作家加藤幸子去世",
+      "onboard_time": 1712233999,
+      "rank": 42,
+      "category": "读书作家"
+    },
+    {
       "raw_hot": 150202,
       "num": 150202,
       "word": "研究所回应地震预警APP收10元年费",
       "onboard_time": 1712214137,
       "rank": 34,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 148714,
-      "num": 148714,
-      "word": "追风者刀麻了",
-      "onboard_time": 1712233399,
-      "rank": 39,
-      "category": "剧集"
     },
     {
       "raw_hot": 148066,
@@ -2553,6 +2577,14 @@
       "onboard_time": 1712178371,
       "rank": 48,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 7069,
+      "num": 832596,
+      "word": "清明版如愿致敬先辈",
+      "onboard_time": 1712234720,
+      "rank": 2,
+      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
@@ -2570,6 +2602,9 @@
     },
     {
       "word": "#清明祭英烈家国永念#"
+    },
+    {
+      "word": "#家国永念致敬英雄#"
     }
   ]
 }
