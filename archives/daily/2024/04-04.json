@@ -1,6 +1,6 @@
 {
   "startTime": 1712161260598,
-  "endTime": 1712194385791,
+  "endTime": 1712197573067,
   "band_list": [
     {
       "raw_hot": 1624375,
@@ -9,6 +9,22 @@
       "onboard_time": 1712190677,
       "rank": 0,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1498264,
+      "num": 1498264,
+      "word": "原来清明并不是放三天补一天",
+      "onboard_time": 1712195299,
+      "rank": 0,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 1212105,
+      "num": 941099,
+      "word": "拍吻戏不张嘴",
+      "onboard_time": 1712193800,
+      "rank": 12,
+      "category": "剧集"
     },
     {
       "raw_hot": 1153852,
@@ -67,12 +83,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 809251,
+      "num": 809251,
+      "word": "王婆说媒已婚男妻子深夜发视频哭诉",
+      "onboard_time": 1712195299,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 756217,
       "num": 756217,
       "word": "大学生被赶下车后发现异常救司机一命",
       "onboard_time": 1712151442,
       "rank": 3,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 713161,
+      "num": 520366,
+      "word": "男子虐猫后将残肢丢至直播间",
+      "onboard_time": 1712194219,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 673155,
@@ -84,7 +116,7 @@
     },
     {
       "raw_hot": 642318,
-      "num": 253169,
+      "num": 277385,
       "word": "清明节竟然是三合一节日",
       "onboard_time": 1712191218,
       "rank": 20,
@@ -121,6 +153,14 @@
       "onboard_time": 1712185873,
       "rank": 33,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 615555,
+      "num": 615555,
+      "word": "850元一条的瑜伽裤上海人为啥会买",
+      "onboard_time": 1712194458,
+      "rank": 8,
+      "category": "时尚"
     },
     {
       "raw_hot": 614074,
@@ -179,20 +219,20 @@
       "category": "情感"
     },
     {
-      "raw_hot": 470785,
-      "num": 419159,
-      "word": "拍吻戏不张嘴",
-      "onboard_time": 1712193800,
-      "rank": 12,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 460847,
       "num": 460847,
       "word": "前有王传君拜佛 后有王劲松上香",
       "onboard_time": 1712158340,
       "rank": 9,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 444124,
+      "num": 444124,
+      "word": "台湾花莲强震已致9人死亡1038人受伤",
+      "onboard_time": 1712196258,
+      "rank": 12,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 416887,
@@ -259,6 +299,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 362647,
+      "num": 277468,
+      "word": "微信删好友应不应该先打招呼",
+      "onboard_time": 1712194219,
+      "rank": 40,
+      "category": "情感"
+    },
+    {
       "raw_hot": 361043,
       "num": 361043,
       "word": "张元英ins",
@@ -275,11 +323,27 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 344047,
+      "num": 344047,
+      "word": "大风致3人家中坠亡家属发声",
+      "onboard_time": 1712194999,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 337958,
       "num": 337958,
       "word": "赵丽颖林更新吻戏",
       "onboard_time": 1712142738,
       "rank": 17,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 337523,
+      "num": 337523,
+      "word": "白鹿罗云熙或三搭",
+      "onboard_time": 1712194219,
+      "rank": 22,
       "category": "剧集"
     },
     {
@@ -323,6 +387,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 280770,
+      "num": 277319,
+      "word": "煮熟的鸡蛋别再用凉水冷却了",
+      "onboard_time": 1712194398,
+      "rank": 22,
+      "category": "科学科普"
+    },
+    {
+      "raw_hot": 277502,
+      "num": 277502,
+      "word": "林狗你恋爱白谈了",
+      "onboard_time": 1712195899,
+      "rank": 19,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 276951,
       "num": 276951,
       "word": "王一博裴佳欣对手戏",
@@ -336,6 +416,22 @@
       "word": "于和伟隆妮吻戏",
       "onboard_time": 1712188997,
       "rank": 23,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 265764,
+      "num": 265764,
+      "word": "眼泪女王",
+      "onboard_time": 1712196858,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 263390,
+      "num": 263390,
+      "word": "林更新狗过但没丑过",
+      "onboard_time": 1712194939,
+      "rank": 25,
       "category": "剧集"
     },
     {
@@ -376,14 +472,6 @@
       "word": "赵丽颖你就宠林更新吧",
       "onboard_time": 1712161396,
       "rank": 23,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 223902,
-      "num": 223902,
-      "word": "白鹿罗云熙或三搭",
-      "onboard_time": 1712194219,
-      "rank": 22,
       "category": "剧集"
     },
     {
@@ -435,6 +523,22 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 197581,
+      "num": 197581,
+      "word": "全校唯一一个自驾上学的高中生",
+      "onboard_time": 1712196858,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 197420,
+      "num": 221270,
+      "word": "4月4日15时02分迎来清明",
+      "onboard_time": 1712194157,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 196387,
       "num": 196387,
       "word": "英伟达称台湾地震不影响供应链",
@@ -448,14 +552,6 @@
       "word": "福宝何时公开亮相",
       "onboard_time": 1712190557,
       "rank": 31,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 191427,
-      "num": 191427,
-      "word": "男子虐猫后将残肢丢至直播间",
-      "onboard_time": 1712194219,
-      "rank": 28,
       "category": "社会新闻"
     },
     {
@@ -481,6 +577,14 @@
       "onboard_time": 1712188576,
       "rank": 35,
       "category": "电竞,网红"
+    },
+    {
+      "raw_hot": 186555,
+      "num": 186555,
+      "word": "吃青团",
+      "onboard_time": 1712195958,
+      "rank": 35,
+      "category": "美食"
     },
     {
       "raw_hot": 181487,
@@ -523,12 +627,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 173321,
-      "num": 173321,
-      "word": "微信删好友应不应该先打招呼",
-      "onboard_time": 1712194219,
-      "rank": 40,
-      "category": "情感"
+      "raw_hot": 173688,
+      "num": 173688,
+      "word": "陈楚生这个赛季太强了",
+      "onboard_time": 1712195598,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 168416,
@@ -547,20 +651,20 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 159626,
+      "num": 159626,
+      "word": "行止 老肩巨滑",
+      "onboard_time": 1712195837,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 156166,
       "num": 156166,
       "word": "09小楼事件",
       "onboard_time": 1712154801,
       "rank": 28,
       "category": "电竞,网红"
-    },
-    {
-      "raw_hot": 155959,
-      "num": 155959,
-      "word": "4月4日15时02分迎来清明",
-      "onboard_time": 1712194157,
-      "rank": 43,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 155557,
@@ -585,6 +689,22 @@
       "onboard_time": 1712142199,
       "rank": 30,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 150461,
+      "num": 150461,
+      "word": "湖人",
+      "onboard_time": 1712196739,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 148066,
+      "num": 148066,
+      "word": "黄旭熙新歌舞蹈挑战",
+      "onboard_time": 1712196378,
+      "rank": 43,
+      "category": "音乐"
     },
     {
       "raw_hot": 147377,
