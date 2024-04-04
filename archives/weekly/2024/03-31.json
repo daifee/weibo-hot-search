@@ -1,6 +1,6 @@
 {
   "startTime": 1711815680412,
-  "endTime": 1712241245680,
+  "endTime": 1712243875803,
   "band_list": [
     {
       "raw_hot": 16874674,
@@ -1995,6 +1995,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 736820,
+      "num": 736820,
+      "word": "台湾4.6级地震",
+      "onboard_time": 1712241981,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 736160,
       "num": 736160,
       "word": "姜爷爷和福宝",
@@ -2243,6 +2251,14 @@
       "category": "母婴育儿"
     },
     {
+      "raw_hot": 675509,
+      "num": 675509,
+      "word": "餐馆老板让暑假工5元随便吃被欠五千餐费",
+      "onboard_time": 1712237959,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 674677,
       "num": 674677,
       "word": "陈赫张子萱一家新加坡度假",
@@ -2257,6 +2273,14 @@
       "onboard_time": 1712065701,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 673398,
+      "num": 673398,
+      "word": "马丽破产姐妹卡洛琳合作新片",
+      "onboard_time": 1712239460,
+      "rank": 15,
+      "category": "电影"
     },
     {
       "raw_hot": 673155,
@@ -2731,14 +2755,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 602071,
-      "num": 602071,
-      "word": "马丽破产姐妹卡洛琳合作新片",
-      "onboard_time": 1712239460,
-      "rank": 15,
-      "category": "电影"
-    },
-    {
       "raw_hot": 599221,
       "num": 599221,
       "word": "雷军称小米正式成为一家车厂",
@@ -3185,6 +3201,14 @@
       "onboard_time": 1712189297,
       "rank": 12,
       "category": "科学科普,健康医疗"
+    },
+    {
+      "raw_hot": 527192,
+      "num": 527192,
+      "word": "东宫绝世甜剧不是说说而已",
+      "onboard_time": 1712241439,
+      "rank": 11,
+      "category": "剧集"
     },
     {
       "raw_hot": 526731,
@@ -3825,14 +3849,6 @@
       "onboard_time": 1711872737,
       "rank": 30,
       "category": "汽车,艺人"
-    },
-    {
-      "raw_hot": 458124,
-      "num": 458124,
-      "word": "餐馆老板让暑假工5元随便吃被欠五千餐费",
-      "onboard_time": 1712237959,
-      "rank": 16,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 456217,
@@ -4843,6 +4859,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 366989,
+      "num": 366989,
+      "word": "花楼花楼 我要迪斯尼",
+      "onboard_time": 1712242400,
+      "rank": 16,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 366747,
       "num": 258053,
       "word": "酒店拖鞋上这个洞有什么用",
@@ -5049,6 +5073,14 @@
       "onboard_time": 1712223980,
       "rank": 14,
       "category": "综艺,游戏"
+    },
+    {
+      "raw_hot": 349569,
+      "num": 349569,
+      "word": "小伞说Doinb能随时开播",
+      "onboard_time": 1712242640,
+      "rank": 18,
+      "category": "电竞"
     },
     {
       "raw_hot": 348254,
@@ -5267,6 +5299,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 332612,
+      "num": 332612,
+      "word": "这一互关就是一辈子",
+      "onboard_time": 1712240720,
+      "rank": 37,
+      "category": "情感"
+    },
+    {
       "raw_hot": 332472,
       "num": 332472,
       "word": "追风者 学历史",
@@ -5441,6 +5481,14 @@
       "onboard_time": 1712049440,
       "rank": 49,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 319424,
+      "num": 319424,
+      "word": "四千的工资根本花不完甚至还能存点钱",
+      "onboard_time": 1712242880,
+      "rank": 22,
+      "category": "情感"
     },
     {
       "raw_hot": 318752,
@@ -6163,6 +6211,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 280201,
+      "num": 280201,
+      "word": "郭艾伦秀张元英转圈过人",
+      "onboard_time": 1712241981,
+      "rank": 23,
+      "category": "体育,艺人"
+    },
+    {
       "raw_hot": 280012,
       "num": 280012,
       "word": "新版赵灵儿 古装叶文洁",
@@ -6265,6 +6321,14 @@
       "onboard_time": 1711843938,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 274808,
+      "num": 274808,
+      "word": "追风者收视率新高",
+      "onboard_time": 1712241078,
+      "rank": 30,
+      "category": "剧集"
     },
     {
       "raw_hot": 274597,
@@ -6571,6 +6635,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 261516,
+      "num": 261516,
+      "word": "林更新喘息声",
+      "onboard_time": 1712240480,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 261118,
       "num": 261118,
       "word": "烧伤女孩百万救命款一夜凑齐哥哥泪谢浙江",
@@ -6641,6 +6713,14 @@
       "onboard_time": 1712162776,
       "rank": 17,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 258863,
+      "num": 258863,
+      "word": "与凤行热度",
+      "onboard_time": 1712243240,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 258775,
@@ -7347,6 +7427,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 234932,
+      "num": 234932,
+      "word": "十年后才知道朋友提前杀虫了",
+      "onboard_time": 1712235381,
+      "rank": 37,
+      "category": "情感"
+    },
+    {
       "raw_hot": 234806,
       "num": 234806,
       "word": "渐冻症病因研究实现初步突破",
@@ -7779,6 +7867,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 222298,
+      "num": 222298,
+      "word": "台湾祭音乐节取消回春丹演出",
+      "onboard_time": 1712240899,
+      "rank": 39,
+      "category": "演出"
+    },
+    {
       "raw_hot": 222185,
       "num": 222185,
       "word": "法国张震",
@@ -7825,6 +7921,14 @@
       "onboard_time": 1712104111,
       "rank": 47,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 220436,
+      "num": 220436,
+      "word": "冷漠在男女关系里真的好用",
+      "onboard_time": 1712242039,
+      "rank": 32,
+      "category": "情感"
     },
     {
       "raw_hot": 219751,
@@ -8067,14 +8171,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 213481,
-      "num": 213481,
-      "word": "十年后才知道朋友提前杀虫了",
-      "onboard_time": 1712235381,
-      "rank": 37,
-      "category": "情感"
-    },
-    {
       "raw_hot": 213450,
       "num": 213450,
       "word": "老兵带了杯奶茶给24岁牺牲的战友",
@@ -8219,6 +8315,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 210790,
+      "num": 210790,
+      "word": "卢昱晓 可塑性",
+      "onboard_time": 1712242339,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 210621,
       "num": 202338,
       "word": "被自己一个月的掉发量惊呆了",
@@ -8273,6 +8377,14 @@
       "onboard_time": 1711894099,
       "rank": 42,
       "category": "体育"
+    },
+    {
+      "raw_hot": 210109,
+      "num": 210109,
+      "word": "恋爱让他谈 三界我来守",
+      "onboard_time": 1712243360,
+      "rank": 34,
+      "category": "剧集"
     },
     {
       "raw_hot": 210087,
@@ -8849,14 +8961,6 @@
       "onboard_time": 1711869377,
       "rank": 30,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 198664,
-      "num": 198664,
-      "word": "追风者收视率新高",
-      "onboard_time": 1712241078,
-      "rank": 30,
-      "category": "剧集"
     },
     {
       "raw_hot": 198363,
@@ -10051,14 +10155,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 178769,
-      "num": 178769,
-      "word": "这一互关就是一辈子",
-      "onboard_time": 1712240720,
-      "rank": 37,
-      "category": "情感"
-    },
-    {
       "raw_hot": 178755,
       "num": 178755,
       "word": "3周瘦7斤的底层逻辑",
@@ -10315,6 +10411,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 173917,
+      "num": 173917,
+      "word": "追风者有效播放量破9亿",
+      "onboard_time": 1712243240,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 173843,
       "num": 173843,
       "word": "cpsp",
@@ -10449,14 +10553,6 @@
       "onboard_time": 1711954761,
       "rank": 37,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 170610,
-      "num": 170610,
-      "word": "台湾祭音乐节取消回春丹演出",
-      "onboard_time": 1712240899,
-      "rank": 39,
-      "category": "演出"
     },
     {
       "raw_hot": 170466,
@@ -10680,14 +10776,6 @@
       "word": "欢乐颂",
       "onboard_time": 1711897400,
       "rank": 42,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 166041,
-      "num": 166041,
-      "word": "林更新喘息声",
-      "onboard_time": 1712240480,
-      "rank": 41,
       "category": "剧集"
     },
     {
@@ -11755,6 +11843,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 147844,
+      "num": 147844,
+      "word": "清明节可以祝节日快乐吗",
+      "onboard_time": 1712242460,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 147825,
       "num": 147825,
       "word": "最美是人间四月的天",
@@ -12051,6 +12147,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 142798,
+      "num": 142798,
+      "word": "网友清明拍到小米SU7纸扎版",
+      "onboard_time": 1712242940,
+      "rank": 45,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 142667,
       "num": 142667,
       "word": "小舞回应",
@@ -12089,6 +12193,14 @@
       "onboard_time": 1712038458,
       "rank": 36,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 141884,
+      "num": 141884,
+      "word": "邓科邓磕",
+      "onboard_time": 1712243540,
+      "rank": 46,
+      "category": "剧集"
     },
     {
       "raw_hot": 141687,
@@ -12529,6 +12641,14 @@
       "onboard_time": 1711851738,
       "rank": 45,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 133964,
+      "num": 133964,
+      "word": "00后女生给自己办葬礼",
+      "onboard_time": 1712242581,
+      "rank": 47,
+      "category": "情感"
     },
     {
       "raw_hot": 133860,
