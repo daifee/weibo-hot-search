@@ -1,6 +1,6 @@
 {
   "startTime": 1711902044401,
-  "endTime": 1712212458485,
+  "endTime": 1712215072549,
   "band_list": [
     {
       "raw_hot": 16874674,
@@ -755,6 +755,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1149639,
+      "num": 1149639,
+      "word": "姜爷爷希望福宝回中国不要改名字",
+      "onboard_time": 1712209038,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1142731,
       "num": 1142731,
       "word": "冉莹颖回忆孕期上岸北大",
@@ -1065,14 +1073,6 @@
       "onboard_time": 1712064261,
       "rank": 26,
       "category": "体育"
-    },
-    {
-      "raw_hot": 978832,
-      "num": 978832,
-      "word": "姜爷爷希望福宝回中国不要改名字",
-      "onboard_time": 1712209038,
-      "rank": 4,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 968847,
@@ -1601,6 +1601,14 @@
       "onboard_time": 1711945224,
       "rank": 38,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 706725,
+      "num": 706725,
+      "word": "张艺兴回应内娱没有舞台",
+      "onboard_time": 1712211497,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 703657,
@@ -2171,6 +2179,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 586352,
+      "num": 586352,
+      "word": "运动瘦脸才能真正的瘦脸",
+      "onboard_time": 1712209158,
+      "rank": 15,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 586069,
       "num": 586069,
       "word": "金智媛好美",
@@ -2475,6 +2491,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 526462,
+      "num": 526462,
+      "word": "地震时男孩一把抱起同桌往外冲",
+      "onboard_time": 1712209097,
+      "rank": 18,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 526317,
       "num": 480595,
       "word": "林更新直播",
@@ -2513,14 +2537,6 @@
       "onboard_time": 1712106086,
       "rank": 21,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 521980,
-      "num": 521980,
-      "word": "运动瘦脸才能真正的瘦脸",
-      "onboard_time": 1712209158,
-      "rank": 15,
-      "category": "运动健身"
     },
     {
       "raw_hot": 520213,
@@ -2811,14 +2827,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 465619,
-      "num": 465619,
-      "word": "地震时男孩一把抱起同桌往外冲",
-      "onboard_time": 1712209097,
-      "rank": 18,
-      "category": "社会正能量"
-    },
-    {
       "raw_hot": 463927,
       "num": 338213,
       "word": "张大大在天水麻辣烫店当服务员",
@@ -2952,6 +2960,14 @@
       "word": "台湾强震前网上现天空异象照片",
       "onboard_time": 1712142921,
       "rank": 24,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 447567,
+      "num": 447567,
+      "word": "四川话果赖成功召唤福宝",
+      "onboard_time": 1712208557,
+      "rank": 35,
       "category": "社会新闻"
     },
     {
@@ -3515,6 +3531,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 381053,
+      "num": 381053,
+      "word": "小时候我哭着要和哥哥嫂子睡一起",
+      "onboard_time": 1712210838,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 380796,
       "num": 380796,
       "word": "一人一句祝福接福宝回国",
@@ -3955,14 +3979,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 330062,
-      "num": 330062,
-      "word": "张艺兴回应内娱没有舞台",
-      "onboard_time": 1712211497,
-      "rank": 25,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 329123,
       "num": 329123,
       "word": "雷军称将举办小米SU7首批交付仪式",
@@ -4056,6 +4072,14 @@
       "word": "试用期一天被辞退要工资有错吗",
       "onboard_time": 1711950802,
       "rank": 22,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 320896,
+      "num": 191123,
+      "word": "为什么现在住院都要问学历了",
+      "onboard_time": 1712212158,
+      "rank": 35,
       "category": "情感"
     },
     {
@@ -4329,6 +4353,14 @@
       "onboard_time": 1712030480,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 293218,
+      "num": 293218,
+      "word": "王珞丹高干文",
+      "onboard_time": 1712211977,
+      "rank": 23,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 292666,
@@ -4611,6 +4643,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 275954,
+      "num": 275954,
+      "word": "郭富城方媛带女儿体验室内跳伞",
+      "onboard_time": 1712214559,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 275439,
       "num": 275439,
       "word": "台湾已发生10次地震",
@@ -4633,6 +4673,14 @@
       "onboard_time": 1712196858,
       "rank": 33,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 272044,
+      "num": 272044,
+      "word": "学会开车后感觉世界观变了",
+      "onboard_time": 1712213658,
+      "rank": 22,
+      "category": "幽默"
     },
     {
       "raw_hot": 271912,
@@ -4721,6 +4769,14 @@
       "onboard_time": 1712130860,
       "rank": 29,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 268645,
+      "num": 268645,
+      "word": "小米汽车称贷款未通过锁单后不可退定",
+      "onboard_time": 1712214077,
+      "rank": 23,
+      "category": "汽车"
     },
     {
       "raw_hot": 268497,
@@ -5043,14 +5099,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 249677,
-      "num": 249677,
-      "word": "王珞丹高干文",
-      "onboard_time": 1712211977,
-      "rank": 23,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 249536,
       "num": 249536,
       "word": "全球资金正在加速回流中国",
@@ -5355,12 +5403,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 236827,
-      "num": 182475,
-      "word": "小时候我哭着要和哥哥嫂子睡一起",
-      "onboard_time": 1712210838,
-      "rank": 30,
-      "category": "幽默"
+      "raw_hot": 237278,
+      "num": 187909,
+      "word": "世界殡葬第一村长什么样",
+      "onboard_time": 1712212639,
+      "rank": 31,
+      "category": "科学科普"
     },
     {
       "raw_hot": 236193,
@@ -6067,14 +6115,6 @@
       "category": "电竞,网红"
     },
     {
-      "raw_hot": 209049,
-      "num": 209049,
-      "word": "四川话果赖成功召唤福宝",
-      "onboard_time": 1712208557,
-      "rank": 35,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 208969,
       "num": 208969,
       "word": "大侦探真的好会让嘉宾社死",
@@ -6249,6 +6289,14 @@
       "onboard_time": 1712051659,
       "rank": 26,
       "category": "电影"
+    },
+    {
+      "raw_hot": 202694,
+      "num": 202694,
+      "word": "胡一天 之前对你太大声了",
+      "onboard_time": 1712214677,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 202639,
@@ -7875,14 +7923,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 163253,
-      "num": 163253,
-      "word": "为什么现在住院都要问学历了",
-      "onboard_time": 1712212158,
-      "rank": 35,
-      "category": "情感"
-    },
-    {
       "raw_hot": 163207,
       "num": 163207,
       "word": "宫崎骏新片i人狂喜",
@@ -8211,6 +8251,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 155689,
+      "num": 155689,
+      "word": "俄乌局势新进展",
+      "onboard_time": 1712214199,
+      "rank": 33,
+      "category": "军事,国外时政"
+    },
+    {
       "raw_hot": 155688,
       "num": 155688,
       "word": "tabe",
@@ -8489,6 +8537,14 @@
       "onboard_time": 1712053400,
       "rank": 38,
       "category": "教育"
+    },
+    {
+      "raw_hot": 149681,
+      "num": 149681,
+      "word": "研究所回应地震预警APP收10元年费",
+      "onboard_time": 1712214137,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 148899,
@@ -9009,6 +9065,14 @@
       "onboard_time": 1712041337,
       "rank": 43,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 136457,
+      "num": 136457,
+      "word": "丞磊cos韩信",
+      "onboard_time": 1712214798,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 136144,
@@ -9569,6 +9633,14 @@
       "onboard_time": 1711895001,
       "rank": 46,
       "category": "电影"
+    },
+    {
+      "raw_hot": 108293,
+      "num": 108293,
+      "word": "这些熟悉的面孔浮现时太过催泪",
+      "onboard_time": 1712214978,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 108029,
@@ -10137,6 +10209,14 @@
       "onboard_time": 1712078112,
       "rank": 49,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 37336,
+      "num": 795482,
+      "word": "春和景明一草一木皆是思念",
+      "onboard_time": 1712187555,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 34601,

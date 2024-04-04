@@ -1,6 +1,6 @@
 {
   "startTime": 1712161260598,
-  "endTime": 1712212458485,
+  "endTime": 1712215072549,
   "band_list": [
     {
       "raw_hot": 2123188,
@@ -83,6 +83,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 1149639,
+      "num": 1149639,
+      "word": "姜爷爷希望福宝回中国不要改名字",
+      "onboard_time": 1712209038,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1140625,
       "num": 1140625,
       "word": "姜爷爷",
@@ -147,14 +155,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 978832,
-      "num": 978832,
-      "word": "姜爷爷希望福宝回中国不要改名字",
-      "onboard_time": 1712209038,
-      "rank": 4,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 938473,
       "num": 938473,
       "word": "姜爷爷说福宝有点紧张",
@@ -193,6 +193,14 @@
       "onboard_time": 1712194219,
       "rank": 28,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 706725,
+      "num": 706725,
+      "word": "张艺兴回应内娱没有舞台",
+      "onboard_time": 1712211497,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 673155,
@@ -283,6 +291,14 @@
       "category": "母婴育儿,科学科普"
     },
     {
+      "raw_hot": 586352,
+      "num": 586352,
+      "word": "运动瘦脸才能真正的瘦脸",
+      "onboard_time": 1712209158,
+      "rank": 15,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 559919,
       "num": 559919,
       "word": "长期不上班是什么状态",
@@ -307,12 +323,12 @@
       "category": "科学科普,健康医疗"
     },
     {
-      "raw_hot": 521980,
-      "num": 521980,
-      "word": "运动瘦脸才能真正的瘦脸",
-      "onboard_time": 1712209158,
-      "rank": 15,
-      "category": "运动健身"
+      "raw_hot": 526462,
+      "num": 526462,
+      "word": "地震时男孩一把抱起同桌往外冲",
+      "onboard_time": 1712209097,
+      "rank": 18,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 520579,
@@ -379,20 +395,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 465619,
-      "num": 465619,
-      "word": "地震时男孩一把抱起同桌往外冲",
-      "onboard_time": 1712209097,
-      "rank": 18,
-      "category": "社会正能量"
-    },
-    {
       "raw_hot": 460847,
       "num": 460847,
       "word": "前有王传君拜佛 后有王劲松上香",
       "onboard_time": 1712158340,
       "rank": 9,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 447567,
+      "num": 447567,
+      "word": "四川话果赖成功召唤福宝",
+      "onboard_time": 1712208557,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 416887,
@@ -483,6 +499,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 381053,
+      "num": 381053,
+      "word": "小时候我哭着要和哥哥嫂子睡一起",
+      "onboard_time": 1712210838,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 379783,
       "num": 379783,
       "word": "黄梦莹一开口素锦就回来了",
@@ -563,14 +587,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 330062,
-      "num": 330062,
-      "word": "张艺兴回应内娱没有舞台",
-      "onboard_time": 1712211497,
-      "rank": 25,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 327750,
       "num": 327750,
       "word": "林狗你恋爱白谈了",
@@ -585,6 +601,14 @@
       "onboard_time": 1712199857,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 320896,
+      "num": 191123,
+      "word": "为什么现在住院都要问学历了",
+      "onboard_time": 1712212158,
+      "rank": 35,
+      "category": "情感"
     },
     {
       "raw_hot": 318592,
@@ -609,6 +633,14 @@
       "onboard_time": 1712196858,
       "rank": 24,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 293218,
+      "num": 293218,
+      "word": "王珞丹高干文",
+      "onboard_time": 1712211977,
+      "rank": 23,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 292594,
@@ -659,12 +691,36 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 275954,
+      "num": 275954,
+      "word": "郭富城方媛带女儿体验室内跳伞",
+      "onboard_time": 1712214559,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 273258,
       "num": 273258,
       "word": "全校唯一一个自驾上学的高中生",
       "onboard_time": 1712196858,
       "rank": 33,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 272044,
+      "num": 272044,
+      "word": "学会开车后感觉世界观变了",
+      "onboard_time": 1712213658,
+      "rank": 22,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 268645,
+      "num": 268645,
+      "word": "小米汽车称贷款未通过锁单后不可退定",
+      "onboard_time": 1712214077,
+      "rank": 23,
+      "category": "汽车"
     },
     {
       "raw_hot": 263407,
@@ -723,14 +779,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 249677,
-      "num": 249677,
-      "word": "王珞丹高干文",
-      "onboard_time": 1712211977,
-      "rank": 23,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 248752,
       "num": 248752,
       "word": "为什么年轻人不愿意买房了",
@@ -763,12 +811,12 @@
       "category": "动漫,作品衍生"
     },
     {
-      "raw_hot": 236827,
-      "num": 182475,
-      "word": "小时候我哭着要和哥哥嫂子睡一起",
-      "onboard_time": 1712210838,
-      "rank": 30,
-      "category": "幽默"
+      "raw_hot": 237278,
+      "num": 187909,
+      "word": "世界殡葬第一村长什么样",
+      "onboard_time": 1712212639,
+      "rank": 31,
+      "category": "科学科普"
     },
     {
       "raw_hot": 229211,
@@ -843,14 +891,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 209049,
-      "num": 209049,
-      "word": "四川话果赖成功召唤福宝",
-      "onboard_time": 1712208557,
-      "rank": 35,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 206867,
       "num": 206867,
       "word": "福宝最新画面",
@@ -865,6 +905,14 @@
       "onboard_time": 1712198298,
       "rank": 35,
       "category": "美食"
+    },
+    {
+      "raw_hot": 202694,
+      "num": 202694,
+      "word": "胡一天 之前对你太大声了",
+      "onboard_time": 1712214677,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 200657,
@@ -1091,14 +1139,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 163253,
-      "num": 163253,
-      "word": "为什么现在住院都要问学历了",
-      "onboard_time": 1712212158,
-      "rank": 35,
-      "category": "情感"
-    },
-    {
       "raw_hot": 159924,
       "num": 159924,
       "word": "重庆妹子身材好因为上班都靠跑",
@@ -1121,6 +1161,14 @@
       "onboard_time": 1712154801,
       "rank": 28,
       "category": "电竞,网红"
+    },
+    {
+      "raw_hot": 155689,
+      "num": 155689,
+      "word": "俄乌局势新进展",
+      "onboard_time": 1712214199,
+      "rank": 33,
+      "category": "军事,国外时政"
     },
     {
       "raw_hot": 155557,
@@ -1192,6 +1240,14 @@
       "word": "AI大美中华",
       "onboard_time": 1712203579,
       "rank": 40,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 149681,
+      "num": 149681,
+      "word": "研究所回应地震预警APP收10元年费",
+      "onboard_time": 1712214137,
+      "rank": 34,
       "category": "社会新闻"
     },
     {
@@ -1281,6 +1337,14 @@
       "onboard_time": 1712211558,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 136457,
+      "num": 136457,
+      "word": "丞磊cos韩信",
+      "onboard_time": 1712214798,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 136419,
@@ -1467,6 +1531,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 108293,
+      "num": 108293,
+      "word": "这些熟悉的面孔浮现时太过催泪",
+      "onboard_time": 1712214978,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 107628,
       "num": 107628,
       "word": "惜花芷",
@@ -1617,6 +1689,14 @@
       "onboard_time": 1712142020,
       "rank": 47,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 37336,
+      "num": 795482,
+      "word": "春和景明一草一木皆是思念",
+      "onboard_time": 1712187555,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 30342,
