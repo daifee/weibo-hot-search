@@ -1,0 +1,410 @@
+{
+  "runTime": 1712216069748,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1365165,
+        "num": 1365165,
+        "word": "zara包",
+        "onboard_time": 1712209158,
+        "rank": 0,
+        "category": "时尚,作品衍生"
+      },
+      {
+        "raw_hot": 979973,
+        "num": 979973,
+        "word": "姜爷爷希望福宝回中国不要改名字",
+        "onboard_time": 1712209038,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 45972,
+        "num": 901257,
+        "word": "春和景明一草一木皆是思念",
+        "onboard_time": 1712187555,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 900535,
+        "num": 900535,
+        "word": "胡一天 之前对你太大声了",
+        "onboard_time": 1712214677,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 719007,
+        "num": 719007,
+        "word": "张艺兴回应内娱没有舞台",
+        "onboard_time": 1712211497,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 651358,
+        "num": 651358,
+        "word": "三十岁才会发现戴珍珠的美",
+        "onboard_time": 1712206338,
+        "rank": 5,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 553791,
+        "num": 553791,
+        "word": "原来清明并不是放三天补一天",
+        "onboard_time": 1712195299,
+        "rank": 6,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 467435,
+        "num": 467435,
+        "word": "学会开车后感觉世界观变了",
+        "onboard_time": 1712213658,
+        "rank": 7,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 449624,
+        "num": 449624,
+        "word": "运动瘦脸才能真正的瘦脸",
+        "onboard_time": 1712209158,
+        "rank": 8,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 312783,
+        "num": 425270,
+        "word": "福宝的首选是红苹果",
+        "onboard_time": 1712207539,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 467821,
+        "num": 423245,
+        "word": "小米汽车称贷款未通过锁单后不可退定",
+        "onboard_time": 1712214077,
+        "rank": 10,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 409379,
+        "num": 409379,
+        "word": "地震时男孩一把抱起同桌往外冲",
+        "onboard_time": 1712209097,
+        "rank": 11,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 384359,
+        "num": 384359,
+        "word": "小时候我哭着要和哥哥嫂子睡一起",
+        "onboard_time": 1712210838,
+        "rank": 12,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 372883,
+        "num": 372883,
+        "word": "各大平台禁止售卖分装化妆品",
+        "onboard_time": 1712203220,
+        "rank": 13,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 372444,
+        "num": 372444,
+        "word": "四川话果赖成功召唤福宝",
+        "onboard_time": 1712208557,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 315944,
+        "num": 315944,
+        "word": "王婆说媒已婚男妻子深夜发视频哭诉",
+        "onboard_time": 1712195299,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 312000,
+        "num": 312000,
+        "word": "考研失败成了小朋友的反面教材",
+        "onboard_time": 1712206219,
+        "rank": 16,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 303017,
+        "num": 303017,
+        "word": "长期不上班是什么状态",
+        "onboard_time": 1712206278,
+        "rank": 17,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 301226,
+        "num": 301226,
+        "word": "林狗你行不行啊",
+        "onboard_time": 1712189777,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 283941,
+        "num": 283941,
+        "word": "官方回应福宝被人不戴手套戳",
+        "onboard_time": 1712204359,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 279925,
+        "num": 279925,
+        "word": "沈璃行止的孩子是花千骨吧",
+        "onboard_time": 1712215519,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 252558,
+        "num": 252558,
+        "word": "郭富城方媛带女儿体验室内跳伞",
+        "onboard_time": 1712214559,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 251387,
+        "num": 251387,
+        "word": "世界殡葬第一村长什么样",
+        "onboard_time": 1712212639,
+        "rank": 22,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 232460,
+        "num": 232460,
+        "word": "林更新我晕腿",
+        "onboard_time": 1712215158,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 217338,
+        "num": 217338,
+        "word": "福宝小屋布满竹子笋笋苹果胡萝卜",
+        "onboard_time": 1712200758,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 217219,
+        "num": 217219,
+        "word": "iPhone16全家福机模曝光",
+        "onboard_time": 1712208979,
+        "rank": 25,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 204954,
+        "num": 204954,
+        "word": "原来韩国人追剧不看字幕的",
+        "onboard_time": 1712201898,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 174053,
+        "num": 174053,
+        "word": "子宫生病的第一个信号就是异常出血",
+        "onboard_time": 1712209337,
+        "rank": 27,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 173861,
+        "num": 173861,
+        "word": "韩国民众哭肿眼送别福宝",
+        "onboard_time": 1712211079,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 173243,
+        "num": 173243,
+        "word": "王珞丹高干文",
+        "onboard_time": 1712211977,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 283486,
+        "num": 173223,
+        "word": "为什么现在住院都要问学历了",
+        "onboard_time": 1712212158,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 173184,
+        "num": 173184,
+        "word": "为什么很多漂亮女生却没人追",
+        "onboard_time": 1712201118,
+        "rank": 31,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 163724,
+        "num": 163724,
+        "word": "姜爷爷",
+        "onboard_time": 1712204717,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 156185,
+        "num": 156185,
+        "word": "东莞一护理院发生火灾致3死10伤",
+        "onboard_time": 1712215218,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 153445,
+        "num": 153445,
+        "word": "俄乌局势新进展",
+        "onboard_time": 1712214199,
+        "rank": 34,
+        "category": "军事,国外时政"
+      },
+      {
+        "raw_hot": 152175,
+        "num": 152175,
+        "word": "这些熟悉的面孔浮现时太过催泪",
+        "onboard_time": 1712214978,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 150202,
+        "num": 150202,
+        "word": "研究所回应地震预警APP收10元年费",
+        "onboard_time": 1712214137,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 138212,
+        "num": 138212,
+        "word": "执笔",
+        "onboard_time": 1712210718,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 129189,
+        "num": 129189,
+        "word": "声入人心团综",
+        "onboard_time": 1712205078,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 128675,
+        "num": 128675,
+        "word": "男朋友的小姨没有边际感",
+        "onboard_time": 1712205078,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 123720,
+        "num": 123720,
+        "word": "微信删好友应不应该先打招呼",
+        "onboard_time": 1712194219,
+        "rank": 40,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 118947,
+        "num": 118947,
+        "word": "丞磊cos韩信",
+        "onboard_time": 1712214798,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 116910,
+        "num": 116910,
+        "word": "福宝尚不满4岁",
+        "onboard_time": 1712203276,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 107865,
+        "num": 107865,
+        "word": "警方回应奔驰压到孩子后逃逸",
+        "onboard_time": 1712209758,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 105848,
+        "num": 105848,
+        "word": "福宝",
+        "onboard_time": 1712186175,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 104984,
+        "num": 104984,
+        "word": "张艺兴女团的容貌焦虑",
+        "onboard_time": 1712207898,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 97770,
+        "num": 97770,
+        "word": "向佐被网友认成外国女人和保姆",
+        "onboard_time": 1712197819,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 93833,
+        "num": 93833,
+        "word": "林狗你恋爱白谈了",
+        "onboard_time": 1712195899,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 91016,
+        "num": 91016,
+        "word": "尚雯婕带5月龄萌兰录浪姐",
+        "onboard_time": 1712209820,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 88351,
+        "num": 88351,
+        "word": "吴磊眼神变化从清澈到绝望",
+        "onboard_time": 1712210478,
+        "rank": 49,
+        "category": "电影"
+      }
+    ],
+    "hotgov": {
+      "word": "#全民植树增绿共建美丽中国#"
+    }
+  }
+}
