@@ -1,6 +1,6 @@
 {
   "startTime": 1712161260598,
-  "endTime": 1712226869154,
+  "endTime": 1712229311990,
   "band_list": [
     {
       "raw_hot": 2366026,
@@ -155,12 +155,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 1100453,
+      "num": 1100453,
+      "word": "12306回应高铁走到半路两车乘客互换",
+      "onboard_time": 1712224338,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1081187,
       "num": 1081187,
       "word": "官方回应福宝被人不戴手套戳",
       "onboard_time": 1712204359,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1075350,
+      "num": 1075350,
+      "word": "黄晓明自曝胖了30斤",
+      "onboard_time": 1712227098,
+      "rank": 3,
+      "category": "艺人"
     },
     {
       "raw_hot": 1036556,
@@ -227,14 +243,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 781946,
-      "num": 441254,
-      "word": "12306回应高铁走到半路两车乘客互换",
-      "onboard_time": 1712224338,
-      "rank": 11,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 780592,
       "num": 780592,
       "word": "考研失败成了小朋友的反面教材",
@@ -243,12 +251,28 @@
       "category": "教育"
     },
     {
+      "raw_hot": 777850,
+      "num": 777850,
+      "word": "终于在高铁上发疯了",
+      "onboard_time": 1712225959,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 777007,
       "num": 777007,
       "word": "福宝在家嘎嘎炫饭",
       "onboard_time": 1712224218,
       "rank": 3,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 767343,
+      "num": 767343,
+      "word": "美财政部部长耶伦抵达广州",
+      "onboard_time": 1712226678,
+      "rank": 36,
+      "category": "国内时政"
     },
     {
       "raw_hot": 756217,
@@ -291,6 +315,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 666868,
+      "num": 666868,
+      "word": "碾压孩子奔驰司机已投案",
+      "onboard_time": 1712226138,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 660306,
       "num": 660306,
       "word": "向佐被网友认成外国女人和保姆",
@@ -320,6 +352,14 @@
       "word": "向太陈岚称向佐曾遭遇校园霸凌",
       "onboard_time": 1712158160,
       "rank": 4,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 628425,
+      "num": 628425,
+      "word": "章若楠问网友为啥要卖她签名照",
+      "onboard_time": 1712225479,
+      "rank": 21,
       "category": "艺人"
     },
     {
@@ -491,14 +531,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 488907,
-      "num": 421247,
-      "word": "章若楠问网友为啥要卖她签名照",
-      "onboard_time": 1712225479,
-      "rank": 21,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 483980,
       "num": 483980,
       "word": "福宝尚不满4岁",
@@ -564,7 +596,7 @@
     },
     {
       "raw_hot": 415695,
-      "num": 625597,
+      "num": 680192,
       "word": "福宝的首选是红苹果",
       "onboard_time": 1712207539,
       "rank": 43,
@@ -835,6 +867,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 302706,
+      "num": 302706,
+      "word": "林更新面子回来了",
+      "onboard_time": 1712224998,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 298004,
       "num": 298004,
       "word": "世界殡葬第一村长什么样",
@@ -843,12 +883,12 @@
       "category": "科学科普"
     },
     {
-      "raw_hot": 297825,
-      "num": 297825,
-      "word": "碾压孩子奔驰司机已投案",
-      "onboard_time": 1712226138,
-      "rank": 22,
-      "category": "社会新闻"
+      "raw_hot": 297249,
+      "num": 297249,
+      "word": "Doinb是谁",
+      "onboard_time": 1712228539,
+      "rank": 17,
+      "category": "电竞"
     },
     {
       "raw_hot": 293218,
@@ -865,6 +905,14 @@
       "onboard_time": 1712163916,
       "rank": 30,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 292586,
+      "num": 211663,
+      "word": "小金毛考了全班第一名",
+      "onboard_time": 1712228599,
+      "rank": 30,
+      "category": "情感"
     },
     {
       "raw_hot": 291069,
@@ -889,14 +937,6 @@
       "onboard_time": 1712221637,
       "rank": 30,
       "category": "情感"
-    },
-    {
-      "raw_hot": 289512,
-      "num": 289512,
-      "word": "林更新面子回来了",
-      "onboard_time": 1712224998,
-      "rank": 30,
-      "category": "剧集"
     },
     {
       "raw_hot": 285334,
@@ -937,6 +977,14 @@
       "onboard_time": 1712196858,
       "rank": 33,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 267009,
+      "num": 267009,
+      "word": "沈璃事后不认账",
+      "onboard_time": 1712228179,
+      "rank": 19,
+      "category": "剧集"
     },
     {
       "raw_hot": 263407,
@@ -1035,6 +1083,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 244062,
+      "num": 244062,
+      "word": "孔雪儿甄姬造型",
+      "onboard_time": 1712228899,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 243853,
       "num": 243853,
       "word": "妈妈让我把彩礼花光",
@@ -1099,12 +1155,12 @@
       "category": "时尚"
     },
     {
-      "raw_hot": 225340,
-      "num": 217013,
-      "word": "终于在高铁上发疯了",
-      "onboard_time": 1712225959,
-      "rank": 30,
-      "category": "幽默"
+      "raw_hot": 223964,
+      "num": 223964,
+      "word": "T1对战HLE",
+      "onboard_time": 1712223079,
+      "rank": 31,
+      "category": "电竞"
     },
     {
       "raw_hot": 219751,
@@ -1153,6 +1209,14 @@
       "onboard_time": 1712211079,
       "rank": 36,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 212331,
+      "num": 212331,
+      "word": "没想到生鸡蛋煮熟就会变成水煮蛋",
+      "onboard_time": 1712225420,
+      "rank": 37,
+      "category": "美食"
     },
     {
       "raw_hot": 211395,
@@ -1331,22 +1395,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 186510,
-      "num": 186510,
-      "word": "没想到生鸡蛋煮熟就会变成水煮蛋",
-      "onboard_time": 1712225420,
-      "rank": 37,
-      "category": "美食"
-    },
-    {
-      "raw_hot": 186042,
-      "num": 186042,
-      "word": "T1对战HLE",
-      "onboard_time": 1712223079,
-      "rank": 31,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 181744,
       "num": 181744,
       "word": "韩维辰李瑞人歌MC",
@@ -1475,14 +1523,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 166555,
-      "num": 166555,
-      "word": "美财政部部长耶伦抵达广州",
-      "onboard_time": 1712226678,
-      "rank": 36,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 165922,
       "num": 1313728,
       "word": "清明祭英烈家国永念",
@@ -1531,6 +1571,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 156692,
+      "num": 156692,
+      "word": "年轻人都去大城市的原因",
+      "onboard_time": 1712228718,
+      "rank": 39,
+      "category": "情感"
+    },
+    {
       "raw_hot": 156185,
       "num": 156185,
       "word": "东莞一护理院发生火灾致3死10伤",
@@ -1563,12 +1611,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 154696,
+      "num": 154696,
+      "word": "直击美国财长耶伦再次访华",
+      "onboard_time": 1712228358,
+      "rank": 40,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 153538,
       "num": 153538,
       "word": "月薪4000要不要交社保",
       "onboard_time": 1712141360,
       "rank": 29,
       "category": "情感"
+    },
+    {
+      "raw_hot": 152959,
+      "num": 152959,
+      "word": "原声视频回顾福宝回国全程",
+      "onboard_time": 1712228659,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 152741,
@@ -1689,6 +1753,14 @@
       "onboard_time": 1712225178,
       "rank": 43,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 143269,
+      "num": 143269,
+      "word": "我承认昨天对行止太大声了",
+      "onboard_time": 1712228058,
+      "rank": 43,
+      "category": "剧集"
     },
     {
       "raw_hot": 143250,
@@ -1915,6 +1987,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 125365,
+      "num": 125365,
+      "word": "云之羽剧组萌探4团建",
+      "onboard_time": 1712226978,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 122928,
       "num": 122928,
       "word": "王鹤棣于适 新电影",
@@ -1977,6 +2057,14 @@
       "onboard_time": 1712161457,
       "rank": 35,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 118578,
+      "num": 118578,
+      "word": "HLE战胜T1",
+      "onboard_time": 1712229259,
+      "rank": 49,
+      "category": "电竞"
     },
     {
       "raw_hot": 118110,
@@ -2084,7 +2172,7 @@
     },
     {
       "raw_hot": 75674,
-      "num": 968121,
+      "num": 1084456,
       "word": "先辈炽热滚烫的信仰我们永远记得",
       "onboard_time": 1712218577,
       "rank": 2,
