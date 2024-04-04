@@ -1,6 +1,6 @@
 {
   "startTime": 1712247709633,
-  "endTime": 1712248642039,
+  "endTime": 1712250919842,
   "band_list": [
     {
       "raw_hot": 1533243,
@@ -107,6 +107,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 298357,
+      "num": 298357,
+      "word": "十年后才知道朋友提前杀虫了",
+      "onboard_time": 1712235381,
+      "rank": 27,
+      "category": "情感"
+    },
+    {
       "raw_hot": 293451,
       "num": 293451,
       "word": "小伞说Doinb能随时开播",
@@ -121,6 +129,14 @@
       "onboard_time": 1712220199,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 267277,
+      "num": 267277,
+      "word": "恋爱让他谈 三界我来守",
+      "onboard_time": 1712243360,
+      "rank": 25,
+      "category": "剧集"
     },
     {
       "raw_hot": 266272,
@@ -163,20 +179,20 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 226399,
+      "num": 226399,
+      "word": "最让人震惊的爆改出现了",
+      "onboard_time": 1712249715,
+      "rank": 7,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 226309,
       "num": 226309,
       "word": "果然上万年的童子身比较补",
       "onboard_time": 1712230099,
       "rank": 22,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 219291,
-      "num": 219291,
-      "word": "十年后才知道朋友提前杀虫了",
-      "onboard_time": 1712235381,
-      "rank": 27,
-      "category": "情感"
     },
     {
       "raw_hot": 207244,
@@ -193,14 +209,6 @@
       "onboard_time": 1712229379,
       "rank": 24,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 186929,
-      "num": 186929,
-      "word": "恋爱让他谈 三界我来守",
-      "onboard_time": 1712243360,
-      "rank": 25,
-      "category": "剧集"
     },
     {
       "raw_hot": 179441,
@@ -395,6 +403,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 83536,
+      "num": 83536,
+      "word": "为什么鸟类大多是侧面照",
+      "onboard_time": 1712249056,
+      "rank": 33,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 82737,
       "num": 82737,
       "word": "李耕耘 让少年之家一直开花",
@@ -404,7 +420,7 @@
     },
     {
       "raw_hot": 77025,
-      "num": 87411,
+      "num": 89301,
       "word": "00后女生凭爱好考上大学",
       "onboard_time": 1712240720,
       "rank": 49,
@@ -415,6 +431,14 @@
       "num": 526207,
       "word": "古诗词里的清明意境超美",
       "onboard_time": 1712234959,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 16597,
+      "num": 306209,
+      "word": "清明版如愿致敬先辈",
+      "onboard_time": 1712234720,
       "rank": 2,
       "category": "社会新闻"
     }

@@ -1,0 +1,410 @@
+{
+  "runTime": 1712250919842,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 875162,
+        "num": 875162,
+        "word": "这一互关就是一辈子",
+        "onboard_time": 1712240720,
+        "rank": 0,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 403074,
+        "num": 403074,
+        "word": "徐艺洋发了和黄子韬的合照",
+        "onboard_time": 1712232918,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 16597,
+        "num": 306209,
+        "word": "清明版如愿致敬先辈",
+        "onboard_time": 1712234720,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 298357,
+        "num": 298357,
+        "word": "十年后才知道朋友提前杀虫了",
+        "onboard_time": 1712235381,
+        "rank": 3,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 292752,
+        "num": 292752,
+        "word": "餐馆老板让暑假工5元随便吃被欠五千餐费",
+        "onboard_time": 1712237959,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 267277,
+        "num": 267277,
+        "word": "恋爱让他谈 三界我来守",
+        "onboard_time": 1712243360,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 255463,
+        "num": 255463,
+        "word": "比跷二郎腿伤害更大的坐姿",
+        "onboard_time": 1712230338,
+        "rank": 6,
+        "category": "健康医疗,科学科普"
+      },
+      {
+        "raw_hot": 226399,
+        "num": 226399,
+        "word": "最让人震惊的爆改出现了",
+        "onboard_time": 1712249715,
+        "rank": 7,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 221380,
+        "num": 221380,
+        "word": "林更新喘息声",
+        "onboard_time": 1712240480,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 99382,
+        "num": 218838,
+        "word": "福宝在家嘎嘎炫饭",
+        "onboard_time": 1712224218,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 301503,
+        "num": 218530,
+        "word": "行止张嘴了",
+        "onboard_time": 1712221998,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 217239,
+        "num": 217239,
+        "word": "18岁女生一天给男友打100多个电话",
+        "onboard_time": 1712234540,
+        "rank": 11,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 213820,
+        "num": 213820,
+        "word": "终于在高铁上发疯了",
+        "onboard_time": 1712225959,
+        "rank": 12,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 212368,
+        "num": 212368,
+        "word": "沈璃行止圆房完整版",
+        "onboard_time": 1712237780,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 195121,
+        "num": 195121,
+        "word": "林更新工作室",
+        "onboard_time": 1712222057,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 156956,
+        "num": 156956,
+        "word": "这次可让李沁演爽了",
+        "onboard_time": 1712230880,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 149291,
+        "num": 149291,
+        "word": "果然上万年的童子身比较补",
+        "onboard_time": 1712230099,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 147585,
+        "num": 147585,
+        "word": "台湾4.6级地震",
+        "onboard_time": 1712241981,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 144338,
+        "num": 144338,
+        "word": "岳父母要求继承女婿父母留下的房产",
+        "onboard_time": 1712220199,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 132388,
+        "num": 132388,
+        "word": "台湾祭音乐节取消回春丹演出",
+        "onboard_time": 1712240899,
+        "rank": 19,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 448897,
+        "num": 131175,
+        "word": "辅助生殖被纳入4省份医保",
+        "onboard_time": 1712245398,
+        "rank": 20,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 162785,
+        "num": 128903,
+        "word": "四千的工资根本花不完甚至还能存点钱",
+        "onboard_time": 1712242880,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 125735,
+        "num": 125735,
+        "word": "东宫绝世甜剧不是说说而已",
+        "onboard_time": 1712241439,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 125075,
+        "num": 125075,
+        "word": "小伞说Doinb能随时开播",
+        "onboard_time": 1712242640,
+        "rank": 23,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 110973,
+        "num": 110973,
+        "word": "罪犯史泰龙被执行死刑",
+        "onboard_time": 1712229379,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 110224,
+        "num": 110224,
+        "word": "我和老公劝高三儿子放弃高考",
+        "onboard_time": 1712236278,
+        "rank": 25,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 106383,
+        "num": 106383,
+        "word": "与凤行热度",
+        "onboard_time": 1712243240,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 105351,
+        "num": 105351,
+        "word": "瘦了24斤闺蜜说我像张元英",
+        "onboard_time": 1712237240,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 101252,
+        "num": 101252,
+        "word": "黄旭熙solo",
+        "onboard_time": 1712248217,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 73505,
+        "num": 89301,
+        "word": "00后女生凭爱好考上大学",
+        "onboard_time": 1712240720,
+        "rank": 29,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 86406,
+        "num": 86406,
+        "word": "cube新男团",
+        "onboard_time": 1712245278,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 85598,
+        "num": 85598,
+        "word": "为什么infp经常被误认为e人",
+        "onboard_time": 1712238381,
+        "rank": 31,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 85505,
+        "num": 85505,
+        "word": "马丽破产姐妹卡洛琳合作新片",
+        "onboard_time": 1712239460,
+        "rank": 32,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 83536,
+        "num": 83536,
+        "word": "为什么鸟类大多是侧面照",
+        "onboard_time": 1712249056,
+        "rank": 33,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 82949,
+        "num": 82949,
+        "word": "成毅前经纪公司发文",
+        "onboard_time": 1712237480,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 82921,
+        "num": 82921,
+        "word": "辛芷蕾赵昭仪同框拍摄路透",
+        "onboard_time": 1712244618,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 81438,
+        "num": 81438,
+        "word": "冷漠在男女关系里真的好用",
+        "onboard_time": 1712242039,
+        "rank": 36,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 76880,
+        "num": 76880,
+        "word": "吴宣仪cover恶作剧",
+        "onboard_time": 1712248456,
+        "rank": 37,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 72793,
+        "num": 72793,
+        "word": "姜爷爷回应母亲去世坚持送福宝",
+        "onboard_time": 1712231298,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 71090,
+        "num": 71090,
+        "word": "卢昱晓 可塑性",
+        "onboard_time": 1712242339,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 68167,
+        "num": 68167,
+        "word": "宜家怎么沦为了打工人食堂",
+        "onboard_time": 1712235559,
+        "rank": 40,
+        "category": "社会议题"
+      },
+      {
+        "raw_hot": 66602,
+        "num": 66602,
+        "word": "男朋友加了我妈微信",
+        "onboard_time": 1712236039,
+        "rank": 41,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 60225,
+        "num": 60225,
+        "word": "Doinb被偶遇",
+        "onboard_time": 1712223439,
+        "rank": 42,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 59584,
+        "num": 59584,
+        "word": "沈璃行止事后尴尬",
+        "onboard_time": 1712240540,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 63959,
+        "num": 59409,
+        "word": "张婧仪回复卢昱晓",
+        "onboard_time": 1712243899,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 56312,
+        "num": 56312,
+        "word": "郭艾伦秀张元英转圈过人",
+        "onboard_time": 1712241981,
+        "rank": 45,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 55770,
+        "num": 55770,
+        "word": "花楼花楼 我要迪斯尼",
+        "onboard_time": 1712242400,
+        "rank": 46,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 50536,
+        "num": 50536,
+        "word": "金靖cos西施",
+        "onboard_time": 1712232439,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 47572,
+        "num": 47572,
+        "word": "追风者有效播放量破9亿",
+        "onboard_time": 1712243240,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 46079,
+        "num": 46079,
+        "word": "黄晓明自曝胖了30斤",
+        "onboard_time": 1712227098,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#清明祭英烈家国永念#"
+    }
+  }
+}
