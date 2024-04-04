@@ -1,0 +1,410 @@
+{
+  "runTime": 1712236728336,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1884101,
+        "num": 1884101,
+        "word": "徐艺洋发了和黄子韬的合照",
+        "onboard_time": 1712232918,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1059303,
+        "num": 1059303,
+        "word": "比跷二郎腿伤害更大的坐姿",
+        "onboard_time": 1712230338,
+        "rank": 1,
+        "category": "健康医疗,科学科普"
+      },
+      {
+        "raw_hot": 78287,
+        "num": 873722,
+        "word": "古诗词里的清明意境超美",
+        "onboard_time": 1712234959,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 691399,
+        "num": 691399,
+        "word": "林更新工作室",
+        "onboard_time": 1712222057,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 690417,
+        "num": 690417,
+        "word": "姜爷爷回应母亲去世坚持送福宝",
+        "onboard_time": 1712231298,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 650314,
+        "num": 650314,
+        "word": "果然上万年的童子身比较补",
+        "onboard_time": 1712230099,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 605289,
+        "num": 605289,
+        "word": "终于在高铁上发疯了",
+        "onboard_time": 1712225959,
+        "rank": 6,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 585647,
+        "num": 585647,
+        "word": "岳父母要求继承女婿父母留下的房产",
+        "onboard_time": 1712220199,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 461559,
+        "num": 461559,
+        "word": "金靖cos西施",
+        "onboard_time": 1712232439,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 349057,
+        "num": 451428,
+        "word": "福宝在家嘎嘎炫饭",
+        "onboard_time": 1712224218,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1091057,
+        "num": 451244,
+        "word": "行止张嘴了",
+        "onboard_time": 1712221998,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 698902,
+        "num": 449960,
+        "word": "罪犯史泰龙被执行死刑",
+        "onboard_time": 1712229379,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 448223,
+        "num": 448223,
+        "word": "刘雯看到都忍不住学几个动作",
+        "onboard_time": 1712233640,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 439210,
+        "num": 439210,
+        "word": "这次可让李沁演爽了",
+        "onboard_time": 1712230880,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 431253,
+        "num": 431253,
+        "word": "黄晓明自曝胖了30斤",
+        "onboard_time": 1712227098,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 376615,
+        "num": 376615,
+        "word": "管泽元",
+        "onboard_time": 1712233399,
+        "rank": 15,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 362673,
+        "num": 362673,
+        "word": "12306回应高铁走到半路两车乘客互换",
+        "onboard_time": 1712224338,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 348824,
+        "num": 348824,
+        "word": "清明时节雨纷纷可能不是杜牧写的",
+        "onboard_time": 1712230219,
+        "rank": 17,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 312173,
+        "num": 312173,
+        "word": "沈璃吻了个蚌",
+        "onboard_time": 1712232019,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 293181,
+        "num": 293181,
+        "word": "Doinb被偶遇",
+        "onboard_time": 1712223439,
+        "rank": 19,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 388131,
+        "num": 284934,
+        "word": "18岁女生一天给男友打100多个电话",
+        "onboard_time": 1712234540,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 275754,
+        "num": 275754,
+        "word": "沈图南人设",
+        "onboard_time": 1712235679,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 257090,
+        "num": 257090,
+        "word": "zara包",
+        "onboard_time": 1712209158,
+        "rank": 22,
+        "category": "时尚,作品衍生"
+      },
+      {
+        "raw_hot": 244966,
+        "num": 244966,
+        "word": "十个勤天",
+        "onboard_time": 1712235020,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 218945,
+        "num": 218945,
+        "word": "惜花芷造型",
+        "onboard_time": 1712235499,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 218463,
+        "num": 218463,
+        "word": "追风者",
+        "onboard_time": 1712235079,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 210224,
+        "num": 210224,
+        "word": "T1被零封",
+        "onboard_time": 1712232259,
+        "rank": 26,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 200721,
+        "num": 200721,
+        "word": "酒店拖鞋上的洞是干什么用的",
+        "onboard_time": 1712233339,
+        "rank": 27,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 198937,
+        "num": 198937,
+        "word": "老兵带了杯奶茶给24岁牺牲的战友",
+        "onboard_time": 1712233099,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 179072,
+        "num": 198218,
+        "word": "两广地区祭祖有多夸张",
+        "onboard_time": 1712233339,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 315889,
+        "num": 197803,
+        "word": "男朋友加了我妈微信",
+        "onboard_time": 1712236039,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 228267,
+        "num": 195833,
+        "word": "宜家怎么沦为了打工人食堂",
+        "onboard_time": 1712235559,
+        "rank": 31,
+        "category": "社会议题"
+      },
+      {
+        "raw_hot": 223186,
+        "num": 195107,
+        "word": "我和老公劝高三儿子放弃高考",
+        "onboard_time": 1712236278,
+        "rank": 32,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 194536,
+        "num": 194536,
+        "word": "黄子弘凡道歉速度赶不上踩雷速度",
+        "onboard_time": 1712229619,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 191430,
+        "num": 191430,
+        "word": "什么行业没有淡旺季",
+        "onboard_time": 1712235499,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 174229,
+        "num": 174229,
+        "word": "丞磊孔雪儿向佐合照",
+        "onboard_time": 1712236220,
+        "rank": 35,
+        "category": "综艺,综艺"
+      },
+      {
+        "raw_hot": 172137,
+        "num": 172137,
+        "word": "这就是我爸说的讨厌死猫了",
+        "onboard_time": 1712235499,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 167041,
+        "num": 167041,
+        "word": "明兰与花芷 女子本芬芳",
+        "onboard_time": 1712235858,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 146667,
+        "num": 146667,
+        "word": "因为喷香水被同事提醒味道重",
+        "onboard_time": 1712221697,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 165781,
+        "num": 146627,
+        "word": "胡一天 之前对你太大声了",
+        "onboard_time": 1712214677,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 145264,
+        "num": 145264,
+        "word": "小金毛考了全班第一名",
+        "onboard_time": 1712228599,
+        "rank": 40,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 144649,
+        "num": 144649,
+        "word": "章若楠问网友为啥要卖她签名照",
+        "onboard_time": 1712225479,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 142512,
+        "num": 142512,
+        "word": "林更新面子回来了",
+        "onboard_time": 1712224998,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 140817,
+        "num": 140817,
+        "word": "作家加藤幸子去世",
+        "onboard_time": 1712233999,
+        "rank": 43,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 140459,
+        "num": 140459,
+        "word": "为了卖掉房子做了半年中介",
+        "onboard_time": 1712221637,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 138758,
+        "num": 138758,
+        "word": "崔秀彬崔杋圭cha了Magnetic",
+        "onboard_time": 1712234298,
+        "rank": 45,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 136818,
+        "num": 136818,
+        "word": "世界年龄最大男子去世",
+        "onboard_time": 1712217977,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 134536,
+        "num": 134536,
+        "word": "i人打扮成黑皮辣妹接外甥",
+        "onboard_time": 1712236039,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 133813,
+        "num": 133813,
+        "word": "追风者刀麻了",
+        "onboard_time": 1712233399,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 133239,
+        "num": 133239,
+        "word": "赵丽颖林更新公主抱笑场",
+        "onboard_time": 1712236581,
+        "rank": 49,
+        "category": "剧集,艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#清明祭英烈家国永念#"
+    }
+  }
+}

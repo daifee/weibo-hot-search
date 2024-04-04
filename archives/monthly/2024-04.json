@@ -1,6 +1,6 @@
 {
   "startTime": 1711902044401,
-  "endTime": 1712234769365,
+  "endTime": 1712236728336,
   "band_list": [
     {
       "raw_hot": 16874674,
@@ -1795,6 +1795,14 @@
       "category": "电竞,网红"
     },
     {
+      "raw_hot": 691399,
+      "num": 691399,
+      "word": "林更新工作室",
+      "onboard_time": 1712222057,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 691020,
       "num": 691020,
       "word": "高铁晚点",
@@ -2289,14 +2297,6 @@
       "onboard_time": 1711983322,
       "rank": 5,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 606859,
-      "num": 606859,
-      "word": "林更新工作室",
-      "onboard_time": 1712222057,
-      "rank": 15,
-      "category": "艺人"
     },
     {
       "raw_hot": 604745,
@@ -3083,6 +3083,14 @@
       "category": "游戏,艺人"
     },
     {
+      "raw_hot": 461559,
+      "num": 461559,
+      "word": "金靖cos西施",
+      "onboard_time": 1712232439,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 460847,
       "num": 460847,
       "word": "前有王传君拜佛 后有王劲松上香",
@@ -3195,6 +3203,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 448223,
+      "num": 448223,
+      "word": "刘雯看到都忍不住学几个动作",
+      "onboard_time": 1712233640,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 447567,
       "num": 447567,
       "word": "四川话果赖成功召唤福宝",
@@ -3265,6 +3281,14 @@
       "onboard_time": 1712138481,
       "rank": 21,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 439210,
+      "num": 439210,
+      "word": "这次可让李沁演爽了",
+      "onboard_time": 1712230880,
+      "rank": 15,
+      "category": "剧集"
     },
     {
       "raw_hot": 438279,
@@ -3425,14 +3449,6 @@
       "onboard_time": 1711984639,
       "rank": 26,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 424186,
-      "num": 424186,
-      "word": "这次可让李沁演爽了",
-      "onboard_time": 1712230880,
-      "rank": 15,
-      "category": "剧集"
     },
     {
       "raw_hot": 423211,
@@ -3707,6 +3723,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 388131,
+      "num": 284934,
+      "word": "18岁女生一天给男友打100多个电话",
+      "onboard_time": 1712234540,
+      "rank": 31,
+      "category": "情感"
+    },
+    {
       "raw_hot": 387801,
       "num": 387801,
       "word": "BamBam 谈恋爱有什么错吗",
@@ -3753,14 +3777,6 @@
       "onboard_time": 1711965563,
       "rank": 17,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 383518,
-      "num": 383518,
-      "word": "金靖cos西施",
-      "onboard_time": 1712232439,
-      "rank": 18,
-      "category": "综艺"
     },
     {
       "raw_hot": 383271,
@@ -3841,6 +3857,14 @@
       "onboard_time": 1711943782,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 376615,
+      "num": 376615,
+      "word": "管泽元",
+      "onboard_time": 1712233399,
+      "rank": 25,
+      "category": "电竞"
     },
     {
       "raw_hot": 376103,
@@ -4435,6 +4459,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 315889,
+      "num": 197803,
+      "word": "男朋友加了我妈微信",
+      "onboard_time": 1712236039,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 315454,
       "num": 315454,
       "word": "为什么你睡醒后腰酸背痛",
@@ -4481,6 +4513,14 @@
       "onboard_time": 1712104533,
       "rank": 34,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 312173,
+      "num": 312173,
+      "word": "沈璃吻了个蚌",
+      "onboard_time": 1712232019,
+      "rank": 22,
+      "category": "剧集"
     },
     {
       "raw_hot": 311877,
@@ -4635,14 +4675,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 303639,
-      "num": 189502,
-      "word": "刘雯看到都忍不住学几个动作",
-      "onboard_time": 1712233640,
-      "rank": 35,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 302879,
       "num": 302879,
       "word": "狭管效应",
@@ -4673,14 +4705,6 @@
       "onboard_time": 1712047518,
       "rank": 21,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 300490,
-      "num": 300490,
-      "word": "管泽元",
-      "onboard_time": 1712233399,
-      "rank": 25,
-      "category": "电竞"
     },
     {
       "raw_hot": 299718,
@@ -4939,14 +4963,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 281293,
-      "num": 281293,
-      "word": "沈璃吻了个蚌",
-      "onboard_time": 1712232019,
-      "rank": 22,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 281212,
       "num": 281212,
       "word": "张杰海南新公司成立",
@@ -5041,6 +5057,14 @@
       "onboard_time": 1712214559,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 275754,
+      "num": 275754,
+      "word": "沈图南人设",
+      "onboard_time": 1712235679,
+      "rank": 21,
+      "category": "剧集"
     },
     {
       "raw_hot": 275439,
@@ -5619,6 +5643,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 244966,
+      "num": 244966,
+      "word": "十个勤天",
+      "onboard_time": 1712235020,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 244579,
       "num": 244579,
       "word": "中国黄金回应上亿元托管黄金消失",
@@ -5979,14 +6011,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 231773,
-      "num": 188546,
-      "word": "18岁女生一天给男友打100多个电话",
-      "onboard_time": 1712234540,
-      "rank": 31,
-      "category": "情感"
-    },
-    {
       "raw_hot": 231434,
       "num": 231434,
       "word": "马斯克称AI毁灭人类的可能性为20%",
@@ -6041,6 +6065,14 @@
       "onboard_time": 1712103632,
       "rank": 44,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 228267,
+      "num": 195833,
+      "word": "宜家怎么沦为了打工人食堂",
+      "onboard_time": 1712235559,
+      "rank": 31,
+      "category": "社会议题"
     },
     {
       "raw_hot": 228251,
@@ -6195,6 +6227,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 223186,
+      "num": 195107,
+      "word": "我和老公劝高三儿子放弃高考",
+      "onboard_time": 1712236278,
+      "rank": 32,
+      "category": "教育"
+    },
+    {
       "raw_hot": 223095,
       "num": 223095,
       "word": "田曦薇背沟",
@@ -6299,12 +6339,28 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 218945,
+      "num": 218945,
+      "word": "惜花芷造型",
+      "onboard_time": 1712235499,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 218625,
       "num": 218625,
       "word": "我的自卑有一半是妈妈带来的",
       "onboard_time": 1712198178,
       "rank": 49,
       "category": "情感"
+    },
+    {
+      "raw_hot": 218463,
+      "num": 218463,
+      "word": "追风者",
+      "onboard_time": 1712148199,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 218129,
@@ -7419,6 +7475,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 191430,
+      "num": 191430,
+      "word": "什么行业没有淡旺季",
+      "onboard_time": 1712235499,
+      "rank": 34,
+      "category": "情感"
+    },
+    {
       "raw_hot": 191394,
       "num": 191394,
       "word": "雷军称今天非常开心",
@@ -7460,7 +7524,7 @@
     },
     {
       "raw_hot": 190534,
-      "num": 190534,
+      "num": 198218,
       "word": "两广地区祭祖有多夸张",
       "onboard_time": 1712233339,
       "rank": 34,
@@ -8139,6 +8203,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 174229,
+      "num": 174229,
+      "word": "丞磊孔雪儿向佐合照",
+      "onboard_time": 1712236220,
+      "rank": 35,
+      "category": "综艺,综艺"
+    },
+    {
       "raw_hot": 174014,
       "num": 174014,
       "word": "李汶翰让站姐入职",
@@ -8217,6 +8289,14 @@
       "onboard_time": 1712066960,
       "rank": 40,
       "category": "体育"
+    },
+    {
+      "raw_hot": 172137,
+      "num": 172137,
+      "word": "这就是我爸说的讨厌死猫了",
+      "onboard_time": 1712235499,
+      "rank": 36,
+      "category": "幽默"
     },
     {
       "raw_hot": 171838,
@@ -8385,6 +8465,14 @@
       "onboard_time": 1711976361,
       "rank": 44,
       "category": "情感"
+    },
+    {
+      "raw_hot": 167041,
+      "num": 167041,
+      "word": "明兰与花芷 女子本芬芳",
+      "onboard_time": 1712235858,
+      "rank": 37,
+      "category": "剧集"
     },
     {
       "raw_hot": 166990,
@@ -9275,14 +9363,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 147838,
-      "num": 147838,
-      "word": "追风者",
-      "onboard_time": 1712148199,
-      "rank": 48,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 147825,
       "num": 147825,
       "word": "最美是人间四月的天",
@@ -9851,6 +9931,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 134536,
+      "num": 134536,
+      "word": "i人打扮成黑皮辣妹接外甥",
+      "onboard_time": 1712236039,
+      "rank": 47,
+      "category": "情感"
+    },
+    {
       "raw_hot": 134441,
       "num": 134441,
       "word": "赵丽颖琼瑶式哭戏",
@@ -9889,6 +9977,14 @@
       "onboard_time": 1712204836,
       "rank": 47,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 133239,
+      "num": 133239,
+      "word": "赵丽颖林更新公主抱笑场",
+      "onboard_time": 1712236581,
+      "rank": 49,
+      "category": "剧集,艺人"
     },
     {
       "raw_hot": 133160,
@@ -10649,6 +10745,14 @@
       "onboard_time": 1712096953,
       "rank": 49,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 78287,
+      "num": 873722,
+      "word": "古诗词里的清明意境超美",
+      "onboard_time": 1712234959,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 76275,
