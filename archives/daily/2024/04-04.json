@@ -1,6 +1,6 @@
 {
   "startTime": 1712161260598,
-  "endTime": 1712230453315,
+  "endTime": 1712233910696,
   "band_list": [
     {
       "raw_hot": 2366026,
@@ -75,6 +75,14 @@
       "category": "时尚,作品衍生"
     },
     {
+      "raw_hot": 1385841,
+      "num": 1385841,
+      "word": "徐艺洋发了和黄子韬的合照",
+      "onboard_time": 1712232918,
+      "rank": 0,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1371234,
       "num": 1371234,
       "word": "去客厅化",
@@ -89,6 +97,14 @@
       "onboard_time": 1712223439,
       "rank": 1,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 1296410,
+      "num": 1296410,
+      "word": "比跷二郎腿伤害更大的坐姿",
+      "onboard_time": 1712230338,
+      "rank": 45,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 1288666,
@@ -203,6 +219,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 992537,
+      "num": 586654,
+      "word": "罪犯史泰龙被执行死刑",
+      "onboard_time": 1712229379,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 979564,
       "num": 979564,
       "word": "福宝回家了",
@@ -283,6 +307,14 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 747005,
+      "num": 747005,
+      "word": "姜爷爷回应母亲去世坚持送福宝",
+      "onboard_time": 1712231298,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 735526,
       "num": 694336,
       "word": "世界年龄最大男子去世",
@@ -313,6 +345,14 @@
       "onboard_time": 1712226138,
       "rank": 22,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 677794,
+      "num": 677794,
+      "word": "果然上万年的童子身比较补",
+      "onboard_time": 1712230099,
+      "rank": 31,
+      "category": "剧集"
     },
     {
       "raw_hot": 673155,
@@ -427,6 +467,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 579452,
+      "num": 579452,
+      "word": "林更新工作室",
+      "onboard_time": 1712222057,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 559919,
       "num": 559919,
       "word": "长期不上班是什么状态",
@@ -449,14 +497,6 @@
       "onboard_time": 1712201898,
       "rank": 12,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 539202,
-      "num": 539202,
-      "word": "罪犯史泰龙被执行死刑",
-      "onboard_time": 1712229379,
-      "rank": 12,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 527723,
@@ -521,14 +561,6 @@
       "onboard_time": 1712219477,
       "rank": 40,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 505994,
-      "num": 505994,
-      "word": "林更新工作室",
-      "onboard_time": 1712222057,
-      "rank": 15,
-      "category": "艺人"
     },
     {
       "raw_hot": 499821,
@@ -601,6 +633,14 @@
       "onboard_time": 1712208557,
       "rank": 35,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 417094,
+      "num": 417094,
+      "word": "纸扎SU7",
+      "onboard_time": 1712230998,
+      "rank": 13,
+      "category": "汽车"
     },
     {
       "raw_hot": 416887,
@@ -755,6 +795,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 358211,
+      "num": 358211,
+      "word": "这次可让李沁演爽了",
+      "onboard_time": 1712230880,
+      "rank": 15,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 356312,
       "num": 356312,
       "word": "白鹿罗云熙或三搭",
@@ -777,6 +825,14 @@
       "onboard_time": 1712223980,
       "rank": 14,
       "category": "综艺,游戏"
+    },
+    {
+      "raw_hot": 347604,
+      "num": 347604,
+      "word": "黄子弘凡道歉速度赶不上踩雷速度",
+      "onboard_time": 1712229619,
+      "rank": 19,
+      "category": "综艺"
     },
     {
       "raw_hot": 346014,
@@ -825,6 +881,14 @@
       "onboard_time": 1712127921,
       "rank": 20,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 332025,
+      "num": 332025,
+      "word": "金靖cos西施",
+      "onboard_time": 1712232439,
+      "rank": 18,
+      "category": "综艺"
     },
     {
       "raw_hot": 327750,
@@ -1003,12 +1067,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 266062,
-      "num": 266062,
-      "word": "黄子弘凡道歉速度赶不上踩雷速度",
-      "onboard_time": 1712229619,
-      "rank": 19,
-      "category": "综艺"
+      "raw_hot": 266700,
+      "num": 266700,
+      "word": "清明时节雨纷纷可能不是杜牧写的",
+      "onboard_time": 1712230219,
+      "rank": 43,
+      "category": "读书作家"
     },
     {
       "raw_hot": 263407,
@@ -1041,6 +1105,14 @@
       "onboard_time": 1712203459,
       "rank": 23,
       "category": "情感"
+    },
+    {
+      "raw_hot": 260998,
+      "num": 260998,
+      "word": "沈璃吻了个蚌",
+      "onboard_time": 1712232019,
+      "rank": 22,
+      "category": "剧集"
     },
     {
       "raw_hot": 260407,
@@ -1235,6 +1307,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 213420,
+      "num": 213420,
+      "word": "T1被零封",
+      "onboard_time": 1712232259,
+      "rank": 24,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 212331,
       "num": 212331,
       "word": "没想到生鸡蛋煮熟就会变成水煮蛋",
@@ -1289,6 +1369,14 @@
       "onboard_time": 1712222237,
       "rank": 43,
       "category": "情感"
+    },
+    {
+      "raw_hot": 204270,
+      "num": 204270,
+      "word": "管泽元",
+      "onboard_time": 1712233399,
+      "rank": 25,
+      "category": "电竞"
     },
     {
       "raw_hot": 200657,
@@ -1377,14 +1465,6 @@
       "onboard_time": 1712220496,
       "rank": 25,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 193563,
-      "num": 193563,
-      "word": "果然上万年的童子身比较补",
-      "onboard_time": 1712230099,
-      "rank": 31,
-      "category": "剧集"
     },
     {
       "raw_hot": 191926,
@@ -1539,6 +1619,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 176031,
+      "num": 176031,
+      "word": "酒店拖鞋上的洞是干什么用的",
+      "onboard_time": 1712233339,
+      "rank": 30,
+      "category": "科学科普"
+    },
+    {
+      "raw_hot": 175727,
+      "num": 175727,
+      "word": "官方通报奔驰车碾压孩子",
+      "onboard_time": 1712230278,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 175123,
       "num": 175123,
       "word": "建议三搭看看实力",
@@ -1587,6 +1683,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 165501,
+      "num": 165501,
+      "word": "老兵带了杯奶茶给24岁牺牲的战友",
+      "onboard_time": 1712233099,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 165186,
       "num": 165186,
       "word": "清明时节雨纷纷",
@@ -1609,6 +1713,22 @@
       "onboard_time": 1712222957,
       "rank": 44,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 162207,
+      "num": 162207,
+      "word": "两广地区祭祖有多夸张",
+      "onboard_time": 1712233339,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 161229,
+      "num": 161229,
+      "word": "刘雯看到都忍不住学几个动作",
+      "onboard_time": 1712233640,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 159924,
@@ -1763,6 +1883,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 148714,
+      "num": 148714,
+      "word": "追风者刀麻了",
+      "onboard_time": 1712233399,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 148066,
       "num": 148066,
       "word": "黄旭熙新歌舞蹈挑战",
@@ -1803,14 +1931,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 145855,
-      "num": 145855,
-      "word": "清明时节雨纷纷可能不是杜牧写的",
-      "onboard_time": 1712230219,
-      "rank": 43,
-      "category": "读书作家"
-    },
-    {
       "raw_hot": 144152,
       "num": 144152,
       "word": "警察拍的短剧太刀了",
@@ -1841,14 +1961,6 @@
       "onboard_time": 1712194278,
       "rank": 47,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 142153,
-      "num": 142153,
-      "word": "比跷二郎腿伤害更大的坐姿",
-      "onboard_time": 1712230338,
-      "rank": 45,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 141687,
@@ -1939,6 +2051,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 135620,
+      "num": 135620,
+      "word": "50元和1000元的瑜伽裤究竟有何差别",
+      "onboard_time": 1712232678,
+      "rank": 42,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 135516,
       "num": 135516,
       "word": "吴磊直播流鼻血",
@@ -1961,14 +2081,6 @@
       "onboard_time": 1712210778,
       "rank": 46,
       "category": "情感"
-    },
-    {
-      "raw_hot": 134796,
-      "num": 134796,
-      "word": "官方通报奔驰车碾压孩子",
-      "onboard_time": 1712230278,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 133860,
@@ -2083,6 +2195,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 123042,
+      "num": 123042,
+      "word": "威姆斯称从未回避药检",
+      "onboard_time": 1712233579,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 122928,
       "num": 122928,
       "word": "王鹤棣于适 新电影",
@@ -2105,6 +2225,14 @@
       "onboard_time": 1712161096,
       "rank": 46,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 121431,
+      "num": 121431,
+      "word": "高叶泪痣",
+      "onboard_time": 1712231658,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 120883,
@@ -2348,7 +2476,7 @@
     },
     {
       "raw_hot": 51452,
-      "num": 172528,
+      "num": 1009142,
       "word": "在春天思念你们",
       "onboard_time": 1712218159,
       "rank": 34,
