@@ -1,6 +1,6 @@
 {
   "startTime": 1712247709633,
-  "endTime": 1712252064566,
+  "endTime": 1712254949625,
   "band_list": [
     {
       "raw_hot": 1533243,
@@ -20,7 +20,7 @@
     },
     {
       "raw_hot": 584678,
-      "num": 237628,
+      "num": 397714,
       "word": "辅助生殖被纳入4省份医保",
       "onboard_time": 1712245398,
       "rank": 20,
@@ -427,6 +427,22 @@
       "category": "教育"
     },
     {
+      "raw_hot": 71585,
+      "num": 71585,
+      "word": "宫崎骏新作 完美的谢幕",
+      "onboard_time": 1712253133,
+      "rank": 21,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 59476,
+      "num": 59476,
+      "word": "小米SU7锁单前退定金即时到账",
+      "onboard_time": 1712251633,
+      "rank": 45,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 55915,
       "num": 526207,
       "word": "古诗词里的清明意境超美",
@@ -435,12 +451,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 45169,
-      "num": 45169,
-      "word": "小米SU7锁单前退定金即时到账",
-      "onboard_time": 1712251633,
-      "rank": 45,
-      "category": "汽车"
+      "raw_hot": 43197,
+      "num": 43197,
+      "word": "回春丹献唱穿过月亮的旅行",
+      "onboard_time": 1712254333,
+      "rank": 33,
+      "category": "电影"
     },
     {
       "raw_hot": 37005,
