@@ -1,6 +1,6 @@
 {
   "startTime": 1712161260598,
-  "endTime": 1712204557566,
+  "endTime": 1712205310978,
   "band_list": [
     {
       "raw_hot": 1943413,
@@ -219,6 +219,30 @@
       "category": "母婴育儿,科学科普"
     },
     {
+      "raw_hot": 584992,
+      "num": 584992,
+      "word": "各大平台禁止售卖分装化妆品",
+      "onboard_time": 1712203220,
+      "rank": 14,
+      "category": "美妆"
+    },
+    {
+      "raw_hot": 553666,
+      "num": 553666,
+      "word": "官方回应福宝被人不戴手套戳",
+      "onboard_time": 1712204359,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 542059,
+      "num": 542059,
+      "word": "原来韩国人追剧不看字幕的",
+      "onboard_time": 1712201898,
+      "rank": 12,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 527723,
       "num": 427952,
       "word": "月经出现这5种情况说明子宫健康",
@@ -259,6 +283,14 @@
       "category": "军事,国外时政"
     },
     {
+      "raw_hot": 483980,
+      "num": 483980,
+      "word": "福宝尚不满4岁",
+      "onboard_time": 1712203276,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 481827,
       "num": 481827,
       "word": "谈恋爱三个月定律",
@@ -280,22 +312,6 @@
       "word": "前有王传君拜佛 后有王劲松上香",
       "onboard_time": 1712158340,
       "rank": 9,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 453566,
-      "num": 453566,
-      "word": "福宝尚不满4岁",
-      "onboard_time": 1712203276,
-      "rank": 8,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 431221,
-      "num": 431221,
-      "word": "原来韩国人追剧不看字幕的",
-      "onboard_time": 1712201898,
-      "rank": 12,
       "category": "剧集"
     },
     {
@@ -331,20 +347,20 @@
       "category": "教育"
     },
     {
+      "raw_hot": 405758,
+      "num": 282847,
+      "word": "为什么很多漂亮女生却没人追",
+      "onboard_time": 1712201118,
+      "rank": 22,
+      "category": "情感"
+    },
+    {
       "raw_hot": 405704,
       "num": 405704,
       "word": "老师用P过的照片吸引同学来上课",
       "onboard_time": 1712145859,
       "rank": 14,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 403982,
-      "num": 282847,
-      "word": "为什么很多漂亮女生却没人追",
-      "onboard_time": 1712201118,
-      "rank": 22,
-      "category": "情感"
     },
     {
       "raw_hot": 397858,
@@ -393,14 +409,6 @@
       "onboard_time": 1712143820,
       "rank": 15,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 357586,
-      "num": 357586,
-      "word": "各大平台禁止售卖分装化妆品",
-      "onboard_time": 1712203220,
-      "rank": 14,
-      "category": "美妆"
     },
     {
       "raw_hot": 356312,
@@ -515,14 +523,6 @@
       "category": "科学科普"
     },
     {
-      "raw_hot": 283703,
-      "num": 283703,
-      "word": "官方回应福宝被人不戴手套戳",
-      "onboard_time": 1712204359,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 276951,
       "num": 276951,
       "word": "王一博裴佳欣对手戏",
@@ -555,6 +555,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 262196,
+      "num": 262196,
+      "word": "因为一个清明我选择退群了",
+      "onboard_time": 1712203459,
+      "rank": 23,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 260407,
+      "num": 260407,
+      "word": "央视认证追风者是佳作",
+      "onboard_time": 1712204180,
+      "rank": 22,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 258937,
       "num": 229553,
       "word": "爱奇艺副总裁探班种地吧",
@@ -571,28 +587,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 253907,
-      "num": 253907,
-      "word": "央视认证追风者是佳作",
-      "onboard_time": 1712204180,
-      "rank": 22,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 253091,
-      "num": 253091,
-      "word": "因为一个清明我选择退群了",
-      "onboard_time": 1712203459,
-      "rank": 23,
-      "category": "情感"
-    },
-    {
       "raw_hot": 248752,
       "num": 248752,
       "word": "为什么年轻人不愿意买房了",
       "onboard_time": 1712200458,
       "rank": 27,
       "category": "情感"
+    },
+    {
+      "raw_hot": 247979,
+      "num": 247979,
+      "word": "声入人心团综",
+      "onboard_time": 1712205078,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 245890,
@@ -619,12 +627,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 226157,
-      "num": 226157,
+      "raw_hot": 226404,
+      "num": 226404,
       "word": "名创优品",
       "onboard_time": 1712200878,
       "rank": 38,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 221627,
+      "num": 221627,
+      "word": "姜爷爷",
+      "onboard_time": 1712204717,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 219751,
@@ -771,6 +787,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 182091,
+      "num": 182091,
+      "word": "因为查寝不在辅导员让我退学",
+      "onboard_time": 1712204598,
+      "rank": 34,
+      "category": "情感"
+    },
+    {
       "raw_hot": 181487,
       "num": 181487,
       "word": "白敬亭难哄校服路透",
@@ -793,6 +817,14 @@
       "onboard_time": 1712155103,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 177039,
+      "num": 177039,
+      "word": "男朋友的小姨没有边际感",
+      "onboard_time": 1712205078,
+      "rank": 35,
+      "category": "幽默"
     },
     {
       "raw_hot": 177003,
@@ -1033,6 +1065,14 @@
       "onboard_time": 1712152822,
       "rank": 37,
       "category": "教育"
+    },
+    {
+      "raw_hot": 133252,
+      "num": 133252,
+      "word": "上过学的才懂这个位置的含金量",
+      "onboard_time": 1712204836,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 129765,
