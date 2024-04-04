@@ -1,0 +1,410 @@
+{
+  "runTime": 1712225912966,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1585751,
+        "num": 1585751,
+        "word": "岳父母要求继承女婿父母留下的房产",
+        "onboard_time": 1712220199,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1363561,
+        "num": 1363561,
+        "word": "Doinb被偶遇",
+        "onboard_time": 1712223439,
+        "rank": 1,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 57220,
+        "num": 968121,
+        "word": "先辈炽热滚烫的信仰我们永远记得",
+        "onboard_time": 1712218577,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 753502,
+        "num": 753502,
+        "word": "福宝在家嘎嘎炫饭",
+        "onboard_time": 1712224218,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 680358,
+        "num": 680358,
+        "word": "今年清明为啥是4月4日",
+        "onboard_time": 1712216898,
+        "rank": 4,
+        "category": "社会新闻,社会议题"
+      },
+      {
+        "raw_hot": 662064,
+        "num": 662064,
+        "word": "高伟光连发35条微博",
+        "onboard_time": 1712218818,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 542191,
+        "num": 542191,
+        "word": "zara包",
+        "onboard_time": 1712209158,
+        "rank": 6,
+        "category": "时尚,作品衍生"
+      },
+      {
+        "raw_hot": 1701487,
+        "num": 529182,
+        "word": "行止张嘴了",
+        "onboard_time": 1712221998,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 229444,
+        "num": 484589,
+        "word": "福宝的首选是红苹果",
+        "onboard_time": 1712207539,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 474450,
+        "num": 474450,
+        "word": "世界年龄最大男子去世",
+        "onboard_time": 1712217977,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 459568,
+        "num": 459568,
+        "word": "库克套现2.4亿元股票",
+        "onboard_time": 1712222599,
+        "rank": 10,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 437422,
+        "num": 437422,
+        "word": "12306回应高铁走到半路两车乘客互换",
+        "onboard_time": 1712224338,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 430216,
+        "num": 430216,
+        "word": "姜爷爷希望福宝回中国不要改名字",
+        "onboard_time": 1712209038,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 417193,
+        "num": 417193,
+        "word": "200元快住不起经济型酒店",
+        "onboard_time": 1712219477,
+        "rank": 13,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 350827,
+        "num": 350827,
+        "word": "于文文cos露娜",
+        "onboard_time": 1712223980,
+        "rank": 14,
+        "category": "综艺,游戏"
+      },
+      {
+        "raw_hot": 346805,
+        "num": 346805,
+        "word": "三十岁才会发现戴珍珠的美",
+        "onboard_time": 1712206338,
+        "rank": 15,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 325128,
+        "num": 325128,
+        "word": "原来清明并不是放三天补一天",
+        "onboard_time": 1712195299,
+        "rank": 16,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 322959,
+        "num": 322959,
+        "word": "不建议吃冷青团",
+        "onboard_time": 1712222237,
+        "rank": 17,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 322146,
+        "num": 322146,
+        "word": "朴彩英综艺主题曲上线",
+        "onboard_time": 1712222719,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 318799,
+        "num": 318799,
+        "word": "胡一天 之前对你太大声了",
+        "onboard_time": 1712214677,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 317886,
+        "num": 317886,
+        "word": "林更新工作室",
+        "onboard_time": 1712222057,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 292896,
+        "num": 292896,
+        "word": "章若楠问网友为啥要卖她签名照",
+        "onboard_time": 1712225479,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 290387,
+        "num": 290387,
+        "word": "为了卖掉房子做了半年中介",
+        "onboard_time": 1712221637,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 287074,
+        "num": 287074,
+        "word": "因为喷香水被同事提醒味道重",
+        "onboard_time": 1712221697,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 249182,
+        "num": 249182,
+        "word": "日日鲜烧烤7个人串肉根本串不完",
+        "onboard_time": 1712224700,
+        "rank": 24,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 284346,
+        "num": 248961,
+        "word": "林更新把赵丽颖说的话拉成横幅",
+        "onboard_time": 1712220558,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 238021,
+        "num": 238021,
+        "word": "玩了五年的闺蜜朋友圈把我屏蔽了",
+        "onboard_time": 1712225479,
+        "rank": 26,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 237082,
+        "num": 237082,
+        "word": "邓科你也真是的",
+        "onboard_time": 1712222898,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 222279,
+        "num": 222279,
+        "word": "学会开车后感觉世界观变了",
+        "onboard_time": 1712213658,
+        "rank": 28,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 206431,
+        "num": 206431,
+        "word": "病态式恋爱",
+        "onboard_time": 1712224637,
+        "rank": 29,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 262808,
+        "num": 201129,
+        "word": "林更新面子回来了",
+        "onboard_time": 1712224998,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 210274,
+        "num": 199966,
+        "word": "妈妈让我把彩礼花光",
+        "onboard_time": 1712224877,
+        "rank": 31,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 191926,
+        "num": 191926,
+        "word": "FINAL LOVE SONG",
+        "onboard_time": 1712225298,
+        "rank": 32,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 177231,
+        "num": 177231,
+        "word": "宋亚轩搜普钩gi",
+        "onboard_time": 1712225718,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 176347,
+        "num": 176347,
+        "word": "行影不璃圆房前奏吻",
+        "onboard_time": 1712223739,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 175876,
+        "num": 175876,
+        "word": "为什么现在住院都要问学历了",
+        "onboard_time": 1712212158,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 164697,
+        "num": 164697,
+        "word": "张艺兴被问带领华语音乐走到哪了",
+        "onboard_time": 1712220496,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 163849,
+        "num": 163849,
+        "word": "没想到生鸡蛋煮熟就会变成水煮蛋",
+        "onboard_time": 1712225420,
+        "rank": 37,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 162406,
+        "num": 162406,
+        "word": "柯南来了都得看监控",
+        "onboard_time": 1712222957,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 154401,
+        "num": 154401,
+        "word": "钟辰乐受伤",
+        "onboard_time": 1712221459,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 147388,
+        "num": 147388,
+        "word": "妈妈生日送花被直接丢了出来",
+        "onboard_time": 1712222237,
+        "rank": 40,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 146898,
+        "num": 146898,
+        "word": "墓碑上二维码",
+        "onboard_time": 1712222898,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 144891,
+        "num": 144891,
+        "word": "地震时男孩一把抱起同桌往外冲",
+        "onboard_time": 1712209097,
+        "rank": 42,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 144152,
+        "num": 144152,
+        "word": "警察拍的短剧太刀了",
+        "onboard_time": 1712225178,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 139824,
+        "num": 139824,
+        "word": "最功利的婚姻 最动情的约定",
+        "onboard_time": 1712225058,
+        "rank": 44,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 133837,
+        "num": 133837,
+        "word": "T1对战HLE",
+        "onboard_time": 1712223079,
+        "rank": 45,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 130151,
+        "num": 130151,
+        "word": "运动瘦脸才能真正的瘦脸",
+        "onboard_time": 1712209158,
+        "rank": 46,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 127600,
+        "num": 127600,
+        "word": "官方回应福宝被人不戴手套戳",
+        "onboard_time": 1712204359,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 125825,
+        "num": 125825,
+        "word": "与凤行",
+        "onboard_time": 1712221278,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 125250,
+        "num": 125250,
+        "word": "iPhone16全家福机模曝光",
+        "onboard_time": 1712208979,
+        "rank": 49,
+        "category": "数码"
+      }
+    ],
+    "hotgov": {
+      "word": "#清明祭英烈家国永念#"
+    }
+  }
+}

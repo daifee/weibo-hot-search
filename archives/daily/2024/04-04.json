@@ -1,6 +1,6 @@
 {
   "startTime": 1712161260598,
-  "endTime": 1712223346749,
+  "endTime": 1712225912966,
   "band_list": [
     {
       "raw_hot": 2366026,
@@ -51,6 +51,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1585751,
+      "num": 1585751,
+      "word": "岳父母要求继承女婿父母留下的房产",
+      "onboard_time": 1712220199,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1551813,
       "num": 1551813,
       "word": "各大平台禁止售卖分装化妆品",
@@ -75,12 +83,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 1360158,
-      "num": 1360158,
-      "word": "岳父母要求继承女婿父母留下的房产",
-      "onboard_time": 1712220199,
-      "rank": 10,
-      "category": "社会新闻"
+      "raw_hot": 1363561,
+      "num": 1363561,
+      "word": "Doinb被偶遇",
+      "onboard_time": 1712223439,
+      "rank": 1,
+      "category": "电竞"
     },
     {
       "raw_hot": 1288666,
@@ -233,6 +241,14 @@
       "onboard_time": 1712151442,
       "rank": 3,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 753502,
+      "num": 753502,
+      "word": "福宝在家嘎嘎炫饭",
+      "onboard_time": 1712224218,
+      "rank": 3,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 735526,
@@ -499,11 +515,27 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 459568,
+      "num": 459568,
+      "word": "库克套现2.4亿元股票",
+      "onboard_time": 1712222599,
+      "rank": 22,
+      "category": "财经"
+    },
+    {
       "raw_hot": 447567,
       "num": 447567,
       "word": "四川话果赖成功召唤福宝",
       "onboard_time": 1712208557,
       "rank": 35,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 437422,
+      "num": 437422,
+      "word": "12306回应高铁走到半路两车乘客互换",
+      "onboard_time": 1712224338,
+      "rank": 11,
       "category": "社会新闻"
     },
     {
@@ -604,7 +636,7 @@
     },
     {
       "raw_hot": 381327,
-      "num": 226137,
+      "num": 287074,
       "word": "因为喷香水被同事提醒味道重",
       "onboard_time": 1712221697,
       "rank": 31,
@@ -665,6 +697,14 @@
       "onboard_time": 1712208979,
       "rank": 20,
       "category": "数码"
+    },
+    {
+      "raw_hot": 350827,
+      "num": 350827,
+      "word": "于文文cos露娜",
+      "onboard_time": 1712223980,
+      "rank": 14,
+      "category": "综艺,游戏"
     },
     {
       "raw_hot": 346014,
@@ -739,6 +779,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 322959,
+      "num": 322959,
+      "word": "不建议吃冷青团",
+      "onboard_time": 1712222237,
+      "rank": 49,
+      "category": "美食"
+    },
+    {
       "raw_hot": 318592,
       "num": 318592,
       "word": "台湾强震前网上现天空异象照片",
@@ -787,6 +835,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 292896,
+      "num": 292896,
+      "word": "章若楠问网友为啥要卖她签名照",
+      "onboard_time": 1712225479,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 292594,
       "num": 292594,
       "word": "行止不行",
@@ -809,6 +865,14 @@
       "onboard_time": 1712202738,
       "rank": 17,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 290387,
+      "num": 290387,
+      "word": "为了卖掉房子做了半年中介",
+      "onboard_time": 1712221637,
+      "rank": 30,
+      "category": "情感"
     },
     {
       "raw_hot": 285334,
@@ -843,14 +907,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 274459,
-      "num": 225344,
-      "word": "为了卖掉房子做了半年中介",
-      "onboard_time": 1712221637,
-      "rank": 30,
-      "category": "情感"
-    },
-    {
       "raw_hot": 273258,
       "num": 273258,
       "word": "全校唯一一个自驾上学的高中生",
@@ -872,6 +928,14 @@
       "word": "林更新狗过但没丑过",
       "onboard_time": 1712194939,
       "rank": 25,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 262808,
+      "num": 201129,
+      "word": "林更新面子回来了",
+      "onboard_time": 1712224998,
+      "rank": 30,
       "category": "剧集"
     },
     {
@@ -931,6 +995,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 249182,
+      "num": 249182,
+      "word": "日日鲜烧烤7个人串肉根本串不完",
+      "onboard_time": 1712224700,
+      "rank": 24,
+      "category": "美食"
+    },
+    {
       "raw_hot": 248752,
       "num": 248752,
       "word": "为什么年轻人不愿意买房了",
@@ -961,6 +1033,22 @@
       "onboard_time": 1712207119,
       "rank": 24,
       "category": "动漫,作品衍生"
+    },
+    {
+      "raw_hot": 238021,
+      "num": 238021,
+      "word": "玩了五年的闺蜜朋友圈把我屏蔽了",
+      "onboard_time": 1712225479,
+      "rank": 26,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 237082,
+      "num": 237082,
+      "word": "邓科你也真是的",
+      "onboard_time": 1712222898,
+      "rank": 24,
+      "category": "剧集"
     },
     {
       "raw_hot": 229211,
@@ -1027,14 +1115,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 216347,
-      "num": 216347,
-      "word": "库克套现2.4亿元股票",
-      "onboard_time": 1712222599,
-      "rank": 22,
-      "category": "财经"
-    },
-    {
       "raw_hot": 215775,
       "num": 215775,
       "word": "与凤行",
@@ -1059,12 +1139,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 207850,
-      "num": 207850,
-      "word": "不建议吃冷青团",
-      "onboard_time": 1712222237,
-      "rank": 49,
-      "category": "美食"
+      "raw_hot": 210274,
+      "num": 199966,
+      "word": "妈妈让我把彩礼花光",
+      "onboard_time": 1712224877,
+      "rank": 31,
+      "category": "情感"
     },
     {
       "raw_hot": 206867,
@@ -1075,12 +1155,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 206220,
-      "num": 206220,
-      "word": "邓科你也真是的",
-      "onboard_time": 1712222898,
-      "rank": 24,
-      "category": "剧集"
+      "raw_hot": 206431,
+      "num": 206431,
+      "word": "病态式恋爱",
+      "onboard_time": 1712224637,
+      "rank": 29,
+      "category": "情感"
     },
     {
       "raw_hot": 206073,
@@ -1169,6 +1249,14 @@
       "onboard_time": 1712220496,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 191926,
+      "num": 191926,
+      "word": "FINAL LOVE SONG",
+      "onboard_time": 1712225298,
+      "rank": 32,
+      "category": "音乐"
     },
     {
       "raw_hot": 190532,
@@ -1291,12 +1379,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 177231,
+      "num": 177231,
+      "word": "宋亚轩搜普钩gi",
+      "onboard_time": 1712225718,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 177003,
       "num": 177003,
       "word": "赵丽颖现身川美",
       "onboard_time": 1712192538,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 176347,
+      "num": 176347,
+      "word": "行影不璃圆房前奏吻",
+      "onboard_time": 1712223739,
+      "rank": 34,
+      "category": "剧集"
     },
     {
       "raw_hot": 176106,
@@ -1369,6 +1473,22 @@
       "onboard_time": 1712210478,
       "rank": 35,
       "category": "电影"
+    },
+    {
+      "raw_hot": 163849,
+      "num": 163849,
+      "word": "没想到生鸡蛋煮熟就会变成水煮蛋",
+      "onboard_time": 1712225420,
+      "rank": 37,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 162406,
+      "num": 162406,
+      "word": "柯南来了都得看监控",
+      "onboard_time": 1712222957,
+      "rank": 44,
+      "category": "幽默"
     },
     {
       "raw_hot": 159924,
@@ -1523,6 +1643,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 146898,
+      "num": 146898,
+      "word": "墓碑上二维码",
+      "onboard_time": 1712222898,
+      "rank": 49,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 144152,
+      "num": 144152,
+      "word": "警察拍的短剧太刀了",
+      "onboard_time": 1712225178,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 143250,
       "num": 143250,
       "word": "种地吧新闻联播",
@@ -1545,6 +1681,14 @@
       "onboard_time": 1712217558,
       "rank": 39,
       "category": "电影,动漫"
+    },
+    {
+      "raw_hot": 139824,
+      "num": 139824,
+      "word": "最功利的婚姻 最动情的约定",
+      "onboard_time": 1712225058,
+      "rank": 44,
+      "category": "电影"
     },
     {
       "raw_hot": 138457,
@@ -1683,14 +1827,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 128829,
-      "num": 128829,
-      "word": "柯南来了都得看监控",
-      "onboard_time": 1712222957,
-      "rank": 44,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 127927,
       "num": 127927,
       "word": "助力行止神君支棱起来",
@@ -1769,14 +1905,6 @@
       "onboard_time": 1712161096,
       "rank": 46,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 121353,
-      "num": 121353,
-      "word": "墓碑上二维码",
-      "onboard_time": 1712222898,
-      "rank": 49,
-      "category": "情感"
     },
     {
       "raw_hot": 120883,
@@ -1924,7 +2052,7 @@
     },
     {
       "raw_hot": 75674,
-      "num": 912897,
+      "num": 968121,
       "word": "先辈炽热滚烫的信仰我们永远记得",
       "onboard_time": 1712218577,
       "rank": 2,
