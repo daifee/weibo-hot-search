@@ -1,6 +1,6 @@
 {
   "startTime": 1711815680412,
-  "endTime": 1712237653188,
+  "endTime": 1712240292168,
   "band_list": [
     {
       "raw_hot": 16874674,
@@ -961,6 +961,14 @@
       "onboard_time": 1712077573,
       "rank": 24,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1157092,
+      "num": 1157092,
+      "word": "18岁女生一天给男友打100多个电话",
+      "onboard_time": 1712234540,
+      "rank": 31,
+      "category": "情感"
     },
     {
       "raw_hot": 1149639,
@@ -1939,6 +1947,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 747656,
+      "num": 747656,
+      "word": "沈璃行止圆房完整版",
+      "onboard_time": 1712237780,
+      "rank": 4,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 746632,
       "num": 746632,
       "word": "赵露思高定短裙",
@@ -2755,6 +2771,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 591652,
+      "num": 591652,
+      "word": "成毅前经纪公司发文",
+      "onboard_time": 1712237480,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 591211,
       "num": 591211,
       "word": "疑被打死男童生母与其男友被刑拘",
@@ -2921,6 +2945,14 @@
       "onboard_time": 1712120062,
       "rank": 17,
       "category": "电影"
+    },
+    {
+      "raw_hot": 562019,
+      "num": 562019,
+      "word": "这次可让李沁演爽了",
+      "onboard_time": 1712230880,
+      "rank": 15,
+      "category": "剧集"
     },
     {
       "raw_hot": 560603,
@@ -3537,14 +3569,6 @@
       "onboard_time": 1712121261,
       "rank": 44,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 485113,
-      "num": 485113,
-      "word": "这次可让李沁演爽了",
-      "onboard_time": 1712230880,
-      "rank": 15,
-      "category": "剧集"
     },
     {
       "raw_hot": 484250,
@@ -4275,6 +4299,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 418840,
+      "num": 418840,
+      "word": "马丽破产姐妹卡洛琳合作新片",
+      "onboard_time": 1712239460,
+      "rank": 15,
+      "category": "电影"
+    },
+    {
       "raw_hot": 417968,
       "num": 417968,
       "word": "阿坝州地震",
@@ -4443,6 +4475,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 397659,
+      "num": 273566,
+      "word": "瘦了24斤闺蜜说我像张元英",
+      "onboard_time": 1712237240,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 397327,
       "num": 397327,
       "word": "孙颖莎世界排名积分7800分",
@@ -4528,14 +4568,6 @@
       "word": "男朋友帮陌生女孩挡了一路姨妈渍",
       "onboard_time": 1712186895,
       "rank": 21,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 388131,
-      "num": 337011,
-      "word": "18岁女生一天给男友打100多个电话",
-      "onboard_time": 1712234540,
-      "rank": 31,
       "category": "情感"
     },
     {
@@ -4921,6 +4953,14 @@
       "onboard_time": 1712230219,
       "rank": 43,
       "category": "读书作家"
+    },
+    {
+      "raw_hot": 358497,
+      "num": 358497,
+      "word": "餐馆老板让暑假工5元随便吃被欠五千餐费",
+      "onboard_time": 1712237959,
+      "rank": 16,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 358267,
@@ -6067,6 +6107,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 283011,
+      "num": 276510,
+      "word": "宜家怎么沦为了打工人食堂",
+      "onboard_time": 1712235559,
+      "rank": 31,
+      "category": "社会议题"
+    },
+    {
       "raw_hot": 281958,
       "num": 265208,
       "word": "台湾花莲地震现场画面",
@@ -6169,14 +6217,6 @@
       "onboard_time": 1712188997,
       "rank": 23,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 276510,
-      "num": 276510,
-      "word": "宜家怎么沦为了打工人食堂",
-      "onboard_time": 1712235559,
-      "rank": 31,
-      "category": "社会议题"
     },
     {
       "raw_hot": 276382,
@@ -6651,6 +6691,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 255231,
+      "num": 255231,
+      "word": "李耕耘 让少年之家一直开花",
+      "onboard_time": 1712239039,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 255124,
       "num": 255124,
       "word": "什么岗位会接受0经验",
@@ -6689,6 +6737,14 @@
       "onboard_time": 1711875141,
       "rank": 22,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 253718,
+      "num": 253718,
+      "word": "为什么infp经常被误认为e人",
+      "onboard_time": 1712238381,
+      "rank": 25,
+      "category": "情感"
     },
     {
       "raw_hot": 253642,
@@ -6857,6 +6913,14 @@
       "onboard_time": 1712235020,
       "rank": 23,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 248247,
+      "num": 248247,
+      "word": "NIP战胜FPX",
+      "onboard_time": 1712239521,
+      "rank": 27,
+      "category": "电竞"
     },
     {
       "raw_hot": 248044,
@@ -7827,6 +7891,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 218166,
+      "num": 218166,
+      "word": "傅首尔cos对抗路孙尚香",
+      "onboard_time": 1712238501,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 218129,
       "num": 218129,
       "word": "新版李逍遥赵灵儿",
@@ -7992,6 +8064,14 @@
       "word": "意外被父母看见了存款",
       "onboard_time": 1711868357,
       "rank": 31,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 213481,
+      "num": 213481,
+      "word": "十年后才知道朋友提前杀虫了",
+      "onboard_time": 1712235381,
+      "rank": 37,
       "category": "情感"
     },
     {
@@ -8753,14 +8833,6 @@
       "onboard_time": 1711869377,
       "rank": 30,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 198856,
-      "num": 198856,
-      "word": "瘦了24斤闺蜜说我像张元英",
-      "onboard_time": 1712237240,
-      "rank": 30,
-      "category": "艺人"
     },
     {
       "raw_hot": 198363,
@@ -10019,14 +10091,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 177712,
-      "num": 177712,
-      "word": "成毅前经纪公司发文",
-      "onboard_time": 1712237480,
-      "rank": 34,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 177699,
       "num": 177699,
       "word": "爷爷 最让我崩溃的不是你的死亡",
@@ -10627,6 +10691,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 164251,
+      "num": 164251,
+      "word": "陈红军儿子小红军安慰奶奶不要哭",
+      "onboard_time": 1712238621,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 164242,
       "num": 164242,
       "word": "崔秀彬18秒镜头",
@@ -10872,14 +10944,6 @@
       "word": "大学生早自习的意义在哪里",
       "onboard_time": 1712017701,
       "rank": 40,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 159316,
-      "num": 159316,
-      "word": "十年后才知道朋友提前杀虫了",
-      "onboard_time": 1712235381,
-      "rank": 37,
       "category": "情感"
     },
     {
@@ -11875,6 +11939,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 143373,
+      "num": 143373,
+      "word": "李一桐也在追追风者",
+      "onboard_time": 1712239219,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 143345,
       "num": 143345,
       "word": "全圆佑饭拍",
@@ -12057,6 +12129,14 @@
       "onboard_time": 1712030060,
       "rank": 44,
       "category": "电影"
+    },
+    {
+      "raw_hot": 138926,
+      "num": 138926,
+      "word": "在一声声姐姐中迷失了自我",
+      "onboard_time": 1712237899,
+      "rank": 41,
+      "category": "幽默"
     },
     {
       "raw_hot": 138919,
@@ -12475,12 +12555,28 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 130950,
+      "num": 130950,
+      "word": "行止很行",
+      "onboard_time": 1712240240,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 130859,
       "num": 166915,
       "word": "DOU5战队晋级COA7全球总决赛",
       "onboard_time": 1711872498,
       "rank": 38,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 130728,
+      "num": 873722,
+      "word": "古诗词里的清明意境超美",
+      "onboard_time": 1712234959,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 130601,
@@ -13121,14 +13217,6 @@
       "onboard_time": 1711850358,
       "rank": 48,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 110287,
-      "num": 873722,
-      "word": "古诗词里的清明意境超美",
-      "onboard_time": 1712234959,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 110134,
