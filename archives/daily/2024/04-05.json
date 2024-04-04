@@ -1,6 +1,6 @@
 {
   "startTime": 1712247709633,
-  "endTime": 1712266446482,
+  "endTime": 1712268989674,
   "band_list": [
     {
       "raw_hot": 1533243,
@@ -371,6 +371,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 92617,
+      "num": 87997,
+      "word": "为什么鸟类大多是侧面照",
+      "onboard_time": 1712249056,
+      "rank": 33,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 90171,
       "num": 90171,
       "word": "金靖cos西施",
@@ -385,14 +393,6 @@
       "onboard_time": 1712224338,
       "rank": 44,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 87997,
-      "num": 87997,
-      "word": "为什么鸟类大多是侧面照",
-      "onboard_time": 1712249056,
-      "rank": 33,
-      "category": "科学科普"
     },
     {
       "raw_hot": 87745,
@@ -467,6 +467,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 40086,
+      "num": 40086,
+      "word": "林更新没有技巧就是硬帅",
+      "onboard_time": 1712262251,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 37005,
       "num": 39635,
       "word": "花莲县海域发生4.6级地震",
@@ -475,12 +483,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 25117,
-      "num": 25117,
-      "word": "林更新没有技巧就是硬帅",
-      "onboard_time": 1712262251,
-      "rank": 41,
-      "category": "艺人"
+      "raw_hot": 28288,
+      "num": 28288,
+      "word": "清明档首日票房破3亿",
+      "onboard_time": 1712267110,
+      "rank": 26,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 22321,
+      "num": 22321,
+      "word": "蔡崇信反思阿里为何掉队",
+      "onboard_time": 1712267591,
+      "rank": 39,
+      "category": "互联网"
     },
     {
       "raw_hot": 21128,
@@ -491,6 +507,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 20761,
+      "num": 20761,
+      "word": "寝室制度就像包办婚姻",
+      "onboard_time": 1712266211,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 20754,
+      "num": 20754,
+      "word": "第一个因推销员受害的小狗出现了",
+      "onboard_time": 1712264350,
+      "rank": 46,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 17142,
       "num": 330408,
       "word": "清明版如愿致敬先辈",
@@ -499,8 +531,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 16310,
-      "num": 16310,
+      "raw_hot": 17134,
+      "num": 19511,
       "word": "20多岁大学生为21岁烈士画像",
       "onboard_time": 1712263451,
       "rank": 39,
@@ -515,28 +547,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 14602,
-      "num": 15966,
-      "word": "第一个因推销员受害的小狗出现了",
-      "onboard_time": 1712264350,
-      "rank": 46,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 13982,
       "num": 15911,
       "word": "80岁老人义务守护无名烈士墓64年",
       "onboard_time": 1712261771,
       "rank": 49,
       "category": "军事,社会新闻"
-    },
-    {
-      "raw_hot": 12888,
-      "num": 14600,
-      "word": "寝室制度就像包办婚姻",
-      "onboard_time": 1712266211,
-      "rank": 48,
-      "category": "幽默"
     }
   ],
   "hotgov_list": [
