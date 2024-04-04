@@ -1,6 +1,6 @@
 {
   "startTime": 1712161260598,
-  "endTime": 1712207957037,
+  "endTime": 1712208835573,
   "band_list": [
     {
       "raw_hot": 1943413,
@@ -19,8 +19,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 1511288,
-      "num": 1511288,
+      "raw_hot": 1551813,
+      "num": 1551813,
       "word": "各大平台禁止售卖分装化妆品",
       "onboard_time": 1712203220,
       "rank": 14,
@@ -67,6 +67,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 1140625,
+      "num": 1140625,
+      "word": "姜爷爷",
+      "onboard_time": 1712204717,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1111228,
       "num": 1111228,
       "word": "青海地震",
@@ -83,19 +91,19 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 1081187,
+      "num": 1081187,
+      "word": "官方回应福宝被人不戴手套戳",
+      "onboard_time": 1712204359,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1036556,
       "num": 1036556,
       "word": "日本地震",
       "onboard_time": 1712201658,
       "rank": 45,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1027495,
-      "num": 1027495,
-      "word": "官方回应福宝被人不戴手套戳",
-      "onboard_time": 1712204359,
-      "rank": 19,
       "category": "社会新闻"
     },
     {
@@ -131,6 +139,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 811280,
+      "num": 811280,
+      "word": "三十岁才会发现戴珍珠的美",
+      "onboard_time": 1712206338,
+      "rank": 11,
+      "category": "时尚"
+    },
+    {
+      "raw_hot": 780592,
+      "num": 780592,
+      "word": "考研失败成了小朋友的反面教材",
+      "onboard_time": 1712206219,
+      "rank": 7,
+      "category": "教育"
+    },
+    {
       "raw_hot": 756217,
       "num": 756217,
       "word": "大学生被赶下车后发现异常救司机一命",
@@ -139,26 +163,10 @@
       "category": "社会正能量"
     },
     {
-      "raw_hot": 731985,
-      "num": 731985,
-      "word": "考研失败成了小朋友的反面教材",
-      "onboard_time": 1712206219,
-      "rank": 7,
-      "category": "教育"
-    },
-    {
       "raw_hot": 730747,
       "num": 520366,
       "word": "男子虐猫后将残肢丢至直播间",
       "onboard_time": 1712194219,
-      "rank": 28,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 717880,
-      "num": 717880,
-      "word": "姜爷爷",
-      "onboard_time": 1712204717,
       "rank": 28,
       "category": "社会新闻"
     },
@@ -251,12 +259,12 @@
       "category": "母婴育儿,科学科普"
     },
     {
-      "raw_hot": 542166,
-      "num": 542166,
-      "word": "三十岁才会发现戴珍珠的美",
-      "onboard_time": 1712206338,
-      "rank": 11,
-      "category": "时尚"
+      "raw_hot": 547784,
+      "num": 547784,
+      "word": "长期不上班是什么状态",
+      "onboard_time": 1712206278,
+      "rank": 16,
+      "category": "情感"
     },
     {
       "raw_hot": 542059,
@@ -395,14 +403,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 401964,
-      "num": 401964,
-      "word": "长期不上班是什么状态",
-      "onboard_time": 1712206278,
-      "rank": 16,
-      "category": "情感"
-    },
-    {
       "raw_hot": 400233,
       "num": 293487,
       "word": "男朋友的小姨没有边际感",
@@ -449,6 +449,14 @@
       "onboard_time": 1712167932,
       "rank": 32,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 362185,
+      "num": 362185,
+      "word": "张艺兴女团的容貌焦虑",
+      "onboard_time": 1712207898,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 361043,
@@ -635,12 +643,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 256254,
+      "num": 625597,
+      "word": "福宝的首选是红苹果",
+      "onboard_time": 1712207539,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 254104,
       "num": 254104,
       "word": "清明节",
       "onboard_time": 1712185754,
       "rank": 10,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 254070,
+      "num": 254070,
+      "word": "林更新 怪我没张口",
+      "onboard_time": 1712208678,
+      "rank": 22,
+      "category": "剧集"
     },
     {
       "raw_hot": 248752,
@@ -659,8 +683,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 229342,
-      "num": 229342,
+      "raw_hot": 238104,
+      "num": 238104,
       "word": "咒术回战256",
       "onboard_time": 1712207119,
       "rank": 24,
@@ -737,14 +761,6 @@
       "onboard_time": 1712164694,
       "rank": 32,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 206342,
-      "num": 206342,
-      "word": "张艺兴女团的容貌焦虑",
-      "onboard_time": 1712207898,
-      "rank": 28,
-      "category": "综艺"
     },
     {
       "raw_hot": 205800,
@@ -963,6 +979,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 157677,
+      "num": 157677,
+      "word": "四川话果赖成功召唤福宝",
+      "onboard_time": 1712208557,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 156166,
       "num": 156166,
       "word": "09小楼事件",
@@ -1008,6 +1032,22 @@
       "word": "手术直播间定档",
       "onboard_time": 1712202799,
       "rank": 39,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 151498,
+      "num": 151498,
+      "word": "当爹味年上男故意让你吃醋",
+      "onboard_time": 1712208197,
+      "rank": 37,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 151106,
+      "num": 151106,
+      "word": "叶盛佳 执笔是我的救赎",
+      "onboard_time": 1712208019,
+      "rank": 38,
       "category": "剧集"
     },
     {
@@ -1105,14 +1145,6 @@
       "onboard_time": 1712150062,
       "rank": 34,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 136181,
-      "num": 136181,
-      "word": "福宝的首选是红苹果",
-      "onboard_time": 1712207539,
-      "rank": 43,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 135982,
@@ -1484,6 +1516,9 @@
     },
     {
       "word": "#全民植树增绿共建美丽中国#"
+    },
+    {
+      "word": "#总书记用实际行动向英雄先烈致敬#"
     }
   ]
 }
