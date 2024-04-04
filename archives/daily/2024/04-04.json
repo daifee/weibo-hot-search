@@ -1,6 +1,6 @@
 {
   "startTime": 1712161260598,
-  "endTime": 1712229311990,
+  "endTime": 1712230453315,
   "band_list": [
     {
       "raw_hot": 2366026,
@@ -107,6 +107,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1213458,
+      "num": 1213458,
+      "word": "12306回应高铁走到半路两车乘客互换",
+      "onboard_time": 1712224338,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1212105,
       "num": 1156417,
       "word": "拍吻戏不张嘴",
@@ -153,14 +161,6 @@
       "onboard_time": 1712187856,
       "rank": 3,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 1100453,
-      "num": 1100453,
-      "word": "12306回应高铁走到半路两车乘客互换",
-      "onboard_time": 1712224338,
-      "rank": 11,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1081187,
@@ -219,6 +219,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 897265,
+      "num": 897265,
+      "word": "终于在高铁上发疯了",
+      "onboard_time": 1712225959,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 893199,
       "num": 893199,
       "word": "学会开车后感觉世界观变了",
@@ -249,14 +257,6 @@
       "onboard_time": 1712206219,
       "rank": 7,
       "category": "教育"
-    },
-    {
-      "raw_hot": 777850,
-      "num": 777850,
-      "word": "终于在高铁上发疯了",
-      "onboard_time": 1712225959,
-      "rank": 30,
-      "category": "幽默"
     },
     {
       "raw_hot": 777007,
@@ -307,19 +307,19 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 694966,
+      "num": 694966,
+      "word": "碾压孩子奔驰司机已投案",
+      "onboard_time": 1712226138,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 673155,
       "num": 673155,
       "word": "农发行工作人员回应男孩称想当行长",
       "onboard_time": 1712191638,
       "rank": 8,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 666868,
-      "num": 666868,
-      "word": "碾压孩子奔驰司机已投案",
-      "onboard_time": 1712226138,
-      "rank": 22,
       "category": "社会新闻"
     },
     {
@@ -451,6 +451,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 539202,
+      "num": 539202,
+      "word": "罪犯史泰龙被执行死刑",
+      "onboard_time": 1712229379,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 527723,
       "num": 427952,
       "word": "月经出现这5种情况说明子宫健康",
@@ -521,6 +529,14 @@
       "onboard_time": 1712222057,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 499821,
+      "num": 265777,
+      "word": "体制内有朋友圈自由吗",
+      "onboard_time": 1712229320,
+      "rank": 20,
+      "category": "情感"
     },
     {
       "raw_hot": 495586,
@@ -787,6 +803,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 336642,
+      "num": 336642,
+      "word": "沈璃事后不认账",
+      "onboard_time": 1712228179,
+      "rank": 19,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 334161,
       "num": 334161,
       "word": "为什么现在住院都要问学历了",
@@ -843,12 +867,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 317781,
+      "num": 317781,
+      "word": "Doinb是谁",
+      "onboard_time": 1712228539,
+      "rank": 17,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 312840,
       "num": 312840,
       "word": "福宝路上带的竹子没吃完",
       "onboard_time": 1712147240,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 310642,
+      "num": 264867,
+      "word": "小金毛考了全班第一名",
+      "onboard_time": 1712228599,
+      "rank": 30,
+      "category": "情感"
     },
     {
       "raw_hot": 308698,
@@ -883,14 +923,6 @@
       "category": "科学科普"
     },
     {
-      "raw_hot": 297249,
-      "num": 297249,
-      "word": "Doinb是谁",
-      "onboard_time": 1712228539,
-      "rank": 17,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 293218,
       "num": 293218,
       "word": "王珞丹高干文",
@@ -905,14 +937,6 @@
       "onboard_time": 1712163916,
       "rank": 30,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 292586,
-      "num": 211663,
-      "word": "小金毛考了全班第一名",
-      "onboard_time": 1712228599,
-      "rank": 30,
-      "category": "情感"
     },
     {
       "raw_hot": 291069,
@@ -979,12 +1003,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 267009,
-      "num": 267009,
-      "word": "沈璃事后不认账",
-      "onboard_time": 1712228179,
+      "raw_hot": 266062,
+      "num": 266062,
+      "word": "黄子弘凡道歉速度赶不上踩雷速度",
+      "onboard_time": 1712229619,
       "rank": 19,
-      "category": "剧集"
+      "category": "综艺"
     },
     {
       "raw_hot": 263407,
@@ -1323,6 +1347,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 196048,
+      "num": 196048,
+      "word": "HLE战胜T1",
+      "onboard_time": 1712229259,
+      "rank": 49,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 195733,
+      "num": 195733,
+      "word": "为什么看不见INFP的朋友圈",
+      "onboard_time": 1712230219,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 195587,
       "num": 195587,
       "word": "詹姆斯肘击",
@@ -1337,6 +1377,14 @@
       "onboard_time": 1712220496,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 193563,
+      "num": 193563,
+      "word": "果然上万年的童子身比较补",
+      "onboard_time": 1712230099,
+      "rank": 31,
+      "category": "剧集"
     },
     {
       "raw_hot": 191926,
@@ -1361,6 +1409,14 @@
       "onboard_time": 1712204598,
       "rank": 34,
       "category": "情感"
+    },
+    {
+      "raw_hot": 189639,
+      "num": 189639,
+      "word": "FPX对战NIP",
+      "onboard_time": 1712229679,
+      "rank": 32,
+      "category": "电竞"
     },
     {
       "raw_hot": 188203,
@@ -1747,6 +1803,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 145855,
+      "num": 145855,
+      "word": "清明时节雨纷纷可能不是杜牧写的",
+      "onboard_time": 1712230219,
+      "rank": 43,
+      "category": "读书作家"
+    },
+    {
       "raw_hot": 144152,
       "num": 144152,
       "word": "警察拍的短剧太刀了",
@@ -1777,6 +1841,14 @@
       "onboard_time": 1712194278,
       "rank": 47,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 142153,
+      "num": 142153,
+      "word": "比跷二郎腿伤害更大的坐姿",
+      "onboard_time": 1712230338,
+      "rank": 45,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 141687,
@@ -1889,6 +1961,22 @@
       "onboard_time": 1712210778,
       "rank": 46,
       "category": "情感"
+    },
+    {
+      "raw_hot": 134796,
+      "num": 134796,
+      "word": "官方通报奔驰车碾压孩子",
+      "onboard_time": 1712230278,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 133860,
+      "num": 133860,
+      "word": "4月29日回归的艺人阵容",
+      "onboard_time": 1712230398,
+      "rank": 48,
+      "category": "音乐"
     },
     {
       "raw_hot": 133549,
@@ -2057,14 +2145,6 @@
       "onboard_time": 1712161457,
       "rank": 35,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 118578,
-      "num": 118578,
-      "word": "HLE战胜T1",
-      "onboard_time": 1712229259,
-      "rank": 49,
-      "category": "电竞"
     },
     {
       "raw_hot": 118110,
