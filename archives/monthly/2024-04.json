@@ -1,6 +1,6 @@
 {
   "startTime": 1711902044401,
-  "endTime": 1712236728336,
+  "endTime": 1712237653188,
   "band_list": [
     {
       "raw_hot": 16874674,
@@ -1691,6 +1691,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 733750,
+      "num": 733750,
+      "word": "果然上万年的童子身比较补",
+      "onboard_time": 1712230099,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 730747,
       "num": 520366,
       "word": "男子虐猫后将残肢丢至直播间",
@@ -1705,6 +1713,14 @@
       "onboard_time": 1712055139,
       "rank": 12,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 726960,
+      "num": 726960,
+      "word": "林更新工作室",
+      "onboard_time": 1712222057,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 726004,
@@ -1795,14 +1811,6 @@
       "category": "电竞,网红"
     },
     {
-      "raw_hot": 691399,
-      "num": 691399,
-      "word": "林更新工作室",
-      "onboard_time": 1712222057,
-      "rank": 15,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 691020,
       "num": 691020,
       "word": "高铁晚点",
@@ -1863,14 +1871,6 @@
       "num": 678056,
       "word": "赵丽颖受刑戏又有钉子",
       "onboard_time": 1711978280,
-      "rank": 31,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 677794,
-      "num": 677794,
-      "word": "果然上万年的童子身比较补",
-      "onboard_time": 1712230099,
       "rank": 31,
       "category": "剧集"
     },
@@ -2915,12 +2915,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 485338,
+      "num": 449129,
+      "word": "刘雯看到都忍不住学几个动作",
+      "onboard_time": 1712233640,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 485296,
       "num": 485296,
       "word": "江西通报提灯定损事件",
       "onboard_time": 1712121261,
       "rank": 44,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 485113,
+      "num": 485113,
+      "word": "这次可让李沁演爽了",
+      "onboard_time": 1712230880,
+      "rank": 15,
+      "category": "剧集"
     },
     {
       "raw_hot": 483980,
@@ -3203,14 +3219,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 448223,
-      "num": 448223,
-      "word": "刘雯看到都忍不住学几个动作",
-      "onboard_time": 1712233640,
-      "rank": 35,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 447567,
       "num": 447567,
       "word": "四川话果赖成功召唤福宝",
@@ -3283,14 +3291,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 439210,
-      "num": 439210,
-      "word": "这次可让李沁演爽了",
-      "onboard_time": 1712230880,
-      "rank": 15,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 438279,
       "num": 438279,
       "word": "美财政部部长耶伦将访华",
@@ -3305,6 +3305,14 @@
       "onboard_time": 1711967960,
       "rank": 5,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 437859,
+      "num": 437859,
+      "word": "管泽元",
+      "onboard_time": 1712233399,
+      "rank": 25,
+      "category": "电竞"
     },
     {
       "raw_hot": 436917,
@@ -3555,6 +3563,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 413441,
+      "num": 305622,
+      "word": "男朋友加了我妈微信",
+      "onboard_time": 1712236039,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 413179,
       "num": 413179,
       "word": "林更新cos大司命",
@@ -3651,6 +3667,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 397175,
+      "num": 397175,
+      "word": "沈图南人设",
+      "onboard_time": 1712235679,
+      "rank": 21,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 396372,
       "num": 396372,
       "word": "王鹤棣于适 新电影",
@@ -3724,11 +3748,19 @@
     },
     {
       "raw_hot": 388131,
-      "num": 284934,
+      "num": 337011,
       "word": "18岁女生一天给男友打100多个电话",
       "onboard_time": 1712234540,
       "rank": 31,
       "category": "情感"
+    },
+    {
+      "raw_hot": 388117,
+      "num": 300587,
+      "word": "我和老公劝高三儿子放弃高考",
+      "onboard_time": 1712236278,
+      "rank": 32,
+      "category": "教育"
     },
     {
       "raw_hot": 387801,
@@ -3857,14 +3889,6 @@
       "onboard_time": 1711943782,
       "rank": 19,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 376615,
-      "num": 376615,
-      "word": "管泽元",
-      "onboard_time": 1712233399,
-      "rank": 25,
-      "category": "电竞"
     },
     {
       "raw_hot": 376103,
@@ -4427,6 +4451,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 321341,
+      "num": 321341,
+      "word": "沈璃吻了个蚌",
+      "onboard_time": 1712232019,
+      "rank": 22,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 320205,
       "num": 320205,
       "word": "全员加速中全员猎人",
@@ -4457,14 +4489,6 @@
       "onboard_time": 1711942940,
       "rank": 22,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 315889,
-      "num": 197803,
-      "word": "男朋友加了我妈微信",
-      "onboard_time": 1712236039,
-      "rank": 30,
-      "category": "幽默"
     },
     {
       "raw_hot": 315454,
@@ -4513,14 +4537,6 @@
       "onboard_time": 1712104533,
       "rank": 34,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 312173,
-      "num": 312173,
-      "word": "沈璃吻了个蚌",
-      "onboard_time": 1712232019,
-      "rank": 22,
-      "category": "剧集"
     },
     {
       "raw_hot": 311877,
@@ -5035,6 +5051,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 276510,
+      "num": 276510,
+      "word": "宜家怎么沦为了打工人食堂",
+      "onboard_time": 1712235559,
+      "rank": 31,
+      "category": "社会议题"
+    },
+    {
       "raw_hot": 276382,
       "num": 276382,
       "word": "闪耀暖暖",
@@ -5057,14 +5081,6 @@
       "onboard_time": 1712214559,
       "rank": 19,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 275754,
-      "num": 275754,
-      "word": "沈图南人设",
-      "onboard_time": 1712235679,
-      "rank": 21,
-      "category": "剧集"
     },
     {
       "raw_hot": 275439,
@@ -5145,6 +5161,14 @@
       "onboard_time": 1712233339,
       "rank": 30,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 269745,
+      "num": 269745,
+      "word": "赵丽颖林更新公主抱笑场",
+      "onboard_time": 1712236581,
+      "rank": 49,
+      "category": "剧集,艺人"
     },
     {
       "raw_hot": 269741,
@@ -5587,6 +5611,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 248391,
+      "num": 248391,
+      "word": "十个勤天",
+      "onboard_time": 1712235020,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 247879,
       "num": 247879,
       "word": "花间令女二悲惨的一生",
@@ -5641,14 +5673,6 @@
       "onboard_time": 1712018600,
       "rank": 25,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 244966,
-      "num": 244966,
-      "word": "十个勤天",
-      "onboard_time": 1712235020,
-      "rank": 23,
-      "category": "综艺"
     },
     {
       "raw_hot": 244579,
@@ -6067,14 +6091,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 228267,
-      "num": 195833,
-      "word": "宜家怎么沦为了打工人食堂",
-      "onboard_time": 1712235559,
-      "rank": 31,
-      "category": "社会议题"
-    },
-    {
       "raw_hot": 228251,
       "num": 228251,
       "word": "黄俊捷饼干礼盒188元",
@@ -6225,14 +6241,6 @@
       "onboard_time": 1712103992,
       "rank": 45,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 223186,
-      "num": 195107,
-      "word": "我和老公劝高三儿子放弃高考",
-      "onboard_time": 1712236278,
-      "rank": 32,
-      "category": "教育"
     },
     {
       "raw_hot": 223095,
@@ -6641,6 +6649,14 @@
       "onboard_time": 1712152822,
       "rank": 37,
       "category": "教育"
+    },
+    {
+      "raw_hot": 210323,
+      "num": 210323,
+      "word": "明兰与花芷 女子本芬芳",
+      "onboard_time": 1712235858,
+      "rank": 37,
+      "category": "剧集"
     },
     {
       "raw_hot": 210087,
@@ -7065,6 +7081,14 @@
       "onboard_time": 1712118683,
       "rank": 45,
       "category": "电影"
+    },
+    {
+      "raw_hot": 198856,
+      "num": 198856,
+      "word": "瘦了24斤闺蜜说我像张元英",
+      "onboard_time": 1712237240,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 198636,
@@ -8091,6 +8115,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 177712,
+      "num": 177712,
+      "word": "成毅前经纪公司发文",
+      "onboard_time": 1712237480,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 177699,
       "num": 177699,
       "word": "爷爷 最让我崩溃的不是你的死亡",
@@ -8176,6 +8208,14 @@
       "word": "建议三搭看看实力",
       "onboard_time": 1712193679,
       "rank": 39,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 174891,
+      "num": 174891,
+      "word": "手术直播间 梦食症",
+      "onboard_time": 1712236880,
+      "rank": 35,
       "category": "剧集"
     },
     {
@@ -8465,14 +8505,6 @@
       "onboard_time": 1711976361,
       "rank": 44,
       "category": "情感"
-    },
-    {
-      "raw_hot": 167041,
-      "num": 167041,
-      "word": "明兰与花芷 女子本芬芳",
-      "onboard_time": 1712235858,
-      "rank": 37,
-      "category": "剧集"
     },
     {
       "raw_hot": 166990,
@@ -8808,6 +8840,14 @@
       "word": "大学生早自习的意义在哪里",
       "onboard_time": 1712017701,
       "rank": 40,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 159316,
+      "num": 159316,
+      "word": "十年后才知道朋友提前杀虫了",
+      "onboard_time": 1712235381,
+      "rank": 37,
       "category": "情感"
     },
     {
@@ -9979,14 +10019,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 133239,
-      "num": 133239,
-      "word": "赵丽颖林更新公主抱笑场",
-      "onboard_time": 1712236581,
-      "rank": 49,
-      "category": "剧集,艺人"
-    },
-    {
       "raw_hot": 133160,
       "num": 360592,
       "word": "极氪007增强版上市",
@@ -10507,6 +10539,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 110287,
+      "num": 873722,
+      "word": "古诗词里的清明意境超美",
+      "onboard_time": 1712234959,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 110134,
       "num": 110134,
       "word": "奥本海默日本上映观众情绪复杂",
@@ -10745,14 +10785,6 @@
       "onboard_time": 1712096953,
       "rank": 49,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 78287,
-      "num": 873722,
-      "word": "古诗词里的清明意境超美",
-      "onboard_time": 1712234959,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 76275,
