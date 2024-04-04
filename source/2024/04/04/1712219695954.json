@@ -1,0 +1,410 @@
+{
+  "runTime": 1712219695954,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1747502,
+        "num": 1747502,
+        "word": "胡一天 之前对你太大声了",
+        "onboard_time": 1712214677,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1082156,
+        "num": 1082156,
+        "word": "zara包",
+        "onboard_time": 1712209158,
+        "rank": 1,
+        "category": "时尚,作品衍生"
+      },
+      {
+        "raw_hot": 62502,
+        "num": 878891,
+        "word": "先辈炽热滚烫的信仰我们永远记得",
+        "onboard_time": 1712218577,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 822914,
+        "num": 822914,
+        "word": "学会开车后感觉世界观变了",
+        "onboard_time": 1712213658,
+        "rank": 3,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 720656,
+        "num": 720656,
+        "word": "今年清明为啥是4月4日",
+        "onboard_time": 1712216898,
+        "rank": 4,
+        "category": "社会新闻,社会议题"
+      },
+      {
+        "raw_hot": 602864,
+        "num": 602864,
+        "word": "姜爷爷希望福宝回中国不要改名字",
+        "onboard_time": 1712209038,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 568472,
+        "num": 568472,
+        "word": "三十岁才会发现戴珍珠的美",
+        "onboard_time": 1712206338,
+        "rank": 6,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 544476,
+        "num": 544476,
+        "word": "原来清明并不是放三天补一天",
+        "onboard_time": 1712195299,
+        "rank": 7,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 532235,
+        "num": 532235,
+        "word": "小米汽车称贷款未通过锁单后不可退定",
+        "onboard_time": 1712214077,
+        "rank": 8,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 280057,
+        "num": 514080,
+        "word": "福宝的首选是红苹果",
+        "onboard_time": 1712207539,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 510419,
+        "num": 510419,
+        "word": "沈月脏脏包造型",
+        "onboard_time": 1712216418,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 488334,
+        "num": 488334,
+        "word": "高伟光连发35条微博",
+        "onboard_time": 1712218818,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 414061,
+        "num": 414061,
+        "word": "张艺兴回应内娱没有舞台",
+        "onboard_time": 1712211497,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 360244,
+        "num": 360244,
+        "word": "世界年龄最大男子去世",
+        "onboard_time": 1712217977,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 324149,
+        "num": 324149,
+        "word": "沈璃行止的孩子是花千骨吧",
+        "onboard_time": 1712215519,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 314503,
+        "num": 314503,
+        "word": "为什么现在住院都要问学历了",
+        "onboard_time": 1712212158,
+        "rank": 15,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 308698,
+        "num": 308698,
+        "word": "林更新我晕腿",
+        "onboard_time": 1712215158,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 299907,
+        "num": 299907,
+        "word": "王婆说媒已婚男妻子深夜发视频哭诉",
+        "onboard_time": 1712195299,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 269073,
+        "num": 269073,
+        "word": "地震时男孩一把抱起同桌往外冲",
+        "onboard_time": 1712209097,
+        "rank": 18,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 240096,
+        "num": 240096,
+        "word": "世界殡葬第一村长什么样",
+        "onboard_time": 1712212639,
+        "rank": 19,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 365735,
+        "num": 239788,
+        "word": "原来不用剧烈运动也能瘦",
+        "onboard_time": 1712216598,
+        "rank": 20,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 256303,
+        "num": 238115,
+        "word": "刚工作三个月父母就向我要钱",
+        "onboard_time": 1712218697,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 233328,
+        "num": 233328,
+        "word": "长期不上班是什么状态",
+        "onboard_time": 1712206278,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 228785,
+        "num": 228785,
+        "word": "林狗你行不行啊",
+        "onboard_time": 1712189777,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 226056,
+        "num": 226056,
+        "word": "官方回应福宝被人不戴手套戳",
+        "onboard_time": 1712204359,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 206289,
+        "num": 206289,
+        "word": "运动瘦脸才能真正的瘦脸",
+        "onboard_time": 1712209158,
+        "rank": 25,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 204062,
+        "num": 204062,
+        "word": "日出拍成核爆",
+        "onboard_time": 1712217017,
+        "rank": 26,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 199278,
+        "num": 199278,
+        "word": "四川话果赖成功召唤福宝",
+        "onboard_time": 1712208557,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 192424,
+        "num": 192424,
+        "word": "摇太阳 悼词",
+        "onboard_time": 1712216598,
+        "rank": 28,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 191348,
+        "num": 191348,
+        "word": "姜爷爷",
+        "onboard_time": 1712204717,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 186862,
+        "num": 186862,
+        "word": "iPhone16全家福机模曝光",
+        "onboard_time": 1712208979,
+        "rank": 30,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 173910,
+        "num": 173910,
+        "word": "原来韩国人追剧不看字幕的",
+        "onboard_time": 1712201898,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 164532,
+        "num": 164532,
+        "word": "福宝小屋布满竹子笋笋苹果胡萝卜",
+        "onboard_time": 1712200758,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 163392,
+        "num": 163392,
+        "word": "小时候我哭着要和哥哥嫂子睡一起",
+        "onboard_time": 1712210838,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 159649,
+        "num": 159649,
+        "word": "子宫生病的第一个信号就是异常出血",
+        "onboard_time": 1712209337,
+        "rank": 34,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 158750,
+        "num": 158750,
+        "word": "为什么很多漂亮女生却没人追",
+        "onboard_time": 1712201118,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 153313,
+        "num": 153313,
+        "word": "人气歌谣",
+        "onboard_time": 1712217858,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 147145,
+        "num": 147145,
+        "word": "各大平台禁止售卖分装化妆品",
+        "onboard_time": 1712203220,
+        "rank": 37,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 153292,
+        "num": 143107,
+        "word": "韩维辰李瑞人歌MC",
+        "onboard_time": 1712217257,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 136138,
+        "num": 136138,
+        "word": "情绪稳定还得从小抓起",
+        "onboard_time": 1712217558,
+        "rank": 39,
+        "category": "电影,动漫"
+      },
+      {
+        "raw_hot": 131900,
+        "num": 131900,
+        "word": "200元快住不起经济型酒店",
+        "onboard_time": 1712219477,
+        "rank": 40,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 127927,
+        "num": 127927,
+        "word": "助力行止神君支棱起来",
+        "onboard_time": 1712219238,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 126686,
+        "num": 126686,
+        "word": "只有半年工作经验能辞职吗",
+        "onboard_time": 1712219177,
+        "rank": 42,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 126245,
+        "num": 126245,
+        "word": "声入人心团综",
+        "onboard_time": 1712205078,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 115883,
+        "num": 115883,
+        "word": "运动真的会让面部代偿吗",
+        "onboard_time": 1712219118,
+        "rank": 44,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 114961,
+        "num": 114961,
+        "word": "你这个赛道太小众了",
+        "onboard_time": 1712218098,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 113820,
+        "num": 113820,
+        "word": "男朋友的小姨没有边际感",
+        "onboard_time": 1712205078,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 111667,
+        "num": 111667,
+        "word": "东莞一护理院发生火灾致3死10伤",
+        "onboard_time": 1712215218,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 105335,
+        "num": 105335,
+        "word": "俄乌局势新进展",
+        "onboard_time": 1712214199,
+        "rank": 48,
+        "category": "军事,国外时政"
+      },
+      {
+        "raw_hot": 104891,
+        "num": 104891,
+        "word": "五条悟 最强术师决战终局",
+        "onboard_time": 1712216236,
+        "rank": 49,
+        "category": "动漫,作品衍生"
+      }
+    ],
+    "hotgov": {
+      "word": "#清明祭英烈家国永念#"
+    }
+  }
+}

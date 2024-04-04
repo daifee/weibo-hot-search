@@ -1,6 +1,6 @@
 {
   "startTime": 1712161260598,
-  "endTime": 1712218946984,
+  "endTime": 1712219695954,
   "band_list": [
     {
       "raw_hot": 2123188,
@@ -19,8 +19,8 @@
       "category": "情感"
     },
     {
-      "raw_hot": 1739262,
-      "num": 1739262,
+      "raw_hot": 1747502,
+      "num": 1747502,
       "word": "胡一天 之前对你太大声了",
       "onboard_time": 1712214677,
       "rank": 28,
@@ -209,6 +209,14 @@
       "onboard_time": 1712194219,
       "rank": 28,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 720656,
+      "num": 720656,
+      "word": "今年清明为啥是4月4日",
+      "onboard_time": 1712216898,
+      "rank": 11,
+      "category": "社会新闻,社会议题"
     },
     {
       "raw_hot": 719007,
@@ -403,6 +411,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 488334,
+      "num": 488334,
+      "word": "高伟光连发35条微博",
+      "onboard_time": 1712218818,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 483980,
       "num": 483980,
       "word": "福宝尚不满4岁",
@@ -425,14 +441,6 @@
       "onboard_time": 1712196258,
       "rank": 12,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 471137,
-      "num": 471137,
-      "word": "今年清明为啥是4月4日",
-      "onboard_time": 1712216898,
-      "rank": 11,
-      "category": "社会新闻,社会议题"
     },
     {
       "raw_hot": 460847,
@@ -563,6 +571,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 365735,
+      "num": 239788,
+      "word": "原来不用剧烈运动也能瘦",
+      "onboard_time": 1712216598,
+      "rank": 20,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 362185,
       "num": 362185,
       "word": "张艺兴女团的容貌焦虑",
@@ -579,12 +595,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 356731,
-      "num": 238293,
-      "word": "原来不用剧烈运动也能瘦",
-      "onboard_time": 1712216598,
-      "rank": 20,
-      "category": "运动健身"
+      "raw_hot": 360244,
+      "num": 360244,
+      "word": "世界年龄最大男子去世",
+      "onboard_time": 1712217977,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 356312,
@@ -683,6 +699,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 308698,
+      "num": 308698,
+      "word": "林更新我晕腿",
+      "onboard_time": 1712215158,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 305651,
       "num": 305651,
       "word": "眼泪女王",
@@ -763,14 +787,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 274003,
-      "num": 274003,
-      "word": "林更新我晕腿",
-      "onboard_time": 1712215158,
-      "rank": 23,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 273258,
       "num": 273258,
       "word": "全校唯一一个自驾上学的高中生",
@@ -827,6 +843,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 256303,
+      "num": 238115,
+      "word": "刚工作三个月父母就向我要钱",
+      "onboard_time": 1712218697,
+      "rank": 41,
+      "category": "情感"
+    },
+    {
       "raw_hot": 254104,
       "num": 254104,
       "word": "清明节",
@@ -867,14 +891,6 @@
       "category": "动漫,作品衍生"
     },
     {
-      "raw_hot": 234517,
-      "num": 184830,
-      "word": "世界年龄最大男子去世",
-      "onboard_time": 1712217977,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 229211,
       "num": 229211,
       "word": "追风者 宋霭龄",
@@ -905,14 +921,6 @@
       "onboard_time": 1712200878,
       "rank": 38,
       "category": "时尚"
-    },
-    {
-      "raw_hot": 221570,
-      "num": 221570,
-      "word": "高伟光连发35条微博",
-      "onboard_time": 1712218818,
-      "rank": 25,
-      "category": "艺人"
     },
     {
       "raw_hot": 219751,
@@ -972,7 +980,7 @@
     },
     {
       "raw_hot": 206073,
-      "num": 183846,
+      "num": 204062,
       "word": "日出拍成核爆",
       "onboard_time": 1712217017,
       "rank": 31,
@@ -1507,14 +1515,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 134236,
-      "num": 134236,
-      "word": "刚工作三个月父母就向我要钱",
-      "onboard_time": 1712218697,
-      "rank": 41,
-      "category": "情感"
-    },
-    {
       "raw_hot": 133549,
       "num": 133549,
       "word": "你们有低分享欲的朋友吗",
@@ -1529,6 +1529,14 @@
       "onboard_time": 1712204836,
       "rank": 47,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 131900,
+      "num": 131900,
+      "word": "200元快住不起经济型酒店",
+      "onboard_time": 1712219477,
+      "rank": 40,
+      "category": "旅游"
     },
     {
       "raw_hot": 129765,
@@ -1547,12 +1555,28 @@
       "category": "数码"
     },
     {
+      "raw_hot": 127927,
+      "num": 127927,
+      "word": "助力行止神君支棱起来",
+      "onboard_time": 1712219238,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 127532,
       "num": 127532,
       "word": "JDG 研究下WBG",
       "onboard_time": 1712156541,
       "rank": 39,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 126686,
+      "num": 126686,
+      "word": "只有半年工作经验能辞职吗",
+      "onboard_time": 1712219177,
+      "rank": 42,
+      "category": "情感"
     },
     {
       "raw_hot": 126604,
@@ -1635,6 +1659,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 115883,
+      "num": 115883,
+      "word": "运动真的会让面部代偿吗",
+      "onboard_time": 1712219118,
+      "rank": 44,
+      "category": "运动健身"
+    },
+    {
+      "raw_hot": 114961,
+      "num": 114961,
+      "word": "你这个赛道太小众了",
+      "onboard_time": 1712218098,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 112172,
       "num": 112172,
       "word": "WBG剧本",
@@ -1649,14 +1689,6 @@
       "onboard_time": 1712217797,
       "rank": 45,
       "category": "演出"
-    },
-    {
-      "raw_hot": 110861,
-      "num": 110861,
-      "word": "你这个赛道太小众了",
-      "onboard_time": 1712218098,
-      "rank": 47,
-      "category": "幽默"
     },
     {
       "raw_hot": 109021,
@@ -1675,8 +1707,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 102224,
-      "num": 102224,
+      "raw_hot": 104891,
+      "num": 104891,
       "word": "五条悟 最强术师决战终局",
       "onboard_time": 1712216236,
       "rank": 48,
@@ -1753,6 +1785,14 @@
       "onboard_time": 1712154801,
       "rank": 43,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 62502,
+      "num": 902976,
+      "word": "先辈炽热滚烫的信仰我们永远记得",
+      "onboard_time": 1712218577,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 61405,
@@ -1872,14 +1912,6 @@
       "word": "台北捷运高铁全线暂停营运",
       "onboard_time": 1712171231,
       "rank": 37,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 28679,
-      "num": 902976,
-      "word": "先辈炽热滚烫的信仰我们永远记得",
-      "onboard_time": 1712218577,
-      "rank": 2,
       "category": "社会新闻"
     },
     {
