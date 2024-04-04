@@ -1,0 +1,410 @@
+{
+  "runTime": 1712200854553,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1943413,
+        "num": 1943413,
+        "word": "原来清明并不是放三天补一天",
+        "onboard_time": 1712195299,
+        "rank": 0,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 1288666,
+        "num": 1288666,
+        "word": "王婆说媒已婚男妻子深夜发视频哭诉",
+        "onboard_time": 1712195299,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 165922,
+        "num": 962409,
+        "word": "清明祭英烈家国永念",
+        "onboard_time": 1712199857,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 907317,
+        "num": 907317,
+        "word": "拍吻戏不张嘴",
+        "onboard_time": 1712193800,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 648146,
+        "num": 648146,
+        "word": "马英九率台湾青年公祭轩辕黄帝",
+        "onboard_time": 1712199257,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 635458,
+        "num": 635458,
+        "word": "向佐被网友认成外国女人和保姆",
+        "onboard_time": 1712197819,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 583614,
+        "num": 583614,
+        "word": "林狗你行不行啊",
+        "onboard_time": 1712189777,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 570797,
+        "num": 570797,
+        "word": "丈夫称杨雪发病16天已失去治疗机会",
+        "onboard_time": 1712190677,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 439219,
+        "num": 439219,
+        "word": "姜爷爷说福宝有点紧张",
+        "onboard_time": 1712186835,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 214839,
+        "num": 386538,
+        "word": "下车吃瓜发现自己才是主角",
+        "onboard_time": 1712185873,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 484855,
+        "num": 384655,
+        "word": "男子虐猫后将残肢丢至直播间",
+        "onboard_time": 1712194219,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 379783,
+        "num": 379783,
+        "word": "黄梦莹一开口素锦就回来了",
+        "onboard_time": 1712198719,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 374788,
+        "num": 374788,
+        "word": "上厕所时马桶居然着火了",
+        "onboard_time": 1712187856,
+        "rank": 12,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 356640,
+        "num": 356640,
+        "word": "850元一条的瑜伽裤上海人为啥会买",
+        "onboard_time": 1712194458,
+        "rank": 13,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 335941,
+        "num": 335941,
+        "word": "福宝入住神树坪基地",
+        "onboard_time": 1712188156,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 327750,
+        "num": 327750,
+        "word": "林狗你恋爱白谈了",
+        "onboard_time": 1712195899,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 321571,
+        "num": 321571,
+        "word": "大风致3人家中坠亡家属发声",
+        "onboard_time": 1712194999,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 321544,
+        "num": 321544,
+        "word": "青海地震",
+        "onboard_time": 1712192598,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 315328,
+        "num": 315328,
+        "word": "哈尔滨22岁男子被多名未成年围殴砍伤",
+        "onboard_time": 1712189416,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 300904,
+        "num": 300904,
+        "word": "ZICO将与Jennie合作",
+        "onboard_time": 1712199857,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 286059,
+        "num": 286059,
+        "word": "微信删好友应不应该先打招呼",
+        "onboard_time": 1712194219,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 267993,
+        "num": 267993,
+        "word": "台湾花莲强震已致9人死亡1038人受伤",
+        "onboard_time": 1712196258,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 252202,
+        "num": 252202,
+        "word": "眼泪女王",
+        "onboard_time": 1712196858,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 241754,
+        "num": 241754,
+        "word": "月经出现这5种情况说明子宫健康",
+        "onboard_time": 1712189297,
+        "rank": 23,
+        "category": "科学科普,健康医疗"
+      },
+      {
+        "raw_hot": 233964,
+        "num": 233964,
+        "word": "白鹿罗云熙或三搭",
+        "onboard_time": 1712194219,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 218625,
+        "num": 218625,
+        "word": "我的自卑有一半是妈妈带来的",
+        "onboard_time": 1712198178,
+        "rank": 25,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 213590,
+        "num": 213590,
+        "word": "全校唯一一个自驾上学的高中生",
+        "onboard_time": 1712196858,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 204339,
+        "num": 204339,
+        "word": "为什么年轻人不愿意买房了",
+        "onboard_time": 1712200458,
+        "rank": 27,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 195587,
+        "num": 195587,
+        "word": "詹姆斯肘击",
+        "onboard_time": 1712199558,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 194030,
+        "num": 194030,
+        "word": "女子同时兼职9家单位月入3万获刑",
+        "onboard_time": 1712189777,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 422293,
+        "num": 192597,
+        "word": "去客厅化",
+        "onboard_time": 1712199498,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 272430,
+        "num": 189723,
+        "word": "马克龙愿单抗俄军不连累美国和北约",
+        "onboard_time": 1712199558,
+        "rank": 31,
+        "category": "军事,国外时政"
+      },
+      {
+        "raw_hot": 186739,
+        "num": 186739,
+        "word": "煮熟的鸡蛋别再用凉水冷却了",
+        "onboard_time": 1712194398,
+        "rank": 32,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 185383,
+        "num": 185383,
+        "word": "福宝小屋布满竹子笋笋苹果胡萝卜",
+        "onboard_time": 1712200758,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 180860,
+        "num": 180860,
+        "word": "福宝",
+        "onboard_time": 1712186175,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 178528,
+        "num": 178528,
+        "word": "有些雪糕真的不忍心吃",
+        "onboard_time": 1712198298,
+        "rank": 35,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 173902,
+        "num": 173902,
+        "word": "清明节竟然是三合一节日",
+        "onboard_time": 1712191218,
+        "rank": 36,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 173132,
+        "num": 173132,
+        "word": "薛之谦镇江",
+        "onboard_time": 1712199198,
+        "rank": 37,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 171671,
+        "num": 171671,
+        "word": "林更新狗过但没丑过",
+        "onboard_time": 1712194939,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 169096,
+        "num": 169096,
+        "word": "福宝回家了",
+        "onboard_time": 1712143879,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 100941,
+        "num": 162921,
+        "word": "4月4日15时02分迎来清明",
+        "onboard_time": 1712194157,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 162046,
+        "num": 162046,
+        "word": "男朋友帮陌生女孩挡了一路姨妈渍",
+        "onboard_time": 1712186895,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 160118,
+        "num": 160118,
+        "word": "清明节",
+        "onboard_time": 1712185754,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 159924,
+        "num": 159924,
+        "word": "重庆妹子身材好因为上班都靠跑",
+        "onboard_time": 1712197758,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 149578,
+        "num": 149578,
+        "word": "与凤行圆房名场面",
+        "onboard_time": 1712186355,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 144735,
+        "num": 144735,
+        "word": "退圈的徐正溪 杀回来的黑珑",
+        "onboard_time": 1712146640,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 137630,
+        "num": 137630,
+        "word": "谈恋爱三个月定律",
+        "onboard_time": 1712185935,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 134196,
+        "num": 134196,
+        "word": "福宝何时公开亮相",
+        "onboard_time": 1712190557,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 133492,
+        "num": 133492,
+        "word": "陈楚生这个赛季太强了",
+        "onboard_time": 1712195598,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 123156,
+        "num": 123156,
+        "word": "她一身校服却惊艳了我整个青春",
+        "onboard_time": 1712200398,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平参加首都义务植树活动#"
+    }
+  }
+}

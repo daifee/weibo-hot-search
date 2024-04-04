@@ -1,10 +1,10 @@
 {
   "startTime": 1712161260598,
-  "endTime": 1712198239815,
+  "endTime": 1712200854553,
   "band_list": [
     {
-      "raw_hot": 1802912,
-      "num": 1802912,
+      "raw_hot": 1943413,
+      "num": 1943413,
       "word": "原来清明并不是放三天补一天",
       "onboard_time": 1712195299,
       "rank": 0,
@@ -17,6 +17,14 @@
       "onboard_time": 1712190677,
       "rank": 0,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1288666,
+      "num": 1288666,
+      "word": "王婆说媒已婚男妻子深夜发视频哭诉",
+      "onboard_time": 1712195299,
+      "rank": 4,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1212105,
@@ -49,14 +57,6 @@
       "onboard_time": 1712187856,
       "rank": 3,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 1070695,
-      "num": 1070695,
-      "word": "王婆说媒已婚男妻子深夜发视频哭诉",
-      "onboard_time": 1712195299,
-      "rank": 4,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1020762,
@@ -115,6 +115,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 648146,
+      "num": 648146,
+      "word": "马英九率台湾青年公祭轩辕黄帝",
+      "onboard_time": 1712199257,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 642318,
       "num": 277385,
       "word": "清明节竟然是三合一节日",
@@ -128,6 +136,14 @@
       "word": "向太陈岚称向佐曾遭遇校园霸凌",
       "onboard_time": 1712158160,
       "rank": 4,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 635458,
+      "num": 635458,
+      "word": "向佐被网友认成外国女人和保姆",
+      "onboard_time": 1712197819,
+      "rank": 27,
       "category": "艺人"
     },
     {
@@ -235,6 +251,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 422293,
+      "num": 192597,
+      "word": "去客厅化",
+      "onboard_time": 1712199498,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 416887,
       "num": 416887,
       "word": "金价飙涨女子卖了60多万股票买金条",
@@ -299,6 +323,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 379783,
+      "num": 379783,
+      "word": "黄梦莹一开口素锦就回来了",
+      "onboard_time": 1712198719,
+      "rank": 11,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 366705,
       "num": 124434,
       "word": "宝宝栽倒水桶溺亡奶奶数次经过未发现",
@@ -355,8 +387,8 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 322272,
-      "num": 322272,
+      "raw_hot": 327750,
+      "num": 327750,
       "word": "林狗你恋爱白谈了",
       "onboard_time": 1712195899,
       "rank": 19,
@@ -385,6 +417,14 @@
       "onboard_time": 1712196858,
       "rank": 24,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 300904,
+      "num": 300904,
+      "word": "ZICO将与Jennie合作",
+      "onboard_time": 1712199857,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 292594,
@@ -435,6 +475,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 272430,
+      "num": 189723,
+      "word": "马克龙愿单抗俄军不连累美国和北约",
+      "onboard_time": 1712199558,
+      "rank": 31,
+      "category": "军事,国外时政"
+    },
+    {
       "raw_hot": 263390,
       "num": 263390,
       "word": "林更新狗过但没丑过",
@@ -467,14 +515,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 235570,
-      "num": 235570,
-      "word": "向佐被网友认成外国女人和保姆",
-      "onboard_time": 1712197819,
-      "rank": 27,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 229211,
       "num": 229211,
       "word": "追风者 宋霭龄",
@@ -499,6 +539,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 218625,
+      "num": 218625,
+      "word": "我的自卑有一半是妈妈带来的",
+      "onboard_time": 1712198178,
+      "rank": 49,
+      "category": "情感"
+    },
+    {
       "raw_hot": 217772,
       "num": 217772,
       "word": "林更新你的丽来了",
@@ -521,6 +569,14 @@
       "onboard_time": 1712164694,
       "rank": 32,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 204339,
+      "num": 204339,
+      "word": "为什么年轻人不愿意买房了",
+      "onboard_time": 1712200458,
+      "rank": 27,
+      "category": "情感"
     },
     {
       "raw_hot": 200657,
@@ -563,6 +619,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 195587,
+      "num": 195587,
+      "word": "詹姆斯肘击",
+      "onboard_time": 1712199558,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
       "raw_hot": 190532,
       "num": 197947,
       "word": "福宝已顺利入住隔离检疫圈舍",
@@ -595,12 +659,28 @@
       "category": "美食"
     },
     {
+      "raw_hot": 185383,
+      "num": 185383,
+      "word": "福宝小屋布满竹子笋笋苹果胡萝卜",
+      "onboard_time": 1712200758,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 181487,
       "num": 181487,
       "word": "白敬亭难哄校服路透",
       "onboard_time": 1712190018,
       "rank": 34,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 178528,
+      "num": 178528,
+      "word": "有些雪糕真的不忍心吃",
+      "onboard_time": 1712198298,
+      "rank": 35,
+      "category": "美食"
     },
     {
       "raw_hot": 177285,
@@ -643,6 +723,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 173132,
+      "num": 173132,
+      "word": "薛之谦镇江",
+      "onboard_time": 1712199198,
+      "rank": 37,
+      "category": "演出"
+    },
+    {
       "raw_hot": 168416,
       "num": 168416,
       "word": "行止穿深V是为了这一刻",
@@ -651,12 +739,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 165922,
+      "num": 962409,
+      "word": "清明祭英烈家国永念",
+      "onboard_time": 1712199857,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 165186,
       "num": 165186,
       "word": "清明时节雨纷纷",
       "onboard_time": 1712194219,
       "rank": 41,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 159924,
+      "num": 159924,
+      "word": "重庆妹子身材好因为上班都靠跑",
+      "onboard_time": 1712197758,
+      "rank": 44,
+      "category": "幽默"
     },
     {
       "raw_hot": 159626,
@@ -811,14 +915,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 128289,
-      "num": 128289,
-      "word": "重庆妹子身材好因为上班都靠跑",
-      "onboard_time": 1712197758,
-      "rank": 44,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 127532,
       "num": 127532,
       "word": "JDG 研究下WBG",
@@ -841,6 +937,14 @@
       "onboard_time": 1712197638,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 123156,
+      "num": 123156,
+      "word": "她一身校服却惊艳了我整个青春",
+      "onboard_time": 1712200398,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 122928,
@@ -897,14 +1001,6 @@
       "onboard_time": 1712159777,
       "rank": 44,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 114483,
-      "num": 114483,
-      "word": "我的自卑有一半是妈妈带来的",
-      "onboard_time": 1712198178,
-      "rank": 49,
-      "category": "情感"
     },
     {
       "raw_hot": 112172,
