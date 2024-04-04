@@ -1,6 +1,6 @@
 {
   "startTime": 1711815680412,
-  "endTime": 1712262856477,
+  "endTime": 1712265327404,
   "band_list": [
     {
       "raw_hot": 16874674,
@@ -14579,6 +14579,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 23130,
+      "num": 23130,
+      "word": "林更新没有技巧就是硬帅",
+      "onboard_time": 1712262251,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 22900,
       "num": 29196,
       "word": "父母对孩子情感漠视的影响有多大",
@@ -14627,20 +14635,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 17069,
-      "num": 17069,
-      "word": "林更新没有技巧就是硬帅",
-      "onboard_time": 1712262251,
-      "rank": 41,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 16815,
       "num": 19489,
       "word": "把化妆过程拍成了化妆游戏",
       "onboard_time": 1711832411,
       "rank": 44,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 16310,
+      "num": 16310,
+      "word": "20多岁大学生为21岁烈士画像",
+      "onboard_time": 1712263451,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 13982,
@@ -14657,6 +14665,14 @@
       "onboard_time": 1712088130,
       "rank": 44,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 13602,
+      "num": 15966,
+      "word": "第一个因推销员受害的小狗出现了",
+      "onboard_time": 1712264350,
+      "rank": 46,
+      "category": "幽默"
     },
     {
       "raw_hot": 13345,

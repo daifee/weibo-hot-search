@@ -1,6 +1,6 @@
 {
   "startTime": 1712247709633,
-  "endTime": 1712262856477,
+  "endTime": 1712265327404,
   "band_list": [
     {
       "raw_hot": 1533243,
@@ -475,6 +475,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 23130,
+      "num": 23130,
+      "word": "林更新没有技巧就是硬帅",
+      "onboard_time": 1712262251,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 21128,
       "num": 22490,
       "word": "与凤行",
@@ -491,12 +499,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 17069,
-      "num": 17069,
-      "word": "林更新没有技巧就是硬帅",
-      "onboard_time": 1712262251,
-      "rank": 41,
-      "category": "艺人"
+      "raw_hot": 16310,
+      "num": 16310,
+      "word": "20多岁大学生为21岁烈士画像",
+      "onboard_time": 1712263451,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 16266,
@@ -513,6 +521,14 @@
       "onboard_time": 1712261771,
       "rank": 49,
       "category": "军事,社会新闻"
+    },
+    {
+      "raw_hot": 13602,
+      "num": 15966,
+      "word": "第一个因推销员受害的小狗出现了",
+      "onboard_time": 1712264350,
+      "rank": 46,
+      "category": "幽默"
     }
   ],
   "hotgov_list": [
