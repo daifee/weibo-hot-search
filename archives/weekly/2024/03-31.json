@@ -1,6 +1,6 @@
 {
   "startTime": 1711815680412,
-  "endTime": 1712200854553,
+  "endTime": 1712201680154,
   "band_list": [
     {
       "raw_hot": 16874674,
@@ -1843,6 +1843,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 706744,
+      "num": 394556,
+      "word": "去客厅化",
+      "onboard_time": 1712199498,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 699718,
       "num": 699718,
       "word": "张元英站姐发了刘耀文",
@@ -2059,6 +2067,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 660306,
+      "num": 660306,
+      "word": "向佐被网友认成外国女人和保姆",
+      "onboard_time": 1712197819,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 660244,
       "num": 660244,
       "word": "邓为站姐发了EXO",
@@ -2073,6 +2089,14 @@
       "onboard_time": 1712143159,
       "rank": 28,
       "category": "体育"
+    },
+    {
+      "raw_hot": 659312,
+      "num": 659312,
+      "word": "马英九率台湾青年公祭轩辕黄帝",
+      "onboard_time": 1712199257,
+      "rank": 4,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 659268,
@@ -2163,14 +2187,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 648146,
-      "num": 648146,
-      "word": "马英九率台湾青年公祭轩辕黄帝",
-      "onboard_time": 1712199257,
-      "rank": 4,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 647543,
       "num": 647543,
       "word": "福宝已登机准备起飞回国",
@@ -2232,14 +2248,6 @@
       "word": "向太陈岚称向佐曾遭遇校园霸凌",
       "onboard_time": 1712158160,
       "rank": 26,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 635458,
-      "num": 635458,
-      "word": "向佐被网友认成外国女人和保姆",
-      "onboard_time": 1712197819,
-      "rank": 27,
       "category": "艺人"
     },
     {
@@ -2449,6 +2457,14 @@
       "onboard_time": 1711948643,
       "rank": 41,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 600442,
+      "num": 372578,
+      "word": "福宝小屋布满竹子笋笋苹果胡萝卜",
+      "onboard_time": 1712200758,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 599221,
@@ -3795,14 +3811,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 422293,
-      "num": 192597,
-      "word": "去客厅化",
-      "onboard_time": 1712199498,
-      "rank": 30,
-      "category": "情感"
-    },
-    {
       "raw_hot": 421427,
       "num": 421427,
       "word": "张杰发了十年前的自己",
@@ -4635,6 +4643,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 336155,
+      "num": 336155,
+      "word": "马克龙愿单抗俄军不连累美国和北约",
+      "onboard_time": 1712199558,
+      "rank": 31,
+      "category": "军事,国外时政"
+    },
+    {
       "raw_hot": 335896,
       "num": 330435,
       "word": "原来工作了真的会没空了",
@@ -4793,6 +4809,14 @@
       "onboard_time": 1712110521,
       "rank": 27,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 323020,
+      "num": 323020,
+      "word": "ZICO将与Jennie合作",
+      "onboard_time": 1712199857,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 322862,
@@ -5121,14 +5145,6 @@
       "onboard_time": 1712047518,
       "rank": 21,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 300904,
-      "num": 300904,
-      "word": "ZICO将与Jennie合作",
-      "onboard_time": 1712199857,
-      "rank": 19,
-      "category": "艺人"
     },
     {
       "raw_hot": 299852,
@@ -5483,6 +5499,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 279304,
+      "num": 279304,
+      "word": "为什么很多漂亮女生却没人追",
+      "onboard_time": 1712201118,
+      "rank": 22,
+      "category": "情感"
+    },
+    {
       "raw_hot": 278790,
       "num": 250028,
       "word": "郑合惠子工作室发声",
@@ -5585,14 +5609,6 @@
       "onboard_time": 1712196858,
       "rank": 33,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 272430,
-      "num": 189723,
-      "word": "马克龙愿单抗俄军不连累美国和北约",
-      "onboard_time": 1712199558,
-      "rank": 31,
-      "category": "军事,国外时政"
     },
     {
       "raw_hot": 271912,
@@ -6105,6 +6121,14 @@
       "onboard_time": 1712020040,
       "rank": 28,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 248752,
+      "num": 248752,
+      "word": "为什么年轻人不愿意买房了",
+      "onboard_time": 1712200458,
+      "rank": 27,
+      "category": "情感"
     },
     {
       "raw_hot": 248567,
@@ -6947,6 +6971,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 219751,
+      "num": 208730,
+      "word": "她一身校服却惊艳了我整个青春",
+      "onboard_time": 1712200398,
+      "rank": 49,
+      "category": "情感"
+    },
+    {
       "raw_hot": 219642,
       "num": 219642,
       "word": "行止穿深V是为了这一刻",
@@ -7459,6 +7491,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 205800,
+      "num": 205800,
+      "word": "有些雪糕真的不忍心吃",
+      "onboard_time": 1712198298,
+      "rank": 35,
+      "category": "美食"
+    },
+    {
       "raw_hot": 205452,
       "num": 205452,
       "word": "张杰巅峰盛典全程",
@@ -7513,14 +7553,6 @@
       "onboard_time": 1711988896,
       "rank": 28,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 204339,
-      "num": 204339,
-      "word": "为什么年轻人不愿意买房了",
-      "onboard_time": 1712200458,
-      "rank": 27,
-      "category": "情感"
     },
     {
       "raw_hot": 204028,
@@ -8507,6 +8539,14 @@
       "category": "电竞,网红"
     },
     {
+      "raw_hot": 187363,
+      "num": 187363,
+      "word": "薛之谦镇江",
+      "onboard_time": 1712199198,
+      "rank": 37,
+      "category": "演出"
+    },
+    {
       "raw_hot": 187302,
       "num": 187302,
       "word": "原来新疆以前是海洋",
@@ -8609,14 +8649,6 @@
       "onboard_time": 1712153722,
       "rank": 45,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 185383,
-      "num": 185383,
-      "word": "福宝小屋布满竹子笋笋苹果胡萝卜",
-      "onboard_time": 1712200758,
-      "rank": 33,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 185154,
@@ -8835,6 +8867,14 @@
       "category": "社会新闻,电竞"
     },
     {
+      "raw_hot": 179940,
+      "num": 179940,
+      "word": "全网都在替林更新着急",
+      "onboard_time": 1712201118,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 179827,
       "num": 208066,
       "word": "吴艳妮说自己不是网红",
@@ -8947,14 +8987,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 178528,
-      "num": 178528,
-      "word": "有些雪糕真的不忍心吃",
-      "onboard_time": 1712198298,
-      "rank": 35,
-      "category": "美食"
-    },
-    {
       "raw_hot": 178527,
       "num": 178527,
       "word": "以前的大学生吃的到底有多好",
@@ -9017,6 +9049,14 @@
       "onboard_time": 1712192538,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 176900,
+      "num": 176900,
+      "word": "名创优品",
+      "onboard_time": 1712200878,
+      "rank": 38,
+      "category": "时尚"
     },
     {
       "raw_hot": 176690,
@@ -9169,14 +9209,6 @@
       "onboard_time": 1712071459,
       "rank": 38,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 173132,
-      "num": 173132,
-      "word": "薛之谦镇江",
-      "onboard_time": 1712199198,
-      "rank": 37,
-      "category": "演出"
     },
     {
       "raw_hot": 173046,
@@ -10155,6 +10187,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 152350,
+      "num": 152350,
+      "word": "揭秘殡葬用品暴利生意",
+      "onboard_time": 1712201597,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 152308,
       "num": 152308,
       "word": "眼霜眼膜真的能抵抗眼部衰老吗",
@@ -10737,6 +10777,14 @@
       "onboard_time": 1712070681,
       "rank": 47,
       "category": "情感"
+    },
+    {
+      "raw_hot": 140988,
+      "num": 140988,
+      "word": "日本地震",
+      "onboard_time": 1712201658,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 140846,
@@ -11361,14 +11409,6 @@
       "onboard_time": 1711869197,
       "rank": 45,
       "category": "演出"
-    },
-    {
-      "raw_hot": 123156,
-      "num": 123156,
-      "word": "她一身校服却惊艳了我整个青春",
-      "onboard_time": 1712200398,
-      "rank": 49,
-      "category": "情感"
     },
     {
       "raw_hot": 122940,
