@@ -1,6 +1,6 @@
 {
   "startTime": 1712161260598,
-  "endTime": 1712240292168,
+  "endTime": 1712241245680,
   "band_list": [
     {
       "raw_hot": 2366026,
@@ -123,6 +123,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1252043,
+      "num": 1252043,
+      "word": "18岁女生一天给男友打100多个电话",
+      "onboard_time": 1712234540,
+      "rank": 31,
+      "category": "情感"
+    },
+    {
       "raw_hot": 1213458,
       "num": 1213458,
       "word": "12306回应高铁走到半路两车乘客互换",
@@ -137,14 +145,6 @@
       "onboard_time": 1712193800,
       "rank": 12,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 1157092,
-      "num": 1157092,
-      "word": "18岁女生一天给男友打100多个电话",
-      "onboard_time": 1712234540,
-      "rank": 31,
-      "category": "情感"
     },
     {
       "raw_hot": 1153852,
@@ -251,6 +251,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 936972,
+      "num": 936972,
+      "word": "沈璃行止圆房完整版",
+      "onboard_time": 1712237780,
+      "rank": 4,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 897265,
       "num": 897265,
       "word": "终于在高铁上发疯了",
@@ -321,14 +329,6 @@
       "onboard_time": 1712151442,
       "rank": 3,
       "category": "社会正能量"
-    },
-    {
-      "raw_hot": 747656,
-      "num": 747656,
-      "word": "沈璃行止圆房完整版",
-      "onboard_time": 1712237780,
-      "rank": 4,
-      "category": "剧集"
     },
     {
       "raw_hot": 735526,
@@ -465,6 +465,14 @@
       "onboard_time": 1712150661,
       "rank": 10,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 602071,
+      "num": 602071,
+      "word": "马丽破产姐妹卡洛琳合作新片",
+      "onboard_time": 1712239460,
+      "rank": 15,
+      "category": "电影"
     },
     {
       "raw_hot": 596921,
@@ -683,6 +691,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 458124,
+      "num": 458124,
+      "word": "餐馆老板让暑假工5元随便吃被欠五千餐费",
+      "onboard_time": 1712237959,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 447567,
       "num": 447567,
       "word": "四川话果赖成功召唤福宝",
@@ -697,14 +713,6 @@
       "onboard_time": 1712233399,
       "rank": 25,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 418840,
-      "num": 418840,
-      "word": "马丽破产姐妹卡洛琳合作新片",
-      "onboard_time": 1712239460,
-      "rank": 15,
-      "category": "电影"
     },
     {
       "raw_hot": 416887,
@@ -779,20 +787,20 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 399298,
+      "num": 274580,
+      "word": "瘦了24斤闺蜜说我像张元英",
+      "onboard_time": 1712237240,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 397858,
       "num": 397858,
       "word": "神君红透了",
       "onboard_time": 1712159657,
       "rank": 18,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 397659,
-      "num": 273566,
-      "word": "瘦了24斤闺蜜说我像张元英",
-      "onboard_time": 1712237240,
-      "rank": 30,
-      "category": "艺人"
     },
     {
       "raw_hot": 397175,
@@ -897,14 +905,6 @@
       "onboard_time": 1712230219,
       "rank": 43,
       "category": "读书作家"
-    },
-    {
-      "raw_hot": 358497,
-      "num": 358497,
-      "word": "餐馆老板让暑假工5元随便吃被欠五千餐费",
-      "onboard_time": 1712237959,
-      "rank": 16,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 356312,
@@ -1073,6 +1073,14 @@
       "onboard_time": 1712196858,
       "rank": 24,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 305591,
+      "num": 305591,
+      "word": "李耕耘 让少年之家一直开花",
+      "onboard_time": 1712239039,
+      "rank": 24,
+      "category": "综艺"
     },
     {
       "raw_hot": 302706,
@@ -1249,14 +1257,6 @@
       "onboard_time": 1712218697,
       "rank": 41,
       "category": "情感"
-    },
-    {
-      "raw_hot": 255231,
-      "num": 255231,
-      "word": "李耕耘 让少年之家一直开花",
-      "onboard_time": 1712239039,
-      "rank": 24,
-      "category": "综艺"
     },
     {
       "raw_hot": 254104,
@@ -1571,6 +1571,22 @@
       "category": "情感"
     },
     {
+      "raw_hot": 202911,
+      "num": 202911,
+      "word": "沈璃行止事后尴尬",
+      "onboard_time": 1712240540,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 201023,
+      "num": 201023,
+      "word": "白鲨晋级总决赛",
+      "onboard_time": 1712240420,
+      "rank": 29,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 200657,
       "num": 133890,
       "word": "林更新下次想演赵丽颖",
@@ -1587,12 +1603,28 @@
       "category": "电影"
     },
     {
+      "raw_hot": 198664,
+      "num": 198664,
+      "word": "追风者收视率新高",
+      "onboard_time": 1712241078,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 197996,
       "num": 197996,
       "word": "赵露思玫瑰吊带裙",
       "onboard_time": 1712191099,
       "rank": 33,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 197731,
+      "num": 197731,
+      "word": "00后女生凭爱好考上大学",
+      "onboard_time": 1712240720,
+      "rank": 31,
+      "category": "教育"
     },
     {
       "raw_hot": 197420,
@@ -1787,6 +1819,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 178769,
+      "num": 178769,
+      "word": "这一互关就是一辈子",
+      "onboard_time": 1712240720,
+      "rank": 37,
+      "category": "情感"
+    },
+    {
       "raw_hot": 178404,
       "num": 178404,
       "word": "宫崎骏新片票房破2亿",
@@ -1875,12 +1915,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 172951,
+      "num": 172951,
+      "word": "行止很行",
+      "onboard_time": 1712240240,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 172137,
       "num": 172137,
       "word": "这就是我爸说的讨厌死猫了",
       "onboard_time": 1712235499,
       "rank": 36,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 170610,
+      "num": 170610,
+      "word": "台湾祭音乐节取消回春丹演出",
+      "onboard_time": 1712240899,
+      "rank": 39,
+      "category": "演出"
     },
     {
       "raw_hot": 170441,
@@ -1899,11 +1955,27 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 168410,
+      "num": 168410,
+      "word": "陈红军儿子小红军安慰奶奶不要哭",
+      "onboard_time": 1712238621,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 166851,
       "num": 166851,
       "word": "追风者刀麻了",
       "onboard_time": 1712233399,
       "rank": 39,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 166041,
+      "num": 166041,
+      "word": "林更新喘息声",
+      "onboard_time": 1712240480,
+      "rank": 41,
       "category": "剧集"
     },
     {
@@ -1931,14 +2003,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 164251,
-      "num": 164251,
-      "word": "陈红军儿子小红军安慰奶奶不要哭",
-      "onboard_time": 1712238621,
-      "rank": 34,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 162406,
       "num": 162406,
       "word": "柯南来了都得看监控",
@@ -1961,6 +2025,14 @@
       "onboard_time": 1712195837,
       "rank": 41,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 157589,
+      "num": 157589,
+      "word": "鹭卓夸花日常",
+      "onboard_time": 1712240360,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 156692,
@@ -2347,16 +2419,8 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 130950,
-      "num": 130950,
-      "word": "行止很行",
-      "onboard_time": 1712240240,
-      "rank": 45,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 130728,
-      "num": 873722,
+      "num": 1085303,
       "word": "古诗词里的清明意境超美",
       "onboard_time": 1712234959,
       "rank": 2,
@@ -2449,6 +2513,14 @@
       "onboard_time": 1712226978,
       "rank": 47,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 124093,
+      "num": 124512,
+      "word": "小米汽车回应退款问题",
+      "onboard_time": 1712240960,
+      "rank": 49,
+      "category": "汽车"
     },
     {
       "raw_hot": 123042,
