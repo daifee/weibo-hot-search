@@ -1,6 +1,6 @@
 {
   "startTime": 1712247709633,
-  "endTime": 1712258152647,
+  "endTime": 1712259313949,
   "band_list": [
     {
       "raw_hot": 1533243,
@@ -291,6 +291,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 130620,
+      "num": 130620,
+      "word": "华晨宇我们终于要一起看日出了",
+      "onboard_time": 1712254992,
+      "rank": 26,
+      "category": "演出"
+    },
+    {
       "raw_hot": 126267,
       "num": 126267,
       "word": "成毅前经纪公司发文",
@@ -321,14 +329,6 @@
       "onboard_time": 1712248217,
       "rank": 36,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 113885,
-      "num": 113885,
-      "word": "华晨宇我们终于要一起看日出了",
-      "onboard_time": 1712254992,
-      "rank": 26,
-      "category": "演出"
     },
     {
       "raw_hot": 98616,

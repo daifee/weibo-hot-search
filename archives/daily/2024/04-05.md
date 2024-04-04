@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/04/05 00:21:49 ~ 2024/04/05 03:15:52
+本榜单时间：2024/04/05 00:21:49 ~ 2024/04/05 03:35:13
 </p>
 </blockquote>
 <p>
@@ -231,6 +231,12 @@ cube新男团（热度：175162）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8D%8E%E6%99%A8%E5%AE%87%E6%88%91%E4%BB%AC%E7%BB%88%E4%BA%8E%E8%A6%81%E4%B8%80%E8%B5%B7%E7%9C%8B%E6%97%A5%E5%87%BA%E4%BA%86%23" target="weibo">
+华晨宇我们终于要一起看日出了（热度：130620）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%88%90%E6%AF%85%E5%89%8D%E7%BB%8F%E7%BA%AA%E5%85%AC%E5%8F%B8%E5%8F%91%E6%96%87%23" target="weibo">
 成毅前经纪公司发文（热度：126267）
 </a>
@@ -251,12 +257,6 @@ cube新男团（热度：175162）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%BB%84%E6%97%AD%E7%86%99solo%23" target="weibo">
 黄旭熙solo（热度：115737）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8D%8E%E6%99%A8%E5%AE%87%E6%88%91%E4%BB%AC%E7%BB%88%E4%BA%8E%E8%A6%81%E4%B8%80%E8%B5%B7%E7%9C%8B%E6%97%A5%E5%87%BA%E4%BA%86%23" target="weibo">
-华晨宇我们终于要一起看日出了（热度：113885）
 </a>
 </li>
 
