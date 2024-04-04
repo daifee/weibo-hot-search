@@ -1,7 +1,15 @@
 {
   "startTime": 1712161260598,
-  "endTime": 1712208835573,
+  "endTime": 1712211728797,
   "band_list": [
+    {
+      "raw_hot": 2123188,
+      "num": 2123188,
+      "word": "林更新 怪我没张口",
+      "onboard_time": 1712208678,
+      "rank": 22,
+      "category": "剧集"
+    },
     {
       "raw_hot": 1943413,
       "num": 1943413,
@@ -25,6 +33,14 @@
       "onboard_time": 1712203220,
       "rank": 14,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 1468177,
+      "num": 1468177,
+      "word": "zara包",
+      "onboard_time": 1712209158,
+      "rank": 1,
+      "category": "时尚,作品衍生"
     },
     {
       "raw_hot": 1371234,
@@ -115,11 +131,27 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1012600,
+      "num": 1012600,
+      "word": "三十岁才会发现戴珍珠的美",
+      "onboard_time": 1712206338,
+      "rank": 11,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 979564,
       "num": 979564,
       "word": "福宝回家了",
       "onboard_time": 1712143879,
       "rank": 1,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 941738,
+      "num": 941738,
+      "word": "姜爷爷希望福宝回中国不要改名字",
+      "onboard_time": 1712209038,
+      "rank": 4,
       "category": "社会新闻"
     },
     {
@@ -137,14 +169,6 @@
       "onboard_time": 1712189777,
       "rank": 4,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 811280,
-      "num": 811280,
-      "word": "三十岁才会发现戴珍珠的美",
-      "onboard_time": 1712206338,
-      "rank": 11,
-      "category": "时尚"
     },
     {
       "raw_hot": 780592,
@@ -259,8 +283,8 @@
       "category": "母婴育儿,科学科普"
     },
     {
-      "raw_hot": 547784,
-      "num": 547784,
+      "raw_hot": 559919,
+      "num": 559919,
       "word": "长期不上班是什么状态",
       "onboard_time": 1712206278,
       "rank": 16,
@@ -347,6 +371,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 471781,
+      "num": 471781,
+      "word": "运动瘦脸才能真正的瘦脸",
+      "onboard_time": 1712209158,
+      "rank": 15,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 460847,
       "num": 460847,
       "word": "前有王传君拜佛 后有王劲松上香",
@@ -361,6 +393,14 @@
       "onboard_time": 1712133859,
       "rank": 11,
       "category": "财经"
+    },
+    {
+      "raw_hot": 415695,
+      "num": 625597,
+      "word": "福宝的首选是红苹果",
+      "onboard_time": 1712207539,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 414422,
@@ -475,6 +515,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 355694,
+      "num": 323959,
+      "word": "iPhone16全家福机模曝光",
+      "onboard_time": 1712208979,
+      "rank": 20,
+      "category": "数码"
+    },
+    {
       "raw_hot": 346014,
       "num": 346014,
       "word": "福宝顺利抵达成都",
@@ -489,6 +537,14 @@
       "onboard_time": 1712194999,
       "rank": 16,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 341460,
+      "num": 341460,
+      "word": "地震时男孩一把抱起同桌往外冲",
+      "onboard_time": 1712209097,
+      "rank": 18,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 337958,
@@ -643,14 +699,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 256254,
-      "num": 625597,
-      "word": "福宝的首选是红苹果",
-      "onboard_time": 1712207539,
-      "rank": 43,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 254104,
       "num": 254104,
       "word": "清明节",
@@ -659,12 +707,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 254070,
-      "num": 254070,
-      "word": "林更新 怪我没张口",
-      "onboard_time": 1712208678,
+      "raw_hot": 250151,
+      "num": 250151,
+      "word": "子宫生病的第一个信号就是异常出血",
+      "onboard_time": 1712209337,
       "rank": 22,
-      "category": "剧集"
+      "category": "健康医疗"
     },
     {
       "raw_hot": 248752,
@@ -683,12 +731,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 239382,
+      "num": 239382,
+      "word": "警方回应奔驰压到孩子后逃逸",
+      "onboard_time": 1712209758,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 238104,
       "num": 238104,
       "word": "咒术回战256",
       "onboard_time": 1712207119,
       "rank": 24,
       "category": "动漫,作品衍生"
+    },
+    {
+      "raw_hot": 229429,
+      "num": 229429,
+      "word": "张艺兴回应内娱没有舞台",
+      "onboard_time": 1712211497,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 229211,
@@ -747,11 +811,27 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 214885,
+      "num": 182475,
+      "word": "小时候我哭着要和哥哥嫂子睡一起",
+      "onboard_time": 1712210838,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 211395,
       "num": 211395,
       "word": "福宝户口",
       "onboard_time": 1712148560,
       "rank": 25,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 209049,
+      "num": 209049,
+      "word": "四川话果赖成功召唤福宝",
+      "onboard_time": 1712208557,
+      "rank": 35,
       "category": "社会新闻"
     },
     {
@@ -891,6 +971,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 179158,
+      "num": 179158,
+      "word": "尚雯婕带5月龄萌兰录浪姐",
+      "onboard_time": 1712209820,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 179134,
       "num": 179134,
       "word": "72岁张纪中自己带孩子",
@@ -939,6 +1027,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 171992,
+      "num": 171992,
+      "word": "执笔",
+      "onboard_time": 1712210718,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 168416,
       "num": 168416,
       "word": "行止穿深V是为了这一刻",
@@ -963,6 +1059,22 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 164514,
+      "num": 164514,
+      "word": "吴磊眼神变化从清澈到绝望",
+      "onboard_time": 1712210478,
+      "rank": 35,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 160315,
+      "num": 160315,
+      "word": "韩国民众哭肿眼送别福宝",
+      "onboard_time": 1712211079,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 159924,
       "num": 159924,
       "word": "重庆妹子身材好因为上班都靠跑",
@@ -977,14 +1089,6 @@
       "onboard_time": 1712195837,
       "rank": 41,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 157677,
-      "num": 157677,
-      "word": "四川话果赖成功召唤福宝",
-      "onboard_time": 1712208557,
-      "rank": 35,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 156166,
@@ -1115,6 +1219,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 138294,
+      "num": 138294,
+      "word": "宫崎骏新片 人生减速带",
+      "onboard_time": 1712209998,
+      "rank": 45,
+      "category": "电影,动漫"
+    },
+    {
       "raw_hot": 138162,
       "num": 138162,
       "word": "李沁演技",
@@ -1177,6 +1289,22 @@
       "onboard_time": 1712152822,
       "rank": 37,
       "category": "教育"
+    },
+    {
+      "raw_hot": 135035,
+      "num": 135035,
+      "word": "你能接受刚毕业就结婚吗",
+      "onboard_time": 1712210778,
+      "rank": 46,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 133549,
+      "num": 133549,
+      "word": "你们有低分享欲的朋友吗",
+      "onboard_time": 1712210177,
+      "rank": 47,
+      "category": "情感"
     },
     {
       "raw_hot": 133252,
@@ -1289,6 +1417,14 @@
       "onboard_time": 1712159777,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 118046,
+      "num": 118046,
+      "word": "我的试卷被教授的猫吃了",
+      "onboard_time": 1712211558,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 112172,
@@ -1449,6 +1585,14 @@
       "onboard_time": 1712142020,
       "rank": 47,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 43447,
+      "num": 472157,
+      "word": "197653我们从未忘记",
+      "onboard_time": 1712210419,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 30342,
