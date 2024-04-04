@@ -1,7 +1,15 @@
 {
   "startTime": 1712161260598,
-  "endTime": 1712197573067,
+  "endTime": 1712198239815,
   "band_list": [
+    {
+      "raw_hot": 1802912,
+      "num": 1802912,
+      "word": "原来清明并不是放三天补一天",
+      "onboard_time": 1712195299,
+      "rank": 0,
+      "category": "情感"
+    },
     {
       "raw_hot": 1624375,
       "num": 1624375,
@@ -11,16 +19,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 1498264,
-      "num": 1498264,
-      "word": "原来清明并不是放三天补一天",
-      "onboard_time": 1712195299,
-      "rank": 0,
-      "category": "情感"
-    },
-    {
       "raw_hot": 1212105,
-      "num": 941099,
+      "num": 1156417,
       "word": "拍吻戏不张嘴",
       "onboard_time": 1712193800,
       "rank": 12,
@@ -49,6 +49,14 @@
       "onboard_time": 1712187856,
       "rank": 3,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 1070695,
+      "num": 1070695,
+      "word": "王婆说媒已婚男妻子深夜发视频哭诉",
+      "onboard_time": 1712195299,
+      "rank": 4,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1020762,
@@ -83,14 +91,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 809251,
-      "num": 809251,
-      "word": "王婆说媒已婚男妻子深夜发视频哭诉",
-      "onboard_time": 1712195299,
-      "rank": 4,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 756217,
       "num": 756217,
       "word": "大学生被赶下车后发现异常救司机一命",
@@ -99,7 +99,7 @@
       "category": "社会正能量"
     },
     {
-      "raw_hot": 713161,
+      "raw_hot": 730747,
       "num": 520366,
       "word": "男子虐猫后将残肢丢至直播间",
       "onboard_time": 1712194219,
@@ -219,20 +219,20 @@
       "category": "情感"
     },
     {
+      "raw_hot": 476912,
+      "num": 476912,
+      "word": "台湾花莲强震已致9人死亡1038人受伤",
+      "onboard_time": 1712196258,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 460847,
       "num": 460847,
       "word": "前有王传君拜佛 后有王劲松上香",
       "onboard_time": 1712158340,
       "rank": 9,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 444124,
-      "num": 444124,
-      "word": "台湾花莲强震已致9人死亡1038人受伤",
-      "onboard_time": 1712196258,
-      "rank": 12,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 416887,
@@ -291,6 +291,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 382720,
+      "num": 308768,
+      "word": "微信删好友应不应该先打招呼",
+      "onboard_time": 1712194219,
+      "rank": 40,
+      "category": "情感"
+    },
+    {
       "raw_hot": 366705,
       "num": 124434,
       "word": "宝宝栽倒水桶溺亡奶奶数次经过未发现",
@@ -299,20 +307,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 362647,
-      "num": 277468,
-      "word": "微信删好友应不应该先打招呼",
-      "onboard_time": 1712194219,
-      "rank": 40,
-      "category": "情感"
-    },
-    {
       "raw_hot": 361043,
       "num": 361043,
       "word": "张元英ins",
       "onboard_time": 1712143820,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 356312,
+      "num": 356312,
+      "word": "白鹿罗云熙或三搭",
+      "onboard_time": 1712194219,
+      "rank": 22,
+      "category": "剧集"
     },
     {
       "raw_hot": 346014,
@@ -339,20 +347,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 337523,
-      "num": 337523,
-      "word": "白鹿罗云熙或三搭",
-      "onboard_time": 1712194219,
-      "rank": 22,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 333096,
       "num": 333096,
       "word": "胃癌就是这么一口一口吃出来的",
       "onboard_time": 1712127921,
       "rank": 20,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 322272,
+      "num": 322272,
+      "word": "林狗你恋爱白谈了",
+      "onboard_time": 1712195899,
+      "rank": 19,
+      "category": "剧集"
     },
     {
       "raw_hot": 318592,
@@ -371,6 +379,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 305651,
+      "num": 305651,
+      "word": "眼泪女王",
+      "onboard_time": 1712196858,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 292594,
       "num": 292594,
       "word": "行止不行",
@@ -387,20 +403,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 280770,
-      "num": 277319,
+      "raw_hot": 285334,
+      "num": 285334,
       "word": "煮熟的鸡蛋别再用凉水冷却了",
       "onboard_time": 1712194398,
       "rank": 22,
       "category": "科学科普"
-    },
-    {
-      "raw_hot": 277502,
-      "num": 277502,
-      "word": "林狗你恋爱白谈了",
-      "onboard_time": 1712195899,
-      "rank": 19,
-      "category": "剧集"
     },
     {
       "raw_hot": 276951,
@@ -419,12 +427,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 265764,
-      "num": 265764,
-      "word": "眼泪女王",
+      "raw_hot": 273258,
+      "num": 273258,
+      "word": "全校唯一一个自驾上学的高中生",
       "onboard_time": 1712196858,
-      "rank": 24,
-      "category": "剧集"
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 263390,
@@ -457,6 +465,14 @@
       "onboard_time": 1712187015,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 235570,
+      "num": 235570,
+      "word": "向佐被网友认成外国女人和保姆",
+      "onboard_time": 1712197819,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 229211,
@@ -521,14 +537,6 @@
       "onboard_time": 1712191099,
       "rank": 33,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 197581,
-      "num": 197581,
-      "word": "全校唯一一个自驾上学的高中生",
-      "onboard_time": 1712196858,
-      "rank": 33,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 197420,
@@ -596,7 +604,7 @@
     },
     {
       "raw_hot": 177285,
-      "num": 1106639,
+      "num": 1163178,
       "word": "春天很好只是太想你",
       "onboard_time": 1712155103,
       "rank": 2,
@@ -627,8 +635,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 173688,
-      "num": 173688,
+      "raw_hot": 173809,
+      "num": 173809,
       "word": "陈楚生这个赛季太强了",
       "onboard_time": 1712195598,
       "rank": 37,
@@ -803,6 +811,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 128289,
+      "num": 128289,
+      "word": "重庆妹子身材好因为上班都靠跑",
+      "onboard_time": 1712197758,
+      "rank": 44,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 127532,
       "num": 127532,
       "word": "JDG 研究下WBG",
@@ -817,6 +833,14 @@
       "onboard_time": 1712191998,
       "rank": 44,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 126548,
+      "num": 126548,
+      "word": "公祭轩辕黄帝直播",
+      "onboard_time": 1712197638,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 122928,
@@ -873,6 +897,14 @@
       "onboard_time": 1712159777,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 114483,
+      "num": 114483,
+      "word": "我的自卑有一半是妈妈带来的",
+      "onboard_time": 1712198178,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 112172,
