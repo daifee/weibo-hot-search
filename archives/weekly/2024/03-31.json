@@ -1,6 +1,6 @@
 {
   "startTime": 1711815680412,
-  "endTime": 1712225912966,
+  "endTime": 1712226869154,
   "band_list": [
     {
       "raw_hot": 16874674,
@@ -1771,6 +1771,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 781946,
+      "num": 441254,
+      "word": "12306回应高铁走到半路两车乘客互换",
+      "onboard_time": 1712224338,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 780592,
       "num": 780592,
       "word": "考研失败成了小朋友的反面教材",
@@ -1784,6 +1792,14 @@
       "word": "杭州东站",
       "onboard_time": 1712129899,
       "rank": 6,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 777007,
+      "num": 777007,
+      "word": "福宝在家嘎嘎炫饭",
+      "onboard_time": 1712224218,
+      "rank": 3,
       "category": "社会新闻"
     },
     {
@@ -1849,14 +1865,6 @@
       "onboard_time": 1711963459,
       "rank": 12,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 753502,
-      "num": 753502,
-      "word": "福宝在家嘎嘎炫饭",
-      "onboard_time": 1712224218,
-      "rank": 3,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 752678,
@@ -3155,6 +3163,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 517939,
+      "num": 517939,
+      "word": "库克套现2.4亿元股票",
+      "onboard_time": 1712222599,
+      "rank": 22,
+      "category": "财经"
+    },
+    {
       "raw_hot": 517702,
       "num": 517702,
       "word": "工作人员回应小米SU7甩尾撞路边",
@@ -3419,6 +3435,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 488907,
+      "num": 421247,
+      "word": "章若楠问网友为啥要卖她签名照",
+      "onboard_time": 1712225479,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 485296,
       "num": 485296,
       "word": "江西通报提灯定损事件",
@@ -3529,6 +3553,14 @@
       "onboard_time": 1711889239,
       "rank": 13,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 474153,
+      "num": 308194,
+      "word": "玩了五年的闺蜜朋友圈把我屏蔽了",
+      "onboard_time": 1712225479,
+      "rank": 26,
+      "category": "情感"
     },
     {
       "raw_hot": 474110,
@@ -3649,14 +3681,6 @@
       "onboard_time": 1711872737,
       "rank": 30,
       "category": "汽车,艺人"
-    },
-    {
-      "raw_hot": 459568,
-      "num": 459568,
-      "word": "库克套现2.4亿元股票",
-      "onboard_time": 1712222599,
-      "rank": 22,
-      "category": "财经"
     },
     {
       "raw_hot": 456217,
@@ -3864,14 +3888,6 @@
       "word": "南昌天气",
       "onboard_time": 1711967960,
       "rank": 5,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 437422,
-      "num": 437422,
-      "word": "12306回应高铁走到半路两车乘客互换",
-      "onboard_time": 1712224338,
-      "rank": 11,
       "category": "社会新闻"
     },
     {
@@ -4492,7 +4508,7 @@
     },
     {
       "raw_hot": 381327,
-      "num": 287074,
+      "num": 298220,
       "word": "因为喷香水被同事提醒味道重",
       "onboard_time": 1712221697,
       "rank": 31,
@@ -4729,6 +4745,14 @@
       "onboard_time": 1711886358,
       "rank": 12,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 361529,
+      "num": 361529,
+      "word": "不建议吃冷青团",
+      "onboard_time": 1712222237,
+      "rank": 49,
+      "category": "美食"
     },
     {
       "raw_hot": 360220,
@@ -5179,14 +5203,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 322959,
-      "num": 322959,
-      "word": "不建议吃冷青团",
-      "onboard_time": 1712222237,
-      "rank": 49,
-      "category": "美食"
-    },
-    {
       "raw_hot": 322862,
       "num": 322862,
       "word": "试用期一天被辞退要工资有错吗",
@@ -5571,6 +5587,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 297825,
+      "num": 297825,
+      "word": "碾压孩子奔驰司机已投案",
+      "onboard_time": 1712226138,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 296819,
       "num": 296819,
       "word": "春天睡不好是正常现象",
@@ -5617,14 +5641,6 @@
       "onboard_time": 1712211977,
       "rank": 23,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 292896,
-      "num": 292896,
-      "word": "章若楠问网友为啥要卖她签名照",
-      "onboard_time": 1712225479,
-      "rank": 21,
-      "category": "艺人"
     },
     {
       "raw_hot": 292666,
@@ -5729,6 +5745,14 @@
       "onboard_time": 1712221637,
       "rank": 30,
       "category": "情感"
+    },
+    {
+      "raw_hot": 289512,
+      "num": 289512,
+      "word": "林更新面子回来了",
+      "onboard_time": 1712224998,
+      "rank": 30,
+      "category": "剧集"
     },
     {
       "raw_hot": 289285,
@@ -6235,14 +6259,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 262808,
-      "num": 201129,
-      "word": "林更新面子回来了",
-      "onboard_time": 1712224998,
-      "rank": 30,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 262674,
       "num": 262674,
       "word": "北京偶遇马东锡",
@@ -6723,6 +6739,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 243853,
+      "num": 243853,
+      "word": "妈妈让我把彩礼花光",
+      "onboard_time": 1712224877,
+      "rank": 31,
+      "category": "情感"
+    },
+    {
       "raw_hot": 243584,
       "num": 243584,
       "word": "爸妈真的很害怕我过期",
@@ -6936,14 +6960,6 @@
       "word": "被一只北太平洋巨型章鱼抱住脚",
       "onboard_time": 1712117602,
       "rank": 41,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 238021,
-      "num": 238021,
-      "word": "玩了五年的闺蜜朋友圈把我屏蔽了",
-      "onboard_time": 1712225479,
-      "rank": 26,
       "category": "情感"
     },
     {
@@ -7353,6 +7369,14 @@
       "onboard_time": 1711965202,
       "rank": 35,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 225340,
+      "num": 217013,
+      "word": "终于在高铁上发疯了",
+      "onboard_time": 1712225959,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 224881,
@@ -7873,14 +7897,6 @@
       "onboard_time": 1712152822,
       "rank": 37,
       "category": "教育"
-    },
-    {
-      "raw_hot": 210274,
-      "num": 199966,
-      "word": "妈妈让我把彩礼花光",
-      "onboard_time": 1712224877,
-      "rank": 31,
-      "category": "情感"
     },
     {
       "raw_hot": 210198,
@@ -8545,6 +8561,14 @@
       "onboard_time": 1712132660,
       "rank": 39,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 196556,
+      "num": 196556,
+      "word": "宋亚轩搜普钩gi",
+      "onboard_time": 1712225718,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 196516,
@@ -9219,6 +9243,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 186510,
+      "num": 186510,
+      "word": "没想到生鸡蛋煮熟就会变成水煮蛋",
+      "onboard_time": 1712225420,
+      "rank": 37,
+      "category": "美食"
+    },
+    {
       "raw_hot": 186277,
       "num": 186277,
       "word": "林俊杰周边",
@@ -9691,14 +9723,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 177231,
-      "num": 177231,
-      "word": "宋亚轩搜普钩gi",
-      "onboard_time": 1712225718,
-      "rank": 33,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 177003,
       "num": 177003,
       "word": "赵丽颖现身川美",
@@ -10163,6 +10187,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 166555,
+      "num": 166555,
+      "word": "美财政部部长耶伦抵达广州",
+      "onboard_time": 1712226678,
+      "rank": 36,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 166482,
       "num": 166482,
       "word": "欢乐颂",
@@ -10273,14 +10305,6 @@
       "onboard_time": 1711929739,
       "rank": 38,
       "category": "动漫,作品衍生"
-    },
-    {
-      "raw_hot": 163849,
-      "num": 163849,
-      "word": "没想到生鸡蛋煮熟就会变成水煮蛋",
-      "onboard_time": 1712225420,
-      "rank": 37,
-      "category": "美食"
     },
     {
       "raw_hot": 163407,
@@ -11275,6 +11299,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 146296,
+      "num": 146296,
+      "word": "最功利的婚姻 最动情的约定",
+      "onboard_time": 1712225058,
+      "rank": 44,
+      "category": "电影"
+    },
+    {
       "raw_hot": 146184,
       "num": 146184,
       "word": "年轻人为何会怪罪原生家庭",
@@ -11617,14 +11649,6 @@
       "onboard_time": 1712055319,
       "rank": 42,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 139824,
-      "num": 139824,
-      "word": "最功利的婚姻 最动情的约定",
-      "onboard_time": 1712225058,
-      "rank": 44,
-      "category": "电影"
     },
     {
       "raw_hot": 139083,
@@ -12121,6 +12145,14 @@
       "onboard_time": 1712219238,
       "rank": 41,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 127752,
+      "num": 127752,
+      "word": "女孩看街景地图意外发现已故奶奶",
+      "onboard_time": 1712226618,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 127674,
