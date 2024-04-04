@@ -1,6 +1,6 @@
 {
   "startTime": 1711815680412,
-  "endTime": 1712247709633,
+  "endTime": 1712248642039,
   "band_list": [
     {
       "raw_hot": 16874674,
@@ -2851,6 +2851,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 584678,
+      "num": 237628,
+      "word": "辅助生殖被纳入4省份医保",
+      "onboard_time": 1712245398,
+      "rank": 20,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 583636,
       "num": 566174,
       "word": "当一个白富美经历家庭破产",
@@ -3305,14 +3313,6 @@
       "onboard_time": 1712117663,
       "rank": 26,
       "category": "情感"
-    },
-    {
-      "raw_hot": 519227,
-      "num": 237628,
-      "word": "辅助生殖被纳入4省份医保",
-      "onboard_time": 1712245398,
-      "rank": 20,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 518449,
@@ -13291,6 +13291,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 115737,
+      "num": 115736,
+      "word": "黄旭熙solo",
+      "onboard_time": 1712248217,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 115668,
       "num": 115668,
       "word": "国医大师谈中医妇科产科使命",
@@ -13673,6 +13681,14 @@
       "onboard_time": 1711835891,
       "rank": 27,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 97201,
+      "num": 97201,
+      "word": "吴宣仪cover恶作剧",
+      "onboard_time": 1712248456,
+      "rank": 41,
+      "category": "音乐"
     },
     {
       "raw_hot": 96544,
