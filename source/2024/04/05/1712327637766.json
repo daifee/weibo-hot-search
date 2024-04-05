@@ -1,0 +1,410 @@
+{
+  "runTime": 1712327637766,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1942514,
+        "num": 1942514,
+        "word": "爱奇艺在干嘛",
+        "onboard_time": 1712321540,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1226583,
+        "num": 1226583,
+        "word": "与凤行大结局",
+        "onboard_time": 1712320279,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 117692,
+        "num": 1078055,
+        "word": "孩子们将碧空版如愿唱给空军英烈",
+        "onboard_time": 1712325319,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1018762,
+        "num": 1018762,
+        "word": "一个月给8000做全职妈妈",
+        "onboard_time": 1712317940,
+        "rank": 3,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 911516,
+        "num": 911516,
+        "word": "爱奇艺没有一台笔电吗",
+        "onboard_time": 1712325799,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 709850,
+        "num": 709850,
+        "word": "声入人心求金主爸爸",
+        "onboard_time": 1712320759,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 650156,
+        "num": 650156,
+        "word": "同学知道我上岸之后接受不了",
+        "onboard_time": 1712320398,
+        "rank": 6,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 618746,
+        "num": 618746,
+        "word": "香港发现首例人类感染猴疱疹病毒",
+        "onboard_time": 1712307258,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 572956,
+        "num": 572956,
+        "word": "赵丽颖林更新 粉丝联姻",
+        "onboard_time": 1712320999,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 319982,
+        "num": 481146,
+        "word": "姜爷爷学会果赖召唤术",
+        "onboard_time": 1712314099,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 410397,
+        "num": 410397,
+        "word": "武磊",
+        "onboard_time": 1712323099,
+        "rank": 10,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 406764,
+        "num": 406764,
+        "word": "男子结婚37年法定妻子竟是弟妹",
+        "onboard_time": 1712321959,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 381235,
+        "num": 381235,
+        "word": "王一博要不要擦一下括号",
+        "onboard_time": 1712322320,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 466879,
+        "num": 380574,
+        "word": "赵丽颖林更新 晋江文学",
+        "onboard_time": 1712317758,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 376456,
+        "num": 376456,
+        "word": "恋爱兄妹男五",
+        "onboard_time": 1712325678,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 375734,
+        "num": 375734,
+        "word": "与凤行 小情侣换装play",
+        "onboard_time": 1712324179,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 347045,
+        "num": 347045,
+        "word": "跳绳是最佳减重运动",
+        "onboard_time": 1712317758,
+        "rank": 16,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 332501,
+        "num": 332501,
+        "word": "沈图南你真是疯了",
+        "onboard_time": 1712321659,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 306885,
+        "num": 306885,
+        "word": "爱奇艺 草台班子",
+        "onboard_time": 1712326279,
+        "rank": 18,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 293483,
+        "num": 293483,
+        "word": "好看的人长得都很高清",
+        "onboard_time": 1712312599,
+        "rank": 19,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 465042,
+        "num": 288252,
+        "word": "高铁上再也不随便跟人换座了",
+        "onboard_time": 1712325500,
+        "rank": 20,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 394811,
+        "num": 284749,
+        "word": "24岁女生负债15万",
+        "onboard_time": 1712317999,
+        "rank": 21,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 280322,
+        "num": 280322,
+        "word": "郑恺把跑男说成跑年",
+        "onboard_time": 1712320638,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 222880,
+        "num": 254160,
+        "word": "非农",
+        "onboard_time": 1712324599,
+        "rank": 23,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 247571,
+        "num": 247571,
+        "word": "婚后不建议和父母住一起",
+        "onboard_time": 1712327119,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 273994,
+        "num": 246628,
+        "word": "九亿萤火虫的梦",
+        "onboard_time": 1712326159,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 244858,
+        "num": 244858,
+        "word": "原来我也才工作快两年而已",
+        "onboard_time": 1712326460,
+        "rank": 26,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 239954,
+        "num": 239954,
+        "word": "关晓彤裤子是不是有点短了",
+        "onboard_time": 1712313679,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 232923,
+        "num": 232923,
+        "word": "王一博硬控直播三分钟",
+        "onboard_time": 1712326939,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 205875,
+        "num": 232163,
+        "word": "缅甸5.6级地震",
+        "onboard_time": 1712323879,
+        "rank": 29,
+        "category": "社会新闻,自然"
+      },
+      {
+        "raw_hot": 232143,
+        "num": 232143,
+        "word": "Ricky真的cha了BiteMe",
+        "onboard_time": 1712324900,
+        "rank": 30,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 207434,
+        "num": 207434,
+        "word": "小米汽车再回应展车鼓包包浆问题",
+        "onboard_time": 1712323820,
+        "rank": 31,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 201426,
+        "num": 201426,
+        "word": "过度省钱后觉得生活没意思了",
+        "onboard_time": 1712327359,
+        "rank": 32,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 199279,
+        "num": 199279,
+        "word": "化妆品小样里藏了多少猫腻",
+        "onboard_time": 1712326699,
+        "rank": 33,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 188763,
+        "num": 188763,
+        "word": "暧昧过后没在一起才是绝杀",
+        "onboard_time": 1712310077,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 179268,
+        "num": 179268,
+        "word": "七三一部队罪证陈列馆清明节又排长队",
+        "onboard_time": 1712320039,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 170652,
+        "num": 170652,
+        "word": "因为口癖是宝贝社死了",
+        "onboard_time": 1712317940,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 165196,
+        "num": 165196,
+        "word": "王一博你终于不戴帽子了",
+        "onboard_time": 1712315720,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 164178,
+        "num": 164178,
+        "word": "分手前的征兆是什么",
+        "onboard_time": 1712327359,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 161603,
+        "num": 161603,
+        "word": "注销手机号等于出卖自己",
+        "onboard_time": 1712288598,
+        "rank": 39,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 158505,
+        "num": 158505,
+        "word": "黄晓明当着林更新的面咯咯哒",
+        "onboard_time": 1712296576,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 157696,
+        "num": 157696,
+        "word": "明知结局妈妈依然推开了那扇门",
+        "onboard_time": 1712327241,
+        "rank": 41,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 156077,
+        "num": 156077,
+        "word": "怀孕同事想每天坐我的车回家",
+        "onboard_time": 1712307378,
+        "rank": 42,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 153050,
+        "num": 153050,
+        "word": "眼泪女王",
+        "onboard_time": 1712327600,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 147434,
+        "num": 147434,
+        "word": "异地恋的解药是分享欲和见面",
+        "onboard_time": 1712326758,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 145316,
+        "num": 145316,
+        "word": "Flandre三连MVP",
+        "onboard_time": 1712323280,
+        "rank": 45,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 141779,
+        "num": 141779,
+        "word": "给狗狗做的饭被男朋友偷吃了",
+        "onboard_time": 1712325620,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 135291,
+        "num": 135291,
+        "word": "李逍遥 一次主动换来终生内向",
+        "onboard_time": 1712323999,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 125322,
+        "num": 125322,
+        "word": "被同学灌开水男生已治愈出院",
+        "onboard_time": 1712303357,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 110184,
+        "num": 125248,
+        "word": "北京国安2比2上海海港",
+        "onboard_time": 1712325500,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#不断增厚我们的绿色家底#"
+    }
+  }
+}

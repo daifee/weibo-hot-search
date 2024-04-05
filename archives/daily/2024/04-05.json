@@ -1,6 +1,6 @@
 {
   "startTime": 1712247709633,
-  "endTime": 1712326718691,
+  "endTime": 1712327637766,
   "band_list": [
     {
       "raw_hot": 2472045,
@@ -131,6 +131,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 911516,
+      "num": 911516,
+      "word": "爱奇艺没有一台笔电吗",
+      "onboard_time": 1712325799,
+      "rank": 10,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 911415,
       "num": 911415,
       "word": "10086回应注销手机号等于出卖自己",
@@ -252,7 +260,7 @@
     },
     {
       "raw_hot": 697744,
-      "num": 263981,
+      "num": 288252,
       "word": "高铁上再也不随便跟人换座了",
       "onboard_time": 1712325500,
       "rank": 20,
@@ -611,14 +619,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 466329,
-      "num": 466329,
-      "word": "爱奇艺没有一台笔电吗",
-      "onboard_time": 1712325799,
-      "rank": 10,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 457265,
       "num": 295468,
       "word": "男朋友说金价太高结婚时不买三金",
@@ -771,6 +771,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 410397,
+      "num": 410397,
+      "word": "武磊",
+      "onboard_time": 1712323099,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 407775,
       "num": 339215,
       "word": "陈梦",
@@ -795,6 +803,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 406764,
+      "num": 406764,
+      "word": "男子结婚37年法定妻子竟是弟妹",
+      "onboard_time": 1712321959,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 397651,
       "num": 355692,
       "word": "男子扫墓后发烧竟因吸入霉菌",
@@ -809,22 +825,6 @@
       "onboard_time": 1712298977,
       "rank": 20,
       "category": "美食"
-    },
-    {
-      "raw_hot": 392864,
-      "num": 392864,
-      "word": "男子结婚37年法定妻子竟是弟妹",
-      "onboard_time": 1712321959,
-      "rank": 26,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 385708,
-      "num": 385708,
-      "word": "武磊",
-      "onboard_time": 1712323099,
-      "rank": 49,
-      "category": "体育"
     },
     {
       "raw_hot": 383681,
@@ -843,12 +843,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 381235,
+      "num": 381235,
+      "word": "王一博要不要擦一下括号",
+      "onboard_time": 1712322320,
+      "rank": 21,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 378192,
       "num": 271968,
       "word": "简历空窗期比90个前任还难解释",
       "onboard_time": 1712299457,
       "rank": 23,
       "category": "情感"
+    },
+    {
+      "raw_hot": 376456,
+      "num": 376456,
+      "word": "恋爱兄妹男五",
+      "onboard_time": 1712325678,
+      "rank": 24,
+      "category": "综艺"
     },
     {
       "raw_hot": 374749,
@@ -873,14 +889,6 @@
       "onboard_time": 1712292497,
       "rank": 23,
       "category": "时尚"
-    },
-    {
-      "raw_hot": 361900,
-      "num": 361900,
-      "word": "王一博要不要擦一下括号",
-      "onboard_time": 1712322320,
-      "rank": 21,
-      "category": "剧集"
     },
     {
       "raw_hot": 349888,
@@ -1027,6 +1035,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 306885,
+      "num": 306885,
+      "word": "爱奇艺 草台班子",
+      "onboard_time": 1712326279,
+      "rank": 32,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 305791,
       "num": 299501,
       "word": "给妈妈转了520姑姑伤心了",
@@ -1091,14 +1107,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 291830,
-      "num": 261811,
-      "word": "恋爱兄妹男五",
-      "onboard_time": 1712325678,
-      "rank": 24,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 289222,
       "num": 289222,
       "word": "王一博愿意做什么",
@@ -1137,6 +1145,14 @@
       "onboard_time": 1712278157,
       "rank": 22,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 273994,
+      "num": 246628,
+      "word": "九亿萤火虫的梦",
+      "onboard_time": 1712326159,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 273244,
@@ -1251,6 +1267,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 247571,
+      "num": 247571,
+      "word": "婚后不建议和父母住一起",
+      "onboard_time": 1712327119,
+      "rank": 24,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 244858,
+      "num": 244858,
+      "word": "原来我也才工作快两年而已",
+      "onboard_time": 1712326460,
+      "rank": 38,
+      "category": "情感"
+    },
+    {
       "raw_hot": 244523,
       "num": 244523,
       "word": "千万不要等年纪大了才去旅游",
@@ -1323,6 +1355,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 232923,
+      "num": 232923,
+      "word": "王一博硬控直播三分钟",
+      "onboard_time": 1712326939,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 231688,
       "num": 231688,
       "word": "Flandre三连MVP",
@@ -1361,6 +1401,14 @@
       "onboard_time": 1712230099,
       "rank": 22,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 222880,
+      "num": 254160,
+      "word": "非农",
+      "onboard_time": 1712324599,
+      "rank": 31,
+      "category": "财经"
     },
     {
       "raw_hot": 222184,
@@ -1515,14 +1563,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 207270,
-      "num": 207270,
-      "word": "九亿萤火虫的梦",
-      "onboard_time": 1712326159,
-      "rank": 28,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 207253,
       "num": 207253,
       "word": "北京国安2比2上海海港",
@@ -1537,6 +1577,14 @@
       "onboard_time": 1712237240,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 205875,
+      "num": 232163,
+      "word": "缅甸5.6级地震",
+      "onboard_time": 1712323879,
+      "rank": 34,
+      "category": "社会新闻,自然"
     },
     {
       "raw_hot": 205357,
@@ -1563,12 +1611,12 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 201646,
-      "num": 201646,
-      "word": "非农",
-      "onboard_time": 1712324599,
-      "rank": 31,
-      "category": "财经"
+      "raw_hot": 201426,
+      "num": 201426,
+      "word": "过度省钱后觉得生活没意思了",
+      "onboard_time": 1712327359,
+      "rank": 32,
+      "category": "情感"
     },
     {
       "raw_hot": 200584,
@@ -1579,12 +1627,12 @@
       "category": "教育"
     },
     {
-      "raw_hot": 200362,
-      "num": 200362,
-      "word": "爱奇艺 草台班子",
-      "onboard_time": 1712326279,
-      "rank": 32,
-      "category": "作品衍生"
+      "raw_hot": 199279,
+      "num": 199279,
+      "word": "化妆品小样里藏了多少猫腻",
+      "onboard_time": 1712326699,
+      "rank": 48,
+      "category": "美妆"
     },
     {
       "raw_hot": 198124,
@@ -1779,14 +1827,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 179575,
-      "num": 179575,
-      "word": "缅甸5.6级地震",
-      "onboard_time": 1712323879,
-      "rank": 34,
-      "category": "社会新闻,自然"
-    },
-    {
       "raw_hot": 179441,
       "num": 179441,
       "word": "辛芷蕾赵昭仪同框拍摄路透",
@@ -1859,14 +1899,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 168555,
-      "num": 168555,
-      "word": "原来我也才工作快两年而已",
-      "onboard_time": 1712326460,
-      "rank": 38,
-      "category": "情感"
-    },
-    {
       "raw_hot": 168057,
       "num": 168057,
       "word": "元气森林音乐节阵容",
@@ -1913,6 +1945,14 @@
       "onboard_time": 1712323039,
       "rank": 41,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 164178,
+      "num": 164178,
+      "word": "分手前的征兆是什么",
+      "onboard_time": 1712327359,
+      "rank": 38,
+      "category": "情感"
     },
     {
       "raw_hot": 163251,
@@ -1987,6 +2027,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 157696,
+      "num": 157696,
+      "word": "明知结局妈妈依然推开了那扇门",
+      "onboard_time": 1712327241,
+      "rank": 41,
+      "category": "电影"
+    },
+    {
       "raw_hot": 155956,
       "num": 155956,
       "word": "苹果全家桶设备间或实现无缝切换",
@@ -2049,6 +2097,14 @@
       "onboard_time": 1712309418,
       "rank": 43,
       "category": "电影"
+    },
+    {
+      "raw_hot": 153050,
+      "num": 153050,
+      "word": "眼泪女王",
+      "onboard_time": 1712327600,
+      "rank": 43,
+      "category": "剧集"
     },
     {
       "raw_hot": 152476,
@@ -2145,6 +2201,14 @@
       "onboard_time": 1712323999,
       "rank": 47,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 147434,
+      "num": 147434,
+      "word": "异地恋的解药是分享欲和见面",
+      "onboard_time": 1712326758,
+      "rank": 44,
+      "category": "情感"
     },
     {
       "raw_hot": 146301,
@@ -2395,14 +2459,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 125128,
-      "num": 125128,
-      "word": "化妆品小样里藏了多少猫腻",
-      "onboard_time": 1712326699,
-      "rank": 48,
-      "category": "美妆"
-    },
-    {
       "raw_hot": 124588,
       "num": 124588,
       "word": "最近发了疯想谈恋爱的别急",
@@ -2473,6 +2529,14 @@
       "onboard_time": 1712240540,
       "rank": 36,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 117692,
+      "num": 1233138,
+      "word": "孩子们将碧空版如愿唱给空军英烈",
+      "onboard_time": 1712325319,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 116717,
@@ -2673,14 +2737,6 @@
       "onboard_time": 1712310679,
       "rank": 8,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 85615,
-      "num": 1233138,
-      "word": "孩子们将碧空版如愿唱给空军英烈",
-      "onboard_time": 1712325319,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 84338,

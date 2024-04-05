@@ -1,6 +1,6 @@
 {
   "startTime": 1711815680412,
-  "endTime": 1712326718691,
+  "endTime": 1712327637766,
   "band_list": [
     {
       "raw_hot": 16874674,
@@ -1595,6 +1595,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 911516,
+      "num": 911516,
+      "word": "爱奇艺没有一台笔电吗",
+      "onboard_time": 1712325799,
+      "rank": 10,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 911415,
       "num": 911415,
       "word": "10086回应注销手机号等于出卖自己",
@@ -2380,7 +2388,7 @@
     },
     {
       "raw_hot": 697744,
-      "num": 263981,
+      "num": 288252,
       "word": "高铁上再也不随便跟人换座了",
       "onboard_time": 1712325500,
       "rank": 20,
@@ -4355,14 +4363,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 466329,
-      "num": 466329,
-      "word": "爱奇艺没有一台笔电吗",
-      "onboard_time": 1712325799,
-      "rank": 10,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 466055,
       "num": 466055,
       "word": "马英九",
@@ -5131,6 +5131,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 410397,
+      "num": 410397,
+      "word": "武磊",
+      "onboard_time": 1712323099,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 408424,
       "num": 408424,
       "word": "周雨彤苏晓彤是喝了多少",
@@ -5161,6 +5169,14 @@
       "onboard_time": 1712283437,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 406764,
+      "num": 406764,
+      "word": "男子结婚37年法定妻子竟是弟妹",
+      "onboard_time": 1712321959,
+      "rank": 26,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 406666,
@@ -5307,14 +5323,6 @@
       "category": "美食,健康医疗"
     },
     {
-      "raw_hot": 392864,
-      "num": 392864,
-      "word": "男子结婚37年法定妻子竟是弟妹",
-      "onboard_time": 1712321959,
-      "rank": 26,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 392157,
       "num": 392157,
       "word": "刘若英报平安",
@@ -5393,14 +5401,6 @@
       "onboard_time": 1712242640,
       "rank": 18,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 385708,
-      "num": 385708,
-      "word": "武磊",
-      "onboard_time": 1712323099,
-      "rank": 49,
-      "category": "体育"
     },
     {
       "raw_hot": 385461,
@@ -5507,6 +5507,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 381235,
+      "num": 381235,
+      "word": "王一博要不要擦一下括号",
+      "onboard_time": 1712322320,
+      "rank": 21,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 380796,
       "num": 380796,
       "word": "一人一句祝福接福宝回国",
@@ -5577,6 +5585,14 @@
       "onboard_time": 1712299457,
       "rank": 23,
       "category": "情感"
+    },
+    {
+      "raw_hot": 376456,
+      "num": 376456,
+      "word": "恋爱兄妹男五",
+      "onboard_time": 1712325678,
+      "rank": 24,
+      "category": "综艺"
     },
     {
       "raw_hot": 376103,
@@ -5761,14 +5777,6 @@
       "onboard_time": 1712207898,
       "rank": 28,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 361900,
-      "num": 361900,
-      "word": "王一博要不要擦一下括号",
-      "onboard_time": 1712322320,
-      "rank": 21,
-      "category": "剧集"
     },
     {
       "raw_hot": 361694,
@@ -6635,6 +6643,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 306885,
+      "num": 306885,
+      "word": "爱奇艺 草台班子",
+      "onboard_time": 1712326279,
+      "rank": 32,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 306114,
       "num": 306114,
       "word": "华为拟分红770.95亿",
@@ -6969,14 +6985,6 @@
       "onboard_time": 1712127320,
       "rank": 28,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 291830,
-      "num": 261811,
-      "word": "恋爱兄妹男五",
-      "onboard_time": 1712325678,
-      "rank": 24,
-      "category": "综艺"
     },
     {
       "raw_hot": 291649,
@@ -7369,6 +7377,14 @@
       "onboard_time": 1711863557,
       "rank": 20,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 273994,
+      "num": 246628,
+      "word": "九亿萤火虫的梦",
+      "onboard_time": 1712326159,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 273641,
@@ -8131,6 +8147,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 247571,
+      "num": 247571,
+      "word": "婚后不建议和父母住一起",
+      "onboard_time": 1712327119,
+      "rank": 24,
+      "category": "情感"
+    },
+    {
       "raw_hot": 247428,
       "num": 247428,
       "word": "花间令郡主自杀了",
@@ -8185,6 +8209,14 @@
       "onboard_time": 1712018600,
       "rank": 25,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 244858,
+      "num": 244858,
+      "word": "原来我也才工作快两年而已",
+      "onboard_time": 1712326460,
+      "rank": 38,
+      "category": "情感"
     },
     {
       "raw_hot": 244579,
@@ -8667,6 +8699,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 232923,
+      "num": 232923,
+      "word": "王一博硬控直播三分钟",
+      "onboard_time": 1712326939,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 232920,
       "num": 232920,
       "word": "问界",
@@ -9057,6 +9097,14 @@
       "onboard_time": 1712044638,
       "rank": 26,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 222880,
+      "num": 254160,
+      "word": "非农",
+      "onboard_time": 1712324599,
+      "rank": 31,
+      "category": "财经"
     },
     {
       "raw_hot": 222571,
@@ -9811,14 +9859,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 207270,
-      "num": 207270,
-      "word": "九亿萤火虫的梦",
-      "onboard_time": 1712326159,
-      "rank": 28,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 207253,
       "num": 207253,
       "word": "北京国安2比2上海海港",
@@ -9873,6 +9913,14 @@
       "onboard_time": 1712060478,
       "rank": 33,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 205875,
+      "num": 232163,
+      "word": "缅甸5.6级地震",
+      "onboard_time": 1712323879,
+      "rank": 34,
+      "category": "社会新闻,自然"
     },
     {
       "raw_hot": 205862,
@@ -10139,12 +10187,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 201646,
-      "num": 201646,
-      "word": "非农",
-      "onboard_time": 1712324599,
-      "rank": 31,
-      "category": "财经"
+      "raw_hot": 201426,
+      "num": 201426,
+      "word": "过度省钱后觉得生活没意思了",
+      "onboard_time": 1712327359,
+      "rank": 32,
+      "category": "情感"
     },
     {
       "raw_hot": 201424,
@@ -10201,14 +10249,6 @@
       "onboard_time": 1712274255,
       "rank": 28,
       "category": "教育"
-    },
-    {
-      "raw_hot": 200362,
-      "num": 200362,
-      "word": "爱奇艺 草台班子",
-      "onboard_time": 1712326279,
-      "rank": 32,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 200326,
@@ -10313,6 +10353,14 @@
       "onboard_time": 1712216598,
       "rank": 27,
       "category": "电影"
+    },
+    {
+      "raw_hot": 199279,
+      "num": 199279,
+      "word": "化妆品小样里藏了多少猫腻",
+      "onboard_time": 1712326699,
+      "rank": 48,
+      "category": "美妆"
     },
     {
       "raw_hot": 199259,
@@ -11659,14 +11707,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 179575,
-      "num": 179575,
-      "word": "缅甸5.6级地震",
-      "onboard_time": 1712323879,
-      "rank": 34,
-      "category": "社会新闻,自然"
-    },
-    {
       "raw_hot": 179373,
       "num": 179373,
       "word": "腾势N7",
@@ -12299,14 +12339,6 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 168555,
-      "num": 168555,
-      "word": "原来我也才工作快两年而已",
-      "onboard_time": 1712326460,
-      "rank": 38,
-      "category": "情感"
-    },
-    {
       "raw_hot": 168410,
       "num": 168410,
       "word": "陈红军儿子小红军安慰奶奶不要哭",
@@ -12529,6 +12561,14 @@
       "onboard_time": 1711967659,
       "rank": 45,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 164178,
+      "num": 164178,
+      "word": "分手前的征兆是什么",
+      "onboard_time": 1712327359,
+      "rank": 38,
+      "category": "情感"
     },
     {
       "raw_hot": 164141,
@@ -12929,6 +12969,14 @@
       "onboard_time": 1711973419,
       "rank": 38,
       "category": "情感"
+    },
+    {
+      "raw_hot": 157696,
+      "num": 157696,
+      "word": "明知结局妈妈依然推开了那扇门",
+      "onboard_time": 1712327241,
+      "rank": 41,
+      "category": "电影"
     },
     {
       "raw_hot": 157695,
@@ -13769,6 +13817,14 @@
       "onboard_time": 1711957759,
       "rank": 41,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 147434,
+      "num": 147434,
+      "word": "异地恋的解药是分享欲和见面",
+      "onboard_time": 1712326758,
+      "rank": 44,
+      "category": "情感"
     },
     {
       "raw_hot": 147377,
@@ -15059,14 +15115,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 125128,
-      "num": 125128,
-      "word": "化妆品小样里藏了多少猫腻",
-      "onboard_time": 1712326699,
-      "rank": 48,
-      "category": "美妆"
-    },
-    {
       "raw_hot": 124961,
       "num": 124961,
       "word": "上海时装周",
@@ -15337,6 +15385,14 @@
       "onboard_time": 1711805539,
       "rank": 42,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 117692,
+      "num": 1233138,
+      "word": "孩子们将碧空版如愿唱给空军英烈",
+      "onboard_time": 1712325319,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 117578,
@@ -16017,14 +16073,6 @@
       "onboard_time": 1711834331,
       "rank": 45,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 85615,
-      "num": 1233138,
-      "word": "孩子们将碧空版如愿唱给空军英烈",
-      "onboard_time": 1712325319,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 85036,
