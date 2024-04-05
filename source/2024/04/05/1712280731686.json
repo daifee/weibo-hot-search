@@ -1,0 +1,410 @@
+{
+  "runTime": 1712280731686,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1791587,
+        "num": 1791587,
+        "word": "福宝用爪子扒拉了下爷爷",
+        "onboard_time": 1712278397,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1511818,
+        "num": 1511818,
+        "word": "陈泽扰民",
+        "onboard_time": 1712273233,
+        "rank": 1,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 40939,
+        "num": 843304,
+        "word": "清明版如愿致敬先辈",
+        "onboard_time": 1712234720,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 817843,
+        "num": 817843,
+        "word": "姜爷爷回韩国了",
+        "onboard_time": 1712274315,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 752217,
+        "num": 752217,
+        "word": "辅助生殖被纳入4省份医保",
+        "onboard_time": 1712245398,
+        "rank": 4,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 592622,
+        "num": 592622,
+        "word": "张艺兴将在韩国打歌",
+        "onboard_time": 1712278337,
+        "rank": 5,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 539573,
+        "num": 539573,
+        "word": "何超莲为赌王扫墓",
+        "onboard_time": 1712272995,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 514918,
+        "num": 514918,
+        "word": "丈夫牺牲后警号由妻子重启",
+        "onboard_time": 1712276236,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 480056,
+        "num": 480056,
+        "word": "甘肃拍到小鸟把彩虹披身上了",
+        "onboard_time": 1712274857,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 398128,
+        "num": 398128,
+        "word": "青岛全面调查太平陵公墓问题",
+        "onboard_time": 1712278577,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 756594,
+        "num": 395938,
+        "word": "雷军 我的SU7",
+        "onboard_time": 1712278937,
+        "rank": 10,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 556213,
+        "num": 393745,
+        "word": "淘宝百亿补贴买到4瓶串码一样的茅台",
+        "onboard_time": 1712272995,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 389456,
+        "num": 389456,
+        "word": "上戏偶遇林更新",
+        "onboard_time": 1712279116,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 371837,
+        "num": 371837,
+        "word": "视力恢复手法",
+        "onboard_time": 1712274857,
+        "rank": 13,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 355692,
+        "num": 355692,
+        "word": "男子扫墓后发烧竟因吸入霉菌",
+        "onboard_time": 1712276297,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 348082,
+        "num": 348082,
+        "word": "十年后才知道朋友提前杀虫了",
+        "onboard_time": 1712235381,
+        "rank": 15,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 324240,
+        "num": 324240,
+        "word": "徐艺洋发了和黄子韬的合照",
+        "onboard_time": 1712232918,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 295687,
+        "num": 295687,
+        "word": "姜爷爷请放心福宝会好好的",
+        "onboard_time": 1712277138,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 292178,
+        "num": 292178,
+        "word": "邓科配享太庙",
+        "onboard_time": 1712275756,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 272816,
+        "num": 290957,
+        "word": "林更新喘息声",
+        "onboard_time": 1712240480,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 290888,
+        "num": 290888,
+        "word": "四千的工资根本花不完甚至还能存点钱",
+        "onboard_time": 1712242880,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 275394,
+        "num": 275394,
+        "word": "女子被撞大哭交警语气满是心疼",
+        "onboard_time": 1712278157,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 261836,
+        "num": 261836,
+        "word": "最让人震惊的爆改出现了",
+        "onboard_time": 1712249715,
+        "rank": 22,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 253278,
+        "num": 253278,
+        "word": "与凤行周峻纬出场",
+        "onboard_time": 1712276177,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 244523,
+        "num": 244523,
+        "word": "千万不要等年纪大了才去旅游",
+        "onboard_time": 1712278997,
+        "rank": 24,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 220252,
+        "num": 220252,
+        "word": "餐馆老板让暑假工5元随便吃被欠五千餐费",
+        "onboard_time": 1712237959,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 201329,
+        "num": 201329,
+        "word": "浙江一男孩还在上小学就飙到1米91",
+        "onboard_time": 1712275817,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 198425,
+        "num": 198425,
+        "word": "减肥放弃自讨苦吃瘦了20斤",
+        "onboard_time": 1712273055,
+        "rank": 27,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 188558,
+        "num": 188558,
+        "word": "崂山风景区数百亩青山遭非法公墓霸占",
+        "onboard_time": 1712279897,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 174027,
+        "num": 174027,
+        "word": "考研专业第一也要过品德这关",
+        "onboard_time": 1712274255,
+        "rank": 29,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 171231,
+        "num": 171231,
+        "word": "林更新没有技巧就是硬帅",
+        "onboard_time": 1712262251,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 165049,
+        "num": 165049,
+        "word": "当体制内的好友成了领导",
+        "onboard_time": 1712280558,
+        "rank": 31,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 164532,
+        "num": 164532,
+        "word": "陈泽发文回应扰民",
+        "onboard_time": 1712280558,
+        "rank": 32,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 160161,
+        "num": 160161,
+        "word": "猴子亲自给饭吃",
+        "onboard_time": 1712276117,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 155956,
+        "num": 155956,
+        "word": "苹果全家桶设备间或实现无缝切换",
+        "onboard_time": 1712279657,
+        "rank": 34,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 154461,
+        "num": 154461,
+        "word": "90后女子故意在取保候审期间怀孕",
+        "onboard_time": 1712280678,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 140969,
+        "num": 140969,
+        "word": "惜花芷 一下来了四个菀菀",
+        "onboard_time": 1712277617,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 138791,
+        "num": 138791,
+        "word": "杜华震撼孟佳的鞋",
+        "onboard_time": 1712279837,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 139361,
+        "num": 138339,
+        "word": "黄旭熙晒与粉丝大合照",
+        "onboard_time": 1712275996,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 136501,
+        "num": 136501,
+        "word": "大学教授开生死课带学生参观殡仪馆",
+        "onboard_time": 1712280678,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 132948,
+        "num": 132948,
+        "word": "我和老公劝高三儿子放弃高考",
+        "onboard_time": 1712236278,
+        "rank": 40,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 130697,
+        "num": 130697,
+        "word": "为什么鸟类大多是侧面照",
+        "onboard_time": 1712249056,
+        "rank": 41,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 129737,
+        "num": 129737,
+        "word": "婚恋网盗用张颂文照片",
+        "onboard_time": 1712280558,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 125548,
+        "num": 125548,
+        "word": "行止张嘴了",
+        "onboard_time": 1712221998,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 126944,
+        "num": 125153,
+        "word": "预计SU7最长需27周交付",
+        "onboard_time": 1712278877,
+        "rank": 44,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 124588,
+        "num": 124588,
+        "word": "最近发了疯想谈恋爱的别急",
+        "onboard_time": 1712274315,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 124006,
+        "num": 124006,
+        "word": "涵艺爆料被Tian起诉",
+        "onboard_time": 1712275155,
+        "rank": 46,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 111851,
+        "num": 111851,
+        "word": "这一互关就是一辈子",
+        "onboard_time": 1712240720,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 105455,
+        "num": 105455,
+        "word": "赵一博40分钟的vlog",
+        "onboard_time": 1712277556,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 104729,
+        "num": 104729,
+        "word": "郑智化受伤",
+        "onboard_time": 1712280678,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#家国永念致敬英雄#"
+    }
+  }
+}
