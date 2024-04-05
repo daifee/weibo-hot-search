@@ -1,0 +1,410 @@
+{
+  "runTime": 1712295238374,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2441583,
+        "num": 2441583,
+        "word": "注销手机号等于出卖自己",
+        "onboard_time": 1712288598,
+        "rank": 0,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 675260,
+        "num": 675260,
+        "word": "成都迪士尼",
+        "onboard_time": 1712282418,
+        "rank": 1,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 16625,
+        "num": 608670,
+        "word": "这一幕幕就是家国清明",
+        "onboard_time": 1712294957,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 578637,
+        "num": 578637,
+        "word": "福宝用爪子扒拉了下爷爷",
+        "onboard_time": 1712278397,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 551637,
+        "num": 551637,
+        "word": "强吻看病女子医生被行拘6日",
+        "onboard_time": 1712288778,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 545888,
+        "num": 545888,
+        "word": "哑舍开机官宣",
+        "onboard_time": 1712284218,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 474553,
+        "num": 474553,
+        "word": "马嘉祺感谢张杰送的餐具套装",
+        "onboard_time": 1712293278,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 450454,
+        "num": 450454,
+        "word": "宫崎骏滤镜 AI对生命是侮辱",
+        "onboard_time": 1712288417,
+        "rank": 7,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 467152,
+        "num": 450266,
+        "word": "欧豪说侯雯元孤枕难眠",
+        "onboard_time": 1712293697,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 211878,
+        "num": 450174,
+        "word": "丈夫牺牲后警号由妻子重启",
+        "onboard_time": 1712276236,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1358352,
+        "num": 449895,
+        "word": "多地小区出现骨灰房",
+        "onboard_time": 1712292377,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 470131,
+        "num": 449836,
+        "word": "雷军送张颂文的SU7真车现身",
+        "onboard_time": 1712285837,
+        "rank": 11,
+        "category": "汽车,艺人"
+      },
+      {
+        "raw_hot": 449653,
+        "num": 449653,
+        "word": "行止雪中求婚",
+        "onboard_time": 1712292439,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 421424,
+        "num": 421424,
+        "word": "台湾花莲地震已致12人遇难",
+        "onboard_time": 1712294058,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 55236,
+        "num": 402447,
+        "word": "致敬公安英雄",
+        "onboard_time": 1712293278,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 393514,
+        "num": 393514,
+        "word": "陈泽扰民",
+        "onboard_time": 1712273233,
+        "rank": 15,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 393374,
+        "num": 393374,
+        "word": "于正说赵晴锦超是网红",
+        "onboard_time": 1712291419,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 388791,
+        "num": 388791,
+        "word": "姜爷爷回韩国了",
+        "onboard_time": 1712274315,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 379379,
+        "num": 379379,
+        "word": "28岁荷兰女孩预约了安乐死",
+        "onboard_time": 1712291238,
+        "rank": 18,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 366688,
+        "num": 366688,
+        "word": "易烊千玺闭眼侧颜",
+        "onboard_time": 1712292737,
+        "rank": 19,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 324448,
+        "num": 324448,
+        "word": "90后女子故意在取保候审期间怀孕",
+        "onboard_time": 1712280678,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 305569,
+        "num": 305569,
+        "word": "高跟鞋为什么被女性们抛弃",
+        "onboard_time": 1712292497,
+        "rank": 21,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 267221,
+        "num": 267221,
+        "word": "辅助生殖被纳入4省份医保",
+        "onboard_time": 1712245398,
+        "rank": 22,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 265260,
+        "num": 265260,
+        "word": "唐山市副市长李建忠被查",
+        "onboard_time": 1712286497,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 258464,
+        "num": 258464,
+        "word": "分手三个月定律",
+        "onboard_time": 1712290817,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 59343,
+        "num": 248050,
+        "word": "清澈的爱我们一直记得",
+        "onboard_time": 1712278218,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 245683,
+        "num": 245683,
+        "word": "妈妈为什么嫁给爸爸",
+        "onboard_time": 1712289677,
+        "rank": 26,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 225604,
+        "num": 225604,
+        "word": "杨迪曝张杰最喜欢到处送杯子",
+        "onboard_time": 1712294897,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 219001,
+        "num": 219001,
+        "word": "智性恋情侣",
+        "onboard_time": 1712291177,
+        "rank": 28,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 213396,
+        "num": 213396,
+        "word": "6岁孙子在爷爷坟前吃供品",
+        "onboard_time": 1712282896,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 211304,
+        "num": 211304,
+        "word": "霉霉80亿身家成全球音乐圈首富",
+        "onboard_time": 1712285357,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 205561,
+        "num": 205561,
+        "word": "恋爱兄妹",
+        "onboard_time": 1712289436,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 189361,
+        "num": 189361,
+        "word": "张婧仪油菜花plog",
+        "onboard_time": 1712294298,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 187914,
+        "num": 187914,
+        "word": "雷军 我的SU7",
+        "onboard_time": 1712278937,
+        "rank": 33,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 187899,
+        "num": 187899,
+        "word": "与凤行超点大结局",
+        "onboard_time": 1712288118,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 186400,
+        "num": 186400,
+        "word": "卢洋洋穿搭",
+        "onboard_time": 1712294117,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 179054,
+        "num": 179054,
+        "word": "婚恋网盗用张颂文照片",
+        "onboard_time": 1712280558,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 177660,
+        "num": 177660,
+        "word": "换乘恋爱3",
+        "onboard_time": 1712294597,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 167660,
+        "num": 167660,
+        "word": "陈泽发文回应扰民",
+        "onboard_time": 1712280558,
+        "rank": 38,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 167578,
+        "num": 167578,
+        "word": "Faker说无法排位影响队伍状态",
+        "onboard_time": 1712293337,
+        "rank": 39,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 167082,
+        "num": 167082,
+        "word": "上戏偶遇林更新",
+        "onboard_time": 1712279116,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 165101,
+        "num": 165101,
+        "word": "i叔卖e狗",
+        "onboard_time": 1712289257,
+        "rank": 41,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 160004,
+        "num": 160004,
+        "word": "台湾花莲海域再发4.8级地震",
+        "onboard_time": 1712295197,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 159621,
+        "num": 159621,
+        "word": "吴彦姝 娱乐圈人脉奶奶",
+        "onboard_time": 1712285658,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 159479,
+        "num": 159479,
+        "word": "减肚子的一个简单办法",
+        "onboard_time": 1712292497,
+        "rank": 44,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 151033,
+        "num": 151033,
+        "word": "青岛全面调查太平陵公墓问题",
+        "onboard_time": 1712278577,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 150377,
+        "num": 150377,
+        "word": "宋亚轩带了一盏声控小灯",
+        "onboard_time": 1712295197,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 150123,
+        "num": 150123,
+        "word": "MINJU大吧跑路",
+        "onboard_time": 1712283437,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 149071,
+        "num": 149071,
+        "word": "很舒服但很伤身体行为",
+        "onboard_time": 1712282896,
+        "rank": 48,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 148828,
+        "num": 148828,
+        "word": "这是我的岛",
+        "onboard_time": 1712292918,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#清明祭英烈家国永念#"
+    }
+  }
+}
