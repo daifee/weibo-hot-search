@@ -1,6 +1,6 @@
 {
   "startTime": 1712247709633,
-  "endTime": 1712308631598,
+  "endTime": 1712309656696,
   "band_list": [
     {
       "raw_hot": 2472045,
@@ -67,6 +67,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1275006,
+      "num": 1275006,
+      "word": "香港发现首例人类感染猴疱疹病毒",
+      "onboard_time": 1712307258,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1260233,
       "num": 1260233,
       "word": "哑舍开机官宣",
@@ -83,8 +91,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 903062,
-      "num": 903062,
+      "raw_hot": 911415,
+      "num": 911415,
       "word": "10086回应注销手机号等于出卖自己",
       "onboard_time": 1712306839,
       "rank": 3,
@@ -179,14 +187,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 653194,
-      "num": 653194,
-      "word": "香港发现首例人类感染猴疱疹病毒",
-      "onboard_time": 1712307258,
-      "rank": 4,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 637522,
       "num": 637522,
       "word": "强吻看病女子医生被行拘6日",
@@ -276,7 +276,7 @@
     },
     {
       "raw_hot": 569148,
-      "num": 369965,
+      "num": 437913,
       "word": "我发现一个买了无座的孕妇",
       "onboard_time": 1712305278,
       "rank": 45,
@@ -435,6 +435,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 427259,
+      "num": 427259,
+      "word": "未来婆婆给的红包是百里挑一",
+      "onboard_time": 1712307857,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 425251,
       "num": 425251,
       "word": "拜登要求以色列立即停火",
@@ -587,6 +595,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 369576,
+      "num": 369576,
+      "word": "胖东来今年将安排全员出国游",
+      "onboard_time": 1712307678,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 349888,
       "num": 349888,
       "word": "林更新工作室",
@@ -616,6 +632,14 @@
       "word": "当体制内的好友成了领导",
       "onboard_time": 1712280558,
       "rank": 31,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 328351,
+      "num": 328351,
+      "word": "恋爱是不是只存在于21岁",
+      "onboard_time": 1712304858,
+      "rank": 30,
       "category": "情感"
     },
     {
@@ -779,28 +803,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 267990,
-      "num": 267990,
-      "word": "恋爱是不是只存在于21岁",
-      "onboard_time": 1712304858,
-      "rank": 30,
-      "category": "情感"
-    },
-    {
       "raw_hot": 267277,
       "num": 267277,
       "word": "恋爱让他谈 三界我来守",
       "onboard_time": 1712243360,
       "rank": 25,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 266679,
-      "num": 266679,
-      "word": "胖东来今年将安排全员出国游",
-      "onboard_time": 1712307678,
-      "rank": 22,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 266272,
@@ -891,20 +899,20 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 239121,
-      "num": 196755,
-      "word": "未来婆婆给的红包是百里挑一",
-      "onboard_time": 1712307857,
-      "rank": 30,
-      "category": "情感"
-    },
-    {
       "raw_hot": 229792,
       "num": 229792,
       "word": "美方要求耶伦就餐时大厅打开隔断",
       "onboard_time": 1712301858,
       "rank": 30,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 227743,
+      "num": 936274,
+      "word": "中国籍抗日航空英烈名录首次公布",
+      "onboard_time": 1712308278,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 226309,
@@ -921,6 +929,14 @@
       "onboard_time": 1712262251,
       "rank": 41,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 219906,
+      "num": 219906,
+      "word": "钟楚曦夹起来了",
+      "onboard_time": 1712308998,
+      "rank": 23,
+      "category": "综艺"
     },
     {
       "raw_hot": 219001,
@@ -1041,6 +1057,22 @@
       "onboard_time": 1712303837,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 194276,
+      "num": 194276,
+      "word": "张杰黑色渔夫帽",
+      "onboard_time": 1712308638,
+      "rank": 28,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 191517,
+      "num": 191517,
+      "word": "黄曦彦 犯了错的孩子要付出代价",
+      "onboard_time": 1712308758,
+      "rank": 30,
+      "category": "电影"
     },
     {
       "raw_hot": 190863,
@@ -1227,6 +1259,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 166775,
+      "num": 166775,
+      "word": "Doinb给baolan发消息",
+      "onboard_time": 1712308160,
+      "rank": 40,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 163251,
       "num": 163251,
       "word": "利莫里亚见闻",
@@ -1257,6 +1297,14 @@
       "onboard_time": 1712276117,
       "rank": 34,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 159887,
+      "num": 159887,
+      "word": "在日本买了套老破小后想哭",
+      "onboard_time": 1712308938,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 158576,
@@ -1299,12 +1347,20 @@
       "category": "教育"
     },
     {
+      "raw_hot": 153387,
+      "num": 153387,
+      "word": "电影是假的他们是真的",
+      "onboard_time": 1712309418,
+      "rank": 43,
+      "category": "电影"
+    },
+    {
       "raw_hot": 152476,
-      "num": 152476,
-      "word": "Doinb给baolan发消息",
-      "onboard_time": 1712308160,
-      "rank": 40,
-      "category": "电竞"
+      "num": 477284,
+      "word": "19岁中国女花游运动员夺金",
+      "onboard_time": 1712307978,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 152123,
@@ -1315,8 +1371,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 151170,
-      "num": 151170,
+      "raw_hot": 152086,
+      "num": 152086,
       "word": "男朋友让我给他生病的妈妈做饭吃",
       "onboard_time": 1712308160,
       "rank": 41,
@@ -1579,14 +1635,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 123683,
-      "num": 196755,
-      "word": "19岁中国女花游运动员夺金",
-      "onboard_time": 1712307978,
-      "rank": 29,
-      "category": "体育"
-    },
-    {
       "raw_hot": 122502,
       "num": 122502,
       "word": "姜爷爷辛苦了",
@@ -1708,7 +1756,7 @@
     },
     {
       "raw_hot": 108428,
-      "num": 386676,
+      "num": 471182,
       "word": "吉林旅游再现人从众",
       "onboard_time": 1712306897,
       "rank": 9,
@@ -1809,6 +1857,14 @@
       "onboard_time": 1712243540,
       "rank": 42,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 91720,
+      "num": 192334,
+      "word": "30秒看福宝入住圈舍长啥样",
+      "onboard_time": 1712308697,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 90171,
@@ -1961,14 +2017,6 @@
       "onboard_time": 1712254333,
       "rank": 33,
       "category": "电影"
-    },
-    {
-      "raw_hot": 42908,
-      "num": 936274,
-      "word": "中国籍抗日航空英烈名录首次公布",
-      "onboard_time": 1712308278,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 42121,
