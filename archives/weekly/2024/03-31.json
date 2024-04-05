@@ -1,6 +1,6 @@
 {
   "startTime": 1711815680412,
-  "endTime": 1712313288938,
+  "endTime": 1712315696389,
   "band_list": [
     {
       "raw_hot": 16874674,
@@ -1051,6 +1051,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1159425,
+      "num": 1159425,
+      "word": "暧昧过后没在一起才是绝杀",
+      "onboard_time": 1712310077,
+      "rank": 4,
+      "category": "情感"
+    },
+    {
       "raw_hot": 1149639,
       "num": 1149639,
       "word": "姜爷爷希望福宝回中国不要改名字",
@@ -1721,14 +1729,6 @@
       "onboard_time": 1712274315,
       "rank": 3,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 847449,
-      "num": 847449,
-      "word": "暧昧过后没在一起才是绝杀",
-      "onboard_time": 1712310077,
-      "rank": 4,
-      "category": "情感"
     },
     {
       "raw_hot": 845707,
@@ -3027,6 +3027,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 594028,
+      "num": 594028,
+      "word": "关晓彤裤子是不是有点短了",
+      "onboard_time": 1712313679,
+      "rank": 4,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 592622,
       "num": 592622,
       "word": "张艺兴将在韩国打歌",
@@ -3163,6 +3171,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 576004,
+      "num": 576004,
+      "word": "好看的人长得都很高清",
+      "onboard_time": 1712312599,
+      "rank": 26,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 573993,
       "num": 573993,
       "word": "相柳战死图",
@@ -3276,7 +3292,7 @@
     },
     {
       "raw_hot": 562053,
-      "num": 267637,
+      "num": 271468,
       "word": "怀孕同事想每天坐我的车回家",
       "onboard_time": 1712307378,
       "rank": 20,
@@ -3457,6 +3473,14 @@
       "onboard_time": 1711812500,
       "rank": 7,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 536526,
+      "num": 536526,
+      "word": "张颂文方回应照片被婚恋网盗用",
+      "onboard_time": 1712310798,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 536198,
@@ -3720,6 +3744,14 @@
       "word": "福宝入住神树坪基地",
       "onboard_time": 1712188156,
       "rank": 6,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 512277,
+      "num": 512277,
+      "word": "姜爷爷学会果赖召唤术",
+      "onboard_time": 1712314099,
+      "rank": 7,
       "category": "社会新闻"
     },
     {
@@ -4267,16 +4299,8 @@
       "category": "汽车,艺人"
     },
     {
-      "raw_hot": 458512,
-      "num": 458512,
-      "word": "张颂文方回应照片被婚恋网盗用",
-      "onboard_time": 1712310798,
-      "rank": 12,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 457265,
-      "num": 267381,
+      "num": 295468,
       "word": "男朋友说金价太高结婚时不买三金",
       "onboard_time": 1712307498,
       "rank": 21,
@@ -4409,6 +4433,14 @@
       "onboard_time": 1712130679,
       "rank": 15,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 445762,
+      "num": 415504,
+      "word": "韩雪让保安移开伞",
+      "onboard_time": 1712312959,
+      "rank": 32,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 445449,
@@ -4585,6 +4617,14 @@
       "onboard_time": 1711956140,
       "rank": 14,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 432136,
+      "num": 432136,
+      "word": "王一博直播",
+      "onboard_time": 1712313559,
+      "rank": 9,
+      "category": "剧集"
     },
     {
       "raw_hot": 431379,
@@ -5096,6 +5136,14 @@
       "word": "刘若英报平安",
       "onboard_time": 1712112440,
       "rank": 21,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 391684,
+      "num": 391684,
+      "word": "杨紫赵露思ins更新照",
+      "onboard_time": 1712312719,
+      "rank": 24,
       "category": "艺人"
     },
     {
@@ -6131,6 +6179,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 317219,
+      "num": 317219,
+      "word": "Doinb复播首秀邀请wink",
+      "onboard_time": 1712311519,
+      "rank": 30,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 317074,
       "num": 289293,
       "word": "大学洗澡二十分钟被室友说太久",
@@ -6217,6 +6273,14 @@
       "onboard_time": 1711874657,
       "rank": 21,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 312135,
+      "num": 312135,
+      "word": "雷军称大家用放大镜看小米SU7压力很大",
+      "onboard_time": 1712314039,
+      "rank": 20,
+      "category": "汽车"
     },
     {
       "raw_hot": 311877,
@@ -6529,6 +6593,14 @@
       "onboard_time": 1711970720,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 299501,
+      "num": 299501,
+      "word": "给妈妈转了520姑姑伤心了",
+      "onboard_time": 1712312599,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 299368,
@@ -7243,6 +7315,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 268106,
+      "num": 268106,
+      "word": "与凤行今天三个亿",
+      "onboard_time": 1712315538,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 268089,
       "num": 268089,
       "word": "这种螺一口吃出6000条寄生虫",
@@ -7427,14 +7507,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 259506,
-      "num": 209982,
-      "word": "给妈妈转了520姑姑伤心了",
-      "onboard_time": 1712312599,
-      "rank": 30,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 259471,
       "num": 259471,
       "word": "最佳生育间隔是多久",
@@ -7473,6 +7545,14 @@
       "onboard_time": 1712162776,
       "rank": 17,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 258932,
+      "num": 258932,
+      "word": "哑舍",
+      "onboard_time": 1712314218,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 258775,
@@ -7923,14 +8003,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 243738,
-      "num": 209072,
-      "word": "Doinb复播首秀邀请wink",
-      "onboard_time": 1712311519,
-      "rank": 30,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 243584,
       "num": 243584,
       "word": "爸妈真的很害怕我过期",
@@ -8363,14 +8435,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 232803,
-      "num": 232803,
-      "word": "杨紫赵露思ins更新照",
-      "onboard_time": 1712312719,
-      "rank": 24,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 232707,
       "num": 232707,
       "word": "平躺才是脊柱最喜欢的睡姿",
@@ -8577,14 +8641,6 @@
       "onboard_time": 1712145080,
       "rank": 31,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 227200,
-      "num": 227200,
-      "word": "好看的人长得都很高清",
-      "onboard_time": 1712312599,
-      "rank": 26,
-      "category": "幽默"
     },
     {
       "raw_hot": 227082,
@@ -8987,6 +9043,14 @@
       "category": "艺人,汽车"
     },
     {
+      "raw_hot": 215757,
+      "num": 215757,
+      "word": "都在旅游",
+      "onboard_time": 1712314099,
+      "rank": 31,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 215285,
       "num": 215285,
       "word": "韩国民众哭肿眼送别福宝",
@@ -9251,6 +9315,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 210696,
+      "num": 210696,
+      "word": "你根本就没意识到你有多么年轻",
+      "onboard_time": 1712313559,
+      "rank": 32,
+      "category": "情感"
+    },
+    {
       "raw_hot": 210621,
       "num": 202338,
       "word": "被自己一个月的掉发量惊呆了",
@@ -9475,6 +9547,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 205877,
+      "num": 205877,
+      "word": "原来换个灯都是成年人不允许的",
+      "onboard_time": 1712312599,
+      "rank": 35,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 205862,
       "num": 180572,
       "word": "邓紫棋演唱会",
@@ -9585,6 +9665,14 @@
       "onboard_time": 1712070380,
       "rank": 35,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 204008,
+      "num": 204008,
+      "word": "JDG对战WBG",
+      "onboard_time": 1712315298,
+      "rank": 36,
+      "category": "电竞"
     },
     {
       "raw_hot": 203665,
@@ -9931,6 +10019,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 198124,
+      "num": 198124,
+      "word": "追风者见面会",
+      "onboard_time": 1712314218,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 197996,
       "num": 197996,
       "word": "赵露思玫瑰吊带裙",
@@ -9969,14 +10065,6 @@
       "onboard_time": 1712240720,
       "rank": 31,
       "category": "教育"
-    },
-    {
-      "raw_hot": 197569,
-      "num": 197569,
-      "word": "韩雪让保安移开伞",
-      "onboard_time": 1712312959,
-      "rank": 32,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 197420,
@@ -11131,14 +11219,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 180724,
-      "num": 180724,
-      "word": "原来换个灯都是成年人不允许的",
-      "onboard_time": 1712312599,
-      "rank": 35,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 180708,
       "num": 180708,
       "word": "周处除三害背后的台湾乱象",
@@ -12243,6 +12323,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 160730,
+      "num": 160730,
+      "word": "张杰回复马嘉祺",
+      "onboard_time": 1712313258,
+      "rank": 49,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 160614,
       "num": 160614,
       "word": "GEN对战DK",
@@ -12683,6 +12771,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 153883,
+      "num": 153883,
+      "word": "断桥比白蛇找到许仙那天还热闹",
+      "onboard_time": 1712314758,
+      "rank": 44,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 153720,
       "num": 153720,
       "word": "吉林省考成绩",
@@ -12705,6 +12801,14 @@
       "onboard_time": 1711853838,
       "rank": 38,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 153593,
+      "num": 153593,
+      "word": "又见逍遥",
+      "onboard_time": 1712314578,
+      "rank": 45,
+      "category": "剧集"
     },
     {
       "raw_hot": 153537,
@@ -12905,6 +13009,14 @@
       "onboard_time": 1712032400,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 151813,
+      "num": 151813,
+      "word": "余华 肯定是一条狗嘛",
+      "onboard_time": 1712315239,
+      "rank": 46,
+      "category": "读书作家"
     },
     {
       "raw_hot": 151641,
@@ -14187,6 +14299,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 132734,
+      "num": 132734,
+      "word": "北京国安vs上海海港",
+      "onboard_time": 1712315659,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 132247,
       "num": 132247,
       "word": "兄弟你好香",
@@ -14649,14 +14769,6 @@
       "onboard_time": 1712024419,
       "rank": 46,
       "category": "情感"
-    },
-    {
-      "raw_hot": 121104,
-      "num": 121104,
-      "word": "张杰回复马嘉祺",
-      "onboard_time": 1712313258,
-      "rank": 49,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 121067,
