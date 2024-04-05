@@ -1,6 +1,6 @@
 {
   "startTime": 1711815680412,
-  "endTime": 1712321110713,
+  "endTime": 1712323200990,
   "band_list": [
     {
       "raw_hot": 16874674,
@@ -347,6 +347,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 1793623,
+      "num": 1793623,
+      "word": "与凤行大结局",
+      "onboard_time": 1712320279,
+      "rank": 4,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1791587,
       "num": 1791587,
       "word": "福宝用爪子扒拉了下爷爷",
@@ -417,6 +425,14 @@
       "onboard_time": 1711866498,
       "rank": 10,
       "category": "艺人,汽车"
+    },
+    {
+      "raw_hot": 1723622,
+      "num": 1723622,
+      "word": "爱奇艺在干嘛",
+      "onboard_time": 1712321540,
+      "rank": 1,
+      "category": "剧集"
     },
     {
       "raw_hot": 1708706,
@@ -1596,7 +1612,7 @@
     },
     {
       "raw_hot": 902497,
-      "num": 752829,
+      "num": 854759,
       "word": "赵丽颖林更新 晋江文学",
       "onboard_time": 1712317758,
       "rank": 3,
@@ -1785,6 +1801,14 @@
       "onboard_time": 1712064080,
       "rank": 14,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 828820,
+      "num": 602232,
+      "word": "赵丽颖林更新 粉丝联姻",
+      "onboard_time": 1712320999,
+      "rank": 38,
+      "category": "剧集"
     },
     {
       "raw_hot": 827716,
@@ -2252,7 +2276,7 @@
     },
     {
       "raw_hot": 724586,
-      "num": 264967,
+      "num": 318242,
       "word": "24岁女生负债15万",
       "onboard_time": 1712317999,
       "rank": 20,
@@ -2265,14 +2289,6 @@
       "onboard_time": 1712211497,
       "rank": 25,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 717910,
-      "num": 717910,
-      "word": "与凤行大结局",
-      "onboard_time": 1712320279,
-      "rank": 4,
-      "category": "剧集"
     },
     {
       "raw_hot": 716512,
@@ -3027,12 +3043,28 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 607131,
+      "num": 607131,
+      "word": "同学知道我上岸之后接受不了",
+      "onboard_time": 1712320398,
+      "rank": 26,
+      "category": "情感"
+    },
+    {
       "raw_hot": 606933,
       "num": 606933,
       "word": "追风者 拿奖",
       "onboard_time": 1711983322,
       "rank": 5,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 604966,
+      "num": 604966,
+      "word": "因为口癖是宝贝社死了",
+      "onboard_time": 1712317940,
+      "rank": 10,
+      "category": "幽默"
     },
     {
       "raw_hot": 604745,
@@ -3049,6 +3081,14 @@
       "onboard_time": 1711948643,
       "rank": 41,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 601875,
+      "num": 601875,
+      "word": "跳绳是最佳减重运动",
+      "onboard_time": 1712317758,
+      "rank": 19,
+      "category": "运动健身"
     },
     {
       "raw_hot": 599221,
@@ -3371,14 +3411,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 559481,
-      "num": 535083,
-      "word": "因为口癖是宝贝社死了",
-      "onboard_time": 1712317940,
-      "rank": 10,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 558049,
       "num": 558049,
       "word": "neinei十年前后变化",
@@ -3444,7 +3476,7 @@
     },
     {
       "raw_hot": 548853,
-      "num": 548853,
+      "num": 603564,
       "word": "姜爷爷学会果赖召唤术",
       "onboard_time": 1712314099,
       "rank": 7,
@@ -4107,6 +4139,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 482298,
+      "num": 482298,
+      "word": "郑恺把跑男说成跑年",
+      "onboard_time": 1712320638,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 481827,
       "num": 481827,
       "word": "谈恋爱三个月定律",
@@ -4499,6 +4539,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 447632,
+      "num": 447632,
+      "word": "沈图南你真是疯了",
+      "onboard_time": 1712321659,
+      "rank": 14,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 447567,
       "num": 447567,
       "word": "四川话果赖成功召唤福宝",
@@ -4593,6 +4641,14 @@
       "onboard_time": 1712121502,
       "rank": 22,
       "category": "情感"
+    },
+    {
+      "raw_hot": 439957,
+      "num": 439957,
+      "word": "声入人心求金主爸爸",
+      "onboard_time": 1712320759,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 439713,
@@ -5475,14 +5531,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 376915,
-      "num": 376915,
-      "word": "跳绳是最佳减重运动",
-      "onboard_time": 1712317758,
-      "rank": 19,
-      "category": "运动健身"
-    },
-    {
       "raw_hot": 376103,
       "num": 324775,
       "word": "24岁女生和48岁的室友妈妈处成母女",
@@ -6067,6 +6115,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 329531,
+      "num": 329531,
+      "word": "JDG零封WBG",
+      "onboard_time": 1712321779,
+      "rank": 18,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 329123,
       "num": 329123,
       "word": "雷军称将举办小米SU7首批交付仪式",
@@ -6257,6 +6313,14 @@
       "onboard_time": 1711864817,
       "rank": 16,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 317805,
+      "num": 317805,
+      "word": "王一博要不要擦一下括号",
+      "onboard_time": 1712322320,
+      "rank": 21,
+      "category": "剧集"
     },
     {
       "raw_hot": 317781,
@@ -7276,7 +7340,7 @@
     },
     {
       "raw_hot": 271779,
-      "num": 936274,
+      "num": 1620594,
       "word": "中国籍抗日航空英烈名录首次公布",
       "onboard_time": 1712308278,
       "rank": 2,
@@ -8611,14 +8675,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 230737,
-      "num": 206058,
-      "word": "郑恺把跑男说成跑年",
-      "onboard_time": 1712320638,
-      "rank": 30,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 230551,
       "num": 230551,
       "word": "马立奥 我唱歌好听不听",
@@ -8696,6 +8752,14 @@
       "word": "温州震感",
       "onboard_time": 1712103632,
       "rank": 44,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 228309,
+      "num": 228309,
+      "word": "男子结婚37年法定妻子竟是弟妹",
+      "onboard_time": 1712321959,
+      "rank": 26,
       "category": "社会新闻"
     },
     {
@@ -8931,12 +8995,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 222184,
+      "num": 222184,
+      "word": "真陪看",
+      "onboard_time": 1712320098,
+      "rank": 39,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 221388,
       "num": 221388,
       "word": "音律联觉",
       "onboard_time": 1712066781,
       "rank": 28,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 221246,
+      "num": 221246,
+      "word": "追风者",
+      "onboard_time": 1711890979,
+      "rank": 35,
+      "category": "剧集"
     },
     {
       "raw_hot": 221065,
@@ -9081,14 +9161,6 @@
       "onboard_time": 1711846157,
       "rank": 28,
       "category": "情感"
-    },
-    {
-      "raw_hot": 218463,
-      "num": 218463,
-      "word": "追风者",
-      "onboard_time": 1711890979,
-      "rank": 35,
-      "category": "剧集"
     },
     {
       "raw_hot": 218166,
@@ -9587,14 +9659,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 208300,
-      "num": 208300,
-      "word": "同学知道我上岸之后接受不了",
-      "onboard_time": 1712320398,
-      "rank": 26,
-      "category": "情感"
-    },
-    {
       "raw_hot": 208274,
       "num": 208274,
       "word": "变身罗伯特",
@@ -9721,14 +9785,6 @@
       "onboard_time": 1712198298,
       "rank": 35,
       "category": "美食"
-    },
-    {
-      "raw_hot": 205608,
-      "num": 205608,
-      "word": "真陪看",
-      "onboard_time": 1712320098,
-      "rank": 39,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 205452,
@@ -10449,14 +10505,6 @@
       "onboard_time": 1712056579,
       "rank": 31,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 195191,
-      "num": 195191,
-      "word": "声入人心求金主爸爸",
-      "onboard_time": 1712320759,
-      "rank": 36,
-      "category": "综艺"
     },
     {
       "raw_hot": 195182,
@@ -11811,14 +11859,6 @@
       "category": "综艺,综艺"
     },
     {
-      "raw_hot": 174183,
-      "num": 174183,
-      "word": "赵丽颖林更新 粉丝联姻",
-      "onboard_time": 1712320999,
-      "rank": 38,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 174014,
       "num": 174014,
       "word": "李汶翰让站姐入职",
@@ -13081,6 +13121,14 @@
       "onboard_time": 1711814898,
       "rank": 31,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 152814,
+      "num": 152814,
+      "word": "楚乔满弓的弦 沈璃满怀的爱",
+      "onboard_time": 1712323039,
+      "rank": 41,
+      "category": "剧集"
     },
     {
       "raw_hot": 152661,
@@ -14523,6 +14571,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 132248,
+      "num": 602835,
+      "word": "七三一部队罪证陈列馆清明节又排长队",
+      "onboard_time": 1712320039,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 132247,
       "num": 132247,
       "word": "兄弟你好香",
@@ -14656,6 +14712,14 @@
       "word": "浙大走廊被紫藤花淹没",
       "onboard_time": 1711965140,
       "rank": 9,
+      "category": "旅游"
+    },
+    {
+      "raw_hot": 128576,
+      "num": 137330,
+      "word": "红山动物园感谢南京市民礼让游玩空间",
+      "onboard_time": 1712322859,
+      "rank": 47,
       "category": "旅游"
     },
     {
@@ -15555,6 +15619,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 101121,
+      "num": 136275,
+      "word": "武磊",
+      "onboard_time": 1712323099,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 100142,
       "num": 313016,
       "word": "成都惊现越狱熊猫",
@@ -15801,14 +15873,6 @@
       "onboard_time": 1711870098,
       "rank": 49,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 84957,
-      "num": 210503,
-      "word": "七三一部队罪证陈列馆清明节又排长队",
-      "onboard_time": 1712320039,
-      "rank": 29,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 84099,
