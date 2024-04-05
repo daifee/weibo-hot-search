@@ -1,6 +1,6 @@
 {
   "startTime": 1711902044401,
-  "endTime": 1712312377392,
+  "endTime": 1712313288938,
   "band_list": [
     {
       "raw_hot": 16874674,
@@ -1507,6 +1507,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 847449,
+      "num": 847449,
+      "word": "暧昧过后没在一起才是绝杀",
+      "onboard_time": 1712310077,
+      "rank": 4,
+      "category": "情感"
+    },
+    {
       "raw_hot": 845707,
       "num": 845707,
       "word": "林狗你行不行啊",
@@ -1825,14 +1833,6 @@
       "onboard_time": 1712241981,
       "rank": 4,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 736382,
-      "num": 736382,
-      "word": "暧昧过后没在一起才是绝杀",
-      "onboard_time": 1712310077,
-      "rank": 4,
-      "category": "情感"
     },
     {
       "raw_hot": 736160,
@@ -2241,6 +2241,14 @@
       "onboard_time": 1712301317,
       "rank": 44,
       "category": "情感"
+    },
+    {
+      "raw_hot": 657017,
+      "num": 657017,
+      "word": "赵露思有新狗了",
+      "onboard_time": 1712311819,
+      "rank": 6,
+      "category": "艺人"
     },
     {
       "raw_hot": 655349,
@@ -3019,14 +3027,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 534963,
-      "num": 534963,
-      "word": "赵露思有新狗了",
-      "onboard_time": 1712311819,
-      "rank": 6,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 534298,
       "num": 534298,
       "word": "王俊凯直播",
@@ -3595,6 +3595,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 458512,
+      "num": 458512,
+      "word": "张颂文方回应照片被婚恋网盗用",
+      "onboard_time": 1712310798,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 457265,
       "num": 267381,
       "word": "男朋友说金价太高结婚时不买三金",
@@ -3745,6 +3753,14 @@
       "onboard_time": 1712144119,
       "rank": 21,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 443919,
+      "num": 443919,
+      "word": "ILLIT",
+      "onboard_time": 1712311698,
+      "rank": 18,
+      "category": "音乐"
     },
     {
       "raw_hot": 443856,
@@ -4072,14 +4088,6 @@
       "word": "宋亚轩站姐发了肖战",
       "onboard_time": 1711938379,
       "rank": 24,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 414689,
-      "num": 414689,
-      "word": "张颂文方回应照片被婚恋网盗用",
-      "onboard_time": 1712310798,
-      "rank": 12,
       "category": "艺人"
     },
     {
@@ -5787,14 +5795,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 281419,
-      "num": 281419,
-      "word": "ILLIT",
-      "onboard_time": 1712311698,
-      "rank": 18,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 281212,
       "num": 281212,
       "word": "张杰海南新公司成立",
@@ -6243,6 +6243,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 259506,
+      "num": 209982,
+      "word": "给妈妈转了520姑姑伤心了",
+      "onboard_time": 1712312599,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 259471,
       "num": 259471,
       "word": "最佳生育间隔是多久",
@@ -6651,6 +6659,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 243738,
+      "num": 209072,
+      "word": "Doinb复播首秀邀请wink",
+      "onboard_time": 1712311519,
+      "rank": 30,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 243304,
       "num": 243304,
       "word": "王一博早春穿搭",
@@ -6851,6 +6867,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 236046,
+      "num": 235028,
+      "word": "在日本买了套老破小后想哭",
+      "onboard_time": 1712308938,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 235786,
       "num": 204878,
       "word": "陈都灵 仕女图",
@@ -6897,6 +6921,14 @@
       "onboard_time": 1712308697,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 234906,
+      "num": 234906,
+      "word": "王一博今晚两场直播",
+      "onboard_time": 1712312838,
+      "rank": 23,
+      "category": "剧集"
     },
     {
       "raw_hot": 234027,
@@ -6953,6 +6985,14 @@
       "onboard_time": 1711940541,
       "rank": 32,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 232803,
+      "num": 232803,
+      "word": "杨紫赵露思ins更新照",
+      "onboard_time": 1712312719,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 232707,
@@ -7017,14 +7057,6 @@
       "onboard_time": 1712119343,
       "rank": 40,
       "category": "网红"
-    },
-    {
-      "raw_hot": 230025,
-      "num": 230025,
-      "word": "在日本买了套老破小后想哭",
-      "onboard_time": 1712308938,
-      "rank": 39,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 229792,
@@ -7131,6 +7163,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 227200,
+      "num": 227200,
+      "word": "好看的人长得都很高清",
+      "onboard_time": 1712312599,
+      "rank": 26,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 227082,
       "num": 227082,
       "word": "kep1er五月最后一次回归",
@@ -7185,14 +7225,6 @@
       "onboard_time": 1711945704,
       "rank": 41,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 224566,
-      "num": 186664,
-      "word": "Doinb复播首秀邀请wink",
-      "onboard_time": 1712311519,
-      "rank": 30,
-      "category": "电竞"
     },
     {
       "raw_hot": 224085,
@@ -7609,6 +7641,14 @@
       "onboard_time": 1712041578,
       "rank": 28,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 212524,
+      "num": 212524,
+      "word": "哥斯拉 你们真是饿了",
+      "onboard_time": 1712311578,
+      "rank": 31,
+      "category": "电影"
     },
     {
       "raw_hot": 212331,
@@ -8249,6 +8289,14 @@
       "onboard_time": 1712240720,
       "rank": 31,
       "category": "教育"
+    },
+    {
+      "raw_hot": 197569,
+      "num": 197569,
+      "word": "韩雪让保安移开伞",
+      "onboard_time": 1712312959,
+      "rank": 32,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 197420,
@@ -8971,14 +9019,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 186604,
-      "num": 186604,
-      "word": "哥斯拉 你们真是饿了",
-      "onboard_time": 1712311578,
-      "rank": 31,
-      "category": "电影"
-    },
-    {
       "raw_hot": 186555,
       "num": 186555,
       "word": "吃青团",
@@ -9155,6 +9195,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 182448,
+      "num": 182448,
+      "word": "特谢拉绝杀",
+      "onboard_time": 1712312479,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 182277,
       "num": 182277,
       "word": "Liz生图",
@@ -9232,6 +9280,14 @@
       "word": "小事J人大事P人",
       "onboard_time": 1712052380,
       "rank": 30,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 180724,
+      "num": 180724,
+      "word": "原来换个灯都是成年人不允许的",
+      "onboard_time": 1712312599,
+      "rank": 35,
       "category": "幽默"
     },
     {
@@ -11979,6 +12035,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 125176,
+      "num": 125176,
+      "word": "终于有人懂我养小猴的快乐",
+      "onboard_time": 1712312299,
+      "rank": 49,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 124588,
       "num": 124588,
       "word": "最近发了疯想谈恋爱的别急",
@@ -12075,6 +12139,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 121104,
+      "num": 121104,
+      "word": "张杰回复马嘉祺",
+      "onboard_time": 1712313258,
+      "rank": 49,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 121067,
       "num": 121067,
       "word": "潘玮柏上海",
@@ -12144,14 +12216,6 @@
       "word": "怪不得上班这么苦",
       "onboard_time": 1711898538,
       "rank": 42,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 119176,
-      "num": 119176,
-      "word": "终于有人懂我养小猴的快乐",
-      "onboard_time": 1712312299,
-      "rank": 49,
       "category": "幽默"
     },
     {
@@ -12651,6 +12715,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 86755,
+      "num": 511977,
+      "word": "课本中的春天",
+      "onboard_time": 1712310679,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 86602,
       "num": 86602,
       "word": "与凤行 知识狡猾地进入我脑袋",
@@ -12664,14 +12736,6 @@
       "word": "家国永念致敬英雄",
       "onboard_time": 1712155580,
       "rank": 2,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 83982,
-      "num": 511977,
-      "word": "课本中的春天",
-      "onboard_time": 1712310679,
-      "rank": 8,
       "category": "社会新闻"
     },
     {
