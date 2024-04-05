@@ -1,6 +1,6 @@
 {
   "startTime": 1712334193790,
-  "endTime": 1712342372741,
+  "endTime": 1712344551174,
   "band_list": [
     {
       "raw_hot": 833945,
@@ -179,6 +179,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 224376,
+      "num": 116865,
+      "word": "三大运营商回应注销手机号",
+      "onboard_time": 1712339653,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 221462,
       "num": 221462,
       "word": "24岁女生负债15万",
@@ -323,14 +331,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 116865,
-      "num": 116865,
-      "word": "三大运营商回应注销手机号",
-      "onboard_time": 1712339653,
-      "rank": 25,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 115832,
       "num": 115832,
       "word": "这一段是曾黎本色出演吧",
@@ -443,8 +443,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 62440,
-      "num": 62440,
+      "raw_hot": 75444,
+      "num": 75444,
       "word": "芒果与凤行AI婚礼圆满了",
       "onboard_time": 1712342052,
       "rank": 23,
@@ -481,6 +481,14 @@
       "onboard_time": 1712325319,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 25279,
+      "num": 25279,
+      "word": "4个心脏的求救信号",
+      "onboard_time": 1712343912,
+      "rank": 43,
+      "category": "健康医疗"
     }
   ],
   "hotgov_list": [
