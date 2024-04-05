@@ -1,6 +1,6 @@
 {
   "startTime": 1711815680412,
-  "endTime": 1712301396207,
+  "endTime": 1712302448504,
   "band_list": [
     {
       "raw_hot": 16874674,
@@ -923,6 +923,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 1243399,
+      "num": 371523,
+      "word": "河北邯郸通报男生被同学灌开水",
+      "onboard_time": 1712300958,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1242195,
       "num": 1242195,
       "word": "新生蔡元培莫言被北大拟录取",
@@ -1675,6 +1683,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 854196,
+      "num": 854196,
+      "word": "王阳回应走秀被说太硬",
+      "onboard_time": 1712298378,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 852807,
       "num": 852807,
       "word": "姜爷爷回韩国了",
@@ -1769,14 +1785,6 @@
       "onboard_time": 1712041938,
       "rank": 37,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 817530,
-      "num": 817530,
-      "word": "王阳回应走秀被说太硬",
-      "onboard_time": 1712298378,
-      "rank": 15,
-      "category": "艺人"
     },
     {
       "raw_hot": 812718,
@@ -2545,6 +2553,14 @@
       "onboard_time": 1712014817,
       "rank": 4,
       "category": "电影"
+    },
+    {
+      "raw_hot": 652889,
+      "num": 652889,
+      "word": "黄晓明当着林更新的面咯咯哒",
+      "onboard_time": 1712296576,
+      "rank": 22,
+      "category": "综艺"
     },
     {
       "raw_hot": 651815,
@@ -3747,14 +3763,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 497781,
-      "num": 497781,
-      "word": "黄晓明当着林更新的面咯咯哒",
-      "onboard_time": 1712296576,
-      "rank": 22,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 496413,
       "num": 567487,
       "word": "女子工作1年半胖40斤判若两人",
@@ -4129,6 +4137,14 @@
       "onboard_time": 1711872737,
       "rank": 30,
       "category": "汽车,艺人"
+    },
+    {
+      "raw_hot": 458920,
+      "num": 458920,
+      "word": "粉丝17秒偷看吴磊8次后续",
+      "onboard_time": 1712300118,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 456217,
@@ -5003,14 +5019,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 385607,
-      "num": 385607,
-      "word": "粉丝17秒偷看吴磊8次后续",
-      "onboard_time": 1712300118,
-      "rank": 11,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 385461,
       "num": 403496,
       "word": "山东泰山",
@@ -5177,6 +5185,14 @@
       "onboard_time": 1711943782,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 378192,
+      "num": 271968,
+      "word": "简历空窗期比90个前任还难解释",
+      "onboard_time": 1712299457,
+      "rank": 23,
+      "category": "情感"
     },
     {
       "raw_hot": 376103,
@@ -5737,14 +5753,6 @@
       "onboard_time": 1712288118,
       "rank": 20,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 329833,
-      "num": 329833,
-      "word": "河北邯郸通报男生被同学灌开水",
-      "onboard_time": 1712300958,
-      "rank": 15,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 329703,
@@ -6571,6 +6579,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 288495,
+      "num": 288495,
+      "word": "哥斯拉臀部翘到顶起一个金刚",
+      "onboard_time": 1712301438,
+      "rank": 18,
+      "category": "电影"
+    },
+    {
       "raw_hot": 288371,
       "num": 288371,
       "word": "郑元畅不知道唐禹哲有两个小孩",
@@ -6921,6 +6937,14 @@
       "onboard_time": 1712038818,
       "rank": 22,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 271857,
+      "num": 271857,
+      "word": "身体不好别去留学",
+      "onboard_time": 1712301317,
+      "rank": 44,
+      "category": "情感"
     },
     {
       "raw_hot": 271556,
@@ -7451,20 +7475,28 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 251801,
-      "num": 251801,
-      "word": "简历空窗期比90个前任还难解释",
-      "onboard_time": 1712299457,
-      "rank": 23,
-      "category": "情感"
-    },
-    {
       "raw_hot": 251713,
       "num": 207978,
       "word": "建议留学生在国外不要随意讲中文",
       "onboard_time": 1711959500,
       "rank": 32,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 251185,
+      "num": 251185,
+      "word": "为什么希望雷军生产卫生巾",
+      "onboard_time": 1712301797,
+      "rank": 24,
+      "category": "互联网"
+    },
+    {
+      "raw_hot": 250959,
+      "num": 250959,
+      "word": "为什么人们不喝猪奶",
+      "onboard_time": 1712300118,
+      "rank": 26,
+      "category": "美食"
     },
     {
       "raw_hot": 250872,
@@ -8073,14 +8105,6 @@
       "onboard_time": 1712065279,
       "rank": 26,
       "category": "情感"
-    },
-    {
-      "raw_hot": 233285,
-      "num": 233285,
-      "word": "为什么人们不喝猪奶",
-      "onboard_time": 1712300118,
-      "rank": 26,
-      "category": "美食"
     },
     {
       "raw_hot": 233164,
@@ -9459,6 +9483,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 201263,
+      "num": 199644,
+      "word": "美方要求耶伦就餐时大厅打开隔断",
+      "onboard_time": 1712301858,
+      "rank": 30,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 201232,
       "num": 201232,
       "word": "愚人节表白",
@@ -9905,6 +9937,14 @@
       "onboard_time": 1712056579,
       "rank": 31,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 195220,
+      "num": 195220,
+      "word": "拜登要求以色列立即停火",
+      "onboard_time": 1712301797,
+      "rank": 32,
+      "category": "国外时政"
     },
     {
       "raw_hot": 195182,
@@ -10569,6 +10609,14 @@
       "onboard_time": 1711975458,
       "rank": 36,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 184329,
+      "num": 184329,
+      "word": "李现镜头畸变下的颜值",
+      "onboard_time": 1712302037,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 184141,
@@ -14124,7 +14172,7 @@
     },
     {
       "raw_hot": 121557,
-      "num": 627297,
+      "num": 741067,
       "word": "这一幕幕就是家国清明",
       "onboard_time": 1712294957,
       "rank": 2,
@@ -14475,14 +14523,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 113081,
-      "num": 113081,
-      "word": "身体不好别去留学",
-      "onboard_time": 1712301317,
-      "rank": 44,
-      "category": "情感"
-    },
-    {
       "raw_hot": 112779,
       "num": 112779,
       "word": "第一次外向换来一生内向",
@@ -14537,6 +14577,14 @@
       "onboard_time": 1712013856,
       "rank": 24,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 111420,
+      "num": 111420,
+      "word": "诺米",
+      "onboard_time": 1712302338,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 111399,
@@ -14712,6 +14760,14 @@
       "word": "厦门打雷",
       "onboard_time": 1712275397,
       "rank": 45,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 101045,
+      "num": 101045,
+      "word": "男子梦到7个数醒来照买彩票中3406万",
+      "onboard_time": 1712302398,
+      "rank": 49,
       "category": "社会新闻"
     },
     {
