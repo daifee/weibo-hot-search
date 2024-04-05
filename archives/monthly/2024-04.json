@@ -1,6 +1,6 @@
 {
   "startTime": 1711902044401,
-  "endTime": 1712295238374,
+  "endTime": 1712298148262,
   "band_list": [
     {
       "raw_hot": 16874674,
@@ -547,6 +547,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1502056,
+      "num": 453021,
+      "word": "多地小区出现骨灰房",
+      "onboard_time": 1712292377,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1490286,
       "num": 1172306,
       "word": "海涛 09",
@@ -665,14 +673,6 @@
       "onboard_time": 1712223439,
       "rank": 1,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 1358352,
-      "num": 453021,
-      "word": "多地小区出现骨灰房",
-      "onboard_time": 1712292377,
-      "rank": 10,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1319767,
@@ -1945,6 +1945,14 @@
       "onboard_time": 1711963760,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 688651,
+      "num": 688651,
+      "word": "欧豪说侯雯元孤枕难眠",
+      "onboard_time": 1712293697,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 688580,
@@ -3331,14 +3339,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 467152,
-      "num": 450266,
-      "word": "欧豪说侯雯元孤枕难眠",
-      "onboard_time": 1712293697,
-      "rank": 26,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 466343,
       "num": 466343,
       "word": "林更新把赵丽颖说的话拉成横幅",
@@ -3793,6 +3793,14 @@
       "onboard_time": 1712103814,
       "rank": 27,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 421525,
+      "num": 421525,
+      "word": "张元英转圈 动捕",
+      "onboard_time": 1712295317,
+      "rank": 5,
+      "category": "艺人"
     },
     {
       "raw_hot": 421427,
@@ -4683,6 +4691,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 337812,
+      "num": 337812,
+      "word": "为什么现在没人穿Kappa了",
+      "onboard_time": 1712297956,
+      "rank": 14,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 336642,
       "num": 336642,
       "word": "沈璃事后不认账",
@@ -4827,6 +4843,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 326023,
+      "num": 305569,
+      "word": "高跟鞋为什么被女性们抛弃",
+      "onboard_time": 1712292497,
+      "rank": 23,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 325160,
       "num": 325160,
       "word": "周处除三害怎么不把周一除了",
@@ -4899,6 +4923,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 320117,
+      "num": 246553,
+      "word": "杨迪曝张杰最喜欢到处送杯子",
+      "onboard_time": 1712294897,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 318752,
       "num": 318752,
       "word": "下班放假",
@@ -4913,6 +4945,14 @@
       "onboard_time": 1712228539,
       "rank": 17,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 317244,
+      "num": 317244,
+      "word": "钟楚曦送侯雯元枕头",
+      "onboard_time": 1712295858,
+      "rank": 16,
+      "category": "综艺"
     },
     {
       "raw_hot": 316342,
@@ -5129,14 +5169,6 @@
       "onboard_time": 1712239039,
       "rank": 24,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 305569,
-      "num": 305569,
-      "word": "高跟鞋为什么被女性们抛弃",
-      "onboard_time": 1712292497,
-      "rank": 23,
-      "category": "时尚"
     },
     {
       "raw_hot": 305522,
@@ -6147,6 +6179,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 249348,
+      "num": 249348,
+      "word": "黄晓明当着林更新的面咯咯哒",
+      "onboard_time": 1712296576,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 249346,
       "num": 249346,
       "word": "100只生蚝能做出多少蚝油",
@@ -6531,6 +6571,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 235782,
+      "num": 235782,
+      "word": "女孩误吞燕尾夹2天不能进食才告知父母",
+      "onboard_time": 1712296817,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 235588,
       "num": 235588,
       "word": "朱一龙直播",
@@ -6809,14 +6857,6 @@
       "onboard_time": 1712069840,
       "rank": 27,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 225604,
-      "num": 225604,
-      "word": "杨迪曝张杰最喜欢到处送杯子",
-      "onboard_time": 1712294897,
-      "rank": 27,
-      "category": "综艺"
     },
     {
       "raw_hot": 225576,
@@ -7123,6 +7163,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 216633,
+      "num": 216633,
+      "word": "减肚子的一个简单办法",
+      "onboard_time": 1712292497,
+      "rank": 42,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 215775,
       "num": 215775,
       "word": "与凤行",
@@ -7233,6 +7281,14 @@
       "onboard_time": 1712045838,
       "rank": 38,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 212954,
+      "num": 212954,
+      "word": "行止 不负苍生不负她",
+      "onboard_time": 1712295437,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 212825,
@@ -8723,6 +8779,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 181735,
+      "num": 181735,
+      "word": "台湾花莲海域再发4.8级地震",
+      "onboard_time": 1712295197,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 181599,
       "num": 181599,
       "word": "周也模仿陈欣怡",
@@ -9355,6 +9419,14 @@
       "category": "情感,网红"
     },
     {
+      "raw_hot": 168057,
+      "num": 168057,
+      "word": "元气森林音乐节阵容",
+      "onboard_time": 1712296817,
+      "rank": 32,
+      "category": "演出"
+    },
+    {
       "raw_hot": 167430,
       "num": 167430,
       "word": "双子座迷人的反差感",
@@ -9571,14 +9643,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 161942,
-      "num": 161942,
-      "word": "减肚子的一个简单办法",
-      "onboard_time": 1712292497,
-      "rank": 42,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 161826,
       "num": 161826,
       "word": "谢帝应援曲",
@@ -9681,14 +9745,6 @@
       "onboard_time": 1711888218,
       "rank": 32,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 160004,
-      "num": 160004,
-      "word": "台湾花莲海域再发4.8级地震",
-      "onboard_time": 1712295197,
-      "rank": 42,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 159924,
@@ -9929,6 +9985,14 @@
       "onboard_time": 1712279657,
       "rank": 34,
       "category": "数码"
+    },
+    {
+      "raw_hot": 155930,
+      "num": 155930,
+      "word": "草木人间",
+      "onboard_time": 1712295797,
+      "rank": 34,
+      "category": "电影"
     },
     {
       "raw_hot": 155689,
@@ -10843,6 +10907,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 137788,
+      "num": 137788,
+      "word": "各种专业和学校分析",
+      "onboard_time": 1712297537,
+      "rank": 38,
+      "category": "教育"
+    },
+    {
       "raw_hot": 137704,
       "num": 137704,
       "word": "34家公司游戏收入超3000亿元",
@@ -11475,6 +11547,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 119956,
+      "num": 119956,
+      "word": "Doinb回归",
+      "onboard_time": 1712298137,
+      "rank": 44,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 119614,
       "num": 119614,
       "word": "春天常按这几个穴位能长高",
@@ -11753,6 +11833,14 @@
       "onboard_time": 1711878557,
       "rank": 45,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 110279,
+      "num": 627297,
+      "word": "这一幕幕就是家国清明",
+      "onboard_time": 1712294957,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 110134,
@@ -12715,6 +12803,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 19427,
+      "num": 140017,
+      "word": "CPSP出现怪盗团",
+      "onboard_time": 1712296217,
+      "rank": 37,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 18809,
       "num": 27165,
       "word": "20多岁大学生为21岁烈士画像",
@@ -12728,14 +12824,6 @@
       "word": "2024云拜祖正确打开方式",
       "onboard_time": 1712044819,
       "rank": 39,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 16625,
-      "num": 608670,
-      "word": "这一幕幕就是家国清明",
-      "onboard_time": 1712294957,
-      "rank": 2,
       "category": "社会新闻"
     },
     {
