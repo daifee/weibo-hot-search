@@ -1,6 +1,6 @@
 {
   "startTime": 1711902044401,
-  "endTime": 1712298974040,
+  "endTime": 1712301396207,
   "band_list": [
     {
       "raw_hot": 16874674,
@@ -1547,6 +1547,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 817530,
+      "num": 817530,
+      "word": "王阳回应走秀被说太硬",
+      "onboard_time": 1712298378,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 812368,
       "num": 503196,
       "word": "飓风坠楼3条人命牵出江西贪腐第一大案",
@@ -2371,6 +2379,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 619792,
+      "num": 619792,
+      "word": "孙俪换新发型",
+      "onboard_time": 1712298318,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 618572,
       "num": 618572,
       "word": "四川信托破产",
@@ -3059,6 +3075,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 515208,
+      "num": 515208,
+      "word": "Doinb回归",
+      "onboard_time": 1712298137,
+      "rank": 44,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 513140,
       "num": 513140,
       "word": "福宝入住神树坪基地",
@@ -3137,6 +3161,14 @@
       "onboard_time": 1712229320,
       "rank": 20,
       "category": "情感"
+    },
+    {
+      "raw_hot": 497781,
+      "num": 497781,
+      "word": "黄晓明当着林更新的面咯咯哒",
+      "onboard_time": 1712296576,
+      "rank": 22,
+      "category": "综艺"
     },
     {
       "raw_hot": 496413,
@@ -4067,20 +4099,20 @@
       "category": "电影"
     },
     {
-      "raw_hot": 396372,
-      "num": 396372,
-      "word": "Doinb回归",
-      "onboard_time": 1712298137,
-      "rank": 44,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 395656,
       "num": 395656,
       "word": "Joy站姐发了内娱的Joy",
       "onboard_time": 1711984940,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 395653,
+      "num": 302623,
+      "word": "为什么千万不要买樱花味食物",
+      "onboard_time": 1712298977,
+      "rank": 20,
+      "category": "美食"
     },
     {
       "raw_hot": 395161,
@@ -4177,6 +4209,14 @@
       "onboard_time": 1712242640,
       "rank": 18,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 385607,
+      "num": 385607,
+      "word": "粉丝17秒偷看吴磊8次后续",
+      "onboard_time": 1712300118,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 385447,
@@ -4715,14 +4755,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 335800,
-      "num": 335800,
-      "word": "王阳回应走秀被说太硬",
-      "onboard_time": 1712298378,
-      "rank": 15,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 335411,
       "num": 335411,
       "word": "长沙震感",
@@ -4785,6 +4817,14 @@
       "onboard_time": 1712288118,
       "rank": 20,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 329833,
+      "num": 329833,
+      "word": "河北邯郸通报男生被同学灌开水",
+      "onboard_time": 1712300958,
+      "rank": 15,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 329703,
@@ -5051,6 +5091,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 310643,
+      "num": 310643,
+      "word": "马塞洛承认C罗欧冠进球越位",
+      "onboard_time": 1712298497,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 310642,
       "num": 264867,
       "word": "小金毛考了全班第一名",
@@ -5236,7 +5284,7 @@
     },
     {
       "raw_hot": 301264,
-      "num": 259084,
+      "num": 278510,
       "word": "女孩误吞燕尾夹2天不能进食才告知父母",
       "onboard_time": 1712296817,
       "rank": 24,
@@ -6171,6 +6219,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 251801,
+      "num": 251801,
+      "word": "简历空窗期比90个前任还难解释",
+      "onboard_time": 1712299457,
+      "rank": 23,
+      "category": "情感"
+    },
+    {
       "raw_hot": 251713,
       "num": 207978,
       "word": "建议留学生在国外不要随意讲中文",
@@ -6201,14 +6257,6 @@
       "onboard_time": 1712110221,
       "rank": 34,
       "category": "财经"
-    },
-    {
-      "raw_hot": 249348,
-      "num": 249348,
-      "word": "黄晓明当着林更新的面咯咯哒",
-      "onboard_time": 1712296576,
-      "rank": 22,
-      "category": "综艺"
     },
     {
       "raw_hot": 249346,
@@ -6627,14 +6675,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 235266,
-      "num": 235266,
-      "word": "孙俪换新发型",
-      "onboard_time": 1712298318,
-      "rank": 24,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 234027,
       "num": 234027,
       "word": "LNG对战WBG",
@@ -6665,6 +6705,14 @@
       "onboard_time": 1712065279,
       "rank": 26,
       "category": "情感"
+    },
+    {
+      "raw_hot": 233285,
+      "num": 233285,
+      "word": "为什么人们不喝猪奶",
+      "onboard_time": 1712300118,
+      "rank": 26,
+      "category": "美食"
     },
     {
       "raw_hot": 233164,
@@ -8211,14 +8259,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 193671,
-      "num": 193671,
-      "word": "马塞洛承认C罗欧冠进球越位",
-      "onboard_time": 1712298497,
-      "rank": 29,
-      "category": "体育"
-    },
-    {
       "raw_hot": 193454,
       "num": 168400,
       "word": "迪丽热巴腿环",
@@ -8803,6 +8843,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 182277,
+      "num": 182277,
+      "word": "Liz生图",
+      "onboard_time": 1712298977,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 181744,
       "num": 181744,
       "word": "韩维辰李瑞人歌MC",
@@ -8817,6 +8865,14 @@
       "onboard_time": 1712295197,
       "rank": 42,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 181621,
+      "num": 181621,
+      "word": "baolan说Doinb是好朋友",
+      "onboard_time": 1712300418,
+      "rank": 31,
+      "category": "电竞"
     },
     {
       "raw_hot": 181599,
@@ -10395,12 +10451,28 @@
       "category": "教育"
     },
     {
+      "raw_hot": 148997,
+      "num": 148997,
+      "word": "马立奥减肥vlog",
+      "onboard_time": 1712301199,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 148899,
       "num": 148899,
       "word": "王阳王昱珩武大靖同台走秀",
       "onboard_time": 1712098634,
       "rank": 22,
       "category": "作品衍生,体育"
+    },
+    {
+      "raw_hot": 148806,
+      "num": 148806,
+      "word": "黄子弘凡 成为你想成为的大人",
+      "onboard_time": 1712298257,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 148800,
@@ -11099,6 +11171,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 135366,
+      "num": 135366,
+      "word": "外出后身上出现小黑点一定要警惕",
+      "onboard_time": 1712299757,
+      "rank": 40,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 135262,
       "num": 135262,
       "word": "去年253名民警164名辅警因公牺牲",
@@ -11145,14 +11225,6 @@
       "onboard_time": 1711953859,
       "rank": 44,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 134233,
-      "num": 134233,
-      "word": "黄子弘凡 成为你想成为的大人",
-      "onboard_time": 1712298257,
-      "rank": 36,
-      "category": "综艺"
     },
     {
       "raw_hot": 133964,
@@ -11715,6 +11787,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 116663,
+      "num": 116663,
+      "word": "吴磊 关于目莲",
+      "onboard_time": 1712300837,
+      "rank": 43,
+      "category": "电影"
+    },
+    {
       "raw_hot": 115883,
       "num": 115883,
       "word": "运动真的会让面部代偿吗",
@@ -11817,6 +11897,14 @@
       "onboard_time": 1711888637,
       "rank": 44,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 113081,
+      "num": 113081,
+      "word": "身体不好别去留学",
+      "onboard_time": 1712301317,
+      "rank": 44,
+      "category": "情感"
     },
     {
       "raw_hot": 112662,
@@ -12913,6 +13001,14 @@
       "onboard_time": 1711919590,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 11416,
+      "num": 139055,
+      "word": "P5X漫展试玩",
+      "onboard_time": 1712300236,
+      "rank": 38,
+      "category": "动漫"
     }
   ],
   "hotgov_list": [
