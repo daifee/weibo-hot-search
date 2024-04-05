@@ -1,0 +1,410 @@
+{
+  "runTime": 1712298974040,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1773160,
+        "num": 1773160,
+        "word": "注销手机号等于出卖自己",
+        "onboard_time": 1712288598,
+        "rank": 0,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 667563,
+        "num": 667563,
+        "word": "欧豪说侯雯元孤枕难眠",
+        "onboard_time": 1712293697,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 121557,
+        "num": 591277,
+        "word": "这一幕幕就是家国清明",
+        "onboard_time": 1712294957,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 557249,
+        "num": 557249,
+        "word": "福宝用爪子扒拉了下爷爷",
+        "onboard_time": 1712278397,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 476283,
+        "num": 476283,
+        "word": "张元英转圈 动捕",
+        "onboard_time": 1712295317,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 449575,
+        "num": 449575,
+        "word": "成都迪士尼",
+        "onboard_time": 1712282418,
+        "rank": 5,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 396372,
+        "num": 396372,
+        "word": "Doinb回归",
+        "onboard_time": 1712298137,
+        "rank": 6,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 391561,
+        "num": 391561,
+        "word": "行止雪中求婚",
+        "onboard_time": 1712292439,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 384763,
+        "num": 384763,
+        "word": "宫崎骏滤镜 AI对生命是侮辱",
+        "onboard_time": 1712288417,
+        "rank": 8,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 167910,
+        "num": 379921,
+        "word": "丈夫牺牲后警号由妻子重启",
+        "onboard_time": 1712276236,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1401367,
+        "num": 378165,
+        "word": "多地小区出现骨灰房",
+        "onboard_time": 1712292377,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 419711,
+        "num": 378025,
+        "word": "为什么现在没人穿Kappa了",
+        "onboard_time": 1712297956,
+        "rank": 11,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 376067,
+        "num": 376067,
+        "word": "雷军送张颂文的SU7真车现身",
+        "onboard_time": 1712285837,
+        "rank": 12,
+        "category": "汽车,艺人"
+      },
+      {
+        "raw_hot": 364135,
+        "num": 364135,
+        "word": "强吻看病女子医生被行拘6日",
+        "onboard_time": 1712288778,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 335976,
+        "num": 335976,
+        "word": "姜爷爷回韩国了",
+        "onboard_time": 1712274315,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 335800,
+        "num": 335800,
+        "word": "王阳回应走秀被说太硬",
+        "onboard_time": 1712298378,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 325218,
+        "num": 325218,
+        "word": "台湾花莲地震已致12人遇难",
+        "onboard_time": 1712294058,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 299649,
+        "num": 299649,
+        "word": "哑舍开机官宣",
+        "onboard_time": 1712284218,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 273031,
+        "num": 273031,
+        "word": "钟楚曦送侯雯元枕头",
+        "onboard_time": 1712295858,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 263590,
+        "num": 263590,
+        "word": "28岁荷兰女孩预约了安乐死",
+        "onboard_time": 1712291238,
+        "rank": 19,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 301264,
+        "num": 259084,
+        "word": "女孩误吞燕尾夹2天不能进食才告知父母",
+        "onboard_time": 1712296817,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 296817,
+        "num": 255903,
+        "word": "杨迪曝张杰最喜欢到处送杯子",
+        "onboard_time": 1712294897,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 286869,
+        "num": 255419,
+        "word": "高跟鞋为什么被女性们抛弃",
+        "onboard_time": 1712292497,
+        "rank": 22,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 237770,
+        "num": 237770,
+        "word": "黄晓明当着林更新的面咯咯哒",
+        "onboard_time": 1712296576,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 235266,
+        "num": 235266,
+        "word": "孙俪换新发型",
+        "onboard_time": 1712298318,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 230412,
+        "num": 230412,
+        "word": "陈泽扰民",
+        "onboard_time": 1712273233,
+        "rank": 25,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 229863,
+        "num": 229863,
+        "word": "马嘉祺感谢张杰送的餐具套装",
+        "onboard_time": 1712293278,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 219959,
+        "num": 219959,
+        "word": "易烊千玺闭眼侧颜",
+        "onboard_time": 1712292737,
+        "rank": 27,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 194423,
+        "num": 194423,
+        "word": "于正说赵晴锦超是网红",
+        "onboard_time": 1712291419,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 193671,
+        "num": 193671,
+        "word": "马塞洛承认C罗欧冠进球越位",
+        "onboard_time": 1712298497,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 180770,
+        "num": 180770,
+        "word": "减肚子的一个简单办法",
+        "onboard_time": 1712292497,
+        "rank": 30,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 170829,
+        "num": 170829,
+        "word": "霉霉80亿身家成全球音乐圈首富",
+        "onboard_time": 1712285357,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 167452,
+        "num": 167452,
+        "word": "行止 不负苍生不负她",
+        "onboard_time": 1712295437,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 163355,
+        "num": 163355,
+        "word": "90后女子故意在取保候审期间怀孕",
+        "onboard_time": 1712280678,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 155733,
+        "num": 155733,
+        "word": "6岁孙子在爷爷坟前吃供品",
+        "onboard_time": 1712282896,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 139691,
+        "num": 139691,
+        "word": "分手三个月定律",
+        "onboard_time": 1712290817,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 134233,
+        "num": 134233,
+        "word": "黄子弘凡 成为你想成为的大人",
+        "onboard_time": 1712298257,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 17981,
+        "num": 128746,
+        "word": "CPSP出现怪盗团",
+        "onboard_time": 1712296217,
+        "rank": 37,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 128498,
+        "num": 128498,
+        "word": "台湾花莲海域再发4.8级地震",
+        "onboard_time": 1712295197,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 128191,
+        "num": 128191,
+        "word": "很舒服但很伤身体行为",
+        "onboard_time": 1712282896,
+        "rank": 39,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 127489,
+        "num": 127489,
+        "word": "元气森林音乐节阵容",
+        "onboard_time": 1712296817,
+        "rank": 40,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 125190,
+        "num": 125190,
+        "word": "陈泽发文回应扰民",
+        "onboard_time": 1712280558,
+        "rank": 41,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 124440,
+        "num": 124440,
+        "word": "雷军 我的SU7",
+        "onboard_time": 1712278937,
+        "rank": 42,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 120410,
+        "num": 120410,
+        "word": "时代少年团掌管吃饭的神",
+        "onboard_time": 1712298197,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 118870,
+        "num": 118870,
+        "word": "上戏偶遇林更新",
+        "onboard_time": 1712279116,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 116258,
+        "num": 116258,
+        "word": "婚恋网盗用张颂文照片",
+        "onboard_time": 1712280558,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 116143,
+        "num": 116143,
+        "word": "Faker说无法排位影响队伍状态",
+        "onboard_time": 1712293337,
+        "rank": 46,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 113761,
+        "num": 113761,
+        "word": "卢洋洋穿搭",
+        "onboard_time": 1712294117,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 113072,
+        "num": 113072,
+        "word": "草木人间",
+        "onboard_time": 1712295797,
+        "rank": 48,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 110140,
+        "num": 110140,
+        "word": "各种专业和学校分析",
+        "onboard_time": 1712297537,
+        "rank": 49,
+        "category": "教育"
+      }
+    ],
+    "hotgov": {
+      "word": "#我们永远怀念他们牢记他们#"
+    }
+  }
+}

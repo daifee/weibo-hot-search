@@ -1,6 +1,6 @@
 {
   "startTime": 1712247709633,
-  "endTime": 1712298148262,
+  "endTime": 1712298974040,
   "band_list": [
     {
       "raw_hot": 2472045,
@@ -235,6 +235,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 476283,
+      "num": 476283,
+      "word": "张元英转圈 动捕",
+      "onboard_time": 1712295317,
+      "rank": 5,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 474553,
       "num": 474553,
       "word": "马嘉祺感谢张杰送的餐具套装",
@@ -299,20 +307,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 421525,
-      "num": 421525,
-      "word": "张元英转圈 动捕",
-      "onboard_time": 1712295317,
-      "rank": 5,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 421424,
       "num": 421424,
       "word": "台湾花莲地震已致12人遇难",
       "onboard_time": 1712294058,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 419711,
+      "num": 378025,
+      "word": "为什么现在没人穿Kappa了",
+      "onboard_time": 1712297956,
+      "rank": 14,
+      "category": "时尚"
     },
     {
       "raw_hot": 415445,
@@ -371,6 +379,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 396372,
+      "num": 396372,
+      "word": "Doinb回归",
+      "onboard_time": 1712298137,
+      "rank": 44,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 383681,
       "num": 383681,
       "word": "28岁荷兰女孩预约了安乐死",
@@ -411,12 +427,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 337812,
-      "num": 337812,
-      "word": "为什么现在没人穿Kappa了",
-      "onboard_time": 1712297956,
-      "rank": 14,
-      "category": "时尚"
+      "raw_hot": 335800,
+      "num": 335800,
+      "word": "王阳回应走秀被说太硬",
+      "onboard_time": 1712298378,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 333741,
@@ -452,7 +468,7 @@
     },
     {
       "raw_hot": 320117,
-      "num": 246553,
+      "num": 255903,
       "word": "杨迪曝张杰最喜欢到处送杯子",
       "onboard_time": 1712294897,
       "rank": 27,
@@ -504,6 +520,14 @@
       "word": "姜爷爷请放心福宝会好好的",
       "onboard_time": 1712277138,
       "rank": 16,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 301264,
+      "num": 259084,
+      "word": "女孩误吞燕尾夹2天不能进食才告知父母",
+      "onboard_time": 1712296817,
+      "rank": 24,
       "category": "社会新闻"
     },
     {
@@ -667,12 +691,12 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 235782,
-      "num": 235782,
-      "word": "女孩误吞燕尾夹2天不能进食才告知父母",
-      "onboard_time": 1712296817,
+      "raw_hot": 235266,
+      "num": 235266,
+      "word": "孙俪换新发型",
+      "onboard_time": 1712298318,
       "rank": 24,
-      "category": "社会新闻"
+      "category": "艺人"
     },
     {
       "raw_hot": 226309,
@@ -793,6 +817,14 @@
       "onboard_time": 1712254992,
       "rank": 26,
       "category": "演出"
+    },
+    {
+      "raw_hot": 193671,
+      "num": 193671,
+      "word": "马塞洛承认C罗欧冠进球越位",
+      "onboard_time": 1712298497,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 190863,
@@ -1107,6 +1139,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 134233,
+      "num": 134233,
+      "word": "黄子弘凡 成为你想成为的大人",
+      "onboard_time": 1712298257,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 134119,
       "num": 134119,
       "word": "第五人格",
@@ -1203,6 +1243,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 121557,
+      "num": 627297,
+      "word": "这一幕幕就是家国清明",
+      "onboard_time": 1712294957,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 120544,
       "num": 120544,
       "word": "王者荣耀同人大片",
@@ -1211,12 +1259,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 119956,
-      "num": 119956,
-      "word": "Doinb回归",
-      "onboard_time": 1712298137,
-      "rank": 44,
-      "category": "电竞"
+      "raw_hot": 120410,
+      "num": 120410,
+      "word": "时代少年团掌管吃饭的神",
+      "onboard_time": 1712298197,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 119614,
@@ -1297,14 +1345,6 @@
       "onboard_time": 1712286077,
       "rank": 46,
       "category": "体育"
-    },
-    {
-      "raw_hot": 110279,
-      "num": 627297,
-      "word": "这一幕幕就是家国清明",
-      "onboard_time": 1712294957,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 107439,
@@ -1633,6 +1673,9 @@
     },
     {
       "word": "#清明祭英烈家国永念#"
+    },
+    {
+      "word": "#我们永远怀念他们牢记他们#"
     }
   ]
 }

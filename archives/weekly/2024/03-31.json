@@ -1,6 +1,6 @@
 {
   "startTime": 1711815680412,
-  "endTime": 1712298148262,
+  "endTime": 1712298974040,
   "band_list": [
     {
       "raw_hot": 16874674,
@@ -3915,6 +3915,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 476283,
+      "num": 476283,
+      "word": "张元英转圈 动捕",
+      "onboard_time": 1712295317,
+      "rank": 5,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 475183,
       "num": 355040,
       "word": "娜扎红色泳衣",
@@ -4531,14 +4539,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 421525,
-      "num": 421525,
-      "word": "张元英转圈 动捕",
-      "onboard_time": 1712295317,
-      "rank": 5,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 421427,
       "num": 421427,
       "word": "张杰发了十年前的自己",
@@ -4593,6 +4593,14 @@
       "onboard_time": 1712028138,
       "rank": 17,
       "category": "电影"
+    },
+    {
+      "raw_hot": 419711,
+      "num": 378025,
+      "word": "为什么现在没人穿Kappa了",
+      "onboard_time": 1712297956,
+      "rank": 14,
+      "category": "时尚"
     },
     {
       "raw_hot": 419237,
@@ -4841,6 +4849,14 @@
       "onboard_time": 1712151681,
       "rank": 22,
       "category": "电影"
+    },
+    {
+      "raw_hot": 396372,
+      "num": 396372,
+      "word": "Doinb回归",
+      "onboard_time": 1712298137,
+      "rank": 44,
+      "category": "电竞"
     },
     {
       "raw_hot": 395656,
@@ -5579,14 +5595,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 337812,
-      "num": 337812,
-      "word": "为什么现在没人穿Kappa了",
-      "onboard_time": 1712297956,
-      "rank": 14,
-      "category": "时尚"
-    },
-    {
       "raw_hot": 337171,
       "num": 337171,
       "word": "广州冰雹",
@@ -5609,6 +5617,14 @@
       "onboard_time": 1711894220,
       "rank": 35,
       "category": "情感"
+    },
+    {
+      "raw_hot": 335800,
+      "num": 335800,
+      "word": "王阳回应走秀被说太硬",
+      "onboard_time": 1712298378,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 335411,
@@ -5860,7 +5876,7 @@
     },
     {
       "raw_hot": 320117,
-      "num": 246553,
+      "num": 255903,
       "word": "杨迪曝张杰最喜欢到处送杯子",
       "onboard_time": 1712294897,
       "rank": 27,
@@ -6233,6 +6249,14 @@
       "onboard_time": 1711846636,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 301264,
+      "num": 259084,
+      "word": "女孩误吞燕尾夹2天不能进食才告知父母",
+      "onboard_time": 1712296817,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 301210,
@@ -7907,14 +7931,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 235782,
-      "num": 235782,
-      "word": "女孩误吞燕尾夹2天不能进食才告知父母",
-      "onboard_time": 1712296817,
-      "rank": 24,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 235588,
       "num": 235588,
       "word": "朱一龙直播",
@@ -7953,6 +7969,14 @@
       "onboard_time": 1712121081,
       "rank": 39,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 235266,
+      "num": 235266,
+      "word": "孙俪换新发型",
+      "onboard_time": 1712298318,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 234806,
@@ -9888,6 +9912,14 @@
       "word": "隆多退役",
       "onboard_time": 1712064440,
       "rank": 37,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 193671,
+      "num": 193671,
+      "word": "马塞洛承认C罗欧冠进球越位",
+      "onboard_time": 1712298497,
+      "rank": 29,
       "category": "体育"
     },
     {
@@ -13499,6 +13531,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 134233,
+      "num": 134233,
+      "word": "黄子弘凡 成为你想成为的大人",
+      "onboard_time": 1712298257,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 134076,
       "num": 134076,
       "word": "当你约公司顶梁柱出来旅游",
@@ -14011,6 +14051,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 121557,
+      "num": 627297,
+      "word": "这一幕幕就是家国清明",
+      "onboard_time": 1712294957,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 121431,
       "num": 121431,
       "word": "高叶泪痣",
@@ -14051,6 +14099,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 120410,
+      "num": 120410,
+      "word": "时代少年团掌管吃饭的神",
+      "onboard_time": 1712298197,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 120223,
       "num": 120223,
       "word": "壹基金蓝色行动",
@@ -14065,14 +14121,6 @@
       "onboard_time": 1712220078,
       "rank": 48,
       "category": "情感"
-    },
-    {
-      "raw_hot": 119956,
-      "num": 119956,
-      "word": "Doinb回归",
-      "onboard_time": 1712298137,
-      "rank": 44,
-      "category": "电竞"
     },
     {
       "raw_hot": 119614,
@@ -14417,14 +14465,6 @@
       "onboard_time": 1711850358,
       "rank": 48,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 110279,
-      "num": 627297,
-      "word": "这一幕幕就是家国清明",
-      "onboard_time": 1712294957,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 110134,
@@ -15814,6 +15854,9 @@
     },
     {
       "word": "#家国永念致敬英雄#"
+    },
+    {
+      "word": "#我们永远怀念他们牢记他们#"
     }
   ]
 }
