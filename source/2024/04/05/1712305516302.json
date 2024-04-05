@@ -1,0 +1,410 @@
+{
+  "runTime": 1712305516302,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1342402,
+        "num": 1342402,
+        "word": "注销手机号等于出卖自己",
+        "onboard_time": 1712288598,
+        "rank": 0,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 698483,
+        "num": 698483,
+        "word": "黄晓明当着林更新的面咯咯哒",
+        "onboard_time": 1712296576,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 77083,
+        "num": 675840,
+        "word": "这一幕幕就是家国清明",
+        "onboard_time": 1712294957,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 657616,
+        "num": 657616,
+        "word": "身体不好别去留学",
+        "onboard_time": 1712301317,
+        "rank": 3,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 615387,
+        "num": 615387,
+        "word": "哥斯拉臀部翘到顶起一个金刚",
+        "onboard_time": 1712301438,
+        "rank": 4,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 549499,
+        "num": 549499,
+        "word": "粉丝17秒偷看吴磊8次后续",
+        "onboard_time": 1712300118,
+        "rank": 5,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 540941,
+        "num": 540941,
+        "word": "李现镜头畸变下的颜值",
+        "onboard_time": 1712302037,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 430494,
+        "num": 522839,
+        "word": "福宝用爪子扒拉了下爷爷",
+        "onboard_time": 1712278397,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 519331,
+        "num": 519331,
+        "word": "王阳回应走秀被说太硬",
+        "onboard_time": 1712298378,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 77664,
+        "num": 472560,
+        "word": "丈夫牺牲后警号由妻子重启",
+        "onboard_time": 1712276236,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1512675,
+        "num": 472264,
+        "word": "河北邯郸通报男生被同学灌开水",
+        "onboard_time": 1712300958,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 549817,
+        "num": 472101,
+        "word": "多地小区出现骨灰房",
+        "onboard_time": 1712292377,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 471845,
+        "num": 471845,
+        "word": "被同学灌开水男生已治愈出院",
+        "onboard_time": 1712303357,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 425251,
+        "num": 425251,
+        "word": "拜登要求以色列立即停火",
+        "onboard_time": 1712301797,
+        "rank": 13,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 382998,
+        "num": 382998,
+        "word": "成都迪士尼",
+        "onboard_time": 1712282418,
+        "rank": 14,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 369785,
+        "num": 369785,
+        "word": "高跟鞋为什么被女性们抛弃",
+        "onboard_time": 1712292497,
+        "rank": 15,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 346797,
+        "num": 346797,
+        "word": "雷军送张颂文的SU7真车现身",
+        "onboard_time": 1712285837,
+        "rank": 16,
+        "category": "汽车,艺人"
+      },
+      {
+        "raw_hot": 344313,
+        "num": 344313,
+        "word": "Doinb回归",
+        "onboard_time": 1712298137,
+        "rank": 17,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 294893,
+        "num": 294893,
+        "word": "男子梦到7个数醒来照买彩票中3406万",
+        "onboard_time": 1712302398,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 258568,
+        "num": 258568,
+        "word": "孙俪换新发型",
+        "onboard_time": 1712298318,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 254917,
+        "num": 254917,
+        "word": "为什么千万不要买樱花味食物",
+        "onboard_time": 1712298977,
+        "rank": 20,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 243034,
+        "num": 243034,
+        "word": "为什么现在没人穿Kappa了",
+        "onboard_time": 1712297956,
+        "rank": 21,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 229792,
+        "num": 229792,
+        "word": "美方要求耶伦就餐时大厅打开隔断",
+        "onboard_time": 1712301858,
+        "rank": 22,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 225016,
+        "num": 225016,
+        "word": "为什么希望雷军生产卫生巾",
+        "onboard_time": 1712301797,
+        "rank": 23,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 219567,
+        "num": 219567,
+        "word": "周冬雨素颜照 韩国",
+        "onboard_time": 1712304978,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 216673,
+        "num": 216673,
+        "word": "宫崎骏滤镜 AI对生命是侮辱",
+        "onboard_time": 1712288417,
+        "rank": 25,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 204734,
+        "num": 204734,
+        "word": "福宝未来的家长啥样",
+        "onboard_time": 1712304198,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 200597,
+        "num": 200597,
+        "word": "张元英转圈 动捕",
+        "onboard_time": 1712295317,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 194532,
+        "num": 194532,
+        "word": "张彬彬起来让我躺下演两集",
+        "onboard_time": 1712303837,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 189193,
+        "num": 189193,
+        "word": "福宝",
+        "onboard_time": 1712300418,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 188302,
+        "num": 188302,
+        "word": "恋爱是不是只存在于21岁",
+        "onboard_time": 1712304858,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 178193,
+        "num": 178193,
+        "word": "为什么人们不喝猪奶",
+        "onboard_time": 1712300118,
+        "rank": 31,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 169881,
+        "num": 169881,
+        "word": "杨迪曝张杰最喜欢到处送杯子",
+        "onboard_time": 1712294897,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 164430,
+        "num": 164430,
+        "word": "简历空窗期比90个前任还难解释",
+        "onboard_time": 1712299457,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 158923,
+        "num": 158923,
+        "word": "哑舍开机官宣",
+        "onboard_time": 1712284218,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 150691,
+        "num": 150691,
+        "word": "手术直播间 ie浏览器组合",
+        "onboard_time": 1712303118,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 146992,
+        "num": 146992,
+        "word": "强吻看病女子医生被行拘6日",
+        "onboard_time": 1712288778,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 140969,
+        "num": 140969,
+        "word": "女孩误吞燕尾夹2天不能进食才告知父母",
+        "onboard_time": 1712296817,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 140612,
+        "num": 140612,
+        "word": "行止雪中求婚",
+        "onboard_time": 1712292439,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 139037,
+        "num": 139037,
+        "word": "28岁荷兰女孩预约了安乐死",
+        "onboard_time": 1712291238,
+        "rank": 39,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 138313,
+        "num": 138313,
+        "word": "诺米",
+        "onboard_time": 1712302338,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 131995,
+        "num": 131995,
+        "word": "baolan说Doinb是好朋友",
+        "onboard_time": 1712300418,
+        "rank": 41,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 131975,
+        "num": 131975,
+        "word": "红发杨幂",
+        "onboard_time": 1712305217,
+        "rank": 42,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 125116,
+        "num": 125116,
+        "word": "马塞洛承认C罗欧冠进球越位",
+        "onboard_time": 1712298497,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 111852,
+        "num": 111852,
+        "word": "姜爷爷回韩国了",
+        "onboard_time": 1712274315,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 108546,
+        "num": 108546,
+        "word": "我发现一个买了无座的孕妇",
+        "onboard_time": 1712305278,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 108068,
+        "num": 108068,
+        "word": "易烊千玺闭眼侧颜",
+        "onboard_time": 1712292737,
+        "rank": 46,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 107742,
+        "num": 107742,
+        "word": "欧豪说侯雯元孤枕难眠",
+        "onboard_time": 1712293697,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 103080,
+        "num": 103080,
+        "word": "Liz生图",
+        "onboard_time": 1712298977,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 96703,
+        "num": 96703,
+        "word": "蔡依林深圳演唱会",
+        "onboard_time": 1712302459,
+        "rank": 49,
+        "category": "演出"
+      }
+    ],
+    "hotgov": {
+      "word": "#我们永远怀念他们牢记他们#"
+    }
+  }
+}

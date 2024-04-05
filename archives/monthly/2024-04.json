@@ -1,6 +1,6 @@
 {
   "startTime": 1711902044401,
-  "endTime": 1712302448504,
+  "endTime": 1712305516302,
   "band_list": [
     {
       "raw_hot": 16874674,
@@ -539,6 +539,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 1512675,
+      "num": 472264,
+      "word": "河北邯郸通报男生被同学灌开水",
+      "onboard_time": 1712300958,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1506183,
       "num": 1506183,
       "word": "厦门震感",
@@ -548,7 +556,7 @@
     },
     {
       "raw_hot": 1502056,
-      "num": 453021,
+      "num": 472101,
       "word": "多地小区出现骨灰房",
       "onboard_time": 1712292377,
       "rank": 10,
@@ -793,14 +801,6 @@
       "onboard_time": 1712234540,
       "rank": 31,
       "category": "情感"
-    },
-    {
-      "raw_hot": 1243399,
-      "num": 371523,
-      "word": "河北邯郸通报男生被同学灌开水",
-      "onboard_time": 1712300958,
-      "rank": 15,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1242195,
@@ -1907,6 +1907,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 698483,
+      "num": 698483,
+      "word": "黄晓明当着林更新的面咯咯哒",
+      "onboard_time": 1712296576,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 698101,
       "num": 698101,
       "word": "徐正溪站姐发了赵丽颖",
@@ -2187,6 +2195,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 657616,
+      "num": 657616,
+      "word": "身体不好别去留学",
+      "onboard_time": 1712301317,
+      "rank": 44,
+      "category": "情感"
+    },
+    {
       "raw_hot": 655349,
       "num": 655349,
       "word": "花间令结局",
@@ -2209,14 +2225,6 @@
       "onboard_time": 1712014817,
       "rank": 4,
       "category": "电影"
-    },
-    {
-      "raw_hot": 652889,
-      "num": 652889,
-      "word": "黄晓明当着林更新的面咯咯哒",
-      "onboard_time": 1712296576,
-      "rank": 22,
-      "category": "综艺"
     },
     {
       "raw_hot": 651046,
@@ -2433,6 +2441,14 @@
       "onboard_time": 1712194458,
       "rank": 8,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 615387,
+      "num": 615387,
+      "word": "哥斯拉臀部翘到顶起一个金刚",
+      "onboard_time": 1712301438,
+      "rank": 18,
+      "category": "电影"
     },
     {
       "raw_hot": 614504,
@@ -2843,6 +2859,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 549499,
+      "num": 549499,
+      "word": "粉丝17秒偷看吴磊8次后续",
+      "onboard_time": 1712300118,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 547670,
       "num": 579133,
       "word": "丈夫牺牲后警号由妻子重启",
@@ -2897,6 +2921,14 @@
       "onboard_time": 1712127863,
       "rank": 23,
       "category": "情感"
+    },
+    {
+      "raw_hot": 540941,
+      "num": 540941,
+      "word": "李现镜头畸变下的颜值",
+      "onboard_time": 1712302037,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 539904,
@@ -3371,6 +3403,14 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 471845,
+      "num": 471845,
+      "word": "被同学灌开水男生已治愈出院",
+      "onboard_time": 1712303357,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 468966,
       "num": 468966,
       "word": "宋昰昀被曝校园暴力",
@@ -3465,14 +3505,6 @@
       "onboard_time": 1712065822,
       "rank": 14,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 458920,
-      "num": 458920,
-      "word": "粉丝17秒偷看吴磊8次后续",
-      "onboard_time": 1712300118,
-      "rank": 11,
-      "category": "艺人"
     },
     {
       "raw_hot": 456217,
@@ -3817,6 +3849,14 @@
       "onboard_time": 1712148859,
       "rank": 21,
       "category": "电影"
+    },
+    {
+      "raw_hot": 425251,
+      "num": 425251,
+      "word": "拜登要求以色列立即停火",
+      "onboard_time": 1712301797,
+      "rank": 32,
+      "category": "国外时政"
     },
     {
       "raw_hot": 424348,
@@ -4427,6 +4467,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 369785,
+      "num": 369785,
+      "word": "高跟鞋为什么被女性们抛弃",
+      "onboard_time": 1712292497,
+      "rank": 23,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 368929,
       "num": 368929,
       "word": "南昌强对流天气已致4死10余人伤",
@@ -4907,14 +4955,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 326023,
-      "num": 305569,
-      "word": "高跟鞋为什么被女性们抛弃",
-      "onboard_time": 1712292497,
-      "rank": 23,
-      "category": "时尚"
-    },
-    {
       "raw_hot": 325160,
       "num": 325160,
       "word": "周处除三害怎么不把周一除了",
@@ -5371,6 +5411,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 294893,
+      "num": 294893,
+      "word": "男子梦到7个数醒来照买彩票中3406万",
+      "onboard_time": 1712302398,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 293343,
       "num": 293343,
       "word": "韩素希重启活动",
@@ -5497,14 +5545,6 @@
       "onboard_time": 1712115923,
       "rank": 29,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 288495,
-      "num": 288495,
-      "word": "哥斯拉臀部翘到顶起一个金刚",
-      "onboard_time": 1712301438,
-      "rank": 18,
-      "category": "电影"
     },
     {
       "raw_hot": 288371,
@@ -5793,14 +5833,6 @@
       "onboard_time": 1712038818,
       "rank": 22,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 271857,
-      "num": 271857,
-      "word": "身体不好别去留学",
-      "onboard_time": 1712301317,
-      "rank": 44,
-      "category": "情感"
     },
     {
       "raw_hot": 270747,
@@ -6827,6 +6859,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 229792,
+      "num": 229792,
+      "word": "美方要求耶伦就餐时大厅打开隔断",
+      "onboard_time": 1712301858,
+      "rank": 30,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 229447,
       "num": 229447,
       "word": "张朝阳说35岁年龄歧视很奇怪",
@@ -7129,6 +7169,14 @@
       "onboard_time": 1712157920,
       "rank": 33,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 219567,
+      "num": 219567,
+      "word": "周冬雨素颜照 韩国",
+      "onboard_time": 1712304978,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 219173,
@@ -7667,6 +7715,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 204734,
+      "num": 204734,
+      "word": "福宝未来的家长啥样",
+      "onboard_time": 1712304198,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 204637,
       "num": 204637,
       "word": "NIP战胜WE",
@@ -7849,14 +7905,6 @@
       "onboard_time": 1712027058,
       "rank": 24,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 201263,
-      "num": 199644,
-      "word": "美方要求耶伦就餐时大厅打开隔断",
-      "onboard_time": 1712301858,
-      "rank": 30,
-      "category": "国内时政"
     },
     {
       "raw_hot": 201232,
@@ -8235,14 +8283,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 195220,
-      "num": 195220,
-      "word": "拜登要求以色列立即停火",
-      "onboard_time": 1712301797,
-      "rank": 32,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 195182,
       "num": 195182,
       "word": "强对流天气",
@@ -8265,6 +8305,14 @@
       "onboard_time": 1711967480,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 194532,
+      "num": 194532,
+      "word": "张彬彬起来让我躺下演两集",
+      "onboard_time": 1712303837,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 194505,
@@ -8627,6 +8675,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 188302,
+      "num": 188302,
+      "word": "恋爱是不是只存在于21岁",
+      "onboard_time": 1712304858,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 188203,
       "num": 188203,
       "word": "小米汽车试驾者驾龄需达2年",
@@ -8809,14 +8865,6 @@
       "onboard_time": 1711890078,
       "rank": 27,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 184329,
-      "num": 184329,
-      "word": "李现镜头畸变下的颜值",
-      "onboard_time": 1712302037,
-      "rank": 33,
-      "category": "艺人"
     },
     {
       "raw_hot": 184141,
@@ -10419,6 +10467,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 150691,
+      "num": 150691,
+      "word": "手术直播间 ie浏览器组合",
+      "onboard_time": 1712303118,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 150461,
       "num": 150461,
       "word": "湖人",
@@ -11027,6 +11083,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 138313,
+      "num": 138313,
+      "word": "诺米",
+      "onboard_time": 1712302338,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 138294,
       "num": 138294,
       "word": "宫崎骏新片 人生减速带",
@@ -11369,6 +11433,14 @@
       "onboard_time": 1712030839,
       "rank": 49,
       "category": "财经"
+    },
+    {
+      "raw_hot": 131975,
+      "num": 131975,
+      "word": "红发杨幂",
+      "onboard_time": 1712305217,
+      "rank": 42,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 131798,
@@ -11995,14 +12067,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 111420,
-      "num": 111420,
-      "word": "诺米",
-      "onboard_time": 1712302338,
-      "rank": 45,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 111399,
       "num": 111399,
       "word": "勇士六连胜",
@@ -12041,6 +12105,14 @@
       "onboard_time": 1712184252,
       "rank": 23,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 108546,
+      "num": 108546,
+      "word": "我发现一个买了无座的孕妇",
+      "onboard_time": 1712305278,
+      "rank": 45,
+      "category": "幽默"
     },
     {
       "raw_hot": 108326,
@@ -12112,14 +12184,6 @@
       "word": "厦门打雷",
       "onboard_time": 1712275397,
       "rank": 45,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 101045,
-      "num": 101045,
-      "word": "男子梦到7个数醒来照买彩票中3406万",
-      "onboard_time": 1712302398,
-      "rank": 49,
       "category": "社会新闻"
     },
     {
@@ -12201,6 +12265,14 @@
       "onboard_time": 1712248456,
       "rank": 41,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 96703,
+      "num": 96703,
+      "word": "蔡依林深圳演唱会",
+      "onboard_time": 1712302459,
+      "rank": 49,
+      "category": "演出"
     },
     {
       "raw_hot": 96544,
