@@ -1,6 +1,6 @@
 {
   "startTime": 1712334193790,
-  "endTime": 1712348320721,
+  "endTime": 1712349270853,
   "band_list": [
     {
       "raw_hot": 833945,
@@ -513,6 +513,14 @@
       "onboard_time": 1712348291,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 15514,
+      "num": 15696,
+      "word": "王鹤棣又颠勺了",
+      "onboard_time": 1712348411,
+      "rank": 48,
+      "category": "艺人"
     }
   ],
   "hotgov_list": [
