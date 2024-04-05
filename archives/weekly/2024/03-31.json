@@ -1,6 +1,6 @@
 {
   "startTime": 1711815680412,
-  "endTime": 1712338458875,
+  "endTime": 1712341294604,
   "band_list": [
     {
       "raw_hot": 16874674,
@@ -16555,6 +16555,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 67874,
+      "num": 67874,
+      "word": "三大运营商回应注销手机号",
+      "onboard_time": 1712339653,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 67405,
       "num": 67405,
       "word": "果然猫界中三花最美",
@@ -16673,6 +16681,14 @@
       "onboard_time": 1712251633,
       "rank": 45,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 59375,
+      "num": 59375,
+      "word": "赵丽颖林更新恐怖漏网之鱼",
+      "onboard_time": 1712338994,
+      "rank": 33,
+      "category": "剧集"
     },
     {
       "raw_hot": 59343,
