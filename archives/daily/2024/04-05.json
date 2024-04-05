@@ -1,6 +1,6 @@
 {
   "startTime": 1712247709633,
-  "endTime": 1712284517339,
+  "endTime": 1712287231702,
   "band_list": [
     {
       "raw_hot": 1791587,
@@ -27,12 +27,28 @@
       "category": "情感"
     },
     {
-      "raw_hot": 1425878,
-      "num": 1425878,
+      "raw_hot": 1532017,
+      "num": 1532017,
       "word": "成都迪士尼",
       "onboard_time": 1712282418,
       "rank": 1,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 1260233,
+      "num": 1260233,
+      "word": "哑舍开机官宣",
+      "onboard_time": 1712284218,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 1198959,
+      "num": 377277,
+      "word": "雷军送张颂文的SU7真车现身",
+      "onboard_time": 1712285837,
+      "rank": 13,
+      "category": "汽车"
     },
     {
       "raw_hot": 889270,
@@ -97,6 +113,22 @@
       "onboard_time": 1712278337,
       "rank": 7,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 591155,
+      "num": 435399,
+      "word": "6岁孙子在爷爷坟前吃供品",
+      "onboard_time": 1712282896,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 580459,
+      "num": 580459,
+      "word": "霉霉80亿身家成全球音乐圈首富",
+      "onboard_time": 1712285357,
+      "rank": 6,
+      "category": "艺人"
     },
     {
       "raw_hot": 579086,
@@ -179,14 +211,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 435399,
-      "num": 435399,
-      "word": "6岁孙子在爷爷坟前吃供品",
-      "onboard_time": 1712282896,
-      "rank": 16,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 432513,
       "num": 432513,
       "word": "终于在高铁上发疯了",
@@ -267,6 +291,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 330399,
+      "num": 330399,
+      "word": "丫丫吃饱喝足吐舌头",
+      "onboard_time": 1712283498,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 328938,
       "num": 279857,
       "word": "当体制内的好友成了领导",
@@ -321,14 +353,6 @@
       "onboard_time": 1712249056,
       "rank": 33,
       "category": "科学科普"
-    },
-    {
-      "raw_hot": 295508,
-      "num": 295508,
-      "word": "丫丫吃饱喝足吐舌头",
-      "onboard_time": 1712283498,
-      "rank": 29,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 293451,
@@ -403,6 +427,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 243634,
+      "num": 231187,
+      "word": "吴彦姝 娱乐圈人脉奶奶",
+      "onboard_time": 1712285658,
+      "rank": 21,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 242125,
       "num": 242125,
       "word": "这次可让李沁演爽了",
@@ -443,12 +475,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 209728,
-      "num": 209728,
-      "word": "哑舍开机官宣",
-      "onboard_time": 1712284218,
-      "rank": 26,
+      "raw_hot": 215604,
+      "num": 215604,
+      "word": "沈璃行止花田对视",
+      "onboard_time": 1712287097,
+      "rank": 25,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 211011,
+      "num": 211011,
+      "word": "黄景瑜教王一博狙击手技巧",
+      "onboard_time": 1712286258,
+      "rank": 26,
+      "category": "电影"
     },
     {
       "raw_hot": 208847,
@@ -465,6 +505,14 @@
       "onboard_time": 1712237240,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 206283,
+      "num": 206283,
+      "word": "梅西赛后与对手教练组起冲突",
+      "onboard_time": 1712286617,
+      "rank": 28,
+      "category": "体育"
     },
     {
       "raw_hot": 205357,
@@ -499,11 +547,27 @@
       "category": "演出"
     },
     {
+      "raw_hot": 190863,
+      "num": 190863,
+      "word": "这4种蔬果是寄生虫重灾区",
+      "onboard_time": 1712285778,
+      "rank": 29,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 189990,
       "num": 189990,
       "word": "罪犯史泰龙被执行死刑",
       "onboard_time": 1712229379,
       "rank": 24,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 189797,
+      "num": 189797,
+      "word": "唐山市副市长李建忠被查",
+      "onboard_time": 1712286497,
+      "rank": 30,
       "category": "社会新闻"
     },
     {
@@ -513,6 +577,14 @@
       "onboard_time": 1712279897,
       "rank": 28,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 187342,
+      "num": 187342,
+      "word": "幽兰 这个家没我得散",
+      "onboard_time": 1712286077,
+      "rank": 32,
+      "category": "剧集"
     },
     {
       "raw_hot": 179441,
@@ -600,6 +672,14 @@
       "word": "苹果全家桶设备间或实现无缝切换",
       "onboard_time": 1712279657,
       "rank": 34,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 155511,
+      "num": 155511,
+      "word": "苹果股价今年已跌9.06%",
+      "onboard_time": 1712284998,
+      "rank": 35,
       "category": "数码"
     },
     {
@@ -707,6 +787,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 129011,
+      "num": 188300,
+      "word": "漫展搭子是我妈闺蜜",
+      "onboard_time": 1712286736,
+      "rank": 31,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 127029,
       "num": 127029,
       "word": "预计SU7最长需27周交付",
@@ -787,12 +875,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 114227,
+      "num": 114227,
+      "word": "你后悔回到小县城吗",
+      "onboard_time": 1712285837,
+      "rank": 44,
+      "category": "情感"
+    },
+    {
       "raw_hot": 113529,
       "num": 113529,
       "word": "阿拉斯加走丢后在大街上大哭",
       "onboard_time": 1712273473,
       "rank": 39,
       "category": "情感"
+    },
+    {
+      "raw_hot": 111399,
+      "num": 111399,
+      "word": "勇士六连胜",
+      "onboard_time": 1712286077,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 104729,
