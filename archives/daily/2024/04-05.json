@@ -1,6 +1,6 @@
 {
   "startTime": 1712247709633,
-  "endTime": 1712305516302,
+  "endTime": 1712308631598,
   "band_list": [
     {
       "raw_hot": 2472045,
@@ -75,6 +75,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1005733,
+      "num": 1005733,
+      "word": "周冬雨素颜照 韩国",
+      "onboard_time": 1712304978,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 903062,
+      "num": 903062,
+      "word": "10086回应注销手机号等于出卖自己",
+      "onboard_time": 1712306839,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 889270,
       "num": 889270,
       "word": "辅助生殖被纳入4省份医保",
@@ -115,6 +131,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 728817,
+      "num": 471845,
+      "word": "被同学灌开水男生已治愈出院",
+      "onboard_time": 1712303357,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 698483,
       "num": 698483,
       "word": "黄晓明当着林更新的面咯咯哒",
@@ -153,6 +177,14 @@
       "onboard_time": 1712301317,
       "rank": 44,
       "category": "情感"
+    },
+    {
+      "raw_hot": 653194,
+      "num": 653194,
+      "word": "香港发现首例人类感染猴疱疹病毒",
+      "onboard_time": 1712307258,
+      "rank": 4,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 637522,
@@ -243,6 +275,30 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 569148,
+      "num": 369965,
+      "word": "我发现一个买了无座的孕妇",
+      "onboard_time": 1712305278,
+      "rank": 45,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 562053,
+      "num": 267637,
+      "word": "怀孕同事想每天坐我的车回家",
+      "onboard_time": 1712307378,
+      "rank": 20,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 551657,
+      "num": 551657,
+      "word": "红发杨幂",
+      "onboard_time": 1712305217,
+      "rank": 42,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 549499,
       "num": 549499,
       "word": "粉丝17秒偷看吴磊8次后续",
@@ -331,14 +387,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 471845,
-      "num": 471845,
-      "word": "被同学灌开水男生已治愈出院",
-      "onboard_time": 1712303357,
-      "rank": 12,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 469711,
       "num": 320856,
       "word": "行止张嘴了",
@@ -353,6 +401,14 @@
       "onboard_time": 1712292439,
       "rank": 8,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 457265,
+      "num": 267381,
+      "word": "男朋友说金价太高结婚时不买三金",
+      "onboard_time": 1712307498,
+      "rank": 21,
+      "category": "情感"
     },
     {
       "raw_hot": 450450,
@@ -723,12 +779,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 267990,
+      "num": 267990,
+      "word": "恋爱是不是只存在于21岁",
+      "onboard_time": 1712304858,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 267277,
       "num": 267277,
       "word": "恋爱让他谈 三界我来守",
       "onboard_time": 1712243360,
       "rank": 25,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 266679,
+      "num": 266679,
+      "word": "胖东来今年将安排全员出国游",
+      "onboard_time": 1712307678,
+      "rank": 22,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 266272,
@@ -779,6 +851,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 250656,
+      "num": 250656,
+      "word": "林孝埈再登长城",
+      "onboard_time": 1712305818,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 244523,
       "num": 244523,
       "word": "千万不要等年纪大了才去旅游",
@@ -811,6 +891,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 239121,
+      "num": 196755,
+      "word": "未来婆婆给的红包是百里挑一",
+      "onboard_time": 1712307857,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 229792,
       "num": 229792,
       "word": "美方要求耶伦就餐时大厅打开隔断",
@@ -832,14 +920,6 @@
       "word": "林更新没有技巧就是硬帅",
       "onboard_time": 1712262251,
       "rank": 41,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 219567,
-      "num": 219567,
-      "word": "周冬雨素颜照 韩国",
-      "onboard_time": 1712304978,
-      "rank": 24,
       "category": "艺人"
     },
     {
@@ -979,6 +1059,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 189478,
+      "num": 189478,
+      "word": "北京玉渊潭CityWalk",
+      "onboard_time": 1712307498,
+      "rank": 32,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 189361,
       "num": 189361,
       "word": "张婧仪油菜花plog",
@@ -995,14 +1083,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 188302,
-      "num": 188302,
-      "word": "恋爱是不是只存在于21岁",
-      "onboard_time": 1712304858,
-      "rank": 30,
-      "category": "情感"
-    },
-    {
       "raw_hot": 186400,
       "num": 186400,
       "word": "卢洋洋穿搭",
@@ -1017,6 +1097,22 @@
       "onboard_time": 1712292918,
       "rank": 36,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 185781,
+      "num": 185781,
+      "word": "张婧仪明媚",
+      "onboard_time": 1712305697,
+      "rank": 33,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 184386,
+      "num": 184386,
+      "word": "哥斯拉",
+      "onboard_time": 1712308398,
+      "rank": 34,
+      "category": "电影"
     },
     {
       "raw_hot": 182277,
@@ -1065,6 +1161,14 @@
       "onboard_time": 1712294597,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 177216,
+      "num": 177216,
+      "word": "王一博 魏若来来了",
+      "onboard_time": 1712307017,
+      "rank": 36,
+      "category": "剧集"
     },
     {
       "raw_hot": 176279,
@@ -1195,12 +1299,28 @@
       "category": "教育"
     },
     {
+      "raw_hot": 152476,
+      "num": 152476,
+      "word": "Doinb给baolan发消息",
+      "onboard_time": 1712308160,
+      "rank": 40,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 152123,
       "num": 152123,
       "word": "卢昱晓 可塑性",
       "onboard_time": 1712242339,
       "rank": 32,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 151170,
+      "num": 151170,
+      "word": "男朋友让我给他生病的妈妈做饭吃",
+      "onboard_time": 1712308160,
+      "rank": 41,
+      "category": "情感"
     },
     {
       "raw_hot": 150691,
@@ -1243,12 +1363,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 146301,
+      "num": 146301,
+      "word": "黄雀在后",
+      "onboard_time": 1712307978,
+      "rank": 44,
+      "category": "电影"
+    },
+    {
       "raw_hot": 146243,
       "num": 176834,
       "word": "郭艾伦秀张元英转圈过人",
       "onboard_time": 1712241981,
       "rank": 29,
       "category": "体育,艺人"
+    },
+    {
+      "raw_hot": 145685,
+      "num": 145685,
+      "word": "关晓彤宋亚轩微博互动",
+      "onboard_time": 1712306719,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 144780,
@@ -1265,6 +1401,14 @@
       "onboard_time": 1712290939,
       "rank": 43,
       "category": "情感"
+    },
+    {
+      "raw_hot": 142896,
+      "num": 142896,
+      "word": "披着音综外皮的恋综",
+      "onboard_time": 1712307198,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 141004,
@@ -1313,6 +1457,14 @@
       "onboard_time": 1712297537,
       "rank": 38,
       "category": "教育"
+    },
+    {
+      "raw_hot": 137203,
+      "num": 137203,
+      "word": "大学生清明不回家在做什么",
+      "onboard_time": 1712308519,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 135637,
@@ -1371,14 +1523,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 131975,
-      "num": 131975,
-      "word": "红发杨幂",
-      "onboard_time": 1712305217,
-      "rank": 42,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 131701,
       "num": 131701,
       "word": "切尔西4比3曼联",
@@ -1433,6 +1577,14 @@
       "onboard_time": 1712274315,
       "rank": 38,
       "category": "情感"
+    },
+    {
+      "raw_hot": 123683,
+      "num": 196755,
+      "word": "19岁中国女花游运动员夺金",
+      "onboard_time": 1712307978,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 122502,
@@ -1555,12 +1707,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 108546,
-      "num": 108546,
-      "word": "我发现一个买了无座的孕妇",
-      "onboard_time": 1712305278,
-      "rank": 45,
-      "category": "幽默"
+      "raw_hot": 108428,
+      "num": 386676,
+      "word": "吉林旅游再现人从众",
+      "onboard_time": 1712306897,
+      "rank": 9,
+      "category": "旅游"
     },
     {
       "raw_hot": 107439,
@@ -1811,6 +1963,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 42908,
+      "num": 936274,
+      "word": "中国籍抗日航空英烈名录首次公布",
+      "onboard_time": 1712308278,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 42121,
       "num": 1309601,
       "word": "清明版如愿致敬先辈",
@@ -1908,6 +2068,9 @@
     },
     {
       "word": "#我们永远怀念他们牢记他们#"
+    },
+    {
+      "word": "#习近平种下了哪些树#"
     }
   ]
 }

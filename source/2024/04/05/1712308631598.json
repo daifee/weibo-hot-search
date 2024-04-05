@@ -1,0 +1,410 @@
+{
+  "runTime": 1712308631598,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1347277,
+        "num": 1347277,
+        "word": "注销手机号等于出卖自己",
+        "onboard_time": 1712288598,
+        "rank": 0,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 1005733,
+        "num": 1005733,
+        "word": "周冬雨素颜照 韩国",
+        "onboard_time": 1712304978,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 42908,
+        "num": 936274,
+        "word": "中国籍抗日航空英烈名录首次公布",
+        "onboard_time": 1712308278,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 903062,
+        "num": 903062,
+        "word": "10086回应注销手机号等于出卖自己",
+        "onboard_time": 1712306839,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 653194,
+        "num": 653194,
+        "word": "香港发现首例人类感染猴疱疹病毒",
+        "onboard_time": 1712307258,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 592917,
+        "num": 592917,
+        "word": "黄晓明当着林更新的面咯咯哒",
+        "onboard_time": 1712296576,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 551657,
+        "num": 551657,
+        "word": "红发杨幂",
+        "onboard_time": 1712305217,
+        "rank": 6,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 517276,
+        "num": 517276,
+        "word": "李现镜头畸变下的颜值",
+        "onboard_time": 1712302037,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 390635,
+        "num": 390635,
+        "word": "身体不好别去留学",
+        "onboard_time": 1712301317,
+        "rank": 8,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 108428,
+        "num": 386676,
+        "word": "吉林旅游再现人从众",
+        "onboard_time": 1712306897,
+        "rank": 9,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 984543,
+        "num": 381001,
+        "word": "河北邯郸通报男生被同学灌开水",
+        "onboard_time": 1712300958,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 728817,
+        "num": 373588,
+        "word": "被同学灌开水男生已治愈出院",
+        "onboard_time": 1712303357,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 569148,
+        "num": 369965,
+        "word": "我发现一个买了无座的孕妇",
+        "onboard_time": 1712305278,
+        "rank": 12,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 367557,
+        "num": 367557,
+        "word": "哥斯拉臀部翘到顶起一个金刚",
+        "onboard_time": 1712301438,
+        "rank": 13,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 339435,
+        "num": 339435,
+        "word": "福宝用爪子扒拉了下爷爷",
+        "onboard_time": 1712278397,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 328511,
+        "num": 328511,
+        "word": "雷军送张颂文的SU7真车现身",
+        "onboard_time": 1712285837,
+        "rank": 15,
+        "category": "汽车,艺人"
+      },
+      {
+        "raw_hot": 279022,
+        "num": 279022,
+        "word": "高跟鞋为什么被女性们抛弃",
+        "onboard_time": 1712292497,
+        "rank": 16,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 277409,
+        "num": 277409,
+        "word": "多地小区出现骨灰房",
+        "onboard_time": 1712292377,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 268047,
+        "num": 268047,
+        "word": "拜登要求以色列立即停火",
+        "onboard_time": 1712301797,
+        "rank": 18,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 267990,
+        "num": 267990,
+        "word": "恋爱是不是只存在于21岁",
+        "onboard_time": 1712304858,
+        "rank": 19,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 562053,
+        "num": 267637,
+        "word": "怀孕同事想每天坐我的车回家",
+        "onboard_time": 1712307378,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 457265,
+        "num": 267381,
+        "word": "男朋友说金价太高结婚时不买三金",
+        "onboard_time": 1712307498,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 266679,
+        "num": 266679,
+        "word": "胖东来今年将安排全员出国游",
+        "onboard_time": 1712307678,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 259071,
+        "num": 259071,
+        "word": "成都迪士尼",
+        "onboard_time": 1712282418,
+        "rank": 23,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 250656,
+        "num": 250656,
+        "word": "林孝埈再登长城",
+        "onboard_time": 1712305818,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 236743,
+        "num": 236743,
+        "word": "粉丝17秒偷看吴磊8次后续",
+        "onboard_time": 1712300118,
+        "rank": 25,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 224099,
+        "num": 224099,
+        "word": "王阳回应走秀被说太硬",
+        "onboard_time": 1712298378,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 212459,
+        "num": 212459,
+        "word": "Doinb回归",
+        "onboard_time": 1712298137,
+        "rank": 27,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 196757,
+        "num": 196757,
+        "word": "男子梦到7个数醒来照买彩票中3406万",
+        "onboard_time": 1712302398,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 123683,
+        "num": 196755,
+        "word": "19岁中国女花游运动员夺金",
+        "onboard_time": 1712307978,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 239121,
+        "num": 196755,
+        "word": "未来婆婆给的红包是百里挑一",
+        "onboard_time": 1712307857,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 196755,
+        "num": 196754,
+        "word": "福宝未来的家长啥样",
+        "onboard_time": 1712304198,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 189478,
+        "num": 189478,
+        "word": "北京玉渊潭CityWalk",
+        "onboard_time": 1712307498,
+        "rank": 32,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 185781,
+        "num": 185781,
+        "word": "张婧仪明媚",
+        "onboard_time": 1712305697,
+        "rank": 33,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 184386,
+        "num": 184386,
+        "word": "哥斯拉",
+        "onboard_time": 1712308398,
+        "rank": 34,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 180855,
+        "num": 180855,
+        "word": "为什么现在没人穿Kappa了",
+        "onboard_time": 1712297956,
+        "rank": 35,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 177216,
+        "num": 177216,
+        "word": "王一博 魏若来来了",
+        "onboard_time": 1712307017,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 159826,
+        "num": 159826,
+        "word": "宫崎骏滤镜 AI对生命是侮辱",
+        "onboard_time": 1712288417,
+        "rank": 37,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 159051,
+        "num": 159051,
+        "word": "张元英转圈 动捕",
+        "onboard_time": 1712295317,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 155565,
+        "num": 155565,
+        "word": "为什么希望雷军生产卫生巾",
+        "onboard_time": 1712301797,
+        "rank": 39,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 152476,
+        "num": 152476,
+        "word": "Doinb给baolan发消息",
+        "onboard_time": 1712308160,
+        "rank": 40,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 151170,
+        "num": 151170,
+        "word": "男朋友让我给他生病的妈妈做饭吃",
+        "onboard_time": 1712308160,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 150635,
+        "num": 150635,
+        "word": "美方要求耶伦就餐时大厅打开隔断",
+        "onboard_time": 1712301858,
+        "rank": 42,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 146326,
+        "num": 146326,
+        "word": "为什么千万不要买樱花味食物",
+        "onboard_time": 1712298977,
+        "rank": 43,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 146301,
+        "num": 146301,
+        "word": "黄雀在后",
+        "onboard_time": 1712307978,
+        "rank": 44,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 145685,
+        "num": 145685,
+        "word": "关晓彤宋亚轩微博互动",
+        "onboard_time": 1712306719,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 53185,
+        "num": 143107,
+        "word": "这一幕幕就是家国清明",
+        "onboard_time": 1712294957,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 142896,
+        "num": 142896,
+        "word": "披着音综外皮的恋综",
+        "onboard_time": 1712307198,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 137203,
+        "num": 137203,
+        "word": "大学生清明不回家在做什么",
+        "onboard_time": 1712308519,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 130341,
+        "num": 130341,
+        "word": "杨迪曝张杰最喜欢到处送杯子",
+        "onboard_time": 1712294897,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平种下了哪些树#"
+    }
+  }
+}

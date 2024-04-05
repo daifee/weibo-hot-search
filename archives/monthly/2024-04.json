@@ -1,6 +1,6 @@
 {
   "startTime": 1711902044401,
-  "endTime": 1712305516302,
+  "endTime": 1712308631598,
   "band_list": [
     {
       "raw_hot": 16874674,
@@ -1171,6 +1171,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1005733,
+      "num": 1005733,
+      "word": "周冬雨素颜照 韩国",
+      "onboard_time": 1712304978,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 999550,
       "num": 999550,
       "word": "老师用P过的照片吸引同学来上课",
@@ -1353,6 +1361,14 @@
       "onboard_time": 1711961480,
       "rank": 4,
       "category": "健康医疗,科学科普"
+    },
+    {
+      "raw_hot": 903062,
+      "num": 903062,
+      "word": "10086回应注销手机号等于出卖自己",
+      "onboard_time": 1712306839,
+      "rank": 3,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 897265,
@@ -1835,6 +1851,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 728817,
+      "num": 471845,
+      "word": "被同学灌开水男生已治愈出院",
+      "onboard_time": 1712303357,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 726960,
       "num": 726960,
       "word": "服用紧急避孕药会影响生育吗",
@@ -2225,6 +2249,14 @@
       "onboard_time": 1712014817,
       "rank": 4,
       "category": "电影"
+    },
+    {
+      "raw_hot": 653194,
+      "num": 653194,
+      "word": "香港发现首例人类感染猴疱疹病毒",
+      "onboard_time": 1712307258,
+      "rank": 4,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 651046,
@@ -2747,6 +2779,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 569148,
+      "num": 369965,
+      "word": "我发现一个买了无座的孕妇",
+      "onboard_time": 1712305278,
+      "rank": 45,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 568561,
       "num": 568561,
       "word": "24岁我还不能和男朋友出去旅游",
@@ -2785,6 +2825,14 @@
       "onboard_time": 1712120062,
       "rank": 17,
       "category": "电影"
+    },
+    {
+      "raw_hot": 562053,
+      "num": 267637,
+      "word": "怀孕同事想每天坐我的车回家",
+      "onboard_time": 1712307378,
+      "rank": 20,
+      "category": "情感"
     },
     {
       "raw_hot": 562019,
@@ -2841,6 +2889,14 @@
       "onboard_time": 1712029459,
       "rank": 11,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 551657,
+      "num": 551657,
+      "word": "红发杨幂",
+      "onboard_time": 1712305217,
+      "rank": 42,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 550429,
@@ -3403,14 +3459,6 @@
       "category": "社会正能量"
     },
     {
-      "raw_hot": 471845,
-      "num": 471845,
-      "word": "被同学灌开水男生已治愈出院",
-      "onboard_time": 1712303357,
-      "rank": 12,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 468966,
       "num": 468966,
       "word": "宋昰昀被曝校园暴力",
@@ -3505,6 +3553,14 @@
       "onboard_time": 1712065822,
       "rank": 14,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 457265,
+      "num": 267381,
+      "word": "男朋友说金价太高结婚时不买三金",
+      "onboard_time": 1712307498,
+      "rank": 21,
+      "category": "情感"
     },
     {
       "raw_hot": 456217,
@@ -5947,6 +6003,14 @@
       "category": "健康医疗,美食"
     },
     {
+      "raw_hot": 267990,
+      "num": 267990,
+      "word": "恋爱是不是只存在于21岁",
+      "onboard_time": 1712304858,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 267953,
       "num": 267953,
       "word": "09小楼事件",
@@ -5961,6 +6025,14 @@
       "onboard_time": 1712243360,
       "rank": 34,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 266679,
+      "num": 266679,
+      "word": "胖东来今年将安排全员出国游",
+      "onboard_time": 1712307678,
+      "rank": 22,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 266112,
@@ -6307,6 +6379,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 250656,
+      "num": 250656,
+      "word": "林孝埈再登长城",
+      "onboard_time": 1712305818,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 250418,
       "num": 250418,
       "word": "七宝街 我哭死",
@@ -6649,6 +6729,14 @@
       "onboard_time": 1711932500,
       "rank": 26,
       "category": "美食"
+    },
+    {
+      "raw_hot": 239121,
+      "num": 196755,
+      "word": "未来婆婆给的红包是百里挑一",
+      "onboard_time": 1712307857,
+      "rank": 30,
+      "category": "情感"
     },
     {
       "raw_hot": 238984,
@@ -7169,14 +7257,6 @@
       "onboard_time": 1712157920,
       "rank": 33,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 219567,
-      "num": 219567,
-      "word": "周冬雨素颜照 韩国",
-      "onboard_time": 1712304978,
-      "rank": 24,
-      "category": "艺人"
     },
     {
       "raw_hot": 219173,
@@ -8619,6 +8699,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 189478,
+      "num": 189478,
+      "word": "北京玉渊潭CityWalk",
+      "onboard_time": 1712307498,
+      "rank": 32,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 189477,
       "num": 189477,
       "word": "欣浪虞乐",
@@ -8673,14 +8761,6 @@
       "onboard_time": 1712123300,
       "rank": 36,
       "category": "演出"
-    },
-    {
-      "raw_hot": 188302,
-      "num": 188302,
-      "word": "恋爱是不是只存在于21岁",
-      "onboard_time": 1712304858,
-      "rank": 30,
-      "category": "情感"
     },
     {
       "raw_hot": 188203,
@@ -8827,6 +8907,14 @@
       "category": "电竞,网红"
     },
     {
+      "raw_hot": 185781,
+      "num": 185781,
+      "word": "张婧仪明媚",
+      "onboard_time": 1712305697,
+      "rank": 33,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 185695,
       "num": 185695,
       "word": "卓沅 春天太美好了",
@@ -8857,6 +8945,14 @@
       "onboard_time": 1711975458,
       "rank": 36,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 184386,
+      "num": 184386,
+      "word": "哥斯拉",
+      "onboard_time": 1712308398,
+      "rank": 34,
+      "category": "电影"
     },
     {
       "raw_hot": 184351,
@@ -9201,6 +9297,14 @@
       "onboard_time": 1712155103,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 177216,
+      "num": 177216,
+      "word": "王一博 魏若来来了",
+      "onboard_time": 1712307017,
+      "rank": 36,
+      "category": "剧集"
     },
     {
       "raw_hot": 177003,
@@ -10339,6 +10443,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 152476,
+      "num": 152476,
+      "word": "Doinb给baolan发消息",
+      "onboard_time": 1712308160,
+      "rank": 40,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 152437,
       "num": 152437,
       "word": "李沁王阳飙戏",
@@ -10449,6 +10561,14 @@
       "onboard_time": 1712244439,
       "rank": 41,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 151170,
+      "num": 151170,
+      "word": "男朋友让我给他生病的妈妈做饭吃",
+      "onboard_time": 1712308160,
+      "rank": 41,
+      "category": "情感"
     },
     {
       "raw_hot": 151169,
@@ -10723,6 +10843,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 146301,
+      "num": 146301,
+      "word": "黄雀在后",
+      "onboard_time": 1712307978,
+      "rank": 44,
+      "category": "电影"
+    },
+    {
       "raw_hot": 146296,
       "num": 146296,
       "word": "最功利的婚姻 最动情的约定",
@@ -10753,6 +10881,14 @@
       "onboard_time": 1711953080,
       "rank": 45,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 145685,
+      "num": 145685,
+      "word": "关晓彤宋亚轩微博互动",
+      "onboard_time": 1712306719,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 145608,
@@ -10921,6 +11057,14 @@
       "onboard_time": 1712026339,
       "rank": 42,
       "category": "情感"
+    },
+    {
+      "raw_hot": 142896,
+      "num": 142896,
+      "word": "披着音综外皮的恋综",
+      "onboard_time": 1712307198,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 142667,
@@ -11169,6 +11313,14 @@
       "onboard_time": 1711886358,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 137203,
+      "num": 137203,
+      "word": "大学生清明不回家在做什么",
+      "onboard_time": 1712308519,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 136911,
@@ -11435,14 +11587,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 131975,
-      "num": 131975,
-      "word": "红发杨幂",
-      "onboard_time": 1712305217,
-      "rank": 42,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 131798,
       "num": 131798,
       "word": "孙亚龙回应",
@@ -11697,6 +11841,14 @@
       "onboard_time": 1711889838,
       "rank": 41,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 123683,
+      "num": 196755,
+      "word": "19岁中国女花游运动员夺金",
+      "onboard_time": 1712307978,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 123042,
@@ -12107,12 +12259,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 108546,
-      "num": 108546,
-      "word": "我发现一个买了无座的孕妇",
-      "onboard_time": 1712305278,
-      "rank": 45,
-      "category": "幽默"
+      "raw_hot": 108428,
+      "num": 386676,
+      "word": "吉林旅游再现人从众",
+      "onboard_time": 1712306897,
+      "rank": 9,
+      "category": "旅游"
     },
     {
       "raw_hot": 108326,
@@ -12843,6 +12995,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 42908,
+      "num": 936274,
+      "word": "中国籍抗日航空英烈名录首次公布",
+      "onboard_time": 1712308278,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 42121,
       "num": 1309601,
       "word": "清明版如愿致敬先辈",
@@ -13184,6 +13344,9 @@
     },
     {
       "word": "#我们永远怀念他们牢记他们#"
+    },
+    {
+      "word": "#习近平种下了哪些树#"
     }
   ]
 }
