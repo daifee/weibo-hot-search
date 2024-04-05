@@ -1,6 +1,6 @@
 {
   "startTime": 1711902044401,
-  "endTime": 1712291065732,
+  "endTime": 1712291817801,
   "band_list": [
     {
       "raw_hot": 16874674,
@@ -123,6 +123,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2453841,
+      "num": 2453841,
+      "word": "注销手机号等于出卖自己",
+      "onboard_time": 1712288598,
+      "rank": 0,
+      "category": "情感"
+    },
+    {
       "raw_hot": 2382706,
       "num": 2382706,
       "word": "81192",
@@ -137,14 +145,6 @@
       "onboard_time": 1712221998,
       "rank": 3,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 2285693,
-      "num": 2285693,
-      "word": "注销手机号等于出卖自己",
-      "onboard_time": 1712288598,
-      "rank": 0,
-      "category": "情感"
     },
     {
       "raw_hot": 2229896,
@@ -2747,6 +2747,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 555010,
+      "num": 555010,
+      "word": "强吻看病女子医生被行拘6日",
+      "onboard_time": 1712288778,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 554159,
       "num": 554159,
       "word": "沈月脏脏包造型",
@@ -2905,14 +2913,6 @@
       "onboard_time": 1712137458,
       "rank": 18,
       "category": "财经"
-    },
-    {
-      "raw_hot": 528160,
-      "num": 391771,
-      "word": "强吻看病女子医生被行拘6日",
-      "onboard_time": 1712288778,
-      "rank": 11,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 527723,
@@ -3875,6 +3875,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 410806,
+      "num": 410806,
+      "word": "90后女子故意在取保候审期间怀孕",
+      "onboard_time": 1712280678,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 407775,
       "num": 339215,
       "word": "陈梦",
@@ -4035,14 +4043,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 390232,
-      "num": 390232,
-      "word": "90后女子故意在取保候审期间怀孕",
-      "onboard_time": 1712280678,
-      "rank": 35,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 389349,
       "num": 389349,
       "word": "把朋友圈权限给妈妈打开以后",
@@ -4147,20 +4147,20 @@
       "category": "数码"
     },
     {
+      "raw_hot": 381359,
+      "num": 381359,
+      "word": "恋爱兄妹",
+      "onboard_time": 1712289436,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 381327,
       "num": 298220,
       "word": "因为喷香水被同事提醒味道重",
       "onboard_time": 1712221697,
       "rank": 31,
       "category": "情感"
-    },
-    {
-      "raw_hot": 381060,
-      "num": 381060,
-      "word": "恋爱兄妹",
-      "onboard_time": 1712289436,
-      "rank": 13,
-      "category": "综艺"
     },
     {
       "raw_hot": 380796,
@@ -4209,6 +4209,14 @@
       "onboard_time": 1711943782,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 376181,
+      "num": 376181,
+      "word": "28岁荷兰女孩预约了安乐死",
+      "onboard_time": 1712291238,
+      "rank": 14,
+      "category": "情感"
     },
     {
       "raw_hot": 376103,
@@ -4681,6 +4689,14 @@
       "onboard_time": 1711981161,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 330615,
+      "num": 330615,
+      "word": "与凤行超点大结局",
+      "onboard_time": 1712288118,
+      "rank": 20,
+      "category": "剧集"
     },
     {
       "raw_hot": 329703,
@@ -5163,14 +5179,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 295426,
-      "num": 295426,
-      "word": "与凤行超点大结局",
-      "onboard_time": 1712288118,
-      "rank": 20,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 295178,
       "num": 295178,
       "word": "宁波震感",
@@ -5201,6 +5209,14 @@
       "onboard_time": 1712148920,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 292630,
+      "num": 292630,
+      "word": "分手三个月定律",
+      "onboard_time": 1712290817,
+      "rank": 29,
+      "category": "情感"
     },
     {
       "raw_hot": 292594,
@@ -5491,6 +5507,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 277479,
+      "num": 277479,
+      "word": "白发行止",
+      "onboard_time": 1712289736,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 276774,
       "num": 276774,
       "word": "于和伟隆妮吻戏",
@@ -5713,6 +5737,14 @@
       "onboard_time": 1712038098,
       "rank": 25,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 265012,
+      "num": 265012,
+      "word": "妈妈为什么嫁给爸爸",
+      "onboard_time": 1712289677,
+      "rank": 26,
+      "category": "幽默"
     },
     {
       "raw_hot": 264587,
@@ -5945,14 +5977,6 @@
       "onboard_time": 1712218697,
       "rank": 41,
       "category": "情感"
-    },
-    {
-      "raw_hot": 255954,
-      "num": 255954,
-      "word": "白发行止",
-      "onboard_time": 1712289736,
-      "rank": 23,
-      "category": "剧集"
     },
     {
       "raw_hot": 255124,
@@ -6699,14 +6723,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 226701,
-      "num": 226701,
-      "word": "妈妈为什么嫁给爸爸",
-      "onboard_time": 1712289677,
-      "rank": 26,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 226404,
       "num": 226404,
       "word": "名创优品",
@@ -7185,6 +7201,14 @@
       "onboard_time": 1711968860,
       "rank": 36,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 211179,
+      "num": 211179,
+      "word": "金刚身上有1900万根毛",
+      "onboard_time": 1712290397,
+      "rank": 32,
+      "category": "电影"
     },
     {
       "raw_hot": 211096,
@@ -7699,14 +7723,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 199502,
-      "num": 199502,
-      "word": "分手三个月定律",
-      "onboard_time": 1712290817,
-      "rank": 29,
-      "category": "情感"
-    },
-    {
       "raw_hot": 199346,
       "num": 199346,
       "word": "摇太阳 悼词",
@@ -8211,14 +8227,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 190784,
-      "num": 190784,
-      "word": "金刚身上有1900万根毛",
-      "onboard_time": 1712290397,
-      "rank": 32,
-      "category": "电影"
-    },
-    {
       "raw_hot": 190534,
       "num": 198218,
       "word": "两广地区祭祖有多夸张",
@@ -8281,6 +8289,14 @@
       "onboard_time": 1712040617,
       "rank": 34,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 189686,
+      "num": 189686,
+      "word": "于正说赵晴锦超是网红",
+      "onboard_time": 1712291419,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 189660,
@@ -8665,6 +8681,14 @@
       "onboard_time": 1712035098,
       "rank": 32,
       "category": "情感"
+    },
+    {
+      "raw_hot": 180275,
+      "num": 180275,
+      "word": "青岛再回应太平陵公墓问题",
+      "onboard_time": 1712291117,
+      "rank": 32,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 180073,
@@ -9371,6 +9395,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 163251,
+      "num": 163251,
+      "word": "利莫里亚见闻",
+      "onboard_time": 1712291419,
+      "rank": 38,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 163207,
       "num": 163207,
       "word": "宫崎骏新片i人狂喜",
@@ -9931,6 +9963,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 152488,
+      "num": 152488,
+      "word": "智性恋情侣",
+      "onboard_time": 1712291177,
+      "rank": 39,
+      "category": "情感"
+    },
+    {
       "raw_hot": 152437,
       "num": 152437,
       "word": "李沁王阳飙戏",
@@ -10465,6 +10505,14 @@
       "onboard_time": 1712194278,
       "rank": 47,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 143133,
+      "num": 143133,
+      "word": "大学生分手发癫现状",
+      "onboard_time": 1712290939,
+      "rank": 43,
+      "category": "情感"
     },
     {
       "raw_hot": 142954,
@@ -11291,14 +11339,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 120194,
-      "num": 120194,
-      "word": "大学生分手发癫现状",
-      "onboard_time": 1712290939,
-      "rank": 43,
-      "category": "情感"
-    },
-    {
       "raw_hot": 120005,
       "num": 120005,
       "word": "和没情商的朋友聊天是什么感觉",
@@ -11411,6 +11451,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 116717,
+      "num": 116717,
+      "word": "为何说婚姻是男人颜值的终点",
+      "onboard_time": 1712291238,
+      "rank": 44,
+      "category": "情感"
+    },
+    {
       "raw_hot": 115883,
       "num": 115883,
       "word": "运动真的会让面部代偿吗",
@@ -11449,6 +11497,14 @@
       "onboard_time": 1712218098,
       "rank": 47,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 114675,
+      "num": 114675,
+      "word": "再听一遍袁爷爷的禾下乘凉梦",
+      "onboard_time": 1712291117,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 114641,
@@ -11609,6 +11665,14 @@
       "onboard_time": 1711888819,
       "rank": 47,
       "category": "美食"
+    },
+    {
+      "raw_hot": 107439,
+      "num": 107439,
+      "word": "特蕾西娅",
+      "onboard_time": 1712291779,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 104976,

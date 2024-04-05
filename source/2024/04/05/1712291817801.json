@@ -1,0 +1,410 @@
+{
+  "runTime": 1712291817801,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2453841,
+        "num": 2453841,
+        "word": "注销手机号等于出卖自己",
+        "onboard_time": 1712288598,
+        "rank": 0,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 807757,
+        "num": 807757,
+        "word": "成都迪士尼",
+        "onboard_time": 1712282418,
+        "rank": 1,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 12524,
+        "num": 726536,
+        "word": "清明版如愿致敬先辈",
+        "onboard_time": 1712234720,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 670992,
+        "num": 670992,
+        "word": "哑舍开机官宣",
+        "onboard_time": 1712284218,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 612620,
+        "num": 612620,
+        "word": "福宝用爪子扒拉了下爷爷",
+        "onboard_time": 1712278397,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 611621,
+        "num": 611621,
+        "word": "陈泽扰民",
+        "onboard_time": 1712273233,
+        "rank": 5,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 568502,
+        "num": 568502,
+        "word": "唐山市副市长李建忠被查",
+        "onboard_time": 1712286497,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 555010,
+        "num": 555010,
+        "word": "强吻看病女子医生被行拘6日",
+        "onboard_time": 1712288778,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 533157,
+        "num": 533157,
+        "word": "宫崎骏滤镜 AI对生命是侮辱",
+        "onboard_time": 1712288417,
+        "rank": 8,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 231030,
+        "num": 433932,
+        "word": "丈夫牺牲后警号由妻子重启",
+        "onboard_time": 1712276236,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 763050,
+        "num": 427145,
+        "word": "雷军送张颂文的SU7真车现身",
+        "onboard_time": 1712285837,
+        "rank": 10,
+        "category": "汽车,艺人"
+      },
+      {
+        "raw_hot": 415193,
+        "num": 415193,
+        "word": "姜爷爷回韩国了",
+        "onboard_time": 1712274315,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 410806,
+        "num": 410806,
+        "word": "90后女子故意在取保候审期间怀孕",
+        "onboard_time": 1712280678,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 381359,
+        "num": 381359,
+        "word": "恋爱兄妹",
+        "onboard_time": 1712289436,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 376181,
+        "num": 376181,
+        "word": "28岁荷兰女孩预约了安乐死",
+        "onboard_time": 1712291238,
+        "rank": 14,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 361426,
+        "num": 361426,
+        "word": "青岛全面调查太平陵公墓问题",
+        "onboard_time": 1712278577,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 339484,
+        "num": 339484,
+        "word": "辅助生殖被纳入4省份医保",
+        "onboard_time": 1712245398,
+        "rank": 16,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 330615,
+        "num": 330615,
+        "word": "与凤行超点大结局",
+        "onboard_time": 1712288118,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 325775,
+        "num": 325775,
+        "word": "霉霉80亿身家成全球音乐圈首富",
+        "onboard_time": 1712285357,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 322754,
+        "num": 322754,
+        "word": "6岁孙子在爷爷坟前吃供品",
+        "onboard_time": 1712282896,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 292630,
+        "num": 292630,
+        "word": "分手三个月定律",
+        "onboard_time": 1712290817,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 277479,
+        "num": 277479,
+        "word": "白发行止",
+        "onboard_time": 1712289736,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 272709,
+        "num": 272709,
+        "word": "吴彦姝 娱乐圈人脉奶奶",
+        "onboard_time": 1712285658,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 265012,
+        "num": 265012,
+        "word": "妈妈为什么嫁给爸爸",
+        "onboard_time": 1712289677,
+        "rank": 23,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 263583,
+        "num": 263583,
+        "word": "婚恋网盗用张颂文照片",
+        "onboard_time": 1712280558,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 250976,
+        "num": 250976,
+        "word": "谢帝谢帝我要迪士尼",
+        "onboard_time": 1712287997,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 230768,
+        "num": 230768,
+        "word": "陈泽发文回应扰民",
+        "onboard_time": 1712280558,
+        "rank": 26,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 225472,
+        "num": 225472,
+        "word": "MINJU大吧跑路",
+        "onboard_time": 1712283437,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 211179,
+        "num": 211179,
+        "word": "金刚身上有1900万根毛",
+        "onboard_time": 1712290397,
+        "rank": 28,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 209872,
+        "num": 209872,
+        "word": "上戏偶遇林更新",
+        "onboard_time": 1712279116,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 203798,
+        "num": 203798,
+        "word": "很舒服但很伤身体行为",
+        "onboard_time": 1712282896,
+        "rank": 30,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 189686,
+        "num": 189686,
+        "word": "于正说赵晴锦超是网红",
+        "onboard_time": 1712291419,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 180275,
+        "num": 180275,
+        "word": "青岛再回应太平陵公墓问题",
+        "onboard_time": 1712291117,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 176439,
+        "num": 176439,
+        "word": "梅西赛后与对手教练组起冲突",
+        "onboard_time": 1712286617,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 175765,
+        "num": 175765,
+        "word": "i叔卖e狗",
+        "onboard_time": 1712289257,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 175064,
+        "num": 175064,
+        "word": "黄景瑜教王一博狙击手技巧",
+        "onboard_time": 1712286258,
+        "rank": 35,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 166143,
+        "num": 166143,
+        "word": "丫丫吃饱喝足吐舌头",
+        "onboard_time": 1712283498,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 164330,
+        "num": 164330,
+        "word": "张艺兴将在韩国打歌",
+        "onboard_time": 1712278337,
+        "rank": 37,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 163251,
+        "num": 163251,
+        "word": "利莫里亚见闻",
+        "onboard_time": 1712291419,
+        "rank": 38,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 152488,
+        "num": 152488,
+        "word": "智性恋情侣",
+        "onboard_time": 1712291177,
+        "rank": 39,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 143133,
+        "num": 143133,
+        "word": "大学生分手发癫现状",
+        "onboard_time": 1712290939,
+        "rank": 40,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 140752,
+        "num": 140752,
+        "word": "遇到infp克星",
+        "onboard_time": 1712288718,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 132218,
+        "num": 132218,
+        "word": "这4种蔬果是寄生虫重灾区",
+        "onboard_time": 1712285778,
+        "rank": 42,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 126968,
+        "num": 126968,
+        "word": "四千的工资根本花不完甚至还能存点钱",
+        "onboard_time": 1712242880,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 116717,
+        "num": 116717,
+        "word": "为何说婚姻是男人颜值的终点",
+        "onboard_time": 1712291238,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 114675,
+        "num": 114675,
+        "word": "再听一遍袁爷爷的禾下乘凉梦",
+        "onboard_time": 1712291117,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 113803,
+        "num": 113803,
+        "word": "徐艺洋发了和黄子韬的合照",
+        "onboard_time": 1712232918,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 112247,
+        "num": 112247,
+        "word": "雷军 我的SU7",
+        "onboard_time": 1712278937,
+        "rank": 47,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 109549,
+        "num": 109549,
+        "word": "惜花芷",
+        "onboard_time": 1712288179,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 107439,
+        "num": 107439,
+        "word": "特蕾西娅",
+        "onboard_time": 1712291779,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#清明祭英烈家国永念#"
+    }
+  }
+}
