@@ -1,6 +1,6 @@
 {
   "startTime": 1712334193790,
-  "endTime": 1712337448083,
+  "endTime": 1712338458875,
   "band_list": [
     {
       "raw_hot": 833945,
@@ -107,19 +107,19 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 375262,
+      "num": 375262,
+      "word": "行止要当爸爸了",
+      "onboard_time": 1712335755,
+      "rank": 5,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 348947,
       "num": 348947,
       "word": "徐海乔演技",
       "onboard_time": 1712328079,
       "rank": 13,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 343331,
-      "num": 343331,
-      "word": "行止要当爸爸了",
-      "onboard_time": 1712335755,
-      "rank": 5,
       "category": "剧集"
     },
     {
@@ -299,6 +299,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 125565,
+      "num": 125565,
+      "word": "沈璃抱住行止崩溃大哭",
+      "onboard_time": 1712337674,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 125485,
       "num": 125485,
       "word": "为什么年轻人上班都不爱打扮了",
@@ -345,6 +353,14 @@
       "onboard_time": 1712321659,
       "rank": 42,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 113288,
+      "num": 113288,
+      "word": "妈妈假装蔡依林回信",
+      "onboard_time": 1712336894,
+      "rank": 32,
+      "category": "演出"
     },
     {
       "raw_hot": 109164,
@@ -395,14 +411,6 @@
       "category": "科学科普"
     },
     {
-      "raw_hot": 91987,
-      "num": 91987,
-      "word": "妈妈假装蔡依林回信",
-      "onboard_time": 1712336894,
-      "rank": 32,
-      "category": "演出"
-    },
-    {
       "raw_hot": 91105,
       "num": 91105,
       "word": "王一博龙脊",
@@ -411,7 +419,15 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 77314,
+      "raw_hot": 83254,
+      "num": 83254,
+      "word": "宫崎骏电影里有好多杨迪",
+      "onboard_time": 1712336714,
+      "rank": 40,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 78291,
       "num": 84697,
       "word": "与凤行",
       "onboard_time": 1712309778,
@@ -419,20 +435,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 74156,
-      "num": 68521,
-      "word": "宫崎骏电影里有好多杨迪",
-      "onboard_time": 1712336714,
-      "rank": 40,
-      "category": "电影"
-    },
-    {
-      "raw_hot": 57655,
-      "num": 57655,
+      "raw_hot": 60653,
+      "num": 60653,
       "word": "声音玩具演唱会",
       "onboard_time": 1712337315,
       "rank": 47,
       "category": "演出"
+    },
+    {
+      "raw_hot": 54850,
+      "num": 54850,
+      "word": "与凤行 小情侣换装play",
+      "onboard_time": 1712324179,
+      "rank": 45,
+      "category": "剧集"
     },
     {
       "raw_hot": 51249,
@@ -452,6 +468,9 @@
     },
     {
       "word": "#家国永念致敬英雄#"
+    },
+    {
+      "word": "#我们永远怀念他们牢记他们#"
     }
   ]
 }
