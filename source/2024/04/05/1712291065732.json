@@ -1,0 +1,410 @@
+{
+  "runTime": 1712291065732,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2285693,
+        "num": 2285693,
+        "word": "注销手机号等于出卖自己",
+        "onboard_time": 1712288598,
+        "rank": 0,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 887503,
+        "num": 887503,
+        "word": "成都迪士尼",
+        "onboard_time": 1712282418,
+        "rank": 1,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 10531,
+        "num": 796200,
+        "word": "清明版如愿致敬先辈",
+        "onboard_time": 1712234720,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 743306,
+        "num": 743306,
+        "word": "哑舍开机官宣",
+        "onboard_time": 1712284218,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 690588,
+        "num": 690588,
+        "word": "福宝用爪子扒拉了下爷爷",
+        "onboard_time": 1712278397,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 629193,
+        "num": 629193,
+        "word": "陈泽扰民",
+        "onboard_time": 1712273233,
+        "rank": 5,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 619843,
+        "num": 619843,
+        "word": "唐山市副市长李建忠被查",
+        "onboard_time": 1712286497,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 533928,
+        "num": 533928,
+        "word": "宫崎骏滤镜 AI对生命是侮辱",
+        "onboard_time": 1712288417,
+        "rank": 7,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 475476,
+        "num": 475476,
+        "word": "姜爷爷回韩国了",
+        "onboard_time": 1712274315,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 236235,
+        "num": 393307,
+        "word": "丈夫牺牲后警号由妻子重启",
+        "onboard_time": 1712276236,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 999708,
+        "num": 392867,
+        "word": "雷军送张颂文的SU7真车现身",
+        "onboard_time": 1712285837,
+        "rank": 10,
+        "category": "汽车,艺人"
+      },
+      {
+        "raw_hot": 528160,
+        "num": 391771,
+        "word": "强吻看病女子医生被行拘6日",
+        "onboard_time": 1712288778,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 390232,
+        "num": 390232,
+        "word": "90后女子故意在取保候审期间怀孕",
+        "onboard_time": 1712280678,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 381060,
+        "num": 381060,
+        "word": "恋爱兄妹",
+        "onboard_time": 1712289436,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 373240,
+        "num": 373240,
+        "word": "霉霉80亿身家成全球音乐圈首富",
+        "onboard_time": 1712285357,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 365923,
+        "num": 365923,
+        "word": "辅助生殖被纳入4省份医保",
+        "onboard_time": 1712245398,
+        "rank": 15,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 352610,
+        "num": 352610,
+        "word": "6岁孙子在爷爷坟前吃供品",
+        "onboard_time": 1712282896,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 315822,
+        "num": 315822,
+        "word": "吴彦姝 娱乐圈人脉奶奶",
+        "onboard_time": 1712285658,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 307159,
+        "num": 307159,
+        "word": "婚恋网盗用张颂文照片",
+        "onboard_time": 1712280558,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 303420,
+        "num": 303420,
+        "word": "青岛全面调查太平陵公墓问题",
+        "onboard_time": 1712278577,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 295426,
+        "num": 295426,
+        "word": "与凤行超点大结局",
+        "onboard_time": 1712288118,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 281765,
+        "num": 281765,
+        "word": "谢帝谢帝我要迪士尼",
+        "onboard_time": 1712287997,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 258785,
+        "num": 258785,
+        "word": "陈泽发文回应扰民",
+        "onboard_time": 1712280558,
+        "rank": 22,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 255954,
+        "num": 255954,
+        "word": "白发行止",
+        "onboard_time": 1712289736,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 242967,
+        "num": 242967,
+        "word": "MINJU大吧跑路",
+        "onboard_time": 1712283437,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 236549,
+        "num": 236549,
+        "word": "很舒服但很伤身体行为",
+        "onboard_time": 1712282896,
+        "rank": 25,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 226701,
+        "num": 226701,
+        "word": "妈妈为什么嫁给爸爸",
+        "onboard_time": 1712289677,
+        "rank": 26,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 211691,
+        "num": 211691,
+        "word": "上戏偶遇林更新",
+        "onboard_time": 1712279116,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 200323,
+        "num": 200323,
+        "word": "丫丫吃饱喝足吐舌头",
+        "onboard_time": 1712283498,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 199502,
+        "num": 199502,
+        "word": "分手三个月定律",
+        "onboard_time": 1712290817,
+        "rank": 29,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 199133,
+        "num": 199133,
+        "word": "梅西赛后与对手教练组起冲突",
+        "onboard_time": 1712286617,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 192951,
+        "num": 192951,
+        "word": "黄景瑜教王一博狙击手技巧",
+        "onboard_time": 1712286258,
+        "rank": 31,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 190784,
+        "num": 190784,
+        "word": "金刚身上有1900万根毛",
+        "onboard_time": 1712290397,
+        "rank": 32,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 183870,
+        "num": 183870,
+        "word": "张艺兴将在韩国打歌",
+        "onboard_time": 1712278337,
+        "rank": 33,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 177262,
+        "num": 177262,
+        "word": "i叔卖e狗",
+        "onboard_time": 1712289257,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 150633,
+        "num": 150633,
+        "word": "这4种蔬果是寄生虫重灾区",
+        "onboard_time": 1712285778,
+        "rank": 35,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 144497,
+        "num": 144497,
+        "word": "四千的工资根本花不完甚至还能存点钱",
+        "onboard_time": 1712242880,
+        "rank": 36,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 141004,
+        "num": 141004,
+        "word": "遇到infp克星",
+        "onboard_time": 1712288718,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 134861,
+        "num": 134861,
+        "word": "惜花芷",
+        "onboard_time": 1712288179,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 134119,
+        "num": 134119,
+        "word": "第五人格",
+        "onboard_time": 1712289378,
+        "rank": 39,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 128013,
+        "num": 128013,
+        "word": "雷军 我的SU7",
+        "onboard_time": 1712278937,
+        "rank": 40,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 126555,
+        "num": 126555,
+        "word": "徐艺洋发了和黄子韬的合照",
+        "onboard_time": 1712232918,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 120544,
+        "num": 120544,
+        "word": "王者荣耀同人大片",
+        "onboard_time": 1712289197,
+        "rank": 42,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 120194,
+        "num": 120194,
+        "word": "大学生分手发癫现状",
+        "onboard_time": 1712290939,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 120171,
+        "num": 120171,
+        "word": "女子被撞大哭交警语气满是心疼",
+        "onboard_time": 1712278157,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 120031,
+        "num": 120031,
+        "word": "千万不要等年纪大了才去旅游",
+        "onboard_time": 1712278997,
+        "rank": 45,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 117979,
+        "num": 117979,
+        "word": "何超莲为赌王扫墓",
+        "onboard_time": 1712272995,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 102832,
+        "num": 102832,
+        "word": "沈璃行止花田对视",
+        "onboard_time": 1712287097,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 100206,
+        "num": 100206,
+        "word": "幽兰 这个家没我得散",
+        "onboard_time": 1712286077,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 99208,
+        "num": 99208,
+        "word": "明日方舟",
+        "onboard_time": 1712288058,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#清明祭英烈家国永念#"
+    }
+  }
+}

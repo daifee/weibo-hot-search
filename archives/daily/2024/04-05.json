@@ -1,7 +1,15 @@
 {
   "startTime": 1712247709633,
-  "endTime": 1712288053097,
+  "endTime": 1712291065732,
   "band_list": [
+    {
+      "raw_hot": 2285693,
+      "num": 2285693,
+      "word": "注销手机号等于出卖自己",
+      "onboard_time": 1712288598,
+      "rank": 0,
+      "category": "情感"
+    },
     {
       "raw_hot": 1791587,
       "num": 1791587,
@@ -107,6 +115,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 619843,
+      "num": 619843,
+      "word": "唐山市副市长李建忠被查",
+      "onboard_time": 1712286497,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 592622,
       "num": 592622,
       "word": "张艺兴将在韩国打歌",
@@ -160,6 +176,22 @@
       "word": "丈夫牺牲后警号由妻子重启",
       "onboard_time": 1712276236,
       "rank": 6,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 533928,
+      "num": 533928,
+      "word": "宫崎骏滤镜 AI对生命是侮辱",
+      "onboard_time": 1712288417,
+      "rank": 7,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 528160,
+      "num": 391771,
+      "word": "强吻看病女子医生被行拘6日",
+      "onboard_time": 1712288778,
+      "rank": 11,
       "category": "社会新闻"
     },
     {
@@ -267,12 +299,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 387416,
-      "num": 387416,
-      "word": "唐山市副市长李建忠被查",
-      "onboard_time": 1712286497,
-      "rank": 30,
+      "raw_hot": 390232,
+      "num": 390232,
+      "word": "90后女子故意在取保候审期间怀孕",
+      "onboard_time": 1712280678,
+      "rank": 35,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 381060,
+      "num": 381060,
+      "word": "恋爱兄妹",
+      "onboard_time": 1712289436,
+      "rank": 13,
+      "category": "综艺"
     },
     {
       "raw_hot": 374749,
@@ -315,12 +355,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 316251,
-      "num": 306161,
-      "word": "90后女子故意在取保候审期间怀孕",
-      "onboard_time": 1712280678,
-      "rank": 35,
-      "category": "社会新闻"
+      "raw_hot": 315822,
+      "num": 315822,
+      "word": "吴彦姝 娱乐圈人脉奶奶",
+      "onboard_time": 1712285658,
+      "rank": 21,
+      "category": "剧集"
     },
     {
       "raw_hot": 315717,
@@ -363,6 +403,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 295426,
+      "num": 295426,
+      "word": "与凤行超点大结局",
+      "onboard_time": 1712288118,
+      "rank": 20,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 293451,
       "num": 293451,
       "word": "小伞说Doinb能随时开播",
@@ -379,12 +427,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 287011,
-      "num": 287011,
-      "word": "吴彦姝 娱乐圈人脉奶奶",
-      "onboard_time": 1712285658,
-      "rank": 21,
-      "category": "剧集"
+      "raw_hot": 281765,
+      "num": 281765,
+      "word": "谢帝谢帝我要迪士尼",
+      "onboard_time": 1712287997,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 276972,
@@ -451,6 +499,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 255954,
+      "num": 255954,
+      "word": "白发行止",
+      "onboard_time": 1712289736,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 244523,
       "num": 244523,
       "word": "千万不要等年纪大了才去旅游",
@@ -481,6 +537,14 @@
       "onboard_time": 1712242400,
       "rank": 19,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 226701,
+      "num": 226701,
+      "word": "妈妈为什么嫁给爸爸",
+      "onboard_time": 1712289677,
+      "rank": 26,
+      "category": "幽默"
     },
     {
       "raw_hot": 226309,
@@ -547,6 +611,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 199502,
+      "num": 199502,
+      "word": "分手三个月定律",
+      "onboard_time": 1712290817,
+      "rank": 29,
+      "category": "情感"
+    },
+    {
       "raw_hot": 196390,
       "num": 196390,
       "word": "音乐节 不可抗力",
@@ -571,6 +643,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 190784,
+      "num": 190784,
+      "word": "金刚身上有1900万根毛",
+      "onboard_time": 1712290397,
+      "rank": 32,
+      "category": "电影"
+    },
+    {
       "raw_hot": 189990,
       "num": 189990,
       "word": "罪犯史泰龙被执行死刑",
@@ -593,6 +673,14 @@
       "onboard_time": 1712244618,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 177262,
+      "num": 177262,
+      "word": "i叔卖e狗",
+      "onboard_time": 1712289257,
+      "rank": 34,
+      "category": "幽默"
     },
     {
       "raw_hot": 176279,
@@ -723,6 +811,14 @@
       "category": "电影,动漫"
     },
     {
+      "raw_hot": 141004,
+      "num": 141004,
+      "word": "遇到infp克星",
+      "onboard_time": 1712288718,
+      "rank": 37,
+      "category": "情感"
+    },
+    {
       "raw_hot": 140969,
       "num": 140969,
       "word": "惜花芷 一下来了四个菀菀",
@@ -753,6 +849,22 @@
       "onboard_time": 1712277556,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 134861,
+      "num": 134861,
+      "word": "惜花芷",
+      "onboard_time": 1712288179,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 134119,
+      "num": 134119,
+      "word": "第五人格",
+      "onboard_time": 1712289378,
+      "rank": 39,
+      "category": "游戏"
     },
     {
       "raw_hot": 134080,
@@ -843,6 +955,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 120544,
+      "num": 120544,
+      "word": "王者荣耀同人大片",
+      "onboard_time": 1712289197,
+      "rank": 42,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 120194,
+      "num": 120194,
+      "word": "大学生分手发癫现状",
+      "onboard_time": 1712290939,
+      "rank": 43,
+      "category": "情感"
+    },
+    {
       "raw_hot": 119614,
       "num": 119614,
       "word": "春天常按这几个穴位能长高",
@@ -907,14 +1035,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 105174,
-      "num": 105174,
-      "word": "谢帝谢帝我要迪士尼",
-      "onboard_time": 1712287997,
-      "rank": 45,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 104729,
       "num": 104729,
       "word": "郑智化受伤",
@@ -937,6 +1057,14 @@
       "onboard_time": 1712279478,
       "rank": 47,
       "category": "情感"
+    },
+    {
+      "raw_hot": 99208,
+      "num": 99208,
+      "word": "明日方舟",
+      "onboard_time": 1712288058,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 98616,

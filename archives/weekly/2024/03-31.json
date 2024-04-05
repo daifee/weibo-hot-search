@@ -1,6 +1,6 @@
 {
   "startTime": 1711815680412,
-  "endTime": 1712288053097,
+  "endTime": 1712291065732,
   "band_list": [
     {
       "raw_hot": 16874674,
@@ -145,6 +145,14 @@
       "onboard_time": 1712221998,
       "rank": 3,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 2285693,
+      "num": 2285693,
+      "word": "注销手机号等于出卖自己",
+      "onboard_time": 1712288598,
+      "rank": 0,
+      "category": "情感"
     },
     {
       "raw_hot": 2229896,
@@ -2707,6 +2715,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 619843,
+      "num": 619843,
+      "word": "唐山市副市长李建忠被查",
+      "onboard_time": 1712286497,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 618572,
       "num": 618572,
       "word": "四川信托破产",
@@ -3323,6 +3339,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 533928,
+      "num": 533928,
+      "word": "宫崎骏滤镜 AI对生命是侮辱",
+      "onboard_time": 1712288417,
+      "rank": 7,
+      "category": "电影"
+    },
+    {
       "raw_hot": 533215,
       "num": 533215,
       "word": "别再因为害羞放弃肛门指检了",
@@ -3361,6 +3385,14 @@
       "onboard_time": 1711868658,
       "rank": 26,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 528160,
+      "num": 391771,
+      "word": "强吻看病女子医生被行拘6日",
+      "onboard_time": 1712288778,
+      "rank": 11,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 527723,
@@ -4787,6 +4819,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 390232,
+      "num": 390232,
+      "word": "90后女子故意在取保候审期间怀孕",
+      "onboard_time": 1712280678,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 389349,
       "num": 389349,
       "word": "把朋友圈权限给妈妈打开以后",
@@ -4825,14 +4865,6 @@
       "onboard_time": 1711939218,
       "rank": 33,
       "category": "教育,幽默"
-    },
-    {
-      "raw_hot": 387416,
-      "num": 387416,
-      "word": "唐山市副市长李建忠被查",
-      "onboard_time": 1712286497,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 386789,
@@ -4945,6 +4977,14 @@
       "onboard_time": 1712221697,
       "rank": 31,
       "category": "情感"
+    },
+    {
+      "raw_hot": 381060,
+      "num": 381060,
+      "word": "恋爱兄妹",
+      "onboard_time": 1712289436,
+      "rank": 13,
+      "category": "综艺"
     },
     {
       "raw_hot": 380796,
@@ -5763,12 +5803,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 316251,
-      "num": 306161,
-      "word": "90后女子故意在取保候审期间怀孕",
-      "onboard_time": 1712280678,
-      "rank": 35,
-      "category": "社会新闻"
+      "raw_hot": 315822,
+      "num": 315822,
+      "word": "吴彦姝 娱乐圈人脉奶奶",
+      "onboard_time": 1712285658,
+      "rank": 21,
+      "category": "剧集"
     },
     {
       "raw_hot": 315717,
@@ -6179,6 +6219,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 295426,
+      "num": 295426,
+      "word": "与凤行超点大结局",
+      "onboard_time": 1712288118,
+      "rank": 20,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 295178,
       "num": 295178,
       "word": "宁波震感",
@@ -6371,14 +6419,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 287011,
-      "num": 287011,
-      "word": "吴彦姝 娱乐圈人脉奶奶",
-      "onboard_time": 1712285658,
-      "rank": 21,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 286269,
       "num": 286269,
       "word": "追风者开虐",
@@ -6473,6 +6513,14 @@
       "onboard_time": 1711945045,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 281765,
+      "num": 281765,
+      "word": "谢帝谢帝我要迪士尼",
+      "onboard_time": 1712287997,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 281212,
@@ -7089,6 +7137,14 @@
       "onboard_time": 1712218697,
       "rank": 41,
       "category": "情感"
+    },
+    {
+      "raw_hot": 255954,
+      "num": 255954,
+      "word": "白发行止",
+      "onboard_time": 1712289736,
+      "rank": 23,
+      "category": "剧集"
     },
     {
       "raw_hot": 255124,
@@ -8057,6 +8113,14 @@
       "onboard_time": 1712109562,
       "rank": 36,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 226701,
+      "num": 226701,
+      "word": "妈妈为什么嫁给爸爸",
+      "onboard_time": 1712289677,
+      "rank": 26,
+      "category": "幽默"
     },
     {
       "raw_hot": 226404,
@@ -9291,6 +9355,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 199502,
+      "num": 199502,
+      "word": "分手三个月定律",
+      "onboard_time": 1712290817,
+      "rank": 29,
+      "category": "情感"
+    },
+    {
       "raw_hot": 199346,
       "num": 199346,
       "word": "摇太阳 悼词",
@@ -9865,6 +9937,14 @@
       "onboard_time": 1711951582,
       "rank": 35,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 190784,
+      "num": 190784,
+      "word": "金刚身上有1900万根毛",
+      "onboard_time": 1712290397,
+      "rank": 32,
+      "category": "电影"
     },
     {
       "raw_hot": 190534,
@@ -10641,6 +10721,14 @@
       "onboard_time": 1712155103,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 177262,
+      "num": 177262,
+      "word": "i叔卖e狗",
+      "onboard_time": 1712289257,
+      "rank": 34,
+      "category": "幽默"
     },
     {
       "raw_hot": 177003,
@@ -12739,6 +12827,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 141004,
+      "num": 141004,
+      "word": "遇到infp克星",
+      "onboard_time": 1712288718,
+      "rank": 37,
+      "category": "情感"
+    },
+    {
       "raw_hot": 140969,
       "num": 140969,
       "word": "惜花芷 一下来了四个菀菀",
@@ -13699,12 +13795,28 @@
       "category": "教育"
     },
     {
+      "raw_hot": 120544,
+      "num": 120544,
+      "word": "王者荣耀同人大片",
+      "onboard_time": 1712289197,
+      "rank": 42,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 120223,
       "num": 120223,
       "word": "壹基金蓝色行动",
       "onboard_time": 1712039718,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 120194,
+      "num": 120194,
+      "word": "大学生分手发癫现状",
+      "onboard_time": 1712290939,
+      "rank": 43,
+      "category": "情感"
     },
     {
       "raw_hot": 120005,
@@ -14105,14 +14217,6 @@
       "onboard_time": 1711890678,
       "rank": 38,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 105174,
-      "num": 105174,
-      "word": "谢帝谢帝我要迪士尼",
-      "onboard_time": 1712287997,
-      "rank": 45,
-      "category": "综艺"
     },
     {
       "raw_hot": 104976,
