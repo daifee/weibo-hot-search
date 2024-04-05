@@ -1,0 +1,410 @@
+{
+  "runTime": 1712331249451,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1443611,
+        "num": 1443611,
+        "word": "纽约震感",
+        "onboard_time": 1712328140,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1202331,
+        "num": 1202331,
+        "word": "爱奇艺没有一台笔电吗",
+        "onboard_time": 1712325799,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 114657,
+        "num": 1064599,
+        "word": "孩子们将碧空版如愿唱给空军英烈",
+        "onboard_time": 1712325319,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1028885,
+        "num": 1028885,
+        "word": "爱奇艺在干嘛",
+        "onboard_time": 1712321540,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 864482,
+        "num": 864482,
+        "word": "与凤行大结局",
+        "onboard_time": 1712320279,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 654207,
+        "num": 654207,
+        "word": "一个月给8000做全职妈妈",
+        "onboard_time": 1712317940,
+        "rank": 5,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 600114,
+        "num": 600114,
+        "word": "好看的人长得都很高清",
+        "onboard_time": 1712312599,
+        "rank": 6,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 593242,
+        "num": 593242,
+        "word": "香港发现首例人类感染猴疱疹病毒",
+        "onboard_time": 1712307258,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 547918,
+        "num": 547918,
+        "word": "美国新泽西发生里氏4.8级地震",
+        "onboard_time": 1712329699,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 286803,
+        "num": 544035,
+        "word": "姜爷爷学会果赖召唤术",
+        "onboard_time": 1712314099,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 543069,
+        "num": 543069,
+        "word": "声入人心求金主爸爸",
+        "onboard_time": 1712320759,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 498800,
+        "num": 498800,
+        "word": "赵丽颖林更新 晋江文学",
+        "onboard_time": 1712317758,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 442369,
+        "num": 442369,
+        "word": "徐海乔演技",
+        "onboard_time": 1712328079,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 413712,
+        "num": 413712,
+        "word": "过度省钱后觉得生活没意思了",
+        "onboard_time": 1712327359,
+        "rank": 13,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 393250,
+        "num": 393250,
+        "word": "同学知道我上岸之后接受不了",
+        "onboard_time": 1712320398,
+        "rank": 14,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 350658,
+        "num": 350658,
+        "word": "恋爱兄妹男五",
+        "onboard_time": 1712325678,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 429762,
+        "num": 333494,
+        "word": "赵丽颖林更新 粉丝联姻",
+        "onboard_time": 1712320999,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 307975,
+        "num": 307975,
+        "word": "王一博硬控直播三分钟",
+        "onboard_time": 1712326939,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 296115,
+        "num": 296115,
+        "word": "跳绳是最佳减重运动",
+        "onboard_time": 1712317758,
+        "rank": 18,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 287531,
+        "num": 287531,
+        "word": "沈璃买小孩的衣服原因找到了",
+        "onboard_time": 1712329099,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 504305,
+        "num": 285675,
+        "word": "医生建议不要饿着肚子睡觉",
+        "onboard_time": 1712329519,
+        "rank": 20,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 477710,
+        "num": 283898,
+        "word": "IU唱告五人的唯一",
+        "onboard_time": 1712329999,
+        "rank": 21,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 407436,
+        "num": 281909,
+        "word": "月薪五万是一种什么体验",
+        "onboard_time": 1712329220,
+        "rank": 22,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 325552,
+        "num": 278165,
+        "word": "高铁上再也不随便跟人换座了",
+        "onboard_time": 1712325500,
+        "rank": 23,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 276410,
+        "num": 276410,
+        "word": "婚后不建议和父母住一起",
+        "onboard_time": 1712327119,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 267857,
+        "num": 267857,
+        "word": "24岁女生负债15万",
+        "onboard_time": 1712317999,
+        "rank": 25,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 257165,
+        "num": 257165,
+        "word": "水瓶座就是永远不被定义",
+        "onboard_time": 1712329940,
+        "rank": 26,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 255507,
+        "num": 255507,
+        "word": "王一博要不要擦一下括号",
+        "onboard_time": 1712322320,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 204317,
+        "num": 251933,
+        "word": "美财长耶伦再提反对中美脱钩",
+        "onboard_time": 1712327719,
+        "rank": 28,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 200126,
+        "num": 251468,
+        "word": "男子结婚37年法定妻子竟是弟妹",
+        "onboard_time": 1712321959,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 251129,
+        "num": 251129,
+        "word": "爱奇艺 草台班子",
+        "onboard_time": 1712326279,
+        "rank": 30,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 239231,
+        "num": 239231,
+        "word": "王力宏临沂",
+        "onboard_time": 1712330179,
+        "rank": 31,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 237309,
+        "num": 237309,
+        "word": "王爷别输了 沈璃吃饭了",
+        "onboard_time": 1712329940,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 234400,
+        "num": 234400,
+        "word": "冰箱久置的3种食物或是癌症帮凶",
+        "onboard_time": 1712329220,
+        "rank": 33,
+        "category": "健康医疗,科学科普"
+      },
+      {
+        "raw_hot": 214800,
+        "num": 214800,
+        "word": "眼泪女王",
+        "onboard_time": 1712327600,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 185312,
+        "num": 185312,
+        "word": "九亿萤火虫的梦",
+        "onboard_time": 1712326159,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 182841,
+        "num": 182841,
+        "word": "为什么感觉自己总是留不住朋友",
+        "onboard_time": 1712331077,
+        "rank": 36,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 179712,
+        "num": 179712,
+        "word": "前夫殴打10岁女儿女子忍痛拍下取证",
+        "onboard_time": 1712329340,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 179179,
+        "num": 179179,
+        "word": "王一博龙脊",
+        "onboard_time": 1712329760,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 178917,
+        "num": 178917,
+        "word": "读研后多了很多朴素的愿望",
+        "onboard_time": 1712330898,
+        "rank": 39,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 177976,
+        "num": 177976,
+        "word": "分手前的征兆是什么",
+        "onboard_time": 1712327359,
+        "rank": 40,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 172692,
+        "num": 172692,
+        "word": "暧昧过后没在一起才是绝杀",
+        "onboard_time": 1712310077,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 146247,
+        "num": 170218,
+        "word": "缅甸5.6级地震",
+        "onboard_time": 1712323879,
+        "rank": 42,
+        "category": "社会新闻,自然"
+      },
+      {
+        "raw_hot": 168271,
+        "num": 168271,
+        "word": "为什么年轻人上班都不爱打扮了",
+        "onboard_time": 1712328621,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 165461,
+        "num": 165461,
+        "word": "拂容君下凡渡劫燃起来了",
+        "onboard_time": 1712330719,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 164133,
+        "num": 164133,
+        "word": "关晓彤裤子是不是有点短了",
+        "onboard_time": 1712313679,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 147832,
+        "num": 147832,
+        "word": "沈图南你真是疯了",
+        "onboard_time": 1712321659,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 146631,
+        "num": 146631,
+        "word": "这一段是曾黎本色出演吧",
+        "onboard_time": 1712329819,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 141008,
+        "num": 141008,
+        "word": "与凤行 小情侣换装play",
+        "onboard_time": 1712324179,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 129659,
+        "num": 139905,
+        "word": "非农",
+        "onboard_time": 1712324599,
+        "rank": 49,
+        "category": "财经"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平种下了哪些树#"
+    }
+  }
+}
