@@ -1,6 +1,6 @@
 {
   "startTime": 1711902044401,
-  "endTime": 1712280731686,
+  "endTime": 1712283846207,
   "band_list": [
     {
       "raw_hot": 16874674,
@@ -411,6 +411,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1623722,
+      "num": 1623722,
+      "word": "陈泽扰民",
+      "onboard_time": 1712273233,
+      "rank": 23,
+      "category": "网红"
+    },
+    {
       "raw_hot": 1622172,
       "num": 1291442,
       "word": "黄旭熙 给粉丝下跪",
@@ -505,14 +513,6 @@
       "onboard_time": 1712209158,
       "rank": 1,
       "category": "时尚,作品衍生"
-    },
-    {
-      "raw_hot": 1511818,
-      "num": 1511818,
-      "word": "陈泽扰民",
-      "onboard_time": 1712273233,
-      "rank": 23,
-      "category": "网红"
     },
     {
       "raw_hot": 1506183,
@@ -881,6 +881,14 @@
       "onboard_time": 1712063539,
       "rank": 12,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 1120549,
+      "num": 1120549,
+      "word": "成都迪士尼",
+      "onboard_time": 1712282418,
+      "rank": 1,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 1118722,
@@ -1692,7 +1700,7 @@
     },
     {
       "raw_hot": 756594,
-      "num": 395938,
+      "num": 625545,
       "word": "雷军 我的SU7",
       "onboard_time": 1712278937,
       "rank": 12,
@@ -2065,6 +2073,14 @@
       "onboard_time": 1712063061,
       "rank": 15,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 662583,
+      "num": 662583,
+      "word": "青岛全面调查太平陵公墓问题",
+      "onboard_time": 1712278577,
+      "rank": 23,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 660306,
@@ -2523,6 +2539,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 579086,
+      "num": 579086,
+      "word": "陈泽发文回应扰民",
+      "onboard_time": 1712280558,
+      "rank": 32,
+      "category": "游戏,网红"
+    },
+    {
       "raw_hot": 578526,
       "num": 578526,
       "word": "耳朵痒却掏不出东西咋回事",
@@ -2708,7 +2732,7 @@
     },
     {
       "raw_hot": 547670,
-      "num": 547670,
+      "num": 579133,
       "word": "丈夫牺牲后警号由妻子重启",
       "onboard_time": 1712276236,
       "rank": 6,
@@ -2923,6 +2947,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 516918,
+      "num": 241697,
+      "word": "很舒服但很伤身体行为",
+      "onboard_time": 1712282896,
+      "rank": 20,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 516400,
       "num": 516400,
       "word": "唐鹤德希望今天是复活节",
@@ -3115,6 +3147,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 479383,
+      "num": 479383,
+      "word": "婚恋网盗用张颂文照片",
+      "onboard_time": 1712280558,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 479382,
       "num": 310340,
       "word": "雷军妻子罕见露面",
@@ -3153,6 +3193,14 @@
       "onboard_time": 1712196258,
       "rank": 12,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 476769,
+      "num": 476769,
+      "word": "上戏偶遇林更新",
+      "onboard_time": 1712279116,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 476574,
@@ -3827,14 +3875,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 398128,
-      "num": 398128,
-      "word": "青岛全面调查太平陵公墓问题",
-      "onboard_time": 1712278577,
-      "rank": 23,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 397858,
       "num": 397858,
       "word": "神君红透了",
@@ -3921,14 +3961,6 @@
       "onboard_time": 1712030300,
       "rank": 17,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 389456,
-      "num": 389456,
-      "word": "上戏偶遇林更新",
-      "onboard_time": 1712279116,
-      "rank": 30,
-      "category": "艺人"
     },
     {
       "raw_hot": 389349,
@@ -4571,6 +4603,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 328938,
+      "num": 240770,
+      "word": "当体制内的好友成了领导",
+      "onboard_time": 1712280558,
+      "rank": 31,
+      "category": "情感"
+    },
+    {
       "raw_hot": 327945,
       "num": 327945,
       "word": "贝儿是长意妹妹",
@@ -4713,6 +4753,14 @@
       "onboard_time": 1711942940,
       "rank": 22,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 316251,
+      "num": 237078,
+      "word": "90后女子故意在取保候审期间怀孕",
+      "onboard_time": 1712280678,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 315717,
@@ -5009,6 +5057,14 @@
       "onboard_time": 1712212639,
       "rank": 31,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 296955,
+      "num": 296955,
+      "word": "6岁孙子在爷爷坟前吃供品",
+      "onboard_time": 1712282896,
+      "rank": 16,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 296819,
@@ -5403,6 +5459,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 273244,
+      "num": 273244,
+      "word": "与凤行周峻纬出场",
+      "onboard_time": 1712276177,
+      "rank": 21,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 271912,
       "num": 271912,
       "word": "王珞丹给陶昕然送麝香",
@@ -5569,14 +5633,6 @@
       "onboard_time": 1711962380,
       "rank": 24,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 263660,
-      "num": 263660,
-      "word": "与凤行周峻纬出场",
-      "onboard_time": 1712276177,
-      "rank": 21,
-      "category": "剧集"
     },
     {
       "raw_hot": 263407,
@@ -6355,6 +6411,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 232325,
+      "num": 232325,
+      "word": "MINJU大吧跑路",
+      "onboard_time": 1712283437,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 232086,
       "num": 232086,
       "word": "承欢记定档",
@@ -7075,6 +7139,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 208847,
+      "num": 208847,
+      "word": "cpsp",
+      "onboard_time": 1712151080,
+      "rank": 42,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 208817,
       "num": 208817,
       "word": "蒋敦豪开启养蜂之路",
@@ -7505,6 +7577,14 @@
       "onboard_time": 1712118683,
       "rank": 45,
       "category": "电影"
+    },
+    {
+      "raw_hot": 198701,
+      "num": 198701,
+      "word": "丫丫吃饱喝足吐舌头",
+      "onboard_time": 1712283498,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 198636,
@@ -8371,6 +8451,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 181475,
+      "num": 181475,
+      "word": "音乐节 不可抗力",
+      "onboard_time": 1712282597,
+      "rank": 33,
+      "category": "演出"
+    },
+    {
       "raw_hot": 181412,
       "num": 181412,
       "word": "宋雨琦solo行程表",
@@ -8715,14 +8803,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 173843,
-      "num": 173843,
-      "word": "cpsp",
-      "onboard_time": 1712151080,
-      "rank": 42,
-      "category": "动漫"
-    },
-    {
       "raw_hot": 173809,
       "num": 173809,
       "word": "陈楚生这个赛季太强了",
@@ -9043,22 +9123,6 @@
       "category": "科学科普"
     },
     {
-      "raw_hot": 165049,
-      "num": 165049,
-      "word": "当体制内的好友成了领导",
-      "onboard_time": 1712280558,
-      "rank": 31,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 164532,
-      "num": 164532,
-      "word": "陈泽发文回应扰民",
-      "onboard_time": 1712280558,
-      "rank": 32,
-      "category": "游戏,网红"
-    },
-    {
       "raw_hot": 164514,
       "num": 164514,
       "word": "吴磊眼神变化从清澈到绝望",
@@ -9201,6 +9265,14 @@
       "onboard_time": 1711889239,
       "rank": 34,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 161422,
+      "num": 161422,
+      "word": "小鹏车主为查证问题给刹车装监控",
+      "onboard_time": 1712282896,
+      "rank": 34,
+      "category": "汽车"
     },
     {
       "raw_hot": 161412,
@@ -9395,6 +9467,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 158328,
+      "num": 158328,
+      "word": "爱发脾气可能是因为肝不好",
+      "onboard_time": 1712281098,
+      "rank": 35,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 158275,
       "num": 158275,
       "word": "吴磊 谁是爸",
@@ -9561,14 +9641,6 @@
       "onboard_time": 1712046558,
       "rank": 33,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 154461,
-      "num": 154461,
-      "word": "90后女子故意在取保候审期间怀孕",
-      "onboard_time": 1712280678,
-      "rank": 35,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 154366,
@@ -9963,6 +10035,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 147731,
+      "num": 147731,
+      "word": "infp丢掉手机一天会干嘛",
+      "onboard_time": 1712282896,
+      "rank": 37,
+      "category": "情感"
+    },
+    {
       "raw_hot": 147506,
       "num": 147506,
       "word": "没人能拒绝中式美学的魅力",
@@ -10089,6 +10169,14 @@
       "onboard_time": 1711958001,
       "rank": 42,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 144780,
+      "num": 144780,
+      "word": "宫崎骏新片",
+      "onboard_time": 1712281217,
+      "rank": 40,
+      "category": "电影,动漫"
     },
     {
       "raw_hot": 144686,
@@ -10273,6 +10361,14 @@
       "onboard_time": 1712039479,
       "rank": 36,
       "category": "电影"
+    },
+    {
+      "raw_hot": 140265,
+      "num": 140265,
+      "word": "大学教授开生死课带学生参观殡仪馆",
+      "onboard_time": 1712280678,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 140063,
@@ -10465,14 +10561,6 @@
       "onboard_time": 1712041337,
       "rank": 43,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 136501,
-      "num": 136501,
-      "word": "大学教授开生死课带学生参观殡仪馆",
-      "onboard_time": 1712280678,
-      "rank": 39,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 136457,
@@ -10739,14 +10827,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 129737,
-      "num": 129737,
-      "word": "婚恋网盗用张颂文照片",
-      "onboard_time": 1712280558,
-      "rank": 42,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 129517,
       "num": 129517,
       "word": "追风者魏若来觉醒",
@@ -10883,6 +10963,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 125229,
+      "num": 125229,
+      "word": "新仙剑林月如搞笑女",
+      "onboard_time": 1712281696,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 124588,
       "num": 124588,
       "word": "最近发了疯想谈恋爱的别急",
@@ -10921,6 +11009,14 @@
       "onboard_time": 1711889838,
       "rank": 41,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 123805,
+      "num": 123805,
+      "word": "谢帝应援曲",
+      "onboard_time": 1712283677,
+      "rank": 44,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 123042,
@@ -11225,6 +11321,14 @@
       "onboard_time": 1711878557,
       "rank": 45,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 110324,
+      "num": 110324,
+      "word": "春天常按这几个穴位能长高",
+      "onboard_time": 1712283797,
+      "rank": 49,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 110134,
@@ -11948,7 +12052,7 @@
     },
     {
       "raw_hot": 42121,
-      "num": 858190,
+      "num": 956853,
       "word": "清明版如愿致敬先辈",
       "onboard_time": 1712234720,
       "rank": 2,
