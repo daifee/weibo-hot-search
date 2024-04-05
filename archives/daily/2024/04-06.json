@@ -1,7 +1,15 @@
 {
   "startTime": 1712334193790,
-  "endTime": 1712334193790,
+  "endTime": 1712335018901,
   "band_list": [
+    {
+      "raw_hot": 833945,
+      "num": 833945,
+      "word": "前夫殴打10岁女儿女子忍痛拍下取证",
+      "onboard_time": 1712329340,
+      "rank": 1,
+      "category": "社会新闻"
+    },
     {
       "raw_hot": 825246,
       "num": 825246,
@@ -9,14 +17,6 @@
       "onboard_time": 1712327359,
       "rank": 0,
       "category": "情感"
-    },
-    {
-      "raw_hot": 799089,
-      "num": 799089,
-      "word": "前夫殴打10岁女儿女子忍痛拍下取证",
-      "onboard_time": 1712329340,
-      "rank": 1,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 753243,
@@ -59,20 +59,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 537619,
+      "num": 537619,
+      "word": "李沁高定",
+      "onboard_time": 1712332519,
+      "rank": 10,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 489315,
       "num": 489315,
       "word": "香港发现首例人类感染猴疱疹病毒",
       "onboard_time": 1712307258,
       "rank": 8,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 483732,
-      "num": 483732,
-      "word": "李沁高定",
-      "onboard_time": 1712332519,
-      "rank": 10,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 479829,
@@ -89,6 +89,14 @@
       "onboard_time": 1712329519,
       "rank": 20,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 429521,
+      "num": 429521,
+      "word": "读研后多了很多朴素的愿望",
+      "onboard_time": 1712330898,
+      "rank": 16,
+      "category": "情感"
     },
     {
       "raw_hot": 405746,
@@ -129,14 +137,6 @@
       "onboard_time": 1712330179,
       "rank": 15,
       "category": "演出"
-    },
-    {
-      "raw_hot": 296521,
-      "num": 296521,
-      "word": "读研后多了很多朴素的愿望",
-      "onboard_time": 1712330898,
-      "rank": 16,
-      "category": "情感"
     },
     {
       "raw_hot": 292605,
@@ -195,12 +195,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 199364,
-      "num": 199364,
+      "raw_hot": 204734,
+      "num": 204734,
       "word": "高铁上再也不随便跟人换座了",
       "onboard_time": 1712325500,
       "rank": 26,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 170967,
+      "num": 170967,
+      "word": "身体在变老的10个迹象",
+      "onboard_time": 1712332216,
+      "rank": 32,
+      "category": "科学科普"
     },
     {
       "raw_hot": 170756,
@@ -225,14 +233,6 @@
       "onboard_time": 1712326939,
       "rank": 31,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 160776,
-      "num": 160776,
-      "word": "身体在变老的10个迹象",
-      "onboard_time": 1712332216,
-      "rank": 32,
-      "category": "科学科普"
     },
     {
       "raw_hot": 153012,
@@ -395,6 +395,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 77314,
+      "num": 84697,
+      "word": "与凤行",
+      "onboard_time": 1712309778,
+      "rank": 49,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 51249,
       "num": 765184,
       "word": "孩子们将碧空版如愿唱给空军英烈",
@@ -406,6 +414,9 @@
   "hotgov_list": [
     {
       "word": "#不断增厚我们的绿色家底#"
+    },
+    {
+      "word": "#习近平种下了哪些树#"
     }
   ]
 }
