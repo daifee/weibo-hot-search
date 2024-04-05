@@ -1,6 +1,6 @@
 {
   "startTime": 1711902044401,
-  "endTime": 1712355419325,
+  "endTime": 1712356441331,
   "band_list": [
     {
       "raw_hot": 16874674,
@@ -6691,6 +6691,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 260109,
+      "num": 260109,
+      "word": "三大运营商回应注销手机号",
+      "onboard_time": 1712339653,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 259656,
       "num": 259656,
       "word": "杨幂好用心",
@@ -7729,14 +7737,6 @@
       "onboard_time": 1711945704,
       "rank": 41,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 224376,
-      "num": 191879,
-      "word": "三大运营商回应注销手机号",
-      "onboard_time": 1712339653,
-      "rank": 25,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 224085,
@@ -14155,6 +14155,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 35345,
+      "num": 35345,
+      "word": "袁弘张歆艺带娃游西班牙",
+      "onboard_time": 1712351591,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 34601,
       "num": 34601,
       "word": "张婧仪演破产豪门",
@@ -14235,20 +14243,20 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 29460,
-      "num": 29460,
-      "word": "袁弘张歆艺带娃游西班牙",
-      "onboard_time": 1712351591,
-      "rank": 44,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 28707,
       "num": 28707,
       "word": "台北捷运高铁全线暂停营运",
       "onboard_time": 1712171231,
       "rank": 37,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 27560,
+      "num": 27560,
+      "word": "皇上来大明湖也找不到夏雨荷",
+      "onboard_time": 1712344632,
+      "rank": 48,
+      "category": "旅游"
     },
     {
       "raw_hot": 27508,
@@ -14315,11 +14323,35 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 24591,
+      "num": 24591,
+      "word": "为什么有人觉得清明没休",
+      "onboard_time": 1712350630,
+      "rank": 47,
+      "category": "情感"
+    },
+    {
       "raw_hot": 23884,
       "num": 25339,
       "word": "花间令有第二季吗",
       "onboard_time": 1711994112,
       "rank": 48,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 23802,
+      "num": 23802,
+      "word": "全国的景区看起来都像有一亿人",
+      "onboard_time": 1712353812,
+      "rank": 45,
+      "category": "旅游"
+    },
+    {
+      "raw_hot": 23213,
+      "num": 23213,
+      "word": "王一博把枪放在手里炒了一顿",
+      "onboard_time": 1712355912,
+      "rank": 42,
       "category": "剧集"
     },
     {
@@ -14329,6 +14361,14 @@
       "onboard_time": 1712266211,
       "rank": 48,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 22966,
+      "num": 22966,
+      "word": "亲密关系都存在权利的博弈",
+      "onboard_time": 1712352790,
+      "rank": 48,
+      "category": "情感"
     },
     {
       "raw_hot": 22900,
@@ -14363,28 +14403,20 @@
       "category": "数码"
     },
     {
-      "raw_hot": 21573,
-      "num": 21573,
-      "word": "为什么有人觉得清明没休",
-      "onboard_time": 1712350630,
-      "rank": 47,
-      "category": "情感"
+      "raw_hot": 21547,
+      "num": 21547,
+      "word": "反向画饼领导当真了",
+      "onboard_time": 1712355311,
+      "rank": 48,
+      "category": "幽默"
     },
     {
-      "raw_hot": 21328,
-      "num": 21328,
-      "word": "皇上来大明湖也找不到夏雨荷",
-      "onboard_time": 1712344632,
-      "rank": 48,
+      "raw_hot": 20719,
+      "num": 20719,
+      "word": "终于知道杜鹃为啥又叫映山红了",
+      "onboard_time": 1712355370,
+      "rank": 49,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 21009,
-      "num": 21009,
-      "word": "亲密关系都存在权利的博弈",
-      "onboard_time": 1712352790,
-      "rank": 48,
-      "category": "情感"
     },
     {
       "raw_hot": 20228,
@@ -14411,14 +14443,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 18766,
-      "num": 18766,
-      "word": "全国的景区看起来都像有一亿人",
-      "onboard_time": 1712353812,
-      "rank": 45,
-      "category": "旅游"
-    },
-    {
       "raw_hot": 18220,
       "num": 133923,
       "word": "2024云拜祖正确打开方式",
@@ -14433,22 +14457,6 @@
       "onboard_time": 1712348411,
       "rank": 48,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 16349,
-      "num": 18739,
-      "word": "反向画饼领导当真了",
-      "onboard_time": 1712355311,
-      "rank": 48,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 16338,
-      "num": 18714,
-      "word": "终于知道杜鹃为啥又叫映山红了",
-      "onboard_time": 1712355370,
-      "rank": 49,
-      "category": "旅游"
     },
     {
       "raw_hot": 15548,
