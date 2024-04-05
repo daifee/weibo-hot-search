@@ -1,6 +1,6 @@
 {
   "startTime": 1712334193790,
-  "endTime": 1712344551174,
+  "endTime": 1712345657154,
   "band_list": [
     {
       "raw_hot": 833945,
@@ -483,12 +483,28 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 25279,
-      "num": 25279,
+      "raw_hot": 30067,
+      "num": 30067,
       "word": "4个心脏的求救信号",
       "onboard_time": 1712343912,
       "rank": 43,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 27410,
+      "num": 27410,
+      "word": "林更新大司命和行止一样不能有情感",
+      "onboard_time": 1712345591,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 19417,
+      "num": 19941,
+      "word": "皇上来大明湖也找不到夏雨荷",
+      "onboard_time": 1712344632,
+      "rank": 48,
+      "category": "旅游"
     }
   ],
   "hotgov_list": [
