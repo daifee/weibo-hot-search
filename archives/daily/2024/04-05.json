@@ -1,10 +1,10 @@
 {
   "startTime": 1712247709633,
-  "endTime": 1712291817801,
+  "endTime": 1712294202544,
   "band_list": [
     {
-      "raw_hot": 2453841,
-      "num": 2453841,
+      "raw_hot": 2472045,
+      "num": 2472045,
       "word": "注销手机号等于出卖自己",
       "onboard_time": 1712288598,
       "rank": 0,
@@ -91,6 +91,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 713967,
+      "num": 453021,
+      "word": "多地小区出现骨灰房",
+      "onboard_time": 1712292377,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 669406,
       "num": 393745,
       "word": "淘宝百亿补贴买到4瓶串码一样的茅台",
@@ -104,6 +112,14 @@
       "word": "青岛全面调查太平陵公墓问题",
       "onboard_time": 1712278577,
       "rank": 23,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 637522,
+      "num": 637522,
+      "word": "强吻看病女子医生被行拘6日",
+      "onboard_time": 1712288778,
+      "rank": 11,
       "category": "社会新闻"
     },
     {
@@ -171,14 +187,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 555010,
-      "num": 555010,
-      "word": "强吻看病女子医生被行拘6日",
-      "onboard_time": 1712288778,
-      "rank": 11,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 547670,
       "num": 579133,
       "word": "丈夫牺牲后警号由妻子重启",
@@ -235,6 +243,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 467551,
+      "num": 467551,
+      "word": "行止雪中求婚",
+      "onboard_time": 1712292439,
+      "rank": 8,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 450450,
       "num": 450450,
       "word": "18岁女生一天给男友打100多个电话",
@@ -251,6 +267,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 428687,
+      "num": 428687,
+      "word": "易烊千玺闭眼侧颜",
+      "onboard_time": 1712292737,
+      "rank": 13,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 422731,
       "num": 422731,
       "word": "东宫绝世甜剧不是说说而已",
@@ -265,6 +289,14 @@
       "onboard_time": 1712230338,
       "rank": 7,
       "category": "健康医疗,科学科普"
+    },
+    {
+      "raw_hot": 413321,
+      "num": 413321,
+      "word": "于正说赵晴锦超是网红",
+      "onboard_time": 1712291419,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 410806,
@@ -307,20 +339,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 383681,
+      "num": 383681,
+      "word": "28岁荷兰女孩预约了安乐死",
+      "onboard_time": 1712291238,
+      "rank": 14,
+      "category": "情感"
+    },
+    {
       "raw_hot": 381359,
       "num": 381359,
       "word": "恋爱兄妹",
       "onboard_time": 1712289436,
       "rank": 13,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 376181,
-      "num": 376181,
-      "word": "28岁荷兰女孩预约了安乐死",
-      "onboard_time": 1712291238,
-      "rank": 14,
-      "category": "情感"
     },
     {
       "raw_hot": 374749,
@@ -395,6 +427,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 312313,
+      "num": 312313,
+      "word": "马嘉祺感谢张杰送的餐具套装",
+      "onboard_time": 1712293278,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 308433,
       "num": 308433,
       "word": "林更新喘息声",
@@ -419,6 +459,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 295274,
+      "num": 295274,
+      "word": "妈妈为什么嫁给爸爸",
+      "onboard_time": 1712289677,
+      "rank": 26,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 293451,
       "num": 293451,
       "word": "小伞说Doinb能随时开播",
@@ -441,6 +489,14 @@
       "onboard_time": 1712275756,
       "rank": 19,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 287827,
+      "num": 287827,
+      "word": "高跟鞋为什么被女性们抛弃",
+      "onboard_time": 1712292497,
+      "rank": 23,
+      "category": "时尚"
     },
     {
       "raw_hot": 281765,
@@ -499,14 +555,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 265012,
-      "num": 265012,
-      "word": "妈妈为什么嫁给爸爸",
-      "onboard_time": 1712289677,
-      "rank": 26,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 260660,
       "num": 260660,
       "word": "黄景瑜教王一博狙击手技巧",
@@ -529,6 +577,14 @@
       "onboard_time": 1712239460,
       "rank": 16,
       "category": "电影"
+    },
+    {
+      "raw_hot": 251589,
+      "num": 251589,
+      "word": "欧豪说侯雯元孤枕难眠",
+      "onboard_time": 1712293697,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 244523,
@@ -585,6 +641,22 @@
       "onboard_time": 1712275817,
       "rank": 25,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 213924,
+      "num": 213924,
+      "word": "智性恋情侣",
+      "onboard_time": 1712291177,
+      "rank": 39,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 211400,
+      "num": 211400,
+      "word": "i叔卖e狗",
+      "onboard_time": 1712289257,
+      "rank": 34,
+      "category": "幽默"
     },
     {
       "raw_hot": 211179,
@@ -667,20 +739,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 189686,
-      "num": 189686,
-      "word": "于正说赵晴锦超是网红",
-      "onboard_time": 1712291419,
-      "rank": 31,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 188558,
       "num": 188558,
       "word": "崂山风景区数百亩青山遭非法公墓霸占",
       "onboard_time": 1712279897,
       "rank": 28,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 186348,
+      "num": 186348,
+      "word": "这是我的岛",
+      "onboard_time": 1712292918,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 180275,
@@ -699,20 +771,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 177262,
-      "num": 177262,
-      "word": "i叔卖e狗",
-      "onboard_time": 1712289257,
-      "rank": 34,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 176279,
       "num": 176279,
       "word": "台湾祭音乐节取消回春丹演出",
       "onboard_time": 1712240899,
       "rank": 30,
       "category": "演出"
+    },
+    {
+      "raw_hot": 175464,
+      "num": 175464,
+      "word": "Faker说无法排位影响队伍状态",
+      "onboard_time": 1712293337,
+      "rank": 40,
+      "category": "电竞"
     },
     {
       "raw_hot": 175162,
@@ -753,6 +825,14 @@
       "onboard_time": 1712291419,
       "rank": 38,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 161942,
+      "num": 161942,
+      "word": "减肚子的一个简单办法",
+      "onboard_time": 1712292497,
+      "rank": 42,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 161826,
@@ -809,14 +889,6 @@
       "onboard_time": 1712236278,
       "rank": 28,
       "category": "教育"
-    },
-    {
-      "raw_hot": 152488,
-      "num": 152488,
-      "word": "智性恋情侣",
-      "onboard_time": 1712291177,
-      "rank": 39,
-      "category": "情感"
     },
     {
       "raw_hot": 152123,
@@ -953,6 +1025,14 @@
       "onboard_time": 1712243899,
       "rank": 37,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 129845,
+      "num": 129845,
+      "word": "台湾花莲地震已致12人遇难",
+      "onboard_time": 1712294058,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 129011,
@@ -1307,6 +1387,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 50812,
+      "num": 421002,
+      "word": "致敬公安英雄",
+      "onboard_time": 1712293278,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 43197,
       "num": 43197,
       "word": "回春丹献唱穿过月亮的旅行",
@@ -1361,6 +1449,14 @@
       "onboard_time": 1712221278,
       "rank": 48,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 20556,
+      "num": 672773,
+      "word": "清澈的爱我们一直记得",
+      "onboard_time": 1712278218,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 18809,
