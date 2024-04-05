@@ -1,6 +1,6 @@
 {
   "startTime": 1712334193790,
-  "endTime": 1712356441331,
+  "endTime": 1712359126027,
   "band_list": [
     {
       "raw_hot": 833945,
@@ -91,11 +91,27 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 464130,
+      "num": 464130,
+      "word": "三大运营商回应注销手机号",
+      "onboard_time": 1712339653,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 462583,
       "num": 266531,
       "word": "医生建议不要饿着肚子睡觉",
       "onboard_time": 1712329519,
       "rank": 20,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 448900,
+      "num": 448900,
+      "word": "连续3天睡眠不足6小时会怎样",
+      "onboard_time": 1712358133,
+      "rank": 3,
       "category": "健康医疗"
     },
     {
@@ -129,6 +145,14 @@
       "onboard_time": 1712320999,
       "rank": 17,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 322745,
+      "num": 322745,
+      "word": "冰箱久置的3种食物或是癌症帮凶",
+      "onboard_time": 1712329220,
+      "rank": 27,
+      "category": "健康医疗,科学科普"
     },
     {
       "raw_hot": 318981,
@@ -171,14 +195,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 260109,
-      "num": 260109,
-      "word": "三大运营商回应注销手机号",
-      "onboard_time": 1712339653,
-      "rank": 25,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 248290,
       "num": 248290,
       "word": "水瓶座就是永远不被定义",
@@ -201,6 +217,14 @@
       "onboard_time": 1712320398,
       "rank": 24,
       "category": "情感"
+    },
+    {
+      "raw_hot": 214021,
+      "num": 214021,
+      "word": "男子结婚37年法定妻子竟是弟妹",
+      "onboard_time": 1712321959,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 212369,
@@ -227,14 +251,6 @@
       "category": "科学科普"
     },
     {
-      "raw_hot": 170756,
-      "num": 170756,
-      "word": "冰箱久置的3种食物或是癌症帮凶",
-      "onboard_time": 1712329220,
-      "rank": 27,
-      "category": "健康医疗,科学科普"
-    },
-    {
       "raw_hot": 167216,
       "num": 167216,
       "word": "王爷别输了 沈璃吃饭了",
@@ -257,6 +273,14 @@
       "onboard_time": 1712325678,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 152925,
+      "num": 152925,
+      "word": "赵丽颖与凤行获得爆剧认证",
+      "onboard_time": 1712356991,
+      "rank": 11,
+      "category": "剧集"
     },
     {
       "raw_hot": 151594,
@@ -297,14 +321,6 @@
       "onboard_time": 1712330719,
       "rank": 37,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 126777,
-      "num": 168554,
-      "word": "男子结婚37年法定妻子竟是弟妹",
-      "onboard_time": 1712321959,
-      "rank": 28,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 125565,
@@ -435,6 +451,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 81954,
+      "num": 81954,
+      "word": "身体出现这5种变化或是胃癌警报",
+      "onboard_time": 1712358133,
+      "rank": 17,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 78291,
       "num": 84697,
       "word": "与凤行",
@@ -451,6 +475,30 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 69264,
+      "num": 69264,
+      "word": "黄梦莹骨相美",
+      "onboard_time": 1712357833,
+      "rank": 25,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 69193,
+      "num": 69193,
+      "word": "詹姆斯儿子将参加2024NBA选秀",
+      "onboard_time": 1712358073,
+      "rank": 26,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 64869,
+      "num": 59479,
+      "word": "黄果树瀑布偶遇沙溢胡可一家",
+      "onboard_time": 1712358313,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 60653,
       "num": 60653,
       "word": "声音玩具演唱会",
@@ -464,6 +512,14 @@
       "word": "赵丽颖林更新恐怖漏网之鱼",
       "onboard_time": 1712338994,
       "rank": 33,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 56092,
+      "num": 56092,
+      "word": "王一博把枪放在手里炒了一顿",
+      "onboard_time": 1712355912,
+      "rank": 42,
       "category": "剧集"
     },
     {
@@ -483,28 +539,52 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 35345,
-      "num": 35345,
+      "raw_hot": 47609,
+      "num": 47609,
+      "word": "全国的景区看起来都像有一亿人",
+      "onboard_time": 1712353812,
+      "rank": 45,
+      "category": "旅游"
+    },
+    {
+      "raw_hot": 46468,
+      "num": 46468,
       "word": "袁弘张歆艺带娃游西班牙",
       "onboard_time": 1712351591,
       "rank": 44,
       "category": "艺人"
     },
     {
-      "raw_hot": 32524,
-      "num": 30067,
+      "raw_hot": 38780,
+      "num": 38780,
+      "word": "皇上来大明湖也找不到夏雨荷",
+      "onboard_time": 1712344632,
+      "rank": 48,
+      "category": "旅游"
+    },
+    {
+      "raw_hot": 37626,
+      "num": 37626,
       "word": "4个心脏的求救信号",
       "onboard_time": 1712343912,
       "rank": 43,
       "category": "健康医疗"
     },
     {
-      "raw_hot": 27560,
-      "num": 27560,
-      "word": "皇上来大明湖也找不到夏雨荷",
-      "onboard_time": 1712344632,
-      "rank": 48,
+      "raw_hot": 36288,
+      "num": 36288,
+      "word": "终于知道杜鹃为啥又叫映山红了",
+      "onboard_time": 1712355370,
+      "rank": 49,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 31029,
+      "num": 36104,
+      "word": "注销手机号前做好7件事",
+      "onboard_time": 1712359094,
+      "rank": 49,
+      "category": "数码"
     },
     {
       "raw_hot": 27410,
@@ -521,22 +601,6 @@
       "onboard_time": 1712350630,
       "rank": 47,
       "category": "情感"
-    },
-    {
-      "raw_hot": 23802,
-      "num": 23802,
-      "word": "全国的景区看起来都像有一亿人",
-      "onboard_time": 1712353812,
-      "rank": 45,
-      "category": "旅游"
-    },
-    {
-      "raw_hot": 23213,
-      "num": 23213,
-      "word": "王一博把枪放在手里炒了一顿",
-      "onboard_time": 1712355912,
-      "rank": 42,
-      "category": "剧集"
     },
     {
       "raw_hot": 22966,
@@ -561,14 +625,6 @@
       "onboard_time": 1712355311,
       "rank": 48,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 20719,
-      "num": 20719,
-      "word": "终于知道杜鹃为啥又叫映山红了",
-      "onboard_time": 1712355370,
-      "rank": 49,
-      "category": "旅游"
     },
     {
       "raw_hot": 16742,
