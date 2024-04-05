@@ -1,6 +1,6 @@
 {
   "startTime": 1711902044401,
-  "endTime": 1712323200990,
+  "endTime": 1712324063694,
   "band_list": [
     {
       "raw_hot": 16874674,
@@ -211,6 +211,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1969219,
+      "num": 1969219,
+      "word": "爱奇艺在干嘛",
+      "onboard_time": 1712321540,
+      "rank": 1,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1965607,
       "num": 1965607,
       "word": "徐艺洋发了和黄子韬的合照",
@@ -307,8 +315,8 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 1793623,
-      "num": 1793623,
+      "raw_hot": 1797039,
+      "num": 1797039,
       "word": "与凤行大结局",
       "onboard_time": 1712320279,
       "rank": 4,
@@ -377,14 +385,6 @@
       "onboard_time": 1712052680,
       "rank": 1,
       "category": "电竞,网红"
-    },
-    {
-      "raw_hot": 1723622,
-      "num": 1723622,
-      "word": "爱奇艺在干嘛",
-      "onboard_time": 1712321540,
-      "rank": 1,
-      "category": "剧集"
     },
     {
       "raw_hot": 1708706,
@@ -1531,6 +1531,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 854537,
+      "num": 854537,
+      "word": "赵丽颖林更新 粉丝联姻",
+      "onboard_time": 1712320999,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 854338,
       "num": 854338,
       "word": "农业发展银行",
@@ -1585,14 +1593,6 @@
       "onboard_time": 1712064080,
       "rank": 14,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 828820,
-      "num": 602232,
-      "word": "赵丽颖林更新 粉丝联姻",
-      "onboard_time": 1712320999,
-      "rank": 38,
-      "category": "剧集"
     },
     {
       "raw_hot": 827716,
@@ -1956,7 +1956,7 @@
     },
     {
       "raw_hot": 724586,
-      "num": 318242,
+      "num": 326295,
       "word": "24岁女生负债15万",
       "onboard_time": 1712317999,
       "rank": 20,
@@ -2001,6 +2001,14 @@
       "onboard_time": 1711895360,
       "rank": 5,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 702613,
+      "num": 702613,
+      "word": "同学知道我上岸之后接受不了",
+      "onboard_time": 1712320398,
+      "rank": 26,
+      "category": "情感"
     },
     {
       "raw_hot": 699718,
@@ -2643,14 +2651,6 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 607131,
-      "num": 607131,
-      "word": "同学知道我上岸之后接受不了",
-      "onboard_time": 1712320398,
-      "rank": 26,
-      "category": "情感"
-    },
-    {
       "raw_hot": 606933,
       "num": 606933,
       "word": "追风者 拿奖",
@@ -3091,6 +3091,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 543423,
+      "num": 543423,
+      "word": "声入人心求金主爸爸",
+      "onboard_time": 1712320759,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 542059,
       "num": 542059,
       "word": "原来韩国人追剧不看字幕的",
@@ -3339,6 +3347,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 515054,
+      "num": 515054,
+      "word": "沈图南你真是疯了",
+      "onboard_time": 1712321659,
+      "rank": 14,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 513140,
       "num": 513140,
       "word": "福宝入住神树坪基地",
@@ -3475,6 +3491,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 485935,
+      "num": 485935,
+      "word": "郑恺把跑男说成跑年",
+      "onboard_time": 1712320638,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 485469,
       "num": 485469,
       "word": "眼泪女王 宋仲基",
@@ -3513,14 +3537,6 @@
       "onboard_time": 1712013075,
       "rank": 15,
       "category": "数码"
-    },
-    {
-      "raw_hot": 482298,
-      "num": 482298,
-      "word": "郑恺把跑男说成跑年",
-      "onboard_time": 1712320638,
-      "rank": 30,
-      "category": "综艺"
     },
     {
       "raw_hot": 481827,
@@ -3851,14 +3867,6 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 447632,
-      "num": 447632,
-      "word": "沈图南你真是疯了",
-      "onboard_time": 1712321659,
-      "rank": 14,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 447567,
       "num": 447567,
       "word": "四川话果赖成功召唤福宝",
@@ -3945,14 +3953,6 @@
       "onboard_time": 1712121502,
       "rank": 22,
       "category": "情感"
-    },
-    {
-      "raw_hot": 439957,
-      "num": 439957,
-      "word": "声入人心求金主爸爸",
-      "onboard_time": 1712320759,
-      "rank": 36,
-      "category": "综艺"
     },
     {
       "raw_hot": 439713,
@@ -5035,6 +5035,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 345841,
+      "num": 345841,
+      "word": "JDG战胜WBG",
+      "onboard_time": 1712323520,
+      "rank": 17,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 345074,
       "num": 473946,
       "word": "减轻教师非教育教学负担",
@@ -5065,6 +5073,14 @@
       "onboard_time": 1711966160,
       "rank": 33,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 342563,
+      "num": 342563,
+      "word": "JDG零封WBG",
+      "onboard_time": 1712321779,
+      "rank": 18,
+      "category": "电竞"
     },
     {
       "raw_hot": 342195,
@@ -5179,6 +5195,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 331248,
+      "num": 331248,
+      "word": "男子结婚37年法定妻子竟是弟妹",
+      "onboard_time": 1712321959,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 330615,
       "num": 330615,
       "word": "与凤行超点大结局",
@@ -5193,14 +5217,6 @@
       "onboard_time": 1712243240,
       "rank": 26,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 329531,
-      "num": 329531,
-      "word": "JDG零封WBG",
-      "onboard_time": 1712321779,
-      "rank": 18,
-      "category": "电竞"
     },
     {
       "raw_hot": 329123,
@@ -7267,6 +7283,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 231688,
+      "num": 231688,
+      "word": "Flandre三连MVP",
+      "onboard_time": 1712323280,
+      "rank": 27,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 231589,
       "num": 231589,
       "word": "卢昱晓 可塑性",
@@ -7347,14 +7371,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 228309,
-      "num": 228309,
-      "word": "男子结婚37年法定妻子竟是弟妹",
-      "onboard_time": 1712321959,
-      "rank": 26,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 228251,
       "num": 228251,
       "word": "黄俊捷饼干礼盒188元",
@@ -7417,6 +7433,14 @@
       "onboard_time": 1712109562,
       "rank": 36,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 226461,
+      "num": 226461,
+      "word": "追风者热度",
+      "onboard_time": 1712323401,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 226404,
@@ -7577,6 +7601,14 @@
       "onboard_time": 1712317940,
       "rank": 26,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 220981,
+      "num": 602835,
+      "word": "七三一部队罪证陈列馆清明节又排长队",
+      "onboard_time": 1712320039,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 220886,
@@ -9827,6 +9859,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 175919,
+      "num": 220439,
+      "word": "武磊",
+      "onboard_time": 1712323099,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 175727,
       "num": 175727,
       "word": "官方通报奔驰车碾压孩子",
@@ -10091,6 +10131,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 170173,
+      "num": 170173,
+      "word": "小米汽车再回应展车鼓包包浆问题",
+      "onboard_time": 1712323820,
+      "rank": 36,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 169961,
       "num": 169961,
       "word": "潘玮柏 俺是潮霸",
@@ -10297,6 +10345,14 @@
       "onboard_time": 1712194219,
       "rank": 41,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 164979,
+      "num": 164979,
+      "word": "楚乔满弓的弦 沈璃满怀的爱",
+      "onboard_time": 1712323039,
+      "rank": 41,
+      "category": "剧集"
     },
     {
       "raw_hot": 164514,
@@ -10587,6 +10643,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 159645,
+      "num": 159645,
+      "word": "LPL",
+      "onboard_time": 1712323460,
+      "rank": 41,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 159626,
       "num": 159626,
       "word": "行止 老肩巨滑",
@@ -10785,6 +10849,14 @@
       "onboard_time": 1712066060,
       "rank": 44,
       "category": "情感"
+    },
+    {
+      "raw_hot": 156070,
+      "num": 175121,
+      "word": "缅甸5.6级地震",
+      "onboard_time": 1712323879,
+      "rank": 34,
+      "category": "社会新闻,自然"
     },
     {
       "raw_hot": 156045,
@@ -10993,14 +11065,6 @@
       "onboard_time": 1712228659,
       "rank": 41,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 152814,
-      "num": 152814,
-      "word": "楚乔满弓的弦 沈璃满怀的爱",
-      "onboard_time": 1712323039,
-      "rank": 41,
-      "category": "剧集"
     },
     {
       "raw_hot": 152747,
@@ -11859,6 +11923,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 137921,
+      "num": 137921,
+      "word": "李逍遥 一次主动换来终生内向",
+      "onboard_time": 1712323999,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 137823,
       "num": 137823,
       "word": "伊朗外交部强烈谴责以色列袭击领事处",
@@ -12177,14 +12249,6 @@
       "onboard_time": 1712275155,
       "rank": 35,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 132248,
-      "num": 602835,
-      "word": "七三一部队罪证陈列馆清明节又排长队",
-      "onboard_time": 1712320039,
-      "rank": 29,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 132247,
@@ -12969,14 +13033,6 @@
       "onboard_time": 1712275397,
       "rank": 45,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 101121,
-      "num": 136275,
-      "word": "武磊",
-      "onboard_time": 1712323099,
-      "rank": 49,
-      "category": "体育"
     },
     {
       "raw_hot": 100142,

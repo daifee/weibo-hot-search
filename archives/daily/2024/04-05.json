@@ -1,6 +1,6 @@
 {
   "startTime": 1712247709633,
-  "endTime": 1712323200990,
+  "endTime": 1712324063694,
   "band_list": [
     {
       "raw_hot": 2472045,
@@ -11,8 +11,16 @@
       "category": "情感"
     },
     {
-      "raw_hot": 1793623,
-      "num": 1793623,
+      "raw_hot": 1969219,
+      "num": 1969219,
+      "word": "爱奇艺在干嘛",
+      "onboard_time": 1712321540,
+      "rank": 1,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 1797039,
+      "num": 1797039,
       "word": "与凤行大结局",
       "onboard_time": 1712320279,
       "rank": 4,
@@ -25,14 +33,6 @@
       "onboard_time": 1712278397,
       "rank": 10,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1723622,
-      "num": 1723622,
-      "word": "爱奇艺在干嘛",
-      "onboard_time": 1712321540,
-      "rank": 1,
-      "category": "剧集"
     },
     {
       "raw_hot": 1642664,
@@ -155,6 +155,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 854537,
+      "num": 854537,
+      "word": "赵丽颖林更新 粉丝联姻",
+      "onboard_time": 1712320999,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 854196,
       "num": 854196,
       "word": "王阳回应走秀被说太硬",
@@ -169,14 +177,6 @@
       "onboard_time": 1712274315,
       "rank": 3,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 828820,
-      "num": 602232,
-      "word": "赵丽颖林更新 粉丝联姻",
-      "onboard_time": 1712320999,
-      "rank": 38,
-      "category": "剧集"
     },
     {
       "raw_hot": 815156,
@@ -212,11 +212,19 @@
     },
     {
       "raw_hot": 724586,
-      "num": 318242,
+      "num": 326295,
       "word": "24岁女生负债15万",
       "onboard_time": 1712317999,
       "rank": 20,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 702613,
+      "num": 702613,
+      "word": "同学知道我上岸之后接受不了",
+      "onboard_time": 1712320398,
+      "rank": 26,
+      "category": "情感"
     },
     {
       "raw_hot": 698483,
@@ -321,14 +329,6 @@
       "onboard_time": 1712301438,
       "rank": 18,
       "category": "电影"
-    },
-    {
-      "raw_hot": 607131,
-      "num": 607131,
-      "word": "同学知道我上岸之后接受不了",
-      "onboard_time": 1712320398,
-      "rank": 26,
-      "category": "情感"
     },
     {
       "raw_hot": 604966,
@@ -443,6 +443,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 543423,
+      "num": 543423,
+      "word": "声入人心求金主爸爸",
+      "onboard_time": 1712320759,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 540941,
       "num": 540941,
       "word": "李现镜头畸变下的颜值",
@@ -499,6 +507,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 515054,
+      "num": 515054,
+      "word": "沈图南你真是疯了",
+      "onboard_time": 1712321659,
+      "rank": 14,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 509604,
       "num": 509604,
       "word": "欧豪确实是神",
@@ -515,8 +531,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 482298,
-      "num": 482298,
+      "raw_hot": 485935,
+      "num": 485935,
       "word": "郑恺把跑男说成跑年",
       "onboard_time": 1712320638,
       "rank": 30,
@@ -611,14 +627,6 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 447632,
-      "num": 447632,
-      "word": "沈图南你真是疯了",
-      "onboard_time": 1712321659,
-      "rank": 14,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 445762,
       "num": 415504,
       "word": "韩雪让保安移开伞",
@@ -633,14 +641,6 @@
       "onboard_time": 1712311698,
       "rank": 18,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 439957,
-      "num": 439957,
-      "word": "声入人心求金主爸爸",
-      "onboard_time": 1712320759,
-      "rank": 36,
-      "category": "综艺"
     },
     {
       "raw_hot": 432513,
@@ -835,6 +835,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 345841,
+      "num": 345841,
+      "word": "JDG战胜WBG",
+      "onboard_time": 1712323520,
+      "rank": 17,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 342563,
+      "num": 342563,
+      "word": "JDG零封WBG",
+      "onboard_time": 1712321779,
+      "rank": 18,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 334431,
       "num": 334431,
       "word": "易烊千玺为草木人间打call",
@@ -851,20 +867,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 331248,
+      "num": 331248,
+      "word": "男子结婚37年法定妻子竟是弟妹",
+      "onboard_time": 1712321959,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 330615,
       "num": 330615,
       "word": "与凤行超点大结局",
       "onboard_time": 1712288118,
       "rank": 20,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 329531,
-      "num": 329531,
-      "word": "JDG零封WBG",
-      "onboard_time": 1712321779,
-      "rank": 18,
-      "category": "电竞"
     },
     {
       "raw_hot": 328938,
@@ -1243,6 +1259,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 231688,
+      "num": 231688,
+      "word": "Flandre三连MVP",
+      "onboard_time": 1712323280,
+      "rank": 27,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 229792,
       "num": 229792,
       "word": "美方要求耶伦就餐时大厅打开隔断",
@@ -1259,12 +1283,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 228309,
-      "num": 228309,
-      "word": "男子结婚37年法定妻子竟是弟妹",
-      "onboard_time": 1712321959,
-      "rank": 26,
-      "category": "社会新闻"
+      "raw_hot": 226461,
+      "num": 226461,
+      "word": "追风者热度",
+      "onboard_time": 1712323401,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 226309,
@@ -1297,6 +1321,14 @@
       "onboard_time": 1712317940,
       "rank": 26,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 220981,
+      "num": 602835,
+      "word": "七三一部队罪证陈列馆清明节又排长队",
+      "onboard_time": 1712320039,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 220560,
@@ -1675,6 +1707,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 175919,
+      "num": 220439,
+      "word": "武磊",
+      "onboard_time": 1712323099,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 175464,
       "num": 175464,
       "word": "Faker说无法排位影响队伍状态",
@@ -1689,6 +1729,14 @@
       "onboard_time": 1712245278,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 170173,
+      "num": 170173,
+      "word": "小米汽车再回应展车鼓包包浆问题",
+      "onboard_time": 1712323820,
+      "rank": 36,
+      "category": "汽车"
     },
     {
       "raw_hot": 169949,
@@ -1747,6 +1795,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 164979,
+      "num": 164979,
+      "word": "楚乔满弓的弦 沈璃满怀的爱",
+      "onboard_time": 1712323039,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 163251,
       "num": 163251,
       "word": "利莫里亚见闻",
@@ -1795,6 +1851,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 159645,
+      "num": 159645,
+      "word": "LPL",
+      "onboard_time": 1712323460,
+      "rank": 41,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 158878,
       "num": 158878,
       "word": "扣1让朱开闭嘴",
@@ -1809,6 +1873,14 @@
       "onboard_time": 1712224218,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 156070,
+      "num": 175121,
+      "word": "缅甸5.6级地震",
+      "onboard_time": 1712323879,
+      "rank": 34,
+      "category": "社会新闻,自然"
     },
     {
       "raw_hot": 155956,
@@ -1873,14 +1945,6 @@
       "onboard_time": 1712309418,
       "rank": 43,
       "category": "电影"
-    },
-    {
-      "raw_hot": 152814,
-      "num": 152814,
-      "word": "楚乔满弓的弦 沈璃满怀的爱",
-      "onboard_time": 1712323039,
-      "rank": 41,
-      "category": "剧集"
     },
     {
       "raw_hot": 152476,
@@ -2067,6 +2131,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 137921,
+      "num": 137921,
+      "word": "李逍遥 一次主动换来终生内向",
+      "onboard_time": 1712323999,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 137788,
       "num": 137788,
       "word": "各种专业和学校分析",
@@ -2153,14 +2225,6 @@
       "onboard_time": 1712275155,
       "rank": 35,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 132248,
-      "num": 602835,
-      "word": "七三一部队罪证陈列馆清明节又排长队",
-      "onboard_time": 1712320039,
-      "rank": 29,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 131701,
@@ -2385,14 +2449,6 @@
       "onboard_time": 1712275397,
       "rank": 45,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 101121,
-      "num": 136275,
-      "word": "武磊",
-      "onboard_time": 1712323099,
-      "rank": 49,
-      "category": "体育"
     },
     {
       "raw_hot": 99430,

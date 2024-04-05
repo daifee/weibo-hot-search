@@ -1,0 +1,410 @@
+{
+  "runTime": 1712324063694,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1969219,
+        "num": 1969219,
+        "word": "爱奇艺在干嘛",
+        "onboard_time": 1712321540,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1797039,
+        "num": 1797039,
+        "word": "与凤行大结局",
+        "onboard_time": 1712320279,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 96495,
+        "num": 1448406,
+        "word": "中国籍抗日航空英烈名录首次公布",
+        "onboard_time": 1712308278,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1363133,
+        "num": 1363133,
+        "word": "一个月给8000做全职妈妈",
+        "onboard_time": 1712317940,
+        "rank": 3,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 854537,
+        "num": 854537,
+        "word": "赵丽颖林更新 粉丝联姻",
+        "onboard_time": 1712320999,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 702613,
+        "num": 702613,
+        "word": "同学知道我上岸之后接受不了",
+        "onboard_time": 1712320398,
+        "rank": 5,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 588059,
+        "num": 588059,
+        "word": "香港发现首例人类感染猴疱疹病毒",
+        "onboard_time": 1712307258,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 220981,
+        "num": 550429,
+        "word": "七三一部队罪证陈列馆清明节又排长队",
+        "onboard_time": 1712320039,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 329848,
+        "num": 543960,
+        "word": "姜爷爷学会果赖召唤术",
+        "onboard_time": 1712314099,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 676554,
+        "num": 543899,
+        "word": "赵丽颖林更新 晋江文学",
+        "onboard_time": 1712317758,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 543423,
+        "num": 543423,
+        "word": "声入人心求金主爸爸",
+        "onboard_time": 1712320759,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 515054,
+        "num": 515054,
+        "word": "沈图南你真是疯了",
+        "onboard_time": 1712321659,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 485935,
+        "num": 485935,
+        "word": "郑恺把跑男说成跑年",
+        "onboard_time": 1712320638,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 479085,
+        "num": 479085,
+        "word": "跳绳是最佳减重运动",
+        "onboard_time": 1712317758,
+        "rank": 13,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 476708,
+        "num": 476708,
+        "word": "因为口癖是宝贝社死了",
+        "onboard_time": 1712317940,
+        "rank": 14,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 406792,
+        "num": 406792,
+        "word": "关晓彤裤子是不是有点短了",
+        "onboard_time": 1712313679,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 386833,
+        "num": 386833,
+        "word": "王一博你终于不戴帽子了",
+        "onboard_time": 1712315720,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 345841,
+        "num": 345841,
+        "word": "JDG战胜WBG",
+        "onboard_time": 1712323520,
+        "rank": 17,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 342563,
+        "num": 342563,
+        "word": "JDG零封WBG",
+        "onboard_time": 1712321779,
+        "rank": 18,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 331248,
+        "num": 331248,
+        "word": "男子结婚37年法定妻子竟是弟妹",
+        "onboard_time": 1712321959,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 521838,
+        "num": 326295,
+        "word": "24岁女生负债15万",
+        "onboard_time": 1712317999,
+        "rank": 20,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 316740,
+        "num": 316740,
+        "word": "王一博要不要擦一下括号",
+        "onboard_time": 1712322320,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 316391,
+        "num": 316391,
+        "word": "网上九块九买的验钞机",
+        "onboard_time": 1712316739,
+        "rank": 22,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 276670,
+        "num": 276670,
+        "word": "好看的人长得都很高清",
+        "onboard_time": 1712312599,
+        "rank": 23,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 260596,
+        "num": 260596,
+        "word": "暧昧过后没在一起才是绝杀",
+        "onboard_time": 1712310077,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 248444,
+        "num": 248444,
+        "word": "被同学灌开水男生已治愈出院",
+        "onboard_time": 1712303357,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 238248,
+        "num": 238248,
+        "word": "注销手机号等于出卖自己",
+        "onboard_time": 1712288598,
+        "rank": 26,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 231688,
+        "num": 231688,
+        "word": "Flandre三连MVP",
+        "onboard_time": 1712323280,
+        "rank": 27,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 226461,
+        "num": 226461,
+        "word": "追风者热度",
+        "onboard_time": 1712323401,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 175919,
+        "num": 220439,
+        "word": "武磊",
+        "onboard_time": 1712323099,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 216805,
+        "num": 216805,
+        "word": "真陪看",
+        "onboard_time": 1712320098,
+        "rank": 30,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 198277,
+        "num": 198277,
+        "word": "怀孕同事想每天坐我的车回家",
+        "onboard_time": 1712307378,
+        "rank": 31,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 190005,
+        "num": 190005,
+        "word": "追风者",
+        "onboard_time": 1712322679,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 179520,
+        "num": 179520,
+        "word": "与凤行今天三个亿",
+        "onboard_time": 1712315538,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 156070,
+        "num": 175121,
+        "word": "缅甸5.6级地震",
+        "onboard_time": 1712323879,
+        "rank": 34,
+        "category": "社会新闻,自然"
+      },
+      {
+        "raw_hot": 174896,
+        "num": 174896,
+        "word": "易烊千玺为草木人间打call",
+        "onboard_time": 1712316858,
+        "rank": 35,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 170173,
+        "num": 170173,
+        "word": "小米汽车再回应展车鼓包包浆问题",
+        "onboard_time": 1712323820,
+        "rank": 36,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 168446,
+        "num": 168446,
+        "word": "小狗为了不弄脏座位把自己缩成一团",
+        "onboard_time": 1712317940,
+        "rank": 37,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 167114,
+        "num": 167114,
+        "word": "余华 肯定是一条狗嘛",
+        "onboard_time": 1712315239,
+        "rank": 38,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 164979,
+        "num": 164979,
+        "word": "楚乔满弓的弦 沈璃满怀的爱",
+        "onboard_time": 1712323039,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 162183,
+        "num": 162183,
+        "word": "黄晓明当着林更新的面咯咯哒",
+        "onboard_time": 1712296576,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 159645,
+        "num": 159645,
+        "word": "LPL",
+        "onboard_time": 1712323460,
+        "rank": 41,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 156615,
+        "num": 156615,
+        "word": "小姨让我买房但我不想买",
+        "onboard_time": 1712316739,
+        "rank": 42,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 153187,
+        "num": 153187,
+        "word": "Doinb复播首秀邀请wink",
+        "onboard_time": 1712311519,
+        "rank": 43,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 152481,
+        "num": 152481,
+        "word": "周冬雨素颜照 韩国",
+        "onboard_time": 1712304978,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 150496,
+        "num": 150496,
+        "word": "杨紫赵露思ins更新照",
+        "onboard_time": 1712312719,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 144614,
+        "num": 144614,
+        "word": "男朋友说金价太高结婚时不买三金",
+        "onboard_time": 1712307498,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 137921,
+        "num": 137921,
+        "word": "李逍遥 一次主动换来终生内向",
+        "onboard_time": 1712323999,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 131570,
+        "num": 137918,
+        "word": "在日本买了套老破小后想哭",
+        "onboard_time": 1712308938,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 125673,
+        "num": 137910,
+        "word": "10086回应注销手机号等于出卖自己",
+        "onboard_time": 1712306839,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#我们永远怀念他们牢记他们#"
+    }
+  }
+}
