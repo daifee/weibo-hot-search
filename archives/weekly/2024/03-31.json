@@ -1,6 +1,6 @@
 {
   "startTime": 1711815680412,
-  "endTime": 1712359126027,
+  "endTime": 1712360067126,
   "band_list": [
     {
       "raw_hot": 16874674,
@@ -3731,6 +3731,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 531423,
+      "num": 531423,
+      "word": "三大运营商回应注销手机号",
+      "onboard_time": 1712339653,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 531120,
       "num": 531120,
       "word": "六大行存款一年多了14万亿",
@@ -4456,14 +4464,6 @@
       "word": "每天通勤几十公里可能被视为营运车",
       "onboard_time": 1711937181,
       "rank": 19,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 464130,
-      "num": 464130,
-      "word": "三大运营商回应注销手机号",
-      "onboard_time": 1712339653,
-      "rank": 25,
       "category": "社会新闻"
     },
     {
@@ -5329,6 +5329,14 @@
       "onboard_time": 1712237240,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 398672,
+      "num": 398672,
+      "word": "冰箱久置的3种食物或是癌症帮凶",
+      "onboard_time": 1712329220,
+      "rank": 33,
+      "category": "健康医疗,科学科普"
     },
     {
       "raw_hot": 398440,
@@ -6449,14 +6457,6 @@
       "onboard_time": 1711950802,
       "rank": 22,
       "category": "情感"
-    },
-    {
-      "raw_hot": 322745,
-      "num": 322745,
-      "word": "冰箱久置的3种食物或是癌症帮凶",
-      "onboard_time": 1712329220,
-      "rank": 33,
-      "category": "健康医疗,科学科普"
     },
     {
       "raw_hot": 321341,
@@ -9505,6 +9505,14 @@
       "onboard_time": 1712035999,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 217340,
+      "num": 217340,
+      "word": "赵丽颖与凤行获得爆剧认证",
+      "onboard_time": 1712356991,
+      "rank": 11,
+      "category": "剧集"
     },
     {
       "raw_hot": 217316,
@@ -13539,14 +13547,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 152925,
-      "num": 152925,
-      "word": "赵丽颖与凤行获得爆剧认证",
-      "onboard_time": 1712356991,
-      "rank": 11,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 152661,
       "num": 152661,
       "word": "魏大勋打篮球手骨折了",
@@ -14723,6 +14723,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 137189,
+      "num": 137189,
+      "word": "身体出现这5种变化或是胃癌警报",
+      "onboard_time": 1712358133,
+      "rank": 17,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 136911,
       "num": 136911,
       "word": "圆真真创始人谢瑶亏掉1000万摆地摊",
@@ -15675,6 +15683,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 116134,
+      "num": 116134,
+      "word": "黄梦莹骨相美",
+      "onboard_time": 1712357833,
+      "rank": 25,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 115883,
       "num": 115883,
       "word": "运动真的会让面部代偿吗",
@@ -16083,6 +16099,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 100072,
+      "num": 100072,
+      "word": "詹姆斯儿子将参加2024NBA选秀",
+      "onboard_time": 1712358073,
+      "rank": 26,
+      "category": "体育"
+    },
+    {
       "raw_hot": 99819,
       "num": 341343,
       "word": "30万级家庭首选超舒适SUV",
@@ -16153,6 +16177,14 @@
       "onboard_time": 1711927036,
       "rank": 35,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 97654,
+      "num": 97654,
+      "word": "女子买问界M7不到20天就充不上电",
+      "onboard_time": 1712359394,
+      "rank": 23,
+      "category": "汽车"
     },
     {
       "raw_hot": 97557,
@@ -16267,6 +16299,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 89520,
+      "num": 72338,
+      "word": "黄果树瀑布偶遇沙溢胡可一家",
+      "onboard_time": 1712358313,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 88358,
       "num": 96029,
       "word": "原来这才是拜财神的正确方式",
@@ -16369,14 +16409,6 @@
       "onboard_time": 1711927997,
       "rank": 40,
       "category": "情感"
-    },
-    {
-      "raw_hot": 81954,
-      "num": 81954,
-      "word": "身体出现这5种变化或是胃癌警报",
-      "onboard_time": 1712358133,
-      "rank": 17,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 81435,
@@ -16579,28 +16611,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 69264,
-      "num": 69264,
-      "word": "黄梦莹骨相美",
-      "onboard_time": 1712357833,
-      "rank": 25,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 69210,
       "num": 61242,
       "word": "陈汉典 披荆斩棘的哥哥",
       "onboard_time": 1712004850,
       "rank": 32,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 69193,
-      "num": 69193,
-      "word": "詹姆斯儿子将参加2024NBA选秀",
-      "onboard_time": 1712358073,
-      "rank": 26,
-      "category": "体育"
     },
     {
       "raw_hot": 68026,
@@ -16635,12 +16651,12 @@
       "category": "时尚"
     },
     {
-      "raw_hot": 64869,
-      "num": 59479,
-      "word": "黄果树瀑布偶遇沙溢胡可一家",
-      "onboard_time": 1712358313,
-      "rank": 30,
-      "category": "艺人"
+      "raw_hot": 66570,
+      "num": 66570,
+      "word": "王一博把枪放在手里炒了一顿",
+      "onboard_time": 1712355912,
+      "rank": 42,
+      "category": "剧集"
     },
     {
       "raw_hot": 64015,
@@ -16721,6 +16737,14 @@
       "onboard_time": 1712268732,
       "rank": 46,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 60265,
+      "num": 60265,
+      "word": "注销手机号前做好7件事",
+      "onboard_time": 1712359094,
+      "rank": 49,
+      "category": "数码"
     },
     {
       "raw_hot": 59679,
@@ -16819,14 +16843,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 56092,
-      "num": 56092,
-      "word": "王一博把枪放在手里炒了一顿",
-      "onboard_time": 1712355912,
-      "rank": 42,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 55885,
       "num": 59759,
       "word": "2元和200元的叶酸到底有啥差别",
@@ -16865,6 +16881,14 @@
       "onboard_time": 1712186053,
       "rank": 46,
       "category": "财经"
+    },
+    {
+      "raw_hot": 53451,
+      "num": 53451,
+      "word": "北大毕业做临时工",
+      "onboard_time": 1712359754,
+      "rank": 41,
+      "category": "情感"
     },
     {
       "raw_hot": 53267,
@@ -16907,6 +16931,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 52394,
+      "num": 52394,
+      "word": "全国的景区看起来都像有一亿人",
+      "onboard_time": 1712353812,
+      "rank": 45,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 51918,
       "num": 51918,
       "word": "追风者 民国四大家族",
@@ -16939,20 +16971,20 @@
       "category": "数码"
     },
     {
+      "raw_hot": 48455,
+      "num": 48455,
+      "word": "WBG告别季后赛",
+      "onboard_time": 1712359634,
+      "rank": 45,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 48006,
       "num": 48006,
       "word": "站姐撞图",
       "onboard_time": 1712006170,
       "rank": 48,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 47609,
-      "num": 47609,
-      "word": "全国的景区看起来都像有一亿人",
-      "onboard_time": 1712353812,
-      "rank": 45,
-      "category": "旅游"
     },
     {
       "raw_hot": 47548,
@@ -17009,6 +17041,14 @@
       "onboard_time": 1711910771,
       "rank": 45,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 43377,
+      "num": 43377,
+      "word": "甘肃一地旅游火爆无房游客免费住进宿舍",
+      "onboard_time": 1712359995,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 43197,
@@ -17177,14 +17217,6 @@
       "onboard_time": 1712075896,
       "rank": 48,
       "category": "演出"
-    },
-    {
-      "raw_hot": 31029,
-      "num": 36104,
-      "word": "注销手机号前做好7件事",
-      "onboard_time": 1712359094,
-      "rank": 49,
-      "category": "数码"
     },
     {
       "raw_hot": 30044,
