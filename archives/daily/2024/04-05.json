@@ -1,6 +1,6 @@
 {
   "startTime": 1712247709633,
-  "endTime": 1712320238782,
+  "endTime": 1712321110713,
   "band_list": [
     {
       "raw_hot": 2472045,
@@ -17,6 +17,14 @@
       "onboard_time": 1712278397,
       "rank": 10,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1642664,
+      "num": 1642664,
+      "word": "一个月给8000做全职妈妈",
+      "onboard_time": 1712317940,
+      "rank": 0,
+      "category": "情感"
     },
     {
       "raw_hot": 1623722,
@@ -75,14 +83,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1471249,
-      "num": 1471249,
-      "word": "一个月给8000做全职妈妈",
-      "onboard_time": 1712317940,
-      "rank": 0,
-      "category": "情感"
-    },
-    {
       "raw_hot": 1260233,
       "num": 1260233,
       "word": "哑舍开机官宣",
@@ -115,6 +115,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 902497,
+      "num": 752829,
+      "word": "赵丽颖林更新 晋江文学",
+      "onboard_time": 1712317758,
+      "rank": 3,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 889270,
       "num": 889270,
       "word": "辅助生殖被纳入4省份医保",
@@ -145,14 +153,6 @@
       "onboard_time": 1712274315,
       "rank": 3,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 843144,
-      "num": 752829,
-      "word": "赵丽颖林更新 晋江文学",
-      "onboard_time": 1712317758,
-      "rank": 3,
-      "category": "剧集"
     },
     {
       "raw_hot": 815156,
@@ -193,6 +193,14 @@
       "onboard_time": 1712317999,
       "rank": 20,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 717910,
+      "num": 717910,
+      "word": "与凤行大结局",
+      "onboard_time": 1712320279,
+      "rank": 4,
+      "category": "剧集"
     },
     {
       "raw_hot": 698483,
@@ -265,6 +273,14 @@
       "onboard_time": 1712315239,
       "rank": 46,
       "category": "读书作家"
+    },
+    {
+      "raw_hot": 624321,
+      "num": 624321,
+      "word": "网上九块九买的验钞机",
+      "onboard_time": 1712316739,
+      "rank": 38,
+      "category": "幽默"
     },
     {
       "raw_hot": 619843,
@@ -356,7 +372,7 @@
     },
     {
       "raw_hot": 559481,
-      "num": 451486,
+      "num": 535083,
       "word": "因为口癖是宝贝社死了",
       "onboard_time": 1712317940,
       "rank": 10,
@@ -473,14 +489,6 @@
       "onboard_time": 1712307678,
       "rank": 22,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 478429,
-      "num": 450572,
-      "word": "网上九块九买的验钞机",
-      "onboard_time": 1712316739,
-      "rank": 38,
-      "category": "幽默"
     },
     {
       "raw_hot": 476769,
@@ -739,6 +747,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 376915,
+      "num": 376915,
+      "word": "跳绳是最佳减重运动",
+      "onboard_time": 1712317758,
+      "rank": 19,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 374749,
       "num": 374749,
       "word": "十年后才知道朋友提前杀虫了",
@@ -769,6 +785,14 @@
       "onboard_time": 1712222057,
       "rank": 8,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 334431,
+      "num": 334431,
+      "word": "易烊千玺为草木人间打call",
+      "onboard_time": 1712316858,
+      "rank": 46,
+      "category": "电影"
     },
     {
       "raw_hot": 333741,
@@ -817,14 +841,6 @@
       "onboard_time": 1712221278,
       "rank": 48,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 317926,
-      "num": 317926,
-      "word": "易烊千玺为草木人间打call",
-      "onboard_time": 1712316858,
-      "rank": 46,
-      "category": "电影"
     },
     {
       "raw_hot": 317244,
@@ -1035,14 +1051,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 265050,
-      "num": 265050,
-      "word": "跳绳是最佳减重运动",
-      "onboard_time": 1712317758,
-      "rank": 19,
-      "category": "运动健身"
-    },
-    {
       "raw_hot": 260660,
       "num": 260660,
       "word": "黄景瑜教王一博狙击手技巧",
@@ -1156,7 +1164,7 @@
     },
     {
       "raw_hot": 234957,
-      "num": 510467,
+      "num": 527657,
       "word": "30秒看福宝入住圈舍长啥样",
       "onboard_time": 1712308697,
       "rank": 29,
@@ -1169,6 +1177,14 @@
       "onboard_time": 1712312838,
       "rank": 23,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 230737,
+      "num": 206058,
+      "word": "郑恺把跑男说成跑年",
+      "onboard_time": 1712320638,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 229792,
@@ -1195,8 +1211,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 220662,
-      "num": 220662,
+      "raw_hot": 221065,
+      "num": 221065,
       "word": "小狗为了不弄脏座位把自己缩成一团",
       "onboard_time": 1712317940,
       "rank": 26,
@@ -1315,6 +1331,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 208300,
+      "num": 208300,
+      "word": "同学知道我上岸之后接受不了",
+      "onboard_time": 1712320398,
+      "rank": 26,
+      "category": "情感"
+    },
+    {
       "raw_hot": 207644,
       "num": 207644,
       "word": "幽兰 这个家没我得散",
@@ -1329,6 +1353,14 @@
       "onboard_time": 1712237240,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 205608,
+      "num": 205608,
+      "word": "真陪看",
+      "onboard_time": 1712320098,
+      "rank": 39,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 205357,
@@ -1371,6 +1403,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 197080,
+      "num": 197080,
+      "word": "VG对战KSG",
+      "onboard_time": 1712320520,
+      "rank": 35,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 196390,
       "num": 196390,
       "word": "音乐节 不可抗力",
@@ -1385,6 +1425,14 @@
       "onboard_time": 1712254992,
       "rank": 26,
       "category": "演出"
+    },
+    {
+      "raw_hot": 195191,
+      "num": 195191,
+      "word": "声入人心求金主爸爸",
+      "onboard_time": 1712320759,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 194532,
@@ -1587,6 +1635,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 174183,
+      "num": 174183,
+      "word": "赵丽颖林更新 粉丝联姻",
+      "onboard_time": 1712320999,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 169949,
       "num": 169949,
       "word": "陈泽直播",
@@ -1673,14 +1729,6 @@
       "onboard_time": 1712311578,
       "rank": 36,
       "category": "体育"
-    },
-    {
-      "raw_hot": 160827,
-      "num": 160827,
-      "word": "真陪看",
-      "onboard_time": 1712320098,
-      "rank": 39,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 160730,
@@ -1848,6 +1896,14 @@
       "word": "黄子弘凡 成为你想成为的大人",
       "onboard_time": 1712298257,
       "rank": 36,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 148027,
+      "num": 148027,
+      "word": "全员加速中",
+      "onboard_time": 1712320878,
+      "rank": 46,
       "category": "综艺"
     },
     {
@@ -2371,6 +2427,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 84957,
+      "num": 210503,
+      "word": "七三一部队罪证陈列馆清明节又排长队",
+      "onboard_time": 1712320039,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 84338,
       "num": 87441,
       "word": "追风者有效播放量破9亿",
@@ -2481,14 +2545,6 @@
       "onboard_time": 1712272575,
       "rank": 45,
       "category": "体育"
-    },
-    {
-      "raw_hot": 43865,
-      "num": 210503,
-      "word": "七三一部队罪证陈列馆清明节又排长队",
-      "onboard_time": 1712320039,
-      "rank": 29,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 43197,

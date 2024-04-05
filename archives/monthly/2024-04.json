@@ -1,6 +1,6 @@
 {
   "startTime": 1711902044401,
-  "endTime": 1712320238782,
+  "endTime": 1712321110713,
   "band_list": [
     {
       "raw_hot": 16874674,
@@ -411,6 +411,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1642664,
+      "num": 1642664,
+      "word": "一个月给8000做全职妈妈",
+      "onboard_time": 1712317940,
+      "rank": 0,
+      "category": "情感"
+    },
+    {
       "raw_hot": 1624375,
       "num": 1624375,
       "word": "丈夫称杨雪发病16天已失去治疗机会",
@@ -601,14 +609,6 @@
       "onboard_time": 1712033780,
       "rank": 3,
       "category": "艺人,艺人"
-    },
-    {
-      "raw_hot": 1471249,
-      "num": 1471249,
-      "word": "一个月给8000做全职妈妈",
-      "onboard_time": 1712317940,
-      "rank": 0,
-      "category": "情感"
     },
     {
       "raw_hot": 1468015,
@@ -1395,6 +1395,14 @@
       "category": "健康医疗,科学科普"
     },
     {
+      "raw_hot": 902497,
+      "num": 752829,
+      "word": "赵丽颖林更新 晋江文学",
+      "onboard_time": 1712317758,
+      "rank": 3,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 897265,
       "num": 897265,
       "word": "终于在高铁上发疯了",
@@ -1545,14 +1553,6 @@
       "onboard_time": 1712150062,
       "rank": 19,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 843144,
-      "num": 752829,
-      "word": "赵丽颖林更新 晋江文学",
-      "onboard_time": 1712317758,
-      "rank": 3,
-      "category": "剧集"
     },
     {
       "raw_hot": 829840,
@@ -1945,6 +1945,14 @@
       "onboard_time": 1712211497,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 717910,
+      "num": 717910,
+      "word": "与凤行大结局",
+      "onboard_time": 1712320279,
+      "rank": 4,
+      "category": "剧集"
     },
     {
       "raw_hot": 713418,
@@ -2475,6 +2483,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 624321,
+      "num": 624321,
+      "word": "网上九块九买的验钞机",
+      "onboard_time": 1712316739,
+      "rank": 38,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 622262,
       "num": 622262,
       "word": "伊朗将果断回应以色列行动",
@@ -2924,7 +2940,7 @@
     },
     {
       "raw_hot": 559481,
-      "num": 451486,
+      "num": 535083,
       "word": "因为口癖是宝贝社死了",
       "onboard_time": 1712317940,
       "rank": 10,
@@ -3497,14 +3513,6 @@
       "onboard_time": 1712230998,
       "rank": 13,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 478429,
-      "num": 450572,
-      "word": "网上九块九买的验钞机",
-      "onboard_time": 1712316739,
-      "rank": 38,
-      "category": "幽默"
     },
     {
       "raw_hot": 477998,
@@ -4627,6 +4635,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 376915,
+      "num": 376915,
+      "word": "跳绳是最佳减重运动",
+      "onboard_time": 1712317758,
+      "rank": 19,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 376103,
       "num": 324775,
       "word": "24岁女生和48岁的室友妈妈处成母女",
@@ -5059,6 +5075,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 334431,
+      "num": 334431,
+      "word": "易烊千玺为草木人间打call",
+      "onboard_time": 1712316858,
+      "rank": 46,
+      "category": "电影"
+    },
+    {
       "raw_hot": 334161,
       "num": 334161,
       "word": "为什么现在住院都要问学历了",
@@ -5289,14 +5313,6 @@
       "onboard_time": 1712036719,
       "rank": 47,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 317926,
-      "num": 317926,
-      "word": "易烊千玺为草木人间打call",
-      "onboard_time": 1712316858,
-      "rank": 46,
-      "category": "电影"
     },
     {
       "raw_hot": 317781,
@@ -6267,14 +6283,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 265050,
-      "num": 265050,
-      "word": "跳绳是最佳减重运动",
-      "onboard_time": 1712317758,
-      "rank": 19,
-      "category": "运动健身"
-    },
-    {
       "raw_hot": 264587,
       "num": 264587,
       "word": "因为和父母关系不好直接改姓了",
@@ -7084,7 +7092,7 @@
     },
     {
       "raw_hot": 234957,
-      "num": 510467,
+      "num": 527657,
       "word": "30秒看福宝入住圈舍长啥样",
       "onboard_time": 1712308697,
       "rank": 29,
@@ -7209,6 +7217,14 @@
       "onboard_time": 1711944682,
       "rank": 34,
       "category": "科学科普,互联网"
+    },
+    {
+      "raw_hot": 230737,
+      "num": 206058,
+      "word": "郑恺把跑男说成跑年",
+      "onboard_time": 1712320638,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 230551,
@@ -7475,6 +7491,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 221065,
+      "num": 221065,
+      "word": "小狗为了不弄脏座位把自己缩成一团",
+      "onboard_time": 1712317940,
+      "rank": 26,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 220886,
       "num": 220886,
       "word": "金娘子",
@@ -7497,14 +7521,6 @@
       "onboard_time": 1711963281,
       "rank": 19,
       "category": "财经"
-    },
-    {
-      "raw_hot": 220662,
-      "num": 220662,
-      "word": "小狗为了不弄脏座位把自己缩成一团",
-      "onboard_time": 1712317940,
-      "rank": 26,
-      "category": "幽默"
     },
     {
       "raw_hot": 220560,
@@ -8011,6 +8027,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 208300,
+      "num": 208300,
+      "word": "同学知道我上岸之后接受不了",
+      "onboard_time": 1712320398,
+      "rank": 26,
+      "category": "情感"
+    },
+    {
       "raw_hot": 208274,
       "num": 208274,
       "word": "变身罗伯特",
@@ -8089,6 +8113,14 @@
       "onboard_time": 1712198298,
       "rank": 35,
       "category": "美食"
+    },
+    {
+      "raw_hot": 205608,
+      "num": 205608,
+      "word": "真陪看",
+      "onboard_time": 1712320098,
+      "rank": 39,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 205452,
@@ -8539,6 +8571,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 197080,
+      "num": 197080,
+      "word": "VG对战KSG",
+      "onboard_time": 1712320520,
+      "rank": 35,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 196978,
       "num": 196978,
       "word": "这么猛生病了还得挂儿科",
@@ -8705,6 +8745,14 @@
       "onboard_time": 1712056579,
       "rank": 31,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 195191,
+      "num": 195191,
+      "word": "声入人心求金主爸爸",
+      "onboard_time": 1712320759,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 195182,
@@ -9819,6 +9867,14 @@
       "category": "综艺,综艺"
     },
     {
+      "raw_hot": 174183,
+      "num": 174183,
+      "word": "赵丽颖林更新 粉丝联姻",
+      "onboard_time": 1712320999,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 174014,
       "num": 174014,
       "word": "李汶翰让站姐入职",
@@ -10409,14 +10465,6 @@
       "onboard_time": 1712124262,
       "rank": 45,
       "category": "情感"
-    },
-    {
-      "raw_hot": 160827,
-      "num": 160827,
-      "word": "真陪看",
-      "onboard_time": 1712320098,
-      "rank": 39,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 160730,
@@ -11233,6 +11281,14 @@
       "onboard_time": 1712196378,
       "rank": 43,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 148027,
+      "num": 148027,
+      "word": "全员加速中",
+      "onboard_time": 1712320878,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 147994,
@@ -13003,6 +13059,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 84957,
+      "num": 210503,
+      "word": "七三一部队罪证陈列馆清明节又排长队",
+      "onboard_time": 1712320039,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 84099,
       "num": 1154857,
       "word": "家国永念致敬英雄",
@@ -13497,14 +13561,6 @@
       "onboard_time": 1711910771,
       "rank": 45,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 43865,
-      "num": 210503,
-      "word": "七三一部队罪证陈列馆清明节又排长队",
-      "onboard_time": 1712320039,
-      "rank": 29,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 43197,
