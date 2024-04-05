@@ -1,6 +1,6 @@
 {
   "startTime": 1712334193790,
-  "endTime": 1712351760541,
+  "endTime": 1712352853125,
   "band_list": [
     {
       "raw_hot": 833945,
@@ -499,6 +499,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 22131,
+      "num": 22131,
+      "word": "袁弘张歆艺带娃游西班牙",
+      "onboard_time": 1712351591,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 19417,
       "num": 19941,
       "word": "皇上来大明湖也找不到夏雨荷",
@@ -515,28 +523,28 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 15548,
-      "num": 16614,
-      "word": "福宝加入海归F4",
-      "onboard_time": 1712348291,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 15110,
-      "num": 15110,
+      "raw_hot": 15778,
+      "num": 15778,
       "word": "原来冰箱贴还可以用来拍转场视频",
       "onboard_time": 1712350271,
       "rank": 43,
       "category": "休闲"
     },
     {
-      "raw_hot": 15083,
-      "num": 15083,
-      "word": "袁弘张歆艺带娃游西班牙",
-      "onboard_time": 1712351591,
-      "rank": 44,
-      "category": "艺人"
+      "raw_hot": 15772,
+      "num": 15772,
+      "word": "为什么有人觉得清明没休",
+      "onboard_time": 1712350630,
+      "rank": 47,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 15548,
+      "num": 16614,
+      "word": "福宝加入海归F4",
+      "onboard_time": 1712348291,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 14753,
@@ -547,11 +555,11 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 14531,
-      "num": 15070,
-      "word": "为什么有人觉得清明没休",
-      "onboard_time": 1712350630,
-      "rank": 47,
+      "raw_hot": 13187,
+      "num": 15238,
+      "word": "亲密关系都存在权利的博弈",
+      "onboard_time": 1712352790,
+      "rank": 48,
       "category": "情感"
     }
   ],
