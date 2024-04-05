@@ -1,6 +1,6 @@
 {
   "startTime": 1711902044401,
-  "endTime": 1712316897577,
+  "endTime": 1712320238782,
   "band_list": [
     {
       "raw_hot": 16874674,
@@ -601,6 +601,14 @@
       "onboard_time": 1712033780,
       "rank": 3,
       "category": "艺人,艺人"
+    },
+    {
+      "raw_hot": 1471249,
+      "num": 1471249,
+      "word": "一个月给8000做全职妈妈",
+      "onboard_time": 1712317940,
+      "rank": 0,
+      "category": "情感"
     },
     {
       "raw_hot": 1468015,
@@ -1539,6 +1547,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 843144,
+      "num": 752829,
+      "word": "赵丽颖林更新 晋江文学",
+      "onboard_time": 1712317758,
+      "rank": 3,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 829840,
       "num": 829840,
       "word": "茶百道 还不开始",
@@ -1913,6 +1929,14 @@
       "onboard_time": 1712142738,
       "rank": 14,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 724586,
+      "num": 264967,
+      "word": "24岁女生负债15万",
+      "onboard_time": 1712317999,
+      "rank": 20,
+      "category": "幽默"
     },
     {
       "raw_hot": 719007,
@@ -2419,6 +2443,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 628093,
+      "num": 628093,
+      "word": "余华 肯定是一条狗嘛",
+      "onboard_time": 1712315239,
+      "rank": 46,
+      "category": "读书作家"
+    },
+    {
       "raw_hot": 626121,
       "num": 626121,
       "word": "万科",
@@ -2889,6 +2921,14 @@
       "onboard_time": 1712206278,
       "rank": 16,
       "category": "情感"
+    },
+    {
+      "raw_hot": 559481,
+      "num": 451486,
+      "word": "因为口癖是宝贝社死了",
+      "onboard_time": 1712317940,
+      "rank": 10,
+      "category": "幽默"
     },
     {
       "raw_hot": 558049,
@@ -3459,6 +3499,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 478429,
+      "num": 450572,
+      "word": "网上九块九买的验钞机",
+      "onboard_time": 1712316739,
+      "rank": 38,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 477998,
       "num": 477998,
       "word": "外交部欢迎福宝回国",
@@ -3643,6 +3691,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 456612,
+      "num": 456612,
+      "word": "王一博你终于不戴帽子了",
+      "onboard_time": 1712315720,
+      "rank": 9,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 456217,
       "num": 456217,
       "word": "见过开黄腔的婚礼司仪吗",
@@ -3737,6 +3793,14 @@
       "onboard_time": 1712142921,
       "rank": 24,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 449391,
+      "num": 449391,
+      "word": "雷军称大家用放大镜看小米SU7压力很大",
+      "onboard_time": 1712314039,
+      "rank": 20,
+      "category": "汽车"
     },
     {
       "raw_hot": 447567,
@@ -3955,14 +4019,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 430237,
-      "num": 430237,
-      "word": "王一博你终于不戴帽子了",
-      "onboard_time": 1712315720,
-      "rank": 9,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 428928,
       "num": 428928,
       "word": "09是谁",
@@ -4097,14 +4153,6 @@
       "onboard_time": 1712102299,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 420030,
-      "num": 420030,
-      "word": "雷军称大家用放大镜看小米SU7压力很大",
-      "onboard_time": 1712314039,
-      "rank": 20,
-      "category": "汽车"
     },
     {
       "raw_hot": 419719,
@@ -5243,6 +5291,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 317926,
+      "num": 317926,
+      "word": "易烊千玺为草木人间打call",
+      "onboard_time": 1712316858,
+      "rank": 46,
+      "category": "电影"
+    },
+    {
       "raw_hot": 317781,
       "num": 317781,
       "word": "Doinb是谁",
@@ -5763,6 +5819,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 289222,
+      "num": 289222,
+      "word": "王一博愿意做什么",
+      "onboard_time": 1712318419,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 288371,
       "num": 288371,
       "word": "郑元畅不知道唐禹哲有两个小孩",
@@ -6147,6 +6211,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 268887,
+      "num": 263242,
+      "word": "小姨让我买房但我不想买",
+      "onboard_time": 1712316739,
+      "rank": 33,
+      "category": "情感"
+    },
+    {
       "raw_hot": 268649,
       "num": 268649,
       "word": "中产三件套",
@@ -6193,6 +6265,14 @@
       "onboard_time": 1712038098,
       "rank": 25,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 265050,
+      "num": 265050,
+      "word": "跳绳是最佳减重运动",
+      "onboard_time": 1712317758,
+      "rank": 19,
+      "category": "运动健身"
     },
     {
       "raw_hot": 264587,
@@ -6785,14 +6865,6 @@
       "onboard_time": 1712118622,
       "rank": 37,
       "category": "情感"
-    },
-    {
-      "raw_hot": 242282,
-      "num": 220940,
-      "word": "余华 肯定是一条狗嘛",
-      "onboard_time": 1712315239,
-      "rank": 46,
-      "category": "读书作家"
     },
     {
       "raw_hot": 241987,
@@ -7427,6 +7499,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 220662,
+      "num": 220662,
+      "word": "小狗为了不弄脏座位把自己缩成一团",
+      "onboard_time": 1712317940,
+      "rank": 26,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 220560,
       "num": 220560,
       "word": "林更新没有技巧就是硬帅",
@@ -7867,6 +7947,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 210449,
+      "num": 210449,
+      "word": "与凤行今日点映",
+      "onboard_time": 1712318720,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 210442,
       "num": 210442,
       "word": "千万不要等到毕业在找工作",
@@ -8145,14 +8233,6 @@
       "onboard_time": 1712051659,
       "rank": 26,
       "category": "电影"
-    },
-    {
-      "raw_hot": 202751,
-      "num": 202751,
-      "word": "小姨让我买房但我不想买",
-      "onboard_time": 1712316739,
-      "rank": 33,
-      "category": "情感"
     },
     {
       "raw_hot": 202639,
@@ -9283,6 +9363,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 183768,
+      "num": 183768,
+      "word": "我的阿勒泰 戛纳",
+      "onboard_time": 1712316558,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 183472,
       "num": 183472,
       "word": "云合",
@@ -9537,14 +9625,6 @@
       "onboard_time": 1712013557,
       "rank": 31,
       "category": "运动健身"
-    },
-    {
-      "raw_hot": 178576,
-      "num": 178576,
-      "word": "网上九块九买的验钞机",
-      "onboard_time": 1712316739,
-      "rank": 38,
-      "category": "幽默"
     },
     {
       "raw_hot": 178527,
@@ -9819,14 +9899,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 172611,
-      "num": 172611,
-      "word": "我的阿勒泰 戛纳",
-      "onboard_time": 1712316558,
-      "rank": 39,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 172299,
       "num": 172299,
       "word": "矣进宏CBA首秀",
@@ -9929,6 +10001,14 @@
       "onboard_time": 1712030420,
       "rank": 37,
       "category": "演出"
+    },
+    {
+      "raw_hot": 169949,
+      "num": 169949,
+      "word": "陈泽直播",
+      "onboard_time": 1712319558,
+      "rank": 36,
+      "category": "游戏,网红"
     },
     {
       "raw_hot": 169866,
@@ -10331,6 +10411,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 160827,
+      "num": 160827,
+      "word": "真陪看",
+      "onboard_time": 1712320098,
+      "rank": 39,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 160730,
       "num": 160730,
       "word": "张杰回复马嘉祺",
@@ -10473,6 +10561,14 @@
       "onboard_time": 1712055741,
       "rank": 35,
       "category": "电竞,网红"
+    },
+    {
+      "raw_hot": 158878,
+      "num": 158878,
+      "word": "扣1让朱开闭嘴",
+      "onboard_time": 1712318359,
+      "rank": 40,
+      "category": "电竞"
     },
     {
       "raw_hot": 158573,
@@ -11387,14 +11483,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 143603,
-      "num": 143603,
-      "word": "易烊千玺为草木人间打call",
-      "onboard_time": 1712316858,
-      "rank": 46,
-      "category": "电影"
-    },
-    {
       "raw_hot": 143436,
       "num": 143436,
       "word": "樱木花道",
@@ -11431,6 +11519,14 @@
       "num": 143269,
       "word": "我承认昨天对行止太大声了",
       "onboard_time": 1712228058,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 143239,
+      "num": 143239,
+      "word": "魑魅之王凤来出炉",
+      "onboard_time": 1712319979,
       "rank": 43,
       "category": "剧集"
     },
@@ -13401,6 +13497,14 @@
       "onboard_time": 1711910771,
       "rank": 45,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 43865,
+      "num": 210503,
+      "word": "七三一部队罪证陈列馆清明节又排长队",
+      "onboard_time": 1712320039,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 43197,
