@@ -1,6 +1,6 @@
 {
   "startTime": 1711815680412,
-  "endTime": 1712335018901,
+  "endTime": 1712337448083,
   "band_list": [
     {
       "raw_hot": 16874674,
@@ -3155,6 +3155,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 600544,
+      "num": 600544,
+      "word": "读研后多了很多朴素的愿望",
+      "onboard_time": 1712330898,
+      "rank": 39,
+      "category": "情感"
+    },
+    {
       "raw_hot": 599221,
       "num": 599221,
       "word": "雷军称小米正式成为一家车厂",
@@ -4891,14 +4899,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 429521,
-      "num": 429521,
-      "word": "读研后多了很多朴素的愿望",
-      "onboard_time": 1712330898,
-      "rank": 39,
-      "category": "情感"
-    },
-    {
       "raw_hot": 429422,
       "num": 240289,
       "word": "人体最薄的皮肤在哪",
@@ -6081,6 +6081,14 @@
       "onboard_time": 1712194999,
       "rank": 16,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 343331,
+      "num": 343331,
+      "word": "行止要当爸爸了",
+      "onboard_time": 1712335755,
+      "rank": 5,
+      "category": "剧集"
     },
     {
       "raw_hot": 343312,
@@ -16187,6 +16195,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 91987,
+      "num": 91987,
+      "word": "妈妈假装蔡依林回信",
+      "onboard_time": 1712336894,
+      "rank": 32,
+      "category": "演出"
+    },
+    {
       "raw_hot": 91813,
       "num": 91813,
       "word": "特斯拉股价年内已跌近三分之一",
@@ -16393,6 +16409,14 @@
       "onboard_time": 1712218577,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 74156,
+      "num": 68521,
+      "word": "宫崎骏电影里有好多杨迪",
+      "onboard_time": 1712336714,
+      "rank": 40,
+      "category": "电影"
     },
     {
       "raw_hot": 74034,
@@ -16673,6 +16697,14 @@
       "onboard_time": 1712142381,
       "rank": 29,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 57655,
+      "num": 57655,
+      "word": "声音玩具演唱会",
+      "onboard_time": 1712337315,
+      "rank": 47,
+      "category": "演出"
     },
     {
       "raw_hot": 57627,

@@ -1,0 +1,410 @@
+{
+  "runTime": 1712337448083,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 600544,
+        "num": 600544,
+        "word": "读研后多了很多朴素的愿望",
+        "onboard_time": 1712330898,
+        "rank": 0,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 550727,
+        "num": 550727,
+        "word": "前夫殴打10岁女儿女子忍痛拍下取证",
+        "onboard_time": 1712329340,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 26952,
+        "num": 487322,
+        "word": "孩子们将碧空版如愿唱给空军英烈",
+        "onboard_time": 1712325319,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 427050,
+        "num": 427050,
+        "word": "李沁高定",
+        "onboard_time": 1712332519,
+        "rank": 3,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 344813,
+        "num": 344813,
+        "word": "过度省钱后觉得生活没意思了",
+        "onboard_time": 1712327359,
+        "rank": 4,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 343331,
+        "num": 343331,
+        "word": "行止要当爸爸了",
+        "onboard_time": 1712335755,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 343206,
+        "num": 343206,
+        "word": "赵丽颖林更新 晋江文学",
+        "onboard_time": 1712317758,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 332313,
+        "num": 332313,
+        "word": "香港发现首例人类感染猴疱疹病毒",
+        "onboard_time": 1712307258,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 315056,
+        "num": 315056,
+        "word": "与凤行大结局",
+        "onboard_time": 1712320279,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 85239,
+        "num": 309476,
+        "word": "姜爷爷学会果赖召唤术",
+        "onboard_time": 1712314099,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 306999,
+        "num": 306999,
+        "word": "IU唱告五人的唯一",
+        "onboard_time": 1712329999,
+        "rank": 10,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 291746,
+        "num": 291746,
+        "word": "爱奇艺在干嘛",
+        "onboard_time": 1712321540,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 286546,
+        "num": 286546,
+        "word": "赵丽颖林更新 粉丝联姻",
+        "onboard_time": 1712320999,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 282115,
+        "num": 282115,
+        "word": "好看的人长得都很高清",
+        "onboard_time": 1712312599,
+        "rank": 13,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 266311,
+        "num": 266311,
+        "word": "纽约震感",
+        "onboard_time": 1712328140,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 262142,
+        "num": 262142,
+        "word": "爱奇艺没有一台笔电吗",
+        "onboard_time": 1712325799,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 231864,
+        "num": 231864,
+        "word": "徐海乔演技",
+        "onboard_time": 1712328079,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 190176,
+        "num": 190176,
+        "word": "水瓶座就是永远不被定义",
+        "onboard_time": 1712329940,
+        "rank": 17,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 164403,
+        "num": 164403,
+        "word": "沈璃买小孩的衣服原因找到了",
+        "onboard_time": 1712329099,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 156083,
+        "num": 156083,
+        "word": "一个月给8000做全职妈妈",
+        "onboard_time": 1712317940,
+        "rank": 19,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 214149,
+        "num": 153426,
+        "word": "医生建议不要饿着肚子睡觉",
+        "onboard_time": 1712329519,
+        "rank": 20,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 180278,
+        "num": 153180,
+        "word": "24岁女生负债15万",
+        "onboard_time": 1712317999,
+        "rank": 21,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 150463,
+        "num": 150463,
+        "word": "身体在变老的10个迹象",
+        "onboard_time": 1712332216,
+        "rank": 22,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 136597,
+        "num": 136597,
+        "word": "月薪五万是一种什么体验",
+        "onboard_time": 1712329220,
+        "rank": 23,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 133124,
+        "num": 133124,
+        "word": "高铁上再也不随便跟人换座了",
+        "onboard_time": 1712325500,
+        "rank": 24,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 103615,
+        "num": 103615,
+        "word": "声入人心求金主爸爸",
+        "onboard_time": 1712320759,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 99572,
+        "num": 99572,
+        "word": "王一博硬控直播三分钟",
+        "onboard_time": 1712326939,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 93689,
+        "num": 93689,
+        "word": "男子结婚37年法定妻子竟是弟妹",
+        "onboard_time": 1712321959,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 83595,
+        "num": 93259,
+        "word": "马里亚纳群岛附近发生6.8级左右地震",
+        "onboard_time": 1712332216,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 68233,
+        "num": 92898,
+        "word": "缅甸5.6级地震",
+        "onboard_time": 1712323879,
+        "rank": 29,
+        "category": "社会新闻,自然"
+      },
+      {
+        "raw_hot": 99056,
+        "num": 92886,
+        "word": "王爷别输了 沈璃吃饭了",
+        "onboard_time": 1712329940,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 92855,
+        "num": 92855,
+        "word": "关晓彤裤子是不是有点短了",
+        "onboard_time": 1712313679,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 91987,
+        "num": 91987,
+        "word": "妈妈假装蔡依林回信",
+        "onboard_time": 1712336894,
+        "rank": 32,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 84564,
+        "num": 84564,
+        "word": "恋爱兄妹男五",
+        "onboard_time": 1712325678,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 84038,
+        "num": 84038,
+        "word": "冰箱久置的3种食物或是癌症帮凶",
+        "onboard_time": 1712329220,
+        "rank": 34,
+        "category": "健康医疗,科学科普"
+      },
+      {
+        "raw_hot": 83262,
+        "num": 83262,
+        "word": "王力宏临沂",
+        "onboard_time": 1712330179,
+        "rank": 35,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 79805,
+        "num": 79805,
+        "word": "九亿萤火虫的梦",
+        "onboard_time": 1712326159,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 77710,
+        "num": 77710,
+        "word": "王一博要不要擦一下括号",
+        "onboard_time": 1712322320,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 74724,
+        "num": 74724,
+        "word": "沈图南你真是疯了",
+        "onboard_time": 1712321659,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 69000,
+        "num": 69000,
+        "word": "同学知道我上岸之后接受不了",
+        "onboard_time": 1712320398,
+        "rank": 39,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 74156,
+        "num": 68521,
+        "word": "宫崎骏电影里有好多杨迪",
+        "onboard_time": 1712336714,
+        "rank": 40,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 72895,
+        "num": 68295,
+        "word": "与凤行",
+        "onboard_time": 1712309778,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 67657,
+        "num": 67657,
+        "word": "美国新泽西发生里氏4.8级地震",
+        "onboard_time": 1712329699,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 66758,
+        "num": 66758,
+        "word": "分手前的征兆是什么",
+        "onboard_time": 1712327359,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 66426,
+        "num": 66426,
+        "word": "美财长耶伦再提反对中美脱钩",
+        "onboard_time": 1712327719,
+        "rank": 44,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 64613,
+        "num": 64613,
+        "word": "跳绳是最佳减重运动",
+        "onboard_time": 1712317758,
+        "rank": 45,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 57753,
+        "num": 57753,
+        "word": "为什么年轻人上班都不爱打扮了",
+        "onboard_time": 1712328621,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 57655,
+        "num": 57655,
+        "word": "声音玩具演唱会",
+        "onboard_time": 1712337315,
+        "rank": 47,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 56758,
+        "num": 56758,
+        "word": "暧昧过后没在一起才是绝杀",
+        "onboard_time": 1712310077,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 54507,
+        "num": 54507,
+        "word": "5个延缓衰老技巧",
+        "onboard_time": 1712333356,
+        "rank": 49,
+        "category": "科学科普"
+      }
+    ],
+    "hotgov": {
+      "word": "#家国永念致敬英雄#"
+    }
+  }
+}
