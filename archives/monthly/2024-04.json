@@ -1,6 +1,6 @@
 {
   "startTime": 1711902044401,
-  "endTime": 1712324063694,
+  "endTime": 1712326718691,
   "band_list": [
     {
       "raw_hot": 16874674,
@@ -897,6 +897,14 @@
       "onboard_time": 1711935257,
       "rank": 27,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1210518,
+      "num": 1210518,
+      "word": "体制内什么人设最吃香",
+      "onboard_time": 1712324058,
+      "rank": 3,
+      "category": "情感"
     },
     {
       "raw_hot": 1201350,
@@ -1883,6 +1891,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 737366,
+      "num": 737366,
+      "word": "声入人心求金主爸爸",
+      "onboard_time": 1712320759,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 736820,
       "num": 736820,
       "word": "台湾4.6级地震",
@@ -1971,6 +1987,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 714899,
+      "num": 714899,
+      "word": "同学知道我上岸之后接受不了",
+      "onboard_time": 1712320398,
+      "rank": 26,
+      "category": "情感"
+    },
+    {
       "raw_hot": 713418,
       "num": 713418,
       "word": "黄金又暴涨中国资产飙升",
@@ -2003,14 +2027,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 702613,
-      "num": 702613,
-      "word": "同学知道我上岸之后接受不了",
-      "onboard_time": 1712320398,
-      "rank": 26,
-      "category": "情感"
-    },
-    {
       "raw_hot": 699718,
       "num": 699718,
       "word": "张元英站姐发了刘耀文",
@@ -2033,6 +2049,14 @@
       "onboard_time": 1711981042,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 697744,
+      "num": 263981,
+      "word": "高铁上再也不随便跟人换座了",
+      "onboard_time": 1712325500,
+      "rank": 20,
+      "category": "幽默"
     },
     {
       "raw_hot": 695205,
@@ -3091,14 +3115,6 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 543423,
-      "num": 543423,
-      "word": "声入人心求金主爸爸",
-      "onboard_time": 1712320759,
-      "rank": 36,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 542059,
       "num": 542059,
       "word": "原来韩国人追剧不看字幕的",
@@ -3675,6 +3691,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 466329,
+      "num": 466329,
+      "word": "爱奇艺没有一台笔电吗",
+      "onboard_time": 1712325799,
+      "rank": 10,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 466055,
       "num": 466055,
       "word": "马英九",
@@ -4041,6 +4065,14 @@
       "onboard_time": 1712005511,
       "rank": 36,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 433104,
+      "num": 433104,
+      "word": "与凤行 小情侣换装play",
+      "onboard_time": 1712324179,
+      "rank": 11,
+      "category": "剧集"
     },
     {
       "raw_hot": 432759,
@@ -4491,6 +4523,14 @@
       "category": "美食,健康医疗"
     },
     {
+      "raw_hot": 392864,
+      "num": 392864,
+      "word": "男子结婚37年法定妻子竟是弟妹",
+      "onboard_time": 1712321959,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 392157,
       "num": 392157,
       "word": "刘若英报平安",
@@ -4561,6 +4601,14 @@
       "onboard_time": 1712242640,
       "rank": 18,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 385708,
+      "num": 385708,
+      "word": "武磊",
+      "onboard_time": 1712323099,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 385447,
@@ -4849,6 +4897,14 @@
       "onboard_time": 1712207898,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 361900,
+      "num": 361900,
+      "word": "王一博要不要擦一下括号",
+      "onboard_time": 1712322320,
+      "rank": 21,
+      "category": "剧集"
     },
     {
       "raw_hot": 361529,
@@ -5195,14 +5251,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 331248,
-      "num": 331248,
-      "word": "男子结婚37年法定妻子竟是弟妹",
-      "onboard_time": 1712321959,
-      "rank": 26,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 330615,
       "num": 330615,
       "word": "与凤行超点大结局",
@@ -5384,14 +5432,6 @@
       "word": "与凤行",
       "onboard_time": 1712036719,
       "rank": 47,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 317805,
-      "num": 317805,
-      "word": "王一博要不要擦一下括号",
-      "onboard_time": 1712322320,
-      "rank": 21,
       "category": "剧集"
     },
     {
@@ -5857,6 +5897,14 @@
       "onboard_time": 1712127320,
       "rank": 28,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 291830,
+      "num": 261811,
+      "word": "恋爱兄妹男五",
+      "onboard_time": 1712325678,
+      "rank": 24,
+      "category": "综艺"
     },
     {
       "raw_hot": 291649,
@@ -6387,6 +6435,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 263889,
+      "num": 247344,
+      "word": "Ricky真的cha了BiteMe",
+      "onboard_time": 1712324900,
+      "rank": 25,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 263407,
       "num": 263407,
       "word": "子宫生病的第一个信号就是异常出血",
@@ -6401,6 +6457,14 @@
       "onboard_time": 1712194939,
       "rank": 25,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 263350,
+      "num": 602835,
+      "word": "七三一部队罪证陈列馆清明节又排长队",
+      "onboard_time": 1712320039,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 262825,
@@ -7603,14 +7667,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 220981,
-      "num": 602835,
-      "word": "七三一部队罪证陈列馆清明节又排长队",
-      "onboard_time": 1712320039,
-      "rank": 29,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 220886,
       "num": 220886,
       "word": "金娘子",
@@ -8083,6 +8139,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 210417,
+      "num": 210417,
+      "word": "小米汽车再回应展车鼓包包浆问题",
+      "onboard_time": 1712323820,
+      "rank": 36,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 210323,
       "num": 210323,
       "word": "明兰与花芷 女子本芬芳",
@@ -8169,6 +8233,22 @@
       "onboard_time": 1712286077,
       "rank": 32,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 207270,
+      "num": 207270,
+      "word": "九亿萤火虫的梦",
+      "onboard_time": 1712326159,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 207253,
+      "num": 207253,
+      "word": "北京国安2比2上海海港",
+      "onboard_time": 1712325500,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 206867,
@@ -8427,6 +8507,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 201646,
+      "num": 201646,
+      "word": "非农",
+      "onboard_time": 1712324599,
+      "rank": 31,
+      "category": "财经"
+    },
+    {
       "raw_hot": 201424,
       "num": 211410,
       "word": "中方坚定支持巴方严惩恐袭凶手及主使",
@@ -8481,6 +8569,14 @@
       "onboard_time": 1712274255,
       "rank": 28,
       "category": "教育"
+    },
+    {
+      "raw_hot": 200362,
+      "num": 200362,
+      "word": "爱奇艺 草台班子",
+      "onboard_time": 1712326279,
+      "rank": 32,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 200326,
@@ -8769,6 +8865,14 @@
       "onboard_time": 1711981400,
       "rank": 34,
       "category": "美妆,艺人"
+    },
+    {
+      "raw_hot": 195742,
+      "num": 195742,
+      "word": "李沁丝带编发",
+      "onboard_time": 1712325080,
+      "rank": 34,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 195733,
@@ -9699,6 +9803,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 179575,
+      "num": 179575,
+      "word": "缅甸5.6级地震",
+      "onboard_time": 1712323879,
+      "rank": 34,
+      "category": "社会新闻,自然"
+    },
+    {
       "raw_hot": 179373,
       "num": 179373,
       "word": "腾势N7",
@@ -9779,6 +9891,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 178244,
+      "num": 178244,
+      "word": "给狗狗做的饭被男朋友偷吃了",
+      "onboard_time": 1712325620,
+      "rank": 36,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 177988,
       "num": 177988,
       "word": "王伟烈士牺牲23年了",
@@ -9857,14 +9977,6 @@
       "onboard_time": 1712048240,
       "rank": 36,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 175919,
-      "num": 220439,
-      "word": "武磊",
-      "onboard_time": 1712323099,
-      "rank": 49,
-      "category": "体育"
     },
     {
       "raw_hot": 175727,
@@ -10131,14 +10243,6 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 170173,
-      "num": 170173,
-      "word": "小米汽车再回应展车鼓包包浆问题",
-      "onboard_time": 1712323820,
-      "rank": 36,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 169961,
       "num": 169961,
       "word": "潘玮柏 俺是潮霸",
@@ -10225,6 +10329,14 @@
       "onboard_time": 1711942220,
       "rank": 47,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 168555,
+      "num": 168555,
+      "word": "原来我也才工作快两年而已",
+      "onboard_time": 1712326460,
+      "rank": 38,
+      "category": "情感"
     },
     {
       "raw_hot": 168410,
@@ -10851,14 +10963,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 156070,
-      "num": 175121,
-      "word": "缅甸5.6级地震",
-      "onboard_time": 1712323879,
-      "rank": 34,
-      "category": "社会新闻,自然"
-    },
-    {
       "raw_hot": 156045,
       "num": 156045,
       "word": "鹭卓李昊版寒战",
@@ -11443,6 +11547,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 147551,
+      "num": 147551,
+      "word": "李逍遥 一次主动换来终生内向",
+      "onboard_time": 1712323999,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 147506,
       "num": 147506,
       "word": "没人能拒绝中式美学的魅力",
@@ -11921,14 +12033,6 @@
       "onboard_time": 1711895121,
       "rank": 37,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 137921,
-      "num": 137921,
-      "word": "李逍遥 一次主动换来终生内向",
-      "onboard_time": 1712323999,
-      "rank": 47,
-      "category": "剧集"
     },
     {
       "raw_hot": 137823,
@@ -12505,6 +12609,14 @@
       "onboard_time": 1712312299,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 125128,
+      "num": 125128,
+      "word": "化妆品小样里藏了多少猫腻",
+      "onboard_time": 1712326699,
+      "rank": 48,
+      "category": "美妆"
     },
     {
       "raw_hot": 124588,
@@ -13185,6 +13297,14 @@
       "onboard_time": 1712010734,
       "rank": 49,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 85615,
+      "num": 1233138,
+      "word": "孩子们将碧空版如愿唱给空军英烈",
+      "onboard_time": 1712325319,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 84099,
@@ -14043,6 +14163,9 @@
     },
     {
       "word": "#习近平种下了哪些树#"
+    },
+    {
+      "word": "#不断增厚我们的绿色家底#"
     }
   ]
 }

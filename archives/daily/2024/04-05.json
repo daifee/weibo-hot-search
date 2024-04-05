@@ -1,6 +1,6 @@
 {
   "startTime": 1712247709633,
-  "endTime": 1712324063694,
+  "endTime": 1712326718691,
   "band_list": [
     {
       "raw_hot": 2472045,
@@ -107,6 +107,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1210518,
+      "num": 1210518,
+      "word": "体制内什么人设最吃香",
+      "onboard_time": 1712324058,
+      "rank": 3,
+      "category": "情感"
+    },
+    {
       "raw_hot": 1159425,
       "num": 1159425,
       "word": "暧昧过后没在一起才是绝杀",
@@ -203,6 +211,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 737366,
+      "num": 737366,
+      "word": "声入人心求金主爸爸",
+      "onboard_time": 1712320759,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 728817,
       "num": 471845,
       "word": "被同学灌开水男生已治愈出院",
@@ -219,8 +235,8 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 702613,
-      "num": 702613,
+      "raw_hot": 714899,
+      "num": 714899,
       "word": "同学知道我上岸之后接受不了",
       "onboard_time": 1712320398,
       "rank": 26,
@@ -233,6 +249,14 @@
       "onboard_time": 1712296576,
       "rank": 22,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 697744,
+      "num": 263981,
+      "word": "高铁上再也不随便跟人换座了",
+      "onboard_time": 1712325500,
+      "rank": 20,
+      "category": "幽默"
     },
     {
       "raw_hot": 688651,
@@ -443,14 +467,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 543423,
-      "num": 543423,
-      "word": "声入人心求金主爸爸",
-      "onboard_time": 1712320759,
-      "rank": 36,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 540941,
       "num": 540941,
       "word": "李现镜头畸变下的颜值",
@@ -595,6 +611,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 466329,
+      "num": 466329,
+      "word": "爱奇艺没有一台笔电吗",
+      "onboard_time": 1712325799,
+      "rank": 10,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 457265,
       "num": 295468,
       "word": "男朋友说金价太高结婚时不买三金",
@@ -641,6 +665,14 @@
       "onboard_time": 1712311698,
       "rank": 18,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 433104,
+      "num": 433104,
+      "word": "与凤行 小情侣换装play",
+      "onboard_time": 1712324179,
+      "rank": 11,
+      "category": "剧集"
     },
     {
       "raw_hot": 432513,
@@ -779,6 +811,22 @@
       "category": "美食"
     },
     {
+      "raw_hot": 392864,
+      "num": 392864,
+      "word": "男子结婚37年法定妻子竟是弟妹",
+      "onboard_time": 1712321959,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 385708,
+      "num": 385708,
+      "word": "武磊",
+      "onboard_time": 1712323099,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 383681,
       "num": 383681,
       "word": "28岁荷兰女孩预约了安乐死",
@@ -827,6 +875,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 361900,
+      "num": 361900,
+      "word": "王一博要不要擦一下括号",
+      "onboard_time": 1712322320,
+      "rank": 21,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 349888,
       "num": 349888,
       "word": "林更新工作室",
@@ -867,14 +923,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 331248,
-      "num": 331248,
-      "word": "男子结婚37年法定妻子竟是弟妹",
-      "onboard_time": 1712321959,
-      "rank": 26,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 330615,
       "num": 330615,
       "word": "与凤行超点大结局",
@@ -912,14 +960,6 @@
       "word": "与凤行",
       "onboard_time": 1712221278,
       "rank": 48,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 317805,
-      "num": 317805,
-      "word": "王一博要不要擦一下括号",
-      "onboard_time": 1712322320,
-      "rank": 21,
       "category": "剧集"
     },
     {
@@ -1051,6 +1091,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 291830,
+      "num": 261811,
+      "word": "恋爱兄妹男五",
+      "onboard_time": 1712325678,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 289222,
       "num": 289222,
       "word": "王一博愿意做什么",
@@ -1129,6 +1177,22 @@
       "onboard_time": 1712243240,
       "rank": 15,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 263889,
+      "num": 247344,
+      "word": "Ricky真的cha了BiteMe",
+      "onboard_time": 1712324900,
+      "rank": 25,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 263350,
+      "num": 602835,
+      "word": "七三一部队罪证陈列馆清明节又排长队",
+      "onboard_time": 1712320039,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 260660,
@@ -1323,14 +1387,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 220981,
-      "num": 602835,
-      "word": "七三一部队罪证陈列馆清明节又排长队",
-      "onboard_time": 1712320039,
-      "rank": 29,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 220560,
       "num": 220560,
       "word": "林更新没有技巧就是硬帅",
@@ -1435,6 +1491,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 210417,
+      "num": 210417,
+      "word": "小米汽车再回应展车鼓包包浆问题",
+      "onboard_time": 1712323820,
+      "rank": 36,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 208847,
       "num": 208847,
       "word": "cpsp",
@@ -1449,6 +1513,22 @@
       "onboard_time": 1712286077,
       "rank": 32,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 207270,
+      "num": 207270,
+      "word": "九亿萤火虫的梦",
+      "onboard_time": 1712326159,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 207253,
+      "num": 207253,
+      "word": "北京国安2比2上海海港",
+      "onboard_time": 1712325500,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 207244,
@@ -1483,12 +1563,28 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 201646,
+      "num": 201646,
+      "word": "非农",
+      "onboard_time": 1712324599,
+      "rank": 31,
+      "category": "财经"
+    },
+    {
       "raw_hot": 200584,
       "num": 200584,
       "word": "考研专业第一也要过品德这关",
       "onboard_time": 1712274255,
       "rank": 28,
       "category": "教育"
+    },
+    {
+      "raw_hot": 200362,
+      "num": 200362,
+      "word": "爱奇艺 草台班子",
+      "onboard_time": 1712326279,
+      "rank": 32,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 198124,
@@ -1521,6 +1617,14 @@
       "onboard_time": 1712254992,
       "rank": 26,
       "category": "演出"
+    },
+    {
+      "raw_hot": 195742,
+      "num": 195742,
+      "word": "李沁丝带编发",
+      "onboard_time": 1712325080,
+      "rank": 34,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 194532,
@@ -1675,12 +1779,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 179575,
+      "num": 179575,
+      "word": "缅甸5.6级地震",
+      "onboard_time": 1712323879,
+      "rank": 34,
+      "category": "社会新闻,自然"
+    },
+    {
       "raw_hot": 179441,
       "num": 179441,
       "word": "辛芷蕾赵昭仪同框拍摄路透",
       "onboard_time": 1712244618,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 178244,
+      "num": 178244,
+      "word": "给狗狗做的饭被男朋友偷吃了",
+      "onboard_time": 1712325620,
+      "rank": 36,
+      "category": "幽默"
     },
     {
       "raw_hot": 177660,
@@ -1707,14 +1827,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 175919,
-      "num": 220439,
-      "word": "武磊",
-      "onboard_time": 1712323099,
-      "rank": 49,
-      "category": "体育"
-    },
-    {
       "raw_hot": 175464,
       "num": 175464,
       "word": "Faker说无法排位影响队伍状态",
@@ -1731,14 +1843,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 170173,
-      "num": 170173,
-      "word": "小米汽车再回应展车鼓包包浆问题",
-      "onboard_time": 1712323820,
-      "rank": 36,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 169949,
       "num": 169949,
       "word": "陈泽直播",
@@ -1753,6 +1857,14 @@
       "onboard_time": 1712275996,
       "rank": 29,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 168555,
+      "num": 168555,
+      "word": "原来我也才工作快两年而已",
+      "onboard_time": 1712326460,
+      "rank": 38,
+      "category": "情感"
     },
     {
       "raw_hot": 168057,
@@ -1873,14 +1985,6 @@
       "onboard_time": 1712224218,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 156070,
-      "num": 175121,
-      "word": "缅甸5.6级地震",
-      "onboard_time": 1712323879,
-      "rank": 34,
-      "category": "社会新闻,自然"
     },
     {
       "raw_hot": 155956,
@@ -2035,6 +2139,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 147551,
+      "num": 147551,
+      "word": "李逍遥 一次主动换来终生内向",
+      "onboard_time": 1712323999,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 146301,
       "num": 146301,
       "word": "黄雀在后",
@@ -2129,14 +2241,6 @@
       "onboard_time": 1712302338,
       "rank": 45,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 137921,
-      "num": 137921,
-      "word": "李逍遥 一次主动换来终生内向",
-      "onboard_time": 1712323999,
-      "rank": 47,
-      "category": "剧集"
     },
     {
       "raw_hot": 137788,
@@ -2289,6 +2393,14 @@
       "onboard_time": 1712312299,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 125128,
+      "num": 125128,
+      "word": "化妆品小样里藏了多少猫腻",
+      "onboard_time": 1712326699,
+      "rank": 48,
+      "category": "美妆"
     },
     {
       "raw_hot": 124588,
@@ -2563,6 +2675,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 85615,
+      "num": 1233138,
+      "word": "孩子们将碧空版如愿唱给空军英烈",
+      "onboard_time": 1712325319,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 84338,
       "num": 87441,
       "word": "追风者有效播放量破9亿",
@@ -2767,6 +2887,9 @@
     },
     {
       "word": "#习近平种下了哪些树#"
+    },
+    {
+      "word": "#不断增厚我们的绿色家底#"
     }
   ]
 }
