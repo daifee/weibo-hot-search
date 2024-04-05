@@ -1,6 +1,6 @@
 {
   "startTime": 1711902044401,
-  "endTime": 1712273738792,
+  "endTime": 1712279566831,
   "band_list": [
     {
       "raw_hot": 16874674,
@@ -547,6 +547,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 1463472,
+      "num": 1463472,
+      "word": "陈泽扰民",
+      "onboard_time": 1712273233,
+      "rank": 23,
+      "category": "网红"
+    },
+    {
       "raw_hot": 1439282,
       "num": 1439282,
       "word": "八十家站姐发了迪丽热巴",
@@ -816,6 +824,14 @@
       "word": "扔小孩女子疑似精神行为异常",
       "onboard_time": 1711945585,
       "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1171738,
+      "num": 366078,
+      "word": "福宝用爪子扒拉了下爷爷",
+      "onboard_time": 1712278397,
+      "rank": 10,
       "category": "社会新闻"
     },
     {
@@ -1315,6 +1331,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 889270,
+      "num": 889270,
+      "word": "辅助生殖被纳入4省份医保",
+      "onboard_time": 1712245398,
+      "rank": 20,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 876023,
       "num": 566137,
       "word": "蔡徐坤ins",
@@ -1392,6 +1416,14 @@
       "word": "农业发展银行",
       "onboard_time": 1712132720,
       "rank": 36,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 852807,
+      "num": 852807,
+      "word": "姜爷爷回韩国了",
+      "onboard_time": 1712274315,
+      "rank": 3,
       "category": "社会新闻"
     },
     {
@@ -1779,14 +1811,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 710969,
-      "num": 710969,
-      "word": "辅助生殖被纳入4省份医保",
-      "onboard_time": 1712245398,
-      "rank": 20,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 709250,
       "num": 709250,
       "word": "赵小棠 生病了不是你的错",
@@ -1984,6 +2008,14 @@
       "word": "福宝还不满4岁不能谈恋爱",
       "onboard_time": 1712053341,
       "rank": 16,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 669406,
+      "num": 353463,
+      "word": "淘宝百亿补贴买到4瓶串码一样的茅台",
+      "onboard_time": 1712272995,
+      "rank": 31,
       "category": "社会新闻"
     },
     {
@@ -2193,6 +2225,14 @@
       "onboard_time": 1711894040,
       "rank": 6,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 635293,
+      "num": 635293,
+      "word": "甘肃拍到小鸟把彩虹披身上了",
+      "onboard_time": 1712274857,
+      "rank": 4,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 631928,
@@ -2531,6 +2571,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 570120,
+      "num": 570120,
+      "word": "何超莲为赌王扫墓",
+      "onboard_time": 1712272995,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 568561,
       "num": 568561,
       "word": "24岁我还不能和男朋友出去旅游",
@@ -2641,6 +2689,14 @@
       "onboard_time": 1712035520,
       "rank": 20,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 547670,
+      "num": 547670,
+      "word": "丈夫牺牲后警号由妻子重启",
+      "onboard_time": 1712276236,
+      "rank": 6,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 547459,
@@ -3121,6 +3177,14 @@
       "onboard_time": 1711975100,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 466822,
+      "num": 340815,
+      "word": "雷军 我的SU7",
+      "onboard_time": 1712278937,
+      "rank": 12,
+      "category": "汽车"
     },
     {
       "raw_hot": 466343,
@@ -3635,6 +3699,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 415678,
+      "num": 415678,
+      "word": "张艺兴将在韩国打歌",
+      "onboard_time": 1712278337,
+      "rank": 7,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 415659,
       "num": 415659,
       "word": "宋亚轩站姐发了肖战",
@@ -3761,6 +3833,14 @@
       "onboard_time": 1712159657,
       "rank": 18,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 397651,
+      "num": 332989,
+      "word": "男子扫墓后发烧竟因吸入霉菌",
+      "onboard_time": 1712276297,
+      "rank": 13,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 397327,
@@ -4009,6 +4089,22 @@
       "onboard_time": 1712043739,
       "rank": 18,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 374749,
+      "num": 374749,
+      "word": "十年后才知道朋友提前杀虫了",
+      "onboard_time": 1712235381,
+      "rank": 37,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 374674,
+      "num": 374674,
+      "word": "视力恢复手法",
+      "onboard_time": 1712274857,
+      "rank": 9,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 372958,
@@ -4459,14 +4555,6 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 328132,
-      "num": 328132,
-      "word": "十年后才知道朋友提前杀虫了",
-      "onboard_time": 1712235381,
-      "rank": 37,
-      "category": "情感"
-    },
-    {
       "raw_hot": 327945,
       "num": 327945,
       "word": "贝儿是长意妹妹",
@@ -4731,6 +4819,22 @@
       "category": "演出"
     },
     {
+      "raw_hot": 308433,
+      "num": 308433,
+      "word": "林更新喘息声",
+      "onboard_time": 1712240480,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 308115,
+      "num": 308115,
+      "word": "姜爷爷请放心福宝会好好的",
+      "onboard_time": 1712277138,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 308032,
       "num": 308032,
       "word": "花间令剧本写了十年",
@@ -4825,14 +4929,6 @@
       "onboard_time": 1711895360,
       "rank": 18,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 303697,
-      "num": 303697,
-      "word": "林更新喘息声",
-      "onboard_time": 1712240480,
-      "rank": 41,
-      "category": "剧集"
     },
     {
       "raw_hot": 302879,
@@ -5195,6 +5291,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 277821,
+      "num": 277821,
+      "word": "邓科配享太庙",
+      "onboard_time": 1712275756,
+      "rank": 19,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 277748,
       "num": 277748,
       "word": "韩国总统首次就医改寻求妥协",
@@ -5443,6 +5547,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 263660,
+      "num": 263660,
+      "word": "与凤行周峻纬出场",
+      "onboard_time": 1712276177,
+      "rank": 21,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 263407,
       "num": 263407,
       "word": "子宫生病的第一个信号就是异常出血",
@@ -5611,6 +5723,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 257867,
+      "num": 168684,
+      "word": "上戏偶遇林更新",
+      "onboard_time": 1712279116,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 257829,
       "num": 257829,
       "word": "陈乔恩明道二搭 王子变仇家",
@@ -5729,6 +5849,14 @@
       "onboard_time": 1711979722,
       "rank": 24,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 250344,
+      "num": 250344,
+      "word": "女子被撞大哭交警语气满是心疼",
+      "onboard_time": 1712278157,
+      "rank": 22,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 249536,
@@ -6331,6 +6459,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 227961,
+      "num": 227961,
+      "word": "青岛全面调查太平陵公墓问题",
+      "onboard_time": 1712278577,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 227755,
       "num": 227755,
       "word": "王者荣耀新赛季",
@@ -6523,6 +6659,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 220560,
+      "num": 220560,
+      "word": "林更新没有技巧就是硬帅",
+      "onboard_time": 1712262251,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 220496,
       "num": 220496,
       "word": "原神签到奖励",
@@ -6648,6 +6792,14 @@
       "word": "贵州长顺发生山火致3人死亡",
       "onboard_time": 1712035999,
       "rank": 48,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 217316,
+      "num": 217316,
+      "word": "浙江一男孩还在上小学就飙到1米91",
+      "onboard_time": 1712275817,
+      "rank": 25,
       "category": "社会新闻"
     },
     {
@@ -7003,6 +7155,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 205357,
+      "num": 205357,
+      "word": "减肥放弃自讨苦吃瘦了20斤",
+      "onboard_time": 1712273055,
+      "rank": 30,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 205250,
       "num": 205250,
       "word": "TF家族 高会",
@@ -7179,6 +7339,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 201726,
+      "num": 201726,
+      "word": "千万不要等年纪大了才去旅游",
+      "onboard_time": 1712278997,
+      "rank": 27,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 201663,
       "num": 201663,
       "word": "提灯定损事件当地应直面讹诈质疑",
@@ -7233,6 +7401,14 @@
       "onboard_time": 1711927816,
       "rank": 21,
       "category": "情感"
+    },
+    {
+      "raw_hot": 200584,
+      "num": 200584,
+      "word": "考研专业第一也要过品德这关",
+      "onboard_time": 1712274255,
+      "rank": 28,
+      "category": "教育"
     },
     {
       "raw_hot": 200326,
@@ -8707,14 +8883,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 169548,
-      "num": 169548,
-      "word": "何超莲为赌王扫墓",
-      "onboard_time": 1712272995,
-      "rank": 15,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 169412,
       "num": 169412,
       "word": "眼泪女王爆改在俊他妈",
@@ -8737,6 +8905,14 @@
       "onboard_time": 1711949240,
       "rank": 48,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 168938,
+      "num": 168938,
+      "word": "黄旭熙晒与粉丝大合照",
+      "onboard_time": 1712275996,
+      "rank": 29,
+      "category": "艺人"
     },
     {
       "raw_hot": 168930,
@@ -9243,6 +9419,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 157356,
+      "num": 134955,
+      "word": "猴子亲自给饭吃",
+      "onboard_time": 1712276117,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 157283,
       "num": 157283,
       "word": "建议打工人周末在公园待20分钟",
@@ -9465,14 +9649,6 @@
       "onboard_time": 1712149581,
       "rank": 49,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 152365,
-      "num": 76039,
-      "word": "减肥放弃自讨苦吃瘦了20斤",
-      "onboard_time": 1712273055,
-      "rank": 30,
-      "category": "运动健身"
     },
     {
       "raw_hot": 152350,
@@ -10067,14 +10243,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 139740,
-      "num": 139740,
-      "word": "林更新没有技巧就是硬帅",
-      "onboard_time": 1712262251,
-      "rank": 41,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 139083,
       "num": 139083,
       "word": "夏奇拉不喜欢芭比",
@@ -10291,6 +10459,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 135637,
+      "num": 135637,
+      "word": "赵一博40分钟的vlog",
+      "onboard_time": 1712277556,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 135620,
       "num": 135620,
       "word": "50元和1000元的瑜伽裤究竟有何差别",
@@ -10403,6 +10579,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 132762,
+      "num": 132762,
+      "word": "涵艺爆料被Tian起诉",
+      "onboard_time": 1712275155,
+      "rank": 35,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 132247,
       "num": 132247,
       "word": "兄弟你好香",
@@ -10449,6 +10633,14 @@
       "onboard_time": 1712099836,
       "rank": 33,
       "category": "情感"
+    },
+    {
+      "raw_hot": 131320,
+      "num": 131320,
+      "word": "惜花芷 一下来了四个菀菀",
+      "onboard_time": 1712277617,
+      "rank": 36,
+      "category": "剧集"
     },
     {
       "raw_hot": 131276,
@@ -10537,6 +10729,14 @@
       "onboard_time": 1712075117,
       "rank": 31,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 127029,
+      "num": 127029,
+      "word": "预计SU7最长需27周交付",
+      "onboard_time": 1712278877,
+      "rank": 37,
+      "category": "汽车"
     },
     {
       "raw_hot": 126719,
@@ -10633,6 +10833,14 @@
       "onboard_time": 1712129540,
       "rank": 48,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 124102,
+      "num": 124102,
+      "word": "最近发了疯想谈恋爱的别急",
+      "onboard_time": 1712274315,
+      "rank": 38,
+      "category": "情感"
     },
     {
       "raw_hot": 124093,
@@ -10771,14 +10979,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 117735,
-      "num": 117735,
-      "word": "陈泽扰民",
-      "onboard_time": 1712273233,
-      "rank": 23,
-      "category": "网红"
-    },
-    {
       "raw_hot": 117578,
       "num": 117578,
       "word": "谢楠 补充夸一下吴磊弟弟吧",
@@ -10817,14 +11017,6 @@
       "onboard_time": 1712062038,
       "rank": 47,
       "category": "数码"
-    },
-    {
-      "raw_hot": 116020,
-      "num": 75568,
-      "word": "淘宝百亿补贴买到4瓶串码一样的茅台",
-      "onboard_time": 1712272995,
-      "rank": 31,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 115883,
@@ -10896,6 +11088,14 @@
       "word": "只要狗不着地就能随便进",
       "onboard_time": 1712037618,
       "rank": 49,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 113529,
+      "num": 113529,
+      "word": "阿拉斯加走丢后在大街上大哭",
+      "onboard_time": 1712273473,
+      "rank": 39,
       "category": "情感"
     },
     {
@@ -11035,6 +11235,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 101175,
+      "num": 101175,
+      "word": "厦门打雷",
+      "onboard_time": 1712275397,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 100142,
       "num": 313016,
       "word": "成都惊现越狱熊猫",
@@ -11057,6 +11265,14 @@
       "onboard_time": 1712115621,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 99430,
+      "num": 99430,
+      "word": "当你翻看相册翻的太深时",
+      "onboard_time": 1712279478,
+      "rank": 47,
+      "category": "情感"
     },
     {
       "raw_hot": 98460,
@@ -11129,6 +11345,14 @@
       "onboard_time": 1712004069,
       "rank": 21,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 93966,
+      "num": 93966,
+      "word": "清明假期第2天",
+      "onboard_time": 1712274857,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 91813,
@@ -11419,14 +11643,6 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 58927,
-      "num": 58927,
-      "word": "阿拉斯加走丢后在大街上大哭",
-      "onboard_time": 1712273473,
-      "rank": 39,
-      "category": "情感"
-    },
-    {
       "raw_hot": 58418,
       "num": 58418,
       "word": "刘诗诗短发齐刘海旧照",
@@ -11659,6 +11875,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 42121,
+      "num": 858190,
+      "word": "清明版如愿致敬先辈",
+      "onboard_time": 1712234720,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 38776,
       "num": 38776,
       "word": "王劲松出演拜月教主",
@@ -11737,14 +11961,6 @@
       "onboard_time": 1712075896,
       "rank": 48,
       "category": "演出"
-    },
-    {
-      "raw_hot": 31160,
-      "num": 832596,
-      "word": "清明版如愿致敬先辈",
-      "onboard_time": 1712234720,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 30044,
