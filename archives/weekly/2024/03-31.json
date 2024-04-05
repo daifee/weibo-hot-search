@@ -1,6 +1,6 @@
 {
   "startTime": 1711815680412,
-  "endTime": 1712331249451,
+  "endTime": 1712334193790,
   "band_list": [
     {
       "raw_hot": 16874674,
@@ -1859,6 +1859,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 825246,
+      "num": 825246,
+      "word": "过度省钱后觉得生活没意思了",
+      "onboard_time": 1712327359,
+      "rank": 32,
+      "category": "情感"
+    },
+    {
       "raw_hot": 824314,
       "num": 824314,
       "word": "陈震回应删除与雷军合照",
@@ -1969,6 +1977,14 @@
       "onboard_time": 1712111241,
       "rank": 21,
       "category": "互联网,汽车"
+    },
+    {
+      "raw_hot": 799089,
+      "num": 799089,
+      "word": "前夫殴打10岁女儿女子忍痛拍下取证",
+      "onboard_time": 1712329340,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 798628,
@@ -3091,6 +3107,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 607566,
+      "num": 607566,
+      "word": "IU唱告五人的唯一",
+      "onboard_time": 1712329999,
+      "rank": 22,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 606933,
       "num": 606933,
       "word": "追风者 拿奖",
@@ -4211,6 +4235,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 483732,
+      "num": 483732,
+      "word": "李沁高定",
+      "onboard_time": 1712332519,
+      "rank": 10,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 483022,
       "num": 483022,
       "word": "谢娜拍的张杰",
@@ -4257,14 +4289,6 @@
       "onboard_time": 1712130260,
       "rank": 13,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 477710,
-      "num": 305807,
-      "word": "IU唱告五人的唯一",
-      "onboard_time": 1712329999,
-      "rank": 22,
-      "category": "音乐"
     },
     {
       "raw_hot": 477512,
@@ -5089,14 +5113,6 @@
       "onboard_time": 1712186355,
       "rank": 9,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 413712,
-      "num": 413712,
-      "word": "过度省钱后觉得生活没意思了",
-      "onboard_time": 1712327359,
-      "rank": 32,
-      "category": "情感"
     },
     {
       "raw_hot": 413441,
@@ -6915,6 +6931,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 299076,
+      "num": 299076,
+      "word": "王力宏临沂",
+      "onboard_time": 1712330179,
+      "rank": 46,
+      "category": "演出"
+    },
+    {
       "raw_hot": 298682,
       "num": 262419,
       "word": "金智媛ins更新",
@@ -6944,6 +6968,14 @@
       "word": "男朋友妈妈叫我把微信头像换掉",
       "onboard_time": 1711879939,
       "rank": 25,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 296521,
+      "num": 296521,
+      "word": "读研后多了很多朴素的愿望",
+      "onboard_time": 1712330898,
+      "rank": 39,
       "category": "情感"
     },
     {
@@ -8561,14 +8593,6 @@
       "onboard_time": 1711932500,
       "rank": 26,
       "category": "美食"
-    },
-    {
-      "raw_hot": 239231,
-      "num": 239231,
-      "word": "王力宏临沂",
-      "onboard_time": 1712330179,
-      "rank": 46,
-      "category": "演出"
     },
     {
       "raw_hot": 239158,
@@ -11819,14 +11843,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 179712,
-      "num": 179712,
-      "word": "前夫殴打10岁女儿女子忍痛拍下取证",
-      "onboard_time": 1712329340,
-      "rank": 37,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 179621,
       "num": 179621,
       "word": "霉霉眼中的自己vs实际上的",
@@ -11905,14 +11921,6 @@
       "onboard_time": 1712074876,
       "rank": 47,
       "category": "电影"
-    },
-    {
-      "raw_hot": 178917,
-      "num": 178917,
-      "word": "读研后多了很多朴素的愿望",
-      "onboard_time": 1712330898,
-      "rank": 39,
-      "category": "情感"
     },
     {
       "raw_hot": 178847,
@@ -12921,6 +12929,14 @@
       "onboard_time": 1711859597,
       "rank": 48,
       "category": "电影"
+    },
+    {
+      "raw_hot": 160776,
+      "num": 160776,
+      "word": "身体在变老的10个迹象",
+      "onboard_time": 1712332216,
+      "rank": 32,
+      "category": "科学科普"
     },
     {
       "raw_hot": 160730,
@@ -15859,6 +15875,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 109164,
+      "num": 109164,
+      "word": "马里亚纳群岛附近发生6.8级左右地震",
+      "onboard_time": 1712332216,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 109150,
       "num": 109150,
       "word": "徐明浩脱力",
@@ -16033,6 +16057,14 @@
       "onboard_time": 1712279478,
       "rank": 47,
       "category": "情感"
+    },
+    {
+      "raw_hot": 98767,
+      "num": 98767,
+      "word": "5个延缓衰老技巧",
+      "onboard_time": 1712333356,
+      "rank": 48,
+      "category": "科学科普"
     },
     {
       "raw_hot": 98460,
