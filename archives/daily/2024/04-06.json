@@ -1,6 +1,6 @@
 {
   "startTime": 1712334193790,
-  "endTime": 1712341294604,
+  "endTime": 1712342372741,
   "band_list": [
     {
       "raw_hot": 833945,
@@ -323,6 +323,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 116865,
+      "num": 116865,
+      "word": "三大运营商回应注销手机号",
+      "onboard_time": 1712339653,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 115832,
       "num": 115832,
       "word": "这一段是曾黎本色出演吧",
@@ -435,12 +443,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 67874,
-      "num": 67874,
-      "word": "三大运营商回应注销手机号",
-      "onboard_time": 1712339653,
-      "rank": 25,
-      "category": "社会新闻"
+      "raw_hot": 62440,
+      "num": 62440,
+      "word": "芒果与凤行AI婚礼圆满了",
+      "onboard_time": 1712342052,
+      "rank": 23,
+      "category": "剧集"
     },
     {
       "raw_hot": 60653,
