@@ -1,0 +1,410 @@
+{
+  "runTime": 1712312377392,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1565653,
+        "num": 1565653,
+        "word": "香港发现首例人类感染猴疱疹病毒",
+        "onboard_time": 1712307258,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 970397,
+        "num": 970397,
+        "word": "注销手机号等于出卖自己",
+        "onboard_time": 1712288598,
+        "rank": 1,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 271779,
+        "num": 830470,
+        "word": "中国籍抗日航空英烈名录首次公布",
+        "onboard_time": 1712308278,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 819534,
+        "num": 819534,
+        "word": "10086回应注销手机号等于出卖自己",
+        "onboard_time": 1712306839,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 736382,
+        "num": 736382,
+        "word": "暧昧过后没在一起才是绝杀",
+        "onboard_time": 1712310077,
+        "rank": 4,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 541681,
+        "num": 541681,
+        "word": "周冬雨素颜照 韩国",
+        "onboard_time": 1712304978,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 534963,
+        "num": 534963,
+        "word": "赵露思有新狗了",
+        "onboard_time": 1712311819,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 518839,
+        "num": 518839,
+        "word": "未来婆婆给的红包是百里挑一",
+        "onboard_time": 1712307857,
+        "rank": 7,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 83982,
+        "num": 511977,
+        "word": "课本中的春天",
+        "onboard_time": 1712310679,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 234957,
+        "num": 510467,
+        "word": "30秒看福宝入住圈舍长啥样",
+        "onboard_time": 1712308697,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 509604,
+        "num": 509604,
+        "word": "欧豪确实是神",
+        "onboard_time": 1712310679,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 481037,
+        "num": 481037,
+        "word": "胖东来今年将安排全员出国游",
+        "onboard_time": 1712307678,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 414689,
+        "num": 414689,
+        "word": "张颂文方回应照片被婚恋网盗用",
+        "onboard_time": 1712310798,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 402420,
+        "num": 402420,
+        "word": "黄晓明当着林更新的面咯咯哒",
+        "onboard_time": 1712296576,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 380775,
+        "num": 380775,
+        "word": "我发现一个买了无座的孕妇",
+        "onboard_time": 1712305278,
+        "rank": 14,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 379402,
+        "num": 379402,
+        "word": "被同学灌开水男生已治愈出院",
+        "onboard_time": 1712303357,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 366185,
+        "num": 366185,
+        "word": "哥斯拉臀部翘到顶起一个金刚",
+        "onboard_time": 1712301438,
+        "rank": 16,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 318528,
+        "num": 318528,
+        "word": "与凤行",
+        "onboard_time": 1712309778,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 281419,
+        "num": 281419,
+        "word": "ILLIT",
+        "onboard_time": 1712311698,
+        "rank": 18,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 266548,
+        "num": 266548,
+        "word": "雷军送张颂文的SU7真车现身",
+        "onboard_time": 1712285837,
+        "rank": 19,
+        "category": "汽车,艺人"
+      },
+      {
+        "raw_hot": 417963,
+        "num": 266443,
+        "word": "怀孕同事想每天坐我的车回家",
+        "onboard_time": 1712307378,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 349089,
+        "num": 266442,
+        "word": "男朋友说金价太高结婚时不买三金",
+        "onboard_time": 1712307498,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 265136,
+        "num": 265136,
+        "word": "福宝用爪子扒拉了下爷爷",
+        "onboard_time": 1712278397,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 248400,
+        "num": 248400,
+        "word": "李现镜头畸变下的颜值",
+        "onboard_time": 1712302037,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 247526,
+        "num": 247526,
+        "word": "红发杨幂",
+        "onboard_time": 1712305217,
+        "rank": 24,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 241612,
+        "num": 241612,
+        "word": "胖东来维权声明",
+        "onboard_time": 1712310978,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 230025,
+        "num": 230025,
+        "word": "在日本买了套老破小后想哭",
+        "onboard_time": 1712308938,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 199622,
+        "num": 199622,
+        "word": "恋爱是不是只存在于21岁",
+        "onboard_time": 1712304858,
+        "rank": 27,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 197380,
+        "num": 197380,
+        "word": "Doinb回归",
+        "onboard_time": 1712298137,
+        "rank": 28,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 186687,
+        "num": 186687,
+        "word": "宋雨琦新歌",
+        "onboard_time": 1712310439,
+        "rank": 29,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 224566,
+        "num": 186664,
+        "word": "Doinb复播首秀邀请wink",
+        "onboard_time": 1712311519,
+        "rank": 30,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 186604,
+        "num": 186604,
+        "word": "哥斯拉 你们真是饿了",
+        "onboard_time": 1712311578,
+        "rank": 31,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 184278,
+        "num": 184278,
+        "word": "为什么现在没人穿Kappa了",
+        "onboard_time": 1712297956,
+        "rank": 32,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 175335,
+        "num": 175335,
+        "word": "高跟鞋为什么被女性们抛弃",
+        "onboard_time": 1712292497,
+        "rank": 33,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 173102,
+        "num": 173102,
+        "word": "钟楚曦夹起来了",
+        "onboard_time": 1712308998,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 165192,
+        "num": 165192,
+        "word": "做CT原来是把小猫做成罐头",
+        "onboard_time": 1712310139,
+        "rank": 35,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 161153,
+        "num": 161153,
+        "word": "长春亚泰1比2上海申花",
+        "onboard_time": 1712311578,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 154704,
+        "num": 154704,
+        "word": "成都迪士尼",
+        "onboard_time": 1712282418,
+        "rank": 37,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 152733,
+        "num": 152733,
+        "word": "福宝未来的家长啥样",
+        "onboard_time": 1712304198,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 150532,
+        "num": 150532,
+        "word": "父母的爱是一场得体的退出",
+        "onboard_time": 1712311698,
+        "rank": 39,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 149431,
+        "num": 149431,
+        "word": "这才是恋爱真正的感觉吧",
+        "onboard_time": 1712311939,
+        "rank": 40,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 149074,
+        "num": 149074,
+        "word": "多地小区出现骨灰房",
+        "onboard_time": 1712292377,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 140825,
+        "num": 140825,
+        "word": "身体不好别去留学",
+        "onboard_time": 1712301317,
+        "rank": 42,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 137286,
+        "num": 137286,
+        "word": "Doinb给baolan发消息",
+        "onboard_time": 1712308160,
+        "rank": 43,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 135803,
+        "num": 135803,
+        "word": "gidle FATE5人版cha",
+        "onboard_time": 1712311279,
+        "rank": 44,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 129491,
+        "num": 129491,
+        "word": "张元英转圈 动捕",
+        "onboard_time": 1712295317,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 126712,
+        "num": 126712,
+        "word": "王一博 魏若来来了",
+        "onboard_time": 1712307017,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 126519,
+        "num": 126519,
+        "word": "电影是假的他们是真的",
+        "onboard_time": 1712309418,
+        "rank": 47,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 123012,
+        "num": 123012,
+        "word": "粉丝17秒偷看吴磊8次后续",
+        "onboard_time": 1712300118,
+        "rank": 48,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 119176,
+        "num": 119176,
+        "word": "终于有人懂我养小猴的快乐",
+        "onboard_time": 1712312299,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#家国永念致敬英雄#"
+    }
+  }
+}

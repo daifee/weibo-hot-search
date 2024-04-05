@@ -1,6 +1,6 @@
 {
   "startTime": 1711902044401,
-  "endTime": 1712309656696,
+  "endTime": 1712312377392,
   "band_list": [
     {
       "raw_hot": 16874674,
@@ -483,6 +483,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 1565653,
+      "num": 1565653,
+      "word": "香港发现首例人类感染猴疱疹病毒",
+      "onboard_time": 1712307258,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1551813,
       "num": 1551813,
       "word": "各大平台禁止售卖分装化妆品",
@@ -761,14 +769,6 @@
       "onboard_time": 1712150661,
       "rank": 18,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 1275006,
-      "num": 1275006,
-      "word": "香港发现首例人类感染猴疱疹病毒",
-      "onboard_time": 1712307258,
-      "rank": 4,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1266004,
@@ -1825,6 +1825,14 @@
       "onboard_time": 1712241981,
       "rank": 4,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 736382,
+      "num": 736382,
+      "word": "暧昧过后没在一起才是绝杀",
+      "onboard_time": 1712310077,
+      "rank": 4,
+      "category": "情感"
     },
     {
       "raw_hot": 736160,
@@ -3011,6 +3019,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 534963,
+      "num": 534963,
+      "word": "赵露思有新狗了",
+      "onboard_time": 1712311819,
+      "rank": 6,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 534298,
       "num": 534298,
       "word": "王俊凯直播",
@@ -3131,6 +3147,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 518839,
+      "num": 518839,
+      "word": "未来婆婆给的红包是百里挑一",
+      "onboard_time": 1712307857,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 518449,
       "num": 518449,
       "word": "王者荣耀妲己 无双返场",
@@ -3217,6 +3241,14 @@
       "onboard_time": 1712148560,
       "rank": 12,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 509604,
+      "num": 509604,
+      "word": "欧豪确实是神",
+      "onboard_time": 1712310679,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 509078,
@@ -3361,6 +3393,14 @@
       "onboard_time": 1712185935,
       "rank": 24,
       "category": "情感"
+    },
+    {
+      "raw_hot": 481037,
+      "num": 481037,
+      "word": "胖东来今年将安排全员出国游",
+      "onboard_time": 1712307678,
+      "rank": 22,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 479382,
@@ -3883,14 +3923,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 427259,
-      "num": 427259,
-      "word": "未来婆婆给的红包是百里挑一",
-      "onboard_time": 1712307857,
-      "rank": 30,
-      "category": "情感"
-    },
-    {
       "raw_hot": 426766,
       "num": 426766,
       "word": "杨幂美人鱼表白",
@@ -4040,6 +4072,14 @@
       "word": "宋亚轩站姐发了肖战",
       "onboard_time": 1711938379,
       "rank": 24,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 414689,
+      "num": 414689,
+      "word": "张颂文方回应照片被婚恋网盗用",
+      "onboard_time": 1712310798,
+      "rank": 12,
       "category": "艺人"
     },
     {
@@ -4537,14 +4577,6 @@
       "onboard_time": 1712292497,
       "rank": 23,
       "category": "时尚"
-    },
-    {
-      "raw_hot": 369576,
-      "num": 369576,
-      "word": "胖东来今年将安排全员出国游",
-      "onboard_time": 1712307678,
-      "rank": 22,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 368929,
@@ -5121,6 +5153,14 @@
       "onboard_time": 1712139560,
       "rank": 45,
       "category": "情感"
+    },
+    {
+      "raw_hot": 318528,
+      "num": 318528,
+      "word": "与凤行",
+      "onboard_time": 1712036719,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 317781,
@@ -5747,6 +5787,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 281419,
+      "num": 281419,
+      "word": "ILLIT",
+      "onboard_time": 1712311698,
+      "rank": 18,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 281212,
       "num": 281212,
       "word": "张杰海南新公司成立",
@@ -5913,6 +5961,14 @@
       "onboard_time": 1712038818,
       "rank": 22,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 271779,
+      "num": 936274,
+      "word": "中国籍抗日航空英烈名录首次公布",
+      "onboard_time": 1712308278,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 270747,
@@ -6635,6 +6691,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 241612,
+      "num": 241612,
+      "word": "胖东来维权声明",
+      "onboard_time": 1712310978,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 241461,
       "num": 241461,
       "word": "徐帆女儿气质",
@@ -6827,6 +6891,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 234957,
+      "num": 510467,
+      "word": "30秒看福宝入住圈舍长啥样",
+      "onboard_time": 1712308697,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 234027,
       "num": 234027,
       "word": "LNG对战WBG",
@@ -6947,6 +7019,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 230025,
+      "num": 230025,
+      "word": "在日本买了套老破小后想哭",
+      "onboard_time": 1712308938,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 229792,
       "num": 229792,
       "word": "美方要求耶伦就餐时大厅打开隔断",
@@ -7035,14 +7115,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 227743,
-      "num": 936274,
-      "word": "中国籍抗日航空英烈名录首次公布",
-      "onboard_time": 1712308278,
-      "rank": 2,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 227719,
       "num": 227719,
       "word": "于正谈不结婚的原因",
@@ -7113,6 +7185,14 @@
       "onboard_time": 1711945704,
       "rank": 41,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 224566,
+      "num": 186664,
+      "word": "Doinb复播首秀邀请wink",
+      "onboard_time": 1712311519,
+      "rank": 30,
+      "category": "电竞"
     },
     {
       "raw_hot": 224085,
@@ -7409,14 +7489,6 @@
       "onboard_time": 1712292497,
       "rank": 42,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 215775,
-      "num": 215775,
-      "word": "与凤行",
-      "onboard_time": 1712036719,
-      "rank": 47,
-      "category": "剧集"
     },
     {
       "raw_hot": 215285,
@@ -8875,6 +8947,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 186687,
+      "num": 186687,
+      "word": "宋雨琦新歌",
+      "onboard_time": 1712310439,
+      "rank": 29,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 186667,
       "num": 186667,
       "word": "孙颖莎8个有效积分全是冠军",
@@ -8889,6 +8969,14 @@
       "onboard_time": 1712114842,
       "rank": 40,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 186604,
+      "num": 186604,
+      "word": "哥斯拉 你们真是饿了",
+      "onboard_time": 1712311578,
+      "rank": 31,
+      "category": "电影"
     },
     {
       "raw_hot": 186555,
@@ -9827,6 +9915,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 165192,
+      "num": 165192,
+      "word": "做CT原来是把小猫做成罐头",
+      "onboard_time": 1712310139,
+      "rank": 35,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 165186,
       "num": 165186,
       "word": "清明时节雨纷纷",
@@ -10019,6 +10115,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 161153,
+      "num": 161153,
+      "word": "长春亚泰1比2上海申花",
+      "onboard_time": 1712311578,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 161115,
       "num": 1342361,
       "word": "强对流天气应该如何避险",
@@ -10081,14 +10185,6 @@
       "onboard_time": 1712197758,
       "rank": 44,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 159887,
-      "num": 159887,
-      "word": "在日本买了套老破小后想哭",
-      "onboard_time": 1712308938,
-      "rank": 39,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 159745,
@@ -10651,6 +10747,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 150532,
+      "num": 150532,
+      "word": "父母的爱是一场得体的退出",
+      "onboard_time": 1712311698,
+      "rank": 39,
+      "category": "情感"
+    },
+    {
       "raw_hot": 150461,
       "num": 150461,
       "word": "湖人",
@@ -10729,6 +10833,14 @@
       "onboard_time": 1712053400,
       "rank": 38,
       "category": "教育"
+    },
+    {
+      "raw_hot": 149431,
+      "num": 149431,
+      "word": "这才是恋爱真正的感觉吧",
+      "onboard_time": 1712311939,
+      "rank": 40,
+      "category": "情感"
     },
     {
       "raw_hot": 148997,
@@ -11467,6 +11579,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 135803,
+      "num": 135803,
+      "word": "gidle FATE5人版cha",
+      "onboard_time": 1712311279,
+      "rank": 44,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 135695,
       "num": 135695,
       "word": "你觉得婚前同居重要吗",
@@ -12027,6 +12147,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 119176,
+      "num": 119176,
+      "word": "终于有人懂我养小猴的快乐",
+      "onboard_time": 1712312299,
+      "rank": 49,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 119058,
       "num": 457538,
       "word": "首批车主已经提到小米SU7",
@@ -12515,14 +12643,6 @@
       "category": "财经,汽车"
     },
     {
-      "raw_hot": 91720,
-      "num": 192334,
-      "word": "30秒看福宝入住圈舍长啥样",
-      "onboard_time": 1712308697,
-      "rank": 29,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 90771,
       "num": 90771,
       "word": "黄磊黄渤张艺兴面馆一起吃面",
@@ -12544,6 +12664,14 @@
       "word": "家国永念致敬英雄",
       "onboard_time": 1712155580,
       "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 83982,
+      "num": 511977,
+      "word": "课本中的春天",
+      "onboard_time": 1712310679,
+      "rank": 8,
       "category": "社会新闻"
     },
     {
