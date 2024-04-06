@@ -1,0 +1,410 @@
+{
+  "runTime": 1712406576802,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1524772,
+        "num": 1524772,
+        "word": "千万不要买樱花味食物",
+        "onboard_time": 1712398877,
+        "rank": 0,
+        "category": "美食,幽默"
+      },
+      {
+        "raw_hot": 1205794,
+        "num": 1205794,
+        "word": "沈近真下线",
+        "onboard_time": 1712400798,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 62749,
+        "num": 1088950,
+        "word": "假期返程安全行车攻略",
+        "onboard_time": 1712394318,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1029238,
+        "num": 1029238,
+        "word": "林更新回应和赵丽颖三搭",
+        "onboard_time": 1712399777,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 795284,
+        "num": 795284,
+        "word": "天水真的有一亿人",
+        "onboard_time": 1712401038,
+        "rank": 4,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 619396,
+        "num": 619396,
+        "word": "放假三天躺了三天",
+        "onboard_time": 1712398877,
+        "rank": 5,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 596458,
+        "num": 596458,
+        "word": "男孩做阑尾切除术5年后阑尾还在",
+        "onboard_time": 1712403618,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 534729,
+        "num": 534729,
+        "word": "孙亚龙进抢救室",
+        "onboard_time": 1712397017,
+        "rank": 7,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 477176,
+        "num": 477176,
+        "word": "与凤行本质上是一个弑神的故事",
+        "onboard_time": 1712402539,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 244877,
+        "num": 469115,
+        "word": "54岁老板当主播日进百万",
+        "onboard_time": 1712397017,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 621603,
+        "num": 468672,
+        "word": "兰大回应虐猫考生进调剂名单",
+        "onboard_time": 1712391978,
+        "rank": 10,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 465759,
+        "num": 465759,
+        "word": "申有娜吃着火锅听中国人讲八卦",
+        "onboard_time": 1712404818,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 389262,
+        "num": 389262,
+        "word": "IU演唱会",
+        "onboard_time": 1712405058,
+        "rank": 12,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 378750,
+        "num": 378750,
+        "word": "林更新与凤行杀青哭成狗",
+        "onboard_time": 1712385498,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 371031,
+        "num": 371031,
+        "word": "种地吧后陡门58号草莓首吃",
+        "onboard_time": 1712401459,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 366806,
+        "num": 366806,
+        "word": "外科专家插吸管",
+        "onboard_time": 1712402119,
+        "rank": 15,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 361227,
+        "num": 361227,
+        "word": "王俊凯已进组",
+        "onboard_time": 1712404218,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 346206,
+        "num": 346206,
+        "word": "复活沈近真",
+        "onboard_time": 1712405718,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 340710,
+        "num": 340710,
+        "word": "论文重复率越改越高真的太痛苦了",
+        "onboard_time": 1712398757,
+        "rank": 18,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 222214,
+        "num": 334120,
+        "word": "清明假期国内游客出游花费539.5亿元",
+        "onboard_time": 1712404698,
+        "rank": 19,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 622428,
+        "num": 331535,
+        "word": "日本天皇独生女成为月薪7千的打工人",
+        "onboard_time": 1712403077,
+        "rank": 20,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 327906,
+        "num": 327906,
+        "word": "赵奕欢看穿纪凌尘",
+        "onboard_time": 1712395517,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 318765,
+        "num": 318765,
+        "word": "考上研发现自己被家里长辈屏蔽了",
+        "onboard_time": 1712403197,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 304925,
+        "num": 304925,
+        "word": "果然上班久了人会变恶毒",
+        "onboard_time": 1712401159,
+        "rank": 23,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 244825,
+        "num": 244825,
+        "word": "女生肝脏不好的八大表现",
+        "onboard_time": 1712397496,
+        "rank": 24,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 240823,
+        "num": 240823,
+        "word": "为什么父母总把亲戚看得很重",
+        "onboard_time": 1712405478,
+        "rank": 25,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 235084,
+        "num": 235084,
+        "word": "林更新7天涨粉31万",
+        "onboard_time": 1712400319,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 219987,
+        "num": 219987,
+        "word": "Doinb回应复播",
+        "onboard_time": 1712400738,
+        "rank": 27,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 206712,
+        "num": 206712,
+        "word": "范丞丞工作室回应争议",
+        "onboard_time": 1712389938,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 140696,
+        "num": 205985,
+        "word": "梅西赛后走进对手更衣室大声喊叫",
+        "onboard_time": 1712395278,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 205875,
+        "num": 205875,
+        "word": "徐海乔有效客串",
+        "onboard_time": 1712395337,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 202715,
+        "num": 202715,
+        "word": "赵丽颖好爱她的每一个角色",
+        "onboard_time": 1712392818,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 192904,
+        "num": 192904,
+        "word": "黑眼圈的出现是身体发出的暗示",
+        "onboard_time": 1712403197,
+        "rank": 32,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 191304,
+        "num": 191304,
+        "word": "王心凌北京演唱会",
+        "onboard_time": 1712406139,
+        "rank": 33,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 181461,
+        "num": 181461,
+        "word": "黄晓明 反向综艺感的神",
+        "onboard_time": 1712405538,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 179897,
+        "num": 179897,
+        "word": "甘草片和红药水为什么买不到了",
+        "onboard_time": 1712392878,
+        "rank": 35,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 173691,
+        "num": 173691,
+        "word": "拂容君望向沈璃的眼神",
+        "onboard_time": 1712404158,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 172679,
+        "num": 172679,
+        "word": "王俊凯直播",
+        "onboard_time": 1712403798,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 167747,
+        "num": 167747,
+        "word": "带孩子出去玩结果和闺蜜绝交了",
+        "onboard_time": 1712403378,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 126014,
+        "num": 166546,
+        "word": "天津男篮vs广东男篮",
+        "onboard_time": 1712405957,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 165620,
+        "num": 165620,
+        "word": "创造营亚洲",
+        "onboard_time": 1712406378,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 161594,
+        "num": 161594,
+        "word": "追风者",
+        "onboard_time": 1712401819,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 154822,
+        "num": 154822,
+        "word": "李健广州演唱会",
+        "onboard_time": 1712406557,
+        "rank": 42,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 152986,
+        "num": 152986,
+        "word": "创造营首个海外女团出道",
+        "onboard_time": 1712397378,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 144459,
+        "num": 144459,
+        "word": "吴宣仪认证自己很姬",
+        "onboard_time": 1712383217,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 143006,
+        "num": 143006,
+        "word": "薛之谦杭州不登游船登飞船",
+        "onboard_time": 1712405239,
+        "rank": 45,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 142614,
+        "num": 142614,
+        "word": "林樵松怎么还不死",
+        "onboard_time": 1712406557,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 134855,
+        "num": 134855,
+        "word": "每次相亲都感觉自己在面试",
+        "onboard_time": 1712401938,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 99645,
+        "num": 133083,
+        "word": "中国海警回应菲律宾侵闯鲎藤礁",
+        "onboard_time": 1712398578,
+        "rank": 48,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 86510,
+        "num": 132634,
+        "word": "考上上海研究生却开心不起来",
+        "onboard_time": 1712387718,
+        "rank": 49,
+        "category": "教育"
+      }
+    ],
+    "hotgov": {
+      "word": "#加快构建以先进制造业为支撑的现代化产业体系#"
+    }
+  }
+}

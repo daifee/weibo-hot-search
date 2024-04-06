@@ -1,6 +1,6 @@
 {
   "startTime": 1711815680412,
-  "endTime": 1712403238800,
+  "endTime": 1712406576802,
   "band_list": [
     {
       "raw_hot": 16874674,
@@ -2211,6 +2211,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 795284,
+      "num": 795284,
+      "word": "天水真的有一亿人",
+      "onboard_time": 1712401038,
+      "rank": 26,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 792888,
       "num": 792888,
       "word": "babymonster直播",
@@ -3235,6 +3243,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 622428,
+      "num": 331535,
+      "word": "日本天皇独生女成为月薪7千的打工人",
+      "onboard_time": 1712403077,
+      "rank": 49,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 622262,
       "num": 622262,
       "word": "伊朗将果断回应以色列行动",
@@ -3489,6 +3505,14 @@
       "onboard_time": 1711888218,
       "rank": 17,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 596458,
+      "num": 596458,
+      "word": "男孩做阑尾切除术5年后阑尾还在",
+      "onboard_time": 1712403618,
+      "rank": 6,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 596436,
@@ -4739,6 +4763,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 477176,
+      "num": 477176,
+      "word": "与凤行本质上是一个弑神的故事",
+      "onboard_time": 1712402539,
+      "rank": 22,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 476912,
       "num": 476912,
       "word": "台湾花莲强震已致9人死亡1038人受伤",
@@ -4881,6 +4913,14 @@
       "onboard_time": 1712107105,
       "rank": 25,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 465759,
+      "num": 465759,
+      "word": "申有娜吃着火锅听中国人讲八卦",
+      "onboard_time": 1712404818,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 465637,
@@ -5979,6 +6019,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 389262,
+      "num": 389262,
+      "word": "IU演唱会",
+      "onboard_time": 1712405058,
+      "rank": 12,
+      "category": "演出"
+    },
+    {
       "raw_hot": 388668,
       "num": 245248,
       "word": "男朋友帮陌生女孩挡了一路姨妈渍",
@@ -6323,6 +6371,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 371031,
+      "num": 371031,
+      "word": "种地吧后陡门58号草莓首吃",
+      "onboard_time": 1712401459,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 370111,
       "num": 370111,
       "word": "与凤行团建定档",
@@ -6345,6 +6401,14 @@
       "onboard_time": 1711952241,
       "rank": 32,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 366806,
+      "num": 366806,
+      "word": "外科专家插吸管",
+      "onboard_time": 1712402119,
+      "rank": 30,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 366747,
@@ -6457,6 +6521,14 @@
       "onboard_time": 1712222237,
       "rank": 49,
       "category": "美食"
+    },
+    {
+      "raw_hot": 361227,
+      "num": 361227,
+      "word": "王俊凯已进组",
+      "onboard_time": 1712404218,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 360220,
@@ -6667,6 +6739,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 346206,
+      "num": 346206,
+      "word": "复活沈近真",
+      "onboard_time": 1712405718,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 346095,
       "num": 329741,
       "word": "白鹿簪花妆",
@@ -6681,14 +6761,6 @@
       "onboard_time": 1712323520,
       "rank": 17,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 345783,
-      "num": 345783,
-      "word": "天水真的有一亿人",
-      "onboard_time": 1712401038,
-      "rank": 26,
-      "category": "旅游"
     },
     {
       "raw_hot": 345074,
@@ -7108,7 +7180,7 @@
     },
     {
       "raw_hot": 321615,
-      "num": 267077,
+      "num": 304925,
       "word": "果然上班久了人会变恶毒",
       "onboard_time": 1712401159,
       "rank": 25,
@@ -7137,6 +7209,14 @@
       "onboard_time": 1712294897,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 318765,
+      "num": 318765,
+      "word": "考上研发现自己被家里长辈屏蔽了",
+      "onboard_time": 1712403197,
+      "rank": 35,
+      "category": "情感"
     },
     {
       "raw_hot": 318752,
@@ -8483,14 +8563,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 266683,
-      "num": 266683,
-      "word": "与凤行本质上是一个弑神的故事",
-      "onboard_time": 1712402539,
-      "rank": 22,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 266135,
       "num": 266135,
       "word": "凯迪拉克回应海报暗讽小米SU7",
@@ -8793,14 +8865,6 @@
       "onboard_time": 1712153123,
       "rank": 30,
       "category": "电影"
-    },
-    {
-      "raw_hot": 257793,
-      "num": 257793,
-      "word": "种地吧后陡门58号草莓首吃",
-      "onboard_time": 1712401459,
-      "rank": 31,
-      "category": "综艺"
     },
     {
       "raw_hot": 257165,
@@ -9369,6 +9433,14 @@
       "onboard_time": 1712036299,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 240823,
+      "num": 240823,
+      "word": "为什么父母总把亲戚看得很重",
+      "onboard_time": 1712405478,
+      "rank": 25,
+      "category": "情感"
     },
     {
       "raw_hot": 240678,
@@ -10163,6 +10235,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 222214,
+      "num": 334120,
+      "word": "清明假期国内游客出游花费539.5亿元",
+      "onboard_time": 1712404698,
+      "rank": 19,
+      "category": "社会新闻,旅游"
+    },
+    {
       "raw_hot": 222185,
       "num": 222185,
       "word": "法国张震",
@@ -10425,14 +10505,6 @@
       "onboard_time": 1712047158,
       "rank": 31,
       "category": "演出"
-    },
-    {
-      "raw_hot": 216813,
-      "num": 187920,
-      "word": "外科专家插吸管",
-      "onboard_time": 1712402119,
-      "rank": 30,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 216633,
@@ -11947,6 +12019,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 192904,
+      "num": 192904,
+      "word": "黑眼圈的出现是身体发出的暗示",
+      "onboard_time": 1712403197,
+      "rank": 45,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 192807,
       "num": 192807,
       "word": "深夜看见这种诡异蓝光请立刻报警",
@@ -12121,6 +12201,14 @@
       "onboard_time": 1712380639,
       "rank": 34,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 191304,
+      "num": 191304,
+      "word": "王心凌北京演唱会",
+      "onboard_time": 1712406139,
+      "rank": 33,
+      "category": "演出"
     },
     {
       "raw_hot": 191079,
@@ -12867,6 +12955,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 181461,
+      "num": 181461,
+      "word": "黄晓明 反向综艺感的神",
+      "onboard_time": 1712405538,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 181412,
       "num": 181412,
       "word": "宋雨琦solo行程表",
@@ -13339,14 +13435,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 174613,
-      "num": 174613,
-      "word": "考上研发现自己被家里长辈屏蔽了",
-      "onboard_time": 1712403197,
-      "rank": 35,
-      "category": "情感"
-    },
-    {
       "raw_hot": 174411,
       "num": 174411,
       "word": "isfp好像很喜欢奖励自己",
@@ -13417,6 +13505,14 @@
       "onboard_time": 1712071459,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 173691,
+      "num": 173691,
+      "word": "拂容君望向沈璃的眼神",
+      "onboard_time": 1712404158,
+      "rank": 36,
+      "category": "剧集"
     },
     {
       "raw_hot": 173046,
@@ -13731,6 +13827,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 167747,
+      "num": 167747,
+      "word": "带孩子出去玩结果和闺蜜绝交了",
+      "onboard_time": 1712403378,
+      "rank": 38,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 167430,
       "num": 167430,
       "word": "双子座迷人的反差感",
@@ -13905,6 +14009,14 @@
       "onboard_time": 1711895121,
       "rank": 38,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 165620,
+      "num": 165620,
+      "word": "创造营亚洲",
+      "onboard_time": 1712406378,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 165461,
@@ -14625,6 +14737,14 @@
       "onboard_time": 1711869197,
       "rank": 43,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 154822,
+      "num": 154822,
+      "word": "李健广州演唱会",
+      "onboard_time": 1712406557,
+      "rank": 42,
+      "category": "演出"
     },
     {
       "raw_hot": 154696,
@@ -15699,6 +15819,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 143006,
+      "num": 143006,
+      "word": "薛之谦杭州不登游船登飞船",
+      "onboard_time": 1712405239,
+      "rank": 45,
+      "category": "演出"
+    },
+    {
       "raw_hot": 142954,
       "num": 142954,
       "word": "亲戚对你的态度其实取决于父母",
@@ -15721,6 +15849,14 @@
       "onboard_time": 1712058620,
       "rank": 41,
       "category": "电竞,网红"
+    },
+    {
+      "raw_hot": 142614,
+      "num": 142614,
+      "word": "林樵松怎么还不死",
+      "onboard_time": 1712406557,
+      "rank": 46,
+      "category": "剧集"
     },
     {
       "raw_hot": 142568,
@@ -16307,14 +16443,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 134971,
-      "num": 134971,
-      "word": "黑眼圈的出现是身体发出的暗示",
-      "onboard_time": 1712403197,
-      "rank": 45,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 134795,
       "num": 134795,
       "word": "潘玮柏上海抢票",
@@ -16769,6 +16897,14 @@
       "onboard_time": 1712371937,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 126014,
+      "num": 166546,
+      "word": "天津男篮vs广东男篮",
+      "onboard_time": 1712405957,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 125781,
@@ -18169,14 +18305,6 @@
       "onboard_time": 1712336714,
       "rank": 40,
       "category": "电影"
-    },
-    {
-      "raw_hot": 82854,
-      "num": 118134,
-      "word": "日本天皇独生女成为月薪7千的打工人",
-      "onboard_time": 1712403077,
-      "rank": 49,
-      "category": "国外时政"
     },
     {
       "raw_hot": 82606,
