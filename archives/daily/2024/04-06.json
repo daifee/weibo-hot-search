@@ -1,6 +1,6 @@
 {
   "startTime": 1712334193790,
-  "endTime": 1712384513242,
+  "endTime": 1712385255616,
   "band_list": [
     {
       "raw_hot": 1713312,
@@ -67,20 +67,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 944281,
+      "num": 944281,
+      "word": "吴宣仪认证自己很姬",
+      "onboard_time": 1712383217,
+      "rank": 3,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 941767,
+      "num": 941767,
+      "word": "林更新流量不大就两百多兆",
+      "onboard_time": 1712381059,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 937892,
       "num": 937892,
       "word": "这居然是谢可寅",
       "onboard_time": 1712360595,
       "rank": 1,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 881595,
-      "num": 881595,
-      "word": "林更新流量不大就两百多兆",
-      "onboard_time": 1712381059,
-      "rank": 29,
-      "category": "综艺"
     },
     {
       "raw_hot": 875862,
@@ -187,14 +195,6 @@
       "category": "互联网,财经"
     },
     {
-      "raw_hot": 647061,
-      "num": 647061,
-      "word": "吴宣仪认证自己很姬",
-      "onboard_time": 1712383217,
-      "rank": 3,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 620922,
       "num": 620922,
       "word": "爱奇艺没有一台笔电吗",
@@ -232,6 +232,14 @@
       "word": "安宰贤离婚梗",
       "onboard_time": 1712370016,
       "rank": 38,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 595916,
+      "num": 348016,
+      "word": "老舅坐鹿晗大腿",
+      "onboard_time": 1712383817,
+      "rank": 12,
       "category": "综艺"
     },
     {
@@ -491,14 +499,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 355689,
-      "num": 348016,
-      "word": "老舅坐鹿晗大腿",
-      "onboard_time": 1712383817,
-      "rank": 12,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 355173,
       "num": 355173,
       "word": "NINEPERCENT六周年",
@@ -563,6 +563,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 306459,
+      "num": 306459,
+      "word": "腾讯给与凤行配的标题",
+      "onboard_time": 1712384657,
+      "rank": 16,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 299496,
       "num": 299496,
       "word": "向佐版多尔衮",
@@ -577,6 +585,22 @@
       "onboard_time": 1712330179,
       "rank": 15,
       "category": "演出"
+    },
+    {
+      "raw_hot": 297151,
+      "num": 297151,
+      "word": "鹿晗请粉丝喝椰子水",
+      "onboard_time": 1712383277,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 295464,
+      "num": 216235,
+      "word": "首饰金价涨至每克710元",
+      "onboard_time": 1712382918,
+      "rank": 22,
+      "category": "财经"
     },
     {
       "raw_hot": 294118,
@@ -675,14 +699,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 257424,
-      "num": 216235,
-      "word": "首饰金价涨至每克710元",
-      "onboard_time": 1712382918,
-      "rank": 22,
-      "category": "财经"
-    },
-    {
       "raw_hot": 255795,
       "num": 255795,
       "word": "研究生招录应增加品德考核比重吗",
@@ -739,12 +755,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 241103,
-      "num": 241103,
-      "word": "鹿晗请粉丝喝椰子水",
-      "onboard_time": 1712383277,
-      "rank": 18,
-      "category": "综艺"
+      "raw_hot": 228073,
+      "num": 202157,
+      "word": "BoA 可以隐退了吧",
+      "onboard_time": 1712384898,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 227066,
@@ -795,7 +811,7 @@
       "category": "情感"
     },
     {
-      "raw_hot": 216590,
+      "raw_hot": 218714,
       "num": 202829,
       "word": "沈璃父母 仙侠版狼少年",
       "onboard_time": 1712382317,
@@ -875,6 +891,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 191332,
+      "num": 191332,
+      "word": "囤金大户变现",
+      "onboard_time": 1712381898,
+      "rank": 29,
+      "category": "财经"
+    },
+    {
       "raw_hot": 189965,
       "num": 189965,
       "word": "与凤行宣璐演技",
@@ -907,14 +931,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 180121,
-      "num": 180121,
-      "word": "囤金大户变现",
-      "onboard_time": 1712381898,
-      "rank": 29,
-      "category": "财经"
-    },
-    {
       "raw_hot": 176342,
       "num": 176342,
       "word": "来hi6和十个勤天击个掌",
@@ -929,6 +945,14 @@
       "onboard_time": 1712373137,
       "rank": 34,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 174410,
+      "num": 174410,
+      "word": "范丞丞的背",
+      "onboard_time": 1712384118,
+      "rank": 31,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 173193,
@@ -985,14 +1009,6 @@
       "onboard_time": 1712375057,
       "rank": 38,
       "category": "体育"
-    },
-    {
-      "raw_hot": 165597,
-      "num": 165597,
-      "word": "范丞丞的背",
-      "onboard_time": 1712384118,
-      "rank": 31,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 162346,
@@ -1113,6 +1129,14 @@
       "onboard_time": 1712367558,
       "rank": 37,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 137588,
+      "num": 137588,
+      "word": "天然散结药就藏在你家餐桌上",
+      "onboard_time": 1712384597,
+      "rank": 36,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 137189,
@@ -1395,6 +1419,22 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 107460,
+      "num": 107460,
+      "word": "湖南冷水江发生煤矿事故已致4人遇难",
+      "onboard_time": 1712385018,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 105454,
+      "num": 105454,
+      "word": "黄明昊出道六周年",
+      "onboard_time": 1712385197,
+      "rank": 47,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 102916,
       "num": 102916,
       "word": "缅甸5.6级地震",
@@ -1451,6 +1491,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 99066,
+      "num": 99066,
+      "word": "照片和镜子里的自己哪个更真实",
+      "onboard_time": 1712383038,
+      "rank": 49,
+      "category": "情感"
+    },
+    {
       "raw_hot": 98767,
       "num": 98767,
       "word": "5个延缓衰老技巧",
@@ -1481,14 +1529,6 @@
       "onboard_time": 1712329760,
       "rank": 49,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 90384,
-      "num": 90384,
-      "word": "照片和镜子里的自己哪个更真实",
-      "onboard_time": 1712383038,
-      "rank": 49,
-      "category": "情感"
     },
     {
       "raw_hot": 89520,
