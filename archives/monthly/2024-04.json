@@ -1,6 +1,6 @@
 {
   "startTime": 1711902044401,
-  "endTime": 1712407423833,
+  "endTime": 1712409536561,
   "band_list": [
     {
       "raw_hot": 16874674,
@@ -2123,6 +2123,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 746916,
+      "num": 471752,
+      "word": "林更新曾面试一起来看流星雨",
+      "onboard_time": 1712407579,
+      "rank": 8,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 745256,
       "num": 745256,
       "word": "6个月婴儿雨夜爬上马路被接力守护",
@@ -2731,6 +2739,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 648852,
+      "num": 341199,
+      "word": "为什么现在退房都不检查了",
+      "onboard_time": 1712408538,
+      "rank": 20,
+      "category": "情感"
+    },
+    {
       "raw_hot": 648775,
       "num": 648775,
       "word": "分手厨房实绩",
@@ -2764,7 +2780,7 @@
     },
     {
       "raw_hot": 642925,
-      "num": 331535,
+      "num": 337336,
       "word": "日本天皇独生女成为月薪7千的打工人",
       "onboard_time": 1712403077,
       "rank": 49,
@@ -3651,6 +3667,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 533723,
+      "num": 533723,
+      "word": "谢帝 诺米",
+      "onboard_time": 1712407337,
+      "rank": 41,
+      "category": "网红"
+    },
+    {
       "raw_hot": 533215,
       "num": 533215,
       "word": "别再因为害羞放弃肛门指检了",
@@ -4337,6 +4361,14 @@
       "onboard_time": 1712065822,
       "rank": 14,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 457542,
+      "num": 457542,
+      "word": "你好星期六",
+      "onboard_time": 1712407579,
+      "rank": 12,
+      "category": "综艺"
     },
     {
       "raw_hot": 457265,
@@ -5043,6 +5075,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 406847,
+      "num": 406847,
+      "word": "眼泪女王",
+      "onboard_time": 1711891159,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 406764,
       "num": 406764,
       "word": "男子结婚37年法定妻子竟是弟妹",
@@ -5529,6 +5569,14 @@
       "onboard_time": 1712056640,
       "rank": 30,
       "category": "电竞,网红"
+    },
+    {
+      "raw_hot": 372294,
+      "num": 372294,
+      "word": "陈楚生儿子巡演返场嘉宾",
+      "onboard_time": 1712408719,
+      "rank": 16,
+      "category": "演出"
     },
     {
       "raw_hot": 371777,
@@ -6579,14 +6627,6 @@
       "category": "科学科普"
     },
     {
-      "raw_hot": 305651,
-      "num": 305651,
-      "word": "眼泪女王",
-      "onboard_time": 1711891159,
-      "rank": 26,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 305591,
       "num": 305591,
       "word": "李耕耘 让少年之家一直开花",
@@ -6801,6 +6841,14 @@
       "onboard_time": 1712211977,
       "rank": 23,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 292770,
+      "num": 292770,
+      "word": "眼泪女王直播",
+      "onboard_time": 1712408058,
+      "rank": 24,
+      "category": "剧集"
     },
     {
       "raw_hot": 292688,
@@ -7259,6 +7307,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 272927,
+      "num": 272927,
+      "word": "十个勤天上hi6",
+      "onboard_time": 1712407758,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 271912,
       "num": 271912,
       "word": "王珞丹给陶昕然送麝香",
@@ -7289,6 +7345,14 @@
       "onboard_time": 1712114362,
       "rank": 28,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 270422,
+      "num": 270422,
+      "word": "在健身房练滚轮被陌生人开走",
+      "onboard_time": 1712408271,
+      "rank": 27,
+      "category": "幽默"
     },
     {
       "raw_hot": 270412,
@@ -7408,6 +7472,14 @@
       "word": "恋爱让他谈 三界我来守",
       "onboard_time": 1712243360,
       "rank": 34,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 267212,
+      "num": 267212,
+      "word": "追风者",
+      "onboard_time": 1712148199,
+      "rank": 48,
       "category": "剧集"
     },
     {
@@ -7968,6 +8040,14 @@
       "word": "花间令女二悲惨的一生",
       "onboard_time": 1712034380,
       "rank": 24,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 247429,
+      "num": 247429,
+      "word": "追风者林樵松 民国癫公",
+      "onboard_time": 1712409077,
+      "rank": 31,
       "category": "剧集"
     },
     {
@@ -8835,14 +8915,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 221246,
-      "num": 221246,
-      "word": "追风者",
-      "onboard_time": 1712148199,
-      "rank": 48,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 221065,
       "num": 221065,
       "word": "小狗为了不弄脏座位把自己缩成一团",
@@ -8985,6 +9057,14 @@
       "onboard_time": 1712198178,
       "rank": 49,
       "category": "情感"
+    },
+    {
+      "raw_hot": 218588,
+      "num": 218588,
+      "word": "小米SU7命名来由",
+      "onboard_time": 1712407997,
+      "rank": 33,
+      "category": "汽车"
     },
     {
       "raw_hot": 218166,
@@ -9289,6 +9369,14 @@
       "onboard_time": 1712289257,
       "rank": 34,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 211191,
+      "num": 268583,
+      "word": "字字不提钱句句都是钱",
+      "onboard_time": 1712409199,
+      "rank": 28,
+      "category": "情感"
     },
     {
       "raw_hot": 211179,
@@ -10363,6 +10451,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 193052,
+      "num": 342615,
+      "word": "上海饮料分级",
+      "onboard_time": 1712407938,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 192807,
       "num": 192807,
       "word": "深夜看见这种诡异蓝光请立刻报警",
@@ -10769,6 +10865,14 @@
       "onboard_time": 1712039059,
       "rank": 29,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 187979,
+      "num": 187979,
+      "word": "办公室的同事好像从不摸鱼",
+      "onboard_time": 1712408657,
+      "rank": 40,
+      "category": "情感"
     },
     {
       "raw_hot": 187932,
@@ -11651,6 +11755,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 172719,
+      "num": 172719,
+      "word": "为什么恋爱脑不招人待见",
+      "onboard_time": 1712407217,
+      "rank": 40,
+      "category": "情感"
+    },
+    {
       "raw_hot": 172299,
       "num": 172299,
       "word": "矣进宏CBA首秀",
@@ -11769,6 +11881,14 @@
       "onboard_time": 1712029760,
       "rank": 35,
       "category": "体育"
+    },
+    {
+      "raw_hot": 170216,
+      "num": 170216,
+      "word": "胡兵吃了陈楚生点的外卖",
+      "onboard_time": 1712407039,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 170214,
@@ -11912,14 +12032,6 @@
       "word": "双子座迷人的反差感",
       "onboard_time": 1711976361,
       "rank": 44,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 167376,
-      "num": 167376,
-      "word": "为什么恋爱脑不招人待见",
-      "onboard_time": 1712407217,
-      "rank": 40,
       "category": "情感"
     },
     {
@@ -12153,22 +12265,6 @@
       "onboard_time": 1712149280,
       "rank": 48,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 163049,
-      "num": 163049,
-      "word": "谢帝 诺米",
-      "onboard_time": 1712407337,
-      "rank": 41,
-      "category": "网红"
-    },
-    {
-      "raw_hot": 163037,
-      "num": 163037,
-      "word": "胡兵吃了陈楚生点的外卖",
-      "onboard_time": 1712407039,
-      "rank": 42,
-      "category": "综艺"
     },
     {
       "raw_hot": 162814,
@@ -15681,6 +15777,14 @@
       "onboard_time": 1712096953,
       "rank": 49,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 77314,
+      "num": 142767,
+      "word": "水晶宫vs曼城",
+      "onboard_time": 1712404458,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 76451,
