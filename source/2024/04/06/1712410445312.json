@@ -1,0 +1,410 @@
+{
+  "runTime": 1712410445312,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1206885,
+        "num": 1206885,
+        "word": "千万不要买樱花味食物",
+        "onboard_time": 1712398877,
+        "rank": 0,
+        "category": "美食,幽默"
+      },
+      {
+        "raw_hot": 1092532,
+        "num": 1092532,
+        "word": "追风者破万",
+        "onboard_time": 1712409857,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 58530,
+        "num": 1039429,
+        "word": "假期返程安全行车攻略",
+        "onboard_time": 1712394318,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1036726,
+        "num": 1036726,
+        "word": "沈近真下线",
+        "onboard_time": 1712400798,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 828976,
+        "num": 828976,
+        "word": "林更新回应和赵丽颖三搭",
+        "onboard_time": 1712399777,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 567789,
+        "num": 567789,
+        "word": "男孩做阑尾切除术5年后阑尾还在",
+        "onboard_time": 1712403618,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 562127,
+        "num": 562127,
+        "word": "复活沈近真",
+        "onboard_time": 1712405718,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 545038,
+        "num": 545038,
+        "word": "放假三天躺了三天",
+        "onboard_time": 1712398877,
+        "rank": 7,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 812544,
+        "num": 543800,
+        "word": "林更新曾面试一起来看流星雨",
+        "onboard_time": 1712407579,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 242622,
+        "num": 543053,
+        "word": "54岁老板当主播日进百万",
+        "onboard_time": 1712397017,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 542415,
+        "num": 542415,
+        "word": "陈楚生儿子巡演返场嘉宾",
+        "onboard_time": 1712408719,
+        "rank": 10,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 513793,
+        "num": 513793,
+        "word": "谢帝 诺米",
+        "onboard_time": 1712407337,
+        "rank": 11,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 356346,
+        "num": 501307,
+        "word": "天水真的有一亿人",
+        "onboard_time": 1712401038,
+        "rank": 12,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 494463,
+        "num": 494463,
+        "word": "兰大回应虐猫考生进调剂名单",
+        "onboard_time": 1712391978,
+        "rank": 13,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 429056,
+        "num": 429056,
+        "word": "眼泪女王",
+        "onboard_time": 1712407399,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 427772,
+        "num": 427772,
+        "word": "你好星期六",
+        "onboard_time": 1712407579,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 407761,
+        "num": 407761,
+        "word": "申有娜吃着火锅听中国人讲八卦",
+        "onboard_time": 1712404818,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 377259,
+        "num": 377259,
+        "word": "上海饮料分级",
+        "onboard_time": 1712407938,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 364418,
+        "num": 364418,
+        "word": "孙亚龙进抢救室",
+        "onboard_time": 1712397017,
+        "rank": 18,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 297844,
+        "num": 347526,
+        "word": "论文重复率越改越高真的太痛苦了",
+        "onboard_time": 1712398757,
+        "rank": 19,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 784806,
+        "num": 347343,
+        "word": "为什么现在退房都不检查了",
+        "onboard_time": 1712408538,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 420995,
+        "num": 346544,
+        "word": "日本天皇独生女成为月薪7千的打工人",
+        "onboard_time": 1712403077,
+        "rank": 21,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 345062,
+        "num": 345062,
+        "word": "追风者",
+        "onboard_time": 1712401819,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 341821,
+        "num": 341821,
+        "word": "林更新演爽了吧",
+        "onboard_time": 1712409799,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 301136,
+        "num": 301136,
+        "word": "在健身房练滚轮被陌生人开走",
+        "onboard_time": 1712408271,
+        "rank": 24,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 319587,
+        "num": 298847,
+        "word": "字字不提钱句句都是钱",
+        "onboard_time": 1712409199,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 305981,
+        "num": 297800,
+        "word": "眼泪女王直播",
+        "onboard_time": 1712408058,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 294164,
+        "num": 294164,
+        "word": "追风者林樵松 民国癫公",
+        "onboard_time": 1712409077,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 243194,
+        "num": 243194,
+        "word": "为什么父母总把亲戚看得很重",
+        "onboard_time": 1712405478,
+        "rank": 28,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 118760,
+        "num": 228646,
+        "word": "清明假期国内游客出游花费539.5亿元",
+        "onboard_time": 1712404698,
+        "rank": 29,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 278244,
+        "num": 228627,
+        "word": "与凤行本质上是一个弑神的故事",
+        "onboard_time": 1712402539,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 225272,
+        "num": 225272,
+        "word": "十个勤天上hi6",
+        "onboard_time": 1712407758,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 217064,
+        "num": 217064,
+        "word": "小米SU7命名来由",
+        "onboard_time": 1712407997,
+        "rank": 32,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 211009,
+        "num": 211009,
+        "word": "IU演唱会",
+        "onboard_time": 1712405058,
+        "rank": 33,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 195695,
+        "num": 195695,
+        "word": "女生肝脏不好的八大表现",
+        "onboard_time": 1712397496,
+        "rank": 34,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 207176,
+        "num": 195481,
+        "word": "沈图南人设",
+        "onboard_time": 1712409799,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 193800,
+        "num": 193800,
+        "word": "考上研发现自己被家里长辈屏蔽了",
+        "onboard_time": 1712403197,
+        "rank": 36,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 191545,
+        "num": 191545,
+        "word": "为什么恋爱脑不招人待见",
+        "onboard_time": 1712407217,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 190714,
+        "num": 190714,
+        "word": "创造营亚洲",
+        "onboard_time": 1712406378,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 79184,
+        "num": 188236,
+        "word": "梅西赛后走进对手更衣室大声喊叫",
+        "onboard_time": 1712395278,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 186496,
+        "num": 186496,
+        "word": "薛之谦杭州不登游船登飞船",
+        "onboard_time": 1712405239,
+        "rank": 40,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 169873,
+        "num": 169873,
+        "word": "赵奕欢看穿纪凌尘",
+        "onboard_time": 1712395517,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 166241,
+        "num": 166241,
+        "word": "祁煜潮汐之神cos",
+        "onboard_time": 1712409618,
+        "rank": 42,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 162376,
+        "num": 162376,
+        "word": "范丞丞工作室回应争议",
+        "onboard_time": 1712389938,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 161783,
+        "num": 161783,
+        "word": "胡兵吃了陈楚生点的外卖",
+        "onboard_time": 1712407039,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 159712,
+        "num": 159712,
+        "word": "王俊凯已进组",
+        "onboard_time": 1712404218,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 141965,
+        "num": 141965,
+        "word": "黑眼圈的出现是身体发出的暗示",
+        "onboard_time": 1712403197,
+        "rank": 46,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 138326,
+        "num": 138326,
+        "word": "INFP 时尚单品",
+        "onboard_time": 1712410398,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 66919,
+        "num": 138064,
+        "word": "水晶宫vs曼城",
+        "onboard_time": 1712404458,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 56960,
+        "num": 137905,
+        "word": "清明国内旅游出游1.19亿人次",
+        "onboard_time": 1712407158,
+        "rank": 49,
+        "category": "社会新闻,旅游"
+      }
+    ],
+    "hotgov": {
+      "word": "#家国永念致敬英雄#"
+    }
+  }
+}

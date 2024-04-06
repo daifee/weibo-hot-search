@@ -1,6 +1,6 @@
 {
   "startTime": 1711902044401,
-  "endTime": 1712409536561,
+  "endTime": 1712410445312,
   "band_list": [
     {
       "raw_hot": 16874674,
@@ -1163,6 +1163,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1092532,
+      "num": 1092532,
+      "word": "追风者破万",
+      "onboard_time": 1712409857,
+      "rank": 1,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1090349,
       "num": 1009620,
       "word": "女子在母亲出殡当天被哥哥要求放弃遗产",
@@ -1867,6 +1875,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 812544,
+      "num": 543800,
+      "word": "林更新曾面试一起来看流星雨",
+      "onboard_time": 1712407579,
+      "rank": 8,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 812368,
       "num": 503196,
       "word": "飓风坠楼3条人命牵出江西贪腐第一大案",
@@ -1985,6 +2001,14 @@
       "onboard_time": 1712019920,
       "rank": 13,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 784806,
+      "num": 347343,
+      "word": "为什么现在退房都不检查了",
+      "onboard_time": 1712408538,
+      "rank": 20,
+      "category": "情感"
     },
     {
       "raw_hot": 783055,
@@ -2121,14 +2145,6 @@
       "onboard_time": 1711984880,
       "rank": 29,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 746916,
-      "num": 471752,
-      "word": "林更新曾面试一起来看流星雨",
-      "onboard_time": 1712407579,
-      "rank": 8,
-      "category": "剧集"
     },
     {
       "raw_hot": 745256,
@@ -2739,14 +2755,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 648852,
-      "num": 341199,
-      "word": "为什么现在退房都不检查了",
-      "onboard_time": 1712408538,
-      "rank": 20,
-      "category": "情感"
-    },
-    {
       "raw_hot": 648775,
       "num": 648775,
       "word": "分手厨房实绩",
@@ -2780,7 +2788,7 @@
     },
     {
       "raw_hot": 642925,
-      "num": 337336,
+      "num": 346544,
       "word": "日本天皇独生女成为月薪7千的打工人",
       "onboard_time": 1712403077,
       "rank": 49,
@@ -3569,6 +3577,14 @@
       "onboard_time": 1711897940,
       "rank": 14,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 542415,
+      "num": 542415,
+      "word": "陈楚生儿子巡演返场嘉宾",
+      "onboard_time": 1712408719,
+      "rank": 16,
+      "category": "演出"
     },
     {
       "raw_hot": 542059,
@@ -4747,6 +4763,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 429056,
+      "num": 429056,
+      "word": "眼泪女王",
+      "onboard_time": 1711891159,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 428928,
       "num": 428928,
       "word": "09是谁",
@@ -5073,14 +5097,6 @@
       "onboard_time": 1712283437,
       "rank": 25,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 406847,
-      "num": 406847,
-      "word": "眼泪女王",
-      "onboard_time": 1711891159,
-      "rank": 26,
-      "category": "剧集"
     },
     {
       "raw_hot": 406764,
@@ -5515,6 +5531,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 377259,
+      "num": 377259,
+      "word": "上海饮料分级",
+      "onboard_time": 1712407938,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 376103,
       "num": 324775,
       "word": "24岁女生和48岁的室友妈妈处成母女",
@@ -5569,14 +5593,6 @@
       "onboard_time": 1712056640,
       "rank": 30,
       "category": "电竞,网红"
-    },
-    {
-      "raw_hot": 372294,
-      "num": 372294,
-      "word": "陈楚生儿子巡演返场嘉宾",
-      "onboard_time": 1712408719,
-      "rank": 16,
-      "category": "演出"
     },
     {
       "raw_hot": 371777,
@@ -5955,6 +5971,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 345062,
+      "num": 345062,
+      "word": "追风者",
+      "onboard_time": 1712148199,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 344047,
       "num": 344047,
       "word": "大风致3人家中坠亡家属发声",
@@ -6001,6 +6025,14 @@
       "onboard_time": 1712036180,
       "rank": 21,
       "category": "教育"
+    },
+    {
+      "raw_hot": 341821,
+      "num": 341821,
+      "word": "林更新演爽了吧",
+      "onboard_time": 1712409799,
+      "rank": 23,
+      "category": "剧集"
     },
     {
       "raw_hot": 341521,
@@ -6339,6 +6371,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 319587,
+      "num": 298847,
+      "word": "字字不提钱句句都是钱",
+      "onboard_time": 1712409199,
+      "rank": 28,
+      "category": "情感"
+    },
+    {
       "raw_hot": 318765,
       "num": 318765,
       "word": "考上研发现自己被家里长辈屏蔽了",
@@ -6603,6 +6643,14 @@
       "category": "社会新闻,美食"
     },
     {
+      "raw_hot": 305981,
+      "num": 297800,
+      "word": "眼泪女王直播",
+      "onboard_time": 1712408058,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 305942,
       "num": 305942,
       "word": "小楼谈电竞圈女性",
@@ -6697,6 +6745,14 @@
       "onboard_time": 1712133081,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 301136,
+      "num": 301136,
+      "word": "在健身房练滚轮被陌生人开走",
+      "onboard_time": 1712408271,
+      "rank": 27,
+      "category": "幽默"
     },
     {
       "raw_hot": 301104,
@@ -6811,6 +6867,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 294164,
+      "num": 294164,
+      "word": "追风者林樵松 民国癫公",
+      "onboard_time": 1712409077,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 294118,
       "num": 294118,
       "word": "女子买问界M7不到20天就充不上电",
@@ -6841,14 +6905,6 @@
       "onboard_time": 1712211977,
       "rank": 23,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 292770,
-      "num": 292770,
-      "word": "眼泪女王直播",
-      "onboard_time": 1712408058,
-      "rank": 24,
-      "category": "剧集"
     },
     {
       "raw_hot": 292688,
@@ -7347,14 +7403,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 270422,
-      "num": 270422,
-      "word": "在健身房练滚轮被陌生人开走",
-      "onboard_time": 1712408271,
-      "rank": 27,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 270412,
       "num": 270412,
       "word": "成都警方回应迈巴赫撞倒多人",
@@ -7472,14 +7520,6 @@
       "word": "恋爱让他谈 三界我来守",
       "onboard_time": 1712243360,
       "rank": 34,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 267212,
-      "num": 267212,
-      "word": "追风者",
-      "onboard_time": 1712148199,
-      "rank": 48,
       "category": "剧集"
     },
     {
@@ -8040,14 +8080,6 @@
       "word": "花间令女二悲惨的一生",
       "onboard_time": 1712034380,
       "rank": 24,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 247429,
-      "num": 247429,
-      "word": "追风者林樵松 民国癫公",
-      "onboard_time": 1712409077,
-      "rank": 31,
       "category": "剧集"
     },
     {
@@ -9371,14 +9403,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 211191,
-      "num": 268583,
-      "word": "字字不提钱句句都是钱",
-      "onboard_time": 1712409199,
-      "rank": 28,
-      "category": "情感"
-    },
-    {
       "raw_hot": 211179,
       "num": 211179,
       "word": "金刚身上有1900万根毛",
@@ -10451,14 +10475,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 193052,
-      "num": 342615,
-      "word": "上海饮料分级",
-      "onboard_time": 1712407938,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 192807,
       "num": 192807,
       "word": "深夜看见这种诡异蓝光请立刻报警",
@@ -10561,6 +10577,14 @@
       "onboard_time": 1712139560,
       "rank": 46,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 191545,
+      "num": 191545,
+      "word": "为什么恋爱脑不招人待见",
+      "onboard_time": 1712407217,
+      "rank": 40,
+      "category": "情感"
     },
     {
       "raw_hot": 191517,
@@ -10985,6 +11009,14 @@
       "onboard_time": 1712406737,
       "rank": 38,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 186496,
+      "num": 186496,
+      "word": "薛之谦杭州不登游船登飞船",
+      "onboard_time": 1712405239,
+      "rank": 45,
+      "category": "演出"
     },
     {
       "raw_hot": 186400,
@@ -11755,14 +11787,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 172719,
-      "num": 172719,
-      "word": "为什么恋爱脑不招人待见",
-      "onboard_time": 1712407217,
-      "rank": 40,
-      "category": "情感"
-    },
-    {
       "raw_hot": 172299,
       "num": 172299,
       "word": "矣进宏CBA首秀",
@@ -12097,6 +12121,14 @@
       "onboard_time": 1712374639,
       "rank": 37,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 166241,
+      "num": 166241,
+      "word": "祁煜潮汐之神cos",
+      "onboard_time": 1712409618,
+      "rank": 42,
+      "category": "游戏"
     },
     {
       "raw_hot": 166000,
@@ -13731,14 +13763,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 143006,
-      "num": 143006,
-      "word": "薛之谦杭州不登游船登飞船",
-      "onboard_time": 1712405239,
-      "rank": 45,
-      "category": "演出"
-    },
-    {
       "raw_hot": 142954,
       "num": 142954,
       "word": "亲戚对你的态度其实取决于父母",
@@ -13944,6 +13968,14 @@
       "word": "人在什么时候最舒服",
       "onboard_time": 1712027960,
       "rank": 49,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 138326,
+      "num": 138326,
+      "word": "INFP 时尚单品",
+      "onboard_time": 1712410398,
+      "rank": 47,
       "category": "情感"
     },
     {
