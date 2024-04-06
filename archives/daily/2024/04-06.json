@@ -1,6 +1,6 @@
 {
   "startTime": 1712334193790,
-  "endTime": 1712388847699,
+  "endTime": 1712391651077,
   "band_list": [
     {
       "raw_hot": 1713312,
@@ -9,6 +9,14 @@
       "onboard_time": 1712363597,
       "rank": 0,
       "category": "情感"
+    },
+    {
+      "raw_hot": 1659612,
+      "num": 1659612,
+      "word": "范丞丞工作室回应争议",
+      "onboard_time": 1712389938,
+      "rank": 0,
+      "category": "艺人"
     },
     {
       "raw_hot": 1659237,
@@ -209,6 +217,14 @@
       "onboard_time": 1712384657,
       "rank": 16,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 678401,
+      "num": 205373,
+      "word": "月子期间老公对婆婆的约法三章",
+      "onboard_time": 1712389037,
+      "rank": 11,
+      "category": "母婴育儿"
     },
     {
       "raw_hot": 656784,
@@ -419,6 +435,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 449387,
+      "num": 187143,
+      "word": "考上上海研究生却开心不起来",
+      "onboard_time": 1712387718,
+      "rank": 47,
+      "category": "教育"
+    },
+    {
       "raw_hot": 448900,
       "num": 448900,
       "word": "连续3天睡眠不足6小时会怎样",
@@ -491,6 +515,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 400217,
+      "num": 185605,
+      "word": "为什么有人只睡4小时也很精神",
+      "onboard_time": 1712388797,
+      "rank": 21,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 400007,
       "num": 400007,
       "word": "小米SU7首位车主浮出",
@@ -515,14 +547,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 389706,
-      "num": 146618,
-      "word": "考上上海研究生却开心不起来",
-      "onboard_time": 1712387718,
-      "rank": 47,
-      "category": "教育"
-    },
-    {
       "raw_hot": 382924,
       "num": 382924,
       "word": "中产爱吃的贝果为什么中间有个洞",
@@ -545,6 +569,14 @@
       "onboard_time": 1712387058,
       "rank": 23,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 358066,
+      "num": 196305,
+      "word": "13岁女孩失踪监控显示曾在奔跑",
+      "onboard_time": 1712388918,
+      "rank": 15,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 355173,
@@ -675,6 +707,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 283982,
+      "num": 191379,
+      "word": "甄嬛传之胖橘大闹甘露寺",
+      "onboard_time": 1712390957,
+      "rank": 17,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 283579,
       "num": 283579,
       "word": "赵丽颖与凤行获得爆剧认证",
@@ -753,6 +793,14 @@
       "onboard_time": 1712371157,
       "rank": 26,
       "category": "教育"
+    },
+    {
+      "raw_hot": 253684,
+      "num": 183520,
+      "word": "脖子黑洗不掉提醒你该减肥了",
+      "onboard_time": 1712389037,
+      "rank": 23,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 252886,
@@ -841,6 +889,14 @@
       "onboard_time": 1712317999,
       "rank": 23,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 221017,
+      "num": 188476,
+      "word": "无法想象宫崎骏有多自律",
+      "onboard_time": 1712389458,
+      "rank": 18,
+      "category": "电影"
     },
     {
       "raw_hot": 219474,
@@ -937,6 +993,14 @@
       "onboard_time": 1712380639,
       "rank": 34,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 190593,
+      "num": 181998,
+      "word": "郑恺脱鞋回一米六了",
+      "onboard_time": 1712389398,
+      "rank": 24,
+      "category": "综艺"
     },
     {
       "raw_hot": 189965,
@@ -1067,6 +1131,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 166015,
+      "num": 166015,
+      "word": "看演唱会千万别用雨衣当坐垫",
+      "onboard_time": 1712391438,
+      "rank": 27,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 165848,
       "num": 165848,
       "word": "勇不出界",
@@ -1105,6 +1177,14 @@
       "onboard_time": 1712383337,
       "rank": 32,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 158967,
+      "num": 158967,
+      "word": "沈璃爸妈怎么抱着林更新",
+      "onboard_time": 1712391498,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 158456,
@@ -1475,6 +1555,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 113069,
+      "num": 113069,
+      "word": "LCK",
+      "onboard_time": 1712389938,
+      "rank": 38,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 112946,
       "num": 112946,
       "word": "吃生姜和扫雷有什么区别",
@@ -1521,6 +1609,14 @@
       "onboard_time": 1712332216,
       "rank": 43,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 109041,
+      "num": 109041,
+      "word": "服了你们滚人",
+      "onboard_time": 1712391438,
+      "rank": 40,
+      "category": "演出,幽默"
     },
     {
       "raw_hot": 108024,
@@ -1643,6 +1739,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 98656,
+      "num": 270479,
+      "word": "太行花悬崖悄悄绽放太惊艳",
+      "onboard_time": 1712386458,
+      "rank": 9,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 98416,
       "num": 98416,
       "word": "为什么有人只睡 4 小时也很精神",
@@ -1651,12 +1755,12 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 95569,
-      "num": 270479,
-      "word": "太行花悬崖悄悄绽放太惊艳",
-      "onboard_time": 1712386458,
-      "rank": 9,
-      "category": "旅游"
+      "raw_hot": 95819,
+      "num": 95819,
+      "word": "沈璃这码牌一看就是麻将新手",
+      "onboard_time": 1712389757,
+      "rank": 45,
+      "category": "剧集"
     },
     {
       "raw_hot": 93709,
@@ -1665,6 +1769,14 @@
       "onboard_time": 1712383038,
       "rank": 47,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 93236,
+      "num": 93236,
+      "word": "无限超越班",
+      "onboard_time": 1712391197,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 92255,
@@ -1681,6 +1793,14 @@
       "onboard_time": 1712329760,
       "rank": 49,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 90583,
+      "num": 90583,
+      "word": "背诗词免门票在景区界传开了",
+      "onboard_time": 1712391438,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 89520,
@@ -1761,6 +1881,14 @@
       "onboard_time": 1712353812,
       "rank": 45,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 51040,
+      "num": 790222,
+      "word": "志愿军烈士和家人跨时空重逢",
+      "onboard_time": 1712374877,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 48455,
