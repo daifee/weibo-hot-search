@@ -1,6 +1,6 @@
 {
   "startTime": 1711902044401,
-  "endTime": 1712417650741,
+  "endTime": 1712420539476,
   "band_list": [
     {
       "raw_hot": 16874674,
@@ -985,6 +985,14 @@
       "onboard_time": 1712234540,
       "rank": 31,
       "category": "情感"
+    },
+    {
+      "raw_hot": 1243767,
+      "num": 1243767,
+      "word": "王珂出道吧",
+      "onboard_time": 1712416819,
+      "rank": 11,
+      "category": "综艺"
     },
     {
       "raw_hot": 1242195,
@@ -3027,6 +3035,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 618242,
+      "num": 618242,
+      "word": "创造营亚洲",
+      "onboard_time": 1712406378,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 617535,
       "num": 617535,
       "word": "减肥关键点是饿",
@@ -3721,14 +3737,6 @@
       "onboard_time": 1711976478,
       "rank": 21,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 539474,
-      "num": 539474,
-      "word": "王珂出道吧",
-      "onboard_time": 1712416819,
-      "rank": 11,
-      "category": "综艺"
     },
     {
       "raw_hot": 537619,
@@ -6115,6 +6123,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 345355,
+      "num": 345355,
+      "word": "成都迪士尼被限流",
+      "onboard_time": 1712419217,
+      "rank": 15,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 345074,
       "num": 473946,
       "word": "减轻教师非教育教学负担",
@@ -6651,6 +6667,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 313179,
+      "num": 313179,
+      "word": "沈璃在爱里生出了神性",
+      "onboard_time": 1712418077,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 312313,
       "num": 312313,
       "word": "王一博硬控直播三分钟",
@@ -6985,6 +7009,14 @@
       "onboard_time": 1712382918,
       "rank": 22,
       "category": "财经"
+    },
+    {
+      "raw_hot": 295480,
+      "num": 256415,
+      "word": "陈奕迅南京场观众",
+      "onboard_time": 1712418258,
+      "rank": 22,
+      "category": "演出"
     },
     {
       "raw_hot": 295274,
@@ -8003,6 +8035,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 255735,
+      "num": 255735,
+      "word": "BOA锁定第三轮A组",
+      "onboard_time": 1712416819,
+      "rank": 33,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 255200,
       "num": 255200,
       "word": "无法想象宫崎骏有多自律",
@@ -8603,6 +8643,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 236220,
+      "num": 236220,
+      "word": "林彦俊出道六周年应援",
+      "onboard_time": 1712418497,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 236193,
       "num": 236193,
       "word": "周震南安检前猛炫茶",
@@ -8937,14 +8985,6 @@
       "onboard_time": 1712381178,
       "rank": 26,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 226806,
-      "num": 226806,
-      "word": "创造营亚洲",
-      "onboard_time": 1712406378,
-      "rank": 40,
-      "category": "综艺"
     },
     {
       "raw_hot": 226461,
@@ -9499,6 +9539,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 213557,
+      "num": 213557,
+      "word": "于正说赵晴替他一雪前耻",
+      "onboard_time": 1712417957,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 213450,
       "num": 213450,
       "word": "老兵带了杯奶茶给24岁牺牲的战友",
@@ -9520,6 +9568,14 @@
       "word": "韩国人真的每天只睡4小时吗",
       "onboard_time": 1711905374,
       "rank": 35,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 213310,
+      "num": 482835,
+      "word": "花莲地震已致12人死亡1123人受伤",
+      "onboard_time": 1712417478,
+      "rank": 49,
       "category": "社会新闻"
     },
     {
@@ -9697,14 +9753,6 @@
       "onboard_time": 1712235858,
       "rank": 37,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 210227,
-      "num": 210227,
-      "word": "BOA锁定第三轮A组",
-      "onboard_time": 1712416819,
-      "rank": 33,
-      "category": "电竞"
     },
     {
       "raw_hot": 210087,
@@ -14579,6 +14627,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 134988,
+      "num": 105140,
+      "word": "林更新周冬雨军服旧照",
+      "onboard_time": 1712420236,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 134986,
       "num": 134986,
       "word": "大学脱单的关键节点",
@@ -16321,14 +16377,6 @@
       "onboard_time": 1712355912,
       "rank": 42,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 66020,
-      "num": 135027,
-      "word": "花莲地震已致12人死亡1123人受伤",
-      "onboard_time": 1712417478,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 64015,
