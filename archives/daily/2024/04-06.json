@@ -1,6 +1,6 @@
 {
   "startTime": 1712334193790,
-  "endTime": 1712398676565,
+  "endTime": 1712399661414,
   "band_list": [
     {
       "raw_hot": 2169096,
@@ -33,6 +33,14 @@
       "onboard_time": 1712371458,
       "rank": 0,
       "category": "教育"
+    },
+    {
+      "raw_hot": 1473840,
+      "num": 1473840,
+      "word": "孙亚龙进抢救室",
+      "onboard_time": 1712397017,
+      "rank": 10,
+      "category": "电竞"
     },
     {
       "raw_hot": 1350040,
@@ -91,14 +99,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1023150,
-      "num": 376822,
-      "word": "孙亚龙进抢救室",
-      "onboard_time": 1712397017,
-      "rank": 10,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 1022624,
       "num": 1022624,
       "word": "林更新与凤行杀青哭成狗",
@@ -131,6 +131,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 863437,
+      "num": 863437,
+      "word": "赵奕欢看穿纪凌尘",
+      "onboard_time": 1712395517,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 842542,
       "num": 517999,
       "word": "以色列叫停全体作战部队休假",
@@ -161,14 +169,6 @@
       "onboard_time": 1712327359,
       "rank": 0,
       "category": "情感"
-    },
-    {
-      "raw_hot": 812450,
-      "num": 812450,
-      "word": "赵奕欢看穿纪凌尘",
-      "onboard_time": 1712395517,
-      "rank": 30,
-      "category": "综艺"
     },
     {
       "raw_hot": 805284,
@@ -372,7 +372,7 @@
     },
     {
       "raw_hot": 570344,
-      "num": 220994,
+      "num": 235489,
       "word": "微信式恋爱",
       "onboard_time": 1712394258,
       "rank": 21,
@@ -401,6 +401,14 @@
       "onboard_time": 1712332519,
       "rank": 10,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 533920,
+      "num": 235853,
+      "word": "女生肝脏不好的八大表现",
+      "onboard_time": 1712397496,
+      "rank": 20,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 531423,
@@ -465,14 +473,6 @@
       "onboard_time": 1712368518,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 481193,
-      "num": 220304,
-      "word": "女生肝脏不好的八大表现",
-      "onboard_time": 1712397496,
-      "rank": 20,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 479829,
@@ -555,20 +555,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 420548,
+      "num": 420548,
+      "word": "甘草片和红药水为什么买不到了",
+      "onboard_time": 1712392878,
+      "rank": 30,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 413414,
       "num": 413414,
       "word": "广州冰雹",
       "onboard_time": 1712371397,
       "rank": 16,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 410896,
-      "num": 410896,
-      "word": "甘草片和红药水为什么买不到了",
-      "onboard_time": 1712392878,
-      "rank": 30,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 409159,
@@ -619,6 +619,14 @@
       "category": "健康医疗,科学科普"
     },
     {
+      "raw_hot": 394655,
+      "num": 394655,
+      "word": "54岁老板当主播日进百万",
+      "onboard_time": 1712397017,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 392792,
       "num": 392792,
       "word": "暗河传男主",
@@ -667,6 +675,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 353616,
+      "num": 353616,
+      "word": "迪士尼偶遇刘宇宁",
+      "onboard_time": 1712397258,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 350901,
       "num": 350901,
       "word": "王俊凯 盒子里的猫预告",
@@ -689,6 +705,14 @@
       "onboard_time": 1712391498,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 346805,
+      "num": 346805,
+      "word": "身价过亿的有钱人生活",
+      "onboard_time": 1712394857,
+      "rank": 44,
+      "category": "情感"
     },
     {
       "raw_hot": 340511,
@@ -739,6 +763,14 @@
       "category": "演出,幽默"
     },
     {
+      "raw_hot": 322610,
+      "num": 322610,
+      "word": "徐海乔有效客串",
+      "onboard_time": 1712395337,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 318981,
       "num": 318981,
       "word": "一个月给8000做全职妈妈",
@@ -747,12 +779,20 @@
       "category": "情感"
     },
     {
-      "raw_hot": 317838,
-      "num": 317838,
-      "word": "身价过亿的有钱人生活",
-      "onboard_time": 1712394857,
-      "rank": 44,
-      "category": "情感"
+      "raw_hot": 311053,
+      "num": 311053,
+      "word": "放假三天躺了三天",
+      "onboard_time": 1712398877,
+      "rank": 14,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 301104,
+      "num": 301104,
+      "word": "梅西赛后走进对手更衣室大声喊叫",
+      "onboard_time": 1712395278,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 299496,
@@ -793,6 +833,14 @@
       "onboard_time": 1712359394,
       "rank": 23,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 293251,
+      "num": 293251,
+      "word": "贾静雯最新状态",
+      "onboard_time": 1712397077,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 292688,
@@ -843,20 +891,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 278642,
-      "num": 377310,
-      "word": "54岁老板当主播日进百万",
-      "onboard_time": 1712397017,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 275712,
-      "num": 275712,
-      "word": "徐海乔有效客串",
-      "onboard_time": 1712395337,
-      "rank": 28,
-      "category": "剧集"
+      "raw_hot": 274930,
+      "num": 227125,
+      "word": "创造营首个海外女团出道",
+      "onboard_time": 1712397378,
+      "rank": 23,
+      "category": "综艺"
     },
     {
       "raw_hot": 271483,
@@ -865,14 +905,6 @@
       "onboard_time": 1712329099,
       "rank": 19,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 265602,
-      "num": 265602,
-      "word": "迪士尼偶遇刘宇宁",
-      "onboard_time": 1712397258,
-      "rank": 15,
-      "category": "艺人"
     },
     {
       "raw_hot": 265153,
@@ -955,14 +987,6 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 251373,
-      "num": 251373,
-      "word": "梅西赛后走进对手更衣室大声喊叫",
-      "onboard_time": 1712395278,
-      "rank": 29,
-      "category": "体育"
-    },
-    {
       "raw_hot": 250079,
       "num": 215077,
       "word": "地震后美国帝国大厦发文",
@@ -987,20 +1011,20 @@
       "category": "情感"
     },
     {
-      "raw_hot": 236756,
-      "num": 203215,
-      "word": "创造营首个海外女团出道",
-      "onboard_time": 1712397378,
-      "rank": 23,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 236251,
       "num": 236251,
       "word": "看演唱会千万别用雨衣当坐垫",
       "onboard_time": 1712391438,
       "rank": 27,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 231838,
+      "num": 231838,
+      "word": "千万不要买樱花味食物",
+      "onboard_time": 1712398877,
+      "rank": 23,
+      "category": "美食,幽默"
     },
     {
       "raw_hot": 227066,
@@ -1123,12 +1147,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 196125,
-      "num": 196125,
-      "word": "贾静雯最新状态",
-      "onboard_time": 1712397077,
-      "rank": 25,
-      "category": "综艺"
+      "raw_hot": 194326,
+      "num": 194326,
+      "word": "明天上班",
+      "onboard_time": 1712398939,
+      "rank": 30,
+      "category": "情感"
     },
     {
       "raw_hot": 193845,
@@ -1137,6 +1161,22 @@
       "onboard_time": 1712380758,
       "rank": 32,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 193363,
+      "num": 193363,
+      "word": "拂容君结局",
+      "onboard_time": 1712397378,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 192725,
+      "num": 192725,
+      "word": "婚后的收入应该放在一起吗",
+      "onboard_time": 1712394678,
+      "rank": 39,
+      "category": "情感"
     },
     {
       "raw_hot": 192720,
@@ -1187,14 +1227,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 189163,
-      "num": 189163,
-      "word": "拂容君结局",
-      "onboard_time": 1712397378,
-      "rank": 27,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 187898,
       "num": 169579,
       "word": "众星给张彬彬新剧打call",
@@ -1219,14 +1251,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 184070,
-      "num": 184070,
-      "word": "婚后的收入应该放在一起吗",
-      "onboard_time": 1712394678,
-      "rank": 39,
-      "category": "情感"
-    },
-    {
       "raw_hot": 183752,
       "num": 183752,
       "word": "追星女的密码",
@@ -1249,6 +1273,14 @@
       "onboard_time": 1712384118,
       "rank": 31,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 176652,
+      "num": 176652,
+      "word": "怦然心动20岁4路透",
+      "onboard_time": 1712397197,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 176342,
@@ -1323,6 +1355,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 166981,
+      "num": 178353,
+      "word": "论文重复率越改越高真的太痛苦了",
+      "onboard_time": 1712398757,
+      "rank": 34,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 166405,
+      "num": 194334,
+      "word": "中国海警回应菲律宾侵闯鲎藤礁",
+      "onboard_time": 1712398578,
+      "rank": 49,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 166342,
       "num": 166342,
       "word": "徐海乔好帅",
@@ -1339,12 +1387,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 162982,
-      "num": 162982,
-      "word": "怦然心动20岁4路透",
-      "onboard_time": 1712397197,
-      "rank": 32,
-      "category": "综艺"
+      "raw_hot": 163131,
+      "num": 181709,
+      "word": "谷爱凌 批判性好奇心",
+      "onboard_time": 1712398157,
+      "rank": 36,
+      "category": "体育,网红"
     },
     {
       "raw_hot": 162346,
@@ -1483,20 +1531,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 146652,
+      "num": 146652,
+      "word": "王一博射击反应不是演的",
+      "onboard_time": 1712399059,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 146647,
       "num": 146647,
       "word": "天然散结药就藏在你家餐桌上",
       "onboard_time": 1712384597,
       "rank": 36,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 146446,
-      "num": 146446,
-      "word": "谷爱凌 批判性好奇心",
-      "onboard_time": 1712398157,
-      "rank": 36,
-      "category": "体育,网红"
     },
     {
       "raw_hot": 145642,
@@ -1569,6 +1617,14 @@
       "onboard_time": 1712367558,
       "rank": 37,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 137565,
+      "num": 137565,
+      "word": "在摩尔庄园看到十五年前的留言",
+      "onboard_time": 1712399238,
+      "rank": 42,
+      "category": "游戏"
     },
     {
       "raw_hot": 137202,
@@ -1731,6 +1787,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 119435,
+      "num": 119435,
+      "word": "熊猫届的咯噔文学",
+      "onboard_time": 1712399059,
+      "rank": 45,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 119300,
       "num": 119300,
       "word": "魏若来 嫡徒弟",
@@ -1857,14 +1921,6 @@
       "onboard_time": 1712381419,
       "rank": 47,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 112533,
-      "num": 112533,
-      "word": "中国海警回应菲律宾侵闯鲎藤礁",
-      "onboard_time": 1712398578,
-      "rank": 49,
-      "category": "国内时政"
     },
     {
       "raw_hot": 111714,
@@ -2019,6 +2075,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 99948,
+      "num": 301413,
+      "word": "淄博这个赛季还是强得可怕",
+      "onboard_time": 1712399418,
+      "rank": 16,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 99868,
       "num": 99868,
       "word": "平板支撑时间最长的女性",
@@ -2115,8 +2179,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 86656,
-      "num": 865760,
+      "raw_hot": 89433,
+      "num": 1130314,
       "word": "假期返程安全行车攻略",
       "onboard_time": 1712394318,
       "rank": 2,

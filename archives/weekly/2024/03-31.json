@@ -1,6 +1,6 @@
 {
   "startTime": 1711815680412,
-  "endTime": 1712398676565,
+  "endTime": 1712399661414,
   "band_list": [
     {
       "raw_hot": 16874674,
@@ -747,6 +747,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1473840,
+      "num": 1473840,
+      "word": "孙亚龙进抢救室",
+      "onboard_time": 1712397017,
+      "rank": 10,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 1471260,
       "num": 1471260,
       "word": "王灿被烫伤",
@@ -1467,14 +1475,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 1023150,
-      "num": 376822,
-      "word": "孙亚龙进抢救室",
-      "onboard_time": 1712397017,
-      "rank": 10,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 1022624,
       "num": 1022624,
       "word": "林更新与凤行杀青哭成狗",
@@ -1875,6 +1875,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 863437,
+      "num": 863437,
+      "word": "赵奕欢看穿纪凌尘",
+      "onboard_time": 1712395517,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 859326,
       "num": 859326,
       "word": "政审结束后被告知有五年服务期",
@@ -2057,14 +2065,6 @@
       "onboard_time": 1711855099,
       "rank": 27,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 812450,
-      "num": 812450,
-      "word": "赵奕欢看穿纪凌尘",
-      "onboard_time": 1712395517,
-      "rank": 30,
-      "category": "综艺"
     },
     {
       "raw_hot": 812368,
@@ -3684,7 +3684,7 @@
     },
     {
       "raw_hot": 570344,
-      "num": 220994,
+      "num": 235489,
       "word": "微信式恋爱",
       "onboard_time": 1712394258,
       "rank": 21,
@@ -4033,6 +4033,14 @@
       "onboard_time": 1712288417,
       "rank": 7,
       "category": "电影"
+    },
+    {
+      "raw_hot": 533920,
+      "num": 235853,
+      "word": "女生肝脏不好的八大表现",
+      "onboard_time": 1712397496,
+      "rank": 20,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 533215,
@@ -4641,14 +4649,6 @@
       "onboard_time": 1712185935,
       "rank": 24,
       "category": "情感"
-    },
-    {
-      "raw_hot": 481193,
-      "num": 220304,
-      "word": "女生肝脏不好的八大表现",
-      "onboard_time": 1712397496,
-      "rank": 20,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 481037,
@@ -5491,6 +5491,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 420548,
+      "num": 420548,
+      "word": "甘草片和红药水为什么买不到了",
+      "onboard_time": 1712392878,
+      "rank": 30,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 420420,
       "num": 420420,
       "word": "武艺的洁癖被公开处刑了",
@@ -5641,14 +5649,6 @@
       "onboard_time": 1712034740,
       "rank": 21,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 410896,
-      "num": 410896,
-      "word": "甘草片和红药水为什么买不到了",
-      "onboard_time": 1712392878,
-      "rank": 30,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 410806,
@@ -5889,6 +5889,14 @@
       "onboard_time": 1711979241,
       "rank": 7,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 394655,
+      "num": 394655,
+      "word": "54岁老板当主播日进百万",
+      "onboard_time": 1712397017,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 394352,
@@ -6499,6 +6507,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 353616,
+      "num": 353616,
+      "word": "迪士尼偶遇刘宇宁",
+      "onboard_time": 1712397258,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 352778,
       "num": 352778,
       "word": "种地吧新闻联播",
@@ -6585,6 +6601,14 @@
       "onboard_time": 1711945585,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 346805,
+      "num": 346805,
+      "word": "身价过亿的有钱人生活",
+      "onboard_time": 1712394857,
+      "rank": 44,
+      "category": "情感"
     },
     {
       "raw_hot": 346764,
@@ -7019,6 +7043,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 322610,
+      "num": 322610,
+      "word": "徐海乔有效客串",
+      "onboard_time": 1712395337,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 321341,
       "num": 321341,
       "word": "沈璃吻了个蚌",
@@ -7065,14 +7097,6 @@
       "onboard_time": 1711864817,
       "rank": 16,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 317838,
-      "num": 317838,
-      "word": "身价过亿的有钱人生活",
-      "onboard_time": 1712394857,
-      "rank": 44,
-      "category": "情感"
     },
     {
       "raw_hot": 317781,
@@ -7201,6 +7225,14 @@
       "onboard_time": 1712117363,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 311053,
+      "num": 311053,
+      "word": "放假三天躺了三天",
+      "onboard_time": 1712398877,
+      "rank": 14,
+      "category": "幽默"
     },
     {
       "raw_hot": 310643,
@@ -7491,6 +7523,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 301104,
+      "num": 301104,
+      "word": "梅西赛后走进对手更衣室大声喊叫",
+      "onboard_time": 1712395278,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 300961,
       "num": 300961,
       "word": "伊朗",
@@ -7649,6 +7689,14 @@
       "onboard_time": 1712030480,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 293251,
+      "num": 293251,
+      "word": "贾静雯最新状态",
+      "onboard_time": 1712397077,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 293218,
@@ -8051,14 +8099,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 278642,
-      "num": 377310,
-      "word": "54岁老板当主播日进百万",
-      "onboard_time": 1712397017,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 277748,
       "num": 277748,
       "word": "韩国总统首次就医改寻求妥协",
@@ -8115,14 +8155,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 275712,
-      "num": 275712,
-      "word": "徐海乔有效客串",
-      "onboard_time": 1712395337,
-      "rank": 28,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 275439,
       "num": 275439,
       "word": "台湾已发生10次地震",
@@ -8145,6 +8177,14 @@
       "onboard_time": 1711843938,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 274930,
+      "num": 227125,
+      "word": "创造营首个海外女团出道",
+      "onboard_time": 1712397378,
+      "rank": 23,
+      "category": "综艺"
     },
     {
       "raw_hot": 274808,
@@ -8393,14 +8433,6 @@
       "onboard_time": 1712038098,
       "rank": 25,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 265602,
-      "num": 265602,
-      "word": "迪士尼偶遇刘宇宁",
-      "onboard_time": 1712397258,
-      "rank": 15,
-      "category": "艺人"
     },
     {
       "raw_hot": 265153,
@@ -8865,14 +8897,6 @@
       "onboard_time": 1711959500,
       "rank": 32,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 251373,
-      "num": 251373,
-      "word": "梅西赛后走进对手更衣室大声喊叫",
-      "onboard_time": 1712395278,
-      "rank": 29,
-      "category": "体育"
     },
     {
       "raw_hot": 251185,
@@ -9435,14 +9459,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 236756,
-      "num": 203215,
-      "word": "创造营首个海外女团出道",
-      "onboard_time": 1712397378,
-      "rank": 23,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 236289,
       "num": 236289,
       "word": "孙颖莎彻底打服日本一号",
@@ -9673,6 +9689,14 @@
       "onboard_time": 1712106867,
       "rank": 38,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 231838,
+      "num": 231838,
+      "word": "千万不要买樱花味食物",
+      "onboard_time": 1712398877,
+      "rank": 23,
+      "category": "美食,幽默"
     },
     {
       "raw_hot": 231688,
@@ -11595,14 +11619,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 196125,
-      "num": 196125,
-      "word": "贾静雯最新状态",
-      "onboard_time": 1712397077,
-      "rank": 25,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 196053,
       "num": 196053,
       "word": "我妈把狗粮当中药熬给我弟喝了",
@@ -11755,6 +11771,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 194326,
+      "num": 194326,
+      "word": "明天上班",
+      "onboard_time": 1712398939,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 194276,
       "num": 194276,
       "word": "张杰黑色渔夫帽",
@@ -11795,6 +11819,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 193363,
+      "num": 193363,
+      "word": "拂容君结局",
+      "onboard_time": 1712397378,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 193346,
       "num": 193346,
       "word": "蒋勤勤 吴磊小时候咋没演过我儿子",
@@ -11825,6 +11857,14 @@
       "onboard_time": 1711900818,
       "rank": 38,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 192725,
+      "num": 192725,
+      "word": "婚后的收入应该放在一起吗",
+      "onboard_time": 1712394678,
+      "rank": 39,
+      "category": "情感"
     },
     {
       "raw_hot": 192720,
@@ -12195,14 +12235,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 189163,
-      "num": 189163,
-      "word": "拂容君结局",
-      "onboard_time": 1712397378,
-      "rank": 27,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 189029,
       "num": 189029,
       "word": "因为生活费和妈妈又吵架了",
@@ -12529,14 +12561,6 @@
       "onboard_time": 1712030241,
       "rank": 32,
       "category": "财经,社会新闻"
-    },
-    {
-      "raw_hot": 184070,
-      "num": 184070,
-      "word": "婚后的收入应该放在一起吗",
-      "onboard_time": 1712394678,
-      "rank": 39,
-      "category": "情感"
     },
     {
       "raw_hot": 183920,
@@ -13048,6 +13072,14 @@
       "word": "赵奕欢回应演网大出身",
       "onboard_time": 1711851378,
       "rank": 33,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 176652,
+      "num": 176652,
+      "word": "怦然心动20岁4路透",
+      "onboard_time": 1712397197,
+      "rank": 32,
       "category": "综艺"
     },
     {
@@ -13627,6 +13659,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 166981,
+      "num": 178353,
+      "word": "论文重复率越改越高真的太痛苦了",
+      "onboard_time": 1712398757,
+      "rank": 34,
+      "category": "教育"
+    },
+    {
       "raw_hot": 166851,
       "num": 166851,
       "word": "追风者刀麻了",
@@ -13673,6 +13713,14 @@
       "onboard_time": 1711897400,
       "rank": 42,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 166405,
+      "num": 194334,
+      "word": "中国海警回应菲律宾侵闯鲎藤礁",
+      "onboard_time": 1712398578,
+      "rank": 49,
+      "category": "国内时政"
     },
     {
       "raw_hot": 166342,
@@ -13859,20 +13907,20 @@
       "category": "电影"
     },
     {
+      "raw_hot": 163131,
+      "num": 181709,
+      "word": "谷爱凌 批判性好奇心",
+      "onboard_time": 1712398157,
+      "rank": 36,
+      "category": "体育,网红"
+    },
+    {
       "raw_hot": 163123,
       "num": 163123,
       "word": "原神",
       "onboard_time": 1712149280,
       "rank": 48,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 162982,
-      "num": 162982,
-      "word": "怦然心动20岁4路透",
-      "onboard_time": 1712397197,
-      "rank": 32,
-      "category": "综艺"
     },
     {
       "raw_hot": 162814,
@@ -15211,6 +15259,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 146652,
+      "num": 146652,
+      "word": "王一博射击反应不是演的",
+      "onboard_time": 1712399059,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 146647,
       "num": 146647,
       "word": "天然散结药就藏在你家餐桌上",
@@ -15225,14 +15281,6 @@
       "onboard_time": 1711903037,
       "rank": 25,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 146446,
-      "num": 146446,
-      "word": "谷爱凌 批判性好奇心",
-      "onboard_time": 1712398157,
-      "rank": 36,
-      "category": "体育,网红"
     },
     {
       "raw_hot": 146301,
@@ -15889,6 +15937,14 @@
       "onboard_time": 1711803559,
       "rank": 36,
       "category": "艺人,汽车"
+    },
+    {
+      "raw_hot": 137565,
+      "num": 137565,
+      "word": "在摩尔庄园看到十五年前的留言",
+      "onboard_time": 1712399238,
+      "rank": 42,
+      "category": "游戏"
     },
     {
       "raw_hot": 137488,
@@ -16891,6 +16947,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 119435,
+      "num": 119435,
+      "word": "熊猫届的咯噔文学",
+      "onboard_time": 1712399059,
+      "rank": 45,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 119331,
       "num": 111985,
       "word": "09diss小楼标榜独立女性",
@@ -17241,14 +17305,6 @@
       "onboard_time": 1712046259,
       "rank": 44,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 112533,
-      "num": 112533,
-      "word": "中国海警回应菲律宾侵闯鲎藤礁",
-      "onboard_time": 1712398578,
-      "rank": 49,
-      "category": "国内时政"
     },
     {
       "raw_hot": 112313,
@@ -17603,6 +17659,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 99948,
+      "num": 301413,
+      "word": "淄博这个赛季还是强得可怕",
+      "onboard_time": 1712399418,
+      "rank": 16,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 99868,
       "num": 99868,
       "word": "平板支撑时间最长的女性",
@@ -17867,6 +17931,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 89433,
+      "num": 1130314,
+      "word": "假期返程安全行车攻略",
+      "onboard_time": 1712394318,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 88358,
       "num": 96029,
       "word": "原来这才是拜财神的正确方式",
@@ -17888,14 +17960,6 @@
       "word": "课本中的春天",
       "onboard_time": 1712310679,
       "rank": 8,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 86656,
-      "num": 865760,
-      "word": "假期返程安全行车攻略",
-      "onboard_time": 1712394318,
-      "rank": 2,
       "category": "社会新闻"
     },
     {
