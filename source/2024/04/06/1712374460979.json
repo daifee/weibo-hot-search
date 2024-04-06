@@ -1,0 +1,410 @@
+{
+  "runTime": 1712374460979,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1659237,
+        "num": 1659237,
+        "word": "南大回应考研总成绩第一名不被录取",
+        "onboard_time": 1712371458,
+        "rank": 0,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 1079654,
+        "num": 1079654,
+        "word": "广州暴雨",
+        "onboard_time": 1712369656,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 28088,
+        "num": 964510,
+        "word": "孩子们将碧空版如愿唱给空军英烈",
+        "onboard_time": 1712325319,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 926455,
+        "num": 926455,
+        "word": "孙俪大提琴一级考出来了",
+        "onboard_time": 1712367137,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 591578,
+        "num": 591578,
+        "word": "上次这么穿的还是沈眉庄",
+        "onboard_time": 1712371578,
+        "rank": 4,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 591184,
+        "num": 591184,
+        "word": "林更新哭戏",
+        "onboard_time": 1712371698,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 563182,
+        "num": 563182,
+        "word": "你好星期六全员种花",
+        "onboard_time": 1712370617,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 510681,
+        "num": 510681,
+        "word": "云南会泽县地震",
+        "onboard_time": 1712371698,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 477600,
+        "num": 477600,
+        "word": "李沁千金回国妆",
+        "onboard_time": 1712367857,
+        "rank": 8,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 132671,
+        "num": 470492,
+        "word": "女孩推轮椅妈妈坐地铁一路获帮助",
+        "onboard_time": 1712369598,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1110368,
+        "num": 469467,
+        "word": "某幻 吴秋怡",
+        "onboard_time": 1712360835,
+        "rank": 10,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 807364,
+        "num": 468293,
+        "word": "以色列叫停全体作战部队休假",
+        "onboard_time": 1712369839,
+        "rank": 11,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 464159,
+        "num": 464159,
+        "word": "这居然是谢可寅",
+        "onboard_time": 1712360595,
+        "rank": 12,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 442890,
+        "num": 442890,
+        "word": "安宰贤离婚梗",
+        "onboard_time": 1712370016,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 427093,
+        "num": 427093,
+        "word": "前夫殴打10岁女儿女子忍痛拍下取证",
+        "onboard_time": 1712329340,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 395426,
+        "num": 395426,
+        "word": "广州冰雹",
+        "onboard_time": 1712371397,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 389106,
+        "num": 389106,
+        "word": "马斯克称将对X上的成人内容大清洗",
+        "onboard_time": 1712369958,
+        "rank": 16,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 339673,
+        "num": 339673,
+        "word": "范丞丞脸上的二进制代码",
+        "onboard_time": 1712372240,
+        "rank": 17,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 314926,
+        "num": 314926,
+        "word": "爱奇艺涨超4%",
+        "onboard_time": 1712367797,
+        "rank": 18,
+        "category": "互联网,财经"
+      },
+      {
+        "raw_hot": 305691,
+        "num": 305691,
+        "word": "李白没骗人",
+        "onboard_time": 1712373318,
+        "rank": 19,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 310240,
+        "num": 304704,
+        "word": "医生建议不要饿着肚子睡觉",
+        "onboard_time": 1712329519,
+        "rank": 20,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 303158,
+        "num": 303158,
+        "word": "宝宝在爸爸怀里哭唱世上只有妈妈好",
+        "onboard_time": 1712368518,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 281316,
+        "num": 281316,
+        "word": "你的月经真的不规律吗",
+        "onboard_time": 1712373258,
+        "rank": 22,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 255795,
+        "num": 255795,
+        "word": "研究生招录应增加品德考核比重吗",
+        "onboard_time": 1712371157,
+        "rank": 23,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 252886,
+        "num": 252886,
+        "word": "傅融 俺是河南嘞",
+        "onboard_time": 1712373799,
+        "rank": 24,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 249029,
+        "num": 249029,
+        "word": "为什么清明节子女没有参与感",
+        "onboard_time": 1712373137,
+        "rank": 25,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 235755,
+        "num": 235755,
+        "word": "五月天歌迷会疑似是黄牛",
+        "onboard_time": 1712361497,
+        "rank": 26,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 233462,
+        "num": 233462,
+        "word": "金智媛8集换了82套造型",
+        "onboard_time": 1712362697,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 225516,
+        "num": 225516,
+        "word": "琉羽喜欢这个孩子吗",
+        "onboard_time": 1712370977,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 175819,
+        "num": 215730,
+        "word": "如何查询手机号绑定的APP账号",
+        "onboard_time": 1712373137,
+        "rank": 29,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 250079,
+        "num": 215077,
+        "word": "地震后美国帝国大厦发文",
+        "onboard_time": 1712371937,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 211540,
+        "num": 211540,
+        "word": "纽约震感",
+        "onboard_time": 1712328140,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 193438,
+        "num": 193438,
+        "word": "以色列临时关闭28个驻外使馆",
+        "onboard_time": 1712363897,
+        "rank": 32,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 191591,
+        "num": 191591,
+        "word": "中产爱吃的贝果为什么中间有个洞",
+        "onboard_time": 1712363597,
+        "rank": 33,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 187272,
+        "num": 187272,
+        "word": "赵丽颖与凤行获得爆剧认证",
+        "onboard_time": 1712356991,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 172833,
+        "num": 172833,
+        "word": "一块热毛巾差点导致截肢",
+        "onboard_time": 1712367078,
+        "rank": 35,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 168322,
+        "num": 168322,
+        "word": "广为传播的珍妃照片是假的",
+        "onboard_time": 1712364497,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 163454,
+        "num": 163454,
+        "word": "NINEPERCENT六周年",
+        "onboard_time": 1712361556,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 162333,
+        "num": 162333,
+        "word": "月薪五万是一种什么体验",
+        "onboard_time": 1712329220,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 135422,
+        "num": 135422,
+        "word": "43岁的夏达",
+        "onboard_time": 1712371038,
+        "rank": 39,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 134941,
+        "num": 134941,
+        "word": "小米SU7首位车主浮出",
+        "onboard_time": 1712360175,
+        "rank": 40,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 119593,
+        "num": 119593,
+        "word": "谢帝我要迪士尼全过程",
+        "onboard_time": 1712360716,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 113536,
+        "num": 113536,
+        "word": "行止要当爸爸了",
+        "onboard_time": 1712335755,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 112881,
+        "num": 112881,
+        "word": "金价",
+        "onboard_time": 1712374338,
+        "rank": 43,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 109980,
+        "num": 109980,
+        "word": "勇士vs独行侠",
+        "onboard_time": 1712372356,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 105193,
+        "num": 105193,
+        "word": "清明假期最后一天",
+        "onboard_time": 1712371937,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 102335,
+        "num": 102335,
+        "word": "以色列",
+        "onboard_time": 1712367198,
+        "rank": 46,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 99868,
+        "num": 99868,
+        "word": "平板支撑时间最长的女性",
+        "onboard_time": 1712374277,
+        "rank": 47,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 95304,
+        "num": 95304,
+        "word": "宋雨琦先行曲",
+        "onboard_time": 1712372838,
+        "rank": 48,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 94638,
+        "num": 94638,
+        "word": "爱奇艺在干嘛",
+        "onboard_time": 1712321540,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#家国永念致敬英雄#"
+    }
+  }
+}
