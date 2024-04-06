@@ -1,6 +1,6 @@
 {
   "startTime": 1711902044401,
-  "endTime": 1712396063398,
+  "endTime": 1712398676565,
   "band_list": [
     {
       "raw_hot": 16874674,
@@ -1283,6 +1283,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1023150,
+      "num": 376822,
+      "word": "孙亚龙进抢救室",
+      "onboard_time": 1712397017,
+      "rank": 10,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 1022624,
       "num": 1022624,
       "word": "林更新与凤行杀青哭成狗",
@@ -1819,6 +1827,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 812450,
+      "num": 812450,
+      "word": "赵奕欢看穿纪凌尘",
+      "onboard_time": 1712395517,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 812368,
       "num": 503196,
       "word": "飓风坠楼3条人命牵出江西贪腐第一大案",
@@ -2225,6 +2241,14 @@
       "onboard_time": 1711945224,
       "rank": 38,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 706169,
+      "num": 706169,
+      "word": "Doinb重返直播间",
+      "onboard_time": 1712393718,
+      "rank": 13,
+      "category": "电竞,网红"
     },
     {
       "raw_hot": 704772,
@@ -3995,6 +4019,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 481193,
+      "num": 220304,
+      "word": "女生肝脏不好的八大表现",
+      "onboard_time": 1712397496,
+      "rank": 20,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 481037,
       "num": 481037,
       "word": "胖东来今年将安排全员出国游",
@@ -4851,6 +4883,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 410896,
+      "num": 410896,
+      "word": "甘草片和红药水为什么买不到了",
+      "onboard_time": 1712392878,
+      "rank": 30,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 410806,
       "num": 410806,
       "word": "90后女子故意在取保候审期间怀孕",
@@ -5265,14 +5305,6 @@
       "onboard_time": 1712132421,
       "rank": 41,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 380460,
-      "num": 380460,
-      "word": "Doinb重返直播间",
-      "onboard_time": 1712393718,
-      "rank": 13,
-      "category": "电竞,网红"
     },
     {
       "raw_hot": 380268,
@@ -6099,6 +6131,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 317838,
+      "num": 317838,
+      "word": "身价过亿的有钱人生活",
+      "onboard_time": 1712394857,
+      "rank": 44,
+      "category": "情感"
+    },
+    {
       "raw_hot": 317781,
       "num": 317781,
       "word": "Doinb是谁",
@@ -6899,6 +6939,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 278642,
+      "num": 377310,
+      "word": "54岁老板当主播日进百万",
+      "onboard_time": 1712397017,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 277748,
       "num": 277748,
       "word": "韩国总统首次就医改寻求妥协",
@@ -6953,6 +7001,14 @@
       "onboard_time": 1712214559,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 275712,
+      "num": 275712,
+      "word": "徐海乔有效客串",
+      "onboard_time": 1712395337,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 275439,
@@ -7169,6 +7225,14 @@
       "onboard_time": 1712038098,
       "rank": 25,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 265602,
+      "num": 265602,
+      "word": "迪士尼偶遇刘宇宁",
+      "onboard_time": 1712397258,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 265153,
@@ -7577,6 +7641,14 @@
       "onboard_time": 1711959500,
       "rank": 32,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 251373,
+      "num": 251373,
+      "word": "梅西赛后走进对手更衣室大声喊叫",
+      "onboard_time": 1712395278,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 251185,
@@ -8043,6 +8115,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 236756,
+      "num": 203215,
+      "word": "创造营首个海外女团出道",
+      "onboard_time": 1712397378,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 236251,
       "num": 236251,
       "word": "看演唱会千万别用雨衣当坐垫",
@@ -8297,14 +8377,6 @@
       "onboard_time": 1712161396,
       "rank": 23,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 228434,
-      "num": 174729,
-      "word": "赵奕欢看穿纪凌尘",
-      "onboard_time": 1712395517,
-      "rank": 30,
-      "category": "综艺"
     },
     {
       "raw_hot": 228328,
@@ -9827,6 +9899,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 196125,
+      "num": 196125,
+      "word": "贾静雯最新状态",
+      "onboard_time": 1712397077,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 196053,
       "num": 196053,
       "word": "我妈把狗粮当中药熬给我弟喝了",
@@ -10131,6 +10211,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 191820,
+      "num": 191820,
+      "word": "薛之谦杭州站",
+      "onboard_time": 1712397856,
+      "rank": 26,
+      "category": "演出"
+    },
+    {
       "raw_hot": 191739,
       "num": 191739,
       "word": "百度四分之一代码是AI程序员写的",
@@ -10371,6 +10459,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 189163,
+      "num": 189163,
+      "word": "拂容君结局",
+      "onboard_time": 1712397378,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 188981,
       "num": 188981,
       "word": "雷军现身小米SU7交付仪式",
@@ -10555,6 +10651,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 186125,
+      "num": 186125,
+      "word": "正告菲方任何侵权伎俩都是徒劳",
+      "onboard_time": 1712397919,
+      "rank": 28,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 185883,
       "num": 185883,
       "word": "15年前的合法恋爱也要躺枪吗",
@@ -10635,6 +10739,14 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 184070,
+      "num": 184070,
+      "word": "婚后的收入应该放在一起吗",
+      "onboard_time": 1712394678,
+      "rank": 39,
+      "category": "情感"
+    },
+    {
       "raw_hot": 183920,
       "num": 183920,
       "word": "张可颐回应与宣萱佘诗曼不和",
@@ -10689,14 +10801,6 @@
       "onboard_time": 1712243899,
       "rank": 36,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 183346,
-      "num": 183346,
-      "word": "身价过亿的有钱人生活",
-      "onboard_time": 1712394857,
-      "rank": 44,
-      "category": "情感"
     },
     {
       "raw_hot": 182886,
@@ -11019,22 +11123,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 177391,
-      "num": 177391,
-      "word": "甘草片和红药水为什么买不到了",
-      "onboard_time": 1712392878,
-      "rank": 30,
-      "category": "健康医疗"
-    },
-    {
-      "raw_hot": 177333,
-      "num": 177333,
-      "word": "徐海乔有效客串",
-      "onboard_time": 1712395337,
-      "rank": 28,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 177285,
       "num": 1163178,
       "word": "春天很好只是太想你",
@@ -11225,14 +11313,6 @@
       "onboard_time": 1712195598,
       "rank": 37,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 173778,
-      "num": 173778,
-      "word": "婚后的收入应该放在一起吗",
-      "onboard_time": 1712394678,
-      "rank": 39,
-      "category": "情感"
     },
     {
       "raw_hot": 173751,
@@ -11755,6 +11835,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 162982,
+      "num": 162982,
+      "word": "怦然心动20岁4路透",
+      "onboard_time": 1712397197,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 162814,
       "num": 162814,
       "word": "四川一元一串的钵钵鸡火到了国外",
@@ -11793,6 +11881,14 @@
       "onboard_time": 1712136920,
       "rank": 44,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 162211,
+      "num": 162211,
+      "word": "林更新铁坦",
+      "onboard_time": 1712397317,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 161966,
@@ -12321,14 +12417,6 @@
       "onboard_time": 1711972879,
       "rank": 28,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 154017,
-      "num": 175133,
-      "word": "梅西赛后走进对手更衣室大声喊叫",
-      "onboard_time": 1712395278,
-      "rank": 29,
-      "category": "体育"
     },
     {
       "raw_hot": 153932,
@@ -12931,6 +13019,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 146446,
+      "num": 146446,
+      "word": "谷爱凌 批判性好奇心",
+      "onboard_time": 1712398157,
+      "rank": 36,
+      "category": "体育,网红"
+    },
+    {
       "raw_hot": 146301,
       "num": 146301,
       "word": "黄雀在后",
@@ -13257,6 +13353,14 @@
       "onboard_time": 1712028799,
       "rank": 37,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 141313,
+      "num": 141313,
+      "word": "银临开票",
+      "onboard_time": 1712396117,
+      "rank": 37,
+      "category": "演出"
     },
     {
       "raw_hot": 141062,
@@ -14171,6 +14275,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 122455,
+      "num": 122455,
+      "word": "鹭卓说十个勤天是十个土匪",
+      "onboard_time": 1712396418,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 121929,
       "num": 121929,
       "word": "王一博哭戏",
@@ -14313,6 +14425,14 @@
       "onboard_time": 1712161457,
       "rank": 35,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 118634,
+      "num": 118634,
+      "word": "男生宿舍带特产",
+      "onboard_time": 1712398638,
+      "rank": 46,
+      "category": "情感"
     },
     {
       "raw_hot": 118423,
@@ -14561,6 +14681,14 @@
       "onboard_time": 1712046259,
       "rank": 44,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 112533,
+      "num": 112533,
+      "word": "中国海警回应菲律宾侵闯鲎藤礁",
+      "onboard_time": 1712398578,
+      "rank": 49,
+      "category": "国内时政"
     },
     {
       "raw_hot": 112313,
@@ -15075,6 +15203,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 86656,
+      "num": 865760,
+      "word": "假期返程安全行车攻略",
+      "onboard_time": 1712394318,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 86602,
       "num": 86602,
       "word": "与凤行 知识狡猾地进入我脑袋",
@@ -15129,14 +15265,6 @@
       "onboard_time": 1711941500,
       "rank": 47,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 81180,
-      "num": 865760,
-      "word": "假期返程安全行车攻略",
-      "onboard_time": 1712394318,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 81007,
