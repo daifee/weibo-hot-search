@@ -1,6 +1,6 @@
 {
   "startTime": 1711902044401,
-  "endTime": 1712441778099,
+  "endTime": 1712442844746,
   "band_list": [
     {
       "raw_hot": 16874674,
@@ -16451,6 +16451,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 64099,
+      "num": 64099,
+      "word": "三代日本皇室女性都曾患上心理疾病",
+      "onboard_time": 1712430730,
+      "rank": 18,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 64015,
       "num": 64015,
       "word": "大约80%的人存在鼻中隔偏曲",
@@ -16731,14 +16739,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 51383,
-      "num": 51383,
-      "word": "三代日本皇室女性都曾患上心理疾病",
-      "onboard_time": 1712430730,
-      "rank": 18,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 51202,
       "num": 55339,
       "word": "张杰演唱会来了好多明星",
@@ -16859,12 +16859,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 42558,
+      "num": 42558,
+      "word": "吵了一辈子的爸妈在晚年爱上彼此",
+      "onboard_time": 1712433790,
+      "rank": 38,
+      "category": "情感"
+    },
+    {
       "raw_hot": 42121,
       "num": 1309601,
       "word": "清明版如愿致敬先辈",
       "onboard_time": 1712234720,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 38901,
+      "num": 38901,
+      "word": "当我帮奶奶重启了手机",
+      "onboard_time": 1712437450,
+      "rank": 44,
+      "category": "情感"
     },
     {
       "raw_hot": 38780,
@@ -16915,6 +16931,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 35379,
+      "num": 35379,
+      "word": "电视剧品质盛典",
+      "onboard_time": 1712437750,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 34601,
       "num": 34601,
       "word": "张婧仪演破产豪门",
@@ -16955,22 +16979,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 32559,
-      "num": 32559,
-      "word": "吵了一辈子的爸妈在晚年爱上彼此",
-      "onboard_time": 1712433790,
-      "rank": 38,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 32237,
-      "num": 32237,
-      "word": "电视剧品质盛典",
-      "onboard_time": 1712437750,
-      "rank": 43,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 32101,
       "num": 45269,
       "word": "第一个因推销员受害的小狗出现了",
@@ -16985,14 +16993,6 @@
       "onboard_time": 1712075896,
       "rank": 48,
       "category": "演出"
-    },
-    {
-      "raw_hot": 30593,
-      "num": 30593,
-      "word": "当我帮奶奶重启了手机",
-      "onboard_time": 1712437450,
-      "rank": 44,
-      "category": "情感"
     },
     {
       "raw_hot": 30044,
@@ -17019,6 +17019,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 28765,
+      "num": 28765,
+      "word": "松本润近照",
+      "onboard_time": 1712432831,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 28707,
       "num": 28707,
       "word": "台北捷运高铁全线暂停营运",
@@ -17041,14 +17049,6 @@
       "onboard_time": 1712345591,
       "rank": 37,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 27310,
-      "num": 22411,
-      "word": "松本润近照",
-      "onboard_time": 1712432831,
-      "rank": 22,
-      "category": "艺人"
     },
     {
       "raw_hot": 27309,
