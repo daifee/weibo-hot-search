@@ -1,6 +1,6 @@
 {
   "startTime": 1711815680412,
-  "endTime": 1712381642585,
+  "endTime": 1712384513242,
   "band_list": [
     {
       "raw_hot": 16874674,
@@ -1747,6 +1747,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 881595,
+      "num": 881595,
+      "word": "林更新流量不大就两百多兆",
+      "onboard_time": 1712381059,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 881528,
       "num": 881528,
       "word": "关晓彤裤子是不是有点短了",
@@ -2953,6 +2961,14 @@
       "onboard_time": 1712130560,
       "rank": 7,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 647061,
+      "num": 647061,
+      "word": "吴宣仪认证自己很姬",
+      "onboard_time": 1712383217,
+      "rank": 3,
+      "category": "艺人"
     },
     {
       "raw_hot": 646612,
@@ -6299,6 +6315,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 355689,
+      "num": 348016,
+      "word": "老舅坐鹿晗大腿",
+      "onboard_time": 1712383817,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 355173,
       "num": 355173,
       "word": "NINEPERCENT六周年",
@@ -6329,6 +6353,14 @@
       "onboard_time": 1712153182,
       "rank": 33,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 350901,
+      "num": 350901,
+      "word": "王俊凯 盒子里的猫预告",
+      "onboard_time": 1712381298,
+      "rank": 18,
+      "category": "综艺"
     },
     {
       "raw_hot": 350827,
@@ -6545,6 +6577,14 @@
       "onboard_time": 1712228179,
       "rank": 19,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 336396,
+      "num": 336396,
+      "word": "锦超也嗑郑合惠子cp",
+      "onboard_time": 1712382018,
+      "rank": 15,
+      "category": "综艺"
     },
     {
       "raw_hot": 335896,
@@ -7915,14 +7955,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 273887,
-      "num": 273887,
-      "word": "王俊凯 盒子里的猫预告",
-      "onboard_time": 1712381298,
-      "rank": 18,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 273641,
       "num": 273641,
       "word": "周大福足金饰品金价突破700元",
@@ -8425,6 +8457,14 @@
       "onboard_time": 1712153123,
       "rank": 30,
       "category": "电影"
+    },
+    {
+      "raw_hot": 257424,
+      "num": 216235,
+      "word": "首饰金价涨至每克710元",
+      "onboard_time": 1712382918,
+      "rank": 22,
+      "category": "财经"
     },
     {
       "raw_hot": 257165,
@@ -8969,6 +9009,14 @@
       "onboard_time": 1712017940,
       "rank": 27,
       "category": "情感"
+    },
+    {
+      "raw_hot": 241103,
+      "num": 241103,
+      "word": "鹿晗请粉丝喝椰子水",
+      "onboard_time": 1712383277,
+      "rank": 18,
+      "category": "综艺"
     },
     {
       "raw_hot": 240858,
@@ -9547,14 +9595,6 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 227207,
-      "num": 216024,
-      "word": "林更新流量不大就两百多兆",
-      "onboard_time": 1712381059,
-      "rank": 29,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 227082,
       "num": 227082,
       "word": "kep1er五月最后一次回归",
@@ -10025,6 +10065,14 @@
       "onboard_time": 1712292497,
       "rank": 42,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 216590,
+      "num": 202829,
+      "word": "沈璃父母 仙侠版狼少年",
+      "onboard_time": 1712382317,
+      "rank": 24,
+      "category": "剧集"
     },
     {
       "raw_hot": 216430,
@@ -12179,6 +12227,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 183752,
+      "num": 183752,
+      "word": "追星女的密码",
+      "onboard_time": 1712383096,
+      "rank": 28,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 183679,
       "num": 183679,
       "word": "吴宗宪回应女儿咖啡店被砸",
@@ -12401,6 +12457,14 @@
       "onboard_time": 1712291117,
       "rank": 32,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 180121,
+      "num": 180121,
+      "word": "囤金大户变现",
+      "onboard_time": 1712381898,
+      "rank": 29,
+      "category": "财经"
     },
     {
       "raw_hot": 180073,
@@ -13323,6 +13387,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 165597,
+      "num": 165597,
+      "word": "范丞丞的背",
+      "onboard_time": 1712384118,
+      "rank": 31,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 165461,
       "num": 165461,
       "word": "拂容君下凡渡劫燃起来了",
@@ -13697,6 +13769,14 @@
       "onboard_time": 1711902197,
       "rank": 27,
       "category": "情感"
+    },
+    {
+      "raw_hot": 159003,
+      "num": 159003,
+      "word": "得了肾结石这5个饮食习惯千万避开",
+      "onboard_time": 1712383337,
+      "rank": 32,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 159001,
@@ -15947,6 +16027,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 126651,
+      "num": 126651,
+      "word": "花间令",
+      "onboard_time": 1711849038,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 126635,
       "num": 651473,
       "word": "在青岛菜市场50元品尝春天的味道",
@@ -16595,14 +16683,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 114166,
-      "num": 114166,
-      "word": "花间令",
-      "onboard_time": 1711849038,
-      "rank": 46,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 113529,
       "num": 113529,
       "word": "阿拉斯加走丢后在大街上大哭",
@@ -17107,12 +17187,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 93709,
+      "num": 93709,
+      "word": "给猫戴GPS发现它也太忙了",
+      "onboard_time": 1712383038,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 93152,
       "num": 127680,
       "word": "重师美院原院长被曝诱骗学生当小三",
       "onboard_time": 1711799476,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 92255,
+      "num": 92255,
+      "word": "重庆大渡口江边来了一群稀客",
+      "onboard_time": 1712384176,
+      "rank": 48,
+      "category": "旅游"
     },
     {
       "raw_hot": 91813,
@@ -17137,6 +17233,14 @@
       "onboard_time": 1712075416,
       "rank": 36,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 90384,
+      "num": 90384,
+      "word": "照片和镜子里的自己哪个更真实",
+      "onboard_time": 1712383038,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 89618,

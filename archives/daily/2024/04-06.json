@@ -1,6 +1,6 @@
 {
   "startTime": 1712334193790,
-  "endTime": 1712381642585,
+  "endTime": 1712384513242,
   "band_list": [
     {
       "raw_hot": 1713312,
@@ -73,6 +73,14 @@
       "onboard_time": 1712360595,
       "rank": 1,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 881595,
+      "num": 881595,
+      "word": "林更新流量不大就两百多兆",
+      "onboard_time": 1712381059,
+      "rank": 29,
+      "category": "综艺"
     },
     {
       "raw_hot": 875862,
@@ -177,6 +185,14 @@
       "onboard_time": 1712367797,
       "rank": 12,
       "category": "互联网,财经"
+    },
+    {
+      "raw_hot": 647061,
+      "num": 647061,
+      "word": "吴宣仪认证自己很姬",
+      "onboard_time": 1712383217,
+      "rank": 3,
+      "category": "艺人"
     },
     {
       "raw_hot": 620922,
@@ -475,12 +491,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 355689,
+      "num": 348016,
+      "word": "老舅坐鹿晗大腿",
+      "onboard_time": 1712383817,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 355173,
       "num": 355173,
       "word": "NINEPERCENT六周年",
       "onboard_time": 1712361556,
       "rank": 14,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 350901,
+      "num": 350901,
+      "word": "王俊凯 盒子里的猫预告",
+      "onboard_time": 1712381298,
+      "rank": 18,
+      "category": "综艺"
     },
     {
       "raw_hot": 348947,
@@ -504,6 +536,14 @@
       "word": "盒子里的猫",
       "onboard_time": 1712378357,
       "rank": 23,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 336396,
+      "num": 336396,
+      "word": "锦超也嗑郑合惠子cp",
+      "onboard_time": 1712382018,
+      "rank": 15,
       "category": "综艺"
     },
     {
@@ -595,14 +635,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 273887,
-      "num": 273887,
-      "word": "王俊凯 盒子里的猫预告",
-      "onboard_time": 1712381298,
-      "rank": 18,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 271483,
       "num": 271483,
       "word": "沈璃买小孩的衣服原因找到了",
@@ -641,6 +673,14 @@
       "onboard_time": 1712376378,
       "rank": 24,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 257424,
+      "num": 216235,
+      "word": "首饰金价涨至每克710元",
+      "onboard_time": 1712382918,
+      "rank": 22,
+      "category": "财经"
     },
     {
       "raw_hot": 255795,
@@ -699,11 +739,11 @@
       "category": "情感"
     },
     {
-      "raw_hot": 227207,
-      "num": 216024,
-      "word": "林更新流量不大就两百多兆",
-      "onboard_time": 1712381059,
-      "rank": 29,
+      "raw_hot": 241103,
+      "num": 241103,
+      "word": "鹿晗请粉丝喝椰子水",
+      "onboard_time": 1712383277,
+      "rank": 18,
       "category": "综艺"
     },
     {
@@ -753,6 +793,14 @@
       "onboard_time": 1712320398,
       "rank": 24,
       "category": "情感"
+    },
+    {
+      "raw_hot": 216590,
+      "num": 202829,
+      "word": "沈璃父母 仙侠版狼少年",
+      "onboard_time": 1712382317,
+      "rank": 24,
+      "category": "剧集"
     },
     {
       "raw_hot": 215581,
@@ -843,12 +891,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 183752,
+      "num": 183752,
+      "word": "追星女的密码",
+      "onboard_time": 1712383096,
+      "rank": 28,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 183545,
       "num": 183545,
       "word": "与凤行戒断反应",
       "onboard_time": 1712377938,
       "rank": 44,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 180121,
+      "num": 180121,
+      "word": "囤金大户变现",
+      "onboard_time": 1712381898,
+      "rank": 29,
+      "category": "财经"
     },
     {
       "raw_hot": 176342,
@@ -923,6 +987,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 165597,
+      "num": 165597,
+      "word": "范丞丞的背",
+      "onboard_time": 1712384118,
+      "rank": 31,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 162346,
       "num": 162346,
       "word": "王一博硬控直播三分钟",
@@ -937,6 +1009,14 @@
       "onboard_time": 1712372356,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 159003,
+      "num": 159003,
+      "word": "得了肾结石这5个饮食习惯千万避开",
+      "onboard_time": 1712383337,
+      "rank": 32,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 158456,
@@ -1089,6 +1169,14 @@
       "onboard_time": 1712360475,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 126651,
+      "num": 126651,
+      "word": "花间令",
+      "onboard_time": 1712382798,
+      "rank": 42,
+      "category": "剧集"
     },
     {
       "raw_hot": 126616,
@@ -1371,12 +1459,36 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 93709,
+      "num": 93709,
+      "word": "给猫戴GPS发现它也太忙了",
+      "onboard_time": 1712383038,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 92255,
+      "num": 92255,
+      "word": "重庆大渡口江边来了一群稀客",
+      "onboard_time": 1712384176,
+      "rank": 48,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 91105,
       "num": 91105,
       "word": "王一博龙脊",
       "onboard_time": 1712329760,
       "rank": 49,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 90384,
+      "num": 90384,
+      "word": "照片和镜子里的自己哪个更真实",
+      "onboard_time": 1712383038,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 89520,

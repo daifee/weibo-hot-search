@@ -1,0 +1,410 @@
+{
+  "runTime": 1712384513242,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 945719,
+        "num": 945719,
+        "word": "南大回应考研总成绩第一名不被录取",
+        "onboard_time": 1712371458,
+        "rank": 0,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 881595,
+        "num": 881595,
+        "word": "林更新流量不大就两百多兆",
+        "onboard_time": 1712381059,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 71298,
+        "num": 724520,
+        "word": "藏在古建筑里的春天",
+        "onboard_time": 1712375119,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 647061,
+        "num": 647061,
+        "word": "吴宣仪认证自己很姬",
+        "onboard_time": 1712383217,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 508599,
+        "num": 508599,
+        "word": "李菲想和刘亦菲演年下",
+        "onboard_time": 1712378658,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 504851,
+        "num": 504851,
+        "word": "优酷给长月烬明的排面",
+        "onboard_time": 1712375777,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 363825,
+        "num": 363825,
+        "word": "淄博烧烤小哥的脸色一看就很火",
+        "onboard_time": 1712374938,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 353627,
+        "num": 353627,
+        "word": "谷爱凌在哈佛演讲用中文致谢",
+        "onboard_time": 1712375958,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 350901,
+        "num": 350901,
+        "word": "王俊凯 盒子里的猫预告",
+        "onboard_time": 1712381298,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 102415,
+        "num": 350529,
+        "word": "女孩推轮椅妈妈坐地铁一路获帮助",
+        "onboard_time": 1712369598,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1254695,
+        "num": 349359,
+        "word": "兰州大学",
+        "onboard_time": 1712379439,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1045567,
+        "num": 348789,
+        "word": "13岁女孩失踪多日后遗体被找到",
+        "onboard_time": 1712378838,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 355689,
+        "num": 348016,
+        "word": "老舅坐鹿晗大腿",
+        "onboard_time": 1712383817,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 347746,
+        "num": 347746,
+        "word": "某幻 吴秋怡",
+        "onboard_time": 1712360835,
+        "rank": 13,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 337895,
+        "num": 337895,
+        "word": "以色列叫停全体作战部队休假",
+        "onboard_time": 1712369839,
+        "rank": 14,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 336396,
+        "num": 336396,
+        "word": "锦超也嗑郑合惠子cp",
+        "onboard_time": 1712382018,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 335838,
+        "num": 335838,
+        "word": "孙俪大提琴一级考出来了",
+        "onboard_time": 1712367137,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 260389,
+        "num": 260389,
+        "word": "爱奇艺大量宣传海报由AI辅助批量产出",
+        "onboard_time": 1712377097,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 241103,
+        "num": 241103,
+        "word": "鹿晗请粉丝喝椰子水",
+        "onboard_time": 1712383277,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 228389,
+        "num": 228389,
+        "word": "深圳暴雨",
+        "onboard_time": 1712377878,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 479946,
+        "num": 219211,
+        "word": "打耳洞导致耳朵增生了",
+        "onboard_time": 1712379019,
+        "rank": 20,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 358510,
+        "num": 218251,
+        "word": "拟录取短信被拦截了",
+        "onboard_time": 1712376257,
+        "rank": 21,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 257424,
+        "num": 216235,
+        "word": "首饰金价涨至每克710元",
+        "onboard_time": 1712382918,
+        "rank": 22,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 202888,
+        "num": 202888,
+        "word": "痔疮自愈 提肛运动",
+        "onboard_time": 1712376378,
+        "rank": 23,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 216590,
+        "num": 202829,
+        "word": "沈璃父母 仙侠版狼少年",
+        "onboard_time": 1712382317,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 202679,
+        "num": 202679,
+        "word": "锦超回应与李菲儿不和",
+        "onboard_time": 1712375417,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 198560,
+        "num": 198560,
+        "word": "与凤行把番外拍出来了",
+        "onboard_time": 1712376678,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 194126,
+        "num": 194126,
+        "word": "盒子里的猫",
+        "onboard_time": 1712378357,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 183752,
+        "num": 183752,
+        "word": "追星女的密码",
+        "onboard_time": 1712383096,
+        "rank": 28,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 180121,
+        "num": 180121,
+        "word": "囤金大户变现",
+        "onboard_time": 1712381898,
+        "rank": 29,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 179027,
+        "num": 179027,
+        "word": "林更新哭戏",
+        "onboard_time": 1712371698,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 165597,
+        "num": 165597,
+        "word": "范丞丞的背",
+        "onboard_time": 1712384118,
+        "rank": 31,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 159003,
+        "num": 159003,
+        "word": "得了肾结石这5个饮食习惯千万避开",
+        "onboard_time": 1712383337,
+        "rank": 32,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 154844,
+        "num": 154844,
+        "word": "暗河传男主",
+        "onboard_time": 1712375478,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 151890,
+        "num": 151890,
+        "word": "上次这么穿的还是沈眉庄",
+        "onboard_time": 1712371578,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 144165,
+        "num": 144165,
+        "word": "宋江军队照",
+        "onboard_time": 1712381178,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 137697,
+        "num": 137697,
+        "word": "墨西哥与厄瓜多尔断绝外交关系",
+        "onboard_time": 1712380758,
+        "rank": 36,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 136137,
+        "num": 136137,
+        "word": "追风者 砍一刀",
+        "onboard_time": 1712377397,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 135310,
+        "num": 135310,
+        "word": "马斯克称将对X上的成人内容大清洗",
+        "onboard_time": 1712369958,
+        "rank": 38,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 131045,
+        "num": 131045,
+        "word": "伊朗",
+        "onboard_time": 1712377699,
+        "rank": 39,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 132346,
+        "num": 130866,
+        "word": "这居然是谢可寅",
+        "onboard_time": 1712360595,
+        "rank": 40,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 130501,
+        "num": 130501,
+        "word": "凤来到死都没有听到女儿叫一声爹",
+        "onboard_time": 1712378957,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 126651,
+        "num": 126651,
+        "word": "花间令",
+        "onboard_time": 1712382798,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 122881,
+        "num": 122881,
+        "word": "TheShy谈wbg被零封",
+        "onboard_time": 1712380518,
+        "rank": 43,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 119324,
+        "num": 119324,
+        "word": "蔡徐坤C位出道六周年",
+        "onboard_time": 1712375119,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 117229,
+        "num": 117229,
+        "word": "向佐版多尔衮",
+        "onboard_time": 1712377218,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 94566,
+        "num": 94566,
+        "word": "Zoom爆料Doinb开播日期",
+        "onboard_time": 1712376378,
+        "rank": 46,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 93709,
+        "num": 93709,
+        "word": "给猫戴GPS发现它也太忙了",
+        "onboard_time": 1712383038,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 92255,
+        "num": 92255,
+        "word": "重庆大渡口江边来了一群稀客",
+        "onboard_time": 1712384176,
+        "rank": 48,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 90384,
+        "num": 90384,
+        "word": "照片和镜子里的自己哪个更真实",
+        "onboard_time": 1712383038,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#不断增厚我们的绿色家底#"
+    }
+  }
+}
