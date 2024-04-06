@@ -1,0 +1,410 @@
+{
+  "runTime": 1712380606658,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1200467,
+        "num": 1200467,
+        "word": "南大回应考研总成绩第一名不被录取",
+        "onboard_time": 1712371458,
+        "rank": 0,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 875862,
+        "num": 875862,
+        "word": "优酷给长月烬明的排面",
+        "onboard_time": 1712375777,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 97905,
+        "num": 823819,
+        "word": "藏在古建筑里的春天",
+        "onboard_time": 1712375119,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1252976,
+        "num": 812112,
+        "word": "金价",
+        "onboard_time": 1712374338,
+        "rank": 3,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 792959,
+        "num": 792959,
+        "word": "淄博烧烤小哥的脸色一看就很火",
+        "onboard_time": 1712374938,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 684316,
+        "num": 684316,
+        "word": "李菲想和刘亦菲演年下",
+        "onboard_time": 1712378658,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 613254,
+        "num": 613254,
+        "word": "谷爱凌在哈佛演讲用中文致谢",
+        "onboard_time": 1712375958,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 509300,
+        "num": 509300,
+        "word": "孙俪大提琴一级考出来了",
+        "onboard_time": 1712367137,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 477927,
+        "num": 477927,
+        "word": "爱奇艺大量宣传海报由AI辅助批量产出",
+        "onboard_time": 1712377097,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 79969,
+        "num": 477221,
+        "word": "女孩推轮椅妈妈坐地铁一路获帮助",
+        "onboard_time": 1712369598,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 812507,
+        "num": 449422,
+        "word": "13岁女孩失踪多日后遗体被找到",
+        "onboard_time": 1712378838,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 799445,
+        "num": 436238,
+        "word": "兰州大学",
+        "onboard_time": 1712379439,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 586198,
+        "num": 422214,
+        "word": "某幻 吴秋怡",
+        "onboard_time": 1712360835,
+        "rank": 12,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 409159,
+        "num": 409159,
+        "word": "深圳暴雨",
+        "onboard_time": 1712377878,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 400931,
+        "num": 400931,
+        "word": "以色列叫停全体作战部队休假",
+        "onboard_time": 1712369839,
+        "rank": 14,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 349775,
+        "num": 349775,
+        "word": "锦超回应与李菲儿不和",
+        "onboard_time": 1712375417,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 334708,
+        "num": 334708,
+        "word": "范丞丞脸上的二进制代码",
+        "onboard_time": 1712372240,
+        "rank": 16,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 324299,
+        "num": 324299,
+        "word": "暗河传男主",
+        "onboard_time": 1712375478,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 323205,
+        "num": 323205,
+        "word": "与凤行把番外拍出来了",
+        "onboard_time": 1712376678,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 299478,
+        "num": 299478,
+        "word": "向佐版多尔衮",
+        "onboard_time": 1712377218,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 582283,
+        "num": 298505,
+        "word": "拟录取短信被拦截了",
+        "onboard_time": 1712376257,
+        "rank": 20,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 554593,
+        "num": 297086,
+        "word": "打耳洞导致耳朵增生了",
+        "onboard_time": 1712379019,
+        "rank": 21,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 331263,
+        "num": 296276,
+        "word": "蔡徐坤C位出道六周年",
+        "onboard_time": 1712375119,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 295186,
+        "num": 295186,
+        "word": "盒子里的猫",
+        "onboard_time": 1712378357,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 287725,
+        "num": 287725,
+        "word": "痔疮自愈 提肛运动",
+        "onboard_time": 1712376378,
+        "rank": 24,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 266986,
+        "num": 266986,
+        "word": "林更新哭戏",
+        "onboard_time": 1712371698,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 245490,
+        "num": 245490,
+        "word": "这居然是谢可寅",
+        "onboard_time": 1712360595,
+        "rank": 26,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 230428,
+        "num": 230428,
+        "word": "伊朗",
+        "onboard_time": 1712377699,
+        "rank": 27,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 230402,
+        "num": 230402,
+        "word": "李白没骗人",
+        "onboard_time": 1712373318,
+        "rank": 28,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 226411,
+        "num": 226411,
+        "word": "菜市场偶遇霍建华",
+        "onboard_time": 1712378299,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 224008,
+        "num": 224008,
+        "word": "追风者 砍一刀",
+        "onboard_time": 1712377397,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 192358,
+        "num": 192358,
+        "word": "马斯克称将对X上的成人内容大清洗",
+        "onboard_time": 1712369958,
+        "rank": 31,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 183545,
+        "num": 183545,
+        "word": "与凤行戒断反应",
+        "onboard_time": 1712377938,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 176342,
+        "num": 176342,
+        "word": "来hi6和十个勤天击个掌",
+        "onboard_time": 1712379559,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 173193,
+        "num": 173193,
+        "word": "音律联觉",
+        "onboard_time": 1712378779,
+        "rank": 34,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 162855,
+        "num": 162855,
+        "word": "前夫殴打10岁女儿女子忍痛拍下取证",
+        "onboard_time": 1712329340,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 158692,
+        "num": 158692,
+        "word": "上次这么穿的还是沈眉庄",
+        "onboard_time": 1712371578,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 157457,
+        "num": 157457,
+        "word": "凤来到死都没有听到女儿叫一声爹",
+        "onboard_time": 1712378957,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 142630,
+        "num": 142630,
+        "word": "广州暴雨",
+        "onboard_time": 1712369656,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 140425,
+        "num": 140425,
+        "word": "与凤行",
+        "onboard_time": 1712377751,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 136051,
+        "num": 136051,
+        "word": "NINEPERCENT六周年",
+        "onboard_time": 1712361556,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 135544,
+        "num": 135544,
+        "word": "猫 麻麻说出门在外要大大方方的",
+        "onboard_time": 1712377638,
+        "rank": 41,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 129490,
+        "num": 129490,
+        "word": "杨紫亲何赛飞脸颊",
+        "onboard_time": 1712375357,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 124552,
+        "num": 124552,
+        "word": "李沁千金回国妆",
+        "onboard_time": 1712367857,
+        "rank": 43,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 123114,
+        "num": 123114,
+        "word": "医生建议不要饿着肚子睡觉",
+        "onboard_time": 1712329519,
+        "rank": 44,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 120480,
+        "num": 120480,
+        "word": "Zoom爆料Doinb开播日期",
+        "onboard_time": 1712376378,
+        "rank": 45,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 119406,
+        "num": 119406,
+        "word": "五月天歌迷会疑似是黄牛",
+        "onboard_time": 1712361497,
+        "rank": 46,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 116843,
+        "num": 116843,
+        "word": "TheShy谈wbg被零封",
+        "onboard_time": 1712380518,
+        "rank": 47,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 116099,
+        "num": 116099,
+        "word": "你好星期六全员种花",
+        "onboard_time": 1712370617,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 110655,
+        "num": 110655,
+        "word": "云南昭通鲁甸县4.9级地震",
+        "onboard_time": 1712376077,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#加快构建以先进制造业为支撑的现代化产业体系#"
+    }
+  }
+}

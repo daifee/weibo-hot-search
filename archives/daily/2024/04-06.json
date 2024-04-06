@@ -1,6 +1,6 @@
 {
   "startTime": 1712334193790,
-  "endTime": 1712378039051,
+  "endTime": 1712380606658,
   "band_list": [
     {
       "raw_hot": 1713312,
@@ -59,6 +59,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 875862,
+      "num": 875862,
+      "word": "优酷给长月烬明的排面",
+      "onboard_time": 1712375777,
+      "rank": 5,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 842542,
       "num": 517999,
       "word": "以色列叫停全体作战部队休假",
@@ -83,6 +91,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 812507,
+      "num": 449422,
+      "word": "13岁女孩失踪多日后遗体被找到",
+      "onboard_time": 1712378838,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 805284,
       "num": 805284,
       "word": "以色列临时关闭28个驻外使馆",
@@ -99,8 +115,16 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 799445,
+      "num": 436238,
+      "word": "兰州大学",
+      "onboard_time": 1712379439,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 766870,
-      "num": 297157,
+      "num": 298505,
       "word": "拟录取短信被拦截了",
       "onboard_time": 1712376257,
       "rank": 20,
@@ -139,10 +163,10 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 658515,
-      "num": 658515,
-      "word": "优酷给长月烬明的排面",
-      "onboard_time": 1712375777,
+      "raw_hot": 684316,
+      "num": 684316,
+      "word": "李菲想和刘亦菲演年下",
+      "onboard_time": 1712378658,
       "rank": 5,
       "category": "剧集"
     },
@@ -163,6 +187,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 613254,
+      "num": 613254,
+      "word": "谷爱凌在哈佛演讲用中文致谢",
+      "onboard_time": 1712375958,
+      "rank": 15,
+      "category": "体育"
+    },
+    {
       "raw_hot": 607566,
       "num": 607566,
       "word": "IU唱告五人的唯一",
@@ -177,14 +209,6 @@
       "onboard_time": 1712330898,
       "rank": 16,
       "category": "情感"
-    },
-    {
-      "raw_hot": 599397,
-      "num": 423883,
-      "word": "谷爱凌在哈佛演讲用中文致谢",
-      "onboard_time": 1712375958,
-      "rank": 15,
-      "category": "体育"
     },
     {
       "raw_hot": 599385,
@@ -233,6 +257,14 @@
       "onboard_time": 1712321540,
       "rank": 7,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 554593,
+      "num": 297086,
+      "word": "打耳洞导致耳朵增生了",
+      "onboard_time": 1712379019,
+      "rank": 21,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 537619,
@@ -307,6 +339,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 477927,
+      "num": 477927,
+      "word": "爱奇艺大量宣传海报由AI辅助批量产出",
+      "onboard_time": 1712377097,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 464705,
       "num": 464705,
       "word": "五月天歌迷会疑似是黄牛",
@@ -340,7 +380,7 @@
     },
     {
       "raw_hot": 432080,
-      "num": 295872,
+      "num": 296276,
       "word": "蔡徐坤C位出道六周年",
       "onboard_time": 1712375119,
       "rank": 21,
@@ -368,6 +408,14 @@
       "word": "广州冰雹",
       "onboard_time": 1712371397,
       "rank": 16,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 409159,
+      "num": 409159,
+      "word": "深圳暴雨",
+      "onboard_time": 1712377878,
+      "rank": 39,
       "category": "社会新闻"
     },
     {
@@ -451,6 +499,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 323205,
+      "num": 323205,
+      "word": "与凤行把番外拍出来了",
+      "onboard_time": 1712376678,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 318981,
       "num": 318981,
       "word": "一个月给8000做全职妈妈",
@@ -475,6 +531,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 295186,
+      "num": 295186,
+      "word": "盒子里的猫",
+      "onboard_time": 1712378357,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 294118,
       "num": 294118,
       "word": "女子买问界M7不到20天就充不上电",
@@ -497,22 +561,6 @@
       "onboard_time": 1712329699,
       "rank": 18,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 291688,
-      "num": 291688,
-      "word": "与凤行把番外拍出来了",
-      "onboard_time": 1712376678,
-      "rank": 27,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 286029,
-      "num": 286029,
-      "word": "爱奇艺大量宣传海报由AI辅助批量产出",
-      "onboard_time": 1712377097,
-      "rank": 46,
-      "category": "剧集"
     },
     {
       "raw_hot": 283579,
@@ -635,6 +683,30 @@
       "category": "情感"
     },
     {
+      "raw_hot": 230428,
+      "num": 230428,
+      "word": "伊朗",
+      "onboard_time": 1712377699,
+      "rank": 48,
+      "category": "国外时政"
+    },
+    {
+      "raw_hot": 226411,
+      "num": 226411,
+      "word": "菜市场偶遇霍建华",
+      "onboard_time": 1712378299,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 224008,
+      "num": 224008,
+      "word": "追风者 砍一刀",
+      "onboard_time": 1712377397,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 223313,
       "num": 223313,
       "word": "高铁上再也不随便跟人换座了",
@@ -680,14 +752,6 @@
       "word": "杨紫亲何赛飞脸颊",
       "onboard_time": 1712375357,
       "rank": 29,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 208689,
-      "num": 208689,
-      "word": "追风者 砍一刀",
-      "onboard_time": 1712377397,
-      "rank": 30,
       "category": "剧集"
     },
     {
@@ -739,12 +803,36 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 183545,
+      "num": 183545,
+      "word": "与凤行戒断反应",
+      "onboard_time": 1712377938,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 176342,
+      "num": 176342,
+      "word": "来hi6和十个勤天击个掌",
+      "onboard_time": 1712379559,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 175819,
       "num": 215730,
       "word": "如何查询手机号绑定的APP账号",
       "onboard_time": 1712373137,
       "rank": 34,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 173193,
+      "num": 173193,
+      "word": "音律联觉",
+      "onboard_time": 1712378779,
+      "rank": 34,
+      "category": "游戏"
     },
     {
       "raw_hot": 171945,
@@ -795,14 +883,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 160966,
-      "num": 160966,
-      "word": "深圳暴雨",
-      "onboard_time": 1712377878,
-      "rank": 39,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 159684,
       "num": 159684,
       "word": "勇士vs独行侠",
@@ -817,6 +897,14 @@
       "onboard_time": 1712369598,
       "rank": 29,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 157457,
+      "num": 157457,
+      "word": "凤来到死都没有听到女儿叫一声爹",
+      "onboard_time": 1712378957,
+      "rank": 37,
+      "category": "剧集"
     },
     {
       "raw_hot": 153012,
@@ -856,14 +944,6 @@
       "word": "王一博要不要擦一下括号",
       "onboard_time": 1712322320,
       "rank": 36,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 145987,
-      "num": 145987,
-      "word": "与凤行戒断反应",
-      "onboard_time": 1712377938,
-      "rank": 44,
       "category": "剧集"
     },
     {
@@ -953,14 +1033,6 @@
       "onboard_time": 1712330719,
       "rank": 37,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 131795,
-      "num": 133977,
-      "word": "伊朗",
-      "onboard_time": 1712377699,
-      "rank": 48,
-      "category": "国外时政"
     },
     {
       "raw_hot": 128239,
@@ -1057,6 +1129,14 @@
       "onboard_time": 1712327119,
       "rank": 39,
       "category": "情感"
+    },
+    {
+      "raw_hot": 116843,
+      "num": 116843,
+      "word": "TheShy谈wbg被零封",
+      "onboard_time": 1712380518,
+      "rank": 47,
+      "category": "电竞"
     },
     {
       "raw_hot": 116147,
@@ -1439,6 +1519,9 @@
     },
     {
       "word": "#我们永远怀念他们牢记他们#"
+    },
+    {
+      "word": "#加快构建以先进制造业为支撑的现代化产业体系#"
     }
   ]
 }
