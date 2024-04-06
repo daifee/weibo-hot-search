@@ -1,0 +1,410 @@
+{
+  "runTime": 1712432064881,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 125590,
+        "num": 125590,
+        "word": "成都迪士尼被限流",
+        "onboard_time": 1712419217,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 71992,
+        "num": 71992,
+        "word": "爱奇艺2024首部破万剧",
+        "onboard_time": 1712412500,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 12029,
+        "num": 71357,
+        "word": "一起打卡春天里的中国",
+        "onboard_time": 1712413100,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 71252,
+        "num": 71252,
+        "word": "王珂出道吧",
+        "onboard_time": 1712416819,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 68286,
+        "num": 68286,
+        "word": "某幻不直播",
+        "onboard_time": 1712414420,
+        "rank": 4,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 65910,
+        "num": 65910,
+        "word": "赵奕欢被李菲儿逼哭",
+        "onboard_time": 1712410879,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 55409,
+        "num": 55409,
+        "word": "淄博小哥让人心疼价目表让人心动",
+        "onboard_time": 1712422634,
+        "rank": 6,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 26049,
+        "num": 55349,
+        "word": "福宝",
+        "onboard_time": 1712400497,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 55305,
+        "num": 55305,
+        "word": "林更新回应和赵丽颖三搭",
+        "onboard_time": 1712399777,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 44126,
+        "num": 44126,
+        "word": "长期戴耳塞睡觉的人最后怎么样了",
+        "onboard_time": 1712411480,
+        "rank": 9,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 112452,
+        "num": 43800,
+        "word": "日本天皇独生女成为月薪7千的打工人",
+        "onboard_time": 1712403077,
+        "rank": 10,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 72134,
+        "num": 43538,
+        "word": "男子上厕所隐私部位被割伤缝20多针",
+        "onboard_time": 1712412860,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 62172,
+        "num": 43049,
+        "word": "你敢不敢去摸一下那只两脚兽",
+        "onboard_time": 1712422095,
+        "rank": 12,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 57686,
+        "num": 42697,
+        "word": "王铮亮录制6期被抓5次",
+        "onboard_time": 1712431031,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 54925,
+        "num": 42162,
+        "word": "林狗你是真的火了",
+        "onboard_time": 1712413880,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 42020,
+        "num": 42020,
+        "word": "林更新周冬雨军服旧照",
+        "onboard_time": 1712420236,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 41376,
+        "num": 41376,
+        "word": "字字不提钱句句都是钱",
+        "onboard_time": 1712409199,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 40476,
+        "num": 40476,
+        "word": "吴镇宇说张睿就一辈子演古装了",
+        "onboard_time": 1712411960,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 27841,
+        "num": 27841,
+        "word": "三代日本皇室女性都曾患上心理疾病",
+        "onboard_time": 1712430730,
+        "rank": 18,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 25664,
+        "num": 25664,
+        "word": "Doinb回应复播",
+        "onboard_time": 1712400738,
+        "rank": 19,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 63206,
+        "num": 25659,
+        "word": "为什么现在退房都不检查了",
+        "onboard_time": 1712408538,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 38970,
+        "num": 25648,
+        "word": "谢帝 诺米",
+        "onboard_time": 1712407337,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 31798,
+        "num": 25634,
+        "word": "体制内开会为什么不能喝奶茶",
+        "onboard_time": 1712412259,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 30553,
+        "num": 25621,
+        "word": "创造营亚洲",
+        "onboard_time": 1712406378,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 26658,
+        "num": 25609,
+        "word": "新疆17岁小伙要追赶苏炳添",
+        "onboard_time": 1712424493,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 29072,
+        "num": 25598,
+        "word": "陈奕迅南京场观众",
+        "onboard_time": 1712418258,
+        "rank": 25,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 27885,
+        "num": 25588,
+        "word": "李沁写给沈近真的第九封信",
+        "onboard_time": 1712415200,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 27294,
+        "num": 25575,
+        "word": "将门毒后请肖战迪丽热巴会爆吗",
+        "onboard_time": 1712411299,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 27099,
+        "num": 25554,
+        "word": "眼泪女王男二",
+        "onboard_time": 1712415560,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 22714,
+        "num": 25546,
+        "word": "上海饮料分级",
+        "onboard_time": 1712407938,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 25537,
+        "num": 25537,
+        "word": "沈璃在爱里生出了神性",
+        "onboard_time": 1712418077,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 25095,
+        "num": 25095,
+        "word": "十个勤天上hi6",
+        "onboard_time": 1712407758,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 24467,
+        "num": 24467,
+        "word": "这4种食物是尿毒症的加速器",
+        "onboard_time": 1712411658,
+        "rank": 32,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 22923,
+        "num": 22923,
+        "word": "爷爷上坟比年轻人走的快",
+        "onboard_time": 1712413700,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 22051,
+        "num": 22051,
+        "word": "成都迪士尼",
+        "onboard_time": 1712412500,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 25054,
+        "num": 21823,
+        "word": "于正说赵晴替他一雪前耻",
+        "onboard_time": 1712417957,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 24409,
+        "num": 21713,
+        "word": "小鬼朱正廷王子异直播",
+        "onboard_time": 1712412921,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 24303,
+        "num": 21665,
+        "word": "薛之谦天外来物巡回演唱会",
+        "onboard_time": 1712430970,
+        "rank": 37,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 21537,
+        "num": 21537,
+        "word": "BOA锁定第三轮A组",
+        "onboard_time": 1712416819,
+        "rank": 38,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 20185,
+        "num": 20185,
+        "word": "兰大回应虐猫考生进调剂名单",
+        "onboard_time": 1712391978,
+        "rank": 39,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 24305,
+        "num": 19915,
+        "word": "周杰伦长沙演唱会将实名入场",
+        "onboard_time": 1712424013,
+        "rank": 40,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 23739,
+        "num": 19903,
+        "word": "锦超演的傅卫军",
+        "onboard_time": 1712421556,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 23225,
+        "num": 19839,
+        "word": "YG与HYBE的歌曲拼出JYP的感觉",
+        "onboard_time": 1712427012,
+        "rank": 42,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 19615,
+        "num": 19615,
+        "word": "花莲地震已致12人死亡1123人受伤",
+        "onboard_time": 1712417478,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 22395,
+        "num": 19405,
+        "word": "手术直播间",
+        "onboard_time": 1712430551,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 19084,
+        "num": 19084,
+        "word": "千万不要买樱花味食物",
+        "onboard_time": 1712398877,
+        "rank": 45,
+        "category": "美食,幽默"
+      },
+      {
+        "raw_hot": 18681,
+        "num": 18681,
+        "word": "坂田银时又是第一",
+        "onboard_time": 1712416040,
+        "rank": 46,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 18502,
+        "num": 18502,
+        "word": "海登海姆vs拜仁",
+        "onboard_time": 1712416521,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 15390,
+        "num": 18486,
+        "word": "好像明白为啥鸟类多是侧面照了",
+        "onboard_time": 1712429891,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 14256,
+        "num": 18481,
+        "word": "男孩做阑尾切除术5年后阑尾还在",
+        "onboard_time": 1712403618,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#家国永念致敬英雄#"
+    }
+  }
+}
