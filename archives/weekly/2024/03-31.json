@@ -1,6 +1,6 @@
 {
   "startTime": 1711815680412,
-  "endTime": 1712414128480,
+  "endTime": 1712416618430,
   "band_list": [
     {
       "raw_hot": 16874674,
@@ -177,6 +177,14 @@
       "onboard_time": 1712391978,
       "rank": 16,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 2151171,
+      "num": 2151171,
+      "word": "爱奇艺2024首部破万剧",
+      "onboard_time": 1712412500,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 2142677,
@@ -835,6 +843,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 1408279,
+      "num": 1408279,
+      "word": "长期戴耳塞睡觉的人最后怎么样了",
+      "onboard_time": 1712411480,
+      "rank": 25,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 1403062,
       "num": 1403062,
       "word": "中美关系要不折腾不挑事不越界",
@@ -1147,14 +1163,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 1214557,
-      "num": 1214557,
-      "word": "爱奇艺2024首部破万剧",
-      "onboard_time": 1712412500,
-      "rank": 40,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 1213458,
       "num": 1213458,
       "word": "12306回应高铁走到半路两车乘客互换",
@@ -1315,6 +1323,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1129627,
+      "num": 626376,
+      "word": "男子上厕所隐私部位被割伤缝20多针",
+      "onboard_time": 1712412860,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1119164,
       "num": 1119164,
       "word": "迪丽热巴腿环",
@@ -1336,14 +1352,6 @@
       "word": "青海地震",
       "onboard_time": 1712192598,
       "rank": 13,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1111170,
-      "num": 473104,
-      "word": "男子上厕所隐私部位被割伤缝20多针",
-      "onboard_time": 1712412860,
-      "rank": 47,
       "category": "社会新闻"
     },
     {
@@ -2297,6 +2305,14 @@
       "onboard_time": 1711940477,
       "rank": 5,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 789455,
+      "num": 789455,
+      "word": "某幻不直播",
+      "onboard_time": 1712414420,
+      "rank": 5,
+      "category": "游戏"
     },
     {
       "raw_hot": 789285,
@@ -3307,6 +3323,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 626272,
+      "num": 626272,
+      "word": "林狗你是真的火了",
+      "onboard_time": 1712413880,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 626121,
       "num": 626121,
       "word": "万科",
@@ -3627,6 +3651,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 592437,
+      "num": 592437,
+      "word": "爷爷上坟比年轻人走的快",
+      "onboard_time": 1712413700,
+      "rank": 37,
+      "category": "情感"
+    },
+    {
       "raw_hot": 591652,
       "num": 591652,
       "word": "成毅前经纪公司发文",
@@ -3684,7 +3716,7 @@
     },
     {
       "raw_hot": 587592,
-      "num": 587592,
+      "num": 684940,
       "word": "上海饮料分级",
       "onboard_time": 1712407938,
       "rank": 19,
@@ -4067,6 +4099,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 543991,
+      "num": 543991,
+      "word": "吴镇宇说张睿就一辈子演古装了",
+      "onboard_time": 1712411960,
+      "rank": 26,
+      "category": "电影"
+    },
+    {
       "raw_hot": 543477,
       "num": 543477,
       "word": "雷军回应拦截小米SU7部分异常订单",
@@ -4369,14 +4409,6 @@
       "onboard_time": 1712117663,
       "rank": 26,
       "category": "情感"
-    },
-    {
-      "raw_hot": 519080,
-      "num": 467533,
-      "word": "吴镇宇说张睿就一辈子演古装了",
-      "onboard_time": 1712411960,
-      "rank": 26,
-      "category": "电影"
     },
     {
       "raw_hot": 518839,
@@ -4788,7 +4820,7 @@
     },
     {
       "raw_hot": 485961,
-      "num": 337327,
+      "num": 340485,
       "word": "体制内开会为什么不能喝奶茶",
       "onboard_time": 1712412259,
       "rank": 23,
@@ -5025,14 +5057,6 @@
       "onboard_time": 1712292439,
       "rank": 8,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 467339,
-      "num": 467339,
-      "word": "长期戴耳塞睡觉的人最后怎么样了",
-      "onboard_time": 1712411480,
-      "rank": 25,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 467049,
@@ -5465,6 +5489,14 @@
       "onboard_time": 1711926855,
       "rank": 27,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 436106,
+      "num": 436106,
+      "word": "李沁写给沈近真的第九封信",
+      "onboard_time": 1712415200,
+      "rank": 15,
+      "category": "剧集"
     },
     {
       "raw_hot": 435370,
@@ -6148,7 +6180,7 @@
     },
     {
       "raw_hot": 394655,
-      "num": 550566,
+      "num": 626390,
       "word": "54岁老板当主播日进百万",
       "onboard_time": 1712397017,
       "rank": 9,
@@ -7056,6 +7088,14 @@
       "word": "与凤行把番外拍出来了",
       "onboard_time": 1712376678,
       "rank": 27,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 340272,
+      "num": 340272,
+      "word": "眼泪女王男二",
+      "onboard_time": 1712415560,
+      "rank": 22,
       "category": "剧集"
     },
     {
@@ -8107,6 +8147,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 292215,
+      "num": 292215,
+      "word": "阿信回应五月天越来越商业化",
+      "onboard_time": 1712413821,
+      "rank": 36,
+      "category": "演出"
+    },
+    {
       "raw_hot": 292178,
       "num": 292178,
       "word": "邓科配享太庙",
@@ -8289,6 +8337,14 @@
       "onboard_time": 1712194398,
       "rank": 22,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 284960,
+      "num": 284960,
+      "word": "刘诗诗新代言",
+      "onboard_time": 1712414420,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 284591,
@@ -8937,6 +8993,14 @@
       "onboard_time": 1711959321,
       "rank": 28,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 261411,
+      "num": 227666,
+      "word": "赵丽颖林更新战损抱",
+      "onboard_time": 1712416100,
+      "rank": 32,
+      "category": "剧集"
     },
     {
       "raw_hot": 261118,
@@ -9691,14 +9755,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 240181,
-      "num": 240181,
-      "word": "阿信回应五月天越来越商业化",
-      "onboard_time": 1712413821,
-      "rank": 36,
-      "category": "演出"
-    },
-    {
       "raw_hot": 240146,
       "num": 240146,
       "word": "你想活出怎样的人生今日上映",
@@ -10347,14 +10403,6 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 224974,
-      "num": 196933,
-      "word": "林狗你是真的火了",
-      "onboard_time": 1712413880,
-      "rank": 40,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 224881,
       "num": 224881,
       "word": "女性为什么会选择独自生养孩子",
@@ -10537,14 +10585,6 @@
       "onboard_time": 1712317940,
       "rank": 26,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 220986,
-      "num": 220986,
-      "word": "爷爷上坟比年轻人走的快",
-      "onboard_time": 1712413700,
-      "rank": 37,
-      "category": "情感"
     },
     {
       "raw_hot": 220886,
@@ -10777,6 +10817,14 @@
       "onboard_time": 1712047158,
       "rank": 31,
       "category": "演出"
+    },
+    {
+      "raw_hot": 216643,
+      "num": 216643,
+      "word": "这4种食物是尿毒症的加速器",
+      "onboard_time": 1712411658,
+      "rank": 45,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 216633,
@@ -11987,6 +12035,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 197153,
+      "num": 197153,
+      "word": "KPL",
+      "onboard_time": 1712415739,
+      "rank": 34,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 197080,
       "num": 197080,
       "word": "VG对战KSG",
@@ -12113,14 +12169,6 @@
       "onboard_time": 1711906153,
       "rank": 39,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 195792,
-      "num": 195792,
-      "word": "这4种食物是尿毒症的加速器",
-      "onboard_time": 1712411658,
-      "rank": 45,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 195762,
@@ -12755,6 +12803,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 189117,
+      "num": 189117,
+      "word": "鹭卓鲜花饼好吃爆炸",
+      "onboard_time": 1712414360,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 189029,
       "num": 189029,
       "word": "因为生活费和妈妈又吵架了",
@@ -13091,6 +13147,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 184908,
+      "num": 184908,
+      "word": "BOA对战DYG",
+      "onboard_time": 1712405177,
+      "rank": 42,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 184653,
       "num": 184653,
       "word": "腾势发布会",
@@ -13241,6 +13305,14 @@
       "onboard_time": 1712384118,
       "rank": 31,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 182747,
+      "num": 182747,
+      "word": "与凤行二刷",
+      "onboard_time": 1712416400,
+      "rank": 43,
+      "category": "剧集"
     },
     {
       "raw_hot": 182741,
@@ -15867,6 +15939,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 147208,
+      "num": 194154,
+      "word": "海登海姆vs拜仁",
+      "onboard_time": 1712416521,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 147113,
       "num": 147113,
       "word": "又能看陈楚生的音综了",
@@ -16033,6 +16113,14 @@
       "onboard_time": 1711886897,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 145235,
+      "num": 152883,
+      "word": "坂田银时又是第一",
+      "onboard_time": 1712416040,
+      "rank": 47,
+      "category": "动漫"
     },
     {
       "raw_hot": 145063,
@@ -18172,7 +18260,7 @@
     },
     {
       "raw_hot": 105322,
-      "num": 188392,
+      "num": 190604,
       "word": "普通人家庭如何报志愿",
       "onboard_time": 1712413580,
       "rank": 48,
@@ -18995,6 +19083,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 62561,
+      "num": 1241403,
+      "word": "一起打卡春天里的中国",
+      "onboard_time": 1712413100,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 62537,
       "num": 62537,
       "word": "aespa的手臂",
@@ -19267,20 +19363,20 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 50162,
+      "num": 150434,
+      "word": "辽宁男篮战胜广厦男篮",
+      "onboard_time": 1712415141,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 49448,
       "num": 470433,
       "word": "红米发布Turbo全新性能系列",
       "onboard_time": 1711940421,
       "rank": 14,
       "category": "数码"
-    },
-    {
-      "raw_hot": 49145,
-      "num": 1219422,
-      "word": "一起打卡春天里的中国",
-      "onboard_time": 1712413100,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 48455,
