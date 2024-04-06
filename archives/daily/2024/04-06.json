@@ -1,6 +1,6 @@
 {
   "startTime": 1712334193790,
-  "endTime": 1712416618430,
+  "endTime": 1712417650741,
   "band_list": [
     {
       "raw_hot": 2169096,
@@ -25,6 +25,14 @@
       "onboard_time": 1712363597,
       "rank": 0,
       "category": "情感"
+    },
+    {
+      "raw_hot": 1660416,
+      "num": 1660416,
+      "word": "长期戴耳塞睡觉的人最后怎么样了",
+      "onboard_time": 1712411480,
+      "rank": 25,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 1659612,
@@ -73,14 +81,6 @@
       "onboard_time": 1712397017,
       "rank": 10,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 1408279,
-      "num": 1408279,
-      "word": "长期戴耳塞睡觉的人最后怎么样了",
-      "onboard_time": 1712411480,
-      "rank": 25,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 1350040,
@@ -427,20 +427,20 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 639712,
+      "num": 639712,
+      "word": "林狗你是真的火了",
+      "onboard_time": 1712413880,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 627688,
       "num": 627688,
       "word": "甄嬛传之胖橘大闹甘露寺",
       "onboard_time": 1712390957,
       "rank": 17,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 626272,
-      "num": 626272,
-      "word": "林狗你是真的火了",
-      "onboard_time": 1712413880,
-      "rank": 40,
-      "category": "剧集"
     },
     {
       "raw_hot": 620922,
@@ -593,6 +593,14 @@
       "onboard_time": 1712408719,
       "rank": 16,
       "category": "演出"
+    },
+    {
+      "raw_hot": 539474,
+      "num": 539474,
+      "word": "王珂出道吧",
+      "onboard_time": 1712416819,
+      "rank": 11,
+      "category": "综艺"
     },
     {
       "raw_hot": 537619,
@@ -995,6 +1003,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 356259,
+      "num": 340272,
+      "word": "眼泪女王男二",
+      "onboard_time": 1712415560,
+      "rank": 22,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 355173,
       "num": 355173,
       "word": "NINEPERCENT六周年",
@@ -1072,14 +1088,6 @@
       "word": "与凤行把番外拍出来了",
       "onboard_time": 1712376678,
       "rank": 27,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 340272,
-      "num": 340272,
-      "word": "眼泪女王男二",
-      "onboard_time": 1712415560,
-      "rank": 22,
       "category": "剧集"
     },
     {
@@ -1619,6 +1627,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 210227,
+      "num": 210227,
+      "word": "BOA锁定第三轮A组",
+      "onboard_time": 1712416819,
+      "rank": 33,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 209478,
+      "num": 288449,
+      "word": "海登海姆vs拜仁",
+      "onboard_time": 1712416521,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 207765,
       "num": 188196,
       "word": "双相情感障碍和正常人区别",
@@ -1667,6 +1691,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 200291,
+      "num": 187725,
+      "word": "刘宇傣族舞",
+      "onboard_time": 1712417299,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 198766,
       "num": 198766,
       "word": "放手是一门永远没法满分的必修课",
@@ -1681,6 +1713,14 @@
       "onboard_time": 1712402717,
       "rank": 27,
       "category": "演出"
+    },
+    {
+      "raw_hot": 197990,
+      "num": 186620,
+      "word": "陈立农六周年给粉丝唱生日歌",
+      "onboard_time": 1712416878,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 197615,
@@ -1817,6 +1857,14 @@
       "onboard_time": 1712361856,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 189609,
+      "num": 189609,
+      "word": "DYG春季赛淘汰",
+      "onboard_time": 1712417239,
+      "rank": 37,
+      "category": "电竞"
     },
     {
       "raw_hot": 189580,
@@ -2011,6 +2059,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 172491,
+      "num": 172491,
+      "word": "徐海乔哭戏",
+      "onboard_time": 1712417478,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 171945,
       "num": 171945,
       "word": "爱奇艺回应追风者直播被指不算热度",
@@ -2195,6 +2251,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 156877,
+      "num": 156877,
+      "word": "坂田银时又是第一",
+      "onboard_time": 1712416040,
+      "rank": 47,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 156578,
       "num": 156578,
       "word": "存钱有必要隐瞒身边人吗",
@@ -2291,14 +2355,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 147208,
-      "num": 194154,
-      "word": "海登海姆vs拜仁",
-      "onboard_time": 1712416521,
-      "rank": 37,
-      "category": "体育"
-    },
-    {
       "raw_hot": 146948,
       "num": 134099,
       "word": "王一博要不要擦一下括号",
@@ -2329,14 +2385,6 @@
       "onboard_time": 1712385437,
       "rank": 34,
       "category": "美食"
-    },
-    {
-      "raw_hot": 145235,
-      "num": 152883,
-      "word": "坂田银时又是第一",
-      "onboard_time": 1712416040,
-      "rank": 47,
-      "category": "动漫"
     },
     {
       "raw_hot": 143617,
@@ -3035,8 +3083,16 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 66020,
+      "num": 135027,
+      "word": "花莲地震已致12人死亡1123人受伤",
+      "onboard_time": 1712417478,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 62561,
-      "num": 1241403,
+      "num": 1310857,
       "word": "一起打卡春天里的中国",
       "onboard_time": 1712413100,
       "rank": 2,
