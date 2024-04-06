@@ -1,6 +1,6 @@
 {
   "startTime": 1712420539476,
-  "endTime": 1712423792849,
+  "endTime": 1712424859014,
   "band_list": [
     {
       "raw_hot": 1243767,
@@ -83,7 +83,7 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 462658,
+      "raw_hot": 469158,
       "num": 278693,
       "word": "日本天皇独生女成为月薪7千的打工人",
       "onboard_time": 1712403077,
@@ -153,6 +153,14 @@
       "onboard_time": 1712418258,
       "rank": 22,
       "category": "演出"
+    },
+    {
+      "raw_hot": 279846,
+      "num": 189676,
+      "word": "你敢不敢去摸一下那只两脚兽",
+      "onboard_time": 1712422095,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 265022,
@@ -227,14 +235,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 192982,
-      "num": 75847,
-      "word": "你敢不敢去摸一下那只两脚兽",
-      "onboard_time": 1712422095,
-      "rank": 30,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 191431,
       "num": 115961,
       "word": "陈楚生演唱会含哥量",
@@ -299,6 +299,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 136559,
+      "num": 213917,
+      "word": "淄博小哥让人心疼价目表让人心动",
+      "onboard_time": 1712422634,
+      "rank": 9,
+      "category": "社会新闻,旅游"
+    },
+    {
       "raw_hot": 131608,
       "num": 104223,
       "word": "沈近真下线",
@@ -313,6 +321,14 @@
       "onboard_time": 1712411960,
       "rank": 43,
       "category": "音乐,时尚"
+    },
+    {
+      "raw_hot": 125624,
+      "num": 125624,
+      "word": "周杰伦长沙演唱会将实名入场",
+      "onboard_time": 1712424013,
+      "rank": 21,
+      "category": "演出"
     },
     {
       "raw_hot": 122522,
@@ -363,6 +379,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 93972,
+      "num": 60493,
+      "word": "李逍遥 脆皮但能打",
+      "onboard_time": 1712423655,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 87504,
       "num": 204634,
       "word": "海登海姆vs拜仁",
@@ -377,14 +401,6 @@
       "onboard_time": 1712397017,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 79279,
-      "num": 60493,
-      "word": "李逍遥 脆皮但能打",
-      "onboard_time": 1712423655,
-      "rank": 41,
-      "category": "剧集"
     },
     {
       "raw_hot": 79059,
@@ -411,12 +427,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 77730,
-      "num": 213917,
-      "word": "淄博小哥让人心疼价目表让人心动",
-      "onboard_time": 1712422634,
-      "rank": 9,
-      "category": "社会新闻,旅游"
+      "raw_hot": 60857,
+      "num": 98653,
+      "word": "福宝",
+      "onboard_time": 1712400497,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 60590,
@@ -424,14 +440,6 @@
       "word": "男孩做阑尾切除术5年后阑尾还在",
       "onboard_time": 1712403618,
       "rank": 39,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 57604,
-      "num": 98653,
-      "word": "福宝",
-      "onboard_time": 1712400497,
-      "rank": 49,
       "category": "社会新闻"
     },
     {
@@ -449,6 +457,14 @@
       "onboard_time": 1712398757,
       "rank": 48,
       "category": "教育"
+    },
+    {
+      "raw_hot": 36030,
+      "num": 53477,
+      "word": "新疆17岁小伙要追赶苏炳添",
+      "onboard_time": 1712424493,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 34958,

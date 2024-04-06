@@ -1,6 +1,6 @@
 {
   "startTime": 1711902044401,
-  "endTime": 1712423792849,
+  "endTime": 1712424859014,
   "band_list": [
     {
       "raw_hot": 16874674,
@@ -7443,6 +7443,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 279846,
+      "num": 189676,
+      "word": "你敢不敢去摸一下那只两脚兽",
+      "onboard_time": 1712422095,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 277748,
       "num": 277748,
       "word": "韩国总统首次就医改寻求妥协",
@@ -10793,14 +10801,6 @@
       "onboard_time": 1712130380,
       "rank": 39,
       "category": "演出"
-    },
-    {
-      "raw_hot": 192982,
-      "num": 75847,
-      "word": "你敢不敢去摸一下那只两脚兽",
-      "onboard_time": 1712422095,
-      "rank": 30,
-      "category": "幽默"
     },
     {
       "raw_hot": 192807,
@@ -14539,6 +14539,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 136559,
+      "num": 213917,
+      "word": "淄博小哥让人心疼价目表让人心动",
+      "onboard_time": 1712422634,
+      "rank": 9,
+      "category": "社会新闻,旅游"
+    },
+    {
       "raw_hot": 136507,
       "num": 136507,
       "word": "小米SU7提车最长等待时间近8个月",
@@ -15073,6 +15081,14 @@
       "onboard_time": 1712207839,
       "rank": 46,
       "category": "电影"
+    },
+    {
+      "raw_hot": 125624,
+      "num": 125624,
+      "word": "周杰伦长沙演唱会将实名入场",
+      "onboard_time": 1712424013,
+      "rank": 21,
+      "category": "演出"
     },
     {
       "raw_hot": 125565,
@@ -16091,6 +16107,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 93972,
+      "num": 60493,
+      "word": "李逍遥 脆皮但能打",
+      "onboard_time": 1712423655,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 93966,
       "num": 93966,
       "word": "清明假期第2天",
@@ -16235,28 +16259,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 79279,
-      "num": 60493,
-      "word": "李逍遥 脆皮但能打",
-      "onboard_time": 1712423655,
-      "rank": 41,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 77927,
       "num": 60180,
       "word": "锦超演的傅卫军",
       "onboard_time": 1712421556,
       "rank": 44,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 77730,
-      "num": 213917,
-      "word": "淄博小哥让人心疼价目表让人心动",
-      "onboard_time": 1712422634,
-      "rank": 9,
-      "category": "社会新闻,旅游"
     },
     {
       "raw_hot": 77314,
@@ -16865,6 +16873,14 @@
       "onboard_time": 1712355370,
       "rank": 49,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 36030,
+      "num": 53477,
+      "word": "新疆17岁小伙要追赶苏炳添",
+      "onboard_time": 1712424493,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 34601,
