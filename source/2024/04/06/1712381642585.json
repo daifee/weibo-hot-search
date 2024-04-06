@@ -1,0 +1,410 @@
+{
+  "runTime": 1712381642585,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1197824,
+        "num": 1197824,
+        "word": "南大回应考研总成绩第一名不被录取",
+        "onboard_time": 1712371458,
+        "rank": 0,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 803638,
+        "num": 803638,
+        "word": "优酷给长月烬明的排面",
+        "onboard_time": 1712375777,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 90337,
+        "num": 647092,
+        "word": "藏在古建筑里的春天",
+        "onboard_time": 1712375119,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1038910,
+        "num": 646707,
+        "word": "金价",
+        "onboard_time": 1712374338,
+        "rank": 3,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 646237,
+        "num": 646237,
+        "word": "李菲想和刘亦菲演年下",
+        "onboard_time": 1712378658,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 645139,
+        "num": 645139,
+        "word": "淄博烧烤小哥的脸色一看就很火",
+        "onboard_time": 1712374938,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 556370,
+        "num": 556370,
+        "word": "谷爱凌在哈佛演讲用中文致谢",
+        "onboard_time": 1712375958,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 467398,
+        "num": 467398,
+        "word": "爱奇艺大量宣传海报由AI辅助批量产出",
+        "onboard_time": 1712377097,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 451260,
+        "num": 451260,
+        "word": "孙俪大提琴一级考出来了",
+        "onboard_time": 1712367137,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 87479,
+        "num": 444439,
+        "word": "女孩推轮椅妈妈坐地铁一路获帮助",
+        "onboard_time": 1712369598,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1261989,
+        "num": 425353,
+        "word": "兰州大学",
+        "onboard_time": 1712379439,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1065781,
+        "num": 403117,
+        "word": "13岁女孩失踪多日后遗体被找到",
+        "onboard_time": 1712378838,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 494311,
+        "num": 384953,
+        "word": "某幻 吴秋怡",
+        "onboard_time": 1712360835,
+        "rank": 12,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 382098,
+        "num": 382098,
+        "word": "以色列叫停全体作战部队休假",
+        "onboard_time": 1712369839,
+        "rank": 13,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 352042,
+        "num": 352042,
+        "word": "深圳暴雨",
+        "onboard_time": 1712377878,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 340511,
+        "num": 340511,
+        "word": "与凤行把番外拍出来了",
+        "onboard_time": 1712376678,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 339975,
+        "num": 339975,
+        "word": "盒子里的猫",
+        "onboard_time": 1712378357,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 280558,
+        "num": 280558,
+        "word": "锦超回应与李菲儿不和",
+        "onboard_time": 1712375417,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 273887,
+        "num": 273887,
+        "word": "王俊凯 盒子里的猫预告",
+        "onboard_time": 1712381298,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 271409,
+        "num": 271409,
+        "word": "痔疮自愈 提肛运动",
+        "onboard_time": 1712376378,
+        "rank": 19,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 549512,
+        "num": 270421,
+        "word": "拟录取短信被拦截了",
+        "onboard_time": 1712376257,
+        "rank": 20,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 519156,
+        "num": 267497,
+        "word": "打耳洞导致耳朵增生了",
+        "onboard_time": 1712379019,
+        "rank": 21,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 258218,
+        "num": 258218,
+        "word": "暗河传男主",
+        "onboard_time": 1712375478,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 251699,
+        "num": 251699,
+        "word": "伊朗",
+        "onboard_time": 1712377699,
+        "rank": 23,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 248008,
+        "num": 248008,
+        "word": "林更新哭戏",
+        "onboard_time": 1712371698,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 241935,
+        "num": 241935,
+        "word": "范丞丞脸上的二进制代码",
+        "onboard_time": 1712372240,
+        "rank": 25,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 227066,
+        "num": 227066,
+        "word": "宋江军队照",
+        "onboard_time": 1712381178,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 222493,
+        "num": 222493,
+        "word": "向佐版多尔衮",
+        "onboard_time": 1712377218,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 216572,
+        "num": 216572,
+        "word": "蔡徐坤C位出道六周年",
+        "onboard_time": 1712375119,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 227207,
+        "num": 216024,
+        "word": "林更新流量不大就两百多兆",
+        "onboard_time": 1712381059,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 214502,
+        "num": 214502,
+        "word": "这居然是谢可寅",
+        "onboard_time": 1712360595,
+        "rank": 30,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 208869,
+        "num": 208869,
+        "word": "追风者 砍一刀",
+        "onboard_time": 1712377397,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 193845,
+        "num": 193845,
+        "word": "墨西哥与厄瓜多尔断绝外交关系",
+        "onboard_time": 1712380758,
+        "rank": 32,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 187804,
+        "num": 192077,
+        "word": "马斯克称将对X上的成人内容大清洗",
+        "onboard_time": 1712369958,
+        "rank": 33,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 191345,
+        "num": 191345,
+        "word": "花间令收官",
+        "onboard_time": 1712380639,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 189712,
+        "num": 189712,
+        "word": "菜市场偶遇霍建华",
+        "onboard_time": 1712378299,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 171466,
+        "num": 171466,
+        "word": "TheShy谈wbg被零封",
+        "onboard_time": 1712380518,
+        "rank": 36,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 161528,
+        "num": 161528,
+        "word": "与凤行戒断反应",
+        "onboard_time": 1712377938,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 142351,
+        "num": 142351,
+        "word": "上次这么穿的还是沈眉庄",
+        "onboard_time": 1712371578,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 139581,
+        "num": 139581,
+        "word": "李白没骗人",
+        "onboard_time": 1712373318,
+        "rank": 39,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 140481,
+        "num": 138799,
+        "word": "凤来到死都没有听到女儿叫一声爹",
+        "onboard_time": 1712378957,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 131601,
+        "num": 131601,
+        "word": "来hi6和十个勤天击个掌",
+        "onboard_time": 1712379559,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 126057,
+        "num": 126057,
+        "word": "前夫殴打10岁女儿女子忍痛拍下取证",
+        "onboard_time": 1712329340,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 122172,
+        "num": 122172,
+        "word": "杨紫亲何赛飞脸颊",
+        "onboard_time": 1712375357,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 119790,
+        "num": 119790,
+        "word": "怎么跳绳燃脂最快",
+        "onboard_time": 1712381357,
+        "rank": 44,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 117818,
+        "num": 117818,
+        "word": "广州暴雨",
+        "onboard_time": 1712369656,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 117416,
+        "num": 117416,
+        "word": "与凤行",
+        "onboard_time": 1712377751,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 112946,
+        "num": 112946,
+        "word": "吃生姜和扫雷有什么区别",
+        "onboard_time": 1712381419,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 110347,
+        "num": 110347,
+        "word": "Zoom爆料Doinb开播日期",
+        "onboard_time": 1712376378,
+        "rank": 48,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 102271,
+        "num": 110317,
+        "word": "医生建议不要饿着肚子睡觉",
+        "onboard_time": 1712329519,
+        "rank": 49,
+        "category": "健康医疗"
+      }
+    ],
+    "hotgov": {
+      "word": "#家国永念致敬英雄#"
+    }
+  }
+}

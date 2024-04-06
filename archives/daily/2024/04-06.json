@@ -1,6 +1,6 @@
 {
   "startTime": 1712334193790,
-  "endTime": 1712380606658,
+  "endTime": 1712381642585,
   "band_list": [
     {
       "raw_hot": 1713312,
@@ -43,11 +43,27 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1261989,
+      "num": 436238,
+      "word": "兰州大学",
+      "onboard_time": 1712379439,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1138233,
       "num": 1138233,
       "word": "广州暴雨",
       "onboard_time": 1712369656,
       "rank": 23,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1065781,
+      "num": 449422,
+      "word": "13岁女孩失踪多日后遗体被找到",
+      "onboard_time": 1712378838,
+      "rank": 10,
       "category": "社会新闻"
     },
     {
@@ -91,14 +107,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 812507,
-      "num": 449422,
-      "word": "13岁女孩失踪多日后遗体被找到",
-      "onboard_time": 1712378838,
-      "rank": 10,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 805284,
       "num": 805284,
       "word": "以色列临时关闭28个驻外使馆",
@@ -112,14 +120,6 @@
       "word": "淄博烧烤小哥的脸色一看就很火",
       "onboard_time": 1712374938,
       "rank": 8,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 799445,
-      "num": 436238,
-      "word": "兰州大学",
-      "onboard_time": 1712379439,
-      "rank": 11,
       "category": "社会新闻"
     },
     {
@@ -491,19 +491,27 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 340511,
+      "num": 340511,
+      "word": "与凤行把番外拍出来了",
+      "onboard_time": 1712376678,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 339975,
+      "num": 339975,
+      "word": "盒子里的猫",
+      "onboard_time": 1712378357,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 336314,
       "num": 295123,
       "word": "赵丽颖林更新 粉丝联姻",
       "onboard_time": 1712320999,
       "rank": 17,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 323205,
-      "num": 323205,
-      "word": "与凤行把番外拍出来了",
-      "onboard_time": 1712376678,
-      "rank": 27,
       "category": "剧集"
     },
     {
@@ -529,14 +537,6 @@
       "onboard_time": 1712330179,
       "rank": 15,
       "category": "演出"
-    },
-    {
-      "raw_hot": 295186,
-      "num": 295186,
-      "word": "盒子里的猫",
-      "onboard_time": 1712378357,
-      "rank": 23,
-      "category": "综艺"
     },
     {
       "raw_hot": 294118,
@@ -593,6 +593,14 @@
       "onboard_time": 1712370977,
       "rank": 22,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 273887,
+      "num": 273887,
+      "word": "王俊凯 盒子里的猫预告",
+      "onboard_time": 1712381298,
+      "rank": 18,
+      "category": "综艺"
     },
     {
       "raw_hot": 271483,
@@ -659,6 +667,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 251699,
+      "num": 251699,
+      "word": "伊朗",
+      "onboard_time": 1712377699,
+      "rank": 48,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 250079,
       "num": 215077,
       "word": "地震后美国帝国大厦发文",
@@ -683,12 +699,20 @@
       "category": "情感"
     },
     {
-      "raw_hot": 230428,
-      "num": 230428,
-      "word": "伊朗",
-      "onboard_time": 1712377699,
-      "rank": 48,
-      "category": "国外时政"
+      "raw_hot": 227207,
+      "num": 216024,
+      "word": "林更新流量不大就两百多兆",
+      "onboard_time": 1712381059,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 227066,
+      "num": 227066,
+      "word": "宋江军队照",
+      "onboard_time": 1712381178,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 226411,
@@ -779,12 +803,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 193845,
+      "num": 193845,
+      "word": "墨西哥与厄瓜多尔断绝外交关系",
+      "onboard_time": 1712380758,
+      "rank": 32,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 192720,
       "num": 192720,
       "word": "明知结局妈妈依然推开了那扇门",
       "onboard_time": 1712327241,
       "rank": 14,
       "category": "电影"
+    },
+    {
+      "raw_hot": 191345,
+      "num": 191345,
+      "word": "花间令收官",
+      "onboard_time": 1712380639,
+      "rank": 34,
+      "category": "剧集"
     },
     {
       "raw_hot": 189965,
@@ -841,6 +881,14 @@
       "onboard_time": 1712364137,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 171466,
+      "num": 171466,
+      "word": "TheShy谈wbg被零封",
+      "onboard_time": 1712380518,
+      "rank": 47,
+      "category": "电竞"
     },
     {
       "raw_hot": 170967,
@@ -1091,6 +1139,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 119790,
+      "num": 119790,
+      "word": "怎么跳绳燃脂最快",
+      "onboard_time": 1712381357,
+      "rank": 44,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 119300,
       "num": 119300,
       "word": "魏若来 嫡徒弟",
@@ -1129,14 +1185,6 @@
       "onboard_time": 1712327119,
       "rank": 39,
       "category": "情感"
-    },
-    {
-      "raw_hot": 116843,
-      "num": 116843,
-      "word": "TheShy谈wbg被零封",
-      "onboard_time": 1712380518,
-      "rank": 47,
-      "category": "电竞"
     },
     {
       "raw_hot": 116147,
@@ -1193,6 +1241,14 @@
       "onboard_time": 1712336894,
       "rank": 32,
       "category": "演出"
+    },
+    {
+      "raw_hot": 112946,
+      "num": 112946,
+      "word": "吃生姜和扫雷有什么区别",
+      "onboard_time": 1712381419,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 111714,

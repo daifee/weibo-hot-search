@@ -1,6 +1,6 @@
 {
   "startTime": 1711902044401,
-  "endTime": 1712380606658,
+  "endTime": 1712381642585,
   "band_list": [
     {
       "raw_hot": 16874674,
@@ -859,6 +859,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1261989,
+      "num": 436238,
+      "word": "兰州大学",
+      "onboard_time": 1712379439,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1261595,
       "num": 1261595,
       "word": "海啸到达日本冲绳与那国岛",
@@ -1136,6 +1144,14 @@
       "word": "台湾花莲县海域再发生6.0级地震",
       "onboard_time": 1712106388,
       "rank": 11,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1065781,
+      "num": 449422,
+      "word": "13岁女孩失踪多日后遗体被找到",
+      "onboard_time": 1712378838,
+      "rank": 10,
       "category": "社会新闻"
     },
     {
@@ -1755,14 +1771,6 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 812507,
-      "num": 449422,
-      "word": "13岁女孩失踪多日后遗体被找到",
-      "onboard_time": 1712378838,
-      "rank": 10,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 812368,
       "num": 503196,
       "word": "飓风坠楼3条人命牵出江西贪腐第一大案",
@@ -1825,14 +1833,6 @@
       "onboard_time": 1712111241,
       "rank": 21,
       "category": "互联网,汽车"
-    },
-    {
-      "raw_hot": 799445,
-      "num": 436238,
-      "word": "兰州大学",
-      "onboard_time": 1712379439,
-      "rank": 11,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 798628,
@@ -5627,6 +5627,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 340511,
+      "num": 340511,
+      "word": "与凤行把番外拍出来了",
+      "onboard_time": 1712376678,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 339975,
+      "num": 339975,
+      "word": "盒子里的猫",
+      "onboard_time": 1712378357,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 339067,
       "num": 347402,
       "word": "新疆成为包邮区",
@@ -5833,14 +5849,6 @@
       "onboard_time": 1712110521,
       "rank": 27,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 323205,
-      "num": 323205,
-      "word": "与凤行把番外拍出来了",
-      "onboard_time": 1712376678,
-      "rank": 27,
-      "category": "剧集"
     },
     {
       "raw_hot": 323020,
@@ -6307,14 +6315,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 295186,
-      "num": 295186,
-      "word": "盒子里的猫",
-      "onboard_time": 1712378357,
-      "rank": 23,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 295178,
       "num": 295178,
       "word": "宁波震感",
@@ -6777,6 +6777,14 @@
       "onboard_time": 1712326159,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 273887,
+      "num": 273887,
+      "word": "王俊凯 盒子里的猫预告",
+      "onboard_time": 1712381298,
+      "rank": 18,
+      "category": "综艺"
     },
     {
       "raw_hot": 273641,
@@ -8131,12 +8139,28 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 227207,
+      "num": 216024,
+      "word": "林更新流量不大就两百多兆",
+      "onboard_time": 1712381059,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 227082,
       "num": 227082,
       "word": "kep1er五月最后一次回归",
       "onboard_time": 1712109562,
       "rank": 36,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 227066,
+      "num": 227066,
+      "word": "宋江军队照",
+      "onboard_time": 1712381178,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 226461,
@@ -9715,6 +9739,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 193845,
+      "num": 193845,
+      "word": "墨西哥与厄瓜多尔断绝外交关系",
+      "onboard_time": 1712380758,
+      "rank": 32,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 193819,
       "num": 193819,
       "word": "TXT空降成绩",
@@ -9889,6 +9921,14 @@
       "onboard_time": 1712113461,
       "rank": 42,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 191345,
+      "num": 191345,
+      "word": "花间令收官",
+      "onboard_time": 1712380639,
+      "rank": 34,
+      "category": "剧集"
     },
     {
       "raw_hot": 191079,
@@ -10977,6 +11017,14 @@
       "onboard_time": 1712035820,
       "rank": 34,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 171466,
+      "num": 171466,
+      "word": "TheShy谈wbg被零封",
+      "onboard_time": 1712380518,
+      "rank": 47,
+      "category": "电竞"
     },
     {
       "raw_hot": 171321,
@@ -13731,6 +13779,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 119790,
+      "num": 119790,
+      "word": "怎么跳绳燃脂最快",
+      "onboard_time": 1712381357,
+      "rank": 44,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 119614,
       "num": 119614,
       "word": "春天常按这几个穴位能长高",
@@ -13865,14 +13921,6 @@
       "onboard_time": 1712062038,
       "rank": 47,
       "category": "数码"
-    },
-    {
-      "raw_hot": 116843,
-      "num": 116843,
-      "word": "TheShy谈wbg被零封",
-      "onboard_time": 1712380518,
-      "rank": 47,
-      "category": "电竞"
     },
     {
       "raw_hot": 116717,
@@ -14017,6 +14065,14 @@
       "onboard_time": 1712336894,
       "rank": 32,
       "category": "演出"
+    },
+    {
+      "raw_hot": 112946,
+      "num": 112946,
+      "word": "吃生姜和扫雷有什么区别",
+      "onboard_time": 1712381419,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 112662,
