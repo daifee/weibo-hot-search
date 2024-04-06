@@ -1,6 +1,6 @@
 {
   "startTime": 1712334193790,
-  "endTime": 1712410445312,
+  "endTime": 1712412876810,
   "band_list": [
     {
       "raw_hot": 2169096,
@@ -41,6 +41,14 @@
       "onboard_time": 1712399777,
       "rank": 0,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 1556911,
+      "num": 1556911,
+      "word": "赵奕欢被李菲儿逼哭",
+      "onboard_time": 1712410879,
+      "rank": 0,
+      "category": "综艺"
     },
     {
       "raw_hot": 1525911,
@@ -139,12 +147,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1025518,
+      "num": 1025518,
+      "word": "将门毒后请肖战迪丽热巴会爆吗",
+      "onboard_time": 1712411299,
+      "rank": 1,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1022624,
       "num": 1022624,
       "word": "林更新与凤行杀青哭成狗",
       "onboard_time": 1712385498,
       "rank": 1,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 1001462,
+      "num": 1001462,
+      "word": "字字不提钱句句都是钱",
+      "onboard_time": 1712409199,
+      "rank": 28,
+      "category": "情感"
     },
     {
       "raw_hot": 941767,
@@ -235,20 +259,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 795496,
+      "num": 347343,
+      "word": "为什么现在退房都不检查了",
+      "onboard_time": 1712408538,
+      "rank": 20,
+      "category": "情感"
+    },
+    {
       "raw_hot": 795284,
       "num": 795284,
       "word": "天水真的有一亿人",
       "onboard_time": 1712401038,
       "rank": 26,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 784806,
-      "num": 347343,
-      "word": "为什么现在退房都不检查了",
-      "onboard_time": 1712408538,
-      "rank": 20,
-      "category": "情感"
     },
     {
       "raw_hot": 775354,
@@ -337,6 +361,14 @@
       "onboard_time": 1712389037,
       "rank": 11,
       "category": "母婴育儿"
+    },
+    {
+      "raw_hot": 661031,
+      "num": 461905,
+      "word": "王一博出来跳舞",
+      "onboard_time": 1712411540,
+      "rank": 10,
+      "category": "剧集"
     },
     {
       "raw_hot": 656784,
@@ -435,6 +467,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 587592,
+      "num": 587592,
+      "word": "上海饮料分级",
+      "onboard_time": 1712407938,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 586077,
       "num": 586077,
       "word": "李沁千金回国妆",
@@ -528,6 +568,14 @@
       "word": "金智媛8集换了82套造型",
       "onboard_time": 1712362697,
       "rank": 4,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 522183,
+      "num": 382210,
+      "word": "追风者2",
+      "onboard_time": 1712410519,
+      "rank": 15,
       "category": "剧集"
     },
     {
@@ -675,6 +723,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 432215,
+      "num": 264821,
+      "word": "宋雨琦绿发",
+      "onboard_time": 1712411960,
+      "rank": 21,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 432080,
       "num": 296276,
       "word": "蔡徐坤C位出道六周年",
@@ -721,6 +777,14 @@
       "onboard_time": 1712405058,
       "rank": 12,
       "category": "演出"
+    },
+    {
+      "raw_hot": 414172,
+      "num": 264636,
+      "word": "体制内开会为什么不能喝奶茶",
+      "onboard_time": 1712412259,
+      "rank": 23,
+      "category": "情感"
     },
     {
       "raw_hot": 413414,
@@ -795,12 +859,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 392704,
+      "num": 264481,
+      "word": "长期戴耳塞睡觉的人最后怎么样了",
+      "onboard_time": 1712411480,
+      "rank": 25,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 392405,
       "num": 392405,
       "word": "外科专家插吸管",
       "onboard_time": 1712402119,
       "rank": 30,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 386215,
+      "num": 386215,
+      "word": "在健身房练滚轮被陌生人开走",
+      "onboard_time": 1712408271,
+      "rank": 27,
+      "category": "幽默"
     },
     {
       "raw_hot": 382924,
@@ -819,14 +899,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 377259,
-      "num": 377259,
-      "word": "上海饮料分级",
-      "onboard_time": 1712407938,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 375262,
       "num": 375262,
       "word": "行止要当爸爸了",
@@ -841,6 +913,14 @@
       "onboard_time": 1712401459,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 366580,
+      "num": 264401,
+      "word": "吴镇宇说张睿就一辈子演古装了",
+      "onboard_time": 1712411960,
+      "rank": 26,
+      "category": "电影"
     },
     {
       "raw_hot": 363198,
@@ -912,6 +992,14 @@
       "word": "追风者",
       "onboard_time": 1712401819,
       "rank": 27,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 343237,
+      "num": 264297,
+      "word": "林更新接与凤行的原因",
+      "onboard_time": 1712411299,
+      "rank": 28,
       "category": "剧集"
     },
     {
@@ -995,14 +1083,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 319587,
-      "num": 298847,
-      "word": "字字不提钱句句都是钱",
-      "onboard_time": 1712409199,
-      "rank": 28,
-      "category": "情感"
-    },
-    {
       "raw_hot": 318981,
       "num": 318981,
       "word": "一个月给8000做全职妈妈",
@@ -1033,14 +1113,6 @@
       "onboard_time": 1712408058,
       "rank": 24,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 301136,
-      "num": 301136,
-      "word": "在健身房练滚轮被陌生人开走",
-      "onboard_time": 1712408271,
-      "rank": 27,
-      "category": "幽默"
     },
     {
       "raw_hot": 301104,
@@ -1283,12 +1355,36 @@
       "category": "情感"
     },
     {
+      "raw_hot": 243425,
+      "num": 243425,
+      "word": "谢谢与凤行",
+      "onboard_time": 1712411059,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 242621,
+      "num": 242621,
+      "word": "喻言音乐节",
+      "onboard_time": 1712411360,
+      "rank": 36,
+      "category": "演出"
+    },
+    {
       "raw_hot": 236251,
       "num": 236251,
       "word": "看演唱会千万别用雨衣当坐垫",
       "onboard_time": 1712391438,
       "rank": 27,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 233074,
+      "num": 193538,
+      "word": "爱奇艺2024首部破万剧",
+      "onboard_time": 1712412500,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 229738,
@@ -1355,6 +1451,22 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 221455,
+      "num": 264935,
+      "word": "CBA",
+      "onboard_time": 1712411840,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 220825,
+      "num": 192229,
+      "word": "赵晴李菲儿扇巴掌戏",
+      "onboard_time": 1712412440,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 219474,
       "num": 219474,
       "word": "同学知道我上岸之后接受不了",
@@ -1377,6 +1489,14 @@
       "onboard_time": 1712407997,
       "rank": 33,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 216647,
+      "num": 216647,
+      "word": "成都迪士尼",
+      "onboard_time": 1712412500,
+      "rank": 37,
+      "category": "幽默"
     },
     {
       "raw_hot": 215581,
@@ -1472,6 +1592,14 @@
       "word": "我的导师曾经是不太聪明的研究生",
       "onboard_time": 1712375958,
       "rank": 31,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 194767,
+      "num": 194767,
+      "word": "INFP 时尚单品",
+      "onboard_time": 1712410398,
+      "rank": 47,
       "category": "情感"
     },
     {
@@ -1577,6 +1705,14 @@
       "onboard_time": 1712387058,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 188495,
+      "num": 188495,
+      "word": "这4种食物是尿毒症的加速器",
+      "onboard_time": 1712411658,
+      "rank": 45,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 187979,
@@ -1867,6 +2003,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 161092,
+      "num": 186867,
+      "word": "男子上厕所隐私部位被割伤缝20多针",
+      "onboard_time": 1712412860,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 160707,
       "num": 160707,
       "word": "DNA比对成功烈士找到亲人",
@@ -2097,14 +2241,6 @@
       "onboard_time": 1712314099,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 138326,
-      "num": 138326,
-      "word": "INFP 时尚单品",
-      "onboard_time": 1712410398,
-      "rank": 47,
-      "category": "情感"
     },
     {
       "raw_hot": 137612,
@@ -2571,6 +2707,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 100707,
+      "num": 186219,
+      "word": "水晶宫2比4曼城",
+      "onboard_time": 1712411419,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 100072,
       "num": 100072,
       "word": "詹姆斯儿子将参加2024NBA选秀",
@@ -2625,6 +2769,14 @@
       "onboard_time": 1712388797,
       "rank": 49,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 98300,
+      "num": 185095,
+      "word": "德布劳内曼城百球",
+      "onboard_time": 1712411600,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 95819,
@@ -2849,6 +3001,14 @@
       "onboard_time": 1712355311,
       "rank": 48,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 20556,
+      "num": 1006645,
+      "word": "踏青赏花游热度增超700%",
+      "onboard_time": 1712412620,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 16742,

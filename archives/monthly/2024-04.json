@@ -1,6 +1,6 @@
 {
   "startTime": 1711902044401,
-  "endTime": 1712410445312,
+  "endTime": 1712412876810,
   "band_list": [
     {
       "raw_hot": 16874674,
@@ -561,6 +561,14 @@
       "onboard_time": 1712307258,
       "rank": 4,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1556911,
+      "num": 1556911,
+      "word": "赵奕欢被李菲儿逼哭",
+      "onboard_time": 1712410879,
+      "rank": 0,
+      "category": "综艺"
     },
     {
       "raw_hot": 1551813,
@@ -1315,6 +1323,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1025518,
+      "num": 1025518,
+      "word": "将门毒后请肖战迪丽热巴会爆吗",
+      "onboard_time": 1712411299,
+      "rank": 1,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1025348,
       "num": 1025348,
       "word": "赵丽颖林更新情头",
@@ -1385,6 +1401,14 @@
       "onboard_time": 1712304978,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1001462,
+      "num": 1001462,
+      "word": "字字不提钱句句都是钱",
+      "onboard_time": 1712409199,
+      "rank": 28,
+      "category": "情感"
     },
     {
       "raw_hot": 999550,
@@ -1971,6 +1995,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 795496,
+      "num": 347343,
+      "word": "为什么现在退房都不检查了",
+      "onboard_time": 1712408538,
+      "rank": 20,
+      "category": "情感"
+    },
+    {
       "raw_hot": 795284,
       "num": 795284,
       "word": "天水真的有一亿人",
@@ -2001,14 +2033,6 @@
       "onboard_time": 1712019920,
       "rank": 13,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 784806,
-      "num": 347343,
-      "word": "为什么现在退房都不检查了",
-      "onboard_time": 1712408538,
-      "rank": 20,
-      "category": "情感"
     },
     {
       "raw_hot": 783055,
@@ -2627,6 +2651,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 661031,
+      "num": 461905,
+      "word": "王一博出来跳舞",
+      "onboard_time": 1712411540,
+      "rank": 10,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 660306,
       "num": 660306,
       "word": "向佐被网友认成外国女人和保姆",
@@ -3201,6 +3233,14 @@
       "onboard_time": 1712055860,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 587592,
+      "num": 587592,
+      "word": "上海饮料分级",
+      "onboard_time": 1712407938,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 586352,
@@ -3785,6 +3825,14 @@
       "onboard_time": 1711932739,
       "rank": 20,
       "category": "情感"
+    },
+    {
+      "raw_hot": 522183,
+      "num": 382210,
+      "word": "追风者2",
+      "onboard_time": 1712410519,
+      "rank": 15,
+      "category": "剧集"
     },
     {
       "raw_hot": 522050,
@@ -4723,6 +4771,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 432215,
+      "num": 264821,
+      "word": "宋雨琦绿发",
+      "onboard_time": 1712411960,
+      "rank": 21,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 432136,
       "num": 432136,
       "word": "王一博直播",
@@ -4993,6 +5049,14 @@
       "onboard_time": 1712186355,
       "rank": 9,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 414172,
+      "num": 264636,
+      "word": "体制内开会为什么不能喝奶茶",
+      "onboard_time": 1712412259,
+      "rank": 23,
+      "category": "情感"
     },
     {
       "raw_hot": 413441,
@@ -5291,6 +5355,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 392704,
+      "num": 264481,
+      "word": "长期戴耳塞睡觉的人最后怎么样了",
+      "onboard_time": 1712411480,
+      "rank": 25,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 392405,
       "num": 392405,
       "word": "外科专家插吸管",
@@ -5361,6 +5433,14 @@
       "onboard_time": 1711939638,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 386215,
+      "num": 386215,
+      "word": "在健身房练滚轮被陌生人开走",
+      "onboard_time": 1712408271,
+      "rank": 27,
+      "category": "幽默"
     },
     {
       "raw_hot": 385808,
@@ -5531,14 +5611,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 377259,
-      "num": 377259,
-      "word": "上海饮料分级",
-      "onboard_time": 1712407938,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 376103,
       "num": 324775,
       "word": "24岁女生和48岁的室友妈妈处成母女",
@@ -5657,6 +5729,14 @@
       "onboard_time": 1712167932,
       "rank": 32,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 366580,
+      "num": 264401,
+      "word": "吴镇宇说张睿就一辈子演古装了",
+      "onboard_time": 1712411960,
+      "rank": 26,
+      "category": "电影"
     },
     {
       "raw_hot": 366377,
@@ -6001,6 +6081,14 @@
       "onboard_time": 1711966160,
       "rank": 33,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 343237,
+      "num": 264297,
+      "word": "林更新接与凤行的原因",
+      "onboard_time": 1712411299,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 342563,
@@ -6371,14 +6459,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 319587,
-      "num": 298847,
-      "word": "字字不提钱句句都是钱",
-      "onboard_time": 1712409199,
-      "rank": 28,
-      "category": "情感"
-    },
-    {
       "raw_hot": 318765,
       "num": 318765,
       "word": "考上研发现自己被家里长辈屏蔽了",
@@ -6745,14 +6825,6 @@
       "onboard_time": 1712133081,
       "rank": 47,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 301136,
-      "num": 301136,
-      "word": "在健身房练滚轮被陌生人开走",
-      "onboard_time": 1712408271,
-      "rank": 27,
-      "category": "幽默"
     },
     {
       "raw_hot": 301104,
@@ -8203,6 +8275,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 243425,
+      "num": 243425,
+      "word": "谢谢与凤行",
+      "onboard_time": 1712411059,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 243304,
       "num": 243304,
       "word": "王一博早春穿搭",
@@ -8225,6 +8305,14 @@
       "onboard_time": 1711969401,
       "rank": 41,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 242621,
+      "num": 242621,
+      "word": "喻言音乐节",
+      "onboard_time": 1712411360,
+      "rank": 36,
+      "category": "演出"
     },
     {
       "raw_hot": 242610,
@@ -8521,6 +8609,14 @@
       "onboard_time": 1712055620,
       "rank": 31,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 233074,
+      "num": 193538,
+      "word": "爱奇艺2024首部破万剧",
+      "onboard_time": 1712412500,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 233024,
@@ -8939,6 +9035,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 221455,
+      "num": 264935,
+      "word": "CBA",
+      "onboard_time": 1712411840,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 221388,
       "num": 221388,
       "word": "音律联觉",
@@ -8969,6 +9073,14 @@
       "onboard_time": 1711932561,
       "rank": 31,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 220825,
+      "num": 192229,
+      "word": "赵晴李菲儿扇巴掌戏",
+      "onboard_time": 1712412440,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 220817,
@@ -10347,6 +10459,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 194767,
+      "num": 194767,
+      "word": "INFP 时尚单品",
+      "onboard_time": 1712410398,
+      "rank": 47,
+      "category": "情感"
+    },
+    {
       "raw_hot": 194679,
       "num": 176988,
       "word": "林俊杰土味情话",
@@ -10857,6 +10977,14 @@
       "onboard_time": 1712123300,
       "rank": 36,
       "category": "演出"
+    },
+    {
+      "raw_hot": 188495,
+      "num": 188495,
+      "word": "这4种食物是尿毒症的加速器",
+      "onboard_time": 1712411658,
+      "rank": 45,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 188203,
@@ -12427,6 +12555,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 161092,
+      "num": 186867,
+      "word": "男子上厕所隐私部位被割伤缝20多针",
+      "onboard_time": 1712412860,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 161040,
       "num": 161040,
       "word": "喜欢旅游演唱会居然是相亲减分项",
@@ -13971,14 +14107,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 138326,
-      "num": 138326,
-      "word": "INFP 时尚单品",
-      "onboard_time": 1712410398,
-      "rank": 47,
-      "category": "情感"
-    },
-    {
       "raw_hot": 138313,
       "num": 138313,
       "word": "诺米",
@@ -15491,6 +15619,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 100707,
+      "num": 186219,
+      "word": "水晶宫2比4曼城",
+      "onboard_time": 1712411419,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 100142,
       "num": 313016,
       "word": "成都惊现越狱熊猫",
@@ -15593,6 +15729,14 @@
       "onboard_time": 1712388797,
       "rank": 49,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 98300,
+      "num": 185095,
+      "word": "德布劳内曼城百球",
+      "onboard_time": 1712411600,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 98251,
@@ -16617,6 +16761,14 @@
       "onboard_time": 1712355311,
       "rank": 48,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 20556,
+      "num": 1006645,
+      "word": "踏青赏花游热度增超700%",
+      "onboard_time": 1712412620,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 20228,
