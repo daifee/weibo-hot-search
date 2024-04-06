@@ -1,10 +1,10 @@
 {
   "startTime": 1712334193790,
-  "endTime": 1712395000055,
+  "endTime": 1712396063398,
   "band_list": [
     {
-      "raw_hot": 2084704,
-      "num": 2084704,
+      "raw_hot": 2169096,
+      "num": 2169096,
       "word": "兰大回应虐猫考生进调剂名单",
       "onboard_time": 1712391978,
       "rank": 16,
@@ -139,8 +139,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 829297,
-      "num": 829297,
+      "raw_hot": 831411,
+      "num": 831411,
       "word": "赵丽颖好爱她的每一个角色",
       "onboard_time": 1712392818,
       "rank": 3,
@@ -251,6 +251,14 @@
       "category": "互联网,财经"
     },
     {
+      "raw_hot": 627688,
+      "num": 627688,
+      "word": "甄嬛传之胖橘大闹甘露寺",
+      "onboard_time": 1712390957,
+      "rank": 17,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 620922,
       "num": 620922,
       "word": "爱奇艺没有一台笔电吗",
@@ -331,20 +339,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 579187,
-      "num": 579187,
-      "word": "甄嬛传之胖橘大闹甘露寺",
-      "onboard_time": 1712390957,
-      "rank": 17,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 572713,
       "num": 572713,
       "word": "你好星期六全员种花",
       "onboard_time": 1712370617,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 570344,
+      "num": 220994,
+      "word": "微信式恋爱",
+      "onboard_time": 1712394258,
+      "rank": 21,
+      "category": "情感"
     },
     {
       "raw_hot": 570044,
@@ -385,6 +393,14 @@
       "onboard_time": 1712362697,
       "rank": 4,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 503652,
+      "num": 256064,
+      "word": "穿马面裙被男友说丢人",
+      "onboard_time": 1712391978,
+      "rank": 22,
+      "category": "情感"
     },
     {
       "raw_hot": 503100,
@@ -515,14 +531,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 410995,
-      "num": 256064,
-      "word": "穿马面裙被男友说丢人",
-      "onboard_time": 1712391978,
-      "rank": 22,
-      "category": "情感"
-    },
-    {
       "raw_hot": 409159,
       "num": 409159,
       "word": "深圳暴雨",
@@ -587,6 +595,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 380460,
+      "num": 380460,
+      "word": "Doinb重返直播间",
+      "onboard_time": 1712393718,
+      "rank": 13,
+      "category": "电竞,网红"
+    },
+    {
       "raw_hot": 379253,
       "num": 352468,
       "word": "13岁女孩失踪监控显示曾在奔跑",
@@ -643,14 +659,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 342693,
-      "num": 342693,
-      "word": "Doinb重返直播间",
-      "onboard_time": 1712393718,
-      "rank": 13,
-      "category": "电竞,网红"
-    },
-    {
       "raw_hot": 340511,
       "num": 340511,
       "word": "与凤行把番外拍出来了",
@@ -691,12 +699,12 @@
       "category": "财经"
     },
     {
-      "raw_hot": 334947,
-      "num": 220994,
-      "word": "微信式恋爱",
-      "onboard_time": 1712394258,
-      "rank": 21,
-      "category": "情感"
+      "raw_hot": 327534,
+      "num": 327534,
+      "word": "服了你们滚人",
+      "onboard_time": 1712391438,
+      "rank": 40,
+      "category": "演出,幽默"
     },
     {
       "raw_hot": 318981,
@@ -851,14 +859,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 254279,
-      "num": 254279,
-      "word": "服了你们滚人",
-      "onboard_time": 1712391438,
-      "rank": 40,
-      "category": "演出,幽默"
-    },
-    {
       "raw_hot": 253684,
       "num": 211896,
       "word": "脖子黑洗不掉提醒你该减肥了",
@@ -921,6 +921,14 @@
       "onboard_time": 1712391438,
       "rank": 27,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 228434,
+      "num": 174729,
+      "word": "赵奕欢看穿纪凌尘",
+      "onboard_time": 1712395517,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 227066,
@@ -1003,6 +1011,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 207765,
+      "num": 188196,
+      "word": "双相情感障碍和正常人区别",
+      "onboard_time": 1712394198,
+      "rank": 27,
+      "category": "情感"
+    },
+    {
       "raw_hot": 205518,
       "num": 205518,
       "word": "导演透露王一博李沁有望二搭",
@@ -1083,14 +1099,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 188196,
-      "num": 188196,
-      "word": "双相情感障碍和正常人区别",
-      "onboard_time": 1712394198,
-      "rank": 27,
-      "category": "情感"
-    },
-    {
       "raw_hot": 187898,
       "num": 169579,
       "word": "众星给张彬彬新剧打call",
@@ -1123,6 +1131,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 183346,
+      "num": 183346,
+      "word": "身价过亿的有钱人生活",
+      "onboard_time": 1712394857,
+      "rank": 44,
+      "category": "情感"
+    },
+    {
       "raw_hot": 182749,
       "num": 182749,
       "word": "范丞丞的背",
@@ -1139,6 +1155,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 177333,
+      "num": 177333,
+      "word": "徐海乔有效客串",
+      "onboard_time": 1712395337,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 176342,
       "num": 176342,
       "word": "来hi6和十个勤天击个掌",
@@ -1153,6 +1177,14 @@
       "onboard_time": 1712373137,
       "rank": 34,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 173778,
+      "num": 173778,
+      "word": "婚后的收入应该放在一起吗",
+      "onboard_time": 1712394678,
+      "rank": 39,
+      "category": "情感"
     },
     {
       "raw_hot": 173193,
@@ -1283,6 +1315,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 154017,
+      "num": 175133,
+      "word": "梅西赛后走进对手更衣室大声喊叫",
+      "onboard_time": 1712395278,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 153012,
       "num": 153012,
       "word": "恋爱兄妹男五",
@@ -1305,6 +1345,14 @@
       "onboard_time": 1712386577,
       "rank": 33,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 150152,
+      "num": 150152,
+      "word": "林俊杰火星哥合照",
+      "onboard_time": 1712393898,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 148631,
@@ -1355,14 +1403,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 146025,
-      "num": 146025,
-      "word": "林俊杰火星哥合照",
-      "onboard_time": 1712393898,
-      "rank": 36,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 145642,
       "num": 145642,
       "word": "小龙虾为何大降价",
@@ -1409,14 +1449,6 @@
       "onboard_time": 1712371038,
       "rank": 43,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 140182,
-      "num": 140182,
-      "word": "婚后的收入应该放在一起吗",
-      "onboard_time": 1712394678,
-      "rank": 39,
-      "category": "情感"
     },
     {
       "raw_hot": 139359,
@@ -1787,12 +1819,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 105080,
-      "num": 105080,
-      "word": "身价过亿的有钱人生活",
-      "onboard_time": 1712394857,
-      "rank": 44,
-      "category": "情感"
+      "raw_hot": 103590,
+      "num": 103590,
+      "word": "无星悦",
+      "onboard_time": 1712395937,
+      "rank": 47,
+      "category": "游戏"
     },
     {
       "raw_hot": 102916,
@@ -1817,6 +1849,14 @@
       "onboard_time": 1712327359,
       "rank": 46,
       "category": "情感"
+    },
+    {
+      "raw_hot": 101570,
+      "num": 101570,
+      "word": "天津津门虎半场0比1成都蓉城",
+      "onboard_time": 1712395099,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 101466,
@@ -1875,20 +1915,20 @@
       "category": "情感"
     },
     {
+      "raw_hot": 98994,
+      "num": 403237,
+      "word": "太行花悬崖悄悄绽放太惊艳",
+      "onboard_time": 1712386458,
+      "rank": 9,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 98767,
       "num": 98767,
       "word": "5个延缓衰老技巧",
       "onboard_time": 1712333356,
       "rank": 48,
       "category": "科学科普"
-    },
-    {
-      "raw_hot": 98656,
-      "num": 403237,
-      "word": "太行花悬崖悄悄绽放太惊艳",
-      "onboard_time": 1712386458,
-      "rank": 9,
-      "category": "旅游"
     },
     {
       "raw_hot": 98416,
@@ -1953,6 +1993,14 @@
       "onboard_time": 1712336714,
       "rank": 40,
       "category": "电影"
+    },
+    {
+      "raw_hot": 81180,
+      "num": 865760,
+      "word": "假期返程安全行车攻略",
+      "onboard_time": 1712394318,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 75444,
@@ -2041,14 +2089,6 @@
       "onboard_time": 1712351591,
       "rank": 44,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 39899,
-      "num": 852464,
-      "word": "假期返程安全行车攻略",
-      "onboard_time": 1712394318,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 38780,
