@@ -1,0 +1,410 @@
+{
+  "runTime": 1712392465802,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1659134,
+        "num": 1659134,
+        "word": "范丞丞工作室回应争议",
+        "onboard_time": 1712389938,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 901811,
+        "num": 901811,
+        "word": "林更新与凤行杀青哭成狗",
+        "onboard_time": 1712385498,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 54194,
+        "num": 714810,
+        "word": "志愿军烈士和家人跨时空重逢",
+        "onboard_time": 1712374877,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 666198,
+        "num": 666198,
+        "word": "吴宣仪认证自己很姬",
+        "onboard_time": 1712383217,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 518321,
+        "num": 518321,
+        "word": "甄嬛传之胖橘大闹甘露寺",
+        "onboard_time": 1712390957,
+        "rank": 4,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 407312,
+        "num": 407312,
+        "word": "南大回应考研总成绩第一名不被录取",
+        "onboard_time": 1712371458,
+        "rank": 5,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 384364,
+        "num": 384364,
+        "word": "BoA 可以隐退了吧",
+        "onboard_time": 1712384898,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 362762,
+        "num": 362762,
+        "word": "林更新流量不大就两百多兆",
+        "onboard_time": 1712381059,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 254395,
+        "num": 361594,
+        "word": "谷爱凌在哈佛演讲用中文致谢",
+        "onboard_time": 1712375958,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 92730,
+        "num": 359532,
+        "word": "太行花悬崖悄悄绽放太惊艳",
+        "onboard_time": 1712386458,
+        "rank": 9,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 825800,
+        "num": 358626,
+        "word": "兰州大学",
+        "onboard_time": 1712379439,
+        "rank": 10,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 542177,
+        "num": 355386,
+        "word": "月子期间老公对婆婆的约法三章",
+        "onboard_time": 1712389037,
+        "rank": 11,
+        "category": "母婴育儿"
+      },
+      {
+        "raw_hot": 483196,
+        "num": 354724,
+        "word": "13岁女孩失踪多日后遗体被找到",
+        "onboard_time": 1712378838,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 379253,
+        "num": 352468,
+        "word": "13岁女孩失踪监控显示曾在奔跑",
+        "onboard_time": 1712388918,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 351099,
+        "num": 351099,
+        "word": "王俊凯鼻子还好吗",
+        "onboard_time": 1712385737,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 349116,
+        "num": 349116,
+        "word": "腾讯给与凤行配的标题",
+        "onboard_time": 1712384657,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 304470,
+        "num": 304470,
+        "word": "兰大回应虐猫考生进调剂名单",
+        "onboard_time": 1712391978,
+        "rank": 16,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 275707,
+        "num": 275707,
+        "word": "沈璃长文",
+        "onboard_time": 1712387058,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 266214,
+        "num": 266214,
+        "word": "沈璃爸妈怎么抱着林更新",
+        "onboard_time": 1712391498,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 217102,
+        "num": 263957,
+        "word": "淄博烧烤小哥的脸色一看就很火",
+        "onboard_time": 1712374938,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 397293,
+        "num": 261967,
+        "word": "为什么有人只睡4小时也很精神",
+        "onboard_time": 1712388797,
+        "rank": 20,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 390908,
+        "num": 258645,
+        "word": "考上上海研究生却开心不起来",
+        "onboard_time": 1712387718,
+        "rank": 21,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 309886,
+        "num": 256064,
+        "word": "穿马面裙被男友说丢人",
+        "onboard_time": 1712391978,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 255200,
+        "num": 255200,
+        "word": "无法想象宫崎骏有多自律",
+        "onboard_time": 1712389458,
+        "rank": 23,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 236251,
+        "num": 236251,
+        "word": "看演唱会千万别用雨衣当坐垫",
+        "onboard_time": 1712391438,
+        "rank": 24,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 226920,
+        "num": 226920,
+        "word": "拟录取短信被拦截了",
+        "onboard_time": 1712376257,
+        "rank": 25,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 211896,
+        "num": 211896,
+        "word": "脖子黑洗不掉提醒你该减肥了",
+        "onboard_time": 1712389037,
+        "rank": 26,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 188276,
+        "num": 188276,
+        "word": "服了你们滚人",
+        "onboard_time": 1712391438,
+        "rank": 27,
+        "category": "演出,幽默"
+      },
+      {
+        "raw_hot": 178476,
+        "num": 178476,
+        "word": "郑恺脱鞋回一米六了",
+        "onboard_time": 1712389398,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 166148,
+        "num": 166148,
+        "word": "打耳洞导致耳朵增生了",
+        "onboard_time": 1712379019,
+        "rank": 29,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 155133,
+        "num": 155133,
+        "word": "老舅坐鹿晗大腿",
+        "onboard_time": 1712383817,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 154484,
+        "num": 154484,
+        "word": "孙俪大提琴一级考出来了",
+        "onboard_time": 1712367137,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 148631,
+        "num": 148631,
+        "word": "为什么西湖的水像绸缎一样",
+        "onboard_time": 1712392157,
+        "rank": 32,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 138571,
+        "num": 138571,
+        "word": "首饰金价涨至每克710元",
+        "onboard_time": 1712382918,
+        "rank": 33,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 138021,
+        "num": 138021,
+        "word": "以色列叫停全体作战部队休假",
+        "onboard_time": 1712369839,
+        "rank": 34,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 135987,
+        "num": 135987,
+        "word": "某幻 吴秋怡",
+        "onboard_time": 1712360835,
+        "rank": 35,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 135477,
+        "num": 135477,
+        "word": "高叶高中时期的照片",
+        "onboard_time": 1712392097,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 129883,
+        "num": 129883,
+        "word": "李菲想和刘亦菲演年下",
+        "onboard_time": 1712378658,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 125180,
+        "num": 125180,
+        "word": "背诗词免门票在景区界传开了",
+        "onboard_time": 1712391438,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 124924,
+        "num": 124924,
+        "word": "上班20分钟定律",
+        "onboard_time": 1712391978,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 114598,
+        "num": 114598,
+        "word": "与凤行拉新年榜进前十",
+        "onboard_time": 1712385258,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 111305,
+        "num": 111305,
+        "word": "众星给张彬彬新剧打call",
+        "onboard_time": 1712387357,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 111275,
+        "num": 111275,
+        "word": "优酷给长月烬明的排面",
+        "onboard_time": 1712375777,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 103566,
+        "num": 103566,
+        "word": "台湾花莲地震已致13人遇难",
+        "onboard_time": 1712386338,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 101890,
+        "num": 101890,
+        "word": "追风者 砍一刀",
+        "onboard_time": 1712377397,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 100853,
+        "num": 100853,
+        "word": "幽兰救沈璃上大分",
+        "onboard_time": 1712388617,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 96906,
+        "num": 96906,
+        "word": "LCK",
+        "onboard_time": 1712389938,
+        "rank": 46,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 96470,
+        "num": 96470,
+        "word": "新来的朋友像素有点低呀",
+        "onboard_time": 1712391677,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 93226,
+        "num": 93226,
+        "word": "种地吧妈妈的爱藏在干净的鞋里",
+        "onboard_time": 1712385676,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 89853,
+        "num": 89853,
+        "word": "天然散结药就藏在你家餐桌上",
+        "onboard_time": 1712384597,
+        "rank": 49,
+        "category": "健康医疗"
+      }
+    ],
+    "hotgov": {
+      "word": "#家国永念致敬英雄#"
+    }
+  }
+}
