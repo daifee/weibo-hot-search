@@ -1,6 +1,6 @@
 {
   "startTime": 1712420539476,
-  "endTime": 1712420539476,
+  "endTime": 1712421351899,
   "band_list": [
     {
       "raw_hot": 1243767,
@@ -28,7 +28,7 @@
     },
     {
       "raw_hot": 624990,
-      "num": 405155,
+      "num": 408412,
       "word": "男子上厕所隐私部位被割伤缝20多针",
       "onboard_time": 1712412860,
       "rank": 10,
@@ -43,8 +43,16 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 610849,
+      "num": 610849,
+      "word": "成都迪士尼被限流",
+      "onboard_time": 1712419217,
+      "rank": 15,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 571710,
-      "num": 397983,
+      "num": 408319,
       "word": "爷爷上坟比年轻人走的快",
       "onboard_time": 1712413700,
       "rank": 11,
@@ -84,7 +92,7 @@
     },
     {
       "raw_hot": 372174,
-      "num": 258212,
+      "num": 278644,
       "word": "为什么现在退房都不检查了",
       "onboard_time": 1712408538,
       "rank": 20,
@@ -107,14 +115,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 345355,
-      "num": 345355,
-      "word": "成都迪士尼被限流",
-      "onboard_time": 1712419217,
-      "rank": 15,
-      "category": "旅游"
-    },
-    {
       "raw_hot": 327890,
       "num": 327890,
       "word": "吴镇宇说张睿就一辈子演古装了",
@@ -132,7 +132,7 @@
     },
     {
       "raw_hot": 305220,
-      "num": 257517,
+      "num": 286449,
       "word": "眼泪女王男二",
       "onboard_time": 1712415560,
       "rank": 21,
@@ -140,7 +140,7 @@
     },
     {
       "raw_hot": 295480,
-      "num": 256415,
+      "num": 263542,
       "word": "陈奕迅南京场观众",
       "onboard_time": 1712418258,
       "rank": 22,
@@ -179,15 +179,7 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 213557,
-      "num": 213557,
-      "word": "于正说赵晴替他一雪前耻",
-      "onboard_time": 1712417957,
-      "rank": 27,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 213310,
+      "raw_hot": 228855,
       "num": 482835,
       "word": "花莲地震已致12人死亡1123人受伤",
       "onboard_time": 1712417478,
@@ -195,8 +187,16 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 212110,
-      "num": 243632,
+      "raw_hot": 218750,
+      "num": 218750,
+      "word": "于正说赵晴替他一雪前耻",
+      "onboard_time": 1712417957,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 212976,
+      "num": 278693,
       "word": "日本天皇独生女成为月薪7千的打工人",
       "onboard_time": 1712403077,
       "rank": 24,
@@ -227,15 +227,15 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 177564,
-      "num": 259095,
-      "word": "上海饮料分级",
-      "onboard_time": 1712407938,
-      "rank": 19,
-      "category": "社会新闻"
+      "raw_hot": 191431,
+      "num": 115961,
+      "word": "陈楚生演唱会含哥量",
+      "onboard_time": 1712420596,
+      "rank": 30,
+      "category": "演出"
     },
     {
-      "raw_hot": 171013,
+      "raw_hot": 182206,
       "num": 171013,
       "word": "眼泪女王",
       "onboard_time": 1712407399,
@@ -243,11 +243,27 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 177564,
+      "num": 278645,
+      "word": "上海饮料分级",
+      "onboard_time": 1712407938,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 159262,
       "num": 120278,
       "word": "王一博出来跳舞",
       "onboard_time": 1712411540,
       "rank": 35,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 152854,
+      "num": 105140,
+      "word": "林更新周冬雨军服旧照",
+      "onboard_time": 1712420236,
+      "rank": 41,
       "category": "剧集"
     },
     {
@@ -273,14 +289,6 @@
       "onboard_time": 1712407337,
       "rank": 40,
       "category": "网红"
-    },
-    {
-      "raw_hot": 134988,
-      "num": 105140,
-      "word": "林更新周冬雨军服旧照",
-      "onboard_time": 1712420236,
-      "rank": 41,
-      "category": "剧集"
     },
     {
       "raw_hot": 131608,
@@ -339,8 +347,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 98823,
-      "num": 98823,
+      "raw_hot": 102858,
+      "num": 102858,
       "word": "坂田银时又是第一",
       "onboard_time": 1712416040,
       "rank": 45,
@@ -363,11 +371,35 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 79059,
+      "num": 79059,
+      "word": "DYG春季赛淘汰",
+      "onboard_time": 1712417239,
+      "rank": 46,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 78543,
+      "num": 78543,
+      "word": "Doinb回应复播",
+      "onboard_time": 1712400738,
+      "rank": 47,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 60590,
       "num": 108652,
       "word": "男孩做阑尾切除术5年后阑尾还在",
       "onboard_time": 1712403618,
       "rank": 39,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 57604,
+      "num": 98653,
+      "word": "福宝",
+      "onboard_time": 1712400497,
+      "rank": 49,
       "category": "社会新闻"
     },
     {
@@ -392,14 +424,6 @@
       "word": "一起打卡春天里的中国",
       "onboard_time": 1712413100,
       "rank": 2,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 31859,
-      "num": 98216,
-      "word": "福宝",
-      "onboard_time": 1712400497,
-      "rank": 49,
       "category": "社会新闻"
     }
   ],
