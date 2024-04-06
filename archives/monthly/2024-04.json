@@ -1,6 +1,6 @@
 {
   "startTime": 1711902044401,
-  "endTime": 1712385255616,
+  "endTime": 1712387750109,
   "band_list": [
     {
       "raw_hot": 16874674,
@@ -843,6 +843,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1287381,
+      "num": 1287381,
+      "word": "吴宣仪认证自己很姬",
+      "onboard_time": 1712383217,
+      "rank": 3,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1278624,
       "num": 653596,
       "word": "雷军能不能生产一下卫生巾",
@@ -1259,6 +1267,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1022624,
+      "num": 1022624,
+      "word": "林更新与凤行杀青哭成狗",
+      "onboard_time": 1712385498,
+      "rank": 1,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1021726,
       "num": 1021726,
       "word": "胖东来金价刚涨到593元",
@@ -1425,14 +1441,6 @@
       "onboard_time": 1712104052,
       "rank": 13,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 944281,
-      "num": 944281,
-      "word": "吴宣仪认证自己很姬",
-      "onboard_time": 1712383217,
-      "rank": 3,
-      "category": "艺人"
     },
     {
       "raw_hot": 941767,
@@ -2115,6 +2123,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 728684,
+      "num": 728684,
+      "word": "BoA 可以隐退了吧",
+      "onboard_time": 1712384898,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 726960,
       "num": 726960,
       "word": "服用紧急避孕药会影响生育吗",
@@ -2337,6 +2353,14 @@
       "onboard_time": 1711957579,
       "rank": 5,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 680001,
+      "num": 680001,
+      "word": "腾讯给与凤行配的标题",
+      "onboard_time": 1712384657,
+      "rank": 16,
+      "category": "剧集"
     },
     {
       "raw_hot": 678056,
@@ -3329,6 +3353,14 @@
       "onboard_time": 1712300118,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 549030,
+      "num": 264936,
+      "word": "王俊凯鼻子还好吗",
+      "onboard_time": 1712385737,
+      "rank": 12,
+      "category": "综艺"
     },
     {
       "raw_hot": 548853,
@@ -5699,6 +5731,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 335902,
+      "num": 261151,
+      "word": "囤金大户变现",
+      "onboard_time": 1712381898,
+      "rank": 29,
+      "category": "财经"
+    },
+    {
       "raw_hot": 335411,
       "num": 335411,
       "word": "长沙震感",
@@ -6163,14 +6203,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 306459,
-      "num": 306459,
-      "word": "腾讯给与凤行配的标题",
-      "onboard_time": 1712384657,
-      "rank": 16,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 306114,
       "num": 306114,
       "word": "华为拟分红770.95亿",
@@ -6363,8 +6395,8 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 295464,
-      "num": 216235,
+      "raw_hot": 296265,
+      "num": 235345,
       "word": "首饰金价涨至每克710元",
       "onboard_time": 1712382918,
       "rank": 22,
@@ -8155,14 +8187,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 228073,
-      "num": 202157,
-      "word": "BoA 可以隐退了吧",
-      "onboard_time": 1712384898,
-      "rank": 23,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 228038,
       "num": 228038,
       "word": "小米集团盘前大涨15%",
@@ -8257,6 +8281,14 @@
       "onboard_time": 1712327719,
       "rank": 29,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 225943,
+      "num": 225943,
+      "word": "沈璃长文",
+      "onboard_time": 1712387058,
+      "rank": 23,
+      "category": "剧集"
     },
     {
       "raw_hot": 225656,
@@ -9339,6 +9371,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 201171,
+      "num": 201171,
+      "word": "台湾花莲地震已致13人遇难",
+      "onboard_time": 1712386338,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 201023,
       "num": 201023,
       "word": "白鲨晋级总决赛",
@@ -9995,14 +10035,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 191332,
-      "num": 191332,
-      "word": "囤金大户变现",
-      "onboard_time": 1712381898,
-      "rank": 29,
-      "category": "财经"
-    },
-    {
       "raw_hot": 191079,
       "num": 191079,
       "word": "AG菜就多练",
@@ -10139,6 +10171,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 189580,
+      "num": 146363,
+      "word": "周冠宇Q1出局",
+      "onboard_time": 1712387058,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 189509,
       "num": 189509,
       "word": "aki",
@@ -10249,6 +10289,14 @@
       "onboard_time": 1711949302,
       "rank": 43,
       "category": "情感"
+    },
+    {
+      "raw_hot": 187898,
+      "num": 145283,
+      "word": "众星给张彬彬新剧打call",
+      "onboard_time": 1712387357,
+      "rank": 31,
+      "category": "剧集"
     },
     {
       "raw_hot": 187539,
@@ -11283,6 +11331,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 167815,
+      "num": 167815,
+      "word": "与凤行拉新年榜进前十",
+      "onboard_time": 1712385258,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 167430,
       "num": 167430,
       "word": "双子座迷人的反差感",
@@ -11681,6 +11737,14 @@
       "onboard_time": 1712197758,
       "rank": 44,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 159807,
+      "num": 143147,
+      "word": "种地吧妈妈的爱藏在干净的鞋里",
+      "onboard_time": 1712385676,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 159745,
@@ -12307,6 +12371,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 150923,
+      "num": 141969,
+      "word": "承欢记片尾曲MV",
+      "onboard_time": 1712386577,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 150691,
       "num": 150691,
       "word": "手术直播间 ie浏览器组合",
@@ -12545,6 +12617,14 @@
       "onboard_time": 1712282896,
       "rank": 37,
       "category": "情感"
+    },
+    {
+      "raw_hot": 147663,
+      "num": 147663,
+      "word": "福建船艇碰撞事故致2人死亡1人失联",
+      "onboard_time": 1712385797,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 147551,
@@ -12923,6 +13003,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 141204,
+      "num": 141204,
+      "word": "小龙虾为何大降价",
+      "onboard_time": 1712385437,
+      "rank": 34,
+      "category": "美食"
+    },
+    {
       "raw_hot": 141062,
       "num": 141062,
       "word": "没想到兄弟你好香也能具象化",
@@ -12985,6 +13073,14 @@
       "onboard_time": 1712030060,
       "rank": 44,
       "category": "电影"
+    },
+    {
+      "raw_hot": 139016,
+      "num": 139016,
+      "word": "天然散结药就藏在你家餐桌上",
+      "onboard_time": 1712384597,
+      "rank": 36,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 138926,
@@ -13107,14 +13203,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 137588,
-      "num": 137588,
-      "word": "天然散结药就藏在你家餐桌上",
-      "onboard_time": 1712384597,
-      "rank": 36,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 137488,
       "num": 137488,
       "word": "金价今年已涨逾10%",
@@ -13145,6 +13233,14 @@
       "onboard_time": 1712308519,
       "rank": 48,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 137202,
+      "num": 137202,
+      "word": "F1",
+      "onboard_time": 1712386817,
+      "rank": 36,
+      "category": "汽车"
     },
     {
       "raw_hot": 137189,
@@ -14155,6 +14251,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 113552,
+      "num": 113552,
+      "word": "诺米的故事",
+      "onboard_time": 1712386756,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 113529,
       "num": 113529,
       "word": "阿拉斯加走丢后在大街上大哭",
@@ -14363,6 +14467,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 106451,
+      "num": 106451,
+      "word": "考上上海研究生却开心不起来",
+      "onboard_time": 1712387718,
+      "rank": 47,
+      "category": "教育"
+    },
+    {
       "raw_hot": 105454,
       "num": 105454,
       "word": "黄明昊出道六周年",
@@ -14409,6 +14521,14 @@
       "onboard_time": 1712370737,
       "rank": 49,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 101466,
+      "num": 101466,
+      "word": "2024F1日本大奖赛排位赛",
+      "onboard_time": 1712387656,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 101437,
@@ -14641,6 +14761,14 @@
       "onboard_time": 1712010734,
       "rank": 49,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 84985,
+      "num": 270479,
+      "word": "太行花悬崖悄悄绽放太惊艳",
+      "onboard_time": 1712386458,
+      "rank": 9,
+      "category": "旅游"
     },
     {
       "raw_hot": 84099,
