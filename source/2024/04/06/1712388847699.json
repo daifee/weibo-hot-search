@@ -1,0 +1,410 @@
+{
+  "runTime": 1712388847699,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1152855,
+        "num": 1152855,
+        "word": "吴宣仪认证自己很姬",
+        "onboard_time": 1712383217,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 931128,
+        "num": 931128,
+        "word": "林更新与凤行杀青哭成狗",
+        "onboard_time": 1712385498,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 75564,
+        "num": 741328,
+        "word": "藏在古建筑里的春天",
+        "onboard_time": 1712375119,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 677314,
+        "num": 677314,
+        "word": "BoA 可以隐退了吧",
+        "onboard_time": 1712384898,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 627155,
+        "num": 627155,
+        "word": "腾讯给与凤行配的标题",
+        "onboard_time": 1712384657,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 583212,
+        "num": 583212,
+        "word": "王俊凯鼻子还好吗",
+        "onboard_time": 1712385737,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 490967,
+        "num": 490967,
+        "word": "南大回应考研总成绩第一名不被录取",
+        "onboard_time": 1712371458,
+        "rank": 6,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 298857,
+        "num": 298857,
+        "word": "谷爱凌在哈佛演讲用中文致谢",
+        "onboard_time": 1712375958,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 270766,
+        "num": 270766,
+        "word": "淄博烧烤小哥的脸色一看就很火",
+        "onboard_time": 1712374938,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 95569,
+        "num": 268027,
+        "word": "太行花悬崖悄悄绽放太惊艳",
+        "onboard_time": 1712386458,
+        "rank": 9,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 823036,
+        "num": 266053,
+        "word": "13岁女孩失踪多日后遗体被找到",
+        "onboard_time": 1712378838,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 581873,
+        "num": 263974,
+        "word": "林更新流量不大就两百多兆",
+        "onboard_time": 1712381059,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 770209,
+        "num": 259599,
+        "word": "兰州大学",
+        "onboard_time": 1712379439,
+        "rank": 12,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 363198,
+        "num": 257509,
+        "word": "沈璃长文",
+        "onboard_time": 1712387058,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 356630,
+        "num": 255359,
+        "word": "老舅坐鹿晗大腿",
+        "onboard_time": 1712383817,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 282211,
+        "num": 252108,
+        "word": "囤金大户变现",
+        "onboard_time": 1712381898,
+        "rank": 15,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 250587,
+        "num": 250587,
+        "word": "以色列叫停全体作战部队休假",
+        "onboard_time": 1712369839,
+        "rank": 16,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 237472,
+        "num": 237472,
+        "word": "孙俪大提琴一级考出来了",
+        "onboard_time": 1712367137,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 213302,
+        "num": 213302,
+        "word": "某幻 吴秋怡",
+        "onboard_time": 1712360835,
+        "rank": 18,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 249124,
+        "num": 206396,
+        "word": "鹿晗请粉丝喝椰子水",
+        "onboard_time": 1712383277,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 333047,
+        "num": 202481,
+        "word": "拟录取短信被拦截了",
+        "onboard_time": 1712376257,
+        "rank": 20,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 230517,
+        "num": 201682,
+        "word": "首饰金价涨至每克710元",
+        "onboard_time": 1712382918,
+        "rank": 21,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 189729,
+        "num": 189729,
+        "word": "台湾花莲地震已致13人遇难",
+        "onboard_time": 1712386338,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 188874,
+        "num": 188874,
+        "word": "李菲想和刘亦菲演年下",
+        "onboard_time": 1712378658,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 182749,
+        "num": 182749,
+        "word": "范丞丞的背",
+        "onboard_time": 1712384118,
+        "rank": 24,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 182543,
+        "num": 182543,
+        "word": "打耳洞导致耳朵增生了",
+        "onboard_time": 1712379019,
+        "rank": 25,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 170674,
+        "num": 170674,
+        "word": "优酷给长月烬明的排面",
+        "onboard_time": 1712375777,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 169579,
+        "num": 169579,
+        "word": "众星给张彬彬新剧打call",
+        "onboard_time": 1712387357,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 162168,
+        "num": 162168,
+        "word": "与凤行拉新年榜进前十",
+        "onboard_time": 1712385258,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 146647,
+        "num": 146647,
+        "word": "天然散结药就藏在你家餐桌上",
+        "onboard_time": 1712384597,
+        "rank": 29,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 389706,
+        "num": 146618,
+        "word": "考上上海研究生却开心不起来",
+        "onboard_time": 1712387718,
+        "rank": 30,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 149884,
+        "num": 146551,
+        "word": "种地吧妈妈的爱藏在干净的鞋里",
+        "onboard_time": 1712385676,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 145642,
+        "num": 145642,
+        "word": "小龙虾为何大降价",
+        "onboard_time": 1712385437,
+        "rank": 32,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 137156,
+        "num": 137156,
+        "word": "林更新哭戏",
+        "onboard_time": 1712371698,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 130092,
+        "num": 130092,
+        "word": "幽兰救沈璃上大分",
+        "onboard_time": 1712388617,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 129672,
+        "num": 129672,
+        "word": "周冠宇Q1出局",
+        "onboard_time": 1712387058,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 128685,
+        "num": 128685,
+        "word": "锦超也嗑郑合惠子cp",
+        "onboard_time": 1712382018,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 127827,
+        "num": 127827,
+        "word": "得了肾结石这5个饮食习惯千万避开",
+        "onboard_time": 1712383337,
+        "rank": 37,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 119418,
+        "num": 119418,
+        "word": "暗河传男主",
+        "onboard_time": 1712375478,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 116724,
+        "num": 116724,
+        "word": "福建船艇碰撞事故致2人死亡1人失联",
+        "onboard_time": 1712385797,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 115311,
+        "num": 115311,
+        "word": "F1",
+        "onboard_time": 1712386817,
+        "rank": 40,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 109523,
+        "num": 109523,
+        "word": "追星女的密码",
+        "onboard_time": 1712383096,
+        "rank": 41,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 109385,
+        "num": 109385,
+        "word": "与凤行把番外拍出来了",
+        "onboard_time": 1712376678,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 106984,
+        "num": 106984,
+        "word": "追风者 砍一刀",
+        "onboard_time": 1712377397,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 105999,
+        "num": 105999,
+        "word": "福建船艇碰撞事故6人落水",
+        "onboard_time": 1712388137,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 104986,
+        "num": 104986,
+        "word": "爱奇艺大量宣传海报由AI辅助批量产出",
+        "onboard_time": 1712377097,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 104501,
+        "num": 104501,
+        "word": "深圳暴雨",
+        "onboard_time": 1712377878,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 103741,
+        "num": 103741,
+        "word": "痔疮自愈 提肛运动",
+        "onboard_time": 1712376378,
+        "rank": 47,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 102135,
+        "num": 102135,
+        "word": "锦超回应与李菲儿不和",
+        "onboard_time": 1712375417,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 98416,
+        "num": 98416,
+        "word": "为什么有人只睡 4 小时也很精神",
+        "onboard_time": 1712388797,
+        "rank": 49,
+        "category": "健康医疗"
+      }
+    ],
+    "hotgov": {
+      "word": "#家国永念致敬英雄#"
+    }
+  }
+}
