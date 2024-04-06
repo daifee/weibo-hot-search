@@ -1,0 +1,410 @@
+{
+  "runTime": 1712414128480,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1588116,
+        "num": 1588116,
+        "word": "赵奕欢被李菲儿逼哭",
+        "onboard_time": 1712410879,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1225699,
+        "num": 1225699,
+        "word": "将门毒后请肖战迪丽热巴会爆吗",
+        "onboard_time": 1712411299,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 49145,
+        "num": 1219422,
+        "word": "一起打卡春天里的中国",
+        "onboard_time": 1712413100,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1214557,
+        "num": 1214557,
+        "word": "爱奇艺2024首部破万剧",
+        "onboard_time": 1712412500,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1138035,
+        "num": 1138035,
+        "word": "字字不提钱句句都是钱",
+        "onboard_time": 1712409199,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 703675,
+        "num": 703675,
+        "word": "小鬼朱正廷王子异直播",
+        "onboard_time": 1712412921,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 571721,
+        "num": 571721,
+        "word": "千万不要买樱花味食物",
+        "onboard_time": 1712398877,
+        "rank": 6,
+        "category": "美食,幽默"
+      },
+      {
+        "raw_hot": 427942,
+        "num": 488617,
+        "word": "上海饮料分级",
+        "onboard_time": 1712407938,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 475004,
+        "num": 475004,
+        "word": "放假三天躺了三天",
+        "onboard_time": 1712398877,
+        "rank": 8,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 187648,
+        "num": 473755,
+        "word": "54岁老板当主播日进百万",
+        "onboard_time": 1712397017,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1111170,
+        "num": 473104,
+        "word": "男子上厕所隐私部位被割伤缝20多针",
+        "onboard_time": 1712412860,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 626096,
+        "num": 471788,
+        "word": "林更新回应和赵丽颖三搭",
+        "onboard_time": 1712399777,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 556331,
+        "num": 469446,
+        "word": "王一博出来跳舞",
+        "onboard_time": 1712411540,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 519080,
+        "num": 467533,
+        "word": "吴镇宇说张睿就一辈子演古装了",
+        "onboard_time": 1712411960,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 467339,
+        "num": 467339,
+        "word": "长期戴耳塞睡觉的人最后怎么样了",
+        "onboard_time": 1712411480,
+        "rank": 14,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 493406,
+        "num": 461648,
+        "word": "追风者2",
+        "onboard_time": 1712410519,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 467857,
+        "num": 449519,
+        "word": "沈近真下线",
+        "onboard_time": 1712400798,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 363224,
+        "num": 363224,
+        "word": "在健身房练滚轮被陌生人开走",
+        "onboard_time": 1712408271,
+        "rank": 17,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 349124,
+        "num": 349124,
+        "word": "兰大回应虐猫考生进调剂名单",
+        "onboard_time": 1712391978,
+        "rank": 18,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 221482,
+        "num": 347993,
+        "word": "CBA",
+        "onboard_time": 1712411840,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 737681,
+        "num": 343925,
+        "word": "为什么现在退房都不检查了",
+        "onboard_time": 1712408538,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 485961,
+        "num": 337327,
+        "word": "体制内开会为什么不能喝奶茶",
+        "onboard_time": 1712412259,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 449102,
+        "num": 335500,
+        "word": "陈楚生儿子巡演返场嘉宾",
+        "onboard_time": 1712408719,
+        "rank": 22,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 434762,
+        "num": 329919,
+        "word": "追风者破万",
+        "onboard_time": 1712409857,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 421234,
+        "num": 327460,
+        "word": "眼泪女王",
+        "onboard_time": 1712407399,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 411354,
+        "num": 320829,
+        "word": "宋雨琦绿发",
+        "onboard_time": 1712411960,
+        "rank": 25,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 402947,
+        "num": 319157,
+        "word": "林更新曾面试一起来看流星雨",
+        "onboard_time": 1712407579,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 364804,
+        "num": 312543,
+        "word": "日本天皇独生女成为月薪7千的打工人",
+        "onboard_time": 1712403077,
+        "rank": 27,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 187011,
+        "num": 308174,
+        "word": "男孩做阑尾切除术5年后阑尾还在",
+        "onboard_time": 1712403618,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 159196,
+        "num": 304670,
+        "word": "CBA季后赛",
+        "onboard_time": 1712413580,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 303272,
+        "num": 303272,
+        "word": "成都迪士尼",
+        "onboard_time": 1712412500,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 286878,
+        "num": 286878,
+        "word": "林更新接与凤行的原因",
+        "onboard_time": 1712411299,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 286323,
+        "num": 286323,
+        "word": "赵晴李菲儿扇巴掌戏",
+        "onboard_time": 1712412440,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 260593,
+        "num": 260593,
+        "word": "谢帝 诺米",
+        "onboard_time": 1712407337,
+        "rank": 33,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 244392,
+        "num": 244392,
+        "word": "孙亚龙进抢救室",
+        "onboard_time": 1712397017,
+        "rank": 34,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 251568,
+        "num": 244367,
+        "word": "眼泪女王直播",
+        "onboard_time": 1712408058,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 240181,
+        "num": 240181,
+        "word": "阿信回应五月天越来越商业化",
+        "onboard_time": 1712413821,
+        "rank": 36,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 220986,
+        "num": 220986,
+        "word": "爷爷上坟比年轻人走的快",
+        "onboard_time": 1712413700,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 197615,
+        "num": 197615,
+        "word": "INFP 时尚单品",
+        "onboard_time": 1712410398,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 156754,
+        "num": 197444,
+        "word": "论文重复率越改越高真的太痛苦了",
+        "onboard_time": 1712398757,
+        "rank": 39,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 224974,
+        "num": 196933,
+        "word": "林狗你是真的火了",
+        "onboard_time": 1712413880,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 220689,
+        "num": 196842,
+        "word": "谢谢与凤行",
+        "onboard_time": 1712411059,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 206099,
+        "num": 196475,
+        "word": "陈奕迅南京",
+        "onboard_time": 1712413400,
+        "rank": 42,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 203803,
+        "num": 196149,
+        "word": "十个勤天上hi6",
+        "onboard_time": 1712407758,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 195792,
+        "num": 195792,
+        "word": "这4种食物是尿毒症的加速器",
+        "onboard_time": 1712411658,
+        "rank": 44,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 195695,
+        "num": 195695,
+        "word": "手术直播间 生命不是商品",
+        "onboard_time": 1712414001,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 190349,
+        "num": 190349,
+        "word": "2024LPL春季赛季后赛",
+        "onboard_time": 1712413460,
+        "rank": 46,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 181559,
+        "num": 189915,
+        "word": "女生肝脏不好的八大表现",
+        "onboard_time": 1712397496,
+        "rank": 47,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 105322,
+        "num": 188392,
+        "word": "普通人家庭如何报志愿",
+        "onboard_time": 1712413580,
+        "rank": 48,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 70665,
+        "num": 187856,
+        "word": "水晶宫2比4曼城",
+        "onboard_time": 1712411419,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#加快构建以先进制造业为支撑的现代化产业体系#"
+    }
+  }
+}
