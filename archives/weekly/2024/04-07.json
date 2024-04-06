@@ -1,6 +1,6 @@
 {
   "startTime": 1712420539476,
-  "endTime": 1712424859014,
+  "endTime": 1712427647423,
   "band_list": [
     {
       "raw_hot": 1243767,
@@ -427,8 +427,16 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 69115,
+      "num": 69115,
+      "word": "新疆17岁小伙要追赶苏炳添",
+      "onboard_time": 1712424493,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 60857,
-      "num": 98653,
+      "num": 113718,
       "word": "福宝",
       "onboard_time": 1712400497,
       "rank": 49,
@@ -451,6 +459,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 50331,
+      "num": 40562,
+      "word": "YG与HYBE的歌曲拼出JYP的感觉",
+      "onboard_time": 1712427012,
+      "rank": 30,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 46317,
       "num": 98449,
       "word": "论文重复率越改越高真的太痛苦了",
@@ -459,12 +475,12 @@
       "category": "教育"
     },
     {
-      "raw_hot": 36030,
-      "num": 53477,
-      "word": "新疆17岁小伙要追赶苏炳添",
-      "onboard_time": 1712424493,
-      "rank": 39,
-      "category": "体育"
+      "raw_hot": 39314,
+      "num": 31003,
+      "word": "十个勤天上hi6",
+      "onboard_time": 1712407758,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 34958,
@@ -473,6 +489,14 @@
       "onboard_time": 1712413100,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 18221,
+      "num": 30792,
+      "word": "CBA",
+      "onboard_time": 1712411840,
+      "rank": 49,
+      "category": "体育"
     }
   ],
   "hotgov_list": [

@@ -1,6 +1,6 @@
 {
   "startTime": 1711902044401,
-  "endTime": 1712424859014,
+  "endTime": 1712427647423,
   "band_list": [
     {
       "raw_hot": 16874674,
@@ -16403,6 +16403,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 69115,
+      "num": 69115,
+      "word": "新疆17岁小伙要追赶苏炳添",
+      "onboard_time": 1712424493,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 67405,
       "num": 67405,
       "word": "果然猫界中三花最美",
@@ -16715,6 +16723,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 50331,
+      "num": 40562,
+      "word": "YG与HYBE的歌曲拼出JYP的感觉",
+      "onboard_time": 1712427012,
+      "rank": 30,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 50162,
       "num": 150434,
       "word": "辽宁男篮战胜广厦男篮",
@@ -16873,14 +16889,6 @@
       "onboard_time": 1712355370,
       "rank": 49,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 36030,
-      "num": 53477,
-      "word": "新疆17岁小伙要追赶苏炳添",
-      "onboard_time": 1712424493,
-      "rank": 39,
-      "category": "体育"
     },
     {
       "raw_hot": 34601,
