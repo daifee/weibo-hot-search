@@ -1,7 +1,15 @@
 {
   "startTime": 1712334193790,
-  "endTime": 1712392465802,
+  "endTime": 1712395000055,
   "band_list": [
+    {
+      "raw_hot": 2084704,
+      "num": 2084704,
+      "word": "兰大回应虐猫考生进调剂名单",
+      "onboard_time": 1712391978,
+      "rank": 16,
+      "category": "社会新闻,教育"
+    },
     {
       "raw_hot": 1713312,
       "num": 1713312,
@@ -129,6 +137,14 @@
       "onboard_time": 1712329340,
       "rank": 1,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 829297,
+      "num": 829297,
+      "word": "赵丽颖好爱她的每一个角色",
+      "onboard_time": 1712392818,
+      "rank": 3,
+      "category": "剧集"
     },
     {
       "raw_hot": 825246,
@@ -315,6 +331,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 579187,
+      "num": 579187,
+      "word": "甄嬛传之胖橘大闹甘露寺",
+      "onboard_time": 1712390957,
+      "rank": 17,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 572713,
       "num": 572713,
       "word": "你好星期六全员种花",
@@ -361,14 +385,6 @@
       "onboard_time": 1712362697,
       "rank": 4,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 518321,
-      "num": 518321,
-      "word": "甄嬛传之胖橘大闹甘露寺",
-      "onboard_time": 1712390957,
-      "rank": 17,
-      "category": "幽默"
     },
     {
       "raw_hot": 503100,
@@ -499,6 +515,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 410995,
+      "num": 256064,
+      "word": "穿马面裙被男友说丢人",
+      "onboard_time": 1712391978,
+      "rank": 22,
+      "category": "情感"
+    },
+    {
       "raw_hot": 409159,
       "num": 409159,
       "word": "深圳暴雨",
@@ -611,6 +635,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 348014,
+      "num": 348014,
+      "word": "沈璃爸妈怎么抱着林更新",
+      "onboard_time": 1712391498,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 342693,
+      "num": 342693,
+      "word": "Doinb重返直播间",
+      "onboard_time": 1712393718,
+      "rank": 13,
+      "category": "电竞,网红"
+    },
+    {
       "raw_hot": 340511,
       "num": 340511,
       "word": "与凤行把番外拍出来了",
@@ -651,28 +691,20 @@
       "category": "财经"
     },
     {
+      "raw_hot": 334947,
+      "num": 220994,
+      "word": "微信式恋爱",
+      "onboard_time": 1712394258,
+      "rank": 21,
+      "category": "情感"
+    },
+    {
       "raw_hot": 318981,
       "num": 318981,
       "word": "一个月给8000做全职妈妈",
       "onboard_time": 1712317940,
       "rank": 14,
       "category": "情感"
-    },
-    {
-      "raw_hot": 309886,
-      "num": 256064,
-      "word": "穿马面裙被男友说丢人",
-      "onboard_time": 1712391978,
-      "rank": 22,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 304470,
-      "num": 304470,
-      "word": "兰大回应虐猫考生进调剂名单",
-      "onboard_time": 1712391978,
-      "rank": 16,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 299496,
@@ -771,14 +803,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 266214,
-      "num": 266214,
-      "word": "沈璃爸妈怎么抱着林更新",
-      "onboard_time": 1712391498,
-      "rank": 28,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 265153,
       "num": 265153,
       "word": "云南昭通鲁甸县4.9级地震",
@@ -825,6 +849,14 @@
       "onboard_time": 1712389458,
       "rank": 18,
       "category": "电影"
+    },
+    {
+      "raw_hot": 254279,
+      "num": 254279,
+      "word": "服了你们滚人",
+      "onboard_time": 1712391438,
+      "rank": 40,
+      "category": "演出,幽默"
     },
     {
       "raw_hot": 253684,
@@ -1051,12 +1083,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 188276,
-      "num": 188276,
-      "word": "服了你们滚人",
-      "onboard_time": 1712391438,
-      "rank": 40,
-      "category": "演出,幽默"
+      "raw_hot": 188196,
+      "num": 188196,
+      "word": "双相情感障碍和正常人区别",
+      "onboard_time": 1712394198,
+      "rank": 27,
+      "category": "情感"
     },
     {
       "raw_hot": 187898,
@@ -1097,6 +1129,14 @@
       "onboard_time": 1712384118,
       "rank": 31,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 177391,
+      "num": 177391,
+      "word": "甘草片和红药水为什么买不到了",
+      "onboard_time": 1712392878,
+      "rank": 30,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 176342,
@@ -1147,6 +1187,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 170888,
+      "num": 170888,
+      "word": "高叶高中时期的照片",
+      "onboard_time": 1712392097,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 167815,
       "num": 167815,
       "word": "与凤行拉新年榜进前十",
@@ -1185,6 +1233,14 @@
       "onboard_time": 1712326939,
       "rank": 31,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 160707,
+      "num": 160707,
+      "word": "DNA比对成功烈士找到亲人",
+      "onboard_time": 1712393778,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 159807,
@@ -1299,6 +1355,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 146025,
+      "num": 146025,
+      "word": "林俊杰火星哥合照",
+      "onboard_time": 1712393898,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 145642,
       "num": 145642,
       "word": "小龙虾为何大降价",
@@ -1307,12 +1371,28 @@
       "category": "美食"
     },
     {
+      "raw_hot": 143617,
+      "num": 143617,
+      "word": "上班20分钟定律",
+      "onboard_time": 1712391978,
+      "rank": 39,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 143616,
       "num": 143616,
       "word": "minji摘眼镜",
       "onboard_time": 1712364797,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 141763,
+      "num": 141763,
+      "word": "胡歌晒繁花剧组合照",
+      "onboard_time": 1712394498,
+      "rank": 38,
+      "category": "剧集"
     },
     {
       "raw_hot": 141546,
@@ -1329,6 +1409,14 @@
       "onboard_time": 1712371038,
       "rank": 43,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 140182,
+      "num": 140182,
+      "word": "婚后的收入应该放在一起吗",
+      "onboard_time": 1712394678,
+      "rank": 39,
+      "category": "情感"
     },
     {
       "raw_hot": 139359,
@@ -1369,14 +1457,6 @@
       "onboard_time": 1712377638,
       "rank": 45,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 135477,
-      "num": 135477,
-      "word": "高叶高中时期的照片",
-      "onboard_time": 1712392097,
-      "rank": 36,
-      "category": "艺人"
     },
     {
       "raw_hot": 134866,
@@ -1427,6 +1507,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 127836,
+      "num": 127836,
+      "word": "新来的朋友像素有点低呀",
+      "onboard_time": 1712391677,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 126651,
       "num": 126651,
       "word": "花间令",
@@ -1473,14 +1561,6 @@
       "onboard_time": 1712391438,
       "rank": 49,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 124924,
-      "num": 124924,
-      "word": "上班20分钟定律",
-      "onboard_time": 1712391978,
-      "rank": 39,
-      "category": "幽默"
     },
     {
       "raw_hot": 124834,
@@ -1707,6 +1787,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 105080,
+      "num": 105080,
+      "word": "身价过亿的有钱人生活",
+      "onboard_time": 1712394857,
+      "rank": 44,
+      "category": "情感"
+    },
+    {
       "raw_hot": 102916,
       "num": 102916,
       "word": "缅甸5.6级地震",
@@ -1771,6 +1859,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 99293,
+      "num": 99293,
+      "word": "肩膀最爱的锻炼动作",
+      "onboard_time": 1712394978,
+      "rank": 46,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 99066,
       "num": 99066,
       "word": "照片和镜子里的自己哪个更真实",
@@ -1788,7 +1884,7 @@
     },
     {
       "raw_hot": 98656,
-      "num": 359532,
+      "num": 403237,
       "word": "太行花悬崖悄悄绽放太惊艳",
       "onboard_time": 1712386458,
       "rank": 9,
@@ -1801,14 +1897,6 @@
       "onboard_time": 1712388797,
       "rank": 49,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 96470,
-      "num": 96470,
-      "word": "新来的朋友像素有点低呀",
-      "onboard_time": 1712391677,
-      "rank": 47,
-      "category": "幽默"
     },
     {
       "raw_hot": 95819,
@@ -1953,6 +2041,14 @@
       "onboard_time": 1712351591,
       "rank": 44,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 39899,
+      "num": 852464,
+      "word": "假期返程安全行车攻略",
+      "onboard_time": 1712394318,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 38780,

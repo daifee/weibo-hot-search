@@ -1,0 +1,410 @@
+{
+  "runTime": 1712395000055,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2084704,
+        "num": 2084704,
+        "word": "兰大回应虐猫考生进调剂名单",
+        "onboard_time": 1712391978,
+        "rank": 0,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 1091622,
+        "num": 1091622,
+        "word": "范丞丞工作室回应争议",
+        "onboard_time": 1712389938,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 39899,
+        "num": 852464,
+        "word": "假期返程安全行车攻略",
+        "onboard_time": 1712394318,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 829297,
+        "num": 829297,
+        "word": "赵丽颖好爱她的每一个角色",
+        "onboard_time": 1712392818,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 676914,
+        "num": 676914,
+        "word": "林更新与凤行杀青哭成狗",
+        "onboard_time": 1712385498,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 579187,
+        "num": 579187,
+        "word": "甄嬛传之胖橘大闹甘露寺",
+        "onboard_time": 1712390957,
+        "rank": 5,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 480898,
+        "num": 480898,
+        "word": "吴宣仪认证自己很姬",
+        "onboard_time": 1712383217,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 287577,
+        "num": 424849,
+        "word": "南大回应考研总成绩第一名不被录取",
+        "onboard_time": 1712371458,
+        "rank": 7,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 214961,
+        "num": 411568,
+        "word": "谷爱凌在哈佛演讲用中文致谢",
+        "onboard_time": 1712375958,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 83012,
+        "num": 403237,
+        "word": "太行花悬崖悄悄绽放太惊艳",
+        "onboard_time": 1712386458,
+        "rank": 9,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 402228,
+        "num": 402228,
+        "word": "13岁女孩失踪多日后遗体被找到",
+        "onboard_time": 1712378838,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 376756,
+        "num": 376756,
+        "word": "兰州大学",
+        "onboard_time": 1712379439,
+        "rank": 11,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 348014,
+        "num": 348014,
+        "word": "沈璃爸妈怎么抱着林更新",
+        "onboard_time": 1712391498,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 342693,
+        "num": 342693,
+        "word": "Doinb重返直播间",
+        "onboard_time": 1712393718,
+        "rank": 13,
+        "category": "电竞,网红"
+      },
+      {
+        "raw_hot": 309741,
+        "num": 309741,
+        "word": "13岁女孩失踪监控显示曾在奔跑",
+        "onboard_time": 1712388918,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 303825,
+        "num": 303825,
+        "word": "BoA 可以隐退了吧",
+        "onboard_time": 1712384898,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 254279,
+        "num": 254279,
+        "word": "服了你们滚人",
+        "onboard_time": 1712391438,
+        "rank": 16,
+        "category": "演出,幽默"
+      },
+      {
+        "raw_hot": 283988,
+        "num": 250012,
+        "word": "林更新流量不大就两百多兆",
+        "onboard_time": 1712381059,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 230540,
+        "num": 230540,
+        "word": "腾讯给与凤行配的标题",
+        "onboard_time": 1712384657,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 177696,
+        "num": 230291,
+        "word": "淄博烧烤小哥的脸色一看就很火",
+        "onboard_time": 1712374938,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 410995,
+        "num": 222431,
+        "word": "穿马面裙被男友说丢人",
+        "onboard_time": 1712391978,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 334947,
+        "num": 220994,
+        "word": "微信式恋爱",
+        "onboard_time": 1712394258,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 306396,
+        "num": 217190,
+        "word": "为什么有人只睡4小时也很精神",
+        "onboard_time": 1712388797,
+        "rank": 22,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 264208,
+        "num": 210731,
+        "word": "考上上海研究生却开心不起来",
+        "onboard_time": 1712387718,
+        "rank": 23,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 209874,
+        "num": 209874,
+        "word": "王俊凯鼻子还好吗",
+        "onboard_time": 1712385737,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 195870,
+        "num": 195870,
+        "word": "月子期间老公对婆婆的约法三章",
+        "onboard_time": 1712389037,
+        "rank": 25,
+        "category": "母婴育儿"
+      },
+      {
+        "raw_hot": 194613,
+        "num": 194613,
+        "word": "看演唱会千万别用雨衣当坐垫",
+        "onboard_time": 1712391438,
+        "rank": 26,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 188196,
+        "num": 188196,
+        "word": "双相情感障碍和正常人区别",
+        "onboard_time": 1712394198,
+        "rank": 27,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 187669,
+        "num": 187669,
+        "word": "无法想象宫崎骏有多自律",
+        "onboard_time": 1712389458,
+        "rank": 28,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 166459,
+        "num": 180389,
+        "word": "拟录取短信被拦截了",
+        "onboard_time": 1712376257,
+        "rank": 29,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 177391,
+        "num": 177391,
+        "word": "甘草片和红药水为什么买不到了",
+        "onboard_time": 1712392878,
+        "rank": 30,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 173502,
+        "num": 173502,
+        "word": "打耳洞导致耳朵增生了",
+        "onboard_time": 1712379019,
+        "rank": 31,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 170888,
+        "num": 170888,
+        "word": "高叶高中时期的照片",
+        "onboard_time": 1712392097,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 165945,
+        "num": 165945,
+        "word": "沈璃长文",
+        "onboard_time": 1712387058,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 160707,
+        "num": 160707,
+        "word": "DNA比对成功烈士找到亲人",
+        "onboard_time": 1712393778,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 158630,
+        "num": 158630,
+        "word": "脖子黑洗不掉提醒你该减肥了",
+        "onboard_time": 1712389037,
+        "rank": 35,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 146025,
+        "num": 146025,
+        "word": "林俊杰火星哥合照",
+        "onboard_time": 1712393898,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 143617,
+        "num": 143617,
+        "word": "上班20分钟定律",
+        "onboard_time": 1712391978,
+        "rank": 37,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 141763,
+        "num": 141763,
+        "word": "胡歌晒繁花剧组合照",
+        "onboard_time": 1712394498,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 140182,
+        "num": 140182,
+        "word": "婚后的收入应该放在一起吗",
+        "onboard_time": 1712394678,
+        "rank": 39,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 137437,
+        "num": 137437,
+        "word": "为什么西湖的水像绸缎一样",
+        "onboard_time": 1712392157,
+        "rank": 40,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 127836,
+        "num": 127836,
+        "word": "新来的朋友像素有点低呀",
+        "onboard_time": 1712391677,
+        "rank": 41,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 114510,
+        "num": 114510,
+        "word": "首饰金价涨至每克710元",
+        "onboard_time": 1712382918,
+        "rank": 42,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 107009,
+        "num": 107009,
+        "word": "老舅坐鹿晗大腿",
+        "onboard_time": 1712383817,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 105080,
+        "num": 105080,
+        "word": "身价过亿的有钱人生活",
+        "onboard_time": 1712394857,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 103924,
+        "num": 103924,
+        "word": "某幻 吴秋怡",
+        "onboard_time": 1712360835,
+        "rank": 45,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 99293,
+        "num": 99293,
+        "word": "肩膀最爱的锻炼动作",
+        "onboard_time": 1712394978,
+        "rank": 46,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 97037,
+        "num": 97037,
+        "word": "与凤行拉新年榜进前十",
+        "onboard_time": 1712385258,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 96752,
+        "num": 96752,
+        "word": "李菲想和刘亦菲演年下",
+        "onboard_time": 1712378658,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 83144,
+        "num": 95861,
+        "word": "以色列叫停全体作战部队休假",
+        "onboard_time": 1712369839,
+        "rank": 49,
+        "category": "国外时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#不断增厚我们的绿色家底#"
+    }
+  }
+}
