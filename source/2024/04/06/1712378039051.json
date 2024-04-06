@@ -1,0 +1,410 @@
+{
+  "runTime": 1712378039051,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1379800,
+        "num": 1379800,
+        "word": "南大回应考研总成绩第一名不被录取",
+        "onboard_time": 1712371458,
+        "rank": 0,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 1350040,
+        "num": 1350040,
+        "word": "金价",
+        "onboard_time": 1712374338,
+        "rank": 1,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 116147,
+        "num": 994112,
+        "word": "藏在古建筑里的春天",
+        "onboard_time": 1712375119,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 802586,
+        "num": 802586,
+        "word": "淄博烧烤小哥的脸色一看就很火",
+        "onboard_time": 1712374938,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 658132,
+        "num": 658132,
+        "word": "优酷给长月烬明的排面",
+        "onboard_time": 1712375777,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 653897,
+        "num": 653897,
+        "word": "孙俪大提琴一级考出来了",
+        "onboard_time": 1712367137,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 650662,
+        "num": 650662,
+        "word": "李白没骗人",
+        "onboard_time": 1712373318,
+        "rank": 6,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 461148,
+        "num": 461148,
+        "word": "范丞丞脸上的二进制代码",
+        "onboard_time": 1712372240,
+        "rank": 7,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 450229,
+        "num": 450229,
+        "word": "以色列叫停全体作战部队休假",
+        "onboard_time": 1712369839,
+        "rank": 8,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 94545,
+        "num": 427720,
+        "word": "女孩推轮椅妈妈坐地铁一路获帮助",
+        "onboard_time": 1712369598,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 854264,
+        "num": 425693,
+        "word": "某幻 吴秋怡",
+        "onboard_time": 1712360835,
+        "rank": 10,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 599397,
+        "num": 423883,
+        "word": "谷爱凌在哈佛演讲用中文致谢",
+        "onboard_time": 1712375958,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 419378,
+        "num": 419378,
+        "word": "锦超回应与李菲儿不和",
+        "onboard_time": 1712375417,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 416979,
+        "num": 416979,
+        "word": "痔疮自愈 提肛运动",
+        "onboard_time": 1712376378,
+        "rank": 13,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 392792,
+        "num": 392792,
+        "word": "暗河传男主",
+        "onboard_time": 1712375478,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 379768,
+        "num": 379768,
+        "word": "林更新哭戏",
+        "onboard_time": 1712371698,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 363132,
+        "num": 363132,
+        "word": "这居然是谢可寅",
+        "onboard_time": 1712360595,
+        "rank": 16,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 336487,
+        "num": 336487,
+        "word": "广州暴雨",
+        "onboard_time": 1712369656,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 307332,
+        "num": 307332,
+        "word": "前夫殴打10岁女儿女子忍痛拍下取证",
+        "onboard_time": 1712329340,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 299496,
+        "num": 299496,
+        "word": "向佐版多尔衮",
+        "onboard_time": 1712377218,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 695170,
+        "num": 297157,
+        "word": "拟录取短信被拦截了",
+        "onboard_time": 1712376257,
+        "rank": 20,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 383824,
+        "num": 295872,
+        "word": "蔡徐坤C位出道六周年",
+        "onboard_time": 1712375119,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 291688,
+        "num": 291688,
+        "word": "与凤行把番外拍出来了",
+        "onboard_time": 1712376678,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 286029,
+        "num": 286029,
+        "word": "爱奇艺大量宣传海报由AI辅助批量产出",
+        "onboard_time": 1712377097,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 257834,
+        "num": 257834,
+        "word": "Zoom爆料Doinb开播日期",
+        "onboard_time": 1712376378,
+        "rank": 24,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 244167,
+        "num": 244167,
+        "word": "上次这么穿的还是沈眉庄",
+        "onboard_time": 1712371578,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 235346,
+        "num": 235346,
+        "word": "马斯克称将对X上的成人内容大清洗",
+        "onboard_time": 1712369958,
+        "rank": 26,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 225597,
+        "num": 225597,
+        "word": "你好星期六全员种花",
+        "onboard_time": 1712370617,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 220665,
+        "num": 220665,
+        "word": "云南昭通鲁甸县4.9级地震",
+        "onboard_time": 1712376077,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 217435,
+        "num": 217435,
+        "word": "你的月经真的不规律吗",
+        "onboard_time": 1712373258,
+        "rank": 29,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 208689,
+        "num": 208689,
+        "word": "追风者 砍一刀",
+        "onboard_time": 1712377397,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 198766,
+        "num": 198766,
+        "word": "放手是一门永远没法满分的必修课",
+        "onboard_time": 1712377097,
+        "rank": 31,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 185225,
+        "num": 185225,
+        "word": "与凤行",
+        "onboard_time": 1712377751,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 183493,
+        "num": 183493,
+        "word": "安宰贤离婚梗",
+        "onboard_time": 1712370016,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 177957,
+        "num": 177957,
+        "word": "杨紫亲何赛飞脸颊",
+        "onboard_time": 1712375357,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 177742,
+        "num": 177742,
+        "word": "李沁千金回国妆",
+        "onboard_time": 1712367857,
+        "rank": 35,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 172634,
+        "num": 172634,
+        "word": "五月天歌迷会疑似是黄牛",
+        "onboard_time": 1712361497,
+        "rank": 36,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 170569,
+        "num": 170569,
+        "word": "医生建议不要饿着肚子睡觉",
+        "onboard_time": 1712329519,
+        "rank": 37,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 164896,
+        "num": 164896,
+        "word": "我的导师曾经是不太聪明的研究生",
+        "onboard_time": 1712375958,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 160966,
+        "num": 160966,
+        "word": "深圳暴雨",
+        "onboard_time": 1712377878,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 153288,
+        "num": 153288,
+        "word": "勇不出界",
+        "onboard_time": 1712375057,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 152489,
+        "num": 152489,
+        "word": "徐海乔好帅",
+        "onboard_time": 1712374639,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 150053,
+        "num": 150053,
+        "word": "傅融 俺是河南嘞",
+        "onboard_time": 1712373799,
+        "rank": 42,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 148497,
+        "num": 148497,
+        "word": "金智媛8集换了82套造型",
+        "onboard_time": 1712362697,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 145987,
+        "num": 145987,
+        "word": "与凤行戒断反应",
+        "onboard_time": 1712377938,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 136284,
+        "num": 136284,
+        "word": "猫 麻麻说出门在外要大大方方的",
+        "onboard_time": 1712377638,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 135652,
+        "num": 135652,
+        "word": "地震后美国帝国大厦发文",
+        "onboard_time": 1712371937,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 135210,
+        "num": 135210,
+        "word": "华盛顿绝杀勇士",
+        "onboard_time": 1712374998,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 131795,
+        "num": 133977,
+        "word": "伊朗",
+        "onboard_time": 1712377699,
+        "rank": 48,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 133106,
+        "num": 133106,
+        "word": "NINEPERCENT六周年",
+        "onboard_time": 1712361556,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#不断增厚我们的绿色家底#"
+    }
+  }
+}
