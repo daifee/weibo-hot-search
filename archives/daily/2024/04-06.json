@@ -1,6 +1,6 @@
 {
   "startTime": 1712334193790,
-  "endTime": 1712367019511,
+  "endTime": 1712368985527,
   "band_list": [
     {
       "raw_hot": 1713312,
@@ -11,12 +11,20 @@
       "category": "情感"
     },
     {
-      "raw_hot": 1183866,
+      "raw_hot": 1266188,
       "num": 406300,
       "word": "某幻 吴秋怡",
       "onboard_time": 1712360835,
       "rank": 10,
       "category": "游戏,网红"
+    },
+    {
+      "raw_hot": 1072326,
+      "num": 1072326,
+      "word": "孙俪大提琴一级考出来了",
+      "onboard_time": 1712367137,
+      "rank": 0,
+      "category": "艺人"
     },
     {
       "raw_hot": 937892,
@@ -43,20 +51,20 @@
       "category": "情感"
     },
     {
+      "raw_hot": 805284,
+      "num": 805284,
+      "word": "以色列临时关闭28个驻外使馆",
+      "onboard_time": 1712363897,
+      "rank": 3,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 753243,
       "num": 753243,
       "word": "纽约震感",
       "onboard_time": 1712328140,
       "rank": 3,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 694939,
-      "num": 694939,
-      "word": "以色列临时关闭28个驻外使馆",
-      "onboard_time": 1712363897,
-      "rank": 3,
-      "category": "国外时政"
     },
     {
       "raw_hot": 620922,
@@ -121,6 +129,14 @@
       "onboard_time": 1712362697,
       "rank": 4,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 503100,
+      "num": 503100,
+      "word": "以色列",
+      "onboard_time": 1712367198,
+      "rank": 4,
+      "category": "国外时政"
     },
     {
       "raw_hot": 491015,
@@ -227,6 +243,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 353469,
+      "num": 283603,
+      "word": "爱奇艺涨超4%",
+      "onboard_time": 1712367797,
+      "rank": 12,
+      "category": "互联网,财经"
+    },
+    {
       "raw_hot": 348947,
       "num": 348947,
       "word": "徐海乔演技",
@@ -273,6 +297,14 @@
       "onboard_time": 1712329699,
       "rank": 18,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 287933,
+      "num": 218554,
+      "word": "一块热毛巾差点导致截肢",
+      "onboard_time": 1712367078,
+      "rank": 21,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 283579,
@@ -323,6 +355,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 244429,
+      "num": 244429,
+      "word": "日本本州东岸发生5.3级地震",
+      "onboard_time": 1712365337,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 223313,
       "num": 223313,
       "word": "高铁上再也不随便跟人换座了",
@@ -347,12 +387,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 219454,
-      "num": 219454,
-      "word": "日本本州东岸发生5.3级地震",
-      "onboard_time": 1712365337,
-      "rank": 38,
-      "category": "社会新闻"
+      "raw_hot": 215581,
+      "num": 215581,
+      "word": "告五人现场的一对情侣",
+      "onboard_time": 1712365817,
+      "rank": 48,
+      "category": "电影"
     },
     {
       "raw_hot": 212369,
@@ -371,14 +411,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 194280,
-      "num": 164944,
-      "word": "告五人现场的一对情侣",
-      "onboard_time": 1712365817,
-      "rank": 48,
-      "category": "电影"
-    },
-    {
       "raw_hot": 192720,
       "num": 192720,
       "word": "明知结局妈妈依然推开了那扇门",
@@ -393,6 +425,14 @@
       "onboard_time": 1712361856,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 185086,
+      "num": 185086,
+      "word": "李沁千金回国妆",
+      "onboard_time": 1712367857,
+      "rank": 25,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 171945,
@@ -459,6 +499,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 143920,
+      "num": 143920,
+      "word": "是谁在怀念2018年的声入人心",
+      "onboard_time": 1712365037,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 143616,
       "num": 143616,
       "word": "minji摘眼镜",
@@ -473,6 +521,14 @@
       "onboard_time": 1712314099,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 137612,
+      "num": 137612,
+      "word": "叶舒华钓系辣妹",
+      "onboard_time": 1712367558,
+      "rank": 37,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 137189,
@@ -508,7 +564,7 @@
     },
     {
       "raw_hot": 128239,
-      "num": 165325,
+      "num": 171223,
       "word": "我国90%以上森林火灾因人为",
       "onboard_time": 1712360475,
       "rank": 29,
@@ -521,14 +577,6 @@
       "onboard_time": 1712337674,
       "rank": 23,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 125553,
-      "num": 125553,
-      "word": "是谁在怀念2018年的声入人心",
-      "onboard_time": 1712365037,
-      "rank": 45,
-      "category": "综艺"
     },
     {
       "raw_hot": 125485,
@@ -563,6 +611,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 117454,
+      "num": 117454,
+      "word": "雷军 小米生日快乐",
+      "onboard_time": 1712362036,
+      "rank": 43,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 116868,
       "num": 116868,
       "word": "婚后不建议和父母住一起",
@@ -577,6 +633,14 @@
       "onboard_time": 1712357833,
       "rank": 25,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 115844,
+      "num": 333065,
+      "word": "宝宝在爸爸怀里哭唱世上只有妈妈好",
+      "onboard_time": 1712368518,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 115832,
@@ -619,20 +683,20 @@
       "category": "演出"
     },
     {
-      "raw_hot": 111757,
-      "num": 111757,
-      "word": "雷军 小米生日快乐",
-      "onboard_time": 1712362036,
-      "rank": 43,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 111714,
       "num": 111714,
       "word": "阴雨大人",
       "onboard_time": 1712366837,
       "rank": 42,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 109748,
+      "num": 109748,
+      "word": "艾瑞欧 rapper听众都有罪",
+      "onboard_time": 1712368217,
+      "rank": 43,
+      "category": "艺人"
     },
     {
       "raw_hot": 109164,
@@ -649,6 +713,14 @@
       "onboard_time": 1712310077,
       "rank": 44,
       "category": "情感"
+    },
+    {
+      "raw_hot": 107579,
+      "num": 107579,
+      "word": "抽象说唱",
+      "onboard_time": 1712368337,
+      "rank": 44,
+      "category": "音乐"
     },
     {
       "raw_hot": 102916,
@@ -732,7 +804,7 @@
     },
     {
       "raw_hot": 68467,
-      "num": 793558,
+      "num": 807988,
       "word": "孩子们将碧空版如愿唱给空军英烈",
       "onboard_time": 1712325319,
       "rank": 2,

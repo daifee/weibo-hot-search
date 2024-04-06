@@ -1,6 +1,6 @@
 {
   "startTime": 1711815680412,
-  "endTime": 1712367019511,
+  "endTime": 1712368985527,
   "band_list": [
     {
       "raw_hot": 16874674,
@@ -947,6 +947,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1266188,
+      "num": 406300,
+      "word": "某幻 吴秋怡",
+      "onboard_time": 1712360835,
+      "rank": 10,
+      "category": "游戏,网红"
+    },
+    {
       "raw_hot": 1266004,
       "num": 1266004,
       "word": "福宝小屋布满竹子笋笋苹果胡萝卜",
@@ -1081,14 +1089,6 @@
       "onboard_time": 1711889658,
       "rank": 3,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1183866,
-      "num": 406300,
-      "word": "某幻 吴秋怡",
-      "onboard_time": 1712360835,
-      "rank": 10,
-      "category": "游戏,网红"
     },
     {
       "raw_hot": 1181394,
@@ -1280,6 +1280,14 @@
       "word": "黄晓明自曝胖了30斤",
       "onboard_time": 1712227098,
       "rank": 3,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1072326,
+      "num": 1072326,
+      "word": "孙俪大提琴一级考出来了",
+      "onboard_time": 1712367137,
+      "rank": 0,
       "category": "艺人"
     },
     {
@@ -1963,6 +1971,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 805284,
+      "num": 805284,
+      "word": "以色列临时关闭28个驻外使馆",
+      "onboard_time": 1712363897,
+      "rank": 3,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 805023,
       "num": 805023,
       "word": "24岁我还不能和男朋友出去旅游",
@@ -2457,14 +2473,6 @@
       "onboard_time": 1712226138,
       "rank": 22,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 694939,
-      "num": 694939,
-      "word": "以色列临时关闭28个驻外使馆",
-      "onboard_time": 1712363897,
-      "rank": 3,
-      "category": "国外时政"
     },
     {
       "raw_hot": 694159,
@@ -4115,6 +4123,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 503100,
+      "num": 503100,
+      "word": "以色列",
+      "onboard_time": 1712023878,
+      "rank": 25,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 502946,
       "num": 502946,
       "word": "梁靖崑vs雨果",
@@ -5251,14 +5267,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 412096,
-      "num": 412096,
-      "word": "以色列",
-      "onboard_time": 1712023878,
-      "rank": 25,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 411537,
       "num": 411537,
       "word": "肖战直播",
@@ -6073,6 +6081,14 @@
       "onboard_time": 1712111121,
       "rank": 30,
       "category": "情感"
+    },
+    {
+      "raw_hot": 353469,
+      "num": 283603,
+      "word": "爱奇艺涨超4%",
+      "onboard_time": 1712367797,
+      "rank": 12,
+      "category": "互联网,财经"
     },
     {
       "raw_hot": 352778,
@@ -7307,6 +7323,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 287933,
+      "num": 218554,
+      "word": "一块热毛巾差点导致截肢",
+      "onboard_time": 1712367078,
+      "rank": 21,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 287605,
       "num": 287605,
       "word": "恋与深空",
@@ -8499,6 +8523,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 244429,
+      "num": 244429,
+      "word": "日本本州东岸发生5.3级地震",
+      "onboard_time": 1712365337,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 244080,
       "num": 244080,
       "word": "为何南昌强对流天气破坏力极大",
@@ -9507,14 +9539,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 219454,
-      "num": 219454,
-      "word": "日本本州东岸发生5.3级地震",
-      "onboard_time": 1712365337,
-      "rank": 38,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 219173,
       "num": 219173,
       "word": "浙江震感",
@@ -9681,6 +9705,14 @@
       "onboard_time": 1712328621,
       "rank": 32,
       "category": "情感"
+    },
+    {
+      "raw_hot": 215581,
+      "num": 215581,
+      "word": "告五人现场的一对情侣",
+      "onboard_time": 1712365817,
+      "rank": 48,
+      "category": "电影"
     },
     {
       "raw_hot": 215285,
@@ -11027,14 +11059,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 194280,
-      "num": 164944,
-      "word": "告五人现场的一对情侣",
-      "onboard_time": 1712365817,
-      "rank": 48,
-      "category": "电影"
-    },
-    {
       "raw_hot": 194276,
       "num": 194276,
       "word": "张杰黑色渔夫帽",
@@ -11705,6 +11729,14 @@
       "onboard_time": 1711989017,
       "rank": 17,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 185086,
+      "num": 185086,
+      "word": "李沁千金回国妆",
+      "onboard_time": 1712367857,
+      "rank": 25,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 184994,
@@ -14387,6 +14419,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 143920,
+      "num": 143920,
+      "word": "是谁在怀念2018年的声入人心",
+      "onboard_time": 1712365037,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 143915,
       "num": 396225,
       "word": "为什么这双鞋出圈了",
@@ -14833,6 +14873,14 @@
       "onboard_time": 1712068040,
       "rank": 44,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 137612,
+      "num": 137612,
+      "word": "叶舒华钓系辣妹",
+      "onboard_time": 1712367558,
+      "rank": 37,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 137599,
@@ -15356,7 +15404,7 @@
     },
     {
       "raw_hot": 128239,
-      "num": 165325,
+      "num": 171223,
       "word": "我国90%以上森林火灾因人为",
       "onboard_time": 1712360475,
       "rank": 29,
@@ -15481,14 +15529,6 @@
       "onboard_time": 1712337674,
       "rank": 23,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 125553,
-      "num": 125553,
-      "word": "是谁在怀念2018年的声入人心",
-      "onboard_time": 1712365037,
-      "rank": 45,
-      "category": "综艺"
     },
     {
       "raw_hot": 125455,
@@ -15843,6 +15883,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 117454,
+      "num": 117454,
+      "word": "雷军 小米生日快乐",
+      "onboard_time": 1712362036,
+      "rank": 43,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 117403,
       "num": 117403,
       "word": "人大食堂自研天水麻辣烫",
@@ -15905,6 +15953,14 @@
       "onboard_time": 1712219118,
       "rank": 44,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 115844,
+      "num": 333065,
+      "word": "宝宝在爸爸怀里哭唱世上只有妈妈好",
+      "onboard_time": 1712368518,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 115737,
@@ -16107,14 +16163,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 111757,
-      "num": 111757,
-      "word": "雷军 小米生日快乐",
-      "onboard_time": 1712362036,
-      "rank": 43,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 111714,
       "num": 111714,
       "word": "阴雨大人",
@@ -16153,6 +16201,14 @@
       "onboard_time": 1711843576,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 109748,
+      "num": 109748,
+      "word": "艾瑞欧 rapper听众都有罪",
+      "onboard_time": 1712368217,
+      "rank": 43,
+      "category": "艺人"
     },
     {
       "raw_hot": 109364,
@@ -16201,6 +16257,14 @@
       "onboard_time": 1712306897,
       "rank": 9,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 107579,
+      "num": 107579,
+      "word": "抽象说唱",
+      "onboard_time": 1712368337,
+      "rank": 44,
+      "category": "音乐"
     },
     {
       "raw_hot": 107439,

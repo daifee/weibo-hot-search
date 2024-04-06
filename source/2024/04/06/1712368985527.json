@@ -1,0 +1,410 @@
+{
+  "runTime": 1712368985527,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1072326,
+        "num": 1072326,
+        "word": "孙俪大提琴一级考出来了",
+        "onboard_time": 1712367137,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 811007,
+        "num": 811007,
+        "word": "这居然是谢可寅",
+        "onboard_time": 1712360595,
+        "rank": 1,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 59189,
+        "num": 807988,
+        "word": "孩子们将碧空版如愿唱给空军英烈",
+        "onboard_time": 1712325319,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 805284,
+        "num": 805284,
+        "word": "以色列临时关闭28个驻外使馆",
+        "onboard_time": 1712363897,
+        "rank": 3,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 503100,
+        "num": 503100,
+        "word": "以色列",
+        "onboard_time": 1712367198,
+        "rank": 4,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 474745,
+        "num": 474745,
+        "word": "广为传播的珍妃照片是假的",
+        "onboard_time": 1712364497,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 426658,
+        "num": 426658,
+        "word": "金智媛8集换了82套造型",
+        "onboard_time": 1712362697,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 410484,
+        "num": 410484,
+        "word": "前夫殴打10岁女儿女子忍痛拍下取证",
+        "onboard_time": 1712329340,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 341513,
+        "num": 341513,
+        "word": "五月天歌迷会疑似是黄牛",
+        "onboard_time": 1712361497,
+        "rank": 8,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 115844,
+        "num": 333065,
+        "word": "宝宝在爸爸怀里哭唱世上只有妈妈好",
+        "onboard_time": 1712368518,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1266188,
+        "num": 313097,
+        "word": "某幻 吴秋怡",
+        "onboard_time": 1712360835,
+        "rank": 10,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 372956,
+        "num": 296545,
+        "word": "中产爱吃的贝果为什么中间有个洞",
+        "onboard_time": 1712363597,
+        "rank": 11,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 353469,
+        "num": 283603,
+        "word": "爱奇艺涨超4%",
+        "onboard_time": 1712367797,
+        "rank": 12,
+        "category": "互联网,财经"
+      },
+      {
+        "raw_hot": 265501,
+        "num": 265501,
+        "word": "NINEPERCENT六周年",
+        "onboard_time": 1712361556,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 261967,
+        "num": 261967,
+        "word": "赵丽颖与凤行获得爆剧认证",
+        "onboard_time": 1712356991,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 244429,
+        "num": 244429,
+        "word": "日本本州东岸发生5.3级地震",
+        "onboard_time": 1712365337,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 237101,
+        "num": 237101,
+        "word": "三大运营商回应注销手机号",
+        "onboard_time": 1712339653,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 236021,
+        "num": 236021,
+        "word": "女子买问界M7不到20天就充不上电",
+        "onboard_time": 1712359394,
+        "rank": 17,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 234758,
+        "num": 234758,
+        "word": "冰箱久置的3种食物或是癌症帮凶",
+        "onboard_time": 1712329220,
+        "rank": 18,
+        "category": "健康医疗,科学科普"
+      },
+      {
+        "raw_hot": 220169,
+        "num": 220169,
+        "word": "小米SU7首位车主浮出",
+        "onboard_time": 1712360175,
+        "rank": 19,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 387259,
+        "num": 218596,
+        "word": "医生建议不要饿着肚子睡觉",
+        "onboard_time": 1712329519,
+        "rank": 20,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 287933,
+        "num": 218554,
+        "word": "一块热毛巾差点导致截肢",
+        "onboard_time": 1712367078,
+        "rank": 21,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 215581,
+        "num": 215581,
+        "word": "告五人现场的一对情侣",
+        "onboard_time": 1712365817,
+        "rank": 22,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 209806,
+        "num": 209806,
+        "word": "爱奇艺在干嘛",
+        "onboard_time": 1712321540,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 199461,
+        "num": 199461,
+        "word": "行止要当爸爸了",
+        "onboard_time": 1712335755,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 185086,
+        "num": 185086,
+        "word": "李沁千金回国妆",
+        "onboard_time": 1712367857,
+        "rank": 25,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 178932,
+        "num": 178932,
+        "word": "月薪五万是一种什么体验",
+        "onboard_time": 1712329220,
+        "rank": 26,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 178697,
+        "num": 178697,
+        "word": "高铁上再也不随便跟人换座了",
+        "onboard_time": 1712325500,
+        "rank": 27,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 175918,
+        "num": 175918,
+        "word": "谢帝我要迪士尼全过程",
+        "onboard_time": 1712360716,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 68047,
+        "num": 171223,
+        "word": "我国90%以上森林火灾因人为",
+        "onboard_time": 1712360475,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 170166,
+        "num": 170166,
+        "word": "爱奇艺回应追风者直播被指不算热度",
+        "onboard_time": 1712364137,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 155035,
+        "num": 155035,
+        "word": "过度省钱后觉得生活没意思了",
+        "onboard_time": 1712327359,
+        "rank": 31,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 152993,
+        "num": 152993,
+        "word": "与凤行宣璐演技",
+        "onboard_time": 1712361856,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1684372,
+        "num": 151297,
+        "word": "47岁未婚未育女性的生活状态",
+        "onboard_time": 1712363597,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 143920,
+        "num": 143920,
+        "word": "是谁在怀念2018年的声入人心",
+        "onboard_time": 1712365037,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 143756,
+        "num": 143756,
+        "word": "导演透露王一博李沁有望二搭",
+        "onboard_time": 1712362275,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 140289,
+        "num": 140289,
+        "word": "甘肃一地旅游火爆无房游客免费住进宿舍",
+        "onboard_time": 1712359995,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 137612,
+        "num": 137612,
+        "word": "叶舒华钓系辣妹",
+        "onboard_time": 1712367558,
+        "rank": 37,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 118021,
+        "num": 118021,
+        "word": "赵丽颖林更新 晋江文学",
+        "onboard_time": 1712317758,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 117454,
+        "num": 117454,
+        "word": "雷军 小米生日快乐",
+        "onboard_time": 1712362036,
+        "rank": 39,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 116145,
+        "num": 116145,
+        "word": "明知结局妈妈依然推开了那扇门",
+        "onboard_time": 1712327241,
+        "rank": 40,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 114021,
+        "num": 114021,
+        "word": "身体在变老的10个迹象",
+        "onboard_time": 1712332216,
+        "rank": 41,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 111059,
+        "num": 111059,
+        "word": "minji摘眼镜",
+        "onboard_time": 1712364797,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 109748,
+        "num": 109748,
+        "word": "艾瑞欧 rapper听众都有罪",
+        "onboard_time": 1712368217,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 107579,
+        "num": 107579,
+        "word": "抽象说唱",
+        "onboard_time": 1712368337,
+        "rank": 44,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 103601,
+        "num": 103601,
+        "word": "纽约震感",
+        "onboard_time": 1712328140,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 101806,
+        "num": 101806,
+        "word": "魏若来 嫡徒弟",
+        "onboard_time": 1712366357,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 97895,
+        "num": 97895,
+        "word": "扬州一棵桃树开出了四色花",
+        "onboard_time": 1712360354,
+        "rank": 47,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 52665,
+        "num": 90064,
+        "word": "姜爷爷学会果赖召唤术",
+        "onboard_time": 1712314099,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 88800,
+        "num": 88800,
+        "word": "凤来沈璃父女相认",
+        "onboard_time": 1712361736,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#家国永念致敬英雄#"
+    }
+  }
+}
