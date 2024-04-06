@@ -1,6 +1,6 @@
 {
   "startTime": 1712334193790,
-  "endTime": 1712368985527,
+  "endTime": 1712370156809,
   "band_list": [
     {
       "raw_hot": 1713312,
@@ -11,16 +11,16 @@
       "category": "情感"
     },
     {
-      "raw_hot": 1266188,
-      "num": 406300,
+      "raw_hot": 1335101,
+      "num": 407829,
       "word": "某幻 吴秋怡",
       "onboard_time": 1712360835,
       "rank": 10,
       "category": "游戏,网红"
     },
     {
-      "raw_hot": 1072326,
-      "num": 1072326,
+      "raw_hot": 1251963,
+      "num": 1251963,
       "word": "孙俪大提琴一级考出来了",
       "onboard_time": 1712367137,
       "rank": 0,
@@ -65,6 +65,14 @@
       "onboard_time": 1712328140,
       "rank": 3,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 656784,
+      "num": 656784,
+      "word": "爱奇艺涨超4%",
+      "onboard_time": 1712367797,
+      "rank": 12,
+      "category": "互联网,财经"
     },
     {
       "raw_hot": 620922,
@@ -163,6 +171,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 477172,
+      "num": 477172,
+      "word": "李沁千金回国妆",
+      "onboard_time": 1712367857,
+      "rank": 25,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 464705,
       "num": 464705,
       "word": "五月天歌迷会疑似是黄牛",
@@ -192,6 +208,14 @@
       "word": "甘肃一地旅游火爆无房游客免费住进宿舍",
       "onboard_time": 1712359995,
       "rank": 48,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 416501,
+      "num": 416501,
+      "word": "宝宝在爸爸怀里哭唱世上只有妈妈好",
+      "onboard_time": 1712368518,
+      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -243,14 +267,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 353469,
-      "num": 283603,
-      "word": "爱奇艺涨超4%",
-      "onboard_time": 1712367797,
-      "rank": 12,
-      "category": "互联网,财经"
-    },
-    {
       "raw_hot": 348947,
       "num": 348947,
       "word": "徐海乔演技",
@@ -291,20 +307,20 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 292688,
+      "num": 218554,
+      "word": "一块热毛巾差点导致截肢",
+      "onboard_time": 1712367078,
+      "rank": 21,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 292605,
       "num": 292605,
       "word": "美国新泽西发生里氏4.8级地震",
       "onboard_time": 1712329699,
       "rank": 18,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 287933,
-      "num": 218554,
-      "word": "一块热毛巾差点导致截肢",
-      "onboard_time": 1712367078,
-      "rank": 21,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 283579,
@@ -339,6 +355,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 255298,
+      "num": 255298,
+      "word": "日本本州东岸发生5.3级地震",
+      "onboard_time": 1712365337,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 252579,
       "num": 252579,
       "word": "谢帝我要迪士尼全过程",
@@ -355,12 +379,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 244429,
-      "num": 244429,
-      "word": "日本本州东岸发生5.3级地震",
-      "onboard_time": 1712365337,
-      "rank": 38,
-      "category": "社会新闻"
+      "raw_hot": 223494,
+      "num": 173952,
+      "word": "以色列叫停全体作战部队休假",
+      "onboard_time": 1712369839,
+      "rank": 30,
+      "category": "国外时政"
     },
     {
       "raw_hot": 223313,
@@ -419,6 +443,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 191274,
+      "num": 191274,
+      "word": "广州暴雨",
+      "onboard_time": 1712369656,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 189965,
       "num": 189965,
       "word": "与凤行宣璐演技",
@@ -427,12 +459,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 185086,
-      "num": 185086,
-      "word": "李沁千金回国妆",
-      "onboard_time": 1712367857,
-      "rank": 25,
-      "category": "作品衍生"
+      "raw_hot": 183449,
+      "num": 183449,
+      "word": "马斯克称将对X上的成人内容大清洗",
+      "onboard_time": 1712369958,
+      "rank": 24,
+      "category": "互联网"
     },
     {
       "raw_hot": 171945,
@@ -491,6 +523,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 148428,
+      "num": 148428,
+      "word": "是谁在怀念2018年的声入人心",
+      "onboard_time": 1712365037,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 146948,
       "num": 134099,
       "word": "王一博要不要擦一下括号",
@@ -499,20 +539,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 143920,
-      "num": 143920,
-      "word": "是谁在怀念2018年的声入人心",
-      "onboard_time": 1712365037,
-      "rank": 45,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 143616,
       "num": 143616,
       "word": "minji摘眼镜",
       "onboard_time": 1712364797,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 140472,
+      "num": 174267,
+      "word": "天水旅游热度暴涨20倍",
+      "onboard_time": 1712369598,
+      "rank": 29,
+      "category": "旅游"
     },
     {
       "raw_hot": 139359,
@@ -571,6 +611,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 127761,
+      "num": 127761,
+      "word": "安宰贤离婚梗",
+      "onboard_time": 1712370016,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 125872,
+      "num": 125872,
+      "word": "凤来结局",
+      "onboard_time": 1712368997,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 125565,
       "num": 125565,
       "word": "沈璃抱住行止崩溃大哭",
@@ -600,6 +656,14 @@
       "word": "魏若来 嫡徒弟",
       "onboard_time": 1712366357,
       "rank": 37,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 118423,
+      "num": 118423,
+      "word": "窝囊废和他的荧光粉",
+      "onboard_time": 1712369117,
+      "rank": 42,
       "category": "剧集"
     },
     {
@@ -633,14 +697,6 @@
       "onboard_time": 1712357833,
       "rank": 25,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 115844,
-      "num": 333065,
-      "word": "宝宝在爸爸怀里哭唱世上只有妈妈好",
-      "onboard_time": 1712368518,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 115832,
@@ -689,6 +745,14 @@
       "onboard_time": 1712366837,
       "rank": 42,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 111511,
+      "num": 111511,
+      "word": "锦超觉得自己靠脸没饭吃",
+      "onboard_time": 1712369839,
+      "rank": 46,
+      "category": "剧集"
     },
     {
       "raw_hot": 109748,
@@ -744,6 +808,14 @@
       "word": "眼泪女王",
       "onboard_time": 1712327600,
       "rank": 47,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 100914,
+      "num": 100914,
+      "word": "追风者 怡和洋行",
+      "onboard_time": 1712370077,
+      "rank": 49,
       "category": "剧集"
     },
     {
@@ -865,6 +937,14 @@
       "onboard_time": 1712359634,
       "rank": 45,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 47218,
+      "num": 408332,
+      "word": "女孩推轮椅妈妈坐地铁一路获帮助",
+      "onboard_time": 1712369598,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 46468,

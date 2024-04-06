@@ -1,0 +1,410 @@
+{
+  "runTime": 1712370156809,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1251963,
+        "num": 1251963,
+        "word": "孙俪大提琴一级考出来了",
+        "onboard_time": 1712367137,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 768872,
+        "num": 768872,
+        "word": "以色列临时关闭28个驻外使馆",
+        "onboard_time": 1712363897,
+        "rank": 1,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 50309,
+        "num": 741698,
+        "word": "孩子们将碧空版如愿唱给空军英烈",
+        "onboard_time": 1712325319,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 735064,
+        "num": 735064,
+        "word": "这居然是谢可寅",
+        "onboard_time": 1712360595,
+        "rank": 3,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 656784,
+        "num": 656784,
+        "word": "爱奇艺涨超4%",
+        "onboard_time": 1712367797,
+        "rank": 4,
+        "category": "互联网,财经"
+      },
+      {
+        "raw_hot": 481463,
+        "num": 481463,
+        "word": "广为传播的珍妃照片是假的",
+        "onboard_time": 1712364497,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 477172,
+        "num": 477172,
+        "word": "李沁千金回国妆",
+        "onboard_time": 1712367857,
+        "rank": 6,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 473929,
+        "num": 473929,
+        "word": "以色列",
+        "onboard_time": 1712367198,
+        "rank": 7,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 416501,
+        "num": 416501,
+        "word": "宝宝在爸爸怀里哭唱世上只有妈妈好",
+        "onboard_time": 1712368518,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 47218,
+        "num": 408332,
+        "word": "女孩推轮椅妈妈坐地铁一路获帮助",
+        "onboard_time": 1712369598,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1335101,
+        "num": 407829,
+        "word": "某幻 吴秋怡",
+        "onboard_time": 1712360835,
+        "rank": 10,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 405863,
+        "num": 405863,
+        "word": "金智媛8集换了82套造型",
+        "onboard_time": 1712362697,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 389375,
+        "num": 389375,
+        "word": "前夫殴打10岁女儿女子忍痛拍下取证",
+        "onboard_time": 1712329340,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 336530,
+        "num": 336530,
+        "word": "中产爱吃的贝果为什么中间有个洞",
+        "onboard_time": 1712363597,
+        "rank": 13,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 309079,
+        "num": 309079,
+        "word": "五月天歌迷会疑似是黄牛",
+        "onboard_time": 1712361497,
+        "rank": 14,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 255298,
+        "num": 255298,
+        "word": "日本本州东岸发生5.3级地震",
+        "onboard_time": 1712365337,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 250239,
+        "num": 250239,
+        "word": "赵丽颖与凤行获得爆剧认证",
+        "onboard_time": 1712356991,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 246543,
+        "num": 246543,
+        "word": "小米SU7首位车主浮出",
+        "onboard_time": 1712360175,
+        "rank": 17,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 237878,
+        "num": 237878,
+        "word": "女子买问界M7不到20天就充不上电",
+        "onboard_time": 1712359394,
+        "rank": 18,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 229167,
+        "num": 229167,
+        "word": "NINEPERCENT六周年",
+        "onboard_time": 1712361556,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 408072,
+        "num": 219848,
+        "word": "医生建议不要饿着肚子睡觉",
+        "onboard_time": 1712329519,
+        "rank": 20,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 292688,
+        "num": 215844,
+        "word": "一块热毛巾差点导致截肢",
+        "onboard_time": 1712367078,
+        "rank": 21,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 208073,
+        "num": 208073,
+        "word": "月薪五万是一种什么体验",
+        "onboard_time": 1712329220,
+        "rank": 22,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 191274,
+        "num": 191274,
+        "word": "广州暴雨",
+        "onboard_time": 1712369656,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 183449,
+        "num": 183449,
+        "word": "马斯克称将对X上的成人内容大清洗",
+        "onboard_time": 1712369958,
+        "rank": 24,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 182333,
+        "num": 182333,
+        "word": "三大运营商回应注销手机号",
+        "onboard_time": 1712339653,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 182053,
+        "num": 182053,
+        "word": "爱奇艺在干嘛",
+        "onboard_time": 1712321540,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 178510,
+        "num": 178510,
+        "word": "冰箱久置的3种食物或是癌症帮凶",
+        "onboard_time": 1712329220,
+        "rank": 27,
+        "category": "健康医疗,科学科普"
+      },
+      {
+        "raw_hot": 176525,
+        "num": 176525,
+        "word": "谢帝我要迪士尼全过程",
+        "onboard_time": 1712360716,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 140472,
+        "num": 174267,
+        "word": "天水旅游热度暴涨20倍",
+        "onboard_time": 1712369598,
+        "rank": 29,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 223494,
+        "num": 173952,
+        "word": "以色列叫停全体作战部队休假",
+        "onboard_time": 1712369839,
+        "rank": 30,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 172661,
+        "num": 172661,
+        "word": "行止要当爸爸了",
+        "onboard_time": 1712335755,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 170356,
+        "num": 170356,
+        "word": "告五人现场的一对情侣",
+        "onboard_time": 1712365817,
+        "rank": 32,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 155088,
+        "num": 155088,
+        "word": "过度省钱后觉得生活没意思了",
+        "onboard_time": 1712327359,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 152124,
+        "num": 152124,
+        "word": "爱奇艺回应追风者直播被指不算热度",
+        "onboard_time": 1712364137,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 150948,
+        "num": 150948,
+        "word": "高铁上再也不随便跟人换座了",
+        "onboard_time": 1712325500,
+        "rank": 35,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 148428,
+        "num": 148428,
+        "word": "是谁在怀念2018年的声入人心",
+        "onboard_time": 1712365037,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 147817,
+        "num": 147817,
+        "word": "与凤行宣璐演技",
+        "onboard_time": 1712361856,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 127761,
+        "num": 127761,
+        "word": "安宰贤离婚梗",
+        "onboard_time": 1712370016,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 127586,
+        "num": 127586,
+        "word": "minji摘眼镜",
+        "onboard_time": 1712364797,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 126397,
+        "num": 126397,
+        "word": "导演透露王一博李沁有望二搭",
+        "onboard_time": 1712362275,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 125872,
+        "num": 125872,
+        "word": "凤来结局",
+        "onboard_time": 1712368997,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 118423,
+        "num": 118423,
+        "word": "窝囊废和他的荧光粉",
+        "onboard_time": 1712369117,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 118029,
+        "num": 118029,
+        "word": "身体在变老的10个迹象",
+        "onboard_time": 1712332216,
+        "rank": 43,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 117294,
+        "num": 117294,
+        "word": "叶舒华钓系辣妹",
+        "onboard_time": 1712367558,
+        "rank": 44,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 113031,
+        "num": 113031,
+        "word": "赵丽颖林更新 晋江文学",
+        "onboard_time": 1712317758,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 111511,
+        "num": 111511,
+        "word": "锦超觉得自己靠脸没饭吃",
+        "onboard_time": 1712369839,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 106558,
+        "num": 106558,
+        "word": "艾瑞欧 rapper听众都有罪",
+        "onboard_time": 1712368217,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 101426,
+        "num": 101426,
+        "word": "甘肃一地旅游火爆无房游客免费住进宿舍",
+        "onboard_time": 1712359995,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 100914,
+        "num": 100914,
+        "word": "追风者 怡和洋行",
+        "onboard_time": 1712370077,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#家国永念致敬英雄#"
+    }
+  }
+}
