@@ -1,0 +1,410 @@
+{
+  "runTime": 1712402021970,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1565819,
+        "num": 1565819,
+        "word": "林更新回应和赵丽颖三搭",
+        "onboard_time": 1712399777,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1285245,
+        "num": 1285245,
+        "word": "孙亚龙进抢救室",
+        "onboard_time": 1712397017,
+        "rank": 1,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 61142,
+        "num": 1260217,
+        "word": "假期返程安全行车攻略",
+        "onboard_time": 1712394318,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1236955,
+        "num": 1236955,
+        "word": "千万不要买樱花味食物",
+        "onboard_time": 1712398877,
+        "rank": 3,
+        "category": "美食,幽默"
+      },
+      {
+        "raw_hot": 1034858,
+        "num": 1034858,
+        "word": "放假三天躺了三天",
+        "onboard_time": 1712398877,
+        "rank": 4,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 1002661,
+        "num": 1002661,
+        "word": "沈近真下线",
+        "onboard_time": 1712400798,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 936561,
+        "num": 936561,
+        "word": "兰大回应虐猫考生进调剂名单",
+        "onboard_time": 1712391978,
+        "rank": 6,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 655270,
+        "num": 655270,
+        "word": "赵奕欢看穿纪凌尘",
+        "onboard_time": 1712395517,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 229738,
+        "num": 592656,
+        "word": "淄博这个赛季还是强得可怕",
+        "onboard_time": 1712399418,
+        "rank": 8,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 306258,
+        "num": 550566,
+        "word": "54岁老板当主播日进百万",
+        "onboard_time": 1712397017,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 542907,
+        "num": 542907,
+        "word": "林更新与凤行杀青哭成狗",
+        "onboard_time": 1712385498,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 424547,
+        "num": 424547,
+        "word": "论文重复率越改越高真的太痛苦了",
+        "onboard_time": 1712398757,
+        "rank": 11,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 352999,
+        "num": 352999,
+        "word": "赵丽颖好爱她的每一个角色",
+        "onboard_time": 1712392818,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 336994,
+        "num": 336994,
+        "word": "范丞丞工作室回应争议",
+        "onboard_time": 1712389938,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 316265,
+        "num": 316265,
+        "word": "甘草片和红药水为什么买不到了",
+        "onboard_time": 1712392878,
+        "rank": 14,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 332449,
+        "num": 315840,
+        "word": "林更新7天涨粉31万",
+        "onboard_time": 1712400319,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 314893,
+        "num": 314893,
+        "word": "Doinb重返直播间",
+        "onboard_time": 1712393718,
+        "rank": 16,
+        "category": "电竞,网红"
+      },
+      {
+        "raw_hot": 305618,
+        "num": 305618,
+        "word": "Doinb回应复播",
+        "onboard_time": 1712400738,
+        "rank": 17,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 287091,
+        "num": 287091,
+        "word": "贾静雯最新状态",
+        "onboard_time": 1712397077,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 237572,
+        "num": 285480,
+        "word": "梅西赛后走进对手更衣室大声喊叫",
+        "onboard_time": 1712395278,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 427708,
+        "num": 285461,
+        "word": "女生肝脏不好的八大表现",
+        "onboard_time": 1712397496,
+        "rank": 20,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 285314,
+        "num": 285314,
+        "word": "吴宣仪认证自己很姬",
+        "onboard_time": 1712383217,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 254788,
+        "num": 254788,
+        "word": "徐海乔有效客串",
+        "onboard_time": 1712395337,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 253327,
+        "num": 253327,
+        "word": "创造营首个海外女团出道",
+        "onboard_time": 1712397378,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 210827,
+        "num": 210827,
+        "word": "迪士尼偶遇刘宇宁",
+        "onboard_time": 1712397258,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 207980,
+        "num": 207980,
+        "word": "果然上班久了人会变恶毒",
+        "onboard_time": 1712401159,
+        "rank": 25,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 207510,
+        "num": 207510,
+        "word": "天水真的有一亿人",
+        "onboard_time": 1712401038,
+        "rank": 26,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 201744,
+        "num": 201744,
+        "word": "追风者",
+        "onboard_time": 1712401819,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 184071,
+        "num": 184071,
+        "word": "考上上海研究生却开心不起来",
+        "onboard_time": 1712387718,
+        "rank": 28,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 179508,
+        "num": 182955,
+        "word": "福宝",
+        "onboard_time": 1712400497,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 193135,
+        "num": 182934,
+        "word": "微信式恋爱",
+        "onboard_time": 1712394258,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 182833,
+        "num": 182833,
+        "word": "种地吧后陡门58号草莓首吃",
+        "onboard_time": 1712401459,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 181984,
+        "num": 181984,
+        "word": "身价过亿的有钱人生活",
+        "onboard_time": 1712394857,
+        "rank": 32,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 160636,
+        "num": 160636,
+        "word": "穿马面裙被男友说丢人",
+        "onboard_time": 1712391978,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 157311,
+        "num": 157311,
+        "word": "BoA 可以隐退了吧",
+        "onboard_time": 1712384898,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 156578,
+        "num": 156578,
+        "word": "存钱有必要隐瞒身边人吗",
+        "onboard_time": 1712399717,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 156000,
+        "num": 156000,
+        "word": "腾讯给与凤行配的标题",
+        "onboard_time": 1712384657,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 151563,
+        "num": 151563,
+        "word": "在摩尔庄园看到十五年前的留言",
+        "onboard_time": 1712399238,
+        "rank": 37,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 150903,
+        "num": 150903,
+        "word": "每次相亲都感觉自己在面试",
+        "onboard_time": 1712401938,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 149166,
+        "num": 149166,
+        "word": "中国海警回应菲律宾侵闯鲎藤礁",
+        "onboard_time": 1712398578,
+        "rank": 39,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 150154,
+        "num": 145741,
+        "word": "为什么有人只睡4小时也很精神",
+        "onboard_time": 1712388797,
+        "rank": 40,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 134475,
+        "num": 134475,
+        "word": "王一博射击反应不是演的",
+        "onboard_time": 1712399059,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 133308,
+        "num": 133308,
+        "word": "甄嬛传之胖橘大闹甘露寺",
+        "onboard_time": 1712390957,
+        "rank": 42,
+        "category": "作品衍生,幽默"
+      },
+      {
+        "raw_hot": 125974,
+        "num": 125974,
+        "word": "怦然心动20岁4路透",
+        "onboard_time": 1712397197,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 123974,
+        "num": 123974,
+        "word": "13岁女孩失踪多日后遗体被找到",
+        "onboard_time": 1712378838,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 121786,
+        "num": 121786,
+        "word": "明天上班",
+        "onboard_time": 1712398939,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 120827,
+        "num": 120827,
+        "word": "Doinb爆料嘉宾名单",
+        "onboard_time": 1712401218,
+        "rank": 46,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 119995,
+        "num": 119995,
+        "word": "拂容君结局",
+        "onboard_time": 1712397378,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 114956,
+        "num": 114956,
+        "word": "王俊凯鼻子还好吗",
+        "onboard_time": 1712385737,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 106501,
+        "num": 112854,
+        "word": "谷爱凌 批判性好奇心",
+        "onboard_time": 1712398157,
+        "rank": 49,
+        "category": "体育,网红"
+      }
+    ],
+    "hotgov": {
+      "word": "#不断增厚我们的绿色家底#"
+    }
+  }
+}

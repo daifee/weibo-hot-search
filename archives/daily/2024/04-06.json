@@ -1,6 +1,6 @@
 {
   "startTime": 1712334193790,
-  "endTime": 1712399661414,
+  "endTime": 1712402021970,
   "band_list": [
     {
       "raw_hot": 2169096,
@@ -33,6 +33,14 @@
       "onboard_time": 1712371458,
       "rank": 0,
       "category": "教育"
+    },
+    {
+      "raw_hot": 1565819,
+      "num": 1565819,
+      "word": "林更新回应和赵丽颖三搭",
+      "onboard_time": 1712399777,
+      "rank": 0,
+      "category": "剧集"
     },
     {
       "raw_hot": 1473840,
@@ -83,6 +91,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1236955,
+      "num": 1236955,
+      "word": "千万不要买樱花味食物",
+      "onboard_time": 1712398877,
+      "rank": 23,
+      "category": "美食,幽默"
+    },
+    {
       "raw_hot": 1138233,
       "num": 1138233,
       "word": "广州暴雨",
@@ -99,11 +115,27 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1034858,
+      "num": 1034858,
+      "word": "放假三天躺了三天",
+      "onboard_time": 1712398877,
+      "rank": 14,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 1022624,
       "num": 1022624,
       "word": "林更新与凤行杀青哭成狗",
       "onboard_time": 1712385498,
       "rank": 1,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 1002661,
+      "num": 1002661,
+      "word": "沈近真下线",
+      "onboard_time": 1712400798,
+      "rank": 5,
       "category": "剧集"
     },
     {
@@ -404,7 +436,7 @@
     },
     {
       "raw_hot": 533920,
-      "num": 235853,
+      "num": 285461,
       "word": "女生肝脏不好的八大表现",
       "onboard_time": 1712397496,
       "rank": 20,
@@ -555,6 +587,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 424547,
+      "num": 424547,
+      "word": "论文重复率越改越高真的太痛苦了",
+      "onboard_time": 1712398757,
+      "rank": 34,
+      "category": "教育"
+    },
+    {
       "raw_hot": 420548,
       "num": 420548,
       "word": "甘草片和红药水为什么买不到了",
@@ -620,7 +660,7 @@
     },
     {
       "raw_hot": 394655,
-      "num": 394655,
+      "num": 550566,
       "word": "54岁老板当主播日进百万",
       "onboard_time": 1712397017,
       "rank": 9,
@@ -755,6 +795,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 332449,
+      "num": 315840,
+      "word": "林更新7天涨粉31万",
+      "onboard_time": 1712400319,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 327534,
       "num": 327534,
       "word": "服了你们滚人",
@@ -779,12 +827,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 311053,
-      "num": 311053,
-      "word": "放假三天躺了三天",
-      "onboard_time": 1712398877,
-      "rank": 14,
-      "category": "幽默"
+      "raw_hot": 305618,
+      "num": 305618,
+      "word": "Doinb回应复播",
+      "onboard_time": 1712400738,
+      "rank": 17,
+      "category": "电竞"
     },
     {
       "raw_hot": 301104,
@@ -892,7 +940,7 @@
     },
     {
       "raw_hot": 274930,
-      "num": 227125,
+      "num": 253327,
       "word": "创造营首个海外女团出道",
       "onboard_time": 1712397378,
       "rank": 23,
@@ -1019,12 +1067,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 231838,
-      "num": 231838,
-      "word": "千万不要买樱花味食物",
-      "onboard_time": 1712398877,
-      "rank": 23,
-      "category": "美食,幽默"
+      "raw_hot": 229738,
+      "num": 592656,
+      "word": "淄博这个赛季还是强得可怕",
+      "onboard_time": 1712399418,
+      "rank": 16,
+      "category": "旅游"
     },
     {
       "raw_hot": 227066,
@@ -1107,6 +1155,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 207980,
+      "num": 207980,
+      "word": "果然上班久了人会变恶毒",
+      "onboard_time": 1712401159,
+      "rank": 25,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 207765,
       "num": 188196,
       "word": "双相情感障碍和正常人区别",
@@ -1115,11 +1171,27 @@
       "category": "情感"
     },
     {
+      "raw_hot": 207510,
+      "num": 207510,
+      "word": "天水真的有一亿人",
+      "onboard_time": 1712401038,
+      "rank": 26,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 205518,
       "num": 205518,
       "word": "导演透露王一博李沁有望二搭",
       "onboard_time": 1712362275,
       "rank": 23,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 201744,
+      "num": 201744,
+      "word": "追风者",
+      "onboard_time": 1712401819,
+      "rank": 27,
       "category": "剧集"
     },
     {
@@ -1267,12 +1339,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 182833,
+      "num": 182833,
+      "word": "种地吧后陡门58号草莓首吃",
+      "onboard_time": 1712401459,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 182749,
       "num": 182749,
       "word": "范丞丞的背",
       "onboard_time": 1712384118,
       "rank": 31,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 179508,
+      "num": 182955,
+      "word": "福宝",
+      "onboard_time": 1712400497,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 176652,
@@ -1353,14 +1441,6 @@
       "onboard_time": 1712329940,
       "rank": 30,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 166981,
-      "num": 178353,
-      "word": "论文重复率越改越高真的太痛苦了",
-      "onboard_time": 1712398757,
-      "rank": 34,
-      "category": "教育"
     },
     {
       "raw_hot": 166405,
@@ -1459,6 +1539,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 156578,
+      "num": 156578,
+      "word": "存钱有必要隐瞒身边人吗",
+      "onboard_time": 1712399717,
+      "rank": 35,
+      "category": "情感"
+    },
+    {
       "raw_hot": 153012,
       "num": 153012,
       "word": "恋爱兄妹男五",
@@ -1475,12 +1563,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 151563,
+      "num": 151563,
+      "word": "在摩尔庄园看到十五年前的留言",
+      "onboard_time": 1712399238,
+      "rank": 42,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 150923,
       "num": 141969,
       "word": "承欢记片尾曲MV",
       "onboard_time": 1712386577,
       "rank": 33,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 150903,
+      "num": 150903,
+      "word": "每次相亲都感觉自己在面试",
+      "onboard_time": 1712401938,
+      "rank": 38,
+      "category": "情感"
     },
     {
       "raw_hot": 150152,
@@ -1617,14 +1721,6 @@
       "onboard_time": 1712367558,
       "rank": 37,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 137565,
-      "num": 137565,
-      "word": "在摩尔庄园看到十五年前的留言",
-      "onboard_time": 1712399238,
-      "rank": 42,
-      "category": "游戏"
     },
     {
       "raw_hot": 137202,
@@ -1777,6 +1873,14 @@
       "onboard_time": 1712361736,
       "rank": 40,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 120827,
+      "num": 120827,
+      "word": "Doinb爆料嘉宾名单",
+      "onboard_time": 1712401218,
+      "rank": 46,
+      "category": "电竞"
     },
     {
       "raw_hot": 119790,
@@ -2075,14 +2179,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 99948,
-      "num": 301413,
-      "word": "淄博这个赛季还是强得可怕",
-      "onboard_time": 1712399418,
-      "rank": 16,
-      "category": "旅游"
-    },
-    {
       "raw_hot": 99868,
       "num": 99868,
       "word": "平板支撑时间最长的女性",
@@ -2180,7 +2276,7 @@
     },
     {
       "raw_hot": 89433,
-      "num": 1130314,
+      "num": 1260217,
       "word": "假期返程安全行车攻略",
       "onboard_time": 1712394318,
       "rank": 2,
