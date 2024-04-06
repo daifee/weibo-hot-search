@@ -1,17 +1,17 @@
 {
   "startTime": 1712334193790,
-  "endTime": 1712365857323,
+  "endTime": 1712367019511,
   "band_list": [
     {
-      "raw_hot": 1385841,
-      "num": 1385841,
+      "raw_hot": 1713312,
+      "num": 1713312,
       "word": "47岁未婚未育女性的生活状态",
       "onboard_time": 1712363597,
       "rank": 0,
       "category": "情感"
     },
     {
-      "raw_hot": 1168407,
+      "raw_hot": 1183866,
       "num": 406300,
       "word": "某幻 吴秋怡",
       "onboard_time": 1712360835,
@@ -51,8 +51,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 625867,
-      "num": 625867,
+      "raw_hot": 694939,
+      "num": 694939,
       "word": "以色列临时关闭28个驻外使馆",
       "onboard_time": 1712363897,
       "rank": 3,
@@ -121,6 +121,14 @@
       "onboard_time": 1712362697,
       "rank": 4,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 491015,
+      "num": 491015,
+      "word": "广为传播的珍妃照片是假的",
+      "onboard_time": 1712364497,
+      "rank": 13,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 489315,
@@ -211,12 +219,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 359231,
-      "num": 359231,
-      "word": "广为传播的珍妃照片是假的",
-      "onboard_time": 1712364497,
-      "rank": 13,
-      "category": "社会新闻"
+      "raw_hot": 355173,
+      "num": 355173,
+      "word": "NINEPERCENT六周年",
+      "onboard_time": 1712361556,
+      "rank": 14,
+      "category": "艺人"
     },
     {
       "raw_hot": 348947,
@@ -225,14 +233,6 @@
       "onboard_time": 1712328079,
       "rank": 13,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 342850,
-      "num": 342850,
-      "word": "NINEPERCENT六周年",
-      "onboard_time": 1712361556,
-      "rank": 14,
-      "category": "艺人"
     },
     {
       "raw_hot": 336314,
@@ -347,12 +347,36 @@
       "category": "情感"
     },
     {
+      "raw_hot": 219454,
+      "num": 219454,
+      "word": "日本本州东岸发生5.3级地震",
+      "onboard_time": 1712365337,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 212369,
       "num": 212369,
       "word": "声入人心求金主爸爸",
       "onboard_time": 1712320759,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 205518,
+      "num": 205518,
+      "word": "导演透露王一博李沁有望二搭",
+      "onboard_time": 1712362275,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 194280,
+      "num": 164944,
+      "word": "告五人现场的一对情侣",
+      "onboard_time": 1712365817,
+      "rank": 48,
+      "category": "电影"
     },
     {
       "raw_hot": 192720,
@@ -363,19 +387,19 @@
       "category": "电影"
     },
     {
-      "raw_hot": 191749,
-      "num": 191749,
-      "word": "导演透露王一博李沁有望二搭",
-      "onboard_time": 1712362275,
-      "rank": 23,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 180859,
-      "num": 180859,
+      "raw_hot": 189965,
+      "num": 189965,
       "word": "与凤行宣璐演技",
       "onboard_time": 1712361856,
       "rank": 26,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 171945,
+      "num": 171945,
+      "word": "爱奇艺回应追风者直播被指不算热度",
+      "onboard_time": 1712364137,
+      "rank": 27,
       "category": "剧集"
     },
     {
@@ -385,14 +409,6 @@
       "onboard_time": 1712332216,
       "rank": 32,
       "category": "科学科普"
-    },
-    {
-      "raw_hot": 167782,
-      "num": 167782,
-      "word": "爱奇艺回应追风者直播被指不算热度",
-      "onboard_time": 1712364137,
-      "rank": 27,
-      "category": "剧集"
     },
     {
       "raw_hot": 167216,
@@ -492,18 +508,10 @@
     },
     {
       "raw_hot": 128239,
-      "num": 144737,
+      "num": 165325,
       "word": "我国90%以上森林火灾因人为",
       "onboard_time": 1712360475,
       "rank": 29,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 126047,
-      "num": 126047,
-      "word": "日本本州东岸发生5.3级地震",
-      "onboard_time": 1712365337,
-      "rank": 38,
       "category": "社会新闻"
     },
     {
@@ -513,6 +521,14 @@
       "onboard_time": 1712337674,
       "rank": 23,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 125553,
+      "num": 125553,
+      "word": "是谁在怀念2018年的声入人心",
+      "onboard_time": 1712365037,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 125485,
@@ -528,6 +544,14 @@
       "word": "凤来沈璃父女相认",
       "onboard_time": 1712361736,
       "rank": 40,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 119300,
+      "num": 119300,
+      "word": "魏若来 嫡徒弟",
+      "onboard_time": 1712366357,
+      "rank": 37,
       "category": "剧集"
     },
     {
@@ -595,6 +619,22 @@
       "category": "演出"
     },
     {
+      "raw_hot": 111757,
+      "num": 111757,
+      "word": "雷军 小米生日快乐",
+      "onboard_time": 1712362036,
+      "rank": 43,
+      "category": "互联网"
+    },
+    {
+      "raw_hot": 111714,
+      "num": 111714,
+      "word": "阴雨大人",
+      "onboard_time": 1712366837,
+      "rank": 42,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 109164,
       "num": 109164,
       "word": "马里亚纳群岛附近发生6.8级左右地震",
@@ -609,22 +649,6 @@
       "onboard_time": 1712310077,
       "rank": 44,
       "category": "情感"
-    },
-    {
-      "raw_hot": 107480,
-      "num": 107480,
-      "word": "雷军 小米生日快乐",
-      "onboard_time": 1712362036,
-      "rank": 43,
-      "category": "互联网"
-    },
-    {
-      "raw_hot": 103047,
-      "num": 103047,
-      "word": "是谁在怀念2018年的声入人心",
-      "onboard_time": 1712365037,
-      "rank": 45,
-      "category": "综艺"
     },
     {
       "raw_hot": 102916,
@@ -675,14 +699,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 90284,
-      "num": 90284,
-      "word": "告五人现场的一对情侣",
-      "onboard_time": 1712365817,
-      "rank": 48,
-      "category": "电影"
-    },
-    {
       "raw_hot": 89520,
       "num": 72338,
       "word": "黄果树瀑布偶遇沙溢胡可一家",
@@ -715,20 +731,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 68467,
+      "num": 793558,
+      "word": "孩子们将碧空版如愿唱给空军英烈",
+      "onboard_time": 1712325319,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 66570,
       "num": 66570,
       "word": "王一博把枪放在手里炒了一顿",
       "onboard_time": 1712355912,
       "rank": 42,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 62214,
-      "num": 765184,
-      "word": "孩子们将碧空版如愿唱给空军英烈",
-      "onboard_time": 1712325319,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 60653,

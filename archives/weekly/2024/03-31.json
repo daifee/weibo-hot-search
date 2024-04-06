@@ -1,6 +1,6 @@
 {
   "startTime": 1711815680412,
-  "endTime": 1712365857323,
+  "endTime": 1712367019511,
   "band_list": [
     {
       "raw_hot": 16874674,
@@ -435,6 +435,14 @@
       "category": "艺人,汽车"
     },
     {
+      "raw_hot": 1713312,
+      "num": 1713312,
+      "word": "47岁未婚未育女性的生活状态",
+      "onboard_time": 1712363597,
+      "rank": 0,
+      "category": "情感"
+    },
+    {
       "raw_hot": 1708706,
       "num": 1708706,
       "word": "直播福宝回国",
@@ -779,14 +787,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 1385841,
-      "num": 1385841,
-      "word": "47岁未婚未育女性的生活状态",
-      "onboard_time": 1712363597,
-      "rank": 0,
-      "category": "情感"
-    },
-    {
       "raw_hot": 1378625,
       "num": 1378625,
       "word": "周杰伦亲历台湾地震称晃到不行",
@@ -1083,6 +1083,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1183866,
+      "num": 406300,
+      "word": "某幻 吴秋怡",
+      "onboard_time": 1712360835,
+      "rank": 10,
+      "category": "游戏,网红"
+    },
+    {
       "raw_hot": 1181394,
       "num": 1136230,
       "word": "扔小孩女子疑似精神行为异常",
@@ -1097,14 +1105,6 @@
       "onboard_time": 1712106266,
       "rank": 17,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1168407,
-      "num": 406300,
-      "word": "某幻 吴秋怡",
-      "onboard_time": 1712360835,
-      "rank": 10,
-      "category": "游戏,网红"
     },
     {
       "raw_hot": 1166439,
@@ -2459,6 +2459,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 694939,
+      "num": 694939,
+      "word": "以色列临时关闭28个驻外使馆",
+      "onboard_time": 1712363897,
+      "rank": 3,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 694159,
       "num": 513566,
       "word": "09微博回应小楼",
@@ -2953,14 +2961,6 @@
       "onboard_time": 1712189777,
       "rank": 11,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 625867,
-      "num": 625867,
-      "word": "以色列临时关闭28个驻外使馆",
-      "onboard_time": 1712363897,
-      "rank": 3,
-      "category": "国外时政"
     },
     {
       "raw_hot": 624443,
@@ -4233,6 +4233,14 @@
       "onboard_time": 1712063061,
       "rank": 6,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 491015,
+      "num": 491015,
+      "word": "广为传播的珍妃照片是假的",
+      "onboard_time": 1712364497,
+      "rank": 13,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 488928,
@@ -5987,14 +5995,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 359231,
-      "num": 359231,
-      "word": "广为传播的珍妃照片是假的",
-      "onboard_time": 1712364497,
-      "rank": 13,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 358790,
       "num": 358790,
       "word": "清明时节雨纷纷可能不是杜牧写的",
@@ -6057,6 +6057,14 @@
       "onboard_time": 1712208979,
       "rank": 20,
       "category": "数码"
+    },
+    {
+      "raw_hot": 355173,
+      "num": 355173,
+      "word": "NINEPERCENT六周年",
+      "onboard_time": 1712361556,
+      "rank": 14,
+      "category": "艺人"
     },
     {
       "raw_hot": 355099,
@@ -6209,14 +6217,6 @@
       "onboard_time": 1711966160,
       "rank": 33,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 342850,
-      "num": 342850,
-      "word": "NINEPERCENT六周年",
-      "onboard_time": 1712361556,
-      "rank": 14,
-      "category": "艺人"
     },
     {
       "raw_hot": 342732,
@@ -9507,6 +9507,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 219454,
+      "num": 219454,
+      "word": "日本本州东岸发生5.3级地震",
+      "onboard_time": 1712365337,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 219173,
       "num": 219173,
       "word": "浙江震感",
@@ -10217,6 +10225,14 @@
       "onboard_time": 1712198298,
       "rank": 35,
       "category": "美食"
+    },
+    {
+      "raw_hot": 205518,
+      "num": 205518,
+      "word": "导演透露王一博李沁有望二搭",
+      "onboard_time": 1712362275,
+      "rank": 23,
+      "category": "剧集"
     },
     {
       "raw_hot": 205452,
@@ -11011,6 +11027,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 194280,
+      "num": 164944,
+      "word": "告五人现场的一对情侣",
+      "onboard_time": 1712365817,
+      "rank": 48,
+      "category": "电影"
+    },
+    {
       "raw_hot": 194276,
       "num": 194276,
       "word": "张杰黑色渔夫帽",
@@ -11171,14 +11195,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 191749,
-      "num": 191749,
-      "word": "导演透露王一博李沁有望二搭",
-      "onboard_time": 1712362275,
-      "rank": 23,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 191739,
       "num": 191739,
       "word": "百度四分之一代码是AI程序员写的",
@@ -11329,6 +11345,14 @@
       "onboard_time": 1712204598,
       "rank": 34,
       "category": "情感"
+    },
+    {
+      "raw_hot": 189965,
+      "num": 189965,
+      "word": "与凤行宣璐演技",
+      "onboard_time": 1712361856,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 189963,
@@ -11939,14 +11963,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 180859,
-      "num": 180859,
-      "word": "与凤行宣璐演技",
-      "onboard_time": 1712361856,
-      "rank": 26,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 180708,
       "num": 180708,
       "word": "周处除三害背后的台湾乱象",
@@ -12459,6 +12475,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 171945,
+      "num": 171945,
+      "word": "爱奇艺回应追风者直播被指不算热度",
+      "onboard_time": 1712364137,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 171934,
       "num": 171934,
       "word": "第五人格 ZETA",
@@ -12689,14 +12713,6 @@
       "onboard_time": 1712296817,
       "rank": 32,
       "category": "演出"
-    },
-    {
-      "raw_hot": 167782,
-      "num": 167782,
-      "word": "爱奇艺回应追风者直播被指不算热度",
-      "onboard_time": 1712364137,
-      "rank": 27,
-      "category": "剧集"
     },
     {
       "raw_hot": 167430,
@@ -15340,7 +15356,7 @@
     },
     {
       "raw_hot": 128239,
-      "num": 144737,
+      "num": 165325,
       "word": "我国90%以上森林火灾因人为",
       "onboard_time": 1712360475,
       "rank": 29,
@@ -15451,14 +15467,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 126047,
-      "num": 126047,
-      "word": "日本本州东岸发生5.3级地震",
-      "onboard_time": 1712365337,
-      "rank": 38,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 125781,
       "num": 125781,
       "word": "超意神探 尺度",
@@ -15473,6 +15481,14 @@
       "onboard_time": 1712337674,
       "rank": 23,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 125553,
+      "num": 125553,
+      "word": "是谁在怀念2018年的声入人心",
+      "onboard_time": 1712365037,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 125455,
@@ -15745,6 +15761,14 @@
       "onboard_time": 1712057119,
       "rank": 49,
       "category": "电竞,网红"
+    },
+    {
+      "raw_hot": 119300,
+      "num": 119300,
+      "word": "魏若来 嫡徒弟",
+      "onboard_time": 1712366357,
+      "rank": 37,
+      "category": "剧集"
     },
     {
       "raw_hot": 119058,
@@ -16083,6 +16107,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 111757,
+      "num": 111757,
+      "word": "雷军 小米生日快乐",
+      "onboard_time": 1712362036,
+      "rank": 43,
+      "category": "互联网"
+    },
+    {
+      "raw_hot": 111714,
+      "num": 111714,
+      "word": "阴雨大人",
+      "onboard_time": 1712366837,
+      "rank": 42,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 111399,
       "num": 111399,
       "word": "勇士六连胜",
@@ -16161,14 +16201,6 @@
       "onboard_time": 1712306897,
       "rank": 9,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 107480,
-      "num": 107480,
-      "word": "雷军 小米生日快乐",
-      "onboard_time": 1712362036,
-      "rank": 43,
-      "category": "互联网"
     },
     {
       "raw_hot": 107439,
@@ -16257,14 +16289,6 @@
       "onboard_time": 1711810700,
       "rank": 38,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 103047,
-      "num": 103047,
-      "word": "是谁在怀念2018年的声入人心",
-      "onboard_time": 1712365037,
-      "rank": 45,
-      "category": "综艺"
     },
     {
       "raw_hot": 102125,
@@ -16481,14 +16505,6 @@
       "onboard_time": 1712075416,
       "rank": 36,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 90284,
-      "num": 90284,
-      "word": "告五人现场的一对情侣",
-      "onboard_time": 1712365817,
-      "rank": 48,
-      "category": "电影"
     },
     {
       "raw_hot": 89618,
