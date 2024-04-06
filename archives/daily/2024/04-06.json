@@ -1,7 +1,31 @@
 {
   "startTime": 1712334193790,
-  "endTime": 1712360067126,
+  "endTime": 1712365857323,
   "band_list": [
+    {
+      "raw_hot": 1385841,
+      "num": 1385841,
+      "word": "47岁未婚未育女性的生活状态",
+      "onboard_time": 1712363597,
+      "rank": 0,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 1168407,
+      "num": 406300,
+      "word": "某幻 吴秋怡",
+      "onboard_time": 1712360835,
+      "rank": 10,
+      "category": "游戏,网红"
+    },
+    {
+      "raw_hot": 937892,
+      "num": 937892,
+      "word": "这居然是谢可寅",
+      "onboard_time": 1712360595,
+      "rank": 1,
+      "category": "作品衍生"
+    },
     {
       "raw_hot": 833945,
       "num": 833945,
@@ -25,6 +49,14 @@
       "onboard_time": 1712328140,
       "rank": 3,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 625867,
+      "num": 625867,
+      "word": "以色列临时关闭28个驻外使馆",
+      "onboard_time": 1712363897,
+      "rank": 3,
+      "category": "国外时政"
     },
     {
       "raw_hot": 620922,
@@ -83,6 +115,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 526643,
+      "num": 526643,
+      "word": "金智媛8集换了82套造型",
+      "onboard_time": 1712362697,
+      "rank": 4,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 489315,
       "num": 489315,
       "word": "香港发现首例人类感染猴疱疹病毒",
@@ -97,6 +137,14 @@
       "onboard_time": 1712312599,
       "rank": 11,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 464705,
+      "num": 464705,
+      "word": "五月天歌迷会疑似是黄牛",
+      "onboard_time": 1712361497,
+      "rank": 6,
+      "category": "演出"
     },
     {
       "raw_hot": 462583,
@@ -115,12 +163,28 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 425955,
+      "num": 425955,
+      "word": "甘肃一地旅游火爆无房游客免费住进宿舍",
+      "onboard_time": 1712359995,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 405746,
       "num": 405746,
       "word": "赵丽颖林更新 晋江文学",
       "onboard_time": 1712317758,
       "rank": 12,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 400007,
+      "num": 400007,
+      "word": "小米SU7首位车主浮出",
+      "onboard_time": 1712360175,
+      "rank": 11,
+      "category": "汽车"
     },
     {
       "raw_hot": 398672,
@@ -131,6 +195,14 @@
       "category": "健康医疗,科学科普"
     },
     {
+      "raw_hot": 382924,
+      "num": 382924,
+      "word": "中产爱吃的贝果为什么中间有个洞",
+      "onboard_time": 1712363597,
+      "rank": 12,
+      "category": "美食"
+    },
+    {
       "raw_hot": 375262,
       "num": 375262,
       "word": "行止要当爸爸了",
@@ -139,12 +211,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 359231,
+      "num": 359231,
+      "word": "广为传播的珍妃照片是假的",
+      "onboard_time": 1712364497,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 348947,
       "num": 348947,
       "word": "徐海乔演技",
       "onboard_time": 1712328079,
       "rank": 13,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 342850,
+      "num": 342850,
+      "word": "NINEPERCENT六周年",
+      "onboard_time": 1712361556,
+      "rank": 14,
+      "category": "艺人"
     },
     {
       "raw_hot": 336314,
@@ -171,12 +259,28 @@
       "category": "演出"
     },
     {
+      "raw_hot": 294118,
+      "num": 294118,
+      "word": "女子买问界M7不到20天就充不上电",
+      "onboard_time": 1712359394,
+      "rank": 23,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 292605,
       "num": 292605,
       "word": "美国新泽西发生里氏4.8级地震",
       "onboard_time": 1712329699,
       "rank": 18,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 283579,
+      "num": 283579,
+      "word": "赵丽颖与凤行获得爆剧认证",
+      "onboard_time": 1712356991,
+      "rank": 11,
+      "category": "剧集"
     },
     {
       "raw_hot": 281712,
@@ -203,12 +307,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 252579,
+      "num": 252579,
+      "word": "谢帝我要迪士尼全过程",
+      "onboard_time": 1712360716,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 248290,
       "num": 248290,
       "word": "水瓶座就是永远不被定义",
       "onboard_time": 1712329940,
       "rank": 22,
       "category": "情感"
+    },
+    {
+      "raw_hot": 223313,
+      "num": 223313,
+      "word": "高铁上再也不随便跟人换座了",
+      "onboard_time": 1712325500,
+      "rank": 26,
+      "category": "幽默"
     },
     {
       "raw_hot": 221462,
@@ -227,14 +347,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 217340,
-      "num": 217340,
-      "word": "赵丽颖与凤行获得爆剧认证",
-      "onboard_time": 1712356991,
-      "rank": 11,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 212369,
       "num": 212369,
       "word": "声入人心求金主爸爸",
@@ -243,12 +355,28 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 204734,
-      "num": 204734,
-      "word": "高铁上再也不随便跟人换座了",
-      "onboard_time": 1712325500,
+      "raw_hot": 192720,
+      "num": 192720,
+      "word": "明知结局妈妈依然推开了那扇门",
+      "onboard_time": 1712327241,
+      "rank": 14,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 191749,
+      "num": 191749,
+      "word": "导演透露王一博李沁有望二搭",
+      "onboard_time": 1712362275,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 180859,
+      "num": 180859,
+      "word": "与凤行宣璐演技",
+      "onboard_time": 1712361856,
       "rank": 26,
-      "category": "幽默"
+      "category": "剧集"
     },
     {
       "raw_hot": 170967,
@@ -257,6 +385,14 @@
       "onboard_time": 1712332216,
       "rank": 32,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 167782,
+      "num": 167782,
+      "word": "爱奇艺回应追风者直播被指不算热度",
+      "onboard_time": 1712364137,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 167216,
@@ -291,12 +427,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 148435,
+      "num": 148435,
+      "word": "扬州一棵桃树开出了四色花",
+      "onboard_time": 1712360354,
+      "rank": 28,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 146948,
       "num": 134099,
       "word": "王一博要不要擦一下括号",
       "onboard_time": 1712322320,
       "rank": 36,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 143616,
+      "num": 143616,
+      "word": "minji摘眼镜",
+      "onboard_time": 1712364797,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 139359,
@@ -323,12 +475,36 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 133956,
+      "num": 133956,
+      "word": "北大毕业做临时工",
+      "onboard_time": 1712359754,
+      "rank": 41,
+      "category": "情感"
+    },
+    {
       "raw_hot": 132167,
       "num": 132167,
       "word": "拂容君下凡渡劫燃起来了",
       "onboard_time": 1712330719,
       "rank": 37,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 128239,
+      "num": 144737,
+      "word": "我国90%以上森林火灾因人为",
+      "onboard_time": 1712360475,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 126047,
+      "num": 126047,
+      "word": "日本本州东岸发生5.3级地震",
+      "onboard_time": 1712365337,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 125565,
@@ -347,12 +523,20 @@
       "category": "情感"
     },
     {
-      "raw_hot": 118294,
-      "num": 118294,
-      "word": "明知结局妈妈依然推开了那扇门",
-      "onboard_time": 1712327241,
-      "rank": 14,
-      "category": "电影"
+      "raw_hot": 121143,
+      "num": 121143,
+      "word": "凤来沈璃父女相认",
+      "onboard_time": 1712361736,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 117539,
+      "num": 117539,
+      "word": "小米辟谣雷军所乘小米汽车后轮螺丝脱落",
+      "onboard_time": 1712360235,
+      "rank": 41,
+      "category": "汽车"
     },
     {
       "raw_hot": 116868,
@@ -427,6 +611,22 @@
       "category": "情感"
     },
     {
+      "raw_hot": 107480,
+      "num": 107480,
+      "word": "雷军 小米生日快乐",
+      "onboard_time": 1712362036,
+      "rank": 43,
+      "category": "互联网"
+    },
+    {
+      "raw_hot": 103047,
+      "num": 103047,
+      "word": "是谁在怀念2018年的声入人心",
+      "onboard_time": 1712365037,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 102916,
       "num": 102916,
       "word": "缅甸5.6级地震",
@@ -467,20 +667,20 @@
       "category": "科学科普"
     },
     {
-      "raw_hot": 97654,
-      "num": 97654,
-      "word": "女子买问界M7不到20天就充不上电",
-      "onboard_time": 1712359394,
-      "rank": 23,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 91105,
       "num": 91105,
       "word": "王一博龙脊",
       "onboard_time": 1712329760,
       "rank": 49,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 90284,
+      "num": 90284,
+      "word": "告五人现场的一对情侣",
+      "onboard_time": 1712365817,
+      "rank": 48,
+      "category": "电影"
     },
     {
       "raw_hot": 89520,
@@ -523,6 +723,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 62214,
+      "num": 765184,
+      "word": "孩子们将碧空版如愿唱给空军英烈",
+      "onboard_time": 1712325319,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 60653,
       "num": 60653,
       "word": "声音玩具演唱会",
@@ -555,28 +763,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 53451,
-      "num": 53451,
-      "word": "北大毕业做临时工",
-      "onboard_time": 1712359754,
-      "rank": 41,
-      "category": "情感"
-    },
-    {
       "raw_hot": 52394,
       "num": 52394,
       "word": "全国的景区看起来都像有一亿人",
       "onboard_time": 1712353812,
       "rank": 45,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 51249,
-      "num": 765184,
-      "word": "孩子们将碧空版如愿唱给空军英烈",
-      "onboard_time": 1712325319,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 48455,
@@ -593,14 +785,6 @@
       "onboard_time": 1712351591,
       "rank": 44,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 43377,
-      "num": 43377,
-      "word": "甘肃一地旅游火爆无房游客免费住进宿舍",
-      "onboard_time": 1712359995,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 38780,
