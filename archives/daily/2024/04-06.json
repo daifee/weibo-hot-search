@@ -1,6 +1,6 @@
 {
   "startTime": 1712334193790,
-  "endTime": 1712402021970,
+  "endTime": 1712403238800,
   "band_list": [
     {
       "raw_hot": 2169096,
@@ -43,6 +43,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1525911,
+      "num": 1525911,
+      "word": "千万不要买樱花味食物",
+      "onboard_time": 1712398877,
+      "rank": 23,
+      "category": "美食,幽默"
+    },
+    {
       "raw_hot": 1473840,
       "num": 1473840,
       "word": "孙亚龙进抢救室",
@@ -67,6 +75,14 @@
       "category": "游戏,网红"
     },
     {
+      "raw_hot": 1332179,
+      "num": 1332179,
+      "word": "沈近真下线",
+      "onboard_time": 1712400798,
+      "rank": 5,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1316856,
       "num": 1316856,
       "word": "孙俪大提琴一级考出来了",
@@ -83,20 +99,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1283537,
+      "num": 1283537,
+      "word": "放假三天躺了三天",
+      "onboard_time": 1712398877,
+      "rank": 14,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 1261989,
       "num": 436238,
       "word": "兰州大学",
       "onboard_time": 1712379439,
       "rank": 11,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1236955,
-      "num": 1236955,
-      "word": "千万不要买樱花味食物",
-      "onboard_time": 1712398877,
-      "rank": 23,
-      "category": "美食,幽默"
     },
     {
       "raw_hot": 1138233,
@@ -115,27 +131,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1034858,
-      "num": 1034858,
-      "word": "放假三天躺了三天",
-      "onboard_time": 1712398877,
-      "rank": 14,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 1022624,
       "num": 1022624,
       "word": "林更新与凤行杀青哭成狗",
       "onboard_time": 1712385498,
       "rank": 1,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 1002661,
-      "num": 1002661,
-      "word": "沈近真下线",
-      "onboard_time": 1712400798,
-      "rank": 5,
       "category": "剧集"
     },
     {
@@ -459,6 +459,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 513193,
+      "num": 513193,
+      "word": "论文重复率越改越高真的太痛苦了",
+      "onboard_time": 1712398757,
+      "rank": 34,
+      "category": "教育"
+    },
+    {
       "raw_hot": 503652,
       "num": 256064,
       "word": "穿马面裙被男友说丢人",
@@ -585,14 +593,6 @@
       "onboard_time": 1712359995,
       "rank": 48,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 424547,
-      "num": 424547,
-      "word": "论文重复率越改越高真的太痛苦了",
-      "onboard_time": 1712398757,
-      "rank": 34,
-      "category": "教育"
     },
     {
       "raw_hot": 420548,
@@ -755,6 +755,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 345783,
+      "num": 345783,
+      "word": "天水真的有一亿人",
+      "onboard_time": 1712401038,
+      "rank": 26,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 340511,
       "num": 340511,
       "word": "与凤行把番外拍出来了",
@@ -819,6 +827,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 321615,
+      "num": 267077,
+      "word": "果然上班久了人会变恶毒",
+      "onboard_time": 1712401159,
+      "rank": 25,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 318981,
       "num": 318981,
       "word": "一个月给8000做全职妈妈",
@@ -827,8 +843,8 @@
       "category": "情感"
     },
     {
-      "raw_hot": 305618,
-      "num": 305618,
+      "raw_hot": 307324,
+      "num": 307324,
       "word": "Doinb回应复播",
       "onboard_time": 1712400738,
       "rank": 17,
@@ -940,7 +956,7 @@
     },
     {
       "raw_hot": 274930,
-      "num": 253327,
+      "num": 254714,
       "word": "创造营首个海外女团出道",
       "onboard_time": 1712397378,
       "rank": 23,
@@ -952,6 +968,14 @@
       "word": "沈璃买小孩的衣服原因找到了",
       "onboard_time": 1712329099,
       "rank": 19,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 266683,
+      "num": 266683,
+      "word": "与凤行本质上是一个弑神的故事",
+      "onboard_time": 1712402539,
+      "rank": 22,
       "category": "剧集"
     },
     {
@@ -985,6 +1009,14 @@
       "onboard_time": 1712376378,
       "rank": 24,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 257793,
+      "num": 257793,
+      "word": "种地吧后陡门58号草莓首吃",
+      "onboard_time": 1712401459,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 255795,
@@ -1131,6 +1163,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 216813,
+      "num": 187920,
+      "word": "外科专家插吸管",
+      "onboard_time": 1712402119,
+      "rank": 30,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 215581,
       "num": 215581,
       "word": "告五人现场的一对情侣",
@@ -1155,28 +1195,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 207980,
-      "num": 207980,
-      "word": "果然上班久了人会变恶毒",
-      "onboard_time": 1712401159,
-      "rank": 25,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 207765,
       "num": 188196,
       "word": "双相情感障碍和正常人区别",
       "onboard_time": 1712394198,
       "rank": 27,
       "category": "情感"
-    },
-    {
-      "raw_hot": 207510,
-      "num": 207510,
-      "word": "天水真的有一亿人",
-      "onboard_time": 1712401038,
-      "rank": 26,
-      "category": "旅游"
     },
     {
       "raw_hot": 205518,
@@ -1209,6 +1233,14 @@
       "onboard_time": 1712377097,
       "rank": 33,
       "category": "情感"
+    },
+    {
+      "raw_hot": 198158,
+      "num": 198158,
+      "word": "陈楚生上海演唱会",
+      "onboard_time": 1712402717,
+      "rank": 27,
+      "category": "演出"
     },
     {
       "raw_hot": 197296,
@@ -1307,6 +1339,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 186189,
+      "num": 186189,
+      "word": "每次相亲都感觉自己在面试",
+      "onboard_time": 1712401938,
+      "rank": 38,
+      "category": "情感"
+    },
+    {
       "raw_hot": 186125,
       "num": 186125,
       "word": "正告菲方任何侵权伎俩都是徒劳",
@@ -1339,14 +1379,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 182833,
-      "num": 182833,
-      "word": "种地吧后陡门58号草莓首吃",
-      "onboard_time": 1712401459,
-      "rank": 31,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 182749,
       "num": 182749,
       "word": "范丞丞的背",
@@ -1356,7 +1388,7 @@
     },
     {
       "raw_hot": 179508,
-      "num": 182955,
+      "num": 187950,
       "word": "福宝",
       "onboard_time": 1712400497,
       "rank": 29,
@@ -1379,12 +1411,36 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 175887,
+      "num": 175887,
+      "word": "高速免收过路费的魅力不小啊",
+      "onboard_time": 1712402778,
+      "rank": 34,
+      "category": "情感"
+    },
+    {
       "raw_hot": 175819,
       "num": 215730,
       "word": "如何查询手机号绑定的APP账号",
       "onboard_time": 1712373137,
       "rank": 34,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 174613,
+      "num": 174613,
+      "word": "考上研发现自己被家里长辈屏蔽了",
+      "onboard_time": 1712403197,
+      "rank": 35,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 174256,
+      "num": 174256,
+      "word": "在摩尔庄园看到十五年前的留言",
+      "onboard_time": 1712399238,
+      "rank": 42,
+      "category": "游戏"
     },
     {
       "raw_hot": 173193,
@@ -1444,7 +1500,7 @@
     },
     {
       "raw_hot": 166405,
-      "num": 194334,
+      "num": 268950,
       "word": "中国海警回应菲律宾侵闯鲎藤礁",
       "onboard_time": 1712398578,
       "rank": 49,
@@ -1489,6 +1545,14 @@
       "onboard_time": 1712397317,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 161963,
+      "num": 161963,
+      "word": "Cat见到活的大司命了",
+      "onboard_time": 1712402598,
+      "rank": 38,
+      "category": "电竞"
     },
     {
       "raw_hot": 160707,
@@ -1563,28 +1627,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 151563,
-      "num": 151563,
-      "word": "在摩尔庄园看到十五年前的留言",
-      "onboard_time": 1712399238,
-      "rank": 42,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 150923,
       "num": 141969,
       "word": "承欢记片尾曲MV",
       "onboard_time": 1712386577,
       "rank": 33,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 150903,
-      "num": 150903,
-      "word": "每次相亲都感觉自己在面试",
-      "onboard_time": 1712401938,
-      "rank": 38,
-      "category": "情感"
     },
     {
       "raw_hot": 150152,
@@ -1745,6 +1793,14 @@
       "onboard_time": 1712377638,
       "rank": 45,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 134971,
+      "num": 134971,
+      "word": "黑眼圈的出现是身体发出的暗示",
+      "onboard_time": 1712403197,
+      "rank": 45,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 134866,
@@ -2276,7 +2332,7 @@
     },
     {
       "raw_hot": 89433,
-      "num": 1260217,
+      "num": 1381030,
       "word": "假期返程安全行车攻略",
       "onboard_time": 1712394318,
       "rank": 2,
@@ -2289,6 +2345,14 @@
       "onboard_time": 1712336714,
       "rank": 40,
       "category": "电影"
+    },
+    {
+      "raw_hot": 82854,
+      "num": 118134,
+      "word": "日本天皇独生女成为月薪7千的打工人",
+      "onboard_time": 1712403077,
+      "rank": 49,
+      "category": "国外时政"
     },
     {
       "raw_hot": 75444,

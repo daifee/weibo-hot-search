@@ -1,6 +1,6 @@
 {
   "startTime": 1711902044401,
-  "endTime": 1712402021970,
+  "endTime": 1712403238800,
   "band_list": [
     {
       "raw_hot": 16874674,
@@ -603,6 +603,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 1525911,
+      "num": 1525911,
+      "word": "千万不要买樱花味食物",
+      "onboard_time": 1712398877,
+      "rank": 23,
+      "category": "美食,幽默"
+    },
+    {
       "raw_hot": 1519616,
       "num": 1519616,
       "word": "zara包",
@@ -795,6 +803,14 @@
       "category": "游戏,网红"
     },
     {
+      "raw_hot": 1332179,
+      "num": 1332179,
+      "word": "沈近真下线",
+      "onboard_time": 1712400798,
+      "rank": 5,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1319767,
       "num": 1319767,
       "word": "警方回应找王婆说媒已婚男妻子疑轻生",
@@ -883,6 +899,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1283537,
+      "num": 1283537,
+      "word": "放假三天躺了三天",
+      "onboard_time": 1712398877,
+      "rank": 14,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 1278624,
       "num": 653596,
       "word": "雷军能不能生产一下卫生巾",
@@ -953,14 +977,6 @@
       "onboard_time": 1712044218,
       "rank": 1,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1236955,
-      "num": 1236955,
-      "word": "千万不要买樱花味食物",
-      "onboard_time": 1712398877,
-      "rank": 23,
-      "category": "美食,幽默"
     },
     {
       "raw_hot": 1234442,
@@ -1243,14 +1259,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1034858,
-      "num": 1034858,
-      "word": "放假三天躺了三天",
-      "onboard_time": 1712398877,
-      "rank": 14,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 1033457,
       "num": 1033457,
       "word": "代号鸢 跑路",
@@ -1369,14 +1377,6 @@
       "onboard_time": 1712304978,
       "rank": 24,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1002661,
-      "num": 1002661,
-      "word": "沈近真下线",
-      "onboard_time": 1712400798,
-      "rank": 5,
-      "category": "剧集"
     },
     {
       "raw_hot": 999550,
@@ -3811,6 +3811,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 513193,
+      "num": 513193,
+      "word": "论文重复率越改越高真的太痛苦了",
+      "onboard_time": 1712398757,
+      "rank": 34,
+      "category": "教育"
+    },
+    {
       "raw_hot": 513140,
       "num": 513140,
       "word": "福宝入住神树坪基地",
@@ -4729,14 +4737,6 @@
       "onboard_time": 1712301797,
       "rank": 32,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 424547,
-      "num": 424547,
-      "word": "论文重复率越改越高真的太痛苦了",
-      "onboard_time": 1712398757,
-      "rank": 34,
-      "category": "教育"
     },
     {
       "raw_hot": 424348,
@@ -5811,6 +5811,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 345783,
+      "num": 345783,
+      "word": "天水真的有一亿人",
+      "onboard_time": 1712401038,
+      "rank": 26,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 345074,
       "num": 473946,
       "word": "减轻教师非教育教学负担",
@@ -6171,6 +6179,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 321615,
+      "num": 267077,
+      "word": "果然上班久了人会变恶毒",
+      "onboard_time": 1712401159,
+      "rank": 25,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 321341,
       "num": 321341,
       "word": "沈璃吻了个蚌",
@@ -6419,6 +6435,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 307324,
+      "num": 307324,
+      "word": "Doinb回应复播",
+      "onboard_time": 1712400738,
+      "rank": 17,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 307236,
       "num": 307236,
       "word": "华妃2.0",
@@ -6473,14 +6497,6 @@
       "onboard_time": 1711891159,
       "rank": 26,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 305618,
-      "num": 305618,
-      "word": "Doinb回应复播",
-      "onboard_time": 1712400738,
-      "rank": 17,
-      "category": "电竞"
     },
     {
       "raw_hot": 305591,
@@ -7108,7 +7124,7 @@
     },
     {
       "raw_hot": 274930,
-      "num": 253327,
+      "num": 254714,
       "word": "创造营首个海外女团出道",
       "onboard_time": 1712397378,
       "rank": 23,
@@ -7304,6 +7320,14 @@
       "word": "恋爱让他谈 三界我来守",
       "onboard_time": 1712243360,
       "rank": 34,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 266683,
+      "num": 266683,
+      "word": "与凤行本质上是一个弑神的故事",
+      "onboard_time": 1712402539,
+      "rank": 22,
       "category": "剧集"
     },
     {
@@ -7585,6 +7609,14 @@
       "onboard_time": 1712153123,
       "rank": 30,
       "category": "电影"
+    },
+    {
+      "raw_hot": 257793,
+      "num": 257793,
+      "word": "种地吧后陡门58号草莓首吃",
+      "onboard_time": 1712401459,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 257165,
@@ -8947,6 +8979,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 216813,
+      "num": 187920,
+      "word": "外科专家插吸管",
+      "onboard_time": 1712402119,
+      "rank": 30,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 216633,
       "num": 216633,
       "word": "减肚子的一个简单办法",
@@ -9307,14 +9347,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 207980,
-      "num": 207980,
-      "word": "果然上班久了人会变恶毒",
-      "onboard_time": 1712401159,
-      "rank": 25,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 207917,
       "num": 207917,
       "word": "茅台2023年净利润747.3亿",
@@ -9345,14 +9377,6 @@
       "onboard_time": 1712286077,
       "rank": 32,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 207510,
-      "num": 207510,
-      "word": "天水真的有一亿人",
-      "onboard_time": 1712401038,
-      "rank": 26,
-      "category": "旅游"
     },
     {
       "raw_hot": 207253,
@@ -9833,6 +9857,14 @@
       "onboard_time": 1712056880,
       "rank": 27,
       "category": "体育"
+    },
+    {
+      "raw_hot": 198158,
+      "num": 198158,
+      "word": "陈楚生上海演唱会",
+      "onboard_time": 1712402717,
+      "rank": 27,
+      "category": "演出"
     },
     {
       "raw_hot": 198124,
@@ -10747,6 +10779,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 186189,
+      "num": 186189,
+      "word": "每次相亲都感觉自己在面试",
+      "onboard_time": 1712401938,
+      "rank": 38,
+      "category": "情感"
+    },
+    {
       "raw_hot": 186125,
       "num": 186125,
       "word": "正告菲方任何侵权伎俩都是徒劳",
@@ -10905,14 +10945,6 @@
       "onboard_time": 1712331077,
       "rank": 36,
       "category": "情感"
-    },
-    {
-      "raw_hot": 182833,
-      "num": 182833,
-      "word": "种地吧后陡门58号草莓首吃",
-      "onboard_time": 1712401459,
-      "rank": 31,
-      "category": "综艺"
     },
     {
       "raw_hot": 182760,
@@ -11291,6 +11323,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 175887,
+      "num": 175887,
+      "word": "高速免收过路费的魅力不小啊",
+      "onboard_time": 1712402778,
+      "rank": 34,
+      "category": "情感"
+    },
+    {
       "raw_hot": 175819,
       "num": 215730,
       "word": "如何查询手机号绑定的APP账号",
@@ -11371,12 +11411,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 174613,
+      "num": 174613,
+      "word": "考上研发现自己被家里长辈屏蔽了",
+      "onboard_time": 1712403197,
+      "rank": 35,
+      "category": "情感"
+    },
+    {
       "raw_hot": 174402,
       "num": 174402,
       "word": "王一博网球场自拍",
       "onboard_time": 1712033181,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 174256,
+      "num": 174256,
+      "word": "在摩尔庄园看到十五年前的留言",
+      "onboard_time": 1712399238,
+      "rank": 42,
+      "category": "游戏"
     },
     {
       "raw_hot": 174229,
@@ -11772,7 +11828,7 @@
     },
     {
       "raw_hot": 166405,
-      "num": 194334,
+      "num": 268950,
       "word": "中国海警回应菲律宾侵闯鲎藤礁",
       "onboard_time": 1712398578,
       "rank": 49,
@@ -12009,6 +12065,14 @@
       "onboard_time": 1712329819,
       "rank": 48,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 161963,
+      "num": 161963,
+      "word": "Cat见到活的大司命了",
+      "onboard_time": 1712402598,
+      "rank": 38,
+      "category": "电竞"
     },
     {
       "raw_hot": 161826,
@@ -12747,14 +12811,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 151563,
-      "num": 151563,
-      "word": "在摩尔庄园看到十五年前的留言",
-      "onboard_time": 1712399238,
-      "rank": 42,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 151498,
       "num": 151498,
       "word": "当爹味年上男故意让你吃醋",
@@ -12801,14 +12857,6 @@
       "onboard_time": 1712386577,
       "rank": 33,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 150903,
-      "num": 150903,
-      "word": "每次相亲都感觉自己在面试",
-      "onboard_time": 1712401938,
-      "rank": 38,
-      "category": "情感"
     },
     {
       "raw_hot": 150691,
@@ -13889,6 +13937,14 @@
       "onboard_time": 1712316858,
       "rank": 47,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 134971,
+      "num": 134971,
+      "word": "黑眼圈的出现是身体发出的暗示",
+      "onboard_time": 1712403197,
+      "rank": 45,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 134795,
@@ -15340,7 +15396,7 @@
     },
     {
       "raw_hot": 89433,
-      "num": 1260217,
+      "num": 1381030,
       "word": "假期返程安全行车攻略",
       "onboard_time": 1712394318,
       "rank": 2,
@@ -15393,6 +15449,14 @@
       "onboard_time": 1712336714,
       "rank": 40,
       "category": "电影"
+    },
+    {
+      "raw_hot": 82854,
+      "num": 118134,
+      "word": "日本天皇独生女成为月薪7千的打工人",
+      "onboard_time": 1712403077,
+      "rank": 49,
+      "category": "国外时政"
     },
     {
       "raw_hot": 82606,

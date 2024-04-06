@@ -1,0 +1,410 @@
+{
+  "runTime": 1712403238800,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1525911,
+        "num": 1525911,
+        "word": "千万不要买樱花味食物",
+        "onboard_time": 1712398877,
+        "rank": 0,
+        "category": "美食,幽默"
+      },
+      {
+        "raw_hot": 1448846,
+        "num": 1448846,
+        "word": "林更新回应和赵丽颖三搭",
+        "onboard_time": 1712399777,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 63571,
+        "num": 1381030,
+        "word": "假期返程安全行车攻略",
+        "onboard_time": 1712394318,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1332179,
+        "num": 1332179,
+        "word": "沈近真下线",
+        "onboard_time": 1712400798,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1283537,
+        "num": 1283537,
+        "word": "放假三天躺了三天",
+        "onboard_time": 1712398877,
+        "rank": 4,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 914025,
+        "num": 914025,
+        "word": "孙亚龙进抢救室",
+        "onboard_time": 1712397017,
+        "rank": 5,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 513193,
+        "num": 513193,
+        "word": "论文重复率越改越高真的太痛苦了",
+        "onboard_time": 1712398757,
+        "rank": 6,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 508322,
+        "num": 508322,
+        "word": "赵奕欢看穿纪凌尘",
+        "onboard_time": 1712395517,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 211327,
+        "num": 451661,
+        "word": "淄博这个赛季还是强得可怕",
+        "onboard_time": 1712399418,
+        "rank": 8,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 255953,
+        "num": 440278,
+        "word": "54岁老板当主播日进百万",
+        "onboard_time": 1712397017,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 765772,
+        "num": 435472,
+        "word": "兰大回应虐猫考生进调剂名单",
+        "onboard_time": 1712391978,
+        "rank": 10,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 430358,
+        "num": 430358,
+        "word": "林更新与凤行杀青哭成狗",
+        "onboard_time": 1712385498,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 345783,
+        "num": 345783,
+        "word": "天水真的有一亿人",
+        "onboard_time": 1712401038,
+        "rank": 12,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 307324,
+        "num": 307324,
+        "word": "Doinb回应复播",
+        "onboard_time": 1712400738,
+        "rank": 13,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 304523,
+        "num": 304523,
+        "word": "范丞丞工作室回应争议",
+        "onboard_time": 1712389938,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 287692,
+        "num": 287692,
+        "word": "赵丽颖好爱她的每一个角色",
+        "onboard_time": 1712392818,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 317850,
+        "num": 282292,
+        "word": "林更新7天涨粉31万",
+        "onboard_time": 1712400319,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 270080,
+        "num": 270080,
+        "word": "甘草片和红药水为什么买不到了",
+        "onboard_time": 1712392878,
+        "rank": 17,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 203619,
+        "num": 269296,
+        "word": "梅西赛后走进对手更衣室大声喊叫",
+        "onboard_time": 1712395278,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 147611,
+        "num": 268950,
+        "word": "中国海警回应菲律宾侵闯鲎藤礁",
+        "onboard_time": 1712398578,
+        "rank": 19,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 441118,
+        "num": 267979,
+        "word": "女生肝脏不好的八大表现",
+        "onboard_time": 1712397496,
+        "rank": 20,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 321615,
+        "num": 267077,
+        "word": "果然上班久了人会变恶毒",
+        "onboard_time": 1712401159,
+        "rank": 21,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 266683,
+        "num": 266683,
+        "word": "与凤行本质上是一个弑神的故事",
+        "onboard_time": 1712402539,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 257793,
+        "num": 257793,
+        "word": "种地吧后陡门58号草莓首吃",
+        "onboard_time": 1712401459,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 254714,
+        "num": 254714,
+        "word": "创造营首个海外女团出道",
+        "onboard_time": 1712397378,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 234162,
+        "num": 234162,
+        "word": "徐海乔有效客串",
+        "onboard_time": 1712395337,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 225751,
+        "num": 225751,
+        "word": "吴宣仪认证自己很姬",
+        "onboard_time": 1712383217,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 198158,
+        "num": 198158,
+        "word": "陈楚生上海演唱会",
+        "onboard_time": 1712402717,
+        "rank": 27,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 170930,
+        "num": 189831,
+        "word": "考上上海研究生却开心不起来",
+        "onboard_time": 1712387718,
+        "rank": 28,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 131992,
+        "num": 187950,
+        "word": "福宝",
+        "onboard_time": 1712400497,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 216813,
+        "num": 187920,
+        "word": "外科专家插吸管",
+        "onboard_time": 1712402119,
+        "rank": 30,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 186189,
+        "num": 186189,
+        "word": "每次相亲都感觉自己在面试",
+        "onboard_time": 1712401938,
+        "rank": 31,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 178015,
+        "num": 178015,
+        "word": "Doinb重返直播间",
+        "onboard_time": 1712393718,
+        "rank": 32,
+        "category": "电竞,网红"
+      },
+      {
+        "raw_hot": 177602,
+        "num": 177602,
+        "word": "追风者",
+        "onboard_time": 1712401819,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 175887,
+        "num": 175887,
+        "word": "高速免收过路费的魅力不小啊",
+        "onboard_time": 1712402778,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 174613,
+        "num": 174613,
+        "word": "考上研发现自己被家里长辈屏蔽了",
+        "onboard_time": 1712403197,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 174256,
+        "num": 174256,
+        "word": "在摩尔庄园看到十五年前的留言",
+        "onboard_time": 1712399238,
+        "rank": 36,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 164176,
+        "num": 164176,
+        "word": "贾静雯最新状态",
+        "onboard_time": 1712397077,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 161963,
+        "num": 161963,
+        "word": "Cat见到活的大司命了",
+        "onboard_time": 1712402598,
+        "rank": 38,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 88710,
+        "num": 160142,
+        "word": "谷爱凌 批判性好奇心",
+        "onboard_time": 1712398157,
+        "rank": 39,
+        "category": "体育,网红"
+      },
+      {
+        "raw_hot": 159683,
+        "num": 159683,
+        "word": "BoA 可以隐退了吧",
+        "onboard_time": 1712384898,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 151594,
+        "num": 151594,
+        "word": "微信式恋爱",
+        "onboard_time": 1712394258,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 144778,
+        "num": 144778,
+        "word": "腾讯给与凤行配的标题",
+        "onboard_time": 1712384657,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 142345,
+        "num": 142345,
+        "word": "迪士尼偶遇刘宇宁",
+        "onboard_time": 1712397258,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 139289,
+        "num": 139289,
+        "word": "存钱有必要隐瞒身边人吗",
+        "onboard_time": 1712399717,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 134971,
+        "num": 134971,
+        "word": "黑眼圈的出现是身体发出的暗示",
+        "onboard_time": 1712403197,
+        "rank": 45,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 132580,
+        "num": 132580,
+        "word": "穿马面裙被男友说丢人",
+        "onboard_time": 1712391978,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 127561,
+        "num": 127561,
+        "word": "身价过亿的有钱人生活",
+        "onboard_time": 1712394857,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 118488,
+        "num": 118488,
+        "word": "为什么有人只睡4小时也很精神",
+        "onboard_time": 1712388797,
+        "rank": 48,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 82854,
+        "num": 118134,
+        "word": "日本天皇独生女成为月薪7千的打工人",
+        "onboard_time": 1712403077,
+        "rank": 49,
+        "category": "国外时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#加快构建以先进制造业为支撑的现代化产业体系#"
+    }
+  }
+}
