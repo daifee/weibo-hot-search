@@ -1,6 +1,6 @@
 {
   "startTime": 1712420539476,
-  "endTime": 1712435737524,
+  "endTime": 1712438193657,
   "band_list": [
     {
       "raw_hot": 1243767,
@@ -515,6 +515,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 29479,
+      "num": 29479,
+      "word": "丁程鑫泼水误伤了何炅",
+      "onboard_time": 1712435951,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 27310,
       "num": 20528,
       "word": "松本润近照",
@@ -537,6 +545,14 @@
       "onboard_time": 1712430970,
       "rank": 37,
       "category": "演出"
+    },
+    {
+      "raw_hot": 20588,
+      "num": 20588,
+      "word": "吵了一辈子的爸妈在晚年爱上彼此",
+      "onboard_time": 1712433790,
+      "rank": 38,
+      "category": "情感"
     },
     {
       "raw_hot": 18221,
@@ -563,12 +579,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 15512,
-      "num": 18300,
-      "word": "吵了一辈子的爸妈在晚年爱上彼此",
-      "onboard_time": 1712433790,
-      "rank": 38,
-      "category": "情感"
+      "raw_hot": 15208,
+      "num": 15208,
+      "word": "电视剧品质盛典",
+      "onboard_time": 1712437750,
+      "rank": 43,
+      "category": "剧集"
     },
     {
       "raw_hot": 14707,
