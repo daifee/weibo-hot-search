@@ -1,6 +1,6 @@
 {
   "startTime": 1711902044401,
-  "endTime": 1712445430693,
+  "endTime": 1712446440942,
   "band_list": [
     {
       "raw_hot": 16874674,
@@ -1731,6 +1731,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 871912,
+      "num": 346544,
+      "word": "日本天皇独生女成为月薪7千的打工人",
+      "onboard_time": 1712403077,
+      "rank": 49,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 869845,
       "num": 869845,
       "word": "一百家站姐发了陈都灵",
@@ -2129,14 +2137,6 @@
       "onboard_time": 1712108660,
       "rank": 8,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 773891,
-      "num": 346544,
-      "word": "日本天皇独生女成为月薪7千的打工人",
-      "onboard_time": 1712403077,
-      "rank": 49,
-      "category": "国外时政"
     },
     {
       "raw_hot": 769672,
@@ -3947,6 +3947,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 519154,
+      "num": 519154,
+      "word": "这4种食物是尿毒症的加速器",
+      "onboard_time": 1712411658,
+      "rank": 45,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 518839,
       "num": 518839,
       "word": "未来婆婆给的红包是百里挑一",
@@ -5307,14 +5315,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 401502,
-      "num": 401502,
-      "word": "这4种食物是尿毒症的加速器",
-      "onboard_time": 1712411658,
-      "rank": 45,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 400233,
       "num": 293487,
       "word": "男朋友的小姨没有边际感",
@@ -5449,6 +5449,14 @@
       "onboard_time": 1712044939,
       "rank": 27,
       "category": "美食,健康医疗"
+    },
+    {
+      "raw_hot": 393602,
+      "num": 393602,
+      "word": "你敢不敢去摸一下那只两脚兽",
+      "onboard_time": 1712422095,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 392792,
@@ -5777,6 +5785,14 @@
       "onboard_time": 1711930038,
       "rank": 22,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 371169,
+      "num": 371169,
+      "word": "淄博小哥让人心疼价目表让人心动",
+      "onboard_time": 1712422634,
+      "rank": 9,
+      "category": "社会新闻,旅游"
     },
     {
       "raw_hot": 371031,
@@ -6627,14 +6643,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 315581,
-      "num": 315581,
-      "word": "淄博小哥让人心疼价目表让人心动",
-      "onboard_time": 1712422634,
-      "rank": 9,
-      "category": "社会新闻,旅游"
-    },
-    {
       "raw_hot": 315454,
       "num": 315454,
       "word": "为什么你睡醒后腰酸背痛",
@@ -6921,14 +6929,6 @@
       "onboard_time": 1712224998,
       "rank": 30,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 301701,
-      "num": 301701,
-      "word": "你敢不敢去摸一下那只两脚兽",
-      "onboard_time": 1712422095,
-      "rank": 30,
-      "category": "幽默"
     },
     {
       "raw_hot": 301264,
@@ -10187,6 +10187,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 201240,
+      "num": 201240,
+      "word": "王鹤棣潮牌实体店开业",
+      "onboard_time": 1712442853,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 201232,
       "num": 201232,
       "word": "愚人节表白",
@@ -11723,6 +11731,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 180541,
+      "num": 180541,
+      "word": "商品房以旧换新政策落地",
+      "onboard_time": 1712445496,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 180452,
       "num": 180452,
       "word": "小猫咪的已读不回",
@@ -12443,6 +12459,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 167553,
+      "num": 167553,
+      "word": "三代日本皇室女性都曾患上心理疾病",
+      "onboard_time": 1712430730,
+      "rank": 18,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 167430,
       "num": 167430,
       "word": "双子座迷人的反差感",
@@ -12705,6 +12729,14 @@
       "onboard_time": 1712069958,
       "rank": 38,
       "category": "电竞,网红"
+    },
+    {
+      "raw_hot": 162655,
+      "num": 146148,
+      "word": "向佐撩裙子差点呼宁静脸上",
+      "onboard_time": 1712445435,
+      "rank": 22,
+      "category": "综艺"
     },
     {
       "raw_hot": 162413,
@@ -13171,14 +13203,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 156251,
-      "num": 156251,
-      "word": "王鹤棣潮牌实体店开业",
-      "onboard_time": 1712442853,
-      "rank": 14,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 156185,
       "num": 156185,
       "word": "东莞一护理院发生火灾致3死10伤",
@@ -13412,7 +13436,7 @@
     },
     {
       "raw_hot": 152854,
-      "num": 105140,
+      "num": 131854,
       "word": "林更新周冬雨军服旧照",
       "onboard_time": 1712420236,
       "rank": 41,
@@ -13969,14 +13993,6 @@
       "onboard_time": 1712035640,
       "rank": 38,
       "category": "情感"
-    },
-    {
-      "raw_hot": 146146,
-      "num": 146146,
-      "word": "三代日本皇室女性都曾患上心理疾病",
-      "onboard_time": 1712430730,
-      "rank": 18,
-      "category": "国外时政"
     },
     {
       "raw_hot": 145866,
@@ -15371,6 +15387,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 119122,
+      "num": 119122,
+      "word": "湖人战胜骑士",
+      "onboard_time": 1712444894,
+      "rank": 22,
+      "category": "体育"
+    },
+    {
       "raw_hot": 119058,
       "num": 457538,
       "word": "首批车主已经提到小米SU7",
@@ -15699,19 +15723,19 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 111455,
+      "num": 111455,
+      "word": "创造营亚洲排名",
+      "onboard_time": 1712446154,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 111399,
       "num": 111399,
       "word": "勇士六连胜",
       "onboard_time": 1712286077,
       "rank": 46,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 111225,
-      "num": 111225,
-      "word": "湖人战胜骑士",
-      "onboard_time": 1712444894,
-      "rank": 22,
       "category": "体育"
     },
     {
@@ -15929,6 +15953,14 @@
       "onboard_time": 1712275397,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 101173,
+      "num": 101173,
+      "word": "你手里的黄金要选择变现吗",
+      "onboard_time": 1712445135,
+      "rank": 38,
+      "category": "财经"
     },
     {
       "raw_hot": 100914,
@@ -16179,6 +16211,22 @@
       "category": "财经,汽车"
     },
     {
+      "raw_hot": 91632,
+      "num": 91632,
+      "word": "布莱顿0比3阿森纳",
+      "onboard_time": 1712445614,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 90935,
+      "num": 90935,
+      "word": "吵了一辈子的爸妈在晚年爱上彼此",
+      "onboard_time": 1712433790,
+      "rank": 38,
+      "category": "情感"
+    },
+    {
       "raw_hot": 90771,
       "num": 90771,
       "word": "黄磊黄渤张艺兴面馆一起吃面",
@@ -16203,6 +16251,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 88826,
+      "num": 88826,
+      "word": "新疆17岁小伙要追赶苏炳添",
+      "onboard_time": 1712424493,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 86755,
       "num": 511977,
       "word": "课本中的春天",
@@ -16217,6 +16273,14 @@
       "onboard_time": 1712010734,
       "rank": 49,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 86089,
+      "num": 86089,
+      "word": "王心凌椅子舞好性感",
+      "onboard_time": 1712444773,
+      "rank": 36,
+      "category": "演出"
     },
     {
       "raw_hot": 84099,
@@ -16235,20 +16299,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 83945,
+      "num": 83945,
+      "word": "钎城哭了",
+      "onboard_time": 1712445855,
+      "rank": 36,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 83902,
       "num": 83902,
       "word": "C罗连场帽子戏法",
       "onboard_time": 1712100376,
       "rank": 35,
       "category": "体育"
-    },
-    {
-      "raw_hot": 83682,
-      "num": 83682,
-      "word": "吵了一辈子的爸妈在晚年爱上彼此",
-      "onboard_time": 1712433790,
-      "rank": 38,
-      "category": "情感"
     },
     {
       "raw_hot": 83254,
@@ -16371,6 +16435,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 73301,
+      "num": 73301,
+      "word": "向佐硬控吴镇宇三秒钟",
+      "onboard_time": 1712446276,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 73121,
       "num": 73121,
       "word": "这狗能处自己出去谈客户",
@@ -16411,6 +16483,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 71389,
+      "num": 71389,
+      "word": "松本润近照",
+      "onboard_time": 1712432831,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 71351,
       "num": 838133,
       "word": "七年雄安拔节生长",
@@ -16428,7 +16508,7 @@
     },
     {
       "raw_hot": 70631,
-      "num": 42697,
+      "num": 50356,
       "word": "王铮亮录制6期被抓5次",
       "onboard_time": 1712431031,
       "rank": 13,
@@ -16441,14 +16521,6 @@
       "onboard_time": 1712004850,
       "rank": 32,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 69115,
-      "num": 69115,
-      "word": "新疆17岁小伙要追赶苏炳添",
-      "onboard_time": 1712424493,
-      "rank": 39,
-      "category": "体育"
     },
     {
       "raw_hot": 67405,
@@ -16587,14 +16659,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 59141,
-      "num": 59141,
-      "word": "松本润近照",
-      "onboard_time": 1712432831,
-      "rank": 22,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 59121,
       "num": 59121,
       "word": "被地铁口的花海惊艳到了",
@@ -16648,6 +16712,14 @@
       "word": "CBA季后赛晋级球队确定",
       "onboard_time": 1711902258,
       "rank": 49,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 56662,
+      "num": 56662,
+      "word": "湖人四连胜",
+      "onboard_time": 1712445855,
+      "rank": 46,
       "category": "体育"
     },
     {
@@ -16705,14 +16777,6 @@
       "onboard_time": 1712186053,
       "rank": 46,
       "category": "财经"
-    },
-    {
-      "raw_hot": 54408,
-      "num": 54408,
-      "word": "王心凌椅子舞好性感",
-      "onboard_time": 1712444773,
-      "rank": 36,
-      "category": "演出"
     },
     {
       "raw_hot": 54194,
@@ -16787,6 +16851,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 50366,
+      "num": 50366,
+      "word": "海登海姆3比2拜仁",
+      "onboard_time": 1712446276,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 50331,
       "num": 47074,
       "word": "YG与HYBE的歌曲拼出JYP的感觉",
@@ -16817,14 +16889,6 @@
       "onboard_time": 1712359634,
       "rank": 45,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 48068,
-      "num": 48068,
-      "word": "你手里的黄金要选择变现吗",
-      "onboard_time": 1712445135,
-      "rank": 38,
-      "category": "财经"
     },
     {
       "raw_hot": 48006,
