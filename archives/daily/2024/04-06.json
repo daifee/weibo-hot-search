@@ -1,6 +1,6 @@
 {
   "startTime": 1712334193790,
-  "endTime": 1712370156809,
+  "endTime": 1712370840362,
   "band_list": [
     {
       "raw_hot": 1713312,
@@ -12,15 +12,15 @@
     },
     {
       "raw_hot": 1335101,
-      "num": 407829,
+      "num": 420840,
       "word": "某幻 吴秋怡",
       "onboard_time": 1712360835,
       "rank": 10,
       "category": "游戏,网红"
     },
     {
-      "raw_hot": 1251963,
-      "num": 1251963,
+      "raw_hot": 1316856,
+      "num": 1316856,
       "word": "孙俪大提琴一级考出来了",
       "onboard_time": 1712367137,
       "rank": 0,
@@ -107,6 +107,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 586077,
+      "num": 586077,
+      "word": "李沁千金回国妆",
+      "onboard_time": 1712367857,
+      "rank": 25,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 570044,
       "num": 570044,
       "word": "爱奇艺在干嘛",
@@ -129,6 +137,14 @@
       "onboard_time": 1712339653,
       "rank": 25,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 527306,
+      "num": 173952,
+      "word": "以色列叫停全体作战部队休假",
+      "onboard_time": 1712369839,
+      "rank": 30,
+      "category": "国外时政"
     },
     {
       "raw_hot": 526643,
@@ -163,20 +179,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 485235,
+      "num": 485235,
+      "word": "宝宝在爸爸怀里哭唱世上只有妈妈好",
+      "onboard_time": 1712368518,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 479829,
       "num": 479829,
       "word": "好看的人长得都很高清",
       "onboard_time": 1712312599,
       "rank": 11,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 477172,
-      "num": 477172,
-      "word": "李沁千金回国妆",
-      "onboard_time": 1712367857,
-      "rank": 25,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 464705,
@@ -203,19 +219,19 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 441447,
+      "num": 441447,
+      "word": "广州暴雨",
+      "onboard_time": 1712369656,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 425955,
       "num": 425955,
       "word": "甘肃一地旅游火爆无房游客免费住进宿舍",
       "onboard_time": 1712359995,
       "rank": 48,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 416501,
-      "num": 416501,
-      "word": "宝宝在爸爸怀里哭唱世上只有妈妈好",
-      "onboard_time": 1712368518,
-      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -291,6 +307,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 312506,
+      "num": 165399,
+      "word": "安宰贤离婚梗",
+      "onboard_time": 1712370016,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 299076,
       "num": 299076,
       "word": "王力宏临沂",
@@ -308,7 +332,7 @@
     },
     {
       "raw_hot": 292688,
-      "num": 218554,
+      "num": 250232,
       "word": "一块热毛巾差点导致截肢",
       "onboard_time": 1712367078,
       "rank": 21,
@@ -321,6 +345,14 @@
       "onboard_time": 1712329699,
       "rank": 18,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 284001,
+      "num": 284001,
+      "word": "马斯克称将对X上的成人内容大清洗",
+      "onboard_time": 1712369958,
+      "rank": 24,
+      "category": "互联网"
     },
     {
       "raw_hot": 283579,
@@ -347,19 +379,19 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 262271,
+      "num": 262271,
+      "word": "日本本州东岸发生5.3级地震",
+      "onboard_time": 1712365337,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 260183,
       "num": 260183,
       "word": "男子结婚37年法定妻子竟是弟妹",
       "onboard_time": 1712321959,
       "rank": 28,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 255298,
-      "num": 255298,
-      "word": "日本本州东岸发生5.3级地震",
-      "onboard_time": 1712365337,
-      "rank": 38,
       "category": "社会新闻"
     },
     {
@@ -377,14 +409,6 @@
       "onboard_time": 1712329940,
       "rank": 22,
       "category": "情感"
-    },
-    {
-      "raw_hot": 223494,
-      "num": 173952,
-      "word": "以色列叫停全体作战部队休假",
-      "onboard_time": 1712369839,
-      "rank": 30,
-      "category": "国外时政"
     },
     {
       "raw_hot": 223313,
@@ -435,6 +459,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 200015,
+      "num": 200015,
+      "word": "你好星期六全员种花",
+      "onboard_time": 1712370617,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 192720,
       "num": 192720,
       "word": "明知结局妈妈依然推开了那扇门",
@@ -443,28 +475,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 191274,
-      "num": 191274,
-      "word": "广州暴雨",
-      "onboard_time": 1712369656,
-      "rank": 23,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 189965,
       "num": 189965,
       "word": "与凤行宣璐演技",
       "onboard_time": 1712361856,
       "rank": 26,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 183449,
-      "num": 183449,
-      "word": "马斯克称将对X上的成人内容大清洗",
-      "onboard_time": 1712369958,
-      "rank": 24,
-      "category": "互联网"
     },
     {
       "raw_hot": 171945,
@@ -497,6 +513,14 @@
       "onboard_time": 1712326939,
       "rank": 31,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 158456,
+      "num": 174267,
+      "word": "天水旅游热度暴涨20倍",
+      "onboard_time": 1712369598,
+      "rank": 29,
+      "category": "旅游"
     },
     {
       "raw_hot": 153012,
@@ -545,14 +569,6 @@
       "onboard_time": 1712364797,
       "rank": 30,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 140472,
-      "num": 174267,
-      "word": "天水旅游热度暴涨20倍",
-      "onboard_time": 1712369598,
-      "rank": 29,
-      "category": "旅游"
     },
     {
       "raw_hot": 139359,
@@ -611,16 +627,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 127761,
-      "num": 127761,
-      "word": "安宰贤离婚梗",
-      "onboard_time": 1712370016,
-      "rank": 38,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 125872,
-      "num": 125872,
+      "raw_hot": 126616,
+      "num": 126616,
       "word": "凤来结局",
       "onboard_time": 1712368997,
       "rank": 41,
@@ -819,6 +827,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 100449,
+      "num": 100449,
+      "word": "黄冠亨 掌管水壶的神",
+      "onboard_time": 1712370737,
+      "rank": 49,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 100072,
       "num": 100072,
       "word": "詹姆斯儿子将参加2024NBA选秀",
@@ -857,6 +873,14 @@
       "onboard_time": 1712336714,
       "rank": 40,
       "category": "电影"
+    },
+    {
+      "raw_hot": 79886,
+      "num": 423335,
+      "word": "女孩推轮椅妈妈坐地铁一路获帮助",
+      "onboard_time": 1712369598,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 78291,
@@ -937,14 +961,6 @@
       "onboard_time": 1712359634,
       "rank": 45,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 47218,
-      "num": 408332,
-      "word": "女孩推轮椅妈妈坐地铁一路获帮助",
-      "onboard_time": 1712369598,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 46468,
