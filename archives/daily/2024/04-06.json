@@ -1,6 +1,6 @@
 {
   "startTime": 1712334193790,
-  "endTime": 1712374460979,
+  "endTime": 1712377278818,
   "band_list": [
     {
       "raw_hot": 1713312,
@@ -33,6 +33,14 @@
       "onboard_time": 1712367137,
       "rank": 0,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1234638,
+      "num": 1234638,
+      "word": "金价",
+      "onboard_time": 1712374338,
+      "rank": 43,
+      "category": "财经"
     },
     {
       "raw_hot": 1138233,
@@ -83,6 +91,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 766870,
+      "num": 292276,
+      "word": "拟录取短信被拦截了",
+      "onboard_time": 1712376257,
+      "rank": 20,
+      "category": "教育"
+    },
+    {
       "raw_hot": 753243,
       "num": 753243,
       "word": "纽约震感",
@@ -99,10 +115,26 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 704772,
+      "num": 704772,
+      "word": "李白没骗人",
+      "onboard_time": 1712373318,
+      "rank": 29,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 694619,
       "num": 694619,
       "word": "林更新哭戏",
       "onboard_time": 1712371698,
+      "rank": 5,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 658515,
+      "num": 658515,
+      "word": "优酷给长月烬明的排面",
+      "onboard_time": 1712375777,
       "rank": 5,
       "category": "剧集"
     },
@@ -219,6 +251,22 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 500116,
+      "num": 500116,
+      "word": "范丞丞脸上的二进制代码",
+      "onboard_time": 1712372240,
+      "rank": 23,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 496285,
+      "num": 496285,
+      "word": "淄博烧烤小哥的脸色一看就很火",
+      "onboard_time": 1712374938,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 491015,
       "num": 491015,
       "word": "广为传播的珍妃照片是假的",
@@ -272,6 +320,30 @@
       "word": "连续3天睡眠不足6小时会怎样",
       "onboard_time": 1712358133,
       "rank": 3,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 447783,
+      "num": 447783,
+      "word": "锦超回应与李菲儿不和",
+      "onboard_time": 1712375417,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 432080,
+      "num": 281628,
+      "word": "蔡徐坤C位出道六周年",
+      "onboard_time": 1712375119,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 428690,
+      "num": 205545,
+      "word": "痔疮自愈 提肛运动",
+      "onboard_time": 1712376378,
+      "rank": 30,
       "category": "健康医疗"
     },
     {
@@ -331,6 +403,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 382166,
+      "num": 382166,
+      "word": "暗河传男主",
+      "onboard_time": 1712375478,
+      "rank": 14,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 375262,
       "num": 375262,
       "word": "行止要当爸爸了",
@@ -347,20 +427,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 353305,
+      "num": 353305,
+      "word": "谷爱凌在哈佛演讲用中文致谢",
+      "onboard_time": 1712375958,
+      "rank": 15,
+      "category": "体育"
+    },
+    {
       "raw_hot": 348947,
       "num": 348947,
       "word": "徐海乔演技",
       "onboard_time": 1712328079,
       "rank": 13,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 339673,
-      "num": 339673,
-      "word": "范丞丞脸上的二进制代码",
-      "onboard_time": 1712372240,
-      "rank": 23,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 336314,
@@ -377,14 +457,6 @@
       "onboard_time": 1712317940,
       "rank": 14,
       "category": "情感"
-    },
-    {
-      "raw_hot": 305691,
-      "num": 305691,
-      "word": "李白没骗人",
-      "onboard_time": 1712373318,
-      "rank": 29,
-      "category": "旅游"
     },
     {
       "raw_hot": 299076,
@@ -459,6 +531,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 265153,
+      "num": 265153,
+      "word": "云南昭通鲁甸县4.9级地震",
+      "onboard_time": 1712376077,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 262271,
       "num": 262271,
       "word": "日本本州东岸发生5.3级地震",
@@ -523,6 +603,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 236400,
+      "num": 236400,
+      "word": "Zoom爆料Doinb开播日期",
+      "onboard_time": 1712376378,
+      "rank": 24,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 223313,
       "num": 223313,
       "word": "高铁上再也不随便跟人换座了",
@@ -537,6 +625,14 @@
       "onboard_time": 1712317999,
       "rank": 23,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 220225,
+      "num": 220225,
+      "word": "与凤行把番外拍出来了",
+      "onboard_time": 1712376678,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 219474,
@@ -563,12 +659,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 211815,
+      "num": 211815,
+      "word": "杨紫亲何赛飞脸颊",
+      "onboard_time": 1712375357,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 205518,
       "num": 205518,
       "word": "导演透露王一博李沁有望二搭",
       "onboard_time": 1712362275,
       "rank": 23,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 197296,
+      "num": 197296,
+      "word": "我的导师曾经是不太聪明的研究生",
+      "onboard_time": 1712375958,
+      "rank": 31,
+      "category": "情感"
     },
     {
       "raw_hot": 192720,
@@ -585,6 +697,14 @@
       "onboard_time": 1712361856,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 176680,
+      "num": 176680,
+      "word": "放手是一门永远没法满分的必修课",
+      "onboard_time": 1712377097,
+      "rank": 33,
+      "category": "情感"
     },
     {
       "raw_hot": 175819,
@@ -617,6 +737,22 @@
       "onboard_time": 1712329940,
       "rank": 30,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 166342,
+      "num": 166342,
+      "word": "徐海乔好帅",
+      "onboard_time": 1712374639,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 165848,
+      "num": 165848,
+      "word": "勇不出界",
+      "onboard_time": 1712375057,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 162346,
@@ -691,6 +827,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 141546,
+      "num": 141546,
+      "word": "华盛顿绝杀勇士",
+      "onboard_time": 1712374998,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 141485,
       "num": 141485,
       "word": "43岁的夏达",
@@ -721,6 +865,14 @@
       "onboard_time": 1712358133,
       "rank": 17,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 136130,
+      "num": 136130,
+      "word": "爱奇艺大量宣传海报由AI辅助批量产出",
+      "onboard_time": 1712377097,
+      "rank": 46,
+      "category": "剧集"
     },
     {
       "raw_hot": 134866,
@@ -793,6 +945,22 @@
       "onboard_time": 1712328621,
       "rank": 38,
       "category": "情感"
+    },
+    {
+      "raw_hot": 124834,
+      "num": 124834,
+      "word": "四川江油市3.2级地震",
+      "onboard_time": 1712374758,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 124753,
+      "num": 124753,
+      "word": "向佐版多尔衮",
+      "onboard_time": 1712377218,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 121143,
@@ -891,14 +1059,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 112881,
-      "num": 112881,
-      "word": "金价",
-      "onboard_time": 1712374338,
-      "rank": 43,
-      "category": "财经"
-    },
-    {
       "raw_hot": 111714,
       "num": 111714,
       "word": "阴雨大人",
@@ -953,6 +1113,14 @@
       "onboard_time": 1712368337,
       "rank": 44,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 107063,
+      "num": 952443,
+      "word": "藏在古建筑里的春天",
+      "onboard_time": 1712375119,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 102916,
