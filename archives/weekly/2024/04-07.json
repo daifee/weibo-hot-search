@@ -1,6 +1,6 @@
 {
   "startTime": 1712420539476,
-  "endTime": 1712434746597,
+  "endTime": 1712435737524,
   "band_list": [
     {
       "raw_hot": 1243767,
@@ -563,12 +563,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 15512,
+      "num": 18300,
+      "word": "吵了一辈子的爸妈在晚年爱上彼此",
+      "onboard_time": 1712433790,
+      "rank": 38,
+      "category": "情感"
+    },
+    {
       "raw_hot": 14707,
       "num": 23169,
       "word": "新发型这不就有了",
       "onboard_time": 1712429591,
       "rank": 49,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 11572,
+      "num": 14521,
+      "word": "医学生夜市摆摊按摩9.9元起",
+      "onboard_time": 1712435710,
+      "rank": 49,
+      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
