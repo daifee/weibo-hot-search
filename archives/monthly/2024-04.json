@@ -1,6 +1,6 @@
 {
   "startTime": 1711902044401,
-  "endTime": 1712485013532,
+  "endTime": 1712486106011,
   "band_list": [
     {
       "raw_hot": 16874674,
@@ -313,6 +313,14 @@
       "onboard_time": 1712027599,
       "rank": 3,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 1886392,
+      "num": 1886392,
+      "word": "追她呀 她旺你",
+      "onboard_time": 1712483838,
+      "rank": 3,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 1851247,
@@ -929,14 +937,6 @@
       "onboard_time": 1711938438,
       "rank": 40,
       "category": "财经"
-    },
-    {
-      "raw_hot": 1348662,
-      "num": 1348662,
-      "word": "追她呀 她旺你",
-      "onboard_time": 1712483838,
-      "rank": 3,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 1335101,
@@ -2963,6 +2963,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 670566,
+      "num": 670566,
+      "word": "王一博粉丝 不愿意就算了",
+      "onboard_time": 1712483477,
+      "rank": 10,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 670216,
       "num": 756982,
       "word": "福宝还不满4岁不能谈恋爱",
@@ -3240,14 +3248,6 @@
       "word": "林狗你是真的火了",
       "onboard_time": 1712413880,
       "rank": 40,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 638965,
-      "num": 638965,
-      "word": "王一博粉丝 不愿意就算了",
-      "onboard_time": 1712483477,
-      "rank": 10,
       "category": "剧集"
     },
     {
@@ -5083,6 +5083,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 458842,
+      "num": 295203,
+      "word": "5天年假折现了6千多",
+      "onboard_time": 1712483838,
+      "rank": 20,
+      "category": "情感"
+    },
+    {
       "raw_hot": 457542,
       "num": 457542,
       "word": "你好星期六",
@@ -6179,14 +6187,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 385203,
-      "num": 272549,
-      "word": "5天年假折现了6千多",
-      "onboard_time": 1712483838,
-      "rank": 20,
-      "category": "情感"
-    },
-    {
       "raw_hot": 384359,
       "num": 384359,
       "word": "小时候我哭着要和哥哥嫂子睡一起",
@@ -6369,6 +6369,14 @@
       "onboard_time": 1712031801,
       "rank": 20,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 375937,
+      "num": 375937,
+      "word": "以色列大规模撤军",
+      "onboard_time": 1712485518,
+      "rank": 14,
+      "category": "国外时政"
     },
     {
       "raw_hot": 375560,
@@ -7739,6 +7747,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 299874,
+      "num": 299874,
+      "word": "林更新 我一人可抵千军万马",
+      "onboard_time": 1712485278,
+      "rank": 18,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 299718,
       "num": 299718,
       "word": "林一 幽我一默",
@@ -8028,7 +8044,7 @@
     },
     {
       "raw_hot": 290036,
-      "num": 188849,
+      "num": 218909,
       "word": "DK被零封",
       "onboard_time": 1712483838,
       "rank": 30,
@@ -8395,6 +8411,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 274436,
+      "num": 274436,
+      "word": "大小周其实不是月休六天",
+      "onboard_time": 1712484439,
+      "rank": 31,
+      "category": "情感"
+    },
+    {
       "raw_hot": 273999,
       "num": 273999,
       "word": "成龙都70了",
@@ -8408,6 +8432,14 @@
       "word": "九亿萤火虫的梦",
       "onboard_time": 1712326159,
       "rank": 28,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 273963,
+      "num": 273963,
+      "word": "赵丽颖降林嫂",
+      "onboard_time": 1712485518,
+      "rank": 26,
       "category": "剧集"
     },
     {
@@ -8953,6 +8985,14 @@
       "onboard_time": 1712416819,
       "rank": 33,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 255236,
+      "num": 255236,
+      "word": "干眼症原来缺的是油不是水",
+      "onboard_time": 1712484979,
+      "rank": 46,
+      "category": "科学科普,健康医疗"
     },
     {
       "raw_hot": 255200,
@@ -10051,6 +10091,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 225533,
+      "num": 225533,
+      "word": "杭州南站",
+      "onboard_time": 1712482638,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 224881,
       "num": 224881,
       "word": "女性为什么会选择独自生养孩子",
@@ -10787,6 +10835,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 210407,
+      "num": 210407,
+      "word": "8888元一晚猪景房送6888元一头猪",
+      "onboard_time": 1712482158,
+      "rank": 43,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 210323,
       "num": 210323,
       "word": "明兰与花芷 女子本芬芳",
@@ -10889,14 +10945,6 @@
       "onboard_time": 1712069121,
       "rank": 33,
       "category": "财经"
-    },
-    {
-      "raw_hot": 207771,
-      "num": 188814,
-      "word": "大小周其实不是月休六天",
-      "onboard_time": 1712484439,
-      "rank": 31,
-      "category": "情感"
     },
     {
       "raw_hot": 207765,
@@ -11377,6 +11425,14 @@
       "onboard_time": 1711936760,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 200316,
+      "num": 200316,
+      "word": "椰子鸡",
+      "onboard_time": 1712483719,
+      "rank": 26,
+      "category": "美食"
     },
     {
       "raw_hot": 200291,
@@ -12139,14 +12195,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 191459,
-      "num": 191459,
-      "word": "椰子鸡",
-      "onboard_time": 1712483719,
-      "rank": 26,
-      "category": "美食"
-    },
-    {
       "raw_hot": 191431,
       "num": 191431,
       "word": "人间四月天",
@@ -12297,6 +12345,14 @@
       "onboard_time": 1712327359,
       "rank": 38,
       "category": "情感"
+    },
+    {
+      "raw_hot": 190232,
+      "num": 190232,
+      "word": "TES对战JDG",
+      "onboard_time": 1712485100,
+      "rank": 34,
+      "category": "电竞"
     },
     {
       "raw_hot": 190093,
@@ -12819,6 +12875,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 183725,
+      "num": 183725,
+      "word": "原来全麻后真的会社死",
+      "onboard_time": 1712484021,
+      "rank": 33,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 183545,
       "num": 183545,
       "word": "与凤行戒断反应",
@@ -12921,14 +12985,6 @@
       "onboard_time": 1712298977,
       "rank": 30,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 182089,
-      "num": 182089,
-      "word": "原来全麻后真的会社死",
-      "onboard_time": 1712484021,
-      "rank": 33,
-      "category": "幽默"
     },
     {
       "raw_hot": 181744,
@@ -13243,14 +13299,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 177069,
-      "num": 188929,
-      "word": "杭州南站",
-      "onboard_time": 1712482638,
-      "rank": 29,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 177003,
       "num": 177003,
       "word": "赵丽颖现身川美",
@@ -13313,14 +13361,6 @@
       "onboard_time": 1712048240,
       "rank": 36,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 176235,
-      "num": 176235,
-      "word": "8888元一晚猪景房送6888元一头猪",
-      "onboard_time": 1712482158,
-      "rank": 43,
-      "category": "旅游"
     },
     {
       "raw_hot": 176176,
@@ -14881,6 +14921,14 @@
       "onboard_time": 1711932140,
       "rank": 43,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 152994,
+      "num": 152994,
+      "word": "李雪琴答题速度惊呆十个勤天",
+      "onboard_time": 1712485458,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 152959,
@@ -16563,6 +16611,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 128579,
+      "num": 128579,
+      "word": "数码宝贝 高清版飞帽杀",
+      "onboard_time": 1712485998,
+      "rank": 46,
+      "category": "动漫,作品衍生"
+    },
+    {
       "raw_hot": 128576,
       "num": 137330,
       "word": "红山动物园感谢南京市民礼让游玩空间",
@@ -16585,6 +16641,14 @@
       "onboard_time": 1712360475,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 127953,
+      "num": 127953,
+      "word": "刷我医保卡救活沈近真",
+      "onboard_time": 1712485278,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 127927,
@@ -16729,6 +16793,14 @@
       "onboard_time": 1712405957,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 125996,
+      "num": 125996,
+      "word": "王一博李沁片场日常",
+      "onboard_time": 1712484979,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 125781,
@@ -17091,14 +17163,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 119108,
-      "num": 119108,
-      "word": "干眼症原来缺的是油不是水",
-      "onboard_time": 1712484979,
-      "rank": 46,
-      "category": "科学科普,健康医疗"
-    },
-    {
       "raw_hot": 119058,
       "num": 457538,
       "word": "首批车主已经提到小米SU7",
@@ -17257,14 +17321,6 @@
       "onboard_time": 1712248217,
       "rank": 36,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 115636,
-      "num": 115636,
-      "word": "王一博李沁片场日常",
-      "onboard_time": 1712484979,
-      "rank": 48,
-      "category": "剧集"
     },
     {
       "raw_hot": 115027,
@@ -18123,6 +18179,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 74820,
+      "num": 642815,
+      "word": "吴江涛你做的好事藏不住了",
+      "onboard_time": 1712483418,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 73804,
       "num": 169686,
       "word": "大连有一条通向大海的街",
@@ -18491,14 +18555,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 54543,
-      "num": 642815,
-      "word": "吴江涛你做的好事藏不住了",
-      "onboard_time": 1712483418,
-      "rank": 8,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 54446,
       "num": 54446,
       "word": "一90后被证监会罚没2.7亿元",
@@ -18739,6 +18795,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 39052,
+      "num": 342195,
+      "word": "腾势Z9GT在德国被围观",
+      "onboard_time": 1712483180,
+      "rank": 16,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 38780,
       "num": 38780,
       "word": "皇上来大明湖也找不到夏雨荷",
@@ -18777,14 +18841,6 @@
       "onboard_time": 1712343912,
       "rank": 43,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 37354,
-      "num": 342195,
-      "word": "腾势Z9GT在德国被围观",
-      "onboard_time": 1712483180,
-      "rank": 16,
-      "category": "汽车"
     },
     {
       "raw_hot": 36288,
