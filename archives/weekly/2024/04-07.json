@@ -1,7 +1,15 @@
 {
   "startTime": 1712420539476,
-  "endTime": 1712500449071,
+  "endTime": 1712503091047,
   "band_list": [
+    {
+      "raw_hot": 4232521,
+      "num": 4232521,
+      "word": "仝卓",
+      "onboard_time": 1712500940,
+      "rank": 0,
+      "category": "艺人"
+    },
     {
       "raw_hot": 3164787,
       "num": 3164787,
@@ -81,6 +89,14 @@
       "onboard_time": 1712461279,
       "rank": 5,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1546386,
+      "num": 695471,
+      "word": "仝卓工作室公开讨债",
+      "onboard_time": 1712501060,
+      "rank": 5,
+      "category": "艺人"
     },
     {
       "raw_hot": 1470798,
@@ -219,6 +235,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 971251,
+      "num": 971251,
+      "word": "肖战早期与素人合照",
+      "onboard_time": 1712501181,
+      "rank": 1,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 969619,
+      "num": 969619,
+      "word": "河南某高校副科长被举报聚众淫乱",
+      "onboard_time": 1712498420,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 939826,
       "num": 939826,
       "word": "刘昊然 回春",
@@ -321,14 +353,6 @@
       "onboard_time": 1712470278,
       "rank": 32,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 758054,
-      "num": 758054,
-      "word": "河南某高校副科长被举报聚众淫乱",
-      "onboard_time": 1712498420,
-      "rank": 17,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 754115,
@@ -603,6 +627,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 582074,
+      "num": 582074,
+      "word": "个人房贷规模大幅缩水",
+      "onboard_time": 1712500041,
+      "rank": 48,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 580614,
       "num": 337409,
       "word": "23岁没谈过恋爱正常吗",
@@ -681,6 +713,14 @@
       "onboard_time": 1712476878,
       "rank": 18,
       "category": "数码"
+    },
+    {
+      "raw_hot": 521787,
+      "num": 310557,
+      "word": "与父母同居20天他们终于不再催婚",
+      "onboard_time": 1712499261,
+      "rank": 26,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 519154,
@@ -851,6 +891,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 456311,
+      "num": 456311,
+      "word": "租房吃过最大的苦是跟情侣合租",
+      "onboard_time": 1712499741,
+      "rank": 33,
+      "category": "情感"
+    },
+    {
       "raw_hot": 453772,
       "num": 453772,
       "word": "林更新是赵丽颖一级铁粉",
@@ -865,6 +913,14 @@
       "onboard_time": 1712485278,
       "rank": 18,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 438538,
+      "num": 438538,
+      "word": "王阳 叔圈天菜",
+      "onboard_time": 1712499922,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 426422,
@@ -883,6 +939,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 423644,
+      "num": 423644,
+      "word": "98 LINE",
+      "onboard_time": 1712499500,
+      "rank": 21,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 423549,
       "num": 423549,
       "word": "十个勤天hi6收视率",
@@ -897,6 +961,14 @@
       "onboard_time": 1712464461,
       "rank": 21,
       "category": "数码"
+    },
+    {
+      "raw_hot": 420775,
+      "num": 420775,
+      "word": "白桃星座",
+      "onboard_time": 1712501721,
+      "rank": 14,
+      "category": "情感"
     },
     {
       "raw_hot": 418547,
@@ -1123,6 +1195,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 332937,
+      "num": 332937,
+      "word": "赵丽颖紫纱古装",
+      "onboard_time": 1712499801,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 328369,
       "num": 328369,
       "word": "原来蔡徐坤的腰伤朋友就是赵品霖",
@@ -1153,14 +1233,6 @@
       "onboard_time": 1712492359,
       "rank": 30,
       "category": "情感"
-    },
-    {
-      "raw_hot": 315244,
-      "num": 315244,
-      "word": "98 LINE",
-      "onboard_time": 1712499500,
-      "rank": 21,
-      "category": "电竞"
     },
     {
       "raw_hot": 313179,
@@ -1267,6 +1339,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 293632,
+      "num": 293632,
+      "word": "代号鸢",
+      "onboard_time": 1712502560,
+      "rank": 23,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 290036,
       "num": 218909,
       "word": "DK被零封",
@@ -1371,14 +1451,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 263744,
-      "num": 263744,
-      "word": "与父母同居20天他们终于不再催婚",
-      "onboard_time": 1712499261,
-      "rank": 26,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 260902,
       "num": 260902,
       "word": "天津男篮拉拉队公然砸观众",
@@ -1427,14 +1499,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 254868,
-      "num": 254868,
-      "word": "赵丽颖紫纱古装",
-      "onboard_time": 1712499801,
-      "rank": 27,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 253239,
       "num": 253239,
       "word": "卡琳娜她都约我了",
@@ -1465,6 +1529,14 @@
       "onboard_time": 1712499681,
       "rank": 30,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 246497,
+      "num": 246497,
+      "word": "薛之谦镇江",
+      "onboard_time": 1712501903,
+      "rank": 27,
+      "category": "演出"
     },
     {
       "raw_hot": 245965,
@@ -1561,14 +1633,6 @@
       "onboard_time": 1712474119,
       "rank": 24,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 232580,
-      "num": 232580,
-      "word": "租房吃过最大的苦是跟情侣合租",
-      "onboard_time": 1712499741,
-      "rank": 33,
-      "category": "情感"
     },
     {
       "raw_hot": 228855,
@@ -1931,14 +1995,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 195733,
-      "num": 195733,
-      "word": "王阳 叔圈天菜",
-      "onboard_time": 1712499922,
-      "rank": 41,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 194835,
       "num": 194835,
       "word": "耶伦",
@@ -2067,6 +2123,14 @@
       "category": "电影,动漫"
     },
     {
+      "raw_hot": 186044,
+      "num": 186044,
+      "word": "为什么大家喜欢庆祝春天的到来",
+      "onboard_time": 1712502081,
+      "rank": 37,
+      "category": "情感"
+    },
+    {
       "raw_hot": 185937,
       "num": 185937,
       "word": "Doinb给Tian加油",
@@ -2089,6 +2153,14 @@
       "onboard_time": 1712488697,
       "rank": 31,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 185569,
+      "num": 185569,
+      "word": "苹果下月或推出新款iPadPro",
+      "onboard_time": 1712500820,
+      "rank": 38,
+      "category": "数码"
     },
     {
       "raw_hot": 184717,
@@ -2185,6 +2257,14 @@
       "onboard_time": 1712407938,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 177250,
+      "num": 177250,
+      "word": "WTT沙特大满贯2024双打名单",
+      "onboard_time": 1712502860,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 176496,
@@ -2371,12 +2451,12 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 160885,
-      "num": 166010,
-      "word": "个人房贷规模大幅缩水",
-      "onboard_time": 1712500041,
-      "rank": 48,
-      "category": "财经,社会新闻"
+      "raw_hot": 160602,
+      "num": 160602,
+      "word": "惜花芷cp线",
+      "onboard_time": 1712502801,
+      "rank": 42,
+      "category": "剧集"
     },
     {
       "raw_hot": 159775,
@@ -2873,6 +2953,14 @@
       "onboard_time": 1712446154,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 109244,
+      "num": 140653,
+      "word": "曼联vs利物浦",
+      "onboard_time": 1712501721,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 108108,
