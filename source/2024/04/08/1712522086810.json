@@ -1,0 +1,410 @@
+{
+  "runTime": 1712522086810,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 74874,
+        "num": 74874,
+        "word": "男子试驾劳斯莱斯获销售鼓励打动网友",
+        "onboard_time": 1712512333,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 51804,
+        "num": 51804,
+        "word": "第一批去埃及旅行的人快被骗到裸奔了",
+        "onboard_time": 1712476038,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 10042,
+        "num": 43146,
+        "word": "文旅消费如何从开门红走向长红",
+        "onboard_time": 1712495958,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 42035,
+        "num": 42035,
+        "word": "河南某高校副科长被举报聚众淫乱",
+        "onboard_time": 1712498420,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 40909,
+        "num": 40909,
+        "word": "租房吃过最大的苦是跟情侣合租",
+        "onboard_time": 1712499741,
+        "rank": 4,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 42827,
+        "num": 40663,
+        "word": "追她呀 她旺你",
+        "onboard_time": 1712483838,
+        "rank": 5,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 37476,
+        "num": 37476,
+        "word": "女性的小肚子是为了保护子宫卵巢",
+        "onboard_time": 1712473999,
+        "rank": 6,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 35427,
+        "num": 35427,
+        "word": "个人房贷规模大幅缩水",
+        "onboard_time": 1712500041,
+        "rank": 7,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 35192,
+        "num": 35192,
+        "word": "大哥远 停播",
+        "onboard_time": 1712499200,
+        "rank": 8,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 34444,
+        "num": 34444,
+        "word": "9.9元咖啡为何会消失",
+        "onboard_time": 1712512691,
+        "rank": 9,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 42523,
+        "num": 33739,
+        "word": "陈学冬 不会退圈死心吧",
+        "onboard_time": 1712479278,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 32347,
+        "num": 32347,
+        "word": "肖战早期与素人合照",
+        "onboard_time": 1712501181,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 24696,
+        "num": 24696,
+        "word": "眼泪女王",
+        "onboard_time": 1712493859,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 23870,
+        "num": 23870,
+        "word": "小米定金事件暴露了成年人的耍赖心态",
+        "onboard_time": 1712491999,
+        "rank": 13,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 22416,
+        "num": 22416,
+        "word": "与凤行结局吻戏是加的",
+        "onboard_time": 1712520490,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 21480,
+        "num": 21480,
+        "word": "女生考研被拟录取室友偷偷送惊喜",
+        "onboard_time": 1712496979,
+        "rank": 15,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 21066,
+        "num": 21066,
+        "word": "you know m3",
+        "onboard_time": 1712506637,
+        "rank": 16,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 21064,
+        "num": 21064,
+        "word": "代号鸢",
+        "onboard_time": 1712502560,
+        "rank": 17,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 20870,
+        "num": 20870,
+        "word": "以色列大规模撤军",
+        "onboard_time": 1712485518,
+        "rank": 18,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 20443,
+        "num": 20443,
+        "word": "沈图南入党",
+        "onboard_time": 1712503340,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 48491,
+        "num": 20395,
+        "word": "我倒要看看25年元旦会怎么调休",
+        "onboard_time": 1712491759,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 28323,
+        "num": 20045,
+        "word": "这样睡觉大大增加糖尿病风险",
+        "onboard_time": 1712508316,
+        "rank": 21,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 28088,
+        "num": 19891,
+        "word": "与父母同居20天他们终于不再催婚",
+        "onboard_time": 1712499261,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 23991,
+        "num": 19756,
+        "word": "90后准新娘婚前立遗嘱遗产归父母",
+        "onboard_time": 1712518930,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 23486,
+        "num": 19509,
+        "word": "佟丽娅带儿子在阿那亚度假",
+        "onboard_time": 1712508375,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 23047,
+        "num": 19354,
+        "word": "你睡得最晚的一次是在干什么",
+        "onboard_time": 1712496560,
+        "rank": 25,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 19165,
+        "num": 19165,
+        "word": "中医建议女生春天多披头散发",
+        "onboard_time": 1712487918,
+        "rank": 26,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 18206,
+        "num": 18206,
+        "word": "追风者 十送红军",
+        "onboard_time": 1712497159,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 18077,
+        "num": 18077,
+        "word": "钻戒市场开始背叛爱情了",
+        "onboard_time": 1712504239,
+        "rank": 28,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 18012,
+        "num": 18012,
+        "word": "曼联vs利物浦",
+        "onboard_time": 1712501721,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 116579,
+        "num": 17992,
+        "word": "仝卓",
+        "onboard_time": 1712500940,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 17973,
+        "num": 17973,
+        "word": "TES零封JDG",
+        "onboard_time": 1712495479,
+        "rank": 31,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 17385,
+        "num": 17385,
+        "word": "那些熬过的夜再也补不回来了",
+        "onboard_time": 1712512091,
+        "rank": 32,
+        "category": "科学科普,健康医疗"
+      },
+      {
+        "raw_hot": 17187,
+        "num": 17187,
+        "word": "眼泪女王第十集",
+        "onboard_time": 1712500041,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 16348,
+        "num": 16348,
+        "word": "沈璃有魑魅印记",
+        "onboard_time": 1712503760,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 37386,
+        "num": 16303,
+        "word": "仝卓工作室公开讨债",
+        "onboard_time": 1712501060,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 16214,
+        "num": 16214,
+        "word": "王阳 叔圈天菜",
+        "onboard_time": 1712499922,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 16185,
+        "num": 16185,
+        "word": "去世的妈坐牢的爸破碎的他",
+        "onboard_time": 1712482218,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 16020,
+        "num": 16020,
+        "word": "被路人狂撸的小狗狗",
+        "onboard_time": 1712518212,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 15320,
+        "num": 15320,
+        "word": "赵露思厚刘海旧照",
+        "onboard_time": 1712503099,
+        "rank": 39,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 15136,
+        "num": 15136,
+        "word": "林更新谭松韵请叫我总监旧照",
+        "onboard_time": 1712511192,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 14477,
+        "num": 14477,
+        "word": "跟水瓶座相处需要知性美",
+        "onboard_time": 1712514911,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 14450,
+        "num": 14450,
+        "word": "苹果下月或推出新款iPadPro",
+        "onboard_time": 1712500820,
+        "rank": 42,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 14386,
+        "num": 14386,
+        "word": "金价还在涨超市上架金条遭疯抢",
+        "onboard_time": 1712497220,
+        "rank": 43,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 14333,
+        "num": 14333,
+        "word": "谢帝",
+        "onboard_time": 1712489539,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 13984,
+        "num": 14333,
+        "word": "23岁没谈过恋爱正常吗",
+        "onboard_time": 1712492598,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 13810,
+        "num": 14311,
+        "word": "追风者",
+        "onboard_time": 1712491037,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 13521,
+        "num": 14302,
+        "word": "下班以后最轻松的副业",
+        "onboard_time": 1712487438,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 13466,
+        "num": 14296,
+        "word": "徐海乔宣璐谈林更新",
+        "onboard_time": 1712516831,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 13298,
+        "num": 14282,
+        "word": "应采儿说Jasper是脏儿子",
+        "onboard_time": 1712521990,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#推进城乡环境整治完善公共卫生设施#"
+    }
+  }
+}
