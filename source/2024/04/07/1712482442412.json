@@ -1,0 +1,410 @@
+{
+  "runTime": 1712482442412,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2072897,
+        "num": 2072897,
+        "word": "陈学冬 不会退圈死心吧",
+        "onboard_time": 1712479278,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1283547,
+        "num": 1283547,
+        "word": "第一批去埃及旅行的人快被骗到裸奔了",
+        "onboard_time": 1712476038,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 70737,
+        "num": 1147086,
+        "word": "春花唤醒了人间最美的季节",
+        "onboard_time": 1712476700,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1142562,
+        "num": 1142562,
+        "word": "女性的小肚子是为了保护子宫卵巢",
+        "onboard_time": 1712473999,
+        "rank": 3,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 1044503,
+        "num": 1044503,
+        "word": "女子投诉小米SU7未交付掉漆",
+        "onboard_time": 1712477418,
+        "rank": 4,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 1008130,
+        "num": 1008130,
+        "word": "新疆拜城5.4级地震",
+        "onboard_time": 1712480719,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 834914,
+        "num": 834914,
+        "word": "Jiejie回来了",
+        "onboard_time": 1712479459,
+        "rank": 6,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 732996,
+        "num": 732996,
+        "word": "想当行长继承家产男孩父亲确为行长",
+        "onboard_time": 1712469258,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 697285,
+        "num": 697285,
+        "word": "猪景房凭什么8888元一晚",
+        "onboard_time": 1712478500,
+        "rank": 8,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 171713,
+        "num": 690651,
+        "word": "22岁的我已经和癌症斗了3000天",
+        "onboard_time": 1712458456,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 690089,
+        "num": 690089,
+        "word": "今天星期0",
+        "onboard_time": 1712479399,
+        "rank": 10,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 462861,
+        "num": 462861,
+        "word": "成都文旅还没反应过来 迪士尼建好了",
+        "onboard_time": 1712480300,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 462426,
+        "num": 462426,
+        "word": "苹果客服回应iPhone闹钟不会识别调休",
+        "onboard_time": 1712476878,
+        "rank": 12,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 416406,
+        "num": 416406,
+        "word": "陈学冬",
+        "onboard_time": 1712472918,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 382038,
+        "num": 382038,
+        "word": "徐若晗说成龙很爱看短视频",
+        "onboard_time": 1712478798,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 367858,
+        "num": 367858,
+        "word": "刘昊然 回春",
+        "onboard_time": 1712472078,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 365044,
+        "num": 365044,
+        "word": "林更新林允儿古装旧照",
+        "onboard_time": 1712468117,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 345410,
+        "num": 345410,
+        "word": "库迪咖啡创始人被强执",
+        "onboard_time": 1712470219,
+        "rank": 17,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 300266,
+        "num": 300266,
+        "word": "新疆阿克苏3.8级地震",
+        "onboard_time": 1712480120,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 296897,
+        "num": 296897,
+        "word": "承欢记女主撞见未来公公出轨",
+        "onboard_time": 1712478139,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 445360,
+        "num": 294572,
+        "word": "高铁会惩罚每个苹果用户",
+        "onboard_time": 1712475618,
+        "rank": 20,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 386587,
+        "num": 291118,
+        "word": "午睡超1小时死亡风险增加30%",
+        "onboard_time": 1712466800,
+        "rank": 21,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 284306,
+        "num": 284306,
+        "word": "林更新好大一颗电灯泡",
+        "onboard_time": 1712480300,
+        "rank": 22,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 273908,
+        "num": 273908,
+        "word": "调休",
+        "onboard_time": 1712450539,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 257384,
+        "num": 257384,
+        "word": "中五千万你会立刻离职吗",
+        "onboard_time": 1712476399,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 254170,
+        "num": 254170,
+        "word": "王一博 吃播",
+        "onboard_time": 1712476458,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 227913,
+        "num": 227913,
+        "word": "十个勤天四勤去清华",
+        "onboard_time": 1712477720,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 208091,
+        "num": 208091,
+        "word": "林更新被薛之谦调戏到捂脸",
+        "onboard_time": 1712482339,
+        "rank": 27,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 206694,
+        "num": 206694,
+        "word": "为什么有人喜欢在聊天时加空括号",
+        "onboard_time": 1712480479,
+        "rank": 28,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 206161,
+        "num": 206161,
+        "word": "成龙发文庆祝70岁生日",
+        "onboard_time": 1712470278,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 205277,
+        "num": 205277,
+        "word": "T1晋级败者组决赛",
+        "onboard_time": 1712481078,
+        "rank": 30,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 183057,
+        "num": 183057,
+        "word": "专家建议允许不合适的公务员辞职",
+        "onboard_time": 1712461279,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 181587,
+        "num": 181587,
+        "word": "央行连续第17个月增持黄金储备",
+        "onboard_time": 1712478857,
+        "rank": 32,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 177651,
+        "num": 177651,
+        "word": "样子又不帅 唱歌又难听",
+        "onboard_time": 1712479339,
+        "rank": 33,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 171402,
+        "num": 171402,
+        "word": "去世的妈坐牢的爸破碎的他",
+        "onboard_time": 1712482218,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 162847,
+        "num": 162847,
+        "word": "陈学冬 退哈圈",
+        "onboard_time": 1712482278,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 161004,
+        "num": 161004,
+        "word": "蒋胜男发文说赵丽颖粉丝戏多",
+        "onboard_time": 1712456597,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 159788,
+        "num": 159788,
+        "word": "十个勤天hi6收视率",
+        "onboard_time": 1712472858,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 156801,
+        "num": 156801,
+        "word": "突然明白相亲和自由恋爱的区别",
+        "onboard_time": 1712474539,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 156151,
+        "num": 156151,
+        "word": "减肥期间能代替奶茶的饮料",
+        "onboard_time": 1712475918,
+        "rank": 39,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 154444,
+        "num": 154444,
+        "word": "龚俊工作室",
+        "onboard_time": 1712474899,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 139933,
+        "num": 139933,
+        "word": "成都迪士尼只有一个项目",
+        "onboard_time": 1712473579,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 136640,
+        "num": 136640,
+        "word": "不小心替朋友回复了生日祝福",
+        "onboard_time": 1712482398,
+        "rank": 42,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 134293,
+        "num": 134293,
+        "word": "8888元一晚猪景房送6888元一头猪",
+        "onboard_time": 1712482158,
+        "rank": 43,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 134051,
+        "num": 134051,
+        "word": "赵奕欢的脖子被李菲儿掐红了",
+        "onboard_time": 1712466919,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 133817,
+        "num": 133817,
+        "word": "爱是分享不是报备",
+        "onboard_time": 1712481378,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 130845,
+        "num": 130845,
+        "word": "久哲老林合体直播",
+        "onboard_time": 1712481019,
+        "rank": 46,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 128347,
+        "num": 128347,
+        "word": "王一博能不能拍一部卧底剧",
+        "onboard_time": 1712478199,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 121300,
+        "num": 121300,
+        "word": "黄景瑜 自然到像和同事打招呼",
+        "onboard_time": 1712477418,
+        "rank": 48,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 100822,
+        "num": 121131,
+        "word": "部分地区聘用制公务员待遇被降",
+        "onboard_time": 1712471658,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#家国永念致敬英雄#"
+    }
+  }
+}

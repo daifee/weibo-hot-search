@@ -1,6 +1,6 @@
 {
   "startTime": 1712420539476,
-  "endTime": 1712481412137,
+  "endTime": 1712482442412,
   "band_list": [
     {
       "raw_hot": 3164787,
@@ -163,6 +163,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1044503,
+      "num": 1044503,
+      "word": "女子投诉小米SU7未交付掉漆",
+      "onboard_time": 1712477418,
+      "rank": 24,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 1011415,
       "num": 1011415,
       "word": "爱奇艺2024首部破万剧",
@@ -177,14 +185,6 @@
       "onboard_time": 1712472078,
       "rank": 3,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 936227,
-      "num": 936227,
-      "word": "女子投诉小米SU7未交付掉漆",
-      "onboard_time": 1712477418,
-      "rank": 24,
-      "category": "汽车"
     },
     {
       "raw_hot": 927296,
@@ -283,12 +283,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 697285,
+      "num": 697285,
+      "word": "猪景房凭什么8888元一晚",
+      "onboard_time": 1712478500,
+      "rank": 41,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 690620,
       "num": 690620,
       "word": "叶童看纪凌尘走路的表情",
       "onboard_time": 1712454797,
       "rank": 6,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 690089,
+      "num": 690089,
+      "word": "今天星期0",
+      "onboard_time": 1712479399,
+      "rank": 14,
+      "category": "情感"
     },
     {
       "raw_hot": 687209,
@@ -403,14 +419,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 601047,
-      "num": 601047,
-      "word": "猪景房凭什么8888元一晚",
-      "onboard_time": 1712478500,
-      "rank": 41,
-      "category": "旅游"
-    },
-    {
       "raw_hot": 597605,
       "num": 597605,
       "word": "新疆阿克苏3.8级地震",
@@ -444,7 +452,7 @@
     },
     {
       "raw_hot": 575219,
-      "num": 290740,
+      "num": 294572,
       "word": "高铁会惩罚每个苹果用户",
       "onboard_time": 1712475618,
       "rank": 21,
@@ -603,14 +611,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 472800,
-      "num": 472800,
-      "word": "今天星期0",
-      "onboard_time": 1712479399,
-      "rank": 14,
-      "category": "情感"
-    },
-    {
       "raw_hot": 469481,
       "num": 469481,
       "word": "某幻不直播",
@@ -623,6 +623,14 @@
       "num": 466445,
       "word": "你敢不敢去摸一下那只两脚兽",
       "onboard_time": 1712422095,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 462861,
+      "num": 462861,
+      "word": "成都文旅还没反应过来 迪士尼建好了",
+      "onboard_time": 1712480300,
       "rank": 30,
       "category": "幽默"
     },
@@ -689,6 +697,14 @@
       "onboard_time": 1712459059,
       "rank": 12,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 382038,
+      "num": 382038,
+      "word": "徐若晗说成龙很爱看短视频",
+      "onboard_time": 1712478798,
+      "rank": 47,
+      "category": "艺人"
     },
     {
       "raw_hot": 381472,
@@ -931,20 +947,20 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 294938,
-      "num": 294938,
-      "word": "徐若晗说成龙很爱看短视频",
-      "onboard_time": 1712478798,
-      "rank": 47,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 284356,
       "num": 284356,
       "word": "十个勤天四勤去清华",
       "onboard_time": 1712477720,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 284306,
+      "num": 284306,
+      "word": "林更新好大一颗电灯泡",
+      "onboard_time": 1712480300,
+      "rank": 26,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 283154,
@@ -1123,14 +1139,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 227098,
-      "num": 227098,
-      "word": "林更新好大一颗电灯泡",
-      "onboard_time": 1712480300,
-      "rank": 26,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 225665,
       "num": 225665,
       "word": "日式快餐失宠了",
@@ -1227,6 +1235,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 208091,
+      "num": 208091,
+      "word": "林更新被薛之谦调戏到捂脸",
+      "onboard_time": 1712482339,
+      "rank": 27,
+      "category": "演出"
+    },
+    {
       "raw_hot": 206719,
       "num": 206719,
       "word": "邓超好像要碎了",
@@ -1235,12 +1251,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 206694,
+      "num": 206694,
+      "word": "为什么有人喜欢在聊天时加空括号",
+      "onboard_time": 1712480479,
+      "rank": 39,
+      "category": "情感"
+    },
+    {
       "raw_hot": 206378,
       "num": 206378,
       "word": "滤镜官宣杀青",
       "onboard_time": 1712457017,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 205277,
+      "num": 205277,
+      "word": "T1晋级败者组决赛",
+      "onboard_time": 1712481078,
+      "rank": 37,
+      "category": "电竞"
     },
     {
       "raw_hot": 203587,
@@ -1305,14 +1337,6 @@
       "onboard_time": 1712479339,
       "rank": 29,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 200146,
-      "num": 200146,
-      "word": "成都文旅还没反应过来 迪士尼建好了",
-      "onboard_time": 1712480300,
-      "rank": 30,
-      "category": "幽默"
     },
     {
       "raw_hot": 200100,
@@ -1563,6 +1587,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 171402,
+      "num": 171402,
+      "word": "去世的妈坐牢的爸破碎的他",
+      "onboard_time": 1712482218,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 170639,
       "num": 170639,
       "word": "雷军许愿池",
@@ -1611,14 +1643,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 164179,
-      "num": 164179,
-      "word": "T1晋级败者组决赛",
-      "onboard_time": 1712481078,
-      "rank": 37,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 163866,
       "num": 163866,
       "word": "邓超建议孙俪练古筝",
@@ -1635,20 +1659,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 162847,
+      "num": 162847,
+      "word": "陈学冬 退哈圈",
+      "onboard_time": 1712482278,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 162186,
       "num": 162186,
       "word": "有时候懒一点反而更健康",
       "onboard_time": 1712455217,
       "rank": 39,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 160608,
-      "num": 160608,
-      "word": "为什么有人喜欢在聊天时加空括号",
-      "onboard_time": 1712480479,
-      "rank": 39,
-      "category": "情感"
     },
     {
       "raw_hot": 159775,
@@ -1787,6 +1811,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 136640,
+      "num": 136640,
+      "word": "不小心替朋友回复了生日祝福",
+      "onboard_time": 1712482398,
+      "rank": 42,
+      "category": "情感"
+    },
+    {
       "raw_hot": 135885,
       "num": 135885,
       "word": "承欢记 中式母女关系",
@@ -1795,12 +1827,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 134293,
+      "num": 134293,
+      "word": "8888元一晚猪景房送6888元一头猪",
+      "onboard_time": 1712482158,
+      "rank": 43,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 133958,
       "num": 133958,
       "word": "李铁落网细节曝光",
       "onboard_time": 1712472258,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 133817,
+      "num": 133817,
+      "word": "爱是分享不是报备",
+      "onboard_time": 1712481378,
+      "rank": 48,
+      "category": "情感"
     },
     {
       "raw_hot": 133724,
@@ -1968,14 +2016,6 @@
       "word": "怎样才能让公司主动开除我",
       "onboard_time": 1712480419,
       "rank": 47,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 119727,
-      "num": 119727,
-      "word": "爱是分享不是报备",
-      "onboard_time": 1712481378,
-      "rank": 48,
       "category": "情感"
     },
     {
