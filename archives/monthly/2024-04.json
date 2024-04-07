@@ -1,6 +1,6 @@
 {
   "startTime": 1711902044401,
-  "endTime": 1712507687568,
+  "endTime": 1712510120980,
   "band_list": [
     {
       "raw_hot": 16874674,
@@ -9171,6 +9171,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 260600,
+      "num": 260600,
+      "word": "you know m3",
+      "onboard_time": 1712506637,
+      "rank": 45,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 260447,
       "num": 260447,
       "word": "呼叫81192",
@@ -15763,14 +15771,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 150966,
-      "num": 150966,
-      "word": "you know m3",
-      "onboard_time": 1712506637,
-      "rank": 45,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 150923,
       "num": 141969,
       "word": "承欢记片尾曲MV",
@@ -16475,6 +16475,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 141732,
+      "num": 96786,
+      "word": "佟丽娅带儿子在阿那亚度假",
+      "onboard_time": 1712508375,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 141687,
       "num": 141687,
       "word": "情绪稳定还得从小抓起",
@@ -16545,6 +16553,14 @@
       "onboard_time": 1712277617,
       "rank": 36,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 140523,
+      "num": 140523,
+      "word": "赵小童300w粉丝福利",
+      "onboard_time": 1712507175,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 140464,
@@ -18067,6 +18083,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 115059,
+      "num": 96663,
+      "word": "这样睡觉大大增加糖尿病风险",
+      "onboard_time": 1712508316,
+      "rank": 22,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 115027,
       "num": 284694,
       "word": "小米汽车实现100%自动化在线检测",
@@ -18105,14 +18129,6 @@
       "onboard_time": 1712083331,
       "rank": 15,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 114623,
-      "num": 114623,
-      "word": "赵小童300w粉丝福利",
-      "onboard_time": 1712507175,
-      "rank": 32,
-      "category": "综艺"
     },
     {
       "raw_hot": 114434,
@@ -18667,6 +18683,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 97128,
+      "num": 97128,
+      "word": "眼泪女王预告",
+      "onboard_time": 1712500461,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 96703,
       "num": 96703,
       "word": "蔡依林深圳演唱会",
@@ -18809,14 +18833,6 @@
       "onboard_time": 1712424493,
       "rank": 39,
       "category": "体育"
-    },
-    {
-      "raw_hot": 88433,
-      "num": 88433,
-      "word": "眼泪女王预告",
-      "onboard_time": 1712500461,
-      "rank": 41,
-      "category": "剧集"
     },
     {
       "raw_hot": 86755,
@@ -19241,6 +19257,14 @@
       "onboard_time": 1712272873,
       "rank": 38,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 58761,
+      "num": 58761,
+      "word": "与凤行壁纸",
+      "onboard_time": 1712509393,
+      "rank": 38,
+      "category": "剧集"
     },
     {
       "raw_hot": 58418,
