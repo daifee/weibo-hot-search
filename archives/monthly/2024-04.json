@@ -1,6 +1,6 @@
 {
   "startTime": 1711902044401,
-  "endTime": 1712499339905,
+  "endTime": 1712500449071,
   "band_list": [
     {
       "raw_hot": 16874674,
@@ -2475,6 +2475,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 758054,
+      "num": 758054,
+      "word": "河南某高校副科长被举报聚众淫乱",
+      "onboard_time": 1712498420,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 757344,
       "num": 685918,
       "word": "郑爽仍有上亿案款未履行",
@@ -2675,6 +2683,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 718041,
+      "num": 718041,
+      "word": "女生考研被拟录取室友偷偷送惊喜",
+      "onboard_time": 1712496979,
+      "rank": 3,
+      "category": "教育"
+    },
+    {
       "raw_hot": 714899,
       "num": 714899,
       "word": "同学知道我上岸之后接受不了",
@@ -2777,14 +2793,6 @@
       "onboard_time": 1711902258,
       "rank": 14,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 698977,
-      "num": 698977,
-      "word": "女生考研被拟录取室友偷偷送惊喜",
-      "onboard_time": 1712496979,
-      "rank": 3,
-      "category": "教育"
     },
     {
       "raw_hot": 698483,
@@ -3345,6 +3353,14 @@
       "onboard_time": 1712413880,
       "rank": 40,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 638931,
+      "num": 638931,
+      "word": "大哥远 停播",
+      "onboard_time": 1712499200,
+      "rank": 35,
+      "category": "网红"
     },
     {
       "raw_hot": 637522,
@@ -4867,6 +4883,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 486776,
+      "num": 334713,
+      "word": "你睡得最晚的一次是在干什么",
+      "onboard_time": 1712496560,
+      "rank": 38,
+      "category": "情感"
+    },
+    {
       "raw_hot": 486328,
       "num": 486328,
       "word": "王一博琼瑶女主式哭",
@@ -5377,14 +5401,6 @@
       "onboard_time": 1712142921,
       "rank": 24,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 449657,
-      "num": 334713,
-      "word": "你睡得最晚的一次是在干什么",
-      "onboard_time": 1712496560,
-      "rank": 38,
-      "category": "情感"
     },
     {
       "raw_hot": 449391,
@@ -6907,14 +6923,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 354978,
-      "num": 354978,
-      "word": "河南某高校副科长被举报聚众淫乱",
-      "onboard_time": 1712498420,
-      "rank": 17,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 354112,
       "num": 354112,
       "word": "华为P70或不举办发布会直接上线销售",
@@ -7283,6 +7291,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 333302,
+      "num": 333302,
+      "word": "李溪芮好松弛的美感",
+      "onboard_time": 1712496440,
+      "rank": 32,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 332617,
       "num": 332617,
       "word": "王一博维和警察穿搭",
@@ -7627,6 +7643,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 315244,
+      "num": 315244,
+      "word": "98 LINE",
+      "onboard_time": 1712499500,
+      "rank": 21,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 314502,
       "num": 314502,
       "word": "徐正溪发文告别烈焰",
@@ -7689,14 +7713,6 @@
       "onboard_time": 1712117363,
       "rank": 31,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 311040,
-      "num": 311040,
-      "word": "李溪芮好松弛的美感",
-      "onboard_time": 1712496440,
-      "rank": 32,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 310643,
@@ -8947,6 +8963,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 263744,
+      "num": 263744,
+      "word": "与父母同居20天他们终于不再催婚",
+      "onboard_time": 1712499261,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 263407,
       "num": 263407,
       "word": "子宫生病的第一个信号就是异常出血",
@@ -9267,6 +9291,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 254868,
+      "num": 254868,
+      "word": "赵丽颖紫纱古装",
+      "onboard_time": 1712499801,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 254326,
       "num": 254326,
       "word": "欧阳娜娜正面回应猫咪纹",
@@ -9321,6 +9353,14 @@
       "onboard_time": 1712450840,
       "rank": 34,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 253138,
+      "num": 253138,
+      "word": "眼泪女王第十集",
+      "onboard_time": 1712500041,
+      "rank": 29,
+      "category": "剧集"
     },
     {
       "raw_hot": 252886,
@@ -9529,6 +9569,14 @@
       "onboard_time": 1711974380,
       "rank": 32,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 246805,
+      "num": 246805,
+      "word": "九尾掌管干将的神",
+      "onboard_time": 1712499681,
+      "rank": 30,
+      "category": "电竞"
     },
     {
       "raw_hot": 246091,
@@ -9899,6 +9947,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 237409,
+      "num": 237409,
+      "word": "许凯不知道杨紫是魔术克星吗",
+      "onboard_time": 1712499801,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 237346,
       "num": 237346,
       "word": "林俊杰弹唱see you again",
@@ -10097,6 +10153,14 @@
       "onboard_time": 1712080633,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 232580,
+      "num": 232580,
+      "word": "租房吃过最大的苦是跟情侣合租",
+      "onboard_time": 1712499741,
+      "rank": 33,
+      "category": "情感"
     },
     {
       "raw_hot": 232086,
@@ -10401,6 +10465,14 @@
       "onboard_time": 1711945704,
       "rank": 41,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 224157,
+      "num": 252137,
+      "word": "金价还在涨超市上架金条遭疯抢",
+      "onboard_time": 1712497220,
+      "rank": 29,
+      "category": "财经"
     },
     {
       "raw_hot": 224085,
@@ -11019,6 +11091,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 212393,
+      "num": 212393,
+      "word": "追风者最后两集 爽",
+      "onboard_time": 1712499079,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 212331,
       "num": 212331,
       "word": "没想到生鸡蛋煮熟就会变成水煮蛋",
@@ -11377,14 +11457,6 @@
       "onboard_time": 1712217017,
       "rank": 31,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 205982,
-      "num": 252137,
-      "word": "金价还在涨超市上架金条遭疯抢",
-      "onboard_time": 1712497220,
-      "rank": 29,
-      "category": "财经"
     },
     {
       "raw_hot": 205980,
@@ -11777,14 +11849,6 @@
       "onboard_time": 1712274255,
       "rank": 28,
       "category": "教育"
-    },
-    {
-      "raw_hot": 200529,
-      "num": 200529,
-      "word": "大哥远 停播",
-      "onboard_time": 1712499200,
-      "rank": 35,
-      "category": "网红"
     },
     {
       "raw_hot": 200385,
@@ -12185,6 +12249,14 @@
       "onboard_time": 1712230219,
       "rank": 30,
       "category": "情感"
+    },
+    {
+      "raw_hot": 195733,
+      "num": 195733,
+      "word": "王阳 叔圈天菜",
+      "onboard_time": 1712499922,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 195695,
@@ -13243,6 +13315,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 184185,
+      "num": 184185,
+      "word": "DRG延续不缺席S组传统",
+      "onboard_time": 1712499500,
+      "rank": 44,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 184141,
       "num": 184141,
       "word": "张靓颖直播",
@@ -13817,14 +13897,6 @@
       "onboard_time": 1712373137,
       "rank": 34,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 175745,
-      "num": 175745,
-      "word": "追风者最后两集 爽",
-      "onboard_time": 1712499079,
-      "rank": 41,
-      "category": "剧集"
     },
     {
       "raw_hot": 175727,
@@ -14809,6 +14881,14 @@
       "onboard_time": 1712124262,
       "rank": 45,
       "category": "情感"
+    },
+    {
+      "raw_hot": 160885,
+      "num": 166010,
+      "word": "个人房贷规模大幅缩水",
+      "onboard_time": 1712500041,
+      "rank": 48,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 160730,
