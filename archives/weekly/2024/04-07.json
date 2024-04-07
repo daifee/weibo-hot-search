@@ -1,6 +1,6 @@
 {
   "startTime": 1712420539476,
-  "endTime": 1712528149349,
+  "endTime": 1712529246167,
   "band_list": [
     {
       "raw_hot": 4232521,
@@ -1523,6 +1523,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 254239,
+      "num": 62499,
+      "word": "被卷入超市扶梯女子丈夫发声",
+      "onboard_time": 1712525890,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 253239,
       "num": 253239,
       "word": "卡琳娜她都约我了",
@@ -1649,6 +1657,14 @@
       "onboard_time": 1712456057,
       "rank": 42,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 234773,
+      "num": 234773,
+      "word": "男子试驾劳斯莱斯获销售鼓励打动网友",
+      "onboard_time": 1712512333,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 234253,
@@ -2483,14 +2499,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 162442,
-      "num": 162442,
-      "word": "男子试驾劳斯莱斯获销售鼓励打动网友",
-      "onboard_time": 1712512333,
-      "rank": 28,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 162186,
       "num": 162186,
       "word": "有时候懒一点反而更健康",
@@ -2633,14 +2641,6 @@
       "onboard_time": 1712508375,
       "rank": 21,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 140964,
-      "num": 44646,
-      "word": "被卷入超市扶梯女子丈夫发声",
-      "onboard_time": 1712525890,
-      "rank": 10,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 140523,
@@ -3251,6 +3251,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 62993,
+      "num": 62993,
+      "word": "应采儿说Jasper是脏儿子",
+      "onboard_time": 1712521990,
+      "rank": 49,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 60857,
       "num": 113718,
       "word": "福宝",
@@ -3283,6 +3291,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 55727,
+      "num": 55727,
+      "word": "与凤行结局吻戏是加的",
+      "onboard_time": 1712520490,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 55451,
       "num": 45786,
       "word": "那些熬过的夜再也补不回来了",
@@ -3313,6 +3329,14 @@
       "onboard_time": 1712461758,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 51323,
+      "num": 51323,
+      "word": "今年唯一一次日全食即将上演",
+      "onboard_time": 1712522829,
+      "rank": 40,
+      "category": "科学科普"
     },
     {
       "raw_hot": 50965,
@@ -3355,12 +3379,20 @@
       "category": "教育"
     },
     {
-      "raw_hot": 45529,
-      "num": 45529,
-      "word": "应采儿说Jasper是脏儿子",
-      "onboard_time": 1712521990,
+      "raw_hot": 44248,
+      "num": 44248,
+      "word": "瓶装酒里的梨是怎么放进去的",
+      "onboard_time": 1712524330,
       "rank": 49,
-      "category": "综艺"
+      "category": "美食"
+    },
+    {
+      "raw_hot": 44138,
+      "num": 36311,
+      "word": "90后准新娘婚前立遗嘱遗产归父母",
+      "onboard_time": 1712518930,
+      "rank": 25,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 43971,
@@ -3369,14 +3401,6 @@
       "onboard_time": 1712495958,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 42575,
-      "num": 42575,
-      "word": "与凤行结局吻戏是加的",
-      "onboard_time": 1712520490,
-      "rank": 39,
-      "category": "剧集"
     },
     {
       "raw_hot": 41083,
@@ -3427,22 +3451,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 34333,
-      "num": 34333,
-      "word": "今年唯一一次日全食即将上演",
-      "onboard_time": 1712522829,
-      "rank": 40,
-      "category": "科学科普"
-    },
-    {
-      "raw_hot": 33005,
-      "num": 27863,
-      "word": "90后准新娘婚前立遗嘱遗产归父母",
-      "onboard_time": 1712518930,
-      "rank": 25,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 30026,
       "num": 25445,
       "word": "魏若来正式入党",
@@ -3451,10 +3459,18 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 28254,
-      "num": 28254,
-      "word": "瓶装酒里的梨是怎么放进去的",
-      "onboard_time": 1712524330,
+      "raw_hot": 29691,
+      "num": 29691,
+      "word": "李多寅晒女儿脚丫照",
+      "onboard_time": 1712528353,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 25770,
+      "num": 25770,
+      "word": "方便面真的没有营养吗",
+      "onboard_time": 1712525351,
       "rank": 49,
       "category": "美食"
     },
@@ -3475,28 +3491,20 @@
       "category": "情感"
     },
     {
-      "raw_hot": 20646,
-      "num": 20646,
-      "word": "你有收到过陌生人的鼓励吗",
-      "onboard_time": 1712517970,
-      "rank": 48,
-      "category": "社会正能量"
-    },
-    {
-      "raw_hot": 19676,
-      "num": 19676,
-      "word": "方便面真的没有营养吗",
-      "onboard_time": 1712525351,
-      "rank": 49,
-      "category": "美食"
-    },
-    {
-      "raw_hot": 19016,
-      "num": 19016,
+      "raw_hot": 21734,
+      "num": 21734,
       "word": "被路人狂撸的小狗狗",
       "onboard_time": 1712518212,
       "rank": 49,
       "category": "情感"
+    },
+    {
+      "raw_hot": 20703,
+      "num": 20703,
+      "word": "你有收到过陌生人的鼓励吗",
+      "onboard_time": 1712517970,
+      "rank": 48,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 18570,
