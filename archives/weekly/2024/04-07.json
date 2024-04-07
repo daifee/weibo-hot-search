@@ -1,6 +1,6 @@
 {
   "startTime": 1712420539476,
-  "endTime": 1712467076215,
+  "endTime": 1712468056948,
   "band_list": [
     {
       "raw_hot": 3164787,
@@ -139,6 +139,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 762919,
+      "num": 296499,
+      "word": "午睡超1小时死亡风险增加30%",
+      "onboard_time": 1712466800,
+      "rank": 37,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 713771,
       "num": 685444,
       "word": "官方通报15岁女孩被围殴",
@@ -185,6 +193,14 @@
       "onboard_time": 1712452638,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 672782,
+      "num": 325530,
+      "word": "黄子韬脖子咋了",
+      "onboard_time": 1712466440,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 667002,
@@ -299,12 +315,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 548724,
-      "num": 325530,
-      "word": "黄子韬脖子咋了",
-      "onboard_time": 1712466440,
-      "rank": 20,
-      "category": "艺人"
+      "raw_hot": 541366,
+      "num": 541366,
+      "word": "成都迪士尼连夜升级",
+      "onboard_time": 1712464041,
+      "rank": 32,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 532324,
@@ -403,12 +419,20 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 462312,
-      "num": 462312,
-      "word": "成都迪士尼连夜升级",
-      "onboard_time": 1712464041,
-      "rank": 32,
-      "category": "作品衍生"
+      "raw_hot": 426422,
+      "num": 426422,
+      "word": "林更新撞脸游本昌",
+      "onboard_time": 1712464820,
+      "rank": 15,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 421165,
+      "num": 316631,
+      "word": "iPhone闹钟不会识别调休",
+      "onboard_time": 1712464461,
+      "rank": 21,
+      "category": "数码"
     },
     {
       "raw_hot": 415828,
@@ -427,20 +451,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 393559,
-      "num": 393559,
-      "word": "林更新撞脸游本昌",
-      "onboard_time": 1712464820,
-      "rank": 15,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 382231,
-      "num": 316631,
-      "word": "iPhone闹钟不会识别调休",
-      "onboard_time": 1712464461,
-      "rank": 21,
-      "category": "数码"
+      "raw_hot": 396929,
+      "num": 396929,
+      "word": "赵奕欢的脖子被李菲儿掐红了",
+      "onboard_time": 1712466919,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 381378,
@@ -497,6 +513,14 @@
       "onboard_time": 1712455518,
       "rank": 16,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 354555,
+      "num": 354555,
+      "word": "铁路杭州站致歉",
+      "onboard_time": 1712466321,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 354112,
@@ -787,14 +811,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 210542,
-      "num": 210542,
-      "word": "铁路杭州站致歉",
-      "onboard_time": 1712466321,
-      "rank": 28,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 210237,
       "num": 210237,
       "word": "体制内开会为什么不能喝奶茶",
@@ -835,6 +851,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 203278,
+      "num": 203278,
+      "word": "为什么明明出去玩了还感觉很空虚",
+      "onboard_time": 1712466560,
+      "rank": 34,
+      "category": "情感"
+    },
+    {
       "raw_hot": 202653,
       "num": 195848,
       "word": "跳水运动员摔进水池看呆马克龙",
@@ -873,6 +897,14 @@
       "onboard_time": 1712459238,
       "rank": 38,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 197815,
+      "num": 197815,
+      "word": "诺米",
+      "onboard_time": 1712467580,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 194835,
@@ -1003,14 +1035,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 178013,
-      "num": 178013,
-      "word": "为什么明明出去玩了还感觉很空虚",
-      "onboard_time": 1712466560,
-      "rank": 34,
-      "category": "情感"
-    },
-    {
       "raw_hot": 177564,
       "num": 278645,
       "word": "上海饮料分级",
@@ -1041,14 +1065,6 @@
       "onboard_time": 1712457017,
       "rank": 35,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 173766,
-      "num": 173766,
-      "word": "午睡超1小时死亡风险增加30%",
-      "onboard_time": 1712466800,
-      "rank": 37,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 169920,
@@ -1139,14 +1155,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 149538,
-      "num": 149538,
-      "word": "赵奕欢的脖子被李菲儿掐红了",
-      "onboard_time": 1712466919,
-      "rank": 42,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 149092,
       "num": 149092,
       "word": "放假三天躺了三天",
@@ -1169,6 +1177,14 @@
       "onboard_time": 1712462841,
       "rank": 49,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 145653,
+      "num": 145653,
+      "word": "成都迪士尼 取号",
+      "onboard_time": 1712467639,
+      "rank": 38,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 142067,
@@ -1283,6 +1299,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 120462,
+      "num": 120462,
+      "word": "王一博以角色表达对警察的敬意",
+      "onboard_time": 1712467879,
+      "rank": 46,
+      "category": "电影"
+    },
+    {
       "raw_hot": 119122,
       "num": 119122,
       "word": "湖人战胜骑士",
@@ -1297,6 +1321,14 @@
       "onboard_time": 1712414420,
       "rank": 44,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 114645,
+      "num": 114645,
+      "word": "朱梓骁 脖巴",
+      "onboard_time": 1712468000,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 114045,

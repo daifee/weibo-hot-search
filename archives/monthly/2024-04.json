@@ -1,6 +1,6 @@
 {
   "startTime": 1711902044401,
-  "endTime": 1712467076215,
+  "endTime": 1712468056948,
   "band_list": [
     {
       "raw_hot": 16874674,
@@ -2283,6 +2283,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 762919,
+      "num": 296499,
+      "word": "午睡超1小时死亡风险增加30%",
+      "onboard_time": 1712466800,
+      "rank": 37,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 760708,
       "num": 760708,
       "word": "张元英ins",
@@ -2777,6 +2785,14 @@
       "onboard_time": 1712191638,
       "rank": 8,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 672782,
+      "num": 325530,
+      "word": "黄子韬脖子咋了",
+      "onboard_time": 1712466440,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 672726,
@@ -3875,14 +3891,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 548724,
-      "num": 325530,
-      "word": "黄子韬脖子咋了",
-      "onboard_time": 1712466440,
-      "rank": 20,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 547918,
       "num": 547918,
       "word": "美国新泽西发生里氏4.8级地震",
@@ -3961,6 +3969,14 @@
       "onboard_time": 1712127863,
       "rank": 23,
       "category": "情感"
+    },
+    {
+      "raw_hot": 541366,
+      "num": 541366,
+      "word": "成都迪士尼连夜升级",
+      "onboard_time": 1712464041,
+      "rank": 32,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 540941,
@@ -4803,14 +4819,6 @@
       "category": "游戏,艺人"
     },
     {
-      "raw_hot": 462312,
-      "num": 462312,
-      "word": "成都迪士尼连夜升级",
-      "onboard_time": 1712464041,
-      "rank": 32,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 461559,
       "num": 461559,
       "word": "金靖cos西施",
@@ -5299,6 +5307,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 426422,
+      "num": 426422,
+      "word": "林更新撞脸游本昌",
+      "onboard_time": 1712464820,
+      "rank": 15,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 425955,
       "num": 425955,
       "word": "甘肃一地旅游火爆无房游客免费住进宿舍",
@@ -5369,6 +5385,14 @@
       "onboard_time": 1712294058,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 421165,
+      "num": 316631,
+      "word": "iPhone闹钟不会识别调休",
+      "onboard_time": 1712464461,
+      "rank": 21,
+      "category": "数码"
     },
     {
       "raw_hot": 421108,
@@ -5715,6 +5739,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 396929,
+      "num": 396929,
+      "word": "赵奕欢的脖子被李菲儿掐红了",
+      "onboard_time": 1712466919,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 396372,
       "num": 396372,
       "word": "王鹤棣于适 新电影",
@@ -5769,14 +5801,6 @@
       "onboard_time": 1712044939,
       "rank": 27,
       "category": "美食,健康医疗"
-    },
-    {
-      "raw_hot": 393559,
-      "num": 393559,
-      "word": "林更新撞脸游本昌",
-      "onboard_time": 1712464820,
-      "rank": 15,
-      "category": "剧集"
     },
     {
       "raw_hot": 392792,
@@ -5929,14 +5953,6 @@
       "onboard_time": 1712194219,
       "rank": 40,
       "category": "情感"
-    },
-    {
-      "raw_hot": 382231,
-      "num": 316631,
-      "word": "iPhone闹钟不会识别调休",
-      "onboard_time": 1712464461,
-      "rank": 21,
-      "category": "数码"
     },
     {
       "raw_hot": 381588,
@@ -6385,6 +6401,14 @@
       "onboard_time": 1712111121,
       "rank": 30,
       "category": "情感"
+    },
+    {
+      "raw_hot": 354555,
+      "num": 354555,
+      "word": "铁路杭州站致歉",
+      "onboard_time": 1712466321,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 354112,
@@ -10275,14 +10299,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 210542,
-      "num": 210542,
-      "word": "铁路杭州站致歉",
-      "onboard_time": 1712466321,
-      "rank": 28,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 210534,
       "num": 210534,
       "word": "安徽江淮汽车集团原董事长安进接受审查调查",
@@ -10659,6 +10675,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 203278,
+      "num": 203278,
+      "word": "为什么明明出去玩了还感觉很空虚",
+      "onboard_time": 1712466560,
+      "rank": 34,
+      "category": "情感"
+    },
+    {
       "raw_hot": 203223,
       "num": 203223,
       "word": "心疼凤来",
@@ -11009,6 +11033,14 @@
       "onboard_time": 1712416878,
       "rank": 41,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 197815,
+      "num": 197815,
+      "word": "诺米",
+      "onboard_time": 1712302338,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 197777,
@@ -12595,14 +12627,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 178013,
-      "num": 178013,
-      "word": "为什么明明出去玩了还感觉很空虚",
-      "onboard_time": 1712466560,
-      "rank": 34,
-      "category": "情感"
-    },
-    {
       "raw_hot": 177988,
       "num": 177988,
       "word": "王伟烈士牺牲23年了",
@@ -12865,14 +12889,6 @@
       "onboard_time": 1712195598,
       "rank": 37,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 173766,
-      "num": 173766,
-      "word": "午睡超1小时死亡风险增加30%",
-      "onboard_time": 1712466800,
-      "rank": 37,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 173751,
@@ -14515,14 +14531,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 149538,
-      "num": 149538,
-      "word": "赵奕欢的脖子被李菲儿掐红了",
-      "onboard_time": 1712466919,
-      "rank": 42,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 149431,
       "num": 149431,
       "word": "这才是恋爱真正的感觉吧",
@@ -14825,6 +14833,14 @@
       "onboard_time": 1712306719,
       "rank": 45,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 145653,
+      "num": 145653,
+      "word": "成都迪士尼 取号",
+      "onboard_time": 1712467639,
+      "rank": 38,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 145642,
@@ -15241,14 +15257,6 @@
       "onboard_time": 1712027960,
       "rank": 49,
       "category": "情感"
-    },
-    {
-      "raw_hot": 138313,
-      "num": 138313,
-      "word": "诺米",
-      "onboard_time": 1712302338,
-      "rank": 45,
-      "category": "综艺"
     },
     {
       "raw_hot": 138294,
@@ -16179,6 +16187,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 120462,
+      "num": 120462,
+      "word": "王一博以角色表达对警察的敬意",
+      "onboard_time": 1712467879,
+      "rank": 46,
+      "category": "电影"
+    },
+    {
       "raw_hot": 120410,
       "num": 120410,
       "word": "时代少年团掌管吃饭的神",
@@ -16449,6 +16465,14 @@
       "onboard_time": 1712291117,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 114645,
+      "num": 114645,
+      "word": "朱梓骁 脖巴",
+      "onboard_time": 1712468000,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 114641,
