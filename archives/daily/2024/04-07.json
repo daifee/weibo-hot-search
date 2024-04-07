@@ -1,6 +1,6 @@
 {
   "startTime": 1712420539476,
-  "endTime": 1712457467028,
+  "endTime": 1712459931958,
   "band_list": [
     {
       "raw_hot": 3164787,
@@ -11,6 +11,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1795259,
+      "num": 481426,
+      "word": "蒋胜男发文说赵丽颖粉丝戏多",
+      "onboard_time": 1712456597,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1616992,
       "num": 1616992,
       "word": "15元一晚的房间",
@@ -19,12 +27,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 1354693,
+      "num": 1354693,
+      "word": "五一假期前后都要调休上班",
+      "onboard_time": 1712454676,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1297594,
       "num": 1297594,
       "word": "林更新 我做她的瑶",
       "onboard_time": 1712447897,
       "rank": 1,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 1256358,
+      "num": 1256358,
+      "word": "提灯定损事件后当地民宿遭大量退订",
+      "onboard_time": 1712454557,
+      "rank": 5,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1243767,
@@ -59,14 +83,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 995536,
-      "num": 995536,
-      "word": "提灯定损事件后当地民宿遭大量退订",
-      "onboard_time": 1712454557,
-      "rank": 5,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 871912,
       "num": 429009,
       "word": "日本天皇独生女成为月薪7千的打工人",
@@ -91,19 +107,11 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 777551,
-      "num": 481426,
-      "word": "蒋胜男发文说赵丽颖粉丝戏多",
-      "onboard_time": 1712456597,
-      "rank": 26,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 752209,
-      "num": 752209,
-      "word": "五一假期前后都要调休上班",
-      "onboard_time": 1712454676,
-      "rank": 8,
+      "raw_hot": 730909,
+      "num": 730909,
+      "word": "胡锡进称应该给虐猫男生改正机会",
+      "onboard_time": 1712457918,
+      "rank": 5,
       "category": "社会新闻"
     },
     {
@@ -363,6 +371,22 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 330033,
+      "num": 330033,
+      "word": "电视剧迎风官宣阵容",
+      "onboard_time": 1712459059,
+      "rank": 12,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 328095,
+      "num": 328095,
+      "word": "我国推出首个饮料营养选择分级标识",
+      "onboard_time": 1712455458,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 327890,
       "num": 327890,
       "word": "吴镇宇说张睿就一辈子演古装了",
@@ -403,6 +427,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 297691,
+      "num": 297691,
+      "word": "王晰为声入人心发声",
+      "onboard_time": 1712457377,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 297629,
       "num": 297629,
       "word": "医生温馨提示不要碰这些药膏",
@@ -417,6 +449,22 @@
       "onboard_time": 1712418258,
       "rank": 22,
       "category": "演出"
+    },
+    {
+      "raw_hot": 283154,
+      "num": 259157,
+      "word": "17级以前的大学生才是最幸福的",
+      "onboard_time": 1712457617,
+      "rank": 22,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 272421,
+      "num": 258056,
+      "word": "马上就知道六天有多长了",
+      "onboard_time": 1712458099,
+      "rank": 23,
+      "category": "幽默"
     },
     {
       "raw_hot": 265022,
@@ -435,6 +483,14 @@
       "category": "美食,幽默"
     },
     {
+      "raw_hot": 257999,
+      "num": 257999,
+      "word": "导演你们拍这段真的没笑场吗",
+      "onboard_time": 1712458339,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 255735,
       "num": 255735,
       "word": "BOA锁定第三轮A组",
@@ -443,20 +499,20 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 254572,
-      "num": 254572,
-      "word": "我国推出首个饮料营养选择分级标识",
-      "onboard_time": 1712455458,
-      "rank": 22,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 253239,
       "num": 253239,
       "word": "卡琳娜她都约我了",
       "onboard_time": 1712450840,
       "rank": 34,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 246214,
+      "num": 295939,
+      "word": "22岁的我已经和癌症斗了3000天",
+      "onboard_time": 1712458456,
+      "rank": 16,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 239673,
@@ -491,12 +547,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 210569,
+      "num": 210569,
+      "word": "杭州南站大批客流拥挤有人破门自救",
+      "onboard_time": 1712459178,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 210237,
       "num": 210237,
       "word": "体制内开会为什么不能喝奶茶",
       "onboard_time": 1712412259,
       "rank": 28,
       "category": "情感"
+    },
+    {
+      "raw_hot": 209135,
+      "num": 296178,
+      "word": "智己L6即将发布",
+      "onboard_time": 1712457738,
+      "rank": 15,
+      "category": "汽车"
     },
     {
       "raw_hot": 208952,
@@ -547,14 +619,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 199087,
-      "num": 199087,
-      "word": "王晰为声入人心发声",
-      "onboard_time": 1712457377,
-      "rank": 28,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 194835,
       "num": 194835,
       "word": "耶伦",
@@ -603,6 +667,22 @@
       "category": "演出"
     },
     {
+      "raw_hot": 191208,
+      "num": 191208,
+      "word": "金价飙升有顾客越涨越买",
+      "onboard_time": 1712458817,
+      "rank": 30,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 188156,
+      "num": 188156,
+      "word": "林更新终于会侧位吻了",
+      "onboard_time": 1712457557,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 182206,
       "num": 171013,
       "word": "眼泪女王",
@@ -643,6 +723,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 175580,
+      "num": 175580,
+      "word": "首饰金价逼近每克720元",
+      "onboard_time": 1712456477,
+      "rank": 43,
+      "category": "财经"
+    },
+    {
       "raw_hot": 173930,
       "num": 173930,
       "word": "短剧都卷到大制作了",
@@ -675,12 +763,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 165118,
-      "num": 165118,
-      "word": "首饰金价逼近每克720元",
-      "onboard_time": 1712456477,
-      "rank": 43,
-      "category": "财经"
+      "raw_hot": 166419,
+      "num": 166419,
+      "word": "静白离开甘露寺遇见好人了",
+      "onboard_time": 1712459238,
+      "rank": 38,
+      "category": "剧集"
     },
     {
       "raw_hot": 163555,
@@ -731,6 +819,22 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 152263,
+      "num": 152263,
+      "word": "体制内入职早年龄却比我小的同事",
+      "onboard_time": 1712456057,
+      "rank": 42,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 150892,
+      "num": 150892,
+      "word": "上海年轻人街头抱树吸春",
+      "onboard_time": 1712458757,
+      "rank": 43,
+      "category": "情感"
+    },
+    {
       "raw_hot": 149092,
       "num": 149092,
       "word": "放假三天躺了三天",
@@ -745,6 +849,14 @@
       "onboard_time": 1712413821,
       "rank": 36,
       "category": "演出"
+    },
+    {
+      "raw_hot": 145212,
+      "num": 145212,
+      "word": "手术直播间 看完不敢涂口红",
+      "onboard_time": 1712459777,
+      "rank": 45,
+      "category": "剧集"
     },
     {
       "raw_hot": 142067,
@@ -1131,6 +1243,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 21184,
+      "num": 166610,
+      "word": "中端手机性能有多卷",
+      "onboard_time": 1712459418,
+      "rank": 37,
+      "category": "数码"
+    },
+    {
       "raw_hot": 18221,
       "num": 30792,
       "word": "CBA",
@@ -1169,6 +1289,9 @@
     },
     {
       "word": "#家国永念致敬英雄#"
+    },
+    {
+      "word": "#推进城乡环境整治完善公共卫生设施#"
     }
   ]
 }
