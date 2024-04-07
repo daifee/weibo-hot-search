@@ -1,6 +1,6 @@
 {
   "startTime": 1712420539476,
-  "endTime": 1712522086810,
+  "endTime": 1712524580301,
   "band_list": [
     {
       "raw_hot": 4232521,
@@ -3403,6 +3403,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 34230,
+      "num": 34230,
+      "word": "应采儿说Jasper是脏儿子",
+      "onboard_time": 1712521990,
+      "rank": 49,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 30026,
       "num": 25445,
       "word": "魏若来正式入党",
@@ -3411,15 +3419,15 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 25511,
-      "num": 24201,
-      "word": "手术直播间",
-      "onboard_time": 1712430551,
-      "rank": 40,
+      "raw_hot": 28154,
+      "num": 28154,
+      "word": "与凤行结局吻戏是加的",
+      "onboard_time": 1712520490,
+      "rank": 39,
       "category": "剧集"
     },
     {
-      "raw_hot": 23991,
+      "raw_hot": 26444,
       "num": 19756,
       "word": "90后准新娘婚前立遗嘱遗产归父母",
       "onboard_time": 1712518930,
@@ -3427,11 +3435,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 22416,
-      "num": 22416,
-      "word": "与凤行结局吻戏是加的",
-      "onboard_time": 1712520490,
-      "rank": 39,
+      "raw_hot": 25511,
+      "num": 24201,
+      "word": "手术直播间",
+      "onboard_time": 1712430551,
+      "rank": 40,
       "category": "剧集"
     },
     {
@@ -3459,20 +3467,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 16541,
+      "num": 18391,
+      "word": "被路人狂撸的小狗狗",
+      "onboard_time": 1712518212,
+      "rank": 49,
+      "category": "情感"
+    },
+    {
       "raw_hot": 16244,
       "num": 23531,
       "word": "好像明白为啥鸟类多是侧面照了",
       "onboard_time": 1712429891,
       "rank": 47,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 16020,
-      "num": 18391,
-      "word": "被路人狂撸的小狗狗",
-      "onboard_time": 1712518212,
-      "rank": 49,
-      "category": "情感"
     },
     {
       "raw_hot": 15726,
@@ -3483,6 +3491,14 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 14735,
+      "num": 14735,
+      "word": "今年唯一一次日全食即将上演",
+      "onboard_time": 1712522829,
+      "rank": 40,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 14707,
       "num": 23169,
       "word": "新发型这不就有了",
@@ -3491,12 +3507,20 @@
       "category": "美妆"
     },
     {
-      "raw_hot": 13298,
-      "num": 14282,
-      "word": "应采儿说Jasper是脏儿子",
-      "onboard_time": 1712521990,
+      "raw_hot": 12430,
+      "num": 12880,
+      "word": "你有收到过陌生人的鼓励吗",
+      "onboard_time": 1712517970,
+      "rank": 48,
+      "category": "社会正能量"
+    },
+    {
+      "raw_hot": 11982,
+      "num": 12869,
+      "word": "瓶装酒里的梨是怎么放进去的",
+      "onboard_time": 1712524330,
       "rank": 49,
-      "category": "综艺"
+      "category": "美食"
     },
     {
       "raw_hot": 11572,
