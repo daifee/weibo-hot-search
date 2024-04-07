@@ -1,0 +1,410 @@
+{
+  "runTime": 1712492954316,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1327662,
+        "num": 1327662,
+        "word": "追她呀 她旺你",
+        "onboard_time": 1712483838,
+        "rank": 0,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 1146504,
+        "num": 1146504,
+        "word": "谢帝",
+        "onboard_time": 1712489539,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 62743,
+        "num": 997290,
+        "word": "海南首个卫星超级工厂项目加快推动",
+        "onboard_time": 1712476579,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 920582,
+        "num": 920582,
+        "word": "下班以后最轻松的副业",
+        "onboard_time": 1712487438,
+        "rank": 3,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 617673,
+        "num": 617673,
+        "word": "陈学冬 不会退圈死心吧",
+        "onboard_time": 1712479278,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 572324,
+        "num": 572324,
+        "word": "去世的妈坐牢的爸破碎的他",
+        "onboard_time": 1712482218,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 510807,
+        "num": 510807,
+        "word": "差点忘了林更新跟胡歌刘诗诗是同一批的",
+        "onboard_time": 1712490378,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 489716,
+        "num": 489716,
+        "word": "以色列大规模撤军",
+        "onboard_time": 1712485518,
+        "rank": 7,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 416263,
+        "num": 416263,
+        "word": "干眼症原来缺的是油不是水",
+        "onboard_time": 1712484979,
+        "rank": 8,
+        "category": "科学科普,健康医疗"
+      },
+      {
+        "raw_hot": 226847,
+        "num": 414835,
+        "word": "河南省考成绩出之前我的心情belike",
+        "onboard_time": 1712490198,
+        "rank": 9,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 525186,
+        "num": 414708,
+        "word": "我倒要看看25年元旦会怎么调休",
+        "onboard_time": 1712491759,
+        "rank": 10,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 414436,
+        "num": 414436,
+        "word": "追风者结局",
+        "onboard_time": 1712491219,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 393187,
+        "num": 393187,
+        "word": "第一批去埃及旅行的人快被骗到裸奔了",
+        "onboard_time": 1712476038,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 330163,
+        "num": 330163,
+        "word": "女性的小肚子是为了保护子宫卵巢",
+        "onboard_time": 1712473999,
+        "rank": 13,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 705708,
+        "num": 324011,
+        "word": "赵丽颖扇子上写的叫爸爸",
+        "onboard_time": 1712490257,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 312959,
+        "num": 312959,
+        "word": "眼泪女王 超前点播",
+        "onboard_time": 1712487198,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 310931,
+        "num": 310931,
+        "word": "成都文旅还没反应过来 迪士尼建好了",
+        "onboard_time": 1712480300,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 291461,
+        "num": 291461,
+        "word": "小米定金事件暴露了成年人的耍赖心态",
+        "onboard_time": 1712491999,
+        "rank": 17,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 255260,
+        "num": 255260,
+        "word": "林更新 我一人可抵千军万马",
+        "onboard_time": 1712485278,
+        "rank": 18,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 195415,
+        "num": 248351,
+        "word": "想当行长继承家产男孩父亲确为行长",
+        "onboard_time": 1712469258,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 834104,
+        "num": 247096,
+        "word": "赵丽颖林更新换了cp手机壳",
+        "onboard_time": 1712490257,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 369922,
+        "num": 237640,
+        "word": "中医建议女生春天多披头散发",
+        "onboard_time": 1712487918,
+        "rank": 21,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 258840,
+        "num": 231246,
+        "word": "刘美含去埃及没被骗",
+        "onboard_time": 1712490378,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 224416,
+        "num": 224416,
+        "word": "高铁会惩罚每个苹果用户",
+        "onboard_time": 1712475618,
+        "rank": 23,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 219984,
+        "num": 219984,
+        "word": "TES对战JDG",
+        "onboard_time": 1712485100,
+        "rank": 24,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 250328,
+        "num": 218486,
+        "word": "王一博粉丝 不愿意就算了",
+        "onboard_time": 1712483477,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 215694,
+        "num": 215694,
+        "word": "肖战长发侧颜库存",
+        "onboard_time": 1712492899,
+        "rank": 26,
+        "category": "艺人,作品衍生"
+      },
+      {
+        "raw_hot": 212470,
+        "num": 212470,
+        "word": "白鹿大理vlog",
+        "onboard_time": 1712491458,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 175938,
+        "num": 210986,
+        "word": "教授建议小学低年级免去考试和成绩",
+        "onboard_time": 1712487258,
+        "rank": 28,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 107271,
+        "num": 210494,
+        "word": "江苏致4死火灾事故宣判4人被追刑责",
+        "onboard_time": 1712491759,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 298284,
+        "num": 210486,
+        "word": "订婚时三金里面的手镯被偷了",
+        "onboard_time": 1712492359,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 210467,
+        "num": 210467,
+        "word": "李雪琴答题速度惊呆十个勤天",
+        "onboard_time": 1712485458,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 240559,
+        "num": 207772,
+        "word": "网恋男约我出去旅游说订双床房",
+        "onboard_time": 1712491878,
+        "rank": 32,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 201676,
+        "num": 201676,
+        "word": "成龙称心里会惊讶已经70岁",
+        "onboard_time": 1712492178,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 201193,
+        "num": 201193,
+        "word": "确认关系前要跟对方说清楚的话",
+        "onboard_time": 1712489778,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 196771,
+        "num": 196771,
+        "word": "午睡超1小时死亡风险增加30%",
+        "onboard_time": 1712466800,
+        "rank": 35,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 194526,
+        "num": 194526,
+        "word": "关于被选中做刘亦菲替身这件事",
+        "onboard_time": 1712489597,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 186975,
+        "num": 186975,
+        "word": "柯南2024剧场版终极预告",
+        "onboard_time": 1712489898,
+        "rank": 37,
+        "category": "电影,动漫"
+      },
+      {
+        "raw_hot": 188330,
+        "num": 185049,
+        "word": "成龙杨幂霍建华旧照",
+        "onboard_time": 1712488997,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 94241,
+        "num": 183420,
+        "word": "新疆拜城5.4级地震",
+        "onboard_time": 1712480719,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 182732,
+        "num": 182732,
+        "word": "23岁没谈过恋爱正常吗",
+        "onboard_time": 1712492598,
+        "rank": 40,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 171921,
+        "num": 171921,
+        "word": "追风者",
+        "onboard_time": 1712491037,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 171892,
+        "num": 171892,
+        "word": "猪景房凭什么8888元一晚",
+        "onboard_time": 1712478500,
+        "rank": 42,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 171067,
+        "num": 171067,
+        "word": "5天年假折现了6千多",
+        "onboard_time": 1712483838,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 153248,
+        "num": 153248,
+        "word": "大小周其实不是月休六天",
+        "onboard_time": 1712484439,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 150331,
+        "num": 150331,
+        "word": "哥们的韦鲁斯还要练吗",
+        "onboard_time": 1712489237,
+        "rank": 45,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 136476,
+        "num": 136476,
+        "word": "追风者 江西",
+        "onboard_time": 1712489299,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 132608,
+        "num": 132608,
+        "word": "今天星期0",
+        "onboard_time": 1712479399,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 79830,
+        "num": 127612,
+        "word": "阿鲁纳再回应WTT",
+        "onboard_time": 1712491280,
+        "rank": 48,
+        "category": "体育,运动健身"
+      },
+      {
+        "raw_hot": 78280,
+        "num": 127554,
+        "word": "台湾花莲县海域发生4.8级地震",
+        "onboard_time": 1712486417,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#家国永念致敬英雄#"
+    }
+  }
+}

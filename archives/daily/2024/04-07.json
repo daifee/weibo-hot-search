@@ -1,6 +1,6 @@
 {
   "startTime": 1712420539476,
-  "endTime": 1712489650860,
+  "endTime": 1712492954316,
   "band_list": [
     {
       "raw_hot": 3164787,
@@ -163,6 +163,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1146504,
+      "num": 1146504,
+      "word": "谢帝",
+      "onboard_time": 1712489539,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1087812,
       "num": 1087812,
       "word": "Jiejie回来了",
@@ -211,6 +219,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 920582,
+      "num": 920582,
+      "word": "下班以后最轻松的副业",
+      "onboard_time": 1712487438,
+      "rank": 24,
+      "category": "情感"
+    },
+    {
       "raw_hot": 910879,
       "num": 959018,
       "word": "这个清明119000000人次出游",
@@ -257,6 +273,14 @@
       "onboard_time": 1712447718,
       "rank": 3,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 834104,
+      "num": 247096,
+      "word": "赵丽颖林更新换了cp手机壳",
+      "onboard_time": 1712490257,
+      "rank": 20,
+      "category": "剧集"
     },
     {
       "raw_hot": 807130,
@@ -321,6 +345,14 @@
       "onboard_time": 1712461099,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 705708,
+      "num": 324011,
+      "word": "赵丽颖扇子上写的叫爸爸",
+      "onboard_time": 1712490257,
+      "rank": 14,
+      "category": "剧集"
     },
     {
       "raw_hot": 697285,
@@ -563,12 +595,28 @@
       "category": "数码"
     },
     {
+      "raw_hot": 525186,
+      "num": 414708,
+      "word": "我倒要看看25年元旦会怎么调休",
+      "onboard_time": 1712491759,
+      "rank": 10,
+      "category": "情感"
+    },
+    {
       "raw_hot": 519154,
       "num": 519154,
       "word": "这4种食物是尿毒症的加速器",
       "onboard_time": 1712411658,
       "rank": 38,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 510807,
+      "num": 510807,
+      "word": "差点忘了林更新跟胡歌刘诗诗是同一批的",
+      "onboard_time": 1712490378,
+      "rank": 6,
+      "category": "综艺"
     },
     {
       "raw_hot": 503550,
@@ -648,14 +696,6 @@
       "word": "其实圈子里只有我们两个",
       "onboard_time": 1712468779,
       "rank": 30,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 477584,
-      "num": 477584,
-      "word": "下班以后最轻松的副业",
-      "onboard_time": 1712487438,
-      "rank": 24,
       "category": "情感"
     },
     {
@@ -769,6 +809,14 @@
       "onboard_time": 1712446696,
       "rank": 17,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 414436,
+      "num": 414436,
+      "word": "追风者结局",
+      "onboard_time": 1712491219,
+      "rank": 11,
+      "category": "剧集"
     },
     {
       "raw_hot": 405441,
@@ -963,6 +1011,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 312959,
+      "num": 312959,
+      "word": "眼泪女王 超前点播",
+      "onboard_time": 1712487198,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 308398,
       "num": 308398,
       "word": "承欢记女主撞见未来公公出轨",
@@ -1003,12 +1059,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 298832,
-      "num": 298832,
-      "word": "眼泪女王 超前点播",
-      "onboard_time": 1712487198,
-      "rank": 26,
-      "category": "剧集"
+      "raw_hot": 298284,
+      "num": 210486,
+      "word": "订婚时三金里面的手镯被偷了",
+      "onboard_time": 1712492359,
+      "rank": 30,
+      "category": "情感"
     },
     {
       "raw_hot": 297691,
@@ -1049,6 +1105,14 @@
       "onboard_time": 1712462359,
       "rank": 23,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 291461,
+      "num": 291461,
+      "word": "小米定金事件暴露了成年人的耍赖心态",
+      "onboard_time": 1712491999,
+      "rank": 17,
+      "category": "汽车"
     },
     {
       "raw_hot": 290036,
@@ -1147,6 +1211,14 @@
       "category": "美食,幽默"
     },
     {
+      "raw_hot": 258840,
+      "num": 231246,
+      "word": "刘美含去埃及没被骗",
+      "onboard_time": 1712490378,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 257668,
       "num": 257668,
       "word": "肖战说未来会继续加油",
@@ -1211,6 +1283,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 240559,
+      "num": 207772,
+      "word": "网恋男约我出去旅游说订双床房",
+      "onboard_time": 1712491878,
+      "rank": 32,
+      "category": "情感"
+    },
+    {
       "raw_hot": 239979,
       "num": 239979,
       "word": "妈妈想和你长相守有错吗",
@@ -1267,6 +1347,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 226847,
+      "num": 414835,
+      "word": "河南省考成绩出之前我的心情belike",
+      "onboard_time": 1712490198,
+      "rank": 9,
+      "category": "教育"
+    },
+    {
       "raw_hot": 225665,
       "num": 225665,
       "word": "日式快餐失宠了",
@@ -1289,6 +1377,14 @@
       "onboard_time": 1712471240,
       "rank": 29,
       "category": "演出"
+    },
+    {
+      "raw_hot": 219984,
+      "num": 219984,
+      "word": "TES对战JDG",
+      "onboard_time": 1712485100,
+      "rank": 34,
+      "category": "电竞"
     },
     {
       "raw_hot": 219619,
@@ -1339,6 +1435,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 215694,
+      "num": 215694,
+      "word": "肖战长发侧颜库存",
+      "onboard_time": 1712492899,
+      "rank": 26,
+      "category": "艺人,作品衍生"
+    },
+    {
       "raw_hot": 215340,
       "num": 215340,
       "word": "安卓用户关怀果粉闹钟没响",
@@ -1361,6 +1465,14 @@
       "onboard_time": 1712471118,
       "rank": 32,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 212470,
+      "num": 212470,
+      "word": "白鹿大理vlog",
+      "onboard_time": 1712491458,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 210407,
@@ -1483,6 +1595,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 201676,
+      "num": 201676,
+      "word": "成龙称心里会惊讶已经70岁",
+      "onboard_time": 1712492178,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 201500,
       "num": 201500,
       "word": "王一博能不能拍一部卧底剧",
@@ -1505,6 +1625,14 @@
       "onboard_time": 1712442853,
       "rank": 14,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 201193,
+      "num": 201193,
+      "word": "确认关系前要跟对方说清楚的话",
+      "onboard_time": 1712489778,
+      "rank": 34,
+      "category": "情感"
     },
     {
       "raw_hot": 200385,
@@ -1553,6 +1681,14 @@
       "onboard_time": 1712455817,
       "rank": 31,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 194526,
+      "num": 194526,
+      "word": "关于被选中做刘亦菲替身这件事",
+      "onboard_time": 1712489597,
+      "rank": 48,
+      "category": "艺人"
     },
     {
       "raw_hot": 193317,
@@ -1619,14 +1755,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 190232,
-      "num": 190232,
-      "word": "TES对战JDG",
-      "onboard_time": 1712485100,
-      "rank": 34,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 189943,
       "num": 189943,
       "word": "林更新终于会侧位吻了",
@@ -1649,6 +1777,14 @@
       "onboard_time": 1712464820,
       "rank": 32,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 186975,
+      "num": 186975,
+      "word": "柯南2024剧场版终极预告",
+      "onboard_time": 1712489898,
+      "rank": 37,
+      "category": "电影,动漫"
     },
     {
       "raw_hot": 185902,
@@ -1689,6 +1825,14 @@
       "onboard_time": 1712484021,
       "rank": 33,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 182732,
+      "num": 182732,
+      "word": "23岁没谈过恋爱正常吗",
+      "onboard_time": 1712492598,
+      "rank": 40,
+      "category": "情感"
     },
     {
       "raw_hot": 182439,
@@ -1809,6 +1953,14 @@
       "onboard_time": 1712487740,
       "rank": 31,
       "category": "情感"
+    },
+    {
+      "raw_hot": 171921,
+      "num": 171921,
+      "word": "追风者",
+      "onboard_time": 1712401819,
+      "rank": 45,
+      "category": "剧集"
     },
     {
       "raw_hot": 170639,
@@ -2331,14 +2483,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 119627,
-      "num": 119627,
-      "word": "谢帝",
-      "onboard_time": 1712489539,
-      "rank": 47,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 119340,
       "num": 119340,
       "word": "负周一",
@@ -2371,14 +2515,6 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 112221,
-      "num": 112221,
-      "word": "关于被选中做刘亦菲替身这件事",
-      "onboard_time": 1712489597,
-      "rank": 48,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 111455,
       "num": 111455,
       "word": "创造营亚洲排名",
@@ -2393,6 +2529,14 @@
       "onboard_time": 1712416100,
       "rank": 46,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 107271,
+      "num": 210494,
+      "word": "江苏致4死火灾事故宣判4人被追刑责",
+      "onboard_time": 1712491759,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 102858,
@@ -2483,6 +2627,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 79830,
+      "num": 127612,
+      "word": "阿鲁纳再回应WTT",
+      "onboard_time": 1712491280,
+      "rank": 48,
+      "category": "体育,运动健身"
+    },
+    {
       "raw_hot": 79059,
       "num": 79059,
       "word": "DYG春季赛淘汰",
@@ -2545,6 +2697,14 @@
       "onboard_time": 1712435951,
       "rank": 17,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 62743,
+      "num": 997290,
+      "word": "海南首个卫星超级工厂项目加快推动",
+      "onboard_time": 1712476579,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 60857,
@@ -2680,14 +2840,6 @@
       "word": "手术直播间",
       "onboard_time": 1712430551,
       "rank": 40,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 23083,
-      "num": 23979,
-      "word": "追风者",
-      "onboard_time": 1712401819,
-      "rank": 45,
       "category": "剧集"
     },
     {
