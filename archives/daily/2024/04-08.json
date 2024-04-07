@@ -1,6 +1,6 @@
 {
   "startTime": 1712506792576,
-  "endTime": 1712514031180,
+  "endTime": 1712514874799,
   "band_list": [
     {
       "raw_hot": 1788973,
@@ -419,6 +419,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 78670,
+      "num": 78670,
+      "word": "男子试驾劳斯莱斯获销售鼓励打动网友",
+      "onboard_time": 1712512333,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 76310,
       "num": 82087,
       "word": "金价还在涨超市上架金条遭疯抢",
@@ -435,15 +443,7 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 53953,
-      "num": 45797,
-      "word": "林更新谭松韵请叫我总监旧照",
-      "onboard_time": 1712511192,
-      "rank": 47,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 53372,
+      "raw_hot": 55451,
       "num": 45786,
       "word": "那些熬过的夜再也补不回来了",
       "onboard_time": 1712512091,
@@ -451,12 +451,12 @@
       "category": "科学科普,健康医疗"
     },
     {
-      "raw_hot": 45619,
-      "num": 45619,
-      "word": "男子试驾劳斯莱斯获销售鼓励打动网友",
-      "onboard_time": 1712512333,
-      "rank": 28,
-      "category": "社会新闻"
+      "raw_hot": 53953,
+      "num": 45797,
+      "word": "林更新谭松韵请叫我总监旧照",
+      "onboard_time": 1712511192,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 43971,
@@ -467,16 +467,16 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 33189,
-      "num": 33189,
+      "raw_hot": 36185,
+      "num": 36185,
       "word": "9.9元咖啡为何会消失",
       "onboard_time": 1712512691,
       "rank": 38,
       "category": "美食"
     },
     {
-      "raw_hot": 29298,
-      "num": 29298,
+      "raw_hot": 29562,
+      "num": 29562,
       "word": "追风者",
       "onboard_time": 1712491037,
       "rank": 41,

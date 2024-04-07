@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/04/08 00:19:52 ~ 2024/04/08 02:20:31
+本榜单时间：2024/04/08 00:19:52 ~ 2024/04/08 02:34:34
 </p>
 </blockquote>
 <p>
@@ -327,6 +327,12 @@ WTT沙特大满贯2024双打名单（热度：88473）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E8%AF%95%E9%A9%BE%E5%8A%B3%E6%96%AF%E8%8E%B1%E6%96%AF%E8%8E%B7%E9%94%80%E5%94%AE%E9%BC%93%E5%8A%B1%E6%89%93%E5%8A%A8%E7%BD%91%E5%8F%8B%23" target="weibo">
+男子试驾劳斯莱斯获销售鼓励打动网友（热度：78670）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E8%BF%98%E5%9C%A8%E6%B6%A8%E8%B6%85%E5%B8%82%E4%B8%8A%E6%9E%B6%E9%87%91%E6%9D%A1%E9%81%AD%E7%96%AF%E6%8A%A2%23" target="weibo">
 金价还在涨超市上架金条遭疯抢（热度：76310）
 </a>
@@ -339,20 +345,14 @@ WTT沙特大满贯2024双打名单（热度：88473）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%82%A3%E4%BA%9B%E7%86%AC%E8%BF%87%E7%9A%84%E5%A4%9C%E5%86%8D%E4%B9%9F%E8%A1%A5%E4%B8%8D%E5%9B%9E%E6%9D%A5%E4%BA%86%23" target="weibo">
+那些熬过的夜再也补不回来了（热度：55451）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9E%97%E6%9B%B4%E6%96%B0%E8%B0%AD%E6%9D%BE%E9%9F%B5%E8%AF%B7%E5%8F%AB%E6%88%91%E6%80%BB%E7%9B%91%E6%97%A7%E7%85%A7%23" target="weibo">
 林更新谭松韵请叫我总监旧照（热度：53953）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%82%A3%E4%BA%9B%E7%86%AC%E8%BF%87%E7%9A%84%E5%A4%9C%E5%86%8D%E4%B9%9F%E8%A1%A5%E4%B8%8D%E5%9B%9E%E6%9D%A5%E4%BA%86%23" target="weibo">
-那些熬过的夜再也补不回来了（热度：53372）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E8%AF%95%E9%A9%BE%E5%8A%B3%E6%96%AF%E8%8E%B1%E6%96%AF%E8%8E%B7%E9%94%80%E5%94%AE%E9%BC%93%E5%8A%B1%E6%89%93%E5%8A%A8%E7%BD%91%E5%8F%8B%23" target="weibo">
-男子试驾劳斯莱斯获销售鼓励打动网友（热度：45619）
 </a>
 </li>
 
@@ -364,13 +364,13 @@ WTT沙特大满贯2024双打名单（热度：88473）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%239.9%E5%85%83%E5%92%96%E5%95%A1%E4%B8%BA%E4%BD%95%E4%BC%9A%E6%B6%88%E5%A4%B1%23" target="weibo">
-9.9元咖啡为何会消失（热度：33189）
+9.9元咖啡为何会消失（热度：36185）
 </a>
 </li>
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%BF%BD%E9%A3%8E%E8%80%85%23" target="weibo">
-追风者（热度：29298）
+追风者（热度：29562）
 </a>
 </li>
 
