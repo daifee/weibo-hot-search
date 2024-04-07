@@ -1,0 +1,410 @@
+{
+  "runTime": 1712456826445,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1652026,
+        "num": 1652026,
+        "word": "调休",
+        "onboard_time": 1712450539,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1616992,
+        "num": 1616992,
+        "word": "15元一晚的房间",
+        "onboard_time": 1712450719,
+        "rank": 1,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 34876,
+        "num": 1271232,
+        "word": "一起打卡春天里的中国",
+        "onboard_time": 1712413100,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1196209,
+        "num": 1196209,
+        "word": "公务员部分岗位年龄调整到40周岁",
+        "onboard_time": 1712451739,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 886178,
+        "num": 886178,
+        "word": "林更新 我做她的瑶",
+        "onboard_time": 1712447897,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 864345,
+        "num": 864345,
+        "word": "提灯定损事件后当地民宿遭大量退订",
+        "onboard_time": 1712454557,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 690620,
+        "num": 690620,
+        "word": "叶童看纪凌尘走路的表情",
+        "onboard_time": 1712454797,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 675387,
+        "num": 675387,
+        "word": "广西人上4天休4天",
+        "onboard_time": 1712452638,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 658090,
+        "num": 658090,
+        "word": "五一假期前后都要调休上班",
+        "onboard_time": 1712454676,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 224336,
+        "num": 554689,
+        "word": "淄博八大局火到早8点半就限流",
+        "onboard_time": 1712448377,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 482733,
+        "num": 482733,
+        "word": "恒大造车5年亏超1100亿",
+        "onboard_time": 1712454797,
+        "rank": 10,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 472558,
+        "num": 472558,
+        "word": "创造营亚洲C位是中国人",
+        "onboard_time": 1712447718,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 432698,
+        "num": 432698,
+        "word": "官方通报15岁女孩被围殴",
+        "onboard_time": 1712450178,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 427857,
+        "num": 427857,
+        "word": "逃出大英博物馆主创发声明维权",
+        "onboard_time": 1712451559,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 401127,
+        "num": 401127,
+        "word": "本周桃花运最旺的星座",
+        "onboard_time": 1712450178,
+        "rank": 14,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 331833,
+        "num": 331833,
+        "word": "欧阳娣娣第八名出道",
+        "onboard_time": 1712446936,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 329464,
+        "num": 329464,
+        "word": "美日澳菲南海首次军演",
+        "onboard_time": 1712455518,
+        "rank": 16,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 327194,
+        "num": 327194,
+        "word": "南部战区位南海海域组织联合海空战巡",
+        "onboard_time": 1712451319,
+        "rank": 17,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 299092,
+        "num": 299092,
+        "word": "CUBE男经纪人骚扰minnie",
+        "onboard_time": 1712446696,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 282188,
+        "num": 282188,
+        "word": "爱宝还记得福宝",
+        "onboard_time": 1712446696,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 462903,
+        "num": 280757,
+        "word": "弟弟考研上岸了我却一点不开心",
+        "onboard_time": 1712450598,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 342589,
+        "num": 267915,
+        "word": "体制内入职早年龄小比我的同事",
+        "onboard_time": 1712456057,
+        "rank": 21,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 254572,
+        "num": 254572,
+        "word": "我国推出首个饮料营养选择分级标识",
+        "onboard_time": 1712455458,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 251784,
+        "num": 251784,
+        "word": "你敢不敢去摸一下那只两脚兽",
+        "onboard_time": 1712422095,
+        "rank": 23,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 224881,
+        "num": 224881,
+        "word": "爱奇艺2024首部破万剧",
+        "onboard_time": 1712412500,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 214600,
+        "num": 214600,
+        "word": "男子上厕所隐私部位被割伤缝20多针",
+        "onboard_time": 1712412860,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 199563,
+        "num": 199563,
+        "word": "蒋胜男发文说赵丽颖粉丝戏多",
+        "onboard_time": 1712456597,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 198650,
+        "num": 198650,
+        "word": "雷军回应小米为什么造车快",
+        "onboard_time": 1712446877,
+        "rank": 27,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 193030,
+        "num": 193030,
+        "word": "林依轮父子爆改",
+        "onboard_time": 1712456057,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 190129,
+        "num": 190129,
+        "word": "吉克隽逸说我黑都那么漂亮白了还得了",
+        "onboard_time": 1712455757,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 194965,
+        "num": 187041,
+        "word": "跳水运动员摔进水池看呆马克龙",
+        "onboard_time": 1712455817,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 182332,
+        "num": 182332,
+        "word": "耶伦",
+        "onboard_time": 1712455817,
+        "rank": 31,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 181043,
+        "num": 181043,
+        "word": "王阳告别沈近真",
+        "onboard_time": 1712456659,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 178229,
+        "num": 178229,
+        "word": "向佐唯有duke把黄龄气死了",
+        "onboard_time": 1712455939,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 178114,
+        "num": 178114,
+        "word": "华为P70或不举办发布会直接上线销售",
+        "onboard_time": 1712450239,
+        "rank": 34,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 177279,
+        "num": 177279,
+        "word": "成都迪士尼被限流",
+        "onboard_time": 1712419217,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 177142,
+        "num": 177142,
+        "word": "医生温馨提示不要碰这些药膏",
+        "onboard_time": 1712448858,
+        "rank": 36,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 173721,
+        "num": 173721,
+        "word": "郝蕾用张子枫类比锦超",
+        "onboard_time": 1712451079,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 165093,
+        "num": 165093,
+        "word": "徐佳莹蓝台哭了",
+        "onboard_time": 1712452398,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 162186,
+        "num": 162186,
+        "word": "有时候懒一点反而更健康",
+        "onboard_time": 1712455217,
+        "rank": 39,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 160456,
+        "num": 160456,
+        "word": "福宝适应能力有多强",
+        "onboard_time": 1712448018,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 155768,
+        "num": 155768,
+        "word": "林狗你是真的火了",
+        "onboard_time": 1712413880,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 148371,
+        "num": 148371,
+        "word": "赵奕欢被李菲儿逼哭",
+        "onboard_time": 1712410879,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 146496,
+        "num": 146496,
+        "word": "首饰金价逼近每克720元",
+        "onboard_time": 1712456477,
+        "rank": 43,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 143008,
+        "num": 143008,
+        "word": "今年还要调休3次",
+        "onboard_time": 1712456538,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 138948,
+        "num": 138948,
+        "word": "李莲花生贺手书",
+        "onboard_time": 1712454917,
+        "rank": 45,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 134862,
+        "num": 134862,
+        "word": "第一次在机器人身上看到了破碎感",
+        "onboard_time": 1712451678,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 126822,
+        "num": 126822,
+        "word": "旅游到底是吃重要还是住重要",
+        "onboard_time": 1712450178,
+        "rank": 47,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 121782,
+        "num": 121782,
+        "word": "淄博版逐渐失去表情管理",
+        "onboard_time": 1712453478,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 117658,
+        "num": 117658,
+        "word": "长期戴耳塞睡觉的人最后怎么样了",
+        "onboard_time": 1712411480,
+        "rank": 49,
+        "category": "健康医疗"
+      }
+    ],
+    "hotgov": {
+      "word": "#家国永念致敬英雄#"
+    }
+  }
+}

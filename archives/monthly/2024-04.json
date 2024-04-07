@@ -1,6 +1,6 @@
 {
   "startTime": 1711902044401,
-  "endTime": 1712453865848,
+  "endTime": 1712456826445,
   "band_list": [
     {
       "raw_hot": 16874674,
@@ -531,6 +531,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 1616992,
+      "num": 1616992,
+      "word": "15元一晚的房间",
+      "onboard_time": 1712450719,
+      "rank": 10,
+      "category": "情感"
+    },
+    {
       "raw_hot": 1604055,
       "num": 1604055,
       "word": "旅游时被拖进洞房3分钟收费168",
@@ -761,14 +769,6 @@
       "onboard_time": 1712073259,
       "rank": 0,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 1402156,
-      "num": 1402156,
-      "word": "15元一晚的房间",
-      "onboard_time": 1712450719,
-      "rank": 10,
-      "category": "情感"
     },
     {
       "raw_hot": 1378625,
@@ -1107,6 +1107,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1196209,
+      "num": 1196209,
+      "word": "公务员部分岗位年龄调整到40周岁",
+      "onboard_time": 1712451739,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1181394,
       "num": 1136230,
       "word": "扔小孩女子疑似精神行为异常",
@@ -1233,14 +1241,6 @@
       "onboard_time": 1712135119,
       "rank": 30,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 1094757,
-      "num": 1094757,
-      "word": "公务员部分岗位年龄调整到40周岁",
-      "onboard_time": 1712451739,
-      "rank": 15,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1093436,
@@ -1792,6 +1792,14 @@
       "word": "宋爷爷",
       "onboard_time": 1712114122,
       "rank": 38,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 864345,
+      "num": 864345,
+      "word": "提灯定损事件后当地民宿遭大量退订",
+      "onboard_time": 1712454557,
+      "rank": 5,
       "category": "社会新闻"
     },
     {
@@ -2547,6 +2555,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 690620,
+      "num": 690620,
+      "word": "叶童看纪凌尘走路的表情",
+      "onboard_time": 1712454797,
+      "rank": 6,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 690331,
       "num": 690331,
       "word": "小米SU7退订率",
@@ -2656,6 +2672,14 @@
       "word": "餐馆老板让暑假工5元随便吃被欠五千餐费",
       "onboard_time": 1712237959,
       "rank": 16,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 675387,
+      "num": 675387,
+      "word": "广西人上4天休4天",
+      "onboard_time": 1712452638,
+      "rank": 48,
       "category": "社会新闻"
     },
     {
@@ -2833,6 +2857,14 @@
       "onboard_time": 1712016680,
       "rank": 3,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 658090,
+      "num": 658090,
+      "word": "五一假期前后都要调休上班",
+      "onboard_time": 1712454676,
+      "rank": 8,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 657616,
@@ -4435,6 +4467,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 482733,
+      "num": 482733,
+      "word": "恒大造车5年亏超1100亿",
+      "onboard_time": 1712454797,
+      "rank": 10,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 481827,
       "num": 481827,
       "word": "谈恋爱三个月定律",
@@ -5097,14 +5137,6 @@
       "onboard_time": 1712292737,
       "rank": 13,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 428512,
-      "num": 428512,
-      "word": "广西人上4天休4天",
-      "onboard_time": 1712452638,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 428110,
@@ -6363,6 +6395,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 342589,
+      "num": 267915,
+      "word": "体制内入职早年龄小比我的同事",
+      "onboard_time": 1712456057,
+      "rank": 21,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 342563,
       "num": 342563,
       "word": "JDG零封WBG",
@@ -6553,6 +6593,14 @@
       "onboard_time": 1712243240,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 329464,
+      "num": 329464,
+      "word": "美日澳菲南海首次军演",
+      "onboard_time": 1712455518,
+      "rank": 16,
+      "category": "国内时政"
     },
     {
       "raw_hot": 329123,
@@ -8265,6 +8313,14 @@
       "onboard_time": 1712115202,
       "rank": 48,
       "category": "情感"
+    },
+    {
+      "raw_hot": 254572,
+      "num": 254572,
+      "word": "我国推出首个饮料营养选择分级标识",
+      "onboard_time": 1712455458,
+      "rank": 22,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 254326,
@@ -10523,6 +10579,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 199563,
+      "num": 199563,
+      "word": "蒋胜男发文说赵丽颖粉丝戏多",
+      "onboard_time": 1712456597,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 199346,
       "num": 199346,
       "word": "摇太阳 悼词",
@@ -10891,6 +10955,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 194965,
+      "num": 187041,
+      "word": "跳水运动员摔进水池看呆马克龙",
+      "onboard_time": 1712455817,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 194679,
       "num": 176988,
       "word": "林俊杰土味情话",
@@ -11017,6 +11089,14 @@
       "onboard_time": 1712130380,
       "rank": 39,
       "category": "演出"
+    },
+    {
+      "raw_hot": 193030,
+      "num": 193030,
+      "word": "林依轮父子爆改",
+      "onboard_time": 1712456057,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 192807,
@@ -11289,6 +11369,14 @@
       "onboard_time": 1712327359,
       "rank": 38,
       "category": "情感"
+    },
+    {
+      "raw_hot": 190129,
+      "num": 190129,
+      "word": "吉克隽逸说我黑都那么漂亮白了还得了",
+      "onboard_time": 1712455757,
+      "rank": 29,
+      "category": "艺人"
     },
     {
       "raw_hot": 190093,
@@ -11851,6 +11939,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 182332,
+      "num": 182332,
+      "word": "耶伦",
+      "onboard_time": 1712455817,
+      "rank": 31,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 182277,
       "num": 182277,
       "word": "Liz生图",
@@ -11921,6 +12017,14 @@
       "onboard_time": 1711944863,
       "rank": 46,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 181043,
+      "num": 181043,
+      "word": "王阳告别沈近真",
+      "onboard_time": 1712456659,
+      "rank": 32,
+      "category": "剧集"
     },
     {
       "raw_hot": 180888,
@@ -12097,6 +12201,14 @@
       "onboard_time": 1712325620,
       "rank": 36,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 178229,
+      "num": 178229,
+      "word": "向佐唯有duke把黄龄气死了",
+      "onboard_time": 1712455939,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 177988,
@@ -12993,6 +13105,14 @@
       "onboard_time": 1712397317,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 162186,
+      "num": 162186,
+      "word": "有时候懒一点反而更健康",
+      "onboard_time": 1712455217,
+      "rank": 39,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 161966,
@@ -14203,6 +14323,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 146496,
+      "num": 146496,
+      "word": "首饰金价逼近每克720元",
+      "onboard_time": 1712456477,
+      "rank": 43,
+      "category": "财经"
+    },
+    {
       "raw_hot": 146457,
       "num": 146457,
       "word": "夏之光胸沟",
@@ -14451,6 +14579,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 143008,
+      "num": 143008,
+      "word": "今年还要调休3次",
+      "onboard_time": 1712456538,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 142954,
       "num": 142954,
       "word": "亲戚对你的态度其实取决于父母",
@@ -14617,6 +14753,14 @@
       "onboard_time": 1712030060,
       "rank": 44,
       "category": "电影"
+    },
+    {
+      "raw_hot": 138948,
+      "num": 138948,
+      "word": "李莲花生贺手书",
+      "onboard_time": 1712454917,
+      "rank": 45,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 138926,
