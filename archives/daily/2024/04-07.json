@@ -1,6 +1,6 @@
 {
   "startTime": 1712420539476,
-  "endTime": 1712478176803,
+  "endTime": 1712478836556,
   "band_list": [
     {
       "raw_hot": 3164787,
@@ -67,6 +67,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 1441570,
+      "num": 905783,
+      "word": "上个破班而已别把自己搭进去",
+      "onboard_time": 1712475738,
+      "rank": 4,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 1440174,
       "num": 1440174,
       "word": "好声音起诉李玟经纪公司将开庭",
@@ -107,14 +115,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 1216728,
-      "num": 846210,
-      "word": "上个破班而已别把自己搭进去",
-      "onboard_time": 1712475738,
-      "rank": 4,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 1206076,
       "num": 1206076,
       "word": "长期戴耳塞睡觉的人最后怎么样了",
@@ -128,6 +128,14 @@
       "word": "公务员部分岗位年龄调整到40周岁",
       "onboard_time": 1712451739,
       "rank": 15,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1041664,
+      "num": 1041664,
+      "word": "第一批去埃及旅行的人快被骗到裸奔了",
+      "onboard_time": 1712476038,
+      "rank": 5,
       "category": "社会新闻"
     },
     {
@@ -171,6 +179,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 891540,
+      "num": 891540,
+      "word": "陈学冬",
+      "onboard_time": 1712472918,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 871912,
       "num": 429009,
       "word": "日本天皇独生女成为月薪7千的打工人",
@@ -185,14 +201,6 @@
       "onboard_time": 1712447718,
       "rank": 3,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 843668,
-      "num": 843668,
-      "word": "第一批去埃及旅行的人快被骗到裸奔了",
-      "onboard_time": 1712476038,
-      "rank": 5,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 807130,
@@ -240,14 +248,6 @@
       "word": "蒋胜男 粉圈别来玩我了",
       "onboard_time": 1712461099,
       "rank": 12,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 695680,
-      "num": 695680,
-      "word": "陈学冬",
-      "onboard_time": 1712472918,
-      "rank": 17,
       "category": "艺人"
     },
     {
@@ -396,7 +396,7 @@
     },
     {
       "raw_hot": 575219,
-      "num": 255926,
+      "num": 265202,
       "word": "高铁会惩罚每个苹果用户",
       "onboard_time": 1712475618,
       "rank": 21,
@@ -481,6 +481,14 @@
       "onboard_time": 1712461638,
       "rank": 14,
       "category": "教育"
+    },
+    {
+      "raw_hot": 497729,
+      "num": 497729,
+      "word": "苹果客服回应iPhone闹钟不会识别调休",
+      "onboard_time": 1712476878,
+      "rank": 18,
+      "category": "数码"
     },
     {
       "raw_hot": 496778,
@@ -612,7 +620,7 @@
     },
     {
       "raw_hot": 399116,
-      "num": 253968,
+      "num": 258891,
       "word": "中五千万你会立刻离职吗",
       "onboard_time": 1712476399,
       "rank": 22,
@@ -683,6 +691,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 369442,
+      "num": 369442,
+      "word": "王一博 吃播",
+      "onboard_time": 1712476458,
+      "rank": 15,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 364405,
       "num": 364405,
       "word": "美日澳菲南海首次军演",
@@ -697,6 +713,14 @@
       "onboard_time": 1712468359,
       "rank": 13,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 354233,
+      "num": 354233,
+      "word": "女子投诉小米SU7未交付掉漆",
+      "onboard_time": 1712477418,
+      "rank": 24,
+      "category": "汽车"
     },
     {
       "raw_hot": 354112,
@@ -731,14 +755,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 347109,
-      "num": 347109,
-      "word": "王一博 吃播",
-      "onboard_time": 1712476458,
-      "rank": 15,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 345655,
       "num": 345655,
       "word": "许嵩深圳",
@@ -769,14 +785,6 @@
       "onboard_time": 1712411960,
       "rank": 16,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 327567,
-      "num": 327567,
-      "word": "苹果客服回应iPhone闹钟不会识别调休",
-      "onboard_time": 1712476878,
-      "rank": 18,
-      "category": "数码"
     },
     {
       "raw_hot": 326657,
@@ -971,14 +979,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 242029,
-      "num": 242029,
-      "word": "女子投诉小米SU7未交付掉漆",
-      "onboard_time": 1712477418,
-      "rank": 24,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 240751,
       "num": 240751,
       "word": "减肥期间能代替奶茶的饮料",
@@ -1019,6 +1019,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 235275,
+      "num": 235275,
+      "word": "承欢记女主撞见未来公公出轨",
+      "onboard_time": 1712478139,
+      "rank": 49,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 234837,
       "num": 234837,
       "word": "体制内入职早年龄却比我小的同事",
@@ -1033,6 +1041,14 @@
       "onboard_time": 1712474119,
       "rank": 24,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 233313,
+      "num": 233313,
+      "word": "十个勤天四勤去清华",
+      "onboard_time": 1712477720,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 228855,
@@ -1187,6 +1203,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 201500,
+      "num": 201500,
+      "word": "王一博能不能拍一部卧底剧",
+      "onboard_time": 1712478199,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 201262,
       "num": 201262,
       "word": "陈楚生儿子巡演返场嘉宾",
@@ -1233,14 +1257,6 @@
       "onboard_time": 1712455817,
       "rank": 31,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 194774,
-      "num": 194774,
-      "word": "十个勤天四勤去清华",
-      "onboard_time": 1712477720,
-      "rank": 30,
-      "category": "综艺"
     },
     {
       "raw_hot": 193317,
@@ -1379,20 +1395,20 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 179942,
+      "num": 179942,
+      "word": "刘诗诗林更新比耶旧照",
+      "onboard_time": 1712476998,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 178229,
       "num": 178229,
       "word": "向佐唯有duke把黄龄气死了",
       "onboard_time": 1712455939,
       "rank": 33,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 177874,
-      "num": 177874,
-      "word": "刘诗诗林更新比耶旧照",
-      "onboard_time": 1712476998,
-      "rank": 34,
-      "category": "剧集"
     },
     {
       "raw_hot": 177688,
@@ -1475,8 +1491,8 @@
       "category": "情感"
     },
     {
-      "raw_hot": 168714,
-      "num": 168714,
+      "raw_hot": 168787,
+      "num": 168787,
       "word": "黄景瑜 自然到像和同事打招呼",
       "onboard_time": 1712477418,
       "rank": 38,
@@ -1571,6 +1587,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 150050,
+      "num": 150050,
+      "word": "猪景房凭什么8888元一晚",
+      "onboard_time": 1712478500,
+      "rank": 41,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 149092,
       "num": 149092,
       "word": "放假三天躺了三天",
@@ -1595,20 +1619,20 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 145837,
+      "num": 145837,
+      "word": "读研和稳定的工作怎么选",
+      "onboard_time": 1712474899,
+      "rank": 45,
+      "category": "情感"
+    },
+    {
       "raw_hot": 145653,
       "num": 145653,
       "word": "成都迪士尼 取号",
       "onboard_time": 1712467639,
       "rank": 38,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 145027,
-      "num": 145027,
-      "word": "读研和稳定的工作怎么选",
-      "onboard_time": 1712474899,
-      "rank": 45,
-      "category": "情感"
     },
     {
       "raw_hot": 142067,
@@ -1625,6 +1649,14 @@
       "onboard_time": 1712407337,
       "rank": 40,
       "category": "网红"
+    },
+    {
+      "raw_hot": 140101,
+      "num": 140101,
+      "word": "鹌鹑蛋带皮吃很奇怪吗",
+      "onboard_time": 1712476038,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 138948,
@@ -1659,6 +1691,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 133724,
+      "num": 133724,
+      "word": "我被困在春天一年又一年",
+      "onboard_time": 1712477900,
+      "rank": 44,
+      "category": "情感"
+    },
+    {
       "raw_hot": 133096,
       "num": 133096,
       "word": "元梦之星 蛋仔派对",
@@ -1673,14 +1713,6 @@
       "onboard_time": 1712465302,
       "rank": 45,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 131733,
-      "num": 131733,
-      "word": "我被困在春天一年又一年",
-      "onboard_time": 1712477900,
-      "rank": 44,
-      "category": "情感"
     },
     {
       "raw_hot": 131608,
@@ -1771,14 +1803,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 125109,
-      "num": 125109,
-      "word": "鹌鹑蛋带皮吃很奇怪吗",
-      "onboard_time": 1712476038,
-      "rank": 48,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 125097,
       "num": 125097,
       "word": "淄博版逐渐失去表情管理",
@@ -1787,12 +1811,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 123363,
-      "num": 123363,
-      "word": "承欢记女主撞见未来公公出轨",
-      "onboard_time": 1712478139,
-      "rank": 49,
-      "category": "剧集"
+      "raw_hot": 122724,
+      "num": 122724,
+      "word": "徐若晗说成龙很爱看短视频",
+      "onboard_time": 1712478798,
+      "rank": 47,
+      "category": "艺人"
     },
     {
       "raw_hot": 122522,
@@ -1801,6 +1825,14 @@
       "onboard_time": 1712412500,
       "rank": 34,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 121457,
+      "num": 121457,
+      "word": "刘敏涛有自己的职场宇宙",
+      "onboard_time": 1712477061,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 120923,
@@ -1884,7 +1916,7 @@
     },
     {
       "raw_hot": 99757,
-      "num": 846919,
+      "num": 915696,
       "word": "春花唤醒了人间最美的季节",
       "onboard_time": 1712476700,
       "rank": 2,
