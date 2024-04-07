@@ -1,6 +1,6 @@
 {
   "startTime": 1712506792576,
-  "endTime": 1712514874799,
+  "endTime": 1712517197345,
   "band_list": [
     {
       "raw_hot": 1788973,
@@ -243,6 +243,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 142472,
+      "num": 142472,
+      "word": "男子试驾劳斯莱斯获销售鼓励打动网友",
+      "onboard_time": 1712512333,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 141732,
       "num": 96786,
       "word": "佟丽娅带儿子在阿那亚度假",
@@ -419,14 +427,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 78670,
-      "num": 78670,
-      "word": "男子试驾劳斯莱斯获销售鼓励打动网友",
-      "onboard_time": 1712512333,
-      "rank": 28,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 76310,
       "num": 82087,
       "word": "金价还在涨超市上架金条遭疯抢",
@@ -467,8 +467,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 36185,
-      "num": 36185,
+      "raw_hot": 40422,
+      "num": 40422,
       "word": "9.9元咖啡为何会消失",
       "onboard_time": 1712512691,
       "rank": 38,
@@ -481,6 +481,30 @@
       "onboard_time": 1712491037,
       "rank": 41,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 22270,
+      "num": 22270,
+      "word": "跟水瓶座相处需要知性美",
+      "onboard_time": 1712514911,
+      "rank": 36,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 17024,
+      "num": 21927,
+      "word": "徐海乔宣璐谈林更新",
+      "onboard_time": 1712516831,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 15726,
+      "num": 21921,
+      "word": "浙大学霸捐出全部国家奖学金反哺家乡山区学校",
+      "onboard_time": 1712517131,
+      "rank": 49,
+      "category": "社会正能量"
     }
   ],
   "hotgov_list": [
