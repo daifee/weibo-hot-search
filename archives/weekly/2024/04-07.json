@@ -1,6 +1,6 @@
 {
   "startTime": 1712420539476,
-  "endTime": 1712525647572,
+  "endTime": 1712528149349,
   "band_list": [
     {
       "raw_hot": 4232521,
@@ -2483,6 +2483,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 162442,
+      "num": 162442,
+      "word": "男子试驾劳斯莱斯获销售鼓励打动网友",
+      "onboard_time": 1712512333,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 162186,
       "num": 162186,
       "word": "有时候懒一点反而更健康",
@@ -2611,14 +2619,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 142472,
-      "num": 142472,
-      "word": "男子试驾劳斯莱斯获销售鼓励打动网友",
-      "onboard_time": 1712512333,
-      "rank": 28,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 142067,
       "num": 142067,
       "word": "包贝尔近照",
@@ -2633,6 +2633,14 @@
       "onboard_time": 1712508375,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 140964,
+      "num": 44646,
+      "word": "被卷入超市扶梯女子丈夫发声",
+      "onboard_time": 1712525890,
+      "rank": 10,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 140523,
@@ -3347,6 +3355,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 45529,
+      "num": 45529,
+      "word": "应采儿说Jasper是脏儿子",
+      "onboard_time": 1712521990,
+      "rank": 49,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 43971,
       "num": 1078611,
       "word": "文旅消费如何从开门红走向长红",
@@ -3355,12 +3371,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 41574,
-      "num": 41574,
-      "word": "应采儿说Jasper是脏儿子",
-      "onboard_time": 1712521990,
-      "rank": 49,
-      "category": "综艺"
+      "raw_hot": 42575,
+      "num": 42575,
+      "word": "与凤行结局吻戏是加的",
+      "onboard_time": 1712520490,
+      "rank": 39,
+      "category": "剧集"
     },
     {
       "raw_hot": 41083,
@@ -3411,12 +3427,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 31241,
-      "num": 31241,
-      "word": "与凤行结局吻戏是加的",
-      "onboard_time": 1712520490,
-      "rank": 39,
-      "category": "剧集"
+      "raw_hot": 34333,
+      "num": 34333,
+      "word": "今年唯一一次日全食即将上演",
+      "onboard_time": 1712522829,
+      "rank": 40,
+      "category": "科学科普"
+    },
+    {
+      "raw_hot": 33005,
+      "num": 27863,
+      "word": "90后准新娘婚前立遗嘱遗产归父母",
+      "onboard_time": 1712518930,
+      "rank": 25,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 30026,
@@ -3427,12 +3451,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 26444,
-      "num": 19756,
-      "word": "90后准新娘婚前立遗嘱遗产归父母",
-      "onboard_time": 1712518930,
-      "rank": 25,
-      "category": "社会新闻"
+      "raw_hot": 28254,
+      "num": 28254,
+      "word": "瓶装酒里的梨是怎么放进去的",
+      "onboard_time": 1712524330,
+      "rank": 49,
+      "category": "美食"
     },
     {
       "raw_hot": 25511,
@@ -3448,6 +3472,30 @@
       "word": "跟水瓶座相处需要知性美",
       "onboard_time": 1712514911,
       "rank": 36,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 20646,
+      "num": 20646,
+      "word": "你有收到过陌生人的鼓励吗",
+      "onboard_time": 1712517970,
+      "rank": 48,
+      "category": "社会正能量"
+    },
+    {
+      "raw_hot": 19676,
+      "num": 19676,
+      "word": "方便面真的没有营养吗",
+      "onboard_time": 1712525351,
+      "rank": 49,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 19016,
+      "num": 19016,
+      "word": "被路人狂撸的小狗狗",
+      "onboard_time": 1712518212,
+      "rank": 49,
       "category": "情感"
     },
     {
@@ -3467,36 +3515,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 16541,
-      "num": 18391,
-      "word": "被路人狂撸的小狗狗",
-      "onboard_time": 1712518212,
-      "rank": 49,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 16260,
-      "num": 16260,
-      "word": "今年唯一一次日全食即将上演",
-      "onboard_time": 1712522829,
-      "rank": 40,
-      "category": "科学科普"
-    },
-    {
       "raw_hot": 16244,
       "num": 23531,
       "word": "好像明白为啥鸟类多是侧面照了",
       "onboard_time": 1712429891,
       "rank": 47,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 16044,
-      "num": 16044,
-      "word": "瓶装酒里的梨是怎么放进去的",
-      "onboard_time": 1712524330,
-      "rank": 49,
-      "category": "美食"
     },
     {
       "raw_hot": 15726,
@@ -3513,22 +3537,6 @@
       "onboard_time": 1712429591,
       "rank": 49,
       "category": "美妆"
-    },
-    {
-      "raw_hot": 14652,
-      "num": 14652,
-      "word": "你有收到过陌生人的鼓励吗",
-      "onboard_time": 1712517970,
-      "rank": 48,
-      "category": "社会正能量"
-    },
-    {
-      "raw_hot": 12745,
-      "num": 13604,
-      "word": "方便面真的没有营养吗",
-      "onboard_time": 1712525351,
-      "rank": 49,
-      "category": "美食"
     },
     {
       "raw_hot": 11572,

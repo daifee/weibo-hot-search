@@ -1,6 +1,6 @@
 {
   "startTime": 1711902044401,
-  "endTime": 1712525647572,
+  "endTime": 1712528149349,
   "band_list": [
     {
       "raw_hot": 16874674,
@@ -14851,6 +14851,14 @@
       "category": "电竞,网红"
     },
     {
+      "raw_hot": 162442,
+      "num": 162442,
+      "word": "男子试驾劳斯莱斯获销售鼓励打动网友",
+      "onboard_time": 1712512333,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 162413,
       "num": 162413,
       "word": "摇太阳片尾曲是张杰唱的",
@@ -16443,14 +16451,6 @@
       "category": "电竞,网红"
     },
     {
-      "raw_hot": 142472,
-      "num": 142472,
-      "word": "男子试驾劳斯莱斯获销售鼓励打动网友",
-      "onboard_time": 1712512333,
-      "rank": 28,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 142373,
       "num": 142373,
       "word": "胡锡进称民营经济又一个春天正在到来",
@@ -16561,6 +16561,14 @@
       "onboard_time": 1712277617,
       "rank": 36,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 140964,
+      "num": 44646,
+      "word": "被卷入超市扶梯女子丈夫发声",
+      "onboard_time": 1712525890,
+      "rank": 10,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 140523,
@@ -19587,6 +19595,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 45529,
+      "num": 45529,
+      "word": "应采儿说Jasper是脏儿子",
+      "onboard_time": 1712521990,
+      "rank": 49,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 44784,
       "num": 44784,
       "word": "阮经天砍价自曝祖坟",
@@ -19627,20 +19643,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 42575,
+      "num": 42575,
+      "word": "与凤行结局吻戏是加的",
+      "onboard_time": 1712520490,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 42121,
       "num": 1309601,
       "word": "清明版如愿致敬先辈",
       "onboard_time": 1712234720,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 41574,
-      "num": 41574,
-      "word": "应采儿说Jasper是脏儿子",
-      "onboard_time": 1712521990,
-      "rank": 49,
-      "category": "综艺"
     },
     {
       "raw_hot": 41083,
@@ -19739,6 +19755,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 34333,
+      "num": 34333,
+      "word": "今年唯一一次日全食即将上演",
+      "onboard_time": 1712522829,
+      "rank": 40,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 34024,
       "num": 250733,
       "word": "波司登showroom有点东西",
@@ -19763,6 +19787,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 33005,
+      "num": 27863,
+      "word": "90后准新娘婚前立遗嘱遗产归父母",
+      "onboard_time": 1712518930,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 32101,
       "num": 45269,
       "word": "第一个因推销员受害的小狗出现了",
@@ -19777,14 +19809,6 @@
       "onboard_time": 1712075896,
       "rank": 48,
       "category": "演出"
-    },
-    {
-      "raw_hot": 31241,
-      "num": 31241,
-      "word": "与凤行结局吻戏是加的",
-      "onboard_time": 1712520490,
-      "rank": 39,
-      "category": "剧集"
     },
     {
       "raw_hot": 30044,
@@ -19817,6 +19841,14 @@
       "onboard_time": 1712171231,
       "rank": 37,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 28254,
+      "num": 28254,
+      "word": "瓶装酒里的梨是怎么放进去的",
+      "onboard_time": 1712524330,
+      "rank": 49,
+      "category": "美食"
     },
     {
       "raw_hot": 27508,
@@ -19857,14 +19889,6 @@
       "onboard_time": 1712178371,
       "rank": 48,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 26444,
-      "num": 19756,
-      "word": "90后准新娘婚前立遗嘱遗产归父母",
-      "onboard_time": 1712518930,
-      "rank": 25,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 26437,
@@ -19979,6 +20003,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 20646,
+      "num": 20646,
+      "word": "你有收到过陌生人的鼓励吗",
+      "onboard_time": 1712517970,
+      "rank": 48,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 20556,
       "num": 1006645,
       "word": "踏青赏花游热度增超700%",
@@ -19995,12 +20027,28 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 19676,
+      "num": 19676,
+      "word": "方便面真的没有营养吗",
+      "onboard_time": 1712525351,
+      "rank": 49,
+      "category": "美食"
+    },
+    {
       "raw_hot": 19427,
       "num": 140017,
       "word": "CPSP出现怪盗团",
       "onboard_time": 1712296217,
       "rank": 37,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 19016,
+      "num": 19016,
+      "word": "被路人狂撸的小狗狗",
+      "onboard_time": 1712518212,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 18809,
@@ -20035,36 +20083,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 16541,
-      "num": 18391,
-      "word": "被路人狂撸的小狗狗",
-      "onboard_time": 1712518212,
-      "rank": 49,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 16260,
-      "num": 16260,
-      "word": "今年唯一一次日全食即将上演",
-      "onboard_time": 1712522829,
-      "rank": 40,
-      "category": "科学科普"
-    },
-    {
       "raw_hot": 16244,
       "num": 23531,
       "word": "好像明白为啥鸟类多是侧面照了",
       "onboard_time": 1712429891,
       "rank": 47,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 16044,
-      "num": 16044,
-      "word": "瓶装酒里的梨是怎么放进去的",
-      "onboard_time": 1712524330,
-      "rank": 49,
-      "category": "美食"
     },
     {
       "raw_hot": 15726,
@@ -20099,14 +20123,6 @@
       "category": "美妆"
     },
     {
-      "raw_hot": 14652,
-      "num": 14652,
-      "word": "你有收到过陌生人的鼓励吗",
-      "onboard_time": 1712517970,
-      "rank": 48,
-      "category": "社会正能量"
-    },
-    {
       "raw_hot": 13982,
       "num": 15911,
       "word": "80岁老人义务守护无名烈士墓64年",
@@ -20137,14 +20153,6 @@
       "onboard_time": 1712087530,
       "rank": 49,
       "category": "美妆"
-    },
-    {
-      "raw_hot": 12745,
-      "num": 13604,
-      "word": "方便面真的没有营养吗",
-      "onboard_time": 1712525351,
-      "rank": 49,
-      "category": "美食"
     },
     {
       "raw_hot": 11652,
