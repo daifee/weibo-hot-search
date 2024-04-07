@@ -1,0 +1,410 @@
+{
+  "runTime": 1712499339905,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1330480,
+        "num": 1330480,
+        "word": "小米定金事件暴露了成年人的耍赖心态",
+        "onboard_time": 1712491999,
+        "rank": 0,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 1150979,
+        "num": 1150979,
+        "word": "我倒要看看25年元旦会怎么调休",
+        "onboard_time": 1712491759,
+        "rank": 1,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 102840,
+        "num": 900813,
+        "word": "吴江涛你做的好事藏不住了",
+        "onboard_time": 1712483418,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 698977,
+        "num": 698977,
+        "word": "女生考研被拟录取室友偷偷送惊喜",
+        "onboard_time": 1712496979,
+        "rank": 3,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 687741,
+        "num": 687741,
+        "word": "眼泪女王",
+        "onboard_time": 1712493859,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 840511,
+        "num": 680815,
+        "word": "追她呀 她旺你",
+        "onboard_time": 1712483838,
+        "rank": 5,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 661570,
+        "num": 661570,
+        "word": "宫崎骏 再见了我的朋友",
+        "onboard_time": 1712494819,
+        "rank": 6,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 653197,
+        "num": 653197,
+        "word": "1L康师傅冰红茶涨到5元",
+        "onboard_time": 1712493258,
+        "rank": 7,
+        "category": "美食,财经"
+      },
+      {
+        "raw_hot": 587245,
+        "num": 587245,
+        "word": "去世的妈坐牢的爸破碎的他",
+        "onboard_time": 1712482218,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 398439,
+        "num": 548523,
+        "word": "以色列大规模撤军",
+        "onboard_time": 1712485518,
+        "rank": 9,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 522316,
+        "num": 522316,
+        "word": "谢帝",
+        "onboard_time": 1712489539,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 517574,
+        "num": 517574,
+        "word": "追风者 十送红军",
+        "onboard_time": 1712497159,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 484039,
+        "num": 484039,
+        "word": "TES零封JDG",
+        "onboard_time": 1712495479,
+        "rank": 12,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 470760,
+        "num": 470760,
+        "word": "沈图南 孤雁",
+        "onboard_time": 1712496077,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 465416,
+        "num": 465416,
+        "word": "陈学冬 不会退圈死心吧",
+        "onboard_time": 1712479278,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 414597,
+        "num": 414597,
+        "word": "女性的小肚子是为了保护子宫卵巢",
+        "onboard_time": 1712473999,
+        "rank": 15,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 359976,
+        "num": 359976,
+        "word": "差点忘了林更新跟胡歌刘诗诗是同一批的",
+        "onboard_time": 1712490378,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 354978,
+        "num": 354978,
+        "word": "河南某高校副科长被举报聚众淫乱",
+        "onboard_time": 1712498420,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 349433,
+        "num": 349433,
+        "word": "下班以后最轻松的副业",
+        "onboard_time": 1712487438,
+        "rank": 18,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 335805,
+        "num": 335805,
+        "word": "日本名将说和国乒技术差距没那么大",
+        "onboard_time": 1712494338,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 449657,
+        "num": 334713,
+        "word": "你睡得最晚的一次是在干什么",
+        "onboard_time": 1712496560,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 342935,
+        "num": 334128,
+        "word": "23岁没谈过恋爱正常吗",
+        "onboard_time": 1712492598,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 332550,
+        "num": 332550,
+        "word": "第一批去埃及旅行的人快被骗到裸奔了",
+        "onboard_time": 1712476038,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 328369,
+        "num": 328369,
+        "word": "原来蔡徐坤的腰伤朋友就是赵品霖",
+        "onboard_time": 1712495838,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 311040,
+        "num": 311040,
+        "word": "李溪芮好松弛的美感",
+        "onboard_time": 1712496440,
+        "rank": 24,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 306863,
+        "num": 306863,
+        "word": "中医建议女生春天多披头散发",
+        "onboard_time": 1712487918,
+        "rank": 25,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 273728,
+        "num": 273728,
+        "word": "徐海乔宣璐直播",
+        "onboard_time": 1712497579,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 267948,
+        "num": 267948,
+        "word": "追风者结局 不舍",
+        "onboard_time": 1712498540,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 252581,
+        "num": 252581,
+        "word": "先生 从匀只能陪您到这里了",
+        "onboard_time": 1712497820,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 205982,
+        "num": 252137,
+        "word": "金价还在涨超市上架金条遭疯抢",
+        "onboard_time": 1712497220,
+        "rank": 29,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 251921,
+        "num": 251921,
+        "word": "王一博粉丝 不愿意就算了",
+        "onboard_time": 1712483477,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 247687,
+        "num": 247687,
+        "word": "赵丽颖工作室玩梗沈璃",
+        "onboard_time": 1712495359,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 219410,
+        "num": 219410,
+        "word": "订婚时三金里面的手镯被偷了",
+        "onboard_time": 1712492359,
+        "rank": 32,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 214366,
+        "num": 214366,
+        "word": "追风者 二刷",
+        "onboard_time": 1712498600,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 207009,
+        "num": 207009,
+        "word": "LGD BP",
+        "onboard_time": 1712498239,
+        "rank": 34,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 200529,
+        "num": 200529,
+        "word": "大哥远 停播",
+        "onboard_time": 1712499200,
+        "rank": 35,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 194364,
+        "num": 194364,
+        "word": "李莲花 月影皓白",
+        "onboard_time": 1712495599,
+        "rank": 36,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 187582,
+        "num": 187582,
+        "word": "2024LPL",
+        "onboard_time": 1712498959,
+        "rank": 37,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 185937,
+        "num": 185937,
+        "word": "Doinb给Tian加油",
+        "onboard_time": 1712498781,
+        "rank": 38,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 151237,
+        "num": 184944,
+        "word": "想当行长继承家产男孩父亲确为行长",
+        "onboard_time": 1712469258,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 184345,
+        "num": 184345,
+        "word": "追风者结局",
+        "onboard_time": 1712491219,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 175745,
+        "num": 175745,
+        "word": "追风者最后两集 爽",
+        "onboard_time": 1712499079,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 169898,
+        "num": 169898,
+        "word": "成都文旅还没反应过来 迪士尼建好了",
+        "onboard_time": 1712480300,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 169190,
+        "num": 169190,
+        "word": "高铁会惩罚每个苹果用户",
+        "onboard_time": 1712475618,
+        "rank": 43,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 165760,
+        "num": 165760,
+        "word": "林更新 我一人可抵千军万马",
+        "onboard_time": 1712485278,
+        "rank": 44,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 162488,
+        "num": 162488,
+        "word": "5天年假折现了6千多",
+        "onboard_time": 1712483838,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 161850,
+        "num": 161850,
+        "word": "TES晋级季后赛胜者决赛",
+        "onboard_time": 1712498239,
+        "rank": 46,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 161844,
+        "num": 161844,
+        "word": "眼泪女王 超前点播",
+        "onboard_time": 1712487198,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 166023,
+        "num": 161139,
+        "word": "沈图南杀了林樵松",
+        "onboard_time": 1712496919,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 129670,
+        "num": 158100,
+        "word": "教授建议小学低年级免去考试和成绩",
+        "onboard_time": 1712487258,
+        "rank": 49,
+        "category": "教育"
+      }
+    ],
+    "hotgov": {
+      "word": "#推进城乡环境整治完善公共卫生设施#"
+    }
+  }
+}

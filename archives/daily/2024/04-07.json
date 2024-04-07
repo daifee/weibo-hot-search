@@ -1,6 +1,6 @@
 {
   "startTime": 1712420539476,
-  "endTime": 1712496832655,
+  "endTime": 1712499339905,
   "band_list": [
     {
       "raw_hot": 3164787,
@@ -387,6 +387,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 698977,
+      "num": 698977,
+      "word": "女生考研被拟录取室友偷偷送惊喜",
+      "onboard_time": 1712496979,
+      "rank": 3,
+      "category": "教育"
+    },
+    {
       "raw_hot": 697285,
       "num": 697285,
       "word": "猪景房凭什么8888元一晚",
@@ -401,6 +409,14 @@
       "onboard_time": 1712454797,
       "rank": 6,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 687741,
+      "num": 687741,
+      "word": "眼泪女王",
+      "onboard_time": 1712407399,
+      "rank": 32,
+      "category": "剧集"
     },
     {
       "raw_hot": 687209,
@@ -441,6 +457,14 @@
       "onboard_time": 1712419217,
       "rank": 15,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 661570,
+      "num": 661570,
+      "word": "宫崎骏 再见了我的朋友",
+      "onboard_time": 1712494819,
+      "rank": 23,
+      "category": "电影"
     },
     {
       "raw_hot": 650599,
@@ -587,14 +611,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 567003,
-      "num": 567003,
-      "word": "眼泪女王",
-      "onboard_time": 1712407399,
-      "rank": 32,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 559397,
       "num": 559397,
       "word": "干眼症原来缺的是油不是水",
@@ -657,6 +673,14 @@
       "onboard_time": 1712411658,
       "rank": 38,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 517574,
+      "num": 517574,
+      "word": "追风者 十送红军",
+      "onboard_time": 1712497159,
+      "rank": 11,
+      "category": "剧集"
     },
     {
       "raw_hot": 503550,
@@ -771,12 +795,12 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 472767,
-      "num": 472767,
-      "word": "宫崎骏 再见了我的朋友",
-      "onboard_time": 1712494819,
-      "rank": 23,
-      "category": "电影"
+      "raw_hot": 470760,
+      "num": 470760,
+      "word": "沈图南 孤雁",
+      "onboard_time": 1712496077,
+      "rank": 17,
+      "category": "剧集"
     },
     {
       "raw_hot": 469481,
@@ -809,6 +833,14 @@
       "onboard_time": 1712483059,
       "rank": 14,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 449657,
+      "num": 334713,
+      "word": "你睡得最晚的一次是在干什么",
+      "onboard_time": 1712496560,
+      "rank": 38,
+      "category": "情感"
     },
     {
       "raw_hot": 448557,
@@ -995,6 +1027,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 354978,
+      "num": 354978,
+      "word": "河南某高校副科长被举报聚众淫乱",
+      "onboard_time": 1712498420,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 354112,
       "num": 354112,
       "word": "华为P70或不举办发布会直接上线销售",
@@ -1024,14 +1064,6 @@
       "word": "林更新回应和赵丽颖三搭",
       "onboard_time": 1712399777,
       "rank": 14,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 349207,
-      "num": 349207,
-      "word": "沈图南 孤雁",
-      "onboard_time": 1712496077,
-      "rank": 17,
       "category": "剧集"
     },
     {
@@ -1065,6 +1097,22 @@
       "onboard_time": 1712493137,
       "rank": 15,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 335805,
+      "num": 336662,
+      "word": "日本名将说和国乒技术差距没那么大",
+      "onboard_time": 1712494338,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 328369,
+      "num": 328369,
+      "word": "原来蔡徐坤的腰伤朋友就是赵品霖",
+      "onboard_time": 1712495838,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 327890,
@@ -1107,6 +1155,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 311040,
+      "num": 311040,
+      "word": "李溪芮好松弛的美感",
+      "onboard_time": 1712496440,
+      "rank": 32,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 308833,
       "num": 307999,
       "word": "赵丽颖工作室玩梗沈璃",
@@ -1137,14 +1193,6 @@
       "onboard_time": 1712415560,
       "rank": 21,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 303354,
-      "num": 303354,
-      "word": "原来蔡徐坤的腰伤朋友就是赵品霖",
-      "onboard_time": 1712495838,
-      "rank": 40,
-      "category": "综艺"
     },
     {
       "raw_hot": 301963,
@@ -1259,6 +1307,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 273728,
+      "num": 273728,
+      "word": "徐海乔宣璐直播",
+      "onboard_time": 1712497579,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 272421,
       "num": 258056,
       "word": "马上就知道六天有多长了",
@@ -1280,6 +1336,14 @@
       "word": "王一博模仿陈佩斯",
       "onboard_time": 1712464581,
       "rank": 24,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 267948,
+      "num": 267948,
+      "word": "追风者结局 不舍",
+      "onboard_time": 1712498540,
+      "rank": 27,
       "category": "剧集"
     },
     {
@@ -1345,6 +1409,14 @@
       "onboard_time": 1712450840,
       "rank": 34,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 252581,
+      "num": 252581,
+      "word": "先生 从匀只能陪您到这里了",
+      "onboard_time": 1712497820,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 245965,
@@ -1515,14 +1587,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 217237,
-      "num": 336662,
-      "word": "日本名将说和国乒技术差距没那么大",
-      "onboard_time": 1712494338,
-      "rank": 28,
-      "category": "体育"
-    },
-    {
       "raw_hot": 217040,
       "num": 217040,
       "word": "babymonster直播",
@@ -1539,14 +1603,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 215852,
-      "num": 215852,
-      "word": "李溪芮好松弛的美感",
-      "onboard_time": 1712496440,
-      "rank": 32,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 215340,
       "num": 215340,
       "word": "安卓用户关怀果粉闹钟没响",
@@ -1561,6 +1617,14 @@
       "onboard_time": 1712487258,
       "rank": 27,
       "category": "教育"
+    },
+    {
+      "raw_hot": 214366,
+      "num": 214366,
+      "word": "追风者 二刷",
+      "onboard_time": 1712498600,
+      "rank": 33,
+      "category": "剧集"
     },
     {
       "raw_hot": 212925,
@@ -1619,6 +1683,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 207009,
+      "num": 207009,
+      "word": "LGD BP",
+      "onboard_time": 1712498239,
+      "rank": 34,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 206719,
       "num": 206719,
       "word": "邓超好像要碎了",
@@ -1649,6 +1721,14 @@
       "onboard_time": 1712457017,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 205982,
+      "num": 252137,
+      "word": "金价还在涨超市上架金条遭疯抢",
+      "onboard_time": 1712497220,
+      "rank": 29,
+      "category": "财经"
     },
     {
       "raw_hot": 205277,
@@ -1739,6 +1819,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 200529,
+      "num": 200529,
+      "word": "大哥远 停播",
+      "onboard_time": 1712499200,
+      "rank": 35,
+      "category": "网红"
+    },
+    {
       "raw_hot": 200385,
       "num": 200385,
       "word": "样子又不帅 唱歌又难听",
@@ -1795,6 +1883,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 194364,
+      "num": 194364,
+      "word": "李莲花 月影皓白",
+      "onboard_time": 1712495599,
+      "rank": 42,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 193317,
       "num": 193317,
       "word": "萧敬腾谈跟林有慧结婚细节眼眶红了",
@@ -1843,14 +1939,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 191806,
-      "num": 191806,
-      "word": "李莲花 月影皓白",
-      "onboard_time": 1712495599,
-      "rank": 42,
-      "category": "动漫"
-    },
-    {
       "raw_hot": 191431,
       "num": 115961,
       "word": "陈楚生演唱会含哥量",
@@ -1875,14 +1963,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 189467,
-      "num": 189467,
-      "word": "你睡得最晚的一次是在干什么",
-      "onboard_time": 1712496560,
-      "rank": 38,
-      "category": "情感"
-    },
-    {
       "raw_hot": 188744,
       "num": 188744,
       "word": "陈学冬 退哈圈",
@@ -1899,12 +1979,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 187582,
+      "num": 187582,
+      "word": "2024LPL",
+      "onboard_time": 1712498959,
+      "rank": 37,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 186975,
       "num": 186975,
       "word": "柯南2024剧场版终极预告",
       "onboard_time": 1712489898,
       "rank": 37,
       "category": "电影,动漫"
+    },
+    {
+      "raw_hot": 185937,
+      "num": 185937,
+      "word": "Doinb给Tian加油",
+      "onboard_time": 1712498781,
+      "rank": 38,
+      "category": "电竞"
     },
     {
       "raw_hot": 185902,
@@ -2035,6 +2131,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 175745,
+      "num": 175745,
+      "word": "追风者最后两集 爽",
+      "onboard_time": 1712499079,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 175580,
       "num": 175580,
       "word": "首饰金价逼近每克720元",
@@ -2155,6 +2259,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 166023,
+      "num": 161139,
+      "word": "沈图南杀了林樵松",
+      "onboard_time": 1712496919,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 163866,
       "num": 163866,
       "word": "邓超建议孙俪练古筝",
@@ -2177,6 +2289,14 @@
       "onboard_time": 1712455217,
       "rank": 39,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 161850,
+      "num": 161850,
+      "word": "TES晋级季后赛胜者决赛",
+      "onboard_time": 1712498239,
+      "rank": 46,
+      "category": "电竞"
     },
     {
       "raw_hot": 159775,
@@ -2691,6 +2811,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 102840,
+      "num": 998338,
+      "word": "吴江涛你做的好事藏不住了",
+      "onboard_time": 1712483418,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 101173,
       "num": 101173,
       "word": "你手里的黄金要选择变现吗",
@@ -2809,14 +2937,6 @@
       "onboard_time": 1712421556,
       "rank": 44,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 74820,
-      "num": 998338,
-      "word": "吴江涛你做的好事藏不住了",
-      "onboard_time": 1712483418,
-      "rank": 8,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 73301,
