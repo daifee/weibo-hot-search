@@ -1,6 +1,6 @@
 {
   "startTime": 1712420539476,
-  "endTime": 1712486106011,
+  "endTime": 1712488509641,
   "band_list": [
     {
       "raw_hot": 3164787,
@@ -27,8 +27,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1886392,
-      "num": 1886392,
+      "raw_hot": 1971382,
+      "num": 1971382,
       "word": "追她呀 她旺你",
       "onboard_time": 1712483838,
       "rank": 3,
@@ -233,6 +233,14 @@
       "onboard_time": 1712472918,
       "rank": 17,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 881725,
+      "num": 881725,
+      "word": "以色列大规模撤军",
+      "onboard_time": 1712485518,
+      "rank": 14,
+      "category": "国外时政"
     },
     {
       "raw_hot": 871912,
@@ -595,6 +603,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 486436,
+      "num": 486436,
+      "word": "赵丽颖降林嫂",
+      "onboard_time": 1712485518,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 486328,
       "num": 486328,
       "word": "王一博琼瑶女主式哭",
@@ -643,6 +659,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 472951,
+      "num": 252834,
+      "word": "中医建议女生春天多披头散发",
+      "onboard_time": 1712487918,
+      "rank": 20,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 469481,
       "num": 469481,
       "word": "某幻不直播",
@@ -673,6 +697,14 @@
       "onboard_time": 1712483059,
       "rank": 14,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 452336,
+      "num": 452336,
+      "word": "干眼症原来缺的是油不是水",
+      "onboard_time": 1712484979,
+      "rank": 46,
+      "category": "科学科普,健康医疗"
     },
     {
       "raw_hot": 426422,
@@ -739,6 +771,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 387686,
+      "num": 387686,
+      "word": "林更新 我一人可抵千军万马",
+      "onboard_time": 1712485278,
+      "rank": 18,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 382038,
       "num": 382038,
       "word": "徐若晗说成龙很爱看短视频",
@@ -769,14 +809,6 @@
       "onboard_time": 1712450059,
       "rank": 19,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 375937,
-      "num": 375937,
-      "word": "以色列大规模撤军",
-      "onboard_time": 1712485518,
-      "rank": 14,
-      "category": "国外时政"
     },
     {
       "raw_hot": 372174,
@@ -907,6 +939,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 321716,
+      "num": 321716,
+      "word": "大小周其实不是月休六天",
+      "onboard_time": 1712484439,
+      "rank": 31,
+      "category": "情感"
+    },
+    {
       "raw_hot": 313179,
       "num": 313179,
       "word": "沈璃在爱里生出了神性",
@@ -953,14 +993,6 @@
       "onboard_time": 1712448018,
       "rank": 26,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 299874,
-      "num": 299874,
-      "word": "林更新 我一人可抵千军万马",
-      "onboard_time": 1712485278,
-      "rank": 18,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 297691,
@@ -1043,28 +1075,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 274436,
-      "num": 274436,
-      "word": "大小周其实不是月休六天",
-      "onboard_time": 1712484439,
-      "rank": 31,
-      "category": "情感"
-    },
-    {
       "raw_hot": 273999,
       "num": 273999,
       "word": "成龙都70了",
       "onboard_time": 1712472677,
       "rank": 21,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 273963,
-      "num": 273963,
-      "word": "赵丽颖降林嫂",
-      "onboard_time": 1712485518,
-      "rank": 26,
-      "category": "剧集"
     },
     {
       "raw_hot": 272421,
@@ -1123,20 +1139,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 257571,
+      "num": 257571,
+      "word": "李雪琴答题速度惊呆十个勤天",
+      "onboard_time": 1712485458,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 255735,
       "num": 255735,
       "word": "BOA锁定第三轮A组",
       "onboard_time": 1712416819,
       "rank": 23,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 255236,
-      "num": 255236,
-      "word": "干眼症原来缺的是油不是水",
-      "onboard_time": 1712484979,
-      "rank": 46,
-      "category": "科学科普,健康医疗"
     },
     {
       "raw_hot": 253239,
@@ -1193,6 +1209,14 @@
       "onboard_time": 1712455757,
       "rank": 29,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 236517,
+      "num": 236517,
+      "word": "下班以后最轻松的副业",
+      "onboard_time": 1712487438,
+      "rank": 24,
+      "category": "情感"
     },
     {
       "raw_hot": 236220,
@@ -1305,6 +1329,14 @@
       "onboard_time": 1712463559,
       "rank": 43,
       "category": "数码"
+    },
+    {
+      "raw_hot": 214937,
+      "num": 214937,
+      "word": "眼泪女王 超前点播",
+      "onboard_time": 1712487198,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 212925,
@@ -1465,6 +1497,14 @@
       "onboard_time": 1712415200,
       "rank": 31,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 199149,
+      "num": 174919,
+      "word": "两根小夹子就能拥有蓬松颅顶",
+      "onboard_time": 1712486599,
+      "rank": 30,
+      "category": "美妆"
     },
     {
       "raw_hot": 198085,
@@ -1643,6 +1683,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 181215,
+      "num": 181215,
+      "word": "教授建议小学低年级免去考试和成绩",
+      "onboard_time": 1712487258,
+      "rank": 27,
+      "category": "教育"
+    },
+    {
       "raw_hot": 180582,
       "num": 180582,
       "word": "旅游到底是吃重要还是住重要",
@@ -1729,6 +1777,14 @@
       "onboard_time": 1712473999,
       "rank": 48,
       "category": "演出"
+    },
+    {
+      "raw_hot": 172089,
+      "num": 172089,
+      "word": "为什么老人不喜欢套垃圾袋",
+      "onboard_time": 1712487740,
+      "rank": 31,
+      "category": "情感"
     },
     {
       "raw_hot": 170639,
@@ -1843,14 +1899,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 152994,
-      "num": 152994,
-      "word": "李雪琴答题速度惊呆十个勤天",
-      "onboard_time": 1712485458,
-      "rank": 39,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 152854,
       "num": 131854,
       "word": "林更新周冬雨军服旧照",
@@ -1947,6 +1995,22 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 138520,
+      "num": 138520,
+      "word": "数码宝贝 高清版飞帽杀",
+      "onboard_time": 1712485998,
+      "rank": 46,
+      "category": "动漫,作品衍生"
+    },
+    {
+      "raw_hot": 138503,
+      "num": 138503,
+      "word": "孙亚龙发文辟谣",
+      "onboard_time": 1712487619,
+      "rank": 42,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 138156,
       "num": 138156,
       "word": "终于等到Cat的庄周cos",
@@ -1969,6 +2033,14 @@
       "onboard_time": 1712465540,
       "rank": 44,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 134670,
+      "num": 134670,
+      "word": "台湾花莲县海域发生4.8级地震",
+      "onboard_time": 1712486417,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 133958,
@@ -2059,14 +2131,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 128579,
-      "num": 128579,
-      "word": "数码宝贝 高清版飞帽杀",
-      "onboard_time": 1712485998,
-      "rank": 46,
-      "category": "动漫,作品衍生"
-    },
-    {
       "raw_hot": 128389,
       "num": 128389,
       "word": "蹲一个王一博破万福利",
@@ -2089,6 +2153,14 @@
       "onboard_time": 1712477720,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 126710,
+      "num": 126710,
+      "word": "LPL",
+      "onboard_time": 1712488277,
+      "rank": 46,
+      "category": "电竞"
     },
     {
       "raw_hot": 126449,
@@ -2139,6 +2211,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 124755,
+      "num": 124755,
+      "word": "惜花芷 谁懂这一抱的含金量",
+      "onboard_time": 1712486898,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 122911,
       "num": 122911,
       "word": "原来我也才工作快两年而已啊",
@@ -2177,6 +2257,14 @@
       "onboard_time": 1712467879,
       "rank": 46,
       "category": "电影"
+    },
+    {
+      "raw_hot": 120053,
+      "num": 120053,
+      "word": "赵姐就玩弄一下吧",
+      "onboard_time": 1712487559,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 119845,
