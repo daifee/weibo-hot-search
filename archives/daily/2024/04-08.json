@@ -1,6 +1,6 @@
 {
   "startTime": 1712506792576,
-  "endTime": 1712524580301,
+  "endTime": 1712525647572,
   "band_list": [
     {
       "raw_hot": 1788973,
@@ -475,12 +475,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 34230,
-      "num": 34230,
+      "raw_hot": 41574,
+      "num": 41574,
       "word": "应采儿说Jasper是脏儿子",
       "onboard_time": 1712521990,
       "rank": 49,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 31241,
+      "num": 31241,
+      "word": "与凤行结局吻戏是加的",
+      "onboard_time": 1712520490,
+      "rank": 39,
+      "category": "剧集"
     },
     {
       "raw_hot": 29562,
@@ -488,14 +496,6 @@
       "word": "追风者",
       "onboard_time": 1712491037,
       "rank": 41,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 28154,
-      "num": 28154,
-      "word": "与凤行结局吻戏是加的",
-      "onboard_time": 1712520490,
-      "rank": 39,
       "category": "剧集"
     },
     {
@@ -531,6 +531,22 @@
       "category": "情感"
     },
     {
+      "raw_hot": 16260,
+      "num": 16260,
+      "word": "今年唯一一次日全食即将上演",
+      "onboard_time": 1712522829,
+      "rank": 40,
+      "category": "科学科普"
+    },
+    {
+      "raw_hot": 16044,
+      "num": 16044,
+      "word": "瓶装酒里的梨是怎么放进去的",
+      "onboard_time": 1712524330,
+      "rank": 49,
+      "category": "美食"
+    },
+    {
       "raw_hot": 15726,
       "num": 21921,
       "word": "浙大学霸捐出全部国家奖学金反哺家乡山区学校",
@@ -539,26 +555,18 @@
       "category": "社会正能量"
     },
     {
-      "raw_hot": 14735,
-      "num": 14735,
-      "word": "今年唯一一次日全食即将上演",
-      "onboard_time": 1712522829,
-      "rank": 40,
-      "category": "科学科普"
-    },
-    {
-      "raw_hot": 12430,
-      "num": 12880,
+      "raw_hot": 14652,
+      "num": 14652,
       "word": "你有收到过陌生人的鼓励吗",
       "onboard_time": 1712517970,
       "rank": 48,
       "category": "社会正能量"
     },
     {
-      "raw_hot": 11982,
-      "num": 12869,
-      "word": "瓶装酒里的梨是怎么放进去的",
-      "onboard_time": 1712524330,
+      "raw_hot": 12745,
+      "num": 13604,
+      "word": "方便面真的没有营养吗",
+      "onboard_time": 1712525351,
       "rank": 49,
       "category": "美食"
     }
