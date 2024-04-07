@@ -1,6 +1,6 @@
 {
   "startTime": 1712420539476,
-  "endTime": 1712518434878,
+  "endTime": 1712521057637,
   "band_list": [
     {
       "raw_hot": 4232521,
@@ -3419,6 +3419,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 22702,
+      "num": 19450,
+      "word": "90后准新娘婚前立遗嘱遗产归父母",
+      "onboard_time": 1712518930,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 22270,
       "num": 22270,
       "word": "跟水瓶座相处需要知性美",
@@ -3451,6 +3459,22 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 16127,
+      "num": 16127,
+      "word": "与凤行结局吻戏是加的",
+      "onboard_time": 1712520490,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 15977,
+      "num": 18391,
+      "word": "被路人狂撸的小狗狗",
+      "onboard_time": 1712518212,
+      "rank": 49,
+      "category": "情感"
+    },
+    {
       "raw_hot": 15726,
       "num": 21921,
       "word": "浙大学霸捐出全部国家奖学金反哺家乡山区学校",
@@ -3465,14 +3489,6 @@
       "onboard_time": 1712429591,
       "rank": 49,
       "category": "美妆"
-    },
-    {
-      "raw_hot": 14281,
-      "num": 18391,
-      "word": "被路人狂撸的小狗狗",
-      "onboard_time": 1712518212,
-      "rank": 49,
-      "category": "情感"
     },
     {
       "raw_hot": 11572,
