@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/04/08 00:19:52 ~ 2024/04/08 03:13:17
+本榜单时间：2024/04/08 00:19:52 ~ 2024/04/08 03:33:54
 </p>
 </blockquote>
 <p>
@@ -357,14 +357,14 @@ WTT沙特大满贯2024双打名单（热度：88473）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%96%87%E6%97%85%E6%B6%88%E8%B4%B9%E5%A6%82%E4%BD%95%E4%BB%8E%E5%BC%80%E9%97%A8%E7%BA%A2%E8%B5%B0%E5%90%91%E9%95%BF%E7%BA%A2%23" target="weibo">
-文旅消费如何从开门红走向长红（热度：43971）
+<a href="https://s.weibo.com/weibo?q=%239.9%E5%85%83%E5%92%96%E5%95%A1%E4%B8%BA%E4%BD%95%E4%BC%9A%E6%B6%88%E5%A4%B1%23" target="weibo">
+9.9元咖啡为何会消失（热度：50965）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%239.9%E5%85%83%E5%92%96%E5%95%A1%E4%B8%BA%E4%BD%95%E4%BC%9A%E6%B6%88%E5%A4%B1%23" target="weibo">
-9.9元咖啡为何会消失（热度：40422）
+<a href="https://s.weibo.com/weibo?q=%23%E6%96%87%E6%97%85%E6%B6%88%E8%B4%B9%E5%A6%82%E4%BD%95%E4%BB%8E%E5%BC%80%E9%97%A8%E7%BA%A2%E8%B5%B0%E5%90%91%E9%95%BF%E7%BA%A2%23" target="weibo">
+文旅消费如何从开门红走向长红（热度：43971）
 </a>
 </li>
 
@@ -382,13 +382,19 @@ WTT沙特大满贯2024双打名单（热度：88473）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BE%90%E6%B5%B7%E4%B9%94%E5%AE%A3%E7%92%90%E8%B0%88%E6%9E%97%E6%9B%B4%E6%96%B0%23" target="weibo">
-徐海乔宣璐谈林更新（热度：17024）
+徐海乔宣璐谈林更新（热度：18570）
 </a>
 </li>
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B5%99%E5%A4%A7%E5%AD%A6%E9%9C%B8%E6%8D%90%E5%87%BA%E5%85%A8%E9%83%A8%E5%9B%BD%E5%AE%B6%E5%A5%96%E5%AD%A6%E9%87%91%E5%8F%8D%E5%93%BA%E5%AE%B6%E4%B9%A1%E5%B1%B1%E5%8C%BA%E5%AD%A6%E6%A0%A1%23" target="weibo">
 浙大学霸捐出全部国家奖学金反哺家乡山区学校（热度：15726）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%A2%AB%E8%B7%AF%E4%BA%BA%E7%8B%82%E6%92%B8%E7%9A%84%E5%B0%8F%E7%8B%97%E7%8B%97%23" target="weibo">
+被路人狂撸的小狗狗（热度：14281）
 </a>
 </li>
 

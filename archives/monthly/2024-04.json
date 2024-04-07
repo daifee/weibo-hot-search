@@ -1,6 +1,6 @@
 {
   "startTime": 1711902044401,
-  "endTime": 1712517197345,
+  "endTime": 1712518434878,
   "band_list": [
     {
       "raw_hot": 16874674,
@@ -19483,6 +19483,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 50965,
+      "num": 50965,
+      "word": "9.9元咖啡为何会消失",
+      "onboard_time": 1712512691,
+      "rank": 38,
+      "category": "美食"
+    },
+    {
       "raw_hot": 50366,
       "num": 50366,
       "word": "海登海姆3比2拜仁",
@@ -19633,14 +19641,6 @@
       "onboard_time": 1712430970,
       "rank": 37,
       "category": "演出"
-    },
-    {
-      "raw_hot": 40422,
-      "num": 40422,
-      "word": "9.9元咖啡为何会消失",
-      "onboard_time": 1712512691,
-      "rank": 38,
-      "category": "美食"
     },
     {
       "raw_hot": 39863,
@@ -19987,20 +19987,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 18570,
+      "num": 21927,
+      "word": "徐海乔宣璐谈林更新",
+      "onboard_time": 1712516831,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 18220,
       "num": 133923,
       "word": "2024云拜祖正确打开方式",
       "onboard_time": 1712044819,
       "rank": 39,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 17024,
-      "num": 21927,
-      "word": "徐海乔宣璐谈林更新",
-      "onboard_time": 1712516831,
-      "rank": 48,
-      "category": "剧集"
     },
     {
       "raw_hot": 16742,
@@ -20049,6 +20049,14 @@
       "onboard_time": 1712429591,
       "rank": 49,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 14281,
+      "num": 18391,
+      "word": "被路人狂撸的小狗狗",
+      "onboard_time": 1712518212,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 13982,

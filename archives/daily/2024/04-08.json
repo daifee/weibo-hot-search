@@ -1,6 +1,6 @@
 {
   "startTime": 1712506792576,
-  "endTime": 1712517197345,
+  "endTime": 1712518434878,
   "band_list": [
     {
       "raw_hot": 1788973,
@@ -459,20 +459,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 50965,
+      "num": 50965,
+      "word": "9.9元咖啡为何会消失",
+      "onboard_time": 1712512691,
+      "rank": 38,
+      "category": "美食"
+    },
+    {
       "raw_hot": 43971,
       "num": 587162,
       "word": "文旅消费如何从开门红走向长红",
       "onboard_time": 1712495958,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 40422,
-      "num": 40422,
-      "word": "9.9元咖啡为何会消失",
-      "onboard_time": 1712512691,
-      "rank": 38,
-      "category": "美食"
     },
     {
       "raw_hot": 29562,
@@ -491,7 +491,7 @@
       "category": "情感"
     },
     {
-      "raw_hot": 17024,
+      "raw_hot": 18570,
       "num": 21927,
       "word": "徐海乔宣璐谈林更新",
       "onboard_time": 1712516831,
@@ -505,6 +505,14 @@
       "onboard_time": 1712517131,
       "rank": 49,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 14281,
+      "num": 18391,
+      "word": "被路人狂撸的小狗狗",
+      "onboard_time": 1712518212,
+      "rank": 49,
+      "category": "情感"
     }
   ],
   "hotgov_list": [

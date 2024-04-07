@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/04/07 00:22:19 ~ 2024/04/08 03:13:17
+本榜单时间：2024/04/07 00:22:19 ~ 2024/04/08 03:33:54
 </p>
 </blockquote>
 <p>
@@ -2493,6 +2493,12 @@ Doinb回应复播（热度：78543）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%239.9%E5%85%83%E5%92%96%E5%95%A1%E4%B8%BA%E4%BD%95%E4%BC%9A%E6%B6%88%E5%A4%B1%23" target="weibo">
+9.9元咖啡为何会消失（热度：50965）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B5%B7%E7%99%BB%E6%B5%B7%E5%A7%863%E6%AF%942%E6%8B%9C%E4%BB%81%23" target="weibo">
 海登海姆3比2拜仁（热度：50366）
 </a>
@@ -2531,12 +2537,6 @@ YG与HYBE的歌曲拼出JYP的感觉（热度：50331）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%80%E8%B5%B7%E6%89%93%E5%8D%A1%E6%98%A5%E5%A4%A9%E9%87%8C%E7%9A%84%E4%B8%AD%E5%9B%BD%23" target="weibo">
 一起打卡春天里的中国（热度：40940）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%239.9%E5%85%83%E5%92%96%E5%95%A1%E4%B8%BA%E4%BD%95%E4%BC%9A%E6%B6%88%E5%A4%B1%23" target="weibo">
-9.9元咖啡为何会消失（热度：40422）
 </a>
 </li>
 
@@ -2583,14 +2583,14 @@ YG与HYBE的歌曲拼出JYP的感觉（热度：50331）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23CBA%23" target="weibo">
-CBA（热度：18221）
+<a href="https://s.weibo.com/weibo?q=%23%E5%BE%90%E6%B5%B7%E4%B9%94%E5%AE%A3%E7%92%90%E8%B0%88%E6%9E%97%E6%9B%B4%E6%96%B0%23" target="weibo">
+徐海乔宣璐谈林更新（热度：18570）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%BE%90%E6%B5%B7%E4%B9%94%E5%AE%A3%E7%92%90%E8%B0%88%E6%9E%97%E6%9B%B4%E6%96%B0%23" target="weibo">
-徐海乔宣璐谈林更新（热度：17024）
+<a href="https://s.weibo.com/weibo?q=%23CBA%23" target="weibo">
+CBA（热度：18221）
 </a>
 </li>
 
@@ -2609,6 +2609,12 @@ CBA（热度：18221）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%96%B0%E5%8F%91%E5%9E%8B%E8%BF%99%E4%B8%8D%E5%B0%B1%E6%9C%89%E4%BA%86%23" target="weibo">
 新发型这不就有了（热度：14707）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%A2%AB%E8%B7%AF%E4%BA%BA%E7%8B%82%E6%92%B8%E7%9A%84%E5%B0%8F%E7%8B%97%E7%8B%97%23" target="weibo">
+被路人狂撸的小狗狗（热度：14281）
 </a>
 </li>
 
