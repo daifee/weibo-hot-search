@@ -1,6 +1,6 @@
 {
   "startTime": 1712420539476,
-  "endTime": 1712463737951,
+  "endTime": 1712464457174,
   "band_list": [
     {
       "raw_hot": 3164787,
@@ -35,20 +35,20 @@
       "category": "情感"
     },
     {
+      "raw_hot": 1440174,
+      "num": 1440174,
+      "word": "好声音起诉李玟经纪公司将开庭",
+      "onboard_time": 1712462059,
+      "rank": 3,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1297594,
       "num": 1297594,
       "word": "林更新 我做她的瑶",
       "onboard_time": 1712447897,
       "rank": 1,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 1258390,
-      "num": 1258390,
-      "word": "好声音起诉李玟经纪公司将开庭",
-      "onboard_time": 1712462059,
-      "rank": 3,
-      "category": "艺人"
     },
     {
       "raw_hot": 1256358,
@@ -83,6 +83,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1134058,
+      "num": 1134058,
+      "word": "专家建议允许不合适的公务员辞职",
+      "onboard_time": 1712461279,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1011415,
       "num": 1011415,
       "word": "爱奇艺2024首部破万剧",
@@ -104,14 +112,6 @@
       "word": "这个清明119000000人次出游",
       "onboard_time": 1712460018,
       "rank": 19,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 907667,
-      "num": 907667,
-      "word": "专家建议允许不合适的公务员辞职",
-      "onboard_time": 1712461279,
-      "rank": 5,
       "category": "社会新闻"
     },
     {
@@ -235,6 +235,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 611550,
+      "num": 611550,
+      "word": "只有林正英知道纪凌尘底子有多好",
+      "onboard_time": 1712461999,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 611038,
       "num": 611038,
       "word": "爱宝还记得福宝",
@@ -251,19 +259,19 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 587237,
-      "num": 587237,
-      "word": "只有林正英知道纪凌尘底子有多好",
-      "onboard_time": 1712461999,
-      "rank": 13,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 571710,
       "num": 408319,
       "word": "爷爷上坟比年轻人走的快",
       "onboard_time": 1712413700,
       "rank": 11,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 558242,
+      "num": 558242,
+      "word": "读研会惩罚每一个考上研的混子",
+      "onboard_time": 1712461399,
+      "rank": 17,
       "category": "情感"
     },
     {
@@ -273,6 +281,14 @@
       "onboard_time": 1712410879,
       "rank": 5,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 533618,
+      "num": 533618,
+      "word": "王鹤棣自己开跑车",
+      "onboard_time": 1712463080,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 532324,
@@ -363,14 +379,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 469467,
-      "num": 469467,
-      "word": "读研会惩罚每一个考上研的混子",
-      "onboard_time": 1712461399,
-      "rank": 17,
-      "category": "情感"
-    },
-    {
       "raw_hot": 466445,
       "num": 466445,
       "word": "你敢不敢去摸一下那只两脚兽",
@@ -393,14 +401,6 @@
       "onboard_time": 1712459059,
       "rank": 12,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 388029,
-      "num": 388029,
-      "word": "王鹤棣自己开跑车",
-      "onboard_time": 1712463080,
-      "rank": 19,
-      "category": "艺人"
     },
     {
       "raw_hot": 381378,
@@ -465,6 +465,14 @@
       "onboard_time": 1712409199,
       "rank": 13,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 351547,
+      "num": 351547,
+      "word": "林更新 做饭的神",
+      "onboard_time": 1712463320,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 350110,
@@ -635,6 +643,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 240758,
+      "num": 240758,
+      "word": "雷军奖励王腾小米su7",
+      "onboard_time": 1712463740,
+      "rank": 24,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 240692,
       "num": 240692,
       "word": "小米SU7标准版不支持城市NOA",
@@ -659,14 +675,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 236131,
-      "num": 236131,
-      "word": "林更新 做饭的神",
-      "onboard_time": 1712463320,
-      "rank": 27,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 234837,
       "num": 234837,
       "word": "体制内入职早年龄却比我小的同事",
@@ -683,6 +691,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 228288,
+      "num": 228288,
+      "word": "WTT世界乒联回应阿鲁纳",
+      "onboard_time": 1712463500,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 218750,
       "num": 218750,
       "word": "于正说赵晴替他一雪前耻",
@@ -697,6 +713,14 @@
       "onboard_time": 1712461158,
       "rank": 30,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 215340,
+      "num": 215340,
+      "word": "安卓用户关怀果粉闹钟没响",
+      "onboard_time": 1712463559,
+      "rank": 43,
+      "category": "数码"
     },
     {
       "raw_hot": 210237,
@@ -761,6 +785,22 @@
       "onboard_time": 1712442853,
       "rank": 14,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 200933,
+      "num": 200933,
+      "word": "成都迪士尼连夜升级",
+      "onboard_time": 1712464041,
+      "rank": 32,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 200470,
+      "num": 200470,
+      "word": "肖战说未来会继续加油",
+      "onboard_time": 1712463860,
+      "rank": 33,
+      "category": "剧集"
     },
     {
       "raw_hot": 200100,
@@ -851,6 +891,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 184717,
+      "num": 184717,
+      "word": "宣璐蒙眼神图",
+      "onboard_time": 1712462720,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 182206,
       "num": 171013,
       "word": "眼泪女王",
@@ -859,28 +907,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 180872,
-      "num": 180872,
-      "word": "宣璐蒙眼神图",
-      "onboard_time": 1712462720,
-      "rank": 36,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 180582,
       "num": 180582,
       "word": "旅游到底是吃重要还是住重要",
       "onboard_time": 1712450178,
       "rank": 39,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 180017,
-      "num": 180017,
-      "word": "WTT世界乒联回应阿鲁纳",
-      "onboard_time": 1712463500,
-      "rank": 37,
-      "category": "体育"
     },
     {
       "raw_hot": 178229,
@@ -987,14 +1019,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 157348,
-      "num": 157348,
-      "word": "安卓用户关怀果粉闹钟没响",
-      "onboard_time": 1712463559,
-      "rank": 43,
-      "category": "数码"
-    },
-    {
       "raw_hot": 152854,
       "num": 131854,
       "word": "林更新周冬雨军服旧照",
@@ -1027,8 +1051,8 @@
       "category": "演出"
     },
     {
-      "raw_hot": 142074,
-      "num": 142074,
+      "raw_hot": 148058,
+      "num": 148058,
       "word": "芙莉莲 纯情咖装什么老手",
       "onboard_time": 1712462841,
       "rank": 49,
@@ -1339,6 +1363,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 53394,
+      "num": 331192,
+      "word": "杨幂科技感大片",
+      "onboard_time": 1712461758,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 50366,
       "num": 50366,
       "word": "海登海姆3比2拜仁",
@@ -1369,14 +1401,6 @@
       "onboard_time": 1712398757,
       "rank": 48,
       "category": "教育"
-    },
-    {
-      "raw_hot": 44737,
-      "num": 331192,
-      "word": "杨幂科技感大片",
-      "onboard_time": 1712461758,
-      "rank": 20,
-      "category": "艺人"
     },
     {
       "raw_hot": 41083,

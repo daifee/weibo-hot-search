@@ -1,0 +1,410 @@
+{
+  "runTime": 1712464457174,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2424915,
+        "num": 2424915,
+        "word": "调休",
+        "onboard_time": 1712450539,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1440174,
+        "num": 1440174,
+        "word": "好声音起诉李玟经纪公司将开庭",
+        "onboard_time": 1712462059,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 179590,
+        "num": 1325379,
+        "word": "旅游专列也卷起来了",
+        "onboard_time": 1712460439,
+        "rank": 2,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 1240750,
+        "num": 1240750,
+        "word": "五一假期前后都要调休上班",
+        "onboard_time": 1712454676,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1134058,
+        "num": 1134058,
+        "word": "专家建议允许不合适的公务员辞职",
+        "onboard_time": 1712461279,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 751924,
+        "num": 751924,
+        "word": "这个清明119000000人次出游",
+        "onboard_time": 1712460018,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 670562,
+        "num": 670562,
+        "word": "22岁的我已经和癌症斗了3000天",
+        "onboard_time": 1712458456,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 611550,
+        "num": 611550,
+        "word": "只有林正英知道纪凌尘底子有多好",
+        "onboard_time": 1712461999,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 558242,
+        "num": 558242,
+        "word": "读研会惩罚每一个考上研的混子",
+        "onboard_time": 1712461399,
+        "rank": 8,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 546670,
+        "num": 546670,
+        "word": "种地吧 监控",
+        "onboard_time": 1712461700,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1547043,
+        "num": 544807,
+        "word": "蒋胜男发文说赵丽颖粉丝戏多",
+        "onboard_time": 1712456597,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 694141,
+        "num": 540002,
+        "word": "蒋胜男 粉圈别来玩我了",
+        "onboard_time": 1712461099,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 533618,
+        "num": 533618,
+        "word": "王鹤棣自己开跑车",
+        "onboard_time": 1712463080,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 453662,
+        "num": 453662,
+        "word": "省考成绩",
+        "onboard_time": 1712461638,
+        "rank": 13,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 453292,
+        "num": 453292,
+        "word": "杭州南站大批客流拥挤有人破门自救",
+        "onboard_time": 1712459178,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 443472,
+        "num": 443472,
+        "word": "手术直播间 看完不敢涂口红",
+        "onboard_time": 1712459777,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 363545,
+        "num": 363545,
+        "word": "公务员部分岗位年龄调整到40周岁",
+        "onboard_time": 1712451739,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 689811,
+        "num": 360434,
+        "word": "提灯定损事件后当地民宿遭大量退订",
+        "onboard_time": 1712454557,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 351547,
+        "num": 351547,
+        "word": "林更新 做饭的神",
+        "onboard_time": 1712463320,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 288021,
+        "num": 288021,
+        "word": "Uzi谈Doinb复播",
+        "onboard_time": 1712462299,
+        "rank": 19,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 294973,
+        "num": 281694,
+        "word": "狗都知道回头哄一下",
+        "onboard_time": 1712462359,
+        "rank": 20,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 275268,
+        "num": 275268,
+        "word": "弟弟考研上岸了我却一点不开心",
+        "onboard_time": 1712450598,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 257233,
+        "num": 257233,
+        "word": "天津男篮拉拉队公然砸观众",
+        "onboard_time": 1712462179,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 249676,
+        "num": 249676,
+        "word": "叶童看纪凌尘走路的表情",
+        "onboard_time": 1712454797,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 240758,
+        "num": 240758,
+        "word": "雷军奖励王腾小米su7",
+        "onboard_time": 1712463740,
+        "rank": 24,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 604990,
+        "num": 237837,
+        "word": "胡锡进称应该给虐猫男生改正机会",
+        "onboard_time": 1712457918,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 228288,
+        "num": 228288,
+        "word": "WTT世界乒联回应阿鲁纳",
+        "onboard_time": 1712463500,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 226066,
+        "num": 226066,
+        "word": "体制内入职早年龄却比我小的同事",
+        "onboard_time": 1712456057,
+        "rank": 27,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 222446,
+        "num": 222446,
+        "word": "小米SU7标准版不支持城市NOA",
+        "onboard_time": 1712460618,
+        "rank": 28,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 221682,
+        "num": 221682,
+        "word": "导演你们拍这段真的没笑场吗",
+        "onboard_time": 1712458339,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 215340,
+        "num": 215340,
+        "word": "安卓用户关怀果粉闹钟没响",
+        "onboard_time": 1712463559,
+        "rank": 30,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 209503,
+        "num": 209503,
+        "word": "电视剧迎风官宣阵容",
+        "onboard_time": 1712459059,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 200933,
+        "num": 200933,
+        "word": "成都迪士尼连夜升级",
+        "onboard_time": 1712464041,
+        "rank": 32,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 200470,
+        "num": 200470,
+        "word": "肖战说未来会继续加油",
+        "onboard_time": 1712463860,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 200195,
+        "num": 200195,
+        "word": "创造营亚洲C位是中国人",
+        "onboard_time": 1712447718,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 191435,
+        "num": 191435,
+        "word": "广西人上4天休4天",
+        "onboard_time": 1712452638,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 185588,
+        "num": 185588,
+        "word": "马上就知道六天有多长了",
+        "onboard_time": 1712458099,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 184717,
+        "num": 184717,
+        "word": "宣璐蒙眼神图",
+        "onboard_time": 1712462720,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 183575,
+        "num": 183575,
+        "word": "许嵩深圳",
+        "onboard_time": 1712460139,
+        "rank": 38,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 180546,
+        "num": 180546,
+        "word": "A股",
+        "onboard_time": 1712459959,
+        "rank": 39,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 53394,
+        "num": 179496,
+        "word": "杨幂科技感大片",
+        "onboard_time": 1712461758,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 179460,
+        "num": 179460,
+        "word": "15元一晚的房间",
+        "onboard_time": 1712450719,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 167413,
+        "num": 167413,
+        "word": "爱奇艺4月片单",
+        "onboard_time": 1712461158,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 163129,
+        "num": 163129,
+        "word": "本周桃花运最旺的星座",
+        "onboard_time": 1712450178,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 158820,
+        "num": 158820,
+        "word": "17级以前的大学生才是最幸福的",
+        "onboard_time": 1712457617,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 156562,
+        "num": 156562,
+        "word": "官方通报15岁女孩被围殴",
+        "onboard_time": 1712450178,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 148058,
+        "num": 148058,
+        "word": "芙莉莲 纯情咖装什么老手",
+        "onboard_time": 1712462841,
+        "rank": 46,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 147370,
+        "num": 147370,
+        "word": "金价飙升有顾客越涨越买",
+        "onboard_time": 1712458817,
+        "rank": 47,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 144290,
+        "num": 144290,
+        "word": "恒大造车5年亏超1100亿",
+        "onboard_time": 1712454797,
+        "rank": 48,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 133508,
+        "num": 143087,
+        "word": "林更新终于会侧位吻了",
+        "onboard_time": 1712457557,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#推进城乡环境整治完善公共卫生设施#"
+    }
+  }
+}
