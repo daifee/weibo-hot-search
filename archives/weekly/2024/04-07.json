@@ -1,6 +1,6 @@
 {
   "startTime": 1712420539476,
-  "endTime": 1712456826445,
+  "endTime": 1712457467028,
   "band_list": [
     {
       "raw_hot": 3164787,
@@ -59,20 +59,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 995536,
+      "num": 995536,
+      "word": "提灯定损事件后当地民宿遭大量退订",
+      "onboard_time": 1712454557,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 871912,
       "num": 429009,
       "word": "日本天皇独生女成为月薪7千的打工人",
       "onboard_time": 1712403077,
       "rank": 24,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 864345,
-      "num": 864345,
-      "word": "提灯定损事件后当地民宿遭大量退订",
-      "onboard_time": 1712454557,
-      "rank": 5,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 852839,
@@ -89,6 +89,22 @@
       "onboard_time": 1712446936,
       "rank": 5,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 777551,
+      "num": 481426,
+      "word": "蒋胜男发文说赵丽颖粉丝戏多",
+      "onboard_time": 1712456597,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 752209,
+      "num": 752209,
+      "word": "五一假期前后都要调休上班",
+      "onboard_time": 1712454676,
+      "rank": 8,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 713771,
@@ -129,14 +145,6 @@
       "onboard_time": 1712419217,
       "rank": 15,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 658090,
-      "num": 658090,
-      "word": "五一假期前后都要调休上班",
-      "onboard_time": 1712454676,
-      "rank": 8,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 650599,
@@ -315,6 +323,14 @@
       "category": "社会新闻,旅游"
     },
     {
+      "raw_hot": 364405,
+      "num": 364405,
+      "word": "美日澳菲南海首次军演",
+      "onboard_time": 1712455518,
+      "rank": 16,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 354112,
       "num": 354112,
       "word": "华为P70或不举办发布会直接上线销售",
@@ -345,14 +361,6 @@
       "onboard_time": 1712456057,
       "rank": 21,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 329464,
-      "num": 329464,
-      "word": "美日澳菲南海首次军演",
-      "onboard_time": 1712455518,
-      "rank": 16,
-      "category": "国内时政"
     },
     {
       "raw_hot": 327890,
@@ -451,6 +459,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 239673,
+      "num": 239673,
+      "word": "吉克隽逸说我黑都那么漂亮白了还得了",
+      "onboard_time": 1712455757,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 236220,
       "num": 236220,
       "word": "林彦俊出道六周年应援",
@@ -491,6 +507,22 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 206378,
+      "num": 206378,
+      "word": "滤镜官宣杀青",
+      "onboard_time": 1712457017,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 202653,
+      "num": 195848,
+      "word": "跳水运动员摔进水池看呆马克龙",
+      "onboard_time": 1712455817,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 201262,
       "num": 201262,
       "word": "陈楚生儿子巡演返场嘉宾",
@@ -515,20 +547,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 199563,
-      "num": 199563,
-      "word": "蒋胜男发文说赵丽颖粉丝戏多",
-      "onboard_time": 1712456597,
-      "rank": 26,
-      "category": "艺人"
+      "raw_hot": 199087,
+      "num": 199087,
+      "word": "王晰为声入人心发声",
+      "onboard_time": 1712457377,
+      "rank": 28,
+      "category": "综艺"
     },
     {
-      "raw_hot": 194965,
-      "num": 187041,
-      "word": "跳水运动员摔进水池看呆马克龙",
+      "raw_hot": 194835,
+      "num": 194835,
+      "word": "耶伦",
       "onboard_time": 1712455817,
-      "rank": 30,
-      "category": "体育"
+      "rank": 31,
+      "category": "国内时政"
     },
     {
       "raw_hot": 193030,
@@ -539,12 +571,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 192655,
+      "num": 192655,
+      "word": "今年还要调休3次",
+      "onboard_time": 1712456538,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 192574,
       "num": 192574,
       "word": "徐佳莹蓝台哭了",
       "onboard_time": 1712452398,
       "rank": 43,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 191970,
+      "num": 191970,
+      "word": "王阳告别沈近真",
+      "onboard_time": 1712456659,
+      "rank": 32,
+      "category": "剧集"
     },
     {
       "raw_hot": 191431,
@@ -555,34 +603,10 @@
       "category": "演出"
     },
     {
-      "raw_hot": 190129,
-      "num": 190129,
-      "word": "吉克隽逸说我黑都那么漂亮白了还得了",
-      "onboard_time": 1712455757,
-      "rank": 29,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 182332,
-      "num": 182332,
-      "word": "耶伦",
-      "onboard_time": 1712455817,
-      "rank": 31,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 182206,
       "num": 171013,
       "word": "眼泪女王",
       "onboard_time": 1712407399,
-      "rank": 32,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 181043,
-      "num": 181043,
-      "word": "王阳告别沈近真",
-      "onboard_time": 1712456659,
       "rank": 32,
       "category": "剧集"
     },
@@ -619,6 +643,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 173930,
+      "num": 173930,
+      "word": "短剧都卷到大制作了",
+      "onboard_time": 1712457017,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 168006,
       "num": 168006,
       "word": "人在淄博玩行李随便放",
@@ -641,6 +673,14 @@
       "onboard_time": 1712445435,
       "rank": 22,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 165118,
+      "num": 165118,
+      "word": "首饰金价逼近每克720元",
+      "onboard_time": 1712456477,
+      "rank": 43,
+      "category": "财经"
     },
     {
       "raw_hot": 163555,
@@ -705,22 +745,6 @@
       "onboard_time": 1712413821,
       "rank": 36,
       "category": "演出"
-    },
-    {
-      "raw_hot": 146496,
-      "num": 146496,
-      "word": "首饰金价逼近每克720元",
-      "onboard_time": 1712456477,
-      "rank": 43,
-      "category": "财经"
-    },
-    {
-      "raw_hot": 143008,
-      "num": 143008,
-      "word": "今年还要调休3次",
-      "onboard_time": 1712456538,
-      "rank": 44,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 142067,
