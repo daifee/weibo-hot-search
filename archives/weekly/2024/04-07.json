@@ -1,6 +1,6 @@
 {
   "startTime": 1712420539476,
-  "endTime": 1712459931958,
+  "endTime": 1712460933600,
   "band_list": [
     {
       "raw_hot": 3164787,
@@ -19,20 +19,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1728235,
+      "num": 1728235,
+      "word": "五一假期前后都要调休上班",
+      "onboard_time": 1712454676,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1616992,
       "num": 1616992,
       "word": "15元一晚的房间",
       "onboard_time": 1712450719,
       "rank": 10,
       "category": "情感"
-    },
-    {
-      "raw_hot": 1354693,
-      "num": 1354693,
-      "word": "五一假期前后都要调休上班",
-      "onboard_time": 1712454676,
-      "rank": 8,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1297594,
@@ -83,6 +83,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 927296,
+      "num": 927296,
+      "word": "胡锡进称应该给虐猫男生改正机会",
+      "onboard_time": 1712457918,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 871912,
       "num": 429009,
       "word": "日本天皇独生女成为月薪7千的打工人",
@@ -105,14 +113,6 @@
       "onboard_time": 1712446936,
       "rank": 5,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 730909,
-      "num": 730909,
-      "word": "胡锡进称应该给虐猫男生改正机会",
-      "onboard_time": 1712457918,
-      "rank": 5,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 713771,
@@ -243,6 +243,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 500489,
+      "num": 500489,
+      "word": "22岁的我已经和癌症斗了3000天",
+      "onboard_time": 1712458456,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 496778,
       "num": 496778,
       "word": "林狗你是真的火了",
@@ -291,12 +299,36 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 430784,
+      "num": 430784,
+      "word": "杭州南站大批客流拥挤有人破门自救",
+      "onboard_time": 1712459178,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 415828,
       "num": 415828,
       "word": "CUBE男经纪人骚扰minnie",
       "onboard_time": 1712446696,
       "rank": 17,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 398120,
+      "num": 398120,
+      "word": "手术直播间 看完不敢涂口红",
+      "onboard_time": 1712459777,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 397212,
+      "num": 397212,
+      "word": "电视剧迎风官宣阵容",
+      "onboard_time": 1712459059,
+      "rank": 12,
+      "category": "剧集"
     },
     {
       "raw_hot": 381378,
@@ -331,6 +363,14 @@
       "category": "社会新闻,旅游"
     },
     {
+      "raw_hot": 369692,
+      "num": 369692,
+      "word": "我国推出首个饮料营养选择分级标识",
+      "onboard_time": 1712455458,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 364405,
       "num": 364405,
       "word": "美日澳菲南海首次军演",
@@ -363,28 +403,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 345655,
+      "num": 345655,
+      "word": "许嵩深圳",
+      "onboard_time": 1712460139,
+      "rank": 17,
+      "category": "演出"
+    },
+    {
       "raw_hot": 342589,
       "num": 267915,
       "word": "体制内入职早年龄小比我的同事",
       "onboard_time": 1712456057,
       "rank": 21,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 330033,
-      "num": 330033,
-      "word": "电视剧迎风官宣阵容",
-      "onboard_time": 1712459059,
-      "rank": 12,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 328095,
-      "num": 328095,
-      "word": "我国推出首个饮料营养选择分级标识",
-      "onboard_time": 1712455458,
-      "rank": 22,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 327890,
@@ -443,6 +475,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 295651,
+      "num": 295651,
+      "word": "导演你们拍这段真的没笑场吗",
+      "onboard_time": 1712458339,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 295480,
       "num": 263542,
       "word": "陈奕迅南京场观众",
@@ -457,6 +497,14 @@
       "onboard_time": 1712457617,
       "rank": 22,
       "category": "情感"
+    },
+    {
+      "raw_hot": 277836,
+      "num": 277836,
+      "word": "这个清明119000000人次出游",
+      "onboard_time": 1712460018,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 272421,
@@ -483,14 +531,6 @@
       "category": "美食,幽默"
     },
     {
-      "raw_hot": 257999,
-      "num": 257999,
-      "word": "导演你们拍这段真的没笑场吗",
-      "onboard_time": 1712458339,
-      "rank": 24,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 255735,
       "num": 255735,
       "word": "BOA锁定第三轮A组",
@@ -505,14 +545,6 @@
       "onboard_time": 1712450840,
       "rank": 34,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 246214,
-      "num": 295939,
-      "word": "22岁的我已经和癌症斗了3000天",
-      "onboard_time": 1712458456,
-      "rank": 16,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 239673,
@@ -531,6 +563,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 234837,
+      "num": 234837,
+      "word": "体制内入职早年龄却比我小的同事",
+      "onboard_time": 1712456057,
+      "rank": 42,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 228855,
       "num": 482835,
       "word": "花莲地震已致12人死亡1123人受伤",
@@ -547,14 +587,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 210569,
-      "num": 210569,
-      "word": "杭州南站大批客流拥挤有人破门自救",
-      "onboard_time": 1712459178,
-      "rank": 28,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 210237,
       "num": 210237,
       "word": "体制内开会为什么不能喝奶茶",
@@ -564,7 +596,7 @@
     },
     {
       "raw_hot": 209135,
-      "num": 296178,
+      "num": 354818,
       "word": "智己L6即将发布",
       "onboard_time": 1712457738,
       "rank": 15,
@@ -585,6 +617,14 @@
       "onboard_time": 1712457017,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 203587,
+      "num": 203587,
+      "word": "A股",
+      "onboard_time": 1712459959,
+      "rank": 30,
+      "category": "财经"
     },
     {
       "raw_hot": 202653,
@@ -616,6 +656,14 @@
       "word": "李沁写给沈近真的第九封信",
       "onboard_time": 1712415200,
       "rank": 31,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 198085,
+      "num": 198085,
+      "word": "静白离开甘露寺遇见好人了",
+      "onboard_time": 1712459238,
+      "rank": 38,
       "category": "剧集"
     },
     {
@@ -675,12 +723,20 @@
       "category": "财经"
     },
     {
-      "raw_hot": 188156,
-      "num": 188156,
+      "raw_hot": 189943,
+      "num": 189943,
       "word": "林更新终于会侧位吻了",
       "onboard_time": 1712457557,
       "rank": 32,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 188549,
+      "num": 188549,
+      "word": "小米SU7标准版不支持城市NOA",
+      "onboard_time": 1712460618,
+      "rank": 34,
+      "category": "汽车"
     },
     {
       "raw_hot": 182206,
@@ -739,6 +795,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 169920,
+      "num": 169920,
+      "word": "上海年轻人街头抱树吸春",
+      "onboard_time": 1712458757,
+      "rank": 43,
+      "category": "情感"
+    },
+    {
       "raw_hot": 168006,
       "num": 168006,
       "word": "人在淄博玩行李随便放",
@@ -761,14 +825,6 @@
       "onboard_time": 1712445435,
       "rank": 22,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 166419,
-      "num": 166419,
-      "word": "静白离开甘露寺遇见好人了",
-      "onboard_time": 1712459238,
-      "rank": 38,
-      "category": "剧集"
     },
     {
       "raw_hot": 163555,
@@ -819,22 +875,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 152263,
-      "num": 152263,
-      "word": "体制内入职早年龄却比我小的同事",
-      "onboard_time": 1712456057,
-      "rank": 42,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 150892,
-      "num": 150892,
-      "word": "上海年轻人街头抱树吸春",
-      "onboard_time": 1712458757,
-      "rank": 43,
-      "category": "情感"
-    },
-    {
       "raw_hot": 149092,
       "num": 149092,
       "word": "放假三天躺了三天",
@@ -849,14 +889,6 @@
       "onboard_time": 1712413821,
       "rank": 36,
       "category": "演出"
-    },
-    {
-      "raw_hot": 145212,
-      "num": 145212,
-      "word": "手术直播间 看完不敢涂口红",
-      "onboard_time": 1712459777,
-      "rank": 45,
-      "category": "剧集"
     },
     {
       "raw_hot": 142067,
@@ -905,6 +937,14 @@
       "onboard_time": 1712411960,
       "rank": 43,
       "category": "音乐,时尚"
+    },
+    {
+      "raw_hot": 128845,
+      "num": 128845,
+      "word": "河南省考",
+      "onboard_time": 1712460919,
+      "rank": 49,
+      "category": "教育"
     },
     {
       "raw_hot": 128389,
@@ -1171,6 +1211,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 50106,
+      "num": 1164574,
+      "word": "旅游专列也卷起来了",
+      "onboard_time": 1712460439,
+      "rank": 2,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 46317,
       "num": 98449,
       "word": "论文重复率越改越高真的太痛苦了",
@@ -1227,6 +1275,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 28858,
+      "num": 168122,
+      "word": "中端手机性能有多卷",
+      "onboard_time": 1712459418,
+      "rank": 37,
+      "category": "数码"
+    },
+    {
       "raw_hot": 25511,
       "num": 24201,
       "word": "手术直播间",
@@ -1241,14 +1297,6 @@
       "onboard_time": 1712401819,
       "rank": 45,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 21184,
-      "num": 166610,
-      "word": "中端手机性能有多卷",
-      "onboard_time": 1712459418,
-      "rank": 37,
-      "category": "数码"
     },
     {
       "raw_hot": 18221,
