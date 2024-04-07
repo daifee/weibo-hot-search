@@ -1,6 +1,6 @@
 {
   "startTime": 1711902044401,
-  "endTime": 1712468056948,
+  "endTime": 1712470846512,
   "band_list": [
     {
       "raw_hot": 16874674,
@@ -643,6 +643,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1548113,
+      "num": 1548113,
+      "word": "想当行长继承家产男孩父亲确为行长",
+      "onboard_time": 1712469258,
+      "rank": 0,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1542940,
       "num": 1542940,
       "word": "家属求医生把癌症报告由晚期改为中期",
@@ -793,6 +801,14 @@
       "onboard_time": 1712119762,
       "rank": 4,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1415504,
+      "num": 296499,
+      "word": "午睡超1小时死亡风险增加30%",
+      "onboard_time": 1712466800,
+      "rank": 37,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 1403062,
@@ -2283,14 +2299,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 762919,
-      "num": 296499,
-      "word": "午睡超1小时死亡风险增加30%",
-      "onboard_time": 1712466800,
-      "rank": 37,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 760708,
       "num": 760708,
       "word": "张元英ins",
@@ -3115,6 +3123,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 636237,
+      "num": 636237,
+      "word": "赵奕欢的脖子被李菲儿掐红了",
+      "onboard_time": 1712466919,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 635293,
       "num": 635293,
       "word": "甘肃拍到小鸟把彩虹披身上了",
@@ -3201,6 +3217,14 @@
       "onboard_time": 1712316739,
       "rank": 38,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 622729,
+      "num": 622729,
+      "word": "朱梓骁 脖巴",
+      "onboard_time": 1712468000,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 622262,
@@ -3915,6 +3939,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 546639,
+      "num": 546639,
+      "word": "铁路杭州站致歉",
+      "onboard_time": 1712466321,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 544755,
       "num": 544755,
       "word": "边伯贤 香港",
@@ -4403,6 +4435,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 502860,
+      "num": 502860,
+      "word": "自称秦朗舅舅男子因造谣被警方处罚",
+      "onboard_time": 1712468718,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 502242,
       "num": 502242,
       "word": "海啸",
@@ -4593,6 +4633,14 @@
       "onboard_time": 1712454797,
       "rank": 10,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 482014,
+      "num": 482014,
+      "word": "韩素希柳俊烈不出演新剧魅惑",
+      "onboard_time": 1712469618,
+      "rank": 8,
+      "category": "剧集"
     },
     {
       "raw_hot": 481827,
@@ -5539,6 +5587,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 412773,
+      "num": 183381,
+      "word": "其实圈子里只有我们两个",
+      "onboard_time": 1712468779,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 412441,
       "num": 412441,
       "word": "上饶提灯定损房东女儿疑被开除",
@@ -5737,14 +5793,6 @@
       "onboard_time": 1712235679,
       "rank": 21,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 396929,
-      "num": 396929,
-      "word": "赵奕欢的脖子被李菲儿掐红了",
-      "onboard_time": 1712466919,
-      "rank": 42,
-      "category": "综艺"
     },
     {
       "raw_hot": 396372,
@@ -6075,6 +6123,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 375673,
+      "num": 375673,
+      "word": "林更新林允儿古装旧照",
+      "onboard_time": 1712468117,
+      "rank": 12,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 375560,
       "num": 375560,
       "word": "iPad游戏合集",
@@ -6283,6 +6339,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 362039,
+      "num": 362039,
+      "word": "徐海乔问怎么从前夫哥变岳父大人了",
+      "onboard_time": 1712468359,
+      "rank": 13,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 361529,
       "num": 361529,
       "word": "不建议吃冷青团",
@@ -6347,6 +6411,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 356793,
+      "num": 356793,
+      "word": "王一博琼瑶女主式哭",
+      "onboard_time": 1712469919,
+      "rank": 14,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 356312,
       "num": 356312,
       "word": "白鹿罗云熙或三搭",
@@ -6401,14 +6473,6 @@
       "onboard_time": 1712111121,
       "rank": 30,
       "category": "情感"
-    },
-    {
-      "raw_hot": 354555,
-      "num": 354555,
-      "word": "铁路杭州站致歉",
-      "onboard_time": 1712466321,
-      "rank": 28,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 354112,
@@ -6505,6 +6569,14 @@
       "onboard_time": 1711940541,
       "rank": 26,
       "category": "电影"
+    },
+    {
+      "raw_hot": 347347,
+      "num": 347347,
+      "word": "库迪咖啡创始人被强执",
+      "onboard_time": 1712470219,
+      "rank": 15,
+      "category": "美食"
     },
     {
       "raw_hot": 347279,
@@ -10003,6 +10075,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 217242,
+      "num": 183014,
+      "word": "林更新和不同女星拍吻戏差距",
+      "onboard_time": 1712469919,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 217147,
       "num": 217147,
       "word": "与凤行预告",
@@ -10217,6 +10297,14 @@
       "onboard_time": 1712143520,
       "rank": 41,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 212209,
+      "num": 212209,
+      "word": "甲状腺癌究竟是幸福癌还是流行病",
+      "onboard_time": 1712469018,
+      "rank": 27,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 211815,
@@ -10473,6 +10561,14 @@
       "onboard_time": 1712164694,
       "rank": 32,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 206442,
+      "num": 182800,
+      "word": "成龙发文庆祝70岁生日",
+      "onboard_time": 1712470278,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 206431,
@@ -12371,6 +12467,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 182439,
+      "num": 182439,
+      "word": "阴雨",
+      "onboard_time": 1712470099,
+      "rank": 33,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 182277,
       "num": 182277,
       "word": "Liz生图",
@@ -12481,6 +12585,14 @@
       "onboard_time": 1712291117,
       "rank": 32,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 180166,
+      "num": 180166,
+      "word": "周冠宇退赛",
+      "onboard_time": 1712470638,
+      "rank": 34,
+      "category": "体育"
     },
     {
       "raw_hot": 180073,
@@ -13049,6 +13161,14 @@
       "onboard_time": 1711954761,
       "rank": 37,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 170639,
+      "num": 170639,
+      "word": "雷军许愿池",
+      "onboard_time": 1712468180,
+      "rank": 35,
+      "category": "汽车"
     },
     {
       "raw_hot": 170441,
@@ -15723,6 +15843,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 131442,
+      "num": 131442,
+      "word": "Gen1es",
+      "onboard_time": 1712469558,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 131320,
       "num": 131320,
       "word": "一学就会的春日拍照技巧",
@@ -15761,6 +15889,14 @@
       "onboard_time": 1712055198,
       "rank": 46,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 130341,
+      "num": 130341,
+      "word": "李荣浩新专",
+      "onboard_time": 1712469861,
+      "rank": 42,
+      "category": "音乐"
     },
     {
       "raw_hot": 130092,
@@ -15881,6 +16017,14 @@
       "onboard_time": 1712278877,
       "rank": 37,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 126761,
+      "num": 126761,
+      "word": "想当行长男孩父亲所在支行回应",
+      "onboard_time": 1712470579,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 126719,
@@ -16465,14 +16609,6 @@
       "onboard_time": 1712291117,
       "rank": 45,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 114645,
-      "num": 114645,
-      "word": "朱梓骁 脖巴",
-      "onboard_time": 1712468000,
-      "rank": 49,
-      "category": "综艺"
     },
     {
       "raw_hot": 114641,

@@ -1,0 +1,410 @@
+{
+  "runTime": 1712470846512,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1548113,
+        "num": 1548113,
+        "word": "想当行长继承家产男孩父亲确为行长",
+        "onboard_time": 1712469258,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1127451,
+        "num": 1127451,
+        "word": "调休",
+        "onboard_time": 1712450539,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 82954,
+        "num": 1042857,
+        "word": "旅游专列也卷起来了",
+        "onboard_time": 1712460439,
+        "rank": 2,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 1031891,
+        "num": 1031891,
+        "word": "专家建议允许不合适的公务员辞职",
+        "onboard_time": 1712461279,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 636237,
+        "num": 636237,
+        "word": "赵奕欢的脖子被李菲儿掐红了",
+        "onboard_time": 1712466919,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 622729,
+        "num": 622729,
+        "word": "朱梓骁 脖巴",
+        "onboard_time": 1712468000,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 546639,
+        "num": 546639,
+        "word": "铁路杭州站致歉",
+        "onboard_time": 1712466321,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 502860,
+        "num": 502860,
+        "word": "自称秦朗舅舅男子因造谣被警方处罚",
+        "onboard_time": 1712468718,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 482014,
+        "num": 482014,
+        "word": "韩素希柳俊烈不出演新剧魅惑",
+        "onboard_time": 1712469618,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 297232,
+        "num": 405073,
+        "word": "22岁的我已经和癌症斗了3000天",
+        "onboard_time": 1712458456,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 578887,
+        "num": 404932,
+        "word": "蒋胜男发文说赵丽颖粉丝戏多",
+        "onboard_time": 1712456597,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 404714,
+        "num": 404714,
+        "word": "读研会惩罚每一个考上研的混子",
+        "onboard_time": 1712461399,
+        "rank": 11,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 375673,
+        "num": 375673,
+        "word": "林更新林允儿古装旧照",
+        "onboard_time": 1712468117,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 362039,
+        "num": 362039,
+        "word": "徐海乔问怎么从前夫哥变岳父大人了",
+        "onboard_time": 1712468359,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 356793,
+        "num": 356793,
+        "word": "王一博琼瑶女主式哭",
+        "onboard_time": 1712469919,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 347347,
+        "num": 347347,
+        "word": "库迪咖啡创始人被强执",
+        "onboard_time": 1712470219,
+        "rank": 15,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 327078,
+        "num": 327078,
+        "word": "王鹤棣自己开跑车",
+        "onboard_time": 1712463080,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 326746,
+        "num": 326746,
+        "word": "雷军奖励王腾小米su7",
+        "onboard_time": 1712463740,
+        "rank": 17,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 301046,
+        "num": 301046,
+        "word": "成都迪士尼连夜升级",
+        "onboard_time": 1712464041,
+        "rank": 18,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 289632,
+        "num": 289632,
+        "word": "这个清明119000000人次出游",
+        "onboard_time": 1712460018,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1415504,
+        "num": 279218,
+        "word": "午睡超1小时死亡风险增加30%",
+        "onboard_time": 1712466800,
+        "rank": 20,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 745594,
+        "num": 274795,
+        "word": "好声音起诉李玟经纪公司将开庭",
+        "onboard_time": 1712462059,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 433489,
+        "num": 273300,
+        "word": "黄子韬脖子咋了",
+        "onboard_time": 1712466440,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 265073,
+        "num": 265073,
+        "word": "手术直播间 看完不敢涂口红",
+        "onboard_time": 1712459777,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 246369,
+        "num": 246369,
+        "word": "iPhone闹钟不会识别调休",
+        "onboard_time": 1712464461,
+        "rank": 24,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 256064,
+        "num": 243914,
+        "word": "只有林正英知道纪凌尘底子有多好",
+        "onboard_time": 1712461999,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 240357,
+        "num": 240357,
+        "word": "林更新撞脸游本昌",
+        "onboard_time": 1712464820,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 212209,
+        "num": 212209,
+        "word": "甲状腺癌究竟是幸福癌还是流行病",
+        "onboard_time": 1712469018,
+        "rank": 27,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 186262,
+        "num": 186262,
+        "word": "省考成绩",
+        "onboard_time": 1712461638,
+        "rank": 28,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 184011,
+        "num": 184011,
+        "word": "原来邋遢只是老师的保护色",
+        "onboard_time": 1712464940,
+        "rank": 29,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 412773,
+        "num": 183381,
+        "word": "其实圈子里只有我们两个",
+        "onboard_time": 1712468779,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 217242,
+        "num": 183014,
+        "word": "林更新和不同女星拍吻戏差距",
+        "onboard_time": 1712469919,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 206442,
+        "num": 182800,
+        "word": "成龙发文庆祝70岁生日",
+        "onboard_time": 1712470278,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 182439,
+        "num": 182439,
+        "word": "阴雨",
+        "onboard_time": 1712470099,
+        "rank": 33,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 180166,
+        "num": 180166,
+        "word": "周冠宇退赛",
+        "onboard_time": 1712470638,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 170639,
+        "num": 170639,
+        "word": "雷军许愿池",
+        "onboard_time": 1712468180,
+        "rank": 35,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 169597,
+        "num": 169597,
+        "word": "种地吧 监控",
+        "onboard_time": 1712461700,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 152038,
+        "num": 152038,
+        "word": "蒋胜男 粉圈别来玩我了",
+        "onboard_time": 1712461099,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 146268,
+        "num": 146268,
+        "word": "公务员部分岗位年龄调整到40周岁",
+        "onboard_time": 1712451739,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 139291,
+        "num": 139291,
+        "word": "诺米",
+        "onboard_time": 1712467580,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 138113,
+        "num": 138113,
+        "word": "成都迪士尼 取号",
+        "onboard_time": 1712467639,
+        "rank": 40,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 131442,
+        "num": 131442,
+        "word": "Gen1es",
+        "onboard_time": 1712469558,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 130341,
+        "num": 130341,
+        "word": "李荣浩新专",
+        "onboard_time": 1712469861,
+        "rank": 42,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 129697,
+        "num": 129697,
+        "word": "肖战说未来会继续加油",
+        "onboard_time": 1712463860,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 128790,
+        "num": 128790,
+        "word": "五一假期前后都要调休上班",
+        "onboard_time": 1712454676,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 128486,
+        "num": 128486,
+        "word": "为什么明明出去玩了还感觉很空虚",
+        "onboard_time": 1712466560,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 127150,
+        "num": 127150,
+        "word": "王一博模仿陈佩斯",
+        "onboard_time": 1712464581,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 126761,
+        "num": 126761,
+        "word": "想当行长男孩父亲所在支行回应",
+        "onboard_time": 1712470579,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 124416,
+        "num": 124416,
+        "word": "Uzi谈Doinb复播",
+        "onboard_time": 1712462299,
+        "rank": 48,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 122357,
+        "num": 122357,
+        "word": "杭州南站大批客流拥挤有人破门自救",
+        "onboard_time": 1712459178,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#推进城乡环境整治完善公共卫生设施#"
+    }
+  }
+}
