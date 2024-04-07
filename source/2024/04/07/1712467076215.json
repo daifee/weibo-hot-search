@@ -1,0 +1,410 @@
+{
+  "runTime": 1712467076215,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1690088,
+        "num": 1690088,
+        "word": "调休",
+        "onboard_time": 1712450539,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1554834,
+        "num": 1554834,
+        "word": "专家建议允许不合适的公务员辞职",
+        "onboard_time": 1712461279,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 119921,
+        "num": 665906,
+        "word": "旅游专列也卷起来了",
+        "onboard_time": 1712460439,
+        "rank": 2,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 634174,
+        "num": 634174,
+        "word": "读研会惩罚每一个考上研的混子",
+        "onboard_time": 1712461399,
+        "rank": 3,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 618814,
+        "num": 618814,
+        "word": "雷军奖励王腾小米su7",
+        "onboard_time": 1712463740,
+        "rank": 4,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 594277,
+        "num": 594277,
+        "word": "王鹤棣自己开跑车",
+        "onboard_time": 1712463080,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 517313,
+        "num": 517313,
+        "word": "只有林正英知道纪凌尘底子有多好",
+        "onboard_time": 1712461999,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 473524,
+        "num": 473524,
+        "word": "22岁的我已经和癌症斗了3000天",
+        "onboard_time": 1712458456,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 462312,
+        "num": 462312,
+        "word": "成都迪士尼连夜升级",
+        "onboard_time": 1712464041,
+        "rank": 8,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 459937,
+        "num": 459937,
+        "word": "五一假期前后都要调休上班",
+        "onboard_time": 1712454676,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1298669,
+        "num": 456593,
+        "word": "好声音起诉李玟经纪公司将开庭",
+        "onboard_time": 1712462059,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1199627,
+        "num": 449619,
+        "word": "蒋胜男发文说赵丽颖粉丝戏多",
+        "onboard_time": 1712456597,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 435068,
+        "num": 435068,
+        "word": "蒋胜男 粉圈别来玩我了",
+        "onboard_time": 1712461099,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 428477,
+        "num": 428477,
+        "word": "手术直播间 看完不敢涂口红",
+        "onboard_time": 1712459777,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 403906,
+        "num": 403906,
+        "word": "这个清明119000000人次出游",
+        "onboard_time": 1712460018,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 393559,
+        "num": 393559,
+        "word": "林更新撞脸游本昌",
+        "onboard_time": 1712464820,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 378007,
+        "num": 378007,
+        "word": "省考成绩",
+        "onboard_time": 1712461638,
+        "rank": 16,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 343865,
+        "num": 343865,
+        "word": "种地吧 监控",
+        "onboard_time": 1712461700,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 342989,
+        "num": 342989,
+        "word": "公务员部分岗位年龄调整到40周岁",
+        "onboard_time": 1712451739,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 342274,
+        "num": 342274,
+        "word": "杭州南站大批客流拥挤有人破门自救",
+        "onboard_time": 1712459178,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 548724,
+        "num": 325530,
+        "word": "黄子韬脖子咋了",
+        "onboard_time": 1712466440,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 382231,
+        "num": 316631,
+        "word": "iPhone闹钟不会识别调休",
+        "onboard_time": 1712464461,
+        "rank": 21,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 371321,
+        "num": 315571,
+        "word": "原来邋遢只是老师的保护色",
+        "onboard_time": 1712464940,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 307275,
+        "num": 307275,
+        "word": "光与夜之恋",
+        "onboard_time": 1712464700,
+        "rank": 23,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 268166,
+        "num": 268166,
+        "word": "王一博模仿陈佩斯",
+        "onboard_time": 1712464581,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 257668,
+        "num": 257668,
+        "word": "肖战说未来会继续加油",
+        "onboard_time": 1712463860,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 239566,
+        "num": 239566,
+        "word": "狗都知道回头哄一下",
+        "onboard_time": 1712462359,
+        "rank": 26,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 226368,
+        "num": 226368,
+        "word": "弟弟考研上岸了我却一点不开心",
+        "onboard_time": 1712450598,
+        "rank": 27,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 210542,
+        "num": 210542,
+        "word": "铁路杭州站致歉",
+        "onboard_time": 1712466321,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 200582,
+        "num": 200582,
+        "word": "体制内入职早年龄却比我小的同事",
+        "onboard_time": 1712456057,
+        "rank": 29,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 193317,
+        "num": 193317,
+        "word": "萧敬腾谈跟林有慧结婚细节眼眶红了",
+        "onboard_time": 1712466080,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 192838,
+        "num": 192838,
+        "word": "王一博张天阳追逐戏花絮",
+        "onboard_time": 1712466560,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 188679,
+        "num": 188679,
+        "word": "杨紫何赛飞三搭宿命感",
+        "onboard_time": 1712464820,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 181271,
+        "num": 181271,
+        "word": "Uzi谈Doinb复播",
+        "onboard_time": 1712462299,
+        "rank": 33,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 178013,
+        "num": 178013,
+        "word": "为什么明明出去玩了还感觉很空虚",
+        "onboard_time": 1712466560,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 177963,
+        "num": 177963,
+        "word": "安卓用户关怀果粉闹钟没响",
+        "onboard_time": 1712463559,
+        "rank": 35,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 175222,
+        "num": 175222,
+        "word": "天津男篮拉拉队公然砸观众",
+        "onboard_time": 1712462179,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 173766,
+        "num": 173766,
+        "word": "午睡超1小时死亡风险增加30%",
+        "onboard_time": 1712466800,
+        "rank": 37,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 170452,
+        "num": 170452,
+        "word": "创造营亚洲C位是中国人",
+        "onboard_time": 1712447718,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 163866,
+        "num": 163866,
+        "word": "邓超建议孙俪练古筝",
+        "onboard_time": 1712466381,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 157781,
+        "num": 157781,
+        "word": "WTT世界乒联回应阿鲁纳",
+        "onboard_time": 1712463500,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 157239,
+        "num": 157239,
+        "word": "广西人上4天休4天",
+        "onboard_time": 1712452638,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 149538,
+        "num": 149538,
+        "word": "赵奕欢的脖子被李菲儿掐红了",
+        "onboard_time": 1712466919,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 141616,
+        "num": 141616,
+        "word": "本周桃花运最旺的星座",
+        "onboard_time": 1712450178,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 135885,
+        "num": 135885,
+        "word": "承欢记 中式母女关系",
+        "onboard_time": 1712465540,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 132219,
+        "num": 132219,
+        "word": "现在的假还不如不放",
+        "onboard_time": 1712465302,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 131990,
+        "num": 131990,
+        "word": "爱奇艺4月片单",
+        "onboard_time": 1712461158,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 129923,
+        "num": 129923,
+        "word": "叶童看纪凌尘走路的表情",
+        "onboard_time": 1712454797,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 126997,
+        "num": 126997,
+        "word": "17级以前的大学生才是最幸福的",
+        "onboard_time": 1712457617,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 126577,
+        "num": 126577,
+        "word": "官方通报15岁女孩被围殴",
+        "onboard_time": 1712450178,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#推进城乡环境整治完善公共卫生设施#"
+    }
+  }
+}

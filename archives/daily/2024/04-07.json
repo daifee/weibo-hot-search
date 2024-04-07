@@ -1,6 +1,6 @@
 {
   "startTime": 1712420539476,
-  "endTime": 1712464457174,
+  "endTime": 1712467076215,
   "band_list": [
     {
       "raw_hot": 3164787,
@@ -33,6 +33,14 @@
       "onboard_time": 1712450719,
       "rank": 10,
       "category": "情感"
+    },
+    {
+      "raw_hot": 1554834,
+      "num": 1554834,
+      "word": "专家建议允许不合适的公务员辞职",
+      "onboard_time": 1712461279,
+      "rank": 5,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1440174,
@@ -80,14 +88,6 @@
       "word": "公务员部分岗位年龄调整到40周岁",
       "onboard_time": 1712451739,
       "rank": 15,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1134058,
-      "num": 1134058,
-      "word": "专家建议允许不合适的公务员辞职",
-      "onboard_time": 1712461279,
-      "rank": 5,
       "category": "社会新闻"
     },
     {
@@ -211,6 +211,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 634174,
+      "num": 634174,
+      "word": "读研会惩罚每一个考上研的混子",
+      "onboard_time": 1712461399,
+      "rank": 17,
+      "category": "情感"
+    },
+    {
       "raw_hot": 628835,
       "num": 628835,
       "word": "种地吧 监控",
@@ -225,6 +233,14 @@
       "onboard_time": 1712412860,
       "rank": 10,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 618814,
+      "num": 618814,
+      "word": "雷军奖励王腾小米su7",
+      "onboard_time": 1712463740,
+      "rank": 24,
+      "category": "汽车"
     },
     {
       "raw_hot": 618242,
@@ -259,19 +275,19 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 594277,
+      "num": 594277,
+      "word": "王鹤棣自己开跑车",
+      "onboard_time": 1712463080,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 571710,
       "num": 408319,
       "word": "爷爷上坟比年轻人走的快",
       "onboard_time": 1712413700,
       "rank": 11,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 558242,
-      "num": 558242,
-      "word": "读研会惩罚每一个考上研的混子",
-      "onboard_time": 1712461399,
-      "rank": 17,
       "category": "情感"
     },
     {
@@ -283,11 +299,11 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 533618,
-      "num": 533618,
-      "word": "王鹤棣自己开跑车",
-      "onboard_time": 1712463080,
-      "rank": 19,
+      "raw_hot": 548724,
+      "num": 325530,
+      "word": "黄子韬脖子咋了",
+      "onboard_time": 1712466440,
+      "rank": 20,
       "category": "艺人"
     },
     {
@@ -387,6 +403,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 462312,
+      "num": 462312,
+      "word": "成都迪士尼连夜升级",
+      "onboard_time": 1712464041,
+      "rank": 32,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 415828,
       "num": 415828,
       "word": "CUBE男经纪人骚扰minnie",
@@ -401,6 +425,22 @@
       "onboard_time": 1712459059,
       "rank": 12,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 393559,
+      "num": 393559,
+      "word": "林更新撞脸游本昌",
+      "onboard_time": 1712464820,
+      "rank": 15,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 382231,
+      "num": 316631,
+      "word": "iPhone闹钟不会识别调休",
+      "onboard_time": 1712464461,
+      "rank": 21,
+      "category": "数码"
     },
     {
       "raw_hot": 381378,
@@ -424,6 +464,14 @@
       "word": "为什么现在退房都不检查了",
       "onboard_time": 1712408538,
       "rank": 20,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 371321,
+      "num": 315571,
+      "word": "原来邋遢只是老师的保护色",
+      "onboard_time": 1712464940,
+      "rank": 22,
       "category": "情感"
     },
     {
@@ -523,6 +571,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 307275,
+      "num": 307275,
+      "word": "光与夜之恋",
+      "onboard_time": 1712464700,
+      "rank": 23,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 305220,
       "num": 286449,
       "word": "眼泪女王男二",
@@ -603,6 +659,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 268166,
+      "num": 268166,
+      "word": "王一博模仿陈佩斯",
+      "onboard_time": 1712464581,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 265022,
       "num": 242705,
       "word": "小鬼朱正廷王子异直播",
@@ -627,6 +691,14 @@
       "category": "美食,幽默"
     },
     {
+      "raw_hot": 257668,
+      "num": 257668,
+      "word": "肖战说未来会继续加油",
+      "onboard_time": 1712463860,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 255735,
       "num": 255735,
       "word": "BOA锁定第三轮A组",
@@ -641,14 +713,6 @@
       "onboard_time": 1712450840,
       "rank": 34,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 240758,
-      "num": 240758,
-      "word": "雷军奖励王腾小米su7",
-      "onboard_time": 1712463740,
-      "rank": 24,
-      "category": "汽车"
     },
     {
       "raw_hot": 240692,
@@ -723,6 +787,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 210542,
+      "num": 210542,
+      "word": "铁路杭州站致歉",
+      "onboard_time": 1712466321,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 210237,
       "num": 210237,
       "word": "体制内开会为什么不能喝奶茶",
@@ -787,22 +859,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 200933,
-      "num": 200933,
-      "word": "成都迪士尼连夜升级",
-      "onboard_time": 1712464041,
-      "rank": 32,
-      "category": "作品衍生"
-    },
-    {
-      "raw_hot": 200470,
-      "num": 200470,
-      "word": "肖战说未来会继续加油",
-      "onboard_time": 1712463860,
-      "rank": 33,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 200100,
       "num": 200100,
       "word": "李沁写给沈近真的第九封信",
@@ -827,12 +883,28 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 193317,
+      "num": 193317,
+      "word": "萧敬腾谈跟林有慧结婚细节眼眶红了",
+      "onboard_time": 1712466080,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 193030,
       "num": 193030,
       "word": "林依轮父子爆改",
       "onboard_time": 1712456057,
       "rank": 28,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 192838,
+      "num": 192838,
+      "word": "王一博张天阳追逐戏花絮",
+      "onboard_time": 1712466560,
+      "rank": 31,
+      "category": "剧集"
     },
     {
       "raw_hot": 192655,
@@ -883,6 +955,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 188679,
+      "num": 188679,
+      "word": "杨紫何赛飞三搭宿命感",
+      "onboard_time": 1712464820,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 185902,
       "num": 1328921,
       "word": "旅游专列也卷起来了",
@@ -923,6 +1003,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 178013,
+      "num": 178013,
+      "word": "为什么明明出去玩了还感觉很空虚",
+      "onboard_time": 1712466560,
+      "rank": 34,
+      "category": "情感"
+    },
+    {
       "raw_hot": 177564,
       "num": 278645,
       "word": "上海饮料分级",
@@ -955,6 +1043,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 173766,
+      "num": 173766,
+      "word": "午睡超1小时死亡风险增加30%",
+      "onboard_time": 1712466800,
+      "rank": 37,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 169920,
       "num": 169920,
       "word": "上海年轻人街头抱树吸春",
@@ -985,6 +1081,14 @@
       "onboard_time": 1712445435,
       "rank": 22,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 163866,
+      "num": 163866,
+      "word": "邓超建议孙俪练古筝",
+      "onboard_time": 1712466381,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 163555,
@@ -1035,6 +1139,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 149538,
+      "num": 149538,
+      "word": "赵奕欢的脖子被李菲儿掐红了",
+      "onboard_time": 1712466919,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 149092,
       "num": 149092,
       "word": "放假三天躺了三天",
@@ -1083,12 +1195,28 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 135885,
+      "num": 135885,
+      "word": "承欢记 中式母女关系",
+      "onboard_time": 1712465540,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 133096,
       "num": 133096,
       "word": "元梦之星 蛋仔派对",
       "onboard_time": 1712448679,
       "rank": 47,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 132219,
+      "num": 132219,
+      "word": "现在的假还不如不放",
+      "onboard_time": 1712465302,
+      "rank": 45,
+      "category": "幽默"
     },
     {
       "raw_hot": 131608,

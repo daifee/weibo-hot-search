@@ -1,6 +1,6 @@
 {
   "startTime": 1711902044401,
-  "endTime": 1712464457174,
+  "endTime": 1712467076215,
   "band_list": [
     {
       "raw_hot": 16874674,
@@ -619,6 +619,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1554834,
+      "num": 1554834,
+      "word": "专家建议允许不合适的公务员辞职",
+      "onboard_time": 1712461279,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1551813,
       "num": 1551813,
       "word": "各大平台禁止售卖分装化妆品",
@@ -1225,14 +1233,6 @@
       "onboard_time": 1712063539,
       "rank": 12,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 1134058,
-      "num": 1134058,
-      "word": "专家建议允许不合适的公务员辞职",
-      "onboard_time": 1712461279,
-      "rank": 5,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1129627,
@@ -3107,6 +3107,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 634174,
+      "num": 634174,
+      "word": "读研会惩罚每一个考上研的混子",
+      "onboard_time": 1712461399,
+      "rank": 17,
+      "category": "情感"
+    },
+    {
       "raw_hot": 631928,
       "num": 631928,
       "word": "南京震感",
@@ -3209,6 +3217,14 @@
       "onboard_time": 1712298318,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 618814,
+      "num": 618814,
+      "word": "雷军奖励王腾小米su7",
+      "onboard_time": 1712463740,
+      "rank": 24,
+      "category": "汽车"
     },
     {
       "raw_hot": 618572,
@@ -3457,6 +3473,14 @@
       "onboard_time": 1712448377,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 594277,
+      "num": 594277,
+      "word": "王鹤棣自己开跑车",
+      "onboard_time": 1712463080,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 592622,
@@ -3779,14 +3803,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 558242,
-      "num": 558242,
-      "word": "读研会惩罚每一个考上研的混子",
-      "onboard_time": 1712461399,
-      "rank": 17,
-      "category": "情感"
-    },
-    {
       "raw_hot": 558049,
       "num": 558049,
       "word": "neinei十年前后变化",
@@ -3857,6 +3873,14 @@
       "onboard_time": 1712314099,
       "rank": 7,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 548724,
+      "num": 325530,
+      "word": "黄子韬脖子咋了",
+      "onboard_time": 1712466440,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 547918,
@@ -4025,14 +4049,6 @@
       "onboard_time": 1712407337,
       "rank": 41,
       "category": "网红"
-    },
-    {
-      "raw_hot": 533618,
-      "num": 533618,
-      "word": "王鹤棣自己开跑车",
-      "onboard_time": 1712463080,
-      "rank": 19,
-      "category": "艺人"
     },
     {
       "raw_hot": 533215,
@@ -4785,6 +4801,14 @@
       "onboard_time": 1712032041,
       "rank": 17,
       "category": "游戏,艺人"
+    },
+    {
+      "raw_hot": 462312,
+      "num": 462312,
+      "word": "成都迪士尼连夜升级",
+      "onboard_time": 1712464041,
+      "rank": 32,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 461559,
@@ -5747,6 +5771,14 @@
       "category": "美食,健康医疗"
     },
     {
+      "raw_hot": 393559,
+      "num": 393559,
+      "word": "林更新撞脸游本昌",
+      "onboard_time": 1712464820,
+      "rank": 15,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 392792,
       "num": 392792,
       "word": "暗河传男主",
@@ -5897,6 +5929,14 @@
       "onboard_time": 1712194219,
       "rank": 40,
       "category": "情感"
+    },
+    {
+      "raw_hot": 382231,
+      "num": 316631,
+      "word": "iPhone闹钟不会识别调休",
+      "onboard_time": 1712464461,
+      "rank": 21,
+      "category": "数码"
     },
     {
       "raw_hot": 381588,
@@ -6081,6 +6121,14 @@
       "onboard_time": 1711930038,
       "rank": 22,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 371321,
+      "num": 315571,
+      "word": "原来邋遢只是老师的保护色",
+      "onboard_time": 1712464940,
+      "rank": 22,
+      "category": "情感"
     },
     {
       "raw_hot": 371169,
@@ -7171,6 +7219,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 307275,
+      "num": 307275,
+      "word": "光与夜之恋",
+      "onboard_time": 1712464700,
+      "rank": 23,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 307236,
       "num": 307236,
       "word": "华妃2.0",
@@ -8139,6 +8195,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 268166,
+      "num": 268166,
+      "word": "王一博模仿陈佩斯",
+      "onboard_time": 1712464581,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 268089,
       "num": 268089,
       "word": "这种螺一口吃出6000条寄生虫",
@@ -8457,6 +8521,14 @@
       "onboard_time": 1712153123,
       "rank": 30,
       "category": "电影"
+    },
+    {
+      "raw_hot": 257668,
+      "num": 257668,
+      "word": "肖战说未来会继续加油",
+      "onboard_time": 1712463860,
+      "rank": 33,
+      "category": "剧集"
     },
     {
       "raw_hot": 257165,
@@ -8969,14 +9041,6 @@
       "onboard_time": 1712036299,
       "rank": 23,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 240758,
-      "num": 240758,
-      "word": "雷军奖励王腾小米su7",
-      "onboard_time": 1712463740,
-      "rank": 24,
-      "category": "汽车"
     },
     {
       "raw_hot": 240692,
@@ -10211,6 +10275,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 210542,
+      "num": 210542,
+      "word": "铁路杭州站致歉",
+      "onboard_time": 1712466321,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 210534,
       "num": 210534,
       "word": "安徽江淮汽车集团原董事长安进接受审查调查",
@@ -10747,14 +10819,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 200933,
-      "num": 200933,
-      "word": "成都迪士尼连夜升级",
-      "onboard_time": 1712464041,
-      "rank": 32,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 200810,
       "num": 200810,
       "word": "四月你好",
@@ -10769,14 +10833,6 @@
       "onboard_time": 1712274255,
       "rank": 28,
       "category": "教育"
-    },
-    {
-      "raw_hot": 200470,
-      "num": 200470,
-      "word": "肖战说未来会继续加油",
-      "onboard_time": 1712463860,
-      "rank": 33,
-      "category": "剧集"
     },
     {
       "raw_hot": 200326,
@@ -11355,6 +11411,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 193317,
+      "num": 193317,
+      "word": "萧敬腾谈跟林有慧结婚细节眼眶红了",
+      "onboard_time": 1712466080,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 193121,
       "num": 193121,
       "word": "成毅方回应被起诉",
@@ -11377,6 +11441,14 @@
       "onboard_time": 1712456057,
       "rank": 28,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 192838,
+      "num": 192838,
+      "word": "王一博张天阳追逐戏花絮",
+      "onboard_time": 1712466560,
+      "rank": 31,
+      "category": "剧集"
     },
     {
       "raw_hot": 192807,
@@ -11809,6 +11881,14 @@
       "onboard_time": 1712122222,
       "rank": 47,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 188679,
+      "num": 188679,
+      "word": "杨紫何赛飞三搭宿命感",
+      "onboard_time": 1712464820,
+      "rank": 32,
+      "category": "剧集"
     },
     {
       "raw_hot": 188576,
@@ -12515,6 +12595,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 178013,
+      "num": 178013,
+      "word": "为什么明明出去玩了还感觉很空虚",
+      "onboard_time": 1712466560,
+      "rank": 34,
+      "category": "情感"
+    },
+    {
       "raw_hot": 177988,
       "num": 177988,
       "word": "王伟烈士牺牲23年了",
@@ -12777,6 +12865,14 @@
       "onboard_time": 1712195598,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 173766,
+      "num": 173766,
+      "word": "午睡超1小时死亡风险增加30%",
+      "onboard_time": 1712466800,
+      "rank": 37,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 173751,
@@ -13329,6 +13425,14 @@
       "onboard_time": 1711929739,
       "rank": 38,
       "category": "动漫,作品衍生"
+    },
+    {
+      "raw_hot": 163866,
+      "num": 163866,
+      "word": "邓超建议孙俪练古筝",
+      "onboard_time": 1712466381,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 163407,
@@ -14411,6 +14515,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 149538,
+      "num": 149538,
+      "word": "赵奕欢的脖子被李菲儿掐红了",
+      "onboard_time": 1712466919,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 149431,
       "num": 149431,
       "word": "这才是恋爱真正的感觉吧",
@@ -15331,6 +15443,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 135885,
+      "num": 135885,
+      "word": "承欢记 中式母女关系",
+      "onboard_time": 1712465540,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 135881,
       "num": 709685,
       "word": "成都紫藤花墙如瀑布倾泻",
@@ -15561,6 +15681,14 @@
       "onboard_time": 1712008391,
       "rank": 24,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 132219,
+      "num": 132219,
+      "word": "现在的假还不如不放",
+      "onboard_time": 1712465302,
+      "rank": 45,
+      "category": "幽默"
     },
     {
       "raw_hot": 132184,
