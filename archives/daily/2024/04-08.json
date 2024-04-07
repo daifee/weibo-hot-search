@@ -1,6 +1,6 @@
 {
   "startTime": 1712506792576,
-  "endTime": 1712506792576,
+  "endTime": 1712507687568,
   "band_list": [
     {
       "raw_hot": 1788973,
@@ -91,6 +91,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 275705,
+      "num": 275705,
+      "word": "第一批去埃及旅行的人快被骗到裸奔了",
+      "onboard_time": 1712476038,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 272361,
       "num": 272361,
       "word": "小米定金事件暴露了成年人的耍赖心态",
@@ -105,14 +113,6 @@
       "onboard_time": 1712496979,
       "rank": 9,
       "category": "教育"
-    },
-    {
-      "raw_hot": 262472,
-      "num": 262472,
-      "word": "第一批去埃及旅行的人快被骗到裸奔了",
-      "onboard_time": 1712476038,
-      "rank": 13,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 258612,
@@ -155,19 +155,19 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 207229,
+      "num": 207229,
+      "word": "沈璃有魑魅印记",
+      "onboard_time": 1712503760,
+      "rank": 19,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 202050,
       "num": 202050,
       "word": "眼泪女王",
       "onboard_time": 1712493859,
       "rank": 18,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 201640,
-      "num": 201640,
-      "word": "沈璃有魑魅印记",
-      "onboard_time": 1712503760,
-      "rank": 19,
       "category": "剧集"
     },
     {
@@ -225,6 +225,14 @@
       "onboard_time": 1712479278,
       "rank": 28,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 150966,
+      "num": 150966,
+      "word": "you know m3",
+      "onboard_time": 1712506637,
+      "rank": 45,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 148955,
@@ -307,6 +315,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 114623,
+      "num": 114623,
+      "word": "赵小童300w粉丝福利",
+      "onboard_time": 1712507175,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 102388,
       "num": 102388,
       "word": "追风者最后两集 爽",
@@ -347,12 +363,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 92080,
-      "num": 92080,
-      "word": "you know m3",
-      "onboard_time": 1712506637,
-      "rank": 45,
-      "category": "作品衍生"
+      "raw_hot": 90743,
+      "num": 96361,
+      "word": "曼联vs利物浦",
+      "onboard_time": 1712501721,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 89636,
@@ -379,12 +395,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 77546,
-      "num": 83340,
-      "word": "曼联vs利物浦",
-      "onboard_time": 1712501721,
-      "rank": 48,
-      "category": "体育"
+      "raw_hot": 88433,
+      "num": 88433,
+      "word": "眼泪女王预告",
+      "onboard_time": 1712500461,
+      "rank": 41,
+      "category": "剧集"
     },
     {
       "raw_hot": 76310,
@@ -395,7 +411,7 @@
       "category": "财经"
     },
     {
-      "raw_hot": 37765,
+      "raw_hot": 43971,
       "num": 587162,
       "word": "文旅消费如何从开门红走向长红",
       "onboard_time": 1712495958,
@@ -406,6 +422,9 @@
   "hotgov_list": [
     {
       "word": "#必须继续做好创新这篇大文章#"
+    },
+    {
+      "word": "#推进城乡环境整治完善公共卫生设施#"
     }
   ]
 }
