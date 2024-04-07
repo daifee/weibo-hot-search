@@ -1,6 +1,6 @@
 {
   "startTime": 1712420539476,
-  "endTime": 1712492954316,
+  "endTime": 1712493826243,
   "band_list": [
     {
       "raw_hot": 3164787,
@@ -131,6 +131,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1274371,
+      "num": 1274371,
+      "word": "谢帝",
+      "onboard_time": 1712489539,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1256358,
       "num": 1256358,
       "word": "提灯定损事件后当地民宿遭大量退订",
@@ -161,14 +169,6 @@
       "onboard_time": 1712451739,
       "rank": 15,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1146504,
-      "num": 1146504,
-      "word": "谢帝",
-      "onboard_time": 1712489539,
-      "rank": 47,
-      "category": "综艺"
     },
     {
       "raw_hot": 1087812,
@@ -275,6 +275,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 845607,
+      "num": 845607,
+      "word": "我倒要看看25年元旦会怎么调休",
+      "onboard_time": 1712491759,
+      "rank": 10,
+      "category": "情感"
+    },
+    {
       "raw_hot": 834104,
       "num": 247096,
       "word": "赵丽颖林更新换了cp手机壳",
@@ -377,6 +385,14 @@
       "onboard_time": 1712450178,
       "rank": 4,
       "category": "情感"
+    },
+    {
+      "raw_hot": 680934,
+      "num": 680934,
+      "word": "小米定金事件暴露了成年人的耍赖心态",
+      "onboard_time": 1712491999,
+      "rank": 17,
+      "category": "汽车"
     },
     {
       "raw_hot": 675387,
@@ -539,6 +555,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 562029,
+      "num": 562029,
+      "word": "差点忘了林更新跟胡歌刘诗诗是同一批的",
+      "onboard_time": 1712490378,
+      "rank": 6,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 559397,
       "num": 559397,
       "word": "干眼症原来缺的是油不是水",
@@ -595,28 +619,12 @@
       "category": "数码"
     },
     {
-      "raw_hot": 525186,
-      "num": 414708,
-      "word": "我倒要看看25年元旦会怎么调休",
-      "onboard_time": 1712491759,
-      "rank": 10,
-      "category": "情感"
-    },
-    {
       "raw_hot": 519154,
       "num": 519154,
       "word": "这4种食物是尿毒症的加速器",
       "onboard_time": 1712411658,
       "rank": 38,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 510807,
-      "num": 510807,
-      "word": "差点忘了林更新跟胡歌刘诗诗是同一批的",
-      "onboard_time": 1712490378,
-      "rank": 6,
-      "category": "综艺"
     },
     {
       "raw_hot": 503550,
@@ -747,6 +755,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 454506,
+      "num": 454506,
+      "word": "追风者结局",
+      "onboard_time": 1712491219,
+      "rank": 11,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 453772,
       "num": 453772,
       "word": "林更新是赵丽颖一级铁粉",
@@ -811,14 +827,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 414436,
-      "num": 414436,
-      "word": "追风者结局",
-      "onboard_time": 1712491219,
-      "rank": 11,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 405441,
       "num": 405441,
       "word": "龚俊工作室",
@@ -841,6 +849,22 @@
       "onboard_time": 1712459059,
       "rank": 12,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 391743,
+      "num": 391743,
+      "word": "肖战长发侧颜库存",
+      "onboard_time": 1712492899,
+      "rank": 26,
+      "category": "艺人,作品衍生"
+    },
+    {
+      "raw_hot": 390838,
+      "num": 258816,
+      "word": "23岁没谈过恋爱正常吗",
+      "onboard_time": 1712492598,
+      "rank": 40,
+      "category": "情感"
     },
     {
       "raw_hot": 382038,
@@ -1003,6 +1027,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 321412,
+      "num": 248802,
+      "word": "订婚时三金里面的手镯被偷了",
+      "onboard_time": 1712492359,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 313179,
       "num": 313179,
       "word": "沈璃在爱里生出了神性",
@@ -1016,6 +1048,14 @@
       "word": "眼泪女王 超前点播",
       "onboard_time": 1712487198,
       "rank": 26,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 312716,
+      "num": 312716,
+      "word": "赵丽颖戴在人间口罩",
+      "onboard_time": 1712493137,
+      "rank": 15,
       "category": "剧集"
     },
     {
@@ -1059,14 +1099,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 298284,
-      "num": 210486,
-      "word": "订婚时三金里面的手镯被偷了",
-      "onboard_time": 1712492359,
-      "rank": 30,
-      "category": "情感"
-    },
-    {
       "raw_hot": 297691,
       "num": 297691,
       "word": "王晰为声入人心发声",
@@ -1105,14 +1137,6 @@
       "onboard_time": 1712462359,
       "rank": 23,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 291461,
-      "num": 291461,
-      "word": "小米定金事件暴露了成年人的耍赖心态",
-      "onboard_time": 1712491999,
-      "rank": 17,
-      "category": "汽车"
     },
     {
       "raw_hot": 290036,
@@ -1212,7 +1236,7 @@
     },
     {
       "raw_hot": 258840,
-      "num": 231246,
+      "num": 231465,
       "word": "刘美含去埃及没被骗",
       "onboard_time": 1712490378,
       "rank": 22,
@@ -1348,7 +1372,7 @@
     },
     {
       "raw_hot": 226847,
-      "num": 414835,
+      "num": 539748,
       "word": "河南省考成绩出之前我的心情belike",
       "onboard_time": 1712490198,
       "rank": 9,
@@ -1433,14 +1457,6 @@
       "onboard_time": 1712461158,
       "rank": 30,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 215694,
-      "num": 215694,
-      "word": "肖战长发侧颜库存",
-      "onboard_time": 1712492899,
-      "rank": 26,
-      "category": "艺人,作品衍生"
     },
     {
       "raw_hot": 215340,
@@ -1819,20 +1835,20 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 184425,
+      "num": 184425,
+      "word": "1L康师傅冰红茶涨到5元",
+      "onboard_time": 1712493258,
+      "rank": 31,
+      "category": "美食"
+    },
+    {
       "raw_hot": 183725,
       "num": 183725,
       "word": "原来全麻后真的会社死",
       "onboard_time": 1712484021,
       "rank": 33,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 182732,
-      "num": 182732,
-      "word": "23岁没谈过恋爱正常吗",
-      "onboard_time": 1712492598,
-      "rank": 40,
-      "category": "情感"
     },
     {
       "raw_hot": 182439,
@@ -1923,6 +1939,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 173949,
+      "num": 173949,
+      "word": "小萌兰帮奶爸收猫全过程",
+      "onboard_time": 1712493499,
+      "rank": 36,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 173930,
       "num": 173930,
       "word": "短剧都卷到大制作了",
@@ -2009,6 +2033,14 @@
       "onboard_time": 1712445435,
       "rank": 22,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 164310,
+      "num": 164310,
+      "word": "我打宿傩",
+      "onboard_time": 1712493379,
+      "rank": 42,
+      "category": "动漫"
     },
     {
       "raw_hot": 163866,
@@ -2379,6 +2411,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 125817,
+      "num": 210494,
+      "word": "江苏致4死火灾事故宣判4人被追刑责",
+      "onboard_time": 1712491759,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 125624,
       "num": 125624,
       "word": "周杰伦长沙演唱会将实名入场",
@@ -2531,14 +2571,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 107271,
-      "num": 210494,
-      "word": "江苏致4死火灾事故宣判4人被追刑责",
-      "onboard_time": 1712491759,
-      "rank": 29,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 102858,
       "num": 102858,
       "word": "坂田银时又是第一",
@@ -2619,6 +2651,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 84612,
+      "num": 125119,
+      "word": "关于民法典婚姻家庭编公开征求意见",
+      "onboard_time": 1712493438,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 83945,
       "num": 83945,
       "word": "钎城哭了",
@@ -2691,20 +2731,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 65786,
+      "num": 1051475,
+      "word": "海南首个卫星超级工厂项目加快推动",
+      "onboard_time": 1712476579,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 64795,
       "num": 51734,
       "word": "丁程鑫泼水误伤了何炅",
       "onboard_time": 1712435951,
       "rank": 17,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 62743,
-      "num": 997290,
-      "word": "海南首个卫星超级工厂项目加快推动",
-      "onboard_time": 1712476579,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 60857,
