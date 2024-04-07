@@ -1,0 +1,410 @@
+{
+  "runTime": 1712504056987,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 4147084,
+        "num": 4147084,
+        "word": "仝卓",
+        "onboard_time": 1712500940,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1045491,
+        "num": 1045491,
+        "word": "肖战早期与素人合照",
+        "onboard_time": 1712501181,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 81132,
+        "num": 883314,
+        "word": "吴江涛你做的好事藏不住了",
+        "onboard_time": 1712483418,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 730362,
+        "num": 730362,
+        "word": "河南某高校副科长被举报聚众淫乱",
+        "onboard_time": 1712498420,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 695776,
+        "num": 695776,
+        "word": "个人房贷规模大幅缩水",
+        "onboard_time": 1712500041,
+        "rank": 4,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 1454252,
+        "num": 695717,
+        "word": "仝卓工作室公开讨债",
+        "onboard_time": 1712501060,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 695162,
+        "num": 695162,
+        "word": "女性的小肚子是为了保护子宫卵巢",
+        "onboard_time": 1712473999,
+        "rank": 6,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 573709,
+        "num": 573709,
+        "word": "小米定金事件暴露了成年人的耍赖心态",
+        "onboard_time": 1712491999,
+        "rank": 7,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 534626,
+        "num": 534626,
+        "word": "大哥远 停播",
+        "onboard_time": 1712499200,
+        "rank": 8,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 506745,
+        "num": 506745,
+        "word": "追她呀 她旺你",
+        "onboard_time": 1712483838,
+        "rank": 9,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 634088,
+        "num": 497140,
+        "word": "我倒要看看25年元旦会怎么调休",
+        "onboard_time": 1712491759,
+        "rank": 10,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 479081,
+        "num": 479081,
+        "word": "租房吃过最大的苦是跟情侣合租",
+        "onboard_time": 1712499741,
+        "rank": 11,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 442057,
+        "num": 442057,
+        "word": "王阳 叔圈天菜",
+        "onboard_time": 1712499922,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 378411,
+        "num": 378411,
+        "word": "98 LINE",
+        "onboard_time": 1712499500,
+        "rank": 13,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 375765,
+        "num": 375765,
+        "word": "白桃星座",
+        "onboard_time": 1712501721,
+        "rank": 14,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 374017,
+        "num": 374017,
+        "word": "女生考研被拟录取室友偷偷送惊喜",
+        "onboard_time": 1712496979,
+        "rank": 15,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 340993,
+        "num": 340993,
+        "word": "代号鸢",
+        "onboard_time": 1712502560,
+        "rank": 16,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 318602,
+        "num": 318602,
+        "word": "赵丽颖紫纱古装",
+        "onboard_time": 1712499801,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 299166,
+        "num": 299166,
+        "word": "去世的妈坐牢的爸破碎的他",
+        "onboard_time": 1712482218,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 267945,
+        "num": 267945,
+        "word": "第一批去埃及旅行的人快被骗到裸奔了",
+        "onboard_time": 1712476038,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 451873,
+        "num": 263519,
+        "word": "与父母同居20天他们终于不再催婚",
+        "onboard_time": 1712499261,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 256519,
+        "num": 256519,
+        "word": "宫崎骏 再见了我的朋友",
+        "onboard_time": 1712494819,
+        "rank": 21,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 243341,
+        "num": 243341,
+        "word": "中医建议女生春天多披头散发",
+        "onboard_time": 1712487918,
+        "rank": 22,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 243148,
+        "num": 243148,
+        "word": "陈学冬 不会退圈死心吧",
+        "onboard_time": 1712479278,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 240879,
+        "num": 240879,
+        "word": "沈图南入党",
+        "onboard_time": 1712503340,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 240408,
+        "num": 240408,
+        "word": "你睡得最晚的一次是在干什么",
+        "onboard_time": 1712496560,
+        "rank": 25,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 238758,
+        "num": 238758,
+        "word": "赵露思厚刘海旧照",
+        "onboard_time": 1712503099,
+        "rank": 26,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 238534,
+        "num": 238534,
+        "word": "追风者 十送红军",
+        "onboard_time": 1712497159,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 230290,
+        "num": 230290,
+        "word": "眼泪女王",
+        "onboard_time": 1712493859,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 214841,
+        "num": 214841,
+        "word": "以色列大规模撤军",
+        "onboard_time": 1712485518,
+        "rank": 29,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 222563,
+        "num": 213725,
+        "word": "追风者 我的人生画面",
+        "onboard_time": 1712503459,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 212104,
+        "num": 212104,
+        "word": "薛之谦镇江",
+        "onboard_time": 1712501903,
+        "rank": 31,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 206143,
+        "num": 206143,
+        "word": "谢帝",
+        "onboard_time": 1712489539,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 201512,
+        "num": 201512,
+        "word": "1L康师傅冰红茶涨到5元",
+        "onboard_time": 1712493258,
+        "rank": 33,
+        "category": "美食,财经"
+      },
+      {
+        "raw_hot": 189410,
+        "num": 189410,
+        "word": "沈图南 孤雁",
+        "onboard_time": 1712496077,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 188342,
+        "num": 188342,
+        "word": "许凯不知道杨紫是魔术克星吗",
+        "onboard_time": 1712499801,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 183679,
+        "num": 183679,
+        "word": "追风者最后两集 爽",
+        "onboard_time": 1712499079,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 180921,
+        "num": 180921,
+        "word": "苹果下月或推出新款iPadPro",
+        "onboard_time": 1712500820,
+        "rank": 37,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 154887,
+        "num": 178664,
+        "word": "23岁没谈过恋爱正常吗",
+        "onboard_time": 1712492598,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 151172,
+        "num": 177921,
+        "word": "WTT沙特大满贯2024双打名单",
+        "onboard_time": 1712502860,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 177600,
+        "num": 177600,
+        "word": "惜花芷cp线",
+        "onboard_time": 1712502801,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 163542,
+        "num": 163542,
+        "word": "眼泪女王第十集",
+        "onboard_time": 1712500041,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 156894,
+        "num": 156894,
+        "word": "李溪芮好松弛的美感",
+        "onboard_time": 1712496440,
+        "rank": 42,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 146448,
+        "num": 146448,
+        "word": "下班以后最轻松的副业",
+        "onboard_time": 1712487438,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 142444,
+        "num": 142444,
+        "word": "TES零封JDG",
+        "onboard_time": 1712495479,
+        "rank": 44,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 136085,
+        "num": 136085,
+        "word": "沈璃有魑魅印记",
+        "onboard_time": 1712503760,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 134909,
+        "num": 134909,
+        "word": "林更新 我一人可抵千军万马",
+        "onboard_time": 1712485278,
+        "rank": 46,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 114827,
+        "num": 114827,
+        "word": "金价还在涨超市上架金条遭疯抢",
+        "onboard_time": 1712497220,
+        "rank": 47,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 114644,
+        "num": 114644,
+        "word": "李莲花 月影皓白",
+        "onboard_time": 1712495599,
+        "rank": 48,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 65822,
+        "num": 111545,
+        "word": "曼联vs利物浦",
+        "onboard_time": 1712501721,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#推进城乡环境整治完善公共卫生设施#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1712420539476,
-  "endTime": 1712503091047,
+  "endTime": 1712504056987,
   "band_list": [
     {
       "raw_hot": 4232521,
@@ -92,7 +92,7 @@
     },
     {
       "raw_hot": 1546386,
-      "num": 695471,
+      "num": 695717,
       "word": "仝卓工作室公开讨债",
       "onboard_time": 1712501060,
       "rank": 5,
@@ -219,6 +219,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1045491,
+      "num": 1045491,
+      "word": "肖战早期与素人合照",
+      "onboard_time": 1712501181,
+      "rank": 1,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1044503,
       "num": 1044503,
       "word": "女子投诉小米SU7未交付掉漆",
@@ -233,14 +241,6 @@
       "onboard_time": 1712412500,
       "rank": 3,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 971251,
-      "num": 971251,
-      "word": "肖战早期与素人合照",
-      "onboard_time": 1712501181,
-      "rank": 1,
-      "category": "艺人"
     },
     {
       "raw_hot": 969619,
@@ -435,6 +435,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 695776,
+      "num": 695776,
+      "word": "个人房贷规模大幅缩水",
+      "onboard_time": 1712500041,
+      "rank": 48,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 690620,
       "num": 690620,
       "word": "叶童看纪凌尘走路的表情",
@@ -625,14 +633,6 @@
       "onboard_time": 1712471658,
       "rank": 8,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 582074,
-      "num": 582074,
-      "word": "个人房贷规模大幅缩水",
-      "onboard_time": 1712500041,
-      "rank": 48,
-      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 580614,
@@ -835,6 +835,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 479081,
+      "num": 479081,
+      "word": "租房吃过最大的苦是跟情侣合租",
+      "onboard_time": 1712499741,
+      "rank": 33,
+      "category": "情感"
+    },
+    {
       "raw_hot": 476556,
       "num": 476556,
       "word": "手术直播间 看完不敢涂口红",
@@ -891,14 +899,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 456311,
-      "num": 456311,
-      "word": "租房吃过最大的苦是跟情侣合租",
-      "onboard_time": 1712499741,
-      "rank": 33,
-      "category": "情感"
-    },
-    {
       "raw_hot": 453772,
       "num": 453772,
       "word": "林更新是赵丽颖一级铁粉",
@@ -915,8 +915,8 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 438538,
-      "num": 438538,
+      "raw_hot": 442057,
+      "num": 442057,
       "word": "王阳 叔圈天菜",
       "onboard_time": 1712499922,
       "rank": 41,
@@ -1163,6 +1163,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 340993,
+      "num": 340993,
+      "word": "代号鸢",
+      "onboard_time": 1712502560,
+      "rank": 23,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 340811,
       "num": 340811,
       "word": "成都迪士尼只有一个项目",
@@ -1337,14 +1345,6 @@
       "onboard_time": 1712462359,
       "rank": 23,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 293632,
-      "num": 293632,
-      "word": "代号鸢",
-      "onboard_time": 1712502560,
-      "rank": 23,
-      "category": "游戏"
     },
     {
       "raw_hot": 290036,
@@ -1555,6 +1555,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 240879,
+      "num": 240879,
+      "word": "沈图南入党",
+      "onboard_time": 1712503340,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 240751,
       "num": 240751,
       "word": "减肥期间能代替奶茶的饮料",
@@ -1593,6 +1601,14 @@
       "onboard_time": 1712455757,
       "rank": 29,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 238758,
+      "num": 238758,
+      "word": "赵露思厚刘海旧照",
+      "onboard_time": 1712503099,
+      "rank": 26,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 237694,
@@ -1681,6 +1697,14 @@
       "onboard_time": 1712497220,
       "rank": 29,
       "category": "财经"
+    },
+    {
+      "raw_hot": 222563,
+      "num": 213725,
+      "word": "追风者 我的人生画面",
+      "onboard_time": 1712503459,
+      "rank": 30,
+      "category": "剧集"
     },
     {
       "raw_hot": 221039,
@@ -2251,6 +2275,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 177600,
+      "num": 177600,
+      "word": "惜花芷cp线",
+      "onboard_time": 1712502801,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 177564,
       "num": 278645,
       "word": "上海饮料分级",
@@ -2260,7 +2292,7 @@
     },
     {
       "raw_hot": 177250,
-      "num": 177250,
+      "num": 177921,
       "word": "WTT沙特大满贯2024双打名单",
       "onboard_time": 1712502860,
       "rank": 39,
@@ -2451,14 +2483,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 160602,
-      "num": 160602,
-      "word": "惜花芷cp线",
-      "onboard_time": 1712502801,
-      "rank": 42,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 159775,
       "num": 159775,
       "word": "航天员在太空有理发神器",
@@ -2641,6 +2665,14 @@
       "onboard_time": 1712482398,
       "rank": 42,
       "category": "情感"
+    },
+    {
+      "raw_hot": 136085,
+      "num": 136085,
+      "word": "沈璃有魑魅印记",
+      "onboard_time": 1712503760,
+      "rank": 45,
+      "category": "剧集"
     },
     {
       "raw_hot": 135885,
