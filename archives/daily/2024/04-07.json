@@ -1,6 +1,6 @@
 {
   "startTime": 1712420539476,
-  "endTime": 1712495993260,
+  "endTime": 1712496832655,
   "band_list": [
     {
       "raw_hot": 3164787,
@@ -51,6 +51,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1634789,
+      "num": 1634789,
+      "word": "小米定金事件暴露了成年人的耍赖心态",
+      "onboard_time": 1712491999,
+      "rank": 17,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 1618306,
       "num": 1182150,
       "word": "女性的小肚子是为了保护子宫卵巢",
@@ -65,14 +73,6 @@
       "onboard_time": 1712450719,
       "rank": 10,
       "category": "情感"
-    },
-    {
-      "raw_hot": 1567012,
-      "num": 1567012,
-      "word": "小米定金事件暴露了成年人的耍赖心态",
-      "onboard_time": 1712491999,
-      "rank": 17,
-      "category": "汽车"
     },
     {
       "raw_hot": 1554834,
@@ -163,6 +163,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1217123,
+      "num": 1217123,
+      "word": "我倒要看看25年元旦会怎么调休",
+      "onboard_time": 1712491759,
+      "rank": 10,
+      "category": "情感"
+    },
+    {
       "raw_hot": 1206076,
       "num": 1206076,
       "word": "长期戴耳塞睡觉的人最后怎么样了",
@@ -177,14 +185,6 @@
       "onboard_time": 1712451739,
       "rank": 15,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1170188,
-      "num": 1170188,
-      "word": "我倒要看看25年元旦会怎么调休",
-      "onboard_time": 1712491759,
-      "rank": 10,
-      "category": "情感"
     },
     {
       "raw_hot": 1087812,
@@ -259,6 +259,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 901726,
+      "num": 901726,
+      "word": "TES零封JDG",
+      "onboard_time": 1712495479,
+      "rank": 5,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 891540,
       "num": 891540,
       "word": "陈学冬",
@@ -299,14 +307,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 832744,
-      "num": 832744,
-      "word": "TES零封JDG",
-      "onboard_time": 1712495479,
-      "rank": 5,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 807130,
       "num": 676568,
       "word": "欧阳娣娣第八名出道",
@@ -321,6 +321,14 @@
       "onboard_time": 1712470278,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 754115,
+      "num": 754115,
+      "word": "1L康师傅冰红茶涨到5元",
+      "onboard_time": 1712493258,
+      "rank": 31,
+      "category": "美食"
     },
     {
       "raw_hot": 742747,
@@ -467,14 +475,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 631544,
-      "num": 631544,
-      "word": "1L康师傅冰红茶涨到5元",
-      "onboard_time": 1712493258,
-      "rank": 31,
-      "category": "美食"
-    },
-    {
       "raw_hot": 628835,
       "num": 628835,
       "word": "种地吧 监控",
@@ -563,6 +563,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 580614,
+      "num": 337409,
+      "word": "23岁没谈过恋爱正常吗",
+      "onboard_time": 1712492598,
+      "rank": 40,
+      "category": "情感"
+    },
+    {
       "raw_hot": 575219,
       "num": 294572,
       "word": "高铁会惩罚每个苹果用户",
@@ -579,12 +587,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 570268,
-      "num": 337409,
-      "word": "23岁没谈过恋爱正常吗",
-      "onboard_time": 1712492598,
-      "rank": 40,
-      "category": "情感"
+      "raw_hot": 567003,
+      "num": 567003,
+      "word": "眼泪女王",
+      "onboard_time": 1712407399,
+      "rank": 32,
+      "category": "剧集"
     },
     {
       "raw_hot": 559397,
@@ -609,14 +617,6 @@
       "onboard_time": 1712466321,
       "rank": 28,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 542628,
-      "num": 542628,
-      "word": "眼泪女王",
-      "onboard_time": 1712407399,
-      "rank": 32,
-      "category": "剧集"
     },
     {
       "raw_hot": 541366,
@@ -723,6 +723,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 484073,
+      "num": 484073,
+      "word": "追风者结局",
+      "onboard_time": 1712491219,
+      "rank": 11,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 482733,
       "num": 482733,
       "word": "恒大造车5年亏超1100亿",
@@ -763,6 +771,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 472767,
+      "num": 472767,
+      "word": "宫崎骏 再见了我的朋友",
+      "onboard_time": 1712494819,
+      "rank": 23,
+      "category": "电影"
+    },
+    {
       "raw_hot": 469481,
       "num": 469481,
       "word": "某幻不直播",
@@ -777,14 +793,6 @@
       "onboard_time": 1712422095,
       "rank": 30,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 461035,
-      "num": 461035,
-      "word": "追风者结局",
-      "onboard_time": 1712491219,
-      "rank": 11,
-      "category": "剧集"
     },
     {
       "raw_hot": 458842,
@@ -1019,6 +1027,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 349207,
+      "num": 349207,
+      "word": "沈图南 孤雁",
+      "onboard_time": 1712496077,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 345655,
       "num": 345655,
       "word": "许嵩深圳",
@@ -1068,19 +1084,11 @@
     },
     {
       "raw_hot": 321412,
-      "num": 260934,
+      "num": 274374,
       "word": "订婚时三金里面的手镯被偷了",
       "onboard_time": 1712492359,
       "rank": 30,
       "category": "情感"
-    },
-    {
-      "raw_hot": 316443,
-      "num": 316443,
-      "word": "宫崎骏 再见了我的朋友",
-      "onboard_time": 1712494819,
-      "rank": 23,
-      "category": "电影"
     },
     {
       "raw_hot": 313179,
@@ -1100,7 +1108,7 @@
     },
     {
       "raw_hot": 308833,
-      "num": 287397,
+      "num": 307999,
       "word": "赵丽颖工作室玩梗沈璃",
       "onboard_time": 1712495359,
       "rank": 26,
@@ -1129,6 +1137,14 @@
       "onboard_time": 1712415560,
       "rank": 21,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 303354,
+      "num": 303354,
+      "word": "原来蔡徐坤的腰伤朋友就是赵品霖",
+      "onboard_time": 1712495838,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 301963,
@@ -1387,6 +1403,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 237694,
+      "num": 237694,
+      "word": "追风者黄秘书下线",
+      "onboard_time": 1712494999,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 236220,
       "num": 236220,
       "word": "林彦俊出道六周年应援",
@@ -1408,14 +1432,6 @@
       "word": "与凤行 平行时空琉羽",
       "onboard_time": 1712474119,
       "rank": 24,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 229352,
-      "num": 229352,
-      "word": "追风者黄秘书下线",
-      "onboard_time": 1712494999,
-      "rank": 30,
       "category": "剧集"
     },
     {
@@ -1499,6 +1515,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 217237,
+      "num": 336662,
+      "word": "日本名将说和国乒技术差距没那么大",
+      "onboard_time": 1712494338,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
       "raw_hot": 217040,
       "num": 217040,
       "word": "babymonster直播",
@@ -1515,6 +1539,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 215852,
+      "num": 215852,
+      "word": "李溪芮好松弛的美感",
+      "onboard_time": 1712496440,
+      "rank": 32,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 215340,
       "num": 215340,
       "word": "安卓用户关怀果粉闹钟没响",
@@ -1524,7 +1556,7 @@
     },
     {
       "raw_hot": 214553,
-      "num": 229792,
+      "num": 233609,
       "word": "教授建议小学低年级免去考试和成绩",
       "onboard_time": 1712487258,
       "rank": 27,
@@ -1811,6 +1843,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 191806,
+      "num": 191806,
+      "word": "李莲花 月影皓白",
+      "onboard_time": 1712495599,
+      "rank": 42,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 191431,
       "num": 115961,
       "word": "陈楚生演唱会含哥量",
@@ -1833,6 +1873,14 @@
       "onboard_time": 1712457557,
       "rank": 32,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 189467,
+      "num": 189467,
+      "word": "你睡得最晚的一次是在干什么",
+      "onboard_time": 1712496560,
+      "rank": 38,
+      "category": "情感"
     },
     {
       "raw_hot": 188744,
@@ -1891,28 +1939,12 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 183969,
-      "num": 232301,
-      "word": "日本名将说和国乒技术差距没那么大",
-      "onboard_time": 1712494338,
-      "rank": 28,
-      "category": "体育"
-    },
-    {
       "raw_hot": 183725,
       "num": 183725,
       "word": "原来全麻后真的会社死",
       "onboard_time": 1712484021,
       "rank": 33,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 182877,
-      "num": 182877,
-      "word": "原来蔡徐坤的腰伤朋友就是赵品霖",
-      "onboard_time": 1712495838,
-      "rank": 40,
-      "category": "综艺"
     },
     {
       "raw_hot": 182596,
@@ -1987,20 +2019,20 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 176240,
+      "num": 176240,
+      "word": "乔杉中戏同学聚会vlog",
+      "onboard_time": 1712496319,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 176176,
       "num": 176176,
       "word": "eight在seventeen",
       "onboard_time": 1712447536,
       "rank": 37,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 176114,
-      "num": 176114,
-      "word": "李莲花 月影皓白",
-      "onboard_time": 1712495599,
-      "rank": 42,
-      "category": "动漫"
     },
     {
       "raw_hot": 175580,
@@ -2057,6 +2089,14 @@
       "onboard_time": 1712487740,
       "rank": 31,
       "category": "情感"
+    },
+    {
+      "raw_hot": 170823,
+      "num": 170823,
+      "word": "孤雁",
+      "onboard_time": 1712496620,
+      "rank": 45,
+      "category": "剧集"
     },
     {
       "raw_hot": 170639,
@@ -2675,6 +2715,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 93877,
+      "num": 157052,
+      "word": "关于民法典婚姻家庭编公开征求意见",
+      "onboard_time": 1712493438,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 91632,
       "num": 91632,
       "word": "布莱顿0比3阿森纳",
@@ -2689,14 +2737,6 @@
       "onboard_time": 1712433790,
       "rank": 38,
       "category": "情感"
-    },
-    {
-      "raw_hot": 89123,
-      "num": 157052,
-      "word": "关于民法典婚姻家庭编公开征求意见",
-      "onboard_time": 1712493438,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 88826,
@@ -2772,7 +2812,7 @@
     },
     {
       "raw_hot": 74820,
-      "num": 642815,
+      "num": 998338,
       "word": "吴江涛你做的好事藏不住了",
       "onboard_time": 1712483418,
       "rank": 8,

@@ -1,6 +1,6 @@
 {
   "startTime": 1711902044401,
-  "endTime": 1712495993260,
+  "endTime": 1712496832655,
   "band_list": [
     {
       "raw_hot": 16874674,
@@ -539,6 +539,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 1634789,
+      "num": 1634789,
+      "word": "小米定金事件暴露了成年人的耍赖心态",
+      "onboard_time": 1712491999,
+      "rank": 17,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 1624375,
       "num": 1624375,
       "word": "丈夫称杨雪发病16天已失去治疗机会",
@@ -617,14 +625,6 @@
       "onboard_time": 1712220199,
       "rank": 10,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1567012,
-      "num": 1567012,
-      "word": "小米定金事件暴露了成年人的耍赖心态",
-      "onboard_time": 1712491999,
-      "rank": 17,
-      "category": "汽车"
     },
     {
       "raw_hot": 1566683,
@@ -1187,6 +1187,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 1217123,
+      "num": 1217123,
+      "word": "我倒要看看25年元旦会怎么调休",
+      "onboard_time": 1712491759,
+      "rank": 10,
+      "category": "情感"
+    },
+    {
       "raw_hot": 1213458,
       "num": 1213458,
       "word": "12306回应高铁走到半路两车乘客互换",
@@ -1257,14 +1265,6 @@
       "onboard_time": 1712106266,
       "rank": 17,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1170188,
-      "num": 1170188,
-      "word": "我倒要看看25年元旦会怎么调休",
-      "onboard_time": 1712491759,
-      "rank": 10,
-      "category": "情感"
     },
     {
       "raw_hot": 1166439,
@@ -1891,6 +1891,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 901726,
+      "num": 901726,
+      "word": "TES零封JDG",
+      "onboard_time": 1712495479,
+      "rank": 5,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 897265,
       "num": 897265,
       "word": "终于在高铁上发疯了",
@@ -2121,14 +2129,6 @@
       "onboard_time": 1712329340,
       "rank": 37,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 832744,
-      "num": 832744,
-      "word": "TES零封JDG",
-      "onboard_time": 1712495479,
-      "rank": 5,
-      "category": "电竞"
     },
     {
       "raw_hot": 831411,
@@ -2489,6 +2489,14 @@
       "onboard_time": 1712278937,
       "rank": 12,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 754115,
+      "num": 754115,
+      "word": "1L康师傅冰红茶涨到5元",
+      "onboard_time": 1712493258,
+      "rank": 31,
+      "category": "美食"
     },
     {
       "raw_hot": 753025,
@@ -3371,14 +3379,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 631544,
-      "num": 631544,
-      "word": "1L康师傅冰红茶涨到5元",
-      "onboard_time": 1712493258,
-      "rank": 31,
-      "category": "美食"
-    },
-    {
       "raw_hot": 628835,
       "num": 628835,
       "word": "种地吧 监控",
@@ -3883,6 +3883,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 580614,
+      "num": 337409,
+      "word": "23岁没谈过恋爱正常吗",
+      "onboard_time": 1712492598,
+      "rank": 40,
+      "category": "情感"
+    },
+    {
       "raw_hot": 580459,
       "num": 580459,
       "word": "霉霉80亿身家成全球音乐圈首富",
@@ -3987,14 +3995,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 570268,
-      "num": 337409,
-      "word": "23岁没谈过恋爱正常吗",
-      "onboard_time": 1712492598,
-      "rank": 40,
-      "category": "情感"
-    },
-    {
       "raw_hot": 570264,
       "num": 570264,
       "word": "只有教师才懂教师的心酸",
@@ -4033,6 +4033,14 @@
       "onboard_time": 1711895720,
       "rank": 7,
       "category": "情感"
+    },
+    {
+      "raw_hot": 567003,
+      "num": 567003,
+      "word": "眼泪女王",
+      "onboard_time": 1711891159,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 566126,
@@ -4241,14 +4249,6 @@
       "onboard_time": 1711897940,
       "rank": 14,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 542628,
-      "num": 542628,
-      "word": "眼泪女王",
-      "onboard_time": 1711891159,
-      "rank": 26,
-      "category": "剧集"
     },
     {
       "raw_hot": 542415,
@@ -4907,6 +4907,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 484073,
+      "num": 484073,
+      "word": "追风者结局",
+      "onboard_time": 1712491219,
+      "rank": 11,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 483980,
       "num": 483980,
       "word": "福宝尚不满4岁",
@@ -5083,6 +5091,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 472767,
+      "num": 472767,
+      "word": "宫崎骏 再见了我的朋友",
+      "onboard_time": 1712494819,
+      "rank": 23,
+      "category": "电影"
+    },
+    {
       "raw_hot": 471915,
       "num": 471915,
       "word": "男子手术室外晕倒15秒后冲出一群医护",
@@ -5185,14 +5201,6 @@
       "onboard_time": 1712232439,
       "rank": 18,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 461035,
-      "num": 461035,
-      "word": "追风者结局",
-      "onboard_time": 1712491219,
-      "rank": 11,
-      "category": "剧集"
     },
     {
       "raw_hot": 460847,
@@ -6923,6 +6931,14 @@
       "category": "综艺,游戏"
     },
     {
+      "raw_hot": 349207,
+      "num": 349207,
+      "word": "沈图南 孤雁",
+      "onboard_time": 1712496077,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 348254,
       "num": 348254,
       "word": "福宝明天回家",
@@ -7444,7 +7460,7 @@
     },
     {
       "raw_hot": 321412,
-      "num": 260934,
+      "num": 274374,
       "word": "订婚时三金里面的手镯被偷了",
       "onboard_time": 1712492359,
       "rank": 30,
@@ -7521,14 +7537,6 @@
       "onboard_time": 1712311519,
       "rank": 30,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 316443,
-      "num": 316443,
-      "word": "宫崎骏 再见了我的朋友",
-      "onboard_time": 1712494819,
-      "rank": 23,
-      "category": "电影"
     },
     {
       "raw_hot": 316342,
@@ -7684,7 +7692,7 @@
     },
     {
       "raw_hot": 308833,
-      "num": 287397,
+      "num": 307999,
       "word": "赵丽颖工作室玩梗沈璃",
       "onboard_time": 1712495359,
       "rank": 26,
@@ -7857,6 +7865,14 @@
       "onboard_time": 1711895360,
       "rank": 18,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 303354,
+      "num": 303354,
+      "word": "原来蔡徐坤的腰伤朋友就是赵品霖",
+      "onboard_time": 1712495838,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 302879,
@@ -9803,6 +9819,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 237694,
+      "num": 237694,
+      "word": "追风者黄秘书下线",
+      "onboard_time": 1712494999,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 237346,
       "num": 237346,
       "word": "林俊杰弹唱see you again",
@@ -10081,14 +10105,6 @@
       "onboard_time": 1711969640,
       "rank": 37,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 229352,
-      "num": 229352,
-      "word": "追风者黄秘书下线",
-      "onboard_time": 1712494999,
-      "rank": 30,
-      "category": "剧集"
     },
     {
       "raw_hot": 229122,
@@ -10699,6 +10715,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 217237,
+      "num": 336662,
+      "word": "日本名将说和国乒技术差距没那么大",
+      "onboard_time": 1712494338,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
       "raw_hot": 217147,
       "num": 217147,
       "word": "与凤行预告",
@@ -10729,6 +10753,14 @@
       "onboard_time": 1712461158,
       "rank": 30,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 215852,
+      "num": 215852,
+      "word": "李溪芮好松弛的美感",
+      "onboard_time": 1712496440,
+      "rank": 32,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 215757,
@@ -10796,7 +10828,7 @@
     },
     {
       "raw_hot": 214553,
-      "num": 229792,
+      "num": 233609,
       "word": "教授建议小学低年级免去考试和成绩",
       "onboard_time": 1712487258,
       "rank": 27,
@@ -12435,6 +12467,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 191806,
+      "num": 191806,
+      "word": "李莲花 月影皓白",
+      "onboard_time": 1712495599,
+      "rank": 42,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 191739,
       "num": 191739,
       "word": "百度四分之一代码是AI程序员写的",
@@ -12713,6 +12753,14 @@
       "onboard_time": 1711953440,
       "rank": 34,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 189467,
+      "num": 189467,
+      "word": "你睡得最晚的一次是在干什么",
+      "onboard_time": 1712496560,
+      "rank": 38,
+      "category": "情感"
     },
     {
       "raw_hot": 189361,
@@ -13115,14 +13163,6 @@
       "category": "财经,社会新闻"
     },
     {
-      "raw_hot": 183969,
-      "num": 232301,
-      "word": "日本名将说和国乒技术差距没那么大",
-      "onboard_time": 1712494338,
-      "rank": 28,
-      "category": "体育"
-    },
-    {
       "raw_hot": 183920,
       "num": 183920,
       "word": "张可颐回应与宣萱佘诗曼不和",
@@ -13193,14 +13233,6 @@
       "onboard_time": 1712329760,
       "rank": 43,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 182877,
-      "num": 182877,
-      "word": "原来蔡徐坤的腰伤朋友就是赵品霖",
-      "onboard_time": 1712495838,
-      "rank": 40,
-      "category": "综艺"
     },
     {
       "raw_hot": 182841,
@@ -13659,20 +13691,20 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 176240,
+      "num": 176240,
+      "word": "乔杉中戏同学聚会vlog",
+      "onboard_time": 1712496319,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 176176,
       "num": 176176,
       "word": "eight在seventeen",
       "onboard_time": 1712447536,
       "rank": 37,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 176114,
-      "num": 176114,
-      "word": "李莲花 月影皓白",
-      "onboard_time": 1712495599,
-      "rank": 42,
-      "category": "动漫"
     },
     {
       "raw_hot": 175887,
@@ -14017,6 +14049,14 @@
       "onboard_time": 1712392097,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 170823,
+      "num": 170823,
+      "word": "孤雁",
+      "onboard_time": 1712496620,
+      "rank": 45,
+      "category": "剧集"
     },
     {
       "raw_hot": 170660,
@@ -18347,6 +18387,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 93877,
+      "num": 157052,
+      "word": "关于民法典婚姻家庭编公开征求意见",
+      "onboard_time": 1712493438,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 93709,
       "num": 93709,
       "word": "给猫戴GPS发现它也太忙了",
@@ -18416,14 +18464,6 @@
       "word": "假期返程安全行车攻略",
       "onboard_time": 1712394318,
       "rank": 2,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 89123,
-      "num": 157052,
-      "word": "关于民法典婚姻家庭编公开征求意见",
-      "onboard_time": 1712493438,
-      "rank": 48,
       "category": "社会新闻"
     },
     {
@@ -18588,7 +18628,7 @@
     },
     {
       "raw_hot": 74820,
-      "num": 642815,
+      "num": 998338,
       "word": "吴江涛你做的好事藏不住了",
       "onboard_time": 1712483418,
       "rank": 8,
