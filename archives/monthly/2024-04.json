@@ -1,6 +1,6 @@
 {
   "startTime": 1711902044401,
-  "endTime": 1712460933600,
+  "endTime": 1712463737951,
   "band_list": [
     {
       "raw_hot": 16874674,
@@ -348,7 +348,7 @@
     },
     {
       "raw_hot": 1795259,
-      "num": 481426,
+      "num": 607716,
       "word": "蒋胜男发文说赵丽颖粉丝戏多",
       "onboard_time": 1712456597,
       "rank": 26,
@@ -1009,6 +1009,14 @@
       "onboard_time": 1712284218,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 1258390,
+      "num": 1258390,
+      "word": "好声音起诉李玟经纪公司将开庭",
+      "onboard_time": 1712462059,
+      "rank": 3,
+      "category": "艺人"
     },
     {
       "raw_hot": 1256358,
@@ -1704,6 +1712,22 @@
       "word": "10086回应注销手机号等于出卖自己",
       "onboard_time": 1712306839,
       "rank": 3,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 910879,
+      "num": 910879,
+      "word": "这个清明119000000人次出游",
+      "onboard_time": 1712460018,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 907667,
+      "num": 907667,
+      "word": "专家建议允许不合适的公务员辞职",
+      "onboard_time": 1712461279,
+      "rank": 5,
       "category": "社会新闻"
     },
     {
@@ -2459,6 +2483,22 @@
       "category": "财经"
     },
     {
+      "raw_hot": 712220,
+      "num": 712220,
+      "word": "22岁的我已经和癌症斗了3000天",
+      "onboard_time": 1712458456,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 710808,
+      "num": 599526,
+      "word": "蒋胜男 粉圈别来玩我了",
+      "onboard_time": 1712461099,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 709250,
       "num": 709250,
       "word": "赵小棠 生病了不是你的错",
@@ -3075,6 +3115,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 628835,
+      "num": 628835,
+      "word": "种地吧 监控",
+      "onboard_time": 1712461700,
+      "rank": 8,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 628425,
       "num": 628425,
       "word": "章若楠问网友为啥要卖她签名照",
@@ -3465,6 +3513,14 @@
       "onboard_time": 1712407938,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 587237,
+      "num": 587237,
+      "word": "只有林正英知道纪凌尘底子有多好",
+      "onboard_time": 1712461999,
+      "rank": 13,
+      "category": "综艺"
     },
     {
       "raw_hot": 586352,
@@ -4307,14 +4363,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 500489,
-      "num": 500489,
-      "word": "22岁的我已经和癌症斗了3000天",
-      "onboard_time": 1712458456,
-      "rank": 16,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 500116,
       "num": 500116,
       "word": "范丞丞脸上的二进制代码",
@@ -4579,6 +4627,22 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 476556,
+      "num": 476556,
+      "word": "手术直播间 看完不敢涂口红",
+      "onboard_time": 1712459777,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 476385,
+      "num": 476385,
+      "word": "杭州南站大批客流拥挤有人破门自救",
+      "onboard_time": 1712459178,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 476283,
       "num": 476283,
       "word": "张元英转圈 动捕",
@@ -4617,6 +4681,14 @@
       "onboard_time": 1712083991,
       "rank": 28,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 469467,
+      "num": 469467,
+      "word": "读研会惩罚每一个考上研的混子",
+      "onboard_time": 1712461399,
+      "rank": 17,
+      "category": "情感"
     },
     {
       "raw_hot": 468966,
@@ -5123,14 +5195,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 430784,
-      "num": 430784,
-      "word": "杭州南站大批客流拥挤有人破门自救",
-      "onboard_time": 1712459178,
-      "rank": 28,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 430521,
       "num": 430521,
       "word": "于正说白鹿推荐的曾舜晞",
@@ -5579,14 +5643,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 398120,
-      "num": 398120,
-      "word": "手术直播间 看完不敢涂口红",
-      "onboard_time": 1712459777,
-      "rank": 45,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 397858,
       "num": 397858,
       "word": "神君红透了",
@@ -5737,6 +5793,14 @@
       "onboard_time": 1712236278,
       "rank": 32,
       "category": "教育"
+    },
+    {
+      "raw_hot": 388029,
+      "num": 388029,
+      "word": "王鹤棣自己开跑车",
+      "onboard_time": 1712463080,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 387801,
@@ -6739,6 +6803,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 326657,
+      "num": 326657,
+      "word": "Uzi谈Doinb复播",
+      "onboard_time": 1712462299,
+      "rank": 21,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 326139,
       "num": 326139,
       "word": "沈璃行止的孩子是花千骨吧",
@@ -7363,6 +7435,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 295255,
+      "num": 295255,
+      "word": "狗都知道回头哄一下",
+      "onboard_time": 1712462359,
+      "rank": 23,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 295178,
       "num": 295178,
       "word": "宁波震感",
@@ -7785,14 +7865,6 @@
       "onboard_time": 1711986319,
       "rank": 15,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 277836,
-      "num": 277836,
-      "word": "这个清明119000000人次出游",
-      "onboard_time": 1712460018,
-      "rank": 19,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 277748,
@@ -8233,6 +8305,14 @@
       "onboard_time": 1712003169,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 260902,
+      "num": 260902,
+      "word": "天津男篮拉拉队公然砸观众",
+      "onboard_time": 1712462179,
+      "rank": 25,
+      "category": "体育"
     },
     {
       "raw_hot": 260660,
@@ -8883,6 +8963,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 240692,
+      "num": 240692,
+      "word": "小米SU7标准版不支持城市NOA",
+      "onboard_time": 1712460618,
+      "rank": 34,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 240678,
       "num": 240678,
       "word": "游戏是最不该失去公平的地方",
@@ -9033,6 +9121,14 @@
       "onboard_time": 1712157440,
       "rank": 49,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 236131,
+      "num": 236131,
+      "word": "林更新 做饭的神",
+      "onboard_time": 1712463320,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 236046,
@@ -9825,6 +9921,14 @@
       "onboard_time": 1712292497,
       "rank": 42,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 216244,
+      "num": 216244,
+      "word": "爱奇艺4月片单",
+      "onboard_time": 1712461158,
+      "rank": 30,
+      "category": "剧集"
     },
     {
       "raw_hot": 215757,
@@ -11691,14 +11795,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 188549,
-      "num": 188549,
-      "word": "小米SU7标准版不支持城市NOA",
-      "onboard_time": 1712460618,
-      "rank": 34,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 188203,
       "num": 188203,
       "word": "小米汽车试驾者驾龄需达2年",
@@ -11897,6 +11993,14 @@
       "onboard_time": 1712397919,
       "rank": 28,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 185902,
+      "num": 1328921,
+      "word": "旅游专列也卷起来了",
+      "onboard_time": 1712460439,
+      "rank": 2,
+      "category": "旅游"
     },
     {
       "raw_hot": 185883,
@@ -12187,6 +12291,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 180872,
+      "num": 180872,
+      "word": "宣璐蒙眼神图",
+      "onboard_time": 1712462720,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 180708,
       "num": 180708,
       "word": "周处除三害背后的台湾乱象",
@@ -12225,6 +12337,14 @@
       "onboard_time": 1711977921,
       "rank": 27,
       "category": "社会新闻,电竞"
+    },
+    {
+      "raw_hot": 180017,
+      "num": 180017,
+      "word": "WTT世界乒联回应阿鲁纳",
+      "onboard_time": 1712463500,
+      "rank": 37,
+      "category": "体育"
     },
     {
       "raw_hot": 179940,
@@ -13683,6 +13803,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 157348,
+      "num": 157348,
+      "word": "安卓用户关怀果粉闹钟没响",
+      "onboard_time": 1712463559,
+      "rank": 43,
+      "category": "数码"
+    },
+    {
       "raw_hot": 157283,
       "num": 157283,
       "word": "建议打工人周末在公园待20分钟",
@@ -14777,6 +14905,14 @@
       "onboard_time": 1712020220,
       "rank": 47,
       "category": "财经"
+    },
+    {
+      "raw_hot": 142074,
+      "num": 142074,
+      "word": "芙莉莲 纯情咖装什么老手",
+      "onboard_time": 1712462841,
+      "rank": 49,
+      "category": "动漫"
     },
     {
       "raw_hot": 142067,
@@ -17459,14 +17595,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 50106,
-      "num": 1164574,
-      "word": "旅游专列也卷起来了",
-      "onboard_time": 1712460439,
-      "rank": 2,
-      "category": "旅游"
-    },
-    {
       "raw_hot": 49448,
       "num": 470433,
       "word": "红米发布Turbo全新性能系列",
@@ -17497,6 +17625,14 @@
       "onboard_time": 1711912032,
       "rank": 44,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 47175,
+      "num": 172223,
+      "word": "中端手机性能有多卷",
+      "onboard_time": 1712459418,
+      "rank": 37,
+      "category": "数码"
     },
     {
       "raw_hot": 46826,
@@ -17537,6 +17673,14 @@
       "onboard_time": 1711998250,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 44737,
+      "num": 331192,
+      "word": "杨幂科技感大片",
+      "onboard_time": 1712461758,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 44491,
@@ -17721,14 +17865,6 @@
       "onboard_time": 1712168591,
       "rank": 44,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 28858,
-      "num": 168122,
-      "word": "中端手机性能有多卷",
-      "onboard_time": 1712459418,
-      "rank": 37,
-      "category": "数码"
     },
     {
       "raw_hot": 28707,

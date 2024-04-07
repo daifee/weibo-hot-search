@@ -1,0 +1,410 @@
+{
+  "runTime": 1712463737951,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2382690,
+        "num": 2382690,
+        "word": "调休",
+        "onboard_time": 1712450539,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1443627,
+        "num": 1443627,
+        "word": "五一假期前后都要调休上班",
+        "onboard_time": 1712454676,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 185902,
+        "num": 1328921,
+        "word": "旅游专列也卷起来了",
+        "onboard_time": 1712460439,
+        "rank": 2,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 1258390,
+        "num": 1258390,
+        "word": "好声音起诉李玟经纪公司将开庭",
+        "onboard_time": 1712462059,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 910879,
+        "num": 910879,
+        "word": "这个清明119000000人次出游",
+        "onboard_time": 1712460018,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 907667,
+        "num": 907667,
+        "word": "专家建议允许不合适的公务员辞职",
+        "onboard_time": 1712461279,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 712220,
+        "num": 712220,
+        "word": "22岁的我已经和癌症斗了3000天",
+        "onboard_time": 1712458456,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 669314,
+        "num": 669314,
+        "word": "胡锡进称应该给虐猫男生改正机会",
+        "onboard_time": 1712457918,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 628835,
+        "num": 628835,
+        "word": "种地吧 监控",
+        "onboard_time": 1712461700,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 620766,
+        "num": 620766,
+        "word": "林更新 我做她的瑶",
+        "onboard_time": 1712447897,
+        "rank": 9,
+        "category": "作品衍生,游戏"
+      },
+      {
+        "raw_hot": 1684148,
+        "num": 607716,
+        "word": "蒋胜男发文说赵丽颖粉丝戏多",
+        "onboard_time": 1712456597,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 766080,
+        "num": 606295,
+        "word": "提灯定损事件后当地民宿遭大量退订",
+        "onboard_time": 1712454557,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 710808,
+        "num": 599526,
+        "word": "蒋胜男 粉圈别来玩我了",
+        "onboard_time": 1712461099,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 587237,
+        "num": 587237,
+        "word": "只有林正英知道纪凌尘底子有多好",
+        "onboard_time": 1712461999,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 498009,
+        "num": 498009,
+        "word": "省考成绩",
+        "onboard_time": 1712461638,
+        "rank": 14,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 476556,
+        "num": 476556,
+        "word": "手术直播间 看完不敢涂口红",
+        "onboard_time": 1712459777,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 476385,
+        "num": 476385,
+        "word": "杭州南站大批客流拥挤有人破门自救",
+        "onboard_time": 1712459178,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 469467,
+        "num": 469467,
+        "word": "读研会惩罚每一个考上研的混子",
+        "onboard_time": 1712461399,
+        "rank": 17,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 426101,
+        "num": 426101,
+        "word": "公务员部分岗位年龄调整到40周岁",
+        "onboard_time": 1712451739,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 388029,
+        "num": 388029,
+        "word": "王鹤棣自己开跑车",
+        "onboard_time": 1712463080,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 44737,
+        "num": 331192,
+        "word": "杨幂科技感大片",
+        "onboard_time": 1712461758,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 326657,
+        "num": 326657,
+        "word": "Uzi谈Doinb复播",
+        "onboard_time": 1712462299,
+        "rank": 21,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 319202,
+        "num": 319202,
+        "word": "叶童看纪凌尘走路的表情",
+        "onboard_time": 1712454797,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 295255,
+        "num": 295255,
+        "word": "狗都知道回头哄一下",
+        "onboard_time": 1712462359,
+        "rank": 23,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 294425,
+        "num": 294425,
+        "word": "弟弟考研上岸了我却一点不开心",
+        "onboard_time": 1712450598,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 260902,
+        "num": 260902,
+        "word": "天津男篮拉拉队公然砸观众",
+        "onboard_time": 1712462179,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 240692,
+        "num": 240692,
+        "word": "小米SU7标准版不支持城市NOA",
+        "onboard_time": 1712460618,
+        "rank": 26,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 236131,
+        "num": 236131,
+        "word": "林更新 做饭的神",
+        "onboard_time": 1712463320,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 226577,
+        "num": 226577,
+        "word": "电视剧迎风官宣阵容",
+        "onboard_time": 1712459059,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 218798,
+        "num": 218798,
+        "word": "导演你们拍这段真的没笑场吗",
+        "onboard_time": 1712458339,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 216244,
+        "num": 216244,
+        "word": "爱奇艺4月片单",
+        "onboard_time": 1712461158,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 216134,
+        "num": 216134,
+        "word": "15元一晚的房间",
+        "onboard_time": 1712450719,
+        "rank": 31,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 214808,
+        "num": 214808,
+        "word": "体制内入职早年龄却比我小的同事",
+        "onboard_time": 1712456057,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 213242,
+        "num": 213242,
+        "word": "许嵩深圳",
+        "onboard_time": 1712460139,
+        "rank": 33,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 204362,
+        "num": 204362,
+        "word": "创造营亚洲C位是中国人",
+        "onboard_time": 1712447718,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 199498,
+        "num": 199498,
+        "word": "马上就知道六天有多长了",
+        "onboard_time": 1712458099,
+        "rank": 35,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 180872,
+        "num": 180872,
+        "word": "宣璐蒙眼神图",
+        "onboard_time": 1712462720,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 180017,
+        "num": 180017,
+        "word": "WTT世界乒联回应阿鲁纳",
+        "onboard_time": 1712463500,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 177575,
+        "num": 177575,
+        "word": "A股",
+        "onboard_time": 1712459959,
+        "rank": 38,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 47175,
+        "num": 172223,
+        "word": "中端手机性能有多卷",
+        "onboard_time": 1712459418,
+        "rank": 39,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 171627,
+        "num": 171627,
+        "word": "广西人上4天休4天",
+        "onboard_time": 1712452638,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 165641,
+        "num": 165641,
+        "word": "17级以前的大学生才是最幸福的",
+        "onboard_time": 1712457617,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 157679,
+        "num": 157679,
+        "word": "本周桃花运最旺的星座",
+        "onboard_time": 1712450178,
+        "rank": 42,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 157348,
+        "num": 157348,
+        "word": "安卓用户关怀果粉闹钟没响",
+        "onboard_time": 1712463559,
+        "rank": 43,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 155533,
+        "num": 155533,
+        "word": "恒大造车5年亏超1100亿",
+        "onboard_time": 1712454797,
+        "rank": 44,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 147718,
+        "num": 147718,
+        "word": "金价飙升有顾客越涨越买",
+        "onboard_time": 1712458817,
+        "rank": 45,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 146894,
+        "num": 146894,
+        "word": "官方通报15岁女孩被围殴",
+        "onboard_time": 1712450178,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 145617,
+        "num": 145617,
+        "word": "CUBE男经纪人骚扰minnie",
+        "onboard_time": 1712446696,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 143463,
+        "num": 143463,
+        "word": "林更新终于会侧位吻了",
+        "onboard_time": 1712457557,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 142074,
+        "num": 142074,
+        "word": "芙莉莲 纯情咖装什么老手",
+        "onboard_time": 1712462841,
+        "rank": 49,
+        "category": "动漫"
+      }
+    ],
+    "hotgov": {
+      "word": "#家国永念致敬英雄#"
+    }
+  }
+}
