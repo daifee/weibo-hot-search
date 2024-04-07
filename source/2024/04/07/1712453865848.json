@@ -1,0 +1,410 @@
+{
+  "runTime": 1712453865848,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2781590,
+        "num": 2781590,
+        "word": "调休",
+        "onboard_time": 1712450539,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1402156,
+        "num": 1402156,
+        "word": "15元一晚的房间",
+        "onboard_time": 1712450719,
+        "rank": 1,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 40686,
+        "num": 1224939,
+        "word": "一起打卡春天里的中国",
+        "onboard_time": 1712413100,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1168215,
+        "num": 1168215,
+        "word": "林更新 我做她的瑶",
+        "onboard_time": 1712447897,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1094757,
+        "num": 1094757,
+        "word": "公务员部分岗位年龄调整到40周岁",
+        "onboard_time": 1712451739,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 685444,
+        "num": 685444,
+        "word": "官方通报15岁女孩被围殴",
+        "onboard_time": 1712450178,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 683933,
+        "num": 683933,
+        "word": "创造营亚洲C位是中国人",
+        "onboard_time": 1712447718,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 647632,
+        "num": 647632,
+        "word": "本周桃花运最旺的星座",
+        "onboard_time": 1712450178,
+        "rank": 7,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 602247,
+        "num": 602247,
+        "word": "欧阳娣娣第八名出道",
+        "onboard_time": 1712446936,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 391139,
+        "num": 541999,
+        "word": "淄博八大局火到早8点半就限流",
+        "onboard_time": 1712448377,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 532324,
+        "num": 532324,
+        "word": "逃出大英博物馆主创发声明维权",
+        "onboard_time": 1712451559,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 486858,
+        "num": 486858,
+        "word": "南部战区位南海海域组织联合海空战巡",
+        "onboard_time": 1712451319,
+        "rank": 11,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 485763,
+        "num": 485763,
+        "word": "爱宝还记得福宝",
+        "onboard_time": 1712446696,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 428512,
+        "num": 428512,
+        "word": "广西人上4天休4天",
+        "onboard_time": 1712452638,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 424635,
+        "num": 424635,
+        "word": "雷军回应小米为什么造车快",
+        "onboard_time": 1712446877,
+        "rank": 14,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 386693,
+        "num": 386693,
+        "word": "你敢不敢去摸一下那只两脚兽",
+        "onboard_time": 1712422095,
+        "rank": 15,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 381429,
+        "num": 381429,
+        "word": "CUBE男经纪人骚扰minnie",
+        "onboard_time": 1712446696,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 314999,
+        "num": 314999,
+        "word": "男子上厕所隐私部位被割伤缝20多针",
+        "onboard_time": 1712412860,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 299903,
+        "num": 299903,
+        "word": "成都迪士尼被限流",
+        "onboard_time": 1712419217,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 294549,
+        "num": 294549,
+        "word": "爱奇艺2024首部破万剧",
+        "onboard_time": 1712412500,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 613903,
+        "num": 292485,
+        "word": "弟弟考研上岸了我却一点不开心",
+        "onboard_time": 1712450598,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 289698,
+        "num": 289698,
+        "word": "商品房以旧换新政策落地",
+        "onboard_time": 1712445496,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 281928,
+        "num": 281928,
+        "word": "医生温馨提示不要碰这些药膏",
+        "onboard_time": 1712448858,
+        "rank": 22,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 278213,
+        "num": 278213,
+        "word": "华为P70或不举办发布会直接上线销售",
+        "onboard_time": 1712450239,
+        "rank": 23,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 276386,
+        "num": 276386,
+        "word": "郝蕾用张子枫类比锦超",
+        "onboard_time": 1712451079,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 270486,
+        "num": 270486,
+        "word": "福宝适应能力有多强",
+        "onboard_time": 1712448018,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 265305,
+        "num": 265305,
+        "word": "15岁女孩被围殴涉案11人已到案",
+        "onboard_time": 1712450059,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 262580,
+        "num": 262580,
+        "word": "日本天皇独生女成为月薪7千的打工人",
+        "onboard_time": 1712403077,
+        "rank": 27,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 253239,
+        "num": 253239,
+        "word": "卡琳娜她都约我了",
+        "onboard_time": 1712450840,
+        "rank": 28,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 238572,
+        "num": 238572,
+        "word": "要上6天班",
+        "onboard_time": 1712448799,
+        "rank": 29,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 211888,
+        "num": 211888,
+        "word": "为什么现在退房都不检查了",
+        "onboard_time": 1712408538,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 208952,
+        "num": 208952,
+        "word": "搅局南海制造热点的军事活动尽在掌握",
+        "onboard_time": 1712453419,
+        "rank": 31,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 196844,
+        "num": 196844,
+        "word": "赵奕欢被李菲儿逼哭",
+        "onboard_time": 1712410879,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 196576,
+        "num": 196576,
+        "word": "林狗你是真的火了",
+        "onboard_time": 1712413880,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 195942,
+        "num": 195942,
+        "word": "长期戴耳塞睡觉的人最后怎么样了",
+        "onboard_time": 1712411480,
+        "rank": 34,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 192574,
+        "num": 192574,
+        "word": "徐佳莹蓝台哭了",
+        "onboard_time": 1712452398,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 191421,
+        "num": 191421,
+        "word": "吴镇宇说张睿就一辈子演古装了",
+        "onboard_time": 1712411960,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 180988,
+        "num": 180988,
+        "word": "这4种食物是尿毒症的加速器",
+        "onboard_time": 1712411658,
+        "rank": 37,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 180582,
+        "num": 180582,
+        "word": "旅游到底是吃重要还是住重要",
+        "onboard_time": 1712450178,
+        "rank": 38,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 168006,
+        "num": 168006,
+        "word": "人在淄博玩行李随便放",
+        "onboard_time": 1712453239,
+        "rank": 39,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 162578,
+        "num": 162578,
+        "word": "王珂出道吧",
+        "onboard_time": 1712416819,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 148262,
+        "num": 148262,
+        "word": "体制内开会为什么不能喝奶茶",
+        "onboard_time": 1712412259,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 139277,
+        "num": 139277,
+        "word": "eight在seventeen",
+        "onboard_time": 1712447536,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 138642,
+        "num": 138642,
+        "word": "种地吧",
+        "onboard_time": 1712450840,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 137610,
+        "num": 137610,
+        "word": "第一次在机器人身上看到了破碎感",
+        "onboard_time": 1712451678,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 135663,
+        "num": 135663,
+        "word": "眼泪女王收视率",
+        "onboard_time": 1712446756,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 133973,
+        "num": 133973,
+        "word": "向佐撩裙子差点呼宁静脸上",
+        "onboard_time": 1712445435,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 125097,
+        "num": 125097,
+        "word": "淄博版逐渐失去表情管理",
+        "onboard_time": 1712453478,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 121674,
+        "num": 121674,
+        "word": "淄博小哥让人心疼价目表让人心动",
+        "onboard_time": 1712422634,
+        "rank": 48,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 118520,
+        "num": 118520,
+        "word": "元梦之星 蛋仔派对",
+        "onboard_time": 1712448679,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#加快构建以先进制造业为支撑的现代化产业体系#"
+    }
+  }
+}
