@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/04/07 00:22:19 ~ 2024/04/08 01:15:20
+本榜单时间：2024/04/07 00:22:19 ~ 2024/04/08 01:34:13
 </p>
 </blockquote>
 <p>
@@ -2531,6 +2531,12 @@ YG与HYBE的歌曲拼出JYP的感觉（热度：50331）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%85%BE%E5%8A%BFZ9GT%E5%9C%A8%E5%BE%B7%E5%9B%BD%E8%A2%AB%E5%9B%B4%E8%A7%82%23" target="weibo">
 腾势Z9GT在德国被围观（热度：39052）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9E%97%E6%9B%B4%E6%96%B0%E8%B0%AD%E6%9D%BE%E9%9F%B5%E8%AF%B7%E5%8F%AB%E6%88%91%E6%80%BB%E7%9B%91%E6%97%A7%E7%85%A7%23" target="weibo">
+林更新谭松韵请叫我总监旧照（热度：36846）
 </a>
 </li>
 

@@ -1,6 +1,6 @@
 {
   "startTime": 1712506792576,
-  "endTime": 1712510120980,
+  "endTime": 1712511253740,
   "band_list": [
     {
       "raw_hot": 1788973,
@@ -441,6 +441,14 @@
       "onboard_time": 1712495958,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 36846,
+      "num": 36846,
+      "word": "林更新谭松韵请叫我总监旧照",
+      "onboard_time": 1712511192,
+      "rank": 47,
+      "category": "剧集"
     }
   ],
   "hotgov_list": [
