@@ -1,6 +1,6 @@
 {
   "startTime": 1711902044401,
-  "endTime": 1712531898110,
+  "endTime": 1712532864549,
   "band_list": [
     {
       "raw_hot": 16874674,
@@ -2147,6 +2147,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 834349,
+      "num": 834349,
+      "word": "被卷入超市扶梯女子丈夫发声",
+      "onboard_time": 1712525890,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 834104,
       "num": 247096,
       "word": "赵丽颖林更新换了cp手机壳",
@@ -2529,6 +2537,14 @@
       "onboard_time": 1712493258,
       "rank": 31,
       "category": "美食"
+    },
+    {
+      "raw_hot": 753390,
+      "num": 753390,
+      "word": "男子试驾劳斯莱斯获销售鼓励打动网友",
+      "onboard_time": 1712512333,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 753025,
@@ -2969,14 +2985,6 @@
       "onboard_time": 1712378658,
       "rank": 5,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 681063,
-      "num": 681063,
-      "word": "被卷入超市扶梯女子丈夫发声",
-      "onboard_time": 1712525890,
-      "rank": 10,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 680667,
@@ -3440,14 +3448,6 @@
       "word": "甘肃拍到小鸟把彩虹披身上了",
       "onboard_time": 1712274857,
       "rank": 4,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 634530,
-      "num": 634530,
-      "word": "男子试驾劳斯莱斯获销售鼓励打动网友",
-      "onboard_time": 1712512333,
-      "rank": 28,
       "category": "社会新闻"
     },
     {
@@ -7513,6 +7513,14 @@
       "onboard_time": 1712195899,
       "rank": 19,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 327740,
+      "num": 192814,
+      "word": "范志毅出任辽宁铁人主帅",
+      "onboard_time": 1712531174,
+      "rank": 10,
+      "category": "体育"
     },
     {
       "raw_hot": 327534,
@@ -11835,6 +11843,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 202391,
+      "num": 202391,
+      "word": "与凤行结局吻戏是加的",
+      "onboard_time": 1712520490,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 202172,
       "num": 202172,
       "word": "4月第一天",
@@ -12385,6 +12401,14 @@
       "onboard_time": 1711948461,
       "rank": 48,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 195632,
+      "num": 127082,
+      "word": "甲状腺癌增多可能和过度诊断有关",
+      "onboard_time": 1712531174,
+      "rank": 23,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 195587,
@@ -13161,6 +13185,14 @@
       "onboard_time": 1712188576,
       "rank": 35,
       "category": "电竞,网红"
+    },
+    {
+      "raw_hot": 187420,
+      "num": 187420,
+      "word": "莫桑比克沉船多名儿童死亡",
+      "onboard_time": 1712532315,
+      "rank": 11,
+      "category": "国外时政"
     },
     {
       "raw_hot": 187302,
@@ -15123,6 +15155,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 159632,
+      "num": 159632,
+      "word": "瓶装酒里的梨是怎么放进去的",
+      "onboard_time": 1712524330,
+      "rank": 49,
+      "category": "美食"
+    },
+    {
       "raw_hot": 159626,
       "num": 159626,
       "word": "行止 老肩巨滑",
@@ -15185,14 +15225,6 @@
       "onboard_time": 1712383337,
       "rank": 32,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 158982,
-      "num": 158982,
-      "word": "与凤行结局吻戏是加的",
-      "onboard_time": 1712520490,
-      "rank": 39,
-      "category": "剧集"
     },
     {
       "raw_hot": 158940,
@@ -16339,14 +16371,6 @@
       "category": "运动健身"
     },
     {
-      "raw_hot": 143817,
-      "num": 143817,
-      "word": "范志毅出任辽宁铁人主帅",
-      "onboard_time": 1712531174,
-      "rank": 10,
-      "category": "体育"
-    },
-    {
       "raw_hot": 143695,
       "num": 143695,
       "word": "大柯基叫醒小柯基的方式",
@@ -16611,6 +16635,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 140217,
+      "num": 140217,
+      "word": "EXO出道12周年",
+      "onboard_time": 1712531294,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 140101,
       "num": 140101,
       "word": "鹌鹑蛋带皮吃很奇怪吗",
@@ -16721,6 +16753,14 @@
       "onboard_time": 1712027960,
       "rank": 49,
       "category": "情感"
+    },
+    {
+      "raw_hot": 138309,
+      "num": 126709,
+      "word": "这样睡觉大大增加糖尿病风险",
+      "onboard_time": 1712508316,
+      "rank": 22,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 138294,
@@ -17331,12 +17371,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 129360,
-      "num": 129360,
-      "word": "EXO出道12周年",
-      "onboard_time": 1712531294,
-      "rank": 12,
-      "category": "艺人"
+      "raw_hot": 129212,
+      "num": 129212,
+      "word": "应采儿说Jasper是脏儿子",
+      "onboard_time": 1712521990,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 129172,
@@ -17369,14 +17409,6 @@
       "onboard_time": 1712505558,
       "rank": 33,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 128727,
-      "num": 96663,
-      "word": "这样睡觉大大增加糖尿病风险",
-      "onboard_time": 1712508316,
-      "rank": 22,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 128647,
@@ -17459,6 +17491,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 127503,
+      "num": 127503,
+      "word": "今年唯一一次日全食即将上演",
+      "onboard_time": 1712522829,
+      "rank": 40,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 127420,
       "num": 127420,
       "word": "国足对阵泰国生死战时间地点确定",
@@ -17497,6 +17537,14 @@
       "onboard_time": 1712382798,
       "rank": 42,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 126625,
+      "num": 126625,
+      "word": "90后准新娘婚前立遗嘱遗产归父母",
+      "onboard_time": 1712518930,
+      "rank": 25,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 126616,
@@ -17635,6 +17683,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 125206,
+      "num": 125206,
+      "word": "在办公室钻戒反戴的原因",
+      "onboard_time": 1712530814,
+      "rank": 28,
+      "category": "情感"
+    },
+    {
       "raw_hot": 125180,
       "num": 125180,
       "word": "背诗词免门票在景区界传开了",
@@ -17715,28 +17771,12 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 124041,
-      "num": 82204,
-      "word": "甲状腺癌增多可能和过度诊断有关",
-      "onboard_time": 1712531174,
-      "rank": 23,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 123951,
       "num": 123002,
       "word": "鞠婧祎换了微博头像",
       "onboard_time": 1711889838,
       "rank": 41,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 123477,
-      "num": 123477,
-      "word": "瓶装酒里的梨是怎么放进去的",
-      "onboard_time": 1712524330,
-      "rank": 49,
-      "category": "美食"
     },
     {
       "raw_hot": 123042,
@@ -17929,6 +17969,14 @@
       "onboard_time": 1712283797,
       "rank": 49,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 119591,
+      "num": 97095,
+      "word": "EXO永远的彼得潘",
+      "onboard_time": 1712532615,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 119442,
@@ -18363,6 +18411,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 109352,
+      "num": 109352,
+      "word": "新款低端iPad或在年底前发布",
+      "onboard_time": 1712531895,
+      "rank": 26,
+      "category": "数码"
+    },
+    {
       "raw_hot": 109244,
       "num": 140653,
       "word": "曼联vs利物浦",
@@ -18443,20 +18499,20 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 107300,
-      "num": 107300,
-      "word": "今年唯一一次日全食即将上演",
-      "onboard_time": 1712522829,
-      "rank": 40,
-      "category": "科学科普"
-    },
-    {
       "raw_hot": 105999,
       "num": 105999,
       "word": "福建船艇碰撞事故6人落水",
       "onboard_time": 1712388137,
       "rank": 44,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 105795,
+      "num": 105795,
+      "word": "伊朗高官称以色列大使馆将不再安全",
+      "onboard_time": 1712531955,
+      "rank": 27,
+      "category": "国外时政"
     },
     {
       "raw_hot": 105454,
@@ -18507,14 +18563,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 104483,
-      "num": 104483,
-      "word": "应采儿说Jasper是脏儿子",
-      "onboard_time": 1712521990,
-      "rank": 49,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 104337,
       "num": 150908,
       "word": "辽宁男篮vs广厦男篮",
@@ -18544,14 +18592,6 @@
       "word": "吴江涛你做的好事藏不住了",
       "onboard_time": 1712483418,
       "rank": 8,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 102697,
-      "num": 81380,
-      "word": "90后准新娘婚前立遗嘱遗产归父母",
-      "onboard_time": 1712518930,
-      "rank": 25,
       "category": "社会新闻"
     },
     {
@@ -18891,6 +18931,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 90123,
+      "num": 90123,
+      "word": "不要随便开乡下的国道",
+      "onboard_time": 1712530814,
+      "rank": 38,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 89520,
       "num": 72338,
       "word": "黄果树瀑布偶遇沙溢胡可一家",
@@ -18939,6 +18987,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 85366,
+      "num": 85366,
+      "word": "小米汽车回应使用特斯拉充电桩问题",
+      "onboard_time": 1712529673,
+      "rank": 31,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 84099,
       "num": 1154857,
       "word": "家国永念致敬英雄",
@@ -18969,6 +19025,14 @@
       "onboard_time": 1712100376,
       "rank": 35,
       "category": "体育"
+    },
+    {
+      "raw_hot": 83441,
+      "num": 83441,
+      "word": "TES终结面对JDG连败",
+      "onboard_time": 1712532615,
+      "rank": 38,
+      "category": "电竞"
     },
     {
       "raw_hot": 83254,
@@ -19019,14 +19083,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 79329,
-      "num": 79329,
-      "word": "在办公室钻戒反戴的原因",
-      "onboard_time": 1712530814,
-      "rank": 28,
-      "category": "情感"
-    },
-    {
       "raw_hot": 77927,
       "num": 60180,
       "word": "锦超演的傅卫军",
@@ -19072,6 +19128,14 @@
       "word": "芒果与凤行AI婚礼圆满了",
       "onboard_time": 1712342052,
       "rank": 23,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 75102,
+      "num": 75102,
+      "word": "林更新谭松韵请叫我总监旧照",
+      "onboard_time": 1712511192,
+      "rank": 47,
       "category": "剧集"
     },
     {
@@ -19139,12 +19203,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 71884,
-      "num": 71884,
-      "word": "小米汽车回应使用特斯拉充电桩问题",
-      "onboard_time": 1712529673,
-      "rank": 31,
-      "category": "汽车"
+      "raw_hot": 71918,
+      "num": 71918,
+      "word": "诺米好可爱",
+      "onboard_time": 1712532136,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 71689,
@@ -19347,6 +19411,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 59373,
+      "num": 59373,
+      "word": "9.9元咖啡为何会消失",
+      "onboard_time": 1712512691,
+      "rank": 38,
+      "category": "美食"
+    },
+    {
       "raw_hot": 59343,
       "num": 672773,
       "word": "清澈的爱我们一直记得",
@@ -19361,14 +19433,6 @@
       "onboard_time": 1712272873,
       "rank": 38,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 58806,
-      "num": 58806,
-      "word": "不要随便开乡下的国道",
-      "onboard_time": 1712530814,
-      "rank": 38,
-      "category": "幽默"
     },
     {
       "raw_hot": 58761,
@@ -19507,12 +19571,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 53953,
-      "num": 49125,
-      "word": "林更新谭松韵请叫我总监旧照",
-      "onboard_time": 1712511192,
-      "rank": 47,
-      "category": "剧集"
+      "raw_hot": 54186,
+      "num": 1078611,
+      "word": "文旅消费如何从开门红走向长红",
+      "onboard_time": 1712495958,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 53394,
@@ -19585,14 +19649,6 @@
       "onboard_time": 1711888759,
       "rank": 46,
       "category": "演出"
-    },
-    {
-      "raw_hot": 51057,
-      "num": 51057,
-      "word": "9.9元咖啡为何会消失",
-      "onboard_time": 1712512691,
-      "rank": 38,
-      "category": "美食"
     },
     {
       "raw_hot": 50366,
@@ -19705,14 +19761,6 @@
       "onboard_time": 1711910771,
       "rank": 45,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 43971,
-      "num": 1078611,
-      "word": "文旅消费如何从开门红走向长红",
-      "onboard_time": 1712495958,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 43197,

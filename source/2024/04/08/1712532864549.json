@@ -1,0 +1,410 @@
+{
+  "runTime": 1712532864549,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 834349,
+        "num": 834349,
+        "word": "被卷入超市扶梯女子丈夫发声",
+        "onboard_time": 1712525890,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 753390,
+        "num": 753390,
+        "word": "男子试驾劳斯莱斯获销售鼓励打动网友",
+        "onboard_time": 1712512333,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 54186,
+        "num": 628463,
+        "word": "文旅消费如何从开门红走向长红",
+        "onboard_time": 1712495958,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 553928,
+        "num": 553928,
+        "word": "个人房贷规模大幅缩水",
+        "onboard_time": 1712500041,
+        "rank": 3,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 414645,
+        "num": 414645,
+        "word": "租房吃过最大的苦是跟情侣合租",
+        "onboard_time": 1712499741,
+        "rank": 4,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 356033,
+        "num": 356033,
+        "word": "第一批去埃及旅行的人快被骗到裸奔了",
+        "onboard_time": 1712476038,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 327923,
+        "num": 327923,
+        "word": "河南某高校副科长被举报聚众淫乱",
+        "onboard_time": 1712498420,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 326291,
+        "num": 326291,
+        "word": "肖战早期与素人合照",
+        "onboard_time": 1712501181,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 202391,
+        "num": 202391,
+        "word": "与凤行结局吻戏是加的",
+        "onboard_time": 1712520490,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 197550,
+        "num": 197550,
+        "word": "追她呀 她旺你",
+        "onboard_time": 1712483838,
+        "rank": 9,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 327740,
+        "num": 192814,
+        "word": "范志毅出任辽宁铁人主帅",
+        "onboard_time": 1712531174,
+        "rank": 10,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 187420,
+        "num": 187420,
+        "word": "莫桑比克沉船多名儿童死亡",
+        "onboard_time": 1712532315,
+        "rank": 11,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 166678,
+        "num": 166678,
+        "word": "小米定金事件暴露了成年人的耍赖心态",
+        "onboard_time": 1712491999,
+        "rank": 12,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 159632,
+        "num": 159632,
+        "word": "瓶装酒里的梨是怎么放进去的",
+        "onboard_time": 1712524330,
+        "rank": 13,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 140217,
+        "num": 140217,
+        "word": "EXO出道12周年",
+        "onboard_time": 1712531294,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 138591,
+        "num": 138591,
+        "word": "沈图南入党",
+        "onboard_time": 1712503340,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 129212,
+        "num": 129212,
+        "word": "应采儿说Jasper是脏儿子",
+        "onboard_time": 1712521990,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 128462,
+        "num": 128462,
+        "word": "女性的小肚子是为了保护子宫卵巢",
+        "onboard_time": 1712473999,
+        "rank": 17,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 127503,
+        "num": 127503,
+        "word": "今年唯一一次日全食即将上演",
+        "onboard_time": 1712522829,
+        "rank": 18,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 116043,
+        "num": 127349,
+        "word": "沈璃有魑魅印记",
+        "onboard_time": 1712503760,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 514693,
+        "num": 127157,
+        "word": "我倒要看看25年元旦会怎么调休",
+        "onboard_time": 1712491759,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 195632,
+        "num": 127082,
+        "word": "甲状腺癌增多可能和过度诊断有关",
+        "onboard_time": 1712531174,
+        "rank": 21,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 182074,
+        "num": 126819,
+        "word": "与父母同居20天他们终于不再催婚",
+        "onboard_time": 1712499261,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 138309,
+        "num": 126709,
+        "word": "这样睡觉大大增加糖尿病风险",
+        "onboard_time": 1712508316,
+        "rank": 23,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 126625,
+        "num": 126625,
+        "word": "90后准新娘婚前立遗嘱遗产归父母",
+        "onboard_time": 1712518930,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 125206,
+        "num": 125206,
+        "word": "在办公室钻戒反戴的原因",
+        "onboard_time": 1712530814,
+        "rank": 25,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 109352,
+        "num": 109352,
+        "word": "新款低端iPad或在年底前发布",
+        "onboard_time": 1712531895,
+        "rank": 26,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 105795,
+        "num": 105795,
+        "word": "伊朗高官称以色列大使馆将不再安全",
+        "onboard_time": 1712531955,
+        "rank": 27,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 103346,
+        "num": 103346,
+        "word": "中医建议女生春天多披头散发",
+        "onboard_time": 1712487918,
+        "rank": 28,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 100997,
+        "num": 100997,
+        "word": "眼泪女王",
+        "onboard_time": 1712493859,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1114670,
+        "num": 98017,
+        "word": "仝卓",
+        "onboard_time": 1712500940,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 119591,
+        "num": 97095,
+        "word": "EXO永远的彼得潘",
+        "onboard_time": 1712532615,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 94943,
+        "num": 94943,
+        "word": "以色列大规模撤军",
+        "onboard_time": 1712485518,
+        "rank": 32,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 90123,
+        "num": 90123,
+        "word": "不要随便开乡下的国道",
+        "onboard_time": 1712530814,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 89016,
+        "num": 89016,
+        "word": "金价还在涨超市上架金条遭疯抢",
+        "onboard_time": 1712497220,
+        "rank": 34,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 167546,
+        "num": 88998,
+        "word": "仝卓工作室公开讨债",
+        "onboard_time": 1712501060,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 88923,
+        "num": 88923,
+        "word": "佟丽娅带儿子在阿那亚度假",
+        "onboard_time": 1712508375,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 85366,
+        "num": 85366,
+        "word": "小米汽车回应使用特斯拉充电桩问题",
+        "onboard_time": 1712529673,
+        "rank": 37,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 83441,
+        "num": 83441,
+        "word": "TES终结面对JDG连败",
+        "onboard_time": 1712532615,
+        "rank": 38,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 79715,
+        "num": 79715,
+        "word": "女生考研被拟录取室友偷偷送惊喜",
+        "onboard_time": 1712496979,
+        "rank": 39,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 78927,
+        "num": 78927,
+        "word": "钻戒市场开始背叛爱情了",
+        "onboard_time": 1712504239,
+        "rank": 40,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 75284,
+        "num": 75284,
+        "word": "你睡得最晚的一次是在干什么",
+        "onboard_time": 1712496560,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 75102,
+        "num": 75102,
+        "word": "林更新谭松韵请叫我总监旧照",
+        "onboard_time": 1712511192,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 73055,
+        "num": 73055,
+        "word": "王阳 叔圈天菜",
+        "onboard_time": 1712499922,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 71918,
+        "num": 71918,
+        "word": "诺米好可爱",
+        "onboard_time": 1712532136,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 69189,
+        "num": 69189,
+        "word": "赵丽颖紫纱古装",
+        "onboard_time": 1712499801,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 68713,
+        "num": 68713,
+        "word": "下班以后最轻松的副业",
+        "onboard_time": 1712487438,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 65911,
+        "num": 65911,
+        "word": "大哥远 停播",
+        "onboard_time": 1712499200,
+        "rank": 47,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 60670,
+        "num": 60670,
+        "word": "追风者 十送红军",
+        "onboard_time": 1712497159,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 59373,
+        "num": 59373,
+        "word": "9.9元咖啡为何会消失",
+        "onboard_time": 1712512691,
+        "rank": 49,
+        "category": "美食"
+      }
+    ],
+    "hotgov": {
+      "word": "#必须继续做好创新这篇大文章#"
+    }
+  }
+}
