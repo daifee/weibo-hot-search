@@ -1,6 +1,6 @@
 {
   "startTime": 1712420539476,
-  "endTime": 1712482442412,
+  "endTime": 1712485013532,
   "band_list": [
     {
       "raw_hot": 3164787,
@@ -105,6 +105,22 @@
       "onboard_time": 1712466800,
       "rank": 37,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 1363992,
+      "num": 1363992,
+      "word": "去世的妈坐牢的爸破碎的他",
+      "onboard_time": 1712482218,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 1348662,
+      "num": 1348662,
+      "word": "追她呀 她旺你",
+      "onboard_time": 1712483838,
+      "rank": 3,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 1297594,
@@ -251,12 +267,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 742747,
+      "num": 742747,
+      "word": "今天星期0",
+      "onboard_time": 1712479399,
+      "rank": 14,
+      "category": "情感"
+    },
+    {
       "raw_hot": 726113,
       "num": 726113,
       "word": "赵奕欢的脖子被李菲儿掐红了",
       "onboard_time": 1712466919,
       "rank": 42,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 718756,
+      "num": 718756,
+      "word": "成都文旅还没反应过来 迪士尼建好了",
+      "onboard_time": 1712480300,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 713771,
@@ -297,14 +329,6 @@
       "onboard_time": 1712454797,
       "rank": 6,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 690089,
-      "num": 690089,
-      "word": "今天星期0",
-      "onboard_time": 1712479399,
-      "rank": 14,
-      "category": "情感"
     },
     {
       "raw_hot": 687209,
@@ -353,6 +377,14 @@
       "onboard_time": 1712450598,
       "rank": 20,
       "category": "情感"
+    },
+    {
+      "raw_hot": 638965,
+      "num": 638965,
+      "word": "王一博粉丝 不愿意就算了",
+      "onboard_time": 1712483477,
+      "rank": 10,
+      "category": "剧集"
     },
     {
       "raw_hot": 634174,
@@ -627,12 +659,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 462861,
-      "num": 462861,
-      "word": "成都文旅还没反应过来 迪士尼建好了",
-      "onboard_time": 1712480300,
-      "rank": 30,
-      "category": "幽默"
+      "raw_hot": 453772,
+      "num": 453772,
+      "word": "林更新是赵丽颖一级铁粉",
+      "onboard_time": 1712483059,
+      "rank": 14,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 426422,
@@ -697,6 +729,14 @@
       "onboard_time": 1712459059,
       "rank": 12,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 385203,
+      "num": 272549,
+      "word": "5天年假折现了6千多",
+      "onboard_time": 1712483838,
+      "rank": 20,
+      "category": "情感"
     },
     {
       "raw_hot": 382038,
@@ -947,6 +987,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 290036,
+      "num": 188849,
+      "word": "DK被零封",
+      "onboard_time": 1712483838,
+      "rank": 30,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 284356,
       "num": 284356,
       "word": "十个勤天四勤去清华",
@@ -1057,6 +1105,14 @@
       "onboard_time": 1712450840,
       "rank": 34,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 245965,
+      "num": 245965,
+      "word": "猪景房",
+      "onboard_time": 1712483180,
+      "rank": 25,
+      "category": "旅游"
     },
     {
       "raw_hot": 242658,
@@ -1243,6 +1299,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 207771,
+      "num": 188814,
+      "word": "大小周其实不是月休六天",
+      "onboard_time": 1712484439,
+      "rank": 31,
+      "category": "情感"
+    },
+    {
       "raw_hot": 206719,
       "num": 206719,
       "word": "邓超好像要碎了",
@@ -1419,6 +1483,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 191459,
+      "num": 191459,
+      "word": "椰子鸡",
+      "onboard_time": 1712483719,
+      "rank": 26,
+      "category": "美食"
+    },
+    {
       "raw_hot": 191431,
       "num": 115961,
       "word": "陈楚生演唱会含哥量",
@@ -1441,6 +1513,14 @@
       "onboard_time": 1712457557,
       "rank": 32,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 188744,
+      "num": 188744,
+      "word": "陈学冬 退哈圈",
+      "onboard_time": 1712482278,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 188679,
@@ -1491,6 +1571,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 182089,
+      "num": 182089,
+      "word": "原来全麻后真的会社死",
+      "onboard_time": 1712484021,
+      "rank": 33,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 181435,
       "num": 181435,
       "word": "于东来称强制员工去取悦顾客是不道德的",
@@ -1539,12 +1627,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 177069,
+      "num": 188929,
+      "word": "杭州南站",
+      "onboard_time": 1712482638,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 176496,
       "num": 176496,
       "word": "华为4月11日发布车和PC类产品",
       "onboard_time": 1712474838,
       "rank": 36,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 176235,
+      "num": 176235,
+      "word": "8888元一晚猪景房送6888元一头猪",
+      "onboard_time": 1712482158,
+      "rank": 43,
+      "category": "旅游"
     },
     {
       "raw_hot": 176176,
@@ -1585,14 +1689,6 @@
       "onboard_time": 1712473999,
       "rank": 48,
       "category": "演出"
-    },
-    {
-      "raw_hot": 171402,
-      "num": 171402,
-      "word": "去世的妈坐牢的爸破碎的他",
-      "onboard_time": 1712482218,
-      "rank": 34,
-      "category": "剧集"
     },
     {
       "raw_hot": 170639,
@@ -1659,14 +1755,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 162847,
-      "num": 162847,
-      "word": "陈学冬 退哈圈",
-      "onboard_time": 1712482278,
-      "rank": 35,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 162186,
       "num": 162186,
       "word": "有时候懒一点反而更健康",
@@ -1697,6 +1785,14 @@
       "onboard_time": 1712446756,
       "rank": 41,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 157778,
+      "num": 157778,
+      "word": "成龙张艺兴合影旧照",
+      "onboard_time": 1712484558,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 153823,
@@ -1827,14 +1923,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 134293,
-      "num": 134293,
-      "word": "8888元一晚猪景房送6888元一头猪",
-      "onboard_time": 1712482158,
-      "rank": 43,
-      "category": "旅游"
-    },
-    {
       "raw_hot": 133958,
       "num": 133958,
       "word": "李铁落网细节曝光",
@@ -1889,6 +1977,14 @@
       "onboard_time": 1712469558,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 131110,
+      "num": 131110,
+      "word": "当你发现新人工资比你高时",
+      "onboard_time": 1712481618,
+      "rank": 43,
+      "category": "幽默"
     },
     {
       "raw_hot": 130957,
@@ -2035,12 +2131,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 119108,
+      "num": 119108,
+      "word": "干眼症原来缺的是油不是水",
+      "onboard_time": 1712484979,
+      "rank": 46,
+      "category": "科学科普,健康医疗"
+    },
+    {
       "raw_hot": 117268,
       "num": 99714,
       "word": "刘诗诗新代言",
       "onboard_time": 1712414420,
       "rank": 44,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 115636,
+      "num": 115636,
+      "word": "王一博李沁片场日常",
+      "onboard_time": 1712484979,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 114045,
@@ -2084,7 +2196,7 @@
     },
     {
       "raw_hot": 99757,
-      "num": 1218914,
+      "num": 1350382,
       "word": "春花唤醒了人间最美的季节",
       "onboard_time": 1712476700,
       "rank": 2,
@@ -2235,6 +2347,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 54543,
+      "num": 642815,
+      "word": "吴江涛你做的好事藏不住了",
+      "onboard_time": 1712483418,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 54403,
       "num": 98594,
       "word": "普通人家庭如何报志愿",
@@ -2313,6 +2433,14 @@
       "onboard_time": 1712407758,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 37354,
+      "num": 342195,
+      "word": "腾势Z9GT在德国被围观",
+      "onboard_time": 1712483180,
+      "rank": 16,
+      "category": "汽车"
     },
     {
       "raw_hot": 35379,
