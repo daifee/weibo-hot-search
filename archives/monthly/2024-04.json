@@ -1,6 +1,6 @@
 {
   "startTime": 1711902044401,
-  "endTime": 1712493826243,
+  "endTime": 1712495993260,
   "band_list": [
     {
       "raw_hot": 16874674,
@@ -617,6 +617,14 @@
       "onboard_time": 1712220199,
       "rank": 10,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1567012,
+      "num": 1567012,
+      "word": "小米定金事件暴露了成年人的耍赖心态",
+      "onboard_time": 1712491999,
+      "rank": 17,
+      "category": "汽车"
     },
     {
       "raw_hot": 1566683,
@@ -1249,6 +1257,14 @@
       "onboard_time": 1712106266,
       "rank": 17,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1170188,
+      "num": 1170188,
+      "word": "我倒要看看25年元旦会怎么调休",
+      "onboard_time": 1712491759,
+      "rank": 10,
+      "category": "情感"
     },
     {
       "raw_hot": 1166439,
@@ -2075,14 +2091,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 845607,
-      "num": 845607,
-      "word": "我倒要看看25年元旦会怎么调休",
-      "onboard_time": 1712491759,
-      "rank": 10,
-      "category": "情感"
-    },
-    {
       "raw_hot": 844234,
       "num": 844234,
       "word": "大碗娱乐发声明",
@@ -2113,6 +2121,14 @@
       "onboard_time": 1712329340,
       "rank": 37,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 832744,
+      "num": 832744,
+      "word": "TES零封JDG",
+      "onboard_time": 1712495479,
+      "rank": 5,
+      "category": "电竞"
     },
     {
       "raw_hot": 831411,
@@ -2891,14 +2907,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 680934,
-      "num": 680934,
-      "word": "小米定金事件暴露了成年人的耍赖心态",
-      "onboard_time": 1712491999,
-      "rank": 17,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 680667,
       "num": 680667,
       "word": "HYBE是不是疯了",
@@ -3315,6 +3323,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 637505,
+      "num": 637505,
+      "word": "差点忘了林更新跟胡歌刘诗诗是同一批的",
+      "onboard_time": 1712490378,
+      "rank": 6,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 637024,
       "num": 637024,
       "word": "向太陈岚称向佐曾遭遇校园霸凌",
@@ -3353,6 +3369,14 @@
       "onboard_time": 1712103453,
       "rank": 18,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 631544,
+      "num": 631544,
+      "word": "1L康师傅冰红茶涨到5元",
+      "onboard_time": 1712493258,
+      "rank": 31,
+      "category": "美食"
     },
     {
       "raw_hot": 628835,
@@ -3963,6 +3987,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 570268,
+      "num": 337409,
+      "word": "23岁没谈过恋爱正常吗",
+      "onboard_time": 1712492598,
+      "rank": 40,
+      "category": "情感"
+    },
+    {
       "raw_hot": 570264,
       "num": 570264,
       "word": "只有教师才懂教师的心酸",
@@ -4041,14 +4073,6 @@
       "onboard_time": 1712307378,
       "rank": 20,
       "category": "情感"
-    },
-    {
-      "raw_hot": 562029,
-      "num": 562029,
-      "word": "差点忘了林更新跟胡歌刘诗诗是同一批的",
-      "onboard_time": 1712490378,
-      "rank": 6,
-      "category": "综艺"
     },
     {
       "raw_hot": 562019,
@@ -4217,6 +4241,14 @@
       "onboard_time": 1711897940,
       "rank": 14,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 542628,
+      "num": 542628,
+      "word": "眼泪女王",
+      "onboard_time": 1711891159,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 542415,
@@ -5044,7 +5076,7 @@
     },
     {
       "raw_hot": 472951,
-      "num": 291736,
+      "num": 334827,
       "word": "中医建议女生春天多披头散发",
       "onboard_time": 1712487918,
       "rank": 20,
@@ -5155,6 +5187,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 461035,
+      "num": 461035,
+      "word": "追风者结局",
+      "onboard_time": 1712491219,
+      "rank": 11,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 460847,
       "num": 460847,
       "word": "前有王传君拜佛 后有王劲松上香",
@@ -5248,14 +5288,6 @@
       "word": "林更新下次想演赵丽颖",
       "onboard_time": 1712151322,
       "rank": 23,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 454506,
-      "num": 454506,
-      "word": "追风者结局",
-      "onboard_time": 1712491219,
-      "rank": 11,
       "category": "剧集"
     },
     {
@@ -5600,14 +5632,6 @@
       "word": "于正说白鹿推荐的曾舜晞",
       "onboard_time": 1712133800,
       "rank": 18,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 429056,
-      "num": 429056,
-      "word": "眼泪女王",
-      "onboard_time": 1711891159,
-      "rank": 26,
       "category": "剧集"
     },
     {
@@ -6011,6 +6035,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 405504,
+      "num": 405504,
+      "word": "TES对战JDG",
+      "onboard_time": 1712485100,
+      "rank": 34,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 405441,
       "num": 405441,
       "word": "龚俊工作室",
@@ -6225,14 +6257,6 @@
       "onboard_time": 1712492899,
       "rank": 26,
       "category": "艺人,作品衍生"
-    },
-    {
-      "raw_hot": 390838,
-      "num": 258816,
-      "word": "23岁没谈过恋爱正常吗",
-      "onboard_time": 1712492598,
-      "rank": 40,
-      "category": "情感"
     },
     {
       "raw_hot": 390697,
@@ -7139,6 +7163,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 337048,
+      "num": 337048,
+      "word": "赵丽颖戴在人间口罩",
+      "onboard_time": 1712493137,
+      "rank": 15,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 336642,
       "num": 336642,
       "word": "沈璃事后不认账",
@@ -7412,7 +7444,7 @@
     },
     {
       "raw_hot": 321412,
-      "num": 248802,
+      "num": 260934,
       "word": "订婚时三金里面的手镯被偷了",
       "onboard_time": 1712492359,
       "rank": 30,
@@ -7489,6 +7521,14 @@
       "onboard_time": 1712311519,
       "rank": 30,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 316443,
+      "num": 316443,
+      "word": "宫崎骏 再见了我的朋友",
+      "onboard_time": 1712494819,
+      "rank": 23,
+      "category": "电影"
     },
     {
       "raw_hot": 316342,
@@ -7579,14 +7619,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 312716,
-      "num": 312716,
-      "word": "赵丽颖戴在人间口罩",
-      "onboard_time": 1712493137,
-      "rank": 15,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 312313,
       "num": 312313,
       "word": "王一博硬控直播三分钟",
@@ -7649,6 +7681,14 @@
       "onboard_time": 1712120483,
       "rank": 28,
       "category": "互联网,汽车"
+    },
+    {
+      "raw_hot": 308833,
+      "num": 287397,
+      "word": "赵丽颖工作室玩梗沈璃",
+      "onboard_time": 1712495359,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 308755,
@@ -8457,6 +8497,14 @@
       "onboard_time": 1711986319,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 277757,
+      "num": 227955,
+      "word": "赵丽颖360度无死角",
+      "onboard_time": 1712494760,
+      "rank": 31,
+      "category": "剧集"
     },
     {
       "raw_hot": 277748,
@@ -10035,6 +10083,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 229352,
+      "num": 229352,
+      "word": "追风者黄秘书下线",
+      "onboard_time": 1712494999,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 229122,
       "num": 229122,
       "word": "汕头震感",
@@ -10164,7 +10220,7 @@
     },
     {
       "raw_hot": 226847,
-      "num": 539748,
+      "num": 577883,
       "word": "河南省考成绩出之前我的心情belike",
       "onboard_time": 1712490198,
       "rank": 9,
@@ -10449,14 +10505,6 @@
       "onboard_time": 1712242039,
       "rank": 32,
       "category": "情感"
-    },
-    {
-      "raw_hot": 219984,
-      "num": 219984,
-      "word": "TES对战JDG",
-      "onboard_time": 1712485100,
-      "rank": 34,
-      "category": "电竞"
     },
     {
       "raw_hot": 219906,
@@ -10748,7 +10796,7 @@
     },
     {
       "raw_hot": 214553,
-      "num": 214553,
+      "num": 229792,
       "word": "教授建议小学低年级免去考试和成绩",
       "onboard_time": 1712487258,
       "rank": 27,
@@ -13035,14 +13083,6 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 184425,
-      "num": 184425,
-      "word": "1L康师傅冰红茶涨到5元",
-      "onboard_time": 1712493258,
-      "rank": 31,
-      "category": "美食"
-    },
-    {
       "raw_hot": 184386,
       "num": 184386,
       "word": "哥斯拉",
@@ -13073,6 +13113,14 @@
       "onboard_time": 1712030241,
       "rank": 32,
       "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 183969,
+      "num": 232301,
+      "word": "日本名将说和国乒技术差距没那么大",
+      "onboard_time": 1712494338,
+      "rank": 28,
+      "category": "体育"
     },
     {
       "raw_hot": 183920,
@@ -13147,6 +13195,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 182877,
+      "num": 182877,
+      "word": "原来蔡徐坤的腰伤朋友就是赵品霖",
+      "onboard_time": 1712495838,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 182841,
       "num": 182841,
       "word": "为什么感觉自己总是留不住朋友",
@@ -13185,6 +13241,14 @@
       "onboard_time": 1711944383,
       "rank": 45,
       "category": "数码"
+    },
+    {
+      "raw_hot": 182596,
+      "num": 182596,
+      "word": "我打宿傩",
+      "onboard_time": 1712493379,
+      "rank": 42,
+      "category": "动漫"
     },
     {
       "raw_hot": 182513,
@@ -13601,6 +13665,14 @@
       "onboard_time": 1712447536,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 176114,
+      "num": 176114,
+      "word": "李莲花 月影皓白",
+      "onboard_time": 1712495599,
+      "rank": 42,
+      "category": "动漫"
     },
     {
       "raw_hot": 175887,
@@ -14059,6 +14131,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 168978,
+      "num": 168978,
+      "word": "手术直播间 咖啡过量小心肾衰竭",
+      "onboard_time": 1712494098,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 168938,
       "num": 168938,
       "word": "黄旭熙晒与粉丝大合照",
@@ -14321,14 +14401,6 @@
       "onboard_time": 1712210478,
       "rank": 35,
       "category": "电影"
-    },
-    {
-      "raw_hot": 164310,
-      "num": 164310,
-      "word": "我打宿傩",
-      "onboard_time": 1712493379,
-      "rank": 42,
-      "category": "动漫"
     },
     {
       "raw_hot": 164258,
@@ -18347,6 +18419,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 89123,
+      "num": 157052,
+      "word": "关于民法典婚姻家庭编公开征求意见",
+      "onboard_time": 1712493438,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 88826,
       "num": 88826,
       "word": "新疆17岁小伙要追赶苏炳添",
@@ -18377,14 +18457,6 @@
       "onboard_time": 1712444773,
       "rank": 36,
       "category": "演出"
-    },
-    {
-      "raw_hot": 84612,
-      "num": 125119,
-      "word": "关于民法典婚姻家庭编公开征求意见",
-      "onboard_time": 1712493438,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 84099,
@@ -19577,6 +19649,14 @@
       "onboard_time": 1712300236,
       "rank": 38,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 7094,
+      "num": 1078611,
+      "word": "文旅消费如何从开门红走向长红",
+      "onboard_time": 1712495958,
+      "rank": 2,
+      "category": "社会新闻"
     }
   ],
   "hotgov_list": [

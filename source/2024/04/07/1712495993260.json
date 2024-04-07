@@ -1,0 +1,410 @@
+{
+  "runTime": 1712495993260,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1567012,
+        "num": 1567012,
+        "word": "小米定金事件暴露了成年人的耍赖心态",
+        "onboard_time": 1712491999,
+        "rank": 0,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 1170188,
+        "num": 1170188,
+        "word": "我倒要看看25年元旦会怎么调休",
+        "onboard_time": 1712491759,
+        "rank": 1,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 7094,
+        "num": 1078611,
+        "word": "文旅消费如何从开门红走向长红",
+        "onboard_time": 1712495958,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1072485,
+        "num": 1072485,
+        "word": "谢帝",
+        "onboard_time": 1712489539,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 963347,
+        "num": 963347,
+        "word": "追她呀 她旺你",
+        "onboard_time": 1712483838,
+        "rank": 4,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 832744,
+        "num": 832744,
+        "word": "TES零封JDG",
+        "onboard_time": 1712495479,
+        "rank": 5,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 637505,
+        "num": 637505,
+        "word": "差点忘了林更新跟胡歌刘诗诗是同一批的",
+        "onboard_time": 1712490378,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 373709,
+        "num": 633789,
+        "word": "以色列大规模撤军",
+        "onboard_time": 1712485518,
+        "rank": 7,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 631544,
+        "num": 631544,
+        "word": "1L康师傅冰红茶涨到5元",
+        "onboard_time": 1712493258,
+        "rank": 8,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 154343,
+        "num": 577883,
+        "word": "河南省考成绩出之前我的心情belike",
+        "onboard_time": 1712490198,
+        "rank": 9,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 64286,
+        "num": 554352,
+        "word": "海南首个卫星超级工厂项目加快推动",
+        "onboard_time": 1712476579,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 553931,
+        "num": 553931,
+        "word": "下班以后最轻松的副业",
+        "onboard_time": 1712487438,
+        "rank": 11,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 542628,
+        "num": 542628,
+        "word": "眼泪女王",
+        "onboard_time": 1712493859,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 479429,
+        "num": 479429,
+        "word": "陈学冬 不会退圈死心吧",
+        "onboard_time": 1712479278,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 473091,
+        "num": 473091,
+        "word": "去世的妈坐牢的爸破碎的他",
+        "onboard_time": 1712482218,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 461035,
+        "num": 461035,
+        "word": "追风者结局",
+        "onboard_time": 1712491219,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 405504,
+        "num": 405504,
+        "word": "TES对战JDG",
+        "onboard_time": 1712485100,
+        "rank": 16,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 382367,
+        "num": 382367,
+        "word": "女性的小肚子是为了保护子宫卵巢",
+        "onboard_time": 1712473999,
+        "rank": 17,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 345152,
+        "num": 345152,
+        "word": "第一批去埃及旅行的人快被骗到裸奔了",
+        "onboard_time": 1712476038,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 222401,
+        "num": 337430,
+        "word": "想当行长继承家产男孩父亲确为行长",
+        "onboard_time": 1712469258,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 570268,
+        "num": 337409,
+        "word": "23岁没谈过恋爱正常吗",
+        "onboard_time": 1712492598,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 337048,
+        "num": 337048,
+        "word": "赵丽颖戴在人间口罩",
+        "onboard_time": 1712493137,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 334827,
+        "num": 334827,
+        "word": "中医建议女生春天多披头散发",
+        "onboard_time": 1712487918,
+        "rank": 22,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 316443,
+        "num": 316443,
+        "word": "宫崎骏 再见了我的朋友",
+        "onboard_time": 1712494819,
+        "rank": 23,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 290609,
+        "num": 290609,
+        "word": "肖战长发侧颜库存",
+        "onboard_time": 1712492899,
+        "rank": 24,
+        "category": "艺人,作品衍生"
+      },
+      {
+        "raw_hot": 289848,
+        "num": 289848,
+        "word": "王一博粉丝 不愿意就算了",
+        "onboard_time": 1712483477,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 308833,
+        "num": 287397,
+        "word": "赵丽颖工作室玩梗沈璃",
+        "onboard_time": 1712495359,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 260934,
+        "num": 260934,
+        "word": "订婚时三金里面的手镯被偷了",
+        "onboard_time": 1712492359,
+        "rank": 27,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 183969,
+        "num": 232301,
+        "word": "日本名将说和国乒技术差距没那么大",
+        "onboard_time": 1712494338,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 136840,
+        "num": 229792,
+        "word": "教授建议小学低年级免去考试和成绩",
+        "onboard_time": 1712487258,
+        "rank": 29,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 229352,
+        "num": 229352,
+        "word": "追风者黄秘书下线",
+        "onboard_time": 1712494999,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 277757,
+        "num": 227955,
+        "word": "赵丽颖360度无死角",
+        "onboard_time": 1712494760,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 223068,
+        "num": 223068,
+        "word": "眼泪女王 超前点播",
+        "onboard_time": 1712487198,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 222884,
+        "num": 222884,
+        "word": "成都文旅还没反应过来 迪士尼建好了",
+        "onboard_time": 1712480300,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 219554,
+        "num": 219554,
+        "word": "林更新 我一人可抵千军万马",
+        "onboard_time": 1712485278,
+        "rank": 34,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 203929,
+        "num": 203929,
+        "word": "高铁会惩罚每个苹果用户",
+        "onboard_time": 1712475618,
+        "rank": 35,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 187046,
+        "num": 187046,
+        "word": "成龙称心里会惊讶已经70岁",
+        "onboard_time": 1712492178,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 184675,
+        "num": 184675,
+        "word": "5天年假折现了6千多",
+        "onboard_time": 1712483838,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 184503,
+        "num": 184503,
+        "word": "午睡超1小时死亡风险增加30%",
+        "onboard_time": 1712466800,
+        "rank": 38,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 110134,
+        "num": 183097,
+        "word": "江苏致4死火灾事故宣判4人被追刑责",
+        "onboard_time": 1712491759,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 182877,
+        "num": 182877,
+        "word": "原来蔡徐坤的腰伤朋友就是赵品霖",
+        "onboard_time": 1712495838,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 182596,
+        "num": 182596,
+        "word": "我打宿傩",
+        "onboard_time": 1712493379,
+        "rank": 41,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 176114,
+        "num": 176114,
+        "word": "李莲花 月影皓白",
+        "onboard_time": 1712495599,
+        "rank": 42,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 172379,
+        "num": 172379,
+        "word": "追风者",
+        "onboard_time": 1712491037,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 168978,
+        "num": 168978,
+        "word": "手术直播间 咖啡过量小心肾衰竭",
+        "onboard_time": 1712494098,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 167113,
+        "num": 167113,
+        "word": "小萌兰帮奶爸收猫全过程",
+        "onboard_time": 1712493499,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 166346,
+        "num": 166346,
+        "word": "干眼症原来缺的是油不是水",
+        "onboard_time": 1712484979,
+        "rank": 46,
+        "category": "科学科普,健康医疗"
+      },
+      {
+        "raw_hot": 158097,
+        "num": 158097,
+        "word": "网恋男约我出去旅游说订双床房",
+        "onboard_time": 1712491878,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 89123,
+        "num": 157052,
+        "word": "关于民法典婚姻家庭编公开征求意见",
+        "onboard_time": 1712493438,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 82335,
+        "num": 156514,
+        "word": "新疆拜城5.4级地震",
+        "onboard_time": 1712480719,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#推进城乡环境整治完善公共卫生设施#"
+    }
+  }
+}
