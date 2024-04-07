@@ -1,0 +1,410 @@
+{
+  "runTime": 1712478176803,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1389511,
+        "num": 1389511,
+        "word": "想当行长继承家产男孩父亲确为行长",
+        "onboard_time": 1712469258,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 961022,
+        "num": 961022,
+        "word": "库迪咖啡创始人被强执",
+        "onboard_time": 1712470219,
+        "rank": 1,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 99757,
+        "num": 846919,
+        "word": "春花唤醒了人间最美的季节",
+        "onboard_time": 1712476700,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1618306,
+        "num": 846869,
+        "word": "女性的小肚子是为了保护子宫卵巢",
+        "onboard_time": 1712473999,
+        "rank": 3,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 1216728,
+        "num": 846210,
+        "word": "上个破班而已别把自己搭进去",
+        "onboard_time": 1712475738,
+        "rank": 4,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 843668,
+        "num": 843668,
+        "word": "第一批去埃及旅行的人快被骗到裸奔了",
+        "onboard_time": 1712476038,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 660287,
+        "num": 660287,
+        "word": "调休",
+        "onboard_time": 1712450539,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 634473,
+        "num": 634473,
+        "word": "刘昊然 回春",
+        "onboard_time": 1712472078,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 631174,
+        "num": 631174,
+        "word": "陈学冬",
+        "onboard_time": 1712472918,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 189723,
+        "num": 432544,
+        "word": "22岁的我已经和癌症斗了3000天",
+        "onboard_time": 1712458456,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 405441,
+        "num": 405441,
+        "word": "龚俊工作室",
+        "onboard_time": 1712474899,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 398535,
+        "num": 398535,
+        "word": "部分地区聘用制公务员待遇被降",
+        "onboard_time": 1712471658,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 383777,
+        "num": 383777,
+        "word": "专家建议允许不合适的公务员辞职",
+        "onboard_time": 1712461279,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 374687,
+        "num": 374687,
+        "word": "林更新林允儿古装旧照",
+        "onboard_time": 1712468117,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 362590,
+        "num": 362590,
+        "word": "十个勤天hi6收视率",
+        "onboard_time": 1712472858,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 347109,
+        "num": 347109,
+        "word": "王一博 吃播",
+        "onboard_time": 1712476458,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 341309,
+        "num": 341309,
+        "word": "成龙发文庆祝70岁生日",
+        "onboard_time": 1712470278,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 340811,
+        "num": 340811,
+        "word": "成都迪士尼只有一个项目",
+        "onboard_time": 1712473579,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 327567,
+        "num": 327567,
+        "word": "苹果客服回应iPhone闹钟不会识别调休",
+        "onboard_time": 1712476878,
+        "rank": 18,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 276187,
+        "num": 276187,
+        "word": "蒋胜男发文说赵丽颖粉丝戏多",
+        "onboard_time": 1712456597,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 761884,
+        "num": 264191,
+        "word": "午睡超1小时死亡风险增加30%",
+        "onboard_time": 1712466800,
+        "rank": 20,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 575219,
+        "num": 255926,
+        "word": "高铁会惩罚每个苹果用户",
+        "onboard_time": 1712475618,
+        "rank": 21,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 399116,
+        "num": 253968,
+        "word": "中五千万你会立刻离职吗",
+        "onboard_time": 1712476399,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 244624,
+        "num": 244624,
+        "word": "赵奕欢的脖子被李菲儿掐红了",
+        "onboard_time": 1712466919,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 242029,
+        "num": 242029,
+        "word": "女子投诉小米SU7未交付掉漆",
+        "onboard_time": 1712477418,
+        "rank": 24,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 240751,
+        "num": 240751,
+        "word": "减肥期间能代替奶茶的饮料",
+        "onboard_time": 1712475918,
+        "rank": 25,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 226618,
+        "num": 226618,
+        "word": "突然明白相亲和自由恋爱的区别",
+        "onboard_time": 1712474539,
+        "rank": 26,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 225665,
+        "num": 225665,
+        "word": "日式快餐失宠了",
+        "onboard_time": 1712475557,
+        "rank": 27,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 205419,
+        "num": 205419,
+        "word": "徐海乔问怎么从前夫哥变岳父大人了",
+        "onboard_time": 1712468359,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 198183,
+        "num": 198183,
+        "word": "想当行长男孩父亲所在支行回应",
+        "onboard_time": 1712470579,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 194774,
+        "num": 194774,
+        "word": "十个勤天四勤去清华",
+        "onboard_time": 1712477720,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 188671,
+        "num": 188671,
+        "word": "韩素希柳俊烈不出演新剧魅惑",
+        "onboard_time": 1712469618,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 183754,
+        "num": 183754,
+        "word": "这个清明119000000人次出游",
+        "onboard_time": 1712460018,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 182650,
+        "num": 182650,
+        "word": "王一博琼瑶女主式哭",
+        "onboard_time": 1712469919,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 177874,
+        "num": 177874,
+        "word": "刘诗诗林更新比耶旧照",
+        "onboard_time": 1712476998,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 176496,
+        "num": 176496,
+        "word": "华为4月11日发布车和PC类产品",
+        "onboard_time": 1712474838,
+        "rank": 35,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 174624,
+        "num": 174624,
+        "word": "邓超好像要碎了",
+        "onboard_time": 1712475019,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 173194,
+        "num": 173194,
+        "word": "小米回应SU7未交付掉漆被投诉",
+        "onboard_time": 1712477119,
+        "rank": 37,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 168714,
+        "num": 168714,
+        "word": "黄景瑜 自然到像和同事打招呼",
+        "onboard_time": 1712477418,
+        "rank": 38,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 166106,
+        "num": 166106,
+        "word": "babymonster直播",
+        "onboard_time": 1712474358,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 145027,
+        "num": 145027,
+        "word": "读研和稳定的工作怎么选",
+        "onboard_time": 1712474899,
+        "rank": 40,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 138156,
+        "num": 138156,
+        "word": "终于等到Cat的庄周cos",
+        "onboard_time": 1712475858,
+        "rank": 41,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 134067,
+        "num": 134067,
+        "word": "其实圈子里只有我们两个",
+        "onboard_time": 1712468779,
+        "rank": 42,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 133769,
+        "num": 133769,
+        "word": "王鹤棣自己开跑车",
+        "onboard_time": 1712463080,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 131733,
+        "num": 131733,
+        "word": "我被困在春天一年又一年",
+        "onboard_time": 1712477900,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 130966,
+        "num": 130966,
+        "word": "甲状腺癌究竟是幸福癌还是流行病",
+        "onboard_time": 1712469018,
+        "rank": 45,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 127420,
+        "num": 127420,
+        "word": "国足对阵泰国生死战时间地点确定",
+        "onboard_time": 1712477720,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 126284,
+        "num": 126284,
+        "word": "与凤行 平行时空琉羽",
+        "onboard_time": 1712474119,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 125109,
+        "num": 125109,
+        "word": "鹌鹑蛋带皮吃很奇怪吗",
+        "onboard_time": 1712476038,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 123363,
+        "num": 123363,
+        "word": "承欢记女主撞见未来公公出轨",
+        "onboard_time": 1712478139,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#家国永念致敬英雄#"
+    }
+  }
+}
