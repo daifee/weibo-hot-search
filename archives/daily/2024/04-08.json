@@ -1,6 +1,6 @@
 {
   "startTime": 1712506792576,
-  "endTime": 1712529246167,
+  "endTime": 1712531898110,
   "band_list": [
     {
       "raw_hot": 1788973,
@@ -25,6 +25,22 @@
       "onboard_time": 1712501181,
       "rank": 1,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 681063,
+      "num": 681063,
+      "word": "被卷入超市扶梯女子丈夫发声",
+      "onboard_time": 1712525890,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 634530,
+      "num": 634530,
+      "word": "男子试驾劳斯莱斯获销售鼓励打动网友",
+      "onboard_time": 1712512333,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 552399,
@@ -83,20 +99,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 322872,
+      "num": 322872,
+      "word": "第一批去埃及旅行的人快被骗到裸奔了",
+      "onboard_time": 1712476038,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 296558,
       "num": 296558,
       "word": "大哥远 停播",
       "onboard_time": 1712499200,
       "rank": 11,
       "category": "网红"
-    },
-    {
-      "raw_hot": 275705,
-      "num": 275705,
-      "word": "第一批去埃及旅行的人快被骗到裸奔了",
-      "onboard_time": 1712476038,
-      "rank": 13,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 272361,
@@ -131,28 +147,12 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 254239,
-      "num": 62499,
-      "word": "被卷入超市扶梯女子丈夫发声",
-      "onboard_time": 1712525890,
-      "rank": 10,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 252863,
       "num": 252863,
       "word": "王阳 叔圈天菜",
       "onboard_time": 1712499922,
       "rank": 15,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 234773,
-      "num": 234773,
-      "word": "男子试驾劳斯莱斯获销售鼓励打动网友",
-      "onboard_time": 1712512333,
-      "rank": 28,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 229311,
@@ -219,6 +219,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 158982,
+      "num": 158982,
+      "word": "与凤行结局吻戏是加的",
+      "onboard_time": 1712520490,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 156274,
       "num": 156274,
       "word": "23岁没谈过恋爱正常吗",
@@ -257,6 +265,14 @@
       "onboard_time": 1712499500,
       "rank": 30,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 143817,
+      "num": 143817,
+      "word": "范志毅出任辽宁铁人主帅",
+      "onboard_time": 1712531174,
+      "rank": 10,
+      "category": "体育"
     },
     {
       "raw_hot": 141732,
@@ -299,12 +315,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 129360,
+      "num": 129360,
+      "word": "EXO出道12周年",
+      "onboard_time": 1712531294,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 128790,
       "num": 128790,
       "word": "赵露思素颜睡衣照",
       "onboard_time": 1712505558,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 128727,
+      "num": 96663,
+      "word": "这样睡觉大大增加糖尿病风险",
+      "onboard_time": 1712508316,
+      "rank": 22,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 128360,
@@ -321,6 +353,22 @@
       "onboard_time": 1712489539,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 124041,
+      "num": 82204,
+      "word": "甲状腺癌增多可能和过度诊断有关",
+      "onboard_time": 1712531174,
+      "rank": 23,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 123477,
+      "num": 123477,
+      "word": "瓶装酒里的梨是怎么放进去的",
+      "onboard_time": 1712524330,
+      "rank": 49,
+      "category": "美食"
     },
     {
       "raw_hot": 122933,
@@ -347,12 +395,28 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 115059,
-      "num": 96663,
-      "word": "这样睡觉大大增加糖尿病风险",
-      "onboard_time": 1712508316,
-      "rank": 22,
-      "category": "健康医疗"
+      "raw_hot": 107300,
+      "num": 107300,
+      "word": "今年唯一一次日全食即将上演",
+      "onboard_time": 1712522829,
+      "rank": 40,
+      "category": "科学科普"
+    },
+    {
+      "raw_hot": 104483,
+      "num": 104483,
+      "word": "应采儿说Jasper是脏儿子",
+      "onboard_time": 1712521990,
+      "rank": 49,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 102697,
+      "num": 81380,
+      "word": "90后准新娘婚前立遗嘱遗产归父母",
+      "onboard_time": 1712518930,
+      "rank": 25,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 102388,
@@ -435,7 +499,7 @@
       "category": "体育"
     },
     {
-      "raw_hot": 76310,
+      "raw_hot": 80230,
       "num": 82087,
       "word": "金价还在涨超市上架金条遭疯抢",
       "onboard_time": 1712497220,
@@ -443,12 +507,36 @@
       "category": "财经"
     },
     {
-      "raw_hot": 62993,
-      "num": 62993,
-      "word": "应采儿说Jasper是脏儿子",
-      "onboard_time": 1712521990,
-      "rank": 49,
-      "category": "综艺"
+      "raw_hot": 79329,
+      "num": 79329,
+      "word": "在办公室钻戒反戴的原因",
+      "onboard_time": 1712530814,
+      "rank": 28,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 71884,
+      "num": 71884,
+      "word": "小米汽车回应使用特斯拉充电桩问题",
+      "onboard_time": 1712529673,
+      "rank": 31,
+      "category": "汽车"
+    },
+    {
+      "raw_hot": 67131,
+      "num": 67131,
+      "word": "李多寅晒女儿脚丫照",
+      "onboard_time": 1712528353,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 58806,
+      "num": 58806,
+      "word": "不要随便开乡下的国道",
+      "onboard_time": 1712530814,
+      "rank": 38,
+      "category": "幽默"
     },
     {
       "raw_hot": 58761,
@@ -456,14 +544,6 @@
       "word": "与凤行壁纸",
       "onboard_time": 1712509393,
       "rank": 38,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 55727,
-      "num": 55727,
-      "word": "与凤行结局吻戏是加的",
-      "onboard_time": 1712520490,
-      "rank": 39,
       "category": "剧集"
     },
     {
@@ -476,43 +556,19 @@
     },
     {
       "raw_hot": 53953,
-      "num": 45797,
+      "num": 49125,
       "word": "林更新谭松韵请叫我总监旧照",
       "onboard_time": 1712511192,
       "rank": 47,
       "category": "剧集"
     },
     {
-      "raw_hot": 51323,
-      "num": 51323,
-      "word": "今年唯一一次日全食即将上演",
-      "onboard_time": 1712522829,
-      "rank": 40,
-      "category": "科学科普"
-    },
-    {
-      "raw_hot": 50965,
-      "num": 50965,
+      "raw_hot": 51057,
+      "num": 51057,
       "word": "9.9元咖啡为何会消失",
       "onboard_time": 1712512691,
       "rank": 38,
       "category": "美食"
-    },
-    {
-      "raw_hot": 44248,
-      "num": 44248,
-      "word": "瓶装酒里的梨是怎么放进去的",
-      "onboard_time": 1712524330,
-      "rank": 49,
-      "category": "美食"
-    },
-    {
-      "raw_hot": 44138,
-      "num": 36311,
-      "word": "90后准新娘婚前立遗嘱遗产归父母",
-      "onboard_time": 1712518930,
-      "rank": 25,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 43971,
@@ -523,12 +579,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 29691,
-      "num": 29691,
-      "word": "李多寅晒女儿脚丫照",
-      "onboard_time": 1712528353,
-      "rank": 36,
-      "category": "艺人"
+      "raw_hot": 39691,
+      "num": 39691,
+      "word": "方便面真的没有营养吗",
+      "onboard_time": 1712525351,
+      "rank": 49,
+      "category": "美食"
     },
     {
       "raw_hot": 29562,
@@ -537,14 +593,6 @@
       "onboard_time": 1712491037,
       "rank": 41,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 25770,
-      "num": 25770,
-      "word": "方便面真的没有营养吗",
-      "onboard_time": 1712525351,
-      "rank": 49,
-      "category": "美食"
     },
     {
       "raw_hot": 22270,
