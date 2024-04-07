@@ -1,6 +1,6 @@
 {
   "startTime": 1712420539476,
-  "endTime": 1712511253740,
+  "endTime": 1712514031180,
   "band_list": [
     {
       "raw_hot": 4232521,
@@ -3275,12 +3275,28 @@
       "category": "教育"
     },
     {
+      "raw_hot": 53953,
+      "num": 45797,
+      "word": "林更新谭松韵请叫我总监旧照",
+      "onboard_time": 1712511192,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 53394,
       "num": 331192,
       "word": "杨幂科技感大片",
       "onboard_time": 1712461758,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 53372,
+      "num": 45786,
+      "word": "那些熬过的夜再也补不回来了",
+      "onboard_time": 1712512091,
+      "rank": 24,
+      "category": "科学科普,健康医疗"
     },
     {
       "raw_hot": 50366,
@@ -3313,6 +3329,14 @@
       "onboard_time": 1712398757,
       "rank": 48,
       "category": "教育"
+    },
+    {
+      "raw_hot": 45619,
+      "num": 45619,
+      "word": "男子试驾劳斯莱斯获销售鼓励打动网友",
+      "onboard_time": 1712512333,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 43971,
@@ -3363,20 +3387,20 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 36846,
-      "num": 36846,
-      "word": "林更新谭松韵请叫我总监旧照",
-      "onboard_time": 1712511192,
-      "rank": 47,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 35379,
       "num": 35379,
       "word": "电视剧品质盛典",
       "onboard_time": 1712437750,
       "rank": 43,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 33189,
+      "num": 33189,
+      "word": "9.9元咖啡为何会消失",
+      "onboard_time": 1712512691,
+      "rank": 38,
+      "category": "美食"
     },
     {
       "raw_hot": 30026,
