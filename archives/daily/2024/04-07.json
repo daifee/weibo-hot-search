@@ -1,6 +1,6 @@
 {
   "startTime": 1712420539476,
-  "endTime": 1712471654835,
+  "endTime": 1712474120341,
   "band_list": [
     {
       "raw_hot": 3164787,
@@ -49,6 +49,14 @@
       "onboard_time": 1712461279,
       "rank": 5,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1470798,
+      "num": 1470798,
+      "word": "库迪咖啡创始人被强执",
+      "onboard_time": 1712470219,
+      "rank": 15,
+      "category": "美食"
     },
     {
       "raw_hot": 1440174,
@@ -115,12 +123,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 984524,
-      "num": 984524,
-      "word": "库迪咖啡创始人被强执",
-      "onboard_time": 1712470219,
-      "rank": 15,
-      "category": "美食"
+      "raw_hot": 939826,
+      "num": 939826,
+      "word": "刘昊然 回春",
+      "onboard_time": 1712472078,
+      "rank": 3,
+      "category": "艺人"
     },
     {
       "raw_hot": 927296,
@@ -137,6 +145,14 @@
       "onboard_time": 1712460018,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 910572,
+      "num": 910572,
+      "word": "小米SU7被曝设计缺陷",
+      "onboard_time": 1712471058,
+      "rank": 18,
+      "category": "汽车"
     },
     {
       "raw_hot": 871912,
@@ -161,6 +177,14 @@
       "onboard_time": 1712446936,
       "rank": 5,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 726723,
+      "num": 726723,
+      "word": "成龙发文庆祝70岁生日",
+      "onboard_time": 1712470278,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 726113,
@@ -339,6 +363,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 567051,
+      "num": 567051,
+      "word": "部分地区聘用制公务员待遇被降",
+      "onboard_time": 1712471658,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 551246,
       "num": 551246,
       "word": "赵奕欢被李菲儿逼哭",
@@ -385,14 +417,6 @@
       "onboard_time": 1712411658,
       "rank": 38,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 504692,
-      "num": 477328,
-      "word": "成龙发文庆祝70岁生日",
-      "onboard_time": 1712470278,
-      "rank": 32,
-      "category": "艺人"
     },
     {
       "raw_hot": 503550,
@@ -459,6 +483,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 481312,
+      "num": 481312,
+      "word": "其实圈子里只有我们两个",
+      "onboard_time": 1712468779,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 476556,
       "num": 476556,
       "word": "手术直播间 看完不敢涂口红",
@@ -507,6 +539,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 417534,
+      "num": 417534,
+      "word": "想当行长男孩父亲所在支行回应",
+      "onboard_time": 1712470579,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 415828,
       "num": 415828,
       "word": "CUBE男经纪人骚扰minnie",
@@ -515,20 +555,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 412773,
-      "num": 408965,
-      "word": "其实圈子里只有我们两个",
-      "onboard_time": 1712468779,
-      "rank": 30,
-      "category": "情感"
-    },
-    {
       "raw_hot": 397212,
       "num": 397212,
       "word": "电视剧迎风官宣阵容",
       "onboard_time": 1712459059,
       "rank": 12,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 383354,
+      "num": 383354,
+      "word": "十个勤天hi6收视率",
+      "onboard_time": 1712472858,
+      "rank": 14,
+      "category": "综艺"
     },
     {
       "raw_hot": 381378,
@@ -553,6 +593,14 @@
       "onboard_time": 1712468117,
       "rank": 12,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 372804,
+      "num": 372804,
+      "word": "陈学冬",
+      "onboard_time": 1712472918,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 372174,
@@ -675,28 +723,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 310842,
-      "num": 220617,
-      "word": "想当行长男孩父亲所在支行回应",
-      "onboard_time": 1712470579,
-      "rank": 47,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 307275,
       "num": 307275,
       "word": "光与夜之恋",
       "onboard_time": 1712464700,
       "rank": 23,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 306933,
-      "num": 306933,
-      "word": "小米SU7被曝设计缺陷",
-      "onboard_time": 1712471058,
-      "rank": 18,
-      "category": "汽车"
     },
     {
       "raw_hot": 305220,
@@ -763,12 +795,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 293256,
+      "num": 184689,
+      "word": "女性的小肚子是为了保护子宫卵巢",
+      "onboard_time": 1712473999,
+      "rank": 30,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 283154,
       "num": 259157,
       "word": "17级以前的大学生才是最幸福的",
       "onboard_time": 1712457617,
       "rank": 22,
       "category": "情感"
+    },
+    {
+      "raw_hot": 273999,
+      "num": 273999,
+      "word": "成龙都70了",
+      "onboard_time": 1712472677,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 272421,
@@ -843,12 +891,28 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 242658,
+      "num": 242658,
+      "word": "甲状腺癌究竟是幸福癌还是流行病",
+      "onboard_time": 1712469018,
+      "rank": 27,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 240692,
       "num": 240692,
       "word": "小米SU7标准版不支持城市NOA",
       "onboard_time": 1712460618,
       "rank": 34,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 239979,
+      "num": 239979,
+      "word": "妈妈想和你长相守有错吗",
+      "onboard_time": 1712471899,
+      "rank": 24,
+      "category": "剧集"
     },
     {
       "raw_hot": 239673,
@@ -939,14 +1003,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 212209,
-      "num": 212209,
-      "word": "甲状腺癌究竟是幸福癌还是流行病",
-      "onboard_time": 1712469018,
-      "rank": 27,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 210237,
       "num": 210237,
       "word": "体制内开会为什么不能喝奶茶",
@@ -995,6 +1051,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 202991,
+      "num": 202991,
+      "word": "T1对战DK",
+      "onboard_time": 1712473279,
+      "rank": 27,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 202653,
       "num": 195848,
       "word": "跳水运动员摔进水池看呆马克龙",
@@ -1041,6 +1105,14 @@
       "onboard_time": 1712467580,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 195963,
+      "num": 184688,
+      "word": "成都迪士尼只有一个项目",
+      "onboard_time": 1712473579,
+      "rank": 31,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 194835,
@@ -1147,6 +1219,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 184689,
+      "num": 184689,
+      "word": "Turbo3性能首发评测",
+      "onboard_time": 1712473819,
+      "rank": 29,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 182439,
       "num": 182439,
       "word": "阴雨",
@@ -1175,6 +1255,14 @@
       "num": 178229,
       "word": "向佐唯有duke把黄龄气死了",
       "onboard_time": 1712455939,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 177688,
+      "num": 177688,
+      "word": "无骨鸭脖",
+      "onboard_time": 1712473219,
       "rank": 33,
       "category": "综艺"
     },
@@ -1275,6 +1363,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 159775,
+      "num": 159775,
+      "word": "航天员在太空有理发神器",
+      "onboard_time": 1712473458,
+      "rank": 36,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 159262,
       "num": 120278,
       "word": "王一博出来跳舞",
@@ -1369,6 +1465,22 @@
       "onboard_time": 1712465540,
       "rank": 44,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 133958,
+      "num": 133958,
+      "word": "李铁落网细节曝光",
+      "onboard_time": 1712472258,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 133918,
+      "num": 133918,
+      "word": "于东来称强制员工去取悦顾客是不道德的",
+      "onboard_time": 1712473519,
+      "rank": 46,
+      "category": "互联网"
     },
     {
       "raw_hot": 133096,
@@ -1475,6 +1587,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 121938,
+      "num": 121938,
+      "word": "马群耀 你的耀来了",
+      "onboard_time": 1712473999,
+      "rank": 48,
+      "category": "演出"
+    },
+    {
       "raw_hot": 120923,
       "num": 120923,
       "word": "过敏人群飞絮防护指南",
@@ -1489,6 +1609,14 @@
       "onboard_time": 1712467879,
       "rank": 46,
       "category": "电影"
+    },
+    {
+      "raw_hot": 119340,
+      "num": 119340,
+      "word": "负周一",
+      "onboard_time": 1712473458,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 119122,
