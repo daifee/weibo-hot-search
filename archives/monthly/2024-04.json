@@ -1,6 +1,6 @@
 {
   "startTime": 1711902044401,
-  "endTime": 1712446440942,
+  "endTime": 1712452706024,
   "band_list": [
     {
       "raw_hot": 16874674,
@@ -65,6 +65,14 @@
       "onboard_time": 1711946724,
       "rank": 0,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 3164787,
+      "num": 3164787,
+      "word": "调休",
+      "onboard_time": 1712450539,
+      "rank": 0,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 3120127,
@@ -883,6 +891,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1297594,
+      "num": 1297594,
+      "word": "林更新 我做她的瑶",
+      "onboard_time": 1712447897,
+      "rank": 1,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1296410,
       "num": 1296410,
       "word": "比跷二郎腿伤害更大的坐姿",
@@ -1169,6 +1185,14 @@
       "onboard_time": 1712412860,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1126123,
+      "num": 568188,
+      "word": "15元一晚的房间",
+      "onboard_time": 1712450719,
+      "rank": 10,
+      "category": "情感"
     },
     {
       "raw_hot": 1118722,
@@ -1732,7 +1756,7 @@
     },
     {
       "raw_hot": 871912,
-      "num": 346544,
+      "num": 429009,
       "word": "日本天皇独生女成为月薪7千的打工人",
       "onboard_time": 1712403077,
       "rank": 49,
@@ -1817,6 +1841,14 @@
       "onboard_time": 1712298378,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 852839,
+      "num": 852839,
+      "word": "创造营亚洲C位是中国人",
+      "onboard_time": 1712447718,
+      "rank": 3,
+      "category": "综艺"
     },
     {
       "raw_hot": 852807,
@@ -1961,6 +1993,14 @@
       "onboard_time": 1712144899,
       "rank": 4,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 807130,
+      "num": 676568,
+      "word": "欧阳娣娣第八名出道",
+      "onboard_time": 1712446936,
+      "rank": 5,
+      "category": "综艺"
     },
     {
       "raw_hot": 805284,
@@ -2363,6 +2403,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 713771,
+      "num": 669338,
+      "word": "官方通报15岁女孩被围殴",
+      "onboard_time": 1712450178,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 713418,
       "num": 713418,
       "word": "黄金又暴涨中国资产飙升",
@@ -2528,6 +2576,14 @@
       "word": "原来散步才是真纯爱",
       "onboard_time": 1712121683,
       "rank": 27,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 687209,
+      "num": 687209,
+      "word": "本周桃花运最旺的星座",
+      "onboard_time": 1712450178,
+      "rank": 4,
       "category": "情感"
     },
     {
@@ -2835,6 +2891,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 650599,
+      "num": 650599,
+      "word": "雷军回应小米为什么造车快",
+      "onboard_time": 1712446877,
+      "rank": 7,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 649910,
       "num": 437142,
       "word": "月薪4000要不要交社保",
@@ -2865,6 +2929,14 @@
       "onboard_time": 1712130560,
       "rank": 7,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 647413,
+      "num": 379526,
+      "word": "弟弟考研上岸了我却一点不开心",
+      "onboard_time": 1712450598,
+      "rank": 20,
+      "category": "情感"
     },
     {
       "raw_hot": 646612,
@@ -3123,6 +3195,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 611038,
+      "num": 611038,
+      "word": "爱宝还记得福宝",
+      "onboard_time": 1712446696,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 609557,
       "num": 492329,
       "word": "贾跃亭点评小米汽车",
@@ -3256,6 +3336,14 @@
       "word": "15岁女孩失联遗体被找到家属发声",
       "onboard_time": 1712091911,
       "rank": 30,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 594306,
+      "num": 594306,
+      "word": "淄博八大局火到早8点半就限流",
+      "onboard_time": 1712448377,
+      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -3835,6 +3923,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 531396,
+      "num": 531396,
+      "word": "商品房以旧换新政策落地",
+      "onboard_time": 1712445496,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 531120,
       "num": 531120,
       "word": "六大行存款一年多了14万亿",
@@ -4251,6 +4347,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 485809,
+      "num": 485809,
+      "word": "要上6天班",
+      "onboard_time": 1712448799,
+      "rank": 12,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 485469,
       "num": 485469,
       "word": "眼泪女王 宋仲基",
@@ -4443,6 +4547,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 466741,
+      "num": 466741,
+      "word": "逃出大英博物馆主创发声明维权",
+      "onboard_time": 1712451559,
+      "rank": 13,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 466445,
+      "num": 466445,
+      "word": "你敢不敢去摸一下那只两脚兽",
+      "onboard_time": 1712422095,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 466343,
       "num": 466343,
       "word": "林更新把赵丽颖说的话拉成横幅",
@@ -4513,6 +4633,14 @@
       "onboard_time": 1712232439,
       "rank": 18,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 461454,
+      "num": 461454,
+      "word": "公务员部分岗位年龄调整到40周岁",
+      "onboard_time": 1712451739,
+      "rank": 15,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 460847,
@@ -5131,6 +5259,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 415828,
+      "num": 415828,
+      "word": "CUBE男经纪人骚扰minnie",
+      "onboard_time": 1712446696,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 415695,
       "num": 680192,
       "word": "福宝的首选是红苹果",
@@ -5451,14 +5587,6 @@
       "category": "美食,健康医疗"
     },
     {
-      "raw_hot": 393602,
-      "num": 393602,
-      "word": "你敢不敢去摸一下那只两脚兽",
-      "onboard_time": 1712422095,
-      "rank": 30,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 392792,
       "num": 392792,
       "word": "暗河传男主",
@@ -5587,6 +5715,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 383642,
+      "num": 383642,
+      "word": "南部战区位南海海域组织联合海空战巡",
+      "onboard_time": 1712451319,
+      "rank": 18,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 383271,
       "num": 383271,
       "word": "金宇珍向StrayKids道歉",
@@ -5625,6 +5761,14 @@
       "onboard_time": 1712289436,
       "rank": 13,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 381337,
+      "num": 381337,
+      "word": "15岁女孩被围殴涉案11人已到案",
+      "onboard_time": 1712450059,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 381327,
@@ -6025,6 +6169,14 @@
       "onboard_time": 1712111121,
       "rank": 30,
       "category": "情感"
+    },
+    {
+      "raw_hot": 354112,
+      "num": 354112,
+      "word": "华为P70或不举办发布会直接上线销售",
+      "onboard_time": 1712450239,
+      "rank": 22,
+      "category": "数码"
     },
     {
       "raw_hot": 353616,
@@ -6931,6 +7083,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 301963,
+      "num": 301963,
+      "word": "郝蕾用张子枫类比锦超",
+      "onboard_time": 1712451079,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 301695,
+      "num": 301695,
+      "word": "福宝适应能力有多强",
+      "onboard_time": 1712448018,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 301264,
       "num": 278510,
       "word": "女孩误吞燕尾夹2天不能进食才告知父母",
@@ -7009,6 +7177,14 @@
       "onboard_time": 1712212639,
       "rank": 31,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 297629,
+      "num": 297629,
+      "word": "医生温馨提示不要碰这些药膏",
+      "onboard_time": 1712448858,
+      "rank": 27,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 297151,
@@ -10323,6 +10499,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 199379,
+      "num": 199379,
+      "word": "卡琳娜她都约我了",
+      "onboard_time": 1712450840,
+      "rank": 34,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 199346,
       "num": 199346,
       "word": "摇太阳 悼词",
@@ -11731,14 +11915,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 180541,
-      "num": 180541,
-      "word": "商品房以旧换新政策落地",
-      "onboard_time": 1712445496,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 180452,
       "num": 180452,
       "word": "小猫咪的已读不回",
@@ -11985,6 +12161,14 @@
       "onboard_time": 1712048240,
       "rank": 36,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 176176,
+      "num": 176176,
+      "word": "eight在seventeen",
+      "onboard_time": 1712447536,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 175887,
@@ -12515,6 +12699,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 166681,
+      "num": 166681,
+      "word": "向佐撩裙子差点呼宁静脸上",
+      "onboard_time": 1712445435,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 166584,
       "num": 166584,
       "word": "哇啦哇啦密集可爱症",
@@ -12545,6 +12737,14 @@
       "onboard_time": 1712409618,
       "rank": 42,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 166092,
+      "num": 166092,
+      "word": "旅游到底是吃重要还是住重要",
+      "onboard_time": 1712450178,
+      "rank": 39,
+      "category": "旅游"
     },
     {
       "raw_hot": 166000,
@@ -12729,14 +12929,6 @@
       "onboard_time": 1712069958,
       "rank": 38,
       "category": "电竞,网红"
-    },
-    {
-      "raw_hot": 162655,
-      "num": 146148,
-      "word": "向佐撩裙子差点呼宁静脸上",
-      "onboard_time": 1712445435,
-      "rank": 22,
-      "category": "综艺"
     },
     {
       "raw_hot": 162413,
@@ -13049,6 +13241,14 @@
       "onboard_time": 1712055741,
       "rank": 35,
       "category": "电竞,网红"
+    },
+    {
+      "raw_hot": 158881,
+      "num": 158881,
+      "word": "眼泪女王收视率",
+      "onboard_time": 1712446756,
+      "rank": 41,
+      "category": "剧集"
     },
     {
       "raw_hot": 158878,
@@ -13483,6 +13683,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 152303,
+      "num": 152303,
+      "word": "第一次在机器人身上看到了破碎感",
+      "onboard_time": 1712451678,
+      "rank": 42,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 152281,
       "num": 152281,
       "word": "马伊琍怎么偷偷摸摸的",
@@ -13529,6 +13737,14 @@
       "onboard_time": 1712017820,
       "rank": 45,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 151913,
+      "num": 151913,
+      "word": "徐佳莹蓝台哭了",
+      "onboard_time": 1712452398,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 151863,
@@ -14243,6 +14459,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 142067,
+      "num": 142067,
+      "word": "包贝尔近照",
+      "onboard_time": 1712451440,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 141917,
       "num": 141917,
       "word": "归期想成为P人",
@@ -14803,6 +15027,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 133096,
+      "num": 133096,
+      "word": "元梦之星 蛋仔派对",
+      "onboard_time": 1712448679,
+      "rank": 47,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 132896,
       "num": 132896,
       "word": "TWS粉丝名42",
@@ -14865,6 +15097,14 @@
       "onboard_time": 1712272094,
       "rank": 14,
       "category": "体育"
+    },
+    {
+      "raw_hot": 131639,
+      "num": 131639,
+      "word": "广西人上4天休4天",
+      "onboard_time": 1712452638,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 131320,
@@ -14961,6 +15201,14 @@
       "onboard_time": 1712322859,
       "rank": 47,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 128389,
+      "num": 128389,
+      "word": "蹲一个王一博破万福利",
+      "onboard_time": 1712450899,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 128239,

@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1712446440942,
+  "endTime": 1712452706024,
   "band_list": [
     {
       "raw_hot": 21250232,
@@ -1635,6 +1635,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 3164787,
+      "num": 3164787,
+      "word": "调休",
+      "onboard_time": 1707010589,
+      "rank": 0,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 3160157,
       "num": 1644030,
       "word": "阿拉蕾",
@@ -2393,14 +2401,6 @@
       "onboard_time": 1710841955,
       "rank": 0,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 2698087,
-      "num": 2698087,
-      "word": "张继科复出",
-      "onboard_time": 1705038752,
-      "rank": 0,
-      "category": "体育"
     }
   ],
   "hotgov_list": [
