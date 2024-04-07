@@ -1,0 +1,410 @@
+{
+  "runTime": 1712489650860,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1716793,
+        "num": 1716793,
+        "word": "追她呀 她旺你",
+        "onboard_time": 1712483838,
+        "rank": 0,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 980883,
+        "num": 980883,
+        "word": "陈学冬 不会退圈死心吧",
+        "onboard_time": 1712479278,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 62822,
+        "num": 841761,
+        "word": "春花唤醒了人间最美的季节",
+        "onboard_time": 1712476700,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 811804,
+        "num": 811804,
+        "word": "以色列大规模撤军",
+        "onboard_time": 1712485518,
+        "rank": 3,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 785633,
+        "num": 785633,
+        "word": "去世的妈坐牢的爸破碎的他",
+        "onboard_time": 1712482218,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 657096,
+        "num": 657096,
+        "word": "第一批去埃及旅行的人快被骗到裸奔了",
+        "onboard_time": 1712476038,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 559397,
+        "num": 559397,
+        "word": "干眼症原来缺的是油不是水",
+        "onboard_time": 1712484979,
+        "rank": 6,
+        "category": "科学科普,健康医疗"
+      },
+      {
+        "raw_hot": 498917,
+        "num": 498917,
+        "word": "赵丽颖降林嫂",
+        "onboard_time": 1712485518,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 61930,
+        "num": 489736,
+        "word": "22岁的我已经和癌症斗了3000天",
+        "onboard_time": 1712458456,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 72378,
+        "num": 485624,
+        "word": "吴江涛你做的好事藏不住了",
+        "onboard_time": 1712483418,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 485353,
+        "num": 485353,
+        "word": "成都文旅还没反应过来 迪士尼建好了",
+        "onboard_time": 1712480300,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 477584,
+        "num": 477584,
+        "word": "下班以后最轻松的副业",
+        "onboard_time": 1712487438,
+        "rank": 11,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 461108,
+        "num": 461108,
+        "word": "女性的小肚子是为了保护子宫卵巢",
+        "onboard_time": 1712473999,
+        "rank": 12,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 448557,
+        "num": 448557,
+        "word": "林更新 我一人可抵千军万马",
+        "onboard_time": 1712485278,
+        "rank": 13,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 425619,
+        "num": 425619,
+        "word": "大小周其实不是月休六天",
+        "onboard_time": 1712484439,
+        "rank": 14,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 421026,
+        "num": 421026,
+        "word": "王一博粉丝 不愿意就算了",
+        "onboard_time": 1712483477,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 316239,
+        "num": 316239,
+        "word": "想当行长继承家产男孩父亲确为行长",
+        "onboard_time": 1712469258,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 308088,
+        "num": 308088,
+        "word": "猪景房凭什么8888元一晚",
+        "onboard_time": 1712478500,
+        "rank": 17,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 298832,
+        "num": 298832,
+        "word": "眼泪女王 超前点播",
+        "onboard_time": 1712487198,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 257041,
+        "num": 292058,
+        "word": "李雪琴答题速度惊呆十个勤天",
+        "onboard_time": 1712485458,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 449591,
+        "num": 291736,
+        "word": "中医建议女生春天多披头散发",
+        "onboard_time": 1712487918,
+        "rank": 20,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 304423,
+        "num": 291544,
+        "word": "午睡超1小时死亡风险增加30%",
+        "onboard_time": 1712466800,
+        "rank": 21,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 287014,
+        "num": 287014,
+        "word": "高铁会惩罚每个苹果用户",
+        "onboard_time": 1712475618,
+        "rank": 22,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 281432,
+        "num": 281432,
+        "word": "5天年假折现了6千多",
+        "onboard_time": 1712483838,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 229325,
+        "num": 229325,
+        "word": "今天星期0",
+        "onboard_time": 1712479399,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 217807,
+        "num": 217807,
+        "word": "成龙杨幂霍建华旧照",
+        "onboard_time": 1712488997,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 214553,
+        "num": 214553,
+        "word": "教授建议小学低年级免去考试和成绩",
+        "onboard_time": 1712487258,
+        "rank": 26,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 205234,
+        "num": 205234,
+        "word": "哥们的韦鲁斯还要练吗",
+        "onboard_time": 1712489237,
+        "rank": 27,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 188966,
+        "num": 188966,
+        "word": "库迪咖啡创始人被强执",
+        "onboard_time": 1712470219,
+        "rank": 28,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 188229,
+        "num": 188229,
+        "word": "林更新是赵丽颖一级铁粉",
+        "onboard_time": 1712483059,
+        "rank": 29,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 206412,
+        "num": 187460,
+        "word": "两根小夹子就能拥有蓬松颅顶",
+        "onboard_time": 1712486599,
+        "rank": 30,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 185845,
+        "num": 185845,
+        "word": "宋茜山河枕婚服路透",
+        "onboard_time": 1712488697,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 170266,
+        "num": 170266,
+        "word": "刘昊然 回春",
+        "onboard_time": 1712472078,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 162203,
+        "num": 162203,
+        "word": "原来全麻后真的会社死",
+        "onboard_time": 1712484021,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 154517,
+        "num": 154517,
+        "word": "DK被零封",
+        "onboard_time": 1712483838,
+        "rank": 34,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 145442,
+        "num": 145442,
+        "word": "林更新害怕是装给赵丽颖看的吧",
+        "onboard_time": 1712489477,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 142575,
+        "num": 142575,
+        "word": "为什么老人不喜欢套垃圾袋",
+        "onboard_time": 1712487740,
+        "rank": 36,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 139350,
+        "num": 139350,
+        "word": "椰子鸡",
+        "onboard_time": 1712483719,
+        "rank": 37,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 138657,
+        "num": 138657,
+        "word": "追风者 江西",
+        "onboard_time": 1712489299,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 122012,
+        "num": 135522,
+        "word": "新疆拜城5.4级地震",
+        "onboard_time": 1712480719,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 135130,
+        "num": 135130,
+        "word": "Jiejie回来了",
+        "onboard_time": 1712479459,
+        "rank": 40,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 133423,
+        "num": 133423,
+        "word": "原来内向是这样形成的",
+        "onboard_time": 1712488579,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 131938,
+        "num": 131938,
+        "word": "8888元一晚猪景房送6888元一头猪",
+        "onboard_time": 1712482158,
+        "rank": 42,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 118655,
+        "num": 125164,
+        "word": "台湾花莲县海域发生4.8级地震",
+        "onboard_time": 1712486417,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 124705,
+        "num": 124705,
+        "word": "成龙发文庆祝70岁生日",
+        "onboard_time": 1712470278,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 123017,
+        "num": 123017,
+        "word": "春天出门踏青一定要穿对衣服",
+        "onboard_time": 1712486838,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 121125,
+        "num": 121125,
+        "word": "苹果客服回应iPhone闹钟不会识别调休",
+        "onboard_time": 1712476878,
+        "rank": 46,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 119627,
+        "num": 119627,
+        "word": "谢帝",
+        "onboard_time": 1712489539,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 112221,
+        "num": 112221,
+        "word": "关于被选中做刘亦菲替身这件事",
+        "onboard_time": 1712489597,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 116062,
+        "num": 112204,
+        "word": "样子又不帅 唱歌又难听",
+        "onboard_time": 1712479339,
+        "rank": 49,
+        "category": "作品衍生"
+      }
+    ],
+    "hotgov": {
+      "word": "#家国永念致敬英雄#"
+    }
+  }
+}
