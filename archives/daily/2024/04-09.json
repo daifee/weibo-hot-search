@@ -1,6 +1,6 @@
 {
   "startTime": 1712593429256,
-  "endTime": 1712618308396,
+  "endTime": 1712619298101,
   "band_list": [
     {
       "raw_hot": 1748207,
@@ -27,8 +27,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 805234,
-      "num": 805234,
+      "raw_hot": 965826,
+      "num": 965826,
       "word": "我们家 没这个条件",
       "onboard_time": 1712589019,
       "rank": 3,
@@ -99,6 +99,22 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 436060,
+      "num": 436060,
+      "word": "赵露思安妮海瑟薇穿同款皮裙",
+      "onboard_time": 1712599392,
+      "rank": 22,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 419703,
+      "num": 419703,
+      "word": "孙坚吐槽奢侈品包质量问题",
+      "onboard_time": 1712597292,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 413367,
       "num": 413367,
       "word": "中医建议大家不要盲目的防晒",
@@ -147,12 +163,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 336318,
-      "num": 336318,
-      "word": "赵露思安妮海瑟薇穿同款皮裙",
-      "onboard_time": 1712599392,
-      "rank": 22,
-      "category": "作品衍生"
+      "raw_hot": 341738,
+      "num": 341738,
+      "word": "河南姑娘在四季青做穿版模特月入两万",
+      "onboard_time": 1712604070,
+      "rank": 40,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 331999,
@@ -161,22 +177,6 @@
       "onboard_time": 1712590638,
       "rank": 18,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 326581,
-      "num": 326581,
-      "word": "孙坚吐槽奢侈品包质量问题",
-      "onboard_time": 1712597292,
-      "rank": 34,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 270952,
-      "num": 270952,
-      "word": "河南姑娘在四季青做穿版模特月入两万",
-      "onboard_time": 1712604070,
-      "rank": 40,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 266012,
@@ -195,6 +195,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 248040,
+      "num": 198500,
+      "word": "骨盆可能是世界上最贵的容器",
+      "onboard_time": 1712617335,
+      "rank": 27,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 234842,
       "num": 234842,
       "word": "杨幂 谍战剧",
@@ -211,12 +219,52 @@
       "category": "数码"
     },
     {
+      "raw_hot": 210504,
+      "num": 210504,
+      "word": "C罗肘击对手",
+      "onboard_time": 1712618475,
+      "rank": 16,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 201454,
+      "num": 201454,
+      "word": "2024年第100天",
+      "onboard_time": 1712618475,
+      "rank": 17,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 200431,
+      "num": 341955,
+      "word": "凌晨4点在深圳海边看银河",
+      "onboard_time": 1712605212,
+      "rank": 30,
+      "category": "旅游"
+    },
+    {
+      "raw_hot": 199511,
+      "num": 199511,
+      "word": "知名痔疮药停产后涨价10多倍",
+      "onboard_time": 1712619137,
+      "rank": 18,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 199481,
       "num": 450141,
       "word": "00后开始青睐三无婚礼",
       "onboard_time": 1712590938,
       "rank": 9,
       "category": "情感"
+    },
+    {
+      "raw_hot": 191434,
+      "num": 358755,
+      "word": "在欧美访了个寂寞中国工程师决定自己搞",
+      "onboard_time": 1712597892,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 189962,
@@ -233,6 +281,14 @@
       "onboard_time": 1712585182,
       "rank": 25,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 178388,
+      "num": 178388,
+      "word": "日全食",
+      "onboard_time": 1712585841,
+      "rank": 32,
+      "category": "自然"
     },
     {
       "raw_hot": 175306,
@@ -267,28 +323,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 155099,
-      "num": 337802,
-      "word": "凌晨4点在深圳海边看银河",
-      "onboard_time": 1712605212,
-      "rank": 30,
-      "category": "旅游"
-    },
-    {
       "raw_hot": 151987,
       "num": 151987,
       "word": "被窝好舒服",
       "onboard_time": 1712587580,
       "rank": 30,
       "category": "情感"
-    },
-    {
-      "raw_hot": 143847,
-      "num": 143847,
-      "word": "日全食",
-      "onboard_time": 1712585841,
-      "rank": 32,
-      "category": "自然"
     },
     {
       "raw_hot": 140292,
@@ -323,20 +363,28 @@
       "category": "美食"
     },
     {
+      "raw_hot": 125995,
+      "num": 125995,
+      "word": "辞职旅行半年后我的生活翻天覆地",
+      "onboard_time": 1712580679,
+      "rank": 35,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 125338,
+      "num": 116690,
+      "word": "台湾花莲近海5.3级地震",
+      "onboard_time": 1712618835,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 121095,
       "num": 121095,
       "word": "金钟仁纪念EXO出道12周年",
       "onboard_time": 1712596033,
       "rank": 23,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 120367,
-      "num": 120367,
-      "word": "辞职旅行半年后我的生活翻天覆地",
-      "onboard_time": 1712580679,
-      "rank": 35,
-      "category": "情感"
     },
     {
       "raw_hot": 119780,
@@ -355,6 +403,14 @@
       "category": "幽默,艺人"
     },
     {
+      "raw_hot": 117934,
+      "num": 117934,
+      "word": "湖南省考成绩",
+      "onboard_time": 1712618655,
+      "rank": 28,
+      "category": "教育"
+    },
+    {
       "raw_hot": 116488,
       "num": 116488,
       "word": "刘亦菲高定粉裙",
@@ -369,6 +425,14 @@
       "onboard_time": 1712589858,
       "rank": 39,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 116284,
+      "num": 116284,
+      "word": "张若昀祝贺庆余年",
+      "onboard_time": 1712616493,
+      "rank": 25,
+      "category": "剧集"
     },
     {
       "raw_hot": 115025,
@@ -403,6 +467,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 104610,
+      "num": 104610,
+      "word": "原来林更新粉丝吃这么好",
+      "onboard_time": 1712599452,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 102614,
+      "num": 102614,
+      "word": "男人的尿酸是怎么一步一步失控的",
+      "onboard_time": 1712619137,
+      "rank": 36,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 102005,
       "num": 102005,
       "word": "时代少年团演唱会快官宣",
@@ -416,22 +496,6 @@
       "word": "白鹿临江仙出妆了",
       "onboard_time": 1712581879,
       "rank": 43,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 98100,
-      "num": 339566,
-      "word": "在欧美访了个寂寞中国工程师决定自己搞",
-      "onboard_time": 1712597892,
-      "rank": 29,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 97576,
-      "num": 97576,
-      "word": "张若昀祝贺庆余年",
-      "onboard_time": 1712616493,
-      "rank": 25,
       "category": "剧集"
     },
     {
@@ -451,14 +515,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 95738,
-      "num": 95738,
-      "word": "骨盆可能是世界上最贵的容器",
-      "onboard_time": 1712617335,
-      "rank": 27,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 88963,
       "num": 96440,
       "word": "郑仁父亲医院跳楼",
@@ -475,12 +531,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 83430,
+      "num": 83430,
+      "word": "以为水煮蛋买来就是这样的",
+      "onboard_time": 1712618835,
+      "rank": 38,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 81573,
       "num": 81573,
       "word": "黄金回收市场迎来卖金热",
       "onboard_time": 1712613671,
       "rank": 30,
       "category": "财经"
+    },
+    {
+      "raw_hot": 81350,
+      "num": 81350,
+      "word": "赵丽颖提议的删掉父女相认戏台词",
+      "onboard_time": 1712619137,
+      "rank": 39,
+      "category": "剧集"
     },
     {
       "raw_hot": 81334,
@@ -491,6 +563,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 80201,
+      "num": 80201,
+      "word": "智己L6",
+      "onboard_time": 1712578459,
+      "rank": 40,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 79576,
       "num": 96436,
       "word": "央视网评岳婿双行长",
@@ -499,12 +579,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 70418,
-      "num": 70418,
-      "word": "原来林更新粉丝吃这么好",
-      "onboard_time": 1712599452,
-      "rank": 30,
-      "category": "艺人"
+      "raw_hot": 74718,
+      "num": 74718,
+      "word": "总犯困不想动可能是甲状腺有问题",
+      "onboard_time": 1712613971,
+      "rank": 48,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 69958,
+      "num": 69958,
+      "word": "王红权星说红了之后被排斥",
+      "onboard_time": 1712604251,
+      "rank": 35,
+      "category": "网红"
     },
     {
       "raw_hot": 68368,
@@ -515,24 +603,16 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 63427,
-      "num": 63427,
-      "word": "总犯困不想动可能是甲状腺有问题",
-      "onboard_time": 1712613971,
+      "raw_hot": 64418,
+      "num": 64418,
+      "word": "小狗牙齿竟然是小手套形状",
+      "onboard_time": 1712619196,
       "rank": 48,
-      "category": "健康医疗"
+      "category": "情感"
     },
     {
-      "raw_hot": 63334,
-      "num": 63334,
-      "word": "王红权星说红了之后被排斥",
-      "onboard_time": 1712604251,
-      "rank": 35,
-      "category": "网红"
-    },
-    {
-      "raw_hot": 57636,
-      "num": 498815,
+      "raw_hot": 63007,
+      "num": 594840,
       "word": "我国首口超5000米深层地热科学探井",
       "onboard_time": 1712582122,
       "rank": 2,
