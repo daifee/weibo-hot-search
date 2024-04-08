@@ -1,6 +1,6 @@
 {
   "startTime": 1712506792576,
-  "endTime": 1712553494411,
+  "endTime": 1712554442534,
   "band_list": [
     {
       "raw_hot": 9583581,
@@ -75,6 +75,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 1371438,
+      "num": 910203,
+      "word": "邯郸案3人将面临故意杀人罪基本刑罚",
+      "onboard_time": 1712549000,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1272250,
       "num": 1272250,
       "word": "怪不得小时候发现不了唐僧换人",
@@ -115,12 +123,12 @@
       "category": "读书作家"
     },
     {
-      "raw_hot": 910203,
-      "num": 910203,
-      "word": "邯郸案3人将面临故意杀人罪基本刑罚",
-      "onboard_time": 1712549000,
-      "rank": 8,
-      "category": "社会新闻"
+      "raw_hot": 867163,
+      "num": 867163,
+      "word": "林更新 没喜欢的剧本坚决不进组",
+      "onboard_time": 1712552541,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 856609,
@@ -156,7 +164,7 @@
     },
     {
       "raw_hot": 771307,
-      "num": 568843,
+      "num": 630411,
       "word": "相恋10年供女友考研男子已去世",
       "onboard_time": 1712552181,
       "rank": 10,
@@ -195,14 +203,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 720197,
-      "num": 566202,
-      "word": "林更新 没喜欢的剧本坚决不进组",
-      "onboard_time": 1712552541,
-      "rank": 11,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 713678,
       "num": 713678,
       "word": "iPhone16新一轮爆料来了",
@@ -219,20 +219,36 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 688202,
+      "num": 688202,
+      "word": "南昌一辆公交车失控冲向路边人群",
+      "onboard_time": 1712554159,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 637845,
+      "num": 637845,
+      "word": "赵露思黑粉向赵露思致歉",
+      "onboard_time": 1712553199,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 633733,
+      "num": 633733,
+      "word": "月薪8000育儿嫂的一天",
+      "onboard_time": 1712550141,
+      "rank": 31,
+      "category": "情感"
+    },
+    {
       "raw_hot": 621793,
       "num": 621793,
       "word": "刘雨昕官宣科切拉",
       "onboard_time": 1712548521,
       "rank": 6,
       "category": "演出"
-    },
-    {
-      "raw_hot": 609398,
-      "num": 609398,
-      "word": "月薪8000育儿嫂的一天",
-      "onboard_time": 1712550141,
-      "rank": 31,
-      "category": "情感"
     },
     {
       "raw_hot": 553928,
@@ -276,7 +292,7 @@
     },
     {
       "raw_hot": 525169,
-      "num": 349862,
+      "num": 385790,
       "word": "女孩误以为取快递还要和快递合影",
       "onboard_time": 1712548521,
       "rank": 20,
@@ -297,6 +313,14 @@
       "onboard_time": 1712536038,
       "rank": 8,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 486254,
+      "num": 486254,
+      "word": "黄景瑜王一博真好玩再来一条",
+      "onboard_time": 1712552722,
+      "rank": 18,
+      "category": "电影"
     },
     {
       "raw_hot": 482096,
@@ -491,6 +515,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 352199,
+      "num": 352199,
+      "word": "眼泪女王 狗血",
+      "onboard_time": 1712553199,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 350227,
       "num": 227026,
       "word": "小米开放式耳机",
@@ -545,14 +577,6 @@
       "onboard_time": 1712543960,
       "rank": 19,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 314295,
-      "num": 314295,
-      "word": "黄景瑜王一博真好玩再来一条",
-      "onboard_time": 1712552722,
-      "rank": 18,
-      "category": "电影"
     },
     {
       "raw_hot": 313945,
@@ -659,6 +683,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 259152,
+      "num": 259152,
+      "word": "吴镇宇 中介和导师的身份有冲突",
+      "onboard_time": 1712552722,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 258612,
       "num": 258612,
       "word": "赵露思厚刘海旧照",
@@ -755,6 +787,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 230175,
+      "num": 230175,
+      "word": "甘肃天水官方开店卖麻辣烫",
+      "onboard_time": 1712554100,
+      "rank": 25,
+      "category": "美食"
+    },
+    {
       "raw_hot": 229311,
       "num": 229311,
       "word": "白桃星座",
@@ -779,14 +819,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 221353,
-      "num": 201245,
-      "word": "赵露思黑粉向赵露思致歉",
-      "onboard_time": 1712553199,
-      "rank": 32,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 219429,
       "num": 189663,
       "word": "与父母同居20天他们终于不再催婚",
@@ -809,14 +841,6 @@
       "onboard_time": 1712543059,
       "rank": 37,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 208098,
-      "num": 199705,
-      "word": "吴镇宇 中介和导师的身份有冲突",
-      "onboard_time": 1712552722,
-      "rank": 35,
-      "category": "综艺"
     },
     {
       "raw_hot": 207229,
@@ -915,14 +939,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 198107,
-      "num": 198107,
-      "word": "眼泪女王 狗血",
-      "onboard_time": 1712553199,
-      "rank": 40,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 197550,
       "num": 197550,
       "word": "EXO永远的彼得潘",
@@ -953,6 +969,30 @@
       "onboard_time": 1712549841,
       "rank": 37,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 191010,
+      "num": 191010,
+      "word": "邓科导演片场随记4.0",
+      "onboard_time": 1712553438,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 189873,
+      "num": 189873,
+      "word": "于适 中国功夫",
+      "onboard_time": 1712554038,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 187542,
+      "num": 187542,
+      "word": "咸蛋家",
+      "onboard_time": 1712553919,
+      "rank": 37,
+      "category": "艺人"
     },
     {
       "raw_hot": 187420,
@@ -1043,6 +1083,22 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 168182,
+      "num": 168182,
+      "word": "山东交通学院伤人案嫌疑人已被抓获",
+      "onboard_time": 1712554338,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 167927,
+      "num": 155142,
+      "word": "陈哲远加盟大侦探9",
+      "onboard_time": 1712554338,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 166489,
       "num": 166489,
       "word": "莫桑比克沉船至少91死",
@@ -1075,6 +1131,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 158021,
+      "num": 198174,
+      "word": "绿茶为啥不能用100度开水泡",
+      "onboard_time": 1712552482,
+      "rank": 38,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 156339,
       "num": 156339,
       "word": "浓眉场均一次被打脸",
@@ -1096,22 +1160,6 @@
       "word": "去世的妈坐牢的爸破碎的他",
       "onboard_time": 1712482218,
       "rank": 26,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 155253,
-      "num": 198174,
-      "word": "绿茶为啥不能用100度开水泡",
-      "onboard_time": 1712552482,
-      "rank": 38,
-      "category": "科学科普"
-    },
-    {
-      "raw_hot": 155134,
-      "num": 155134,
-      "word": "邓科导演片场随记4.0",
-      "onboard_time": 1712553438,
-      "rank": 46,
       "category": "剧集"
     },
     {

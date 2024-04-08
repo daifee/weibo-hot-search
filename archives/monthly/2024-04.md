@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/04/01 00:20:44 ~ 2024/04/08 13:18:14
+本榜单时间：2024/04/01 00:20:44 ~ 2024/04/08 13:34:02
 </p>
 </blockquote>
 <p>
@@ -743,6 +743,12 @@ zara包（热度：1519616）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%88%90%E9%83%BD%E8%87%B42%E6%AD%BB%E5%8F%B8%E6%9C%BA%E4%BA%8B%E5%8F%91%E5%90%8E%E5%8A%A8%E4%BD%9C%E6%80%AA%E5%BC%82%23" target="weibo">
 成都致2死司机事发后动作怪异（热度：1373607）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%82%AF%E9%83%B8%E6%A1%883%E4%BA%BA%E5%B0%86%E9%9D%A2%E4%B8%B4%E6%95%85%E6%84%8F%E6%9D%80%E4%BA%BA%E7%BD%AA%E5%9F%BA%E6%9C%AC%E5%88%91%E7%BD%9A%23" target="weibo">
+邯郸案3人将面临故意杀人罪基本刑罚（热度：1371438）
 </a>
 </li>
 
@@ -1509,12 +1515,6 @@ Jiejie回来了（热度：1087812）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%82%AF%E9%83%B8%E6%A1%883%E4%BA%BA%E5%B0%86%E9%9D%A2%E4%B8%B4%E6%95%85%E6%84%8F%E6%9D%80%E4%BA%BA%E7%BD%AA%E5%9F%BA%E6%9C%AC%E5%88%91%E7%BD%9A%23" target="weibo">
-邯郸案3人将面临故意杀人罪基本刑罚（热度：910203）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%BA%81%E9%83%81%E7%97%87%E6%AF%94%E6%8A%91%E9%83%81%E7%97%87%E6%9B%B4%E4%B8%A5%E9%87%8D%23" target="weibo">
 躁郁症比抑郁症更严重（热度：904022）
 </a>
@@ -1613,6 +1613,12 @@ TES零封JDG（热度：901726）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E6%B1%B6%E7%BF%B0%20%E4%B9%90%E5%8D%8E%E5%A8%B1%E4%B9%90%23" target="weibo">
 李汶翰 乐华娱乐（热度：868161）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9E%97%E6%9B%B4%E6%96%B0%20%E6%B2%A1%E5%96%9C%E6%AC%A2%E7%9A%84%E5%89%A7%E6%9C%AC%E5%9D%9A%E5%86%B3%E4%B8%8D%E8%BF%9B%E7%BB%84%23" target="weibo">
+林更新 没喜欢的剧本坚决不进组（热度：867163）
 </a>
 </li>
 
@@ -2151,12 +2157,6 @@ BoA 可以隐退了吧（热度：728684）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9E%97%E6%9B%B4%E6%96%B0%20%E6%B2%A1%E5%96%9C%E6%AC%A2%E7%9A%84%E5%89%A7%E6%9C%AC%E5%9D%9A%E5%86%B3%E4%B8%8D%E8%BF%9B%E7%BB%84%23" target="weibo">
-林更新 没喜欢的剧本坚决不进组（热度：720197）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E8%89%BA%E5%85%B4%E5%9B%9E%E5%BA%94%E5%86%85%E5%A8%B1%E6%B2%A1%E6%9C%89%E8%88%9E%E5%8F%B0%23" target="weibo">
 张艺兴回应内娱没有舞台（热度：719007）
 </a>
@@ -2351,6 +2351,12 @@ Doinb重返直播间（热度：706169）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8F%B0%E6%B9%BE%E5%BC%BA%E9%9C%87%E5%B7%B2%E8%87%B49%E4%BA%BA%E6%AD%BB%E4%BA%A1%23" target="weibo">
 台湾强震已致9人死亡（热度：688580）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8D%97%E6%98%8C%E4%B8%80%E8%BE%86%E5%85%AC%E4%BA%A4%E8%BD%A6%E5%A4%B1%E6%8E%A7%E5%86%B2%E5%90%91%E8%B7%AF%E8%BE%B9%E4%BA%BA%E7%BE%A4%23" target="weibo">
+南昌一辆公交车失控冲向路边人群（热度：688202）
 </a>
 </li>
 
@@ -2697,6 +2703,12 @@ HYBE是不是疯了（热度：680667）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%B5%B5%E9%9C%B2%E6%80%9D%E9%BB%91%E7%B2%89%E5%90%91%E8%B5%B5%E9%9C%B2%E6%80%9D%E8%87%B4%E6%AD%89%23" target="weibo">
+赵露思黑粉向赵露思致歉（热度：637845）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BC%BA%E5%90%BB%E7%9C%8B%E7%97%85%E5%A5%B3%E5%AD%90%E5%8C%BB%E7%94%9F%E8%A2%AB%E8%A1%8C%E6%8B%986%E6%97%A5%23" target="weibo">
 强吻看病女子医生被行拘6日（热度：637522）
 </a>
@@ -2729,6 +2741,12 @@ HYBE是不是疯了（热度：680667）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%AF%BB%E7%A0%94%E4%BC%9A%E6%83%A9%E7%BD%9A%E6%AF%8F%E4%B8%80%E4%B8%AA%E8%80%83%E4%B8%8A%E7%A0%94%E7%9A%84%E6%B7%B7%E5%AD%90%23" target="weibo">
 读研会惩罚每一个考上研的混子（热度：634174）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9C%88%E8%96%AA8000%E8%82%B2%E5%84%BF%E5%AB%82%E7%9A%84%E4%B8%80%E5%A4%A9%23" target="weibo">
+月薪8000育儿嫂的一天（热度：633733）
 </a>
 </li>
 
@@ -2909,12 +2927,6 @@ HYBE是不是疯了（热度：680667）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%B4%BE%E8%B7%83%E4%BA%AD%E7%82%B9%E8%AF%84%E5%B0%8F%E7%B1%B3%E6%B1%BD%E8%BD%A6%23" target="weibo">
 贾跃亭点评小米汽车（热度：609557）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9C%88%E8%96%AA8000%E8%82%B2%E5%84%BF%E5%AB%82%E7%9A%84%E4%B8%80%E5%A4%A9%23" target="weibo">
-月薪8000育儿嫂的一天（热度：609398）
 </a>
 </li>
 
@@ -3893,6 +3905,12 @@ Doinb回归（热度：515208）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E4%B8%80%E5%8D%9A%E7%90%BC%E7%91%B6%E5%A5%B3%E4%B8%BB%E5%BC%8F%E5%93%AD%23" target="weibo">
 王一博琼瑶女主式哭（热度：486328）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%BB%84%E6%99%AF%E7%91%9C%E7%8E%8B%E4%B8%80%E5%8D%9A%E7%9C%9F%E5%A5%BD%E7%8E%A9%E5%86%8D%E6%9D%A5%E4%B8%80%E6%9D%A1%23" target="weibo">
+黄景瑜王一博真好玩再来一条（热度：486254）
 </a>
 </li>
 
@@ -5565,6 +5583,12 @@ NINEPERCENT六周年（热度：355173）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%9C%BC%E6%B3%AA%E5%A5%B3%E7%8E%8B%20%E7%8B%97%E8%A1%80%23" target="weibo">
+眼泪女王 狗血（热度：352199）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9E%97%E6%9B%B4%E6%96%B0%20%E5%81%9A%E9%A5%AD%E7%9A%84%E7%A5%9E%23" target="weibo">
 林更新 做饭的神（热度：351547）
 </a>
@@ -5987,30 +6011,6 @@ Uzi谈Doinb复播（热度：326657）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B2%88%E7%92%83%E8%A1%8C%E6%AD%A2%E7%9A%84%E5%AD%A9%E5%AD%90%E6%98%AF%E8%8A%B1%E5%8D%83%E9%AA%A8%E5%90%A7%23" target="weibo">
 沈璃行止的孩子是花千骨吧（热度：326139）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%91%A8%E5%A4%84%E9%99%A4%E4%B8%89%E5%AE%B3%E6%80%8E%E4%B9%88%E4%B8%8D%E6%8A%8A%E5%91%A8%E4%B8%80%E9%99%A4%E4%BA%86%23" target="weibo">
-周处除三害怎么不把周一除了（热度：325160）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%BF%99%E4%B8%AA%E5%9C%88%E5%AD%90%E8%83%BD%E5%87%91%E5%A4%9F%E4%BA%94%E4%B8%AA%E8%AF%BB%E8%80%85%E6%89%8D%E9%82%AA%E9%97%A8%23" target="weibo">
-这个圈子能凑够五个读者才邪门（热度：324877）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%A6%8F%E5%AE%9D%E5%90%AF%E7%A8%8B%E5%9B%9E%E5%9B%BD%E7%8E%B0%E5%9C%BA%E7%94%BB%E9%9D%A2%23" target="weibo">
-福宝启程回国现场画面（热度：324733）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%A6%8F%E5%BB%BA%E9%9C%87%E6%84%9F%23" target="weibo">
-福建震感（热度：324311）
 </a>
 </li>
 

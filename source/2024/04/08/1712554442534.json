@@ -1,0 +1,410 @@
+{
+  "runTime": 1712554442534,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1006900,
+        "num": 1006900,
+        "word": "苹果内鬼至少泄密6款苹果产品",
+        "onboard_time": 1712546840,
+        "rank": 0,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 897371,
+        "num": 897371,
+        "word": "金智媛没入围",
+        "onboard_time": 1712546299,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 49581,
+        "num": 875595,
+        "word": "中国新兴文旅迎春勃发",
+        "onboard_time": 1712547680,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1371438,
+        "num": 873208,
+        "word": "邯郸案3人将面临故意杀人罪基本刑罚",
+        "onboard_time": 1712549000,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 867163,
+        "num": 867163,
+        "word": "林更新 没喜欢的剧本坚决不进组",
+        "onboard_time": 1712552541,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 738459,
+        "num": 738459,
+        "word": "仝卓工作室直播了",
+        "onboard_time": 1712547319,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 688202,
+        "num": 688202,
+        "word": "南昌一辆公交车失控冲向路边人群",
+        "onboard_time": 1712554159,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 637845,
+        "num": 637845,
+        "word": "赵露思黑粉向赵露思致歉",
+        "onboard_time": 1712553199,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 633733,
+        "num": 633733,
+        "word": "月薪8000育儿嫂的一天",
+        "onboard_time": 1712550141,
+        "rank": 8,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 98021,
+        "num": 631048,
+        "word": "男子试驾劳斯莱斯获销售鼓励打动网友",
+        "onboard_time": 1712512333,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2423406,
+        "num": 630551,
+        "word": "金价暴涨房价下跌说明了什么",
+        "onboard_time": 1712549540,
+        "rank": 10,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 755285,
+        "num": 630411,
+        "word": "相恋10年供女友考研男子已去世",
+        "onboard_time": 1712552181,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 630040,
+        "num": 630040,
+        "word": "林更新回复粉丝",
+        "onboard_time": 1712551820,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 497482,
+        "num": 497482,
+        "word": "怪不得小时候发现不了唐僧换人",
+        "onboard_time": 1712538618,
+        "rank": 13,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 490107,
+        "num": 490107,
+        "word": "虐猫考生说不是很懂网络舆论暂不回应",
+        "onboard_time": 1712534598,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 486254,
+        "num": 486254,
+        "word": "黄景瑜王一博真好玩再来一条",
+        "onboard_time": 1712552722,
+        "rank": 15,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 445599,
+        "num": 445599,
+        "word": "仝卓工作室曝仝卓差税被查",
+        "onboard_time": 1712535140,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 413278,
+        "num": 413278,
+        "word": "刘雨昕官宣科切拉",
+        "onboard_time": 1712548521,
+        "rank": 17,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 394653,
+        "num": 394653,
+        "word": "虐猫考生已参加兰大研究生调剂复试",
+        "onboard_time": 1712533457,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2632836,
+        "num": 392355,
+        "word": "邯郸初中生被害案3人被刑事追诉",
+        "onboard_time": 1712542399,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 385790,
+        "num": 385790,
+        "word": "女孩误以为取快递还要和快递合影",
+        "onboard_time": 1712548521,
+        "rank": 20,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 352199,
+        "num": 352199,
+        "word": "眼泪女王 狗血",
+        "onboard_time": 1712553199,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 346078,
+        "num": 346078,
+        "word": "白敬亭拍的怀柔山水",
+        "onboard_time": 1712551462,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 259152,
+        "num": 259152,
+        "word": "吴镇宇 中介和导师的身份有冲突",
+        "onboard_time": 1712552722,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 245229,
+        "num": 245229,
+        "word": "眼泪女王 在加纳共和国离婚",
+        "onboard_time": 1712549361,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 230175,
+        "num": 230175,
+        "word": "甘肃天水官方开店卖麻辣烫",
+        "onboard_time": 1712554100,
+        "rank": 25,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 229282,
+        "num": 229282,
+        "word": "没有金泰梨",
+        "onboard_time": 1712550742,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 225380,
+        "num": 225380,
+        "word": "林更新顺毛比耶",
+        "onboard_time": 1712551221,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 219572,
+        "num": 219572,
+        "word": "男子女厕偷窥被母亲怒扇巴掌",
+        "onboard_time": 1712543178,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 165152,
+        "num": 202734,
+        "word": "俄罗斯外长拉夫罗夫已抵达北京",
+        "onboard_time": 1712548220,
+        "rank": 29,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 328539,
+        "num": 200898,
+        "word": "仝卓",
+        "onboard_time": 1712500940,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 222250,
+        "num": 199228,
+        "word": "宫崎骏电影 盗摄",
+        "onboard_time": 1712546599,
+        "rank": 31,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 193771,
+        "num": 193771,
+        "word": "疯狂星期一定档",
+        "onboard_time": 1712548940,
+        "rank": 32,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 192525,
+        "num": 192525,
+        "word": "过了30岁备孕要注意哪些事",
+        "onboard_time": 1712541018,
+        "rank": 33,
+        "category": "母婴育儿"
+      },
+      {
+        "raw_hot": 191010,
+        "num": 191010,
+        "word": "邓科导演片场随记4.0",
+        "onboard_time": 1712553438,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 189873,
+        "num": 189873,
+        "word": "于适 中国功夫",
+        "onboard_time": 1712554038,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 189562,
+        "num": 189562,
+        "word": "魏大勋衣服充气",
+        "onboard_time": 1712550382,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 187542,
+        "num": 187542,
+        "word": "咸蛋家",
+        "onboard_time": 1712553919,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 168182,
+        "num": 168182,
+        "word": "山东交通学院伤人案嫌疑人已被抓获",
+        "onboard_time": 1712554338,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 158021,
+        "num": 158021,
+        "word": "绿茶为啥不能用100度开水泡",
+        "onboard_time": 1712552482,
+        "rank": 39,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 178073,
+        "num": 157607,
+        "word": "吴镇宇回怼向佐",
+        "onboard_time": 1712544140,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 171773,
+        "num": 156579,
+        "word": "苏醒录制快乐老友记",
+        "onboard_time": 1712552181,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 167927,
+        "num": 155142,
+        "word": "陈哲远加盟大侦探9",
+        "onboard_time": 1712554338,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 160777,
+        "num": 154275,
+        "word": "张杰南昌抢票",
+        "onboard_time": 1712551939,
+        "rank": 43,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 153040,
+        "num": 153040,
+        "word": "妈妈十年前的QQ空间",
+        "onboard_time": 1712549540,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 151877,
+        "num": 151877,
+        "word": "为什么年轻人开始流行三无婚礼",
+        "onboard_time": 1712545040,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 149618,
+        "num": 149618,
+        "word": "大冰现在就剩一个人了",
+        "onboard_time": 1712540296,
+        "rank": 46,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 124607,
+        "num": 149463,
+        "word": "老夫妇居家俩月用水1023吨",
+        "onboard_time": 1712535739,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 111773,
+        "num": 145862,
+        "word": "解读邯郸3名未成年人被追究刑责",
+        "onboard_time": 1712544919,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 110143,
+        "num": 141775,
+        "word": "海绵宝宝喜欢上班的原因",
+        "onboard_time": 1712552541,
+        "rank": 49,
+        "category": "动漫"
+      }
+    ],
+    "hotgov": {
+      "word": "#必须继续做好创新这篇大文章#"
+    }
+  }
+}
