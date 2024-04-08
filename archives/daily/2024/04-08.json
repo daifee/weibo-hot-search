@@ -1,6 +1,6 @@
 {
   "startTime": 1712506792576,
-  "endTime": 1712546348320,
+  "endTime": 1712547354397,
   "band_list": [
     {
       "raw_hot": 9583581,
@@ -49,6 +49,14 @@
       "onboard_time": 1712535140,
       "rank": 1,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1534114,
+      "num": 1534114,
+      "word": "金智媛没入围",
+      "onboard_time": 1712546299,
+      "rank": 46,
+      "category": "剧集"
     },
     {
       "raw_hot": 1272250,
@@ -131,6 +139,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 735058,
+      "num": 735058,
+      "word": "吴镇宇回怼向佐",
+      "onboard_time": 1712544140,
+      "rank": 5,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 713678,
       "num": 713678,
       "word": "iPhone16新一轮爆料来了",
@@ -145,14 +161,6 @@
       "onboard_time": 1712533939,
       "rank": 6,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 632218,
-      "num": 632218,
-      "word": "吴镇宇回怼向佐",
-      "onboard_time": 1712544140,
-      "rank": 5,
-      "category": "综艺"
     },
     {
       "raw_hot": 553928,
@@ -192,6 +200,14 @@
       "word": "仝卓回应工作室讨债",
       "onboard_time": 1712539339,
       "rank": 12,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 518783,
+      "num": 370794,
+      "word": "仝卓工作室直播了",
+      "onboard_time": 1712547319,
+      "rank": 11,
       "category": "艺人"
     },
     {
@@ -315,6 +331,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 368388,
+      "num": 368388,
+      "word": "华为P70",
+      "onboard_time": 1712545040,
+      "rank": 16,
+      "category": "数码"
+    },
+    {
       "raw_hot": 367013,
       "num": 367013,
       "word": "张丹峰晒与女儿出海度假照",
@@ -331,12 +355,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 359856,
-      "num": 359856,
-      "word": "华为P70",
-      "onboard_time": 1712545040,
-      "rank": 16,
-      "category": "数码"
+      "raw_hot": 357116,
+      "num": 307592,
+      "word": "隆江猪脚饭",
+      "onboard_time": 1712544320,
+      "rank": 22,
+      "category": "美食"
     },
     {
       "raw_hot": 356033,
@@ -371,20 +395,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 336985,
+      "num": 336985,
+      "word": "苹果内鬼至少泄密6款苹果产品",
+      "onboard_time": 1712546840,
+      "rank": 15,
+      "category": "数码"
+    },
+    {
       "raw_hot": 334476,
       "num": 334476,
       "word": "张雨绮cos15年前的自己",
       "onboard_time": 1712543359,
       "rank": 33,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 330129,
-      "num": 307592,
-      "word": "隆江猪脚饭",
-      "onboard_time": 1712544320,
-      "rank": 22,
-      "category": "美食"
     },
     {
       "raw_hot": 327740,
@@ -409,6 +433,14 @@
       "onboard_time": 1712541438,
       "rank": 22,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 312054,
+      "num": 278717,
+      "word": "为什么年轻人开始流行三无婚礼",
+      "onboard_time": 1712545040,
+      "rank": 25,
+      "category": "情感"
     },
     {
       "raw_hot": 296558,
@@ -451,12 +483,12 @@
       "category": "作品衍生,艺人"
     },
     {
-      "raw_hot": 274857,
-      "num": 274857,
-      "word": "为什么年轻人开始流行三无婚礼",
-      "onboard_time": 1712545040,
-      "rank": 25,
-      "category": "情感"
+      "raw_hot": 275334,
+      "num": 275334,
+      "word": "宫崎骏电影 盗摄",
+      "onboard_time": 1712546599,
+      "rank": 24,
+      "category": "电影"
     },
     {
       "raw_hot": 272361,
@@ -499,6 +531,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 250896,
+      "num": 250896,
+      "word": "肥胖最大风险基因找到了",
+      "onboard_time": 1712545339,
+      "rank": 27,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 247649,
       "num": 247649,
       "word": "金秀贤金智媛CP感",
@@ -507,12 +547,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 246232,
-      "num": 246232,
-      "word": "肥胖最大风险基因找到了",
-      "onboard_time": 1712545339,
+      "raw_hot": 242991,
+      "num": 242991,
+      "word": "王阳25岁至46岁颜值变化",
+      "onboard_time": 1712546420,
       "rank": 27,
-      "category": "健康医疗"
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 241518,
+      "num": 241518,
+      "word": "电影无名之辈2开机",
+      "onboard_time": 1712546299,
+      "rank": 48,
+      "category": "电影"
     },
     {
       "raw_hot": 238880,
@@ -587,6 +635,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 206774,
+      "num": 206774,
+      "word": "Ning谈去iG试训",
+      "onboard_time": 1712547199,
+      "rank": 35,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 204973,
+      "num": 204973,
+      "word": "王一博屋顶追逐戏",
+      "onboard_time": 1712546239,
+      "rank": 37,
+      "category": "电影"
+    },
+    {
       "raw_hot": 203883,
       "num": 203883,
       "word": "单炮豌豆 双炮豌豆",
@@ -617,6 +681,14 @@
       "onboard_time": 1712493859,
       "rank": 18,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 200170,
+      "num": 200170,
+      "word": "金高银入围百想影后",
+      "onboard_time": 1712547079,
+      "rank": 38,
+      "category": "电影"
     },
     {
       "raw_hot": 199365,
@@ -691,14 +763,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 177907,
-      "num": 177907,
-      "word": "王一博屋顶追逐戏",
-      "onboard_time": 1712546239,
-      "rank": 37,
-      "category": "电影"
-    },
-    {
       "raw_hot": 176470,
       "num": 176470,
       "word": "中医建议女生春天多披头散发",
@@ -731,12 +795,28 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 165012,
+      "num": 165012,
+      "word": "一个是大圣一个是吗喽",
+      "onboard_time": 1712546658,
+      "rank": 43,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 163931,
       "num": 163931,
       "word": "你睡得最晚的一次是在干什么",
       "onboard_time": 1712496560,
       "rank": 24,
       "category": "情感"
+    },
+    {
+      "raw_hot": 162094,
+      "num": 162094,
+      "word": "黄雀在后 爱不能逾矩",
+      "onboard_time": 1712546599,
+      "rank": 45,
+      "category": "电影"
     },
     {
       "raw_hot": 159632,
@@ -809,14 +889,6 @@
       "onboard_time": 1712544200,
       "rank": 45,
       "category": "美妆"
-    },
-    {
-      "raw_hot": 144974,
-      "num": 144974,
-      "word": "金智媛没入围",
-      "onboard_time": 1712546299,
-      "rank": 46,
-      "category": "剧集"
     },
     {
       "raw_hot": 143017,
@@ -905,14 +977,6 @@
       "onboard_time": 1712537540,
       "rank": 45,
       "category": "情感"
-    },
-    {
-      "raw_hot": 136354,
-      "num": 136354,
-      "word": "电影无名之辈2开机",
-      "onboard_time": 1712546299,
-      "rank": 48,
-      "category": "电影"
     },
     {
       "raw_hot": 134170,
@@ -1172,7 +1236,7 @@
     },
     {
       "raw_hot": 86067,
-      "num": 1300697,
+      "num": 1581326,
       "word": "文旅消费如何从开门红走向长红",
       "onboard_time": 1712495958,
       "rank": 2,
