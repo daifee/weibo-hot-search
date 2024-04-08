@@ -1,6 +1,6 @@
 {
   "startTime": 1711902044401,
-  "endTime": 1712567935203,
+  "endTime": 1712568872704,
   "band_list": [
     {
       "raw_hot": 16874674,
@@ -1851,6 +1851,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 979913,
+      "num": 979913,
+      "word": "韩国无糖糖葫芦",
+      "onboard_time": 1712565080,
+      "rank": 41,
+      "category": "美食"
+    },
+    {
       "raw_hot": 979601,
       "num": 979601,
       "word": "杨雪",
@@ -2257,6 +2265,14 @@
       "onboard_time": 1712551820,
       "rank": 6,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 855040,
+      "num": 855040,
+      "word": "我在5点20睡觉13点14准时起",
+      "onboard_time": 1712563161,
+      "rank": 37,
+      "category": "情感"
     },
     {
       "raw_hot": 854537,
@@ -2809,14 +2825,6 @@
       "onboard_time": 1712479399,
       "rank": 14,
       "category": "情感"
-    },
-    {
-      "raw_hot": 742287,
-      "num": 742287,
-      "word": "韩国无糖糖葫芦",
-      "onboard_time": 1712565080,
-      "rank": 41,
-      "category": "美食"
     },
     {
       "raw_hot": 738115,
@@ -3595,6 +3603,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 650332,
+      "num": 650332,
+      "word": "王红权星自曝一个小区有7套房",
+      "onboard_time": 1712567419,
+      "rank": 20,
+      "category": "网红"
+    },
+    {
       "raw_hot": 649910,
       "num": 437142,
       "word": "月薪4000要不要交社保",
@@ -4089,14 +4105,6 @@
       "onboard_time": 1712565440,
       "rank": 5,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 598060,
-      "num": 598060,
-      "word": "我在5点20睡觉13点14准时起",
-      "onboard_time": 1712563161,
-      "rank": 37,
-      "category": "情感"
     },
     {
       "raw_hot": 597605,
@@ -5075,6 +5083,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 514114,
+      "num": 383164,
+      "word": "个人所得税年度汇算不属于被查",
+      "onboard_time": 1712566279,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 513193,
       "num": 513193,
       "word": "论文重复率越改越高真的太痛苦了",
@@ -5211,6 +5227,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 502275,
+      "num": 502275,
+      "word": "胡歌头发白了",
+      "onboard_time": 1712563938,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 502242,
       "num": 502242,
       "word": "海啸",
@@ -5241,14 +5265,6 @@
       "onboard_time": 1712485518,
       "rank": 26,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 498730,
-      "num": 498730,
-      "word": "胡歌头发白了",
-      "onboard_time": 1712563938,
-      "rank": 24,
-      "category": "艺人"
     },
     {
       "raw_hot": 497099,
@@ -5305,14 +5321,6 @@
       "onboard_time": 1712364497,
       "rank": 13,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 489394,
-      "num": 372150,
-      "word": "个人所得税年度汇算不属于被查",
-      "onboard_time": 1712566279,
-      "rank": 11,
-      "category": "艺人"
     },
     {
       "raw_hot": 488928,
@@ -6251,6 +6259,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 429590,
+      "num": 369091,
+      "word": "张俪四分钟翘臀不粗腿跟练",
+      "onboard_time": 1712566459,
+      "rank": 12,
+      "category": "运动健身,艺人"
+    },
+    {
       "raw_hot": 428928,
       "num": 428928,
       "word": "09是谁",
@@ -6945,14 +6961,6 @@
       "onboard_time": 1712236278,
       "rank": 32,
       "category": "教育"
-    },
-    {
-      "raw_hot": 388071,
-      "num": 368250,
-      "word": "张俪四分钟翘臀不粗腿跟练",
-      "onboard_time": 1712566459,
-      "rank": 12,
-      "category": "运动健身,艺人"
     },
     {
       "raw_hot": 387801,
@@ -7851,6 +7859,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 342399,
+      "num": 342399,
+      "word": "费曼回应吴镇宇被向佐硬控",
+      "onboard_time": 1712567599,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 342195,
       "num": 342195,
       "word": "小米内部员工可优惠购车",
@@ -8121,6 +8137,14 @@
       "onboard_time": 1712495838,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 328356,
+      "num": 328356,
+      "word": "王红权星全身没8位数不出门",
+      "onboard_time": 1712567778,
+      "rank": 41,
+      "category": "网红"
     },
     {
       "raw_hot": 328351,
@@ -8713,6 +8737,14 @@
       "onboard_time": 1711895360,
       "rank": 18,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 303442,
+      "num": 303442,
+      "word": "献鱼有郑合惠子",
+      "onboard_time": 1712567659,
+      "rank": 21,
+      "category": "剧集"
     },
     {
       "raw_hot": 302879,
@@ -9739,14 +9771,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 268185,
-      "num": 268185,
-      "word": "王红权星自曝一个小区有7套房",
-      "onboard_time": 1712567419,
-      "rank": 20,
-      "category": "网红"
-    },
-    {
       "raw_hot": 268166,
       "num": 268166,
       "word": "王一博模仿陈佩斯",
@@ -10385,14 +10409,6 @@
       "onboard_time": 1712305818,
       "rank": 24,
       "category": "体育"
-    },
-    {
-      "raw_hot": 250548,
-      "num": 250548,
-      "word": "献鱼有郑合惠子",
-      "onboard_time": 1712567659,
-      "rank": 21,
-      "category": "剧集"
     },
     {
       "raw_hot": 250418,
@@ -11041,6 +11057,14 @@
       "onboard_time": 1712147179,
       "rank": 37,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 235430,
+      "num": 235430,
+      "word": "警方通报34岁律师被捅伤身亡",
+      "onboard_time": 1712567961,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 235422,
@@ -12643,6 +12667,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 205492,
+      "num": 205492,
+      "word": "突然对友情有了进一步理解",
+      "onboard_time": 1712566580,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 205452,
       "num": 205452,
       "word": "张杰巅峰盛典全程",
@@ -12689,14 +12721,6 @@
       "onboard_time": 1712489237,
       "rank": 27,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 205109,
-      "num": 178065,
-      "word": "突然对友情有了进一步理解",
-      "onboard_time": 1712566580,
-      "rank": 30,
-      "category": "情感"
     },
     {
       "raw_hot": 204973,
@@ -14699,6 +14723,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 183755,
+      "num": 166051,
+      "word": "王一博 叫你三声你敢答应吗",
+      "onboard_time": 1712567178,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 183752,
       "num": 183752,
       "word": "追星女的密码",
@@ -15385,14 +15417,6 @@
       "onboard_time": 1712144778,
       "rank": 43,
       "category": "体育"
-    },
-    {
-      "raw_hot": 174820,
-      "num": 174820,
-      "word": "费曼回应吴镇宇被向佐硬控",
-      "onboard_time": 1712567599,
-      "rank": 32,
-      "category": "综艺"
     },
     {
       "raw_hot": 174661,
@@ -16243,6 +16267,14 @@
       "category": "电竞,网红"
     },
     {
+      "raw_hot": 162525,
+      "num": 162525,
+      "word": "白玉兰报名名单",
+      "onboard_time": 1712568677,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 162413,
       "num": 162413,
       "word": "摇太阳片尾曲是张杰唱的",
@@ -16385,6 +16417,14 @@
       "onboard_time": 1712124262,
       "rank": 45,
       "category": "情感"
+    },
+    {
+      "raw_hot": 160930,
+      "num": 160930,
+      "word": "中医朋友建议春天要多出去玩",
+      "onboard_time": 1712568560,
+      "rank": 38,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 160820,
@@ -16913,14 +16953,6 @@
       "onboard_time": 1712556918,
       "rank": 45,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 154276,
-      "num": 149683,
-      "word": "王红权星全身没8位数不出门",
-      "onboard_time": 1712567778,
-      "rank": 41,
-      "category": "网红"
     },
     {
       "raw_hot": 154246,
@@ -17544,14 +17576,6 @@
       "word": "李逍遥 一次主动换来终生内向",
       "onboard_time": 1712323999,
       "rank": 47,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 147528,
-      "num": 147528,
-      "word": "王一博 叫你三声你敢答应吗",
-      "onboard_time": 1712567178,
-      "rank": 42,
       "category": "剧集"
     },
     {
@@ -19697,6 +19721,14 @@
       "onboard_time": 1712050460,
       "rank": 48,
       "category": "数码"
+    },
+    {
+      "raw_hot": 117293,
+      "num": 117293,
+      "word": "学会把事情做的一塌糊涂",
+      "onboard_time": 1712568080,
+      "rank": 47,
+      "category": "情感"
     },
     {
       "raw_hot": 116964,

@@ -1,6 +1,6 @@
 {
   "startTime": 1712506792576,
-  "endTime": 1712567935203,
+  "endTime": 1712568872704,
   "band_list": [
     {
       "raw_hot": 9583581,
@@ -163,6 +163,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 979913,
+      "num": 979913,
+      "word": "韩国无糖糖葫芦",
+      "onboard_time": 1712565080,
+      "rank": 41,
+      "category": "美食"
+    },
+    {
       "raw_hot": 934805,
       "num": 934805,
       "word": "南昌公交事故司机当时心脏不适失去意识",
@@ -201,6 +209,14 @@
       "onboard_time": 1712551820,
       "rank": 6,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 855040,
+      "num": 855040,
+      "word": "我在5点20睡觉13点14准时起",
+      "onboard_time": 1712563161,
+      "rank": 37,
+      "category": "情感"
     },
     {
       "raw_hot": 834349,
@@ -283,14 +299,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 742287,
-      "num": 742287,
-      "word": "韩国无糖糖葫芦",
-      "onboard_time": 1712565080,
-      "rank": 41,
-      "category": "美食"
-    },
-    {
       "raw_hot": 735058,
       "num": 735058,
       "word": "吴镇宇回怼向佐",
@@ -323,6 +331,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 650332,
+      "num": 650332,
+      "word": "王红权星自曝一个小区有7套房",
+      "onboard_time": 1712567419,
+      "rank": 20,
+      "category": "网红"
+    },
+    {
       "raw_hot": 637713,
       "num": 637713,
       "word": "眼泪女王 狗血",
@@ -353,14 +369,6 @@
       "onboard_time": 1712565440,
       "rank": 5,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 598060,
-      "num": 598060,
-      "word": "我在5点20睡觉13点14准时起",
-      "onboard_time": 1712563161,
-      "rank": 37,
-      "category": "情感"
     },
     {
       "raw_hot": 562422,
@@ -451,6 +459,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 514114,
+      "num": 383164,
+      "word": "个人所得税年度汇算不属于被查",
+      "onboard_time": 1712566279,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 502941,
       "num": 502941,
       "word": "眼泪女王 纯爱",
@@ -459,19 +475,11 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 498730,
-      "num": 498730,
+      "raw_hot": 502275,
+      "num": 502275,
       "word": "胡歌头发白了",
       "onboard_time": 1712563938,
       "rank": 24,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 489394,
-      "num": 372150,
-      "word": "个人所得税年度汇算不属于被查",
-      "onboard_time": 1712566279,
-      "rank": 11,
       "category": "艺人"
     },
     {
@@ -587,6 +595,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 429590,
+      "num": 369091,
+      "word": "张俪四分钟翘臀不粗腿跟练",
+      "onboard_time": 1712566459,
+      "rank": 12,
+      "category": "运动健身,艺人"
+    },
+    {
       "raw_hot": 428196,
       "num": 428196,
       "word": "林更新曾是饶雪漫的书模",
@@ -609,14 +625,6 @@
       "onboard_time": 1712551462,
       "rank": 16,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 388071,
-      "num": 368250,
-      "word": "张俪四分钟翘臀不粗腿跟练",
-      "onboard_time": 1712566459,
-      "rank": 12,
-      "category": "运动健身,艺人"
     },
     {
       "raw_hot": 386060,
@@ -747,6 +755,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 342399,
+      "num": 342399,
+      "word": "费曼回应吴镇宇被向佐硬控",
+      "onboard_time": 1712567599,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 337792,
       "num": 337792,
       "word": "易烊千玺机场图",
@@ -761,6 +777,14 @@
       "onboard_time": 1712543359,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 328356,
+      "num": 328356,
+      "word": "王红权星全身没8位数不出门",
+      "onboard_time": 1712567778,
+      "rank": 41,
+      "category": "网红"
     },
     {
       "raw_hot": 327740,
@@ -801,6 +825,14 @@
       "onboard_time": 1712545040,
       "rank": 25,
       "category": "情感"
+    },
+    {
+      "raw_hot": 303442,
+      "num": 303442,
+      "word": "献鱼有郑合惠子",
+      "onboard_time": 1712567659,
+      "rank": 21,
+      "category": "剧集"
     },
     {
       "raw_hot": 301737,
@@ -915,14 +947,6 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 268185,
-      "num": 268185,
-      "word": "王红权星自曝一个小区有7套房",
-      "onboard_time": 1712567419,
-      "rank": 20,
-      "category": "网红"
-    },
-    {
       "raw_hot": 267027,
       "num": 267027,
       "word": "林更新顺毛比耶",
@@ -1019,14 +1043,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 250548,
-      "num": 250548,
-      "word": "献鱼有郑合惠子",
-      "onboard_time": 1712567659,
-      "rank": 21,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 248160,
       "num": 248160,
       "word": "猫 吃了烂猫条遭这老罪",
@@ -1081,6 +1097,14 @@
       "onboard_time": 1712539758,
       "rank": 35,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 235430,
+      "num": 235430,
+      "word": "警方通报34岁律师被捅伤身亡",
+      "onboard_time": 1712567961,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 234556,
@@ -1251,20 +1275,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 205492,
+      "num": 205492,
+      "word": "突然对友情有了进一步理解",
+      "onboard_time": 1712566580,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 205287,
       "num": 205287,
       "word": "世界之外",
       "onboard_time": 1712555479,
       "rank": 31,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 205109,
-      "num": 178065,
-      "word": "突然对友情有了进一步理解",
-      "onboard_time": 1712566580,
-      "rank": 30,
-      "category": "情感"
     },
     {
       "raw_hot": 204973,
@@ -1459,6 +1483,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 183755,
+      "num": 166051,
+      "word": "王一博 叫你三声你敢答应吗",
+      "onboard_time": 1712567178,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 183582,
       "num": 183582,
       "word": "陶渊明诚不欺我",
@@ -1537,14 +1569,6 @@
       "onboard_time": 1712545040,
       "rank": 39,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 174820,
-      "num": 174820,
-      "word": "费曼回应吴镇宇被向佐硬控",
-      "onboard_time": 1712567599,
-      "rank": 32,
-      "category": "综艺"
     },
     {
       "raw_hot": 173135,
@@ -1635,12 +1659,28 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 162525,
+      "num": 162525,
+      "word": "白玉兰报名名单",
+      "onboard_time": 1712568677,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 162094,
       "num": 162094,
       "word": "黄雀在后 爱不能逾矩",
       "onboard_time": 1712546599,
       "rank": 45,
       "category": "电影"
+    },
+    {
+      "raw_hot": 160930,
+      "num": 160930,
+      "word": "中医朋友建议春天要多出去玩",
+      "onboard_time": 1712568560,
+      "rank": 38,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 160820,
@@ -1707,14 +1747,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 154276,
-      "num": 149683,
-      "word": "王红权星全身没8位数不出门",
-      "onboard_time": 1712567778,
-      "rank": 41,
-      "category": "网红"
-    },
-    {
       "raw_hot": 153605,
       "num": 153605,
       "word": "巴黎欧莱雅品牌代言人唐嫣",
@@ -1761,14 +1793,6 @@
       "onboard_time": 1712564239,
       "rank": 42,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 147528,
-      "num": 147528,
-      "word": "王一博 叫你三声你敢答应吗",
-      "onboard_time": 1712567178,
-      "rank": 42,
-      "category": "剧集"
     },
     {
       "raw_hot": 146335,
@@ -2067,12 +2091,28 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 117293,
+      "num": 117293,
+      "word": "学会把事情做的一塌糊涂",
+      "onboard_time": 1712568080,
+      "rank": 47,
+      "category": "情感"
+    },
+    {
       "raw_hot": 116899,
       "num": 577098,
       "word": "老乡鸡20万字菜品溯源报告",
       "onboard_time": 1712556378,
       "rank": 30,
       "category": "美食"
+    },
+    {
+      "raw_hot": 113520,
+      "num": 113520,
+      "word": "KPL",
+      "onboard_time": 1712568799,
+      "rank": 49,
+      "category": "电竞"
     },
     {
       "raw_hot": 109352,
