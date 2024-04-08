@@ -1,6 +1,6 @@
 {
   "startTime": 1712506792576,
-  "endTime": 1712547354397,
+  "endTime": 1712550079227,
   "band_list": [
     {
       "raw_hot": 9583581,
@@ -51,12 +51,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1534114,
-      "num": 1534114,
+      "raw_hot": 1557481,
+      "num": 1557481,
       "word": "金智媛没入围",
       "onboard_time": 1712546299,
       "rank": 46,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 1405697,
+      "num": 1405697,
+      "word": "苹果内鬼至少泄密6款苹果产品",
+      "onboard_time": 1712546840,
+      "rank": 15,
+      "category": "数码"
     },
     {
       "raw_hot": 1272250,
@@ -65,6 +73,14 @@
       "onboard_time": 1712538618,
       "rank": 31,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 1226707,
+      "num": 1226707,
+      "word": "仝卓工作室直播了",
+      "onboard_time": 1712547319,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 1034844,
@@ -131,6 +147,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 745976,
+      "num": 393013,
+      "word": "金价暴涨房价下跌说明了什么",
+      "onboard_time": 1712549540,
+      "rank": 11,
+      "category": "财经"
+    },
+    {
       "raw_hot": 745823,
       "num": 745823,
       "word": "检方通报邯郸初中生被害案",
@@ -163,6 +187,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 621793,
+      "num": 621793,
+      "word": "刘雨昕官宣科切拉",
+      "onboard_time": 1712548521,
+      "rank": 6,
+      "category": "演出"
+    },
+    {
       "raw_hot": 553928,
       "num": 553928,
       "word": "个人房贷规模大幅缩水",
@@ -188,7 +220,7 @@
     },
     {
       "raw_hot": 533863,
-      "num": 316491,
+      "num": 339375,
       "word": "男子女厕偷窥被母亲怒扇巴掌",
       "onboard_time": 1712543178,
       "rank": 49,
@@ -203,12 +235,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 518783,
-      "num": 370794,
-      "word": "仝卓工作室直播了",
-      "onboard_time": 1712547319,
-      "rank": 11,
-      "category": "艺人"
+      "raw_hot": 525169,
+      "num": 349862,
+      "word": "女孩误以为取快递还要和快递合影",
+      "onboard_time": 1712548521,
+      "rank": 20,
+      "category": "幽默"
     },
     {
       "raw_hot": 514693,
@@ -291,6 +323,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 438014,
+      "num": 378424,
+      "word": "宫崎骏电影 盗摄",
+      "onboard_time": 1712546599,
+      "rank": 24,
+      "category": "电影"
+    },
+    {
       "raw_hot": 434323,
       "num": 434323,
       "word": "兰州大学",
@@ -307,12 +347,36 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 432659,
+      "num": 372898,
+      "word": "疯狂星期一定档",
+      "onboard_time": 1712548940,
+      "rank": 16,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 411611,
+      "num": 411611,
+      "word": "邯郸案3人将面临故意杀人罪基本刑罚",
+      "onboard_time": 1712549000,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 386060,
       "num": 386060,
       "word": "老夫妇居家俩月用水1023吨",
       "onboard_time": 1712535739,
       "rank": 16,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 384403,
+      "num": 384403,
+      "word": "俄罗斯外长拉夫罗夫已抵达北京",
+      "onboard_time": 1712548220,
+      "rank": 13,
+      "category": "国内时政"
     },
     {
       "raw_hot": 380803,
@@ -356,7 +420,7 @@
     },
     {
       "raw_hot": 357116,
-      "num": 307592,
+      "num": 347534,
       "word": "隆江猪脚饭",
       "onboard_time": 1712544320,
       "rank": 22,
@@ -369,6 +433,14 @@
       "onboard_time": 1712476038,
       "rank": 13,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 350227,
+      "num": 227026,
+      "word": "小米开放式耳机",
+      "onboard_time": 1712547619,
+      "rank": 31,
+      "category": "数码"
     },
     {
       "raw_hot": 346462,
@@ -393,14 +465,6 @@
       "onboard_time": 1712538920,
       "rank": 19,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 336985,
-      "num": 336985,
-      "word": "苹果内鬼至少泄密6款苹果产品",
-      "onboard_time": 1712546840,
-      "rank": 15,
-      "category": "数码"
     },
     {
       "raw_hot": 334476,
@@ -436,10 +500,18 @@
     },
     {
       "raw_hot": 312054,
-      "num": 278717,
+      "num": 302399,
       "word": "为什么年轻人开始流行三无婚礼",
       "onboard_time": 1712545040,
       "rank": 25,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 311618,
+      "num": 226062,
+      "word": "妈妈十年前的QQ空间",
+      "onboard_time": 1712549540,
+      "rank": 32,
       "category": "情感"
     },
     {
@@ -483,14 +555,6 @@
       "category": "作品衍生,艺人"
     },
     {
-      "raw_hot": 275334,
-      "num": 275334,
-      "word": "宫崎骏电影 盗摄",
-      "onboard_time": 1712546599,
-      "rank": 24,
-      "category": "电影"
-    },
-    {
       "raw_hot": 272361,
       "num": 272361,
       "word": "小米定金事件暴露了成年人的耍赖心态",
@@ -523,12 +587,28 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 254404,
+      "num": 357623,
+      "word": "金高银入围百想影后",
+      "onboard_time": 1712547079,
+      "rank": 38,
+      "category": "电影"
+    },
+    {
       "raw_hot": 252863,
       "num": 252863,
       "word": "王阳 叔圈天菜",
       "onboard_time": 1712499922,
       "rank": 15,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 252469,
+      "num": 225284,
+      "word": "威尔史密斯为成龙庆生",
+      "onboard_time": 1712548880,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 250896,
@@ -577,6 +657,14 @@
       "onboard_time": 1712539758,
       "rank": 35,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 231453,
+      "num": 231453,
+      "word": "时空中的绘旅人",
+      "onboard_time": 1712549480,
+      "rank": 27,
+      "category": "游戏"
     },
     {
       "raw_hot": 229311,
@@ -659,6 +747,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 202922,
+      "num": 202922,
+      "word": "一个是大圣一个是吗喽",
+      "onboard_time": 1712546658,
+      "rank": 43,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 202391,
       "num": 202391,
       "word": "与凤行结局吻戏是加的",
@@ -681,14 +777,6 @@
       "onboard_time": 1712493859,
       "rank": 18,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 200170,
-      "num": 200170,
-      "word": "金高银入围百想影后",
-      "onboard_time": 1712547079,
-      "rank": 38,
-      "category": "电影"
     },
     {
       "raw_hot": 199365,
@@ -729,6 +817,14 @@
       "onboard_time": 1712545521,
       "rank": 35,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 192965,
+      "num": 192965,
+      "word": "胡锡进再谈虐猫考生事件",
+      "onboard_time": 1712549841,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 187420,
@@ -793,14 +889,6 @@
       "onboard_time": 1712534059,
       "rank": 40,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 165012,
-      "num": 165012,
-      "word": "一个是大圣一个是吗喽",
-      "onboard_time": 1712546658,
-      "rank": 43,
-      "category": "幽默"
     },
     {
       "raw_hot": 163931,
@@ -873,6 +961,14 @@
       "onboard_time": 1712479278,
       "rank": 28,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 149695,
+      "num": 149695,
+      "word": "浓眉场均一次被打脸",
+      "onboard_time": 1712547439,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 148955,
@@ -1281,6 +1377,14 @@
       "onboard_time": 1712528353,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 66771,
+      "num": 1413667,
+      "word": "中国新兴文旅迎春勃发",
+      "onboard_time": 1712547680,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 59373,
