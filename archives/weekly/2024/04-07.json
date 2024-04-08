@@ -1,6 +1,6 @@
 {
   "startTime": 1712420539476,
-  "endTime": 1712596677909,
+  "endTime": 1712597651647,
   "band_list": [
     {
       "raw_hot": 9583581,
@@ -6027,6 +6027,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 81334,
+      "num": 81334,
+      "word": "剑网3",
+      "onboard_time": 1712595793,
+      "rank": 34,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 80800,
       "num": 394122,
       "word": "国内首个手机护眼白皮书",
@@ -6065,14 +6073,6 @@
       "onboard_time": 1712421556,
       "rank": 44,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 76389,
-      "num": 76389,
-      "word": "剑网3",
-      "onboard_time": 1712595793,
-      "rank": 34,
-      "category": "游戏"
     },
     {
       "raw_hot": 75102,
@@ -6187,6 +6187,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 56239,
+      "num": 56239,
+      "word": "孙坚吐槽奢侈品包质量问题",
+      "onboard_time": 1712597292,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 55451,
       "num": 45786,
       "word": "那些熬过的夜再也补不回来了",
@@ -6265,6 +6273,14 @@
       "onboard_time": 1712413100,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 40657,
+      "num": 40657,
+      "word": "费曼好孝",
+      "onboard_time": 1712597593,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 39863,
@@ -6355,6 +6371,14 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 19995,
+      "num": 387946,
+      "word": "我国首口超5000米深层地热科学探井",
+      "onboard_time": 1712582122,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 18570,
       "num": 21927,
       "word": "徐海乔宣璐谈林更新",
@@ -6392,14 +6416,6 @@
       "word": "医学生夜市摆摊按摩9.9元起",
       "onboard_time": 1712435710,
       "rank": 49,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 9240,
-      "num": 387946,
-      "word": "我国首口超5000米深层地热科学探井",
-      "onboard_time": 1712582122,
-      "rank": 2,
       "category": "社会新闻"
     }
   ],

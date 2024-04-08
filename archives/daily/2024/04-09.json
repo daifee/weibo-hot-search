@@ -1,6 +1,6 @@
 {
   "startTime": 1712593429256,
-  "endTime": 1712596677909,
+  "endTime": 1712597651647,
   "band_list": [
     {
       "raw_hot": 1748207,
@@ -403,20 +403,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 81334,
+      "num": 81334,
+      "word": "剑网3",
+      "onboard_time": 1712595793,
+      "rank": 34,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 79576,
       "num": 96436,
       "word": "央视网评岳婿双行长",
       "onboard_time": 1712583381,
       "rank": 48,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 76389,
-      "num": 76389,
-      "word": "剑网3",
-      "onboard_time": 1712595793,
-      "rank": 34,
-      "category": "游戏"
     },
     {
       "raw_hot": 68368,
@@ -427,6 +427,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 56239,
+      "num": 56239,
+      "word": "孙坚吐槽奢侈品包质量问题",
+      "onboard_time": 1712597292,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 51504,
       "num": 151999,
       "word": "感动中国2023颁奖辞",
@@ -435,7 +443,15 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 9240,
+      "raw_hot": 40657,
+      "num": 40657,
+      "word": "费曼好孝",
+      "onboard_time": 1712597593,
+      "rank": 49,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 19995,
       "num": 387946,
       "word": "我国首口超5000米深层地热科学探井",
       "onboard_time": 1712582122,
