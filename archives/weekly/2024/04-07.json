@@ -1,6 +1,6 @@
 {
   "startTime": 1712420539476,
-  "endTime": 1712532864549,
+  "endTime": 1712538862676,
   "band_list": [
     {
       "raw_hot": 4232521,
@@ -19,11 +19,27 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2799841,
+      "num": 2799841,
+      "word": "虐猫考生已参加兰大研究生调剂复试",
+      "onboard_time": 1712533457,
+      "rank": 0,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2473429,
       "num": 2473429,
       "word": "想当行长继承家产男孩父亲确为行长",
       "onboard_time": 1712469258,
       "rank": 0,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2184126,
+      "num": 454165,
+      "word": "虐猫考生说不是很懂网络舆论暂不回应",
+      "onboard_time": 1712534598,
+      "rank": 10,
       "category": "社会新闻"
     },
     {
@@ -57,6 +73,14 @@
       "onboard_time": 1712454676,
       "rank": 8,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1643008,
+      "num": 1643008,
+      "word": "仝卓工作室曝仝卓差税被查",
+      "onboard_time": 1712535140,
+      "rank": 1,
+      "category": "艺人"
     },
     {
       "raw_hot": 1634789,
@@ -235,6 +259,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 1030378,
+      "num": 198666,
+      "word": "日本天皇独女被曝遭受过校园霸凌",
+      "onboard_time": 1712534778,
+      "rank": 33,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 1011415,
       "num": 1011415,
       "word": "爱奇艺2024首部破万剧",
@@ -363,6 +395,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 763795,
+      "num": 763795,
+      "word": "刷牙最该刷的其实不是牙齿",
+      "onboard_time": 1712532975,
+      "rank": 3,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 754115,
       "num": 754115,
       "word": "1L康师傅冰红茶涨到5元",
@@ -377,6 +417,14 @@
       "onboard_time": 1712512333,
       "rank": 28,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 748894,
+      "num": 748894,
+      "word": "网友称被陈飞宇索赔20万",
+      "onboard_time": 1712536879,
+      "rank": 4,
+      "category": "艺人"
     },
     {
       "raw_hot": 742747,
@@ -419,6 +467,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 713678,
+      "num": 713678,
+      "word": "iPhone16新一轮爆料来了",
+      "onboard_time": 1712534838,
+      "rank": 5,
+      "category": "数码"
+    },
+    {
       "raw_hot": 712220,
       "num": 712220,
       "word": "22岁的我已经和癌症斗了3000天",
@@ -433,6 +489,14 @@
       "onboard_time": 1712461099,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 710588,
+      "num": 710588,
+      "word": "地铁内男子疑似站立猥亵",
+      "onboard_time": 1712533939,
+      "rank": 6,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 705708,
@@ -763,6 +827,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 502941,
+      "num": 502941,
+      "word": "眼泪女王 纯爱",
+      "onboard_time": 1712536038,
+      "rank": 8,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 502860,
       "num": 502860,
       "word": "自称秦朗舅舅男子因造谣被警方处罚",
@@ -915,6 +987,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 456332,
+      "num": 456332,
+      "word": "德国博物馆调查八国联军劫掠的中国文物",
+      "onboard_time": 1712536460,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 453772,
       "num": 453772,
       "word": "林更新是赵丽颖一级铁粉",
@@ -931,12 +1011,36 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 443222,
+      "num": 443222,
+      "word": "华为",
+      "onboard_time": 1712536819,
+      "rank": 12,
+      "category": "数码"
+    },
+    {
       "raw_hot": 442057,
       "num": 442057,
       "word": "王阳 叔圈天菜",
       "onboard_time": 1712499922,
       "rank": 41,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 438395,
+      "num": 438395,
+      "word": "日全食",
+      "onboard_time": 1712534778,
+      "rank": 13,
+      "category": "科学科普"
+    },
+    {
+      "raw_hot": 434323,
+      "num": 434323,
+      "word": "兰州大学",
+      "onboard_time": 1712536578,
+      "rank": 14,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 426422,
@@ -1043,6 +1147,14 @@
       "category": "艺人,作品衍生"
     },
     {
+      "raw_hot": 385554,
+      "num": 385554,
+      "word": "老夫妇居家俩月用水1023吨",
+      "onboard_time": 1712535739,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 382038,
       "num": 382038,
       "word": "徐若晗说成龙很爱看短视频",
@@ -1073,6 +1185,14 @@
       "onboard_time": 1712450059,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 380382,
+      "num": 200338,
+      "word": "怪不得小时候发现不了唐僧换人",
+      "onboard_time": 1712538618,
+      "rank": 31,
+      "category": "幽默"
     },
     {
       "raw_hot": 372174,
@@ -1113,6 +1233,14 @@
       "onboard_time": 1712476458,
       "rank": 15,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 367013,
+      "num": 367013,
+      "word": "张丹峰晒与女儿出海度假照",
+      "onboard_time": 1712533576,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 364405,
@@ -1252,7 +1380,7 @@
     },
     {
       "raw_hot": 327740,
-      "num": 192814,
+      "num": 211099,
       "word": "范志毅出任辽宁铁人主帅",
       "onboard_time": 1712531174,
       "rank": 10,
@@ -1313,6 +1441,14 @@
       "onboard_time": 1712464700,
       "rank": 23,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 305594,
+      "num": 305594,
+      "word": "冷圈太太",
+      "onboard_time": 1712535079,
+      "rank": 18,
+      "category": "动漫"
     },
     {
       "raw_hot": 305220,
@@ -1379,6 +1515,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 292054,
+      "num": 262110,
+      "word": "有些糖尿病可能是睡出来的",
+      "onboard_time": 1712533698,
+      "rank": 22,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 290036,
       "num": 218909,
       "word": "DK被零封",
@@ -1425,6 +1569,14 @@
       "onboard_time": 1712494760,
       "rank": 31,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 275926,
+      "num": 275926,
+      "word": "于适戛纳生图",
+      "onboard_time": 1712537001,
+      "rank": 19,
+      "category": "作品衍生,艺人"
     },
     {
       "raw_hot": 273999,
@@ -1571,6 +1723,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 247649,
+      "num": 247649,
+      "word": "金秀贤金智媛CP感",
+      "onboard_time": 1712536819,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 246805,
       "num": 246805,
       "word": "九尾掌管干将的神",
@@ -1643,6 +1803,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 238880,
+      "num": 238880,
+      "word": "仝卓公司申请注销",
+      "onboard_time": 1712533576,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 237694,
       "num": 237694,
       "word": "追风者黄秘书下线",
@@ -1665,6 +1833,14 @@
       "onboard_time": 1712418497,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 235128,
+      "num": 235128,
+      "word": "配眼镜原来有那么多坑",
+      "onboard_time": 1712537480,
+      "rank": 25,
+      "category": "科学科普"
     },
     {
       "raw_hot": 234837,
@@ -1987,6 +2163,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 202372,
+      "num": 202372,
+      "word": "女子一天狂炫5个青团进医院",
+      "onboard_time": 1712537959,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 201676,
       "num": 201676,
       "word": "成龙称心里会惊讶已经70岁",
@@ -2051,6 +2235,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 199365,
+      "num": 199365,
+      "word": "甲状腺癌增多可能和过度诊断有关",
+      "onboard_time": 1712531174,
+      "rank": 23,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 198085,
       "num": 198085,
       "word": "静白离开甘露寺遇见好人了",
@@ -2067,12 +2259,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 195632,
-      "num": 127082,
-      "word": "甲状腺癌增多可能和过度诊断有关",
-      "onboard_time": 1712531174,
-      "rank": 23,
-      "category": "健康医疗"
+      "raw_hot": 197550,
+      "num": 197550,
+      "word": "EXO永远的彼得潘",
+      "onboard_time": 1712532615,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 194835,
@@ -2283,6 +2475,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 183582,
+      "num": 183582,
+      "word": "陶渊明诚不欺我",
+      "onboard_time": 1712536640,
+      "rank": 36,
+      "category": "读书作家"
+    },
+    {
       "raw_hot": 182596,
       "num": 182596,
       "word": "我打宿傩",
@@ -2467,6 +2667,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 169771,
+      "num": 169771,
+      "word": "单炮豌豆 双炮豌豆",
+      "onboard_time": 1712538439,
+      "rank": 39,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 168978,
       "num": 168978,
       "word": "手术直播间 咖啡过量小心肾衰竭",
@@ -2505,6 +2713,14 @@
       "onboard_time": 1712445435,
       "rank": 22,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 166489,
+      "num": 166489,
+      "word": "莫桑比克沉船至少91死",
+      "onboard_time": 1712534059,
+      "rank": 40,
+      "category": "国外时政"
     },
     {
       "raw_hot": 166023,
@@ -2595,6 +2811,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 153024,
+      "num": 153024,
+      "word": "90后准新娘婚前立遗嘱遗产归父母",
+      "onboard_time": 1712518930,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 152854,
       "num": 131854,
       "word": "林更新周冬雨军服旧照",
@@ -2667,6 +2891,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 143017,
+      "num": 143017,
+      "word": "代号鸢玩家维权",
+      "onboard_time": 1712534958,
+      "rank": 43,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 142067,
       "num": 142067,
       "word": "包贝尔近照",
@@ -2713,6 +2945,14 @@
       "onboard_time": 1712476038,
       "rank": 48,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 139680,
+      "num": 139680,
+      "word": "抢乌萨奇",
+      "onboard_time": 1712535259,
+      "rank": 44,
+      "category": "动漫"
     },
     {
       "raw_hot": 138948,
@@ -2763,6 +3003,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 137199,
+      "num": 137199,
+      "word": "内心稳定别人就拿你没办法",
+      "onboard_time": 1712537540,
+      "rank": 45,
+      "category": "情感"
+    },
+    {
       "raw_hot": 136640,
       "num": 136640,
       "word": "不小心替朋友回复了生日祝福",
@@ -2785,6 +3033,14 @@
       "onboard_time": 1712486417,
       "rank": 44,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 134170,
+      "num": 134170,
+      "word": "以色列",
+      "onboard_time": 1712535259,
+      "rank": 46,
+      "category": "国外时政"
     },
     {
       "raw_hot": 133958,
@@ -2819,12 +3075,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 133233,
+      "num": 133233,
+      "word": "散光恢复训练",
+      "onboard_time": 1712538618,
+      "rank": 47,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 133096,
       "num": 133096,
       "word": "元梦之星 蛋仔派对",
       "onboard_time": 1712448679,
       "rank": 47,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 133087,
+      "num": 133087,
+      "word": "这几个不良睡眠习惯你中招了吗",
+      "onboard_time": 1712536339,
+      "rank": 48,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 132219,
@@ -2945,14 +3217,6 @@
       "onboard_time": 1712488277,
       "rank": 46,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 126625,
-      "num": 126625,
-      "word": "90后准新娘婚前立遗嘱遗产归父母",
-      "onboard_time": 1712518930,
-      "rank": 25,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 126449,
@@ -3089,14 +3353,6 @@
       "onboard_time": 1712480419,
       "rank": 47,
       "category": "情感"
-    },
-    {
-      "raw_hot": 119591,
-      "num": 97095,
-      "word": "EXO永远的彼得潘",
-      "onboard_time": 1712532615,
-      "rank": 31,
-      "category": "艺人"
     },
     {
       "raw_hot": 119340,
@@ -3273,6 +3529,14 @@
       "onboard_time": 1712444773,
       "rank": 36,
       "category": "演出"
+    },
+    {
+      "raw_hot": 86067,
+      "num": 1078611,
+      "word": "文旅消费如何从开门红走向长红",
+      "onboard_time": 1712495958,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 85732,
@@ -3457,14 +3721,6 @@
       "onboard_time": 1712413580,
       "rank": 47,
       "category": "教育"
-    },
-    {
-      "raw_hot": 54186,
-      "num": 1078611,
-      "word": "文旅消费如何从开门红走向长红",
-      "onboard_time": 1712495958,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 53394,
