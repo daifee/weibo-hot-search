@@ -1,6 +1,6 @@
 {
   "startTime": 1711902044401,
-  "endTime": 1712610955965,
+  "endTime": 1712612072067,
   "band_list": [
     {
       "raw_hot": 16874674,
@@ -22331,6 +22331,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 50336,
+      "num": 50336,
+      "word": "凌晨4点在深圳海边看银河",
+      "onboard_time": 1712605212,
+      "rank": 30,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 50331,
       "num": 47074,
       "word": "YG与HYBE的歌曲拼出JYP的感觉",
@@ -22499,14 +22507,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 40382,
-      "num": 48727,
-      "word": "凌晨4点在深圳海边看银河",
-      "onboard_time": 1712605212,
-      "rank": 30,
-      "category": "旅游"
-    },
-    {
       "raw_hot": 39863,
       "num": 41142,
       "word": "当我帮奶奶重启了手机",
@@ -22569,6 +22569,14 @@
       "onboard_time": 1712078112,
       "rank": 49,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 38138,
+      "num": 38138,
+      "word": "河南姑娘在四季青做穿版模特月入两万",
+      "onboard_time": 1712604070,
+      "rank": 40,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 37626,
@@ -22641,14 +22649,6 @@
       "onboard_time": 1712264350,
       "rank": 46,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 31836,
-      "num": 31836,
-      "word": "河南姑娘在四季青做穿版模特月入两万",
-      "onboard_time": 1712604070,
-      "rank": 40,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 31834,
@@ -22937,6 +22937,14 @@
       "onboard_time": 1712606110,
       "rank": 39,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 19187,
+      "num": 19187,
+      "word": "为什么年轻人愿意自己带孩子",
+      "onboard_time": 1712611150,
+      "rank": 30,
+      "category": "情感"
     },
     {
       "raw_hot": 18809,
