@@ -1,0 +1,410 @@
+{
+  "runTime": 1712603690176,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 136394,
+        "num": 136394,
+        "word": "王一博托姐公开秀恩爱",
+        "onboard_time": 1712578400,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 109830,
+        "num": 109830,
+        "word": "赵露思安妮海瑟薇穿同款皮裙",
+        "onboard_time": 1712599392,
+        "rank": 1,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 16453,
+        "num": 108657,
+        "word": "我国首口超5000米深层地热科学探井",
+        "onboard_time": 1712582122,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 107738,
+        "num": 107738,
+        "word": "日全食",
+        "onboard_time": 1712585841,
+        "rank": 3,
+        "category": "自然"
+      },
+      {
+        "raw_hot": 105360,
+        "num": 105360,
+        "word": "朱婷官宣回归中国女排",
+        "onboard_time": 1712589379,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 87787,
+        "num": 87787,
+        "word": "赵丽颖曾推荐刘宇宁演与凤行",
+        "onboard_time": 1712585961,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 84737,
+        "num": 84737,
+        "word": "我们家 没这个条件",
+        "onboard_time": 1712589019,
+        "rank": 6,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 70050,
+        "num": 70050,
+        "word": "官方通报女子半截身子卷入扶梯",
+        "onboard_time": 1712585364,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 20867,
+        "num": 69820,
+        "word": "感动中国2023年度人物",
+        "onboard_time": 1712582179,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 39357,
+        "num": 69494,
+        "word": "00后开始青睐三无婚礼",
+        "onboard_time": 1712590938,
+        "rank": 9,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 156964,
+        "num": 69369,
+        "word": "虐猫考生未被兰州大学录取",
+        "onboard_time": 1712590099,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 103623,
+        "num": 68947,
+        "word": "江西师大男学生虐猫",
+        "onboard_time": 1712592380,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 71818,
+        "num": 68701,
+        "word": "关于女性生殖系统的一些知识",
+        "onboard_time": 1712577619,
+        "rank": 12,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 68626,
+        "num": 68626,
+        "word": "孙坚吐槽奢侈品包质量问题",
+        "onboard_time": 1712597292,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 63465,
+        "num": 63465,
+        "word": "欧阳娜娜奖学金",
+        "onboard_time": 1712590999,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 62924,
+        "num": 62924,
+        "word": "cube男经纪人骚扰minnie后续",
+        "onboard_time": 1712594715,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 62518,
+        "num": 62518,
+        "word": "追星也会影响颜值",
+        "onboard_time": 1712589440,
+        "rank": 16,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 57542,
+        "num": 57542,
+        "word": "考上研本科延毕了",
+        "onboard_time": 1712588060,
+        "rank": 17,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 53520,
+        "num": 53520,
+        "word": "鞠婧祎演技",
+        "onboard_time": 1712591598,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 49835,
+        "num": 49835,
+        "word": "中医建议大家不要盲目的防晒",
+        "onboard_time": 1712577139,
+        "rank": 19,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 39071,
+        "num": 39071,
+        "word": "意外吃到了去世10年爷爷种的韭菜",
+        "onboard_time": 1712562257,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 34952,
+        "num": 34952,
+        "word": "金智媛生图",
+        "onboard_time": 1712599932,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 33694,
+        "num": 33694,
+        "word": "庆余年2",
+        "onboard_time": 1712588479,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 33620,
+        "num": 33620,
+        "word": "原来林更新粉丝吃这么好",
+        "onboard_time": 1712599452,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 33079,
+        "num": 33079,
+        "word": "有苹果15要不要申请贫困生",
+        "onboard_time": 1712585298,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 31330,
+        "num": 31330,
+        "word": "周雨彤 一次醉酒换来一生内向",
+        "onboard_time": 1712591778,
+        "rank": 25,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 30720,
+        "num": 30720,
+        "word": "王一博演唱会",
+        "onboard_time": 1712570538,
+        "rank": 26,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 30468,
+        "num": 30468,
+        "word": "俄罗斯远东一地发现放射源",
+        "onboard_time": 1712587280,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 27455,
+        "num": 27455,
+        "word": "白羊座新月许愿",
+        "onboard_time": 1712595434,
+        "rank": 28,
+        "category": "情感,网红"
+      },
+      {
+        "raw_hot": 19632,
+        "num": 27347,
+        "word": "在欧美访了个寂寞中国工程师决定自己搞",
+        "onboard_time": 1712597892,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 27326,
+        "num": 27326,
+        "word": "王鹤棣 人夫感",
+        "onboard_time": 1712590638,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 24681,
+        "num": 24681,
+        "word": "杨幂 谍战剧",
+        "onboard_time": 1712587522,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 24131,
+        "num": 24131,
+        "word": "辞职旅行半年后我的生活翻天覆地",
+        "onboard_time": 1712580679,
+        "rank": 32,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 23858,
+        "num": 23858,
+        "word": "iPhone闹钟正确设置方法",
+        "onboard_time": 1712580259,
+        "rank": 33,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 23774,
+        "num": 23774,
+        "word": "剑网3",
+        "onboard_time": 1712595793,
+        "rank": 34,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 22903,
+        "num": 22903,
+        "word": "孙亚龙确诊中风",
+        "onboard_time": 1712575338,
+        "rank": 35,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 22135,
+        "num": 22135,
+        "word": "奥运会资格系列赛开票",
+        "onboard_time": 1712597713,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 21256,
+        "num": 21256,
+        "word": "虐猫考生",
+        "onboard_time": 1712573899,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 20512,
+        "num": 20512,
+        "word": "费曼好孝",
+        "onboard_time": 1712597593,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 19899,
+        "num": 19899,
+        "word": "金价暴涨房价下跌说明了什么",
+        "onboard_time": 1712549540,
+        "rank": 39,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 19695,
+        "num": 19695,
+        "word": "吴磊 文艺片票房",
+        "onboard_time": 1712591119,
+        "rank": 40,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 19051,
+        "num": 19051,
+        "word": "朴成训 颧骨",
+        "onboard_time": 1712577018,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 18863,
+        "num": 18863,
+        "word": "白鹿临江仙出妆了",
+        "onboard_time": 1712581879,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 18638,
+        "num": 18638,
+        "word": "宇多田光时隔24年唱First love",
+        "onboard_time": 1712601612,
+        "rank": 43,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 18570,
+        "num": 18570,
+        "word": "时代少年团演唱会快官宣",
+        "onboard_time": 1712585961,
+        "rank": 44,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 18314,
+        "num": 18314,
+        "word": "刘亦菲高定粉裙",
+        "onboard_time": 1712582720,
+        "rank": 45,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 18259,
+        "num": 18259,
+        "word": "为什么抠脚后总是想要闻一下手",
+        "onboard_time": 1712584640,
+        "rank": 46,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 18249,
+        "num": 18249,
+        "word": "王晰怎么了",
+        "onboard_time": 1712586681,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 17061,
+        "num": 18247,
+        "word": "王一博婉拒吃播",
+        "onboard_time": 1712598554,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 15059,
+        "num": 18240,
+        "word": "张雨霏要做世界的蝶后",
+        "onboard_time": 1712603651,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习主席非常关注和关心动物保护工作#"
+    }
+  }
+}

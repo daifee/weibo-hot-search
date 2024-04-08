@@ -1,6 +1,6 @@
 {
   "startTime": 1711902044401,
-  "endTime": 1712601432821,
+  "endTime": 1712603690176,
   "band_list": [
     {
       "raw_hot": 16874674,
@@ -22915,6 +22915,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 18638,
+      "num": 18638,
+      "word": "宇多田光时隔24年唱First love",
+      "onboard_time": 1712601612,
+      "rank": 43,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 18570,
       "num": 21927,
       "word": "徐海乔宣璐谈林更新",
@@ -22959,6 +22967,14 @@
       "num": 16614,
       "word": "福宝加入海归F4",
       "onboard_time": 1712348291,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 15059,
+      "num": 18240,
+      "word": "张雨霏要做世界的蝶后",
+      "onboard_time": 1712603651,
       "rank": 49,
       "category": "社会新闻"
     },
