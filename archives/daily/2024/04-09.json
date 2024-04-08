@@ -1,6 +1,6 @@
 {
   "startTime": 1712593429256,
-  "endTime": 1712597651647,
+  "endTime": 1712600710850,
   "band_list": [
     {
       "raw_hot": 1748207,
@@ -331,6 +331,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 113673,
+      "num": 113673,
+      "word": "孙坚吐槽奢侈品包质量问题",
+      "onboard_time": 1712597292,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 109972,
       "num": 109972,
       "word": "白羊座新月许愿",
@@ -403,6 +411,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 82269,
+      "num": 82269,
+      "word": "赵露思安妮海瑟薇穿同款皮裙",
+      "onboard_time": 1712599392,
+      "rank": 22,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 81334,
       "num": 81334,
       "word": "剑网3",
@@ -427,20 +443,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 56239,
-      "num": 56239,
-      "word": "孙坚吐槽奢侈品包质量问题",
-      "onboard_time": 1712597292,
-      "rank": 34,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 51504,
       "num": 151999,
       "word": "感动中国2023颁奖辞",
       "onboard_time": 1712588000,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 41920,
+      "num": 41920,
+      "word": "王一博婉拒吃播",
+      "onboard_time": 1712598554,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 40657,
@@ -451,7 +467,39 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 19995,
+      "raw_hot": 39495,
+      "num": 39495,
+      "word": "原来林更新粉丝吃这么好",
+      "onboard_time": 1712599452,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 32006,
+      "num": 32006,
+      "word": "金智媛生图",
+      "onboard_time": 1712599932,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 28039,
+      "num": 28039,
+      "word": "奥运会资格系列赛开票",
+      "onboard_time": 1712597713,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 27825,
+      "num": 39692,
+      "word": "在欧美访了个寂寞中国工程师决定自己搞",
+      "onboard_time": 1712597892,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 26041,
       "num": 387946,
       "word": "我国首口超5000米深层地热科学探井",
       "onboard_time": 1712582122,
