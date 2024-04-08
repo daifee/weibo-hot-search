@@ -1,0 +1,410 @@
+{
+  "runTime": 1712574918418,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1398618,
+        "num": 1398618,
+        "word": "王一博演唱会",
+        "onboard_time": 1712570538,
+        "rank": 0,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 1147470,
+        "num": 1147470,
+        "word": "周梓倩自曝正骨被性骚扰",
+        "onboard_time": 1712570899,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 60070,
+        "num": 1120859,
+        "word": "流动的中国处处是风景",
+        "onboard_time": 1712562197,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1110623,
+        "num": 1110623,
+        "word": "不愿意就算了 但他愿意",
+        "onboard_time": 1712572818,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1012450,
+        "num": 1012450,
+        "word": "意外吃到了去世10年爷爷种的韭菜",
+        "onboard_time": 1712562257,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 737937,
+        "num": 737937,
+        "word": "偷感很重",
+        "onboard_time": 1712570419,
+        "rank": 5,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 552172,
+        "num": 552172,
+        "word": "足协所有中层干部暂时被免职",
+        "onboard_time": 1712571320,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 536577,
+        "num": 536577,
+        "word": "王一博说个人演唱会OK",
+        "onboard_time": 1712569640,
+        "rank": 7,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 316048,
+        "num": 511200,
+        "word": "淄博烧烤持续火爆的原因找到了",
+        "onboard_time": 1712569819,
+        "rank": 8,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 494701,
+        "num": 494701,
+        "word": "庆余年2速速抬上来",
+        "onboard_time": 1712569039,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1055656,
+        "num": 484974,
+        "word": "小学生1年被抢3万7变霸凌者",
+        "onboard_time": 1712569339,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 770762,
+        "num": 479892,
+        "word": "虐猫考生未现身兰大研究生思政考核",
+        "onboard_time": 1712569160,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 510653,
+        "num": 478236,
+        "word": "金价暴涨房价下跌说明了什么",
+        "onboard_time": 1712549540,
+        "rank": 12,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 471236,
+        "num": 471236,
+        "word": "白玉兰报名名单",
+        "onboard_time": 1712568677,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 454966,
+        "num": 454966,
+        "word": "王一博憋了个大的",
+        "onboard_time": 1712572999,
+        "rank": 14,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 439813,
+        "num": 439813,
+        "word": "王红权星自曝一个小区有7套房",
+        "onboard_time": 1712567419,
+        "rank": 15,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 377534,
+        "num": 377534,
+        "word": "我在5点20睡觉13点14准时起",
+        "onboard_time": 1712563161,
+        "rank": 16,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 347046,
+        "num": 347046,
+        "word": "颧骨",
+        "onboard_time": 1712574380,
+        "rank": 17,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 287274,
+        "num": 287274,
+        "word": "浙江34岁律师被歹徒袭击身亡",
+        "onboard_time": 1712561418,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 258243,
+        "num": 258243,
+        "word": "龙年龙月龙日龙时",
+        "onboard_time": 1712559438,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 318603,
+        "num": 255598,
+        "word": "朴彩英卷发",
+        "onboard_time": 1712568978,
+        "rank": 20,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 246527,
+        "num": 246527,
+        "word": "虐猫考生",
+        "onboard_time": 1712573899,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 245032,
+        "num": 245032,
+        "word": "费曼回应吴镇宇被向佐硬控",
+        "onboard_time": 1712567599,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 231276,
+        "num": 231276,
+        "word": "张俪四分钟翘臀不粗腿跟练",
+        "onboard_time": 1712566459,
+        "rank": 23,
+        "category": "运动健身,艺人"
+      },
+      {
+        "raw_hot": 224386,
+        "num": 224386,
+        "word": "第一次见工作室捶正主",
+        "onboard_time": 1712556559,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 194003,
+        "num": 194003,
+        "word": "韩国无糖糖葫芦",
+        "onboard_time": 1712565080,
+        "rank": 25,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 180350,
+        "num": 180350,
+        "word": "南昌一辆公交车失控冲向路边人群",
+        "onboard_time": 1712554159,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 174347,
+        "num": 174347,
+        "word": "尚美巴黎 于适",
+        "onboard_time": 1712574739,
+        "rank": 27,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 172348,
+        "num": 172348,
+        "word": "警方通报34岁律师被捅伤身亡",
+        "onboard_time": 1712567961,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 158302,
+        "num": 158302,
+        "word": "目睹了酒店换床单",
+        "onboard_time": 1712556918,
+        "rank": 29,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 155398,
+        "num": 155398,
+        "word": "不防晒为什么容易衰老",
+        "onboard_time": 1712571620,
+        "rank": 30,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 154791,
+        "num": 154791,
+        "word": "iPhone16最新高清渲染图",
+        "onboard_time": 1712559618,
+        "rank": 31,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 154432,
+        "num": 154432,
+        "word": "忍住不联系是射手的一贯作风",
+        "onboard_time": 1712574679,
+        "rank": 32,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 153404,
+        "num": 153404,
+        "word": "何与真不拿大家当外人",
+        "onboard_time": 1712574380,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 151200,
+        "num": 151200,
+        "word": "眼泪女王 狗血",
+        "onboard_time": 1712553199,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 144879,
+        "num": 144879,
+        "word": "吴镇宇 挣的都是精神损失费",
+        "onboard_time": 1712571861,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 143755,
+        "num": 143755,
+        "word": "仝卓发布律师函",
+        "onboard_time": 1712565440,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 142892,
+        "num": 142892,
+        "word": "怎么和infp复合",
+        "onboard_time": 1712572519,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 141885,
+        "num": 141885,
+        "word": "厌倦了什么都要排队的生活",
+        "onboard_time": 1712572578,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 131564,
+        "num": 138493,
+        "word": "中方回应美计划在亚太部署中程导弹",
+        "onboard_time": 1712571978,
+        "rank": 39,
+        "category": "国内时政,军事"
+      },
+      {
+        "raw_hot": 137719,
+        "num": 137719,
+        "word": "李一桐在家给肉肉洗澡",
+        "onboard_time": 1712571139,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 136636,
+        "num": 136636,
+        "word": "中医朋友建议春天要多出去玩",
+        "onboard_time": 1712568560,
+        "rank": 41,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 135871,
+        "num": 135871,
+        "word": "个人所得税年度汇算不属于被查",
+        "onboard_time": 1712566279,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 130387,
+        "num": 130387,
+        "word": "KPL赛程",
+        "onboard_time": 1712573779,
+        "rank": 43,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 124445,
+        "num": 124445,
+        "word": "易烊千玺出发日内瓦",
+        "onboard_time": 1712563881,
+        "rank": 44,
+        "category": "艺人,演出"
+      },
+      {
+        "raw_hot": 123197,
+        "num": 123197,
+        "word": "壮壮妈发型",
+        "onboard_time": 1712562438,
+        "rank": 45,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 122039,
+        "num": 122039,
+        "word": "CBA常规赛奖项公布",
+        "onboard_time": 1712573539,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 118975,
+        "num": 118975,
+        "word": "献鱼杀青",
+        "onboard_time": 1712572099,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 116047,
+        "num": 116047,
+        "word": "巴黎奥运将启用紫色跑道",
+        "onboard_time": 1712574618,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 114204,
+        "num": 114204,
+        "word": "胡歌头发白了",
+        "onboard_time": 1712563938,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#必须继续做好创新这篇大文章#"
+    }
+  }
+}

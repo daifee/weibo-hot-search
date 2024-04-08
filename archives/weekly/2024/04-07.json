@@ -1,6 +1,6 @@
 {
   "startTime": 1712420539476,
-  "endTime": 1712572651265,
+  "endTime": 1712574918418,
   "band_list": [
     {
       "raw_hot": 9583581,
@@ -219,6 +219,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 1398618,
+      "num": 1398618,
+      "word": "王一博演唱会",
+      "onboard_time": 1712570538,
+      "rank": 11,
+      "category": "演出"
+    },
+    {
       "raw_hot": 1371438,
       "num": 910203,
       "word": "邯郸案3人将面临故意杀人罪基本刑罚",
@@ -331,6 +339,22 @@
       "category": "演出"
     },
     {
+      "raw_hot": 1147470,
+      "num": 1147470,
+      "word": "周梓倩自曝正骨被性骚扰",
+      "onboard_time": 1712570899,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1110623,
+      "num": 1110623,
+      "word": "不愿意就算了 但他愿意",
+      "onboard_time": 1712572818,
+      "rank": 3,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1104425,
       "num": 634695,
       "word": "虐猫考生未现身兰大研究生思政考核",
@@ -371,6 +395,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1055656,
+      "num": 629459,
+      "word": "小学生1年被抢3万7变霸凌者",
+      "onboard_time": 1712569339,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1045491,
       "num": 1045491,
       "word": "肖战早期与素人合照",
@@ -393,14 +425,6 @@
       "onboard_time": 1712534778,
       "rank": 33,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 1016383,
-      "num": 1016383,
-      "word": "王一博演唱会",
-      "onboard_time": 1712570538,
-      "rank": 11,
-      "category": "演出"
     },
     {
       "raw_hot": 1011415,
@@ -521,22 +545,6 @@
       "onboard_time": 1712403077,
       "rank": 24,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 869879,
-      "num": 629459,
-      "word": "小学生1年被抢3万7变霸凌者",
-      "onboard_time": 1712569339,
-      "rank": 15,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 869241,
-      "num": 869241,
-      "word": "周梓倩自曝正骨被性骚扰",
-      "onboard_time": 1712570899,
-      "rank": 16,
-      "category": "艺人"
     },
     {
       "raw_hot": 867163,
@@ -688,6 +696,14 @@
       "word": "今天星期0",
       "onboard_time": 1712479399,
       "rank": 14,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 737937,
+      "num": 737937,
+      "word": "偷感很重",
+      "onboard_time": 1712570419,
+      "rank": 21,
       "category": "情感"
     },
     {
@@ -995,14 +1011,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 603852,
-      "num": 636648,
-      "word": "偷感很重",
-      "onboard_time": 1712570419,
-      "rank": 21,
-      "category": "情感"
-    },
-    {
       "raw_hot": 599220,
       "num": 599220,
       "word": "仝卓发布律师函",
@@ -1097,6 +1105,14 @@
       "onboard_time": 1712566459,
       "rank": 12,
       "category": "运动健身,艺人"
+    },
+    {
+      "raw_hot": 552172,
+      "num": 552172,
+      "word": "足协所有中层干部暂时被免职",
+      "onboard_time": 1712571320,
+      "rank": 26,
+      "category": "体育"
     },
     {
       "raw_hot": 551246,
@@ -1441,6 +1457,14 @@
       "onboard_time": 1712536460,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 454966,
+      "num": 454966,
+      "word": "王一博憋了个大的",
+      "onboard_time": 1712572999,
+      "rank": 14,
+      "category": "演出"
     },
     {
       "raw_hot": 453772,
@@ -1875,14 +1899,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 350202,
-      "num": 350202,
-      "word": "足协所有中层干部暂时被免职",
-      "onboard_time": 1712571320,
-      "rank": 26,
-      "category": "体育"
-    },
-    {
       "raw_hot": 350110,
       "num": 350110,
       "word": "林更新回应和赵丽颖三搭",
@@ -1897,6 +1913,14 @@
       "onboard_time": 1712561119,
       "rank": 37,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 347046,
+      "num": 347046,
+      "word": "颧骨",
+      "onboard_time": 1712574380,
+      "rank": 17,
+      "category": "美妆"
     },
     {
       "raw_hot": 346462,
@@ -2059,6 +2083,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 316048,
+      "num": 641506,
+      "word": "淄博烧烤持续火爆的原因找到了",
+      "onboard_time": 1712569819,
+      "rank": 8,
+      "category": "美食"
+    },
+    {
       "raw_hot": 313945,
       "num": 288932,
       "word": "男子质疑餐厅免费编小辫顾客不能优先",
@@ -2113,14 +2145,6 @@
       "onboard_time": 1712464700,
       "rank": 23,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 306425,
-      "num": 641506,
-      "word": "淄博烧烤持续火爆的原因找到了",
-      "onboard_time": 1712569819,
-      "rank": 8,
-      "category": "美食"
     },
     {
       "raw_hot": 305220,
@@ -2577,6 +2601,14 @@
       "onboard_time": 1712499681,
       "rank": 30,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 246527,
+      "num": 246527,
+      "word": "虐猫考生",
+      "onboard_time": 1712573899,
+      "rank": 21,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 246497,
@@ -3875,6 +3907,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 174347,
+      "num": 174347,
+      "word": "尚美巴黎 于适",
+      "onboard_time": 1712574739,
+      "rank": 27,
+      "category": "艺人,时尚"
+    },
+    {
       "raw_hot": 173949,
       "num": 173949,
       "word": "小萌兰帮奶爸收猫全过程",
@@ -4187,6 +4227,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 154432,
+      "num": 154432,
+      "word": "忍住不联系是射手的一贯作风",
+      "onboard_time": 1712574679,
+      "rank": 32,
+      "category": "情感"
+    },
+    {
       "raw_hot": 154345,
       "num": 154345,
       "word": "诺米 透明的一生",
@@ -4209,6 +4257,14 @@
       "onboard_time": 1712545879,
       "rank": 42,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 153404,
+      "num": 153404,
+      "word": "何与真不拿大家当外人",
+      "onboard_time": 1712574380,
+      "rank": 33,
+      "category": "剧集"
     },
     {
       "raw_hot": 153024,
@@ -4337,6 +4393,14 @@
       "onboard_time": 1712451440,
       "rank": 45,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 141885,
+      "num": 141885,
+      "word": "厌倦了什么都要排队的生活",
+      "onboard_time": 1712572578,
+      "rank": 43,
+      "category": "情感"
     },
     {
       "raw_hot": 141838,
@@ -4635,6 +4699,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 131564,
+      "num": 138493,
+      "word": "中方回应美计划在亚太部署中程导弹",
+      "onboard_time": 1712571978,
+      "rank": 49,
+      "category": "国内时政,军事"
+    },
+    {
       "raw_hot": 131442,
       "num": 131442,
       "word": "Gen1es",
@@ -4659,20 +4731,20 @@
       "category": "音乐,时尚"
     },
     {
+      "raw_hot": 130387,
+      "num": 130387,
+      "word": "KPL赛程",
+      "onboard_time": 1712573779,
+      "rank": 43,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 130341,
       "num": 130341,
       "word": "李荣浩新专",
       "onboard_time": 1712469861,
       "rank": 42,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 130214,
-      "num": 130214,
-      "word": "厌倦了什么都要排队的生活",
-      "onboard_time": 1712572578,
-      "rank": 43,
-      "category": "情感"
     },
     {
       "raw_hot": 129212,
@@ -4740,7 +4812,7 @@
     },
     {
       "raw_hot": 126988,
-      "num": 968085,
+      "num": 1120859,
       "word": "流动的中国处处是风景",
       "onboard_time": 1712562197,
       "rank": 2,
@@ -4867,6 +4939,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 122039,
+      "num": 122039,
+      "word": "CBA常规赛奖项公布",
+      "onboard_time": 1712573539,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 121457,
       "num": 121457,
       "word": "刘敏涛有自己的职场宇宙",
@@ -4963,6 +5043,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 116047,
+      "num": 116047,
+      "word": "巴黎奥运将启用紫色跑道",
+      "onboard_time": 1712574618,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 114045,
       "num": 114045,
       "word": "兰大回应虐猫考生进调剂名单",
@@ -5025,14 +5113,6 @@
       "onboard_time": 1712531955,
       "rank": 27,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 104345,
-      "num": 108070,
-      "word": "中方回应美计划在亚太部署中程导弹",
-      "onboard_time": 1712571978,
-      "rank": 49,
-      "category": "国内时政,军事"
     },
     {
       "raw_hot": 102858,
