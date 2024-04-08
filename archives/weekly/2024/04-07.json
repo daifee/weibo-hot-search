@@ -1,6 +1,6 @@
 {
   "startTime": 1712420539476,
-  "endTime": 1712568872704,
+  "endTime": 1712571684849,
   "band_list": [
     {
       "raw_hot": 9583581,
@@ -323,6 +323,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1171926,
+      "num": 1171926,
+      "word": "王一博说个人演唱会OK",
+      "onboard_time": 1712569640,
+      "rank": 1,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 1104425,
+      "num": 535260,
+      "word": "虐猫考生未现身兰大研究生思政考核",
+      "onboard_time": 1712569160,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1087812,
       "num": 1087812,
       "word": "Jiejie回来了",
@@ -579,6 +595,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 794759,
+      "num": 794759,
+      "word": "王红权星自曝一个小区有7套房",
+      "onboard_time": 1712567419,
+      "rank": 20,
+      "category": "网红"
+    },
+    {
       "raw_hot": 785956,
       "num": 785956,
       "word": "网友称被陈飞宇索赔20万",
@@ -659,6 +683,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 727592,
+      "num": 727592,
+      "word": "白玉兰报名名单",
+      "onboard_time": 1712568677,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 726113,
       "num": 726113,
       "word": "赵奕欢的脖子被李菲儿掐红了",
@@ -713,6 +745,14 @@
       "onboard_time": 1712461099,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 710728,
+      "num": 710728,
+      "word": "庆余年2速速抬上来",
+      "onboard_time": 1712569039,
+      "rank": 6,
+      "category": "剧集"
     },
     {
       "raw_hot": 710588,
@@ -819,14 +859,6 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 650332,
-      "num": 650332,
-      "word": "王红权星自曝一个小区有7套房",
-      "onboard_time": 1712567419,
-      "rank": 20,
-      "category": "网红"
-    },
-    {
       "raw_hot": 647413,
       "num": 379526,
       "word": "弟弟考研上岸了我却一点不开心",
@@ -904,6 +936,14 @@
       "word": "刘雨昕官宣科切拉",
       "onboard_time": 1712548521,
       "rank": 6,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 619725,
+      "num": 529136,
+      "word": "王一博演唱会",
+      "onboard_time": 1712570538,
+      "rank": 11,
       "category": "演出"
     },
     {
@@ -1003,6 +1043,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 565699,
+      "num": 518160,
+      "word": "朴彩英卷发",
+      "onboard_time": 1712568978,
+      "rank": 13,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 562422,
       "num": 363093,
       "word": "目睹了酒店换床单",
@@ -1017,6 +1065,14 @@
       "onboard_time": 1712484979,
       "rank": 46,
       "category": "科学科普,健康医疗"
+    },
+    {
+      "raw_hot": 552555,
+      "num": 512828,
+      "word": "张俪四分钟翘臀不粗腿跟练",
+      "onboard_time": 1712566459,
+      "rank": 12,
+      "category": "运动健身,艺人"
     },
     {
       "raw_hot": 551246,
@@ -1148,11 +1204,19 @@
     },
     {
       "raw_hot": 514114,
-      "num": 383164,
+      "num": 418769,
       "word": "个人所得税年度汇算不属于被查",
       "onboard_time": 1712566279,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 506359,
+      "num": 506359,
+      "word": "小学生1年被抢3万7变霸凌者",
+      "onboard_time": 1712569339,
+      "rank": 15,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 503550,
@@ -1371,6 +1435,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 452170,
+      "num": 452170,
+      "word": "周梓倩自曝正骨被性骚扰",
+      "onboard_time": 1712570899,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 450930,
       "num": 450930,
       "word": "易烊千玺出发日内瓦",
@@ -1393,6 +1465,14 @@
       "onboard_time": 1712485278,
       "rank": 18,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 447142,
+      "num": 447142,
+      "word": "费曼回应吴镇宇被向佐硬控",
+      "onboard_time": 1712567599,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 442057,
@@ -1449,14 +1529,6 @@
       "onboard_time": 1712548940,
       "rank": 16,
       "category": "电影"
-    },
-    {
-      "raw_hot": 429590,
-      "num": 369091,
-      "word": "张俪四分钟翘臀不粗腿跟练",
-      "onboard_time": 1712566459,
-      "rank": 12,
-      "category": "运动健身,艺人"
     },
     {
       "raw_hot": 428196,
@@ -1571,6 +1643,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 396467,
+      "num": 396467,
+      "word": "偷感很重",
+      "onboard_time": 1712570419,
+      "rank": 21,
+      "category": "情感"
+    },
+    {
       "raw_hot": 391743,
       "num": 391743,
       "word": "肖战长发侧颜库存",
@@ -1681,6 +1761,14 @@
       "onboard_time": 1712422634,
       "rank": 9,
       "category": "社会新闻,旅游"
+    },
+    {
+      "raw_hot": 369972,
+      "num": 418889,
+      "word": "警方通报34岁律师被捅伤身亡",
+      "onboard_time": 1712567961,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 369692,
@@ -1833,14 +1921,6 @@
       "onboard_time": 1712539458,
       "rank": 28,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 342399,
-      "num": 342399,
-      "word": "费曼回应吴镇宇被向佐硬控",
-      "onboard_time": 1712567599,
-      "rank": 32,
-      "category": "综艺"
     },
     {
       "raw_hot": 340993,
@@ -2051,6 +2131,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 301848,
+      "num": 301848,
+      "word": "李一桐在家给肉肉洗澡",
+      "onboard_time": 1712571139,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 301737,
       "num": 301737,
       "word": "云南省考成绩",
@@ -2073,6 +2161,14 @@
       "onboard_time": 1712459959,
       "rank": 30,
       "category": "财经"
+    },
+    {
+      "raw_hot": 298591,
+      "num": 545886,
+      "word": "淄博烧烤持续火爆的原因找到了",
+      "onboard_time": 1712569819,
+      "rank": 8,
+      "category": "美食"
     },
     {
       "raw_hot": 298170,
@@ -2467,6 +2563,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 247488,
+      "num": 247488,
+      "word": "足协所有中层干部暂时被免职",
+      "onboard_time": 1712571320,
+      "rank": 26,
+      "category": "体育"
+    },
+    {
       "raw_hot": 246805,
       "num": 246805,
       "word": "九尾掌管干将的神",
@@ -2601,14 +2705,6 @@
       "onboard_time": 1712418497,
       "rank": 26,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 235430,
-      "num": 235430,
-      "word": "警方通报34岁律师被捅伤身亡",
-      "onboard_time": 1712567961,
-      "rank": 24,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 234837,
@@ -3011,6 +3107,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 205912,
+      "num": 205912,
+      "word": "薛之谦洛阳",
+      "onboard_time": 1712570720,
+      "rank": 31,
+      "category": "演出"
+    },
+    {
       "raw_hot": 205492,
       "num": 205492,
       "word": "突然对友情有了进一步理解",
@@ -3113,6 +3217,14 @@
       "onboard_time": 1712544260,
       "rank": 31,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 202166,
+      "num": 202166,
+      "word": "杜华我在哇唧唧哇很想你",
+      "onboard_time": 1712569580,
+      "rank": 32,
+      "category": "音乐"
     },
     {
       "raw_hot": 201676,
@@ -3243,6 +3355,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 196308,
+      "num": 196308,
+      "word": "中医朋友建议春天要多出去玩",
+      "onboard_time": 1712568560,
+      "rank": 38,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 194835,
       "num": 194835,
       "word": "耶伦",
@@ -3329,6 +3449,14 @@
       "onboard_time": 1712452398,
       "rank": 43,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 191992,
+      "num": 191992,
+      "word": "王一博 叫你三声你敢答应吗",
+      "onboard_time": 1712567178,
+      "rank": 42,
+      "category": "剧集"
     },
     {
       "raw_hot": 191970,
@@ -3443,6 +3571,14 @@
       "category": "电影,动漫"
     },
     {
+      "raw_hot": 186944,
+      "num": 186944,
+      "word": "脆皮大学生和他们的韧骨爷奶们",
+      "onboard_time": 1712571559,
+      "rank": 36,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 186044,
       "num": 186044,
       "word": "为什么大家喜欢庆祝春天的到来",
@@ -3521,14 +3657,6 @@
       "onboard_time": 1712499500,
       "rank": 44,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 183755,
-      "num": 166051,
-      "word": "王一博 叫你三声你敢答应吗",
-      "onboard_time": 1712567178,
-      "rank": 42,
-      "category": "剧集"
     },
     {
       "raw_hot": 183725,
@@ -3931,14 +4059,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 162525,
-      "num": 162525,
-      "word": "白玉兰报名名单",
-      "onboard_time": 1712568677,
-      "rank": 37,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 162186,
       "num": 162186,
       "word": "有时候懒一点反而更健康",
@@ -3961,14 +4081,6 @@
       "onboard_time": 1712498239,
       "rank": 46,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 160930,
-      "num": 160930,
-      "word": "中医朋友建议春天要多出去玩",
-      "onboard_time": 1712568560,
-      "rank": 38,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 160820,
@@ -4331,6 +4443,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 137569,
+      "num": 137569,
+      "word": "当代年轻人的状态",
+      "onboard_time": 1712571498,
+      "rank": 43,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 137199,
       "num": 137199,
       "word": "内心稳定别人就拿你没办法",
@@ -4419,6 +4539,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 133237,
+      "num": 133237,
+      "word": "腾讯云称正在紧急修复",
+      "onboard_time": 1712569160,
+      "rank": 47,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 133096,
       "num": 133096,
       "word": "元梦之星 蛋仔派对",
@@ -4433,6 +4561,14 @@
       "onboard_time": 1712536339,
       "rank": 48,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 132809,
+      "num": 132809,
+      "word": "防晒衣紫外线阻隔率可达99%",
+      "onboard_time": 1712569699,
+      "rank": 48,
+      "category": "科学科普,时尚"
     },
     {
       "raw_hot": 132219,
@@ -4481,6 +4617,14 @@
       "onboard_time": 1712411960,
       "rank": 43,
       "category": "音乐,时尚"
+    },
+    {
+      "raw_hot": 130470,
+      "num": 130470,
+      "word": "不防晒为什么容易衰老",
+      "onboard_time": 1712571620,
+      "rank": 49,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 130341,
