@@ -1,6 +1,6 @@
 {
   "startTime": 1712593429256,
-  "endTime": 1712614784685,
+  "endTime": 1712615696361,
   "band_list": [
     {
       "raw_hot": 1748207,
@@ -251,6 +251,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 135889,
+      "num": 135889,
+      "word": "赵露思安妮海瑟薇穿同款皮裙",
+      "onboard_time": 1712599392,
+      "rank": 22,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 135619,
       "num": 135619,
       "word": "日全食",
@@ -281,6 +289,22 @@
       "onboard_time": 1712582179,
       "rank": 34,
       "category": "美食"
+    },
+    {
+      "raw_hot": 128067,
+      "num": 128067,
+      "word": "孙坚吐槽奢侈品包质量问题",
+      "onboard_time": 1712597292,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 124082,
+      "num": 124082,
+      "word": "河南姑娘在四季青做穿版模特月入两万",
+      "onboard_time": 1712604070,
+      "rank": 40,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 121095,
@@ -329,22 +353,6 @@
       "onboard_time": 1712589858,
       "rank": 39,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 113673,
-      "num": 113673,
-      "word": "孙坚吐槽奢侈品包质量问题",
-      "onboard_time": 1712597292,
-      "rank": 34,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 113424,
-      "num": 113424,
-      "word": "赵露思安妮海瑟薇穿同款皮裙",
-      "onboard_time": 1712599392,
-      "rank": 22,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 109972,
@@ -403,14 +411,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 91103,
-      "num": 91103,
-      "word": "河南姑娘在四季青做穿版模特月入两万",
-      "onboard_time": 1712604070,
-      "rank": 40,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 88963,
       "num": 96440,
       "word": "郑仁父亲医院跳楼",
@@ -443,12 +443,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 68663,
-      "num": 101733,
+      "raw_hot": 76247,
+      "num": 136836,
       "word": "凌晨4点在深圳海边看银河",
       "onboard_time": 1712605212,
       "rank": 30,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 75959,
+      "num": 68214,
+      "word": "为什么年轻人愿意自己带孩子",
+      "onboard_time": 1712611150,
+      "rank": 30,
+      "category": "情感"
     },
     {
       "raw_hot": 68368,
@@ -459,20 +467,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 58107,
-      "num": 58107,
-      "word": "为什么年轻人愿意自己带孩子",
-      "onboard_time": 1712611150,
-      "rank": 30,
-      "category": "情感"
-    },
-    {
       "raw_hot": 51504,
       "num": 151999,
       "word": "感动中国2023颁奖辞",
       "onboard_time": 1712588000,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 45122,
+      "num": 45122,
+      "word": "黄金回收市场迎来卖金热",
+      "onboard_time": 1712613671,
+      "rank": 30,
+      "category": "财经"
     },
     {
       "raw_hot": 41920,
@@ -507,12 +515,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 33382,
-      "num": 33382,
-      "word": "黄金回收市场迎来卖金热",
-      "onboard_time": 1712613671,
-      "rank": 30,
-      "category": "财经"
+      "raw_hot": 32159,
+      "num": 32159,
+      "word": "王红权星说红了之后被排斥",
+      "onboard_time": 1712604251,
+      "rank": 35,
+      "category": "网红"
+    },
+    {
+      "raw_hot": 29434,
+      "num": 29434,
+      "word": "总犯困不想动可能是甲状腺有问题",
+      "onboard_time": 1712613971,
+      "rank": 48,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 28039,
@@ -523,8 +539,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 27825,
-      "num": 39692,
+      "raw_hot": 27885,
+      "num": 41218,
       "word": "在欧美访了个寂寞中国工程师决定自己搞",
       "onboard_time": 1712597892,
       "rank": 29,
@@ -539,14 +555,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 25552,
-      "num": 25552,
-      "word": "王红权星说红了之后被排斥",
-      "onboard_time": 1712604251,
-      "rank": 35,
-      "category": "网红"
-    },
-    {
       "raw_hot": 25508,
       "num": 25508,
       "word": "电影维和防暴队首支正式预告",
@@ -555,12 +563,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 19764,
-      "num": 20846,
-      "word": "总犯困不想动可能是甲状腺有问题",
-      "onboard_time": 1712613971,
-      "rank": 48,
-      "category": "健康医疗"
+      "raw_hot": 24329,
+      "num": 27244,
+      "word": "适合初学者的瘦腹缩腰训练",
+      "onboard_time": 1712614752,
+      "rank": 49,
+      "category": "运动健身"
     },
     {
       "raw_hot": 19410,
@@ -577,14 +585,6 @@
       "onboard_time": 1712601612,
       "rank": 43,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 17376,
-      "num": 20842,
-      "word": "适合初学者的瘦腹缩腰训练",
-      "onboard_time": 1712614752,
-      "rank": 49,
-      "category": "运动健身"
     },
     {
       "raw_hot": 15059,
