@@ -1,6 +1,6 @@
 {
   "startTime": 1712420539476,
-  "endTime": 1712557417089,
+  "endTime": 1712558153881,
   "band_list": [
     {
       "raw_hot": 9583581,
@@ -371,8 +371,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 932934,
-      "num": 932934,
+      "raw_hot": 934805,
+      "num": 934805,
       "word": "南昌公交事故司机当时心脏不适失去意识",
       "onboard_time": 1712555418,
       "rank": 3,
@@ -907,6 +907,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 562422,
+      "num": 357940,
+      "word": "目睹了酒店换床单",
+      "onboard_time": 1712556918,
+      "rank": 20,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 559397,
       "num": 559397,
       "word": "干眼症原来缺的是油不是水",
@@ -921,6 +929,14 @@
       "onboard_time": 1712410879,
       "rank": 5,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 548856,
+      "num": 548856,
+      "word": "甘肃天水官方开店卖麻辣烫",
+      "onboard_time": 1712554100,
+      "rank": 25,
+      "category": "美食"
     },
     {
       "raw_hot": 546639,
@@ -953,6 +969,14 @@
       "onboard_time": 1712543178,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 533236,
+      "num": 533236,
+      "word": "第一次见工作室捶正主",
+      "onboard_time": 1712556559,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 532324,
@@ -1193,22 +1217,6 @@
       "onboard_time": 1712422095,
       "rank": 30,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 464703,
-      "num": 300646,
-      "word": "目睹了酒店换床单",
-      "onboard_time": 1712556918,
-      "rank": 20,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 463226,
-      "num": 463226,
-      "word": "甘肃天水官方开店卖麻辣烫",
-      "onboard_time": 1712554100,
-      "rank": 25,
-      "category": "美食"
     },
     {
       "raw_hot": 458842,
@@ -1499,6 +1507,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 371444,
+      "num": 371444,
+      "word": "田曦薇露腰皮衣",
+      "onboard_time": 1712557338,
+      "rank": 28,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 371321,
       "num": 315571,
       "word": "原来邋遢只是老师的保护色",
@@ -1561,14 +1577,6 @@
       "onboard_time": 1712455518,
       "rank": 16,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 364225,
-      "num": 364225,
-      "word": "第一次见工作室捶正主",
-      "onboard_time": 1712556559,
-      "rank": 17,
-      "category": "艺人"
     },
     {
       "raw_hot": 362039,
@@ -1849,6 +1857,14 @@
       "onboard_time": 1712451079,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 301737,
+      "num": 301737,
+      "word": "云南省考成绩",
+      "onboard_time": 1712557638,
+      "rank": 21,
+      "category": "教育"
     },
     {
       "raw_hot": 301695,
@@ -2379,6 +2395,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 228374,
+      "num": 228374,
+      "word": "A股",
+      "onboard_time": 1712459959,
+      "rank": 30,
+      "category": "财经"
+    },
+    {
       "raw_hot": 228288,
       "num": 228288,
       "word": "WTT世界乒联回应阿鲁纳",
@@ -2393,6 +2417,14 @@
       "onboard_time": 1712542997,
       "rank": 35,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 227059,
+      "num": 227059,
+      "word": "林更新工作室自称腿子",
+      "onboard_time": 1712557937,
+      "rank": 29,
+      "category": "艺人"
     },
     {
       "raw_hot": 226847,
@@ -2467,6 +2499,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 218016,
+      "num": 218016,
+      "word": "绿茶为啥不能用100度开水泡",
+      "onboard_time": 1712552482,
+      "rank": 38,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 217816,
       "num": 217816,
       "word": "央行连续第17个月增持黄金储备",
@@ -2531,14 +2571,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 213638,
-      "num": 213638,
-      "word": "田曦薇露腰皮衣",
-      "onboard_time": 1712557338,
-      "rank": 28,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 213609,
       "num": 213609,
       "word": "百想提名",
@@ -2571,12 +2603,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 211573,
-      "num": 211573,
-      "word": "绿茶为啥不能用100度开水泡",
-      "onboard_time": 1712552482,
-      "rank": 38,
-      "category": "科学科普"
+      "raw_hot": 212292,
+      "num": 212292,
+      "word": "马东锡将于5月完婚",
+      "onboard_time": 1712558058,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 210407,
@@ -2713,14 +2745,6 @@
       "onboard_time": 1712538439,
       "rank": 39,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 203587,
-      "num": 203587,
-      "word": "A股",
-      "onboard_time": 1712459959,
-      "rank": 30,
-      "category": "财经"
     },
     {
       "raw_hot": 203453,
@@ -3009,6 +3033,14 @@
       "onboard_time": 1712553438,
       "rank": 46,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 190619,
+      "num": 190619,
+      "word": "可可kakuyo",
+      "onboard_time": 1712557638,
+      "rank": 33,
+      "category": "幽默"
     },
     {
       "raw_hot": 189943,
@@ -3339,6 +3371,14 @@
       "category": "艺人,剧集"
     },
     {
+      "raw_hot": 172894,
+      "num": 172894,
+      "word": "南昌通报公交和行人碰撞致3人死亡7人受伤",
+      "onboard_time": 1712557818,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 172379,
       "num": 172379,
       "word": "追风者",
@@ -3417,6 +3457,14 @@
       "onboard_time": 1712477418,
       "rank": 38,
       "category": "电影"
+    },
+    {
+      "raw_hot": 168350,
+      "num": 168350,
+      "word": "JackeyLoves手指队徽",
+      "onboard_time": 1712556318,
+      "rank": 41,
+      "category": "电竞"
     },
     {
       "raw_hot": 168006,
@@ -3563,20 +3611,28 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 156785,
-      "num": 156785,
-      "word": "JackeyLoves手指队徽",
-      "onboard_time": 1712556318,
-      "rank": 41,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 156339,
       "num": 156339,
       "word": "浓眉场均一次被打脸",
       "onboard_time": 1712547439,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 155019,
+      "num": 155019,
+      "word": "高梓淇感谢蔡琳",
+      "onboard_time": 1712558058,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 154345,
+      "num": 154345,
+      "word": "诺米 透明的一生",
+      "onboard_time": 1712556918,
+      "rank": 45,
+      "category": "艺人"
     },
     {
       "raw_hot": 153823,
@@ -3713,14 +3769,6 @@
       "onboard_time": 1712542819,
       "rank": 44,
       "category": "体育"
-    },
-    {
-      "raw_hot": 140946,
-      "num": 140946,
-      "word": "诺米 透明的一生",
-      "onboard_time": 1712556918,
-      "rank": 45,
-      "category": "艺人"
     },
     {
       "raw_hot": 140523,
@@ -4252,7 +4300,7 @@
     },
     {
       "raw_hot": 116899,
-      "num": 207182,
+      "num": 577098,
       "word": "老乡鸡20万字菜品溯源报告",
       "onboard_time": 1712556378,
       "rank": 30,
