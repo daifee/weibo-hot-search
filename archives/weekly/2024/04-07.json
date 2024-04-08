@@ -1,6 +1,6 @@
 {
   "startTime": 1712420539476,
-  "endTime": 1712594243497,
+  "endTime": 1712596677909,
   "band_list": [
     {
       "raw_hot": 9583581,
@@ -1331,6 +1331,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 550144,
+      "num": 550144,
+      "word": "江西师大男学生虐猫",
+      "onboard_time": 1712592380,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 548856,
       "num": 548856,
       "word": "甘肃天水官方开店卖麻辣烫",
@@ -2467,14 +2475,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 309206,
-      "num": 309206,
-      "word": "江西师大男学生虐猫",
-      "onboard_time": 1712592380,
-      "rank": 23,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 308833,
       "num": 307999,
       "word": "赵丽颖工作室玩梗沈璃",
@@ -2816,6 +2816,14 @@
       "word": "小鬼朱正廷王子异直播",
       "onboard_time": 1712412921,
       "rank": 25,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 264060,
+      "num": 264060,
+      "word": "cube男经纪人骚扰minnie后续",
+      "onboard_time": 1712594715,
+      "rank": 13,
       "category": "艺人"
     },
     {
@@ -5675,6 +5683,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 121095,
+      "num": 121095,
+      "word": "金钟仁纪念EXO出道12周年",
+      "onboard_time": 1712596033,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 120923,
       "num": 120923,
       "word": "过敏人群飞絮防护指南",
@@ -5817,6 +5833,14 @@
       "onboard_time": 1712446154,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 109972,
+      "num": 109972,
+      "word": "白羊座新月许愿",
+      "onboard_time": 1712595434,
+      "rank": 27,
+      "category": "情感,网红"
     },
     {
       "raw_hot": 109352,
@@ -6041,6 +6065,14 @@
       "onboard_time": 1712421556,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 76389,
+      "num": 76389,
+      "word": "剑网3",
+      "onboard_time": 1712595793,
+      "rank": 34,
+      "category": "游戏"
     },
     {
       "raw_hot": 75102,
@@ -6360,6 +6392,14 @@
       "word": "医学生夜市摆摊按摩9.9元起",
       "onboard_time": 1712435710,
       "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 9240,
+      "num": 387946,
+      "word": "我国首口超5000米深层地热科学探井",
+      "onboard_time": 1712582122,
+      "rank": 2,
       "category": "社会新闻"
     }
   ],

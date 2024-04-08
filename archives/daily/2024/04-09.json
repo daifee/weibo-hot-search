@@ -1,6 +1,6 @@
 {
   "startTime": 1712593429256,
-  "endTime": 1712594243497,
+  "endTime": 1712596677909,
   "band_list": [
     {
       "raw_hot": 1748207,
@@ -64,6 +64,14 @@
       "word": "官方通报女子半截身子卷入扶梯",
       "onboard_time": 1712585364,
       "rank": 7,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 550144,
+      "num": 550144,
+      "word": "江西师大男学生虐猫",
+      "onboard_time": 1712592380,
+      "rank": 23,
       "category": "社会新闻"
     },
     {
@@ -147,19 +155,19 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 309206,
-      "num": 309206,
-      "word": "江西师大男学生虐猫",
-      "onboard_time": 1712592380,
-      "rank": 23,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 266012,
       "num": 266012,
       "word": "王晰怎么了",
       "onboard_time": 1712586681,
       "rank": 20,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 264060,
+      "num": 264060,
+      "word": "cube男经纪人骚扰minnie后续",
+      "onboard_time": 1712594715,
+      "rank": 13,
       "category": "艺人"
     },
     {
@@ -275,6 +283,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 121095,
+      "num": 121095,
+      "word": "金钟仁纪念EXO出道12周年",
+      "onboard_time": 1712596033,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 120367,
       "num": 120367,
       "word": "辞职旅行半年后我的生活翻天覆地",
@@ -313,6 +329,14 @@
       "onboard_time": 1712589858,
       "rank": 39,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 109972,
+      "num": 109972,
+      "word": "白羊座新月许愿",
+      "onboard_time": 1712595434,
+      "rank": 27,
+      "category": "情感,网红"
     },
     {
       "raw_hot": 108840,
@@ -387,6 +411,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 76389,
+      "num": 76389,
+      "word": "剑网3",
+      "onboard_time": 1712595793,
+      "rank": 34,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 68368,
       "num": 85855,
       "word": "与凤行",
@@ -401,6 +433,14 @@
       "onboard_time": 1712588000,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 9240,
+      "num": 387946,
+      "word": "我国首口超5000米深层地热科学探井",
+      "onboard_time": 1712582122,
+      "rank": 2,
+      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
@@ -409,6 +449,9 @@
     },
     {
       "word": "#同志加兄弟是中越传统友谊最生动写照#"
+    },
+    {
+      "word": "#习主席非常关注和关心动物保护工作#"
     }
   ]
 }

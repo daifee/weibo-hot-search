@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/04/07 00:22:19 ~ 2024/04/09 00:37:23
+本榜单时间：2024/04/07 00:22:19 ~ 2024/04/09 01:17:57
 </p>
 </blockquote>
 <p>
@@ -1011,6 +1011,12 @@ iPhone16新一轮爆料来了（热度：713678）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%B1%9F%E8%A5%BF%E5%B8%88%E5%A4%A7%E7%94%B7%E5%AD%A6%E7%94%9F%E8%99%90%E7%8C%AB%23" target="weibo">
+江西师大男学生虐猫（热度：550144）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%94%98%E8%82%83%E5%A4%A9%E6%B0%B4%E5%AE%98%E6%96%B9%E5%BC%80%E5%BA%97%E5%8D%96%E9%BA%BB%E8%BE%A3%E7%83%AB%23" target="weibo">
 甘肃天水官方开店卖麻辣烫（热度：548856）
 </a>
@@ -1863,12 +1869,6 @@ Uzi谈Doinb复播（热度：326657）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%B1%9F%E8%A5%BF%E5%B8%88%E5%A4%A7%E7%94%B7%E5%AD%A6%E7%94%9F%E8%99%90%E7%8C%AB%23" target="weibo">
-江西师大男学生虐猫（热度：309206）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%B5%B5%E4%B8%BD%E9%A2%96%E5%B7%A5%E4%BD%9C%E5%AE%A4%E7%8E%A9%E6%A2%97%E6%B2%88%E7%92%83%23" target="weibo">
 赵丽颖工作室玩梗沈璃（热度：308833）
 </a>
@@ -2123,6 +2123,12 @@ DK被零封（热度：290036）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B0%8F%E9%AC%BC%E6%9C%B1%E6%AD%A3%E5%BB%B7%E7%8E%8B%E5%AD%90%E5%BC%82%E7%9B%B4%E6%92%AD%23" target="weibo">
 小鬼朱正廷王子异直播（热度：265022）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23cube%E7%94%B7%E7%BB%8F%E7%BA%AA%E4%BA%BA%E9%AA%9A%E6%89%B0minnie%E5%90%8E%E7%BB%AD%23" target="weibo">
+cube男经纪人骚扰minnie后续（热度：264060）
 </a>
 </li>
 
@@ -4269,6 +4275,12 @@ CBA常规赛奖项公布（热度：122039）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%87%91%E9%92%9F%E4%BB%81%E7%BA%AA%E5%BF%B5EXO%E5%87%BA%E9%81%9312%E5%91%A8%E5%B9%B4%23" target="weibo">
+金钟仁纪念EXO出道12周年（热度：121095）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%BF%87%E6%95%8F%E4%BA%BA%E7%BE%A4%E9%A3%9E%E7%B5%AE%E9%98%B2%E6%8A%A4%E6%8C%87%E5%8D%97%23" target="weibo">
 过敏人群飞絮防护指南（热度：120923）
 </a>
@@ -4373,6 +4385,12 @@ KPL（热度：113520）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%88%9B%E9%80%A0%E8%90%A5%E4%BA%9A%E6%B4%B2%E6%8E%92%E5%90%8D%23" target="weibo">
 创造营亚洲排名（热度：111455）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%99%BD%E7%BE%8A%E5%BA%A7%E6%96%B0%E6%9C%88%E8%AE%B8%E6%84%BF%23" target="weibo">
+白羊座新月许愿（热度：109972）
 </a>
 </li>
 
@@ -4541,6 +4559,12 @@ Doinb回应复播（热度：78543）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%94%A6%E8%B6%85%E6%BC%94%E7%9A%84%E5%82%85%E5%8D%AB%E5%86%9B%23" target="weibo">
 锦超演的傅卫军（热度：77927）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%89%91%E7%BD%913%23" target="weibo">
+剑网3（热度：76389）
 </a>
 </li>
 
@@ -4781,6 +4805,12 @@ P5X公测前瞻直播（热度：26243）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8C%BB%E5%AD%A6%E7%94%9F%E5%A4%9C%E5%B8%82%E6%91%86%E6%91%8A%E6%8C%89%E6%91%A99.9%E5%85%83%E8%B5%B7%23" target="weibo">
 医学生夜市摆摊按摩9.9元起（热度：11572）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%88%91%E5%9B%BD%E9%A6%96%E5%8F%A3%E8%B6%855000%E7%B1%B3%E6%B7%B1%E5%B1%82%E5%9C%B0%E7%83%AD%E7%A7%91%E5%AD%A6%E6%8E%A2%E4%BA%95%23" target="weibo">
+我国首口超5000米深层地热科学探井（热度：9240）
 </a>
 </li>
 
