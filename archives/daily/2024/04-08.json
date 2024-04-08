@@ -1,6 +1,6 @@
 {
   "startTime": 1712506792576,
-  "endTime": 1712554442534,
+  "endTime": 1712557417089,
   "band_list": [
     {
       "raw_hot": 9583581,
@@ -27,8 +27,16 @@
       "category": "财经"
     },
     {
+      "raw_hot": 2596783,
+      "num": 2596783,
+      "word": "南昌一辆公交车失控冲向路边人群",
+      "onboard_time": 1712554159,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2184126,
-      "num": 531308,
+      "num": 626249,
       "word": "虐猫考生说不是很懂网络舆论暂不回应",
       "onboard_time": 1712534598,
       "rank": 10,
@@ -83,6 +91,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1360899,
+      "num": 1360899,
+      "word": "南昌公交和行人碰撞3人死亡",
+      "onboard_time": 1712554639,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1272250,
       "num": 1272250,
       "word": "怪不得小时候发现不了唐僧换人",
@@ -113,6 +129,14 @@
       "onboard_time": 1712534778,
       "rank": 33,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 932934,
+      "num": 932934,
+      "word": "南昌公交事故司机当时心脏不适失去意识",
+      "onboard_time": 1712555418,
+      "rank": 3,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 920429,
@@ -203,6 +227,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 732442,
+      "num": 732442,
+      "word": "赵露思黑粉向赵露思致歉",
+      "onboard_time": 1712553199,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 713678,
       "num": 713678,
       "word": "iPhone16新一轮爆料来了",
@@ -219,20 +251,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 688202,
-      "num": 688202,
-      "word": "南昌一辆公交车失控冲向路边人群",
-      "onboard_time": 1712554159,
-      "rank": 6,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 637845,
-      "num": 637845,
-      "word": "赵露思黑粉向赵露思致歉",
+      "raw_hot": 637713,
+      "num": 637713,
+      "word": "眼泪女王 狗血",
       "onboard_time": 1712553199,
-      "rank": 32,
-      "category": "艺人"
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 633733,
@@ -329,6 +353,22 @@
       "onboard_time": 1712544740,
       "rank": 6,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 464703,
+      "num": 300646,
+      "word": "目睹了酒店换床单",
+      "onboard_time": 1712556918,
+      "rank": 20,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 463226,
+      "num": 463226,
+      "word": "甘肃天水官方开店卖麻辣烫",
+      "onboard_time": 1712554100,
+      "rank": 25,
+      "category": "美食"
     },
     {
       "raw_hot": 457209,
@@ -491,6 +531,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 364225,
+      "num": 364225,
+      "word": "第一次见工作室捶正主",
+      "onboard_time": 1712556559,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 362018,
       "num": 314519,
       "word": "女子一天狂炫5个青团进医院",
@@ -513,14 +561,6 @@
       "onboard_time": 1712476038,
       "rank": 13,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 352199,
-      "num": 352199,
-      "word": "眼泪女王 狗血",
-      "onboard_time": 1712553199,
-      "rank": 40,
-      "category": "剧集"
     },
     {
       "raw_hot": 350227,
@@ -643,6 +683,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 276816,
+      "num": 276816,
+      "word": "快乐老友记",
+      "onboard_time": 1712554639,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 275926,
       "num": 275926,
       "word": "于适戛纳生图",
@@ -681,6 +729,14 @@
       "onboard_time": 1712506637,
       "rank": 45,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 259356,
+      "num": 259356,
+      "word": "山东交通学院伤人案嫌疑人已被抓获",
+      "onboard_time": 1712554338,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 259152,
@@ -787,20 +843,20 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 230175,
-      "num": 230175,
-      "word": "甘肃天水官方开店卖麻辣烫",
-      "onboard_time": 1712554100,
-      "rank": 25,
-      "category": "美食"
-    },
-    {
       "raw_hot": 229311,
       "num": 229311,
       "word": "白桃星座",
       "onboard_time": 1712501721,
       "rank": 16,
       "category": "情感"
+    },
+    {
+      "raw_hot": 228459,
+      "num": 228459,
+      "word": "南昌公交车",
+      "onboard_time": 1712554518,
+      "rank": 25,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 228201,
@@ -819,6 +875,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 224604,
+      "num": 224604,
+      "word": "王一博即兴",
+      "onboard_time": 1712555897,
+      "rank": 26,
+      "category": "电影"
+    },
+    {
       "raw_hot": 219429,
       "num": 189663,
       "word": "与父母同居20天他们终于不再催婚",
@@ -835,12 +899,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 213638,
+      "num": 213638,
+      "word": "田曦薇露腰皮衣",
+      "onboard_time": 1712557338,
+      "rank": 28,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 213609,
       "num": 213609,
       "word": "百想提名",
       "onboard_time": 1712543059,
       "rank": 37,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 211573,
+      "num": 211573,
+      "word": "绿茶为啥不能用100度开水泡",
+      "onboard_time": 1712552482,
+      "rank": 38,
+      "category": "科学科普"
     },
     {
       "raw_hot": 207229,
@@ -857,6 +937,14 @@
       "onboard_time": 1712547199,
       "rank": 35,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 205287,
+      "num": 205287,
+      "word": "世界之外",
+      "onboard_time": 1712555479,
+      "rank": 31,
+      "category": "游戏"
     },
     {
       "raw_hot": 204973,
@@ -1075,20 +1163,20 @@
       "category": "艺人,剧集"
     },
     {
+      "raw_hot": 171639,
+      "num": 171639,
+      "word": "今天上午的感觉如下",
+      "onboard_time": 1712555538,
+      "rank": 35,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 170481,
       "num": 200212,
       "word": "海绵宝宝喜欢上班的原因",
       "onboard_time": 1712552541,
       "rank": 34,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 168182,
-      "num": 168182,
-      "word": "山东交通学院伤人案嫌疑人已被抓获",
-      "onboard_time": 1712554338,
-      "rank": 38,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 167927,
@@ -1105,6 +1193,22 @@
       "onboard_time": 1712534059,
       "rank": 40,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 165510,
+      "num": 165510,
+      "word": "我唯一担心的事情 她没有笑",
+      "onboard_time": 1712554818,
+      "rank": 37,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 164017,
+      "num": 164017,
+      "word": "笑梗不笑人 诺米真男人",
+      "onboard_time": 1712556200,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 163931,
@@ -1131,12 +1235,12 @@
       "category": "美食"
     },
     {
-      "raw_hot": 158021,
-      "num": 198174,
-      "word": "绿茶为啥不能用100度开水泡",
-      "onboard_time": 1712552482,
-      "rank": 38,
-      "category": "科学科普"
+      "raw_hot": 156785,
+      "num": 156785,
+      "word": "JackeyLoves手指队徽",
+      "onboard_time": 1712556318,
+      "rank": 41,
+      "category": "电竞"
     },
     {
       "raw_hot": 156339,
@@ -1243,6 +1347,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 140946,
+      "num": 140946,
+      "word": "诺米 透明的一生",
+      "onboard_time": 1712556918,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 140523,
       "num": 140523,
       "word": "赵小童300w粉丝福利",
@@ -1297,6 +1409,14 @@
       "onboard_time": 1712537540,
       "rank": 45,
       "category": "情感"
+    },
+    {
+      "raw_hot": 136558,
+      "num": 136558,
+      "word": "李荣浩鸟巢抢票",
+      "onboard_time": 1712555479,
+      "rank": 46,
+      "category": "演出"
     },
     {
       "raw_hot": 134170,
@@ -1427,6 +1547,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 119567,
+      "num": 129080,
+      "word": "年龄绝非免罪符",
+      "onboard_time": 1712556078,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 118818,
       "num": 118818,
       "word": "可以打开的迷你手工小雨伞",
@@ -1441,6 +1569,14 @@
       "onboard_time": 1712495479,
       "rank": 38,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 116899,
+      "num": 207182,
+      "word": "老乡鸡20万字菜品溯源报告",
+      "onboard_time": 1712556378,
+      "rank": 30,
+      "category": "美食"
     },
     {
       "raw_hot": 109352,

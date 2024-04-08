@@ -1,0 +1,410 @@
+{
+  "runTime": 1712557417089,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2596783,
+        "num": 2596783,
+        "word": "南昌一辆公交车失控冲向路边人群",
+        "onboard_time": 1712554159,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1360899,
+        "num": 1360899,
+        "word": "南昌公交和行人碰撞3人死亡",
+        "onboard_time": 1712554639,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 40466,
+        "num": 1044838,
+        "word": "中国新兴文旅迎春勃发",
+        "onboard_time": 1712547680,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 932934,
+        "num": 932934,
+        "word": "南昌公交事故司机当时心脏不适失去意识",
+        "onboard_time": 1712555418,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 761831,
+        "num": 761831,
+        "word": "苹果内鬼至少泄密6款苹果产品",
+        "onboard_time": 1712546840,
+        "rank": 4,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 732442,
+        "num": 732442,
+        "word": "赵露思黑粉向赵露思致歉",
+        "onboard_time": 1712553199,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 720204,
+        "num": 720204,
+        "word": "林更新 没喜欢的剧本坚决不进组",
+        "onboard_time": 1712552541,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 680605,
+        "num": 680605,
+        "word": "邯郸案3人将面临故意杀人罪基本刑罚",
+        "onboard_time": 1712549000,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 637713,
+        "num": 637713,
+        "word": "眼泪女王 狗血",
+        "onboard_time": 1712553199,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 236721,
+        "num": 627869,
+        "word": "男子试驾劳斯莱斯获销售鼓励打动网友",
+        "onboard_time": 1712512333,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1771143,
+        "num": 626744,
+        "word": "金价暴涨房价下跌说明了什么",
+        "onboard_time": 1712549540,
+        "rank": 10,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 650271,
+        "num": 626249,
+        "word": "虐猫考生说不是很懂网络舆论暂不回应",
+        "onboard_time": 1712534598,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 624548,
+        "num": 624548,
+        "word": "相恋10年供女友考研男子已去世",
+        "onboard_time": 1712552181,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 531085,
+        "num": 531085,
+        "word": "金智媛没入围",
+        "onboard_time": 1712546299,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 463226,
+        "num": 463226,
+        "word": "甘肃天水官方开店卖麻辣烫",
+        "onboard_time": 1712554100,
+        "rank": 14,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 450889,
+        "num": 450889,
+        "word": "仝卓工作室直播了",
+        "onboard_time": 1712547319,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 418714,
+        "num": 418714,
+        "word": "黄景瑜王一博真好玩再来一条",
+        "onboard_time": 1712552722,
+        "rank": 16,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 364225,
+        "num": 364225,
+        "word": "第一次见工作室捶正主",
+        "onboard_time": 1712556559,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 307264,
+        "num": 307264,
+        "word": "林更新回复粉丝",
+        "onboard_time": 1712551820,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 302871,
+        "num": 302871,
+        "word": "月薪8000育儿嫂的一天",
+        "onboard_time": 1712550141,
+        "rank": 19,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 464703,
+        "num": 300646,
+        "word": "目睹了酒店换床单",
+        "onboard_time": 1712556918,
+        "rank": 20,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 290766,
+        "num": 290766,
+        "word": "怪不得小时候发现不了唐僧换人",
+        "onboard_time": 1712538618,
+        "rank": 21,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 281815,
+        "num": 281815,
+        "word": "仝卓工作室曝仝卓差税被查",
+        "onboard_time": 1712535140,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 276816,
+        "num": 276816,
+        "word": "快乐老友记",
+        "onboard_time": 1712554639,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 259356,
+        "num": 259356,
+        "word": "山东交通学院伤人案嫌疑人已被抓获",
+        "onboard_time": 1712554338,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 228459,
+        "num": 228459,
+        "word": "南昌公交车",
+        "onboard_time": 1712554518,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 224604,
+        "num": 224604,
+        "word": "王一博即兴",
+        "onboard_time": 1712555897,
+        "rank": 26,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 214764,
+        "num": 214764,
+        "word": "眼泪女王 在加纳共和国离婚",
+        "onboard_time": 1712549361,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 213638,
+        "num": 213638,
+        "word": "田曦薇露腰皮衣",
+        "onboard_time": 1712557338,
+        "rank": 28,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 211573,
+        "num": 211573,
+        "word": "绿茶为啥不能用100度开水泡",
+        "onboard_time": 1712552482,
+        "rank": 29,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 116899,
+        "num": 207182,
+        "word": "老乡鸡20万字菜品溯源报告",
+        "onboard_time": 1712556378,
+        "rank": 30,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 205287,
+        "num": 205287,
+        "word": "世界之外",
+        "onboard_time": 1712555479,
+        "rank": 31,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 202074,
+        "num": 202074,
+        "word": "虐猫考生已参加兰大研究生调剂复试",
+        "onboard_time": 1712533457,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 190318,
+        "num": 190318,
+        "word": "白敬亭拍的怀柔山水",
+        "onboard_time": 1712551462,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 186989,
+        "num": 186989,
+        "word": "女孩误以为取快递还要和快递合影",
+        "onboard_time": 1712548521,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 171639,
+        "num": 171639,
+        "word": "今天上午的感觉如下",
+        "onboard_time": 1712555538,
+        "rank": 35,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 168753,
+        "num": 168753,
+        "word": "林更新顺毛比耶",
+        "onboard_time": 1712551221,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 165510,
+        "num": 165510,
+        "word": "我唯一担心的事情 她没有笑",
+        "onboard_time": 1712554818,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 164823,
+        "num": 164823,
+        "word": "男子女厕偷窥被母亲怒扇巴掌",
+        "onboard_time": 1712543178,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 164017,
+        "num": 164017,
+        "word": "笑梗不笑人 诺米真男人",
+        "onboard_time": 1712556200,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 161010,
+        "num": 161010,
+        "word": "仝卓",
+        "onboard_time": 1712500940,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 156785,
+        "num": 156785,
+        "word": "JackeyLoves手指队徽",
+        "onboard_time": 1712556318,
+        "rank": 41,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 150371,
+        "num": 150371,
+        "word": "刘雨昕官宣科切拉",
+        "onboard_time": 1712548521,
+        "rank": 42,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 147877,
+        "num": 147877,
+        "word": "解读邯郸3名未成年人被追究刑责",
+        "onboard_time": 1712544919,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 141501,
+        "num": 141501,
+        "word": "检方通报邯郸初中生被害案",
+        "onboard_time": 1712542578,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 140946,
+        "num": 140946,
+        "word": "诺米 透明的一生",
+        "onboard_time": 1712556918,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 136558,
+        "num": 136558,
+        "word": "李荣浩鸟巢抢票",
+        "onboard_time": 1712555479,
+        "rank": 46,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 132937,
+        "num": 132937,
+        "word": "于适 中国功夫",
+        "onboard_time": 1712554038,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 132161,
+        "num": 132161,
+        "word": "吴镇宇 中介和导师的身份有冲突",
+        "onboard_time": 1712552722,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 119567,
+        "num": 129080,
+        "word": "年龄绝非免罪符",
+        "onboard_time": 1712556078,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#必须继续做好创新这篇大文章#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1712420539476,
-  "endTime": 1712554442534,
+  "endTime": 1712557417089,
   "band_list": [
     {
       "raw_hot": 9583581,
@@ -43,6 +43,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 2596783,
+      "num": 2596783,
+      "word": "南昌一辆公交车失控冲向路边人群",
+      "onboard_time": 1712554159,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2473429,
       "num": 2473429,
       "word": "想当行长继承家产男孩父亲确为行长",
@@ -52,7 +60,7 @@
     },
     {
       "raw_hot": 2184126,
-      "num": 531308,
+      "num": 626249,
       "word": "虐猫考生说不是很懂网络舆论暂不回应",
       "onboard_time": 1712534598,
       "rank": 10,
@@ -219,6 +227,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1360899,
+      "num": 1360899,
+      "word": "南昌公交和行人碰撞3人死亡",
+      "onboard_time": 1712554639,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1297594,
       "num": 1297594,
       "word": "林更新 我做她的瑶",
@@ -353,6 +369,14 @@
       "onboard_time": 1712472078,
       "rank": 3,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 932934,
+      "num": 932934,
+      "word": "南昌公交事故司机当时心脏不适失去意识",
+      "onboard_time": 1712555418,
+      "rank": 3,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 927296,
@@ -547,6 +571,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 732442,
+      "num": 732442,
+      "word": "赵露思黑粉向赵露思致歉",
+      "onboard_time": 1712553199,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 726113,
       "num": 726113,
       "word": "赵奕欢的脖子被李菲儿掐红了",
@@ -643,14 +675,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 688202,
-      "num": 688202,
-      "word": "南昌一辆公交车失控冲向路边人群",
-      "onboard_time": 1712554159,
-      "rank": 6,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 687741,
       "num": 687741,
       "word": "眼泪女王",
@@ -731,12 +755,12 @@
       "category": "网红"
     },
     {
-      "raw_hot": 637845,
-      "num": 637845,
-      "word": "赵露思黑粉向赵露思致歉",
+      "raw_hot": 637713,
+      "num": 637713,
+      "word": "眼泪女王 狗血",
       "onboard_time": 1712553199,
-      "rank": 32,
-      "category": "艺人"
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 637505,
@@ -1171,6 +1195,22 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 464703,
+      "num": 300646,
+      "word": "目睹了酒店换床单",
+      "onboard_time": 1712556918,
+      "rank": 20,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 463226,
+      "num": 463226,
+      "word": "甘肃天水官方开店卖麻辣烫",
+      "onboard_time": 1712554100,
+      "rank": 25,
+      "category": "美食"
+    },
+    {
       "raw_hot": 458842,
       "num": 295203,
       "word": "5天年假折现了6千多",
@@ -1523,6 +1563,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 364225,
+      "num": 364225,
+      "word": "第一次见工作室捶正主",
+      "onboard_time": 1712556559,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 362039,
       "num": 362039,
       "word": "徐海乔问怎么从前夫哥变岳父大人了",
@@ -1561,14 +1609,6 @@
       "onboard_time": 1712409199,
       "rank": 13,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 352199,
-      "num": 352199,
-      "word": "眼泪女王 狗血",
-      "onboard_time": 1712553199,
-      "rank": 40,
-      "category": "剧集"
     },
     {
       "raw_hot": 351547,
@@ -1947,6 +1987,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 276816,
+      "num": 276816,
+      "word": "快乐老友记",
+      "onboard_time": 1712554639,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 275926,
       "num": 275926,
       "word": "于适戛纳生图",
@@ -2041,6 +2089,14 @@
       "onboard_time": 1712398877,
       "rank": 18,
       "category": "美食,幽默"
+    },
+    {
+      "raw_hot": 259356,
+      "num": 259356,
+      "word": "山东交通学院伤人案嫌疑人已被抓获",
+      "onboard_time": 1712554338,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 259152,
@@ -2307,19 +2363,19 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 230175,
-      "num": 230175,
-      "word": "甘肃天水官方开店卖麻辣烫",
-      "onboard_time": 1712554100,
-      "rank": 25,
-      "category": "美食"
-    },
-    {
       "raw_hot": 228855,
       "num": 482835,
       "word": "花莲地震已致12人死亡1123人受伤",
       "onboard_time": 1712417478,
       "rank": 7,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 228459,
+      "num": 228459,
+      "word": "南昌公交车",
+      "onboard_time": 1712554518,
+      "rank": 25,
       "category": "社会新闻"
     },
     {
@@ -2361,6 +2417,14 @@
       "onboard_time": 1712482638,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 224604,
+      "num": 224604,
+      "word": "王一博即兴",
+      "onboard_time": 1712555897,
+      "rank": 26,
+      "category": "电影"
     },
     {
       "raw_hot": 224157,
@@ -2467,6 +2531,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 213638,
+      "num": 213638,
+      "word": "田曦薇露腰皮衣",
+      "onboard_time": 1712557338,
+      "rank": 28,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 213609,
       "num": 213609,
       "word": "百想提名",
@@ -2497,6 +2569,14 @@
       "onboard_time": 1712499079,
       "rank": 41,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 211573,
+      "num": 211573,
+      "word": "绿茶为啥不能用100度开水泡",
+      "onboard_time": 1712552482,
+      "rank": 38,
+      "category": "科学科普"
     },
     {
       "raw_hot": 210407,
@@ -2593,6 +2673,14 @@
       "onboard_time": 1712457017,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 205287,
+      "num": 205287,
+      "word": "世界之外",
+      "onboard_time": 1712555479,
+      "rank": 31,
+      "category": "游戏"
     },
     {
       "raw_hot": 205277,
@@ -3275,6 +3363,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 171639,
+      "num": 171639,
+      "word": "今天上午的感觉如下",
+      "onboard_time": 1712555538,
+      "rank": 35,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 170823,
       "num": 170823,
       "word": "孤雁",
@@ -3323,14 +3419,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 168182,
-      "num": 168182,
-      "word": "山东交通学院伤人案嫌疑人已被抓获",
-      "onboard_time": 1712554338,
-      "rank": 38,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 168006,
       "num": 168006,
       "word": "人在淄博玩行李随便放",
@@ -3377,6 +3465,22 @@
       "onboard_time": 1712496919,
       "rank": 48,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 165510,
+      "num": 165510,
+      "word": "我唯一担心的事情 她没有笑",
+      "onboard_time": 1712554818,
+      "rank": 37,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 164017,
+      "num": 164017,
+      "word": "笑梗不笑人 诺米真男人",
+      "onboard_time": 1712556200,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 163866,
@@ -3451,20 +3555,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 158021,
-      "num": 198174,
-      "word": "绿茶为啥不能用100度开水泡",
-      "onboard_time": 1712552482,
-      "rank": 38,
-      "category": "科学科普"
-    },
-    {
       "raw_hot": 157778,
       "num": 157778,
       "word": "成龙张艺兴合影旧照",
       "onboard_time": 1712484558,
       "rank": 40,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 156785,
+      "num": 156785,
+      "word": "JackeyLoves手指队徽",
+      "onboard_time": 1712556318,
+      "rank": 41,
+      "category": "电竞"
     },
     {
       "raw_hot": 156339,
@@ -3611,6 +3715,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 140946,
+      "num": 140946,
+      "word": "诺米 透明的一生",
+      "onboard_time": 1712556918,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 140523,
       "num": 140523,
       "word": "赵小童300w粉丝福利",
@@ -3729,6 +3841,14 @@
       "onboard_time": 1712482398,
       "rank": 42,
       "category": "情感"
+    },
+    {
+      "raw_hot": 136558,
+      "num": 136558,
+      "word": "李荣浩鸟巢抢票",
+      "onboard_time": 1712555479,
+      "rank": 46,
+      "category": "演出"
     },
     {
       "raw_hot": 135885,
@@ -4091,6 +4211,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 119567,
+      "num": 129080,
+      "word": "年龄绝非免罪符",
+      "onboard_time": 1712556078,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 119340,
       "num": 119340,
       "word": "负周一",
@@ -4121,6 +4249,14 @@
       "onboard_time": 1712414420,
       "rank": 44,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 116899,
+      "num": 207182,
+      "word": "老乡鸡20万字菜品溯源报告",
+      "onboard_time": 1712556378,
+      "rank": 30,
+      "category": "美食"
     },
     {
       "raw_hot": 114045,
