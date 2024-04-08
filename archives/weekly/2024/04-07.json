@@ -1,6 +1,6 @@
 {
   "startTime": 1712420539476,
-  "endTime": 1712608448716,
+  "endTime": 1712610955965,
   "band_list": [
     {
       "raw_hot": 9583581,
@@ -6307,6 +6307,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 40382,
+      "num": 48727,
+      "word": "凌晨4点在深圳海边看银河",
+      "onboard_time": 1712605212,
+      "rank": 30,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 39863,
       "num": 41142,
       "word": "当我帮奶奶重启了手机",
@@ -6353,6 +6361,14 @@
       "onboard_time": 1712437750,
       "rank": 43,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 31836,
+      "num": 31836,
+      "word": "河南姑娘在四季青做穿版模特月入两万",
+      "onboard_time": 1712604070,
+      "rank": 40,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 30026,
@@ -6409,22 +6425,6 @@
       "onboard_time": 1712600352,
       "rank": 44,
       "category": "电影"
-    },
-    {
-      "raw_hot": 24826,
-      "num": 24826,
-      "word": "河南姑娘在四季青做穿版模特月入两万",
-      "onboard_time": 1712604070,
-      "rank": 40,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 23057,
-      "num": 23057,
-      "word": "凌晨4点在深圳海边看银河",
-      "onboard_time": 1712605212,
-      "rank": 30,
-      "category": "旅游"
     },
     {
       "raw_hot": 22617,
