@@ -1,6 +1,6 @@
 {
   "startTime": 1711902044401,
-  "endTime": 1712586871385,
+  "endTime": 1712589395161,
   "band_list": [
     {
       "raw_hot": 16874674,
@@ -809,6 +809,14 @@
       "onboard_time": 1712282418,
       "rank": 1,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 1526113,
+      "num": 1526113,
+      "word": "赵丽颖曾推荐刘宇宁演与凤行",
+      "onboard_time": 1712585961,
+      "rank": 3,
+      "category": "剧集"
     },
     {
       "raw_hot": 1525911,
@@ -1699,6 +1707,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 1062282,
+      "num": 1062282,
+      "word": "官方通报女子半截身子卷入扶梯",
+      "onboard_time": 1712585364,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1058889,
       "num": 1058889,
       "word": "浙江34岁律师被歹徒袭击身亡",
@@ -1801,6 +1817,14 @@
       "onboard_time": 1711952660,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1029222,
+      "num": 1029222,
+      "word": "为什么抠脚后总是想要闻一下手",
+      "onboard_time": 1712584640,
+      "rank": 23,
+      "category": "科学科普"
     },
     {
       "raw_hot": 1027349,
@@ -2081,14 +2105,6 @@
       "onboard_time": 1712555418,
       "rank": 3,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 934187,
-      "num": 934187,
-      "word": "赵丽颖曾推荐刘宇宁演与凤行",
-      "onboard_time": 1712585961,
-      "rank": 3,
-      "category": "剧集"
     },
     {
       "raw_hot": 927333,
@@ -3152,6 +3168,14 @@
       "word": "女生考研被拟录取室友偷偷送惊喜",
       "onboard_time": 1712496979,
       "rank": 3,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 716476,
+      "num": 716476,
+      "word": "考上研本科延毕了",
+      "onboard_time": 1712588060,
+      "rank": 5,
       "category": "教育"
     },
     {
@@ -4403,6 +4427,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 590514,
+      "num": 590514,
+      "word": "王晰怎么了",
+      "onboard_time": 1712586681,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 590075,
       "num": 590075,
       "word": "章昊韩网被审判",
@@ -5115,6 +5147,14 @@
       "category": "科学科普,健康医疗"
     },
     {
+      "raw_hot": 526926,
+      "num": 526926,
+      "word": "杨幂 谍战剧",
+      "onboard_time": 1712587522,
+      "rank": 11,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 526731,
       "num": 342539,
       "word": "谁亲了卢昱晓",
@@ -5281,14 +5321,6 @@
       "onboard_time": 1712497159,
       "rank": 11,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 517126,
-      "num": 517126,
-      "word": "为什么抠脚后总是想要闻一下手",
-      "onboard_time": 1712584640,
-      "rank": 23,
-      "category": "科学科普"
     },
     {
       "raw_hot": 516918,
@@ -5545,6 +5577,14 @@
       "onboard_time": 1712205078,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 494139,
+      "num": 494139,
+      "word": "张予曦超短裙",
+      "onboard_time": 1712585182,
+      "rank": 33,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 491550,
@@ -7131,6 +7171,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 394906,
+      "num": 394906,
+      "word": "俄罗斯远东一地发现放射源",
+      "onboard_time": 1712587280,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 394655,
       "num": 626390,
       "word": "54岁老板当主播日进百万",
@@ -7161,6 +7209,14 @@
       "onboard_time": 1712402119,
       "rank": 30,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 392205,
+      "num": 392205,
+      "word": "庆余年2",
+      "onboard_time": 1712588479,
+      "rank": 16,
+      "category": "剧集"
     },
     {
       "raw_hot": 392157,
@@ -8011,14 +8067,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 347298,
-      "num": 347298,
-      "word": "官方通报女子半截身子卷入扶梯",
-      "onboard_time": 1712585364,
-      "rank": 35,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 347279,
       "num": 347279,
       "word": "iG经理发文致歉",
@@ -8633,6 +8681,14 @@
       "onboard_time": 1712232019,
       "rank": 22,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 321283,
+      "num": 321283,
+      "word": "被窝好舒服",
+      "onboard_time": 1712587580,
+      "rank": 21,
+      "category": "情感"
     },
     {
       "raw_hot": 320205,
@@ -9699,14 +9755,6 @@
       "category": "社会议题"
     },
     {
-      "raw_hot": 282726,
-      "num": 282726,
-      "word": "张予曦超短裙",
-      "onboard_time": 1712585182,
-      "rank": 33,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 281958,
       "num": 265208,
       "word": "台湾花莲地震现场画面",
@@ -9892,7 +9940,7 @@
     },
     {
       "raw_hot": 276182,
-      "num": 1078195,
+      "num": 1192916,
       "word": "感动中国2023年度人物",
       "onboard_time": 1712582179,
       "rank": 2,
@@ -10907,6 +10955,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 248259,
+      "num": 248259,
+      "word": "金莎孙丞潇去韩国了",
+      "onboard_time": 1712588301,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 248247,
       "num": 248247,
       "word": "NIP战胜FPX",
@@ -11747,14 +11803,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 228917,
-      "num": 228917,
-      "word": "王晰怎么了",
-      "onboard_time": 1712586681,
-      "rank": 30,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 228855,
       "num": 482835,
       "word": "花莲地震已致12人死亡1123人受伤",
@@ -12041,6 +12089,14 @@
       "onboard_time": 1712571861,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 223754,
+      "num": 223754,
+      "word": "时代少年团演唱会快官宣",
+      "onboard_time": 1712585961,
+      "rank": 33,
+      "category": "演出"
     },
     {
       "raw_hot": 223652,
@@ -12553,14 +12609,6 @@
       "onboard_time": 1711930279,
       "rank": 33,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 214264,
-      "num": 214264,
-      "word": "时代少年团演唱会快官宣",
-      "onboard_time": 1712585961,
-      "rank": 33,
-      "category": "演出"
     },
     {
       "raw_hot": 214151,
@@ -13619,6 +13667,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 200630,
+      "num": 200630,
+      "word": "最好的感情是相互成就",
+      "onboard_time": 1712586621,
+      "rank": 39,
+      "category": "情感"
+    },
+    {
       "raw_hot": 200584,
       "num": 200584,
       "word": "考研专业第一也要过品德这关",
@@ -13763,6 +13819,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 199043,
+      "num": 199043,
+      "word": "数码宝贝进化曲 宫崎步",
+      "onboard_time": 1712588121,
+      "rank": 34,
+      "category": "动漫,音乐"
+    },
+    {
       "raw_hot": 198766,
       "num": 198766,
       "word": "放手是一门永远没法满分的必修课",
@@ -13833,6 +13897,14 @@
       "onboard_time": 1712416878,
       "rank": 41,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 197979,
+      "num": 197979,
+      "word": "刘宇宁直播唱与凤行OST",
+      "onboard_time": 1712588660,
+      "rank": 36,
+      "category": "剧集"
     },
     {
       "raw_hot": 197815,
@@ -14691,14 +14763,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 190011,
-      "num": 190011,
-      "word": "最好的感情是相互成就",
-      "onboard_time": 1712586621,
-      "rank": 39,
-      "category": "情感"
-    },
-    {
       "raw_hot": 189965,
       "num": 189965,
       "word": "与凤行宣璐演技",
@@ -14833,6 +14897,14 @@
       "onboard_time": 1712122222,
       "rank": 47,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 188758,
+      "num": 188758,
+      "word": "白宇34岁状态",
+      "onboard_time": 1712586980,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 188744,
@@ -15529,6 +15601,14 @@
       "onboard_time": 1712052380,
       "rank": 30,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 180742,
+      "num": 180742,
+      "word": "强迫症的衣柜是什么样的",
+      "onboard_time": 1712588899,
+      "rank": 43,
+      "category": "情感"
     },
     {
       "raw_hot": 180708,
@@ -18643,6 +18723,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 142940,
+      "num": 142940,
+      "word": "我们家 没这个条件",
+      "onboard_time": 1712589019,
+      "rank": 45,
+      "category": "情感"
+    },
+    {
       "raw_hot": 142896,
       "num": 142896,
       "word": "披着音综外皮的恋综",
@@ -18913,6 +19001,14 @@
       "onboard_time": 1712237899,
       "rank": 41,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 138926,
+      "num": 531394,
+      "word": "感动中国2023颁奖辞",
+      "onboard_time": 1712588000,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 138791,
