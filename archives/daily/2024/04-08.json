@@ -1,6 +1,6 @@
 {
   "startTime": 1712506792576,
-  "endTime": 1712560694309,
+  "endTime": 1712561668778,
   "band_list": [
     {
       "raw_hot": 9583581,
@@ -99,6 +99,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1335647,
+      "num": 1335647,
+      "word": "第一次见工作室捶正主",
+      "onboard_time": 1712556559,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1272250,
       "num": 1272250,
       "word": "怪不得小时候发现不了唐僧换人",
@@ -112,14 +120,6 @@
       "word": "仝卓工作室直播了",
       "onboard_time": 1712547319,
       "rank": 11,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 1203070,
-      "num": 1203070,
-      "word": "第一次见工作室捶正主",
-      "onboard_time": 1712556559,
-      "rank": 17,
       "category": "艺人"
     },
     {
@@ -179,6 +179,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 816939,
+      "num": 816939,
+      "word": "林更新新简介",
+      "onboard_time": 1712558658,
+      "rank": 5,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 800362,
       "num": 800362,
       "word": "高梓淇感谢蔡琳",
@@ -217,14 +225,6 @@
       "onboard_time": 1712532975,
       "rank": 3,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 762154,
-      "num": 762154,
-      "word": "林更新新简介",
-      "onboard_time": 1712558658,
-      "rank": 5,
-      "category": "艺人"
     },
     {
       "raw_hot": 753390,
@@ -297,6 +297,14 @@
       "onboard_time": 1712548521,
       "rank": 6,
       "category": "演出"
+    },
+    {
+      "raw_hot": 612759,
+      "num": 612759,
+      "word": "iPhone16最新高清渲染图",
+      "onboard_time": 1712559618,
+      "rank": 23,
+      "category": "数码"
     },
     {
       "raw_hot": 562422,
@@ -483,6 +491,22 @@
       "category": "电影"
     },
     {
+      "raw_hot": 425318,
+      "num": 425318,
+      "word": "山东事业编成绩",
+      "onboard_time": 1712559979,
+      "rank": 25,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 403798,
+      "num": 403798,
+      "word": "龙年龙月龙日龙时",
+      "onboard_time": 1712559438,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 390893,
       "num": 390893,
       "word": "白敬亭拍的怀柔山水",
@@ -643,6 +667,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 317307,
+      "num": 317307,
+      "word": "朱丹双马尾",
+      "onboard_time": 1712560038,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 313945,
       "num": 288932,
       "word": "男子质疑餐厅免费编小辫顾客不能优先",
@@ -673,14 +705,6 @@
       "onboard_time": 1712557459,
       "rank": 28,
       "category": "财经"
-    },
-    {
-      "raw_hot": 299914,
-      "num": 299914,
-      "word": "iPhone16最新高清渲染图",
-      "onboard_time": 1712559618,
-      "rank": 23,
-      "category": "数码"
     },
     {
       "raw_hot": 298170,
@@ -747,12 +771,12 @@
       "category": "作品衍生,艺人"
     },
     {
-      "raw_hot": 273559,
-      "num": 273559,
-      "word": "龙年龙月龙日龙时",
-      "onboard_time": 1712559438,
-      "rank": 24,
-      "category": "社会新闻"
+      "raw_hot": 274426,
+      "num": 274426,
+      "word": "体育总局要求女篮走出舒适圈",
+      "onboard_time": 1712560758,
+      "rank": 25,
+      "category": "体育"
     },
     {
       "raw_hot": 272361,
@@ -761,14 +785,6 @@
       "onboard_time": 1712491999,
       "rank": 12,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 271236,
-      "num": 271236,
-      "word": "山东事业编成绩",
-      "onboard_time": 1712559979,
-      "rank": 25,
-      "category": "教育"
     },
     {
       "raw_hot": 267027,
@@ -785,14 +801,6 @@
       "onboard_time": 1712496979,
       "rank": 9,
       "category": "教育"
-    },
-    {
-      "raw_hot": 262823,
-      "num": 262823,
-      "word": "朱丹双马尾",
-      "onboard_time": 1712560038,
-      "rank": 27,
-      "category": "综艺"
     },
     {
       "raw_hot": 260600,
@@ -859,6 +867,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 248641,
+      "num": 248641,
+      "word": "田曦薇一年没走出横店了",
+      "onboard_time": 1712560939,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 247649,
       "num": 247649,
       "word": "金秀贤金智媛CP感",
@@ -915,6 +931,22 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 231146,
+      "num": 231146,
+      "word": "林更新说与凤行给了星玥圆满",
+      "onboard_time": 1712561418,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 230246,
+      "num": 230246,
+      "word": "浪姐二公路透",
+      "onboard_time": 1712560098,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 229311,
       "num": 229311,
       "word": "白桃星座",
@@ -947,20 +979,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 227496,
+      "num": 227496,
+      "word": "檀健次入驻上海杜莎",
+      "onboard_time": 1712560279,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 227059,
       "num": 227059,
       "word": "林更新工作室自称腿子",
       "onboard_time": 1712557937,
       "rank": 29,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 226765,
-      "num": 226765,
-      "word": "浪姐二公路透",
-      "onboard_time": 1712560098,
-      "rank": 29,
-      "category": "综艺"
     },
     {
       "raw_hot": 224604,
@@ -1009,14 +1041,6 @@
       "onboard_time": 1712543059,
       "rank": 37,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 210198,
-      "num": 210198,
-      "word": "檀健次入驻上海杜莎",
-      "onboard_time": 1712560279,
-      "rank": 31,
-      "category": "艺人"
     },
     {
       "raw_hot": 207229,
@@ -1259,6 +1283,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 177921,
+      "num": 177921,
+      "word": "卫冕冠军陈梦没有放慢脚步",
+      "onboard_time": 1712561178,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 176470,
       "num": 176470,
       "word": "中医建议女生春天多披头散发",
@@ -1321,6 +1353,14 @@
       "onboard_time": 1712556318,
       "rank": 41,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 167961,
+      "num": 167961,
+      "word": "眼镜居然有寿命",
+      "onboard_time": 1712561119,
+      "rank": 37,
+      "category": "科学科普"
     },
     {
       "raw_hot": 167927,
@@ -1523,6 +1563,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 140304,
+      "num": 140304,
+      "word": "张天阳跳女团舞",
+      "onboard_time": 1712561359,
+      "rank": 43,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 140217,
       "num": 140217,
       "word": "EXO出道12周年",
@@ -1569,6 +1617,14 @@
       "onboard_time": 1712537540,
       "rank": 45,
       "category": "情感"
+    },
+    {
+      "raw_hot": 136751,
+      "num": 136751,
+      "word": "浙江34岁律师被歹徒袭击身亡",
+      "onboard_time": 1712561418,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 136558,
@@ -1977,6 +2033,14 @@
       "onboard_time": 1712516831,
       "rank": 48,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 16109,
+      "num": 817860,
+      "word": "这个春天遇见美好成为美好",
+      "onboard_time": 1712561537,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 15726,
