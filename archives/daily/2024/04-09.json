@@ -1,6 +1,6 @@
 {
   "startTime": 1712593429256,
-  "endTime": 1712612072067,
+  "endTime": 1712614784685,
   "band_list": [
     {
       "raw_hot": 1748207,
@@ -403,6 +403,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 91103,
+      "num": 91103,
+      "word": "河南姑娘在四季青做穿版模特月入两万",
+      "onboard_time": 1712604070,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 88963,
       "num": 96440,
       "word": "郑仁父亲医院跳楼",
@@ -435,6 +443,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 68663,
+      "num": 101733,
+      "word": "凌晨4点在深圳海边看银河",
+      "onboard_time": 1712605212,
+      "rank": 30,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 68368,
       "num": 85855,
       "word": "与凤行",
@@ -443,20 +459,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 58107,
+      "num": 58107,
+      "word": "为什么年轻人愿意自己带孩子",
+      "onboard_time": 1712611150,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 51504,
       "num": 151999,
       "word": "感动中国2023颁奖辞",
       "onboard_time": 1712588000,
       "rank": 29,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 50336,
-      "num": 50336,
-      "word": "凌晨4点在深圳海边看银河",
-      "onboard_time": 1712605212,
-      "rank": 30,
-      "category": "旅游"
     },
     {
       "raw_hot": 41920,
@@ -491,12 +507,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 38138,
-      "num": 38138,
-      "word": "河南姑娘在四季青做穿版模特月入两万",
-      "onboard_time": 1712604070,
-      "rank": 40,
-      "category": "社会新闻"
+      "raw_hot": 33382,
+      "num": 33382,
+      "word": "黄金回收市场迎来卖金热",
+      "onboard_time": 1712613671,
+      "rank": 30,
+      "category": "财经"
     },
     {
       "raw_hot": 28039,
@@ -523,6 +539,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 25552,
+      "num": 25552,
+      "word": "王红权星说红了之后被排斥",
+      "onboard_time": 1712604251,
+      "rank": 35,
+      "category": "网红"
+    },
+    {
       "raw_hot": 25508,
       "num": 25508,
       "word": "电影维和防暴队首支正式预告",
@@ -531,12 +555,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 22617,
-      "num": 22617,
-      "word": "王红权星说红了之后被排斥",
-      "onboard_time": 1712604251,
-      "rank": 35,
-      "category": "网红"
+      "raw_hot": 19764,
+      "num": 20846,
+      "word": "总犯困不想动可能是甲状腺有问题",
+      "onboard_time": 1712613971,
+      "rank": 48,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 19410,
@@ -547,20 +571,20 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 19187,
-      "num": 19187,
-      "word": "为什么年轻人愿意自己带孩子",
-      "onboard_time": 1712611150,
-      "rank": 30,
-      "category": "情感"
-    },
-    {
       "raw_hot": 18638,
       "num": 18638,
       "word": "宇多田光时隔24年唱First love",
       "onboard_time": 1712601612,
       "rank": 43,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 17376,
+      "num": 20842,
+      "word": "适合初学者的瘦腹缩腰训练",
+      "onboard_time": 1712614752,
+      "rank": 49,
+      "category": "运动健身"
     },
     {
       "raw_hot": 15059,

@@ -1,6 +1,6 @@
 {
   "startTime": 1712420539476,
-  "endTime": 1712612072067,
+  "endTime": 1712614784685,
   "band_list": [
     {
       "raw_hot": 9583581,
@@ -5963,6 +5963,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 91103,
+      "num": 91103,
+      "word": "河南姑娘在四季青做穿版模特月入两万",
+      "onboard_time": 1712604070,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 90935,
       "num": 90935,
       "word": "吵了一辈子的爸妈在晚年爱上彼此",
@@ -6131,6 +6139,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 68663,
+      "num": 101733,
+      "word": "凌晨4点在深圳海边看银河",
+      "onboard_time": 1712605212,
+      "rank": 30,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 68368,
       "num": 85855,
       "word": "与凤行",
@@ -6195,6 +6211,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 58107,
+      "num": 58107,
+      "word": "为什么年轻人愿意自己带孩子",
+      "onboard_time": 1712611150,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 56662,
       "num": 56662,
       "word": "湖人四连胜",
@@ -6233,14 +6257,6 @@
       "onboard_time": 1712446276,
       "rank": 48,
       "category": "体育"
-    },
-    {
-      "raw_hot": 50336,
-      "num": 50336,
-      "word": "凌晨4点在深圳海边看银河",
-      "onboard_time": 1712605212,
-      "rank": 30,
-      "category": "旅游"
     },
     {
       "raw_hot": 50331,
@@ -6355,20 +6371,20 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 38138,
-      "num": 38138,
-      "word": "河南姑娘在四季青做穿版模特月入两万",
-      "onboard_time": 1712604070,
-      "rank": 40,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 35379,
       "num": 35379,
       "word": "电视剧品质盛典",
       "onboard_time": 1712437750,
       "rank": 43,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 33382,
+      "num": 33382,
+      "word": "黄金回收市场迎来卖金热",
+      "onboard_time": 1712613671,
+      "rank": 30,
+      "category": "财经"
     },
     {
       "raw_hot": 30026,
@@ -6411,6 +6427,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 25552,
+      "num": 25552,
+      "word": "王红权星说红了之后被排斥",
+      "onboard_time": 1712604251,
+      "rank": 35,
+      "category": "网红"
+    },
+    {
       "raw_hot": 25511,
       "num": 24201,
       "word": "手术直播间",
@@ -6425,14 +6449,6 @@
       "onboard_time": 1712600352,
       "rank": 44,
       "category": "电影"
-    },
-    {
-      "raw_hot": 22617,
-      "num": 22617,
-      "word": "王红权星说红了之后被排斥",
-      "onboard_time": 1712604251,
-      "rank": 35,
-      "category": "网红"
     },
     {
       "raw_hot": 22270,
@@ -6459,20 +6475,20 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 19764,
+      "num": 20846,
+      "word": "总犯困不想动可能是甲状腺有问题",
+      "onboard_time": 1712613971,
+      "rank": 48,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 19410,
       "num": 19410,
       "word": "外国人可用中国五星卡实名认证游戏",
       "onboard_time": 1712606110,
       "rank": 39,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 19187,
-      "num": 19187,
-      "word": "为什么年轻人愿意自己带孩子",
-      "onboard_time": 1712611150,
-      "rank": 30,
-      "category": "情感"
     },
     {
       "raw_hot": 18638,
@@ -6489,6 +6505,14 @@
       "onboard_time": 1712516831,
       "rank": 48,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 17376,
+      "num": 20842,
+      "word": "适合初学者的瘦腹缩腰训练",
+      "onboard_time": 1712614752,
+      "rank": 49,
+      "category": "运动健身"
     },
     {
       "raw_hot": 16244,
