@@ -1,6 +1,6 @@
 {
   "startTime": 1712420539476,
-  "endTime": 1712550986397,
+  "endTime": 1712553494411,
   "band_list": [
     {
       "raw_hot": 9583581,
@@ -33,6 +33,14 @@
       "onboard_time": 1712533457,
       "rank": 0,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2625452,
+      "num": 2625452,
+      "word": "金价暴涨房价下跌说明了什么",
+      "onboard_time": 1712549540,
+      "rank": 11,
+      "category": "财经"
     },
     {
       "raw_hot": 2473429,
@@ -97,14 +105,6 @@
       "onboard_time": 1712535140,
       "rank": 1,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1659659,
-      "num": 1659659,
-      "word": "金价暴涨房价下跌说明了什么",
-      "onboard_time": 1712549540,
-      "rank": 11,
-      "category": "财经"
     },
     {
       "raw_hot": 1634789,
@@ -387,6 +387,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 910203,
+      "num": 910203,
+      "word": "邯郸案3人将面临故意杀人罪基本刑罚",
+      "onboard_time": 1712549000,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 901726,
       "num": 901726,
       "word": "TES零封JDG",
@@ -417,6 +425,14 @@
       "onboard_time": 1712403077,
       "rank": 24,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 856609,
+      "num": 856609,
+      "word": "林更新回复粉丝",
+      "onboard_time": 1712551820,
+      "rank": 6,
+      "category": "艺人"
     },
     {
       "raw_hot": 852839,
@@ -457,6 +473,14 @@
       "onboard_time": 1712536879,
       "rank": 4,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 771307,
+      "num": 568843,
+      "word": "相恋10年供女友考研男子已去世",
+      "onboard_time": 1712552181,
+      "rank": 10,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 766451,
@@ -521,6 +545,14 @@
       "onboard_time": 1712466919,
       "rank": 42,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 720197,
+      "num": 566202,
+      "word": "林更新 没喜欢的剧本坚决不进组",
+      "onboard_time": 1712552541,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 718756,
@@ -771,6 +803,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 609398,
+      "num": 609398,
+      "word": "月薪8000育儿嫂的一天",
+      "onboard_time": 1712550141,
+      "rank": 31,
+      "category": "情感"
+    },
+    {
       "raw_hot": 597605,
       "num": 597605,
       "word": "新疆阿克苏3.8级地震",
@@ -825,14 +865,6 @@
       "onboard_time": 1712413700,
       "rank": 11,
       "category": "情感"
-    },
-    {
-      "raw_hot": 562690,
-      "num": 562690,
-      "word": "邯郸案3人将面临故意杀人罪基本刑罚",
-      "onboard_time": 1712549000,
-      "rank": 8,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 559397,
@@ -1323,6 +1355,14 @@
       "category": "艺人,作品衍生"
     },
     {
+      "raw_hot": 390893,
+      "num": 390893,
+      "word": "白敬亭拍的怀柔山水",
+      "onboard_time": 1712551462,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 386060,
       "num": 386060,
       "word": "老夫妇居家俩月用水1023吨",
@@ -1667,12 +1707,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 320706,
-      "num": 215008,
-      "word": "月薪8000育儿嫂的一天",
-      "onboard_time": 1712550141,
-      "rank": 31,
-      "category": "情感"
+      "raw_hot": 314295,
+      "num": 314295,
+      "word": "黄景瑜王一博真好玩再来一条",
+      "onboard_time": 1712552722,
+      "rank": 18,
+      "category": "电影"
     },
     {
       "raw_hot": 313945,
@@ -1753,6 +1793,14 @@
       "onboard_time": 1712448018,
       "rank": 26,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 298170,
+      "num": 298170,
+      "word": "没有金泰梨",
+      "onboard_time": 1712550742,
+      "rank": 29,
+      "category": "剧集"
     },
     {
       "raw_hot": 297691,
@@ -1931,6 +1979,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 267027,
+      "num": 267027,
+      "word": "林更新顺毛比耶",
+      "onboard_time": 1712551221,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 265022,
       "num": 242705,
       "word": "小鬼朱正廷王子异直播",
@@ -2107,6 +2163,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 241185,
+      "num": 241185,
+      "word": "苏醒录制快乐老友记",
+      "onboard_time": 1712552181,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 240751,
       "num": 240751,
       "word": "减肥期间能代替奶茶的饮料",
@@ -2275,6 +2339,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 221353,
+      "num": 201245,
+      "word": "赵露思黑粉向赵露思致歉",
+      "onboard_time": 1712553199,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 221039,
       "num": 221039,
       "word": "王源 二巡",
@@ -2337,14 +2409,6 @@
       "onboard_time": 1712463559,
       "rank": 43,
       "category": "数码"
-    },
-    {
-      "raw_hot": 215057,
-      "num": 215057,
-      "word": "没有金泰梨",
-      "onboard_time": 1712550742,
-      "rank": 29,
-      "category": "剧集"
     },
     {
       "raw_hot": 214553,
@@ -2433,6 +2497,14 @@
       "onboard_time": 1712453419,
       "rank": 31,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 208098,
+      "num": 199705,
+      "word": "吴镇宇 中介和导师的身份有冲突",
+      "onboard_time": 1712552722,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 208091,
@@ -2667,12 +2739,28 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 199337,
+      "num": 199337,
+      "word": "theboyz世巡",
+      "onboard_time": 1712552780,
+      "rank": 36,
+      "category": "演出"
+    },
+    {
       "raw_hot": 198446,
       "num": 198446,
       "word": "二三十岁加的班能伤到50岁的你",
       "onboard_time": 1712543779,
       "rank": 47,
       "category": "情感"
+    },
+    {
+      "raw_hot": 198107,
+      "num": 198107,
+      "word": "眼泪女王 狗血",
+      "onboard_time": 1712553199,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 198085,
@@ -2923,6 +3011,22 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 184286,
+      "num": 184286,
+      "word": "张杰南昌抢票",
+      "onboard_time": 1712551939,
+      "rank": 41,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 184235,
+      "num": 184235,
+      "word": "张凌赫萧邦品牌大使",
+      "onboard_time": 1712552482,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 184185,
       "num": 184185,
       "word": "DRG延续不缺席S组传统",
@@ -3099,6 +3203,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 173135,
+      "num": 173135,
+      "word": "向佐回应演技被批",
+      "onboard_time": 1712551641,
+      "rank": 43,
+      "category": "艺人,剧集"
+    },
+    {
       "raw_hot": 172379,
       "num": 172379,
       "word": "追风者",
@@ -3137,6 +3249,14 @@
       "onboard_time": 1712468180,
       "rank": 35,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 170481,
+      "num": 200212,
+      "word": "海绵宝宝喜欢上班的原因",
+      "onboard_time": 1712552541,
+      "rank": 34,
+      "category": "动漫"
     },
     {
       "raw_hot": 169920,
@@ -3289,6 +3409,22 @@
       "onboard_time": 1712547439,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 155253,
+      "num": 198174,
+      "word": "绿茶为啥不能用100度开水泡",
+      "onboard_time": 1712552482,
+      "rank": 38,
+      "category": "科学科普"
+    },
+    {
+      "raw_hot": 155134,
+      "num": 155134,
+      "word": "邓科导演片场随记4.0",
+      "onboard_time": 1712553438,
+      "rank": 46,
+      "category": "剧集"
     },
     {
       "raw_hot": 153823,
@@ -4212,7 +4348,7 @@
     },
     {
       "raw_hot": 66771,
-      "num": 1413667,
+      "num": 1435354,
       "word": "中国新兴文旅迎春勃发",
       "onboard_time": 1712547680,
       "rank": 2,

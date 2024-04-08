@@ -1,0 +1,410 @@
+{
+  "runTime": 1712553494411,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 4042552,
+        "num": 4042552,
+        "word": "邯郸初中生被害案3人被刑事追诉",
+        "onboard_time": 1712542399,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2625452,
+        "num": 2625452,
+        "word": "金价暴涨房价下跌说明了什么",
+        "onboard_time": 1712549540,
+        "rank": 1,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 47569,
+        "num": 1435354,
+        "word": "中国新兴文旅迎春勃发",
+        "onboard_time": 1712547680,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 928723,
+        "num": 928723,
+        "word": "苹果内鬼至少泄密6款苹果产品",
+        "onboard_time": 1712546840,
+        "rank": 3,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 913272,
+        "num": 913272,
+        "word": "金智媛没入围",
+        "onboard_time": 1712546299,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 910203,
+        "num": 910203,
+        "word": "邯郸案3人将面临故意杀人罪基本刑罚",
+        "onboard_time": 1712549000,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 856609,
+        "num": 856609,
+        "word": "林更新回复粉丝",
+        "onboard_time": 1712551820,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 811472,
+        "num": 811472,
+        "word": "仝卓工作室直播了",
+        "onboard_time": 1712547319,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 609398,
+        "num": 609398,
+        "word": "月薪8000育儿嫂的一天",
+        "onboard_time": 1712550141,
+        "rank": 8,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 103193,
+        "num": 574610,
+        "word": "男子试驾劳斯莱斯获销售鼓励打动网友",
+        "onboard_time": 1712512333,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 771307,
+        "num": 568843,
+        "word": "相恋10年供女友考研男子已去世",
+        "onboard_time": 1712552181,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 720197,
+        "num": 566202,
+        "word": "林更新 没喜欢的剧本坚决不进组",
+        "onboard_time": 1712552541,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 544779,
+        "num": 544779,
+        "word": "怪不得小时候发现不了唐僧换人",
+        "onboard_time": 1712538618,
+        "rank": 12,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 526475,
+        "num": 526475,
+        "word": "仝卓工作室曝仝卓差税被查",
+        "onboard_time": 1712535140,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 491400,
+        "num": 491400,
+        "word": "虐猫考生说不是很懂网络舆论暂不回应",
+        "onboard_time": 1712534598,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 485636,
+        "num": 485636,
+        "word": "刘雨昕官宣科切拉",
+        "onboard_time": 1712548521,
+        "rank": 15,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 390893,
+        "num": 390893,
+        "word": "白敬亭拍的怀柔山水",
+        "onboard_time": 1712551462,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 449874,
+        "num": 367322,
+        "word": "虐猫考生已参加兰大研究生调剂复试",
+        "onboard_time": 1712533457,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 314295,
+        "num": 314295,
+        "word": "黄景瑜王一博真好玩再来一条",
+        "onboard_time": 1712552722,
+        "rank": 18,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 298170,
+        "num": 298170,
+        "word": "没有金泰梨",
+        "onboard_time": 1712550742,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 474181,
+        "num": 297534,
+        "word": "女孩误以为取快递还要和快递合影",
+        "onboard_time": 1712548521,
+        "rank": 20,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 274261,
+        "num": 274261,
+        "word": "眼泪女王 在加纳共和国离婚",
+        "onboard_time": 1712549361,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 267139,
+        "num": 267139,
+        "word": "宫崎骏电影 盗摄",
+        "onboard_time": 1712546599,
+        "rank": 22,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 267027,
+        "num": 267027,
+        "word": "林更新顺毛比耶",
+        "onboard_time": 1712551221,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 253016,
+        "num": 253016,
+        "word": "男子女厕偷窥被母亲怒扇巴掌",
+        "onboard_time": 1712543178,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 252648,
+        "num": 252648,
+        "word": "疯狂星期一定档",
+        "onboard_time": 1712548940,
+        "rank": 25,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 251877,
+        "num": 251877,
+        "word": "吴镇宇回怼向佐",
+        "onboard_time": 1712544140,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 241185,
+        "num": 241185,
+        "word": "苏醒录制快乐老友记",
+        "onboard_time": 1712552181,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 207670,
+        "num": 207670,
+        "word": "过了30岁备孕要注意哪些事",
+        "onboard_time": 1712541018,
+        "rank": 28,
+        "category": "母婴育儿"
+      },
+      {
+        "raw_hot": 203007,
+        "num": 203007,
+        "word": "俄罗斯外长拉夫罗夫已抵达北京",
+        "onboard_time": 1712548220,
+        "rank": 29,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 360830,
+        "num": 202585,
+        "word": "仝卓",
+        "onboard_time": 1712500940,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 231654,
+        "num": 202021,
+        "word": "魏大勋衣服充气",
+        "onboard_time": 1712550382,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 221353,
+        "num": 201245,
+        "word": "赵露思黑粉向赵露思致歉",
+        "onboard_time": 1712553199,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 184852,
+        "num": 200662,
+        "word": "为什么年轻人开始流行三无婚礼",
+        "onboard_time": 1712545040,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 170481,
+        "num": 200212,
+        "word": "海绵宝宝喜欢上班的原因",
+        "onboard_time": 1712552541,
+        "rank": 34,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 208098,
+        "num": 199705,
+        "word": "吴镇宇 中介和导师的身份有冲突",
+        "onboard_time": 1712552722,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 199337,
+        "num": 199337,
+        "word": "theboyz世巡",
+        "onboard_time": 1712552780,
+        "rank": 36,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 162582,
+        "num": 198328,
+        "word": "妈妈十年前的QQ空间",
+        "onboard_time": 1712549540,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 155253,
+        "num": 198174,
+        "word": "绿茶为啥不能用100度开水泡",
+        "onboard_time": 1712552482,
+        "rank": 38,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 153698,
+        "num": 198130,
+        "word": "大冰现在就剩一个人了",
+        "onboard_time": 1712540296,
+        "rank": 39,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 198107,
+        "num": 198107,
+        "word": "眼泪女王 狗血",
+        "onboard_time": 1712553199,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 184286,
+        "num": 184286,
+        "word": "张杰南昌抢票",
+        "onboard_time": 1712551939,
+        "rank": 41,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 184235,
+        "num": 184235,
+        "word": "张凌赫萧邦品牌大使",
+        "onboard_time": 1712552482,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 173135,
+        "num": 173135,
+        "word": "向佐回应演技被批",
+        "onboard_time": 1712551641,
+        "rank": 43,
+        "category": "艺人,剧集"
+      },
+      {
+        "raw_hot": 157985,
+        "num": 157985,
+        "word": "威尔史密斯为成龙庆生",
+        "onboard_time": 1712548880,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 156131,
+        "num": 156131,
+        "word": "易烊千玺机场图",
+        "onboard_time": 1712538920,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 155134,
+        "num": 155134,
+        "word": "邓科导演片场随记4.0",
+        "onboard_time": 1712553438,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 130617,
+        "num": 154755,
+        "word": "一个是大圣一个是吗喽",
+        "onboard_time": 1712546658,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 130535,
+        "num": 154544,
+        "word": "解读邯郸3名未成年人被追究刑责",
+        "onboard_time": 1712544919,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 129707,
+        "num": 154214,
+        "word": "老夫妇居家俩月用水1023吨",
+        "onboard_time": 1712535739,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#绿色添活力发展有动力未来更加有春意#"
+    }
+  }
+}
