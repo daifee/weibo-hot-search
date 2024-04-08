@@ -1,6 +1,6 @@
 {
   "startTime": 1712506792576,
-  "endTime": 1712585871574,
+  "endTime": 1712586871385,
   "band_list": [
     {
       "raw_hot": 9583581,
@@ -100,7 +100,7 @@
     },
     {
       "raw_hot": 1510053,
-      "num": 595048,
+      "num": 598876,
       "word": "关于女性生殖系统的一些知识",
       "onboard_time": 1712577619,
       "rank": 29,
@@ -275,6 +275,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 934187,
+      "num": 934187,
+      "word": "赵丽颖曾推荐刘宇宁演与凤行",
+      "onboard_time": 1712585961,
+      "rank": 3,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 925314,
       "num": 649869,
       "word": "虐猫考生",
@@ -361,6 +369,14 @@
       "onboard_time": 1712567419,
       "rank": 20,
       "category": "网红"
+    },
+    {
+      "raw_hot": 794287,
+      "num": 794287,
+      "word": "用20元做了一家四口的饭菜",
+      "onboard_time": 1712582179,
+      "rank": 37,
+      "category": "美食"
     },
     {
       "raw_hot": 785956,
@@ -459,14 +475,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 719603,
-      "num": 719603,
-      "word": "用20元做了一家四口的饭菜",
-      "onboard_time": 1712582179,
-      "rank": 37,
-      "category": "美食"
-    },
-    {
       "raw_hot": 713678,
       "num": 713678,
       "word": "iPhone16新一轮爆料来了",
@@ -515,12 +523,20 @@
       "category": "演出"
     },
     {
-      "raw_hot": 605633,
-      "num": 605633,
+      "raw_hot": 612912,
+      "num": 612912,
       "word": "央视网评岳婿双行长",
       "onboard_time": 1712583381,
       "rank": 6,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 607185,
+      "num": 607185,
+      "word": "刘亦菲高定粉裙",
+      "onboard_time": 1712582720,
+      "rank": 30,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 601934,
@@ -560,14 +576,6 @@
       "word": "朴彩英卷发",
       "onboard_time": 1712568978,
       "rank": 13,
-      "category": "作品衍生"
-    },
-    {
-      "raw_hot": 564488,
-      "num": 564488,
-      "word": "刘亦菲高定粉裙",
-      "onboard_time": 1712582720,
-      "rank": 30,
       "category": "作品衍生"
     },
     {
@@ -689,6 +697,14 @@
       "onboard_time": 1712562438,
       "rank": 9,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 517126,
+      "num": 517126,
+      "word": "为什么抠脚后总是想要闻一下手",
+      "onboard_time": 1712584640,
+      "rank": 23,
+      "category": "科学科普"
     },
     {
       "raw_hot": 514693,
@@ -876,7 +892,7 @@
     },
     {
       "raw_hot": 390237,
-      "num": 336480,
+      "num": 337148,
       "word": "辞职旅行半年后我的生活翻天覆地",
       "onboard_time": 1712580679,
       "rank": 23,
@@ -1019,6 +1035,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 347298,
+      "num": 347298,
+      "word": "官方通报女子半截身子卷入扶梯",
+      "onboard_time": 1712585364,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 346462,
       "num": 346462,
       "word": "沈图南入党",
@@ -1091,6 +1115,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 323490,
+      "num": 323490,
+      "word": "有苹果15要不要申请贫困生",
+      "onboard_time": 1712585298,
+      "rank": 27,
+      "category": "情感"
+    },
+    {
       "raw_hot": 317307,
       "num": 317307,
       "word": "朱丹双马尾",
@@ -1105,6 +1137,14 @@
       "onboard_time": 1712569819,
       "rank": 8,
       "category": "美食"
+    },
+    {
+      "raw_hot": 315350,
+      "num": 315350,
+      "word": "请杀死自己的学生思维",
+      "onboard_time": 1712583140,
+      "rank": 36,
+      "category": "情感"
     },
     {
       "raw_hot": 313945,
@@ -1161,14 +1201,6 @@
       "onboard_time": 1712557459,
       "rank": 28,
       "category": "财经"
-    },
-    {
-      "raw_hot": 300542,
-      "num": 300542,
-      "word": "请杀死自己的学生思维",
-      "onboard_time": 1712583140,
-      "rank": 36,
-      "category": "情感"
     },
     {
       "raw_hot": 298170,
@@ -1235,12 +1267,12 @@
       "category": "科学科普"
     },
     {
-      "raw_hot": 282150,
-      "num": 282150,
-      "word": "为什么抠脚后总是想要闻一下手",
-      "onboard_time": 1712584640,
-      "rank": 23,
-      "category": "科学科普"
+      "raw_hot": 282726,
+      "num": 282726,
+      "word": "张予曦超短裙",
+      "onboard_time": 1712585182,
+      "rank": 33,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 281560,
@@ -1427,14 +1459,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 249720,
-      "num": 249720,
-      "word": "有苹果15要不要申请贫困生",
-      "onboard_time": 1712585298,
-      "rank": 27,
-      "category": "情感"
-    },
-    {
       "raw_hot": 248160,
       "num": 248160,
       "word": "猫 吃了烂猫条遭这老罪",
@@ -1489,6 +1513,14 @@
       "onboard_time": 1712552181,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 241131,
+      "num": 241131,
+      "word": "迪丽热巴诉医美公司侵权",
+      "onboard_time": 1712584339,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 238880,
@@ -1561,6 +1593,14 @@
       "onboard_time": 1712501721,
       "rank": 16,
       "category": "情感"
+    },
+    {
+      "raw_hot": 228917,
+      "num": 228917,
+      "word": "王晰怎么了",
+      "onboard_time": 1712586681,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 228459,
@@ -1651,20 +1691,20 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 214264,
+      "num": 214264,
+      "word": "时代少年团演唱会快官宣",
+      "onboard_time": 1712585961,
+      "rank": 33,
+      "category": "演出"
+    },
+    {
       "raw_hot": 213609,
       "num": 213609,
       "word": "百想提名",
       "onboard_time": 1712543059,
       "rank": 37,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 212418,
-      "num": 212418,
-      "word": "迪丽热巴诉医美公司侵权",
-      "onboard_time": 1712584339,
-      "rank": 32,
-      "category": "艺人"
     },
     {
       "raw_hot": 210158,
@@ -1705,6 +1745,14 @@
       "onboard_time": 1712503760,
       "rank": 19,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 207184,
+      "num": 192852,
+      "word": "时代少年团周边",
+      "onboard_time": 1712586320,
+      "rank": 37,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 206774,
@@ -1931,14 +1979,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 192872,
-      "num": 192872,
-      "word": "张予曦超短裙",
-      "onboard_time": 1712585182,
-      "rank": 33,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 191992,
       "num": 191992,
       "word": "王一博 叫你三声你敢答应吗",
@@ -1976,6 +2016,14 @@
       "word": "i人看到这种工位汗流浃背了",
       "onboard_time": 1712583979,
       "rank": 34,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 190011,
+      "num": 190011,
+      "word": "最好的感情是相互成就",
+      "onboard_time": 1712586621,
+      "rank": 39,
       "category": "情感"
     },
     {
@@ -2017,14 +2065,6 @@
       "onboard_time": 1712571559,
       "rank": 36,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 185825,
-      "num": 185825,
-      "word": "官方通报女子半截身子卷入扶梯",
-      "onboard_time": 1712585364,
-      "rank": 35,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 184286,
@@ -2123,6 +2163,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 174777,
+      "num": 174777,
+      "word": "郑合惠子收到诈骗短信",
+      "onboard_time": 1712586259,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 174490,
       "num": 174490,
       "word": "罗晋任素汐新剧 海归夫妻",
@@ -2193,6 +2241,14 @@
       "onboard_time": 1712554818,
       "rank": 37,
       "category": "情感"
+    },
+    {
+      "raw_hot": 164981,
+      "num": 164981,
+      "word": "老乡鸡公开188道菜品制作方式",
+      "onboard_time": 1712583740,
+      "rank": 44,
+      "category": "美食"
     },
     {
       "raw_hot": 164017,
@@ -2308,7 +2364,7 @@
     },
     {
       "raw_hot": 155159,
-      "num": 595242,
+      "num": 599335,
       "word": "落坡岭女书记入选感动中国",
       "onboard_time": 1712582300,
       "rank": 28,
@@ -2337,6 +2393,14 @@
       "onboard_time": 1712574380,
       "rank": 33,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 153111,
+      "num": 153111,
+      "word": "长时间晒太阳的危害有多大",
+      "onboard_time": 1712586561,
+      "rank": 45,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 153024,
@@ -2545,14 +2609,6 @@
       "onboard_time": 1712535259,
       "rank": 44,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 138792,
-      "num": 138792,
-      "word": "老乡鸡公开188道菜品制作方式",
-      "onboard_time": 1712583740,
-      "rank": 44,
-      "category": "美食"
     },
     {
       "raw_hot": 138458,
