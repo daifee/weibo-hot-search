@@ -1,10 +1,10 @@
 {
   "startTime": 1712506792576,
-  "endTime": 1712543908511,
+  "endTime": 1712546348320,
   "band_list": [
     {
-      "raw_hot": 8149878,
-      "num": 9399878,
+      "raw_hot": 9583581,
+      "num": 9832252,
       "word": "邯郸初中生被害案3人被刑事追诉",
       "onboard_time": 1712542399,
       "rank": 0,
@@ -27,6 +27,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2030988,
+      "num": 2030988,
+      "word": "金价",
+      "onboard_time": 1712542097,
+      "rank": 3,
+      "category": "财经"
+    },
+    {
       "raw_hot": 1788973,
       "num": 310265,
       "word": "仝卓",
@@ -41,14 +49,6 @@
       "onboard_time": 1712535140,
       "rank": 1,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1461795,
-      "num": 1461795,
-      "word": "金价",
-      "onboard_time": 1712542097,
-      "rank": 3,
-      "category": "财经"
     },
     {
       "raw_hot": 1272250,
@@ -147,6 +147,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 632218,
+      "num": 632218,
+      "word": "吴镇宇回怼向佐",
+      "onboard_time": 1712544140,
+      "rank": 5,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 553928,
       "num": 553928,
       "word": "个人房贷规模大幅缩水",
@@ -169,6 +177,14 @@
       "onboard_time": 1712473999,
       "rank": 4,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 533863,
+      "num": 316491,
+      "word": "男子女厕偷窥被母亲怒扇巴掌",
+      "onboard_time": 1712543178,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 526199,
@@ -195,6 +211,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 482096,
+      "num": 482096,
+      "word": "大侦探",
+      "onboard_time": 1712544740,
+      "rank": 6,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 457209,
+      "num": 418299,
+      "word": "美媒曝特朗普24小时解决俄乌战争秘密计划",
+      "onboard_time": 1712541198,
+      "rank": 12,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 456332,
       "num": 456332,
       "word": "德国博物馆调查八国联军劫掠的中国文物",
@@ -204,7 +236,7 @@
     },
     {
       "raw_hot": 449039,
-      "num": 296680,
+      "num": 314581,
       "word": "过了30岁备孕要注意哪些事",
       "onboard_time": 1712541018,
       "rank": 20,
@@ -219,20 +251,20 @@
       "category": "情感"
     },
     {
-      "raw_hot": 445760,
-      "num": 418299,
-      "word": "美媒曝特朗普24小时解决俄乌战争秘密计划",
-      "onboard_time": 1712541198,
-      "rank": 12,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 443902,
       "num": 443902,
       "word": "追她呀 她旺你",
       "onboard_time": 1712483838,
       "rank": 6,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 441864,
+      "num": 441864,
+      "word": "解读邯郸3名未成年人被追究刑责",
+      "onboard_time": 1712544919,
+      "rank": 7,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 438395,
@@ -267,6 +299,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 380803,
+      "num": 380803,
+      "word": "衡门有狐开机",
+      "onboard_time": 1712544919,
+      "rank": 14,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 378861,
       "num": 378861,
       "word": "河南某高校副科长被举报聚众淫乱",
@@ -289,6 +329,14 @@
       "onboard_time": 1712537959,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 359856,
+      "num": 359856,
+      "word": "华为P70",
+      "onboard_time": 1712545040,
+      "rank": 16,
+      "category": "数码"
     },
     {
       "raw_hot": 356033,
@@ -323,12 +371,36 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 334476,
+      "num": 334476,
+      "word": "张雨绮cos15年前的自己",
+      "onboard_time": 1712543359,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 330129,
+      "num": 307592,
+      "word": "隆江猪脚饭",
+      "onboard_time": 1712544320,
+      "rank": 22,
+      "category": "美食"
+    },
+    {
       "raw_hot": 327740,
       "num": 211099,
       "word": "范志毅出任辽宁铁人主帅",
       "onboard_time": 1712531174,
       "rank": 10,
       "category": "体育"
+    },
+    {
+      "raw_hot": 324877,
+      "num": 324877,
+      "word": "这个圈子能凑够五个读者才邪门",
+      "onboard_time": 1712543960,
+      "rank": 19,
+      "category": "幽默"
     },
     {
       "raw_hot": 313945,
@@ -345,6 +417,14 @@
       "onboard_time": 1712499200,
       "rank": 11,
       "category": "网红"
+    },
+    {
+      "raw_hot": 293690,
+      "num": 293690,
+      "word": "李现任敏新剧联手拯救小孩姐",
+      "onboard_time": 1712544440,
+      "rank": 23,
+      "category": "剧集"
     },
     {
       "raw_hot": 292054,
@@ -371,20 +451,20 @@
       "category": "作品衍生,艺人"
     },
     {
+      "raw_hot": 274857,
+      "num": 274857,
+      "word": "为什么年轻人开始流行三无婚礼",
+      "onboard_time": 1712545040,
+      "rank": 25,
+      "category": "情感"
+    },
+    {
       "raw_hot": 272361,
       "num": 272361,
       "word": "小米定金事件暴露了成年人的耍赖心态",
       "onboard_time": 1712491999,
       "rank": 12,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 270857,
-      "num": 270857,
-      "word": "男子女厕偷窥被母亲怒扇巴掌",
-      "onboard_time": 1712543178,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 266727,
@@ -425,6 +505,14 @@
       "onboard_time": 1712536819,
       "rank": 23,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 246232,
+      "num": 246232,
+      "word": "肥胖最大风险基因找到了",
+      "onboard_time": 1712545339,
+      "rank": 27,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 238880,
@@ -499,14 +587,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 205235,
-      "num": 205235,
-      "word": "张雨绮cos15年前的自己",
-      "onboard_time": 1712543359,
-      "rank": 33,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 203883,
       "num": 203883,
       "word": "单炮豌豆 双炮豌豆",
@@ -521,6 +601,14 @@
       "onboard_time": 1712520490,
       "rank": 39,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 202319,
+      "num": 202319,
+      "word": "小狗用小肉干哄偷偷哭的主人",
+      "onboard_time": 1712544260,
+      "rank": 31,
+      "category": "幽默"
     },
     {
       "raw_hot": 202050,
@@ -539,6 +627,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 198446,
+      "num": 198446,
+      "word": "二三十岁加的班能伤到50岁的你",
+      "onboard_time": 1712543779,
+      "rank": 47,
+      "category": "情感"
+    },
+    {
       "raw_hot": 197550,
       "num": 197550,
       "word": "EXO永远的彼得潘",
@@ -553,6 +649,14 @@
       "onboard_time": 1712542517,
       "rank": 29,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 193443,
+      "num": 193443,
+      "word": "都暻秀第三张solo专辑",
+      "onboard_time": 1712545521,
+      "rank": 35,
+      "category": "音乐"
     },
     {
       "raw_hot": 187420,
@@ -587,6 +691,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 177907,
+      "num": 177907,
+      "word": "王一博屋顶追逐戏",
+      "onboard_time": 1712546239,
+      "rank": 37,
+      "category": "电影"
+    },
+    {
       "raw_hot": 176470,
       "num": 176470,
       "word": "中医建议女生春天多披头散发",
@@ -601,6 +713,14 @@
       "onboard_time": 1712540717,
       "rank": 36,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 174965,
+      "num": 174965,
+      "word": "金秀贤演技",
+      "onboard_time": 1712545040,
+      "rank": 39,
+      "category": "剧集"
     },
     {
       "raw_hot": 166489,
@@ -643,6 +763,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 153605,
+      "num": 153605,
+      "word": "巴黎欧莱雅品牌代言人唐嫣",
+      "onboard_time": 1712545879,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 153024,
       "num": 153024,
       "word": "90后准新娘婚前立遗嘱遗产归父母",
@@ -673,6 +801,22 @@
       "onboard_time": 1712499500,
       "rank": 30,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 145678,
+      "num": 145678,
+      "word": "4款披头散发的发型",
+      "onboard_time": 1712544200,
+      "rank": 45,
+      "category": "美妆"
+    },
+    {
+      "raw_hot": 144974,
+      "num": 144974,
+      "word": "金智媛没入围",
+      "onboard_time": 1712546299,
+      "rank": 46,
+      "category": "剧集"
     },
     {
       "raw_hot": 143017,
@@ -761,6 +905,14 @@
       "onboard_time": 1712537540,
       "rank": 45,
       "category": "情感"
+    },
+    {
+      "raw_hot": 136354,
+      "num": 136354,
+      "word": "电影无名之辈2开机",
+      "onboard_time": 1712546299,
+      "rank": 48,
+      "category": "电影"
     },
     {
       "raw_hot": 134170,
@@ -865,14 +1017,6 @@
       "onboard_time": 1712539877,
       "rank": 44,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 125137,
-      "num": 125137,
-      "word": "二三十岁加的班能伤到50岁的你",
-      "onboard_time": 1712543779,
-      "rank": 47,
-      "category": "情感"
     },
     {
       "raw_hot": 124198,
@@ -1028,7 +1172,7 @@
     },
     {
       "raw_hot": 86067,
-      "num": 1291804,
+      "num": 1300697,
       "word": "文旅消费如何从开门红走向长红",
       "onboard_time": 1712495958,
       "rank": 2,
@@ -1161,6 +1305,9 @@
     },
     {
       "word": "#推进城乡环境整治完善公共卫生设施#"
+    },
+    {
+      "word": "#绿色添活力发展有动力未来更加有春意#"
     }
   ]
 }

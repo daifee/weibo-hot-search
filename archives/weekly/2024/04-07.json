@@ -1,10 +1,10 @@
 {
   "startTime": 1712420539476,
-  "endTime": 1712543908511,
+  "endTime": 1712546348320,
   "band_list": [
     {
-      "raw_hot": 8149878,
-      "num": 9399878,
+      "raw_hot": 9583581,
+      "num": 9832252,
       "word": "邯郸初中生被害案3人被刑事追诉",
       "onboard_time": 1712542399,
       "rank": 0,
@@ -57,6 +57,14 @@
       "onboard_time": 1712479278,
       "rank": 0,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 2030988,
+      "num": 2030988,
+      "word": "金价",
+      "onboard_time": 1712542097,
+      "rank": 3,
+      "category": "财经"
     },
     {
       "raw_hot": 1971382,
@@ -145,14 +153,6 @@
       "onboard_time": 1712476038,
       "rank": 5,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1461795,
-      "num": 1461795,
-      "word": "金价",
-      "onboard_time": 1712542097,
-      "rank": 3,
-      "category": "财经"
     },
     {
       "raw_hot": 1441570,
@@ -667,6 +667,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 632218,
+      "num": 632218,
+      "word": "吴镇宇回怼向佐",
+      "onboard_time": 1712544140,
+      "rank": 5,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 628835,
       "num": 628835,
       "word": "种地吧 监控",
@@ -817,6 +825,14 @@
       "onboard_time": 1712464041,
       "rank": 32,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 533863,
+      "num": 316491,
+      "word": "男子女厕偷窥被母亲怒扇巴掌",
+      "onboard_time": 1712543178,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 532324,
@@ -971,6 +987,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 482096,
+      "num": 482096,
+      "word": "大侦探",
+      "onboard_time": 1712544740,
+      "rank": 6,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 481312,
       "num": 481312,
       "word": "其实圈子里只有我们两个",
@@ -1043,6 +1067,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 457209,
+      "num": 418299,
+      "word": "美媒曝特朗普24小时解决俄乌战争秘密计划",
+      "onboard_time": 1712541198,
+      "rank": 12,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 456332,
       "num": 456332,
       "word": "德国博物馆调查八国联军劫掠的中国文物",
@@ -1060,7 +1092,7 @@
     },
     {
       "raw_hot": 449039,
-      "num": 296680,
+      "num": 314581,
       "word": "过了30岁备孕要注意哪些事",
       "onboard_time": 1712541018,
       "rank": 20,
@@ -1075,20 +1107,20 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 445760,
-      "num": 418299,
-      "word": "美媒曝特朗普24小时解决俄乌战争秘密计划",
-      "onboard_time": 1712541198,
-      "rank": 12,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 442057,
       "num": 442057,
       "word": "王阳 叔圈天菜",
       "onboard_time": 1712499922,
       "rank": 41,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 441864,
+      "num": 441864,
+      "word": "解读邯郸3名未成年人被追究刑责",
+      "onboard_time": 1712544919,
+      "rank": 7,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 438395,
@@ -1259,6 +1291,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 380803,
+      "num": 380803,
+      "word": "衡门有狐开机",
+      "onboard_time": 1712544919,
+      "rank": 14,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 372174,
       "num": 278644,
       "word": "为什么现在退房都不检查了",
@@ -1329,6 +1369,14 @@
       "onboard_time": 1712537959,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 359856,
+      "num": 359856,
+      "word": "华为P70",
+      "onboard_time": 1712545040,
+      "rank": 16,
+      "category": "数码"
     },
     {
       "raw_hot": 354112,
@@ -1435,6 +1483,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 334476,
+      "num": 334476,
+      "word": "张雨绮cos15年前的自己",
+      "onboard_time": 1712543359,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 333302,
       "num": 333302,
       "word": "李溪芮好松弛的美感",
@@ -1449,6 +1505,14 @@
       "onboard_time": 1712499801,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 330129,
+      "num": 307592,
+      "word": "隆江猪脚饭",
+      "onboard_time": 1712544320,
+      "rank": 22,
+      "category": "美食"
     },
     {
       "raw_hot": 328369,
@@ -1481,6 +1545,14 @@
       "onboard_time": 1712462299,
       "rank": 21,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 324877,
+      "num": 324877,
+      "word": "这个圈子能凑够五个读者才邪门",
+      "onboard_time": 1712543960,
+      "rank": 19,
+      "category": "幽默"
     },
     {
       "raw_hot": 321412,
@@ -1603,6 +1675,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 293690,
+      "num": 293690,
+      "word": "李现任敏新剧联手拯救小孩姐",
+      "onboard_time": 1712544440,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 292054,
       "num": 262110,
       "word": "有些糖尿病可能是睡出来的",
@@ -1675,6 +1755,14 @@
       "category": "作品衍生,艺人"
     },
     {
+      "raw_hot": 274857,
+      "num": 274857,
+      "word": "为什么年轻人开始流行三无婚礼",
+      "onboard_time": 1712545040,
+      "rank": 25,
+      "category": "情感"
+    },
+    {
       "raw_hot": 273999,
       "num": 273999,
       "word": "成龙都70了",
@@ -1697,14 +1785,6 @@
       "onboard_time": 1712458099,
       "rank": 23,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 270857,
-      "num": 270857,
-      "word": "男子女厕偷窥被母亲怒扇巴掌",
-      "onboard_time": 1712543178,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 268341,
@@ -1849,6 +1929,14 @@
       "onboard_time": 1712501903,
       "rank": 27,
       "category": "演出"
+    },
+    {
+      "raw_hot": 246232,
+      "num": 246232,
+      "word": "肥胖最大风险基因找到了",
+      "onboard_time": 1712545339,
+      "rank": 27,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 245965,
@@ -2243,14 +2331,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 205235,
-      "num": 205235,
-      "word": "张雨绮cos15年前的自己",
-      "onboard_time": 1712543359,
-      "rank": 33,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 205234,
       "num": 205234,
       "word": "哥们的韦鲁斯还要练吗",
@@ -2305,6 +2385,14 @@
       "onboard_time": 1712520490,
       "rank": 39,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 202319,
+      "num": 202319,
+      "word": "小狗用小肉干哄偷偷哭的主人",
+      "onboard_time": 1712544260,
+      "rank": 31,
+      "category": "幽默"
     },
     {
       "raw_hot": 201676,
@@ -2379,6 +2467,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 198446,
+      "num": 198446,
+      "word": "二三十岁加的班能伤到50岁的你",
+      "onboard_time": 1712543779,
+      "rank": 47,
+      "category": "情感"
+    },
+    {
       "raw_hot": 198085,
       "num": 198085,
       "word": "静白离开甘露寺遇见好人了",
@@ -2433,6 +2529,14 @@
       "onboard_time": 1712542517,
       "rank": 29,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 193443,
+      "num": 193443,
+      "word": "都暻秀第三张solo专辑",
+      "onboard_time": 1712545521,
+      "rank": 35,
+      "category": "音乐"
     },
     {
       "raw_hot": 193317,
@@ -2683,6 +2787,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 177907,
+      "num": 177907,
+      "word": "王一博屋顶追逐戏",
+      "onboard_time": 1712546239,
+      "rank": 37,
+      "category": "电影"
+    },
+    {
       "raw_hot": 177688,
       "num": 177688,
       "word": "无骨鸭脖",
@@ -2753,6 +2865,14 @@
       "onboard_time": 1712456477,
       "rank": 43,
       "category": "财经"
+    },
+    {
+      "raw_hot": 174965,
+      "num": 174965,
+      "word": "金秀贤演技",
+      "onboard_time": 1712545040,
+      "rank": 39,
+      "category": "剧集"
     },
     {
       "raw_hot": 173949,
@@ -2963,6 +3083,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 153605,
+      "num": 153605,
+      "word": "巴黎欧莱雅品牌代言人唐嫣",
+      "onboard_time": 1712545879,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 153024,
       "num": 153024,
       "word": "90后准新娘婚前立遗嘱遗产归父母",
@@ -3027,6 +3155,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 145678,
+      "num": 145678,
+      "word": "4款披头散发的发型",
+      "onboard_time": 1712544200,
+      "rank": 45,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 145653,
       "num": 145653,
       "word": "成都迪士尼 取号",
@@ -3040,6 +3176,14 @@
       "word": "林更新害怕是装给赵丽颖看的吧",
       "onboard_time": 1712489477,
       "rank": 35,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 144974,
+      "num": 144974,
+      "word": "金智媛没入围",
+      "onboard_time": 1712546299,
+      "rank": 46,
       "category": "剧集"
     },
     {
@@ -3193,6 +3337,14 @@
       "onboard_time": 1712482398,
       "rank": 42,
       "category": "情感"
+    },
+    {
+      "raw_hot": 136354,
+      "num": 136354,
+      "word": "电影无名之辈2开机",
+      "onboard_time": 1712546299,
+      "rank": 48,
+      "category": "电影"
     },
     {
       "raw_hot": 135885,
@@ -3465,14 +3617,6 @@
       "onboard_time": 1712471358,
       "rank": 42,
       "category": "教育"
-    },
-    {
-      "raw_hot": 125137,
-      "num": 125137,
-      "word": "二三十岁加的班能伤到50岁的你",
-      "onboard_time": 1712543779,
-      "rank": 47,
-      "category": "情感"
     },
     {
       "raw_hot": 125097,
@@ -3748,7 +3892,7 @@
     },
     {
       "raw_hot": 86067,
-      "num": 1291804,
+      "num": 1300697,
       "word": "文旅消费如何从开门红走向长红",
       "onboard_time": 1712495958,
       "rank": 2,
@@ -4127,6 +4271,9 @@
     },
     {
       "word": "#必须继续做好创新这篇大文章#"
+    },
+    {
+      "word": "#绿色添活力发展有动力未来更加有春意#"
     }
   ]
 }
