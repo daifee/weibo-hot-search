@@ -1,7 +1,15 @@
 {
   "startTime": 1712420539476,
-  "endTime": 1712540031631,
+  "endTime": 1712543198950,
   "band_list": [
+    {
+      "raw_hot": 5498754,
+      "num": 6748754,
+      "word": "邯郸初中生被害案3人被刑事追诉",
+      "onboard_time": 1712542399,
+      "rank": 0,
+      "category": "社会新闻"
+    },
     {
       "raw_hot": 4232521,
       "num": 4232521,
@@ -227,6 +235,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1151814,
+      "num": 1151814,
+      "word": "金价",
+      "onboard_time": 1712542097,
+      "rank": 3,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 1092687,
+      "num": 1092687,
+      "word": "怪不得小时候发现不了唐僧换人",
+      "onboard_time": 1712538618,
+      "rank": 31,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 1087812,
       "num": 1087812,
       "word": "Jiejie回来了",
@@ -305,6 +329,14 @@
       "onboard_time": 1712487438,
       "rank": 24,
       "category": "情感"
+    },
+    {
+      "raw_hot": 920429,
+      "num": 920429,
+      "word": "大冰现在就剩一个人了",
+      "onboard_time": 1712540296,
+      "rank": 5,
+      "category": "读书作家"
     },
     {
       "raw_hot": 910879,
@@ -409,14 +441,6 @@
       "onboard_time": 1712532975,
       "rank": 3,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 756247,
-      "num": 472443,
-      "word": "怪不得小时候发现不了唐僧换人",
-      "onboard_time": 1712538618,
-      "rank": 31,
-      "category": "幽默"
     },
     {
       "raw_hot": 754115,
@@ -553,6 +577,14 @@
       "onboard_time": 1712450178,
       "rank": 4,
       "category": "情感"
+    },
+    {
+      "raw_hot": 686987,
+      "num": 686987,
+      "word": "检方通报邯郸初中生被害案",
+      "onboard_time": 1712542578,
+      "rank": 7,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 675387,
@@ -891,6 +923,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 486822,
+      "num": 486822,
+      "word": "仝卓回应工作室讨债",
+      "onboard_time": 1712539339,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 486776,
       "num": 334713,
       "word": "你睡得最晚的一次是在干什么",
@@ -987,14 +1027,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 467003,
-      "num": 467003,
-      "word": "仝卓回应工作室讨债",
-      "onboard_time": 1712539339,
-      "rank": 12,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 466445,
       "num": 466445,
       "word": "你敢不敢去摸一下那只两脚兽",
@@ -1025,6 +1057,14 @@
       "onboard_time": 1712483059,
       "rank": 14,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 449039,
+      "num": 296680,
+      "word": "过了30岁备孕要注意哪些事",
+      "onboard_time": 1712541018,
+      "rank": 20,
+      "category": "母婴育儿"
     },
     {
       "raw_hot": 448557,
@@ -1121,6 +1161,14 @@
       "onboard_time": 1712470579,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 418299,
+      "num": 418299,
+      "word": "美媒曝特朗普24小时解决俄乌战争秘密计划",
+      "onboard_time": 1712541198,
+      "rank": 12,
+      "category": "国外时政"
     },
     {
       "raw_hot": 415828,
@@ -1339,6 +1387,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 342546,
+      "num": 342546,
+      "word": "EXO概念",
+      "onboard_time": 1712539458,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 340993,
       "num": 340993,
       "word": "代号鸢",
@@ -1353,6 +1409,14 @@
       "onboard_time": 1712473579,
       "rank": 31,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 337792,
+      "num": 337792,
+      "word": "易烊千玺机场图",
+      "onboard_time": 1712538920,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 337048,
@@ -1419,20 +1483,20 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 325128,
-      "num": 325128,
-      "word": "易烊千玺机场图",
-      "onboard_time": 1712538920,
-      "rank": 19,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 321412,
       "num": 274374,
       "word": "订婚时三金里面的手镯被偷了",
       "onboard_time": 1712492359,
       "rank": 30,
       "category": "情感"
+    },
+    {
+      "raw_hot": 313945,
+      "num": 288932,
+      "word": "男子质疑餐厅免费编小辫顾客不能优先",
+      "onboard_time": 1712541438,
+      "rank": 22,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 313179,
@@ -1577,6 +1641,14 @@
       "onboard_time": 1712457617,
       "rank": 22,
       "category": "情感"
+    },
+    {
+      "raw_hot": 283077,
+      "num": 283077,
+      "word": "配眼镜原来有那么多坑",
+      "onboard_time": 1712537480,
+      "rank": 25,
+      "category": "科学科普"
     },
     {
       "raw_hot": 281351,
@@ -1747,14 +1819,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 248590,
-      "num": 248590,
-      "word": "配眼镜原来有那么多坑",
-      "onboard_time": 1712537480,
-      "rank": 25,
-      "category": "科学科普"
-    },
-    {
       "raw_hot": 247649,
       "num": 247649,
       "word": "金秀贤金智媛CP感",
@@ -1857,6 +1921,14 @@
       "onboard_time": 1712499801,
       "rank": 32,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 237051,
+      "num": 237051,
+      "word": "民国爱情十有九悲",
+      "onboard_time": 1712539758,
+      "rank": 35,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 236220,
@@ -2011,6 +2083,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 214409,
+      "num": 192067,
+      "word": "我打扮自己的时候",
+      "onboard_time": 1712542279,
+      "rank": 31,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 214366,
       "num": 214366,
       "word": "追风者 二刷",
@@ -2025,14 +2105,6 @@
       "onboard_time": 1712471118,
       "rank": 32,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 212733,
-      "num": 212733,
-      "word": "EXO概念",
-      "onboard_time": 1712539458,
-      "rank": 28,
-      "category": "艺人"
     },
     {
       "raw_hot": 212470,
@@ -2323,6 +2395,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 193866,
+      "num": 193866,
+      "word": "追风者网播指数破90",
+      "onboard_time": 1712542517,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 193317,
       "num": 193317,
       "word": "萧敬腾谈跟林有慧结婚细节眼眶红了",
@@ -2425,6 +2505,14 @@
       "onboard_time": 1712532315,
       "rank": 11,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 187227,
+      "num": 187227,
+      "word": "福建省考成绩",
+      "onboard_time": 1712540537,
+      "rank": 33,
+      "category": "教育"
     },
     {
       "raw_hot": 186975,
@@ -2555,6 +2643,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 179828,
+      "num": 179828,
+      "word": "金秀贤入围百想视帝",
+      "onboard_time": 1712542997,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 178229,
       "num": 178229,
       "word": "向佐唯有duke把黄龄气死了",
@@ -2643,6 +2739,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 173290,
+      "num": 173290,
+      "word": "为什么每天刷牙还会长虫牙",
+      "onboard_time": 1712540717,
+      "rank": 36,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 173194,
       "num": 173194,
       "word": "小米回应SU7未交付掉漆被投诉",
@@ -2697,6 +2801,14 @@
       "onboard_time": 1712458757,
       "rank": 43,
       "category": "情感"
+    },
+    {
+      "raw_hot": 169392,
+      "num": 169392,
+      "word": "百想提名",
+      "onboard_time": 1712543059,
+      "rank": 37,
+      "category": "剧集"
     },
     {
       "raw_hot": 168978,
@@ -2825,14 +2937,6 @@
       "onboard_time": 1712484558,
       "rank": 40,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 154479,
-      "num": 154479,
-      "word": "民国爱情十有九悲",
-      "onboard_time": 1712539758,
-      "rank": 35,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 153823,
@@ -2971,6 +3075,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 140144,
+      "num": 140144,
+      "word": "威神版不要带走福宝",
+      "onboard_time": 1712541559,
+      "rank": 41,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 140101,
       "num": 140101,
       "word": "鹌鹑蛋带皮吃很奇怪吗",
@@ -3097,6 +3209,14 @@
       "onboard_time": 1712481378,
       "rank": 48,
       "category": "情感"
+    },
+    {
+      "raw_hot": 133797,
+      "num": 133797,
+      "word": "软糯糯的青团竟成为肠胃杀手",
+      "onboard_time": 1712539938,
+      "rank": 48,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 133724,
@@ -3283,6 +3403,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 125557,
+      "num": 125557,
+      "word": "英超争冠",
+      "onboard_time": 1712542819,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 125460,
       "num": 125460,
       "word": "养过狗的人一看就懂",
@@ -3435,20 +3563,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 115857,
-      "num": 115857,
-      "word": "软糯糯的青团竟成为肠胃杀手",
-      "onboard_time": 1712539938,
-      "rank": 48,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 114045,
       "num": 114045,
       "word": "兰大回应虐猫考生进调剂名单",
       "onboard_time": 1712391978,
       "rank": 37,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 112837,
+      "num": 112837,
+      "word": "男子女厕偷窥被母亲怒扇巴掌",
+      "onboard_time": 1712543178,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 111455,
@@ -3596,7 +3724,7 @@
     },
     {
       "raw_hot": 86067,
-      "num": 1078611,
+      "num": 1158164,
       "word": "文旅消费如何从开门红走向长红",
       "onboard_time": 1712495958,
       "rank": 2,

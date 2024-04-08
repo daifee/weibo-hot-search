@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1712540031631,
+  "endTime": 1712543198950,
   "band_list": [
     {
       "raw_hot": 21250232,
@@ -713,6 +713,14 @@
       "onboard_time": 1704802470,
       "rank": 0,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 5498754,
+      "num": 6748754,
+      "word": "邯郸初中生被害案3人被刑事追诉",
+      "onboard_time": 1712542399,
+      "rank": 0,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 5490188,
@@ -2393,14 +2401,6 @@
       "onboard_time": 1707786571,
       "rank": 3,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 2707577,
-      "num": 2707577,
-      "word": "央视网评论傅园慧求助",
-      "onboard_time": 1708162593,
-      "rank": 0,
-      "category": "体育"
     }
   ],
   "hotgov_list": [
