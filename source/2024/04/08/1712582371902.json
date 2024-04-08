@@ -1,0 +1,402 @@
+{
+  "runTime": 1712582371902,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3434595,
+        "num": 3434595,
+        "word": "王一博托姐公开秀恩爱",
+        "onboard_time": 1712578400,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1294815,
+        "num": 1294815,
+        "word": "中医建议大家不要盲目的防晒",
+        "onboard_time": 1712577139,
+        "rank": 1,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 14658,
+        "num": 784457,
+        "word": "感动中国2023年度人物",
+        "onboard_time": 1712582179,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 728195,
+        "num": 728195,
+        "word": "感动中国年度人物公布",
+        "onboard_time": 1712578339,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 702301,
+        "num": 702301,
+        "word": "孙亚龙确诊中风",
+        "onboard_time": 1712575338,
+        "rank": 4,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 693160,
+        "num": 693160,
+        "word": "意外吃到了去世10年爷爷种的韭菜",
+        "onboard_time": 1712562257,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 682847,
+        "num": 682847,
+        "word": "不愿意就算了 但他愿意",
+        "onboard_time": 1712572818,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 668633,
+        "num": 668633,
+        "word": "王晰",
+        "onboard_time": 1712575937,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 592635,
+        "num": 592635,
+        "word": "王一博演唱会",
+        "onboard_time": 1712570538,
+        "rank": 8,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 562777,
+        "num": 562777,
+        "word": "南昌",
+        "onboard_time": 1712577739,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1223436,
+        "num": 541550,
+        "word": "关于女性生殖系统的一些知识",
+        "onboard_time": 1712577619,
+        "rank": 10,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 459114,
+        "num": 459114,
+        "word": "虐猫考生",
+        "onboard_time": 1712573899,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 443530,
+        "num": 443530,
+        "word": "美国男演员在丛林被发现尸体",
+        "onboard_time": 1712579838,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 434754,
+        "num": 434754,
+        "word": "于正最爱的演员是白鹿",
+        "onboard_time": 1712576059,
+        "rank": 13,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 413529,
+        "num": 413529,
+        "word": "朴成训 颧骨",
+        "onboard_time": 1712577018,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 407205,
+        "num": 407205,
+        "word": "金价暴涨房价下跌说明了什么",
+        "onboard_time": 1712549540,
+        "rank": 15,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 391444,
+        "num": 391444,
+        "word": "小学生1年被抢3万7变霸凌者",
+        "onboard_time": 1712569339,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 384778,
+        "num": 384778,
+        "word": "iPhone闹钟正确设置方法",
+        "onboard_time": 1712580259,
+        "rank": 17,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 328630,
+        "num": 328630,
+        "word": "于正说新剧比鬼怪黑暗荣耀好看",
+        "onboard_time": 1712581340,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 344103,
+        "num": 289764,
+        "word": "郑仁父亲医院跳楼",
+        "onboard_time": 1712580379,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 36600,
+        "num": 286137,
+        "word": "这个春天遇见美好成为美好",
+        "onboard_time": 1712561537,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 285687,
+        "num": 285687,
+        "word": "王一博不用再唱华华的世界了",
+        "onboard_time": 1712582240,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 283346,
+        "num": 283346,
+        "word": "突然发现职位越高的人越爱上班",
+        "onboard_time": 1712578820,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 282971,
+        "num": 282971,
+        "word": "辞职旅行半年后我的生活翻天覆地",
+        "onboard_time": 1712580679,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 260170,
+        "num": 260170,
+        "word": "飞天茅台跌破2600元",
+        "onboard_time": 1712580499,
+        "rank": 24,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 241788,
+        "num": 241788,
+        "word": "原来油纸伞不能上地铁",
+        "onboard_time": 1712578879,
+        "rank": 25,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 233445,
+        "num": 233445,
+        "word": "白鹿临江仙出妆了",
+        "onboard_time": 1712581879,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 184741,
+        "num": 214437,
+        "word": "招商银行提出要过紧日子",
+        "onboard_time": 1712575700,
+        "rank": 27,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 61473,
+        "num": 208305,
+        "word": "落坡岭女书记入选感动中国",
+        "onboard_time": 1712582300,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 204226,
+        "num": 204226,
+        "word": "川航的小零食越来越抽象了",
+        "onboard_time": 1712576477,
+        "rank": 29,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 41276,
+        "num": 197870,
+        "word": "淄博烧烤持续火爆的原因找到了",
+        "onboard_time": 1712569819,
+        "rank": 30,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 196857,
+        "num": 196857,
+        "word": "庆余年2速速抬上来",
+        "onboard_time": 1712569039,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 196200,
+        "num": 196200,
+        "word": "何同学 扔一张纸大赛",
+        "onboard_time": 1712581460,
+        "rank": 32,
+        "category": "科学科普,网红"
+      },
+      {
+        "raw_hot": 190764,
+        "num": 190764,
+        "word": "白玉兰报名名单",
+        "onboard_time": 1712568677,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 186169,
+        "num": 186169,
+        "word": "智己L6",
+        "onboard_time": 1712578459,
+        "rank": 34,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 166074,
+        "num": 166074,
+        "word": "虐猫考生未现身兰大研究生思政考核",
+        "onboard_time": 1712569160,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 154610,
+        "num": 154610,
+        "word": "诺米 音乐节",
+        "onboard_time": 1712578697,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 144345,
+        "num": 144345,
+        "word": "用20元做了一家四口的饭菜",
+        "onboard_time": 1712582179,
+        "rank": 37,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 109119,
+        "num": 143001,
+        "word": "足协所有中层干部暂时被免职",
+        "onboard_time": 1712571320,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 142727,
+        "num": 142727,
+        "word": "李耕耘古装",
+        "onboard_time": 1712575878,
+        "rank": 39,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 136054,
+        "num": 136054,
+        "word": "偷感很重",
+        "onboard_time": 1712570419,
+        "rank": 40,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 135711,
+        "num": 135711,
+        "word": "我在5点20睡觉13点14准时起",
+        "onboard_time": 1712563161,
+        "rank": 41,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 104351,
+        "num": 129019,
+        "word": "特教老师刘玲琍教会听障孩子说话",
+        "onboard_time": 1712580679,
+        "rank": 42,
+        "category": "社会正能量,教育"
+      },
+      {
+        "raw_hot": 125914,
+        "num": 125914,
+        "word": "EXO12周年留言",
+        "onboard_time": 1712576958,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 123396,
+        "num": 123396,
+        "word": "朴彩英卷发",
+        "onboard_time": 1712568978,
+        "rank": 44,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 120549,
+        "num": 120549,
+        "word": "真正做到了一碗水端平的妈妈",
+        "onboard_time": 1712579360,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 111950,
+        "num": 111950,
+        "word": "雷军",
+        "onboard_time": 1712578278,
+        "rank": 46,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 111307,
+        "num": 111307,
+        "word": "王红权星自曝一个小区有7套房",
+        "onboard_time": 1712567419,
+        "rank": 47,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 103101,
+        "num": 103101,
+        "word": "尚美巴黎 于适",
+        "onboard_time": 1712574739,
+        "rank": 48,
+        "category": "艺人,时尚"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平会见法国梅里埃基金会主席夫妇#"
+    }
+  }
+}
