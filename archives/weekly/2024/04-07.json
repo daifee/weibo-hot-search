@@ -1,6 +1,6 @@
 {
   "startTime": 1712420539476,
-  "endTime": 1712561668778,
+  "endTime": 1712564533837,
   "band_list": [
     {
       "raw_hot": 9583581,
@@ -89,6 +89,14 @@
       "onboard_time": 1712483838,
       "rank": 3,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 1928771,
+      "num": 1928771,
+      "word": "意外吃到了去世10年爷爷种的韭菜",
+      "onboard_time": 1712562257,
+      "rank": 0,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1795259,
@@ -331,6 +339,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1062540,
+      "num": 1062540,
+      "word": "iPhone16最新高清渲染图",
+      "onboard_time": 1712559618,
+      "rank": 23,
+      "category": "数码"
+    },
+    {
       "raw_hot": 1045491,
       "num": 1045491,
       "word": "肖战早期与素人合照",
@@ -427,6 +443,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 904048,
+      "num": 904048,
+      "word": "浙江34岁律师被歹徒袭击身亡",
+      "onboard_time": 1712561418,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 901726,
       "num": 901726,
       "word": "TES零封JDG",
@@ -441,6 +465,14 @@
       "onboard_time": 1712472918,
       "rank": 17,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 890772,
+      "num": 890772,
+      "word": "龙年龙月龙日龙时",
+      "onboard_time": 1712559438,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 881725,
@@ -859,14 +891,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 612759,
-      "num": 612759,
-      "word": "iPhone16最新高清渲染图",
-      "onboard_time": 1712559618,
-      "rank": 23,
-      "category": "数码"
-    },
-    {
       "raw_hot": 611550,
       "num": 611550,
       "word": "只有林正英知道纪凌尘底子有多好",
@@ -1027,6 +1051,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 528112,
+      "num": 528112,
+      "word": "体育总局要求女篮走出舒适圈",
+      "onboard_time": 1712560758,
+      "rank": 25,
+      "category": "体育"
+    },
+    {
       "raw_hot": 526199,
       "num": 486822,
       "word": "仝卓回应工作室讨债",
@@ -1041,6 +1073,14 @@
       "onboard_time": 1712548521,
       "rank": 20,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 525115,
+      "num": 525115,
+      "word": "壮壮妈发型",
+      "onboard_time": 1712562438,
+      "rank": 9,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 521787,
@@ -1411,12 +1451,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 418494,
+      "num": 418494,
+      "word": "林更新曾是饶雪漫的书模",
+      "onboard_time": 1712563399,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 415828,
       "num": 415828,
       "word": "CUBE男经纪人骚扰minnie",
       "onboard_time": 1712446696,
       "rank": 17,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 408556,
+      "num": 408556,
+      "word": "易烊千玺出发日内瓦",
+      "onboard_time": 1712563881,
+      "rank": 13,
+      "category": "艺人,演出"
     },
     {
       "raw_hot": 405504,
@@ -1433,14 +1489,6 @@
       "onboard_time": 1712474899,
       "rank": 31,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 403798,
-      "num": 403798,
-      "word": "龙年龙月龙日龙时",
-      "onboard_time": 1712559438,
-      "rank": 24,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 399116,
@@ -1835,6 +1883,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 315808,
+      "num": 315808,
+      "word": "眼镜居然有寿命",
+      "onboard_time": 1712561119,
+      "rank": 37,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 313945,
       "num": 288932,
       "word": "男子质疑餐厅免费编小辫顾客不能优先",
@@ -2019,6 +2075,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 283671,
+      "num": 283671,
+      "word": "田曦薇一年没走出横店了",
+      "onboard_time": 1712560939,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 283154,
       "num": 259157,
       "word": "17级以前的大学生才是最幸福的",
@@ -2075,14 +2139,6 @@
       "category": "作品衍生,艺人"
     },
     {
-      "raw_hot": 274426,
-      "num": 274426,
-      "word": "体育总局要求女篮走出舒适圈",
-      "onboard_time": 1712560758,
-      "rank": 25,
-      "category": "体育"
-    },
-    {
       "raw_hot": 273999,
       "num": 273999,
       "word": "成龙都70了",
@@ -2099,12 +2155,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 272896,
+      "num": 272896,
+      "word": "胡歌头发白了",
+      "onboard_time": 1712563938,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 272421,
       "num": 258056,
       "word": "马上就知道六天有多长了",
       "onboard_time": 1712458099,
       "rank": 23,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 272075,
+      "num": 272075,
+      "word": "腾讯云崩了",
+      "onboard_time": 1712563518,
+      "rank": 25,
+      "category": "互联网"
     },
     {
       "raw_hot": 268341,
@@ -2171,6 +2243,14 @@
       "category": "美食,幽默"
     },
     {
+      "raw_hot": 259610,
+      "num": 259610,
+      "word": "王一博工作室端水",
+      "onboard_time": 1712563278,
+      "rank": 26,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 259356,
       "num": 259356,
       "word": "山东交通学院伤人案嫌疑人已被抓获",
@@ -2185,6 +2265,14 @@
       "onboard_time": 1712552722,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 258914,
+      "num": 258914,
+      "word": "于适 机场悍匪",
+      "onboard_time": 1712562979,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 258840,
@@ -2275,12 +2363,12 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 248641,
-      "num": 248641,
-      "word": "田曦薇一年没走出横店了",
-      "onboard_time": 1712560939,
-      "rank": 27,
-      "category": "艺人"
+      "raw_hot": 248160,
+      "num": 248160,
+      "word": "猫 吃了烂猫条遭这老罪",
+      "onboard_time": 1712560998,
+      "rank": 29,
+      "category": "幽默"
     },
     {
       "raw_hot": 247649,
@@ -2433,6 +2521,14 @@
       "onboard_time": 1712456057,
       "rank": 42,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 234556,
+      "num": 234556,
+      "word": "田曦薇倪妮撞衫",
+      "onboard_time": 1712562497,
+      "rank": 30,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 234253,
@@ -2713,6 +2809,14 @@
       "onboard_time": 1712412259,
       "rank": 28,
       "category": "情感"
+    },
+    {
+      "raw_hot": 209287,
+      "num": 209287,
+      "word": "范志毅回应执教辽宁铁人",
+      "onboard_time": 1712562318,
+      "rank": 32,
+      "category": "体育"
     },
     {
       "raw_hot": 209135,
@@ -3011,6 +3115,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 196406,
+      "num": 196406,
+      "word": "侃爷老婆夏天穿皮草",
+      "onboard_time": 1712563638,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 194835,
       "num": 194835,
       "word": "耶伦",
@@ -3291,6 +3403,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 183862,
+      "num": 183862,
+      "word": "我在5点20睡觉13点14准时起",
+      "onboard_time": 1712563161,
+      "rank": 37,
+      "category": "情感"
+    },
+    {
       "raw_hot": 183725,
       "num": 183725,
       "word": "原来全麻后真的会社死",
@@ -3409,6 +3529,14 @@
       "onboard_time": 1712502860,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 177099,
+      "num": 177099,
+      "word": "西安外国语大学原校长王军哲被调查",
+      "onboard_time": 1712562798,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 176496,
@@ -3593,14 +3721,6 @@
       "onboard_time": 1712453239,
       "rank": 39,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 167961,
-      "num": 167961,
-      "word": "眼镜居然有寿命",
-      "onboard_time": 1712561119,
-      "rank": 37,
-      "category": "科学科普"
     },
     {
       "raw_hot": 167927,
@@ -3835,6 +3955,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 148684,
+      "num": 148684,
+      "word": "白色梨花融入故宫配色",
+      "onboard_time": 1712564239,
+      "rank": 42,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 148058,
       "num": 148058,
       "word": "芙莉莲 纯情咖装什么老手",
@@ -3897,6 +4025,14 @@
       "onboard_time": 1712451440,
       "rank": 45,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 141838,
+      "num": 141838,
+      "word": "在骑行的路上捡到了一只猫",
+      "onboard_time": 1712564361,
+      "rank": 43,
+      "category": "情感"
     },
     {
       "raw_hot": 141732,
@@ -4011,6 +4147,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 138458,
+      "num": 138458,
+      "word": "眼泪女王中国区OST",
+      "onboard_time": 1712562798,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 138309,
       "num": 126709,
       "word": "这样睡觉大大增加糖尿病风险",
@@ -4033,14 +4177,6 @@
       "onboard_time": 1712537540,
       "rank": 45,
       "category": "情感"
-    },
-    {
-      "raw_hot": 136751,
-      "num": 136751,
-      "word": "浙江34岁律师被歹徒袭击身亡",
-      "onboard_time": 1712561418,
-      "rank": 46,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 136640,
@@ -4547,6 +4683,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 98443,
+      "num": 968085,
+      "word": "流动的中国处处是风景",
+      "onboard_time": 1712562197,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 97128,
       "num": 97128,
       "word": "眼泪女王预告",
@@ -4787,6 +4931,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 58723,
+      "num": 391192,
+      "word": "国内首个手机护眼白皮书",
+      "onboard_time": 1712563218,
+      "rank": 14,
+      "category": "数码"
+    },
+    {
       "raw_hot": 56662,
       "num": 56662,
       "word": "湖人四连胜",
@@ -5018,6 +5170,9 @@
     },
     {
       "word": "#绿色添活力发展有动力未来更加有春意#"
+    },
+    {
+      "word": "#习近平会见法国梅里埃基金会主席夫妇#"
     }
   ]
 }
