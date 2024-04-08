@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/04/01 00:20:44 ~ 2024/04/08 23:16:35
+本榜单时间：2024/04/01 00:20:44 ~ 2024/04/08 23:34:25
 </p>
 </blockquote>
 <p>
@@ -239,6 +239,12 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%23" target="weibo">
 金价（热度：2030988）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9C%B1%E5%A9%B7%E5%AE%98%E5%AE%A3%E5%9B%9E%E5%BD%92%E4%B8%AD%E5%9B%BD%E5%A5%B3%E6%8E%92%23" target="weibo">
+朱婷官宣回归中国女排（热度：2004641）
 </a>
 </li>
 
@@ -1257,6 +1263,12 @@ Jiejie回来了（热度：1087812）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5%E5%A5%B3%E5%AD%90%E5%8D%8A%E6%88%AA%E8%BA%AB%E5%AD%90%E5%8D%B7%E5%85%A5%E6%89%B6%E6%A2%AF%23" target="weibo">
+官方通报女子半截身子卷入扶梯（热度：1077314）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%AB%99%E5%A7%90%E5%8F%91%E4%BD%95%E8%B5%9B%E9%A3%9E%20%E8%AE%A9%E4%BD%A0%E5%8F%91%E4%BA%86%E5%90%97%23" target="weibo">
 站姐发何赛飞 让你发了吗（热度：1076091）
 </a>
@@ -1289,12 +1301,6 @@ Jiejie回来了（热度：1087812）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23iPhone16%E6%9C%80%E6%96%B0%E9%AB%98%E6%B8%85%E6%B8%B2%E6%9F%93%E5%9B%BE%23" target="weibo">
 iPhone16最新高清渲染图（热度：1062540）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5%E5%A5%B3%E5%AD%90%E5%8D%8A%E6%88%AA%E8%BA%AB%E5%AD%90%E5%8D%B7%E5%85%A5%E6%89%B6%E6%A2%AF%23" target="weibo">
-官方通报女子半截身子卷入扶梯（热度：1062282）
 </a>
 </li>
 
@@ -2019,6 +2025,12 @@ TES零封JDG（热度：901726）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%80%83%E4%B8%8A%E7%A0%94%E6%9C%AC%E7%A7%91%E5%BB%B6%E6%AF%95%E4%BA%86%23" target="weibo">
+考上研本科延毕了（热度：799064）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E6%83%A0%E5%88%A9%E6%9B%B4%E6%96%B0ins%E4%BA%86%23" target="weibo">
 李惠利更新ins了（热度：798628）
 </a>
@@ -2387,12 +2399,6 @@ BoA 可以隐退了吧（热度：728684）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E7%94%9F%E8%80%83%E7%A0%94%E8%A2%AB%E6%8B%9F%E5%BD%95%E5%8F%96%E5%AE%A4%E5%8F%8B%E5%81%B7%E5%81%B7%E9%80%81%E6%83%8A%E5%96%9C%23" target="weibo">
 女生考研被拟录取室友偷偷送惊喜（热度：718041）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%80%83%E4%B8%8A%E7%A0%94%E6%9C%AC%E7%A7%91%E5%BB%B6%E6%AF%95%E4%BA%86%23" target="weibo">
-考上研本科延毕了（热度：716476）
 </a>
 </li>
 
@@ -2951,6 +2957,12 @@ HYBE是不是疯了（热度：680667）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%8A%E7%8F%AD%E4%B8%83%E4%B8%AA%E6%9C%88%E4%BA%8F%E4%BA%86%E4%B8%A4%E4%B8%87%E5%A4%9A%23" target="weibo">
 上班七个月亏了两万多（热度：636576）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BA%86%E4%BD%99%E5%B9%B42%23" target="weibo">
+庆余年2（热度：635976）
 </a>
 </li>
 
@@ -4443,6 +4455,12 @@ iPhone6Plus被列入过时产品（热度：483964）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BF%84%E7%BD%97%E6%96%AF%E8%BF%9C%E4%B8%9C%E4%B8%80%E5%9C%B0%E5%8F%91%E7%8E%B0%E6%94%BE%E5%B0%84%E6%BA%90%23" target="weibo">
+俄罗斯远东一地发现放射源（热度：473492）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%8C%BB%E5%BB%BA%E8%AE%AE%E5%A5%B3%E7%94%9F%E6%98%A5%E5%A4%A9%E5%A4%9A%E6%8A%AB%E5%A4%B4%E6%95%A3%E5%8F%91%23" target="weibo">
 中医建议女生春天多披头散发（热度：472951）
 </a>
@@ -5133,6 +5151,12 @@ iPhone闹钟不会识别调休（热度：421165）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%88%91%E4%BB%AC%E5%AE%B6%20%E6%B2%A1%E8%BF%99%E4%B8%AA%E6%9D%A1%E4%BB%B6%23" target="weibo">
+我们家 没这个条件（热度：416385）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23CUBE%E7%94%B7%E7%BB%8F%E7%BA%AA%E4%BA%BA%E9%AA%9A%E6%89%B0minnie%23" target="weibo">
 CUBE男经纪人骚扰minnie（热度：415828）
 </a>
@@ -5391,12 +5415,6 @@ Joy站姐发了内娱的Joy（热度：395656）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%BF%84%E7%BD%97%E6%96%AF%E8%BF%9C%E4%B8%9C%E4%B8%80%E5%9C%B0%E5%8F%91%E7%8E%B0%E6%94%BE%E5%B0%84%E6%BA%90%23" target="weibo">
-俄罗斯远东一地发现放射源（热度：394906）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%2354%E5%B2%81%E8%80%81%E6%9D%BF%E5%BD%93%E4%B8%BB%E6%92%AD%E6%97%A5%E8%BF%9B%E7%99%BE%E4%B8%87%23" target="weibo">
 54岁老板当主播日进百万（热度：394655）
 </a>
@@ -5417,12 +5435,6 @@ Joy站姐发了内娱的Joy（热度：395656）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A4%96%E7%A7%91%E4%B8%93%E5%AE%B6%E6%8F%92%E5%90%B8%E7%AE%A1%23" target="weibo">
 外科专家插吸管（热度：392405）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%BA%86%E4%BD%99%E5%B9%B42%23" target="weibo">
-庆余年2（热度：392205）
 </a>
 </li>
 
@@ -5999,18 +6011,6 @@ NINEPERCENT六周年（热度：355173）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9E%97%E6%9B%B4%E6%96%B0%20%E5%81%9A%E9%A5%AD%E7%9A%84%E7%A5%9E%23" target="weibo">
 林更新 做饭的神（热度：351547）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E6%B2%81%E6%BC%94%E6%8A%80%23" target="weibo">
-李沁演技（热度：350960）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E4%BF%8A%E5%87%AF%20%E7%9B%92%E5%AD%90%E9%87%8C%E7%9A%84%E7%8C%AB%E9%A2%84%E5%91%8A%23" target="weibo">
-王俊凯 盒子里的猫预告（热度：350901）
 </a>
 </li>
 
