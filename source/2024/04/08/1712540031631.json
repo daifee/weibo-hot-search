@@ -1,0 +1,410 @@
+{
+  "runTime": 1712540031631,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2234655,
+        "num": 2234655,
+        "word": "虐猫考生已参加兰大研究生调剂复试",
+        "onboard_time": 1712533457,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1666989,
+        "num": 1666989,
+        "word": "仝卓工作室曝仝卓差税被查",
+        "onboard_time": 1712535140,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 75602,
+        "num": 901377,
+        "word": "文旅消费如何从开门红走向长红",
+        "onboard_time": 1712495958,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 785956,
+        "num": 785956,
+        "word": "网友称被陈飞宇索赔20万",
+        "onboard_time": 1712536879,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 654255,
+        "num": 654255,
+        "word": "iPhone16新一轮爆料来了",
+        "onboard_time": 1712534838,
+        "rank": 4,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 604613,
+        "num": 604613,
+        "word": "刷牙最该刷的其实不是牙齿",
+        "onboard_time": 1712532975,
+        "rank": 5,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 543496,
+        "num": 543496,
+        "word": "华为",
+        "onboard_time": 1712536819,
+        "rank": 6,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 540010,
+        "num": 540010,
+        "word": "地铁内男子疑似站立猥亵",
+        "onboard_time": 1712533939,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 478529,
+        "num": 478529,
+        "word": "男子试驾劳斯莱斯获销售鼓励打动网友",
+        "onboard_time": 1712512333,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 474312,
+        "num": 474312,
+        "word": "眼泪女王 纯爱",
+        "onboard_time": 1712536038,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1721200,
+        "num": 473496,
+        "word": "虐猫考生说不是很懂网络舆论暂不回应",
+        "onboard_time": 1712534598,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 756247,
+        "num": 472443,
+        "word": "怪不得小时候发现不了唐僧换人",
+        "onboard_time": 1712538618,
+        "rank": 11,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 467003,
+        "num": 467003,
+        "word": "仝卓回应工作室讨债",
+        "onboard_time": 1712539339,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 432669,
+        "num": 432669,
+        "word": "冷圈太太",
+        "onboard_time": 1712535079,
+        "rank": 13,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 425434,
+        "num": 425434,
+        "word": "德国博物馆调查八国联军劫掠的中国文物",
+        "onboard_time": 1712536460,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 406288,
+        "num": 406288,
+        "word": "日全食",
+        "onboard_time": 1712534778,
+        "rank": 15,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 386060,
+        "num": 386060,
+        "word": "老夫妇居家俩月用水1023吨",
+        "onboard_time": 1712535739,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 377597,
+        "num": 377597,
+        "word": "兰州大学",
+        "onboard_time": 1712536578,
+        "rank": 17,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 364910,
+        "num": 364910,
+        "word": "租房吃过最大的苦是跟情侣合租",
+        "onboard_time": 1712499741,
+        "rank": 18,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 325128,
+        "num": 325128,
+        "word": "易烊千玺机场图",
+        "onboard_time": 1712538920,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 362018,
+        "num": 314519,
+        "word": "女子一天狂炫5个青团进医院",
+        "onboard_time": 1712537959,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 291535,
+        "num": 291535,
+        "word": "个人房贷规模大幅缩水",
+        "onboard_time": 1712500041,
+        "rank": 21,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 261249,
+        "num": 261249,
+        "word": "张丹峰晒与女儿出海度假照",
+        "onboard_time": 1712533576,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 258193,
+        "num": 258193,
+        "word": "被卷入超市扶梯女子丈夫发声",
+        "onboard_time": 1712525890,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 248590,
+        "num": 248590,
+        "word": "配眼镜原来有那么多坑",
+        "onboard_time": 1712537480,
+        "rank": 24,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 247703,
+        "num": 247703,
+        "word": "有些糖尿病可能是睡出来的",
+        "onboard_time": 1712533698,
+        "rank": 25,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 242269,
+        "num": 242269,
+        "word": "我倒要看看25年元旦会怎么调休",
+        "onboard_time": 1712491759,
+        "rank": 26,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 238872,
+        "num": 238872,
+        "word": "于适戛纳生图",
+        "onboard_time": 1712537001,
+        "rank": 27,
+        "category": "作品衍生,艺人"
+      },
+      {
+        "raw_hot": 212733,
+        "num": 212733,
+        "word": "EXO概念",
+        "onboard_time": 1712539458,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 203883,
+        "num": 203883,
+        "word": "单炮豌豆 双炮豌豆",
+        "onboard_time": 1712538439,
+        "rank": 29,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 931729,
+        "num": 202198,
+        "word": "仝卓",
+        "onboard_time": 1712500940,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 193985,
+        "num": 193985,
+        "word": "沈图南入党",
+        "onboard_time": 1712503340,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 188816,
+        "num": 188816,
+        "word": "金秀贤金智媛CP感",
+        "onboard_time": 1712536819,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 185723,
+        "num": 185723,
+        "word": "甲状腺癌增多可能和过度诊断有关",
+        "onboard_time": 1712531174,
+        "rank": 33,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 157368,
+        "num": 157368,
+        "word": "肖战早期与素人合照",
+        "onboard_time": 1712501181,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 154479,
+        "num": 154479,
+        "word": "民国爱情十有九悲",
+        "onboard_time": 1712539758,
+        "rank": 35,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 151951,
+        "num": 151951,
+        "word": "EXO永远的彼得潘",
+        "onboard_time": 1712532615,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 150816,
+        "num": 150816,
+        "word": "90后准新娘婚前立遗嘱遗产归父母",
+        "onboard_time": 1712518930,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 150370,
+        "num": 150370,
+        "word": "与父母同居20天他们终于不再催婚",
+        "onboard_time": 1712499261,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 147853,
+        "num": 147853,
+        "word": "追她呀 她旺你",
+        "onboard_time": 1712483838,
+        "rank": 39,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 146247,
+        "num": 146247,
+        "word": "与凤行结局吻戏是加的",
+        "onboard_time": 1712520490,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 139809,
+        "num": 139809,
+        "word": "散光恢复训练",
+        "onboard_time": 1712538618,
+        "rank": 41,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 135976,
+        "num": 135976,
+        "word": "陶渊明诚不欺我",
+        "onboard_time": 1712536640,
+        "rank": 42,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 127947,
+        "num": 127947,
+        "word": "范志毅出任辽宁铁人主帅",
+        "onboard_time": 1712531174,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 125146,
+        "num": 125146,
+        "word": "福宝",
+        "onboard_time": 1712539877,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 124198,
+        "num": 124198,
+        "word": "这类食物能延缓衰老",
+        "onboard_time": 1712539579,
+        "rank": 45,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 121586,
+        "num": 121586,
+        "word": "代号鸢玩家维权",
+        "onboard_time": 1712534958,
+        "rank": 46,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 118818,
+        "num": 118818,
+        "word": "可以打开的迷你手工小雨伞",
+        "onboard_time": 1712538978,
+        "rank": 47,
+        "category": "休闲"
+      },
+      {
+        "raw_hot": 115857,
+        "num": 115857,
+        "word": "软糯糯的青团竟成为肠胃杀手",
+        "onboard_time": 1712539938,
+        "rank": 48,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 113169,
+        "num": 113169,
+        "word": "第一批去埃及旅行的人快被骗到裸奔了",
+        "onboard_time": 1712476038,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#推进城乡环境整治完善公共卫生设施#"
+    }
+  }
+}

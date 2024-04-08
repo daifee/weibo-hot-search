@@ -1,6 +1,6 @@
 {
   "startTime": 1711902044401,
-  "endTime": 1712538862676,
+  "endTime": 1712540031631,
   "band_list": [
     {
       "raw_hot": 16874674,
@@ -188,7 +188,7 @@
     },
     {
       "raw_hot": 2184126,
-      "num": 454165,
+      "num": 473496,
       "word": "虐猫考生说不是很懂网络舆论暂不回应",
       "onboard_time": 1712534598,
       "rank": 10,
@@ -531,6 +531,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1666989,
+      "num": 1666989,
+      "word": "仝卓工作室曝仝卓差税被查",
+      "onboard_time": 1712535140,
+      "rank": 1,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1660416,
       "num": 1660416,
       "word": "长期戴耳塞睡觉的人最后怎么样了",
@@ -553,14 +561,6 @@
       "onboard_time": 1712371458,
       "rank": 0,
       "category": "教育"
-    },
-    {
-      "raw_hot": 1643008,
-      "num": 1643008,
-      "word": "仝卓工作室曝仝卓差税被查",
-      "onboard_time": 1712535140,
-      "rank": 1,
-      "category": "艺人"
     },
     {
       "raw_hot": 1642664,
@@ -2435,6 +2435,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 785956,
+      "num": 785956,
+      "word": "网友称被陈飞宇索赔20万",
+      "onboard_time": 1712536879,
+      "rank": 4,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 783055,
       "num": 783055,
       "word": "愚人节换头像",
@@ -2571,6 +2579,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 756247,
+      "num": 472443,
+      "word": "怪不得小时候发现不了唐僧换人",
+      "onboard_time": 1712538618,
+      "rank": 31,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 754115,
       "num": 754115,
       "word": "1L康师傅冰红茶涨到5元",
@@ -2601,14 +2617,6 @@
       "onboard_time": 1711984880,
       "rank": 29,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 748894,
-      "num": 748894,
-      "word": "网友称被陈飞宇索赔20万",
-      "onboard_time": 1712536879,
-      "rank": 4,
-      "category": "艺人"
     },
     {
       "raw_hot": 745256,
@@ -4387,6 +4395,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 543496,
+      "num": 543496,
+      "word": "华为",
+      "onboard_time": 1712536819,
+      "rank": 12,
+      "category": "数码"
+    },
+    {
       "raw_hot": 543477,
       "num": 543477,
       "word": "雷军回应拦截小米SU7部分异常订单",
@@ -5307,6 +5323,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 467003,
+      "num": 467003,
+      "word": "仝卓回应工作室讨债",
+      "onboard_time": 1712539339,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 466445,
       "num": 466445,
       "word": "你敢不敢去摸一下那只两脚兽",
@@ -5659,14 +5683,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 443222,
-      "num": 443222,
-      "word": "华为",
-      "onboard_time": 1712536819,
-      "rank": 12,
-      "category": "数码"
-    },
-    {
       "raw_hot": 442057,
       "num": 442057,
       "word": "王阳 叔圈天菜",
@@ -5809,6 +5825,14 @@
       "onboard_time": 1711956140,
       "rank": 14,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 432669,
+      "num": 432669,
+      "word": "冷圈太太",
+      "onboard_time": 1712535079,
+      "rank": 18,
+      "category": "动漫"
     },
     {
       "raw_hot": 432215,
@@ -6563,20 +6587,20 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 386060,
+      "num": 386060,
+      "word": "老夫妇居家俩月用水1023吨",
+      "onboard_time": 1712535739,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 385808,
       "num": 385808,
       "word": "小伞说Doinb能随时开播",
       "onboard_time": 1712242640,
       "rank": 18,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 385554,
-      "num": 385554,
-      "word": "老夫妇居家俩月用水1023吨",
-      "onboard_time": 1712535739,
-      "rank": 16,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 385447,
@@ -6713,14 +6737,6 @@
       "onboard_time": 1712132421,
       "rank": 41,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 380382,
-      "num": 200338,
-      "word": "怪不得小时候发现不了唐僧换人",
-      "onboard_time": 1712538618,
-      "rank": 31,
-      "category": "幽默"
     },
     {
       "raw_hot": 380268,
@@ -7009,6 +7025,14 @@
       "onboard_time": 1712468359,
       "rank": 13,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 362018,
+      "num": 314519,
+      "word": "女子一天狂炫5个青团进医院",
+      "onboard_time": 1712537959,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 361529,
@@ -7699,6 +7723,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 325128,
+      "num": 325128,
+      "word": "易烊千玺机场图",
+      "onboard_time": 1712538920,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 324733,
       "num": 324733,
       "word": "福宝启程回国现场画面",
@@ -8129,14 +8161,6 @@
       "onboard_time": 1711982781,
       "rank": 18,
       "category": "科学科普"
-    },
-    {
-      "raw_hot": 305594,
-      "num": 305594,
-      "word": "冷圈太太",
-      "onboard_time": 1712535079,
-      "rank": 18,
-      "category": "动漫"
     },
     {
       "raw_hot": 305591,
@@ -9787,6 +9811,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 248590,
+      "num": 248590,
+      "word": "配眼镜原来有那么多坑",
+      "onboard_time": 1712537480,
+      "rank": 25,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 248567,
       "num": 205474,
       "word": "今天穿什么香",
@@ -10329,14 +10361,6 @@
       "onboard_time": 1712121081,
       "rank": 39,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 235128,
-      "num": 235128,
-      "word": "配眼镜原来有那么多坑",
-      "onboard_time": 1712537480,
-      "rank": 25,
-      "category": "科学科普"
     },
     {
       "raw_hot": 234957,
@@ -11363,6 +11387,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 212733,
+      "num": 212733,
+      "word": "EXO概念",
+      "onboard_time": 1712539458,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 212524,
       "num": 212524,
       "word": "哥斯拉 你们真是饿了",
@@ -11883,6 +11915,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 203883,
+      "num": 203883,
+      "word": "单炮豌豆 双炮豌豆",
+      "onboard_time": 1712538439,
+      "rank": 39,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 203665,
       "num": 203665,
       "word": "解说小楼",
@@ -12017,14 +12057,6 @@
       "onboard_time": 1712520490,
       "rank": 39,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 202372,
-      "num": 202372,
-      "word": "女子一天狂炫5个青团进医院",
-      "onboard_time": 1712537959,
-      "rank": 29,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 202172,
@@ -14675,14 +14707,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 169771,
-      "num": 169771,
-      "word": "单炮豌豆 双炮豌豆",
-      "onboard_time": 1712538439,
-      "rank": 39,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 169412,
       "num": 169412,
       "word": "眼泪女王爆改在俊他妈",
@@ -15721,6 +15745,14 @@
       "onboard_time": 1712046558,
       "rank": 33,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 154479,
+      "num": 154479,
+      "word": "民国爱情十有九悲",
+      "onboard_time": 1712539758,
+      "rank": 35,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 154366,
@@ -16891,6 +16923,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 139809,
+      "num": 139809,
+      "word": "散光恢复训练",
+      "onboard_time": 1712538618,
+      "rank": 47,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 139680,
       "num": 139680,
       "word": "抢乌萨奇",
@@ -17433,14 +17473,6 @@
       "onboard_time": 1712204836,
       "rank": 47,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 133233,
-      "num": 133233,
-      "word": "散光恢复训练",
-      "onboard_time": 1712538618,
-      "rank": 47,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 133160,
@@ -18011,6 +18043,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 124198,
+      "num": 124198,
+      "word": "这类食物能延缓衰老",
+      "onboard_time": 1712539579,
+      "rank": 45,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 124093,
       "num": 124512,
       "word": "小米汽车回应退款问题",
@@ -18283,6 +18323,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 118818,
+      "num": 118818,
+      "word": "可以打开的迷你手工小雨伞",
+      "onboard_time": 1712538978,
+      "rank": 47,
+      "category": "休闲"
+    },
+    {
       "raw_hot": 118781,
       "num": 118781,
       "word": "李维嘉约了王源滑雪",
@@ -18425,6 +18473,14 @@
       "onboard_time": 1711891761,
       "rank": 43,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 115857,
+      "num": 115857,
+      "word": "软糯糯的青团竟成为肠胃杀手",
+      "onboard_time": 1712539938,
+      "rank": 48,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 115737,
