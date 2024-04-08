@@ -1,0 +1,410 @@
+{
+  "runTime": 1712572651265,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1303039,
+        "num": 1303039,
+        "word": "意外吃到了去世10年爷爷种的韭菜",
+        "onboard_time": 1712562257,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1016383,
+        "num": 1016383,
+        "word": "王一博演唱会",
+        "onboard_time": 1712570538,
+        "rank": 1,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 56531,
+        "num": 931532,
+        "word": "流动的中国处处是风景",
+        "onboard_time": 1712562197,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 869241,
+        "num": 869241,
+        "word": "周梓倩自曝正骨被性骚扰",
+        "onboard_time": 1712570899,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 708518,
+        "num": 708518,
+        "word": "王红权星自曝一个小区有7套房",
+        "onboard_time": 1712567419,
+        "rank": 4,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 649587,
+        "num": 649587,
+        "word": "庆余年2速速抬上来",
+        "onboard_time": 1712569039,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 931357,
+        "num": 646295,
+        "word": "王一博说个人演唱会OK",
+        "onboard_time": 1712569640,
+        "rank": 6,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 358862,
+        "num": 644214,
+        "word": "浙江34岁律师被歹徒袭击身亡",
+        "onboard_time": 1712561418,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 306425,
+        "num": 641506,
+        "word": "淄博烧烤持续火爆的原因找到了",
+        "onboard_time": 1712569819,
+        "rank": 8,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 603852,
+        "num": 636648,
+        "word": "偷感很重",
+        "onboard_time": 1712570419,
+        "rank": 9,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 1078044,
+        "num": 634695,
+        "word": "虐猫考生未现身兰大研究生思政考核",
+        "onboard_time": 1712569160,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 869879,
+        "num": 629459,
+        "word": "小学生1年被抢3万7变霸凌者",
+        "onboard_time": 1712569339,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 628153,
+        "num": 628153,
+        "word": "白玉兰报名名单",
+        "onboard_time": 1712568677,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 616639,
+        "num": 616639,
+        "word": "我在5点20睡觉13点14准时起",
+        "onboard_time": 1712563161,
+        "rank": 13,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 613618,
+        "num": 613618,
+        "word": "金价暴涨房价下跌说明了什么",
+        "onboard_time": 1712549540,
+        "rank": 14,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 486306,
+        "num": 486306,
+        "word": "朴彩英卷发",
+        "onboard_time": 1712568978,
+        "rank": 15,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 436274,
+        "num": 436274,
+        "word": "张俪四分钟翘臀不粗腿跟练",
+        "onboard_time": 1712566459,
+        "rank": 16,
+        "category": "运动健身,艺人"
+      },
+      {
+        "raw_hot": 411849,
+        "num": 411849,
+        "word": "韩国无糖糖葫芦",
+        "onboard_time": 1712565080,
+        "rank": 17,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 350202,
+        "num": 350202,
+        "word": "足协所有中层干部暂时被免职",
+        "onboard_time": 1712571320,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 279656,
+        "num": 325319,
+        "word": "警方通报34岁律师被捅伤身亡",
+        "onboard_time": 1712567961,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 408367,
+        "num": 323711,
+        "word": "费曼回应吴镇宇被向佐硬控",
+        "onboard_time": 1712567599,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 316481,
+        "num": 316481,
+        "word": "第一次见工作室捶正主",
+        "onboard_time": 1712556559,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 304477,
+        "num": 304477,
+        "word": "个人所得税年度汇算不属于被查",
+        "onboard_time": 1712566279,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 274348,
+        "num": 274348,
+        "word": "李一桐在家给肉肉洗澡",
+        "onboard_time": 1712571139,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 245436,
+        "num": 245436,
+        "word": "龙年龙月龙日龙时",
+        "onboard_time": 1712559438,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 237520,
+        "num": 237520,
+        "word": "不防晒为什么容易衰老",
+        "onboard_time": 1712571620,
+        "rank": 25,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 223863,
+        "num": 223863,
+        "word": "吴镇宇 挣的都是精神损失费",
+        "onboard_time": 1712571861,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 220733,
+        "num": 220733,
+        "word": "仝卓发布律师函",
+        "onboard_time": 1712565440,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 213251,
+        "num": 213251,
+        "word": "南昌一辆公交车失控冲向路边人群",
+        "onboard_time": 1712554159,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 208451,
+        "num": 208451,
+        "word": "献鱼杀青",
+        "onboard_time": 1712572099,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 205219,
+        "num": 205219,
+        "word": "壮壮妈发型",
+        "onboard_time": 1712562438,
+        "rank": 30,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 202687,
+        "num": 202687,
+        "word": "4月进口网络游戏版号公布",
+        "onboard_time": 1712572219,
+        "rank": 31,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 198744,
+        "num": 198744,
+        "word": "胡歌头发白了",
+        "onboard_time": 1712563938,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 186411,
+        "num": 186411,
+        "word": "中医朋友建议春天要多出去玩",
+        "onboard_time": 1712568560,
+        "rank": 33,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 181170,
+        "num": 181170,
+        "word": "iPhone16最新高清渲染图",
+        "onboard_time": 1712559618,
+        "rank": 34,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 172185,
+        "num": 172185,
+        "word": "目睹了酒店换床单",
+        "onboard_time": 1712556918,
+        "rank": 35,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 170251,
+        "num": 170251,
+        "word": "杜华我在哇唧唧哇很想你",
+        "onboard_time": 1712569580,
+        "rank": 36,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 153902,
+        "num": 153902,
+        "word": "眼泪女王 狗血",
+        "onboard_time": 1712553199,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 153397,
+        "num": 153397,
+        "word": "相恋10年供女友考研男子已去世",
+        "onboard_time": 1712552181,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 152087,
+        "num": 152087,
+        "word": "献鱼有郑合惠子",
+        "onboard_time": 1712567659,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 146589,
+        "num": 146589,
+        "word": "怎么和infp复合",
+        "onboard_time": 1712572519,
+        "rank": 40,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 145953,
+        "num": 145953,
+        "word": "王一博 叫你三声你敢答应吗",
+        "onboard_time": 1712567178,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 134772,
+        "num": 134772,
+        "word": "易烊千玺出发日内瓦",
+        "onboard_time": 1712563881,
+        "rank": 42,
+        "category": "艺人,演出"
+      },
+      {
+        "raw_hot": 130214,
+        "num": 130214,
+        "word": "厌倦了什么都要排队的生活",
+        "onboard_time": 1712572578,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 124324,
+        "num": 124324,
+        "word": "诺米真去迪士尼了",
+        "onboard_time": 1712566040,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 124293,
+        "num": 124293,
+        "word": "王红权星全身没8位数不出门",
+        "onboard_time": 1712567778,
+        "rank": 45,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 116231,
+        "num": 116231,
+        "word": "南昌公交事故司机当时心脏不适失去意识",
+        "onboard_time": 1712555418,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 112328,
+        "num": 112328,
+        "word": "五哈上哪弄的这些神金特效",
+        "onboard_time": 1712572638,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 108342,
+        "num": 108342,
+        "word": "脆皮大学生和他们的韧骨爷奶们",
+        "onboard_time": 1712571559,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 104345,
+        "num": 108070,
+        "word": "中方回应美计划在亚太部署中程导弹",
+        "onboard_time": 1712571978,
+        "rank": 49,
+        "category": "国内时政,军事"
+      }
+    ],
+    "hotgov": {
+      "word": "#必须继续做好创新这篇大文章#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1712506792576,
-  "endTime": 1712571684849,
+  "endTime": 1712572651265,
   "band_list": [
     {
       "raw_hot": 9583581,
@@ -140,7 +140,7 @@
     },
     {
       "raw_hot": 1104425,
-      "num": 535260,
+      "num": 634695,
       "word": "虐猫考生未现身兰大研究生思政考核",
       "onboard_time": 1712569160,
       "rank": 10,
@@ -179,6 +179,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 1016383,
+      "num": 1016383,
+      "word": "王一博演唱会",
+      "onboard_time": 1712570538,
+      "rank": 11,
+      "category": "演出"
+    },
+    {
       "raw_hot": 979913,
       "num": 979913,
       "word": "韩国无糖糖葫芦",
@@ -209,6 +217,22 @@
       "onboard_time": 1712559438,
       "rank": 24,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 869879,
+      "num": 629459,
+      "word": "小学生1年被抢3万7变霸凌者",
+      "onboard_time": 1712569339,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 869241,
+      "num": 869241,
+      "word": "周梓倩自曝正骨被性骚扰",
+      "onboard_time": 1712570899,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 867163,
@@ -395,12 +419,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 619725,
-      "num": 529136,
-      "word": "王一博演唱会",
-      "onboard_time": 1712570538,
-      "rank": 11,
-      "category": "演出"
+      "raw_hot": 603852,
+      "num": 636648,
+      "word": "偷感很重",
+      "onboard_time": 1712570419,
+      "rank": 21,
+      "category": "情感"
     },
     {
       "raw_hot": 599220,
@@ -523,14 +547,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 506359,
-      "num": 506359,
-      "word": "小学生1年被抢3万7变霸凌者",
-      "onboard_time": 1712569339,
-      "rank": 15,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 502941,
       "num": 502941,
       "word": "眼泪女王 纯爱",
@@ -577,14 +593,6 @@
       "onboard_time": 1712536460,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 452170,
-      "num": 452170,
-      "word": "周梓倩自曝正骨被性骚扰",
-      "onboard_time": 1712570899,
-      "rank": 16,
-      "category": "艺人"
     },
     {
       "raw_hot": 450930,
@@ -689,14 +697,6 @@
       "onboard_time": 1712559979,
       "rank": 25,
       "category": "教育"
-    },
-    {
-      "raw_hot": 396467,
-      "num": 396467,
-      "word": "偷感很重",
-      "onboard_time": 1712570419,
-      "rank": 21,
-      "category": "情感"
     },
     {
       "raw_hot": 390893,
@@ -819,6 +819,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 350202,
+      "num": 350202,
+      "word": "足协所有中层干部暂时被免职",
+      "onboard_time": 1712571320,
+      "rank": 26,
+      "category": "体育"
+    },
+    {
       "raw_hot": 349232,
       "num": 349232,
       "word": "眼镜居然有寿命",
@@ -907,6 +915,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 306425,
+      "num": 641506,
+      "word": "淄博烧烤持续火爆的原因找到了",
+      "onboard_time": 1712569819,
+      "rank": 8,
+      "category": "美食"
+    },
+    {
       "raw_hot": 303442,
       "num": 303442,
       "word": "献鱼有郑合惠子",
@@ -937,14 +953,6 @@
       "onboard_time": 1712557459,
       "rank": 28,
       "category": "财经"
-    },
-    {
-      "raw_hot": 298591,
-      "num": 545886,
-      "word": "淄博烧烤持续火爆的原因找到了",
-      "onboard_time": 1712569819,
-      "rank": 8,
-      "category": "美食"
     },
     {
       "raw_hot": 298170,
@@ -1155,14 +1163,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 247488,
-      "num": 247488,
-      "word": "足协所有中层干部暂时被免职",
-      "onboard_time": 1712571320,
-      "rank": 26,
-      "category": "体育"
-    },
-    {
       "raw_hot": 242991,
       "num": 242991,
       "word": "王阳25岁至46岁颜值变化",
@@ -1193,6 +1193,14 @@
       "onboard_time": 1712533576,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 237520,
+      "num": 237520,
+      "word": "不防晒为什么容易衰老",
+      "onboard_time": 1712571620,
+      "rank": 49,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 237051,
@@ -1291,6 +1299,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 223863,
+      "num": 223863,
+      "word": "吴镇宇 挣的都是精神损失费",
+      "onboard_time": 1712571861,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 220876,
       "num": 220876,
       "word": "马东锡将于5月完婚",
@@ -1345,6 +1361,14 @@
       "onboard_time": 1712562318,
       "rank": 32,
       "category": "体育"
+    },
+    {
+      "raw_hot": 208451,
+      "num": 208451,
+      "word": "献鱼杀青",
+      "onboard_time": 1712572099,
+      "rank": 29,
+      "category": "剧集"
     },
     {
       "raw_hot": 207229,
@@ -1417,6 +1441,14 @@
       "onboard_time": 1712546658,
       "rank": 43,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 202687,
+      "num": 202687,
+      "word": "4月进口网络游戏版号公布",
+      "onboard_time": 1712572219,
+      "rank": 31,
+      "category": "游戏"
     },
     {
       "raw_hot": 202663,
@@ -1907,6 +1939,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 146589,
+      "num": 146589,
+      "word": "怎么和infp复合",
+      "onboard_time": 1712572519,
+      "rank": 40,
+      "category": "情感"
+    },
+    {
       "raw_hot": 146335,
       "num": 146335,
       "word": "坐着站着又趴着的猫",
@@ -2115,12 +2155,12 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 130470,
-      "num": 130470,
-      "word": "不防晒为什么容易衰老",
-      "onboard_time": 1712571620,
-      "rank": 49,
-      "category": "健康医疗"
+      "raw_hot": 130214,
+      "num": 130214,
+      "word": "厌倦了什么都要排队的生活",
+      "onboard_time": 1712572578,
+      "rank": 43,
+      "category": "情感"
     },
     {
       "raw_hot": 129212,
@@ -2259,6 +2299,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 112328,
+      "num": 112328,
+      "word": "五哈上哪弄的这些神金特效",
+      "onboard_time": 1712572638,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 109352,
       "num": 109352,
       "word": "新款低端iPad或在年底前发布",
@@ -2273,6 +2321,14 @@
       "onboard_time": 1712531955,
       "rank": 27,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 104345,
+      "num": 108070,
+      "word": "中方回应美计划在亚太部署中程导弹",
+      "onboard_time": 1712571978,
+      "rank": 49,
+      "category": "国内时政,军事"
     },
     {
       "raw_hot": 102388,

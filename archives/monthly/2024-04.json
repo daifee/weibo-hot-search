@@ -1,6 +1,6 @@
 {
   "startTime": 1711902044401,
-  "endTime": 1712571684849,
+  "endTime": 1712572651265,
   "band_list": [
     {
       "raw_hot": 16874674,
@@ -1508,7 +1508,7 @@
     },
     {
       "raw_hot": 1104425,
-      "num": 535260,
+      "num": 634695,
       "word": "虐猫考生未现身兰大研究生思政考核",
       "onboard_time": 1712569160,
       "rank": 10,
@@ -1777,6 +1777,14 @@
       "onboard_time": 1712189416,
       "rank": 10,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1016383,
+      "num": 1016383,
+      "word": "王一博演唱会",
+      "onboard_time": 1712570538,
+      "rank": 11,
+      "category": "演出"
     },
     {
       "raw_hot": 1015475,
@@ -2211,11 +2219,27 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 869879,
+      "num": 629459,
+      "word": "小学生1年被抢3万7变霸凌者",
+      "onboard_time": 1712569339,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 869845,
       "num": 869845,
       "word": "一百家站姐发了陈都灵",
       "onboard_time": 1711954339,
       "rank": 4,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 869241,
+      "num": 869241,
+      "word": "周梓倩自曝正骨被性骚扰",
+      "onboard_time": 1712570899,
+      "rank": 16,
       "category": "艺人"
     },
     {
@@ -3915,14 +3939,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 619725,
-      "num": 529136,
-      "word": "王一博演唱会",
-      "onboard_time": 1712570538,
-      "rank": 11,
-      "category": "演出"
-    },
-    {
       "raw_hot": 618814,
       "num": 618814,
       "word": "雷军奖励王腾小米su7",
@@ -4097,6 +4113,14 @@
       "onboard_time": 1711931240,
       "rank": 11,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 603852,
+      "num": 636648,
+      "word": "偷感很重",
+      "onboard_time": 1712570419,
+      "rank": 21,
+      "category": "情感"
     },
     {
       "raw_hot": 602298,
@@ -5227,14 +5251,6 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 506359,
-      "num": 506359,
-      "word": "小学生1年被抢3万7变霸凌者",
-      "onboard_time": 1712569339,
-      "rank": 15,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 506176,
       "num": 506176,
       "word": "黄旭熙中文还没郑雅娴说得好",
@@ -5921,14 +5937,6 @@
       "onboard_time": 1712483059,
       "rank": 14,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 452170,
-      "num": 452170,
-      "word": "周梓倩自曝正骨被性骚扰",
-      "onboard_time": 1712570899,
-      "rank": 16,
-      "category": "艺人"
     },
     {
       "raw_hot": 452107,
@@ -6907,14 +6915,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 396467,
-      "num": 396467,
-      "word": "偷感很重",
-      "onboard_time": 1712570419,
-      "rank": 21,
-      "category": "情感"
-    },
-    {
       "raw_hot": 396372,
       "num": 396372,
       "word": "王鹤棣于适 新电影",
@@ -7761,6 +7761,14 @@
       "onboard_time": 1712547619,
       "rank": 31,
       "category": "数码"
+    },
+    {
+      "raw_hot": 350202,
+      "num": 350202,
+      "word": "足协所有中层干部暂时被免职",
+      "onboard_time": 1712571320,
+      "rank": 26,
+      "category": "体育"
     },
     {
       "raw_hot": 349232,
@@ -8731,6 +8739,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 306425,
+      "num": 641506,
+      "word": "淄博烧烤持续火爆的原因找到了",
+      "onboard_time": 1712569819,
+      "rank": 8,
+      "category": "美食"
+    },
+    {
       "raw_hot": 306114,
       "num": 306114,
       "word": "华为拟分红770.95亿",
@@ -8953,14 +8969,6 @@
       "onboard_time": 1712330179,
       "rank": 46,
       "category": "演出"
-    },
-    {
-      "raw_hot": 298591,
-      "num": 545886,
-      "word": "淄博烧烤持续火爆的原因找到了",
-      "onboard_time": 1712569819,
-      "rank": 8,
-      "category": "美食"
     },
     {
       "raw_hot": 298170,
@@ -10635,14 +10643,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 247488,
-      "num": 247488,
-      "word": "足协所有中层干部暂时被免职",
-      "onboard_time": 1712571320,
-      "rank": 26,
-      "category": "体育"
-    },
-    {
       "raw_hot": 247428,
       "num": 247428,
       "word": "花间令郡主自杀了",
@@ -11065,6 +11065,14 @@
       "onboard_time": 1712494999,
       "rank": 30,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 237520,
+      "num": 237520,
+      "word": "不防晒为什么容易衰老",
+      "onboard_time": 1712571620,
+      "rank": 49,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 237409,
@@ -11689,6 +11697,14 @@
       "onboard_time": 1712223079,
       "rank": 31,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 223863,
+      "num": 223863,
+      "word": "吴镇宇 挣的都是精神损失费",
+      "onboard_time": 1712571861,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 223652,
@@ -12563,6 +12579,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 208451,
+      "num": 208451,
+      "word": "献鱼杀青",
+      "onboard_time": 1712572099,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 208274,
       "num": 208274,
       "word": "变身罗伯特",
@@ -12993,6 +13017,14 @@
       "onboard_time": 1712051659,
       "rank": 26,
       "category": "电影"
+    },
+    {
+      "raw_hot": 202687,
+      "num": 202687,
+      "word": "4月进口网络游戏版号公布",
+      "onboard_time": 1712572219,
+      "rank": 31,
+      "category": "游戏"
     },
     {
       "raw_hot": 202663,
@@ -17771,6 +17803,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 146589,
+      "num": 146589,
+      "word": "怎么和infp复合",
+      "onboard_time": 1712572519,
+      "rank": 40,
+      "category": "情感"
+    },
+    {
       "raw_hot": 146457,
       "num": 146457,
       "word": "夏之光胸沟",
@@ -19051,20 +19091,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 130470,
-      "num": 130470,
-      "word": "不防晒为什么容易衰老",
-      "onboard_time": 1712571620,
-      "rank": 49,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 130341,
       "num": 130341,
       "word": "李荣浩新专",
       "onboard_time": 1712469861,
       "rank": 42,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 130214,
+      "num": 130214,
+      "word": "厌倦了什么都要排队的生活",
+      "onboard_time": 1712572578,
+      "rank": 43,
+      "category": "情感"
     },
     {
       "raw_hot": 130092,
@@ -20059,6 +20099,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 112328,
+      "num": 112328,
+      "word": "五哈上哪弄的这些神金特效",
+      "onboard_time": 1712572638,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 112313,
       "num": 112313,
       "word": "惜花芷 全家扔进变形计",
@@ -20313,6 +20361,14 @@
       "onboard_time": 1712003411,
       "rank": 41,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 104345,
+      "num": 108070,
+      "word": "中方回应美计划在亚太部署中程导弹",
+      "onboard_time": 1712571978,
+      "rank": 49,
+      "category": "国内时政,军事"
     },
     {
       "raw_hot": 104337,
