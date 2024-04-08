@@ -1,6 +1,6 @@
 {
   "startTime": 1712506792576,
-  "endTime": 1712574918418,
+  "endTime": 1712576076836,
   "band_list": [
     {
       "raw_hot": 9583581,
@@ -139,28 +139,28 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1171926,
-      "num": 1171926,
-      "word": "王一博说个人演唱会OK",
-      "onboard_time": 1712569640,
-      "rank": 1,
-      "category": "演出"
+      "raw_hot": 1217664,
+      "num": 1217664,
+      "word": "不愿意就算了 但他愿意",
+      "onboard_time": 1712572818,
+      "rank": 3,
+      "category": "剧集"
     },
     {
-      "raw_hot": 1147470,
-      "num": 1147470,
+      "raw_hot": 1184556,
+      "num": 1184556,
       "word": "周梓倩自曝正骨被性骚扰",
       "onboard_time": 1712570899,
       "rank": 16,
       "category": "艺人"
     },
     {
-      "raw_hot": 1110623,
-      "num": 1110623,
-      "word": "不愿意就算了 但他愿意",
-      "onboard_time": 1712572818,
-      "rank": 3,
-      "category": "剧集"
+      "raw_hot": 1171926,
+      "num": 1171926,
+      "word": "王一博说个人演唱会OK",
+      "onboard_time": 1712569640,
+      "rank": 1,
+      "category": "演出"
     },
     {
       "raw_hot": 1104425,
@@ -331,12 +331,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 767817,
+      "num": 767817,
+      "word": "偷感很重",
+      "onboard_time": 1712570419,
+      "rank": 21,
+      "category": "情感"
+    },
+    {
       "raw_hot": 763795,
       "num": 763795,
       "word": "刷牙最该刷的其实不是牙齿",
       "onboard_time": 1712532975,
       "rank": 3,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 753777,
+      "num": 477379,
+      "word": "虐猫考生",
+      "onboard_time": 1712573899,
+      "rank": 21,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 753390,
@@ -353,14 +369,6 @@
       "onboard_time": 1712542578,
       "rank": 7,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 737937,
-      "num": 737937,
-      "word": "偷感很重",
-      "onboard_time": 1712570419,
-      "rank": 21,
-      "category": "情感"
     },
     {
       "raw_hot": 735058,
@@ -409,6 +417,14 @@
       "onboard_time": 1712533939,
       "rank": 6,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 689084,
+      "num": 689084,
+      "word": "孙亚龙确诊中风",
+      "onboard_time": 1712575338,
+      "rank": 6,
+      "category": "游戏"
     },
     {
       "raw_hot": 637713,
@@ -489,6 +505,14 @@
       "onboard_time": 1712554100,
       "rank": 25,
       "category": "美食"
+    },
+    {
+      "raw_hot": 544912,
+      "num": 544912,
+      "word": "颧骨",
+      "onboard_time": 1712574380,
+      "rank": 17,
+      "category": "美妆"
     },
     {
       "raw_hot": 543496,
@@ -851,14 +875,6 @@
       "category": "科学科普"
     },
     {
-      "raw_hot": 347046,
-      "num": 347046,
-      "word": "颧骨",
-      "onboard_time": 1712574380,
-      "rank": 17,
-      "category": "美妆"
-    },
-    {
       "raw_hot": 346462,
       "num": 346462,
       "word": "沈图南入党",
@@ -923,7 +939,7 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 316048,
+      "raw_hot": 316194,
       "num": 641506,
       "word": "淄博烧烤持续火爆的原因找到了",
       "onboard_time": 1712569819,
@@ -1187,14 +1203,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 246527,
-      "num": 246527,
-      "word": "虐猫考生",
-      "onboard_time": 1712573899,
-      "rank": 21,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 242991,
       "num": 242991,
       "word": "王阳25岁至46岁颜值变化",
@@ -1249,6 +1257,14 @@
       "onboard_time": 1712562497,
       "rank": 30,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 231496,
+      "num": 231496,
+      "word": "尚美巴黎 于适",
+      "onboard_time": 1712574739,
+      "rank": 27,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 231453,
@@ -1323,6 +1339,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 225240,
+      "num": 225240,
+      "word": "于正最爱的演员是白鹿",
+      "onboard_time": 1712576059,
+      "rank": 25,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 224604,
       "num": 224604,
       "word": "王一博即兴",
@@ -1337,6 +1361,14 @@
       "onboard_time": 1712571861,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 221474,
+      "num": 321469,
+      "word": "巴黎奥运将启用紫色跑道",
+      "onboard_time": 1712574618,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 220876,
@@ -1475,6 +1507,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 203002,
+      "num": 203002,
+      "word": "天水官方回应开店卖麻辣烫",
+      "onboard_time": 1712574920,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 202687,
       "num": 202687,
       "word": "4月进口网络游戏版号公布",
@@ -1521,6 +1561,14 @@
       "onboard_time": 1712493859,
       "rank": 18,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 201865,
+      "num": 201865,
+      "word": "李耕耘古装",
+      "onboard_time": 1712575878,
+      "rank": 29,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 200816,
@@ -1609,6 +1657,14 @@
       "onboard_time": 1712567178,
       "rank": 42,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 191551,
+      "num": 191551,
+      "word": "忍住不联系是射手的一贯作风",
+      "onboard_time": 1712574679,
+      "rank": 32,
+      "category": "情感"
     },
     {
       "raw_hot": 191010,
@@ -1739,6 +1795,14 @@
       "category": "科学科普,健康医疗"
     },
     {
+      "raw_hot": 176614,
+      "num": 176614,
+      "word": "王晰",
+      "onboard_time": 1712575937,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 176470,
       "num": 176470,
       "word": "中医建议女生春天多披头散发",
@@ -1761,14 +1825,6 @@
       "onboard_time": 1712545040,
       "rank": 39,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 174347,
-      "num": 174347,
-      "word": "尚美巴黎 于适",
-      "onboard_time": 1712574739,
-      "rank": 27,
-      "category": "艺人,时尚"
     },
     {
       "raw_hot": 173135,
@@ -1923,14 +1979,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 154432,
-      "num": 154432,
-      "word": "忍住不联系是射手的一贯作风",
-      "onboard_time": 1712574679,
-      "rank": 32,
-      "category": "情感"
-    },
-    {
       "raw_hot": 154345,
       "num": 154345,
       "word": "诺米 透明的一生",
@@ -1969,6 +2017,14 @@
       "onboard_time": 1712494819,
       "rank": 27,
       "category": "电影"
+    },
+    {
+      "raw_hot": 152468,
+      "num": 152468,
+      "word": "没有一个广东人能逃过肠粉",
+      "onboard_time": 1712575700,
+      "rank": 35,
+      "category": "美食"
     },
     {
       "raw_hot": 152271,
@@ -2011,12 +2067,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 146233,
+      "num": 146233,
+      "word": "16次抽血浆的男孩倒在春天来临前",
+      "onboard_time": 1712575579,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 145678,
       "num": 145678,
       "word": "4款披头散发的发型",
       "onboard_time": 1712544200,
       "rank": 45,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 143752,
+      "num": 143752,
+      "word": "第一次吃天水麻辣烫",
+      "onboard_time": 1712575338,
+      "rank": 41,
+      "category": "美食"
     },
     {
       "raw_hot": 143017,
@@ -2131,6 +2203,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 137970,
+      "num": 137970,
+      "word": "招商银行提出要过紧日子",
+      "onboard_time": 1712575700,
+      "rank": 42,
+      "category": "财经"
+    },
+    {
       "raw_hot": 137569,
       "num": 137569,
       "word": "当代年轻人的状态",
@@ -2145,6 +2225,14 @@
       "onboard_time": 1712537540,
       "rank": 45,
       "category": "情感"
+    },
+    {
+      "raw_hot": 137022,
+      "num": 137022,
+      "word": "KPL赛程",
+      "onboard_time": 1712573779,
+      "rank": 43,
+      "category": "电竞"
     },
     {
       "raw_hot": 136558,
@@ -2227,12 +2315,12 @@
       "category": "国内时政,军事"
     },
     {
-      "raw_hot": 130387,
-      "num": 130387,
-      "word": "KPL赛程",
-      "onboard_time": 1712573779,
-      "rank": 43,
-      "category": "电竞"
+      "raw_hot": 131311,
+      "num": 131311,
+      "word": "皮肤科医生教你如何正确防晒",
+      "onboard_time": 1712575819,
+      "rank": 47,
+      "category": "美妆"
     },
     {
       "raw_hot": 129212,
@@ -2369,14 +2457,6 @@
       "onboard_time": 1712556378,
       "rank": 30,
       "category": "美食"
-    },
-    {
-      "raw_hot": 116047,
-      "num": 116047,
-      "word": "巴黎奥运将启用紫色跑道",
-      "onboard_time": 1712574618,
-      "rank": 48,
-      "category": "体育"
     },
     {
       "raw_hot": 113520,
@@ -2644,7 +2724,7 @@
     },
     {
       "raw_hot": 16109,
-      "num": 817860,
+      "num": 1119825,
       "word": "这个春天遇见美好成为美好",
       "onboard_time": 1712561537,
       "rank": 2,
