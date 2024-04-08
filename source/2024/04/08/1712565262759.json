@@ -1,0 +1,410 @@
+{
+  "runTime": 1712565262759,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1935593,
+        "num": 1935593,
+        "word": "意外吃到了去世10年爷爷种的韭菜",
+        "onboard_time": 1712562257,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1058889,
+        "num": 1058889,
+        "word": "浙江34岁律师被歹徒袭击身亡",
+        "onboard_time": 1712561418,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 126988,
+        "num": 929859,
+        "word": "流动的中国处处是风景",
+        "onboard_time": 1712562197,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 889255,
+        "num": 889255,
+        "word": "iPhone16最新高清渲染图",
+        "onboard_time": 1712559618,
+        "rank": 3,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 745029,
+        "num": 745029,
+        "word": "第一次见工作室捶正主",
+        "onboard_time": 1712556559,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 700943,
+        "num": 700943,
+        "word": "龙年龙月龙日龙时",
+        "onboard_time": 1712559438,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 682267,
+        "num": 682267,
+        "word": "林更新新简介",
+        "onboard_time": 1712558658,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 495846,
+        "num": 495846,
+        "word": "南昌一辆公交车失控冲向路边人群",
+        "onboard_time": 1712554159,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 494142,
+        "num": 494142,
+        "word": "体育总局要求女篮走出舒适圈",
+        "onboard_time": 1712560758,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 450930,
+        "num": 450930,
+        "word": "易烊千玺出发日内瓦",
+        "onboard_time": 1712563881,
+        "rank": 9,
+        "category": "艺人,演出"
+      },
+      {
+        "raw_hot": 920240,
+        "num": 450473,
+        "word": "金价暴涨房价下跌说明了什么",
+        "onboard_time": 1712549540,
+        "rank": 10,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 810581,
+        "num": 449198,
+        "word": "庆余年2 泄漏",
+        "onboard_time": 1712564660,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 447214,
+        "num": 447214,
+        "word": "壮壮妈发型",
+        "onboard_time": 1712562438,
+        "rank": 12,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 428196,
+        "num": 428196,
+        "word": "林更新曾是饶雪漫的书模",
+        "onboard_time": 1712563399,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 80800,
+        "num": 394122,
+        "word": "国内首个手机护眼白皮书",
+        "onboard_time": 1712563218,
+        "rank": 14,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 393543,
+        "num": 393543,
+        "word": "邯郸案3人将面临故意杀人罪基本刑罚",
+        "onboard_time": 1712549000,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 374260,
+        "num": 374260,
+        "word": "胡歌头发白了",
+        "onboard_time": 1712563938,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 349232,
+        "num": 349232,
+        "word": "眼镜居然有寿命",
+        "onboard_time": 1712561119,
+        "rank": 17,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 324725,
+        "num": 324725,
+        "word": "相恋10年供女友考研男子已去世",
+        "onboard_time": 1712552181,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 302213,
+        "num": 302213,
+        "word": "高梓淇感谢蔡琳",
+        "onboard_time": 1712558058,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 294304,
+        "num": 294304,
+        "word": "苹果内鬼至少泄密6款苹果产品",
+        "onboard_time": 1712546840,
+        "rank": 20,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 283300,
+        "num": 283300,
+        "word": "目睹了酒店换床单",
+        "onboard_time": 1712556918,
+        "rank": 21,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 281907,
+        "num": 281907,
+        "word": "金智媛没入围",
+        "onboard_time": 1712546299,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 281560,
+        "num": 281560,
+        "word": "腾讯云崩了",
+        "onboard_time": 1712563518,
+        "rank": 23,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 280856,
+        "num": 280856,
+        "word": "仝卓工作室直播了",
+        "onboard_time": 1712547319,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 280751,
+        "num": 280751,
+        "word": "我在5点20睡觉13点14准时起",
+        "onboard_time": 1712563161,
+        "rank": 25,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 270433,
+        "num": 270433,
+        "word": "虐猫考生说不是很懂网络舆论暂不回应",
+        "onboard_time": 1712534598,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 243189,
+        "num": 243189,
+        "word": "于适 机场悍匪",
+        "onboard_time": 1712562979,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 233576,
+        "num": 233576,
+        "word": "王一博工作室端水",
+        "onboard_time": 1712563278,
+        "rank": 28,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 216428,
+        "num": 216428,
+        "word": "眼泪女王 狗血",
+        "onboard_time": 1712553199,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 215034,
+        "num": 215034,
+        "word": "田曦薇倪妮撞衫",
+        "onboard_time": 1712562497,
+        "rank": 30,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 206435,
+        "num": 206435,
+        "word": "侃爷老婆夏天穿皮草",
+        "onboard_time": 1712563638,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 197992,
+        "num": 197992,
+        "word": "山东事业编成绩",
+        "onboard_time": 1712559979,
+        "rank": 32,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 181989,
+        "num": 181989,
+        "word": "猫 吃了烂猫条遭这老罪",
+        "onboard_time": 1712560998,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 180801,
+        "num": 180801,
+        "word": "眼泪女王 在加纳共和国离婚",
+        "onboard_time": 1712549361,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 202026,
+        "num": 180543,
+        "word": "田曦薇一年没走出横店了",
+        "onboard_time": 1712560939,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 180199,
+        "num": 180199,
+        "word": "西安外国语大学原校长王军哲被调查",
+        "onboard_time": 1712562798,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 175186,
+        "num": 175186,
+        "word": "林更新说与凤行给了星玥圆满",
+        "onboard_time": 1712561418,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 174752,
+        "num": 174752,
+        "word": "南昌公交事故司机当时心脏不适失去意识",
+        "onboard_time": 1712555418,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 169566,
+        "num": 169566,
+        "word": "范志毅回应执教辽宁铁人",
+        "onboard_time": 1712562318,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 157647,
+        "num": 157647,
+        "word": "浪姐二公路透",
+        "onboard_time": 1712560098,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 151039,
+        "num": 151039,
+        "word": "韩国无糖糖葫芦",
+        "onboard_time": 1712565080,
+        "rank": 41,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 147021,
+        "num": 147021,
+        "word": "仝卓工作室曝仝卓差税被查",
+        "onboard_time": 1712535140,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 142863,
+        "num": 142863,
+        "word": "田曦薇露腰皮衣",
+        "onboard_time": 1712557338,
+        "rank": 43,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 139414,
+        "num": 139414,
+        "word": "在骑行的路上捡到了一只猫",
+        "onboard_time": 1712564361,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 137378,
+        "num": 137378,
+        "word": "女孩误以为取快递还要和快递合影",
+        "onboard_time": 1712548521,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 136981,
+        "num": 136981,
+        "word": "眼泪女王中国区OST",
+        "onboard_time": 1712562798,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 133493,
+        "num": 133493,
+        "word": "卫冕冠军陈梦没有放慢脚步",
+        "onboard_time": 1712561178,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 133360,
+        "num": 133360,
+        "word": "白色梨花融入故宫配色",
+        "onboard_time": 1712564239,
+        "rank": 48,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 116345,
+        "num": 116345,
+        "word": "檀健次入驻上海杜莎",
+        "onboard_time": 1712560279,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#同志加兄弟是中越传统友谊最生动写照#"
+    }
+  }
+}
