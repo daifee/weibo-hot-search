@@ -1,6 +1,6 @@
 {
   "startTime": 1712593429256,
-  "endTime": 1712615696361,
+  "endTime": 1712618308396,
   "band_list": [
     {
       "raw_hot": 1748207,
@@ -147,12 +147,36 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 336318,
+      "num": 336318,
+      "word": "赵露思安妮海瑟薇穿同款皮裙",
+      "onboard_time": 1712599392,
+      "rank": 22,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 331999,
       "num": 331999,
       "word": "王鹤棣 人夫感",
       "onboard_time": 1712590638,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 326581,
+      "num": 326581,
+      "word": "孙坚吐槽奢侈品包质量问题",
+      "onboard_time": 1712597292,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 270952,
+      "num": 270952,
+      "word": "河南姑娘在四季青做穿版模特月入两万",
+      "onboard_time": 1712604070,
+      "rank": 40,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 266012,
@@ -227,12 +251,28 @@
       "category": "演出"
     },
     {
+      "raw_hot": 168828,
+      "num": 168828,
+      "word": "朱婷曾提退役申请",
+      "onboard_time": 1712617756,
+      "rank": 17,
+      "category": "体育"
+    },
+    {
       "raw_hot": 158666,
       "num": 158666,
       "word": "不愿意就算了 但他愿意",
       "onboard_time": 1712572818,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 155099,
+      "num": 337802,
+      "word": "凌晨4点在深圳海边看银河",
+      "onboard_time": 1712605212,
+      "rank": 30,
+      "category": "旅游"
     },
     {
       "raw_hot": 151987,
@@ -243,28 +283,20 @@
       "category": "情感"
     },
     {
+      "raw_hot": 143847,
+      "num": 143847,
+      "word": "日全食",
+      "onboard_time": 1712585841,
+      "rank": 32,
+      "category": "自然"
+    },
+    {
       "raw_hot": 140292,
       "num": 140292,
       "word": "金莎孙丞潇去韩国了",
       "onboard_time": 1712588301,
       "rank": 31,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 135889,
-      "num": 135889,
-      "word": "赵露思安妮海瑟薇穿同款皮裙",
-      "onboard_time": 1712599392,
-      "rank": 22,
-      "category": "作品衍生"
-    },
-    {
-      "raw_hot": 135619,
-      "num": 135619,
-      "word": "日全食",
-      "onboard_time": 1712585841,
-      "rank": 32,
-      "category": "自然"
     },
     {
       "raw_hot": 134677,
@@ -289,22 +321,6 @@
       "onboard_time": 1712582179,
       "rank": 34,
       "category": "美食"
-    },
-    {
-      "raw_hot": 128067,
-      "num": 128067,
-      "word": "孙坚吐槽奢侈品包质量问题",
-      "onboard_time": 1712597292,
-      "rank": 34,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 124082,
-      "num": 124082,
-      "word": "河南姑娘在四季青做穿版模特月入两万",
-      "onboard_time": 1712604070,
-      "rank": 40,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 121095,
@@ -355,6 +371,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 115025,
+      "num": 115025,
+      "word": "为什么年轻人愿意自己带孩子",
+      "onboard_time": 1712611150,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 109972,
       "num": 109972,
       "word": "白羊座新月许愿",
@@ -395,6 +419,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 98100,
+      "num": 339566,
+      "word": "在欧美访了个寂寞中国工程师决定自己搞",
+      "onboard_time": 1712597892,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 97576,
+      "num": 97576,
+      "word": "张若昀祝贺庆余年",
+      "onboard_time": 1712616493,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 96929,
       "num": 96929,
       "word": "孙亚龙确诊中风",
@@ -409,6 +449,14 @@
       "onboard_time": 1712583140,
       "rank": 45,
       "category": "情感"
+    },
+    {
+      "raw_hot": 95738,
+      "num": 95738,
+      "word": "骨盆可能是世界上最贵的容器",
+      "onboard_time": 1712617335,
+      "rank": 27,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 88963,
@@ -427,6 +475,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 81573,
+      "num": 81573,
+      "word": "黄金回收市场迎来卖金热",
+      "onboard_time": 1712613671,
+      "rank": 30,
+      "category": "财经"
+    },
+    {
       "raw_hot": 81334,
       "num": 81334,
       "word": "剑网3",
@@ -443,20 +499,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 76247,
-      "num": 136836,
-      "word": "凌晨4点在深圳海边看银河",
-      "onboard_time": 1712605212,
+      "raw_hot": 70418,
+      "num": 70418,
+      "word": "原来林更新粉丝吃这么好",
+      "onboard_time": 1712599452,
       "rank": 30,
-      "category": "旅游"
-    },
-    {
-      "raw_hot": 75959,
-      "num": 68214,
-      "word": "为什么年轻人愿意自己带孩子",
-      "onboard_time": 1712611150,
-      "rank": 30,
-      "category": "情感"
+      "category": "艺人"
     },
     {
       "raw_hot": 68368,
@@ -467,6 +515,30 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 63427,
+      "num": 63427,
+      "word": "总犯困不想动可能是甲状腺有问题",
+      "onboard_time": 1712613971,
+      "rank": 48,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 63334,
+      "num": 63334,
+      "word": "王红权星说红了之后被排斥",
+      "onboard_time": 1712604251,
+      "rank": 35,
+      "category": "网红"
+    },
+    {
+      "raw_hot": 57636,
+      "num": 498815,
+      "word": "我国首口超5000米深层地热科学探井",
+      "onboard_time": 1712582122,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 51504,
       "num": 151999,
       "word": "感动中国2023颁奖辞",
@@ -475,12 +547,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 45122,
-      "num": 45122,
-      "word": "黄金回收市场迎来卖金热",
-      "onboard_time": 1712613671,
-      "rank": 30,
-      "category": "财经"
+      "raw_hot": 45789,
+      "num": 52459,
+      "word": "金智媛生图",
+      "onboard_time": 1712599932,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 43040,
+      "num": 52447,
+      "word": "四个勤天清华活动后主动打扫现场",
+      "onboard_time": 1712617694,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 41920,
@@ -488,14 +568,6 @@
       "word": "王一博婉拒吃播",
       "onboard_time": 1712598554,
       "rank": 26,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 41289,
-      "num": 41289,
-      "word": "金智媛生图",
-      "onboard_time": 1712599932,
-      "rank": 38,
       "category": "艺人"
     },
     {
@@ -507,52 +579,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 39495,
-      "num": 39495,
-      "word": "原来林更新粉丝吃这么好",
-      "onboard_time": 1712599452,
-      "rank": 30,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 32159,
-      "num": 32159,
-      "word": "王红权星说红了之后被排斥",
-      "onboard_time": 1712604251,
-      "rank": 35,
-      "category": "网红"
-    },
-    {
-      "raw_hot": 29434,
-      "num": 29434,
-      "word": "总犯困不想动可能是甲状腺有问题",
-      "onboard_time": 1712613971,
-      "rank": 48,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 28039,
       "num": 28039,
       "word": "奥运会资格系列赛开票",
       "onboard_time": 1712597713,
       "rank": 45,
       "category": "体育"
-    },
-    {
-      "raw_hot": 27885,
-      "num": 41218,
-      "word": "在欧美访了个寂寞中国工程师决定自己搞",
-      "onboard_time": 1712597892,
-      "rank": 29,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 26041,
-      "num": 387946,
-      "word": "我国首口超5000米深层地热科学探井",
-      "onboard_time": 1712582122,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 25508,

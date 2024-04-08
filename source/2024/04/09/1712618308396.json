@@ -1,0 +1,410 @@
+{
+  "runTime": 1712618308396,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 753629,
+        "num": 753629,
+        "word": "我们家 没这个条件",
+        "onboard_time": 1712589019,
+        "rank": 0,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 549878,
+        "num": 549878,
+        "word": "朱婷官宣回归中国女排",
+        "onboard_time": 1712589379,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 57636,
+        "num": 498815,
+        "word": "我国首口超5000米深层地热科学探井",
+        "onboard_time": 1712582122,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 457063,
+        "num": 457063,
+        "word": "王一博托姐公开秀恩爱",
+        "onboard_time": 1712578400,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 427032,
+        "num": 427032,
+        "word": "赵丽颖曾推荐刘宇宁演与凤行",
+        "onboard_time": 1712585961,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 365503,
+        "num": 365503,
+        "word": "中医建议大家不要盲目的防晒",
+        "onboard_time": 1712577139,
+        "rank": 5,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 352390,
+        "num": 352390,
+        "word": "官方通报女子半截身子卷入扶梯",
+        "onboard_time": 1712585364,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 344537,
+        "num": 344537,
+        "word": "俄罗斯远东一地发现放射源",
+        "onboard_time": 1712587280,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 98100,
+        "num": 339566,
+        "word": "在欧美访了个寂寞中国工程师决定自己搞",
+        "onboard_time": 1712597892,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 155099,
+        "num": 337802,
+        "word": "凌晨4点在深圳海边看银河",
+        "onboard_time": 1712605212,
+        "rank": 9,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 673509,
+        "num": 337077,
+        "word": "虐猫考生未被兰州大学录取",
+        "onboard_time": 1712590099,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 336318,
+        "num": 336318,
+        "word": "赵露思安妮海瑟薇穿同款皮裙",
+        "onboard_time": 1712599392,
+        "rank": 11,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 326581,
+        "num": 326581,
+        "word": "孙坚吐槽奢侈品包质量问题",
+        "onboard_time": 1712597292,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 270952,
+        "num": 270952,
+        "word": "河南姑娘在四季青做穿版模特月入两万",
+        "onboard_time": 1712604070,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 194545,
+        "num": 194545,
+        "word": "庆余年2",
+        "onboard_time": 1712588479,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 183941,
+        "num": 183941,
+        "word": "欧阳娜娜奖学金",
+        "onboard_time": 1712590999,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 181618,
+        "num": 181618,
+        "word": "江西师大男学生虐猫",
+        "onboard_time": 1712592380,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 168828,
+        "num": 168828,
+        "word": "朱婷曾提退役申请",
+        "onboard_time": 1712617756,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 168327,
+        "num": 168327,
+        "word": "周雨彤 一次醉酒换来一生内向",
+        "onboard_time": 1712591778,
+        "rank": 18,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 155391,
+        "num": 155391,
+        "word": "关于女性生殖系统的一些知识",
+        "onboard_time": 1712577619,
+        "rank": 19,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 144920,
+        "num": 144920,
+        "word": "考上研本科延毕了",
+        "onboard_time": 1712588060,
+        "rank": 20,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 143847,
+        "num": 143847,
+        "word": "日全食",
+        "onboard_time": 1712585841,
+        "rank": 21,
+        "category": "自然"
+      },
+      {
+        "raw_hot": 115025,
+        "num": 115025,
+        "word": "为什么年轻人愿意自己带孩子",
+        "onboard_time": 1712611150,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 112271,
+        "num": 112271,
+        "word": "辞职旅行半年后我的生活翻天覆地",
+        "onboard_time": 1712580679,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 104781,
+        "num": 104781,
+        "word": "有苹果15要不要申请贫困生",
+        "onboard_time": 1712585298,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 97576,
+        "num": 97576,
+        "word": "张若昀祝贺庆余年",
+        "onboard_time": 1712616493,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 97550,
+        "num": 97550,
+        "word": "鞠婧祎演技",
+        "onboard_time": 1712591598,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 95738,
+        "num": 95738,
+        "word": "骨盆可能是世界上最贵的容器",
+        "onboard_time": 1712617335,
+        "rank": 27,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 88875,
+        "num": 88875,
+        "word": "金莎孙丞潇去韩国了",
+        "onboard_time": 1712588301,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 54709,
+        "num": 83736,
+        "word": "感动中国2023年度人物",
+        "onboard_time": 1712582179,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 81573,
+        "num": 81573,
+        "word": "黄金回收市场迎来卖金热",
+        "onboard_time": 1712613671,
+        "rank": 30,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 73479,
+        "num": 73479,
+        "word": "王鹤棣 人夫感",
+        "onboard_time": 1712590638,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 73165,
+        "num": 73165,
+        "word": "孙亚龙确诊中风",
+        "onboard_time": 1712575338,
+        "rank": 32,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 70418,
+        "num": 70418,
+        "word": "原来林更新粉丝吃这么好",
+        "onboard_time": 1712599452,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 69974,
+        "num": 69974,
+        "word": "王一博演唱会",
+        "onboard_time": 1712570538,
+        "rank": 34,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 64666,
+        "num": 64666,
+        "word": "金价暴涨房价下跌说明了什么",
+        "onboard_time": 1712549540,
+        "rank": 35,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 63427,
+        "num": 63427,
+        "word": "总犯困不想动可能是甲状腺有问题",
+        "onboard_time": 1712613971,
+        "rank": 36,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 63334,
+        "num": 63334,
+        "word": "王红权星说红了之后被排斥",
+        "onboard_time": 1712604251,
+        "rank": 37,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 59190,
+        "num": 59190,
+        "word": "iPhone闹钟正确设置方法",
+        "onboard_time": 1712580259,
+        "rank": 38,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 58259,
+        "num": 58259,
+        "word": "cube男经纪人骚扰minnie后续",
+        "onboard_time": 1712594715,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 58188,
+        "num": 58188,
+        "word": "追星也会影响颜值",
+        "onboard_time": 1712589440,
+        "rank": 40,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 57611,
+        "num": 57611,
+        "word": "意外吃到了去世10年爷爷种的韭菜",
+        "onboard_time": 1712562257,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 57167,
+        "num": 57167,
+        "word": "杨幂 谍战剧",
+        "onboard_time": 1712587522,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 56896,
+        "num": 56896,
+        "word": "白鹿临江仙出妆了",
+        "onboard_time": 1712581879,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 53664,
+        "num": 53664,
+        "word": "王晰怎么了",
+        "onboard_time": 1712586681,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 52460,
+        "num": 52460,
+        "word": "时代少年团演唱会快官宣",
+        "onboard_time": 1712585961,
+        "rank": 45,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 45789,
+        "num": 52459,
+        "word": "金智媛生图",
+        "onboard_time": 1712599932,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 45246,
+        "num": 52451,
+        "word": "吴磊 文艺片票房",
+        "onboard_time": 1712591119,
+        "rank": 47,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 43040,
+        "num": 52447,
+        "word": "四个勤天清华活动后主动打扫现场",
+        "onboard_time": 1712617694,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 42405,
+        "num": 52444,
+        "word": "刘亦菲高定粉裙",
+        "onboard_time": 1712582720,
+        "rank": 49,
+        "category": "作品衍生"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平会见法国梅里埃基金会主席夫妇#"
+    }
+  }
+}
