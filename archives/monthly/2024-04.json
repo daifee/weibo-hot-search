@@ -1,6 +1,6 @@
 {
   "startTime": 1711902044401,
-  "endTime": 1712590465170,
+  "endTime": 1712593429256,
   "band_list": [
     {
       "raw_hot": 16874674,
@@ -496,6 +496,14 @@
       "word": "重庆坠亡小孩被抛前多次尝试翻进窗户",
       "onboard_time": 1711953499,
       "rank": 16,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1748207,
+      "num": 413443,
+      "word": "虐猫考生未被兰州大学录取",
+      "onboard_time": 1712590099,
+      "rank": 19,
       "category": "社会新闻"
     },
     {
@@ -2635,6 +2643,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 805234,
+      "num": 805234,
+      "word": "我们家 没这个条件",
+      "onboard_time": 1712589019,
+      "rank": 45,
+      "category": "情感"
+    },
+    {
       "raw_hot": 804827,
       "num": 804827,
       "word": "还好只上三天就放假了",
@@ -3457,6 +3473,14 @@
       "onboard_time": 1712450178,
       "rank": 4,
       "category": "情感"
+    },
+    {
+      "raw_hot": 684366,
+      "num": 684366,
+      "word": "欧阳娜娜奖学金",
+      "onboard_time": 1712590999,
+      "rank": 5,
+      "category": "艺人"
     },
     {
       "raw_hot": 684316,
@@ -5963,6 +5987,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 468844,
+      "num": 468844,
+      "word": "追星也会影响颜值",
+      "onboard_time": 1712589440,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 467551,
       "num": 467551,
       "word": "行止雪中求婚",
@@ -6851,14 +6883,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 416385,
-      "num": 416385,
-      "word": "我们家 没这个条件",
-      "onboard_time": 1712589019,
-      "rank": 45,
-      "category": "情感"
-    },
-    {
       "raw_hot": 415828,
       "num": 415828,
       "word": "CUBE男经纪人骚扰minnie",
@@ -7001,6 +7025,14 @@
       "onboard_time": 1712283437,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 406840,
+      "num": 406840,
+      "word": "鞠婧祎演技",
+      "onboard_time": 1712591598,
+      "rank": 13,
+      "category": "剧集"
     },
     {
       "raw_hot": 406764,
@@ -8451,6 +8483,22 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 331999,
+      "num": 331999,
+      "word": "王鹤棣 人夫感",
+      "onboard_time": 1712590638,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 331619,
+      "num": 331619,
+      "word": "周雨彤 一次醉酒换来一生内向",
+      "onboard_time": 1712591778,
+      "rank": 19,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 331392,
       "num": 331392,
       "word": "杨幂为粉丝考潜水证",
@@ -9529,14 +9577,6 @@
       "onboard_time": 1711934837,
       "rank": 30,
       "category": "运动健身"
-    },
-    {
-      "raw_hot": 291569,
-      "num": 291569,
-      "word": "虐猫考生未被兰州大学录取",
-      "onboard_time": 1712590099,
-      "rank": 19,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 291099,
@@ -13555,14 +13595,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 202196,
-      "num": 202196,
-      "word": "追星也会影响颜值",
-      "onboard_time": 1712589440,
-      "rank": 30,
-      "category": "情感"
-    },
-    {
       "raw_hot": 202172,
       "num": 202172,
       "word": "4月第一天",
@@ -14251,6 +14283,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 194911,
+      "num": 194911,
+      "word": "江西师大男学生虐猫",
+      "onboard_time": 1712592380,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 194835,
       "num": 194835,
       "word": "耶伦",
@@ -14819,6 +14859,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 189962,
+      "num": 189962,
+      "word": "吴磊 文艺片票房",
+      "onboard_time": 1712591119,
+      "rank": 24,
+      "category": "电影"
+    },
+    {
       "raw_hot": 189943,
       "num": 189943,
       "word": "林更新终于会侧位吻了",
@@ -15305,6 +15353,14 @@
       "onboard_time": 1711989017,
       "rank": 17,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 185007,
+      "num": 413454,
+      "word": "00后开始青睐三无婚礼",
+      "onboard_time": 1712590938,
+      "rank": 9,
+      "category": "情感"
     },
     {
       "raw_hot": 184994,
@@ -20451,6 +20507,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 119780,
+      "num": 119780,
+      "word": "林更新狗狗祟祟",
+      "onboard_time": 1712592676,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 119614,
       "num": 119614,
       "word": "春天常按这几个穴位能长高",
@@ -20545,6 +20609,14 @@
       "onboard_time": 1712161457,
       "rank": 35,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 118718,
+      "num": 118718,
+      "word": "向佐宇宙",
+      "onboard_time": 1712592380,
+      "rank": 37,
+      "category": "幽默,艺人"
     },
     {
       "raw_hot": 118634,

@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/04/01 00:20:44 ~ 2024/04/08 23:34:25
+本榜单时间：2024/04/01 00:20:44 ~ 2024/04/09 00:23:49
 </p>
 </blockquote>
 <p>
@@ -383,6 +383,12 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%87%8D%E5%BA%86%E5%9D%A0%E4%BA%A1%E5%B0%8F%E5%AD%A9%E8%A2%AB%E6%8A%9B%E5%89%8D%E5%A4%9A%E6%AC%A1%E5%B0%9D%E8%AF%95%E7%BF%BB%E8%BF%9B%E7%AA%97%E6%88%B7%23" target="weibo">
 重庆坠亡小孩被抛前多次尝试翻进窗户（热度：1749664）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%99%90%E7%8C%AB%E8%80%83%E7%94%9F%E6%9C%AA%E8%A2%AB%E5%85%B0%E5%B7%9E%E5%A4%A7%E5%AD%A6%E5%BD%95%E5%8F%96%23" target="weibo">
+虐猫考生未被兰州大学录取（热度：1748207）
 </a>
 </li>
 
@@ -1989,6 +1995,12 @@ TES零封JDG（热度：901726）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%88%91%E4%BB%AC%E5%AE%B6%20%E6%B2%A1%E8%BF%99%E4%B8%AA%E6%9D%A1%E4%BB%B6%23" target="weibo">
+我们家 没这个条件（热度：805234）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%BF%98%E5%A5%BD%E5%8F%AA%E4%B8%8A%E4%B8%89%E5%A4%A9%E5%B0%B1%E6%94%BE%E5%81%87%E4%BA%86%23" target="weibo">
 还好只上三天就放假了（热度：804827）
 </a>
@@ -2603,6 +2615,12 @@ Doinb重返直播间（热度：706169）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9C%AC%E5%91%A8%E6%A1%83%E8%8A%B1%E8%BF%90%E6%9C%80%E6%97%BA%E7%9A%84%E6%98%9F%E5%BA%A7%23" target="weibo">
 本周桃花运最旺的星座（热度：687209）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%AC%A7%E9%98%B3%E5%A8%9C%E5%A8%9C%E5%A5%96%E5%AD%A6%E9%87%91%23" target="weibo">
+欧阳娜娜奖学金（热度：684366）
 </a>
 </li>
 
@@ -4485,6 +4503,12 @@ iPhone6Plus被列入过时产品（热度：483964）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%BF%BD%E6%98%9F%E4%B9%9F%E4%BC%9A%E5%BD%B1%E5%93%8D%E9%A2%9C%E5%80%BC%23" target="weibo">
+追星也会影响颜值（热度：468844）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%A1%8C%E6%AD%A2%E9%9B%AA%E4%B8%AD%E6%B1%82%E5%A9%9A%23" target="weibo">
 行止雪中求婚（热度：467551）
 </a>
@@ -5151,12 +5175,6 @@ iPhone闹钟不会识别调休（热度：421165）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%88%91%E4%BB%AC%E5%AE%B6%20%E6%B2%A1%E8%BF%99%E4%B8%AA%E6%9D%A1%E4%BB%B6%23" target="weibo">
-我们家 没这个条件（热度：416385）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23CUBE%E7%94%B7%E7%BB%8F%E7%BA%AA%E4%BA%BA%E9%AA%9A%E6%89%B0minnie%23" target="weibo">
 CUBE男经纪人骚扰minnie（热度：415828）
 </a>
@@ -5261,6 +5279,12 @@ IU演唱会（热度：414453）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23MINJU%E5%A4%A7%E5%90%A7%E8%B7%91%E8%B7%AF%23" target="weibo">
 MINJU大吧跑路（热度：407254）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%9E%A0%E5%A9%A7%E7%A5%8E%E6%BC%94%E6%8A%80%23" target="weibo">
+鞠婧祎演技（热度：406840）
 </a>
 </li>
 
@@ -5987,30 +6011,6 @@ NINEPERCENT六周年（热度：355173）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8B%97%E7%8B%97%E4%B8%BA%E4%BB%80%E4%B9%88%E5%96%9C%E6%AC%A2%E5%98%AC%E5%98%AC%E5%98%AC%E7%9A%84%E5%A3%B0%E9%9F%B3%23" target="weibo">
 狗狗为什么喜欢嘬嘬嘬的声音（热度：355099）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8D%8E%E4%B8%BAP70%E6%88%96%E4%B8%8D%E4%B8%BE%E5%8A%9E%E5%8F%91%E5%B8%83%E4%BC%9A%E7%9B%B4%E6%8E%A5%E4%B8%8A%E7%BA%BF%E9%94%80%E5%94%AE%23" target="weibo">
-华为P70或不举办发布会直接上线销售（热度：354112）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%BF%AA%E5%A3%AB%E5%B0%BC%E5%81%B6%E9%81%87%E5%88%98%E5%AE%87%E5%AE%81%23" target="weibo">
-迪士尼偶遇刘宇宁（热度：353616）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%A7%8D%E5%9C%B0%E5%90%A7%E6%96%B0%E9%97%BB%E8%81%94%E6%92%AD%23" target="weibo">
-种地吧新闻联播（热度：352778）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9E%97%E6%9B%B4%E6%96%B0%20%E5%81%9A%E9%A5%AD%E7%9A%84%E7%A5%9E%23" target="weibo">
-林更新 做饭的神（热度：351547）
 </a>
 </li>
 
