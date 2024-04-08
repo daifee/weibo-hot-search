@@ -1,6 +1,6 @@
 {
   "startTime": 1711902044401,
-  "endTime": 1712543198950,
+  "endTime": 1712543908511,
   "band_list": [
     {
       "raw_hot": 16874674,
@@ -19,6 +19,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 8149878,
+      "num": 9399878,
+      "word": "邯郸初中生被害案3人被刑事追诉",
+      "onboard_time": 1712542399,
+      "rank": 0,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 7240990,
       "num": 7240990,
       "word": "福宝回家了",
@@ -32,14 +40,6 @@
       "word": "杭州震感",
       "onboard_time": 1712103392,
       "rank": 1,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 5498754,
-      "num": 6748754,
-      "word": "邯郸初中生被害案3人被刑事追诉",
-      "onboard_time": 1712542399,
-      "rank": 0,
       "category": "社会新闻"
     },
     {
@@ -867,6 +867,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 1461795,
+      "num": 1461795,
+      "word": "金价",
+      "onboard_time": 1711938438,
+      "rank": 40,
+      "category": "财经"
+    },
+    {
       "raw_hot": 1441570,
       "num": 905783,
       "word": "上个破班而已别把自己搭进去",
@@ -985,14 +993,6 @@
       "onboard_time": 1712325799,
       "rank": 10,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 1350040,
-      "num": 1350040,
-      "word": "金价",
-      "onboard_time": 1711938438,
-      "rank": 40,
-      "category": "财经"
     },
     {
       "raw_hot": 1335101,
@@ -1129,6 +1129,14 @@
       "onboard_time": 1712489539,
       "rank": 47,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1272250,
+      "num": 1272250,
+      "word": "怪不得小时候发现不了唐僧换人",
+      "onboard_time": 1712538618,
+      "rank": 31,
+      "category": "幽默"
     },
     {
       "raw_hot": 1266004,
@@ -1433,14 +1441,6 @@
       "onboard_time": 1711897279,
       "rank": 10,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1092687,
-      "num": 1092687,
-      "word": "怪不得小时候发现不了唐僧换人",
-      "onboard_time": 1712538618,
-      "rank": 31,
-      "category": "幽默"
     },
     {
       "raw_hot": 1092532,
@@ -2635,6 +2635,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 745823,
+      "num": 745823,
+      "word": "检方通报邯郸初中生被害案",
+      "onboard_time": 1712542578,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 745256,
       "num": 745256,
       "word": "6个月婴儿雨夜爬上马路被接力守护",
@@ -3065,14 +3073,6 @@
       "onboard_time": 1712450178,
       "rank": 4,
       "category": "情感"
-    },
-    {
-      "raw_hot": 686987,
-      "num": 686987,
-      "word": "检方通报邯郸初中生被害案",
-      "onboard_time": 1712542578,
-      "rank": 7,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 684316,
@@ -4659,6 +4659,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 526199,
+      "num": 486822,
+      "word": "仝卓回应工作室讨债",
+      "onboard_time": 1712539339,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 524949,
       "num": 524949,
       "word": "承欢记",
@@ -5049,14 +5057,6 @@
       "onboard_time": 1712451319,
       "rank": 18,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 486822,
-      "num": 486822,
-      "word": "仝卓回应工作室讨债",
-      "onboard_time": 1712539339,
-      "rank": 12,
-      "category": "艺人"
     },
     {
       "raw_hot": 486776,
@@ -5667,6 +5667,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 445760,
+      "num": 418299,
+      "word": "美媒曝特朗普24小时解决俄乌战争秘密计划",
+      "onboard_time": 1712541198,
+      "rank": 12,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 445449,
       "num": 445449,
       "word": "苹果今年或推出低价AirPods",
@@ -6153,14 +6161,6 @@
       "onboard_time": 1712470579,
       "rank": 47,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 418299,
-      "num": 418299,
-      "word": "美媒曝特朗普24小时解决俄乌战争秘密计划",
-      "onboard_time": 1712541198,
-      "rank": 12,
-      "category": "国外时政"
     },
     {
       "raw_hot": 417968,
@@ -9099,6 +9099,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 270857,
+      "num": 270857,
+      "word": "男子女厕偷窥被母亲怒扇巴掌",
+      "onboard_time": 1712543178,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 270747,
       "num": 270747,
       "word": "A股",
@@ -10699,6 +10707,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 227960,
+      "num": 227960,
+      "word": "金秀贤入围百想视帝",
+      "onboard_time": 1712542997,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 227755,
       "num": 227755,
       "word": "王者荣耀新赛季",
@@ -11340,7 +11356,7 @@
     },
     {
       "raw_hot": 214409,
-      "num": 192067,
+      "num": 199841,
       "word": "我打扮自己的时候",
       "onboard_time": 1712542279,
       "rank": 31,
@@ -11401,6 +11417,14 @@
       "onboard_time": 1711943662,
       "rank": 37,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 213609,
+      "num": 213609,
+      "word": "百想提名",
+      "onboard_time": 1712543059,
+      "rank": 37,
+      "category": "剧集"
     },
     {
       "raw_hot": 213450,
@@ -11912,6 +11936,14 @@
       "word": "TF家族 高会",
       "onboard_time": 1712147481,
       "rank": 35,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 205235,
+      "num": 205235,
+      "word": "张雨绮cos15年前的自己",
+      "onboard_time": 1712543359,
+      "rank": 33,
       "category": "艺人"
     },
     {
@@ -14075,14 +14107,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 179828,
-      "num": 179828,
-      "word": "金秀贤入围百想视帝",
-      "onboard_time": 1712542997,
-      "rank": 35,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 179720,
       "num": 179720,
       "word": "台湾地震仍有56人受困",
@@ -14363,6 +14387,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 175885,
+      "num": 175885,
+      "word": "为什么每天刷牙还会长虫牙",
+      "onboard_time": 1712540717,
+      "rank": 36,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 175819,
       "num": 215730,
       "word": "如何查询手机号绑定的APP账号",
@@ -14545,14 +14577,6 @@
       "onboard_time": 1712404158,
       "rank": 36,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 173290,
-      "num": 173290,
-      "word": "为什么每天刷牙还会长虫牙",
-      "onboard_time": 1712540717,
-      "rank": 36,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 173194,
@@ -14808,14 +14832,6 @@
       "word": "眼泪女王爆改在俊他妈",
       "onboard_time": 1711956860,
       "rank": 48,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 169392,
-      "num": 169392,
-      "word": "百想提名",
-      "onboard_time": 1712543059,
-      "rank": 37,
       "category": "剧集"
     },
     {
@@ -16947,6 +16963,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 141039,
+      "num": 141039,
+      "word": "英超争冠",
+      "onboard_time": 1712542819,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 141004,
       "num": 141004,
       "word": "遇到infp克星",
@@ -17667,6 +17691,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 131994,
+      "num": 131994,
+      "word": "多吃蔬菜能抵消烧烤伤害吗",
+      "onboard_time": 1712542279,
+      "rank": 46,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 131798,
       "num": 131798,
       "word": "孙亚龙回应",
@@ -18051,14 +18083,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 125557,
-      "num": 125557,
-      "word": "英超争冠",
-      "onboard_time": 1712542819,
-      "rank": 44,
-      "category": "体育"
-    },
-    {
       "raw_hot": 125460,
       "num": 125460,
       "word": "养过狗的人一看就懂",
@@ -18113,6 +18137,14 @@
       "onboard_time": 1712471358,
       "rank": 42,
       "category": "教育"
+    },
+    {
+      "raw_hot": 125137,
+      "num": 125137,
+      "word": "二三十岁加的班能伤到50岁的你",
+      "onboard_time": 1712543779,
+      "rank": 47,
+      "category": "情感"
     },
     {
       "raw_hot": 125097,
@@ -18705,14 +18737,6 @@
       "onboard_time": 1712381419,
       "rank": 47,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 112837,
-      "num": 112837,
-      "word": "男子女厕偷窥被母亲怒扇巴掌",
-      "onboard_time": 1712543178,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 112662,
@@ -19404,7 +19428,7 @@
     },
     {
       "raw_hot": 86067,
-      "num": 1158164,
+      "num": 1291804,
       "word": "文旅消费如何从开门红走向长红",
       "onboard_time": 1712495958,
       "rank": 2,

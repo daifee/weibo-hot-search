@@ -1,0 +1,410 @@
+{
+  "runTime": 1712543908511,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 8149878,
+        "num": 9399878,
+        "word": "邯郸初中生被害案3人被刑事追诉",
+        "onboard_time": 1712542399,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1461795,
+        "num": 1461795,
+        "word": "金价",
+        "onboard_time": 1712542097,
+        "rank": 1,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 66482,
+        "num": 1291804,
+        "word": "文旅消费如何从开门红走向长红",
+        "onboard_time": 1712495958,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1272250,
+        "num": 1272250,
+        "word": "怪不得小时候发现不了唐僧换人",
+        "onboard_time": 1712538618,
+        "rank": 3,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 1143163,
+        "num": 1143163,
+        "word": "仝卓工作室曝仝卓差税被查",
+        "onboard_time": 1712535140,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 745823,
+        "num": 745823,
+        "word": "检方通报邯郸初中生被害案",
+        "onboard_time": 1712542578,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 669047,
+        "num": 669047,
+        "word": "网友称被陈飞宇索赔20万",
+        "onboard_time": 1712536879,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 452589,
+        "num": 452589,
+        "word": "华为",
+        "onboard_time": 1712536819,
+        "rank": 7,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 382762,
+        "num": 382762,
+        "word": "刷牙最该刷的其实不是牙齿",
+        "onboard_time": 1712532975,
+        "rank": 8,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 331682,
+        "num": 331682,
+        "word": "男子试驾劳斯莱斯获销售鼓励打动网友",
+        "onboard_time": 1712512333,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1259191,
+        "num": 330268,
+        "word": "虐猫考生已参加兰大研究生调剂复试",
+        "onboard_time": 1712533457,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 913347,
+        "num": 329236,
+        "word": "大冰现在就剩一个人了",
+        "onboard_time": 1712540296,
+        "rank": 11,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 526199,
+        "num": 328018,
+        "word": "仝卓回应工作室讨债",
+        "onboard_time": 1712539339,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 806030,
+        "num": 325272,
+        "word": "虐猫考生说不是很懂网络舆论暂不回应",
+        "onboard_time": 1712534598,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 445760,
+        "num": 323362,
+        "word": "美媒曝特朗普24小时解决俄乌战争秘密计划",
+        "onboard_time": 1712541198,
+        "rank": 14,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 322816,
+        "num": 322816,
+        "word": "iPhone16新一轮爆料来了",
+        "onboard_time": 1712534838,
+        "rank": 15,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 322130,
+        "num": 322130,
+        "word": "易烊千玺机场图",
+        "onboard_time": 1712538920,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 321963,
+        "num": 321963,
+        "word": "EXO概念",
+        "onboard_time": 1712539458,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 316947,
+        "num": 316947,
+        "word": "眼泪女王 纯爱",
+        "onboard_time": 1712536038,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 277029,
+        "num": 277029,
+        "word": "德国博物馆调查八国联军劫掠的中国文物",
+        "onboard_time": 1712536460,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 434640,
+        "num": 275742,
+        "word": "过了30岁备孕要注意哪些事",
+        "onboard_time": 1712541018,
+        "rank": 20,
+        "category": "母婴育儿"
+      },
+      {
+        "raw_hot": 305886,
+        "num": 275236,
+        "word": "女子一天狂炫5个青团进医院",
+        "onboard_time": 1712537959,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 300117,
+        "num": 273046,
+        "word": "男子质疑餐厅免费编小辫顾客不能优先",
+        "onboard_time": 1712541438,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 270857,
+        "num": 270857,
+        "word": "男子女厕偷窥被母亲怒扇巴掌",
+        "onboard_time": 1712543178,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 268067,
+        "num": 268067,
+        "word": "老夫妇居家俩月用水1023吨",
+        "onboard_time": 1712535739,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 246851,
+        "num": 246851,
+        "word": "配眼镜原来有那么多坑",
+        "onboard_time": 1712537480,
+        "rank": 25,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 227960,
+        "num": 227960,
+        "word": "金秀贤入围百想视帝",
+        "onboard_time": 1712542997,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 227375,
+        "num": 227375,
+        "word": "地铁内男子疑似站立猥亵",
+        "onboard_time": 1712533939,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 223518,
+        "num": 223518,
+        "word": "冷圈太太",
+        "onboard_time": 1712535079,
+        "rank": 28,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 218280,
+        "num": 218280,
+        "word": "民国爱情十有九悲",
+        "onboard_time": 1712539758,
+        "rank": 29,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 583440,
+        "num": 218138,
+        "word": "仝卓",
+        "onboard_time": 1712500940,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 217884,
+        "num": 217884,
+        "word": "兰州大学",
+        "onboard_time": 1712536578,
+        "rank": 31,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 213609,
+        "num": 213609,
+        "word": "百想提名",
+        "onboard_time": 1712543059,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 205235,
+        "num": 205235,
+        "word": "张雨绮cos15年前的自己",
+        "onboard_time": 1712543359,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 199841,
+        "num": 199841,
+        "word": "我打扮自己的时候",
+        "onboard_time": 1712542279,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 187886,
+        "num": 187886,
+        "word": "追风者网播指数破90",
+        "onboard_time": 1712542517,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 175885,
+        "num": 175885,
+        "word": "为什么每天刷牙还会长虫牙",
+        "onboard_time": 1712540717,
+        "rank": 36,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 174562,
+        "num": 174562,
+        "word": "福建省考成绩",
+        "onboard_time": 1712540537,
+        "rank": 37,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 172474,
+        "num": 172474,
+        "word": "日全食",
+        "onboard_time": 1712534778,
+        "rank": 38,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 172092,
+        "num": 172092,
+        "word": "租房吃过最大的苦是跟情侣合租",
+        "onboard_time": 1712499741,
+        "rank": 39,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 141039,
+        "num": 141039,
+        "word": "英超争冠",
+        "onboard_time": 1712542819,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 139905,
+        "num": 139905,
+        "word": "威神版不要带走福宝",
+        "onboard_time": 1712541559,
+        "rank": 41,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 138885,
+        "num": 138885,
+        "word": "金秀贤金智媛CP感",
+        "onboard_time": 1712536819,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 133182,
+        "num": 133182,
+        "word": "被卷入超市扶梯女子丈夫发声",
+        "onboard_time": 1712525890,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 133180,
+        "num": 133180,
+        "word": "软糯糯的青团竟成为肠胃杀手",
+        "onboard_time": 1712539938,
+        "rank": 44,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 132164,
+        "num": 132164,
+        "word": "于适戛纳生图",
+        "onboard_time": 1712537001,
+        "rank": 45,
+        "category": "作品衍生,艺人"
+      },
+      {
+        "raw_hot": 131994,
+        "num": 131994,
+        "word": "多吃蔬菜能抵消烧烤伤害吗",
+        "onboard_time": 1712542279,
+        "rank": 46,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 125137,
+        "num": 125137,
+        "word": "二三十岁加的班能伤到50岁的你",
+        "onboard_time": 1712543779,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 122985,
+        "num": 122985,
+        "word": "我倒要看看25年元旦会怎么调休",
+        "onboard_time": 1712491759,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 115644,
+        "num": 115644,
+        "word": "肖战早期与素人合照",
+        "onboard_time": 1712501181,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#推进城乡环境整治完善公共卫生设施#"
+    }
+  }
+}

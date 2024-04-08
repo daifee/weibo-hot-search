@@ -1,10 +1,10 @@
 {
   "startTime": 1712506792576,
-  "endTime": 1712543198950,
+  "endTime": 1712543908511,
   "band_list": [
     {
-      "raw_hot": 5498754,
-      "num": 6748754,
+      "raw_hot": 8149878,
+      "num": 9399878,
       "word": "邯郸初中生被害案3人被刑事追诉",
       "onboard_time": 1712542399,
       "rank": 0,
@@ -43,16 +43,16 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1151814,
-      "num": 1151814,
+      "raw_hot": 1461795,
+      "num": 1461795,
       "word": "金价",
       "onboard_time": 1712542097,
       "rank": 3,
       "category": "财经"
     },
     {
-      "raw_hot": 1092687,
-      "num": 1092687,
+      "raw_hot": 1272250,
+      "num": 1272250,
       "word": "怪不得小时候发现不了唐僧换人",
       "onboard_time": 1712538618,
       "rank": 31,
@@ -123,6 +123,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 745823,
+      "num": 745823,
+      "word": "检方通报邯郸初中生被害案",
+      "onboard_time": 1712542578,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 713678,
       "num": 713678,
       "word": "iPhone16新一轮爆料来了",
@@ -136,14 +144,6 @@
       "word": "地铁内男子疑似站立猥亵",
       "onboard_time": 1712533939,
       "rank": 6,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 686987,
-      "num": 686987,
-      "word": "检方通报邯郸初中生被害案",
-      "onboard_time": 1712542578,
-      "rank": 7,
       "category": "社会新闻"
     },
     {
@@ -171,6 +171,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 526199,
+      "num": 486822,
+      "word": "仝卓回应工作室讨债",
+      "onboard_time": 1712539339,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 514693,
       "num": 267023,
       "word": "我倒要看看25年元旦会怎么调休",
@@ -185,14 +193,6 @@
       "onboard_time": 1712536038,
       "rank": 8,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 486822,
-      "num": 486822,
-      "word": "仝卓回应工作室讨债",
-      "onboard_time": 1712539339,
-      "rank": 12,
-      "category": "艺人"
     },
     {
       "raw_hot": 456332,
@@ -217,6 +217,14 @@
       "onboard_time": 1712499741,
       "rank": 5,
       "category": "情感"
+    },
+    {
+      "raw_hot": 445760,
+      "num": 418299,
+      "word": "美媒曝特朗普24小时解决俄乌战争秘密计划",
+      "onboard_time": 1712541198,
+      "rank": 12,
+      "category": "国外时政"
     },
     {
       "raw_hot": 443902,
@@ -249,14 +257,6 @@
       "onboard_time": 1712535079,
       "rank": 18,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 418299,
-      "num": 418299,
-      "word": "美媒曝特朗普24小时解决俄乌战争秘密计划",
-      "onboard_time": 1712541198,
-      "rank": 12,
-      "category": "国外时政"
     },
     {
       "raw_hot": 386060,
@@ -379,6 +379,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 270857,
+      "num": 270857,
+      "word": "男子女厕偷窥被母亲怒扇巴掌",
+      "onboard_time": 1712543178,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 266727,
       "num": 319934,
       "word": "女生考研被拟录取室友偷偷送惊喜",
@@ -451,6 +459,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 227960,
+      "num": 227960,
+      "word": "金秀贤入围百想视帝",
+      "onboard_time": 1712542997,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 219429,
       "num": 189663,
       "word": "与父母同居20天他们终于不再催婚",
@@ -460,11 +476,19 @@
     },
     {
       "raw_hot": 214409,
-      "num": 192067,
+      "num": 199841,
       "word": "我打扮自己的时候",
       "onboard_time": 1712542279,
       "rank": 31,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 213609,
+      "num": 213609,
+      "word": "百想提名",
+      "onboard_time": 1712543059,
+      "rank": 37,
+      "category": "剧集"
     },
     {
       "raw_hot": 207229,
@@ -473,6 +497,14 @@
       "onboard_time": 1712503760,
       "rank": 19,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 205235,
+      "num": 205235,
+      "word": "张雨绮cos15年前的自己",
+      "onboard_time": 1712543359,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 203883,
@@ -555,14 +587,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 179828,
-      "num": 179828,
-      "word": "金秀贤入围百想视帝",
-      "onboard_time": 1712542997,
-      "rank": 35,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 176470,
       "num": 176470,
       "word": "中医建议女生春天多披头散发",
@@ -571,20 +595,12 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 173290,
-      "num": 173290,
+      "raw_hot": 175885,
+      "num": 175885,
       "word": "为什么每天刷牙还会长虫牙",
       "onboard_time": 1712540717,
       "rank": 36,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 169392,
-      "num": 169392,
-      "word": "百想提名",
-      "onboard_time": 1712543059,
-      "rank": 37,
-      "category": "剧集"
     },
     {
       "raw_hot": 166489,
@@ -683,6 +699,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 141039,
+      "num": 141039,
+      "word": "英超争冠",
+      "onboard_time": 1712542819,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 140523,
       "num": 140523,
       "word": "赵小童300w粉丝福利",
@@ -779,6 +803,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 131994,
+      "num": 131994,
+      "word": "多吃蔬菜能抵消烧烤伤害吗",
+      "onboard_time": 1712542279,
+      "rank": 46,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 129212,
       "num": 129212,
       "word": "应采儿说Jasper是脏儿子",
@@ -819,14 +851,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 125557,
-      "num": 125557,
-      "word": "英超争冠",
-      "onboard_time": 1712542819,
-      "rank": 44,
-      "category": "体育"
-    },
-    {
       "raw_hot": 125206,
       "num": 125206,
       "word": "在办公室钻戒反戴的原因",
@@ -841,6 +865,14 @@
       "onboard_time": 1712539877,
       "rank": 44,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 125137,
+      "num": 125137,
+      "word": "二三十岁加的班能伤到50岁的你",
+      "onboard_time": 1712543779,
+      "rank": 47,
+      "category": "情感"
     },
     {
       "raw_hot": 124198,
@@ -881,14 +913,6 @@
       "onboard_time": 1712495479,
       "rank": 38,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 112837,
-      "num": 112837,
-      "word": "男子女厕偷窥被母亲怒扇巴掌",
-      "onboard_time": 1712543178,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 109352,
@@ -1004,7 +1028,7 @@
     },
     {
       "raw_hot": 86067,
-      "num": 1158164,
+      "num": 1291804,
       "word": "文旅消费如何从开门红走向长红",
       "onboard_time": 1712495958,
       "rank": 2,

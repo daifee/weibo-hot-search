@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/01/01 00:21:05 ~ 2024/04/08 10:26:38
+本榜单时间：2024/01/01 00:21:05 ~ 2024/04/08 10:38:28
 </p>
 </blockquote>
 <p>
@@ -345,6 +345,12 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%82%AF%E9%83%B8%E5%88%9D%E4%B8%AD%E7%94%9F%E8%A2%AB%E5%AE%B3%E6%A1%883%E4%BA%BA%E8%A2%AB%E5%88%91%E4%BA%8B%E8%BF%BD%E8%AF%89%23" target="weibo">
+邯郸初中生被害案3人被刑事追诉（热度：8149878）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E5%AE%B0%E6%97%AD%E6%89%BF%E8%AE%A4%E6%81%8B%E6%83%85%23" target="weibo">
 李宰旭承认恋情（热度：8120231）
 </a>
@@ -545,12 +551,6 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E6%9D%8E%E5%87%BA%E5%AE%B6%23" target="weibo">
 李李出家（热度：5501200）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%82%AF%E9%83%B8%E5%88%9D%E4%B8%AD%E7%94%9F%E8%A2%AB%E5%AE%B3%E6%A1%883%E4%BA%BA%E8%A2%AB%E5%88%91%E4%BA%8B%E8%BF%BD%E8%AF%89%23" target="weibo">
-邯郸初中生被害案3人被刑事追诉（热度：5498754）
 </a>
 </li>
 
