@@ -1,6 +1,6 @@
 {
   "startTime": 1712420539476,
-  "endTime": 1712603690176,
+  "endTime": 1712604845472,
   "band_list": [
     {
       "raw_hot": 9583581,
@@ -6435,6 +6435,14 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 20652,
+      "num": 20652,
+      "word": "王红权星说红了之后被排斥",
+      "onboard_time": 1712604251,
+      "rank": 35,
+      "category": "网红"
+    },
+    {
       "raw_hot": 18638,
       "num": 18638,
       "word": "宇多田光时隔24年唱First love",
@@ -6449,6 +6457,14 @@
       "onboard_time": 1712516831,
       "rank": 48,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 17014,
+      "num": 19348,
+      "word": "河南姑娘在四季青做穿版模特月入两万",
+      "onboard_time": 1712604070,
+      "rank": 40,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 16244,
