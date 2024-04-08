@@ -1,6 +1,6 @@
 {
   "startTime": 1712420539476,
-  "endTime": 1712583260665,
+  "endTime": 1712585871574,
   "band_list": [
     {
       "raw_hot": 9583581,
@@ -321,6 +321,14 @@
       "onboard_time": 1712454557,
       "rank": 5,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1253240,
+      "num": 1253240,
+      "word": "iPhone闹钟正确设置方法",
+      "onboard_time": 1712580259,
+      "rank": 31,
+      "category": "数码"
     },
     {
       "raw_hot": 1243767,
@@ -803,6 +811,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 719603,
+      "num": 719603,
+      "word": "用20元做了一家四口的饭菜",
+      "onboard_time": 1712582179,
+      "rank": 37,
+      "category": "美食"
+    },
+    {
       "raw_hot": 718756,
       "num": 718756,
       "word": "成都文旅还没反应过来 迪士尼建好了",
@@ -1075,6 +1091,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 605633,
+      "num": 605633,
+      "word": "央视网评岳婿双行长",
+      "onboard_time": 1712583381,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 601934,
       "num": 601934,
       "word": "美国男演员在丛林被发现尸体",
@@ -1139,14 +1163,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 584918,
-      "num": 584918,
-      "word": "iPhone闹钟正确设置方法",
-      "onboard_time": 1712580259,
-      "rank": 31,
-      "category": "数码"
-    },
-    {
       "raw_hot": 580614,
       "num": 337409,
       "word": "23岁没谈过恋爱正常吗",
@@ -1176,6 +1192,14 @@
       "word": "朴彩英卷发",
       "onboard_time": 1712568978,
       "rank": 13,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 564488,
+      "num": 564488,
+      "word": "刘亦菲高定粉裙",
+      "onboard_time": 1712582720,
+      "rank": 30,
       "category": "作品衍生"
     },
     {
@@ -1979,6 +2003,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 364360,
+      "num": 364360,
+      "word": "白鹿临江仙出妆了",
+      "onboard_time": 1712581879,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 362039,
       "num": 362039,
       "word": "徐海乔问怎么从前夫哥变岳父大人了",
@@ -2001,14 +2033,6 @@
       "onboard_time": 1712544320,
       "rank": 22,
       "category": "美食"
-    },
-    {
-      "raw_hot": 355607,
-      "num": 355607,
-      "word": "白鹿临江仙出妆了",
-      "onboard_time": 1712581879,
-      "rank": 26,
-      "category": "剧集"
     },
     {
       "raw_hot": 354112,
@@ -2363,6 +2387,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 300542,
+      "num": 300542,
+      "word": "请杀死自己的学生思维",
+      "onboard_time": 1712583140,
+      "rank": 36,
+      "category": "情感"
+    },
+    {
       "raw_hot": 298170,
       "num": 298170,
       "word": "没有金泰梨",
@@ -2459,6 +2491,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 283901,
+      "num": 333361,
+      "word": "辛云来回忆和赵丽颖第一次见面",
+      "onboard_time": 1712585298,
+      "rank": 19,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 283671,
       "num": 283671,
       "word": "田曦薇一年没走出横店了",
@@ -2480,6 +2520,14 @@
       "word": "配眼镜原来有那么多坑",
       "onboard_time": 1712537480,
       "rank": 25,
+      "category": "科学科普"
+    },
+    {
+      "raw_hot": 282150,
+      "num": 282150,
+      "word": "为什么抠脚后总是想要闻一下手",
+      "onboard_time": 1712584640,
+      "rank": 23,
       "category": "科学科普"
     },
     {
@@ -2529,6 +2577,14 @@
       "onboard_time": 1712554639,
       "rank": 23,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 276182,
+      "num": 1078195,
+      "word": "感动中国2023年度人物",
+      "onboard_time": 1712582179,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 275926,
@@ -2603,14 +2659,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 265335,
-      "num": 914421,
-      "word": "感动中国2023年度人物",
-      "onboard_time": 1712582179,
-      "rank": 2,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 265022,
       "num": 242705,
       "word": "小鬼朱正廷王子异直播",
@@ -2657,6 +2705,14 @@
       "onboard_time": 1712563278,
       "rank": 26,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 259371,
+      "num": 259371,
+      "word": "美国男演员失踪后死亡",
+      "onboard_time": 1712579838,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 259356,
@@ -2779,6 +2835,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 249720,
+      "num": 249720,
+      "word": "有苹果15要不要申请贫困生",
+      "onboard_time": 1712585298,
+      "rank": 27,
+      "category": "情感"
+    },
+    {
       "raw_hot": 248160,
       "num": 248160,
       "word": "猫 吃了烂猫条遭这老罪",
@@ -2819,12 +2883,12 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 245669,
-      "num": 209042,
-      "word": "用20元做了一家四口的饭菜",
-      "onboard_time": 1712582179,
-      "rank": 37,
-      "category": "美食"
+      "raw_hot": 244419,
+      "num": 244419,
+      "word": "张雨霏获感动中国2023年度人物荣誉",
+      "onboard_time": 1712582419,
+      "rank": 27,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 242991,
@@ -3243,6 +3307,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 212418,
+      "num": 212418,
+      "word": "迪丽热巴诉医美公司侵权",
+      "onboard_time": 1712584339,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 212393,
       "num": 212393,
       "word": "追风者最后两集 爽",
@@ -3305,14 +3377,6 @@
       "onboard_time": 1712453419,
       "rank": 31,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 208726,
-      "num": 208726,
-      "word": "刘亦菲高定粉裙",
-      "onboard_time": 1712582720,
-      "rank": 30,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 208451,
@@ -3595,14 +3659,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 200738,
-      "num": 210129,
-      "word": "张雨霏获感动中国2023年度人物荣誉",
-      "onboard_time": 1712582419,
-      "rank": 27,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 200385,
       "num": 200385,
       "word": "样子又不帅 唱歌又难听",
@@ -3763,6 +3819,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 192872,
+      "num": 192872,
+      "word": "张予曦超短裙",
+      "onboard_time": 1712585182,
+      "rank": 33,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 192838,
       "num": 192838,
       "word": "王一博张天阳追逐戏花絮",
@@ -3841,6 +3905,14 @@
       "onboard_time": 1712557638,
       "rank": 33,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 190429,
+      "num": 190429,
+      "word": "i人看到这种工位汗流浃背了",
+      "onboard_time": 1712583979,
+      "rank": 34,
+      "category": "情感"
     },
     {
       "raw_hot": 189943,
@@ -3953,6 +4025,14 @@
       "onboard_time": 1712488697,
       "rank": 31,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 185825,
+      "num": 185825,
+      "word": "官方通报女子半截身子卷入扶梯",
+      "onboard_time": 1712585364,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 185569,
@@ -4379,14 +4459,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 164796,
-      "num": 164796,
-      "word": "请杀死自己的学生思维",
-      "onboard_time": 1712583140,
-      "rank": 36,
-      "category": "情感"
-    },
-    {
       "raw_hot": 164017,
       "num": 164017,
       "word": "笑梗不笑人 诺米真男人",
@@ -4539,6 +4611,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 155159,
+      "num": 595242,
+      "word": "落坡岭女书记入选感动中国",
+      "onboard_time": 1712582300,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 154345,
       "num": 154345,
       "word": "诺米 透明的一生",
@@ -4601,6 +4681,14 @@
       "onboard_time": 1712451678,
       "rank": 42,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 151779,
+      "num": 151779,
+      "word": "KPOP接力舞开创者",
+      "onboard_time": 1712584819,
+      "rank": 41,
+      "category": "音乐"
     },
     {
       "raw_hot": 149598,
@@ -4705,6 +4793,14 @@
       "onboard_time": 1712575338,
       "rank": 41,
       "category": "美食"
+    },
+    {
+      "raw_hot": 143352,
+      "num": 143352,
+      "word": "看上去心情好的人",
+      "onboard_time": 1712584040,
+      "rank": 43,
+      "category": "情感"
     },
     {
       "raw_hot": 143017,
@@ -4833,6 +4929,14 @@
       "onboard_time": 1712454917,
       "rank": 45,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 138792,
+      "num": 138792,
+      "word": "老乡鸡公开188道菜品制作方式",
+      "onboard_time": 1712583740,
+      "rank": 44,
+      "category": "美食"
     },
     {
       "raw_hot": 138657,
@@ -5065,6 +5169,14 @@
       "onboard_time": 1712469558,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 131307,
+      "num": 131307,
+      "word": "白发行止花絮",
+      "onboard_time": 1712583140,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 131110,
@@ -5409,22 +5521,6 @@
       "onboard_time": 1712582540,
       "rank": 46,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 115565,
-      "num": 595242,
-      "word": "落坡岭女书记入选感动中国",
-      "onboard_time": 1712582300,
-      "rank": 28,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 115037,
-      "num": 115037,
-      "word": "白发行止花絮",
-      "onboard_time": 1712583140,
-      "rank": 47,
-      "category": "剧集"
     },
     {
       "raw_hot": 114045,
@@ -5915,6 +6011,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 26243,
+      "num": 238856,
+      "word": "P5X公测前瞻直播",
+      "onboard_time": 1712582361,
+      "rank": 28,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 25511,
       "num": 24201,
       "word": "手术直播间",
@@ -5945,14 +6049,6 @@
       "onboard_time": 1712517970,
       "rank": 48,
       "category": "社会正能量"
-    },
-    {
-      "raw_hot": 20679,
-      "num": 209243,
-      "word": "P5X公测前瞻直播",
-      "onboard_time": 1712582361,
-      "rank": 28,
-      "category": "游戏"
     },
     {
       "raw_hot": 18570,
@@ -6016,6 +6112,9 @@
     },
     {
       "word": "#同志加兄弟是中越传统友谊最生动写照#"
+    },
+    {
+      "word": "#习主席非常关注和关心动物保护工作#"
     }
   ]
 }
