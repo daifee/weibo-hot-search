@@ -1,6 +1,6 @@
 {
   "startTime": 1712420539476,
-  "endTime": 1712693874705,
+  "endTime": 1712694873349,
   "band_list": [
     {
       "raw_hot": 9583581,
@@ -9307,6 +9307,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 26105,
+      "num": 34601,
+      "word": "无锡女子越南丢钱包竟在苏州找回",
+      "onboard_time": 1712690291,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 25511,
       "num": 24201,
       "word": "手术直播间",
@@ -9403,14 +9411,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 19268,
-      "num": 34601,
-      "word": "无锡女子越南丢钱包竟在苏州找回",
-      "onboard_time": 1712690291,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 18638,
       "num": 18638,
       "word": "宇多田光时隔24年唱First love",
@@ -9489,6 +9489,22 @@
       "onboard_time": 1712429591,
       "rank": 49,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 11698,
+      "num": 14485,
+      "word": "爸爸开家长会睡着女儿将其写进作文",
+      "onboard_time": 1712694850,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 11658,
+      "num": 14478,
+      "word": "90后小伙用废纸箱投影致敬宗庆后",
+      "onboard_time": 1712694850,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 11572,
