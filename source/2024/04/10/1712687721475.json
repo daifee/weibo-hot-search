@@ -1,0 +1,410 @@
+{
+  "runTime": 1712687721475,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 206935,
+        "num": 206935,
+        "word": "yamy 淘汰",
+        "onboard_time": 1712677459,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 205024,
+        "num": 205024,
+        "word": "28岁女子怀孕其妈妈喜极而泣",
+        "onboard_time": 1712683333,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 15232,
+        "num": 156614,
+        "word": "长江流域中分布400多种鱼类",
+        "onboard_time": 1712666778,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 154782,
+        "num": 154782,
+        "word": "外卖小哥连续3年住15元一晚宾馆",
+        "onboard_time": 1712675660,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 124673,
+        "num": 124673,
+        "word": "原来放松时舌头是贴在上颚的",
+        "onboard_time": 1712674340,
+        "rank": 4,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 115799,
+        "num": 115799,
+        "word": "杨幂 CL",
+        "onboard_time": 1712683034,
+        "rank": 5,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 112127,
+        "num": 112127,
+        "word": "刘忻张予曦牵手过马路",
+        "onboard_time": 1712680697,
+        "rank": 6,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 85649,
+        "num": 85649,
+        "word": "突然理解英国留子的绝望了",
+        "onboard_time": 1712674759,
+        "rank": 7,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 74272,
+        "num": 74272,
+        "word": "杨紫瘦了好多",
+        "onboard_time": 1712674099,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 70923,
+        "num": 70923,
+        "word": "林更新说45岁星玥三搭",
+        "onboard_time": 1712657061,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 62835,
+        "num": 62835,
+        "word": "去年B站超180万UP主通过直播获得收入",
+        "onboard_time": 1712673439,
+        "rank": 10,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 59467,
+        "num": 59467,
+        "word": "离职后旅居大理第二天想回家了",
+        "onboard_time": 1712669720,
+        "rank": 11,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 57406,
+        "num": 57406,
+        "word": "11年前狂购黄金的中国大妈解套了",
+        "onboard_time": 1712664620,
+        "rank": 12,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 54206,
+        "num": 54206,
+        "word": "田柾国评论李龙馥视频",
+        "onboard_time": 1712684712,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 44816,
+        "num": 44816,
+        "word": "河北省考 什么时候出",
+        "onboard_time": 1712669899,
+        "rank": 14,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 40122,
+        "num": 40122,
+        "word": "十个勤天只能是十个勤天",
+        "onboard_time": 1712664138,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 38251,
+        "num": 38251,
+        "word": "承欢记收视率",
+        "onboard_time": 1712664738,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 35101,
+        "num": 35101,
+        "word": "肖战作品",
+        "onboard_time": 1712666778,
+        "rank": 17,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 33540,
+        "num": 33540,
+        "word": "眼泪女王 海仁与婆婆",
+        "onboard_time": 1712680996,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 32766,
+        "num": 32766,
+        "word": "网易回应男孩玩蛋仔派对充上万元",
+        "onboard_time": 1712667319,
+        "rank": 19,
+        "category": "游戏,互联网"
+      },
+      {
+        "raw_hot": 69724,
+        "num": 32691,
+        "word": "经常熬夜的六个好处",
+        "onboard_time": 1712664738,
+        "rank": 20,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 43755,
+        "num": 32654,
+        "word": "当我发现爸妈有60万存款时",
+        "onboard_time": 1712672119,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 31950,
+        "num": 31950,
+        "word": "销售回复孙坚包包掉漆掉毛",
+        "onboard_time": 1712673680,
+        "rank": 22,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 31887,
+        "num": 31887,
+        "word": "承欢记",
+        "onboard_time": 1712662579,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 31878,
+        "num": 31878,
+        "word": "举报县委领导被逮捕事件22人被问责",
+        "onboard_time": 1712667919,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 30912,
+        "num": 30912,
+        "word": "碧苍王和她最爱的大锤子",
+        "onboard_time": 1712672239,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 30764,
+        "num": 30764,
+        "word": "虐猫事件 反社会行为",
+        "onboard_time": 1712673560,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 30615,
+        "num": 30615,
+        "word": "黄多多已经18岁了",
+        "onboard_time": 1712665400,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 17211,
+        "num": 30168,
+        "word": "港股中国天瑞水泥跌超99%",
+        "onboard_time": 1712672720,
+        "rank": 28,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 14384,
+        "num": 30119,
+        "word": "央广网评婚丧办酒必须报备",
+        "onboard_time": 1712687472,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 30106,
+        "num": 30106,
+        "word": "逆水寒手游",
+        "onboard_time": 1712680036,
+        "rank": 30,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 29789,
+        "num": 29789,
+        "word": "审判承欢记",
+        "onboard_time": 1712664559,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 29752,
+        "num": 29752,
+        "word": "许红豆喝上了马爷的金箔奶茶",
+        "onboard_time": 1712681954,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 28610,
+        "num": 28610,
+        "word": "徐海乔赵丽颖同用一个耳机",
+        "onboard_time": 1712664738,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 28496,
+        "num": 28496,
+        "word": "暴雪",
+        "onboard_time": 1712671819,
+        "rank": 34,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 28104,
+        "num": 28104,
+        "word": "云南香格里拉发生4.7级地震",
+        "onboard_time": 1712672839,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 27963,
+        "num": 27963,
+        "word": "韩国变美四件套",
+        "onboard_time": 1712678357,
+        "rank": 36,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 27772,
+        "num": 27772,
+        "word": "看脸就知道你心脏好不好",
+        "onboard_time": 1712677757,
+        "rank": 37,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 27188,
+        "num": 27188,
+        "word": "再见爱人 换乘恋爱",
+        "onboard_time": 1712677517,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 26608,
+        "num": 26608,
+        "word": "当你考研中途休息了一周后",
+        "onboard_time": 1712669121,
+        "rank": 39,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 26512,
+        "num": 26597,
+        "word": "上班恶心穿搭遇上退休精致穿搭",
+        "onboard_time": 1712675540,
+        "rank": 40,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 25329,
+        "num": 26594,
+        "word": "秦俊杰说坐等明天暴雪消息",
+        "onboard_time": 1712677159,
+        "rank": 41,
+        "category": "艺人,游戏"
+      },
+      {
+        "raw_hot": 25193,
+        "num": 26572,
+        "word": "23岁女歌手因心力衰竭去世",
+        "onboard_time": 1712655738,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 11700,
+        "num": 26558,
+        "word": "70秒看祖国大地春意盎然",
+        "onboard_time": 1712667678,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 24596,
+        "num": 26556,
+        "word": "导演把与凤行吻戏给刘宇宁当教材",
+        "onboard_time": 1712674340,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 23646,
+        "num": 26530,
+        "word": "高合",
+        "onboard_time": 1712675780,
+        "rank": 45,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 23271,
+        "num": 26522,
+        "word": "刘耀文 有我这口就有你一口",
+        "onboard_time": 1712678118,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 22629,
+        "num": 26505,
+        "word": "陈奕迅五不箴言",
+        "onboard_time": 1712686153,
+        "rank": 47,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 22053,
+        "num": 26491,
+        "word": "女神异闻录夜幕魅影",
+        "onboard_time": 1712684292,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 19275,
+        "num": 26487,
+        "word": "黄奕李冰冰新疆滑雪偶遇",
+        "onboard_time": 1712687651,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平同密克罗尼西亚联邦总统西米纳会谈#"
+    }
+  }
+}
