@@ -1,0 +1,410 @@
+{
+  "runTime": 1712639826628,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1356417,
+        "num": 1356417,
+        "word": "欧阳娜娜归来仍才23岁",
+        "onboard_time": 1712636419,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1270563,
+        "num": 1270563,
+        "word": "比亚迪卖一辆车净赚9000元",
+        "onboard_time": 1712633540,
+        "rank": 1,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 54073,
+        "num": 858890,
+        "word": "如何将旧金山愿景转为实景",
+        "onboard_time": 1712634319,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 772746,
+        "num": 772746,
+        "word": "暴雪 回归",
+        "onboard_time": 1712626219,
+        "rank": 3,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 628169,
+        "num": 628169,
+        "word": "刘亦菲又缝衣服了",
+        "onboard_time": 1712636599,
+        "rank": 4,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 597825,
+        "num": 597825,
+        "word": "向佐评论费曼",
+        "onboard_time": 1712626939,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 523085,
+        "num": 523085,
+        "word": "ZARA撤出中国市场系不实消息",
+        "onboard_time": 1712636298,
+        "rank": 6,
+        "category": "财经,时尚"
+      },
+      {
+        "raw_hot": 503407,
+        "num": 503407,
+        "word": "赵丽颖提议的删掉父女相认戏台词",
+        "onboard_time": 1712619137,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 460390,
+        "num": 460390,
+        "word": "省考成绩",
+        "onboard_time": 1712638159,
+        "rank": 8,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 236019,
+        "num": 459513,
+        "word": "退伍军人宿舍考研全上岸",
+        "onboard_time": 1712629757,
+        "rank": 9,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 818607,
+        "num": 458114,
+        "word": "chiikawa作者",
+        "onboard_time": 1712633599,
+        "rank": 10,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 530923,
+        "num": 456651,
+        "word": "林更新那是肋骨外翻不是小肚子",
+        "onboard_time": 1712628438,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 473196,
+        "num": 455175,
+        "word": "易烊千玺 丹麦",
+        "onboard_time": 1712633959,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 453680,
+        "num": 453680,
+        "word": "鹿晗起诉莆田鞋帽商家",
+        "onboard_time": 1712629638,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 446072,
+        "num": 446072,
+        "word": "某幻 水口十",
+        "onboard_time": 1712635039,
+        "rank": 14,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 392631,
+        "num": 392631,
+        "word": "男子杀妻抛尸四川警方3天破案",
+        "onboard_time": 1712623459,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 367698,
+        "num": 367698,
+        "word": "插画师画的赵丽颖",
+        "onboard_time": 1712632100,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 335843,
+        "num": 335843,
+        "word": "ZARA大量粉丝紧急扫货",
+        "onboard_time": 1712625919,
+        "rank": 17,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 331435,
+        "num": 331435,
+        "word": "张元英连转两次圈",
+        "onboard_time": 1712619677,
+        "rank": 18,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 321244,
+        "num": 321244,
+        "word": "无限造孽班",
+        "onboard_time": 1712633477,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 698262,
+        "num": 313460,
+        "word": "2岁小孩看房时不幸坠亡",
+        "onboard_time": 1712625438,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 576658,
+        "num": 310713,
+        "word": "176的身高长了张1米5的脸",
+        "onboard_time": 1712632759,
+        "rank": 21,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 378141,
+        "num": 310547,
+        "word": "为什么通勤时间全算个人的",
+        "onboard_time": 1712637859,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 304359,
+        "num": 304359,
+        "word": "虐猫考生该懂的不是舆论而是敬畏生命",
+        "onboard_time": 1712628558,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 273489,
+        "num": 273489,
+        "word": "这是我没结婚前最无聊的一天",
+        "onboard_time": 1712632278,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 261257,
+        "num": 261257,
+        "word": "小米公司深夜连发三文",
+        "onboard_time": 1712622919,
+        "rank": 25,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 258202,
+        "num": 258202,
+        "word": "50g金条净赚4000元",
+        "onboard_time": 1712637979,
+        "rank": 26,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 255890,
+        "num": 255890,
+        "word": "金智媛同款",
+        "onboard_time": 1712637079,
+        "rank": 27,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 206813,
+        "num": 247601,
+        "word": "广东省考成绩",
+        "onboard_time": 1712633298,
+        "rank": 28,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 109473,
+        "num": 246275,
+        "word": "今年唯一一次日全食现场画面",
+        "onboard_time": 1712630897,
+        "rank": 29,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 547409,
+        "num": 246229,
+        "word": "支付宝崩了",
+        "onboard_time": 1712629939,
+        "rank": 30,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 245853,
+        "num": 245853,
+        "word": "陈凯歌王一博或将合作",
+        "onboard_time": 1712639059,
+        "rank": 31,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 233248,
+        "num": 233248,
+        "word": "我牵着我的女人走了啊",
+        "onboard_time": 1712638339,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 231795,
+        "num": 231795,
+        "word": "麦承欢小时候照片是杨紫本人",
+        "onboard_time": 1712638701,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 203113,
+        "num": 203113,
+        "word": "成都迪士尼已经开始出周边了",
+        "onboard_time": 1712639660,
+        "rank": 34,
+        "category": "旅游,幽默"
+      },
+      {
+        "raw_hot": 208973,
+        "num": 201755,
+        "word": "麦承欢姚志明勾脖吻",
+        "onboard_time": 1712637319,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 218942,
+        "num": 201560,
+        "word": "王一博托姐公开秀恩爱",
+        "onboard_time": 1712578400,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 200023,
+        "num": 200023,
+        "word": "chiikawa作者年收入52亿日元",
+        "onboard_time": 1712631798,
+        "rank": 37,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 195323,
+        "num": 195323,
+        "word": "王梓薇挑战去低分化妆店爆改",
+        "onboard_time": 1712638101,
+        "rank": 38,
+        "category": "作品衍生,美妆"
+      },
+      {
+        "raw_hot": 180970,
+        "num": 180970,
+        "word": "金价攀升很多人一袋一袋卖黄金",
+        "onboard_time": 1712631618,
+        "rank": 39,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 175172,
+        "num": 175172,
+        "word": "哈尔的移动城堡 配音",
+        "onboard_time": 1712636839,
+        "rank": 40,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 173781,
+        "num": 173781,
+        "word": "原来狗狗真的会求救",
+        "onboard_time": 1712637079,
+        "rank": 41,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 172122,
+        "num": 172122,
+        "word": "为什么不建议早上洗头",
+        "onboard_time": 1712639722,
+        "rank": 42,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 169590,
+        "num": 169590,
+        "word": "NBA球探对杨瀚森失望",
+        "onboard_time": 1712635339,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 27408,
+        "num": 169371,
+        "word": "刚知道在某东买药放过期能免费换",
+        "onboard_time": 1712633179,
+        "rank": 44,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 169265,
+        "num": 169265,
+        "word": "网易回应暴雪国服回归",
+        "onboard_time": 1712632278,
+        "rank": 45,
+        "category": "游戏,互联网"
+      },
+      {
+        "raw_hot": 164429,
+        "num": 164429,
+        "word": "WBG发布道歉公告",
+        "onboard_time": 1712636179,
+        "rank": 46,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 160838,
+        "num": 164250,
+        "word": "张学友谢霆锋新片定档暑期",
+        "onboard_time": 1712638400,
+        "rank": 47,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 164211,
+        "num": 164211,
+        "word": "为什么收衣服的时候一定要抖一抖",
+        "onboard_time": 1712633540,
+        "rank": 48,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 144309,
+        "num": 163175,
+        "word": "A股超4500只个股下跌",
+        "onboard_time": 1712633898,
+        "rank": 49,
+        "category": "财经"
+      }
+    ],
+    "hotgov": {
+      "word": "#同志加兄弟是中越传统友谊最生动写照#"
+    }
+  }
+}

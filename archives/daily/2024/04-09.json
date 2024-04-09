@@ -1,6 +1,6 @@
 {
   "startTime": 1712593429256,
-  "endTime": 1712637260838,
+  "endTime": 1712639826628,
   "band_list": [
     {
       "raw_hot": 2371874,
@@ -33,6 +33,14 @@
       "onboard_time": 1712633540,
       "rank": 40,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 1356417,
+      "num": 1356417,
+      "word": "欧阳娜娜归来仍才23岁",
+      "onboard_time": 1712636419,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 1355755,
@@ -187,6 +195,14 @@
       "category": "国内时政,军事"
     },
     {
+      "raw_hot": 628169,
+      "num": 628169,
+      "word": "刘亦菲又缝衣服了",
+      "onboard_time": 1712636599,
+      "rank": 8,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 612173,
       "num": 481597,
       "word": "易烊千玺 丹麦",
@@ -235,14 +251,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 555423,
-      "num": 471380,
-      "word": "欧阳娜娜归来仍才23岁",
-      "onboard_time": 1712636419,
-      "rank": 38,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 550144,
       "num": 550144,
       "word": "江西师大男学生虐猫",
@@ -257,6 +265,14 @@
       "onboard_time": 1712577619,
       "rank": 11,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 523085,
+      "num": 523085,
+      "word": "ZARA撤出中国市场系不实消息",
+      "onboard_time": 1712636298,
+      "rank": 28,
+      "category": "财经,时尚"
     },
     {
       "raw_hot": 500623,
@@ -307,14 +323,6 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 476112,
-      "num": 476112,
-      "word": "刘亦菲又缝衣服了",
-      "onboard_time": 1712636599,
-      "rank": 8,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 474577,
       "num": 474577,
       "word": "某幻 水口十",
@@ -337,6 +345,14 @@
       "onboard_time": 1712632278,
       "rank": 23,
       "category": "游戏,互联网"
+    },
+    {
+      "raw_hot": 460390,
+      "num": 460390,
+      "word": "省考成绩",
+      "onboard_time": 1712638159,
+      "rank": 8,
+      "category": "教育"
     },
     {
       "raw_hot": 454592,
@@ -465,6 +481,14 @@
       "onboard_time": 1712628378,
       "rank": 22,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 378141,
+      "num": 310547,
+      "word": "为什么通勤时间全算个人的",
+      "onboard_time": 1712637859,
+      "rank": 22,
+      "category": "情感"
     },
     {
       "raw_hot": 377416,
@@ -611,14 +635,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 264227,
-      "num": 287862,
-      "word": "ZARA撤出中国市场系不实消息",
-      "onboard_time": 1712636298,
-      "rank": 28,
-      "category": "财经,时尚"
-    },
-    {
       "raw_hot": 264060,
       "num": 264060,
       "word": "cube男经纪人骚扰minnie后续",
@@ -633,6 +649,22 @@
       "onboard_time": 1712620938,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 258202,
+      "num": 258202,
+      "word": "50g金条净赚4000元",
+      "onboard_time": 1712637979,
+      "rank": 26,
+      "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 255890,
+      "num": 255890,
+      "word": "金智媛同款",
+      "onboard_time": 1712637079,
+      "rank": 41,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 249666,
@@ -657,6 +689,14 @@
       "onboard_time": 1712617335,
       "rank": 27,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 245853,
+      "num": 245853,
+      "word": "陈凯歌王一博或将合作",
+      "onboard_time": 1712639059,
+      "rank": 31,
+      "category": "电影"
     },
     {
       "raw_hot": 244255,
@@ -715,12 +755,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 233248,
+      "num": 233248,
+      "word": "我牵着我的女人走了啊",
+      "onboard_time": 1712638339,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 232040,
       "num": 218763,
       "word": "王一博谷嘉诚做俯卧撑",
       "onboard_time": 1712633657,
       "rank": 38,
       "category": "电影"
+    },
+    {
+      "raw_hot": 231795,
+      "num": 231795,
+      "word": "麦承欢小时候照片是杨紫本人",
+      "onboard_time": 1712638701,
+      "rank": 33,
+      "category": "剧集"
     },
     {
       "raw_hot": 229416,
@@ -795,14 +851,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 217683,
-      "num": 217683,
-      "word": "金智媛同款",
-      "onboard_time": 1712637079,
-      "rank": 41,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 215514,
       "num": 215514,
       "word": "智己",
@@ -833,6 +881,14 @@
       "onboard_time": 1712627899,
       "rank": 31,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 208973,
+      "num": 201755,
+      "word": "麦承欢姚志明勾脖吻",
+      "onboard_time": 1712637319,
+      "rank": 35,
+      "category": "剧集"
     },
     {
       "raw_hot": 208364,
@@ -883,6 +939,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 203113,
+      "num": 203113,
+      "word": "成都迪士尼已经开始出周边了",
+      "onboard_time": 1712639660,
+      "rank": 34,
+      "category": "旅游,幽默"
+    },
+    {
       "raw_hot": 202395,
       "num": 202395,
       "word": "中国高端电视市场华为销量第一",
@@ -929,6 +993,14 @@
       "onboard_time": 1712632939,
       "rank": 41,
       "category": "电影"
+    },
+    {
+      "raw_hot": 195323,
+      "num": 195323,
+      "word": "王梓薇挑战去低分化妆店爆改",
+      "onboard_time": 1712638101,
+      "rank": 38,
+      "category": "作品衍生,美妆"
     },
     {
       "raw_hot": 190559,
@@ -1011,6 +1083,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 172122,
+      "num": 172122,
+      "word": "为什么不建议早上洗头",
+      "onboard_time": 1712639722,
+      "rank": 42,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 171638,
       "num": 171638,
       "word": "于适空降超话",
@@ -1041,6 +1121,14 @@
       "onboard_time": 1712627298,
       "rank": 40,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 160838,
+      "num": 164250,
+      "word": "张学友谢霆锋新片定档暑期",
+      "onboard_time": 1712638400,
+      "rank": 47,
+      "category": "电影"
     },
     {
       "raw_hot": 160456,
