@@ -1,6 +1,6 @@
 {
   "startTime": 1712593429256,
-  "endTime": 1712662538569,
+  "endTime": 1712665945063,
   "band_list": [
     {
       "raw_hot": 2371874,
@@ -235,6 +235,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 803709,
+      "num": 803709,
+      "word": "李栋旭在工作人员头上读剧本",
+      "onboard_time": 1712663058,
+      "rank": 0,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 783649,
       "num": 486528,
       "word": "林更新那是肋骨外翻不是小肚子",
@@ -275,6 +283,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 695065,
+      "num": 695065,
+      "word": "徐海乔赵丽颖同用一个耳机",
+      "onboard_time": 1712664738,
+      "rank": 1,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 690351,
       "num": 690351,
       "word": "多邻国 花粉症",
@@ -297,6 +313,14 @@
       "onboard_time": 1712622438,
       "rank": 7,
       "category": "国内时政,军事"
+    },
+    {
+      "raw_hot": 666669,
+      "num": 666669,
+      "word": "11年前狂购黄金的中国大妈解套了",
+      "onboard_time": 1712664620,
+      "rank": 3,
+      "category": "财经"
     },
     {
       "raw_hot": 665213,
@@ -323,6 +347,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 644629,
+      "num": 644629,
+      "word": "审判承欢记",
+      "onboard_time": 1712664559,
+      "rank": 4,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 628169,
       "num": 628169,
       "word": "刘亦菲又缝衣服了",
@@ -337,6 +369,14 @@
       "onboard_time": 1712633959,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 607715,
+      "num": 607715,
+      "word": "贡菜为何成为火锅店顶流",
+      "onboard_time": 1712658919,
+      "rank": 49,
+      "category": "美食"
     },
     {
       "raw_hot": 606532,
@@ -368,6 +408,14 @@
       "word": "杨紫剧播优酷急了",
       "onboard_time": 1712652320,
       "rank": 8,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 585804,
+      "num": 585804,
+      "word": "承欢记收视率",
+      "onboard_time": 1712664738,
+      "rank": 7,
       "category": "剧集"
     },
     {
@@ -441,6 +489,14 @@
       "onboard_time": 1712628977,
       "rank": 33,
       "category": "汽车,财经"
+    },
+    {
+      "raw_hot": 498795,
+      "num": 498795,
+      "word": "檀健次金世佳猎罪图鉴2同框路透",
+      "onboard_time": 1712663478,
+      "rank": 11,
+      "category": "剧集"
     },
     {
       "raw_hot": 493447,
@@ -755,6 +811,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 387263,
+      "num": 387263,
+      "word": "承欢记",
+      "onboard_time": 1712623879,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 387158,
       "num": 353052,
       "word": "一张照片5个G",
@@ -809,6 +873,22 @@
       "onboard_time": 1712588479,
       "rank": 16,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 369292,
+      "num": 363240,
+      "word": "十个勤天只能是十个勤天",
+      "onboard_time": 1712664138,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 364384,
+      "num": 364384,
+      "word": "papi酱 关于小孩的疑问",
+      "onboard_time": 1712665100,
+      "rank": 14,
+      "category": "母婴育儿"
     },
     {
       "raw_hot": 356662,
@@ -915,6 +995,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 314924,
+      "num": 237324,
+      "word": "赵小棠妈妈好像参加了变形计",
+      "onboard_time": 1712664320,
+      "rank": 20,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 312725,
       "num": 312725,
       "word": "毛不易 内娱贝爷",
@@ -995,6 +1083,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 297618,
+      "num": 235989,
+      "word": "经常熬夜的六个好处",
+      "onboard_time": 1712664738,
+      "rank": 21,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 293315,
       "num": 293315,
       "word": "暴雪国服最快今年夏季上线",
@@ -1035,20 +1131,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 282171,
+      "num": 234585,
+      "word": "工作四年后考研拟录取了",
+      "onboard_time": 1712664138,
+      "rank": 22,
+      "category": "教育"
+    },
+    {
       "raw_hot": 280064,
       "num": 280064,
       "word": "杨幂带猫咪跳flower",
       "onboard_time": 1712659519,
       "rank": 19,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 279726,
-      "num": 279726,
-      "word": "贡菜为何成为火锅店顶流",
-      "onboard_time": 1712658919,
-      "rank": 49,
-      "category": "美食"
     },
     {
       "raw_hot": 279661,
@@ -1139,6 +1235,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 258148,
+      "num": 229723,
+      "word": "种地吧第二季",
+      "onboard_time": 1712661320,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 255890,
       "num": 255890,
       "word": "金智媛同款",
@@ -1153,6 +1257,14 @@
       "onboard_time": 1712644459,
       "rank": 49,
       "category": "旅游,社会新闻"
+    },
+    {
+      "raw_hot": 251435,
+      "num": 231749,
+      "word": "减肥搭子把我删了",
+      "onboard_time": 1712664078,
+      "rank": 24,
+      "category": "幽默"
     },
     {
       "raw_hot": 250707,
@@ -1180,7 +1292,7 @@
     },
     {
       "raw_hot": 249047,
-      "num": 445662,
+      "num": 512398,
       "word": "00后帅哥送锦旗民警看了差点没绷住",
       "onboard_time": 1712656220,
       "rank": 7,
@@ -1243,6 +1355,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 238467,
+      "num": 238467,
+      "word": "北邮郑凤",
+      "onboard_time": 1712665038,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 236086,
       "num": 236086,
       "word": "唐嫣回应命好标签",
@@ -1289,14 +1409,6 @@
       "onboard_time": 1712635339,
       "rank": 41,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 227121,
-      "num": 227121,
-      "word": "承欢记",
-      "onboard_time": 1712623879,
-      "rank": 31,
-      "category": "剧集"
     },
     {
       "raw_hot": 226672,
@@ -1563,14 +1675,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 197969,
-      "num": 223358,
-      "word": "种地吧第二季",
-      "onboard_time": 1712661320,
-      "rank": 19,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 197222,
       "num": 306979,
       "word": "朱婷回来了",
@@ -1609,6 +1713,14 @@
       "onboard_time": 1712638101,
       "rank": 38,
       "category": "作品衍生,美妆"
+    },
+    {
+      "raw_hot": 194497,
+      "num": 194497,
+      "word": "老乡鸡餐厅菜品现炒占比70%",
+      "onboard_time": 1712665038,
+      "rank": 30,
+      "category": "美食"
     },
     {
       "raw_hot": 194387,
@@ -1763,12 +1875,28 @@
       "category": "作品衍生,美妆"
     },
     {
+      "raw_hot": 176455,
+      "num": 176455,
+      "word": "夏之光做饭",
+      "onboard_time": 1712665580,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 176155,
       "num": 176155,
       "word": "今天怎么才星期二",
       "onboard_time": 1712625319,
       "rank": 41,
       "category": "情感"
+    },
+    {
+      "raw_hot": 176051,
+      "num": 176051,
+      "word": "黄多多已经18岁了",
+      "onboard_time": 1712665400,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 175836,
@@ -1995,6 +2123,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 149394,
+      "num": 149394,
+      "word": "韩男真的好会提供情绪价值",
+      "onboard_time": 1712664138,
+      "rank": 36,
+      "category": "情感"
+    },
+    {
       "raw_hot": 149085,
       "num": 149085,
       "word": "小米SU7后视镜雨天可开启加热功能",
@@ -2051,6 +2187,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 144212,
+      "num": 144212,
+      "word": "被可爱修狗的嘴臭吐了",
+      "onboard_time": 1712664379,
+      "rank": 38,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 143981,
       "num": 143981,
       "word": "广东省考 进面",
@@ -2065,6 +2209,14 @@
       "onboard_time": 1712655199,
       "rank": 48,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 141777,
+      "num": 141777,
+      "word": "为什么女儿的反应这么强烈",
+      "onboard_time": 1712664138,
+      "rank": 39,
+      "category": "情感"
     },
     {
       "raw_hot": 141311,
@@ -2403,6 +2555,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 107448,
+      "num": 107448,
+      "word": "白鹿晒衡门有狐剧本",
+      "onboard_time": 1712665879,
+      "rank": 49,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 107307,
       "num": 107307,
       "word": "虐猫考生",
@@ -2425,6 +2585,14 @@
       "onboard_time": 1712599452,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 102976,
+      "num": 197924,
+      "word": "专家分析金价上涨原因",
+      "onboard_time": 1712664138,
+      "rank": 29,
+      "category": "财经"
     },
     {
       "raw_hot": 102005,
@@ -2617,6 +2785,14 @@
       "onboard_time": 1712599932,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 45780,
+      "num": 123060,
+      "word": "极氪001实测续航超580公里",
+      "onboard_time": 1712665759,
+      "rank": 46,
+      "category": "汽车"
     },
     {
       "raw_hot": 43040,
