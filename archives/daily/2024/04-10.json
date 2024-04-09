@@ -1,6 +1,6 @@
 {
   "startTime": 1712679647281,
-  "endTime": 1712697402705,
+  "endTime": 1712698470142,
   "band_list": [
     {
       "raw_hot": 1126395,
@@ -491,6 +491,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 40489,
+      "num": 40489,
+      "word": "无锡女子越南丢钱包竟在苏州找回",
+      "onboard_time": 1712690291,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 36071,
       "num": 710729,
       "word": "70秒看祖国大地春意盎然",
@@ -499,11 +507,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 31798,
-      "num": 34601,
-      "word": "无锡女子越南丢钱包竟在苏州找回",
-      "onboard_time": 1712690291,
-      "rank": 9,
+      "raw_hot": 31919,
+      "num": 31919,
+      "word": "爸爸开家长会睡着女儿将其写进作文",
+      "onboard_time": 1712694850,
+      "rank": 48,
       "category": "社会新闻"
     },
     {
@@ -523,11 +531,11 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 23511,
-      "num": 23511,
-      "word": "爸爸开家长会睡着女儿将其写进作文",
-      "onboard_time": 1712694850,
-      "rank": 48,
+      "raw_hot": 23571,
+      "num": 23571,
+      "word": "长沙通报一初中生在校坠楼",
+      "onboard_time": 1712697131,
+      "rank": 45,
       "category": "社会新闻"
     },
     {
@@ -547,12 +555,36 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 22424,
+      "num": 22424,
+      "word": "福宝应该称花花为表姨外祖母",
+      "onboard_time": 1712695690,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 22348,
+      "num": 22348,
+      "word": "男子要求每天加夜班民警察觉不对劲抓捕一名逃犯",
+      "onboard_time": 1712695450,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 20421,
       "num": 26487,
       "word": "黄奕李冰冰新疆滑雪偶遇",
       "onboard_time": 1712687651,
       "rank": 49,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 20278,
+      "num": 20278,
+      "word": "本年度首个龙年龙月龙日龙时",
+      "onboard_time": 1712691250,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 19976,
@@ -571,24 +603,8 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 19802,
-      "num": 19802,
-      "word": "本年度首个龙年龙月龙日龙时",
-      "onboard_time": 1712691250,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 19089,
-      "num": 19089,
-      "word": "福宝应该称花花为表姨外祖母",
-      "onboard_time": 1712695690,
-      "rank": 26,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 18269,
-      "num": 18269,
+      "raw_hot": 18294,
+      "num": 18294,
       "word": "王者荣耀 酷洛米",
       "onboard_time": 1712650220,
       "rank": 48,
@@ -619,20 +635,12 @@
       "category": "时尚"
     },
     {
-      "raw_hot": 12512,
-      "num": 14074,
+      "raw_hot": 14336,
+      "num": 14336,
       "word": "成都迪士尼周边",
       "onboard_time": 1712696290,
       "rank": 44,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 12494,
-      "num": 14012,
-      "word": "长沙通报一初中生在校坠楼",
-      "onboard_time": 1712697131,
-      "rank": 45,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 11658,

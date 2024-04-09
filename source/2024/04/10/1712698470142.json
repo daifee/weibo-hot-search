@@ -1,0 +1,410 @@
+{
+  "runTime": 1712698470142,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 97494,
+        "num": 97494,
+        "word": "28岁女子怀孕其妈妈喜极而泣",
+        "onboard_time": 1712683333,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 94972,
+        "num": 94972,
+        "word": "yamy 淘汰",
+        "onboard_time": 1712677459,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 9424,
+        "num": 85882,
+        "word": "长江流域中分布400多种鱼类",
+        "onboard_time": 1712666778,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 81653,
+        "num": 81653,
+        "word": "外卖小哥连续3年住15元一晚宾馆",
+        "onboard_time": 1712675660,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 62349,
+        "num": 62349,
+        "word": "原来放松时舌头是贴在上颚的",
+        "onboard_time": 1712674340,
+        "rank": 4,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 59599,
+        "num": 59599,
+        "word": "突然理解英国留子的绝望了",
+        "onboard_time": 1712674759,
+        "rank": 5,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 48380,
+        "num": 48380,
+        "word": "杨紫瘦了好多",
+        "onboard_time": 1712674099,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 42069,
+        "num": 42069,
+        "word": "刘忻张予曦牵手过马路",
+        "onboard_time": 1712680697,
+        "rank": 7,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 40489,
+        "num": 40489,
+        "word": "无锡女子越南丢钱包竟在苏州找回",
+        "onboard_time": 1712690291,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 38967,
+        "num": 38967,
+        "word": "离职后旅居大理第二天想回家了",
+        "onboard_time": 1712669720,
+        "rank": 9,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 59684,
+        "num": 38568,
+        "word": "央广网评婚丧办酒必须报备",
+        "onboard_time": 1712687472,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 36811,
+        "num": 36811,
+        "word": "去年B站超180万UP主通过直播获得收入",
+        "onboard_time": 1712673439,
+        "rank": 11,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 31919,
+        "num": 31919,
+        "word": "爸爸开家长会睡着女儿将其写进作文",
+        "onboard_time": 1712694850,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 31024,
+        "num": 31024,
+        "word": "11年前狂购黄金的中国大妈解套了",
+        "onboard_time": 1712664620,
+        "rank": 13,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 28486,
+        "num": 28486,
+        "word": "销售回复孙坚包包掉漆掉毛",
+        "onboard_time": 1712673680,
+        "rank": 14,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 28242,
+        "num": 28242,
+        "word": "肖战作品",
+        "onboard_time": 1712666778,
+        "rank": 15,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 27391,
+        "num": 27391,
+        "word": "河北省考 什么时候出",
+        "onboard_time": 1712669899,
+        "rank": 16,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 27344,
+        "num": 27344,
+        "word": "上班恶心穿搭遇上退休精致穿搭",
+        "onboard_time": 1712675540,
+        "rank": 17,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 26397,
+        "num": 26397,
+        "word": "林更新说45岁星玥三搭",
+        "onboard_time": 1712657061,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 25790,
+        "num": 25790,
+        "word": "23岁女歌手因心力衰竭去世",
+        "onboard_time": 1712655738,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 26584,
+        "num": 25409,
+        "word": "当我发现爸妈有60万存款时",
+        "onboard_time": 1712672119,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 26085,
+        "num": 25278,
+        "word": "看脸就知道你心脏好不好",
+        "onboard_time": 1712677757,
+        "rank": 21,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 24728,
+        "num": 24728,
+        "word": "杨幂 CL",
+        "onboard_time": 1712683034,
+        "rank": 22,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 23571,
+        "num": 23571,
+        "word": "长沙通报一初中生在校坠楼",
+        "onboard_time": 1712697131,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 22424,
+        "num": 22424,
+        "word": "福宝应该称花花为表姨外祖母",
+        "onboard_time": 1712695690,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 22394,
+        "num": 22394,
+        "word": "举报县委领导被逮捕事件22人被问责",
+        "onboard_time": 1712667919,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 22348,
+        "num": 22348,
+        "word": "男子要求每天加夜班民警察觉不对劲抓捕一名逃犯",
+        "onboard_time": 1712695450,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 21823,
+        "num": 21823,
+        "word": "秦俊杰说坐等明天暴雪消息",
+        "onboard_time": 1712677159,
+        "rank": 27,
+        "category": "艺人,游戏"
+      },
+      {
+        "raw_hot": 20870,
+        "num": 20870,
+        "word": "经常熬夜的六个好处",
+        "onboard_time": 1712664738,
+        "rank": 28,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 20278,
+        "num": 20278,
+        "word": "本年度首个龙年龙月龙日龙时",
+        "onboard_time": 1712691250,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 19890,
+        "num": 19890,
+        "word": "暴雪",
+        "onboard_time": 1712671819,
+        "rank": 30,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 19669,
+        "num": 19669,
+        "word": "韩国变美四件套",
+        "onboard_time": 1712678357,
+        "rank": 31,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 19046,
+        "num": 19046,
+        "word": "云南香格里拉发生4.7级地震",
+        "onboard_time": 1712672839,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 18294,
+        "num": 18294,
+        "word": "王者荣耀 酷洛米",
+        "onboard_time": 1712650220,
+        "rank": 33,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 18060,
+        "num": 18060,
+        "word": "导演把与凤行吻戏给刘宇宁当教材",
+        "onboard_time": 1712674340,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 17231,
+        "num": 17231,
+        "word": "承欢记收视率",
+        "onboard_time": 1712664738,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 17076,
+        "num": 17076,
+        "word": "张艺凡G社生图",
+        "onboard_time": 1712688371,
+        "rank": 36,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 16937,
+        "num": 16937,
+        "word": "黄多多已经18岁了",
+        "onboard_time": 1712665400,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 16896,
+        "num": 16896,
+        "word": "再见爱人 换乘恋爱",
+        "onboard_time": 1712677517,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 16604,
+        "num": 16604,
+        "word": "网易回应男孩玩蛋仔派对充上万元",
+        "onboard_time": 1712667319,
+        "rank": 39,
+        "category": "游戏,互联网"
+      },
+      {
+        "raw_hot": 15633,
+        "num": 15633,
+        "word": "虐猫事件 反社会行为",
+        "onboard_time": 1712673560,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 15504,
+        "num": 15504,
+        "word": "徐海乔赵丽颖同用一个耳机",
+        "onboard_time": 1712664738,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 15325,
+        "num": 15325,
+        "word": "高合",
+        "onboard_time": 1712675780,
+        "rank": 42,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 14806,
+        "num": 14806,
+        "word": "小狗表达歉意的方式",
+        "onboard_time": 1712688191,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 14426,
+        "num": 14426,
+        "word": "汉服对一个普通人改变有多大",
+        "onboard_time": 1712695030,
+        "rank": 44,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 14386,
+        "num": 14386,
+        "word": "碧苍王和她最爱的大锤子",
+        "onboard_time": 1712672239,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 14336,
+        "num": 14336,
+        "word": "成都迪士尼周边",
+        "onboard_time": 1712696290,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 14056,
+        "num": 14335,
+        "word": "承欢记",
+        "onboard_time": 1712662579,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 13668,
+        "num": 14327,
+        "word": "眼泪女王 海仁与婆婆",
+        "onboard_time": 1712680996,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 12344,
+        "num": 14318,
+        "word": "十个勤天只能是十个勤天",
+        "onboard_time": 1712664138,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平同密克罗尼西亚联邦总统西米纳会谈#"
+    }
+  }
+}

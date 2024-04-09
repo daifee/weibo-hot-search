@@ -1,6 +1,6 @@
 {
   "startTime": 1711902044401,
-  "endTime": 1712697402705,
+  "endTime": 1712698470142,
   "band_list": [
     {
       "raw_hot": 16874674,
@@ -25403,6 +25403,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 40489,
+      "num": 40489,
+      "word": "无锡女子越南丢钱包竟在苏州找回",
+      "onboard_time": 1712690291,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 39863,
       "num": 41142,
       "word": "当我帮奶奶重启了手机",
@@ -25531,20 +25539,20 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 31919,
+      "num": 31919,
+      "word": "爸爸开家长会睡着女儿将其写进作文",
+      "onboard_time": 1712694850,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 31834,
       "num": 39106,
       "word": "陈楚生成都站售罄",
       "onboard_time": 1712075896,
       "rank": 48,
       "category": "演出"
-    },
-    {
-      "raw_hot": 31798,
-      "num": 34601,
-      "word": "无锡女子越南丢钱包竟在苏州找回",
-      "onboard_time": 1712690291,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 31071,
@@ -25715,11 +25723,11 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 23511,
-      "num": 23511,
-      "word": "爸爸开家长会睡着女儿将其写进作文",
-      "onboard_time": 1712694850,
-      "rank": 48,
+      "raw_hot": 23571,
+      "num": 23571,
+      "word": "长沙通报一初中生在校坠楼",
+      "onboard_time": 1712697131,
+      "rank": 45,
       "category": "社会新闻"
     },
     {
@@ -25768,6 +25776,22 @@
       "word": "张朝阳夜跑直播探访北京",
       "onboard_time": 1712023219,
       "rank": 39,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 22424,
+      "num": 22424,
+      "word": "福宝应该称花花为表姨外祖母",
+      "onboard_time": 1712695690,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 22348,
+      "num": 22348,
+      "word": "男子要求每天加夜班民警察觉不对劲抓捕一名逃犯",
+      "onboard_time": 1712695450,
+      "rank": 26,
       "category": "社会新闻"
     },
     {
@@ -25835,6 +25859,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 20278,
+      "num": 20278,
+      "word": "本年度首个龙年龙月龙日龙时",
+      "onboard_time": 1712691250,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 20228,
       "num": 20228,
       "word": "奶茶成瘾与抑郁焦虑正相关",
@@ -25859,14 +25891,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 19802,
-      "num": 19802,
-      "word": "本年度首个龙年龙月龙日龙时",
-      "onboard_time": 1712691250,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 19427,
       "num": 140017,
       "word": "CPSP出现怪盗团",
@@ -25881,14 +25905,6 @@
       "onboard_time": 1712606110,
       "rank": 39,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 19089,
-      "num": 19089,
-      "word": "福宝应该称花花为表姨外祖母",
-      "onboard_time": 1712695690,
-      "rank": 26,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 18809,
@@ -26003,6 +26019,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 14336,
+      "num": 14336,
+      "word": "成都迪士尼周边",
+      "onboard_time": 1712696290,
+      "rank": 44,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 13982,
       "num": 15911,
       "word": "80岁老人义务守护无名烈士墓64年",
@@ -26033,22 +26057,6 @@
       "onboard_time": 1712087530,
       "rank": 49,
       "category": "美妆"
-    },
-    {
-      "raw_hot": 12512,
-      "num": 14074,
-      "word": "成都迪士尼周边",
-      "onboard_time": 1712696290,
-      "rank": 44,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 12494,
-      "num": 14012,
-      "word": "长沙通报一初中生在校坠楼",
-      "onboard_time": 1712697131,
-      "rank": 45,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 11658,
