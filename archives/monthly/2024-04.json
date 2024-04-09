@@ -1,6 +1,6 @@
 {
   "startTime": 1711902044401,
-  "endTime": 1712661285793,
+  "endTime": 1712662538569,
   "band_list": [
     {
       "raw_hot": 16874674,
@@ -3651,6 +3651,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 690351,
+      "num": 690351,
+      "word": "多邻国 花粉症",
+      "onboard_time": 1712659220,
+      "rank": 4,
+      "category": "教育"
+    },
+    {
       "raw_hot": 690331,
       "num": 690331,
       "word": "小米SU7退订率",
@@ -5649,14 +5657,6 @@
       "onboard_time": 1711959080,
       "rank": 16,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 520024,
-      "num": 520024,
-      "word": "多邻国 花粉症",
-      "onboard_time": 1712659220,
-      "rank": 4,
-      "category": "教育"
     },
     {
       "raw_hot": 519562,
@@ -7947,6 +7947,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 388317,
+      "num": 388317,
+      "word": "智己汽车再次向小米道歉",
+      "onboard_time": 1712657538,
+      "rank": 26,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 388117,
       "num": 300587,
       "word": "我和老公劝高三儿子放弃高考",
@@ -8489,14 +8497,6 @@
       "onboard_time": 1712581879,
       "rank": 26,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 363556,
-      "num": 363556,
-      "word": "智己汽车再次向小米道歉",
-      "onboard_time": 1712657538,
-      "rank": 26,
-      "category": "汽车"
     },
     {
       "raw_hot": 363211,
@@ -10779,6 +10779,14 @@
       "category": "体育,艺人"
     },
     {
+      "raw_hot": 280064,
+      "num": 280064,
+      "word": "杨幂带猫咪跳flower",
+      "onboard_time": 1712659519,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 280012,
       "num": 280012,
       "word": "新版赵灵儿 古装叶文洁",
@@ -10801,6 +10809,14 @@
       "onboard_time": 1711986319,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 279726,
+      "num": 279726,
+      "word": "贡菜为何成为火锅店顶流",
+      "onboard_time": 1712658919,
+      "rank": 49,
+      "category": "美食"
     },
     {
       "raw_hot": 279661,
@@ -12233,14 +12249,6 @@
       "onboard_time": 1712224877,
       "rank": 31,
       "category": "情感"
-    },
-    {
-      "raw_hot": 243846,
-      "num": 243846,
-      "word": "杨幂带猫咪跳flower",
-      "onboard_time": 1712659519,
-      "rank": 19,
-      "category": "艺人"
     },
     {
       "raw_hot": 243742,
@@ -15339,6 +15347,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 197969,
+      "num": 223358,
+      "word": "种地吧第二季",
+      "onboard_time": 1712661320,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 197815,
       "num": 197815,
       "word": "诺米",
@@ -15545,14 +15561,6 @@
       "onboard_time": 1712229259,
       "rank": 49,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 195989,
-      "num": 195989,
-      "word": "贡菜为何成为火锅店顶流",
-      "onboard_time": 1712658919,
-      "rank": 49,
-      "category": "美食"
     },
     {
       "raw_hot": 195984,
@@ -16792,6 +16800,14 @@
       "word": "张婧仪明媚",
       "onboard_time": 1712305697,
       "rank": 33,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 185771,
+      "num": 185771,
+      "word": "刘亦菲六套造型",
+      "onboard_time": 1712661438,
+      "rank": 25,
       "category": "作品衍生"
     },
     {
@@ -19539,6 +19555,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 153410,
+      "num": 153410,
+      "word": "不亚于图书馆30秒的外卖评价",
+      "onboard_time": 1712659278,
+      "rank": 33,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 153404,
       "num": 153404,
       "word": "何与真不拿大家当外人",
@@ -19585,14 +19609,6 @@
       "onboard_time": 1712586561,
       "rank": 45,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 153054,
-      "num": 153054,
-      "word": "不亚于图书馆30秒的外卖评价",
-      "onboard_time": 1712659278,
-      "rank": 33,
-      "category": "幽默"
     },
     {
       "raw_hot": 153024,
@@ -19769,6 +19785,14 @@
       "onboard_time": 1712123840,
       "rank": 47,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 151636,
+      "num": 151636,
+      "word": "白羊座肯放过自己",
+      "onboard_time": 1712659699,
+      "rank": 40,
+      "category": "情感"
     },
     {
       "raw_hot": 151567,
@@ -21403,14 +21427,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 134560,
-      "num": 134560,
-      "word": "白羊座肯放过自己",
-      "onboard_time": 1712659699,
-      "rank": 40,
-      "category": "情感"
-    },
-    {
       "raw_hot": 134536,
       "num": 134536,
       "word": "i人打扮成黑皮辣妹接外甥",
@@ -22723,6 +22739,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 116182,
+      "num": 116182,
+      "word": "北大版霍格沃茨",
+      "onboard_time": 1712662399,
+      "rank": 41,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 116147,
       "num": 994112,
       "word": "藏在古建筑里的春天",
@@ -23849,6 +23873,14 @@
       "onboard_time": 1712613971,
       "rank": 48,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 74411,
+      "num": 155755,
+      "word": "背篓爷爷奶奶4点起床运动员式赶路",
+      "onboard_time": 1712662098,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 73804,
@@ -25019,6 +25051,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 18552,
+      "num": 142990,
+      "word": "王腾和数码闲聊站不是一个人",
+      "onboard_time": 1712660659,
+      "rank": 36,
+      "category": "数码"
+    },
+    {
       "raw_hot": 18220,
       "num": 133923,
       "word": "2024云拜祖正确打开方式",
@@ -25105,14 +25145,6 @@
       "onboard_time": 1712088130,
       "rank": 44,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 13603,
-      "num": 142990,
-      "word": "王腾和数码闲聊站不是一个人",
-      "onboard_time": 1712660659,
-      "rank": 36,
-      "category": "数码"
     },
     {
       "raw_hot": 13345,
