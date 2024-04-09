@@ -1,0 +1,410 @@
+{
+  "runTime": 1712650909050,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1612615,
+        "num": 1612615,
+        "word": "黄磊首谈儿子",
+        "onboard_time": 1712648238,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 808707,
+        "num": 808707,
+        "word": "暴雪 回归",
+        "onboard_time": 1712626219,
+        "rank": 1,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 64859,
+        "num": 659675,
+        "word": "把感动中国的故事写成一首歌",
+        "onboard_time": 1712634019,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 558353,
+        "num": 558353,
+        "word": "王俊凯 演唱会",
+        "onboard_time": 1712649499,
+        "rank": 3,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 501137,
+        "num": 501137,
+        "word": "月薪三万的家庭主妇",
+        "onboard_time": 1712643859,
+        "rank": 4,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 424043,
+        "num": 424043,
+        "word": "卜凡说再来一次不会参加偶练",
+        "onboard_time": 1712647159,
+        "rank": 5,
+        "category": "综艺,时尚"
+      },
+      {
+        "raw_hot": 394274,
+        "num": 394274,
+        "word": "刘昊然否认和陈思诚绑定",
+        "onboard_time": 1712639900,
+        "rank": 6,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 382575,
+        "num": 382575,
+        "word": "杨紫牛骏峰吻戏被打断",
+        "onboard_time": 1712646139,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 351213,
+        "num": 351213,
+        "word": "云南一村庄20多头牛离奇死亡",
+        "onboard_time": 1712647579,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 309907,
+        "num": 309907,
+        "word": "王者荣耀 库洛米",
+        "onboard_time": 1712650220,
+        "rank": 9,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 1054938,
+        "num": 309880,
+        "word": "淘宝买到假茅台官方拒绝10倍赔偿",
+        "onboard_time": 1712645900,
+        "rank": 10,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 772555,
+        "num": 307231,
+        "word": "章若楠原名",
+        "onboard_time": 1712649919,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 381630,
+        "num": 306119,
+        "word": "chiikawa作者年收入52亿日元",
+        "onboard_time": 1712631798,
+        "rank": 12,
+        "category": "动漫,作品衍生"
+      },
+      {
+        "raw_hot": 368635,
+        "num": 302938,
+        "word": "赵露思吊带皮裙",
+        "onboard_time": 1712644999,
+        "rank": 13,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 333870,
+        "num": 301025,
+        "word": "白玉兰奖入围名单5月公布",
+        "onboard_time": 1712650699,
+        "rank": 14,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 300816,
+        "num": 300816,
+        "word": "比亚迪卖一辆车净赚9000元",
+        "onboard_time": 1712633540,
+        "rank": 15,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 331630,
+        "num": 300718,
+        "word": "迪丽热巴路透",
+        "onboard_time": 1712646319,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 313150,
+        "num": 300300,
+        "word": "吴镇宇回应费曼上热搜",
+        "onboard_time": 1712647038,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 290229,
+        "num": 299937,
+        "word": "以色列为何突然撤军",
+        "onboard_time": 1712648059,
+        "rank": 18,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 243333,
+        "num": 299656,
+        "word": "金价大涨打乱备婚计划",
+        "onboard_time": 1712650459,
+        "rank": 19,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 211254,
+        "num": 299075,
+        "word": "省考成绩",
+        "onboard_time": 1712638159,
+        "rank": 20,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 312519,
+        "num": 298565,
+        "word": "给妈妈买了套房该写谁的名",
+        "onboard_time": 1712647400,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 310199,
+        "num": 298223,
+        "word": "长沙一学生疑被老师殴打后跳楼去世",
+        "onboard_time": 1712640141,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 298159,
+        "num": 298159,
+        "word": "王者三丽鸥联动第二弹",
+        "onboard_time": 1712649318,
+        "rank": 23,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 285266,
+        "num": 285266,
+        "word": "杨紫请国色芳华全组吃汉堡",
+        "onboard_time": 1712646079,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 272955,
+        "num": 272955,
+        "word": "男子与女子未领证分手近20万彩礼退3万",
+        "onboard_time": 1712643859,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 265263,
+        "num": 265263,
+        "word": "刘亦菲又缝衣服了",
+        "onboard_time": 1712636599,
+        "rank": 26,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 262383,
+        "num": 262383,
+        "word": "小县城躺平真的太安逸了",
+        "onboard_time": 1712646381,
+        "rank": 27,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 262197,
+        "num": 262197,
+        "word": "一辈子都没有这周长",
+        "onboard_time": 1712648300,
+        "rank": 28,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 189470,
+        "num": 228904,
+        "word": "1个蛋糕1万5老板收巨额订单报警",
+        "onboard_time": 1712649798,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 224274,
+        "num": 224274,
+        "word": "欧阳娜娜归来仍才23岁",
+        "onboard_time": 1712636419,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 194387,
+        "num": 194387,
+        "word": "无畏说总不能被打倒",
+        "onboard_time": 1712650279,
+        "rank": 31,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 183247,
+        "num": 183247,
+        "word": "在图书馆吃个饭回来题被做了",
+        "onboard_time": 1712648358,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 175100,
+        "num": 175100,
+        "word": "明日方舟 阿斯卡纶",
+        "onboard_time": 1712650279,
+        "rank": 33,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 171491,
+        "num": 171491,
+        "word": "被女朋友的防溅油操作秀到了",
+        "onboard_time": 1712650220,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 169895,
+        "num": 169895,
+        "word": "为什么不建议早上洗头",
+        "onboard_time": 1712639722,
+        "rank": 35,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 168757,
+        "num": 168757,
+        "word": "向佐评论费曼",
+        "onboard_time": 1712626939,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 159177,
+        "num": 159177,
+        "word": "不知道自己存钱的意义",
+        "onboard_time": 1712649678,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 155977,
+        "num": 155977,
+        "word": "来公司面试的人好像是个工贼",
+        "onboard_time": 1712650159,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 153859,
+        "num": 153859,
+        "word": "笑点低的人当不了法官",
+        "onboard_time": 1712648658,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 149231,
+        "num": 149231,
+        "word": "虐猫考生该懂的不是舆论而是敬畏生命",
+        "onboard_time": 1712628558,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 143524,
+        "num": 143524,
+        "word": "易烊千玺 丹麦",
+        "onboard_time": 1712633959,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 142685,
+        "num": 142685,
+        "word": "于正怼曾舜晞粉丝",
+        "onboard_time": 1712642780,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 139009,
+        "num": 139009,
+        "word": "官方回应男子淘宝买到假茅台",
+        "onboard_time": 1712649020,
+        "rank": 43,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 129778,
+        "num": 129778,
+        "word": "健身真的能改变一个人的脸型吗",
+        "onboard_time": 1712649080,
+        "rank": 44,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 59909,
+        "num": 126761,
+        "word": "极氪007大黄零百实测3.03秒",
+        "onboard_time": 1712650699,
+        "rank": 45,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 115605,
+        "num": 125691,
+        "word": "成都迪士尼禁止唱歌只能拍照",
+        "onboard_time": 1712644459,
+        "rank": 46,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 124862,
+        "num": 124862,
+        "word": "老乡鸡公开供应商信息意味着什么",
+        "onboard_time": 1712644819,
+        "rank": 47,
+        "category": "美食,社会新闻"
+      },
+      {
+        "raw_hot": 109858,
+        "num": 118594,
+        "word": "男孩玩游戏充值2万父亲连扇自己耳光",
+        "onboard_time": 1712640561,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 117718,
+        "num": 117718,
+        "word": "周翊然重庆vlog",
+        "onboard_time": 1712650877,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平会见越南国会主席#"
+    }
+  }
+}
