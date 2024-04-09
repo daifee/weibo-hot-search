@@ -1,6 +1,6 @@
 {
   "startTime": 1712593429256,
-  "endTime": 1712659032093,
+  "endTime": 1712661285793,
   "band_list": [
     {
       "raw_hot": 2371874,
@@ -419,6 +419,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 520024,
+      "num": 520024,
+      "word": "多邻国 花粉症",
+      "onboard_time": 1712659220,
+      "rank": 4,
+      "category": "教育"
+    },
+    {
       "raw_hot": 504654,
       "num": 504654,
       "word": "迪丽热巴路透",
@@ -539,6 +547,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 460583,
+      "num": 366996,
+      "word": "林更新说45岁星玥三搭",
+      "onboard_time": 1712657061,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 460390,
       "num": 463151,
       "word": "省考成绩",
@@ -641,14 +657,6 @@
       "onboard_time": 1712647159,
       "rank": 23,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 422628,
-      "num": 313461,
-      "word": "林更新说45岁星玥三搭",
-      "onboard_time": 1712657061,
-      "rank": 17,
-      "category": "剧集"
     },
     {
       "raw_hot": 419703,
@@ -795,6 +803,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 363556,
+      "num": 363556,
+      "word": "智己汽车再次向小米道歉",
+      "onboard_time": 1712657538,
+      "rank": 26,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 356662,
       "num": 356662,
       "word": "于正怼曾舜晞粉丝",
@@ -899,14 +915,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 314261,
-      "num": 314261,
-      "word": "智己汽车再次向小米道歉",
-      "onboard_time": 1712657538,
-      "rank": 26,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 312725,
       "num": 312725,
       "word": "毛不易 内娱贝爷",
@@ -929,6 +937,14 @@
       "onboard_time": 1712655559,
       "rank": 16,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 308949,
+      "num": 308949,
+      "word": "澳门男子及女子世界杯2024",
+      "onboard_time": 1712658680,
+      "rank": 25,
+      "category": "体育"
     },
     {
       "raw_hot": 307540,
@@ -1147,6 +1163,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 249047,
+      "num": 445662,
+      "word": "00后帅哥送锦旗民警看了差点没绷住",
+      "onboard_time": 1712656220,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 248498,
       "num": 248498,
       "word": "成都迪士尼已经开始出周边了",
@@ -1169,6 +1193,14 @@
       "onboard_time": 1712633540,
       "rank": 42,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 243846,
+      "num": 243846,
+      "word": "杨幂带猫咪跳flower",
+      "onboard_time": 1712659519,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 243506,
@@ -1217,14 +1249,6 @@
       "onboard_time": 1712587522,
       "rank": 21,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 233990,
-      "num": 445662,
-      "word": "00后帅哥送锦旗民警看了差点没绷住",
-      "onboard_time": 1712656220,
-      "rank": 7,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 233248,
@@ -1459,14 +1483,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 204031,
-      "num": 254547,
-      "word": "澳门男子及女子世界杯2024",
-      "onboard_time": 1712658680,
-      "rank": 25,
-      "category": "体育"
-    },
-    {
       "raw_hot": 203873,
       "num": 203873,
       "word": "王源演唱会获批",
@@ -1553,6 +1569,14 @@
       "onboard_time": 1712647400,
       "rank": 30,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 195989,
+      "num": 195989,
+      "word": "贡菜为何成为火锅店顶流",
+      "onboard_time": 1712658919,
+      "rank": 49,
+      "category": "美食"
     },
     {
       "raw_hot": 195497,
@@ -1699,6 +1723,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 181967,
+      "num": 181967,
+      "word": "卢昱晓 角色反差度",
+      "onboard_time": 1712659039,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 181878,
       "num": 181878,
       "word": "杨紫麦承欢定妆",
@@ -1827,6 +1859,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 164181,
+      "num": 164181,
+      "word": "叶文洁的回旋镖正中眉心",
+      "onboard_time": 1712660058,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 163775,
       "num": 163775,
       "word": "来公司面试的人好像是个工贼",
@@ -1896,6 +1936,14 @@
       "word": "笑点低的人当不了法官",
       "onboard_time": 1712648658,
       "rank": 39,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 153054,
+      "num": 153054,
+      "word": "不亚于图书馆30秒的外卖评价",
+      "onboard_time": 1712659278,
+      "rank": 33,
       "category": "幽默"
     },
     {
@@ -2035,6 +2083,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 137043,
+      "num": 137043,
+      "word": "银河左岸音乐节官宣",
+      "onboard_time": 1712660000,
+      "rank": 38,
+      "category": "演出"
+    },
+    {
       "raw_hot": 136895,
       "num": 136895,
       "word": "花十万买数字藏品成废品",
@@ -2067,12 +2123,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 135567,
+      "num": 135567,
+      "word": "蔡依林广东煲汤vlog",
+      "onboard_time": 1712659278,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 134677,
       "num": 992981,
       "word": "感动中国2023年度人物",
       "onboard_time": 1712582179,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 134560,
+      "num": 134560,
+      "word": "白羊座肯放过自己",
+      "onboard_time": 1712659699,
+      "rank": 40,
+      "category": "情感"
     },
     {
       "raw_hot": 134248,
@@ -2209,14 +2281,6 @@
       "onboard_time": 1712592380,
       "rank": 37,
       "category": "幽默,艺人"
-    },
-    {
-      "raw_hot": 118331,
-      "num": 118331,
-      "word": "贡菜为何成为火锅店顶流",
-      "onboard_time": 1712658919,
-      "rank": 49,
-      "category": "美食"
     },
     {
       "raw_hot": 117934,
@@ -2436,7 +2500,7 @@
     },
     {
       "raw_hot": 77251,
-      "num": 154106,
+      "num": 171862,
       "word": "猎鹰突击队用实力说话",
       "onboard_time": 1712658919,
       "rank": 39,
@@ -2593,6 +2657,14 @@
       "onboard_time": 1712603651,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 13603,
+      "num": 142990,
+      "word": "王腾和数码闲聊站不是一个人",
+      "onboard_time": 1712660659,
+      "rank": 36,
+      "category": "数码"
     }
   ],
   "hotgov_list": [

@@ -1,6 +1,6 @@
 {
   "startTime": 1712420539476,
-  "endTime": 1712659032093,
+  "endTime": 1712661285793,
   "band_list": [
     {
       "raw_hot": 9583581,
@@ -1803,6 +1803,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 520024,
+      "num": 520024,
+      "word": "多邻国 花粉症",
+      "onboard_time": 1712659220,
+      "rank": 4,
+      "category": "教育"
+    },
+    {
       "raw_hot": 519154,
       "num": 519154,
       "word": "这4种食物是尿毒症的加速器",
@@ -2147,6 +2155,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 460583,
+      "num": 366996,
+      "word": "林更新说45岁星玥三搭",
+      "onboard_time": 1712657061,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 458842,
       "num": 295203,
       "word": "5天年假折现了6千多",
@@ -2417,14 +2433,6 @@
       "onboard_time": 1712472858,
       "rank": 14,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 422628,
-      "num": 313461,
-      "word": "林更新说45岁星玥三搭",
-      "onboard_time": 1712657061,
-      "rank": 17,
-      "category": "剧集"
     },
     {
       "raw_hot": 421165,
@@ -2785,6 +2793,14 @@
       "onboard_time": 1712581879,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 363556,
+      "num": 363556,
+      "word": "智己汽车再次向小米道歉",
+      "onboard_time": 1712657538,
+      "rank": 26,
+      "category": "汽车"
     },
     {
       "raw_hot": 362039,
@@ -3163,14 +3179,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 314261,
-      "num": 314261,
-      "word": "智己汽车再次向小米道歉",
-      "onboard_time": 1712657538,
-      "rank": 26,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 313945,
       "num": 288932,
       "word": "男子质疑餐厅免费编小辫顾客不能优先",
@@ -3233,6 +3241,14 @@
       "onboard_time": 1712655559,
       "rank": 16,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 308949,
+      "num": 308949,
+      "word": "澳门男子及女子世界杯2024",
+      "onboard_time": 1712658680,
+      "rank": 25,
+      "category": "体育"
     },
     {
       "raw_hot": 308833,
@@ -3963,6 +3979,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 249047,
+      "num": 445662,
+      "word": "00后帅哥送锦旗民警看了差点没绷住",
+      "onboard_time": 1712656220,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 248498,
       "num": 248498,
       "word": "成都迪士尼已经开始出周边了",
@@ -4041,6 +4065,14 @@
       "onboard_time": 1712633540,
       "rank": 42,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 243846,
+      "num": 243846,
+      "word": "杨幂带猫咪跳flower",
+      "onboard_time": 1712659519,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 243506,
@@ -4241,14 +4273,6 @@
       "onboard_time": 1712474119,
       "rank": 24,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 233990,
-      "num": 445662,
-      "word": "00后帅哥送锦旗民警看了差点没绷住",
-      "onboard_time": 1712656220,
-      "rank": 7,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 233248,
@@ -4955,14 +4979,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 204031,
-      "num": 254547,
-      "word": "澳门男子及女子世界杯2024",
-      "onboard_time": 1712658680,
-      "rank": 25,
-      "category": "体育"
-    },
-    {
       "raw_hot": 203883,
       "num": 203883,
       "word": "单炮豌豆 双炮豌豆",
@@ -5305,6 +5321,14 @@
       "onboard_time": 1712568560,
       "rank": 38,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 195989,
+      "num": 195989,
+      "word": "贡菜为何成为火锅店顶流",
+      "onboard_time": 1712658919,
+      "rank": 49,
+      "category": "美食"
     },
     {
       "raw_hot": 195497,
@@ -5819,6 +5843,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 181967,
+      "num": 181967,
+      "word": "卢昱晓 角色反差度",
+      "onboard_time": 1712659039,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 181878,
       "num": 181878,
       "word": "杨紫麦承欢定妆",
@@ -6291,6 +6323,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 164181,
+      "num": 164181,
+      "word": "叶文洁的回旋镖正中眉心",
+      "onboard_time": 1712660058,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 164017,
       "num": 164017,
       "word": "笑梗不笑人 诺米真男人",
@@ -6553,6 +6593,14 @@
       "onboard_time": 1712586561,
       "rank": 45,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 153054,
+      "num": 153054,
+      "word": "不亚于图书馆30秒的外卖评价",
+      "onboard_time": 1712659278,
+      "rank": 33,
+      "category": "幽默"
     },
     {
       "raw_hot": 153024,
@@ -7019,6 +7067,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 137043,
+      "num": 137043,
+      "word": "银河左岸音乐节官宣",
+      "onboard_time": 1712660000,
+      "rank": 38,
+      "category": "演出"
+    },
+    {
       "raw_hot": 137022,
       "num": 137022,
       "word": "KPL赛程",
@@ -7083,6 +7139,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 135567,
+      "num": 135567,
+      "word": "蔡依林广东煲汤vlog",
+      "onboard_time": 1712659278,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 135015,
       "num": 135015,
       "word": "皮肤科医生教你如何正确防晒",
@@ -7097,6 +7161,14 @@
       "onboard_time": 1712486417,
       "rank": 44,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 134560,
+      "num": 134560,
+      "word": "白羊座肯放过自己",
+      "onboard_time": 1712659699,
+      "rank": 40,
+      "category": "情感"
     },
     {
       "raw_hot": 134248,
@@ -7651,14 +7723,6 @@
       "category": "幽默,艺人"
     },
     {
-      "raw_hot": 118331,
-      "num": 118331,
-      "word": "贡菜为何成为火锅店顶流",
-      "onboard_time": 1712658919,
-      "rank": 49,
-      "category": "美食"
-    },
-    {
       "raw_hot": 117934,
       "num": 117934,
       "word": "湖南省考成绩",
@@ -8068,7 +8132,7 @@
     },
     {
       "raw_hot": 77251,
-      "num": 154106,
+      "num": 171862,
       "word": "猎鹰突击队用实力说话",
       "onboard_time": 1712658919,
       "rank": 39,
@@ -8521,6 +8585,14 @@
       "onboard_time": 1712429591,
       "rank": 49,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 13603,
+      "num": 142990,
+      "word": "王腾和数码闲聊站不是一个人",
+      "onboard_time": 1712660659,
+      "rank": 36,
+      "category": "数码"
     },
     {
       "raw_hot": 11572,
