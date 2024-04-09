@@ -1,0 +1,410 @@
+{
+  "runTime": 1712651669428,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1568704,
+        "num": 1568704,
+        "word": "黄磊首谈儿子",
+        "onboard_time": 1712648238,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 840121,
+        "num": 840121,
+        "word": "暴雪 回归",
+        "onboard_time": 1712626219,
+        "rank": 1,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 59520,
+        "num": 686034,
+        "word": "把感动中国的故事写成一首歌",
+        "onboard_time": 1712634019,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1153076,
+        "num": 680175,
+        "word": "章若楠原名",
+        "onboard_time": 1712649919,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 664833,
+        "num": 664833,
+        "word": "王者荣耀 库洛米",
+        "onboard_time": 1712650220,
+        "rank": 4,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 582046,
+        "num": 582046,
+        "word": "金价大涨打乱备婚计划",
+        "onboard_time": 1712650459,
+        "rank": 5,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 520377,
+        "num": 520377,
+        "word": "王俊凯 演唱会",
+        "onboard_time": 1712649499,
+        "rank": 6,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 436451,
+        "num": 436451,
+        "word": "月薪三万的家庭主妇",
+        "onboard_time": 1712643859,
+        "rank": 7,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 419427,
+        "num": 419427,
+        "word": "白玉兰奖入围名单5月公布",
+        "onboard_time": 1712650699,
+        "rank": 8,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 329569,
+        "num": 384709,
+        "word": "云南一村庄20多头牛离奇死亡",
+        "onboard_time": 1712647579,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 888439,
+        "num": 380010,
+        "word": "淘宝买到假茅台官方拒绝10倍赔偿",
+        "onboard_time": 1712645900,
+        "rank": 10,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 373874,
+        "num": 373874,
+        "word": "卜凡说再来一次不会参加偶练",
+        "onboard_time": 1712647159,
+        "rank": 11,
+        "category": "综艺,时尚"
+      },
+      {
+        "raw_hot": 344619,
+        "num": 344619,
+        "word": "赵露思吊带皮裙",
+        "onboard_time": 1712644999,
+        "rank": 12,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 322769,
+        "num": 322769,
+        "word": "杨紫牛骏峰吻戏被打断",
+        "onboard_time": 1712646139,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 70598,
+        "num": 320997,
+        "word": "极氪007大黄零百实测3.03秒",
+        "onboard_time": 1712650699,
+        "rank": 14,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 320311,
+        "num": 320311,
+        "word": "刘昊然否认和陈思诚绑定",
+        "onboard_time": 1712639900,
+        "rank": 15,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 308876,
+        "num": 308876,
+        "word": "迪丽热巴路透",
+        "onboard_time": 1712646319,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 360406,
+        "num": 299498,
+        "word": "chiikawa作者年收入52亿日元",
+        "onboard_time": 1712631798,
+        "rank": 17,
+        "category": "动漫,作品衍生"
+      },
+      {
+        "raw_hot": 283068,
+        "num": 283068,
+        "word": "比亚迪卖一辆车净赚9000元",
+        "onboard_time": 1712633540,
+        "rank": 18,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 261243,
+        "num": 279134,
+        "word": "以色列为何突然撤军",
+        "onboard_time": 1712648059,
+        "rank": 19,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 301318,
+        "num": 279056,
+        "word": "给妈妈买了套房该写谁的名",
+        "onboard_time": 1712647400,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 278917,
+        "num": 278917,
+        "word": "王者三丽鸥联动第二弹",
+        "onboard_time": 1712649318,
+        "rank": 21,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 270459,
+        "num": 270459,
+        "word": "1个蛋糕1万5老板收巨额订单报警",
+        "onboard_time": 1712649798,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 263178,
+        "num": 263178,
+        "word": "吴镇宇回应费曼上热搜",
+        "onboard_time": 1712647038,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 258531,
+        "num": 258531,
+        "word": "刘亦菲又缝衣服了",
+        "onboard_time": 1712636599,
+        "rank": 24,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 258342,
+        "num": 258342,
+        "word": "长沙一学生疑被老师殴打后跳楼去世",
+        "onboard_time": 1712640141,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 245475,
+        "num": 245475,
+        "word": "一辈子都没有这周长",
+        "onboard_time": 1712648300,
+        "rank": 26,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 236728,
+        "num": 236728,
+        "word": "小县城躺平真的太安逸了",
+        "onboard_time": 1712646381,
+        "rank": 27,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 230179,
+        "num": 230179,
+        "word": "男子与女子未领证分手近20万彩礼退3万",
+        "onboard_time": 1712643859,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 223706,
+        "num": 223706,
+        "word": "杨紫请国色芳华全组吃汉堡",
+        "onboard_time": 1712646079,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 221726,
+        "num": 221726,
+        "word": "陈赫直播回应撮合林更新赵丽颖",
+        "onboard_time": 1712651359,
+        "rank": 30,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 207079,
+        "num": 207079,
+        "word": "欧阳娜娜归来仍才23岁",
+        "onboard_time": 1712636419,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 186817,
+        "num": 186817,
+        "word": "被女朋友的防溅油操作秀到了",
+        "onboard_time": 1712650220,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 167847,
+        "num": 167847,
+        "word": "省考成绩",
+        "onboard_time": 1712638159,
+        "rank": 33,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 163775,
+        "num": 163775,
+        "word": "来公司面试的人好像是个工贼",
+        "onboard_time": 1712650159,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 158180,
+        "num": 158180,
+        "word": "向佐评论费曼",
+        "onboard_time": 1712626939,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 155665,
+        "num": 155665,
+        "word": "在图书馆吃个饭回来题被做了",
+        "onboard_time": 1712648358,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 150331,
+        "num": 150331,
+        "word": "为什么不建议早上洗头",
+        "onboard_time": 1712639722,
+        "rank": 37,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 147403,
+        "num": 147403,
+        "word": "哇啦哇啦",
+        "onboard_time": 1712651180,
+        "rank": 38,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 47370,
+        "num": 142232,
+        "word": "Q1手机激活量前三都是国产品牌",
+        "onboard_time": 1712651180,
+        "rank": 39,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 138196,
+        "num": 138196,
+        "word": "易烊千玺 丹麦",
+        "onboard_time": 1712633959,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 137393,
+        "num": 137393,
+        "word": "不知道自己存钱的意义",
+        "onboard_time": 1712649678,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 133605,
+        "num": 133605,
+        "word": "虐猫考生该懂的不是舆论而是敬畏生命",
+        "onboard_time": 1712628558,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 128363,
+        "num": 128363,
+        "word": "朱婷国家队得分王",
+        "onboard_time": 1712651238,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 120102,
+        "num": 120102,
+        "word": "打工人开始追求电子养生",
+        "onboard_time": 1712651238,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 118196,
+        "num": 118196,
+        "word": "于正怼曾舜晞粉丝",
+        "onboard_time": 1712642780,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 114953,
+        "num": 114953,
+        "word": "笑点低的人当不了法官",
+        "onboard_time": 1712648658,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 112012,
+        "num": 112012,
+        "word": "明日方舟 阿斯卡纶",
+        "onboard_time": 1712650279,
+        "rank": 47,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 97034,
+        "num": 111299,
+        "word": "男孩玩游戏充值2万父亲连扇自己耳光",
+        "onboard_time": 1712640561,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 90437,
+        "num": 111117,
+        "word": "成都迪士尼禁止唱歌只能拍照",
+        "onboard_time": 1712644459,
+        "rank": 49,
+        "category": "作品衍生"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平会见越南国会主席#"
+    }
+  }
+}

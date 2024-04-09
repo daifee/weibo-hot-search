@@ -1,6 +1,6 @@
 {
   "startTime": 1712420539476,
-  "endTime": 1712650909050,
+  "endTime": 1712651669428,
   "band_list": [
     {
       "raw_hot": 9583581,
@@ -499,6 +499,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 1153076,
+      "num": 680175,
+      "word": "章若楠原名",
+      "onboard_time": 1712649919,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1128422,
       "num": 1128422,
       "word": "chiikawa作者",
@@ -931,14 +939,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 772555,
-      "num": 307231,
-      "word": "章若楠原名",
-      "onboard_time": 1712649919,
-      "rank": 11,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 771307,
       "num": 630411,
       "word": "相恋10年供女友考研男子已去世",
@@ -1227,6 +1227,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 664833,
+      "num": 664833,
+      "word": "王者荣耀 库洛米",
+      "onboard_time": 1712650220,
+      "rank": 9,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 661570,
       "num": 661570,
       "word": "宫崎骏 再见了我的朋友",
@@ -1481,6 +1489,14 @@
       "onboard_time": 1712471658,
       "rank": 8,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 582046,
+      "num": 582046,
+      "word": "金价大涨打乱备婚计划",
+      "onboard_time": 1712650459,
+      "rank": 19,
+      "category": "财经"
     },
     {
       "raw_hot": 580614,
@@ -2347,6 +2363,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 419427,
+      "num": 419427,
+      "word": "白玉兰奖入围名单5月公布",
+      "onboard_time": 1712650699,
+      "rank": 14,
+      "category": "电影"
+    },
+    {
       "raw_hot": 418547,
       "num": 418547,
       "word": "想当行长男孩父亲所在支行回应",
@@ -2716,7 +2740,7 @@
     },
     {
       "raw_hot": 351213,
-      "num": 351213,
+      "num": 384709,
       "word": "云南一村庄20多头牛离奇死亡",
       "onboard_time": 1712647579,
       "rank": 39,
@@ -2865,14 +2889,6 @@
       "onboard_time": 1712543359,
       "rank": 33,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 333870,
-      "num": 301025,
-      "word": "白玉兰奖入围名单5月公布",
-      "onboard_time": 1712650699,
-      "rank": 14,
-      "category": "电影"
     },
     {
       "raw_hot": 333821,
@@ -3073,14 +3089,6 @@
       "onboard_time": 1712545040,
       "rank": 25,
       "category": "情感"
-    },
-    {
-      "raw_hot": 309907,
-      "num": 309907,
-      "word": "王者荣耀 库洛米",
-      "onboard_time": 1712650220,
-      "rank": 9,
-      "category": "游戏"
     },
     {
       "raw_hot": 308833,
@@ -3465,6 +3473,14 @@
       "onboard_time": 1712458099,
       "rank": 23,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 270459,
+      "num": 270459,
+      "word": "1个蛋糕1万5老板收巨额订单报警",
+      "onboard_time": 1712649798,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 269400,
@@ -3867,14 +3883,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 243333,
-      "num": 299656,
-      "word": "金价大涨打乱备婚计划",
-      "onboard_time": 1712650459,
-      "rank": 19,
-      "category": "财经"
-    },
-    {
       "raw_hot": 242991,
       "num": 242991,
       "word": "王阳25岁至46岁颜值变化",
@@ -4273,6 +4281,14 @@
       "onboard_time": 1712503459,
       "rank": 30,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 221726,
+      "num": 221726,
+      "word": "陈赫直播回应撮合林更新赵丽颖",
+      "onboard_time": 1712651359,
+      "rank": 30,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 221062,
@@ -5275,14 +5291,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 189470,
-      "num": 228904,
-      "word": "1个蛋糕1万5老板收巨额订单报警",
-      "onboard_time": 1712649798,
-      "rank": 29,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 188758,
       "num": 188758,
       "word": "白宇34岁状态",
@@ -5361,6 +5369,14 @@
       "onboard_time": 1712589858,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 186817,
+      "num": 186817,
+      "word": "被女朋友的防溅油操作秀到了",
+      "onboard_time": 1712650220,
+      "rank": 34,
+      "category": "幽默"
     },
     {
       "raw_hot": 186237,
@@ -5843,14 +5859,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 171491,
-      "num": 171491,
-      "word": "被女朋友的防溅油操作秀到了",
-      "onboard_time": 1712650220,
-      "rank": 34,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 170823,
       "num": 170823,
       "word": "孤雁",
@@ -6009,6 +6017,14 @@
       "onboard_time": 1712466381,
       "rank": 39,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 163775,
+      "num": 163775,
+      "word": "来公司面试的人好像是个工贼",
+      "onboard_time": 1712650159,
+      "rank": 38,
+      "category": "幽默"
     },
     {
       "raw_hot": 163555,
@@ -6187,14 +6203,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 155977,
-      "num": 155977,
-      "word": "来公司面试的人好像是个工贼",
-      "onboard_time": 1712650159,
-      "rank": 38,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 155850,
       "num": 155850,
       "word": "EXO12周年留言",
@@ -6369,6 +6377,14 @@
       "onboard_time": 1712462841,
       "rank": 49,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 147403,
+      "num": 147403,
+      "word": "哇啦哇啦",
+      "onboard_time": 1712651180,
+      "rank": 38,
+      "category": "电影"
     },
     {
       "raw_hot": 147337,
@@ -6987,6 +7003,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 128363,
+      "num": 128363,
+      "word": "朱婷国家队得分王",
+      "onboard_time": 1712651238,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 128360,
       "num": 128360,
       "word": "钻戒市场开始背叛爱情了",
@@ -7225,6 +7249,14 @@
       "onboard_time": 1712467879,
       "rank": 46,
       "category": "电影"
+    },
+    {
+      "raw_hot": 120102,
+      "num": 120102,
+      "word": "打工人开始追求电子养生",
+      "onboard_time": 1712651238,
+      "rank": 44,
+      "category": "幽默"
     },
     {
       "raw_hot": 120053,
@@ -7731,6 +7763,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 70598,
+      "num": 320997,
+      "word": "极氪007大黄零百实测3.03秒",
+      "onboard_time": 1712650699,
+      "rank": 45,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 69958,
       "num": 69958,
       "word": "王红权星说红了之后被排斥",
@@ -7772,7 +7812,7 @@
     },
     {
       "raw_hot": 64859,
-      "num": 659675,
+      "num": 686034,
       "word": "把感动中国的故事写成一首歌",
       "onboard_time": 1712634019,
       "rank": 2,
@@ -7801,14 +7841,6 @@
       "onboard_time": 1712403618,
       "rank": 39,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 59909,
-      "num": 126761,
-      "word": "极氪007大黄零百实测3.03秒",
-      "onboard_time": 1712650699,
-      "rank": 45,
-      "category": "汽车"
     },
     {
       "raw_hot": 59373,
@@ -7873,6 +7905,14 @@
       "onboard_time": 1712427012,
       "rank": 30,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 47370,
+      "num": 142232,
+      "word": "Q1手机激活量前三都是国产品牌",
+      "onboard_time": 1712651180,
+      "rank": 39,
+      "category": "数码"
     },
     {
       "raw_hot": 47175,
