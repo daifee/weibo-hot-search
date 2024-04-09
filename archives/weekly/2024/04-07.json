@@ -1,6 +1,6 @@
 {
   "startTime": 1712420539476,
-  "endTime": 1712679647281,
+  "endTime": 1712680673197,
   "band_list": [
     {
       "raw_hot": 9583581,
@@ -4675,6 +4675,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 233413,
+      "num": 233413,
+      "word": "刘耀文 有我这口就有你一口",
+      "onboard_time": 1712678118,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 233248,
       "num": 233248,
       "word": "我牵着我的女人走了啊",
@@ -5113,14 +5121,6 @@
       "onboard_time": 1712499079,
       "rank": 41,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 212196,
-      "num": 212196,
-      "word": "刘耀文 有我这口就有你一口",
-      "onboard_time": 1712678118,
-      "rank": 16,
-      "category": "综艺"
     },
     {
       "raw_hot": 211851,
@@ -6859,6 +6859,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 166090,
+      "num": 157882,
+      "word": "看脸就知道你心脏好不好",
+      "onboard_time": 1712677757,
+      "rank": 26,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 166023,
       "num": 161139,
       "word": "沈图南杀了林樵松",
@@ -7099,14 +7107,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 157882,
-      "num": 157882,
-      "word": "看脸就知道你心脏好不好",
-      "onboard_time": 1712677757,
-      "rank": 26,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 157778,
       "num": 157778,
       "word": "成龙张艺兴合影旧照",
@@ -7123,20 +7123,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 156598,
+      "num": 156384,
+      "word": "韩国变美四件套",
+      "onboard_time": 1712678357,
+      "rank": 30,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 156577,
       "num": 156577,
       "word": "于适滞空飞起拍照",
       "onboard_time": 1712559259,
       "rank": 42,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 156384,
-      "num": 156384,
-      "word": "韩国变美四件套",
-      "onboard_time": 1712678357,
-      "rank": 30,
-      "category": "美妆"
     },
     {
       "raw_hot": 156339,
@@ -8659,6 +8659,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 98078,
+      "num": 98078,
+      "word": "上班恶心穿搭遇上退休精致穿搭",
+      "onboard_time": 1712675540,
+      "rank": 49,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 97128,
       "num": 97128,
       "word": "眼泪女王预告",
@@ -8745,6 +8753,14 @@
       "onboard_time": 1712416521,
       "rank": 29,
       "category": "体育"
+    },
+    {
+      "raw_hot": 87086,
+      "num": 87086,
+      "word": "逆水寒手游",
+      "onboard_time": 1712680036,
+      "rank": 42,
+      "category": "游戏"
     },
     {
       "raw_hot": 86089,
@@ -8913,14 +8929,6 @@
       "onboard_time": 1712432831,
       "rank": 22,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 70802,
-      "num": 76920,
-      "word": "上班恶心穿搭遇上退休精致穿搭",
-      "onboard_time": 1712675540,
-      "rank": 49,
-      "category": "时尚"
     },
     {
       "raw_hot": 70631,
