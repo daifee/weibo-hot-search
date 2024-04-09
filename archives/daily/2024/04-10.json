@@ -1,6 +1,6 @@
 {
   "startTime": 1712679647281,
-  "endTime": 1712698470142,
+  "endTime": 1712700979426,
   "band_list": [
     {
       "raw_hot": 1126395,
@@ -243,6 +243,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 149965,
+      "num": 64662,
+      "word": "长沙通报一初中生在校坠楼",
+      "onboard_time": 1712697131,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 144491,
       "num": 144491,
       "word": "销售回复孙坚包包掉漆掉毛",
@@ -323,12 +331,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 105029,
+      "num": 64591,
+      "word": "央广网评婚丧办酒必须报备",
+      "onboard_time": 1712687472,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 104058,
       "num": 104058,
       "word": "黄多多已经18岁了",
       "onboard_time": 1712665400,
       "rank": 39,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 101841,
+      "num": 101841,
+      "word": "男子要求每天加夜班民警察觉不对劲抓捕一名逃犯",
+      "onboard_time": 1712695450,
+      "rank": 26,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 101299,
@@ -459,20 +483,28 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 63297,
-      "num": 46153,
-      "word": "央广网评婚丧办酒必须报备",
-      "onboard_time": 1712687472,
-      "rank": 29,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 58802,
       "num": 58802,
       "word": "承欢记",
       "onboard_time": 1712662579,
       "rank": 39,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 50332,
+      "num": 50332,
+      "word": "爸爸开家长会睡着女儿将其写进作文",
+      "onboard_time": 1712694850,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 44043,
+      "num": 64721,
+      "word": "无锡女子越南丢钱包竟在苏州找回",
+      "onboard_time": 1712690291,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 43800,
@@ -491,14 +523,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 40489,
-      "num": 40489,
-      "word": "无锡女子越南丢钱包竟在苏州找回",
-      "onboard_time": 1712690291,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 36071,
       "num": 710729,
       "word": "70秒看祖国大地春意盎然",
@@ -507,11 +531,19 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 31919,
-      "num": 31919,
-      "word": "爸爸开家长会睡着女儿将其写进作文",
-      "onboard_time": 1712694850,
-      "rank": 48,
+      "raw_hot": 32923,
+      "num": 32923,
+      "word": "福宝应该称花花为表姨外祖母",
+      "onboard_time": 1712695690,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 32752,
+      "num": 32752,
+      "word": "本年度首个龙年龙月龙日龙时",
+      "onboard_time": 1712691250,
+      "rank": 49,
       "category": "社会新闻"
     },
     {
@@ -531,14 +563,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 23571,
-      "num": 23571,
-      "word": "长沙通报一初中生在校坠楼",
-      "onboard_time": 1712697131,
-      "rank": 45,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 23427,
       "num": 28301,
       "word": "春日cityhappy计划",
@@ -555,22 +579,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 22424,
-      "num": 22424,
-      "word": "福宝应该称花花为表姨外祖母",
-      "onboard_time": 1712695690,
-      "rank": 26,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 22348,
-      "num": 22348,
-      "word": "男子要求每天加夜班民警察觉不对劲抓捕一名逃犯",
-      "onboard_time": 1712695450,
-      "rank": 26,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 20421,
       "num": 26487,
       "word": "黄奕李冰冰新疆滑雪偶遇",
@@ -579,12 +587,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 20278,
-      "num": 20278,
-      "word": "本年度首个龙年龙月龙日龙时",
-      "onboard_time": 1712691250,
-      "rank": 49,
-      "category": "社会新闻"
+      "raw_hot": 20159,
+      "num": 26104,
+      "word": "王者荣耀 酷洛米",
+      "onboard_time": 1712650220,
+      "rank": 48,
+      "category": "游戏"
     },
     {
       "raw_hot": 19976,
@@ -596,19 +604,19 @@
     },
     {
       "raw_hot": 19918,
-      "num": 19918,
+      "num": 26089,
       "word": "小狗表达歉意的方式",
       "onboard_time": 1712688191,
       "rank": 39,
       "category": "幽默"
     },
     {
-      "raw_hot": 18294,
-      "num": 18294,
-      "word": "王者荣耀 酷洛米",
-      "onboard_time": 1712650220,
-      "rank": 48,
-      "category": "游戏"
+      "raw_hot": 19012,
+      "num": 26091,
+      "word": "汉服对一个普通人改变有多大",
+      "onboard_time": 1712695030,
+      "rank": 39,
+      "category": "时尚"
     },
     {
       "raw_hot": 17010,
@@ -625,14 +633,6 @@
       "onboard_time": 1712689871,
       "rank": 49,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 14479,
-      "num": 14479,
-      "word": "汉服对一个普通人改变有多大",
-      "onboard_time": 1712695030,
-      "rank": 39,
-      "category": "时尚"
     },
     {
       "raw_hot": 14336,
