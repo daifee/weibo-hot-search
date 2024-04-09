@@ -1,6 +1,6 @@
 {
   "startTime": 1711902044401,
-  "endTime": 1712658102587,
+  "endTime": 1712659032093,
   "band_list": [
     {
       "raw_hot": 16874674,
@@ -411,8 +411,8 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 1892556,
-      "num": 1892556,
+      "raw_hot": 1899233,
+      "num": 1899233,
       "word": "黄多多ins",
       "onboard_time": 1712656038,
       "rank": 0,
@@ -2051,6 +2051,14 @@
       "category": "互联网,社会新闻"
     },
     {
+      "raw_hot": 1012687,
+      "num": 1012687,
+      "word": "23岁女歌手因心力衰竭去世",
+      "onboard_time": 1712655738,
+      "rank": 1,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1012600,
       "num": 1012600,
       "word": "三十岁才会发现戴珍珠的美",
@@ -2233,14 +2241,6 @@
       "onboard_time": 1712104052,
       "rank": 13,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 943302,
-      "num": 943302,
-      "word": "23岁女歌手因心力衰竭去世",
-      "onboard_time": 1712655738,
-      "rank": 1,
-      "category": "艺人"
     },
     {
       "raw_hot": 941767,
@@ -4051,6 +4051,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 653407,
+      "num": 653407,
+      "word": "林更新回应34岁拍仙侠",
+      "onboard_time": 1712656821,
+      "rank": 9,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 653302,
       "num": 653302,
       "word": "陈建斌 我一定超过其他窝囊废",
@@ -5473,14 +5481,6 @@
       "onboard_time": 1712445496,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 531306,
-      "num": 431242,
-      "word": "林更新回应34岁拍仙侠",
-      "onboard_time": 1712656821,
-      "rank": 9,
-      "category": "剧集"
     },
     {
       "raw_hot": 531120,
@@ -7331,6 +7331,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 422628,
+      "num": 313461,
+      "word": "林更新说45岁星玥三搭",
+      "onboard_time": 1712657061,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 421427,
       "num": 421427,
       "word": "张杰发了十年前的自己",
@@ -8193,6 +8201,14 @@
       "onboard_time": 1712125582,
       "rank": 22,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 378816,
+      "num": 279462,
+      "word": "同事发现老板偷看聊天记录离职了",
+      "onboard_time": 1712654720,
+      "rank": 26,
+      "category": "幽默"
     },
     {
       "raw_hot": 378528,
@@ -9611,6 +9627,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 314261,
+      "num": 314261,
+      "word": "智己汽车再次向小米道歉",
+      "onboard_time": 1712657538,
+      "rank": 26,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 313945,
       "num": 288932,
       "word": "男子质疑餐厅免费编小辫顾客不能优先",
@@ -9897,14 +9921,6 @@
       "onboard_time": 1712132601,
       "rank": 25,
       "category": "电竞,网红"
-    },
-    {
-      "raw_hot": 305910,
-      "num": 305910,
-      "word": "林更新说45岁星玥三搭",
-      "onboard_time": 1712657061,
-      "rank": 17,
-      "category": "剧集"
     },
     {
       "raw_hot": 305791,
@@ -11225,14 +11241,6 @@
       "onboard_time": 1712113642,
       "rank": 34,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 264296,
-      "num": 264296,
-      "word": "同事发现老板偷看聊天记录离职了",
-      "onboard_time": 1712654720,
-      "rank": 26,
-      "category": "幽默"
     },
     {
       "raw_hot": 264287,
@@ -12723,6 +12731,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 233990,
+      "num": 445662,
+      "word": "00后帅哥送锦旗民警看了差点没绷住",
+      "onboard_time": 1712656220,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 233934,
       "num": 2059298,
       "word": "有一种叫云南的生活",
@@ -12785,6 +12801,14 @@
       "onboard_time": 1712080633,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 232294,
+      "num": 232294,
+      "word": "林娜琏将6月solo回归",
+      "onboard_time": 1712657841,
+      "rank": 31,
+      "category": "音乐"
     },
     {
       "raw_hot": 232086,
@@ -13235,14 +13259,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 223881,
-      "num": 223881,
-      "word": "智己汽车再次向小米道歉",
-      "onboard_time": 1712657538,
-      "rank": 26,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 223863,
       "num": 223863,
       "word": "吴镇宇 挣的都是精神损失费",
@@ -13289,14 +13305,6 @@
       "onboard_time": 1712654479,
       "rank": 27,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 223365,
-      "num": 445662,
-      "word": "00后帅哥送锦旗民警看了差点没绷住",
-      "onboard_time": 1712656220,
-      "rank": 7,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 223230,
@@ -13353,6 +13361,14 @@
       "onboard_time": 1712503459,
       "rank": 30,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 222427,
+      "num": 222427,
+      "word": "劝朋友别轻易辞职被拉黑了",
+      "onboard_time": 1712653459,
+      "rank": 38,
+      "category": "情感"
     },
     {
       "raw_hot": 222298,
@@ -14635,6 +14651,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 204031,
+      "num": 254547,
+      "word": "澳门男子及女子世界杯2024",
+      "onboard_time": 1712658680,
+      "rank": 25,
+      "category": "体育"
+    },
+    {
       "raw_hot": 204028,
       "num": 204028,
       "word": "宋茜山河枕路透",
@@ -14945,6 +14969,14 @@
       "onboard_time": 1711956380,
       "rank": 47,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 201367,
+      "num": 201367,
+      "word": "辛芷蕾工作室 爱她护她",
+      "onboard_time": 1712658201,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 201338,
@@ -15425,14 +15457,6 @@
       "onboard_time": 1712132660,
       "rank": 39,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 196844,
-      "num": 196844,
-      "word": "劝朋友别轻易辞职被拉黑了",
-      "onboard_time": 1712653459,
-      "rank": 38,
-      "category": "情感"
     },
     {
       "raw_hot": 196556,
@@ -16211,14 +16235,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 190271,
-      "num": 190271,
-      "word": "林娜琏将6月solo回归",
-      "onboard_time": 1712657841,
-      "rank": 31,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 190093,
       "num": 190093,
       "word": "因为查寝不在辅导员让我退学",
@@ -16361,6 +16377,14 @@
       "onboard_time": 1712414360,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 189113,
+      "num": 189113,
+      "word": "萧亚轩被寄威胁信",
+      "onboard_time": 1712658438,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 188981,
@@ -22195,6 +22219,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 122431,
+      "num": 122431,
+      "word": "大学生为什么老想着攒钱",
+      "onboard_time": 1712657480,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 122039,
       "num": 122039,
       "word": "CBA常规赛奖项公布",
@@ -22217,14 +22249,6 @@
       "onboard_time": 1712294957,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 121546,
-      "num": 121546,
-      "word": "大学生为什么老想着攒钱",
-      "onboard_time": 1712657480,
-      "rank": 48,
-      "category": "幽默"
     },
     {
       "raw_hot": 121457,
@@ -22489,6 +22513,14 @@
       "onboard_time": 1712369117,
       "rank": 42,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 118331,
+      "num": 118331,
+      "word": "贡菜为何成为火锅店顶流",
+      "onboard_time": 1712658919,
+      "rank": 49,
+      "category": "美食"
     },
     {
       "raw_hot": 118311,
@@ -23697,6 +23729,14 @@
       "onboard_time": 1712404458,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 77251,
+      "num": 154106,
+      "word": "猎鹰突击队用实力说话",
+      "onboard_time": 1712658919,
+      "rank": 39,
+      "category": "军事"
     },
     {
       "raw_hot": 76451,

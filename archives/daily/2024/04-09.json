@@ -1,6 +1,6 @@
 {
   "startTime": 1712593429256,
-  "endTime": 1712658102587,
+  "endTime": 1712659032093,
   "band_list": [
     {
       "raw_hot": 2371874,
@@ -11,8 +11,8 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 1892556,
-      "num": 1892556,
+      "raw_hot": 1899233,
+      "num": 1899233,
       "word": "黄多多ins",
       "onboard_time": 1712656038,
       "rank": 0,
@@ -171,6 +171,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 1012687,
+      "num": 1012687,
+      "word": "23岁女歌手因心力衰竭去世",
+      "onboard_time": 1712655738,
+      "rank": 1,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 977909,
       "num": 977909,
       "word": "张元英连转两次圈",
@@ -192,14 +200,6 @@
       "word": "鹿晗起诉莆田鞋帽商家",
       "onboard_time": 1712629638,
       "rank": 31,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 943302,
-      "num": 943302,
-      "word": "23岁女歌手因心力衰竭去世",
-      "onboard_time": 1712655738,
-      "rank": 1,
       "category": "艺人"
     },
     {
@@ -307,6 +307,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 653407,
+      "num": 653407,
+      "word": "林更新回应34岁拍仙侠",
+      "onboard_time": 1712656821,
+      "rank": 9,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 628169,
       "num": 628169,
       "word": "刘亦菲又缝衣服了",
@@ -409,14 +417,6 @@
       "onboard_time": 1712577619,
       "rank": 11,
       "category": "科学科普"
-    },
-    {
-      "raw_hot": 531306,
-      "num": 431242,
-      "word": "林更新回应34岁拍仙侠",
-      "onboard_time": 1712656821,
-      "rank": 9,
-      "category": "剧集"
     },
     {
       "raw_hot": 504654,
@@ -643,6 +643,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 422628,
+      "num": 313461,
+      "word": "林更新说45岁星玥三搭",
+      "onboard_time": 1712657061,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 419703,
       "num": 419703,
       "word": "孙坚吐槽奢侈品包质量问题",
@@ -745,6 +753,14 @@
       "onboard_time": 1712641640,
       "rank": 7,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 378816,
+      "num": 279462,
+      "word": "同事发现老板偷看聊天记录离职了",
+      "onboard_time": 1712654720,
+      "rank": 26,
+      "category": "幽默"
     },
     {
       "raw_hot": 377416,
@@ -883,6 +899,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 314261,
+      "num": 314261,
+      "word": "智己汽车再次向小米道歉",
+      "onboard_time": 1712657538,
+      "rank": 26,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 312725,
       "num": 312725,
       "word": "毛不易 内娱贝爷",
@@ -921,14 +945,6 @@
       "onboard_time": 1712631077,
       "rank": 25,
       "category": "情感"
-    },
-    {
-      "raw_hot": 305910,
-      "num": 305910,
-      "word": "林更新说45岁星玥三搭",
-      "onboard_time": 1712657061,
-      "rank": 17,
-      "category": "剧集"
     },
     {
       "raw_hot": 305115,
@@ -1057,14 +1073,6 @@
       "onboard_time": 1712586681,
       "rank": 20,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 264296,
-      "num": 264296,
-      "word": "同事发现老板偷看聊天记录离职了",
-      "onboard_time": 1712654720,
-      "rank": 26,
-      "category": "幽默"
     },
     {
       "raw_hot": 264060,
@@ -1211,12 +1219,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 233990,
+      "num": 445662,
+      "word": "00后帅哥送锦旗民警看了差点没绷住",
+      "onboard_time": 1712656220,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 233248,
       "num": 233248,
       "word": "我牵着我的女人走了啊",
       "onboard_time": 1712638339,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 232294,
+      "num": 232294,
+      "word": "林娜琏将6月solo回归",
+      "onboard_time": 1712657841,
+      "rank": 31,
+      "category": "音乐"
     },
     {
       "raw_hot": 232040,
@@ -1267,28 +1291,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 223881,
-      "num": 223881,
-      "word": "智己汽车再次向小米道歉",
-      "onboard_time": 1712657538,
-      "rank": 26,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 223469,
       "num": 223469,
       "word": "张艺兴专辑",
       "onboard_time": 1712654479,
       "rank": 27,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 223365,
-      "num": 445662,
-      "word": "00后帅哥送锦旗民警看了差点没绷住",
-      "onboard_time": 1712656220,
-      "rank": 7,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 223230,
@@ -1305,6 +1313,14 @@
       "onboard_time": 1712621419,
       "rank": 32,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 222427,
+      "num": 222427,
+      "word": "劝朋友别轻易辞职被拉黑了",
+      "onboard_time": 1712653459,
+      "rank": 38,
+      "category": "情感"
     },
     {
       "raw_hot": 221333,
@@ -1443,6 +1459,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 204031,
+      "num": 254547,
+      "word": "澳门男子及女子世界杯2024",
+      "onboard_time": 1712658680,
+      "rank": 25,
+      "category": "体育"
+    },
+    {
       "raw_hot": 203873,
       "num": 203873,
       "word": "王源演唱会获批",
@@ -1473,6 +1497,14 @@
       "onboard_time": 1712618475,
       "rank": 17,
       "category": "情感"
+    },
+    {
+      "raw_hot": 201367,
+      "num": 201367,
+      "word": "辛芷蕾工作室 爱她护她",
+      "onboard_time": 1712658201,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 200431,
@@ -1523,14 +1555,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 196844,
-      "num": 196844,
-      "word": "劝朋友别轻易辞职被拉黑了",
-      "onboard_time": 1712653459,
-      "rank": 38,
-      "category": "情感"
-    },
-    {
       "raw_hot": 195497,
       "num": 195497,
       "word": "宫崎骏 世上的相遇都是久别重逢",
@@ -1579,14 +1603,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 190271,
-      "num": 190271,
-      "word": "林娜琏将6月solo回归",
-      "onboard_time": 1712657841,
-      "rank": 31,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 189962,
       "num": 189962,
       "word": "吴磊 文艺片票房",
@@ -1601,6 +1617,14 @@
       "onboard_time": 1712585182,
       "rank": 25,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 189113,
+      "num": 189113,
+      "word": "萧亚轩被寄威胁信",
+      "onboard_time": 1712658438,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 186817,
@@ -2147,8 +2171,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 121546,
-      "num": 121546,
+      "raw_hot": 122431,
+      "num": 122431,
       "word": "大学生为什么老想着攒钱",
       "onboard_time": 1712657480,
       "rank": 48,
@@ -2185,6 +2209,14 @@
       "onboard_time": 1712592380,
       "rank": 37,
       "category": "幽默,艺人"
+    },
+    {
+      "raw_hot": 118331,
+      "num": 118331,
+      "word": "贡菜为何成为火锅店顶流",
+      "onboard_time": 1712658919,
+      "rank": 49,
+      "category": "美食"
     },
     {
       "raw_hot": 117934,
@@ -2401,6 +2433,14 @@
       "onboard_time": 1712583381,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 77251,
+      "num": 154106,
+      "word": "猎鹰突击队用实力说话",
+      "onboard_time": 1712658919,
+      "rank": 39,
+      "category": "军事"
     },
     {
       "raw_hot": 74718,
