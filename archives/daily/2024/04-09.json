@@ -1,6 +1,6 @@
 {
   "startTime": 1712593429256,
-  "endTime": 1712668741043,
+  "endTime": 1712669705471,
   "band_list": [
     {
       "raw_hot": 2371874,
@@ -67,20 +67,20 @@
       "category": "财经,时尚"
     },
     {
+      "raw_hot": 1312834,
+      "num": 1312834,
+      "word": "11年前狂购黄金的中国大妈解套了",
+      "onboard_time": 1712664620,
+      "rank": 3,
+      "category": "财经"
+    },
+    {
       "raw_hot": 1302440,
       "num": 1302440,
       "word": "赵丽颖提议的删掉父女相认戏台词",
       "onboard_time": 1712619137,
       "rank": 39,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 1270988,
-      "num": 1270988,
-      "word": "11年前狂购黄金的中国大妈解套了",
-      "onboard_time": 1712664620,
-      "rank": 3,
-      "category": "财经"
     },
     {
       "raw_hot": 1255532,
@@ -499,6 +499,22 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 539601,
+      "num": 539601,
+      "word": "承欢记富二代装穷骗女友3年",
+      "onboard_time": 1712667560,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 514626,
+      "num": 514626,
+      "word": "迁西县委书记李贵富被查",
+      "onboard_time": 1712667678,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 504654,
       "num": 504654,
       "word": "迪丽热巴路透",
@@ -667,6 +683,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 452342,
+      "num": 452342,
+      "word": "张杰唱爱了很久一定会分开",
+      "onboard_time": 1712669059,
+      "rank": 10,
+      "category": "演出"
+    },
+    {
       "raw_hot": 449560,
       "num": 449560,
       "word": "周雨彤 一次醉酒换来一生内向",
@@ -771,6 +795,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 412586,
+      "num": 412586,
+      "word": "网易回应男孩玩蛋仔派对充上万元",
+      "onboard_time": 1712667319,
+      "rank": 18,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 406840,
       "num": 406840,
       "word": "鞠婧祎演技",
@@ -816,6 +848,14 @@
       "word": "1个蛋糕1万5老板收巨额订单报警",
       "onboard_time": 1712649798,
       "rank": 29,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 395378,
+      "num": 395378,
+      "word": "举报县委领导被逮捕事件22人被问责",
+      "onboard_time": 1712667919,
+      "rank": 30,
       "category": "社会新闻"
     },
     {
@@ -915,14 +955,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 369547,
-      "num": 369547,
-      "word": "迁西县委书记李贵富被查",
-      "onboard_time": 1712667678,
-      "rank": 12,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 356662,
       "num": 356662,
       "word": "于正怼曾舜晞粉丝",
@@ -996,7 +1028,7 @@
     },
     {
       "raw_hot": 335687,
-      "num": 258433,
+      "num": 258447,
       "word": "经常熬夜的六个好处",
       "onboard_time": 1712664738,
       "rank": 21,
@@ -1017,6 +1049,14 @@
       "onboard_time": 1712590638,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 330802,
+      "num": 330802,
+      "word": "纪凌尘让宁静叫他chen",
+      "onboard_time": 1712668638,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 321659,
@@ -1131,14 +1171,6 @@
       "category": "游戏,互联网"
     },
     {
-      "raw_hot": 291906,
-      "num": 291906,
-      "word": "承欢记富二代装穷骗女友3年",
-      "onboard_time": 1712667560,
-      "rank": 17,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 290229,
       "num": 299937,
       "word": "以色列为何突然撤军",
@@ -1193,14 +1225,6 @@
       "onboard_time": 1712619137,
       "rank": 18,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 278718,
-      "num": 278718,
-      "word": "网易回应男孩玩蛋仔派对充上万元",
-      "onboard_time": 1712667319,
-      "rank": 18,
-      "category": "游戏"
     },
     {
       "raw_hot": 277917,
@@ -1264,6 +1288,14 @@
       "word": "一辈子都没有这周长",
       "onboard_time": 1712648300,
       "rank": 28,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 260536,
+      "num": 260536,
+      "word": "韩男真的好会提供情绪价值",
+      "onboard_time": 1712664138,
+      "rank": 36,
       "category": "情感"
     },
     {
@@ -1363,6 +1395,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 245545,
+      "num": 245545,
+      "word": "当你考研中途休息了一周后",
+      "onboard_time": 1712669121,
+      "rank": 24,
+      "category": "情感"
+    },
+    {
       "raw_hot": 244296,
       "num": 238676,
       "word": "许凯配音",
@@ -1417,14 +1457,6 @@
       "onboard_time": 1712628678,
       "rank": 25,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 236971,
-      "num": 236971,
-      "word": "韩男真的好会提供情绪价值",
-      "onboard_time": 1712664138,
-      "rank": 36,
-      "category": "情感"
     },
     {
       "raw_hot": 236086,
@@ -1555,20 +1587,20 @@
       "category": "电影"
     },
     {
-      "raw_hot": 220182,
-      "num": 220182,
-      "word": "举报县委领导被逮捕事件22人被问责",
-      "onboard_time": 1712667919,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 218310,
       "num": 218310,
       "word": "鸿蒙智行回应雷军",
       "onboard_time": 1712666421,
       "rank": 37,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 218150,
+      "num": 218150,
+      "word": "许凯演技",
+      "onboard_time": 1712667500,
+      "rank": 33,
+      "category": "剧集"
     },
     {
       "raw_hot": 217066,
@@ -1667,14 +1699,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 206100,
-      "num": 206100,
-      "word": "许凯演技",
-      "onboard_time": 1712667500,
-      "rank": 33,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 205176,
       "num": 205176,
       "word": "5A级颈区",
@@ -1721,6 +1745,14 @@
       "onboard_time": 1712636899,
       "rank": 47,
       "category": "数码"
+    },
+    {
+      "raw_hot": 202394,
+      "num": 202394,
+      "word": "白敬亭难哄路透生图",
+      "onboard_time": 1712668339,
+      "rank": 35,
+      "category": "剧集"
     },
     {
       "raw_hot": 201454,
@@ -1827,20 +1859,20 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 193086,
+      "num": 193086,
+      "word": "宋亚轩丁程鑫合照",
+      "onboard_time": 1712668759,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 192257,
       "num": 512166,
       "word": "全球最长寿朱鹮今天38岁啦",
       "onboard_time": 1712654059,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 191753,
-      "num": 191753,
-      "word": "白敬亭难哄路透生图",
-      "onboard_time": 1712668339,
-      "rank": 35,
-      "category": "剧集"
     },
     {
       "raw_hot": 191207,
@@ -1945,6 +1977,14 @@
       "onboard_time": 1712646919,
       "rank": 43,
       "category": "数码"
+    },
+    {
+      "raw_hot": 184198,
+      "num": 354742,
+      "word": "极氪001实测续航超580公里",
+      "onboard_time": 1712665759,
+      "rank": 46,
+      "category": "汽车"
     },
     {
       "raw_hot": 183247,
@@ -2100,7 +2140,7 @@
     },
     {
       "raw_hot": 165730,
-      "num": 221916,
+      "num": 226014,
       "word": "专家分析金价上涨原因",
       "onboard_time": 1712664138,
       "rank": 29,
@@ -2307,6 +2347,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 145190,
+      "num": 145190,
+      "word": "天瑞水泥",
+      "onboard_time": 1712669121,
+      "rank": 43,
+      "category": "财经"
+    },
+    {
       "raw_hot": 144674,
       "num": 144674,
       "word": "半熟恋人",
@@ -2331,20 +2379,20 @@
       "category": "教育"
     },
     {
+      "raw_hot": 143381,
+      "num": 143381,
+      "word": "向佐约费曼回香港吃饭",
+      "onboard_time": 1712669538,
+      "rank": 45,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 143242,
       "num": 143242,
       "word": "时代少年团 特权码",
       "onboard_time": 1712655199,
       "rank": 48,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 142283,
-      "num": 302014,
-      "word": "极氪001实测续航超580公里",
-      "onboard_time": 1712665759,
-      "rank": 46,
-      "category": "汽车"
     },
     {
       "raw_hot": 142208,
@@ -2537,14 +2585,6 @@
       "onboard_time": 1712580679,
       "rank": 35,
       "category": "情感"
-    },
-    {
-      "raw_hot": 125933,
-      "num": 125933,
-      "word": "纪凌尘让宁静叫他chen",
-      "onboard_time": 1712668638,
-      "rank": 48,
-      "category": "综艺"
     },
     {
       "raw_hot": 125338,
@@ -2923,6 +2963,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 49327,
+      "num": 830964,
+      "word": "70秒看祖国大地春意盎然",
+      "onboard_time": 1712667678,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 45789,
       "num": 52459,
       "word": "金智媛生图",
@@ -2953,14 +3001,6 @@
       "onboard_time": 1712597593,
       "rank": 49,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 34913,
-      "num": 830964,
-      "word": "70秒看祖国大地春意盎然",
-      "onboard_time": 1712667678,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 28039,
