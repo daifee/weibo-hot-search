@@ -1,6 +1,6 @@
 {
   "startTime": 1712420539476,
-  "endTime": 1712639826628,
+  "endTime": 1712640848832,
   "band_list": [
     {
       "raw_hot": 9583581,
@@ -1171,6 +1171,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 665213,
+      "num": 665213,
+      "word": "刘昊然回应燃冬评论",
+      "onboard_time": 1712639959,
+      "rank": 4,
+      "category": "电影"
+    },
+    {
       "raw_hot": 661570,
       "num": 661570,
       "word": "宫崎骏 再见了我的朋友",
@@ -1331,6 +1339,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 609636,
+      "num": 427044,
+      "word": "刘昊然否认和陈思诚绑定",
+      "onboard_time": 1712639900,
+      "rank": 11,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 607185,
       "num": 607185,
       "word": "刘亦菲高定粉裙",
@@ -1457,6 +1473,14 @@
       "onboard_time": 1712413700,
       "rank": 11,
       "category": "情感"
+    },
+    {
+      "raw_hot": 567725,
+      "num": 567725,
+      "word": "ZARA撤出中国市场系不实消息",
+      "onboard_time": 1712636298,
+      "rank": 28,
+      "category": "财经,时尚"
     },
     {
       "raw_hot": 565699,
@@ -1641,14 +1665,6 @@
       "onboard_time": 1712562438,
       "rank": 9,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 523085,
-      "num": 523085,
-      "word": "ZARA撤出中国市场系不实消息",
-      "onboard_time": 1712636298,
-      "rank": 28,
-      "category": "财经,时尚"
     },
     {
       "raw_hot": 521787,
@@ -2147,6 +2163,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 428857,
+      "num": 310547,
+      "word": "为什么通勤时间全算个人的",
+      "onboard_time": 1712637859,
+      "rank": 22,
+      "category": "情感"
+    },
+    {
       "raw_hot": 428196,
       "num": 428196,
       "word": "林更新曾是饶雪漫的书模",
@@ -2385,14 +2409,6 @@
       "onboard_time": 1712544919,
       "rank": 14,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 378141,
-      "num": 310547,
-      "word": "为什么通勤时间全算个人的",
-      "onboard_time": 1712637859,
-      "rank": 22,
-      "category": "情感"
     },
     {
       "raw_hot": 377416,
@@ -3051,6 +3067,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 291195,
+      "num": 291195,
+      "word": "50g金条净赚4000元",
+      "onboard_time": 1712637979,
+      "rank": 26,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 290036,
       "num": 218909,
       "word": "DK被零封",
@@ -3113,6 +3137,14 @@
       "onboard_time": 1712563518,
       "rank": 25,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 281457,
+      "num": 281457,
+      "word": "长沙一学生疑被老师殴打后跳楼去世",
+      "onboard_time": 1712640141,
+      "rank": 25,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 281351,
@@ -3267,6 +3299,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 266477,
+      "num": 266477,
+      "word": "为什么不建议早上洗头",
+      "onboard_time": 1712639722,
+      "rank": 42,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 265022,
       "num": 242705,
       "word": "小鬼朱正廷王子异直播",
@@ -3371,20 +3411,20 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 258523,
+      "num": 258523,
+      "word": "陈凯歌王一博或将合作",
+      "onboard_time": 1712639059,
+      "rank": 31,
+      "category": "电影"
+    },
+    {
       "raw_hot": 258446,
       "num": 258446,
       "word": "赵丽颖潦草小狗",
       "onboard_time": 1712620938,
       "rank": 27,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 258202,
-      "num": 258202,
-      "word": "50g金条净赚4000元",
-      "onboard_time": 1712637979,
-      "rank": 26,
-      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 257668,
@@ -3475,6 +3515,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 250707,
+      "num": 250707,
+      "word": "麦承欢小时候照片是杨紫本人",
+      "onboard_time": 1712638701,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 250676,
       "num": 250676,
       "word": "金莎孙丞潇去韩国了",
@@ -3497,6 +3545,14 @@
       "onboard_time": 1712629877,
       "rank": 36,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 248498,
+      "num": 248498,
+      "word": "成都迪士尼已经开始出周边了",
+      "onboard_time": 1712639660,
+      "rank": 34,
+      "category": "旅游,幽默"
     },
     {
       "raw_hot": 248160,
@@ -3545,14 +3601,6 @@
       "onboard_time": 1712483180,
       "rank": 25,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 245853,
-      "num": 245853,
-      "word": "陈凯歌王一博或将合作",
-      "onboard_time": 1712639059,
-      "rank": 31,
-      "category": "电影"
     },
     {
       "raw_hot": 244469,
@@ -3793,14 +3841,6 @@
       "onboard_time": 1712633657,
       "rank": 38,
       "category": "电影"
-    },
-    {
-      "raw_hot": 231795,
-      "num": 231795,
-      "word": "麦承欢小时候照片是杨紫本人",
-      "onboard_time": 1712638701,
-      "rank": 33,
-      "category": "剧集"
     },
     {
       "raw_hot": 231496,
@@ -4467,14 +4507,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 203113,
-      "num": 203113,
-      "word": "成都迪士尼已经开始出周边了",
-      "onboard_time": 1712639660,
-      "rank": 34,
-      "category": "旅游,幽默"
-    },
-    {
       "raw_hot": 203002,
       "num": 203002,
       "word": "天水官方回应开店卖麻辣烫",
@@ -4753,6 +4785,14 @@
       "onboard_time": 1712638101,
       "rank": 38,
       "category": "作品衍生,美妆"
+    },
+    {
+      "raw_hot": 195053,
+      "num": 195053,
+      "word": "男孩玩游戏充值2万父亲连扇自己耳光",
+      "onboard_time": 1712640561,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 194835,
@@ -5171,6 +5211,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 181559,
+      "num": 181559,
+      "word": "林允清水淡妆",
+      "onboard_time": 1712640681,
+      "rank": 42,
+      "category": "作品衍生,美妆"
+    },
+    {
       "raw_hot": 181435,
       "num": 181435,
       "word": "于东来称强制员工去取悦顾客是不道德的",
@@ -5411,14 +5459,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 172122,
-      "num": 172122,
-      "word": "为什么不建议早上洗头",
-      "onboard_time": 1712639722,
-      "rank": 42,
-      "category": "科学科普"
-    },
-    {
       "raw_hot": 172089,
       "num": 172089,
       "word": "为什么老人不喜欢套垃圾袋",
@@ -5561,6 +5601,14 @@
       "onboard_time": 1712496919,
       "rank": 48,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 165661,
+      "num": 165661,
+      "word": "剑网3发布赛事异常详情说明",
+      "onboard_time": 1712637740,
+      "rank": 43,
+      "category": "电竞"
     },
     {
       "raw_hot": 165510,
@@ -5985,6 +6033,14 @@
       "onboard_time": 1712626338,
       "rank": 49,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 144674,
+      "num": 144674,
+      "word": "半熟恋人",
+      "onboard_time": 1712639840,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 143752,
