@@ -1,6 +1,6 @@
 {
   "startTime": 1711902044401,
-  "endTime": 1712644525731,
+  "endTime": 1712647094706,
   "band_list": [
     {
       "raw_hot": 16874674,
@@ -2011,6 +2011,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 1010211,
+      "num": 556039,
+      "word": "月薪三万的家庭主妇",
+      "onboard_time": 1712643859,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 1006026,
       "num": 1006026,
       "word": "台湾花莲地震已致4死",
@@ -3348,7 +3356,7 @@
     },
     {
       "raw_hot": 717837,
-      "num": 356825,
+      "num": 410134,
       "word": "长沙一学生疑被老师殴打后跳楼去世",
       "onboard_time": 1712640141,
       "rank": 25,
@@ -6347,6 +6355,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 464318,
+      "num": 305869,
+      "word": "男子与女子未领证分手近20万彩礼退3万",
+      "onboard_time": 1712643859,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 463927,
       "num": 338213,
       "word": "张大大在天水麻辣烫店当服务员",
@@ -6899,6 +6915,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 432926,
+      "num": 432926,
+      "word": "杨紫牛骏峰吻戏被打断",
+      "onboard_time": 1712646139,
+      "rank": 5,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 432759,
       "num": 432759,
       "word": "张若昀站姐发了赵丽颖",
@@ -7147,6 +7171,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 422234,
+      "num": 422234,
+      "word": "赵露思吊带皮裙",
+      "onboard_time": 1712644999,
+      "rank": 6,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 421427,
       "num": 421427,
       "word": "张杰发了十年前的自己",
@@ -7377,6 +7409,14 @@
       "onboard_time": 1712377878,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 408962,
+      "num": 408962,
+      "word": "chiikawa作者年收入52亿日元",
+      "onboard_time": 1712631798,
+      "rank": 24,
+      "category": "动漫"
     },
     {
       "raw_hot": 407775,
@@ -7657,14 +7697,6 @@
       "onboard_time": 1712375478,
       "rank": 14,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 392637,
-      "num": 185519,
-      "word": "月薪三万的家庭主妇",
-      "onboard_time": 1712643859,
-      "rank": 30,
-      "category": "情感"
     },
     {
       "raw_hot": 392405,
@@ -8387,6 +8419,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 356662,
+      "num": 356662,
+      "word": "于正怼曾舜晞粉丝",
+      "onboard_time": 1712642780,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 356312,
       "num": 356312,
       "word": "白鹿罗云熙或三搭",
@@ -8587,6 +8627,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 346779,
+      "num": 346779,
+      "word": "淘宝买到假茅台官方拒绝10倍赔偿",
+      "onboard_time": 1712645900,
+      "rank": 14,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 346764,
       "num": 346764,
       "word": "余承东否认被下令禁提遥遥领先",
@@ -8643,6 +8691,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 344461,
+      "num": 344461,
+      "word": "迪丽热巴路透",
+      "onboard_time": 1712646319,
+      "rank": 15,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 344047,
       "num": 344047,
       "word": "大风致3人家中坠亡家属发声",
@@ -8657,14 +8713,6 @@
       "onboard_time": 1712631859,
       "rank": 26,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 343824,
-      "num": 237334,
-      "word": "男子与女子未领证分手近20万彩礼退3万",
-      "onboard_time": 1712643859,
-      "rank": 20,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 343312,
@@ -8888,14 +8936,6 @@
       "word": "张雨绮cos15年前的自己",
       "onboard_time": 1712543359,
       "rank": 33,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 334467,
-      "num": 334467,
-      "word": "于正怼曾舜晞粉丝",
-      "onboard_time": 1712642780,
-      "rank": 17,
       "category": "艺人"
     },
     {
@@ -9243,14 +9283,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 320323,
-      "num": 320323,
-      "word": "chiikawa作者年收入52亿日元",
-      "onboard_time": 1712631798,
-      "rank": 24,
-      "category": "动漫"
-    },
-    {
       "raw_hot": 320205,
       "num": 320205,
       "word": "全员加速中全员猎人",
@@ -9473,6 +9505,14 @@
       "onboard_time": 1712117363,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 310706,
+      "num": 310706,
+      "word": "杨紫请国色芳华全组吃汉堡",
+      "onboard_time": 1712646079,
+      "rank": 17,
+      "category": "剧集"
     },
     {
       "raw_hot": 310643,
@@ -9705,6 +9745,14 @@
       "onboard_time": 1712156541,
       "rank": 25,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 304936,
+      "num": 304936,
+      "word": "老乡鸡公开供应商信息意味着什么",
+      "onboard_time": 1712644819,
+      "rank": 21,
+      "category": "美食,社会新闻"
     },
     {
       "raw_hot": 304483,
@@ -11483,6 +11531,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 251572,
+      "num": 251572,
+      "word": "成都迪士尼禁止唱歌只能拍照",
+      "onboard_time": 1712644459,
+      "rank": 49,
+      "category": "旅游,社会新闻"
+    },
+    {
       "raw_hot": 251185,
       "num": 251185,
       "word": "为什么希望雷军生产卫生巾",
@@ -12145,6 +12201,14 @@
       "onboard_time": 1711932500,
       "rank": 26,
       "category": "美食"
+    },
+    {
+      "raw_hot": 239058,
+      "num": 239058,
+      "word": "小县城躺平真的太安逸了",
+      "onboard_time": 1712646381,
+      "rank": 26,
+      "category": "情感"
     },
     {
       "raw_hot": 238984,
@@ -13931,6 +13995,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 207297,
+      "num": 207297,
+      "word": "热辣滚烫网播定档",
+      "onboard_time": 1712644579,
+      "rank": 28,
+      "category": "电影"
+    },
+    {
       "raw_hot": 207253,
       "num": 207253,
       "word": "北京国安2比2上海海港",
@@ -14971,6 +15043,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 197222,
+      "num": 306979,
+      "word": "朱婷回来了",
+      "onboard_time": 1712646381,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
       "raw_hot": 197153,
       "num": 197153,
       "word": "KPL",
@@ -15161,6 +15241,14 @@
       "onboard_time": 1712632939,
       "rank": 41,
       "category": "电影"
+    },
+    {
+      "raw_hot": 195494,
+      "num": 195494,
+      "word": "有时以为感冒了其实是过敏",
+      "onboard_time": 1712644279,
+      "rank": 43,
+      "category": "科学科普"
     },
     {
       "raw_hot": 195453,
@@ -16531,6 +16619,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 182612,
+      "num": 182612,
+      "word": "王源二巡",
+      "onboard_time": 1712646139,
+      "rank": 32,
+      "category": "演出"
+    },
+    {
       "raw_hot": 182596,
       "num": 182596,
       "word": "我打宿傩",
@@ -17241,6 +17337,14 @@
       "onboard_time": 1712243240,
       "rank": 38,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 173876,
+      "num": 173876,
+      "word": "华为官宣春季沟通会时间",
+      "onboard_time": 1712644760,
+      "rank": 34,
+      "category": "汽车"
     },
     {
       "raw_hot": 173809,
@@ -18113,6 +18217,14 @@
       "onboard_time": 1712455217,
       "rank": 39,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 162099,
+      "num": 162099,
+      "word": "梗王费曼",
+      "onboard_time": 1712646679,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 162094,
@@ -19955,6 +20067,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 142284,
+      "num": 142284,
+      "word": "努比亚发布会",
+      "onboard_time": 1712646919,
+      "rank": 43,
+      "category": "数码"
+    },
+    {
       "raw_hot": 142067,
       "num": 142067,
       "word": "包贝尔近照",
@@ -20057,6 +20177,14 @@
       "onboard_time": 1712396117,
       "rank": 37,
       "category": "演出"
+    },
+    {
+      "raw_hot": 141311,
+      "num": 141311,
+      "word": "很多吃苦是没有意义的",
+      "onboard_time": 1712645838,
+      "rank": 44,
+      "category": "情感"
     },
     {
       "raw_hot": 141062,
@@ -20393,14 +20521,6 @@
       "onboard_time": 1712060060,
       "rank": 43,
       "category": "情感"
-    },
-    {
-      "raw_hot": 137295,
-      "num": 137295,
-      "word": "有时以为感冒了其实是过敏",
-      "onboard_time": 1712644279,
-      "rank": 43,
-      "category": "科学科普"
     },
     {
       "raw_hot": 137215,
@@ -21643,6 +21763,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 120776,
+      "num": 120776,
+      "word": "吴镇宇回应费曼上热搜",
+      "onboard_time": 1712647038,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 120544,
       "num": 120544,
       "word": "王者荣耀同人大片",
@@ -22169,14 +22297,6 @@
       "onboard_time": 1712366837,
       "rank": 42,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 111591,
-      "num": 136432,
-      "word": "成都迪士尼禁止唱歌只能拍照",
-      "onboard_time": 1712644459,
-      "rank": 49,
-      "category": "旅游,社会新闻"
     },
     {
       "raw_hot": 111511,
