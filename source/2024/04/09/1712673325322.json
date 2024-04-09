@@ -1,0 +1,410 @@
+{
+  "runTime": 1712673325322,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1171592,
+        "num": 1171592,
+        "word": "11年前狂购黄金的中国大妈解套了",
+        "onboard_time": 1712664620,
+        "rank": 0,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 883463,
+        "num": 883463,
+        "word": "纪凌尘让宁静叫他chen",
+        "onboard_time": 1712668638,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 55755,
+        "num": 830011,
+        "word": "70秒看祖国大地春意盎然",
+        "onboard_time": 1712667678,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 795863,
+        "num": 795863,
+        "word": "离职后旅居大理第二天想回家了",
+        "onboard_time": 1712669720,
+        "rank": 3,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 704729,
+        "num": 704729,
+        "word": "举报县委领导被逮捕事件22人被问责",
+        "onboard_time": 1712667919,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 647061,
+        "num": 647061,
+        "word": "张杰唱爱了很久一定会分开",
+        "onboard_time": 1712669059,
+        "rank": 5,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 637700,
+        "num": 637700,
+        "word": "肖战作品",
+        "onboard_time": 1712666778,
+        "rank": 6,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 561544,
+        "num": 561544,
+        "word": "徐海乔赵丽颖同用一个耳机",
+        "onboard_time": 1712664738,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 528101,
+        "num": 528101,
+        "word": "云南香格里拉发生4.7级地震",
+        "onboard_time": 1712672839,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 168473,
+        "num": 518866,
+        "word": "00后帅哥送锦旗民警看了差点没绷住",
+        "onboard_time": 1712656220,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 513198,
+        "num": 513198,
+        "word": "网易回应男孩玩蛋仔派对充上万元",
+        "onboard_time": 1712667319,
+        "rank": 10,
+        "category": "游戏,互联网"
+      },
+      {
+        "raw_hot": 503216,
+        "num": 503216,
+        "word": "承欢记收视率",
+        "onboard_time": 1712664738,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 470534,
+        "num": 470534,
+        "word": "碧苍王和她最爱的大锤子",
+        "onboard_time": 1712672239,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 425507,
+        "num": 425507,
+        "word": "承欢记富二代装穷骗女友3年",
+        "onboard_time": 1712667560,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 368117,
+        "num": 368117,
+        "word": "胡杏儿 古装久违了",
+        "onboard_time": 1712670200,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 337140,
+        "num": 337140,
+        "word": "林更新说45岁星玥三搭",
+        "onboard_time": 1712657061,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 326394,
+        "num": 326394,
+        "word": "十个勤天只能是十个勤天",
+        "onboard_time": 1712664138,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 316819,
+        "num": 316819,
+        "word": "多邻国 花粉症",
+        "onboard_time": 1712659220,
+        "rank": 17,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 314156,
+        "num": 314156,
+        "word": "韩男真的好会提供情绪价值",
+        "onboard_time": 1712664138,
+        "rank": 18,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 311493,
+        "num": 311493,
+        "word": "papi酱 关于小孩的疑问",
+        "onboard_time": 1712665100,
+        "rank": 19,
+        "category": "母婴育儿"
+      },
+      {
+        "raw_hot": 365948,
+        "num": 282940,
+        "word": "当我发现爸妈有60万存款时",
+        "onboard_time": 1712672119,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 351142,
+        "num": 279400,
+        "word": "婆婆总是倾向于用金钱来解决问题",
+        "onboard_time": 1712671940,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 254367,
+        "num": 254367,
+        "word": "经常熬夜的六个好处",
+        "onboard_time": 1712664738,
+        "rank": 22,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 249281,
+        "num": 249281,
+        "word": "暴雪",
+        "onboard_time": 1712671819,
+        "rank": 23,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 247404,
+        "num": 247404,
+        "word": "已经开始紧张了",
+        "onboard_time": 1712671099,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 234485,
+        "num": 234485,
+        "word": "1个动作改善黑眼圈",
+        "onboard_time": 1712672359,
+        "rank": 25,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 232135,
+        "num": 232135,
+        "word": "当你考研中途休息了一周后",
+        "onboard_time": 1712669121,
+        "rank": 26,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 227006,
+        "num": 227006,
+        "word": "赵小棠妈妈好像参加了变形计",
+        "onboard_time": 1712664320,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 222892,
+        "num": 222892,
+        "word": "审判承欢记",
+        "onboard_time": 1712664559,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 218964,
+        "num": 218964,
+        "word": "23岁女歌手因心力衰竭去世",
+        "onboard_time": 1712655738,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 200447,
+        "num": 200447,
+        "word": "承欢记热度",
+        "onboard_time": 1712670559,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 198766,
+        "num": 198766,
+        "word": "黄多多已经18岁了",
+        "onboard_time": 1712665400,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 184480,
+        "num": 184480,
+        "word": "港股中国天瑞水泥跌超99%",
+        "onboard_time": 1712672720,
+        "rank": 32,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 211851,
+        "num": 183507,
+        "word": "杨紫妈妈参加麦承欢订婚宴",
+        "onboard_time": 1712672600,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 158990,
+        "num": 180621,
+        "word": "迁西县委书记李贵富被查",
+        "onboard_time": 1712667678,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 179082,
+        "num": 179082,
+        "word": "陈赫直播回应撮合林更新赵丽颖",
+        "onboard_time": 1712651359,
+        "rank": 35,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 176242,
+        "num": 176242,
+        "word": "李栋旭在工作人员头上读剧本",
+        "onboard_time": 1712663058,
+        "rank": 36,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 176153,
+        "num": 176153,
+        "word": "减肥搭子把我删了",
+        "onboard_time": 1712664078,
+        "rank": 37,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 152086,
+        "num": 171355,
+        "word": "北京国安1比2深圳新鹏城",
+        "onboard_time": 1712671940,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 169641,
+        "num": 169641,
+        "word": "辛家亮 有九套房的小呆瓜",
+        "onboard_time": 1712673139,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 168329,
+        "num": 168329,
+        "word": "火星哥把林俊杰截掉了",
+        "onboard_time": 1712652739,
+        "rank": 40,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 150793,
+        "num": 150793,
+        "word": "河北省考 什么时候出",
+        "onboard_time": 1712669899,
+        "rank": 41,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 148881,
+        "num": 148881,
+        "word": "向佐约费曼回香港吃饭",
+        "onboard_time": 1712669538,
+        "rank": 42,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 148547,
+        "num": 148547,
+        "word": "檀健次金世佳猎罪图鉴2同框路透",
+        "onboard_time": 1712663478,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 148297,
+        "num": 148297,
+        "word": "白敬亭难哄路透生图",
+        "onboard_time": 1712668339,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 146586,
+        "num": 146586,
+        "word": "宋亚轩丁程鑫合照",
+        "onboard_time": 1712668759,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 130485,
+        "num": 130485,
+        "word": "山东泰山2比2河南队",
+        "onboard_time": 1712671701,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 130095,
+        "num": 130095,
+        "word": "哪些日常习惯会让胃越来越脆",
+        "onboard_time": 1712671459,
+        "rank": 47,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 126566,
+        "num": 126566,
+        "word": "承欢记 丢脸都是高清的",
+        "onboard_time": 1712673260,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 120310,
+        "num": 125923,
+        "word": "爸妈辛苦一辈子买的商铺不值钱了",
+        "onboard_time": 1712653639,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#中巴两党第七届理论研讨会#"
+    }
+  }
+}
