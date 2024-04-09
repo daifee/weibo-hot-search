@@ -1,0 +1,410 @@
+{
+  "runTime": 1712626365084,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1355755,
+        "num": 1355755,
+        "word": "ZARA回应撤出中国传闻",
+        "onboard_time": 1712622019,
+        "rank": 0,
+        "category": "财经,时尚"
+      },
+      {
+        "raw_hot": 1202477,
+        "num": 1202477,
+        "word": "男子杀妻抛尸四川警方3天破案",
+        "onboard_time": 1712623459,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 88140,
+        "num": 1140022,
+        "word": "我国首口超5000米深层地热科学探井",
+        "onboard_time": 1712582122,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1109635,
+        "num": 1109635,
+        "word": "赵丽颖提议的删掉父女相认戏台词",
+        "onboard_time": 1712619137,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 805886,
+        "num": 805886,
+        "word": "张元英连转两次圈",
+        "onboard_time": 1712619677,
+        "rank": 4,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 653712,
+        "num": 653712,
+        "word": "金价又新高囤金人却慌了",
+        "onboard_time": 1712619377,
+        "rank": 5,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 563618,
+        "num": 563618,
+        "word": "王一博托姐公开秀恩爱",
+        "onboard_time": 1712578400,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 459486,
+        "num": 459486,
+        "word": "华为 丰田",
+        "onboard_time": 1712622319,
+        "rank": 7,
+        "category": "汽车,数码"
+      },
+      {
+        "raw_hot": 491800,
+        "num": 459381,
+        "word": "赵丽颖曾推荐刘宇宁演与凤行",
+        "onboard_time": 1712585961,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 215721,
+        "num": 459308,
+        "word": "在欧美访了个寂寞中国工程师决定自己搞",
+        "onboard_time": 1712597892,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2093429,
+        "num": 459270,
+        "word": "小米公司深夜连发三文",
+        "onboard_time": 1712622919,
+        "rank": 10,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 722159,
+        "num": 459094,
+        "word": "2岁小孩看房时不幸坠亡",
+        "onboard_time": 1712625438,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 459063,
+        "num": 459063,
+        "word": "考上研本科延毕了",
+        "onboard_time": 1712588060,
+        "rank": 12,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 403785,
+        "num": 403785,
+        "word": "南部战区位南海海域开展演训活动",
+        "onboard_time": 1712622438,
+        "rank": 13,
+        "category": "国内时政,军事"
+      },
+      {
+        "raw_hot": 343611,
+        "num": 343611,
+        "word": "网友偶遇权志龙",
+        "onboard_time": 1712621719,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 339961,
+        "num": 339961,
+        "word": "日全食",
+        "onboard_time": 1712585841,
+        "rank": 15,
+        "category": "自然"
+      },
+      {
+        "raw_hot": 320245,
+        "num": 320245,
+        "word": "庆余年2",
+        "onboard_time": 1712588479,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 304187,
+        "num": 304187,
+        "word": "智己汽车致歉函",
+        "onboard_time": 1712622438,
+        "rank": 17,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 290139,
+        "num": 290139,
+        "word": "朱婷官宣回归中国女排",
+        "onboard_time": 1712589379,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 285816,
+        "num": 285816,
+        "word": "中医建议大家不要盲目的防晒",
+        "onboard_time": 1712577139,
+        "rank": 19,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 668926,
+        "num": 285512,
+        "word": "虐猫考生未被兰州大学录取",
+        "onboard_time": 1712590099,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 282836,
+        "num": 282836,
+        "word": "男子报警称自己被绑架将被活埋",
+        "onboard_time": 1712625498,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 277275,
+        "num": 277275,
+        "word": "赵露思安妮海瑟薇穿同款皮裙",
+        "onboard_time": 1712599392,
+        "rank": 22,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 253431,
+        "num": 253431,
+        "word": "官方通报女子半截身子卷入扶梯",
+        "onboard_time": 1712585364,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 251268,
+        "num": 251268,
+        "word": "以为水煮蛋买来就是这样的",
+        "onboard_time": 1712618835,
+        "rank": 24,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 249109,
+        "num": 249109,
+        "word": "赵丽颖潦草小狗",
+        "onboard_time": 1712620938,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 246012,
+        "num": 246012,
+        "word": "男人的尿酸是怎么一步一步失控的",
+        "onboard_time": 1712619137,
+        "rank": 26,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 245937,
+        "num": 245937,
+        "word": "骨盆可能是世界上最贵的容器",
+        "onboard_time": 1712617335,
+        "rank": 27,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 242822,
+        "num": 242822,
+        "word": "特斯拉市值一夜涨超1800亿",
+        "onboard_time": 1712625799,
+        "rank": 28,
+        "category": "财经,汽车"
+      },
+      {
+        "raw_hot": 240860,
+        "num": 240860,
+        "word": "欧阳娜娜奖学金",
+        "onboard_time": 1712590999,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 279935,
+        "num": 239683,
+        "word": "ZARA大量粉丝紧急扫货",
+        "onboard_time": 1712625919,
+        "rank": 30,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 228150,
+        "num": 228150,
+        "word": "知名痔疮药停产后涨价10多倍",
+        "onboard_time": 1712619137,
+        "rank": 31,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 223094,
+        "num": 223094,
+        "word": "江西师大男学生虐猫",
+        "onboard_time": 1712592380,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 222606,
+        "num": 222606,
+        "word": "承欢记",
+        "onboard_time": 1712623879,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 205176,
+        "num": 205176,
+        "word": "5A级颈区",
+        "onboard_time": 1712625138,
+        "rank": 34,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 198696,
+        "num": 198696,
+        "word": "哈尔滨一九四四 定档",
+        "onboard_time": 1712621419,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 192823,
+        "num": 192823,
+        "word": "C罗被罚下向裁判鼓掌",
+        "onboard_time": 1712621360,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 185128,
+        "num": 185128,
+        "word": "天水麻辣烫到底是什么味",
+        "onboard_time": 1712624419,
+        "rank": 37,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 184856,
+        "num": 184856,
+        "word": "孙坚吐槽奢侈品包质量问题",
+        "onboard_time": 1712597292,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 182427,
+        "num": 182427,
+        "word": "你是长夜也是灯火",
+        "onboard_time": 1712624599,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 180496,
+        "num": 180496,
+        "word": "智己",
+        "onboard_time": 1712622198,
+        "rank": 40,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 176155,
+        "num": 176155,
+        "word": "今天怎么才星期二",
+        "onboard_time": 1712625319,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 176038,
+        "num": 176038,
+        "word": "压力太大胃会告诉你",
+        "onboard_time": 1712625678,
+        "rank": 42,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 169957,
+        "num": 169957,
+        "word": "暴雪 回归",
+        "onboard_time": 1712626219,
+        "rank": 43,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 169018,
+        "num": 169018,
+        "word": "过敏性鼻炎和感冒有何区别",
+        "onboard_time": 1712621598,
+        "rank": 44,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 162447,
+        "num": 162447,
+        "word": "周雨彤 一次醉酒换来一生内向",
+        "onboard_time": 1712591778,
+        "rank": 45,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 159678,
+        "num": 159678,
+        "word": "广西苍梧一店面发生火灾致5死",
+        "onboard_time": 1712626219,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 156660,
+        "num": 156660,
+        "word": "追风者没爱情线的原因",
+        "onboard_time": 1712624720,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 146227,
+        "num": 146227,
+        "word": "蔡澜 活一天过一天人生",
+        "onboard_time": 1712623819,
+        "rank": 48,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 145313,
+        "num": 145313,
+        "word": "于适表情包",
+        "onboard_time": 1712626338,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平会见法国梅里埃基金会主席夫妇#"
+    }
+  }
+}

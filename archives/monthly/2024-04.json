@@ -1,6 +1,6 @@
 {
   "startTime": 1711902044401,
-  "endTime": 1712625206694,
+  "endTime": 1712626365084,
   "band_list": [
     {
       "raw_hot": 16874674,
@@ -1115,6 +1115,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1355755,
+      "num": 1355755,
+      "word": "ZARA回应撤出中国传闻",
+      "onboard_time": 1712622019,
+      "rank": 3,
+      "category": "财经,时尚"
+    },
+    {
       "raw_hot": 1350424,
       "num": 1350424,
       "word": "爱奇艺没有一台笔电吗",
@@ -1419,14 +1427,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 1216739,
-      "num": 1216739,
-      "word": "ZARA回应撤出中国传闻",
-      "onboard_time": 1712622019,
-      "rank": 3,
-      "category": "财经,时尚"
-    },
-    {
       "raw_hot": 1213458,
       "num": 1213458,
       "word": "12306回应高铁走到半路两车乘客互换",
@@ -1465,6 +1465,14 @@
       "onboard_time": 1712324058,
       "rank": 3,
       "category": "情感"
+    },
+    {
+      "raw_hot": 1202477,
+      "num": 1202477,
+      "word": "男子杀妻抛尸四川警方3天破案",
+      "onboard_time": 1712623459,
+      "rank": 6,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1201350,
@@ -3219,6 +3227,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 722159,
+      "num": 459094,
+      "word": "2岁小孩看房时不幸坠亡",
+      "onboard_time": 1712625438,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 719007,
       "num": 719007,
       "word": "张艺兴回应内娱没有舞台",
@@ -3441,14 +3457,6 @@
       "onboard_time": 1712052680,
       "rank": 28,
       "category": "电竞,网红"
-    },
-    {
-      "raw_hot": 693056,
-      "num": 693056,
-      "word": "男子杀妻抛尸四川警方3天破案",
-      "onboard_time": 1712623459,
-      "rank": 6,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 691020,
@@ -9939,6 +9947,14 @@
       "category": "社会议题"
     },
     {
+      "raw_hot": 282836,
+      "num": 282836,
+      "word": "男子报警称自己被绑架将被活埋",
+      "onboard_time": 1712625498,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 281958,
       "num": 265208,
       "word": "台湾花莲地震现场画面",
@@ -10041,6 +10057,14 @@
       "onboard_time": 1712137639,
       "rank": 24,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 279935,
+      "num": 239683,
+      "word": "ZARA大量粉丝紧急扫货",
+      "onboard_time": 1712625919,
+      "rank": 30,
+      "category": "时尚"
     },
     {
       "raw_hot": 279864,
@@ -11196,7 +11220,7 @@
     },
     {
       "raw_hot": 248040,
-      "num": 229294,
+      "num": 245937,
       "word": "骨盆可能是世界上最贵的容器",
       "onboard_time": 1712617335,
       "rank": 27,
@@ -11409,6 +11433,14 @@
       "onboard_time": 1712287097,
       "rank": 25,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 242822,
+      "num": 242822,
+      "word": "特斯拉市值一夜涨超1800亿",
+      "onboard_time": 1712625799,
+      "rank": 28,
+      "category": "财经,汽车"
     },
     {
       "raw_hot": 242761,
@@ -13555,6 +13587,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 205176,
+      "num": 205176,
+      "word": "5A级颈区",
+      "onboard_time": 1712625138,
+      "rank": 49,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 204973,
       "num": 204973,
       "word": "王一博屋顶追逐戏",
@@ -15587,6 +15627,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 185128,
+      "num": 185128,
+      "word": "天水麻辣烫到底是什么味",
+      "onboard_time": 1712624419,
+      "rank": 38,
+      "category": "美食"
+    },
+    {
       "raw_hot": 185099,
       "num": 185099,
       "word": "TXT闯中了",
@@ -16019,14 +16067,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 179715,
-      "num": 179715,
-      "word": "天水麻辣烫到底是什么味",
-      "onboard_time": 1712624419,
-      "rank": 38,
-      "category": "美食"
-    },
-    {
       "raw_hot": 179621,
       "num": 179621,
       "word": "霉霉眼中的自己vs实际上的",
@@ -16313,6 +16353,22 @@
       "onboard_time": 1712447536,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 176155,
+      "num": 176155,
+      "word": "今天怎么才星期二",
+      "onboard_time": 1712625319,
+      "rank": 41,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 176038,
+      "num": 176038,
+      "word": "压力太大胃会告诉你",
+      "onboard_time": 1712625678,
+      "rank": 42,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 175887,
@@ -16801,6 +16857,14 @@
       "onboard_time": 1712030420,
       "rank": 37,
       "category": "演出"
+    },
+    {
+      "raw_hot": 169957,
+      "num": 169957,
+      "word": "暴雪 回归",
+      "onboard_time": 1712626219,
+      "rank": 43,
+      "category": "游戏"
     },
     {
       "raw_hot": 169949,
@@ -17585,6 +17649,14 @@
       "onboard_time": 1711929138,
       "rank": 40,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 159678,
+      "num": 159678,
+      "word": "广西苍梧一店面发生火灾致5死",
+      "onboard_time": 1712626219,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 159645,
@@ -18929,6 +19001,14 @@
       "onboard_time": 1711955239,
       "rank": 45,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 145313,
+      "num": 145313,
+      "word": "于适表情包",
+      "onboard_time": 1712626338,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 145063,
@@ -20609,14 +20689,6 @@
       "onboard_time": 1711962320,
       "rank": 49,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 124529,
-      "num": 124529,
-      "word": "5A级颈区",
-      "onboard_time": 1712625138,
-      "rank": 49,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 124448,
