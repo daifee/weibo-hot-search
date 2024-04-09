@@ -1,0 +1,410 @@
+{
+  "runTime": 1712643773689,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1066135,
+        "num": 1066135,
+        "word": "刘昊然否认和陈思诚绑定",
+        "onboard_time": 1712639900,
+        "rank": 0,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 750704,
+        "num": 750704,
+        "word": "欧阳娜娜归来仍才23岁",
+        "onboard_time": 1712636419,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 43132,
+        "num": 600939,
+        "word": "如何将旧金山愿景转为实景",
+        "onboard_time": 1712634319,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 574890,
+        "num": 574890,
+        "word": "暴雪 回归",
+        "onboard_time": 1712626219,
+        "rank": 3,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 548336,
+        "num": 548336,
+        "word": "比亚迪卖一辆车净赚9000元",
+        "onboard_time": 1712633540,
+        "rank": 4,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 623826,
+        "num": 545912,
+        "word": "刘昊然回应燃冬评论",
+        "onboard_time": 1712639959,
+        "rank": 5,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 429216,
+        "num": 429216,
+        "word": "马英九登长城唱长城谣哽咽",
+        "onboard_time": 1712641100,
+        "rank": 6,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 379648,
+        "num": 379648,
+        "word": "郭炜炜 做不好就不要做了",
+        "onboard_time": 1712641640,
+        "rank": 7,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 374631,
+        "num": 374631,
+        "word": "50g金条净赚4000元",
+        "onboard_time": 1712637979,
+        "rank": 8,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 134029,
+        "num": 357733,
+        "word": "退伍军人宿舍考研全上岸",
+        "onboard_time": 1712629757,
+        "rank": 9,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 717837,
+        "num": 356825,
+        "word": "长沙一学生疑被老师殴打后跳楼去世",
+        "onboard_time": 1712640141,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 394997,
+        "num": 355229,
+        "word": "为什么不建议早上洗头",
+        "onboard_time": 1712639722,
+        "rank": 11,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 353154,
+        "num": 353154,
+        "word": "向佐评论费曼",
+        "onboard_time": 1712626939,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 319545,
+        "num": 319545,
+        "word": "刘亦菲又缝衣服了",
+        "onboard_time": 1712636599,
+        "rank": 13,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 63109,
+        "num": 317101,
+        "word": "当脆皮年轻人被胃病盯上",
+        "onboard_time": 1712642601,
+        "rank": 14,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 315461,
+        "num": 315461,
+        "word": "庆余年再声明",
+        "onboard_time": 1712641820,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 284399,
+        "num": 284399,
+        "word": "老乡鸡餐厅公示菜品加工等级",
+        "onboard_time": 1712641041,
+        "rank": 16,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 282479,
+        "num": 282479,
+        "word": "于正怼曾舜晞粉丝",
+        "onboard_time": 1712642780,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 254922,
+        "num": 254922,
+        "word": "林更新那是肋骨外翻不是小肚子",
+        "onboard_time": 1712628438,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 254884,
+        "num": 254884,
+        "word": "省考成绩",
+        "onboard_time": 1712638159,
+        "rank": 19,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 299519,
+        "num": 243738,
+        "word": "男孩玩游戏充值2万父亲连扇自己耳光",
+        "onboard_time": 1712640561,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 288041,
+        "num": 237403,
+        "word": "2岁小孩看房时不幸坠亡",
+        "onboard_time": 1712625438,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 228712,
+        "num": 228712,
+        "word": "176的身高长了张1米5的脸",
+        "onboard_time": 1712632759,
+        "rank": 22,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 225465,
+        "num": 225465,
+        "word": "成都迪士尼已经开始出周边了",
+        "onboard_time": 1712639660,
+        "rank": 23,
+        "category": "旅游,幽默"
+      },
+      {
+        "raw_hot": 223847,
+        "num": 223847,
+        "word": "金价攀升很多人一袋一袋卖黄金",
+        "onboard_time": 1712631618,
+        "rank": 24,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 215804,
+        "num": 215804,
+        "word": "虞书欣 表情七十二变",
+        "onboard_time": 1712642180,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 207227,
+        "num": 207227,
+        "word": "刘昊然拼接牛仔裙",
+        "onboard_time": 1712642359,
+        "rank": 26,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 201565,
+        "num": 201565,
+        "word": "为什么通勤时间全算个人的",
+        "onboard_time": 1712637859,
+        "rank": 27,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 200750,
+        "num": 200750,
+        "word": "易烊千玺 丹麦",
+        "onboard_time": 1712633959,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 129073,
+        "num": 192213,
+        "word": "银价涨超20%",
+        "onboard_time": 1712643379,
+        "rank": 29,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 303724,
+        "num": 192172,
+        "word": "支付宝崩了",
+        "onboard_time": 1712629939,
+        "rank": 30,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 191822,
+        "num": 191822,
+        "word": "某幻 水口十",
+        "onboard_time": 1712635039,
+        "rank": 31,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 191248,
+        "num": 191248,
+        "word": "鹿晗起诉莆田鞋帽商家",
+        "onboard_time": 1712629638,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 181878,
+        "num": 181878,
+        "word": "杨紫麦承欢定妆",
+        "onboard_time": 1712642479,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 181145,
+        "num": 181145,
+        "word": "ZARA撤出中国市场系不实消息",
+        "onboard_time": 1712636298,
+        "rank": 34,
+        "category": "财经,时尚"
+      },
+      {
+        "raw_hot": 180717,
+        "num": 180717,
+        "word": "chiikawa作者年收入52亿日元",
+        "onboard_time": 1712631798,
+        "rank": 35,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 172810,
+        "num": 172810,
+        "word": "赵丽颖提议的删掉父女相认戏台词",
+        "onboard_time": 1712619137,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 322300,
+        "num": 172602,
+        "word": "chiikawa作者",
+        "onboard_time": 1712633599,
+        "rank": 37,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 175913,
+        "num": 171906,
+        "word": "麦承欢小时候照片是杨紫本人",
+        "onboard_time": 1712638701,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 171100,
+        "num": 171100,
+        "word": "ZARA大量粉丝紧急扫货",
+        "onboard_time": 1712625919,
+        "rank": 39,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 163411,
+        "num": 163411,
+        "word": "陈凯歌王一博或将合作",
+        "onboard_time": 1712639059,
+        "rank": 40,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 162533,
+        "num": 162533,
+        "word": "虐猫考生该懂的不是舆论而是敬畏生命",
+        "onboard_time": 1712628558,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 159909,
+        "num": 159909,
+        "word": "赵丽颖哭戏品鉴",
+        "onboard_time": 1712643441,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 144037,
+        "num": 144037,
+        "word": "这是我没结婚前最无聊的一天",
+        "onboard_time": 1712632278,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 132000,
+        "num": 132000,
+        "word": "男子杀妻抛尸四川警方3天破案",
+        "onboard_time": 1712623459,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 136817,
+        "num": 131897,
+        "word": "王一博托姐公开秀恩爱",
+        "onboard_time": 1712578400,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 131411,
+        "num": 131411,
+        "word": "25岁周冠宇17年车龄",
+        "onboard_time": 1712642899,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 130973,
+        "num": 130973,
+        "word": "宋仲基与素人合影",
+        "onboard_time": 1712641400,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 128581,
+        "num": 128581,
+        "word": "我牵着我的女人走了啊",
+        "onboard_time": 1712638339,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 126100,
+        "num": 126100,
+        "word": "广东省考成绩",
+        "onboard_time": 1712633298,
+        "rank": 49,
+        "category": "教育"
+      }
+    ],
+    "hotgov": {
+      "word": "#同志加兄弟是中越传统友谊最生动写照#"
+    }
+  }
+}
