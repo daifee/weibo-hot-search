@@ -1,6 +1,6 @@
 {
   "startTime": 1712420539476,
-  "endTime": 1712655258988,
+  "endTime": 1712658102587,
   "band_list": [
     {
       "raw_hot": 9583581,
@@ -121,6 +121,14 @@
       "onboard_time": 1712562257,
       "rank": 0,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1892556,
+      "num": 1892556,
+      "word": "黄多多ins",
+      "onboard_time": 1712656038,
+      "rank": 0,
+      "category": "艺人"
     },
     {
       "raw_hot": 1795259,
@@ -696,6 +704,14 @@
       "word": "鹿晗起诉莆田鞋帽商家",
       "onboard_time": 1712629638,
       "rank": 31,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 943302,
+      "num": 943302,
+      "word": "23岁女歌手因心力衰竭去世",
+      "onboard_time": 1712655738,
+      "rank": 1,
       "category": "艺人"
     },
     {
@@ -1715,6 +1731,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 531306,
+      "num": 431242,
+      "word": "林更新回应34岁拍仙侠",
+      "onboard_time": 1712656821,
+      "rank": 9,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 529852,
       "num": 529852,
       "word": "朴成训 颧骨",
@@ -2091,6 +2115,14 @@
       "category": "汽车,数码"
     },
     {
+      "raw_hot": 468601,
+      "num": 294701,
+      "word": "喀秋莎体重已达20公斤",
+      "onboard_time": 1712655139,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 468036,
       "num": 468036,
       "word": "网易回应暴雪国服回归",
@@ -2201,6 +2233,14 @@
       "onboard_time": 1712632100,
       "rank": 35,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 448720,
+      "num": 448720,
+      "word": "马英九说任何去中国化的行径都不会成功",
+      "onboard_time": 1712655440,
+      "rank": 6,
+      "category": "国内时政"
     },
     {
       "raw_hot": 448632,
@@ -2516,7 +2556,7 @@
     },
     {
       "raw_hot": 390059,
-      "num": 268456,
+      "num": 290800,
       "word": "爸妈辛苦一辈子买的商铺不值钱了",
       "onboard_time": 1712653639,
       "rank": 30,
@@ -3051,6 +3091,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 321659,
+      "num": 321659,
+      "word": "白鹿扎染裙",
+      "onboard_time": 1712655500,
+      "rank": 15,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 321412,
       "num": 274374,
       "word": "订婚时三金里面的手镯被偷了",
@@ -3155,6 +3203,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 311032,
+      "num": 311032,
+      "word": "谢帝回应诺米diss",
+      "onboard_time": 1712655559,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 308833,
       "num": 307999,
       "word": "赵丽颖工作室玩梗沈璃",
@@ -3193,6 +3249,14 @@
       "onboard_time": 1712631077,
       "rank": 25,
       "category": "情感"
+    },
+    {
+      "raw_hot": 305910,
+      "num": 305910,
+      "word": "林更新说45岁星玥三搭",
+      "onboard_time": 1712657061,
+      "rank": 17,
+      "category": "剧集"
     },
     {
       "raw_hot": 305220,
@@ -3379,12 +3443,28 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 286896,
+      "num": 286896,
+      "word": "汉堡王卖不好9.9套餐",
+      "onboard_time": 1712654299,
+      "rank": 49,
+      "category": "美食"
+    },
+    {
       "raw_hot": 285260,
-      "num": 256541,
+      "num": 259168,
       "word": "怎么面对婆婆廉价的好意",
       "onboard_time": 1712654000,
       "rank": 31,
       "category": "情感"
+    },
+    {
+      "raw_hot": 284397,
+      "num": 301744,
+      "word": "甘肃张掖市4.3级地震",
+      "onboard_time": 1712655919,
+      "rank": 18,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 284356,
@@ -3617,6 +3697,14 @@
       "onboard_time": 1712412921,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 264296,
+      "num": 264296,
+      "word": "同事发现老板偷看聊天记录离职了",
+      "onboard_time": 1712654720,
+      "rank": 26,
+      "category": "幽默"
     },
     {
       "raw_hot": 264060,
@@ -3987,14 +4075,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 242233,
-      "num": 242233,
-      "word": "汉堡王卖不好9.9套餐",
-      "onboard_time": 1712654299,
-      "rank": 49,
-      "category": "美食"
-    },
-    {
       "raw_hot": 241518,
       "num": 241518,
       "word": "电影无名之辈2开机",
@@ -4049,14 +4129,6 @@
       "onboard_time": 1712621360,
       "rank": 28,
       "category": "体育"
-    },
-    {
-      "raw_hot": 240242,
-      "num": 240242,
-      "word": "同事发现老板偷看聊天记录离职了",
-      "onboard_time": 1712654720,
-      "rank": 26,
-      "category": "幽默"
     },
     {
       "raw_hot": 239979,
@@ -4339,6 +4411,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 223881,
+      "num": 223881,
+      "word": "智己汽车再次向小米道歉",
+      "onboard_time": 1712657538,
+      "rank": 26,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 223863,
       "num": 223863,
       "word": "吴镇宇 挣的都是精神损失费",
@@ -4361,6 +4441,14 @@
       "onboard_time": 1712654479,
       "rank": 27,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 223365,
+      "num": 445662,
+      "word": "00后帅哥送锦旗民警看了差点没绷住",
+      "onboard_time": 1712656220,
+      "rank": 7,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 223230,
@@ -5179,6 +5267,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 196844,
+      "num": 196844,
+      "word": "劝朋友别轻易辞职被拉黑了",
+      "onboard_time": 1712653459,
+      "rank": 38,
+      "category": "情感"
+    },
+    {
       "raw_hot": 196308,
       "num": 196308,
       "word": "中医朋友建议春天要多出去玩",
@@ -5315,6 +5411,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 192257,
+      "num": 512166,
+      "word": "全球最长寿朱鹮今天38岁啦",
+      "onboard_time": 1712654059,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 191992,
       "num": 191992,
       "word": "王一博 叫你三声你敢答应吗",
@@ -5385,6 +5489,14 @@
       "onboard_time": 1712583979,
       "rank": 34,
       "category": "情感"
+    },
+    {
+      "raw_hot": 190271,
+      "num": 190271,
+      "word": "林娜琏将6月solo回归",
+      "onboard_time": 1712657841,
+      "rank": 31,
+      "category": "音乐"
     },
     {
       "raw_hot": 189962,
@@ -5651,6 +5763,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 183055,
+      "num": 183055,
+      "word": "考研七次是一种什么体验",
+      "onboard_time": 1712655919,
+      "rank": 33,
+      "category": "情感"
+    },
+    {
       "raw_hot": 182612,
       "num": 182612,
       "word": "王源二巡",
@@ -5673,14 +5793,6 @@
       "onboard_time": 1712470099,
       "rank": 33,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 182109,
-      "num": 182109,
-      "word": "劝朋友别轻易辞职被拉黑了",
-      "onboard_time": 1712653459,
-      "rank": 38,
-      "category": "情感"
     },
     {
       "raw_hot": 181878,
@@ -6339,14 +6451,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 156658,
-      "num": 512166,
-      "word": "全球最长寿朱鹮今天38岁啦",
-      "onboard_time": 1712654059,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 156577,
       "num": 156577,
       "word": "于适滞空飞起拍照",
@@ -6627,6 +6731,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 143981,
+      "num": 143981,
+      "word": "广东省考 进面",
+      "onboard_time": 1712657359,
+      "rank": 40,
+      "category": "教育"
+    },
+    {
       "raw_hot": 143752,
       "num": 143752,
       "word": "第一次吃天水麻辣烫",
@@ -6641,6 +6753,14 @@
       "onboard_time": 1712584040,
       "rank": 43,
       "category": "情感"
+    },
+    {
+      "raw_hot": 143242,
+      "num": 143242,
+      "word": "时代少年团 特权码",
+      "onboard_time": 1712655199,
+      "rank": 48,
+      "category": "艺人"
     },
     {
       "raw_hot": 143017,
@@ -6969,14 +7089,6 @@
       "onboard_time": 1712535259,
       "rank": 46,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 134152,
-      "num": 134152,
-      "word": "时代少年团 特权码",
-      "onboard_time": 1712655199,
-      "rank": 48,
-      "category": "艺人"
     },
     {
       "raw_hot": 133958,
@@ -7403,6 +7515,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 121546,
+      "num": 121546,
+      "word": "大学生为什么老想着攒钱",
+      "onboard_time": 1712657480,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 121457,
       "num": 121457,
       "word": "刘敏涛有自己的职场宇宙",
@@ -7587,6 +7707,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 112757,
+      "num": 112757,
+      "word": "承欢记吻戏",
+      "onboard_time": 1712656759,
+      "rank": 49,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 112328,
       "num": 112328,
       "word": "五哈上哪弄的这些神金特效",
@@ -7617,6 +7745,14 @@
       "onboard_time": 1712595434,
       "rank": 27,
       "category": "情感,网红"
+    },
+    {
+      "raw_hot": 109451,
+      "num": 1049446,
+      "word": "春日郁金香壁纸上新",
+      "onboard_time": 1712654179,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 109352,
@@ -7785,14 +7921,6 @@
       "onboard_time": 1712424493,
       "rank": 39,
       "category": "体育"
-    },
-    {
-      "raw_hot": 88666,
-      "num": 134102,
-      "word": "喀秋莎体重已达20公斤",
-      "onboard_time": 1712655139,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 87504,
@@ -8097,14 +8225,6 @@
       "onboard_time": 1712461758,
       "rank": 20,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 50596,
-      "num": 1049446,
-      "word": "春日郁金香壁纸上新",
-      "onboard_time": 1712654179,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 50366,

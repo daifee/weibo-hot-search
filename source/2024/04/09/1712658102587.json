@@ -1,0 +1,410 @@
+{
+  "runTime": 1712658102587,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1892556,
+        "num": 1892556,
+        "word": "黄多多ins",
+        "onboard_time": 1712656038,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 943302,
+        "num": 943302,
+        "word": "23岁女歌手因心力衰竭去世",
+        "onboard_time": 1712655738,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 109451,
+        "num": 792596,
+        "word": "春日郁金香壁纸上新",
+        "onboard_time": 1712654179,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 757542,
+        "num": 757542,
+        "word": "陈赫直播回应撮合林更新赵丽颖",
+        "onboard_time": 1712651359,
+        "rank": 3,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 517517,
+        "num": 517517,
+        "word": "暴雪 回归",
+        "onboard_time": 1712626219,
+        "rank": 4,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 505814,
+        "num": 505814,
+        "word": "火星哥把林俊杰截掉了",
+        "onboard_time": 1712652739,
+        "rank": 5,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 448720,
+        "num": 448720,
+        "word": "马英九说任何去中国化的行径都不会成功",
+        "onboard_time": 1712655440,
+        "rank": 6,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 223365,
+        "num": 445662,
+        "word": "00后帅哥送锦旗民警看了差点没绷住",
+        "onboard_time": 1712656220,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 192257,
+        "num": 437277,
+        "word": "全球最长寿朱鹮今天38岁啦",
+        "onboard_time": 1712654059,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 531306,
+        "num": 431242,
+        "word": "林更新回应34岁拍仙侠",
+        "onboard_time": 1712656821,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 487197,
+        "num": 427771,
+        "word": "黄磊首谈儿子",
+        "onboard_time": 1712648238,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 423215,
+        "num": 423215,
+        "word": "王者荣耀 酷洛米",
+        "onboard_time": 1712650220,
+        "rank": 11,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 391645,
+        "num": 391645,
+        "word": "金价大涨打乱备婚计划",
+        "onboard_time": 1712650459,
+        "rank": 12,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 366080,
+        "num": 366080,
+        "word": "杨紫剧播优酷急了",
+        "onboard_time": 1712652320,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 330209,
+        "num": 330209,
+        "word": "雷军祝智界S7大卖",
+        "onboard_time": 1712653700,
+        "rank": 14,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 321659,
+        "num": 321659,
+        "word": "白鹿扎染裙",
+        "onboard_time": 1712655500,
+        "rank": 15,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 311032,
+        "num": 311032,
+        "word": "谢帝回应诺米diss",
+        "onboard_time": 1712655559,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 305910,
+        "num": 305910,
+        "word": "林更新说45岁星玥三搭",
+        "onboard_time": 1712657061,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 284397,
+        "num": 301744,
+        "word": "甘肃张掖市4.3级地震",
+        "onboard_time": 1712655919,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 258289,
+        "num": 296767,
+        "word": "淘宝买到假茅台官方拒绝10倍赔偿",
+        "onboard_time": 1712645900,
+        "rank": 19,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 468601,
+        "num": 294701,
+        "word": "喀秋莎体重已达20公斤",
+        "onboard_time": 1712655139,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 345997,
+        "num": 290800,
+        "word": "爸妈辛苦一辈子买的商铺不值钱了",
+        "onboard_time": 1712653639,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 286896,
+        "num": 286896,
+        "word": "汉堡王卖不好9.9套餐",
+        "onboard_time": 1712654299,
+        "rank": 22,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 285778,
+        "num": 285778,
+        "word": "赵露思吊带皮裙",
+        "onboard_time": 1712644999,
+        "rank": 23,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 264296,
+        "num": 264296,
+        "word": "同事发现老板偷看聊天记录离职了",
+        "onboard_time": 1712654720,
+        "rank": 24,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 259168,
+        "num": 259168,
+        "word": "怎么面对婆婆廉价的好意",
+        "onboard_time": 1712654000,
+        "rank": 25,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 223881,
+        "num": 223881,
+        "word": "智己汽车再次向小米道歉",
+        "onboard_time": 1712657538,
+        "rank": 26,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 205305,
+        "num": 205305,
+        "word": "1个蛋糕1万5老板收巨额订单报警",
+        "onboard_time": 1712649798,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 202374,
+        "num": 202374,
+        "word": "月薪三万的家庭主妇",
+        "onboard_time": 1712643859,
+        "rank": 28,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 38687,
+        "num": 197729,
+        "word": "高铁穿越金黄花海驶向春天",
+        "onboard_time": 1712652199,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 196844,
+        "num": 196844,
+        "word": "劝朋友别轻易辞职被拉黑了",
+        "onboard_time": 1712653459,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 190271,
+        "num": 190271,
+        "word": "林娜琏将6月solo回归",
+        "onboard_time": 1712657841,
+        "rank": 31,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 186038,
+        "num": 186038,
+        "word": "为什么睡很久还是很困",
+        "onboard_time": 1712652679,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 183055,
+        "num": 183055,
+        "word": "考研七次是一种什么体验",
+        "onboard_time": 1712655919,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 180210,
+        "num": 180210,
+        "word": "王俊凯 演唱会",
+        "onboard_time": 1712649499,
+        "rank": 34,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 178620,
+        "num": 178620,
+        "word": "真的很喜欢大方表达爱意的人",
+        "onboard_time": 1712652979,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 172745,
+        "num": 172745,
+        "word": "眼泪女王回本",
+        "onboard_time": 1712653459,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 166371,
+        "num": 166371,
+        "word": "刘亦菲又缝衣服了",
+        "onboard_time": 1712636599,
+        "rank": 37,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 162169,
+        "num": 162169,
+        "word": "白玉兰奖入围名单5月公布",
+        "onboard_time": 1712650699,
+        "rank": 38,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 156383,
+        "num": 156383,
+        "word": "毛不易 内娱贝爷",
+        "onboard_time": 1712651660,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 143981,
+        "num": 143981,
+        "word": "广东省考 进面",
+        "onboard_time": 1712657359,
+        "rank": 40,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 143397,
+        "num": 143397,
+        "word": "BoA清空ins",
+        "onboard_time": 1712653040,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 143242,
+        "num": 143242,
+        "word": "时代少年团 特权码",
+        "onboard_time": 1712655199,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 139704,
+        "num": 139704,
+        "word": "男子与女子未领证分手近20万彩礼退3万",
+        "onboard_time": 1712643859,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 138241,
+        "num": 138241,
+        "word": "迪丽热巴路透",
+        "onboard_time": 1712646319,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 136598,
+        "num": 136598,
+        "word": "比亚迪卖一辆车净赚9000元",
+        "onboard_time": 1712633540,
+        "rank": 45,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 126161,
+        "num": 126161,
+        "word": "长沙一学生疑被老师殴打后跳楼去世",
+        "onboard_time": 1712640141,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 121604,
+        "num": 121604,
+        "word": "张艺兴专辑",
+        "onboard_time": 1712654479,
+        "rank": 47,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 121546,
+        "num": 121546,
+        "word": "大学生为什么老想着攒钱",
+        "onboard_time": 1712657480,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 112757,
+        "num": 112757,
+        "word": "承欢记吻戏",
+        "onboard_time": 1712656759,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平会见越南国会主席#"
+    }
+  }
+}
