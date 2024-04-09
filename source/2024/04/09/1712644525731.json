@@ -1,0 +1,410 @@
+{
+  "runTime": 1712644525731,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1107038,
+        "num": 1107038,
+        "word": "刘昊然否认和陈思诚绑定",
+        "onboard_time": 1712639900,
+        "rank": 0,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 655592,
+        "num": 655592,
+        "word": "欧阳娜娜归来仍才23岁",
+        "onboard_time": 1712636419,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 41042,
+        "num": 597864,
+        "word": "如何将旧金山愿景转为实景",
+        "onboard_time": 1712634319,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 582950,
+        "num": 582950,
+        "word": "暴雪 回归",
+        "onboard_time": 1712626219,
+        "rank": 3,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 485263,
+        "num": 485263,
+        "word": "比亚迪卖一辆车净赚9000元",
+        "onboard_time": 1712633540,
+        "rank": 4,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 515599,
+        "num": 477687,
+        "word": "刘昊然回应燃冬评论",
+        "onboard_time": 1712639959,
+        "rank": 5,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 468920,
+        "num": 468920,
+        "word": "马英九登长城唱长城谣哽咽",
+        "onboard_time": 1712641100,
+        "rank": 6,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 351133,
+        "num": 351133,
+        "word": "老乡鸡餐厅公示菜品加工等级",
+        "onboard_time": 1712641041,
+        "rank": 7,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 334467,
+        "num": 334467,
+        "word": "于正怼曾舜晞粉丝",
+        "onboard_time": 1712642780,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 126406,
+        "num": 327711,
+        "word": "退伍军人宿舍考研全上岸",
+        "onboard_time": 1712629757,
+        "rank": 9,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 696675,
+        "num": 325965,
+        "word": "长沙一学生疑被老师殴打后跳楼去世",
+        "onboard_time": 1712640141,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 396003,
+        "num": 325717,
+        "word": "为什么不建议早上洗头",
+        "onboard_time": 1712639722,
+        "rank": 11,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 321920,
+        "num": 321920,
+        "word": "50g金条净赚4000元",
+        "onboard_time": 1712637979,
+        "rank": 12,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 296703,
+        "num": 296703,
+        "word": "庆余年再声明",
+        "onboard_time": 1712641820,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 91665,
+        "num": 278492,
+        "word": "当脆皮年轻人被胃病盯上",
+        "onboard_time": 1712642601,
+        "rank": 14,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 277462,
+        "num": 277462,
+        "word": "向佐评论费曼",
+        "onboard_time": 1712626939,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 275447,
+        "num": 275447,
+        "word": "郭炜炜 做不好就不要做了",
+        "onboard_time": 1712641640,
+        "rank": 16,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 262154,
+        "num": 262154,
+        "word": "刘亦菲又缝衣服了",
+        "onboard_time": 1712636599,
+        "rank": 17,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 237965,
+        "num": 237965,
+        "word": "林更新那是肋骨外翻不是小肚子",
+        "onboard_time": 1712628438,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 221040,
+        "num": 237613,
+        "word": "省考成绩",
+        "onboard_time": 1712638159,
+        "rank": 19,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 343824,
+        "num": 237334,
+        "word": "男子与女子未领证分手近20万彩礼退3万",
+        "onboard_time": 1712643859,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 282501,
+        "num": 236829,
+        "word": "男孩玩游戏充值2万父亲连扇自己耳光",
+        "onboard_time": 1712640561,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 244056,
+        "num": 236468,
+        "word": "2岁小孩看房时不幸坠亡",
+        "onboard_time": 1712625438,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 235970,
+        "num": 235970,
+        "word": "176的身高长了张1米5的脸",
+        "onboard_time": 1712632759,
+        "rank": 23,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 224258,
+        "num": 224258,
+        "word": "chiikawa作者年收入52亿日元",
+        "onboard_time": 1712631798,
+        "rank": 24,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 216383,
+        "num": 216383,
+        "word": "金价攀升很多人一袋一袋卖黄金",
+        "onboard_time": 1712631618,
+        "rank": 25,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 205515,
+        "num": 205515,
+        "word": "成都迪士尼已经开始出周边了",
+        "onboard_time": 1712639660,
+        "rank": 26,
+        "category": "旅游,幽默"
+      },
+      {
+        "raw_hot": 203873,
+        "num": 203873,
+        "word": "王源演唱会获批",
+        "onboard_time": 1712643920,
+        "rank": 27,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 186049,
+        "num": 186049,
+        "word": "自热锅为啥不火了",
+        "onboard_time": 1712644098,
+        "rank": 28,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 152494,
+        "num": 185544,
+        "word": "银价涨超20%",
+        "onboard_time": 1712643379,
+        "rank": 29,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 392637,
+        "num": 185519,
+        "word": "月薪三万的家庭主妇",
+        "onboard_time": 1712643859,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 293307,
+        "num": 185445,
+        "word": "支付宝崩了",
+        "onboard_time": 1712629939,
+        "rank": 31,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 185163,
+        "num": 185163,
+        "word": "易烊千玺 丹麦",
+        "onboard_time": 1712633959,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 183024,
+        "num": 183024,
+        "word": "刘昊然拼接牛仔裙",
+        "onboard_time": 1712642359,
+        "rank": 33,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 179350,
+        "num": 179350,
+        "word": "虞书欣 表情七十二变",
+        "onboard_time": 1712642180,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 173135,
+        "num": 173135,
+        "word": "为什么通勤时间全算个人的",
+        "onboard_time": 1712637859,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 165748,
+        "num": 165748,
+        "word": "ZARA大量粉丝紧急扫货",
+        "onboard_time": 1712625919,
+        "rank": 36,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 163837,
+        "num": 163837,
+        "word": "鹿晗起诉莆田鞋帽商家",
+        "onboard_time": 1712629638,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 163808,
+        "num": 163808,
+        "word": "某幻 水口十",
+        "onboard_time": 1712635039,
+        "rank": 38,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 150979,
+        "num": 150979,
+        "word": "杨紫麦承欢定妆",
+        "onboard_time": 1712642479,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 141734,
+        "num": 141734,
+        "word": "陈凯歌王一博或将合作",
+        "onboard_time": 1712639059,
+        "rank": 40,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 138261,
+        "num": 138261,
+        "word": "广东省考成绩",
+        "onboard_time": 1712633298,
+        "rank": 41,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 138166,
+        "num": 138166,
+        "word": "赵丽颖哭戏品鉴",
+        "onboard_time": 1712643441,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 137295,
+        "num": 137295,
+        "word": "有时以为感冒了其实是过敏",
+        "onboard_time": 1712644279,
+        "rank": 43,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 141860,
+        "num": 137274,
+        "word": "麦承欢小时候照片是杨紫本人",
+        "onboard_time": 1712638701,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 137232,
+        "num": 137232,
+        "word": "虐猫考生该懂的不是舆论而是敬畏生命",
+        "onboard_time": 1712628558,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 129236,
+        "num": 137089,
+        "word": "王一博托姐公开秀恩爱",
+        "onboard_time": 1712578400,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 136965,
+        "num": 136965,
+        "word": "赵丽颖提议的删掉父女相认戏台词",
+        "onboard_time": 1712619137,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 115417,
+        "num": 136850,
+        "word": "这是我没结婚前最无聊的一天",
+        "onboard_time": 1712632278,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 111591,
+        "num": 136432,
+        "word": "成都迪士尼禁止唱歌只能拍照",
+        "onboard_time": 1712644459,
+        "rank": 49,
+        "category": "旅游,社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#同志加兄弟是中越传统友谊最生动写照#"
+    }
+  }
+}
