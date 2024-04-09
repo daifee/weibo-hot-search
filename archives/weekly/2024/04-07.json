@@ -1,6 +1,6 @@
 {
   "startTime": 1712420539476,
-  "endTime": 1712675928347,
+  "endTime": 1712676952063,
   "band_list": [
     {
       "raw_hot": 9583581,
@@ -907,20 +907,20 @@
       "category": "情感"
     },
     {
+      "raw_hot": 854956,
+      "num": 854956,
+      "word": "杨紫瘦了好多",
+      "onboard_time": 1712674099,
+      "rank": 1,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 852839,
       "num": 852839,
       "word": "创造营亚洲C位是中国人",
       "onboard_time": 1712447718,
       "rank": 3,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 838562,
-      "num": 838562,
-      "word": "杨紫瘦了好多",
-      "onboard_time": 1712674099,
-      "rank": 1,
-      "category": "剧集"
     },
     {
       "raw_hot": 834954,
@@ -1723,6 +1723,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 567726,
+      "num": 336056,
+      "word": "突然理解英国留子的绝望了",
+      "onboard_time": 1712674759,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 567725,
       "num": 567725,
       "word": "ZARA撤出中国市场系不实消息",
@@ -2379,6 +2387,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 454201,
+      "num": 454201,
+      "word": "去年B站超180万UP主通过直播获得收入",
+      "onboard_time": 1712673439,
+      "rank": 10,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 453772,
       "num": 453772,
       "word": "林更新是赵丽颖一级铁粉",
@@ -2481,6 +2497,14 @@
       "onboard_time": 1712544919,
       "rank": 7,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 440152,
+      "num": 440152,
+      "word": "二哈和他的白猫师尊",
+      "onboard_time": 1712676078,
+      "rank": 6,
+      "category": "动漫,作品衍生"
     },
     {
       "raw_hot": 438395,
@@ -2649,14 +2673,6 @@
       "onboard_time": 1712446696,
       "rank": 17,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 409766,
-      "num": 362464,
-      "word": "去年B站超180万UP主通过直播获得收入",
-      "onboard_time": 1712673439,
-      "rank": 10,
-      "category": "互联网"
     },
     {
       "raw_hot": 406840,
@@ -3403,14 +3419,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 314883,
-      "num": 205054,
-      "word": "突然理解英国留子的绝望了",
-      "onboard_time": 1712674759,
-      "rank": 30,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 314156,
       "num": 314156,
       "word": "韩男真的好会提供情绪价值",
@@ -3603,6 +3611,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 301422,
+      "num": 301422,
+      "word": "暴雪",
+      "onboard_time": 1712671819,
+      "rank": 37,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 299519,
       "num": 243738,
       "word": "男孩玩游戏充值2万父亲连扇自己耳光",
@@ -3721,6 +3737,14 @@
       "onboard_time": 1712483838,
       "rank": 30,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 289077,
+      "num": 289077,
+      "word": "导演把与凤行吻戏给刘宇宁当教材",
+      "onboard_time": 1712674340,
+      "rank": 21,
+      "category": "剧集"
     },
     {
       "raw_hot": 286896,
@@ -3947,14 +3971,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 269147,
-      "num": 258960,
-      "word": "导演把与凤行吻戏给刘宇宁当教材",
-      "onboard_time": 1712674340,
-      "rank": 21,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 268341,
       "num": 268341,
       "word": "周冠宇退赛",
@@ -3969,14 +3985,6 @@
       "onboard_time": 1712464581,
       "rank": 24,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 268116,
-      "num": 268116,
-      "word": "暴雪",
-      "onboard_time": 1712671819,
-      "rank": 37,
-      "category": "游戏"
     },
     {
       "raw_hot": 267948,
@@ -4739,6 +4747,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 227554,
+      "num": 227554,
+      "word": "原来放松时舌头是贴在上颚的",
+      "onboard_time": 1712674340,
+      "rank": 27,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 227496,
       "num": 227496,
       "word": "檀健次入驻上海杜莎",
@@ -4809,6 +4825,14 @@
       "onboard_time": 1712497220,
       "rank": 29,
       "category": "财经"
+    },
+    {
+      "raw_hot": 223978,
+      "num": 223978,
+      "word": "高合",
+      "onboard_time": 1712675780,
+      "rank": 44,
+      "category": "汽车"
     },
     {
       "raw_hot": 223970,
@@ -5035,6 +5059,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 212926,
+      "num": 212926,
+      "word": "外卖小哥连续3年住15元一晚宾馆",
+      "onboard_time": 1712675660,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 212925,
       "num": 212925,
       "word": "TheShy给JackeyLove加油",
@@ -5249,14 +5281,6 @@
       "onboard_time": 1712624720,
       "rank": 35,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 206523,
-      "num": 206523,
-      "word": "原来放松时舌头是贴在上颚的",
-      "onboard_time": 1712674340,
-      "rank": 27,
-      "category": "科学科普"
     },
     {
       "raw_hot": 206435,
@@ -6507,6 +6531,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 175936,
+      "num": 175936,
+      "word": "为啥女人会记住男人记不住的吵架细节",
+      "onboard_time": 1712675600,
+      "rank": 40,
+      "category": "情感"
+    },
+    {
       "raw_hot": 175885,
       "num": 175885,
       "word": "为什么每天刷牙还会长虫牙",
@@ -7235,6 +7267,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 148898,
+      "num": 197968,
+      "word": "极氪007实测续航近9成",
+      "onboard_time": 1712673799,
+      "rank": 32,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 148684,
       "num": 148684,
       "word": "白色梨花融入故宫配色",
@@ -7417,14 +7457,6 @@
       "onboard_time": 1712534958,
       "rank": 43,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 143009,
-      "num": 143009,
-      "word": "为啥女人会记住男人记不住的吵架细节",
-      "onboard_time": 1712675600,
-      "rank": 40,
-      "category": "情感"
     },
     {
       "raw_hot": 142208,
@@ -8235,14 +8267,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 121485,
-      "num": 121485,
-      "word": "高合",
-      "onboard_time": 1712675780,
-      "rank": 44,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 121457,
       "num": 121457,
       "word": "刘敏涛有自己的职场宇宙",
@@ -8289,14 +8313,6 @@
       "onboard_time": 1712487559,
       "rank": 48,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 119955,
-      "num": 197968,
-      "word": "极氪007实测续航近9成",
-      "onboard_time": 1712673799,
-      "rank": 32,
-      "category": "汽车"
     },
     {
       "raw_hot": 119845,
@@ -8521,6 +8537,14 @@
       "onboard_time": 1712634319,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 107783,
+      "num": 107783,
+      "word": "承欢记预告",
+      "onboard_time": 1712676620,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 105795,

@@ -1,6 +1,6 @@
 {
   "startTime": 1712593429256,
-  "endTime": 1712675928347,
+  "endTime": 1712676952063,
   "band_list": [
     {
       "raw_hot": 2371874,
@@ -267,8 +267,8 @@
       "category": "时尚"
     },
     {
-      "raw_hot": 838562,
-      "num": 838562,
+      "raw_hot": 854956,
+      "num": 854956,
       "word": "杨紫瘦了好多",
       "onboard_time": 1712674099,
       "rank": 1,
@@ -505,6 +505,14 @@
       "onboard_time": 1712630418,
       "rank": 5,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 567726,
+      "num": 336056,
+      "word": "突然理解英国留子的绝望了",
+      "onboard_time": 1712674759,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 567725,
@@ -747,6 +755,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 454201,
+      "num": 454201,
+      "word": "去年B站超180万UP主通过直播获得收入",
+      "onboard_time": 1712673439,
+      "rank": 10,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 449560,
       "num": 449560,
       "word": "周雨彤 一次醉酒换来一生内向",
@@ -793,6 +809,14 @@
       "onboard_time": 1712664138,
       "rank": 15,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 440152,
+      "num": 440152,
+      "word": "二哈和他的白猫师尊",
+      "onboard_time": 1712676078,
+      "rank": 6,
+      "category": "动漫,作品衍生"
     },
     {
       "raw_hot": 436299,
@@ -849,14 +873,6 @@
       "onboard_time": 1712577139,
       "rank": 12,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 409766,
-      "num": 362464,
-      "word": "去年B站超180万UP主通过直播获得收入",
-      "onboard_time": 1712673439,
-      "rank": 10,
-      "category": "互联网"
     },
     {
       "raw_hot": 406840,
@@ -1139,14 +1155,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 314883,
-      "num": 205054,
-      "word": "突然理解英国留子的绝望了",
-      "onboard_time": 1712674759,
-      "rank": 30,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 314156,
       "num": 314156,
       "word": "韩男真的好会提供情绪价值",
@@ -1219,6 +1227,14 @@
       "category": "美食,社会新闻"
     },
     {
+      "raw_hot": 301422,
+      "num": 301422,
+      "word": "暴雪",
+      "onboard_time": 1712671819,
+      "rank": 37,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 299519,
       "num": 243738,
       "word": "男孩玩游戏充值2万父亲连扇自己耳光",
@@ -1257,6 +1273,14 @@
       "onboard_time": 1712648059,
       "rank": 18,
       "category": "军事"
+    },
+    {
+      "raw_hot": 289077,
+      "num": 289077,
+      "word": "导演把与凤行吻戏给刘宇宁当教材",
+      "onboard_time": 1712674340,
+      "rank": 21,
+      "category": "剧集"
     },
     {
       "raw_hot": 286896,
@@ -1337,22 +1361,6 @@
       "onboard_time": 1712619137,
       "rank": 36,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 269147,
-      "num": 258960,
-      "word": "导演把与凤行吻戏给刘宇宁当教材",
-      "onboard_time": 1712674340,
-      "rank": 21,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 268116,
-      "num": 268116,
-      "word": "暴雪",
-      "onboard_time": 1712671819,
-      "rank": 37,
-      "category": "游戏"
     },
     {
       "raw_hot": 267754,
@@ -1651,6 +1659,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 227554,
+      "num": 227554,
+      "word": "原来放松时舌头是贴在上颚的",
+      "onboard_time": 1712674340,
+      "rank": 27,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 226672,
       "num": 187446,
       "word": "黄景瑜王一博雨中打戏",
@@ -1665,6 +1681,14 @@
       "onboard_time": 1712597892,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 223978,
+      "num": 223978,
+      "word": "高合",
+      "onboard_time": 1712675780,
+      "rank": 44,
+      "category": "汽车"
     },
     {
       "raw_hot": 223970,
@@ -1763,6 +1787,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 212926,
+      "num": 212926,
+      "word": "外卖小哥连续3年住15元一晚宾馆",
+      "onboard_time": 1712675660,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 212654,
       "num": 212654,
       "word": "是文俊辉的话黄毛也可以",
@@ -1833,14 +1865,6 @@
       "onboard_time": 1712624720,
       "rank": 35,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 206523,
-      "num": 206523,
-      "word": "原来放松时舌头是贴在上颚的",
-      "onboard_time": 1712674340,
-      "rank": 27,
-      "category": "科学科普"
     },
     {
       "raw_hot": 206209,
@@ -2219,6 +2243,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 181806,
+      "num": 181806,
+      "word": "金价",
+      "onboard_time": 1712675898,
+      "rank": 49,
+      "category": "财经"
+    },
+    {
       "raw_hot": 181559,
       "num": 181559,
       "word": "林允清水淡妆",
@@ -2256,6 +2288,14 @@
       "word": "今天怎么才星期二",
       "onboard_time": 1712625319,
       "rank": 41,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 175936,
+      "num": 175936,
+      "word": "为啥女人会记住男人记不住的吵架细节",
+      "onboard_time": 1712675600,
+      "rank": 40,
       "category": "情感"
     },
     {
@@ -2531,6 +2571,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 148898,
+      "num": 197968,
+      "word": "极氪007实测续航近9成",
+      "onboard_time": 1712673799,
+      "rank": 32,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 148108,
       "num": 148108,
       "word": "ZARA中国近四成分公司已注销",
@@ -2617,14 +2665,6 @@
       "onboard_time": 1712655199,
       "rank": 48,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 143009,
-      "num": 143009,
-      "word": "为啥女人会记住男人记不住的吵架细节",
-      "onboard_time": 1712675600,
-      "rank": 40,
-      "category": "情感"
     },
     {
       "raw_hot": 142208,
@@ -2867,14 +2907,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 121485,
-      "num": 121485,
-      "word": "高合",
-      "onboard_time": 1712675780,
-      "rank": 44,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 121095,
       "num": 121095,
       "word": "金钟仁纪念EXO出道12周年",
@@ -2889,14 +2921,6 @@
       "onboard_time": 1712651238,
       "rank": 44,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 119955,
-      "num": 197968,
-      "word": "极氪007实测续航近9成",
-      "onboard_time": 1712673799,
-      "rank": 32,
-      "category": "汽车"
     },
     {
       "raw_hot": 119780,
@@ -3019,20 +3043,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 107783,
+      "num": 107783,
+      "word": "承欢记预告",
+      "onboard_time": 1712676620,
+      "rank": 49,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 107307,
       "num": 107307,
       "word": "虐猫考生",
       "onboard_time": 1712573899,
       "rank": 41,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 107106,
-      "num": 107106,
-      "word": "金价",
-      "onboard_time": 1712675898,
-      "rank": 49,
-      "category": "财经"
     },
     {
       "raw_hot": 105349,
