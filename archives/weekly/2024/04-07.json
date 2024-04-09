@@ -1,6 +1,6 @@
 {
   "startTime": 1712420539476,
-  "endTime": 1712651669428,
+  "endTime": 1712654364131,
   "band_list": [
     {
       "raw_hot": 9583581,
@@ -500,7 +500,7 @@
     },
     {
       "raw_hot": 1153076,
-      "num": 680175,
+      "num": 1049415,
       "word": "章若楠原名",
       "onboard_time": 1712649919,
       "rank": 11,
@@ -601,6 +601,14 @@
       "onboard_time": 1712645900,
       "rank": 14,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 1049506,
+      "num": 1049506,
+      "word": "陈赫直播回应撮合林更新赵丽颖",
+      "onboard_time": 1712651359,
+      "rank": 30,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 1045491,
@@ -705,6 +713,14 @@
       "onboard_time": 1712555418,
       "rank": 3,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 927838,
+      "num": 927838,
+      "word": "金价大涨打乱备婚计划",
+      "onboard_time": 1712650459,
+      "rank": 19,
+      "category": "财经"
     },
     {
       "raw_hot": 927296,
@@ -1051,6 +1067,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 724755,
+      "num": 724755,
+      "word": "火星哥把林俊杰截掉了",
+      "onboard_time": 1712652739,
+      "rank": 5,
+      "category": "演出"
+    },
+    {
       "raw_hot": 718756,
       "num": 718756,
       "word": "成都文旅还没反应过来 迪士尼建好了",
@@ -1073,6 +1097,14 @@
       "onboard_time": 1712640141,
       "rank": 25,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 716278,
+      "num": 716278,
+      "word": "王者荣耀 酷洛米",
+      "onboard_time": 1712650220,
+      "rank": 6,
+      "category": "游戏"
     },
     {
       "raw_hot": 713771,
@@ -1491,12 +1523,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 582046,
-      "num": 582046,
-      "word": "金价大涨打乱备婚计划",
-      "onboard_time": 1712650459,
-      "rank": 19,
-      "category": "财经"
+      "raw_hot": 589597,
+      "num": 589597,
+      "word": "杨紫剧播优酷急了",
+      "onboard_time": 1712652320,
+      "rank": 8,
+      "category": "剧集"
     },
     {
       "raw_hot": 580614,
@@ -2027,6 +2059,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 469979,
+      "num": 469979,
+      "word": "白玉兰奖入围名单5月公布",
+      "onboard_time": 1712650699,
+      "rank": 14,
+      "category": "电影"
+    },
+    {
       "raw_hot": 469481,
       "num": 469481,
       "word": "某幻不直播",
@@ -2363,14 +2403,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 419427,
-      "num": 419427,
-      "word": "白玉兰奖入围名单5月公布",
-      "onboard_time": 1712650699,
-      "rank": 14,
-      "category": "电影"
-    },
-    {
       "raw_hot": 418547,
       "num": 418547,
       "word": "想当行长男孩父亲所在支行回应",
@@ -2449,6 +2481,14 @@
       "onboard_time": 1712639722,
       "rank": 42,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 395604,
+      "num": 285887,
+      "word": "1个蛋糕1万5老板收巨额订单报警",
+      "onboard_time": 1712649798,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 391743,
@@ -2793,6 +2833,14 @@
       "onboard_time": 1712460139,
       "rank": 17,
       "category": "演出"
+    },
+    {
+      "raw_hot": 344361,
+      "num": 201473,
+      "word": "爸妈辛苦一辈子买的商铺不值钱了",
+      "onboard_time": 1712653639,
+      "rank": 30,
+      "category": "情感"
     },
     {
       "raw_hot": 343844,
@@ -3203,6 +3251,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 300462,
+      "num": 300462,
+      "word": "毛不易 内娱贝爷",
+      "onboard_time": 1712651660,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 299519,
       "num": 243738,
       "word": "男孩玩游戏充值2万父亲连扇自己耳光",
@@ -3443,6 +3499,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 274141,
+      "num": 274141,
+      "word": "BoA清空ins",
+      "onboard_time": 1712653040,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 273999,
       "num": 273999,
       "word": "成龙都70了",
@@ -3475,12 +3539,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 270459,
-      "num": 270459,
-      "word": "1个蛋糕1万5老板收巨额订单报警",
-      "onboard_time": 1712649798,
-      "rank": 29,
-      "category": "社会新闻"
+      "raw_hot": 270951,
+      "num": 270951,
+      "word": "眼泪女王回本",
+      "onboard_time": 1712653459,
+      "rank": 22,
+      "category": "剧集"
     },
     {
       "raw_hot": 269400,
@@ -4043,6 +4107,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 235897,
+      "num": 200065,
+      "word": "怎么面对婆婆廉价的好意",
+      "onboard_time": 1712654000,
+      "rank": 31,
+      "category": "情感"
+    },
+    {
       "raw_hot": 234837,
       "num": 234837,
       "word": "体制内入职早年龄却比我小的同事",
@@ -4283,14 +4355,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 221726,
-      "num": 221726,
-      "word": "陈赫直播回应撮合林更新赵丽颖",
-      "onboard_time": 1712651359,
-      "rank": 30,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 221062,
       "num": 221062,
       "word": "哈尔的移动城堡 配音",
@@ -4351,6 +4415,14 @@
       "num": 217807,
       "word": "成龙杨幂霍建华旧照",
       "onboard_time": 1712488997,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 217066,
+      "num": 217066,
+      "word": "makestar 进不去",
+      "onboard_time": 1712653279,
       "rank": 25,
       "category": "艺人"
     },
@@ -4457,6 +4529,14 @@
       "onboard_time": 1712499079,
       "rank": 41,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 211904,
+      "num": 211904,
+      "word": "雷军祝智界S7大卖",
+      "onboard_time": 1712653700,
+      "rank": 27,
+      "category": "汽车"
     },
     {
       "raw_hot": 210504,
@@ -4793,6 +4873,14 @@
       "onboard_time": 1712574920,
       "rank": 28,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 202994,
+      "num": 202994,
+      "word": "为什么睡很久还是很困",
+      "onboard_time": 1712652679,
+      "rank": 29,
+      "category": "幽默"
     },
     {
       "raw_hot": 202991,
@@ -5403,6 +5491,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 185965,
+      "num": 185965,
+      "word": "真的很喜欢大方表达爱意的人",
+      "onboard_time": 1712652979,
+      "rank": 33,
+      "category": "情感"
+    },
+    {
       "raw_hot": 185937,
       "num": 185937,
       "word": "Doinb给Tian加油",
@@ -5545,6 +5641,14 @@
       "onboard_time": 1712470099,
       "rank": 33,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 182109,
+      "num": 182109,
+      "word": "劝朋友别轻易辞职被拉黑了",
+      "onboard_time": 1712653459,
+      "rank": 38,
+      "category": "情感"
     },
     {
       "raw_hot": 181878,
@@ -5867,6 +5971,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 170787,
+      "num": 170787,
+      "word": "老乡鸡制菜流程有多复杂",
+      "onboard_time": 1712653759,
+      "rank": 40,
+      "category": "美食,财经"
+    },
+    {
       "raw_hot": 170639,
       "num": 170639,
       "word": "雷军许愿池",
@@ -6137,6 +6249,14 @@
       "onboard_time": 1712524330,
       "rank": 49,
       "category": "美食"
+    },
+    {
+      "raw_hot": 159443,
+      "num": 159443,
+      "word": "才发现家稳的关键是老人稳",
+      "onboard_time": 1712654119,
+      "rank": 42,
+      "category": "情感"
     },
     {
       "raw_hot": 159262,
@@ -6955,6 +7075,14 @@
       "category": "音乐,时尚"
     },
     {
+      "raw_hot": 130477,
+      "num": 130477,
+      "word": "现在流行情侣一起来面试吗",
+      "onboard_time": 1712654299,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 130341,
       "num": 130341,
       "word": "李荣浩新专",
@@ -6969,6 +7097,14 @@
       "onboard_time": 1712649080,
       "rank": 44,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 129666,
+      "num": 129666,
+      "word": "汉堡王卖不好9.9套餐",
+      "onboard_time": 1712654299,
+      "rank": 49,
+      "category": "美食"
     },
     {
       "raw_hot": 129212,
@@ -7739,6 +7875,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 73217,
+      "num": 512166,
+      "word": "全球最长寿朱鹮今天38岁啦",
+      "onboard_time": 1712654059,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 73030,
+      "num": 323832,
+      "word": "高铁穿越金黄花海驶向春天",
+      "onboard_time": 1712652199,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 71918,
       "num": 71918,
       "word": "诺米好可爱",
@@ -7764,7 +7916,7 @@
     },
     {
       "raw_hot": 70598,
-      "num": 320997,
+      "num": 479062,
       "word": "极氪007大黄零百实测3.03秒",
       "onboard_time": 1712650699,
       "rank": 45,
@@ -7801,6 +7953,14 @@
       "onboard_time": 1712547680,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 66065,
+      "num": 238528,
+      "word": "Q1手机激活量前三都是国产品牌",
+      "onboard_time": 1712651180,
+      "rank": 39,
+      "category": "数码"
     },
     {
       "raw_hot": 65786,
@@ -7905,14 +8065,6 @@
       "onboard_time": 1712427012,
       "rank": 30,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 47370,
-      "num": 142232,
-      "word": "Q1手机激活量前三都是国产品牌",
-      "onboard_time": 1712651180,
-      "rank": 39,
-      "category": "数码"
     },
     {
       "raw_hot": 47175,
@@ -8131,6 +8283,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 16020,
+      "num": 1049446,
+      "word": "春日郁金香壁纸上新",
+      "onboard_time": 1712654179,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 15726,
       "num": 21921,
       "word": "浙大学霸捐出全部国家奖学金反哺家乡山区学校",
@@ -8190,6 +8350,9 @@
     },
     {
       "word": "#习近平会见越南国会主席#"
+    },
+    {
+      "word": "#推进创新链产业链资金链人才链深度融合#"
     }
   ]
 }

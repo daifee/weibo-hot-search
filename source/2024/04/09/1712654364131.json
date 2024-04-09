@@ -1,0 +1,410 @@
+{
+  "runTime": 1712654364131,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1151963,
+        "num": 1151963,
+        "word": "黄磊首谈儿子",
+        "onboard_time": 1712648238,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1049506,
+        "num": 1049506,
+        "word": "陈赫直播回应撮合林更新赵丽颖",
+        "onboard_time": 1712651359,
+        "rank": 1,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 16020,
+        "num": 1049446,
+        "word": "春日郁金香壁纸上新",
+        "onboard_time": 1712654179,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1049415,
+        "num": 1049415,
+        "word": "章若楠原名",
+        "onboard_time": 1712649919,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 927838,
+        "num": 927838,
+        "word": "金价大涨打乱备婚计划",
+        "onboard_time": 1712650459,
+        "rank": 4,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 724755,
+        "num": 724755,
+        "word": "火星哥把林俊杰截掉了",
+        "onboard_time": 1712652739,
+        "rank": 5,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 716278,
+        "num": 716278,
+        "word": "王者荣耀 酷洛米",
+        "onboard_time": 1712650220,
+        "rank": 6,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 706281,
+        "num": 706281,
+        "word": "暴雪 回归",
+        "onboard_time": 1712626219,
+        "rank": 7,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 589597,
+        "num": 589597,
+        "word": "杨紫剧播优酷急了",
+        "onboard_time": 1712652320,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 73217,
+        "num": 512166,
+        "word": "全球最长寿朱鹮今天38岁啦",
+        "onboard_time": 1712654059,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 52618,
+        "num": 479062,
+        "word": "极氪007大黄零百实测3.03秒",
+        "onboard_time": 1712650699,
+        "rank": 10,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 469979,
+        "num": 469979,
+        "word": "白玉兰奖入围名单5月公布",
+        "onboard_time": 1712650699,
+        "rank": 11,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 397365,
+        "num": 397365,
+        "word": "淘宝买到假茅台官方拒绝10倍赔偿",
+        "onboard_time": 1712645900,
+        "rank": 12,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 383428,
+        "num": 383428,
+        "word": "赵露思吊带皮裙",
+        "onboard_time": 1712644999,
+        "rank": 13,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 193489,
+        "num": 374673,
+        "word": "云南一村庄20多头牛离奇死亡",
+        "onboard_time": 1712647579,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 372930,
+        "num": 372930,
+        "word": "王俊凯 演唱会",
+        "onboard_time": 1712649499,
+        "rank": 15,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 356038,
+        "num": 356038,
+        "word": "比亚迪卖一辆车净赚9000元",
+        "onboard_time": 1712633540,
+        "rank": 16,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 73030,
+        "num": 323832,
+        "word": "高铁穿越金黄花海驶向春天",
+        "onboard_time": 1712652199,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 300462,
+        "num": 300462,
+        "word": "毛不易 内娱贝爷",
+        "onboard_time": 1712651660,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 290457,
+        "num": 290457,
+        "word": "月薪三万的家庭主妇",
+        "onboard_time": 1712643859,
+        "rank": 19,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 395604,
+        "num": 285887,
+        "word": "1个蛋糕1万5老板收巨额订单报警",
+        "onboard_time": 1712649798,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 274141,
+        "num": 274141,
+        "word": "BoA清空ins",
+        "onboard_time": 1712653040,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 270951,
+        "num": 270951,
+        "word": "眼泪女王回本",
+        "onboard_time": 1712653459,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 66065,
+        "num": 238528,
+        "word": "Q1手机激活量前三都是国产品牌",
+        "onboard_time": 1712651180,
+        "rank": 23,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 234268,
+        "num": 234268,
+        "word": "刘亦菲又缝衣服了",
+        "onboard_time": 1712636599,
+        "rank": 24,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 217066,
+        "num": 217066,
+        "word": "makestar 进不去",
+        "onboard_time": 1712653279,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 213281,
+        "num": 213281,
+        "word": "卜凡说再来一次不会参加偶练",
+        "onboard_time": 1712647159,
+        "rank": 26,
+        "category": "综艺,时尚"
+      },
+      {
+        "raw_hot": 211904,
+        "num": 211904,
+        "word": "雷军祝智界S7大卖",
+        "onboard_time": 1712653700,
+        "rank": 27,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 169900,
+        "num": 203276,
+        "word": "男子与女子未领证分手近20万彩礼退3万",
+        "onboard_time": 1712643859,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 202994,
+        "num": 202994,
+        "word": "为什么睡很久还是很困",
+        "onboard_time": 1712652679,
+        "rank": 29,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 344361,
+        "num": 201473,
+        "word": "爸妈辛苦一辈子买的商铺不值钱了",
+        "onboard_time": 1712653639,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 235897,
+        "num": 200065,
+        "word": "怎么面对婆婆廉价的好意",
+        "onboard_time": 1712654000,
+        "rank": 31,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 193336,
+        "num": 193336,
+        "word": "一辈子都没有这周长",
+        "onboard_time": 1712648300,
+        "rank": 32,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 185965,
+        "num": 185965,
+        "word": "真的很喜欢大方表达爱意的人",
+        "onboard_time": 1712652979,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 167370,
+        "num": 185534,
+        "word": "以色列为何突然撤军",
+        "onboard_time": 1712648059,
+        "rank": 34,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 53593,
+        "num": 185288,
+        "word": "把感动中国的故事写成一首歌",
+        "onboard_time": 1712634019,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 185102,
+        "num": 185102,
+        "word": "给妈妈买了套房该写谁的名",
+        "onboard_time": 1712647400,
+        "rank": 36,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 182922,
+        "num": 182922,
+        "word": "迪丽热巴路透",
+        "onboard_time": 1712646319,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 182109,
+        "num": 182109,
+        "word": "劝朋友别轻易辞职被拉黑了",
+        "onboard_time": 1712653459,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 173815,
+        "num": 173815,
+        "word": "长沙一学生疑被老师殴打后跳楼去世",
+        "onboard_time": 1712640141,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 170787,
+        "num": 170787,
+        "word": "老乡鸡制菜流程有多复杂",
+        "onboard_time": 1712653759,
+        "rank": 40,
+        "category": "美食,财经"
+      },
+      {
+        "raw_hot": 169352,
+        "num": 169352,
+        "word": "被女朋友的防溅油操作秀到了",
+        "onboard_time": 1712650220,
+        "rank": 41,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 159443,
+        "num": 159443,
+        "word": "才发现家稳的关键是老人稳",
+        "onboard_time": 1712654119,
+        "rank": 42,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 153679,
+        "num": 153679,
+        "word": "虐猫考生该懂的不是舆论而是敬畏生命",
+        "onboard_time": 1712628558,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 153556,
+        "num": 153556,
+        "word": "欧阳娜娜归来仍才23岁",
+        "onboard_time": 1712636419,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 150516,
+        "num": 150516,
+        "word": "刘昊然否认和陈思诚绑定",
+        "onboard_time": 1712639900,
+        "rank": 45,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 135405,
+        "num": 135405,
+        "word": "杨紫牛骏峰吻戏被打断",
+        "onboard_time": 1712646139,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 130477,
+        "num": 130477,
+        "word": "现在流行情侣一起来面试吗",
+        "onboard_time": 1712654299,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 129849,
+        "num": 129849,
+        "word": "小县城躺平真的太安逸了",
+        "onboard_time": 1712646381,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 129666,
+        "num": 129666,
+        "word": "汉堡王卖不好9.9套餐",
+        "onboard_time": 1712654299,
+        "rank": 49,
+        "category": "美食"
+      }
+    ],
+    "hotgov": {
+      "word": "#推进创新链产业链资金链人才链深度融合#"
+    }
+  }
+}
