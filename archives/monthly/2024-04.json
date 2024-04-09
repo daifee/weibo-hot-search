@@ -1,6 +1,6 @@
 {
   "startTime": 1711902044401,
-  "endTime": 1712654364131,
+  "endTime": 1712655258988,
   "band_list": [
     {
       "raw_hot": 16874674,
@@ -1851,6 +1851,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1057527,
+      "num": 1057527,
+      "word": "陈赫直播回应撮合林更新赵丽颖",
+      "onboard_time": 1712651359,
+      "rank": 30,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 1057010,
       "num": 1057010,
       "word": "福宝路上带的竹子没吃完",
@@ -1889,14 +1897,6 @@
       "onboard_time": 1712645900,
       "rank": 14,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 1049506,
-      "num": 1049506,
-      "word": "陈赫直播回应撮合林更新赵丽颖",
-      "onboard_time": 1712651359,
-      "rank": 30,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 1045491,
@@ -7859,6 +7859,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 390059,
+      "num": 268456,
+      "word": "爸妈辛苦一辈子买的商铺不值钱了",
+      "onboard_time": 1712653639,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 389429,
       "num": 389429,
       "word": "杨紫请国色芳华全组吃汉堡",
@@ -8603,6 +8611,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 354856,
+      "num": 354856,
+      "word": "雷军祝智界S7大卖",
+      "onboard_time": 1712653700,
+      "rank": 27,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 354112,
       "num": 354112,
       "word": "华为P70或不举办发布会直接上线销售",
@@ -8809,14 +8825,6 @@
       "onboard_time": 1712148199,
       "rank": 48,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 344361,
-      "num": 201473,
-      "word": "爸妈辛苦一辈子买的商铺不值钱了",
-      "onboard_time": 1712653639,
-      "rank": 30,
-      "category": "情感"
     },
     {
       "raw_hot": 344047,
@@ -9611,6 +9619,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 312725,
+      "num": 312725,
+      "word": "毛不易 内娱贝爷",
+      "onboard_time": 1712651660,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 312519,
       "num": 298565,
       "word": "给妈妈买了套房该写谁的名",
@@ -9993,14 +10009,6 @@
       "onboard_time": 1712047518,
       "rank": 21,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 300462,
-      "num": 300462,
-      "word": "毛不易 内娱贝爷",
-      "onboard_time": 1712651660,
-      "rank": 18,
-      "category": "综艺"
     },
     {
       "raw_hot": 300010,
@@ -10467,6 +10475,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 285260,
+      "num": 256541,
+      "word": "怎么面对婆婆廉价的好意",
+      "onboard_time": 1712654000,
+      "rank": 31,
+      "category": "情感"
+    },
+    {
       "raw_hot": 284960,
       "num": 284960,
       "word": "刘诗诗新代言",
@@ -10699,6 +10715,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 277917,
+      "num": 277917,
+      "word": "BoA清空ins",
+      "onboard_time": 1712653040,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 277757,
       "num": 227955,
       "word": "赵丽颖360度无死角",
@@ -10825,14 +10849,6 @@
       "onboard_time": 1712625678,
       "rank": 42,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 274141,
-      "num": 274141,
-      "word": "BoA清空ins",
-      "onboard_time": 1712653040,
-      "rank": 21,
-      "category": "艺人"
     },
     {
       "raw_hot": 273999,
@@ -12195,6 +12211,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 242233,
+      "num": 242233,
+      "word": "汉堡王卖不好9.9套餐",
+      "onboard_time": 1712654299,
+      "rank": 49,
+      "category": "美食"
+    },
+    {
       "raw_hot": 241987,
       "num": 241987,
       "word": "法考证",
@@ -12305,6 +12329,14 @@
       "onboard_time": 1712621360,
       "rank": 28,
       "category": "体育"
+    },
+    {
+      "raw_hot": 240242,
+      "num": 240242,
+      "word": "同事发现老板偷看聊天记录离职了",
+      "onboard_time": 1712654720,
+      "rank": 26,
+      "category": "幽默"
     },
     {
       "raw_hot": 240216,
@@ -12521,14 +12553,6 @@
       "onboard_time": 1712308938,
       "rank": 39,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 235897,
-      "num": 200065,
-      "word": "怎么面对婆婆廉价的好意",
-      "onboard_time": 1712654000,
-      "rank": 31,
-      "category": "情感"
     },
     {
       "raw_hot": 235786,
@@ -13177,6 +13201,14 @@
       "onboard_time": 1712103992,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 223469,
+      "num": 223469,
+      "word": "张艺兴专辑",
+      "onboard_time": 1712654479,
+      "rank": 27,
+      "category": "音乐"
     },
     {
       "raw_hot": 223230,
@@ -13865,14 +13897,6 @@
       "onboard_time": 1712143520,
       "rank": 41,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 211904,
-      "num": 211904,
-      "word": "雷军祝智界S7大卖",
-      "onboard_time": 1712653700,
-      "rank": 27,
-      "category": "汽车"
     },
     {
       "raw_hot": 211815,
@@ -15017,6 +15041,14 @@
       "onboard_time": 1711983021,
       "rank": 32,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 199641,
+      "num": 199641,
+      "word": "才发现家稳的关键是老人稳",
+      "onboard_time": 1712654119,
+      "rank": 42,
+      "category": "情感"
     },
     {
       "raw_hot": 199489,
@@ -17419,6 +17451,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 175836,
+      "num": 175836,
+      "word": "老乡鸡制菜流程有多复杂",
+      "onboard_time": 1712653759,
+      "rank": 40,
+      "category": "美食,财经"
+    },
+    {
       "raw_hot": 175819,
       "num": 215730,
       "word": "如何查询手机号绑定的APP账号",
@@ -17857,14 +17897,6 @@
       "onboard_time": 1712496620,
       "rank": 45,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 170787,
-      "num": 170787,
-      "word": "老乡鸡制菜流程有多复杂",
-      "onboard_time": 1712653759,
-      "rank": 40,
-      "category": "美食,财经"
     },
     {
       "raw_hot": 170660,
@@ -18313,6 +18345,14 @@
       "onboard_time": 1712323039,
       "rank": 41,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 164641,
+      "num": 164641,
+      "word": "虎狼之路",
+      "onboard_time": 1712654419,
+      "rank": 39,
+      "category": "电影"
     },
     {
       "raw_hot": 164514,
@@ -18827,14 +18867,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 159443,
-      "num": 159443,
-      "word": "才发现家稳的关键是老人稳",
-      "onboard_time": 1712654119,
-      "rank": 42,
-      "category": "情感"
-    },
-    {
       "raw_hot": 159218,
       "num": 159218,
       "word": "河南卫视我的嫡长台",
@@ -19065,6 +19097,14 @@
       "onboard_time": 1712063840,
       "rank": 49,
       "category": "情感"
+    },
+    {
+      "raw_hot": 156658,
+      "num": 512166,
+      "word": "全球最长寿朱鹮今天38岁啦",
+      "onboard_time": 1712654059,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 156578,
@@ -20723,6 +20763,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 138373,
+      "num": 138373,
+      "word": "特斯拉到底多安全",
+      "onboard_time": 1712654838,
+      "rank": 46,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 138359,
       "num": 138359,
       "word": "人在什么时候最舒服",
@@ -21171,6 +21219,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 134152,
+      "num": 134152,
+      "word": "时代少年团 特权码",
+      "onboard_time": 1712655199,
+      "rank": 48,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 133964,
       "num": 133964,
       "word": "00后女生给自己办葬礼",
@@ -21513,14 +21569,6 @@
       "onboard_time": 1712202919,
       "rank": 48,
       "category": "电影"
-    },
-    {
-      "raw_hot": 129666,
-      "num": 129666,
-      "word": "汉堡王卖不好9.9套餐",
-      "onboard_time": 1712654299,
-      "rank": 49,
-      "category": "美食"
     },
     {
       "raw_hot": 129517,
@@ -23347,6 +23395,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 88666,
+      "num": 134102,
+      "word": "喀秋莎体重已达20公斤",
+      "onboard_time": 1712655139,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 86755,
       "num": 511977,
       "word": "课本中的春天",
@@ -23603,14 +23659,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 73217,
-      "num": 512166,
-      "word": "全球最长寿朱鹮今天38岁啦",
-      "onboard_time": 1712654059,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 73121,
       "num": 73121,
       "word": "这狗能处自己出去谈客户",
@@ -23723,6 +23771,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 68016,
+      "num": 261712,
+      "word": "Q1手机激活量前三都是国产品牌",
+      "onboard_time": 1712651180,
+      "rank": 39,
+      "category": "数码"
+    },
+    {
       "raw_hot": 67405,
       "num": 67405,
       "word": "果然猫界中三花最美",
@@ -23761,14 +23817,6 @@
       "onboard_time": 1712355912,
       "rank": 42,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 66065,
-      "num": 238528,
-      "word": "Q1手机激活量前三都是国产品牌",
-      "onboard_time": 1712651180,
-      "rank": 39,
-      "category": "数码"
     },
     {
       "raw_hot": 65786,
@@ -24129,6 +24177,14 @@
       "onboard_time": 1711888759,
       "rank": 46,
       "category": "演出"
+    },
+    {
+      "raw_hot": 50596,
+      "num": 1049446,
+      "word": "春日郁金香壁纸上新",
+      "onboard_time": 1712654179,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 50366,
@@ -24761,14 +24817,6 @@
       "onboard_time": 1712429891,
       "rank": 47,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 16020,
-      "num": 1049446,
-      "word": "春日郁金香壁纸上新",
-      "onboard_time": 1712654179,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 15726,
