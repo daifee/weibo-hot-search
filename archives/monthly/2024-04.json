@@ -1,6 +1,6 @@
 {
   "startTime": 1711902044401,
-  "endTime": 1712666795977,
+  "endTime": 1712668741043,
   "band_list": [
     {
       "raw_hot": 16874674,
@@ -1331,6 +1331,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 1270988,
+      "num": 1270988,
+      "word": "11年前狂购黄金的中国大妈解套了",
+      "onboard_time": 1712664620,
+      "rank": 3,
+      "category": "财经"
+    },
+    {
       "raw_hot": 1266004,
       "num": 1266004,
       "word": "福宝小屋布满竹子笋笋苹果胡萝卜",
@@ -2435,14 +2443,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 899038,
-      "num": 899038,
-      "word": "11年前狂购黄金的中国大妈解套了",
-      "onboard_time": 1712664620,
-      "rank": 3,
-      "category": "财经"
-    },
-    {
       "raw_hot": 897265,
       "num": 897265,
       "word": "终于在高铁上发疯了",
@@ -2707,6 +2707,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 834954,
+      "num": 834954,
+      "word": "徐海乔赵丽颖同用一个耳机",
+      "onboard_time": 1712664738,
+      "rank": 1,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 834349,
       "num": 834349,
       "word": "被卷入超市扶梯女子丈夫发声",
@@ -2753,6 +2761,14 @@
       "onboard_time": 1712064080,
       "rank": 14,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 829190,
+      "num": 829190,
+      "word": "papi酱 关于小孩的疑问",
+      "onboard_time": 1712665100,
+      "rank": 14,
+      "category": "母婴育儿"
     },
     {
       "raw_hot": 827716,
@@ -3227,14 +3243,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 752399,
-      "num": 752399,
-      "word": "徐海乔赵丽颖同用一个耳机",
-      "onboard_time": 1712664738,
-      "rank": 1,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 745823,
       "num": 745823,
       "word": "检方通报邯郸初中生被害案",
@@ -3425,6 +3433,14 @@
       "onboard_time": 1712317999,
       "rank": 20,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 723371,
+      "num": 723371,
+      "word": "肖战作品",
+      "onboard_time": 1712666778,
+      "rank": 43,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 719007,
@@ -3627,20 +3643,20 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 696288,
-      "num": 696288,
-      "word": "papi酱 关于小孩的疑问",
-      "onboard_time": 1712665100,
-      "rank": 14,
-      "category": "母婴育儿"
-    },
-    {
       "raw_hot": 695776,
       "num": 695776,
       "word": "个人房贷规模大幅缩水",
       "onboard_time": 1712500041,
       "rank": 48,
       "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 695664,
+      "num": 695664,
+      "word": "北邮郑凤",
+      "onboard_time": 1712665038,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 695205,
@@ -6219,6 +6235,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 484350,
+      "num": 484350,
+      "word": "赵小棠妈妈好像参加了变形计",
+      "onboard_time": 1712664320,
+      "rank": 20,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 484073,
       "num": 484073,
       "word": "追风者结局",
@@ -6504,14 +6528,6 @@
       "word": "喀秋莎体重已达20公斤",
       "onboard_time": 1712655139,
       "rank": 49,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 468186,
-      "num": 468186,
-      "word": "北邮郑凤",
-      "onboard_time": 1712665038,
-      "rank": 19,
       "category": "社会新闻"
     },
     {
@@ -6936,6 +6952,14 @@
       "word": "费曼回应吴镇宇被向佐硬控",
       "onboard_time": 1712567599,
       "rank": 32,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 445857,
+      "num": 445857,
+      "word": "十个勤天只能是十个勤天",
+      "onboard_time": 1712664138,
+      "rank": 15,
       "category": "综艺"
     },
     {
@@ -7619,14 +7643,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 411663,
-      "num": 411663,
-      "word": "十个勤天只能是十个勤天",
-      "onboard_time": 1712664138,
-      "rank": 15,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 410973,
       "num": 410973,
       "word": "张婧仪神图的诞生",
@@ -8195,14 +8211,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 381437,
-      "num": 381437,
-      "word": "赵小棠妈妈好像参加了变形计",
-      "onboard_time": 1712664320,
-      "rank": 20,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 381359,
       "num": 381359,
       "word": "恋爱兄妹",
@@ -8480,6 +8488,14 @@
       "word": "我国推出首个饮料营养选择分级标识",
       "onboard_time": 1712455458,
       "rank": 22,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 369547,
+      "num": 369547,
+      "word": "迁西县委书记李贵富被查",
+      "onboard_time": 1712667678,
+      "rank": 12,
       "category": "社会新闻"
     },
     {
@@ -10243,6 +10259,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 299248,
+      "num": 299248,
+      "word": "与凤行全员凤言凤语",
+      "onboard_time": 1712666299,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 299076,
       "num": 299076,
       "word": "王力宏临沂",
@@ -10505,6 +10529,14 @@
       "onboard_time": 1712127320,
       "rank": 28,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 291906,
+      "num": 291906,
+      "word": "承欢记富二代装穷骗女友3年",
+      "onboard_time": 1712667560,
+      "rank": 17,
+      "category": "剧集"
     },
     {
       "raw_hot": 291649,
@@ -10937,6 +10969,14 @@
       "onboard_time": 1712549361,
       "rank": 19,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 278718,
+      "num": 278718,
+      "word": "网易回应男孩玩蛋仔派对充上万元",
+      "onboard_time": 1712667319,
+      "rank": 18,
+      "category": "游戏"
     },
     {
       "raw_hot": 277917,
@@ -12323,6 +12363,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 244296,
+      "num": 238676,
+      "word": "许凯配音",
+      "onboard_time": 1712666538,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 244255,
       "num": 244255,
       "word": "为什么收衣服的时候一定要抖一抖",
@@ -12457,6 +12505,14 @@
       "onboard_time": 1712575700,
       "rank": 42,
       "category": "财经"
+    },
+    {
+      "raw_hot": 242348,
+      "num": 242348,
+      "word": "京城大师赛",
+      "onboard_time": 1712667739,
+      "rank": 19,
+      "category": "游戏"
     },
     {
       "raw_hot": 241987,
@@ -12747,6 +12803,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 236971,
+      "num": 236971,
+      "word": "韩男真的好会提供情绪价值",
+      "onboard_time": 1712664138,
+      "rank": 36,
+      "category": "情感"
+    },
+    {
       "raw_hot": 236251,
       "num": 236251,
       "word": "看演唱会千万别用雨衣当坐垫",
@@ -12793,6 +12857,14 @@
       "onboard_time": 1711963338,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 235670,
+      "num": 235670,
+      "word": "黄多多已经18岁了",
+      "onboard_time": 1712665400,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 235588,
@@ -13643,6 +13715,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 220182,
+      "num": 220182,
+      "word": "举报县委领导被逮捕事件22人被问责",
+      "onboard_time": 1712667919,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 219906,
       "num": 219906,
       "word": "钟楚曦夹起来了",
@@ -13752,6 +13832,14 @@
       "word": "小米SU7命名来由",
       "onboard_time": 1712407997,
       "rank": 33,
+      "category": "汽车"
+    },
+    {
+      "raw_hot": 218310,
+      "num": 218310,
+      "word": "鸿蒙智行回应雷军",
+      "onboard_time": 1712666421,
+      "rank": 37,
       "category": "汽车"
     },
     {
@@ -14187,14 +14275,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 211283,
-      "num": 211283,
-      "word": "与凤行全员凤言凤语",
-      "onboard_time": 1712666299,
-      "rank": 26,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 211179,
       "num": 211179,
       "word": "金刚身上有1900万根毛",
@@ -14611,6 +14691,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 206100,
+      "num": 206100,
+      "word": "许凯演技",
+      "onboard_time": 1712667500,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 206099,
       "num": 196475,
       "word": "陈奕迅南京",
@@ -14753,14 +14841,6 @@
       "onboard_time": 1712546239,
       "rank": 37,
       "category": "电影"
-    },
-    {
-      "raw_hot": 204928,
-      "num": 204928,
-      "word": "黄多多已经18岁了",
-      "onboard_time": 1712665400,
-      "rank": 33,
-      "category": "艺人"
     },
     {
       "raw_hot": 204754,
@@ -16179,6 +16259,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 191753,
+      "num": 191753,
+      "word": "白敬亭难哄路透生图",
+      "onboard_time": 1712668339,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 191739,
       "num": 191739,
       "word": "百度四分之一代码是AI程序员写的",
@@ -16305,6 +16393,14 @@
       "onboard_time": 1711962141,
       "rank": 39,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 190871,
+      "num": 190871,
+      "word": "承欢记节奏",
+      "onboard_time": 1712668279,
+      "rank": 36,
+      "category": "剧集"
     },
     {
       "raw_hot": 190863,
@@ -16721,14 +16817,6 @@
       "onboard_time": 1712146760,
       "rank": 38,
       "category": "演出"
-    },
-    {
-      "raw_hot": 187081,
-      "num": 183555,
-      "word": "许凯配音",
-      "onboard_time": 1712666538,
-      "rank": 35,
-      "category": "剧集"
     },
     {
       "raw_hot": 187062,
@@ -17441,6 +17529,14 @@
       "onboard_time": 1711977921,
       "rank": 27,
       "category": "社会新闻,电竞"
+    },
+    {
+      "raw_hot": 180036,
+      "num": 180036,
+      "word": "欧冠",
+      "onboard_time": 1712667500,
+      "rank": 37,
+      "category": "体育"
     },
     {
       "raw_hot": 179942,
@@ -18619,6 +18715,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 165730,
+      "num": 221916,
+      "word": "专家分析金价上涨原因",
+      "onboard_time": 1712664138,
+      "rank": 29,
+      "category": "财经"
+    },
+    {
       "raw_hot": 165661,
       "num": 165661,
       "word": "剑网3发布赛事异常详情说明",
@@ -19203,6 +19307,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 159387,
+      "num": 159387,
+      "word": "为什么女儿的反应这么强烈",
+      "onboard_time": 1712664138,
+      "rank": 39,
+      "category": "情感"
+    },
+    {
       "raw_hot": 159218,
       "num": 159218,
       "word": "河南卫视我的嫡长台",
@@ -19425,14 +19537,6 @@
       "onboard_time": 1712228718,
       "rank": 39,
       "category": "情感"
-    },
-    {
-      "raw_hot": 156689,
-      "num": 156689,
-      "word": "鸿蒙智行回应雷军",
-      "onboard_time": 1712666421,
-      "rank": 37,
-      "category": "汽车"
     },
     {
       "raw_hot": 156667,
@@ -19793,14 +19897,6 @@
       "onboard_time": 1711895240,
       "rank": 19,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 152693,
-      "num": 152693,
-      "word": "韩男真的好会提供情绪价值",
-      "onboard_time": 1712664138,
-      "rank": 36,
-      "category": "情感"
     },
     {
       "raw_hot": 152494,
@@ -20739,14 +20835,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 143298,
-      "num": 143298,
-      "word": "为什么女儿的反应这么强烈",
-      "onboard_time": 1712664138,
-      "rank": 39,
-      "category": "情感"
-    },
-    {
       "raw_hot": 143269,
       "num": 143269,
       "word": "我承认昨天对行止太大声了",
@@ -20825,6 +20913,22 @@
       "onboard_time": 1712020220,
       "rank": 47,
       "category": "财经"
+    },
+    {
+      "raw_hot": 142283,
+      "num": 302014,
+      "word": "极氪001实测续航超580公里",
+      "onboard_time": 1712665759,
+      "rank": 46,
+      "category": "汽车"
+    },
+    {
+      "raw_hot": 142208,
+      "num": 142208,
+      "word": "东北法庭的松弛感",
+      "onboard_time": 1712666900,
+      "rank": 45,
+      "category": "幽默"
     },
     {
       "raw_hot": 142067,
@@ -21057,6 +21161,14 @@
       "onboard_time": 1712535259,
       "rank": 44,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 139324,
+      "num": 139324,
+      "word": "上海申花vs武汉三镇",
+      "onboard_time": 1712667678,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 139083,
@@ -21537,14 +21649,6 @@
       "onboard_time": 1712659278,
       "rank": 39,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 135380,
-      "num": 135380,
-      "word": "肖战作品",
-      "onboard_time": 1712666778,
-      "rank": 43,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 135366,
@@ -22265,6 +22369,14 @@
       "onboard_time": 1712484979,
       "rank": 48,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 125933,
+      "num": 125933,
+      "word": "纪凌尘让宁静叫他chen",
+      "onboard_time": 1712668638,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 125817,
@@ -23449,14 +23561,6 @@
       "onboard_time": 1712395937,
       "rank": 47,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 102976,
-      "num": 205107,
-      "word": "专家分析金价上涨原因",
-      "onboard_time": 1712664138,
-      "rank": 29,
-      "category": "财经"
     },
     {
       "raw_hot": 102902,
@@ -24683,14 +24787,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 48568,
-      "num": 228382,
-      "word": "极氪001实测续航超580公里",
-      "onboard_time": 1712665759,
-      "rank": 46,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 48455,
       "num": 48455,
       "word": "WBG告别季后赛",
@@ -24921,6 +25017,14 @@
       "onboard_time": 1712437750,
       "rank": 43,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 34913,
+      "num": 830964,
+      "word": "70秒看祖国大地春意盎然",
+      "onboard_time": 1712667678,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 34601,
@@ -25489,6 +25593,9 @@
     },
     {
       "word": "#推进创新链产业链资金链人才链深度融合#"
+    },
+    {
+      "word": "#中巴两党第七届理论研讨会#"
     }
   ]
 }

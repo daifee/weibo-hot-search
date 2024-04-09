@@ -1,0 +1,410 @@
+{
+  "runTime": 1712668741043,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1270988,
+        "num": 1270988,
+        "word": "11年前狂购黄金的中国大妈解套了",
+        "onboard_time": 1712664620,
+        "rank": 0,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 834954,
+        "num": 834954,
+        "word": "徐海乔赵丽颖同用一个耳机",
+        "onboard_time": 1712664738,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 34913,
+        "num": 830964,
+        "word": "70秒看祖国大地春意盎然",
+        "onboard_time": 1712667678,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 829190,
+        "num": 829190,
+        "word": "papi酱 关于小孩的疑问",
+        "onboard_time": 1712665100,
+        "rank": 3,
+        "category": "母婴育儿"
+      },
+      {
+        "raw_hot": 723371,
+        "num": 723371,
+        "word": "肖战作品",
+        "onboard_time": 1712666778,
+        "rank": 4,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 711543,
+        "num": 711543,
+        "word": "承欢记收视率",
+        "onboard_time": 1712664738,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 695664,
+        "num": 695664,
+        "word": "北邮郑凤",
+        "onboard_time": 1712665038,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 649826,
+        "num": 649826,
+        "word": "李栋旭在工作人员头上读剧本",
+        "onboard_time": 1712663058,
+        "rank": 7,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 503052,
+        "num": 503052,
+        "word": "审判承欢记",
+        "onboard_time": 1712664559,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 164359,
+        "num": 486319,
+        "word": "00后帅哥送锦旗民警看了差点没绷住",
+        "onboard_time": 1712656220,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 484350,
+        "num": 484350,
+        "word": "赵小棠妈妈好像参加了变形计",
+        "onboard_time": 1712664320,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 445857,
+        "num": 445857,
+        "word": "十个勤天只能是十个勤天",
+        "onboard_time": 1712664138,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 369547,
+        "num": 369547,
+        "word": "迁西县委书记李贵富被查",
+        "onboard_time": 1712667678,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 355928,
+        "num": 355928,
+        "word": "檀健次金世佳猎罪图鉴2同框路透",
+        "onboard_time": 1712663478,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 284451,
+        "num": 313279,
+        "word": "多邻国 花粉症",
+        "onboard_time": 1712659220,
+        "rank": 14,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 142283,
+        "num": 302014,
+        "word": "极氪001实测续航超580公里",
+        "onboard_time": 1712665759,
+        "rank": 15,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 299248,
+        "num": 299248,
+        "word": "与凤行全员凤言凤语",
+        "onboard_time": 1712666299,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 291906,
+        "num": 291906,
+        "word": "承欢记富二代装穷骗女友3年",
+        "onboard_time": 1712667560,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 278718,
+        "num": 278718,
+        "word": "网易回应男孩玩蛋仔派对充上万元",
+        "onboard_time": 1712667319,
+        "rank": 18,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 242348,
+        "num": 242348,
+        "word": "京城大师赛",
+        "onboard_time": 1712667739,
+        "rank": 19,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 320354,
+        "num": 241949,
+        "word": "经常熬夜的六个好处",
+        "onboard_time": 1712664738,
+        "rank": 20,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 286086,
+        "num": 241412,
+        "word": "23岁女歌手因心力衰竭去世",
+        "onboard_time": 1712655738,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 269594,
+        "num": 240651,
+        "word": "火星哥把林俊杰截掉了",
+        "onboard_time": 1712652739,
+        "rank": 22,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 267138,
+        "num": 239695,
+        "word": "林更新说45岁星玥三搭",
+        "onboard_time": 1712657061,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 239456,
+        "num": 239456,
+        "word": "减肥搭子把我删了",
+        "onboard_time": 1712664078,
+        "rank": 24,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 244296,
+        "num": 238676,
+        "word": "许凯配音",
+        "onboard_time": 1712666538,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 236971,
+        "num": 236971,
+        "word": "韩男真的好会提供情绪价值",
+        "onboard_time": 1712664138,
+        "rank": 26,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 235670,
+        "num": 235670,
+        "word": "黄多多已经18岁了",
+        "onboard_time": 1712665400,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 232072,
+        "num": 232072,
+        "word": "马英九说任何去中国化的行径都不会成功",
+        "onboard_time": 1712655440,
+        "rank": 28,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 165730,
+        "num": 221916,
+        "word": "专家分析金价上涨原因",
+        "onboard_time": 1712664138,
+        "rank": 29,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 220182,
+        "num": 220182,
+        "word": "举报县委领导被逮捕事件22人被问责",
+        "onboard_time": 1712667919,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 218310,
+        "num": 218310,
+        "word": "鸿蒙智行回应雷军",
+        "onboard_time": 1712666421,
+        "rank": 31,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 207834,
+        "num": 207834,
+        "word": "工作四年后考研拟录取了",
+        "onboard_time": 1712664138,
+        "rank": 32,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 206100,
+        "num": 206100,
+        "word": "许凯演技",
+        "onboard_time": 1712667500,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 198893,
+        "num": 198893,
+        "word": "贡菜为何成为火锅店顶流",
+        "onboard_time": 1712658919,
+        "rank": 34,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 191753,
+        "num": 191753,
+        "word": "白敬亭难哄路透生图",
+        "onboard_time": 1712668339,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 190871,
+        "num": 190871,
+        "word": "承欢记节奏",
+        "onboard_time": 1712668279,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 180036,
+        "num": 180036,
+        "word": "欧冠",
+        "onboard_time": 1712667500,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 172261,
+        "num": 172261,
+        "word": "爸妈辛苦一辈子买的商铺不值钱了",
+        "onboard_time": 1712653639,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 171004,
+        "num": 171004,
+        "word": "林更新回应34岁拍仙侠",
+        "onboard_time": 1712656821,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 168504,
+        "num": 168504,
+        "word": "夏之光做饭",
+        "onboard_time": 1712665580,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 159387,
+        "num": 159387,
+        "word": "为什么女儿的反应这么强烈",
+        "onboard_time": 1712664138,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 152787,
+        "num": 152787,
+        "word": "赵露思吊带皮裙",
+        "onboard_time": 1712644999,
+        "rank": 42,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 142909,
+        "num": 142909,
+        "word": "王者荣耀 酷洛米",
+        "onboard_time": 1712650220,
+        "rank": 43,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 143917,
+        "num": 142810,
+        "word": "陈赫直播回应撮合林更新赵丽颖",
+        "onboard_time": 1712651359,
+        "rank": 44,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 142208,
+        "num": 142208,
+        "word": "东北法庭的松弛感",
+        "onboard_time": 1712666900,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 139324,
+        "num": 139324,
+        "word": "上海申花vs武汉三镇",
+        "onboard_time": 1712667678,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 131671,
+        "num": 131671,
+        "word": "种地吧第二季",
+        "onboard_time": 1712661320,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 125933,
+        "num": 125933,
+        "word": "纪凌尘让宁静叫他chen",
+        "onboard_time": 1712668638,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 120443,
+        "num": 120443,
+        "word": "白鹿晒衡门有狐剧本",
+        "onboard_time": 1712665879,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#中巴两党第七届理论研讨会#"
+    }
+  }
+}
