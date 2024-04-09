@@ -1,6 +1,6 @@
 {
   "startTime": 1712420539476,
-  "endTime": 1712647094706,
+  "endTime": 1712648059962,
   "band_list": [
     {
       "raw_hot": 9583581,
@@ -595,6 +595,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 1032296,
+      "num": 565615,
+      "word": "月薪三万的家庭主妇",
+      "onboard_time": 1712643859,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 1030378,
       "num": 198666,
       "word": "日本天皇独女被曝遭受过校园霸凌",
@@ -617,14 +625,6 @@
       "onboard_time": 1712412500,
       "rank": 3,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 1010211,
-      "num": 556039,
-      "word": "月薪三万的家庭主妇",
-      "onboard_time": 1712643859,
-      "rank": 30,
-      "category": "情感"
     },
     {
       "raw_hot": 979913,
@@ -1131,6 +1131,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 688495,
+      "num": 406769,
+      "word": "淘宝买到假茅台官方拒绝10倍赔偿",
+      "onboard_time": 1712645900,
+      "rank": 14,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 687741,
       "num": 687741,
       "word": "眼泪女王",
@@ -1571,6 +1579,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 547464,
+      "num": 547464,
+      "word": "杨紫牛骏峰吻戏被打断",
+      "onboard_time": 1712646139,
+      "rank": 5,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 546639,
       "num": 546639,
       "word": "铁路杭州站致歉",
@@ -1713,6 +1729,14 @@
       "onboard_time": 1712566279,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 504654,
+      "num": 504654,
+      "word": "迪丽热巴路透",
+      "onboard_time": 1712646319,
+      "rank": 15,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 503550,
@@ -1947,6 +1971,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 472883,
+      "num": 472883,
+      "word": "赵露思吊带皮裙",
+      "onboard_time": 1712644999,
+      "rank": 6,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 470760,
       "num": 470760,
       "word": "沈图南 孤雁",
@@ -2009,6 +2041,14 @@
       "onboard_time": 1712483838,
       "rank": 20,
       "category": "情感"
+    },
+    {
+      "raw_hot": 457765,
+      "num": 457765,
+      "word": "chiikawa作者年收入52亿日元",
+      "onboard_time": 1712631798,
+      "rank": 24,
+      "category": "动漫"
     },
     {
       "raw_hot": 457209,
@@ -2171,14 +2211,6 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 432926,
-      "num": 432926,
-      "word": "杨紫牛骏峰吻戏被打断",
-      "onboard_time": 1712646139,
-      "rank": 5,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 432669,
       "num": 432669,
       "word": "冷圈太太",
@@ -2259,14 +2291,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 422234,
-      "num": 422234,
-      "word": "赵露思吊带皮裙",
-      "onboard_time": 1712644999,
-      "rank": 6,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 421165,
       "num": 316631,
       "word": "iPhone闹钟不会识别调休",
@@ -2305,14 +2329,6 @@
       "onboard_time": 1712446696,
       "rank": 17,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 408962,
-      "num": 408962,
-      "word": "chiikawa作者年收入52亿日元",
-      "onboard_time": 1712631798,
-      "rank": 24,
-      "category": "动漫"
     },
     {
       "raw_hot": 406840,
@@ -2401,6 +2417,14 @@
       "onboard_time": 1712580679,
       "rank": 23,
       "category": "情感"
+    },
+    {
+      "raw_hot": 389429,
+      "num": 389429,
+      "word": "杨紫请国色芳华全组吃汉堡",
+      "onboard_time": 1712646079,
+      "rank": 17,
+      "category": "剧集"
     },
     {
       "raw_hot": 387158,
@@ -2691,14 +2715,6 @@
       "category": "科学科普"
     },
     {
-      "raw_hot": 346779,
-      "num": 346779,
-      "word": "淘宝买到假茅台官方拒绝10倍赔偿",
-      "onboard_time": 1712645900,
-      "rank": 14,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 346462,
       "num": 346462,
       "word": "沈图南入党",
@@ -2713,14 +2729,6 @@
       "onboard_time": 1712460139,
       "rank": 17,
       "category": "演出"
-    },
-    {
-      "raw_hot": 344461,
-      "num": 344461,
-      "word": "迪丽热巴路透",
-      "onboard_time": 1712646319,
-      "rank": 15,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 343844,
@@ -2833,6 +2841,14 @@
       "onboard_time": 1712496440,
       "rank": 32,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 333192,
+      "num": 333192,
+      "word": "吴镇宇回应费曼上热搜",
+      "onboard_time": 1712647038,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 332937,
@@ -3003,14 +3019,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 310706,
-      "num": 310706,
-      "word": "杨紫请国色芳华全组吃汉堡",
-      "onboard_time": 1712646079,
-      "rank": 17,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 308833,
       "num": 307999,
       "word": "赵丽颖工作室玩梗沈璃",
@@ -3057,6 +3065,14 @@
       "onboard_time": 1712415560,
       "rank": 21,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 305115,
+      "num": 285262,
+      "word": "小县城躺平真的太安逸了",
+      "onboard_time": 1712646381,
+      "rank": 26,
+      "category": "情感"
     },
     {
       "raw_hot": 304936,
@@ -3129,6 +3145,14 @@
       "onboard_time": 1712550742,
       "rank": 29,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 297824,
+      "num": 284651,
+      "word": "给妈妈买了套房该写谁的名",
+      "onboard_time": 1712647400,
+      "rank": 22,
+      "category": "情感"
     },
     {
       "raw_hot": 297691,
@@ -3209,6 +3233,14 @@
       "onboard_time": 1712483838,
       "rank": 30,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 284518,
+      "num": 284518,
+      "word": "卜凡说再来一次不会参加偶练",
+      "onboard_time": 1712647159,
+      "rank": 23,
+      "category": "综艺"
     },
     {
       "raw_hot": 284356,
@@ -3571,6 +3603,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 255139,
+      "num": 255139,
+      "word": "成都迪士尼禁止唱歌只能拍照",
+      "onboard_time": 1712644459,
+      "rank": 49,
+      "category": "旅游,社会新闻"
+    },
+    {
       "raw_hot": 254404,
       "num": 357623,
       "word": "金高银入围百想影后",
@@ -3617,14 +3657,6 @@
       "onboard_time": 1712548880,
       "rank": 33,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 251572,
-      "num": 251572,
-      "word": "成都迪士尼禁止唱歌只能拍照",
-      "onboard_time": 1712644459,
-      "rank": 49,
-      "category": "旅游,社会新闻"
     },
     {
       "raw_hot": 250896,
@@ -3857,14 +3889,6 @@
       "onboard_time": 1712455757,
       "rank": 29,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 239058,
-      "num": 239058,
-      "word": "小县城躺平真的太安逸了",
-      "onboard_time": 1712646381,
-      "rank": 26,
-      "category": "情感"
     },
     {
       "raw_hot": 238880,
@@ -4931,6 +4955,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 197155,
+      "num": 194868,
+      "word": "周棋洛 终于到了公主的城堡",
+      "onboard_time": 1712647400,
+      "rank": 30,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 196308,
       "num": 196308,
       "word": "中医朋友建议春天要多出去玩",
@@ -5315,6 +5347,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 184491,
+      "num": 184491,
+      "word": "努比亚发布会",
+      "onboard_time": 1712646919,
+      "rank": 43,
+      "category": "数码"
+    },
+    {
       "raw_hot": 184286,
       "num": 184286,
       "word": "张杰南昌抢票",
@@ -5643,6 +5683,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 172840,
+      "num": 172840,
+      "word": "梗王费曼",
+      "onboard_time": 1712646679,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 172379,
       "num": 172379,
       "word": "追风者",
@@ -5875,14 +5923,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 162099,
-      "num": 162099,
-      "word": "梗王费曼",
-      "onboard_time": 1712646679,
-      "rank": 36,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 162094,
       "num": 162094,
       "word": "黄雀在后 爱不能逾矩",
@@ -6065,6 +6105,14 @@
       "onboard_time": 1712574380,
       "rank": 33,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 153385,
+      "num": 153385,
+      "word": "云南一村庄20多头牛离奇死亡",
+      "onboard_time": 1712647579,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 153111,
@@ -6289,14 +6337,6 @@
       "onboard_time": 1712534958,
       "rank": 43,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 142284,
-      "num": 142284,
-      "word": "努比亚发布会",
-      "onboard_time": 1712646919,
-      "rank": 43,
-      "category": "数码"
     },
     {
       "raw_hot": 142067,
@@ -6553,6 +6593,14 @@
       "onboard_time": 1712623039,
       "rank": 47,
       "category": "作品衍生,美妆"
+    },
+    {
+      "raw_hot": 135923,
+      "num": 135923,
+      "word": "负负得正官博开通",
+      "onboard_time": 1712647759,
+      "rank": 45,
+      "category": "剧集"
     },
     {
       "raw_hot": 135885,
@@ -7019,14 +7067,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 120776,
-      "num": 120776,
-      "word": "吴镇宇回应费曼上热搜",
-      "onboard_time": 1712647038,
-      "rank": 47,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 120462,
       "num": 120462,
       "word": "王一博以角色表达对警察的敬意",
@@ -7145,6 +7185,14 @@
       "onboard_time": 1712616493,
       "rank": 25,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 115784,
+      "num": 115784,
+      "word": "山东花馍大闸蟹掰开还有蟹黄",
+      "onboard_time": 1712647938,
+      "rank": 48,
+      "category": "美食"
     },
     {
       "raw_hot": 114045,
