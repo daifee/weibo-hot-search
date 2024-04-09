@@ -1,0 +1,410 @@
+{
+  "runTime": 1712632837786,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1495210,
+        "num": 1495210,
+        "word": "暴雪 回归",
+        "onboard_time": 1712626219,
+        "rank": 0,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 703839,
+        "num": 703839,
+        "word": "ZARA大量粉丝紧急扫货",
+        "onboard_time": 1712625919,
+        "rank": 1,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 45121,
+        "num": 657841,
+        "word": "我国首口超5000米深层地热科学探井",
+        "onboard_time": 1712582122,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 647742,
+        "num": 647742,
+        "word": "男子杀妻抛尸四川警方3天破案",
+        "onboard_time": 1712623459,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 610564,
+        "num": 610564,
+        "word": "赵丽颖提议的删掉父女相认戏台词",
+        "onboard_time": 1712619137,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 513458,
+        "num": 513458,
+        "word": "剑网3涉嫌操控比赛疑似诈骗",
+        "onboard_time": 1712630418,
+        "rank": 5,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 481463,
+        "num": 481463,
+        "word": "chiikawa",
+        "onboard_time": 1712627058,
+        "rank": 6,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 330743,
+        "num": 467315,
+        "word": "今年唯一一次日全食现场画面",
+        "onboard_time": 1712630897,
+        "rank": 7,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 438513,
+        "num": 466895,
+        "word": "退伍军人宿舍考研全上岸",
+        "onboard_time": 1712629757,
+        "rank": 8,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 466562,
+        "num": 466562,
+        "word": "比亚迪等中国车企或放弃美国市场",
+        "onboard_time": 1712628977,
+        "rank": 9,
+        "category": "汽车,财经"
+      },
+      {
+        "raw_hot": 961628,
+        "num": 466116,
+        "word": "鹿晗起诉莆田鞋帽商家",
+        "onboard_time": 1712629638,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 921879,
+        "num": 454053,
+        "word": "向佐评论费曼",
+        "onboard_time": 1712626939,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 730413,
+        "num": 443808,
+        "word": "林更新那是肋骨外翻不是小肚子",
+        "onboard_time": 1712628438,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 543488,
+        "num": 434283,
+        "word": "小米公司深夜连发三文",
+        "onboard_time": 1712622919,
+        "rank": 13,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 481122,
+        "num": 421919,
+        "word": "ZARA回应撤出中国传闻",
+        "onboard_time": 1712622019,
+        "rank": 14,
+        "category": "财经,时尚"
+      },
+      {
+        "raw_hot": 421364,
+        "num": 421364,
+        "word": "张子枫胡先煦吻戏",
+        "onboard_time": 1712631498,
+        "rank": 15,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 413690,
+        "num": 413690,
+        "word": "张元英连转两次圈",
+        "onboard_time": 1712619677,
+        "rank": 16,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 394527,
+        "num": 394527,
+        "word": "黄金",
+        "onboard_time": 1712629939,
+        "rank": 17,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 373179,
+        "num": 373179,
+        "word": "王一博托姐公开秀恩爱",
+        "onboard_time": 1712578400,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 267754,
+        "num": 371397,
+        "word": "金价攀升很多人一袋一袋卖黄金",
+        "onboard_time": 1712631618,
+        "rank": 19,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 921332,
+        "num": 362140,
+        "word": "虐猫考生该懂的不是舆论而是敬畏生命",
+        "onboard_time": 1712628558,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 725513,
+        "num": 362018,
+        "word": "2岁小孩看房时不幸坠亡",
+        "onboard_time": 1712625438,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 387158,
+        "num": 353052,
+        "word": "一张照片5个G",
+        "onboard_time": 1712628378,
+        "rank": 22,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 350962,
+        "num": 350962,
+        "word": "网易回应暴雪国服回归",
+        "onboard_time": 1712632278,
+        "rank": 23,
+        "category": "游戏,互联网"
+      },
+      {
+        "raw_hot": 311799,
+        "num": 311799,
+        "word": "chiikawa作者年收入52亿日元",
+        "onboard_time": 1712631798,
+        "rank": 24,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 306895,
+        "num": 306895,
+        "word": "老公失恋文学",
+        "onboard_time": 1712631077,
+        "rank": 25,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 278019,
+        "num": 278019,
+        "word": "开始推理吧",
+        "onboard_time": 1712631859,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 136549,
+        "num": 262728,
+        "word": "极氪高管直播续航实测",
+        "onboard_time": 1712631908,
+        "rank": 27,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 251429,
+        "num": 251429,
+        "word": "特斯拉市值一夜涨超1800亿",
+        "onboard_time": 1712625799,
+        "rank": 28,
+        "category": "财经,汽车"
+      },
+      {
+        "raw_hot": 148961,
+        "num": 251146,
+        "word": "压力太大胃会告诉你",
+        "onboard_time": 1712625678,
+        "rank": 29,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 1181071,
+        "num": 250780,
+        "word": "支付宝崩了",
+        "onboard_time": 1712629939,
+        "rank": 30,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 458365,
+        "num": 250302,
+        "word": "这是我没结婚前最无聊的一天",
+        "onboard_time": 1712632278,
+        "rank": 31,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 254848,
+        "num": 250025,
+        "word": "金价又新高囤金人却慌了",
+        "onboard_time": 1712619377,
+        "rank": 32,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 249721,
+        "num": 249721,
+        "word": "176的身高长了张1米5的脸",
+        "onboard_time": 1712632759,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 249434,
+        "num": 249434,
+        "word": "王一博高尔夫水平",
+        "onboard_time": 1712629877,
+        "rank": 34,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 245041,
+        "num": 245041,
+        "word": "插画师画的赵丽颖",
+        "onboard_time": 1712632100,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 217286,
+        "num": 217286,
+        "word": "虐猫考生未被兰州大学录取",
+        "onboard_time": 1712590099,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 206209,
+        "num": 206209,
+        "word": "承欢记开播预告",
+        "onboard_time": 1712632100,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 202408,
+        "num": 202408,
+        "word": "孙颖莎世排第一7800分",
+        "onboard_time": 1712626758,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 152826,
+        "num": 189082,
+        "word": "男子报警称自己被绑架将被活埋",
+        "onboard_time": 1712625498,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 226672,
+        "num": 187446,
+        "word": "黄景瑜王一博雨中打戏",
+        "onboard_time": 1712630118,
+        "rank": 40,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 185465,
+        "num": 185465,
+        "word": "赵丽颖曾推荐刘宇宁演与凤行",
+        "onboard_time": 1712585961,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 180440,
+        "num": 180440,
+        "word": "庆余年2",
+        "onboard_time": 1712588479,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 179132,
+        "num": 179132,
+        "word": "韩庚卢靖姗为妈妈庆生",
+        "onboard_time": 1712627598,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 173720,
+        "num": 173720,
+        "word": "贺峻霖新歌",
+        "onboard_time": 1712632638,
+        "rank": 44,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 164628,
+        "num": 164628,
+        "word": "昨天偶遇的韩女太幽默了",
+        "onboard_time": 1712627899,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 160456,
+        "num": 160456,
+        "word": "永夜星河春日花絮",
+        "onboard_time": 1712632697,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 127902,
+        "num": 159915,
+        "word": "朱婷官宣回归中国女排",
+        "onboard_time": 1712589379,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 114493,
+        "num": 159354,
+        "word": "考上研本科延毕了",
+        "onboard_time": 1712588060,
+        "rank": 48,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 99083,
+        "num": 158461,
+        "word": "12岁女孩800米2分21秒夺冠",
+        "onboard_time": 1712632038,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平会见法国梅里埃基金会主席夫妇#"
+    }
+  }
+}

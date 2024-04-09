@@ -1,6 +1,6 @@
 {
   "startTime": 1711902044401,
-  "endTime": 1712630143464,
+  "endTime": 1712632837786,
   "band_list": [
     {
       "raw_hot": 16874674,
@@ -1515,6 +1515,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1181071,
+      "num": 250780,
+      "word": "支付宝崩了",
+      "onboard_time": 1712629939,
+      "rank": 30,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 1174516,
       "num": 1174516,
       "word": "王晰",
@@ -1676,7 +1684,7 @@
     },
     {
       "raw_hot": 1093352,
-      "num": 377593,
+      "num": 454053,
       "word": "向佐评论费曼",
       "onboard_time": 1712626939,
       "rank": 11,
@@ -2105,6 +2113,14 @@
       "onboard_time": 1712589019,
       "rank": 45,
       "category": "情感"
+    },
+    {
+      "raw_hot": 961628,
+      "num": 466116,
+      "word": "鹿晗起诉莆田鞋帽商家",
+      "onboard_time": 1712629638,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 960905,
@@ -2892,7 +2908,7 @@
     },
     {
       "raw_hot": 783649,
-      "num": 375108,
+      "num": 443808,
       "word": "林更新那是肋骨外翻不是小肚子",
       "onboard_time": 1712628438,
       "rank": 12,
@@ -3449,14 +3465,6 @@
       "onboard_time": 1712325500,
       "rank": 20,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 697486,
-      "num": 206584,
-      "word": "支付宝崩了",
-      "onboard_time": 1712629939,
-      "rank": 30,
-      "category": "互联网"
     },
     {
       "raw_hot": 697285,
@@ -5531,6 +5539,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 513458,
+      "num": 513458,
+      "word": "剑网3涉嫌操控比赛疑似诈骗",
+      "onboard_time": 1712630418,
+      "rank": 5,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 513193,
       "num": 513193,
       "word": "论文重复率越改越高真的太痛苦了",
@@ -5947,6 +5963,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 481463,
+      "num": 481463,
+      "word": "chiikawa",
+      "onboard_time": 1712627058,
+      "rank": 28,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 481312,
       "num": 481312,
       "word": "其实圈子里只有我们两个",
@@ -6139,6 +6163,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 466562,
+      "num": 466562,
+      "word": "比亚迪等中国车企或放弃美国市场",
+      "onboard_time": 1712628977,
+      "rank": 33,
+      "category": "汽车,财经"
+    },
+    {
       "raw_hot": 466445,
       "num": 466445,
       "word": "你敢不敢去摸一下那只两脚兽",
@@ -6240,6 +6272,14 @@
       "word": "5天年假折现了6千多",
       "onboard_time": 1712483838,
       "rank": 20,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 458365,
+      "num": 250302,
+      "word": "这是我没结婚前最无聊的一天",
+      "onboard_time": 1712632278,
+      "rank": 31,
       "category": "情感"
     },
     {
@@ -6585,6 +6625,14 @@
       "onboard_time": 1712138481,
       "rank": 21,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 438513,
+      "num": 466895,
+      "word": "退伍军人宿舍考研全上岸",
+      "onboard_time": 1712629757,
+      "rank": 17,
+      "category": "教育"
     },
     {
       "raw_hot": 438395,
@@ -6961,6 +7009,14 @@
       "onboard_time": 1712294058,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 421364,
+      "num": 421364,
+      "word": "张子枫胡先煦吻戏",
+      "onboard_time": 1712631498,
+      "rank": 15,
+      "category": "电影"
     },
     {
       "raw_hot": 421165,
@@ -7435,6 +7491,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 394527,
+      "num": 394527,
+      "word": "黄金",
+      "onboard_time": 1712629939,
+      "rank": 35,
+      "category": "财经"
+    },
+    {
       "raw_hot": 394352,
       "num": 322905,
       "word": "还有比炸蛋更可怕的食物吗",
@@ -7507,14 +7571,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 388752,
-      "num": 202939,
-      "word": "鹿晗起诉莆田鞋帽商家",
-      "onboard_time": 1712629638,
-      "rank": 31,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 388668,
       "num": 245248,
       "word": "男朋友帮陌生女孩挡了一路姨妈渍",
@@ -7545,6 +7601,14 @@
       "onboard_time": 1711939218,
       "rank": 33,
       "category": "教育,幽默"
+    },
+    {
+      "raw_hot": 387158,
+      "num": 353052,
+      "word": "一张照片5个G",
+      "onboard_time": 1712628378,
+      "rank": 22,
+      "category": "幽默"
     },
     {
       "raw_hot": 386295,
@@ -8051,14 +8115,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 362959,
-      "num": 287120,
-      "word": "一张照片5个G",
-      "onboard_time": 1712628378,
-      "rank": 22,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 362595,
       "num": 362595,
       "word": "韩剧最强90花",
@@ -8249,6 +8305,14 @@
       "onboard_time": 1712463320,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 350962,
+      "num": 350962,
+      "word": "网易回应暴雪国服回归",
+      "onboard_time": 1712632278,
+      "rank": 23,
+      "category": "游戏,互联网"
     },
     {
       "raw_hot": 350960,
@@ -8723,6 +8787,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 330743,
+      "num": 467315,
+      "word": "今年唯一一次日全食现场画面",
+      "onboard_time": 1712630897,
+      "rank": 7,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 330615,
       "num": 330615,
       "word": "与凤行超点大结局",
@@ -9187,6 +9259,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 311799,
+      "num": 311799,
+      "word": "chiikawa作者年收入52亿日元",
+      "onboard_time": 1712631798,
+      "rank": 24,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 310643,
       "num": 310643,
       "word": "马塞洛承认C罗欧冠进球越位",
@@ -9329,6 +9409,14 @@
       "onboard_time": 1712143099,
       "rank": 25,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 306895,
+      "num": 306895,
+      "word": "老公失恋文学",
+      "onboard_time": 1712631077,
+      "rank": 25,
+      "category": "情感"
     },
     {
       "raw_hot": 306114,
@@ -9681,14 +9769,6 @@
       "onboard_time": 1712359394,
       "rank": 23,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 293778,
-      "num": 293778,
-      "word": "比亚迪等中国车企或放弃美国市场",
-      "onboard_time": 1712628977,
-      "rank": 33,
-      "category": "汽车,财经"
     },
     {
       "raw_hot": 293690,
@@ -10187,6 +10267,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 278019,
+      "num": 278019,
+      "word": "开始推理吧",
+      "onboard_time": 1712631859,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 277757,
       "num": 227955,
       "word": "赵丽颖360度无死角",
@@ -10545,6 +10633,14 @@
       "onboard_time": 1712498540,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 267754,
+      "num": 371397,
+      "word": "金价攀升很多人一袋一袋卖黄金",
+      "onboard_time": 1712631618,
+      "rank": 19,
+      "category": "财经"
     },
     {
       "raw_hot": 267277,
@@ -11219,12 +11315,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 249721,
+      "num": 249721,
+      "word": "176的身高长了张1米5的脸",
+      "onboard_time": 1712632759,
+      "rank": 33,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 249536,
       "num": 249536,
       "word": "全球资金正在加速回流中国",
       "onboard_time": 1712110221,
       "rank": 34,
       "category": "财经"
+    },
+    {
+      "raw_hot": 249434,
+      "num": 249434,
+      "word": "王一博高尔夫水平",
+      "onboard_time": 1712629877,
+      "rank": 36,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 249346,
@@ -11401,6 +11513,14 @@
       "onboard_time": 1712125880,
       "rank": 33,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 245041,
+      "num": 245041,
+      "word": "插画师画的赵丽颖",
+      "onboard_time": 1712632100,
+      "rank": 35,
+      "category": "剧集"
     },
     {
       "raw_hot": 245030,
@@ -11899,14 +12019,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 235837,
-      "num": 235837,
-      "word": "chiikawa",
-      "onboard_time": 1712627058,
-      "rank": 28,
-      "category": "动漫"
-    },
-    {
       "raw_hot": 235786,
       "num": 204878,
       "word": "陈都灵 仕女图",
@@ -12337,6 +12449,14 @@
       "onboard_time": 1712490198,
       "rank": 9,
       "category": "教育"
+    },
+    {
+      "raw_hot": 226672,
+      "num": 187446,
+      "word": "黄景瑜王一博雨中打戏",
+      "onboard_time": 1712630118,
+      "rank": 49,
+      "category": "电影"
     },
     {
       "raw_hot": 226461,
@@ -13584,6 +13704,14 @@
       "word": "滤镜官宣杀青",
       "onboard_time": 1712457017,
       "rank": 26,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 206209,
+      "num": 206209,
+      "word": "承欢记开播预告",
+      "onboard_time": 1712632100,
+      "rank": 37,
       "category": "剧集"
     },
     {
@@ -15363,14 +15491,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 189404,
-      "num": 189404,
-      "word": "黄金",
-      "onboard_time": 1712629939,
-      "rank": 35,
-      "category": "财经"
-    },
-    {
       "raw_hot": 189361,
       "num": 189361,
       "word": "张婧仪油菜花plog",
@@ -15529,14 +15649,6 @@
       "onboard_time": 1712188576,
       "rank": 35,
       "category": "电竞,网红"
-    },
-    {
-      "raw_hot": 187424,
-      "num": 187424,
-      "word": "王一博高尔夫水平",
-      "onboard_time": 1712629877,
-      "rank": 36,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 187420,
@@ -16731,6 +16843,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 173720,
+      "num": 173720,
+      "word": "贺峻霖新歌",
+      "onboard_time": 1712632638,
+      "rank": 44,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 173691,
       "num": 173691,
       "word": "拂容君望向沈璃的眼神",
@@ -17707,6 +17827,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 160456,
+      "num": 160456,
+      "word": "永夜星河春日花絮",
+      "onboard_time": 1712632697,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 160247,
       "num": 160247,
       "word": "小米汽车引发同行快速反应",
@@ -18169,14 +18297,6 @@
       "onboard_time": 1712187196,
       "rank": 37,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 155529,
-      "num": 322237,
-      "word": "退伍军人宿舍考研全上岸",
-      "onboard_time": 1712629757,
-      "rank": 17,
-      "category": "教育"
     },
     {
       "raw_hot": 155511,
@@ -19459,14 +19579,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 141512,
-      "num": 141512,
-      "word": "黄景瑜王一博雨中打戏",
-      "onboard_time": 1712630118,
-      "rank": 49,
-      "category": "电影"
-    },
-    {
       "raw_hot": 141485,
       "num": 141485,
       "word": "43岁的夏达",
@@ -19937,6 +20049,14 @@
       "onboard_time": 1712555479,
       "rank": 46,
       "category": "演出"
+    },
+    {
+      "raw_hot": 136549,
+      "num": 262728,
+      "word": "极氪高管直播续航实测",
+      "onboard_time": 1712631908,
+      "rank": 27,
+      "category": "汽车"
     },
     {
       "raw_hot": 136507,
@@ -21953,6 +22073,14 @@
       "onboard_time": 1712394978,
       "rank": 46,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 99083,
+      "num": 158461,
+      "word": "12岁女孩800米2分21秒夺冠",
+      "onboard_time": 1712632038,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 99066,
