@@ -1,0 +1,410 @@
+{
+  "runTime": 1712675928347,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1050220,
+        "num": 1050220,
+        "word": "离职后旅居大理第二天想回家了",
+        "onboard_time": 1712669720,
+        "rank": 0,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 838562,
+        "num": 838562,
+        "word": "杨紫瘦了好多",
+        "onboard_time": 1712674099,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 46056,
+        "num": 802023,
+        "word": "70秒看祖国大地春意盎然",
+        "onboard_time": 1712667678,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 787988,
+        "num": 787988,
+        "word": "11年前狂购黄金的中国大妈解套了",
+        "onboard_time": 1712664620,
+        "rank": 3,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 681546,
+        "num": 681546,
+        "word": "云南香格里拉发生4.7级地震",
+        "onboard_time": 1712672839,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 610558,
+        "num": 610558,
+        "word": "纪凌尘让宁静叫他chen",
+        "onboard_time": 1712668638,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 418151,
+        "num": 418151,
+        "word": "举报县委领导被逮捕事件22人被问责",
+        "onboard_time": 1712667919,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 412039,
+        "num": 412039,
+        "word": "碧苍王和她最爱的大锤子",
+        "onboard_time": 1712672239,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 380018,
+        "num": 380018,
+        "word": "张杰唱爱了很久一定会分开",
+        "onboard_time": 1712669059,
+        "rank": 8,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 162811,
+        "num": 362631,
+        "word": "00后帅哥送锦旗民警看了差点没绷住",
+        "onboard_time": 1712656220,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 409766,
+        "num": 362464,
+        "word": "去年B站超180万UP主通过直播获得收入",
+        "onboard_time": 1712673439,
+        "rank": 10,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 362043,
+        "num": 362043,
+        "word": "肖战作品",
+        "onboard_time": 1712666778,
+        "rank": 11,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 350179,
+        "num": 350179,
+        "word": "承欢记富二代装穷骗女友3年",
+        "onboard_time": 1712667560,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 346688,
+        "num": 346688,
+        "word": "徐海乔赵丽颖同用一个耳机",
+        "onboard_time": 1712664738,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 342883,
+        "num": 342883,
+        "word": "承欢记收视率",
+        "onboard_time": 1712664738,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 290485,
+        "num": 290485,
+        "word": "十个勤天只能是十个勤天",
+        "onboard_time": 1712664138,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 280994,
+        "num": 280994,
+        "word": "网易回应男孩玩蛋仔派对充上万元",
+        "onboard_time": 1712667319,
+        "rank": 16,
+        "category": "游戏,互联网"
+      },
+      {
+        "raw_hot": 273599,
+        "num": 273599,
+        "word": "林更新说45岁星玥三搭",
+        "onboard_time": 1712657061,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 268116,
+        "num": 268116,
+        "word": "暴雪",
+        "onboard_time": 1712671819,
+        "rank": 18,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 266013,
+        "num": 266013,
+        "word": "韩男真的好会提供情绪价值",
+        "onboard_time": 1712664138,
+        "rank": 19,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 289763,
+        "num": 259368,
+        "word": "当我发现爸妈有60万存款时",
+        "onboard_time": 1712672119,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 269147,
+        "num": 258960,
+        "word": "导演把与凤行吻戏给刘宇宁当教材",
+        "onboard_time": 1712674340,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 249755,
+        "num": 249755,
+        "word": "销售回复孙坚包包掉漆掉毛",
+        "onboard_time": 1712673680,
+        "rank": 22,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 230810,
+        "num": 230810,
+        "word": "虐猫事件 反社会行为",
+        "onboard_time": 1712673560,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 227719,
+        "num": 227719,
+        "word": "已经开始紧张了",
+        "onboard_time": 1712671099,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 240526,
+        "num": 222771,
+        "word": "卓沅 收草莓啦",
+        "onboard_time": 1712674821,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 213228,
+        "num": 213228,
+        "word": "23岁女歌手因心力衰竭去世",
+        "onboard_time": 1712655738,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 206523,
+        "num": 206523,
+        "word": "原来放松时舌头是贴在上颚的",
+        "onboard_time": 1712674340,
+        "rank": 27,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 180105,
+        "num": 205680,
+        "word": "多邻国 花粉症",
+        "onboard_time": 1712659220,
+        "rank": 28,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 131957,
+        "num": 205088,
+        "word": "港股中国天瑞水泥跌超99%",
+        "onboard_time": 1712672720,
+        "rank": 29,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 314883,
+        "num": 205054,
+        "word": "突然理解英国留子的绝望了",
+        "onboard_time": 1712674759,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 204942,
+        "num": 204942,
+        "word": "婆婆总是倾向于用金钱来解决问题",
+        "onboard_time": 1712671940,
+        "rank": 31,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 119955,
+        "num": 197968,
+        "word": "极氪007实测续航近9成",
+        "onboard_time": 1712673799,
+        "rank": 32,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 192370,
+        "num": 192370,
+        "word": "经常熬夜的六个好处",
+        "onboard_time": 1712664738,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 192311,
+        "num": 192311,
+        "word": "胡杏儿 古装久违了",
+        "onboard_time": 1712670200,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 182423,
+        "num": 182423,
+        "word": "承欢记 丢脸都是高清的",
+        "onboard_time": 1712673260,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 184790,
+        "num": 180158,
+        "word": "惜花芷转场",
+        "onboard_time": 1712674879,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 177206,
+        "num": 177206,
+        "word": "与凤行",
+        "onboard_time": 1712673799,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 176468,
+        "num": 176468,
+        "word": "审判承欢记",
+        "onboard_time": 1712664559,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 143015,
+        "num": 143015,
+        "word": "黄多多已经18岁了",
+        "onboard_time": 1712665400,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 143009,
+        "num": 143009,
+        "word": "为啥女人会记住男人记不住的吵架细节",
+        "onboard_time": 1712675600,
+        "rank": 40,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 140954,
+        "num": 140954,
+        "word": "papi酱 关于小孩的疑问",
+        "onboard_time": 1712665100,
+        "rank": 41,
+        "category": "母婴育儿"
+      },
+      {
+        "raw_hot": 134667,
+        "num": 134667,
+        "word": "林更新陈震合照",
+        "onboard_time": 1712673319,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 128657,
+        "num": 128657,
+        "word": "当你考研中途休息了一周后",
+        "onboard_time": 1712669121,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 121485,
+        "num": 121485,
+        "word": "高合",
+        "onboard_time": 1712675780,
+        "rank": 44,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 119348,
+        "num": 119348,
+        "word": "河北省考 什么时候出",
+        "onboard_time": 1712669899,
+        "rank": 45,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 115807,
+        "num": 115807,
+        "word": "赵小棠妈妈好像参加了变形计",
+        "onboard_time": 1712664320,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 115337,
+        "num": 115337,
+        "word": "陈赫直播回应撮合林更新赵丽颖",
+        "onboard_time": 1712651359,
+        "rank": 47,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 107171,
+        "num": 107171,
+        "word": "1个动作改善黑眼圈",
+        "onboard_time": 1712672359,
+        "rank": 48,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 107106,
+        "num": 107106,
+        "word": "金价",
+        "onboard_time": 1712675898,
+        "rank": 49,
+        "category": "财经"
+      }
+    ],
+    "hotgov": {
+      "word": "#中巴两党第七届理论研讨会#"
+    }
+  }
+}
