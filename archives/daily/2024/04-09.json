@@ -1,6 +1,6 @@
 {
   "startTime": 1712593429256,
-  "endTime": 1712626365084,
+  "endTime": 1712629466254,
   "band_list": [
     {
       "raw_hot": 2371874,
@@ -17,6 +17,14 @@
       "onboard_time": 1712590099,
       "rank": 10,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1561217,
+      "num": 1561217,
+      "word": "暴雪 回归",
+      "onboard_time": 1712626219,
+      "rank": 43,
+      "category": "游戏"
     },
     {
       "raw_hot": 1355755,
@@ -59,6 +67,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1060496,
+      "num": 377593,
+      "word": "向佐评论费曼",
+      "onboard_time": 1712626939,
+      "rank": 11,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 977909,
       "num": 977909,
       "word": "张元英连转两次圈",
@@ -75,6 +91,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 908876,
+      "num": 459094,
+      "word": "2岁小孩看房时不幸坠亡",
+      "onboard_time": 1712625438,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 866674,
       "num": 866674,
       "word": "金价又新高囤金人却慌了",
@@ -83,20 +107,20 @@
       "category": "财经"
     },
     {
+      "raw_hot": 865085,
+      "num": 865085,
+      "word": "ZARA大量粉丝紧急扫货",
+      "onboard_time": 1712625919,
+      "rank": 30,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 737607,
       "num": 737607,
       "word": "赵丽颖曾推荐刘宇宁演与凤行",
       "onboard_time": 1712585961,
       "rank": 4,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 722159,
-      "num": 459094,
-      "word": "2岁小孩看房时不幸坠亡",
-      "onboard_time": 1712625438,
-      "rank": 11,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 684366,
@@ -123,6 +147,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 565271,
+      "num": 375108,
+      "word": "林更新那是肋骨外翻不是小肚子",
+      "onboard_time": 1712628438,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 563363,
       "num": 563363,
       "word": "官方通报女子半截身子卷入扶梯",
@@ -145,6 +177,14 @@
       "onboard_time": 1712577619,
       "rank": 11,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 529491,
+      "num": 529491,
+      "word": "虐猫考生该懂的不是舆论而是敬畏生命",
+      "onboard_time": 1712628558,
+      "rank": 7,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 491287,
@@ -219,6 +259,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 403485,
+      "num": 368591,
+      "word": "男子报警称自己被绑架将被活埋",
+      "onboard_time": 1712625498,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 395612,
       "num": 395612,
       "word": "日全食",
@@ -233,6 +281,14 @@
       "onboard_time": 1712587280,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 384339,
+      "num": 384339,
+      "word": "特斯拉市值一夜涨超1800亿",
+      "onboard_time": 1712625799,
+      "rank": 28,
+      "category": "财经,汽车"
     },
     {
       "raw_hot": 375997,
@@ -251,12 +307,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 365102,
+      "num": 365102,
+      "word": "孙颖莎世排第一7800分",
+      "onboard_time": 1712626758,
+      "rank": 16,
+      "category": "体育"
+    },
+    {
       "raw_hot": 348399,
       "num": 348399,
       "word": "意外吃到了去世10年爷爷种的韭菜",
       "onboard_time": 1712562257,
       "rank": 17,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 345450,
+      "num": 287120,
+      "word": "一张照片5个G",
+      "onboard_time": 1712628378,
+      "rank": 22,
+      "category": "幽默"
     },
     {
       "raw_hot": 341738,
@@ -275,6 +347,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 310539,
+      "num": 310539,
+      "word": "胡锡进希望社会给虐猫考生其他通道",
+      "onboard_time": 1712628619,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 307540,
       "num": 307540,
       "word": "以为水煮蛋买来就是这样的",
@@ -283,27 +363,19 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 282836,
-      "num": 282836,
-      "word": "男子报警称自己被绑架将被活埋",
-      "onboard_time": 1712625498,
-      "rank": 21,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 279935,
-      "num": 239683,
-      "word": "ZARA大量粉丝紧急扫货",
-      "onboard_time": 1712625919,
-      "rank": 30,
-      "category": "时尚"
-    },
-    {
       "raw_hot": 279661,
       "num": 279661,
       "word": "知名痔疮药停产后涨价10多倍",
       "onboard_time": 1712619137,
       "rank": 18,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 274518,
+      "num": 274518,
+      "word": "压力太大胃会告诉你",
+      "onboard_time": 1712625678,
+      "rank": 42,
       "category": "健康医疗"
     },
     {
@@ -347,12 +419,12 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 242822,
-      "num": 242822,
-      "word": "特斯拉市值一夜涨超1800亿",
-      "onboard_time": 1712625799,
-      "rank": 28,
-      "category": "财经,汽车"
+      "raw_hot": 243506,
+      "num": 243506,
+      "word": "韩庚卢靖姗为妈妈庆生",
+      "onboard_time": 1712627598,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 240289,
@@ -361,6 +433,14 @@
       "onboard_time": 1712621360,
       "rank": 28,
       "category": "体育"
+    },
+    {
+      "raw_hot": 238511,
+      "num": 238511,
+      "word": "智己错误标注小米SU7参数",
+      "onboard_time": 1712628678,
+      "rank": 25,
+      "category": "汽车"
     },
     {
       "raw_hot": 234842,
@@ -385,6 +465,14 @@
       "onboard_time": 1712597892,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 224077,
+      "num": 224077,
+      "word": "chiikawa",
+      "onboard_time": 1712627058,
+      "rank": 28,
+      "category": "动漫"
     },
     {
       "raw_hot": 223098,
@@ -419,6 +507,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 209985,
+      "num": 209985,
+      "word": "昨天偶遇的韩女太幽默了",
+      "onboard_time": 1712627899,
+      "rank": 31,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 208364,
       "num": 208364,
       "word": "过敏性鼻炎和感冒有何区别",
@@ -433,6 +529,14 @@
       "onboard_time": 1712624720,
       "rank": 35,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 205287,
+      "num": 205287,
+      "word": "比亚迪等中国车企或放弃美国市场",
+      "onboard_time": 1712628977,
+      "rank": 33,
+      "category": "汽车,财经"
     },
     {
       "raw_hot": 205176,
@@ -507,20 +611,20 @@
       "category": "情感"
     },
     {
-      "raw_hot": 176038,
-      "num": 176038,
-      "word": "压力太大胃会告诉你",
-      "onboard_time": 1712625678,
-      "rank": 42,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 175306,
       "num": 175306,
       "word": "有苹果15要不要申请贫困生",
       "onboard_time": 1712585298,
       "rank": 26,
       "category": "情感"
+    },
+    {
+      "raw_hot": 174478,
+      "num": 174478,
+      "word": "华为门店回应P70先锋计划",
+      "onboard_time": 1712627718,
+      "rank": 36,
+      "category": "数码"
     },
     {
       "raw_hot": 173774,
@@ -539,14 +643,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 169957,
-      "num": 169957,
-      "word": "暴雪 回归",
-      "onboard_time": 1712626219,
-      "rank": 43,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 169189,
       "num": 169189,
       "word": "蔡澜 活一天过一天人生",
@@ -561,6 +657,14 @@
       "onboard_time": 1712617756,
       "rank": 17,
       "category": "体育"
+    },
+    {
+      "raw_hot": 163141,
+      "num": 163141,
+      "word": "陈晓对接回应近期争议",
+      "onboard_time": 1712627298,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 159678,
@@ -681,6 +785,14 @@
       "onboard_time": 1712582179,
       "rank": 34,
       "category": "美食"
+    },
+    {
+      "raw_hot": 126286,
+      "num": 126286,
+      "word": "TWICE小甜曲",
+      "onboard_time": 1712629338,
+      "rank": 49,
+      "category": "音乐"
     },
     {
       "raw_hot": 125995,

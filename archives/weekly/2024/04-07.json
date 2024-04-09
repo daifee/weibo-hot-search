@@ -1,6 +1,6 @@
 {
   "startTime": 1712420539476,
-  "endTime": 1712626365084,
+  "endTime": 1712629466254,
   "band_list": [
     {
       "raw_hot": 9583581,
@@ -185,6 +185,14 @@
       "onboard_time": 1712450719,
       "rank": 10,
       "category": "情感"
+    },
+    {
+      "raw_hot": 1561217,
+      "num": 1561217,
+      "word": "暴雪 回归",
+      "onboard_time": 1712626219,
+      "rank": 43,
+      "category": "游戏"
     },
     {
       "raw_hot": 1557481,
@@ -499,6 +507,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 1060496,
+      "num": 377593,
+      "word": "向佐评论费曼",
+      "onboard_time": 1712626939,
+      "rank": 11,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1058889,
       "num": 1058889,
       "word": "浙江34岁律师被歹徒袭击身亡",
@@ -651,6 +667,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 908876,
+      "num": 459094,
+      "word": "2岁小孩看房时不幸坠亡",
+      "onboard_time": 1712625438,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 901726,
       "num": 901726,
       "word": "TES零封JDG",
@@ -705,6 +729,14 @@
       "onboard_time": 1712619377,
       "rank": 5,
       "category": "财经"
+    },
+    {
+      "raw_hot": 865085,
+      "num": 865085,
+      "word": "ZARA大量粉丝紧急扫货",
+      "onboard_time": 1712625919,
+      "rank": 30,
+      "category": "时尚"
     },
     {
       "raw_hot": 856609,
@@ -921,14 +953,6 @@
       "onboard_time": 1712466919,
       "rank": 42,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 722159,
-      "num": 459094,
-      "word": "2岁小孩看房时不幸坠亡",
-      "onboard_time": 1712625438,
-      "rank": 11,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 718756,
@@ -1347,6 +1371,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 565271,
+      "num": 375108,
+      "word": "林更新那是肋骨外翻不是小肚子",
+      "onboard_time": 1712628438,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 563231,
       "num": 563231,
       "word": "王一博不用再唱华华的世界了",
@@ -1473,6 +1505,14 @@
       "onboard_time": 1712577018,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 529491,
+      "num": 529491,
+      "word": "虐猫考生该懂的不是舆论而是敬畏生命",
+      "onboard_time": 1712628558,
+      "rank": 7,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 528329,
@@ -2043,6 +2083,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 403485,
+      "num": 368591,
+      "word": "男子报警称自己被绑架将被活埋",
+      "onboard_time": 1712625498,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 399116,
       "num": 265474,
       "word": "中五千万你会立刻离职吗",
@@ -2097,6 +2145,14 @@
       "onboard_time": 1712548220,
       "rank": 13,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 384339,
+      "num": 384339,
+      "word": "特斯拉市值一夜涨超1800亿",
+      "onboard_time": 1712625799,
+      "rank": 28,
+      "category": "财经,汽车"
     },
     {
       "raw_hot": 382279,
@@ -2227,6 +2283,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 365102,
+      "num": 365102,
+      "word": "孙颖莎世排第一7800分",
+      "onboard_time": 1712626758,
+      "rank": 16,
+      "category": "体育"
+    },
+    {
       "raw_hot": 364952,
       "num": 333170,
       "word": "郑仁父亲医院跳楼",
@@ -2337,6 +2401,14 @@
       "onboard_time": 1712460139,
       "rank": 17,
       "category": "演出"
+    },
+    {
+      "raw_hot": 345450,
+      "num": 287120,
+      "word": "一张照片5个G",
+      "onboard_time": 1712628378,
+      "rank": 22,
+      "category": "幽默"
     },
     {
       "raw_hot": 342589,
@@ -2587,6 +2659,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 310539,
+      "num": 310539,
+      "word": "胡锡进希望社会给虐猫考生其他通道",
+      "onboard_time": 1712628619,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 308833,
       "num": 307999,
       "word": "赵丽颖工作室玩梗沈璃",
@@ -2803,14 +2883,6 @@
       "category": "科学科普"
     },
     {
-      "raw_hot": 282836,
-      "num": 282836,
-      "word": "男子报警称自己被绑架将被活埋",
-      "onboard_time": 1712625498,
-      "rank": 21,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 281560,
       "num": 281560,
       "word": "腾讯云崩了",
@@ -2825,14 +2897,6 @@
       "onboard_time": 1712474539,
       "rank": 21,
       "category": "情感"
-    },
-    {
-      "raw_hot": 279935,
-      "num": 239683,
-      "word": "ZARA大量粉丝紧急扫货",
-      "onboard_time": 1712625919,
-      "rank": 30,
-      "category": "时尚"
     },
     {
       "raw_hot": 279661,
@@ -2889,6 +2953,14 @@
       "onboard_time": 1712537001,
       "rank": 19,
       "category": "作品衍生,艺人"
+    },
+    {
+      "raw_hot": 274518,
+      "num": 274518,
+      "word": "压力太大胃会告诉你",
+      "onboard_time": 1712625678,
+      "rank": 42,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 273999,
@@ -3227,20 +3299,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 243506,
+      "num": 243506,
+      "word": "韩庚卢靖姗为妈妈庆生",
+      "onboard_time": 1712627598,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 242991,
       "num": 242991,
       "word": "王阳25岁至46岁颜值变化",
       "onboard_time": 1712546420,
       "rank": 27,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 242822,
-      "num": 242822,
-      "word": "特斯拉市值一夜涨超1800亿",
-      "onboard_time": 1712625799,
-      "rank": 28,
-      "category": "财经,汽车"
     },
     {
       "raw_hot": 242658,
@@ -3337,6 +3409,14 @@
       "onboard_time": 1712533576,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 238511,
+      "num": 238511,
+      "word": "智己错误标注小米SU7参数",
+      "onboard_time": 1712628678,
+      "rank": 25,
+      "category": "汽车"
     },
     {
       "raw_hot": 237694,
@@ -3537,6 +3617,14 @@
       "onboard_time": 1712497220,
       "rank": 29,
       "category": "财经"
+    },
+    {
+      "raw_hot": 224077,
+      "num": 224077,
+      "word": "chiikawa",
+      "onboard_time": 1712627058,
+      "rank": 28,
+      "category": "动漫"
     },
     {
       "raw_hot": 223863,
@@ -3747,6 +3835,14 @@
       "category": "作品衍生,美妆"
     },
     {
+      "raw_hot": 209985,
+      "num": 209985,
+      "word": "昨天偶遇的韩女太幽默了",
+      "onboard_time": 1712627899,
+      "rank": 31,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 209522,
       "num": 209522,
       "word": "李耕耘古装",
@@ -3913,6 +4009,14 @@
       "onboard_time": 1712555479,
       "rank": 31,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 205287,
+      "num": 205287,
+      "word": "比亚迪等中国车企或放弃美国市场",
+      "onboard_time": 1712628977,
+      "rank": 33,
+      "category": "汽车,财经"
     },
     {
       "raw_hot": 205277,
@@ -4763,14 +4867,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 176038,
-      "num": 176038,
-      "word": "压力太大胃会告诉你",
-      "onboard_time": 1712625678,
-      "rank": 42,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 175885,
       "num": 175885,
       "word": "为什么每天刷牙还会长虫牙",
@@ -4809,6 +4905,14 @@
       "onboard_time": 1712577919,
       "rank": 35,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 174478,
+      "num": 174478,
+      "word": "华为门店回应P70先锋计划",
+      "onboard_time": 1712627718,
+      "rank": 36,
+      "category": "数码"
     },
     {
       "raw_hot": 173949,
@@ -4913,14 +5017,6 @@
       "onboard_time": 1712552541,
       "rank": 34,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 169957,
-      "num": 169957,
-      "word": "暴雪 回归",
-      "onboard_time": 1712626219,
-      "rank": 43,
-      "category": "游戏"
     },
     {
       "raw_hot": 169920,
@@ -5057,6 +5153,14 @@
       "onboard_time": 1712450840,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 163141,
+      "num": 163141,
+      "word": "陈晓对接回应近期争议",
+      "onboard_time": 1712627298,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 162762,
@@ -5945,6 +6049,14 @@
       "onboard_time": 1712445496,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 126286,
+      "num": 126286,
+      "word": "TWICE小甜曲",
+      "onboard_time": 1712629338,
+      "rank": 49,
+      "category": "音乐"
     },
     {
       "raw_hot": 125996,
