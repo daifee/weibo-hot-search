@@ -1,6 +1,6 @@
 {
   "startTime": 1712593429256,
-  "endTime": 1712629466254,
+  "endTime": 1712630143464,
   "band_list": [
     {
       "raw_hot": 2371874,
@@ -19,8 +19,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1561217,
-      "num": 1561217,
+      "raw_hot": 1672498,
+      "num": 1672498,
       "word": "暴雪 回归",
       "onboard_time": 1712626219,
       "rank": 43,
@@ -67,7 +67,15 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1060496,
+      "raw_hot": 1099991,
+      "num": 529491,
+      "word": "虐猫考生该懂的不是舆论而是敬畏生命",
+      "onboard_time": 1712628558,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1093352,
       "num": 377593,
       "word": "向佐评论费曼",
       "onboard_time": 1712626939,
@@ -115,12 +123,28 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 783649,
+      "num": 375108,
+      "word": "林更新那是肋骨外翻不是小肚子",
+      "onboard_time": 1712628438,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 737607,
       "num": 737607,
       "word": "赵丽颖曾推荐刘宇宁演与凤行",
       "onboard_time": 1712585961,
       "rank": 4,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 697486,
+      "num": 206584,
+      "word": "支付宝崩了",
+      "onboard_time": 1712629939,
+      "rank": 30,
+      "category": "互联网"
     },
     {
       "raw_hot": 684366,
@@ -147,14 +171,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 565271,
-      "num": 375108,
-      "word": "林更新那是肋骨外翻不是小肚子",
-      "onboard_time": 1712628438,
-      "rank": 12,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 563363,
       "num": 563363,
       "word": "官方通报女子半截身子卷入扶梯",
@@ -179,20 +195,20 @@
       "category": "科学科普"
     },
     {
-      "raw_hot": 529491,
-      "num": 529491,
-      "word": "虐猫考生该懂的不是舆论而是敬畏生命",
-      "onboard_time": 1712628558,
-      "rank": 7,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 491287,
       "num": 491287,
       "word": "追星也会影响颜值",
       "onboard_time": 1712589440,
       "rank": 8,
       "category": "情感"
+    },
+    {
+      "raw_hot": 491138,
+      "num": 345991,
+      "word": "胡锡进希望社会给虐猫考生其他通道",
+      "onboard_time": 1712628619,
+      "rank": 17,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 468705,
@@ -267,12 +283,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 401613,
+      "num": 401613,
+      "word": "特斯拉市值一夜涨超1800亿",
+      "onboard_time": 1712625799,
+      "rank": 28,
+      "category": "财经,汽车"
+    },
+    {
       "raw_hot": 395612,
       "num": 395612,
       "word": "日全食",
       "onboard_time": 1712585841,
       "rank": 32,
       "category": "自然"
+    },
+    {
+      "raw_hot": 388752,
+      "num": 202939,
+      "word": "鹿晗起诉莆田鞋帽商家",
+      "onboard_time": 1712629638,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 387940,
@@ -283,12 +315,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 384339,
-      "num": 384339,
-      "word": "特斯拉市值一夜涨超1800亿",
-      "onboard_time": 1712625799,
-      "rank": 28,
-      "category": "财经,汽车"
+      "raw_hot": 377416,
+      "num": 377416,
+      "word": "孙颖莎世排第一7800分",
+      "onboard_time": 1712626758,
+      "rank": 16,
+      "category": "体育"
     },
     {
       "raw_hot": 375997,
@@ -307,12 +339,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 365102,
-      "num": 365102,
-      "word": "孙颖莎世排第一7800分",
-      "onboard_time": 1712626758,
-      "rank": 16,
-      "category": "体育"
+      "raw_hot": 362959,
+      "num": 287120,
+      "word": "一张照片5个G",
+      "onboard_time": 1712628378,
+      "rank": 22,
+      "category": "幽默"
     },
     {
       "raw_hot": 348399,
@@ -321,14 +353,6 @@
       "onboard_time": 1712562257,
       "rank": 17,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 345450,
-      "num": 287120,
-      "word": "一张照片5个G",
-      "onboard_time": 1712628378,
-      "rank": 22,
-      "category": "幽默"
     },
     {
       "raw_hot": 341738,
@@ -347,20 +371,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 310539,
-      "num": 310539,
-      "word": "胡锡进希望社会给虐猫考生其他通道",
-      "onboard_time": 1712628619,
-      "rank": 17,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 307540,
       "num": 307540,
       "word": "以为水煮蛋买来就是这样的",
       "onboard_time": 1712618835,
       "rank": 38,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 293778,
+      "num": 293778,
+      "word": "比亚迪等中国车企或放弃美国市场",
+      "onboard_time": 1712628977,
+      "rank": 33,
+      "category": "汽车,财经"
     },
     {
       "raw_hot": 279661,
@@ -443,6 +467,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 235837,
+      "num": 235837,
+      "word": "chiikawa",
+      "onboard_time": 1712627058,
+      "rank": 28,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 234842,
       "num": 234842,
       "word": "杨幂 谍战剧",
@@ -465,14 +497,6 @@
       "onboard_time": 1712597892,
       "rank": 29,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 224077,
-      "num": 224077,
-      "word": "chiikawa",
-      "onboard_time": 1712627058,
-      "rank": 28,
-      "category": "动漫"
     },
     {
       "raw_hot": 223098,
@@ -531,14 +555,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 205287,
-      "num": 205287,
-      "word": "比亚迪等中国车企或放弃美国市场",
-      "onboard_time": 1712628977,
-      "rank": 33,
-      "category": "汽车,财经"
-    },
-    {
       "raw_hot": 205176,
       "num": 205176,
       "word": "5A级颈区",
@@ -579,6 +595,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 190559,
+      "num": 190559,
+      "word": "泫雅将回归",
+      "onboard_time": 1712629578,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 189962,
       "num": 189962,
       "word": "吴磊 文艺片票房",
@@ -592,6 +616,22 @@
       "word": "张予曦超短裙",
       "onboard_time": 1712585182,
       "rank": 25,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 189404,
+      "num": 189404,
+      "word": "黄金",
+      "onboard_time": 1712629939,
+      "rank": 35,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 187424,
+      "num": 187424,
+      "word": "王一博高尔夫水平",
+      "onboard_time": 1712629877,
+      "rank": 36,
       "category": "作品衍生"
     },
     {
@@ -683,6 +723,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 155529,
+      "num": 322237,
+      "word": "退伍军人宿舍考研全上岸",
+      "onboard_time": 1712629757,
+      "rank": 17,
+      "category": "教育"
+    },
+    {
       "raw_hot": 152142,
       "num": 152142,
       "word": "智己小米事件始末",
@@ -707,6 +755,22 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 148980,
+      "num": 148980,
+      "word": "种地吧",
+      "onboard_time": 1712629578,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 148108,
+      "num": 148108,
+      "word": "ZARA中国近四成分公司已注销",
+      "onboard_time": 1712629819,
+      "rank": 47,
+      "category": "财经,时尚"
+    },
+    {
       "raw_hot": 146261,
       "num": 146261,
       "word": "请假去打宿傩",
@@ -721,6 +785,14 @@
       "onboard_time": 1712626338,
       "rank": 49,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 141512,
+      "num": 141512,
+      "word": "黄景瑜王一博雨中打戏",
+      "onboard_time": 1712630118,
+      "rank": 49,
+      "category": "电影"
     },
     {
       "raw_hot": 140292,
