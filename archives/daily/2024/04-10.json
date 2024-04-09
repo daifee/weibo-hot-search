@@ -1,6 +1,6 @@
 {
   "startTime": 1712679647281,
-  "endTime": 1712702132015,
+  "endTime": 1712704695042,
   "band_list": [
     {
       "raw_hot": 1126395,
@@ -9,6 +9,14 @@
       "onboard_time": 1712677459,
       "rank": 0,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 861261,
+      "num": 861261,
+      "word": "28岁女子怀孕其妈妈喜极而泣",
+      "onboard_time": 1712683333,
+      "rank": 22,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 743212,
@@ -43,6 +51,22 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 574229,
+      "num": 574229,
+      "word": "男子要求每天加夜班民警察觉不对劲抓捕一名逃犯",
+      "onboard_time": 1712695450,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 432603,
+      "num": 203579,
+      "word": "长沙通报一初中生在校坠楼",
+      "onboard_time": 1712697131,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 432274,
       "num": 432274,
       "word": "离职后旅居大理第二天想回家了",
@@ -59,20 +83,20 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 394661,
+      "num": 394661,
+      "word": "央广网评婚丧办酒必须报备",
+      "onboard_time": 1712687472,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 390449,
       "num": 390449,
       "word": "11年前狂购黄金的中国大妈解套了",
       "onboard_time": 1712664620,
       "rank": 7,
       "category": "财经"
-    },
-    {
-      "raw_hot": 343280,
-      "num": 343280,
-      "word": "28岁女子怀孕其妈妈喜极而泣",
-      "onboard_time": 1712683333,
-      "rank": 22,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 318419,
@@ -89,14 +113,6 @@
       "onboard_time": 1712675780,
       "rank": 10,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 257641,
-      "num": 108522,
-      "word": "长沙通报一初中生在校坠楼",
-      "onboard_time": 1712697131,
-      "rank": 45,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 243928,
@@ -155,12 +171,44 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 204545,
-      "num": 204545,
-      "word": "男子要求每天加夜班民警察觉不对劲抓捕一名逃犯",
-      "onboard_time": 1712695450,
-      "rank": 26,
+      "raw_hot": 203801,
+      "num": 203801,
+      "word": "爸爸开家长会睡着女儿将其写进作文",
+      "onboard_time": 1712694850,
+      "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 203134,
+      "num": 203134,
+      "word": "赵丽颖发图顺序",
+      "onboard_time": 1712703976,
+      "rank": 11,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 193218,
+      "num": 193218,
+      "word": "皇马3比3曼城",
+      "onboard_time": 1712704036,
+      "rank": 12,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 189684,
+      "num": 189684,
+      "word": "阿森纳2比2拜仁",
+      "onboard_time": 1712704156,
+      "rank": 13,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 189160,
+      "num": 189160,
+      "word": "销售回复孙坚包包掉漆掉毛",
+      "onboard_time": 1712673680,
+      "rank": 31,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 182105,
@@ -243,14 +291,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 156820,
-      "num": 156820,
-      "word": "央广网评婚丧办酒必须报备",
-      "onboard_time": 1712687472,
-      "rank": 29,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 156598,
       "num": 156384,
       "word": "韩国变美四件套",
@@ -265,14 +305,6 @@
       "onboard_time": 1712683034,
       "rank": 11,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 144491,
-      "num": 144491,
-      "word": "销售回复孙坚包包掉漆掉毛",
-      "onboard_time": 1712673680,
-      "rank": 31,
-      "category": "艺人,时尚"
     },
     {
       "raw_hot": 143606,
@@ -297,6 +329,14 @@
       "onboard_time": 1712666778,
       "rank": 34,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 132942,
+      "num": 70697,
+      "word": "灵犀互娱",
+      "onboard_time": 1712704156,
+      "rank": 30,
+      "category": "游戏"
     },
     {
       "raw_hot": 127230,
@@ -329,6 +369,14 @@
       "onboard_time": 1712669899,
       "rank": 37,
       "category": "教育"
+    },
+    {
+      "raw_hot": 116017,
+      "num": 116017,
+      "word": "本年度首个龙年龙月龙日龙时",
+      "onboard_time": 1712691250,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 114826,
@@ -387,6 +435,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 96439,
+      "num": 96439,
+      "word": "肥胖是这2个妇科病的元凶",
+      "onboard_time": 1712704276,
+      "rank": 23,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 93891,
       "num": 93891,
       "word": "女孩子青春期要保护好自己",
@@ -443,6 +499,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 77114,
+      "num": 77114,
+      "word": "无锡女子越南丢钱包竟在苏州找回",
+      "onboard_time": 1712690291,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 76920,
       "num": 76920,
       "word": "韩男真的好会提供情绪价值",
@@ -475,11 +539,35 @@
       "category": "财经"
     },
     {
-      "raw_hot": 67679,
-      "num": 67679,
-      "word": "爸爸开家长会睡着女儿将其写进作文",
-      "onboard_time": 1712694850,
-      "rank": 48,
+      "raw_hot": 66403,
+      "num": 66403,
+      "word": "隐瞒家人复读一年成功上岸",
+      "onboard_time": 1712704516,
+      "rank": 34,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 65364,
+      "num": 65364,
+      "word": "十二年一遇的时刻",
+      "onboard_time": 1712704276,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 63965,
+      "num": 63965,
+      "word": "福宝应该称花花为表姨外祖母",
+      "onboard_time": 1712695690,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 63861,
+      "num": 63861,
+      "word": "中国第40次南极考察队凯旋",
+      "onboard_time": 1712704516,
+      "rank": 38,
       "category": "社会新闻"
     },
     {
@@ -499,24 +587,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 51344,
-      "num": 64721,
-      "word": "无锡女子越南丢钱包竟在苏州找回",
-      "onboard_time": 1712690291,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 44095,
-      "num": 44095,
-      "word": "本年度首个龙年龙月龙日龙时",
-      "onboard_time": 1712691250,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 43800,
-      "num": 43800,
+      "raw_hot": 52876,
+      "num": 52876,
       "word": "张艺凡G社生图",
       "onboard_time": 1712688371,
       "rank": 13,
@@ -531,19 +603,19 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 41452,
+      "num": 524274,
+      "word": "长江流域中分布400多种鱼类",
+      "onboard_time": 1712666778,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 36071,
       "num": 710729,
       "word": "70秒看祖国大地春意盎然",
       "onboard_time": 1712667678,
       "rank": 2,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 32923,
-      "num": 32923,
-      "word": "福宝应该称花花为表姨外祖母",
-      "onboard_time": 1712695690,
-      "rank": 26,
       "category": "社会新闻"
     },
     {
@@ -577,14 +649,6 @@
       "onboard_time": 1712686512,
       "rank": 48,
       "category": "情感"
-    },
-    {
-      "raw_hot": 23036,
-      "num": 420866,
-      "word": "长江流域中分布400多种鱼类",
-      "onboard_time": 1712666778,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 22321,
