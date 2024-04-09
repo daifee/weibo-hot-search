@@ -1,6 +1,6 @@
 {
   "startTime": 1711902044401,
-  "endTime": 1712676952063,
+  "endTime": 1712679647281,
   "band_list": [
     {
       "raw_hot": 16874674,
@@ -1675,6 +1675,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 1126395,
+      "num": 1126395,
+      "word": "yamy 淘汰",
+      "onboard_time": 1712677459,
+      "rank": 0,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1118722,
       "num": 1118722,
       "word": "宋爷爷头抵车门与福宝告别哭成泪人",
@@ -3283,6 +3291,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 743212,
+      "num": 743212,
+      "word": "突然理解英国留子的绝望了",
+      "onboard_time": 1712674759,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 742747,
       "num": 742747,
       "word": "今天星期0",
@@ -3721,6 +3737,14 @@
       "onboard_time": 1712052680,
       "rank": 28,
       "category": "电竞,网红"
+    },
+    {
+      "raw_hot": 691194,
+      "num": 691194,
+      "word": "外卖小哥连续3年住15元一晚宾馆",
+      "onboard_time": 1712675660,
+      "rank": 27,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 691020,
@@ -4931,6 +4955,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 588605,
+      "num": 588605,
+      "word": "原来放松时舌头是贴在上颚的",
+      "onboard_time": 1712674340,
+      "rank": 27,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 587592,
       "num": 684940,
       "word": "上海饮料分级",
@@ -5153,14 +5185,6 @@
       "onboard_time": 1711895720,
       "rank": 7,
       "category": "情感"
-    },
-    {
-      "raw_hot": 567726,
-      "num": 336056,
-      "word": "突然理解英国留子的绝望了",
-      "onboard_time": 1712674759,
-      "rank": 30,
-      "category": "幽默"
     },
     {
       "raw_hot": 567725,
@@ -10411,6 +10435,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 298393,
+      "num": 298393,
+      "word": "高合",
+      "onboard_time": 1712675780,
+      "rank": 44,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 298170,
       "num": 298170,
       "word": "没有金泰梨",
@@ -13451,14 +13483,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 227554,
-      "num": 227554,
-      "word": "原来放松时舌头是贴在上颚的",
-      "onboard_time": 1712674340,
-      "rank": 27,
-      "category": "科学科普"
-    },
-    {
       "raw_hot": 227496,
       "num": 227496,
       "word": "檀健次入驻上海杜莎",
@@ -13641,14 +13665,6 @@
       "onboard_time": 1712377397,
       "rank": 30,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 223978,
-      "num": 223978,
-      "word": "高合",
-      "onboard_time": 1712675780,
-      "rank": 44,
-      "category": "汽车"
     },
     {
       "raw_hot": 223970,
@@ -13905,6 +13921,14 @@
       "onboard_time": 1712242039,
       "rank": 32,
       "category": "情感"
+    },
+    {
+      "raw_hot": 219942,
+      "num": 219942,
+      "word": "再见爱人 换乘恋爱",
+      "onboard_time": 1712677517,
+      "rank": 12,
+      "category": "综艺"
     },
     {
       "raw_hot": 219906,
@@ -14363,14 +14387,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 212926,
-      "num": 212926,
-      "word": "外卖小哥连续3年住15元一晚宾馆",
-      "onboard_time": 1712675660,
-      "rank": 27,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 212925,
       "num": 212925,
       "word": "TheShy给JackeyLove加油",
@@ -14433,6 +14449,14 @@
       "onboard_time": 1712143520,
       "rank": 41,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 212196,
+      "num": 212196,
+      "word": "刘耀文 有我这口就有你一口",
+      "onboard_time": 1712678118,
+      "rank": 16,
+      "category": "综艺"
     },
     {
       "raw_hot": 211851,
@@ -18067,6 +18091,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 176470,
+      "num": 176470,
+      "word": "秦俊杰说坐等明天暴雪消息",
+      "onboard_time": 1712677159,
+      "rank": 20,
+      "category": "艺人,游戏"
+    },
+    {
       "raw_hot": 176389,
       "num": 176389,
       "word": "魏若来回江西了",
@@ -19747,6 +19779,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 157882,
+      "num": 157882,
+      "word": "看脸就知道你心脏好不好",
+      "onboard_time": 1712677757,
+      "rank": 26,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 157778,
       "num": 157778,
       "word": "成龙张艺兴合影旧照",
@@ -19849,6 +19889,14 @@
       "onboard_time": 1712559259,
       "rank": 42,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 156384,
+      "num": 156384,
+      "word": "韩国变美四件套",
+      "onboard_time": 1712678357,
+      "rank": 30,
+      "category": "美妆"
     },
     {
       "raw_hot": 156339,
@@ -24179,6 +24227,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 93891,
+      "num": 93891,
+      "word": "女孩子青春期要保护好自己",
+      "onboard_time": 1712679377,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 93877,
       "num": 157052,
       "word": "关于民法典婚姻家庭编公开征求意见",
@@ -24633,6 +24689,14 @@
       "onboard_time": 1711972759,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 70802,
+      "num": 76920,
+      "word": "上班恶心穿搭遇上退休精致穿搭",
+      "onboard_time": 1712675540,
+      "rank": 49,
+      "category": "时尚"
     },
     {
       "raw_hot": 70631,
