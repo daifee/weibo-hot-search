@@ -1,6 +1,6 @@
 {
   "startTime": 1711902044401,
-  "endTime": 1712704695042,
+  "endTime": 1712705675866,
   "band_list": [
     {
       "raw_hot": 16874674,
@@ -1947,6 +1947,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 1039636,
+      "num": 1039636,
+      "word": "28岁女子怀孕其妈妈喜极而泣",
+      "onboard_time": 1712683333,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1036556,
       "num": 1036556,
       "word": "日本地震",
@@ -2625,14 +2633,6 @@
       "onboard_time": 1712395517,
       "rank": 30,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 861261,
-      "num": 861261,
-      "word": "28岁女子怀孕其妈妈喜极而泣",
-      "onboard_time": 1712683333,
-      "rank": 22,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 859326,
@@ -3657,6 +3657,14 @@
       "onboard_time": 1711895360,
       "rank": 5,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 703383,
+      "num": 703383,
+      "word": "男子要求每天加夜班民警察觉不对劲抓捕一名逃犯",
+      "onboard_time": 1712695450,
+      "rank": 26,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 699718,
@@ -5097,14 +5105,6 @@
       "onboard_time": 1712475618,
       "rank": 21,
       "category": "数码"
-    },
-    {
-      "raw_hot": 574229,
-      "num": 574229,
-      "word": "男子要求每天加夜班民警察觉不对劲抓捕一名逃犯",
-      "onboard_time": 1712695450,
-      "rank": 26,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 573993,
@@ -6603,6 +6603,14 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 471644,
+      "num": 471644,
+      "word": "央广网评婚丧办酒必须报备",
+      "onboard_time": 1712687472,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 470760,
       "num": 470760,
       "word": "沈图南 孤雁",
@@ -6881,6 +6889,14 @@
       "onboard_time": 1712112860,
       "rank": 19,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 454984,
+      "num": 243076,
+      "word": "长沙通报一初中生在校坠楼",
+      "onboard_time": 1712697131,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 454966,
@@ -7355,14 +7371,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 432603,
-      "num": 203579,
-      "word": "长沙通报一初中生在校坠楼",
-      "onboard_time": 1712697131,
-      "rank": 45,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 432215,
       "num": 320829,
       "word": "宋雨琦绿发",
@@ -7819,6 +7827,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 409998,
+      "num": 240221,
+      "word": "赵丽颖发图顺序",
+      "onboard_time": 1712703976,
+      "rank": 11,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 409159,
       "num": 409159,
       "word": "深圳暴雨",
@@ -8097,14 +8113,6 @@
       "onboard_time": 1711979241,
       "rank": 7,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 394661,
-      "num": 394661,
-      "word": "央广网评婚丧办酒必须报备",
-      "onboard_time": 1712687472,
-      "rank": 29,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 394655,
@@ -11592,6 +11600,14 @@
       "word": "云南昭通鲁甸县4.9级地震",
       "onboard_time": 1712376077,
       "rank": 22,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 265006,
+      "num": 265006,
+      "word": "爸爸开家长会睡着女儿将其写进作文",
+      "onboard_time": 1712694850,
+      "rank": 48,
       "category": "社会新闻"
     },
     {
@@ -15187,14 +15203,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 203801,
-      "num": 203801,
-      "word": "爸爸开家长会睡着女儿将其写进作文",
-      "onboard_time": 1712694850,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 203665,
       "num": 203665,
       "word": "解说小楼",
@@ -15272,14 +15280,6 @@
       "word": "心疼凤来",
       "onboard_time": 1712329340,
       "rank": 34,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 203134,
-      "num": 203134,
-      "word": "赵丽颖发图顺序",
-      "onboard_time": 1712703976,
-      "rank": 11,
       "category": "剧集"
     },
     {
@@ -15433,6 +15433,14 @@
       "onboard_time": 1711990334,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 202005,
+      "num": 202005,
+      "word": "皇马3比3曼城",
+      "onboard_time": 1712704036,
+      "rank": 12,
+      "category": "体育"
     },
     {
       "raw_hot": 201876,
@@ -16275,6 +16283,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 194220,
+      "num": 194220,
+      "word": "隐瞒家人复读一年成功上岸",
+      "onboard_time": 1712704516,
+      "rank": 34,
+      "category": "教育"
+    },
+    {
       "raw_hot": 193923,
       "num": 193923,
       "word": "林樵松怎么还不死",
@@ -16377,14 +16393,6 @@
       "onboard_time": 1712466080,
       "rank": 30,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 193218,
-      "num": 193218,
-      "word": "皇马3比3曼城",
-      "onboard_time": 1712704036,
-      "rank": 12,
-      "category": "体育"
     },
     {
       "raw_hot": 193121,
@@ -16531,6 +16539,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 192003,
+      "num": 85605,
+      "word": "灵犀互娱",
+      "onboard_time": 1712704156,
+      "rank": 30,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 191992,
       "num": 191992,
       "word": "王一博 叫你三声你敢答应吗",
@@ -16577,6 +16593,14 @@
       "onboard_time": 1712139560,
       "rank": 46,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 191555,
+      "num": 119508,
+      "word": "肥胖是这2个妇科病的元凶",
+      "onboard_time": 1712704276,
+      "rank": 23,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 191551,
@@ -21155,6 +21179,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 144220,
+      "num": 144220,
+      "word": "本年度首个龙年龙月龙日龙时",
+      "onboard_time": 1712691250,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 144212,
       "num": 144212,
       "word": "被可爱修狗的嘴臭吐了",
@@ -22321,14 +22353,6 @@
       "onboard_time": 1712536339,
       "rank": 48,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 132942,
-      "num": 70697,
-      "word": "灵犀互娱",
-      "onboard_time": 1712704156,
-      "rank": 30,
-      "category": "游戏"
     },
     {
       "raw_hot": 132896,
@@ -23523,14 +23547,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 116017,
-      "num": 116017,
-      "word": "本年度首个龙年龙月龙日龙时",
-      "onboard_time": 1712691250,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 115883,
       "num": 115883,
       "word": "运动真的会让面部代偿吗",
@@ -23987,6 +24003,14 @@
       "category": "动漫,作品衍生"
     },
     {
+      "raw_hot": 104735,
+      "num": 104735,
+      "word": "今天的龙含量好高",
+      "onboard_time": 1712705476,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 104729,
       "num": 104729,
       "word": "郑智化受伤",
@@ -24291,14 +24315,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 96439,
-      "num": 96439,
-      "word": "肥胖是这2个妇科病的元凶",
-      "onboard_time": 1712704276,
-      "rank": 23,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 95819,
       "num": 95819,
       "word": "沈璃这码牌一看就是麻将新手",
@@ -24387,6 +24403,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 91837,
+      "num": 91837,
+      "word": "福宝应该称花花为表姨外祖母",
+      "onboard_time": 1712695690,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 91813,
       "num": 91813,
       "word": "特斯拉股价年内已跌近三分之一",
@@ -24409,6 +24433,14 @@
       "onboard_time": 1712445614,
       "rank": 32,
       "category": "体育"
+    },
+    {
+      "raw_hot": 91599,
+      "num": 85385,
+      "word": "中国第40次南极考察队凯旋",
+      "onboard_time": 1712704516,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 90935,
@@ -24563,6 +24595,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 81866,
+      "num": 81866,
+      "word": "商渔船海南附近碰撞事故已致6人遇难",
+      "onboard_time": 1712705476,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 81573,
       "num": 81573,
       "word": "黄金回收市场迎来卖金热",
@@ -24619,6 +24659,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 78405,
+      "num": 78405,
+      "word": "陈泽刷礼物",
+      "onboard_time": 1712705237,
+      "rank": 36,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 78210,
+      "num": 78210,
+      "word": "无锡女子越南丢钱包竟在苏州找回",
+      "onboard_time": 1712690291,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 77927,
       "num": 60180,
       "word": "锦超演的傅卫军",
@@ -24641,14 +24697,6 @@
       "onboard_time": 1712658919,
       "rank": 39,
       "category": "军事"
-    },
-    {
-      "raw_hot": 77114,
-      "num": 77114,
-      "word": "无锡女子越南丢钱包竟在苏州找回",
-      "onboard_time": 1712690291,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 76451,
@@ -24851,6 +24899,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 70309,
+      "num": 70309,
+      "word": "十二年一遇的时刻",
+      "onboard_time": 1712704276,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 69958,
       "num": 69958,
       "word": "王红权星说红了之后被排斥",
@@ -24865,6 +24921,14 @@
       "onboard_time": 1712004850,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 68416,
+      "num": 68416,
+      "word": "张艺凡G社生图",
+      "onboard_time": 1712688371,
+      "rank": 13,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 68016,
@@ -24915,27 +24979,11 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 66403,
-      "num": 66403,
-      "word": "隐瞒家人复读一年成功上岸",
-      "onboard_time": 1712704516,
-      "rank": 34,
-      "category": "教育"
-    },
-    {
       "raw_hot": 65786,
       "num": 1051475,
       "word": "海南首个卫星超级工厂项目加快推动",
       "onboard_time": 1712476579,
       "rank": 2,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 65364,
-      "num": 65364,
-      "word": "十二年一遇的时刻",
-      "onboard_time": 1712704276,
-      "rank": 35,
       "category": "社会新闻"
     },
     {
@@ -24977,22 +25025,6 @@
       "onboard_time": 1711928117,
       "rank": 46,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 63965,
-      "num": 63965,
-      "word": "福宝应该称花花为表姨外祖母",
-      "onboard_time": 1712695690,
-      "rank": 26,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 63861,
-      "num": 63861,
-      "word": "中国第40次南极考察队凯旋",
-      "onboard_time": 1712704516,
-      "rank": 38,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 63636,
@@ -25283,14 +25315,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 52876,
-      "num": 52876,
-      "word": "张艺凡G社生图",
-      "onboard_time": 1712688371,
-      "rank": 13,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 52450,
       "num": 52450,
       "word": "林更新用油烟机灯给自己打光",
@@ -25361,6 +25385,14 @@
       "onboard_time": 1711940421,
       "rank": 14,
       "category": "数码"
+    },
+    {
+      "raw_hot": 48958,
+      "num": 798663,
+      "word": "长江流域中分布400多种鱼类",
+      "onboard_time": 1712666778,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 48455,
@@ -25497,14 +25529,6 @@
       "onboard_time": 1712598554,
       "rank": 26,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 41452,
-      "num": 798663,
-      "word": "长江流域中分布400多种鱼类",
-      "onboard_time": 1712666778,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 41083,

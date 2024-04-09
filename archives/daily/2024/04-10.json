@@ -1,6 +1,6 @@
 {
   "startTime": 1712679647281,
-  "endTime": 1712704695042,
+  "endTime": 1712705675866,
   "band_list": [
     {
       "raw_hot": 1126395,
@@ -11,8 +11,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 861261,
-      "num": 861261,
+      "raw_hot": 1039636,
+      "num": 1039636,
       "word": "28岁女子怀孕其妈妈喜极而泣",
       "onboard_time": 1712683333,
       "rank": 22,
@@ -25,6 +25,14 @@
       "onboard_time": 1712674759,
       "rank": 1,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 703383,
+      "num": 703383,
+      "word": "男子要求每天加夜班民警察觉不对劲抓捕一名逃犯",
+      "onboard_time": 1712695450,
+      "rank": 26,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 691194,
@@ -51,16 +59,16 @@
       "category": "科学科普"
     },
     {
-      "raw_hot": 574229,
-      "num": 574229,
-      "word": "男子要求每天加夜班民警察觉不对劲抓捕一名逃犯",
-      "onboard_time": 1712695450,
-      "rank": 26,
+      "raw_hot": 471644,
+      "num": 471644,
+      "word": "央广网评婚丧办酒必须报备",
+      "onboard_time": 1712687472,
+      "rank": 29,
       "category": "社会新闻"
     },
     {
-      "raw_hot": 432603,
-      "num": 203579,
+      "raw_hot": 454984,
+      "num": 243076,
       "word": "长沙通报一初中生在校坠楼",
       "onboard_time": 1712697131,
       "rank": 45,
@@ -75,20 +83,20 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 409998,
+      "num": 240221,
+      "word": "赵丽颖发图顺序",
+      "onboard_time": 1712703976,
+      "rank": 11,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 400344,
       "num": 400344,
       "word": "刘忻张予曦牵手过马路",
       "onboard_time": 1712680697,
       "rank": 4,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 394661,
-      "num": 394661,
-      "word": "央广网评婚丧办酒必须报备",
-      "onboard_time": 1712687472,
-      "rank": 29,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 390449,
@@ -115,6 +123,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 265006,
+      "num": 265006,
+      "word": "爸爸开家长会睡着女儿将其写进作文",
+      "onboard_time": 1712694850,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 243928,
       "num": 243928,
       "word": "云南香格里拉发生4.7级地震",
@@ -129,6 +145,14 @@
       "onboard_time": 1712678118,
       "rank": 16,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 220198,
+      "num": 220198,
+      "word": "销售回复孙坚包包掉漆掉毛",
+      "onboard_time": 1712673680,
+      "rank": 31,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 219942,
@@ -171,28 +195,36 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 203801,
-      "num": 203801,
-      "word": "爸爸开家长会睡着女儿将其写进作文",
-      "onboard_time": 1712694850,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 203134,
-      "num": 203134,
-      "word": "赵丽颖发图顺序",
-      "onboard_time": 1712703976,
-      "rank": 11,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 193218,
-      "num": 193218,
+      "raw_hot": 202005,
+      "num": 202005,
       "word": "皇马3比3曼城",
       "onboard_time": 1712704036,
       "rank": 12,
       "category": "体育"
+    },
+    {
+      "raw_hot": 194220,
+      "num": 194220,
+      "word": "隐瞒家人复读一年成功上岸",
+      "onboard_time": 1712704516,
+      "rank": 34,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 192003,
+      "num": 85605,
+      "word": "灵犀互娱",
+      "onboard_time": 1712704156,
+      "rank": 30,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 191555,
+      "num": 119508,
+      "word": "肥胖是这2个妇科病的元凶",
+      "onboard_time": 1712704276,
+      "rank": 23,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 189684,
@@ -201,14 +233,6 @@
       "onboard_time": 1712704156,
       "rank": 13,
       "category": "体育"
-    },
-    {
-      "raw_hot": 189160,
-      "num": 189160,
-      "word": "销售回复孙坚包包掉漆掉毛",
-      "onboard_time": 1712673680,
-      "rank": 31,
-      "category": "艺人,时尚"
     },
     {
       "raw_hot": 182105,
@@ -307,6 +331,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 144220,
+      "num": 144220,
+      "word": "本年度首个龙年龙月龙日龙时",
+      "onboard_time": 1712691250,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 143606,
       "num": 143606,
       "word": "暴雪",
@@ -329,14 +361,6 @@
       "onboard_time": 1712666778,
       "rank": 34,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 132942,
-      "num": 70697,
-      "word": "灵犀互娱",
-      "onboard_time": 1712704156,
-      "rank": 30,
-      "category": "游戏"
     },
     {
       "raw_hot": 127230,
@@ -371,14 +395,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 116017,
-      "num": 116017,
-      "word": "本年度首个龙年龙月龙日龙时",
-      "onboard_time": 1712691250,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 114826,
       "num": 156437,
       "word": "举报县委领导被逮捕事件22人被问责",
@@ -395,12 +411,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 104058,
-      "num": 104058,
+      "raw_hot": 108032,
+      "num": 108032,
       "word": "黄多多已经18岁了",
       "onboard_time": 1712665400,
       "rank": 39,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 104735,
+      "num": 104735,
+      "word": "今天的龙含量好高",
+      "onboard_time": 1712705476,
+      "rank": 25,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 101299,
@@ -435,20 +459,28 @@
       "category": "时尚"
     },
     {
-      "raw_hot": 96439,
-      "num": 96439,
-      "word": "肥胖是这2个妇科病的元凶",
-      "onboard_time": 1712704276,
-      "rank": 23,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 93891,
       "num": 93891,
       "word": "女孩子青春期要保护好自己",
       "onboard_time": 1712679377,
       "rank": 43,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 91837,
+      "num": 91837,
+      "word": "福宝应该称花花为表姨外祖母",
+      "onboard_time": 1712695690,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 91599,
+      "num": 85385,
+      "word": "中国第40次南极考察队凯旋",
+      "onboard_time": 1712704516,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 87575,
@@ -483,6 +515,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 81866,
+      "num": 81866,
+      "word": "商渔船海南附近碰撞事故已致6人遇难",
+      "onboard_time": 1712705476,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 79668,
       "num": 79668,
       "word": "网易回应男孩玩蛋仔派对充上万元",
@@ -491,20 +531,28 @@
       "category": "游戏,互联网"
     },
     {
+      "raw_hot": 78405,
+      "num": 78405,
+      "word": "陈泽刷礼物",
+      "onboard_time": 1712705237,
+      "rank": 36,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 78210,
+      "num": 78210,
+      "word": "无锡女子越南丢钱包竟在苏州找回",
+      "onboard_time": 1712690291,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 78106,
       "num": 78106,
       "word": "当你考研中途休息了一周后",
       "onboard_time": 1712669121,
       "rank": 45,
       "category": "情感"
-    },
-    {
-      "raw_hot": 77114,
-      "num": 77114,
-      "word": "无锡女子越南丢钱包竟在苏州找回",
-      "onboard_time": 1712690291,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 76920,
@@ -531,6 +579,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 70309,
+      "num": 70309,
+      "word": "十二年一遇的时刻",
+      "onboard_time": 1712704276,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 69454,
       "num": 156392,
       "word": "港股中国天瑞水泥跌超99%",
@@ -539,36 +595,12 @@
       "category": "财经"
     },
     {
-      "raw_hot": 66403,
-      "num": 66403,
-      "word": "隐瞒家人复读一年成功上岸",
-      "onboard_time": 1712704516,
-      "rank": 34,
-      "category": "教育"
-    },
-    {
-      "raw_hot": 65364,
-      "num": 65364,
-      "word": "十二年一遇的时刻",
-      "onboard_time": 1712704276,
-      "rank": 35,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 63965,
-      "num": 63965,
-      "word": "福宝应该称花花为表姨外祖母",
-      "onboard_time": 1712695690,
-      "rank": 26,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 63861,
-      "num": 63861,
-      "word": "中国第40次南极考察队凯旋",
-      "onboard_time": 1712704516,
-      "rank": 38,
-      "category": "社会新闻"
+      "raw_hot": 68416,
+      "num": 68416,
+      "word": "张艺凡G社生图",
+      "onboard_time": 1712688371,
+      "rank": 13,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 63636,
@@ -587,12 +619,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 52876,
-      "num": 52876,
-      "word": "张艺凡G社生图",
-      "onboard_time": 1712688371,
-      "rank": 13,
-      "category": "作品衍生,时尚"
+      "raw_hot": 48958,
+      "num": 645495,
+      "word": "长江流域中分布400多种鱼类",
+      "onboard_time": 1712666778,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 43338,
@@ -601,14 +633,6 @@
       "onboard_time": 1712683513,
       "rank": 46,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 41452,
-      "num": 524274,
-      "word": "长江流域中分布400多种鱼类",
-      "onboard_time": 1712666778,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 36071,
