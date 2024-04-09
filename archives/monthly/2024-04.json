@@ -1,6 +1,6 @@
 {
   "startTime": 1711902044401,
-  "endTime": 1712619298101,
+  "endTime": 1712625206694,
   "band_list": [
     {
       "raw_hot": 16874674,
@@ -201,6 +201,14 @@
       "onboard_time": 1711935739,
       "rank": 3,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2371874,
+      "num": 2371874,
+      "word": "小米公司深夜连发三文",
+      "onboard_time": 1712622919,
+      "rank": 0,
+      "category": "汽车"
     },
     {
       "raw_hot": 2366026,
@@ -1171,6 +1179,14 @@
       "category": "科学科普,健康医疗"
     },
     {
+      "raw_hot": 1302440,
+      "num": 1302440,
+      "word": "赵丽颖提议的删掉父女相认戏台词",
+      "onboard_time": 1712619137,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1300538,
       "num": 443553,
       "word": "为什么无性婚姻越来越多",
@@ -1401,6 +1417,14 @@
       "onboard_time": 1712491759,
       "rank": 10,
       "category": "情感"
+    },
+    {
+      "raw_hot": 1216739,
+      "num": 1216739,
+      "word": "ZARA回应撤出中国传闻",
+      "onboard_time": 1712622019,
+      "rank": 3,
+      "category": "财经,时尚"
     },
     {
       "raw_hot": 1213458,
@@ -2003,6 +2027,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 977909,
+      "num": 977909,
+      "word": "张元英连转两次圈",
+      "onboard_time": 1712619677,
+      "rank": 4,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 969619,
       "num": 969619,
       "word": "河南某高校副科长被举报聚众淫乱",
@@ -2369,6 +2401,14 @@
       "onboard_time": 1712552541,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 866674,
+      "num": 866674,
+      "word": "金价又新高囤金人却慌了",
+      "onboard_time": 1712619377,
+      "rank": 5,
+      "category": "财经"
     },
     {
       "raw_hot": 865384,
@@ -3403,6 +3443,14 @@
       "category": "电竞,网红"
     },
     {
+      "raw_hot": 693056,
+      "num": 693056,
+      "word": "男子杀妻抛尸四川警方3天破案",
+      "onboard_time": 1712623459,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 691020,
       "num": 691020,
       "word": "高铁晚点",
@@ -3561,6 +3609,14 @@
       "onboard_time": 1712124321,
       "rank": 14,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 674067,
+      "num": 674067,
+      "word": "南部战区位南海海域开展演训活动",
+      "onboard_time": 1712622438,
+      "rank": 7,
+      "category": "国内时政,军事"
     },
     {
       "raw_hot": 674058,
@@ -6003,6 +6059,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 468705,
+      "num": 468705,
+      "word": "华为 丰田",
+      "onboard_time": 1712622319,
+      "rank": 12,
+      "category": "汽车,数码"
+    },
+    {
       "raw_hot": 467551,
       "num": 467551,
       "word": "行止雪中求婚",
@@ -6209,6 +6273,14 @@
       "onboard_time": 1712151322,
       "rank": 23,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 454592,
+      "num": 454592,
+      "word": "智己汽车致歉函",
+      "onboard_time": 1712622438,
+      "rank": 13,
+      "category": "汽车"
     },
     {
       "raw_hot": 453772,
@@ -6513,6 +6585,14 @@
       "onboard_time": 1711926855,
       "rank": 27,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 436299,
+      "num": 436299,
+      "word": "网友偶遇权志龙",
+      "onboard_time": 1712621719,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 436106,
@@ -9115,6 +9195,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 307540,
+      "num": 307540,
+      "word": "以为水煮蛋买来就是这样的",
+      "onboard_time": 1712618835,
+      "rank": 38,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 307324,
       "num": 307324,
       "word": "Doinb回应复播",
@@ -9963,6 +10051,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 279661,
+      "num": 279661,
+      "word": "知名痔疮药停产后涨价10多倍",
+      "onboard_time": 1712619137,
+      "rank": 18,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 279166,
       "num": 321469,
       "word": "巴黎奥运将启用紫色跑道",
@@ -10241,6 +10337,14 @@
       "onboard_time": 1712146280,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 269400,
+      "num": 269400,
+      "word": "男人的尿酸是怎么一步一步失控的",
+      "onboard_time": 1712619137,
+      "rank": 36,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 269323,
@@ -10675,6 +10779,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 258446,
+      "num": 258446,
+      "word": "赵丽颖潦草小狗",
+      "onboard_time": 1712620938,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 258344,
       "num": 258344,
       "word": "林俊杰济南二开",
@@ -11084,7 +11196,7 @@
     },
     {
       "raw_hot": 248040,
-      "num": 198500,
+      "num": 229294,
       "word": "骨盆可能是世界上最贵的容器",
       "onboard_time": 1712617335,
       "rank": 27,
@@ -11441,6 +11553,14 @@
       "onboard_time": 1712491878,
       "rank": 32,
       "category": "情感"
+    },
+    {
+      "raw_hot": 240289,
+      "num": 240289,
+      "word": "C罗被罚下向裁判鼓掌",
+      "onboard_time": 1712621360,
+      "rank": 28,
+      "category": "体育"
     },
     {
       "raw_hot": 240216,
@@ -12147,6 +12267,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 225498,
+      "num": 578783,
+      "word": "在欧美访了个寂寞中国工程师决定自己搞",
+      "onboard_time": 1712597892,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 224881,
       "num": 224881,
       "word": "女性为什么会选择独自生养孩子",
@@ -12241,6 +12369,14 @@
       "onboard_time": 1712103992,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 223098,
+      "num": 223098,
+      "word": "哈尔滨一九四四 定档",
+      "onboard_time": 1712621419,
+      "rank": 32,
+      "category": "剧集"
     },
     {
       "raw_hot": 223095,
@@ -12657,6 +12793,14 @@
       "onboard_time": 1712365817,
       "rank": 48,
       "category": "电影"
+    },
+    {
+      "raw_hot": 215514,
+      "num": 215514,
+      "word": "智己",
+      "onboard_time": 1712622198,
+      "rank": 33,
+      "category": "汽车"
     },
     {
       "raw_hot": 215340,
@@ -13115,6 +13259,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 208364,
+      "num": 208364,
+      "word": "过敏性鼻炎和感冒有何区别",
+      "onboard_time": 1712621598,
+      "rank": 34,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 208274,
       "num": 208274,
       "word": "变身罗伯特",
@@ -13233,6 +13385,14 @@
       "onboard_time": 1712480479,
       "rank": 39,
       "category": "情感"
+    },
+    {
+      "raw_hot": 206602,
+      "num": 206602,
+      "word": "追风者没爱情线的原因",
+      "onboard_time": 1712624720,
+      "rank": 35,
+      "category": "剧集"
     },
     {
       "raw_hot": 206435,
@@ -13883,6 +14043,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 199861,
+      "num": 199861,
+      "word": "你是长夜也是灯火",
+      "onboard_time": 1712624599,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 199846,
       "num": 199846,
       "word": "王俊凯夏季穿搭",
@@ -13905,14 +14073,6 @@
       "onboard_time": 1711983021,
       "rank": 32,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 199511,
-      "num": 199511,
-      "word": "知名痔疮药停产后涨价10多倍",
-      "onboard_time": 1712619137,
-      "rank": 18,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 199489,
@@ -14737,14 +14897,6 @@
       "onboard_time": 1712308758,
       "rank": 30,
       "category": "电影"
-    },
-    {
-      "raw_hot": 191434,
-      "num": 358755,
-      "word": "在欧美访了个寂寞中国工程师决定自己搞",
-      "onboard_time": 1712597892,
-      "rank": 29,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 191431,
@@ -15867,6 +16019,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 179715,
+      "num": 179715,
+      "word": "天水麻辣烫到底是什么味",
+      "onboard_time": 1712624419,
+      "rank": 38,
+      "category": "美食"
+    },
+    {
       "raw_hot": 179621,
       "num": 179621,
       "word": "霉霉眼中的自己vs实际上的",
@@ -16507,6 +16667,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 171638,
+      "num": 171638,
+      "word": "于适空降超话",
+      "onboard_time": 1712624178,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 171604,
       "num": 171604,
       "word": "发现找工作是有隐形成本的",
@@ -16673,6 +16841,14 @@
       "onboard_time": 1712118443,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 169189,
+      "num": 169189,
+      "word": "蔡澜 活一天过一天人生",
+      "onboard_time": 1712623819,
+      "rank": 40,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 169026,
@@ -18083,6 +18259,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 152142,
+      "num": 152142,
+      "word": "智己小米事件始末",
+      "onboard_time": 1712623220,
+      "rank": 42,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 152086,
       "num": 152086,
       "word": "男朋友让我给他生病的妈妈做饭吃",
@@ -18329,6 +18513,14 @@
       "onboard_time": 1712311939,
       "rank": 40,
       "category": "情感"
+    },
+    {
+      "raw_hot": 149085,
+      "num": 149085,
+      "word": "小米SU7后视镜雨天可开启加热功能",
+      "onboard_time": 1712621360,
+      "rank": 43,
+      "category": "汽车"
     },
     {
       "raw_hot": 148997,
@@ -18625,6 +18817,14 @@
       "onboard_time": 1712225058,
       "rank": 44,
       "category": "电影"
+    },
+    {
+      "raw_hot": 146261,
+      "num": 146261,
+      "word": "请假去打宿傩",
+      "onboard_time": 1712623518,
+      "rank": 44,
+      "category": "幽默"
     },
     {
       "raw_hot": 146184,
@@ -19315,6 +19515,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 137801,
+      "num": 137801,
+      "word": "为什么年轻人愿意自己带孩子",
+      "onboard_time": 1712611150,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 137788,
       "num": 137788,
       "word": "各种专业和学校分析",
@@ -19427,6 +19635,14 @@
       "category": "美食,财经"
     },
     {
+      "raw_hot": 136895,
+      "num": 136895,
+      "word": "花十万买数字藏品成废品",
+      "onboard_time": 1712624720,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 136815,
       "num": 136815,
       "word": "上饶提灯定损房东被举报违建",
@@ -19513,6 +19729,14 @@
       "onboard_time": 1711982901,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 135954,
+      "num": 135954,
+      "word": "刘诗诗清水淡妆",
+      "onboard_time": 1712623039,
+      "rank": 47,
+      "category": "作品衍生,美妆"
     },
     {
       "raw_hot": 135885,
@@ -19657,6 +19881,14 @@
       "onboard_time": 1711953859,
       "rank": 44,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 134248,
+      "num": 134248,
+      "word": "吴彦祖发文庆祝结婚14周年",
+      "onboard_time": 1712622499,
+      "rank": 48,
+      "category": "艺人"
     },
     {
       "raw_hot": 133964,
@@ -20379,6 +20611,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 124529,
+      "num": 124529,
+      "word": "5A级颈区",
+      "onboard_time": 1712625138,
+      "rank": 49,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 124448,
       "num": 124448,
       "word": "大哥穿上这衣服真是很香艳",
@@ -20915,14 +21155,6 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 115025,
-      "num": 115025,
-      "word": "为什么年轻人愿意自己带孩子",
-      "onboard_time": 1712611150,
-      "rank": 30,
-      "category": "情感"
-    },
-    {
       "raw_hot": 114961,
       "num": 114961,
       "word": "你这个赛道太小众了",
@@ -21113,6 +21345,14 @@
       "onboard_time": 1711878557,
       "rank": 45,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 110888,
+      "num": 1233838,
+      "word": "我国首口超5000米深层地热科学探井",
+      "onboard_time": 1712582122,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 110370,
@@ -21345,14 +21585,6 @@
       "onboard_time": 1712483418,
       "rank": 8,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 102614,
-      "num": 102614,
-      "word": "男人的尿酸是怎么一步一步失控的",
-      "onboard_time": 1712619137,
-      "rank": 36,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 101570,
@@ -21803,14 +22035,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 83430,
-      "num": 83430,
-      "word": "以为水煮蛋买来就是这样的",
-      "onboard_time": 1712618835,
-      "rank": 38,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 83254,
       "num": 83254,
       "word": "宫崎骏电影里有好多杨迪",
@@ -21841,14 +22065,6 @@
       "onboard_time": 1711941500,
       "rank": 47,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 81350,
-      "num": 81350,
-      "word": "赵丽颖提议的删掉父女相认戏台词",
-      "onboard_time": 1712619137,
-      "rank": 39,
-      "category": "剧集"
     },
     {
       "raw_hot": 81334,
@@ -22169,14 +22385,6 @@
       "onboard_time": 1711928117,
       "rank": 46,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 63007,
-      "num": 594840,
-      "word": "我国首口超5000米深层地热科学探井",
-      "onboard_time": 1712582122,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 62840,
