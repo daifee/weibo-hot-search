@@ -1,0 +1,410 @@
+{
+  "runTime": 1712636530416,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1308727,
+        "num": 1308727,
+        "word": "比亚迪卖一辆车净赚9000元",
+        "onboard_time": 1712633540,
+        "rank": 0,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 1288062,
+        "num": 1288062,
+        "word": "暴雪 回归",
+        "onboard_time": 1712626219,
+        "rank": 1,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 96184,
+        "num": 1207409,
+        "word": "如何将旧金山愿景转为实景",
+        "onboard_time": 1712634319,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1128422,
+        "num": 1128422,
+        "word": "chiikawa作者",
+        "onboard_time": 1712633599,
+        "rank": 3,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 724072,
+        "num": 724072,
+        "word": "向佐评论费曼",
+        "onboard_time": 1712626939,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 575892,
+        "num": 575892,
+        "word": "赵丽颖提议的删掉父女相认戏台词",
+        "onboard_time": 1712619137,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 523204,
+        "num": 523204,
+        "word": "男子杀妻抛尸四川警方3天破案",
+        "onboard_time": 1712623459,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 493447,
+        "num": 493447,
+        "word": "广东省考成绩",
+        "onboard_time": 1712633298,
+        "rank": 7,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 492967,
+        "num": 492967,
+        "word": "ZARA大量粉丝紧急扫货",
+        "onboard_time": 1712625919,
+        "rank": 8,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 322535,
+        "num": 492926,
+        "word": "退伍军人宿舍考研全上岸",
+        "onboard_time": 1712629757,
+        "rank": 9,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 693414,
+        "num": 488336,
+        "word": "鹿晗起诉莆田鞋帽商家",
+        "onboard_time": 1712629638,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 621403,
+        "num": 486528,
+        "word": "林更新那是肋骨外翻不是小肚子",
+        "onboard_time": 1712628438,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 598890,
+        "num": 484959,
+        "word": "无限造孽班",
+        "onboard_time": 1712633477,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 529835,
+        "num": 481597,
+        "word": "易烊千玺 丹麦",
+        "onboard_time": 1712633959,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 73745,
+        "num": 477642,
+        "word": "警惕这些胃病早期症状",
+        "onboard_time": 1712635220,
+        "rank": 14,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 497560,
+        "num": 475266,
+        "word": "小米公司深夜连发三文",
+        "onboard_time": 1712622919,
+        "rank": 15,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 474577,
+        "num": 474577,
+        "word": "某幻 水口十",
+        "onboard_time": 1712635039,
+        "rank": 16,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 449038,
+        "num": 449038,
+        "word": "插画师画的赵丽颖",
+        "onboard_time": 1712632100,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 381565,
+        "num": 381565,
+        "word": "网易回应暴雪国服回归",
+        "onboard_time": 1712632278,
+        "rank": 18,
+        "category": "游戏,互联网"
+      },
+      {
+        "raw_hot": 263676,
+        "num": 381559,
+        "word": "ZARA回应撤出中国传闻",
+        "onboard_time": 1712622019,
+        "rank": 19,
+        "category": "财经,时尚"
+      },
+      {
+        "raw_hot": 33958,
+        "num": 375514,
+        "word": "刚知道在某东买药放过期能免费换",
+        "onboard_time": 1712633179,
+        "rank": 20,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 682009,
+        "num": 365971,
+        "word": "2岁小孩看房时不幸坠亡",
+        "onboard_time": 1712625438,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 591135,
+        "num": 361666,
+        "word": "176的身高长了张1米5的脸",
+        "onboard_time": 1712632759,
+        "rank": 22,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 359607,
+        "num": 359607,
+        "word": "张元英连转两次圈",
+        "onboard_time": 1712619677,
+        "rank": 23,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 337537,
+        "num": 337537,
+        "word": "吴彦祖 没有你我活不下去",
+        "onboard_time": 1712634319,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 335233,
+        "num": 335233,
+        "word": "虐猫考生该懂的不是舆论而是敬畏生命",
+        "onboard_time": 1712628558,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 332819,
+        "num": 332819,
+        "word": "今年唯一一次日全食现场画面",
+        "onboard_time": 1712630897,
+        "rank": 26,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 322816,
+        "num": 322816,
+        "word": "这是我没结婚前最无聊的一天",
+        "onboard_time": 1712632278,
+        "rank": 27,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 293315,
+        "num": 293315,
+        "word": "暴雪国服最快今年夏季上线",
+        "onboard_time": 1712635580,
+        "rank": 28,
+        "category": "游戏,互联网"
+      },
+      {
+        "raw_hot": 243346,
+        "num": 284969,
+        "word": "A股超4500只个股下跌",
+        "onboard_time": 1712633898,
+        "rank": 29,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 848973,
+        "num": 284356,
+        "word": "支付宝崩了",
+        "onboard_time": 1712629939,
+        "rank": 30,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 280778,
+        "num": 280778,
+        "word": "剑网3涉嫌操控比赛疑似诈骗",
+        "onboard_time": 1712630418,
+        "rank": 31,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 266363,
+        "num": 266363,
+        "word": "chiikawa作者年收入52亿日元",
+        "onboard_time": 1712631798,
+        "rank": 32,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 254405,
+        "num": 254405,
+        "word": "比亚迪等中国车企或放弃美国市场",
+        "onboard_time": 1712628977,
+        "rank": 33,
+        "category": "汽车,财经"
+      },
+      {
+        "raw_hot": 223970,
+        "num": 251215,
+        "word": "NBA球探对杨瀚森失望",
+        "onboard_time": 1712635339,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 249666,
+        "num": 249666,
+        "word": "Faker向HLE致歉",
+        "onboard_time": 1712635399,
+        "rank": 35,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 244255,
+        "num": 244255,
+        "word": "为什么收衣服的时候一定要抖一抖",
+        "onboard_time": 1712633540,
+        "rank": 36,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 238212,
+        "num": 238212,
+        "word": "王一博托姐公开秀恩爱",
+        "onboard_time": 1712578400,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 237898,
+        "num": 237898,
+        "word": "欧阳娜娜归来仍才23岁",
+        "onboard_time": 1712636419,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 236086,
+        "num": 236086,
+        "word": "唐嫣回应命好标签",
+        "onboard_time": 1712635639,
+        "rank": 39,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 234037,
+        "num": 234037,
+        "word": "开始推理吧",
+        "onboard_time": 1712631859,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 229416,
+        "num": 229416,
+        "word": "剑网3赛事",
+        "onboard_time": 1712635339,
+        "rank": 41,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 223230,
+        "num": 223230,
+        "word": "WBG发布道歉公告",
+        "onboard_time": 1712636179,
+        "rank": 42,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 220730,
+        "num": 220730,
+        "word": "张子枫胡先煦吻戏",
+        "onboard_time": 1712631498,
+        "rank": 43,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 218763,
+        "num": 218763,
+        "word": "王一博谷嘉诚做俯卧撑",
+        "onboard_time": 1712633657,
+        "rank": 44,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 212281,
+        "num": 212281,
+        "word": "黄金",
+        "onboard_time": 1712629939,
+        "rank": 45,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 211659,
+        "num": 211659,
+        "word": "老公失恋文学",
+        "onboard_time": 1712631077,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 210832,
+        "num": 210832,
+        "word": "金价攀升很多人一袋一袋卖黄金",
+        "onboard_time": 1712631618,
+        "rank": 47,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 186237,
+        "num": 205110,
+        "word": "高诗岩求婚",
+        "onboard_time": 1712634259,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 204754,
+        "num": 204754,
+        "word": "承欢记开播海报",
+        "onboard_time": 1712635879,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平会见法国梅里埃基金会主席夫妇#"
+    }
+  }
+}

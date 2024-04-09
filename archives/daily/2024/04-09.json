@@ -1,6 +1,6 @@
 {
   "startTime": 1712593429256,
-  "endTime": 1712633684393,
+  "endTime": 1712636530416,
   "band_list": [
     {
       "raw_hot": 2371874,
@@ -33,6 +33,14 @@
       "onboard_time": 1712622019,
       "rank": 3,
       "category": "财经,时尚"
+    },
+    {
+      "raw_hot": 1308727,
+      "num": 1308727,
+      "word": "比亚迪卖一辆车净赚9000元",
+      "onboard_time": 1712633540,
+      "rank": 40,
+      "category": "汽车"
     },
     {
       "raw_hot": 1302440,
@@ -75,6 +83,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 1128422,
+      "num": 1128422,
+      "word": "chiikawa作者",
+      "onboard_time": 1712633599,
+      "rank": 45,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 1099991,
       "num": 529491,
       "word": "虐猫考生该懂的不是舆论而是敬畏生命",
@@ -84,7 +100,7 @@
     },
     {
       "raw_hot": 1093352,
-      "num": 460132,
+      "num": 724072,
       "word": "向佐评论费曼",
       "onboard_time": 1712626939,
       "rank": 11,
@@ -108,7 +124,7 @@
     },
     {
       "raw_hot": 961628,
-      "num": 466691,
+      "num": 488336,
       "word": "鹿晗起诉莆田鞋帽商家",
       "onboard_time": 1712629638,
       "rank": 31,
@@ -140,7 +156,7 @@
     },
     {
       "raw_hot": 783649,
-      "num": 454533,
+      "num": 486528,
       "word": "林更新那是肋骨外翻不是小肚子",
       "onboard_time": 1712628438,
       "rank": 12,
@@ -179,7 +195,15 @@
       "category": "教育"
     },
     {
-      "raw_hot": 577429,
+      "raw_hot": 598890,
+      "num": 484959,
+      "word": "无限造孽班",
+      "onboard_time": 1712633477,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 591135,
       "num": 388439,
       "word": "176的身高长了张1米5的脸",
       "onboard_time": 1712632759,
@@ -219,12 +243,28 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 529835,
+      "num": 481597,
+      "word": "易烊千玺 丹麦",
+      "onboard_time": 1712633959,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 500623,
       "num": 500623,
       "word": "比亚迪等中国车企或放弃美国市场",
       "onboard_time": 1712628977,
       "rank": 33,
       "category": "汽车,财经"
+    },
+    {
+      "raw_hot": 493447,
+      "num": 493447,
+      "word": "广东省考成绩",
+      "onboard_time": 1712633298,
+      "rank": 19,
+      "category": "教育"
     },
     {
       "raw_hot": 491803,
@@ -259,6 +299,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 474577,
+      "num": 474577,
+      "word": "某幻 水口十",
+      "onboard_time": 1712635039,
+      "rank": 16,
+      "category": "游戏,网红"
+    },
+    {
       "raw_hot": 468705,
       "num": 468705,
       "word": "华为 丰田",
@@ -291,8 +339,16 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 449038,
+      "num": 449038,
+      "word": "插画师画的赵丽颖",
+      "onboard_time": 1712632100,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 448632,
-      "num": 468092,
+      "num": 492926,
       "word": "退伍军人宿舍考研全上岸",
       "onboard_time": 1712629757,
       "rank": 17,
@@ -345,14 +401,6 @@
       "onboard_time": 1712577139,
       "rank": 12,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 411620,
-      "num": 411620,
-      "word": "广东省考成绩",
-      "onboard_time": 1712633298,
-      "rank": 19,
-      "category": "教育"
     },
     {
       "raw_hot": 406840,
@@ -459,12 +507,12 @@
       "category": "科学科普"
     },
     {
-      "raw_hot": 333929,
-      "num": 333929,
-      "word": "插画师画的赵丽颖",
-      "onboard_time": 1712632100,
-      "rank": 35,
-      "category": "剧集"
+      "raw_hot": 337537,
+      "num": 337537,
+      "word": "吴彦祖 没有你我活不下去",
+      "onboard_time": 1712634319,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 331999,
@@ -497,6 +545,14 @@
       "onboard_time": 1712631077,
       "rank": 25,
       "category": "情感"
+    },
+    {
+      "raw_hot": 293315,
+      "num": 293315,
+      "word": "暴雪国服最快今年夏季上线",
+      "onboard_time": 1712635580,
+      "rank": 28,
+      "category": "游戏,互联网"
     },
     {
       "raw_hot": 279661,
@@ -555,6 +611,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 249666,
+      "num": 249666,
+      "word": "Faker向HLE致歉",
+      "onboard_time": 1712635399,
+      "rank": 35,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 249434,
       "num": 249434,
       "word": "王一博高尔夫水平",
@@ -571,12 +635,28 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 244255,
+      "num": 244255,
+      "word": "为什么收衣服的时候一定要抖一抖",
+      "onboard_time": 1712633540,
+      "rank": 42,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 243506,
       "num": 243506,
       "word": "韩庚卢靖姗为妈妈庆生",
       "onboard_time": 1712627598,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 243346,
+      "num": 284969,
+      "word": "A股超4500只个股下跌",
+      "onboard_time": 1712633898,
+      "rank": 29,
+      "category": "财经"
     },
     {
       "raw_hot": 240289,
@@ -595,6 +675,22 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 237898,
+      "num": 237898,
+      "word": "欧阳娜娜归来仍才23岁",
+      "onboard_time": 1712636419,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 236086,
+      "num": 236086,
+      "word": "唐嫣回应命好标签",
+      "onboard_time": 1712635639,
+      "rank": 39,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 234842,
       "num": 234842,
       "word": "杨幂 谍战剧",
@@ -604,11 +700,19 @@
     },
     {
       "raw_hot": 232040,
-      "num": 199314,
+      "num": 218763,
       "word": "王一博谷嘉诚做俯卧撑",
       "onboard_time": 1712633657,
       "rank": 38,
       "category": "电影"
+    },
+    {
+      "raw_hot": 229416,
+      "num": 229416,
+      "word": "剑网3赛事",
+      "onboard_time": 1712635339,
+      "rank": 41,
+      "category": "游戏"
     },
     {
       "raw_hot": 227121,
@@ -635,12 +739,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 223971,
-      "num": 223971,
-      "word": "无限造孽班",
-      "onboard_time": 1712633477,
+      "raw_hot": 223970,
+      "num": 251215,
+      "word": "NBA球探对杨瀚森失望",
+      "onboard_time": 1712635339,
       "rank": 34,
-      "category": "综艺"
+      "category": "体育"
+    },
+    {
+      "raw_hot": 223230,
+      "num": 223230,
+      "word": "WBG发布道歉公告",
+      "onboard_time": 1712636179,
+      "rank": 42,
+      "category": "电竞"
     },
     {
       "raw_hot": 223098,
@@ -715,6 +827,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 204754,
+      "num": 204754,
+      "word": "承欢记开播海报",
+      "onboard_time": 1712635879,
+      "rank": 49,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 201454,
       "num": 201454,
       "word": "2024年第100天",
@@ -747,36 +867,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 198175,
-      "num": 198175,
-      "word": "比亚迪卖一辆车净赚9000元",
-      "onboard_time": 1712633540,
-      "rank": 40,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 195497,
       "num": 195497,
       "word": "宫崎骏 世上的相遇都是久别重逢",
       "onboard_time": 1712632939,
       "rank": 41,
       "category": "电影"
-    },
-    {
-      "raw_hot": 193947,
-      "num": 193947,
-      "word": "为什么收衣服的时候一定要抖一抖",
-      "onboard_time": 1712633540,
-      "rank": 42,
-      "category": "科学科普"
-    },
-    {
-      "raw_hot": 190991,
-      "num": 190991,
-      "word": "chiikawa作者",
-      "onboard_time": 1712633599,
-      "rank": 45,
-      "category": "动漫"
     },
     {
       "raw_hot": 190559,
@@ -801,6 +897,14 @@
       "onboard_time": 1712585182,
       "rank": 25,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 186237,
+      "num": 205110,
+      "word": "高诗岩求婚",
+      "onboard_time": 1712634259,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 185128,
@@ -1156,7 +1260,7 @@
     },
     {
       "raw_hot": 105349,
-      "num": 199424,
+      "num": 375514,
       "word": "刚知道在某东买药放过期能免费换",
       "onboard_time": 1712633179,
       "rank": 37,
@@ -1201,6 +1305,14 @@
       "onboard_time": 1712583140,
       "rank": 45,
       "category": "情感"
+    },
+    {
+      "raw_hot": 96184,
+      "num": 1207409,
+      "word": "如何将旧金山愿景转为实景",
+      "onboard_time": 1712634319,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 88963,
@@ -1256,6 +1368,14 @@
       "word": "总犯困不想动可能是甲状腺有问题",
       "onboard_time": 1712613971,
       "rank": 48,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 73745,
+      "num": 477642,
+      "word": "警惕这些胃病早期症状",
+      "onboard_time": 1712635220,
+      "rank": 14,
       "category": "健康医疗"
     },
     {
