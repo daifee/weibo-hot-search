@@ -1,6 +1,6 @@
 {
   "startTime": 1712679647281,
-  "endTime": 1712744409854,
+  "endTime": 1712745427511,
   "band_list": [
     {
       "raw_hot": 7494354,
@@ -75,8 +75,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1234178,
-      "num": 1234178,
+      "raw_hot": 1260900,
+      "num": 1260900,
       "word": "下岸",
       "onboard_time": 1712741598,
       "rank": 49,
@@ -291,6 +291,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 743905,
+      "num": 743905,
+      "word": "刘美含33岁状态",
+      "onboard_time": 1712742800,
+      "rank": 5,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 743212,
       "num": 743212,
       "word": "突然理解英国留子的绝望了",
@@ -305,14 +313,6 @@
       "onboard_time": 1712703976,
       "rank": 11,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 717573,
-      "num": 717573,
-      "word": "刘美含33岁状态",
-      "onboard_time": 1712742800,
-      "rank": 5,
-      "category": "艺人"
     },
     {
       "raw_hot": 703383,
@@ -411,6 +411,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 595979,
+      "num": 595979,
+      "word": "福建立法规定妻子可查询配偶财产",
+      "onboard_time": 1712743399,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 594493,
       "num": 594493,
       "word": "河南省考成绩",
@@ -483,6 +491,30 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 505033,
+      "num": 505033,
+      "word": "仝卓工作室回应王凯方",
+      "onboard_time": 1712743999,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 502732,
+      "num": 502732,
+      "word": "韩民众请求政府续租福宝",
+      "onboard_time": 1712743098,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 502499,
+      "num": 502499,
+      "word": "女子花椒呛喉推开家人海姆立克法自救",
+      "onboard_time": 1712740218,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 493181,
       "num": 493181,
       "word": "王一博拍戏肿了好大一个包",
@@ -529,6 +561,14 @@
       "onboard_time": 1712721379,
       "rank": 25,
       "category": "数码"
+    },
+    {
+      "raw_hot": 457005,
+      "num": 457005,
+      "word": "吴镇宇回应后费曼删博",
+      "onboard_time": 1712743458,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 454984,
@@ -603,14 +643,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 416981,
-      "num": 416981,
-      "word": "女子花椒呛喉推开家人海姆立克法自救",
-      "onboard_time": 1712740218,
-      "rank": 43,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 407192,
       "num": 407192,
       "word": "千香引把鞠婧祎名字打错了",
@@ -657,6 +689,14 @@
       "onboard_time": 1712733079,
       "rank": 32,
       "category": "读书作家"
+    },
+    {
+      "raw_hot": 362479,
+      "num": 271109,
+      "word": "被一碗25块钱的牛肉面惊呆了",
+      "onboard_time": 1712741057,
+      "rank": 25,
+      "category": "美食"
     },
     {
       "raw_hot": 362234,
@@ -729,14 +769,6 @@
       "onboard_time": 1712734219,
       "rank": 22,
       "category": "运动健身"
-    },
-    {
-      "raw_hot": 348398,
-      "num": 247540,
-      "word": "被一碗25块钱的牛肉面惊呆了",
-      "onboard_time": 1712741057,
-      "rank": 25,
-      "category": "美食"
     },
     {
       "raw_hot": 330425,
@@ -819,20 +851,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 310697,
+      "num": 310697,
+      "word": "赵丽颖玉面判官",
+      "onboard_time": 1712743999,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 306248,
       "num": 337935,
       "word": "文韬生日会",
       "onboard_time": 1712708900,
       "rank": 19,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 305723,
-      "num": 305723,
-      "word": "福建立法规定妻子可查询配偶财产",
-      "onboard_time": 1712743399,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 300909,
@@ -891,6 +923,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 287083,
+      "num": 287083,
+      "word": "李沁西装裙",
+      "onboard_time": 1712744479,
+      "rank": 19,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 287000,
       "num": 287000,
       "word": "时代少年团演唱会",
@@ -939,14 +979,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 270475,
-      "num": 270475,
-      "word": "韩民众请求政府续租福宝",
-      "onboard_time": 1712743098,
-      "rank": 15,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 265820,
       "num": 265820,
       "word": "种地吧直播",
@@ -984,6 +1016,14 @@
       "word": "最美人间四月天",
       "onboard_time": 1712721319,
       "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 258627,
+      "num": 459469,
+      "word": "福宝大口吃胡萝卜声音嘎嘣脆",
+      "onboard_time": 1712745078,
+      "rank": 11,
       "category": "社会新闻"
     },
     {
@@ -1033,22 +1073,6 @@
       "onboard_time": 1712712739,
       "rank": 29,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 249039,
-      "num": 232432,
-      "word": "吴镇宇回应后费曼删博",
-      "onboard_time": 1712743458,
-      "rank": 25,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 244968,
-      "num": 231828,
-      "word": "仝卓工作室回应王凯方",
-      "onboard_time": 1712743999,
-      "rank": 26,
-      "category": "艺人"
     },
     {
       "raw_hot": 243928,
@@ -1627,14 +1651,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 183163,
-      "num": 183163,
-      "word": "赵丽颖玉面判官",
-      "onboard_time": 1712743999,
-      "rank": 34,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 182105,
       "num": 174754,
       "word": "经常熬夜的六个好处",
@@ -1947,6 +1963,22 @@
       "category": "读书作家"
     },
     {
+      "raw_hot": 150649,
+      "num": 150649,
+      "word": "何浩楠 无人机师傅撒药中",
+      "onboard_time": 1712744238,
+      "rank": 49,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 150153,
+      "num": 150153,
+      "word": "过完清明假期办公室全体离职",
+      "onboard_time": 1712744058,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 150134,
       "num": 150134,
       "word": "魔兽世界",
@@ -2107,28 +2139,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 125776,
-      "num": 125776,
-      "word": "过完清明假期办公室全体离职",
-      "onboard_time": 1712744058,
-      "rank": 48,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 125233,
       "num": 125233,
       "word": "金价",
       "onboard_time": 1712675898,
       "rank": 38,
       "category": "财经"
-    },
-    {
-      "raw_hot": 125208,
-      "num": 125208,
-      "word": "何浩楠 无人机师傅撒药中",
-      "onboard_time": 1712744238,
-      "rank": 49,
-      "category": "综艺"
     },
     {
       "raw_hot": 123290,
@@ -2145,6 +2161,14 @@
       "onboard_time": 1712736258,
       "rank": 46,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 121514,
+      "num": 121514,
+      "word": "当你和体育生坐同一个电梯",
+      "onboard_time": 1712744779,
+      "rank": 46,
+      "category": "幽默"
     },
     {
       "raw_hot": 121254,
@@ -2171,6 +2195,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 113219,
+      "num": 113219,
+      "word": "惜花芷 祖母",
+      "onboard_time": 1712745320,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 112588,
       "num": 112588,
       "word": "男人老了的标准是是什么",
@@ -2185,6 +2217,14 @@
       "onboard_time": 1712680996,
       "rank": 19,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 110630,
+      "num": 254253,
+      "word": "老师哄睡宝宝的姿势像极了妈妈",
+      "onboard_time": 1712744238,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 108032,
@@ -2284,7 +2324,7 @@
     },
     {
       "raw_hot": 91599,
-      "num": 85385,
+      "num": 1352580,
       "word": "中国第40次南极考察队凯旋",
       "onboard_time": 1712704516,
       "rank": 38,
@@ -2329,14 +2369,6 @@
       "onboard_time": 1712673319,
       "rank": 46,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 81874,
-      "num": 254253,
-      "word": "老师哄睡宝宝的姿势像极了妈妈",
-      "onboard_time": 1712744238,
-      "rank": 19,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 81866,
