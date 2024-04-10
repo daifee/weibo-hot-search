@@ -1,6 +1,6 @@
 {
   "startTime": 1712420539476,
-  "endTime": 1712723665370,
+  "endTime": 1712726204505,
   "band_list": [
     {
       "raw_hot": 9583581,
@@ -203,6 +203,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1655847,
+      "num": 1655847,
+      "word": "深圳日晕",
+      "onboard_time": 1712723359,
+      "rank": 8,
+      "category": "自然"
+    },
+    {
       "raw_hot": 1634789,
       "num": 1634789,
       "word": "小米定金事件暴露了成年人的耍赖心态",
@@ -339,6 +347,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 1380112,
+      "num": 1380112,
+      "word": "欧阳娜娜首次回应叫陈伟霆爸爸",
+      "onboard_time": 1712724140,
+      "rank": 1,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1371438,
       "num": 910203,
       "word": "邯郸案3人将面临故意杀人罪基本刑罚",
@@ -435,6 +451,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 1263379,
+      "num": 1263379,
+      "word": "演员刘雨欣吐槽在美国真的不敢生病",
+      "onboard_time": 1712723720,
+      "rank": 3,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1262092,
       "num": 1262092,
       "word": "韩国溺水幼童遭11家医院拒收后死亡",
@@ -497,6 +521,14 @@
       "onboard_time": 1712491759,
       "rank": 10,
       "category": "情感"
+    },
+    {
+      "raw_hot": 1214910,
+      "num": 1214910,
+      "word": "青3选手蒋智豪患肺癌",
+      "onboard_time": 1712724080,
+      "rank": 4,
+      "category": "综艺"
     },
     {
       "raw_hot": 1207845,
@@ -1137,14 +1169,6 @@
       "onboard_time": 1712582179,
       "rank": 37,
       "category": "美食"
-    },
-    {
-      "raw_hot": 787086,
-      "num": 787086,
-      "word": "深圳日晕",
-      "onboard_time": 1712723359,
-      "rank": 8,
-      "category": "自然"
     },
     {
       "raw_hot": 785956,
@@ -1804,7 +1828,7 @@
     },
     {
       "raw_hot": 603864,
-      "num": 340904,
+      "num": 353364,
       "word": "因为什么把微信运动关了",
       "onboard_time": 1712720058,
       "rank": 46,
@@ -2617,6 +2641,14 @@
       "onboard_time": 1712643859,
       "rank": 20,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 462015,
+      "num": 462015,
+      "word": "新款iPad或将直接发布",
+      "onboard_time": 1712721379,
+      "rank": 25,
+      "category": "数码"
     },
     {
       "raw_hot": 460583,
@@ -3467,6 +3499,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 351845,
+      "num": 351845,
+      "word": "成为了妈妈 却失去了自己",
+      "onboard_time": 1712722820,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 351547,
       "num": 351547,
       "word": "林更新 做饭的神",
@@ -3529,14 +3569,6 @@
       "onboard_time": 1712561119,
       "rank": 37,
       "category": "科学科普"
-    },
-    {
-      "raw_hot": 347031,
-      "num": 347031,
-      "word": "新款iPad或将直接发布",
-      "onboard_time": 1712721379,
-      "rank": 25,
-      "category": "数码"
     },
     {
       "raw_hot": 346462,
@@ -3739,6 +3771,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 327772,
+      "num": 327772,
+      "word": "出去玩时被强制性塞花了",
+      "onboard_time": 1712723120,
+      "rank": 37,
+      "category": "情感"
+    },
+    {
       "raw_hot": 327740,
       "num": 211099,
       "word": "范志毅出任辽宁铁人主帅",
@@ -3753,6 +3793,14 @@
       "onboard_time": 1712462299,
       "rank": 21,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 325271,
+      "num": 325271,
+      "word": "在泰国吃生腌翻车了",
+      "onboard_time": 1712723419,
+      "rank": 36,
+      "category": "旅游"
     },
     {
       "raw_hot": 324877,
@@ -4579,6 +4627,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 260199,
+      "num": 1291217,
+      "word": "最美人间四月天",
+      "onboard_time": 1712721319,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 259992,
       "num": 259992,
       "word": "千万不要买樱花味食物",
@@ -4672,6 +4728,14 @@
       "word": "香港游客涌入长沙",
       "onboard_time": 1712707099,
       "rank": 27,
+      "category": "旅游"
+    },
+    {
+      "raw_hot": 257766,
+      "num": 257766,
+      "word": "甘肃人称天水火了最想感谢陕西",
+      "onboard_time": 1712724920,
+      "rank": 25,
       "category": "旅游"
     },
     {
@@ -4785,6 +4849,14 @@
       "onboard_time": 1712669121,
       "rank": 24,
       "category": "情感"
+    },
+    {
+      "raw_hot": 251716,
+      "num": 251716,
+      "word": "郭书瑶 淘汰",
+      "onboard_time": 1712725522,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 251435,
@@ -5435,14 +5507,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 223867,
-      "num": 223867,
-      "word": "成为了妈妈 却失去了自己",
-      "onboard_time": 1712722820,
-      "rank": 32,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 223863,
       "num": 223863,
       "word": "吴镇宇 挣的都是精神损失费",
@@ -5480,6 +5544,14 @@
       "word": "哈尔滨一九四四 定档",
       "onboard_time": 1712621419,
       "rank": 32,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 222601,
+      "num": 222601,
+      "word": "虞书欣雪山写真",
+      "onboard_time": 1712723359,
+      "rank": 38,
       "category": "剧集"
     },
     {
@@ -5521,14 +5593,6 @@
       "onboard_time": 1712558058,
       "rank": 31,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 220293,
-      "num": 1066064,
-      "word": "最美人间四月天",
-      "onboard_time": 1712721319,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 219942,
@@ -5795,14 +5859,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 210233,
-      "num": 210233,
-      "word": "在泰国吃生腌翻车了",
-      "onboard_time": 1712723419,
-      "rank": 36,
-      "category": "旅游"
-    },
-    {
       "raw_hot": 210158,
       "num": 210158,
       "word": "赵露思猫眼妆",
@@ -5816,6 +5872,14 @@
       "word": "昨天偶遇的韩女太幽默了",
       "onboard_time": 1712627899,
       "rank": 31,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 209618,
+      "num": 209618,
+      "word": "韩国人精神状态一骑绝尘",
+      "onboard_time": 1712724800,
+      "rank": 36,
       "category": "幽默"
     },
     {
@@ -5937,14 +6001,6 @@
       "onboard_time": 1712715079,
       "rank": 35,
       "category": "电影"
-    },
-    {
-      "raw_hot": 206887,
-      "num": 206887,
-      "word": "出去玩时被强制性塞花了",
-      "onboard_time": 1712723120,
-      "rank": 37,
-      "category": "情感"
     },
     {
       "raw_hot": 206774,
@@ -6136,14 +6192,6 @@
       "word": "承欢记开播海报",
       "onboard_time": 1712635879,
       "rank": 49,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 204241,
-      "num": 204241,
-      "word": "虞书欣雪山写真",
-      "onboard_time": 1712723359,
-      "rank": 38,
       "category": "剧集"
     },
     {
@@ -6755,6 +6803,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 191613,
+      "num": 191613,
+      "word": "二次元最好不要当老师",
+      "onboard_time": 1712724380,
+      "rank": 40,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 191555,
       "num": 119508,
       "word": "肥胖是这2个妇科病的元凶",
@@ -6969,6 +7025,14 @@
       "onboard_time": 1712650220,
       "rank": 34,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 186596,
+      "num": 186596,
+      "word": "养大一个孩子有多不容易",
+      "onboard_time": 1712725641,
+      "rank": 41,
+      "category": "母婴育儿"
     },
     {
       "raw_hot": 186511,
@@ -7603,6 +7667,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 170859,
+      "num": 170859,
+      "word": "肖战地广",
+      "onboard_time": 1712726058,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 170823,
       "num": 170823,
       "word": "孤雁",
@@ -7793,6 +7865,14 @@
       "onboard_time": 1712654419,
       "rank": 39,
       "category": "电影"
+    },
+    {
+      "raw_hot": 164308,
+      "num": 164308,
+      "word": "当猫咪第一次见到泡泡时",
+      "onboard_time": 1712725998,
+      "rank": 44,
+      "category": "幽默"
     },
     {
       "raw_hot": 164181,
@@ -7987,6 +8067,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 158961,
+      "num": 158961,
+      "word": "故宫海棠花开了",
+      "onboard_time": 1712725279,
+      "rank": 48,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 158881,
       "num": 158881,
       "word": "眼泪女王收视率",
@@ -8017,6 +8105,14 @@
       "onboard_time": 1712578697,
       "rank": 42,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 157090,
+      "num": 157090,
+      "word": "日全食美图",
+      "onboard_time": 1712723901,
+      "rank": 49,
+      "category": "自然"
     },
     {
       "raw_hot": 156598,
@@ -8073,6 +8169,14 @@
       "onboard_time": 1712556918,
       "rank": 45,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 154139,
+      "num": 233713,
+      "word": "勇士战胜湖人",
+      "onboard_time": 1712725461,
+      "rank": 28,
+      "category": "体育"
     },
     {
       "raw_hot": 153859,
@@ -8233,6 +8337,14 @@
       "onboard_time": 1712621360,
       "rank": 43,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 149042,
+      "num": 158975,
+      "word": "陈清晨孙颖莎约定巴黎夺金",
+      "onboard_time": 1712724020,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 149034,
@@ -9595,6 +9707,14 @@
       "category": "社会正能量,教育"
     },
     {
+      "raw_hot": 102890,
+      "num": 437717,
+      "word": "异世界MBTI",
+      "onboard_time": 1712723720,
+      "rank": 15,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 102858,
       "num": 102858,
       "word": "坂田银时又是第一",
@@ -9828,7 +9948,7 @@
     },
     {
       "raw_hot": 80187,
-      "num": 183118,
+      "num": 232799,
       "word": "P5X预下载",
       "onboard_time": 1712723539,
       "rank": 45,
@@ -10273,6 +10393,14 @@
       "onboard_time": 1712428451,
       "rank": 32,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 29073,
+      "num": 223426,
+      "word": "P5X里哪种人格最会伪装",
+      "onboard_time": 1712725579,
+      "rank": 33,
+      "category": "游戏"
     },
     {
       "raw_hot": 28039,
