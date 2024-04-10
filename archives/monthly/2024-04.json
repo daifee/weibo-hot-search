@@ -1,6 +1,6 @@
 {
   "startTime": 1711902044401,
-  "endTime": 1712753200003,
+  "endTime": 1712755188763,
   "band_list": [
     {
       "raw_hot": 16874674,
@@ -1251,6 +1251,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1320042,
+      "num": 493121,
+      "word": "仝卓工作室实名举报高源涉嫌偷税漏税",
+      "onboard_time": 1712750297,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1319767,
       "num": 1319767,
       "word": "警方回应找王婆说媒已婚男妻子疑轻生",
@@ -2073,14 +2081,6 @@
       "onboard_time": 1712669720,
       "rank": 7,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 1047122,
-      "num": 463925,
-      "word": "仝卓工作室实名举报高源涉嫌偷税漏税",
-      "onboard_time": 1712750297,
-      "rank": 10,
-      "category": "艺人"
     },
     {
       "raw_hot": 1047061,
@@ -3028,7 +3028,7 @@
     },
     {
       "raw_hot": 831612,
-      "num": 593037,
+      "num": 635239,
       "word": "这真是42岁的汪东城吗",
       "onboard_time": 1712749038,
       "rank": 3,
@@ -3563,6 +3563,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 756958,
+      "num": 756958,
+      "word": "热辣滚烫最终票房34.6亿",
+      "onboard_time": 1712752458,
+      "rank": 24,
+      "category": "电影"
+    },
+    {
       "raw_hot": 756594,
       "num": 625545,
       "word": "雷军 我的SU7",
@@ -3577,6 +3585,14 @@
       "onboard_time": 1712493258,
       "rank": 31,
       "category": "美食"
+    },
+    {
+      "raw_hot": 754070,
+      "num": 754070,
+      "word": "有人卖出5公斤黄金变现270多万",
+      "onboard_time": 1712750357,
+      "rank": 4,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 753390,
@@ -3603,20 +3619,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 750127,
-      "num": 588609,
-      "word": "有人卖出5公斤黄金变现270多万",
-      "onboard_time": 1712750357,
-      "rank": 4,
-      "category": "财经,社会新闻"
-    },
-    {
       "raw_hot": 749032,
       "num": 638750,
       "word": "仝卓工作室回应王凯方",
       "onboard_time": 1712743999,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 746203,
+      "num": 307958,
+      "word": "五六十万存款可以回小县城躺平吗",
+      "onboard_time": 1712749999,
+      "rank": 20,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 745823,
@@ -3712,14 +3728,6 @@
       "word": "世界年龄最大男子去世",
       "onboard_time": 1712217977,
       "rank": 30,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 735124,
-      "num": 300817,
-      "word": "五六十万存款可以回小县城躺平吗",
-      "onboard_time": 1712749999,
-      "rank": 20,
       "category": "社会新闻"
     },
     {
@@ -5379,6 +5387,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 591313,
+      "num": 591313,
+      "word": "秦岚娜扎花少出发",
+      "onboard_time": 1712753119,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 591135,
       "num": 439343,
       "word": "176的身高长了张1米5的脸",
@@ -5467,6 +5483,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 585317,
+      "num": 585317,
+      "word": "肖战直播出图",
+      "onboard_time": 1712752220,
+      "rank": 32,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 583636,
       "num": 566174,
       "word": "当一个白富美经历家庭破产",
@@ -5529,6 +5553,14 @@
       "onboard_time": 1712280558,
       "rank": 32,
       "category": "游戏,网红"
+    },
+    {
+      "raw_hot": 578902,
+      "num": 578902,
+      "word": "烟台一海滩为开演唱会被浇灌混凝土",
+      "onboard_time": 1712753419,
+      "rank": 7,
+      "category": "社会新闻,演出"
     },
     {
       "raw_hot": 578526,
@@ -5777,6 +5809,14 @@
       "onboard_time": 1712064200,
       "rank": 19,
       "category": "演出"
+    },
+    {
+      "raw_hot": 557125,
+      "num": 557125,
+      "word": "王者荣耀个性小兵",
+      "onboard_time": 1712751977,
+      "rank": 19,
+      "category": "电竞"
     },
     {
       "raw_hot": 556423,
@@ -7339,6 +7379,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 461939,
+      "num": 461939,
+      "word": "时代少年团演唱会 特权码",
+      "onboard_time": 1712754019,
+      "rank": 11,
+      "category": "演出"
+    },
+    {
       "raw_hot": 461559,
       "num": 461559,
       "word": "金靖cos西施",
@@ -7449,14 +7497,6 @@
       "onboard_time": 1711980021,
       "rank": 29,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 455577,
-      "num": 455577,
-      "word": "王者荣耀个性小兵",
-      "onboard_time": 1712751977,
-      "rank": 19,
-      "category": "电竞"
     },
     {
       "raw_hot": 455506,
@@ -7697,14 +7737,6 @@
       "onboard_time": 1712567599,
       "rank": 32,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 446801,
-      "num": 446801,
-      "word": "肖战直播出图",
-      "onboard_time": 1712752220,
-      "rank": 32,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 445857,
@@ -8315,6 +8347,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 419859,
+      "num": 419859,
+      "word": "CPI",
+      "onboard_time": 1712753657,
+      "rank": 12,
+      "category": "财经"
+    },
+    {
       "raw_hot": 419719,
       "num": 419719,
       "word": "杨幂豹纹辣妹",
@@ -8881,6 +8921,14 @@
       "onboard_time": 1711986079,
       "rank": 20,
       "category": "情感"
+    },
+    {
+      "raw_hot": 389064,
+      "num": 389064,
+      "word": "吴磊回北电吃面",
+      "onboard_time": 1712753600,
+      "rank": 14,
+      "category": "电影"
     },
     {
       "raw_hot": 388907,
@@ -9833,6 +9881,14 @@
       "onboard_time": 1712547619,
       "rank": 31,
       "category": "数码"
+    },
+    {
+      "raw_hot": 349439,
+      "num": 349439,
+      "word": "仝卓工作室讨债记",
+      "onboard_time": 1712752819,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 349232,
@@ -12115,6 +12171,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 279253,
+      "num": 279253,
+      "word": "王一博表情包",
+      "onboard_time": 1712754260,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 279166,
       "num": 321469,
       "word": "巴黎奥运将启用紫色跑道",
@@ -12225,6 +12289,14 @@
       "onboard_time": 1712537001,
       "rank": 19,
       "category": "作品衍生,艺人"
+    },
+    {
+      "raw_hot": 275555,
+      "num": 275555,
+      "word": "Rookie尽力了",
+      "onboard_time": 1712754319,
+      "rank": 23,
+      "category": "电竞"
     },
     {
       "raw_hot": 275439,
@@ -12547,14 +12619,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 266334,
-      "num": 266334,
-      "word": "秦岚娜扎花少出发",
-      "onboard_time": 1712753119,
-      "rank": 23,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 266112,
       "num": 229623,
       "word": "杨幂纯白造型",
@@ -12737,14 +12801,6 @@
       "onboard_time": 1711959321,
       "rank": 28,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 261736,
-      "num": 261736,
-      "word": "热辣滚烫最终票房34.6亿",
-      "onboard_time": 1712752458,
-      "rank": 24,
-      "category": "电影"
     },
     {
       "raw_hot": 261411,
@@ -13097,6 +13153,14 @@
       "onboard_time": 1712416819,
       "rank": 33,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 255447,
+      "num": 255447,
+      "word": "怎么避免被别人视奸",
+      "onboard_time": 1712754559,
+      "rank": 24,
+      "category": "情感"
     },
     {
       "raw_hot": 255200,
@@ -14371,6 +14435,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 232759,
+      "num": 232759,
+      "word": "哈尔 宫崎骏帅哥榜票选第一",
+      "onboard_time": 1712754559,
+      "rank": 28,
+      "category": "电影"
+    },
+    {
       "raw_hot": 232707,
       "num": 232707,
       "word": "平躺才是脊柱最喜欢的睡姿",
@@ -15171,6 +15243,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 220115,
+      "num": 220115,
+      "word": "麦承欢发飙",
+      "onboard_time": 1712752399,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 219942,
       "num": 219942,
       "word": "再见爱人 换乘恋爱",
@@ -15513,6 +15593,14 @@
       "onboard_time": 1712622198,
       "rank": 33,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 215377,
+      "num": 215377,
+      "word": "时代少年团重庆演唱会官宣了",
+      "onboard_time": 1712754019,
+      "rank": 31,
+      "category": "演出"
     },
     {
       "raw_hot": 215340,
@@ -16291,14 +16379,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 206008,
-      "num": 206008,
-      "word": "麦承欢发飙",
-      "onboard_time": 1712752399,
-      "rank": 32,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 205980,
       "num": 205980,
       "word": "追风者周姨疯了",
@@ -16827,6 +16907,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 202060,
+      "num": 202060,
+      "word": "美国3月CPI同比上升3.5%",
+      "onboard_time": 1712754019,
+      "rank": 32,
+      "category": "财经"
+    },
+    {
       "raw_hot": 202005,
       "num": 202005,
       "word": "皇马3比3曼城",
@@ -16857,14 +16945,6 @@
       "onboard_time": 1711936218,
       "rank": 30,
       "category": "情感"
-    },
-    {
-      "raw_hot": 201712,
-      "num": 201712,
-      "word": "仝卓工作室讨债记",
-      "onboard_time": 1712752819,
-      "rank": 34,
-      "category": "艺人"
     },
     {
       "raw_hot": 201676,
@@ -17225,6 +17305,22 @@
       "onboard_time": 1712377097,
       "rank": 33,
       "category": "情感"
+    },
+    {
+      "raw_hot": 198725,
+      "num": 198725,
+      "word": "真力时直播",
+      "onboard_time": 1712754679,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 198648,
+      "num": 198648,
+      "word": "Rookie岩雀",
+      "onboard_time": 1712754379,
+      "rank": 34,
+      "category": "电竞"
     },
     {
       "raw_hot": 198636,
@@ -19307,6 +19403,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 182392,
+      "num": 182392,
+      "word": "气血不足 走哪蹲哪",
+      "onboard_time": 1712752939,
+      "rank": 47,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 182277,
       "num": 182277,
       "word": "Liz生图",
@@ -19481,6 +19585,14 @@
       "onboard_time": 1712562798,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 180181,
+      "num": 180181,
+      "word": "为什么建议你23点一定要睡觉",
+      "onboard_time": 1712754679,
+      "rank": 40,
+      "category": "健康医疗,科学科普"
     },
     {
       "raw_hot": 180073,
@@ -19921,6 +20033,14 @@
       "onboard_time": 1712293337,
       "rank": 40,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 175246,
+      "num": 175246,
+      "word": "林更新哭戏很难来第二条",
+      "onboard_time": 1712754918,
+      "rank": 41,
+      "category": "剧集"
     },
     {
       "raw_hot": 175226,
@@ -24601,14 +24721,6 @@
       "onboard_time": 1712745437,
       "rank": 42,
       "category": "自然"
-    },
-    {
-      "raw_hot": 129048,
-      "num": 129048,
-      "word": "气血不足 走哪蹲哪",
-      "onboard_time": 1712752939,
-      "rank": 47,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 129011,
