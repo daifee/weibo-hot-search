@@ -1,6 +1,6 @@
 {
   "startTime": 1712766262556,
-  "endTime": 1712780296625,
+  "endTime": 1712781391627,
   "band_list": [
     {
       "raw_hot": 2260302,
@@ -515,8 +515,16 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 14609,
+      "num": 15884,
+      "word": "眼泪女王 拧巴",
+      "onboard_time": 1712780951,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 12822,
-      "num": 15650,
+      "num": 15867,
       "word": "年轻人带娃一边崩溃一边自愈",
       "onboard_time": 1712778670,
       "rank": 49,
