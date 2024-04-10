@@ -1,7 +1,23 @@
 {
   "startTime": 1712679647281,
-  "endTime": 1712705675866,
+  "endTime": 1712711537005,
   "band_list": [
+    {
+      "raw_hot": 2108953,
+      "num": 2108953,
+      "word": "今天的龙含量好高",
+      "onboard_time": 1712705476,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1207845,
+      "num": 1207845,
+      "word": "隐瞒家人复读一年成功上岸",
+      "onboard_time": 1712704516,
+      "rank": 34,
+      "category": "教育"
+    },
     {
       "raw_hot": 1126395,
       "num": 1126395,
@@ -19,12 +35,60 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 986944,
+      "num": 986944,
+      "word": "暴雪官宣回归",
+      "onboard_time": 1712711299,
+      "rank": 3,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 978848,
+      "num": 978848,
+      "word": "入职高校行政岗后滤镜碎了",
+      "onboard_time": 1712708361,
+      "rank": 4,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 973693,
+      "num": 973693,
+      "word": "暴雪",
+      "onboard_time": 1712671819,
+      "rank": 32,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 950589,
+      "num": 950589,
+      "word": "女子称买5块雪花酥681元退款被拒",
+      "onboard_time": 1712708420,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 762582,
+      "num": 762582,
+      "word": "福宝把宋宝的魂都带走了",
+      "onboard_time": 1712707039,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 743212,
       "num": 743212,
       "word": "突然理解英国留子的绝望了",
       "onboard_time": 1712674759,
       "rank": 1,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 720261,
+      "num": 720261,
+      "word": "赵丽颖发图顺序",
+      "onboard_time": 1712703976,
+      "rank": 11,
+      "category": "剧集"
     },
     {
       "raw_hot": 703383,
@@ -59,6 +123,22 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 549752,
+      "num": 549752,
+      "word": "女子记录28岁妹妹和6岁女儿神似瞬间",
+      "onboard_time": 1712707279,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 491586,
+      "num": 491586,
+      "word": "王一博海口",
+      "onboard_time": 1712709500,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 471644,
       "num": 471644,
       "word": "央广网评婚丧办酒必须报备",
@@ -75,20 +155,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 440208,
+      "num": 440208,
+      "word": "冉莹颖的3个儿子也分房睡",
+      "onboard_time": 1712705717,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 432274,
       "num": 432274,
       "word": "离职后旅居大理第二天想回家了",
       "onboard_time": 1712669720,
       "rank": 6,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 409998,
-      "num": 240221,
-      "word": "赵丽颖发图顺序",
-      "onboard_time": 1712703976,
-      "rank": 11,
-      "category": "剧集"
     },
     {
       "raw_hot": 400344,
@@ -99,12 +179,44 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 391672,
+      "num": 391672,
+      "word": "入住不到2个月发现租到串串房",
+      "onboard_time": 1712710099,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 390449,
       "num": 390449,
       "word": "11年前狂购黄金的中国大妈解套了",
       "onboard_time": 1712664620,
       "rank": 7,
       "category": "财经"
+    },
+    {
+      "raw_hot": 353764,
+      "num": 353764,
+      "word": "爸爸开家长会睡着女儿将其写进作文",
+      "onboard_time": 1712694850,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 330425,
+      "num": 330425,
+      "word": "原来贡菜就是晒干的莴笋",
+      "onboard_time": 1712706617,
+      "rank": 21,
+      "category": "科学科普"
+    },
+    {
+      "raw_hot": 318793,
+      "num": 318793,
+      "word": "男朋友陪考裸考比我学一个月考的高",
+      "onboard_time": 1712708060,
+      "rank": 22,
+      "category": "幽默"
     },
     {
       "raw_hot": 318419,
@@ -115,6 +227,22 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 306248,
+      "num": 337935,
+      "word": "文韬生日会",
+      "onboard_time": 1712708900,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 302945,
+      "num": 302945,
+      "word": "家里卤猪蹄太好吃被我申上了非遗",
+      "onboard_time": 1712710760,
+      "rank": 24,
+      "category": "美食"
+    },
+    {
       "raw_hot": 298393,
       "num": 298393,
       "word": "高合",
@@ -123,12 +251,44 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 265006,
-      "num": 265006,
-      "word": "爸爸开家长会睡着女儿将其写进作文",
-      "onboard_time": 1712694850,
-      "rank": 48,
-      "category": "社会新闻"
+      "raw_hot": 291808,
+      "num": 291808,
+      "word": "研究发现每天3个苹果或会帮助体重减轻",
+      "onboard_time": 1712707159,
+      "rank": 25,
+      "category": "科学科普"
+    },
+    {
+      "raw_hot": 287646,
+      "num": 239419,
+      "word": "张杰住在女生宿舍冉莹颖住在男生宿舍",
+      "onboard_time": 1712711180,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 277501,
+      "num": 277501,
+      "word": "代号鸢",
+      "onboard_time": 1712709020,
+      "rank": 26,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 258040,
+      "num": 258040,
+      "word": "香港游客涌入长沙",
+      "onboard_time": 1712707099,
+      "rank": 27,
+      "category": "旅游"
+    },
+    {
+      "raw_hot": 250228,
+      "num": 250228,
+      "word": "20岁生孩子和30岁生孩子有何区别",
+      "onboard_time": 1712708060,
+      "rank": 28,
+      "category": "母婴育儿"
     },
     {
       "raw_hot": 243928,
@@ -139,12 +299,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 242261,
+      "num": 242261,
+      "word": "暴雪的那年今日",
+      "onboard_time": 1712711239,
+      "rank": 29,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 233413,
       "num": 233413,
       "word": "刘耀文 有我这口就有你一口",
       "onboard_time": 1712678118,
       "rank": 16,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 231244,
+      "num": 231244,
+      "word": "阿根廷总统称计划收复马岛",
+      "onboard_time": 1712710160,
+      "rank": 32,
+      "category": "国外时政"
     },
     {
       "raw_hot": 220198,
@@ -161,6 +337,14 @@
       "onboard_time": 1712677517,
       "rank": 12,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 218296,
+      "num": 218296,
+      "word": "陈奕迅在MV里挠屁股",
+      "onboard_time": 1712710221,
+      "rank": 33,
+      "category": "音乐"
     },
     {
       "raw_hot": 217262,
@@ -187,6 +371,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 212917,
+      "num": 212917,
+      "word": "本年度首个龙年龙月龙日龙时",
+      "onboard_time": 1712691250,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 205701,
       "num": 205701,
       "word": "虐猫事件 反社会行为",
@@ -203,12 +395,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 194220,
-      "num": 194220,
-      "word": "隐瞒家人复读一年成功上岸",
-      "onboard_time": 1712704516,
-      "rank": 34,
-      "category": "教育"
+      "raw_hot": 199638,
+      "num": 199638,
+      "word": "高合汽车",
+      "onboard_time": 1712708361,
+      "rank": 35,
+      "category": "汽车"
     },
     {
       "raw_hot": 192003,
@@ -259,6 +451,14 @@
       "category": "艺人,游戏"
     },
     {
+      "raw_hot": 173849,
+      "num": 173849,
+      "word": "承欢记 当众求婚是一种道德绑架",
+      "onboard_time": 1712711299,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 173788,
       "num": 177225,
       "word": "碧苍王和她最爱的大锤子",
@@ -275,6 +475,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 168903,
+      "num": 168903,
+      "word": "井胧兄弟姐妹四个亲属关系不够用",
+      "onboard_time": 1712710639,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 168689,
       "num": 168689,
       "word": "纪凌尘让宁静叫他chen",
@@ -283,8 +491,16 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 168010,
+      "num": 168010,
+      "word": "杨幂 CL",
+      "onboard_time": 1712683034,
+      "rank": 11,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 166090,
-      "num": 157882,
+      "num": 159462,
       "word": "看脸就知道你心脏好不好",
       "onboard_time": 1712677757,
       "rank": 26,
@@ -297,6 +513,14 @@
       "onboard_time": 1712655738,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 161953,
+      "num": 161953,
+      "word": "这4种假奶选错了还胖人",
+      "onboard_time": 1712706378,
+      "rank": 42,
+      "category": "美食"
     },
     {
       "raw_hot": 159623,
@@ -323,28 +547,28 @@
       "category": "美妆"
     },
     {
-      "raw_hot": 156221,
-      "num": 156221,
-      "word": "杨幂 CL",
-      "onboard_time": 1712683034,
-      "rank": 11,
-      "category": "作品衍生"
+      "raw_hot": 155237,
+      "num": 155237,
+      "word": "不背单词崩了",
+      "onboard_time": 1712711119,
+      "rank": 44,
+      "category": "教育"
     },
     {
-      "raw_hot": 144220,
-      "num": 144220,
-      "word": "本年度首个龙年龙月龙日龙时",
-      "onboard_time": 1712691250,
-      "rank": 49,
-      "category": "社会新闻"
+      "raw_hot": 154402,
+      "num": 154402,
+      "word": "小米提醒不可魔改升级SU7车机硬件",
+      "onboard_time": 1712706258,
+      "rank": 45,
+      "category": "汽车"
     },
     {
-      "raw_hot": 143606,
-      "num": 143606,
-      "word": "暴雪",
-      "onboard_time": 1712671819,
-      "rank": 32,
-      "category": "游戏"
+      "raw_hot": 148968,
+      "num": 148968,
+      "word": "ARASHI合体",
+      "onboard_time": 1712706497,
+      "rank": 48,
+      "category": "艺人"
     },
     {
       "raw_hot": 141211,
@@ -417,14 +641,6 @@
       "onboard_time": 1712665400,
       "rank": 39,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 104735,
-      "num": 104735,
-      "word": "今天的龙含量好高",
-      "onboard_time": 1712705476,
-      "rank": 25,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 101299,
@@ -563,6 +779,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 75341,
+      "num": 1088596,
+      "word": "长江流域中分布400多种鱼类",
+      "onboard_time": 1712666778,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 73320,
       "num": 305031,
       "word": "00后帅哥送锦旗民警看了差点没绷住",
@@ -617,14 +841,6 @@
       "onboard_time": 1712662579,
       "rank": 39,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 48958,
-      "num": 645495,
-      "word": "长江流域中分布400多种鱼类",
-      "onboard_time": 1712666778,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 43338,

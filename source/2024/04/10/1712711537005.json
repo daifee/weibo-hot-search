@@ -1,0 +1,410 @@
+{
+  "runTime": 1712711537005,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2108953,
+        "num": 2108953,
+        "word": "今天的龙含量好高",
+        "onboard_time": 1712705476,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1207845,
+        "num": 1207845,
+        "word": "隐瞒家人复读一年成功上岸",
+        "onboard_time": 1712704516,
+        "rank": 1,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 75341,
+        "num": 1088596,
+        "word": "长江流域中分布400多种鱼类",
+        "onboard_time": 1712666778,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 986944,
+        "num": 986944,
+        "word": "暴雪官宣回归",
+        "onboard_time": 1712711299,
+        "rank": 3,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 978848,
+        "num": 978848,
+        "word": "入职高校行政岗后滤镜碎了",
+        "onboard_time": 1712708361,
+        "rank": 4,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 973693,
+        "num": 973693,
+        "word": "暴雪",
+        "onboard_time": 1712671819,
+        "rank": 5,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 950589,
+        "num": 950589,
+        "word": "女子称买5块雪花酥681元退款被拒",
+        "onboard_time": 1712708420,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 762582,
+        "num": 762582,
+        "word": "福宝把宋宝的魂都带走了",
+        "onboard_time": 1712707039,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 720261,
+        "num": 720261,
+        "word": "赵丽颖发图顺序",
+        "onboard_time": 1712703976,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 700632,
+        "num": 700632,
+        "word": "男子要求每天加夜班民警察觉不对劲抓捕一名逃犯",
+        "onboard_time": 1712695450,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 658980,
+        "num": 658980,
+        "word": "yamy 淘汰",
+        "onboard_time": 1712677459,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 549752,
+        "num": 549752,
+        "word": "女子记录28岁妹妹和6岁女儿神似瞬间",
+        "onboard_time": 1712707279,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 491586,
+        "num": 491586,
+        "word": "王一博海口",
+        "onboard_time": 1712709500,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 486203,
+        "num": 486203,
+        "word": "外卖小哥连续3年住15元一晚宾馆",
+        "onboard_time": 1712675660,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 456568,
+        "num": 456568,
+        "word": "原来放松时舌头是贴在上颚的",
+        "onboard_time": 1712674340,
+        "rank": 14,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 440208,
+        "num": 440208,
+        "word": "冉莹颖的3个儿子也分房睡",
+        "onboard_time": 1712705717,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 391672,
+        "num": 391672,
+        "word": "入住不到2个月发现租到串串房",
+        "onboard_time": 1712710099,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 356646,
+        "num": 356646,
+        "word": "央广网评婚丧办酒必须报备",
+        "onboard_time": 1712687472,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 353764,
+        "num": 353764,
+        "word": "爸爸开家长会睡着女儿将其写进作文",
+        "onboard_time": 1712694850,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 306248,
+        "num": 337935,
+        "word": "文韬生日会",
+        "onboard_time": 1712708900,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 442816,
+        "num": 337676,
+        "word": "28岁女子怀孕其妈妈喜极而泣",
+        "onboard_time": 1712683333,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 330425,
+        "num": 330425,
+        "word": "原来贡菜就是晒干的莴笋",
+        "onboard_time": 1712706617,
+        "rank": 21,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 318793,
+        "num": 318793,
+        "word": "男朋友陪考裸考比我学一个月考的高",
+        "onboard_time": 1712708060,
+        "rank": 22,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 305570,
+        "num": 305570,
+        "word": "杨紫瘦了好多",
+        "onboard_time": 1712674099,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 302945,
+        "num": 302945,
+        "word": "家里卤猪蹄太好吃被我申上了非遗",
+        "onboard_time": 1712710760,
+        "rank": 24,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 291808,
+        "num": 291808,
+        "word": "研究发现每天3个苹果或会帮助体重减轻",
+        "onboard_time": 1712707159,
+        "rank": 25,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 277501,
+        "num": 277501,
+        "word": "代号鸢",
+        "onboard_time": 1712709020,
+        "rank": 26,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 258040,
+        "num": 258040,
+        "word": "香港游客涌入长沙",
+        "onboard_time": 1712707099,
+        "rank": 27,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 250228,
+        "num": 250228,
+        "word": "20岁生孩子和30岁生孩子有何区别",
+        "onboard_time": 1712708060,
+        "rank": 28,
+        "category": "母婴育儿"
+      },
+      {
+        "raw_hot": 242261,
+        "num": 242261,
+        "word": "暴雪的那年今日",
+        "onboard_time": 1712711239,
+        "rank": 29,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 287646,
+        "num": 239419,
+        "word": "张杰住在女生宿舍冉莹颖住在男生宿舍",
+        "onboard_time": 1712711180,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 234725,
+        "num": 234725,
+        "word": "刘忻张予曦牵手过马路",
+        "onboard_time": 1712680697,
+        "rank": 31,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 231244,
+        "num": 231244,
+        "word": "阿根廷总统称计划收复马岛",
+        "onboard_time": 1712710160,
+        "rank": 32,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 218296,
+        "num": 218296,
+        "word": "陈奕迅在MV里挠屁股",
+        "onboard_time": 1712710221,
+        "rank": 33,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 212917,
+        "num": 212917,
+        "word": "本年度首个龙年龙月龙日龙时",
+        "onboard_time": 1712691250,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 199638,
+        "num": 199638,
+        "word": "高合汽车",
+        "onboard_time": 1712708361,
+        "rank": 35,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 180947,
+        "num": 180947,
+        "word": "离职后旅居大理第二天想回家了",
+        "onboard_time": 1712669720,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 176262,
+        "num": 176262,
+        "word": "突然理解英国留子的绝望了",
+        "onboard_time": 1712674759,
+        "rank": 37,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 173849,
+        "num": 173849,
+        "word": "承欢记 当众求婚是一种道德绑架",
+        "onboard_time": 1712711299,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 172725,
+        "num": 172725,
+        "word": "销售回复孙坚包包掉漆掉毛",
+        "onboard_time": 1712673680,
+        "rank": 39,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 168903,
+        "num": 168903,
+        "word": "井胧兄弟姐妹四个亲属关系不够用",
+        "onboard_time": 1712710639,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 168010,
+        "num": 168010,
+        "word": "杨幂 CL",
+        "onboard_time": 1712683034,
+        "rank": 41,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 161953,
+        "num": 161953,
+        "word": "这4种假奶选错了还胖人",
+        "onboard_time": 1712706378,
+        "rank": 42,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 159462,
+        "num": 159462,
+        "word": "看脸就知道你心脏好不好",
+        "onboard_time": 1712677757,
+        "rank": 43,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 155237,
+        "num": 155237,
+        "word": "不背单词崩了",
+        "onboard_time": 1712711119,
+        "rank": 44,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 154402,
+        "num": 154402,
+        "word": "小米提醒不可魔改升级SU7车机硬件",
+        "onboard_time": 1712706258,
+        "rank": 45,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 151431,
+        "num": 151431,
+        "word": "当我发现爸妈有60万存款时",
+        "onboard_time": 1712672119,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 150560,
+        "num": 150560,
+        "word": "11年前狂购黄金的中国大妈解套了",
+        "onboard_time": 1712664620,
+        "rank": 47,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 148968,
+        "num": 148968,
+        "word": "ARASHI合体",
+        "onboard_time": 1712706497,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 147268,
+        "num": 147268,
+        "word": "长沙通报一初中生在校坠楼",
+        "onboard_time": 1712697131,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平会见越南国会主席#"
+    }
+  }
+}
