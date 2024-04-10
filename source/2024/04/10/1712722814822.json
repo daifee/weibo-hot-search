@@ -1,0 +1,410 @@
+{
+  "runTime": 1712722814822,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1920104,
+        "num": 1920104,
+        "word": "暴雪官宣回归",
+        "onboard_time": 1712711299,
+        "rank": 0,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 1127751,
+        "num": 1127751,
+        "word": "韩国溺水幼童遭11家医院拒收后死亡",
+        "onboard_time": 1712712558,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 177773,
+        "num": 1066064,
+        "word": "最美人间四月天",
+        "onboard_time": 1712721319,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1065099,
+        "num": 1065099,
+        "word": "SM本月已有70名员工辞职",
+        "onboard_time": 1712719758,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1029893,
+        "num": 1029893,
+        "word": "TFBOYS组合没解散",
+        "onboard_time": 1712720718,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 991536,
+        "num": 991536,
+        "word": "鲶鱼须为何备受初中女生追捧",
+        "onboard_time": 1712715558,
+        "rank": 5,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 850306,
+        "num": 850306,
+        "word": "网易暴雪复婚",
+        "onboard_time": 1712711600,
+        "rank": 6,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 707365,
+        "num": 707365,
+        "word": "今天的龙含量好高",
+        "onboard_time": 1712705476,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 695967,
+        "num": 695967,
+        "word": "赵丽颖黑衣新娘妆",
+        "onboard_time": 1712720718,
+        "rank": 8,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 360001,
+        "num": 660430,
+        "word": "福宝把宋宝的魂都带走了",
+        "onboard_time": 1712707039,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 715327,
+        "num": 657347,
+        "word": "马云内部发帖肯定阿里一年改革",
+        "onboard_time": 1712714599,
+        "rank": 10,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 646931,
+        "num": 646931,
+        "word": "网易杭州楼下开始庆祝",
+        "onboard_time": 1712721439,
+        "rank": 11,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 592624,
+        "num": 592624,
+        "word": "上了3天班还剩3天班",
+        "onboard_time": 1712718379,
+        "rank": 12,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 568694,
+        "num": 568694,
+        "word": "张杰住在女生宿舍冉莹颖住在男生宿舍",
+        "onboard_time": 1712711180,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 444869,
+        "num": 444869,
+        "word": "女子称买5块雪花酥681元退款被拒",
+        "onboard_time": 1712708420,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 443364,
+        "num": 443364,
+        "word": "一顿火锅吃出离奇悬案",
+        "onboard_time": 1712719758,
+        "rank": 15,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 428240,
+        "num": 428240,
+        "word": "TFBOYS还会发新歌吗",
+        "onboard_time": 1712718979,
+        "rank": 16,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 411095,
+        "num": 411095,
+        "word": "哈尔的移动城堡",
+        "onboard_time": 1712716038,
+        "rank": 17,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 287000,
+        "num": 287000,
+        "word": "时代少年团演唱会",
+        "onboard_time": 1712721079,
+        "rank": 18,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 286713,
+        "num": 286713,
+        "word": "快递公司经理泄露国家秘密被拘3日",
+        "onboard_time": 1712714838,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 593160,
+        "num": 283431,
+        "word": "因为什么把微信运动关了",
+        "onboard_time": 1712720058,
+        "rank": 20,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 439484,
+        "num": 276593,
+        "word": "为什么很多人宁愿裸辞也不将就",
+        "onboard_time": 1712721439,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 263460,
+        "num": 263460,
+        "word": "28岁女子怀孕其妈妈喜极而泣",
+        "onboard_time": 1712683333,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 261393,
+        "num": 261393,
+        "word": "肖央赵丽颖二搭",
+        "onboard_time": 1712722160,
+        "rank": 23,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 261129,
+        "num": 261129,
+        "word": "工地小伙模仿张元英转圈",
+        "onboard_time": 1712722759,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 258780,
+        "num": 258780,
+        "word": "新款iPad或将直接发布",
+        "onboard_time": 1712721379,
+        "rank": 25,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 258106,
+        "num": 258106,
+        "word": "看舌头的位置就知道是不是口呼吸",
+        "onboard_time": 1712715499,
+        "rank": 26,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 247710,
+        "num": 247710,
+        "word": "林更新是增肥拍的与凤行吗",
+        "onboard_time": 1712713217,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 247299,
+        "num": 247299,
+        "word": "暴雪国服玩家数据完整保留",
+        "onboard_time": 1712714838,
+        "rank": 28,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 243339,
+        "num": 243339,
+        "word": "银行卡90分钟被盗刷283次谁之过",
+        "onboard_time": 1712718077,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 233695,
+        "num": 233695,
+        "word": "陈星旭公主抱迪丽热巴路透",
+        "onboard_time": 1712716639,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 227788,
+        "num": 227788,
+        "word": "女人对男人的期望值太高",
+        "onboard_time": 1712721199,
+        "rank": 31,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 207208,
+        "num": 207208,
+        "word": "华为口红耳机2",
+        "onboard_time": 1712722579,
+        "rank": 32,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 205428,
+        "num": 205428,
+        "word": "许嵩武汉",
+        "onboard_time": 1712720598,
+        "rank": 33,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 123290,
+        "num": 204106,
+        "word": "一觉醒来被拉到了霍格沃茨",
+        "onboard_time": 1712719038,
+        "rank": 34,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 204085,
+        "num": 204085,
+        "word": "射雕英雄传侠之大者亮相推介会",
+        "onboard_time": 1712722460,
+        "rank": 35,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 193176,
+        "num": 193176,
+        "word": "勇士vs湖人",
+        "onboard_time": 1712718137,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 188750,
+        "num": 188750,
+        "word": "家里卤猪蹄太好吃被我申上了非遗",
+        "onboard_time": 1712710760,
+        "rank": 37,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 186552,
+        "num": 186552,
+        "word": "官方通报沈阳一住宅爆炸致1死3伤",
+        "onboard_time": 1712721799,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 183809,
+        "num": 183809,
+        "word": "yamy 淘汰",
+        "onboard_time": 1712677459,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 179150,
+        "num": 179150,
+        "word": "快船打爆太阳",
+        "onboard_time": 1712719520,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 178358,
+        "num": 178358,
+        "word": "王一博海口",
+        "onboard_time": 1712709500,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 176517,
+        "num": 176517,
+        "word": "IU抢票",
+        "onboard_time": 1712715318,
+        "rank": 42,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 174888,
+        "num": 174888,
+        "word": "入住不到2个月发现租到串串房",
+        "onboard_time": 1712710099,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 168238,
+        "num": 168238,
+        "word": "沈阳一小区住宅楼疑似石油气罐发生爆炸",
+        "onboard_time": 1712719457,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 163293,
+        "num": 163293,
+        "word": "网易将重铸血吼",
+        "onboard_time": 1712722520,
+        "rank": 45,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 162815,
+        "num": 162815,
+        "word": "种地吧要种大豆了",
+        "onboard_time": 1712719578,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 154568,
+        "num": 154568,
+        "word": "隐瞒家人复读一年成功上岸",
+        "onboard_time": 1712704516,
+        "rank": 47,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 153266,
+        "num": 153266,
+        "word": "吴卓羲也找不到徐子珊",
+        "onboard_time": 1712713457,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 147879,
+        "num": 147879,
+        "word": "魔兽回归最大受害者",
+        "onboard_time": 1712717959,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#春季中国元首外交精彩纷呈#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1712679647281,
-  "endTime": 1712720070955,
+  "endTime": 1712722814822,
   "band_list": [
     {
       "raw_hot": 7494354,
@@ -59,6 +59,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1065099,
+      "num": 1065099,
+      "word": "SM本月已有70名员工辞职",
+      "onboard_time": 1712719758,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1052749,
       "num": 999112,
       "word": "林更新片场把赵丽颖亲腿麻了",
@@ -83,6 +91,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1029893,
+      "num": 1029893,
+      "word": "TFBOYS组合没解散",
+      "onboard_time": 1712720718,
+      "rank": 4,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1025133,
       "num": 1025133,
       "word": "女子称买5块雪花酥681元退款被拒",
@@ -91,8 +107,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 981258,
-      "num": 981258,
+      "raw_hot": 991536,
+      "num": 991536,
       "word": "鲶鱼须为何备受初中女生追捧",
       "onboard_time": 1712715558,
       "rank": 31,
@@ -108,7 +124,7 @@
     },
     {
       "raw_hot": 781137,
-      "num": 463353,
+      "num": 657347,
       "word": "马云内部发帖肯定阿里一年改革",
       "onboard_time": 1712714599,
       "rank": 13,
@@ -155,6 +171,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 695967,
+      "num": 695967,
+      "word": "赵丽颖黑衣新娘妆",
+      "onboard_time": 1712720718,
+      "rank": 8,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 691194,
       "num": 691194,
       "word": "外卖小哥连续3年住15元一晚宾馆",
@@ -171,6 +195,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 646931,
+      "num": 646931,
+      "word": "网易杭州楼下开始庆祝",
+      "onboard_time": 1712721439,
+      "rank": 11,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 596054,
       "num": 596054,
       "word": "TFBOYS还会发新歌吗",
@@ -185,6 +217,22 @@
       "onboard_time": 1712711600,
       "rank": 12,
       "category": "教育"
+    },
+    {
+      "raw_hot": 593160,
+      "num": 283431,
+      "word": "因为什么把微信运动关了",
+      "onboard_time": 1712720058,
+      "rank": 46,
+      "category": "互联网"
+    },
+    {
+      "raw_hot": 592624,
+      "num": 592624,
+      "word": "上了3天班还剩3天班",
+      "onboard_time": 1712718379,
+      "rank": 40,
+      "category": "情感"
     },
     {
       "raw_hot": 588605,
@@ -259,12 +307,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 440429,
-      "num": 440429,
-      "word": "SM本月已有70名员工辞职",
+      "raw_hot": 443364,
+      "num": 443364,
+      "word": "一顿火锅吃出离奇悬案",
       "onboard_time": 1712719758,
-      "rank": 12,
-      "category": "艺人"
+      "rank": 23,
+      "category": "电影"
     },
     {
       "raw_hot": 440208,
@@ -273,6 +321,14 @@
       "onboard_time": 1712705717,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 439484,
+      "num": 276593,
+      "word": "为什么很多人宁愿裸辞也不将就",
+      "onboard_time": 1712721439,
+      "rank": 21,
+      "category": "情感"
     },
     {
       "raw_hot": 432274,
@@ -427,6 +483,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 287000,
+      "num": 287000,
+      "word": "时代少年团演唱会",
+      "onboard_time": 1712721079,
+      "rank": 18,
+      "category": "演出"
+    },
+    {
       "raw_hot": 284340,
       "num": 284340,
       "word": "杨紫选剧眼光",
@@ -441,14 +505,6 @@
       "onboard_time": 1712713400,
       "rank": 23,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 278824,
-      "num": 278824,
-      "word": "一顿火锅吃出离奇悬案",
-      "onboard_time": 1712719758,
-      "rank": 23,
-      "category": "电影"
     },
     {
       "raw_hot": 277501,
@@ -473,6 +529,30 @@
       "onboard_time": 1712712198,
       "rank": 27,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 261393,
+      "num": 261393,
+      "word": "肖央赵丽颖二搭",
+      "onboard_time": 1712722160,
+      "rank": 23,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 261129,
+      "num": 261129,
+      "word": "工地小伙模仿张元英转圈",
+      "onboard_time": 1712722759,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 258780,
+      "num": 258780,
+      "word": "新款iPad或将直接发布",
+      "onboard_time": 1712721379,
+      "rank": 25,
+      "category": "数码"
     },
     {
       "raw_hot": 258040,
@@ -507,14 +587,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 248122,
-      "num": 248122,
-      "word": "上了3天班还剩3天班",
-      "onboard_time": 1712718379,
-      "rank": 40,
-      "category": "情感"
-    },
-    {
       "raw_hot": 243928,
       "num": 243928,
       "word": "云南香格里拉发生4.7级地震",
@@ -529,6 +601,14 @@
       "onboard_time": 1712718438,
       "rank": 28,
       "category": "数码"
+    },
+    {
+      "raw_hot": 243339,
+      "num": 243339,
+      "word": "银行卡90分钟被盗刷283次谁之过",
+      "onboard_time": 1712718077,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 242261,
@@ -555,12 +635,12 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 223147,
-      "num": 223147,
-      "word": "银行卡90分钟被盗刷283次谁之过",
-      "onboard_time": 1712718077,
-      "rank": 29,
-      "category": "社会新闻"
+      "raw_hot": 227788,
+      "num": 227788,
+      "word": "女人对男人的期望值太高",
+      "onboard_time": 1712721199,
+      "rank": 31,
+      "category": "情感"
     },
     {
       "raw_hot": 220198,
@@ -659,6 +739,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 207208,
+      "num": 207208,
+      "word": "华为口红耳机2",
+      "onboard_time": 1712722579,
+      "rank": 32,
+      "category": "数码"
+    },
+    {
       "raw_hot": 207114,
       "num": 207114,
       "word": "猎鹰特战女兵有多飒",
@@ -715,6 +803,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 205428,
+      "num": 205428,
+      "word": "许嵩武汉",
+      "onboard_time": 1712720598,
+      "rank": 33,
+      "category": "演出"
+    },
+    {
       "raw_hot": 205255,
       "num": 205255,
       "word": "环球音乐与时代峰峻战略合作",
@@ -728,6 +824,14 @@
       "word": "电影朝云暮雨定档",
       "onboard_time": 1712714118,
       "rank": 36,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 204085,
+      "num": 204085,
+      "word": "射雕英雄传侠之大者亮相推介会",
+      "onboard_time": 1712722460,
+      "rank": 35,
       "category": "电影"
     },
     {
@@ -827,6 +931,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 186552,
+      "num": 186552,
+      "word": "官方通报沈阳一住宅爆炸致1死3伤",
+      "onboard_time": 1712721799,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 186511,
       "num": 186511,
       "word": "国服暴雪或本周官宣回归",
@@ -865,6 +977,14 @@
       "onboard_time": 1712715738,
       "rank": 42,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 177773,
+      "num": 1066064,
+      "word": "最美人间四月天",
+      "onboard_time": 1712721319,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 176470,
@@ -915,12 +1035,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 168238,
+      "num": 168238,
+      "word": "沈阳一小区住宅楼疑似石油气罐发生爆炸",
+      "onboard_time": 1712719457,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 166090,
       "num": 159462,
       "word": "看脸就知道你心脏好不好",
       "onboard_time": 1712677757,
       "rank": 26,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 163293,
+      "num": 163293,
+      "word": "网易将重铸血吼",
+      "onboard_time": 1712722520,
+      "rank": 45,
+      "category": "游戏"
     },
     {
       "raw_hot": 163195,
@@ -995,28 +1131,12 @@
       "category": "读书作家"
     },
     {
-      "raw_hot": 149959,
-      "num": 149959,
-      "word": "沈阳一小区住宅楼疑似石油气罐发生爆炸",
-      "onboard_time": 1712719457,
-      "rank": 45,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 148968,
       "num": 148968,
       "word": "ARASHI合体",
       "onboard_time": 1712706497,
       "rank": 48,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 147950,
-      "num": 147950,
-      "word": "因为什么把微信运动关了",
-      "onboard_time": 1712720058,
-      "rank": 46,
-      "category": "互联网"
     },
     {
       "raw_hot": 145606,
@@ -1081,6 +1201,14 @@
       "onboard_time": 1712675898,
       "rank": 38,
       "category": "财经"
+    },
+    {
+      "raw_hot": 123290,
+      "num": 204106,
+      "word": "一觉醒来被拉到了霍格沃茨",
+      "onboard_time": 1712719038,
+      "rank": 47,
+      "category": "旅游"
     },
     {
       "raw_hot": 117490,
@@ -1323,14 +1451,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 42545,
-      "num": 185687,
-      "word": "一觉醒来被拉到了霍格沃茨",
-      "onboard_time": 1712719038,
-      "rank": 47,
-      "category": "旅游"
-    },
-    {
       "raw_hot": 36071,
       "num": 710729,
       "word": "70秒看祖国大地春意盎然",
@@ -1455,6 +1575,9 @@
     },
     {
       "word": "#中巴两党第七届理论研讨会#"
+    },
+    {
+      "word": "#春季中国元首外交精彩纷呈#"
     }
   ]
 }
