@@ -1,6 +1,6 @@
 {
   "startTime": 1712679647281,
-  "endTime": 1712752317696,
+  "endTime": 1712753200003,
   "band_list": [
     {
       "raw_hot": 7494354,
@@ -155,6 +155,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1047122,
+      "num": 463925,
+      "word": "仝卓工作室实名举报高源涉嫌偷税漏税",
+      "onboard_time": 1712750297,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1047061,
       "num": 1047061,
       "word": "老板1个月转账近5万给翘班员工",
@@ -259,6 +267,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 831612,
+      "num": 593037,
+      "word": "这真是42岁的汪东城吗",
+      "onboard_time": 1712749038,
+      "rank": 3,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 827621,
       "num": 827621,
       "word": "韩民众请求政府续租福宝",
@@ -273,14 +289,6 @@
       "onboard_time": 1712728339,
       "rank": 10,
       "category": "游戏,网红"
-    },
-    {
-      "raw_hot": 812004,
-      "num": 584437,
-      "word": "这真是42岁的汪东城吗",
-      "onboard_time": 1712749038,
-      "rank": 3,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 804389,
@@ -331,6 +339,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 750127,
+      "num": 588609,
+      "word": "有人卖出5公斤黄金变现270多万",
+      "onboard_time": 1712750357,
+      "rank": 4,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 749032,
       "num": 638750,
       "word": "仝卓工作室回应王凯方",
@@ -355,12 +371,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 729362,
-      "num": 582317,
-      "word": "有人卖出5公斤黄金变现270多万",
-      "onboard_time": 1712750357,
-      "rank": 4,
-      "category": "财经,社会新闻"
+      "raw_hot": 735124,
+      "num": 300817,
+      "word": "五六十万存款可以回小县城躺平吗",
+      "onboard_time": 1712749999,
+      "rank": 20,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 720261,
@@ -419,6 +435,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 652236,
+      "num": 652236,
+      "word": "时代少年团还不官宣吗",
+      "onboard_time": 1712750839,
+      "rank": 6,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 650237,
       "num": 650237,
       "word": "韩国知名偶像组合成员被骗26亿韩元",
@@ -433,14 +457,6 @@
       "onboard_time": 1712674099,
       "rank": 4,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 641281,
-      "num": 291895,
-      "word": "五六十万存款可以回小县城躺平吗",
-      "onboard_time": 1712749999,
-      "rank": 20,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 640961,
@@ -465,14 +481,6 @@
       "onboard_time": 1712734338,
       "rank": 38,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 617898,
-      "num": 463925,
-      "word": "仝卓工作室实名举报高源涉嫌偷税漏税",
-      "onboard_time": 1712750297,
-      "rank": 10,
-      "category": "艺人"
     },
     {
       "raw_hot": 603864,
@@ -537,14 +545,6 @@
       "onboard_time": 1712707279,
       "rank": 11,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 528398,
-      "num": 528398,
-      "word": "时代少年团还不官宣吗",
-      "onboard_time": 1712750839,
-      "rank": 6,
-      "category": "艺人"
     },
     {
       "raw_hot": 514464,
@@ -659,12 +659,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 455577,
+      "num": 455577,
+      "word": "王者荣耀个性小兵",
+      "onboard_time": 1712751977,
+      "rank": 19,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 454984,
       "num": 243076,
       "word": "长沙通报一初中生在校坠楼",
       "onboard_time": 1712697131,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 446801,
+      "num": 446801,
+      "word": "肖战直播出图",
+      "onboard_time": 1712752220,
+      "rank": 32,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 443364,
@@ -819,6 +835,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 355364,
+      "num": 355364,
+      "word": "中医建议放下这些脾胃就恢复80%了",
+      "onboard_time": 1712748497,
+      "rank": 30,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 354350,
       "num": 354350,
       "word": "华晨宇演唱会顺带搞基建",
@@ -873,14 +897,6 @@
       "onboard_time": 1712734219,
       "rank": 22,
       "category": "运动健身"
-    },
-    {
-      "raw_hot": 330442,
-      "num": 330442,
-      "word": "中医建议放下这些脾胃就恢复80%了",
-      "onboard_time": 1712748497,
-      "rank": 30,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 330425,
@@ -979,6 +995,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 304220,
+      "num": 304220,
+      "word": "杜华卸任乐华影业多个职务",
+      "onboard_time": 1712751558,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 300909,
       "num": 557091,
       "word": "只有考研人才懂的画面",
@@ -1009,14 +1033,6 @@
       "onboard_time": 1712713939,
       "rank": 21,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 295502,
-      "num": 295502,
-      "word": "王者荣耀个性小兵",
-      "onboard_time": 1712751977,
-      "rank": 19,
-      "category": "电竞"
     },
     {
       "raw_hot": 291808,
@@ -1056,6 +1072,14 @@
       "word": "我爸不愿意被叫外公",
       "onboard_time": 1712740758,
       "rank": 41,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 285582,
+      "num": 285582,
+      "word": "天秤座的成长史",
+      "onboard_time": 1712752639,
+      "rank": 22,
       "category": "情感"
     },
     {
@@ -1099,6 +1123,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 266334,
+      "num": 266334,
+      "word": "秦岚娜扎花少出发",
+      "onboard_time": 1712753119,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 265820,
       "num": 265820,
       "word": "种地吧直播",
@@ -1121,6 +1153,14 @@
       "onboard_time": 1712712198,
       "rank": 27,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 261736,
+      "num": 261736,
+      "word": "热辣滚烫最终票房34.6亿",
+      "onboard_time": 1712752458,
+      "rank": 24,
+      "category": "电影"
     },
     {
       "raw_hot": 261129,
@@ -1169,6 +1209,14 @@
       "onboard_time": 1712711239,
       "rank": 30,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 250769,
+      "num": 250769,
+      "word": "马云罕见发声阿里大涨",
+      "onboard_time": 1712751378,
+      "rank": 30,
+      "category": "互联网"
     },
     {
       "raw_hot": 250228,
@@ -1313,14 +1361,6 @@
       "onboard_time": 1712742379,
       "rank": 28,
       "category": "电竞,网红"
-    },
-    {
-      "raw_hot": 223833,
-      "num": 223833,
-      "word": "杜华卸任乐华影业多个职务",
-      "onboard_time": 1712751558,
-      "rank": 24,
-      "category": "艺人"
     },
     {
       "raw_hot": 222601,
@@ -1491,6 +1531,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 206008,
+      "num": 206008,
+      "word": "麦承欢发飙",
+      "onboard_time": 1712752399,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 205834,
       "num": 205834,
       "word": "千香杀青",
@@ -1603,6 +1651,14 @@
       "category": "游戏,美食"
     },
     {
+      "raw_hot": 201712,
+      "num": 201712,
+      "word": "仝卓工作室讨债记",
+      "onboard_time": 1712752819,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 199638,
       "num": 199638,
       "word": "高合汽车",
@@ -1657,14 +1713,6 @@
       "onboard_time": 1712730798,
       "rank": 32,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 195910,
-      "num": 195910,
-      "word": "马云罕见发声阿里大涨",
-      "onboard_time": 1712751378,
-      "rank": 30,
-      "category": "互联网"
     },
     {
       "raw_hot": 195065,
@@ -1811,14 +1859,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 183226,
-      "num": 183226,
-      "word": "肖战直播出图",
-      "onboard_time": 1712752220,
-      "rank": 32,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 182105,
       "num": 174754,
       "word": "经常熬夜的六个好处",
@@ -1833,6 +1873,14 @@
       "onboard_time": 1712683034,
       "rank": 11,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 180407,
+      "num": 178289,
+      "word": "张学友终于想起自己是个演员了",
+      "onboard_time": 1712750178,
+      "rank": 33,
+      "category": "电影"
     },
     {
       "raw_hot": 179437,
@@ -1857,14 +1905,6 @@
       "onboard_time": 1712739619,
       "rank": 30,
       "category": "情感"
-    },
-    {
-      "raw_hot": 178289,
-      "num": 178289,
-      "word": "张学友终于想起自己是个演员了",
-      "onboard_time": 1712750178,
-      "rank": 33,
-      "category": "电影"
     },
     {
       "raw_hot": 176470,
@@ -2027,6 +2067,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 161695,
+      "num": 161695,
+      "word": "这些高碳蔬菜或会越吃越胖",
+      "onboard_time": 1712749999,
+      "rank": 37,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 160110,
       "num": 160110,
       "word": "刘敏涛新剧 破碎的她",
@@ -2041,14 +2089,6 @@
       "onboard_time": 1712672119,
       "rank": 24,
       "category": "情感"
-    },
-    {
-      "raw_hot": 159166,
-      "num": 159166,
-      "word": "这些高碳蔬菜或会越吃越胖",
-      "onboard_time": 1712749999,
-      "rank": 37,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 158961,
@@ -2137,6 +2177,14 @@
       "onboard_time": 1712735537,
       "rank": 36,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 152029,
+      "num": 152029,
+      "word": "李雯雯包揽三金",
+      "onboard_time": 1712751620,
+      "rank": 41,
+      "category": "体育"
     },
     {
       "raw_hot": 151770,
@@ -2241,14 +2289,6 @@
       "onboard_time": 1712717239,
       "rank": 45,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 144522,
-      "num": 144522,
-      "word": "李雯雯包揽三金",
-      "onboard_time": 1712751620,
-      "rank": 41,
-      "category": "体育"
     },
     {
       "raw_hot": 144066,
@@ -2385,6 +2425,14 @@
       "onboard_time": 1712662579,
       "rank": 39,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 129048,
+      "num": 129048,
+      "word": "气血不足 走哪蹲哪",
+      "onboard_time": 1712752939,
+      "rank": 47,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 128743,
