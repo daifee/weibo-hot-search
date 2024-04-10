@@ -1,6 +1,6 @@
 {
   "startTime": 1712420539476,
-  "endTime": 1712733542999,
+  "endTime": 1712734474568,
   "band_list": [
     {
       "raw_hot": 9583581,
@@ -1179,6 +1179,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 804389,
+      "num": 804389,
+      "word": "假如每个星期三都能休息一次",
+      "onboard_time": 1712729120,
+      "rank": 28,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 800362,
       "num": 800362,
       "word": "高梓淇感谢蔡琳",
@@ -1531,14 +1539,6 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 696407,
-      "num": 696407,
-      "word": "假如每个星期三都能休息一次",
-      "onboard_time": 1712729120,
-      "rank": 28,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 695967,
       "num": 695967,
       "word": "赵丽颖黑衣新娘妆",
@@ -1721,6 +1721,14 @@
       "onboard_time": 1712664559,
       "rank": 4,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 642226,
+      "num": 642226,
+      "word": "韩国知名偶像组合成员被骗26亿韩元",
+      "onboard_time": 1712733138,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 638931,
@@ -2563,6 +2571,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 479295,
+      "num": 479295,
+      "word": "美国夫妇因儿子枪杀4人被判15年监禁",
+      "onboard_time": 1712731818,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 479081,
       "num": 479081,
       "word": "租房吃过最大的苦是跟情侣合租",
@@ -3139,6 +3155,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 405645,
+      "num": 405645,
+      "word": "清华大学所在国家学生",
+      "onboard_time": 1712732778,
+      "rank": 16,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 405504,
       "num": 405504,
       "word": "TES对战JDG",
@@ -3347,14 +3371,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 379880,
-      "num": 379880,
-      "word": "美国夫妇因儿子枪杀4人被判15年监禁",
-      "onboard_time": 1712731818,
-      "rank": 15,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 379648,
       "num": 379648,
       "word": "郭炜炜 做不好就不要做了",
@@ -3497,6 +3513,14 @@
       "onboard_time": 1712455518,
       "rank": 16,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 364383,
+      "num": 364383,
+      "word": "九鹭非香改编运",
+      "onboard_time": 1712733079,
+      "rank": 32,
+      "category": "读书作家"
     },
     {
       "raw_hot": 364360,
@@ -3867,14 +3891,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 327570,
-      "num": 327570,
-      "word": "清华大学所在国家学生",
-      "onboard_time": 1712732778,
-      "rank": 16,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 326657,
       "num": 326657,
       "word": "Uzi谈Doinb复播",
@@ -3929,6 +3945,14 @@
       "onboard_time": 1712585298,
       "rank": 27,
       "category": "情感"
+    },
+    {
+      "raw_hot": 323462,
+      "num": 323462,
+      "word": "白鹿曾舜晞全妆路透",
+      "onboard_time": 1712733617,
+      "rank": 19,
+      "category": "剧集"
     },
     {
       "raw_hot": 321659,
@@ -4203,6 +4227,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 300909,
+      "num": 557091,
+      "word": "只有考研人才懂的画面",
+      "onboard_time": 1712730139,
+      "rank": 21,
+      "category": "教育"
+    },
+    {
       "raw_hot": 299519,
       "num": 243738,
       "word": "男孩玩游戏充值2万父亲连扇自己耳光",
@@ -4377,14 +4409,6 @@
       "onboard_time": 1712721079,
       "rank": 18,
       "category": "演出"
-    },
-    {
-      "raw_hot": 286934,
-      "num": 557091,
-      "word": "只有考研人才懂的画面",
-      "onboard_time": 1712730139,
-      "rank": 21,
-      "category": "教育"
     },
     {
       "raw_hot": 286896,
@@ -4753,14 +4777,6 @@
       "onboard_time": 1712506637,
       "rank": 45,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 260298,
-      "num": 260298,
-      "word": "韩国知名偶像组合成员被骗26亿韩元",
-      "onboard_time": 1712733138,
-      "rank": 23,
-      "category": "艺人"
     },
     {
       "raw_hot": 260199,
@@ -5537,6 +5553,14 @@
       "onboard_time": 1712554518,
       "rank": 25,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 228415,
+      "num": 228415,
+      "word": "原来这就是长高的征兆",
+      "onboard_time": 1712734219,
+      "rank": 22,
+      "category": "运动健身"
     },
     {
       "raw_hot": 228288,
@@ -6425,14 +6449,6 @@
       "onboard_time": 1712473279,
       "rank": 27,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 202809,
-      "num": 202809,
-      "word": "九鹭非香改编运",
-      "onboard_time": 1712733079,
-      "rank": 32,
-      "category": "读书作家"
     },
     {
       "raw_hot": 202687,
@@ -7811,6 +7827,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 173635,
+      "num": 196852,
+      "word": "小林制药问题保健品调查结果",
+      "onboard_time": 1712734158,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 173194,
       "num": 173194,
       "word": "小米回应SU7未交付掉漆被投诉",
@@ -7939,6 +7963,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 169286,
+      "num": 169286,
+      "word": "第五人格六周年",
+      "onboard_time": 1712733918,
+      "rank": 36,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 169189,
       "num": 169189,
       "word": "蔡澜 活一天过一天人生",
@@ -8027,6 +8059,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 166523,
+      "num": 166523,
+      "word": "林一虞书欣都发了雪景照",
+      "onboard_time": 1712734458,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 166489,
       "num": 166489,
       "word": "莫桑比克沉船至少91死",
@@ -8081,6 +8121,14 @@
       "onboard_time": 1712583740,
       "rank": 44,
       "category": "美食"
+    },
+    {
+      "raw_hot": 164968,
+      "num": 164968,
+      "word": "郑合惠子千香引妆造",
+      "onboard_time": 1712734338,
+      "rank": 38,
+      "category": "剧集"
     },
     {
       "raw_hot": 164709,
@@ -8315,6 +8363,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 158951,
+      "num": 158951,
+      "word": "超难唱的游戏神曲出现了",
+      "onboard_time": 1712734338,
+      "rank": 40,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 158881,
       "num": 158881,
       "word": "眼泪女王收视率",
@@ -8329,6 +8385,14 @@
       "onboard_time": 1712559198,
       "rank": 41,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 158135,
+      "num": 201104,
+      "word": "辽宁省考",
+      "onboard_time": 1712733979,
+      "rank": 28,
+      "category": "教育"
     },
     {
       "raw_hot": 157778,
@@ -8553,6 +8617,14 @@
       "onboard_time": 1712715799,
       "rank": 39,
       "category": "读书作家"
+    },
+    {
+      "raw_hot": 150134,
+      "num": 150134,
+      "word": "魔兽世界",
+      "onboard_time": 1712734219,
+      "rank": 42,
+      "category": "游戏"
     },
     {
       "raw_hot": 149598,
@@ -10651,6 +10723,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 31314,
+      "num": 226447,
+      "word": "你下载P5X用了多久",
+      "onboard_time": 1712731158,
+      "rank": 27,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 31071,
       "num": 31071,
       "word": "陈奕迅五不箴言",
@@ -10665,14 +10745,6 @@
       "onboard_time": 1712428451,
       "rank": 32,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 29790,
-      "num": 226447,
-      "word": "你下载P5X用了多久",
-      "onboard_time": 1712731158,
-      "rank": 27,
-      "category": "游戏"
     },
     {
       "raw_hot": 28039,
