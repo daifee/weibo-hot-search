@@ -1,6 +1,6 @@
 {
   "startTime": 1712420539476,
-  "endTime": 1712726204505,
+  "endTime": 1712727252041,
   "band_list": [
     {
       "raw_hot": 9583581,
@@ -203,6 +203,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1660893,
+      "num": 1660893,
+      "word": "欧阳娜娜首次回应叫陈伟霆爸爸",
+      "onboard_time": 1712724140,
+      "rank": 1,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1655847,
       "num": 1655847,
       "word": "深圳日晕",
@@ -345,14 +353,6 @@
       "onboard_time": 1712570538,
       "rank": 11,
       "category": "演出"
-    },
-    {
-      "raw_hot": 1380112,
-      "num": 1380112,
-      "word": "欧阳娜娜首次回应叫陈伟霆爸爸",
-      "onboard_time": 1712724140,
-      "rank": 1,
-      "category": "综艺"
     },
     {
       "raw_hot": 1371438,
@@ -3867,6 +3867,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 316881,
+      "num": 316881,
+      "word": "郭书瑶 淘汰",
+      "onboard_time": 1712725522,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 316194,
       "num": 641506,
       "word": "淄博烧烤持续火爆的原因找到了",
@@ -3992,6 +4000,14 @@
       "word": "承欢记女主撞见未来公公出轨",
       "onboard_time": 1712478139,
       "rank": 49,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 307876,
+      "num": 307876,
+      "word": "帅是真的帅 刻薄也是真刻薄",
+      "onboard_time": 1712726539,
+      "rank": 23,
       "category": "剧集"
     },
     {
@@ -4851,14 +4867,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 251716,
-      "num": 251716,
-      "word": "郭书瑶 淘汰",
-      "onboard_time": 1712725522,
-      "rank": 26,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 251435,
       "num": 240115,
       "word": "减肥搭子把我删了",
@@ -5060,7 +5068,7 @@
     },
     {
       "raw_hot": 243339,
-      "num": 243339,
+      "num": 248209,
       "word": "银行卡90分钟被盗刷283次谁之过",
       "onboard_time": 1712718077,
       "rank": 29,
@@ -5337,6 +5345,14 @@
       "onboard_time": 1712574739,
       "rank": 27,
       "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 231486,
+      "num": 231486,
+      "word": "肖战地广",
+      "onboard_time": 1712726058,
+      "rank": 43,
+      "category": "艺人"
     },
     {
       "raw_hot": 231453,
@@ -7515,6 +7531,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 175278,
+      "num": 175278,
+      "word": "官方通报昆明多家医院现男性根浴",
+      "onboard_time": 1712726898,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 175100,
       "num": 175100,
       "word": "明日方舟 阿斯卡纶",
@@ -7664,14 +7688,6 @@
       "word": "于适空降超话",
       "onboard_time": 1712624178,
       "rank": 39,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 170859,
-      "num": 170859,
-      "word": "肖战地广",
-      "onboard_time": 1712726058,
-      "rank": 43,
       "category": "艺人"
     },
     {
@@ -7857,6 +7873,14 @@
       "onboard_time": 1712583740,
       "rank": 44,
       "category": "美食"
+    },
+    {
+      "raw_hot": 164709,
+      "num": 164709,
+      "word": "承欢记 妈宝男搞纯爱",
+      "onboard_time": 1712726299,
+      "rank": 41,
+      "category": "剧集"
     },
     {
       "raw_hot": 164641,
@@ -9948,7 +9972,7 @@
     },
     {
       "raw_hot": 80187,
-      "num": 232799,
+      "num": 243807,
       "word": "P5X预下载",
       "onboard_time": 1712723539,
       "rank": 45,
@@ -10379,6 +10403,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 34975,
+      "num": 254423,
+      "word": "P5X里哪种人格最会伪装",
+      "onboard_time": 1712725579,
+      "rank": 33,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 31071,
       "num": 31071,
       "word": "陈奕迅五不箴言",
@@ -10393,14 +10425,6 @@
       "onboard_time": 1712428451,
       "rank": 32,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 29073,
-      "num": 223426,
-      "word": "P5X里哪种人格最会伪装",
-      "onboard_time": 1712725579,
-      "rank": 33,
-      "category": "游戏"
     },
     {
       "raw_hot": 28039,

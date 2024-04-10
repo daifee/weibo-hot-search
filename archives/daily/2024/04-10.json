@@ -1,6 +1,6 @@
 {
   "startTime": 1712679647281,
-  "endTime": 1712726204505,
+  "endTime": 1712727252041,
   "band_list": [
     {
       "raw_hot": 7494354,
@@ -27,20 +27,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1660893,
+      "num": 1660893,
+      "word": "欧阳娜娜首次回应叫陈伟霆爸爸",
+      "onboard_time": 1712724140,
+      "rank": 1,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1655847,
       "num": 1655847,
       "word": "深圳日晕",
       "onboard_time": 1712723359,
       "rank": 8,
       "category": "自然"
-    },
-    {
-      "raw_hot": 1380112,
-      "num": 1380112,
-      "word": "欧阳娜娜首次回应叫陈伟霆爸爸",
-      "onboard_time": 1712724140,
-      "rank": 1,
-      "category": "综艺"
     },
     {
       "raw_hot": 1263379,
@@ -515,12 +515,28 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 316881,
+      "num": 316881,
+      "word": "郭书瑶 淘汰",
+      "onboard_time": 1712725522,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 314433,
       "num": 314433,
       "word": "吴卓羲也找不到徐子珊",
       "onboard_time": 1712713457,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 307876,
+      "num": 307876,
+      "word": "帅是真的帅 刻薄也是真刻薄",
+      "onboard_time": 1712726539,
+      "rank": 23,
+      "category": "剧集"
     },
     {
       "raw_hot": 306248,
@@ -667,14 +683,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 251716,
-      "num": 251716,
-      "word": "郭书瑶 淘汰",
-      "onboard_time": 1712725522,
-      "rank": 26,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 250228,
       "num": 250228,
       "word": "20岁生孩子和30岁生孩子有何区别",
@@ -708,7 +716,7 @@
     },
     {
       "raw_hot": 243339,
-      "num": 243339,
+      "num": 248209,
       "word": "银行卡90分钟被盗刷283次谁之过",
       "onboard_time": 1712718077,
       "rank": 29,
@@ -739,6 +747,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 231486,
+      "num": 231486,
+      "word": "肖战地广",
+      "onboard_time": 1712726058,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 231244,
       "num": 231244,
       "word": "阿根廷总统称计划收复马岛",
@@ -753,6 +769,14 @@
       "onboard_time": 1712721199,
       "rank": 31,
       "category": "情感"
+    },
+    {
+      "raw_hot": 227057,
+      "num": 227057,
+      "word": "大侦探",
+      "onboard_time": 1712726240,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 222601,
@@ -1107,6 +1131,14 @@
       "category": "艺人,游戏"
     },
     {
+      "raw_hot": 175278,
+      "num": 175278,
+      "word": "官方通报昆明多家医院现男性根浴",
+      "onboard_time": 1712726898,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 173788,
       "num": 177225,
       "word": "碧苍王和她最爱的大锤子",
@@ -1129,14 +1161,6 @@
       "onboard_time": 1712657061,
       "rank": 22,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 170859,
-      "num": 170859,
-      "word": "肖战地广",
-      "onboard_time": 1712726058,
-      "rank": 43,
-      "category": "艺人"
     },
     {
       "raw_hot": 168903,
@@ -1169,6 +1193,14 @@
       "onboard_time": 1712677757,
       "rank": 26,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 164709,
+      "num": 164709,
+      "word": "承欢记 妈宝男搞纯爱",
+      "onboard_time": 1712726299,
+      "rank": 41,
+      "category": "剧集"
     },
     {
       "raw_hot": 164308,
@@ -1508,7 +1540,7 @@
     },
     {
       "raw_hot": 80187,
-      "num": 232799,
+      "num": 243807,
       "word": "P5X预下载",
       "onboard_time": 1712723539,
       "rank": 45,
@@ -1635,20 +1667,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 34975,
+      "num": 254423,
+      "word": "P5X里哪种人格最会伪装",
+      "onboard_time": 1712725579,
+      "rank": 33,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 31071,
       "num": 31071,
       "word": "陈奕迅五不箴言",
       "onboard_time": 1712686153,
       "rank": 39,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 29073,
-      "num": 223426,
-      "word": "P5X里哪种人格最会伪装",
-      "onboard_time": 1712725579,
-      "rank": 33,
-      "category": "游戏"
     },
     {
       "raw_hot": 26644,
