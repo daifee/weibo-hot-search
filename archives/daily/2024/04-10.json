@@ -1,6 +1,6 @@
 {
   "startTime": 1712679647281,
-  "endTime": 1712741649733,
+  "endTime": 1712744409854,
   "band_list": [
     {
       "raw_hot": 7494354,
@@ -27,6 +27,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1666042,
+      "num": 1666042,
+      "word": "王凯方回应被讨债",
+      "onboard_time": 1712742498,
+      "rank": 0,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1660893,
       "num": 1660893,
       "word": "欧阳娜娜首次回应叫陈伟霆爸爸",
@@ -43,6 +51,14 @@
       "category": "自然"
     },
     {
+      "raw_hot": 1499003,
+      "num": 1499003,
+      "word": "福宝隔离检疫期一切平稳正常",
+      "onboard_time": 1712743098,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1263379,
       "num": 1263379,
       "word": "演员刘雨欣吐槽在美国真的不敢生病",
@@ -57,6 +73,14 @@
       "onboard_time": 1712712558,
       "rank": 31,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1234178,
+      "num": 1234178,
+      "word": "下岸",
+      "onboard_time": 1712741598,
+      "rank": 49,
+      "category": "教育"
     },
     {
       "raw_hot": 1219356,
@@ -281,6 +305,14 @@
       "onboard_time": 1712703976,
       "rank": 11,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 717573,
+      "num": 717573,
+      "word": "刘美含33岁状态",
+      "onboard_time": 1712742800,
+      "rank": 5,
+      "category": "艺人"
     },
     {
       "raw_hot": 703383,
@@ -571,6 +603,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 416981,
+      "num": 416981,
+      "word": "女子花椒呛喉推开家人海姆立克法自救",
+      "onboard_time": 1712740218,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 407192,
       "num": 407192,
       "word": "千香引把鞠婧祎名字打错了",
@@ -691,12 +731,28 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 348398,
+      "num": 247540,
+      "word": "被一碗25块钱的牛肉面惊呆了",
+      "onboard_time": 1712741057,
+      "rank": 25,
+      "category": "美食"
+    },
+    {
       "raw_hot": 330425,
       "num": 330425,
       "word": "原来贡菜就是晒干的莴笋",
       "onboard_time": 1712706617,
       "rank": 21,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 326026,
+      "num": 326026,
+      "word": "暴雪全家桶回归次序",
+      "onboard_time": 1712739619,
+      "rank": 23,
+      "category": "游戏"
     },
     {
       "raw_hot": 325730,
@@ -729,14 +785,6 @@
       "onboard_time": 1712728759,
       "rank": 21,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 320396,
-      "num": 320396,
-      "word": "暴雪全家桶回归次序",
-      "onboard_time": 1712739619,
-      "rank": 23,
-      "category": "游戏"
     },
     {
       "raw_hot": 318793,
@@ -777,6 +825,14 @@
       "onboard_time": 1712708900,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 305723,
+      "num": 305723,
+      "word": "福建立法规定妻子可查询配偶财产",
+      "onboard_time": 1712743399,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 300909,
@@ -883,6 +939,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 270475,
+      "num": 270475,
+      "word": "韩民众请求政府续租福宝",
+      "onboard_time": 1712743098,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 265820,
       "num": 265820,
       "word": "种地吧直播",
@@ -971,6 +1035,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 249039,
+      "num": 232432,
+      "word": "吴镇宇回应后费曼删博",
+      "onboard_time": 1712743458,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 244968,
+      "num": 231828,
+      "word": "仝卓工作室回应王凯方",
+      "onboard_time": 1712743999,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 243928,
       "num": 243928,
       "word": "云南香格里拉发生4.7级地震",
@@ -1000,6 +1080,14 @@
       "word": "暴雪的那年今日",
       "onboard_time": 1712711239,
       "rank": 29,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 239046,
+      "num": 203157,
+      "word": "阴阳师维权信息",
+      "onboard_time": 1712742558,
+      "rank": 30,
       "category": "游戏"
     },
     {
@@ -1035,6 +1123,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 230166,
+      "num": 230166,
+      "word": "耙耙柑的耙是四川耙耳朵的耙",
+      "onboard_time": 1712740818,
+      "rank": 34,
+      "category": "美食"
+    },
+    {
       "raw_hot": 227788,
       "num": 227788,
       "word": "女人对男人的期望值太高",
@@ -1067,6 +1163,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 225705,
+      "num": 225705,
+      "word": "陈泽 没有",
+      "onboard_time": 1712742379,
+      "rank": 28,
+      "category": "电竞,网红"
+    },
+    {
       "raw_hot": 222601,
       "num": 222601,
       "word": "虞书欣雪山写真",
@@ -1081,14 +1185,6 @@
       "onboard_time": 1712737578,
       "rank": 24,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 221617,
-      "num": 221617,
-      "word": "被一碗25块钱的牛肉面惊呆了",
-      "onboard_time": 1712741057,
-      "rank": 25,
-      "category": "美食"
     },
     {
       "raw_hot": 220198,
@@ -1371,6 +1467,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 199223,
+      "num": 199223,
+      "word": "平野绫称婚前与丈夫交往0天",
+      "onboard_time": 1712741718,
+      "rank": 32,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 198974,
       "num": 170973,
       "word": "李现任敏合照",
@@ -1523,20 +1627,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 183163,
+      "num": 183163,
+      "word": "赵丽颖玉面判官",
+      "onboard_time": 1712743999,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 182105,
       "num": 174754,
       "word": "经常熬夜的六个好处",
       "onboard_time": 1712664738,
       "rank": 21,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 181427,
-      "num": 181427,
-      "word": "耙耙柑的耙是四川耙耳朵的耙",
-      "onboard_time": 1712740818,
-      "rank": 34,
-      "category": "美食"
     },
     {
       "raw_hot": 180855,
@@ -1899,6 +2003,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 140529,
+      "num": 140529,
+      "word": "为何女生比男生更喜欢用iPhone",
+      "onboard_time": 1712743878,
+      "rank": 42,
+      "category": "数码"
+    },
+    {
       "raw_hot": 140046,
       "num": 140046,
       "word": "白鹿春季刊封面",
@@ -1955,6 +2067,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 134710,
+      "num": 134710,
+      "word": "猫咪走丢一次后再也不肯出门",
+      "onboard_time": 1712742018,
+      "rank": 44,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 129082,
       "num": 129082,
       "word": "承欢记",
@@ -1987,12 +2107,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 125776,
+      "num": 125776,
+      "word": "过完清明假期办公室全体离职",
+      "onboard_time": 1712744058,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 125233,
       "num": 125233,
       "word": "金价",
       "onboard_time": 1712675898,
       "rank": 38,
       "category": "财经"
+    },
+    {
+      "raw_hot": 125208,
+      "num": 125208,
+      "word": "何浩楠 无人机师傅撒药中",
+      "onboard_time": 1712744238,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 123290,
@@ -2017,14 +2153,6 @@
       "onboard_time": 1712740218,
       "rank": 42,
       "category": "情感"
-    },
-    {
-      "raw_hot": 120408,
-      "num": 120408,
-      "word": "女子花椒呛喉推开家人海姆立克法自救",
-      "onboard_time": 1712740218,
-      "rank": 43,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 117490,
@@ -2089,14 +2217,6 @@
       "onboard_time": 1712740218,
       "rank": 48,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 104786,
-      "num": 104786,
-      "word": "下岸",
-      "onboard_time": 1712741598,
-      "rank": 49,
-      "category": "教育"
     },
     {
       "raw_hot": 103151,
@@ -2211,6 +2331,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 81874,
+      "num": 254253,
+      "word": "老师哄睡宝宝的姿势像极了妈妈",
+      "onboard_time": 1712744238,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 81866,
       "num": 81866,
       "word": "商渔船海南附近碰撞事故已致6人遇难",
@@ -2321,6 +2449,14 @@
       "onboard_time": 1712684712,
       "rank": 14,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 46594,
+      "num": 1335182,
+      "word": "轻工业生产回升盈利改善",
+      "onboard_time": 1712743579,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 43338,
@@ -2490,6 +2626,9 @@
     },
     {
       "word": "#春季中国元首外交精彩纷呈#"
+    },
+    {
+      "word": "#让农民用最好的技术种出最好的粮食#"
     }
   ]
 }

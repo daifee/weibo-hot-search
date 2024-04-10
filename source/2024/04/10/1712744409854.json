@@ -1,0 +1,410 @@
+{
+  "runTime": 1712744409854,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1666042,
+        "num": 1666042,
+        "word": "王凯方回应被讨债",
+        "onboard_time": 1712742498,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1499003,
+        "num": 1499003,
+        "word": "福宝隔离检疫期一切平稳正常",
+        "onboard_time": 1712743098,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 46594,
+        "num": 1335182,
+        "word": "轻工业生产回升盈利改善",
+        "onboard_time": 1712743579,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1234178,
+        "num": 1234178,
+        "word": "下岸",
+        "onboard_time": 1712741598,
+        "rank": 3,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 801606,
+        "num": 801606,
+        "word": "老板1个月转账近5万给翘班员工",
+        "onboard_time": 1712739259,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 717573,
+        "num": 717573,
+        "word": "刘美含33岁状态",
+        "onboard_time": 1712742800,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 592523,
+        "num": 592523,
+        "word": "任敏 有李现我是真服气",
+        "onboard_time": 1712736918,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 549403,
+        "num": 549403,
+        "word": "气血不足很难瘦",
+        "onboard_time": 1712738658,
+        "rank": 7,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 457297,
+        "num": 457297,
+        "word": "欧阳娜娜首次回应叫陈伟霆爸爸",
+        "onboard_time": 1712724140,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 416981,
+        "num": 416981,
+        "word": "女子花椒呛喉推开家人海姆立克法自救",
+        "onboard_time": 1712740218,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 386097,
+        "num": 386097,
+        "word": "官方通报昆明多家医院现男性根浴",
+        "onboard_time": 1712726898,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 336095,
+        "num": 336095,
+        "word": "易烊千玺闯美成功",
+        "onboard_time": 1712727738,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 326026,
+        "num": 326026,
+        "word": "暴雪全家桶回归次序",
+        "onboard_time": 1712739619,
+        "rank": 12,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 323985,
+        "num": 323985,
+        "word": "韩国知名偶像组合成员被骗26亿韩元",
+        "onboard_time": 1712733138,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 305723,
+        "num": 305723,
+        "word": "福建立法规定妻子可查询配偶财产",
+        "onboard_time": 1712743399,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 270475,
+        "num": 270475,
+        "word": "韩民众请求政府续租福宝",
+        "onboard_time": 1712743098,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 262945,
+        "num": 262945,
+        "word": "千香引把鞠婧祎名字打错了",
+        "onboard_time": 1712737459,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 256227,
+        "num": 256227,
+        "word": "青3选手蒋智豪患肺癌",
+        "onboard_time": 1712724080,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 254648,
+        "num": 254648,
+        "word": "黄金大涨后白银也被买断货了",
+        "onboard_time": 1712736798,
+        "rank": 18,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 81874,
+        "num": 254253,
+        "word": "老师哄睡宝宝的姿势像极了妈妈",
+        "onboard_time": 1712744238,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 484854,
+        "num": 250096,
+        "word": "才知道51岁的妈妈没买社保",
+        "onboard_time": 1712739317,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 348398,
+        "num": 247540,
+        "word": "被一碗25块钱的牛肉面惊呆了",
+        "onboard_time": 1712741057,
+        "rank": 21,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 259904,
+        "num": 246052,
+        "word": "我爸不愿意被叫外公",
+        "onboard_time": 1712740758,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 244939,
+        "num": 244939,
+        "word": "美国夫妇因儿子枪杀4人被判15年监禁",
+        "onboard_time": 1712731818,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 232477,
+        "num": 232477,
+        "word": "清华大学所在国家学生",
+        "onboard_time": 1712732778,
+        "rank": 24,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 249039,
+        "num": 232432,
+        "word": "吴镇宇回应后费曼删博",
+        "onboard_time": 1712743458,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 244968,
+        "num": 231828,
+        "word": "仝卓工作室回应王凯方",
+        "onboard_time": 1712743999,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 230166,
+        "num": 230166,
+        "word": "耙耙柑的耙是四川耙耳朵的耙",
+        "onboard_time": 1712740818,
+        "rank": 27,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 225705,
+        "num": 225705,
+        "word": "陈泽 没有",
+        "onboard_time": 1712742379,
+        "rank": 28,
+        "category": "电竞,网红"
+      },
+      {
+        "raw_hot": 203598,
+        "num": 203598,
+        "word": "安徽省考成绩",
+        "onboard_time": 1712740399,
+        "rank": 29,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 239046,
+        "num": 203157,
+        "word": "阴阳师维权信息",
+        "onboard_time": 1712742558,
+        "rank": 30,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 200652,
+        "num": 200652,
+        "word": "费曼新简介",
+        "onboard_time": 1712738598,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 199223,
+        "num": 199223,
+        "word": "平野绫称婚前与丈夫交往0天",
+        "onboard_time": 1712741718,
+        "rank": 32,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 197138,
+        "num": 197138,
+        "word": "假如每个星期三都能休息一次",
+        "onboard_time": 1712729120,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 183163,
+        "num": 183163,
+        "word": "赵丽颖玉面判官",
+        "onboard_time": 1712743999,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 178543,
+        "num": 178543,
+        "word": "杨紫台湾腔走戏",
+        "onboard_time": 1712738478,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 177311,
+        "num": 177311,
+        "word": "怀孕期间什么能做什么不能做",
+        "onboard_time": 1712740278,
+        "rank": 36,
+        "category": "母婴育儿,健康医疗"
+      },
+      {
+        "raw_hot": 178493,
+        "num": 177165,
+        "word": "帅是真的帅 刻薄也是真刻薄",
+        "onboard_time": 1712726539,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 168455,
+        "num": 168455,
+        "word": "白鹿露肩裙",
+        "onboard_time": 1712739978,
+        "rank": 38,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 167637,
+        "num": 167637,
+        "word": "郑合惠子千香引妆造",
+        "onboard_time": 1712734338,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 150264,
+        "num": 150264,
+        "word": "出去玩时被强制性塞花了",
+        "onboard_time": 1712723120,
+        "rank": 40,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 162419,
+        "num": 146215,
+        "word": "鞠婧祎小道士盘发",
+        "onboard_time": 1712740879,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 140529,
+        "num": 140529,
+        "word": "为何女生比男生更喜欢用iPhone",
+        "onboard_time": 1712743878,
+        "rank": 42,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 135155,
+        "num": 135155,
+        "word": "林一虞书欣都发了雪景照",
+        "onboard_time": 1712734458,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 134710,
+        "num": 134710,
+        "word": "猫咪走丢一次后再也不肯出门",
+        "onboard_time": 1712742018,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 134413,
+        "num": 134413,
+        "word": "向佐你火了",
+        "onboard_time": 1712737637,
+        "rank": 45,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 130359,
+        "num": 130359,
+        "word": "海南岛西南海域商渔船碰撞8人遇难",
+        "onboard_time": 1712738717,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 130258,
+        "num": 130258,
+        "word": "原来这就是长高的征兆",
+        "onboard_time": 1712734219,
+        "rank": 47,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 125776,
+        "num": 125776,
+        "word": "过完清明假期办公室全体离职",
+        "onboard_time": 1712744058,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 125208,
+        "num": 125208,
+        "word": "何浩楠 无人机师傅撒药中",
+        "onboard_time": 1712744238,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#让农民用最好的技术种出最好的粮食#"
+    }
+  }
+}
