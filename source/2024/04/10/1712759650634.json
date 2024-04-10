@@ -1,0 +1,410 @@
+{
+  "runTime": 1712759650634,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 4974493,
+        "num": 4974493,
+        "word": "赵丽颖拍林更新",
+        "onboard_time": 1712756718,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1063157,
+        "num": 1063157,
+        "word": "热辣滚烫最终票房34.6亿",
+        "onboard_time": 1712752458,
+        "rank": 1,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 162530,
+        "num": 880310,
+        "word": "龙年龙月龙日雪龙号归来",
+        "onboard_time": 1712758100,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 718869,
+        "num": 718869,
+        "word": "肖战小括号",
+        "onboard_time": 1712755459,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 712923,
+        "num": 712923,
+        "word": "怎么避免被别人视奸",
+        "onboard_time": 1712754559,
+        "rank": 4,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 1509034,
+        "num": 709709,
+        "word": "林更新cover女孩",
+        "onboard_time": 1712755398,
+        "rank": 5,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 703652,
+        "num": 703652,
+        "word": "陈都灵恭喜考研上岸粉丝",
+        "onboard_time": 1712758459,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 582638,
+        "num": 582638,
+        "word": "当地回应为开演唱会海滩被浇灌混凝土",
+        "onboard_time": 1712756420,
+        "rank": 7,
+        "category": "社会新闻,演出"
+      },
+      {
+        "raw_hot": 397908,
+        "num": 564083,
+        "word": "有人卖出5公斤黄金变现270多万",
+        "onboard_time": 1712750357,
+        "rank": 8,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 386102,
+        "num": 530508,
+        "word": "福宝大口吃胡萝卜声音嘎嘣脆",
+        "onboard_time": 1712745078,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 908513,
+        "num": 511146,
+        "word": "仝卓工作室实名举报高源涉嫌偷税漏税",
+        "onboard_time": 1712750297,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 816883,
+        "num": 474099,
+        "word": "林更新宇宙",
+        "onboard_time": 1712757199,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 720944,
+        "num": 448481,
+        "word": "烟台一海滩为开演唱会被浇灌混凝土",
+        "onboard_time": 1712753419,
+        "rank": 12,
+        "category": "社会新闻,演出"
+      },
+      {
+        "raw_hot": 442973,
+        "num": 442973,
+        "word": "赵丽颖持枪剧照",
+        "onboard_time": 1712758219,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 395056,
+        "num": 418393,
+        "word": "Rookie尽力了",
+        "onboard_time": 1712754319,
+        "rank": 14,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 88083,
+        "num": 412384,
+        "word": "小米MiniLED电视价格",
+        "onboard_time": 1712756480,
+        "rank": 15,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 409331,
+        "num": 409331,
+        "word": "福建立法规定妻子可查询配偶财产",
+        "onboard_time": 1712743399,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 396318,
+        "num": 396318,
+        "word": "秦岚娜扎花少出发",
+        "onboard_time": 1712753119,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 345728,
+        "num": 345728,
+        "word": "王腾送出雷军奖励的小米SU7",
+        "onboard_time": 1712757920,
+        "rank": 18,
+        "category": "汽车,互联网"
+      },
+      {
+        "raw_hot": 259903,
+        "num": 334497,
+        "word": "广西明天放三月三假不调休",
+        "onboard_time": 1712755938,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 562029,
+        "num": 332607,
+        "word": "五六十万存款可以回小县城躺平吗",
+        "onboard_time": 1712749999,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 405275,
+        "num": 332466,
+        "word": "为什么建议你23点一定要睡觉",
+        "onboard_time": 1712754679,
+        "rank": 21,
+        "category": "健康医疗,科学科普"
+      },
+      {
+        "raw_hot": 329465,
+        "num": 329465,
+        "word": "癌症发生前身体的预警信号",
+        "onboard_time": 1712746398,
+        "rank": 22,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 303525,
+        "num": 303525,
+        "word": "NIP和JDG决胜局",
+        "onboard_time": 1712756839,
+        "rank": 23,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 300478,
+        "num": 300478,
+        "word": "承欢记看的人血压上来了",
+        "onboard_time": 1712757140,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 288993,
+        "num": 288993,
+        "word": "这真是42岁的汪东城吗",
+        "onboard_time": 1712749038,
+        "rank": 25,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 6562,
+        "num": 288867,
+        "word": "王腾多花10亿选正代8系",
+        "onboard_time": 1712755339,
+        "rank": 26,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 288838,
+        "num": 288838,
+        "word": "吴磊回北电吃面",
+        "onboard_time": 1712753600,
+        "rank": 27,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 281821,
+        "num": 281821,
+        "word": "王者荣耀个性小兵",
+        "onboard_time": 1712751977,
+        "rank": 28,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 253023,
+        "num": 253023,
+        "word": "齐思钧30岁生日直播",
+        "onboard_time": 1712758100,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 245728,
+        "num": 245728,
+        "word": "中医建议放下这些脾胃就恢复80%了",
+        "onboard_time": 1712748497,
+        "rank": 30,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 245495,
+        "num": 245495,
+        "word": "蒋敦豪 看我蜂情万种",
+        "onboard_time": 1712757558,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 238647,
+        "num": 238647,
+        "word": "王者荣耀",
+        "onboard_time": 1712759119,
+        "rank": 32,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 226637,
+        "num": 226637,
+        "word": "哈尔 宫崎骏帅哥榜票选第一",
+        "onboard_time": 1712754559,
+        "rank": 33,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 223791,
+        "num": 223791,
+        "word": "时代少年团演唱会 特权码",
+        "onboard_time": 1712754019,
+        "rank": 34,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 194865,
+        "num": 219925,
+        "word": "韩民众请求政府续租福宝",
+        "onboard_time": 1712743098,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 216908,
+        "num": 216908,
+        "word": "7天戒掉了熬夜让自己6点起床",
+        "onboard_time": 1712746759,
+        "rank": 36,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 212856,
+        "num": 212856,
+        "word": "承欢记",
+        "onboard_time": 1712757020,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 209845,
+        "num": 209845,
+        "word": "北邮通报学生联名举报导师事件",
+        "onboard_time": 1712759539,
+        "rank": 38,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 211701,
+        "num": 209650,
+        "word": "中式母爱做到了全国统一",
+        "onboard_time": 1712746398,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 208949,
+        "num": 208949,
+        "word": "王一博夏日清爽穿搭",
+        "onboard_time": 1712759421,
+        "rank": 40,
+        "category": "作品衍生,艺人"
+      },
+      {
+        "raw_hot": 205648,
+        "num": 205648,
+        "word": "王凯方回应被讨债",
+        "onboard_time": 1712742498,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 204079,
+        "num": 204079,
+        "word": "猫眼大人我求你了",
+        "onboard_time": 1712758940,
+        "rank": 42,
+        "category": "互联网,演出"
+      },
+      {
+        "raw_hot": 195742,
+        "num": 195742,
+        "word": "用鸡柳骗回家的流浪狗一年的变化",
+        "onboard_time": 1712757920,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 173468,
+        "num": 173468,
+        "word": "配得感",
+        "onboard_time": 1712758880,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 196065,
+        "num": 170270,
+        "word": "王一博表情包",
+        "onboard_time": 1712754260,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 163905,
+        "num": 163905,
+        "word": "又慷慨了龚俊",
+        "onboard_time": 1712755519,
+        "rank": 46,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 157027,
+        "num": 163263,
+        "word": "福宝回国后变着花样干饭",
+        "onboard_time": 1712746938,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 156101,
+        "num": 163199,
+        "word": "成都蓉城3比0浙江队",
+        "onboard_time": 1712759059,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 163151,
+        "num": 163151,
+        "word": "天秤座的成长史",
+        "onboard_time": 1712752639,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#让农民用最好的技术种出最好的粮食#"
+    }
+  }
+}

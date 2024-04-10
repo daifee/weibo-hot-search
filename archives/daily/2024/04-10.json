@@ -1,6 +1,6 @@
 {
   "startTime": 1712679647281,
-  "endTime": 1712758579577,
+  "endTime": 1712759650634,
   "band_list": [
     {
       "raw_hot": 7494354,
@@ -76,7 +76,7 @@
     },
     {
       "raw_hot": 1320042,
-      "num": 502963,
+      "num": 511146,
       "word": "仝卓工作室实名举报高源涉嫌偷税漏税",
       "onboard_time": 1712750297,
       "rank": 10,
@@ -300,7 +300,7 @@
     },
     {
       "raw_hot": 835144,
-      "num": 423528,
+      "num": 474099,
       "word": "林更新宇宙",
       "onboard_time": 1712757199,
       "rank": 12,
@@ -404,7 +404,7 @@
     },
     {
       "raw_hot": 746203,
-      "num": 307958,
+      "num": 332607,
       "word": "五六十万存款可以回小县城躺平吗",
       "onboard_time": 1712749999,
       "rank": 20,
@@ -440,6 +440,22 @@
       "word": "赵丽颖发图顺序",
       "onboard_time": 1712703976,
       "rank": 11,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 712923,
+      "num": 712923,
+      "word": "怎么避免被别人视奸",
+      "onboard_time": 1712754559,
+      "rank": 24,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 703652,
+      "num": 703652,
+      "word": "陈都灵恭喜考研上岸粉丝",
+      "onboard_time": 1712758459,
+      "rank": 46,
       "category": "剧集"
     },
     {
@@ -481,14 +497,6 @@
       "onboard_time": 1712675660,
       "rank": 3,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 686753,
-      "num": 686753,
-      "word": "怎么避免被别人视奸",
-      "onboard_time": 1712754559,
-      "rank": 24,
-      "category": "情感"
     },
     {
       "raw_hot": 659948,
@@ -593,6 +601,14 @@
       "onboard_time": 1712752220,
       "rank": 32,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 582638,
+      "num": 582638,
+      "word": "当地回应为开演唱会海滩被浇灌混凝土",
+      "onboard_time": 1712756420,
+      "rank": 13,
+      "category": "社会新闻,演出"
     },
     {
       "raw_hot": 557125,
@@ -779,6 +795,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 442973,
+      "num": 442973,
+      "word": "赵丽颖持枪剧照",
+      "onboard_time": 1712758219,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 440208,
       "num": 440208,
       "word": "冉莹颖的3个儿子也分房睡",
@@ -827,14 +851,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 423433,
-      "num": 423433,
-      "word": "当地回应为开演唱会海滩被浇灌混凝土",
-      "onboard_time": 1712756420,
-      "rank": 13,
-      "category": "社会新闻,演出"
-    },
-    {
       "raw_hot": 422137,
       "num": 422137,
       "word": "胡一天张婧仪双人写真",
@@ -857,6 +873,14 @@
       "onboard_time": 1712737459,
       "rank": 31,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 405275,
+      "num": 332466,
+      "word": "为什么建议你23点一定要睡觉",
+      "onboard_time": 1712754679,
+      "rank": 40,
+      "category": "健康医疗,科学科普"
     },
     {
       "raw_hot": 404120,
@@ -889,14 +913,6 @@
       "onboard_time": 1712746759,
       "rank": 20,
       "category": "情感"
-    },
-    {
-      "raw_hot": 393142,
-      "num": 296516,
-      "word": "为什么建议你23点一定要睡觉",
-      "onboard_time": 1712754679,
-      "rank": 40,
-      "category": "健康医疗,科学科普"
     },
     {
       "raw_hot": 390449,
@@ -1019,6 +1035,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 345728,
+      "num": 345728,
+      "word": "王腾送出雷军奖励的小米SU7",
+      "onboard_time": 1712757920,
+      "rank": 33,
+      "category": "汽车,互联网"
+    },
+    {
       "raw_hot": 330425,
       "num": 330425,
       "word": "原来贡菜就是晒干的莴笋",
@@ -1123,12 +1147,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 303525,
+      "num": 303525,
+      "word": "NIP和JDG决胜局",
+      "onboard_time": 1712756839,
+      "rank": 27,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 300909,
       "num": 557091,
       "word": "只有考研人才懂的画面",
       "onboard_time": 1712730139,
       "rank": 21,
       "category": "教育"
+    },
+    {
+      "raw_hot": 300478,
+      "num": 300478,
+      "word": "承欢记看的人血压上来了",
+      "onboard_time": 1712757140,
+      "rank": 24,
+      "category": "剧集"
     },
     {
       "raw_hot": 298393,
@@ -1177,14 +1217,6 @@
       "onboard_time": 1712738598,
       "rank": 21,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 287916,
-      "num": 287916,
-      "word": "承欢记看的人血压上来了",
-      "onboard_time": 1712757140,
-      "rank": 24,
-      "category": "剧集"
     },
     {
       "raw_hot": 287147,
@@ -1307,19 +1339,19 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 260623,
-      "num": 260623,
-      "word": "NIP和JDG决胜局",
-      "onboard_time": 1712756839,
-      "rank": 27,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 260199,
       "num": 1291217,
       "word": "最美人间四月天",
       "onboard_time": 1712721319,
       "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 259903,
+      "num": 334497,
+      "word": "广西明天放三月三假不调休",
+      "onboard_time": 1712755938,
+      "rank": 45,
       "category": "社会新闻"
     },
     {
@@ -1355,6 +1387,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 253023,
+      "num": 253023,
+      "word": "齐思钧30岁生日直播",
+      "onboard_time": 1712758100,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 250769,
       "num": 250769,
       "word": "马云罕见发声阿里大涨",
@@ -1377,6 +1417,14 @@
       "onboard_time": 1712712739,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 245495,
+      "num": 245495,
+      "word": "蒋敦豪 看我蜂情万种",
+      "onboard_time": 1712757558,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 243928,
@@ -1419,12 +1467,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 235841,
-      "num": 235841,
-      "word": "蒋敦豪 看我蜂情万种",
-      "onboard_time": 1712757558,
+      "raw_hot": 238647,
+      "num": 238647,
+      "word": "王者荣耀",
+      "onboard_time": 1712759119,
       "rank": 32,
-      "category": "综艺"
+      "category": "电竞"
     },
     {
       "raw_hot": 235360,
@@ -1441,14 +1489,6 @@
       "onboard_time": 1712678118,
       "rank": 16,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 232228,
-      "num": 252018,
-      "word": "广西明天放三月三假不调休",
-      "onboard_time": 1712755938,
-      "rank": 45,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 231611,
@@ -1539,14 +1579,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 220553,
-      "num": 220553,
-      "word": "王腾送出雷军奖励的小米SU7",
-      "onboard_time": 1712757920,
-      "rank": 33,
-      "category": "汽车,互联网"
-    },
-    {
       "raw_hot": 220198,
       "num": 220198,
       "word": "销售回复孙坚包包掉漆掉毛",
@@ -1619,14 +1651,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 216978,
-      "num": 216978,
-      "word": "齐思钧30岁生日直播",
-      "onboard_time": 1712758100,
-      "rank": 35,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 215377,
       "num": 215377,
       "word": "时代少年团重庆演唱会官宣了",
@@ -1683,6 +1707,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 209845,
+      "num": 209845,
+      "word": "北邮通报学生联名举报导师事件",
+      "onboard_time": 1712759539,
+      "rank": 38,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 209618,
       "num": 209618,
       "word": "韩国人精神状态一骑绝尘",
@@ -1697,6 +1729,14 @@
       "onboard_time": 1712735598,
       "rank": 22,
       "category": "财经"
+    },
+    {
+      "raw_hot": 208949,
+      "num": 208949,
+      "word": "王一博夏日清爽穿搭",
+      "onboard_time": 1712759421,
+      "rank": 40,
+      "category": "作品衍生,艺人"
     },
     {
       "raw_hot": 207114,
@@ -1721,14 +1761,6 @@
       "onboard_time": 1712719520,
       "rank": 30,
       "category": "体育"
-    },
-    {
-      "raw_hot": 206159,
-      "num": 206159,
-      "word": "赵丽颖持枪剧照",
-      "onboard_time": 1712758219,
-      "rank": 37,
-      "category": "剧集"
     },
     {
       "raw_hot": 206018,
@@ -1809,6 +1841,14 @@
       "onboard_time": 1712714118,
       "rank": 36,
       "category": "电影"
+    },
+    {
+      "raw_hot": 204079,
+      "num": 204079,
+      "word": "猫眼大人我求你了",
+      "onboard_time": 1712758940,
+      "rank": 42,
+      "category": "互联网,演出"
     },
     {
       "raw_hot": 203913,
@@ -1939,6 +1979,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 195742,
+      "num": 195742,
+      "word": "用鸡柳骗回家的流浪狗一年的变化",
+      "onboard_time": 1712757920,
+      "rank": 43,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 195065,
       "num": 195065,
       "word": "LPL春决落地佛山",
@@ -2033,14 +2081,6 @@
       "onboard_time": 1712747598,
       "rank": 30,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 188144,
-      "num": 188144,
-      "word": "用鸡柳骗回家的流浪狗一年的变化",
-      "onboard_time": 1712757920,
-      "rank": 43,
-      "category": "幽默"
     },
     {
       "raw_hot": 187871,
@@ -2203,6 +2243,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 173468,
+      "num": 173468,
+      "word": "配得感",
+      "onboard_time": 1712758880,
+      "rank": 44,
+      "category": "情感"
+    },
+    {
       "raw_hot": 172588,
       "num": 172588,
       "word": "相逢的人总能再相逢",
@@ -2307,6 +2355,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 162530,
+      "num": 880310,
+      "word": "龙年龙月龙日雪龙号归来",
+      "onboard_time": 1712758100,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 162529,
       "num": 162529,
       "word": "鹿晗语言系统紊乱",
@@ -2353,14 +2409,6 @@
       "onboard_time": 1712672119,
       "rank": 24,
       "category": "情感"
-    },
-    {
-      "raw_hot": 159267,
-      "num": 159267,
-      "word": "陈都灵恭喜考研上岸粉丝",
-      "onboard_time": 1712758459,
-      "rank": 46,
-      "category": "剧集"
     },
     {
       "raw_hot": 158961,
@@ -2417,6 +2465,14 @@
       "onboard_time": 1712678357,
       "rank": 30,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 156101,
+      "num": 163199,
+      "word": "成都蓉城3比0浙江队",
+      "onboard_time": 1712759059,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 154854,
@@ -2923,6 +2979,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 88083,
+      "num": 412384,
+      "word": "小米MiniLED电视价格",
+      "onboard_time": 1712756480,
+      "rank": 16,
+      "category": "数码"
+    },
+    {
       "raw_hot": 87575,
       "num": 87575,
       "word": "与凤行",
@@ -2953,14 +3017,6 @@
       "onboard_time": 1712673319,
       "rank": 46,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 85963,
-      "num": 350395,
-      "word": "小米MiniLED电视价格",
-      "onboard_time": 1712756480,
-      "rank": 16,
-      "category": "数码"
     },
     {
       "raw_hot": 81866,
@@ -3079,14 +3135,6 @@
       "num": 1335182,
       "word": "轻工业生产回升盈利改善",
       "onboard_time": 1712743579,
-      "rank": 2,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 46434,
-      "num": 863458,
-      "word": "龙年龙月龙日雪龙号归来",
-      "onboard_time": 1712758100,
       "rank": 2,
       "category": "社会新闻"
     },
