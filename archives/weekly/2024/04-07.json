@@ -1,6 +1,6 @@
 {
   "startTime": 1712420539476,
-  "endTime": 1712766262556,
+  "endTime": 1712767172421,
   "band_list": [
     {
       "raw_hot": 9583581,
@@ -1323,6 +1323,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 820497,
+      "num": 820497,
+      "word": "范曾发文宣布再婚",
+      "onboard_time": 1712764578,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 819235,
       "num": 710916,
       "word": "陈泽 巴旦木",
@@ -2177,14 +2185,6 @@
       "onboard_time": 1712582720,
       "rank": 30,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 605734,
-      "num": 296476,
-      "word": "范曾发文宣布再婚",
-      "onboard_time": 1712764578,
-      "rank": 10,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 603864,
@@ -4435,6 +4435,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 325749,
+      "num": 325749,
+      "word": "photic",
+      "onboard_time": 1712764277,
+      "rank": 14,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 325730,
       "num": 325730,
       "word": "林更新去吃饭问今天有折扣吗",
@@ -5795,14 +5803,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 247449,
-      "num": 247449,
-      "word": "photic",
-      "onboard_time": 1712764277,
-      "rank": 14,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 247404,
       "num": 247404,
       "word": "已经开始紧张了",
@@ -6049,6 +6049,14 @@
       "onboard_time": 1712533576,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 238707,
+      "num": 238707,
+      "word": "短剧放大夫妻婆媳矛盾6部被禁",
+      "onboard_time": 1712765478,
+      "rank": 25,
+      "category": "剧集,社会新闻"
     },
     {
       "raw_hot": 238647,
@@ -9435,14 +9443,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 157439,
-      "num": 157439,
-      "word": "短剧放大夫妻婆媳矛盾6部被禁",
-      "onboard_time": 1712765478,
-      "rank": 25,
-      "category": "剧集,社会新闻"
-    },
-    {
       "raw_hot": 157271,
       "num": 157271,
       "word": "诺米 音乐节",
@@ -10763,6 +10763,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 126604,
+      "num": 126604,
+      "word": "张婧仪 这场戏完全交给花芷",
+      "onboard_time": 1712764938,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 126449,
       "num": 126449,
       "word": "谢帝谢帝我要迪士尼",
@@ -10777,14 +10785,6 @@
       "onboard_time": 1712629338,
       "rank": 49,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 126192,
-      "num": 126192,
-      "word": "张婧仪 这场戏完全交给花芷",
-      "onboard_time": 1712764938,
-      "rank": 31,
-      "category": "剧集"
     },
     {
       "raw_hot": 125996,
@@ -11404,7 +11404,7 @@
     },
     {
       "raw_hot": 96876,
-      "num": 94117,
+      "num": 94119,
       "word": "李昊连线",
       "onboard_time": 1712765237,
       "rank": 41,
@@ -11665,6 +11665,14 @@
       "onboard_time": 1712690291,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 77952,
+      "num": 77952,
+      "word": "周淑怡cos女高中生",
+      "onboard_time": 1712766795,
+      "rank": 38,
+      "category": "电竞,网红"
     },
     {
       "raw_hot": 77927,

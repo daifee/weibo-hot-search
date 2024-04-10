@@ -1,6 +1,6 @@
 {
   "startTime": 1712766262556,
-  "endTime": 1712766262556,
+  "endTime": 1712767172421,
   "band_list": [
     {
       "raw_hot": 2260302,
@@ -9,6 +9,14 @@
       "onboard_time": 1712756718,
       "rank": 0,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 820497,
+      "num": 820497,
+      "word": "范曾发文宣布再婚",
+      "onboard_time": 1712764578,
+      "rank": 10,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 677358,
@@ -28,19 +36,11 @@
     },
     {
       "raw_hot": 613095,
-      "num": 289919,
+      "num": 305635,
       "word": "林更新cover女孩",
       "onboard_time": 1712755398,
       "rank": 12,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 605734,
-      "num": 296476,
-      "word": "范曾发文宣布再婚",
-      "onboard_time": 1712764578,
-      "rank": 10,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 570982,
@@ -59,8 +59,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 393380,
-      "num": 393380,
+      "raw_hot": 435594,
+      "num": 435594,
       "word": "怎么避免被别人视奸",
       "onboard_time": 1712754559,
       "rank": 6,
@@ -76,11 +76,19 @@
     },
     {
       "raw_hot": 355140,
-      "num": 292812,
+      "num": 303177,
       "word": "仝卓工作室实名举报高源涉嫌偷税漏税",
       "onboard_time": 1712750297,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 325749,
+      "num": 325749,
+      "word": "photic",
+      "onboard_time": 1712764277,
+      "rank": 14,
+      "category": "电竞"
     },
     {
       "raw_hot": 302317,
@@ -115,12 +123,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 247449,
-      "num": 247449,
-      "word": "photic",
-      "onboard_time": 1712764277,
-      "rank": 14,
-      "category": "电竞"
+      "raw_hot": 238707,
+      "num": 238707,
+      "word": "短剧放大夫妻婆媳矛盾6部被禁",
+      "onboard_time": 1712765478,
+      "rank": 25,
+      "category": "剧集,社会新闻"
     },
     {
       "raw_hot": 202105,
@@ -179,14 +187,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 157439,
-      "num": 157439,
-      "word": "短剧放大夫妻婆媳矛盾6部被禁",
-      "onboard_time": 1712765478,
-      "rank": 25,
-      "category": "剧集,社会新闻"
-    },
-    {
       "raw_hot": 152130,
       "num": 152130,
       "word": "成毅舞伞",
@@ -212,7 +212,7 @@
     },
     {
       "raw_hot": 132095,
-      "num": 299221,
+      "num": 306123,
       "word": "福宝大口吃胡萝卜声音嘎嘣脆",
       "onboard_time": 1712745078,
       "rank": 9,
@@ -235,8 +235,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 126192,
-      "num": 126192,
+      "raw_hot": 126604,
+      "num": 126604,
       "word": "张婧仪 这场戏完全交给花芷",
       "onboard_time": 1712764938,
       "rank": 31,
@@ -299,20 +299,28 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 96876,
-      "num": 94117,
-      "word": "李昊连线",
-      "onboard_time": 1712765237,
-      "rank": 41,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 94434,
-      "num": 94434,
+      "raw_hot": 100005,
+      "num": 100005,
       "word": "王者荣耀个性小兵",
       "onboard_time": 1712751977,
       "rank": 38,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 97304,
+      "num": 97304,
+      "word": "赵丽颖发图顺序",
+      "onboard_time": 1712703976,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 96876,
+      "num": 94119,
+      "word": "李昊连线",
+      "onboard_time": 1712765237,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 94221,
@@ -371,12 +379,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 77952,
+      "num": 77952,
+      "word": "周淑怡cos女高中生",
+      "onboard_time": 1712766795,
+      "rank": 38,
+      "category": "电竞,网红"
+    },
+    {
       "raw_hot": 72773,
-      "num": 637280,
+      "num": 674202,
       "word": "龙年龙月龙日雪龙号归来",
       "onboard_time": 1712758100,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 72067,
+      "num": 73986,
+      "word": "承欢记",
+      "onboard_time": 1712757020,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 68361,
