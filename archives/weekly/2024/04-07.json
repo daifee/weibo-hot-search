@@ -1,6 +1,6 @@
 {
   "startTime": 1712420539476,
-  "endTime": 1712781391627,
+  "endTime": 1712783796384,
   "band_list": [
     {
       "raw_hot": 9583581,
@@ -12299,6 +12299,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 20374,
+      "num": 20374,
+      "word": "肖战王玉雯超星星学园旧照",
+      "onboard_time": 1712782390,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 19976,
       "num": 19976,
       "word": "我建议老乡鸡帮我写论文",
@@ -12313,6 +12321,14 @@
       "onboard_time": 1712606110,
       "rank": 39,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 18658,
+      "num": 18658,
+      "word": "眼泪女王 拧巴",
+      "onboard_time": 1712780951,
+      "rank": 38,
+      "category": "剧集"
     },
     {
       "raw_hot": 18638,
@@ -12387,20 +12403,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 14833,
+      "num": 17917,
+      "word": "惜花芷评级",
+      "onboard_time": 1712782990,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 14707,
       "num": 23169,
       "word": "新发型这不就有了",
       "onboard_time": 1712429591,
       "rank": 49,
       "category": "美妆"
-    },
-    {
-      "raw_hot": 14609,
-      "num": 15884,
-      "word": "眼泪女王 拧巴",
-      "onboard_time": 1712780951,
-      "rank": 38,
-      "category": "剧集"
     },
     {
       "raw_hot": 14336,
@@ -12411,12 +12427,20 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 12822,
-      "num": 15867,
+      "raw_hot": 13190,
+      "num": 17883,
       "word": "年轻人带娃一边崩溃一边自愈",
       "onboard_time": 1712778670,
       "rank": 49,
       "category": "母婴育儿"
+    },
+    {
+      "raw_hot": 11730,
+      "num": 17865,
+      "word": "80岁外公学会网购后买了1部电梯",
+      "onboard_time": 1712783770,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 11658,

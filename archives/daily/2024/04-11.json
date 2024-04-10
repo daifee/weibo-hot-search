@@ -1,6 +1,6 @@
 {
   "startTime": 1712766262556,
-  "endTime": 1712781391627,
+  "endTime": 1712783796384,
   "band_list": [
     {
       "raw_hot": 2260302,
@@ -299,6 +299,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 104545,
+      "num": 104545,
+      "word": "巴黎vs巴萨",
+      "onboard_time": 1712761281,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 103898,
       "num": 94175,
       "word": "金娘子唱年轮",
@@ -345,14 +353,6 @@
       "onboard_time": 1712765237,
       "rank": 41,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 94221,
-      "num": 94221,
-      "word": "巴黎vs巴萨",
-      "onboard_time": 1712761281,
-      "rank": 39,
-      "category": "体育"
     },
     {
       "raw_hot": 93951,
@@ -475,8 +475,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 42565,
-      "num": 49239,
+      "raw_hot": 51381,
+      "num": 51381,
       "word": "欧冠",
       "onboard_time": 1712767277,
       "rank": 47,
@@ -515,20 +515,44 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 14609,
-      "num": 15884,
+      "raw_hot": 20374,
+      "num": 20374,
+      "word": "肖战王玉雯超星星学园旧照",
+      "onboard_time": 1712782390,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 18658,
+      "num": 18658,
       "word": "眼泪女王 拧巴",
       "onboard_time": 1712780951,
       "rank": 38,
       "category": "剧集"
     },
     {
-      "raw_hot": 12822,
-      "num": 15867,
+      "raw_hot": 14833,
+      "num": 17917,
+      "word": "惜花芷评级",
+      "onboard_time": 1712782990,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 13190,
+      "num": 17883,
       "word": "年轻人带娃一边崩溃一边自愈",
       "onboard_time": 1712778670,
       "rank": 49,
       "category": "母婴育儿"
+    },
+    {
+      "raw_hot": 11730,
+      "num": 17865,
+      "word": "80岁外公学会网购后买了1部电梯",
+      "onboard_time": 1712783770,
+      "rank": 49,
+      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
