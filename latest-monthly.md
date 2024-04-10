@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/04/01 00:20:44 ~ 2024/04/10 23:34:59
+本榜单时间：2024/04/01 00:20:44 ~ 2024/04/11 00:24:22
 </p>
 </blockquote>
 <p>
@@ -3969,6 +3969,12 @@ IU唱告五人的唯一（热度：607566）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%8C%83%E6%9B%BE%E5%8F%91%E6%96%87%E5%AE%A3%E5%B8%83%E5%86%8D%E5%A9%9A%23" target="weibo">
+范曾发文宣布再婚（热度：605734）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%9B%A0%E4%B8%BA%E5%8F%A3%E7%99%96%E6%98%AF%E5%AE%9D%E8%B4%9D%E7%A4%BE%E6%AD%BB%E4%BA%86%23" target="weibo">
 因为口癖是宝贝社死了（热度：604966）
 </a>
@@ -6005,12 +6011,6 @@ TFBOYS站姐愚人节团建（热度：441179）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%BA%E4%BB%80%E4%B9%88%E5%BE%88%E5%A4%9A%E4%BA%BA%E5%AE%81%E6%84%BF%E8%A3%B8%E8%BE%9E%E4%B9%9F%E4%B8%8D%E5%B0%86%E5%B0%B1%23" target="weibo">
 为什么很多人宁愿裸辞也不将就（热度：439484）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%97%A5%E5%85%A8%E9%A3%9F%23" target="weibo">
-日全食（热度：438395）
 </a>
 </li>
 

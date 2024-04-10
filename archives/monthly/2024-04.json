@@ -1,6 +1,6 @@
 {
   "startTime": 1711902044401,
-  "endTime": 1712763299840,
+  "endTime": 1712766262556,
   "band_list": [
     {
       "raw_hot": 16874674,
@@ -5273,6 +5273,14 @@
       "onboard_time": 1711983322,
       "rank": 5,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 605734,
+      "num": 296476,
+      "word": "范曾发文宣布再婚",
+      "onboard_time": 1712764578,
+      "rank": 10,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 604966,
@@ -11923,6 +11931,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 289338,
+      "num": 289338,
+      "word": "王鹤棣的世界是个巨大的哈圈",
+      "onboard_time": 1712760080,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 289285,
       "num": 289285,
       "word": "台湾地震全岛摇晃1分钟",
@@ -13811,6 +13827,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 247449,
+      "num": 247449,
+      "word": "photic",
+      "onboard_time": 1712764277,
+      "rank": 14,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 247428,
       "num": 247428,
       "word": "花间令郡主自杀了",
@@ -14073,14 +14097,6 @@
       "onboard_time": 1712287097,
       "rank": 25,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 242957,
-      "num": 242957,
-      "word": "王鹤棣的世界是个巨大的哈圈",
-      "onboard_time": 1712760080,
-      "rank": 28,
-      "category": "艺人"
     },
     {
       "raw_hot": 242761,
@@ -20403,6 +20419,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 174709,
+      "num": 174709,
+      "word": "林俊杰感谢粉丝21年的陪伴",
+      "onboard_time": 1712765717,
+      "rank": 23,
+      "category": "演出"
+    },
+    {
       "raw_hot": 174661,
       "num": 174661,
       "word": "其实不用为失眠做任何努力",
@@ -22089,6 +22113,14 @@
       "onboard_time": 1712378957,
       "rank": 37,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 157439,
+      "num": 157439,
+      "word": "短剧放大夫妻婆媳矛盾6部被禁",
+      "onboard_time": 1712765478,
+      "rank": 25,
+      "category": "剧集,社会新闻"
     },
     {
       "raw_hot": 157283,
@@ -25267,6 +25299,14 @@
       "category": "母婴育儿"
     },
     {
+      "raw_hot": 126192,
+      "num": 126192,
+      "word": "张婧仪 这场戏完全交给花芷",
+      "onboard_time": 1712764938,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 126120,
       "num": 126120,
       "word": "当猫咪以为主人给它做的绝育",
@@ -25825,6 +25865,14 @@
       "onboard_time": 1712134340,
       "rank": 15,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 118991,
+      "num": 118991,
+      "word": "杨紫许龄月对手戏",
+      "onboard_time": 1712764159,
+      "rank": 33,
+      "category": "剧集"
     },
     {
       "raw_hot": 118818,
@@ -26827,6 +26875,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 96876,
+      "num": 94117,
+      "word": "李昊连线",
+      "onboard_time": 1712765237,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 96703,
       "num": 96703,
       "word": "蔡依林深圳演唱会",
@@ -27041,6 +27097,14 @@
       "onboard_time": 1712680036,
       "rank": 42,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 86882,
+      "num": 86882,
+      "word": "国产剧最危险的运动爬山",
+      "onboard_time": 1712763918,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 86755,

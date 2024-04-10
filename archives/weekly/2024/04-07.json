@@ -1,6 +1,6 @@
 {
   "startTime": 1712420539476,
-  "endTime": 1712763299840,
+  "endTime": 1712766262556,
   "band_list": [
     {
       "raw_hot": 9583581,
@@ -2177,6 +2177,14 @@
       "onboard_time": 1712582720,
       "rank": 30,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 605734,
+      "num": 296476,
+      "word": "范曾发文宣布再婚",
+      "onboard_time": 1712764578,
+      "rank": 10,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 603864,
@@ -4947,6 +4955,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 289338,
+      "num": 289338,
+      "word": "王鹤棣的世界是个巨大的哈圈",
+      "onboard_time": 1712760080,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 289283,
       "num": 275719,
       "word": "费曼新简介",
@@ -5779,6 +5795,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 247449,
+      "num": 247449,
+      "word": "photic",
+      "onboard_time": 1712764277,
+      "rank": 14,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 247404,
       "num": 247404,
       "word": "已经开始紧张了",
@@ -5896,14 +5920,6 @@
       "word": "王阳25岁至46岁颜值变化",
       "onboard_time": 1712546420,
       "rank": 27,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 242957,
-      "num": 242957,
-      "word": "王鹤棣的世界是个巨大的哈圈",
-      "onboard_time": 1712760080,
-      "rank": 28,
       "category": "艺人"
     },
     {
@@ -8763,6 +8779,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 174709,
+      "num": 174709,
+      "word": "林俊杰感谢粉丝21年的陪伴",
+      "onboard_time": 1712765717,
+      "rank": 23,
+      "category": "演出"
+    },
+    {
       "raw_hot": 174490,
       "num": 174490,
       "word": "罗晋任素汐新剧 海归夫妻",
@@ -9409,6 +9433,14 @@
       "onboard_time": 1712484558,
       "rank": 40,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 157439,
+      "num": 157439,
+      "word": "短剧放大夫妻婆媳矛盾6部被禁",
+      "onboard_time": 1712765478,
+      "rank": 25,
+      "category": "剧集,社会新闻"
     },
     {
       "raw_hot": 157271,
@@ -10747,6 +10779,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 126192,
+      "num": 126192,
+      "word": "张婧仪 这场戏完全交给花芷",
+      "onboard_time": 1712764938,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 125996,
       "num": 125996,
       "word": "王一博李沁片场日常",
@@ -11017,6 +11057,14 @@
       "onboard_time": 1712444894,
       "rank": 22,
       "category": "体育"
+    },
+    {
+      "raw_hot": 118991,
+      "num": 118991,
+      "word": "杨紫许龄月对手戏",
+      "onboard_time": 1712764159,
+      "rank": 33,
+      "category": "剧集"
     },
     {
       "raw_hot": 118818,
@@ -11355,6 +11403,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 96876,
+      "num": 94117,
+      "word": "李昊连线",
+      "onboard_time": 1712765237,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 95088,
       "num": 477642,
       "word": "警惕这些胃病早期症状",
@@ -11473,6 +11529,14 @@
       "onboard_time": 1712680036,
       "rank": 42,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 86882,
+      "num": 86882,
+      "word": "国产剧最危险的运动爬山",
+      "onboard_time": 1712763918,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 86089,
