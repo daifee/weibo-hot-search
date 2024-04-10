@@ -1,6 +1,6 @@
 {
   "startTime": 1712420539476,
-  "endTime": 1712737488376,
+  "endTime": 1712738231132,
   "band_list": [
     {
       "raw_hot": 9583581,
@@ -1835,6 +1835,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 621172,
+      "num": 621172,
+      "word": "郑合惠子千香引妆造",
+      "onboard_time": 1712734338,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 618814,
       "num": 618814,
       "word": "雷军奖励王腾小米su7",
@@ -1897,14 +1905,6 @@
       "onboard_time": 1712658919,
       "rank": 49,
       "category": "美食"
-    },
-    {
-      "raw_hot": 607262,
-      "num": 607262,
-      "word": "郑合惠子千香引妆造",
-      "onboard_time": 1712734338,
-      "rank": 38,
-      "category": "剧集"
     },
     {
       "raw_hot": 607185,
@@ -2371,6 +2371,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 505825,
+      "num": 505825,
+      "word": "清华大学所在国家学生",
+      "onboard_time": 1712732778,
+      "rank": 16,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 504654,
       "num": 504654,
       "word": "迪丽热巴路透",
@@ -2433,14 +2441,6 @@
       "onboard_time": 1712663478,
       "rank": 11,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 498726,
-      "num": 498726,
-      "word": "清华大学所在国家学生",
-      "onboard_time": 1712732778,
-      "rank": 16,
-      "category": "互联网"
     },
     {
       "raw_hot": 498009,
@@ -3171,6 +3171,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 409558,
+      "num": 409558,
+      "word": "任敏 有李现我是真服气",
+      "onboard_time": 1712736918,
+      "rank": 21,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 406840,
       "num": 406840,
       "word": "鞠婧祎演技",
@@ -3601,6 +3609,14 @@
       "onboard_time": 1712653700,
       "rank": 27,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 354350,
+      "num": 354350,
+      "word": "华晨宇演唱会顺带搞基建",
+      "onboard_time": 1712736437,
+      "rank": 19,
+      "category": "演出"
     },
     {
       "raw_hot": 354112,
@@ -4835,14 +4851,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 259567,
-      "num": 259567,
-      "word": "华晨宇演唱会顺带搞基建",
-      "onboard_time": 1712736437,
-      "rank": 19,
-      "category": "演出"
-    },
-    {
       "raw_hot": 259371,
       "num": 259371,
       "word": "美国男演员失踪后死亡",
@@ -5217,14 +5225,6 @@
       "onboard_time": 1712633540,
       "rank": 42,
       "category": "科学科普"
-    },
-    {
-      "raw_hot": 244245,
-      "num": 244245,
-      "word": "任敏 有李现我是真服气",
-      "onboard_time": 1712736918,
-      "rank": 21,
-      "category": "剧集"
     },
     {
       "raw_hot": 243676,
@@ -5667,6 +5667,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 226501,
+      "num": 226501,
+      "word": "向佐你火了",
+      "onboard_time": 1712737637,
+      "rank": 21,
+      "category": "电影"
+    },
+    {
       "raw_hot": 225665,
       "num": 225665,
       "word": "日式快餐失宠了",
@@ -6043,6 +6051,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 211315,
+      "num": 211315,
+      "word": "千香引把鞠婧祎名字打错了",
+      "onboard_time": 1712737459,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 210504,
       "num": 210504,
       "word": "C罗肘击对手",
@@ -6387,6 +6403,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 205071,
+      "num": 201701,
+      "word": "承欢记云合",
+      "onboard_time": 1712737698,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 205054,
       "num": 205054,
       "word": "原来狗狗真的会求救",
@@ -6521,6 +6545,14 @@
       "onboard_time": 1712455817,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 202587,
+      "num": 202587,
+      "word": "理发才是中国唯一合法的赌博",
+      "onboard_time": 1712737578,
+      "rank": 24,
+      "category": "幽默"
     },
     {
       "raw_hot": 202395,
@@ -7315,6 +7347,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 186697,
+      "num": 186697,
+      "word": "肺癌年轻化的原因",
+      "onboard_time": 1712737339,
+      "rank": 41,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 186596,
       "num": 186596,
       "word": "养大一个孩子有多不容易",
@@ -7609,6 +7649,14 @@
       "onboard_time": 1712473519,
       "rank": 46,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 181226,
+      "num": 181226,
+      "word": "黄金大涨后白银也被买断货了",
+      "onboard_time": 1712736798,
+      "rank": 34,
+      "category": "财经"
     },
     {
       "raw_hot": 180855,
@@ -8017,14 +8065,6 @@
       "onboard_time": 1712458757,
       "rank": 43,
       "category": "情感"
-    },
-    {
-      "raw_hot": 169919,
-      "num": 169919,
-      "word": "千香引把鞠婧祎名字打错了",
-      "onboard_time": 1712737459,
-      "rank": 31,
-      "category": "剧集"
     },
     {
       "raw_hot": 169641,
@@ -8667,6 +8707,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 151770,
+      "num": 151770,
+      "word": "惜花芷 婆家受气怪娘家",
+      "onboard_time": 1712737459,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 151636,
       "num": 151636,
       "word": "白羊座肯放过自己",
@@ -8955,6 +9003,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 142414,
+      "num": 177880,
+      "word": "警方回应聊城一特斯拉撞断大桥护栏",
+      "onboard_time": 1712736319,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 142208,
       "num": 142208,
       "word": "东北法庭的松弛感",
@@ -9025,14 +9081,6 @@
       "onboard_time": 1712542819,
       "rank": 44,
       "category": "体育"
-    },
-    {
-      "raw_hot": 140973,
-      "num": 140973,
-      "word": "肺癌年轻化的原因",
-      "onboard_time": 1712737339,
-      "rank": 41,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 140523,
@@ -9153,6 +9201,14 @@
       "onboard_time": 1712489299,
       "rank": 38,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 138551,
+      "num": 138551,
+      "word": "种地吧究竟在种什么",
+      "onboard_time": 1712738058,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 138520,
@@ -9451,14 +9507,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 131828,
-      "num": 170162,
-      "word": "警方回应聊城一特斯拉撞断大桥护栏",
-      "onboard_time": 1712736319,
-      "rank": 29,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 131608,
       "num": 104223,
       "word": "沈近真下线",
@@ -9537,14 +9585,6 @@
       "onboard_time": 1712469861,
       "rank": 42,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 129781,
-      "num": 156784,
-      "word": "黄金大涨后白银也被买断货了",
-      "onboard_time": 1712736798,
-      "rank": 34,
-      "category": "财经"
     },
     {
       "raw_hot": 129778,
@@ -9769,14 +9809,6 @@
       "onboard_time": 1712632038,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 123558,
-      "num": 123558,
-      "word": "惜花芷 婆家受气怪娘家",
-      "onboard_time": 1712737459,
-      "rank": 45,
-      "category": "剧集"
     },
     {
       "raw_hot": 123290,
@@ -10308,7 +10340,7 @@
     },
     {
       "raw_hot": 88132,
-      "num": 121879,
+      "num": 121937,
       "word": "社恐小狗长成优秀缉毒犬",
       "onboard_time": 1712736080,
       "rank": 48,
@@ -10851,7 +10883,7 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 32839,
+      "raw_hot": 34003,
       "num": 626139,
       "word": "神州春色美",
       "onboard_time": 1712720958,

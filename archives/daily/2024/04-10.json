@@ -1,6 +1,6 @@
 {
   "startTime": 1712679647281,
-  "endTime": 1712737488376,
+  "endTime": 1712738231132,
   "band_list": [
     {
       "raw_hot": 7494354,
@@ -323,8 +323,8 @@
       "category": "情感"
     },
     {
-      "raw_hot": 607262,
-      "num": 607262,
+      "raw_hot": 621172,
+      "num": 621172,
       "word": "郑合惠子千香引妆造",
       "onboard_time": 1712734338,
       "rank": 38,
@@ -403,8 +403,8 @@
       "category": "电影"
     },
     {
-      "raw_hot": 498726,
-      "num": 498726,
+      "raw_hot": 505825,
+      "num": 505825,
       "word": "清华大学所在国家学生",
       "onboard_time": 1712732778,
       "rank": 16,
@@ -523,6 +523,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 409558,
+      "num": 409558,
+      "word": "任敏 有李现我是真服气",
+      "onboard_time": 1712736918,
+      "rank": 21,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 400344,
       "num": 400344,
       "word": "刘忻张予曦牵手过马路",
@@ -569,6 +577,14 @@
       "onboard_time": 1712734158,
       "rank": 33,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 354350,
+      "num": 354350,
+      "word": "华晨宇演唱会顺带搞基建",
+      "onboard_time": 1712736437,
+      "rank": 19,
+      "category": "演出"
     },
     {
       "raw_hot": 353764,
@@ -819,14 +835,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 259567,
-      "num": 259567,
-      "word": "华晨宇演唱会顺带搞基建",
-      "onboard_time": 1712736437,
-      "rank": 19,
-      "category": "演出"
-    },
-    {
       "raw_hot": 258040,
       "num": 258040,
       "word": "香港游客涌入长沙",
@@ -873,14 +881,6 @@
       "onboard_time": 1712712739,
       "rank": 29,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 244245,
-      "num": 244245,
-      "word": "任敏 有李现我是真服气",
-      "onboard_time": 1712736918,
-      "rank": 21,
-      "category": "剧集"
     },
     {
       "raw_hot": 243928,
@@ -969,6 +969,14 @@
       "onboard_time": 1712726240,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 226501,
+      "num": 226501,
+      "word": "向佐你火了",
+      "onboard_time": 1712737637,
+      "rank": 21,
+      "category": "电影"
     },
     {
       "raw_hot": 222601,
@@ -1075,6 +1083,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 211315,
+      "num": 211315,
+      "word": "千香引把鞠婧祎名字打错了",
+      "onboard_time": 1712737459,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 209618,
       "num": 209618,
       "word": "韩国人精神状态一骑绝尘",
@@ -1163,6 +1179,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 205071,
+      "num": 201701,
+      "word": "承欢记云合",
+      "onboard_time": 1712737698,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 204548,
       "num": 204548,
       "word": "龙年龙月龙日的特别景观",
@@ -1185,6 +1209,14 @@
       "onboard_time": 1712730378,
       "rank": 33,
       "category": "电影"
+    },
+    {
+      "raw_hot": 202587,
+      "num": 202587,
+      "word": "理发才是中国唯一合法的赌博",
+      "onboard_time": 1712737578,
+      "rank": 24,
+      "category": "幽默"
     },
     {
       "raw_hot": 202174,
@@ -1347,6 +1379,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 186697,
+      "num": 186697,
+      "word": "肺癌年轻化的原因",
+      "onboard_time": 1712737339,
+      "rank": 41,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 186596,
       "num": 186596,
       "word": "养大一个孩子有多不容易",
@@ -1377,6 +1417,14 @@
       "onboard_time": 1712664738,
       "rank": 21,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 181226,
+      "num": 181226,
+      "word": "黄金大涨后白银也被买断货了",
+      "onboard_time": 1712736798,
+      "rank": 34,
+      "category": "财经"
     },
     {
       "raw_hot": 180855,
@@ -1457,14 +1505,6 @@
       "onboard_time": 1712736737,
       "rank": 30,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 169919,
-      "num": 169919,
-      "word": "千香引把鞠婧祎名字打错了",
-      "onboard_time": 1712737459,
-      "rank": 31,
-      "category": "剧集"
     },
     {
       "raw_hot": 169286,
@@ -1651,6 +1691,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 151770,
+      "num": 151770,
+      "word": "惜花芷 婆家受气怪娘家",
+      "onboard_time": 1712737459,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 151605,
       "num": 151605,
       "word": "承欢记 你的强来了",
@@ -1707,20 +1755,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 142414,
+      "num": 177880,
+      "word": "警方回应聊城一特斯拉撞断大桥护栏",
+      "onboard_time": 1712736319,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 141211,
       "num": 141211,
       "word": "十个勤天只能是十个勤天",
       "onboard_time": 1712664138,
       "rank": 33,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 140973,
-      "num": 140973,
-      "word": "肺癌年轻化的原因",
-      "onboard_time": 1712737339,
-      "rank": 41,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 140046,
@@ -1737,6 +1785,14 @@
       "onboard_time": 1712728399,
       "rank": 44,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 138551,
+      "num": 138551,
+      "word": "种地吧究竟在种什么",
+      "onboard_time": 1712738058,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 137846,
@@ -1761,22 +1817,6 @@
       "onboard_time": 1712719698,
       "rank": 47,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 131828,
-      "num": 170162,
-      "word": "警方回应聊城一特斯拉撞断大桥护栏",
-      "onboard_time": 1712736319,
-      "rank": 29,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 129781,
-      "num": 156784,
-      "word": "黄金大涨后白银也被买断货了",
-      "onboard_time": 1712736798,
-      "rank": 34,
-      "category": "财经"
     },
     {
       "raw_hot": 129082,
@@ -1817,14 +1857,6 @@
       "onboard_time": 1712675898,
       "rank": 38,
       "category": "财经"
-    },
-    {
-      "raw_hot": 123558,
-      "num": 123558,
-      "word": "惜花芷 婆家受气怪娘家",
-      "onboard_time": 1712737459,
-      "rank": 45,
-      "category": "剧集"
     },
     {
       "raw_hot": 123290,
@@ -1940,7 +1972,7 @@
     },
     {
       "raw_hot": 88132,
-      "num": 121879,
+      "num": 121937,
       "word": "社恐小狗长成优秀缉毒犬",
       "onboard_time": 1712736080,
       "rank": 48,
@@ -2115,7 +2147,7 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 32839,
+      "raw_hot": 34003,
       "num": 626139,
       "word": "神州春色美",
       "onboard_time": 1712720958,
