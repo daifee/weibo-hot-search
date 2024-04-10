@@ -1,0 +1,410 @@
+{
+  "runTime": 1712758579577,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 5162269,
+        "num": 5162269,
+        "word": "赵丽颖拍林更新",
+        "onboard_time": 1712756718,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1119515,
+        "num": 1119515,
+        "word": "热辣滚烫最终票房34.6亿",
+        "onboard_time": 1712752458,
+        "rank": 1,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 46434,
+        "num": 863458,
+        "word": "龙年龙月龙日雪龙号归来",
+        "onboard_time": 1712758100,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 734839,
+        "num": 734839,
+        "word": "肖战小括号",
+        "onboard_time": 1712755459,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 686753,
+        "num": 686753,
+        "word": "怎么避免被别人视奸",
+        "onboard_time": 1712754559,
+        "rank": 4,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 1868093,
+        "num": 630950,
+        "word": "林更新cover女孩",
+        "onboard_time": 1712755398,
+        "rank": 5,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 475203,
+        "num": 475203,
+        "word": "秦岚娜扎花少出发",
+        "onboard_time": 1712753119,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 459936,
+        "num": 459936,
+        "word": "福建立法规定妻子可查询配偶财产",
+        "onboard_time": 1712743399,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 434826,
+        "num": 434826,
+        "word": "有人卖出5公斤黄金变现270多万",
+        "onboard_time": 1712750357,
+        "rank": 8,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 377465,
+        "num": 433326,
+        "word": "福宝大口吃胡萝卜声音嘎嘣脆",
+        "onboard_time": 1712745078,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 945788,
+        "num": 429429,
+        "word": "仝卓工作室实名举报高源涉嫌偷税漏税",
+        "onboard_time": 1712750297,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 905631,
+        "num": 428552,
+        "word": "烟台一海滩为开演唱会被浇灌混凝土",
+        "onboard_time": 1712753419,
+        "rank": 11,
+        "category": "社会新闻,演出"
+      },
+      {
+        "raw_hot": 835144,
+        "num": 423528,
+        "word": "林更新宇宙",
+        "onboard_time": 1712757199,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 423433,
+        "num": 423433,
+        "word": "当地回应为开演唱会海滩被浇灌混凝土",
+        "onboard_time": 1712756420,
+        "rank": 13,
+        "category": "社会新闻,演出"
+      },
+      {
+        "raw_hot": 377290,
+        "num": 377290,
+        "word": "吴磊回北电吃面",
+        "onboard_time": 1712753600,
+        "rank": 14,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 358518,
+        "num": 358518,
+        "word": "王者荣耀个性小兵",
+        "onboard_time": 1712751977,
+        "rank": 15,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 85963,
+        "num": 350395,
+        "word": "小米MiniLED电视价格",
+        "onboard_time": 1712756480,
+        "rank": 16,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 344541,
+        "num": 344541,
+        "word": "癌症发生前身体的预警信号",
+        "onboard_time": 1712746398,
+        "rank": 17,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 332045,
+        "num": 332045,
+        "word": "这真是42岁的汪东城吗",
+        "onboard_time": 1712749038,
+        "rank": 18,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 311811,
+        "num": 311811,
+        "word": "Rookie尽力了",
+        "onboard_time": 1712754319,
+        "rank": 19,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 6340,
+        "num": 298829,
+        "word": "王腾多花10亿选正代8系",
+        "onboard_time": 1712755339,
+        "rank": 20,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 552185,
+        "num": 298180,
+        "word": "五六十万存款可以回小县城躺平吗",
+        "onboard_time": 1712749999,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 393142,
+        "num": 296516,
+        "word": "为什么建议你23点一定要睡觉",
+        "onboard_time": 1712754679,
+        "rank": 22,
+        "category": "健康医疗,科学科普"
+      },
+      {
+        "raw_hot": 291031,
+        "num": 291031,
+        "word": "时代少年团演唱会 特权码",
+        "onboard_time": 1712754019,
+        "rank": 23,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 287916,
+        "num": 287916,
+        "word": "承欢记看的人血压上来了",
+        "onboard_time": 1712757140,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 268358,
+        "num": 268358,
+        "word": "中医建议放下这些脾胃就恢复80%了",
+        "onboard_time": 1712748497,
+        "rank": 25,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 261998,
+        "num": 261998,
+        "word": "承欢记",
+        "onboard_time": 1712757020,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 260623,
+        "num": 260623,
+        "word": "NIP和JDG决胜局",
+        "onboard_time": 1712756839,
+        "rank": 27,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 232228,
+        "num": 252018,
+        "word": "广西明天放三月三假不调休",
+        "onboard_time": 1712755938,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 226408,
+        "num": 250513,
+        "word": "韩民众请求政府续租福宝",
+        "onboard_time": 1712743098,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 250116,
+        "num": 250116,
+        "word": "王凯方回应被讨债",
+        "onboard_time": 1712742498,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 245049,
+        "num": 245049,
+        "word": "哈尔 宫崎骏帅哥榜票选第一",
+        "onboard_time": 1712754559,
+        "rank": 31,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 235841,
+        "num": 235841,
+        "word": "蒋敦豪 看我蜂情万种",
+        "onboard_time": 1712757558,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 220553,
+        "num": 220553,
+        "word": "王腾送出雷军奖励的小米SU7",
+        "onboard_time": 1712757920,
+        "rank": 33,
+        "category": "汽车,互联网"
+      },
+      {
+        "raw_hot": 218054,
+        "num": 218054,
+        "word": "中式母爱做到了全国统一",
+        "onboard_time": 1712746398,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 216978,
+        "num": 216978,
+        "word": "齐思钧30岁生日直播",
+        "onboard_time": 1712758100,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 209919,
+        "num": 209919,
+        "word": "王一博表情包",
+        "onboard_time": 1712754260,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 206159,
+        "num": 206159,
+        "word": "赵丽颖持枪剧照",
+        "onboard_time": 1712758219,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 195113,
+        "num": 195113,
+        "word": "肖战直播出图",
+        "onboard_time": 1712752220,
+        "rank": 38,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 193614,
+        "num": 193614,
+        "word": "福宝回国后变着花样干饭",
+        "onboard_time": 1712746938,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 192718,
+        "num": 192718,
+        "word": "天秤座的成长史",
+        "onboard_time": 1712752639,
+        "rank": 40,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 192260,
+        "num": 192260,
+        "word": "又慷慨了龚俊",
+        "onboard_time": 1712755519,
+        "rank": 41,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 189039,
+        "num": 189039,
+        "word": "7天戒掉了熬夜让自己6点起床",
+        "onboard_time": 1712746759,
+        "rank": 42,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 188144,
+        "num": 188144,
+        "word": "用鸡柳骗回家的流浪狗一年的变化",
+        "onboard_time": 1712757920,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 185560,
+        "num": 185560,
+        "word": "惜花芷小说",
+        "onboard_time": 1712756300,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 162773,
+        "num": 162773,
+        "word": "误杀3阵容官宣",
+        "onboard_time": 1712749458,
+        "rank": 45,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 159267,
+        "num": 159267,
+        "word": "陈都灵恭喜考研上岸粉丝",
+        "onboard_time": 1712758459,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 155186,
+        "num": 155186,
+        "word": "福宝最新视频炫饭嘎嘎香",
+        "onboard_time": 1712755639,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 154854,
+        "num": 154854,
+        "word": "LPL",
+        "onboard_time": 1712757679,
+        "rank": 48,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 153318,
+        "num": 153318,
+        "word": "时代少年团重庆演唱会官宣了",
+        "onboard_time": 1712754019,
+        "rank": 49,
+        "category": "演出"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平在京会见马英九一行#"
+    }
+  }
+}
