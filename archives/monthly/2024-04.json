@@ -1,6 +1,6 @@
 {
   "startTime": 1711902044401,
-  "endTime": 1712775493082,
+  "endTime": 1712776493543,
   "band_list": [
     {
       "raw_hot": 16874674,
@@ -27595,6 +27595,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 67934,
+      "num": 55009,
+      "word": "郑合惠子的体重",
+      "onboard_time": 1712774292,
+      "rank": 13,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 67405,
       "num": 67405,
       "word": "果然猫界中三花最美",
@@ -27625,14 +27633,6 @@
       "onboard_time": 1712147179,
       "rank": 42,
       "category": "时尚"
-    },
-    {
-      "raw_hot": 66637,
-      "num": 55009,
-      "word": "郑合惠子的体重",
-      "onboard_time": 1712774292,
-      "rank": 13,
-      "category": "剧集"
     },
     {
       "raw_hot": 66570,

@@ -1,6 +1,6 @@
 {
   "startTime": 1712766262556,
-  "endTime": 1712775493082,
+  "endTime": 1712776493543,
   "band_list": [
     {
       "raw_hot": 2260302,
@@ -435,20 +435,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 67934,
+      "num": 55009,
+      "word": "郑合惠子的体重",
+      "onboard_time": 1712774292,
+      "rank": 13,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 67256,
       "num": 85752,
       "word": "NIP和JDG决胜局",
       "onboard_time": 1712756839,
       "rank": 49,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 66637,
-      "num": 55009,
-      "word": "郑合惠子的体重",
-      "onboard_time": 1712774292,
-      "rank": 13,
-      "category": "剧集"
     },
     {
       "raw_hot": 65918,

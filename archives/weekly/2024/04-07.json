@@ -1,6 +1,6 @@
 {
   "startTime": 1712420539476,
-  "endTime": 1712775493082,
+  "endTime": 1712776493543,
   "band_list": [
     {
       "raw_hot": 9583581,
@@ -11835,6 +11835,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 67934,
+      "num": 55009,
+      "word": "郑合惠子的体重",
+      "onboard_time": 1712774292,
+      "rank": 13,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 67131,
       "num": 67131,
       "word": "李多寅晒女儿脚丫照",
@@ -11849,14 +11857,6 @@
       "onboard_time": 1712547680,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 66637,
-      "num": 55009,
-      "word": "郑合惠子的体重",
-      "onboard_time": 1712774292,
-      "rank": 13,
-      "category": "剧集"
     },
     {
       "raw_hot": 65786,
