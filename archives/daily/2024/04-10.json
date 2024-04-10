@@ -1,6 +1,6 @@
 {
   "startTime": 1712679647281,
-  "endTime": 1712740793992,
+  "endTime": 1712741649733,
   "band_list": [
     {
       "raw_hot": 7494354,
@@ -92,7 +92,7 @@
     },
     {
       "raw_hot": 1158036,
-      "num": 501625,
+      "num": 606906,
       "word": "气血不足很难瘦",
       "onboard_time": 1712738658,
       "rank": 3,
@@ -121,6 +121,14 @@
       "onboard_time": 1712717478,
       "rank": 3,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 1047061,
+      "num": 1047061,
+      "word": "老板1个月转账近5万给翘班员工",
+      "onboard_time": 1712739259,
+      "rank": 0,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1039636,
@@ -203,12 +211,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 822134,
-      "num": 822134,
-      "word": "老板1个月转账近5万给翘班员工",
-      "onboard_time": 1712739259,
-      "rank": 0,
-      "category": "社会新闻"
+      "raw_hot": 838219,
+      "num": 838219,
+      "word": "任敏 有李现我是真服气",
+      "onboard_time": 1712736918,
+      "rank": 21,
+      "category": "剧集"
     },
     {
       "raw_hot": 819235,
@@ -315,16 +323,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 685674,
-      "num": 685674,
-      "word": "任敏 有李现我是真服气",
-      "onboard_time": 1712736918,
-      "rank": 21,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 659948,
-      "num": 276560,
+      "num": 288162,
       "word": "才知道51岁的妈妈没买社保",
       "onboard_time": 1712739317,
       "rank": 20,
@@ -419,6 +419,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 514464,
+      "num": 514464,
+      "word": "安徽省考成绩",
+      "onboard_time": 1712740399,
+      "rank": 4,
+      "category": "教育"
+    },
+    {
       "raw_hot": 510415,
       "num": 463806,
       "word": "暴雪国服玩家数据完整保留",
@@ -441,14 +449,6 @@
       "onboard_time": 1712732778,
       "rank": 16,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 498919,
-      "num": 498919,
-      "word": "安徽省考成绩",
-      "onboard_time": 1712740399,
-      "rank": 4,
-      "category": "教育"
     },
     {
       "raw_hot": 493181,
@@ -571,6 +571,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 407192,
+      "num": 407192,
+      "word": "千香引把鞠婧祎名字打错了",
+      "onboard_time": 1712737459,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 400344,
       "num": 400344,
       "word": "刘忻张予曦牵手过马路",
@@ -603,14 +611,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 379820,
-      "num": 379820,
-      "word": "千香引把鞠婧祎名字打错了",
-      "onboard_time": 1712737459,
-      "rank": 31,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 379554,
       "num": 379554,
       "word": "九鹭非香改编运",
@@ -625,6 +625,14 @@
       "onboard_time": 1712734158,
       "rank": 33,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 359532,
+      "num": 359532,
+      "word": "黄金大涨后白银也被买断货了",
+      "onboard_time": 1712736798,
+      "rank": 34,
+      "category": "财经"
     },
     {
       "raw_hot": 354350,
@@ -683,14 +691,6 @@
       "category": "运动健身"
     },
     {
-      "raw_hot": 346645,
-      "num": 346645,
-      "word": "黄金大涨后白银也被买断货了",
-      "onboard_time": 1712736798,
-      "rank": 34,
-      "category": "财经"
-    },
-    {
       "raw_hot": 330425,
       "num": 330425,
       "word": "原来贡菜就是晒干的莴笋",
@@ -729,6 +729,14 @@
       "onboard_time": 1712728759,
       "rank": 21,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 320396,
+      "num": 320396,
+      "word": "暴雪全家桶回归次序",
+      "onboard_time": 1712739619,
+      "rank": 23,
+      "category": "游戏"
     },
     {
       "raw_hot": 318793,
@@ -835,6 +843,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 286749,
+      "num": 286749,
+      "word": "我爸不愿意被叫外公",
+      "onboard_time": 1712740758,
+      "rank": 41,
+      "category": "情感"
+    },
+    {
       "raw_hot": 284340,
       "num": 284340,
       "word": "杨紫选剧眼光",
@@ -857,6 +873,14 @@
       "onboard_time": 1712709020,
       "rank": 26,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 271475,
+      "num": 271475,
+      "word": "白鹿露肩裙",
+      "onboard_time": 1712739978,
+      "rank": 24,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 265820,
@@ -931,14 +955,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 254987,
-      "num": 254987,
-      "word": "暴雪全家桶回归次序",
-      "onboard_time": 1712739619,
-      "rank": 23,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 250228,
       "num": 250228,
       "word": "20岁生孩子和30岁生孩子有何区别",
@@ -985,14 +1001,6 @@
       "onboard_time": 1712711239,
       "rank": 29,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 237194,
-      "num": 237194,
-      "word": "白鹿露肩裙",
-      "onboard_time": 1712739978,
-      "rank": 24,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 235360,
@@ -1073,6 +1081,14 @@
       "onboard_time": 1712737578,
       "rank": 24,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 221617,
+      "num": 221617,
+      "word": "被一碗25块钱的牛肉面惊呆了",
+      "onboard_time": 1712741057,
+      "rank": 25,
+      "category": "美食"
     },
     {
       "raw_hot": 220198,
@@ -1227,6 +1243,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 205734,
+      "num": 205734,
+      "word": "杨紫台湾腔走戏",
+      "onboard_time": 1712738478,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 205701,
       "num": 205701,
       "word": "虐猫事件 反社会行为",
@@ -1291,6 +1315,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 202829,
+      "num": 202829,
+      "word": "鞠婧祎小道士盘发",
+      "onboard_time": 1712740879,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 202174,
       "num": 202174,
       "word": "于适配音宫崎骏男主角",
@@ -1339,14 +1371,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 199189,
-      "num": 199189,
-      "word": "杨紫台湾腔走戏",
-      "onboard_time": 1712738478,
-      "rank": 28,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 198974,
       "num": 170973,
       "word": "李现任敏合照",
@@ -1377,6 +1401,14 @@
       "onboard_time": 1712735837,
       "rank": 23,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 193099,
+      "num": 193099,
+      "word": "怀孕期间什么能做什么不能做",
+      "onboard_time": 1712740278,
+      "rank": 37,
+      "category": "母婴育儿,健康医疗"
     },
     {
       "raw_hot": 193044,
@@ -1497,6 +1529,14 @@
       "onboard_time": 1712664738,
       "rank": 21,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 181427,
+      "num": 181427,
+      "word": "耙耙柑的耙是四川耙耳朵的耙",
+      "onboard_time": 1712740818,
+      "rank": 34,
+      "category": "美食"
     },
     {
       "raw_hot": 180855,
@@ -1779,14 +1819,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 152894,
-      "num": 152894,
-      "word": "怀孕期间什么能做什么不能做",
-      "onboard_time": 1712740278,
-      "rank": 37,
-      "category": "母婴育儿,健康医疗"
-    },
-    {
       "raw_hot": 151770,
       "num": 151770,
       "word": "惜花芷 婆家受气怪娘家",
@@ -1907,20 +1939,20 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 135799,
+      "num": 135799,
+      "word": "林更新的表情管理",
+      "onboard_time": 1712739619,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 135165,
       "num": 135165,
       "word": "永劫无间",
       "onboard_time": 1712719698,
       "rank": 47,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 132587,
-      "num": 132587,
-      "word": "林更新的表情管理",
-      "onboard_time": 1712739619,
-      "rank": 40,
-      "category": "剧集"
     },
     {
       "raw_hot": 129082,
@@ -1979,14 +2011,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 122693,
-      "num": 122693,
-      "word": "我爸不愿意被叫外公",
-      "onboard_time": 1712740758,
-      "rank": 41,
-      "category": "情感"
-    },
-    {
       "raw_hot": 121254,
       "num": 121254,
       "word": "办公室mbti标语",
@@ -1995,8 +2019,8 @@
       "category": "情感"
     },
     {
-      "raw_hot": 120034,
-      "num": 120034,
+      "raw_hot": 120408,
+      "num": 120408,
       "word": "女子花椒呛喉推开家人海姆立克法自救",
       "onboard_time": 1712740218,
       "rank": 43,
@@ -2051,12 +2075,28 @@
       "category": "财经"
     },
     {
+      "raw_hot": 107484,
+      "num": 107484,
+      "word": "苏打绿春日光",
+      "onboard_time": 1712741478,
+      "rank": 48,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 105488,
       "num": 105488,
       "word": "不管什么物种上班都会困",
       "onboard_time": 1712740218,
       "rank": 48,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 104786,
+      "num": 104786,
+      "word": "下岸",
+      "onboard_time": 1712741598,
+      "rank": 49,
+      "category": "教育"
     },
     {
       "raw_hot": 103151,

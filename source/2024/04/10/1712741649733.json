@@ -1,0 +1,410 @@
+{
+  "runTime": 1712741649733,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1047061,
+        "num": 1047061,
+        "word": "老板1个月转账近5万给翘班员工",
+        "onboard_time": 1712739259,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 838219,
+        "num": 838219,
+        "word": "任敏 有李现我是真服气",
+        "onboard_time": 1712736918,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 27154,
+        "num": 624914,
+        "word": "神州春色美",
+        "onboard_time": 1712720958,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1035030,
+        "num": 606906,
+        "word": "气血不足很难瘦",
+        "onboard_time": 1712738658,
+        "rank": 3,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 514464,
+        "num": 514464,
+        "word": "安徽省考成绩",
+        "onboard_time": 1712740399,
+        "rank": 4,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 558607,
+        "num": 513692,
+        "word": "欧阳娜娜首次回应叫陈伟霆爸爸",
+        "onboard_time": 1712724140,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 481583,
+        "num": 481583,
+        "word": "海南岛西南海域商渔船碰撞8人遇难",
+        "onboard_time": 1712738717,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 409620,
+        "num": 409620,
+        "word": "韩国知名偶像组合成员被骗26亿韩元",
+        "onboard_time": 1712733138,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 407192,
+        "num": 407192,
+        "word": "千香引把鞠婧祎名字打错了",
+        "onboard_time": 1712737459,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 403606,
+        "num": 403606,
+        "word": "清华大学所在国家学生",
+        "onboard_time": 1712732778,
+        "rank": 9,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 464297,
+        "num": 402514,
+        "word": "官方通报昆明多家医院现男性根浴",
+        "onboard_time": 1712726898,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 382525,
+        "num": 382525,
+        "word": "易烊千玺闯美成功",
+        "onboard_time": 1712727738,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 359532,
+        "num": 359532,
+        "word": "黄金大涨后白银也被买断货了",
+        "onboard_time": 1712736798,
+        "rank": 12,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 344946,
+        "num": 344946,
+        "word": "林一虞书欣都发了雪景照",
+        "onboard_time": 1712734458,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 328067,
+        "num": 328067,
+        "word": "假如每个星期三都能休息一次",
+        "onboard_time": 1712729120,
+        "rank": 14,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 323977,
+        "num": 323977,
+        "word": "帅是真的帅 刻薄也是真刻薄",
+        "onboard_time": 1712726539,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 320396,
+        "num": 320396,
+        "word": "暴雪全家桶回归次序",
+        "onboard_time": 1712739619,
+        "rank": 16,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 311247,
+        "num": 311247,
+        "word": "美国夫妇因儿子枪杀4人被判15年监禁",
+        "onboard_time": 1712731818,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 293303,
+        "num": 293303,
+        "word": "出去玩时被强制性塞花了",
+        "onboard_time": 1712723120,
+        "rank": 18,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 288407,
+        "num": 288407,
+        "word": "青3选手蒋智豪患肺癌",
+        "onboard_time": 1712724080,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 579637,
+        "num": 288162,
+        "word": "才知道51岁的妈妈没买社保",
+        "onboard_time": 1712739317,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 286749,
+        "num": 286749,
+        "word": "我爸不愿意被叫外公",
+        "onboard_time": 1712740758,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 285515,
+        "num": 285515,
+        "word": "郑合惠子千香引妆造",
+        "onboard_time": 1712734338,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 271475,
+        "num": 271475,
+        "word": "白鹿露肩裙",
+        "onboard_time": 1712739978,
+        "rank": 23,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 242025,
+        "num": 242025,
+        "word": "费曼新简介",
+        "onboard_time": 1712738598,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 221617,
+        "num": 221617,
+        "word": "被一碗25块钱的牛肉面惊呆了",
+        "onboard_time": 1712741057,
+        "rank": 25,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 217011,
+        "num": 217011,
+        "word": "华晨宇演唱会顺带搞基建",
+        "onboard_time": 1712736437,
+        "rank": 26,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 205734,
+        "num": 205734,
+        "word": "杨紫台湾腔走戏",
+        "onboard_time": 1712738478,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 202829,
+        "num": 202829,
+        "word": "鞠婧祎小道士盘发",
+        "onboard_time": 1712740879,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 123447,
+        "num": 202312,
+        "word": "只有考研人才懂的画面",
+        "onboard_time": 1712730139,
+        "rank": 29,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 202170,
+        "num": 202170,
+        "word": "原来这就是长高的征兆",
+        "onboard_time": 1712734219,
+        "rank": 30,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 194892,
+        "num": 194892,
+        "word": "向佐你火了",
+        "onboard_time": 1712737637,
+        "rank": 31,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 193099,
+        "num": 193099,
+        "word": "怀孕期间什么能做什么不能做",
+        "onboard_time": 1712740278,
+        "rank": 32,
+        "category": "母婴育儿,健康医疗"
+      },
+      {
+        "raw_hot": 184367,
+        "num": 184367,
+        "word": "理发才是中国唯一合法的赌博",
+        "onboard_time": 1712737578,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 181427,
+        "num": 181427,
+        "word": "耙耙柑的耙是四川耙耳朵的耙",
+        "onboard_time": 1712740818,
+        "rank": 34,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 156324,
+        "num": 156324,
+        "word": "承欢记云合",
+        "onboard_time": 1712737698,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 149459,
+        "num": 149459,
+        "word": "种地吧究竟在种什么",
+        "onboard_time": 1712738058,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 148222,
+        "num": 148222,
+        "word": "白鹿曾舜晞全妆路透",
+        "onboard_time": 1712733617,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 147309,
+        "num": 147309,
+        "word": "暴雪官宣回归",
+        "onboard_time": 1712711299,
+        "rank": 38,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 142847,
+        "num": 142847,
+        "word": "九鹭非香改编运",
+        "onboard_time": 1712733079,
+        "rank": 39,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 141492,
+        "num": 141492,
+        "word": "我妈嫁给我爸的原因",
+        "onboard_time": 1712739619,
+        "rank": 40,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 135799,
+        "num": 135799,
+        "word": "林更新的表情管理",
+        "onboard_time": 1712739619,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 132373,
+        "num": 132373,
+        "word": "肺癌年轻化的原因",
+        "onboard_time": 1712737339,
+        "rank": 42,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 129087,
+        "num": 129087,
+        "word": "字节2023年利润涨约60%",
+        "onboard_time": 1712735598,
+        "rank": 43,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 120408,
+        "num": 120408,
+        "word": "女子花椒呛喉推开家人海姆立克法自救",
+        "onboard_time": 1712740218,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 119610,
+        "num": 119610,
+        "word": "演员刘雨欣吐槽在美国真的不敢生病",
+        "onboard_time": 1712723720,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 109900,
+        "num": 109900,
+        "word": "王一博拍戏肿了好大一个包",
+        "onboard_time": 1712727920,
+        "rank": 46,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 109597,
+        "num": 109597,
+        "word": "这猫怎么什么都养啊",
+        "onboard_time": 1712739919,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 107484,
+        "num": 107484,
+        "word": "苏打绿春日光",
+        "onboard_time": 1712741478,
+        "rank": 48,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 104786,
+        "num": 104786,
+        "word": "下岸",
+        "onboard_time": 1712741598,
+        "rank": 49,
+        "category": "教育"
+      }
+    ],
+    "hotgov": {
+      "word": "#春季中国元首外交精彩纷呈#"
+    }
+  }
+}
