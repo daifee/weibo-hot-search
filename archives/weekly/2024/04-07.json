@@ -1,6 +1,6 @@
 {
   "startTime": 1712420539476,
-  "endTime": 1712747855102,
+  "endTime": 1712748851094,
   "band_list": [
     {
       "raw_hot": 9583581,
@@ -643,6 +643,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1150611,
+      "num": 1150611,
+      "word": "福建立法规定妻子可查询配偶财产",
+      "onboard_time": 1712743399,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1128422,
       "num": 1128422,
       "word": "chiikawa作者",
@@ -873,14 +881,6 @@
       "onboard_time": 1712412500,
       "rank": 3,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 1006560,
-      "num": 1006560,
-      "word": "福建立法规定妻子可查询配偶财产",
-      "onboard_time": 1712743399,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1001086,
@@ -1163,20 +1163,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 846531,
+      "num": 836137,
+      "word": "吴镇宇回应后费曼删博",
+      "onboard_time": 1712743458,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 838219,
       "num": 838219,
       "word": "任敏 有李现我是真服气",
       "onboard_time": 1712736918,
       "rank": 21,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 836137,
-      "num": 836137,
-      "word": "吴镇宇回应后费曼删博",
-      "onboard_time": 1712743458,
-      "rank": 25,
-      "category": "艺人"
     },
     {
       "raw_hot": 834954,
@@ -1211,8 +1211,8 @@
       "category": "母婴育儿"
     },
     {
-      "raw_hot": 826911,
-      "num": 826911,
+      "raw_hot": 827621,
+      "num": 827621,
       "word": "韩民众请求政府续租福宝",
       "onboard_time": 1712743098,
       "rank": 15,
@@ -1331,6 +1331,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 778237,
+      "num": 778237,
+      "word": "两岸同胞同属中华民族",
+      "onboard_time": 1712747118,
+      "rank": 10,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 776242,
       "num": 776242,
       "word": "承欢记收视率",
@@ -1404,7 +1412,7 @@
     },
     {
       "raw_hot": 749032,
-      "num": 562391,
+      "num": 638750,
       "word": "仝卓工作室回应王凯方",
       "onboard_time": 1712743999,
       "rank": 26,
@@ -1835,6 +1843,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 640961,
+      "num": 640961,
+      "word": "福宝大口吃胡萝卜声音嘎嘣脆",
+      "onboard_time": 1712745078,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 638931,
       "num": 638931,
       "word": "大哥远 停播",
@@ -1881,14 +1897,6 @@
       "onboard_time": 1712550141,
       "rank": 31,
       "category": "情感"
-    },
-    {
-      "raw_hot": 631945,
-      "num": 631945,
-      "word": "两岸同胞同属中华民族",
-      "onboard_time": 1712747118,
-      "rank": 10,
-      "category": "国内时政"
     },
     {
       "raw_hot": 628835,
@@ -2145,14 +2153,6 @@
       "onboard_time": 1712674340,
       "rank": 27,
       "category": "科学科普"
-    },
-    {
-      "raw_hot": 585632,
-      "num": 639046,
-      "word": "福宝大口吃胡萝卜声音嘎嘣脆",
-      "onboard_time": 1712745078,
-      "rank": 11,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 580614,
@@ -2891,6 +2891,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 462809,
+      "num": 462809,
+      "word": "癌症发生前身体的预警信号",
+      "onboard_time": 1712746398,
+      "rank": 12,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 462015,
       "num": 462015,
       "word": "新款iPad或将直接发布",
@@ -2921,6 +2929,14 @@
       "onboard_time": 1712631798,
       "rank": 24,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 457704,
+      "num": 457704,
+      "word": "中式母爱做到了全国统一",
+      "onboard_time": 1712746398,
+      "rank": 15,
+      "category": "剧集"
     },
     {
       "raw_hot": 457209,
@@ -3137,14 +3153,6 @@
       "onboard_time": 1712599392,
       "rank": 22,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 434885,
-      "num": 434885,
-      "word": "癌症发生前身体的预警信号",
-      "onboard_time": 1712746398,
-      "rank": 12,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 434323,
@@ -3419,6 +3427,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 395215,
+      "num": 287172,
+      "word": "7天戒掉了熬夜让自己6点起床",
+      "onboard_time": 1712746759,
+      "rank": 20,
+      "category": "情感"
+    },
+    {
       "raw_hot": 391743,
       "num": 391743,
       "word": "肖战长发侧颜库存",
@@ -3497,14 +3513,6 @@
       "onboard_time": 1712535739,
       "rank": 16,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 384978,
-      "num": 287172,
-      "word": "7天戒掉了熬夜让自己6点起床",
-      "onboard_time": 1712746759,
-      "rank": 20,
-      "category": "情感"
     },
     {
       "raw_hot": 384403,
@@ -3761,14 +3769,6 @@
       "onboard_time": 1712736798,
       "rank": 34,
       "category": "财经"
-    },
-    {
-      "raw_hot": 359453,
-      "num": 359453,
-      "word": "中式母爱做到了全国统一",
-      "onboard_time": 1712746398,
-      "rank": 15,
-      "category": "剧集"
     },
     {
       "raw_hot": 357116,
@@ -4819,6 +4819,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 278253,
+      "num": 278253,
+      "word": "福宝回国后变着花样干饭",
+      "onboard_time": 1712746938,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 277917,
       "num": 277917,
       "word": "BoA清空ins",
@@ -4865,6 +4873,14 @@
       "onboard_time": 1712625678,
       "rank": 42,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 274497,
+      "num": 274497,
+      "word": "研究生最大的共性",
+      "onboard_time": 1712746759,
+      "rank": 28,
+      "category": "幽默"
     },
     {
       "raw_hot": 273999,
@@ -5995,14 +6011,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 223274,
-      "num": 223274,
-      "word": "福宝回国后变着花样干饭",
-      "onboard_time": 1712746938,
-      "rank": 26,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 223230,
       "num": 223230,
       "word": "WBG发布道歉公告",
@@ -6073,6 +6081,14 @@
       "onboard_time": 1712558058,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 220545,
+      "num": 181339,
+      "word": "中医建议放下这些脾胃就恢复80%了",
+      "onboard_time": 1712748497,
+      "rank": 30,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 219942,
@@ -6955,14 +6971,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 200442,
-      "num": 200442,
-      "word": "研究生最大的共性",
-      "onboard_time": 1712746759,
-      "rank": 28,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 200431,
       "num": 341955,
       "word": "凌晨4点在深圳海边看银河",
@@ -7523,6 +7531,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 188947,
+      "num": 188947,
+      "word": "JDG对战NIP",
+      "onboard_time": 1712747598,
+      "rank": 30,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 188758,
       "num": 188758,
       "word": "白宇34岁状态",
@@ -7729,14 +7745,6 @@
       "onboard_time": 1712500820,
       "rank": 38,
       "category": "数码"
-    },
-    {
-      "raw_hot": 185517,
-      "num": 185517,
-      "word": "JDG对战NIP",
-      "onboard_time": 1712747598,
-      "rank": 30,
-      "category": "电竞"
     },
     {
       "raw_hot": 185128,
@@ -9195,6 +9203,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 147000,
+      "num": 147000,
+      "word": "迪士尼有自己的张元英",
+      "onboard_time": 1712748018,
+      "rank": 34,
+      "category": "作品衍生,动漫"
+    },
+    {
       "raw_hot": 146589,
       "num": 146589,
       "word": "怎么和infp复合",
@@ -9217,6 +9233,14 @@
       "onboard_time": 1712623518,
       "rank": 44,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 145855,
+      "num": 145855,
+      "word": "外部的干涉阻挡不了家国团圆的历史大势",
+      "onboard_time": 1712747298,
+      "rank": 46,
+      "category": "国内时政"
     },
     {
       "raw_hot": 145837,
@@ -10553,14 +10577,6 @@
       "onboard_time": 1712501721,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 108470,
-      "num": 108470,
-      "word": "外部的干涉阻挡不了家国团圆的历史大势",
-      "onboard_time": 1712747298,
-      "rank": 46,
-      "category": "国内时政"
     },
     {
       "raw_hot": 108108,
