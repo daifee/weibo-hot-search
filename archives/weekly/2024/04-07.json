@@ -1,6 +1,6 @@
 {
   "startTime": 1712420539476,
-  "endTime": 1712716766066,
+  "endTime": 1712719201426,
   "band_list": [
     {
       "raw_hot": 9583581,
@@ -771,6 +771,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 999112,
+      "num": 999112,
+      "word": "林更新片场把赵丽颖亲腿麻了",
+      "onboard_time": 1712717478,
+      "rank": 3,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 979913,
       "num": 979913,
       "word": "韩国无糖糖葫芦",
@@ -1009,6 +1017,14 @@
       "onboard_time": 1712447718,
       "rank": 3,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 835729,
+      "num": 835729,
+      "word": "鲶鱼须为何备受初中女生追捧",
+      "onboard_time": 1712715558,
+      "rank": 31,
+      "category": "美妆"
     },
     {
       "raw_hot": 834954,
@@ -1595,6 +1611,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 636644,
+      "num": 463353,
+      "word": "马云内部发帖肯定阿里一年改革",
+      "onboard_time": 1712714599,
+      "rank": 13,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 635976,
       "num": 635976,
       "word": "庆余年2",
@@ -2155,6 +2179,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 509240,
+      "num": 509240,
+      "word": "哈尔的移动城堡",
+      "onboard_time": 1712716038,
+      "rank": 31,
+      "category": "电影"
+    },
+    {
       "raw_hot": 504654,
       "num": 504654,
       "word": "迪丽热巴路透",
@@ -2521,14 +2553,6 @@
       "onboard_time": 1712643859,
       "rank": 20,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 463353,
-      "num": 463353,
-      "word": "马云内部发帖肯定阿里一年改革",
-      "onboard_time": 1712714599,
-      "rank": 13,
-      "category": "互联网"
     },
     {
       "raw_hot": 460583,
@@ -2907,6 +2931,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 411828,
+      "num": 411828,
+      "word": "快递公司经理泄露国家秘密被拘3日",
+      "onboard_time": 1712714838,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 406840,
       "num": 406840,
       "word": "鞠婧祎演技",
@@ -2961,6 +2993,14 @@
       "onboard_time": 1712476399,
       "rank": 22,
       "category": "情感"
+    },
+    {
+      "raw_hot": 397645,
+      "num": 397645,
+      "word": "陈星旭公主抱迪丽热巴路透",
+      "onboard_time": 1712716639,
+      "rank": 24,
+      "category": "剧集"
     },
     {
       "raw_hot": 397212,
@@ -3147,6 +3187,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 375383,
+      "num": 375383,
+      "word": "TFBOYS还会发新歌吗",
+      "onboard_time": 1712718979,
+      "rank": 16,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 374631,
       "num": 374631,
       "word": "50g金条净赚4000元",
@@ -3225,14 +3273,6 @@
       "onboard_time": 1712545040,
       "rank": 16,
       "category": "数码"
-    },
-    {
-      "raw_hot": 368052,
-      "num": 368052,
-      "word": "快递公司经理泄露国家秘密被拘3日",
-      "onboard_time": 1712714838,
-      "rank": 17,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 367013,
@@ -3401,14 +3441,6 @@
       "onboard_time": 1712561119,
       "rank": 37,
       "category": "科学科普"
-    },
-    {
-      "raw_hot": 348063,
-      "num": 292109,
-      "word": "鲶鱼须为何备受初中女生追捧",
-      "onboard_time": 1712715558,
-      "rank": 31,
-      "category": "美妆"
     },
     {
       "raw_hot": 346462,
@@ -3873,6 +3905,14 @@
       "onboard_time": 1712567659,
       "rank": 21,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 302057,
+      "num": 302057,
+      "word": "看舌头的位置就知道是不是口呼吸",
+      "onboard_time": 1712715499,
+      "rank": 45,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 301963,
@@ -4619,14 +4659,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 252127,
-      "num": 252127,
-      "word": "陈星旭公主抱迪丽热巴路透",
-      "onboard_time": 1712716639,
-      "rank": 24,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 251435,
       "num": 240115,
       "word": "减肥搭子把我删了",
@@ -5331,12 +5363,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 219832,
+      "num": 219832,
+      "word": "华为盘古大模型首次应用于笔记本",
+      "onboard_time": 1712718438,
+      "rank": 28,
+      "category": "数码"
+    },
+    {
       "raw_hot": 219619,
       "num": 219619,
       "word": "林更新和不同女星拍吻戏差距",
       "onboard_time": 1712469919,
       "rank": 31,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 218875,
+      "num": 218875,
+      "word": "魔兽永劫和好",
+      "onboard_time": 1712716697,
+      "rank": 44,
+      "category": "游戏"
     },
     {
       "raw_hot": 218750,
@@ -5459,14 +5507,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 214581,
-      "num": 214581,
-      "word": "哈尔的移动城堡",
-      "onboard_time": 1712716038,
-      "rank": 31,
-      "category": "电影"
-    },
-    {
       "raw_hot": 214553,
       "num": 233609,
       "word": "教授建议小学低年级免去考试和成绩",
@@ -5505,6 +5545,14 @@
       "onboard_time": 1712543059,
       "rank": 37,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 213367,
+      "num": 213367,
+      "word": "魔兽回归最大受害者",
+      "onboard_time": 1712717959,
+      "rank": 31,
+      "category": "游戏"
     },
     {
       "raw_hot": 212925,
@@ -5779,12 +5827,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 206018,
+      "num": 206018,
+      "word": "暴雪国服招聘",
+      "onboard_time": 1712717360,
+      "rank": 32,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 205912,
       "num": 205912,
       "word": "薛之谦洛阳",
       "onboard_time": 1712570720,
       "rank": 31,
       "category": "演出"
+    },
+    {
+      "raw_hot": 205834,
+      "num": 205834,
+      "word": "千香杀青",
+      "onboard_time": 1712717597,
+      "rank": 33,
+      "category": "剧集"
     },
     {
       "raw_hot": 205786,
@@ -5995,6 +6059,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 202174,
+      "num": 202174,
+      "word": "于适配音宫崎骏男主角",
+      "onboard_time": 1712718498,
+      "rank": 34,
+      "category": "电影"
+    },
+    {
       "raw_hot": 202166,
       "num": 202166,
       "word": "杜华我在哇唧唧哇很想你",
@@ -6139,6 +6211,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 199615,
+      "num": 199615,
+      "word": "勇士vs湖人",
+      "onboard_time": 1712718137,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 199489,
       "num": 199489,
       "word": "衡门有狐",
@@ -6169,14 +6249,6 @@
       "onboard_time": 1712552780,
       "rank": 36,
       "category": "演出"
-    },
-    {
-      "raw_hot": 199271,
-      "num": 199271,
-      "word": "看舌头的位置就知道是不是口呼吸",
-      "onboard_time": 1712715499,
-      "rank": 45,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 199043,
@@ -6603,6 +6675,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 188130,
+      "num": 188130,
+      "word": "快船vs太阳",
+      "onboard_time": 1712718018,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 187582,
       "num": 187582,
       "word": "2024LPL",
@@ -6753,14 +6833,6 @@
       "onboard_time": 1712500820,
       "rank": 38,
       "category": "数码"
-    },
-    {
-      "raw_hot": 185377,
-      "num": 185377,
-      "word": "魔兽永劫和好",
-      "onboard_time": 1712716697,
-      "rank": 44,
-      "category": "游戏"
     },
     {
       "raw_hot": 185128,
@@ -6961,6 +7033,14 @@
       "onboard_time": 1712473519,
       "rank": 46,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 181154,
+      "num": 181154,
+      "word": "上了3天班还剩3天班",
+      "onboard_time": 1712718379,
+      "rank": 40,
+      "category": "情感"
     },
     {
       "raw_hot": 180855,
@@ -8043,6 +8123,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 145606,
+      "num": 139922,
+      "word": "何赛飞演技",
+      "onboard_time": 1712717239,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 145442,
       "num": 145442,
       "word": "林更新害怕是装给赵丽颖看的吧",
@@ -8251,6 +8339,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 140046,
+      "num": 140046,
+      "word": "白鹿春季刊封面",
+      "onboard_time": 1712717417,
+      "rank": 44,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 139809,
       "num": 139809,
       "word": "散光恢复训练",
@@ -8427,6 +8523,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 136224,
+      "num": 136224,
+      "word": "用100元在大集上炒了八个菜",
+      "onboard_time": 1712718979,
+      "rank": 48,
+      "category": "美食"
+    },
+    {
       "raw_hot": 135954,
       "num": 135954,
       "word": "刘诗诗清水淡妆",
@@ -8489,6 +8593,14 @@
       "onboard_time": 1712622499,
       "rank": 48,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 134244,
+      "num": 218996,
+      "word": "银行卡90分钟被盗刷283次谁之过",
+      "onboard_time": 1712718077,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 134170,
@@ -9987,6 +10099,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 22319,
+      "num": 391307,
+      "word": "上海展览推荐",
+      "onboard_time": 1712718018,
+      "rank": 14,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 22270,
       "num": 22270,
       "word": "跟水瓶座相处需要知性美",
@@ -10025,6 +10145,14 @@
       "onboard_time": 1712687651,
       "rank": 49,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 20351,
+      "num": 136289,
+      "word": "一觉醒来被拉到了霍格沃茨",
+      "onboard_time": 1712719038,
+      "rank": 47,
+      "category": "旅游"
     },
     {
       "raw_hot": 19976,

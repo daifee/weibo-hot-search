@@ -1,6 +1,6 @@
 {
   "startTime": 1711902044401,
-  "endTime": 1712716766066,
+  "endTime": 1712719201426,
   "band_list": [
     {
       "raw_hot": 16874674,
@@ -2187,6 +2187,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 999112,
+      "num": 999112,
+      "word": "林更新片场把赵丽颖亲腿麻了",
+      "onboard_time": 1712717478,
+      "rank": 3,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 995407,
       "num": 995407,
       "word": "重庆女子高空抛子或不承担刑事责任",
@@ -2817,6 +2825,14 @@
       "onboard_time": 1712369839,
       "rank": 30,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 835729,
+      "num": 835729,
+      "word": "鲶鱼须为何备受初中女生追捧",
+      "onboard_time": 1712715558,
+      "rank": 31,
+      "category": "美妆"
     },
     {
       "raw_hot": 834954,
@@ -4465,6 +4481,14 @@
       "onboard_time": 1712158160,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 636644,
+      "num": 463353,
+      "word": "马云内部发帖肯定阿里一年改革",
+      "onboard_time": 1712714599,
+      "rank": 13,
+      "category": "互联网"
     },
     {
       "raw_hot": 636576,
@@ -6131,6 +6155,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 509240,
+      "num": 509240,
+      "word": "哈尔的移动城堡",
+      "onboard_time": 1712716038,
+      "rank": 31,
+      "category": "电影"
+    },
+    {
       "raw_hot": 509078,
       "num": 509078,
       "word": "提灯定损涉事房东被行拘",
@@ -6905,14 +6937,6 @@
       "onboard_time": 1712032041,
       "rank": 17,
       "category": "游戏,艺人"
-    },
-    {
-      "raw_hot": 463353,
-      "num": 463353,
-      "word": "马云内部发帖肯定阿里一年改革",
-      "onboard_time": 1712714599,
-      "rank": 13,
-      "category": "互联网"
     },
     {
       "raw_hot": 461559,
@@ -7971,6 +7995,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 411828,
+      "num": 411828,
+      "word": "快递公司经理泄露国家秘密被拘3日",
+      "onboard_time": 1712714838,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 410973,
       "num": 410973,
       "word": "张婧仪神图的诞生",
@@ -8193,6 +8225,14 @@
       "onboard_time": 1712276297,
       "rank": 13,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 397645,
+      "num": 397645,
+      "word": "陈星旭公主抱迪丽热巴路透",
+      "onboard_time": 1712716639,
+      "rank": 24,
+      "category": "剧集"
     },
     {
       "raw_hot": 397327,
@@ -8707,6 +8747,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 375383,
+      "num": 375383,
+      "word": "TFBOYS还会发新歌吗",
+      "onboard_time": 1712718979,
+      "rank": 16,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 375262,
       "num": 375262,
       "word": "行止要当爸爸了",
@@ -8857,14 +8905,6 @@
       "onboard_time": 1712670200,
       "rank": 13,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 368052,
-      "num": 368052,
-      "word": "快递公司经理泄露国家秘密被拘3日",
-      "onboard_time": 1712714838,
-      "rank": 17,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 367013,
@@ -9265,14 +9305,6 @@
       "onboard_time": 1712043259,
       "rank": 17,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 348063,
-      "num": 292109,
-      "word": "鲶鱼须为何备受初中女生追捧",
-      "onboard_time": 1712715558,
-      "rank": 31,
-      "category": "美妆"
     },
     {
       "raw_hot": 348014,
@@ -10569,6 +10601,14 @@
       "onboard_time": 1712224998,
       "rank": 30,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 302057,
+      "num": 302057,
+      "word": "看舌头的位置就知道是不是口呼吸",
+      "onboard_time": 1712715499,
+      "rank": 45,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 301963,
@@ -12499,14 +12539,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 252127,
-      "num": 252127,
-      "word": "陈星旭公主抱迪丽热巴路透",
-      "onboard_time": 1712716639,
-      "rank": 24,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 251999,
       "num": 251999,
       "word": "WBG战胜LNG",
@@ -14315,6 +14347,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 219832,
+      "num": 219832,
+      "word": "华为盘古大模型首次应用于笔记本",
+      "onboard_time": 1712718438,
+      "rank": 28,
+      "category": "数码"
+    },
+    {
       "raw_hot": 219762,
       "num": 219762,
       "word": "王一博一个大滑铲",
@@ -14377,6 +14417,14 @@
       "onboard_time": 1712235499,
       "rank": 24,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 218875,
+      "num": 218875,
+      "word": "魔兽永劫和好",
+      "onboard_time": 1712716697,
+      "rank": 44,
+      "category": "游戏"
     },
     {
       "raw_hot": 218828,
@@ -14667,14 +14715,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 214581,
-      "num": 214581,
-      "word": "哈尔的移动城堡",
-      "onboard_time": 1712716038,
-      "rank": 31,
-      "category": "电影"
-    },
-    {
       "raw_hot": 214553,
       "num": 233609,
       "word": "教授建议小学低年级免去考试和成绩",
@@ -14785,6 +14825,14 @@
       "onboard_time": 1711905374,
       "rank": 35,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 213367,
+      "num": 213367,
+      "word": "魔兽回归最大受害者",
+      "onboard_time": 1712717959,
+      "rank": 31,
+      "category": "游戏"
     },
     {
       "raw_hot": 213023,
@@ -15371,6 +15419,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 206018,
+      "num": 206018,
+      "word": "暴雪国服招聘",
+      "onboard_time": 1712717360,
+      "rank": 32,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 205980,
       "num": 205980,
       "word": "追风者周姨疯了",
@@ -15393,6 +15449,14 @@
       "onboard_time": 1712323879,
       "rank": 34,
       "category": "社会新闻,自然"
+    },
+    {
+      "raw_hot": 205834,
+      "num": 205834,
+      "word": "千香杀青",
+      "onboard_time": 1712717597,
+      "rank": 33,
+      "category": "剧集"
     },
     {
       "raw_hot": 205800,
@@ -15803,6 +15867,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 202174,
+      "num": 202174,
+      "word": "于适配音宫崎骏男主角",
+      "onboard_time": 1712718498,
+      "rank": 34,
+      "category": "电影"
+    },
+    {
       "raw_hot": 202172,
       "num": 202172,
       "word": "4月第一天",
@@ -16099,6 +16171,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 199615,
+      "num": 199615,
+      "word": "勇士vs湖人",
+      "onboard_time": 1712718137,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 199489,
       "num": 199489,
       "word": "衡门有狐",
@@ -16145,14 +16225,6 @@
       "onboard_time": 1712326699,
       "rank": 48,
       "category": "美妆"
-    },
-    {
-      "raw_hot": 199271,
-      "num": 199271,
-      "word": "看舌头的位置就知道是不是口呼吸",
-      "onboard_time": 1712715499,
-      "rank": 45,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 199259,
@@ -17499,6 +17571,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 188130,
+      "num": 188130,
+      "word": "快船vs太阳",
+      "onboard_time": 1712718018,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 187979,
       "num": 187979,
       "word": "办公室的同事好像从不摸鱼",
@@ -17833,14 +17913,6 @@
       "onboard_time": 1712500820,
       "rank": 38,
       "category": "数码"
-    },
-    {
-      "raw_hot": 185377,
-      "num": 185377,
-      "word": "魔兽永劫和好",
-      "onboard_time": 1712716697,
-      "rank": 44,
-      "category": "游戏"
     },
     {
       "raw_hot": 185128,
@@ -18297,6 +18369,14 @@
       "onboard_time": 1711944863,
       "rank": 46,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 181154,
+      "num": 181154,
+      "word": "上了3天班还剩3天班",
+      "onboard_time": 1712718379,
+      "rank": 40,
+      "category": "情感"
     },
     {
       "raw_hot": 180888,
@@ -21603,6 +21683,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 145606,
+      "num": 139922,
+      "word": "何赛飞演技",
+      "onboard_time": 1712717239,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 145547,
       "num": 145547,
       "word": "新仙剑",
@@ -22115,6 +22203,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 140046,
+      "num": 140046,
+      "word": "白鹿春季刊封面",
+      "onboard_time": 1712717417,
+      "rank": 44,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 140003,
       "num": 140003,
       "word": "海外探源为什么越来越火",
@@ -22531,6 +22627,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 136224,
+      "num": 136224,
+      "word": "用100元在大集上炒了八个菜",
+      "onboard_time": 1712718979,
+      "rank": 48,
+      "category": "美食"
+    },
+    {
       "raw_hot": 136144,
       "num": 136144,
       "word": "陶喆发文找巡演弄丢的戒指",
@@ -22729,6 +22833,14 @@
       "onboard_time": 1712622499,
       "rank": 48,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 134244,
+      "num": 218996,
+      "word": "银行卡90分钟被盗刷283次谁之过",
+      "onboard_time": 1712718077,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 133964,
@@ -26395,6 +26507,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 22319,
+      "num": 391307,
+      "word": "上海展览推荐",
+      "onboard_time": 1712718018,
+      "rank": 14,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 22270,
       "num": 22270,
       "word": "跟水瓶座相处需要知性美",
@@ -26465,6 +26585,14 @@
       "onboard_time": 1712687651,
       "rank": 49,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 20351,
+      "num": 136289,
+      "word": "一觉醒来被拉到了霍格沃茨",
+      "onboard_time": 1712719038,
+      "rank": 47,
+      "category": "旅游"
     },
     {
       "raw_hot": 20228,
