@@ -1,6 +1,6 @@
 {
   "startTime": 1712420539476,
-  "endTime": 1712769324116,
+  "endTime": 1712770459549,
   "band_list": [
     {
       "raw_hot": 9583581,
@@ -12041,6 +12041,14 @@
       "onboard_time": 1712597593,
       "rank": 49,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 40281,
+      "num": 40281,
+      "word": "难寻",
+      "onboard_time": 1712769673,
+      "rank": 41,
+      "category": "剧集"
     },
     {
       "raw_hot": 39863,
