@@ -1,0 +1,410 @@
+{
+  "runTime": 1712716766066,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 6764522,
+        "num": 6764522,
+        "word": "暴雪官宣回归",
+        "onboard_time": 1712711299,
+        "rank": 0,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 1262092,
+        "num": 1262092,
+        "word": "韩国溺水幼童遭11家医院拒收后死亡",
+        "onboard_time": 1712712558,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 44455,
+        "num": 1084708,
+        "word": "长江流域中分布400多种鱼类",
+        "onboard_time": 1712666778,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1016093,
+        "num": 1016093,
+        "word": "张杰住在女生宿舍冉莹颖住在男生宿舍",
+        "onboard_time": 1712711180,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 645145,
+        "num": 645145,
+        "word": "网易暴雪复婚",
+        "onboard_time": 1712711600,
+        "rank": 4,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 578888,
+        "num": 578888,
+        "word": "今天的龙含量好高",
+        "onboard_time": 1712705476,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 556423,
+        "num": 556423,
+        "word": "林更新是增肥拍的与凤行吗",
+        "onboard_time": 1712713217,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 473427,
+        "num": 473427,
+        "word": "女子称买5块雪花酥681元退款被拒",
+        "onboard_time": 1712708420,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 472101,
+        "num": 472101,
+        "word": "IU抢票",
+        "onboard_time": 1712715318,
+        "rank": 8,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 372452,
+        "num": 465666,
+        "word": "福宝把宋宝的魂都带走了",
+        "onboard_time": 1712707039,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 463806,
+        "num": 463806,
+        "word": "暴雪国服玩家数据完整保留",
+        "onboard_time": 1712714838,
+        "rank": 10,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 463353,
+        "num": 463353,
+        "word": "马云内部发帖肯定阿里一年改革",
+        "onboard_time": 1712714599,
+        "rank": 11,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 371375,
+        "num": 371375,
+        "word": "隐瞒家人复读一年成功上岸",
+        "onboard_time": 1712704516,
+        "rank": 12,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 368052,
+        "num": 368052,
+        "word": "快递公司经理泄露国家秘密被拘3日",
+        "onboard_time": 1712714838,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 356672,
+        "num": 356672,
+        "word": "入住不到2个月发现租到串串房",
+        "onboard_time": 1712710099,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 352639,
+        "num": 352639,
+        "word": "A股",
+        "onboard_time": 1712714720,
+        "rank": 15,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 346070,
+        "num": 346070,
+        "word": "家里卤猪蹄太好吃被我申上了非遗",
+        "onboard_time": 1712710760,
+        "rank": 16,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 300202,
+        "num": 300202,
+        "word": "福宝",
+        "onboard_time": 1712711600,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 297054,
+        "num": 297054,
+        "word": "吴卓羲也找不到徐子珊",
+        "onboard_time": 1712713457,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 292826,
+        "num": 292826,
+        "word": "赵丽颖发图顺序",
+        "onboard_time": 1712703976,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 348063,
+        "num": 292109,
+        "word": "鲶鱼须为何备受初中女生追捧",
+        "onboard_time": 1712715558,
+        "rank": 20,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 289578,
+        "num": 289578,
+        "word": "yamy 淘汰",
+        "onboard_time": 1712677459,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 284340,
+        "num": 284340,
+        "word": "杨紫选剧眼光",
+        "onboard_time": 1712715378,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 261469,
+        "num": 261469,
+        "word": "28岁女子怀孕其妈妈喜极而泣",
+        "onboard_time": 1712683333,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 252127,
+        "num": 252127,
+        "word": "陈星旭公主抱迪丽热巴路透",
+        "onboard_time": 1712716639,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 245982,
+        "num": 245982,
+        "word": "入职高校行政岗后滤镜碎了",
+        "onboard_time": 1712708361,
+        "rank": 25,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 234581,
+        "num": 234581,
+        "word": "年纪轻轻喜欢上老年人的生活",
+        "onboard_time": 1712712499,
+        "rank": 26,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 228387,
+        "num": 228387,
+        "word": "抢不到娃的幼儿园开始托老",
+        "onboard_time": 1712712739,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 225472,
+        "num": 225472,
+        "word": "种地吧直播",
+        "onboard_time": 1712714899,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 127213,
+        "num": 219087,
+        "word": "中国好书3月推荐书目",
+        "onboard_time": 1712715799,
+        "rank": 29,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 215812,
+        "num": 215812,
+        "word": "守望先锋 复活",
+        "onboard_time": 1712713400,
+        "rank": 30,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 214581,
+        "num": 214581,
+        "word": "哈尔的移动城堡",
+        "onboard_time": 1712716038,
+        "rank": 31,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 214198,
+        "num": 214198,
+        "word": "同一批人被赵丽颖林更新虐了两次",
+        "onboard_time": 1712716278,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 214182,
+        "num": 214182,
+        "word": "爸爸开家长会睡着女儿将其写进作文",
+        "onboard_time": 1712694850,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 207701,
+        "num": 207701,
+        "word": "王一博海口",
+        "onboard_time": 1712709500,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 205255,
+        "num": 205255,
+        "word": "环球音乐与时代峰峻战略合作",
+        "onboard_time": 1712715858,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 204325,
+        "num": 204325,
+        "word": "炉石传说回来了",
+        "onboard_time": 1712713939,
+        "rank": 36,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 202143,
+        "num": 202143,
+        "word": "风暴英雄呢",
+        "onboard_time": 1712715378,
+        "rank": 37,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 200795,
+        "num": 200795,
+        "word": "河南省考成绩",
+        "onboard_time": 1712711600,
+        "rank": 38,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 199271,
+        "num": 199271,
+        "word": "看舌头的位置就知道是不是口呼吸",
+        "onboard_time": 1712715499,
+        "rank": 39,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 192055,
+        "num": 192055,
+        "word": "90后妈妈想去深圳打工给家里修房",
+        "onboard_time": 1712715979,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 190252,
+        "num": 190252,
+        "word": "时代少年团特权码",
+        "onboard_time": 1712715979,
+        "rank": 41,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 188364,
+        "num": 188364,
+        "word": "暴雪",
+        "onboard_time": 1712671819,
+        "rank": 42,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 185974,
+        "num": 185974,
+        "word": "杨紫瘦了好多",
+        "onboard_time": 1712674099,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 185377,
+        "num": 185377,
+        "word": "魔兽永劫和好",
+        "onboard_time": 1712716697,
+        "rank": 44,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 176017,
+        "num": 176017,
+        "word": "魔兽账号没丢",
+        "onboard_time": 1712715738,
+        "rank": 45,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 171742,
+        "num": 171742,
+        "word": "电影朝云暮雨定档",
+        "onboard_time": 1712714118,
+        "rank": 46,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 165143,
+        "num": 165143,
+        "word": "男朋友陪考裸考比我学一个月考的高",
+        "onboard_time": 1712708060,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 160488,
+        "num": 160488,
+        "word": "字母哥受伤",
+        "onboard_time": 1712714118,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 147686,
+        "num": 147686,
+        "word": "小丑2首支预告",
+        "onboard_time": 1712715079,
+        "rank": 49,
+        "category": "电影"
+      }
+    ],
+    "hotgov": {
+      "word": "#中巴两党第七届理论研讨会#"
+    }
+  }
+}
