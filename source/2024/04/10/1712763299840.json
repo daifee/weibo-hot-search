@@ -1,0 +1,410 @@
+{
+  "runTime": 1712763299840,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3822659,
+        "num": 3822659,
+        "word": "赵丽颖拍林更新",
+        "onboard_time": 1712756718,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1435631,
+        "num": 1435631,
+        "word": "阿克苏地震",
+        "onboard_time": 1712761821,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 143638,
+        "num": 1078193,
+        "word": "龙年龙月龙日雪龙号归来",
+        "onboard_time": 1712758100,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 929578,
+        "num": 929578,
+        "word": "陈都灵恭喜考研上岸粉丝",
+        "onboard_time": 1712758459,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 841067,
+        "num": 841067,
+        "word": "新颖夫妇",
+        "onboard_time": 1712760682,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 838492,
+        "num": 838492,
+        "word": "沈月 我身边找不到在谈恋爱的人了",
+        "onboard_time": 1712761400,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 608427,
+        "num": 608427,
+        "word": "林更新宇宙",
+        "onboard_time": 1712757199,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 466205,
+        "num": 466205,
+        "word": "怎么避免被别人视奸",
+        "onboard_time": 1712754559,
+        "rank": 7,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 434659,
+        "num": 434659,
+        "word": "北邮为郑某所指导学生调换导师",
+        "onboard_time": 1712761340,
+        "rank": 8,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 265075,
+        "num": 434488,
+        "word": "福宝大口吃胡萝卜声音嘎嘣脆",
+        "onboard_time": 1712745078,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1578144,
+        "num": 428228,
+        "word": "北邮通报学生联名举报导师事件",
+        "onboard_time": 1712759539,
+        "rank": 10,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 1562937,
+        "num": 425809,
+        "word": "北邮决定取消郑某研究生导师资格",
+        "onboard_time": 1712760141,
+        "rank": 11,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 979646,
+        "num": 424058,
+        "word": "林更新cover女孩",
+        "onboard_time": 1712755398,
+        "rank": 12,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 470903,
+        "num": 419362,
+        "word": "仝卓工作室实名举报高源涉嫌偷税漏税",
+        "onboard_time": 1712750297,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 418431,
+        "num": 418431,
+        "word": "热辣滚烫最终票房34.6亿",
+        "onboard_time": 1712752458,
+        "rank": 14,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 370732,
+        "num": 370732,
+        "word": "烟台一海滩为开演唱会被浇灌混凝土",
+        "onboard_time": 1712753419,
+        "rank": 15,
+        "category": "社会新闻,演出"
+      },
+      {
+        "raw_hot": 355815,
+        "num": 355815,
+        "word": "肖战小括号",
+        "onboard_time": 1712755459,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 335870,
+        "num": 335870,
+        "word": "王腾送出雷军奖励的小米SU7",
+        "onboard_time": 1712757920,
+        "rank": 17,
+        "category": "汽车,互联网"
+      },
+      {
+        "raw_hot": 329215,
+        "num": 329215,
+        "word": "赵丽颖持枪剧照",
+        "onboard_time": 1712758219,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 244957,
+        "num": 311945,
+        "word": "有人卖出5公斤黄金变现270多万",
+        "onboard_time": 1712750357,
+        "rank": 19,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 393470,
+        "num": 311003,
+        "word": "五六十万存款可以回小县城躺平吗",
+        "onboard_time": 1712749999,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 297170,
+        "num": 297170,
+        "word": "为什么建议你23点一定要睡觉",
+        "onboard_time": 1712754679,
+        "rank": 21,
+        "category": "健康医疗,科学科普"
+      },
+      {
+        "raw_hot": 283725,
+        "num": 283725,
+        "word": "金娘子唱年轮",
+        "onboard_time": 1712760921,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 266050,
+        "num": 266050,
+        "word": "为什么爱了很久还是会分开",
+        "onboard_time": 1712761880,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 261372,
+        "num": 261372,
+        "word": "承欢记看的人血压上来了",
+        "onboard_time": 1712757140,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 248104,
+        "num": 248104,
+        "word": "成毅舞伞",
+        "onboard_time": 1712761580,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 242957,
+        "num": 242957,
+        "word": "王鹤棣的世界是个巨大的哈圈",
+        "onboard_time": 1712760080,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 230341,
+        "num": 230341,
+        "word": "当地回应为开演唱会海滩被浇灌混凝土",
+        "onboard_time": 1712756420,
+        "rank": 27,
+        "category": "社会新闻,演出"
+      },
+      {
+        "raw_hot": 221976,
+        "num": 221976,
+        "word": "7天戒掉了熬夜让自己6点起床",
+        "onboard_time": 1712746759,
+        "rank": 28,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 219559,
+        "num": 219559,
+        "word": "中医建议放下这些脾胃就恢复80%了",
+        "onboard_time": 1712748497,
+        "rank": 29,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 208990,
+        "num": 208990,
+        "word": "中国与格鲁吉亚签署互免签证协定",
+        "onboard_time": 1712760921,
+        "rank": 30,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 208208,
+        "num": 208208,
+        "word": "癌症发生前身体的预警信号",
+        "onboard_time": 1712746398,
+        "rank": 31,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 204821,
+        "num": 204821,
+        "word": "MISSING赛后落泪",
+        "onboard_time": 1712761040,
+        "rank": 32,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 201674,
+        "num": 201674,
+        "word": "ALin 有一种悲伤",
+        "onboard_time": 1712760739,
+        "rank": 33,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 188005,
+        "num": 188005,
+        "word": "林俊杰南昌",
+        "onboard_time": 1712761160,
+        "rank": 34,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 187319,
+        "num": 187319,
+        "word": "用鸡柳骗回家的流浪狗一年的变化",
+        "onboard_time": 1712757920,
+        "rank": 35,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 182335,
+        "num": 182335,
+        "word": "秦岚娜扎花少出发",
+        "onboard_time": 1712753119,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 172700,
+        "num": 172700,
+        "word": "猫眼大人我求你了",
+        "onboard_time": 1712758940,
+        "rank": 37,
+        "category": "互联网,演出"
+      },
+      {
+        "raw_hot": 161450,
+        "num": 161450,
+        "word": "黄金",
+        "onboard_time": 1712760859,
+        "rank": 38,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 158411,
+        "num": 158411,
+        "word": "福建立法规定妻子可查询配偶财产",
+        "onboard_time": 1712743399,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 145505,
+        "num": 145505,
+        "word": "蒋敦豪 看我蜂情万种",
+        "onboard_time": 1712757558,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 143577,
+        "num": 143577,
+        "word": "Rookie尽力了",
+        "onboard_time": 1712754319,
+        "rank": 41,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 133295,
+        "num": 133295,
+        "word": "王者荣耀个性小兵",
+        "onboard_time": 1712751977,
+        "rank": 42,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 130317,
+        "num": 130317,
+        "word": "巴黎vs巴萨",
+        "onboard_time": 1712761281,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 129534,
+        "num": 129534,
+        "word": "承欢记",
+        "onboard_time": 1712757020,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 129474,
+        "num": 129474,
+        "word": "王凯方回应被讨债",
+        "onboard_time": 1712742498,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 123554,
+        "num": 123554,
+        "word": "王一博表情包",
+        "onboard_time": 1712754260,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 120306,
+        "num": 120306,
+        "word": "广西明天放三月三假不调休",
+        "onboard_time": 1712755938,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 119826,
+        "num": 119826,
+        "word": "时代少年团演唱会 特权码",
+        "onboard_time": 1712754019,
+        "rank": 48,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 115900,
+        "num": 115900,
+        "word": "王者荣耀",
+        "onboard_time": 1712759119,
+        "rank": 49,
+        "category": "电竞"
+      }
+    ],
+    "hotgov": {
+      "word": "#外部的干涉阻挡不了家国团圆的历史大势#"
+    }
+  }
+}
