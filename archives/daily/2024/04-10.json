@@ -1,7 +1,23 @@
 {
   "startTime": 1712679647281,
-  "endTime": 1712711537005,
+  "endTime": 1712712701514,
   "band_list": [
+    {
+      "raw_hot": 4948569,
+      "num": 4948569,
+      "word": "暴雪官宣回归",
+      "onboard_time": 1712711299,
+      "rank": 3,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 2705906,
+      "num": 2705906,
+      "word": "网易暴雪复婚",
+      "onboard_time": 1712711600,
+      "rank": 1,
+      "category": "游戏"
+    },
     {
       "raw_hot": 2108953,
       "num": 2108953,
@@ -9,6 +25,14 @@
       "onboard_time": 1712705476,
       "rank": 25,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1219356,
+      "num": 1219356,
+      "word": "暴雪",
+      "onboard_time": 1712671819,
+      "rank": 32,
+      "category": "游戏"
     },
     {
       "raw_hot": 1207845,
@@ -35,12 +59,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 986944,
-      "num": 986944,
-      "word": "暴雪官宣回归",
-      "onboard_time": 1712711299,
-      "rank": 3,
-      "category": "游戏"
+      "raw_hot": 1025133,
+      "num": 1025133,
+      "word": "女子称买5块雪花酥681元退款被拒",
+      "onboard_time": 1712708420,
+      "rank": 6,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 978848,
@@ -49,22 +73,6 @@
       "onboard_time": 1712708361,
       "rank": 4,
       "category": "教育"
-    },
-    {
-      "raw_hot": 973693,
-      "num": 973693,
-      "word": "暴雪",
-      "onboard_time": 1712671819,
-      "rank": 32,
-      "category": "游戏"
-    },
-    {
-      "raw_hot": 950589,
-      "num": 950589,
-      "word": "女子称买5块雪花酥681元退款被拒",
-      "onboard_time": 1712708420,
-      "rank": 6,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 762582,
@@ -83,6 +91,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 733916,
+      "num": 733916,
+      "word": "张杰住在女生宿舍冉莹颖住在男生宿舍",
+      "onboard_time": 1712711180,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 720261,
       "num": 720261,
       "word": "赵丽颖发图顺序",
@@ -96,6 +112,14 @@
       "word": "男子要求每天加夜班民警察觉不对劲抓捕一名逃犯",
       "onboard_time": 1712695450,
       "rank": 26,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 699251,
+      "num": 699251,
+      "word": "入住不到2个月发现租到串串房",
+      "onboard_time": 1712710099,
+      "rank": 16,
       "category": "社会新闻"
     },
     {
@@ -113,6 +137,14 @@
       "onboard_time": 1712674099,
       "rank": 4,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 594493,
+      "num": 594493,
+      "word": "河南省考成绩",
+      "onboard_time": 1712711600,
+      "rank": 12,
+      "category": "教育"
     },
     {
       "raw_hot": 588605,
@@ -171,20 +203,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 427856,
+      "num": 427856,
+      "word": "家里卤猪蹄太好吃被我申上了非遗",
+      "onboard_time": 1712710760,
+      "rank": 24,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 423461,
+      "num": 423461,
+      "word": "福宝",
+      "onboard_time": 1712711600,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 400344,
       "num": 400344,
       "word": "刘忻张予曦牵手过马路",
       "onboard_time": 1712680697,
       "rank": 4,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 391672,
-      "num": 391672,
-      "word": "入住不到2个月发现租到串串房",
-      "onboard_time": 1712710099,
-      "rank": 16,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 390449,
@@ -235,14 +275,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 302945,
-      "num": 302945,
-      "word": "家里卤猪蹄太好吃被我申上了非遗",
-      "onboard_time": 1712710760,
-      "rank": 24,
-      "category": "美食"
-    },
-    {
       "raw_hot": 298393,
       "num": 298393,
       "word": "高合",
@@ -259,19 +291,19 @@
       "category": "科学科普"
     },
     {
-      "raw_hot": 287646,
-      "num": 239419,
-      "word": "张杰住在女生宿舍冉莹颖住在男生宿舍",
-      "onboard_time": 1712711180,
-      "rank": 30,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 277501,
       "num": 277501,
       "word": "代号鸢",
       "onboard_time": 1712709020,
       "rank": 26,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 262400,
+      "num": 262400,
+      "word": "魔兽世界 启动",
+      "onboard_time": 1712712198,
+      "rank": 27,
       "category": "游戏"
     },
     {
@@ -281,6 +313,22 @@
       "onboard_time": 1712707099,
       "rank": 27,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 255180,
+      "num": 255180,
+      "word": "网易暴雪合作新变化",
+      "onboard_time": 1712711239,
+      "rank": 30,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 254061,
+      "num": 254061,
+      "word": "韩国溺水幼童遭11家医院拒收后死亡",
+      "onboard_time": 1712712558,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 250228,
@@ -347,6 +395,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 217381,
+      "num": 217381,
+      "word": "承欢记 当众求婚是一种道德绑架",
+      "onboard_time": 1712711299,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 217262,
       "num": 217262,
       "word": "导演把与凤行吻戏给刘宇宁当教材",
@@ -377,6 +433,14 @@
       "onboard_time": 1712691250,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 207114,
+      "num": 207114,
+      "word": "猎鹰特战女兵有多飒",
+      "onboard_time": 1712712619,
+      "rank": 37,
+      "category": "军事"
     },
     {
       "raw_hot": 205701,
@@ -427,12 +491,36 @@
       "category": "体育"
     },
     {
+      "raw_hot": 187509,
+      "num": 187509,
+      "word": "不背单词崩了",
+      "onboard_time": 1712711119,
+      "rank": 44,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 186511,
+      "num": 186511,
+      "word": "国服暴雪或本周官宣回归",
+      "onboard_time": 1712711900,
+      "rank": 41,
+      "category": "游戏,互联网"
+    },
+    {
       "raw_hot": 182105,
       "num": 174754,
       "word": "经常熬夜的六个好处",
       "onboard_time": 1712664738,
       "rank": 21,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 180855,
+      "num": 180855,
+      "word": "杨幂 CL",
+      "onboard_time": 1712683034,
+      "rank": 11,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 179437,
@@ -449,14 +537,6 @@
       "onboard_time": 1712677159,
       "rank": 20,
       "category": "艺人,游戏"
-    },
-    {
-      "raw_hot": 173849,
-      "num": 173849,
-      "word": "承欢记 当众求婚是一种道德绑架",
-      "onboard_time": 1712711299,
-      "rank": 38,
-      "category": "剧集"
     },
     {
       "raw_hot": 173788,
@@ -489,14 +569,6 @@
       "onboard_time": 1712668638,
       "rank": 23,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 168010,
-      "num": 168010,
-      "word": "杨幂 CL",
-      "onboard_time": 1712683034,
-      "rank": 11,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 166090,
@@ -547,20 +619,28 @@
       "category": "美妆"
     },
     {
-      "raw_hot": 155237,
-      "num": 155237,
-      "word": "不背单词崩了",
-      "onboard_time": 1712711119,
-      "rank": 44,
-      "category": "教育"
-    },
-    {
       "raw_hot": 154402,
       "num": 154402,
       "word": "小米提醒不可魔改升级SU7车机硬件",
       "onboard_time": 1712706258,
       "rank": 45,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 152548,
+      "num": 152548,
+      "word": "年纪轻轻喜欢上老年人的生活",
+      "onboard_time": 1712712499,
+      "rank": 47,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 151605,
+      "num": 151605,
+      "word": "承欢记 你的强来了",
+      "onboard_time": 1712712440,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 148968,
@@ -780,7 +860,7 @@
     },
     {
       "raw_hot": 75341,
-      "num": 1088596,
+      "num": 1900377,
       "word": "长江流域中分布400多种鱼类",
       "onboard_time": 1712666778,
       "rank": 2,
