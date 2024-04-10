@@ -1,6 +1,6 @@
 {
   "startTime": 1712679647281,
-  "endTime": 1712738231132,
+  "endTime": 1712740793992,
   "band_list": [
     {
       "raw_hot": 7494354,
@@ -89,6 +89,14 @@
       "onboard_time": 1712726539,
       "rank": 23,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 1158036,
+      "num": 501625,
+      "word": "气血不足很难瘦",
+      "onboard_time": 1712738658,
+      "rank": 3,
+      "category": "运动健身"
     },
     {
       "raw_hot": 1126395,
@@ -195,6 +203,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 822134,
+      "num": 822134,
+      "word": "老板1个月转账近5万给翘班员工",
+      "onboard_time": 1712739259,
+      "rank": 0,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 819235,
       "num": 710916,
       "word": "陈泽 巴旦木",
@@ -297,6 +313,22 @@
       "onboard_time": 1712675660,
       "rank": 3,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 685674,
+      "num": 685674,
+      "word": "任敏 有李现我是真服气",
+      "onboard_time": 1712736918,
+      "rank": 21,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 659948,
+      "num": 276560,
+      "word": "才知道51岁的妈妈没买社保",
+      "onboard_time": 1712739317,
+      "rank": 20,
+      "category": "情感"
     },
     {
       "raw_hot": 650237,
@@ -411,6 +443,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 498919,
+      "num": 498919,
+      "word": "安徽省考成绩",
+      "onboard_time": 1712740399,
+      "rank": 4,
+      "category": "教育"
+    },
+    {
       "raw_hot": 493181,
       "num": 493181,
       "word": "王一博拍戏肿了好大一个包",
@@ -425,6 +465,14 @@
       "onboard_time": 1712709500,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 491583,
+      "num": 491583,
+      "word": "海南岛西南海域商渔船碰撞8人遇难",
+      "onboard_time": 1712738717,
+      "rank": 7,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 472101,
@@ -523,14 +571,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 409558,
-      "num": 409558,
-      "word": "任敏 有李现我是真服气",
-      "onboard_time": 1712736918,
-      "rank": 21,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 400344,
       "num": 400344,
       "word": "刘忻张予曦牵手过马路",
@@ -560,6 +600,14 @@
       "word": "白鹿曾舜晞全妆路透",
       "onboard_time": 1712733617,
       "rank": 19,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 379820,
+      "num": 379820,
+      "word": "千香引把鞠婧祎名字打错了",
+      "onboard_time": 1712737459,
+      "rank": 31,
       "category": "剧集"
     },
     {
@@ -633,6 +681,14 @@
       "onboard_time": 1712734219,
       "rank": 22,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 346645,
+      "num": 346645,
+      "word": "黄金大涨后白银也被买断货了",
+      "onboard_time": 1712736798,
+      "rank": 34,
+      "category": "财经"
     },
     {
       "raw_hot": 330425,
@@ -755,6 +811,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 289283,
+      "num": 275719,
+      "word": "费曼新简介",
+      "onboard_time": 1712738598,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 287147,
       "num": 287147,
       "word": "年纪轻轻喜欢上老年人的生活",
@@ -867,6 +931,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 254987,
+      "num": 254987,
+      "word": "暴雪全家桶回归次序",
+      "onboard_time": 1712739619,
+      "rank": 23,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 250228,
       "num": 250228,
       "word": "20岁生孩子和30岁生孩子有何区别",
@@ -913,6 +985,14 @@
       "onboard_time": 1712711239,
       "rank": 29,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 237194,
+      "num": 237194,
+      "word": "白鹿露肩裙",
+      "onboard_time": 1712739978,
+      "rank": 24,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 235360,
@@ -985,6 +1065,14 @@
       "onboard_time": 1712723359,
       "rank": 38,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 222071,
+      "num": 222071,
+      "word": "理发才是中国唯一合法的赌博",
+      "onboard_time": 1712737578,
+      "rank": 24,
+      "category": "幽默"
     },
     {
       "raw_hot": 220198,
@@ -1081,14 +1169,6 @@
       "onboard_time": 1712691250,
       "rank": 49,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 211315,
-      "num": 211315,
-      "word": "千香引把鞠婧祎名字打错了",
-      "onboard_time": 1712737459,
-      "rank": 31,
-      "category": "剧集"
     },
     {
       "raw_hot": 209618,
@@ -1211,14 +1291,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 202587,
-      "num": 202587,
-      "word": "理发才是中国唯一合法的赌博",
-      "onboard_time": 1712737578,
-      "rank": 24,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 202174,
       "num": 202174,
       "word": "于适配音宫崎骏男主角",
@@ -1265,6 +1337,14 @@
       "onboard_time": 1712715979,
       "rank": 41,
       "category": "演出"
+    },
+    {
+      "raw_hot": 199189,
+      "num": 199189,
+      "word": "杨紫台湾腔走戏",
+      "onboard_time": 1712738478,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 198974,
@@ -1419,14 +1499,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 181226,
-      "num": 181226,
-      "word": "黄金大涨后白银也被买断货了",
-      "onboard_time": 1712736798,
-      "rank": 34,
-      "category": "财经"
-    },
-    {
       "raw_hot": 180855,
       "num": 180855,
       "word": "杨幂 CL",
@@ -1449,6 +1521,14 @@
       "onboard_time": 1712715738,
       "rank": 42,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 178409,
+      "num": 178409,
+      "word": "我妈嫁给我爸的原因",
+      "onboard_time": 1712739619,
+      "rank": 30,
+      "category": "情感"
     },
     {
       "raw_hot": 176470,
@@ -1651,6 +1731,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 156826,
+      "num": 156826,
+      "word": "种地吧究竟在种什么",
+      "onboard_time": 1712738058,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 156598,
       "num": 156384,
       "word": "韩国变美四件套",
@@ -1689,6 +1777,14 @@
       "onboard_time": 1712735537,
       "rank": 36,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 152894,
+      "num": 152894,
+      "word": "怀孕期间什么能做什么不能做",
+      "onboard_time": 1712740278,
+      "rank": 37,
+      "category": "母婴育儿,健康医疗"
     },
     {
       "raw_hot": 151770,
@@ -1787,14 +1883,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 138551,
-      "num": 138551,
-      "word": "种地吧究竟在种什么",
-      "onboard_time": 1712738058,
-      "rank": 40,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 137846,
       "num": 137846,
       "word": "肖战作品",
@@ -1811,12 +1899,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 136630,
+      "num": 136630,
+      "word": "这猫怎么什么都养啊",
+      "onboard_time": 1712739919,
+      "rank": 39,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 135165,
       "num": 135165,
       "word": "永劫无间",
       "onboard_time": 1712719698,
       "rank": 47,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 132587,
+      "num": 132587,
+      "word": "林更新的表情管理",
+      "onboard_time": 1712739619,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 129082,
@@ -1875,6 +1979,30 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 122693,
+      "num": 122693,
+      "word": "我爸不愿意被叫外公",
+      "onboard_time": 1712740758,
+      "rank": 41,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 121254,
+      "num": 121254,
+      "word": "办公室mbti标语",
+      "onboard_time": 1712740218,
+      "rank": 42,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 120034,
+      "num": 120034,
+      "word": "女子花椒呛喉推开家人海姆立克法自救",
+      "onboard_time": 1712740218,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 117490,
       "num": 117490,
       "word": "河北省考 什么时候出",
@@ -1891,6 +2019,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 112588,
+      "num": 112588,
+      "word": "男人老了的标准是是什么",
+      "onboard_time": 1712739078,
+      "rank": 45,
+      "category": "情感"
+    },
+    {
       "raw_hot": 112569,
       "num": 112569,
       "word": "眼泪女王 海仁与婆婆",
@@ -1905,6 +2041,30 @@
       "onboard_time": 1712665400,
       "rank": 39,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 107797,
+      "num": 107797,
+      "word": "多平台银条被抢断货",
+      "onboard_time": 1712739919,
+      "rank": 47,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 105488,
+      "num": 105488,
+      "word": "不管什么物种上班都会困",
+      "onboard_time": 1712740218,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 103151,
+      "num": 103151,
+      "word": "安徽省考成绩还不出",
+      "onboard_time": 1712739557,
+      "rank": 49,
+      "category": "教育"
     },
     {
       "raw_hot": 102890,
