@@ -1,0 +1,410 @@
+{
+  "runTime": 1712791135991,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 663067,
+        "num": 663067,
+        "word": "赵丽颖拍林更新",
+        "onboard_time": 1712756718,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 481732,
+        "num": 481732,
+        "word": "短剧放大夫妻婆媳矛盾6部被禁",
+        "onboard_time": 1712765478,
+        "rank": 1,
+        "category": "剧集,社会新闻"
+      },
+      {
+        "raw_hot": 129654,
+        "num": 339548,
+        "word": "我国电力系统充电宝创多项世界纪录",
+        "onboard_time": 1712757621,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 309667,
+        "num": 309667,
+        "word": "有人卖出5公斤黄金变现270多万",
+        "onboard_time": 1712750357,
+        "rank": 3,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 254109,
+        "num": 254109,
+        "word": "沈月 我身边找不到在谈恋爱的人了",
+        "onboard_time": 1712761400,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 251879,
+        "num": 251879,
+        "word": "主持人cue肖战居中梗",
+        "onboard_time": 1712784311,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 247195,
+        "num": 247195,
+        "word": "中医建议放下这些脾胃就恢复80%了",
+        "onboard_time": 1712748497,
+        "rank": 6,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 91587,
+        "num": 191067,
+        "word": "福宝最新视频炫饭嘎嘎香",
+        "onboard_time": 1712755639,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 170571,
+        "num": 170571,
+        "word": "巴黎vs巴萨",
+        "onboard_time": 1712761281,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 91040,
+        "num": 170571,
+        "word": "福宝大口吃胡萝卜声音嘎嘣脆",
+        "onboard_time": 1712745078,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 580922,
+        "num": 170554,
+        "word": "情夫死后小三用冷冻胚胎生子争遗产",
+        "onboard_time": 1712770872,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 357121,
+        "num": 170543,
+        "word": "仝卓工作室实名举报高源涉嫌偷税漏税",
+        "onboard_time": 1712750297,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 227097,
+        "num": 170522,
+        "word": "林更新cover女孩",
+        "onboard_time": 1712755398,
+        "rank": 12,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 170521,
+        "num": 170521,
+        "word": "承欢记 伪骨科",
+        "onboard_time": 1712771053,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 149653,
+        "num": 149653,
+        "word": "故宫偶遇王心凌",
+        "onboard_time": 1712776691,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 118158,
+        "num": 118158,
+        "word": "新颖夫妇",
+        "onboard_time": 1712760682,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 104345,
+        "num": 104345,
+        "word": "陈都灵恭喜考研上岸粉丝",
+        "onboard_time": 1712758459,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 103451,
+        "num": 103451,
+        "word": "怎么避免被别人视奸",
+        "onboard_time": 1712754559,
+        "rank": 17,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 88105,
+        "num": 88105,
+        "word": "阿克苏地震",
+        "onboard_time": 1712761821,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 85244,
+        "num": 85244,
+        "word": "癌症发生前身体的预警信号",
+        "onboard_time": 1712746398,
+        "rank": 19,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 204433,
+        "num": 85216,
+        "word": "五六十万存款可以回小县城躺平吗",
+        "onboard_time": 1712749999,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 201234,
+        "num": 85166,
+        "word": "研究发现年轻人加速衰老",
+        "onboard_time": 1712786892,
+        "rank": 21,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 141510,
+        "num": 85125,
+        "word": "为什么建议你23点一定要睡觉",
+        "onboard_time": 1712754679,
+        "rank": 22,
+        "category": "健康医疗,科学科普"
+      },
+      {
+        "raw_hot": 136787,
+        "num": 85051,
+        "word": "别再乱用红霉素软膏和红霉素眼膏",
+        "onboard_time": 1712790193,
+        "rank": 23,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 112457,
+        "num": 85006,
+        "word": "湖北一公职人员殴打酒店老板称副市长跟我平级",
+        "onboard_time": 1712790314,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 99460,
+        "num": 84972,
+        "word": "肖战王玉雯超星星学园旧照",
+        "onboard_time": 1712782390,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 90098,
+        "num": 84893,
+        "word": "成毅舞伞",
+        "onboard_time": 1712761580,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 84876,
+        "num": 84876,
+        "word": "林更新宇宙",
+        "onboard_time": 1712757199,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 83489,
+        "num": 83489,
+        "word": "王鹤棣的世界是个巨大的哈圈",
+        "onboard_time": 1712760080,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 55094,
+        "num": 83406,
+        "word": "医生建议这些人一定要吃夜宵",
+        "onboard_time": 1712773451,
+        "rank": 29,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 83333,
+        "num": 83333,
+        "word": "1岁半萌娃在家攀岩练出背肌",
+        "onboard_time": 1712787551,
+        "rank": 30,
+        "category": "母婴育儿,运动健身"
+      },
+      {
+        "raw_hot": 75809,
+        "num": 75809,
+        "word": "郑合惠子的体重",
+        "onboard_time": 1712774292,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 75268,
+        "num": 75268,
+        "word": "肖战小括号",
+        "onboard_time": 1712755459,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 72867,
+        "num": 72867,
+        "word": "马竞vs多特蒙德",
+        "onboard_time": 1712768295,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 72681,
+        "num": 72681,
+        "word": "热辣滚烫最终票房34.6亿",
+        "onboard_time": 1712752458,
+        "rank": 34,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 72243,
+        "num": 72243,
+        "word": "7天戒掉了熬夜让自己6点起床",
+        "onboard_time": 1712746759,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 65186,
+        "num": 65186,
+        "word": "井柏然腹肌偷偷藏不住",
+        "onboard_time": 1712788693,
+        "rank": 36,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 60417,
+        "num": 60417,
+        "word": "秦岚娜扎花少出发",
+        "onboard_time": 1712753119,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 60149,
+        "num": 60149,
+        "word": "欧冠",
+        "onboard_time": 1712767277,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 58722,
+        "num": 58722,
+        "word": "为什么爱了很久还是会分开",
+        "onboard_time": 1712761880,
+        "rank": 39,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 58308,
+        "num": 58308,
+        "word": "巴黎2比3巴萨",
+        "onboard_time": 1712790974,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 55633,
+        "num": 55633,
+        "word": "王腾送出雷军奖励的小米SU7",
+        "onboard_time": 1712757920,
+        "rank": 41,
+        "category": "汽车,互联网"
+      },
+      {
+        "raw_hot": 51192,
+        "num": 51192,
+        "word": "王一博表情包",
+        "onboard_time": 1712754260,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 50755,
+        "num": 50755,
+        "word": "photic",
+        "onboard_time": 1712764277,
+        "rank": 43,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 49073,
+        "num": 49073,
+        "word": "苗苗粉色小香",
+        "onboard_time": 1712785630,
+        "rank": 44,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 48920,
+        "num": 48920,
+        "word": "周淑怡cos女高中生",
+        "onboard_time": 1712766795,
+        "rank": 45,
+        "category": "电竞,网红"
+      },
+      {
+        "raw_hot": 48474,
+        "num": 48474,
+        "word": "许凯的罗伯特叫许凯猪包",
+        "onboard_time": 1712784910,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 47771,
+        "num": 47771,
+        "word": "王者荣耀个性小兵",
+        "onboard_time": 1712751977,
+        "rank": 47,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 44838,
+        "num": 44838,
+        "word": "眼泪女王 拧巴",
+        "onboard_time": 1712780951,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 41257,
+        "num": 44837,
+        "word": "中国与格鲁吉亚签署互免签证协定",
+        "onboard_time": 1712760921,
+        "rank": 49,
+        "category": "国内时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#让农民用最好的技术种出最好的粮食#"
+    }
+  }
+}
