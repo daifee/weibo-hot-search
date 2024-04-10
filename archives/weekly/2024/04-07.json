@@ -1,6 +1,6 @@
 {
   "startTime": 1712420539476,
-  "endTime": 1712767172421,
+  "endTime": 1712769324116,
   "band_list": [
     {
       "raw_hot": 9583581,
@@ -5603,6 +5603,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 254278,
+      "num": 254278,
+      "word": "短剧放大夫妻婆媳矛盾6部被禁",
+      "onboard_time": 1712765478,
+      "rank": 25,
+      "category": "剧集,社会新闻"
+    },
+    {
       "raw_hot": 253907,
       "num": 253907,
       "word": "川航的小零食越来越抽象了",
@@ -6049,14 +6057,6 @@
       "onboard_time": 1712533576,
       "rank": 24,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 238707,
-      "num": 238707,
-      "word": "短剧放大夫妻婆媳矛盾6部被禁",
-      "onboard_time": 1712765478,
-      "rank": 25,
-      "category": "剧集,社会新闻"
     },
     {
       "raw_hot": 238647,
@@ -7209,6 +7209,14 @@
       "onboard_time": 1712730079,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 204247,
+      "num": 149918,
+      "word": "赵丽颖给林更新贴条",
+      "onboard_time": 1712768894,
+      "rank": 15,
+      "category": "剧集"
     },
     {
       "raw_hot": 204150,
@@ -8665,6 +8673,14 @@
       "onboard_time": 1712565859,
       "rank": 31,
       "category": "科学科普,健康医疗"
+    },
+    {
+      "raw_hot": 176836,
+      "num": 176836,
+      "word": "周淑怡cos女高中生",
+      "onboard_time": 1712766795,
+      "rank": 38,
+      "category": "电竞,网红"
     },
     {
       "raw_hot": 176637,
@@ -11667,14 +11683,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 77952,
-      "num": 77952,
-      "word": "周淑怡cos女高中生",
-      "onboard_time": 1712766795,
-      "rank": 38,
-      "category": "电竞,网红"
-    },
-    {
       "raw_hot": 77927,
       "num": 60180,
       "word": "锦超演的傅卫军",
@@ -11929,6 +11937,14 @@
       "onboard_time": 1712461758,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 52877,
+      "num": 70674,
+      "word": "马竞vs多特蒙德",
+      "onboard_time": 1712768295,
+      "rank": 28,
+      "category": "体育"
     },
     {
       "raw_hot": 50366,
