@@ -1,6 +1,6 @@
 {
   "startTime": 1711902044401,
-  "endTime": 1712727252041,
+  "endTime": 1712730212494,
   "band_list": [
     {
       "raw_hot": 16874674,
@@ -1739,6 +1739,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 1133735,
+      "num": 1133735,
+      "word": "帅是真的帅 刻薄也是真刻薄",
+      "onboard_time": 1712726539,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1129627,
       "num": 626376,
       "word": "男子上厕所隐私部位被割伤缝20多针",
@@ -2795,6 +2803,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 857458,
+      "num": 857458,
+      "word": "易烊千玺闯美成功",
+      "onboard_time": 1712727738,
+      "rank": 4,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 856714,
       "num": 856714,
       "word": "玄彬孙艺珍出演眼泪女王",
@@ -3009,6 +3025,14 @@
       "onboard_time": 1712041938,
       "rank": 37,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 819235,
+      "num": 710916,
+      "word": "陈泽 巴旦木",
+      "onboard_time": 1712728339,
+      "rank": 10,
+      "category": "游戏,网红"
     },
     {
       "raw_hot": 816939,
@@ -3241,6 +3265,14 @@
       "onboard_time": 1712714599,
       "rank": 13,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 780958,
+      "num": 780958,
+      "word": "出去玩时被强制性塞花了",
+      "onboard_time": 1712723120,
+      "rank": 37,
+      "category": "情感"
     },
     {
       "raw_hot": 780592,
@@ -4644,7 +4676,7 @@
     },
     {
       "raw_hot": 626121,
-      "num": 626121,
+      "num": 792350,
       "word": "万科",
       "onboard_time": 1712026519,
       "rank": 8,
@@ -5497,6 +5529,14 @@
       "onboard_time": 1712230880,
       "rank": 15,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 561600,
+      "num": 280454,
+      "word": "官方通报昆明多家医院现男性根浴",
+      "onboard_time": 1712726898,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 560603,
@@ -6449,6 +6489,14 @@
       "onboard_time": 1712633298,
       "rank": 19,
       "category": "教育"
+    },
+    {
+      "raw_hot": 493181,
+      "num": 493181,
+      "word": "王一博拍戏肿了好大一个包",
+      "onboard_time": 1712727920,
+      "rank": 13,
+      "category": "电影"
     },
     {
       "raw_hot": 491803,
@@ -9979,14 +10027,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 327772,
-      "num": 327772,
-      "word": "出去玩时被强制性塞花了",
-      "onboard_time": 1712723120,
-      "rank": 37,
-      "category": "情感"
-    },
-    {
       "raw_hot": 327750,
       "num": 327750,
       "word": "林狗你恋爱白谈了",
@@ -10379,6 +10419,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 313801,
+      "num": 273419,
+      "word": "小熊猫选择了害怕的吃",
+      "onboard_time": 1712728759,
+      "rank": 21,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 313749,
       "num": 289699,
       "word": "张彬彬 张元英转圈",
@@ -10584,14 +10632,6 @@
       "word": "花间令剧本写了十年",
       "onboard_time": 1712113461,
       "rank": 33,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 307876,
-      "num": 307876,
-      "word": "帅是真的帅 刻薄也是真刻薄",
-      "onboard_time": 1712726539,
-      "rank": 23,
       "category": "剧集"
     },
     {
@@ -11425,6 +11465,14 @@
       "onboard_time": 1712044100,
       "rank": 22,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 283936,
+      "num": 283936,
+      "word": "肖战地广",
+      "onboard_time": 1712726058,
+      "rank": 43,
+      "category": "艺人"
     },
     {
       "raw_hot": 283901,
@@ -13915,14 +13963,6 @@
       "category": "艺人,时尚"
     },
     {
-      "raw_hot": 231486,
-      "num": 231486,
-      "word": "肖战地广",
-      "onboard_time": 1712726058,
-      "rank": 43,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 231453,
       "num": 231453,
       "word": "时空中的绘旅人",
@@ -14137,6 +14177,14 @@
       "onboard_time": 1712028919,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 227657,
+      "num": 227657,
+      "word": "万科济南总经理肖劲被带走调查",
+      "onboard_time": 1712727377,
+      "rank": 24,
+      "category": "财经"
     },
     {
       "raw_hot": 227496,
@@ -15233,6 +15281,14 @@
       "onboard_time": 1712069660,
       "rank": 31,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 211043,
+      "num": 211043,
+      "word": "假如每个星期三都能休息一次",
+      "onboard_time": 1712729120,
+      "rank": 28,
+      "category": "幽默"
     },
     {
       "raw_hot": 210888,
@@ -18235,6 +18291,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 184960,
+      "num": 184960,
+      "word": "远离青纱帐真的不是危言耸听",
+      "onboard_time": 1712729359,
+      "rank": 30,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 184925,
       "num": 184925,
       "word": "河北省考 什么时候出",
@@ -18577,6 +18641,14 @@
       "onboard_time": 1712642479,
       "rank": 33,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 181876,
+      "num": 181876,
+      "word": "林更新去吃饭问今天有折扣吗",
+      "onboard_time": 1712729839,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 181744,
@@ -19155,14 +19227,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 175278,
-      "num": 175278,
-      "word": "官方通报昆明多家医院现男性根浴",
-      "onboard_time": 1712726898,
-      "rank": 38,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 175226,
       "num": 175226,
       "word": "猫咪彻夜未归居然跑了7公里",
@@ -19361,6 +19425,14 @@
       "onboard_time": 1712404158,
       "rank": 36,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 173412,
+      "num": 173412,
+      "word": "京东回应布局短视频领域",
+      "onboard_time": 1712729898,
+      "rank": 35,
+      "category": "互联网"
     },
     {
       "raw_hot": 173194,
@@ -22507,6 +22579,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 140916,
+      "num": 155166,
+      "word": "龙年龙月龙日的特别景观",
+      "onboard_time": 1712730079,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 140523,
       "num": 140523,
       "word": "赵小童300w粉丝福利",
@@ -22609,6 +22689,14 @@
       "onboard_time": 1712667678,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 139123,
+      "num": 139123,
+      "word": "原神4.6版本直播",
+      "onboard_time": 1712728399,
+      "rank": 44,
+      "category": "游戏"
     },
     {
       "raw_hot": 139083,
@@ -27065,6 +27153,14 @@
       "onboard_time": 1712348411,
       "rank": 48,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 16437,
+      "num": 156059,
+      "word": "如何在P5X里识别MBTI",
+      "onboard_time": 1712727377,
+      "rank": 38,
+      "category": "游戏"
     },
     {
       "raw_hot": 16244,

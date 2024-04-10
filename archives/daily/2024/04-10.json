@@ -1,6 +1,6 @@
 {
   "startTime": 1712679647281,
-  "endTime": 1712727252041,
+  "endTime": 1712730212494,
   "band_list": [
     {
       "raw_hot": 7494354,
@@ -83,6 +83,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 1133735,
+      "num": 1133735,
+      "word": "帅是真的帅 刻薄也是真刻薄",
+      "onboard_time": 1712726539,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1126395,
       "num": 1126395,
       "word": "yamy 淘汰",
@@ -163,12 +171,36 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 857458,
+      "num": 857458,
+      "word": "易烊千玺闯美成功",
+      "onboard_time": 1712727738,
+      "rank": 4,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 819235,
+      "num": 710916,
+      "word": "陈泽 巴旦木",
+      "onboard_time": 1712728339,
+      "rank": 10,
+      "category": "游戏,网红"
+    },
+    {
       "raw_hot": 781137,
       "num": 657347,
       "word": "马云内部发帖肯定阿里一年改革",
       "onboard_time": 1712714599,
       "rank": 13,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 780958,
+      "num": 780958,
+      "word": "出去玩时被强制性塞花了",
+      "onboard_time": 1712723120,
+      "rank": 37,
+      "category": "情感"
     },
     {
       "raw_hot": 762582,
@@ -275,6 +307,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 561600,
+      "num": 280454,
+      "word": "官方通报昆明多家医院现男性根浴",
+      "onboard_time": 1712726898,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 556423,
       "num": 556423,
       "word": "林更新是增肥拍的与凤行吗",
@@ -304,6 +344,14 @@
       "word": "哈尔的移动城堡",
       "onboard_time": 1712716038,
       "rank": 31,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 493181,
+      "num": 493181,
+      "word": "王一博拍戏肿了好大一个包",
+      "onboard_time": 1712727920,
+      "rank": 13,
       "category": "电影"
     },
     {
@@ -419,6 +467,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 397373,
+      "num": 792350,
+      "word": "万科",
+      "onboard_time": 1712729598,
+      "rank": 6,
+      "category": "财经"
+    },
+    {
       "raw_hot": 390449,
       "num": 390449,
       "word": "11年前狂购黄金的中国大妈解套了",
@@ -475,14 +531,6 @@
       "category": "科学科普"
     },
     {
-      "raw_hot": 327772,
-      "num": 327772,
-      "word": "出去玩时被强制性塞花了",
-      "onboard_time": 1712723120,
-      "rank": 37,
-      "category": "情感"
-    },
-    {
       "raw_hot": 325271,
       "num": 325271,
       "word": "在泰国吃生腌翻车了",
@@ -531,12 +579,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 307876,
-      "num": 307876,
-      "word": "帅是真的帅 刻薄也是真刻薄",
-      "onboard_time": 1712726539,
-      "rank": 23,
-      "category": "剧集"
+      "raw_hot": 313801,
+      "num": 273419,
+      "word": "小熊猫选择了害怕的吃",
+      "onboard_time": 1712728759,
+      "rank": 21,
+      "category": "幽默"
     },
     {
       "raw_hot": 306248,
@@ -593,6 +641,14 @@
       "onboard_time": 1712715378,
       "rank": 32,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 283936,
+      "num": 283936,
+      "word": "肖战地广",
+      "onboard_time": 1712726058,
+      "rank": 43,
+      "category": "艺人"
     },
     {
       "raw_hot": 281566,
@@ -747,14 +803,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 231486,
-      "num": 231486,
-      "word": "肖战地广",
-      "onboard_time": 1712726058,
-      "rank": 43,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 231244,
       "num": 231244,
       "word": "阿根廷总统称计划收复马岛",
@@ -769,6 +817,14 @@
       "onboard_time": 1712721199,
       "rank": 31,
       "category": "情感"
+    },
+    {
+      "raw_hot": 227657,
+      "num": 227657,
+      "word": "万科济南总经理肖劲被带走调查",
+      "onboard_time": 1712727377,
+      "rank": 24,
+      "category": "财经"
     },
     {
       "raw_hot": 227057,
@@ -881,6 +937,14 @@
       "onboard_time": 1712691250,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 211043,
+      "num": 211043,
+      "word": "假如每个星期三都能休息一次",
+      "onboard_time": 1712729120,
+      "rank": 28,
+      "category": "幽默"
     },
     {
       "raw_hot": 209618,
@@ -1091,12 +1155,28 @@
       "category": "游戏,互联网"
     },
     {
+      "raw_hot": 184960,
+      "num": 184960,
+      "word": "远离青纱帐真的不是危言耸听",
+      "onboard_time": 1712729359,
+      "rank": 30,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 182105,
       "num": 174754,
       "word": "经常熬夜的六个好处",
       "onboard_time": 1712664738,
       "rank": 21,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 181876,
+      "num": 181876,
+      "word": "林更新去吃饭问今天有折扣吗",
+      "onboard_time": 1712729839,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 180855,
@@ -1131,20 +1211,20 @@
       "category": "艺人,游戏"
     },
     {
-      "raw_hot": 175278,
-      "num": 175278,
-      "word": "官方通报昆明多家医院现男性根浴",
-      "onboard_time": 1712726898,
-      "rank": 38,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 173788,
       "num": 177225,
       "word": "碧苍王和她最爱的大锤子",
       "onboard_time": 1712672239,
       "rank": 19,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 173412,
+      "num": 173412,
+      "word": "京东回应布局短视频领域",
+      "onboard_time": 1712729898,
+      "rank": 35,
+      "category": "互联网"
     },
     {
       "raw_hot": 172588,
@@ -1347,12 +1427,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 140916,
+      "num": 155166,
+      "word": "龙年龙月龙日的特别景观",
+      "onboard_time": 1712730079,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 140046,
       "num": 140046,
       "word": "白鹿春季刊封面",
       "onboard_time": 1712717417,
       "rank": 44,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 139123,
+      "num": 139123,
+      "word": "原神4.6版本直播",
+      "onboard_time": 1712728399,
+      "rank": 44,
+      "category": "游戏"
     },
     {
       "raw_hot": 137846,
@@ -1369,6 +1465,14 @@
       "onboard_time": 1712719698,
       "rank": 47,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 129082,
+      "num": 129082,
+      "word": "承欢记",
+      "onboard_time": 1712662579,
+      "rank": 39,
+      "category": "剧集"
     },
     {
       "raw_hot": 127230,
@@ -1643,14 +1747,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 58802,
-      "num": 58802,
-      "word": "承欢记",
-      "onboard_time": 1712662579,
-      "rank": 39,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 43338,
       "num": 43338,
       "word": "追风者",
@@ -1760,6 +1856,14 @@
       "word": "恋与深空",
       "onboard_time": 1712689871,
       "rank": 49,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 16437,
+      "num": 156059,
+      "word": "如何在P5X里识别MBTI",
+      "onboard_time": 1712727377,
+      "rank": 38,
       "category": "游戏"
     },
     {
