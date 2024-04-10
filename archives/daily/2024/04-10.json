@@ -1,6 +1,6 @@
 {
   "startTime": 1712679647281,
-  "endTime": 1712748851094,
+  "endTime": 1712752317696,
   "band_list": [
     {
       "raw_hot": 7494354,
@@ -275,6 +275,14 @@
       "category": "游戏,网红"
     },
     {
+      "raw_hot": 812004,
+      "num": 584437,
+      "word": "这真是42岁的汪东城吗",
+      "onboard_time": 1712749038,
+      "rank": 3,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 804389,
       "num": 804389,
       "word": "假如每个星期三都能休息一次",
@@ -345,6 +353,14 @@
       "onboard_time": 1712674759,
       "rank": 1,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 729362,
+      "num": 582317,
+      "word": "有人卖出5公斤黄金变现270多万",
+      "onboard_time": 1712750357,
+      "rank": 4,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 720261,
@@ -419,6 +435,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 641281,
+      "num": 291895,
+      "word": "五六十万存款可以回小县城躺平吗",
+      "onboard_time": 1712749999,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 640961,
       "num": 640961,
       "word": "福宝大口吃胡萝卜声音嘎嘣脆",
@@ -443,12 +467,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 617898,
+      "num": 463925,
+      "word": "仝卓工作室实名举报高源涉嫌偷税漏税",
+      "onboard_time": 1712750297,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 603864,
       "num": 353364,
       "word": "因为什么把微信运动关了",
       "onboard_time": 1712720058,
       "rank": 46,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 603461,
+      "num": 603461,
+      "word": "福宝回国后变着花样干饭",
+      "onboard_time": 1712746938,
+      "rank": 26,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 596054,
@@ -497,6 +537,14 @@
       "onboard_time": 1712707279,
       "rank": 11,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 528398,
+      "num": 528398,
+      "word": "时代少年团还不官宣吗",
+      "onboard_time": 1712750839,
+      "rank": 6,
+      "category": "艺人"
     },
     {
       "raw_hot": 514464,
@@ -561,6 +609,14 @@
       "onboard_time": 1712738717,
       "rank": 7,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 481454,
+      "num": 481454,
+      "word": "误杀3阵容官宣",
+      "onboard_time": 1712749458,
+      "rank": 8,
+      "category": "电影"
     },
     {
       "raw_hot": 472101,
@@ -819,6 +875,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 330442,
+      "num": 330442,
+      "word": "中医建议放下这些脾胃就恢复80%了",
+      "onboard_time": 1712748497,
+      "rank": 30,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 330425,
       "num": 330425,
       "word": "原来贡菜就是晒干的莴笋",
@@ -947,6 +1011,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 295502,
+      "num": 295502,
+      "word": "王者荣耀个性小兵",
+      "onboard_time": 1712751977,
+      "rank": 19,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 291808,
       "num": 291808,
       "word": "研究发现每天3个苹果或会帮助体重减轻",
@@ -1001,14 +1073,6 @@
       "onboard_time": 1712713400,
       "rank": 23,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 278253,
-      "num": 278253,
-      "word": "福宝回国后变着花样干饭",
-      "onboard_time": 1712746938,
-      "rank": 26,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 277501,
@@ -1203,6 +1267,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 228023,
+      "num": 228023,
+      "word": "迪士尼有自己的张元英",
+      "onboard_time": 1712748018,
+      "rank": 34,
+      "category": "作品衍生,动漫"
+    },
+    {
       "raw_hot": 227788,
       "num": 227788,
       "word": "女人对男人的期望值太高",
@@ -1243,6 +1315,14 @@
       "category": "电竞,网红"
     },
     {
+      "raw_hot": 223833,
+      "num": 223833,
+      "word": "杜华卸任乐华影业多个职务",
+      "onboard_time": 1712751558,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 222601,
       "num": 222601,
       "word": "虞书欣雪山写真",
@@ -1259,14 +1339,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 220545,
-      "num": 181339,
-      "word": "中医建议放下这些脾胃就恢复80%了",
-      "onboard_time": 1712748497,
-      "rank": 30,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 220198,
       "num": 220198,
       "word": "销售回复孙坚包包掉漆掉毛",
@@ -1281,6 +1353,14 @@
       "onboard_time": 1712677517,
       "rank": 12,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 219233,
+      "num": 219233,
+      "word": "与凤行团综",
+      "onboard_time": 1712751019,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 218875,
@@ -1579,12 +1659,28 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 195910,
+      "num": 195910,
+      "word": "马云罕见发声阿里大涨",
+      "onboard_time": 1712751378,
+      "rank": 30,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 195065,
       "num": 195065,
       "word": "LPL春决落地佛山",
       "onboard_time": 1712735837,
       "rank": 23,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 194025,
+      "num": 194025,
+      "word": "红米Turbo3发布会",
+      "onboard_time": 1712749038,
+      "rank": 31,
+      "category": "数码"
     },
     {
       "raw_hot": 193099,
@@ -1715,6 +1811,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 183226,
+      "num": 183226,
+      "word": "肖战直播出图",
+      "onboard_time": 1712752220,
+      "rank": 32,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 182105,
       "num": 174754,
       "word": "经常熬夜的六个好处",
@@ -1753,6 +1857,14 @@
       "onboard_time": 1712739619,
       "rank": 30,
       "category": "情感"
+    },
+    {
+      "raw_hot": 178289,
+      "num": 178289,
+      "word": "张学友终于想起自己是个演员了",
+      "onboard_time": 1712750178,
+      "rank": 33,
+      "category": "电影"
     },
     {
       "raw_hot": 176470,
@@ -1931,6 +2043,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 159166,
+      "num": 159166,
+      "word": "这些高碳蔬菜或会越吃越胖",
+      "onboard_time": 1712749999,
+      "rank": 37,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 158961,
       "num": 158961,
       "word": "故宫海棠花开了",
@@ -2083,20 +2203,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 148194,
+      "num": 148194,
+      "word": "惠英红大片 游园入梦",
+      "onboard_time": 1712750479,
+      "rank": 39,
+      "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 147382,
+      "num": 147382,
+      "word": "惠英红撑住了贴头皮造型",
+      "onboard_time": 1712751319,
+      "rank": 40,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 147139,
       "num": 147139,
       "word": "谢谢你保护了我小小的虚荣心",
       "onboard_time": 1712730258,
       "rank": 42,
       "category": "情感"
-    },
-    {
-      "raw_hot": 147000,
-      "num": 147000,
-      "word": "迪士尼有自己的张元英",
-      "onboard_time": 1712748018,
-      "rank": 34,
-      "category": "作品衍生,动漫"
     },
     {
       "raw_hot": 145855,
@@ -2115,12 +2243,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 144522,
+      "num": 144522,
+      "word": "李雯雯包揽三金",
+      "onboard_time": 1712751620,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 144066,
       "num": 144066,
       "word": "惜花芷 祖母",
       "onboard_time": 1712745320,
       "rank": 48,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 143199,
+      "num": 143199,
+      "word": "老乡鸡坦白局来真的",
+      "onboard_time": 1712750899,
+      "rank": 42,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 142414,
@@ -2161,6 +2305,14 @@
       "onboard_time": 1712728399,
       "rank": 44,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 138257,
+      "num": 138257,
+      "word": "同龄人现状",
+      "onboard_time": 1712751977,
+      "rank": 43,
+      "category": "幽默"
     },
     {
       "raw_hot": 137846,

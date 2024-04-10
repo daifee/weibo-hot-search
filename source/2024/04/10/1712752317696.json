@@ -1,0 +1,410 @@
+{
+  "runTime": 1712752317696,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1034708,
+        "num": 1034708,
+        "word": "福建立法规定妻子可查询配偶财产",
+        "onboard_time": 1712743399,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 603461,
+        "num": 603461,
+        "word": "福宝回国后变着花样干饭",
+        "onboard_time": 1712746938,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 10240,
+        "num": 587679,
+        "word": "中国第40次南极考察队凯旋",
+        "onboard_time": 1712704516,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 812004,
+        "num": 584437,
+        "word": "这真是42岁的汪东城吗",
+        "onboard_time": 1712749038,
+        "rank": 3,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 729362,
+        "num": 582317,
+        "word": "有人卖出5公斤黄金变现270多万",
+        "onboard_time": 1712750357,
+        "rank": 4,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 580095,
+        "num": 580095,
+        "word": "下岸",
+        "onboard_time": 1712741598,
+        "rank": 5,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 528398,
+        "num": 528398,
+        "word": "时代少年团还不官宣吗",
+        "onboard_time": 1712750839,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 511453,
+        "num": 511453,
+        "word": "两岸同胞同属中华民族",
+        "onboard_time": 1712747118,
+        "rank": 7,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 481454,
+        "num": 481454,
+        "word": "误杀3阵容官宣",
+        "onboard_time": 1712749458,
+        "rank": 8,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 378023,
+        "num": 465652,
+        "word": "福宝大口吃胡萝卜声音嘎嘣脆",
+        "onboard_time": 1712745078,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 617898,
+        "num": 463925,
+        "word": "仝卓工作室实名举报高源涉嫌偷税漏税",
+        "onboard_time": 1712750297,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 458889,
+        "num": 458889,
+        "word": "韩民众请求政府续租福宝",
+        "onboard_time": 1712743098,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 443251,
+        "num": 443251,
+        "word": "吴镇宇回应后费曼删博",
+        "onboard_time": 1712743458,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 417663,
+        "num": 417663,
+        "word": "刘美含33岁状态",
+        "onboard_time": 1712742800,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 414356,
+        "num": 414356,
+        "word": "癌症发生前身体的预警信号",
+        "onboard_time": 1712746398,
+        "rank": 14,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 330442,
+        "num": 330442,
+        "word": "中医建议放下这些脾胃就恢复80%了",
+        "onboard_time": 1712748497,
+        "rank": 15,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 329544,
+        "num": 329544,
+        "word": "中式母爱做到了全国统一",
+        "onboard_time": 1712746398,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 323932,
+        "num": 323932,
+        "word": "欧阳娜娜首次回应叫陈伟霆爸爸",
+        "onboard_time": 1712724140,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 302589,
+        "num": 302589,
+        "word": "仝卓工作室回应王凯方",
+        "onboard_time": 1712743999,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 295502,
+        "num": 295502,
+        "word": "王者荣耀个性小兵",
+        "onboard_time": 1712751977,
+        "rank": 19,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 641281,
+        "num": 291895,
+        "word": "五六十万存款可以回小县城躺平吗",
+        "onboard_time": 1712749999,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 280004,
+        "num": 280004,
+        "word": "7天戒掉了熬夜让自己6点起床",
+        "onboard_time": 1712746759,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 251195,
+        "num": 251195,
+        "word": "李沁西装裙",
+        "onboard_time": 1712744479,
+        "rank": 22,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 228023,
+        "num": 228023,
+        "word": "迪士尼有自己的张元英",
+        "onboard_time": 1712748018,
+        "rank": 23,
+        "category": "作品衍生,动漫"
+      },
+      {
+        "raw_hot": 223833,
+        "num": 223833,
+        "word": "杜华卸任乐华影业多个职务",
+        "onboard_time": 1712751558,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 221650,
+        "num": 221650,
+        "word": "王凯方回应被讨债",
+        "onboard_time": 1712742498,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 219233,
+        "num": 219233,
+        "word": "与凤行团综",
+        "onboard_time": 1712751019,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 214753,
+        "num": 214753,
+        "word": "老板1个月转账近5万给翘班员工",
+        "onboard_time": 1712739259,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 211430,
+        "num": 211430,
+        "word": "福宝隔离检疫期一切平稳正常",
+        "onboard_time": 1712743098,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 204621,
+        "num": 204621,
+        "word": "易烊千玺闯美成功",
+        "onboard_time": 1712727738,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 195910,
+        "num": 195910,
+        "word": "马云罕见发声阿里大涨",
+        "onboard_time": 1712751378,
+        "rank": 30,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 194025,
+        "num": 194025,
+        "word": "红米Turbo3发布会",
+        "onboard_time": 1712749038,
+        "rank": 31,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 183226,
+        "num": 183226,
+        "word": "肖战直播出图",
+        "onboard_time": 1712752220,
+        "rank": 32,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 178289,
+        "num": 178289,
+        "word": "张学友终于想起自己是个演员了",
+        "onboard_time": 1712750178,
+        "rank": 33,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 175539,
+        "num": 175539,
+        "word": "费曼新简介",
+        "onboard_time": 1712738598,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 168853,
+        "num": 168853,
+        "word": "研究生最大的共性",
+        "onboard_time": 1712746759,
+        "rank": 35,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 167616,
+        "num": 167616,
+        "word": "气血不足很难瘦",
+        "onboard_time": 1712738658,
+        "rank": 36,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 159166,
+        "num": 159166,
+        "word": "这些高碳蔬菜或会越吃越胖",
+        "onboard_time": 1712749999,
+        "rank": 37,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 151891,
+        "num": 151891,
+        "word": "才知道51岁的妈妈没买社保",
+        "onboard_time": 1712739317,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 148194,
+        "num": 148194,
+        "word": "惠英红大片 游园入梦",
+        "onboard_time": 1712750479,
+        "rank": 39,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 147382,
+        "num": 147382,
+        "word": "惠英红撑住了贴头皮造型",
+        "onboard_time": 1712751319,
+        "rank": 40,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 144522,
+        "num": 144522,
+        "word": "李雯雯包揽三金",
+        "onboard_time": 1712751620,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 143199,
+        "num": 143199,
+        "word": "老乡鸡坦白局来真的",
+        "onboard_time": 1712750899,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 138257,
+        "num": 138257,
+        "word": "同龄人现状",
+        "onboard_time": 1712751977,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 133561,
+        "num": 133561,
+        "word": "赵丽颖玉面判官",
+        "onboard_time": 1712743999,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 120196,
+        "num": 120196,
+        "word": "鞠婧祎小道士盘发",
+        "onboard_time": 1712740879,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 119085,
+        "num": 119085,
+        "word": "林一虞书欣都发了雪景照",
+        "onboard_time": 1712734458,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 108027,
+        "num": 108027,
+        "word": "被一碗25块钱的牛肉面惊呆了",
+        "onboard_time": 1712741057,
+        "rank": 47,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 103444,
+        "num": 103444,
+        "word": "JDG对战NIP",
+        "onboard_time": 1712747598,
+        "rank": 48,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 101450,
+        "num": 101450,
+        "word": "我爸不愿意被叫外公",
+        "onboard_time": 1712740758,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#让农民用最好的技术种出最好的粮食#"
+    }
+  }
+}
