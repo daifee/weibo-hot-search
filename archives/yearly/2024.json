@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1712712701514,
+  "endTime": 1712715908122,
   "band_list": [
     {
       "raw_hot": 21250232,
@@ -571,6 +571,14 @@
       "category": "综艺,综艺"
     },
     {
+      "raw_hot": 7494354,
+      "num": 7494354,
+      "word": "暴雪官宣回归",
+      "onboard_time": 1712711299,
+      "rank": 3,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 7473338,
       "num": 8261812,
       "word": "江西新余火灾39人遇难",
@@ -825,14 +833,6 @@
       "onboard_time": 1707536076,
       "rank": 3,
       "category": "电影"
-    },
-    {
-      "raw_hot": 4948569,
-      "num": 4948569,
-      "word": "暴雪官宣回归",
-      "onboard_time": 1712711299,
-      "rank": 3,
-      "category": "游戏"
     },
     {
       "raw_hot": 4820066,
