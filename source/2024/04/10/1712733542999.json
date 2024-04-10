@@ -1,0 +1,410 @@
+{
+  "runTime": 1712733542999,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1075900,
+        "num": 1075900,
+        "word": "欧阳娜娜首次回应叫陈伟霆爸爸",
+        "onboard_time": 1712724140,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 952546,
+        "num": 952546,
+        "word": "李湘王岳伦陪王诗龄看展",
+        "onboard_time": 1712731699,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 127619,
+        "num": 861185,
+        "word": "最美人间四月天",
+        "onboard_time": 1712721319,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 857562,
+        "num": 857562,
+        "word": "帅是真的帅 刻薄也是真刻薄",
+        "onboard_time": 1712726539,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 775388,
+        "num": 775388,
+        "word": "易烊千玺闯美成功",
+        "onboard_time": 1712727738,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 774860,
+        "num": 774860,
+        "word": "万科",
+        "onboard_time": 1712729598,
+        "rank": 5,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 696407,
+        "num": 696407,
+        "word": "假如每个星期三都能休息一次",
+        "onboard_time": 1712729120,
+        "rank": 6,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 575658,
+        "num": 575658,
+        "word": "出去玩时被强制性塞花了",
+        "onboard_time": 1712723120,
+        "rank": 7,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 564436,
+        "num": 564436,
+        "word": "暴雪官宣回归",
+        "onboard_time": 1712711299,
+        "rank": 8,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 286934,
+        "num": 557091,
+        "word": "只有考研人才懂的画面",
+        "onboard_time": 1712730139,
+        "rank": 9,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 1001086,
+        "num": 556736,
+        "word": "官方通报昆明多家医院现男性根浴",
+        "onboard_time": 1712726898,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 554972,
+        "num": 554972,
+        "word": "深圳日晕",
+        "onboard_time": 1712723359,
+        "rank": 11,
+        "category": "自然"
+      },
+      {
+        "raw_hot": 503767,
+        "num": 503767,
+        "word": "陈泽 巴旦木",
+        "onboard_time": 1712728339,
+        "rank": 12,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 488829,
+        "num": 488829,
+        "word": "青3选手蒋智豪患肺癌",
+        "onboard_time": 1712724080,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 422137,
+        "num": 422137,
+        "word": "胡一天张婧仪双人写真",
+        "onboard_time": 1712730739,
+        "rank": 14,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 379880,
+        "num": 379880,
+        "word": "美国夫妇因儿子枪杀4人被判15年监禁",
+        "onboard_time": 1712731818,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 327570,
+        "num": 327570,
+        "word": "清华大学所在国家学生",
+        "onboard_time": 1712732778,
+        "rank": 16,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 325730,
+        "num": 325730,
+        "word": "林更新去吃饭问今天有折扣吗",
+        "onboard_time": 1712729839,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 321111,
+        "num": 321111,
+        "word": "演员刘雨欣吐槽在美国真的不敢生病",
+        "onboard_time": 1712723720,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 188844,
+        "num": 282744,
+        "word": "今天的龙含量好高",
+        "onboard_time": 1712705476,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 324280,
+        "num": 278790,
+        "word": "小熊猫选择了害怕的吃",
+        "onboard_time": 1712728759,
+        "rank": 20,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 273547,
+        "num": 273547,
+        "word": "TFBOYS组合没解散",
+        "onboard_time": 1712720718,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 269449,
+        "num": 269449,
+        "word": "鲶鱼须为何备受初中女生追捧",
+        "onboard_time": 1712715558,
+        "rank": 22,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 260298,
+        "num": 260298,
+        "word": "韩国知名偶像组合成员被骗26亿韩元",
+        "onboard_time": 1712733138,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 259673,
+        "num": 259673,
+        "word": "王一博拍戏肿了好大一个包",
+        "onboard_time": 1712727920,
+        "rank": 24,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 242376,
+        "num": 242376,
+        "word": "成为了妈妈 却失去了自己",
+        "onboard_time": 1712722820,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 235360,
+        "num": 235360,
+        "word": "龚俊肌肉",
+        "onboard_time": 1712730739,
+        "rank": 26,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 29790,
+        "num": 226447,
+        "word": "你下载P5X用了多久",
+        "onboard_time": 1712731158,
+        "rank": 27,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 172764,
+        "num": 224812,
+        "word": "28岁女子怀孕其妈妈喜极而泣",
+        "onboard_time": 1712683333,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 170269,
+        "num": 224106,
+        "word": "韩国溺水幼童遭11家医院拒收后死亡",
+        "onboard_time": 1712712558,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 223948,
+        "num": 223948,
+        "word": "因为什么把微信运动关了",
+        "onboard_time": 1712720058,
+        "rank": 30,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 203913,
+        "num": 203913,
+        "word": "推介人谈肖战饰演的郭靖",
+        "onboard_time": 1712730378,
+        "rank": 31,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 202809,
+        "num": 202809,
+        "word": "九鹭非香改编运",
+        "onboard_time": 1712733079,
+        "rank": 32,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 183864,
+        "num": 183864,
+        "word": "郑州偶遇向佐拍戏",
+        "onboard_time": 1712732478,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 174931,
+        "num": 174931,
+        "word": "精神科医生解释年轻人为何抗拒结婚",
+        "onboard_time": 1712732059,
+        "rank": 34,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 171861,
+        "num": 171861,
+        "word": "小米SU7Pro版不能加尾翼调节实体键",
+        "onboard_time": 1712731337,
+        "rank": 35,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 167398,
+        "num": 167398,
+        "word": "网易暴雪复婚",
+        "onboard_time": 1712711600,
+        "rank": 36,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 165995,
+        "num": 165995,
+        "word": "远离青纱帐真的不是危言耸听",
+        "onboard_time": 1712729359,
+        "rank": 37,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 164527,
+        "num": 164527,
+        "word": "SM本月已有70名员工辞职",
+        "onboard_time": 1712719758,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 137497,
+        "num": 160889,
+        "word": "万科回应肖劲被带走调查",
+        "onboard_time": 1712732538,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 160110,
+        "num": 160110,
+        "word": "刘敏涛新剧 破碎的她",
+        "onboard_time": 1712732297,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 158988,
+        "num": 158988,
+        "word": "肖战地广",
+        "onboard_time": 1712726058,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 147139,
+        "num": 147139,
+        "word": "谢谢你保护了我小小的虚荣心",
+        "onboard_time": 1712730258,
+        "rank": 42,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 146484,
+        "num": 146484,
+        "word": "网易杭州楼下开始庆祝",
+        "onboard_time": 1712721439,
+        "rank": 43,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 137295,
+        "num": 137295,
+        "word": "林更新或开见面会",
+        "onboard_time": 1712730858,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 126948,
+        "num": 126948,
+        "word": "龙年龙月龙日的特别景观",
+        "onboard_time": 1712730079,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 120059,
+        "num": 120059,
+        "word": "赵丽颖黑衣新娘妆",
+        "onboard_time": 1712720718,
+        "rank": 46,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 118880,
+        "num": 118880,
+        "word": "万科济南总经理肖劲被带走调查",
+        "onboard_time": 1712727377,
+        "rank": 47,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 118045,
+        "num": 118045,
+        "word": "虞书欣雪山写真",
+        "onboard_time": 1712723359,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 115625,
+        "num": 115625,
+        "word": "第五人格",
+        "onboard_time": 1712730798,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#春季中国元首外交精彩纷呈#"
+    }
+  }
+}

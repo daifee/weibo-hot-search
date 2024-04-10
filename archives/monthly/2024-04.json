@@ -1,6 +1,6 @@
 {
   "startTime": 1711902044401,
-  "endTime": 1712731013470,
+  "endTime": 1712733542999,
   "band_list": [
     {
       "raw_hot": 16874674,
@@ -2243,6 +2243,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1001086,
+      "num": 556736,
+      "word": "官方通报昆明多家医院现男性根浴",
+      "onboard_time": 1712726898,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 999550,
       "num": 999550,
       "word": "老师用P过的照片吸引同学来上课",
@@ -2401,6 +2409,14 @@
       "onboard_time": 1711941978,
       "rank": 23,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 952546,
+      "num": 952546,
+      "word": "李湘王岳伦陪王诗龄看展",
+      "onboard_time": 1712731699,
+      "rank": 1,
+      "category": "艺人"
     },
     {
       "raw_hot": 945169,
@@ -3923,6 +3939,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 696407,
+      "num": 696407,
+      "word": "假如每个星期三都能休息一次",
+      "onboard_time": 1712729120,
+      "rank": 28,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 695967,
       "num": 695967,
       "word": "赵丽颖黑衣新娘妆",
@@ -5313,14 +5337,6 @@
       "onboard_time": 1712113101,
       "rank": 15,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 579265,
-      "num": 280454,
-      "word": "官方通报昆明多家医院现男性根浴",
-      "onboard_time": 1712726898,
-      "rank": 38,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 579086,
@@ -7963,6 +7979,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 422137,
+      "num": 422137,
+      "word": "胡一天张婧仪双人写真",
+      "onboard_time": 1712730739,
+      "rank": 27,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 421427,
       "num": 421427,
       "word": "张杰发了十年前的自己",
@@ -8816,6 +8840,14 @@
       "word": "规培医生不该成为廉价劳动力",
       "onboard_time": 1711941380,
       "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 379880,
+      "num": 379880,
+      "word": "美国夫妇因儿子枪杀4人被判15年监禁",
+      "onboard_time": 1712731818,
+      "rank": 15,
       "category": "社会新闻"
     },
     {
@@ -10043,6 +10075,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 327570,
+      "num": 327570,
+      "word": "清华大学所在国家学生",
+      "onboard_time": 1712732778,
+      "rank": 16,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 327534,
       "num": 327534,
       "word": "服了你们滚人",
@@ -10091,6 +10131,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 325730,
+      "num": 325730,
+      "word": "林更新去吃饭问今天有折扣吗",
+      "onboard_time": 1712729839,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 325271,
       "num": 325271,
       "word": "在泰国吃生腌翻车了",
@@ -10137,6 +10185,14 @@
       "onboard_time": 1712722160,
       "rank": 23,
       "category": "电影"
+    },
+    {
+      "raw_hot": 324280,
+      "num": 278790,
+      "word": "小熊猫选择了害怕的吃",
+      "onboard_time": 1712728759,
+      "rank": 21,
+      "category": "幽默"
     },
     {
       "raw_hot": 323906,
@@ -10273,14 +10329,6 @@
       "onboard_time": 1712036719,
       "rank": 47,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 318464,
-      "num": 273419,
-      "word": "小熊猫选择了害怕的吃",
-      "onboard_time": 1712728759,
-      "rank": 21,
-      "category": "幽默"
     },
     {
       "raw_hot": 317781,
@@ -11371,6 +11419,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 286934,
+      "num": 557091,
+      "word": "只有考研人才懂的画面",
+      "onboard_time": 1712730139,
+      "rank": 21,
+      "category": "教育"
+    },
+    {
       "raw_hot": 286896,
       "num": 286896,
       "word": "汉堡王卖不好9.9套餐",
@@ -11609,14 +11665,6 @@
       "onboard_time": 1712017342,
       "rank": 24,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 280998,
-      "num": 280998,
-      "word": "假如每个星期三都能休息一次",
-      "onboard_time": 1712729120,
-      "rank": 28,
-      "category": "幽默"
     },
     {
       "raw_hot": 280812,
@@ -12353,6 +12401,14 @@
       "onboard_time": 1712204180,
       "rank": 22,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 260298,
+      "num": 260298,
+      "word": "韩国知名偶像组合成员被骗26亿韩元",
+      "onboard_time": 1712733138,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 260199,
@@ -13675,14 +13731,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 236772,
-      "num": 236772,
-      "word": "胡一天张婧仪双人写真",
-      "onboard_time": 1712730739,
-      "rank": 27,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 236251,
       "num": 236251,
       "word": "看演唱会千万别用雨衣当坐垫",
@@ -13767,6 +13815,14 @@
       "num": 235375,
       "word": "王俊凯 德云社在逃编外捧哏",
       "onboard_time": 1712121081,
+      "rank": 39,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 235360,
+      "num": 235360,
+      "word": "龚俊肌肉",
+      "onboard_time": 1712730739,
       "rank": 39,
       "category": "作品衍生"
     },
@@ -14361,14 +14417,6 @@
       "onboard_time": 1712555897,
       "rank": 26,
       "category": "电影"
-    },
-    {
-      "raw_hot": 224225,
-      "num": 224225,
-      "word": "林更新去吃饭问今天有折扣吗",
-      "onboard_time": 1712729839,
-      "rank": 33,
-      "category": "艺人"
     },
     {
       "raw_hot": 224157,
@@ -16003,6 +16051,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 203913,
+      "num": 203913,
+      "word": "推介人谈肖战饰演的郭靖",
+      "onboard_time": 1712730378,
+      "rank": 33,
+      "category": "电影"
+    },
+    {
       "raw_hot": 203883,
       "num": 203883,
       "word": "单炮豌豆 双炮豌豆",
@@ -16137,6 +16193,14 @@
       "onboard_time": 1712051659,
       "rank": 26,
       "category": "电影"
+    },
+    {
+      "raw_hot": 202809,
+      "num": 202809,
+      "word": "九鹭非香改编运",
+      "onboard_time": 1712733079,
+      "rank": 32,
+      "category": "读书作家"
     },
     {
       "raw_hot": 202687,
@@ -16857,14 +16921,6 @@
       "onboard_time": 1712225718,
       "rank": 33,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 196464,
-      "num": 196464,
-      "word": "推介人谈肖战饰演的郭靖",
-      "onboard_time": 1712730378,
-      "rank": 33,
-      "category": "电影"
     },
     {
       "raw_hot": 196400,
@@ -18219,14 +18275,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 186273,
-      "num": 186273,
-      "word": "龚俊肌肉",
-      "onboard_time": 1712730739,
-      "rank": 39,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 186237,
       "num": 205110,
       "word": "高诗岩求婚",
@@ -18496,6 +18544,14 @@
       "word": "张可颐回应与宣萱佘诗曼不和",
       "onboard_time": 1712061560,
       "rank": 34,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 183864,
+      "num": 183864,
+      "word": "郑州偶遇向佐拍戏",
+      "onboard_time": 1712732478,
+      "rank": 33,
       "category": "剧集"
     },
     {
@@ -19323,6 +19379,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 174931,
+      "num": 174931,
+      "word": "精神科医生解释年轻人为何抗拒结婚",
+      "onboard_time": 1712732059,
+      "rank": 34,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 174891,
       "num": 174891,
       "word": "手术直播间 梦食症",
@@ -19601,6 +19665,14 @@
       "onboard_time": 1712364137,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 171861,
+      "num": 171861,
+      "word": "小米SU7Pro版不能加尾翼调节实体键",
+      "onboard_time": 1712731337,
+      "rank": 35,
+      "category": "汽车"
     },
     {
       "raw_hot": 171838,
@@ -20617,6 +20689,14 @@
       "onboard_time": 1712068640,
       "rank": 39,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 160110,
+      "num": 160110,
+      "word": "刘敏涛新剧 破碎的她",
+      "onboard_time": 1712732297,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 160089,
@@ -22003,6 +22083,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 147139,
+      "num": 147139,
+      "word": "谢谢你保护了我小小的虚荣心",
+      "onboard_time": 1712730258,
+      "rank": 42,
+      "category": "情感"
+    },
+    {
       "raw_hot": 147113,
       "num": 147113,
       "word": "又能看陈楚生的音综了",
@@ -22627,14 +22715,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 140842,
-      "num": 272008,
-      "word": "只有考研人才懂的画面",
-      "onboard_time": 1712730139,
-      "rank": 21,
-      "category": "教育"
-    },
-    {
       "raw_hot": 140523,
       "num": 140523,
       "word": "赵小童300w粉丝福利",
@@ -22961,6 +23041,14 @@
       "onboard_time": 1712571498,
       "rank": 43,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 137497,
+      "num": 160889,
+      "word": "万科回应肖劲被带走调查",
+      "onboard_time": 1712732538,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 137488,
@@ -26841,6 +26929,14 @@
       "onboard_time": 1712428451,
       "rank": 32,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 29790,
+      "num": 226447,
+      "word": "你下载P5X用了多久",
+      "onboard_time": 1712731158,
+      "rank": 27,
+      "category": "游戏"
     },
     {
       "raw_hot": 29757,
