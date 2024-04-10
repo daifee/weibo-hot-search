@@ -1,6 +1,6 @@
 {
   "startTime": 1712679647281,
-  "endTime": 1712745427511,
+  "endTime": 1712747855102,
   "band_list": [
     {
       "raw_hot": 7494354,
@@ -187,6 +187,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1006560,
+      "num": 1006560,
+      "word": "福建立法规定妻子可查询配偶财产",
+      "onboard_time": 1712743399,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1001086,
       "num": 556736,
       "word": "官方通报昆明多家医院现男性根浴",
@@ -243,6 +251,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 836137,
+      "num": 836137,
+      "word": "吴镇宇回应后费曼删博",
+      "onboard_time": 1712743458,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 826911,
+      "num": 826911,
+      "word": "韩民众请求政府续租福宝",
+      "onboard_time": 1712743098,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 819235,
       "num": 710916,
       "word": "陈泽 巴旦木",
@@ -289,6 +313,14 @@
       "onboard_time": 1712707039,
       "rank": 7,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 749032,
+      "num": 562391,
+      "word": "仝卓工作室回应王凯方",
+      "onboard_time": 1712743999,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 743905,
@@ -379,6 +411,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 631945,
+      "num": 631945,
+      "word": "两岸同胞同属中华民族",
+      "onboard_time": 1712747118,
+      "rank": 10,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 623805,
       "num": 623805,
       "word": "上了3天班还剩3天班",
@@ -411,14 +451,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 595979,
-      "num": 595979,
-      "word": "福建立法规定妻子可查询配偶财产",
-      "onboard_time": 1712743399,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 594493,
       "num": 594493,
       "word": "河南省考成绩",
@@ -433,6 +465,14 @@
       "onboard_time": 1712674340,
       "rank": 5,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 585632,
+      "num": 639046,
+      "word": "福宝大口吃胡萝卜声音嘎嘣脆",
+      "onboard_time": 1712745078,
+      "rank": 11,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 556423,
@@ -491,22 +531,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 505033,
-      "num": 505033,
-      "word": "仝卓工作室回应王凯方",
-      "onboard_time": 1712743999,
-      "rank": 26,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 502732,
-      "num": 502732,
-      "word": "韩民众请求政府续租福宝",
-      "onboard_time": 1712743098,
-      "rank": 15,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 502499,
       "num": 502499,
       "word": "女子花椒呛喉推开家人海姆立克法自救",
@@ -563,14 +587,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 457005,
-      "num": 457005,
-      "word": "吴镇宇回应后费曼删博",
-      "onboard_time": 1712743458,
-      "rank": 25,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 454984,
       "num": 243076,
       "word": "长沙通报一初中生在校坠楼",
@@ -601,6 +617,14 @@
       "onboard_time": 1712721439,
       "rank": 21,
       "category": "情感"
+    },
+    {
+      "raw_hot": 434885,
+      "num": 434885,
+      "word": "癌症发生前身体的预警信号",
+      "onboard_time": 1712746398,
+      "rank": 12,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 432274,
@@ -651,6 +675,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 404120,
+      "num": 404120,
+      "word": "李沁西装裙",
+      "onboard_time": 1712744479,
+      "rank": 19,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 400344,
       "num": 400344,
       "word": "刘忻张予曦牵手过马路",
@@ -683,6 +715,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 384978,
+      "num": 287172,
+      "word": "7天戒掉了熬夜让自己6点起床",
+      "onboard_time": 1712746759,
+      "rank": 20,
+      "category": "情感"
+    },
+    {
       "raw_hot": 379554,
       "num": 379554,
       "word": "九鹭非香改编运",
@@ -713,6 +753,14 @@
       "onboard_time": 1712736798,
       "rank": 34,
       "category": "财经"
+    },
+    {
+      "raw_hot": 359453,
+      "num": 359453,
+      "word": "中式母爱做到了全国统一",
+      "onboard_time": 1712746398,
+      "rank": 15,
+      "category": "剧集"
     },
     {
       "raw_hot": 354350,
@@ -923,14 +971,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 287083,
-      "num": 287083,
-      "word": "李沁西装裙",
-      "onboard_time": 1712744479,
-      "rank": 19,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 287000,
       "num": 287000,
       "word": "时代少年团演唱会",
@@ -1016,14 +1056,6 @@
       "word": "最美人间四月天",
       "onboard_time": 1712721319,
       "rank": 2,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 258627,
-      "num": 459469,
-      "word": "福宝大口吃胡萝卜声音嘎嘣脆",
-      "onboard_time": 1712745078,
-      "rank": 11,
       "category": "社会新闻"
     },
     {
@@ -1193,6 +1225,14 @@
       "onboard_time": 1712742379,
       "rank": 28,
       "category": "电竞,网红"
+    },
+    {
+      "raw_hot": 223274,
+      "num": 223274,
+      "word": "福宝回国后变着花样干饭",
+      "onboard_time": 1712746938,
+      "rank": 26,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 222601,
@@ -1467,6 +1507,14 @@
       "category": "游戏,美食"
     },
     {
+      "raw_hot": 200442,
+      "num": 200442,
+      "word": "研究生最大的共性",
+      "onboard_time": 1712746759,
+      "rank": 28,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 199638,
       "num": 199638,
       "word": "高合汽车",
@@ -1643,6 +1691,14 @@
       "category": "游戏,互联网"
     },
     {
+      "raw_hot": 185517,
+      "num": 185517,
+      "word": "JDG对战NIP",
+      "onboard_time": 1712747598,
+      "rank": 30,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 183864,
       "num": 183864,
       "word": "郑州偶遇向佐拍戏",
@@ -1705,6 +1761,14 @@
       "onboard_time": 1712732059,
       "rank": 34,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 174759,
+      "num": 174759,
+      "word": "AMI大秀",
+      "onboard_time": 1712747239,
+      "rank": 31,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 173788,
@@ -1817,6 +1881,14 @@
       "onboard_time": 1712655738,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 162529,
+      "num": 162529,
+      "word": "鹿晗语言系统紊乱",
+      "onboard_time": 1712746938,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 162223,
@@ -2019,6 +2091,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 144066,
+      "num": 144066,
+      "word": "惜花芷 祖母",
+      "onboard_time": 1712745320,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 142414,
       "num": 177880,
       "word": "警方回应聊城一特斯拉撞断大桥护栏",
@@ -2105,6 +2185,22 @@
       "onboard_time": 1712742018,
       "rank": 44,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 130514,
+      "num": 130514,
+      "word": "种地星球直播",
+      "onboard_time": 1712746038,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 129148,
+      "num": 129148,
+      "word": "日晕",
+      "onboard_time": 1712745437,
+      "rank": 42,
+      "category": "自然"
     },
     {
       "raw_hot": 129082,
@@ -2195,14 +2291,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 113219,
-      "num": 113219,
-      "word": "惜花芷 祖母",
-      "onboard_time": 1712745320,
-      "rank": 48,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 112588,
       "num": 112588,
       "word": "男人老了的标准是是什么",
@@ -2225,6 +2313,14 @@
       "onboard_time": 1712744238,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 108470,
+      "num": 108470,
+      "word": "外部的干涉阻挡不了家国团圆的历史大势",
+      "onboard_time": 1712747298,
+      "rank": 46,
+      "category": "国内时政"
     },
     {
       "raw_hot": 108032,
