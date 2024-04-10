@@ -1,6 +1,6 @@
 {
   "startTime": 1712679647281,
-  "endTime": 1712730212494,
+  "endTime": 1712731013470,
   "band_list": [
     {
       "raw_hot": 7494354,
@@ -83,8 +83,8 @@
       "category": "教育"
     },
     {
-      "raw_hot": 1133735,
-      "num": 1133735,
+      "raw_hot": 1188501,
+      "num": 1188501,
       "word": "帅是真的帅 刻薄也是真刻薄",
       "onboard_time": 1712726539,
       "rank": 23,
@@ -163,6 +163,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 923547,
+      "num": 923547,
+      "word": "易烊千玺闯美成功",
+      "onboard_time": 1712727738,
+      "rank": 4,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 911576,
       "num": 911576,
       "word": "网易杭州楼下开始庆祝",
@@ -171,20 +179,20 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 857458,
-      "num": 857458,
-      "word": "易烊千玺闯美成功",
-      "onboard_time": 1712727738,
-      "rank": 4,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 819235,
       "num": 710916,
       "word": "陈泽 巴旦木",
       "onboard_time": 1712728339,
       "rank": 10,
       "category": "游戏,网红"
+    },
+    {
+      "raw_hot": 782108,
+      "num": 792350,
+      "word": "万科",
+      "onboard_time": 1712729598,
+      "rank": 6,
+      "category": "财经"
     },
     {
       "raw_hot": 781137,
@@ -307,7 +315,7 @@
       "category": "科学科普"
     },
     {
-      "raw_hot": 561600,
+      "raw_hot": 579265,
       "num": 280454,
       "word": "官方通报昆明多家医院现男性根浴",
       "onboard_time": 1712726898,
@@ -467,14 +475,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 397373,
-      "num": 792350,
-      "word": "万科",
-      "onboard_time": 1712729598,
-      "rank": 6,
-      "category": "财经"
-    },
-    {
       "raw_hot": 390449,
       "num": 390449,
       "word": "11年前狂购黄金的中国大妈解套了",
@@ -555,6 +555,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 318464,
+      "num": 273419,
+      "word": "小熊猫选择了害怕的吃",
+      "onboard_time": 1712728759,
+      "rank": 21,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 318419,
       "num": 318419,
       "word": "去年B站超180万UP主通过直播获得收入",
@@ -579,14 +587,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 313801,
-      "num": 273419,
-      "word": "小熊猫选择了害怕的吃",
-      "onboard_time": 1712728759,
-      "rank": 21,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 306248,
       "num": 337935,
       "word": "文韬生日会",
@@ -601,6 +601,14 @@
       "onboard_time": 1712675780,
       "rank": 10,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 296378,
+      "num": 296378,
+      "word": "肖战地广",
+      "onboard_time": 1712726058,
+      "rank": 43,
+      "category": "艺人"
     },
     {
       "raw_hot": 296247,
@@ -643,20 +651,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 283936,
-      "num": 283936,
-      "word": "肖战地广",
-      "onboard_time": 1712726058,
-      "rank": 43,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 281566,
       "num": 281566,
       "word": "守望先锋 复活",
       "onboard_time": 1712713400,
       "rank": 23,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 280998,
+      "num": 280998,
+      "word": "假如每个星期三都能休息一次",
+      "onboard_time": 1712729120,
+      "rank": 28,
+      "category": "幽默"
     },
     {
       "raw_hot": 277501,
@@ -787,6 +795,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 236772,
+      "num": 236772,
+      "word": "胡一天张婧仪双人写真",
+      "onboard_time": 1712730739,
+      "rank": 27,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 233413,
       "num": 233413,
       "word": "刘耀文 有我这口就有你一口",
@@ -820,7 +836,7 @@
     },
     {
       "raw_hot": 227657,
-      "num": 227657,
+      "num": 278107,
       "word": "万科济南总经理肖劲被带走调查",
       "onboard_time": 1712727377,
       "rank": 24,
@@ -833,6 +849,14 @@
       "onboard_time": 1712726240,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 224225,
+      "num": 224225,
+      "word": "林更新去吃饭问今天有折扣吗",
+      "onboard_time": 1712729839,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 222601,
@@ -939,14 +963,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 211043,
-      "num": 211043,
-      "word": "假如每个星期三都能休息一次",
-      "onboard_time": 1712729120,
-      "rank": 28,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 209618,
       "num": 209618,
       "word": "韩国人精神状态一骑绝尘",
@@ -1027,6 +1043,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 204548,
+      "num": 204548,
+      "word": "龙年龙月龙日的特别景观",
+      "onboard_time": 1712730079,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 204150,
       "num": 204150,
       "word": "电影朝云暮雨定档",
@@ -1049,6 +1073,14 @@
       "onboard_time": 1712704036,
       "rank": 12,
       "category": "体育"
+    },
+    {
+      "raw_hot": 201968,
+      "num": 201968,
+      "word": "茶百道星穹铁道联名",
+      "onboard_time": 1712730678,
+      "rank": 31,
+      "category": "游戏,美食"
     },
     {
       "raw_hot": 199638,
@@ -1081,6 +1113,22 @@
       "onboard_time": 1712721799,
       "rank": 38,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 197805,
+      "num": 197805,
+      "word": "第五人格",
+      "onboard_time": 1712730798,
+      "rank": 32,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 196464,
+      "num": 196464,
+      "word": "推介人谈肖战饰演的郭靖",
+      "onboard_time": 1712730378,
+      "rank": 33,
+      "category": "电影"
     },
     {
       "raw_hot": 193044,
@@ -1123,6 +1171,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 190137,
+      "num": 190137,
+      "word": "林更新或开见面会",
+      "onboard_time": 1712730858,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 189684,
       "num": 189684,
       "word": "阿森纳2比2拜仁",
@@ -1131,12 +1187,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 187871,
+      "num": 187263,
+      "word": "远离青纱帐真的不是危言耸听",
+      "onboard_time": 1712729359,
+      "rank": 30,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 187509,
       "num": 187509,
       "word": "不背单词崩了",
       "onboard_time": 1712711119,
       "rank": 44,
       "category": "教育"
+    },
+    {
+      "raw_hot": 187497,
+      "num": 187497,
+      "word": "京东回应布局短视频领域",
+      "onboard_time": 1712729898,
+      "rank": 35,
+      "category": "互联网"
     },
     {
       "raw_hot": 186596,
@@ -1155,12 +1227,12 @@
       "category": "游戏,互联网"
     },
     {
-      "raw_hot": 184960,
-      "num": 184960,
-      "word": "远离青纱帐真的不是危言耸听",
-      "onboard_time": 1712729359,
-      "rank": 30,
-      "category": "科学科普"
+      "raw_hot": 186273,
+      "num": 186273,
+      "word": "龚俊肌肉",
+      "onboard_time": 1712730739,
+      "rank": 39,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 182105,
@@ -1169,14 +1241,6 @@
       "onboard_time": 1712664738,
       "rank": 21,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 181876,
-      "num": 181876,
-      "word": "林更新去吃饭问今天有折扣吗",
-      "onboard_time": 1712729839,
-      "rank": 33,
-      "category": "艺人"
     },
     {
       "raw_hot": 180855,
@@ -1217,14 +1281,6 @@
       "onboard_time": 1712672239,
       "rank": 19,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 173412,
-      "num": 173412,
-      "word": "京东回应布局短视频领域",
-      "onboard_time": 1712729898,
-      "rank": 35,
-      "category": "互联网"
     },
     {
       "raw_hot": 172588,
@@ -1427,12 +1483,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 140916,
-      "num": 155166,
-      "word": "龙年龙月龙日的特别景观",
-      "onboard_time": 1712730079,
-      "rank": 39,
-      "category": "社会新闻"
+      "raw_hot": 140842,
+      "num": 272008,
+      "word": "只有考研人才懂的画面",
+      "onboard_time": 1712730139,
+      "rank": 21,
+      "category": "教育"
     },
     {
       "raw_hot": 140046,
@@ -1819,6 +1875,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 21862,
+      "num": 186662,
+      "word": "如何在P5X里识别MBTI",
+      "onboard_time": 1712727377,
+      "rank": 38,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 21149,
       "num": 28115,
       "word": "小狗表达歉意的方式",
@@ -1856,14 +1920,6 @@
       "word": "恋与深空",
       "onboard_time": 1712689871,
       "rank": 49,
-      "category": "游戏"
-    },
-    {
-      "raw_hot": 16437,
-      "num": 156059,
-      "word": "如何在P5X里识别MBTI",
-      "onboard_time": 1712727377,
-      "rank": 38,
       "category": "游戏"
     },
     {
