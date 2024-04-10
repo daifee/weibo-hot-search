@@ -1,6 +1,6 @@
 {
   "startTime": 1712420539476,
-  "endTime": 1712734474568,
+  "endTime": 1712737488376,
   "band_list": [
     {
       "raw_hot": 9583581,
@@ -1563,6 +1563,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 695485,
+      "num": 695485,
+      "word": "林一虞书欣都发了雪景照",
+      "onboard_time": 1712734458,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 691194,
       "num": 691194,
       "word": "外卖小哥连续3年住15元一晚宾馆",
@@ -1707,6 +1715,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 650237,
+      "num": 650237,
+      "word": "韩国知名偶像组合成员被骗26亿韩元",
+      "onboard_time": 1712733138,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 647413,
       "num": 379526,
       "word": "弟弟考研上岸了我却一点不开心",
@@ -1721,14 +1737,6 @@
       "onboard_time": 1712664559,
       "rank": 4,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 642226,
-      "num": 642226,
-      "word": "韩国知名偶像组合成员被骗26亿韩元",
-      "onboard_time": 1712733138,
-      "rank": 23,
-      "category": "艺人"
     },
     {
       "raw_hot": 638931,
@@ -1889,6 +1897,14 @@
       "onboard_time": 1712658919,
       "rank": 49,
       "category": "美食"
+    },
+    {
+      "raw_hot": 607262,
+      "num": 607262,
+      "word": "郑合惠子千香引妆造",
+      "onboard_time": 1712734338,
+      "rank": 38,
+      "category": "剧集"
     },
     {
       "raw_hot": 607185,
@@ -2144,6 +2160,14 @@
       "word": "江西师大男学生虐猫",
       "onboard_time": 1712592380,
       "rank": 23,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 550130,
+      "num": 550130,
+      "word": "美国夫妇因儿子枪杀4人被判15年监禁",
+      "onboard_time": 1712731818,
+      "rank": 15,
       "category": "社会新闻"
     },
     {
@@ -2411,6 +2435,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 498726,
+      "num": 498726,
+      "word": "清华大学所在国家学生",
+      "onboard_time": 1712732778,
+      "rank": 16,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 498009,
       "num": 498009,
       "word": "省考成绩",
@@ -2569,14 +2601,6 @@
       "onboard_time": 1712468779,
       "rank": 30,
       "category": "情感"
-    },
-    {
-      "raw_hot": 479295,
-      "num": 479295,
-      "word": "美国夫妇因儿子枪杀4人被判15年监禁",
-      "onboard_time": 1712731818,
-      "rank": 15,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 479081,
@@ -3155,14 +3179,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 405645,
-      "num": 405645,
-      "word": "清华大学所在国家学生",
-      "onboard_time": 1712732778,
-      "rank": 16,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 405504,
       "num": 405504,
       "word": "TES对战JDG",
@@ -3283,6 +3299,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 388907,
+      "num": 388907,
+      "word": "白鹿曾舜晞全妆路透",
+      "onboard_time": 1712733617,
+      "rank": 19,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 388317,
       "num": 388317,
       "word": "智己汽车再次向小米道歉",
@@ -3377,6 +3401,14 @@
       "onboard_time": 1712641640,
       "rank": 7,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 379554,
+      "num": 379554,
+      "word": "九鹭非香改编运",
+      "onboard_time": 1712733079,
+      "rank": 32,
+      "category": "读书作家"
     },
     {
       "raw_hot": 378816,
@@ -3515,20 +3547,20 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 364383,
-      "num": 364383,
-      "word": "九鹭非香改编运",
-      "onboard_time": 1712733079,
-      "rank": 32,
-      "category": "读书作家"
-    },
-    {
       "raw_hot": 364360,
       "num": 364360,
       "word": "白鹿临江仙出妆了",
       "onboard_time": 1712581879,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 362234,
+      "num": 362234,
+      "word": "小林制药问题保健品调查结果",
+      "onboard_time": 1712734158,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 362039,
@@ -3681,6 +3713,14 @@
       "onboard_time": 1712561119,
       "rank": 37,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 349024,
+      "num": 349024,
+      "word": "原来这就是长高的征兆",
+      "onboard_time": 1712734219,
+      "rank": 22,
+      "category": "运动健身"
     },
     {
       "raw_hot": 346462,
@@ -3945,14 +3985,6 @@
       "onboard_time": 1712585298,
       "rank": 27,
       "category": "情感"
-    },
-    {
-      "raw_hot": 323462,
-      "num": 323462,
-      "word": "白鹿曾舜晞全妆路透",
-      "onboard_time": 1712733617,
-      "rank": 19,
-      "category": "剧集"
     },
     {
       "raw_hot": 321659,
@@ -4803,6 +4835,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 259567,
+      "num": 259567,
+      "word": "华晨宇演唱会顺带搞基建",
+      "onboard_time": 1712736437,
+      "rank": 19,
+      "category": "演出"
+    },
+    {
       "raw_hot": 259371,
       "num": 259371,
       "word": "美国男演员失踪后死亡",
@@ -5179,6 +5219,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 244245,
+      "num": 244245,
+      "word": "任敏 有李现我是真服气",
+      "onboard_time": 1712736918,
+      "rank": 21,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 243676,
       "num": 243676,
       "word": "华为盘古大模型首次应用于笔记本",
@@ -5553,14 +5601,6 @@
       "onboard_time": 1712554518,
       "rank": 25,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 228415,
-      "num": 228415,
-      "word": "原来这就是长高的征兆",
-      "onboard_time": 1712734219,
-      "rank": 22,
-      "category": "运动健身"
     },
     {
       "raw_hot": 228288,
@@ -6065,6 +6105,14 @@
       "onboard_time": 1712562318,
       "rank": 32,
       "category": "体育"
+    },
+    {
+      "raw_hot": 209195,
+      "num": 209195,
+      "word": "字节2023年利润涨约60%",
+      "onboard_time": 1712735598,
+      "rank": 22,
+      "category": "财经"
     },
     {
       "raw_hot": 209135,
@@ -6723,6 +6771,14 @@
       "category": "动漫,音乐"
     },
     {
+      "raw_hot": 198974,
+      "num": 170973,
+      "word": "李现任敏合照",
+      "onboard_time": 1712734998,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 198446,
       "num": 198446,
       "word": "二三十岁加的班能伤到50岁的你",
@@ -6825,6 +6881,14 @@
       "onboard_time": 1712638101,
       "rank": 38,
       "category": "作品衍生,美妆"
+    },
+    {
+      "raw_hot": 195065,
+      "num": 195065,
+      "word": "LPL春决落地佛山",
+      "onboard_time": 1712735837,
+      "rank": 23,
+      "category": "电竞"
     },
     {
       "raw_hot": 194835,
@@ -7827,14 +7891,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 173635,
-      "num": 196852,
-      "word": "小林制药问题保健品调查结果",
-      "onboard_time": 1712734158,
-      "rank": 33,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 173194,
       "num": 173194,
       "word": "小米回应SU7未交付掉漆被投诉",
@@ -7947,12 +8003,28 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 170161,
+      "num": 170161,
+      "word": "校园贷鼻祖就是我",
+      "onboard_time": 1712736737,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 169920,
       "num": 169920,
       "word": "上海年轻人街头抱树吸春",
       "onboard_time": 1712458757,
       "rank": 43,
       "category": "情感"
+    },
+    {
+      "raw_hot": 169919,
+      "num": 169919,
+      "word": "千香引把鞠婧祎名字打错了",
+      "onboard_time": 1712737459,
+      "rank": 31,
+      "category": "剧集"
     },
     {
       "raw_hot": 169641,
@@ -8059,14 +8131,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 166523,
-      "num": 166523,
-      "word": "林一虞书欣都发了雪景照",
-      "onboard_time": 1712734458,
-      "rank": 37,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 166489,
       "num": 166489,
       "word": "莫桑比克沉船至少91死",
@@ -8121,14 +8185,6 @@
       "onboard_time": 1712583740,
       "rank": 44,
       "category": "美食"
-    },
-    {
-      "raw_hot": 164968,
-      "num": 164968,
-      "word": "郑合惠子千香引妆造",
-      "onboard_time": 1712734338,
-      "rank": 38,
-      "category": "剧集"
     },
     {
       "raw_hot": 164709,
@@ -8217,6 +8273,14 @@
       "onboard_time": 1712556318,
       "rank": 38,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 162223,
+      "num": 162223,
+      "word": "麦承欢29岁女性现状",
+      "onboard_time": 1712735658,
+      "rank": 32,
+      "category": "剧集"
     },
     {
       "raw_hot": 162186,
@@ -8537,6 +8601,14 @@
       "onboard_time": 1712586561,
       "rank": 45,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 153063,
+      "num": 153063,
+      "word": "网易或将获得不限于暴雪IP的手游研运机会",
+      "onboard_time": 1712735537,
+      "rank": 36,
+      "category": "游戏"
     },
     {
       "raw_hot": 153024,
@@ -8955,6 +9027,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 140973,
+      "num": 140973,
+      "word": "肺癌年轻化的原因",
+      "onboard_time": 1712737339,
+      "rank": 41,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 140523,
       "num": 140523,
       "word": "赵小童300w粉丝福利",
@@ -9371,6 +9451,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 131828,
+      "num": 170162,
+      "word": "警方回应聊城一特斯拉撞断大桥护栏",
+      "onboard_time": 1712736319,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 131608,
       "num": 104223,
       "word": "沈近真下线",
@@ -9451,6 +9539,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 129781,
+      "num": 156784,
+      "word": "黄金大涨后白银也被买断货了",
+      "onboard_time": 1712736798,
+      "rank": 34,
+      "category": "财经"
+    },
+    {
       "raw_hot": 129778,
       "num": 129778,
       "word": "健身真的能改变一个人的脸型吗",
@@ -9481,6 +9577,14 @@
       "onboard_time": 1712505558,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 128743,
+      "num": 128743,
+      "word": "花粉飞絮一起上鼻炎患者二连炸",
+      "onboard_time": 1712737398,
+      "rank": 43,
+      "category": "科学科普"
     },
     {
       "raw_hot": 128389,
@@ -9667,6 +9771,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 123558,
+      "num": 123558,
+      "word": "惜花芷 婆家受气怪娘家",
+      "onboard_time": 1712737459,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 123290,
       "num": 204106,
       "word": "一觉醒来被拉到了霍格沃茨",
@@ -9689,6 +9801,14 @@
       "onboard_time": 1712486838,
       "rank": 45,
       "category": "情感"
+    },
+    {
+      "raw_hot": 122925,
+      "num": 122925,
+      "word": "守望先锋",
+      "onboard_time": 1712736258,
+      "rank": 46,
+      "category": "游戏"
     },
     {
       "raw_hot": 122911,
@@ -10185,6 +10305,14 @@
       "onboard_time": 1712424493,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 88132,
+      "num": 121879,
+      "word": "社恐小狗长成优秀缉毒犬",
+      "onboard_time": 1712736080,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 87504,
@@ -10721,6 +10849,14 @@
       "onboard_time": 1712725579,
       "rank": 33,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 32839,
+      "num": 626139,
+      "word": "神州春色美",
+      "onboard_time": 1712720958,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 31314,
