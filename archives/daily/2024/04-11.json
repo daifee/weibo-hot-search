@@ -1,6 +1,6 @@
 {
   "startTime": 1712766262556,
-  "endTime": 1712784856280,
+  "endTime": 1712787554744,
   "band_list": [
     {
       "raw_hot": 2260302,
@@ -163,6 +163,14 @@
       "category": "健康医疗,科学科普"
     },
     {
+      "raw_hot": 182668,
+      "num": 102975,
+      "word": "情夫死后小三用冷冻胚胎生子争遗产",
+      "onboard_time": 1712770872,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 176836,
       "num": 176836,
       "word": "周淑怡cos女高中生",
@@ -232,14 +240,6 @@
       "word": "福宝大口吃胡萝卜声音嘎嘣脆",
       "onboard_time": 1712745078,
       "rank": 9,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 130929,
-      "num": 102975,
-      "word": "情夫死后小三用冷冻胚胎生子争遗产",
-      "onboard_time": 1712770872,
-      "rank": 11,
       "category": "社会新闻"
     },
     {
@@ -411,6 +411,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 76809,
+      "num": 76809,
+      "word": "主持人cue肖战居中梗",
+      "onboard_time": 1712784311,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 72773,
       "num": 674202,
       "word": "龙年龙月龙日雪龙号归来",
@@ -483,6 +491,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 43115,
+      "num": 40370,
+      "word": "故宫偶遇王心凌",
+      "onboard_time": 1712776691,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 40281,
       "num": 40281,
       "word": "难寻",
@@ -491,12 +507,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 35066,
-      "num": 35066,
-      "word": "故宫偶遇王心凌",
-      "onboard_time": 1712776691,
-      "rank": 17,
-      "category": "艺人"
+      "raw_hot": 38743,
+      "num": 38743,
+      "word": "肖战王玉雯超星星学园旧照",
+      "onboard_time": 1712782390,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 31792,
@@ -507,43 +523,51 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 31009,
+      "num": 31009,
+      "word": "苗苗粉色小香",
+      "onboard_time": 1712785630,
+      "rank": 30,
+      "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 29393,
+      "num": 29393,
+      "word": "研究发现年轻人加速衰老",
+      "onboard_time": 1712786892,
+      "rank": 31,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 25821,
-      "num": 27204,
+      "num": 31214,
       "word": "医生建议这些人一定要吃夜宵",
       "onboard_time": 1712773451,
       "rank": 29,
       "category": "健康医疗"
     },
     {
-      "raw_hot": 23842,
-      "num": 23842,
-      "word": "肖战王玉雯超星星学园旧照",
-      "onboard_time": 1712782390,
-      "rank": 26,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 18658,
-      "num": 18658,
+      "raw_hot": 23098,
+      "num": 23098,
       "word": "眼泪女王 拧巴",
       "onboard_time": 1712780951,
       "rank": 38,
       "category": "剧集"
     },
     {
-      "raw_hot": 16763,
-      "num": 17917,
+      "raw_hot": 21548,
+      "num": 22585,
       "word": "惜花芷评级",
       "onboard_time": 1712782990,
       "rank": 40,
       "category": "剧集"
     },
     {
-      "raw_hot": 16717,
-      "num": 17021,
-      "word": "主持人cue肖战居中梗",
-      "onboard_time": 1712784311,
-      "rank": 39,
+      "raw_hot": 20134,
+      "num": 22579,
+      "word": "许凯的罗伯特叫许凯猪包",
+      "onboard_time": 1712784910,
+      "rank": 44,
       "category": "艺人"
     },
     {
