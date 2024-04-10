@@ -1,6 +1,6 @@
 {
   "startTime": 1712766262556,
-  "endTime": 1712783796384,
+  "endTime": 1712784856280,
   "band_list": [
     {
       "raw_hot": 2260302,
@@ -515,8 +515,8 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 20374,
-      "num": 20374,
+      "raw_hot": 23842,
+      "num": 23842,
       "word": "肖战王玉雯超星星学园旧照",
       "onboard_time": 1712782390,
       "rank": 26,
@@ -531,7 +531,7 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 14833,
+      "raw_hot": 16763,
       "num": 17917,
       "word": "惜花芷评级",
       "onboard_time": 1712782990,
@@ -539,7 +539,15 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 13190,
+      "raw_hot": 16717,
+      "num": 17021,
+      "word": "主持人cue肖战居中梗",
+      "onboard_time": 1712784311,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 13804,
       "num": 17883,
       "word": "年轻人带娃一边崩溃一边自愈",
       "onboard_time": 1712778670,

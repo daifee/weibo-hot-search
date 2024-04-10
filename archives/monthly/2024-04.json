@@ -1,6 +1,6 @@
 {
   "startTime": 1711902044401,
-  "endTime": 1712783796384,
+  "endTime": 1712784856280,
   "band_list": [
     {
       "raw_hot": 16874674,
@@ -28587,6 +28587,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 23842,
+      "num": 23842,
+      "word": "肖战王玉雯超星星学园旧照",
+      "onboard_time": 1712782390,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 23427,
       "num": 28301,
       "word": "春日cityhappy计划",
@@ -28715,14 +28723,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 20374,
-      "num": 20374,
-      "word": "肖战王玉雯超星星学园旧照",
-      "onboard_time": 1712782390,
-      "rank": 26,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 20228,
       "num": 20228,
       "word": "奶茶成瘾与抑郁焦虑正相关",
@@ -28819,11 +28819,27 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 16763,
+      "num": 17917,
+      "word": "惜花芷评级",
+      "onboard_time": 1712782990,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 16742,
       "num": 16742,
       "word": "王鹤棣又颠勺了",
       "onboard_time": 1712348411,
       "rank": 48,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 16717,
+      "num": 17021,
+      "word": "主持人cue肖战居中梗",
+      "onboard_time": 1712784311,
+      "rank": 39,
       "category": "艺人"
     },
     {
@@ -28857,14 +28873,6 @@
       "onboard_time": 1712603651,
       "rank": 49,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 14833,
-      "num": 17917,
-      "word": "惜花芷评级",
-      "onboard_time": 1712782990,
-      "rank": 40,
-      "category": "剧集"
     },
     {
       "raw_hot": 14753,
@@ -28907,6 +28915,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 13804,
+      "num": 17883,
+      "word": "年轻人带娃一边崩溃一边自愈",
+      "onboard_time": 1712778670,
+      "rank": 49,
+      "category": "母婴育儿"
+    },
+    {
       "raw_hot": 13753,
       "num": 14869,
       "word": "仙剑一OST翻唱",
@@ -28921,14 +28937,6 @@
       "onboard_time": 1712087530,
       "rank": 49,
       "category": "美妆"
-    },
-    {
-      "raw_hot": 13190,
-      "num": 17883,
-      "word": "年轻人带娃一边崩溃一边自愈",
-      "onboard_time": 1712778670,
-      "rank": 49,
-      "category": "母婴育儿"
     },
     {
       "raw_hot": 11730,
