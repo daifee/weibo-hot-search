@@ -1,6 +1,6 @@
 {
   "startTime": 1712420539476,
-  "endTime": 1712824661398,
+  "endTime": 1712827127545,
   "band_list": [
     {
       "raw_hot": 9583581,
@@ -96,6 +96,14 @@
       "word": "想当行长继承家产男孩父亲确为行长",
       "onboard_time": 1712469258,
       "rank": 0,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2383866,
+      "num": 2383866,
+      "word": "五一调休",
+      "onboard_time": 1712823199,
+      "rank": 7,
       "category": "社会新闻"
     },
     {
@@ -915,14 +923,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 1054371,
-      "num": 1054371,
-      "word": "五一调休",
-      "onboard_time": 1712823199,
-      "rank": 7,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1052749,
       "num": 999112,
       "word": "林更新片场把赵丽颖亲腿麻了",
@@ -1459,6 +1459,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 821634,
+      "num": 821634,
+      "word": "华为发布会",
+      "onboard_time": 1712814557,
+      "rank": 3,
+      "category": "数码"
+    },
+    {
       "raw_hot": 820497,
       "num": 820497,
       "word": "范曾发文宣布再婚",
@@ -1497,14 +1505,6 @@
       "onboard_time": 1712564660,
       "rank": 11,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 807521,
-      "num": 807521,
-      "word": "华为发布会",
-      "onboard_time": 1712814557,
-      "rank": 3,
-      "category": "数码"
     },
     {
       "raw_hot": 807130,
@@ -1736,6 +1736,14 @@
       "word": "仝卓工作室回应王凯方",
       "onboard_time": 1712743999,
       "rank": 26,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 746492,
+      "num": 314670,
+      "word": "仝卓工作室称将起诉王凯",
+      "onboard_time": 1712823079,
+      "rank": 13,
       "category": "艺人"
     },
     {
@@ -2171,6 +2179,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 662058,
+      "num": 662058,
+      "word": "500万的黄金和房子20年后谁更值钱",
+      "onboard_time": 1712824339,
+      "rank": 15,
+      "category": "财经"
+    },
+    {
       "raw_hot": 661570,
       "num": 661570,
       "word": "宫崎骏 再见了我的朋友",
@@ -2419,6 +2435,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 608533,
+      "num": 608533,
+      "word": "性早熟的5个真相",
+      "onboard_time": 1712819478,
+      "rank": 34,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 607715,
       "num": 607715,
       "word": "贡菜为何成为火锅店顶流",
@@ -2665,14 +2689,6 @@
       "onboard_time": 1712568978,
       "rank": 13,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 565366,
-      "num": 314670,
-      "word": "仝卓工作室称将起诉王凯",
-      "onboard_time": 1712823079,
-      "rank": 13,
-      "category": "艺人"
     },
     {
       "raw_hot": 563231,
@@ -3041,6 +3057,14 @@
       "onboard_time": 1712803818,
       "rank": 15,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 503804,
+      "num": 503804,
+      "word": "余承东问车上为何要搞手机支架",
+      "onboard_time": 1712824278,
+      "rank": 25,
+      "category": "互联网"
     },
     {
       "raw_hot": 503550,
@@ -4003,6 +4027,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 417580,
+      "num": 417580,
+      "word": "任嘉伦好薄一片",
+      "onboard_time": 1712823741,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 415828,
       "num": 415828,
       "word": "CUBE男经纪人骚扰minnie",
@@ -4324,7 +4356,7 @@
     },
     {
       "raw_hot": 377471,
-      "num": 215998,
+      "num": 225507,
       "word": "为什么年轻人越来越讨厌上班",
       "onboard_time": 1712820438,
       "rank": 25,
@@ -4345,14 +4377,6 @@
       "onboard_time": 1712549540,
       "rank": 32,
       "category": "情感"
-    },
-    {
-      "raw_hot": 376481,
-      "num": 216533,
-      "word": "性早熟的5个真相",
-      "onboard_time": 1712819478,
-      "rank": 34,
-      "category": "科学科普"
     },
     {
       "raw_hot": 374631,
@@ -4819,14 +4843,6 @@
       "category": "科学科普"
     },
     {
-      "raw_hot": 338960,
-      "num": 310918,
-      "word": "500万的黄金和房子20年后谁更值钱",
-      "onboard_time": 1712824339,
-      "rank": 15,
-      "category": "财经"
-    },
-    {
       "raw_hot": 337792,
       "num": 337792,
       "word": "易烊千玺机场图",
@@ -5097,6 +5113,14 @@
       "onboard_time": 1712811679,
       "rank": 29,
       "category": "动漫,作品衍生"
+    },
+    {
+      "raw_hot": 317725,
+      "num": 1174721,
+      "word": "三月三是什么节",
+      "onboard_time": 1712822058,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 317659,
@@ -5444,7 +5468,7 @@
     },
     {
       "raw_hot": 300571,
-      "num": 215371,
+      "num": 227117,
       "word": "杭州一公司50万年薪招聘代嫁师",
       "onboard_time": 1712822838,
       "rank": 23,
@@ -5915,6 +5939,14 @@
       "category": "作品衍生,艺人"
     },
     {
+      "raw_hot": 274803,
+      "num": 274803,
+      "word": "和赵露思小时候的合照",
+      "onboard_time": 1712823916,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 274518,
       "num": 320415,
       "word": "压力太大胃会告诉你",
@@ -6129,6 +6161,14 @@
       "onboard_time": 1712462179,
       "rank": 25,
       "category": "体育"
+    },
+    {
+      "raw_hot": 260878,
+      "num": 260878,
+      "word": "胡一天挑战张元英转圈",
+      "onboard_time": 1712826137,
+      "rank": 15,
+      "category": "剧集"
     },
     {
       "raw_hot": 260600,
@@ -6419,14 +6459,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 250728,
-      "num": 1174721,
-      "word": "三月三是什么节",
-      "onboard_time": 1712822058,
-      "rank": 2,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 250707,
       "num": 250707,
       "word": "麦承欢小时候照片是杨紫本人",
@@ -6601,6 +6633,14 @@
       "onboard_time": 1712795119,
       "rank": 25,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 244904,
+      "num": 186120,
+      "word": "一位伤心的妻子发现丈夫出轨",
+      "onboard_time": 1712826917,
+      "rank": 30,
+      "category": "情感"
     },
     {
       "raw_hot": 244469,
@@ -6800,14 +6840,6 @@
       "word": "吉克隽逸说我黑都那么漂亮白了还得了",
       "onboard_time": 1712455757,
       "rank": 29,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 239172,
-      "num": 239172,
-      "word": "任嘉伦好薄一片",
-      "onboard_time": 1712823741,
-      "rank": 45,
       "category": "艺人"
     },
     {
@@ -7211,6 +7243,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 224977,
+      "num": 224977,
+      "word": "于正再怼曾舜晞粉丝",
+      "onboard_time": 1712823679,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 224604,
       "num": 224604,
       "word": "王一博即兴",
@@ -7377,6 +7417,14 @@
       "onboard_time": 1712751019,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 219134,
+      "num": 219134,
+      "word": "五色螺蛳粉",
+      "onboard_time": 1712825298,
+      "rank": 26,
+      "category": "美食"
     },
     {
       "raw_hot": 218875,
@@ -8121,14 +8169,6 @@
       "onboard_time": 1712761281,
       "rank": 38,
       "category": "体育"
-    },
-    {
-      "raw_hot": 204088,
-      "num": 204088,
-      "word": "余承东问车上为何要搞手机支架",
-      "onboard_time": 1712824278,
-      "rank": 25,
-      "category": "互联网"
     },
     {
       "raw_hot": 204079,
@@ -9067,14 +9107,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 189160,
-      "num": 189160,
-      "word": "和赵露思小时候的合照",
-      "onboard_time": 1712823916,
-      "rank": 27,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 189113,
       "num": 189113,
       "word": "萧亚轩被寄威胁信",
@@ -9121,6 +9153,14 @@
       "onboard_time": 1712464820,
       "rank": 32,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 187897,
+      "num": 187897,
+      "word": "时代少年团抢票攻略",
+      "onboard_time": 1712826258,
+      "rank": 28,
+      "category": "演出"
     },
     {
       "raw_hot": 187871,
@@ -9313,6 +9353,14 @@
       "onboard_time": 1712488697,
       "rank": 31,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 185806,
+      "num": 185806,
+      "word": "戛纳电影节",
+      "onboard_time": 1712826798,
+      "rank": 31,
+      "category": "电影"
     },
     {
       "raw_hot": 185771,
@@ -9665,14 +9713,6 @@
       "onboard_time": 1712739619,
       "rank": 30,
       "category": "情感"
-    },
-    {
-      "raw_hot": 178390,
-      "num": 178390,
-      "word": "于正再怼曾舜晞粉丝",
-      "onboard_time": 1712823679,
-      "rank": 39,
-      "category": "艺人"
     },
     {
       "raw_hot": 178229,
@@ -10203,6 +10243,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 167715,
+      "num": 167715,
+      "word": "智界S7Pro售价24.98万元起",
+      "onboard_time": 1712824698,
+      "rank": 32,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 167553,
       "num": 167553,
       "word": "三代日本皇室女性都曾患上心理疾病",
@@ -10731,6 +10779,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 156312,
+      "num": 144785,
+      "word": "林更新回应抓衣领吻",
+      "onboard_time": 1712826857,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 156101,
       "num": 163199,
       "word": "成都蓉城3比0浙江队",
@@ -11121,6 +11177,14 @@
       "onboard_time": 1712665879,
       "rank": 49,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 147699,
+      "num": 147699,
+      "word": "我以为抓大鹅是小众游戏",
+      "onboard_time": 1712824818,
+      "rank": 37,
+      "category": "幽默"
     },
     {
       "raw_hot": 147403,
@@ -11827,6 +11891,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 134822,
+      "num": 134822,
+      "word": "檀健次上海活动",
+      "onboard_time": 1712825118,
+      "rank": 42,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 134710,
       "num": 134710,
       "word": "猫咪走丢一次后再也不肯出门",
@@ -12179,6 +12251,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 128232,
+      "num": 128232,
+      "word": "再不看数码宝贝就老了",
+      "onboard_time": 1712825539,
+      "rank": 43,
+      "category": "动漫,作品衍生"
+    },
+    {
       "raw_hot": 127953,
       "num": 127953,
       "word": "刷我医保卡救活沈近真",
@@ -12227,6 +12307,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 126566,
+      "num": 126566,
+      "word": "问界M7大定",
+      "onboard_time": 1712825899,
+      "rank": 44,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 126449,
       "num": 126449,
       "word": "谢帝谢帝我要迪士尼",
@@ -12257,6 +12345,14 @@
       "onboard_time": 1712800938,
       "rank": 41,
       "category": "美食"
+    },
+    {
+      "raw_hot": 126006,
+      "num": 126006,
+      "word": "丑猫吐舌头惹到谁了",
+      "onboard_time": 1712826798,
+      "rank": 45,
+      "category": "幽默"
     },
     {
       "raw_hot": 125996,
@@ -12385,6 +12481,14 @@
       "onboard_time": 1712822898,
       "rank": 44,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 124065,
+      "num": 124065,
+      "word": "当我在食堂给朋友过生日时",
+      "onboard_time": 1712826977,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 123888,
@@ -13323,6 +13427,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 75899,
+      "num": 152855,
+      "word": "华为智界S7价格权益真香",
+      "onboard_time": 1712824878,
+      "rank": 35,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 75358,
       "num": 75358,
       "word": "苗苗粉色小香",
@@ -13577,6 +13689,14 @@
       "onboard_time": 1712509393,
       "rank": 38,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 58005,
+      "num": 227708,
+      "word": "华为首款柔性OLED笔记本发布",
+      "onboard_time": 1712826316,
+      "rank": 21,
+      "category": "数码"
     },
     {
       "raw_hot": 56662,
@@ -13907,6 +14027,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 23357,
+      "num": 145225,
+      "word": "华为980克新款旗舰笔记本有多强",
+      "onboard_time": 1712826677,
+      "rank": 38,
+      "category": "数码"
+    },
+    {
       "raw_hot": 22321,
       "num": 28122,
       "word": "汉服对一个普通人改变有多大",
@@ -14025,6 +14153,14 @@
       "onboard_time": 1712689871,
       "rank": 49,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 16535,
+      "num": 261865,
+      "word": "淘宝举办家乡时装周",
+      "onboard_time": 1712826017,
+      "rank": 14,
+      "category": "互联网"
     },
     {
       "raw_hot": 16244,

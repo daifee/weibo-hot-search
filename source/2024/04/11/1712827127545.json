@@ -1,0 +1,410 @@
+{
+  "runTime": 1712827127545,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2383866,
+        "num": 2383866,
+        "word": "五一调休",
+        "onboard_time": 1712823199,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 821634,
+        "num": 821634,
+        "word": "华为发布会",
+        "onboard_time": 1712814557,
+        "rank": 1,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 317725,
+        "num": 711626,
+        "word": "三月三是什么节",
+        "onboard_time": 1712822058,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 662058,
+        "num": 662058,
+        "word": "500万的黄金和房子20年后谁更值钱",
+        "onboard_time": 1712824339,
+        "rank": 3,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 608533,
+        "num": 608533,
+        "word": "性早熟的5个真相",
+        "onboard_time": 1712819478,
+        "rank": 4,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 503804,
+        "num": 503804,
+        "word": "余承东问车上为何要搞手机支架",
+        "onboard_time": 1712824278,
+        "rank": 5,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 417580,
+        "num": 417580,
+        "word": "任嘉伦好薄一片",
+        "onboard_time": 1712823741,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 344647,
+        "num": 344647,
+        "word": "去世的妻生病的娃破碎的他",
+        "onboard_time": 1712818939,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 329588,
+        "num": 329588,
+        "word": "官方称华晨宇烟台演唱会未违规用地",
+        "onboard_time": 1712821518,
+        "rank": 8,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 148273,
+        "num": 302062,
+        "word": "花花好想要一双大长腿",
+        "onboard_time": 1712803098,
+        "rank": 9,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 1502676,
+        "num": 297015,
+        "word": "金星复婚",
+        "onboard_time": 1712814498,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 746492,
+        "num": 295970,
+        "word": "仝卓工作室称将起诉王凯",
+        "onboard_time": 1712823079,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 274803,
+        "num": 274803,
+        "word": "和赵露思小时候的合照",
+        "onboard_time": 1712823916,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 270993,
+        "num": 270993,
+        "word": "赵丽颖林更新再拍部剧吧",
+        "onboard_time": 1712821578,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 16535,
+        "num": 261865,
+        "word": "淘宝举办家乡时装周",
+        "onboard_time": 1712826017,
+        "rank": 14,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 260878,
+        "num": 260878,
+        "word": "胡一天挑战张元英转圈",
+        "onboard_time": 1712826137,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 260433,
+        "num": 260433,
+        "word": "多动症男孩欺负同学46名家长请愿其转学",
+        "onboard_time": 1712815278,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 244401,
+        "num": 244401,
+        "word": "华为发布会没提P70",
+        "onboard_time": 1712823797,
+        "rank": 17,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 234260,
+        "num": 234260,
+        "word": "华为MateBook",
+        "onboard_time": 1712823498,
+        "rank": 18,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 230237,
+        "num": 230237,
+        "word": "有人专门投资让未成年人偷手机",
+        "onboard_time": 1712820498,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1484683,
+        "num": 229997,
+        "word": "调休快把四月调成单休了",
+        "onboard_time": 1712817918,
+        "rank": 20,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 58005,
+        "num": 227708,
+        "word": "华为首款柔性OLED笔记本发布",
+        "onboard_time": 1712826316,
+        "rank": 21,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 263466,
+        "num": 227117,
+        "word": "杭州一公司50万年薪招聘代嫁师",
+        "onboard_time": 1712822838,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 233906,
+        "num": 225507,
+        "word": "为什么年轻人越来越讨厌上班",
+        "onboard_time": 1712820438,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 224977,
+        "num": 224977,
+        "word": "于正再怼曾舜晞粉丝",
+        "onboard_time": 1712823679,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 221590,
+        "num": 221590,
+        "word": "余承东称华为智驾是现货不是期货",
+        "onboard_time": 1712822058,
+        "rank": 25,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 219134,
+        "num": 219134,
+        "word": "五色螺蛳粉",
+        "onboard_time": 1712825298,
+        "rank": 26,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 213396,
+        "num": 213396,
+        "word": "金星秀国际版要来了",
+        "onboard_time": 1712821157,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 187897,
+        "num": 187897,
+        "word": "时代少年团抢票攻略",
+        "onboard_time": 1712826258,
+        "rank": 28,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 150372,
+        "num": 186156,
+        "word": "睡着后身份证被弟弟拿走贷了30万",
+        "onboard_time": 1712815700,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 244904,
+        "num": 186120,
+        "word": "一位伤心的妻子发现丈夫出轨",
+        "onboard_time": 1712826917,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 185806,
+        "num": 185806,
+        "word": "戛纳电影节",
+        "onboard_time": 1712826798,
+        "rank": 31,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 167715,
+        "num": 167715,
+        "word": "智界S7Pro售价24.98万元起",
+        "onboard_time": 1712824698,
+        "rank": 32,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 159990,
+        "num": 159990,
+        "word": "赵丽颖林更新摸头抱",
+        "onboard_time": 1712813239,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 158112,
+        "num": 158112,
+        "word": "床上有螨虫的3个表现",
+        "onboard_time": 1712804119,
+        "rank": 34,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 75899,
+        "num": 152855,
+        "word": "华为智界S7价格权益真香",
+        "onboard_time": 1712824878,
+        "rank": 35,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 150965,
+        "num": 150965,
+        "word": "魏若来 我一点都不可爱",
+        "onboard_time": 1712823979,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 147699,
+        "num": 147699,
+        "word": "我以为抓大鹅是小众游戏",
+        "onboard_time": 1712824818,
+        "rank": 37,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 23357,
+        "num": 145225,
+        "word": "华为980克新款旗舰笔记本有多强",
+        "onboard_time": 1712826677,
+        "rank": 38,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 102901,
+        "num": 144788,
+        "word": "夫妇俩开车多看一眼救了一个人",
+        "onboard_time": 1712818878,
+        "rank": 39,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 156312,
+        "num": 144785,
+        "word": "林更新回应抓衣领吻",
+        "onboard_time": 1712826857,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 144735,
+        "num": 144735,
+        "word": "小金毛一怒之下怒了一下",
+        "onboard_time": 1712822898,
+        "rank": 41,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 134822,
+        "num": 134822,
+        "word": "檀健次上海活动",
+        "onboard_time": 1712825118,
+        "rank": 42,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 128232,
+        "num": 128232,
+        "word": "再不看数码宝贝就老了",
+        "onboard_time": 1712825539,
+        "rank": 43,
+        "category": "动漫,作品衍生"
+      },
+      {
+        "raw_hot": 126566,
+        "num": 126566,
+        "word": "问界M7大定",
+        "onboard_time": 1712825899,
+        "rank": 44,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 126006,
+        "num": 126006,
+        "word": "丑猫吐舌头惹到谁了",
+        "onboard_time": 1712826798,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 124718,
+        "num": 124718,
+        "word": "为什么坐公交都喜欢往后面跑",
+        "onboard_time": 1712822357,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 79912,
+        "num": 124217,
+        "word": "医保部门从未规定单次住院不超过15天",
+        "onboard_time": 1712815819,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 79265,
+        "num": 124084,
+        "word": "教资成绩 过",
+        "onboard_time": 1712816239,
+        "rank": 48,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 124065,
+        "num": 124065,
+        "word": "当我在食堂给朋友过生日时",
+        "onboard_time": 1712826977,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#两岸青年好两岸未来才会好#"
+    }
+  }
+}
