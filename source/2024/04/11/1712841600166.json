@@ -1,0 +1,410 @@
+{
+  "runTime": 1712841600166,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1023695,
+        "num": 1023695,
+        "word": "雷军问网友是否支持车上有原装手机支架",
+        "onboard_time": 1712837477,
+        "rank": 0,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 896381,
+        "num": 896381,
+        "word": "赵丽颖王伊瑶友情",
+        "onboard_time": 1712837958,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 83403,
+        "num": 707540,
+        "word": "春天的气息藏在花海里",
+        "onboard_time": 1712839217,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 597777,
+        "num": 597777,
+        "word": "微信打电话和直接打电话的区别",
+        "onboard_time": 1712835137,
+        "rank": 3,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 437649,
+        "num": 437649,
+        "word": "越南女首富张美兰被判处死刑",
+        "onboard_time": 1712829978,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1542323,
+        "num": 414453,
+        "word": "换儿子血的亿万富翁展示3年抗衰成果",
+        "onboard_time": 1712835377,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 368935,
+        "num": 368935,
+        "word": "卖房让娃退学环游世界的家庭怎么样了",
+        "onboard_time": 1712832977,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 362456,
+        "num": 362456,
+        "word": "吃自助一定不要吃太饱",
+        "onboard_time": 1712837837,
+        "rank": 7,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 344453,
+        "num": 344453,
+        "word": "唐嫣 高定配高珠",
+        "onboard_time": 1712836097,
+        "rank": 8,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 270088,
+        "num": 322403,
+        "word": "女生递补第一被成功补录上岸研究生",
+        "onboard_time": 1712827997,
+        "rank": 9,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 564920,
+        "num": 318495,
+        "word": "章子怡酱园弄戛纳就穿这套吧",
+        "onboard_time": 1712839878,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 492880,
+        "num": 317975,
+        "word": "生母虐待男孩致截肢获刑6年9个月",
+        "onboard_time": 1712836697,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 309217,
+        "num": 309217,
+        "word": "查出幽门螺杆菌不治疗会得重病吗",
+        "onboard_time": 1712830459,
+        "rank": 12,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 298768,
+        "num": 298768,
+        "word": "雅诗兰黛 IU",
+        "onboard_time": 1712841439,
+        "rank": 13,
+        "category": "作品衍生,美妆"
+      },
+      {
+        "raw_hot": 294671,
+        "num": 294671,
+        "word": "邓科夸林更新演什么像什么",
+        "onboard_time": 1712835976,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 291081,
+        "num": 291081,
+        "word": "白鹿说顶光生图流出去不吓死了",
+        "onboard_time": 1712833278,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 289411,
+        "num": 289411,
+        "word": "蓝盈莹也做了甘露寺美甲",
+        "onboard_time": 1712827397,
+        "rank": 16,
+        "category": "剧集,美妆"
+      },
+      {
+        "raw_hot": 256770,
+        "num": 256770,
+        "word": "金秀贤金智媛德国合照",
+        "onboard_time": 1712835738,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 253135,
+        "num": 253135,
+        "word": "考古王一博",
+        "onboard_time": 1712840057,
+        "rank": 18,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 86633,
+        "num": 250966,
+        "word": "500万的黄金和房子20年后谁更值钱",
+        "onboard_time": 1712824339,
+        "rank": 19,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 1339791,
+        "num": 250713,
+        "word": "朴彩英双眼皮",
+        "onboard_time": 1712837357,
+        "rank": 20,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 254496,
+        "num": 250600,
+        "word": "调休快把四月调成单休了",
+        "onboard_time": 1712817918,
+        "rank": 21,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 249465,
+        "num": 249465,
+        "word": "熊祁 恋与深空",
+        "onboard_time": 1712838798,
+        "rank": 22,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 247975,
+        "num": 247975,
+        "word": "邓科拍的赵丽颖林更新",
+        "onboard_time": 1712839277,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 245063,
+        "num": 245063,
+        "word": "高校回应女子一丝不挂大闹男生宿舍",
+        "onboard_time": 1712828777,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 208598,
+        "num": 208598,
+        "word": "张颂文说还没去提小米SU7",
+        "onboard_time": 1712831838,
+        "rank": 25,
+        "category": "艺人,汽车"
+      },
+      {
+        "raw_hot": 201847,
+        "num": 201847,
+        "word": "沈腾王鹤棣乱入十个勤天团建",
+        "onboard_time": 1712838917,
+        "rank": 26,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 25134,
+        "num": 198877,
+        "word": "极狐技术品牌3大进化",
+        "onboard_time": 1712841078,
+        "rank": 27,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 205342,
+        "num": 198512,
+        "word": "林更新说与赵丽颖搭档是荣幸",
+        "onboard_time": 1712841498,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 69920,
+        "num": 197680,
+        "word": "三月三是什么节",
+        "onboard_time": 1712822058,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 197571,
+        "num": 197571,
+        "word": "甘露寺美甲",
+        "onboard_time": 1712835618,
+        "rank": 30,
+        "category": "作品衍生,美妆"
+      },
+      {
+        "raw_hot": 190096,
+        "num": 190096,
+        "word": "张艺兴女团",
+        "onboard_time": 1712838798,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 188802,
+        "num": 188802,
+        "word": "仝卓称无法控制工作室账号发布内容",
+        "onboard_time": 1712832077,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 181233,
+        "num": 181233,
+        "word": "承欢记直播",
+        "onboard_time": 1712834957,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 164364,
+        "num": 164364,
+        "word": "infp 最接近神的人格",
+        "onboard_time": 1712828417,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 161368,
+        "num": 161368,
+        "word": "五一调休",
+        "onboard_time": 1712823199,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 160277,
+        "num": 160277,
+        "word": "猫咪不小心打开电磁炉把家烧了",
+        "onboard_time": 1712840359,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 159094,
+        "num": 159094,
+        "word": "张杰南昌",
+        "onboard_time": 1712840238,
+        "rank": 37,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 143168,
+        "num": 143168,
+        "word": "KPOP人新减肥方法",
+        "onboard_time": 1712839457,
+        "rank": 38,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 71016,
+        "num": 142263,
+        "word": "神农架招聘要求遇见野人跑得快",
+        "onboard_time": 1712841257,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 142258,
+        "num": 142258,
+        "word": "易烊千玺工作室放饭了",
+        "onboard_time": 1712831838,
+        "rank": 40,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 142029,
+        "num": 142029,
+        "word": "章子怡重返戛纳",
+        "onboard_time": 1712838617,
+        "rank": 41,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 137160,
+        "num": 141580,
+        "word": "INFJ善于发现美的存在",
+        "onboard_time": 1712839698,
+        "rank": 42,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 141147,
+        "num": 141147,
+        "word": "娄烨 三个字",
+        "onboard_time": 1712835798,
+        "rank": 43,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 140272,
+        "num": 140272,
+        "word": "朱一龙湿发狼尾",
+        "onboard_time": 1712839818,
+        "rank": 44,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 140190,
+        "num": 140190,
+        "word": "BLG对战TES",
+        "onboard_time": 1712829498,
+        "rank": 45,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 132869,
+        "num": 132869,
+        "word": "房子租出去8年回家时人傻了",
+        "onboard_time": 1712827217,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 66518,
+        "num": 131507,
+        "word": "WTT点评女乒众将",
+        "onboard_time": 1712839159,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 62180,
+        "num": 130492,
+        "word": "上海男篮vs北京男篮",
+        "onboard_time": 1712839578,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 58418,
+        "num": 130416,
+        "word": "24年进体制的19次机会",
+        "onboard_time": 1712827938,
+        "rank": 49,
+        "category": "教育"
+      }
+    ],
+    "hotgov": {
+      "word": "#两岸青年好两岸未来才会好#"
+    }
+  }
+}
