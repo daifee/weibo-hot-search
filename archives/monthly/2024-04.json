@@ -1,6 +1,6 @@
 {
   "startTime": 1711902044401,
-  "endTime": 1712805502887,
+  "endTime": 1712806458599,
   "band_list": [
     {
       "raw_hot": 16874674,
@@ -769,6 +769,14 @@
       "onboard_time": 1712491999,
       "rank": 17,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 1629634,
+      "num": 1629634,
+      "word": "刷牙不刷舌头约等于白刷",
+      "onboard_time": 1712802438,
+      "rank": 30,
+      "category": "科学科普"
     },
     {
       "raw_hot": 1624375,
@@ -1745,14 +1753,6 @@
       "onboard_time": 1712570899,
       "rank": 16,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1183326,
-      "num": 1183326,
-      "word": "刷牙不刷舌头约等于白刷",
-      "onboard_time": 1712802438,
-      "rank": 30,
-      "category": "科学科普"
     },
     {
       "raw_hot": 1181394,
@@ -7323,6 +7323,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 479867,
+      "num": 479867,
+      "word": "全面排查中小学重点班快慢班",
+      "onboard_time": 1712805020,
+      "rank": 25,
+      "category": "教育"
+    },
+    {
       "raw_hot": 479382,
       "num": 310340,
       "word": "雷军妻子罕见露面",
@@ -7627,6 +7635,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 464728,
+      "num": 464728,
+      "word": "今天本该是周五",
+      "onboard_time": 1712802559,
+      "rank": 29,
+      "category": "情感"
+    },
+    {
       "raw_hot": 464705,
       "num": 464705,
       "word": "五月天歌迷会疑似是黄牛",
@@ -7801,6 +7817,14 @@
       "onboard_time": 1712054840,
       "rank": 24,
       "category": "情感"
+    },
+    {
+      "raw_hot": 456156,
+      "num": 511424,
+      "word": "花花好想要一双大长腿",
+      "onboard_time": 1712803098,
+      "rank": 9,
+      "category": "幽默"
     },
     {
       "raw_hot": 455619,
@@ -8153,6 +8177,14 @@
       "onboard_time": 1712544919,
       "rank": 7,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 441372,
+      "num": 441372,
+      "word": "江西省考成绩",
+      "onboard_time": 1712804958,
+      "rank": 12,
+      "category": "教育"
     },
     {
       "raw_hot": 441179,
@@ -9099,14 +9131,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 397521,
-      "num": 397521,
-      "word": "江西省考成绩",
-      "onboard_time": 1712804958,
-      "rank": 12,
-      "category": "教育"
-    },
-    {
       "raw_hot": 397327,
       "num": 397327,
       "word": "孙颖莎世界排名积分7800分",
@@ -9393,14 +9417,6 @@
       "onboard_time": 1712025799,
       "rank": 12,
       "category": "数码"
-    },
-    {
-      "raw_hot": 385334,
-      "num": 511424,
-      "word": "花花好想要一双大长腿",
-      "onboard_time": 1712803098,
-      "rank": 9,
-      "category": "幽默"
     },
     {
       "raw_hot": 384883,
@@ -9707,14 +9723,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 373578,
-      "num": 373578,
-      "word": "今天本该是周五",
-      "onboard_time": 1712802559,
-      "rank": 29,
-      "category": "情感"
-    },
-    {
       "raw_hot": 372958,
       "num": 372958,
       "word": "李洙赫回关邓为",
@@ -9841,6 +9849,14 @@
       "onboard_time": 1712670200,
       "rank": 13,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 367181,
+      "num": 367181,
+      "word": "韩国多名政府高官同时请辞",
+      "onboard_time": 1712802857,
+      "rank": 33,
+      "category": "国外时政"
     },
     {
       "raw_hot": 367013,
@@ -10931,14 +10947,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 326830,
-      "num": 326830,
-      "word": "韩国多名政府高官同时请辞",
-      "onboard_time": 1712802857,
-      "rank": 33,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 326657,
       "num": 326657,
       "word": "Uzi谈Doinb复播",
@@ -11465,6 +11473,14 @@
       "onboard_time": 1712105370,
       "rank": 35,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 310106,
+      "num": 204653,
+      "word": "马立奥 小橘子还是不想动",
+      "onboard_time": 1712805798,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 308971,
@@ -12891,6 +12907,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 273273,
+      "num": 273273,
+      "word": "明星客串几分钟却被当主角宣传合适吗",
+      "onboard_time": 1712805918,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 273258,
       "num": 273258,
       "word": "全校唯一一个自驾上学的高中生",
@@ -13651,6 +13675,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 256353,
+      "num": 256353,
+      "word": "体态瘦腰",
+      "onboard_time": 1712804057,
+      "rank": 33,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 256303,
       "num": 238115,
       "word": "刚工作三个月父母就向我要钱",
@@ -14115,14 +14147,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 248249,
-      "num": 248249,
-      "word": "全面排查中小学重点班快慢班",
-      "onboard_time": 1712805020,
-      "rank": 25,
-      "category": "教育"
-    },
-    {
       "raw_hot": 248247,
       "num": 248247,
       "word": "NIP战胜FPX",
@@ -14401,6 +14425,14 @@
       "onboard_time": 1712718438,
       "rank": 28,
       "category": "数码"
+    },
+    {
+      "raw_hot": 243622,
+      "num": 243622,
+      "word": "肖战米兰带病拍摄",
+      "onboard_time": 1712804119,
+      "rank": 29,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 243506,
@@ -15169,14 +15201,6 @@
       "onboard_time": 1712561418,
       "rank": 29,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 231045,
-      "num": 231045,
-      "word": "肖战米兰带病拍摄",
-      "onboard_time": 1712804119,
-      "rank": 29,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 230810,
@@ -16691,14 +16715,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 209832,
-      "num": 209832,
-      "word": "体态瘦腰",
-      "onboard_time": 1712804057,
-      "rank": 33,
-      "category": "运动健身"
-    },
-    {
       "raw_hot": 209654,
       "num": 209654,
       "word": "跑步应该一个人还是一群人",
@@ -18059,6 +18075,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 198676,
+      "num": 198676,
+      "word": "武大开设雷军班计划招收30人",
+      "onboard_time": 1712805979,
+      "rank": 32,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 198648,
       "num": 198648,
       "word": "Rookie岩雀",
@@ -18603,6 +18627,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 194145,
+      "num": 194145,
+      "word": "RNG选手支出每月几百万",
+      "onboard_time": 1712803879,
+      "rank": 36,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 194025,
       "num": 194025,
       "word": "红米Turbo3发布会",
@@ -19049,6 +19081,14 @@
       "onboard_time": 1712665580,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 191189,
+      "num": 191189,
+      "word": "献鱼",
+      "onboard_time": 1712805739,
+      "rank": 35,
+      "category": "剧集"
     },
     {
       "raw_hot": 191079,
@@ -20083,6 +20123,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 183201,
+      "num": 181728,
+      "word": "献鱼 随地大小吻",
+      "onboard_time": 1712805197,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 183055,
       "num": 183055,
       "word": "考研七次是一种什么体验",
@@ -20091,20 +20139,20 @@
       "category": "情感"
     },
     {
-      "raw_hot": 182939,
-      "num": 182939,
-      "word": "RNG选手支出每月几百万",
-      "onboard_time": 1712803879,
-      "rank": 36,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 182886,
       "num": 182886,
       "word": "王一博龙脊",
       "onboard_time": 1712329760,
       "rank": 43,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 182885,
+      "num": 182885,
+      "word": "为什么天天饿肚子减肥却没成功",
+      "onboard_time": 1712805439,
+      "rank": 46,
+      "category": "运动健身"
     },
     {
       "raw_hot": 182841,
@@ -21313,6 +21361,14 @@
       "onboard_time": 1712552541,
       "rank": 34,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 170449,
+      "num": 170449,
+      "word": "夏目友人帐 七年后的第七季",
+      "onboard_time": 1712806099,
+      "rank": 40,
+      "category": "动漫,作品衍生"
     },
     {
       "raw_hot": 170441,
@@ -22587,6 +22643,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 158161,
+      "num": 480530,
+      "word": "下一个世界级产品或诞生在中国",
+      "onboard_time": 1712804538,
+      "rank": 13,
+      "category": "数码"
+    },
+    {
       "raw_hot": 158135,
       "num": 201104,
       "word": "辽宁省考",
@@ -23121,6 +23185,14 @@
       "onboard_time": 1712228659,
       "rank": 41,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 152915,
+      "num": 152915,
+      "word": "Flandre希望TES赢BLG",
+      "onboard_time": 1712804359,
+      "rank": 43,
+      "category": "电竞"
     },
     {
       "raw_hot": 152854,
@@ -23667,14 +23739,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 148115,
-      "num": 148115,
-      "word": "献鱼 随地大小吻",
-      "onboard_time": 1712805197,
-      "rank": 41,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 148108,
       "num": 148108,
       "word": "ZARA中国近四成分公司已注销",
@@ -23865,14 +23929,6 @@
       "onboard_time": 1712030899,
       "rank": 48,
       "category": "母婴育儿"
-    },
-    {
-      "raw_hot": 146772,
-      "num": 377304,
-      "word": "下一个世界级产品或诞生在中国",
-      "onboard_time": 1712804538,
-      "rank": 13,
-      "category": "数码"
     },
     {
       "raw_hot": 146652,
@@ -24107,14 +24163,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 144302,
-      "num": 144302,
-      "word": "Flandre希望TES赢BLG",
-      "onboard_time": 1712804359,
-      "rank": 43,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 144223,
       "num": 144223,
       "word": "我看挤公交谁敢踩我的脚",
@@ -24177,6 +24225,14 @@
       "onboard_time": 1712024119,
       "rank": 41,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 143665,
+      "num": 143665,
+      "word": "武大雷军班100%具备保研资格",
+      "onboard_time": 1712806398,
+      "rank": 46,
+      "category": "教育"
     },
     {
       "raw_hot": 143617,
@@ -25355,6 +25411,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 133628,
+      "num": 133628,
+      "word": "RNG战队老板已成老赖",
+      "onboard_time": 1712805258,
+      "rank": 45,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 133549,
       "num": 133549,
       "word": "你们有低分享欲的朋友吗",
@@ -25859,14 +25923,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 126873,
-      "num": 126873,
-      "word": "RNG战队老板已成老赖",
-      "onboard_time": 1712805258,
-      "rank": 45,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 126719,
       "num": 126719,
       "word": "什么是躁狂发作",
@@ -26161,14 +26217,6 @@
       "onboard_time": 1711962320,
       "rank": 49,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 124526,
-      "num": 124526,
-      "word": "为什么天天饿肚子减肥却没成功",
-      "onboard_time": 1712805439,
-      "rank": 46,
-      "category": "运动健身"
     },
     {
       "raw_hot": 124448,

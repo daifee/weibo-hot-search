@@ -1,0 +1,410 @@
+{
+  "runTime": 1712806458599,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1629634,
+        "num": 1629634,
+        "word": "刷牙不刷舌头约等于白刷",
+        "onboard_time": 1712802438,
+        "rank": 0,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 908858,
+        "num": 908858,
+        "word": "韩国国务总理辞职",
+        "onboard_time": 1712801357,
+        "rank": 1,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 41344,
+        "num": 825990,
+        "word": "我国电力系统充电宝创多项世界纪录",
+        "onboard_time": 1712757621,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 766184,
+        "num": 766184,
+        "word": "赵丽颖拍林更新",
+        "onboard_time": 1712756718,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 679330,
+        "num": 679330,
+        "word": "三月三",
+        "onboard_time": 1712791335,
+        "rank": 4,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 542814,
+        "num": 542814,
+        "word": "63岁阿姨健身8年身材如少女",
+        "onboard_time": 1712799438,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 519074,
+        "num": 519074,
+        "word": "华为P70",
+        "onboard_time": 1712801658,
+        "rank": 6,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 506631,
+        "num": 506631,
+        "word": "荣耀回应小米道歉",
+        "onboard_time": 1712801357,
+        "rank": 7,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 604368,
+        "num": 500521,
+        "word": "赵丽颖林更新超强售后",
+        "onboard_time": 1712795659,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 456156,
+        "num": 491695,
+        "word": "花花好想要一双大长腿",
+        "onboard_time": 1712803098,
+        "rank": 9,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 488346,
+        "num": 488346,
+        "word": "迪丽热巴邓为 将门毒后",
+        "onboard_time": 1712794939,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 158161,
+        "num": 480530,
+        "word": "下一个世界级产品或诞生在中国",
+        "onboard_time": 1712804538,
+        "rank": 11,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 479867,
+        "num": 479867,
+        "word": "全面排查中小学重点班快慢班",
+        "onboard_time": 1712805020,
+        "rank": 12,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 464728,
+        "num": 464728,
+        "word": "今天本该是周五",
+        "onboard_time": 1712802559,
+        "rank": 13,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 441372,
+        "num": 441372,
+        "word": "江西省考成绩",
+        "onboard_time": 1712804958,
+        "rank": 14,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 437399,
+        "num": 437399,
+        "word": "00后女生打工垮脸严重向公司索赔成功",
+        "onboard_time": 1712798239,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 367181,
+        "num": 367181,
+        "word": "韩国多名政府高官同时请辞",
+        "onboard_time": 1712802857,
+        "rank": 16,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 296906,
+        "num": 296906,
+        "word": "黄金白银集体跳水",
+        "onboard_time": 1712792177,
+        "rank": 17,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 273273,
+        "num": 273273,
+        "word": "明星客串几分钟却被当主角宣传合适吗",
+        "onboard_time": 1712805918,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 261245,
+        "num": 261245,
+        "word": "熊祁 黎深",
+        "onboard_time": 1712793017,
+        "rank": 19,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 850650,
+        "num": 259698,
+        "word": "床上有螨虫的3个表现",
+        "onboard_time": 1712804119,
+        "rank": 20,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 303285,
+        "num": 259476,
+        "word": "女子养的宠物貂被洗衣机洗了15分钟",
+        "onboard_time": 1712801598,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 256353,
+        "num": 256353,
+        "word": "体态瘦腰",
+        "onboard_time": 1712804057,
+        "rank": 22,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 251204,
+        "num": 251204,
+        "word": "情夫死后小三用冷冻胚胎生子争遗产",
+        "onboard_time": 1712770872,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 244967,
+        "num": 244967,
+        "word": "27岁我放弃拼了6年的事业当学徒",
+        "onboard_time": 1712800879,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 243622,
+        "num": 243622,
+        "word": "肖战米兰带病拍摄",
+        "onboard_time": 1712804119,
+        "rank": 25,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 221161,
+        "num": 221161,
+        "word": "你有上班丑吗",
+        "onboard_time": 1712802857,
+        "rank": 26,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 220437,
+        "num": 220437,
+        "word": "形似外星生物巨型尸体冲上马来西亚海滩",
+        "onboard_time": 1712796319,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 211707,
+        "num": 211707,
+        "word": "牛骏峰窝囊废赛道种子选手",
+        "onboard_time": 1712802198,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 210143,
+        "num": 210143,
+        "word": "RNG战队CEO自曝欠几千万快破产",
+        "onboard_time": 1712800759,
+        "rank": 29,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 595251,
+        "num": 206412,
+        "word": "张杰女儿小名已被抢注商标",
+        "onboard_time": 1712799559,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 310106,
+        "num": 204653,
+        "word": "马立奥 小橘子还是不想动",
+        "onboard_time": 1712805798,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 198676,
+        "num": 198676,
+        "word": "武大开设雷军班计划招收30人",
+        "onboard_time": 1712805979,
+        "rank": 32,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 195031,
+        "num": 195031,
+        "word": "与凤行",
+        "onboard_time": 1712805620,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 194145,
+        "num": 194145,
+        "word": "RNG选手支出每月几百万",
+        "onboard_time": 1712803879,
+        "rank": 34,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 191189,
+        "num": 191189,
+        "word": "献鱼",
+        "onboard_time": 1712805739,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 182885,
+        "num": 182885,
+        "word": "为什么天天饿肚子减肥却没成功",
+        "onboard_time": 1712805439,
+        "rank": 36,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 183201,
+        "num": 181728,
+        "word": "献鱼 随地大小吻",
+        "onboard_time": 1712805197,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 173804,
+        "num": 173804,
+        "word": "黄奕在雪山穿吊带背心",
+        "onboard_time": 1712800639,
+        "rank": 38,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 423413,
+        "num": 172529,
+        "word": "邓科谈与赵丽颖合作的感受",
+        "onboard_time": 1712803818,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 170449,
+        "num": 170449,
+        "word": "夏目友人帐 七年后的第七季",
+        "onboard_time": 1712806099,
+        "rank": 40,
+        "category": "动漫,作品衍生"
+      },
+      {
+        "raw_hot": 168600,
+        "num": 168600,
+        "word": "与凤行凤神之路海报",
+        "onboard_time": 1712802978,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 163149,
+        "num": 163149,
+        "word": "奶奶忍受了一辈子的冷暴力",
+        "onboard_time": 1712792116,
+        "rank": 42,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 152915,
+        "num": 152915,
+        "word": "Flandre希望TES赢BLG",
+        "onboard_time": 1712804359,
+        "rank": 43,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 150405,
+        "num": 150405,
+        "word": "丁晟说杨幂是史上最完美的幺鸡",
+        "onboard_time": 1712798119,
+        "rank": 44,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 145686,
+        "num": 145686,
+        "word": "28省份公布2023年人口数据",
+        "onboard_time": 1712799438,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 143665,
+        "num": 143665,
+        "word": "武大雷军班100%具备保研资格",
+        "onboard_time": 1712806398,
+        "rank": 46,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 139640,
+        "num": 139640,
+        "word": "第1天相亲第2天领证第9天就消失",
+        "onboard_time": 1712792837,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 136341,
+        "num": 136341,
+        "word": "第一部主演回归惊天魔盗团3",
+        "onboard_time": 1712804239,
+        "rank": 48,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 133628,
+        "num": 133628,
+        "word": "RNG战队老板已成老赖",
+        "onboard_time": 1712805258,
+        "rank": 49,
+        "category": "电竞"
+      }
+    ],
+    "hotgov": {
+      "word": "#外部的干涉阻挡不了家国团圆的历史大势#"
+    }
+  }
+}
