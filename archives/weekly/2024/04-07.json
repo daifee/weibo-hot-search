@@ -1,6 +1,6 @@
 {
   "startTime": 1712420539476,
-  "endTime": 1712810140804,
+  "endTime": 1712812652328,
   "band_list": [
     {
       "raw_hot": 9583581,
@@ -1075,6 +1075,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 961122,
+      "num": 501212,
+      "word": "仝卓工作室 我不是疯",
+      "onboard_time": 1712808380,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 952546,
       "num": 952546,
       "word": "李湘王岳伦陪王诗龄看展",
@@ -1244,7 +1252,7 @@
     },
     {
       "raw_hot": 876463,
-      "num": 341607,
+      "num": 349976,
       "word": "床上有螨虫的3个表现",
       "onboard_time": 1712804119,
       "rank": 20,
@@ -1513,14 +1521,6 @@
       "onboard_time": 1712582179,
       "rank": 37,
       "category": "美食"
-    },
-    {
-      "raw_hot": 792360,
-      "num": 493020,
-      "word": "仝卓工作室 我不是疯",
-      "onboard_time": 1712808380,
-      "rank": 13,
-      "category": "艺人"
     },
     {
       "raw_hot": 785956,
@@ -2795,6 +2795,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 527439,
+      "num": 527439,
+      "word": "燕云十六声定档",
+      "onboard_time": 1712809640,
+      "rank": 22,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 526926,
       "num": 526926,
       "word": "杨幂 谍战剧",
@@ -2969,6 +2977,14 @@
       "onboard_time": 1712563938,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 501010,
+      "num": 501010,
+      "word": "赵小棠和妈妈吵架 中式家庭现状",
+      "onboard_time": 1712811258,
+      "rank": 11,
+      "category": "综艺"
     },
     {
       "raw_hot": 500623,
@@ -3361,6 +3377,14 @@
       "onboard_time": 1712746398,
       "rank": 12,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 462098,
+      "num": 502401,
+      "word": "形似外星生物巨型尸体冲上马来西亚海滩",
+      "onboard_time": 1712796319,
+      "rank": 20,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 462015,
@@ -3803,14 +3827,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 421474,
-      "num": 400990,
-      "word": "形似外星生物巨型尸体冲上马来西亚海滩",
-      "onboard_time": 1712796319,
-      "rank": 20,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 421165,
       "num": 316631,
       "word": "iPhone闹钟不会识别调休",
@@ -3945,6 +3961,14 @@
       "onboard_time": 1712476399,
       "rank": 22,
       "category": "情感"
+    },
+    {
+      "raw_hot": 398532,
+      "num": 398532,
+      "word": "孙亚龙将进行血管扩张手术",
+      "onboard_time": 1712810599,
+      "rank": 15,
+      "category": "电竞"
     },
     {
       "raw_hot": 397645,
@@ -4377,6 +4401,14 @@
       "onboard_time": 1712800879,
       "rank": 26,
       "category": "情感"
+    },
+    {
+      "raw_hot": 357786,
+      "num": 357786,
+      "word": "重庆一高层居民楼突发火灾",
+      "onboard_time": 1712811499,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 357116,
@@ -4923,6 +4955,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 314959,
+      "num": 314959,
+      "word": "仝卓工作室称未开拍就为王凯团队花30万",
+      "onboard_time": 1712811920,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 314433,
       "num": 314433,
       "word": "吴卓羲也找不到徐子珊",
@@ -4979,6 +5019,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 312692,
+      "num": 312692,
+      "word": "研究生表达不高兴的方式",
+      "onboard_time": 1712811439,
+      "rank": 22,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 312519,
       "num": 298565,
       "word": "给妈妈买了套房该写谁的名",
@@ -4987,20 +5035,20 @@
       "category": "情感"
     },
     {
-      "raw_hot": 312304,
-      "num": 312304,
-      "word": "燕云十六声定档",
-      "onboard_time": 1712809640,
-      "rank": 22,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 312054,
       "num": 302399,
       "word": "为什么年轻人开始流行三无婚礼",
       "onboard_time": 1712545040,
       "rank": 25,
       "category": "情感"
+    },
+    {
+      "raw_hot": 311576,
+      "num": 311576,
+      "word": "辛云来给林更新整笑场了",
+      "onboard_time": 1712811859,
+      "rank": 23,
+      "category": "综艺"
     },
     {
       "raw_hot": 311032,
@@ -5219,6 +5267,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 299210,
+      "num": 299210,
+      "word": "王一博跟小孩聊咬指甲",
+      "onboard_time": 1712810180,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 298393,
       "num": 298393,
       "word": "高合",
@@ -5377,6 +5433,14 @@
       "onboard_time": 1712738598,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 289224,
+      "num": 289224,
+      "word": "猎罪图鉴2路透",
+      "onboard_time": 1712811320,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 289077,
@@ -6523,6 +6587,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 238619,
+      "num": 238619,
+      "word": "玲娜贝尔 看上去是要去干架的",
+      "onboard_time": 1712811679,
+      "rank": 29,
+      "category": "动漫,作品衍生"
+    },
+    {
       "raw_hot": 238511,
       "num": 238511,
       "word": "智己错误标注小米SU7参数",
@@ -7595,6 +7667,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 206190,
+      "num": 206190,
+      "word": "为什么我不是广西人",
+      "onboard_time": 1712811080,
+      "rank": 31,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 206018,
       "num": 206018,
       "word": "暴雪国服招聘",
@@ -8323,6 +8403,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 195058,
+      "num": 195058,
+      "word": "结婚好的话还用催啊",
+      "onboard_time": 1712810662,
+      "rank": 33,
+      "category": "情感"
+    },
+    {
       "raw_hot": 195031,
       "num": 195031,
       "word": "与凤行",
@@ -8539,6 +8627,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 191968,
+      "num": 191968,
+      "word": "一线城市老破小价格泡沫跌到5%",
+      "onboard_time": 1712812159,
+      "rank": 34,
+      "category": "财经"
+    },
+    {
       "raw_hot": 191613,
       "num": 191613,
       "word": "二次元最好不要当老师",
@@ -8705,6 +8801,14 @@
       "onboard_time": 1712482278,
       "rank": 35,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 188685,
+      "num": 188685,
+      "word": "甄嬛传中沈眉庄为何能复宠",
+      "onboard_time": 1712811439,
+      "rank": 35,
+      "category": "剧集"
     },
     {
       "raw_hot": 188679,
@@ -9723,6 +9827,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 167959,
+      "num": 167959,
+      "word": "大学生怎么克服一个人食堂吃饭",
+      "onboard_time": 1712810960,
+      "rank": 39,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 167927,
       "num": 155142,
       "word": "陈哲远加盟大侦探9",
@@ -10483,6 +10595,14 @@
       "category": "读书作家"
     },
     {
+      "raw_hot": 151407,
+      "num": 151407,
+      "word": "推市营业中",
+      "onboard_time": 1712811200,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 150649,
       "num": 150649,
       "word": "何浩楠 无人机师傅撒药中",
@@ -10609,6 +10729,14 @@
       "onboard_time": 1712665879,
       "rank": 49,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 147838,
+      "num": 147838,
+      "word": "芽门永存",
+      "onboard_time": 1712811020,
+      "rank": 44,
+      "category": "美食"
     },
     {
       "raw_hot": 147403,
@@ -11089,6 +11217,14 @@
       "onboard_time": 1712475858,
       "rank": 41,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 138141,
+      "num": 138141,
+      "word": "城中之城",
+      "onboard_time": 1712812458,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 137801,
@@ -11745,6 +11881,14 @@
       "onboard_time": 1712666778,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 124583,
+      "num": 124583,
+      "word": "第五人格赛事",
+      "onboard_time": 1712811320,
+      "rank": 48,
+      "category": "电竞"
     },
     {
       "raw_hot": 124228,
@@ -12747,6 +12891,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 69770,
+      "num": 1007778,
+      "word": "走进黄帝故里寻根华夏文明",
+      "onboard_time": 1712807419,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 68416,
       "num": 68416,
       "word": "张艺凡G社生图",
@@ -12833,14 +12985,6 @@
       "onboard_time": 1712684712,
       "rank": 14,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 63438,
-      "num": 1007778,
-      "word": "走进黄帝故里寻根华夏文明",
-      "onboard_time": 1712807419,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 61679,

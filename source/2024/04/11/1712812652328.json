@@ -1,0 +1,410 @@
+{
+  "runTime": 1712812652328,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1106296,
+        "num": 1106296,
+        "word": "刷牙不刷舌头约等于白刷",
+        "onboard_time": 1712802438,
+        "rank": 0,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 931649,
+        "num": 931649,
+        "word": "明星客串几分钟却被当主角宣传合适吗",
+        "onboard_time": 1712805918,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 69770,
+        "num": 724448,
+        "word": "走进黄帝故里寻根华夏文明",
+        "onboard_time": 1712807419,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 640529,
+        "num": 640529,
+        "word": "三月三",
+        "onboard_time": 1712791335,
+        "rank": 3,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 619328,
+        "num": 619328,
+        "word": "小米SU7跑滴滴",
+        "onboard_time": 1712806700,
+        "rank": 4,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 556932,
+        "num": 556932,
+        "word": "全面排查中小学重点班快慢班",
+        "onboard_time": 1712805020,
+        "rank": 5,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 527439,
+        "num": 527439,
+        "word": "燕云十六声定档",
+        "onboard_time": 1712809640,
+        "rank": 6,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 506528,
+        "num": 506528,
+        "word": "赵丽颖拍林更新",
+        "onboard_time": 1712756718,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 462098,
+        "num": 502401,
+        "word": "形似外星生物巨型尸体冲上马来西亚海滩",
+        "onboard_time": 1712796319,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 412226,
+        "num": 501351,
+        "word": "花花好想要一双大长腿",
+        "onboard_time": 1712803098,
+        "rank": 9,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 961122,
+        "num": 501212,
+        "word": "仝卓工作室 我不是疯",
+        "onboard_time": 1712808380,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 501010,
+        "num": 501010,
+        "word": "赵小棠和妈妈吵架 中式家庭现状",
+        "onboard_time": 1712811258,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 472438,
+        "num": 472438,
+        "word": "赵丽颖林更新超强售后",
+        "onboard_time": 1712795659,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 442886,
+        "num": 442886,
+        "word": "00后女生打工垮脸严重向公司索赔成功",
+        "onboard_time": 1712798239,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 399657,
+        "num": 399657,
+        "word": "武大雷军班100%具备保研资格",
+        "onboard_time": 1712806398,
+        "rank": 14,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 398532,
+        "num": 398532,
+        "word": "孙亚龙将进行血管扩张手术",
+        "onboard_time": 1712810599,
+        "rank": 15,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 394905,
+        "num": 394905,
+        "word": "韩国国务总理辞职",
+        "onboard_time": 1712801357,
+        "rank": 16,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 374661,
+        "num": 374661,
+        "word": "于正说赵丽颖白鹿都喜欢",
+        "onboard_time": 1712806579,
+        "rank": 17,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 358215,
+        "num": 358215,
+        "word": "迪丽热巴邓为 将门毒后",
+        "onboard_time": 1712794939,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 357786,
+        "num": 357786,
+        "word": "重庆一高层居民楼突发火灾",
+        "onboard_time": 1712811499,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 563777,
+        "num": 349976,
+        "word": "床上有螨虫的3个表现",
+        "onboard_time": 1712804119,
+        "rank": 20,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 314959,
+        "num": 314959,
+        "word": "仝卓工作室称未开拍就为王凯团队花30万",
+        "onboard_time": 1712811920,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 312692,
+        "num": 312692,
+        "word": "研究生表达不高兴的方式",
+        "onboard_time": 1712811439,
+        "rank": 22,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 311576,
+        "num": 311576,
+        "word": "辛云来给林更新整笑场了",
+        "onboard_time": 1712811859,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 299210,
+        "num": 299210,
+        "word": "王一博跟小孩聊咬指甲",
+        "onboard_time": 1712810180,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 296007,
+        "num": 296007,
+        "word": "王俊凯当选最心动男嘉宾",
+        "onboard_time": 1712806819,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 289224,
+        "num": 289224,
+        "word": "猎罪图鉴2路透",
+        "onboard_time": 1712811320,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 276771,
+        "num": 276771,
+        "word": "63岁阿姨健身8年身材如少女",
+        "onboard_time": 1712799438,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 245888,
+        "num": 245888,
+        "word": "女生想要一个体面的婚礼有错吗",
+        "onboard_time": 1712809159,
+        "rank": 28,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 238619,
+        "num": 238619,
+        "word": "玲娜贝尔 看上去是要去干架的",
+        "onboard_time": 1712811679,
+        "rank": 29,
+        "category": "动漫,作品衍生"
+      },
+      {
+        "raw_hot": 226396,
+        "num": 226396,
+        "word": "女子养的宠物貂被洗衣机洗了15分钟",
+        "onboard_time": 1712801598,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 206190,
+        "num": 206190,
+        "word": "为什么我不是广西人",
+        "onboard_time": 1712811080,
+        "rank": 31,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 199755,
+        "num": 199755,
+        "word": "创造营",
+        "onboard_time": 1712806459,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 195058,
+        "num": 195058,
+        "word": "结婚好的话还用催啊",
+        "onboard_time": 1712810662,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 191968,
+        "num": 191968,
+        "word": "一线城市老破小价格泡沫跌到5%",
+        "onboard_time": 1712812159,
+        "rank": 34,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 188685,
+        "num": 188685,
+        "word": "甄嬛传中沈眉庄为何能复宠",
+        "onboard_time": 1712811439,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 186960,
+        "num": 186960,
+        "word": "金价狂飙背后真正推手是谁",
+        "onboard_time": 1712807540,
+        "rank": 36,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 176529,
+        "num": 176529,
+        "word": "沈璃行止有娃后的生活",
+        "onboard_time": 1712807478,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 171721,
+        "num": 171721,
+        "word": "马立奥 小橘子还是不想动",
+        "onboard_time": 1712805798,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 167959,
+        "num": 167959,
+        "word": "大学生怎么克服一个人食堂吃饭",
+        "onboard_time": 1712810960,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 167252,
+        "num": 167252,
+        "word": "熊祁 黎深",
+        "onboard_time": 1712793017,
+        "rank": 40,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 154279,
+        "num": 154279,
+        "word": "肖战米兰带病拍摄",
+        "onboard_time": 1712804119,
+        "rank": 41,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 151407,
+        "num": 151407,
+        "word": "推市营业中",
+        "onboard_time": 1712811200,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 149863,
+        "num": 149863,
+        "word": "情夫死后小三用冷冻胚胎生子争遗产",
+        "onboard_time": 1712770872,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 147838,
+        "num": 147838,
+        "word": "芽门永存",
+        "onboard_time": 1712811020,
+        "rank": 44,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 144947,
+        "num": 144947,
+        "word": "江西省考成绩",
+        "onboard_time": 1712804958,
+        "rank": 45,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 140555,
+        "num": 140555,
+        "word": "张杰女儿小名已被抢注商标",
+        "onboard_time": 1712799559,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 138141,
+        "num": 138141,
+        "word": "城中之城",
+        "onboard_time": 1712812458,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 124583,
+        "num": 124583,
+        "word": "第五人格赛事",
+        "onboard_time": 1712811320,
+        "rank": 48,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 123670,
+        "num": 123670,
+        "word": "RNG选手支出每月几百万",
+        "onboard_time": 1712803879,
+        "rank": 49,
+        "category": "电竞"
+      }
+    ],
+    "hotgov": {
+      "word": "#外部的干涉阻挡不了家国团圆的历史大势#"
+    }
+  }
+}

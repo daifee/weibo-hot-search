@@ -1,6 +1,6 @@
 {
   "startTime": 1712766262556,
-  "endTime": 1712810140804,
+  "endTime": 1712812652328,
   "band_list": [
     {
       "raw_hot": 2260302,
@@ -67,6 +67,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 961122,
+      "num": 501212,
+      "word": "仝卓工作室 我不是疯",
+      "onboard_time": 1712808380,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 919040,
       "num": 919040,
       "word": "小米SU7跑滴滴",
@@ -84,7 +92,7 @@
     },
     {
       "raw_hot": 876463,
-      "num": 341607,
+      "num": 349976,
       "word": "床上有螨虫的3个表现",
       "onboard_time": 1712804119,
       "rank": 20,
@@ -121,14 +129,6 @@
       "onboard_time": 1712795659,
       "rank": 10,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 792360,
-      "num": 493020,
-      "word": "仝卓工作室 我不是疯",
-      "onboard_time": 1712808380,
-      "rank": 13,
-      "category": "艺人"
     },
     {
       "raw_hot": 757781,
@@ -267,6 +267,14 @@
       "category": "游戏,网红"
     },
     {
+      "raw_hot": 527439,
+      "num": 527439,
+      "word": "燕云十六声定档",
+      "onboard_time": 1712809640,
+      "rank": 22,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 509857,
       "num": 509857,
       "word": "荣耀回应小米道歉",
@@ -291,6 +299,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 501010,
+      "num": 501010,
+      "word": "赵小棠和妈妈吵架 中式家庭现状",
+      "onboard_time": 1712811258,
+      "rank": 11,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 499924,
       "num": 511424,
       "word": "花花好想要一双大长腿",
@@ -305,6 +321,14 @@
       "onboard_time": 1712802559,
       "rank": 29,
       "category": "情感"
+    },
+    {
+      "raw_hot": 462098,
+      "num": 502401,
+      "word": "形似外星生物巨型尸体冲上马来西亚海滩",
+      "onboard_time": 1712796319,
+      "rank": 20,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 457329,
@@ -347,20 +371,20 @@
       "category": "情感"
     },
     {
-      "raw_hot": 421474,
-      "num": 400990,
-      "word": "形似外星生物巨型尸体冲上马来西亚海滩",
-      "onboard_time": 1712796319,
-      "rank": 20,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 415522,
       "num": 415522,
       "word": "今天起广西连休4天",
       "onboard_time": 1712793859,
       "rank": 17,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 398532,
+      "num": 398532,
+      "word": "孙亚龙将进行血管扩张手术",
+      "onboard_time": 1712810599,
+      "rank": 15,
+      "category": "电竞"
     },
     {
       "raw_hot": 384883,
@@ -435,6 +459,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 357786,
+      "num": 357786,
+      "word": "重庆一高层居民楼突发火灾",
+      "onboard_time": 1712811499,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 354933,
       "num": 354933,
       "word": "创造营",
@@ -467,12 +499,28 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 312304,
-      "num": 312304,
-      "word": "燕云十六声定档",
-      "onboard_time": 1712809640,
+      "raw_hot": 314959,
+      "num": 314959,
+      "word": "仝卓工作室称未开拍就为王凯团队花30万",
+      "onboard_time": 1712811920,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 312692,
+      "num": 312692,
+      "word": "研究生表达不高兴的方式",
+      "onboard_time": 1712811439,
       "rank": 22,
-      "category": "游戏"
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 311576,
+      "num": 311576,
+      "word": "辛云来给林更新整笑场了",
+      "onboard_time": 1712811859,
+      "rank": 23,
+      "category": "综艺"
     },
     {
       "raw_hot": 310721,
@@ -507,6 +555,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 299210,
+      "num": 299210,
+      "word": "王一博跟小孩聊咬指甲",
+      "onboard_time": 1712810180,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 291013,
       "num": 291013,
       "word": "中医建议放下这些脾胃就恢复80%了",
@@ -521,6 +577,14 @@
       "onboard_time": 1712760080,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 289224,
+      "num": 289224,
+      "word": "猎罪图鉴2路透",
+      "onboard_time": 1712811320,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 280796,
@@ -611,6 +675,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 238619,
+      "num": 238619,
+      "word": "玲娜贝尔 看上去是要去干架的",
+      "onboard_time": 1712811679,
+      "rank": 29,
+      "category": "动漫,作品衍生"
+    },
+    {
       "raw_hot": 237718,
       "num": 237718,
       "word": "你有上班丑吗",
@@ -683,6 +755,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 206190,
+      "num": 206190,
+      "word": "为什么我不是广西人",
+      "onboard_time": 1712811080,
+      "rank": 31,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 204402,
       "num": 204402,
       "word": "种地吧",
@@ -747,6 +827,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 195058,
+      "num": 195058,
+      "word": "结婚好的话还用催啊",
+      "onboard_time": 1712810662,
+      "rank": 33,
+      "category": "情感"
+    },
+    {
       "raw_hot": 195031,
       "num": 195031,
       "word": "与凤行",
@@ -763,10 +851,26 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 191968,
+      "num": 191968,
+      "word": "一线城市老破小价格泡沫跌到5%",
+      "onboard_time": 1712812159,
+      "rank": 34,
+      "category": "财经"
+    },
+    {
       "raw_hot": 191189,
       "num": 191189,
       "word": "献鱼",
       "onboard_time": 1712805739,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 188685,
+      "num": 188685,
+      "word": "甄嬛传中沈眉庄为何能复宠",
+      "onboard_time": 1712811439,
       "rank": 35,
       "category": "剧集"
     },
@@ -889,6 +993,14 @@
       "onboard_time": 1712746759,
       "rank": 24,
       "category": "情感"
+    },
+    {
+      "raw_hot": 167959,
+      "num": 167959,
+      "word": "大学生怎么克服一个人食堂吃饭",
+      "onboard_time": 1712810960,
+      "rank": 39,
+      "category": "幽默"
     },
     {
       "raw_hot": 167025,
@@ -1027,12 +1139,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 151407,
+      "num": 151407,
+      "word": "推市营业中",
+      "onboard_time": 1712811200,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 149852,
       "num": 148214,
       "word": "穿婚纱的杀人少女",
       "onboard_time": 1712809100,
       "rank": 49,
       "category": "电影"
+    },
+    {
+      "raw_hot": 147838,
+      "num": 147838,
+      "word": "芽门永存",
+      "onboard_time": 1712811020,
+      "rank": 44,
+      "category": "美食"
     },
     {
       "raw_hot": 144178,
@@ -1057,6 +1185,14 @@
       "onboard_time": 1712792355,
       "rank": 38,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 138141,
+      "num": 138141,
+      "word": "城中之城",
+      "onboard_time": 1712812458,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 136040,
@@ -1169,6 +1305,14 @@
       "onboard_time": 1712793558,
       "rank": 46,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 124583,
+      "num": 124583,
+      "word": "第五人格赛事",
+      "onboard_time": 1712811320,
+      "rank": 48,
+      "category": "电竞"
     },
     {
       "raw_hot": 124228,
@@ -1411,6 +1555,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 69770,
+      "num": 1007778,
+      "word": "走进黄帝故里寻根华夏文明",
+      "onboard_time": 1712807419,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 68361,
       "num": 85939,
       "word": "CBA",
@@ -1449,14 +1601,6 @@
       "onboard_time": 1712754559,
       "rank": 31,
       "category": "电影"
-    },
-    {
-      "raw_hot": 63438,
-      "num": 1007778,
-      "word": "走进黄帝故里寻根华夏文明",
-      "onboard_time": 1712807419,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 61679,
