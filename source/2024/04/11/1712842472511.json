@@ -1,0 +1,410 @@
+{
+  "runTime": 1712842472511,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1139563,
+        "num": 1139563,
+        "word": "雷军问网友是否支持车上有原装手机支架",
+        "onboard_time": 1712837477,
+        "rank": 0,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 1121703,
+        "num": 1121703,
+        "word": "林更新说与赵丽颖搭档是荣幸",
+        "onboard_time": 1712841498,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 90270,
+        "num": 793376,
+        "word": "春天的气息藏在花海里",
+        "onboard_time": 1712839217,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 672868,
+        "num": 672868,
+        "word": "章子怡酱园弄戛纳就穿这套吧",
+        "onboard_time": 1712839878,
+        "rank": 3,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 576307,
+        "num": 576307,
+        "word": "微信打电话和直接打电话的区别",
+        "onboard_time": 1712835137,
+        "rank": 4,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 567631,
+        "num": 567631,
+        "word": "雅诗兰黛 IU",
+        "onboard_time": 1712841439,
+        "rank": 5,
+        "category": "作品衍生,美妆"
+      },
+      {
+        "raw_hot": 919277,
+        "num": 532049,
+        "word": "赵丽颖王伊瑶友情",
+        "onboard_time": 1712837958,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 413726,
+        "num": 413726,
+        "word": "越南女首富张美兰被判处死刑",
+        "onboard_time": 1712829978,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 388528,
+        "num": 388528,
+        "word": "卖房让娃退学环游世界的家庭怎么样了",
+        "onboard_time": 1712832977,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 274397,
+        "num": 358834,
+        "word": "女生递补第一被成功补录上岸研究生",
+        "onboard_time": 1712827997,
+        "rank": 9,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 504040,
+        "num": 353118,
+        "word": "生母虐待男孩致截肢获刑6年9个月",
+        "onboard_time": 1712836697,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 501585,
+        "num": 348111,
+        "word": "吃自助一定不要吃太饱",
+        "onboard_time": 1712837837,
+        "rank": 11,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 331382,
+        "num": 331382,
+        "word": "唐嫣 高定配高珠",
+        "onboard_time": 1712836097,
+        "rank": 12,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 330548,
+        "num": 330548,
+        "word": "查出幽门螺杆菌不治疗会得重病吗",
+        "onboard_time": 1712830459,
+        "rank": 13,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 316895,
+        "num": 316895,
+        "word": "蓝盈莹也做了甘露寺美甲",
+        "onboard_time": 1712827397,
+        "rank": 14,
+        "category": "剧集,美妆"
+      },
+      {
+        "raw_hot": 286261,
+        "num": 286261,
+        "word": "考古王一博",
+        "onboard_time": 1712840057,
+        "rank": 15,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 266796,
+        "num": 266796,
+        "word": "偏偏你最争气",
+        "onboard_time": 1712841679,
+        "rank": 16,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 258355,
+        "num": 258355,
+        "word": "承欢记收视率",
+        "onboard_time": 1712842038,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 139960,
+        "num": 255190,
+        "word": "70后农民卖瓜子带3000户乡亲致富",
+        "onboard_time": 1712841858,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 24665,
+        "num": 251567,
+        "word": "极狐技术品牌3大进化",
+        "onboard_time": 1712841078,
+        "rank": 19,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 1327981,
+        "num": 248381,
+        "word": "换儿子血的亿万富翁展示3年抗衰成果",
+        "onboard_time": 1712835377,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1270666,
+        "num": 246440,
+        "word": "朴彩英双眼皮",
+        "onboard_time": 1712837357,
+        "rank": 21,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 244108,
+        "num": 244108,
+        "word": "白鹿说顶光生图流出去不吓死了",
+        "onboard_time": 1712833278,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 235039,
+        "num": 235039,
+        "word": "邓科夸林更新演什么像什么",
+        "onboard_time": 1712835976,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 232271,
+        "num": 232271,
+        "word": "高校回应女子一丝不挂大闹男生宿舍",
+        "onboard_time": 1712828777,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 230716,
+        "num": 230716,
+        "word": "Tiffany活动",
+        "onboard_time": 1712841858,
+        "rank": 25,
+        "category": "时尚,作品衍生"
+      },
+      {
+        "raw_hot": 230452,
+        "num": 230452,
+        "word": "调休快把四月调成单休了",
+        "onboard_time": 1712817918,
+        "rank": 26,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 225464,
+        "num": 225464,
+        "word": "孙俪想知道邓超在证明啥",
+        "onboard_time": 1712842038,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 85613,
+        "num": 212199,
+        "word": "500万的黄金和房子20年后谁更值钱",
+        "onboard_time": 1712824339,
+        "rank": 28,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 63509,
+        "num": 208879,
+        "word": "三月三是什么节",
+        "onboard_time": 1712822058,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 206770,
+        "num": 206770,
+        "word": "熊祁 恋与深空",
+        "onboard_time": 1712838798,
+        "rank": 30,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 200495,
+        "num": 200495,
+        "word": "邓科拍的赵丽颖林更新",
+        "onboard_time": 1712839277,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 193781,
+        "num": 193781,
+        "word": "与凤行全员续写番外",
+        "onboard_time": 1712842219,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 190871,
+        "num": 190871,
+        "word": "沈腾王鹤棣乱入十个勤天团建",
+        "onboard_time": 1712838917,
+        "rank": 33,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 182938,
+        "num": 182938,
+        "word": "承欢记直播",
+        "onboard_time": 1712834957,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 180897,
+        "num": 180897,
+        "word": "金秀贤金智媛德国合照",
+        "onboard_time": 1712835738,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 161379,
+        "num": 161379,
+        "word": "张艺兴女团",
+        "onboard_time": 1712838798,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 161024,
+        "num": 161024,
+        "word": "张颂文说还没去提小米SU7",
+        "onboard_time": 1712831838,
+        "rank": 37,
+        "category": "艺人,汽车"
+      },
+      {
+        "raw_hot": 153890,
+        "num": 153890,
+        "word": "五一调休",
+        "onboard_time": 1712823199,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 145324,
+        "num": 145324,
+        "word": "infp 最接近神的人格",
+        "onboard_time": 1712828417,
+        "rank": 39,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 159397,
+        "num": 145263,
+        "word": "甘露寺美甲",
+        "onboard_time": 1712835618,
+        "rank": 40,
+        "category": "作品衍生,美妆"
+      },
+      {
+        "raw_hot": 148750,
+        "num": 145232,
+        "word": "仝卓称无法控制工作室账号发布内容",
+        "onboard_time": 1712832077,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 145200,
+        "num": 145200,
+        "word": "猫咪不小心打开电磁炉把家烧了",
+        "onboard_time": 1712840359,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 144805,
+        "num": 144805,
+        "word": "张杰南昌",
+        "onboard_time": 1712840238,
+        "rank": 43,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 139561,
+        "num": 139561,
+        "word": "神农架招聘要求遇见野人跑得快",
+        "onboard_time": 1712841257,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 139429,
+        "num": 139429,
+        "word": "BLG对战TES",
+        "onboard_time": 1712829498,
+        "rank": 45,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 136985,
+        "num": 136985,
+        "word": "朱一龙湿发狼尾",
+        "onboard_time": 1712839818,
+        "rank": 46,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 129740,
+        "num": 129740,
+        "word": "易烊千玺工作室放饭了",
+        "onboard_time": 1712831838,
+        "rank": 47,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 70316,
+        "num": 126760,
+        "word": "24年进体制的19次机会",
+        "onboard_time": 1712827938,
+        "rank": 48,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 61666,
+        "num": 125307,
+        "word": "WTT点评女乒众将",
+        "onboard_time": 1712839159,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#任何分裂国家的图谋注定不会得逞#"
+    }
+  }
+}

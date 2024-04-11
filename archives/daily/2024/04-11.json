@@ -1,6 +1,6 @@
 {
   "startTime": 1712766262556,
-  "endTime": 1712841600166,
+  "endTime": 1712842472511,
   "band_list": [
     {
       "raw_hot": 4878022,
@@ -123,6 +123,22 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 1139563,
+      "num": 1139563,
+      "word": "雷军问网友是否支持车上有原装手机支架",
+      "onboard_time": 1712837477,
+      "rank": 10,
+      "category": "互联网"
+    },
+    {
+      "raw_hot": 1121703,
+      "num": 1121703,
+      "word": "林更新说与赵丽颖搭档是荣幸",
+      "onboard_time": 1712841498,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1106494,
       "num": 1106494,
       "word": "赵丽颖林更新摸头抱",
@@ -131,20 +147,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 1023695,
-      "num": 1023695,
-      "word": "雷军问网友是否支持车上有原装手机支架",
-      "onboard_time": 1712837477,
-      "rank": 10,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 961122,
       "num": 501212,
       "word": "仝卓工作室 我不是疯",
       "onboard_time": 1712808380,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 919277,
+      "num": 896381,
+      "word": "赵丽颖王伊瑶友情",
+      "onboard_time": 1712837958,
+      "rank": 6,
+      "category": "剧集"
     },
     {
       "raw_hot": 919040,
@@ -169,14 +185,6 @@
       "onboard_time": 1712835137,
       "rank": 30,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 896381,
-      "num": 896381,
-      "word": "赵丽颖王伊瑶友情",
-      "onboard_time": 1712837958,
-      "rank": 6,
-      "category": "剧集"
     },
     {
       "raw_hot": 876463,
@@ -347,6 +355,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 672868,
+      "num": 672868,
+      "word": "章子怡酱园弄戛纳就穿这套吧",
+      "onboard_time": 1712839878,
+      "rank": 10,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 665980,
       "num": 665980,
       "word": "于正说赵丽颖白鹿都喜欢",
@@ -475,12 +491,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 564920,
-      "num": 318495,
-      "word": "章子怡酱园弄戛纳就穿这套吧",
-      "onboard_time": 1712839878,
-      "rank": 10,
-      "category": "作品衍生"
+      "raw_hot": 567631,
+      "num": 567631,
+      "word": "雅诗兰黛 IU",
+      "onboard_time": 1712841439,
+      "rank": 13,
+      "category": "作品衍生,美妆"
     },
     {
       "raw_hot": 562120,
@@ -555,6 +571,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 504040,
+      "num": 353118,
+      "word": "生母虐待男孩致截肢获刑6年9个月",
+      "onboard_time": 1712836697,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 501585,
+      "num": 362456,
+      "word": "吃自助一定不要吃太饱",
+      "onboard_time": 1712837837,
+      "rank": 32,
+      "category": "美食"
+    },
+    {
       "raw_hot": 499924,
       "num": 511424,
       "word": "花花好想要一双大长腿",
@@ -569,14 +601,6 @@
       "onboard_time": 1712818939,
       "rank": 13,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 492880,
-      "num": 317975,
-      "word": "生母虐待男孩致截肢获刑6年9个月",
-      "onboard_time": 1712836697,
-      "rank": 19,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 483751,
@@ -851,14 +875,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 362456,
-      "num": 362456,
-      "word": "吃自助一定不要吃太饱",
-      "onboard_time": 1712837837,
-      "rank": 32,
-      "category": "美食"
-    },
-    {
       "raw_hot": 358905,
       "num": 358905,
       "word": "林更新宇宙",
@@ -1059,14 +1075,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 298768,
-      "num": 298768,
-      "word": "雅诗兰黛 IU",
-      "onboard_time": 1712841439,
-      "rank": 13,
-      "category": "作品衍生,美妆"
-    },
-    {
       "raw_hot": 296867,
       "num": 296867,
       "word": "退休公务员横漂演短剧",
@@ -1113,6 +1121,14 @@
       "onboard_time": 1712823916,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 286261,
+      "num": 286261,
+      "word": "考古王一博",
+      "onboard_time": 1712840057,
+      "rank": 18,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 280796,
@@ -1179,6 +1195,22 @@
       "category": "数码"
     },
     {
+      "raw_hot": 266796,
+      "num": 266796,
+      "word": "偏偏你最争气",
+      "onboard_time": 1712841679,
+      "rank": 16,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 258355,
+      "num": 258355,
+      "word": "承欢记收视率",
+      "onboard_time": 1712842038,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 255021,
       "num": 255021,
       "word": "BABYMONSTER新歌live版",
@@ -1193,14 +1225,6 @@
       "onboard_time": 1712752458,
       "rank": 15,
       "category": "电影"
-    },
-    {
-      "raw_hot": 253135,
-      "num": 253135,
-      "word": "考古王一博",
-      "onboard_time": 1712840057,
-      "rank": 18,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 252083,
@@ -1323,6 +1347,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 230716,
+      "num": 230716,
+      "word": "Tiffany活动",
+      "onboard_time": 1712841858,
+      "rank": 25,
+      "category": "时尚,作品衍生"
+    },
+    {
       "raw_hot": 228358,
       "num": 228358,
       "word": "RNG选手支出每月几百万",
@@ -1337,6 +1369,14 @@
       "onboard_time": 1712816239,
       "rank": 42,
       "category": "教育"
+    },
+    {
+      "raw_hot": 225464,
+      "num": 225464,
+      "word": "孙俪想知道邓超在证明啥",
+      "onboard_time": 1712842038,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 225087,
@@ -1451,14 +1491,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 205342,
-      "num": 198512,
-      "word": "林更新说与赵丽颖搭档是荣幸",
-      "onboard_time": 1712841498,
-      "rank": 28,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 204402,
       "num": 204402,
       "word": "种地吧",
@@ -1568,6 +1600,14 @@
       "word": "与凤行",
       "onboard_time": 1712805620,
       "rank": 33,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 193781,
+      "num": 193781,
+      "word": "与凤行全员续写番外",
+      "onboard_time": 1712842219,
+      "rank": 32,
       "category": "剧集"
     },
     {
@@ -2195,6 +2235,22 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 139960,
+      "num": 255190,
+      "word": "70后农民卖瓜子带3000户乡亲致富",
+      "onboard_time": 1712841858,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 139561,
+      "num": 142263,
+      "word": "神农架招聘要求遇见野人跑得快",
+      "onboard_time": 1712841257,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 139122,
       "num": 139122,
       "word": "小米汽车回应车内摄像头",
@@ -2763,6 +2819,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 90270,
+      "num": 1071743,
+      "word": "春天的气息藏在花海里",
+      "onboard_time": 1712839217,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 89623,
       "num": 89623,
       "word": "王一博表情包",
@@ -2801,14 +2865,6 @@
       "onboard_time": 1712839159,
       "rank": 39,
       "category": "体育"
-    },
-    {
-      "raw_hot": 83403,
-      "num": 1071743,
-      "word": "春天的气息藏在花海里",
-      "onboard_time": 1712839217,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 81182,
@@ -2881,14 +2937,6 @@
       "onboard_time": 1712838497,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 71016,
-      "num": 142263,
-      "word": "神农架招聘要求遇见野人跑得快",
-      "onboard_time": 1712841257,
-      "rank": 39,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 69770,
@@ -3044,7 +3092,7 @@
     },
     {
       "raw_hot": 25134,
-      "num": 198877,
+      "num": 251567,
       "word": "极狐技术品牌3大进化",
       "onboard_time": 1712841078,
       "rank": 27,
@@ -3104,6 +3152,9 @@
     },
     {
       "word": "#树立正确的权力观政绩观事业观#"
+    },
+    {
+      "word": "#任何分裂国家的图谋注定不会得逞#"
     }
   ]
 }
