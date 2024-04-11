@@ -1,6 +1,6 @@
 {
   "startTime": 1712766262556,
-  "endTime": 1712792067298,
+  "endTime": 1712798109454,
   "band_list": [
     {
       "raw_hot": 2260302,
@@ -11,12 +11,92 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1787410,
+      "num": 1787410,
+      "word": "黄金白银集体跳水",
+      "onboard_time": 1712792177,
+      "rank": 0,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 1740483,
+      "num": 1740483,
+      "word": "三月三",
+      "onboard_time": 1712791335,
+      "rank": 3,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 1487327,
+      "num": 1487327,
+      "word": "迪丽热巴邓为 将门毒后",
+      "onboard_time": 1712794939,
+      "rank": 3,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 908877,
+      "num": 908877,
+      "word": "手机号不用了记得解绑这些账号",
+      "onboard_time": 1712793918,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 820497,
       "num": 820497,
       "word": "范曾发文宣布再婚",
       "onboard_time": 1712764578,
       "rank": 10,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 804523,
+      "num": 652263,
+      "word": "赵丽颖林更新超强售后",
+      "onboard_time": 1712795659,
+      "rank": 10,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 755661,
+      "num": 649208,
+      "word": "情夫死后小三用冷冻胚胎生子争遗产",
+      "onboard_time": 1712770872,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 745822,
+      "num": 745822,
+      "word": "湖北一公职人员殴打酒店老板称副市长跟我平级",
+      "onboard_time": 1712790314,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 734395,
+      "num": 734395,
+      "word": "美国费城突发大规模枪击",
+      "onboard_time": 1712795239,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 702862,
+      "num": 502360,
+      "word": "林更新 怎么可以让别人听到",
+      "onboard_time": 1712794520,
+      "rank": 15,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 693159,
+      "num": 693159,
+      "word": "奶奶忍受了一辈子的冷暴力",
+      "onboard_time": 1712792116,
+      "rank": 8,
+      "category": "情感"
     },
     {
       "raw_hot": 677358,
@@ -27,12 +107,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 640812,
-      "num": 247210,
-      "word": "情夫死后小三用冷冻胚胎生子争遗产",
-      "onboard_time": 1712770872,
-      "rank": 11,
-      "category": "社会新闻"
+      "raw_hot": 643894,
+      "num": 643894,
+      "word": "官方回应7千元手机维修费14000元",
+      "onboard_time": 1712795359,
+      "rank": 12,
+      "category": "数码"
     },
     {
       "raw_hot": 614721,
@@ -67,20 +147,36 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 567715,
-      "num": 567715,
-      "word": "三月三",
-      "onboard_time": 1712791335,
-      "rank": 3,
-      "category": "情感"
-    },
-    {
       "raw_hot": 552349,
       "num": 552349,
       "word": "新颖夫妇",
       "onboard_time": 1712760682,
       "rank": 5,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 538696,
+      "num": 538696,
+      "word": "熊祁 黎深",
+      "onboard_time": 1712793017,
+      "rank": 13,
+      "category": "游戏,网红"
+    },
+    {
+      "raw_hot": 504822,
+      "num": 504822,
+      "word": "动物园回应大熊猫渝可捡食垃圾",
+      "onboard_time": 1712794280,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 457329,
+      "num": 457329,
+      "word": "小米汽车听劝加按键",
+      "onboard_time": 1712791214,
+      "rank": 26,
+      "category": "汽车"
     },
     {
       "raw_hot": 435594,
@@ -91,12 +187,44 @@
       "category": "情感"
     },
     {
+      "raw_hot": 421474,
+      "num": 328770,
+      "word": "形似外星生物巨型尸体冲上马来西亚海滩",
+      "onboard_time": 1712796319,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 415522,
+      "num": 415522,
+      "word": "今天起广西连休4天",
+      "onboard_time": 1712793859,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 381817,
       "num": 303177,
       "word": "仝卓工作室实名举报高源涉嫌偷税漏税",
       "onboard_time": 1712750297,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 369372,
+      "num": 325912,
+      "word": "第1天相亲第2天领证第9天就消失",
+      "onboard_time": 1712792837,
+      "rank": 21,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 363901,
+      "num": 323990,
+      "word": "28岁开始把上班当做休息时间",
+      "onboard_time": 1712795179,
+      "rank": 22,
+      "category": "情感"
     },
     {
       "raw_hot": 358905,
@@ -121,6 +249,14 @@
       "onboard_time": 1712764277,
       "rank": 14,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 301149,
+      "num": 301149,
+      "word": "早睡1小时身体会发生什么变化",
+      "onboard_time": 1712792116,
+      "rank": 24,
+      "category": "健康医疗,科学科普"
     },
     {
       "raw_hot": 291013,
@@ -148,7 +284,7 @@
     },
     {
       "raw_hot": 272655,
-      "num": 175298,
+      "num": 210643,
       "word": "五六十万存款可以回小县城躺平吗",
       "onboard_time": 1712749999,
       "rank": 20,
@@ -163,6 +299,30 @@
       "category": "电影"
     },
     {
+      "raw_hot": 245223,
+      "num": 245223,
+      "word": "喝水是假的吃鱼是真的",
+      "onboard_time": 1712795119,
+      "rank": 25,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 235170,
+      "num": 235170,
+      "word": "官方回应旅韩大熊猫园欣脱毛",
+      "onboard_time": 1712797520,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 224572,
+      "num": 224572,
+      "word": "小鬼徐圣恩队友变导师",
+      "onboard_time": 1712795299,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 210819,
       "num": 123131,
       "word": "研究发现年轻人加速衰老",
@@ -171,12 +331,28 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 209886,
+      "num": 209886,
+      "word": "分手一年多的前男友的现女友加我",
+      "onboard_time": 1712793318,
+      "rank": 29,
+      "category": "情感"
+    },
+    {
       "raw_hot": 204247,
       "num": 149918,
       "word": "赵丽颖给林更新贴条",
       "onboard_time": 1712768894,
       "rank": 15,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 203924,
+      "num": 203924,
+      "word": "普通人养娃一个月要花多少钱",
+      "onboard_time": 1712794218,
+      "rank": 30,
+      "category": "母婴育儿"
     },
     {
       "raw_hot": 202105,
@@ -203,20 +379,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 194243,
-      "num": 122635,
-      "word": "湖北一公职人员殴打酒店老板称副市长跟我平级",
-      "onboard_time": 1712790314,
-      "rank": 24,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 192374,
-      "num": 121613,
+      "num": 133127,
       "word": "别再乱用红霉素软膏和红霉素眼膏",
       "onboard_time": 1712790193,
       "rank": 23,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 187154,
+      "num": 187154,
+      "word": "制片人拍的虞书欣林一",
+      "onboard_time": 1712796620,
+      "rank": 31,
+      "category": "剧集"
     },
     {
       "raw_hot": 184793,
@@ -283,6 +459,30 @@
       "category": "情感"
     },
     {
+      "raw_hot": 167025,
+      "num": 167025,
+      "word": "我国废旧手机存量已超过20亿部",
+      "onboard_time": 1712797520,
+      "rank": 33,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 164960,
+      "num": 164960,
+      "word": "辽宁天空出现遮天蔽日鸟浪奇观",
+      "onboard_time": 1712792837,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 155698,
+      "num": 155698,
+      "word": "阿克苏地震新疆消防已赴灾害现场",
+      "onboard_time": 1712797100,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 152130,
       "num": 152130,
       "word": "成毅舞伞",
@@ -292,7 +492,7 @@
     },
     {
       "raw_hot": 151586,
-      "num": 569136,
+      "num": 1537767,
       "word": "我国电力系统充电宝创多项世界纪录",
       "onboard_time": 1712757621,
       "rank": 2,
@@ -307,20 +507,52 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 142192,
-      "num": 120156,
-      "word": "小米汽车听劝加按键",
-      "onboard_time": 1712791214,
+      "raw_hot": 140978,
+      "num": 140978,
+      "word": "肖战王玉雯超星星学园旧照",
+      "onboard_time": 1712782390,
       "rank": 26,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 139122,
+      "num": 139122,
+      "word": "小米汽车回应车内摄像头",
+      "onboard_time": 1712792355,
+      "rank": 38,
       "category": "汽车"
     },
     {
+      "raw_hot": 136040,
+      "num": 136040,
+      "word": "年轻人也开始得帕金森病",
+      "onboard_time": 1712794098,
+      "rank": 40,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 132095,
-      "num": 306123,
+      "num": 658226,
       "word": "福宝大口吃胡萝卜声音嘎嘣脆",
       "onboard_time": 1712745078,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 132050,
+      "num": 132050,
+      "word": "智己",
+      "onboard_time": 1712797819,
+      "rank": 43,
+      "category": "汽车"
+    },
+    {
+      "raw_hot": 130874,
+      "num": 130874,
+      "word": "赵丽颖剧中最虐的台词",
+      "onboard_time": 1712793318,
+      "rank": 44,
+      "category": "剧集"
     },
     {
       "raw_hot": 129807,
@@ -355,12 +587,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 125815,
+      "num": 125815,
+      "word": "朱丹晒浪姐合照",
+      "onboard_time": 1712793558,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 124228,
       "num": 124228,
       "word": "巴黎2比3巴萨",
       "onboard_time": 1712790974,
       "rank": 40,
       "category": "体育"
+    },
+    {
+      "raw_hot": 122419,
+      "num": 122419,
+      "word": "承欢记第六集 订婚见面局",
+      "onboard_time": 1712796019,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 120020,
@@ -387,20 +635,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 117009,
+      "num": 117009,
+      "word": "刷牙最该刷的其实不是牙齿",
+      "onboard_time": 1712795599,
+      "rank": 49,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 116336,
       "num": 116336,
       "word": "林俊杰南昌",
       "onboard_time": 1712761160,
       "rank": 35,
       "category": "演出"
-    },
-    {
-      "raw_hot": 115941,
-      "num": 115941,
-      "word": "肖战王玉雯超星星学园旧照",
-      "onboard_time": 1712782390,
-      "rank": 26,
-      "category": "剧集"
     },
     {
       "raw_hot": 111014,
@@ -521,6 +769,14 @@
       "onboard_time": 1712754019,
       "rank": 46,
       "category": "演出"
+    },
+    {
+      "raw_hot": 87891,
+      "num": 132221,
+      "word": "为什么每天刷牙还会蛀牙",
+      "onboard_time": 1712797639,
+      "rank": 42,
+      "category": "科学科普"
     },
     {
       "raw_hot": 86882,
