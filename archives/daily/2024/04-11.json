@@ -1,6 +1,6 @@
 {
   "startTime": 1712766262556,
-  "endTime": 1712827127545,
+  "endTime": 1712828079923,
   "band_list": [
     {
       "raw_hot": 4878022,
@@ -171,6 +171,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 800776,
+      "num": 800776,
+      "word": "500万的黄金和房子20年后谁更值钱",
+      "onboard_time": 1712824339,
+      "rank": 15,
+      "category": "财经"
+    },
+    {
       "raw_hot": 778307,
       "num": 351851,
       "word": "多动症男孩欺负同学46名家长请愿其转学",
@@ -275,14 +283,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 662058,
-      "num": 662058,
-      "word": "500万的黄金和房子20年后谁更值钱",
-      "onboard_time": 1712824339,
-      "rank": 15,
-      "category": "财经"
-    },
-    {
       "raw_hot": 626685,
       "num": 407470,
       "word": "仝卓工作室称未开拍就为王凯团队花30万",
@@ -347,6 +347,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 579624,
+      "num": 579624,
+      "word": "余承东问车上为何要搞手机支架",
+      "onboard_time": 1712824278,
+      "rank": 25,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 570982,
       "num": 570982,
       "word": "陈都灵恭喜考研上岸粉丝",
@@ -387,6 +395,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 524708,
+      "num": 280157,
+      "word": "蓝盈莹也做了甘露寺美甲",
+      "onboard_time": 1712827397,
+      "rank": 15,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 515405,
       "num": 515405,
       "word": "赵小棠和妈妈吵架 家庭现状",
@@ -417,14 +433,6 @@
       "onboard_time": 1712803818,
       "rank": 15,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 503804,
-      "num": 503804,
-      "word": "余承东问车上为何要搞手机支架",
-      "onboard_time": 1712824278,
-      "rank": 25,
-      "category": "互联网"
     },
     {
       "raw_hot": 499924,
@@ -481,6 +489,14 @@
       "onboard_time": 1712798119,
       "rank": 14,
       "category": "电影"
+    },
+    {
+      "raw_hot": 448077,
+      "num": 448077,
+      "word": "胡一天挑战张元英转圈",
+      "onboard_time": 1712826137,
+      "rank": 15,
+      "category": "剧集"
     },
     {
       "raw_hot": 441372,
@@ -545,6 +561,14 @@
       "onboard_time": 1712793859,
       "rank": 17,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 412259,
+      "num": 278332,
+      "word": "一位伤心的妻子发现丈夫出轨",
+      "onboard_time": 1712826917,
+      "rank": 30,
+      "category": "情感"
     },
     {
       "raw_hot": 384883,
@@ -835,6 +859,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 288503,
+      "num": 288503,
+      "word": "和赵露思小时候的合照",
+      "onboard_time": 1712823916,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 280796,
       "num": 280796,
       "word": "RNG战队CEO自曝欠几千万快破产",
@@ -848,14 +880,6 @@
       "word": "主持人cue肖战居中梗",
       "onboard_time": 1712784311,
       "rank": 39,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 274803,
-      "num": 274803,
-      "word": "和赵露思小时候的合照",
-      "onboard_time": 1712823916,
-      "rank": 27,
       "category": "艺人"
     },
     {
@@ -875,6 +899,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 271347,
+      "num": 271347,
+      "word": "戛纳电影节",
+      "onboard_time": 1712826798,
+      "rank": 31,
+      "category": "电影"
+    },
+    {
       "raw_hot": 267179,
       "num": 267179,
       "word": "华为发布会没提P70",
@@ -883,12 +915,12 @@
       "category": "数码"
     },
     {
-      "raw_hot": 260878,
-      "num": 260878,
-      "word": "胡一天挑战张元英转圈",
-      "onboard_time": 1712826137,
-      "rank": 15,
-      "category": "剧集"
+      "raw_hot": 255267,
+      "num": 255267,
+      "word": "五色螺蛳粉",
+      "onboard_time": 1712825298,
+      "rank": 26,
+      "category": "美食"
     },
     {
       "raw_hot": 253705,
@@ -937,14 +969,6 @@
       "onboard_time": 1712795119,
       "rank": 25,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 244904,
-      "num": 186120,
-      "word": "一位伤心的妻子发现丈夫出轨",
-      "onboard_time": 1712826917,
-      "rank": 30,
-      "category": "情感"
     },
     {
       "raw_hot": 243622,
@@ -1011,20 +1035,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 224052,
+      "num": 224052,
+      "word": "房子租出去8年回家时人傻了",
+      "onboard_time": 1712827217,
+      "rank": 24,
+      "category": "情感"
+    },
+    {
       "raw_hot": 219356,
       "num": 219356,
       "word": "金星啥时候离的婚",
       "onboard_time": 1712816539,
       "rank": 44,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 219134,
-      "num": 219134,
-      "word": "五色螺蛳粉",
-      "onboard_time": 1712825298,
-      "rank": 26,
-      "category": "美食"
     },
     {
       "raw_hot": 216408,
@@ -1195,6 +1219,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 191584,
+      "num": 222538,
+      "word": "女生递补第一被成功补录上岸研究生",
+      "onboard_time": 1712827997,
+      "rank": 26,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 191189,
       "num": 191189,
       "word": "献鱼",
@@ -1209,6 +1241,14 @@
       "onboard_time": 1712811439,
       "rank": 35,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 188045,
+      "num": 188045,
+      "word": "已经忘了gap怎么拼了",
+      "onboard_time": 1712827397,
+      "rank": 31,
+      "category": "幽默"
     },
     {
       "raw_hot": 187897,
@@ -1241,14 +1281,6 @@
       "onboard_time": 1712817739,
       "rank": 19,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 185806,
-      "num": 185806,
-      "word": "戛纳电影节",
-      "onboard_time": 1712826798,
-      "rank": 31,
-      "category": "电影"
     },
     {
       "raw_hot": 184793,
@@ -1524,7 +1556,7 @@
     },
     {
       "raw_hot": 156312,
-      "num": 144785,
+      "num": 146565,
       "word": "林更新回应抓衣领吻",
       "onboard_time": 1712826857,
       "rank": 40,
@@ -1579,6 +1611,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 152064,
+      "num": 152064,
+      "word": "丑猫吐舌头惹到谁了",
+      "onboard_time": 1712826798,
+      "rank": 45,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 151586,
       "num": 1537767,
       "word": "我国电力系统充电宝创多项世界纪录",
@@ -1593,6 +1633,14 @@
       "onboard_time": 1712811200,
       "rank": 42,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 150375,
+      "num": 150375,
+      "word": "24年进体制的19次机会",
+      "onboard_time": 1712827938,
+      "rank": 38,
+      "category": "教育"
     },
     {
       "raw_hot": 148670,
@@ -1857,14 +1905,6 @@
       "onboard_time": 1712800938,
       "rank": 41,
       "category": "美食"
-    },
-    {
-      "raw_hot": 126006,
-      "num": 126006,
-      "word": "丑猫吐舌头惹到谁了",
-      "onboard_time": 1712826798,
-      "rank": 45,
-      "category": "幽默"
     },
     {
       "raw_hot": 125815,
@@ -2180,7 +2220,7 @@
     },
     {
       "raw_hot": 75899,
-      "num": 152855,
+      "num": 153572,
       "word": "华为智界S7价格权益真香",
       "onboard_time": 1712824878,
       "rank": 35,
@@ -2251,6 +2291,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 67449,
+      "num": 287037,
+      "word": "华为首款柔性OLED笔记本发布",
+      "onboard_time": 1712826316,
+      "rank": 21,
+      "category": "数码"
+    },
+    {
       "raw_hot": 67256,
       "num": 85752,
       "word": "NIP和JDG决胜局",
@@ -2289,14 +2337,6 @@
       "onboard_time": 1712767277,
       "rank": 47,
       "category": "体育"
-    },
-    {
-      "raw_hot": 58005,
-      "num": 227708,
-      "word": "华为首款柔性OLED笔记本发布",
-      "onboard_time": 1712826316,
-      "rank": 21,
-      "category": "数码"
     },
     {
       "raw_hot": 48474,
@@ -2347,20 +2387,20 @@
       "category": "时尚"
     },
     {
-      "raw_hot": 23357,
-      "num": 145225,
-      "word": "华为980克新款旗舰笔记本有多强",
-      "onboard_time": 1712826677,
-      "rank": 38,
-      "category": "数码"
-    },
-    {
-      "raw_hot": 16535,
-      "num": 261865,
+      "raw_hot": 24247,
+      "num": 281725,
       "word": "淘宝举办家乡时装周",
       "onboard_time": 1712826017,
       "rank": 14,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 23357,
+      "num": 257366,
+      "word": "华为980克新款旗舰笔记本有多强",
+      "onboard_time": 1712826677,
+      "rank": 38,
+      "category": "数码"
     },
     {
       "raw_hot": 13804,
