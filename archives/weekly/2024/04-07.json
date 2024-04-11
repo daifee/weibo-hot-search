@@ -1,6 +1,6 @@
 {
   "startTime": 1712420539476,
-  "endTime": 1712802393282,
+  "endTime": 1712803054755,
   "band_list": [
     {
       "raw_hot": 9583581,
@@ -403,20 +403,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1438564,
+      "num": 1438564,
+      "word": "张杰女儿小名已被抢注商标",
+      "onboard_time": 1712799559,
+      "rank": 0,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1435631,
       "num": 1435631,
       "word": "阿克苏地震",
       "onboard_time": 1712761821,
       "rank": 1,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1424791,
-      "num": 1424791,
-      "word": "张杰女儿小名已被抢注商标",
-      "onboard_time": 1712799559,
-      "rank": 0,
-      "category": "艺人"
     },
     {
       "raw_hot": 1415504,
@@ -441,6 +441,14 @@
       "onboard_time": 1712570538,
       "rank": 11,
       "category": "演出"
+    },
+    {
+      "raw_hot": 1390826,
+      "num": 1390826,
+      "word": "韩国国务总理辞职",
+      "onboard_time": 1712801357,
+      "rank": 4,
+      "category": "国外时政"
     },
     {
       "raw_hot": 1371438,
@@ -1179,14 +1187,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 892229,
-      "num": 892229,
-      "word": "韩国国务总理辞职",
-      "onboard_time": 1712801357,
-      "rank": 4,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 891540,
       "num": 891540,
       "word": "陈学冬",
@@ -1567,6 +1567,14 @@
       "num": 779848,
       "word": "福宝把宋宝的魂都带走了",
       "onboard_time": 1712707039,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 757781,
+      "num": 757781,
+      "word": "63岁阿姨健身8年身材如少女",
+      "onboard_time": 1712799438,
       "rank": 7,
       "category": "社会新闻"
     },
@@ -2059,14 +2067,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 657734,
-      "num": 657734,
-      "word": "63岁阿姨健身8年身材如少女",
-      "onboard_time": 1712799438,
-      "rank": 7,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 653407,
       "num": 653407,
       "word": "林更新回应34岁拍仙侠",
@@ -2305,6 +2305,14 @@
       "onboard_time": 1712582720,
       "rank": 30,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 605544,
+      "num": 605544,
+      "word": "华为P70",
+      "onboard_time": 1712545040,
+      "rank": 16,
+      "category": "数码"
     },
     {
       "raw_hot": 603864,
@@ -3259,14 +3267,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 462161,
-      "num": 462161,
-      "word": "华为P70",
-      "onboard_time": 1712545040,
-      "rank": 16,
-      "category": "数码"
-    },
-    {
       "raw_hot": 462015,
       "num": 462015,
       "word": "新款iPad或将直接发布",
@@ -3641,6 +3641,14 @@
       "onboard_time": 1712559979,
       "rank": 25,
       "category": "教育"
+    },
+    {
+      "raw_hot": 424746,
+      "num": 424746,
+      "word": "荣耀回应小米道歉",
+      "onboard_time": 1712801357,
+      "rank": 19,
+      "category": "数码"
     },
     {
       "raw_hot": 424648,
@@ -4027,6 +4035,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 380316,
+      "num": 294756,
+      "word": "女子养的宠物貂被洗衣机洗了15分钟",
+      "onboard_time": 1712801598,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 379648,
       "num": 379648,
       "word": "郭炜炜 做不好就不要做了",
@@ -4241,6 +4257,14 @@
       "onboard_time": 1712736798,
       "rank": 34,
       "category": "财经"
+    },
+    {
+      "raw_hot": 358551,
+      "num": 577344,
+      "word": "27岁我放弃拼了6年的事业当学徒",
+      "onboard_time": 1712800879,
+      "rank": 26,
+      "category": "情感"
     },
     {
       "raw_hot": 357116,
@@ -4699,14 +4723,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 323396,
-      "num": 323396,
-      "word": "荣耀回应小米道歉",
-      "onboard_time": 1712801357,
-      "rank": 19,
-      "category": "数码"
-    },
-    {
       "raw_hot": 321659,
       "num": 321659,
       "word": "白鹿扎染裙",
@@ -5145,14 +5161,6 @@
       "onboard_time": 1712462359,
       "rank": 23,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 294756,
-      "num": 294756,
-      "word": "女子养的宠物貂被洗衣机洗了15分钟",
-      "onboard_time": 1712801598,
-      "rank": 23,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 293690,
@@ -6091,6 +6099,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 246438,
+      "num": 583863,
+      "word": "女子突然栽倒路人接力出手相救",
+      "onboard_time": 1712799498,
+      "rank": 9,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 245965,
       "num": 245965,
       "word": "猪景房",
@@ -6451,14 +6467,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 232518,
-      "num": 497630,
-      "word": "女子突然栽倒路人接力出手相救",
-      "onboard_time": 1712799498,
-      "rank": 9,
-      "category": "社会正能量"
-    },
-    {
       "raw_hot": 232294,
       "num": 232294,
       "word": "林娜琏将6月solo回归",
@@ -6553,14 +6561,6 @@
       "onboard_time": 1712417478,
       "rank": 7,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 228763,
-      "num": 228763,
-      "word": "27岁我放弃拼了6年的事业当学徒",
-      "onboard_time": 1712800879,
-      "rank": 26,
-      "category": "情感"
     },
     {
       "raw_hot": 228459,
@@ -7099,6 +7099,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 210719,
+      "num": 193975,
+      "word": "刷牙不刷舌头约等于白刷",
+      "onboard_time": 1712802438,
+      "rank": 30,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 210504,
       "num": 210504,
       "word": "C罗肘击对手",
@@ -7145,6 +7153,14 @@
       "onboard_time": 1712793318,
       "rank": 29,
       "category": "情感"
+    },
+    {
+      "raw_hot": 209654,
+      "num": 209654,
+      "word": "跑步应该一个人还是一群人",
+      "onboard_time": 1712802438,
+      "rank": 26,
+      "category": "运动健身"
     },
     {
       "raw_hot": 209636,
@@ -8139,6 +8155,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 194047,
+      "num": 194047,
+      "word": "今天本该是周五",
+      "onboard_time": 1712802559,
+      "rank": 29,
+      "category": "情感"
+    },
+    {
       "raw_hot": 194025,
       "num": 194025,
       "word": "红米Turbo3发布会",
@@ -9027,6 +9051,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 177080,
+      "num": 177080,
+      "word": "韩国多名政府高官同时请辞",
+      "onboard_time": 1712802857,
+      "rank": 33,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 176939,
       "num": 176939,
       "word": "保护子宫卵巢的结构主要是骨盆",
@@ -9625,6 +9657,14 @@
       "onboard_time": 1712627298,
       "rank": 40,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 162953,
+      "num": 162953,
+      "word": "牛骏峰窝囊废赛道种子选手",
+      "onboard_time": 1712802198,
+      "rank": 38,
+      "category": "剧集"
     },
     {
       "raw_hot": 162762,
@@ -11035,14 +11075,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 131820,
-      "num": 131820,
-      "word": "牛骏峰窝囊废赛道种子选手",
-      "onboard_time": 1712802198,
-      "rank": 38,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 131608,
       "num": 104223,
       "word": "沈近真下线",
@@ -11147,6 +11179,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 129855,
+      "num": 129855,
+      "word": "你有上班丑吗",
+      "onboard_time": 1712802857,
+      "rank": 42,
+      "category": "情感"
+    },
+    {
       "raw_hot": 129778,
       "num": 129778,
       "word": "健身真的能改变一个人的脸型吗",
@@ -11169,6 +11209,14 @@
       "onboard_time": 1712745437,
       "rank": 42,
       "category": "自然"
+    },
+    {
+      "raw_hot": 129108,
+      "num": 129108,
+      "word": "与凤行凤神之路海报",
+      "onboard_time": 1712802978,
+      "rank": 43,
+      "category": "剧集"
     },
     {
       "raw_hot": 128845,
@@ -11289,6 +11337,14 @@
       "onboard_time": 1712629338,
       "rank": 49,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 126142,
+      "num": 126142,
+      "word": "三月三荠菜煮鸡蛋",
+      "onboard_time": 1712800938,
+      "rank": 41,
+      "category": "美食"
     },
     {
       "raw_hot": 125996,
@@ -11481,14 +11537,6 @@
       "onboard_time": 1712573539,
       "rank": 46,
       "category": "体育"
-    },
-    {
-      "raw_hot": 121569,
-      "num": 121569,
-      "word": "三月三荠菜煮鸡蛋",
-      "onboard_time": 1712800938,
-      "rank": 41,
-      "category": "美食"
     },
     {
       "raw_hot": 121514,
@@ -11889,6 +11937,14 @@
       "onboard_time": 1712580679,
       "rank": 42,
       "category": "社会正能量,教育"
+    },
+    {
+      "raw_hot": 104143,
+      "num": 104143,
+      "word": "小米价值观演讲大赛",
+      "onboard_time": 1712802978,
+      "rank": 48,
+      "category": "互联网"
     },
     {
       "raw_hot": 103151,

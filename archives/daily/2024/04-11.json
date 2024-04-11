@@ -1,6 +1,6 @@
 {
   "startTime": 1712766262556,
-  "endTime": 1712802393282,
+  "endTime": 1712803054755,
   "band_list": [
     {
       "raw_hot": 2260302,
@@ -35,12 +35,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 1424791,
-      "num": 1424791,
+      "raw_hot": 1438564,
+      "num": 1438564,
       "word": "张杰女儿小名已被抢注商标",
       "onboard_time": 1712799559,
       "rank": 0,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1390826,
+      "num": 1390826,
+      "word": "韩国国务总理辞职",
+      "onboard_time": 1712801357,
+      "rank": 4,
+      "category": "国外时政"
     },
     {
       "raw_hot": 908877,
@@ -49,14 +57,6 @@
       "onboard_time": 1712793918,
       "rank": 5,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 892229,
-      "num": 892229,
-      "word": "韩国国务总理辞职",
-      "onboard_time": 1712801357,
-      "rank": 4,
-      "category": "国外时政"
     },
     {
       "raw_hot": 874184,
@@ -81,6 +81,14 @@
       "onboard_time": 1712795659,
       "rank": 10,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 757781,
+      "num": 757781,
+      "word": "63岁阿姨健身8年身材如少女",
+      "onboard_time": 1712799438,
+      "rank": 7,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 755661,
@@ -139,14 +147,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 657734,
-      "num": 657734,
-      "word": "63岁阿姨健身8年身材如少女",
-      "onboard_time": 1712799438,
-      "rank": 7,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 614721,
       "num": 614721,
       "word": "阿克苏地震",
@@ -161,6 +161,14 @@
       "onboard_time": 1712755398,
       "rank": 12,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 605544,
+      "num": 605544,
+      "word": "华为P70",
+      "onboard_time": 1712801658,
+      "rank": 11,
+      "category": "数码"
     },
     {
       "raw_hot": 584446,
@@ -203,14 +211,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 462161,
-      "num": 462161,
-      "word": "华为P70",
-      "onboard_time": 1712801658,
-      "rank": 11,
-      "category": "数码"
-    },
-    {
       "raw_hot": 457329,
       "num": 457329,
       "word": "小米汽车听劝加按键",
@@ -233,6 +233,14 @@
       "onboard_time": 1712754559,
       "rank": 6,
       "category": "情感"
+    },
+    {
+      "raw_hot": 424746,
+      "num": 424746,
+      "word": "荣耀回应小米道歉",
+      "onboard_time": 1712801357,
+      "rank": 19,
+      "category": "数码"
     },
     {
       "raw_hot": 421474,
@@ -267,6 +275,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 380316,
+      "num": 294756,
+      "word": "女子养的宠物貂被洗衣机洗了15分钟",
+      "onboard_time": 1712801598,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 374566,
       "num": 374566,
       "word": "蔡文静被狗抓出2道伤痕",
@@ -299,6 +315,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 358551,
+      "num": 577344,
+      "word": "27岁我放弃拼了6年的事业当学徒",
+      "onboard_time": 1712800879,
+      "rank": 26,
+      "category": "情感"
+    },
+    {
       "raw_hot": 352383,
       "num": 352383,
       "word": "有人卖出5公斤黄金变现270多万",
@@ -313,14 +337,6 @@
       "onboard_time": 1712764277,
       "rank": 14,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 323396,
-      "num": 323396,
-      "word": "荣耀回应小米道歉",
-      "onboard_time": 1712801357,
-      "rank": 19,
-      "category": "数码"
     },
     {
       "raw_hot": 310721,
@@ -345,14 +361,6 @@
       "onboard_time": 1712792116,
       "rank": 24,
       "category": "健康医疗,科学科普"
-    },
-    {
-      "raw_hot": 294756,
-      "num": 294756,
-      "word": "女子养的宠物貂被洗衣机洗了15分钟",
-      "onboard_time": 1712801598,
-      "rank": 23,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 291013,
@@ -411,28 +419,20 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 245223,
-      "num": 245223,
-      "word": "喝水是假的吃鱼是真的",
-      "onboard_time": 1712795119,
-      "rank": 25,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 232518,
-      "num": 497630,
+      "raw_hot": 246438,
+      "num": 583863,
       "word": "女子突然栽倒路人接力出手相救",
       "onboard_time": 1712799498,
       "rank": 9,
       "category": "社会正能量"
     },
     {
-      "raw_hot": 228763,
-      "num": 228763,
-      "word": "27岁我放弃拼了6年的事业当学徒",
-      "onboard_time": 1712800879,
-      "rank": 26,
-      "category": "情感"
+      "raw_hot": 245223,
+      "num": 245223,
+      "word": "喝水是假的吃鱼是真的",
+      "onboard_time": 1712795119,
+      "rank": 25,
+      "category": "幽默"
     },
     {
       "raw_hot": 224572,
@@ -451,12 +451,28 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 210719,
+      "num": 193975,
+      "word": "刷牙不刷舌头约等于白刷",
+      "onboard_time": 1712802438,
+      "rank": 30,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 209886,
       "num": 209886,
       "word": "分手一年多的前男友的现女友加我",
       "onboard_time": 1712793318,
       "rank": 29,
       "category": "情感"
+    },
+    {
+      "raw_hot": 209654,
+      "num": 209654,
+      "word": "跑步应该一个人还是一群人",
+      "onboard_time": 1712802438,
+      "rank": 26,
+      "category": "运动健身"
     },
     {
       "raw_hot": 209636,
@@ -515,6 +531,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 194047,
+      "num": 194047,
+      "word": "今天本该是周五",
+      "onboard_time": 1712802559,
+      "rank": 29,
+      "category": "情感"
+    },
+    {
       "raw_hot": 192374,
       "num": 133127,
       "word": "别再乱用红霉素软膏和红霉素眼膏",
@@ -545,6 +569,14 @@
       "onboard_time": 1712801119,
       "rank": 32,
       "category": "教育"
+    },
+    {
+      "raw_hot": 177080,
+      "num": 177080,
+      "word": "韩国多名政府高官同时请辞",
+      "onboard_time": 1712802857,
+      "rank": 33,
+      "category": "国外时政"
     },
     {
       "raw_hot": 176836,
@@ -633,6 +665,14 @@
       "onboard_time": 1712798598,
       "rank": 45,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 162953,
+      "num": 162953,
+      "word": "牛骏峰窝囊废赛道种子选手",
+      "onboard_time": 1712802198,
+      "rank": 38,
+      "category": "剧集"
     },
     {
       "raw_hot": 158113,
@@ -731,14 +771,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 131820,
-      "num": 131820,
-      "word": "牛骏峰窝囊废赛道种子选手",
-      "onboard_time": 1712802198,
-      "rank": 38,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 130874,
       "num": 130874,
       "word": "赵丽颖剧中最虐的台词",
@@ -755,6 +787,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 129855,
+      "num": 129855,
+      "word": "你有上班丑吗",
+      "onboard_time": 1712802857,
+      "rank": 42,
+      "category": "情感"
+    },
+    {
       "raw_hot": 129807,
       "num": 129807,
       "word": "中国与格鲁吉亚签署互免签证协定",
@@ -768,6 +808,14 @@
       "word": "赵丽颖持枪剧照",
       "onboard_time": 1712758219,
       "rank": 30,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 129108,
+      "num": 129108,
+      "word": "与凤行凤神之路海报",
+      "onboard_time": 1712802978,
+      "rank": 43,
       "category": "剧集"
     },
     {
@@ -795,6 +843,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 126142,
+      "num": 126142,
+      "word": "三月三荠菜煮鸡蛋",
+      "onboard_time": 1712800938,
+      "rank": 41,
+      "category": "美食"
+    },
+    {
       "raw_hot": 125815,
       "num": 125815,
       "word": "朱丹晒浪姐合照",
@@ -817,14 +873,6 @@
       "onboard_time": 1712796019,
       "rank": 47,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 121569,
-      "num": 121569,
-      "word": "三月三荠菜煮鸡蛋",
-      "onboard_time": 1712800938,
-      "rank": 41,
-      "category": "美食"
     },
     {
       "raw_hot": 120020,
@@ -873,6 +921,14 @@
       "onboard_time": 1712787551,
       "rank": 39,
       "category": "母婴育儿,运动健身"
+    },
+    {
+      "raw_hot": 104143,
+      "num": 104143,
+      "word": "小米价值观演讲大赛",
+      "onboard_time": 1712802978,
+      "rank": 48,
+      "category": "互联网"
     },
     {
       "raw_hot": 103898,
