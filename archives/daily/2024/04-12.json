@@ -1,6 +1,6 @@
 {
   "startTime": 1712852435435,
-  "endTime": 1712874881550,
+  "endTime": 1712877549936,
   "band_list": [
     {
       "raw_hot": 2145005,
@@ -59,6 +59,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 442448,
+      "num": 442448,
+      "word": "卖房让娃退学环游世界的家庭怎么样了",
+      "onboard_time": 1712832977,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 408618,
       "num": 343201,
       "word": "林更新说与赵丽颖搭档是荣幸",
@@ -81,6 +89,14 @@
       "onboard_time": 1712835137,
       "rank": 7,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 355496,
+      "num": 224764,
+      "word": "官方回应甘肃一男教师侵犯初三男生",
+      "onboard_time": 1712873112,
+      "rank": 32,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 352063,
@@ -123,6 +139,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 286771,
+      "num": 286771,
+      "word": "与凤行是宣璐和徐海乔第3次合作",
+      "onboard_time": 1712865069,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 279808,
       "num": 259726,
       "word": "赵丽颖王伊瑶友情",
@@ -139,12 +163,28 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 256313,
+      "num": 224748,
+      "word": "淄博烧烤赵大爷被叫去开会了",
+      "onboard_time": 1712871850,
+      "rank": 19,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 254288,
       "num": 254288,
       "word": "章子怡酱园弄戛纳就穿这套吧",
       "onboard_time": 1712839878,
       "rank": 16,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 224594,
+      "num": 224594,
+      "word": "甘肃一男教师被指侵犯初三男生",
+      "onboard_time": 1712873892,
+      "rank": 27,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 222507,
@@ -179,6 +219,22 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 212249,
+      "num": 212249,
+      "word": "赵露思在阿那亚",
+      "onboard_time": 1712868310,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 201995,
+      "num": 201995,
+      "word": "赵丽颖2020年就确认出演与凤行了",
+      "onboard_time": 1712861351,
+      "rank": 16,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 187536,
       "num": 180626,
       "word": "手术直播间女主播被喷泉冲飞",
@@ -211,6 +267,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 169629,
+      "num": 224811,
+      "word": "男生逆袭考研上岸还减肥100斤",
+      "onboard_time": 1712865370,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 165855,
       "num": 180767,
       "word": "调休快把四月调成单休了",
@@ -219,11 +283,27 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 162547,
+      "num": 162547,
+      "word": "常吃这种食物更易性早熟",
+      "onboard_time": 1712870951,
+      "rank": 45,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 156655,
       "num": 156655,
       "word": "香山偶遇刘亦菲",
       "onboard_time": 1712847139,
       "rank": 31,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 151117,
+      "num": 151117,
+      "word": "仝卓工作室说很多艺人不敬业",
+      "onboard_time": 1712860450,
+      "rank": 10,
       "category": "艺人"
     },
     {
@@ -235,12 +315,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 131470,
-      "num": 97764,
-      "word": "与凤行是宣璐和徐海乔第3次合作",
-      "onboard_time": 1712865069,
-      "rank": 30,
+      "raw_hot": 144667,
+      "num": 144667,
+      "word": "士兵突击老班长在淄博被疯狂投喂",
+      "onboard_time": 1712876536,
+      "rank": 18,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 126703,
+      "num": 126703,
+      "word": "纪凌尘嗦冰棍",
+      "onboard_time": 1712865851,
+      "rank": 33,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 126358,
@@ -267,14 +355,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 123140,
-      "num": 123140,
-      "word": "卖房让娃退学环游世界的家庭怎么样了",
-      "onboard_time": 1712832977,
-      "rank": 39,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 123050,
       "num": 123050,
       "word": "雷军说余承东调侃小米手机支架没事",
@@ -299,20 +379,28 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 115639,
+      "num": 115639,
+      "word": "少吃和运动哪个更容易瘦",
+      "onboard_time": 1712876536,
+      "rank": 25,
+      "category": "运动健身"
+    },
+    {
+      "raw_hot": 115462,
+      "num": 115462,
+      "word": "蒋依依说今年不扯裙子了",
+      "onboard_time": 1712864351,
+      "rank": 10,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 114923,
       "num": 171785,
       "word": "招商银行停发三年期五年期大额存单",
       "onboard_time": 1712842578,
       "rank": 28,
       "category": "财经"
-    },
-    {
-      "raw_hot": 112972,
-      "num": 96658,
-      "word": "淄博烧烤赵大爷被叫去开会了",
-      "onboard_time": 1712871850,
-      "rank": 19,
-      "category": "旅游"
     },
     {
       "raw_hot": 111829,
@@ -331,14 +419,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 104540,
-      "num": 104540,
-      "word": "男生逆袭考研上岸还减肥100斤",
-      "onboard_time": 1712865370,
-      "rank": 37,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 104460,
       "num": 104460,
       "word": "Bin哥厉害",
@@ -347,20 +427,20 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 103136,
-      "num": 96062,
-      "word": "仝卓工作室说很多艺人不敬业",
-      "onboard_time": 1712860450,
-      "rank": 10,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 102373,
       "num": 94036,
       "word": "许光汉易梦玲合照",
       "onboard_time": 1712843238,
       "rank": 41,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 100967,
+      "num": 87558,
+      "word": "小米SU7断电后冰箱最长工作24小时",
+      "onboard_time": 1712876594,
+      "rank": 30,
+      "category": "汽车"
     },
     {
       "raw_hot": 97752,
@@ -411,35 +491,19 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 87610,
+      "num": 87610,
+      "word": "大学生日薪三百做兼职竟成洗钱工具人",
+      "onboard_time": 1712867651,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 85641,
       "num": 85641,
       "word": "承欢记",
       "onboard_time": 1712844079,
       "rank": 45,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 84931,
-      "num": 84931,
-      "word": "常吃这种食物更易性早熟",
-      "onboard_time": 1712870951,
-      "rank": 45,
-      "category": "健康医疗"
-    },
-    {
-      "raw_hot": 84427,
-      "num": 84427,
-      "word": "官方回应甘肃一男教师侵犯初三男生",
-      "onboard_time": 1712873112,
-      "rank": 32,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 83130,
-      "num": 60622,
-      "word": "赵丽颖2020年就确认出演与凤行了",
-      "onboard_time": 1712861351,
-      "rank": 16,
       "category": "剧集"
     },
     {
@@ -449,14 +513,6 @@
       "onboard_time": 1712854094,
       "rank": 24,
       "category": "情感"
-    },
-    {
-      "raw_hot": 80538,
-      "num": 80538,
-      "word": "纪凌尘嗦冰棍",
-      "onboard_time": 1712865851,
-      "rank": 33,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 78694,
@@ -475,12 +531,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 74464,
-      "num": 74464,
-      "word": "蒋依依说今年不扯裙子了",
-      "onboard_time": 1712864351,
-      "rank": 10,
-      "category": "作品衍生"
+      "raw_hot": 77993,
+      "num": 77993,
+      "word": "张颂文第一反应竟是上手",
+      "onboard_time": 1712858172,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 72953,
@@ -489,14 +545,6 @@
       "onboard_time": 1712845280,
       "rank": 48,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 71469,
-      "num": 71469,
-      "word": "赵露思在阿那亚",
-      "onboard_time": 1712868310,
-      "rank": 11,
-      "category": "艺人"
     },
     {
       "raw_hot": 70540,
@@ -515,19 +563,19 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 52500,
-      "num": 52500,
-      "word": "大学生日薪三百做兼职竟成洗钱工具人",
-      "onboard_time": 1712867651,
-      "rank": 49,
-      "category": "社会新闻"
+      "raw_hot": 52211,
+      "num": 52211,
+      "word": "蓝盈莹也做了甘露寺美甲",
+      "onboard_time": 1712827397,
+      "rank": 33,
+      "category": "作品衍生,美妆"
     },
     {
-      "raw_hot": 51395,
-      "num": 51395,
-      "word": "甘肃一男教师被指侵犯初三男生",
-      "onboard_time": 1712873892,
-      "rank": 27,
+      "raw_hot": 49895,
+      "num": 405735,
+      "word": "广西三月三到底有多好玩",
+      "onboard_time": 1712838378,
+      "rank": 2,
       "category": "社会新闻"
     },
     {
@@ -547,36 +595,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 41871,
-      "num": 313538,
-      "word": "广西三月三到底有多好玩",
-      "onboard_time": 1712838378,
-      "rank": 2,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 38772,
-      "num": 38772,
-      "word": "张颂文第一反应竟是上手",
-      "onboard_time": 1712858172,
-      "rank": 31,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 38072,
       "num": 43646,
       "word": "薛之谦重庆",
       "onboard_time": 1712856073,
       "rank": 44,
       "category": "演出"
-    },
-    {
-      "raw_hot": 36083,
-      "num": 36083,
-      "word": "蓝盈莹也做了甘露寺美甲",
-      "onboard_time": 1712827397,
-      "rank": 33,
-      "category": "作品衍生,美妆"
     },
     {
       "raw_hot": 35087,
