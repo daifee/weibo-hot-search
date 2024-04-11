@@ -1,6 +1,6 @@
 {
   "startTime": 1712420539476,
-  "endTime": 1712819845566,
+  "endTime": 1712820919732,
   "band_list": [
     {
       "raw_hot": 9583581,
@@ -107,6 +107,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 2234926,
+      "num": 2234926,
+      "word": "调休快把四月调成单休了",
+      "onboard_time": 1712817918,
+      "rank": 1,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 2184126,
       "num": 626249,
       "word": "虐猫考生说不是很懂网络舆论暂不回应",
@@ -153,14 +161,6 @@
       "onboard_time": 1712589379,
       "rank": 0,
       "category": "体育"
-    },
-    {
-      "raw_hot": 1973084,
-      "num": 1973084,
-      "word": "调休快把四月调成单休了",
-      "onboard_time": 1712817918,
-      "rank": 1,
-      "category": "幽默"
     },
     {
       "raw_hot": 1971382,
@@ -3731,6 +3731,22 @@
       "category": "电影"
     },
     {
+      "raw_hot": 437521,
+      "num": 437521,
+      "word": "医保部门从未规定单次住院不超过15天",
+      "onboard_time": 1712815819,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 437467,
+      "num": 437467,
+      "word": "去世的妻生病的娃破碎的他",
+      "onboard_time": 1712818939,
+      "rank": 13,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 436299,
       "num": 436299,
       "word": "网友偶遇权志龙",
@@ -4073,14 +4089,6 @@
       "onboard_time": 1712746759,
       "rank": 20,
       "category": "情感"
-    },
-    {
-      "raw_hot": 395164,
-      "num": 395164,
-      "word": "医保部门从未规定单次住院不超过15天",
-      "onboard_time": 1712815819,
-      "rank": 33,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 391743,
@@ -5011,6 +5019,14 @@
       "category": "动漫,作品衍生"
     },
     {
+      "raw_hot": 317659,
+      "num": 317659,
+      "word": "ZB1泡泡终止",
+      "onboard_time": 1712819478,
+      "rank": 16,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 317307,
       "num": 317307,
       "word": "朱丹双马尾",
@@ -5395,6 +5411,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 297734,
+      "num": 196924,
+      "word": "性早熟的5个真相",
+      "onboard_time": 1712819478,
+      "rank": 34,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 297691,
       "num": 297691,
       "word": "王晰为声入人心发声",
@@ -5528,6 +5552,14 @@
       "word": "王鹤棣的世界是个巨大的哈圈",
       "onboard_time": 1712760080,
       "rank": 28,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 289291,
+      "num": 289291,
+      "word": "林更新事业心",
+      "onboard_time": 1712820258,
+      "rank": 12,
       "category": "艺人"
     },
     {
@@ -6193,14 +6225,6 @@
       "onboard_time": 1712547079,
       "rank": 38,
       "category": "电影"
-    },
-    {
-      "raw_hot": 254208,
-      "num": 254208,
-      "word": "去世的妻生病的娃破碎的他",
-      "onboard_time": 1712818939,
-      "rank": 13,
-      "category": "剧集"
     },
     {
       "raw_hot": 253907,
@@ -7931,6 +7955,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 204850,
+      "num": 204850,
+      "word": "问界m9",
+      "onboard_time": 1712819838,
+      "rank": 17,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 204754,
       "num": 204754,
       "word": "承欢记开播海报",
@@ -8243,20 +8275,20 @@
       "category": "情感"
     },
     {
+      "raw_hot": 201106,
+      "num": 201106,
+      "word": "王者荣耀唱片",
+      "onboard_time": 1712818878,
+      "rank": 27,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 200816,
       "num": 200816,
       "word": "许嵩合肥演唱会官宣",
       "onboard_time": 1712550382,
       "rank": 36,
       "category": "演出"
-    },
-    {
-      "raw_hot": 200758,
-      "num": 200758,
-      "word": "ZB1泡泡终止",
-      "onboard_time": 1712819478,
-      "rank": 16,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 200630,
@@ -8907,6 +8939,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 189770,
+      "num": 189770,
+      "word": "为什么年轻人越来越讨厌上班",
+      "onboard_time": 1712820438,
+      "rank": 25,
+      "category": "情感"
+    },
+    {
       "raw_hot": 189684,
       "num": 189684,
       "word": "阿森纳2比2拜仁",
@@ -8987,6 +9027,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 187537,
+      "num": 187537,
+      "word": "赵丽颖和NPC跳了一段",
+      "onboard_time": 1712818338,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 187509,
       "num": 187509,
       "word": "不背单词崩了",
@@ -9059,16 +9107,8 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 186791,
-      "num": 179496,
-      "word": "赵丽颖和NPC跳了一段",
-      "onboard_time": 1712818338,
-      "rank": 24,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 186718,
-      "num": 186718,
+      "num": 200172,
       "word": "岸田白宫演讲口误称同盟国中国",
       "onboard_time": 1712817739,
       "rank": 19,
@@ -9603,14 +9643,6 @@
       "category": "艺人,游戏"
     },
     {
-      "raw_hot": 176403,
-      "num": 176403,
-      "word": "王者荣耀唱片",
-      "onboard_time": 1712818878,
-      "rank": 27,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 176240,
       "num": 176240,
       "word": "乔杉中戏同学聚会vlog",
@@ -9873,6 +9905,14 @@
       "onboard_time": 1712624178,
       "rank": 39,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 171545,
+      "num": 171545,
+      "word": "浪5 一群女人的欢乐氛围",
+      "onboard_time": 1712819718,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 171088,
@@ -10955,6 +10995,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 146346,
+      "num": 155419,
+      "word": "有头部券商融券池全部收回",
+      "onboard_time": 1712820438,
+      "rank": 29,
+      "category": "财经"
+    },
+    {
       "raw_hot": 146335,
       "num": 146335,
       "word": "坐着站着又趴着的猫",
@@ -11019,6 +11067,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 145393,
+      "num": 145393,
+      "word": "夫妇俩开车多看一眼救了一个人",
+      "onboard_time": 1712818878,
+      "rank": 43,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 145313,
       "num": 145313,
       "word": "于适表情包",
@@ -11049,6 +11105,14 @@
       "onboard_time": 1712639840,
       "rank": 48,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 144468,
+      "num": 144468,
+      "word": "泰国征兵抽签",
+      "onboard_time": 1712819119,
+      "rank": 32,
+      "category": "军事"
     },
     {
       "raw_hot": 144212,
@@ -11091,6 +11155,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 143725,
+      "num": 143725,
+      "word": "有人专门投资让未成年人偷手机",
+      "onboard_time": 1712820498,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 143352,
       "num": 143352,
       "word": "看上去心情好的人",
@@ -11121,14 +11193,6 @@
       "onboard_time": 1712534958,
       "rank": 43,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 142563,
-      "num": 142563,
-      "word": "泰国征兵抽签",
-      "onboard_time": 1712819119,
-      "rank": 32,
-      "category": "军事"
     },
     {
       "raw_hot": 142414,
@@ -11241,6 +11305,14 @@
       "onboard_time": 1712407337,
       "rank": 40,
       "category": "网红"
+    },
+    {
+      "raw_hot": 140370,
+      "num": 140370,
+      "word": "洛阳牡丹盛开让外国人看呆了",
+      "onboard_time": 1712819597,
+      "rank": 42,
+      "category": "旅游"
     },
     {
       "raw_hot": 140304,
@@ -11417,6 +11489,14 @@
       "onboard_time": 1712475858,
       "rank": 41,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 138103,
+      "num": 138103,
+      "word": "文学调剂文档",
+      "onboard_time": 1712819359,
+      "rank": 38,
+      "category": "情感"
     },
     {
       "raw_hot": 137801,
@@ -11793,14 +11873,6 @@
       "onboard_time": 1712793318,
       "rank": 44,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 130679,
-      "num": 130679,
-      "word": "性早熟的5个真相",
-      "onboard_time": 1712819478,
-      "rank": 34,
-      "category": "科学科普"
     },
     {
       "raw_hot": 130514,
@@ -12187,14 +12259,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 122729,
-      "num": 122729,
-      "word": "文学调剂文档",
-      "onboard_time": 1712819359,
-      "rank": 38,
-      "category": "情感"
-    },
-    {
       "raw_hot": 122522,
       "num": 122522,
       "word": "成都迪士尼",
@@ -12451,14 +12515,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 114175,
-      "num": 114175,
-      "word": "洛阳牡丹盛开让外国人看呆了",
-      "onboard_time": 1712819597,
-      "rank": 42,
-      "category": "旅游"
-    },
-    {
       "raw_hot": 114045,
       "num": 114045,
       "word": "兰大回应虐猫考生进调剂名单",
@@ -12473,14 +12529,6 @@
       "onboard_time": 1712568799,
       "rank": 49,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 112960,
-      "num": 112960,
-      "word": "夫妇俩开车多看一眼救了一个人",
-      "onboard_time": 1712818878,
-      "rank": 43,
-      "category": "社会正能量"
     },
     {
       "raw_hot": 112757,
@@ -12707,14 +12755,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 101478,
-      "num": 101478,
-      "word": "浪5 一群女人的欢乐氛围",
-      "onboard_time": 1712819718,
-      "rank": 47,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 101173,
       "num": 101173,
       "word": "你手里的黄金要选择变现吗",
@@ -12793,6 +12833,14 @@
       "onboard_time": 1712493438,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 93201,
+      "num": 93201,
+      "word": "惜花芷直播",
+      "onboard_time": 1712820798,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 91837,
