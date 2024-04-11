@@ -1,6 +1,6 @@
 {
   "startTime": 1712420539476,
-  "endTime": 1712871250058,
+  "endTime": 1712873799380,
   "band_list": [
     {
       "raw_hot": 9583581,
@@ -14163,6 +14163,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 92988,
+      "num": 66476,
+      "word": "与凤行是宣璐和徐海乔第3次合作",
+      "onboard_time": 1712865069,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 92015,
       "num": 92015,
       "word": "麦承欢分手了",
@@ -14411,6 +14419,14 @@
       "category": "体育,运动健身"
     },
     {
+      "raw_hot": 79669,
+      "num": 79669,
+      "word": "男生逆袭考研上岸还减肥100斤",
+      "onboard_time": 1712865370,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 79059,
       "num": 79059,
       "word": "DYG春季赛淘汰",
@@ -14459,6 +14475,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 77091,
+      "num": 66255,
+      "word": "仝卓工作室说很多艺人不敬业",
+      "onboard_time": 1712860450,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 75899,
       "num": 153572,
       "word": "华为智界S7价格权益真香",
@@ -14489,14 +14513,6 @@
       "onboard_time": 1712511192,
       "rank": 47,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 75077,
-      "num": 45774,
-      "word": "仝卓工作室说很多艺人不敬业",
-      "onboard_time": 1712860450,
-      "rank": 10,
-      "category": "艺人"
     },
     {
       "raw_hot": 74718,
@@ -14731,11 +14747,19 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 62009,
-      "num": 37132,
+      "raw_hot": 62859,
+      "num": 62859,
       "word": "蒋依依说今年不扯裙子了",
       "onboard_time": 1712864351,
       "rank": 10,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 62338,
+      "num": 62338,
+      "word": "纪凌尘嗦冰棍",
+      "onboard_time": 1712865851,
+      "rank": 33,
       "category": "作品衍生"
     },
     {
@@ -14827,6 +14851,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 52199,
+      "num": 52199,
+      "word": "赵露思在阿那亚",
+      "onboard_time": 1712868310,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 51686,
+      "num": 51686,
+      "word": "常吃这种食物更易性早熟",
+      "onboard_time": 1712870951,
+      "rank": 45,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 50366,
       "num": 50366,
       "word": "海登海姆3比2拜仁",
@@ -14859,12 +14899,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 48122,
+      "num": 42460,
+      "word": "大学生日薪三百做兼职竟成洗钱工具人",
+      "onboard_time": 1712867651,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 47926,
       "num": 47926,
       "word": "魏大勋生日应援",
       "onboard_time": 1712854155,
       "rank": 45,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 47479,
+      "num": 47479,
+      "word": "淄博烧烤赵大爷被叫去开会了",
+      "onboard_time": 1712871850,
+      "rank": 19,
+      "category": "旅游"
     },
     {
       "raw_hot": 47175,
@@ -14921,22 +14977,6 @@
       "onboard_time": 1712833398,
       "rank": 31,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 43156,
-      "num": 37089,
-      "word": "赵露思在阿那亚",
-      "onboard_time": 1712868310,
-      "rank": 11,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 43089,
-      "num": 37050,
-      "word": "与凤行是宣璐和徐海乔第3次合作",
-      "onboard_time": 1712865069,
-      "rank": 30,
-      "category": "剧集"
     },
     {
       "raw_hot": 43040,
@@ -15043,22 +15083,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 37145,
-      "num": 37145,
-      "word": "男生逆袭考研上岸还减肥100斤",
-      "onboard_time": 1712865370,
-      "rank": 37,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 36996,
-      "num": 36995,
-      "word": "纪凌尘嗦冰棍",
-      "onboard_time": 1712865851,
-      "rank": 33,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 35379,
       "num": 35379,
       "word": "电视剧品质盛典",
@@ -15081,14 +15105,6 @@
       "onboard_time": 1712725579,
       "rank": 33,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 34148,
-      "num": 17476,
-      "word": "大学生日薪三百做兼职竟成洗钱工具人",
-      "onboard_time": 1712867651,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 34003,
@@ -15121,6 +15137,14 @@
       "onboard_time": 1712686153,
       "rank": 39,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 30392,
+      "num": 30392,
+      "word": "官方回应甘肃一男教师侵犯初三男生",
+      "onboard_time": 1712873112,
+      "rank": 32,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 30026,
@@ -15244,7 +15268,7 @@
     },
     {
       "raw_hot": 23313,
-      "num": 23313,
+      "num": 26575,
       "word": "缺铁性贫血的症状",
       "onboard_time": 1712863451,
       "rank": 45,
@@ -15417,14 +15441,6 @@
       "onboard_time": 1712778670,
       "rank": 49,
       "category": "母婴育儿"
-    },
-    {
-      "raw_hot": 12810,
-      "num": 16900,
-      "word": "常吃这种食物更易性早熟",
-      "onboard_time": 1712870951,
-      "rank": 45,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 11730,
