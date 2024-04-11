@@ -1,6 +1,6 @@
 {
   "startTime": 1712766262556,
-  "endTime": 1712846036047,
+  "endTime": 1712848710801,
   "band_list": [
     {
       "raw_hot": 4878022,
@@ -57,6 +57,14 @@
       "onboard_time": 1712829978,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1685902,
+      "num": 1685902,
+      "word": "cp粉悬着的心终于死了",
+      "onboard_time": 1712844618,
+      "rank": 30,
+      "category": "剧集"
     },
     {
       "raw_hot": 1629634,
@@ -291,6 +299,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 766760,
+      "num": 766760,
+      "word": "与凤行低了",
+      "onboard_time": 1712847499,
+      "rank": 4,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 757781,
       "num": 757781,
       "word": "63岁阿姨健身8年身材如少女",
@@ -395,12 +411,28 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 659811,
+      "num": 659811,
+      "word": "为什么英国人下雨很少打伞",
+      "onboard_time": 1712845999,
+      "rank": 42,
+      "category": "情感"
+    },
+    {
       "raw_hot": 639622,
       "num": 639622,
       "word": "雅诗兰黛 IU",
       "onboard_time": 1712841439,
       "rank": 13,
       "category": "作品衍生,美妆"
+    },
+    {
+      "raw_hot": 637124,
+      "num": 397766,
+      "word": "林更新称呼赵丽颖赵老师",
+      "onboard_time": 1712848219,
+      "rank": 10,
+      "category": "剧集"
     },
     {
       "raw_hot": 626685,
@@ -417,14 +449,6 @@
       "onboard_time": 1712829018,
       "rank": 3,
       "category": "电影"
-    },
-    {
-      "raw_hot": 616100,
-      "num": 579670,
-      "word": "cp粉悬着的心终于死了",
-      "onboard_time": 1712844618,
-      "rank": 30,
-      "category": "剧集"
     },
     {
       "raw_hot": 615248,
@@ -553,6 +577,14 @@
       "onboard_time": 1712793017,
       "rank": 13,
       "category": "游戏,网红"
+    },
+    {
+      "raw_hot": 536274,
+      "num": 460346,
+      "word": "梁朝伟不做演员了可以做医生",
+      "onboard_time": 1712844260,
+      "rank": 22,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 531919,
@@ -689,14 +721,6 @@
       "onboard_time": 1712796319,
       "rank": 20,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 460346,
-      "num": 460346,
-      "word": "梁朝伟不做演员了可以做医生",
-      "onboard_time": 1712844260,
-      "rank": 22,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 457329,
@@ -907,6 +931,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 369518,
+      "num": 369518,
+      "word": "TES被偷家",
+      "onboard_time": 1712848519,
+      "rank": 14,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 369372,
       "num": 325912,
       "word": "第1天相亲第2天领证第9天就消失",
@@ -979,12 +1011,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 353185,
+      "num": 353185,
+      "word": "以为猫咪生病了原来是猫盆漏电了",
+      "onboard_time": 1712847139,
+      "rank": 17,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 352383,
       "num": 352383,
       "word": "有人卖出5公斤黄金变现270多万",
       "onboard_time": 1712750357,
       "rank": 8,
       "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 345732,
+      "num": 345732,
+      "word": "BLG对战TES",
+      "onboard_time": 1712829498,
+      "rank": 26,
+      "category": "电竞"
     },
     {
       "raw_hot": 341890,
@@ -1009,6 +1057,14 @@
       "onboard_time": 1712835976,
       "rank": 15,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 336806,
+      "num": 336806,
+      "word": "BLG晋级2024MSI",
+      "onboard_time": 1712847499,
+      "rank": 24,
+      "category": "电竞"
     },
     {
       "raw_hot": 334757,
@@ -1243,6 +1299,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 274628,
+      "num": 352460,
+      "word": "才知道医学生不用学毕业论文",
+      "onboard_time": 1712847920,
+      "rank": 18,
+      "category": "教育"
+    },
+    {
       "raw_hot": 272655,
       "num": 210643,
       "word": "五六十万存款可以回小县城躺平吗",
@@ -1347,12 +1411,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 247934,
+      "num": 247934,
+      "word": "告诉辛家亮他爸出轨了",
+      "onboard_time": 1712845579,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 247627,
       "num": 247627,
       "word": "牛骏峰窝囊废赛道种子选手",
       "onboard_time": 1712802198,
       "rank": 38,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 246616,
+      "num": 246616,
+      "word": "大侦探就这样拍到一百季吧",
+      "onboard_time": 1712846720,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 246438,
@@ -1395,14 +1475,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 234863,
-      "num": 234863,
-      "word": "BLG对战TES",
-      "onboard_time": 1712829498,
-      "rank": 26,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 233079,
       "num": 233079,
       "word": "不上正经班却赚到更多钱的普通人",
@@ -1425,6 +1497,14 @@
       "onboard_time": 1712830699,
       "rank": 27,
       "category": "电影"
+    },
+    {
+      "raw_hot": 229897,
+      "num": 229897,
+      "word": "BLG挺进春决",
+      "onboard_time": 1712847800,
+      "rank": 34,
+      "category": "电竞"
     },
     {
       "raw_hot": 228358,
@@ -1499,6 +1579,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 216566,
+      "num": 216566,
+      "word": "香山偶遇刘亦菲",
+      "onboard_time": 1712847139,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 216408,
       "num": 216408,
       "word": "问界m9",
@@ -1555,12 +1643,28 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 208906,
+      "num": 208906,
+      "word": "Uzi谈RNG欠钱",
+      "onboard_time": 1712845761,
+      "rank": 35,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 206190,
       "num": 206190,
       "word": "为什么我不是广西人",
       "onboard_time": 1712811080,
       "rank": 31,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 204701,
+      "num": 204701,
+      "word": "邓超叫孙俪亲",
+      "onboard_time": 1712848340,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 204402,
@@ -1771,14 +1875,6 @@
       "category": "健康医疗,科学科普"
     },
     {
-      "raw_hot": 184615,
-      "num": 169366,
-      "word": "告诉辛家亮他爸出轨了",
-      "onboard_time": 1712845579,
-      "rank": 32,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 184316,
       "num": 184316,
       "word": "花王宣布召回部分眼影产品",
@@ -1881,6 +1977,14 @@
       "onboard_time": 1712827938,
       "rank": 38,
       "category": "教育"
+    },
+    {
+      "raw_hot": 175259,
+      "num": 175259,
+      "word": "雷军说余承东调侃小米手机支架没事",
+      "onboard_time": 1712846358,
+      "rank": 40,
+      "category": "数码,互联网"
     },
     {
       "raw_hot": 174709,
@@ -2011,6 +2115,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 166171,
+      "num": 252475,
+      "word": "巴黎奥运铁人三项或因塞纳河太脏改为两项",
+      "onboard_time": 1712846239,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 165351,
       "num": 165351,
       "word": "星穹铁道砂金 星旅一瞬",
@@ -2091,6 +2203,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 160050,
+      "num": 160050,
+      "word": "邓科回应配享太庙",
+      "onboard_time": 1712846659,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 159184,
       "num": 159184,
       "word": "狗阵 彭于晏",
@@ -2136,6 +2256,14 @@
       "word": "RNG早已没钱",
       "onboard_time": 1712809280,
       "rank": 43,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 157164,
+      "num": 157164,
+      "word": "Bin哥厉害",
+      "onboard_time": 1712848638,
+      "rank": 46,
       "category": "电竞"
     },
     {
@@ -2227,12 +2355,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 151358,
-      "num": 151358,
-      "word": "Uzi谈RNG欠钱",
-      "onboard_time": 1712845761,
-      "rank": 35,
-      "category": "电竞"
+      "raw_hot": 150785,
+      "num": 150785,
+      "word": "女子在老公帮助下减重60斤恢复自信",
+      "onboard_time": 1712845280,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 149280,
@@ -2297,14 +2425,6 @@
       "onboard_time": 1712818878,
       "rank": 43,
       "category": "社会正能量"
-    },
-    {
-      "raw_hot": 145010,
-      "num": 145010,
-      "word": "为什么英国人下雨很少打伞",
-      "onboard_time": 1712845999,
-      "rank": 42,
-      "category": "情感"
     },
     {
       "raw_hot": 144468,
@@ -2969,14 +3089,6 @@
       "onboard_time": 1712820798,
       "rank": 49,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 92672,
-      "num": 147483,
-      "word": "女子在老公帮助下减重60斤恢复自信",
-      "onboard_time": 1712845280,
-      "rank": 39,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 90755,

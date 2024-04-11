@@ -1,6 +1,6 @@
 {
   "startTime": 1711902044401,
-  "endTime": 1712846036047,
+  "endTime": 1712848710801,
   "band_list": [
     {
       "raw_hot": 16874674,
@@ -697,6 +697,14 @@
       "onboard_time": 1712216898,
       "rank": 11,
       "category": "社会新闻,社会议题"
+    },
+    {
+      "raw_hot": 1685902,
+      "num": 1685902,
+      "word": "cp粉悬着的心终于死了",
+      "onboard_time": 1712844618,
+      "rank": 30,
+      "category": "剧集"
     },
     {
       "raw_hot": 1684894,
@@ -3891,6 +3899,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 766760,
+      "num": 766760,
+      "word": "与凤行低了",
+      "onboard_time": 1712847499,
+      "rank": 4,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 766451,
       "num": 766451,
       "word": "成龙发文庆祝70岁生日",
@@ -5011,6 +5027,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 659811,
+      "num": 659811,
+      "word": "为什么英国人下雨很少打伞",
+      "onboard_time": 1712845999,
+      "rank": 42,
+      "category": "情感"
+    },
+    {
       "raw_hot": 659312,
       "num": 659312,
       "word": "马英九率台湾青年公祭轩辕黄帝",
@@ -5275,6 +5299,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 637124,
+      "num": 397766,
+      "word": "林更新称呼赵丽颖赵老师",
+      "onboard_time": 1712848219,
+      "rank": 10,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 637024,
       "num": 637024,
       "word": "向太陈岚称向佐曾遭遇校园霸凌",
@@ -5505,14 +5537,6 @@
       "onboard_time": 1712023878,
       "rank": 18,
       "category": "美食"
-    },
-    {
-      "raw_hot": 616100,
-      "num": 579670,
-      "word": "cp粉悬着的心终于死了",
-      "onboard_time": 1712844618,
-      "rank": 30,
-      "category": "剧集"
     },
     {
       "raw_hot": 616091,
@@ -6697,6 +6721,14 @@
       "onboard_time": 1712310798,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 536274,
+      "num": 460346,
+      "word": "梁朝伟不做演员了可以做医生",
+      "onboard_time": 1712844260,
+      "rank": 22,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 536088,
@@ -8153,14 +8185,6 @@
       "onboard_time": 1712657061,
       "rank": 17,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 460346,
-      "num": 460346,
-      "word": "梁朝伟不做演员了可以做医生",
-      "onboard_time": 1712844260,
-      "rank": 22,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 459923,
@@ -10363,6 +10387,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 369518,
+      "num": 369518,
+      "word": "TES被偷家",
+      "onboard_time": 1712848519,
+      "rank": 14,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 369450,
       "num": 369450,
       "word": "魏大勋衣服充气",
@@ -10803,6 +10835,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 353185,
+      "num": 353185,
+      "word": "以为猫咪生病了原来是猫盆漏电了",
+      "onboard_time": 1712847139,
+      "rank": 17,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 352778,
       "num": 352778,
       "word": "种地吧新闻联播",
@@ -11024,6 +11064,14 @@
       "word": "JDG战胜WBG",
       "onboard_time": 1712323520,
       "rank": 17,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 345732,
+      "num": 345732,
+      "word": "BLG对战TES",
+      "onboard_time": 1712829498,
+      "rank": 26,
       "category": "电竞"
     },
     {
@@ -11265,6 +11313,14 @@
       "onboard_time": 1712493137,
       "rank": 15,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 336806,
+      "num": 336806,
+      "word": "BLG晋级2024MSI",
+      "onboard_time": 1712847499,
+      "rank": 24,
+      "category": "电竞"
     },
     {
       "raw_hot": 336642,
@@ -13627,6 +13683,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 274628,
+      "num": 352460,
+      "word": "才知道医学生不用学毕业论文",
+      "onboard_time": 1712847920,
+      "rank": 18,
+      "category": "教育"
+    },
+    {
       "raw_hot": 274518,
       "num": 320415,
       "word": "压力太大胃会告诉你",
@@ -15011,6 +15075,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 247934,
+      "num": 247934,
+      "word": "告诉辛家亮他爸出轨了",
+      "onboard_time": 1712845579,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 247879,
       "num": 247879,
       "word": "花间令女二悲惨的一生",
@@ -15057,6 +15129,14 @@
       "onboard_time": 1712499681,
       "rank": 30,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 246616,
+      "num": 246616,
+      "word": "大侦探就这样拍到一百季吧",
+      "onboard_time": 1712846720,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 246497,
@@ -15819,14 +15899,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 234863,
-      "num": 234863,
-      "word": "BLG对战TES",
-      "onboard_time": 1712829498,
-      "rank": 26,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 234837,
       "num": 234837,
       "word": "体制内入职早年龄却比我小的同事",
@@ -16105,6 +16177,14 @@
       "onboard_time": 1712740818,
       "rank": 34,
       "category": "美食"
+    },
+    {
+      "raw_hot": 229897,
+      "num": 229897,
+      "word": "BLG挺进春决",
+      "onboard_time": 1712847800,
+      "rank": 34,
+      "category": "电竞"
     },
     {
       "raw_hot": 229792,
@@ -17123,6 +17203,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 216566,
+      "num": 216566,
+      "word": "香山偶遇刘亦菲",
+      "onboard_time": 1712847139,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 216408,
       "num": 216408,
       "word": "问界m9",
@@ -17763,6 +17851,14 @@
       "category": "作品衍生,艺人"
     },
     {
+      "raw_hot": 208906,
+      "num": 208906,
+      "word": "Uzi谈RNG欠钱",
+      "onboard_time": 1712845761,
+      "rank": 35,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 208847,
       "num": 208847,
       "word": "cpsp",
@@ -18249,6 +18345,14 @@
       "onboard_time": 1712304198,
       "rank": 26,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 204701,
+      "num": 204701,
+      "word": "邓超叫孙俪亲",
+      "onboard_time": 1712848340,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 204637,
@@ -21003,14 +21107,6 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 184615,
-      "num": 169366,
-      "word": "告诉辛家亮他爸出轨了",
-      "onboard_time": 1712845579,
-      "rank": 32,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 184491,
       "num": 184491,
       "word": "努比亚发布会",
@@ -22003,6 +22099,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 175259,
+      "num": 175259,
+      "word": "雷军说余承东调侃小米手机支架没事",
+      "onboard_time": 1712846358,
+      "rank": 40,
+      "category": "数码,互联网"
+    },
+    {
       "raw_hot": 175226,
       "num": 175226,
       "word": "猫咪彻夜未归居然跑了7公里",
@@ -22931,6 +23035,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 166171,
+      "num": 252475,
+      "word": "巴黎奥运铁人三项或因塞纳河太脏改为两项",
+      "onboard_time": 1712846239,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 166090,
       "num": 159462,
       "word": "看脸就知道你心脏好不好",
@@ -23611,6 +23723,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 160050,
+      "num": 160050,
+      "word": "邓科回应配享太庙",
+      "onboard_time": 1712846659,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 159924,
       "num": 159924,
       "word": "重庆妹子身材好因为上班都靠跑",
@@ -24009,6 +24129,14 @@
       "onboard_time": 1712578697,
       "rank": 42,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 157164,
+      "num": 157164,
+      "word": "Bin哥厉害",
+      "onboard_time": 1712848638,
+      "rank": 46,
+      "category": "电竞"
     },
     {
       "raw_hot": 157090,
@@ -24731,14 +24859,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 151358,
-      "num": 151358,
-      "word": "Uzi谈RNG欠钱",
-      "onboard_time": 1712845761,
-      "rank": 35,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 151243,
       "num": 151243,
       "word": "雀魂联动蔚蓝档案",
@@ -24785,6 +24905,14 @@
       "onboard_time": 1712407337,
       "rank": 48,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 150785,
+      "num": 150785,
+      "word": "女子在老公帮助下减重60斤恢复自信",
+      "onboard_time": 1712845280,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 150691,
@@ -25521,14 +25649,6 @@
       "onboard_time": 1711958001,
       "rank": 42,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 145010,
-      "num": 145010,
-      "word": "为什么英国人下雨很少打伞",
-      "onboard_time": 1712845999,
-      "rank": 42,
-      "category": "情感"
     },
     {
       "raw_hot": 144803,
@@ -29505,14 +29625,6 @@
       "onboard_time": 1712820798,
       "rank": 49,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 92672,
-      "num": 147483,
-      "word": "女子在老公帮助下减重60斤恢复自信",
-      "onboard_time": 1712845280,
-      "rank": 39,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 92255,
