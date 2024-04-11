@@ -1,6 +1,6 @@
 {
   "startTime": 1712420539476,
-  "endTime": 1712820919732,
+  "endTime": 1712823842858,
   "band_list": [
     {
       "raw_hot": 9583581,
@@ -107,7 +107,7 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 2234926,
+      "raw_hot": 2243412,
       "num": 2234926,
       "word": "调休快把四月调成单休了",
       "onboard_time": 1712817918,
@@ -1596,7 +1596,7 @@
     },
     {
       "raw_hot": 778307,
-      "num": 322670,
+      "num": 351851,
       "word": "多动症男孩欺负同学46名家长请愿其转学",
       "onboard_time": 1712815278,
       "rank": 11,
@@ -2089,6 +2089,14 @@
       "onboard_time": 1712452638,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 674513,
+      "num": 674513,
+      "word": "官方称华晨宇烟台演唱会未违规用地",
+      "onboard_time": 1712821518,
+      "rank": 3,
+      "category": "演出"
     },
     {
       "raw_hot": 674067,
@@ -2585,6 +2593,14 @@
       "onboard_time": 1712765478,
       "rank": 25,
       "category": "剧集,社会新闻"
+    },
+    {
+      "raw_hot": 583264,
+      "num": 352285,
+      "word": "余承东称华为智驾是现货不是期货",
+      "onboard_time": 1712822058,
+      "rank": 10,
+      "category": "汽车"
     },
     {
       "raw_hot": 582638,
@@ -3099,6 +3115,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 494706,
+      "num": 494706,
+      "word": "去世的妻生病的娃破碎的他",
+      "onboard_time": 1712818939,
+      "rank": 13,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 494139,
       "num": 494139,
       "word": "张予曦超短裙",
@@ -3217,6 +3241,14 @@
       "onboard_time": 1712491219,
       "rank": 11,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 483751,
+      "num": 483751,
+      "word": "有人专门投资让未成年人偷手机",
+      "onboard_time": 1712820498,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 482733,
@@ -3739,14 +3771,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 437467,
-      "num": 437467,
-      "word": "去世的妻生病的娃破碎的他",
-      "onboard_time": 1712818939,
-      "rank": 13,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 436299,
       "num": 436299,
       "word": "网友偶遇权志龙",
@@ -4019,6 +4043,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 403501,
+      "num": 403501,
+      "word": "五一调休",
+      "onboard_time": 1712823199,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 403485,
       "num": 368591,
       "word": "男子报警称自己被绑架将被活埋",
@@ -4275,6 +4307,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 377471,
+      "num": 215998,
+      "word": "为什么年轻人越来越讨厌上班",
+      "onboard_time": 1712820438,
+      "rank": 25,
+      "category": "情感"
+    },
+    {
       "raw_hot": 377416,
       "num": 377416,
       "word": "孙颖莎世排第一7800分",
@@ -4289,6 +4329,14 @@
       "onboard_time": 1712549540,
       "rank": 32,
       "category": "情感"
+    },
+    {
+      "raw_hot": 376481,
+      "num": 215791,
+      "word": "性早熟的5个真相",
+      "onboard_time": 1712819478,
+      "rank": 34,
+      "category": "科学科普"
     },
     {
       "raw_hot": 374631,
@@ -4515,6 +4563,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 355178,
+      "num": 355178,
+      "word": "赵丽颖林更新再拍部剧吧",
+      "onboard_time": 1712821578,
+      "rank": 8,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 354933,
       "num": 354933,
       "word": "创造营",
@@ -4625,6 +4681,14 @@
       "onboard_time": 1712715499,
       "rank": 45,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 350805,
+      "num": 350805,
+      "word": "华为MateBook",
+      "onboard_time": 1712823498,
+      "rank": 12,
+      "category": "数码"
     },
     {
       "raw_hot": 350227,
@@ -5067,6 +5131,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 314670,
+      "num": 314670,
+      "word": "仝卓工作室称将起诉王凯",
+      "onboard_time": 1712823079,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 314433,
       "num": 314433,
       "word": "吴卓羲也找不到徐子珊",
@@ -5411,14 +5483,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 297734,
-      "num": 196924,
-      "word": "性早熟的5个真相",
-      "onboard_time": 1712819478,
-      "rank": 34,
-      "category": "科学科普"
-    },
-    {
       "raw_hot": 297691,
       "num": 297691,
       "word": "王晰为声入人心发声",
@@ -5635,6 +5699,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 284883,
+      "num": 284883,
+      "word": "金星秀国际版要来了",
+      "onboard_time": 1712821157,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 284397,
       "num": 301744,
       "word": "甘肃张掖市4.3级地震",
@@ -5793,6 +5865,14 @@
       "onboard_time": 1712494760,
       "rank": 31,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 277746,
+      "num": 215371,
+      "word": "杭州一公司50万年薪招聘代嫁师",
+      "onboard_time": 1712822838,
+      "rank": 23,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 276875,
@@ -7363,6 +7443,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 216408,
+      "num": 216408,
+      "word": "问界m9",
+      "onboard_time": 1712819838,
+      "rank": 17,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 216244,
       "num": 216244,
       "word": "爱奇艺4月片单",
@@ -7953,14 +8041,6 @@
       "onboard_time": 1712546239,
       "rank": 37,
       "category": "电影"
-    },
-    {
-      "raw_hot": 204850,
-      "num": 204850,
-      "word": "问界m9",
-      "onboard_time": 1712819838,
-      "rank": 17,
-      "category": "汽车"
     },
     {
       "raw_hot": 204754,
@@ -8939,14 +9019,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 189770,
-      "num": 189770,
-      "word": "为什么年轻人越来越讨厌上班",
-      "onboard_time": 1712820438,
-      "rank": 25,
-      "category": "情感"
-    },
-    {
       "raw_hot": 189684,
       "num": 189684,
       "word": "阿森纳2比2拜仁",
@@ -9547,6 +9619,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 178238,
+      "num": 1174721,
+      "word": "三月三是什么节",
+      "onboard_time": 1712822058,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 178229,
       "num": 178229,
       "word": "向佐唯有duke把黄龄气死了",
@@ -9905,6 +9985,14 @@
       "onboard_time": 1712624178,
       "rank": 39,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 171546,
+      "num": 171546,
+      "word": "为什么坐公交都喜欢往后面跑",
+      "onboard_time": 1712822357,
+      "rank": 29,
+      "category": "情感"
     },
     {
       "raw_hot": 171545,
@@ -10923,6 +11011,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 148670,
+      "num": 148670,
+      "word": "智界S7",
+      "onboard_time": 1712821157,
+      "rank": 32,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 148194,
       "num": 148194,
       "word": "惠英红大片 游园入梦",
@@ -10977,6 +11073,14 @@
       "onboard_time": 1712481019,
       "rank": 41,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 147241,
+      "num": 147241,
+      "word": "小金毛一怒之下怒了一下",
+      "onboard_time": 1712822898,
+      "rank": 33,
+      "category": "幽默"
     },
     {
       "raw_hot": 147139,
@@ -11155,14 +11259,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 143725,
-      "num": 143725,
-      "word": "有人专门投资让未成年人偷手机",
-      "onboard_time": 1712820498,
-      "rank": 35,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 143352,
       "num": 143352,
       "word": "看上去心情好的人",
@@ -11201,6 +11297,14 @@
       "onboard_time": 1712736319,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 142397,
+      "num": 142397,
+      "word": "老师说他只是吃到了时代的红利",
+      "onboard_time": 1712821039,
+      "rank": 34,
+      "category": "情感"
     },
     {
       "raw_hot": 142208,
@@ -11755,6 +11859,22 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 133230,
+      "num": 133230,
+      "word": "猫咪总能找到适合尺寸的猫窝",
+      "onboard_time": 1712822058,
+      "rank": 38,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 133216,
+      "num": 133216,
+      "word": "于正再怼曾舜晞粉丝",
+      "onboard_time": 1712823679,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 133096,
       "num": 133096,
       "word": "元梦之星 蛋仔派对",
@@ -11817,6 +11937,14 @@
       "onboard_time": 1712571978,
       "rank": 49,
       "category": "国内时政,军事"
+    },
+    {
+      "raw_hot": 131550,
+      "num": 131550,
+      "word": "纪凌尘松懈感",
+      "onboard_time": 1712821939,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 131442,
@@ -12017,6 +12145,14 @@
       "onboard_time": 1712477720,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 127103,
+      "num": 127103,
+      "word": "当毕业答辩遇到神仙导师",
+      "onboard_time": 1712822597,
+      "rank": 41,
+      "category": "幽默"
     },
     {
       "raw_hot": 126988,
@@ -12251,6 +12387,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 122906,
+      "num": 122906,
+      "word": "夏以昼 好久不见妹妹",
+      "onboard_time": 1712822898,
+      "rank": 44,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 122852,
       "num": 122852,
       "word": "江疏影出发录制花少",
@@ -12419,6 +12563,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 118904,
+      "num": 118904,
+      "word": "任嘉伦好薄一片",
+      "onboard_time": 1712823741,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 118818,
       "num": 118818,
       "word": "可以打开的迷你手工小雨伞",
@@ -12531,6 +12683,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 113171,
+      "num": 113171,
+      "word": "玲娜贝儿 看上去是要去干架的",
+      "onboard_time": 1712811679,
+      "rank": 47,
+      "category": "动漫,作品衍生"
+    },
+    {
       "raw_hot": 112757,
       "num": 112757,
       "word": "承欢记吻戏",
@@ -12593,6 +12753,14 @@
       "onboard_time": 1712744238,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 110201,
+      "num": 110201,
+      "word": "华为发布会没提P70",
+      "onboard_time": 1712823797,
+      "rank": 48,
+      "category": "数码"
     },
     {
       "raw_hot": 109972,
@@ -13025,6 +13193,14 @@
       "onboard_time": 1712563218,
       "rank": 14,
       "category": "数码"
+    },
+    {
+      "raw_hot": 80653,
+      "num": 279970,
+      "word": "智界S7一分钟下线一台车",
+      "onboard_time": 1712821039,
+      "rank": 17,
+      "category": "汽车"
     },
     {
       "raw_hot": 80187,
@@ -13681,6 +13857,14 @@
       "onboard_time": 1712514911,
       "rank": 36,
       "category": "情感"
+    },
+    {
+      "raw_hot": 21877,
+      "num": 291119,
+      "word": "钟表与奇迹制表工艺",
+      "onboard_time": 1712822418,
+      "rank": 14,
+      "category": "时尚"
     },
     {
       "raw_hot": 21862,
