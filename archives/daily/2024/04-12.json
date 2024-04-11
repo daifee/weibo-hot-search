@@ -1,6 +1,6 @@
 {
   "startTime": 1712852435435,
-  "endTime": 1712877549936,
+  "endTime": 1712878538428,
   "band_list": [
     {
       "raw_hot": 2145005,
@@ -43,6 +43,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 533764,
+      "num": 533764,
+      "word": "为什么英国人下雨很少打伞",
+      "onboard_time": 1712845999,
+      "rank": 6,
+      "category": "情感"
+    },
+    {
       "raw_hot": 507955,
       "num": 202794,
       "word": "朴彩英双眼皮",
@@ -51,19 +59,19 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 503086,
-      "num": 503086,
-      "word": "为什么英国人下雨很少打伞",
-      "onboard_time": 1712845999,
-      "rank": 6,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 442448,
-      "num": 442448,
+      "raw_hot": 492887,
+      "num": 492887,
       "word": "卖房让娃退学环游世界的家庭怎么样了",
       "onboard_time": 1712832977,
       "rank": 39,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 430391,
+      "num": 279379,
+      "word": "官方回应甘肃一男教师侵犯初三男生",
+      "onboard_time": 1712873112,
+      "rank": 32,
       "category": "社会新闻"
     },
     {
@@ -73,6 +81,14 @@
       "onboard_time": 1712841498,
       "rank": 10,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 397296,
+      "num": 199414,
+      "word": "换儿子血的亿万富翁展示3年抗衰成果",
+      "onboard_time": 1712835377,
+      "rank": 22,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 375614,
@@ -91,20 +107,20 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 355496,
-      "num": 224764,
-      "word": "官方回应甘肃一男教师侵犯初三男生",
-      "onboard_time": 1712873112,
-      "rank": 32,
-      "category": "社会新闻"
+      "raw_hot": 368024,
+      "num": 368024,
+      "word": "与凤行是宣璐和徐海乔第3次合作",
+      "onboard_time": 1712865069,
+      "rank": 30,
+      "category": "剧集"
     },
     {
-      "raw_hot": 352063,
-      "num": 199414,
-      "word": "换儿子血的亿万富翁展示3年抗衰成果",
-      "onboard_time": 1712835377,
-      "rank": 22,
-      "category": "社会新闻"
+      "raw_hot": 356646,
+      "num": 278627,
+      "word": "淄博烧烤赵大爷被叫去开会了",
+      "onboard_time": 1712871850,
+      "rank": 19,
+      "category": "旅游"
     },
     {
       "raw_hot": 347740,
@@ -139,11 +155,11 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 286771,
-      "num": 286771,
-      "word": "与凤行是宣璐和徐海乔第3次合作",
-      "onboard_time": 1712865069,
-      "rank": 30,
+      "raw_hot": 280905,
+      "num": 280905,
+      "word": "士兵突击老班长在淄博被疯狂投喂",
+      "onboard_time": 1712876536,
+      "rank": 18,
       "category": "剧集"
     },
     {
@@ -155,6 +171,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 277361,
+      "num": 277361,
+      "word": "甘肃一男教师被指侵犯初三男生",
+      "onboard_time": 1712873892,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 260105,
       "num": 260105,
       "word": "TES被偷家",
@@ -163,12 +187,12 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 256313,
-      "num": 224748,
-      "word": "淄博烧烤赵大爷被叫去开会了",
-      "onboard_time": 1712871850,
-      "rank": 19,
-      "category": "旅游"
+      "raw_hot": 257357,
+      "num": 257357,
+      "word": "赵露思在阿那亚",
+      "onboard_time": 1712868310,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 254288,
@@ -177,14 +201,6 @@
       "onboard_time": 1712839878,
       "rank": 16,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 224594,
-      "num": 224594,
-      "word": "甘肃一男教师被指侵犯初三男生",
-      "onboard_time": 1712873892,
-      "rank": 27,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 222507,
@@ -219,20 +235,36 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 212249,
-      "num": 212249,
-      "word": "赵露思在阿那亚",
-      "onboard_time": 1712868310,
-      "rank": 11,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 201995,
-      "num": 201995,
+      "raw_hot": 214860,
+      "num": 214860,
       "word": "赵丽颖2020年就确认出演与凤行了",
       "onboard_time": 1712861351,
       "rank": 16,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 202382,
+      "num": 224811,
+      "word": "男生逆袭考研上岸还减肥100斤",
+      "onboard_time": 1712865370,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 190523,
+      "num": 190523,
+      "word": "仝卓工作室说很多艺人不敬业",
+      "onboard_time": 1712860450,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 188031,
+      "num": 156922,
+      "word": "少吃和运动哪个更容易瘦",
+      "onboard_time": 1712876536,
+      "rank": 25,
+      "category": "运动健身"
     },
     {
       "raw_hot": 187536,
@@ -267,14 +299,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 169629,
-      "num": 224811,
-      "word": "男生逆袭考研上岸还减肥100斤",
-      "onboard_time": 1712865370,
-      "rank": 37,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 165855,
       "num": 180767,
       "word": "调休快把四月调成单休了",
@@ -299,12 +323,28 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 151117,
-      "num": 151117,
-      "word": "仝卓工作室说很多艺人不敬业",
-      "onboard_time": 1712860450,
-      "rank": 10,
-      "category": "艺人"
+      "raw_hot": 155087,
+      "num": 155087,
+      "word": "小米SU7断电后冰箱最长工作24小时",
+      "onboard_time": 1712876594,
+      "rank": 30,
+      "category": "汽车"
+    },
+    {
+      "raw_hot": 152581,
+      "num": 152581,
+      "word": "纪凌尘嗦冰棍",
+      "onboard_time": 1712865851,
+      "rank": 33,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 151542,
+      "num": 151542,
+      "word": "利物浦0比3亚特兰大",
+      "onboard_time": 1712877676,
+      "rank": 26,
+      "category": "体育"
     },
     {
       "raw_hot": 148724,
@@ -315,20 +355,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 144667,
-      "num": 144667,
-      "word": "士兵突击老班长在淄博被疯狂投喂",
-      "onboard_time": 1712876536,
-      "rank": 18,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 126703,
-      "num": 126703,
-      "word": "纪凌尘嗦冰棍",
-      "onboard_time": 1712865851,
-      "rank": 33,
-      "category": "作品衍生"
+      "raw_hot": 143874,
+      "num": 143874,
+      "word": "工藤新一和怪盗基德是堂兄弟",
+      "onboard_time": 1712878396,
+      "rank": 28,
+      "category": "电影,动漫"
     },
     {
       "raw_hot": 126358,
@@ -379,12 +411,12 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 115639,
-      "num": 115639,
-      "word": "少吃和运动哪个更容易瘦",
-      "onboard_time": 1712876536,
-      "rank": 25,
-      "category": "运动健身"
+      "raw_hot": 115733,
+      "num": 115733,
+      "word": "大学生日薪三百做兼职竟成洗钱工具人",
+      "onboard_time": 1712867651,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 115462,
@@ -435,14 +467,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 100967,
-      "num": 87558,
-      "word": "小米SU7断电后冰箱最长工作24小时",
-      "onboard_time": 1712876594,
-      "rank": 30,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 97752,
       "num": 97752,
       "word": "熊祁 恋与深空",
@@ -483,20 +507,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 91129,
+      "num": 91129,
+      "word": "张颂文第一反应竟是上手",
+      "onboard_time": 1712858172,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 89397,
       "num": 89397,
       "word": "易烊千玺被夸害羞了",
       "onboard_time": 1712842998,
       "rank": 44,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 87610,
-      "num": 87610,
-      "word": "大学生日薪三百做兼职竟成洗钱工具人",
-      "onboard_time": 1712867651,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 85641,
@@ -515,6 +539,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 82330,
+      "num": 82330,
+      "word": "朱一龙的生日蛋糕是朱1龙",
+      "onboard_time": 1712854334,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 78694,
       "num": 78694,
       "word": "沈腾王鹤棣乱入十个勤天团建",
@@ -531,14 +563,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 77993,
-      "num": 77993,
-      "word": "张颂文第一反应竟是上手",
-      "onboard_time": 1712858172,
-      "rank": 31,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 72953,
       "num": 73921,
       "word": "女子在老公帮助下减重60斤恢复自信",
@@ -547,12 +571,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 70540,
-      "num": 70540,
-      "word": "朱一龙的生日蛋糕是朱1龙",
-      "onboard_time": 1712854334,
-      "rank": 34,
-      "category": "艺人"
+      "raw_hot": 71117,
+      "num": 71117,
+      "word": "苹果M4芯片有望年底推出",
+      "onboard_time": 1712878155,
+      "rank": 44,
+      "category": "数码"
     },
     {
       "raw_hot": 69103,
@@ -563,20 +587,20 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 66357,
+      "num": 405735,
+      "word": "广西三月三到底有多好玩",
+      "onboard_time": 1712838378,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 52211,
       "num": 52211,
       "word": "蓝盈莹也做了甘露寺美甲",
       "onboard_time": 1712827397,
       "rank": 33,
       "category": "作品衍生,美妆"
-    },
-    {
-      "raw_hot": 49895,
-      "num": 405735,
-      "word": "广西三月三到底有多好玩",
-      "onboard_time": 1712838378,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 49327,
