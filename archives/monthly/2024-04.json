@@ -1,6 +1,6 @@
 {
   "startTime": 1711902044401,
-  "endTime": 1712845029731,
+  "endTime": 1712846036047,
   "band_list": [
     {
       "raw_hot": 16874674,
@@ -1899,6 +1899,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1150676,
+      "num": 1150676,
+      "word": "偏偏你最争气",
+      "onboard_time": 1712841679,
+      "rank": 16,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 1150611,
       "num": 1150611,
       "word": "福建立法规定妻子可查询配偶财产",
@@ -2459,6 +2467,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1015873,
+      "num": 830983,
+      "word": "孙俪想知道邓超在证明啥",
+      "onboard_time": 1712842038,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1015475,
       "num": 1015475,
       "word": "本想免费试用结果被扣一年会员费",
@@ -2553,6 +2569,14 @@
       "onboard_time": 1712044279,
       "rank": 4,
       "category": "教育"
+    },
+    {
+      "raw_hot": 990757,
+      "num": 990757,
+      "word": "刘亦菲减肥法",
+      "onboard_time": 1712843660,
+      "rank": 5,
+      "category": "运动健身,作品衍生"
     },
     {
       "raw_hot": 989160,
@@ -2761,14 +2785,6 @@
       "onboard_time": 1712650459,
       "rank": 19,
       "category": "财经"
-    },
-    {
-      "raw_hot": 927486,
-      "num": 927486,
-      "word": "偏偏你最争气",
-      "onboard_time": 1712841679,
-      "rank": 16,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 927333,
@@ -3337,14 +3353,6 @@
       "onboard_time": 1712392818,
       "rank": 3,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 830983,
-      "num": 830983,
-      "word": "孙俪想知道邓超在证明啥",
-      "onboard_time": 1712842038,
-      "rank": 27,
-      "category": "艺人"
     },
     {
       "raw_hot": 829840,
@@ -4427,14 +4435,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 705567,
-      "num": 705567,
-      "word": "刘亦菲减肥法",
-      "onboard_time": 1712843660,
-      "rank": 5,
-      "category": "运动健身,作品衍生"
-    },
-    {
       "raw_hot": 704772,
       "num": 704772,
       "word": "李白没骗人",
@@ -5505,6 +5505,14 @@
       "onboard_time": 1712023878,
       "rank": 18,
       "category": "美食"
+    },
+    {
+      "raw_hot": 616100,
+      "num": 579670,
+      "word": "cp粉悬着的心终于死了",
+      "onboard_time": 1712844618,
+      "rank": 30,
+      "category": "剧集"
     },
     {
       "raw_hot": 616091,
@@ -8145,6 +8153,14 @@
       "onboard_time": 1712657061,
       "rank": 17,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 460346,
+      "num": 460346,
+      "word": "梁朝伟不做演员了可以做医生",
+      "onboard_time": 1712844260,
+      "rank": 22,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 459923,
@@ -12699,6 +12715,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 296186,
+      "num": 276251,
+      "word": "招商银行停发三年期五年期大额存单",
+      "onboard_time": 1712842578,
+      "rank": 24,
+      "category": "财经"
+    },
+    {
       "raw_hot": 295651,
       "num": 295651,
       "word": "导演你们拍这段真的没笑场吗",
@@ -13171,14 +13195,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 284624,
-      "num": 264937,
-      "word": "梁朝伟不做演员了可以做医生",
-      "onboard_time": 1712844260,
-      "rank": 22,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 284591,
       "num": 284591,
       "word": "李昀锐站姐发了黄曦彦黄子琪",
@@ -13507,6 +13523,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 277340,
+      "num": 277340,
+      "word": "Tiffany活动",
+      "onboard_time": 1712841858,
+      "rank": 25,
+      "category": "时尚,作品衍生"
+    },
+    {
       "raw_hot": 276875,
       "num": 276875,
       "word": "主持人cue肖战居中梗",
@@ -13801,14 +13825,6 @@
       "onboard_time": 1712146280,
       "rank": 25,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 269531,
-      "num": 269531,
-      "word": "Tiffany活动",
-      "onboard_time": 1712841858,
-      "rank": 25,
-      "category": "时尚,作品衍生"
     },
     {
       "raw_hot": 269400,
@@ -14801,14 +14817,6 @@
       "onboard_time": 1711979722,
       "rank": 24,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 250418,
-      "num": 250418,
-      "word": "招商银行停发三年期五年期大额存单",
-      "onboard_time": 1712842578,
-      "rank": 24,
-      "category": "财经"
     },
     {
       "raw_hot": 250228,
@@ -16001,14 +16009,6 @@
       "onboard_time": 1712323280,
       "rank": 27,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 231618,
-      "num": 231618,
-      "word": "cp粉悬着的心终于死了",
-      "onboard_time": 1712844618,
-      "rank": 30,
-      "category": "剧集"
     },
     {
       "raw_hot": 231611,
@@ -21003,6 +21003,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 184615,
+      "num": 169366,
+      "word": "告诉辛家亮他爸出轨了",
+      "onboard_time": 1712845579,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 184491,
       "num": 184491,
       "word": "努比亚发布会",
@@ -24723,6 +24731,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 151358,
+      "num": 151358,
+      "word": "Uzi谈RNG欠钱",
+      "onboard_time": 1712845761,
+      "rank": 35,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 151243,
       "num": 151243,
       "word": "雀魂联动蔚蓝档案",
@@ -24912,6 +24928,14 @@
       "word": "这才是恋爱真正的感觉吧",
       "onboard_time": 1712311939,
       "rank": 40,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 149280,
+      "num": 149280,
+      "word": "各行各业女性向上走的意义",
+      "onboard_time": 1712844379,
+      "rank": 42,
       "category": "情感"
     },
     {
@@ -25435,14 +25459,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 145583,
-      "num": 145583,
-      "word": "各行各业女性向上走的意义",
-      "onboard_time": 1712844379,
-      "rank": 42,
-      "category": "情感"
-    },
-    {
       "raw_hot": 145547,
       "num": 145547,
       "word": "新仙剑",
@@ -25505,6 +25521,14 @@
       "onboard_time": 1711958001,
       "rank": 42,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 145010,
+      "num": 145010,
+      "word": "为什么英国人下雨很少打伞",
+      "onboard_time": 1712845999,
+      "rank": 42,
+      "category": "情感"
     },
     {
       "raw_hot": 144803,
@@ -25577,6 +25601,14 @@
       "onboard_time": 1712657359,
       "rank": 40,
       "category": "教育"
+    },
+    {
+      "raw_hot": 143925,
+      "num": 143925,
+      "word": "侯雯元说宋亚轩刘耀文自封熊大熊二",
+      "onboard_time": 1712845879,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 143915,
@@ -26115,6 +26147,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 139023,
+      "num": 139023,
+      "word": "王俊凯野孩子亮相推介会",
+      "onboard_time": 1712845820,
+      "rank": 44,
+      "category": "电影"
+    },
+    {
       "raw_hot": 139009,
       "num": 139009,
       "word": "官方回应男子淘宝买到假茅台",
@@ -26151,6 +26191,14 @@
       "num": 138851,
       "word": "城中之城",
       "onboard_time": 1712812458,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 138807,
+      "num": 138807,
+      "word": "承欢记人未出场cp搅黄",
+      "onboard_time": 1712844919,
       "rank": 47,
       "category": "剧集"
     },
@@ -27803,14 +27851,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 123907,
-      "num": 123907,
-      "word": "承欢记人未出场cp搅黄",
-      "onboard_time": 1712844919,
-      "rank": 47,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 123888,
       "num": 123888,
       "word": "蒲熠星新歌 摩斯密码",
@@ -29356,7 +29396,7 @@
     },
     {
       "raw_hot": 96755,
-      "num": 121920,
+      "num": 127235,
       "word": "青岛男篮vs广州男篮",
       "onboard_time": 1712843719,
       "rank": 49,
@@ -29465,6 +29505,14 @@
       "onboard_time": 1712820798,
       "rank": 49,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 92672,
+      "num": 147483,
+      "word": "女子在老公帮助下减重60斤恢复自信",
+      "onboard_time": 1712845280,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 92255,
