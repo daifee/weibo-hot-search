@@ -1,6 +1,6 @@
 {
   "startTime": 1712766262556,
-  "endTime": 1712812652328,
+  "endTime": 1712813636743,
   "band_list": [
     {
       "raw_hot": 2260302,
@@ -65,6 +65,14 @@
       "onboard_time": 1712805918,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1106494,
+      "num": 1106494,
+      "word": "赵丽颖林更新摸头抱",
+      "onboard_time": 1712813239,
+      "rank": 0,
+      "category": "综艺"
     },
     {
       "raw_hot": 961122,
@@ -195,6 +203,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 673248,
+      "num": 673248,
+      "word": "赵小棠和妈妈吵架 中式家庭现状",
+      "onboard_time": 1712811258,
+      "rank": 11,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 665980,
       "num": 665980,
       "word": "于正说赵丽颖白鹿都喜欢",
@@ -267,12 +283,20 @@
       "category": "游戏,网红"
     },
     {
-      "raw_hot": 527439,
-      "num": 527439,
+      "raw_hot": 531919,
+      "num": 531919,
       "word": "燕云十六声定档",
       "onboard_time": 1712809640,
       "rank": 22,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 527911,
+      "num": 527911,
+      "word": "重庆一高层居民楼突发火灾",
+      "onboard_time": 1712811499,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 509857,
@@ -299,20 +323,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 501010,
-      "num": 501010,
-      "word": "赵小棠和妈妈吵架 中式家庭现状",
-      "onboard_time": 1712811258,
-      "rank": 11,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 499924,
       "num": 511424,
       "word": "花花好想要一双大长腿",
       "onboard_time": 1712803098,
       "rank": 9,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 466592,
+      "num": 407470,
+      "word": "仝卓工作室称未开拍就为王凯团队花30万",
+      "onboard_time": 1712811920,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 464728,
@@ -371,20 +395,20 @@
       "category": "情感"
     },
     {
+      "raw_hot": 426633,
+      "num": 426633,
+      "word": "孙亚龙将进行血管扩张手术",
+      "onboard_time": 1712810599,
+      "rank": 15,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 415522,
       "num": 415522,
       "word": "今天起广西连休4天",
       "onboard_time": 1712793859,
       "rank": 17,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 398532,
-      "num": 398532,
-      "word": "孙亚龙将进行血管扩张手术",
-      "onboard_time": 1712810599,
-      "rank": 15,
-      "category": "电竞"
     },
     {
       "raw_hot": 384883,
@@ -459,14 +483,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 357786,
-      "num": 357786,
-      "word": "重庆一高层居民楼突发火灾",
-      "onboard_time": 1712811499,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 354933,
       "num": 354933,
       "word": "创造营",
@@ -497,14 +513,6 @@
       "onboard_time": 1712764277,
       "rank": 14,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 314959,
-      "num": 314959,
-      "word": "仝卓工作室称未开拍就为王凯团队花30万",
-      "onboard_time": 1712811920,
-      "rank": 21,
-      "category": "艺人"
     },
     {
       "raw_hot": 312692,
@@ -603,6 +611,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 276746,
+      "num": 276746,
+      "word": "玲娜贝尔 看上去是要去干架的",
+      "onboard_time": 1712811679,
+      "rank": 29,
+      "category": "动漫,作品衍生"
+    },
+    {
       "raw_hot": 272655,
       "num": 210643,
       "word": "五六十万存款可以回小县城躺平吗",
@@ -673,14 +689,6 @@
       "onboard_time": 1712804119,
       "rank": 29,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 238619,
-      "num": 238619,
-      "word": "玲娜贝尔 看上去是要去干架的",
-      "onboard_time": 1712811679,
-      "rank": 29,
-      "category": "动漫,作品衍生"
     },
     {
       "raw_hot": 237718,
@@ -787,6 +795,14 @@
       "category": "母婴育儿"
     },
     {
+      "raw_hot": 202323,
+      "num": 202323,
+      "word": "穿婚纱的杀人少女",
+      "onboard_time": 1712809100,
+      "rank": 49,
+      "category": "电影"
+    },
+    {
       "raw_hot": 202105,
       "num": 202105,
       "word": "王腾送出雷军奖励的小米SU7",
@@ -801,6 +817,14 @@
       "onboard_time": 1712761880,
       "rank": 21,
       "category": "情感"
+    },
+    {
+      "raw_hot": 199365,
+      "num": 199365,
+      "word": "一线城市老破小价格泡沫跌到5%",
+      "onboard_time": 1712812159,
+      "rank": 34,
+      "category": "财经"
     },
     {
       "raw_hot": 198676,
@@ -849,14 +873,6 @@
       "onboard_time": 1712790193,
       "rank": 23,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 191968,
-      "num": 191968,
-      "word": "一线城市老破小价格泡沫跌到5%",
-      "onboard_time": 1712812159,
-      "rank": 34,
-      "category": "财经"
     },
     {
       "raw_hot": 191189,
@@ -1011,6 +1027,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 166564,
+      "num": 166564,
+      "word": "花王宣布召回部分眼影产品",
+      "onboard_time": 1712813178,
+      "rank": 35,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 166231,
       "num": 166231,
       "word": "发布会PPT都要好好审核了",
@@ -1115,6 +1139,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 154968,
+      "num": 154968,
+      "word": "芽门永存",
+      "onboard_time": 1712811020,
+      "rank": 44,
+      "category": "美食"
+    },
+    {
       "raw_hot": 152915,
       "num": 152915,
       "word": "Flandre希望TES赢BLG",
@@ -1147,22 +1179,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 149852,
-      "num": 148214,
-      "word": "穿婚纱的杀人少女",
-      "onboard_time": 1712809100,
-      "rank": 49,
-      "category": "电影"
-    },
-    {
-      "raw_hot": 147838,
-      "num": 147838,
-      "word": "芽门永存",
-      "onboard_time": 1712811020,
-      "rank": 44,
-      "category": "美食"
-    },
-    {
       "raw_hot": 144178,
       "num": 144178,
       "word": "ALin 有一种悲伤",
@@ -1187,8 +1203,8 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 138141,
-      "num": 138141,
+      "raw_hot": 138851,
+      "num": 138851,
       "word": "城中之城",
       "onboard_time": 1712812458,
       "rank": 47,
@@ -1321,6 +1337,14 @@
       "onboard_time": 1712790974,
       "rank": 40,
       "category": "体育"
+    },
+    {
+      "raw_hot": 123878,
+      "num": 123878,
+      "word": "蓝盈莹直播畲族花车巡游",
+      "onboard_time": 1712812998,
+      "rank": 45,
+      "category": "艺人"
     },
     {
       "raw_hot": 122852,

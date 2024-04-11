@@ -1,6 +1,6 @@
 {
   "startTime": 1711902044401,
-  "endTime": 1712812652328,
+  "endTime": 1712813636743,
   "band_list": [
     {
       "raw_hot": 16874674,
@@ -1961,6 +1961,14 @@
       "onboard_time": 1712187856,
       "rank": 3,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 1106494,
+      "num": 1106494,
+      "word": "赵丽颖林更新摸头抱",
+      "onboard_time": 1712813239,
+      "rank": 0,
+      "category": "综艺"
     },
     {
       "raw_hot": 1104425,
@@ -4635,6 +4643,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 673248,
+      "num": 673248,
+      "word": "赵小棠和妈妈吵架 中式家庭现状",
+      "onboard_time": 1712811258,
+      "rank": 11,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 673155,
       "num": 673155,
       "word": "农发行工作人员回应男孩称想当行长",
@@ -6491,6 +6507,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 531919,
+      "num": 531919,
+      "word": "燕云十六声定档",
+      "onboard_time": 1712809640,
+      "rank": 22,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 531423,
       "num": 531423,
       "word": "三大运营商回应注销手机号",
@@ -6547,20 +6571,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 527911,
+      "num": 527911,
+      "word": "重庆一高层居民楼突发火灾",
+      "onboard_time": 1712811499,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 527723,
       "num": 427952,
       "word": "月经出现这5种情况说明子宫健康",
       "onboard_time": 1712189297,
       "rank": 12,
       "category": "科学科普,健康医疗"
-    },
-    {
-      "raw_hot": 527439,
-      "num": 527439,
-      "word": "燕云十六声定档",
-      "onboard_time": 1712809640,
-      "rank": 22,
-      "category": "游戏"
     },
     {
       "raw_hot": 526926,
@@ -7017,14 +7041,6 @@
       "onboard_time": 1712106328,
       "rank": 22,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 501010,
-      "num": 501010,
-      "word": "赵小棠和妈妈吵架 中式家庭现状",
-      "onboard_time": 1712811258,
-      "rank": 11,
-      "category": "综艺"
     },
     {
       "raw_hot": 500623,
@@ -7641,6 +7657,14 @@
       "onboard_time": 1712292439,
       "rank": 8,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 466592,
+      "num": 407470,
+      "word": "仝卓工作室称未开拍就为王凯团队花30万",
+      "onboard_time": 1712811920,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 466445,
@@ -8603,6 +8627,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 426633,
+      "num": 426633,
+      "word": "孙亚龙将进行血管扩张手术",
+      "onboard_time": 1712810599,
+      "rank": 15,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 426422,
       "num": 426422,
       "word": "林更新撞脸游本昌",
@@ -9161,14 +9193,6 @@
       "onboard_time": 1712329220,
       "rank": 33,
       "category": "健康医疗,科学科普"
-    },
-    {
-      "raw_hot": 398532,
-      "num": 398532,
-      "word": "孙亚龙将进行血管扩张手术",
-      "onboard_time": 1712810599,
-      "rank": 15,
-      "category": "电竞"
     },
     {
       "raw_hot": 398440,
@@ -10153,14 +10177,6 @@
       "onboard_time": 1711948222,
       "rank": 24,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 357786,
-      "num": 357786,
-      "word": "重庆一高层居民楼突发火灾",
-      "onboard_time": 1712811499,
-      "rank": 19,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 357281,
@@ -11383,14 +11399,6 @@
       "num": 261337,
       "word": "万一把成毅名字收回去呢",
       "onboard_time": 1711984042,
-      "rank": 21,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 314959,
-      "num": 314959,
-      "word": "仝卓工作室称未开拍就为王凯团队花30万",
-      "onboard_time": 1712811920,
       "rank": 21,
       "category": "艺人"
     },
@@ -12921,6 +12929,14 @@
       "onboard_time": 1712188997,
       "rank": 23,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 276746,
+      "num": 276746,
+      "word": "玲娜贝尔 看上去是要去干架的",
+      "onboard_time": 1712811679,
+      "rank": 29,
+      "category": "动漫,作品衍生"
     },
     {
       "raw_hot": 276382,
@@ -14913,14 +14929,6 @@
       "onboard_time": 1711949002,
       "rank": 45,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 238619,
-      "num": 238619,
-      "word": "玲娜贝尔 看上去是要去干架的",
-      "onboard_time": 1712811679,
-      "rank": 29,
-      "category": "动漫,作品衍生"
     },
     {
       "raw_hot": 238511,
@@ -17795,6 +17803,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 202323,
+      "num": 202323,
+      "word": "穿婚纱的杀人少女",
+      "onboard_time": 1712809100,
+      "rank": 49,
+      "category": "电影"
+    },
+    {
       "raw_hot": 202319,
       "num": 202319,
       "word": "小狗用小肉干哄偷偷哭的主人",
@@ -18161,6 +18177,14 @@
       "onboard_time": 1712531174,
       "rank": 23,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 199365,
+      "num": 199365,
+      "word": "一线城市老破小价格泡沫跌到5%",
+      "onboard_time": 1712812159,
+      "rank": 34,
+      "category": "财经"
     },
     {
       "raw_hot": 199346,
@@ -19129,14 +19153,6 @@
       "onboard_time": 1712456659,
       "rank": 32,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 191968,
-      "num": 191968,
-      "word": "一线城市老破小价格泡沫跌到5%",
-      "onboard_time": 1712812159,
-      "rank": 34,
-      "category": "财经"
     },
     {
       "raw_hot": 191926,
@@ -21923,6 +21939,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 166564,
+      "num": 166564,
+      "word": "花王宣布召回部分眼影产品",
+      "onboard_time": 1712813178,
+      "rank": 35,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 166489,
       "num": 166489,
       "word": "莫桑比克沉船至少91死",
@@ -23187,6 +23211,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 154968,
+      "num": 154968,
+      "word": "芽门永存",
+      "onboard_time": 1712811020,
+      "rank": 44,
+      "category": "美食"
+    },
+    {
       "raw_hot": 154912,
       "num": 154912,
       "word": "现在小孩和以前小孩不一样了",
@@ -23843,14 +23875,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 149852,
-      "num": 148214,
-      "word": "穿婚纱的杀人少女",
-      "onboard_time": 1712809100,
-      "rank": 49,
-      "category": "电影"
-    },
-    {
       "raw_hot": 149684,
       "num": 149684,
       "word": "天津省考成绩",
@@ -24073,14 +24097,6 @@
       "onboard_time": 1712242460,
       "rank": 42,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 147838,
-      "num": 147838,
-      "word": "芽门永存",
-      "onboard_time": 1712811020,
-      "rank": 44,
-      "category": "美食"
     },
     {
       "raw_hot": 147825,
@@ -25003,6 +25019,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 138851,
+      "num": 138851,
+      "word": "城中之城",
+      "onboard_time": 1712812458,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 138791,
       "num": 138791,
       "word": "杜华震撼孟佳的鞋",
@@ -25113,14 +25137,6 @@
       "onboard_time": 1712475858,
       "rank": 41,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 138141,
-      "num": 138141,
-      "word": "城中之城",
-      "onboard_time": 1712812458,
-      "rank": 47,
-      "category": "剧集"
     },
     {
       "raw_hot": 138112,
@@ -26536,6 +26552,14 @@
       "word": "鞠婧祎换了微博头像",
       "onboard_time": 1711889838,
       "rank": 41,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 123878,
+      "num": 123878,
+      "word": "蓝盈莹直播畲族花车巡游",
+      "onboard_time": 1712812998,
+      "rank": 45,
       "category": "艺人"
     },
     {
