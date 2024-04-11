@@ -1,0 +1,410 @@
+{
+  "runTime": 1712819845566,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2958649,
+        "num": 2958649,
+        "word": "金星复婚",
+        "onboard_time": 1712814498,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1973084,
+        "num": 1973084,
+        "word": "调休快把四月调成单休了",
+        "onboard_time": 1712817918,
+        "rank": 1,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 49696,
+        "num": 1295081,
+        "word": "走进黄帝故里寻根华夏文明",
+        "onboard_time": 1712807419,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 679974,
+        "num": 679974,
+        "word": "华为发布会",
+        "onboard_time": 1712814557,
+        "rank": 3,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 411224,
+        "num": 411224,
+        "word": "刷牙不刷舌头约等于白刷",
+        "onboard_time": 1712802438,
+        "rank": 4,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 395164,
+        "num": 395164,
+        "word": "医保部门从未规定单次住院不超过15天",
+        "onboard_time": 1712815819,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 365300,
+        "num": 365300,
+        "word": "赵丽颖林更新摸头抱",
+        "onboard_time": 1712813239,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 328842,
+        "num": 328842,
+        "word": "猎罪图鉴2剧组声明",
+        "onboard_time": 1712818457,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 226279,
+        "num": 300304,
+        "word": "教资成绩 过",
+        "onboard_time": 1712816239,
+        "rank": 8,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 209038,
+        "num": 297439,
+        "word": "花花好想要一双大长腿",
+        "onboard_time": 1712803098,
+        "rank": 9,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 778307,
+        "num": 297329,
+        "word": "多动症男孩欺负同学46名家长请愿其转学",
+        "onboard_time": 1712815278,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 296867,
+        "num": 296867,
+        "word": "退休公务员横漂演短剧",
+        "onboard_time": 1712816359,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 283126,
+        "num": 283126,
+        "word": "仝卓工作室称未开拍就为王凯团队花30万",
+        "onboard_time": 1712811920,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 254208,
+        "num": 254208,
+        "word": "去世的妻生病的娃破碎的他",
+        "onboard_time": 1712818939,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 247286,
+        "num": 247286,
+        "word": "小米SU7跑滴滴",
+        "onboard_time": 1712806700,
+        "rank": 14,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 218670,
+        "num": 218670,
+        "word": "明星客串几分钟却被当主角宣传合适吗",
+        "onboard_time": 1712805918,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 200758,
+        "num": 200758,
+        "word": "ZB1泡泡终止",
+        "onboard_time": 1712819478,
+        "rank": 16,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 190001,
+        "num": 190001,
+        "word": "玲娜贝尔 看上去是要去干架的",
+        "onboard_time": 1712811679,
+        "rank": 17,
+        "category": "动漫,作品衍生"
+      },
+      {
+        "raw_hot": 189627,
+        "num": 189627,
+        "word": "迪丽热巴邓为 将门毒后",
+        "onboard_time": 1712794939,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 186718,
+        "num": 186718,
+        "word": "岸田白宫演讲口误称同盟国中国",
+        "onboard_time": 1712817739,
+        "rank": 19,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 374471,
+        "num": 185561,
+        "word": "床上有螨虫的3个表现",
+        "onboard_time": 1712804119,
+        "rank": 20,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 373688,
+        "num": 184077,
+        "word": "睡着后身份证被弟弟拿走贷了30万",
+        "onboard_time": 1712815700,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 218148,
+        "num": 181984,
+        "word": "王星越纹身",
+        "onboard_time": 1712816419,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 202866,
+        "num": 180478,
+        "word": "不上正经班却赚到更多钱的普通人",
+        "onboard_time": 1712814198,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 186791,
+        "num": 179496,
+        "word": "赵丽颖和NPC跳了一段",
+        "onboard_time": 1712818338,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 178582,
+        "num": 178582,
+        "word": "赵小棠和妈妈吵架 家庭现状",
+        "onboard_time": 1712811258,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 177839,
+        "num": 177839,
+        "word": "高源回应仝卓工作室",
+        "onboard_time": 1712814378,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 176403,
+        "num": 176403,
+        "word": "王者荣耀唱片",
+        "onboard_time": 1712818878,
+        "rank": 27,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 149260,
+        "num": 149260,
+        "word": "形似外星生物巨型尸体冲上马来西亚海滩",
+        "onboard_time": 1712796319,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 177051,
+        "num": 147882,
+        "word": "赵丽颖拍林更新",
+        "onboard_time": 1712756718,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 164257,
+        "num": 145932,
+        "word": "张杰女儿小名已被抢注商标",
+        "onboard_time": 1712799559,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 143760,
+        "num": 143760,
+        "word": "白月光对中年人的杀伤力",
+        "onboard_time": 1712818158,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 142563,
+        "num": 142563,
+        "word": "泰国征兵抽签",
+        "onboard_time": 1712819119,
+        "rank": 32,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 134420,
+        "num": 134420,
+        "word": "韩国国务总理辞职",
+        "onboard_time": 1712801357,
+        "rank": 33,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 130679,
+        "num": 130679,
+        "word": "性早熟的5个真相",
+        "onboard_time": 1712819478,
+        "rank": 34,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 130312,
+        "num": 130312,
+        "word": "FoFo 第一次上解说席就拉满",
+        "onboard_time": 1712818100,
+        "rank": 35,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 129436,
+        "num": 129436,
+        "word": "金星啥时候离的婚",
+        "onboard_time": 1712816539,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 123533,
+        "num": 123533,
+        "word": "女子养的宠物貂被洗衣机洗了15分钟",
+        "onboard_time": 1712801598,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 122729,
+        "num": 122729,
+        "word": "文学调剂文档",
+        "onboard_time": 1712819359,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 122503,
+        "num": 122503,
+        "word": "00后女生打工垮脸严重向公司索赔成功",
+        "onboard_time": 1712798239,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 121948,
+        "num": 121948,
+        "word": "姚志明对麦承欢心动时刻",
+        "onboard_time": 1712816478,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 116936,
+        "num": 116936,
+        "word": "仝卓工作室 我不是疯",
+        "onboard_time": 1712808380,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 114175,
+        "num": 114175,
+        "word": "洛阳牡丹盛开让外国人看呆了",
+        "onboard_time": 1712819597,
+        "rank": 42,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 112960,
+        "num": 112960,
+        "word": "夫妇俩开车多看一眼救了一个人",
+        "onboard_time": 1712818878,
+        "rank": 43,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 111850,
+        "num": 111850,
+        "word": "燕云十六声定档",
+        "onboard_time": 1712809640,
+        "rank": 44,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 110425,
+        "num": 110425,
+        "word": "研究生表达不高兴的方式",
+        "onboard_time": 1712811439,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 104138,
+        "num": 104138,
+        "word": "结婚好的话还用催啊",
+        "onboard_time": 1712810662,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 101478,
+        "num": 101478,
+        "word": "浪5 一群女人的欢乐氛围",
+        "onboard_time": 1712819718,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 100229,
+        "num": 100229,
+        "word": "63岁阿姨健身8年身材如少女",
+        "onboard_time": 1712799438,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 93503,
+        "num": 93503,
+        "word": "重庆一高层居民楼突发火灾",
+        "onboard_time": 1712811499,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#外部的干涉阻挡不了家国团圆的历史大势#"
+    }
+  }
+}
