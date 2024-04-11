@@ -1,6 +1,6 @@
 {
   "startTime": 1712766262556,
-  "endTime": 1712834159240,
+  "endTime": 1712835249341,
   "band_list": [
     {
       "raw_hot": 4878022,
@@ -331,6 +331,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 615248,
+      "num": 615248,
+      "word": "查出幽门螺杆菌不治疗会得重病吗",
+      "onboard_time": 1712830459,
+      "rank": 38,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 614721,
       "num": 614721,
       "word": "阿克苏地震",
@@ -387,12 +395,28 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 581955,
+      "num": 581955,
+      "word": "张颂文说还没去提小米SU7",
+      "onboard_time": 1712831838,
+      "rank": 4,
+      "category": "艺人,汽车"
+    },
+    {
       "raw_hot": 579624,
       "num": 579624,
       "word": "余承东问车上为何要搞手机支架",
       "onboard_time": 1712824278,
       "rank": 25,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 575332,
+      "num": 575332,
+      "word": "易烊千玺工作室放饭了",
+      "onboard_time": 1712831838,
+      "rank": 3,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 570982,
@@ -409,22 +433,6 @@
       "onboard_time": 1712827997,
       "rank": 26,
       "category": "教育,社会新闻"
-    },
-    {
-      "raw_hot": 559518,
-      "num": 559518,
-      "word": "易烊千玺工作室放饭了",
-      "onboard_time": 1712831838,
-      "rank": 3,
-      "category": "作品衍生"
-    },
-    {
-      "raw_hot": 556685,
-      "num": 556685,
-      "word": "张颂文说还没去提小米SU7",
-      "onboard_time": 1712831838,
-      "rank": 4,
-      "category": "艺人,汽车"
     },
     {
       "raw_hot": 552349,
@@ -587,6 +595,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 437574,
+      "num": 304113,
+      "word": "戚薇又戴上了草莓挂件",
+      "onboard_time": 1712833398,
+      "rank": 23,
+      "category": "艺人,时尚"
+    },
+    {
       "raw_hot": 437521,
       "num": 437521,
       "word": "医保部门从未规定单次住院不超过15天",
@@ -644,7 +660,7 @@
     },
     {
       "raw_hot": 415576,
-      "num": 338291,
+      "num": 384442,
       "word": "仝卓称无法控制工作室账号发布内容",
       "onboard_time": 1712832077,
       "rank": 12,
@@ -657,6 +673,14 @@
       "onboard_time": 1712793859,
       "rank": 17,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 397385,
+      "num": 397385,
+      "word": "白鹿说顶光生图流出去不吓死了",
+      "onboard_time": 1712833278,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 384883,
@@ -689,6 +713,14 @@
       "onboard_time": 1712801598,
       "rank": 23,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 378540,
+      "num": 378540,
+      "word": "与凤行豆瓣开分7.2",
+      "onboard_time": 1712832977,
+      "rank": 24,
+      "category": "剧集"
     },
     {
       "raw_hot": 377471,
@@ -827,14 +859,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 319334,
-      "num": 319334,
-      "word": "查出幽门螺杆菌不治疗会得重病吗",
-      "onboard_time": 1712830459,
-      "rank": 38,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 318025,
       "num": 318025,
       "word": "玲娜贝尔 看上去是要去干架的",
@@ -899,14 +923,6 @@
       "category": "艺人,时尚"
     },
     {
-      "raw_hot": 304113,
-      "num": 304113,
-      "word": "戚薇又戴上了草莓挂件",
-      "onboard_time": 1712833398,
-      "rank": 23,
-      "category": "艺人,时尚"
-    },
-    {
       "raw_hot": 304087,
       "num": 304087,
       "word": "官方回应旅韩大熊猫园欣脱毛",
@@ -945,14 +961,6 @@
       "onboard_time": 1712810180,
       "rank": 24,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 298996,
-      "num": 298996,
-      "word": "与凤行豆瓣开分7.2",
-      "onboard_time": 1712832977,
-      "rank": 24,
-      "category": "剧集"
     },
     {
       "raw_hot": 296867,
@@ -1001,6 +1009,14 @@
       "onboard_time": 1712823916,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 281081,
+      "num": 182722,
+      "word": "微信打电话和直接打电话的区别",
+      "onboard_time": 1712835137,
+      "rank": 30,
+      "category": "互联网"
     },
     {
       "raw_hot": 280796,
@@ -1059,12 +1075,12 @@
       "category": "数码"
     },
     {
-      "raw_hot": 259910,
-      "num": 259910,
-      "word": "白鹿说顶光生图流出去不吓死了",
-      "onboard_time": 1712833278,
-      "rank": 25,
-      "category": "艺人"
+      "raw_hot": 263662,
+      "num": 263662,
+      "word": "卖房让娃退学环游世界的家庭怎么样了",
+      "onboard_time": 1712832977,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 255021,
@@ -1219,6 +1235,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 224343,
+      "num": 224343,
+      "word": "蒋依依新中式",
+      "onboard_time": 1712834359,
+      "rank": 18,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 219356,
       "num": 219356,
       "word": "金星啥时候离的婚",
@@ -1233,6 +1257,14 @@
       "onboard_time": 1712819838,
       "rank": 17,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 211315,
+      "num": 211315,
+      "word": "唐嫣还不出图",
+      "onboard_time": 1712829799,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 210819,
@@ -1273,14 +1305,6 @@
       "onboard_time": 1712798897,
       "rank": 34,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 207635,
-      "num": 207635,
-      "word": "唐嫣还不出图",
-      "onboard_time": 1712829799,
-      "rank": 31,
-      "category": "艺人"
     },
     {
       "raw_hot": 206190,
@@ -1739,6 +1763,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 159184,
+      "num": 159184,
+      "word": "狗阵 彭于晏",
+      "onboard_time": 1712834957,
+      "rank": 33,
+      "category": "电影"
+    },
+    {
       "raw_hot": 158161,
       "num": 480530,
       "word": "下一个世界级产品或诞生在中国",
@@ -1931,12 +1963,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 141059,
-      "num": 208505,
-      "word": "卖房让娃退学环游世界的家庭怎么样了",
-      "onboard_time": 1712832977,
-      "rank": 28,
-      "category": "社会新闻"
+      "raw_hot": 142483,
+      "num": 142483,
+      "word": "承欢记直播",
+      "onboard_time": 1712834957,
+      "rank": 38,
+      "category": "剧集"
     },
     {
       "raw_hot": 141012,
@@ -2259,6 +2291,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 119348,
+      "num": 119348,
+      "word": "KPL",
+      "onboard_time": 1712834838,
+      "rank": 44,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 118991,
       "num": 118991,
       "word": "杨紫许龄月对手戏",
@@ -2329,6 +2369,14 @@
       "onboard_time": 1712757140,
       "rank": 36,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 108947,
+      "num": 108947,
+      "word": "TES的BP",
+      "onboard_time": 1712835197,
+      "rank": 47,
+      "category": "电竞"
     },
     {
       "raw_hot": 107841,
@@ -2483,6 +2531,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 81182,
+      "num": 314935,
+      "word": "你开车导航还用手机支架吗",
+      "onboard_time": 1712830157,
+      "rank": 37,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 80653,
       "num": 279970,
       "word": "智界S7一分钟下线一台车",
@@ -2505,14 +2561,6 @@
       "onboard_time": 1712785630,
       "rank": 30,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 74795,
-      "num": 314935,
-      "word": "你开车导航还用手机支架吗",
-      "onboard_time": 1712830157,
-      "rank": 37,
-      "category": "汽车"
     },
     {
       "raw_hot": 72867,
@@ -2643,6 +2691,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 44166,
+      "num": 206480,
+      "word": "智界S7空间超大电池超安全",
+      "onboard_time": 1712833398,
+      "rank": 31,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 41101,
       "num": 156454,
       "word": "三月三拜轩辕",
@@ -2657,14 +2713,6 @@
       "onboard_time": 1712769673,
       "rank": 41,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 35472,
-      "num": 197975,
-      "word": "智界S7空间超大电池超安全",
-      "onboard_time": 1712833398,
-      "rank": 31,
-      "category": "汽车"
     },
     {
       "raw_hot": 27840,
