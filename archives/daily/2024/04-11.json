@@ -1,6 +1,6 @@
 {
   "startTime": 1712766262556,
-  "endTime": 1712809225918,
+  "endTime": 1712810140804,
   "band_list": [
     {
       "raw_hot": 2260302,
@@ -59,8 +59,8 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 1103038,
-      "num": 1103038,
+      "raw_hot": 1259542,
+      "num": 1259542,
       "word": "明星客串几分钟却被当主角宣传合适吗",
       "onboard_time": 1712805918,
       "rank": 18,
@@ -121,6 +121,14 @@
       "onboard_time": 1712795659,
       "rank": 10,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 792360,
+      "num": 493020,
+      "word": "仝卓工作室 我不是疯",
+      "onboard_time": 1712808380,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 757781,
@@ -219,8 +227,8 @@
       "category": "数码"
     },
     {
-      "raw_hot": 585363,
-      "num": 585363,
+      "raw_hot": 592190,
+      "num": 592190,
       "word": "武大雷军班100%具备保研资格",
       "onboard_time": 1712806398,
       "rank": 46,
@@ -323,6 +331,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 435667,
+      "num": 435667,
+      "word": "王俊凯当选最心动男嘉宾",
+      "onboard_time": 1712806819,
+      "rank": 14,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 435594,
       "num": 435594,
       "word": "怎么避免被别人视奸",
@@ -331,28 +347,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 433325,
-      "num": 433325,
-      "word": "仝卓工作室 我不是疯",
-      "onboard_time": 1712808380,
-      "rank": 13,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 421474,
-      "num": 358579,
+      "num": 400990,
       "word": "形似外星生物巨型尸体冲上马来西亚海滩",
       "onboard_time": 1712796319,
       "rank": 20,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 417980,
-      "num": 417980,
-      "word": "王俊凯当选最心动男嘉宾",
-      "onboard_time": 1712806819,
-      "rank": 14,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 415522,
@@ -467,6 +467,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 312304,
+      "num": 312304,
+      "word": "燕云十六声定档",
+      "onboard_time": 1712809640,
+      "rank": 22,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 310721,
       "num": 310721,
       "word": "黄奕在雪山穿吊带背心",
@@ -489,6 +497,14 @@
       "onboard_time": 1712792116,
       "rank": 24,
       "category": "健康医疗,科学科普"
+    },
+    {
+      "raw_hot": 299782,
+      "num": 299782,
+      "word": "女生想要一个体面的婚礼有错吗",
+      "onboard_time": 1712809159,
+      "rank": 47,
+      "category": "情感"
     },
     {
       "raw_hot": 291013,
@@ -635,6 +651,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 210110,
+      "num": 210110,
+      "word": "金价狂飙背后真正推手是谁",
+      "onboard_time": 1712807540,
+      "rank": 37,
+      "category": "财经"
+    },
+    {
       "raw_hot": 209886,
       "num": 209886,
       "word": "分手一年多的前男友的现女友加我",
@@ -763,14 +787,6 @@
       "category": "健康医疗,科学科普"
     },
     {
-      "raw_hot": 183729,
-      "num": 183729,
-      "word": "金价狂飙背后真正推手是谁",
-      "onboard_time": 1712807540,
-      "rank": 37,
-      "category": "财经"
-    },
-    {
       "raw_hot": 183201,
       "num": 181728,
       "word": "献鱼 随地大小吻",
@@ -843,6 +859,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 171088,
+      "num": 171088,
+      "word": "明日方舟",
+      "onboard_time": 1712809340,
+      "rank": 38,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 170571,
       "num": 170571,
       "word": "巴黎vs巴萨",
@@ -872,6 +896,14 @@
       "word": "我国废旧手机存量已超过20亿部",
       "onboard_time": 1712797520,
       "rank": 33,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 166231,
+      "num": 166231,
+      "word": "发布会PPT都要好好审核了",
+      "onboard_time": 1712808679,
+      "rank": 46,
       "category": "数码"
     },
     {
@@ -947,20 +979,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 157293,
+      "num": 157293,
+      "word": "RNG早已没钱",
+      "onboard_time": 1712809280,
+      "rank": 43,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 156126,
       "num": 156126,
       "word": "智己",
       "onboard_time": 1712797819,
       "rank": 43,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 155733,
-      "num": 155733,
-      "word": "发布会PPT都要好好审核了",
-      "onboard_time": 1712808679,
-      "rank": 46,
-      "category": "数码"
     },
     {
       "raw_hot": 155698,
@@ -993,14 +1025,6 @@
       "onboard_time": 1712757621,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 150520,
-      "num": 150520,
-      "word": "女生想要一个体面的婚礼有错吗",
-      "onboard_time": 1712809159,
-      "rank": 47,
-      "category": "情感"
     },
     {
       "raw_hot": 149852,
@@ -1427,6 +1451,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 63438,
+      "num": 1007778,
+      "word": "走进黄帝故里寻根华夏文明",
+      "onboard_time": 1712807419,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 61679,
       "num": 61679,
       "word": "斯坎迪奇晋级意甲决赛",
@@ -1449,14 +1481,6 @@
       "onboard_time": 1712784910,
       "rank": 44,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 47162,
-      "num": 1007778,
-      "word": "走进黄帝故里寻根华夏文明",
-      "onboard_time": 1712807419,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 44838,
