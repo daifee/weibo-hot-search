@@ -1,6 +1,6 @@
 {
   "startTime": 1712766262556,
-  "endTime": 1712803054755,
+  "endTime": 1712805502887,
   "band_list": [
     {
       "raw_hot": 2260302,
@@ -51,12 +51,28 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 1183326,
+      "num": 1183326,
+      "word": "刷牙不刷舌头约等于白刷",
+      "onboard_time": 1712802438,
+      "rank": 30,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 908877,
       "num": 908877,
       "word": "手机号不用了记得解绑这些账号",
       "onboard_time": 1712793918,
       "rank": 5,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 876463,
+      "num": 296712,
+      "word": "床上有螨虫的3个表现",
+      "onboard_time": 1712804119,
+      "rank": 20,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 874184,
@@ -203,12 +219,28 @@
       "category": "游戏,网红"
     },
     {
+      "raw_hot": 509857,
+      "num": 509857,
+      "word": "荣耀回应小米道歉",
+      "onboard_time": 1712801357,
+      "rank": 19,
+      "category": "数码"
+    },
+    {
       "raw_hot": 504822,
       "num": 504822,
       "word": "动物园回应大熊猫渝可捡食垃圾",
       "onboard_time": 1712794280,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 504543,
+      "num": 375324,
+      "word": "邓科谈与赵丽颖合作的感受",
+      "onboard_time": 1712803818,
+      "rank": 15,
+      "category": "剧集"
     },
     {
       "raw_hot": 457329,
@@ -235,14 +267,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 424746,
-      "num": 424746,
-      "word": "荣耀回应小米道歉",
-      "onboard_time": 1712801357,
-      "rank": 19,
-      "category": "数码"
-    },
-    {
       "raw_hot": 421474,
       "num": 358579,
       "word": "形似外星生物巨型尸体冲上马来西亚海滩",
@@ -257,6 +281,22 @@
       "onboard_time": 1712793859,
       "rank": 17,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 397521,
+      "num": 397521,
+      "word": "江西省考成绩",
+      "onboard_time": 1712804958,
+      "rank": 12,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 385334,
+      "num": 511424,
+      "word": "花花好想要一双大长腿",
+      "onboard_time": 1712803098,
+      "rank": 9,
+      "category": "幽默"
     },
     {
       "raw_hot": 384883,
@@ -276,7 +316,7 @@
     },
     {
       "raw_hot": 380316,
-      "num": 294756,
+      "num": 295046,
       "word": "女子养的宠物貂被洗衣机洗了15分钟",
       "onboard_time": 1712801598,
       "rank": 23,
@@ -289,6 +329,14 @@
       "onboard_time": 1712798840,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 373578,
+      "num": 373578,
+      "word": "今天本该是周五",
+      "onboard_time": 1712802559,
+      "rank": 29,
+      "category": "情感"
     },
     {
       "raw_hot": 369372,
@@ -329,6 +377,14 @@
       "onboard_time": 1712750357,
       "rank": 8,
       "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 326830,
+      "num": 326830,
+      "word": "韩国多名政府高官同时请辞",
+      "onboard_time": 1712802857,
+      "rank": 33,
+      "category": "国外时政"
     },
     {
       "raw_hot": 325749,
@@ -419,6 +475,22 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 248249,
+      "num": 248249,
+      "word": "全面排查中小学重点班快慢班",
+      "onboard_time": 1712805020,
+      "rank": 25,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 247627,
+      "num": 247627,
+      "word": "牛骏峰窝囊废赛道种子选手",
+      "onboard_time": 1712802198,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 246438,
       "num": 583863,
       "word": "女子突然栽倒路人接力出手相救",
@@ -433,6 +505,30 @@
       "onboard_time": 1712795119,
       "rank": 25,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 237718,
+      "num": 237718,
+      "word": "你有上班丑吗",
+      "onboard_time": 1712802857,
+      "rank": 42,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 231045,
+      "num": 231045,
+      "word": "肖战米兰带病拍摄",
+      "onboard_time": 1712804119,
+      "rank": 29,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 225087,
+      "num": 225087,
+      "word": "与凤行凤神之路海报",
+      "onboard_time": 1712802978,
+      "rank": 43,
+      "category": "剧集"
     },
     {
       "raw_hot": 224572,
@@ -451,20 +547,20 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 210719,
-      "num": 193975,
-      "word": "刷牙不刷舌头约等于白刷",
-      "onboard_time": 1712802438,
-      "rank": 30,
-      "category": "科学科普"
-    },
-    {
       "raw_hot": 209886,
       "num": 209886,
       "word": "分手一年多的前男友的现女友加我",
       "onboard_time": 1712793318,
       "rank": 29,
       "category": "情感"
+    },
+    {
+      "raw_hot": 209832,
+      "num": 209832,
+      "word": "体态瘦腰",
+      "onboard_time": 1712804057,
+      "rank": 33,
+      "category": "运动健身"
     },
     {
       "raw_hot": 209654,
@@ -531,14 +627,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 194047,
-      "num": 194047,
-      "word": "今天本该是周五",
-      "onboard_time": 1712802559,
-      "rank": 29,
-      "category": "情感"
-    },
-    {
       "raw_hot": 192374,
       "num": 133127,
       "word": "别再乱用红霉素软膏和红霉素眼膏",
@@ -563,20 +651,20 @@
       "category": "健康医疗,科学科普"
     },
     {
+      "raw_hot": 182939,
+      "num": 182939,
+      "word": "RNG选手支出每月几百万",
+      "onboard_time": 1712803879,
+      "rank": 36,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 182551,
       "num": 182551,
       "word": "安徽省考排名",
       "onboard_time": 1712801119,
       "rank": 32,
       "category": "教育"
-    },
-    {
-      "raw_hot": 177080,
-      "num": 177080,
-      "word": "韩国多名政府高官同时请辞",
-      "onboard_time": 1712802857,
-      "rank": 33,
-      "category": "国外时政"
     },
     {
       "raw_hot": 176836,
@@ -651,6 +739,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 164999,
+      "num": 164999,
+      "word": "第一部主演回归惊天魔盗团3",
+      "onboard_time": 1712804239,
+      "rank": 39,
+      "category": "电影"
+    },
+    {
       "raw_hot": 164960,
       "num": 164960,
       "word": "辽宁天空出现遮天蔽日鸟浪奇观",
@@ -665,14 +761,6 @@
       "onboard_time": 1712798598,
       "rank": 45,
       "category": "运动健身"
-    },
-    {
-      "raw_hot": 162953,
-      "num": 162953,
-      "word": "牛骏峰窝囊废赛道种子选手",
-      "onboard_time": 1712802198,
-      "rank": 38,
-      "category": "剧集"
     },
     {
       "raw_hot": 158113,
@@ -713,6 +801,30 @@
       "onboard_time": 1712757621,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 148115,
+      "num": 148115,
+      "word": "献鱼 随地大小吻",
+      "onboard_time": 1712805197,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 146772,
+      "num": 377304,
+      "word": "下一个世界级产品或诞生在中国",
+      "onboard_time": 1712804538,
+      "rank": 13,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 144302,
+      "num": 144302,
+      "word": "Flandre希望TES赢BLG",
+      "onboard_time": 1712804359,
+      "rank": 43,
+      "category": "电竞"
     },
     {
       "raw_hot": 144178,
@@ -787,14 +899,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 129855,
-      "num": 129855,
-      "word": "你有上班丑吗",
-      "onboard_time": 1712802857,
-      "rank": 42,
-      "category": "情感"
-    },
-    {
       "raw_hot": 129807,
       "num": 129807,
       "word": "中国与格鲁吉亚签署互免签证协定",
@@ -811,20 +915,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 129108,
-      "num": 129108,
-      "word": "与凤行凤神之路海报",
-      "onboard_time": 1712802978,
-      "rank": 43,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 128486,
       "num": 128486,
       "word": "金市已出现畏高迹象",
       "onboard_time": 1712799078,
       "rank": 48,
       "category": "财经"
+    },
+    {
+      "raw_hot": 126873,
+      "num": 126873,
+      "word": "RNG战队老板已成老赖",
+      "onboard_time": 1712805258,
+      "rank": 45,
+      "category": "电竞"
     },
     {
       "raw_hot": 126604,
@@ -859,6 +963,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 124526,
+      "num": 124526,
+      "word": "为什么天天饿肚子减肥却没成功",
+      "onboard_time": 1712805439,
+      "rank": 46,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 124228,
       "num": 124228,
       "word": "巴黎2比3巴萨",
@@ -867,12 +979,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 122852,
+      "num": 122852,
+      "word": "江疏影出发录制花少",
+      "onboard_time": 1712805197,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 122419,
       "num": 122419,
       "word": "承欢记第六集 订婚见面局",
       "onboard_time": 1712796019,
       "rank": 47,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 121845,
+      "num": 121845,
+      "word": "数学课都进化成这样了吗",
+      "onboard_time": 1712804658,
+      "rank": 48,
+      "category": "教育"
     },
     {
       "raw_hot": 120020,
