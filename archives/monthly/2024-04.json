@@ -1,6 +1,6 @@
 {
   "startTime": 1711902044401,
-  "endTime": 1712848710801,
+  "endTime": 1712849671111,
   "band_list": [
     {
       "raw_hot": 16874674,
@@ -483,6 +483,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 1899421,
+      "num": 1899421,
+      "word": "cp粉悬着的心终于死了",
+      "onboard_time": 1712844618,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1899233,
       "num": 1899233,
       "word": "黄多多ins",
@@ -697,14 +705,6 @@
       "onboard_time": 1712216898,
       "rank": 11,
       "category": "社会新闻,社会议题"
-    },
-    {
-      "raw_hot": 1685902,
-      "num": 1685902,
-      "word": "cp粉悬着的心终于死了",
-      "onboard_time": 1712844618,
-      "rank": 30,
-      "category": "剧集"
     },
     {
       "raw_hot": 1684894,
@@ -1393,6 +1393,14 @@
       "onboard_time": 1712400798,
       "rank": 5,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 1326463,
+      "num": 725184,
+      "word": "辛普森去世",
+      "onboard_time": 1712848759,
+      "rank": 3,
+      "category": "社会新闻,体育"
     },
     {
       "raw_hot": 1320042,
@@ -2329,6 +2337,14 @@
       "onboard_time": 1712683333,
       "rank": 22,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1038568,
+      "num": 717344,
+      "word": "林更新称呼赵丽颖赵老师",
+      "onboard_time": 1712848219,
+      "rank": 10,
+      "category": "剧集"
     },
     {
       "raw_hot": 1036556,
@@ -4459,6 +4475,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 704307,
+      "num": 704307,
+      "word": "TES被偷家",
+      "onboard_time": 1712848519,
+      "rank": 14,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 703675,
       "num": 703675,
       "word": "小鬼朱正廷王子异直播",
@@ -5297,14 +5321,6 @@
       "onboard_time": 1712490378,
       "rank": 6,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 637124,
-      "num": 397766,
-      "word": "林更新称呼赵丽颖赵老师",
-      "onboard_time": 1712848219,
-      "rank": 10,
-      "category": "剧集"
     },
     {
       "raw_hot": 637024,
@@ -6491,6 +6507,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 550829,
+      "num": 550829,
+      "word": "才知道医学生不用学毕业论文",
+      "onboard_time": 1712847920,
+      "rank": 18,
+      "category": "教育"
+    },
+    {
       "raw_hot": 550429,
       "num": 550429,
       "word": "一场演唱会带火一座城",
@@ -6724,7 +6748,7 @@
     },
     {
       "raw_hot": 536274,
-      "num": 460346,
+      "num": 485510,
       "word": "梁朝伟不做演员了可以做医生",
       "onboard_time": 1712844260,
       "rank": 22,
@@ -10387,14 +10411,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 369518,
-      "num": 369518,
-      "word": "TES被偷家",
-      "onboard_time": 1712848519,
-      "rank": 14,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 369450,
       "num": 369450,
       "word": "魏大勋衣服充气",
@@ -13681,14 +13697,6 @@
       "onboard_time": 1712241078,
       "rank": 30,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 274628,
-      "num": 352460,
-      "word": "才知道医学生不用学毕业论文",
-      "onboard_time": 1712847920,
-      "rank": 18,
-      "category": "教育"
     },
     {
       "raw_hot": 274518,
@@ -19411,6 +19419,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 196851,
+      "num": 196851,
+      "word": "Bin哥厉害",
+      "onboard_time": 1712848638,
+      "rank": 46,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 196556,
       "num": 196556,
       "word": "宋亚轩搜普钩gi",
@@ -24131,14 +24147,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 157164,
-      "num": 157164,
-      "word": "Bin哥厉害",
-      "onboard_time": 1712848638,
-      "rank": 46,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 157090,
       "num": 157090,
       "word": "日全食美图",
@@ -26225,6 +26233,14 @@
       "onboard_time": 1712538618,
       "rank": 47,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 139731,
+      "num": 139731,
+      "word": "2024LPL春决",
+      "onboard_time": 1712848759,
+      "rank": 43,
+      "category": "电竞"
     },
     {
       "raw_hot": 139680,
