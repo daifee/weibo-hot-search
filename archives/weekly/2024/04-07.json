@@ -1,6 +1,6 @@
 {
   "startTime": 1712420539476,
-  "endTime": 1712835249341,
+  "endTime": 1712838734380,
   "band_list": [
     {
       "raw_hot": 9583581,
@@ -539,6 +539,14 @@
       "category": "财经,时尚"
     },
     {
+      "raw_hot": 1342930,
+      "num": 1342930,
+      "word": "换儿子血的亿万富翁展示3年抗衰成果",
+      "onboard_time": 1712835377,
+      "rank": 0,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1335647,
       "num": 1335647,
       "word": "第一次见工作室捶正主",
@@ -793,6 +801,14 @@
       "onboard_time": 1712743399,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1147063,
+      "num": 1147063,
+      "word": "朴彩英双眼皮",
+      "onboard_time": 1712837357,
+      "rank": 1,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 1128422,
@@ -1249,6 +1265,14 @@
       "onboard_time": 1712625438,
       "rank": 11,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 903921,
+      "num": 903921,
+      "word": "微信打电话和直接打电话的区别",
+      "onboard_time": 1712835137,
+      "rank": 30,
+      "category": "互联网"
     },
     {
       "raw_hot": 902109,
@@ -2147,6 +2171,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 675775,
+      "num": 434849,
+      "word": "雷军问网友是否支持车上有原装手机支架",
+      "onboard_time": 1712837477,
+      "rank": 10,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 675387,
       "num": 675387,
       "word": "广西人上4天休4天",
@@ -2449,6 +2481,14 @@
       "onboard_time": 1712830459,
       "rank": 38,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 613683,
+      "num": 613683,
+      "word": "卖房让娃退学环游世界的家庭怎么样了",
+      "onboard_time": 1712832977,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 612912,
@@ -2931,6 +2971,14 @@
       "category": "游戏,网红"
     },
     {
+      "raw_hot": 536293,
+      "num": 536293,
+      "word": "赵丽颖王伊瑶友情",
+      "onboard_time": 1712837958,
+      "rank": 6,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 533863,
       "num": 339375,
       "word": "男子女厕偷窥被母亲怒扇巴掌",
@@ -3363,6 +3411,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 483319,
+      "num": 483319,
+      "word": "白鹿说顶光生图流出去不吓死了",
+      "onboard_time": 1712833278,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 482733,
       "num": 482733,
       "word": "恒大造车5年亏超1100亿",
@@ -3417,6 +3473,14 @@
       "onboard_time": 1712499741,
       "rank": 33,
       "category": "情感"
+    },
+    {
+      "raw_hot": 478146,
+      "num": 478146,
+      "word": "唐嫣 高定配高珠",
+      "onboard_time": 1712836097,
+      "rank": 8,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 476556,
@@ -4267,14 +4331,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 397385,
-      "num": 397385,
-      "word": "白鹿说顶光生图流出去不吓死了",
-      "onboard_time": 1712833278,
-      "rank": 25,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 397212,
       "num": 397212,
       "word": "电视剧迎风官宣阵容",
@@ -4755,6 +4811,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 356571,
+      "num": 356571,
+      "word": "金秀贤金智媛德国合照",
+      "onboard_time": 1712835738,
+      "rank": 14,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 355364,
       "num": 355364,
       "word": "中医建议放下这些脾胃就恢复80%了",
@@ -5001,6 +5065,14 @@
       "onboard_time": 1712473579,
       "rank": 31,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 340210,
+      "num": 340210,
+      "word": "邓科夸林更新演什么像什么",
+      "onboard_time": 1712835976,
+      "rank": 15,
+      "category": "剧集"
     },
     {
       "raw_hot": 339461,
@@ -6019,20 +6091,20 @@
       "category": "情感"
     },
     {
-      "raw_hot": 281081,
-      "num": 182722,
-      "word": "微信打电话和直接打电话的区别",
-      "onboard_time": 1712835137,
-      "rank": 30,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 280796,
       "num": 280796,
       "word": "RNG战队CEO自曝欠几千万快破产",
       "onboard_time": 1712800759,
       "rank": 24,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 280758,
+      "num": 280758,
+      "word": "甘露寺美甲",
+      "onboard_time": 1712835618,
+      "rank": 18,
+      "category": "作品衍生,美妆"
     },
     {
       "raw_hot": 280064,
@@ -6305,14 +6377,6 @@
       "onboard_time": 1712594715,
       "rank": 13,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 263662,
-      "num": 263662,
-      "word": "卖房让娃退学环游世界的家庭怎么样了",
-      "onboard_time": 1712832977,
-      "rank": 28,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 262400,
@@ -7033,6 +7097,14 @@
       "onboard_time": 1712471899,
       "rank": 24,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 239898,
+      "num": 239898,
+      "word": "娄烨 三个字",
+      "onboard_time": 1712835798,
+      "rank": 23,
+      "category": "电影"
     },
     {
       "raw_hot": 239673,
@@ -7907,6 +7979,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 211052,
+      "num": 211052,
+      "word": "承欢记直播",
+      "onboard_time": 1712834957,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 210935,
       "num": 210935,
       "word": "又慷慨了龚俊",
@@ -8353,6 +8433,14 @@
       "onboard_time": 1712546239,
       "rank": 37,
       "category": "电影"
+    },
+    {
+      "raw_hot": 204955,
+      "num": 275030,
+      "word": "生母虐待男孩致截肢获刑6年9个月",
+      "onboard_time": 1712836697,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 204754,
@@ -9987,6 +10075,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 177913,
+      "num": 162368,
+      "word": "章子怡重返戛纳",
+      "onboard_time": 1712838617,
+      "rank": 30,
+      "category": "电影"
+    },
+    {
       "raw_hot": 177688,
       "num": 177688,
       "word": "无骨鸭脖",
@@ -11067,6 +11163,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 155702,
+      "num": 155702,
+      "word": "吃自助一定不要吃太饱",
+      "onboard_time": 1712837837,
+      "rank": 32,
+      "category": "美食"
+    },
+    {
       "raw_hot": 155698,
       "num": 155698,
       "word": "阿克苏地震新疆消防已赴灾害现场",
@@ -11363,6 +11467,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 149393,
+      "num": 149393,
+      "word": "虞书欣海岛辣妹",
+      "onboard_time": 1712836757,
+      "rank": 33,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 149092,
       "num": 149092,
       "word": "放假三天躺了三天",
@@ -11521,6 +11633,14 @@
       "onboard_time": 1712572519,
       "rank": 40,
       "category": "情感"
+    },
+    {
+      "raw_hot": 146554,
+      "num": 163073,
+      "word": "苏GDE2511的姐谢谢你",
+      "onboard_time": 1712835498,
+      "rank": 29,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 146346,
@@ -11721,14 +11841,6 @@
       "onboard_time": 1712821039,
       "rank": 34,
       "category": "情感"
-    },
-    {
-      "raw_hot": 142483,
-      "num": 142483,
-      "word": "承欢记直播",
-      "onboard_time": 1712834957,
-      "rank": 38,
-      "category": "剧集"
     },
     {
       "raw_hot": 142414,
@@ -12939,6 +13051,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 121334,
+      "num": 121334,
+      "word": "与凤行今日收官",
+      "onboard_time": 1712836519,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 121318,
       "num": 121318,
       "word": "有头部公募已接到限薪指令",
@@ -13105,6 +13225,14 @@
       "onboard_time": 1712414420,
       "rank": 44,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 116994,
+      "num": 116994,
+      "word": "其实不想给分可以直说的",
+      "onboard_time": 1712838497,
+      "rank": 41,
+      "category": "幽默"
     },
     {
       "raw_hot": 116899,
@@ -13387,6 +13515,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 103698,
+      "num": 103698,
+      "word": "走红4年后钟美美称自己过气了",
+      "onboard_time": 1712837178,
+      "rank": 45,
+      "category": "网红"
+    },
+    {
       "raw_hot": 103151,
       "num": 103151,
       "word": "安徽省考成绩还不出",
@@ -13451,6 +13587,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 99064,
+      "num": 99064,
+      "word": "同事带饭已经是nextlevel",
+      "onboard_time": 1712836939,
+      "rank": 46,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 98078,
       "num": 98078,
       "word": "上班恶心穿搭遇上退休精致穿搭",
@@ -13473,6 +13617,14 @@
       "onboard_time": 1712765237,
       "rank": 41,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 96793,
+      "num": 120248,
+      "word": "粤港澳合办第十五届全运会",
+      "onboard_time": 1712837477,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 95088,
@@ -13881,6 +14033,14 @@
       "onboard_time": 1712432831,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 71141,
+      "num": 92559,
+      "word": "CBA季后赛",
+      "onboard_time": 1712838497,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 70631,
@@ -14537,6 +14697,14 @@
       "onboard_time": 1712517131,
       "rank": 49,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 15478,
+      "num": 1027873,
+      "word": "广西三月三到底有多好玩",
+      "onboard_time": 1712838378,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 15059,
