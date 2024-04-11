@@ -1,6 +1,6 @@
 {
   "startTime": 1711902044401,
-  "endTime": 1712870201792,
+  "endTime": 1712871250058,
   "band_list": [
     {
       "raw_hot": 16874674,
@@ -30540,7 +30540,7 @@
     },
     {
       "raw_hot": 62009,
-      "num": 36925,
+      "num": 37132,
       "word": "蒋依依说今年不扯裙子了",
       "onboard_time": 1712864351,
       "rank": 10,
@@ -31051,6 +31051,22 @@
       "category": "电影"
     },
     {
+      "raw_hot": 43156,
+      "num": 37089,
+      "word": "赵露思在阿那亚",
+      "onboard_time": 1712868310,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 43089,
+      "num": 37050,
+      "word": "与凤行是宣璐和徐海乔第3次合作",
+      "onboard_time": 1712865069,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 43040,
       "num": 52447,
       "word": "四个勤天清华活动后主动打扫现场",
@@ -31163,22 +31179,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 38652,
-      "num": 29206,
-      "word": "赵露思在阿那亚",
-      "onboard_time": 1712868310,
-      "rank": 11,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 38626,
-      "num": 29104,
-      "word": "与凤行是宣璐和徐海乔第3次合作",
-      "onboard_time": 1712865069,
-      "rank": 30,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 38559,
       "num": 415573,
       "word": "vivo折叠屏又又又卖爆了",
@@ -31211,20 +31211,28 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 37145,
+      "num": 37145,
+      "word": "男生逆袭考研上岸还减肥100斤",
+      "onboard_time": 1712865370,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 36996,
+      "num": 36995,
+      "word": "纪凌尘嗦冰棍",
+      "onboard_time": 1712865851,
+      "rank": 33,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 36288,
       "num": 36288,
       "word": "终于知道杜鹃为啥又叫映山红了",
       "onboard_time": 1712355370,
       "rank": 49,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 35441,
-      "num": 29031,
-      "word": "纪凌尘嗦冰棍",
-      "onboard_time": 1712865851,
-      "rank": 33,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 35379,
@@ -31265,6 +31273,14 @@
       "onboard_time": 1712140880,
       "rank": 38,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 34148,
+      "num": 17476,
+      "word": "大学生日薪三百做兼职竟成洗钱工具人",
+      "onboard_time": 1712867651,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 34024,
@@ -31371,28 +31387,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 28681,
-      "num": 17476,
-      "word": "大学生日薪三百做兼职竟成洗钱工具人",
-      "onboard_time": 1712867651,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 28039,
       "num": 28039,
       "word": "奥运会资格系列赛开票",
       "onboard_time": 1712597713,
       "rank": 45,
       "category": "体育"
-    },
-    {
-      "raw_hot": 28021,
-      "num": 29217,
-      "word": "男生逆袭考研上岸还减肥100斤",
-      "onboard_time": 1712865370,
-      "rank": 37,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 27840,
@@ -31897,6 +31897,14 @@
       "onboard_time": 1712087530,
       "rank": 49,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 12810,
+      "num": 16900,
+      "word": "常吃这种食物更易性早熟",
+      "onboard_time": 1712870951,
+      "rank": 45,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 11730,
