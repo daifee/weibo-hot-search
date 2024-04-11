@@ -1,6 +1,6 @@
 {
   "startTime": 1712420539476,
-  "endTime": 1712867680269,
+  "endTime": 1712870201792,
   "band_list": [
     {
       "raw_hot": 9583581,
@@ -15019,8 +15019,16 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 38497,
-      "num": 18474,
+      "raw_hot": 38652,
+      "num": 29206,
+      "word": "赵露思在阿那亚",
+      "onboard_time": 1712868310,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 38626,
+      "num": 29104,
       "word": "与凤行是宣璐和徐海乔第3次合作",
       "onboard_time": 1712865069,
       "rank": 30,
@@ -15033,6 +15041,14 @@
       "onboard_time": 1712856073,
       "rank": 44,
       "category": "演出"
+    },
+    {
+      "raw_hot": 35441,
+      "num": 29031,
+      "word": "纪凌尘嗦冰棍",
+      "onboard_time": 1712865851,
+      "rank": 33,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 35379,
@@ -15099,12 +15115,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 28681,
+      "num": 17476,
+      "word": "大学生日薪三百做兼职竟成洗钱工具人",
+      "onboard_time": 1712867651,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 28039,
       "num": 28039,
       "word": "奥运会资格系列赛开票",
       "onboard_time": 1712597713,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 28021,
+      "num": 29217,
+      "word": "男生逆袭考研上岸还减肥100斤",
+      "onboard_time": 1712865370,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 27840,
@@ -15211,12 +15243,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 22710,
-      "num": 17570,
-      "word": "纪凌尘嗦冰棍",
-      "onboard_time": 1712865851,
-      "rank": 33,
-      "category": "作品衍生"
+      "raw_hot": 23313,
+      "num": 23313,
+      "word": "缺铁性贫血的症状",
+      "onboard_time": 1712863451,
+      "rank": 45,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 22321,
@@ -15249,14 +15281,6 @@
       "onboard_time": 1712518212,
       "rank": 49,
       "category": "情感"
-    },
-    {
-      "raw_hot": 21495,
-      "num": 23202,
-      "word": "缺铁性贫血的症状",
-      "onboard_time": 1712863451,
-      "rank": 45,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 21149,
@@ -15321,14 +15345,6 @@
       "onboard_time": 1712660659,
       "rank": 36,
       "category": "数码"
-    },
-    {
-      "raw_hot": 18542,
-      "num": 18542,
-      "word": "男生逆袭考研上岸还减肥100斤",
-      "onboard_time": 1712865370,
-      "rank": 37,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 17289,
@@ -15401,14 +15417,6 @@
       "onboard_time": 1712778670,
       "rank": 49,
       "category": "母婴育儿"
-    },
-    {
-      "raw_hot": 12042,
-      "num": 13852,
-      "word": "大学生日薪三百做兼职竟成洗钱工具人",
-      "onboard_time": 1712867651,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 11730,
