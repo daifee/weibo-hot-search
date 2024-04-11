@@ -1,6 +1,6 @@
 {
   "startTime": 1712420539476,
-  "endTime": 1712842472511,
+  "endTime": 1712845029731,
   "band_list": [
     {
       "raw_hot": 9583581,
@@ -715,6 +715,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 1206673,
+      "num": 1206673,
+      "word": "林更新说与赵丽颖搭档是荣幸",
+      "onboard_time": 1712841498,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1206076,
       "num": 1206076,
       "word": "长期戴耳塞睡觉的人最后怎么样了",
@@ -833,14 +841,6 @@
       "onboard_time": 1712677459,
       "rank": 0,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1121703,
-      "num": 1121703,
-      "word": "林更新说与赵丽颖搭档是荣幸",
-      "onboard_time": 1712841498,
-      "rank": 28,
-      "category": "剧集"
     },
     {
       "raw_hot": 1119515,
@@ -1195,6 +1195,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 927486,
+      "num": 927486,
+      "word": "偏偏你最争气",
+      "onboard_time": 1712841679,
+      "rank": 16,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 927296,
       "num": 927296,
       "word": "胡锡进称应该给虐猫男生改正机会",
@@ -1505,6 +1513,14 @@
       "onboard_time": 1712749038,
       "rank": 3,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 830983,
+      "num": 830983,
+      "word": "孙俪想知道邓超在证明啥",
+      "onboard_time": 1712842038,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 829190,
@@ -2059,6 +2075,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 705567,
+      "num": 705567,
+      "word": "刘亦菲减肥法",
+      "onboard_time": 1712843660,
+      "rank": 5,
+      "category": "运动健身,作品衍生"
+    },
+    {
       "raw_hot": 703383,
       "num": 703383,
       "word": "男子要求每天加夜班民警察觉不对劲抓捕一名逃犯",
@@ -2353,6 +2377,14 @@
       "onboard_time": 1712745078,
       "rank": 11,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 639622,
+      "num": 639622,
+      "word": "雅诗兰黛 IU",
+      "onboard_time": 1712841439,
+      "rank": 13,
+      "category": "作品衍生,美妆"
     },
     {
       "raw_hot": 638931,
@@ -2819,14 +2851,6 @@
       "category": "财经,时尚"
     },
     {
-      "raw_hot": 567631,
-      "num": 567631,
-      "word": "雅诗兰黛 IU",
-      "onboard_time": 1712841439,
-      "rank": 13,
-      "category": "作品衍生,美妆"
-    },
-    {
       "raw_hot": 565699,
       "num": 518160,
       "word": "朴彩英卷发",
@@ -2852,7 +2876,7 @@
     },
     {
       "raw_hot": 562120,
-      "num": 562120,
+      "num": 647295,
       "word": "女生递补第一被成功补录上岸研究生",
       "onboard_time": 1712827997,
       "rank": 26,
@@ -3212,7 +3236,7 @@
     },
     {
       "raw_hot": 504040,
-      "num": 353118,
+      "num": 373644,
       "word": "生母虐待男孩致截肢获刑6年9个月",
       "onboard_time": 1712836697,
       "rank": 19,
@@ -4283,6 +4307,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 411677,
+      "num": 411677,
+      "word": "与凤行全员续写番外",
+      "onboard_time": 1712842219,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 407192,
       "num": 407192,
       "word": "千香引把鞠婧祎名字打错了",
@@ -4489,6 +4521,14 @@
       "onboard_time": 1712535739,
       "rank": 16,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 385245,
+      "num": 385245,
+      "word": "易烊千玺被夸害羞了",
+      "onboard_time": 1712842998,
+      "rank": 15,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 384883,
@@ -5225,6 +5265,14 @@
       "onboard_time": 1712706617,
       "rank": 21,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 329178,
+      "num": 329178,
+      "word": "许光汉易梦玲合照",
+      "onboard_time": 1712843238,
+      "rank": 18,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 328842,
@@ -6043,6 +6091,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 284624,
+      "num": 264937,
+      "word": "梁朝伟不做演员了可以做医生",
+      "onboard_time": 1712844260,
+      "rank": 22,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 284397,
       "num": 301744,
       "word": "甘肃张掖市4.3级地震",
@@ -6331,6 +6387,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 269531,
+      "num": 269531,
+      "word": "Tiffany活动",
+      "onboard_time": 1712841858,
+      "rank": 25,
+      "category": "时尚,作品衍生"
+    },
+    {
       "raw_hot": 269400,
       "num": 269400,
       "word": "男人的尿酸是怎么一步一步失控的",
@@ -6385,14 +6449,6 @@
       "onboard_time": 1712551221,
       "rank": 23,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 266796,
-      "num": 266796,
-      "word": "偏偏你最争气",
-      "onboard_time": 1712841679,
-      "rank": 16,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 266050,
@@ -6473,6 +6529,14 @@
       "onboard_time": 1712722759,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 261042,
+      "num": 261042,
+      "word": "韩女发圈发型",
+      "onboard_time": 1712842879,
+      "rank": 23,
+      "category": "美妆"
     },
     {
       "raw_hot": 260902,
@@ -6809,6 +6873,14 @@
       "onboard_time": 1712588301,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 250418,
+      "num": 250418,
+      "word": "招商银行停发三年期五年期大额存单",
+      "onboard_time": 1712842578,
+      "rank": 24,
+      "category": "财经"
     },
     {
       "raw_hot": 250228,
@@ -7379,6 +7451,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 231618,
+      "num": 231618,
+      "word": "cp粉悬着的心终于死了",
+      "onboard_time": 1712844618,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 231611,
       "num": 231611,
       "word": "快船vs太阳",
@@ -7433,14 +7513,6 @@
       "onboard_time": 1712673560,
       "rank": 23,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 230716,
-      "num": 230716,
-      "word": "Tiffany活动",
-      "onboard_time": 1712841858,
-      "rank": 25,
-      "category": "时尚,作品衍生"
     },
     {
       "raw_hot": 230246,
@@ -7609,14 +7681,6 @@
       "onboard_time": 1712597892,
       "rank": 29,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 225464,
-      "num": 225464,
-      "word": "孙俪想知道邓超在证明啥",
-      "onboard_time": 1712842038,
-      "rank": 27,
-      "category": "艺人"
     },
     {
       "raw_hot": 225087,
@@ -8659,6 +8723,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 202851,
+      "num": 202851,
+      "word": "时代少年团重庆站",
+      "onboard_time": 1712843837,
+      "rank": 33,
+      "category": "演出"
+    },
+    {
       "raw_hot": 202829,
       "num": 202829,
       "word": "鞠婧祎小道士盘发",
@@ -9243,14 +9315,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 193781,
-      "num": 193781,
-      "word": "与凤行全员续写番外",
-      "onboard_time": 1712842219,
-      "rank": 32,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 193533,
       "num": 193533,
       "word": "山东泰山2比2河南队",
@@ -9505,6 +9569,14 @@
       "onboard_time": 1712838798,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 190088,
+      "num": 231840,
+      "word": "神农架招聘要求遇见野人跑得快",
+      "onboard_time": 1712841257,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 189962,
@@ -10467,12 +10539,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 172884,
+      "num": 172884,
+      "word": "鞠婧祎空降翻牌",
+      "onboard_time": 1712843660,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 172840,
       "num": 172840,
       "word": "梗王费曼",
       "onboard_time": 1712646679,
       "rank": 36,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 172748,
+      "num": 255190,
+      "word": "70后农民卖瓜子带3000户乡亲致富",
+      "onboard_time": 1712841858,
+      "rank": 18,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 172588,
@@ -10888,6 +10976,14 @@
       "word": "来公司面试的人好像是个工贼",
       "onboard_time": 1712650159,
       "rank": 38,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 163648,
+      "num": 163648,
+      "word": "听完电视的价格把阿姨吓跑了",
+      "onboard_time": 1712842818,
+      "rank": 39,
       "category": "幽默"
     },
     {
@@ -11819,6 +11915,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 145583,
+      "num": 145583,
+      "word": "各行各业女性向上走的意义",
+      "onboard_time": 1712844379,
+      "rank": 42,
+      "category": "情感"
+    },
+    {
       "raw_hot": 145442,
       "num": 145442,
       "word": "林更新害怕是装给赵丽颖看的吧",
@@ -12131,14 +12235,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 139960,
-      "num": 255190,
-      "word": "70后农民卖瓜子带3000户乡亲致富",
-      "onboard_time": 1712841858,
-      "rank": 18,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 139809,
       "num": 139809,
       "word": "散光恢复训练",
@@ -12153,14 +12249,6 @@
       "onboard_time": 1712535259,
       "rank": 44,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 139561,
-      "num": 142263,
-      "word": "神农架招聘要求遇见野人跑得快",
-      "onboard_time": 1712841257,
-      "rank": 39,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 139324,
@@ -12577,6 +12665,14 @@
       "onboard_time": 1712822058,
       "rank": 38,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 133098,
+      "num": 133098,
+      "word": "白人午饭",
+      "onboard_time": 1712842578,
+      "rank": 44,
+      "category": "美食"
     },
     {
       "raw_hot": 133096,
@@ -13073,6 +13169,14 @@
       "onboard_time": 1712826977,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 123907,
+      "num": 123907,
+      "word": "承欢记人未出场cp搅黄",
+      "onboard_time": 1712844919,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 123888,
@@ -13784,6 +13888,14 @@
       "word": "粤港澳合办第十五届全运会",
       "onboard_time": 1712837477,
       "rank": 39,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 96755,
+      "num": 121920,
+      "word": "青岛男篮vs广州男篮",
+      "onboard_time": 1712843719,
+      "rank": 49,
       "category": "体育"
     },
     {

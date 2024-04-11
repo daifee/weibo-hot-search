@@ -1,6 +1,6 @@
 {
   "startTime": 1712766262556,
-  "endTime": 1712842472511,
+  "endTime": 1712845029731,
   "band_list": [
     {
       "raw_hot": 4878022,
@@ -115,6 +115,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1206673,
+      "num": 1206673,
+      "word": "林更新说与赵丽颖搭档是荣幸",
+      "onboard_time": 1712841498,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1169491,
       "num": 1169491,
       "word": "蓝盈莹也做了甘露寺美甲",
@@ -131,14 +139,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 1121703,
-      "num": 1121703,
-      "word": "林更新说与赵丽颖搭档是荣幸",
-      "onboard_time": 1712841498,
-      "rank": 28,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 1106494,
       "num": 1106494,
       "word": "赵丽颖林更新摸头抱",
@@ -153,6 +153,14 @@
       "onboard_time": 1712808380,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 927486,
+      "num": 927486,
+      "word": "偏偏你最争气",
+      "onboard_time": 1712841679,
+      "rank": 16,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 919277,
@@ -209,6 +217,14 @@
       "onboard_time": 1712805020,
       "rank": 25,
       "category": "教育"
+    },
+    {
+      "raw_hot": 830983,
+      "num": 830983,
+      "word": "孙俪想知道邓超在证明啥",
+      "onboard_time": 1712842038,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 822265,
@@ -315,6 +331,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 705567,
+      "num": 705567,
+      "word": "刘亦菲减肥法",
+      "onboard_time": 1712843660,
+      "rank": 5,
+      "category": "运动健身,作品衍生"
+    },
+    {
       "raw_hot": 702862,
       "num": 502360,
       "word": "林更新 怎么可以让别人听到",
@@ -369,6 +393,14 @@
       "onboard_time": 1712806579,
       "rank": 6,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 639622,
+      "num": 639622,
+      "word": "雅诗兰黛 IU",
+      "onboard_time": 1712841439,
+      "rank": 13,
+      "category": "作品衍生,美妆"
     },
     {
       "raw_hot": 626685,
@@ -491,16 +523,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 567631,
-      "num": 567631,
-      "word": "雅诗兰黛 IU",
-      "onboard_time": 1712841439,
-      "rank": 13,
-      "category": "作品衍生,美妆"
-    },
-    {
       "raw_hot": 562120,
-      "num": 562120,
+      "num": 647295,
       "word": "女生递补第一被成功补录上岸研究生",
       "onboard_time": 1712827997,
       "rank": 26,
@@ -572,7 +596,7 @@
     },
     {
       "raw_hot": 504040,
-      "num": 353118,
+      "num": 373644,
       "word": "生母虐待男孩致截肢获刑6年9个月",
       "onboard_time": 1712836697,
       "rank": 19,
@@ -633,6 +657,14 @@
       "onboard_time": 1712836097,
       "rank": 8,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 469165,
+      "num": 469165,
+      "word": "承欢记收视率",
+      "onboard_time": 1712842038,
+      "rank": 17,
+      "category": "剧集"
     },
     {
       "raw_hot": 464728,
@@ -777,6 +809,22 @@
       "onboard_time": 1712793859,
       "rank": 17,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 411677,
+      "num": 411677,
+      "word": "与凤行全员续写番外",
+      "onboard_time": 1712842219,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 385245,
+      "num": 385245,
+      "word": "易烊千玺被夸害羞了",
+      "onboard_time": 1712842998,
+      "rank": 15,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 384883,
@@ -955,6 +1003,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 329178,
+      "num": 329178,
+      "word": "许光汉易梦玲合照",
+      "onboard_time": 1712843238,
+      "rank": 18,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 328842,
       "num": 328842,
       "word": "猎罪图鉴2剧组声明",
@@ -1131,6 +1187,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 284624,
+      "num": 264937,
+      "word": "梁朝伟不做演员了可以做医生",
+      "onboard_time": 1712844260,
+      "rank": 22,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 280796,
       "num": 280796,
       "word": "RNG战队CEO自曝欠几千万快破产",
@@ -1187,6 +1251,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 269531,
+      "num": 269531,
+      "word": "Tiffany活动",
+      "onboard_time": 1712841858,
+      "rank": 25,
+      "category": "时尚,作品衍生"
+    },
+    {
       "raw_hot": 267179,
       "num": 267179,
       "word": "华为发布会没提P70",
@@ -1195,20 +1267,12 @@
       "category": "数码"
     },
     {
-      "raw_hot": 266796,
-      "num": 266796,
-      "word": "偏偏你最争气",
-      "onboard_time": 1712841679,
-      "rank": 16,
-      "category": "作品衍生"
-    },
-    {
-      "raw_hot": 258355,
-      "num": 258355,
-      "word": "承欢记收视率",
-      "onboard_time": 1712842038,
-      "rank": 17,
-      "category": "剧集"
+      "raw_hot": 261042,
+      "num": 261042,
+      "word": "韩女发圈发型",
+      "onboard_time": 1712842879,
+      "rank": 23,
+      "category": "美妆"
     },
     {
       "raw_hot": 255021,
@@ -1257,6 +1321,14 @@
       "onboard_time": 1712827217,
       "rank": 24,
       "category": "情感"
+    },
+    {
+      "raw_hot": 250418,
+      "num": 250418,
+      "word": "招商银行停发三年期五年期大额存单",
+      "onboard_time": 1712842578,
+      "rank": 24,
+      "category": "财经"
     },
     {
       "raw_hot": 247975,
@@ -1339,20 +1411,20 @@
       "category": "电影"
     },
     {
+      "raw_hot": 231618,
+      "num": 231618,
+      "word": "cp粉悬着的心终于死了",
+      "onboard_time": 1712844618,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 230845,
       "num": 230845,
       "word": "灿烂的她票房破亿",
       "onboard_time": 1712830699,
       "rank": 27,
       "category": "电影"
-    },
-    {
-      "raw_hot": 230716,
-      "num": 230716,
-      "word": "Tiffany活动",
-      "onboard_time": 1712841858,
-      "rank": 25,
-      "category": "时尚,作品衍生"
     },
     {
       "raw_hot": 228358,
@@ -1369,14 +1441,6 @@
       "onboard_time": 1712816239,
       "rank": 42,
       "category": "教育"
-    },
-    {
-      "raw_hot": 225464,
-      "num": 225464,
-      "word": "孙俪想知道邓超在证明啥",
-      "onboard_time": 1712842038,
-      "rank": 27,
-      "category": "艺人"
     },
     {
       "raw_hot": 225087,
@@ -1425,6 +1489,14 @@
       "onboard_time": 1712816539,
       "rank": 44,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 216970,
+      "num": 216970,
+      "word": "承欢记",
+      "onboard_time": 1712757020,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 216408,
@@ -1515,6 +1587,14 @@
       "category": "母婴育儿"
     },
     {
+      "raw_hot": 202851,
+      "num": 202851,
+      "word": "时代少年团重庆站",
+      "onboard_time": 1712843837,
+      "rank": 33,
+      "category": "演出"
+    },
+    {
       "raw_hot": 202323,
       "num": 202323,
       "word": "穿婚纱的杀人少女",
@@ -1603,14 +1683,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 193781,
-      "num": 193781,
-      "word": "与凤行全员续写番外",
-      "onboard_time": 1712842219,
-      "rank": 32,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 192374,
       "num": 133127,
       "word": "别再乱用红霉素软膏和红霉素眼膏",
@@ -1641,6 +1713,14 @@
       "onboard_time": 1712838798,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 190088,
+      "num": 231840,
+      "word": "神农架招聘要求遇见野人跑得快",
+      "onboard_time": 1712841257,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 188685,
@@ -1811,6 +1891,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 172884,
+      "num": 172884,
+      "word": "鞠婧祎空降翻牌",
+      "onboard_time": 1712843660,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 172748,
+      "num": 255190,
+      "word": "70后农民卖瓜子带3000户乡亲致富",
+      "onboard_time": 1712841858,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 171546,
       "num": 171546,
       "word": "为什么坐公交都喜欢往后面跑",
@@ -1937,6 +2033,14 @@
       "onboard_time": 1712798598,
       "rank": 45,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 163648,
+      "num": 163648,
+      "word": "听完电视的价格把阿姨吓跑了",
+      "onboard_time": 1712842818,
+      "rank": 39,
+      "category": "幽默"
     },
     {
       "raw_hot": 162206,
@@ -2163,6 +2267,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 145583,
+      "num": 145583,
+      "word": "各行各业女性向上走的意义",
+      "onboard_time": 1712844379,
+      "rank": 42,
+      "category": "情感"
+    },
+    {
       "raw_hot": 145393,
       "num": 145393,
       "word": "夫妇俩开车多看一眼救了一个人",
@@ -2233,22 +2345,6 @@
       "onboard_time": 1712839818,
       "rank": 44,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 139960,
-      "num": 255190,
-      "word": "70后农民卖瓜子带3000户乡亲致富",
-      "onboard_time": 1712841858,
-      "rank": 18,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 139561,
-      "num": 142263,
-      "word": "神农架招聘要求遇见野人跑得快",
-      "onboard_time": 1712841257,
-      "rank": 39,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 139122,
@@ -2329,6 +2425,14 @@
       "onboard_time": 1712799138,
       "rank": 46,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 133098,
+      "num": 133098,
+      "word": "白人午饭",
+      "onboard_time": 1712842578,
+      "rank": 44,
+      "category": "美食"
     },
     {
       "raw_hot": 132627,
@@ -2505,6 +2609,14 @@
       "onboard_time": 1712826977,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 123907,
+      "num": 123907,
+      "word": "承欢记人未出场cp搅黄",
+      "onboard_time": 1712844919,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 123888,
@@ -2787,6 +2899,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 96755,
+      "num": 121920,
+      "word": "青岛男篮vs广州男篮",
+      "onboard_time": 1712843719,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 93951,
       "num": 93951,
       "word": "Rookie尽力了",
@@ -2921,14 +3041,6 @@
       "onboard_time": 1712791574,
       "rank": 40,
       "category": "体育"
-    },
-    {
-      "raw_hot": 72067,
-      "num": 73986,
-      "word": "承欢记",
-      "onboard_time": 1712757020,
-      "rank": 47,
-      "category": "剧集"
     },
     {
       "raw_hot": 71141,
