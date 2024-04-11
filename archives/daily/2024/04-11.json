@@ -1,6 +1,6 @@
 {
   "startTime": 1712766262556,
-  "endTime": 1712806458599,
+  "endTime": 1712809225918,
   "band_list": [
     {
       "raw_hot": 2260302,
@@ -59,6 +59,22 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 1103038,
+      "num": 1103038,
+      "word": "明星客串几分钟却被当主角宣传合适吗",
+      "onboard_time": 1712805918,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 919040,
+      "num": 919040,
+      "word": "小米SU7跑滴滴",
+      "onboard_time": 1712806700,
+      "rank": 3,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 908877,
       "num": 908877,
       "word": "手机号不用了记得解绑这些账号",
@@ -68,7 +84,7 @@
     },
     {
       "raw_hot": 876463,
-      "num": 296712,
+      "num": 341607,
       "word": "床上有螨虫的3个表现",
       "onboard_time": 1712804119,
       "rank": 20,
@@ -81,6 +97,14 @@
       "onboard_time": 1712798239,
       "rank": 17,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 871085,
+      "num": 871085,
+      "word": "全面排查中小学重点班快慢班",
+      "onboard_time": 1712805020,
+      "rank": 25,
+      "category": "教育"
     },
     {
       "raw_hot": 820497,
@@ -163,6 +187,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 665980,
+      "num": 665980,
+      "word": "于正说赵丽颖白鹿都喜欢",
+      "onboard_time": 1712806579,
+      "rank": 6,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 614721,
       "num": 614721,
       "word": "阿克苏地震",
@@ -185,6 +217,14 @@
       "onboard_time": 1712801658,
       "rank": 11,
       "category": "数码"
+    },
+    {
+      "raw_hot": 585363,
+      "num": 585363,
+      "word": "武大雷军班100%具备保研资格",
+      "onboard_time": 1712806398,
+      "rank": 46,
+      "category": "教育"
     },
     {
       "raw_hot": 584446,
@@ -243,12 +283,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 479867,
-      "num": 479867,
-      "word": "全面排查中小学重点班快慢班",
-      "onboard_time": 1712805020,
-      "rank": 25,
-      "category": "教育"
+      "raw_hot": 499924,
+      "num": 511424,
+      "word": "花花好想要一双大长腿",
+      "onboard_time": 1712803098,
+      "rank": 9,
+      "category": "幽默"
     },
     {
       "raw_hot": 464728,
@@ -265,14 +305,6 @@
       "onboard_time": 1712791214,
       "rank": 26,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 456156,
-      "num": 511424,
-      "word": "花花好想要一双大长腿",
-      "onboard_time": 1712803098,
-      "rank": 9,
-      "category": "幽默"
     },
     {
       "raw_hot": 453240,
@@ -299,12 +331,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 433325,
+      "num": 433325,
+      "word": "仝卓工作室 我不是疯",
+      "onboard_time": 1712808380,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 421474,
       "num": 358579,
       "word": "形似外星生物巨型尸体冲上马来西亚海滩",
       "onboard_time": 1712796319,
       "rank": 20,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 417980,
+      "num": 417980,
+      "word": "王俊凯当选最心动男嘉宾",
+      "onboard_time": 1712806819,
+      "rank": 14,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 415522,
@@ -387,12 +435,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 354933,
+      "num": 354933,
+      "word": "创造营",
+      "onboard_time": 1712806459,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 352383,
       "num": 352383,
       "word": "有人卖出5公斤黄金变现270多万",
       "onboard_time": 1712750357,
       "rank": 8,
       "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 341890,
+      "num": 341890,
+      "word": "马立奥 小橘子还是不想动",
+      "onboard_time": 1712805798,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 325749,
@@ -409,14 +473,6 @@
       "onboard_time": 1712800639,
       "rank": 21,
       "category": "艺人,时尚"
-    },
-    {
-      "raw_hot": 310106,
-      "num": 204653,
-      "word": "马立奥 小橘子还是不想动",
-      "onboard_time": 1712805798,
-      "rank": 31,
-      "category": "艺人"
     },
     {
       "raw_hot": 304087,
@@ -467,14 +523,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 273273,
-      "num": 273273,
-      "word": "明星客串几分钟却被当主角宣传合适吗",
-      "onboard_time": 1712805918,
-      "rank": 18,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 272655,
       "num": 210643,
       "word": "五六十万存款可以回小县城躺平吗",
@@ -483,8 +531,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 256353,
-      "num": 256353,
+      "raw_hot": 271525,
+      "num": 271525,
       "word": "体态瘦腰",
       "onboard_time": 1712804057,
       "rank": 33,
@@ -497,6 +545,14 @@
       "onboard_time": 1712752458,
       "rank": 15,
       "category": "电影"
+    },
+    {
+      "raw_hot": 251363,
+      "num": 251363,
+      "word": "沈璃行止有娃后的生活",
+      "onboard_time": 1712807478,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 251325,
@@ -545,6 +601,14 @@
       "onboard_time": 1712802857,
       "rank": 42,
       "category": "情感"
+    },
+    {
+      "raw_hot": 228358,
+      "num": 228358,
+      "word": "RNG选手支出每月几百万",
+      "onboard_time": 1712803879,
+      "rank": 36,
+      "category": "电竞"
     },
     {
       "raw_hot": 225087,
@@ -651,20 +715,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 195066,
+      "num": 195066,
+      "word": "整治中小学暗箱操作掐尖招生乱象",
+      "onboard_time": 1712806579,
+      "rank": 32,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 195031,
       "num": 195031,
       "word": "与凤行",
       "onboard_time": 1712805620,
       "rank": 33,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 194145,
-      "num": 194145,
-      "word": "RNG选手支出每月几百万",
-      "onboard_time": 1712803879,
-      "rank": 36,
-      "category": "电竞"
     },
     {
       "raw_hot": 192374,
@@ -699,6 +763,14 @@
       "category": "健康医疗,科学科普"
     },
     {
+      "raw_hot": 183729,
+      "num": 183729,
+      "word": "金价狂飙背后真正推手是谁",
+      "onboard_time": 1712807540,
+      "rank": 37,
+      "category": "财经"
+    },
+    {
       "raw_hot": 183201,
       "num": 181728,
       "word": "献鱼 随地大小吻",
@@ -721,6 +793,14 @@
       "onboard_time": 1712801119,
       "rank": 32,
       "category": "教育"
+    },
+    {
+      "raw_hot": 179714,
+      "num": 179714,
+      "word": "夏目友人帐 七年后的第七季",
+      "onboard_time": 1712806099,
+      "rank": 40,
+      "category": "动漫,作品衍生"
     },
     {
       "raw_hot": 176836,
@@ -771,12 +851,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 170449,
-      "num": 170449,
-      "word": "夏目友人帐 七年后的第七季",
-      "onboard_time": 1712806099,
+      "raw_hot": 170195,
+      "num": 170195,
+      "word": "张彬彬演技",
+      "onboard_time": 1712808558,
       "rank": 40,
-      "category": "动漫,作品衍生"
+      "category": "剧集"
     },
     {
       "raw_hot": 168903,
@@ -803,6 +883,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 165351,
+      "num": 165351,
+      "word": "星穹铁道砂金 星旅一瞬",
+      "onboard_time": 1712807239,
+      "rank": 41,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 164999,
       "num": 164999,
       "word": "第一部主演回归惊天魔盗团3",
@@ -827,6 +915,22 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 162206,
+      "num": 162206,
+      "word": "花了8年时间完成的转场",
+      "onboard_time": 1712807839,
+      "rank": 45,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 160529,
+      "num": 163712,
+      "word": "重返未来1999",
+      "onboard_time": 1712808020,
+      "rank": 43,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 158161,
       "num": 480530,
       "word": "下一个世界级产品或诞生在中国",
@@ -849,6 +953,14 @@
       "onboard_time": 1712797819,
       "rank": 43,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 155733,
+      "num": 155733,
+      "word": "发布会PPT都要好好审核了",
+      "onboard_time": 1712808679,
+      "rank": 46,
+      "category": "数码"
     },
     {
       "raw_hot": 155698,
@@ -883,20 +995,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 150520,
+      "num": 150520,
+      "word": "女生想要一个体面的婚礼有错吗",
+      "onboard_time": 1712809159,
+      "rank": 47,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 149852,
+      "num": 148214,
+      "word": "穿婚纱的杀人少女",
+      "onboard_time": 1712809100,
+      "rank": 49,
+      "category": "电影"
+    },
+    {
       "raw_hot": 144178,
       "num": 144178,
       "word": "ALin 有一种悲伤",
       "onboard_time": 1712760739,
       "rank": 27,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 143665,
-      "num": 143665,
-      "word": "武大雷军班100%具备保研资格",
-      "onboard_time": 1712806398,
-      "rank": 46,
-      "category": "教育"
     },
     {
       "raw_hot": 141012,
@@ -1331,6 +1451,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 47162,
+      "num": 1007778,
+      "word": "走进黄帝故里寻根华夏文明",
+      "onboard_time": 1712807419,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 44838,
       "num": 44838,
       "word": "眼泪女王 拧巴",
@@ -1388,6 +1516,9 @@
     },
     {
       "word": "#外部的干涉阻挡不了家国团圆的历史大势#"
+    },
+    {
+      "word": "#如何把握两岸关系大局#"
     }
   ]
 }
