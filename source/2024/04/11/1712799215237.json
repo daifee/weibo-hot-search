@@ -1,0 +1,410 @@
+{
+  "runTime": 1712799215237,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1940966,
+        "num": 1940966,
+        "word": "三月三",
+        "onboard_time": 1712791335,
+        "rank": 0,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 1286608,
+        "num": 1286608,
+        "word": "黄金白银集体跳水",
+        "onboard_time": 1712792177,
+        "rank": 1,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 102862,
+        "num": 1264918,
+        "word": "我国电力系统充电宝创多项世界纪录",
+        "onboard_time": 1712757621,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1244989,
+        "num": 1244989,
+        "word": "迪丽热巴邓为 将门毒后",
+        "onboard_time": 1712794939,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1152391,
+        "num": 1152391,
+        "word": "赵丽颖拍林更新",
+        "onboard_time": 1712756718,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 795160,
+        "num": 795160,
+        "word": "手机号不用了记得解绑这些账号",
+        "onboard_time": 1712793918,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 749972,
+        "num": 749972,
+        "word": "美国费城突发大规模枪击",
+        "onboard_time": 1712795239,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 699581,
+        "num": 699581,
+        "word": "官方回应7千元手机维修费14000元",
+        "onboard_time": 1712795359,
+        "rank": 7,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 581240,
+        "num": 689593,
+        "word": "奶奶忍受了一辈子的冷暴力",
+        "onboard_time": 1712792116,
+        "rank": 8,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 94260,
+        "num": 687494,
+        "word": "福宝大口吃胡萝卜声音嘎嘣脆",
+        "onboard_time": 1712745078,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 687415,
+        "num": 687415,
+        "word": "情夫死后小三用冷冻胚胎生子争遗产",
+        "onboard_time": 1712770872,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 667450,
+        "num": 667450,
+        "word": "赵丽颖林更新超强售后",
+        "onboard_time": 1712795659,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 101830,
+        "num": 524425,
+        "word": "为什么每天刷牙还会蛀牙",
+        "onboard_time": 1712797639,
+        "rank": 12,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 512136,
+        "num": 512136,
+        "word": "湖北一公职人员殴打酒店老板称副市长跟我平级",
+        "onboard_time": 1712790314,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 453240,
+        "num": 453240,
+        "word": "丁晟说杨幂是史上最完美的幺鸡",
+        "onboard_time": 1712798119,
+        "rank": 14,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 445126,
+        "num": 445126,
+        "word": "熊祁 黎深",
+        "onboard_time": 1712793017,
+        "rank": 15,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 520580,
+        "num": 443261,
+        "word": "林更新 怎么可以让别人听到",
+        "onboard_time": 1712794520,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 425425,
+        "num": 425425,
+        "word": "00后女生打工垮脸严重向公司索赔成功",
+        "onboard_time": 1712798239,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 396415,
+        "num": 396415,
+        "word": "动物园回应大熊猫渝可捡食垃圾",
+        "onboard_time": 1712794280,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 341511,
+        "num": 362102,
+        "word": "陈都灵恭喜考研上岸粉丝",
+        "onboard_time": 1712758459,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 358579,
+        "num": 358579,
+        "word": "形似外星生物巨型尸体冲上马来西亚海滩",
+        "onboard_time": 1712796319,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 342070,
+        "num": 342070,
+        "word": "28岁开始把上班当做休息时间",
+        "onboard_time": 1712795179,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 313924,
+        "num": 313924,
+        "word": "今天起广西连休4天",
+        "onboard_time": 1712793859,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 304612,
+        "num": 304612,
+        "word": "小米汽车听劝加按键",
+        "onboard_time": 1712791214,
+        "rank": 23,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 304345,
+        "num": 304345,
+        "word": "第1天相亲第2天领证第9天就消失",
+        "onboard_time": 1712792837,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 304087,
+        "num": 304087,
+        "word": "官方回应旅韩大熊猫园欣脱毛",
+        "onboard_time": 1712797520,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 285460,
+        "num": 285460,
+        "word": "蔡文静被狗抓出2道伤痕",
+        "onboard_time": 1712798840,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 255724,
+        "num": 255724,
+        "word": "短剧放大夫妻婆媳矛盾6部被禁",
+        "onboard_time": 1712765478,
+        "rank": 27,
+        "category": "剧集,社会新闻"
+      },
+      {
+        "raw_hot": 252267,
+        "num": 252267,
+        "word": "沈月 我身边找不到在谈恋爱的人了",
+        "onboard_time": 1712761400,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 251325,
+        "num": 251325,
+        "word": "刷牙最该刷的其实不是牙齿",
+        "onboard_time": 1712795599,
+        "rank": 29,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 221580,
+        "num": 221580,
+        "word": "早睡1小时身体会发生什么变化",
+        "onboard_time": 1712792116,
+        "rank": 30,
+        "category": "健康医疗,科学科普"
+      },
+      {
+        "raw_hot": 203506,
+        "num": 203506,
+        "word": "喝水是假的吃鱼是真的",
+        "onboard_time": 1712795119,
+        "rank": 31,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 194802,
+        "num": 194802,
+        "word": "小鬼徐圣恩队友变导师",
+        "onboard_time": 1712795299,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 186299,
+        "num": 186299,
+        "word": "普通人养娃一个月要花多少钱",
+        "onboard_time": 1712794218,
+        "rank": 33,
+        "category": "母婴育儿"
+      },
+      {
+        "raw_hot": 170622,
+        "num": 170622,
+        "word": "哈马斯领导人3个儿子在以方袭击中丧生",
+        "onboard_time": 1712798897,
+        "rank": 34,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 169626,
+        "num": 169626,
+        "word": "分手一年多的前男友的现女友加我",
+        "onboard_time": 1712793318,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 166179,
+        "num": 166179,
+        "word": "拒绝花钱参加世界高校排名",
+        "onboard_time": 1712798480,
+        "rank": 36,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 158113,
+        "num": 158113,
+        "word": "肖战王玉雯超星星学园旧照",
+        "onboard_time": 1712782390,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 156928,
+        "num": 156928,
+        "word": "五六十万存款可以回小县城躺平吗",
+        "onboard_time": 1712749999,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 41101,
+        "num": 156454,
+        "word": "三月三拜轩辕",
+        "onboard_time": 1712798777,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 156126,
+        "num": 156126,
+        "word": "智己",
+        "onboard_time": 1712797819,
+        "rank": 40,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 148566,
+        "num": 148566,
+        "word": "制片人拍的虞书欣林一",
+        "onboard_time": 1712796620,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 143110,
+        "num": 143110,
+        "word": "我国废旧手机存量已超过20亿部",
+        "onboard_time": 1712797520,
+        "rank": 42,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 141012,
+        "num": 141012,
+        "word": "广西三月三宣传片",
+        "onboard_time": 1712798777,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 140450,
+        "num": 140450,
+        "word": "承欢记 伪骨科",
+        "onboard_time": 1712771053,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 135243,
+        "num": 135243,
+        "word": "喝咖啡能帮肌肉减龄",
+        "onboard_time": 1712798598,
+        "rank": 45,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 133109,
+        "num": 133109,
+        "word": "眼泪女王",
+        "onboard_time": 1712799138,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 131191,
+        "num": 131191,
+        "word": "为什么建议你23点一定要睡觉",
+        "onboard_time": 1712754679,
+        "rank": 47,
+        "category": "健康医疗,科学科普"
+      },
+      {
+        "raw_hot": 128486,
+        "num": 128486,
+        "word": "金市已出现畏高迹象",
+        "onboard_time": 1712799078,
+        "rank": 48,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 127318,
+        "num": 127318,
+        "word": "别再乱用红霉素软膏和红霉素眼膏",
+        "onboard_time": 1712790193,
+        "rank": 49,
+        "category": "健康医疗"
+      }
+    ],
+    "hotgov": {
+      "word": "#外部的干涉阻挡不了家国团圆的历史大势#"
+    }
+  }
+}
