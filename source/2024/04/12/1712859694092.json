@@ -1,0 +1,410 @@
+{
+  "runTime": 1712859694092,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 252368,
+        "num": 252368,
+        "word": "cp粉悬着的心终于死了",
+        "onboard_time": 1712844618,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 159506,
+        "num": 159506,
+        "word": "才知道医学生不用学毕业论文",
+        "onboard_time": 1712847920,
+        "rank": 1,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 27113,
+        "num": 135618,
+        "word": "广西三月三到底有多好玩",
+        "onboard_time": 1712838378,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 366697,
+        "num": 132337,
+        "word": "辛普森去世",
+        "onboard_time": 1712848759,
+        "rank": 3,
+        "category": "社会新闻,体育"
+      },
+      {
+        "raw_hot": 120467,
+        "num": 120467,
+        "word": "刘亦菲减肥法",
+        "onboard_time": 1712843660,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 146853,
+        "num": 120074,
+        "word": "林更新称呼赵丽颖赵老师",
+        "onboard_time": 1712848219,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 119446,
+        "num": 119446,
+        "word": "久违了LAY",
+        "onboard_time": 1712856433,
+        "rank": 6,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 115211,
+        "num": 115211,
+        "word": "越南女首富张美兰被判处死刑",
+        "onboard_time": 1712829978,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 103099,
+        "num": 103099,
+        "word": "为什么英国人下雨很少打伞",
+        "onboard_time": 1712845999,
+        "rank": 8,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 34433,
+        "num": 100920,
+        "word": "女生递补第一被成功补录上岸研究生",
+        "onboard_time": 1712827997,
+        "rank": 9,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 109678,
+        "num": 100669,
+        "word": "林更新说与赵丽颖搭档是荣幸",
+        "onboard_time": 1712841498,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 99717,
+        "num": 99717,
+        "word": "与凤行低了",
+        "onboard_time": 1712847499,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 82201,
+        "num": 82201,
+        "word": "雷军问网友是否支持车上有原装手机支架",
+        "onboard_time": 1712837477,
+        "rank": 12,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 79460,
+        "num": 79460,
+        "word": "以为猫咪生病了原来是猫盆漏电了",
+        "onboard_time": 1712847139,
+        "rank": 13,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 75447,
+        "num": 75447,
+        "word": "章子怡酱园弄戛纳就穿这套吧",
+        "onboard_time": 1712839878,
+        "rank": 14,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 68499,
+        "num": 68499,
+        "word": "微信打电话和直接打电话的区别",
+        "onboard_time": 1712835137,
+        "rank": 15,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 66635,
+        "num": 66635,
+        "word": "赵丽颖王伊瑶友情",
+        "onboard_time": 1712837958,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 64988,
+        "num": 64988,
+        "word": "雅诗兰黛 IU",
+        "onboard_time": 1712841439,
+        "rank": 17,
+        "category": "作品衍生,美妆"
+      },
+      {
+        "raw_hot": 59474,
+        "num": 59474,
+        "word": "麦承欢分手了",
+        "onboard_time": 1712854754,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 55434,
+        "num": 55434,
+        "word": "熊祁 恋与深空",
+        "onboard_time": 1712838798,
+        "rank": 19,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 124035,
+        "num": 54967,
+        "word": "朴彩英双眼皮",
+        "onboard_time": 1712837357,
+        "rank": 20,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 106757,
+        "num": 54589,
+        "word": "换儿子血的亿万富翁展示3年抗衰成果",
+        "onboard_time": 1712835377,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 55658,
+        "num": 53447,
+        "word": "张予曦像穿了中国风的洋娃娃",
+        "onboard_time": 1712851396,
+        "rank": 22,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 79827,
+        "num": 52745,
+        "word": "孙俪想知道邓超在证明啥",
+        "onboard_time": 1712842038,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 59169,
+        "num": 51916,
+        "word": "infp网络活蝶",
+        "onboard_time": 1712854094,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 51712,
+        "num": 51712,
+        "word": "高校回应女子一丝不挂大闹男生宿舍",
+        "onboard_time": 1712828777,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 50261,
+        "num": 50261,
+        "word": "偏偏你最争气",
+        "onboard_time": 1712841679,
+        "rank": 26,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 44386,
+        "num": 44386,
+        "word": "TES被偷家",
+        "onboard_time": 1712848519,
+        "rank": 27,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 34448,
+        "num": 42557,
+        "word": "招商银行停发三年期五年期大额存单",
+        "onboard_time": 1712842578,
+        "rank": 28,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 24867,
+        "num": 42303,
+        "word": "巴黎奥运铁人三项或因塞纳河太脏改为两项",
+        "onboard_time": 1712846239,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 42266,
+        "num": 42266,
+        "word": "易烊千玺粉色小包",
+        "onboard_time": 1712850200,
+        "rank": 30,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 38772,
+        "num": 38772,
+        "word": "张颂文第一反应竟是上手",
+        "onboard_time": 1712858172,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 31195,
+        "num": 36403,
+        "word": "卖房让娃退学环游世界的家庭怎么样了",
+        "onboard_time": 1712832977,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 36083,
+        "num": 36083,
+        "word": "蓝盈莹也做了甘露寺美甲",
+        "onboard_time": 1712827397,
+        "rank": 33,
+        "category": "作品衍生,美妆"
+      },
+      {
+        "raw_hot": 32846,
+        "num": 32846,
+        "word": "雷军说余承东调侃小米手机支架没事",
+        "onboard_time": 1712846358,
+        "rank": 34,
+        "category": "数码,互联网"
+      },
+      {
+        "raw_hot": 31673,
+        "num": 31673,
+        "word": "许光汉易梦玲合照",
+        "onboard_time": 1712843238,
+        "rank": 35,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 31658,
+        "num": 31658,
+        "word": "告诉辛家亮他爸出轨了",
+        "onboard_time": 1712845579,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 31115,
+        "num": 31115,
+        "word": "张杰预告南昌演唱会",
+        "onboard_time": 1712858892,
+        "rank": 37,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 29539,
+        "num": 30577,
+        "word": "Uzi谈RNG欠钱",
+        "onboard_time": 1712845761,
+        "rank": 38,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 27683,
+        "num": 30532,
+        "word": "BLG晋级2024MSI",
+        "onboard_time": 1712847499,
+        "rank": 39,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 30520,
+        "num": 30520,
+        "word": "大侦探就这样拍到一百季吧",
+        "onboard_time": 1712846720,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 28817,
+        "num": 30518,
+        "word": "手术直播间女主播被喷泉冲飞",
+        "onboard_time": 1712850618,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 28574,
+        "num": 30507,
+        "word": "朱一龙的生日蛋糕是朱1龙",
+        "onboard_time": 1712854334,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 26916,
+        "num": 30499,
+        "word": "369表现",
+        "onboard_time": 1712849719,
+        "rank": 43,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 25716,
+        "num": 30488,
+        "word": "魏大勋生日应援",
+        "onboard_time": 1712854155,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 24922,
+        "num": 30475,
+        "word": "在俊痛失本名",
+        "onboard_time": 1712859612,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 24847,
+        "num": 30467,
+        "word": "调休快把四月调成单休了",
+        "onboard_time": 1712817918,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 23974,
+        "num": 30460,
+        "word": "与凤行全员续写番外",
+        "onboard_time": 1712842219,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 23338,
+        "num": 30451,
+        "word": "Bin哥厉害",
+        "onboard_time": 1712848638,
+        "rank": 48,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 22572,
+        "num": 30438,
+        "word": "女子在老公帮助下减重60斤恢复自信",
+        "onboard_time": 1712845280,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#两岸青年好两岸未来才会好#"
+    }
+  }
+}
