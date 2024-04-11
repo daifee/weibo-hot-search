@@ -1,6 +1,6 @@
 {
   "startTime": 1712852435435,
-  "endTime": 1712855826065,
+  "endTime": 1712856869756,
   "band_list": [
     {
       "raw_hot": 2145005,
@@ -267,6 +267,14 @@
       "category": "数码,互联网"
     },
     {
+      "raw_hot": 121618,
+      "num": 95600,
+      "word": "久违了LAY",
+      "onboard_time": 1712856433,
+      "rank": 17,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 120342,
       "num": 120342,
       "word": "369表现",
@@ -443,12 +451,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 41137,
+      "raw_hot": 41871,
       "num": 313538,
       "word": "广西三月三到底有多好玩",
       "onboard_time": 1712838378,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 38072,
+      "num": 43646,
+      "word": "薛之谦重庆",
+      "onboard_time": 1712856073,
+      "rank": 44,
+      "category": "演出"
     },
     {
       "raw_hot": 35087,
@@ -457,6 +473,14 @@
       "onboard_time": 1712854635,
       "rank": 49,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 24740,
+      "num": 43119,
+      "word": "太阳vs快船",
+      "onboard_time": 1712855714,
+      "rank": 49,
+      "category": "体育"
     }
   ],
   "hotgov_list": [
