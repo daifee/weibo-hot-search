@@ -1,0 +1,410 @@
+{
+  "runTime": 1712824661398,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1054371,
+        "num": 1054371,
+        "word": "五一调休",
+        "onboard_time": 1712823199,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 768022,
+        "num": 768022,
+        "word": "官方称华晨宇烟台演唱会未违规用地",
+        "onboard_time": 1712821518,
+        "rank": 1,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 250728,
+        "num": 747907,
+        "word": "三月三是什么节",
+        "onboard_time": 1712822058,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 739830,
+        "num": 739830,
+        "word": "华为发布会",
+        "onboard_time": 1712814557,
+        "rank": 3,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 497765,
+        "num": 497765,
+        "word": "去世的妻生病的娃破碎的他",
+        "onboard_time": 1712818939,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 460021,
+        "num": 460021,
+        "word": "有人专门投资让未成年人偷手机",
+        "onboard_time": 1712820498,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 420780,
+        "num": 420780,
+        "word": "华为MateBook",
+        "onboard_time": 1712823498,
+        "rank": 6,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 1789698,
+        "num": 414430,
+        "word": "金星复婚",
+        "onboard_time": 1712814498,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 316196,
+        "num": 316196,
+        "word": "金星秀国际版要来了",
+        "onboard_time": 1712821157,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 169887,
+        "num": 315651,
+        "word": "花花好想要一双大长腿",
+        "onboard_time": 1712803098,
+        "rank": 9,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 1939020,
+        "num": 314599,
+        "word": "调休快把四月调成单休了",
+        "onboard_time": 1712817918,
+        "rank": 10,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 565366,
+        "num": 313781,
+        "word": "仝卓工作室称将起诉王凯",
+        "onboard_time": 1712823079,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 485690,
+        "num": 313652,
+        "word": "余承东称华为智驾是现货不是期货",
+        "onboard_time": 1712822058,
+        "rank": 12,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 419665,
+        "num": 312647,
+        "word": "多动症男孩欺负同学46名家长请愿其转学",
+        "onboard_time": 1712815278,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 27541,
+        "num": 311826,
+        "word": "钟表与奇迹制表工艺",
+        "onboard_time": 1712822418,
+        "rank": 14,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 338960,
+        "num": 310918,
+        "word": "500万的黄金和房子20年后谁更值钱",
+        "onboard_time": 1712824339,
+        "rank": 15,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 310343,
+        "num": 310343,
+        "word": "赵丽颖林更新再拍部剧吧",
+        "onboard_time": 1712821578,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 267179,
+        "num": 267179,
+        "word": "华为发布会没提P70",
+        "onboard_time": 1712823797,
+        "rank": 17,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 239172,
+        "num": 239172,
+        "word": "任嘉伦好薄一片",
+        "onboard_time": 1712823741,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 218073,
+        "num": 218073,
+        "word": "医保部门从未规定单次住院不超过15天",
+        "onboard_time": 1712815819,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 346642,
+        "num": 216533,
+        "word": "性早熟的5个真相",
+        "onboard_time": 1712819478,
+        "rank": 20,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 309253,
+        "num": 215878,
+        "word": "为什么年轻人越来越讨厌上班",
+        "onboard_time": 1712820438,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 250825,
+        "num": 214066,
+        "word": "林更新事业心",
+        "onboard_time": 1712820258,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 300571,
+        "num": 210500,
+        "word": "杭州一公司50万年薪招聘代嫁师",
+        "onboard_time": 1712822838,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 210151,
+        "num": 210151,
+        "word": "床上有螨虫的3个表现",
+        "onboard_time": 1712804119,
+        "rank": 24,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 204088,
+        "num": 204088,
+        "word": "余承东问车上为何要搞手机支架",
+        "onboard_time": 1712824278,
+        "rank": 25,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 199014,
+        "num": 199014,
+        "word": "问界m9",
+        "onboard_time": 1712819838,
+        "rank": 26,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 189160,
+        "num": 189160,
+        "word": "和赵露思小时候的合照",
+        "onboard_time": 1712823916,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 184947,
+        "num": 184947,
+        "word": "赵丽颖林更新摸头抱",
+        "onboard_time": 1712813239,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 178390,
+        "num": 178390,
+        "word": "于正再怼曾舜晞粉丝",
+        "onboard_time": 1712823679,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 161527,
+        "num": 161527,
+        "word": "ZB1泡泡终止",
+        "onboard_time": 1712819478,
+        "rank": 30,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 160621,
+        "num": 160621,
+        "word": "魏若来 我一点都不可爱",
+        "onboard_time": 1712823979,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 160348,
+        "num": 160348,
+        "word": "小金毛一怒之下怒了一下",
+        "onboard_time": 1712822898,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 157032,
+        "num": 157032,
+        "word": "睡着后身份证被弟弟拿走贷了30万",
+        "onboard_time": 1712815700,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 155565,
+        "num": 155565,
+        "word": "王铮亮 0713领头羊",
+        "onboard_time": 1712823858,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 149991,
+        "num": 149991,
+        "word": "猎罪图鉴2剧组声明",
+        "onboard_time": 1712818457,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 142581,
+        "num": 142581,
+        "word": "老师说他只是吃到了时代的红利",
+        "onboard_time": 1712821039,
+        "rank": 36,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 141724,
+        "num": 141724,
+        "word": "为什么坐公交都喜欢往后面跑",
+        "onboard_time": 1712822357,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 134925,
+        "num": 134925,
+        "word": "夫妇俩开车多看一眼救了一个人",
+        "onboard_time": 1712818878,
+        "rank": 38,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 133916,
+        "num": 133916,
+        "word": "仝卓工作室称未开拍就为王凯团队花30万",
+        "onboard_time": 1712811920,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 124193,
+        "num": 124193,
+        "word": "夏以昼 好久不见妹妹",
+        "onboard_time": 1712822898,
+        "rank": 40,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 122654,
+        "num": 122654,
+        "word": "小米SU7跑滴滴",
+        "onboard_time": 1712806700,
+        "rank": 41,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 122535,
+        "num": 122535,
+        "word": "退休公务员横漂演短剧",
+        "onboard_time": 1712816359,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 121100,
+        "num": 121100,
+        "word": "浪5 一群女人的欢乐氛围",
+        "onboard_time": 1712819718,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 112301,
+        "num": 112301,
+        "word": "纪凌尘松懈感",
+        "onboard_time": 1712821939,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 111899,
+        "num": 111899,
+        "word": "狗狗认可你的6种表现",
+        "onboard_time": 1712824579,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 111149,
+        "num": 111149,
+        "word": "刷牙不刷舌头约等于白刷",
+        "onboard_time": 1712802438,
+        "rank": 46,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 110718,
+        "num": 110718,
+        "word": "教资成绩 过",
+        "onboard_time": 1712816239,
+        "rank": 47,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 110424,
+        "num": 110424,
+        "word": "猫咪总能找到适合尺寸的猫窝",
+        "onboard_time": 1712822058,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 102455,
+        "num": 102455,
+        "word": "怎么劝说家长同意大学谈恋爱",
+        "onboard_time": 1712824637,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#两岸青年好两岸未来才会好#"
+    }
+  }
+}

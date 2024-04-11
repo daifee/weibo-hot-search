@@ -1,6 +1,6 @@
 {
   "startTime": 1712766262556,
-  "endTime": 1712823842858,
+  "endTime": 1712824661398,
   "band_list": [
     {
       "raw_hot": 4878022,
@@ -91,6 +91,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1054371,
+      "num": 1054371,
+      "word": "五一调休",
+      "onboard_time": 1712823199,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 961122,
       "num": 501212,
       "word": "仝卓工作室 我不是疯",
@@ -171,6 +179,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 768022,
+      "num": 768022,
+      "word": "官方称华晨宇烟台演唱会未违规用地",
+      "onboard_time": 1712821518,
+      "rank": 3,
+      "category": "演出"
+    },
+    {
       "raw_hot": 757781,
       "num": 757781,
       "word": "63岁阿姨健身8年身材如少女",
@@ -233,14 +249,6 @@
       "onboard_time": 1712761400,
       "rank": 1,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 674513,
-      "num": 674513,
-      "word": "官方称华晨宇烟台演唱会未违规用地",
-      "onboard_time": 1712821518,
-      "rank": 3,
-      "category": "演出"
     },
     {
       "raw_hot": 673248,
@@ -323,6 +331,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 565366,
+      "num": 314670,
+      "word": "仝卓工作室称将起诉王凯",
+      "onboard_time": 1712823079,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 552349,
       "num": 552349,
       "word": "新颖夫妇",
@@ -395,8 +411,8 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 494706,
-      "num": 494706,
+      "raw_hot": 497765,
+      "num": 497765,
       "word": "去世的妻生病的娃破碎的他",
       "onboard_time": 1712818939,
       "rank": 13,
@@ -483,19 +499,19 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 420780,
+      "num": 420780,
+      "word": "华为MateBook",
+      "onboard_time": 1712823498,
+      "rank": 12,
+      "category": "数码"
+    },
+    {
       "raw_hot": 415522,
       "num": 415522,
       "word": "今天起广西连休4天",
       "onboard_time": 1712793859,
       "rank": 17,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 403501,
-      "num": 403501,
-      "word": "五一调休",
-      "onboard_time": 1712823199,
-      "rank": 7,
       "category": "社会新闻"
     },
     {
@@ -532,7 +548,7 @@
     },
     {
       "raw_hot": 376481,
-      "num": 215791,
+      "num": 216533,
       "word": "性早熟的5个真相",
       "onboard_time": 1712819478,
       "rank": 34,
@@ -619,20 +635,20 @@
       "category": "财经,社会新闻"
     },
     {
-      "raw_hot": 350805,
-      "num": 350805,
-      "word": "华为MateBook",
-      "onboard_time": 1712823498,
-      "rank": 12,
-      "category": "数码"
-    },
-    {
       "raw_hot": 341890,
       "num": 341890,
       "word": "马立奥 小橘子还是不想动",
       "onboard_time": 1712805798,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 338960,
+      "num": 310918,
+      "word": "500万的黄金和房子20年后谁更值钱",
+      "onboard_time": 1712824339,
+      "rank": 15,
+      "category": "财经"
     },
     {
       "raw_hot": 334757,
@@ -675,12 +691,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 314670,
-      "num": 314670,
-      "word": "仝卓工作室称将起诉王凯",
-      "onboard_time": 1712823079,
-      "rank": 13,
-      "category": "艺人"
+      "raw_hot": 316196,
+      "num": 316196,
+      "word": "金星秀国际版要来了",
+      "onboard_time": 1712821157,
+      "rank": 15,
+      "category": "综艺"
     },
     {
       "raw_hot": 313509,
@@ -729,6 +745,14 @@
       "onboard_time": 1712792116,
       "rank": 24,
       "category": "健康医疗,科学科普"
+    },
+    {
+      "raw_hot": 300571,
+      "num": 215371,
+      "word": "杭州一公司50万年薪招聘代嫁师",
+      "onboard_time": 1712822838,
+      "rank": 23,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 299782,
@@ -787,28 +811,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 284883,
-      "num": 284883,
-      "word": "金星秀国际版要来了",
-      "onboard_time": 1712821157,
-      "rank": 15,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 280796,
       "num": 280796,
       "word": "RNG战队CEO自曝欠几千万快破产",
       "onboard_time": 1712800759,
       "rank": 24,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 277746,
-      "num": 215371,
-      "word": "杭州一公司50万年薪招聘代嫁师",
-      "onboard_time": 1712822838,
-      "rank": 23,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 276875,
@@ -835,6 +843,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 267179,
+      "num": 267179,
+      "word": "华为发布会没提P70",
+      "onboard_time": 1712823797,
+      "rank": 48,
+      "category": "数码"
+    },
+    {
       "raw_hot": 253705,
       "num": 234666,
       "word": "热辣滚烫最终票房34.6亿",
@@ -857,6 +873,14 @@
       "onboard_time": 1712795599,
       "rank": 49,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 250728,
+      "num": 1174721,
+      "word": "三月三是什么节",
+      "onboard_time": 1712822058,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 247627,
@@ -889,6 +913,14 @@
       "onboard_time": 1712804119,
       "rank": 29,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 239172,
+      "num": 239172,
+      "word": "任嘉伦好薄一片",
+      "onboard_time": 1712823741,
+      "rank": 45,
+      "category": "艺人"
     },
     {
       "raw_hot": 237718,
@@ -1019,6 +1051,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 204088,
+      "num": 204088,
+      "word": "余承东问车上为何要搞手机支架",
+      "onboard_time": 1712824278,
+      "rank": 25,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 203924,
       "num": 203924,
       "word": "普通人养娃一个月要花多少钱",
@@ -1123,6 +1163,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 189160,
+      "num": 189160,
+      "word": "和赵露思小时候的合照",
+      "onboard_time": 1712823916,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 188685,
       "num": 188685,
       "word": "甄嬛传中沈眉庄为何能复宠",
@@ -1203,12 +1251,12 @@
       "category": "动漫,作品衍生"
     },
     {
-      "raw_hot": 178238,
-      "num": 1174721,
-      "word": "三月三是什么节",
-      "onboard_time": 1712822058,
-      "rank": 2,
-      "category": "社会新闻"
+      "raw_hot": 178390,
+      "num": 178390,
+      "word": "于正再怼曾舜晞粉丝",
+      "onboard_time": 1712823679,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 176836,
@@ -1379,12 +1427,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 160621,
+      "num": 160621,
+      "word": "魏若来 我一点都不可爱",
+      "onboard_time": 1712823979,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 160529,
       "num": 163712,
       "word": "重返未来1999",
       "onboard_time": 1712808020,
       "rank": 43,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 160348,
+      "num": 160348,
+      "word": "小金毛一怒之下怒了一下",
+      "onboard_time": 1712822898,
+      "rank": 33,
+      "category": "幽默"
     },
     {
       "raw_hot": 158161,
@@ -1425,6 +1489,14 @@
       "onboard_time": 1712797100,
       "rank": 35,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 155565,
+      "num": 155565,
+      "word": "王铮亮 0713领头羊",
+      "onboard_time": 1712823858,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 154968,
@@ -1475,14 +1547,6 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 147241,
-      "num": 147241,
-      "word": "小金毛一怒之下怒了一下",
-      "onboard_time": 1712822898,
-      "rank": 33,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 146346,
       "num": 155419,
       "word": "有头部券商融券池全部收回",
@@ -1523,8 +1587,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 142397,
-      "num": 142397,
+      "raw_hot": 142581,
+      "num": 142581,
       "word": "老师说他只是吃到了时代的红利",
       "onboard_time": 1712821039,
       "rank": 34,
@@ -1593,14 +1657,6 @@
       "onboard_time": 1712822058,
       "rank": 38,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 133216,
-      "num": 133216,
-      "word": "于正再怼曾舜晞粉丝",
-      "onboard_time": 1712823679,
-      "rank": 39,
-      "category": "艺人"
     },
     {
       "raw_hot": 133109,
@@ -1739,6 +1795,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 124193,
+      "num": 124193,
+      "word": "夏以昼 好久不见妹妹",
+      "onboard_time": 1712822898,
+      "rank": 44,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 123888,
       "num": 123888,
       "word": "蒲熠星新歌 摩斯密码",
@@ -1753,14 +1817,6 @@
       "onboard_time": 1712812998,
       "rank": 45,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 122906,
-      "num": 122906,
-      "word": "夏以昼 好久不见妹妹",
-      "onboard_time": 1712822898,
-      "rank": 44,
-      "category": "游戏"
     },
     {
       "raw_hot": 122852,
@@ -1811,14 +1867,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 118904,
-      "num": 118904,
-      "word": "任嘉伦好薄一片",
-      "onboard_time": 1712823741,
-      "rank": 45,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 117905,
       "num": 117905,
       "word": "刘冠麟 助助兴",
@@ -1843,6 +1891,14 @@
       "category": "动漫,作品衍生"
     },
     {
+      "raw_hot": 111899,
+      "num": 111899,
+      "word": "狗狗认可你的6种表现",
+      "onboard_time": 1712824579,
+      "rank": 45,
+      "category": "情感"
+    },
+    {
       "raw_hot": 111438,
       "num": 111438,
       "word": "RNG新CEO称要做史上第一个公众战队",
@@ -1857,14 +1913,6 @@
       "onboard_time": 1712757140,
       "rank": 36,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 110201,
-      "num": 110201,
-      "word": "华为发布会没提P70",
-      "onboard_time": 1712823797,
-      "rank": 48,
-      "category": "数码"
     },
     {
       "raw_hot": 107841,
@@ -1889,6 +1937,14 @@
       "onboard_time": 1712760921,
       "rank": 40,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 102455,
+      "num": 102455,
+      "word": "怎么劝说家长同意大学谈恋爱",
+      "onboard_time": 1712824637,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 101787,
@@ -2163,8 +2219,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 21877,
-      "num": 291119,
+      "raw_hot": 27541,
+      "num": 311826,
       "word": "钟表与奇迹制表工艺",
       "onboard_time": 1712822418,
       "rank": 14,
@@ -2202,6 +2258,9 @@
     },
     {
       "word": "#民族复兴需要两岸同胞同心共创接续奋斗#"
+    },
+    {
+      "word": "#两岸青年好两岸未来才会好#"
     }
   ]
 }
