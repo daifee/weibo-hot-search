@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/04/01 00:20:44 ~ 2024/04/11 23:34:31
+本榜单时间：2024/04/01 00:20:44 ~ 2024/04/12 00:20:35
 </p>
 </blockquote>
 <p>
@@ -233,6 +233,12 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%88%B1%E5%A5%87%E8%89%BA2024%E9%A6%96%E9%83%A8%E7%A0%B4%E4%B8%87%E5%89%A7%23" target="weibo">
 爱奇艺2024首部破万剧（热度：2151171）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%BE%9B%E6%99%AE%E6%A3%AE%E5%8E%BB%E4%B8%96%23" target="weibo">
+辛普森去世（热度：2145005）
 </a>
 </li>
 
@@ -1055,12 +1061,6 @@ ZARA回应撤出中国传闻（热度：1355755）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B2%88%E8%BF%91%E7%9C%9F%E4%B8%8B%E7%BA%BF%23" target="weibo">
 沈近真下线（热度：1332179）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%BE%9B%E6%99%AE%E6%A3%AE%E5%8E%BB%E4%B8%96%23" target="weibo">
-辛普森去世（热度：1326463）
 </a>
 </li>
 
@@ -2891,6 +2891,12 @@ infp 最接近神的人格（热度：822265）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%A9%E5%81%9A%E9%98%91%E5%B0%BE%E5%88%87%E9%99%A4%E6%9C%AF5%E5%B9%B4%E5%90%8E%E9%98%91%E5%B0%BE%E8%BF%98%E5%9C%A8%23" target="weibo">
 男孩做阑尾切除术5年后阑尾还在（热度：775354）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%89%8D%E7%9F%A5%E9%81%93%E5%8C%BB%E5%AD%A6%E7%94%9F%E4%B8%8D%E7%94%A8%E5%AD%A6%E6%AF%95%E4%B8%9A%E8%AE%BA%E6%96%87%23" target="weibo">
+才知道医学生不用学毕业论文（热度：774930）
 </a>
 </li>
 
@@ -4889,12 +4895,6 @@ neinei十年前后变化（热度：558049）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BA%A2%E5%8F%91%E6%9D%A8%E5%B9%82%23" target="weibo">
 红发杨幂（热度：551657）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%89%8D%E7%9F%A5%E9%81%93%E5%8C%BB%E5%AD%A6%E7%94%9F%E4%B8%8D%E7%94%A8%E5%AD%A6%E6%AF%95%E4%B8%9A%E8%AE%BA%E6%96%87%23" target="weibo">
-才知道医学生不用学毕业论文（热度：550829）
 </a>
 </li>
 

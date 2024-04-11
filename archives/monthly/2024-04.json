@@ -1,6 +1,6 @@
 {
   "startTime": 1711902044401,
-  "endTime": 1712849671111,
+  "endTime": 1712852435435,
   "band_list": [
     {
       "raw_hot": 16874674,
@@ -297,6 +297,14 @@
       "onboard_time": 1712412500,
       "rank": 40,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 2145005,
+      "num": 725184,
+      "word": "辛普森去世",
+      "onboard_time": 1712848759,
+      "rank": 3,
+      "category": "社会新闻,体育"
     },
     {
       "raw_hot": 2142677,
@@ -1393,14 +1401,6 @@
       "onboard_time": 1712400798,
       "rank": 5,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 1326463,
-      "num": 725184,
-      "word": "辛普森去世",
-      "onboard_time": 1712848759,
-      "rank": 3,
-      "category": "社会新闻,体育"
     },
     {
       "raw_hot": 1320042,
@@ -3841,6 +3841,14 @@
       "onboard_time": 1712403618,
       "rank": 6,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 774930,
+      "num": 774930,
+      "word": "才知道医学生不用学毕业论文",
+      "onboard_time": 1712847920,
+      "rank": 18,
+      "category": "教育"
     },
     {
       "raw_hot": 774644,
@@ -6505,14 +6513,6 @@
       "onboard_time": 1712305217,
       "rank": 42,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 550829,
-      "num": 550829,
-      "word": "才知道医学生不用学毕业论文",
-      "onboard_time": 1712847920,
-      "rank": 18,
-      "category": "教育"
     },
     {
       "raw_hot": 550429,
@@ -20715,6 +20715,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 187536,
+      "num": 180626,
+      "word": "手术直播间女主播被喷泉冲飞",
+      "onboard_time": 1712850618,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 187509,
       "num": 187509,
       "word": "不背单词崩了",
@@ -21667,6 +21675,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 179796,
+      "num": 179796,
+      "word": "张予曦像穿了中国风的洋娃娃",
+      "onboard_time": 1712851396,
+      "rank": 26,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 179720,
       "num": 179720,
       "word": "台湾地震仍有56人受困",
@@ -22577,6 +22593,14 @@
       "onboard_time": 1712380518,
       "rank": 47,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 171359,
+      "num": 171359,
+      "word": "易烊千玺粉色小包",
+      "onboard_time": 1712850200,
+      "rank": 30,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 171321,
@@ -28257,6 +28281,14 @@
       "onboard_time": 1712298197,
       "rank": 43,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 120342,
+      "num": 120342,
+      "word": "369表现",
+      "onboard_time": 1712849719,
+      "rank": 34,
+      "category": "电竞"
     },
     {
       "raw_hot": 120223,

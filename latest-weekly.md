@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/04/07 00:22:19 ~ 2024/04/11 23:34:31
+本榜单时间：2024/04/07 00:22:19 ~ 2024/04/12 00:20:35
 </p>
 </blockquote>
 <p>
@@ -107,6 +107,12 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%99%90%E7%8C%AB%E8%80%83%E7%94%9F%E8%AF%B4%E4%B8%8D%E6%98%AF%E5%BE%88%E6%87%82%E7%BD%91%E7%BB%9C%E8%88%86%E8%AE%BA%E6%9A%82%E4%B8%8D%E5%9B%9E%E5%BA%94%23" target="weibo">
 虐猫考生说不是很懂网络舆论暂不回应（热度：2184126）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%BE%9B%E6%99%AE%E6%A3%AE%E5%8E%BB%E4%B8%96%23" target="weibo">
+辛普森去世（热度：2145005）
 </a>
 </li>
 
@@ -437,12 +443,6 @@ ZARA回应撤出中国传闻（热度：1355755）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%AC%AC%E4%B8%80%E6%AC%A1%E8%A7%81%E5%B7%A5%E4%BD%9C%E5%AE%A4%E6%8D%B6%E6%AD%A3%E4%B8%BB%23" target="weibo">
 第一次见工作室捶正主（热度：1335647）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%BE%9B%E6%99%AE%E6%A3%AE%E5%8E%BB%E4%B8%96%23" target="weibo">
-辛普森去世（热度：1326463）
 </a>
 </li>
 
@@ -1325,6 +1325,12 @@ infp 最接近神的人格（热度：822265）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%89%BF%E6%AC%A2%E8%AE%B0%E6%94%B6%E8%A7%86%E7%8E%87%23" target="weibo">
 承欢记收视率（热度：776242）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%89%8D%E7%9F%A5%E9%81%93%E5%8C%BB%E5%AD%A6%E7%94%9F%E4%B8%8D%E7%94%A8%E5%AD%A6%E6%AF%95%E4%B8%9A%E8%AE%BA%E6%96%87%23" target="weibo">
+才知道医学生不用学毕业论文（热度：774930）
 </a>
 </li>
 
@@ -2249,12 +2255,6 @@ ZARA撤出中国市场系不实消息（热度：567725）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%B5%B5%E5%A5%95%E6%AC%A2%E8%A2%AB%E6%9D%8E%E8%8F%B2%E5%84%BF%E9%80%BC%E5%93%AD%23" target="weibo">
 赵奕欢被李菲儿逼哭（热度：551246）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%89%8D%E7%9F%A5%E9%81%93%E5%8C%BB%E5%AD%A6%E7%94%9F%E4%B8%8D%E7%94%A8%E5%AD%A6%E6%AF%95%E4%B8%9A%E8%AE%BA%E6%96%87%23" target="weibo">
-才知道医学生不用学毕业论文（热度：550829）
 </a>
 </li>
 
@@ -7377,6 +7377,12 @@ JDG对战NIP（热度：188947）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%89%8B%E6%9C%AF%E7%9B%B4%E6%92%AD%E9%97%B4%E5%A5%B3%E4%B8%BB%E6%92%AD%E8%A2%AB%E5%96%B7%E6%B3%89%E5%86%B2%E9%A3%9E%23" target="weibo">
+手术直播间女主播被喷泉冲飞（热度：187536）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%8D%E8%83%8C%E5%8D%95%E8%AF%8D%E5%B4%A9%E4%BA%86%23" target="weibo">
 不背单词崩了（热度：187509）
 </a>
@@ -7749,6 +7755,12 @@ aespa巡演（热度：180449）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E4%BA%88%E6%9B%A6%E5%83%8F%E7%A9%BF%E4%BA%86%E4%B8%AD%E5%9B%BD%E9%A3%8E%E7%9A%84%E6%B4%8B%E5%A8%83%E5%A8%83%23" target="weibo">
+张予曦像穿了中国风的洋娃娃（热度：179796）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A4%8F%E7%9B%AE%E5%8F%8B%E4%BA%BA%E5%B8%90%20%E4%B8%83%E5%B9%B4%E5%90%8E%E7%9A%84%E7%AC%AC%E4%B8%83%E5%AD%A3%23" target="weibo">
 夏目友人帐 七年后的第七季（热度：179714）
 </a>
@@ -8081,6 +8093,12 @@ AMI大秀（热度：174759）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B5%AA5%20%E4%B8%80%E7%BE%A4%E5%A5%B3%E4%BA%BA%E7%9A%84%E6%AC%A2%E4%B9%90%E6%B0%9B%E5%9B%B4%23" target="weibo">
 浪5 一群女人的欢乐氛围（热度：171545）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%98%93%E7%83%8A%E5%8D%83%E7%8E%BA%E7%B2%89%E8%89%B2%E5%B0%8F%E5%8C%85%23" target="weibo">
+易烊千玺粉色小包（热度：171359）
 </a>
 </li>
 
@@ -10163,6 +10181,12 @@ CBA常规赛奖项公布（热度：122039）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E4%B8%80%E5%8D%9A%E4%BB%A5%E8%A7%92%E8%89%B2%E8%A1%A8%E8%BE%BE%E5%AF%B9%E8%AD%A6%E5%AF%9F%E7%9A%84%E6%95%AC%E6%84%8F%23" target="weibo">
 王一博以角色表达对警察的敬意（热度：120462）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23369%E8%A1%A8%E7%8E%B0%23" target="weibo">
+369表现（热度：120342）
 </a>
 </li>
 
