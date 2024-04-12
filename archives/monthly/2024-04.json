@@ -1,6 +1,6 @@
 {
   "startTime": 1711902044401,
-  "endTime": 1712920663727,
+  "endTime": 1712921662913,
   "band_list": [
     {
       "raw_hot": 16874674,
@@ -99,6 +99,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 3760420,
+      "num": 3760420,
+      "word": "网红猫一杯道歉",
+      "onboard_time": 1712919798,
+      "rank": 1,
+      "category": "网红"
+    },
+    {
       "raw_hot": 3397715,
       "num": 3397715,
       "word": "高铁停运",
@@ -187,8 +195,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 2574777,
-      "num": 2574777,
+      "raw_hot": 2586299,
+      "num": 2586299,
       "word": "秦朗丢寒假作业系摆拍博主被处罚",
       "onboard_time": 1712919678,
       "rank": 0,
@@ -745,14 +753,6 @@
       "onboard_time": 1712363597,
       "rank": 0,
       "category": "情感"
-    },
-    {
-      "raw_hot": 1708930,
-      "num": 1708930,
-      "word": "网红猫一杯道歉",
-      "onboard_time": 1712919798,
-      "rank": 1,
-      "category": "网红"
     },
     {
       "raw_hot": 1708706,
@@ -10587,6 +10587,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 385543,
+      "num": 385543,
+      "word": "陆柯燃工作室严正声明",
+      "onboard_time": 1712919678,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 385447,
       "num": 385447,
       "word": "P70发不发售",
@@ -11371,14 +11379,6 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 356623,
-      "num": 356623,
-      "word": "陆柯燃工作室严正声明",
-      "onboard_time": 1712919678,
-      "rank": 17,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 356571,
       "num": 356571,
       "word": "金秀贤金智媛德国合照",
@@ -11963,6 +11963,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 340404,
+      "num": 340404,
+      "word": "赵露思王安宇拥抱",
+      "onboard_time": 1712920698,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 340210,
       "num": 340210,
       "word": "邓科夸林更新演什么像什么",
@@ -11977,6 +11985,14 @@
       "onboard_time": 1712378357,
       "rank": 23,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 339683,
+      "num": 339683,
+      "word": "金泰亨伤痕",
+      "onboard_time": 1712920218,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 339461,
@@ -15939,6 +15955,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 249859,
+      "num": 206669,
+      "word": "赵露思冰蓝眼妆",
+      "onboard_time": 1712919856,
+      "rank": 25,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 249755,
       "num": 249755,
       "word": "销售回复孙坚包包掉漆掉毛",
@@ -17051,6 +17075,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 233419,
+      "num": 221353,
+      "word": "种地吧这一期封神",
+      "onboard_time": 1712918779,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 233413,
       "num": 233413,
       "word": "刘耀文 有我这口就有你一口",
@@ -17969,14 +18001,6 @@
       "onboard_time": 1712066781,
       "rank": 28,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 221353,
-      "num": 221353,
-      "word": "种地吧这一期封神",
-      "onboard_time": 1712918779,
-      "rank": 23,
-      "category": "综艺"
     },
     {
       "raw_hot": 221065,
@@ -19315,14 +19339,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 206669,
-      "num": 206669,
-      "word": "赵露思冰蓝眼妆",
-      "onboard_time": 1712919856,
-      "rank": 25,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 206625,
       "num": 206625,
       "word": "快船打爆太阳",
@@ -19481,14 +19497,6 @@
       "onboard_time": 1712738478,
       "rank": 28,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 205680,
-      "num": 205680,
-      "word": "金泰亨伤痕",
-      "onboard_time": 1712920218,
-      "rank": 27,
-      "category": "艺人"
     },
     {
       "raw_hot": 205530,
@@ -21297,6 +21305,14 @@
       "onboard_time": 1712466080,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 193197,
+      "num": 193197,
+      "word": "秦朗寒假作业事件",
+      "onboard_time": 1712921178,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 193121,
@@ -23547,6 +23563,14 @@
       "category": "艺人,游戏"
     },
     {
+      "raw_hot": 176453,
+      "num": 176453,
+      "word": "柯南 最受喜爱剧场版排名",
+      "onboard_time": 1712919197,
+      "rank": 32,
+      "category": "动漫,作品衍生"
+    },
+    {
       "raw_hot": 176389,
       "num": 176389,
       "word": "魏若来回江西了",
@@ -24019,6 +24043,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 172972,
+      "num": 172972,
+      "word": "胡锡进总亏损超6万元",
+      "onboard_time": 1712920877,
+      "rank": 32,
+      "category": "财经"
+    },
+    {
       "raw_hot": 172951,
       "num": 172951,
       "word": "行止很行",
@@ -24329,14 +24361,6 @@
       "onboard_time": 1712808558,
       "rank": 40,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 170185,
-      "num": 170185,
-      "word": "柯南 最受喜爱剧场版排名",
-      "onboard_time": 1712919197,
-      "rank": 32,
-      "category": "动漫,作品衍生"
     },
     {
       "raw_hot": 170161,
@@ -26915,6 +26939,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 149132,
+      "num": 149132,
+      "word": "原来食堂建议本是会被采纳的",
+      "onboard_time": 1712920817,
+      "rank": 35,
+      "category": "情感"
+    },
+    {
       "raw_hot": 149085,
       "num": 149085,
       "word": "小米SU7后视镜雨天可开启加热功能",
@@ -28779,6 +28811,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 135288,
+      "num": 135288,
+      "word": "2024中国电影大数据荣誉之夜",
+      "onboard_time": 1712921117,
+      "rank": 39,
+      "category": "电影"
+    },
+    {
       "raw_hot": 135262,
       "num": 135262,
       "word": "去年253名民警164名辅警因公牺牲",
@@ -28913,6 +28953,14 @@
       "onboard_time": 1712905996,
       "rank": 41,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 134255,
+      "num": 134255,
+      "word": "BABYMONSTER舞蹈接力",
+      "onboard_time": 1712921298,
+      "rank": 40,
+      "category": "音乐"
     },
     {
       "raw_hot": 134248,
@@ -31684,7 +31732,7 @@
     },
     {
       "raw_hot": 95850,
-      "num": 1359437,
+      "num": 1412890,
       "word": "诗经里的绝美中国色",
       "onboard_time": 1712912298,
       "rank": 2,
@@ -31785,6 +31833,14 @@
       "onboard_time": 1712920577,
       "rank": 48,
       "category": "情感"
+    },
+    {
+      "raw_hot": 92984,
+      "num": 92984,
+      "word": "宝宝你是一个被嗦过的芒果核",
+      "onboard_time": 1712921298,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 92448,
@@ -32067,6 +32123,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 82466,
+      "num": 92943,
+      "word": "为什么鸽子走路的时候会点头",
+      "onboard_time": 1712920757,
+      "rank": 49,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 82330,
       "num": 82330,
       "word": "朱一龙的生日蛋糕是朱1龙",
@@ -32105,6 +32169,14 @@
       "onboard_time": 1712595793,
       "rank": 34,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 81262,
+      "num": 150796,
+      "word": "日内瓦表展他火了",
+      "onboard_time": 1712921178,
+      "rank": 34,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 81182,
@@ -33603,6 +33675,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 25393,
+      "num": 142813,
+      "word": "我在涩谷街头很想P5X",
+      "onboard_time": 1712918779,
+      "rank": 37,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 25282,
       "num": 26880,
       "word": "第一次水逆对12星座的影响",
@@ -33649,14 +33729,6 @@
       "onboard_time": 1712350630,
       "rank": 47,
       "category": "情感"
-    },
-    {
-      "raw_hot": 24566,
-      "num": 142813,
-      "word": "我在涩谷街头很想P5X",
-      "onboard_time": 1712918779,
-      "rank": 37,
-      "category": "游戏"
     },
     {
       "raw_hot": 24329,

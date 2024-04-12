@@ -1,0 +1,410 @@
+{
+  "runTime": 1712921662913,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3760420,
+        "num": 3760420,
+        "word": "网红猫一杯道歉",
+        "onboard_time": 1712919798,
+        "rank": 0,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 2586299,
+        "num": 2586299,
+        "word": "秦朗丢寒假作业系摆拍博主被处罚",
+        "onboard_time": 1712919678,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 63156,
+        "num": 1412890,
+        "word": "诗经里的绝美中国色",
+        "onboard_time": 1712912298,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1143812,
+        "num": 1143812,
+        "word": "百万网红杨立新遇害",
+        "onboard_time": 1712910078,
+        "rank": 3,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 708099,
+        "num": 708099,
+        "word": "乘风2024官宣",
+        "onboard_time": 1712913739,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 593432,
+        "num": 593432,
+        "word": "杜海涛当沈梦辰的专属模特",
+        "onboard_time": 1712915958,
+        "rank": 5,
+        "category": "综艺,艺人"
+      },
+      {
+        "raw_hot": 535674,
+        "num": 535674,
+        "word": "五月天官宣演唱会",
+        "onboard_time": 1712916859,
+        "rank": 6,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 489674,
+        "num": 489674,
+        "word": "周大福足金戒指不到2个月出现褪色",
+        "onboard_time": 1712906478,
+        "rank": 7,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 238368,
+        "num": 447188,
+        "word": "小学生多看两眼帮铲除339株罂粟",
+        "onboard_time": 1712912419,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 258207,
+        "num": 437098,
+        "word": "优秀的小狗也上交国家了",
+        "onboard_time": 1712915418,
+        "rank": 9,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 616152,
+        "num": 435446,
+        "word": "有没有性生活都一定要做4项妇科检查",
+        "onboard_time": 1712907858,
+        "rank": 10,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 429887,
+        "num": 429887,
+        "word": "乐言喊zdz姐夫",
+        "onboard_time": 1712917638,
+        "rank": 11,
+        "category": "电竞,艺人"
+      },
+      {
+        "raw_hot": 399751,
+        "num": 399751,
+        "word": "朴宝蓝喝酒后死亡",
+        "onboard_time": 1712890817,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 385543,
+        "num": 385543,
+        "word": "陆柯燃工作室严正声明",
+        "onboard_time": 1712919678,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 360552,
+        "num": 360552,
+        "word": "欺负同学被集体劝退的孩子已在家上网课",
+        "onboard_time": 1712910379,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 359861,
+        "num": 359861,
+        "word": "迪丽热巴还在戴毛线帽",
+        "onboard_time": 1712914818,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 340404,
+        "num": 340404,
+        "word": "赵露思王安宇拥抱",
+        "onboard_time": 1712920698,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 339683,
+        "num": 339683,
+        "word": "金泰亨伤痕",
+        "onboard_time": 1712920218,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 337362,
+        "num": 337362,
+        "word": "死亡野生大熊猫为成年雌性",
+        "onboard_time": 1712912719,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 225408,
+        "num": 225408,
+        "word": "coser以为对方是cos记者",
+        "onboard_time": 1712907798,
+        "rank": 19,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 329240,
+        "num": 224049,
+        "word": "王俊凯春节胖15斤",
+        "onboard_time": 1712913797,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 253559,
+        "num": 212879,
+        "word": "人近三十朋友圈迎来大面积关闭潮",
+        "onboard_time": 1712914638,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 252571,
+        "num": 207924,
+        "word": "鹿晗黄子韬再合作",
+        "onboard_time": 1712910198,
+        "rank": 22,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 249859,
+        "num": 204777,
+        "word": "赵露思冰蓝眼妆",
+        "onboard_time": 1712919856,
+        "rank": 23,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 198285,
+        "num": 198285,
+        "word": "外交部驳斥日本首相涉华言论",
+        "onboard_time": 1712918358,
+        "rank": 24,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 237985,
+        "num": 198221,
+        "word": "魏大勋又说韩语了",
+        "onboard_time": 1712916798,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 233419,
+        "num": 197771,
+        "word": "种地吧这一期封神",
+        "onboard_time": 1712918779,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 196744,
+        "num": 196744,
+        "word": "Fly轮换下场",
+        "onboard_time": 1712920096,
+        "rank": 27,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 193197,
+        "num": 193197,
+        "word": "秦朗寒假作业事件",
+        "onboard_time": 1712921178,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 17445,
+        "num": 179958,
+        "word": "街头潮流的教科书",
+        "onboard_time": 1712918297,
+        "rank": 29,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 224017,
+        "num": 178741,
+        "word": "文韬生日会",
+        "onboard_time": 1712920278,
+        "rank": 30,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 176453,
+        "num": 176453,
+        "word": "柯南 最受喜爱剧场版排名",
+        "onboard_time": 1712919197,
+        "rank": 31,
+        "category": "动漫,作品衍生"
+      },
+      {
+        "raw_hot": 172972,
+        "num": 172972,
+        "word": "胡锡进总亏损超6万元",
+        "onboard_time": 1712920877,
+        "rank": 32,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 162705,
+        "num": 162705,
+        "word": "韩国人就差身份证上写MBTI了",
+        "onboard_time": 1712915298,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 81262,
+        "num": 150796,
+        "word": "日内瓦表展他火了",
+        "onboard_time": 1712921178,
+        "rank": 34,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 149132,
+        "num": 149132,
+        "word": "原来食堂建议本是会被采纳的",
+        "onboard_time": 1712920817,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 147271,
+        "num": 147271,
+        "word": "刘忻大佬坐姿",
+        "onboard_time": 1712918418,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 25393,
+        "num": 141251,
+        "word": "我在涩谷街头很想P5X",
+        "onboard_time": 1712918779,
+        "rank": 37,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 139651,
+        "num": 139651,
+        "word": "布偶在猫咪眼里究竟有多丑",
+        "onboard_time": 1712920038,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 135288,
+        "num": 135288,
+        "word": "2024中国电影大数据荣誉之夜",
+        "onboard_time": 1712921117,
+        "rank": 39,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 134255,
+        "num": 134255,
+        "word": "BABYMONSTER舞蹈接力",
+        "onboard_time": 1712921298,
+        "rank": 40,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 125518,
+        "num": 125518,
+        "word": "蒋勤勤谈易烊千玺",
+        "onboard_time": 1712912478,
+        "rank": 41,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 123254,
+        "num": 123254,
+        "word": "赵丽颖的伞撑了一个又一个人",
+        "onboard_time": 1712901798,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 119413,
+        "num": 119413,
+        "word": "警方通报男子当街连捅数刀致1死",
+        "onboard_time": 1712915358,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 107464,
+        "num": 107464,
+        "word": "乐言和Zdz宁王组排",
+        "onboard_time": 1712920158,
+        "rank": 44,
+        "category": "电竞,艺人"
+      },
+      {
+        "raw_hot": 107358,
+        "num": 107358,
+        "word": "1米5的花花吃了根1米8的笋笋",
+        "onboard_time": 1712905578,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 100894,
+        "num": 100894,
+        "word": "Silence Wang",
+        "onboard_time": 1712916618,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 98163,
+        "num": 98163,
+        "word": "崔然竣迷妹",
+        "onboard_time": 1712918597,
+        "rank": 47,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 92984,
+        "num": 92984,
+        "word": "宝宝你是一个被嗦过的芒果核",
+        "onboard_time": 1712921298,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 82466,
+        "num": 92943,
+        "word": "为什么鸽子走路的时候会点头",
+        "onboard_time": 1712920757,
+        "rank": 49,
+        "category": "科学科普"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记提出两岸同胞要做到四个坚定#"
+    }
+  }
+}
