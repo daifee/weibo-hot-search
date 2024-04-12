@@ -1,6 +1,6 @@
 {
   "startTime": 1712420539476,
-  "endTime": 1712938901785,
+  "endTime": 1712939707052,
   "band_list": [
     {
       "raw_hot": 9583581,
@@ -5915,6 +5915,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 351358,
+      "num": 351358,
+      "word": "山西省考 出不出",
+      "onboard_time": 1712938037,
+      "rank": 15,
+      "category": "教育"
+    },
+    {
       "raw_hot": 351213,
       "num": 384709,
       "word": "云南一村庄20多头牛离奇死亡",
@@ -9307,14 +9315,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 223992,
-      "num": 223992,
-      "word": "山西省考 出不出",
-      "onboard_time": 1712938037,
-      "rank": 15,
-      "category": "教育"
-    },
-    {
       "raw_hot": 223970,
       "num": 251215,
       "word": "NBA球探对杨瀚森失望",
@@ -10537,6 +10537,14 @@
       "onboard_time": 1712740879,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 202784,
+      "num": 202784,
+      "word": "员工晒董宇辉白发越来越多",
+      "onboard_time": 1712937857,
+      "rank": 29,
+      "category": "互联网,网红"
     },
     {
       "raw_hot": 202687,
@@ -15809,14 +15817,6 @@
       "onboard_time": 1712764938,
       "rank": 31,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 126597,
-      "num": 138766,
-      "word": "员工晒董宇辉白发越来越多",
-      "onboard_time": 1712937857,
-      "rank": 29,
-      "category": "互联网,网红"
     },
     {
       "raw_hot": 126566,
