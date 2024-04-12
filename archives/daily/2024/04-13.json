@@ -1,6 +1,6 @@
 {
   "startTime": 1712938901785,
-  "endTime": 1712956536294,
+  "endTime": 1712957649238,
   "band_list": [
     {
       "raw_hot": 984604,
@@ -467,20 +467,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 49798,
+      "num": 34407,
+      "word": "外星人绑架案出现新证人",
+      "onboard_time": 1712953151,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 49657,
       "num": 49657,
       "word": "于和伟有这么破碎的哭戏进入内娱",
       "onboard_time": 1712943073,
       "rank": 41,
       "category": "剧集,综艺"
-    },
-    {
-      "raw_hot": 46763,
-      "num": 31319,
-      "word": "外星人绑架案出现新证人",
-      "onboard_time": 1712953151,
-      "rank": 23,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 39730,
@@ -507,12 +507,28 @@
       "category": "财经"
     },
     {
+      "raw_hot": 27924,
+      "num": 27511,
+      "word": "31岁的张彬彬现在转型是对的吗",
+      "onboard_time": 1712955131,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 27678,
       "num": 32015,
       "word": "龚俊芭莎预告",
       "onboard_time": 1712946733,
       "rank": 46,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 27391,
+      "num": 27391,
+      "word": "赵丽颖南京工作室注销",
+      "onboard_time": 1712953991,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 27373,
@@ -531,24 +547,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 23830,
-      "num": 23830,
-      "word": "赵丽颖南京工作室注销",
-      "onboard_time": 1712953991,
-      "rank": 34,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 22892,
-      "num": 22535,
-      "word": "31岁的张彬彬现在转型是对的吗",
-      "onboard_time": 1712955131,
-      "rank": 25,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 17566,
-      "num": 17566,
+      "raw_hot": 20965,
+      "num": 20965,
       "word": "男子在电梯实施家暴被保安制服",
       "onboard_time": 1712953091,
       "rank": 33,

@@ -1,6 +1,6 @@
 {
   "startTime": 1711902044401,
-  "endTime": 1712956536294,
+  "endTime": 1712957649238,
   "band_list": [
     {
       "raw_hot": 16874674,
@@ -33763,6 +33763,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 49798,
+      "num": 34407,
+      "word": "外星人绑架案出现新证人",
+      "onboard_time": 1712953151,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 49657,
       "num": 49657,
       "word": "于和伟有这么破碎的哭戏进入内娱",
@@ -33832,14 +33840,6 @@
       "word": "中非互联网发展与合作论坛",
       "onboard_time": 1712044158,
       "rank": 2,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 46763,
-      "num": 31319,
-      "word": "外星人绑架案出现新证人",
-      "onboard_time": 1712953151,
-      "rank": 23,
       "category": "社会新闻"
     },
     {
@@ -34291,6 +34291,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 27924,
+      "num": 27511,
+      "word": "31岁的张彬彬现在转型是对的吗",
+      "onboard_time": 1712955131,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 27840,
       "num": 29551,
       "word": "惜花芷评级",
@@ -34329,6 +34337,14 @@
       "onboard_time": 1712345591,
       "rank": 37,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 27391,
+      "num": 27391,
+      "word": "赵丽颖南京工作室注销",
+      "onboard_time": 1712953991,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 27373,
@@ -34515,14 +34531,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 23830,
-      "num": 23830,
-      "word": "赵丽颖南京工作室注销",
-      "onboard_time": 1712953991,
-      "rank": 34,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 23611,
       "num": 444330,
       "word": "高段位东京citywalk",
@@ -34569,14 +34577,6 @@
       "onboard_time": 1711918030,
       "rank": 40,
       "category": "母婴育儿"
-    },
-    {
-      "raw_hot": 22892,
-      "num": 22535,
-      "word": "31岁的张彬彬现在转型是对的吗",
-      "onboard_time": 1712955131,
-      "rank": 25,
-      "category": "艺人"
     },
     {
       "raw_hot": 22807,
@@ -34657,6 +34657,14 @@
       "onboard_time": 1712688191,
       "rank": 39,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 20965,
+      "num": 20965,
+      "word": "男子在电梯实施家暴被保安制服",
+      "onboard_time": 1712953091,
+      "rank": 33,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 20909,
@@ -34769,14 +34777,6 @@
       "onboard_time": 1712044819,
       "rank": 39,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 17566,
-      "num": 17566,
-      "word": "男子在电梯实施家暴被保安制服",
-      "onboard_time": 1712953091,
-      "rank": 33,
-      "category": "社会正能量"
     },
     {
       "raw_hot": 17289,
