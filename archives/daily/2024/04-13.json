@@ -1,6 +1,6 @@
 {
   "startTime": 1712938901785,
-  "endTime": 1712949357642,
+  "endTime": 1712950453441,
   "band_list": [
     {
       "raw_hot": 984604,
@@ -459,8 +459,8 @@
       "category": "剧集,综艺"
     },
     {
-      "raw_hot": 38186,
-      "num": 38186,
+      "raw_hot": 39730,
+      "num": 39730,
       "word": "工藤新一 你的斗来了",
       "onboard_time": 1712946552,
       "rank": 40,
@@ -483,6 +483,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 31122,
+      "num": 31122,
+      "word": "王源 我年纪大了",
+      "onboard_time": 1712949551,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 27678,
       "num": 32015,
       "word": "龚俊芭莎预告",
@@ -491,20 +499,20 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 25047,
-      "num": 25047,
-      "word": "朴宝蓝将尸检",
-      "onboard_time": 1712948472,
-      "rank": 40,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 24082,
-      "num": 24082,
+      "raw_hot": 27373,
+      "num": 27373,
       "word": "妖精的尾巴 一家三口",
       "onboard_time": 1712948352,
       "rank": 41,
       "category": "动漫,作品衍生"
+    },
+    {
+      "raw_hot": 25379,
+      "num": 25379,
+      "word": "朴宝蓝将尸检",
+      "onboard_time": 1712948472,
+      "rank": 40,
+      "category": "艺人"
     }
   ],
   "hotgov_list": [

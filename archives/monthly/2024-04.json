@@ -1,6 +1,6 @@
 {
   "startTime": 1711902044401,
-  "endTime": 1712949357642,
+  "endTime": 1712950453441,
   "band_list": [
     {
       "raw_hot": 16874674,
@@ -33979,6 +33979,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 39730,
+      "num": 39730,
+      "word": "工藤新一 你的斗来了",
+      "onboard_time": 1712946552,
+      "rank": 40,
+      "category": "电影,动漫"
+    },
+    {
       "raw_hot": 39691,
       "num": 39691,
       "word": "方便面真的没有营养吗",
@@ -34025,14 +34033,6 @@
       "onboard_time": 1712078112,
       "rank": 49,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 38186,
-      "num": 38186,
-      "word": "工藤新一 你的斗来了",
-      "onboard_time": 1712946552,
-      "rank": 40,
-      "category": "电影,动漫"
     },
     {
       "raw_hot": 38072,
@@ -34203,6 +34203,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 31122,
+      "num": 31122,
+      "word": "王源 我年纪大了",
+      "onboard_time": 1712949551,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 31115,
       "num": 35193,
       "word": "张杰预告南昌演唱会",
@@ -34307,6 +34315,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 27373,
+      "num": 27373,
+      "word": "妖精的尾巴 一家三口",
+      "onboard_time": 1712948352,
+      "rank": 41,
+      "category": "动漫,作品衍生"
+    },
+    {
       "raw_hot": 27309,
       "num": 27309,
       "word": "夏目友人帐 唯美水中花",
@@ -34395,6 +34411,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 25379,
+      "num": 25379,
+      "word": "朴宝蓝将尸检",
+      "onboard_time": 1712948472,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 25282,
       "num": 26880,
       "word": "第一次水逆对12星座的影响",
@@ -34409,14 +34433,6 @@
       "onboard_time": 1712841078,
       "rank": 27,
       "category": "美妆"
-    },
-    {
-      "raw_hot": 25047,
-      "num": 25047,
-      "word": "朴宝蓝将尸检",
-      "onboard_time": 1712948472,
-      "rank": 40,
-      "category": "艺人"
     },
     {
       "raw_hot": 24922,
@@ -34473,14 +34489,6 @@
       "onboard_time": 1712718018,
       "rank": 14,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 24082,
-      "num": 24082,
-      "word": "妖精的尾巴 一家三口",
-      "onboard_time": 1712948352,
-      "rank": 41,
-      "category": "动漫,作品衍生"
     },
     {
       "raw_hot": 23884,
