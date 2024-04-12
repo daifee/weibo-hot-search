@@ -1,6 +1,6 @@
 {
   "startTime": 1712852435435,
-  "endTime": 1712889548130,
+  "endTime": 1712891992038,
   "band_list": [
     {
       "raw_hot": 2266453,
@@ -25,6 +25,22 @@
       "onboard_time": 1712848759,
       "rank": 3,
       "category": "社会新闻,体育"
+    },
+    {
+      "raw_hot": 2047447,
+      "num": 2047447,
+      "word": "教资成绩发布",
+      "onboard_time": 1712889257,
+      "rank": 19,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 1552996,
+      "num": 1552996,
+      "word": "朴宝蓝喝酒后死亡",
+      "onboard_time": 1712890817,
+      "rank": 1,
+      "category": "艺人"
     },
     {
       "raw_hot": 1399438,
@@ -75,6 +91,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 991745,
+      "num": 991745,
+      "word": "五一其实只放1天",
+      "onboard_time": 1712885958,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 977690,
       "num": 977690,
       "word": "苹果市值一夜暴涨8113亿",
@@ -91,12 +115,12 @@
       "category": "财经"
     },
     {
-      "raw_hot": 874241,
-      "num": 874241,
-      "word": "五一其实只放1天",
-      "onboard_time": 1712885958,
-      "rank": 7,
-      "category": "社会新闻"
+      "raw_hot": 814364,
+      "num": 263747,
+      "word": "甜馨送给贾乃亮的生日礼物",
+      "onboard_time": 1712890215,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 782742,
@@ -171,6 +195,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 531953,
+      "num": 531953,
+      "word": "被轿车撞倒碾压女子已死亡",
+      "onboard_time": 1712891237,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 507955,
       "num": 202794,
       "word": "朴彩英双眼皮",
@@ -243,6 +275,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 379244,
+      "num": 379244,
+      "word": "能吃面试的苦了",
+      "onboard_time": 1712890457,
+      "rank": 12,
+      "category": "教育"
+    },
+    {
       "raw_hot": 375614,
       "num": 254085,
       "word": "孙俪想知道邓超在证明啥",
@@ -283,6 +323,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 356033,
+      "num": 356033,
+      "word": "林更新下部戏是玫瑰的故事",
+      "onboard_time": 1712886498,
+      "rank": 23,
+      "category": "电影"
+    },
+    {
       "raw_hot": 350521,
       "num": 350521,
       "word": "有金店老板连夜进货",
@@ -315,12 +363,12 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 326741,
-      "num": 271889,
-      "word": "林更新下部戏是玫瑰的故事",
-      "onboard_time": 1712886498,
-      "rank": 23,
-      "category": "电影"
+      "raw_hot": 319898,
+      "num": 274097,
+      "word": "离职前可以顺走公司什么东西",
+      "onboard_time": 1712890937,
+      "rank": 21,
+      "category": "情感"
     },
     {
       "raw_hot": 319210,
@@ -331,12 +379,28 @@
       "category": "数码"
     },
     {
+      "raw_hot": 305973,
+      "num": 305973,
+      "word": "女神异闻录",
+      "onboard_time": 1712889737,
+      "rank": 15,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 305482,
       "num": 305482,
       "word": "刘亦菲减肥法",
       "onboard_time": 1712843660,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 300247,
+      "num": 300247,
+      "word": "教资69",
+      "onboard_time": 1712890397,
+      "rank": 16,
+      "category": "教育"
     },
     {
       "raw_hot": 298427,
@@ -347,12 +411,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 295357,
-      "num": 295357,
-      "word": "教资成绩发布",
-      "onboard_time": 1712889257,
-      "rank": 19,
-      "category": "教育"
+      "raw_hot": 281068,
+      "num": 281068,
+      "word": "奔跑吧12发布会邀请函",
+      "onboard_time": 1712889798,
+      "rank": 18,
+      "category": "综艺"
     },
     {
       "raw_hot": 280905,
@@ -395,12 +459,36 @@
       "category": "情感"
     },
     {
+      "raw_hot": 270567,
+      "num": 270567,
+      "word": "中国B级轿车整体失守20万元价格线",
+      "onboard_time": 1712886438,
+      "rank": 22,
+      "category": "汽车"
+    },
+    {
+      "raw_hot": 262479,
+      "num": 262479,
+      "word": "湖北省考 什么时候出",
+      "onboard_time": 1712890756,
+      "rank": 27,
+      "category": "教育"
+    },
+    {
       "raw_hot": 260105,
       "num": 260105,
       "word": "TES被偷家",
       "onboard_time": 1712848519,
       "rank": 14,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 259540,
+      "num": 259540,
+      "word": "长发周雨彤杀回来了",
+      "onboard_time": 1712891597,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 257357,
@@ -435,6 +523,22 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 251230,
+      "num": 251230,
+      "word": "癌症来临时身体3个部位会喊痛",
+      "onboard_time": 1712891476,
+      "rank": 30,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 239603,
+      "num": 239603,
+      "word": "盒子里的猫称体重环节",
+      "onboard_time": 1712890276,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 237825,
       "num": 237825,
       "word": "王者荣耀酷洛米",
@@ -451,6 +555,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 228639,
+      "num": 228639,
+      "word": "毕业五年在家五年考公考编五年",
+      "onboard_time": 1712891476,
+      "rank": 33,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 227391,
+      "num": 227391,
+      "word": "承欢记 小狐狸碰上老狐狸",
+      "onboard_time": 1712891117,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 227005,
       "num": 227005,
       "word": "小乐言评论区",
@@ -465,14 +585,6 @@
       "onboard_time": 1712888778,
       "rank": 42,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 225043,
-      "num": 225043,
-      "word": "中国B级轿车整体失守20万元价格线",
-      "onboard_time": 1712886438,
-      "rank": 22,
-      "category": "汽车"
     },
     {
       "raw_hot": 222507,
@@ -579,6 +691,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 193403,
+      "num": 193403,
+      "word": "中国海警在我钓鱼岛领海维权巡航",
+      "onboard_time": 1712889617,
+      "rank": 38,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 192325,
       "num": 192325,
       "word": "时团代言美团",
@@ -587,12 +707,28 @@
       "category": "艺人,互联网"
     },
     {
+      "raw_hot": 192044,
+      "num": 192044,
+      "word": "金饰价格达736元每克",
+      "onboard_time": 1712890638,
+      "rank": 39,
+      "category": "财经"
+    },
+    {
       "raw_hot": 190523,
       "num": 190523,
       "word": "仝卓工作室说很多艺人不敬业",
       "onboard_time": 1712860450,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 188502,
+      "num": 188502,
+      "word": "教资面试报名",
+      "onboard_time": 1712890997,
+      "rank": 41,
+      "category": "教育"
     },
     {
       "raw_hot": 187536,
@@ -617,6 +753,14 @@
       "onboard_time": 1712846358,
       "rank": 33,
       "category": "数码,互联网"
+    },
+    {
+      "raw_hot": 181180,
+      "num": 181180,
+      "word": "P5X全球公测",
+      "onboard_time": 1712891658,
+      "rank": 42,
+      "category": "游戏"
     },
     {
       "raw_hot": 179738,
@@ -691,6 +835,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 164763,
+      "num": 164763,
+      "word": "春色寄情人定档0422",
+      "onboard_time": 1712889439,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 164285,
       "num": 164285,
       "word": "朴彩英三吉彩花同框",
@@ -755,12 +907,28 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 151818,
+      "num": 151818,
+      "word": "蔡依林沈阳 抢票",
+      "onboard_time": 1712891777,
+      "rank": 47,
+      "category": "演出"
+    },
+    {
       "raw_hot": 151542,
       "num": 151542,
       "word": "利物浦0比3亚特兰大",
       "onboard_time": 1712877676,
       "rank": 26,
       "category": "体育"
+    },
+    {
+      "raw_hot": 151241,
+      "num": 151241,
+      "word": "这是我的岛",
+      "onboard_time": 1712891897,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 150766,
@@ -841,14 +1009,6 @@
       "onboard_time": 1712849719,
       "rank": 34,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 117567,
-      "num": 117567,
-      "word": "春色寄情人定档0422",
-      "onboard_time": 1712889439,
-      "rank": 46,
-      "category": "剧集"
     },
     {
       "raw_hot": 115733,
@@ -1107,20 +1267,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 20902,
+      "num": 278715,
+      "word": "P5X加入P系列全家桶",
+      "onboard_time": 1712889439,
+      "rank": 48,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 14599,
       "num": 23183,
       "word": "与凤行",
       "onboard_time": 1712844138,
       "rank": 49,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 10414,
-      "num": 110323,
-      "word": "P5X加入P系列全家桶",
-      "onboard_time": 1712889439,
-      "rank": 48,
-      "category": "游戏"
     }
   ],
   "hotgov_list": [

@@ -1,6 +1,6 @@
 {
   "startTime": 1711902044401,
-  "endTime": 1712889548130,
+  "endTime": 1712891992038,
   "band_list": [
     {
       "raw_hot": 16874674,
@@ -393,6 +393,14 @@
       "onboard_time": 1711951283,
       "rank": 4,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2047447,
+      "num": 2047447,
+      "word": "教资成绩发布",
+      "onboard_time": 1712889257,
+      "rank": 19,
+      "category": "教育"
     },
     {
       "raw_hot": 2030988,
@@ -985,6 +993,14 @@
       "onboard_time": 1712461279,
       "rank": 5,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1552996,
+      "num": 1552996,
+      "word": "朴宝蓝喝酒后死亡",
+      "onboard_time": 1712890817,
+      "rank": 1,
+      "category": "艺人"
     },
     {
       "raw_hot": 1551813,
@@ -2627,6 +2643,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 991745,
+      "num": 991745,
+      "word": "五一其实只放1天",
+      "onboard_time": 1712885958,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 991536,
       "num": 991536,
       "word": "鲶鱼须为何备受初中女生追捧",
@@ -3155,14 +3179,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 874241,
-      "num": 874241,
-      "word": "五一其实只放1天",
-      "onboard_time": 1712885958,
-      "rank": 7,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 874184,
       "num": 874184,
       "word": "00后女生打工垮脸严重向公司索赔成功",
@@ -3576,6 +3592,14 @@
       "word": "林更新新简介",
       "onboard_time": 1712558658,
       "rank": 5,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 814364,
+      "num": 263747,
+      "word": "甜馨送给贾乃亮的生日礼物",
+      "onboard_time": 1712890215,
+      "rank": 25,
       "category": "艺人"
     },
     {
@@ -6945,6 +6969,14 @@
       "onboard_time": 1712451559,
       "rank": 13,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 531953,
+      "num": 531953,
+      "word": "被轿车撞倒碾压女子已死亡",
+      "onboard_time": 1712891237,
+      "rank": 6,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 531919,
@@ -10347,6 +10379,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 379244,
+      "num": 379244,
+      "word": "能吃面试的苦了",
+      "onboard_time": 1712890457,
+      "rank": 12,
+      "category": "教育"
+    },
+    {
       "raw_hot": 379238,
       "num": 379238,
       "word": "辛芷蕾橘色短发",
@@ -10921,6 +10961,14 @@
       "onboard_time": 1712415560,
       "rank": 22,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 356033,
+      "num": 356033,
+      "word": "林更新下部戏是玫瑰的故事",
+      "onboard_time": 1712886498,
+      "rank": 23,
+      "category": "电影"
     },
     {
       "raw_hot": 355742,
@@ -11843,14 +11891,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 326741,
-      "num": 271889,
-      "word": "林更新下部戏是玫瑰的故事",
-      "onboard_time": 1712886498,
-      "rank": 23,
-      "category": "电影"
-    },
-    {
       "raw_hot": 326657,
       "num": 326657,
       "word": "Uzi谈Doinb复播",
@@ -12057,6 +12097,14 @@
       "onboard_time": 1712294897,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 319898,
+      "num": 274097,
+      "word": "离职前可以顺走公司什么东西",
+      "onboard_time": 1712890937,
+      "rank": 21,
+      "category": "情感"
     },
     {
       "raw_hot": 319210,
@@ -12595,6 +12643,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 305973,
+      "num": 305973,
+      "word": "女神异闻录",
+      "onboard_time": 1712889737,
+      "rank": 15,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 305942,
       "num": 305942,
       "word": "小楼谈电竞圈女性",
@@ -12819,6 +12875,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 300247,
+      "num": 300247,
+      "word": "教资69",
+      "onboard_time": 1712890397,
+      "rank": 16,
+      "category": "教育"
+    },
+    {
       "raw_hot": 300010,
       "num": 300010,
       "word": "为什么鸟类大多是侧面照",
@@ -13017,14 +13081,6 @@
       "onboard_time": 1712418258,
       "rank": 22,
       "category": "演出"
-    },
-    {
-      "raw_hot": 295357,
-      "num": 295357,
-      "word": "教资成绩发布",
-      "onboard_time": 1712889257,
-      "rank": 19,
-      "category": "教育"
     },
     {
       "raw_hot": 295274,
@@ -13667,6 +13723,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 281068,
+      "num": 281068,
+      "word": "奔跑吧12发布会邀请函",
+      "onboard_time": 1712889798,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 280905,
       "num": 680855,
       "word": "士兵突击老班长在淄博被疯狂投喂",
@@ -14091,6 +14155,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 270567,
+      "num": 270567,
+      "word": "中国B级轿车整体失守20万元价格线",
+      "onboard_time": 1712886438,
+      "rank": 22,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 270412,
       "num": 270412,
       "word": "成都警方回应迈巴赫撞倒多人",
@@ -14387,6 +14459,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 262479,
+      "num": 262479,
+      "word": "湖北省考 什么时候出",
+      "onboard_time": 1712890756,
+      "rank": 27,
+      "category": "教育"
+    },
+    {
       "raw_hot": 262400,
       "num": 262400,
       "word": "魔兽世界 启动",
@@ -14569,6 +14649,14 @@
       "onboard_time": 1712563278,
       "rank": 26,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 259540,
+      "num": 259540,
+      "word": "长发周雨彤杀回来了",
+      "onboard_time": 1712891597,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 259471,
@@ -15081,6 +15169,14 @@
       "onboard_time": 1712807478,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 251230,
+      "num": 251230,
+      "word": "癌症来临时身体3个部位会喊痛",
+      "onboard_time": 1712891476,
+      "rank": 30,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 251185,
@@ -15915,6 +16011,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 239603,
+      "num": 239603,
+      "word": "盒子里的猫称体重环节",
+      "onboard_time": 1712890276,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 239442,
       "num": 239442,
       "word": "郑合惠子 清醒的恋爱观",
@@ -16531,6 +16635,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 228639,
+      "num": 228639,
+      "word": "毕业五年在家五年考公考编五年",
+      "onboard_time": 1712891476,
+      "rank": 33,
+      "category": "教育"
+    },
+    {
       "raw_hot": 228605,
       "num": 228605,
       "word": "爸爸用排烟管给女儿做了一条粉色龙",
@@ -16673,6 +16785,14 @@
       "onboard_time": 1712145080,
       "rank": 31,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 227391,
+      "num": 227391,
+      "word": "承欢记 小狐狸碰上老狐狸",
+      "onboard_time": 1712891117,
+      "rank": 34,
+      "category": "剧集"
     },
     {
       "raw_hot": 227082,
@@ -16841,14 +16961,6 @@
       "onboard_time": 1712802978,
       "rank": 43,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 225043,
-      "num": 225043,
-      "word": "中国B级轿车整体失守20万元价格线",
-      "onboard_time": 1712886438,
-      "rank": 22,
-      "category": "汽车"
     },
     {
       "raw_hot": 224977,
@@ -20219,6 +20331,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 193403,
+      "num": 193403,
+      "word": "中国海警在我钓鱼岛领海维权巡航",
+      "onboard_time": 1712889617,
+      "rank": 38,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 193373,
       "num": 193373,
       "word": "小米汽车",
@@ -20433,6 +20553,14 @@
       "onboard_time": 1712715979,
       "rank": 40,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 192044,
+      "num": 192044,
+      "word": "金饰价格达736元每克",
+      "onboard_time": 1712890638,
+      "rank": 39,
+      "category": "财经"
     },
     {
       "raw_hot": 192003,
@@ -21009,6 +21137,14 @@
       "onboard_time": 1712123300,
       "rank": 36,
       "category": "演出"
+    },
+    {
+      "raw_hot": 188502,
+      "num": 188502,
+      "word": "教资面试报名",
+      "onboard_time": 1712890997,
+      "rank": 41,
+      "category": "教育"
     },
     {
       "raw_hot": 188203,
@@ -21977,6 +22113,14 @@
       "onboard_time": 1711944863,
       "rank": 46,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 181180,
+      "num": 181180,
+      "word": "P5X全球公测",
+      "onboard_time": 1712891658,
+      "rank": 42,
+      "category": "游戏"
     },
     {
       "raw_hot": 180888,
@@ -23667,6 +23811,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 164763,
+      "num": 164763,
+      "word": "春色寄情人定档0422",
+      "onboard_time": 1712889439,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 164709,
       "num": 164709,
       "word": "承欢记 妈宝男搞纯爱",
@@ -25297,6 +25449,14 @@
       "onboard_time": 1712032400,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 151818,
+      "num": 151818,
+      "word": "蔡依林沈阳 抢票",
+      "onboard_time": 1712891777,
+      "rank": 47,
+      "category": "演出"
     },
     {
       "raw_hot": 151811,
@@ -29067,14 +29227,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 117567,
-      "num": 117567,
-      "word": "春色寄情人定档0422",
-      "onboard_time": 1712889439,
-      "rank": 46,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 117544,
       "num": 117544,
       "word": "数码宝贝 太一长大了",
@@ -32187,6 +32339,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 20902,
+      "num": 278715,
+      "word": "P5X加入P系列全家桶",
+      "onboard_time": 1712889439,
+      "rank": 48,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 20703,
       "num": 20703,
       "word": "你有收到过陌生人的鼓励吗",
@@ -32449,14 +32609,6 @@
       "onboard_time": 1712300236,
       "rank": 38,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 10414,
-      "num": 110323,
-      "word": "P5X加入P系列全家桶",
-      "onboard_time": 1712889439,
-      "rank": 48,
-      "category": "游戏"
     }
   ],
   "hotgov_list": [
