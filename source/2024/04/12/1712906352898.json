@@ -1,0 +1,410 @@
+{
+  "runTime": 1712906352898,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1168950,
+        "num": 1168950,
+        "word": "溺亡大熊猫表面无明显人为伤",
+        "onboard_time": 1712902878,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 619257,
+        "num": 619257,
+        "word": "林更新186的身高147的体重",
+        "onboard_time": 1712899700,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 40747,
+        "num": 575685,
+        "word": "中国航天的12个第一次",
+        "onboard_time": 1712893337,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 571939,
+        "num": 571939,
+        "word": "赵丽颖的伞撑了一个又一个人",
+        "onboard_time": 1712901798,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 555126,
+        "num": 555126,
+        "word": "调休多上一天班为什么这么累",
+        "onboard_time": 1712898977,
+        "rank": 4,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 423446,
+        "num": 423446,
+        "word": "十个勤天小店",
+        "onboard_time": 1712903178,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 384808,
+        "num": 384808,
+        "word": "林更新胡一天撞衫",
+        "onboard_time": 1712904436,
+        "rank": 6,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 377631,
+        "num": 377631,
+        "word": "一个普通女生的3个7年",
+        "onboard_time": 1712897899,
+        "rank": 7,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 356722,
+        "num": 356722,
+        "word": "官方回应雅安一野生大熊猫溺亡",
+        "onboard_time": 1712897599,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 245240,
+        "num": 350889,
+        "word": "丫丫的春笋是XXXXL号",
+        "onboard_time": 1712885358,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 452343,
+        "num": 350447,
+        "word": "陈震称小米SU7赛道撞墙再正常不过",
+        "onboard_time": 1712904017,
+        "rank": 10,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 853592,
+        "num": 350135,
+        "word": "朴宝蓝喝酒后死亡",
+        "onboard_time": 1712890817,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 348415,
+        "num": 348415,
+        "word": "十万天神同祝的婚礼",
+        "onboard_time": 1712904436,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 339429,
+        "num": 339429,
+        "word": "侯雯元枕上了钟楚曦送的枕头",
+        "onboard_time": 1712900000,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 336054,
+        "num": 336054,
+        "word": "青山刚昌癫了",
+        "onboard_time": 1712892138,
+        "rank": 14,
+        "category": "电影,动漫"
+      },
+      {
+        "raw_hot": 331009,
+        "num": 331009,
+        "word": "首饰金价一夜飙升15元每克",
+        "onboard_time": 1712901558,
+        "rank": 15,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 304332,
+        "num": 304332,
+        "word": "丁程鑫回怼导演组",
+        "onboard_time": 1712901439,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 303129,
+        "num": 303129,
+        "word": "极限挑战",
+        "onboard_time": 1712904978,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 259051,
+        "num": 259051,
+        "word": "女子被轿车撞倒身亡目击者发声",
+        "onboard_time": 1712903297,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 192535,
+        "num": 192535,
+        "word": "五一其实只放1天",
+        "onboard_time": 1712885958,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 346233,
+        "num": 192120,
+        "word": "体制内六件套",
+        "onboard_time": 1712899279,
+        "rank": 20,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 223149,
+        "num": 191731,
+        "word": "蔡依林演唱会1290元比1590元座位更靠前",
+        "onboard_time": 1712905277,
+        "rank": 21,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 329857,
+        "num": 190723,
+        "word": "原来明星的朋友圈跟我们的一样",
+        "onboard_time": 1712902218,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 207953,
+        "num": 190021,
+        "word": "杨迪海岛上厕所这段确实创造历史了",
+        "onboard_time": 1712905038,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 197029,
+        "num": 189370,
+        "word": "二十几岁没意识到自己很年轻",
+        "onboard_time": 1712904677,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 206081,
+        "num": 188777,
+        "word": "沈璃行止的婚书",
+        "onboard_time": 1712905818,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 204048,
+        "num": 188007,
+        "word": "易烊千玺演微电影",
+        "onboard_time": 1712905937,
+        "rank": 26,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 165623,
+        "num": 187458,
+        "word": "重庆一房屋预制板断裂致2人死亡",
+        "onboard_time": 1712905518,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 77256,
+        "num": 186439,
+        "word": "异人界掌管冰淇淋的神",
+        "onboard_time": 1712904738,
+        "rank": 28,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 100104,
+        "num": 186247,
+        "word": "有种007的工作叫育儿",
+        "onboard_time": 1712905338,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 196842,
+        "num": 185174,
+        "word": "30万年薪的银行员工要过紧日子了",
+        "onboard_time": 1712883439,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 184986,
+        "num": 184986,
+        "word": "衣服买一件两百的还是五件四十的",
+        "onboard_time": 1712900358,
+        "rank": 31,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 168518,
+        "num": 168518,
+        "word": "女儿假装丰唇来整蛊老爸",
+        "onboard_time": 1712905698,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 153359,
+        "num": 153359,
+        "word": "孩子爱玩蛋仔家长为何进退两难",
+        "onboard_time": 1712905937,
+        "rank": 33,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 150707,
+        "num": 150707,
+        "word": "大学四年居然买了一百斤衣服",
+        "onboard_time": 1712893879,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 148768,
+        "num": 148768,
+        "word": "1米5的花花吃了根1米8的笋笋",
+        "onboard_time": 1712905578,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 147576,
+        "num": 147576,
+        "word": "CP变骨科",
+        "onboard_time": 1712894720,
+        "rank": 36,
+        "category": "电影,动漫"
+      },
+      {
+        "raw_hot": 144745,
+        "num": 144745,
+        "word": "癌症来临时身体3个部位会喊痛",
+        "onboard_time": 1712891476,
+        "rank": 37,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 14878,
+        "num": 138737,
+        "word": "P5X送疯了",
+        "onboard_time": 1712904017,
+        "rank": 38,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 137821,
+        "num": 137821,
+        "word": "能吃面试的苦了",
+        "onboard_time": 1712890457,
+        "rank": 39,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 137713,
+        "num": 137713,
+        "word": "王心凌下飞机就开始看手机了",
+        "onboard_time": 1712897420,
+        "rank": 40,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 134338,
+        "num": 134338,
+        "word": "别吵 我在烧烤",
+        "onboard_time": 1712905996,
+        "rank": 41,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 133248,
+        "num": 133248,
+        "word": "雷军称小米SU7比他想象的成功3到5倍",
+        "onboard_time": 1712905757,
+        "rank": 42,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 131309,
+        "num": 131309,
+        "word": "第一次见用外卖备注追星的",
+        "onboard_time": 1712901857,
+        "rank": 43,
+        "category": "幽默,艺人"
+      },
+      {
+        "raw_hot": 127698,
+        "num": 127698,
+        "word": "RNG将拍卖奖杯",
+        "onboard_time": 1712899638,
+        "rank": 44,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 121163,
+        "num": 121163,
+        "word": "浪姐",
+        "onboard_time": 1712904377,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 117176,
+        "num": 117176,
+        "word": "吴奇隆一秒生火看呆宋亚轩",
+        "onboard_time": 1712905637,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 111739,
+        "num": 111739,
+        "word": "眉毛真的和寿命有关吗",
+        "onboard_time": 1712906177,
+        "rank": 47,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 102098,
+        "num": 102098,
+        "word": "LPL春决售票官宣",
+        "onboard_time": 1712904917,
+        "rank": 48,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 64354,
+        "num": 99278,
+        "word": "卡琳娜Joker杀疯了",
+        "onboard_time": 1712900418,
+        "rank": 49,
+        "category": "动漫"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记提出两岸同胞要做到四个坚定#"
+    }
+  }
+}
