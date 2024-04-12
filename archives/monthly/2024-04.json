@@ -1,6 +1,6 @@
 {
   "startTime": 1711902044401,
-  "endTime": 1712950453441,
+  "endTime": 1712953050836,
   "band_list": [
     {
       "raw_hot": 16874674,
@@ -33627,6 +33627,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 54280,
+      "num": 54280,
+      "word": "王源 我年纪大了",
+      "onboard_time": 1712949551,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 54194,
       "num": 790222,
       "word": "志愿军烈士和家人跨时空重逢",
@@ -33721,6 +33729,14 @@
       "onboard_time": 1711888759,
       "rank": 46,
       "category": "演出"
+    },
+    {
+      "raw_hot": 50765,
+      "num": 50765,
+      "word": "58岁姐姐去世弟弟含泪吹唢呐送别",
+      "onboard_time": 1712951471,
+      "rank": 8,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 50366,
@@ -34201,14 +34217,6 @@
       "onboard_time": 1712731158,
       "rank": 27,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 31122,
-      "num": 31122,
-      "word": "王源 我年纪大了",
-      "onboard_time": 1712949551,
-      "rank": 24,
-      "category": "艺人"
     },
     {
       "raw_hot": 31115,
@@ -34873,6 +34881,14 @@
       "onboard_time": 1712907378,
       "rank": 38,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 12521,
+      "num": 16292,
+      "word": "只因银行柜员多看一眼挽回6万元",
+      "onboard_time": 1712952790,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 11730,
