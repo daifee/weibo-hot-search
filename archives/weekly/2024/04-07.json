@@ -1,6 +1,6 @@
 {
   "startTime": 1712420539476,
-  "endTime": 1712925987666,
+  "endTime": 1712927959607,
   "band_list": [
     {
       "raw_hot": 9583581,
@@ -915,6 +915,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 1175344,
+      "num": 1175344,
+      "word": "留守女童困在软色情短视频里",
+      "onboard_time": 1712925078,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1174516,
       "num": 1174516,
       "word": "王晰",
@@ -1377,6 +1385,14 @@
       "onboard_time": 1712808380,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 958990,
+      "num": 352451,
+      "word": "我从211退学考上了另一所211",
+      "onboard_time": 1712926519,
+      "rank": 10,
+      "category": "教育"
     },
     {
       "raw_hot": 952546,
@@ -2595,6 +2611,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 674969,
+      "num": 527675,
+      "word": "董宇辉回应现在讲解质量差",
+      "onboard_time": 1712922497,
+      "rank": 7,
+      "category": "互联网,网红"
+    },
+    {
       "raw_hot": 674067,
       "num": 674067,
       "word": "南部战区位南海海域开展演训活动",
@@ -2881,6 +2905,14 @@
       "onboard_time": 1712718379,
       "rank": 40,
       "category": "情感"
+    },
+    {
+      "raw_hot": 622814,
+      "num": 350746,
+      "word": "福宝和爷爷乘坐飞机的过程",
+      "onboard_time": 1712925318,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 622729,
@@ -3249,14 +3281,6 @@
       "onboard_time": 1712824278,
       "rank": 25,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 579510,
-      "num": 527675,
-      "word": "董宇辉回应现在讲解质量差",
-      "onboard_time": 1712922497,
-      "rank": 7,
-      "category": "互联网,网红"
     },
     {
       "raw_hot": 579010,
@@ -6347,6 +6371,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 319928,
+      "num": 319928,
+      "word": "王楚钦冲击首个世界单打冠军",
+      "onboard_time": 1712923037,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 319210,
       "num": 319210,
       "word": "iPhoneSE4规格曝光",
@@ -6851,14 +6883,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 297124,
-      "num": 209159,
-      "word": "福宝和爷爷乘坐飞机的过程",
-      "onboard_time": 1712925318,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 296867,
       "num": 296867,
       "word": "退休公务员横漂演短剧",
@@ -6972,7 +6996,7 @@
     },
     {
       "raw_hot": 290365,
-      "num": 214149,
+      "num": 242834,
       "word": "林更新说不强求与凤行能带来更多工作",
       "onboard_time": 1712924837,
       "rank": 31,
@@ -7859,6 +7883,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 256823,
+      "num": 242890,
+      "word": "我在大山里捡了一个女儿",
+      "onboard_time": 1712923457,
+      "rank": 28,
+      "category": "情感"
+    },
+    {
       "raw_hot": 256513,
       "num": 231994,
       "word": "Faker名人堂皮肤",
@@ -8275,6 +8307,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 245512,
+      "num": 242767,
+      "word": "何洁自制短剧上浪姐",
+      "onboard_time": 1712926819,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 245495,
       "num": 245495,
       "word": "蒋敦豪 看我蜂情万种",
@@ -8387,12 +8427,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 242956,
-      "num": 242956,
-      "word": "王楚钦冲击首个世界单打冠军",
-      "onboard_time": 1712923037,
-      "rank": 24,
-      "category": "体育"
+      "raw_hot": 242977,
+      "num": 242977,
+      "word": "连花花都不认识你来看花花",
+      "onboard_time": 1712926637,
+      "rank": 19,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 242740,
+      "num": 242740,
+      "word": "原神阿蕾奇诺",
+      "onboard_time": 1712927838,
+      "rank": 25,
+      "category": "游戏"
     },
     {
       "raw_hot": 242658,
@@ -9481,14 +9529,6 @@
       "onboard_time": 1712542279,
       "rank": 31,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 214394,
-      "num": 214394,
-      "word": "留守女童困在软色情短视频里",
-      "onboard_time": 1712925078,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 214366,
@@ -11099,14 +11139,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 192428,
-      "num": 209224,
-      "word": "我在大山里捡了一个女儿",
-      "onboard_time": 1712923457,
-      "rank": 28,
-      "category": "情感"
-    },
-    {
       "raw_hot": 192374,
       "num": 133127,
       "word": "别再乱用红霉素软膏和红霉素眼膏",
@@ -11867,6 +11899,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 183190,
+      "num": 183190,
+      "word": "让眼睛越来越好的9个小习惯",
+      "onboard_time": 1712924778,
+      "rank": 32,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 183055,
       "num": 183055,
       "word": "考研七次是一种什么体验",
@@ -12035,6 +12075,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 180076,
+      "num": 180076,
+      "word": "陈丽君红衣舞剑",
+      "onboard_time": 1712926039,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 180036,
       "num": 180036,
       "word": "欧冠",
@@ -12075,12 +12123,12 @@
       "category": "动漫,作品衍生"
     },
     {
-      "raw_hot": 179540,
-      "num": 179540,
-      "word": "让眼睛越来越好的9个小习惯",
-      "onboard_time": 1712924778,
-      "rank": 32,
-      "category": "健康医疗"
+      "raw_hot": 179164,
+      "num": 179164,
+      "word": "李溪芮吊带银裙",
+      "onboard_time": 1712927658,
+      "rank": 31,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 178990,
@@ -14467,6 +14515,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 140986,
+      "num": 140986,
+      "word": "女生需要的安全感来自确定性",
+      "onboard_time": 1712927119,
+      "rank": 40,
+      "category": "情感"
+    },
+    {
       "raw_hot": 140529,
       "num": 140529,
       "word": "为何女生比男生更喜欢用iPhone",
@@ -15747,6 +15803,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 121447,
+      "num": 121447,
+      "word": "专家称A股牛市正在孕育中",
+      "onboard_time": 1712927838,
+      "rank": 46,
+      "category": "财经"
+    },
+    {
       "raw_hot": 121334,
       "num": 121334,
       "word": "与凤行今日收官",
@@ -15865,6 +15929,14 @@
       "onboard_time": 1712473458,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 119254,
+      "num": 119254,
+      "word": "原神新角色",
+      "onboard_time": 1712927897,
+      "rank": 48,
+      "category": "游戏"
     },
     {
       "raw_hot": 119122,
@@ -16691,6 +16763,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 84763,
+      "num": 242861,
+      "word": "想去涩谷当怪盗",
+      "onboard_time": 1712923997,
+      "rank": 36,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 84276,
       "num": 136707,
       "word": "WTT点评女乒众将",
@@ -17163,14 +17243,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 57284,
-      "num": 214856,
-      "word": "想去涩谷当怪盗",
-      "onboard_time": 1712923997,
-      "rank": 36,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 56662,
       "num": 56662,
       "word": "湖人四连胜",
@@ -17225,6 +17297,14 @@
       "onboard_time": 1712461758,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 52996,
+      "num": 174350,
+      "word": "米里米气的iCAR品牌发布会",
+      "onboard_time": 1712927537,
+      "rank": 32,
+      "category": "汽车"
     },
     {
       "raw_hot": 50366,

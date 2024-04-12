@@ -1,0 +1,410 @@
+{
+  "runTime": 1712927959607,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2351041,
+        "num": 2351041,
+        "word": "网红猫一杯道歉",
+        "onboard_time": 1712919798,
+        "rank": 0,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 1175344,
+        "num": 1175344,
+        "word": "留守女童困在软色情短视频里",
+        "onboard_time": 1712925078,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 63743,
+        "num": 939131,
+        "word": "诗经里的绝美中国色",
+        "onboard_time": 1712912298,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 932426,
+        "num": 932426,
+        "word": "百万网红杨立新遇害",
+        "onboard_time": 1712910078,
+        "rank": 3,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 772894,
+        "num": 772894,
+        "word": "林更新坦言二搭赵丽颖有压力",
+        "onboard_time": 1712923519,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 615319,
+        "num": 615319,
+        "word": "秦朗丢寒假作业系摆拍博主被处罚",
+        "onboard_time": 1712919678,
+        "rank": 5,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 549288,
+        "num": 549288,
+        "word": "朋友称网红杨立新遇害前吃了堕胎药",
+        "onboard_time": 1712923218,
+        "rank": 6,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 520223,
+        "num": 520223,
+        "word": "乘风2024官宣",
+        "onboard_time": 1712913739,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 357508,
+        "num": 357508,
+        "word": "周大福足金戒指不到2个月出现褪色",
+        "onboard_time": 1712906478,
+        "rank": 8,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 170829,
+        "num": 355386,
+        "word": "小学生多看两眼帮铲除339株罂粟",
+        "onboard_time": 1712912419,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 958990,
+        "num": 352451,
+        "word": "我从211退学考上了另一所211",
+        "onboard_time": 1712926519,
+        "rank": 10,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 622814,
+        "num": 350746,
+        "word": "福宝和爷爷乘坐飞机的过程",
+        "onboard_time": 1712925318,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 498094,
+        "num": 346811,
+        "word": "有没有性生活都一定要做4项妇科检查",
+        "onboard_time": 1712907858,
+        "rank": 12,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 346273,
+        "num": 346273,
+        "word": "赵露思王安宇拥抱",
+        "onboard_time": 1712920698,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 327377,
+        "num": 327377,
+        "word": "鹿晗黄子韬再合作",
+        "onboard_time": 1712910198,
+        "rank": 14,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 319928,
+        "num": 319928,
+        "word": "王楚钦冲击首个世界单打冠军",
+        "onboard_time": 1712923037,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 315532,
+        "num": 315532,
+        "word": "恋爱兄妹",
+        "onboard_time": 1712921657,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 286555,
+        "num": 286555,
+        "word": "五月天官宣演唱会",
+        "onboard_time": 1712916859,
+        "rank": 17,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 283289,
+        "num": 283289,
+        "word": "刘雅瑟的腰臀比",
+        "onboard_time": 1712922377,
+        "rank": 18,
+        "category": "电影,时尚"
+      },
+      {
+        "raw_hot": 242977,
+        "num": 242977,
+        "word": "连花花都不认识你来看花花",
+        "onboard_time": 1712926637,
+        "rank": 19,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 674969,
+        "num": 242951,
+        "word": "董宇辉回应现在讲解质量差",
+        "onboard_time": 1712922497,
+        "rank": 20,
+        "category": "互联网,网红"
+      },
+      {
+        "raw_hot": 256823,
+        "num": 242890,
+        "word": "我在大山里捡了一个女儿",
+        "onboard_time": 1712923457,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 84763,
+        "num": 242861,
+        "word": "想去涩谷当怪盗",
+        "onboard_time": 1712923997,
+        "rank": 22,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 250655,
+        "num": 242834,
+        "word": "林更新说不强求与凤行能带来更多工作",
+        "onboard_time": 1712924837,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 245512,
+        "num": 242767,
+        "word": "何洁自制短剧上浪姐",
+        "onboard_time": 1712926819,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 242740,
+        "num": 242740,
+        "word": "原神阿蕾奇诺",
+        "onboard_time": 1712927838,
+        "rank": 25,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 220368,
+        "num": 220368,
+        "word": "胡锡进总亏损超6万元",
+        "onboard_time": 1712920877,
+        "rank": 26,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 216685,
+        "num": 216685,
+        "word": "原神前瞻",
+        "onboard_time": 1712923579,
+        "rank": 27,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 187963,
+        "num": 187963,
+        "word": "朴宝蓝喝酒后死亡",
+        "onboard_time": 1712890817,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 183190,
+        "num": 183190,
+        "word": "让眼睛越来越好的9个小习惯",
+        "onboard_time": 1712924778,
+        "rank": 29,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 180076,
+        "num": 180076,
+        "word": "陈丽君红衣舞剑",
+        "onboard_time": 1712926039,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 179164,
+        "num": 179164,
+        "word": "李溪芮吊带银裙",
+        "onboard_time": 1712927658,
+        "rank": 31,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 52996,
+        "num": 174350,
+        "word": "米里米气的iCAR品牌发布会",
+        "onboard_time": 1712927537,
+        "rank": 32,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 172195,
+        "num": 172195,
+        "word": "乐言喊zdz姐夫",
+        "onboard_time": 1712917638,
+        "rank": 33,
+        "category": "电竞,艺人"
+      },
+      {
+        "raw_hot": 167386,
+        "num": 167386,
+        "word": "李莎旻子回浪姐",
+        "onboard_time": 1712925318,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 166548,
+        "num": 166548,
+        "word": "王俊凯春节胖15斤",
+        "onboard_time": 1712913797,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 164436,
+        "num": 164436,
+        "word": "金泰亨伤痕",
+        "onboard_time": 1712920218,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 154510,
+        "num": 154510,
+        "word": "种地吧这一期封神",
+        "onboard_time": 1712918779,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 143919,
+        "num": 143919,
+        "word": "文韬生日会",
+        "onboard_time": 1712920278,
+        "rank": 38,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 141041,
+        "num": 141041,
+        "word": "人近三十朋友圈迎来大面积关闭潮",
+        "onboard_time": 1712914638,
+        "rank": 39,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 140986,
+        "num": 140986,
+        "word": "女生需要的安全感来自确定性",
+        "onboard_time": 1712927119,
+        "rank": 40,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 132243,
+        "num": 132243,
+        "word": "浪5舞台不是巨幕是天幕",
+        "onboard_time": 1712922917,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 130825,
+        "num": 130825,
+        "word": "全员加速中",
+        "onboard_time": 1712924598,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 123488,
+        "num": 123488,
+        "word": "迪丽热巴还在戴毛线帽",
+        "onboard_time": 1712914818,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 123441,
+        "num": 123441,
+        "word": "严浩翔真的情绪稳定的神",
+        "onboard_time": 1712924598,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 121957,
+        "num": 121957,
+        "word": "秦朗丢寒假作业原视频仍未删除",
+        "onboard_time": 1712925617,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 121447,
+        "num": 121447,
+        "word": "专家称A股牛市正在孕育中",
+        "onboard_time": 1712927838,
+        "rank": 46,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 121239,
+        "num": 121239,
+        "word": "死亡野生大熊猫为成年雌性",
+        "onboard_time": 1712912719,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 119254,
+        "num": 119254,
+        "word": "原神新角色",
+        "onboard_time": 1712927897,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 116105,
+        "num": 116105,
+        "word": "为什么旅行时没有美丽羞耻",
+        "onboard_time": 1712921899,
+        "rank": 49,
+        "category": "旅游"
+      }
+    ],
+    "hotgov": {
+      "word": "#为人类和平利用太空贡献更多中国智慧#"
+    }
+  }
+}
