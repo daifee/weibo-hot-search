@@ -1,6 +1,6 @@
 {
   "startTime": 1712938901785,
-  "endTime": 1712961250410,
+  "endTime": 1712963658249,
   "band_list": [
     {
       "raw_hot": 984604,
@@ -32,6 +32,14 @@
       "word": "网红猫一杯道歉",
       "onboard_time": 1712919798,
       "rank": 20,
+      "category": "网红"
+    },
+    {
+      "raw_hot": 702532,
+      "num": 312088,
+      "word": "杨立新遇害21天前刚收嫌疑人为徒",
+      "onboard_time": 1712940855,
+      "rank": 13,
       "category": "网红"
     },
     {
@@ -91,12 +99,12 @@
       "category": "社会新闻,网红"
     },
     {
-      "raw_hot": 366661,
-      "num": 191381,
-      "word": "杨立新遇害21天前刚收嫌疑人为徒",
-      "onboard_time": 1712940855,
-      "rank": 13,
-      "category": "网红"
+      "raw_hot": 353416,
+      "num": 353416,
+      "word": "员工晒董宇辉白发越来越多",
+      "onboard_time": 1712937857,
+      "rank": 29,
+      "category": "互联网,网红"
     },
     {
       "raw_hot": 351358,
@@ -131,20 +139,20 @@
       "category": "教育"
     },
     {
-      "raw_hot": 297405,
-      "num": 208737,
-      "word": "员工晒董宇辉白发越来越多",
-      "onboard_time": 1712937857,
-      "rank": 29,
-      "category": "互联网,网红"
-    },
-    {
       "raw_hot": 284537,
       "num": 284537,
       "word": "美情报显示伊朗将在24至48小时内动手",
       "onboard_time": 1712932220,
       "rank": 8,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 283063,
+      "num": 283063,
+      "word": "男子囤4600多克金条坚决不卖",
+      "onboard_time": 1712941815,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 279454,
@@ -177,6 +185,14 @@
       "onboard_time": 1712930598,
       "rank": 21,
       "category": "情感"
+    },
+    {
+      "raw_hot": 227931,
+      "num": 227931,
+      "word": "杨洋摘面具",
+      "onboard_time": 1712959932,
+      "rank": 38,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 227699,
@@ -227,6 +243,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 186756,
+      "num": 186756,
+      "word": "58岁姐姐去世弟弟含泪吹唢呐送别",
+      "onboard_time": 1712951471,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 174866,
       "num": 174866,
       "word": "承欢记收视率创新高",
@@ -235,12 +259,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 171680,
-      "num": 119297,
-      "word": "男子囤4600多克金条坚决不卖",
-      "onboard_time": 1712941815,
-      "rank": 45,
-      "category": "社会新闻"
+      "raw_hot": 162936,
+      "num": 145193,
+      "word": "男子在电梯实施家暴被保安制服",
+      "onboard_time": 1712953091,
+      "rank": 33,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 159485,
@@ -289,6 +313,14 @@
       "onboard_time": 1712923218,
       "rank": 31,
       "category": "网红"
+    },
+    {
+      "raw_hot": 129864,
+      "num": 129864,
+      "word": "外星人绑架案出现新证人",
+      "onboard_time": 1712953151,
+      "rank": 23,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 128376,
@@ -411,12 +443,12 @@
       "category": "财经"
     },
     {
-      "raw_hot": 90766,
-      "num": 90766,
-      "word": "58岁姐姐去世弟弟含泪吹唢呐送别",
-      "onboard_time": 1712951471,
-      "rank": 8,
-      "category": "社会新闻"
+      "raw_hot": 90483,
+      "num": 90483,
+      "word": "王源 我年纪大了",
+      "onboard_time": 1712949551,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 86862,
@@ -425,6 +457,14 @@
       "onboard_time": 1712922497,
       "rank": 45,
       "category": "互联网,网红"
+    },
+    {
+      "raw_hot": 86804,
+      "num": 86804,
+      "word": "31岁的张彬彬现在转型是对的吗",
+      "onboard_time": 1712955131,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 85438,
@@ -443,14 +483,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 76483,
-      "num": 67895,
-      "word": "外星人绑架案出现新证人",
-      "onboard_time": 1712953151,
-      "rank": 23,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 73671,
       "num": 96319,
       "word": "发疯文学算是被大学生玩明白了",
@@ -459,36 +491,20 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 72679,
-      "num": 67325,
-      "word": "男子在电梯实施家暴被保安制服",
-      "onboard_time": 1712953091,
-      "rank": 33,
-      "category": "社会正能量"
-    },
-    {
-      "raw_hot": 67218,
-      "num": 67218,
-      "word": "杨洋摘面具",
-      "onboard_time": 1712959932,
-      "rank": 38,
-      "category": "作品衍生"
-    },
-    {
-      "raw_hot": 62341,
-      "num": 62341,
-      "word": "王源 我年纪大了",
-      "onboard_time": 1712949551,
-      "rank": 24,
+      "raw_hot": 63527,
+      "num": 63527,
+      "word": "赵丽颖南京工作室注销",
+      "onboard_time": 1712953991,
+      "rank": 34,
       "category": "艺人"
     },
     {
-      "raw_hot": 57913,
-      "num": 57913,
-      "word": "31岁的张彬彬现在转型是对的吗",
-      "onboard_time": 1712955131,
-      "rank": 25,
-      "category": "艺人"
+      "raw_hot": 56548,
+      "num": 56548,
+      "word": "金价飙升新人选择将三金折现",
+      "onboard_time": 1712946012,
+      "rank": 48,
+      "category": "财经"
     },
     {
       "raw_hot": 54987,
@@ -507,12 +523,12 @@
       "category": "剧集,综艺"
     },
     {
-      "raw_hot": 41595,
-      "num": 41595,
-      "word": "赵丽颖南京工作室注销",
-      "onboard_time": 1712953991,
-      "rank": 34,
-      "category": "艺人"
+      "raw_hot": 46959,
+      "num": 46959,
+      "word": "金价或将被推升至3000美元",
+      "onboard_time": 1712963234,
+      "rank": 35,
+      "category": "财经"
     },
     {
       "raw_hot": 39730,
@@ -531,12 +547,20 @@
       "category": "网红"
     },
     {
-      "raw_hot": 36001,
-      "num": 36001,
-      "word": "金价飙升新人选择将三金折现",
-      "onboard_time": 1712946012,
-      "rank": 48,
-      "category": "财经"
+      "raw_hot": 36173,
+      "num": 36173,
+      "word": "妖精的尾巴 一家三口",
+      "onboard_time": 1712948352,
+      "rank": 41,
+      "category": "动漫,作品衍生"
+    },
+    {
+      "raw_hot": 32137,
+      "num": 32137,
+      "word": "张小斐年度影响力演员",
+      "onboard_time": 1712963174,
+      "rank": 49,
+      "category": "电影"
     },
     {
       "raw_hot": 27678,
@@ -545,14 +569,6 @@
       "onboard_time": 1712946733,
       "rank": 46,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 27373,
-      "num": 30810,
-      "word": "妖精的尾巴 一家三口",
-      "onboard_time": 1712948352,
-      "rank": 41,
-      "category": "动漫,作品衍生"
     },
     {
       "raw_hot": 25379,

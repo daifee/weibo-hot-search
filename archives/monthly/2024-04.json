@@ -1,6 +1,6 @@
 {
   "startTime": 1711902044401,
-  "endTime": 1712961250410,
+  "endTime": 1712963658249,
   "band_list": [
     {
       "raw_hot": 16874674,
@@ -4889,6 +4889,14 @@
       "onboard_time": 1712794520,
       "rank": 15,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 702532,
+      "num": 312088,
+      "word": "杨立新遇害21天前刚收嫌疑人为徒",
+      "onboard_time": 1712940855,
+      "rank": 13,
+      "category": "网红"
     },
     {
       "raw_hot": 699718,
@@ -11315,14 +11323,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 366661,
-      "num": 191381,
-      "word": "杨立新遇害21天前刚收嫌疑人为徒",
-      "onboard_time": 1712940855,
-      "rank": 13,
-      "category": "网红"
-    },
-    {
       "raw_hot": 366377,
       "num": 309860,
       "word": "清明还没到 男二人没了",
@@ -11697,6 +11697,14 @@
       "onboard_time": 1712397258,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 353416,
+      "num": 353416,
+      "word": "员工晒董宇辉白发越来越多",
+      "onboard_time": 1712937857,
+      "rank": 29,
+      "category": "互联网,网红"
     },
     {
       "raw_hot": 353185,
@@ -13795,14 +13803,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 297405,
-      "num": 208737,
-      "word": "员工晒董宇辉白发越来越多",
-      "onboard_time": 1712937857,
-      "rank": 29,
-      "category": "互联网,网红"
-    },
-    {
       "raw_hot": 297151,
       "num": 297151,
       "word": "鹿晗请粉丝喝椰子水",
@@ -14449,6 +14449,14 @@
       "onboard_time": 1712537480,
       "rank": 25,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 283063,
+      "num": 283063,
+      "word": "男子囤4600多克金条坚决不卖",
+      "onboard_time": 1712941815,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 283011,
@@ -17817,6 +17825,14 @@
       "onboard_time": 1712542997,
       "rank": 35,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 227931,
+      "num": 227931,
+      "word": "杨洋摘面具",
+      "onboard_time": 1712959932,
+      "rank": 38,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 227788,
@@ -22819,6 +22835,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 186756,
+      "num": 186756,
+      "word": "58岁姐姐去世弟弟含泪吹唢呐送别",
+      "onboard_time": 1712951471,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 186741,
       "num": 186741,
       "word": "黄晓明 反向综艺感的神",
@@ -24691,14 +24715,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 171680,
-      "num": 119297,
-      "word": "男子囤4600多克金条坚决不卖",
-      "onboard_time": 1712941815,
-      "rank": 45,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 171639,
       "num": 171639,
       "word": "今天上午的感觉如下",
@@ -25657,6 +25673,14 @@
       "onboard_time": 1712149280,
       "rank": 48,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 162936,
+      "num": 145193,
+      "word": "男子在电梯实施家暴被保安制服",
+      "onboard_time": 1712953091,
+      "rank": 33,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 162814,
@@ -30035,6 +30059,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 129864,
+      "num": 129864,
+      "word": "外星人绑架案出现新证人",
+      "onboard_time": 1712953151,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 129778,
       "num": 129778,
       "word": "健身真的能改变一个人的脸型吗",
@@ -32571,20 +32603,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 90766,
-      "num": 90766,
-      "word": "58岁姐姐去世弟弟含泪吹唢呐送别",
-      "onboard_time": 1712951471,
-      "rank": 8,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 90755,
       "num": 90755,
       "word": "郑合惠子的体重",
       "onboard_time": 1712774292,
       "rank": 13,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 90483,
+      "num": 90483,
+      "word": "王源 我年纪大了",
+      "onboard_time": 1712949551,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 90270,
@@ -32665,6 +32697,14 @@
       "onboard_time": 1712763918,
       "rank": 47,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 86804,
+      "num": 86804,
+      "word": "31岁的张彬彬现在转型是对的吗",
+      "onboard_time": 1712955131,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 86755,
@@ -32939,14 +32979,6 @@
       "category": "军事"
     },
     {
-      "raw_hot": 76483,
-      "num": 67895,
-      "word": "外星人绑架案出现新证人",
-      "onboard_time": 1712953151,
-      "rank": 23,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 76451,
       "num": 76451,
       "word": "宫崎骏新作 完美的谢幕",
@@ -33115,14 +33147,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 72679,
-      "num": 67325,
-      "word": "男子在电梯实施家暴被保安制服",
-      "onboard_time": 1712953091,
-      "rank": 33,
-      "category": "社会正能量"
-    },
-    {
       "raw_hot": 72375,
       "num": 72375,
       "word": "姆巴佩0射正",
@@ -33283,14 +33307,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 67218,
-      "num": 67218,
-      "word": "杨洋摘面具",
-      "onboard_time": 1712959932,
-      "rank": 38,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 67131,
       "num": 67131,
       "word": "李多寅晒女儿脚丫照",
@@ -33395,6 +33411,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 63527,
+      "num": 63527,
+      "word": "赵丽颖南京工作室注销",
+      "onboard_time": 1712953991,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 62840,
       "num": 62840,
       "word": "清明档首日票房破3亿",
@@ -33417,14 +33441,6 @@
       "onboard_time": 1711911732,
       "rank": 23,
       "category": "演出"
-    },
-    {
-      "raw_hot": 62341,
-      "num": 62341,
-      "word": "王源 我年纪大了",
-      "onboard_time": 1712949551,
-      "rank": 24,
-      "category": "艺人"
     },
     {
       "raw_hot": 61679,
@@ -33539,14 +33555,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 57913,
-      "num": 57913,
-      "word": "31岁的张彬彬现在转型是对的吗",
-      "onboard_time": 1712955131,
-      "rank": 25,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 57816,
       "num": 472157,
       "word": "197653我们从未忘记",
@@ -33593,6 +33601,14 @@
       "onboard_time": 1712445855,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 56548,
+      "num": 56548,
+      "word": "金价飙升新人选择将三金折现",
+      "onboard_time": 1712946012,
+      "rank": 48,
+      "category": "财经"
     },
     {
       "raw_hot": 56330,
@@ -33859,6 +33875,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 46959,
+      "num": 46959,
+      "word": "金价或将被推升至3000美元",
+      "onboard_time": 1712963234,
+      "rank": 35,
+      "category": "财经"
+    },
+    {
       "raw_hot": 46826,
       "num": 4360432,
       "word": "中非互联网发展与合作论坛",
@@ -33984,14 +34008,6 @@
       "word": "王一博婉拒吃播",
       "onboard_time": 1712598554,
       "rank": 26,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 41595,
-      "num": 41595,
-      "word": "赵丽颖南京工作室注销",
-      "onboard_time": 1712953991,
-      "rank": 34,
       "category": "艺人"
     },
     {
@@ -34139,20 +34155,20 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 36173,
+      "num": 36173,
+      "word": "妖精的尾巴 一家三口",
+      "onboard_time": 1712948352,
+      "rank": 41,
+      "category": "动漫,作品衍生"
+    },
+    {
       "raw_hot": 36105,
       "num": 140480,
       "word": "重生之我在东京当富哥",
       "onboard_time": 1712917277,
       "rank": 38,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 36001,
-      "num": 36001,
-      "word": "金价飙升新人选择将三金折现",
-      "onboard_time": 1712946012,
-      "rank": 48,
-      "category": "财经"
     },
     {
       "raw_hot": 35379,
@@ -34233,6 +34249,14 @@
       "onboard_time": 1712272575,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 32137,
+      "num": 32137,
+      "word": "张小斐年度影响力演员",
+      "onboard_time": 1712963174,
+      "rank": 49,
+      "category": "电影"
     },
     {
       "raw_hot": 32101,
@@ -34361,14 +34385,6 @@
       "onboard_time": 1712345591,
       "rank": 37,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 27373,
-      "num": 30810,
-      "word": "妖精的尾巴 一家三口",
-      "onboard_time": 1712948352,
-      "rank": 41,
-      "category": "动漫,作品衍生"
     },
     {
       "raw_hot": 27309,

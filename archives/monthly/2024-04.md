@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/04/01 00:20:44 ~ 2024/04/13 06:34:10
+本榜单时间：2024/04/01 00:20:44 ~ 2024/04/13 07:14:18
 </p>
 </blockquote>
 <p>
@@ -3681,6 +3681,12 @@ TES被偷家（热度：704307）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9D%A8%E7%AB%8B%E6%96%B0%E9%81%87%E5%AE%B321%E5%A4%A9%E5%89%8D%E5%88%9A%E6%94%B6%E5%AB%8C%E7%96%91%E4%BA%BA%E4%B8%BA%E5%BE%92%23" target="weibo">
+杨立新遇害21天前刚收嫌疑人为徒（热度：702532）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E5%85%83%E8%8B%B1%E7%AB%99%E5%A7%90%E5%8F%91%E4%BA%86%E5%88%98%E8%80%80%E6%96%87%23" target="weibo">
 张元英站姐发了刘耀文（热度：699718）
 </a>
@@ -6005,12 +6011,6 @@ Doinb回归（热度：515208）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%8B%E4%B8%8B%E5%91%A8%E4%BE%9D%E6%97%A7%E6%98%AF%E4%B8%8A6%E5%A4%A9%E7%8F%AD%23" target="weibo">
 下下周依旧是上6天班（热度：502516）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E8%8A%B1%E6%A4%92%E5%91%9B%E5%96%89%E6%8E%A8%E5%BC%80%E5%AE%B6%E4%BA%BA%E6%B5%B7%E5%A7%86%E7%AB%8B%E5%85%8B%E6%B3%95%E8%87%AA%E6%95%91%23" target="weibo">
-女子花椒呛喉推开家人海姆立克法自救（热度：502499）
 </a>
 </li>
 
