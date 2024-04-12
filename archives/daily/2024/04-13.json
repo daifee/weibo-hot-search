@@ -1,6 +1,6 @@
 {
   "startTime": 1712938901785,
-  "endTime": 1712953050836,
+  "endTime": 1712954055269,
   "band_list": [
     {
       "raw_hot": 984604,
@@ -443,6 +443,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 72850,
+      "num": 53757,
+      "word": "58岁姐姐去世弟弟含泪吹唢呐送别",
+      "onboard_time": 1712951471,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 54987,
       "num": 96038,
       "word": "原神前瞻",
@@ -457,14 +465,6 @@
       "onboard_time": 1712949551,
       "rank": 24,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 50765,
-      "num": 50765,
-      "word": "58岁姐姐去世弟弟含泪吹唢呐送别",
-      "onboard_time": 1712951471,
-      "rank": 8,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 49657,
@@ -520,6 +520,22 @@
       "word": "朴宝蓝将尸检",
       "onboard_time": 1712948472,
       "rank": 40,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 23557,
+      "num": 23557,
+      "word": "外星人绑架案出现新证人",
+      "onboard_time": 1712953151,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 18313,
+      "num": 18313,
+      "word": "赵丽颖南京工作室注销",
+      "onboard_time": 1712953991,
+      "rank": 34,
       "category": "艺人"
     },
     {

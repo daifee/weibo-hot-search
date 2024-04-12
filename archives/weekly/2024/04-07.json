@@ -1,6 +1,6 @@
 {
   "startTime": 1712420539476,
-  "endTime": 1712953050836,
+  "endTime": 1712954055269,
   "band_list": [
     {
       "raw_hot": 9583581,
@@ -17427,6 +17427,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 72850,
+      "num": 53757,
+      "word": "58岁姐姐去世弟弟含泪吹唢呐送别",
+      "onboard_time": 1712951471,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 72375,
       "num": 72375,
       "word": "姆巴佩0射正",
@@ -17729,14 +17737,6 @@
       "onboard_time": 1712461758,
       "rank": 20,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 50765,
-      "num": 50765,
-      "word": "58岁姐姐去世弟弟含泪吹唢呐送别",
-      "onboard_time": 1712951471,
-      "rank": 8,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 50366,
@@ -18219,6 +18219,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 23557,
+      "num": 23557,
+      "word": "外星人绑架案出现新证人",
+      "onboard_time": 1712953151,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 23427,
       "num": 28301,
       "word": "春日cityhappy计划",
@@ -18353,6 +18361,14 @@
       "onboard_time": 1712660659,
       "rank": 36,
       "category": "数码"
+    },
+    {
+      "raw_hot": 18313,
+      "num": 18313,
+      "word": "赵丽颖南京工作室注销",
+      "onboard_time": 1712953991,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 17289,
