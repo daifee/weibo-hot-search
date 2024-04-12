@@ -1,0 +1,410 @@
+{
+  "runTime": 1712907321958,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1341302,
+        "num": 1341302,
+        "word": "溺亡大熊猫表面无明显人为伤",
+        "onboard_time": 1712902878,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 642953,
+        "num": 642953,
+        "word": "赵丽颖的伞撑了一个又一个人",
+        "onboard_time": 1712901798,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 13189,
+        "num": 599143,
+        "word": "中国卫星又给地球月球拍了张合影",
+        "onboard_time": 1712892859,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 565058,
+        "num": 565058,
+        "word": "首饰金价一夜飙升15元每克",
+        "onboard_time": 1712901558,
+        "rank": 3,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 531537,
+        "num": 531537,
+        "word": "林更新186的身高147的体重",
+        "onboard_time": 1712899700,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 449161,
+        "num": 449161,
+        "word": "调休多上一天班为什么这么累",
+        "onboard_time": 1712898977,
+        "rank": 5,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 389041,
+        "num": 389041,
+        "word": "极限挑战",
+        "onboard_time": 1712904978,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 368637,
+        "num": 368637,
+        "word": "十个勤天小店",
+        "onboard_time": 1712903178,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 350322,
+        "num": 350322,
+        "word": "林更新胡一天撞衫",
+        "onboard_time": 1712904436,
+        "rank": 8,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 223661,
+        "num": 347747,
+        "word": "丫丫的春笋是XXXXL号",
+        "onboard_time": 1712885358,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 820032,
+        "num": 344859,
+        "word": "朴宝蓝喝酒后死亡",
+        "onboard_time": 1712890817,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 480222,
+        "num": 336392,
+        "word": "陈震称小米SU7赛道撞墙再正常不过",
+        "onboard_time": 1712904017,
+        "rank": 11,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 405997,
+        "num": 330464,
+        "word": "Sunnee熊梓淇方声明",
+        "onboard_time": 1712906417,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 329074,
+        "num": 329074,
+        "word": "蔡依林演唱会1290元比1590元座位更靠前",
+        "onboard_time": 1712905277,
+        "rank": 13,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 320846,
+        "num": 320846,
+        "word": "女子被轿车撞倒身亡目击者发声",
+        "onboard_time": 1712903297,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 328059,
+        "num": 319668,
+        "word": "十万天神同祝的婚礼",
+        "onboard_time": 1712904436,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 307025,
+        "num": 307025,
+        "word": "侯雯元枕上了钟楚曦送的枕头",
+        "onboard_time": 1712900000,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 294168,
+        "num": 294168,
+        "word": "青山刚昌癫了",
+        "onboard_time": 1712892138,
+        "rank": 17,
+        "category": "电影,动漫"
+      },
+      {
+        "raw_hot": 41773,
+        "num": 291307,
+        "word": "中国航天的12个第一次",
+        "onboard_time": 1712893337,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 167329,
+        "num": 289103,
+        "word": "重庆一房屋预制板断裂致2人死亡",
+        "onboard_time": 1712905518,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 288835,
+        "num": 288835,
+        "word": "魏大勋裴秀智合影旧照",
+        "onboard_time": 1712907019,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 263249,
+        "num": 263249,
+        "word": "体制内六件套",
+        "onboard_time": 1712899279,
+        "rank": 21,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 258699,
+        "num": 258699,
+        "word": "周大福足金戒指不到2个月出现褪色",
+        "onboard_time": 1712906478,
+        "rank": 22,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 252718,
+        "num": 252718,
+        "word": "一个普通女生的3个7年",
+        "onboard_time": 1712897899,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 211776,
+        "num": 211776,
+        "word": "1米5的花花吃了根1米8的笋笋",
+        "onboard_time": 1712905578,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 241063,
+        "num": 211485,
+        "word": "丁程鑫回怼导演组",
+        "onboard_time": 1712901439,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 238694,
+        "num": 211122,
+        "word": "向佐说一点都不介意别人叫他郭碧婷老公",
+        "onboard_time": 1712907257,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 230567,
+        "num": 210264,
+        "word": "沈璃行止的婚书",
+        "onboard_time": 1712905818,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 64471,
+        "num": 209636,
+        "word": "异人界掌管冰淇淋的神",
+        "onboard_time": 1712904738,
+        "rank": 28,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 79088,
+        "num": 209246,
+        "word": "有种007的工作叫育儿",
+        "onboard_time": 1712905338,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 233345,
+        "num": 208674,
+        "word": "眉毛真的和寿命有关吗",
+        "onboard_time": 1712906177,
+        "rank": 30,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 208408,
+        "num": 208408,
+        "word": "黄金",
+        "onboard_time": 1712906656,
+        "rank": 31,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 197786,
+        "num": 197786,
+        "word": "五一其实只放1天",
+        "onboard_time": 1712885958,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 194666,
+        "num": 194666,
+        "word": "官方回应雅安一野生大熊猫溺亡",
+        "onboard_time": 1712897599,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 166592,
+        "num": 190524,
+        "word": "时隔10年再次发布新国九条",
+        "onboard_time": 1712907076,
+        "rank": 34,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 190277,
+        "num": 190277,
+        "word": "心星相印的Matrix",
+        "onboard_time": 1712906718,
+        "rank": 35,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 189065,
+        "num": 189065,
+        "word": "30万年薪的银行员工要过紧日子了",
+        "onboard_time": 1712883439,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 186052,
+        "num": 186052,
+        "word": "鲜鱼刚下锅就开始在火锅中游泳了",
+        "onboard_time": 1712906478,
+        "rank": 37,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 19895,
+        "num": 182120,
+        "word": "P5X送疯了",
+        "onboard_time": 1712904017,
+        "rank": 38,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 181949,
+        "num": 181949,
+        "word": "杨迪海岛上厕所这段确实创造历史了",
+        "onboard_time": 1712905038,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 180898,
+        "num": 180898,
+        "word": "二十几岁没意识到自己很年轻",
+        "onboard_time": 1712904677,
+        "rank": 40,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 175049,
+        "num": 175049,
+        "word": "女儿假装丰唇来整蛊老爸",
+        "onboard_time": 1712905698,
+        "rank": 41,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 174301,
+        "num": 174301,
+        "word": "广州萤火虫漫展",
+        "onboard_time": 1712906839,
+        "rank": 42,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 169312,
+        "num": 169312,
+        "word": "700元的黄金谁拿谁烫手",
+        "onboard_time": 1712907199,
+        "rank": 43,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 158976,
+        "num": 158976,
+        "word": "易烊千玺演微电影",
+        "onboard_time": 1712905937,
+        "rank": 44,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 157477,
+        "num": 157477,
+        "word": "衣服买一件两百的还是五件四十的",
+        "onboard_time": 1712900358,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 154168,
+        "num": 154168,
+        "word": "MRC获胜",
+        "onboard_time": 1712907199,
+        "rank": 46,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 150993,
+        "num": 150993,
+        "word": "孩子爱玩蛋仔家长为何进退两难",
+        "onboard_time": 1712905937,
+        "rank": 47,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 147937,
+        "num": 147937,
+        "word": "大学四年居然买了一百斤衣服",
+        "onboard_time": 1712893879,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 146454,
+        "num": 146454,
+        "word": "雷军称小米SU7比他想象的成功3到5倍",
+        "onboard_time": 1712905757,
+        "rank": 49,
+        "category": "汽车"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记提出两岸同胞要做到四个坚定#"
+    }
+  }
+}

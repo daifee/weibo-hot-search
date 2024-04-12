@@ -1,6 +1,6 @@
 {
   "startTime": 1712420539476,
-  "endTime": 1712906352898,
+  "endTime": 1712907321958,
   "band_list": [
     {
       "raw_hot": 9583581,
@@ -635,6 +635,14 @@
       "category": "财经,时尚"
     },
     {
+      "raw_hot": 1341302,
+      "num": 1341302,
+      "word": "溺亡大熊猫表面无明显人为伤",
+      "onboard_time": 1712902878,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1335647,
       "num": 1335647,
       "word": "第一次见工作室捶正主",
@@ -881,14 +889,6 @@
       "onboard_time": 1712827397,
       "rank": 15,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 1168950,
-      "num": 1168950,
-      "word": "溺亡大熊猫表面无明显人为伤",
-      "onboard_time": 1712902878,
-      "rank": 45,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1158036,
@@ -2611,6 +2611,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 642953,
+      "num": 642953,
+      "word": "赵丽颖的伞撑了一个又一个人",
+      "onboard_time": 1712901798,
+      "rank": 11,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 640961,
       "num": 687494,
       "word": "福宝大口吃胡萝卜声音嘎嘣脆",
@@ -3131,14 +3139,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 571939,
-      "num": 571939,
-      "word": "赵丽颖的伞撑了一个又一个人",
-      "onboard_time": 1712901798,
-      "rank": 11,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 571710,
       "num": 408319,
       "word": "爷爷上坟比年轻人走的快",
@@ -3161,6 +3161,14 @@
       "onboard_time": 1712568978,
       "rank": 13,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 565058,
+      "num": 565058,
+      "word": "首饰金价一夜飙升15元每克",
+      "onboard_time": 1712901558,
+      "rank": 30,
+      "category": "财经"
     },
     {
       "raw_hot": 563231,
@@ -3915,6 +3923,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 480222,
+      "num": 350447,
+      "word": "陈震称小米SU7赛道撞墙再正常不过",
+      "onboard_time": 1712904017,
+      "rank": 10,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 479585,
       "num": 479585,
       "word": "夏之光 答应我不拍给的签名",
@@ -4249,14 +4265,6 @@
       "onboard_time": 1712798119,
       "rank": 14,
       "category": "电影"
-    },
-    {
-      "raw_hot": 452343,
-      "num": 350447,
-      "word": "陈震称小米SU7赛道撞墙再正常不过",
-      "onboard_time": 1712904017,
-      "rank": 10,
-      "category": "汽车"
     },
     {
       "raw_hot": 451202,
@@ -4787,6 +4795,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 405997,
+      "num": 330464,
+      "word": "Sunnee熊梓淇方声明",
+      "onboard_time": 1712906417,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 405504,
       "num": 405504,
       "word": "TES对战JDG",
@@ -4937,6 +4953,14 @@
       "onboard_time": 1712646079,
       "rank": 17,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 389041,
+      "num": 389041,
+      "word": "极限挑战",
+      "onboard_time": 1712904978,
+      "rank": 17,
+      "category": "综艺"
     },
     {
       "raw_hot": 388907,
@@ -5811,14 +5835,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 331009,
-      "num": 331009,
-      "word": "首饰金价一夜飙升15元每克",
-      "onboard_time": 1712901558,
-      "rank": 30,
-      "category": "财经"
-    },
-    {
       "raw_hot": 330425,
       "num": 330425,
       "word": "原来贡菜就是晒干的莴笋",
@@ -5841,6 +5857,14 @@
       "onboard_time": 1712843238,
       "rank": 18,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 329074,
+      "num": 329074,
+      "word": "蔡依林演唱会1290元比1590元座位更靠前",
+      "onboard_time": 1712905277,
+      "rank": 21,
+      "category": "演出"
     },
     {
       "raw_hot": 328842,
@@ -6009,6 +6033,14 @@
       "onboard_time": 1712587580,
       "rank": 21,
       "category": "情感"
+    },
+    {
+      "raw_hot": 320846,
+      "num": 320846,
+      "word": "女子被轿车撞倒身亡目击者发声",
+      "onboard_time": 1712903297,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 319210,
@@ -6347,14 +6379,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 303129,
-      "num": 303129,
-      "word": "极限挑战",
-      "onboard_time": 1712904978,
-      "rank": 17,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 301963,
       "num": 301963,
       "word": "郝蕾用张子枫类比锦超",
@@ -6673,6 +6697,14 @@
       "onboard_time": 1712674340,
       "rank": 21,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 288835,
+      "num": 288835,
+      "word": "魏大勋裴秀智合影旧照",
+      "onboard_time": 1712907019,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 288503,
@@ -7363,14 +7395,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 259051,
-      "num": 259051,
-      "word": "女子被轿车撞倒身亡目击者发声",
-      "onboard_time": 1712903297,
-      "rank": 36,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 258914,
       "num": 258914,
       "word": "于适 机场悍匪",
@@ -7385,6 +7409,14 @@
       "onboard_time": 1712490378,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 258699,
+      "num": 258699,
+      "word": "周大福足金戒指不到2个月出现褪色",
+      "onboard_time": 1712906478,
+      "rank": 22,
+      "category": "财经"
     },
     {
       "raw_hot": 258612,
@@ -8115,6 +8147,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 238694,
+      "num": 211122,
+      "word": "向佐说一点都不介意别人叫他郭碧婷老公",
+      "onboard_time": 1712907257,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 238647,
       "num": 238647,
       "word": "王者荣耀",
@@ -8259,6 +8299,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 233345,
+      "num": 208674,
+      "word": "眉毛真的和寿命有关吗",
+      "onboard_time": 1712906177,
+      "rank": 47,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 233248,
       "num": 233248,
       "word": "我牵着我的女人走了啊",
@@ -8377,6 +8425,14 @@
       "onboard_time": 1712673560,
       "rank": 23,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 230567,
+      "num": 210264,
+      "word": "沈璃行止的婚书",
+      "onboard_time": 1712905818,
+      "rank": 25,
+      "category": "剧集"
     },
     {
       "raw_hot": 230246,
@@ -8665,14 +8721,6 @@
       "onboard_time": 1712636179,
       "rank": 42,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 223149,
-      "num": 191731,
-      "word": "蔡依林演唱会1290元比1590元座位更靠前",
-      "onboard_time": 1712905277,
-      "rank": 21,
-      "category": "演出"
     },
     {
       "raw_hot": 223098,
@@ -9091,6 +9139,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 211776,
+      "num": 211776,
+      "word": "1米5的花花吃了根1米8的笋笋",
+      "onboard_time": 1712905578,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 211315,
       "num": 211315,
       "word": "唐嫣还不出图",
@@ -9449,14 +9505,6 @@
       "onboard_time": 1712811080,
       "rank": 31,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 206081,
-      "num": 188777,
-      "word": "沈璃行止的婚书",
-      "onboard_time": 1712905818,
-      "rank": 25,
-      "category": "剧集"
     },
     {
       "raw_hot": 206018,
@@ -10715,6 +10763,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 190277,
+      "num": 190277,
+      "word": "心星相印的Matrix",
+      "onboard_time": 1712906718,
+      "rank": 35,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 190137,
       "num": 190137,
       "word": "林更新或开见面会",
@@ -11001,6 +11057,14 @@
       "onboard_time": 1712634259,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 186052,
+      "num": 186052,
+      "word": "鲜鱼刚下锅就开始在火锅中游泳了",
+      "onboard_time": 1712906478,
+      "rank": 37,
+      "category": "美食"
     },
     {
       "raw_hot": 186049,
@@ -11643,6 +11707,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 175049,
+      "num": 175049,
+      "word": "女儿假装丰唇来整蛊老爸",
+      "onboard_time": 1712905698,
+      "rank": 32,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 174965,
       "num": 174965,
       "word": "金秀贤演技",
@@ -11705,6 +11777,14 @@
       "onboard_time": 1712627718,
       "rank": 36,
       "category": "数码"
+    },
+    {
+      "raw_hot": 174301,
+      "num": 174301,
+      "word": "广州萤火虫漫展",
+      "onboard_time": 1712906839,
+      "rank": 42,
+      "category": "动漫"
     },
     {
       "raw_hot": 174135,
@@ -11947,6 +12027,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 169312,
+      "num": 169312,
+      "word": "700元的黄金谁拿谁烫手",
+      "onboard_time": 1712907199,
+      "rank": 43,
+      "category": "财经"
+    },
+    {
       "raw_hot": 169286,
       "num": 169286,
       "word": "第五人格六周年",
@@ -11993,14 +12081,6 @@
       "onboard_time": 1712477418,
       "rank": 38,
       "category": "电影"
-    },
-    {
-      "raw_hot": 168518,
-      "num": 168518,
-      "word": "女儿假装丰唇来整蛊老爸",
-      "onboard_time": 1712905698,
-      "rank": 32,
-      "category": "幽默"
     },
     {
       "raw_hot": 168350,
@@ -12059,6 +12139,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 167329,
+      "num": 289103,
+      "word": "重庆一房屋预制板断裂致2人死亡",
+      "onboard_time": 1712905518,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 167025,
       "num": 167025,
       "word": "我国废旧手机存量已超过20亿部",
@@ -12073,6 +12161,14 @@
       "onboard_time": 1712445435,
       "rank": 22,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 166592,
+      "num": 190524,
+      "word": "时隔10年再次发布新国九条",
+      "onboard_time": 1712907076,
+      "rank": 34,
+      "category": "国内时政"
     },
     {
       "raw_hot": 166489,
@@ -12137,14 +12233,6 @@
       "onboard_time": 1712637740,
       "rank": 43,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 165623,
-      "num": 187458,
-      "word": "重庆一房屋预制板断裂致2人死亡",
-      "onboard_time": 1712905518,
-      "rank": 27,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 165510,
@@ -12787,6 +12875,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 154168,
+      "num": 154168,
+      "word": "MRC获胜",
+      "onboard_time": 1712907199,
+      "rank": 46,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 154139,
       "num": 233713,
       "word": "勇士战胜湖人",
@@ -13139,14 +13235,6 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 148768,
-      "num": 148768,
-      "word": "1米5的花花吃了根1米8的笋笋",
-      "onboard_time": 1712905578,
-      "rank": 35,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 148684,
       "num": 148684,
       "word": "白色梨花融入故宫配色",
@@ -13289,6 +13377,14 @@
       "onboard_time": 1712835498,
       "rank": 29,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 146454,
+      "num": 146454,
+      "word": "雷军称小米SU7比他想象的成功3到5倍",
+      "onboard_time": 1712905757,
+      "rank": 42,
+      "category": "汽车"
     },
     {
       "raw_hot": 146346,
@@ -14145,14 +14241,6 @@
       "onboard_time": 1712488579,
       "rank": 41,
       "category": "情感"
-    },
-    {
-      "raw_hot": 133248,
-      "num": 133248,
-      "word": "雷军称小米SU7比他想象的成功3到5倍",
-      "onboard_time": 1712905757,
-      "rank": 42,
-      "category": "汽车"
     },
     {
       "raw_hot": 133237,
@@ -15171,14 +15259,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 111739,
-      "num": 111739,
-      "word": "眉毛真的和寿命有关吗",
-      "onboard_time": 1712906177,
-      "rank": 47,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 111455,
       "num": 111455,
       "word": "创造营亚洲排名",
@@ -15420,7 +15500,7 @@
     },
     {
       "raw_hot": 100104,
-      "num": 186247,
+      "num": 209246,
       "word": "有种007的工作叫育儿",
       "onboard_time": 1712905338,
       "rank": 29,
@@ -15860,7 +15940,7 @@
     },
     {
       "raw_hot": 77256,
-      "num": 186439,
+      "num": 209636,
       "word": "异人界掌管冰淇淋的神",
       "onboard_time": 1712904738,
       "rank": 28,
@@ -16691,6 +16771,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 19895,
+      "num": 182120,
+      "word": "P5X送疯了",
+      "onboard_time": 1712904017,
+      "rank": 38,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 19410,
       "num": 19410,
       "word": "外国人可用中国五星卡实名认证游戏",
@@ -16769,14 +16857,6 @@
       "onboard_time": 1712603651,
       "rank": 49,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 14878,
-      "num": 138737,
-      "word": "P5X送疯了",
-      "onboard_time": 1712904017,
-      "rank": 38,
-      "category": "游戏"
     },
     {
       "raw_hot": 14707,

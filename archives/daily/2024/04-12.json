@@ -1,6 +1,6 @@
 {
   "startTime": 1712852435435,
-  "endTime": 1712906352898,
+  "endTime": 1712907321958,
   "band_list": [
     {
       "raw_hot": 2365529,
@@ -75,6 +75,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1341302,
+      "num": 1341302,
+      "word": "溺亡大熊猫表面无明显人为伤",
+      "onboard_time": 1712902878,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1210883,
       "num": 1210883,
       "word": "cp粉悬着的心终于死了",
@@ -88,14 +96,6 @@
       "word": "五一调休放5天",
       "onboard_time": 1712879356,
       "rank": 4,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1168950,
-      "num": 1168950,
-      "word": "溺亡大熊猫表面无明显人为伤",
-      "onboard_time": 1712902878,
-      "rank": 45,
       "category": "社会新闻"
     },
     {
@@ -227,6 +227,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 642953,
+      "num": 642953,
+      "word": "赵丽颖的伞撑了一个又一个人",
+      "onboard_time": 1712901798,
+      "rank": 11,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 629537,
       "num": 629537,
       "word": "侯雯元枕上了钟楚曦送的枕头",
@@ -291,12 +299,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 571939,
-      "num": 571939,
-      "word": "赵丽颖的伞撑了一个又一个人",
-      "onboard_time": 1712901798,
-      "rank": 11,
-      "category": "剧集"
+      "raw_hot": 565058,
+      "num": 565058,
+      "word": "首饰金价一夜飙升15元每克",
+      "onboard_time": 1712901558,
+      "rank": 30,
+      "category": "财经"
     },
     {
       "raw_hot": 555126,
@@ -403,7 +411,7 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 452343,
+      "raw_hot": 480222,
       "num": 350447,
       "word": "陈震称小米SU7赛道撞墙再正常不过",
       "onboard_time": 1712904017,
@@ -475,12 +483,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 405997,
+      "num": 330464,
+      "word": "Sunnee熊梓淇方声明",
+      "onboard_time": 1712906417,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 397296,
       "num": 261431,
       "word": "换儿子血的亿万富翁展示3年抗衰成果",
       "onboard_time": 1712835377,
       "rank": 22,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 389041,
+      "num": 389041,
+      "word": "极限挑战",
+      "onboard_time": 1712904978,
+      "rank": 17,
+      "category": "综艺"
     },
     {
       "raw_hot": 384808,
@@ -587,20 +611,20 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 331009,
-      "num": 331009,
-      "word": "首饰金价一夜飙升15元每克",
-      "onboard_time": 1712901558,
-      "rank": 30,
-      "category": "财经"
-    },
-    {
       "raw_hot": 329857,
       "num": 232714,
       "word": "原来明星的朋友圈跟我们的一样",
       "onboard_time": 1712902218,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 329074,
+      "num": 329074,
+      "word": "蔡依林演唱会1290元比1590元座位更靠前",
+      "onboard_time": 1712905277,
+      "rank": 21,
+      "category": "演出"
     },
     {
       "raw_hot": 324880,
@@ -617,6 +641,14 @@
       "onboard_time": 1712891658,
       "rank": 42,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 320846,
+      "num": 320846,
+      "word": "女子被轿车撞倒身亡目击者发声",
+      "onboard_time": 1712903297,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 319210,
@@ -651,14 +683,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 303129,
-      "num": 303129,
-      "word": "极限挑战",
-      "onboard_time": 1712904978,
-      "rank": 17,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 300247,
       "num": 300247,
       "word": "教资69",
@@ -689,6 +713,14 @@
       "onboard_time": 1712900358,
       "rank": 23,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 288835,
+      "num": 288835,
+      "word": "魏大勋裴秀智合影旧照",
+      "onboard_time": 1712907019,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 281068,
@@ -819,12 +851,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 259051,
-      "num": 259051,
-      "word": "女子被轿车撞倒身亡目击者发声",
-      "onboard_time": 1712903297,
-      "rank": 36,
-      "category": "社会新闻"
+      "raw_hot": 258699,
+      "num": 258699,
+      "word": "周大福足金戒指不到2个月出现褪色",
+      "onboard_time": 1712906478,
+      "rank": 22,
+      "category": "财经"
     },
     {
       "raw_hot": 258423,
@@ -907,6 +939,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 238694,
+      "num": 211122,
+      "word": "向佐说一点都不介意别人叫他郭碧婷老公",
+      "onboard_time": 1712907257,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 237962,
       "num": 237962,
       "word": "承欢记新浪扫楼",
@@ -929,6 +969,14 @@
       "onboard_time": 1712888057,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 233345,
+      "num": 208674,
+      "word": "眉毛真的和寿命有关吗",
+      "onboard_time": 1712906177,
+      "rank": 47,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 233212,
@@ -955,6 +1003,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 230567,
+      "num": 210264,
+      "word": "沈璃行止的婚书",
+      "onboard_time": 1712905818,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 227005,
       "num": 227005,
       "word": "小乐言评论区",
@@ -977,14 +1033,6 @@
       "onboard_time": 1712896520,
       "rank": 47,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 223149,
-      "num": 191731,
-      "word": "蔡依林演唱会1290元比1590元座位更靠前",
-      "onboard_time": 1712905277,
-      "rank": 21,
-      "category": "演出"
     },
     {
       "raw_hot": 222507,
@@ -1059,6 +1107,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 211776,
+      "num": 211776,
+      "word": "1米5的花花吃了根1米8的笋笋",
+      "onboard_time": 1712905578,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 209675,
       "num": 209675,
       "word": "这是我的岛",
@@ -1075,20 +1131,20 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 208408,
+      "num": 208408,
+      "word": "黄金",
+      "onboard_time": 1712906656,
+      "rank": 31,
+      "category": "财经"
+    },
+    {
       "raw_hot": 207953,
       "num": 190021,
       "word": "杨迪海岛上厕所这段确实创造历史了",
       "onboard_time": 1712905038,
       "rank": 23,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 206081,
-      "num": 188777,
-      "word": "沈璃行止的婚书",
-      "onboard_time": 1712905818,
-      "rank": 25,
-      "category": "剧集"
     },
     {
       "raw_hot": 204048,
@@ -1235,6 +1291,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 190277,
+      "num": 190277,
+      "word": "心星相印的Matrix",
+      "onboard_time": 1712906718,
+      "rank": 35,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 188502,
       "num": 188502,
       "word": "教资面试报名",
@@ -1265,6 +1329,14 @@
       "onboard_time": 1712892677,
       "rank": 44,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 186052,
+      "num": 186052,
+      "word": "鲜鱼刚下锅就开始在火锅中游泳了",
+      "onboard_time": 1712906478,
+      "rank": 37,
+      "category": "美食"
     },
     {
       "raw_hot": 184026,
@@ -1323,12 +1395,28 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 175049,
+      "num": 175049,
+      "word": "女儿假装丰唇来整蛊老爸",
+      "onboard_time": 1712905698,
+      "rank": 32,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 174845,
       "num": 174845,
       "word": "苹果回应iPhone零件序列化争议",
       "onboard_time": 1712882059,
       "rank": 43,
       "category": "数码"
+    },
+    {
+      "raw_hot": 174301,
+      "num": 174301,
+      "word": "广州萤火虫漫展",
+      "onboard_time": 1712906839,
+      "rank": 42,
+      "category": "动漫"
     },
     {
       "raw_hot": 172718,
@@ -1347,12 +1435,28 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 168518,
-      "num": 168518,
-      "word": "女儿假装丰唇来整蛊老爸",
-      "onboard_time": 1712905698,
-      "rank": 32,
-      "category": "幽默"
+      "raw_hot": 169312,
+      "num": 169312,
+      "word": "700元的黄金谁拿谁烫手",
+      "onboard_time": 1712907199,
+      "rank": 43,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 167329,
+      "num": 289103,
+      "word": "重庆一房屋预制板断裂致2人死亡",
+      "onboard_time": 1712905518,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 166592,
+      "num": 190524,
+      "word": "时隔10年再次发布新国九条",
+      "onboard_time": 1712907076,
+      "rank": 34,
+      "category": "国内时政"
     },
     {
       "raw_hot": 166570,
@@ -1369,14 +1473,6 @@
       "onboard_time": 1712817918,
       "rank": 24,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 165623,
-      "num": 187458,
-      "word": "重庆一房屋预制板断裂致2人死亡",
-      "onboard_time": 1712905518,
-      "rank": 27,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 164763,
@@ -1451,6 +1547,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 154168,
+      "num": 154168,
+      "word": "MRC获胜",
+      "onboard_time": 1712907199,
+      "rank": 46,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 153359,
       "num": 153359,
       "word": "孩子爱玩蛋仔家长为何进退两难",
@@ -1499,14 +1603,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 148768,
-      "num": 148768,
-      "word": "1米5的花花吃了根1米8的笋笋",
-      "onboard_time": 1712905578,
-      "rank": 35,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 148724,
       "num": 148724,
       "word": "告诉辛家亮他爸出轨了",
@@ -1539,6 +1635,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 146454,
+      "num": 146454,
+      "word": "雷军称小米SU7比他想象的成功3到5倍",
+      "onboard_time": 1712905757,
+      "rank": 42,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 146161,
       "num": 146161,
       "word": "问界新M5实车曝光",
@@ -1569,14 +1673,6 @@
       "onboard_time": 1712905996,
       "rank": 41,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 133248,
-      "num": 133248,
-      "word": "雷军称小米SU7比他想象的成功3到5倍",
-      "onboard_time": 1712905757,
-      "rank": 42,
-      "category": "汽车"
     },
     {
       "raw_hot": 131309,
@@ -1683,14 +1779,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 111739,
-      "num": 111739,
-      "word": "眉毛真的和寿命有关吗",
-      "onboard_time": 1712906177,
-      "rank": 47,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 105459,
       "num": 171542,
       "word": "巴黎奥运铁人三项或因塞纳河太脏改为两项",
@@ -1732,7 +1820,7 @@
     },
     {
       "raw_hot": 100104,
-      "num": 186247,
+      "num": 209246,
       "word": "有种007的工作叫育儿",
       "onboard_time": 1712905338,
       "rank": 29,
@@ -1852,7 +1940,7 @@
     },
     {
       "raw_hot": 77256,
-      "num": 186439,
+      "num": 209636,
       "word": "异人界掌管冰淇淋的神",
       "onboard_time": 1712904738,
       "rank": 28,
@@ -1995,8 +2083,8 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 14878,
-      "num": 138737,
+      "raw_hot": 19895,
+      "num": 182120,
       "word": "P5X送疯了",
       "onboard_time": 1712904017,
       "rank": 38,
