@@ -1,6 +1,6 @@
 {
   "startTime": 1712420539476,
-  "endTime": 1712891992038,
+  "endTime": 1712892930827,
   "band_list": [
     {
       "raw_hot": 9583581,
@@ -115,6 +115,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 2365529,
+      "num": 2365529,
+      "word": "教资成绩发布",
+      "onboard_time": 1712889257,
+      "rank": 19,
+      "category": "教育"
+    },
+    {
       "raw_hot": 2266453,
       "num": 2266453,
       "word": "工藤新一不能考公了",
@@ -179,12 +187,12 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 2047447,
-      "num": 2047447,
-      "word": "教资成绩发布",
-      "onboard_time": 1712889257,
-      "rank": 19,
-      "category": "教育"
+      "raw_hot": 2063526,
+      "num": 2063526,
+      "word": "朴宝蓝喝酒后死亡",
+      "onboard_time": 1712890817,
+      "rank": 1,
+      "category": "艺人"
     },
     {
       "raw_hot": 2030988,
@@ -409,14 +417,6 @@
       "onboard_time": 1712461279,
       "rank": 5,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1552996,
-      "num": 1552996,
-      "word": "朴宝蓝喝酒后死亡",
-      "onboard_time": 1712890817,
-      "rank": 1,
-      "category": "艺人"
     },
     {
       "raw_hot": 1546386,
@@ -1073,6 +1073,14 @@
       "onboard_time": 1712753419,
       "rank": 7,
       "category": "社会新闻,演出"
+    },
+    {
+      "raw_hot": 1049454,
+      "num": 1049454,
+      "word": "被轿车撞倒碾压女子已死亡",
+      "onboard_time": 1712891237,
+      "rank": 6,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1047061,
@@ -2939,6 +2947,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 586897,
+      "num": 586897,
+      "word": "青山刚昌癫了",
+      "onboard_time": 1712892138,
+      "rank": 5,
+      "category": "电影,动漫"
+    },
+    {
       "raw_hot": 585317,
       "num": 585317,
       "word": "肖战直播出图",
@@ -3241,14 +3257,6 @@
       "onboard_time": 1712451559,
       "rank": 13,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 531953,
-      "num": 531953,
-      "word": "被轿车撞倒碾压女子已死亡",
-      "onboard_time": 1712891237,
-      "rank": 6,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 531919,
@@ -4235,6 +4243,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 440194,
+      "num": 440194,
+      "word": "长发周雨彤杀回来了",
+      "onboard_time": 1712891597,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 440152,
       "num": 440152,
       "word": "二哈和他的白猫师尊",
@@ -4488,6 +4504,14 @@
       "word": "白桃星座",
       "onboard_time": 1712501721,
       "rank": 14,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 420697,
+      "num": 274097,
+      "word": "离职前可以顺走公司什么东西",
+      "onboard_time": 1712890937,
+      "rank": 21,
       "category": "情感"
     },
     {
@@ -5739,6 +5763,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 321570,
+      "num": 260583,
+      "word": "P5X全球公测",
+      "onboard_time": 1712891658,
+      "rank": 42,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 321412,
       "num": 274374,
       "word": "订婚时三金里面的手镯被偷了",
@@ -5751,14 +5783,6 @@
       "num": 321283,
       "word": "被窝好舒服",
       "onboard_time": 1712587580,
-      "rank": 21,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 319898,
-      "num": 274097,
-      "word": "离职前可以顺走公司什么东西",
-      "onboard_time": 1712890937,
       "rank": 21,
       "category": "情感"
     },
@@ -6435,6 +6459,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 286553,
+      "num": 265423,
+      "word": "癌症来临时身体3个部位会喊痛",
+      "onboard_time": 1712891476,
+      "rank": 30,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 286261,
       "num": 286261,
       "word": "考古王一博",
@@ -7003,14 +7035,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 259540,
-      "num": 259540,
-      "word": "长发周雨彤杀回来了",
-      "onboard_time": 1712891597,
-      "rank": 28,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 259371,
       "num": 259371,
       "word": "美国男演员失踪后死亡",
@@ -7067,6 +7091,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 258453,
+      "num": 258453,
+      "word": "湖北省考成绩",
+      "onboard_time": 1712892677,
+      "rank": 26,
+      "category": "教育"
+    },
+    {
       "raw_hot": 258446,
       "num": 258446,
       "word": "赵丽颖潦草小狗",
@@ -7089,6 +7121,14 @@
       "onboard_time": 1712707099,
       "rank": 27,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 257984,
+      "num": 257984,
+      "word": "毕业五年在家五年考公考编五年",
+      "onboard_time": 1712891476,
+      "rank": 33,
+      "category": "教育"
     },
     {
       "raw_hot": 257766,
@@ -7283,20 +7323,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 251230,
-      "num": 251230,
-      "word": "癌症来临时身体3个部位会喊痛",
-      "onboard_time": 1712891476,
-      "rank": 30,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 251106,
       "num": 251106,
       "word": "房子租出去8年回家时人傻了",
       "onboard_time": 1712827217,
       "rank": 24,
       "category": "情感"
+    },
+    {
+      "raw_hot": 250982,
+      "num": 250982,
+      "word": "承欢记 小狐狸碰上老狐狸",
+      "onboard_time": 1712891117,
+      "rank": 34,
+      "category": "剧集"
     },
     {
       "raw_hot": 250896,
@@ -7635,6 +7675,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 241638,
+      "num": 241638,
+      "word": "盒子里的猫称体重环节",
+      "onboard_time": 1712890276,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 241518,
       "num": 241518,
       "word": "电影无名之辈2开机",
@@ -7721,14 +7769,6 @@
       "onboard_time": 1712455757,
       "rank": 29,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 239603,
-      "num": 239603,
-      "word": "盒子里的猫称体重环节",
-      "onboard_time": 1712890276,
-      "rank": 32,
-      "category": "综艺"
     },
     {
       "raw_hot": 239046,
@@ -8019,14 +8059,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 228639,
-      "num": 228639,
-      "word": "毕业五年在家五年考公考编五年",
-      "onboard_time": 1712891476,
-      "rank": 33,
-      "category": "教育"
-    },
-    {
       "raw_hot": 228459,
       "num": 228459,
       "word": "南昌公交车",
@@ -8089,14 +8121,6 @@
       "onboard_time": 1712560279,
       "rank": 31,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 227391,
-      "num": 227391,
-      "word": "承欢记 小狐狸碰上老狐狸",
-      "onboard_time": 1712891117,
-      "rank": 34,
-      "category": "剧集"
     },
     {
       "raw_hot": 227059,
@@ -8451,6 +8475,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 217936,
+      "num": 217936,
+      "word": "林更新魏大勋怨种兄弟",
+      "onboard_time": 1712892257,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 217816,
       "num": 217816,
       "word": "央行连续第17个月增持黄金储备",
@@ -8563,6 +8595,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 214805,
+      "num": 214805,
+      "word": "部分水贝黄金加工企业停工放假",
+      "onboard_time": 1712888477,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 214799,
+      "num": 214799,
+      "word": "infj近乎病态的爱",
+      "onboard_time": 1712892379,
+      "rank": 36,
+      "category": "情感"
+    },
+    {
       "raw_hot": 214553,
       "num": 233609,
       "word": "教授建议小学低年级免去考试和成绩",
@@ -8659,14 +8707,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 211908,
-      "num": 211908,
-      "word": "部分水贝黄金加工企业停工放假",
-      "onboard_time": 1712888477,
-      "rank": 37,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 211851,
       "num": 183507,
       "word": "杨紫妈妈参加麦承欢订婚宴",
@@ -8753,6 +8793,14 @@
       "onboard_time": 1712793318,
       "rank": 29,
       "category": "情感"
+    },
+    {
+      "raw_hot": 209675,
+      "num": 209675,
+      "word": "这是我的岛",
+      "onboard_time": 1712891897,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 209654,
@@ -9435,6 +9483,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 201769,
+      "num": 201769,
+      "word": "教资通过率",
+      "onboard_time": 1712892316,
+      "rank": 40,
+      "category": "教育"
+    },
+    {
       "raw_hot": 201676,
       "num": 201676,
       "word": "成龙称心里会惊讶已经70岁",
@@ -9681,6 +9737,14 @@
       "onboard_time": 1712754379,
       "rank": 34,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 198540,
+      "num": 198540,
+      "word": "时代少年团这是我的岛开播海报",
+      "onboard_time": 1712892017,
+      "rank": 41,
+      "category": "综艺,剧集"
     },
     {
       "raw_hot": 198446,
@@ -10115,6 +10179,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 191492,
+      "num": 191492,
+      "word": "张杰用带小孩的方式对谢娜",
+      "onboard_time": 1712892439,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 191431,
       "num": 115961,
       "word": "陈楚生演唱会含哥量",
@@ -10467,6 +10539,14 @@
       "category": "游戏,互联网"
     },
     {
+      "raw_hot": 186306,
+      "num": 186306,
+      "word": "赵丽颖镶钻高珠",
+      "onboard_time": 1712892677,
+      "rank": 44,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 186237,
       "num": 205110,
       "word": "高诗岩求婚",
@@ -10809,14 +10889,6 @@
       "onboard_time": 1712473519,
       "rank": 46,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 181180,
-      "num": 181180,
-      "word": "P5X全球公测",
-      "onboard_time": 1712891658,
-      "rank": 42,
-      "category": "游戏"
     },
     {
       "raw_hot": 180855,
@@ -11545,6 +11617,14 @@
       "onboard_time": 1712797520,
       "rank": 33,
       "category": "数码"
+    },
+    {
+      "raw_hot": 166838,
+      "num": 166838,
+      "word": "金晨首部一番女主电影",
+      "onboard_time": 1712892859,
+      "rank": 49,
+      "category": "电影"
     },
     {
       "raw_hot": 166681,
@@ -12480,14 +12560,6 @@
       "word": "推市营业中",
       "onboard_time": 1712811200,
       "rank": 42,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 151241,
-      "num": 151241,
-      "word": "这是我的岛",
-      "onboard_time": 1712891897,
-      "rank": 48,
       "category": "综艺"
     },
     {
@@ -15579,6 +15651,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 47548,
+      "num": 1221376,
+      "word": "中国卫星又给地球月球拍了张合影",
+      "onboard_time": 1712892859,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 47175,
       "num": 172223,
       "word": "中端手机性能有多卷",
@@ -15939,6 +16019,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 21744,
+      "num": 278715,
+      "word": "P5X加入P系列全家桶",
+      "onboard_time": 1712889439,
+      "rank": 48,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 21734,
       "num": 21734,
       "word": "被路人狂撸的小狗狗",
@@ -15953,14 +16041,6 @@
       "onboard_time": 1712688191,
       "rank": 39,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 20902,
-      "num": 278715,
-      "word": "P5X加入P系列全家桶",
-      "onboard_time": 1712889439,
-      "rank": 48,
-      "category": "游戏"
     },
     {
       "raw_hot": 20703,
