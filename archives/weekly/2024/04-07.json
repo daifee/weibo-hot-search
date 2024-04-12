@@ -1,6 +1,6 @@
 {
   "startTime": 1712420539476,
-  "endTime": 1712946842851,
+  "endTime": 1712949357642,
   "band_list": [
     {
       "raw_hot": 9583581,
@@ -16795,6 +16795,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 102454,
+      "num": 102454,
+      "word": "巴黎奥运会",
+      "onboard_time": 1712942474,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 102098,
       "num": 102098,
       "word": "LPL春决售票官宣",
@@ -17201,14 +17209,6 @@
       "onboard_time": 1712854094,
       "rank": 24,
       "category": "情感"
-    },
-    {
-      "raw_hot": 82951,
-      "num": 82951,
-      "word": "巴黎奥运会",
-      "onboard_time": 1712942474,
-      "rank": 36,
-      "category": "体育"
     },
     {
       "raw_hot": 82466,
@@ -17907,6 +17907,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 38186,
+      "num": 38186,
+      "word": "工藤新一 你的斗来了",
+      "onboard_time": 1712946552,
+      "rank": 40,
+      "category": "电影,动漫"
+    },
+    {
       "raw_hot": 38072,
       "num": 43646,
       "word": "薛之谦重庆",
@@ -17987,12 +17995,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 32356,
-      "num": 32074,
-      "word": "工藤新一 你的斗来了",
-      "onboard_time": 1712946552,
-      "rank": 40,
-      "category": "电影,动漫"
+      "raw_hot": 32459,
+      "num": 32459,
+      "word": "金价飙升新人选择将三金折现",
+      "onboard_time": 1712946012,
+      "rank": 48,
+      "category": "财经"
     },
     {
       "raw_hot": 31314,
@@ -18123,20 +18131,20 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 25263,
-      "num": 31994,
-      "word": "金价飙升新人选择将三金折现",
-      "onboard_time": 1712946012,
-      "rank": 48,
-      "category": "财经"
-    },
-    {
       "raw_hot": 25134,
       "num": 251567,
       "word": "极狐技术品牌3大进化",
       "onboard_time": 1712841078,
       "rank": 27,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 25047,
+      "num": 25047,
+      "word": "朴宝蓝将尸检",
+      "onboard_time": 1712948472,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 24922,
@@ -18177,6 +18185,14 @@
       "onboard_time": 1712718018,
       "rank": 14,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 24082,
+      "num": 24082,
+      "word": "妖精的尾巴 一家三口",
+      "onboard_time": 1712948352,
+      "rank": 41,
+      "category": "动漫,作品衍生"
     },
     {
       "raw_hot": 23611,
