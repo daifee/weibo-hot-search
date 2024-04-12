@@ -1,6 +1,6 @@
 {
   "startTime": 1711902044401,
-  "endTime": 1712917151282,
+  "endTime": 1712918112264,
   "band_list": [
     {
       "raw_hot": 16874674,
@@ -3595,6 +3595,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 829781,
+      "num": 829781,
+      "word": "杜海涛当沈梦辰的专属模特",
+      "onboard_time": 1712915958,
+      "rank": 11,
+      "category": "综艺,艺人"
+    },
+    {
       "raw_hot": 829326,
       "num": 829326,
       "word": "李若彤回应58岁未婚未育",
@@ -5545,14 +5553,6 @@
       "onboard_time": 1711952840,
       "rank": 40,
       "category": "科学科普"
-    },
-    {
-      "raw_hot": 643209,
-      "num": 643209,
-      "word": "杜海涛当沈梦辰的专属模特",
-      "onboard_time": 1712915958,
-      "rank": 11,
-      "category": "综艺,艺人"
     },
     {
       "raw_hot": 642953,
@@ -7627,6 +7627,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 512094,
+      "num": 512094,
+      "word": "五月天官宣演唱会",
+      "onboard_time": 1712916859,
+      "rank": 31,
+      "category": "演出"
+    },
+    {
       "raw_hot": 511246,
       "num": 511246,
       "word": "美国强生一款心脏泵致49人死亡",
@@ -8913,6 +8921,14 @@
       "onboard_time": 1711939819,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 451859,
+      "num": 451859,
+      "word": "乐言喊zdz姐夫",
+      "onboard_time": 1712917638,
+      "rank": 14,
+      "category": "电竞,艺人"
     },
     {
       "raw_hot": 451202,
@@ -11740,7 +11756,7 @@
     },
     {
       "raw_hot": 345643,
-      "num": 305658,
+      "num": 308450,
       "word": "人近三十朋友圈迎来大面积关闭潮",
       "onboard_time": 1712914638,
       "rank": 20,
@@ -12153,6 +12169,14 @@
       "onboard_time": 1712065339,
       "rank": 36,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 332174,
+      "num": 332174,
+      "word": "魏大勋又说韩语了",
+      "onboard_time": 1712916798,
+      "rank": 21,
+      "category": "综艺"
     },
     {
       "raw_hot": 331999,
@@ -12761,6 +12785,14 @@
       "onboard_time": 1712664138,
       "rank": 36,
       "category": "情感"
+    },
+    {
+      "raw_hot": 313952,
+      "num": 646396,
+      "word": "优秀的小狗也上交国家了",
+      "onboard_time": 1712915418,
+      "rank": 8,
+      "category": "幽默"
     },
     {
       "raw_hot": 313945,
@@ -14611,6 +14643,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 271726,
+      "num": 660420,
+      "word": "小学生多看两眼帮铲除339株罂粟",
+      "onboard_time": 1712912419,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 271525,
       "num": 271525,
       "word": "体态瘦腰",
@@ -14665,14 +14705,6 @@
       "onboard_time": 1712114362,
       "rank": 28,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 270617,
-      "num": 270617,
-      "word": "魏大勋又说韩语了",
-      "onboard_time": 1712916798,
-      "rank": 21,
-      "category": "综艺"
     },
     {
       "raw_hot": 270567,
@@ -14897,14 +14929,6 @@
       "onboard_time": 1712714899,
       "rank": 25,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 265560,
-      "num": 645705,
-      "word": "优秀的小狗也上交国家了",
-      "onboard_time": 1712915418,
-      "rank": 8,
-      "category": "幽默"
     },
     {
       "raw_hot": 265153,
@@ -15217,14 +15241,6 @@
       "onboard_time": 1711981701,
       "rank": 27,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 259469,
-      "num": 643879,
-      "word": "小学生多看两眼帮铲除339株罂粟",
-      "onboard_time": 1712912419,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 259399,
@@ -17907,6 +17923,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 221470,
+      "num": 221470,
+      "word": "Silence Wang",
+      "onboard_time": 1712916618,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 221388,
       "num": 221388,
       "word": "音律联觉",
@@ -19193,14 +19217,6 @@
       "onboard_time": 1712712619,
       "rank": 37,
       "category": "军事"
-    },
-    {
-      "raw_hot": 207094,
-      "num": 181262,
-      "word": "五月天官宣演唱会",
-      "onboard_time": 1712916859,
-      "rank": 31,
-      "category": "演出"
     },
     {
       "raw_hot": 207009,
@@ -21131,14 +21147,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 193731,
-      "num": 193731,
-      "word": "Silence Wang",
-      "onboard_time": 1712916618,
-      "rank": 27,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 193696,
       "num": 193696,
       "word": "隆多退役",
@@ -22955,6 +22963,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 181659,
+      "num": 181659,
+      "word": "韩国人就差身份证上写MBTI了",
+      "onboard_time": 1712915298,
+      "rank": 31,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 181625,
       "num": 181625,
       "word": "成都迪士尼 白雪公主",
@@ -24513,6 +24529,14 @@
       "onboard_time": 1712905518,
       "rank": 27,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 167265,
+      "num": 167265,
+      "word": "沈月港风卷发",
+      "onboard_time": 1712917458,
+      "rank": 35,
+      "category": "艺人,作品衍生"
     },
     {
       "raw_hot": 167025,
@@ -30324,7 +30348,7 @@
     },
     {
       "raw_hot": 118385,
-      "num": 429754,
+      "num": 620141,
       "word": "宝骏把高阶智驾从50万打到10万",
       "onboard_time": 1712913018,
       "rank": 31,
@@ -31003,6 +31027,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 107577,
+      "num": 107577,
+      "word": "前两次国九条发布后A股均迎来大牛市",
+      "onboard_time": 1712917398,
+      "rank": 44,
+      "category": "财经"
+    },
+    {
       "raw_hot": 107484,
       "num": 107484,
       "word": "苏打绿春日光",
@@ -31041,6 +31073,14 @@
       "onboard_time": 1712531955,
       "rank": 27,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 105699,
+      "num": 105699,
+      "word": "RNG战队CEO说绝不出卖战队荣誉",
+      "onboard_time": 1712917937,
+      "rank": 45,
+      "category": "电竞"
     },
     {
       "raw_hot": 105488,
@@ -32587,6 +32627,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 58869,
+      "num": 259827,
+      "word": "想做李现的健身搭子",
+      "onboard_time": 1712917398,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 58761,
       "num": 58761,
       "word": "与凤行壁纸",
@@ -33131,6 +33179,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 37083,
+      "num": 207549,
+      "word": "宝骏今年发布四款新车",
+      "onboard_time": 1712916318,
+      "rank": 28,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 37006,
       "num": 124276,
       "word": "宝骏悦也Plus售价9.38万起",
@@ -33145,14 +33201,6 @@
       "onboard_time": 1712355370,
       "rank": 49,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 35586,
-      "num": 193057,
-      "word": "宝骏今年发布四款新车",
-      "onboard_time": 1712916318,
-      "rank": 28,
-      "category": "汽车"
     },
     {
       "raw_hot": 35379,
@@ -33219,6 +33267,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 33415,
+      "num": 167876,
+      "word": "Joker回来了",
+      "onboard_time": 1712914517,
+      "rank": 33,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 33185,
       "num": 45272,
       "word": "帕尔默帽子戏法",
@@ -33265,14 +33321,6 @@
       "onboard_time": 1712686153,
       "rank": 39,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 30381,
-      "num": 161545,
-      "word": "Joker回来了",
-      "onboard_time": 1712914517,
-      "rank": 33,
-      "category": "游戏"
     },
     {
       "raw_hot": 30044,
@@ -33508,7 +33556,7 @@
     },
     {
       "raw_hot": 23611,
-      "num": 341577,
+      "num": 444330,
       "word": "高段位东京citywalk",
       "onboard_time": 1712914578,
       "rank": 17,
@@ -33817,6 +33865,14 @@
       "onboard_time": 1712696290,
       "rank": 44,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 14026,
+      "num": 137155,
+      "word": "重生之我在东京当富哥",
+      "onboard_time": 1712917277,
+      "rank": 38,
+      "category": "游戏"
     },
     {
       "raw_hot": 13982,

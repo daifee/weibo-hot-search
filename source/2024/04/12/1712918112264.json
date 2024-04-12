@@ -1,0 +1,410 @@
+{
+  "runTime": 1712918112264,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1315759,
+        "num": 1315759,
+        "word": "乘风2024官宣",
+        "onboard_time": 1712913739,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 922592,
+        "num": 922592,
+        "word": "迪丽热巴还在戴毛线帽",
+        "onboard_time": 1712914818,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 81659,
+        "num": 845975,
+        "word": "诗经里的绝美中国色",
+        "onboard_time": 1712912298,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1571852,
+        "num": 841892,
+        "word": "百万网红杨立新遇害",
+        "onboard_time": 1712910078,
+        "rank": 3,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 829781,
+        "num": 829781,
+        "word": "杜海涛当沈梦辰的专属模特",
+        "onboard_time": 1712915958,
+        "rank": 4,
+        "category": "综艺,艺人"
+      },
+      {
+        "raw_hot": 812164,
+        "num": 812164,
+        "word": "死亡野生大熊猫为成年雌性",
+        "onboard_time": 1712912719,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 779216,
+        "num": 779216,
+        "word": "欺负同学被集体劝退的孩子已在家上网课",
+        "onboard_time": 1712910379,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 672415,
+        "num": 672415,
+        "word": "王俊凯春节胖15斤",
+        "onboard_time": 1712913797,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 271726,
+        "num": 660420,
+        "word": "小学生多看两眼帮铲除339株罂粟",
+        "onboard_time": 1712912419,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 313952,
+        "num": 646396,
+        "word": "优秀的小狗也上交国家了",
+        "onboard_time": 1712915418,
+        "rank": 9,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 730430,
+        "num": 640317,
+        "word": "有没有性生活都一定要做4项妇科检查",
+        "onboard_time": 1712907858,
+        "rank": 10,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 108346,
+        "num": 620141,
+        "word": "宝骏把高阶智驾从50万打到10万",
+        "onboard_time": 1712913018,
+        "rank": 11,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 609209,
+        "num": 609209,
+        "word": "周大福足金戒指不到2个月出现褪色",
+        "onboard_time": 1712906478,
+        "rank": 12,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 512094,
+        "num": 512094,
+        "word": "五月天官宣演唱会",
+        "onboard_time": 1712916859,
+        "rank": 13,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 451859,
+        "num": 451859,
+        "word": "乐言喊zdz姐夫",
+        "onboard_time": 1712917638,
+        "rank": 14,
+        "category": "电竞,艺人"
+      },
+      {
+        "raw_hot": 11853,
+        "num": 444330,
+        "word": "高段位东京citywalk",
+        "onboard_time": 1712914578,
+        "rank": 15,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 443742,
+        "num": 443742,
+        "word": "朴宝蓝喝酒后死亡",
+        "onboard_time": 1712890817,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 368752,
+        "num": 368752,
+        "word": "鹿晗黄子韬再合作",
+        "onboard_time": 1712910198,
+        "rank": 17,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 332174,
+        "num": 332174,
+        "word": "魏大勋又说韩语了",
+        "onboard_time": 1712916798,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 325640,
+        "num": 325640,
+        "word": "coser以为对方是cos记者",
+        "onboard_time": 1712907798,
+        "rank": 19,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 308450,
+        "num": 308450,
+        "word": "人近三十朋友圈迎来大面积关闭潮",
+        "onboard_time": 1712914638,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 277518,
+        "num": 277518,
+        "word": "蒋勤勤谈易烊千玺",
+        "onboard_time": 1712912478,
+        "rank": 21,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 58869,
+        "num": 259827,
+        "word": "想做李现的健身搭子",
+        "onboard_time": 1712917398,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 256291,
+        "num": 256291,
+        "word": "中方绝不会任凭菲方无理取闹",
+        "onboard_time": 1712910738,
+        "rank": 23,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 245174,
+        "num": 245174,
+        "word": "校方通报大学教授校内遇交通事故离世",
+        "onboard_time": 1712911100,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 221470,
+        "num": 221470,
+        "word": "Silence Wang",
+        "onboard_time": 1712916618,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 209552,
+        "num": 209552,
+        "word": "警方通报男子当街连捅数刀致1死",
+        "onboard_time": 1712915358,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 37083,
+        "num": 207549,
+        "word": "宝骏今年发布四款新车",
+        "onboard_time": 1712916318,
+        "rank": 27,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 205734,
+        "num": 205734,
+        "word": "赵丽颖的伞撑了一个又一个人",
+        "onboard_time": 1712901798,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 197312,
+        "num": 197312,
+        "word": "万科",
+        "onboard_time": 1712912899,
+        "rank": 29,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 186564,
+        "num": 186564,
+        "word": "蔡依林演唱会1290元比1590元座位更靠前",
+        "onboard_time": 1712905277,
+        "rank": 30,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 181659,
+        "num": 181659,
+        "word": "韩国人就差身份证上写MBTI了",
+        "onboard_time": 1712915298,
+        "rank": 31,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 170630,
+        "num": 170630,
+        "word": "黑羽盗一是否构成遗弃罪",
+        "onboard_time": 1712911519,
+        "rank": 32,
+        "category": "电影,动漫"
+      },
+      {
+        "raw_hot": 33415,
+        "num": 167876,
+        "word": "Joker回来了",
+        "onboard_time": 1712914517,
+        "rank": 33,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 167684,
+        "num": 167684,
+        "word": "1米5的花花吃了根1米8的笋笋",
+        "onboard_time": 1712905578,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 167265,
+        "num": 167265,
+        "word": "沈月港风卷发",
+        "onboard_time": 1712917458,
+        "rank": 35,
+        "category": "艺人,作品衍生"
+      },
+      {
+        "raw_hot": 163485,
+        "num": 163485,
+        "word": "鞠婧祎双丸子头女高",
+        "onboard_time": 1712915178,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 148015,
+        "num": 148015,
+        "word": "乘风2024主题曲",
+        "onboard_time": 1712914277,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 14026,
+        "num": 137155,
+        "word": "重生之我在东京当富哥",
+        "onboard_time": 1712917277,
+        "rank": 38,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 131251,
+        "num": 131251,
+        "word": "杨幂 花少好友记",
+        "onboard_time": 1712908218,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 131248,
+        "num": 131248,
+        "word": "十个勤天小店",
+        "onboard_time": 1712903178,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 125054,
+        "num": 125054,
+        "word": "林俊杰南昌",
+        "onboard_time": 1712914218,
+        "rank": 41,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 112776,
+        "num": 112776,
+        "word": "肖战饭制版日常vlog",
+        "onboard_time": 1712913498,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 110749,
+        "num": 110749,
+        "word": "Sunnee熊梓淇方声明",
+        "onboard_time": 1712906417,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 107577,
+        "num": 107577,
+        "word": "前两次国九条发布后A股均迎来大牛市",
+        "onboard_time": 1712917398,
+        "rank": 44,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 105699,
+        "num": 105699,
+        "word": "RNG战队CEO说绝不出卖战队荣誉",
+        "onboard_time": 1712917937,
+        "rank": 45,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 103078,
+        "num": 103078,
+        "word": "林更新186的身高147的体重",
+        "onboard_time": 1712899700,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 102703,
+        "num": 102703,
+        "word": "调休多上一天班为什么这么累",
+        "onboard_time": 1712898977,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 90233,
+        "num": 102692,
+        "word": "为什么照片总是不如本人好看",
+        "onboard_time": 1712909059,
+        "rank": 48,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 86840,
+        "num": 102665,
+        "word": "原来非遗宣纸才是真正的奢侈品",
+        "onboard_time": 1712916198,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记提出两岸同胞要做到四个坚定#"
+    }
+  }
+}
