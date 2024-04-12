@@ -1,6 +1,6 @@
 {
   "startTime": 1711902044401,
-  "endTime": 1712910150705,
+  "endTime": 1712911012725,
   "band_list": [
     {
       "raw_hot": 16874674,
@@ -1579,6 +1579,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1292882,
+      "num": 1292882,
+      "word": "周大福足金戒指不到2个月出现褪色",
+      "onboard_time": 1712906478,
+      "rank": 22,
+      "category": "财经"
+    },
+    {
       "raw_hot": 1288666,
       "num": 1288666,
       "word": "王婆说媒已婚男妻子深夜发视频哭诉",
@@ -1593,14 +1601,6 @@
       "onboard_time": 1712383217,
       "rank": 3,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1285891,
-      "num": 1285891,
-      "word": "周大福足金戒指不到2个月出现褪色",
-      "onboard_time": 1712906478,
-      "rank": 22,
-      "category": "财经"
     },
     {
       "raw_hot": 1283537,
@@ -2539,6 +2539,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1026388,
+      "num": 1026388,
+      "word": "百万网红杨立新遇害",
+      "onboard_time": 1712910078,
+      "rank": 47,
+      "category": "网红"
+    },
+    {
       "raw_hot": 1025348,
       "num": 1025348,
       "word": "赵丽颖林更新情头",
@@ -3019,6 +3027,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 916467,
+      "num": 492942,
+      "word": "有没有性生活都一定要做4项妇科检查",
+      "onboard_time": 1712907858,
+      "rank": 10,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 913718,
       "num": 913718,
       "word": "中国农发行纪检委已关注到想当行长的男孩",
@@ -3129,14 +3145,6 @@
       "onboard_time": 1712225959,
       "rank": 30,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 894163,
-      "num": 396022,
-      "word": "有没有性生活都一定要做4项妇科检查",
-      "onboard_time": 1712907858,
-      "rank": 10,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 893199,
@@ -3353,6 +3361,14 @@
       "onboard_time": 1711975940,
       "rank": 1,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 856698,
+      "num": 856698,
+      "word": "汪苏泷方发文维权",
+      "onboard_time": 1712908578,
+      "rank": 3,
+      "category": "艺人"
     },
     {
       "raw_hot": 856609,
@@ -3865,14 +3881,6 @@
       "onboard_time": 1712582179,
       "rank": 37,
       "category": "美食"
-    },
-    {
-      "raw_hot": 792957,
-      "num": 792957,
-      "word": "汪苏泷方发文维权",
-      "onboard_time": 1712908578,
-      "rank": 3,
-      "category": "艺人"
     },
     {
       "raw_hot": 790470,
@@ -4940,7 +4948,7 @@
     },
     {
       "raw_hot": 687376,
-      "num": 376564,
+      "num": 487069,
       "word": "Sunnee熊梓淇方声明",
       "onboard_time": 1712906417,
       "rank": 12,
@@ -5497,6 +5505,14 @@
       "onboard_time": 1712191218,
       "rank": 20,
       "category": "社会新闻,情感"
+    },
+    {
+      "raw_hot": 641995,
+      "num": 641995,
+      "word": "coser以为对方是cos记者",
+      "onboard_time": 1712907798,
+      "rank": 14,
+      "category": "动漫"
     },
     {
       "raw_hot": 640961,
@@ -6299,6 +6315,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 588960,
+      "num": 588960,
+      "word": "鹿晗黄子韬再合作",
+      "onboard_time": 1712910198,
+      "rank": 7,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 588605,
       "num": 588605,
       "word": "原来放松时舌头是贴在上颚的",
@@ -6449,6 +6473,14 @@
       "onboard_time": 1712280558,
       "rank": 32,
       "category": "游戏,网红"
+    },
+    {
+      "raw_hot": 579010,
+      "num": 579010,
+      "word": "1米5的花花吃了根1米8的笋笋",
+      "onboard_time": 1712905578,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 578526,
@@ -7209,14 +7241,6 @@
       "onboard_time": 1712137458,
       "rank": 18,
       "category": "财经"
-    },
-    {
-      "raw_hot": 530985,
-      "num": 530985,
-      "word": "1米5的花花吃了根1米8的笋笋",
-      "onboard_time": 1712905578,
-      "rank": 35,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 529852,
@@ -8401,14 +8425,6 @@
       "onboard_time": 1712672239,
       "rank": 12,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 470315,
-      "num": 354630,
-      "word": "coser以为对方是cos记者",
-      "onboard_time": 1712907798,
-      "rank": 14,
-      "category": "动漫"
     },
     {
       "raw_hot": 469979,
@@ -14179,6 +14195,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 279769,
+      "num": 279769,
+      "word": "欺负同学被集体劝退的孩子已在家上网课",
+      "onboard_time": 1712910379,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 279750,
       "num": 262160,
       "word": "少吃和运动哪个更容易瘦",
@@ -15345,6 +15369,14 @@
       "onboard_time": 1712892379,
       "rank": 36,
       "category": "情感"
+    },
+    {
+      "raw_hot": 256053,
+      "num": 273564,
+      "word": "詹姆斯曾要求湖人交易威少",
+      "onboard_time": 1712908459,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 255890,
@@ -16531,12 +16563,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 238682,
+      "num": 238682,
+      "word": "中国资本市场迎来第三个国九条",
+      "onboard_time": 1712909238,
+      "rank": 28,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 238647,
       "num": 238647,
       "word": "王者荣耀",
       "onboard_time": 1711949002,
       "rank": 45,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 238564,
+      "num": 238564,
+      "word": "杨紫披发黑裙",
+      "onboard_time": 1712910078,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 238511,
@@ -16641,6 +16689,14 @@
       "onboard_time": 1712539758,
       "rank": 35,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 236454,
+      "num": 236454,
+      "word": "为什么照片总是不如本人好看",
+      "onboard_time": 1712909059,
+      "rank": 29,
+      "category": "科学科普"
     },
     {
       "raw_hot": 236251,
@@ -17115,6 +17171,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 229045,
+      "num": 229045,
+      "word": "哪种血型身体好",
+      "onboard_time": 1712907858,
+      "rank": 24,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 228964,
       "num": 228964,
       "word": "原来换个灯都是成年人不允许的",
@@ -17307,6 +17371,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 226849,
+      "num": 226849,
+      "word": "李嘉格 浪姐",
+      "onboard_time": 1712909599,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 226847,
       "num": 577883,
       "word": "河南省考成绩出之前我的心情belike",
@@ -17385,14 +17457,6 @@
       "onboard_time": 1712327719,
       "rank": 29,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 226024,
-      "num": 273564,
-      "word": "詹姆斯曾要求湖人交易威少",
-      "onboard_time": 1712908459,
-      "rank": 19,
-      "category": "体育"
     },
     {
       "raw_hot": 225705,
@@ -18243,14 +18307,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 215225,
-      "num": 215225,
-      "word": "哪种血型身体好",
-      "onboard_time": 1712907858,
-      "rank": 24,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 215130,
       "num": 215130,
       "word": "国际乒联排名",
@@ -18625,14 +18681,6 @@
       "onboard_time": 1712056819,
       "rank": 26,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 210562,
-      "num": 210562,
-      "word": "李嘉格 浪姐",
-      "onboard_time": 1712909599,
-      "rank": 26,
-      "category": "综艺"
     },
     {
       "raw_hot": 210534,
@@ -20203,6 +20251,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 198804,
+      "num": 198804,
+      "word": "无意中发现了世界的一个bug",
+      "onboard_time": 1712909658,
+      "rank": 36,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 198766,
       "num": 198766,
       "word": "放手是一门永远没法满分的必修课",
@@ -20265,14 +20321,6 @@
       "onboard_time": 1712056880,
       "rank": 27,
       "category": "体育"
-    },
-    {
-      "raw_hot": 198200,
-      "num": 198200,
-      "word": "中国资本市场迎来第三个国九条",
-      "onboard_time": 1712909238,
-      "rank": 28,
-      "category": "国内时政"
     },
     {
       "raw_hot": 198158,
@@ -21531,14 +21579,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 190221,
-      "num": 190221,
-      "word": "为什么照片总是不如本人好看",
-      "onboard_time": 1712909059,
-      "rank": 29,
-      "category": "科学科普"
-    },
-    {
       "raw_hot": 190137,
       "num": 190137,
       "word": "林更新或开见面会",
@@ -22635,6 +22675,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 182456,
+      "num": 182456,
+      "word": "宝骏悦也",
+      "onboard_time": 1712909959,
+      "rank": 37,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 182448,
       "num": 182448,
       "word": "特谢拉绝杀",
@@ -22872,6 +22920,14 @@
       "word": "欧冠",
       "onboard_time": 1712667500,
       "rank": 37,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 179965,
+      "num": 179965,
+      "word": "亚锦赛何冰娇进4强",
+      "onboard_time": 1712909959,
+      "rank": 34,
       "category": "体育"
     },
     {
@@ -24531,14 +24587,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 164637,
-      "num": 164637,
-      "word": "无意中发现了世界的一个bug",
-      "onboard_time": 1712909658,
-      "rank": 36,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 164514,
       "num": 164514,
       "word": "吴磊眼神变化从清澈到绝望",
@@ -24889,14 +24937,6 @@
       "onboard_time": 1712749999,
       "rank": 37,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 161556,
-      "num": 161556,
-      "word": "宝骏悦也",
-      "onboard_time": 1712909959,
-      "rank": 37,
-      "category": "汽车"
     },
     {
       "raw_hot": 161444,
@@ -25755,6 +25795,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 154608,
+      "num": 154608,
+      "word": "中方绝不会任凭菲方无理取闹",
+      "onboard_time": 1712910738,
+      "rank": 40,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 154545,
       "num": 154545,
       "word": "魏若来人设",
@@ -26545,6 +26593,14 @@
       "onboard_time": 1712706497,
       "rank": 48,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 148964,
+      "num": 148964,
+      "word": "张靓颖上海站售罄",
+      "onboard_time": 1712910559,
+      "rank": 41,
+      "category": "演出"
     },
     {
       "raw_hot": 148899,
@@ -28947,6 +29003,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 129753,
+      "num": 129753,
+      "word": "许凯尝试张元英转圈",
+      "onboard_time": 1712910858,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 129517,
       "num": 129517,
       "word": "追风者魏若来觉醒",
@@ -29073,6 +29137,14 @@
       "onboard_time": 1712825539,
       "rank": 43,
       "category": "动漫,作品衍生"
+    },
+    {
+      "raw_hot": 128172,
+      "num": 128172,
+      "word": "小小周五终于拿下",
+      "onboard_time": 1712910798,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 127953,
@@ -29609,14 +29681,6 @@
       "onboard_time": 1712284038,
       "rank": 45,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 122501,
-      "num": 122501,
-      "word": "百万网红杨立新遇害",
-      "onboard_time": 1712910078,
-      "rank": 47,
-      "category": "网红"
     },
     {
       "raw_hot": 122455,
@@ -30168,14 +30232,6 @@
       "word": "张若昀祝贺庆余年",
       "onboard_time": 1712616493,
       "rank": 25,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 116236,
-      "num": 116236,
-      "word": "杨紫披发黑裙",
-      "onboard_time": 1712910078,
-      "rank": 49,
       "category": "剧集"
     },
     {
@@ -31035,6 +31091,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 99252,
+      "num": 1221376,
+      "word": "中国卫星又给地球月球拍了张合影",
+      "onboard_time": 1712892859,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 99066,
       "num": 99066,
       "word": "照片和镜子里的自己哪个更真实",
@@ -31273,14 +31337,6 @@
       "onboard_time": 1712383038,
       "rank": 47,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 93524,
-      "num": 1221376,
-      "word": "中国卫星又给地球月球拍了张合影",
-      "onboard_time": 1712892859,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 93236,
@@ -33507,8 +33563,8 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 12026,
-      "num": 154031,
+      "raw_hot": 12892,
+      "num": 156529,
       "word": "P5X新人指南",
       "onboard_time": 1712907378,
       "rank": 38,
