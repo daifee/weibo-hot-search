@@ -1,0 +1,410 @@
+{
+  "runTime": 1712884417844,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2266453,
+        "num": 2266453,
+        "word": "工藤新一不能考公了",
+        "onboard_time": 1712879238,
+        "rank": 0,
+        "category": "电影,动漫"
+      },
+      {
+        "raw_hot": 2172702,
+        "num": 2172702,
+        "word": "歌手朴宝蓝去世",
+        "onboard_time": 1712878996,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 101203,
+        "num": 1747581,
+        "word": "广西三月三到底有多好玩",
+        "onboard_time": 1712838378,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1399438,
+        "num": 1399438,
+        "word": "警方通报女子赤身在大学男寝打砸",
+        "onboard_time": 1712880078,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1181162,
+        "num": 1181162,
+        "word": "五一调休放5天",
+        "onboard_time": 1712879356,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 977690,
+        "num": 977690,
+        "word": "苹果市值一夜暴涨8113亿",
+        "onboard_time": 1712880198,
+        "rank": 5,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 777414,
+        "num": 777414,
+        "word": "辛普森去世",
+        "onboard_time": 1712848759,
+        "rank": 6,
+        "category": "社会新闻,体育"
+      },
+      {
+        "raw_hot": 560999,
+        "num": 560999,
+        "word": "cp粉悬着的心终于死了",
+        "onboard_time": 1712844618,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 492030,
+        "num": 492030,
+        "word": "金玟庭接受气胸手术",
+        "onboard_time": 1712883919,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 240129,
+        "num": 464939,
+        "word": "士兵突击老班长在淄博被疯狂投喂",
+        "onboard_time": 1712876536,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 463906,
+        "num": 463906,
+        "word": "魏大勋35岁生日海报",
+        "onboard_time": 1712881940,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 392944,
+        "num": 392944,
+        "word": "为什么英国人下雨很少打伞",
+        "onboard_time": 1712845999,
+        "rank": 11,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 350521,
+        "num": 350521,
+        "word": "有金店老板连夜进货",
+        "onboard_time": 1712879537,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 327440,
+        "num": 327440,
+        "word": "教资成绩今日可查",
+        "onboard_time": 1712883679,
+        "rank": 13,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 318563,
+        "num": 318563,
+        "word": "官方将处理无资质小米SU7跑网约车平台",
+        "onboard_time": 1712881998,
+        "rank": 14,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 301765,
+        "num": 301765,
+        "word": "林更新说与赵丽颖搭档是荣幸",
+        "onboard_time": 1712841498,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 297051,
+        "num": 297051,
+        "word": "金价",
+        "onboard_time": 1712883919,
+        "rank": 16,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 291871,
+        "num": 291871,
+        "word": "官方回应甘肃一男教师侵犯初三男生",
+        "onboard_time": 1712873112,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 263975,
+        "num": 263975,
+        "word": "才知道医学生不用学毕业论文",
+        "onboard_time": 1712847920,
+        "rank": 18,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 262578,
+        "num": 262578,
+        "word": "微信打电话和直接打电话的区别",
+        "onboard_time": 1712835137,
+        "rank": 19,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 500002,
+        "num": 262451,
+        "word": "30万年薪的银行员工要过紧日子了",
+        "onboard_time": 1712883439,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 279750,
+        "num": 262160,
+        "word": "少吃和运动哪个更容易瘦",
+        "onboard_time": 1712876536,
+        "rank": 21,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 261431,
+        "num": 261431,
+        "word": "换儿子血的亿万富翁展示3年抗衰成果",
+        "onboard_time": 1712835377,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 257273,
+        "num": 257273,
+        "word": "与凤行是宣璐和徐海乔第3次合作",
+        "onboard_time": 1712865069,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 256787,
+        "num": 256787,
+        "word": "和女朋友出去旅游像搬家一样",
+        "onboard_time": 1712883499,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 255038,
+        "num": 255038,
+        "word": "林更新回应杀青那天哭了",
+        "onboard_time": 1712879777,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 254085,
+        "num": 254085,
+        "word": "孙俪想知道邓超在证明啥",
+        "onboard_time": 1712842038,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 246819,
+        "num": 246819,
+        "word": "卖房让娃退学环游世界的家庭怎么样了",
+        "onboard_time": 1712832977,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 251419,
+        "num": 246695,
+        "word": "李沁腿型",
+        "onboard_time": 1712880259,
+        "rank": 28,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 246460,
+        "num": 246460,
+        "word": "下下周依旧是上6天班",
+        "onboard_time": 1712883620,
+        "rank": 29,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 221527,
+        "num": 221527,
+        "word": "猫 咋了妈",
+        "onboard_time": 1712883679,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 220811,
+        "num": 220811,
+        "word": "淄博烧烤赵大爷被叫去开会了",
+        "onboard_time": 1712871850,
+        "rank": 31,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 220610,
+        "num": 220610,
+        "word": "工藤新一和怪盗基德是堂兄弟",
+        "onboard_time": 1712878396,
+        "rank": 32,
+        "category": "电影,动漫"
+      },
+      {
+        "raw_hot": 215055,
+        "num": 215055,
+        "word": "黄金再次爆发",
+        "onboard_time": 1712883979,
+        "rank": 33,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 213283,
+        "num": 213283,
+        "word": "章子怡酱园弄戛纳就穿这套吧",
+        "onboard_time": 1712839878,
+        "rank": 34,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 209079,
+        "num": 209079,
+        "word": "中医建议胃强脾弱的人少吃这些",
+        "onboard_time": 1712878697,
+        "rank": 35,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 197601,
+        "num": 197601,
+        "word": "赵丽颖2020年就确认出演与凤行了",
+        "onboard_time": 1712861351,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 192325,
+        "num": 192325,
+        "word": "时团代言美团",
+        "onboard_time": 1712881879,
+        "rank": 37,
+        "category": "艺人,互联网"
+      },
+      {
+        "raw_hot": 188134,
+        "num": 188134,
+        "word": "与凤行低了",
+        "onboard_time": 1712847499,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 182616,
+        "num": 182616,
+        "word": "雷军说余承东调侃小米手机支架没事",
+        "onboard_time": 1712846358,
+        "rank": 39,
+        "category": "数码,互联网"
+      },
+      {
+        "raw_hot": 179738,
+        "num": 179738,
+        "word": "6天班今日结束",
+        "onboard_time": 1712881519,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 175703,
+        "num": 175703,
+        "word": "檀健次蜡像揭幕",
+        "onboard_time": 1712882719,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 175548,
+        "num": 175548,
+        "word": "Doinb说Tian是背锅位",
+        "onboard_time": 1712879356,
+        "rank": 42,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 174845,
+        "num": 174845,
+        "word": "苹果回应iPhone零件序列化争议",
+        "onboard_time": 1712882059,
+        "rank": 43,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 172718,
+        "num": 172718,
+        "word": "熊祁",
+        "onboard_time": 1712882179,
+        "rank": 44,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 159668,
+        "num": 159668,
+        "word": "林更新称呼赵丽颖赵老师",
+        "onboard_time": 1712848219,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 142452,
+        "num": 142452,
+        "word": "拜登承诺将用核武器保护日本",
+        "onboard_time": 1712884398,
+        "rank": 46,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 142291,
+        "num": 142291,
+        "word": "以为猫咪生病了原来是猫盆漏电了",
+        "onboard_time": 1712847139,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 134917,
+        "num": 134917,
+        "word": "赵露思在阿那亚",
+        "onboard_time": 1712868310,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 131244,
+        "num": 131244,
+        "word": "仝卓工作室说很多艺人不敬业",
+        "onboard_time": 1712860450,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#两岸青年好两岸未来才会好#"
+    }
+  }
+}
