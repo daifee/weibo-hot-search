@@ -1,6 +1,6 @@
 {
   "startTime": 1712938901785,
-  "endTime": 1712963658249,
+  "endTime": 1712964839627,
   "band_list": [
     {
       "raw_hot": 984604,
@@ -27,19 +27,19 @@
       "category": "网红"
     },
     {
+      "raw_hot": 789770,
+      "num": 348235,
+      "word": "杨立新遇害21天前刚收嫌疑人为徒",
+      "onboard_time": 1712940855,
+      "rank": 13,
+      "category": "网红"
+    },
+    {
       "raw_hot": 746784,
       "num": 179994,
       "word": "网红猫一杯道歉",
       "onboard_time": 1712919798,
       "rank": 20,
-      "category": "网红"
-    },
-    {
-      "raw_hot": 702532,
-      "num": 312088,
-      "word": "杨立新遇害21天前刚收嫌疑人为徒",
-      "onboard_time": 1712940855,
-      "rank": 13,
       "category": "网红"
     },
     {
@@ -99,8 +99,8 @@
       "category": "社会新闻,网红"
     },
     {
-      "raw_hot": 353416,
-      "num": 353416,
+      "raw_hot": 366404,
+      "num": 366404,
       "word": "员工晒董宇辉白发越来越多",
       "onboard_time": 1712937857,
       "rank": 29,
@@ -113,6 +113,14 @@
       "onboard_time": 1712938037,
       "rank": 15,
       "category": "教育"
+    },
+    {
+      "raw_hot": 348010,
+      "num": 348010,
+      "word": "杨洋摘面具",
+      "onboard_time": 1712959932,
+      "rank": 38,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 333571,
@@ -131,6 +139,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 310810,
+      "num": 310810,
+      "word": "男子囤4600多克金条坚决不卖",
+      "onboard_time": 1712941815,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 305723,
       "num": 280197,
       "word": "我从211退学考上了另一所211",
@@ -145,14 +161,6 @@
       "onboard_time": 1712932220,
       "rank": 8,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 283063,
-      "num": 283063,
-      "word": "男子囤4600多克金条坚决不卖",
-      "onboard_time": 1712941815,
-      "rank": 45,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 279454,
@@ -187,14 +195,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 227931,
-      "num": 227931,
-      "word": "杨洋摘面具",
-      "onboard_time": 1712959932,
-      "rank": 38,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 227699,
       "num": 171637,
       "word": "花花被和叶推下水",
@@ -209,6 +209,14 @@
       "onboard_time": 1712910198,
       "rank": 23,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 213759,
+      "num": 213759,
+      "word": "58岁姐姐去世弟弟含泪吹唢呐送别",
+      "onboard_time": 1712951471,
+      "rank": 8,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 209963,
@@ -227,6 +235,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 199754,
+      "num": 199754,
+      "word": "男子在电梯实施家暴被保安制服",
+      "onboard_time": 1712953091,
+      "rank": 33,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 191612,
       "num": 163993,
       "word": "赵露思王安宇拥抱",
@@ -243,12 +259,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 186756,
-      "num": 186756,
-      "word": "58岁姐姐去世弟弟含泪吹唢呐送别",
-      "onboard_time": 1712951471,
-      "rank": 8,
-      "category": "社会新闻"
+      "raw_hot": 176964,
+      "num": 176964,
+      "word": "乐言爆被柳智敏粉丝贷款",
+      "onboard_time": 1712963835,
+      "rank": 12,
+      "category": "电竞,艺人"
     },
     {
       "raw_hot": 174866,
@@ -259,12 +275,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 162936,
-      "num": 145193,
-      "word": "男子在电梯实施家暴被保安制服",
-      "onboard_time": 1712953091,
-      "rank": 33,
-      "category": "社会正能量"
+      "raw_hot": 172523,
+      "num": 172523,
+      "word": "130名涉赌诈嫌疑人从柬埔寨押解回国",
+      "onboard_time": 1712964314,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 160950,
+      "num": 136672,
+      "word": "有一种小肚子叫骨盆前倾",
+      "onboard_time": 1712964555,
+      "rank": 20,
+      "category": "健康医疗,运动健身"
     },
     {
       "raw_hot": 159485,
@@ -273,6 +297,22 @@
       "onboard_time": 1712942474,
       "rank": 36,
       "category": "体育"
+    },
+    {
+      "raw_hot": 158943,
+      "num": 158943,
+      "word": "金价或将被推升至3000美元",
+      "onboard_time": 1712963234,
+      "rank": 35,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 158462,
+      "num": 158462,
+      "word": "演员关凌称给娃辅导作业被气进医院",
+      "onboard_time": 1712928258,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 154951,
@@ -299,6 +339,30 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 149608,
+      "num": 149608,
+      "word": "外星人绑架案出现新证人",
+      "onboard_time": 1712953151,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 138873,
+      "num": 138873,
+      "word": "内蒙古61岁老人在三甲医院参加活动死亡",
+      "onboard_time": 1712964194,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 134233,
+      "num": 134233,
+      "word": "王源 我年纪大了",
+      "onboard_time": 1712949551,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 134158,
       "num": 134158,
       "word": "周扬青浪姐造型",
@@ -315,14 +379,6 @@
       "category": "网红"
     },
     {
-      "raw_hot": 129864,
-      "num": 129864,
-      "word": "外星人绑架案出现新证人",
-      "onboard_time": 1712953151,
-      "rank": 23,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 128376,
       "num": 150306,
       "word": "乐言喊zdz姐夫",
@@ -337,6 +393,22 @@
       "onboard_time": 1712933419,
       "rank": 32,
       "category": "电影"
+    },
+    {
+      "raw_hot": 125962,
+      "num": 125962,
+      "word": "猫一杯",
+      "onboard_time": 1712964194,
+      "rank": 23,
+      "category": "网红"
+    },
+    {
+      "raw_hot": 122423,
+      "num": 122423,
+      "word": "父母让我退房把钱给弟弟娶老婆",
+      "onboard_time": 1712963774,
+      "rank": 25,
+      "category": "情感"
     },
     {
       "raw_hot": 120996,
@@ -419,6 +491,22 @@
       "category": "演出"
     },
     {
+      "raw_hot": 97078,
+      "num": 97078,
+      "word": "一年没做防晒之后的变化",
+      "onboard_time": 1712963835,
+      "rank": 31,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 94600,
+      "num": 94600,
+      "word": "31岁的张彬彬现在转型是对的吗",
+      "onboard_time": 1712955131,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 93403,
       "num": 97403,
       "word": "五月天官宣演唱会",
@@ -443,28 +531,12 @@
       "category": "财经"
     },
     {
-      "raw_hot": 90483,
-      "num": 90483,
-      "word": "王源 我年纪大了",
-      "onboard_time": 1712949551,
-      "rank": 24,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 86862,
       "num": 97121,
       "word": "董宇辉回应现在讲解质量差",
       "onboard_time": 1712922497,
       "rank": 45,
       "category": "互联网,网红"
-    },
-    {
-      "raw_hot": 86804,
-      "num": 86804,
-      "word": "31岁的张彬彬现在转型是对的吗",
-      "onboard_time": 1712955131,
-      "rank": 25,
-      "category": "艺人"
     },
     {
       "raw_hot": 85438,
@@ -483,6 +555,22 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 84176,
+      "num": 84176,
+      "word": "台湾东南部海域4.7级地震",
+      "onboard_time": 1712963835,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 80512,
+      "num": 80512,
+      "word": "赵丽颖南京工作室注销",
+      "onboard_time": 1712953991,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 73671,
       "num": 96319,
       "word": "发疯文学算是被大学生玩明白了",
@@ -491,20 +579,28 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 63527,
-      "num": 63527,
-      "word": "赵丽颖南京工作室注销",
-      "onboard_time": 1712953991,
-      "rank": 34,
-      "category": "艺人"
+      "raw_hot": 71740,
+      "num": 71740,
+      "word": "白银涨幅已超黄金",
+      "onboard_time": 1712964436,
+      "rank": 41,
+      "category": "财经"
     },
     {
-      "raw_hot": 56548,
-      "num": 56548,
+      "raw_hot": 65711,
+      "num": 65711,
       "word": "金价飙升新人选择将三金折现",
       "onboard_time": 1712946012,
       "rank": 48,
       "category": "财经"
+    },
+    {
+      "raw_hot": 64596,
+      "num": 64596,
+      "word": "黄子韬云南",
+      "onboard_time": 1712964796,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 54987,
@@ -523,12 +619,20 @@
       "category": "剧集,综艺"
     },
     {
-      "raw_hot": 46959,
-      "num": 46959,
-      "word": "金价或将被推升至3000美元",
-      "onboard_time": 1712963234,
-      "rank": 35,
-      "category": "财经"
+      "raw_hot": 49022,
+      "num": 49022,
+      "word": "戚薇参加乘风2024的原因",
+      "onboard_time": 1712964735,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 46944,
+      "num": 46944,
+      "word": "XG掉入败者组",
+      "onboard_time": 1712964735,
+      "rank": 47,
+      "category": "电竞"
     },
     {
       "raw_hot": 39730,

@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/04/01 00:20:44 ~ 2024/04/13 07:14:18
+本榜单时间：2024/04/01 00:20:44 ~ 2024/04/13 07:33:59
 </p>
 </blockquote>
 <p>
@@ -3033,6 +3033,12 @@ infp 最接近神的人格（热度：822265）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9D%A8%E7%AB%8B%E6%96%B0%E9%81%87%E5%AE%B321%E5%A4%A9%E5%89%8D%E5%88%9A%E6%94%B6%E5%AB%8C%E7%96%91%E4%BA%BA%E4%B8%BA%E5%BE%92%23" target="weibo">
+杨立新遇害21天前刚收嫌疑人为徒（热度：789770）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9C%8B%E5%8F%8B%E7%A7%B0%E7%BD%91%E7%BA%A2%E6%9D%A8%E7%AB%8B%E6%96%B0%E9%81%87%E5%AE%B3%E5%89%8D%E5%90%83%E4%BA%86%E5%A0%95%E8%83%8E%E8%8D%AF%23" target="weibo">
 朋友称网红杨立新遇害前吃了堕胎药（热度：789715）
 </a>
@@ -3677,12 +3683,6 @@ TES被偷家（热度：704307）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9E%97%E6%9B%B4%E6%96%B0%20%E6%80%8E%E4%B9%88%E5%8F%AF%E4%BB%A5%E8%AE%A9%E5%88%AB%E4%BA%BA%E5%90%AC%E5%88%B0%23" target="weibo">
 林更新 怎么可以让别人听到（热度：702862）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9D%A8%E7%AB%8B%E6%96%B0%E9%81%87%E5%AE%B321%E5%A4%A9%E5%89%8D%E5%88%9A%E6%94%B6%E5%AB%8C%E7%96%91%E4%BA%BA%E4%B8%BA%E5%BE%92%23" target="weibo">
-杨立新遇害21天前刚收嫌疑人为徒（热度：702532）
 </a>
 </li>
 
