@@ -1,6 +1,6 @@
 {
   "startTime": 1712852435435,
-  "endTime": 1712907321958,
+  "endTime": 1712910150705,
   "band_list": [
     {
       "raw_hot": 2365529,
@@ -83,6 +83,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1285891,
+      "num": 1285891,
+      "word": "周大福足金戒指不到2个月出现褪色",
+      "onboard_time": 1712906478,
+      "rank": 22,
+      "category": "财经"
+    },
+    {
       "raw_hot": 1210883,
       "num": 1210883,
       "word": "cp粉悬着的心终于死了",
@@ -155,6 +163,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 894163,
+      "num": 396022,
+      "word": "有没有性生活都一定要做4项妇科检查",
+      "onboard_time": 1712907858,
+      "rank": 10,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 814364,
       "num": 263747,
       "word": "甜馨送给贾乃亮的生日礼物",
@@ -177,6 +193,14 @@
       "onboard_time": 1712901739,
       "rank": 5,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 792957,
+      "num": 792957,
+      "word": "汪苏泷方发文维权",
+      "onboard_time": 1712908578,
+      "rank": 3,
+      "category": "艺人"
     },
     {
       "raw_hot": 782742,
@@ -203,6 +227,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 753377,
+      "num": 753377,
+      "word": "向佐说一点都不介意别人叫他郭碧婷老公",
+      "onboard_time": 1712907257,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 712108,
       "num": 712108,
       "word": "30万年薪的银行员工要过紧日子了",
@@ -217,6 +249,14 @@
       "onboard_time": 1712848219,
       "rank": 5,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 687376,
+      "num": 376564,
+      "word": "Sunnee熊梓淇方声明",
+      "onboard_time": 1712906417,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 649252,
@@ -323,6 +363,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 543199,
+      "num": 543199,
+      "word": "魏大勋裴秀智合影旧照",
+      "onboard_time": 1712907019,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 542600,
       "num": 329364,
       "word": "体制内六件套",
@@ -347,12 +395,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 533793,
+      "num": 533793,
+      "word": "杨幂 花少好友记",
+      "onboard_time": 1712908218,
+      "rank": 6,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 533764,
       "num": 533764,
       "word": "为什么英国人下雨很少打伞",
       "onboard_time": 1712845999,
       "rank": 6,
       "category": "情感"
+    },
+    {
+      "raw_hot": 530985,
+      "num": 530985,
+      "word": "1米5的花花吃了根1米8的笋笋",
+      "onboard_time": 1712905578,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 527570,
@@ -377,6 +441,14 @@
       "onboard_time": 1712883620,
       "rank": 29,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 501015,
+      "num": 389041,
+      "word": "极限挑战",
+      "onboard_time": 1712904978,
+      "rank": 17,
+      "category": "综艺"
     },
     {
       "raw_hot": 492887,
@@ -417,6 +489,14 @@
       "onboard_time": 1712904017,
       "rank": 10,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 470315,
+      "num": 354630,
+      "word": "coser以为对方是cos记者",
+      "onboard_time": 1712907798,
+      "rank": 14,
+      "category": "动漫"
     },
     {
       "raw_hot": 442109,
@@ -483,28 +563,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 405997,
-      "num": 330464,
-      "word": "Sunnee熊梓淇方声明",
-      "onboard_time": 1712906417,
-      "rank": 12,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 397296,
       "num": 261431,
       "word": "换儿子血的亿万富翁展示3年抗衰成果",
       "onboard_time": 1712835377,
       "rank": 22,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 389041,
-      "num": 389041,
-      "word": "极限挑战",
-      "onboard_time": 1712904978,
-      "rank": 17,
-      "category": "综艺"
     },
     {
       "raw_hot": 384808,
@@ -715,14 +779,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 288835,
-      "num": 288835,
-      "word": "魏大勋裴秀智合影旧照",
-      "onboard_time": 1712907019,
-      "rank": 20,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 281068,
       "num": 281068,
       "word": "奔跑吧12发布会邀请函",
@@ -787,6 +843,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 272979,
+      "num": 272979,
+      "word": "眉毛真的和寿命有关吗",
+      "onboard_time": 1712906177,
+      "rank": 47,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 271032,
       "num": 271032,
       "word": "教资通过率",
@@ -827,6 +891,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 261218,
+      "num": 261218,
+      "word": "魏大勋又来分蛋糕了",
+      "onboard_time": 1712909298,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 260105,
       "num": 260105,
       "word": "TES被偷家",
@@ -849,14 +921,6 @@
       "onboard_time": 1712899337,
       "rank": 24,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 258699,
-      "num": 258699,
-      "word": "周大福足金戒指不到2个月出现褪色",
-      "onboard_time": 1712906478,
-      "rank": 22,
-      "category": "财经"
     },
     {
       "raw_hot": 258423,
@@ -939,14 +1003,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 238694,
-      "num": 211122,
-      "word": "向佐说一点都不介意别人叫他郭碧婷老公",
-      "onboard_time": 1712907257,
-      "rank": 26,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 237962,
       "num": 237962,
       "word": "承欢记新浪扫楼",
@@ -969,14 +1025,6 @@
       "onboard_time": 1712888057,
       "rank": 25,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 233345,
-      "num": 208674,
-      "word": "眉毛真的和寿命有关吗",
-      "onboard_time": 1712906177,
-      "rank": 47,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 233212,
@@ -1027,6 +1075,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 226024,
+      "num": 273564,
+      "word": "詹姆斯曾要求湖人交易威少",
+      "onboard_time": 1712908459,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 223306,
       "num": 223306,
       "word": "郭德纲谈贾乃亮",
@@ -1059,6 +1115,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 219528,
+      "num": 219528,
+      "word": "时隔10年再次发布新国九条",
+      "onboard_time": 1712907076,
+      "rank": 34,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 219045,
       "num": 219045,
       "word": "RNG将拍卖奖杯",
@@ -1081,6 +1145,14 @@
       "onboard_time": 1712844260,
       "rank": 19,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 215225,
+      "num": 215225,
+      "word": "哪种血型身体好",
+      "onboard_time": 1712907858,
+      "rank": 24,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 214860,
@@ -1107,12 +1179,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 211776,
-      "num": 211776,
-      "word": "1米5的花花吃了根1米8的笋笋",
-      "onboard_time": 1712905578,
-      "rank": 35,
-      "category": "社会新闻"
+      "raw_hot": 210562,
+      "num": 210562,
+      "word": "李嘉格 浪姐",
+      "onboard_time": 1712909599,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 209675,
@@ -1147,6 +1219,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 206720,
+      "num": 206720,
+      "word": "怪不得新一和基德长得像",
+      "onboard_time": 1712908939,
+      "rank": 27,
+      "category": "电影,动漫"
+    },
+    {
       "raw_hot": 204048,
       "num": 188007,
       "word": "易烊千玺演微电影",
@@ -1177,6 +1257,14 @@
       "onboard_time": 1712892017,
       "rank": 41,
       "category": "综艺,剧集"
+    },
+    {
+      "raw_hot": 198200,
+      "num": 198200,
+      "word": "中国资本市场迎来第三个国九条",
+      "onboard_time": 1712909238,
+      "rank": 28,
+      "category": "国内时政"
     },
     {
       "raw_hot": 197469,
@@ -1299,6 +1387,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 190221,
+      "num": 190221,
+      "word": "为什么照片总是不如本人好看",
+      "onboard_time": 1712909059,
+      "rank": 29,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 188502,
       "num": 188502,
       "word": "教资面试报名",
@@ -1419,12 +1515,28 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 173216,
+      "num": 169250,
+      "word": "金娘子都被吓成乌兰图雅了",
+      "onboard_time": 1712908037,
+      "rank": 35,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 172718,
       "num": 172718,
       "word": "熊祁",
       "onboard_time": 1712882179,
       "rank": 44,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 171801,
+      "num": 171801,
+      "word": "700元的黄金谁拿谁烫手",
+      "onboard_time": 1712907199,
+      "rank": 43,
+      "category": "财经"
     },
     {
       "raw_hot": 171359,
@@ -1435,28 +1547,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 169312,
-      "num": 169312,
-      "word": "700元的黄金谁拿谁烫手",
-      "onboard_time": 1712907199,
-      "rank": 43,
-      "category": "财经"
-    },
-    {
       "raw_hot": 167329,
       "num": 289103,
       "word": "重庆一房屋预制板断裂致2人死亡",
       "onboard_time": 1712905518,
       "rank": 27,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 166592,
-      "num": 190524,
-      "word": "时隔10年再次发布新国九条",
-      "onboard_time": 1712907076,
-      "rank": 34,
-      "category": "国内时政"
     },
     {
       "raw_hot": 166570,
@@ -1483,6 +1579,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 164637,
+      "num": 164637,
+      "word": "无意中发现了世界的一个bug",
+      "onboard_time": 1712909658,
+      "rank": 36,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 164285,
       "num": 164285,
       "word": "朴彩英三吉彩花同框",
@@ -1505,6 +1609,14 @@
       "onboard_time": 1712870951,
       "rank": 45,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 161556,
+      "num": 161556,
+      "word": "宝骏悦也",
+      "onboard_time": 1712909959,
+      "rank": 37,
+      "category": "汽车"
     },
     {
       "raw_hot": 159700,
@@ -1651,6 +1763,22 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 143672,
+      "num": 143672,
+      "word": "小米SU7全网上路首撞车主回应",
+      "onboard_time": 1712909717,
+      "rank": 41,
+      "category": "汽车"
+    },
+    {
+      "raw_hot": 142526,
+      "num": 142526,
+      "word": "证监会权威解读新国九条",
+      "onboard_time": 1712909358,
+      "rank": 42,
+      "category": "财经,国内时政"
+    },
+    {
       "raw_hot": 134898,
       "num": 134898,
       "word": "可以不喜欢但请相互尊重",
@@ -1683,6 +1811,14 @@
       "category": "幽默,艺人"
     },
     {
+      "raw_hot": 130178,
+      "num": 130178,
+      "word": "网易蛋仔派对被指诱导未成年人消费",
+      "onboard_time": 1712909238,
+      "rank": 45,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 126358,
       "num": 114702,
       "word": "邓超叫孙俪亲",
@@ -1705,6 +1841,14 @@
       "onboard_time": 1712842038,
       "rank": 36,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 122501,
+      "num": 122501,
+      "word": "百万网红杨立新遇害",
+      "onboard_time": 1712910078,
+      "rank": 47,
+      "category": "网红"
     },
     {
       "raw_hot": 121618,
@@ -1737,6 +1881,14 @@
       "onboard_time": 1712905637,
       "rank": 46,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 116236,
+      "num": 116236,
+      "word": "杨紫披发黑裙",
+      "onboard_time": 1712910078,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 115733,
@@ -1857,6 +2009,14 @@
       "onboard_time": 1712842879,
       "rank": 42,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 93524,
+      "num": 1221376,
+      "word": "中国卫星又给地球月球拍了张合影",
+      "onboard_time": 1712892859,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 92745,
@@ -2003,14 +2163,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 47548,
-      "num": 1221376,
-      "word": "中国卫星又给地球月球拍了张合影",
-      "onboard_time": 1712892859,
-      "rank": 2,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 38072,
       "num": 43646,
       "word": "薛之谦重庆",
@@ -2103,6 +2255,14 @@
       "num": 220733,
       "word": "惣治郎大叔快回来",
       "onboard_time": 1712894780,
+      "rank": 38,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 12026,
+      "num": 154031,
+      "word": "P5X新人指南",
+      "onboard_time": 1712907378,
       "rank": 38,
       "category": "游戏"
     },

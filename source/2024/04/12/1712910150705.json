@@ -1,0 +1,410 @@
+{
+  "runTime": 1712910150705,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1285891,
+        "num": 1285891,
+        "word": "周大福足金戒指不到2个月出现褪色",
+        "onboard_time": 1712906478,
+        "rank": 0,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 865384,
+        "num": 865384,
+        "word": "溺亡大熊猫表面无明显人为伤",
+        "onboard_time": 1712902878,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 93524,
+        "num": 798704,
+        "word": "中国卫星又给地球月球拍了张合影",
+        "onboard_time": 1712892859,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 792957,
+        "num": 792957,
+        "word": "汪苏泷方发文维权",
+        "onboard_time": 1712908578,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 753377,
+        "num": 753377,
+        "word": "向佐说一点都不介意别人叫他郭碧婷老公",
+        "onboard_time": 1712907257,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 543199,
+        "num": 543199,
+        "word": "魏大勋裴秀智合影旧照",
+        "onboard_time": 1712907019,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 533793,
+        "num": 533793,
+        "word": "杨幂 花少好友记",
+        "onboard_time": 1712908218,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 530985,
+        "num": 530985,
+        "word": "1米5的花花吃了根1米8的笋笋",
+        "onboard_time": 1712905578,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 525082,
+        "num": 525082,
+        "word": "赵丽颖的伞撑了一个又一个人",
+        "onboard_time": 1712901798,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 396650,
+        "num": 396650,
+        "word": "调休多上一天班为什么这么累",
+        "onboard_time": 1712898977,
+        "rank": 9,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 894163,
+        "num": 396022,
+        "word": "有没有性生活都一定要做4项妇科检查",
+        "onboard_time": 1712907858,
+        "rank": 10,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 687376,
+        "num": 376564,
+        "word": "Sunnee熊梓淇方声明",
+        "onboard_time": 1712906417,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 651567,
+        "num": 370272,
+        "word": "朴宝蓝喝酒后死亡",
+        "onboard_time": 1712890817,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 501015,
+        "num": 355198,
+        "word": "极限挑战",
+        "onboard_time": 1712904978,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 470315,
+        "num": 354630,
+        "word": "coser以为对方是cos记者",
+        "onboard_time": 1712907798,
+        "rank": 14,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 344635,
+        "num": 344635,
+        "word": "首饰金价一夜飙升15元每克",
+        "onboard_time": 1712901558,
+        "rank": 15,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 298895,
+        "num": 298895,
+        "word": "陈震称小米SU7赛道撞墙再正常不过",
+        "onboard_time": 1712904017,
+        "rank": 16,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 281597,
+        "num": 281597,
+        "word": "蔡依林演唱会1290元比1590元座位更靠前",
+        "onboard_time": 1712905277,
+        "rank": 17,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 275431,
+        "num": 275431,
+        "word": "林更新186的身高147的体重",
+        "onboard_time": 1712899700,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 226024,
+        "num": 273564,
+        "word": "詹姆斯曾要求湖人交易威少",
+        "onboard_time": 1712908459,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 272979,
+        "num": 272979,
+        "word": "眉毛真的和寿命有关吗",
+        "onboard_time": 1712906177,
+        "rank": 20,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 261218,
+        "num": 261218,
+        "word": "魏大勋又来分蛋糕了",
+        "onboard_time": 1712909298,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 252203,
+        "num": 252203,
+        "word": "十万天神同祝的婚礼",
+        "onboard_time": 1712904436,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 219528,
+        "num": 219528,
+        "word": "时隔10年再次发布新国九条",
+        "onboard_time": 1712907076,
+        "rank": 23,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 215225,
+        "num": 215225,
+        "word": "哪种血型身体好",
+        "onboard_time": 1712907858,
+        "rank": 24,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 229724,
+        "num": 213256,
+        "word": "十个勤天小店",
+        "onboard_time": 1712903178,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 210562,
+        "num": 210562,
+        "word": "李嘉格 浪姐",
+        "onboard_time": 1712909599,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 206720,
+        "num": 206720,
+        "word": "怪不得新一和基德长得像",
+        "onboard_time": 1712908939,
+        "rank": 27,
+        "category": "电影,动漫"
+      },
+      {
+        "raw_hot": 198200,
+        "num": 198200,
+        "word": "中国资本市场迎来第三个国九条",
+        "onboard_time": 1712909238,
+        "rank": 28,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 190221,
+        "num": 190221,
+        "word": "为什么照片总是不如本人好看",
+        "onboard_time": 1712909059,
+        "rank": 29,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 187428,
+        "num": 187428,
+        "word": "林更新胡一天撞衫",
+        "onboard_time": 1712904436,
+        "rank": 30,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 179987,
+        "num": 179987,
+        "word": "沈璃行止的婚书",
+        "onboard_time": 1712905818,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 178158,
+        "num": 178158,
+        "word": "青山刚昌癫了",
+        "onboard_time": 1712892138,
+        "rank": 32,
+        "category": "电影,动漫"
+      },
+      {
+        "raw_hot": 172093,
+        "num": 172093,
+        "word": "体制内六件套",
+        "onboard_time": 1712899279,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 171801,
+        "num": 171801,
+        "word": "700元的黄金谁拿谁烫手",
+        "onboard_time": 1712907199,
+        "rank": 34,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 173216,
+        "num": 169250,
+        "word": "金娘子都被吓成乌兰图雅了",
+        "onboard_time": 1712908037,
+        "rank": 35,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 164637,
+        "num": 164637,
+        "word": "无意中发现了世界的一个bug",
+        "onboard_time": 1712909658,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 161556,
+        "num": 161556,
+        "word": "宝骏悦也",
+        "onboard_time": 1712909959,
+        "rank": 37,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 12026,
+        "num": 154031,
+        "word": "P5X新人指南",
+        "onboard_time": 1712907378,
+        "rank": 38,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 150573,
+        "num": 150573,
+        "word": "侯雯元枕上了钟楚曦送的枕头",
+        "onboard_time": 1712900000,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 148768,
+        "num": 148768,
+        "word": "女子被轿车撞倒身亡目击者发声",
+        "onboard_time": 1712903297,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 143672,
+        "num": 143672,
+        "word": "小米SU7全网上路首撞车主回应",
+        "onboard_time": 1712909717,
+        "rank": 41,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 142526,
+        "num": 142526,
+        "word": "证监会权威解读新国九条",
+        "onboard_time": 1712909358,
+        "rank": 42,
+        "category": "财经,国内时政"
+      },
+      {
+        "raw_hot": 136823,
+        "num": 136823,
+        "word": "鲜鱼刚下锅就开始在火锅中游泳了",
+        "onboard_time": 1712906478,
+        "rank": 43,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 130342,
+        "num": 130342,
+        "word": "女儿假装丰唇来整蛊老爸",
+        "onboard_time": 1712905698,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 130178,
+        "num": 130178,
+        "word": "网易蛋仔派对被指诱导未成年人消费",
+        "onboard_time": 1712909238,
+        "rank": 45,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 125823,
+        "num": 125823,
+        "word": "二十几岁没意识到自己很年轻",
+        "onboard_time": 1712904677,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 122501,
+        "num": 122501,
+        "word": "百万网红杨立新遇害",
+        "onboard_time": 1712910078,
+        "rank": 47,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 116766,
+        "num": 116766,
+        "word": "黄金",
+        "onboard_time": 1712906656,
+        "rank": 48,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 116236,
+        "num": 116236,
+        "word": "杨紫披发黑裙",
+        "onboard_time": 1712910078,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记提出两岸同胞要做到四个坚定#"
+    }
+  }
+}
