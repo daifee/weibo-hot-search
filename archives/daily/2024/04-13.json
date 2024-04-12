@@ -1,6 +1,6 @@
 {
   "startTime": 1712938901785,
-  "endTime": 1712960067797,
+  "endTime": 1712961250410,
   "band_list": [
     {
       "raw_hot": 984604,
@@ -91,20 +91,20 @@
       "category": "社会新闻,网红"
     },
     {
+      "raw_hot": 366661,
+      "num": 191381,
+      "word": "杨立新遇害21天前刚收嫌疑人为徒",
+      "onboard_time": 1712940855,
+      "rank": 13,
+      "category": "网红"
+    },
+    {
       "raw_hot": 351358,
       "num": 351358,
       "word": "山西省考 出不出",
       "onboard_time": 1712938037,
       "rank": 15,
       "category": "教育"
-    },
-    {
-      "raw_hot": 340011,
-      "num": 191381,
-      "word": "杨立新遇害21天前刚收嫌疑人为徒",
-      "onboard_time": 1712940855,
-      "rank": 13,
-      "category": "网红"
     },
     {
       "raw_hot": 333571,
@@ -235,12 +235,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 165976,
+      "raw_hot": 171680,
       "num": 119297,
       "word": "男子囤4600多克金条坚决不卖",
       "onboard_time": 1712941815,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 159485,
+      "num": 159485,
+      "word": "巴黎奥运会",
+      "onboard_time": 1712942474,
+      "rank": 36,
+      "category": "体育"
     },
     {
       "raw_hot": 154951,
@@ -297,14 +305,6 @@
       "onboard_time": 1712933419,
       "rank": 32,
       "category": "电影"
-    },
-    {
-      "raw_hot": 121766,
-      "num": 121766,
-      "word": "巴黎奥运会",
-      "onboard_time": 1712942474,
-      "rank": 36,
-      "category": "体育"
     },
     {
       "raw_hot": 120996,
@@ -411,6 +411,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 90766,
+      "num": 90766,
+      "word": "58岁姐姐去世弟弟含泪吹唢呐送别",
+      "onboard_time": 1712951471,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 86862,
       "num": 97121,
       "word": "董宇辉回应现在讲解质量差",
@@ -435,6 +443,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 76483,
+      "num": 67895,
+      "word": "外星人绑架案出现新证人",
+      "onboard_time": 1712953151,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 73671,
       "num": 96319,
       "word": "发疯文学算是被大学生玩明白了",
@@ -443,20 +459,36 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 73250,
-      "num": 73250,
-      "word": "58岁姐姐去世弟弟含泪吹唢呐送别",
-      "onboard_time": 1712951471,
-      "rank": 8,
-      "category": "社会新闻"
+      "raw_hot": 72679,
+      "num": 67325,
+      "word": "男子在电梯实施家暴被保安制服",
+      "onboard_time": 1712953091,
+      "rank": 33,
+      "category": "社会正能量"
     },
     {
-      "raw_hot": 66388,
-      "num": 52142,
-      "word": "外星人绑架案出现新证人",
-      "onboard_time": 1712953151,
-      "rank": 23,
-      "category": "社会新闻"
+      "raw_hot": 67218,
+      "num": 67218,
+      "word": "杨洋摘面具",
+      "onboard_time": 1712959932,
+      "rank": 38,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 62341,
+      "num": 62341,
+      "word": "王源 我年纪大了",
+      "onboard_time": 1712949551,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 57913,
+      "num": 57913,
+      "word": "31岁的张彬彬现在转型是对的吗",
+      "onboard_time": 1712955131,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 54987,
@@ -467,14 +499,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 54280,
-      "num": 54280,
-      "word": "王源 我年纪大了",
-      "onboard_time": 1712949551,
-      "rank": 24,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 49657,
       "num": 49657,
       "word": "于和伟有这么破碎的哭戏进入内娱",
@@ -483,19 +507,11 @@
       "category": "剧集,综艺"
     },
     {
-      "raw_hot": 47204,
-      "num": 47204,
-      "word": "男子在电梯实施家暴被保安制服",
-      "onboard_time": 1712953091,
-      "rank": 33,
-      "category": "社会正能量"
-    },
-    {
-      "raw_hot": 46899,
-      "num": 46899,
-      "word": "31岁的张彬彬现在转型是对的吗",
-      "onboard_time": 1712955131,
-      "rank": 25,
+      "raw_hot": 41595,
+      "num": 41595,
+      "word": "赵丽颖南京工作室注销",
+      "onboard_time": 1712953991,
+      "rank": 34,
       "category": "艺人"
     },
     {
@@ -515,20 +531,12 @@
       "category": "网红"
     },
     {
-      "raw_hot": 32459,
-      "num": 32459,
+      "raw_hot": 36001,
+      "num": 36001,
       "word": "金价飙升新人选择将三金折现",
       "onboard_time": 1712946012,
       "rank": 48,
       "category": "财经"
-    },
-    {
-      "raw_hot": 31032,
-      "num": 31032,
-      "word": "赵丽颖南京工作室注销",
-      "onboard_time": 1712953991,
-      "rank": 34,
-      "category": "艺人"
     },
     {
       "raw_hot": 27678,
@@ -540,7 +548,7 @@
     },
     {
       "raw_hot": 27373,
-      "num": 27373,
+      "num": 30810,
       "word": "妖精的尾巴 一家三口",
       "onboard_time": 1712948352,
       "rank": 41,
@@ -553,14 +561,6 @@
       "onboard_time": 1712948472,
       "rank": 40,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 20347,
-      "num": 24527,
-      "word": "杨洋摘面具",
-      "onboard_time": 1712959932,
-      "rank": 38,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 12521,

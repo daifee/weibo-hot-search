@@ -1,6 +1,6 @@
 {
   "startTime": 1711902044401,
-  "endTime": 1712960067797,
+  "endTime": 1712961250410,
   "band_list": [
     {
       "raw_hot": 16874674,
@@ -11315,6 +11315,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 366661,
+      "num": 191381,
+      "word": "杨立新遇害21天前刚收嫌疑人为徒",
+      "onboard_time": 1712940855,
+      "rank": 13,
+      "category": "网红"
+    },
+    {
       "raw_hot": 366377,
       "num": 309860,
       "word": "清明还没到 男二人没了",
@@ -12161,14 +12169,6 @@
       "onboard_time": 1712835976,
       "rank": 15,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 340011,
-      "num": 191381,
-      "word": "杨立新遇害21天前刚收嫌疑人为徒",
-      "onboard_time": 1712940855,
-      "rank": 13,
-      "category": "网红"
     },
     {
       "raw_hot": 339975,
@@ -24691,6 +24691,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 171680,
+      "num": 119297,
+      "word": "男子囤4600多克金条坚决不卖",
+      "onboard_time": 1712941815,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 171639,
       "num": 171639,
       "word": "今天上午的感觉如下",
@@ -25312,14 +25320,6 @@
       "word": "江西南昌暴雨致房屋坍塌11人受伤",
       "onboard_time": 1712057359,
       "rank": 40,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 165976,
-      "num": 119297,
-      "word": "男子囤4600多克金条坚决不卖",
-      "onboard_time": 1712941815,
-      "rank": 45,
       "category": "社会新闻"
     },
     {
@@ -26161,6 +26161,14 @@
       "onboard_time": 1712032281,
       "rank": 41,
       "category": "演出"
+    },
+    {
+      "raw_hot": 159485,
+      "num": 159485,
+      "word": "巴黎奥运会",
+      "onboard_time": 1712942474,
+      "rank": 36,
+      "category": "体育"
     },
     {
       "raw_hot": 159450,
@@ -30787,14 +30795,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 121766,
-      "num": 121766,
-      "word": "巴黎奥运会",
-      "onboard_time": 1712942474,
-      "rank": 36,
-      "category": "体育"
-    },
-    {
       "raw_hot": 121618,
       "num": 119446,
       "word": "久违了LAY",
@@ -32571,6 +32571,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 90766,
+      "num": 90766,
+      "word": "58岁姐姐去世弟弟含泪吹唢呐送别",
+      "onboard_time": 1712951471,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 90755,
       "num": 90755,
       "word": "郑合惠子的体重",
@@ -32931,6 +32939,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 76483,
+      "num": 67895,
+      "word": "外星人绑架案出现新证人",
+      "onboard_time": 1712953151,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 76451,
       "num": 76451,
       "word": "宫崎骏新作 完美的谢幕",
@@ -33059,14 +33075,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 73250,
-      "num": 73250,
-      "word": "58岁姐姐去世弟弟含泪吹唢呐送别",
-      "onboard_time": 1712951471,
-      "rank": 8,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 73121,
       "num": 73121,
       "word": "这狗能处自己出去谈客户",
@@ -33105,6 +33113,14 @@
       "onboard_time": 1712768295,
       "rank": 28,
       "category": "体育"
+    },
+    {
+      "raw_hot": 72679,
+      "num": 67325,
+      "word": "男子在电梯实施家暴被保安制服",
+      "onboard_time": 1712953091,
+      "rank": 33,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 72375,
@@ -33267,6 +33283,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 67218,
+      "num": 67218,
+      "word": "杨洋摘面具",
+      "onboard_time": 1712959932,
+      "rank": 38,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 67131,
       "num": 67131,
       "word": "李多寅晒女儿脚丫照",
@@ -33297,14 +33321,6 @@
       "onboard_time": 1712355912,
       "rank": 42,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 66388,
-      "num": 52142,
-      "word": "外星人绑架案出现新证人",
-      "onboard_time": 1712953151,
-      "rank": 23,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 66105,
@@ -33401,6 +33417,14 @@
       "onboard_time": 1711911732,
       "rank": 23,
       "category": "演出"
+    },
+    {
+      "raw_hot": 62341,
+      "num": 62341,
+      "word": "王源 我年纪大了",
+      "onboard_time": 1712949551,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 61679,
@@ -33513,6 +33537,14 @@
       "onboard_time": 1711923133,
       "rank": 43,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 57913,
+      "num": 57913,
+      "word": "31岁的张彬彬现在转型是对的吗",
+      "onboard_time": 1712955131,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 57816,
@@ -33641,14 +33673,6 @@
       "onboard_time": 1712186053,
       "rank": 46,
       "category": "财经"
-    },
-    {
-      "raw_hot": 54280,
-      "num": 54280,
-      "word": "王源 我年纪大了",
-      "onboard_time": 1712949551,
-      "rank": 24,
-      "category": "艺人"
     },
     {
       "raw_hot": 54194,
@@ -33827,28 +33851,12 @@
       "category": "时尚"
     },
     {
-      "raw_hot": 47204,
-      "num": 47204,
-      "word": "男子在电梯实施家暴被保安制服",
-      "onboard_time": 1712953091,
-      "rank": 33,
-      "category": "社会正能量"
-    },
-    {
       "raw_hot": 47175,
       "num": 172223,
       "word": "中端手机性能有多卷",
       "onboard_time": 1712459418,
       "rank": 37,
       "category": "数码"
-    },
-    {
-      "raw_hot": 46899,
-      "num": 46899,
-      "word": "31岁的张彬彬现在转型是对的吗",
-      "onboard_time": 1712955131,
-      "rank": 25,
-      "category": "艺人"
     },
     {
       "raw_hot": 46826,
@@ -33976,6 +33984,14 @@
       "word": "王一博婉拒吃播",
       "onboard_time": 1712598554,
       "rank": 26,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 41595,
+      "num": 41595,
+      "word": "赵丽颖南京工作室注销",
+      "onboard_time": 1712953991,
+      "rank": 34,
       "category": "艺人"
     },
     {
@@ -34131,6 +34147,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 36001,
+      "num": 36001,
+      "word": "金价飙升新人选择将三金折现",
+      "onboard_time": 1712946012,
+      "rank": 48,
+      "category": "财经"
+    },
+    {
       "raw_hot": 35379,
       "num": 35379,
       "word": "电视剧品质盛典",
@@ -34211,14 +34235,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 32459,
-      "num": 32459,
-      "word": "金价飙升新人选择将三金折现",
-      "onboard_time": 1712946012,
-      "rank": 48,
-      "category": "财经"
-    },
-    {
       "raw_hot": 32101,
       "num": 45269,
       "word": "第一个因推销员受害的小狗出现了",
@@ -34257,14 +34273,6 @@
       "onboard_time": 1712686153,
       "rank": 39,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 31032,
-      "num": 31032,
-      "word": "赵丽颖南京工作室注销",
-      "onboard_time": 1712953991,
-      "rank": 34,
-      "category": "艺人"
     },
     {
       "raw_hot": 30044,
@@ -34356,7 +34364,7 @@
     },
     {
       "raw_hot": 27373,
-      "num": 27373,
+      "num": 30810,
       "word": "妖精的尾巴 一家三口",
       "onboard_time": 1712948352,
       "rank": 41,
@@ -34697,14 +34705,6 @@
       "onboard_time": 1712687651,
       "rank": 49,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 20347,
-      "num": 24527,
-      "word": "杨洋摘面具",
-      "onboard_time": 1712959932,
-      "rank": 38,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 20228,
