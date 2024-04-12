@@ -1,6 +1,6 @@
 {
   "startTime": 1711902044401,
-  "endTime": 1712902981871,
+  "endTime": 1712903726657,
   "band_list": [
     {
       "raw_hot": 16874674,
@@ -3787,6 +3787,14 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 798405,
+      "num": 798405,
+      "word": "杨紫裤子不合身",
+      "onboard_time": 1712901739,
+      "rank": 5,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 798173,
       "num": 798173,
       "word": "班主任辞职参军全班沸腾了",
@@ -4137,6 +4145,14 @@
       "onboard_time": 1712278937,
       "rank": 12,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 756187,
+      "num": 756187,
+      "word": "林更新186的身高147的体重",
+      "onboard_time": 1712899700,
+      "rank": 18,
+      "category": "综艺"
     },
     {
       "raw_hot": 755661,
@@ -4497,14 +4513,6 @@
       "onboard_time": 1712640141,
       "rank": 25,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 717190,
-      "num": 717190,
-      "word": "林更新186的身高147的体重",
-      "onboard_time": 1712899700,
-      "rank": 18,
-      "category": "综艺"
     },
     {
       "raw_hot": 716278,
@@ -5555,6 +5563,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 629537,
+      "num": 629537,
+      "word": "侯雯元枕上了钟楚曦送的枕头",
+      "onboard_time": 1712900000,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 628835,
       "num": 628835,
       "word": "种地吧 监控",
@@ -6379,14 +6395,6 @@
       "category": "游戏,网红"
     },
     {
-      "raw_hot": 579020,
-      "num": 579020,
-      "word": "杨紫裤子不合身",
-      "onboard_time": 1712901739,
-      "rank": 5,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 578526,
       "num": 578526,
       "word": "耳朵痒却掏不出东西咋回事",
@@ -6411,20 +6419,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 577369,
+      "num": 577369,
+      "word": "一个普通女生的3个7年",
+      "onboard_time": 1712897899,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 577341,
       "num": 320534,
       "word": "四千的工资根本花不完甚至还能存点钱",
       "onboard_time": 1712242880,
       "rank": 22,
       "category": "情感"
-    },
-    {
-      "raw_hot": 575647,
-      "num": 575647,
-      "word": "侯雯元枕上了钟楚曦送的枕头",
-      "onboard_time": 1712900000,
-      "rank": 39,
-      "category": "综艺"
     },
     {
       "raw_hot": 575332,
@@ -6707,14 +6715,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 552568,
-      "num": 552568,
-      "word": "一个普通女生的3个7年",
-      "onboard_time": 1712897899,
-      "rank": 30,
-      "category": "情感"
-    },
-    {
       "raw_hot": 552555,
       "num": 512828,
       "word": "张俪四分钟翘臀不粗腿跟练",
@@ -6897,6 +6897,14 @@
       "onboard_time": 1711897940,
       "rank": 14,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 542600,
+      "num": 329364,
+      "word": "体制内六件套",
+      "onboard_time": 1712899279,
+      "rank": 21,
+      "category": "幽默"
     },
     {
       "raw_hot": 542415,
@@ -7667,14 +7675,6 @@
       "category": "汽车,财经"
     },
     {
-      "raw_hot": 500494,
-      "num": 329364,
-      "word": "体制内六件套",
-      "onboard_time": 1712899279,
-      "rank": 21,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 500116,
       "num": 500116,
       "word": "范丞丞脸上的二进制代码",
@@ -8145,6 +8145,14 @@
       "onboard_time": 1711888277,
       "rank": 8,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 477370,
+      "num": 477370,
+      "word": "赵丽颖的伞撑了一个又一个人",
+      "onboard_time": 1712901798,
+      "rank": 11,
+      "category": "剧集"
     },
     {
       "raw_hot": 476912,
@@ -9249,14 +9257,6 @@
       "onboard_time": 1712375119,
       "rank": 21,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 431579,
-      "num": 431579,
-      "word": "赵丽颖的伞撑了一个又一个人",
-      "onboard_time": 1712901798,
-      "rank": 11,
-      "category": "剧集"
     },
     {
       "raw_hot": 431379,
@@ -11259,6 +11259,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 352018,
+      "num": 352018,
+      "word": "十个勤天小店",
+      "onboard_time": 1712903178,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 351903,
       "num": 334480,
       "word": "华为口红耳机2",
@@ -11841,6 +11849,14 @@
       "onboard_time": 1712283498,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 333349,
+      "num": 333349,
+      "word": "调休多上一天班为什么这么累",
+      "onboard_time": 1712898977,
+      "rank": 42,
+      "category": "幽默"
     },
     {
       "raw_hot": 333302,
@@ -12651,6 +12667,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 310358,
+      "num": 310358,
+      "word": "丁程鑫回怼导演组",
+      "onboard_time": 1712901439,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 310250,
       "num": 310250,
       "word": "燥候TXT",
@@ -13356,7 +13380,7 @@
     },
     {
       "raw_hot": 292932,
-      "num": 242117,
+      "num": 266655,
       "word": "衣服买一件两百的还是五件四十的",
       "onboard_time": 1712900358,
       "rank": 23,
@@ -14571,6 +14595,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 266377,
+      "num": 266377,
+      "word": "溺亡大熊猫表面无明显人为伤",
+      "onboard_time": 1712902878,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 266112,
       "num": 229623,
       "word": "杨幂纯白造型",
@@ -15001,14 +15033,6 @@
       "onboard_time": 1712503099,
       "rank": 26,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 258598,
-      "num": 258598,
-      "word": "丁程鑫回怼导演组",
-      "onboard_time": 1712901439,
-      "rank": 17,
-      "category": "综艺"
     },
     {
       "raw_hot": 258523,
@@ -15779,20 +15803,20 @@
       "category": "情感"
     },
     {
+      "raw_hot": 247115,
+      "num": 247115,
+      "word": "首饰金价一夜飙升15元每克",
+      "onboard_time": 1712901558,
+      "rank": 30,
+      "category": "财经"
+    },
+    {
       "raw_hot": 246805,
       "num": 246805,
       "word": "九尾掌管干将的神",
       "onboard_time": 1712499681,
       "rank": 30,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 246640,
-      "num": 246640,
-      "word": "调休多上一天班为什么这么累",
-      "onboard_time": 1712898977,
-      "rank": 42,
-      "category": "幽默"
     },
     {
       "raw_hot": 246616,
@@ -16715,6 +16739,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 232714,
+      "num": 232714,
+      "word": "原来明星的朋友圈跟我们的一样",
+      "onboard_time": 1712902218,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 232707,
       "num": 232707,
       "word": "平躺才是脊柱最喜欢的睡姿",
@@ -17585,14 +17617,6 @@
       "onboard_time": 1712558058,
       "rank": 31,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 220850,
-      "num": 220850,
-      "word": "首饰金价一夜飙升15元每克",
-      "onboard_time": 1712901558,
-      "rank": 30,
-      "category": "财经"
     },
     {
       "raw_hot": 220827,
@@ -19201,14 +19225,6 @@
       "onboard_time": 1711936760,
       "rank": 33,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 204262,
-      "num": 204262,
-      "word": "原来明星的朋友圈跟我们的一样",
-      "onboard_time": 1712902218,
-      "rank": 32,
-      "category": "艺人"
     },
     {
       "raw_hot": 204247,
@@ -23875,6 +23891,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 168172,
+      "num": 168172,
+      "word": "女子被轿车撞倒身亡目击者发声",
+      "onboard_time": 1712903297,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 168057,
       "num": 168057,
       "word": "元气森林音乐节阵容",
@@ -26315,6 +26339,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 148415,
+      "num": 148415,
+      "word": "林更新无袖衬衫",
+      "onboard_time": 1712900418,
+      "rank": 43,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 148357,
       "num": 148357,
       "word": "麦承欢口嫌体正直",
@@ -27817,14 +27849,6 @@
       "onboard_time": 1712739919,
       "rank": 39,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 136585,
-      "num": 136585,
-      "word": "林更新无袖衬衫",
-      "onboard_time": 1712900418,
-      "rank": 43,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 136558,
@@ -29331,14 +29355,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 121362,
-      "num": 121362,
-      "word": "溺亡大熊猫表面无明显人为伤",
-      "onboard_time": 1712902878,
-      "rank": 45,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 121334,
       "num": 121334,
       "word": "与凤行今日收官",
@@ -30035,6 +30051,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 112129,
+      "num": 112129,
+      "word": "张碧晨开声听取哈声一片",
+      "onboard_time": 1712901319,
+      "rank": 47,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 111997,
       "num": 111997,
       "word": "杨千嬅 飞女自观众席降落",
@@ -30699,20 +30723,20 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 97694,
+      "num": 320972,
+      "word": "卡琳娜Joker杀疯了",
+      "onboard_time": 1712900418,
+      "rank": 15,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 97557,
       "num": 97557,
       "word": "冯绍峰警队体验生活碰到真命案",
       "onboard_time": 1711989138,
       "rank": 33,
       "category": "电影"
-    },
-    {
-      "raw_hot": 97543,
-      "num": 285708,
-      "word": "卡琳娜Joker杀疯了",
-      "onboard_time": 1712900418,
-      "rank": 15,
-      "category": "动漫"
     },
     {
       "raw_hot": 97201,
@@ -31025,6 +31049,14 @@
       "onboard_time": 1712680036,
       "rank": 42,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 86994,
+      "num": 401270,
+      "word": "第一次见用外卖备注追星的",
+      "onboard_time": 1712901857,
+      "rank": 21,
+      "category": "幽默,艺人"
     },
     {
       "raw_hot": 86882,
@@ -31561,14 +31593,6 @@
       "onboard_time": 1712004850,
       "rank": 32,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 68497,
-      "num": 245163,
-      "word": "第一次见用外卖备注追星的",
-      "onboard_time": 1712901857,
-      "rank": 21,
-      "category": "幽默,艺人"
     },
     {
       "raw_hot": 68416,
