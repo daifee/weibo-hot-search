@@ -1,0 +1,410 @@
+{
+  "runTime": 1712938901785,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 907279,
+        "num": 907279,
+        "word": "伊朗",
+        "onboard_time": 1712932519,
+        "rank": 0,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 551912,
+        "num": 551912,
+        "word": "张予曦穿了贾静雯去年浪姐的衣服",
+        "onboard_time": 1712932998,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 105145,
+        "num": 483499,
+        "word": "中国航天员拍的地球家园好震撼",
+        "onboard_time": 1712929698,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 984604,
+        "num": 478001,
+        "word": "杭州确诊一例狂犬病死亡几年前被狗咬",
+        "onboard_time": 1712929938,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 429686,
+        "num": 429686,
+        "word": "机智的医生生活第三季",
+        "onboard_time": 1712933719,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 812354,
+        "num": 426186,
+        "word": "网红猫一杯涉事公司监事回应处罚",
+        "onboard_time": 1712929578,
+        "rank": 5,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 411411,
+        "num": 411411,
+        "word": "百万网红杨立新遇害",
+        "onboard_time": 1712910078,
+        "rank": 6,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 312701,
+        "num": 312701,
+        "word": "郭文韬跳昆卡",
+        "onboard_time": 1712932459,
+        "rank": 7,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 284537,
+        "num": 284537,
+        "word": "美情报显示伊朗将在24至48小时内动手",
+        "onboard_time": 1712932220,
+        "rank": 8,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 91534,
+        "num": 281396,
+        "word": "小学生多看两眼帮铲除339株罂粟",
+        "onboard_time": 1712912419,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 606479,
+        "num": 280618,
+        "word": "有没有性生活都一定要做4项妇科检查",
+        "onboard_time": 1712907858,
+        "rank": 10,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 305723,
+        "num": 280197,
+        "word": "我从211退学考上了另一所211",
+        "onboard_time": 1712926519,
+        "rank": 11,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 279454,
+        "num": 279454,
+        "word": "林更新坦言二搭赵丽颖有压力",
+        "onboard_time": 1712923519,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 253878,
+        "num": 253878,
+        "word": "周大福足金戒指不到2个月出现褪色",
+        "onboard_time": 1712906478,
+        "rank": 13,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 240349,
+        "num": 240349,
+        "word": "秦朗丢寒假作业系摆拍博主被处罚",
+        "onboard_time": 1712919678,
+        "rank": 14,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 223992,
+        "num": 223992,
+        "word": "山西省考 出不出",
+        "onboard_time": 1712938037,
+        "rank": 15,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 637220,
+        "num": 222143,
+        "word": "黄子韬徐艺洋被说像兄妹",
+        "onboard_time": 1712932579,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 230278,
+        "num": 213523,
+        "word": "刘亦菲林更新玫瑰的故事剧照",
+        "onboard_time": 1712930899,
+        "rank": 17,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 201855,
+        "num": 201855,
+        "word": "福宝和爷爷乘坐飞机的过程",
+        "onboard_time": 1712925318,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 174866,
+        "num": 174866,
+        "word": "承欢记收视率创新高",
+        "onboard_time": 1712928799,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 746784,
+        "num": 173180,
+        "word": "网红猫一杯道歉",
+        "onboard_time": 1712919798,
+        "rank": 20,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 229459,
+        "num": 167464,
+        "word": "本周做什么都顺的星座",
+        "onboard_time": 1712930598,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 227699,
+        "num": 163191,
+        "word": "花花被和叶推下水",
+        "onboard_time": 1712932940,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 219203,
+        "num": 162824,
+        "word": "鹿晗黄子韬再合作",
+        "onboard_time": 1712910198,
+        "rank": 23,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 191612,
+        "num": 156485,
+        "word": "赵露思王安宇拥抱",
+        "onboard_time": 1712920698,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 154951,
+        "num": 154951,
+        "word": "被广东同事的午饭吓晕",
+        "onboard_time": 1712929578,
+        "rank": 25,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 150323,
+        "num": 150323,
+        "word": "李溪芮吊带银裙",
+        "onboard_time": 1712927658,
+        "rank": 26,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 128376,
+        "num": 150306,
+        "word": "乐言喊zdz姐夫",
+        "onboard_time": 1712917638,
+        "rank": 27,
+        "category": "电竞,艺人"
+      },
+      {
+        "raw_hot": 150305,
+        "num": 150305,
+        "word": "乘风2024官宣",
+        "onboard_time": 1712913739,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 126597,
+        "num": 138766,
+        "word": "员工晒董宇辉白发越来越多",
+        "onboard_time": 1712937857,
+        "rank": 29,
+        "category": "互联网,网红"
+      },
+      {
+        "raw_hot": 134158,
+        "num": 134158,
+        "word": "周扬青浪姐造型",
+        "onboard_time": 1712930360,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 132740,
+        "num": 132740,
+        "word": "朋友称网红杨立新遇害前吃了堕胎药",
+        "onboard_time": 1712923218,
+        "rank": 31,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 126597,
+        "num": 126597,
+        "word": "刘浩存年度影响力青年演员",
+        "onboard_time": 1712933419,
+        "rank": 32,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 120996,
+        "num": 120996,
+        "word": "王润泽靠墙蹲",
+        "onboard_time": 1712935400,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 112433,
+        "num": 112433,
+        "word": "陈泽 红娘",
+        "onboard_time": 1712932698,
+        "rank": 34,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 117166,
+        "num": 106654,
+        "word": "刘耀文感谢时代峰峻",
+        "onboard_time": 1712931857,
+        "rank": 35,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 113763,
+        "num": 106102,
+        "word": "爱豆通过官宣知道自己行程",
+        "onboard_time": 1712932158,
+        "rank": 36,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 100570,
+        "num": 100570,
+        "word": "云南昆明发生森林火灾",
+        "onboard_time": 1712933539,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 100283,
+        "num": 100283,
+        "word": "原神赛诺",
+        "onboard_time": 1712933839,
+        "rank": 38,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 90812,
+        "num": 100169,
+        "word": "专家称A股牛市正在孕育中",
+        "onboard_time": 1712927838,
+        "rank": 39,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 108017,
+        "num": 99233,
+        "word": "宋雨琦戴唇环",
+        "onboard_time": 1712930419,
+        "rank": 40,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 106259,
+        "num": 98815,
+        "word": "刘雅瑟的腰臀比",
+        "onboard_time": 1712922377,
+        "rank": 41,
+        "category": "电影,时尚"
+      },
+      {
+        "raw_hot": 104228,
+        "num": 97731,
+        "word": "斩虎 巨婴",
+        "onboard_time": 1712931259,
+        "rank": 42,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 97637,
+        "num": 97637,
+        "word": "文韬生日会",
+        "onboard_time": 1712920278,
+        "rank": 43,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 93403,
+        "num": 97403,
+        "word": "五月天官宣演唱会",
+        "onboard_time": 1712916859,
+        "rank": 44,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 86862,
+        "num": 97121,
+        "word": "董宇辉回应现在讲解质量差",
+        "onboard_time": 1712922497,
+        "rank": 45,
+        "category": "互联网,网红"
+      },
+      {
+        "raw_hot": 85438,
+        "num": 96900,
+        "word": "人近三十朋友圈迎来大面积关闭潮",
+        "onboard_time": 1712914638,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 85272,
+        "num": 96584,
+        "word": "连花花都不认识你来看花花",
+        "onboard_time": 1712926637,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 61741,
+        "num": 96319,
+        "word": "发疯文学算是被大学生玩明白了",
+        "onboard_time": 1712938518,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 54987,
+        "num": 96038,
+        "word": "原神前瞻",
+        "onboard_time": 1712923579,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平同苏里南总统单多吉会谈#"
+    }
+  }
+}
