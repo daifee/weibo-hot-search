@@ -1,6 +1,6 @@
 {
   "startTime": 1712938901785,
-  "endTime": 1712954055269,
+  "endTime": 1712956536294,
   "band_list": [
     {
       "raw_hot": 984604,
@@ -475,6 +475,14 @@
       "category": "剧集,综艺"
     },
     {
+      "raw_hot": 46763,
+      "num": 31319,
+      "word": "外星人绑架案出现新证人",
+      "onboard_time": 1712953151,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 39730,
       "num": 39730,
       "word": "工藤新一 你的斗来了",
@@ -523,20 +531,28 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 23557,
-      "num": 23557,
-      "word": "外星人绑架案出现新证人",
-      "onboard_time": 1712953151,
-      "rank": 23,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 18313,
-      "num": 18313,
+      "raw_hot": 23830,
+      "num": 23830,
       "word": "赵丽颖南京工作室注销",
       "onboard_time": 1712953991,
       "rank": 34,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 22892,
+      "num": 22535,
+      "word": "31岁的张彬彬现在转型是对的吗",
+      "onboard_time": 1712955131,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 17566,
+      "num": 17566,
+      "word": "男子在电梯实施家暴被保安制服",
+      "onboard_time": 1712953091,
+      "rank": 33,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 12521,
