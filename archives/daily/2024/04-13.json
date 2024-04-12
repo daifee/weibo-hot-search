@@ -1,6 +1,6 @@
 {
   "startTime": 1712938901785,
-  "endTime": 1712943325482,
+  "endTime": 1712945920831,
   "band_list": [
     {
       "raw_hot": 984604,
@@ -235,6 +235,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 165976,
+      "num": 119297,
+      "word": "男子囤4600多克金条坚决不卖",
+      "onboard_time": 1712941815,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 154951,
       "num": 154951,
       "word": "被广东同事的午饭吓晕",
@@ -297,14 +305,6 @@
       "onboard_time": 1712935400,
       "rank": 33,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 119297,
-      "num": 119297,
-      "word": "男子囤4600多克金条坚决不卖",
-      "onboard_time": 1712941815,
-      "rank": 45,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 117166,
@@ -435,8 +435,8 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 60215,
-      "num": 60215,
+      "raw_hot": 70112,
+      "num": 70112,
       "word": "巴黎奥运会",
       "onboard_time": 1712942474,
       "rank": 36,
@@ -457,6 +457,14 @@
       "onboard_time": 1712943073,
       "rank": 41,
       "category": "剧集,综艺"
+    },
+    {
+      "raw_hot": 36379,
+      "num": 38861,
+      "word": "手工耿 自制左轮锂电钻",
+      "onboard_time": 1712945353,
+      "rank": 40,
+      "category": "网红"
     }
   ],
   "hotgov_list": [

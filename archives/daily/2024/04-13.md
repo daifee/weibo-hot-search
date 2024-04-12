@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/04/13 00:21:41 ~ 2024/04/13 01:35:25
+本榜单时间：2024/04/13 00:21:41 ~ 2024/04/13 02:18:40
 </p>
 </blockquote>
 <p>
@@ -189,6 +189,12 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E5%9B%A44600%E5%A4%9A%E5%85%8B%E9%87%91%E6%9D%A1%E5%9D%9A%E5%86%B3%E4%B8%8D%E5%8D%96%23" target="weibo">
+男子囤4600多克金条坚决不卖（热度：165976）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%A2%AB%E5%B9%BF%E4%B8%9C%E5%90%8C%E4%BA%8B%E7%9A%84%E5%8D%88%E9%A5%AD%E5%90%93%E6%99%95%23" target="weibo">
 被广东同事的午饭吓晕（热度：154951）
 </a>
@@ -233,12 +239,6 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%B6%A6%E6%B3%BD%E9%9D%A0%E5%A2%99%E8%B9%B2%23" target="weibo">
 王润泽靠墙蹲（热度：120996）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E5%9B%A44600%E5%A4%9A%E5%85%8B%E9%87%91%E6%9D%A1%E5%9D%9A%E5%86%B3%E4%B8%8D%E5%8D%96%23" target="weibo">
-男子囤4600多克金条坚决不卖（热度：119297）
 </a>
 </li>
 
@@ -340,7 +340,7 @@
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B7%B4%E9%BB%8E%E5%A5%A5%E8%BF%90%E4%BC%9A%23" target="weibo">
-巴黎奥运会（热度：60215）
+巴黎奥运会（热度：70112）
 </a>
 </li>
 
@@ -353,6 +353,12 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BA%8E%E5%92%8C%E4%BC%9F%E6%9C%89%E8%BF%99%E4%B9%88%E7%A0%B4%E7%A2%8E%E7%9A%84%E5%93%AD%E6%88%8F%E8%BF%9B%E5%85%A5%E5%86%85%E5%A8%B1%23" target="weibo">
 于和伟有这么破碎的哭戏进入内娱（热度：49613）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%89%8B%E5%B7%A5%E8%80%BF%20%E8%87%AA%E5%88%B6%E5%B7%A6%E8%BD%AE%E9%94%82%E7%94%B5%E9%92%BB%23" target="weibo">
+手工耿 自制左轮锂电钻（热度：36379）
 </a>
 </li>
 
