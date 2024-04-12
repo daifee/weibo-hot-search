@@ -1,6 +1,6 @@
 {
   "startTime": 1712420539476,
-  "endTime": 1712911012725,
+  "endTime": 1712913522677,
   "band_list": [
     {
       "raw_hot": 9583581,
@@ -137,6 +137,14 @@
       "onboard_time": 1712817918,
       "rank": 1,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 2221885,
+      "num": 1026388,
+      "word": "百万网红杨立新遇害",
+      "onboard_time": 1712910078,
+      "rank": 47,
+      "category": "网红"
     },
     {
       "raw_hot": 2184126,
@@ -1195,14 +1203,6 @@
       "category": "科学科普"
     },
     {
-      "raw_hot": 1026388,
-      "num": 1026388,
-      "word": "百万网红杨立新遇害",
-      "onboard_time": 1712910078,
-      "rank": 47,
-      "category": "网红"
-    },
-    {
       "raw_hot": 1025133,
       "num": 1025133,
       "word": "女子称买5块雪花酥681元退款被拒",
@@ -1345,6 +1345,14 @@
       "onboard_time": 1712731699,
       "rank": 1,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 950256,
+      "num": 950256,
+      "word": "鹿晗黄子韬再合作",
+      "onboard_time": 1712910198,
+      "rank": 7,
+      "category": "音乐"
     },
     {
       "raw_hot": 939826,
@@ -1585,6 +1593,14 @@
       "onboard_time": 1712805020,
       "rank": 25,
       "category": "教育"
+    },
+    {
+      "raw_hot": 869834,
+      "num": 869834,
+      "word": "coser以为对方是cos记者",
+      "onboard_time": 1712907798,
+      "rank": 14,
+      "category": "动漫"
     },
     {
       "raw_hot": 867163,
@@ -1875,6 +1891,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 787822,
+      "num": 787822,
+      "word": "死亡野生大熊猫为成年雌性",
+      "onboard_time": 1712912719,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 785956,
       "num": 785956,
       "word": "网友称被陈飞宇索赔20万",
@@ -2145,6 +2169,14 @@
       "onboard_time": 1712479399,
       "rank": 14,
       "category": "情感"
+    },
+    {
+      "raw_hot": 741573,
+      "num": 741573,
+      "word": "欺负同学被集体劝退的孩子已在家上网课",
+      "onboard_time": 1712910379,
+      "rank": 17,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 735058,
@@ -2667,14 +2699,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 641995,
-      "num": 641995,
-      "word": "coser以为对方是cos记者",
-      "onboard_time": 1712907798,
-      "rank": 14,
-      "category": "动漫"
-    },
-    {
       "raw_hot": 640961,
       "num": 687494,
       "word": "福宝大口吃胡萝卜声音嘎嘣脆",
@@ -3089,14 +3113,6 @@
       "onboard_time": 1712652320,
       "rank": 8,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 588960,
-      "num": 588960,
-      "word": "鹿晗黄子韬再合作",
-      "onboard_time": 1712910198,
-      "rank": 7,
-      "category": "音乐"
     },
     {
       "raw_hot": 588605,
@@ -3929,6 +3945,14 @@
       "onboard_time": 1712448799,
       "rank": 12,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 485671,
+      "num": 485671,
+      "word": "中方绝不会任凭菲方无理取闹",
+      "onboard_time": 1712910738,
+      "rank": 40,
+      "category": "国内时政"
     },
     {
       "raw_hot": 484528,
@@ -4939,6 +4963,14 @@
       "category": "财经,汽车"
     },
     {
+      "raw_hot": 400990,
+      "num": 400990,
+      "word": "校方通报大学教授校内遇交通事故离世",
+      "onboard_time": 1712911100,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 400344,
       "num": 400344,
       "word": "刘忻张予曦牵手过马路",
@@ -5059,6 +5091,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 387716,
+      "num": 387716,
+      "word": "外交部回应日菲美声明",
+      "onboard_time": 1712911758,
+      "rank": 15,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 387263,
       "num": 387263,
       "word": "承欢记",
@@ -5073,6 +5113,14 @@
       "onboard_time": 1712628378,
       "rank": 22,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 386597,
+      "num": 386597,
+      "word": "黑羽盗一是否构成遗弃罪",
+      "onboard_time": 1712911519,
+      "rank": 16,
+      "category": "电影,动漫"
     },
     {
       "raw_hot": 386060,
@@ -5899,12 +5947,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 333135,
+      "num": 333135,
+      "word": "蒋勤勤谈易烊千玺",
+      "onboard_time": 1712912478,
+      "rank": 19,
+      "category": "电影"
+    },
+    {
       "raw_hot": 332937,
       "num": 332937,
       "word": "赵丽颖紫纱古装",
       "onboard_time": 1712499801,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 332241,
+      "num": 332241,
+      "word": "网红杨立新及母亲遭男友杀害",
+      "onboard_time": 1712912659,
+      "rank": 20,
+      "category": "网红"
     },
     {
       "raw_hot": 331999,
@@ -6987,14 +7051,6 @@
       "category": "运动健身"
     },
     {
-      "raw_hot": 279769,
-      "num": 279769,
-      "word": "欺负同学被集体劝退的孩子已在家上网课",
-      "onboard_time": 1712910379,
-      "rank": 17,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 279750,
       "num": 262160,
       "word": "少吃和运动哪个更容易瘦",
@@ -8067,6 +8123,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 243564,
+      "num": 243564,
+      "word": "哪种血型身体好",
+      "onboard_time": 1712907858,
+      "rank": 24,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 243506,
       "num": 243506,
       "word": "韩庚卢靖姗为妈妈庆生",
@@ -8569,14 +8633,6 @@
       "onboard_time": 1712635339,
       "rank": 41,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 229045,
-      "num": 229045,
-      "word": "哪种血型身体好",
-      "onboard_time": 1712907858,
-      "rank": 24,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 228855,
@@ -9867,6 +9923,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 203688,
+      "num": 203688,
+      "word": "许凯尝试张元英转圈",
+      "onboard_time": 1712910858,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 203453,
       "num": 203453,
       "word": "一个是大圣一个是吗喽",
@@ -10097,6 +10161,14 @@
       "onboard_time": 1712408719,
       "rank": 30,
       "category": "演出"
+    },
+    {
+      "raw_hot": 201252,
+      "num": 201252,
+      "word": "p5x",
+      "onboard_time": 1712912839,
+      "rank": 28,
+      "category": "游戏"
     },
     {
       "raw_hot": 201240,
@@ -10561,6 +10633,14 @@
       "onboard_time": 1712495599,
       "rank": 42,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 194337,
+      "num": 194337,
+      "word": "湖北省考排名",
+      "onboard_time": 1712912119,
+      "rank": 32,
+      "category": "教育"
     },
     {
       "raw_hot": 194025,
@@ -11113,6 +11193,14 @@
       "onboard_time": 1712796620,
       "rank": 31,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 187146,
+      "num": 187146,
+      "word": "黑羽盗一 嫡长子",
+      "onboard_time": 1712911878,
+      "rank": 33,
+      "category": "电影,动漫"
     },
     {
       "raw_hot": 186975,
@@ -13003,14 +13091,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 154608,
-      "num": 154608,
-      "word": "中方绝不会任凭菲方无理取闹",
-      "onboard_time": 1712910738,
-      "rank": 40,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 154524,
       "num": 154524,
       "word": "血压高多吃两种水果能延寿",
@@ -13779,6 +13859,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 142582,
+      "num": 142582,
+      "word": "文咏珊钻石抹胸裙",
+      "onboard_time": 1712911157,
+      "rank": 41,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 142581,
       "num": 142581,
       "word": "老师说他只是吃到了时代的红利",
@@ -13985,6 +14073,14 @@
       "onboard_time": 1712535259,
       "rank": 44,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 139482,
+      "num": 139482,
+      "word": "小小周五终于拿下",
+      "onboard_time": 1712910798,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 139324,
@@ -14555,6 +14651,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 131330,
+      "num": 486096,
+      "word": "小学生多看两眼帮铲除339株罂粟",
+      "onboard_time": 1712912419,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 131309,
       "num": 401270,
       "word": "第一次见用外卖备注追星的",
@@ -14659,14 +14763,6 @@
       "category": "运动健身"
     },
     {
-      "raw_hot": 129753,
-      "num": 129753,
-      "word": "许凯尝试张元英转圈",
-      "onboard_time": 1712910858,
-      "rank": 46,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 129212,
       "num": 129212,
       "word": "应采儿说Jasper是脏儿子",
@@ -14745,14 +14841,6 @@
       "onboard_time": 1712825539,
       "rank": 43,
       "category": "动漫,作品衍生"
-    },
-    {
-      "raw_hot": 128172,
-      "num": 128172,
-      "word": "小小周五终于拿下",
-      "onboard_time": 1712910798,
-      "rank": 48,
-      "category": "幽默"
     },
     {
       "raw_hot": 127953,
@@ -15707,12 +15795,28 @@
       "category": "财经"
     },
     {
+      "raw_hot": 100389,
+      "num": 120413,
+      "word": "薛之谦官宣呼和浩特站",
+      "onboard_time": 1712911037,
+      "rank": 48,
+      "category": "演出"
+    },
+    {
       "raw_hot": 100104,
       "num": 209246,
       "word": "有种007的工作叫育儿",
       "onboard_time": 1712905338,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 99790,
+      "num": 117289,
+      "word": "肖战饭制版日常vlog",
+      "onboard_time": 1712913498,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 99757,
@@ -15865,6 +15969,14 @@
       "onboard_time": 1712695690,
       "rank": 26,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 91774,
+      "num": 194571,
+      "word": "宝骏把高阶智驾从50万打到10万",
+      "onboard_time": 1712913018,
+      "rank": 31,
+      "category": "汽车"
     },
     {
       "raw_hot": 91665,
@@ -16375,6 +16487,14 @@
       "num": 1435354,
       "word": "中国新兴文旅迎春勃发",
       "onboard_time": 1712547680,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 66146,
+      "num": 886468,
+      "word": "诗经里的绝美中国色",
+      "onboard_time": 1712912298,
       "rank": 2,
       "category": "社会新闻"
     },
