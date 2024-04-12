@@ -1,6 +1,6 @@
 {
   "startTime": 1712938901785,
-  "endTime": 1712939707052,
+  "endTime": 1712942246036,
   "band_list": [
     {
       "raw_hot": 984604,
@@ -43,6 +43,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 634967,
+      "num": 634967,
+      "word": "斩虎 巨婴",
+      "onboard_time": 1712931259,
+      "rank": 42,
+      "category": "网红"
+    },
+    {
       "raw_hot": 606479,
       "num": 280618,
       "word": "有没有性生活都一定要做4项妇科检查",
@@ -75,6 +83,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 382927,
+      "num": 431012,
+      "word": "秦朗丢寒假作业系摆拍博主被处罚",
+      "onboard_time": 1712919678,
+      "rank": 14,
+      "category": "社会新闻,网红"
+    },
+    {
       "raw_hot": 351358,
       "num": 351358,
       "word": "山西省考 出不出",
@@ -99,6 +115,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 297405,
+      "num": 202784,
+      "word": "员工晒董宇辉白发越来越多",
+      "onboard_time": 1712937857,
+      "rank": 29,
+      "category": "互联网,网红"
+    },
+    {
       "raw_hot": 284537,
       "num": 284537,
       "word": "美情报显示伊朗将在24至48小时内动手",
@@ -115,20 +139,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 275206,
+      "num": 275206,
+      "word": "陈泽 红娘",
+      "onboard_time": 1712932698,
+      "rank": 34,
+      "category": "游戏,网红"
+    },
+    {
       "raw_hot": 253878,
       "num": 253878,
       "word": "周大福足金戒指不到2个月出现褪色",
       "onboard_time": 1712906478,
       "rank": 13,
       "category": "财经"
-    },
-    {
-      "raw_hot": 240349,
-      "num": 431012,
-      "word": "秦朗丢寒假作业系摆拍博主被处罚",
-      "onboard_time": 1712919678,
-      "rank": 14,
-      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 230278,
@@ -155,20 +179,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 226560,
+      "num": 191381,
+      "word": "杨立新遇害21天前刚收嫌疑人为徒",
+      "onboard_time": 1712940855,
+      "rank": 13,
+      "category": "网红"
+    },
+    {
       "raw_hot": 219203,
       "num": 189790,
       "word": "鹿晗黄子韬再合作",
       "onboard_time": 1712910198,
       "rank": 23,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 202784,
-      "num": 202784,
-      "word": "员工晒董宇辉白发越来越多",
-      "onboard_time": 1712937857,
-      "rank": 29,
-      "category": "互联网,网红"
     },
     {
       "raw_hot": 201855,
@@ -185,6 +209,14 @@
       "onboard_time": 1712920698,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 190488,
+      "num": 190488,
+      "word": "封神剧组又重聚了",
+      "onboard_time": 1712940975,
+      "rank": 14,
+      "category": "电影"
     },
     {
       "raw_hot": 174866,
@@ -275,14 +307,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 112433,
-      "num": 112433,
-      "word": "陈泽 红娘",
-      "onboard_time": 1712932698,
-      "rank": 34,
-      "category": "游戏,网红"
-    },
-    {
       "raw_hot": 108017,
       "num": 99233,
       "word": "宋雨琦戴唇环",
@@ -305,14 +329,6 @@
       "onboard_time": 1712929698,
       "rank": 2,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 104228,
-      "num": 97731,
-      "word": "斩虎 巨婴",
-      "onboard_time": 1712931259,
-      "rank": 42,
-      "category": "网红"
     },
     {
       "raw_hot": 100570,
@@ -345,6 +361,14 @@
       "onboard_time": 1712916859,
       "rank": 44,
       "category": "演出"
+    },
+    {
+      "raw_hot": 92979,
+      "num": 92979,
+      "word": "周也做猪鼻子",
+      "onboard_time": 1712941576,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 91534,
@@ -387,7 +411,7 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 61741,
+      "raw_hot": 73671,
       "num": 96319,
       "word": "发疯文学算是被大学生玩明白了",
       "onboard_time": 1712938518,
@@ -401,6 +425,14 @@
       "onboard_time": 1712923579,
       "rank": 49,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 47526,
+      "num": 60091,
+      "word": "男子囤4600多克金条坚决不卖",
+      "onboard_time": 1712941815,
+      "rank": 45,
+      "category": "社会新闻"
     }
   ],
   "hotgov_list": [

@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/04/01 00:20:44 ~ 2024/04/13 00:35:07
+本榜单时间：2024/04/01 00:20:44 ~ 2024/04/13 01:17:26
 </p>
 </blockquote>
 <p>
@@ -4359,6 +4359,12 @@ HYBE是不是疯了（热度：680667）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%96%A9%E8%99%8E%20%E5%B7%A8%E5%A9%B4%23" target="weibo">
+斩虎 巨婴（热度：634967）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%AF%BB%E7%A0%94%E4%BC%9A%E6%83%A9%E7%BD%9A%E6%AF%8F%E4%B8%80%E4%B8%AA%E8%80%83%E4%B8%8A%E7%A0%94%E7%9A%84%E6%B7%B7%E5%AD%90%23" target="weibo">
 读研会惩罚每一个考上研的混子（热度：634174）
 </a>
@@ -6005,12 +6011,6 @@ Doinb回归（热度：515208）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E8%8A%B1%E6%A4%92%E5%91%9B%E5%96%89%E6%8E%A8%E5%BC%80%E5%AE%B6%E4%BA%BA%E6%B5%B7%E5%A7%86%E7%AB%8B%E5%85%8B%E6%B3%95%E8%87%AA%E6%95%91%23" target="weibo">
 女子花椒呛喉推开家人海姆立克法自救（热度：502499）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%83%A1%E6%AD%8C%E5%A4%B4%E5%8F%91%E7%99%BD%E4%BA%86%23" target="weibo">
-胡歌头发白了（热度：502275）
 </a>
 </li>
 
