@@ -1,6 +1,6 @@
 {
   "startTime": 1711902044401,
-  "endTime": 1712921662913,
+  "endTime": 1712925102414,
   "band_list": [
     {
       "raw_hot": 16874674,
@@ -3963,6 +3963,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 789715,
+      "num": 789715,
+      "word": "朋友称网红杨立新遇害前吃了堕胎药",
+      "onboard_time": 1712923218,
+      "rank": 4,
+      "category": "网红"
+    },
+    {
       "raw_hot": 789455,
       "num": 789455,
       "word": "某幻不直播",
@@ -4121,6 +4129,14 @@
       "onboard_time": 1712108660,
       "rank": 8,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 772947,
+      "num": 772947,
+      "word": "林更新坦言二搭赵丽颖有压力",
+      "onboard_time": 1712923519,
+      "rank": 5,
+      "category": "剧集"
     },
     {
       "raw_hot": 771307,
@@ -7371,6 +7387,14 @@
       "category": "科学科普,健康医疗"
     },
     {
+      "raw_hot": 527675,
+      "num": 527675,
+      "word": "董宇辉回应现在讲解质量差",
+      "onboard_time": 1712922497,
+      "rank": 7,
+      "category": "互联网,网红"
+    },
+    {
       "raw_hot": 527570,
       "num": 527570,
       "word": "CP变骨科",
@@ -7617,6 +7641,14 @@
       "onboard_time": 1712740399,
       "rank": 4,
       "category": "教育"
+    },
+    {
+      "raw_hot": 514304,
+      "num": 379396,
+      "word": "赵露思王安宇拥抱",
+      "onboard_time": 1712920698,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 514114,
@@ -8433,6 +8465,14 @@
       "onboard_time": 1712126901,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 474580,
+      "num": 376669,
+      "word": "刘雅瑟的腰臀比",
+      "onboard_time": 1712922377,
+      "rank": 13,
+      "category": "电影,时尚"
     },
     {
       "raw_hot": 474577,
@@ -9987,6 +10027,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 413284,
+      "num": 381359,
+      "word": "恋爱兄妹",
+      "onboard_time": 1712289436,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 413235,
       "num": 413235,
       "word": "杨紫赵露思ins更新照",
@@ -10707,14 +10755,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 381359,
-      "num": 381359,
-      "word": "恋爱兄妹",
-      "onboard_time": 1712289436,
-      "rank": 13,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 381337,
       "num": 381337,
       "word": "15岁女孩被围殴涉案11人已到案",
@@ -11113,6 +11153,14 @@
       "onboard_time": 1712802857,
       "rank": 33,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 367143,
+      "num": 367143,
+      "word": "胡锡进总亏损超6万元",
+      "onboard_time": 1712920877,
+      "rank": 32,
+      "category": "财经"
     },
     {
       "raw_hot": 367013,
@@ -11961,14 +12009,6 @@
       "onboard_time": 1712376678,
       "rank": 27,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 340404,
-      "num": 340404,
-      "word": "赵露思王安宇拥抱",
-      "onboard_time": 1712920698,
-      "rank": 16,
-      "category": "艺人"
     },
     {
       "raw_hot": 340210,
@@ -13051,6 +13091,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 308778,
+      "num": 308778,
+      "word": "原神前瞻",
+      "onboard_time": 1712923579,
+      "rank": 18,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 308755,
       "num": 308755,
       "word": "全宿舍都考上研了就我没考上",
@@ -14041,6 +14089,14 @@
       "onboard_time": 1712840057,
       "rank": 18,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 286202,
+      "num": 286202,
+      "word": "陶喆北京抢票",
+      "onboard_time": 1712924478,
+      "rank": 22,
+      "category": "演出"
     },
     {
       "raw_hot": 286156,
@@ -15561,6 +15617,14 @@
       "onboard_time": 1712908459,
       "rank": 19,
       "category": "体育"
+    },
+    {
+      "raw_hot": 256000,
+      "num": 193532,
+      "word": "警方回应网红杨立新及母亲家中遇害",
+      "onboard_time": 1712923398,
+      "rank": 26,
+      "category": "网红"
     },
     {
       "raw_hot": 255890,
@@ -19339,6 +19403,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 206657,
+      "num": 180050,
+      "word": "林更新说不强求与凤行能带来更多工作",
+      "onboard_time": 1712924837,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 206625,
       "num": 206625,
       "word": "快船打爆太阳",
@@ -20547,6 +20619,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 198662,
+      "num": 198662,
+      "word": "为什么旅行时没有美丽羞耻",
+      "onboard_time": 1712921899,
+      "rank": 23,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 198648,
       "num": 198648,
       "word": "Rookie岩雀",
@@ -21123,6 +21203,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 194430,
+      "num": 194430,
+      "word": "王楚钦冲击首个世界单打冠军",
+      "onboard_time": 1712923037,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 194387,
       "num": 194387,
       "word": "无畏说总不能被打倒",
@@ -21425,6 +21513,14 @@
       "onboard_time": 1711937779,
       "rank": 31,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 192428,
+      "num": 192428,
+      "word": "我在大山里捡了一个女儿",
+      "onboard_time": 1712923457,
+      "rank": 28,
+      "category": "情感"
     },
     {
       "raw_hot": 192374,
@@ -23291,6 +23387,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 179540,
+      "num": 179540,
+      "word": "让眼睛越来越好的9个小习惯",
+      "onboard_time": 1712924778,
+      "rank": 32,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 179373,
       "num": 179373,
       "word": "腾势N7",
@@ -24043,14 +24147,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 172972,
-      "num": 172972,
-      "word": "胡锡进总亏损超6万元",
-      "onboard_time": 1712920877,
-      "rank": 32,
-      "category": "财经"
-    },
-    {
       "raw_hot": 172951,
       "num": 172951,
       "word": "行止很行",
@@ -24305,6 +24401,14 @@
       "onboard_time": 1712468180,
       "rank": 35,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 170635,
+      "num": 154398,
+      "word": "全员加速中",
+      "onboard_time": 1712320878,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 170481,
@@ -24993,6 +25097,14 @@
       "onboard_time": 1712556200,
       "rank": 39,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 163988,
+      "num": 154337,
+      "word": "浪5舞台不是巨幕是天幕",
+      "onboard_time": 1712922917,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 163924,
@@ -26907,6 +27019,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 149655,
+      "num": 149655,
+      "word": "严浩翔真的情绪稳定的神",
+      "onboard_time": 1712924598,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 149598,
       "num": 149598,
       "word": "摩托姐姐过年了",
@@ -27137,14 +27257,6 @@
       "onboard_time": 1712462841,
       "rank": 49,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 148027,
-      "num": 148027,
-      "word": "全员加速中",
-      "onboard_time": 1712320878,
-      "rank": 46,
-      "category": "综艺"
     },
     {
       "raw_hot": 147994,
@@ -28212,7 +28324,7 @@
     },
     {
       "raw_hot": 139123,
-      "num": 139123,
+      "num": 375004,
       "word": "原神4.6版本直播",
       "onboard_time": 1712728399,
       "rank": 44,
@@ -28993,6 +29105,14 @@
       "onboard_time": 1712359754,
       "rank": 41,
       "category": "情感"
+    },
+    {
+      "raw_hot": 133916,
+      "num": 133916,
+      "word": "宝宝你是一个被嗦过的芒果核",
+      "onboard_time": 1712921298,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 133860,
@@ -31835,14 +31955,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 92984,
-      "num": 92984,
-      "word": "宝宝你是一个被嗦过的芒果核",
-      "onboard_time": 1712921298,
-      "rank": 48,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 92448,
       "num": 451074,
       "word": "那些莫名其妙的请假理由",
@@ -31977,6 +32089,14 @@
       "onboard_time": 1712424493,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 88642,
+      "num": 382395,
+      "word": "日内瓦表展他火了",
+      "onboard_time": 1712921178,
+      "rank": 34,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 88132,
@@ -32171,14 +32291,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 81262,
-      "num": 150796,
-      "word": "日内瓦表展他火了",
-      "onboard_time": 1712921178,
-      "rank": 34,
-      "category": "艺人,时尚"
-    },
-    {
       "raw_hot": 81182,
       "num": 314935,
       "word": "你开车导航还用手机支架吗",
@@ -32233,6 +32345,14 @@
       "onboard_time": 1712096953,
       "rank": 49,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 78956,
+      "num": 122418,
+      "word": "留守女童困在软色情短视频里",
+      "onboard_time": 1712925078,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 78405,
@@ -32865,6 +32985,14 @@
       "onboard_time": 1712007490,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 57284,
+      "num": 154514,
+      "word": "想去涩谷当怪盗",
+      "onboard_time": 1712923997,
+      "rank": 36,
+      "category": "游戏"
     },
     {
       "raw_hot": 57184,

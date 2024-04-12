@@ -1,6 +1,6 @@
 {
   "startTime": 1712852435435,
-  "endTime": 1712921662913,
+  "endTime": 1712925102414,
   "band_list": [
     {
       "raw_hot": 3760420,
@@ -283,6 +283,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 789715,
+      "num": 789715,
+      "word": "朋友称网红杨立新遇害前吃了堕胎药",
+      "onboard_time": 1712923218,
+      "rank": 4,
+      "category": "网红"
+    },
+    {
       "raw_hot": 782742,
       "num": 782742,
       "word": "金玟庭接受气胸手术",
@@ -297,6 +305,14 @@
       "onboard_time": 1712847920,
       "rank": 1,
       "category": "教育"
+    },
+    {
+      "raw_hot": 772947,
+      "num": 772947,
+      "word": "林更新坦言二搭赵丽颖有压力",
+      "onboard_time": 1712923519,
+      "rank": 5,
+      "category": "剧集"
     },
     {
       "raw_hot": 756187,
@@ -523,12 +539,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 527675,
+      "num": 527675,
+      "word": "董宇辉回应现在讲解质量差",
+      "onboard_time": 1712922497,
+      "rank": 7,
+      "category": "互联网,网红"
+    },
+    {
       "raw_hot": 527570,
       "num": 527570,
       "word": "CP变骨科",
       "onboard_time": 1712894720,
       "rank": 18,
       "category": "电影,动漫"
+    },
+    {
+      "raw_hot": 514304,
+      "num": 379396,
+      "word": "赵露思王安宇拥抱",
+      "onboard_time": 1712920698,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 507955,
@@ -611,6 +643,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 474580,
+      "num": 376669,
+      "word": "刘雅瑟的腰臀比",
+      "onboard_time": 1712922377,
+      "rank": 13,
+      "category": "电影,时尚"
+    },
+    {
       "raw_hot": 446290,
       "num": 446290,
       "word": "网红杨立新及母亲遭男友杀害",
@@ -665,6 +705,14 @@
       "onboard_time": 1712885540,
       "rank": 47,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 413284,
+      "num": 370423,
+      "word": "恋爱兄妹",
+      "onboard_time": 1712921657,
+      "rank": 15,
+      "category": "综艺"
     },
     {
       "raw_hot": 408618,
@@ -763,6 +811,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 367143,
+      "num": 367143,
+      "word": "胡锡进总亏损超6万元",
+      "onboard_time": 1712920877,
+      "rank": 32,
+      "category": "财经"
+    },
+    {
       "raw_hot": 356646,
       "num": 278627,
       "word": "淄博烧烤赵大爷被叫去开会了",
@@ -817,14 +873,6 @@
       "onboard_time": 1712841679,
       "rank": 11,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 340404,
-      "num": 340404,
-      "word": "赵露思王安宇拥抱",
-      "onboard_time": 1712920698,
-      "rank": 16,
-      "category": "艺人"
     },
     {
       "raw_hot": 339683,
@@ -923,6 +971,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 308778,
+      "num": 308778,
+      "word": "原神前瞻",
+      "onboard_time": 1712923579,
+      "rank": 18,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 305973,
       "num": 305973,
       "word": "女神异闻录",
@@ -969,6 +1025,14 @@
       "onboard_time": 1712900358,
       "rank": 23,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 286202,
+      "num": 286202,
+      "word": "陶喆北京抢票",
+      "onboard_time": 1712924478,
+      "rank": 22,
+      "category": "演出"
     },
     {
       "raw_hot": 281068,
@@ -1169,6 +1233,14 @@
       "onboard_time": 1712908459,
       "rank": 19,
       "category": "体育"
+    },
+    {
+      "raw_hot": 256000,
+      "num": 193532,
+      "word": "警方回应网红杨立新及母亲家中遇害",
+      "onboard_time": 1712923398,
+      "rank": 26,
+      "category": "网红"
     },
     {
       "raw_hot": 255038,
@@ -1515,6 +1587,14 @@
       "category": "电影,动漫"
     },
     {
+      "raw_hot": 206657,
+      "num": 180050,
+      "word": "林更新说不强求与凤行能带来更多工作",
+      "onboard_time": 1712924837,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 204048,
       "num": 188007,
       "word": "易烊千玺演微电影",
@@ -1587,6 +1667,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 198662,
+      "num": 198662,
+      "word": "为什么旅行时没有美丽羞耻",
+      "onboard_time": 1712921899,
+      "rank": 23,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 198540,
       "num": 198540,
       "word": "时代少年团这是我的岛开播海报",
@@ -1635,6 +1723,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 194430,
+      "num": 194430,
+      "word": "王楚钦冲击首个世界单打冠军",
+      "onboard_time": 1712923037,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 194337,
       "num": 194337,
       "word": "湖北省考排名",
@@ -1673,6 +1769,14 @@
       "onboard_time": 1712921178,
       "rank": 28,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 192428,
+      "num": 192428,
+      "word": "我在大山里捡了一个女儿",
+      "onboard_time": 1712923457,
+      "rank": 28,
+      "category": "情感"
     },
     {
       "raw_hot": 192325,
@@ -1835,6 +1939,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 179540,
+      "num": 179540,
+      "word": "让眼睛越来越好的9个小习惯",
+      "onboard_time": 1712924778,
+      "rank": 32,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 178768,
       "num": 178768,
       "word": "大侦探就这样拍到一百季吧",
@@ -1915,14 +2027,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 172972,
-      "num": 172972,
-      "word": "胡锡进总亏损超6万元",
-      "onboard_time": 1712920877,
-      "rank": 32,
-      "category": "财经"
-    },
-    {
       "raw_hot": 172718,
       "num": 172718,
       "word": "熊祁",
@@ -1953,6 +2057,14 @@
       "onboard_time": 1712850200,
       "rank": 30,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 170635,
+      "num": 154398,
+      "word": "全员加速中",
+      "onboard_time": 1712924598,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 167329,
@@ -2001,6 +2113,14 @@
       "onboard_time": 1712888657,
       "rank": 38,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 163988,
+      "num": 154337,
+      "word": "浪5舞台不是巨幕是天幕",
+      "onboard_time": 1712922917,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 163346,
@@ -2155,6 +2275,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 149655,
+      "num": 149655,
+      "word": "严浩翔真的情绪稳定的神",
+      "onboard_time": 1712924598,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 149405,
       "num": 149405,
       "word": "大学教授讲爱情讲台塞满学生",
@@ -2297,6 +2425,14 @@
       "onboard_time": 1712921298,
       "rank": 40,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 133916,
+      "num": 133916,
+      "word": "宝宝你是一个被嗦过的芒果核",
+      "onboard_time": 1712921298,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 132092,
@@ -2475,6 +2611,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 104785,
+      "num": 375004,
+      "word": "原神4.6版本直播",
+      "onboard_time": 1712923218,
+      "rank": 14,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 104460,
       "num": 104460,
       "word": "Bin哥厉害",
@@ -2579,14 +2723,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 92984,
-      "num": 92984,
-      "word": "宝宝你是一个被嗦过的芒果核",
-      "onboard_time": 1712921298,
-      "rank": 48,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 92745,
       "num": 92745,
       "word": "Uzi谈RNG欠钱",
@@ -2627,6 +2763,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 88642,
+      "num": 382395,
+      "word": "日内瓦表展他火了",
+      "onboard_time": 1712921178,
+      "rank": 34,
+      "category": "艺人,时尚"
+    },
+    {
       "raw_hot": 85641,
       "num": 85641,
       "word": "承欢记",
@@ -2659,12 +2803,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 81262,
-      "num": 150796,
-      "word": "日内瓦表展他火了",
-      "onboard_time": 1712921178,
-      "rank": 34,
-      "category": "艺人,时尚"
+      "raw_hot": 78956,
+      "num": 122418,
+      "word": "留守女童困在软色情短视频里",
+      "onboard_time": 1712925078,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 78694,
@@ -2721,6 +2865,14 @@
       "onboard_time": 1712917398,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 57284,
+      "num": 154514,
+      "word": "想去涩谷当怪盗",
+      "onboard_time": 1712923997,
+      "rank": 36,
+      "category": "游戏"
     },
     {
       "raw_hot": 53540,
