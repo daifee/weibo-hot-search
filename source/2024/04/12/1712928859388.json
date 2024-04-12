@@ -1,0 +1,410 @@
+{
+  "runTime": 1712928859388,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 740469,
+        "num": 740469,
+        "word": "林更新坦言二搭赵丽颖有压力",
+        "onboard_time": 1712923519,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1350746,
+        "num": 738550,
+        "word": "留守女童困在软色情短视频里",
+        "onboard_time": 1712925078,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 56258,
+        "num": 729322,
+        "word": "诗经里的绝美中国色",
+        "onboard_time": 1712912298,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 880584,
+        "num": 729249,
+        "word": "百万网红杨立新遇害",
+        "onboard_time": 1712910078,
+        "rank": 3,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 727426,
+        "num": 727426,
+        "word": "福宝和爷爷乘坐飞机的过程",
+        "onboard_time": 1712925318,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 572024,
+        "num": 572024,
+        "word": "秦朗丢寒假作业系摆拍博主被处罚",
+        "onboard_time": 1712919678,
+        "rank": 5,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 509239,
+        "num": 509239,
+        "word": "乘风2024官宣",
+        "onboard_time": 1712913739,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 484591,
+        "num": 484591,
+        "word": "朋友称网红杨立新遇害前吃了堕胎药",
+        "onboard_time": 1712923218,
+        "rank": 7,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 370095,
+        "num": 370095,
+        "word": "连花花都不认识你来看花花",
+        "onboard_time": 1712926637,
+        "rank": 8,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 159032,
+        "num": 364090,
+        "word": "小学生多看两眼帮铲除339株罂粟",
+        "onboard_time": 1712912419,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2090444,
+        "num": 357371,
+        "word": "网红猫一杯道歉",
+        "onboard_time": 1712919798,
+        "rank": 10,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 702956,
+        "num": 351885,
+        "word": "我从211退学考上了另一所211",
+        "onboard_time": 1712926519,
+        "rank": 11,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 476929,
+        "num": 343084,
+        "word": "有没有性生活都一定要做4项妇科检查",
+        "onboard_time": 1712907858,
+        "rank": 12,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 342182,
+        "num": 342182,
+        "word": "李溪芮吊带银裙",
+        "onboard_time": 1712927658,
+        "rank": 13,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 328332,
+        "num": 328332,
+        "word": "周大福足金戒指不到2个月出现褪色",
+        "onboard_time": 1712906478,
+        "rank": 14,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 320344,
+        "num": 320344,
+        "word": "赵露思王安宇拥抱",
+        "onboard_time": 1712920698,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 306643,
+        "num": 306643,
+        "word": "原神阿蕾奇诺",
+        "onboard_time": 1712927838,
+        "rank": 16,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 305508,
+        "num": 305508,
+        "word": "鹿晗黄子韬再合作",
+        "onboard_time": 1712910198,
+        "rank": 17,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 303026,
+        "num": 303026,
+        "word": "王楚钦冲击首个世界单打冠军",
+        "onboard_time": 1712923037,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 42080,
+        "num": 286681,
+        "word": "米里米气的iCAR品牌发布会",
+        "onboard_time": 1712927537,
+        "rank": 19,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 680888,
+        "num": 286000,
+        "word": "董宇辉回应现在讲解质量差",
+        "onboard_time": 1712922497,
+        "rank": 20,
+        "category": "互联网,网红"
+      },
+      {
+        "raw_hot": 282099,
+        "num": 282099,
+        "word": "五月天官宣演唱会",
+        "onboard_time": 1712916859,
+        "rank": 21,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 258608,
+        "num": 258608,
+        "word": "恋爱兄妹",
+        "onboard_time": 1712921657,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 243854,
+        "num": 243854,
+        "word": "何洁自制短剧上浪姐",
+        "onboard_time": 1712926819,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 224678,
+        "num": 224678,
+        "word": "刘雅瑟的腰臀比",
+        "onboard_time": 1712922377,
+        "rank": 24,
+        "category": "电影,时尚"
+      },
+      {
+        "raw_hot": 220190,
+        "num": 220190,
+        "word": "林更新说不强求与凤行能带来更多工作",
+        "onboard_time": 1712924837,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 208665,
+        "num": 208665,
+        "word": "LGDNBW好菜",
+        "onboard_time": 1712928499,
+        "rank": 26,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 207747,
+        "num": 207747,
+        "word": "刘耀文回应电影脸",
+        "onboard_time": 1712928318,
+        "rank": 27,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 196053,
+        "num": 205915,
+        "word": "让眼睛越来越好的9个小习惯",
+        "onboard_time": 1712924778,
+        "rank": 28,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 205736,
+        "num": 205736,
+        "word": "周深现场版小美满",
+        "onboard_time": 1712928558,
+        "rank": 29,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 205383,
+        "num": 205383,
+        "word": "陈丽君红衣舞剑",
+        "onboard_time": 1712926039,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 186183,
+        "num": 186183,
+        "word": "林更新说自己过行止的生活会emo",
+        "onboard_time": 1712928439,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 175755,
+        "num": 175755,
+        "word": "范丞丞年度青年演员",
+        "onboard_time": 1712928618,
+        "rank": 32,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 171387,
+        "num": 171387,
+        "word": "iCAR",
+        "onboard_time": 1712928137,
+        "rank": 33,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 170447,
+        "num": 170447,
+        "word": "王俊凯春节胖15斤",
+        "onboard_time": 1712913797,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 167017,
+        "num": 167017,
+        "word": "承欢记收视率创新高",
+        "onboard_time": 1712928799,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 166548,
+        "num": 166548,
+        "word": "专家称A股牛市正在孕育中",
+        "onboard_time": 1712927838,
+        "rank": 36,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 160548,
+        "num": 160548,
+        "word": "原神前瞻",
+        "onboard_time": 1712923579,
+        "rank": 37,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 52894,
+        "num": 157204,
+        "word": "想去涩谷当怪盗",
+        "onboard_time": 1712923997,
+        "rank": 38,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 157063,
+        "num": 157063,
+        "word": "乐言喊zdz姐夫",
+        "onboard_time": 1712917638,
+        "rank": 39,
+        "category": "电竞,艺人"
+      },
+      {
+        "raw_hot": 166513,
+        "num": 156824,
+        "word": "朴宝蓝喝酒后死亡",
+        "onboard_time": 1712890817,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 155550,
+        "num": 155550,
+        "word": "文韬生日会",
+        "onboard_time": 1712920278,
+        "rank": 41,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 151090,
+        "num": 151090,
+        "word": "胡锡进总亏损超6万元",
+        "onboard_time": 1712920877,
+        "rank": 42,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 150955,
+        "num": 150955,
+        "word": "种地吧这一期封神",
+        "onboard_time": 1712918779,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 148895,
+        "num": 148895,
+        "word": "我在大山里捡了一个女儿",
+        "onboard_time": 1712923457,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 141118,
+        "num": 141118,
+        "word": "人近三十朋友圈迎来大面积关闭潮",
+        "onboard_time": 1712914638,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 137822,
+        "num": 137822,
+        "word": "李莎旻子回浪姐",
+        "onboard_time": 1712925318,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 136945,
+        "num": 136945,
+        "word": "金泰亨伤痕",
+        "onboard_time": 1712920218,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 133567,
+        "num": 133567,
+        "word": "演员关凌称给娃辅导作业被气进医院",
+        "onboard_time": 1712928258,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 97936,
+        "num": 133317,
+        "word": "死亡野生大熊猫为成年雌性",
+        "onboard_time": 1712912719,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记提出两岸同胞要做到四个坚定#"
+    }
+  }
+}

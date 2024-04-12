@@ -1,6 +1,6 @@
 {
   "startTime": 1712852435435,
-  "endTime": 1712927959607,
+  "endTime": 1712928859388,
   "band_list": [
     {
       "raw_hot": 3760420,
@@ -115,6 +115,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1350746,
+      "num": 1175344,
+      "word": "留守女童困在软色情短视频里",
+      "onboard_time": 1712925078,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1341302,
       "num": 1341302,
       "word": "溺亡大熊猫表面无明显人为伤",
@@ -144,14 +152,6 @@
       "word": "五一调休放5天",
       "onboard_time": 1712879356,
       "rank": 4,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1175344,
-      "num": 1175344,
-      "word": "留守女童困在软色情短视频里",
-      "onboard_time": 1712925078,
-      "rank": 49,
       "category": "社会新闻"
     },
     {
@@ -347,6 +347,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 727426,
+      "num": 727426,
+      "word": "福宝和爷爷乘坐飞机的过程",
+      "onboard_time": 1712925318,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 712108,
       "num": 712108,
       "word": "30万年薪的银行员工要过紧日子了",
@@ -379,7 +387,7 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 674969,
+      "raw_hot": 680888,
       "num": 527675,
       "word": "董宇辉回应现在讲解质量差",
       "onboard_time": 1712922497,
@@ -409,14 +417,6 @@
       "onboard_time": 1712900000,
       "rank": 39,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 622814,
-      "num": 350746,
-      "word": "福宝和爷爷乘坐飞机的过程",
-      "onboard_time": 1712925318,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 620881,
@@ -819,6 +819,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 370095,
+      "num": 370095,
+      "word": "连花花都不认识你来看花花",
+      "onboard_time": 1712926637,
+      "rank": 19,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 368057,
       "num": 368057,
       "word": "微信打电话和直接打电话的区别",
@@ -897,6 +905,14 @@
       "onboard_time": 1712914638,
       "rank": 20,
       "category": "情感"
+    },
+    {
+      "raw_hot": 342182,
+      "num": 342182,
+      "word": "李溪芮吊带银裙",
+      "onboard_time": 1712927658,
+      "rank": 31,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 341752,
@@ -1009,6 +1025,14 @@
       "onboard_time": 1712901439,
       "rank": 17,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 306643,
+      "num": 306643,
+      "word": "原神阿蕾奇诺",
+      "onboard_time": 1712927838,
+      "rank": 25,
+      "category": "游戏"
     },
     {
       "raw_hot": 305973,
@@ -1348,7 +1372,7 @@
     },
     {
       "raw_hot": 245512,
-      "num": 242767,
+      "num": 243854,
       "word": "何洁自制短剧上浪姐",
       "onboard_time": 1712926819,
       "rank": 24,
@@ -1361,22 +1385,6 @@
       "onboard_time": 1712907858,
       "rank": 24,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 242977,
-      "num": 242977,
-      "word": "连花花都不认识你来看花花",
-      "onboard_time": 1712926637,
-      "rank": 19,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 242740,
-      "num": 242740,
-      "word": "原神阿蕾奇诺",
-      "onboard_time": 1712927838,
-      "rank": 25,
-      "category": "游戏"
     },
     {
       "raw_hot": 241638,
@@ -1627,6 +1635,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 208665,
+      "num": 208665,
+      "word": "LGDNBW好菜",
+      "onboard_time": 1712928499,
+      "rank": 26,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 208408,
       "num": 208408,
       "word": "黄金",
@@ -1643,6 +1659,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 207747,
+      "num": 207747,
+      "word": "刘耀文回应电影脸",
+      "onboard_time": 1712928318,
+      "rank": 27,
+      "category": "电影"
+    },
+    {
       "raw_hot": 207322,
       "num": 207322,
       "word": "官方通报死亡大熊猫核查情况",
@@ -1657,6 +1681,22 @@
       "onboard_time": 1712908939,
       "rank": 27,
       "category": "电影,动漫"
+    },
+    {
+      "raw_hot": 205736,
+      "num": 205736,
+      "word": "周深现场版小美满",
+      "onboard_time": 1712928558,
+      "rank": 29,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 205383,
+      "num": 205383,
+      "word": "陈丽君红衣舞剑",
+      "onboard_time": 1712926039,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 204048,
@@ -1777,6 +1817,14 @@
       "onboard_time": 1712884819,
       "rank": 34,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 196053,
+      "num": 205915,
+      "word": "让眼睛越来越好的9个小习惯",
+      "onboard_time": 1712924778,
+      "rank": 32,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 195903,
@@ -1971,6 +2019,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 186183,
+      "num": 186183,
+      "word": "林更新说自己过行止的生活会emo",
+      "onboard_time": 1712928439,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 186052,
       "num": 186052,
       "word": "鲜鱼刚下锅就开始在火锅中游泳了",
@@ -1985,14 +2041,6 @@
       "onboard_time": 1712828777,
       "rank": 23,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 183190,
-      "num": 183190,
-      "word": "让眼睛越来越好的9个小习惯",
-      "onboard_time": 1712924778,
-      "rank": 32,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 182616,
@@ -2011,14 +2059,6 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 180076,
-      "num": 180076,
-      "word": "陈丽君红衣舞剑",
-      "onboard_time": 1712926039,
-      "rank": 30,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 179965,
       "num": 179965,
       "word": "亚锦赛何冰娇进4强",
@@ -2033,14 +2073,6 @@
       "onboard_time": 1712881519,
       "rank": 40,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 179164,
-      "num": 179164,
-      "word": "李溪芮吊带银裙",
-      "onboard_time": 1712927658,
-      "rank": 31,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 178768,
@@ -2073,6 +2105,14 @@
       "onboard_time": 1712920158,
       "rank": 31,
       "category": "电竞,艺人"
+    },
+    {
+      "raw_hot": 175755,
+      "num": 175755,
+      "word": "范丞丞年度青年演员",
+      "onboard_time": 1712928618,
+      "rank": 32,
+      "category": "电影"
     },
     {
       "raw_hot": 175703,
@@ -2147,6 +2187,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 171387,
+      "num": 171387,
+      "word": "iCAR",
+      "onboard_time": 1712928137,
+      "rank": 33,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 171359,
       "num": 171359,
       "word": "易烊千玺粉色小包",
@@ -2187,11 +2235,27 @@
       "category": "艺人,作品衍生"
     },
     {
+      "raw_hot": 167017,
+      "num": 167017,
+      "word": "承欢记收视率创新高",
+      "onboard_time": 1712928799,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 166570,
       "num": 166570,
       "word": "A股",
       "onboard_time": 1712893037,
       "rank": 48,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 166548,
+      "num": 166548,
+      "word": "专家称A股牛市正在孕育中",
+      "onboard_time": 1712927838,
+      "rank": 46,
       "category": "财经"
     },
     {
@@ -2555,6 +2619,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 133567,
+      "num": 133567,
+      "word": "演员关凌称给娃辅导作业被气进医院",
+      "onboard_time": 1712928258,
+      "rank": 48,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 132092,
       "num": 132092,
       "word": "肖战饭制版日常vlog",
@@ -2633,14 +2705,6 @@
       "onboard_time": 1712856433,
       "rank": 17,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 121447,
-      "num": 121447,
-      "word": "专家称A股牛市正在孕育中",
-      "onboard_time": 1712927838,
-      "rank": 46,
-      "category": "财经"
     },
     {
       "raw_hot": 121163,
@@ -3004,7 +3068,7 @@
     },
     {
       "raw_hot": 52996,
-      "num": 174350,
+      "num": 286681,
       "word": "米里米气的iCAR品牌发布会",
       "onboard_time": 1712927537,
       "rank": 32,
