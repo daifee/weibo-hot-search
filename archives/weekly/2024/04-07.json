@@ -1,6 +1,6 @@
 {
   "startTime": 1712420539476,
-  "endTime": 1712957649238,
+  "endTime": 1712960067797,
   "band_list": [
     {
       "raw_hot": 9583581,
@@ -16171,6 +16171,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 121766,
+      "num": 121766,
+      "word": "巴黎奥运会",
+      "onboard_time": 1712942474,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 121618,
       "num": 119446,
       "word": "久违了LAY",
@@ -16795,14 +16803,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 102454,
-      "num": 102454,
-      "word": "巴黎奥运会",
-      "onboard_time": 1712942474,
-      "rank": 36,
-      "category": "体育"
-    },
-    {
       "raw_hot": 102098,
       "num": 102098,
       "word": "LPL春决售票官宣",
@@ -17411,6 +17411,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 73250,
+      "num": 73250,
+      "word": "58岁姐姐去世弟弟含泪吹唢呐送别",
+      "onboard_time": 1712951471,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 73030,
       "num": 323832,
       "word": "高铁穿越金黄花海驶向春天",
@@ -17425,14 +17433,6 @@
       "onboard_time": 1712768295,
       "rank": 28,
       "category": "体育"
-    },
-    {
-      "raw_hot": 72850,
-      "num": 53757,
-      "word": "58岁姐姐去世弟弟含泪吹唢呐送别",
-      "onboard_time": 1712951471,
-      "rank": 8,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 72375,
@@ -17568,6 +17568,14 @@
       "word": "中国新兴文旅迎春勃发",
       "onboard_time": 1712547680,
       "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 66388,
+      "num": 52142,
+      "word": "外星人绑架案出现新证人",
+      "onboard_time": 1712953151,
+      "rank": 23,
       "category": "社会新闻"
     },
     {
@@ -17755,14 +17763,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 49798,
-      "num": 34407,
-      "word": "外星人绑架案出现新证人",
-      "onboard_time": 1712953151,
-      "rank": 23,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 49657,
       "num": 49657,
       "word": "于和伟有这么破碎的哭戏进入内娱",
@@ -17787,12 +17787,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 47204,
+      "num": 47204,
+      "word": "男子在电梯实施家暴被保安制服",
+      "onboard_time": 1712953091,
+      "rank": 33,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 47175,
       "num": 172223,
       "word": "中端手机性能有多卷",
       "onboard_time": 1712459418,
       "rank": 37,
       "category": "数码"
+    },
+    {
+      "raw_hot": 46899,
+      "num": 46899,
+      "word": "31岁的张彬彬现在转型是对的吗",
+      "onboard_time": 1712955131,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 46594,
@@ -18051,6 +18067,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 31032,
+      "num": 31032,
+      "word": "赵丽颖南京工作室注销",
+      "onboard_time": 1712953991,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 30026,
       "num": 25445,
       "word": "魏若来正式入党",
@@ -18075,14 +18099,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 27924,
-      "num": 27511,
-      "word": "31岁的张彬彬现在转型是对的吗",
-      "onboard_time": 1712955131,
-      "rank": 25,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 27840,
       "num": 29551,
       "word": "惜花芷评级",
@@ -18105,14 +18121,6 @@
       "onboard_time": 1712822418,
       "rank": 14,
       "category": "时尚"
-    },
-    {
-      "raw_hot": 27391,
-      "num": 27391,
-      "word": "赵丽颖南京工作室注销",
-      "onboard_time": 1712953991,
-      "rank": 34,
-      "category": "艺人"
     },
     {
       "raw_hot": 27373,
@@ -18307,14 +18315,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 20965,
-      "num": 20965,
-      "word": "男子在电梯实施家暴被保安制服",
-      "onboard_time": 1712953091,
-      "rank": 33,
-      "category": "社会正能量"
-    },
-    {
       "raw_hot": 20909,
       "num": 199258,
       "word": "街头潮流的教科书",
@@ -18337,6 +18337,14 @@
       "onboard_time": 1712687651,
       "rank": 49,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 20347,
+      "num": 24527,
+      "word": "杨洋摘面具",
+      "onboard_time": 1712959932,
+      "rank": 38,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 19976,
