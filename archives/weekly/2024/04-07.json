@@ -1,6 +1,6 @@
 {
   "startTime": 1712420539476,
-  "endTime": 1712925102414,
+  "endTime": 1712925987666,
   "band_list": [
     {
       "raw_hot": 9583581,
@@ -1571,6 +1571,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 892442,
+      "num": 892442,
+      "word": "林更新坦言二搭赵丽颖有压力",
+      "onboard_time": 1712923519,
+      "rank": 5,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 891540,
       "num": 891540,
       "word": "陈学冬",
@@ -2033,14 +2041,6 @@
       "onboard_time": 1712847920,
       "rank": 18,
       "category": "教育"
-    },
-    {
-      "raw_hot": 772947,
-      "num": 772947,
-      "word": "林更新坦言二搭赵丽颖有压力",
-      "onboard_time": 1712923519,
-      "rank": 5,
-      "category": "剧集"
     },
     {
       "raw_hot": 771307,
@@ -3251,6 +3251,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 579510,
+      "num": 527675,
+      "word": "董宇辉回应现在讲解质量差",
+      "onboard_time": 1712922497,
+      "rank": 7,
+      "category": "互联网,网红"
+    },
+    {
       "raw_hot": 579010,
       "num": 579010,
       "word": "1米5的花花吃了根1米8的笋笋",
@@ -3635,14 +3643,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 527675,
-      "num": 527675,
-      "word": "董宇辉回应现在讲解质量差",
-      "onboard_time": 1712922497,
-      "rank": 7,
-      "category": "互联网,网红"
-    },
-    {
       "raw_hot": 527570,
       "num": 527570,
       "word": "CP变骨科",
@@ -3657,6 +3657,14 @@
       "onboard_time": 1712587522,
       "rank": 11,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 526666,
+      "num": 376669,
+      "word": "刘雅瑟的腰臀比",
+      "onboard_time": 1712922377,
+      "rank": 13,
+      "category": "电影,时尚"
     },
     {
       "raw_hot": 526199,
@@ -4193,14 +4201,6 @@
       "onboard_time": 1712459178,
       "rank": 28,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 474580,
-      "num": 376669,
-      "word": "刘雅瑟的腰臀比",
-      "onboard_time": 1712922377,
-      "rank": 13,
-      "category": "电影,时尚"
     },
     {
       "raw_hot": 474577,
@@ -4955,6 +4955,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 419285,
+      "num": 370423,
+      "word": "恋爱兄妹",
+      "onboard_time": 1712921657,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 418547,
       "num": 418547,
       "word": "想当行长男孩父亲所在支行回应",
@@ -5001,14 +5009,6 @@
       "onboard_time": 1712885540,
       "rank": 47,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 413284,
-      "num": 370423,
-      "word": "恋爱兄妹",
-      "onboard_time": 1712921657,
-      "rank": 15,
-      "category": "综艺"
     },
     {
       "raw_hot": 411677,
@@ -5883,6 +5883,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 348398,
+      "num": 348398,
+      "word": "原神前瞻",
+      "onboard_time": 1712923579,
+      "rank": 18,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 346462,
       "num": 346462,
       "word": "沈图南入党",
@@ -6579,14 +6587,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 308778,
-      "num": 308778,
-      "word": "原神前瞻",
-      "onboard_time": 1712923579,
-      "rank": 18,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 308398,
       "num": 308398,
       "word": "承欢记女主撞见未来公公出轨",
@@ -6811,6 +6811,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 298288,
+      "num": 286202,
+      "word": "陶喆北京抢票",
+      "onboard_time": 1712924478,
+      "rank": 22,
+      "category": "演出"
+    },
+    {
       "raw_hot": 298170,
       "num": 298170,
       "word": "没有金泰梨",
@@ -6841,6 +6849,14 @@
       "onboard_time": 1712448858,
       "rank": 27,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 297124,
+      "num": 209159,
+      "word": "福宝和爷爷乘坐飞机的过程",
+      "onboard_time": 1712925318,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 296867,
@@ -6955,6 +6971,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 290365,
+      "num": 214149,
+      "word": "林更新说不强求与凤行能带来更多工作",
+      "onboard_time": 1712924837,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 290229,
       "num": 299937,
       "word": "以色列为何突然撤军",
@@ -7057,14 +7081,6 @@
       "onboard_time": 1712840057,
       "rank": 18,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 286202,
-      "num": 286202,
-      "word": "陶喆北京抢票",
-      "onboard_time": 1712924478,
-      "rank": 22,
-      "category": "演出"
     },
     {
       "raw_hot": 285582,
@@ -7868,7 +7884,7 @@
     },
     {
       "raw_hot": 256000,
-      "num": 193532,
+      "num": 211282,
       "word": "警方回应网红杨立新及母亲家中遇害",
       "onboard_time": 1712923398,
       "rank": 26,
@@ -8369,6 +8385,14 @@
       "onboard_time": 1712546420,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 242956,
+      "num": 242956,
+      "word": "王楚钦冲击首个世界单打冠军",
+      "onboard_time": 1712923037,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 242658,
@@ -9459,6 +9483,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 214394,
+      "num": 214394,
+      "word": "留守女童困在软色情短视频里",
+      "onboard_time": 1712925078,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 214366,
       "num": 214366,
       "word": "追风者 二刷",
@@ -9865,14 +9897,6 @@
       "onboard_time": 1712480479,
       "rank": 39,
       "category": "情感"
-    },
-    {
-      "raw_hot": 206657,
-      "num": 180050,
-      "word": "林更新说不强求与凤行能带来更多工作",
-      "onboard_time": 1712924837,
-      "rank": 31,
-      "category": "剧集"
     },
     {
       "raw_hot": 206625,
@@ -10499,6 +10523,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 200310,
+      "num": 200310,
+      "word": "2024电影频道M榜荣誉名单",
+      "onboard_time": 1712925559,
+      "rank": 33,
+      "category": "电影"
+    },
+    {
       "raw_hot": 200164,
       "num": 200164,
       "word": "Fly轮换下场",
@@ -10652,7 +10684,7 @@
     },
     {
       "raw_hot": 198662,
-      "num": 198662,
+      "num": 209891,
       "word": "为什么旅行时没有美丽羞耻",
       "onboard_time": 1712921899,
       "rank": 23,
@@ -10899,14 +10931,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 194430,
-      "num": 194430,
-      "word": "王楚钦冲击首个世界单打冠军",
-      "onboard_time": 1712923037,
-      "rank": 24,
-      "category": "体育"
-    },
-    {
       "raw_hot": 194387,
       "num": 194387,
       "word": "无畏说总不能被打倒",
@@ -11076,7 +11100,7 @@
     },
     {
       "raw_hot": 192428,
-      "num": 192428,
+      "num": 209224,
       "word": "我在大山里捡了一个女儿",
       "onboard_time": 1712923457,
       "rank": 28,
@@ -11193,6 +11217,14 @@
       "onboard_time": 1712420596,
       "rank": 30,
       "category": "演出"
+    },
+    {
+      "raw_hot": 191270,
+      "num": 191270,
+      "word": "全员加速中",
+      "onboard_time": 1712924598,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 191208,
@@ -11347,12 +11379,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 189731,
+      "num": 189731,
+      "word": "李莎旻子回浪姐",
+      "onboard_time": 1712925318,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 189684,
       "num": 189684,
       "word": "阿森纳2比2拜仁",
       "onboard_time": 1712704156,
       "rank": 13,
       "category": "体育"
+    },
+    {
+      "raw_hot": 189315,
+      "num": 192282,
+      "word": "乐言说Zdz我们火了",
+      "onboard_time": 1712925856,
+      "rank": 34,
+      "category": "电竞,艺人"
     },
     {
       "raw_hot": 189113,
@@ -12587,11 +12635,11 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 170635,
-      "num": 154398,
-      "word": "全员加速中",
+      "raw_hot": 170620,
+      "num": 167917,
+      "word": "严浩翔真的情绪稳定的神",
       "onboard_time": 1712924598,
-      "rank": 38,
+      "rank": 41,
       "category": "综艺"
     },
     {
@@ -12625,6 +12673,14 @@
       "onboard_time": 1712458757,
       "rank": 43,
       "category": "情感"
+    },
+    {
+      "raw_hot": 169883,
+      "num": 169883,
+      "word": "秦朗丢寒假作业原视频仍未删除",
+      "onboard_time": 1712925617,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 169641,
@@ -13411,6 +13467,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 156015,
+      "num": 375004,
+      "word": "原神4.6版本直播",
+      "onboard_time": 1712728399,
+      "rank": 44,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 155850,
       "num": 155850,
       "word": "EXO12周年留言",
@@ -13817,14 +13881,6 @@
       "onboard_time": 1712734219,
       "rank": 42,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 149655,
-      "num": 149655,
-      "word": "严浩翔真的情绪稳定的神",
-      "onboard_time": 1712924598,
-      "rank": 41,
-      "category": "综艺"
     },
     {
       "raw_hot": 149598,
@@ -14523,14 +14579,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 139123,
-      "num": 375004,
-      "word": "原神4.6版本直播",
-      "onboard_time": 1712728399,
-      "rank": 44,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 139122,
       "num": 139122,
       "word": "小米汽车回应车内摄像头",
@@ -14656,6 +14704,14 @@
       "word": "文学调剂文档",
       "onboard_time": 1712819359,
       "rank": 38,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 137970,
+      "num": 137970,
+      "word": "女生摆脱了容貌焦虑真的很爽",
+      "onboard_time": 1712925738,
+      "rank": 47,
       "category": "情感"
     },
     {
@@ -16547,20 +16603,20 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 88899,
+      "num": 382395,
+      "word": "日内瓦表展他火了",
+      "onboard_time": 1712921178,
+      "rank": 34,
+      "category": "艺人,时尚"
+    },
+    {
       "raw_hot": 88826,
       "num": 88826,
       "word": "新疆17岁小伙要追赶苏炳添",
       "onboard_time": 1712424493,
       "rank": 39,
       "category": "体育"
-    },
-    {
-      "raw_hot": 88642,
-      "num": 382395,
-      "word": "日内瓦表展他火了",
-      "onboard_time": 1712921178,
-      "rank": 34,
-      "category": "艺人,时尚"
     },
     {
       "raw_hot": 88132,
@@ -16753,14 +16809,6 @@
       "onboard_time": 1712417239,
       "rank": 46,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 78956,
-      "num": 122418,
-      "word": "留守女童困在软色情短视频里",
-      "onboard_time": 1712925078,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 78543,
@@ -17116,7 +17164,7 @@
     },
     {
       "raw_hot": 57284,
-      "num": 154514,
+      "num": 214856,
       "word": "想去涩谷当怪盗",
       "onboard_time": 1712923997,
       "rank": 36,
