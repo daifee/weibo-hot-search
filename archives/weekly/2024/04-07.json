@@ -1,6 +1,6 @@
 {
   "startTime": 1712420539476,
-  "endTime": 1712892930827,
+  "endTime": 1712895732342,
   "band_list": [
     {
       "raw_hot": 9583581,
@@ -283,6 +283,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 1754618,
+      "num": 1754618,
+      "word": "被轿车撞倒碾压女子已死亡",
+      "onboard_time": 1712891237,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1748278,
       "num": 1748278,
       "word": "越南女首富张美兰被判处死刑",
@@ -457,6 +465,14 @@
       "onboard_time": 1712743098,
       "rank": 1,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1497090,
+      "num": 1497090,
+      "word": "青山刚昌癫了",
+      "onboard_time": 1712892138,
+      "rank": 5,
+      "category": "电影,动漫"
     },
     {
       "raw_hot": 1487327,
@@ -1073,14 +1089,6 @@
       "onboard_time": 1712753419,
       "rank": 7,
       "category": "社会新闻,演出"
-    },
-    {
-      "raw_hot": 1049454,
-      "num": 1049454,
-      "word": "被轿车撞倒碾压女子已死亡",
-      "onboard_time": 1712891237,
-      "rank": 6,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1047061,
@@ -2259,6 +2267,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 699747,
+      "num": 699747,
+      "word": "金晨首部一番女主电影",
+      "onboard_time": 1712892859,
+      "rank": 49,
+      "category": "电影"
+    },
+    {
       "raw_hot": 699581,
       "num": 699581,
       "word": "官方回应7千元手机维修费14000元",
@@ -2427,6 +2443,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 667039,
+      "num": 667039,
+      "word": "30万年薪的银行员工要过紧日子了",
+      "onboard_time": 1712883439,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 667002,
       "num": 667002,
       "word": "成都迪士尼被限流",
@@ -2481,14 +2505,6 @@
       "onboard_time": 1712845999,
       "rank": 42,
       "category": "情感"
-    },
-    {
-      "raw_hot": 657287,
-      "num": 657287,
-      "word": "30万年薪的银行员工要过紧日子了",
-      "onboard_time": 1712883439,
-      "rank": 20,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 653407,
@@ -2681,6 +2697,14 @@
       "onboard_time": 1712734338,
       "rank": 38,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 620881,
+      "num": 620881,
+      "word": "凤凰传奇抢票",
+      "onboard_time": 1712894720,
+      "rank": 5,
+      "category": "演出"
     },
     {
       "raw_hot": 619594,
@@ -2947,14 +2971,6 @@
       "category": "科学科普"
     },
     {
-      "raw_hot": 586897,
-      "num": 586897,
-      "word": "青山刚昌癫了",
-      "onboard_time": 1712892138,
-      "rank": 5,
-      "category": "电影,动漫"
-    },
-    {
       "raw_hot": 585317,
       "num": 585317,
       "word": "肖战直播出图",
@@ -3099,6 +3115,14 @@
       "category": "科学科普,健康医疗"
     },
     {
+      "raw_hot": 558634,
+      "num": 345060,
+      "word": "大学四年居然买了一百斤衣服",
+      "onboard_time": 1712893879,
+      "rank": 21,
+      "category": "情感"
+    },
+    {
       "raw_hot": 558353,
       "num": 558353,
       "word": "王俊凯 演唱会",
@@ -3169,6 +3193,14 @@
       "onboard_time": 1712707279,
       "rank": 11,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 549053,
+      "num": 549053,
+      "word": "能吃面试的苦了",
+      "onboard_time": 1712890457,
+      "rank": 12,
+      "category": "教育"
     },
     {
       "raw_hot": 548856,
@@ -3395,6 +3427,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 512635,
+      "num": 512635,
+      "word": "腾讯视频24年大剧片单",
+      "onboard_time": 1712893219,
+      "rank": 12,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 510415,
       "num": 463806,
       "word": "暴雪国服玩家数据完整保留",
@@ -3595,6 +3635,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 492873,
+      "num": 492873,
+      "word": "乘风2024",
+      "onboard_time": 1712893279,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 491803,
       "num": 386995,
       "word": "这是我没结婚前最无聊的一天",
@@ -3673,6 +3721,14 @@
       "onboard_time": 1712448799,
       "rank": 12,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 484528,
+      "num": 484528,
+      "word": "长发周雨彤杀回来了",
+      "onboard_time": 1712891597,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 484350,
@@ -4243,14 +4299,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 440194,
-      "num": 440194,
-      "word": "长发周雨彤杀回来了",
-      "onboard_time": 1712891597,
-      "rank": 28,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 440152,
       "num": 440152,
       "word": "二哈和他的白猫师尊",
@@ -4508,7 +4556,7 @@
     },
     {
       "raw_hot": 420697,
-      "num": 274097,
+      "num": 319831,
       "word": "离职前可以顺走公司什么东西",
       "onboard_time": 1712890937,
       "rank": 21,
@@ -4641,6 +4689,14 @@
       "onboard_time": 1712625498,
       "rank": 21,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 401707,
+      "num": 401707,
+      "word": "Doinb妻子时隔半年更新",
+      "onboard_time": 1712894660,
+      "rank": 16,
+      "category": "电竞"
     },
     {
       "raw_hot": 401613,
@@ -4899,12 +4955,12 @@
       "category": "读书作家"
     },
     {
-      "raw_hot": 379244,
-      "num": 379244,
-      "word": "能吃面试的苦了",
-      "onboard_time": 1712890457,
-      "rank": 12,
-      "category": "教育"
+      "raw_hot": 378893,
+      "num": 378893,
+      "word": "CP变骨科",
+      "onboard_time": 1712894720,
+      "rank": 18,
+      "category": "电影,动漫"
     },
     {
       "raw_hot": 378816,
@@ -5764,7 +5820,7 @@
     },
     {
       "raw_hot": 321570,
-      "num": 260583,
+      "num": 337100,
       "word": "P5X全球公测",
       "onboard_time": 1712891658,
       "rank": 42,
@@ -6187,6 +6243,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 300055,
+      "num": 300055,
+      "word": "癌症来临时身体3个部位会喊痛",
+      "onboard_time": 1712891476,
+      "rank": 30,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 299782,
       "num": 299782,
       "word": "女生想要一个体面的婚礼有错吗",
@@ -6457,14 +6521,6 @@
       "onboard_time": 1712740758,
       "rank": 41,
       "category": "情感"
-    },
-    {
-      "raw_hot": 286553,
-      "num": 265423,
-      "word": "癌症来临时身体3个部位会喊痛",
-      "onboard_time": 1712891476,
-      "rank": 30,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 286261,
@@ -6835,6 +6891,22 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 269965,
+      "num": 269965,
+      "word": "港媒曝C罗或将赴香港比赛",
+      "onboard_time": 1712893399,
+      "rank": 27,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 269790,
+      "num": 269790,
+      "word": "周雨彤一次微醺换来一个代言",
+      "onboard_time": 1712894121,
+      "rank": 28,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 269400,
       "num": 269400,
       "word": "男人的尿酸是怎么一步一步失控的",
@@ -6856,6 +6928,14 @@
       "word": "王一博模仿陈佩斯",
       "onboard_time": 1712464581,
       "rank": 24,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 268119,
+      "num": 268119,
+      "word": "曾黎谈与赵丽颖林更新合作的感受",
+      "onboard_time": 1712895439,
+      "rank": 29,
       "category": "剧集"
     },
     {
@@ -7035,6 +7115,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 259399,
+      "num": 259399,
+      "word": "湖北省考成绩",
+      "onboard_time": 1712892677,
+      "rank": 26,
+      "category": "教育"
+    },
+    {
       "raw_hot": 259371,
       "num": 259371,
       "word": "美国男演员失踪后死亡",
@@ -7089,14 +7177,6 @@
       "onboard_time": 1712639059,
       "rank": 31,
       "category": "电影"
-    },
-    {
-      "raw_hot": 258453,
-      "num": 258453,
-      "word": "湖北省考成绩",
-      "onboard_time": 1712892677,
-      "rank": 26,
-      "category": "教育"
     },
     {
       "raw_hot": 258446,
@@ -7859,12 +7939,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 236178,
+      "num": 236178,
+      "word": "教资通过率",
+      "onboard_time": 1712892316,
+      "rank": 40,
+      "category": "教育"
+    },
+    {
       "raw_hot": 236086,
       "num": 236086,
       "word": "唐嫣回应命好标签",
       "onboard_time": 1712635639,
       "rank": 39,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 236066,
+      "num": 236066,
+      "word": "infj近乎病态的爱",
+      "onboard_time": 1712892379,
+      "rank": 36,
+      "category": "情感"
     },
     {
       "raw_hot": 235670,
@@ -8123,6 +8219,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 227330,
+      "num": 224646,
+      "word": "林更新魏大勋怨种兄弟",
+      "onboard_time": 1712892257,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 227059,
       "num": 227059,
       "word": "林更新工作室自称腿子",
@@ -8339,6 +8443,22 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 221638,
+      "num": 221638,
+      "word": "小乐言回应柳智敏粉丝",
+      "onboard_time": 1712895259,
+      "rank": 35,
+      "category": "电竞,艺人"
+    },
+    {
+      "raw_hot": 221506,
+      "num": 221506,
+      "word": "承欢记新浪扫楼",
+      "onboard_time": 1712893760,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 221062,
       "num": 221062,
       "word": "哈尔的移动城堡 配音",
@@ -8475,14 +8595,6 @@
       "category": "科学科普"
     },
     {
-      "raw_hot": 217936,
-      "num": 217936,
-      "word": "林更新魏大勋怨种兄弟",
-      "onboard_time": 1712892257,
-      "rank": 33,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 217816,
       "num": 217816,
       "word": "央行连续第17个月增持黄金储备",
@@ -8601,14 +8713,6 @@
       "onboard_time": 1712888477,
       "rank": 37,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 214799,
-      "num": 214799,
-      "word": "infj近乎病态的爱",
-      "onboard_time": 1712892379,
-      "rank": 36,
-      "category": "情感"
     },
     {
       "raw_hot": 214553,
@@ -9483,14 +9587,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 201769,
-      "num": 201769,
-      "word": "教资通过率",
-      "onboard_time": 1712892316,
-      "rank": 40,
-      "category": "教育"
-    },
-    {
       "raw_hot": 201676,
       "num": 201676,
       "word": "成龙称心里会惊讶已经70岁",
@@ -9833,6 +9929,14 @@
       "onboard_time": 1712848638,
       "rank": 46,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 196342,
+      "num": 196342,
+      "word": "小狗坐在大狗狗身上晒太阳",
+      "onboard_time": 1712895079,
+      "rank": 41,
+      "category": "情感"
     },
     {
       "raw_hot": 196336,
@@ -10273,6 +10377,14 @@
       "onboard_time": 1712583979,
       "rank": 34,
       "category": "情感"
+    },
+    {
+      "raw_hot": 190332,
+      "num": 190332,
+      "word": "我的春日狂欢日记",
+      "onboard_time": 1712895500,
+      "rank": 44,
+      "category": "旅游"
     },
     {
       "raw_hot": 190137,
@@ -11603,6 +11715,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 167666,
+      "num": 167666,
+      "word": "周杰伦杭州演唱会二次售票",
+      "onboard_time": 1712895679,
+      "rank": 47,
+      "category": "演出"
+    },
+    {
       "raw_hot": 167553,
       "num": 167553,
       "word": "三代日本皇室女性都曾患上心理疾病",
@@ -11617,14 +11737,6 @@
       "onboard_time": 1712797520,
       "rank": 33,
       "category": "数码"
-    },
-    {
-      "raw_hot": 166838,
-      "num": 166838,
-      "word": "金晨首部一番女主电影",
-      "onboard_time": 1712892859,
-      "rank": 49,
-      "category": "电影"
     },
     {
       "raw_hot": 166681,
@@ -11793,6 +11905,14 @@
       "onboard_time": 1712660058,
       "rank": 31,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 164032,
+      "num": 164032,
+      "word": "健身后胖了4斤",
+      "onboard_time": 1712895559,
+      "rank": 49,
+      "category": "运动健身"
     },
     {
       "raw_hot": 164017,
@@ -14099,6 +14219,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 125092,
+      "num": 1004953,
+      "word": "中国航天的12个第一次",
+      "onboard_time": 1712893337,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 124755,
       "num": 124755,
       "word": "惜花芷 谁懂这一抱的含金量",
@@ -15683,6 +15811,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 46190,
+      "num": 486921,
+      "word": "魏建军直播首秀实测智驾",
+      "onboard_time": 1712894420,
+      "rank": 14,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 46120,
       "num": 1222875,
       "word": "这个春天遇见美好成为美好",
@@ -15897,6 +16033,14 @@
       "onboard_time": 1712822418,
       "rank": 14,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 26685,
+      "num": 191879,
+      "word": "那些莫名其妙的请假理由",
+      "onboard_time": 1712895439,
+      "rank": 43,
+      "category": "幽默"
     },
     {
       "raw_hot": 26644,
@@ -16169,6 +16313,14 @@
       "onboard_time": 1712778670,
       "rank": 49,
       "category": "母婴育儿"
+    },
+    {
+      "raw_hot": 12504,
+      "num": 206966,
+      "word": "惣治郎大叔快回来",
+      "onboard_time": 1712894780,
+      "rank": 38,
+      "category": "游戏"
     },
     {
       "raw_hot": 11730,
