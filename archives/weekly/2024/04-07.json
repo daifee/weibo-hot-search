@@ -1,6 +1,6 @@
 {
   "startTime": 1712420539476,
-  "endTime": 1712942246036,
+  "endTime": 1712943325482,
   "band_list": [
     {
       "raw_hot": 9583581,
@@ -2891,6 +2891,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 637486,
+      "num": 634967,
+      "word": "斩虎 巨婴",
+      "onboard_time": 1712931259,
+      "rank": 37,
+      "category": "网红"
+    },
+    {
       "raw_hot": 636049,
       "num": 636049,
       "word": "张予曦穿了贾静雯去年浪姐的衣服",
@@ -2905,14 +2913,6 @@
       "onboard_time": 1712588479,
       "rank": 16,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 634967,
-      "num": 634967,
-      "word": "斩虎 巨婴",
-      "onboard_time": 1712931259,
-      "rank": 37,
-      "category": "网红"
     },
     {
       "raw_hot": 634174,
@@ -6131,6 +6131,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 340011,
+      "num": 191381,
+      "word": "杨立新遇害21天前刚收嫌疑人为徒",
+      "onboard_time": 1712940855,
+      "rank": 13,
+      "category": "网红"
+    },
+    {
       "raw_hot": 339683,
       "num": 339683,
       "word": "金泰亨伤痕",
@@ -6233,6 +6241,14 @@
       "onboard_time": 1712881998,
       "rank": 14,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 333571,
+      "num": 333571,
+      "word": "陈泽 红娘",
+      "onboard_time": 1712932698,
+      "rank": 34,
+      "category": "游戏,网红"
     },
     {
       "raw_hot": 333302,
@@ -7036,7 +7052,7 @@
     },
     {
       "raw_hot": 297405,
-      "num": 202784,
+      "num": 208737,
       "word": "员工晒董宇辉白发越来越多",
       "onboard_time": 1712937857,
       "rank": 29,
@@ -7537,14 +7553,6 @@
       "onboard_time": 1712537001,
       "rank": 19,
       "category": "作品衍生,艺人"
-    },
-    {
-      "raw_hot": 275206,
-      "num": 275206,
-      "word": "陈泽 红娘",
-      "onboard_time": 1712932698,
-      "rank": 34,
-      "category": "游戏,网红"
     },
     {
       "raw_hot": 274518,
@@ -9235,14 +9243,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 226560,
-      "num": 191381,
-      "word": "杨立新遇害21天前刚收嫌疑人为徒",
-      "onboard_time": 1712940855,
-      "rank": 13,
-      "category": "网红"
-    },
-    {
       "raw_hot": 226501,
       "num": 226501,
       "word": "向佐你火了",
@@ -9897,6 +9897,14 @@
       "onboard_time": 1712627899,
       "rank": 31,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 209963,
+      "num": 209963,
+      "word": "山西省考",
+      "onboard_time": 1712942653,
+      "rank": 6,
+      "category": "教育"
     },
     {
       "raw_hot": 209886,
@@ -16307,6 +16315,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 119297,
+      "num": 119297,
+      "word": "男子囤4600多克金条坚决不卖",
+      "onboard_time": 1712941815,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 119254,
       "num": 119254,
       "word": "原神新角色",
@@ -16851,6 +16867,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 99001,
+      "num": 99001,
+      "word": "周也做猪鼻子",
+      "onboard_time": 1712941576,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 98078,
       "num": 98078,
       "word": "上班恶心穿搭遇上退休精致穿搭",
@@ -16961,14 +16985,6 @@
       "onboard_time": 1712920577,
       "rank": 48,
       "category": "情感"
-    },
-    {
-      "raw_hot": 92979,
-      "num": 92979,
-      "word": "周也做猪鼻子",
-      "onboard_time": 1712941576,
-      "rank": 30,
-      "category": "艺人"
     },
     {
       "raw_hot": 92448,
@@ -17611,6 +17627,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 60215,
+      "num": 60215,
+      "word": "巴黎奥运会",
+      "onboard_time": 1712942474,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 59373,
       "num": 59373,
       "word": "9.9元咖啡为何会消失",
@@ -17715,6 +17739,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 49613,
+      "num": 49613,
+      "word": "于和伟有这么破碎的哭戏进入内娱",
+      "onboard_time": 1712943073,
+      "rank": 41,
+      "category": "剧集,综艺"
+    },
+    {
       "raw_hot": 48474,
       "num": 48474,
       "word": "许凯的罗伯特叫许凯猪包",
@@ -17729,14 +17761,6 @@
       "onboard_time": 1712854155,
       "rank": 45,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 47526,
-      "num": 60091,
-      "word": "男子囤4600多克金条坚决不卖",
-      "onboard_time": 1712941815,
-      "rank": 45,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 47175,

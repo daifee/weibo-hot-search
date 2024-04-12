@@ -1,6 +1,6 @@
 {
   "startTime": 1711902044401,
-  "endTime": 1712942246036,
+  "endTime": 1712943325482,
   "band_list": [
     {
       "raw_hot": 16874674,
@@ -5755,6 +5755,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 637486,
+      "num": 634967,
+      "word": "斩虎 巨婴",
+      "onboard_time": 1712931259,
+      "rank": 37,
+      "category": "网红"
+    },
+    {
       "raw_hot": 637024,
       "num": 637024,
       "word": "向太陈岚称向佐曾遭遇校园霸凌",
@@ -5793,14 +5801,6 @@
       "onboard_time": 1712274857,
       "rank": 4,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 634967,
-      "num": 634967,
-      "word": "斩虎 巨婴",
-      "onboard_time": 1712931259,
-      "rank": 37,
-      "category": "网红"
     },
     {
       "raw_hot": 634174,
@@ -12163,6 +12163,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 340011,
+      "num": 191381,
+      "word": "杨立新遇害21天前刚收嫌疑人为徒",
+      "onboard_time": 1712940855,
+      "rank": 13,
+      "category": "网红"
+    },
+    {
       "raw_hot": 339975,
       "num": 339975,
       "word": "盒子里的猫",
@@ -12337,6 +12345,14 @@
       "onboard_time": 1712283498,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 333571,
+      "num": 333571,
+      "word": "陈泽 红娘",
+      "onboard_time": 1712932698,
+      "rank": 34,
+      "category": "游戏,网红"
     },
     {
       "raw_hot": 333302,
@@ -13780,7 +13796,7 @@
     },
     {
       "raw_hot": 297405,
-      "num": 202784,
+      "num": 208737,
       "word": "员工晒董宇辉白发越来越多",
       "onboard_time": 1712937857,
       "rank": 29,
@@ -14801,14 +14817,6 @@
       "onboard_time": 1712278157,
       "rank": 22,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 275206,
-      "num": 275206,
-      "word": "陈泽 红娘",
-      "onboard_time": 1712932698,
-      "rank": 34,
-      "category": "游戏,网红"
     },
     {
       "raw_hot": 274930,
@@ -17923,14 +17931,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 226560,
-      "num": 191381,
-      "word": "杨立新遇害21天前刚收嫌疑人为徒",
-      "onboard_time": 1712940855,
-      "rank": 13,
-      "category": "网红"
-    },
-    {
       "raw_hot": 226501,
       "num": 226501,
       "word": "向佐你火了",
@@ -19321,6 +19321,14 @@
       "onboard_time": 1712627899,
       "rank": 31,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 209963,
+      "num": 209963,
+      "word": "山西省考",
+      "onboard_time": 1712942653,
+      "rank": 6,
+      "category": "教育"
     },
     {
       "raw_hot": 209886,
@@ -31043,6 +31051,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 119297,
+      "num": 119297,
+      "word": "男子囤4600多克金条坚决不卖",
+      "onboard_time": 1712941815,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 119254,
       "num": 119254,
       "word": "原神新角色",
@@ -32195,6 +32211,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 99001,
+      "num": 99001,
+      "word": "周也做猪鼻子",
+      "onboard_time": 1712941576,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 98994,
       "num": 403237,
       "word": "太行花悬崖悄悄绽放太惊艳",
@@ -32449,14 +32473,6 @@
       "onboard_time": 1712920577,
       "rank": 48,
       "category": "情感"
-    },
-    {
-      "raw_hot": 92979,
-      "num": 92979,
-      "word": "周也做猪鼻子",
-      "onboard_time": 1712941576,
-      "rank": 30,
-      "category": "艺人"
     },
     {
       "raw_hot": 92448,
@@ -33403,6 +33419,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 60215,
+      "num": 60215,
+      "word": "巴黎奥运会",
+      "onboard_time": 1712942474,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 59679,
       "num": 59679,
       "word": "周也头像",
@@ -33723,6 +33747,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 49613,
+      "num": 49613,
+      "word": "于和伟有这么破碎的哭戏进入内娱",
+      "onboard_time": 1712943073,
+      "rank": 41,
+      "category": "剧集,综艺"
+    },
+    {
       "raw_hot": 49448,
       "num": 470433,
       "word": "红米发布Turbo全新性能系列",
@@ -33769,14 +33801,6 @@
       "onboard_time": 1711912032,
       "rank": 44,
       "category": "时尚"
-    },
-    {
-      "raw_hot": 47526,
-      "num": 60091,
-      "word": "男子囤4600多克金条坚决不卖",
-      "onboard_time": 1712941815,
-      "rank": 45,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 47175,

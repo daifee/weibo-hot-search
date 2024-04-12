@@ -1,6 +1,6 @@
 {
   "startTime": 1712938901785,
-  "endTime": 1712942246036,
+  "endTime": 1712943325482,
   "band_list": [
     {
       "raw_hot": 984604,
@@ -35,20 +35,20 @@
       "category": "网红"
     },
     {
+      "raw_hot": 637486,
+      "num": 634967,
+      "word": "斩虎 巨婴",
+      "onboard_time": 1712931259,
+      "rank": 42,
+      "category": "网红"
+    },
+    {
       "raw_hot": 637220,
       "num": 222143,
       "word": "黄子韬徐艺洋被说像兄妹",
       "onboard_time": 1712932579,
       "rank": 16,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 634967,
-      "num": 634967,
-      "word": "斩虎 巨婴",
-      "onboard_time": 1712931259,
-      "rank": 42,
-      "category": "网红"
     },
     {
       "raw_hot": 606479,
@@ -99,6 +99,22 @@
       "category": "教育"
     },
     {
+      "raw_hot": 340011,
+      "num": 191381,
+      "word": "杨立新遇害21天前刚收嫌疑人为徒",
+      "onboard_time": 1712940855,
+      "rank": 13,
+      "category": "网红"
+    },
+    {
+      "raw_hot": 333571,
+      "num": 333571,
+      "word": "陈泽 红娘",
+      "onboard_time": 1712932698,
+      "rank": 34,
+      "category": "游戏,网红"
+    },
+    {
       "raw_hot": 312701,
       "num": 312701,
       "word": "郭文韬跳昆卡",
@@ -116,7 +132,7 @@
     },
     {
       "raw_hot": 297405,
-      "num": 202784,
+      "num": 208737,
       "word": "员工晒董宇辉白发越来越多",
       "onboard_time": 1712937857,
       "rank": 29,
@@ -137,14 +153,6 @@
       "onboard_time": 1712923519,
       "rank": 12,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 275206,
-      "num": 275206,
-      "word": "陈泽 红娘",
-      "onboard_time": 1712932698,
-      "rank": 34,
-      "category": "游戏,网红"
     },
     {
       "raw_hot": 253878,
@@ -179,20 +187,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 226560,
-      "num": 191381,
-      "word": "杨立新遇害21天前刚收嫌疑人为徒",
-      "onboard_time": 1712940855,
-      "rank": 13,
-      "category": "网红"
-    },
-    {
       "raw_hot": 219203,
       "num": 189790,
       "word": "鹿晗黄子韬再合作",
       "onboard_time": 1712910198,
       "rank": 23,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 209963,
+      "num": 209963,
+      "word": "山西省考",
+      "onboard_time": 1712942653,
+      "rank": 6,
+      "category": "教育"
     },
     {
       "raw_hot": 201855,
@@ -291,6 +299,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 119297,
+      "num": 119297,
+      "word": "男子囤4600多克金条坚决不卖",
+      "onboard_time": 1712941815,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 117166,
       "num": 106654,
       "word": "刘耀文感谢时代峰峻",
@@ -347,6 +363,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 99001,
+      "num": 99001,
+      "word": "周也做猪鼻子",
+      "onboard_time": 1712941576,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 97637,
       "num": 97637,
       "word": "文韬生日会",
@@ -361,14 +385,6 @@
       "onboard_time": 1712916859,
       "rank": 44,
       "category": "演出"
-    },
-    {
-      "raw_hot": 92979,
-      "num": 92979,
-      "word": "周也做猪鼻子",
-      "onboard_time": 1712941576,
-      "rank": 30,
-      "category": "艺人"
     },
     {
       "raw_hot": 91534,
@@ -419,6 +435,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 60215,
+      "num": 60215,
+      "word": "巴黎奥运会",
+      "onboard_time": 1712942474,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 54987,
       "num": 96038,
       "word": "原神前瞻",
@@ -427,12 +451,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 47526,
-      "num": 60091,
-      "word": "男子囤4600多克金条坚决不卖",
-      "onboard_time": 1712941815,
-      "rank": 45,
-      "category": "社会新闻"
+      "raw_hot": 49613,
+      "num": 49613,
+      "word": "于和伟有这么破碎的哭戏进入内娱",
+      "onboard_time": 1712943073,
+      "rank": 41,
+      "category": "剧集,综艺"
     }
   ],
   "hotgov_list": [
@@ -441,6 +465,9 @@
     },
     {
       "word": "#总书记提出两岸同胞要做到四个坚定#"
+    },
+    {
+      "word": "#为人类和平利用太空贡献更多中国智慧#"
     }
   ]
 }
