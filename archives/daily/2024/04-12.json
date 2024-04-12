@@ -1,6 +1,6 @@
 {
   "startTime": 1712852435435,
-  "endTime": 1712928859388,
+  "endTime": 1712931415276,
   "band_list": [
     {
       "raw_hot": 3760420,
@@ -107,6 +107,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1362019,
+      "num": 627026,
+      "word": "杭州确诊一例狂犬病死亡几年前被狗咬",
+      "onboard_time": 1712929938,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1353201,
       "num": 1353201,
       "word": "死亡野生大熊猫为成年雌性",
@@ -204,7 +212,7 @@
     },
     {
       "raw_hot": 958990,
-      "num": 352451,
+      "num": 467652,
       "word": "我从211退学考上了另一所211",
       "onboard_time": 1712926519,
       "rank": 10,
@@ -283,6 +291,14 @@
       "category": "综艺,艺人"
     },
     {
+      "raw_hot": 828005,
+      "num": 828005,
+      "word": "福宝和爷爷乘坐飞机的过程",
+      "onboard_time": 1712925318,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 814364,
       "num": 263747,
       "word": "甜馨送给贾乃亮的生日礼物",
@@ -347,14 +363,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 727426,
-      "num": 727426,
-      "word": "福宝和爷爷乘坐飞机的过程",
-      "onboard_time": 1712925318,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 712108,
       "num": 712108,
       "word": "30万年薪的银行员工要过紧日子了",
@@ -403,6 +411,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 645563,
+      "num": 645563,
+      "word": "连花花都不认识你来看花花",
+      "onboard_time": 1712926637,
+      "rank": 19,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 642953,
       "num": 642953,
       "word": "赵丽颖的伞撑了一个又一个人",
@@ -417,6 +433,14 @@
       "onboard_time": 1712900000,
       "rank": 39,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 621357,
+      "num": 621357,
+      "word": "网红猫一杯涉事公司监事回应处罚",
+      "onboard_time": 1712929578,
+      "rank": 5,
+      "category": "网红"
     },
     {
       "raw_hot": 620881,
@@ -499,6 +523,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 562281,
+      "num": 562281,
+      "word": "承欢记收视率创新高",
+      "onboard_time": 1712928799,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 555126,
       "num": 555126,
       "word": "调休多上一天班为什么这么累",
@@ -521,6 +553,14 @@
       "onboard_time": 1712890457,
       "rank": 12,
       "category": "教育"
+    },
+    {
+      "raw_hot": 543501,
+      "num": 543501,
+      "word": "李溪芮吊带银裙",
+      "onboard_time": 1712927658,
+      "rank": 31,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 543199,
@@ -555,6 +595,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 534457,
+      "num": 379396,
+      "word": "赵露思王安宇拥抱",
+      "onboard_time": 1712920698,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 533793,
       "num": 533793,
       "word": "杨幂 花少好友记",
@@ -585,14 +633,6 @@
       "onboard_time": 1712922377,
       "rank": 13,
       "category": "电影,时尚"
-    },
-    {
-      "raw_hot": 514304,
-      "num": 379396,
-      "word": "赵露思王安宇拥抱",
-      "onboard_time": 1712920698,
-      "rank": 16,
-      "category": "艺人"
     },
     {
       "raw_hot": 507955,
@@ -697,6 +737,14 @@
       "onboard_time": 1712894660,
       "rank": 16,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 433625,
+      "num": 433625,
+      "word": "刘亦菲林更新玫瑰的故事剧照",
+      "onboard_time": 1712930899,
+      "rank": 15,
+      "category": "电影"
     },
     {
       "raw_hot": 430391,
@@ -819,14 +867,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 370095,
-      "num": 370095,
-      "word": "连花花都不认识你来看花花",
-      "onboard_time": 1712926637,
-      "rank": 19,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 368057,
       "num": 368057,
       "word": "微信打电话和直接打电话的区别",
@@ -905,14 +945,6 @@
       "onboard_time": 1712914638,
       "rank": 20,
       "category": "情感"
-    },
-    {
-      "raw_hot": 342182,
-      "num": 342182,
-      "word": "李溪芮吊带银裙",
-      "onboard_time": 1712927658,
-      "rank": 31,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 341752,
@@ -1019,6 +1051,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 312910,
+      "num": 312910,
+      "word": "周扬青浪姐造型",
+      "onboard_time": 1712930360,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 310358,
       "num": 310358,
       "word": "丁程鑫回怼导演组",
@@ -1049,6 +1089,14 @@
       "onboard_time": 1712843660,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 300875,
+      "num": 169138,
+      "word": "宋雨琦戴唇环",
+      "onboard_time": 1712930419,
+      "rank": 25,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 300247,
@@ -1273,6 +1321,14 @@
       "onboard_time": 1712891476,
       "rank": 33,
       "category": "教育"
+    },
+    {
+      "raw_hot": 257808,
+      "num": 158870,
+      "word": "本周做什么都顺的星座",
+      "onboard_time": 1712930598,
+      "rank": 30,
+      "category": "情感"
     },
     {
       "raw_hot": 257357,
@@ -1587,6 +1643,14 @@
       "category": "作品衍生,美妆"
     },
     {
+      "raw_hot": 216688,
+      "num": 168554,
+      "word": "关晓彤暗夜黑纱裙",
+      "onboard_time": 1712929818,
+      "rank": 26,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 216044,
       "num": 216044,
       "word": "梁朝伟不做演员了可以做医生",
@@ -1625,6 +1689,14 @@
       "onboard_time": 1712891897,
       "rank": 48,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 209231,
+      "num": 158748,
+      "word": "刘亦菲阿布扎比库存",
+      "onboard_time": 1712929938,
+      "rank": 31,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 209079,
@@ -1795,6 +1867,14 @@
       "category": "综艺,剧集"
     },
     {
+      "raw_hot": 198450,
+      "num": 157876,
+      "word": "张杰演唱会玩假人挑战",
+      "onboard_time": 1712930899,
+      "rank": 35,
+      "category": "演出"
+    },
+    {
       "raw_hot": 197469,
       "num": 197469,
       "word": "苏打绿郑州",
@@ -1961,6 +2041,14 @@
       "onboard_time": 1712925318,
       "rank": 36,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 189331,
+      "num": 189331,
+      "word": "专家称A股牛市正在孕育中",
+      "onboard_time": 1712927838,
+      "rank": 46,
+      "category": "财经"
     },
     {
       "raw_hot": 189315,
@@ -2211,12 +2299,36 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 170433,
+      "num": 157645,
+      "word": "蒋敦豪后陡门bee King",
+      "onboard_time": 1712929458,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 170101,
+      "num": 157455,
+      "word": "斩虎 巨婴",
+      "onboard_time": 1712931259,
+      "rank": 37,
+      "category": "网红"
+    },
+    {
       "raw_hot": 169883,
       "num": 169883,
       "word": "秦朗丢寒假作业原视频仍未删除",
       "onboard_time": 1712925617,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 169578,
+      "num": 169578,
+      "word": "被广东同事的午饭吓晕",
+      "onboard_time": 1712929578,
+      "rank": 24,
+      "category": "美食"
     },
     {
       "raw_hot": 167329,
@@ -2235,27 +2347,11 @@
       "category": "艺人,作品衍生"
     },
     {
-      "raw_hot": 167017,
-      "num": 167017,
-      "word": "承欢记收视率创新高",
-      "onboard_time": 1712928799,
-      "rank": 35,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 166570,
       "num": 166570,
       "word": "A股",
       "onboard_time": 1712893037,
       "rank": 48,
-      "category": "财经"
-    },
-    {
-      "raw_hot": 166548,
-      "num": 166548,
-      "word": "专家称A股牛市正在孕育中",
-      "onboard_time": 1712927838,
-      "rank": 46,
       "category": "财经"
     },
     {
@@ -2323,6 +2419,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 158993,
+      "num": 158993,
+      "word": "吴金贵谈特谢拉",
+      "onboard_time": 1712930419,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 157013,
       "num": 157013,
       "word": "情侣出去旅游AA吗",
@@ -2337,6 +2441,14 @@
       "onboard_time": 1712847139,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 156493,
+      "num": 158050,
+      "word": "中信证券收到证监会立案告知书",
+      "onboard_time": 1712929637,
+      "rank": 34,
+      "category": "财经"
     },
     {
       "raw_hot": 156015,
@@ -2529,6 +2641,14 @@
       "onboard_time": 1712910798,
       "rank": 48,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 145121,
+      "num": 145121,
+      "word": "肛门指检的重要性",
+      "onboard_time": 1712930958,
+      "rank": 47,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 143672,
@@ -2907,6 +3027,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 93331,
+      "num": 628779,
+      "word": "中国航天员拍的地球家园好震撼",
+      "onboard_time": 1712929698,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 93147,
       "num": 93147,
       "word": "太喜欢爱记录的朋友了",
@@ -3059,19 +3187,19 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 53706,
+      "num": 312858,
+      "word": "米里米气的iCAR品牌发布会",
+      "onboard_time": 1712927537,
+      "rank": 32,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 53540,
       "num": 490435,
       "word": "魏建军直播首秀实测智驾",
       "onboard_time": 1712894420,
       "rank": 14,
-      "category": "汽车"
-    },
-    {
-      "raw_hot": 52996,
-      "num": 286681,
-      "word": "米里米气的iCAR品牌发布会",
-      "onboard_time": 1712927537,
-      "rank": 32,
       "category": "汽车"
     },
     {
@@ -3161,6 +3289,14 @@
       "onboard_time": 1712895740,
       "rank": 29,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 26721,
+      "num": 158325,
+      "word": "新浪游戏今天请假",
+      "onboard_time": 1712929458,
+      "rank": 33,
+      "category": "游戏"
     },
     {
       "raw_hot": 26012,
@@ -3282,6 +3418,9 @@
     },
     {
       "word": "#为人类和平利用太空贡献更多中国智慧#"
+    },
+    {
+      "word": "#中国和苏里南友谊源远流长历久弥坚#"
     }
   ]
 }
