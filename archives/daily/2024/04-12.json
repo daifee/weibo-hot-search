@@ -1,6 +1,6 @@
 {
   "startTime": 1712852435435,
-  "endTime": 1712914486716,
+  "endTime": 1712917151282,
   "band_list": [
     {
       "raw_hot": 2365529,
@@ -57,6 +57,14 @@
       "onboard_time": 1712891237,
       "rank": 6,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1676864,
+      "num": 1676864,
+      "word": "乘风2024官宣",
+      "onboard_time": 1712913739,
+      "rank": 1,
+      "category": "综艺"
     },
     {
       "raw_hot": 1497090,
@@ -131,14 +139,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 1114249,
-      "num": 1114249,
-      "word": "乘风2024官宣",
-      "onboard_time": 1712913739,
-      "rank": 1,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 1049817,
       "num": 1049817,
       "word": "欺负同学被集体劝退的孩子已在家上网课",
@@ -187,6 +187,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 937635,
+      "num": 937635,
+      "word": "迪丽热巴还在戴毛线帽",
+      "onboard_time": 1712914818,
+      "rank": 4,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 931053,
       "num": 931053,
       "word": "黄金再次爆发",
@@ -196,7 +204,7 @@
     },
     {
       "raw_hot": 916467,
-      "num": 497174,
+      "num": 643859,
       "word": "有没有性生活都一定要做4项妇科检查",
       "onboard_time": 1712907858,
       "rank": 10,
@@ -299,6 +307,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 692881,
+      "num": 692881,
+      "word": "王俊凯春节胖15斤",
+      "onboard_time": 1712913797,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 687376,
       "num": 487069,
       "word": "Sunnee熊梓淇方声明",
@@ -313,6 +329,14 @@
       "onboard_time": 1712895679,
       "rank": 47,
       "category": "演出"
+    },
+    {
+      "raw_hot": 643209,
+      "num": 643209,
+      "word": "杜海涛当沈梦辰的专属模特",
+      "onboard_time": 1712915958,
+      "rank": 11,
+      "category": "综艺,艺人"
     },
     {
       "raw_hot": 642953,
@@ -739,6 +763,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 345643,
+      "num": 305658,
+      "word": "人近三十朋友圈迎来大面积关闭潮",
+      "onboard_time": 1712914638,
+      "rank": 20,
+      "category": "情感"
+    },
+    {
       "raw_hot": 341752,
       "num": 341752,
       "word": "偏偏你最争气",
@@ -777,14 +809,6 @@
       "onboard_time": 1712905277,
       "rank": 21,
       "category": "演出"
-    },
-    {
-      "raw_hot": 326753,
-      "num": 326753,
-      "word": "王俊凯春节胖15斤",
-      "onboard_time": 1712913797,
-      "rank": 19,
-      "category": "综艺"
     },
     {
       "raw_hot": 324880,
@@ -955,6 +979,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 270617,
+      "num": 270617,
+      "word": "魏大勋又说韩语了",
+      "onboard_time": 1712916798,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 270567,
       "num": 270567,
       "word": "中国B级轿车整体失守20万元价格线",
@@ -979,6 +1011,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 265560,
+      "num": 645705,
+      "word": "优秀的小狗也上交国家了",
+      "onboard_time": 1712915418,
+      "rank": 8,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 263275,
+      "num": 263275,
+      "word": "警方通报男子当街连捅数刀致1死",
+      "onboard_time": 1712915358,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 262479,
       "num": 262479,
       "word": "湖北省考 什么时候出",
@@ -1001,6 +1049,14 @@
       "onboard_time": 1712848519,
       "rank": 14,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 259469,
+      "num": 643879,
+      "word": "小学生多看两眼帮铲除339株罂粟",
+      "onboard_time": 1712912419,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 259399,
@@ -1267,14 +1323,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 219345,
-      "num": 502201,
-      "word": "小学生多看两眼帮铲除339株罂粟",
-      "onboard_time": 1712912419,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 219045,
       "num": 219045,
       "word": "RNG将拍卖奖杯",
@@ -1363,6 +1411,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 207094,
+      "num": 181262,
+      "word": "五月天官宣演唱会",
+      "onboard_time": 1712916859,
+      "rank": 31,
+      "category": "演出"
+    },
+    {
       "raw_hot": 206720,
       "num": 206720,
       "word": "怪不得新一和基德长得像",
@@ -1393,6 +1449,14 @@
       "onboard_time": 1712865370,
       "rank": 37,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 201627,
+      "num": 201627,
+      "word": "鞠婧祎双丸子头女高",
+      "onboard_time": 1712915178,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 201252,
@@ -1480,6 +1544,14 @@
       "word": "易烊千玺近距离生图",
       "onboard_time": 1712885419,
       "rank": 38,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 193731,
+      "num": 193731,
+      "word": "Silence Wang",
+      "onboard_time": 1712916618,
+      "rank": 27,
       "category": "艺人"
     },
     {
@@ -1867,6 +1939,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 153359,
+      "num": 153359,
+      "word": "原来非遗宣纸才是真正的奢侈品",
+      "onboard_time": 1712916198,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 152581,
       "num": 152581,
       "word": "纪凌尘嗦冰棍",
@@ -1905,6 +1985,14 @@
       "onboard_time": 1712886558,
       "rank": 36,
       "category": "财经"
+    },
+    {
+      "raw_hot": 150663,
+      "num": 150663,
+      "word": "尚雯婕杀回选秀了",
+      "onboard_time": 1712915838,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 149405,
@@ -2067,6 +2155,22 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 125701,
+      "num": 125701,
+      "word": "国羽满额出战巴黎奥运会",
+      "onboard_time": 1712915538,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 123446,
+      "num": 123446,
+      "word": "如何让自己身上的班味越来越淡",
+      "onboard_time": 1712914938,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 123299,
       "num": 110649,
       "word": "承欢记收视率",
@@ -2099,8 +2203,8 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 117663,
-      "num": 409811,
+      "raw_hot": 118385,
+      "num": 429754,
       "word": "宝骏把高阶智驾从50万打到10万",
       "onboard_time": 1712913018,
       "rank": 31,
@@ -2243,6 +2347,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 95850,
+      "num": 1058968,
+      "word": "诗经里的绝美中国色",
+      "onboard_time": 1712912298,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 95768,
       "num": 95768,
       "word": "韩女发圈发型",
@@ -2289,14 +2401,6 @@
       "onboard_time": 1712842998,
       "rank": 44,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 86631,
-      "num": 1058968,
-      "word": "诗经里的绝美中国色",
-      "onboard_time": 1712912298,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 85641,
@@ -2411,6 +2515,22 @@
       "category": "演出"
     },
     {
+      "raw_hot": 37006,
+      "num": 124276,
+      "word": "宝骏悦也Plus售价9.38万起",
+      "onboard_time": 1712914517,
+      "rank": 47,
+      "category": "汽车"
+    },
+    {
+      "raw_hot": 35586,
+      "num": 193057,
+      "word": "宝骏今年发布四款新车",
+      "onboard_time": 1712916318,
+      "rank": 28,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 35087,
       "num": 47903,
       "word": "大牌包包分享",
@@ -2425,6 +2545,14 @@
       "onboard_time": 1712858892,
       "rank": 37,
       "category": "演出"
+    },
+    {
+      "raw_hot": 30381,
+      "num": 161545,
+      "word": "Joker回来了",
+      "onboard_time": 1712914517,
+      "rank": 33,
+      "category": "游戏"
     },
     {
       "raw_hot": 28195,
@@ -2457,6 +2585,14 @@
       "onboard_time": 1712855714,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 23611,
+      "num": 341577,
+      "word": "高段位东京citywalk",
+      "onboard_time": 1712914578,
+      "rank": 17,
+      "category": "游戏"
     },
     {
       "raw_hot": 22978,

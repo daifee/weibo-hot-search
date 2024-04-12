@@ -1,6 +1,6 @@
 {
   "startTime": 1712420539476,
-  "endTime": 1712914486716,
+  "endTime": 1712917151282,
   "band_list": [
     {
       "raw_hot": 9583581,
@@ -329,6 +329,14 @@
       "onboard_time": 1712577139,
       "rank": 5,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 1676864,
+      "num": 1676864,
+      "word": "乘风2024官宣",
+      "onboard_time": 1712913739,
+      "rank": 1,
+      "category": "综艺"
     },
     {
       "raw_hot": 1672498,
@@ -987,14 +995,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 1114249,
-      "num": 1114249,
-      "word": "乘风2024官宣",
-      "onboard_time": 1712913739,
-      "rank": 1,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 1107038,
       "num": 1107038,
       "word": "刘昊然否认和陈思诚绑定",
@@ -1387,6 +1387,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 937635,
+      "num": 937635,
+      "word": "迪丽热巴还在戴毛线帽",
+      "onboard_time": 1712914818,
+      "rank": 4,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 934805,
       "num": 934805,
       "word": "南昌公交事故司机当时心脏不适失去意识",
@@ -1468,7 +1476,7 @@
     },
     {
       "raw_hot": 916467,
-      "num": 497174,
+      "num": 643859,
       "word": "有没有性生活都一定要做4项妇科检查",
       "onboard_time": 1712907858,
       "rank": 10,
@@ -2467,6 +2475,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 692881,
+      "num": 692881,
+      "word": "王俊凯春节胖15斤",
+      "onboard_time": 1712913797,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 691194,
       "num": 691194,
       "word": "外卖小哥连续3年住15元一晚宾馆",
@@ -2697,6 +2713,14 @@
       "onboard_time": 1712664559,
       "rank": 4,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 643209,
+      "num": 643209,
+      "word": "杜海涛当沈梦辰的专属模特",
+      "onboard_time": 1712915958,
+      "rank": 11,
+      "category": "综艺,艺人"
     },
     {
       "raw_hot": 642953,
@@ -5787,6 +5811,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 345643,
+      "num": 305658,
+      "word": "人近三十朋友圈迎来大面积关闭潮",
+      "onboard_time": 1712914638,
+      "rank": 20,
+      "category": "情感"
+    },
+    {
       "raw_hot": 343844,
       "num": 343844,
       "word": "开始推理吧",
@@ -6065,14 +6097,6 @@
       "onboard_time": 1712531174,
       "rank": 10,
       "category": "体育"
-    },
-    {
-      "raw_hot": 326753,
-      "num": 326753,
-      "word": "王俊凯春节胖15斤",
-      "onboard_time": 1712913797,
-      "rank": 19,
-      "category": "综艺"
     },
     {
       "raw_hot": 326657,
@@ -7291,6 +7315,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 270617,
+      "num": 270617,
+      "word": "魏大勋又说韩语了",
+      "onboard_time": 1712916798,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 270567,
       "num": 270567,
       "word": "中国B级轿车整体失守20万元价格线",
@@ -7387,6 +7419,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 265560,
+      "num": 645705,
+      "word": "优秀的小狗也上交国家了",
+      "onboard_time": 1712915418,
+      "rank": 8,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 265022,
       "num": 242705,
       "word": "小鬼朱正廷王子异直播",
@@ -7409,6 +7449,14 @@
       "onboard_time": 1712594715,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 263275,
+      "num": 263275,
+      "word": "警方通报男子当街连捅数刀致1死",
+      "onboard_time": 1712915358,
+      "rank": 22,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 262479,
@@ -7521,6 +7569,14 @@
       "onboard_time": 1712563278,
       "rank": 26,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 259469,
+      "num": 643879,
+      "word": "小学生多看两眼帮铲除339株罂粟",
+      "onboard_time": 1712912419,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 259399,
@@ -9043,14 +9099,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 219345,
-      "num": 502201,
-      "word": "小学生多看两眼帮铲除339株罂粟",
-      "onboard_time": 1712912419,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 219233,
       "num": 219233,
       "word": "与凤行团综",
@@ -9611,6 +9659,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 207094,
+      "num": 181262,
+      "word": "五月天官宣演唱会",
+      "onboard_time": 1712916859,
+      "rank": 31,
+      "category": "演出"
+    },
+    {
       "raw_hot": 207009,
       "num": 207009,
       "word": "LGD BP",
@@ -10163,6 +10219,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 201627,
+      "num": 201627,
+      "word": "鞠婧祎双丸子头女高",
+      "onboard_time": 1712915178,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 201500,
       "num": 201500,
       "word": "王一博能不能拍一部卧底剧",
@@ -10704,6 +10768,14 @@
       "word": "易烊千玺近距离生图",
       "onboard_time": 1712885419,
       "rank": 38,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 193731,
+      "num": 193731,
+      "word": "Silence Wang",
+      "onboard_time": 1712916618,
+      "rank": 27,
       "category": "艺人"
     },
     {
@@ -13235,6 +13307,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 153359,
+      "num": 153359,
+      "word": "原来非遗宣纸才是真正的奢侈品",
+      "onboard_time": 1712916198,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 153111,
       "num": 153111,
       "word": "长时间晒太阳的危害有多大",
@@ -13433,6 +13513,14 @@
       "onboard_time": 1712886558,
       "rank": 36,
       "category": "财经"
+    },
+    {
+      "raw_hot": 150663,
+      "num": 150663,
+      "word": "尚雯婕杀回选秀了",
+      "onboard_time": 1712915838,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 150649,
@@ -15011,6 +15099,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 125701,
+      "num": 125701,
+      "word": "国羽满额出战巴黎奥运会",
+      "onboard_time": 1712915538,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 125624,
       "num": 125624,
       "word": "周杰伦长沙演唱会将实名入场",
@@ -15145,6 +15241,14 @@
       "onboard_time": 1712632038,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 123446,
+      "num": 123446,
+      "word": "如何让自己身上的班味越来越淡",
+      "onboard_time": 1712914938,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 123290,
@@ -15419,6 +15523,14 @@
       "category": "幽默,艺人"
     },
     {
+      "raw_hot": 118385,
+      "num": 429754,
+      "word": "宝骏把高阶智驾从50万打到10万",
+      "onboard_time": 1712913018,
+      "rank": 31,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 117934,
       "num": 117934,
       "word": "湖南省考成绩",
@@ -15441,14 +15553,6 @@
       "onboard_time": 1712650877,
       "rank": 49,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 117663,
-      "num": 409811,
-      "word": "宝骏把高阶智驾从50万打到10万",
-      "onboard_time": 1712913018,
-      "rank": 31,
-      "category": "汽车"
     },
     {
       "raw_hot": 117293,
@@ -15963,6 +16067,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 95850,
+      "num": 1058968,
+      "word": "诗经里的绝美中国色",
+      "onboard_time": 1712912298,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 95088,
       "num": 477642,
       "word": "警惕这些胃病早期症状",
@@ -16137,14 +16249,6 @@
       "onboard_time": 1712763918,
       "rank": 47,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 86631,
-      "num": 1058968,
-      "word": "诗经里的绝美中国色",
-      "onboard_time": 1712912298,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 86089,
@@ -16875,6 +16979,22 @@
       "category": "演出"
     },
     {
+      "raw_hot": 37006,
+      "num": 124276,
+      "word": "宝骏悦也Plus售价9.38万起",
+      "onboard_time": 1712914517,
+      "rank": 47,
+      "category": "汽车"
+    },
+    {
+      "raw_hot": 35586,
+      "num": 193057,
+      "word": "宝骏今年发布四款新车",
+      "onboard_time": 1712916318,
+      "rank": 28,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 35379,
       "num": 35379,
       "word": "电视剧品质盛典",
@@ -16929,6 +17049,14 @@
       "onboard_time": 1712686153,
       "rank": 39,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 30381,
+      "num": 161545,
+      "word": "Joker回来了",
+      "onboard_time": 1712914517,
+      "rank": 33,
+      "category": "游戏"
     },
     {
       "raw_hot": 30026,
@@ -17057,6 +17185,14 @@
       "onboard_time": 1712718018,
       "rank": 14,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 23611,
+      "num": 341577,
+      "word": "高段位东京citywalk",
+      "onboard_time": 1712914578,
+      "rank": 17,
+      "category": "游戏"
     },
     {
       "raw_hot": 23427,
