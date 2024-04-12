@@ -1,6 +1,6 @@
 {
   "startTime": 1712420539476,
-  "endTime": 1712900135924,
+  "endTime": 1712902981871,
   "band_list": [
     {
       "raw_hot": 9583581,
@@ -2187,6 +2187,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 717190,
+      "num": 717190,
+      "word": "林更新186的身高147的体重",
+      "onboard_time": 1712899700,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 716278,
       "num": 716278,
       "word": "王者荣耀 酷洛米",
@@ -3059,12 +3067,28 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 579020,
+      "num": 579020,
+      "word": "杨紫裤子不合身",
+      "onboard_time": 1712901739,
+      "rank": 5,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 578223,
       "num": 638022,
       "word": "丫丫的春笋是XXXXL号",
       "onboard_time": 1712885358,
       "rank": 37,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 575647,
+      "num": 575647,
+      "word": "侯雯元枕上了钟楚曦送的枕头",
+      "onboard_time": 1712900000,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 575332,
@@ -3169,6 +3193,14 @@
       "onboard_time": 1712713217,
       "rank": 6,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 552568,
+      "num": 552568,
+      "word": "一个普通女生的3个7年",
+      "onboard_time": 1712897899,
+      "rank": 30,
+      "category": "情感"
     },
     {
       "raw_hot": 552555,
@@ -3601,6 +3633,14 @@
       "onboard_time": 1712628977,
       "rank": 33,
       "category": "汽车,财经"
+    },
+    {
+      "raw_hot": 500494,
+      "num": 329364,
+      "word": "体制内六件套",
+      "onboard_time": 1712899279,
+      "rank": 21,
+      "category": "幽默"
     },
     {
       "raw_hot": 499924,
@@ -4355,14 +4395,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 438939,
-      "num": 438939,
-      "word": "一个普通女生的3个7年",
-      "onboard_time": 1712897899,
-      "rank": 30,
-      "category": "情感"
-    },
-    {
       "raw_hot": 438395,
       "num": 438395,
       "word": "日全食",
@@ -4457,6 +4489,14 @@
       "onboard_time": 1712548940,
       "rank": 16,
       "category": "电影"
+    },
+    {
+      "raw_hot": 431579,
+      "num": 431579,
+      "word": "赵丽颖的伞撑了一个又一个人",
+      "onboard_time": 1712901798,
+      "rank": 11,
+      "category": "剧集"
     },
     {
       "raw_hot": 430391,
@@ -4777,14 +4817,6 @@
       "onboard_time": 1712476399,
       "rank": 22,
       "category": "情感"
-    },
-    {
-      "raw_hot": 398725,
-      "num": 329364,
-      "word": "体制内六件套",
-      "onboard_time": 1712899279,
-      "rank": 21,
-      "category": "幽默"
     },
     {
       "raw_hot": 397645,
@@ -5627,6 +5659,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 337455,
+      "num": 337455,
+      "word": "摩友旅行遇疑似未成年熊猫坠河死亡",
+      "onboard_time": 1712897659,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 337048,
       "num": 337048,
       "word": "赵丽颖戴在人间口罩",
@@ -5641,14 +5681,6 @@
       "onboard_time": 1712847499,
       "rank": 24,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 336575,
-      "num": 336575,
-      "word": "林更新186的身高147的体重",
-      "onboard_time": 1712899700,
-      "rank": 18,
-      "category": "综艺"
     },
     {
       "raw_hot": 335805,
@@ -5681,14 +5713,6 @@
       "onboard_time": 1712543359,
       "rank": 33,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 334328,
-      "num": 334328,
-      "word": "摩友旅行遇疑似未成年熊猫坠河死亡",
-      "onboard_time": 1712897659,
-      "rank": 19,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 333821,
@@ -6483,6 +6507,14 @@
       "category": "游戏,互联网"
     },
     {
+      "raw_hot": 292932,
+      "num": 242117,
+      "word": "衣服买一件两百的还是五件四十的",
+      "onboard_time": 1712900358,
+      "rank": 23,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 292054,
       "num": 262110,
       "word": "有些糖尿病可能是睡出来的",
@@ -7275,6 +7307,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 258598,
+      "num": 258598,
+      "word": "丁程鑫回怼导演组",
+      "onboard_time": 1712901439,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 258523,
       "num": 258523,
       "word": "陈凯歌王一博或将合作",
@@ -7713,6 +7753,14 @@
       "onboard_time": 1712499681,
       "rank": 30,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 246640,
+      "num": 246640,
+      "word": "调休多上一天班为什么这么累",
+      "onboard_time": 1712898977,
+      "rank": 42,
+      "category": "幽默"
     },
     {
       "raw_hot": 246616,
@@ -8163,6 +8211,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 232868,
+      "num": 232868,
+      "word": "林更新风度四月刊封面",
+      "onboard_time": 1712900418,
+      "rank": 26,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 232294,
       "num": 232294,
       "word": "林娜琏将6月solo回归",
@@ -8611,6 +8667,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 220850,
+      "num": 220850,
+      "word": "首饰金价一夜飙升15元每克",
+      "onboard_time": 1712901558,
+      "rank": 30,
+      "category": "财经"
+    },
+    {
       "raw_hot": 220610,
       "num": 220610,
       "word": "工藤新一和怪盗基德是堂兄弟",
@@ -8665,6 +8729,14 @@
       "onboard_time": 1712751019,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 219045,
+      "num": 219045,
+      "word": "RNG将拍卖奖杯",
+      "onboard_time": 1712899638,
+      "rank": 38,
+      "category": "电竞"
     },
     {
       "raw_hot": 218875,
@@ -8777,14 +8849,6 @@
       "onboard_time": 1712819838,
       "rank": 17,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 216293,
-      "num": 216293,
-      "word": "调休多上一天班为什么这么累",
-      "onboard_time": 1712898977,
-      "rank": 42,
-      "category": "幽默"
     },
     {
       "raw_hot": 216244,
@@ -9467,6 +9531,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 204262,
+      "num": 204262,
+      "word": "原来明星的朋友圈跟我们的一样",
+      "onboard_time": 1712902218,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 204247,
       "num": 149918,
       "word": "赵丽颖给林更新贴条",
@@ -10131,14 +10203,6 @@
       "category": "作品衍生,美妆"
     },
     {
-      "raw_hot": 195149,
-      "num": 195149,
-      "word": "RNG将拍卖奖杯",
-      "onboard_time": 1712899638,
-      "rank": 38,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 195066,
       "num": 195066,
       "word": "整治中小学暗箱操作掐尖招生乱象",
@@ -10288,14 +10352,6 @@
       "word": "萧敬腾谈跟林有慧结婚细节眼眶红了",
       "onboard_time": 1712466080,
       "rank": 30,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 193218,
-      "num": 193218,
-      "word": "侯雯元枕上了钟楚曦送的枕头",
-      "onboard_time": 1712900000,
-      "rank": 39,
       "category": "综艺"
     },
     {
@@ -13067,6 +13123,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 147126,
+      "num": 147126,
+      "word": "打工时间约会有种偷感",
+      "onboard_time": 1712902340,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 146822,
       "num": 137798,
       "word": "1杯茶可杀死口中99.9%的新冠病毒",
@@ -13113,6 +13177,14 @@
       "onboard_time": 1712623518,
       "rank": 44,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 146161,
+      "num": 146161,
+      "word": "问界新M5实车曝光",
+      "onboard_time": 1712901678,
+      "rank": 41,
+      "category": "汽车"
     },
     {
       "raw_hot": 145855,
@@ -13721,6 +13793,14 @@
       "onboard_time": 1712739919,
       "rank": 39,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 136585,
+      "num": 136585,
+      "word": "林更新无袖衬衫",
+      "onboard_time": 1712900418,
+      "rank": 43,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 136558,
@@ -14595,6 +14675,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 121362,
+      "num": 121362,
+      "word": "溺亡大熊猫表面无明显人为伤",
+      "onboard_time": 1712902878,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 121334,
       "num": 121334,
       "word": "与凤行今日收官",
@@ -15179,6 +15267,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 97543,
+      "num": 285708,
+      "word": "卡琳娜Joker杀疯了",
+      "onboard_time": 1712900418,
+      "rank": 15,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 97128,
       "num": 97128,
       "word": "眼泪女王预告",
@@ -15737,6 +15833,14 @@
       "onboard_time": 1712807419,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 68497,
+      "num": 245163,
+      "word": "第一次见用外卖备注追星的",
+      "onboard_time": 1712901857,
+      "rank": 21,
+      "category": "幽默,艺人"
     },
     {
       "raw_hot": 68416,
@@ -16315,6 +16419,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 22978,
+      "num": 220965,
+      "word": "中二病最喜欢的一集",
+      "onboard_time": 1712899218,
+      "rank": 29,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 22321,
       "num": 28122,
       "word": "汉服对一个普通人改变有多大",
@@ -16481,14 +16593,6 @@
       "onboard_time": 1712696290,
       "rank": 44,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 14261,
-      "num": 216822,
-      "word": "中二病最喜欢的一集",
-      "onboard_time": 1712899218,
-      "rank": 29,
-      "category": "动漫"
     },
     {
       "raw_hot": 13804,
