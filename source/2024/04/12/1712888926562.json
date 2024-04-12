@@ -1,0 +1,410 @@
+{
+  "runTime": 1712888926562,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1446267,
+        "num": 1446267,
+        "word": "歌手朴宝蓝去世",
+        "onboard_time": 1712878996,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1415122,
+        "num": 1415122,
+        "word": "工藤新一不能考公了",
+        "onboard_time": 1712879238,
+        "rank": 1,
+        "category": "电影,动漫"
+      },
+      {
+        "raw_hot": 46674,
+        "num": 1223000,
+        "word": "广西三月三到底有多好玩",
+        "onboard_time": 1712838378,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1135758,
+        "num": 1135758,
+        "word": "人老了为什么身上会有味",
+        "onboard_time": 1712884458,
+        "rank": 3,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 1023620,
+        "num": 1023620,
+        "word": "拜登承诺将用核武器保护日本",
+        "onboard_time": 1712884398,
+        "rank": 4,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 931053,
+        "num": 931053,
+        "word": "黄金再次爆发",
+        "onboard_time": 1712883979,
+        "rank": 5,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 743939,
+        "num": 743939,
+        "word": "警方通报女子赤身在大学男寝打砸",
+        "onboard_time": 1712880078,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 708291,
+        "num": 708291,
+        "word": "五一其实只放1天",
+        "onboard_time": 1712885958,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 657287,
+        "num": 657287,
+        "word": "30万年薪的银行员工要过紧日子了",
+        "onboard_time": 1712883439,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 578223,
+        "num": 638022,
+        "word": "丫丫的春笋是XXXXL号",
+        "onboard_time": 1712885358,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1018045,
+        "num": 636554,
+        "word": "金价",
+        "onboard_time": 1712883919,
+        "rank": 10,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 619594,
+        "num": 619594,
+        "word": "韩警方调查歌手朴宝蓝死因",
+        "onboard_time": 1712885058,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 618096,
+        "num": 618096,
+        "word": "教资成绩今日可查",
+        "onboard_time": 1712883679,
+        "rank": 12,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 558392,
+        "num": 558392,
+        "word": "苹果市值一夜暴涨8113亿",
+        "onboard_time": 1712880198,
+        "rank": 13,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 502516,
+        "num": 502516,
+        "word": "下下周依旧是上6天班",
+        "onboard_time": 1712883620,
+        "rank": 14,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 502116,
+        "num": 502116,
+        "word": "金玟庭接受气胸手术",
+        "onboard_time": 1712883919,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 473728,
+        "num": 473728,
+        "word": "辛普森去世",
+        "onboard_time": 1712848759,
+        "rank": 16,
+        "category": "社会新闻,体育"
+      },
+      {
+        "raw_hot": 415335,
+        "num": 415335,
+        "word": "朴宝蓝正在准备正规专辑",
+        "onboard_time": 1712885540,
+        "rank": 17,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 360663,
+        "num": 360663,
+        "word": "cp粉悬着的心终于死了",
+        "onboard_time": 1712844618,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 239030,
+        "num": 239030,
+        "word": "iPhoneSE4规格曝光",
+        "onboard_time": 1712888179,
+        "rank": 19,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 414742,
+        "num": 237528,
+        "word": "闺蜜上岸第一剑斩的是我",
+        "onboard_time": 1712885058,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 299993,
+        "num": 233163,
+        "word": "猫 咋了妈",
+        "onboard_time": 1712883679,
+        "rank": 21,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 225043,
+        "num": 225043,
+        "word": "中国B级轿车整体失守20万元价格线",
+        "onboard_time": 1712886438,
+        "rank": 22,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 320544,
+        "num": 222760,
+        "word": "林更新下部戏是玫瑰的故事",
+        "onboard_time": 1712886498,
+        "rank": 23,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 219013,
+        "num": 219013,
+        "word": "五一调休放5天",
+        "onboard_time": 1712879356,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 207065,
+        "num": 207065,
+        "word": "种地吧直播",
+        "onboard_time": 1712888057,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 193761,
+        "num": 193761,
+        "word": "易烊千玺近距离生图",
+        "onboard_time": 1712885419,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 192341,
+        "num": 192341,
+        "word": "王者荣耀酷洛米",
+        "onboard_time": 1712888299,
+        "rank": 27,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 189727,
+        "num": 189727,
+        "word": "魏大勋35岁生日海报",
+        "onboard_time": 1712881940,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 185347,
+        "num": 185347,
+        "word": "小乐言评论区",
+        "onboard_time": 1712884458,
+        "rank": 29,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 185332,
+        "num": 185332,
+        "word": "林更新回应杀青那天哭了",
+        "onboard_time": 1712879777,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 183417,
+        "num": 183417,
+        "word": "教资面试",
+        "onboard_time": 1712885000,
+        "rank": 31,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 180687,
+        "num": 180687,
+        "word": "时团代言美团",
+        "onboard_time": 1712881879,
+        "rank": 32,
+        "category": "艺人,互联网"
+      },
+      {
+        "raw_hot": 163346,
+        "num": 163346,
+        "word": "杨紫的执念",
+        "onboard_time": 1712885717,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 157013,
+        "num": 157013,
+        "word": "情侣出去旅游AA吗",
+        "onboard_time": 1712888179,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 154524,
+        "num": 154524,
+        "word": "血压高多吃两种水果能延寿",
+        "onboard_time": 1712885898,
+        "rank": 35,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 150766,
+        "num": 150766,
+        "word": "金价续创历史新高",
+        "onboard_time": 1712886558,
+        "rank": 36,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 146762,
+        "num": 146762,
+        "word": "部分水贝黄金加工企业停工放假",
+        "onboard_time": 1712888477,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 142778,
+        "num": 142778,
+        "word": "朴彩英三吉彩花同框",
+        "onboard_time": 1712888657,
+        "rank": 38,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 135000,
+        "num": 135000,
+        "word": "你真的不爱调休拼长假吗",
+        "onboard_time": 1712884819,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 134898,
+        "num": 134898,
+        "word": "可以不喜欢但请相互尊重",
+        "onboard_time": 1712886739,
+        "rank": 40,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 134337,
+        "num": 134337,
+        "word": "官方将处理无资质小米SU7跑网约车平台",
+        "onboard_time": 1712881998,
+        "rank": 41,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 130803,
+        "num": 130803,
+        "word": "李现四月两部剧要一起播",
+        "onboard_time": 1712888778,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 124133,
+        "num": 124133,
+        "word": "电影一顿火锅预售开启",
+        "onboard_time": 1712888898,
+        "rank": 43,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 122632,
+        "num": 122632,
+        "word": "赵丽颖2020年就确认出演与凤行了",
+        "onboard_time": 1712861351,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 116697,
+        "num": 116697,
+        "word": "少吃和运动哪个更容易瘦",
+        "onboard_time": 1712876536,
+        "rank": 45,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 114238,
+        "num": 114238,
+        "word": "和女朋友出去旅游像搬家一样",
+        "onboard_time": 1712883499,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 112407,
+        "num": 112407,
+        "word": "才知道医学生不用学毕业论文",
+        "onboard_time": 1712847920,
+        "rank": 47,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 110921,
+        "num": 110921,
+        "word": "雷军说余承东调侃小米手机支架没事",
+        "onboard_time": 1712846358,
+        "rank": 48,
+        "category": "数码,互联网"
+      },
+      {
+        "raw_hot": 120095,
+        "num": 110460,
+        "word": "林更新称呼赵丽颖赵老师",
+        "onboard_time": 1712848219,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#任何分裂国家的图谋注定不会得逞#"
+    }
+  }
+}

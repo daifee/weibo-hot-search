@@ -1,6 +1,6 @@
 {
   "startTime": 1712420539476,
-  "endTime": 1712885575194,
+  "endTime": 1712888926562,
   "band_list": [
     {
       "raw_hot": 9583581,
@@ -883,6 +883,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 1135758,
+      "num": 1135758,
+      "word": "人老了为什么身上会有味",
+      "onboard_time": 1712884458,
+      "rank": 15,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 1128422,
       "num": 1128422,
       "word": "chiikawa作者",
@@ -1139,6 +1147,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1023620,
+      "num": 1023620,
+      "word": "拜登承诺将用核武器保护日本",
+      "onboard_time": 1712884398,
+      "rank": 46,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 1015873,
       "num": 830983,
       "word": "孙俪想知道邓超在证明啥",
@@ -1273,6 +1289,14 @@
       "onboard_time": 1712555418,
       "rank": 3,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 931053,
+      "num": 931053,
+      "word": "黄金再次爆发",
+      "onboard_time": 1712883979,
+      "rank": 33,
+      "category": "财经"
     },
     {
       "raw_hot": 927838,
@@ -1795,14 +1819,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 776643,
-      "num": 776643,
-      "word": "拜登承诺将用核武器保护日本",
-      "onboard_time": 1712884398,
-      "rank": 46,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 776242,
       "num": 776242,
       "word": "承欢记收视率",
@@ -2171,6 +2187,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 708291,
+      "num": 708291,
+      "word": "五一其实只放1天",
+      "onboard_time": 1712885958,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 705708,
       "num": 324011,
       "word": "赵丽颖扇子上写的叫爸爸",
@@ -2427,6 +2451,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 657287,
+      "num": 657287,
+      "word": "30万年薪的银行员工要过紧日子了",
+      "onboard_time": 1712883439,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 653407,
       "num": 653407,
       "word": "林更新回应34岁拍仙侠",
@@ -2619,6 +2651,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 619594,
+      "num": 619594,
+      "word": "韩警方调查歌手朴宝蓝死因",
+      "onboard_time": 1712885058,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 618814,
       "num": 618814,
       "word": "雷军奖励王腾小米su7",
@@ -2633,6 +2673,14 @@
       "onboard_time": 1712406378,
       "rank": 4,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 618096,
+      "num": 618096,
+      "word": "教资成绩今日可查",
+      "onboard_time": 1712883679,
+      "rank": 13,
+      "category": "教育"
     },
     {
       "raw_hot": 615536,
@@ -2713,14 +2761,6 @@
       "onboard_time": 1712582720,
       "rank": 30,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 605587,
-      "num": 605587,
-      "word": "韩警方调查歌手朴宝蓝死因",
-      "onboard_time": 1712885058,
-      "rank": 11,
-      "category": "艺人"
     },
     {
       "raw_hot": 605544,
@@ -2931,6 +2971,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 578223,
+      "num": 638022,
+      "word": "丫丫的春笋是XXXXL号",
+      "onboard_time": 1712885358,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 575332,
       "num": 575332,
       "word": "易烊千玺工作室放饭了",
@@ -3057,14 +3105,6 @@
       "onboard_time": 1712410879,
       "rank": 5,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 550945,
-      "num": 550945,
-      "word": "黄金再次爆发",
-      "onboard_time": 1712883979,
-      "rank": 33,
-      "category": "财经"
     },
     {
       "raw_hot": 550144,
@@ -3403,6 +3443,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 502516,
+      "num": 502516,
+      "word": "下下周依旧是上6天班",
+      "onboard_time": 1712883620,
+      "rank": 29,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 502499,
       "num": 502499,
       "word": "女子花椒呛喉推开家人海姆立克法自救",
@@ -3433,14 +3481,6 @@
       "onboard_time": 1712628977,
       "rank": 33,
       "category": "汽车,财经"
-    },
-    {
-      "raw_hot": 500002,
-      "num": 286527,
-      "word": "30万年薪的银行员工要过紧日子了",
-      "onboard_time": 1712883439,
-      "rank": 20,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 499924,
@@ -4083,14 +4123,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 447566,
-      "num": 447566,
-      "word": "人老了为什么身上会有味",
-      "onboard_time": 1712884458,
-      "rank": 15,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 447354,
       "num": 447354,
       "word": "黄金",
@@ -4483,6 +4515,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 415335,
+      "num": 415335,
+      "word": "朴宝蓝正在准备正规专辑",
+      "onboard_time": 1712885540,
+      "rank": 47,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 411677,
       "num": 411677,
       "word": "与凤行全员续写番外",
@@ -4721,14 +4761,6 @@
       "onboard_time": 1712548220,
       "rank": 13,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 384294,
-      "num": 384294,
-      "word": "教资成绩今日可查",
-      "onboard_time": 1712883679,
-      "rank": 13,
-      "category": "教育"
     },
     {
       "raw_hot": 382279,
@@ -5673,6 +5705,14 @@
       "onboard_time": 1712587580,
       "rank": 21,
       "category": "情感"
+    },
+    {
+      "raw_hot": 320544,
+      "num": 222760,
+      "word": "林更新下部戏是玫瑰的故事",
+      "onboard_time": 1712886498,
+      "rank": 23,
+      "category": "电影"
     },
     {
       "raw_hot": 318793,
@@ -6771,14 +6811,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 263166,
-      "num": 263166,
-      "word": "下下周依旧是上6天班",
-      "onboard_time": 1712883620,
-      "rank": 29,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 262400,
       "num": 262400,
       "word": "魔兽世界 启动",
@@ -7587,6 +7619,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 239030,
+      "num": 239030,
+      "word": "iPhoneSE4规格曝光",
+      "onboard_time": 1712888179,
+      "rank": 19,
+      "category": "数码"
+    },
+    {
       "raw_hot": 238880,
       "num": 238880,
       "word": "仝卓公司申请注销",
@@ -8009,6 +8049,14 @@
       "onboard_time": 1712802978,
       "rank": 43,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 225043,
+      "num": 225043,
+      "word": "中国B级轿车整体失守20万元价格线",
+      "onboard_time": 1712886438,
+      "rank": 22,
+      "category": "汽车"
     },
     {
       "raw_hot": 224977,
@@ -9723,6 +9771,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 193761,
+      "num": 193761,
+      "word": "易烊千玺近距离生图",
+      "onboard_time": 1712885419,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 193533,
       "num": 193533,
       "word": "山东泰山2比2河南队",
@@ -9825,6 +9881,14 @@
       "onboard_time": 1712790193,
       "rank": 23,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 192341,
+      "num": 192341,
+      "word": "王者荣耀酷洛米",
+      "onboard_time": 1712888299,
+      "rank": 27,
+      "category": "游戏"
     },
     {
       "raw_hot": 192325,
@@ -11171,28 +11235,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 170185,
-      "num": 170185,
-      "word": "丫丫的春笋是XXXXL号",
-      "onboard_time": 1712885358,
-      "rank": 37,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 170161,
       "num": 170161,
       "word": "校园贷鼻祖就是我",
       "onboard_time": 1712736737,
       "rank": 30,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 169927,
-      "num": 169927,
-      "word": "易烊千玺近距离生图",
-      "onboard_time": 1712885419,
-      "rank": 38,
-      "category": "艺人"
     },
     {
       "raw_hot": 169920,
@@ -11505,6 +11553,14 @@
       "onboard_time": 1712842818,
       "rank": 39,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 163346,
+      "num": 163346,
+      "word": "杨紫的执念",
+      "onboard_time": 1712885717,
+      "rank": 33,
+      "category": "剧集"
     },
     {
       "raw_hot": 163293,
@@ -11867,6 +11923,14 @@
       "category": "自然"
     },
     {
+      "raw_hot": 157013,
+      "num": 157013,
+      "word": "情侣出去旅游AA吗",
+      "onboard_time": 1712888179,
+      "rank": 34,
+      "category": "情感"
+    },
+    {
       "raw_hot": 156826,
       "num": 156826,
       "word": "种地吧究竟在种什么",
@@ -11969,6 +12033,14 @@
       "onboard_time": 1712488277,
       "rank": 46,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 154524,
+      "num": 154524,
+      "word": "血压高多吃两种水果能延寿",
+      "onboard_time": 1712885898,
+      "rank": 35,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 154402,
@@ -12219,6 +12291,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 150766,
+      "num": 150766,
+      "word": "金价续创历史新高",
+      "onboard_time": 1712886558,
+      "rank": 36,
+      "category": "财经"
+    },
+    {
       "raw_hot": 150649,
       "num": 150649,
       "word": "何浩楠 无人机师傅撒药中",
@@ -12339,14 +12419,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 148176,
-      "num": 148176,
-      "word": "朴宝蓝正在准备正规专辑",
-      "onboard_time": 1712885540,
-      "rank": 47,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 148108,
       "num": 148108,
       "word": "ZARA中国近四成分公司已注销",
@@ -12425,6 +12497,14 @@
       "onboard_time": 1712828839,
       "rank": 40,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 146762,
+      "num": 146762,
+      "word": "部分水贝黄金加工企业停工放假",
+      "onboard_time": 1712888477,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 146589,
@@ -12649,6 +12729,14 @@
       "onboard_time": 1712534958,
       "rank": 43,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 142778,
+      "num": 142778,
+      "word": "朴彩英三吉彩花同框",
+      "onboard_time": 1712888657,
+      "rank": 38,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 142581,
@@ -13171,6 +13259,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 134898,
+      "num": 134898,
+      "word": "可以不喜欢但请相互尊重",
+      "onboard_time": 1712886739,
+      "rank": 40,
+      "category": "情感"
+    },
+    {
       "raw_hot": 134822,
       "num": 134822,
       "word": "檀健次上海活动",
@@ -13432,6 +13528,14 @@
       "word": "赵丽颖剧中最虐的台词",
       "onboard_time": 1712793318,
       "rank": 44,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 130803,
+      "num": 130803,
+      "word": "李现四月两部剧要一起播",
+      "onboard_time": 1712888778,
+      "rank": 42,
       "category": "剧集"
     },
     {
@@ -13777,6 +13881,14 @@
       "onboard_time": 1712822898,
       "rank": 44,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 124133,
+      "num": 124133,
+      "word": "电影一顿火锅预售开启",
+      "onboard_time": 1712888898,
+      "rank": 43,
+      "category": "电影"
     },
     {
       "raw_hot": 124065,
