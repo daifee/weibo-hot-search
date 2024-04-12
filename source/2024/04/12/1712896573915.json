@@ -1,0 +1,410 @@
+{
+  "runTime": 1712896573915,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1720353,
+        "num": 1720353,
+        "word": "被轿车撞倒碾压女子已死亡",
+        "onboard_time": 1712891237,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1400238,
+        "num": 1400238,
+        "word": "青山刚昌癫了",
+        "onboard_time": 1712892138,
+        "rank": 1,
+        "category": "电影,动漫"
+      },
+      {
+        "raw_hot": 134546,
+        "num": 1093906,
+        "word": "中国航天的12个第一次",
+        "onboard_time": 1712893337,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 810472,
+        "num": 810472,
+        "word": "金晨首部一番女主电影",
+        "onboard_time": 1712892859,
+        "rank": 3,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 712108,
+        "num": 712108,
+        "word": "30万年薪的银行员工要过紧日子了",
+        "onboard_time": 1712883439,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 649252,
+        "num": 649252,
+        "word": "周杰伦杭州演唱会二次售票",
+        "onboard_time": 1712895679,
+        "rank": 5,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 626715,
+        "num": 626715,
+        "word": "拜登承诺将用核武器保护日本",
+        "onboard_time": 1712884398,
+        "rank": 6,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 585409,
+        "num": 585409,
+        "word": "凤凰传奇抢票",
+        "onboard_time": 1712894720,
+        "rank": 7,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 538706,
+        "num": 538706,
+        "word": "腾讯视频24年大剧片单",
+        "onboard_time": 1712893219,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 386199,
+        "num": 529871,
+        "word": "丫丫的春笋是XXXXL号",
+        "onboard_time": 1712885358,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1922364,
+        "num": 529731,
+        "word": "朴宝蓝喝酒后死亡",
+        "onboard_time": 1712890817,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 529300,
+        "num": 529300,
+        "word": "五一其实只放1天",
+        "onboard_time": 1712885958,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 513880,
+        "num": 513880,
+        "word": "CP变骨科",
+        "onboard_time": 1712894720,
+        "rank": 12,
+        "category": "电影,动漫"
+      },
+      {
+        "raw_hot": 513600,
+        "num": 513600,
+        "word": "能吃面试的苦了",
+        "onboard_time": 1712890457,
+        "rank": 13,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 53540,
+        "num": 490435,
+        "word": "魏建军直播首秀实测智驾",
+        "onboard_time": 1712894420,
+        "rank": 14,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 467450,
+        "num": 467450,
+        "word": "歌手朴宝蓝去世",
+        "onboard_time": 1712878996,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 447239,
+        "num": 447239,
+        "word": "乘风2024",
+        "onboard_time": 1712893279,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 440640,
+        "num": 440640,
+        "word": "长发周雨彤杀回来了",
+        "onboard_time": 1712891597,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 435453,
+        "num": 435453,
+        "word": "Doinb妻子时隔半年更新",
+        "onboard_time": 1712894660,
+        "rank": 18,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 386757,
+        "num": 386757,
+        "word": "人老了为什么身上会有味",
+        "onboard_time": 1712884458,
+        "rank": 19,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 1121022,
+        "num": 386284,
+        "word": "工藤新一不能考公了",
+        "onboard_time": 1712879238,
+        "rank": 20,
+        "category": "电影,动漫"
+      },
+      {
+        "raw_hot": 29494,
+        "num": 385135,
+        "word": "那些莫名其妙的请假理由",
+        "onboard_time": 1712895439,
+        "rank": 21,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 592595,
+        "num": 385135,
+        "word": "大学四年居然买了一百斤衣服",
+        "onboard_time": 1712893879,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 384919,
+        "num": 384919,
+        "word": "离职前可以顺走公司什么东西",
+        "onboard_time": 1712890937,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 324880,
+        "num": 324880,
+        "word": "周雨彤一次微醺换来一个代言",
+        "onboard_time": 1712894121,
+        "rank": 24,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 299504,
+        "num": 299504,
+        "word": "黄金再次爆发",
+        "onboard_time": 1712883979,
+        "rank": 25,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 298221,
+        "num": 298221,
+        "word": "癌症来临时身体3个部位会喊痛",
+        "onboard_time": 1712891476,
+        "rank": 26,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 280030,
+        "num": 280030,
+        "word": "健身后胖了4斤",
+        "onboard_time": 1712895559,
+        "rank": 27,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 276073,
+        "num": 276073,
+        "word": "小乐言回应柳智敏粉丝",
+        "onboard_time": 1712895259,
+        "rank": 28,
+        "category": "电竞,艺人"
+      },
+      {
+        "raw_hot": 28195,
+        "num": 272651,
+        "word": "P5X画风刻进DNA",
+        "onboard_time": 1712895740,
+        "rank": 29,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 271032,
+        "num": 271032,
+        "word": "教资通过率",
+        "onboard_time": 1712892316,
+        "rank": 30,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 258319,
+        "num": 258319,
+        "word": "曾黎谈与赵丽颖林更新合作的感受",
+        "onboard_time": 1712895439,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 256139,
+        "num": 256139,
+        "word": "infj近乎病态的爱",
+        "onboard_time": 1712892379,
+        "rank": 32,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 253736,
+        "num": 253736,
+        "word": "港媒曝C罗或将赴香港比赛",
+        "onboard_time": 1712893399,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 237962,
+        "num": 237962,
+        "word": "承欢记新浪扫楼",
+        "onboard_time": 1712893760,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 231199,
+        "num": 231199,
+        "word": "王一博工装马甲",
+        "onboard_time": 1712896039,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 252921,
+        "num": 230930,
+        "word": "林更新魏大勋怨种兄弟",
+        "onboard_time": 1712892257,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 230146,
+        "num": 230146,
+        "word": "毕业五年在家五年考公考编五年",
+        "onboard_time": 1712891476,
+        "rank": 37,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 13202,
+        "num": 220733,
+        "word": "惣治郎大叔快回来",
+        "onboard_time": 1712894780,
+        "rank": 38,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 220471,
+        "num": 220471,
+        "word": "湖北省考成绩",
+        "onboard_time": 1712892677,
+        "rank": 39,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 215326,
+        "num": 215326,
+        "word": "警方通报女子赤身在大学男寝打砸",
+        "onboard_time": 1712880078,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 214242,
+        "num": 214242,
+        "word": "小狗坐在大狗狗身上晒太阳",
+        "onboard_time": 1712895079,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 207522,
+        "num": 207522,
+        "word": "教资成绩发布",
+        "onboard_time": 1712889257,
+        "rank": 42,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 204183,
+        "num": 204183,
+        "word": "金玟庭接受气胸手术",
+        "onboard_time": 1712883919,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 188298,
+        "num": 188298,
+        "word": "适合穷游的8个城市",
+        "onboard_time": 1712896400,
+        "rank": 44,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 186143,
+        "num": 186143,
+        "word": "闺蜜上岸第一剑斩的是我",
+        "onboard_time": 1712885058,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 184665,
+        "num": 184665,
+        "word": "盒子里的猫称体重环节",
+        "onboard_time": 1712890276,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 175654,
+        "num": 175654,
+        "word": "郭德纲谈贾乃亮",
+        "onboard_time": 1712896520,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 173271,
+        "num": 173271,
+        "word": "赵丽颖镶钻高珠",
+        "onboard_time": 1712892677,
+        "rank": 48,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 160747,
+        "num": 160747,
+        "word": "中国B级轿车整体失守20万元价格线",
+        "onboard_time": 1712886438,
+        "rank": 49,
+        "category": "汽车"
+      }
+    ],
+    "hotgov": {
+      "word": "#任何分裂国家的图谋注定不会得逞#"
+    }
+  }
+}

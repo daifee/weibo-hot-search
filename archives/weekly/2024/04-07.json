@@ -1,6 +1,6 @@
 {
   "startTime": 1712420539476,
-  "endTime": 1712895732342,
+  "endTime": 1712896573915,
   "band_list": [
     {
       "raw_hot": 9583581,
@@ -1739,6 +1739,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 810472,
+      "num": 810472,
+      "word": "金晨首部一番女主电影",
+      "onboard_time": 1712892859,
+      "rank": 49,
+      "category": "电影"
+    },
+    {
       "raw_hot": 807130,
       "num": 676568,
       "word": "欧阳娣娣第八名出道",
@@ -2203,6 +2211,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 712108,
+      "num": 712108,
+      "word": "30万年薪的银行员工要过紧日子了",
+      "onboard_time": 1712883439,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 711345,
       "num": 426801,
       "word": "一位伤心的妻子发现丈夫出轨",
@@ -2265,14 +2281,6 @@
       "onboard_time": 1712794520,
       "rank": 15,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 699747,
-      "num": 699747,
-      "word": "金晨首部一番女主电影",
-      "onboard_time": 1712892859,
-      "rank": 49,
-      "category": "电影"
     },
     {
       "raw_hot": 699581,
@@ -2443,14 +2451,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 667039,
-      "num": 667039,
-      "word": "30万年薪的银行员工要过紧日子了",
-      "onboard_time": 1712883439,
-      "rank": 20,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 667002,
       "num": 667002,
       "word": "成都迪士尼被限流",
@@ -2545,6 +2545,14 @@
       "onboard_time": 1712733138,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 649252,
+      "num": 649252,
+      "word": "周杰伦杭州演唱会二次售票",
+      "onboard_time": 1712895679,
+      "rank": 47,
+      "category": "演出"
     },
     {
       "raw_hot": 647413,
@@ -2923,6 +2931,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 592595,
+      "num": 385135,
+      "word": "大学四年居然买了一百斤衣服",
+      "onboard_time": 1712893879,
+      "rank": 21,
+      "category": "情感"
+    },
+    {
       "raw_hot": 592190,
       "num": 592190,
       "word": "武大雷军班100%具备保研资格",
@@ -3115,14 +3131,6 @@
       "category": "科学科普,健康医疗"
     },
     {
-      "raw_hot": 558634,
-      "num": 345060,
-      "word": "大学四年居然买了一百斤衣服",
-      "onboard_time": 1712893879,
-      "rank": 21,
-      "category": "情感"
-    },
-    {
       "raw_hot": 558353,
       "num": 558353,
       "word": "王俊凯 演唱会",
@@ -3256,6 +3264,14 @@
       "word": "承欢记富二代装穷骗女友3年",
       "onboard_time": 1712667560,
       "rank": 17,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 538706,
+      "num": 538706,
+      "word": "腾讯视频24年大剧片单",
+      "onboard_time": 1712893219,
+      "rank": 12,
       "category": "剧集"
     },
     {
@@ -3427,12 +3443,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 512635,
-      "num": 512635,
-      "word": "腾讯视频24年大剧片单",
-      "onboard_time": 1712893219,
-      "rank": 12,
-      "category": "剧集"
+      "raw_hot": 513880,
+      "num": 513880,
+      "word": "CP变骨科",
+      "onboard_time": 1712894720,
+      "rank": 18,
+      "category": "电影,动漫"
     },
     {
       "raw_hot": 510415,
@@ -4371,6 +4387,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 435453,
+      "num": 435453,
+      "word": "Doinb妻子时隔半年更新",
+      "onboard_time": 1712894660,
+      "rank": 16,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 434659,
       "num": 434659,
       "word": "北邮为郑某所指导学生调换导师",
@@ -4556,7 +4580,7 @@
     },
     {
       "raw_hot": 420697,
-      "num": 319831,
+      "num": 384919,
       "word": "离职前可以顺走公司什么东西",
       "onboard_time": 1712890937,
       "rank": 21,
@@ -4689,14 +4713,6 @@
       "onboard_time": 1712625498,
       "rank": 21,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 401707,
-      "num": 401707,
-      "word": "Doinb妻子时隔半年更新",
-      "onboard_time": 1712894660,
-      "rank": 16,
-      "category": "电竞"
     },
     {
       "raw_hot": 401613,
@@ -4953,14 +4969,6 @@
       "onboard_time": 1712733079,
       "rank": 32,
       "category": "读书作家"
-    },
-    {
-      "raw_hot": 378893,
-      "num": 378893,
-      "word": "CP变骨科",
-      "onboard_time": 1712894720,
-      "rank": 18,
-      "category": "电影,动漫"
     },
     {
       "raw_hot": 378816,
@@ -5777,6 +5785,14 @@
       "onboard_time": 1712723419,
       "rank": 36,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 324880,
+      "num": 324880,
+      "word": "周雨彤一次微醺换来一个代言",
+      "onboard_time": 1712894121,
+      "rank": 28,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 324877,
@@ -6683,6 +6699,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 280030,
+      "num": 280030,
+      "word": "健身后胖了4斤",
+      "onboard_time": 1712895559,
+      "rank": 49,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 279750,
       "num": 262160,
       "word": "少吃和运动哪个更容易瘦",
@@ -6779,6 +6803,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 276073,
+      "num": 276073,
+      "word": "小乐言回应柳智敏粉丝",
+      "onboard_time": 1712895259,
+      "rank": 35,
+      "category": "电竞,艺人"
+    },
+    {
       "raw_hot": 275926,
       "num": 275926,
       "word": "于适戛纳生图",
@@ -6867,6 +6899,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 271032,
+      "num": 271032,
+      "word": "教资通过率",
+      "onboard_time": 1712892316,
+      "rank": 40,
+      "category": "教育"
+    },
+    {
       "raw_hot": 270951,
       "num": 270951,
       "word": "眼泪女王回本",
@@ -6897,14 +6937,6 @@
       "onboard_time": 1712893399,
       "rank": 27,
       "category": "体育"
-    },
-    {
-      "raw_hot": 269790,
-      "num": 269790,
-      "word": "周雨彤一次微醺换来一个代言",
-      "onboard_time": 1712894121,
-      "rank": 28,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 269400,
@@ -7251,6 +7283,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 256139,
+      "num": 256139,
+      "word": "infj近乎病态的爱",
+      "onboard_time": 1712892379,
+      "rank": 36,
+      "category": "情感"
+    },
+    {
       "raw_hot": 255890,
       "num": 255890,
       "word": "金智媛同款",
@@ -7337,6 +7377,14 @@
       "onboard_time": 1712758100,
       "rank": 35,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 252921,
+      "num": 230930,
+      "word": "林更新魏大勋怨种兄弟",
+      "onboard_time": 1712892257,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 252581,
@@ -7883,6 +7931,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 237962,
+      "num": 237962,
+      "word": "承欢记新浪扫楼",
+      "onboard_time": 1712893760,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 237825,
       "num": 237825,
       "word": "王者荣耀酷洛米",
@@ -7939,28 +7995,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 236178,
-      "num": 236178,
-      "word": "教资通过率",
-      "onboard_time": 1712892316,
-      "rank": 40,
-      "category": "教育"
-    },
-    {
       "raw_hot": 236086,
       "num": 236086,
       "word": "唐嫣回应命好标签",
       "onboard_time": 1712635639,
       "rank": 39,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 236066,
-      "num": 236066,
-      "word": "infj近乎病态的爱",
-      "onboard_time": 1712892379,
-      "rank": 36,
-      "category": "情感"
     },
     {
       "raw_hot": 235670,
@@ -8091,6 +8131,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 231199,
+      "num": 231199,
+      "word": "王一博工装马甲",
+      "onboard_time": 1712896039,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 231146,
       "num": 231146,
       "word": "林更新说与凤行给了星玥圆满",
@@ -8217,14 +8265,6 @@
       "onboard_time": 1712560279,
       "rank": 31,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 227330,
-      "num": 224646,
-      "word": "林更新魏大勋怨种兄弟",
-      "onboard_time": 1712892257,
-      "rank": 33,
-      "category": "综艺"
     },
     {
       "raw_hot": 227059,
@@ -8441,22 +8481,6 @@
       "onboard_time": 1712737578,
       "rank": 24,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 221638,
-      "num": 221638,
-      "word": "小乐言回应柳智敏粉丝",
-      "onboard_time": 1712895259,
-      "rank": 35,
-      "category": "电竞,艺人"
-    },
-    {
-      "raw_hot": 221506,
-      "num": 221506,
-      "word": "承欢记新浪扫楼",
-      "onboard_time": 1712893760,
-      "rank": 36,
-      "category": "剧集"
     },
     {
       "raw_hot": 221062,
@@ -8737,6 +8761,14 @@
       "onboard_time": 1712498600,
       "rank": 33,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 214242,
+      "num": 214242,
+      "word": "小狗坐在大狗狗身上晒太阳",
+      "onboard_time": 1712895079,
+      "rank": 41,
+      "category": "情感"
     },
     {
       "raw_hot": 214198,
@@ -9931,14 +9963,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 196342,
-      "num": 196342,
-      "word": "小狗坐在大狗狗身上晒太阳",
-      "onboard_time": 1712895079,
-      "rank": 41,
-      "category": "情感"
-    },
-    {
       "raw_hot": 196336,
       "num": 196336,
       "word": "你真的不爱调休拼长假吗",
@@ -10497,6 +10521,14 @@
       "onboard_time": 1712890997,
       "rank": 41,
       "category": "教育"
+    },
+    {
+      "raw_hot": 188298,
+      "num": 188298,
+      "word": "适合穷游的8个城市",
+      "onboard_time": 1712896400,
+      "rank": 44,
+      "category": "旅游"
     },
     {
       "raw_hot": 187897,
@@ -11275,6 +11307,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 175654,
+      "num": 175654,
+      "word": "郭德纲谈贾乃亮",
+      "onboard_time": 1712896520,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 175580,
       "num": 175580,
       "word": "首饰金价逼近每克720元",
@@ -11715,14 +11755,6 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 167666,
-      "num": 167666,
-      "word": "周杰伦杭州演唱会二次售票",
-      "onboard_time": 1712895679,
-      "rank": 47,
-      "category": "演出"
-    },
-    {
       "raw_hot": 167553,
       "num": 167553,
       "word": "三代日本皇室女性都曾患上心理疾病",
@@ -11905,14 +11937,6 @@
       "onboard_time": 1712660058,
       "rank": 31,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 164032,
-      "num": 164032,
-      "word": "健身后胖了4斤",
-      "onboard_time": 1712895559,
-      "rank": 49,
-      "category": "运动健身"
     },
     {
       "raw_hot": 164017,
@@ -13691,6 +13715,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 134546,
+      "num": 1093906,
+      "word": "中国航天的12个第一次",
+      "onboard_time": 1712893337,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 134248,
       "num": 134248,
       "word": "吴彦祖发文庆祝结婚14周年",
@@ -14216,14 +14248,6 @@
       "word": "淄博版逐渐失去表情管理",
       "onboard_time": 1712453478,
       "rank": 47,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 125092,
-      "num": 1004953,
-      "word": "中国航天的12个第一次",
-      "onboard_time": 1712893337,
-      "rank": 2,
       "category": "社会新闻"
     },
     {
@@ -15739,6 +15763,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 53540,
+      "num": 490435,
+      "word": "魏建军直播首秀实测智驾",
+      "onboard_time": 1712894420,
+      "rank": 14,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 53394,
       "num": 331192,
       "word": "杨幂科技感大片",
@@ -15809,14 +15841,6 @@
       "onboard_time": 1712398757,
       "rank": 48,
       "category": "教育"
-    },
-    {
-      "raw_hot": 46190,
-      "num": 486921,
-      "word": "魏建军直播首秀实测智驾",
-      "onboard_time": 1712894420,
-      "rank": 14,
-      "category": "汽车"
     },
     {
       "raw_hot": 46120,
@@ -16011,6 +16035,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 29494,
+      "num": 385135,
+      "word": "那些莫名其妙的请假理由",
+      "onboard_time": 1712895439,
+      "rank": 43,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 28195,
+      "num": 272651,
+      "word": "P5X画风刻进DNA",
+      "onboard_time": 1712895740,
+      "rank": 29,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 28039,
       "num": 28039,
       "word": "奥运会资格系列赛开票",
@@ -16033,14 +16073,6 @@
       "onboard_time": 1712822418,
       "rank": 14,
       "category": "时尚"
-    },
-    {
-      "raw_hot": 26685,
-      "num": 191879,
-      "word": "那些莫名其妙的请假理由",
-      "onboard_time": 1712895439,
-      "rank": 43,
-      "category": "幽默"
     },
     {
       "raw_hot": 26644,
@@ -16315,8 +16347,8 @@
       "category": "母婴育儿"
     },
     {
-      "raw_hot": 12504,
-      "num": 206966,
+      "raw_hot": 13202,
+      "num": 220733,
       "word": "惣治郎大叔快回来",
       "onboard_time": 1712894780,
       "rank": 38,
