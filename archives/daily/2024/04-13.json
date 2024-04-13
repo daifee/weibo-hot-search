@@ -1,6 +1,6 @@
 {
   "startTime": 1712938901785,
-  "endTime": 1713003298602,
+  "endTime": 1713004443725,
   "band_list": [
     {
       "raw_hot": 1883112,
@@ -67,6 +67,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1265241,
+      "num": 1265241,
+      "word": "赵丽颖说谢谢狗哥",
+      "onboard_time": 1713000498,
+      "rank": 19,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1215293,
       "num": 1215293,
       "word": "女生义乌10元买项链多年后未变色",
@@ -97,14 +105,6 @@
       "onboard_time": 1712966898,
       "rank": 10,
       "category": "情感,网红"
-    },
-    {
-      "raw_hot": 1136038,
-      "num": 1136038,
-      "word": "赵丽颖说谢谢狗哥",
-      "onboard_time": 1713000498,
-      "rank": 19,
-      "category": "剧集"
     },
     {
       "raw_hot": 1122563,
@@ -139,19 +139,19 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 939177,
+      "num": 939177,
+      "word": "成毅晒面摊",
+      "onboard_time": 1712996178,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 917392,
       "num": 917392,
       "word": "郭敬明开新店人均消费1500元",
       "onboard_time": 1712969957,
       "rank": 16,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 915988,
-      "num": 915988,
-      "word": "成毅晒面摊",
-      "onboard_time": 1712996178,
-      "rank": 39,
       "category": "艺人"
     },
     {
@@ -185,6 +185,14 @@
       "onboard_time": 1712929578,
       "rank": 5,
       "category": "网红"
+    },
+    {
+      "raw_hot": 812192,
+      "num": 812192,
+      "word": "某幻 音乐节",
+      "onboard_time": 1713000737,
+      "rank": 46,
+      "category": "游戏,网红"
     },
     {
       "raw_hot": 805711,
@@ -235,14 +243,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 738008,
-      "num": 738008,
-      "word": "某幻 音乐节",
-      "onboard_time": 1713000737,
-      "rank": 46,
-      "category": "游戏,网红"
-    },
-    {
       "raw_hot": 723607,
       "num": 723607,
       "word": "拜登警告伊朗不要攻击以色列",
@@ -281,6 +281,14 @@
       "onboard_time": 1712988197,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 645821,
+      "num": 645821,
+      "word": "南昌下午一点半天就黑了",
+      "onboard_time": 1713002057,
+      "rank": 18,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 637486,
@@ -353,6 +361,14 @@
       "onboard_time": 1712965876,
       "rank": 6,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 547102,
+      "num": 645967,
+      "word": "男子养了20年的海龟竟是国保玳瑁",
+      "onboard_time": 1713001817,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 536247,
@@ -524,7 +540,7 @@
     },
     {
       "raw_hot": 410764,
-      "num": 620183,
+      "num": 647388,
       "word": "妈妈称唐氏女儿在舞台上光彩四溢",
       "onboard_time": 1712983398,
       "rank": 9,
@@ -659,14 +675,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 343447,
-      "num": 611257,
-      "word": "男子养了20年的海龟竟是国保玳瑁",
-      "onboard_time": 1713001817,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 342843,
       "num": 240445,
       "word": "入睡太快正不正常",
@@ -763,6 +771,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 308923,
+      "num": 308923,
+      "word": "杜华称参加浪姐一天被骂200万条",
+      "onboard_time": 1713003559,
+      "rank": 14,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 307714,
       "num": 248328,
       "word": "频繁早醒可能是病了",
@@ -827,6 +843,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 291591,
+      "num": 249144,
+      "word": "熬夜的人身体会变臭",
+      "onboard_time": 1713000438,
+      "rank": 44,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 286264,
       "num": 201426,
       "word": "旅游时千万不要带太多的东西",
@@ -841,14 +865,6 @@
       "onboard_time": 1712932220,
       "rank": 8,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 283769,
-      "num": 283769,
-      "word": "南昌下午一点半天就黑了",
-      "onboard_time": 1713002057,
-      "rank": 18,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 283763,
@@ -929,14 +945,6 @@
       "onboard_time": 1712989517,
       "rank": 22,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 249144,
-      "num": 249144,
-      "word": "熬夜的人身体会变臭",
-      "onboard_time": 1713000438,
-      "rank": 44,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 245198,
@@ -1323,6 +1331,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 180850,
+      "num": 180850,
+      "word": "检验师考试",
+      "onboard_time": 1713003018,
+      "rank": 43,
+      "category": "教育"
+    },
+    {
       "raw_hot": 180481,
       "num": 176380,
       "word": "张小斐的钻戒好大",
@@ -1411,6 +1427,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 172010,
+      "num": 172010,
+      "word": "为什么大家越来越喜欢日落",
+      "onboard_time": 1713000138,
+      "rank": 38,
+      "category": "情感"
+    },
+    {
       "raw_hot": 168691,
       "num": 168691,
       "word": "Meiko看HLE对战T1",
@@ -1473,14 +1497,6 @@
       "onboard_time": 1712984238,
       "rank": 32,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 162184,
-      "num": 162184,
-      "word": "为什么大家越来越喜欢日落",
-      "onboard_time": 1713000138,
-      "rank": 38,
-      "category": "情感"
     },
     {
       "raw_hot": 162095,
@@ -1769,14 +1785,6 @@
       "onboard_time": 1712966775,
       "rank": 39,
       "category": "运动健身"
-    },
-    {
-      "raw_hot": 138704,
-      "num": 138704,
-      "word": "检验师考试",
-      "onboard_time": 1713003018,
-      "rank": 43,
-      "category": "教育"
     },
     {
       "raw_hot": 138275,
@@ -2089,6 +2097,14 @@
       "onboard_time": 1712989398,
       "rank": 37,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 108214,
+      "num": 108214,
+      "word": "张艺凡樱花少女",
+      "onboard_time": 1713003318,
+      "rank": 45,
+      "category": "艺人"
     },
     {
       "raw_hot": 108017,

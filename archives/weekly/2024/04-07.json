@@ -1,6 +1,6 @@
 {
   "startTime": 1712420539476,
-  "endTime": 1713003298602,
+  "endTime": 1713004443725,
   "band_list": [
     {
       "raw_hot": 9583581,
@@ -835,6 +835,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 1265241,
+      "num": 1265241,
+      "word": "赵丽颖说谢谢狗哥",
+      "onboard_time": 1713000498,
+      "rank": 19,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1263379,
       "num": 1263379,
       "word": "演员刘雨欣吐槽在美国真的不敢生病",
@@ -1097,14 +1105,6 @@
       "onboard_time": 1712837477,
       "rank": 10,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 1136038,
-      "num": 1136038,
-      "word": "赵丽颖说谢谢狗哥",
-      "onboard_time": 1713000498,
-      "rank": 19,
-      "category": "剧集"
     },
     {
       "raw_hot": 1135870,
@@ -1579,6 +1579,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 939177,
+      "num": 939177,
+      "word": "成毅晒面摊",
+      "onboard_time": 1712996178,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 937635,
       "num": 937635,
       "word": "迪丽热巴还在戴毛线帽",
@@ -1681,14 +1689,6 @@
       "onboard_time": 1712907858,
       "rank": 10,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 915988,
-      "num": 915988,
-      "word": "成毅晒面摊",
-      "onboard_time": 1712996178,
-      "rank": 39,
-      "category": "艺人"
     },
     {
       "raw_hot": 911576,
@@ -2081,6 +2081,14 @@
       "onboard_time": 1712753119,
       "rank": 23,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 812192,
+      "num": 812192,
+      "word": "某幻 音乐节",
+      "onboard_time": 1713000737,
+      "rank": 46,
+      "category": "游戏,网红"
     },
     {
       "raw_hot": 810581,
@@ -2489,14 +2497,6 @@
       "onboard_time": 1712479399,
       "rank": 14,
       "category": "情感"
-    },
-    {
-      "raw_hot": 738008,
-      "num": 738008,
-      "word": "某幻 音乐节",
-      "onboard_time": 1713000737,
-      "rank": 46,
-      "category": "游戏,网红"
     },
     {
       "raw_hot": 735808,
@@ -3065,6 +3065,14 @@
       "onboard_time": 1712450598,
       "rank": 20,
       "category": "情感"
+    },
+    {
+      "raw_hot": 645821,
+      "num": 645821,
+      "word": "南昌下午一点半天就黑了",
+      "onboard_time": 1713002057,
+      "rank": 18,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 645697,
@@ -3873,6 +3881,14 @@
       "onboard_time": 1712646139,
       "rank": 5,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 547102,
+      "num": 645967,
+      "word": "男子养了20年的海龟竟是国保玳瑁",
+      "onboard_time": 1713001817,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 546639,
@@ -5588,7 +5604,7 @@
     },
     {
       "raw_hot": 410764,
-      "num": 620183,
+      "num": 647388,
       "word": "妈妈称唐氏女儿在舞台上光彩四溢",
       "onboard_time": 1712983398,
       "rank": 9,
@@ -6627,14 +6643,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 343447,
-      "num": 611257,
-      "word": "男子养了20年的海龟竟是国保玳瑁",
-      "onboard_time": 1713001817,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 342843,
       "num": 240445,
       "word": "入睡太快正不正常",
@@ -7403,6 +7411,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 308923,
+      "num": 308923,
+      "word": "杜华称参加浪姐一天被骂200万条",
+      "onboard_time": 1713003559,
+      "rank": 14,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 308833,
       "num": 307999,
       "word": "赵丽颖工作室玩梗沈璃",
@@ -7851,6 +7867,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 291591,
+      "num": 249144,
+      "word": "熬夜的人身体会变臭",
+      "onboard_time": 1713000438,
+      "rank": 44,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 291473,
       "num": 291473,
       "word": "王一博表情包",
@@ -8033,14 +8057,6 @@
       "onboard_time": 1712585298,
       "rank": 19,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 283769,
-      "num": 283769,
-      "word": "南昌下午一点半天就黑了",
-      "onboard_time": 1713002057,
-      "rank": 18,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 283763,
@@ -9137,14 +9153,6 @@
       "onboard_time": 1712629877,
       "rank": 36,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 249144,
-      "num": 249144,
-      "word": "熬夜的人身体会变臭",
-      "onboard_time": 1713000438,
-      "rank": 44,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 249047,
@@ -13427,6 +13435,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 180850,
+      "num": 180850,
+      "word": "检验师考试",
+      "onboard_time": 1713003018,
+      "rank": 43,
+      "category": "教育"
+    },
+    {
       "raw_hot": 180582,
       "num": 180582,
       "word": "旅游到底是吃重要还是住重要",
@@ -14064,6 +14080,14 @@
       "word": "为什么老人不喜欢套垃圾袋",
       "onboard_time": 1712487740,
       "rank": 31,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 172010,
+      "num": 172010,
+      "word": "为什么大家越来越喜欢日落",
+      "onboard_time": 1713000138,
+      "rank": 38,
       "category": "情感"
     },
     {
@@ -14705,14 +14729,6 @@
       "onboard_time": 1712455217,
       "rank": 39,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 162184,
-      "num": 162184,
-      "word": "为什么大家越来越喜欢日落",
-      "onboard_time": 1713000138,
-      "rank": 38,
-      "category": "情感"
     },
     {
       "raw_hot": 162095,
@@ -16555,14 +16571,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 138704,
-      "num": 138704,
-      "word": "检验师考试",
-      "onboard_time": 1713003018,
-      "rank": 43,
-      "category": "教育"
-    },
-    {
       "raw_hot": 138657,
       "num": 138657,
       "word": "追风者 江西",
@@ -18361,6 +18369,14 @@
       "onboard_time": 1712835197,
       "rank": 47,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 108214,
+      "num": 108214,
+      "word": "张艺凡樱花少女",
+      "onboard_time": 1713003318,
+      "rank": 45,
+      "category": "艺人"
     },
     {
       "raw_hot": 108108,
