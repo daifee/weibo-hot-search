@@ -1,6 +1,6 @@
 {
   "startTime": 1711902044401,
-  "endTime": 1712978122345,
+  "endTime": 1712979249344,
   "band_list": [
     {
       "raw_hot": 16874674,
@@ -2563,6 +2563,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1034958,
+      "num": 1034958,
+      "word": "专八",
+      "onboard_time": 1712978416,
+      "rank": 1,
+      "category": "教育"
+    },
+    {
       "raw_hot": 1033457,
       "num": 1033457,
       "word": "代号鸢 跑路",
@@ -2673,6 +2681,14 @@
       "onboard_time": 1712708420,
       "rank": 6,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1024667,
+      "num": 1024667,
+      "word": "马嘉祺有个双胞胎哥哥",
+      "onboard_time": 1712978057,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 1023620,
@@ -7859,6 +7875,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 515148,
+      "num": 243125,
+      "word": "为什么研究生搞不定中学的比赛",
+      "onboard_time": 1712977336,
+      "rank": 26,
+      "category": "情感"
+    },
+    {
       "raw_hot": 515054,
       "num": 515054,
       "word": "沈图南你真是疯了",
@@ -8081,6 +8105,14 @@
       "onboard_time": 1712469618,
       "rank": 8,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 503022,
+      "num": 503022,
+      "word": "专八必过",
+      "onboard_time": 1712965635,
+      "rank": 5,
+      "category": "教育"
     },
     {
       "raw_hot": 502941,
@@ -10003,14 +10035,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 424293,
-      "num": 424293,
-      "word": "专八必过",
-      "onboard_time": 1712965635,
-      "rank": 5,
-      "category": "教育"
-    },
-    {
       "raw_hot": 424043,
       "num": 424043,
       "word": "卜凡说再来一次不会参加偶练",
@@ -11219,6 +11243,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 377303,
+      "num": 377303,
+      "word": "宝宝长宝宝短宝宝有事我不管",
+      "onboard_time": 1712976496,
+      "rank": 15,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 376612,
       "num": 267898,
       "word": "妈妈十年前的QQ空间",
@@ -11715,6 +11747,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 356707,
+      "num": 356707,
+      "word": "实力派女演员",
+      "onboard_time": 1712976496,
+      "rank": 10,
+      "category": "电影"
+    },
+    {
       "raw_hot": 356662,
       "num": 356662,
       "word": "于正怼曾舜晞粉丝",
@@ -11891,6 +11931,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 351973,
+      "num": 351973,
+      "word": "散是满天星 合是神金病",
+      "onboard_time": 1712978057,
+      "rank": 47,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 351903,
       "num": 334480,
       "word": "华为口红耳机2",
@@ -11929,6 +11977,14 @@
       "onboard_time": 1712647579,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 351158,
+      "num": 351158,
+      "word": "BLG管理层",
+      "onboard_time": 1712977577,
+      "rank": 28,
+      "category": "电竞"
     },
     {
       "raw_hot": 351142,
@@ -12220,7 +12276,7 @@
     },
     {
       "raw_hot": 342843,
-      "num": 199956,
+      "num": 240445,
       "word": "入睡太快正不正常",
       "onboard_time": 1712975656,
       "rank": 35,
@@ -12769,14 +12825,6 @@
       "onboard_time": 1712222719,
       "rank": 15,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 327073,
-      "num": 327073,
-      "word": "实力派女演员",
-      "onboard_time": 1712976496,
-      "rank": 10,
-      "category": "电影"
     },
     {
       "raw_hot": 327009,
@@ -13444,7 +13492,7 @@
     },
     {
       "raw_hot": 310383,
-      "num": 218126,
+      "num": 231250,
       "word": "三个玩手机最佳动作",
       "onboard_time": 1712974456,
       "rank": 48,
@@ -13827,6 +13875,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 301384,
+      "num": 301384,
+      "word": "柯基 我的孩子腿必须短",
+      "onboard_time": 1712975956,
+      "rank": 14,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 301264,
       "num": 278510,
       "word": "女孩误吞燕尾夹2天不能进食才告知父母",
@@ -14049,6 +14105,14 @@
       "onboard_time": 1711920190,
       "rank": 29,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 296646,
+      "num": 296646,
+      "word": "专八答案",
+      "onboard_time": 1712978599,
+      "rank": 17,
+      "category": "教育"
     },
     {
       "raw_hot": 296378,
@@ -14547,6 +14611,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 285693,
+      "num": 285693,
+      "word": "BLG辅助On被喷",
+      "onboard_time": 1712977817,
+      "rank": 31,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 285582,
       "num": 285582,
       "word": "天秤座的成长史",
@@ -14864,14 +14936,6 @@
       "word": "古希腊掌管某某的神",
       "onboard_time": 1712137639,
       "rank": 24,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 279985,
-      "num": 279985,
-      "word": "柯基 我的孩子腿必须短",
-      "onboard_time": 1712975956,
-      "rank": 14,
       "category": "幽默"
     },
     {
@@ -15684,7 +15748,7 @@
     },
     {
       "raw_hot": 261593,
-      "num": 199321,
+      "num": 233915,
       "word": "戚薇好薄一片",
       "onboard_time": 1712976557,
       "rank": 24,
@@ -16515,14 +16579,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 249912,
-      "num": 249912,
-      "word": "宝宝长宝宝短宝宝有事我不管",
-      "onboard_time": 1712976496,
-      "rank": 15,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 249867,
       "num": 249867,
       "word": "抢不到娃的幼儿园开始托老",
@@ -16553,14 +16609,6 @@
       "onboard_time": 1712635399,
       "rank": 35,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 249644,
-      "num": 198139,
-      "word": "为什么研究生搞不定中学的比赛",
-      "onboard_time": 1712977336,
-      "rank": 26,
-      "category": "情感"
     },
     {
       "raw_hot": 249536,
@@ -18787,6 +18835,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 219453,
+      "num": 219453,
+      "word": "研究生应该收父母给的生活费吗",
+      "onboard_time": 1712978536,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 219356,
       "num": 219356,
       "word": "金星啥时候离的婚",
@@ -19043,6 +19099,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 216853,
+      "num": 1029361,
+      "word": "不愧是最美的人间四月天",
+      "onboard_time": 1712977216,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 216688,
       "num": 168554,
       "word": "关晓彤暗夜黑纱裙",
@@ -19225,6 +19289,14 @@
       "onboard_time": 1712498600,
       "rank": 33,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 214357,
+      "num": 214357,
+      "word": "多国建议本国公民勿前往以色列伊朗等国",
+      "onboard_time": 1712978237,
+      "rank": 31,
+      "category": "国外时政"
     },
     {
       "raw_hot": 214339,
@@ -21417,14 +21489,6 @@
       "onboard_time": 1712240720,
       "rank": 31,
       "category": "教育"
-    },
-    {
-      "raw_hot": 197699,
-      "num": 197699,
-      "word": "BLG管理层",
-      "onboard_time": 1712977577,
-      "rank": 28,
-      "category": "电竞"
     },
     {
       "raw_hot": 197673,
@@ -23747,6 +23811,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 183007,
+      "num": 183007,
+      "word": "鹈鹕vs勇士",
+      "onboard_time": 1712978118,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 182991,
       "num": 159339,
       "word": "王润泽靠墙蹲",
@@ -24209,6 +24281,14 @@
       "onboard_time": 1712074876,
       "rank": 47,
       "category": "电影"
+    },
+    {
+      "raw_hot": 179032,
+      "num": 179032,
+      "word": "赵丽颖工作室发文告别沈璃",
+      "onboard_time": 1712977757,
+      "rank": 37,
+      "category": "剧集"
     },
     {
       "raw_hot": 178990,
@@ -26147,14 +26227,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 162433,
-      "num": 162433,
-      "word": "BLG辅助On被喷",
-      "onboard_time": 1712977817,
-      "rank": 31,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 162413,
       "num": 162413,
       "word": "摇太阳片尾曲是张杰唱的",
@@ -27201,6 +27273,14 @@
       "onboard_time": 1712407399,
       "rank": 45,
       "category": "情感"
+    },
+    {
+      "raw_hot": 154760,
+      "num": 154760,
+      "word": "詹姆斯杀死比赛",
+      "onboard_time": 1712977878,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 154696,
@@ -29259,14 +29339,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 140232,
-      "num": 140232,
-      "word": "赵丽颖工作室发文告别沈璃",
-      "onboard_time": 1712977757,
-      "rank": 37,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 140217,
       "num": 140217,
       "word": "EXO出道12周年",
@@ -30899,14 +30971,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 126331,
-      "num": 126331,
-      "word": "马嘉祺有个双胞胎哥哥",
-      "onboard_time": 1712978057,
-      "rank": 44,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 126286,
       "num": 126286,
       "word": "TWICE小甜曲",
@@ -30969,14 +31033,6 @@
       "onboard_time": 1712484979,
       "rank": 48,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 125882,
-      "num": 583241,
-      "word": "不愧是最美的人间四月天",
-      "onboard_time": 1712977216,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 125817,
@@ -31179,14 +31235,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 124227,
-      "num": 124227,
-      "word": "詹姆斯杀死比赛",
-      "onboard_time": 1712977878,
-      "rank": 45,
-      "category": "体育"
-    },
-    {
       "raw_hot": 124198,
       "num": 124198,
       "word": "这类食物能延缓衰老",
@@ -31273,14 +31321,6 @@
       "onboard_time": 1712914938,
       "rank": 48,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 123395,
-      "num": 123395,
-      "word": "散是满天星 合是神金病",
-      "onboard_time": 1712978057,
-      "rank": 47,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 123290,
@@ -31915,6 +31955,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 116905,
+      "num": 116905,
+      "word": "护师考试",
+      "onboard_time": 1712978477,
+      "rank": 48,
+      "category": "教育"
+    },
+    {
       "raw_hot": 116899,
       "num": 577098,
       "word": "老乡鸡20万字菜品溯源报告",
@@ -32328,6 +32376,14 @@
       "word": "我国首口超5000米深层地热科学探井",
       "onboard_time": 1712582122,
       "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 110748,
+      "num": 219459,
+      "word": "去医院检查千万别穿成这样",
+      "onboard_time": 1712979197,
+      "rank": 29,
       "category": "社会新闻"
     },
     {
