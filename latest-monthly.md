@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/04/01 00:20:44 ~ 2024/04/13 22:34:12
+本榜单时间：2024/04/01 00:20:44 ~ 2024/04/13 23:13:27
 </p>
 </blockquote>
 <p>
@@ -2211,6 +2211,12 @@ TFBOYS组合没解散（热度：1029893）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%2338%E5%9D%97%E9%92%B1%E5%B1%85%E7%84%B6%E8%83%BD%E5%90%8320%E4%B8%AA%E8%8F%9C%23" target="weibo">
+38块钱居然能吃20个菜（热度：996257）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%87%8D%E5%BA%86%E5%A5%B3%E5%AD%90%E9%AB%98%E7%A9%BA%E6%8A%9B%E5%AD%90%E6%88%96%E4%B8%8D%E6%89%BF%E6%8B%85%E5%88%91%E4%BA%8B%E8%B4%A3%E4%BB%BB%23" target="weibo">
 重庆女子高空抛子或不承担刑事责任（热度：995407）
 </a>
@@ -2865,6 +2871,12 @@ ZARA大量粉丝紧急扫货（热度：865085）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%AD%A6%E6%96%B9%E8%B0%83%E6%9F%A514%E5%B2%81%E5%A5%B3%E7%94%9F%E8%A2%AB%E5%AD%A6%E6%A0%A1%E6%95%99%E7%BB%83%E6%80%A7%E4%BE%B5%23" target="weibo">
+警方调查14岁女生被学校教练性侵（热度：846312）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9E%97%E7%8B%97%E4%BD%A0%E8%A1%8C%E4%B8%8D%E8%A1%8C%E5%95%8A%23" target="weibo">
 林狗你行不行啊（热度：845707）
 </a>
@@ -3353,6 +3365,12 @@ infp 最接近神的人格（热度：822265）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%89%BF%E6%AC%A2%E8%AE%B0%E6%94%B6%E8%A7%86%E7%8E%87%23" target="weibo">
 承欢记收视率（热度：776242）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%A7%A6%E7%9A%87%E5%B2%9B%E4%B8%80%E8%88%B9%E5%8F%AA%E4%BE%A7%E7%BF%BB%E5%B7%B2%E8%87%B412%E6%AD%BB6%E5%A4%B1%E8%81%94%23" target="weibo">
+秦皇岛一船只侧翻已致12死6失联（热度：776121）
 </a>
 </li>
 
@@ -4971,6 +4989,12 @@ HYBE是不是疯了（热度：680667）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9E%97%E4%BF%8A%E6%9D%B0%E5%94%B1%E5%BD%93%E4%BD%A0%E9%80%81%E7%BB%99%E9%9A%94%E5%A3%81%E7%8E%8B%E5%BF%83%E5%87%8C%23" target="weibo">
+林俊杰唱当你送给隔壁王心凌（热度：607684）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23IU%E5%94%B1%E5%91%8A%E4%BA%94%E4%BA%BA%E7%9A%84%E5%94%AF%E4%B8%80%23" target="weibo">
 IU唱告五人的唯一（热度：607566）
 </a>
@@ -4985,6 +5009,12 @@ IU唱告五人的唯一（热度：607566）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%BF%BD%E9%A3%8E%E8%80%85%20%E6%8B%BF%E5%A5%96%23" target="weibo">
 追风者 拿奖（热度：606933）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%A7%A6%E7%9A%87%E5%B2%9B%E4%B8%80%E8%88%B9%E5%8F%AA%E4%BE%A7%E7%BF%BB31%E4%BA%BA%E8%90%BD%E6%B0%B4%23" target="weibo">
+秦皇岛一船只侧翻31人落水（热度：605899）
 </a>
 </li>
 
@@ -5459,12 +5489,6 @@ ZARA撤出中国市场系不实消息（热度：567725）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%81%82%E8%BF%9C%E6%AF%8F%E6%9C%88%E7%BB%99%E8%80%81%E5%A9%86300%E4%B8%87%E7%94%9F%E6%B4%BB%E8%B4%B9%23" target="weibo">
 聂远每月给老婆300万生活费（热度：566126）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%2338%E5%9D%97%E9%92%B1%E5%B1%85%E7%84%B6%E8%83%BD%E5%90%8320%E4%B8%AA%E8%8F%9C%23" target="weibo">
-38块钱居然能吃20个菜（热度：566089）
 </a>
 </li>
 
@@ -5987,30 +6011,6 @@ RNG直播需付费观看（热度：555663）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%8B%B9%E6%9E%9C%E5%AE%A2%E6%9C%8D%E5%9B%9E%E5%BA%94iPhone%E9%97%B9%E9%92%9F%E4%B8%8D%E4%BC%9A%E8%AF%86%E5%88%AB%E8%B0%83%E4%BC%91%23" target="weibo">
 苹果客服回应iPhone闹钟不会识别调休（热度：528329）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%BD%93%E8%82%B2%E6%80%BB%E5%B1%80%E8%A6%81%E6%B1%82%E5%A5%B3%E7%AF%AE%E8%B5%B0%E5%87%BA%E8%88%92%E9%80%82%E5%9C%88%23" target="weibo">
-体育总局要求女篮走出舒适圈（热度：528112）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%87%8D%E5%BA%86%E4%B8%80%E9%AB%98%E5%B1%82%E5%B1%85%E6%B0%91%E6%A5%BC%E7%AA%81%E5%8F%91%E7%81%AB%E7%81%BE%23" target="weibo">
-重庆一高层居民楼突发火灾（热度：527911）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9C%88%E7%BB%8F%E5%87%BA%E7%8E%B0%E8%BF%995%E7%A7%8D%E6%83%85%E5%86%B5%E8%AF%B4%E6%98%8E%E5%AD%90%E5%AE%AB%E5%81%A5%E5%BA%B7%23" target="weibo">
-月经出现这5种情况说明子宫健康（热度：527723）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23CP%E5%8F%98%E9%AA%A8%E7%A7%91%23" target="weibo">
-CP变骨科（热度：527570）
 </a>
 </li>
 
