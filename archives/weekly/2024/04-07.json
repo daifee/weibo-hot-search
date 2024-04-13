@@ -1,6 +1,6 @@
 {
   "startTime": 1712420539476,
-  "endTime": 1713012075233,
+  "endTime": 1713014239104,
   "band_list": [
     {
       "raw_hot": 9583581,
@@ -1435,6 +1435,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1023808,
+      "num": 1023808,
+      "word": "郑合惠子 垃圾堆里扒好东西",
+      "onboard_time": 1713010157,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1023620,
       "num": 1023620,
       "word": "拜登承诺将用核武器保护日本",
@@ -2059,14 +2067,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 826971,
-      "num": 826971,
-      "word": "郑合惠子 垃圾堆里扒好东西",
-      "onboard_time": 1713010157,
-      "rank": 11,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 825295,
       "num": 825295,
       "word": "马嘉祺哥哥正脸曝光",
@@ -2547,6 +2547,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 738897,
+      "num": 738897,
+      "word": "赵丽颖沙滩照",
+      "onboard_time": 1713012738,
+      "rank": 5,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 735808,
       "num": 735808,
       "word": "黄子韬徐艺洋被说像兄妹",
@@ -2755,6 +2763,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 707176,
+      "num": 707176,
+      "word": "眼泪女王",
+      "onboard_time": 1712407399,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 705708,
       "num": 324011,
       "word": "赵丽颖扇子上写的叫爸爸",
@@ -2883,14 +2899,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 687741,
-      "num": 687741,
-      "word": "眼泪女王",
-      "onboard_time": 1712407399,
-      "rank": 32,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 687376,
       "num": 487069,
       "word": "Sunnee熊梓淇方声明",
@@ -2905,6 +2913,14 @@
       "onboard_time": 1712450178,
       "rank": 4,
       "category": "情感"
+    },
+    {
+      "raw_hot": 684858,
+      "num": 619203,
+      "word": "眼泪女王 不会要be吧",
+      "onboard_time": 1713013097,
+      "rank": 8,
+      "category": "剧集"
     },
     {
       "raw_hot": 684366,
@@ -3225,6 +3241,14 @@
       "onboard_time": 1712550141,
       "rank": 31,
       "category": "情感"
+    },
+    {
+      "raw_hot": 632500,
+      "num": 632500,
+      "word": "伊朗对美国发出警告",
+      "onboard_time": 1713011357,
+      "rank": 15,
+      "category": "国外时政"
     },
     {
       "raw_hot": 630779,
@@ -3875,6 +3899,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 551408,
+      "num": 551408,
+      "word": "苏打绿演唱会 盗摄",
+      "onboard_time": 1713011957,
+      "rank": 31,
+      "category": "演出"
+    },
+    {
       "raw_hot": 551246,
       "num": 551246,
       "word": "赵奕欢被李菲儿逼哭",
@@ -4041,6 +4073,14 @@
       "onboard_time": 1712793017,
       "rank": 13,
       "category": "游戏,网红"
+    },
+    {
+      "raw_hot": 538233,
+      "num": 538233,
+      "word": "陈卓璇体重只有74斤",
+      "onboard_time": 1713013638,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 536916,
@@ -4217,6 +4257,14 @@
       "onboard_time": 1712411658,
       "rank": 38,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 519016,
+      "num": 294499,
+      "word": "彻底打消了去韩国旅游的念头",
+      "onboard_time": 1713011118,
+      "rank": 21,
+      "category": "旅游"
     },
     {
       "raw_hot": 517574,
@@ -4673,14 +4721,6 @@
       "onboard_time": 1712820498,
       "rank": 35,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 483525,
-      "num": 294499,
-      "word": "彻底打消了去韩国旅游的念头",
-      "onboard_time": 1713011118,
-      "rank": 21,
-      "category": "旅游"
     },
     {
       "raw_hot": 483476,
@@ -5339,6 +5379,14 @@
       "category": "动漫,作品衍生"
     },
     {
+      "raw_hot": 439998,
+      "num": 439998,
+      "word": "海仁表白",
+      "onboard_time": 1713012859,
+      "rank": 15,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 439484,
       "num": 276593,
       "word": "为什么很多人宁愿裸辞也不将就",
@@ -5817,6 +5865,14 @@
       "onboard_time": 1712911100,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 400484,
+      "num": 190861,
+      "word": "微信被拉黑删除和被屏蔽的区别",
+      "onboard_time": 1713012018,
+      "rank": 48,
+      "category": "互联网"
     },
     {
       "raw_hot": 400344,
@@ -6459,6 +6515,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 356360,
+      "num": 186963,
+      "word": "薛之谦发型一半清汤一半麻辣",
+      "onboard_time": 1713012738,
+      "rank": 25,
+      "category": "演出"
+    },
+    {
       "raw_hot": 356033,
       "num": 356033,
       "word": "林更新下部戏是玫瑰的故事",
@@ -6747,20 +6811,20 @@
       "category": "情感"
     },
     {
-      "raw_hot": 345306,
-      "num": 345306,
-      "word": "伊朗对美国发出警告",
-      "onboard_time": 1713011357,
-      "rank": 15,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 344830,
       "num": 278373,
       "word": "进体制内还能追星吗",
       "onboard_time": 1712999598,
       "rank": 31,
       "category": "情感"
+    },
+    {
+      "raw_hot": 343892,
+      "num": 186884,
+      "word": "种地吧母带",
+      "onboard_time": 1713012258,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 343844,
@@ -7329,6 +7393,14 @@
       "onboard_time": 1712725522,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 316823,
+      "num": 186761,
+      "word": "钟美美母亲曾被父亲打骨折",
+      "onboard_time": 1713013818,
+      "rank": 28,
+      "category": "网红"
     },
     {
       "raw_hot": 316196,
@@ -7969,6 +8041,14 @@
       "onboard_time": 1712977817,
       "rank": 31,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 293450,
+      "num": 293450,
+      "word": "警方回应保时捷女司机撞车恐吓被撞车主",
+      "onboard_time": 1713009919,
+      "rank": 26,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 293315,
@@ -8681,14 +8761,6 @@
       "onboard_time": 1712594715,
       "rank": 13,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 263940,
-      "num": 263940,
-      "word": "警方回应保时捷女司机撞车恐吓被撞车主",
-      "onboard_time": 1713009919,
-      "rank": 26,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 263275,
@@ -10547,6 +10619,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 218407,
+      "num": 186102,
+      "word": "许嵩唱了断桥残雪",
+      "onboard_time": 1713013699,
+      "rank": 31,
+      "category": "演出"
+    },
+    {
       "raw_hot": 218310,
       "num": 218310,
       "word": "鸿蒙智行回应雷军",
@@ -10785,6 +10865,14 @@
       "onboard_time": 1712716278,
       "rank": 32,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 214116,
+      "num": 182817,
+      "word": "赵奕欢应聘育儿嫂剪美甲卸睫毛",
+      "onboard_time": 1713011659,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 213609,
@@ -11481,14 +11569,6 @@
       "onboard_time": 1712635879,
       "rank": 49,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 204707,
-      "num": 204707,
-      "word": "苏打绿演唱会 盗摄",
-      "onboard_time": 1713011957,
-      "rank": 31,
-      "category": "演出"
     },
     {
       "raw_hot": 204701,
@@ -12275,6 +12355,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 197017,
+      "num": 168254,
+      "word": "Jennie粉蓝双色大片",
+      "onboard_time": 1713012859,
+      "rank": 40,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 196851,
       "num": 196851,
       "word": "Bin哥厉害",
@@ -12819,6 +12907,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 190785,
+      "num": 168142,
+      "word": "章昊唱中文歌",
+      "onboard_time": 1713013159,
+      "rank": 41,
+      "category": "演出"
+    },
+    {
       "raw_hot": 190619,
       "num": 190619,
       "word": "可可kakuyo",
@@ -13163,6 +13259,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 186755,
+      "num": 186755,
+      "word": "你的强NV来了",
+      "onboard_time": 1713014057,
+      "rank": 29,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 186718,
       "num": 200172,
       "word": "岸田白宫演讲口误称同盟国中国",
@@ -13299,6 +13403,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 185653,
+      "num": 185653,
+      "word": "荔枝和龙眼杂交出来的新水果",
+      "onboard_time": 1713011418,
+      "rank": 46,
+      "category": "美食"
+    },
+    {
       "raw_hot": 185583,
       "num": 185583,
       "word": "秦始皇帝陵何时能发掘",
@@ -13345,6 +13457,14 @@
       "onboard_time": 1712624419,
       "rank": 38,
       "category": "美食"
+    },
+    {
+      "raw_hot": 185042,
+      "num": 185042,
+      "word": "黑执事",
+      "onboard_time": 1713013340,
+      "rank": 34,
+      "category": "动漫"
     },
     {
       "raw_hot": 184925,
@@ -13563,6 +13683,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 182533,
+      "num": 185061,
+      "word": "班味最重的星座",
+      "onboard_time": 1713008778,
+      "rank": 35,
+      "category": "情感"
+    },
+    {
       "raw_hot": 182456,
       "num": 182456,
       "word": "宝骏悦也",
@@ -13745,14 +13873,6 @@
       "onboard_time": 1712476998,
       "rank": 34,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 179820,
-      "num": 179820,
-      "word": "班味最重的星座",
-      "onboard_time": 1713008778,
-      "rank": 35,
-      "category": "情感"
     },
     {
       "raw_hot": 179738,
@@ -14297,14 +14417,6 @@
       "onboard_time": 1712401819,
       "rank": 45,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 172322,
-      "num": 172322,
-      "word": "赵奕欢应聘育儿嫂剪美甲卸睫毛",
-      "onboard_time": 1713011659,
-      "rank": 37,
-      "category": "综艺"
     },
     {
       "raw_hot": 172198,
@@ -15867,6 +15979,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 151683,
+      "num": 151683,
+      "word": "KPL",
+      "onboard_time": 1712568799,
+      "rank": 49,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 151636,
       "num": 151636,
       "word": "白羊座肯放过自己",
@@ -16251,6 +16371,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 146859,
+      "num": 146859,
+      "word": "雅思组合无缘决赛",
+      "onboard_time": 1713013218,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 146822,
       "num": 137798,
       "word": "1杯茶可杀死口中99.9%的新冠病毒",
@@ -16465,14 +16593,6 @@
       "onboard_time": 1712819119,
       "rank": 32,
       "category": "军事"
-    },
-    {
-      "raw_hot": 144372,
-      "num": 144372,
-      "word": "荔枝和龙眼杂交出来的新水果",
-      "onboard_time": 1713011418,
-      "rank": 46,
-      "category": "美食"
     },
     {
       "raw_hot": 144212,
@@ -17547,6 +17667,14 @@
       "category": "音乐,时尚"
     },
     {
+      "raw_hot": 130951,
+      "num": 144637,
+      "word": "人生没有做什么是太晚的",
+      "onboard_time": 1713014179,
+      "rank": 49,
+      "category": "情感"
+    },
+    {
       "raw_hot": 130874,
       "num": 130874,
       "word": "赵丽颖剧中最虐的台词",
@@ -17809,14 +17937,6 @@
       "onboard_time": 1712825899,
       "rank": 44,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 126467,
-      "num": 126467,
-      "word": "微信被拉黑删除和被屏蔽的区别",
-      "onboard_time": 1713012018,
-      "rank": 48,
-      "category": "互联网"
     },
     {
       "raw_hot": 126449,
@@ -18345,14 +18465,6 @@
       "onboard_time": 1712556078,
       "rank": 49,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 119348,
-      "num": 119348,
-      "word": "KPL",
-      "onboard_time": 1712568799,
-      "rank": 49,
-      "category": "电竞"
     },
     {
       "raw_hot": 119340,
@@ -19779,6 +19891,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 66889,
+      "num": 1100521,
+      "word": "春日限定励志文案",
+      "onboard_time": 1713012798,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 66771,
       "num": 1435354,
       "word": "中国新兴文旅迎春勃发",
@@ -20836,6 +20956,9 @@
     },
     {
       "word": "#相知无远近万里尚为邻#"
+    },
+    {
+      "word": "#把握两岸关系大局#"
     }
   ]
 }
