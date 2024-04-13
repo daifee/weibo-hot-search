@@ -1,0 +1,410 @@
+{
+  "runTime": 1713012075233,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1791637,
+        "num": 1791637,
+        "word": "Thurman猫一杯视频号被封",
+        "onboard_time": 1713005717,
+        "rank": 0,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 1478278,
+        "num": 1478278,
+        "word": "车辆发生剐蹭女子叫嚣自己老公是国足",
+        "onboard_time": 1713004757,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 14130,
+        "num": 1088068,
+        "word": "在高原感受别样的春日浪漫",
+        "onboard_time": 1712995997,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1065386,
+        "num": 1065386,
+        "word": "保时捷撞车后女子砸门被行政拘留",
+        "onboard_time": 1713009318,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 925206,
+        "num": 925206,
+        "word": "张一山银发",
+        "onboard_time": 1713006197,
+        "rank": 4,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 826971,
+        "num": 826971,
+        "word": "郑合惠子 垃圾堆里扒好东西",
+        "onboard_time": 1713010157,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 604011,
+        "num": 604011,
+        "word": "金秀贤金智媛不再合体",
+        "onboard_time": 1712989517,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 519712,
+        "num": 519712,
+        "word": "RNG直播需付费观看",
+        "onboard_time": 1713006738,
+        "rank": 7,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 491525,
+        "num": 491525,
+        "word": "伊朗扣押一艘和以色列相关货船",
+        "onboard_time": 1713007757,
+        "rank": 8,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 382155,
+        "num": 469699,
+        "word": "男子养了20年的海龟竟是国保玳瑁",
+        "onboard_time": 1713001817,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 571723,
+        "num": 463706,
+        "word": "赵丽颖说谢谢狗哥",
+        "onboard_time": 1713000498,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 456312,
+        "num": 456312,
+        "word": "绝大部分人感染HPV后会自愈",
+        "onboard_time": 1712994977,
+        "rank": 11,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 419569,
+        "num": 419569,
+        "word": "成龙为刘浩存提裙摆",
+        "onboard_time": 1713009257,
+        "rank": 12,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 353566,
+        "num": 353566,
+        "word": "承欢记",
+        "onboard_time": 1713010998,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 349761,
+        "num": 349761,
+        "word": "于正不许王星越今年恋爱",
+        "onboard_time": 1713006678,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 345306,
+        "num": 345306,
+        "word": "伊朗对美国发出警告",
+        "onboard_time": 1713011357,
+        "rank": 15,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 305885,
+        "num": 305885,
+        "word": "杜华称参加浪姐一天被骂200万条",
+        "onboard_time": 1713003559,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 304531,
+        "num": 304531,
+        "word": "撒贝宁跟何炅说想大侦探了",
+        "onboard_time": 1713004457,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 281381,
+        "num": 281381,
+        "word": "猫一杯 秦朗事件",
+        "onboard_time": 1712988136,
+        "rank": 18,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 263940,
+        "num": 263940,
+        "word": "警方回应保时捷女司机撞车恐吓被撞车主",
+        "onboard_time": 1713009919,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 483525,
+        "num": 262436,
+        "word": "彻底打消了去韩国旅游的念头",
+        "onboard_time": 1713011118,
+        "rank": 20,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 300645,
+        "num": 260120,
+        "word": "邓紫棋长沙演唱会场外多人高喊退票",
+        "onboard_time": 1713004639,
+        "rank": 21,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 297100,
+        "num": 253424,
+        "word": "你好星期六",
+        "onboard_time": 1713010278,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 245480,
+        "num": 245480,
+        "word": "江西师大虐猫男生被开除学籍",
+        "onboard_time": 1712997857,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 238204,
+        "num": 238204,
+        "word": "某幻 音乐节",
+        "onboard_time": 1713000737,
+        "rank": 24,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 292299,
+        "num": 236660,
+        "word": "成毅晒面摊",
+        "onboard_time": 1712996178,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 232170,
+        "num": 232170,
+        "word": "伊朗称美若干预伊以纷争将打击美军",
+        "onboard_time": 1713006378,
+        "rank": 26,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 224453,
+        "num": 224453,
+        "word": "张杰演唱会地屏",
+        "onboard_time": 1713006378,
+        "rank": 27,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 219475,
+        "num": 219475,
+        "word": "猫一杯2小时掉10万粉",
+        "onboard_time": 1712983578,
+        "rank": 28,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 205576,
+        "num": 205576,
+        "word": "双北",
+        "onboard_time": 1713009437,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 205461,
+        "num": 205461,
+        "word": "黄子韬新专辑",
+        "onboard_time": 1713011957,
+        "rank": 30,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 204707,
+        "num": 204707,
+        "word": "苏打绿演唱会 盗摄",
+        "onboard_time": 1713011957,
+        "rank": 31,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 198625,
+        "num": 198625,
+        "word": "KSG对战AG",
+        "onboard_time": 1713011957,
+        "rank": 32,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 197783,
+        "num": 197783,
+        "word": "南昌下午一点半天就黑了",
+        "onboard_time": 1713002057,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 179259,
+        "num": 179259,
+        "word": "班味最重的星座",
+        "onboard_time": 1713008778,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 173113,
+        "num": 173113,
+        "word": "地狱开局 刚成年的父母",
+        "onboard_time": 1713007276,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 172384,
+        "num": 172384,
+        "word": "留意侧躺玩手机后的眼睛变化",
+        "onboard_time": 1712997065,
+        "rank": 36,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 172322,
+        "num": 172322,
+        "word": "赵奕欢应聘育儿嫂剪美甲卸睫毛",
+        "onboard_time": 1713011659,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 171557,
+        "num": 171557,
+        "word": "马嘉祺哥哥正脸曝光",
+        "onboard_time": 1712991377,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 170631,
+        "num": 170631,
+        "word": "周杰伦昆凌向花莲灾区捐款500万",
+        "onboard_time": 1713008718,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 167179,
+        "num": 167179,
+        "word": "JENNIE KPOP刊帝",
+        "onboard_time": 1713005957,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 164370,
+        "num": 164370,
+        "word": "伊朗",
+        "onboard_time": 1712996656,
+        "rank": 41,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 162305,
+        "num": 162305,
+        "word": "无意中发现最爱吃包菜的动物",
+        "onboard_time": 1713012018,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 159484,
+        "num": 159484,
+        "word": "朋友圈置顶是所有人可见吗",
+        "onboard_time": 1712998818,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 154945,
+        "num": 154945,
+        "word": "当吃不了西红柿的人尝试圣女果",
+        "onboard_time": 1713006856,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 145453,
+        "num": 145453,
+        "word": "炮制秦朗丢作业丢掉了什么",
+        "onboard_time": 1712981417,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 144372,
+        "num": 144372,
+        "word": "荔枝和龙眼杂交出来的新水果",
+        "onboard_time": 1713011418,
+        "rank": 46,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 133082,
+        "num": 133082,
+        "word": "单身生活才是最爽的",
+        "onboard_time": 1713006318,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 126467,
+        "num": 126467,
+        "word": "微信被拉黑删除和被屏蔽的区别",
+        "onboard_time": 1713012018,
+        "rank": 48,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 122467,
+        "num": 122467,
+        "word": "眼泪女王",
+        "onboard_time": 1713012018,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#相知无远近万里尚为邻#"
+    }
+  }
+}

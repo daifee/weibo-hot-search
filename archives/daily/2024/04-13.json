@@ -1,6 +1,6 @@
 {
   "startTime": 1712938901785,
-  "endTime": 1713011285786,
+  "endTime": 1713012075233,
   "band_list": [
     {
       "raw_hot": 2380031,
@@ -209,6 +209,14 @@
       "onboard_time": 1712995217,
       "rank": 4,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 826971,
+      "num": 826971,
+      "word": "郑合惠子 垃圾堆里扒好东西",
+      "onboard_time": 1713010157,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 825295,
@@ -507,20 +515,20 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 483525,
+      "num": 294499,
+      "word": "彻底打消了去韩国旅游的念头",
+      "onboard_time": 1713011118,
+      "rank": 21,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 479856,
       "num": 479856,
       "word": "消息人士称伊朗或在24至48小时内袭击以色列",
       "onboard_time": 1712998818,
       "rank": 19,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 477844,
-      "num": 439575,
-      "word": "郑合惠子 垃圾堆里扒好东西",
-      "onboard_time": 1713010157,
-      "rank": 11,
-      "category": "艺人"
     },
     {
       "raw_hot": 477809,
@@ -739,6 +747,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 353566,
+      "num": 353566,
+      "word": "承欢记",
+      "onboard_time": 1713010998,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 351680,
       "num": 351680,
       "word": "华晨宇抢票",
@@ -777,6 +793,14 @@
       "onboard_time": 1712959932,
       "rank": 38,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 345306,
+      "num": 345306,
+      "word": "伊朗对美国发出警告",
+      "onboard_time": 1713011357,
+      "rank": 15,
+      "category": "国外时政"
     },
     {
       "raw_hot": 344830,
@@ -931,12 +955,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 300444,
-      "num": 294499,
-      "word": "彻底打消了去韩国旅游的念头",
-      "onboard_time": 1713011118,
-      "rank": 21,
-      "category": "旅游"
+      "raw_hot": 297100,
+      "num": 253424,
+      "word": "你好星期六",
+      "onboard_time": 1713010278,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 296716,
@@ -1027,6 +1051,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 263940,
+      "num": 263940,
+      "word": "警方回应保时捷女司机撞车恐吓被撞车主",
+      "onboard_time": 1713009919,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 263178,
       "num": 263178,
       "word": "58岁姐姐去世弟弟含泪吹唢呐送别",
@@ -1083,14 +1115,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 248427,
-      "num": 248427,
-      "word": "警方回应保时捷女司机撞车恐吓被撞车主",
-      "onboard_time": 1713009919,
-      "rank": 26,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 246470,
       "num": 246470,
       "word": "医院回应40余名被辞退护士系劳务派遣",
@@ -1121,14 +1145,6 @@
       "onboard_time": 1712978237,
       "rank": 31,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 234082,
-      "num": 234082,
-      "word": "你好星期六",
-      "onboard_time": 1713010278,
-      "rank": 28,
-      "category": "综艺"
     },
     {
       "raw_hot": 230278,
@@ -1259,6 +1275,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 205461,
+      "num": 205461,
+      "word": "黄子韬新专辑",
+      "onboard_time": 1713011957,
+      "rank": 30,
+      "category": "演出"
+    },
+    {
       "raw_hot": 204984,
       "num": 204984,
       "word": "GR 屠夫",
@@ -1281,6 +1305,14 @@
       "onboard_time": 1712988675,
       "rank": 27,
       "category": "体育"
+    },
+    {
+      "raw_hot": 204707,
+      "num": 204707,
+      "word": "苏打绿演唱会 盗摄",
+      "onboard_time": 1713011957,
+      "rank": 31,
+      "category": "演出"
     },
     {
       "raw_hot": 204225,
@@ -1353,6 +1385,14 @@
       "onboard_time": 1712981837,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 198625,
+      "num": 198625,
+      "word": "KSG对战AG",
+      "onboard_time": 1713011957,
+      "rank": 32,
+      "category": "电竞"
     },
     {
       "raw_hot": 197988,
@@ -1523,14 +1563,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 182983,
-      "num": 182983,
-      "word": "承欢记",
-      "onboard_time": 1713010998,
-      "rank": 34,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 181112,
       "num": 181112,
       "word": "英专生 五世同堂",
@@ -1651,6 +1683,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 172322,
+      "num": 172322,
+      "word": "赵奕欢应聘育儿嫂剪美甲卸睫毛",
+      "onboard_time": 1713011659,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 172198,
       "num": 172198,
       "word": "林俊杰天津演唱会彩排照",
@@ -1744,6 +1784,14 @@
       "word": "被猫咪纵身一跃后疑似骨折",
       "onboard_time": 1712984238,
       "rank": 32,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 162305,
+      "num": 162305,
+      "word": "无意中发现最爱吃包菜的动物",
+      "onboard_time": 1713012018,
+      "rank": 42,
       "category": "幽默"
     },
     {
@@ -2035,6 +2083,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 144372,
+      "num": 144372,
+      "word": "荔枝和龙眼杂交出来的新水果",
+      "onboard_time": 1713011418,
+      "rank": 46,
+      "category": "美食"
+    },
+    {
       "raw_hot": 143980,
       "num": 143980,
       "word": "怎么和infj复合",
@@ -2249,6 +2305,14 @@
       "onboard_time": 1712933419,
       "rank": 32,
       "category": "电影"
+    },
+    {
+      "raw_hot": 126467,
+      "num": 126467,
+      "word": "微信被拉黑删除和被屏蔽的区别",
+      "onboard_time": 1713012018,
+      "rank": 48,
+      "category": "互联网"
     },
     {
       "raw_hot": 126382,
@@ -2716,7 +2780,7 @@
     },
     {
       "raw_hot": 37860,
-      "num": 843395,
+      "num": 1088068,
       "word": "在高原感受别样的春日浪漫",
       "onboard_time": 1712995997,
       "rank": 2,
