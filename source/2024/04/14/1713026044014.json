@@ -1,0 +1,410 @@
+{
+  "runTime": 1713026044014,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 598571,
+        "num": 598571,
+        "word": "38块钱居然能吃20个菜",
+        "onboard_time": 1713016880,
+        "rank": 0,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 593379,
+        "num": 593379,
+        "word": "Thurman猫一杯视频号被封",
+        "onboard_time": 1713005717,
+        "rank": 1,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 40058,
+        "num": 558454,
+        "word": "炮制秦朗丢作业丢掉了什么",
+        "onboard_time": 1712981417,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 975287,
+        "num": 541975,
+        "word": "纪凌尘祝阚清子幸福",
+        "onboard_time": 1713016579,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 811378,
+        "num": 540728,
+        "word": "睡前1小时尽量别玩手机",
+        "onboard_time": 1713019700,
+        "rank": 4,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 524406,
+        "num": 524406,
+        "word": "秦皇岛一船只侧翻已致12死6失联",
+        "onboard_time": 1713019940,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 512921,
+        "num": 512921,
+        "word": "许嵩演唱会 没有嘉宾",
+        "onboard_time": 1713017540,
+        "rank": 6,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 465156,
+        "num": 465156,
+        "word": "金秀贤金智媛不再合体",
+        "onboard_time": 1712989517,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 403523,
+        "num": 403523,
+        "word": "李宇春无价之姐",
+        "onboard_time": 1713019820,
+        "rank": 8,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 108562,
+        "num": 342407,
+        "word": "男子养了20年的海龟竟是国保玳瑁",
+        "onboard_time": 1713001817,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 915019,
+        "num": 341924,
+        "word": "猫一杯旗下品牌发货售后正常",
+        "onboard_time": 1713015020,
+        "rank": 10,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 491435,
+        "num": 341197,
+        "word": "警方调查14岁女生被学校教练性侵",
+        "onboard_time": 1713018259,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 335498,
+        "num": 335498,
+        "word": "薛之谦发型一半清汤一半麻辣",
+        "onboard_time": 1713012738,
+        "rank": 12,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 312353,
+        "num": 312353,
+        "word": "纪凌尘说蹭阚清子热度是事实",
+        "onboard_time": 1713016519,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 304747,
+        "num": 304747,
+        "word": "伊朗对美国发出警告",
+        "onboard_time": 1713011357,
+        "rank": 14,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 275894,
+        "num": 275894,
+        "word": "一诺公孙离",
+        "onboard_time": 1713022039,
+        "rank": 15,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 273738,
+        "num": 273738,
+        "word": "眼泪女王 不会要be吧",
+        "onboard_time": 1713013097,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 268667,
+        "num": 268667,
+        "word": "王心凌回应隔壁林俊杰送歌",
+        "onboard_time": 1713021679,
+        "rank": 17,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 250986,
+        "num": 250986,
+        "word": "四川彭州一养猪场发生中毒事故致7死",
+        "onboard_time": 1713020720,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 191782,
+        "num": 191782,
+        "word": "秦皇岛一船只侧翻31人落水",
+        "onboard_time": 1713020421,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 450149,
+        "num": 191639,
+        "word": "睡前1分钟躺着就能瘦肚子",
+        "onboard_time": 1713020600,
+        "rank": 20,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 268272,
+        "num": 189307,
+        "word": "林俊杰唱当你送给隔壁王心凌",
+        "onboard_time": 1713018441,
+        "rank": 21,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 251637,
+        "num": 187918,
+        "word": "没想到这种国粹在韩综里出现了",
+        "onboard_time": 1713023658,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 224110,
+        "num": 186694,
+        "word": "一夜承明",
+        "onboard_time": 1713022939,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 206573,
+        "num": 185732,
+        "word": "普通人的4次翻身机会",
+        "onboard_time": 1713018441,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 208469,
+        "num": 183998,
+        "word": "齐思钧30岁考古8年前的自己",
+        "onboard_time": 1713023119,
+        "rank": 25,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 198809,
+        "num": 181947,
+        "word": "张靓颖 老娘没有唱破音",
+        "onboard_time": 1713015497,
+        "rank": 26,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 181276,
+        "num": 181276,
+        "word": "微信被拉黑删除和被屏蔽的区别",
+        "onboard_time": 1713012018,
+        "rank": 27,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 177052,
+        "num": 177052,
+        "word": "荔枝和龙眼杂交出来的新水果",
+        "onboard_time": 1713011418,
+        "rank": 28,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 159557,
+        "num": 159557,
+        "word": "伊朗扣押一艘和以色列相关货船",
+        "onboard_time": 1713007757,
+        "rank": 29,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 170515,
+        "num": 155710,
+        "word": "彻底打消了去韩国旅游的念头",
+        "onboard_time": 1713011118,
+        "rank": 30,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 151764,
+        "num": 151764,
+        "word": "辛芷蕾出发泰国录制花少",
+        "onboard_time": 1713021259,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 148559,
+        "num": 148559,
+        "word": "伊朗称美若干预伊以纷争将打击美军",
+        "onboard_time": 1713006378,
+        "rank": 32,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 147024,
+        "num": 147024,
+        "word": "不要再把月经称为那个了",
+        "onboard_time": 1713014779,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 146192,
+        "num": 146192,
+        "word": "赵丽颖沙滩照",
+        "onboard_time": 1713012738,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 140851,
+        "num": 140851,
+        "word": "许凯身材好好",
+        "onboard_time": 1713016039,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 135278,
+        "num": 135278,
+        "word": "许嵩唱了断桥残雪",
+        "onboard_time": 1713013699,
+        "rank": 36,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 127749,
+        "num": 127749,
+        "word": "郑恺苗苗跳主题曲",
+        "onboard_time": 1713019099,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 127718,
+        "num": 127718,
+        "word": "保时捷撞车后女子砸门被行政拘留",
+        "onboard_time": 1713009318,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 115565,
+        "num": 115565,
+        "word": "伊朗扣押的船只上有17名印度人",
+        "onboard_time": 1713019940,
+        "rank": 39,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 124212,
+        "num": 115527,
+        "word": "种地吧母带",
+        "onboard_time": 1713012258,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 120311,
+        "num": 115514,
+        "word": "张杰雨中唱泡沫破碎感",
+        "onboard_time": 1713015559,
+        "rank": 41,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 118209,
+        "num": 115430,
+        "word": "眼泪女王",
+        "onboard_time": 1713012018,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 115100,
+        "num": 115100,
+        "word": "BABYMONSTER翻跳2NE1串烧",
+        "onboard_time": 1713019940,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 118181,
+        "num": 115007,
+        "word": "眼泪女王11集",
+        "onboard_time": 1713020540,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 113940,
+        "num": 113940,
+        "word": "元与均棋",
+        "onboard_time": 1713021979,
+        "rank": 45,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 110709,
+        "num": 110709,
+        "word": "5种素菜是热量炸弹",
+        "onboard_time": 1713017721,
+        "rank": 46,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 104348,
+        "num": 104348,
+        "word": "久哲 血脉压制",
+        "onboard_time": 1713021499,
+        "rank": 47,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 95660,
+        "num": 95660,
+        "word": "RNG直播需付费观看",
+        "onboard_time": 1713006738,
+        "rank": 48,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 69782,
+        "num": 95660,
+        "word": "伊朗",
+        "onboard_time": 1712996656,
+        "rank": 49,
+        "category": "国外时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#把握两岸关系大局#"
+    }
+  }
+}

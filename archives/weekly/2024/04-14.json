@@ -1,6 +1,6 @@
 {
   "startTime": 1713025251708,
-  "endTime": 1713025251708,
+  "endTime": 1713026044014,
   "band_list": [
     {
       "raw_hot": 1120400,
@@ -155,12 +155,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 250389,
-      "num": 250389,
+      "raw_hot": 268667,
+      "num": 268667,
       "word": "王心凌回应隔壁林俊杰送歌",
       "onboard_time": 1713021679,
       "rank": 21,
       "category": "演出"
+    },
+    {
+      "raw_hot": 251637,
+      "num": 223957,
+      "word": "没想到这种国粹在韩综里出现了",
+      "onboard_time": 1713023658,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 227166,
@@ -187,14 +195,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 223957,
-      "num": 223957,
-      "word": "没想到这种国粹在韩综里出现了",
-      "onboard_time": 1713023658,
-      "rank": 26,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 223502,
       "num": 223502,
       "word": "张靓颖 老娘没有唱破音",
@@ -203,7 +203,15 @@
       "category": "演出"
     },
     {
-      "raw_hot": 172067,
+      "raw_hot": 181276,
+      "num": 181276,
+      "word": "微信被拉黑删除和被屏蔽的区别",
+      "onboard_time": 1713012018,
+      "rank": 30,
+      "category": "互联网"
+    },
+    {
+      "raw_hot": 177052,
       "num": 224917,
       "word": "荔枝和龙眼杂交出来的新水果",
       "onboard_time": 1713011418,
@@ -227,12 +235,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 169478,
-      "num": 169478,
-      "word": "微信被拉黑删除和被屏蔽的区别",
-      "onboard_time": 1713012018,
-      "rank": 30,
-      "category": "互联网"
+      "raw_hot": 170515,
+      "num": 159563,
+      "word": "彻底打消了去韩国旅游的念头",
+      "onboard_time": 1713011118,
+      "rank": 32,
+      "category": "旅游"
     },
     {
       "raw_hot": 161962,
@@ -241,14 +249,6 @@
       "onboard_time": 1713021259,
       "rank": 31,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 159563,
-      "num": 159563,
-      "word": "彻底打消了去韩国旅游的念头",
-      "onboard_time": 1713011118,
-      "rank": 32,
-      "category": "旅游"
     },
     {
       "raw_hot": 157266,
@@ -371,12 +371,28 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 118209,
+      "num": 115430,
+      "word": "眼泪女王",
+      "onboard_time": 1713012018,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 110692,
       "num": 408131,
       "word": "男子养了20年的海龟竟是国保玳瑁",
       "onboard_time": 1713001817,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 95660,
+      "num": 118280,
+      "word": "RNG直播需付费观看",
+      "onboard_time": 1713006738,
+      "rank": 49,
+      "category": "电竞"
     },
     {
       "raw_hot": 89339,
@@ -387,12 +403,12 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 86139,
-      "num": 118280,
-      "word": "RNG直播需付费观看",
-      "onboard_time": 1713006738,
+      "raw_hot": 69782,
+      "num": 95660,
+      "word": "伊朗",
+      "onboard_time": 1712996656,
       "rank": 49,
-      "category": "电竞"
+      "category": "国外时政"
     },
     {
       "raw_hot": 49570,
