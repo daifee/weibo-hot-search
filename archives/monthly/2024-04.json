@@ -1,6 +1,6 @@
 {
   "startTime": 1711902044401,
-  "endTime": 1713017715257,
+  "endTime": 1713018852301,
   "band_list": [
     {
       "raw_hot": 16874674,
@@ -225,6 +225,14 @@
       "onboard_time": 1711971080,
       "rank": 41,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2473684,
+      "num": 998468,
+      "word": "纪凌尘祝阚清子幸福",
+      "onboard_time": 1713016579,
+      "rank": 3,
+      "category": "综艺"
     },
     {
       "raw_hot": 2473429,
@@ -569,14 +577,6 @@
       "onboard_time": 1712656038,
       "rank": 0,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1886848,
-      "num": 998468,
-      "word": "纪凌尘祝阚清子幸福",
-      "onboard_time": 1713016579,
-      "rank": 3,
-      "category": "综艺"
     },
     {
       "raw_hot": 1883112,
@@ -1339,6 +1339,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 1451830,
+      "num": 453024,
+      "word": "纪凌尘说蹭阚清子热度是事实",
+      "onboard_time": 1713016519,
+      "rank": 8,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1441570,
       "num": 905783,
       "word": "上个破班而已别把自己搭进去",
@@ -1769,14 +1777,6 @@
       "onboard_time": 1712150661,
       "rank": 18,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 1277128,
-      "num": 394229,
-      "word": "纪凌尘说蹭阚清子热度是事实",
-      "onboard_time": 1713016519,
-      "rank": 8,
-      "category": "综艺"
     },
     {
       "raw_hot": 1274371,
@@ -3251,6 +3251,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 929433,
+      "num": 929433,
+      "word": "猫一杯旗下品牌发货售后正常",
+      "onboard_time": 1713015020,
+      "rank": 35,
+      "category": "网红"
+    },
+    {
       "raw_hot": 927838,
       "num": 927838,
       "word": "金价大涨打乱备婚计划",
@@ -3321,14 +3329,6 @@
       "onboard_time": 1712837958,
       "rank": 6,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 919169,
-      "num": 385165,
-      "word": "猫一杯旗下品牌发货售后正常",
-      "onboard_time": 1713015020,
-      "rank": 35,
-      "category": "网红"
     },
     {
       "raw_hot": 919040,
@@ -4897,6 +4897,14 @@
       "onboard_time": 1712194219,
       "rank": 28,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 728931,
+      "num": 420308,
+      "word": "许嵩演唱会 没有嘉宾",
+      "onboard_time": 1713017540,
+      "rank": 31,
+      "category": "演出"
     },
     {
       "raw_hot": 728817,
@@ -7257,6 +7265,14 @@
       "onboard_time": 1711883359,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 566089,
+      "num": 566089,
+      "word": "38块钱居然能吃20个菜",
+      "onboard_time": 1713016880,
+      "rank": 18,
+      "category": "美食"
     },
     {
       "raw_hot": 565853,
@@ -11291,14 +11307,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 392604,
-      "num": 324579,
-      "word": "许嵩演唱会 没有嘉宾",
-      "onboard_time": 1713017540,
-      "rank": 31,
-      "category": "演出"
-    },
-    {
       "raw_hot": 392405,
       "num": 392405,
       "word": "外科专家插吸管",
@@ -12201,6 +12209,14 @@
       "onboard_time": 1712537959,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 361681,
+      "num": 298584,
+      "word": "林俊杰唱当你送给隔壁王心凌",
+      "onboard_time": 1713018441,
+      "rank": 25,
+      "category": "演出"
     },
     {
       "raw_hot": 361529,
@@ -13739,6 +13755,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 319045,
+      "num": 319045,
+      "word": "赵露思妆容解析",
+      "onboard_time": 1713016579,
+      "rank": 34,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 318793,
       "num": 318793,
       "word": "男朋友陪考裸考比我学一个月考的高",
@@ -14329,14 +14353,6 @@
       "onboard_time": 1712057421,
       "rank": 37,
       "category": "互联网,财经"
-    },
-    {
-      "raw_hot": 306073,
-      "num": 358267,
-      "word": "38块钱居然能吃20个菜",
-      "onboard_time": 1713016880,
-      "rank": 18,
-      "category": "美食"
     },
     {
       "raw_hot": 306013,
@@ -15673,6 +15689,14 @@
       "onboard_time": 1712619137,
       "rank": 18,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 279489,
+      "num": 316367,
+      "word": "警方调查14岁女生被学校教练性侵",
+      "onboard_time": 1713018259,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 279166,
@@ -17595,6 +17619,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 246562,
+      "num": 268032,
+      "word": "你知道下乡给老人拍照有多赚吗",
+      "onboard_time": 1713015137,
+      "rank": 39,
+      "category": "情感"
+    },
+    {
       "raw_hot": 246497,
       "num": 246497,
       "word": "薛之谦镇江",
@@ -18091,14 +18123,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 240115,
-      "num": 271943,
-      "word": "赵露思妆容解析",
-      "onboard_time": 1713016579,
-      "rank": 34,
-      "category": "美妆"
-    },
-    {
       "raw_hot": 239979,
       "num": 239979,
       "word": "妈妈想和你长相守有错吗",
@@ -18169,6 +18193,14 @@
       "onboard_time": 1711932500,
       "rank": 26,
       "category": "美食"
+    },
+    {
+      "raw_hot": 239184,
+      "num": 239184,
+      "word": "种地吧",
+      "onboard_time": 1711936760,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 239046,
@@ -19003,14 +19035,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 227558,
-      "num": 268032,
-      "word": "你知道下乡给老人拍照有多赚吗",
-      "onboard_time": 1713015137,
-      "rank": 39,
-      "category": "情感"
-    },
-    {
       "raw_hot": 227496,
       "num": 227496,
       "word": "檀健次入驻上海杜莎",
@@ -19193,6 +19217,14 @@
       "onboard_time": 1712597892,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 225294,
+      "num": 225294,
+      "word": "许凯身材好好",
+      "onboard_time": 1713016039,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 225087,
@@ -21035,6 +21067,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 206251,
+      "num": 262226,
+      "word": "离婚也可以是一件好事",
+      "onboard_time": 1713015980,
+      "rank": 38,
+      "category": "情感"
+    },
+    {
       "raw_hot": 206209,
       "num": 206209,
       "word": "承欢记开播预告",
@@ -21353,14 +21393,6 @@
       "onboard_time": 1711988896,
       "rank": 28,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 204402,
-      "num": 204402,
-      "word": "种地吧",
-      "onboard_time": 1711936760,
-      "rank": 33,
-      "category": "综艺"
     },
     {
       "raw_hot": 204247,
@@ -22745,14 +22777,6 @@
       "onboard_time": 1712130022,
       "rank": 38,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 195658,
-      "num": 262226,
-      "word": "离婚也可以是一件好事",
-      "onboard_time": 1713015980,
-      "rank": 38,
-      "category": "情感"
     },
     {
       "raw_hot": 195649,
@@ -25163,6 +25187,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 181337,
+      "num": 195823,
+      "word": "普通人的4次翻身机会",
+      "onboard_time": 1713018441,
+      "rank": 45,
+      "category": "情感"
+    },
+    {
       "raw_hot": 181301,
       "num": 181301,
       "word": "小米汽车回应安全问题",
@@ -26601,6 +26633,14 @@
       "onboard_time": 1712059940,
       "rank": 34,
       "category": "体育"
+    },
+    {
+      "raw_hot": 169697,
+      "num": 195480,
+      "word": "5种素菜是热量炸弹",
+      "onboard_time": 1713017721,
+      "rank": 46,
+      "category": "美食"
     },
     {
       "raw_hot": 169641,
@@ -28537,6 +28577,14 @@
       "onboard_time": 1712998218,
       "rank": 34,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 155329,
+      "num": 195287,
+      "word": "T1胜利",
+      "onboard_time": 1713018079,
+      "rank": 47,
+      "category": "电竞"
     },
     {
       "raw_hot": 155294,
@@ -32963,6 +33011,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 122804,
+      "num": 195050,
+      "word": "李诗沣进决赛",
+      "onboard_time": 1713018620,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 122502,
       "num": 122502,
       "word": "姜爷爷辛苦了",
@@ -34027,6 +34083,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 110353,
+      "num": 194626,
+      "word": "曼城vs卢顿",
+      "onboard_time": 1713017480,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 110134,
       "num": 110134,
       "word": "奥本海默日本上映观众情绪复杂",
@@ -34113,14 +34177,6 @@
       "onboard_time": 1712835197,
       "rank": 47,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 108901,
-      "num": 152226,
-      "word": "曼城vs卢顿",
-      "onboard_time": 1713017480,
-      "rank": 49,
-      "category": "体育"
     },
     {
       "raw_hot": 108428,
@@ -36404,7 +36460,7 @@
     },
     {
       "raw_hot": 43238,
-      "num": 381778,
+      "num": 448006,
       "word": "娜然魏哲鸣王子奇甲板看秀",
       "onboard_time": 1713014299,
       "rank": 22,

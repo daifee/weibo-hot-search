@@ -1,7 +1,15 @@
 {
   "startTime": 1712938901785,
-  "endTime": 1713017715257,
+  "endTime": 1713018852301,
   "band_list": [
+    {
+      "raw_hot": 2473684,
+      "num": 998468,
+      "word": "纪凌尘祝阚清子幸福",
+      "onboard_time": 1713016579,
+      "rank": 3,
+      "category": "综艺"
+    },
     {
       "raw_hot": 2380031,
       "num": 2380031,
@@ -9,14 +17,6 @@
       "onboard_time": 1713005717,
       "rank": 0,
       "category": "网红"
-    },
-    {
-      "raw_hot": 1886848,
-      "num": 998468,
-      "word": "纪凌尘祝阚清子幸福",
-      "onboard_time": 1713016579,
-      "rank": 3,
-      "category": "综艺"
     },
     {
       "raw_hot": 1883112,
@@ -83,20 +83,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1451830,
+      "num": 453024,
+      "word": "纪凌尘说蹭阚清子热度是事实",
+      "onboard_time": 1713016519,
+      "rank": 8,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1318533,
       "num": 1318533,
       "word": "金秀贤金智媛不再合体",
       "onboard_time": 1712989517,
       "rank": 16,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 1277128,
-      "num": 394229,
-      "word": "纪凌尘说蹭阚清子热度是事实",
-      "onboard_time": 1713016519,
-      "rank": 8,
-      "category": "综艺"
     },
     {
       "raw_hot": 1265241,
@@ -219,8 +219,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 919169,
-      "num": 385165,
+      "raw_hot": 929433,
+      "num": 929433,
       "word": "猫一杯旗下品牌发货售后正常",
       "onboard_time": 1713015020,
       "rank": 35,
@@ -345,6 +345,14 @@
       "onboard_time": 1713012738,
       "rank": 5,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 728931,
+      "num": 420308,
+      "word": "许嵩演唱会 没有嘉宾",
+      "onboard_time": 1713017540,
+      "rank": 31,
+      "category": "演出"
     },
     {
       "raw_hot": 723607,
@@ -481,6 +489,14 @@
       "onboard_time": 1712965335,
       "rank": 4,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 566089,
+      "num": 566089,
+      "word": "38块钱居然能吃20个菜",
+      "onboard_time": 1713016880,
+      "rank": 18,
+      "category": "美食"
     },
     {
       "raw_hot": 555663,
@@ -819,14 +835,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 392604,
-      "num": 324579,
-      "word": "许嵩演唱会 没有嘉宾",
-      "onboard_time": 1713017540,
-      "rank": 31,
-      "category": "演出"
-    },
-    {
       "raw_hot": 382927,
       "num": 934660,
       "word": "秦朗丢寒假作业系摆拍博主被处罚",
@@ -865,6 +873,14 @@
       "onboard_time": 1712993297,
       "rank": 30,
       "category": "美食"
+    },
+    {
+      "raw_hot": 361681,
+      "num": 298584,
+      "word": "林俊杰唱当你送给隔壁王心凌",
+      "onboard_time": 1713018441,
+      "rank": 25,
+      "category": "演出"
     },
     {
       "raw_hot": 360412,
@@ -1019,6 +1035,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 319045,
+      "num": 319045,
+      "word": "赵露思妆容解析",
+      "onboard_time": 1713016579,
+      "rank": 34,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 313740,
       "num": 313740,
       "word": "伊朗称美若干预伊以纷争将打击美军",
@@ -1081,14 +1105,6 @@
       "onboard_time": 1712987178,
       "rank": 22,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 306073,
-      "num": 358267,
-      "word": "38块钱居然能吃20个菜",
-      "onboard_time": 1713016880,
-      "rank": 18,
-      "category": "美食"
     },
     {
       "raw_hot": 305723,
@@ -1211,6 +1227,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 279489,
+      "num": 316367,
+      "word": "警方调查14岁女生被学校教练性侵",
+      "onboard_time": 1713018259,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 279454,
       "num": 279454,
       "word": "林更新坦言二搭赵丽颖有压力",
@@ -1307,6 +1331,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 246562,
+      "num": 268032,
+      "word": "你知道下乡给老人拍照有多赚吗",
+      "onboard_time": 1713015137,
+      "rank": 39,
+      "category": "情感"
+    },
+    {
       "raw_hot": 246470,
       "num": 246470,
       "word": "医院回应40余名被辞退护士系劳务派遣",
@@ -1323,12 +1355,12 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 240115,
-      "num": 271943,
-      "word": "赵露思妆容解析",
-      "onboard_time": 1713016579,
-      "rank": 34,
-      "category": "美妆"
+      "raw_hot": 239184,
+      "num": 239184,
+      "word": "种地吧",
+      "onboard_time": 1713018079,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 237047,
@@ -1387,12 +1419,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 227558,
-      "num": 268032,
-      "word": "你知道下乡给老人拍照有多赚吗",
-      "onboard_time": 1713015137,
-      "rank": 39,
-      "category": "情感"
+      "raw_hot": 225294,
+      "num": 225294,
+      "word": "许凯身材好好",
+      "onboard_time": 1713016039,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 219203,
@@ -1515,6 +1547,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 206251,
+      "num": 262226,
+      "word": "离婚也可以是一件好事",
+      "onboard_time": 1713015980,
+      "rank": 38,
+      "category": "情感"
+    },
+    {
       "raw_hot": 205461,
       "num": 205461,
       "word": "黄子韬新专辑",
@@ -1633,14 +1673,6 @@
       "onboard_time": 1713012859,
       "rank": 40,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 195658,
-      "num": 262226,
-      "word": "离婚也可以是一件好事",
-      "onboard_time": 1713015980,
-      "rank": 38,
-      "category": "情感"
     },
     {
       "raw_hot": 195087,
@@ -1843,6 +1875,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 181337,
+      "num": 195823,
+      "word": "普通人的4次翻身机会",
+      "onboard_time": 1713018441,
+      "rank": 45,
+      "category": "情感"
+    },
+    {
       "raw_hot": 181112,
       "num": 181112,
       "word": "英专生 五世同堂",
@@ -1977,6 +2017,14 @@
       "onboard_time": 1713007037,
       "rank": 32,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 169697,
+      "num": 195480,
+      "word": "5种素菜是热量炸弹",
+      "onboard_time": 1713017721,
+      "rank": 46,
+      "category": "美食"
     },
     {
       "raw_hot": 168807,
@@ -2169,6 +2217,14 @@
       "onboard_time": 1712998218,
       "rank": 34,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 155329,
+      "num": 195287,
+      "word": "T1胜利",
+      "onboard_time": 1713018079,
+      "rank": 47,
+      "category": "电竞"
     },
     {
       "raw_hot": 154951,
@@ -2571,6 +2627,14 @@
       "category": "电竞,艺人"
     },
     {
+      "raw_hot": 128326,
+      "num": 227577,
+      "word": "CBA",
+      "onboard_time": 1713018441,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 127520,
       "num": 127520,
       "word": "花花和叶姐妹俩木架切磋",
@@ -2625,6 +2689,14 @@
       "onboard_time": 1712972356,
       "rank": 43,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 122804,
+      "num": 195050,
+      "word": "李诗沣进决赛",
+      "onboard_time": 1713018620,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 122367,
@@ -2771,20 +2843,20 @@
       "category": "情感"
     },
     {
+      "raw_hot": 110353,
+      "num": 194626,
+      "word": "曼城vs卢顿",
+      "onboard_time": 1713017480,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 109079,
       "num": 181344,
       "word": "Joker脸在江山在",
       "onboard_time": 1712989398,
       "rank": 37,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 108901,
-      "num": 152226,
-      "word": "曼城vs卢顿",
-      "onboard_time": 1713017480,
-      "rank": 49,
-      "category": "体育"
     },
     {
       "raw_hot": 108214,
@@ -3060,7 +3132,7 @@
     },
     {
       "raw_hot": 43238,
-      "num": 381778,
+      "num": 448006,
       "word": "娜然魏哲鸣王子奇甲板看秀",
       "onboard_time": 1713014299,
       "rank": 22,
