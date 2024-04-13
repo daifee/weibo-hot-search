@@ -1,6 +1,6 @@
 {
   "startTime": 1713025251708,
-  "endTime": 1713036830910,
+  "endTime": 1713039308194,
   "band_list": [
     {
       "raw_hot": 1120400,
@@ -403,6 +403,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 99882,
+      "num": 99882,
+      "word": "王祖蓝在香港被放假的广西人包围了",
+      "onboard_time": 1713036671,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 95660,
       "num": 118280,
       "word": "RNG直播需付费观看",
@@ -435,7 +443,7 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 72838,
+      "raw_hot": 73307,
       "num": 37040,
       "word": "孙怡玫瑰连衣裙",
       "onboard_time": 1713034031,
@@ -513,14 +521,6 @@
       "onboard_time": 1713034631,
       "rank": 43,
       "category": "演出"
-    },
-    {
-      "raw_hot": 27650,
-      "num": 27650,
-      "word": "王祖蓝在香港被放假的广西人包围了",
-      "onboard_time": 1713036671,
-      "rank": 42,
-      "category": "艺人"
     },
     {
       "raw_hot": 21533,
