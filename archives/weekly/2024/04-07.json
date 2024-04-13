@@ -1,6 +1,6 @@
 {
   "startTime": 1712420539476,
-  "endTime": 1712989071353,
+  "endTime": 1712990064285,
   "band_list": [
     {
       "raw_hot": 9583581,
@@ -3147,6 +3147,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 623990,
+      "num": 430350,
+      "word": "黄雅莉晒生子前后四季对比照",
+      "onboard_time": 1712988197,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 623805,
       "num": 623805,
       "word": "上了3天班还剩3天班",
@@ -4148,7 +4156,7 @@
     },
     {
       "raw_hot": 504102,
-      "num": 215683,
+      "num": 251983,
       "word": "为了涨500块工资问来问去",
       "onboard_time": 1712985078,
       "rank": 23,
@@ -5371,6 +5379,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 418853,
+      "num": 418853,
+      "word": "猫一杯 秦朗事件",
+      "onboard_time": 1712988136,
+      "rank": 14,
+      "category": "社会新闻,网红"
+    },
+    {
       "raw_hot": 418547,
       "num": 418547,
       "word": "想当行长男孩父亲所在支行回应",
@@ -5561,14 +5577,6 @@
       "onboard_time": 1712716639,
       "rank": 24,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 397341,
-      "num": 397341,
-      "word": "猫一杯 秦朗事件",
-      "onboard_time": 1712988136,
-      "rank": 14,
-      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 397212,
@@ -6227,14 +6235,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 353746,
-      "num": 353746,
-      "word": "黄雅莉晒生子前后四季对比照",
-      "onboard_time": 1712988197,
-      "rank": 15,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 353534,
       "num": 353534,
       "word": "字字不提钱句句都是钱",
@@ -6273,6 +6273,14 @@
       "onboard_time": 1712722820,
       "rank": 32,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 351680,
+      "num": 351680,
+      "word": "华晨宇抢票",
+      "onboard_time": 1712988977,
+      "rank": 34,
+      "category": "演出"
     },
     {
       "raw_hot": 351547,
@@ -6577,6 +6585,14 @@
       "onboard_time": 1712847499,
       "rank": 24,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 336282,
+      "num": 336282,
+      "word": "金秀贤金智媛不再合体",
+      "onboard_time": 1712989517,
+      "rank": 16,
+      "category": "剧集"
     },
     {
       "raw_hot": 335805,
@@ -8211,6 +8227,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 267957,
+      "num": 267957,
+      "word": "杨紫休息让我演两集",
+      "onboard_time": 1712988557,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 267948,
       "num": 267948,
       "word": "追风者结局 不舍",
@@ -8867,6 +8891,14 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 249718,
+      "num": 249718,
+      "word": "赵奕欢团队拿到乘风主题曲哭了",
+      "onboard_time": 1712989517,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 249666,
       "num": 249666,
       "word": "Faker向HLE致歉",
@@ -9001,6 +9033,14 @@
       "onboard_time": 1712799498,
       "rank": 9,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 246376,
+      "num": 246376,
+      "word": "频繁早醒可能是病了",
+      "onboard_time": 1712987178,
+      "rank": 22,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 245965,
@@ -9144,14 +9184,6 @@
       "word": "甲状腺癌究竟是幸福癌还是流行病",
       "onboard_time": 1712469018,
       "rank": 27,
-      "category": "健康医疗"
-    },
-    {
-      "raw_hot": 242648,
-      "num": 214669,
-      "word": "频繁早醒可能是病了",
-      "onboard_time": 1712987178,
-      "rank": 22,
       "category": "健康医疗"
     },
     {
@@ -11163,6 +11195,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 202786,
+      "num": 202786,
+      "word": "赵丽颖张一山在人间骑摩托路透",
+      "onboard_time": 1712989337,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 202687,
       "num": 202687,
       "word": "4月进口网络游戏版号公布",
@@ -11875,6 +11915,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 194728,
+      "num": 194728,
+      "word": "西藏阿里地区发生5.2级地震",
+      "onboard_time": 1712988977,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 194567,
       "num": 194567,
       "word": "谷江山女团舞",
@@ -12483,6 +12531,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 187865,
+      "num": 187865,
+      "word": "给奶奶买的金首饰戴在我弟弟身上",
+      "onboard_time": 1712988497,
+      "rank": 42,
+      "category": "情感"
+    },
+    {
       "raw_hot": 187793,
       "num": 187793,
       "word": "勇士战胜开拓者",
@@ -13059,6 +13115,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 180936,
+      "num": 180936,
+      "word": "周扬青活出了浪姐的本色",
+      "onboard_time": 1712988557,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 180855,
       "num": 180855,
       "word": "杨幂 CL",
@@ -13097,6 +13161,14 @@
       "onboard_time": 1712750178,
       "rank": 33,
       "category": "电影"
+    },
+    {
+      "raw_hot": 180257,
+      "num": 180257,
+      "word": "科切拉音乐节",
+      "onboard_time": 1712989817,
+      "rank": 29,
+      "category": "演出"
     },
     {
       "raw_hot": 180199,
@@ -13995,14 +14067,6 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 166359,
-      "num": 166359,
-      "word": "杨紫休息让我演两集",
-      "onboard_time": 1712988557,
-      "rank": 29,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 166231,
       "num": 166231,
       "word": "发布会PPT都要好好审核了",
@@ -14779,14 +14843,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 155393,
-      "num": 155393,
-      "word": "周扬青活出了浪姐的本色",
-      "onboard_time": 1712988557,
-      "rank": 33,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 155159,
       "num": 599335,
       "word": "落坡岭女书记入选感动中国",
@@ -15129,14 +15185,6 @@
       "onboard_time": 1712877676,
       "rank": 26,
       "category": "体育"
-    },
-    {
-      "raw_hot": 151488,
-      "num": 151488,
-      "word": "华晨宇抢票",
-      "onboard_time": 1712988977,
-      "rank": 34,
-      "category": "演出"
     },
     {
       "raw_hot": 151407,
@@ -15699,14 +15747,6 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 143615,
-      "num": 143615,
-      "word": "西藏阿里地区发生5.2级地震",
-      "onboard_time": 1712988977,
-      "rank": 36,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 143352,
       "num": 143352,
       "word": "看上去心情好的人",
@@ -15841,6 +15881,14 @@
       "onboard_time": 1712582660,
       "rank": 39,
       "category": "情感"
+    },
+    {
+      "raw_hot": 141468,
+      "num": 141468,
+      "word": "林更新听到安利与凤行害羞了",
+      "onboard_time": 1712989698,
+      "rank": 38,
+      "category": "剧集"
     },
     {
       "raw_hot": 141311,
@@ -16193,6 +16241,14 @@
       "onboard_time": 1712839698,
       "rank": 42,
       "category": "情感"
+    },
+    {
+      "raw_hot": 137085,
+      "num": 137085,
+      "word": "丝路音乐节",
+      "onboard_time": 1712989158,
+      "rank": 40,
+      "category": "演出"
     },
     {
       "raw_hot": 137043,
@@ -16739,6 +16795,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 129626,
+      "num": 129626,
+      "word": "黄子韬被泼得疯狂认输",
+      "onboard_time": 1712987597,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 129212,
       "num": 129212,
       "word": "应采儿说Jasper是脏儿子",
@@ -16795,14 +16859,6 @@
       "category": "科学科普"
     },
     {
-      "raw_hot": 128545,
-      "num": 128545,
-      "word": "黄子韬被泼得疯狂认输",
-      "onboard_time": 1712987597,
-      "rank": 39,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 128486,
       "num": 128486,
       "word": "金市已出现畏高迹象",
@@ -16851,6 +16907,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 127520,
+      "num": 127520,
+      "word": "花花和叶姐妹俩木架切磋",
+      "onboard_time": 1712988136,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 127503,
       "num": 127503,
       "word": "今年唯一一次日全食即将上演",
@@ -16865,6 +16929,14 @@
       "onboard_time": 1712477720,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 127378,
+      "num": 127378,
+      "word": "四川最牛猫咪",
+      "onboard_time": 1712989757,
+      "rank": 43,
+      "category": "情感"
     },
     {
       "raw_hot": 127103,
@@ -17041,14 +17113,6 @@
       "onboard_time": 1712811320,
       "rank": 48,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 124583,
-      "num": 124583,
-      "word": "给奶奶买的金首饰戴在我弟弟身上",
-      "onboard_time": 1712988497,
-      "rank": 42,
-      "category": "情感"
     },
     {
       "raw_hot": 124537,
@@ -17475,14 +17539,6 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 117975,
-      "num": 117975,
-      "word": "花花和叶姐妹俩木架切磋",
-      "onboard_time": 1712988136,
-      "rank": 44,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 117934,
       "num": 117934,
       "word": "湖南省考成绩",
@@ -17787,6 +17843,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 109079,
+      "num": 141827,
+      "word": "Joker脸在江山在",
+      "onboard_time": 1712989398,
+      "rank": 37,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 108947,
       "num": 108947,
       "word": "TES的BP",
@@ -17929,6 +17993,14 @@
       "onboard_time": 1712739557,
       "rank": 49,
       "category": "教育"
+    },
+    {
+      "raw_hot": 103047,
+      "num": 103047,
+      "word": "你好星期六寻找音乐经纪人",
+      "onboard_time": 1712989997,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 102890,

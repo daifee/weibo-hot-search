@@ -1,6 +1,6 @@
 {
   "startTime": 1712938901785,
-  "endTime": 1712989071353,
+  "endTime": 1712990064285,
   "band_list": [
     {
       "raw_hot": 1883112,
@@ -219,6 +219,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 623990,
+      "num": 430350,
+      "word": "黄雅莉晒生子前后四季对比照",
+      "onboard_time": 1712988197,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 621935,
       "num": 621935,
       "word": "金价或将被推升至3000美元",
@@ -284,7 +292,7 @@
     },
     {
       "raw_hot": 504102,
-      "num": 215683,
+      "num": 251983,
       "word": "为了涨500块工资问来问去",
       "onboard_time": 1712985078,
       "rank": 23,
@@ -355,6 +363,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 418853,
+      "num": 418853,
+      "word": "猫一杯 秦朗事件",
+      "onboard_time": 1712988136,
+      "rank": 14,
+      "category": "社会新闻,网红"
+    },
+    {
       "raw_hot": 414561,
       "num": 414561,
       "word": "百万网红杨立新遇害",
@@ -393,14 +409,6 @@
       "onboard_time": 1712964555,
       "rank": 20,
       "category": "健康医疗,运动健身"
-    },
-    {
-      "raw_hot": 397341,
-      "num": 397341,
-      "word": "猫一杯 秦朗事件",
-      "onboard_time": 1712988136,
-      "rank": 14,
-      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 382927,
@@ -443,12 +451,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 353746,
-      "num": 353746,
-      "word": "黄雅莉晒生子前后四季对比照",
-      "onboard_time": 1712988197,
-      "rank": 15,
-      "category": "艺人"
+      "raw_hot": 351680,
+      "num": 351680,
+      "word": "华晨宇抢票",
+      "onboard_time": 1712988977,
+      "rank": 34,
+      "category": "演出"
     },
     {
       "raw_hot": 351358,
@@ -489,6 +497,14 @@
       "onboard_time": 1712975656,
       "rank": 35,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 336282,
+      "num": 336282,
+      "word": "金秀贤金智媛不再合体",
+      "onboard_time": 1712989517,
+      "rank": 16,
+      "category": "剧集"
     },
     {
       "raw_hot": 333571,
@@ -643,6 +659,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 267957,
+      "num": 267957,
+      "word": "杨紫休息让我演两集",
+      "onboard_time": 1712988557,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 263178,
       "num": 263178,
       "word": "58岁姐姐去世弟弟含泪吹唢呐送别",
@@ -675,20 +699,28 @@
       "category": "财经"
     },
     {
+      "raw_hot": 249718,
+      "num": 249718,
+      "word": "赵奕欢团队拿到乘风主题曲哭了",
+      "onboard_time": 1712989517,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 246376,
+      "num": 246376,
+      "word": "频繁早醒可能是病了",
+      "onboard_time": 1712987178,
+      "rank": 22,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 245198,
       "num": 245198,
       "word": "多国使馆提醒公民勿前往以色列",
       "onboard_time": 1712968998,
       "rank": 18,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 242648,
-      "num": 214669,
-      "word": "频繁早醒可能是病了",
-      "onboard_time": 1712987178,
-      "rank": 22,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 234491,
@@ -803,6 +835,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 202786,
+      "num": 202786,
+      "word": "赵丽颖张一山在人间骑摩托路透",
+      "onboard_time": 1712989337,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 202656,
       "num": 202656,
       "word": "齐思钧生日甜味起司妆",
@@ -848,6 +888,14 @@
       "word": "内蒙古61岁老人在三甲医院参加活动死亡",
       "onboard_time": 1712964194,
       "rank": 18,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 194728,
+      "num": 194728,
+      "word": "西藏阿里地区发生5.2级地震",
+      "onboard_time": 1712988977,
+      "rank": 36,
       "category": "社会新闻"
     },
     {
@@ -923,6 +971,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 187865,
+      "num": 187865,
+      "word": "给奶奶买的金首饰戴在我弟弟身上",
+      "onboard_time": 1712988497,
+      "rank": 42,
+      "category": "情感"
+    },
+    {
       "raw_hot": 185430,
       "num": 185430,
       "word": "2024届毕业生开启论文答辩模式",
@@ -955,12 +1011,28 @@
       "category": "教育"
     },
     {
+      "raw_hot": 180936,
+      "num": 180936,
+      "word": "周扬青活出了浪姐的本色",
+      "onboard_time": 1712988557,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 180481,
       "num": 176380,
       "word": "张小斐的钻戒好大",
       "onboard_time": 1712972718,
       "rank": 45,
       "category": "电影"
+    },
+    {
+      "raw_hot": 180257,
+      "num": 180257,
+      "word": "科切拉音乐节",
+      "onboard_time": 1712989817,
+      "rank": 29,
+      "category": "演出"
     },
     {
       "raw_hot": 179706,
@@ -1033,14 +1105,6 @@
       "onboard_time": 1712971036,
       "rank": 36,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 166359,
-      "num": 166359,
-      "word": "杨紫休息让我演两集",
-      "onboard_time": 1712988557,
-      "rank": 29,
-      "category": "剧集"
     },
     {
       "raw_hot": 165002,
@@ -1123,14 +1187,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 155393,
-      "num": 155393,
-      "word": "周扬青活出了浪姐的本色",
-      "onboard_time": 1712988557,
-      "rank": 33,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 154951,
       "num": 154951,
       "word": "被广东同事的午饭吓晕",
@@ -1169,14 +1225,6 @@
       "onboard_time": 1712966656,
       "rank": 38,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 151488,
-      "num": 151488,
-      "word": "华晨宇抢票",
-      "onboard_time": 1712988977,
-      "rank": 34,
-      "category": "演出"
     },
     {
       "raw_hot": 150323,
@@ -1235,14 +1283,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 143615,
-      "num": 143615,
-      "word": "西藏阿里地区发生5.2级地震",
-      "onboard_time": 1712988977,
-      "rank": 36,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 142600,
       "num": 142600,
       "word": "何冰娇锁定国羽女单奥运名额",
@@ -1257,6 +1297,14 @@
       "onboard_time": 1712977937,
       "rank": 34,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 141468,
+      "num": 141468,
+      "word": "林更新听到安利与凤行害羞了",
+      "onboard_time": 1712989698,
+      "rank": 38,
+      "category": "剧集"
     },
     {
       "raw_hot": 140656,
@@ -1281,6 +1329,14 @@
       "onboard_time": 1712982498,
       "rank": 43,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 137085,
+      "num": 137085,
+      "word": "丝路音乐节",
+      "onboard_time": 1712989158,
+      "rank": 40,
+      "category": "演出"
     },
     {
       "raw_hot": 134991,
@@ -1331,6 +1387,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 129626,
+      "num": 129626,
+      "word": "黄子韬被泼得疯狂认输",
+      "onboard_time": 1712987597,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 129021,
       "num": 129021,
       "word": "张艺兴舞台 女书",
@@ -1347,14 +1411,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 128545,
-      "num": 128545,
-      "word": "黄子韬被泼得疯狂认输",
-      "onboard_time": 1712987597,
-      "rank": 39,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 128376,
       "num": 150306,
       "word": "乐言喊zdz姐夫",
@@ -1363,20 +1419,28 @@
       "category": "电竞,艺人"
     },
     {
+      "raw_hot": 127520,
+      "num": 127520,
+      "word": "花花和叶姐妹俩木架切磋",
+      "onboard_time": 1712988136,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 127378,
+      "num": 127378,
+      "word": "四川最牛猫咪",
+      "onboard_time": 1712989757,
+      "rank": 43,
+      "category": "情感"
+    },
+    {
       "raw_hot": 126597,
       "num": 126597,
       "word": "刘浩存年度影响力青年演员",
       "onboard_time": 1712933419,
       "rank": 32,
       "category": "电影"
-    },
-    {
-      "raw_hot": 124583,
-      "num": 124583,
-      "word": "给奶奶买的金首饰戴在我弟弟身上",
-      "onboard_time": 1712988497,
-      "rank": 42,
-      "category": "情感"
     },
     {
       "raw_hot": 124537,
@@ -1443,14 +1507,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 117975,
-      "num": 117975,
-      "word": "花花和叶姐妹俩木架切磋",
-      "onboard_time": 1712988136,
-      "rank": 44,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 117556,
       "num": 117556,
       "word": "洗洁精真的可以洗水果吗",
@@ -1515,6 +1571,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 109079,
+      "num": 141827,
+      "word": "Joker脸在江山在",
+      "onboard_time": 1712989398,
+      "rank": 37,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 108017,
       "num": 99233,
       "word": "宋雨琦戴唇环",
@@ -1545,6 +1609,14 @@
       "onboard_time": 1712988799,
       "rank": 47,
       "category": "情感"
+    },
+    {
+      "raw_hot": 103047,
+      "num": 103047,
+      "word": "你好星期六寻找音乐经纪人",
+      "onboard_time": 1712989997,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 100570,
