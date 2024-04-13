@@ -1,6 +1,6 @@
 {
   "startTime": 1712938901785,
-  "endTime": 1712993679809,
+  "endTime": 1712996218772,
   "band_list": [
     {
       "raw_hot": 1883112,
@@ -195,6 +195,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 683982,
+      "num": 683982,
+      "word": "悉尼一购物中心持刀行凶事件已致6人死亡",
+      "onboard_time": 1712995217,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 681606,
       "num": 681606,
       "word": "河南原则上不再保留科级事业单位",
@@ -284,11 +292,19 @@
     },
     {
       "raw_hot": 536247,
-      "num": 231283,
+      "num": 243429,
       "word": "马上入编了家里却要拆迁",
       "onboard_time": 1712991677,
       "rank": 31,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 534365,
+      "num": 534365,
+      "word": "戚薇说夹夹更健康",
+      "onboard_time": 1712994077,
+      "rank": 6,
+      "category": "综艺"
     },
     {
       "raw_hot": 524927,
@@ -337,6 +353,14 @@
       "onboard_time": 1712975956,
       "rank": 4,
       "category": "体育"
+    },
+    {
+      "raw_hot": 477080,
+      "num": 477080,
+      "word": "南昌天气",
+      "onboard_time": 1712990658,
+      "rank": 22,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 474276,
@@ -507,6 +531,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 350278,
+      "num": 240328,
+      "word": "同事去韩国出差第一天的伙食",
+      "onboard_time": 1712993297,
+      "rank": 30,
+      "category": "美食"
+    },
+    {
       "raw_hot": 349005,
       "num": 212265,
       "word": "导师打了14个电话叫我起床",
@@ -529,6 +561,14 @@
       "onboard_time": 1712975656,
       "rank": 35,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 341833,
+      "num": 341833,
+      "word": "官方通报大学生租车遭提灯验车",
+      "onboard_time": 1712994977,
+      "rank": 12,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 333571,
@@ -593,6 +633,14 @@
       "onboard_time": 1712941815,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 310727,
+      "num": 310727,
+      "word": "赵丽颖监制与凤行花絮",
+      "onboard_time": 1712994017,
+      "rank": 13,
+      "category": "剧集"
     },
     {
       "raw_hot": 310383,
@@ -691,6 +739,14 @@
       "category": "运动健身,科学科普"
     },
     {
+      "raw_hot": 282719,
+      "num": 282719,
+      "word": "张馨予夸自己颧骨好美",
+      "onboard_time": 1712992458,
+      "rank": 49,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 279454,
       "num": 279454,
       "word": "林更新坦言二搭赵丽颖有压力",
@@ -739,6 +795,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 249908,
+      "num": 249908,
+      "word": "绝大部分人感染HPV后会自愈",
+      "onboard_time": 1712994977,
+      "rank": 19,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 249718,
       "num": 249718,
       "word": "赵奕欢团队拿到乘风主题曲哭了",
@@ -753,14 +817,6 @@
       "onboard_time": 1712968998,
       "rank": 18,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 236205,
-      "num": 236205,
-      "word": "南昌天气",
-      "onboard_time": 1712990658,
-      "rank": 22,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 234491,
@@ -819,6 +875,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 216769,
+      "num": 216769,
+      "word": "其实大学寝室很容易致郁的",
+      "onboard_time": 1712994675,
+      "rank": 26,
+      "category": "情感"
+    },
+    {
       "raw_hot": 215550,
       "num": 215550,
       "word": "于适白溜",
@@ -857,14 +921,6 @@
       "onboard_time": 1712992638,
       "rank": 25,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 205099,
-      "num": 205099,
-      "word": "张馨予夸自己颧骨好美",
-      "onboard_time": 1712992458,
-      "rank": 49,
-      "category": "艺人"
     },
     {
       "raw_hot": 204765,
@@ -923,6 +979,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 200044,
+      "num": 200044,
+      "word": "许嵩武汉站",
+      "onboard_time": 1712995157,
+      "rank": 27,
+      "category": "演出"
+    },
+    {
       "raw_hot": 199754,
       "num": 199754,
       "word": "男子在电梯实施家暴被保安制服",
@@ -969,14 +1033,6 @@
       "onboard_time": 1712966296,
       "rank": 27,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 193623,
-      "num": 188550,
-      "word": "同事去韩国出差第一天的伙食",
-      "onboard_time": 1712993297,
-      "rank": 30,
-      "category": "美食"
     },
     {
       "raw_hot": 193395,
@@ -1035,20 +1091,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 187733,
+      "num": 187733,
+      "word": "科切拉ATEEZ舞台",
+      "onboard_time": 1712995277,
+      "rank": 31,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 185583,
+      "num": 185583,
+      "word": "秦始皇帝陵何时能发掘",
+      "onboard_time": 1712991797,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 185430,
       "num": 185430,
       "word": "2024届毕业生开启论文答辩模式",
       "onboard_time": 1712967798,
       "rank": 41,
       "category": "教育"
-    },
-    {
-      "raw_hot": 184747,
-      "num": 184747,
-      "word": "秦始皇帝陵何时能发掘",
-      "onboard_time": 1712991797,
-      "rank": 32,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 184050,
@@ -1355,6 +1419,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 147114,
+      "num": 147114,
+      "word": "成毅晒面摊",
+      "onboard_time": 1712996178,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 146957,
       "num": 146957,
       "word": "张云龙鼓励蔡文静去浪姐",
@@ -1504,6 +1576,14 @@
       "word": "黄子韬被泼得疯狂认输",
       "onboard_time": 1712987597,
       "rank": 39,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 129022,
+      "num": 129022,
+      "word": "林允暖阳照",
+      "onboard_time": 1712995818,
+      "rank": 44,
       "category": "艺人"
     },
     {
@@ -1795,6 +1875,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 96498,
+      "num": 96498,
+      "word": "你想活出怎样的人生",
+      "onboard_time": 1712994257,
+      "rank": 49,
+      "category": "电影"
+    },
+    {
       "raw_hot": 94600,
       "num": 94600,
       "word": "31岁的张彬彬现在转型是对的吗",
@@ -1955,20 +2043,28 @@
       "category": "动漫,作品衍生"
     },
     {
+      "raw_hot": 35163,
+      "num": 249011,
+      "word": "为什么游戏里总有川蜀元素",
+      "onboard_time": 1712994737,
+      "rank": 20,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 33503,
+      "num": 154488,
+      "word": "最Joker的行为",
+      "onboard_time": 1712993177,
+      "rank": 37,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 32137,
       "num": 32137,
       "word": "张小斐年度影响力演员",
       "onboard_time": 1712963174,
       "rank": 49,
       "category": "电影"
-    },
-    {
-      "raw_hot": 31315,
-      "num": 144583,
-      "word": "最Joker的行为",
-      "onboard_time": 1712993177,
-      "rank": 37,
-      "category": "游戏"
     },
     {
       "raw_hot": 27678,
@@ -1987,6 +2083,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 21828,
+      "num": 196958,
+      "word": "反差感最强的游戏角色",
+      "onboard_time": 1712993896,
+      "rank": 29,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 16908,
       "num": 182139,
       "word": "P5X肝度适中",
@@ -2000,6 +2104,14 @@
       "word": "只因银行柜员多看一眼挽回6万元",
       "onboard_time": 1712952790,
       "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 12318,
+      "num": 810729,
+      "word": "在高原感受别样的春日浪漫",
+      "onboard_time": 1712995997,
+      "rank": 2,
       "category": "社会新闻"
     }
   ],
