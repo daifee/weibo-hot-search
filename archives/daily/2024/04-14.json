@@ -1,6 +1,6 @@
 {
   "startTime": 1713025251708,
-  "endTime": 1713039308194,
+  "endTime": 1713040446263,
   "band_list": [
     {
       "raw_hot": 1120400,
@@ -529,6 +529,14 @@
       "onboard_time": 1713012798,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 14282,
+      "num": 21757,
+      "word": "承欢记",
+      "onboard_time": 1713010998,
+      "rank": 48,
+      "category": "剧集"
     }
   ],
   "hotgov_list": [
