@@ -1,0 +1,410 @@
+{
+  "runTime": 1712972320289,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1500606,
+        "num": 1500606,
+        "word": "伊以冲突",
+        "onboard_time": 1712970677,
+        "rank": 0,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 1883112,
+        "num": 1317290,
+        "word": "杨立新遇害前承认婚内出轨怀孕",
+        "onboard_time": 1712969117,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 196993,
+        "num": 833210,
+        "word": "秦朗丢寒假作业系摆拍博主被处罚",
+        "onboard_time": 1712919678,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 759724,
+        "num": 759724,
+        "word": "郭敬明开新店人均消费1500元",
+        "onboard_time": 1712969957,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 610370,
+        "num": 610370,
+        "word": "河南原则上不再保留科级事业单位",
+        "onboard_time": 1712968216,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 468581,
+        "num": 468581,
+        "word": "尚雯婕复旦毕业20年经历",
+        "onboard_time": 1712965335,
+        "rank": 5,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 383793,
+        "num": 383793,
+        "word": "金价或将被推升至3000美元",
+        "onboard_time": 1712963234,
+        "rank": 6,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 363732,
+        "num": 363732,
+        "word": "马丽获奖感言",
+        "onboard_time": 1712965576,
+        "rank": 7,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 362617,
+        "num": 362617,
+        "word": "以色列",
+        "onboard_time": 1712965876,
+        "rank": 8,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 165002,
+        "num": 357369,
+        "word": "小孩哥情绪稳定的像拖拉机老司机",
+        "onboard_time": 1712967319,
+        "rank": 9,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 1161761,
+        "num": 357043,
+        "word": "全嘻嘻 北大毕业15年的两种结局",
+        "onboard_time": 1712966898,
+        "rank": 10,
+        "category": "情感,网红"
+      },
+      {
+        "raw_hot": 355214,
+        "num": 355214,
+        "word": "爸爸安慰30岁失业女儿不要想太多",
+        "onboard_time": 1712967976,
+        "rank": 11,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 311337,
+        "num": 311337,
+        "word": "拜登称美国将帮以色列防御伊朗",
+        "onboard_time": 1712969898,
+        "rank": 12,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 309808,
+        "num": 309808,
+        "word": "杭州确诊一例狂犬病死亡几年前被狗咬",
+        "onboard_time": 1712929938,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 304113,
+        "num": 304113,
+        "word": "男子电梯内殴打女友被刑拘",
+        "onboard_time": 1712966957,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 297298,
+        "num": 297298,
+        "word": "辛家亮爸爸婚外情暴露",
+        "onboard_time": 1712968757,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 272909,
+        "num": 272909,
+        "word": "拜登警告伊朗不要攻击以色列",
+        "onboard_time": 1712964976,
+        "rank": 16,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 244477,
+        "num": 244477,
+        "word": "早期宫颈癌可能没有症状",
+        "onboard_time": 1712971338,
+        "rank": 17,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 235230,
+        "num": 235230,
+        "word": "多国使馆提醒公民勿前往以色列",
+        "onboard_time": 1712968998,
+        "rank": 18,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 207190,
+        "num": 207190,
+        "word": "易烊千玺穿白大褂制表",
+        "onboard_time": 1712970198,
+        "rank": 19,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 428400,
+        "num": 206683,
+        "word": "杨立新遇害21天前刚收嫌疑人为徒",
+        "onboard_time": 1712940855,
+        "rank": 20,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 338730,
+        "num": 205012,
+        "word": "有一种小肚子叫骨盆前倾",
+        "onboard_time": 1712964555,
+        "rank": 21,
+        "category": "健康医疗,运动健身"
+      },
+      {
+        "raw_hot": 327027,
+        "num": 203250,
+        "word": "乐言爆被柳智敏粉丝贷款",
+        "onboard_time": 1712963835,
+        "rank": 22,
+        "category": "电竞,艺人"
+      },
+      {
+        "raw_hot": 286264,
+        "num": 201426,
+        "word": "旅游时千万不要带太多的东西",
+        "onboard_time": 1712967136,
+        "rank": 23,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 200988,
+        "num": 200988,
+        "word": "有没有性生活都一定要做4项妇科检查",
+        "onboard_time": 1712907858,
+        "rank": 24,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 194343,
+        "num": 194343,
+        "word": "网红猫一杯涉事公司监事回应处罚",
+        "onboard_time": 1712929578,
+        "rank": 25,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 185430,
+        "num": 185430,
+        "word": "2024届毕业生开启论文答辩模式",
+        "onboard_time": 1712967798,
+        "rank": 26,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 176821,
+        "num": 176821,
+        "word": "路人把杨祐宁错认成肖战",
+        "onboard_time": 1712971277,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 175380,
+        "num": 175380,
+        "word": "黄子韬徐艺洋被说像兄妹",
+        "onboard_time": 1712932579,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 164649,
+        "num": 164649,
+        "word": "眼泪女王",
+        "onboard_time": 1712966296,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 255364,
+        "num": 164239,
+        "word": "女生义乌10元买项链多年后未变色",
+        "onboard_time": 1712971877,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 203877,
+        "num": 163785,
+        "word": "于适白溜",
+        "onboard_time": 1712971817,
+        "rank": 31,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 163181,
+        "num": 163181,
+        "word": "男子囤4600多克金条坚决不卖",
+        "onboard_time": 1712941815,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 159035,
+        "num": 159035,
+        "word": "东西缅北质子团",
+        "onboard_time": 1712970918,
+        "rank": 33,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 157771,
+        "num": 157771,
+        "word": "警方通报男子电梯内殴打女友被刑拘",
+        "onboard_time": 1712971757,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 157207,
+        "num": 157207,
+        "word": "花花被和叶推下水",
+        "onboard_time": 1712932940,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 149437,
+        "num": 149437,
+        "word": "你以为飘的柳絮可能是虫子",
+        "onboard_time": 1712971036,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 146957,
+        "num": 146957,
+        "word": "张云龙鼓励蔡文静去浪姐",
+        "onboard_time": 1712971877,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 143229,
+        "num": 143229,
+        "word": "伊朗",
+        "onboard_time": 1712932519,
+        "rank": 38,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 139914,
+        "num": 139914,
+        "word": "百万网红杨立新遇害",
+        "onboard_time": 1712910078,
+        "rank": 39,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 138698,
+        "num": 138698,
+        "word": "猫一杯",
+        "onboard_time": 1712964194,
+        "rank": 40,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 138450,
+        "num": 138450,
+        "word": "黄子韬云南",
+        "onboard_time": 1712964796,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 135623,
+        "num": 135623,
+        "word": "58岁姐姐去世弟弟含泪吹唢呐送别",
+        "onboard_time": 1712951471,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 128802,
+        "num": 134816,
+        "word": "90后鸵鸟西施说唱式问答走红",
+        "onboard_time": 1712971096,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 134807,
+        "num": 134807,
+        "word": "知情人回应男子电梯里暴打女友",
+        "onboard_time": 1712966656,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 134255,
+        "num": 134255,
+        "word": "刘亦菲林更新玫瑰的故事剧照",
+        "onboard_time": 1712930899,
+        "rank": 45,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 129021,
+        "num": 129021,
+        "word": "张艺兴舞台 女书",
+        "onboard_time": 1712970798,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 123294,
+        "num": 123294,
+        "word": "杨立新事件",
+        "onboard_time": 1712964855,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 118039,
+        "num": 118039,
+        "word": "戚薇参加乘风2024的原因",
+        "onboard_time": 1712964735,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 117556,
+        "num": 117556,
+        "word": "洗洁精真的可以洗水果吗",
+        "onboard_time": 1712970736,
+        "rank": 49,
+        "category": "美食"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记提出两岸同胞要做到四个坚定#"
+    }
+  }
+}

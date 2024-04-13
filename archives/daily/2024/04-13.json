@@ -1,9 +1,9 @@
 {
   "startTime": 1712938901785,
-  "endTime": 1712970838034,
+  "endTime": 1712972320289,
   "band_list": [
     {
-      "raw_hot": 1611355,
+      "raw_hot": 1883112,
       "num": 1611355,
       "word": "杨立新遇害前承认婚内出轨怀孕",
       "onboard_time": 1712969117,
@@ -11,7 +11,15 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1039118,
+      "raw_hot": 1500606,
+      "num": 1500606,
+      "word": "伊以冲突",
+      "onboard_time": 1712970677,
+      "rank": 17,
+      "category": "国外时政"
+    },
+    {
+      "raw_hot": 1161761,
       "num": 506405,
       "word": "全嘻嘻 北大毕业15年的两种结局",
       "onboard_time": 1712966898,
@@ -49,6 +57,14 @@
       "onboard_time": 1712940855,
       "rank": 13,
       "category": "网红"
+    },
+    {
+      "raw_hot": 759724,
+      "num": 759724,
+      "word": "郭敬明开新店人均消费1500元",
+      "onboard_time": 1712969957,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 746784,
@@ -131,14 +147,6 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 528875,
-      "num": 402064,
-      "word": "郭敬明开新店人均消费1500元",
-      "onboard_time": 1712969957,
-      "rank": 16,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 524927,
       "num": 524927,
       "word": "男子电梯内殴打女友被刑拘",
@@ -188,7 +196,7 @@
     },
     {
       "raw_hot": 382927,
-      "num": 663720,
+      "num": 833210,
       "word": "秦朗丢寒假作业系摆拍博主被处罚",
       "onboard_time": 1712919678,
       "rank": 14,
@@ -201,6 +209,14 @@
       "onboard_time": 1712937857,
       "rank": 29,
       "category": "互联网,网红"
+    },
+    {
+      "raw_hot": 355214,
+      "num": 355214,
+      "word": "爸爸安慰30岁失业女儿不要想太多",
+      "onboard_time": 1712967976,
+      "rank": 23,
+      "category": "情感"
     },
     {
       "raw_hot": 351358,
@@ -235,6 +251,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 311337,
+      "num": 311337,
+      "word": "拜登称美国将帮以色列防御伊朗",
+      "onboard_time": 1712969898,
+      "rank": 31,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 310810,
       "num": 310810,
       "word": "男子囤4600多克金条坚决不卖",
@@ -259,12 +283,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 289818,
-      "num": 289818,
-      "word": "拜登称美国将帮以色列防御伊朗",
-      "onboard_time": 1712969898,
-      "rank": 31,
-      "category": "国外时政"
+      "raw_hot": 286264,
+      "num": 201426,
+      "word": "旅游时千万不要带太多的东西",
+      "onboard_time": 1712967136,
+      "rank": 29,
+      "category": "旅游"
     },
     {
       "raw_hot": 284537,
@@ -291,6 +315,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 255364,
+      "num": 164239,
+      "word": "女生义乌10元买项链多年后未变色",
+      "onboard_time": 1712971877,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 253878,
       "num": 253878,
       "word": "周大福足金戒指不到2个月出现褪色",
@@ -307,20 +339,12 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 240895,
-      "num": 240895,
-      "word": "伊以冲突",
-      "onboard_time": 1712970677,
+      "raw_hot": 244477,
+      "num": 244477,
+      "word": "早期宫颈癌可能没有症状",
+      "onboard_time": 1712971338,
       "rank": 17,
-      "category": "国外时政"
-    },
-    {
-      "raw_hot": 231757,
-      "num": 201233,
-      "word": "旅游时千万不要带太多的东西",
-      "onboard_time": 1712967136,
-      "rank": 29,
-      "category": "旅游"
+      "category": "健康医疗"
     },
     {
       "raw_hot": 230278,
@@ -363,20 +387,28 @@
       "category": "网红"
     },
     {
-      "raw_hot": 214596,
-      "num": 212009,
-      "word": "爸爸安慰30岁失业女儿不要想太多",
-      "onboard_time": 1712967976,
-      "rank": 23,
-      "category": "情感"
-    },
-    {
       "raw_hot": 209963,
       "num": 209963,
       "word": "山西省考",
       "onboard_time": 1712942653,
       "rank": 6,
       "category": "教育"
+    },
+    {
+      "raw_hot": 207190,
+      "num": 207190,
+      "word": "易烊千玺穿白大褂制表",
+      "onboard_time": 1712970198,
+      "rank": 35,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 203877,
+      "num": 163785,
+      "word": "于适白溜",
+      "onboard_time": 1712971817,
+      "rank": 31,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 201855,
@@ -443,6 +475,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 185430,
+      "num": 185430,
+      "word": "2024届毕业生开启论文答辩模式",
+      "onboard_time": 1712967798,
+      "rank": 41,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 176821,
+      "num": 176821,
+      "word": "路人把杨祐宁错认成肖战",
+      "onboard_time": 1712971277,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 174866,
       "num": 174866,
       "word": "承欢记收视率创新高",
@@ -459,6 +507,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 165002,
+      "num": 506825,
+      "word": "小孩哥情绪稳定的像拖拉机老司机",
+      "onboard_time": 1712967319,
+      "rank": 9,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 159485,
       "num": 159485,
       "word": "巴黎奥运会",
@@ -467,12 +523,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 159035,
+      "num": 159035,
+      "word": "东西缅北质子团",
+      "onboard_time": 1712970918,
+      "rank": 33,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 158462,
       "num": 158462,
       "word": "演员关凌称给娃辅导作业被气进医院",
       "onboard_time": 1712928258,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 157771,
+      "num": 157771,
+      "word": "警方通报男子电梯内殴打女友被刑拘",
+      "onboard_time": 1712971757,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 154951,
@@ -523,28 +595,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 148960,
-      "num": 148960,
-      "word": "易烊千玺穿白大褂制表",
-      "onboard_time": 1712970198,
-      "rank": 35,
-      "category": "作品衍生"
+      "raw_hot": 149437,
+      "num": 149437,
+      "word": "你以为飘的柳絮可能是虫子",
+      "onboard_time": 1712971036,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
-      "raw_hot": 148071,
-      "num": 148071,
-      "word": "2024届毕业生开启论文答辩模式",
-      "onboard_time": 1712967798,
-      "rank": 41,
-      "category": "教育"
-    },
-    {
-      "raw_hot": 144139,
-      "num": 506825,
-      "word": "小孩哥情绪稳定的像拖拉机老司机",
-      "onboard_time": 1712967319,
-      "rank": 9,
-      "category": "幽默"
+      "raw_hot": 146957,
+      "num": 146957,
+      "word": "张云龙鼓励蔡文静去浪姐",
+      "onboard_time": 1712971877,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 140213,
@@ -587,6 +651,22 @@
       "category": "网红"
     },
     {
+      "raw_hot": 129021,
+      "num": 129021,
+      "word": "张艺兴舞台 女书",
+      "onboard_time": 1712970798,
+      "rank": 49,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 128802,
+      "num": 134816,
+      "word": "90后鸵鸟西施说唱式问答走红",
+      "onboard_time": 1712971096,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 128376,
       "num": 150306,
       "word": "乐言喊zdz姐夫",
@@ -619,6 +699,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 117556,
+      "num": 117556,
+      "word": "洗洁精真的可以洗水果吗",
+      "onboard_time": 1712970736,
+      "rank": 47,
+      "category": "美食"
+    },
+    {
       "raw_hot": 117166,
       "num": 106654,
       "word": "刘耀文感谢时代峰峻",
@@ -643,14 +731,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 110519,
-      "num": 110519,
-      "word": "洗洁精真的可以洗水果吗",
-      "onboard_time": 1712970736,
-      "rank": 47,
-      "category": "美食"
-    },
-    {
       "raw_hot": 108017,
       "num": 99233,
       "word": "宋雨琦戴唇环",
@@ -665,14 +745,6 @@
       "onboard_time": 1712922377,
       "rank": 41,
       "category": "电影,时尚"
-    },
-    {
-      "raw_hot": 107076,
-      "num": 107076,
-      "word": "张艺兴舞台 女书",
-      "onboard_time": 1712970798,
-      "rank": 49,
-      "category": "综艺"
     },
     {
       "raw_hot": 105145,
