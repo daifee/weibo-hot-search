@@ -1,6 +1,6 @@
 {
   "startTime": 1711902044401,
-  "endTime": 1713044040394,
+  "endTime": 1713046497614,
   "band_list": [
     {
       "raw_hot": 16874674,
@@ -36147,6 +36147,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 62633,
+      "num": 53978,
+      "word": "纪凌尘看宁静的眼神",
+      "onboard_time": 1713042311,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 62561,
       "num": 1310857,
       "word": "一起打卡春天里的中国",
@@ -36611,6 +36619,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 46804,
+      "num": 38172,
+      "word": "长期宅在家里能量是不流通的",
+      "onboard_time": 1713042251,
+      "rank": 39,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 46594,
       "num": 1335182,
       "word": "轻工业生产回升盈利改善",
@@ -36875,6 +36891,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 37978,
+      "num": 54183,
+      "word": "男童30万耳蜗丢失全城合力找回",
+      "onboard_time": 1713041710,
+      "rank": 44,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 37860,
       "num": 1088068,
       "word": "在高原感受别样的春日浪漫",
@@ -37123,14 +37147,6 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 28080,
-      "num": 28080,
-      "word": "长期宅在家里能量是不流通的",
-      "onboard_time": 1713042251,
-      "rank": 39,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 28039,
       "num": 28039,
       "word": "奥运会资格系列赛开票",
@@ -37235,20 +37251,20 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 26174,
-      "num": 26174,
-      "word": "男童30万耳蜗丢失全城合力找回",
-      "onboard_time": 1713041710,
-      "rank": 44,
-      "category": "社会正能量"
-    },
-    {
       "raw_hot": 26012,
       "num": 30230,
       "word": "缺铁性贫血的症状",
       "onboard_time": 1712863451,
       "rank": 45,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 25639,
+      "num": 25639,
+      "word": "美股黄金白银大跳水",
+      "onboard_time": 1713045310,
+      "rank": 36,
+      "category": "财经"
     },
     {
       "raw_hot": 25511,
@@ -37265,14 +37281,6 @@
       "onboard_time": 1712600352,
       "rank": 44,
       "category": "电影"
-    },
-    {
-      "raw_hot": 25457,
-      "num": 25457,
-      "word": "纪凌尘看宁静的眼神",
-      "onboard_time": 1713042311,
-      "rank": 43,
-      "category": "综艺"
     },
     {
       "raw_hot": 25393,
@@ -37361,6 +37369,14 @@
       "onboard_time": 1712718018,
       "rank": 14,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 23913,
+      "num": 23913,
+      "word": "每天做800个腹肌运动的AHyeon",
+      "onboard_time": 1713045130,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 23884,
@@ -37619,6 +37635,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 18179,
+      "num": 20958,
+      "word": "主动让路人摸摸的耶耶",
+      "onboard_time": 1713043990,
+      "rank": 49,
+      "category": "情感"
+    },
+    {
       "raw_hot": 17289,
       "num": 298829,
       "word": "王腾多花10亿选正代8系",
@@ -37737,14 +37761,6 @@
       "onboard_time": 1712088130,
       "rank": 44,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 13411,
-      "num": 18748,
-      "word": "主动让路人摸摸的耶耶",
-      "onboard_time": 1713043990,
-      "rank": 49,
-      "category": "情感"
     },
     {
       "raw_hot": 13345,

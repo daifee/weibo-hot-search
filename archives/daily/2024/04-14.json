@@ -1,6 +1,6 @@
 {
   "startTime": 1713025251708,
-  "endTime": 1713044040394,
+  "endTime": 1713046497614,
   "band_list": [
     {
       "raw_hot": 1120400,
@@ -275,6 +275,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 148534,
+      "num": 148534,
+      "word": "伊朗",
+      "onboard_time": 1712996656,
+      "rank": 49,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 146158,
       "num": 146158,
       "word": "BABYMONSTER翻跳2NE1串烧",
@@ -435,14 +443,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 86335,
-      "num": 95660,
-      "word": "伊朗",
-      "onboard_time": 1712996656,
-      "rank": 49,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 77410,
       "num": 65403,
       "word": "曾黎黑色小吊带",
@@ -465,6 +465,14 @@
       "onboard_time": 1713015137,
       "rank": 48,
       "category": "情感"
+    },
+    {
+      "raw_hot": 62633,
+      "num": 53978,
+      "word": "纪凌尘看宁静的眼神",
+      "onboard_time": 1713042311,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 58710,
@@ -491,6 +499,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 46804,
+      "num": 38172,
+      "word": "长期宅在家里能量是不流通的",
+      "onboard_time": 1713042251,
+      "rank": 39,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 43333,
       "num": 33495,
       "word": "金秀贤金智媛更新ins",
@@ -505,6 +521,14 @@
       "onboard_time": 1713032712,
       "rank": 46,
       "category": "演出"
+    },
+    {
+      "raw_hot": 37978,
+      "num": 54183,
+      "word": "男童30万耳蜗丢失全城合力找回",
+      "onboard_time": 1713041710,
+      "rank": 44,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 36753,
@@ -523,27 +547,19 @@
       "category": "演出"
     },
     {
-      "raw_hot": 28080,
-      "num": 28080,
-      "word": "长期宅在家里能量是不流通的",
-      "onboard_time": 1713042251,
-      "rank": 39,
-      "category": "健康医疗"
+      "raw_hot": 25639,
+      "num": 25639,
+      "word": "美股黄金白银大跳水",
+      "onboard_time": 1713045310,
+      "rank": 36,
+      "category": "财经"
     },
     {
-      "raw_hot": 26174,
-      "num": 26174,
-      "word": "男童30万耳蜗丢失全城合力找回",
-      "onboard_time": 1713041710,
-      "rank": 44,
-      "category": "社会正能量"
-    },
-    {
-      "raw_hot": 25457,
-      "num": 25457,
-      "word": "纪凌尘看宁静的眼神",
-      "onboard_time": 1713042311,
-      "rank": 43,
+      "raw_hot": 23913,
+      "num": 23913,
+      "word": "每天做800个腹肌运动的AHyeon",
+      "onboard_time": 1713045130,
+      "rank": 38,
       "category": "综艺"
     },
     {
@@ -555,20 +571,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 18179,
+      "num": 20958,
+      "word": "主动让路人摸摸的耶耶",
+      "onboard_time": 1713043990,
+      "rank": 49,
+      "category": "情感"
+    },
+    {
       "raw_hot": 17645,
       "num": 21757,
       "word": "承欢记",
       "onboard_time": 1713010998,
       "rank": 48,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 13411,
-      "num": 18748,
-      "word": "主动让路人摸摸的耶耶",
-      "onboard_time": 1713043990,
-      "rank": 49,
-      "category": "情感"
     }
   ],
   "hotgov_list": [
