@@ -1,6 +1,6 @@
 {
   "startTime": 1712938901785,
-  "endTime": 1712975699661,
+  "endTime": 1712978122345,
   "band_list": [
     {
       "raw_hot": 1883112,
@@ -75,6 +75,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 803317,
+      "num": 660513,
+      "word": "黄子韬徐艺洋吃同一块饼",
+      "onboard_time": 1712973496,
+      "rank": 6,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 746784,
       "num": 179994,
       "word": "网红猫一杯道歉",
@@ -99,14 +107,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 660513,
-      "num": 660513,
-      "word": "黄子韬徐艺洋吃同一块饼",
-      "onboard_time": 1712973496,
-      "rank": 6,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 637486,
       "num": 634967,
       "word": "斩虎 巨婴",
@@ -121,6 +121,14 @@
       "onboard_time": 1712932579,
       "rank": 16,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 630779,
+      "num": 630779,
+      "word": "张颂文已把应援花插到花瓶",
+      "onboard_time": 1712973976,
+      "rank": 14,
+      "category": "艺人"
     },
     {
       "raw_hot": 621935,
@@ -171,20 +179,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 507499,
-      "num": 507499,
-      "word": "张颂文已把应援花插到花瓶",
-      "onboard_time": 1712973976,
-      "rank": 14,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 505332,
       "num": 505332,
       "word": "马丽获奖感言",
       "onboard_time": 1712965576,
       "rank": 11,
       "category": "电影"
+    },
+    {
+      "raw_hot": 502364,
+      "num": 502364,
+      "word": "郎平受过世父亲影响坚持测血糖",
+      "onboard_time": 1712975956,
+      "rank": 4,
+      "category": "体育"
     },
     {
       "raw_hot": 474276,
@@ -217,6 +225,14 @@
       "onboard_time": 1712971338,
       "rank": 17,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 424293,
+      "num": 424293,
+      "word": "专八必过",
+      "onboard_time": 1712965635,
+      "rank": 5,
+      "category": "教育"
     },
     {
       "raw_hot": 414561,
@@ -275,12 +291,36 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 342843,
+      "num": 199956,
+      "word": "入睡太快正不正常",
+      "onboard_time": 1712975656,
+      "rank": 35,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 333571,
       "num": 333571,
       "word": "陈泽 红娘",
       "onboard_time": 1712932698,
       "rank": 34,
       "category": "游戏,网红"
+    },
+    {
+      "raw_hot": 327073,
+      "num": 327073,
+      "word": "实力派女演员",
+      "onboard_time": 1712976496,
+      "rank": 10,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 325795,
+      "num": 325795,
+      "word": "宋轶何超莲朝鲜服氛围感",
+      "onboard_time": 1712976018,
+      "rank": 11,
+      "category": "综艺"
     },
     {
       "raw_hot": 321080,
@@ -347,6 +387,22 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 283763,
+      "num": 283763,
+      "word": "越运动越胖其实是身体在补偿你",
+      "onboard_time": 1712973078,
+      "rank": 25,
+      "category": "运动健身,科学科普"
+    },
+    {
+      "raw_hot": 279985,
+      "num": 279985,
+      "word": "柯基 我的孩子腿必须短",
+      "onboard_time": 1712975956,
+      "rank": 14,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 279454,
       "num": 279454,
       "word": "林更新坦言二搭赵丽颖有压力",
@@ -371,12 +427,36 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 261593,
+      "num": 199321,
+      "word": "戚薇好薄一片",
+      "onboard_time": 1712976557,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 253878,
       "num": 253878,
       "word": "周大福足金戒指不到2个月出现褪色",
       "onboard_time": 1712906478,
       "rank": 13,
       "category": "财经"
+    },
+    {
+      "raw_hot": 249912,
+      "num": 249912,
+      "word": "宝宝长宝宝短宝宝有事我不管",
+      "onboard_time": 1712976496,
+      "rank": 15,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 249644,
+      "num": 198139,
+      "word": "为什么研究生搞不定中学的比赛",
+      "onboard_time": 1712977336,
+      "rank": 26,
+      "category": "情感"
     },
     {
       "raw_hot": 245198,
@@ -435,20 +515,20 @@
       "category": "网红"
     },
     {
-      "raw_hot": 212987,
-      "num": 212987,
-      "word": "越运动越胖其实是身体在补偿你",
-      "onboard_time": 1712973078,
-      "rank": 25,
-      "category": "运动健身,科学科普"
-    },
-    {
       "raw_hot": 209963,
       "num": 209963,
       "word": "山西省考",
       "onboard_time": 1712942653,
       "rank": 6,
       "category": "教育"
+    },
+    {
+      "raw_hot": 204765,
+      "num": 204765,
+      "word": "杨迪埋怨吴奇隆丁程鑫",
+      "onboard_time": 1712977276,
+      "rank": 18,
+      "category": "综艺"
     },
     {
       "raw_hot": 201855,
@@ -481,6 +561,14 @@
       "onboard_time": 1712964194,
       "rank": 18,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 197699,
+      "num": 197699,
+      "word": "BLG管理层",
+      "onboard_time": 1712977577,
+      "rank": 28,
+      "category": "电竞"
     },
     {
       "raw_hot": 193982,
@@ -580,7 +668,7 @@
     },
     {
       "raw_hot": 171903,
-      "num": 149865,
+      "num": 165145,
       "word": "黄子韬云南",
       "onboard_time": 1712964796,
       "rank": 43,
@@ -609,6 +697,14 @@
       "onboard_time": 1712972777,
       "rank": 41,
       "category": "财经"
+    },
+    {
+      "raw_hot": 162433,
+      "num": 162433,
+      "word": "BLG辅助On被喷",
+      "onboard_time": 1712977817,
+      "rank": 31,
+      "category": "电竞"
     },
     {
       "raw_hot": 160625,
@@ -699,18 +795,26 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 143611,
-      "num": 143611,
-      "word": "入睡太快正不正常",
-      "onboard_time": 1712975656,
-      "rank": 35,
-      "category": "健康医疗"
+      "raw_hot": 142497,
+      "num": 142497,
+      "word": "涵艺爆料WBG签约韩援打野",
+      "onboard_time": 1712977937,
+      "rank": 34,
+      "category": "电竞"
     },
     {
       "raw_hot": 140656,
       "num": 140656,
       "word": "王子变青蛙 世子变护院",
       "onboard_time": 1712974757,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 140232,
+      "num": 140232,
+      "word": "赵丽颖工作室发文告别沈璃",
+      "onboard_time": 1712977757,
       "rank": 37,
       "category": "剧集"
     },
@@ -787,6 +891,22 @@
       "category": "电影"
     },
     {
+      "raw_hot": 126331,
+      "num": 126331,
+      "word": "马嘉祺有个双胞胎哥哥",
+      "onboard_time": 1712978057,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 125882,
+      "num": 583241,
+      "word": "不愧是最美的人间四月天",
+      "onboard_time": 1712977216,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 124537,
       "num": 124537,
       "word": "恰存其适",
@@ -795,12 +915,36 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 124227,
+      "num": 124227,
+      "word": "詹姆斯杀死比赛",
+      "onboard_time": 1712977878,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 123696,
+      "num": 123696,
+      "word": "马刺绝杀掘金",
+      "onboard_time": 1712976797,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 123511,
       "num": 123511,
       "word": "猫咪们站成一排等着领导",
       "onboard_time": 1712972356,
       "rank": 43,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 123395,
+      "num": 123395,
+      "word": "散是满天星 合是神金病",
+      "onboard_time": 1712978057,
+      "rank": 47,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 121983,
