@@ -1,0 +1,410 @@
+{
+  "runTime": 1712970838034,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1611355,
+        "num": 1611355,
+        "word": "杨立新遇害前承认婚内出轨怀孕",
+        "onboard_time": 1712969117,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 681606,
+        "num": 681606,
+        "word": "河南原则上不再保留科级事业单位",
+        "onboard_time": 1712968216,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 207147,
+        "num": 622394,
+        "word": "秦朗丢寒假作业系摆拍博主被处罚",
+        "onboard_time": 1712919678,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 601576,
+        "num": 601576,
+        "word": "尚雯婕复旦毕业20年经历",
+        "onboard_time": 1712965335,
+        "rank": 3,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 522510,
+        "num": 522510,
+        "word": "金价或将被推升至3000美元",
+        "onboard_time": 1712963234,
+        "rank": 4,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 520701,
+        "num": 520701,
+        "word": "拜登警告伊朗不要攻击以色列",
+        "onboard_time": 1712964976,
+        "rank": 5,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 487209,
+        "num": 487209,
+        "word": "以色列",
+        "onboard_time": 1712965876,
+        "rank": 6,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 458793,
+        "num": 458793,
+        "word": "马丽获奖感言",
+        "onboard_time": 1712965576,
+        "rank": 7,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 427813,
+        "num": 427813,
+        "word": "男子电梯内殴打女友被刑拘",
+        "onboard_time": 1712966957,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 144139,
+        "num": 406681,
+        "word": "小孩哥情绪稳定的像拖拉机老司机",
+        "onboard_time": 1712967319,
+        "rank": 9,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 1039118,
+        "num": 406021,
+        "word": "全嘻嘻 北大毕业15年的两种结局",
+        "onboard_time": 1712966898,
+        "rank": 10,
+        "category": "情感,网红"
+      },
+      {
+        "raw_hot": 528875,
+        "num": 402064,
+        "word": "郭敬明开新店人均消费1500元",
+        "onboard_time": 1712969957,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 396141,
+        "num": 396141,
+        "word": "杭州确诊一例狂犬病死亡几年前被狗咬",
+        "onboard_time": 1712929938,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 302655,
+        "num": 302655,
+        "word": "辛家亮爸爸婚外情暴露",
+        "onboard_time": 1712968757,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 289818,
+        "num": 289818,
+        "word": "拜登称美国将帮以色列防御伊朗",
+        "onboard_time": 1712969898,
+        "rank": 14,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 283448,
+        "num": 283448,
+        "word": "伊朗",
+        "onboard_time": 1712932519,
+        "rank": 15,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 245198,
+        "num": 245198,
+        "word": "多国使馆提醒公民勿前往以色列",
+        "onboard_time": 1712968998,
+        "rank": 16,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 240895,
+        "num": 240895,
+        "word": "伊以冲突",
+        "onboard_time": 1712970677,
+        "rank": 17,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 224012,
+        "num": 224012,
+        "word": "有没有性生活都一定要做4项妇科检查",
+        "onboard_time": 1712907858,
+        "rank": 18,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 209389,
+        "num": 209389,
+        "word": "58岁姐姐去世弟弟含泪吹唢呐送别",
+        "onboard_time": 1712951471,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 648384,
+        "num": 207699,
+        "word": "杨立新遇害21天前刚收嫌疑人为徒",
+        "onboard_time": 1712940855,
+        "rank": 20,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 449790,
+        "num": 205820,
+        "word": "乐言爆被柳智敏粉丝贷款",
+        "onboard_time": 1712963835,
+        "rank": 21,
+        "category": "电竞,艺人"
+      },
+      {
+        "raw_hot": 348766,
+        "num": 204591,
+        "word": "有一种小肚子叫骨盆前倾",
+        "onboard_time": 1712964555,
+        "rank": 22,
+        "category": "健康医疗,运动健身"
+      },
+      {
+        "raw_hot": 231757,
+        "num": 201233,
+        "word": "旅游时千万不要带太多的东西",
+        "onboard_time": 1712967136,
+        "rank": 23,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 214596,
+        "num": 200441,
+        "word": "爸爸安慰30岁失业女儿不要想太多",
+        "onboard_time": 1712967976,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 198522,
+        "num": 198522,
+        "word": "黄子韬徐艺洋被说像兄妹",
+        "onboard_time": 1712932579,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 176187,
+        "num": 176187,
+        "word": "猫一杯",
+        "onboard_time": 1712964194,
+        "rank": 26,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 174001,
+        "num": 174001,
+        "word": "男子囤4600多克金条坚决不卖",
+        "onboard_time": 1712941815,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 171961,
+        "num": 171961,
+        "word": "员工晒董宇辉白发越来越多",
+        "onboard_time": 1712937857,
+        "rank": 28,
+        "category": "互联网,网红"
+      },
+      {
+        "raw_hot": 165303,
+        "num": 165303,
+        "word": "网红猫一杯涉事公司监事回应处罚",
+        "onboard_time": 1712929578,
+        "rank": 29,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 156246,
+        "num": 156246,
+        "word": "百万网红杨立新遇害",
+        "onboard_time": 1712910078,
+        "rank": 30,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 155470,
+        "num": 155470,
+        "word": "花花被和叶推下水",
+        "onboard_time": 1712932940,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 152068,
+        "num": 152068,
+        "word": "戚薇参加乘风2024的原因",
+        "onboard_time": 1712964735,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 151991,
+        "num": 151991,
+        "word": "知情人回应男子电梯里暴打女友",
+        "onboard_time": 1712966656,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 149865,
+        "num": 149865,
+        "word": "黄子韬云南",
+        "onboard_time": 1712964796,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 148960,
+        "num": 148960,
+        "word": "易烊千玺穿白大褂制表",
+        "onboard_time": 1712970198,
+        "rank": 35,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 148071,
+        "num": 148071,
+        "word": "2024届毕业生开启论文答辩模式",
+        "onboard_time": 1712967798,
+        "rank": 36,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 146680,
+        "num": 146680,
+        "word": "杨立新事件",
+        "onboard_time": 1712964855,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 140672,
+        "num": 140672,
+        "word": "张予曦穿了贾静雯去年浪姐的衣服",
+        "onboard_time": 1712932998,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 136652,
+        "num": 136652,
+        "word": "刘亦菲林更新玫瑰的故事剧照",
+        "onboard_time": 1712930899,
+        "rank": 39,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 122469,
+        "num": 122469,
+        "word": "父母让我退房把钱给弟弟娶老婆",
+        "onboard_time": 1712963774,
+        "rank": 40,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 121841,
+        "num": 121841,
+        "word": "眼泪女王",
+        "onboard_time": 1712966296,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 120879,
+        "num": 120879,
+        "word": "外星人绑架案出现新证人",
+        "onboard_time": 1712953151,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 117348,
+        "num": 117348,
+        "word": "内蒙古61岁老人在三甲医院参加活动死亡",
+        "onboard_time": 1712964194,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 113784,
+        "num": 113784,
+        "word": "恰存其适",
+        "onboard_time": 1712969417,
+        "rank": 44,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 113265,
+        "num": 113265,
+        "word": "赵丽颖南京工作室注销",
+        "onboard_time": 1712953991,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 111172,
+        "num": 111172,
+        "word": "我从211退学考上了另一所211",
+        "onboard_time": 1712926519,
+        "rank": 46,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 110519,
+        "num": 110519,
+        "word": "洗洁精真的可以洗水果吗",
+        "onboard_time": 1712970736,
+        "rank": 47,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 108344,
+        "num": 108344,
+        "word": "瘦这里两坨肉这么简单",
+        "onboard_time": 1712966775,
+        "rank": 48,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 107076,
+        "num": 107076,
+        "word": "张艺兴舞台 女书",
+        "onboard_time": 1712970798,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平同苏里南总统单多吉会谈#"
+    }
+  }
+}

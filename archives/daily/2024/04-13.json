@@ -1,7 +1,23 @@
 {
   "startTime": 1712938901785,
-  "endTime": 1712970053045,
+  "endTime": 1712970838034,
   "band_list": [
+    {
+      "raw_hot": 1611355,
+      "num": 1611355,
+      "word": "杨立新遇害前承认婚内出轨怀孕",
+      "onboard_time": 1712969117,
+      "rank": 0,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1039118,
+      "num": 506405,
+      "word": "全嘻嘻 北大毕业15年的两种结局",
+      "onboard_time": 1712966898,
+      "rank": 10,
+      "category": "情感,网红"
+    },
     {
       "raw_hot": 984604,
       "num": 523410,
@@ -9,14 +25,6 @@
       "onboard_time": 1712929938,
       "rank": 3,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 925086,
-      "num": 506405,
-      "word": "全嘻嘻 北大毕业15年的两种结局",
-      "onboard_time": 1712966898,
-      "rank": 10,
-      "category": "情感,网红"
     },
     {
       "raw_hot": 907279,
@@ -43,14 +51,6 @@
       "category": "网红"
     },
     {
-      "raw_hot": 781722,
-      "num": 781722,
-      "word": "杨立新遇害前承认婚内出轨怀孕",
-      "onboard_time": 1712969117,
-      "rank": 0,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 746784,
       "num": 179994,
       "word": "网红猫一杯道歉",
@@ -65,6 +65,14 @@
       "onboard_time": 1712964976,
       "rank": 1,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 681606,
+      "num": 681606,
+      "word": "河南原则上不再保留科级事业单位",
+      "onboard_time": 1712968216,
+      "rank": 5,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 637486,
@@ -107,14 +115,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 585527,
-      "num": 585527,
-      "word": "河南原则上不再保留科级事业单位",
-      "onboard_time": 1712968216,
-      "rank": 5,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 551912,
       "num": 551912,
       "word": "张予曦穿了贾静雯去年浪姐的衣服",
@@ -129,6 +129,14 @@
       "onboard_time": 1712965876,
       "rank": 6,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 528875,
+      "num": 402064,
+      "word": "郭敬明开新店人均消费1500元",
+      "onboard_time": 1712969957,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 524927,
@@ -243,6 +251,22 @@
       "category": "教育"
     },
     {
+      "raw_hot": 302655,
+      "num": 302655,
+      "word": "辛家亮爸爸婚外情暴露",
+      "onboard_time": 1712968757,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 289818,
+      "num": 289818,
+      "word": "拜登称美国将帮以色列防御伊朗",
+      "onboard_time": 1712969898,
+      "rank": 31,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 284537,
       "num": 284537,
       "word": "美情报显示伊朗将在24至48小时内动手",
@@ -275,20 +299,28 @@
       "category": "财经"
     },
     {
-      "raw_hot": 238192,
-      "num": 238192,
-      "word": "郭敬明开新店人均消费1500元",
-      "onboard_time": 1712969957,
-      "rank": 16,
-      "category": "艺人"
+      "raw_hot": 245198,
+      "num": 245198,
+      "word": "多国使馆提醒公民勿前往以色列",
+      "onboard_time": 1712968998,
+      "rank": 18,
+      "category": "国外时政"
     },
     {
-      "raw_hot": 232254,
-      "num": 232254,
-      "word": "辛家亮爸爸婚外情暴露",
-      "onboard_time": 1712968757,
+      "raw_hot": 240895,
+      "num": 240895,
+      "word": "伊以冲突",
+      "onboard_time": 1712970677,
       "rank": 17,
-      "category": "剧集"
+      "category": "国外时政"
+    },
+    {
+      "raw_hot": 231757,
+      "num": 201233,
+      "word": "旅游时千万不要带太多的东西",
+      "onboard_time": 1712967136,
+      "rank": 29,
+      "category": "旅游"
     },
     {
       "raw_hot": 230278,
@@ -305,14 +337,6 @@
       "onboard_time": 1712930598,
       "rank": 21,
       "category": "情感"
-    },
-    {
-      "raw_hot": 228416,
-      "num": 228416,
-      "word": "多国使馆提醒公民勿前往以色列",
-      "onboard_time": 1712968998,
-      "rank": 18,
-      "category": "国外时政"
     },
     {
       "raw_hot": 227699,
@@ -339,7 +363,7 @@
       "category": "网红"
     },
     {
-      "raw_hot": 212009,
+      "raw_hot": 214596,
       "num": 212009,
       "word": "爸爸安慰30岁失业女儿不要想太多",
       "onboard_time": 1712967976,
@@ -419,22 +443,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 185999,
-      "num": 185999,
-      "word": "旅游时千万不要带太多的东西",
-      "onboard_time": 1712967136,
-      "rank": 29,
-      "category": "旅游"
-    },
-    {
-      "raw_hot": 179436,
-      "num": 179436,
-      "word": "拜登称美国将帮以色列防御伊朗",
-      "onboard_time": 1712969898,
-      "rank": 31,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 174866,
       "num": 174866,
       "word": "承欢记收视率创新高",
@@ -475,6 +483,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 151991,
+      "num": 151991,
+      "word": "知情人回应男子电梯里暴打女友",
+      "onboard_time": 1712966656,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 150323,
       "num": 150323,
       "word": "李溪芮吊带银裙",
@@ -491,6 +507,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 149865,
+      "num": 149865,
+      "word": "黄子韬云南",
+      "onboard_time": 1712964796,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 149608,
       "num": 149608,
       "word": "外星人绑架案出现新证人",
@@ -499,20 +523,28 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 146952,
-      "num": 146952,
-      "word": "黄子韬云南",
-      "onboard_time": 1712964796,
-      "rank": 43,
-      "category": "综艺"
+      "raw_hot": 148960,
+      "num": 148960,
+      "word": "易烊千玺穿白大褂制表",
+      "onboard_time": 1712970198,
+      "rank": 35,
+      "category": "作品衍生"
     },
     {
-      "raw_hot": 143918,
-      "num": 143918,
-      "word": "知情人回应男子电梯里暴打女友",
-      "onboard_time": 1712966656,
-      "rank": 38,
-      "category": "社会新闻"
+      "raw_hot": 148071,
+      "num": 148071,
+      "word": "2024届毕业生开启论文答辩模式",
+      "onboard_time": 1712967798,
+      "rank": 41,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 144139,
+      "num": 506825,
+      "word": "小孩哥情绪稳定的像拖拉机老司机",
+      "onboard_time": 1712967319,
+      "rank": 9,
+      "category": "幽默"
     },
     {
       "raw_hot": 140213,
@@ -555,14 +587,6 @@
       "category": "网红"
     },
     {
-      "raw_hot": 130814,
-      "num": 130814,
-      "word": "2024届毕业生开启论文答辩模式",
-      "onboard_time": 1712967798,
-      "rank": 41,
-      "category": "教育"
-    },
-    {
       "raw_hot": 128376,
       "num": 150306,
       "word": "乐言喊zdz姐夫",
@@ -577,14 +601,6 @@
       "onboard_time": 1712933419,
       "rank": 32,
       "category": "电影"
-    },
-    {
-      "raw_hot": 125346,
-      "num": 506825,
-      "word": "小孩哥情绪稳定的像拖拉机老司机",
-      "onboard_time": 1712967319,
-      "rank": 9,
-      "category": "幽默"
     },
     {
       "raw_hot": 124537,
@@ -627,6 +643,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 110519,
+      "num": 110519,
+      "word": "洗洁精真的可以洗水果吗",
+      "onboard_time": 1712970736,
+      "rank": 47,
+      "category": "美食"
+    },
+    {
       "raw_hot": 108017,
       "num": 99233,
       "word": "宋雨琦戴唇环",
@@ -641,6 +665,14 @@
       "onboard_time": 1712922377,
       "rank": 41,
       "category": "电影,时尚"
+    },
+    {
+      "raw_hot": 107076,
+      "num": 107076,
+      "word": "张艺兴舞台 女书",
+      "onboard_time": 1712970798,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 105145,
