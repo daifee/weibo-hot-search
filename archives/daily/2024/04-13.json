@@ -1,6 +1,6 @@
 {
   "startTime": 1712938901785,
-  "endTime": 1712973000129,
+  "endTime": 1712974585184,
   "band_list": [
     {
       "raw_hot": 1883112,
@@ -11,8 +11,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1741596,
-      "num": 1741596,
+      "raw_hot": 1759944,
+      "num": 1759944,
       "word": "伊以冲突",
       "onboard_time": 1712970677,
       "rank": 17,
@@ -35,8 +35,16 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 910253,
-      "num": 910253,
+      "raw_hot": 984562,
+      "num": 984562,
+      "word": "女生义乌10元买项链多年后未变色",
+      "onboard_time": 1712971877,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 917392,
+      "num": 917392,
       "word": "郭敬明开新店人均消费1500元",
       "onboard_time": 1712969957,
       "rank": 16,
@@ -179,14 +187,6 @@
       "category": "电竞,艺人"
     },
     {
-      "raw_hot": 456576,
-      "num": 314657,
-      "word": "女生义乌10元买项链多年后未变色",
-      "onboard_time": 1712971877,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 429686,
       "num": 429686,
       "word": "机智的医生生活第三季",
@@ -195,12 +195,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 428602,
+      "num": 428602,
+      "word": "早期宫颈癌可能没有症状",
+      "onboard_time": 1712971338,
+      "rank": 17,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 414561,
       "num": 414561,
       "word": "百万网红杨立新遇害",
       "onboard_time": 1712910078,
       "rank": 6,
       "category": "网红"
+    },
+    {
+      "raw_hot": 413879,
+      "num": 413879,
+      "word": "黄子韬徐艺洋吃同一块饼",
+      "onboard_time": 1712973496,
+      "rank": 6,
+      "category": "综艺"
     },
     {
       "raw_hot": 398168,
@@ -212,7 +228,7 @@
     },
     {
       "raw_hot": 382927,
-      "num": 833210,
+      "num": 934660,
       "word": "秦朗丢寒假作业系摆拍博主被处罚",
       "onboard_time": 1712919678,
       "rank": 14,
@@ -225,14 +241,6 @@
       "onboard_time": 1712937857,
       "rank": 29,
       "category": "互联网,网红"
-    },
-    {
-      "raw_hot": 360054,
-      "num": 360054,
-      "word": "早期宫颈癌可能没有症状",
-      "onboard_time": 1712971338,
-      "rank": 17,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 351358,
@@ -323,20 +331,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 271194,
+      "num": 271194,
+      "word": "易烊千玺穿白大褂制表",
+      "onboard_time": 1712970198,
+      "rank": 35,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 269703,
+      "num": 269703,
+      "word": "张颂文已把应援花插到花瓶",
+      "onboard_time": 1712973976,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 263178,
       "num": 263178,
       "word": "58岁姐姐去世弟弟含泪吹唢呐送别",
       "onboard_time": 1712951471,
       "rank": 8,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 258357,
-      "num": 258357,
-      "word": "易烊千玺穿白大褂制表",
-      "onboard_time": 1712970198,
-      "rank": 35,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 253878,
@@ -387,6 +403,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 215550,
+      "num": 215550,
+      "word": "于适白溜",
+      "onboard_time": 1712971817,
+      "rank": 31,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 214628,
       "num": 214628,
       "word": "猫一杯",
@@ -401,14 +425,6 @@
       "onboard_time": 1712942653,
       "rank": 6,
       "category": "教育"
-    },
-    {
-      "raw_hot": 203877,
-      "num": 198556,
-      "word": "于适白溜",
-      "onboard_time": 1712971817,
-      "rank": 31,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 201855,
@@ -451,6 +467,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 192008,
+      "num": 192008,
+      "word": "杨立新2月前曾称被起诉离婚",
+      "onboard_time": 1712973258,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 191612,
       "num": 163993,
       "word": "赵露思王安宇拥抱",
@@ -475,6 +499,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 188634,
+      "num": 188634,
+      "word": "路人把杨祐宁错认成肖战",
+      "onboard_time": 1712971277,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 185430,
       "num": 185430,
       "word": "2024届毕业生开启论文答辩模式",
@@ -483,11 +515,19 @@
       "category": "教育"
     },
     {
-      "raw_hot": 180088,
-      "num": 180088,
-      "word": "路人把杨祐宁错认成肖战",
-      "onboard_time": 1712971277,
-      "rank": 27,
+      "raw_hot": 180854,
+      "num": 180854,
+      "word": "越运动越胖其实是身体在补偿你",
+      "onboard_time": 1712973078,
+      "rank": 25,
+      "category": "运动健身,科学科普"
+    },
+    {
+      "raw_hot": 180649,
+      "num": 180649,
+      "word": "杨迪说张杰和檀健次送的东西都好有用",
+      "onboard_time": 1712973557,
+      "rank": 26,
       "category": "综艺"
     },
     {
@@ -515,12 +555,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 167232,
+      "num": 167232,
+      "word": "张小斐的钻戒好大",
+      "onboard_time": 1712972718,
+      "rank": 45,
+      "category": "电影"
+    },
+    {
       "raw_hot": 165002,
       "num": 506825,
       "word": "小孩哥情绪稳定的像拖拉机老司机",
       "onboard_time": 1712967319,
       "rank": 9,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 163546,
+      "num": 163546,
+      "word": "商家预售黄金几天亏损数十万",
+      "onboard_time": 1712972777,
+      "rank": 41,
+      "category": "财经"
     },
     {
       "raw_hot": 160625,
@@ -569,6 +625,14 @@
       "onboard_time": 1712929578,
       "rank": 25,
       "category": "美食"
+    },
+    {
+      "raw_hot": 153501,
+      "num": 153501,
+      "word": "伊媒威胁将以城市夷为平地",
+      "onboard_time": 1712973798,
+      "rank": 34,
+      "category": "国外时政"
     },
     {
       "raw_hot": 151991,
@@ -683,14 +747,6 @@
       "category": "电竞,艺人"
     },
     {
-      "raw_hot": 127449,
-      "num": 127449,
-      "word": "商家预售黄金几天亏损数十万",
-      "onboard_time": 1712972777,
-      "rank": 41,
-      "category": "财经"
-    },
-    {
       "raw_hot": 126597,
       "num": 126597,
       "word": "刘浩存年度影响力青年演员",
@@ -715,12 +771,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 123432,
-      "num": 123432,
-      "word": "张小斐的钻戒好大",
-      "onboard_time": 1712972718,
-      "rank": 45,
-      "category": "电影"
+      "raw_hot": 121983,
+      "num": 121983,
+      "word": "驻以使馆再提醒在以中国公民注意安全",
+      "onboard_time": 1712973258,
+      "rank": 44,
+      "category": "国内时政"
     },
     {
       "raw_hot": 120996,
@@ -729,6 +785,14 @@
       "onboard_time": 1712935400,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 120880,
+      "num": 120880,
+      "word": "好小众的癖好",
+      "onboard_time": 1712973438,
+      "rank": 45,
+      "category": "幽默"
     },
     {
       "raw_hot": 117556,
@@ -761,6 +825,14 @@
       "onboard_time": 1712932158,
       "rank": 36,
       "category": "演出"
+    },
+    {
+      "raw_hot": 113188,
+      "num": 113188,
+      "word": "三个玩手机最佳动作",
+      "onboard_time": 1712974456,
+      "rank": 48,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 108017,
