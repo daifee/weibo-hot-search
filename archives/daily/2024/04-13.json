@@ -1,7 +1,15 @@
 {
   "startTime": 1712938901785,
-  "endTime": 1713004443725,
+  "endTime": 1713006757983,
   "band_list": [
+    {
+      "raw_hot": 2111297,
+      "num": 2111297,
+      "word": "Thurman猫一杯视频号被封",
+      "onboard_time": 1713005717,
+      "rank": 0,
+      "category": "网红"
+    },
     {
       "raw_hot": 1883112,
       "num": 1611355,
@@ -57,6 +65,14 @@
       "onboard_time": 1712980457,
       "rank": 1,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1372444,
+      "num": 1372444,
+      "word": "车辆发生剐蹭女子叫嚣自己老公是国足",
+      "onboard_time": 1713004757,
+      "rank": 1,
+      "category": "体育"
     },
     {
       "raw_hot": 1318533,
@@ -161,6 +177,14 @@
       "onboard_time": 1712932519,
       "rank": 0,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 892007,
+      "num": 892007,
+      "word": "南昌下午一点半天就黑了",
+      "onboard_time": 1713002057,
+      "rank": 18,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 836350,
@@ -283,14 +307,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 645821,
-      "num": 645821,
-      "word": "南昌下午一点半天就黑了",
-      "onboard_time": 1713002057,
-      "rank": 18,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 637486,
       "num": 634967,
       "word": "斩虎 巨婴",
@@ -329,6 +345,22 @@
       "onboard_time": 1712963234,
       "rank": 35,
       "category": "财经"
+    },
+    {
+      "raw_hot": 618223,
+      "num": 618223,
+      "word": "撒贝宁跟何炅说想大侦探了",
+      "onboard_time": 1713004457,
+      "rank": 6,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 611733,
+      "num": 611733,
+      "word": "杜华称参加浪姐一天被骂200万条",
+      "onboard_time": 1713003559,
+      "rank": 14,
+      "category": "综艺"
     },
     {
       "raw_hot": 606479,
@@ -483,12 +515,28 @@
       "category": "电竞,艺人"
     },
     {
+      "raw_hot": 463393,
+      "num": 463393,
+      "word": "猫一杯 秦朗事件",
+      "onboard_time": 1712988136,
+      "rank": 14,
+      "category": "社会新闻,网红"
+    },
+    {
       "raw_hot": 460540,
       "num": 460540,
       "word": "是的 我和英专离婚了",
       "onboard_time": 1712980338,
       "rank": 17,
       "category": "教育"
+    },
+    {
+      "raw_hot": 451195,
+      "num": 451195,
+      "word": "邓紫棋长沙演唱会场外多人高喊退票",
+      "onboard_time": 1713004639,
+      "rank": 17,
+      "category": "演出"
     },
     {
       "raw_hot": 441861,
@@ -521,14 +569,6 @@
       "onboard_time": 1712971338,
       "rank": 17,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 418853,
-      "num": 418853,
-      "word": "猫一杯 秦朗事件",
-      "onboard_time": 1712988136,
-      "rank": 14,
-      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 414561,
@@ -771,14 +811,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 308923,
-      "num": 308923,
-      "word": "杜华称参加浪姐一天被骂200万条",
-      "onboard_time": 1713003559,
-      "rank": 14,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 307714,
       "num": 248328,
       "word": "频繁早醒可能是病了",
@@ -923,6 +955,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 261034,
+      "num": 261034,
+      "word": "张杰演唱会地屏",
+      "onboard_time": 1713006378,
+      "rank": 19,
+      "category": "演出"
+    },
+    {
       "raw_hot": 255726,
       "num": 255726,
       "word": "与凤行成绩",
@@ -937,6 +977,14 @@
       "onboard_time": 1712906478,
       "rank": 13,
       "category": "财经"
+    },
+    {
+      "raw_hot": 253290,
+      "num": 253290,
+      "word": "T1晋级2024MSI",
+      "onboard_time": 1713004757,
+      "rank": 20,
+      "category": "电竞"
     },
     {
       "raw_hot": 249718,
@@ -963,12 +1011,28 @@
       "category": "演出"
     },
     {
+      "raw_hot": 236761,
+      "num": 236761,
+      "word": "JENNIE KPOP刊帝",
+      "onboard_time": 1713005957,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 234491,
       "num": 234491,
       "word": "多国建议本国公民勿前往以色列伊朗等国",
       "onboard_time": 1712978237,
       "rank": 31,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 234018,
+      "num": 234018,
+      "word": "张一山银发",
+      "onboard_time": 1713006197,
+      "rank": 23,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 230278,
@@ -1011,6 +1075,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 218218,
+      "num": 190358,
+      "word": "清融 心意小融收到了",
+      "onboard_time": 1713006197,
+      "rank": 30,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 216853,
       "num": 1445997,
       "word": "不愧是最美的人间四月天",
@@ -1033,6 +1105,14 @@
       "onboard_time": 1712971817,
       "rank": 31,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 214650,
+      "num": 214650,
+      "word": "伊朗称美若干预伊以纷争将打击美军",
+      "onboard_time": 1713006378,
+      "rank": 25,
+      "category": "国外时政"
     },
     {
       "raw_hot": 214628,
@@ -1081,6 +1161,14 @@
       "onboard_time": 1712992638,
       "rank": 25,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 204984,
+      "num": 204984,
+      "word": "GR 屠夫",
+      "onboard_time": 1713006378,
+      "rank": 27,
+      "category": "电竞"
     },
     {
       "raw_hot": 204765,
@@ -1297,6 +1385,14 @@
       "onboard_time": 1712967798,
       "rank": 41,
       "category": "教育"
+    },
+    {
+      "raw_hot": 184073,
+      "num": 184073,
+      "word": "韩华",
+      "onboard_time": 1713005837,
+      "rank": 33,
+      "category": "电竞"
     },
     {
       "raw_hot": 184050,
@@ -1579,6 +1675,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 156661,
+      "num": 156661,
+      "word": "古人夏天用的冰块从哪儿来",
+      "onboard_time": 1713006617,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 155821,
       "num": 155821,
       "word": "脆皮口腔自救指南",
@@ -1641,6 +1745,14 @@
       "onboard_time": 1712979916,
       "rank": 38,
       "category": "教育"
+    },
+    {
+      "raw_hot": 152986,
+      "num": 152986,
+      "word": "Viper无缘MSI",
+      "onboard_time": 1713004757,
+      "rank": 36,
+      "category": "电竞"
     },
     {
       "raw_hot": 151991,
@@ -1715,12 +1827,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 148164,
+      "num": 148164,
+      "word": "大城市其实是很多人的唯一选择",
+      "onboard_time": 1713005117,
+      "rank": 39,
+      "category": "情感"
+    },
+    {
       "raw_hot": 146957,
       "num": 146957,
       "word": "张云龙鼓励蔡文静去浪姐",
       "onboard_time": 1712971877,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 146760,
+      "num": 146760,
+      "word": "单身生活才是最爽的",
+      "onboard_time": 1713006318,
+      "rank": 40,
+      "category": "情感"
     },
     {
       "raw_hot": 146589,
@@ -1739,12 +1867,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 146012,
+      "num": 146012,
+      "word": "演唱会的主角其实是你自己",
+      "onboard_time": 1713005777,
+      "rank": 42,
+      "category": "情感"
+    },
+    {
       "raw_hot": 146011,
       "num": 146011,
       "word": "RNG称绝不解散",
       "onboard_time": 1713001456,
       "rank": 40,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 143980,
+      "num": 143980,
+      "word": "怎么和infj复合",
+      "onboard_time": 1713005777,
+      "rank": 43,
+      "category": "情感"
     },
     {
       "raw_hot": 142600,
@@ -1761,6 +1905,14 @@
       "onboard_time": 1712977937,
       "rank": 34,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 142470,
+      "num": 142470,
+      "word": "于正不许王星越今年恋爱",
+      "onboard_time": 1713006678,
+      "rank": 45,
+      "category": "剧集"
     },
     {
       "raw_hot": 141468,
@@ -1801,6 +1953,14 @@
       "onboard_time": 1712989158,
       "rank": 40,
       "category": "演出"
+    },
+    {
+      "raw_hot": 136924,
+      "num": 136924,
+      "word": "RNG直播需付费观看",
+      "onboard_time": 1713006738,
+      "rank": 46,
+      "category": "电竞"
     },
     {
       "raw_hot": 136167,
