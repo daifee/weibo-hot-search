@@ -1,6 +1,6 @@
 {
   "startTime": 1713025251708,
-  "endTime": 1713033248428,
+  "endTime": 1713035533455,
   "band_list": [
     {
       "raw_hot": 1120400,
@@ -419,20 +419,20 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 86678,
+      "num": 64960,
+      "word": "焉栩嘉荧幕初吻",
+      "onboard_time": 1713033012,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 77410,
       "num": 65403,
       "word": "曾黎黑色小吊带",
       "onboard_time": 1713030973,
       "rank": 30,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 72180,
-      "num": 64960,
-      "word": "焉栩嘉荧幕初吻",
-      "onboard_time": 1713033012,
-      "rank": 21,
-      "category": "综艺"
     },
     {
       "raw_hot": 69782,
@@ -451,6 +451,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 65822,
+      "num": 37040,
+      "word": "孙怡玫瑰连衣裙",
+      "onboard_time": 1713034031,
+      "rank": 30,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 58710,
       "num": 65555,
       "word": "AG 现场复盘",
@@ -467,6 +475,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 47199,
+      "num": 39854,
+      "word": "男子一个大意3万元一缸鱼快熟了",
+      "onboard_time": 1713033492,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 39910,
+      "num": 41564,
+      "word": "诺米 全开麦",
+      "onboard_time": 1713032712,
+      "rank": 46,
+      "category": "演出"
+    },
+    {
       "raw_hot": 36753,
       "num": 41524,
       "word": "海仁表白",
@@ -475,11 +499,11 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 33467,
-      "num": 41564,
-      "word": "诺米 全开麦",
-      "onboard_time": 1713032712,
-      "rank": 46,
+      "raw_hot": 29647,
+      "num": 34292,
+      "word": "张云雷酷狗唱玩会",
+      "onboard_time": 1713034631,
+      "rank": 43,
       "category": "演出"
     },
     {
