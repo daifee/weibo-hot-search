@@ -1,6 +1,6 @@
 {
   "startTime": 1713025251708,
-  "endTime": 1713035533455,
+  "endTime": 1713036830910,
   "band_list": [
     {
       "raw_hot": 1120400,
@@ -435,6 +435,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 72838,
+      "num": 37040,
+      "word": "孙怡玫瑰连衣裙",
+      "onboard_time": 1713034031,
+      "rank": 30,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 69782,
       "num": 95660,
       "word": "伊朗",
@@ -449,14 +457,6 @@
       "onboard_time": 1713015137,
       "rank": 48,
       "category": "情感"
-    },
-    {
-      "raw_hot": 65822,
-      "num": 37040,
-      "word": "孙怡玫瑰连衣裙",
-      "onboard_time": 1713034031,
-      "rank": 30,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 58710,
@@ -475,12 +475,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 47199,
+      "raw_hot": 49044,
       "num": 39854,
       "word": "男子一个大意3万元一缸鱼快熟了",
       "onboard_time": 1713033492,
       "rank": 22,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 43333,
+      "num": 33495,
+      "word": "金秀贤金智媛更新ins",
+      "onboard_time": 1713035831,
+      "rank": 21,
+      "category": "剧集"
     },
     {
       "raw_hot": 39910,
@@ -505,6 +513,14 @@
       "onboard_time": 1713034631,
       "rank": 43,
       "category": "演出"
+    },
+    {
+      "raw_hot": 27650,
+      "num": 27650,
+      "word": "王祖蓝在香港被放假的广西人包围了",
+      "onboard_time": 1713036671,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 21533,
