@@ -1,6 +1,6 @@
 {
   "startTime": 1712938901785,
-  "endTime": 1712999654583,
+  "endTime": 1713000831832,
   "band_list": [
     {
       "raw_hot": 1883112,
@@ -35,6 +35,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1555493,
+      "num": 1555493,
+      "word": "江西师大虐猫男生被开除学籍",
+      "onboard_time": 1712997857,
+      "rank": 0,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1498762,
       "num": 1498762,
       "word": "马嘉祺有个双胞胎哥哥",
@@ -57,14 +65,6 @@
       "onboard_time": 1712989517,
       "rank": 16,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 1228171,
-      "num": 1228171,
-      "word": "江西师大虐猫男生被开除学籍",
-      "onboard_time": 1712997857,
-      "rank": 0,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1215293,
@@ -112,6 +112,14 @@
       "word": "绝大部分人感染HPV后会自愈",
       "onboard_time": 1712994977,
       "rank": 19,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 985255,
+      "num": 985255,
+      "word": "留意侧躺玩手机后的眼睛变化",
+      "onboard_time": 1712997065,
+      "rank": 45,
       "category": "健康医疗"
     },
     {
@@ -180,7 +188,7 @@
     },
     {
       "raw_hot": 791804,
-      "num": 885712,
+      "num": 990690,
       "word": "炮制秦朗丢作业丢掉了什么",
       "onboard_time": 1712981417,
       "rank": 29,
@@ -203,12 +211,12 @@
       "category": "网红"
     },
     {
-      "raw_hot": 741330,
-      "num": 741330,
-      "word": "留意侧躺玩手机后的眼睛变化",
-      "onboard_time": 1712997065,
-      "rank": 45,
-      "category": "健康医疗"
+      "raw_hot": 742928,
+      "num": 742928,
+      "word": "赵丽颖用录音告别与凤行",
+      "onboard_time": 1712999357,
+      "rank": 15,
+      "category": "剧集"
     },
     {
       "raw_hot": 723607,
@@ -291,8 +299,8 @@
       "category": "财经"
     },
     {
-      "raw_hot": 606855,
-      "num": 606855,
+      "raw_hot": 607550,
+      "num": 607550,
       "word": "成毅晒面摊",
       "onboard_time": 1712996178,
       "rank": 39,
@@ -332,7 +340,7 @@
     },
     {
       "raw_hot": 536247,
-      "num": 264974,
+      "num": 269452,
       "word": "马上入编了家里却要拆迁",
       "onboard_time": 1712991677,
       "rank": 31,
@@ -435,12 +443,12 @@
       "category": "教育"
     },
     {
-      "raw_hot": 451026,
-      "num": 369029,
-      "word": "赵丽颖用录音告别与凤行",
-      "onboard_time": 1712999357,
-      "rank": 15,
-      "category": "剧集"
+      "raw_hot": 445164,
+      "num": 284285,
+      "word": "朋友圈置顶是所有人可见吗",
+      "onboard_time": 1712998818,
+      "rank": 22,
+      "category": "情感"
     },
     {
       "raw_hot": 441861,
@@ -627,6 +635,14 @@
       "category": "游戏,网红"
     },
     {
+      "raw_hot": 331819,
+      "num": 331819,
+      "word": "消息人士称伊朗或在24至48小时内袭击以色列",
+      "onboard_time": 1712998818,
+      "rank": 19,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 330016,
       "num": 330016,
       "word": "HLE对战T1",
@@ -641,14 +657,6 @@
       "onboard_time": 1712976018,
       "rank": 11,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 325302,
-      "num": 263214,
-      "word": "朋友圈置顶是所有人可见吗",
-      "onboard_time": 1712998818,
-      "rank": 22,
-      "category": "情感"
     },
     {
       "raw_hot": 324689,
@@ -681,6 +689,14 @@
       "onboard_time": 1712932459,
       "rank": 7,
       "category": "演出"
+    },
+    {
+      "raw_hot": 312276,
+      "num": 312276,
+      "word": "鹿晗黄子韬新歌上线",
+      "onboard_time": 1712999057,
+      "rank": 23,
+      "category": "音乐"
     },
     {
       "raw_hot": 310810,
@@ -747,6 +763,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 300028,
+      "num": 278373,
+      "word": "进体制内还能追星吗",
+      "onboard_time": 1712999598,
+      "rank": 31,
+      "category": "情感"
+    },
+    {
       "raw_hot": 296716,
       "num": 296716,
       "word": "林更新被淋成狗",
@@ -769,6 +793,14 @@
       "onboard_time": 1712977817,
       "rank": 31,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 290982,
+      "num": 290982,
+      "word": "赵丽颖说谢谢狗哥",
+      "onboard_time": 1713000498,
+      "rank": 19,
+      "category": "剧集"
     },
     {
       "raw_hot": 286264,
@@ -827,20 +859,20 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 264857,
+      "num": 264857,
+      "word": "陈楚生方就音乐节演出取消道歉",
+      "onboard_time": 1712999357,
+      "rank": 39,
+      "category": "演出"
+    },
+    {
       "raw_hot": 263178,
       "num": 263178,
       "word": "58岁姐姐去世弟弟含泪吹唢呐送别",
       "onboard_time": 1712951471,
       "rank": 8,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 262232,
-      "num": 262232,
-      "word": "鹿晗黄子韬新歌上线",
-      "onboard_time": 1712999057,
-      "rank": 23,
-      "category": "音乐"
     },
     {
       "raw_hot": 261593,
@@ -979,6 +1011,22 @@
       "category": "教育"
     },
     {
+      "raw_hot": 208648,
+      "num": 208648,
+      "word": "没有一顿火锅解决不了的事",
+      "onboard_time": 1712999838,
+      "rank": 28,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 208423,
+      "num": 208423,
+      "word": "卢昱晓团综路透",
+      "onboard_time": 1712999598,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 206890,
       "num": 206890,
       "word": "赵露思蓝猫妆",
@@ -1065,14 +1113,6 @@
       "onboard_time": 1712953091,
       "rank": 33,
       "category": "社会正能量"
-    },
-    {
-      "raw_hot": 199507,
-      "num": 271746,
-      "word": "消息人士称伊朗或在24至48小时内袭击以色列",
-      "onboard_time": 1712998818,
-      "rank": 19,
-      "category": "国外时政"
     },
     {
       "raw_hot": 198863,
@@ -1179,8 +1219,8 @@
       "category": "演出"
     },
     {
-      "raw_hot": 186429,
-      "num": 186429,
+      "raw_hot": 186502,
+      "num": 186502,
       "word": "ILLIT一位安可",
       "onboard_time": 1712999299,
       "rank": 27,
@@ -1315,6 +1355,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 172198,
+      "num": 172198,
+      "word": "林俊杰天津演唱会彩排照",
+      "onboard_time": 1713000378,
+      "rank": 33,
+      "category": "演出"
+    },
+    {
       "raw_hot": 167604,
       "num": 167604,
       "word": "NBA",
@@ -1331,14 +1379,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 165242,
-      "num": 165242,
-      "word": "进体制内还能追星吗",
-      "onboard_time": 1712999598,
-      "rank": 31,
-      "category": "情感"
-    },
-    {
       "raw_hot": 165002,
       "num": 506825,
       "word": "小孩哥情绪稳定的像拖拉机老司机",
@@ -1353,6 +1393,14 @@
       "onboard_time": 1712997137,
       "rank": 43,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 164272,
+      "num": 164272,
+      "word": "悉尼持刀伤人现场多人倒地流血不止",
+      "onboard_time": 1713000138,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 163546,
@@ -1515,12 +1563,36 @@
       "category": "教育"
     },
     {
+      "raw_hot": 152962,
+      "num": 152962,
+      "word": "为什么大家越来越喜欢日落",
+      "onboard_time": 1713000138,
+      "rank": 38,
+      "category": "情感"
+    },
+    {
       "raw_hot": 151991,
       "num": 151991,
       "word": "知情人回应男子电梯里暴打女友",
       "onboard_time": 1712966656,
       "rank": 38,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 151971,
+      "num": 151971,
+      "word": "2黄牛煽动冲卡邓紫棋演出被警方拘留",
+      "onboard_time": 1713000077,
+      "rank": 39,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 151108,
+      "num": 151108,
+      "word": "惜花芷",
+      "onboard_time": 1712999957,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 150554,
@@ -1545,6 +1617,14 @@
       "onboard_time": 1712913739,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 150197,
+      "num": 150197,
+      "word": "Meiko看HLE对战T1",
+      "onboard_time": 1713000318,
+      "rank": 41,
+      "category": "电竞"
     },
     {
       "raw_hot": 149608,
@@ -1587,14 +1667,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 146052,
-      "num": 146052,
-      "word": "陈楚生方就音乐节演出取消道歉",
-      "onboard_time": 1712999357,
-      "rank": 39,
-      "category": "演出"
-    },
-    {
       "raw_hot": 142600,
       "num": 142600,
       "word": "何冰娇锁定国羽女单奥运名额",
@@ -1617,14 +1689,6 @@
       "onboard_time": 1712989698,
       "rank": 38,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 141295,
-      "num": 141295,
-      "word": "卢昱晓团综路透",
-      "onboard_time": 1712999598,
-      "rank": 41,
-      "category": "综艺"
     },
     {
       "raw_hot": 140656,
@@ -1699,6 +1763,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 133389,
+      "num": 133389,
+      "word": "熬夜的人身体会变臭",
+      "onboard_time": 1713000438,
+      "rank": 44,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 133222,
       "num": 133222,
       "word": "父母让我退房把钱给弟弟娶老婆",
@@ -1737,6 +1809,14 @@
       "onboard_time": 1712998038,
       "rank": 44,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 129727,
+      "num": 129727,
+      "word": "某幻 音乐节",
+      "onboard_time": 1713000737,
+      "rank": 46,
+      "category": "游戏,网红"
     },
     {
       "raw_hot": 129626,
@@ -2306,6 +2386,9 @@
     },
     {
       "word": "#习近平总书记田间地头话农事#"
+    },
+    {
+      "word": "#相知无远近万里尚为邻#"
     }
   ]
 }
