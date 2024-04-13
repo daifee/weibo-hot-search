@@ -1,6 +1,6 @@
 {
   "startTime": 1712420539476,
-  "endTime": 1712982850081,
+  "endTime": 1712985533490,
   "band_list": [
     {
       "raw_hot": 9583581,
@@ -731,6 +731,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1349307,
+      "num": 1349307,
+      "word": "猫一杯2小时掉10万粉",
+      "onboard_time": 1712983578,
+      "rank": 0,
+      "category": "社会新闻,网红"
+    },
+    {
       "raw_hot": 1341302,
       "num": 1341302,
       "word": "溺亡大熊猫表面无明显人为伤",
@@ -1353,6 +1361,14 @@
       "onboard_time": 1712884398,
       "rank": 46,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 1018641,
+      "num": 1018641,
+      "word": "首饰金价一夜大降10元每克",
+      "onboard_time": 1712982377,
+      "rank": 15,
+      "category": "财经"
     },
     {
       "raw_hot": 1015873,
@@ -2097,6 +2113,14 @@
       "onboard_time": 1712582179,
       "rank": 37,
       "category": "美食"
+    },
+    {
+      "raw_hot": 791804,
+      "num": 791804,
+      "word": "炮制秦朗丢作业丢掉了什么",
+      "onboard_time": 1712981417,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 789715,
@@ -3611,14 +3635,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 557713,
-      "num": 557713,
-      "word": "炮制秦朗丢作业丢掉了什么",
-      "onboard_time": 1712981417,
-      "rank": 29,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 557125,
       "num": 557125,
       "word": "王者荣耀个性小兵",
@@ -4057,6 +4073,14 @@
       "onboard_time": 1712932459,
       "rank": 11,
       "category": "演出"
+    },
+    {
+      "raw_hot": 508370,
+      "num": 508370,
+      "word": "只有王俊凯被通知穿西装",
+      "onboard_time": 1712984478,
+      "rank": 7,
+      "category": "综艺"
     },
     {
       "raw_hot": 505825,
@@ -4721,6 +4745,14 @@
       "onboard_time": 1712657061,
       "rank": 17,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 460540,
+      "num": 460540,
+      "word": "是的 我和英专离婚了",
+      "onboard_time": 1712980338,
+      "rank": 17,
+      "category": "教育"
     },
     {
       "raw_hot": 458842,
@@ -5659,14 +5691,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 383688,
-      "num": 383688,
-      "word": "是的 我和英专离婚了",
-      "onboard_time": 1712980338,
-      "rank": 17,
-      "category": "教育"
-    },
-    {
       "raw_hot": 382279,
       "num": 382279,
       "word": "田曦薇露腰皮衣",
@@ -6115,6 +6139,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 354728,
+      "num": 354728,
+      "word": "晚宴上的赵露思",
+      "onboard_time": 1712981057,
+      "rank": 27,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 354350,
       "num": 354350,
       "word": "华晨宇演唱会顺带搞基建",
@@ -6281,6 +6313,22 @@
       "onboard_time": 1712734219,
       "rank": 22,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 349005,
+      "num": 203941,
+      "word": "导师打了14个电话叫我起床",
+      "onboard_time": 1712982618,
+      "rank": 37,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 348787,
+      "num": 460580,
+      "word": "妈妈称唐氏女儿在舞台上光彩四溢",
+      "onboard_time": 1712983398,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 348415,
@@ -7203,14 +7251,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 303372,
-      "num": 303372,
-      "word": "晚宴上的赵露思",
-      "onboard_time": 1712981057,
-      "rank": 27,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 302655,
       "num": 302655,
       "word": "辛家亮爸爸婚外情暴露",
@@ -7403,6 +7443,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 296716,
+      "num": 296716,
+      "word": "林更新被淋成狗",
+      "onboard_time": 1712983217,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 296646,
       "num": 296646,
       "word": "专八答案",
@@ -7593,6 +7641,14 @@
       "onboard_time": 1712823916,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 287649,
+      "num": 203068,
+      "word": "为了涨500块工资问来问去",
+      "onboard_time": 1712985078,
+      "rank": 23,
+      "category": "幽默"
     },
     {
       "raw_hot": 287147,
@@ -8601,14 +8657,6 @@
       "onboard_time": 1712892257,
       "rank": 33,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 252795,
-      "num": 252795,
-      "word": "首饰金价一夜大降10元每克",
-      "onboard_time": 1712982377,
-      "rank": 15,
-      "category": "财经"
     },
     {
       "raw_hot": 252751,
@@ -9979,6 +10027,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 218680,
+      "num": 218680,
+      "word": "陆婷玉花朝少女妆",
+      "onboard_time": 1712984537,
+      "rank": 18,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 218310,
       "num": 218310,
       "word": "鸿蒙智行回应雷军",
@@ -11051,6 +11107,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 202656,
+      "num": 202656,
+      "word": "齐思钧生日甜味起司妆",
+      "onboard_time": 1712984478,
+      "rank": 25,
+      "category": "艺人,美妆"
+    },
+    {
       "raw_hot": 202653,
       "num": 195848,
       "word": "跳水运动员摔进水池看呆马克龙",
@@ -11851,6 +11915,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 193395,
+      "num": 193395,
+      "word": "库里三分",
+      "onboard_time": 1712984418,
+      "rank": 26,
+      "category": "体育"
+    },
+    {
       "raw_hot": 193317,
       "num": 193317,
       "word": "萧敬腾谈跟林有慧结婚细节眼眶红了",
@@ -11969,6 +12041,14 @@
       "onboard_time": 1712890638,
       "rank": 39,
       "category": "财经"
+    },
+    {
+      "raw_hot": 192035,
+      "num": 192035,
+      "word": "勇士不敌鹈鹕",
+      "onboard_time": 1712984958,
+      "rank": 27,
+      "category": "体育"
     },
     {
       "raw_hot": 192008,
@@ -12907,6 +12987,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 180615,
+      "num": 180615,
+      "word": "英专生 五世同堂",
+      "onboard_time": 1712981537,
+      "rank": 35,
+      "category": "教育"
+    },
+    {
       "raw_hot": 180582,
       "num": 180582,
       "word": "旅游到底是吃重要还是住重要",
@@ -13587,14 +13675,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 170803,
-      "num": 170803,
-      "word": "英专生 五世同堂",
-      "onboard_time": 1712981537,
-      "rank": 35,
-      "category": "教育"
-    },
-    {
       "raw_hot": 170639,
       "num": 170639,
       "word": "雷军许愿池",
@@ -13769,6 +13849,14 @@
       "onboard_time": 1712932158,
       "rank": 35,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 167604,
+      "num": 167604,
+      "word": "NBA",
+      "onboard_time": 1712985138,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 167553,
@@ -14027,14 +14115,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 163673,
-      "num": 163673,
-      "word": "导师打了14个电话叫我起床",
-      "onboard_time": 1712982618,
-      "rank": 37,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 163648,
       "num": 163648,
       "word": "听完电视的价格把阿姨吓跑了",
@@ -14073,6 +14153,14 @@
       "onboard_time": 1712627298,
       "rank": 40,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 162971,
+      "num": 162971,
+      "word": "被猫咪纵身一跃后疑似骨折",
+      "onboard_time": 1712984238,
+      "rank": 32,
+      "category": "幽默"
     },
     {
       "raw_hot": 162762,
@@ -14459,6 +14547,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 157753,
+      "num": 157753,
+      "word": "鹿晗狂泼邓超",
+      "onboard_time": 1712985318,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 157293,
       "num": 157293,
       "word": "RNG早已没钱",
@@ -14497,6 +14593,14 @@
       "onboard_time": 1712738058,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 156763,
+      "num": 156763,
+      "word": "张杰南昌遗憾变圆满",
+      "onboard_time": 1712984057,
+      "rank": 37,
+      "category": "演出"
     },
     {
       "raw_hot": 156598,
@@ -14987,6 +15091,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 150187,
+      "num": 150187,
+      "word": "看承欢记给妈妈选衣服有方向了",
+      "onboard_time": 1712982677,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 150153,
       "num": 150153,
       "word": "过完清明假期办公室全体离职",
@@ -15243,6 +15355,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 146589,
+      "num": 146589,
+      "word": "黄子弘凡 抓到有点害羞的夕阳",
+      "onboard_time": 1712983998,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 146554,
       "num": 175818,
       "word": "苏GDE2511的姐谢谢你",
@@ -15273,6 +15393,14 @@
       "onboard_time": 1712567119,
       "rank": 43,
       "category": "情感"
+    },
+    {
+      "raw_hot": 146273,
+      "num": 146273,
+      "word": "是谁周六还在上班",
+      "onboard_time": 1712983038,
+      "rank": 42,
+      "category": "幽默"
     },
     {
       "raw_hot": 146261,
@@ -16587,14 +16715,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 127826,
-      "num": 127826,
-      "word": "看承欢记给妈妈选衣服有方向了",
-      "onboard_time": 1712982677,
-      "rank": 47,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 127503,
       "num": 127503,
       "word": "今年唯一一次日全食即将上演",
@@ -17771,6 +17891,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 97707,
+      "num": 202906,
+      "word": "万物皆可P5X",
+      "onboard_time": 1712983277,
+      "rank": 24,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 97694,
       "num": 320972,
       "word": "卡琳娜Joker杀疯了",
@@ -18451,6 +18579,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 67518,
+      "num": 460543,
+      "word": "蛋仔dongdong全民票选",
+      "onboard_time": 1712982018,
+      "rank": 23,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 67476,
       "num": 109615,
       "word": "医生建议这些人一定要吃夜宵",
@@ -18761,14 +18897,6 @@
       "onboard_time": 1712617694,
       "rank": 48,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 42307,
-      "num": 209351,
-      "word": "蛋仔dongdong全民票选",
-      "onboard_time": 1712982018,
-      "rank": 23,
-      "category": "游戏"
     },
     {
       "raw_hot": 41920,

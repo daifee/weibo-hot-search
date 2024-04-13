@@ -1,6 +1,6 @@
 {
   "startTime": 1712938901785,
-  "endTime": 1712982850081,
+  "endTime": 1712985533490,
   "band_list": [
     {
       "raw_hot": 1883112,
@@ -43,6 +43,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1349307,
+      "num": 1349307,
+      "word": "猫一杯2小时掉10万粉",
+      "onboard_time": 1712983578,
+      "rank": 0,
+      "category": "社会新闻,网红"
+    },
+    {
       "raw_hot": 1215293,
       "num": 1215293,
       "word": "女生义乌10元买项链多年后未变色",
@@ -65,6 +73,14 @@
       "onboard_time": 1712978416,
       "rank": 1,
       "category": "教育"
+    },
+    {
+      "raw_hot": 1018641,
+      "num": 1018641,
+      "word": "首饰金价一夜大降10元每克",
+      "onboard_time": 1712982377,
+      "rank": 15,
+      "category": "财经"
     },
     {
       "raw_hot": 984604,
@@ -113,6 +129,14 @@
       "onboard_time": 1712973496,
       "rank": 6,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 791804,
+      "num": 791804,
+      "word": "炮制秦朗丢作业丢掉了什么",
+      "onboard_time": 1712981417,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 746784,
@@ -187,14 +211,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 557713,
-      "num": 557713,
-      "word": "炮制秦朗丢作业丢掉了什么",
-      "onboard_time": 1712981417,
-      "rank": 29,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 551912,
       "num": 551912,
       "word": "张予曦穿了贾静雯去年浪姐的衣服",
@@ -225,6 +241,14 @@
       "onboard_time": 1712977336,
       "rank": 26,
       "category": "情感"
+    },
+    {
+      "raw_hot": 508370,
+      "num": 508370,
+      "word": "只有王俊凯被通知穿西装",
+      "onboard_time": 1712984478,
+      "rank": 7,
+      "category": "综艺"
     },
     {
       "raw_hot": 505332,
@@ -265,6 +289,14 @@
       "onboard_time": 1712963835,
       "rank": 12,
       "category": "电竞,艺人"
+    },
+    {
+      "raw_hot": 460540,
+      "num": 460540,
+      "word": "是的 我和英专离婚了",
+      "onboard_time": 1712980338,
+      "rank": 17,
+      "category": "教育"
     },
     {
       "raw_hot": 441861,
@@ -315,14 +347,6 @@
       "category": "健康医疗,运动健身"
     },
     {
-      "raw_hot": 383688,
-      "num": 383688,
-      "word": "是的 我和英专离婚了",
-      "onboard_time": 1712980338,
-      "rank": 17,
-      "category": "教育"
-    },
-    {
       "raw_hot": 382927,
       "num": 934660,
       "word": "秦朗丢寒假作业系摆拍博主被处罚",
@@ -355,6 +379,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 354728,
+      "num": 354728,
+      "word": "晚宴上的赵露思",
+      "onboard_time": 1712981057,
+      "rank": 27,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 351358,
       "num": 351358,
       "word": "山西省考 出不出",
@@ -369,6 +401,22 @@
       "onboard_time": 1712977577,
       "rank": 28,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 349005,
+      "num": 203941,
+      "word": "导师打了14个电话叫我起床",
+      "onboard_time": 1712982618,
+      "rank": 37,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 348787,
+      "num": 460580,
+      "word": "妈妈称唐氏女儿在舞台上光彩四溢",
+      "onboard_time": 1712983398,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 348010,
@@ -451,14 +499,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 303372,
-      "num": 303372,
-      "word": "晚宴上的赵露思",
-      "onboard_time": 1712981057,
-      "rank": 27,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 302655,
       "num": 302655,
       "word": "辛家亮爸爸婚外情暴露",
@@ -475,6 +515,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 296716,
+      "num": 296716,
+      "word": "林更新被淋成狗",
+      "onboard_time": 1712983217,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 296646,
       "num": 296646,
       "word": "专八答案",
@@ -489,6 +537,14 @@
       "onboard_time": 1712977817,
       "rank": 31,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 287649,
+      "num": 203068,
+      "word": "为了涨500块工资问来问去",
+      "onboard_time": 1712985078,
+      "rank": 23,
+      "category": "幽默"
     },
     {
       "raw_hot": 286264,
@@ -563,14 +619,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 252795,
-      "num": 252795,
-      "word": "首饰金价一夜大降10元每克",
-      "onboard_time": 1712982377,
-      "rank": 15,
-      "category": "财经"
-    },
-    {
       "raw_hot": 245198,
       "num": 245198,
       "word": "多国使馆提醒公民勿前往以色列",
@@ -619,6 +667,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 218680,
+      "num": 218680,
+      "word": "陆婷玉花朝少女妆",
+      "onboard_time": 1712984537,
+      "rank": 18,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 216853,
       "num": 1445997,
       "word": "不愧是最美的人间四月天",
@@ -665,6 +721,14 @@
       "onboard_time": 1712980818,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 202656,
+      "num": 202656,
+      "word": "齐思钧生日甜味起司妆",
+      "onboard_time": 1712984478,
+      "rank": 25,
+      "category": "艺人,美妆"
     },
     {
       "raw_hot": 201855,
@@ -721,6 +785,22 @@
       "onboard_time": 1712966296,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 193395,
+      "num": 193395,
+      "word": "库里三分",
+      "onboard_time": 1712984418,
+      "rank": 26,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 192035,
+      "num": 192035,
+      "word": "勇士不敌鹈鹕",
+      "onboard_time": 1712984958,
+      "rank": 27,
+      "category": "体育"
     },
     {
       "raw_hot": 192008,
@@ -787,6 +867,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 180615,
+      "num": 180615,
+      "word": "英专生 五世同堂",
+      "onboard_time": 1712981537,
+      "rank": 35,
+      "category": "教育"
+    },
+    {
       "raw_hot": 180481,
       "num": 176380,
       "word": "张小斐的钻戒好大",
@@ -843,12 +931,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 170803,
-      "num": 170803,
-      "word": "英专生 五世同堂",
-      "onboard_time": 1712981537,
-      "rank": 35,
-      "category": "教育"
+      "raw_hot": 167604,
+      "num": 167604,
+      "word": "NBA",
+      "onboard_time": 1712985138,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 167453,
@@ -867,20 +955,20 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 163673,
-      "num": 163673,
-      "word": "导师打了14个电话叫我起床",
-      "onboard_time": 1712982618,
-      "rank": 37,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 163546,
       "num": 163546,
       "word": "商家预售黄金几天亏损数十万",
       "onboard_time": 1712972777,
       "rank": 41,
       "category": "财经"
+    },
+    {
+      "raw_hot": 162971,
+      "num": 162971,
+      "word": "被猫咪纵身一跃后疑似骨折",
+      "onboard_time": 1712984238,
+      "rank": 32,
+      "category": "幽默"
     },
     {
       "raw_hot": 160625,
@@ -913,6 +1001,22 @@
       "onboard_time": 1712971757,
       "rank": 34,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 157753,
+      "num": 157753,
+      "word": "鹿晗狂泼邓超",
+      "onboard_time": 1712985318,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 156763,
+      "num": 156763,
+      "word": "张杰南昌遗憾变圆满",
+      "onboard_time": 1712984057,
+      "rank": 37,
+      "category": "演出"
     },
     {
       "raw_hot": 155821,
@@ -979,6 +1083,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 150187,
+      "num": 150187,
+      "word": "看承欢记给妈妈选衣服有方向了",
+      "onboard_time": 1712982677,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 149608,
       "num": 149608,
       "word": "外星人绑架案出现新证人",
@@ -993,6 +1105,22 @@
       "onboard_time": 1712971877,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 146589,
+      "num": 146589,
+      "word": "黄子弘凡 抓到有点害羞的夕阳",
+      "onboard_time": 1712983998,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 146273,
+      "num": 146273,
+      "word": "是谁周六还在上班",
+      "onboard_time": 1712983038,
+      "rank": 42,
+      "category": "幽默"
     },
     {
       "raw_hot": 142497,
@@ -1089,14 +1217,6 @@
       "onboard_time": 1712917638,
       "rank": 27,
       "category": "电竞,艺人"
-    },
-    {
-      "raw_hot": 127826,
-      "num": 127826,
-      "word": "看承欢记给妈妈选衣服有方向了",
-      "onboard_time": 1712982677,
-      "rank": 47,
-      "category": "剧集"
     },
     {
       "raw_hot": 126597,
@@ -1283,6 +1403,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 97707,
+      "num": 202906,
+      "word": "万物皆可P5X",
+      "onboard_time": 1712983277,
+      "rank": 24,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 97637,
       "num": 97637,
       "word": "文韬生日会",
@@ -1387,6 +1515,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 67518,
+      "num": 460543,
+      "word": "蛋仔dongdong全民票选",
+      "onboard_time": 1712982018,
+      "rank": 23,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 65711,
       "num": 65711,
       "word": "金价飙升新人选择将三金折现",
@@ -1417,14 +1553,6 @@
       "onboard_time": 1712964735,
       "rank": 47,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 42307,
-      "num": 209351,
-      "word": "蛋仔dongdong全民票选",
-      "onboard_time": 1712982018,
-      "rank": 23,
-      "category": "游戏"
     },
     {
       "raw_hot": 39730,
