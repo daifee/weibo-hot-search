@@ -1,6 +1,6 @@
 {
   "startTime": 1712420539476,
-  "endTime": 1713014239104,
+  "endTime": 1713015250419,
   "band_list": [
     {
       "raw_hot": 9583581,
@@ -1563,6 +1563,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 962843,
+      "num": 962843,
+      "word": "眼泪女王 不会要be吧",
+      "onboard_time": 1713013097,
+      "rank": 8,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 961628,
       "num": 488336,
       "word": "鹿晗起诉莆田鞋帽商家",
@@ -1985,6 +1993,14 @@
       "onboard_time": 1712736918,
       "rank": 21,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 838085,
+      "num": 838085,
+      "word": "陈卓璇体重只有74斤",
+      "onboard_time": 1713013638,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 836350,
@@ -2915,14 +2931,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 684858,
-      "num": 619203,
-      "word": "眼泪女王 不会要be吧",
-      "onboard_time": 1713013097,
-      "rank": 8,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 684366,
       "num": 684366,
       "word": "欧阳娜娜奖学金",
@@ -3041,6 +3049,14 @@
       "onboard_time": 1712650220,
       "rank": 9,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 662376,
+      "num": 552557,
+      "word": "钟美美母亲曾被父亲打骨折",
+      "onboard_time": 1713013818,
+      "rank": 28,
+      "category": "网红"
     },
     {
       "raw_hot": 661570,
@@ -4073,14 +4089,6 @@
       "onboard_time": 1712793017,
       "rank": 13,
       "category": "游戏,网红"
-    },
-    {
-      "raw_hot": 538233,
-      "num": 538233,
-      "word": "陈卓璇体重只有74斤",
-      "onboard_time": 1713013638,
-      "rank": 13,
-      "category": "艺人"
     },
     {
       "raw_hot": 536916,
@@ -5491,6 +5499,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 434252,
+      "num": 272992,
+      "word": "微信被拉黑删除和被屏蔽的区别",
+      "onboard_time": 1713012018,
+      "rank": 48,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 432669,
       "num": 432669,
       "word": "冷圈太太",
@@ -5787,6 +5803,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 406891,
+      "num": 439860,
+      "word": "不要再把月经称为那个了",
+      "onboard_time": 1713014779,
+      "rank": 14,
+      "category": "情感"
+    },
+    {
       "raw_hot": 406840,
       "num": 406840,
       "word": "鞠婧祎演技",
@@ -5867,14 +5891,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 400484,
-      "num": 190861,
-      "word": "微信被拉黑删除和被屏蔽的区别",
-      "onboard_time": 1713012018,
-      "rank": 48,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 400344,
       "num": 400344,
       "word": "刘忻张予曦牵手过马路",
@@ -5945,6 +5961,14 @@
       "onboard_time": 1712746759,
       "rank": 20,
       "category": "情感"
+    },
+    {
+      "raw_hot": 393058,
+      "num": 267934,
+      "word": "薛之谦发型一半清汤一半麻辣",
+      "onboard_time": 1713012738,
+      "rank": 25,
+      "category": "演出"
     },
     {
       "raw_hot": 391743,
@@ -6515,14 +6539,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 356360,
-      "num": 186963,
-      "word": "薛之谦发型一半清汤一半麻辣",
-      "onboard_time": 1713012738,
-      "rank": 25,
-      "category": "演出"
-    },
-    {
       "raw_hot": 356033,
       "num": 356033,
       "word": "林更新下部戏是玫瑰的故事",
@@ -6820,7 +6836,7 @@
     },
     {
       "raw_hot": 343892,
-      "num": 186884,
+      "num": 192774,
       "word": "种地吧母带",
       "onboard_time": 1713012258,
       "rank": 26,
@@ -7163,6 +7179,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 326609,
+      "num": 191110,
+      "word": "AG 现场复盘",
+      "onboard_time": 1713014658,
+      "rank": 31,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 326397,
       "num": 326397,
       "word": "金娘子唱年轮",
@@ -7393,14 +7417,6 @@
       "onboard_time": 1712725522,
       "rank": 26,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 316823,
-      "num": 186761,
-      "word": "钟美美母亲曾被父亲打骨折",
-      "onboard_time": 1713013818,
-      "rank": 28,
-      "category": "网红"
     },
     {
       "raw_hot": 316196,
@@ -7769,6 +7785,14 @@
       "onboard_time": 1712451079,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 301856,
+      "num": 189794,
+      "word": "许嵩唱了断桥残雪",
+      "onboard_time": 1713013699,
+      "rank": 31,
+      "category": "演出"
     },
     {
       "raw_hot": 301848,
@@ -8227,6 +8251,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 285524,
+      "num": 188878,
+      "word": "猫一杯旗下品牌发货售后正常",
+      "onboard_time": 1713015020,
+      "rank": 35,
+      "category": "网红"
+    },
+    {
       "raw_hot": 285260,
       "num": 259168,
       "word": "怎么面对婆婆廉价的好意",
@@ -8537,6 +8569,14 @@
       "onboard_time": 1712472677,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 273850,
+      "num": 186002,
+      "word": "韩小圈翻译快点",
+      "onboard_time": 1713014418,
+      "rank": 36,
+      "category": "剧集"
     },
     {
       "raw_hot": 273728,
@@ -10131,6 +10171,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 230716,
+      "num": 182625,
+      "word": "许嵩刚唱乌鸦就下雨了",
+      "onboard_time": 1713014238,
+      "rank": 38,
+      "category": "演出"
+    },
+    {
       "raw_hot": 230567,
       "num": 210264,
       "word": "沈璃行止的婚书",
@@ -10617,14 +10665,6 @@
       "onboard_time": 1712984537,
       "rank": 18,
       "category": "美妆"
-    },
-    {
-      "raw_hot": 218407,
-      "num": 186102,
-      "word": "许嵩唱了断桥残雪",
-      "onboard_time": 1713013699,
-      "rank": 31,
-      "category": "演出"
     },
     {
       "raw_hot": 218310,
@@ -11195,6 +11235,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 208192,
+      "num": 208192,
+      "word": "WTT24总决赛将在济南举办",
+      "onboard_time": 1713014779,
+      "rank": 27,
+      "category": "体育"
+    },
+    {
       "raw_hot": 208137,
       "num": 183866,
       "word": "张杰演唱会玩假人挑战",
@@ -11625,6 +11673,14 @@
       "onboard_time": 1712761281,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 204093,
+      "num": 204093,
+      "word": "荔枝和龙眼杂交出来的新水果",
+      "onboard_time": 1713011418,
+      "rank": 46,
+      "category": "美食"
     },
     {
       "raw_hot": 204079,
@@ -13035,6 +13091,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 189644,
+      "num": 179362,
+      "word": "钟美美谈家暴阴影",
+      "onboard_time": 1713014598,
+      "rank": 42,
+      "category": "网红"
+    },
+    {
       "raw_hot": 189315,
       "num": 192282,
       "word": "乐言说Zdz我们火了",
@@ -13057,6 +13121,14 @@
       "onboard_time": 1712964735,
       "rank": 46,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 189080,
+      "num": 189080,
+      "word": "山新 罗小黑2经费在燃烧",
+      "onboard_time": 1713014779,
+      "rank": 34,
+      "category": "动漫"
     },
     {
       "raw_hot": 188947,
@@ -13401,14 +13473,6 @@
       "onboard_time": 1712661438,
       "rank": 25,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 185653,
-      "num": 185653,
-      "word": "荔枝和龙眼杂交出来的新水果",
-      "onboard_time": 1713011418,
-      "rank": 46,
-      "category": "美食"
     },
     {
       "raw_hot": 185583,
@@ -13801,6 +13865,14 @@
       "onboard_time": 1713003018,
       "rank": 43,
       "category": "教育"
+    },
+    {
+      "raw_hot": 180655,
+      "num": 180655,
+      "word": "你知道下乡给老人拍照有多赚吗",
+      "onboard_time": 1713015137,
+      "rank": 39,
+      "category": "情感"
     },
     {
       "raw_hot": 180582,
@@ -19699,6 +19771,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 74867,
+      "num": 1100521,
+      "word": "春日限定励志文案",
+      "onboard_time": 1713012798,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 74718,
       "num": 74718,
       "word": "总犯困不想动可能是甲状腺有问题",
@@ -19889,14 +19969,6 @@
       "onboard_time": 1712528353,
       "rank": 36,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 66889,
-      "num": 1100521,
-      "word": "春日限定励志文案",
-      "onboard_time": 1713012798,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 66771,
@@ -20185,6 +20257,14 @@
       "onboard_time": 1712833398,
       "rank": 31,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 43238,
+      "num": 261373,
+      "word": "娜然魏哲鸣王子奇甲板看秀",
+      "onboard_time": 1713014299,
+      "rank": 22,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 43040,
