@@ -1,10 +1,10 @@
 {
   "startTime": 1713025251708,
-  "endTime": 1713050343567,
+  "endTime": 1713051402447,
   "band_list": [
     {
-      "raw_hot": 1596971,
-      "num": 1596971,
+      "raw_hot": 2256013,
+      "num": 2256013,
       "word": "伊朗对以色列展开打击行动",
       "onboard_time": 1713049513,
       "rank": 0,
@@ -35,8 +35,8 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 739715,
-      "num": 739715,
+      "raw_hot": 768368,
+      "num": 768368,
       "word": "伊朗对美国发出警告",
       "onboard_time": 1713011357,
       "rank": 15,
@@ -84,7 +84,7 @@
     },
     {
       "raw_hot": 509924,
-      "num": 72108,
+      "num": 93105,
       "word": "伊朗向以色列发射数十架无人机",
       "onboard_time": 1713049813,
       "rank": 30,
@@ -100,7 +100,7 @@
     },
     {
       "raw_hot": 491253,
-      "num": 70649,
+      "num": 239819,
       "word": "伊朗向以色列目标发射弹道导弹",
       "onboard_time": 1713050054,
       "rank": 31,
@@ -123,12 +123,36 @@
       "category": "演出"
     },
     {
+      "raw_hot": 441092,
+      "num": 441092,
+      "word": "长沙暴雨",
+      "onboard_time": 1713050232,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 404942,
+      "num": 229110,
+      "word": "美英拦截伊朗无人机",
+      "onboard_time": 1713050474,
+      "rank": 11,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 398307,
       "num": 398307,
       "word": "纪凌尘说蹭阚清子热度是事实",
       "onboard_time": 1713016519,
       "rank": 12,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 386988,
+      "num": 217160,
+      "word": "伊朗驻联合国代表团发表声明",
+      "onboard_time": 1713050474,
+      "rank": 12,
+      "category": "国外时政"
     },
     {
       "raw_hot": 363293,
@@ -187,6 +211,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 299223,
+      "num": 299223,
+      "word": "以色列",
+      "onboard_time": 1713050474,
+      "rank": 6,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 297698,
       "num": 297698,
       "word": "伊朗",
@@ -195,12 +227,36 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 273093,
+      "num": 273093,
+      "word": "王祖蓝在香港被放假的广西人包围了",
+      "onboard_time": 1713036671,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 271646,
       "num": 271646,
       "word": "王心凌回应隔壁林俊杰送歌",
       "onboard_time": 1713021679,
       "rank": 21,
       "category": "演出"
+    },
+    {
+      "raw_hot": 264359,
+      "num": 205624,
+      "word": "耶路撒冷响起巨大爆炸声",
+      "onboard_time": 1713049994,
+      "rank": 35,
+      "category": "国外时政"
+    },
+    {
+      "raw_hot": 248511,
+      "num": 248511,
+      "word": "以军发言人称以色列处于高度戒备状",
+      "onboard_time": 1713049813,
+      "rank": 11,
+      "category": "国外时政"
     },
     {
       "raw_hot": 227166,
@@ -235,20 +291,28 @@
       "category": "演出"
     },
     {
-      "raw_hot": 214502,
-      "num": 214502,
-      "word": "王祖蓝在香港被放假的广西人包围了",
-      "onboard_time": 1713036671,
-      "rank": 42,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 204903,
       "num": 204903,
       "word": "伊朗称美若干预伊以纷争将打击美军",
       "onboard_time": 1713006378,
       "rank": 34,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 199924,
+      "num": 92987,
+      "word": "孙怡玫瑰连衣裙",
+      "onboard_time": 1713034031,
+      "rank": 30,
+      "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 197357,
+      "num": 197357,
+      "word": "纪凌尘看宁静的眼神",
+      "onboard_time": 1713042311,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 193367,
@@ -259,12 +323,12 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 188892,
-      "num": 188892,
-      "word": "以军发言人称以色列处于高度戒备状",
-      "onboard_time": 1713049813,
-      "rank": 11,
-      "category": "国外时政"
+      "raw_hot": 185160,
+      "num": 185160,
+      "word": "猫一杯",
+      "onboard_time": 1713050955,
+      "rank": 19,
+      "category": "网红"
     },
     {
       "raw_hot": 181276,
@@ -283,6 +347,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 175344,
+      "num": 245021,
+      "word": "男童30万耳蜗丢失全城合力找回",
+      "onboard_time": 1713041710,
+      "rank": 44,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 171483,
       "num": 171483,
       "word": "不要再把月经称为那个了",
@@ -299,16 +371,8 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 165180,
-      "num": 165180,
-      "word": "纪凌尘看宁静的眼神",
-      "onboard_time": 1713042311,
-      "rank": 43,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 164619,
-      "num": 69926,
+      "num": 92404,
       "word": "白宫证实伊朗对以色列发动空袭",
       "onboard_time": 1713049694,
       "rank": 32,
@@ -323,14 +387,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 158272,
-      "num": 158272,
-      "word": "长沙暴雨",
-      "onboard_time": 1713050232,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 157266,
       "num": 157266,
       "word": "赵丽颖沙滩照",
@@ -339,12 +395,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 155629,
-      "num": 68896,
-      "word": "孙怡玫瑰连衣裙",
-      "onboard_time": 1713034031,
-      "rank": 30,
-      "category": "作品衍生,时尚"
+      "raw_hot": 155157,
+      "num": 92925,
+      "word": "张杰再唱雪龙吟",
+      "onboard_time": 1713050955,
+      "rank": 32,
+      "category": "演出"
     },
     {
       "raw_hot": 149843,
@@ -353,6 +409,14 @@
       "onboard_time": 1713019099,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 149513,
+      "num": 92742,
+      "word": "以称已拦截超100架伊朗无人机",
+      "onboard_time": 1713050474,
+      "rank": 33,
+      "category": "国外时政"
     },
     {
       "raw_hot": 146158,
@@ -385,6 +449,14 @@
       "onboard_time": 1713013699,
       "rank": 40,
       "category": "演出"
+    },
+    {
+      "raw_hot": 142278,
+      "num": 142278,
+      "word": "麦承欢终于哭出声了",
+      "onboard_time": 1713047414,
+      "rank": 46,
+      "category": "剧集"
     },
     {
       "raw_hot": 141435,
@@ -475,12 +547,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 108004,
-      "num": 190038,
-      "word": "男童30万耳蜗丢失全城合力找回",
-      "onboard_time": 1713041710,
-      "rank": 44,
-      "category": "社会正能量"
+      "raw_hot": 103108,
+      "num": 91399,
+      "word": "以色列通知多地居民留在防空洞附近",
+      "onboard_time": 1713050054,
+      "rank": 34,
+      "category": "国外时政"
     },
     {
       "raw_hot": 101742,
@@ -491,19 +563,11 @@
       "category": "演出"
     },
     {
-      "raw_hot": 98950,
-      "num": 98950,
-      "word": "麦承欢终于哭出声了",
-      "onboard_time": 1713047414,
-      "rank": 46,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 97451,
-      "num": 68598,
-      "word": "以色列通知多地居民留在防空洞附近",
-      "onboard_time": 1713050054,
-      "rank": 34,
+      "raw_hot": 95745,
+      "num": 90967,
+      "word": "也门胡塞武装参与对以空袭行动",
+      "onboard_time": 1713051255,
+      "rank": 37,
       "category": "国外时政"
     },
     {
@@ -523,20 +587,20 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 86678,
-      "num": 72297,
+      "raw_hot": 87490,
+      "num": 87490,
       "word": "焉栩嘉荧幕初吻",
       "onboard_time": 1713033012,
       "rank": 21,
       "category": "综艺"
     },
     {
-      "raw_hot": 83561,
-      "num": 67173,
-      "word": "耶路撒冷响起巨大爆炸声",
-      "onboard_time": 1713049994,
-      "rank": 35,
-      "category": "国外时政"
+      "raw_hot": 87071,
+      "num": 87071,
+      "word": "北京半程马拉松",
+      "onboard_time": 1713050833,
+      "rank": 40,
+      "category": "运动健身"
     },
     {
       "raw_hot": 77410,
@@ -545,6 +609,30 @@
       "onboard_time": 1713030973,
       "rank": 30,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 77308,
+      "num": 77308,
+      "word": "多国宣布关闭领空",
+      "onboard_time": 1713051375,
+      "rank": 46,
+      "category": "国外时政"
+    },
+    {
+      "raw_hot": 72225,
+      "num": 72225,
+      "word": "伯恩茅斯2比2曼联",
+      "onboard_time": 1713051134,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 72062,
+      "num": 72062,
+      "word": "比特币",
+      "onboard_time": 1713051314,
+      "rank": 49,
+      "category": "财经"
     },
     {
       "raw_hot": 66771,
@@ -603,6 +691,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 44942,
+      "num": 528889,
+      "word": "春日限定励志文案",
+      "onboard_time": 1713012798,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 43333,
       "num": 33495,
       "word": "金秀贤金智媛更新ins",
@@ -617,14 +713,6 @@
       "onboard_time": 1713032712,
       "rank": 46,
       "category": "演出"
-    },
-    {
-      "raw_hot": 38961,
-      "num": 404608,
-      "word": "春日限定励志文案",
-      "onboard_time": 1713012798,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 36753,

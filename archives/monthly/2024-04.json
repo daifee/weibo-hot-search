@@ -1,6 +1,6 @@
 {
   "startTime": 1711902044401,
-  "endTime": 1713050343567,
+  "endTime": 1713051402447,
   "band_list": [
     {
       "raw_hot": 16874674,
@@ -305,6 +305,14 @@
       "onboard_time": 1712879238,
       "rank": 0,
       "category": "电影,动漫"
+    },
+    {
+      "raw_hot": 2256013,
+      "num": 2256013,
+      "word": "伊朗对以色列展开打击行动",
+      "onboard_time": 1713049513,
+      "rank": 0,
+      "category": "国外时政"
     },
     {
       "raw_hot": 2243412,
@@ -1017,14 +1025,6 @@
       "onboard_time": 1712039779,
       "rank": 1,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1596971,
-      "num": 1596971,
-      "word": "伊朗对以色列展开打击行动",
-      "onboard_time": 1713049513,
-      "rank": 0,
-      "category": "国外时政"
     },
     {
       "raw_hot": 1594363,
@@ -4547,6 +4547,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 768368,
+      "num": 768368,
+      "word": "伊朗对美国发出警告",
+      "onboard_time": 1713011357,
+      "rank": 15,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 768022,
       "num": 768022,
       "word": "官方称华晨宇烟台演唱会未违规用地",
@@ -4825,14 +4833,6 @@
       "onboard_time": 1712479399,
       "rank": 14,
       "category": "情感"
-    },
-    {
-      "raw_hot": 739715,
-      "num": 739715,
-      "word": "伊朗对美国发出警告",
-      "onboard_time": 1713011357,
-      "rank": 15,
-      "category": "国外时政"
     },
     {
       "raw_hot": 738897,
@@ -8396,7 +8396,7 @@
     },
     {
       "raw_hot": 509924,
-      "num": 72108,
+      "num": 93105,
       "word": "伊朗向以色列发射数十架无人机",
       "onboard_time": 1713049813,
       "rank": 30,
@@ -8836,7 +8836,7 @@
     },
     {
       "raw_hot": 491253,
-      "num": 70649,
+      "num": 239819,
       "word": "伊朗向以色列目标发射弹道导弹",
       "onboard_time": 1713050054,
       "rank": 31,
@@ -10139,6 +10139,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 441092,
+      "num": 441092,
+      "word": "长沙暴雨",
+      "onboard_time": 1713050232,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 440542,
       "num": 440542,
       "word": "刚入职发现同事全要离职",
@@ -11123,6 +11131,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 404942,
+      "num": 229110,
+      "word": "美英拦截伊朗无人机",
+      "onboard_time": 1713050474,
+      "rank": 11,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 404120,
       "num": 404120,
       "word": "李沁西装裙",
@@ -11537,6 +11553,14 @@
       "onboard_time": 1712628378,
       "rank": 22,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 386988,
+      "num": 217160,
+      "word": "伊朗驻联合国代表团发表声明",
+      "onboard_time": 1713050474,
+      "rank": 12,
+      "category": "国外时政"
     },
     {
       "raw_hot": 386597,
@@ -16059,6 +16083,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 273093,
+      "num": 273093,
+      "word": "王祖蓝在香港被放假的广西人包围了",
+      "onboard_time": 1713036671,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 272979,
       "num": 272979,
       "word": "眉毛真的和寿命有关吗",
@@ -16441,6 +16473,14 @@
       "onboard_time": 1712113642,
       "rank": 34,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 264359,
+      "num": 205624,
+      "word": "耶路撒冷响起巨大爆炸声",
+      "onboard_time": 1713049994,
+      "rank": 35,
+      "category": "国外时政"
     },
     {
       "raw_hot": 264287,
@@ -17609,6 +17649,14 @@
       "onboard_time": 1712045000,
       "rank": 30,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 248511,
+      "num": 248511,
+      "word": "以军发言人称以色列处于高度戒备状",
+      "onboard_time": 1713049813,
+      "rank": 11,
+      "category": "国外时政"
     },
     {
       "raw_hot": 248498,
@@ -20291,14 +20339,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 214502,
-      "num": 214502,
-      "word": "王祖蓝在香港被放假的广西人包围了",
-      "onboard_time": 1713036671,
-      "rank": 42,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 214409,
       "num": 199841,
       "word": "我打扮自己的时候",
@@ -22299,6 +22339,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 199924,
+      "num": 92987,
+      "word": "孙怡玫瑰连衣裙",
+      "onboard_time": 1713034031,
+      "rank": 30,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 199913,
       "num": 199913,
       "word": "贵州省考成绩",
@@ -22697,6 +22745,14 @@
       "onboard_time": 1711949781,
       "rank": 34,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 197357,
+      "num": 197357,
+      "word": "纪凌尘看宁静的眼神",
+      "onboard_time": 1713042311,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 197335,
@@ -24217,14 +24273,6 @@
       "onboard_time": 1712747598,
       "rank": 30,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 188892,
-      "num": 188892,
-      "word": "以军发言人称以色列处于高度戒备状",
-      "onboard_time": 1713049813,
-      "rank": 11,
-      "category": "国外时政"
     },
     {
       "raw_hot": 188758,
@@ -26131,6 +26179,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 175344,
+      "num": 245021,
+      "word": "男童30万耳蜗丢失全城合力找回",
+      "onboard_time": 1713041710,
+      "rank": 44,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 175298,
       "num": 227262,
       "word": "24年进体制的19次机会",
@@ -27379,14 +27435,6 @@
       "category": "科学科普"
     },
     {
-      "raw_hot": 165180,
-      "num": 165180,
-      "word": "纪凌尘看宁静的眼神",
-      "onboard_time": 1713042311,
-      "rank": 43,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 165002,
       "num": 506825,
       "word": "小孩哥情绪稳定的像拖拉机老司机",
@@ -27460,7 +27508,7 @@
     },
     {
       "raw_hot": 164619,
-      "num": 69926,
+      "num": 92404,
       "word": "白宫证实伊朗对以色列发动空袭",
       "onboard_time": 1713049694,
       "rank": 32,
@@ -28459,14 +28507,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 158272,
-      "num": 158272,
-      "word": "长沙暴雨",
-      "onboard_time": 1713050232,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 158161,
       "num": 480530,
       "word": "下一个世界级产品或诞生在中国",
@@ -28803,14 +28843,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 155629,
-      "num": 68896,
-      "word": "孙怡玫瑰连衣裙",
-      "onboard_time": 1713034031,
-      "rank": 30,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 155565,
       "num": 155565,
       "word": "王铮亮 0713领头羊",
@@ -28865,6 +28897,14 @@
       "onboard_time": 1712582300,
       "rank": 28,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 155157,
+      "num": 92925,
+      "word": "张杰再唱雪龙吟",
+      "onboard_time": 1713050955,
+      "rank": 32,
+      "category": "演出"
     },
     {
       "raw_hot": 155087,
@@ -29753,6 +29793,14 @@
       "onboard_time": 1712578039,
       "rank": 40,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 149513,
+      "num": 92742,
+      "word": "以称已拦截超100架伊朗无人机",
+      "onboard_time": 1713050474,
+      "rank": 33,
+      "category": "国外时政"
     },
     {
       "raw_hot": 149431,
@@ -30857,6 +30905,14 @@
       "onboard_time": 1712020220,
       "rank": 47,
       "category": "财经"
+    },
+    {
+      "raw_hot": 142278,
+      "num": 142278,
+      "word": "麦承欢终于哭出声了",
+      "onboard_time": 1713047414,
+      "rank": 46,
+      "category": "剧集"
     },
     {
       "raw_hot": 142208,
@@ -34483,14 +34539,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 108004,
-      "num": 190038,
-      "word": "男童30万耳蜗丢失全城合力找回",
-      "onboard_time": 1713041710,
-      "rank": 44,
-      "category": "社会正能量"
-    },
-    {
       "raw_hot": 107947,
       "num": 1207409,
       "word": "如何将旧金山愿景转为实景",
@@ -34721,6 +34769,14 @@
       "onboard_time": 1712739557,
       "rank": 49,
       "category": "教育"
+    },
+    {
+      "raw_hot": 103108,
+      "num": 91399,
+      "word": "以色列通知多地居民留在防空洞附近",
+      "onboard_time": 1713050054,
+      "rank": 34,
+      "category": "国外时政"
     },
     {
       "raw_hot": 103047,
@@ -34979,14 +35035,6 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 98950,
-      "num": 98950,
-      "word": "麦承欢终于哭出声了",
-      "onboard_time": 1713047414,
-      "rank": 46,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 98767,
       "num": 98767,
       "word": "5个延缓衰老技巧",
@@ -35073,14 +35121,6 @@
       "onboard_time": 1711989138,
       "rank": 33,
       "category": "电影"
-    },
-    {
-      "raw_hot": 97451,
-      "num": 68598,
-      "word": "以色列通知多地居民留在防空洞附近",
-      "onboard_time": 1713050054,
-      "rank": 34,
-      "category": "国外时政"
     },
     {
       "raw_hot": 97201,
@@ -35177,6 +35217,14 @@
       "onboard_time": 1712389757,
       "rank": 45,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 95745,
+      "num": 90967,
+      "word": "也门胡塞武装参与对以空袭行动",
+      "onboard_time": 1713051255,
+      "rank": 37,
+      "category": "国外时政"
     },
     {
       "raw_hot": 95088,
@@ -35443,12 +35491,28 @@
       "category": "数码"
     },
     {
+      "raw_hot": 87490,
+      "num": 87490,
+      "word": "焉栩嘉荧幕初吻",
+      "onboard_time": 1713033012,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 87086,
       "num": 87086,
       "word": "逆水寒手游",
       "onboard_time": 1712680036,
       "rank": 42,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 87071,
+      "num": 87071,
+      "word": "北京半程马拉松",
+      "onboard_time": 1713050833,
+      "rank": 40,
+      "category": "运动健身"
     },
     {
       "raw_hot": 86882,
@@ -35465,14 +35529,6 @@
       "onboard_time": 1712310679,
       "rank": 8,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 86678,
-      "num": 72297,
-      "word": "焉栩嘉荧幕初吻",
-      "onboard_time": 1713033012,
-      "rank": 21,
-      "category": "综艺"
     },
     {
       "raw_hot": 86602,
@@ -35561,14 +35617,6 @@
       "onboard_time": 1712100376,
       "rank": 35,
       "category": "体育"
-    },
-    {
-      "raw_hot": 83561,
-      "num": 67173,
-      "word": "耶路撒冷响起巨大爆炸声",
-      "onboard_time": 1713049994,
-      "rank": 35,
-      "category": "国外时政"
     },
     {
       "raw_hot": 83441,
@@ -35745,6 +35793,14 @@
       "onboard_time": 1712404458,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 77308,
+      "num": 77308,
+      "word": "多国宣布关闭领空",
+      "onboard_time": 1713051375,
+      "rank": 46,
+      "category": "国外时政"
     },
     {
       "raw_hot": 77256,
@@ -35947,12 +36003,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 72225,
+      "num": 72225,
+      "word": "伯恩茅斯2比2曼联",
+      "onboard_time": 1713051134,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 72137,
       "num": 72137,
       "word": "许红豆喝上了马爷的金箔奶茶",
       "onboard_time": 1712681954,
       "rank": 31,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 72062,
+      "num": 72062,
+      "word": "比特币",
+      "onboard_time": 1713051314,
+      "rank": 49,
+      "category": "财经"
     },
     {
       "raw_hot": 71918,
