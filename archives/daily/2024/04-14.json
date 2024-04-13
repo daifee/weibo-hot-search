@@ -1,6 +1,6 @@
 {
   "startTime": 1713025251708,
-  "endTime": 1713026044014,
+  "endTime": 1713028331258,
   "band_list": [
     {
       "raw_hot": 1120400,
@@ -139,6 +139,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 318034,
+      "num": 318034,
+      "word": "没想到这种国粹在韩综里出现了",
+      "onboard_time": 1713023658,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 317702,
       "num": 317702,
       "word": "一诺公孙离",
@@ -155,20 +163,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 268667,
-      "num": 268667,
+      "raw_hot": 271646,
+      "num": 271646,
       "word": "王心凌回应隔壁林俊杰送歌",
       "onboard_time": 1713021679,
       "rank": 21,
       "category": "演出"
-    },
-    {
-      "raw_hot": 251637,
-      "num": 223957,
-      "word": "没想到这种国粹在韩综里出现了",
-      "onboard_time": 1713023658,
-      "rank": 26,
-      "category": "综艺"
     },
     {
       "raw_hot": 227166,
@@ -363,6 +363,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 120372,
+      "num": 120372,
+      "word": "郑雅譞跳T5 Move",
+      "onboard_time": 1713027076,
+      "rank": 31,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 118310,
       "num": 118310,
       "word": "久哲 血脉压制",
@@ -385,6 +393,14 @@
       "onboard_time": 1713001817,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 101742,
+      "num": 75756,
+      "word": "苏打绿演唱会 盗摄",
+      "onboard_time": 1713011957,
+      "rank": 40,
+      "category": "演出"
     },
     {
       "raw_hot": 95660,
@@ -411,6 +427,22 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 59971,
+      "num": 65754,
+      "word": "你知道下乡给老人拍照有多赚吗",
+      "onboard_time": 1713015137,
+      "rank": 48,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 58710,
+      "num": 65555,
+      "word": "AG 现场复盘",
+      "onboard_time": 1713014658,
+      "rank": 49,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 49570,
       "num": 675668,
       "word": "炮制秦朗丢作业丢掉了什么",
@@ -422,6 +454,9 @@
   "hotgov_list": [
     {
       "word": "#把握两岸关系大局#"
+    },
+    {
+      "word": "#相知无远近万里尚为邻#"
     }
   ]
 }

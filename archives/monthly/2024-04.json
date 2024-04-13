@@ -1,6 +1,6 @@
 {
   "startTime": 1711902044401,
-  "endTime": 1713026044014,
+  "endTime": 1713028331258,
   "band_list": [
     {
       "raw_hot": 16874674,
@@ -13851,6 +13851,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 318034,
+      "num": 318034,
+      "word": "没想到这种国粹在韩综里出现了",
+      "onboard_time": 1713023658,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 318025,
       "num": 318025,
       "word": "玲娜贝尔 看上去是要去干架的",
@@ -16083,6 +16091,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 271646,
+      "num": 271646,
+      "word": "王心凌回应隔壁林俊杰送歌",
+      "onboard_time": 1713021679,
+      "rank": 23,
+      "category": "演出"
+    },
+    {
       "raw_hot": 271525,
       "num": 271525,
       "word": "体态瘦腰",
@@ -16249,14 +16265,6 @@
       "onboard_time": 1712316739,
       "rank": 33,
       "category": "情感"
-    },
-    {
-      "raw_hot": 268667,
-      "num": 268667,
-      "word": "王心凌回应隔壁林俊杰送歌",
-      "onboard_time": 1713021679,
-      "rank": 23,
-      "category": "演出"
     },
     {
       "raw_hot": 268649,
@@ -17304,14 +17312,6 @@
       "word": "双北",
       "onboard_time": 1713009437,
       "rank": 25,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 251637,
-      "num": 223957,
-      "word": "没想到这种国粹在韩综里出现了",
-      "onboard_time": 1713023658,
-      "rank": 26,
       "category": "综艺"
     },
     {
@@ -33465,6 +33465,14 @@
       "onboard_time": 1712935220,
       "rank": 44,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 120372,
+      "num": 120372,
+      "word": "郑雅譞跳T5 Move",
+      "onboard_time": 1713027076,
+      "rank": 31,
+      "category": "音乐"
     },
     {
       "raw_hot": 120342,
