@@ -1,6 +1,6 @@
 {
   "startTime": 1712420539476,
-  "endTime": 1712981949540,
+  "endTime": 1712982850081,
   "band_list": [
     {
       "raw_hot": 9583581,
@@ -411,6 +411,14 @@
       "category": "自然"
     },
     {
+      "raw_hot": 1643113,
+      "num": 1643113,
+      "word": "去医院检查千万别穿成这样",
+      "onboard_time": 1712979197,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1634789,
       "num": 1634789,
       "word": "小米定金事件暴露了成年人的耍赖心态",
@@ -633,14 +641,6 @@
       "onboard_time": 1712570538,
       "rank": 11,
       "category": "演出"
-    },
-    {
-      "raw_hot": 1398054,
-      "num": 1398054,
-      "word": "去医院检查千万别穿成这样",
-      "onboard_time": 1712979197,
-      "rank": 29,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1390826,
@@ -3611,6 +3611,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 557713,
+      "num": 557713,
+      "word": "炮制秦朗丢作业丢掉了什么",
+      "onboard_time": 1712981417,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 557125,
       "num": 557125,
       "word": "王者荣耀个性小兵",
@@ -5651,6 +5659,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 383688,
+      "num": 383688,
+      "word": "是的 我和英专离婚了",
+      "onboard_time": 1712980338,
+      "rank": 17,
+      "category": "教育"
+    },
+    {
       "raw_hot": 382279,
       "num": 382279,
       "word": "田曦薇露腰皮衣",
@@ -7187,6 +7203,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 303372,
+      "num": 303372,
+      "word": "晚宴上的赵露思",
+      "onboard_time": 1712981057,
+      "rank": 27,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 302655,
       "num": 302655,
       "word": "辛家亮爸爸婚外情暴露",
@@ -8579,6 +8603,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 252795,
+      "num": 252795,
+      "word": "首饰金价一夜大降10元每克",
+      "onboard_time": 1712982377,
+      "rank": 15,
+      "category": "财经"
+    },
+    {
       "raw_hot": 252751,
       "num": 194961,
       "word": "刘耀文感谢时代峰峻",
@@ -8881,14 +8913,6 @@
       "onboard_time": 1712926819,
       "rank": 24,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 245506,
-      "num": 245506,
-      "word": "是的 我和英专离婚了",
-      "onboard_time": 1712980338,
-      "rank": 17,
-      "category": "教育"
     },
     {
       "raw_hot": 245495,
@@ -9307,6 +9331,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 234491,
+      "num": 234491,
+      "word": "多国建议本国公民勿前往以色列伊朗等国",
+      "onboard_time": 1712978237,
+      "rank": 31,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 234485,
       "num": 234485,
       "word": "1个动作改善黑眼圈",
@@ -9481,14 +9513,6 @@
       "onboard_time": 1712905818,
       "rank": 25,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 230534,
-      "num": 230534,
-      "word": "多国建议本国公民勿前往以色列伊朗等国",
-      "onboard_time": 1712978237,
-      "rank": 31,
-      "category": "国外时政"
     },
     {
       "raw_hot": 230246,
@@ -10281,14 +10305,6 @@
       "onboard_time": 1712618475,
       "rank": 16,
       "category": "体育"
-    },
-    {
-      "raw_hot": 210466,
-      "num": 210466,
-      "word": "晚宴上的赵露思",
-      "onboard_time": 1712981057,
-      "rank": 27,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 210407,
@@ -11427,12 +11443,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 198914,
-      "num": 198914,
-      "word": "炮制秦朗丢作业丢掉了什么",
-      "onboard_time": 1712981417,
-      "rank": 29,
-      "category": "社会新闻"
+      "raw_hot": 198863,
+      "num": 198863,
+      "word": "何冰娇奥运积分",
+      "onboard_time": 1712981837,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 198804,
@@ -12971,6 +12987,14 @@
       "category": "动漫,作品衍生"
     },
     {
+      "raw_hot": 179706,
+      "num": 179706,
+      "word": "黄子韬云南",
+      "onboard_time": 1712964796,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 179032,
       "num": 179032,
       "word": "赵丽颖工作室发文告别沈璃",
@@ -13073,14 +13097,6 @@
       "onboard_time": 1712502860,
       "rank": 39,
       "category": "体育"
-    },
-    {
-      "raw_hot": 177093,
-      "num": 177093,
-      "word": "黄子韬云南",
-      "onboard_time": 1712964796,
-      "rank": 43,
-      "category": "综艺"
     },
     {
       "raw_hot": 176939,
@@ -13235,6 +13251,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 175535,
+      "num": 175535,
+      "word": "黄金白银再次跳水",
+      "onboard_time": 1712979257,
+      "rank": 33,
+      "category": "财经"
+    },
+    {
       "raw_hot": 175298,
       "num": 227262,
       "word": "24年进体制的19次机会",
@@ -13377,14 +13401,6 @@
       "onboard_time": 1712758880,
       "rank": 44,
       "category": "情感"
-    },
-    {
-      "raw_hot": 173357,
-      "num": 173357,
-      "word": "黄金白银再次跳水",
-      "onboard_time": 1712979257,
-      "rank": 33,
-      "category": "财经"
     },
     {
       "raw_hot": 173216,
@@ -13569,6 +13585,14 @@
       "onboard_time": 1712496620,
       "rank": 45,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 170803,
+      "num": 170803,
+      "word": "英专生 五世同堂",
+      "onboard_time": 1712981537,
+      "rank": 35,
+      "category": "教育"
     },
     {
       "raw_hot": 170639,
@@ -14003,6 +14027,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 163673,
+      "num": 163673,
+      "word": "导师打了14个电话叫我起床",
+      "onboard_time": 1712982618,
+      "rank": 37,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 163648,
       "num": 163648,
       "word": "听完电视的价格把阿姨吓跑了",
@@ -14121,14 +14153,6 @@
       "onboard_time": 1712498239,
       "rank": 46,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 161733,
-      "num": 161733,
-      "word": "英专生 五世同堂",
-      "onboard_time": 1712981537,
-      "rank": 35,
-      "category": "教育"
     },
     {
       "raw_hot": 161695,
@@ -14625,6 +14649,14 @@
       "onboard_time": 1712556918,
       "rank": 45,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 154233,
+      "num": 154233,
+      "word": "薛之谦11站大麦想看破百万",
+      "onboard_time": 1712982317,
+      "rank": 39,
+      "category": "演出"
     },
     {
       "raw_hot": 154168,
@@ -15835,6 +15867,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 138275,
+      "num": 138275,
+      "word": "种地吧兄弟vs兄妹vs姐弟",
+      "onboard_time": 1712982498,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 138257,
       "num": 138257,
       "word": "同龄人现状",
@@ -16547,6 +16587,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 127826,
+      "num": 127826,
+      "word": "看承欢记给妈妈选衣服有方向了",
+      "onboard_time": 1712982677,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 127503,
       "num": 127503,
       "word": "今年唯一一次日全食即将上演",
@@ -17001,14 +17049,6 @@
       "onboard_time": 1712904377,
       "rank": 45,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 121153,
-      "num": 121153,
-      "word": "何冰娇奥运积分",
-      "onboard_time": 1712981837,
-      "rank": 45,
-      "category": "体育"
     },
     {
       "raw_hot": 121095,
@@ -18721,6 +18761,14 @@
       "onboard_time": 1712617694,
       "rank": 48,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 42307,
+      "num": 209351,
+      "word": "蛋仔dongdong全民票选",
+      "onboard_time": 1712982018,
+      "rank": 23,
+      "category": "游戏"
     },
     {
       "raw_hot": 41920,
