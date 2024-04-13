@@ -1,0 +1,410 @@
+{
+  "runTime": 1712981949540,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1498762,
+        "num": 1498762,
+        "word": "马嘉祺有个双胞胎哥哥",
+        "onboard_time": 1712978057,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1494446,
+        "num": 1494446,
+        "word": "向佐一提郭碧婷就哭",
+        "onboard_time": 1712980457,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 212386,
+        "num": 1445997,
+        "word": "不愧是最美的人间四月天",
+        "onboard_time": 1712977216,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1398054,
+        "num": 1398054,
+        "word": "去医院检查千万别穿成这样",
+        "onboard_time": 1712979197,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1113948,
+        "num": 1113948,
+        "word": "专八",
+        "onboard_time": 1712978416,
+        "rank": 4,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 616543,
+        "num": 616543,
+        "word": "女生义乌10元买项链多年后未变色",
+        "onboard_time": 1712971877,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 441861,
+        "num": 441861,
+        "word": "散是满天星 合是神金病",
+        "onboard_time": 1712978057,
+        "rank": 6,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 349123,
+        "num": 349123,
+        "word": "郭敬明开新店人均消费1500元",
+        "onboard_time": 1712969957,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 328168,
+        "num": 328168,
+        "word": "张颂文已把应援花插到花瓶",
+        "onboard_time": 1712973976,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 293573,
+        "num": 293573,
+        "word": "BLG辅助On被喷",
+        "onboard_time": 1712977817,
+        "rank": 9,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 947788,
+        "num": 289657,
+        "word": "伊以冲突",
+        "onboard_time": 1712970677,
+        "rank": 10,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 297444,
+        "num": 287488,
+        "word": "实力派女演员",
+        "onboard_time": 1712976496,
+        "rank": 11,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 282794,
+        "num": 282794,
+        "word": "郎平受过世父亲影响坚持测血糖",
+        "onboard_time": 1712975956,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 277201,
+        "num": 277201,
+        "word": "宝宝长宝宝短宝宝有事我不管",
+        "onboard_time": 1712976496,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 257642,
+        "num": 257642,
+        "word": "柯基 我的孩子腿必须短",
+        "onboard_time": 1712975956,
+        "rank": 14,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 255726,
+        "num": 255726,
+        "word": "与凤行成绩",
+        "onboard_time": 1712979556,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 251785,
+        "num": 251785,
+        "word": "爸爸安慰30岁失业女儿不要想太多",
+        "onboard_time": 1712967976,
+        "rank": 16,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 245506,
+        "num": 245506,
+        "word": "是的 我和英专离婚了",
+        "onboard_time": 1712980338,
+        "rank": 17,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 239668,
+        "num": 239668,
+        "word": "BLG管理层",
+        "onboard_time": 1712977577,
+        "rank": 18,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 230534,
+        "num": 230534,
+        "word": "多国建议本国公民勿前往以色列伊朗等国",
+        "onboard_time": 1712978237,
+        "rank": 19,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 655630,
+        "num": 228905,
+        "word": "杨立新遇害前承认婚内出轨怀孕",
+        "onboard_time": 1712969117,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 474480,
+        "num": 228141,
+        "word": "黄子韬徐艺洋吃同一块饼",
+        "onboard_time": 1712973496,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 303936,
+        "num": 224794,
+        "word": "研究生应该收父母给的生活费吗",
+        "onboard_time": 1712978536,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 243584,
+        "num": 222815,
+        "word": "为什么研究生搞不定中学的比赛",
+        "onboard_time": 1712977336,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 221157,
+        "num": 221157,
+        "word": "专八答案",
+        "onboard_time": 1712978599,
+        "rank": 24,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 219590,
+        "num": 219590,
+        "word": "入睡太快正不正常",
+        "onboard_time": 1712975656,
+        "rank": 25,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 218633,
+        "num": 218633,
+        "word": "戚薇好薄一片",
+        "onboard_time": 1712976557,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 210466,
+        "num": 210466,
+        "word": "晚宴上的赵露思",
+        "onboard_time": 1712981057,
+        "rank": 27,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 203246,
+        "num": 203246,
+        "word": "王俊凯单手抱猫",
+        "onboard_time": 1712980818,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 198914,
+        "num": 198914,
+        "word": "炮制秦朗丢作业丢掉了什么",
+        "onboard_time": 1712981417,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 194567,
+        "num": 194567,
+        "word": "谷江山女团舞",
+        "onboard_time": 1712980818,
+        "rank": 30,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 189899,
+        "num": 189899,
+        "word": "全嘻嘻 北大毕业15年的两种结局",
+        "onboard_time": 1712966898,
+        "rank": 31,
+        "category": "情感,网红"
+      },
+      {
+        "raw_hot": 177093,
+        "num": 177093,
+        "word": "黄子韬云南",
+        "onboard_time": 1712964796,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 173357,
+        "num": 173357,
+        "word": "黄金白银再次跳水",
+        "onboard_time": 1712979257,
+        "rank": 33,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 163445,
+        "num": 163445,
+        "word": "拜登警告伊朗不要攻击以色列",
+        "onboard_time": 1712964976,
+        "rank": 34,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 161733,
+        "num": 161733,
+        "word": "英专生 五世同堂",
+        "onboard_time": 1712981537,
+        "rank": 35,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 159459,
+        "num": 159459,
+        "word": "赵丽颖工作室发文告别沈璃",
+        "onboard_time": 1712977757,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 157335,
+        "num": 157335,
+        "word": "猫一杯",
+        "onboard_time": 1712964194,
+        "rank": 37,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 153089,
+        "num": 153089,
+        "word": "专八阅读 被狗追",
+        "onboard_time": 1712979916,
+        "rank": 38,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 142014,
+        "num": 142014,
+        "word": "拜登称美国将帮以色列防御伊朗",
+        "onboard_time": 1712969898,
+        "rank": 39,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 137605,
+        "num": 137605,
+        "word": "宋轶何超莲朝鲜服氛围感",
+        "onboard_time": 1712976018,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 134991,
+        "num": 134991,
+        "word": "专八改错",
+        "onboard_time": 1712981417,
+        "rank": 41,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 127694,
+        "num": 127694,
+        "word": "黄子韬徐艺洋被说像兄妹",
+        "onboard_time": 1712932579,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 122331,
+        "num": 122331,
+        "word": "杨迪埋怨吴奇隆丁程鑫",
+        "onboard_time": 1712977276,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 122204,
+        "num": 122204,
+        "word": "当知道02实习生妈妈是80后",
+        "onboard_time": 1712981298,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 121153,
+        "num": 121153,
+        "word": "何冰娇奥运积分",
+        "onboard_time": 1712981837,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 117450,
+        "num": 117450,
+        "word": "乐言爆被柳智敏粉丝贷款",
+        "onboard_time": 1712963835,
+        "rank": 46,
+        "category": "电竞,艺人"
+      },
+      {
+        "raw_hot": 115897,
+        "num": 115897,
+        "word": "姚志明追妻火葬场倒计时",
+        "onboard_time": 1712981657,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 114820,
+        "num": 114820,
+        "word": "越运动越胖其实是身体在补偿你",
+        "onboard_time": 1712973078,
+        "rank": 48,
+        "category": "运动健身,科学科普"
+      },
+      {
+        "raw_hot": 112341,
+        "num": 112341,
+        "word": "马丽获奖感言",
+        "onboard_time": 1712965576,
+        "rank": 49,
+        "category": "电影"
+      }
+    ],
+    "hotgov": {
+      "word": "#为人类和平利用太空贡献更多中国智慧#"
+    }
+  }
+}

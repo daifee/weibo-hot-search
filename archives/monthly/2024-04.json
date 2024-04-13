@@ -1,6 +1,6 @@
 {
   "startTime": 1711902044401,
-  "endTime": 1712979249344,
+  "endTime": 1712981949540,
   "band_list": [
     {
       "raw_hot": 16874674,
@@ -1195,12 +1195,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1498762,
+      "num": 1498762,
+      "word": "马嘉祺有个双胞胎哥哥",
+      "onboard_time": 1712978057,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1497090,
       "num": 1497090,
       "word": "青山刚昌癫了",
       "onboard_time": 1712892138,
       "rank": 5,
       "category": "电影,动漫"
+    },
+    {
+      "raw_hot": 1494446,
+      "num": 1494446,
+      "word": "向佐一提郭碧婷就哭",
+      "onboard_time": 1712980457,
+      "rank": 1,
+      "category": "综艺"
     },
     {
       "raw_hot": 1490286,
@@ -1369,6 +1385,14 @@
       "onboard_time": 1712570538,
       "rank": 11,
       "category": "演出"
+    },
+    {
+      "raw_hot": 1398054,
+      "num": 1398054,
+      "word": "去医院检查千万别穿成这样",
+      "onboard_time": 1712979197,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1390826,
@@ -2227,6 +2251,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1113948,
+      "num": 1113948,
+      "word": "专八",
+      "onboard_time": 1712978416,
+      "rank": 1,
+      "category": "教育"
+    },
+    {
       "raw_hot": 1111228,
       "num": 1111228,
       "word": "青海地震",
@@ -2563,14 +2595,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1034958,
-      "num": 1034958,
-      "word": "专八",
-      "onboard_time": 1712978416,
-      "rank": 1,
-      "category": "教育"
-    },
-    {
       "raw_hot": 1033457,
       "num": 1033457,
       "word": "代号鸢 跑路",
@@ -2681,14 +2705,6 @@
       "onboard_time": 1712708420,
       "rank": 6,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1024667,
-      "num": 1024667,
-      "word": "马嘉祺有个双胞胎哥哥",
-      "onboard_time": 1712978057,
-      "rank": 44,
-      "category": "综艺"
     },
     {
       "raw_hot": 1023620,
@@ -9555,6 +9571,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 441861,
+      "num": 441861,
+      "word": "散是满天星 合是神金病",
+      "onboard_time": 1712978057,
+      "rank": 47,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 441372,
       "num": 441372,
       "word": "江西省考成绩",
@@ -11931,14 +11955,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 351973,
-      "num": 351973,
-      "word": "散是满天星 合是神金病",
-      "onboard_time": 1712978057,
-      "rank": 47,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 351903,
       "num": 334480,
       "word": "华为口红耳机2",
@@ -13795,6 +13811,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 303936,
+      "num": 224794,
+      "word": "研究生应该收父母给的生活费吗",
+      "onboard_time": 1712978536,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 303525,
       "num": 303525,
       "word": "NIP和JDG决胜局",
@@ -14227,6 +14251,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 293573,
+      "num": 293573,
+      "word": "BLG辅助On被喷",
+      "onboard_time": 1712977817,
+      "rank": 31,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 293343,
       "num": 293343,
       "word": "韩素希重启活动",
@@ -14609,14 +14641,6 @@
       "onboard_time": 1712116103,
       "rank": 30,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 285693,
-      "num": 285693,
-      "word": "BLG辅助On被喷",
-      "onboard_time": 1712977817,
-      "rank": 31,
-      "category": "电竞"
     },
     {
       "raw_hot": 285582,
@@ -16203,6 +16227,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 255726,
+      "num": 255726,
+      "word": "与凤行成绩",
+      "onboard_time": 1712979556,
+      "rank": 15,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 255200,
       "num": 255200,
       "word": "无法想象宫崎骏有多自律",
@@ -16881,6 +16913,14 @@
       "onboard_time": 1712926819,
       "rank": 24,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 245506,
+      "num": 245506,
+      "word": "是的 我和英专离婚了",
+      "onboard_time": 1712980338,
+      "rank": 17,
+      "category": "教育"
     },
     {
       "raw_hot": 245495,
@@ -17987,6 +18027,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 230534,
+      "num": 230534,
+      "word": "多国建议本国公民勿前往以色列伊朗等国",
+      "onboard_time": 1712978237,
+      "rank": 31,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 230246,
       "num": 230246,
       "word": "浪姐二公路透",
@@ -18835,14 +18883,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 219453,
-      "num": 219453,
-      "word": "研究生应该收父母给的生活费吗",
-      "onboard_time": 1712978536,
-      "rank": 30,
-      "category": "情感"
-    },
-    {
       "raw_hot": 219356,
       "num": 219356,
       "word": "金星啥时候离的婚",
@@ -19100,7 +19140,7 @@
     },
     {
       "raw_hot": 216853,
-      "num": 1029361,
+      "num": 1445997,
       "word": "不愧是最美的人间四月天",
       "onboard_time": 1712977216,
       "rank": 2,
@@ -19289,14 +19329,6 @@
       "onboard_time": 1712498600,
       "rank": 33,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 214357,
-      "num": 214357,
-      "word": "多国建议本国公民勿前往以色列伊朗等国",
-      "onboard_time": 1712978237,
-      "rank": 31,
-      "category": "国外时政"
     },
     {
       "raw_hot": 214339,
@@ -19633,6 +19665,14 @@
       "onboard_time": 1712618475,
       "rank": 16,
       "category": "体育"
+    },
+    {
+      "raw_hot": 210466,
+      "num": 210466,
+      "word": "晚宴上的赵露思",
+      "onboard_time": 1712981057,
+      "rank": 27,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 210449,
@@ -20643,6 +20683,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 203246,
+      "num": 203246,
+      "word": "王俊凯单手抱猫",
+      "onboard_time": 1712980818,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 203223,
       "num": 203223,
       "word": "心疼凤来",
@@ -21323,6 +21371,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 198914,
+      "num": 198914,
+      "word": "炮制秦朗丢作业丢掉了什么",
+      "onboard_time": 1712981417,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 198804,
       "num": 198804,
       "word": "无意中发现了世界的一个bug",
@@ -21937,6 +21993,14 @@
       "onboard_time": 1711967480,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 194567,
+      "num": 194567,
+      "word": "谷江山女团舞",
+      "onboard_time": 1712980818,
+      "rank": 30,
+      "category": "动漫"
     },
     {
       "raw_hot": 194532,
@@ -24467,6 +24531,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 177093,
+      "num": 177093,
+      "word": "黄子韬云南",
+      "onboard_time": 1712964796,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 177003,
       "num": 177003,
       "word": "赵丽颖现身川美",
@@ -24987,6 +25059,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 173357,
+      "num": 173357,
+      "word": "黄金白银再次跳水",
+      "onboard_time": 1712979257,
+      "rank": 33,
+      "category": "财经"
+    },
+    {
       "raw_hot": 173216,
       "num": 169250,
       "word": "金娘子都被吓成乌兰图雅了",
@@ -25153,14 +25233,6 @@
       "onboard_time": 1712364137,
       "rank": 27,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 171903,
-      "num": 165145,
-      "word": "黄子韬云南",
-      "onboard_time": 1712964796,
-      "rank": 43,
-      "category": "综艺"
     },
     {
       "raw_hot": 171861,
@@ -26337,6 +26409,14 @@
       "onboard_time": 1712128762,
       "rank": 41,
       "category": "情感"
+    },
+    {
+      "raw_hot": 161733,
+      "num": 161733,
+      "word": "英专生 五世同堂",
+      "onboard_time": 1712981537,
+      "rank": 35,
+      "category": "教育"
     },
     {
       "raw_hot": 161695,
@@ -27529,6 +27609,14 @@
       "onboard_time": 1712586561,
       "rank": 45,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 153089,
+      "num": 153089,
+      "word": "专八阅读 被狗追",
+      "onboard_time": 1712979916,
+      "rank": 38,
+      "category": "教育"
     },
     {
       "raw_hot": 153063,
@@ -30067,6 +30155,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 134991,
+      "num": 134991,
+      "word": "专八改错",
+      "onboard_time": 1712981417,
+      "rank": 41,
+      "category": "教育"
+    },
+    {
       "raw_hot": 134986,
       "num": 134986,
       "word": "大学脱单的关键节点",
@@ -31419,6 +31515,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 122204,
+      "num": 122204,
+      "word": "当知道02实习生妈妈是80后",
+      "onboard_time": 1712981298,
+      "rank": 44,
+      "category": "情感"
+    },
+    {
       "raw_hot": 122039,
       "num": 122039,
       "word": "CBA常规赛奖项公布",
@@ -31537,6 +31641,14 @@
       "onboard_time": 1712904377,
       "rank": 45,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 121153,
+      "num": 121153,
+      "word": "何冰娇奥运积分",
+      "onboard_time": 1712981837,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 121143,
@@ -32043,6 +32155,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 115897,
+      "num": 115897,
+      "word": "姚志明追妻火葬场倒计时",
+      "onboard_time": 1712981657,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 115883,
       "num": 115883,
       "word": "运动真的会让面部代偿吗",
@@ -32376,14 +32496,6 @@
       "word": "我国首口超5000米深层地热科学探井",
       "onboard_time": 1712582122,
       "rank": 2,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 110748,
-      "num": 219459,
-      "word": "去医院检查千万别穿成这样",
-      "onboard_time": 1712979197,
-      "rank": 29,
       "category": "社会新闻"
     },
     {
