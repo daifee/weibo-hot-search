@@ -1,6 +1,6 @@
 {
   "startTime": 1712938901785,
-  "endTime": 1712986441675,
+  "endTime": 1712989071353,
   "band_list": [
     {
       "raw_hot": 1883112,
@@ -11,8 +11,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1761268,
-      "num": 1761268,
+      "raw_hot": 1788366,
+      "num": 1788366,
       "word": "猫一杯2小时掉10万粉",
       "onboard_time": 1712983578,
       "rank": 0,
@@ -57,6 +57,14 @@
       "onboard_time": 1712971877,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1165534,
+      "num": 438368,
+      "word": "汪苏泷 澳门酒吧",
+      "onboard_time": 1712986817,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 1161761,
@@ -132,7 +140,7 @@
     },
     {
       "raw_hot": 791804,
-      "num": 791804,
+      "num": 855397,
       "word": "炮制秦朗丢作业丢掉了什么",
       "onboard_time": 1712981417,
       "rank": 29,
@@ -160,6 +168,14 @@
       "word": "拜登警告伊朗不要攻击以色列",
       "onboard_time": 1712964976,
       "rank": 1,
+      "category": "国外时政"
+    },
+    {
+      "raw_hot": 715086,
+      "num": 715086,
+      "word": "美国军舰为防备伊朗已部署到位",
+      "onboard_time": 1712987299,
+      "rank": 4,
       "category": "国外时政"
     },
     {
@@ -193,6 +209,14 @@
       "onboard_time": 1712973976,
       "rank": 14,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 626490,
+      "num": 626490,
+      "word": "鹿晗想自己做五哈",
+      "onboard_time": 1712987299,
+      "rank": 6,
+      "category": "综艺"
     },
     {
       "raw_hot": 621935,
@@ -260,7 +284,7 @@
     },
     {
       "raw_hot": 504102,
-      "num": 203068,
+      "num": 215683,
       "word": "为了涨500块工资问来问去",
       "onboard_time": 1712985078,
       "rank": 23,
@@ -355,12 +379,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 402438,
+      "num": 402438,
+      "word": "西安打雷",
+      "onboard_time": 1712987418,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 398168,
       "num": 216222,
       "word": "有一种小肚子叫骨盆前倾",
       "onboard_time": 1712964555,
       "rank": 20,
       "category": "健康医疗,运动健身"
+    },
+    {
+      "raw_hot": 397341,
+      "num": 397341,
+      "word": "猫一杯 秦朗事件",
+      "onboard_time": 1712988136,
+      "rank": 14,
+      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 382927,
@@ -403,6 +443,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 353746,
+      "num": 353746,
+      "word": "黄雅莉晒生子前后四季对比照",
+      "onboard_time": 1712988197,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 351358,
       "num": 351358,
       "word": "山西省考 出不出",
@@ -420,7 +468,7 @@
     },
     {
       "raw_hot": 349005,
-      "num": 203941,
+      "num": 212265,
       "word": "导师打了14个电话叫我起床",
       "onboard_time": 1712982618,
       "rank": 37,
@@ -635,6 +683,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 242648,
+      "num": 214669,
+      "word": "频繁早醒可能是病了",
+      "onboard_time": 1712987178,
+      "rank": 22,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 234491,
       "num": 234491,
       "word": "多国建议本国公民勿前往以色列伊朗等国",
@@ -707,6 +763,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 210432,
+      "num": 210432,
+      "word": "何洁好癫",
+      "onboard_time": 1712986219,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 209963,
       "num": 209963,
       "word": "山西省考",
@@ -723,12 +787,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 203371,
-      "num": 174733,
-      "word": "何洁好癫",
-      "onboard_time": 1712986219,
-      "rank": 26,
-      "category": "综艺"
+      "raw_hot": 204734,
+      "num": 204734,
+      "word": "澳门男子及女子世界杯2024",
+      "onboard_time": 1712988675,
+      "rank": 27,
+      "category": "体育"
     },
     {
       "raw_hot": 203246,
@@ -915,6 +979,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 178717,
+      "num": 178717,
+      "word": "柯南动画最新话",
+      "onboard_time": 1712987717,
+      "rank": 28,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 176540,
       "num": 176540,
       "word": "伊媒威胁将以城市夷为平地",
@@ -963,6 +1035,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 166359,
+      "num": 166359,
+      "word": "杨紫休息让我演两集",
+      "onboard_time": 1712988557,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 165002,
       "num": 506825,
       "word": "小孩哥情绪稳定的像拖拉机老司机",
@@ -1003,6 +1083,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 158790,
+      "num": 158790,
+      "word": "看承欢记给妈妈选衣服有方向了",
+      "onboard_time": 1712982677,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 158462,
       "num": 158462,
       "word": "演员关凌称给娃辅导作业被气进医院",
@@ -1033,6 +1121,14 @@
       "onboard_time": 1712972417,
       "rank": 32,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 155393,
+      "num": 155393,
+      "word": "周扬青活出了浪姐的本色",
+      "onboard_time": 1712988557,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 154951,
@@ -1075,6 +1171,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 151488,
+      "num": 151488,
+      "word": "华晨宇抢票",
+      "onboard_time": 1712988977,
+      "rank": 34,
+      "category": "演出"
+    },
+    {
       "raw_hot": 150323,
       "num": 150323,
       "word": "李溪芮吊带银裙",
@@ -1091,20 +1195,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 150187,
-      "num": 150187,
-      "word": "看承欢记给妈妈选衣服有方向了",
-      "onboard_time": 1712982677,
-      "rank": 47,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 149608,
       "num": 149608,
       "word": "外星人绑架案出现新证人",
       "onboard_time": 1712953151,
       "rank": 23,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 148376,
+      "num": 148376,
+      "word": "苗苗浪姐主题曲vlog",
+      "onboard_time": 1712987237,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 146957,
@@ -1129,6 +1233,14 @@
       "onboard_time": 1712983038,
       "rank": 42,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 143615,
+      "num": 143615,
+      "word": "西藏阿里地区发生5.2级地震",
+      "onboard_time": 1712988977,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 142600,
@@ -1211,6 +1323,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 130430,
+      "num": 130430,
+      "word": "烈士牺牲时紧紧握着一张照片",
+      "onboard_time": 1712987777,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 129021,
       "num": 129021,
       "word": "张艺兴舞台 女书",
@@ -1227,6 +1347,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 128545,
+      "num": 128545,
+      "word": "黄子韬被泼得疯狂认输",
+      "onboard_time": 1712987597,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 128376,
       "num": 150306,
       "word": "乐言喊zdz姐夫",
@@ -1241,6 +1369,14 @@
       "onboard_time": 1712933419,
       "rank": 32,
       "category": "电影"
+    },
+    {
+      "raw_hot": 124583,
+      "num": 124583,
+      "word": "给奶奶买的金首饰戴在我弟弟身上",
+      "onboard_time": 1712988497,
+      "rank": 42,
+      "category": "情感"
     },
     {
       "raw_hot": 124537,
@@ -1305,6 +1441,14 @@
       "onboard_time": 1712973438,
       "rank": 45,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 117975,
+      "num": 117975,
+      "word": "花花和叶姐妹俩木架切磋",
+      "onboard_time": 1712988136,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 117556,
@@ -1395,6 +1539,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 104549,
+      "num": 104549,
+      "word": "当抚慰犬遇到了工作犬",
+      "onboard_time": 1712988799,
+      "rank": 47,
+      "category": "情感"
+    },
+    {
       "raw_hot": 100570,
       "num": 100570,
       "word": "云南昆明发生森林火灾",
@@ -1417,6 +1569,14 @@
       "onboard_time": 1712933839,
       "rank": 38,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 99624,
+      "num": 99624,
+      "word": "辅导作业的疯还是吹向了向远生",
+      "onboard_time": 1712987717,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 99001,

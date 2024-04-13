@@ -1,0 +1,410 @@
+{
+  "runTime": 1712989071353,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1788366,
+        "num": 1788366,
+        "word": "猫一杯2小时掉10万粉",
+        "onboard_time": 1712983578,
+        "rank": 0,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 890637,
+        "num": 890637,
+        "word": "首饰金价一夜大降10元每克",
+        "onboard_time": 1712982377,
+        "rank": 1,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 406660,
+        "num": 855397,
+        "word": "炮制秦朗丢作业丢掉了什么",
+        "onboard_time": 1712981417,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 824501,
+        "num": 824501,
+        "word": "向佐一提郭碧婷就哭",
+        "onboard_time": 1712980457,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 715086,
+        "num": 715086,
+        "word": "美国军舰为防备伊朗已部署到位",
+        "onboard_time": 1712987299,
+        "rank": 4,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 710952,
+        "num": 710952,
+        "word": "只有王俊凯被通知穿西装",
+        "onboard_time": 1712984478,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 626490,
+        "num": 626490,
+        "word": "鹿晗想自己做五哈",
+        "onboard_time": 1712987299,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 623151,
+        "num": 623151,
+        "word": "去医院检查千万别穿成这样",
+        "onboard_time": 1712979197,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 513475,
+        "num": 513475,
+        "word": "马嘉祺有个双胞胎哥哥",
+        "onboard_time": 1712978057,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 346646,
+        "num": 445517,
+        "word": "妈妈称唐氏女儿在舞台上光彩四溢",
+        "onboard_time": 1712983398,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1165534,
+        "num": 438368,
+        "word": "汪苏泷 澳门酒吧",
+        "onboard_time": 1712986817,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 402438,
+        "num": 402438,
+        "word": "西安打雷",
+        "onboard_time": 1712987418,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 115030,
+        "num": 399498,
+        "word": "不愧是最美的人间四月天",
+        "onboard_time": 1712977216,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 397938,
+        "num": 397938,
+        "word": "伊以冲突",
+        "onboard_time": 1712970677,
+        "rank": 13,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 397341,
+        "num": 397341,
+        "word": "猫一杯 秦朗事件",
+        "onboard_time": 1712988136,
+        "rank": 14,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 353746,
+        "num": 353746,
+        "word": "黄雅莉晒生子前后四季对比照",
+        "onboard_time": 1712988197,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 287793,
+        "num": 287793,
+        "word": "是的 我和英专离婚了",
+        "onboard_time": 1712980338,
+        "rank": 16,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 284459,
+        "num": 284459,
+        "word": "女生义乌10元买项链多年后未变色",
+        "onboard_time": 1712971877,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 283443,
+        "num": 283443,
+        "word": "专八",
+        "onboard_time": 1712978416,
+        "rank": 18,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 218681,
+        "num": 218681,
+        "word": "鹿晗狂泼邓超",
+        "onboard_time": 1712985318,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 382323,
+        "num": 217920,
+        "word": "杨立新遇害前承认婚内出轨怀孕",
+        "onboard_time": 1712969117,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 365138,
+        "num": 215683,
+        "word": "为了涨500块工资问来问去",
+        "onboard_time": 1712985078,
+        "rank": 21,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 242648,
+        "num": 214669,
+        "word": "频繁早醒可能是病了",
+        "onboard_time": 1712987178,
+        "rank": 22,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 212265,
+        "num": 212265,
+        "word": "导师打了14个电话叫我起床",
+        "onboard_time": 1712982618,
+        "rank": 23,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 210432,
+        "num": 210432,
+        "word": "何洁好癫",
+        "onboard_time": 1712986219,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 206245,
+        "num": 206245,
+        "word": "黄子韬徐艺洋吃同一块饼",
+        "onboard_time": 1712973496,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 205338,
+        "num": 205338,
+        "word": "晚宴上的赵露思",
+        "onboard_time": 1712981057,
+        "rank": 26,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 204734,
+        "num": 204734,
+        "word": "澳门男子及女子世界杯2024",
+        "onboard_time": 1712988675,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 178717,
+        "num": 178717,
+        "word": "柯南动画最新话",
+        "onboard_time": 1712987717,
+        "rank": 28,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 166359,
+        "num": 166359,
+        "word": "杨紫休息让我演两集",
+        "onboard_time": 1712988557,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 160543,
+        "num": 160543,
+        "word": "郭敬明开新店人均消费1500元",
+        "onboard_time": 1712969957,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 158790,
+        "num": 158790,
+        "word": "看承欢记给妈妈选衣服有方向了",
+        "onboard_time": 1712982677,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 158708,
+        "num": 158708,
+        "word": "林更新被淋成狗",
+        "onboard_time": 1712983217,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 155393,
+        "num": 155393,
+        "word": "周扬青活出了浪姐的本色",
+        "onboard_time": 1712988557,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 151488,
+        "num": 151488,
+        "word": "华晨宇抢票",
+        "onboard_time": 1712988977,
+        "rank": 34,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 148376,
+        "num": 148376,
+        "word": "苗苗浪姐主题曲vlog",
+        "onboard_time": 1712987237,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 143615,
+        "num": 143615,
+        "word": "西藏阿里地区发生5.2级地震",
+        "onboard_time": 1712988977,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 139469,
+        "num": 139469,
+        "word": "实力派女演员",
+        "onboard_time": 1712976496,
+        "rank": 37,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 130430,
+        "num": 130430,
+        "word": "烈士牺牲时紧紧握着一张照片",
+        "onboard_time": 1712987777,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 128545,
+        "num": 128545,
+        "word": "黄子韬被泼得疯狂认输",
+        "onboard_time": 1712987597,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 127944,
+        "num": 127944,
+        "word": "专八答案",
+        "onboard_time": 1712978599,
+        "rank": 40,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 126522,
+        "num": 126522,
+        "word": "英专生 五世同堂",
+        "onboard_time": 1712981537,
+        "rank": 41,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 124583,
+        "num": 124583,
+        "word": "给奶奶买的金首饰戴在我弟弟身上",
+        "onboard_time": 1712988497,
+        "rank": 42,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 123053,
+        "num": 123053,
+        "word": "散是满天星 合是神金病",
+        "onboard_time": 1712978057,
+        "rank": 43,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 117975,
+        "num": 117975,
+        "word": "花花和叶姐妹俩木架切磋",
+        "onboard_time": 1712988136,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 110958,
+        "num": 110958,
+        "word": "盒子里的猫",
+        "onboard_time": 1712986398,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 110050,
+        "num": 110050,
+        "word": "拜登称美国将帮以色列防御伊朗",
+        "onboard_time": 1712969898,
+        "rank": 46,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 104549,
+        "num": 104549,
+        "word": "当抚慰犬遇到了工作犬",
+        "onboard_time": 1712988799,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 99624,
+        "num": 99624,
+        "word": "辅导作业的疯还是吹向了向远生",
+        "onboard_time": 1712987717,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 97317,
+        "num": 97317,
+        "word": "拜登警告伊朗不要攻击以色列",
+        "onboard_time": 1712964976,
+        "rank": 49,
+        "category": "国外时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#中国和苏里南友谊源远流长历久弥坚#"
+    }
+  }
+}
