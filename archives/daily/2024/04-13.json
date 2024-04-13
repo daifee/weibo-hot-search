@@ -1,6 +1,6 @@
 {
   "startTime": 1712938901785,
-  "endTime": 1712990064285,
+  "endTime": 1712992549261,
   "band_list": [
     {
       "raw_hot": 1883112,
@@ -49,6 +49,14 @@
       "onboard_time": 1712980457,
       "rank": 1,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1318533,
+      "num": 1318533,
+      "word": "金秀贤金智媛不再合体",
+      "onboard_time": 1712989517,
+      "rank": 16,
+      "category": "剧集"
     },
     {
       "raw_hot": 1215293,
@@ -140,7 +148,7 @@
     },
     {
       "raw_hot": 791804,
-      "num": 855397,
+      "num": 885712,
       "word": "炮制秦朗丢作业丢掉了什么",
       "onboard_time": 1712981417,
       "rank": 29,
@@ -187,6 +195,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 671340,
+      "num": 671340,
+      "word": "马嘉祺哥哥正脸曝光",
+      "onboard_time": 1712991377,
+      "rank": 3,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 652809,
+      "num": 430350,
+      "word": "黄雅莉晒生子前后四季对比照",
+      "onboard_time": 1712988197,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 637486,
       "num": 634967,
       "word": "斩虎 巨婴",
@@ -217,14 +241,6 @@
       "onboard_time": 1712987299,
       "rank": 6,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 623990,
-      "num": 430350,
-      "word": "黄雅莉晒生子前后四季对比照",
-      "onboard_time": 1712988197,
-      "rank": 15,
-      "category": "艺人"
     },
     {
       "raw_hot": 621935,
@@ -347,6 +363,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 434708,
+      "num": 434708,
+      "word": "赵丽颖张一山在人间骑摩托路透",
+      "onboard_time": 1712989337,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 429686,
       "num": 429686,
       "word": "机智的医生生活第三季",
@@ -427,6 +451,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 375184,
+      "num": 177256,
+      "word": "马上入编了家里却要拆迁",
+      "onboard_time": 1712991677,
+      "rank": 31,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 366404,
       "num": 366404,
       "word": "员工晒董宇辉白发越来越多",
@@ -499,20 +531,20 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 336282,
-      "num": 336282,
-      "word": "金秀贤金智媛不再合体",
-      "onboard_time": 1712989517,
-      "rank": 16,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 333571,
       "num": 333571,
       "word": "陈泽 红娘",
       "onboard_time": 1712932698,
       "rank": 34,
       "category": "游戏,网红"
+    },
+    {
+      "raw_hot": 330016,
+      "num": 330016,
+      "word": "HLE对战T1",
+      "onboard_time": 1712990897,
+      "rank": 16,
+      "category": "电竞"
     },
     {
       "raw_hot": 325795,
@@ -529,6 +561,14 @@
       "onboard_time": 1712985318,
       "rank": 36,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 322551,
+      "num": 322551,
+      "word": "杨紫休息让我演两集",
+      "onboard_time": 1712988557,
+      "rank": 29,
+      "category": "剧集"
     },
     {
       "raw_hot": 321080,
@@ -560,6 +600,14 @@
       "word": "三个玩手机最佳动作",
       "onboard_time": 1712974456,
       "rank": 48,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 307714,
+      "num": 248328,
+      "word": "频繁早醒可能是病了",
+      "onboard_time": 1712987178,
+      "rank": 22,
       "category": "健康医疗"
     },
     {
@@ -659,14 +707,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 267957,
-      "num": 267957,
-      "word": "杨紫休息让我演两集",
-      "onboard_time": 1712988557,
-      "rank": 29,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 263178,
       "num": 263178,
       "word": "58岁姐姐去世弟弟含泪吹唢呐送别",
@@ -707,20 +747,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 246376,
-      "num": 246376,
-      "word": "频繁早醒可能是病了",
-      "onboard_time": 1712987178,
-      "rank": 22,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 245198,
       "num": 245198,
       "word": "多国使馆提醒公民勿前往以色列",
       "onboard_time": 1712968998,
       "rank": 18,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 236205,
+      "num": 236205,
+      "word": "南昌天气",
+      "onboard_time": 1712990658,
+      "rank": 22,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 234491,
@@ -835,14 +875,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 202786,
-      "num": 202786,
-      "word": "赵丽颖张一山在人间骑摩托路透",
-      "onboard_time": 1712989337,
-      "rank": 25,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 202656,
       "num": 202656,
       "word": "齐思钧生日甜味起司妆",
@@ -889,6 +921,14 @@
       "onboard_time": 1712964194,
       "rank": 18,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 196976,
+      "num": 196976,
+      "word": "给奶奶买的金首饰戴在我弟弟身上",
+      "onboard_time": 1712988497,
+      "rank": 42,
+      "category": "情感"
     },
     {
       "raw_hot": 194728,
@@ -969,14 +1009,6 @@
       "onboard_time": 1712971277,
       "rank": 27,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 187865,
-      "num": 187865,
-      "word": "给奶奶买的金首饰戴在我弟弟身上",
-      "onboard_time": 1712988497,
-      "rank": 42,
-      "category": "情感"
     },
     {
       "raw_hot": 185430,
@@ -1075,6 +1107,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 175249,
+      "num": 175249,
+      "word": "秦始皇帝陵何时能发掘",
+      "onboard_time": 1712991797,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 174866,
       "num": 174866,
       "word": "承欢记收视率创新高",
@@ -1131,6 +1171,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 162095,
+      "num": 162095,
+      "word": "李昊赵小童直播",
+      "onboard_time": 1712990777,
+      "rank": 34,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 160625,
       "num": 160625,
       "word": "东西缅北质子团",
@@ -1145,6 +1193,22 @@
       "onboard_time": 1712942474,
       "rank": 36,
       "category": "体育"
+    },
+    {
+      "raw_hot": 159389,
+      "num": 159389,
+      "word": "太阳三巨头合砍69分",
+      "onboard_time": 1712991197,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 159188,
+      "num": 159188,
+      "word": "Cat对战成都Wolves",
+      "onboard_time": 1712991858,
+      "rank": 36,
+      "category": "电竞"
     },
     {
       "raw_hot": 158790,
@@ -1347,6 +1411,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 134306,
+      "num": 134306,
+      "word": "四川最牛猫咪",
+      "onboard_time": 1712989757,
+      "rank": 43,
+      "category": "情感"
+    },
+    {
       "raw_hot": 134233,
       "num": 134233,
       "word": "王源 我年纪大了",
@@ -1427,14 +1499,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 127378,
-      "num": 127378,
-      "word": "四川最牛猫咪",
-      "onboard_time": 1712989757,
-      "rank": 43,
-      "category": "情感"
-    },
-    {
       "raw_hot": 126597,
       "num": 126597,
       "word": "刘浩存年度影响力青年演员",
@@ -1473,6 +1537,14 @@
       "onboard_time": 1712981298,
       "rank": 44,
       "category": "情感"
+    },
+    {
+      "raw_hot": 122142,
+      "num": 122142,
+      "word": "学校就喜欢把钱花在刀把上",
+      "onboard_time": 1712991977,
+      "rank": 43,
+      "category": "幽默"
     },
     {
       "raw_hot": 121983,
@@ -1572,7 +1644,7 @@
     },
     {
       "raw_hot": 109079,
-      "num": 141827,
+      "num": 177394,
       "word": "Joker脸在江山在",
       "onboard_time": 1712989398,
       "rank": 37,
@@ -1585,6 +1657,14 @@
       "onboard_time": 1712930419,
       "rank": 40,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 107940,
+      "num": 107940,
+      "word": "张馨予夸自己颧骨好美",
+      "onboard_time": 1712992458,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 107237,
@@ -1843,6 +1923,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 30145,
+      "num": 249571,
+      "word": "同道大叔抽到了Joker",
+      "onboard_time": 1712990298,
+      "rank": 20,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 27678,
       "num": 32015,
       "word": "龚俊芭莎预告",
@@ -1857,6 +1945,14 @@
       "onboard_time": 1712948472,
       "rank": 40,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 16908,
+      "num": 182139,
+      "word": "P5X肝度适中",
+      "onboard_time": 1712990118,
+      "rank": 29,
+      "category": "游戏"
     },
     {
       "raw_hot": 12521,
