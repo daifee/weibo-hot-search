@@ -1,6 +1,6 @@
 {
   "startTime": 1712938901785,
-  "endTime": 1713000831832,
+  "endTime": 1713003298602,
   "band_list": [
     {
       "raw_hot": 1883112,
@@ -75,6 +75,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1205320,
+      "num": 1205320,
+      "word": "留意侧躺玩手机后的眼睛变化",
+      "onboard_time": 1712997065,
+      "rank": 45,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 1165534,
       "num": 466421,
       "word": "汪苏泷 澳门酒吧",
@@ -89,6 +97,14 @@
       "onboard_time": 1712966898,
       "rank": 10,
       "category": "情感,网红"
+    },
+    {
+      "raw_hot": 1136038,
+      "num": 1136038,
+      "word": "赵丽颖说谢谢狗哥",
+      "onboard_time": 1713000498,
+      "rank": 19,
+      "category": "剧集"
     },
     {
       "raw_hot": 1122563,
@@ -115,14 +131,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 985255,
-      "num": 985255,
-      "word": "留意侧躺玩手机后的眼睛变化",
-      "onboard_time": 1712997065,
-      "rank": 45,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 984604,
       "num": 523410,
       "word": "杭州确诊一例狂犬病死亡几年前被狗咬",
@@ -136,6 +144,14 @@
       "word": "郭敬明开新店人均消费1500元",
       "onboard_time": 1712969957,
       "rank": 16,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 915988,
+      "num": 915988,
+      "word": "成毅晒面摊",
+      "onboard_time": 1712996178,
+      "rank": 39,
       "category": "艺人"
     },
     {
@@ -188,7 +204,7 @@
     },
     {
       "raw_hot": 791804,
-      "num": 990690,
+      "num": 1137932,
       "word": "炮制秦朗丢作业丢掉了什么",
       "onboard_time": 1712981417,
       "rank": 29,
@@ -217,6 +233,14 @@
       "onboard_time": 1712999357,
       "rank": 15,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 738008,
+      "num": 738008,
+      "word": "某幻 音乐节",
+      "onboard_time": 1713000737,
+      "rank": 46,
+      "category": "游戏,网红"
     },
     {
       "raw_hot": 723607,
@@ -299,14 +323,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 607550,
-      "num": 607550,
-      "word": "成毅晒面摊",
-      "onboard_time": 1712996178,
-      "rank": 39,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 606479,
       "num": 280618,
       "word": "有没有性生活都一定要做4项妇科检查",
@@ -371,6 +387,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 507702,
+      "num": 284285,
+      "word": "朋友圈置顶是所有人可见吗",
+      "onboard_time": 1712998818,
+      "rank": 22,
+      "category": "情感"
+    },
+    {
       "raw_hot": 505332,
       "num": 505332,
       "word": "马丽获奖感言",
@@ -401,6 +425,14 @@
       "onboard_time": 1712975956,
       "rank": 4,
       "category": "体育"
+    },
+    {
+      "raw_hot": 479856,
+      "num": 479856,
+      "word": "消息人士称伊朗或在24至48小时内袭击以色列",
+      "onboard_time": 1712998818,
+      "rank": 19,
+      "category": "国外时政"
     },
     {
       "raw_hot": 477809,
@@ -441,14 +473,6 @@
       "onboard_time": 1712980338,
       "rank": 17,
       "category": "教育"
-    },
-    {
-      "raw_hot": 445164,
-      "num": 284285,
-      "word": "朋友圈置顶是所有人可见吗",
-      "onboard_time": 1712998818,
-      "rank": 22,
-      "category": "情感"
     },
     {
       "raw_hot": 441861,
@@ -500,7 +524,7 @@
     },
     {
       "raw_hot": 410764,
-      "num": 482666,
+      "num": 620183,
       "word": "妈妈称唐氏女儿在舞台上光彩四溢",
       "onboard_time": 1712983398,
       "rank": 9,
@@ -545,6 +569,14 @@
       "onboard_time": 1712976496,
       "rank": 15,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 367618,
+      "num": 367618,
+      "word": "HLE对战T1",
+      "onboard_time": 1712990897,
+      "rank": 16,
+      "category": "电竞"
     },
     {
       "raw_hot": 366404,
@@ -619,6 +651,22 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 344830,
+      "num": 278373,
+      "word": "进体制内还能追星吗",
+      "onboard_time": 1712999598,
+      "rank": 31,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 343447,
+      "num": 611257,
+      "word": "男子养了20年的海龟竟是国保玳瑁",
+      "onboard_time": 1713001817,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 342843,
       "num": 240445,
       "word": "入睡太快正不正常",
@@ -635,20 +683,12 @@
       "category": "游戏,网红"
     },
     {
-      "raw_hot": 331819,
-      "num": 331819,
-      "word": "消息人士称伊朗或在24至48小时内袭击以色列",
-      "onboard_time": 1712998818,
-      "rank": 19,
-      "category": "国外时政"
-    },
-    {
-      "raw_hot": 330016,
-      "num": 330016,
-      "word": "HLE对战T1",
-      "onboard_time": 1712990897,
-      "rank": 16,
-      "category": "电竞"
+      "raw_hot": 327804,
+      "num": 327804,
+      "word": "陈楚生方就音乐节演出取消道歉",
+      "onboard_time": 1712999357,
+      "rank": 39,
+      "category": "演出"
     },
     {
       "raw_hot": 325795,
@@ -763,14 +803,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 300028,
-      "num": 278373,
-      "word": "进体制内还能追星吗",
-      "onboard_time": 1712999598,
-      "rank": 31,
-      "category": "情感"
-    },
-    {
       "raw_hot": 296716,
       "num": 296716,
       "word": "林更新被淋成狗",
@@ -795,14 +827,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 290982,
-      "num": 290982,
-      "word": "赵丽颖说谢谢狗哥",
-      "onboard_time": 1713000498,
-      "rank": 19,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 286264,
       "num": 201426,
       "word": "旅游时千万不要带太多的东西",
@@ -817,6 +841,14 @@
       "onboard_time": 1712932220,
       "rank": 8,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 283769,
+      "num": 283769,
+      "word": "南昌下午一点半天就黑了",
+      "onboard_time": 1713002057,
+      "rank": 18,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 283763,
@@ -859,14 +891,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 264857,
-      "num": 264857,
-      "word": "陈楚生方就音乐节演出取消道歉",
-      "onboard_time": 1712999357,
-      "rank": 39,
-      "category": "演出"
-    },
-    {
       "raw_hot": 263178,
       "num": 263178,
       "word": "58岁姐姐去世弟弟含泪吹唢呐送别",
@@ -907,12 +931,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 249144,
+      "num": 249144,
+      "word": "熬夜的人身体会变臭",
+      "onboard_time": 1713000438,
+      "rank": 44,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 245198,
       "num": 245198,
       "word": "多国使馆提醒公民勿前往以色列",
       "onboard_time": 1712968998,
       "rank": 18,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 237047,
+      "num": 237047,
+      "word": "李泰容cover想见你",
+      "onboard_time": 1713001817,
+      "rank": 27,
+      "category": "演出"
     },
     {
       "raw_hot": 234491,
@@ -1129,6 +1169,14 @@
       "onboard_time": 1712964194,
       "rank": 18,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 195087,
+      "num": 195087,
+      "word": "与凤行",
+      "onboard_time": 1713002358,
+      "rank": 31,
+      "category": "剧集"
     },
     {
       "raw_hot": 194728,
@@ -1363,6 +1411,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 168691,
+      "num": 168691,
+      "word": "Meiko看HLE对战T1",
+      "onboard_time": 1713000318,
+      "rank": 41,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 167604,
       "num": 167604,
       "word": "NBA",
@@ -1417,6 +1473,14 @@
       "onboard_time": 1712984238,
       "rank": 32,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 162184,
+      "num": 162184,
+      "word": "为什么大家越来越喜欢日落",
+      "onboard_time": 1713000138,
+      "rank": 38,
+      "category": "情感"
     },
     {
       "raw_hot": 162095,
@@ -1563,14 +1627,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 152962,
-      "num": 152962,
-      "word": "为什么大家越来越喜欢日落",
-      "onboard_time": 1713000138,
-      "rank": 38,
-      "category": "情感"
-    },
-    {
       "raw_hot": 151991,
       "num": 151991,
       "word": "知情人回应男子电梯里暴打女友",
@@ -1619,20 +1675,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 150197,
-      "num": 150197,
-      "word": "Meiko看HLE对战T1",
-      "onboard_time": 1713000318,
-      "rank": 41,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 149608,
       "num": 149608,
       "word": "外星人绑架案出现新证人",
       "onboard_time": 1712953151,
       "rank": 23,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 149219,
+      "num": 149219,
+      "word": "DRG对战TES",
+      "onboard_time": 1713002419,
+      "rank": 38,
+      "category": "电竞"
     },
     {
       "raw_hot": 148376,
@@ -1665,6 +1721,14 @@
       "onboard_time": 1712983038,
       "rank": 42,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 146011,
+      "num": 146011,
+      "word": "RNG称绝不解散",
+      "onboard_time": 1713001456,
+      "rank": 40,
+      "category": "电竞"
     },
     {
       "raw_hot": 142600,
@@ -1705,6 +1769,14 @@
       "onboard_time": 1712966775,
       "rank": 39,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 138704,
+      "num": 138704,
+      "word": "检验师考试",
+      "onboard_time": 1713003018,
+      "rank": 43,
+      "category": "教育"
     },
     {
       "raw_hot": 138275,
@@ -1763,14 +1835,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 133389,
-      "num": 133389,
-      "word": "熬夜的人身体会变臭",
-      "onboard_time": 1713000438,
-      "rank": 44,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 133222,
       "num": 133222,
       "word": "父母让我退房把钱给弟弟娶老婆",
@@ -1809,14 +1873,6 @@
       "onboard_time": 1712998038,
       "rank": 44,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 129727,
-      "num": 129727,
-      "word": "某幻 音乐节",
-      "onboard_time": 1713000737,
-      "rank": 46,
-      "category": "游戏,网红"
     },
     {
       "raw_hot": 129626,
@@ -1905,6 +1961,14 @@
       "onboard_time": 1712972356,
       "rank": 43,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 122367,
+      "num": 122367,
+      "word": "邓超是真的饿了",
+      "onboard_time": 1713000918,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 122204,
@@ -2041,6 +2105,14 @@
       "onboard_time": 1712922377,
       "rank": 41,
       "category": "电影,时尚"
+    },
+    {
+      "raw_hot": 106325,
+      "num": 121557,
+      "word": "lana 摩托后座",
+      "onboard_time": 1713001698,
+      "rank": 49,
+      "category": "演出"
     },
     {
       "raw_hot": 105145,

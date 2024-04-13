@@ -1,6 +1,6 @@
 {
   "startTime": 1712420539476,
-  "endTime": 1713000831832,
+  "endTime": 1713003298602,
   "band_list": [
     {
       "raw_hot": 9583581,
@@ -963,6 +963,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 1205320,
+      "num": 1205320,
+      "word": "留意侧躺玩手机后的眼睛变化",
+      "onboard_time": 1712997065,
+      "rank": 45,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 1202477,
       "num": 1202477,
       "word": "男子杀妻抛尸四川警方3天破案",
@@ -1089,6 +1097,14 @@
       "onboard_time": 1712837477,
       "rank": 10,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 1136038,
+      "num": 1136038,
+      "word": "赵丽颖说谢谢狗哥",
+      "onboard_time": 1713000498,
+      "rank": 19,
+      "category": "剧集"
     },
     {
       "raw_hot": 1135870,
@@ -1467,14 +1483,6 @@
       "category": "运动健身,作品衍生"
     },
     {
-      "raw_hot": 985255,
-      "num": 985255,
-      "word": "留意侧躺玩手机后的眼睛变化",
-      "onboard_time": 1712997065,
-      "rank": 45,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 979913,
       "num": 979913,
       "word": "韩国无糖糖葫芦",
@@ -1673,6 +1681,14 @@
       "onboard_time": 1712907858,
       "rank": 10,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 915988,
+      "num": 915988,
+      "word": "成毅晒面摊",
+      "onboard_time": 1712996178,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 911576,
@@ -2172,7 +2188,7 @@
     },
     {
       "raw_hot": 791804,
-      "num": 990690,
+      "num": 1137932,
       "word": "炮制秦朗丢作业丢掉了什么",
       "onboard_time": 1712981417,
       "rank": 29,
@@ -2473,6 +2489,14 @@
       "onboard_time": 1712479399,
       "rank": 14,
       "category": "情感"
+    },
+    {
+      "raw_hot": 738008,
+      "num": 738008,
+      "word": "某幻 音乐节",
+      "onboard_time": 1713000737,
+      "rank": 46,
+      "category": "游戏,网红"
     },
     {
       "raw_hot": 735808,
@@ -3371,14 +3395,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 607550,
-      "num": 607550,
-      "word": "成毅晒面摊",
-      "onboard_time": 1712996178,
-      "rank": 39,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 607185,
       "num": 607185,
       "word": "刘亦菲高定粉裙",
@@ -4203,6 +4219,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 507702,
+      "num": 284285,
+      "word": "朋友圈置顶是所有人可见吗",
+      "onboard_time": 1712998818,
+      "rank": 22,
+      "category": "情感"
+    },
+    {
       "raw_hot": 505825,
       "num": 505825,
       "word": "清华大学所在国家学生",
@@ -4625,6 +4649,14 @@
       "onboard_time": 1712904017,
       "rank": 10,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 479856,
+      "num": 479856,
+      "word": "消息人士称伊朗或在24至48小时内袭击以色列",
+      "onboard_time": 1712998818,
+      "rank": 19,
+      "category": "国外时政"
     },
     {
       "raw_hot": 479585,
@@ -5107,14 +5139,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 445164,
-      "num": 284285,
-      "word": "朋友圈置顶是所有人可见吗",
-      "onboard_time": 1712998818,
-      "rank": 22,
-      "category": "情感"
-    },
-    {
       "raw_hot": 443364,
       "num": 443364,
       "word": "一顿火锅吃出离奇悬案",
@@ -5564,7 +5588,7 @@
     },
     {
       "raw_hot": 410764,
-      "num": 482666,
+      "num": 620183,
       "word": "妈妈称唐氏女儿在舞台上光彩四溢",
       "onboard_time": 1712983398,
       "rank": 9,
@@ -6115,6 +6139,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 367618,
+      "num": 367618,
+      "word": "HLE对战T1",
+      "onboard_time": 1712990897,
+      "rank": 16,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 367443,
       "num": 367443,
       "word": "白鹿活动生图",
@@ -6579,12 +6611,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 344830,
+      "num": 278373,
+      "word": "进体制内还能追星吗",
+      "onboard_time": 1712999598,
+      "rank": 31,
+      "category": "情感"
+    },
+    {
       "raw_hot": 343844,
       "num": 343844,
       "word": "开始推理吧",
       "onboard_time": 1712631859,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 343447,
+      "num": 611257,
+      "word": "男子养了20年的海龟竟是国保玳瑁",
+      "onboard_time": 1713001817,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 342843,
@@ -6811,28 +6859,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 331819,
-      "num": 331819,
-      "word": "消息人士称伊朗或在24至48小时内袭击以色列",
-      "onboard_time": 1712998818,
-      "rank": 19,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 330425,
       "num": 330425,
       "word": "原来贡菜就是晒干的莴笋",
       "onboard_time": 1712706617,
       "rank": 21,
       "category": "科学科普"
-    },
-    {
-      "raw_hot": 330016,
-      "num": 330016,
-      "word": "HLE对战T1",
-      "onboard_time": 1712990897,
-      "rank": 16,
-      "category": "电竞"
     },
     {
       "raw_hot": 329857,
@@ -6905,6 +6937,14 @@
       "onboard_time": 1712411960,
       "rank": 16,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 327804,
+      "num": 327804,
+      "word": "陈楚生方就音乐节演出取消道歉",
+      "onboard_time": 1712999357,
+      "rank": 39,
+      "category": "演出"
     },
     {
       "raw_hot": 327740,
@@ -7603,14 +7643,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 300028,
-      "num": 278373,
-      "word": "进体制内还能追星吗",
-      "onboard_time": 1712999598,
-      "rank": 31,
-      "category": "情感"
-    },
-    {
       "raw_hot": 299782,
       "num": 299782,
       "word": "女生想要一个体面的婚礼有错吗",
@@ -7827,14 +7859,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 290982,
-      "num": 290982,
-      "word": "赵丽颖说谢谢狗哥",
-      "onboard_time": 1713000498,
-      "rank": 19,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 290365,
       "num": 242834,
       "word": "林更新说不强求与凤行能带来更多工作",
@@ -8009,6 +8033,14 @@
       "onboard_time": 1712585298,
       "rank": 19,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 283769,
+      "num": 283769,
+      "word": "南昌下午一点半天就黑了",
+      "onboard_time": 1713002057,
+      "rank": 18,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 283763,
@@ -8481,14 +8513,6 @@
       "onboard_time": 1712412921,
       "rank": 25,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 264857,
-      "num": 264857,
-      "word": "陈楚生方就音乐节演出取消道歉",
-      "onboard_time": 1712999357,
-      "rank": 39,
-      "category": "演出"
     },
     {
       "raw_hot": 264555,
@@ -9115,6 +9139,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 249144,
+      "num": 249144,
+      "word": "熬夜的人身体会变臭",
+      "onboard_time": 1713000438,
+      "rank": 44,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 249047,
       "num": 532692,
       "word": "00后帅哥送锦旗民警看了差点没绷住",
@@ -9601,6 +9633,14 @@
       "onboard_time": 1712539758,
       "rank": 35,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 237047,
+      "num": 237047,
+      "word": "李泰容cover想见你",
+      "onboard_time": 1713001817,
+      "rank": 27,
+      "category": "演出"
     },
     {
       "raw_hot": 236454,
@@ -12107,6 +12147,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 195087,
+      "num": 195087,
+      "word": "与凤行",
+      "onboard_time": 1712593937,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 195066,
       "num": 195066,
       "word": "整治中小学暗箱操作掐尖招生乱象",
@@ -12129,14 +12177,6 @@
       "onboard_time": 1712810662,
       "rank": 33,
       "category": "情感"
-    },
-    {
-      "raw_hot": 195031,
-      "num": 195031,
-      "word": "与凤行",
-      "onboard_time": 1712593937,
-      "rank": 48,
-      "category": "剧集"
     },
     {
       "raw_hot": 194883,
@@ -14219,6 +14259,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 168691,
+      "num": 168691,
+      "word": "Meiko看HLE对战T1",
+      "onboard_time": 1713000318,
+      "rank": 41,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 168350,
       "num": 168350,
       "word": "JackeyLoves手指队徽",
@@ -14657,6 +14705,14 @@
       "onboard_time": 1712455217,
       "rank": 39,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 162184,
+      "num": 162184,
+      "word": "为什么大家越来越喜欢日落",
+      "onboard_time": 1713000138,
+      "rank": 38,
+      "category": "情感"
     },
     {
       "raw_hot": 162095,
@@ -15371,14 +15427,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 152962,
-      "num": 152962,
-      "word": "为什么大家越来越喜欢日落",
-      "onboard_time": 1713000138,
-      "rank": 38,
-      "category": "情感"
-    },
-    {
       "raw_hot": 152960,
       "num": 152960,
       "word": "贾樟柯第六次戛纳主竞赛",
@@ -15619,14 +15667,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 150197,
-      "num": 150197,
-      "word": "Meiko看HLE对战T1",
-      "onboard_time": 1713000318,
-      "rank": 41,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 150153,
       "num": 150153,
       "word": "过完清明假期办公室全体离职",
@@ -15673,6 +15713,14 @@
       "onboard_time": 1712844379,
       "rank": 42,
       "category": "情感"
+    },
+    {
+      "raw_hot": 149219,
+      "num": 149219,
+      "word": "DRG对战TES",
+      "onboard_time": 1713002419,
+      "rank": 38,
+      "category": "电竞"
     },
     {
       "raw_hot": 149132,
@@ -15953,6 +16001,14 @@
       "onboard_time": 1712901678,
       "rank": 41,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 146011,
+      "num": 146011,
+      "word": "RNG称绝不解散",
+      "onboard_time": 1713001456,
+      "rank": 40,
+      "category": "电竞"
     },
     {
       "raw_hot": 145855,
@@ -16499,6 +16555,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 138704,
+      "num": 138704,
+      "word": "检验师考试",
+      "onboard_time": 1713003018,
+      "rank": 43,
+      "category": "教育"
+    },
+    {
       "raw_hot": 138657,
       "num": 138657,
       "word": "追风者 江西",
@@ -16939,14 +17003,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 133389,
-      "num": 133389,
-      "word": "熬夜的人身体会变臭",
-      "onboard_time": 1713000438,
-      "rank": 44,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 133237,
       "num": 133237,
       "word": "腾讯云称正在紧急修复",
@@ -17217,14 +17273,6 @@
       "onboard_time": 1712649080,
       "rank": 44,
       "category": "运动健身"
-    },
-    {
-      "raw_hot": 129727,
-      "num": 129727,
-      "word": "某幻 音乐节",
-      "onboard_time": 1713000737,
-      "rank": 46,
-      "category": "游戏,网红"
     },
     {
       "raw_hot": 129626,
@@ -17721,6 +17769,14 @@
       "onboard_time": 1712796019,
       "rank": 47,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 122367,
+      "num": 122367,
+      "word": "邓超是真的饿了",
+      "onboard_time": 1713000918,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 122204,
@@ -18361,6 +18417,14 @@
       "onboard_time": 1712741478,
       "rank": 48,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 106325,
+      "num": 121557,
+      "word": "lana 摩托后座",
+      "onboard_time": 1713001698,
+      "rank": 49,
+      "category": "演出"
     },
     {
       "raw_hot": 105795,
