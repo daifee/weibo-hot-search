@@ -1,6 +1,6 @@
 {
   "startTime": 1712938901785,
-  "endTime": 1712992549261,
+  "endTime": 1712993679809,
   "band_list": [
     {
       "raw_hot": 1883112,
@@ -123,6 +123,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 825295,
+      "num": 825295,
+      "word": "马嘉祺哥哥正脸曝光",
+      "onboard_time": 1712991377,
+      "rank": 3,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 812354,
       "num": 426186,
       "word": "网红猫一杯涉事公司监事回应处罚",
@@ -193,14 +201,6 @@
       "onboard_time": 1712968216,
       "rank": 5,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 671340,
-      "num": 671340,
-      "word": "马嘉祺哥哥正脸曝光",
-      "onboard_time": 1712991377,
-      "rank": 3,
-      "category": "综艺"
     },
     {
       "raw_hot": 652809,
@@ -281,6 +281,14 @@
       "onboard_time": 1712965876,
       "rank": 6,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 536247,
+      "num": 231283,
+      "word": "马上入编了家里却要拆迁",
+      "onboard_time": 1712991677,
+      "rank": 31,
+      "category": "幽默"
     },
     {
       "raw_hot": 524927,
@@ -449,14 +457,6 @@
       "onboard_time": 1712976496,
       "rank": 15,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 375184,
-      "num": 177256,
-      "word": "马上入编了家里却要拆迁",
-      "onboard_time": 1712991677,
-      "rank": 31,
-      "category": "幽默"
     },
     {
       "raw_hot": 366404,
@@ -851,6 +851,22 @@
       "category": "教育"
     },
     {
+      "raw_hot": 206890,
+      "num": 206890,
+      "word": "赵露思蓝猫妆",
+      "onboard_time": 1712992638,
+      "rank": 25,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 205099,
+      "num": 205099,
+      "word": "张馨予夸自己颧骨好美",
+      "onboard_time": 1712992458,
+      "rank": 49,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 204765,
       "num": 204765,
       "word": "杨迪埋怨吴奇隆丁程鑫",
@@ -865,6 +881,14 @@
       "onboard_time": 1712988675,
       "rank": 27,
       "category": "体育"
+    },
+    {
+      "raw_hot": 204225,
+      "num": 204225,
+      "word": "给奶奶买的金首饰戴在我弟弟身上",
+      "onboard_time": 1712988497,
+      "rank": 42,
+      "category": "情感"
     },
     {
       "raw_hot": 203246,
@@ -923,14 +947,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 196976,
-      "num": 196976,
-      "word": "给奶奶买的金首饰戴在我弟弟身上",
-      "onboard_time": 1712988497,
-      "rank": 42,
-      "category": "情感"
-    },
-    {
       "raw_hot": 194728,
       "num": 194728,
       "word": "西藏阿里地区发生5.2级地震",
@@ -953,6 +969,14 @@
       "onboard_time": 1712966296,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 193623,
+      "num": 188550,
+      "word": "同事去韩国出差第一天的伙食",
+      "onboard_time": 1712993297,
+      "rank": 30,
+      "category": "美食"
     },
     {
       "raw_hot": 193395,
@@ -1019,6 +1043,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 184747,
+      "num": 184747,
+      "word": "秦始皇帝陵何时能发掘",
+      "onboard_time": 1712991797,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 184050,
       "num": 184050,
       "word": "杨迪说张杰和檀健次送的东西都好有用",
@@ -1083,6 +1115,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 178758,
+      "num": 178758,
+      "word": "林更新从东北夹到台北",
+      "onboard_time": 1712992757,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 178717,
       "num": 178717,
       "word": "柯南动画最新话",
@@ -1105,14 +1145,6 @@
       "onboard_time": 1712979257,
       "rank": 33,
       "category": "财经"
-    },
-    {
-      "raw_hot": 175249,
-      "num": 175249,
-      "word": "秦始皇帝陵何时能发掘",
-      "onboard_time": 1712991797,
-      "rank": 32,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 174866,
@@ -1451,6 +1483,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 132613,
+      "num": 132613,
+      "word": "亚锦赛石宇奇无缘决赛",
+      "onboard_time": 1712993417,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 130430,
       "num": 130430,
       "word": "烈士牺牲时紧紧握着一张照片",
@@ -1644,7 +1684,7 @@
     },
     {
       "raw_hot": 109079,
-      "num": 177394,
+      "num": 181344,
       "word": "Joker脸在江山在",
       "onboard_time": 1712989398,
       "rank": 37,
@@ -1657,14 +1697,6 @@
       "onboard_time": 1712930419,
       "rank": 40,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 107940,
-      "num": 107940,
-      "word": "张馨予夸自己颧骨好美",
-      "onboard_time": 1712992458,
-      "rank": 49,
-      "category": "艺人"
     },
     {
       "raw_hot": 107237,
@@ -1891,6 +1923,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 39850,
+      "num": 249571,
+      "word": "同道大叔抽到了Joker",
+      "onboard_time": 1712990298,
+      "rank": 20,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 39730,
       "num": 39730,
       "word": "工藤新一 你的斗来了",
@@ -1923,11 +1963,11 @@
       "category": "电影"
     },
     {
-      "raw_hot": 30145,
-      "num": 249571,
-      "word": "同道大叔抽到了Joker",
-      "onboard_time": 1712990298,
-      "rank": 20,
+      "raw_hot": 31315,
+      "num": 144583,
+      "word": "最Joker的行为",
+      "onboard_time": 1712993177,
+      "rank": 37,
       "category": "游戏"
     },
     {
@@ -1975,6 +2015,9 @@
     },
     {
       "word": "#中国和苏里南友谊源远流长历久弥坚#"
+    },
+    {
+      "word": "#习近平总书记田间地头话农事#"
     }
   ]
 }

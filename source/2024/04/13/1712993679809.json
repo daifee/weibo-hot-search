@@ -1,0 +1,410 @@
+{
+  "runTime": 1712993679809,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1290490,
+        "num": 1290490,
+        "word": "金秀贤金智媛不再合体",
+        "onboard_time": 1712989517,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1107100,
+        "num": 1107100,
+        "word": "猫一杯2小时掉10万粉",
+        "onboard_time": 1712983578,
+        "rank": 1,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 348684,
+        "num": 827117,
+        "word": "炮制秦朗丢作业丢掉了什么",
+        "onboard_time": 1712981417,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 825295,
+        "num": 825295,
+        "word": "马嘉祺哥哥正脸曝光",
+        "onboard_time": 1712991377,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 561430,
+        "num": 561430,
+        "word": "首饰金价一夜大降10元每克",
+        "onboard_time": 1712982377,
+        "rank": 4,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 522956,
+        "num": 522956,
+        "word": "去医院检查千万别穿成这样",
+        "onboard_time": 1712979197,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 423727,
+        "num": 423727,
+        "word": "赵丽颖张一山在人间骑摩托路透",
+        "onboard_time": 1712989337,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 410027,
+        "num": 410027,
+        "word": "美国军舰为防备伊朗已部署到位",
+        "onboard_time": 1712987299,
+        "rank": 7,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 370720,
+        "num": 370720,
+        "word": "猫一杯 秦朗事件",
+        "onboard_time": 1712988136,
+        "rank": 8,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 327789,
+        "num": 361525,
+        "word": "妈妈称唐氏女儿在舞台上光彩四溢",
+        "onboard_time": 1712983398,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 779252,
+        "num": 350310,
+        "word": "汪苏泷 澳门酒吧",
+        "onboard_time": 1712986817,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 678048,
+        "num": 347369,
+        "word": "向佐一提郭碧婷就哭",
+        "onboard_time": 1712980457,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 518209,
+        "num": 331751,
+        "word": "黄雅莉晒生子前后四季对比照",
+        "onboard_time": 1712988197,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 329859,
+        "num": 329859,
+        "word": "马嘉祺有个双胞胎哥哥",
+        "onboard_time": 1712978057,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 290793,
+        "num": 290793,
+        "word": "鹿晗想自己做五哈",
+        "onboard_time": 1712987299,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 267911,
+        "num": 267911,
+        "word": "伊以冲突",
+        "onboard_time": 1712970677,
+        "rank": 15,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 267293,
+        "num": 267293,
+        "word": "只有王俊凯被通知穿西装",
+        "onboard_time": 1712984478,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 265305,
+        "num": 265305,
+        "word": "杨紫休息让我演两集",
+        "onboard_time": 1712988557,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 39850,
+        "num": 247277,
+        "word": "同道大叔抽到了Joker",
+        "onboard_time": 1712990298,
+        "rank": 18,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 236796,
+        "num": 236796,
+        "word": "西安打雷",
+        "onboard_time": 1712987418,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 536247,
+        "num": 231283,
+        "word": "马上入编了家里却要拆迁",
+        "onboard_time": 1712991677,
+        "rank": 20,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 259684,
+        "num": 228264,
+        "word": "杨立新遇害前承认婚内出轨怀孕",
+        "onboard_time": 1712969117,
+        "rank": 21,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 240041,
+        "num": 227883,
+        "word": "频繁早醒可能是病了",
+        "onboard_time": 1712987178,
+        "rank": 22,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 216448,
+        "num": 216448,
+        "word": "HLE对战T1",
+        "onboard_time": 1712990897,
+        "rank": 23,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 212835,
+        "num": 212835,
+        "word": "南昌天气",
+        "onboard_time": 1712990658,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 206890,
+        "num": 206890,
+        "word": "赵露思蓝猫妆",
+        "onboard_time": 1712992638,
+        "rank": 25,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 205099,
+        "num": 205099,
+        "word": "张馨予夸自己颧骨好美",
+        "onboard_time": 1712992458,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 204225,
+        "num": 204225,
+        "word": "给奶奶买的金首饰戴在我弟弟身上",
+        "onboard_time": 1712988497,
+        "rank": 27,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 194535,
+        "num": 194535,
+        "word": "为了涨500块工资问来问去",
+        "onboard_time": 1712985078,
+        "rank": 28,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 191353,
+        "num": 191353,
+        "word": "赵奕欢团队拿到乘风主题曲哭了",
+        "onboard_time": 1712989517,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 193623,
+        "num": 188550,
+        "word": "同事去韩国出差第一天的伙食",
+        "onboard_time": 1712993297,
+        "rank": 30,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 184747,
+        "num": 184747,
+        "word": "秦始皇帝陵何时能发掘",
+        "onboard_time": 1712991797,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 49580,
+        "num": 181344,
+        "word": "Joker脸在江山在",
+        "onboard_time": 1712989398,
+        "rank": 32,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 178758,
+        "num": 178758,
+        "word": "林更新从东北夹到台北",
+        "onboard_time": 1712992757,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 167963,
+        "num": 167963,
+        "word": "专八",
+        "onboard_time": 1712978416,
+        "rank": 34,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 158683,
+        "num": 158683,
+        "word": "科切拉音乐节",
+        "onboard_time": 1712989817,
+        "rank": 35,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 151685,
+        "num": 151685,
+        "word": "女生义乌10元买项链多年后未变色",
+        "onboard_time": 1712971877,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 31315,
+        "num": 144583,
+        "word": "最Joker的行为",
+        "onboard_time": 1712993177,
+        "rank": 37,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 137661,
+        "num": 137661,
+        "word": "是的 我和英专离婚了",
+        "onboard_time": 1712980338,
+        "rank": 38,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 132613,
+        "num": 132613,
+        "word": "亚锦赛石宇奇无缘决赛",
+        "onboard_time": 1712993417,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 131991,
+        "num": 131991,
+        "word": "周扬青活出了浪姐的本色",
+        "onboard_time": 1712988557,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 126231,
+        "num": 126231,
+        "word": "黄子韬徐艺洋吃同一块饼",
+        "onboard_time": 1712973496,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 121647,
+        "num": 121647,
+        "word": "导师打了14个电话叫我起床",
+        "onboard_time": 1712982618,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 120828,
+        "num": 120828,
+        "word": "四川最牛猫咪",
+        "onboard_time": 1712989757,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 116494,
+        "num": 116494,
+        "word": "西藏阿里地区发生5.2级地震",
+        "onboard_time": 1712988977,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 112645,
+        "num": 112645,
+        "word": "李昊赵小童直播",
+        "onboard_time": 1712990777,
+        "rank": 45,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 112286,
+        "num": 112286,
+        "word": "林更新听到安利与凤行害羞了",
+        "onboard_time": 1712989698,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 108659,
+        "num": 108659,
+        "word": "学校就喜欢把钱花在刀把上",
+        "onboard_time": 1712991977,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 104402,
+        "num": 104402,
+        "word": "Cat对战成都Wolves",
+        "onboard_time": 1712991858,
+        "rank": 48,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 104275,
+        "num": 104275,
+        "word": "华晨宇抢票",
+        "onboard_time": 1712988977,
+        "rank": 49,
+        "category": "演出"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平总书记田间地头话农事#"
+    }
+  }
+}
