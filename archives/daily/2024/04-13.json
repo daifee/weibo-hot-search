@@ -1,6 +1,6 @@
 {
   "startTime": 1712938901785,
-  "endTime": 1713008060294,
+  "endTime": 1713011285786,
   "band_list": [
     {
       "raw_hot": 2380031,
@@ -147,12 +147,28 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 1066354,
+      "num": 1066354,
+      "word": "保时捷撞车后女子砸门被行政拘留",
+      "onboard_time": 1713009318,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 984604,
       "num": 523410,
       "word": "杭州确诊一例狂犬病死亡几年前被狗咬",
       "onboard_time": 1712929938,
       "rank": 3,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 951659,
+      "num": 951659,
+      "word": "张一山银发",
+      "onboard_time": 1713006197,
+      "rank": 23,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 939177,
@@ -236,7 +252,7 @@
     },
     {
       "raw_hot": 791804,
-      "num": 1137932,
+      "num": 1194748,
       "word": "炮制秦朗丢作业丢掉了什么",
       "onboard_time": 1712981417,
       "rank": 29,
@@ -379,6 +395,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 555663,
+      "num": 555663,
+      "word": "RNG直播需付费观看",
+      "onboard_time": 1713006738,
+      "rank": 46,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 551912,
       "num": 551912,
       "word": "张予曦穿了贾静雯去年浪姐的衣服",
@@ -475,12 +499,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 501371,
+      "num": 501371,
+      "word": "伊朗扣押一艘和以色列相关货船",
+      "onboard_time": 1713007757,
+      "rank": 29,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 479856,
       "num": 479856,
       "word": "消息人士称伊朗或在24至48小时内袭击以色列",
       "onboard_time": 1712998818,
       "rank": 19,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 477844,
+      "num": 439575,
+      "word": "郑合惠子 垃圾堆里扒好东西",
+      "onboard_time": 1713010157,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 477809,
@@ -547,12 +587,28 @@
       "category": "演出"
     },
     {
+      "raw_hot": 442854,
+      "num": 442854,
+      "word": "于正不许王星越今年恋爱",
+      "onboard_time": 1713006678,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 441861,
       "num": 441861,
       "word": "散是满天星 合是神金病",
       "onboard_time": 1712978057,
       "rank": 47,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 439249,
+      "num": 439249,
+      "word": "成龙为刘浩存提裙摆",
+      "onboard_time": 1713009257,
+      "rank": 12,
+      "category": "电影"
     },
     {
       "raw_hot": 434708,
@@ -595,14 +651,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 409748,
-      "num": 409748,
-      "word": "于正不许王星越今年恋爱",
-      "onboard_time": 1713006678,
-      "rank": 45,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 403307,
       "num": 403307,
       "word": "乒协优化女队奥运选拔办法",
@@ -617,14 +665,6 @@
       "onboard_time": 1712987418,
       "rank": 11,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 399060,
-      "num": 399060,
-      "word": "RNG直播需付费观看",
-      "onboard_time": 1713006738,
-      "rank": 46,
-      "category": "电竞"
     },
     {
       "raw_hot": 398168,
@@ -753,14 +793,6 @@
       "onboard_time": 1712975656,
       "rank": 35,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 341514,
-      "num": 341514,
-      "word": "张一山银发",
-      "onboard_time": 1713006197,
-      "rank": 23,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 333571,
@@ -899,6 +931,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 300444,
+      "num": 294499,
+      "word": "彻底打消了去韩国旅游的念头",
+      "onboard_time": 1713011118,
+      "rank": 21,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 296716,
       "num": 296716,
       "word": "林更新被淋成狗",
@@ -1027,12 +1067,28 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 251646,
+      "num": 251646,
+      "word": "双北",
+      "onboard_time": 1713009437,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 249718,
       "num": 249718,
       "word": "赵奕欢团队拿到乘风主题曲哭了",
       "onboard_time": 1712989517,
       "rank": 22,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 248427,
+      "num": 248427,
+      "word": "警方回应保时捷女司机撞车恐吓被撞车主",
+      "onboard_time": 1713009919,
+      "rank": 26,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 246470,
@@ -1065,6 +1121,14 @@
       "onboard_time": 1712978237,
       "rank": 31,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 234082,
+      "num": 234082,
+      "word": "你好星期六",
+      "onboard_time": 1713010278,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 230278,
@@ -1323,6 +1387,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 194155,
+      "num": 194155,
+      "word": "周杰伦昆凌向花莲灾区捐款500万",
+      "onboard_time": 1713008718,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 193982,
       "num": 193982,
       "word": "眼泪女王",
@@ -1337,14 +1409,6 @@
       "onboard_time": 1712984418,
       "rank": 26,
       "category": "体育"
-    },
-    {
-      "raw_hot": 192713,
-      "num": 192713,
-      "word": "伊朗扣押一艘和以色列相关货船",
-      "onboard_time": 1713007757,
-      "rank": 29,
-      "category": "国外时政"
     },
     {
       "raw_hot": 192035,
@@ -1411,6 +1475,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 186118,
+      "num": 186118,
+      "word": "地狱开局 刚成年的父母",
+      "onboard_time": 1713007276,
+      "rank": 39,
+      "category": "情感"
+    },
+    {
       "raw_hot": 185583,
       "num": 185583,
       "word": "秦始皇帝陵何时能发掘",
@@ -1451,6 +1523,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 182983,
+      "num": 182983,
+      "word": "承欢记",
+      "onboard_time": 1713010998,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 181112,
       "num": 181112,
       "word": "英专生 五世同堂",
@@ -1489,6 +1569,14 @@
       "onboard_time": 1712989817,
       "rank": 29,
       "category": "演出"
+    },
+    {
+      "raw_hot": 179820,
+      "num": 179820,
+      "word": "班味最重的星座",
+      "onboard_time": 1713008778,
+      "rank": 35,
+      "category": "情感"
     },
     {
       "raw_hot": 179706,
@@ -1585,6 +1673,14 @@
       "onboard_time": 1713007037,
       "rank": 32,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 168807,
+      "num": 168807,
+      "word": "单身生活才是最爽的",
+      "onboard_time": 1713006318,
+      "rank": 40,
+      "category": "情感"
     },
     {
       "raw_hot": 168691,
@@ -1827,14 +1923,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 151254,
-      "num": 151254,
-      "word": "单身生活才是最爽的",
-      "onboard_time": 1713006318,
-      "rank": 40,
-      "category": "情感"
-    },
-    {
       "raw_hot": 151108,
       "num": 151108,
       "word": "惜花芷",
@@ -1979,14 +2067,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 141464,
-      "num": 141464,
-      "word": "地狱开局 刚成年的父母",
-      "onboard_time": 1713007276,
-      "rank": 39,
-      "category": "情感"
-    },
-    {
       "raw_hot": 140656,
       "num": 140656,
       "word": "王子变青蛙 世子变护院",
@@ -2073,6 +2153,14 @@
       "onboard_time": 1712923218,
       "rank": 31,
       "category": "网红"
+    },
+    {
+      "raw_hot": 132711,
+      "num": 132711,
+      "word": "厕所成为打工人短暂的避风港",
+      "onboard_time": 1713009859,
+      "rank": 40,
+      "category": "情感"
     },
     {
       "raw_hot": 132613,
@@ -2163,6 +2251,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 126382,
+      "num": 126382,
+      "word": "伤害牙齿的12个小习惯",
+      "onboard_time": 1713010397,
+      "rank": 43,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 124537,
       "num": 124537,
       "word": "恰存其适",
@@ -2243,6 +2339,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 119065,
+      "num": 119065,
+      "word": "不够善良的我们",
+      "onboard_time": 1713010998,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 117556,
       "num": 117556,
       "word": "洗洁精真的可以洗水果吗",
@@ -2305,6 +2409,22 @@
       "onboard_time": 1712932158,
       "rank": 36,
       "category": "演出"
+    },
+    {
+      "raw_hot": 112957,
+      "num": 112957,
+      "word": "侵权商家向杨幂道歉",
+      "onboard_time": 1713008597,
+      "rank": 48,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 110765,
+      "num": 110765,
+      "word": "才知道妈妈节育环戴了24年",
+      "onboard_time": 1713008778,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 109079,
