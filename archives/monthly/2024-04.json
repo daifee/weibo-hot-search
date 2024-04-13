@@ -1,6 +1,6 @@
 {
   "startTime": 1711902044401,
-  "endTime": 1712985533490,
+  "endTime": 1712986441675,
   "band_list": [
     {
       "raw_hot": 16874674,
@@ -673,6 +673,14 @@
       "onboard_time": 1712127921,
       "rank": 11,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 1761268,
+      "num": 1761268,
+      "word": "猫一杯2小时掉10万粉",
+      "onboard_time": 1712983578,
+      "rank": 0,
+      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 1759944,
@@ -1539,14 +1547,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 1349307,
-      "num": 1349307,
-      "word": "猫一杯2小时掉10万粉",
-      "onboard_time": 1712983578,
-      "rank": 0,
-      "category": "社会新闻,网红"
-    },
-    {
       "raw_hot": 1341302,
       "num": 1341302,
       "word": "溺亡大熊猫表面无明显人为伤",
@@ -2243,6 +2243,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 1122563,
+      "num": 1122563,
+      "word": "首饰金价一夜大降10元每克",
+      "onboard_time": 1712982377,
+      "rank": 15,
+      "category": "财经"
+    },
+    {
       "raw_hot": 1119515,
       "num": 1119515,
       "word": "热辣滚烫最终票房34.6亿",
@@ -2745,14 +2753,6 @@
       "onboard_time": 1712189416,
       "rank": 10,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1018641,
-      "num": 1018641,
-      "word": "首饰金价一夜大降10元每克",
-      "onboard_time": 1712982377,
-      "rank": 15,
-      "category": "财经"
     },
     {
       "raw_hot": 1015873,
@@ -4393,6 +4393,14 @@
       "onboard_time": 1712532975,
       "rank": 3,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 762968,
+      "num": 762968,
+      "word": "只有王俊凯被通知穿西装",
+      "onboard_time": 1712984478,
+      "rank": 7,
+      "category": "综艺"
     },
     {
       "raw_hot": 762582,
@@ -8051,14 +8059,6 @@
       "category": "军事,国外时政"
     },
     {
-      "raw_hot": 508370,
-      "num": 508370,
-      "word": "只有王俊凯被通知穿西装",
-      "onboard_time": 1712984478,
-      "rank": 7,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 506894,
       "num": 487714,
       "word": "为什么父母总把亲戚看得很重",
@@ -8129,6 +8129,14 @@
       "onboard_time": 1712329519,
       "rank": 25,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 504102,
+      "num": 203068,
+      "word": "为了涨500块工资问来问去",
+      "onboard_time": 1712985078,
+      "rank": 23,
+      "category": "幽默"
     },
     {
       "raw_hot": 504040,
@@ -10451,6 +10459,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 410764,
+      "num": 460580,
+      "word": "妈妈称唐氏女儿在舞台上光彩四溢",
+      "onboard_time": 1712983398,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 410397,
       "num": 410397,
       "word": "武磊",
@@ -12147,14 +12163,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 348787,
-      "num": 460580,
-      "word": "妈妈称唐氏女儿在舞台上光彩四溢",
-      "onboard_time": 1712983398,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 348415,
       "num": 348415,
       "word": "十万天神同祝的婚礼",
@@ -13017,6 +13025,14 @@
       "onboard_time": 1712116041,
       "rank": 28,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 324689,
+      "num": 324689,
+      "word": "鹿晗狂泼邓超",
+      "onboard_time": 1712985318,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 324311,
@@ -14617,14 +14633,6 @@
       "onboard_time": 1712027719,
       "rank": 32,
       "category": "体育"
-    },
-    {
-      "raw_hot": 287649,
-      "num": 203068,
-      "word": "为了涨500块工资问来问去",
-      "onboard_time": 1712985078,
-      "rank": 23,
-      "category": "幽默"
     },
     {
       "raw_hot": 287605,
@@ -20715,6 +20723,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 203371,
+      "num": 174733,
+      "word": "何洁好癫",
+      "onboard_time": 1712986219,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 203354,
       "num": 203354,
       "word": "牛春苗为什么没全国海选",
@@ -24243,6 +24259,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 181112,
+      "num": 181112,
+      "word": "英专生 五世同堂",
+      "onboard_time": 1712981537,
+      "rank": 35,
+      "category": "教育"
+    },
+    {
       "raw_hot": 180888,
       "num": 180888,
       "word": "小事J人大事P人",
@@ -24265,14 +24289,6 @@
       "onboard_time": 1711952421,
       "rank": 47,
       "category": "电影"
-    },
-    {
-      "raw_hot": 180615,
-      "num": 180615,
-      "word": "英专生 五世同堂",
-      "onboard_time": 1712981537,
-      "rank": 35,
-      "category": "教育"
     },
     {
       "raw_hot": 180582,
@@ -27155,14 +27171,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 157753,
-      "num": 157753,
-      "word": "鹿晗狂泼邓超",
-      "onboard_time": 1712985318,
-      "rank": 36,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 157695,
       "num": 157695,
       "word": "领导你看我的午饭方不方",
@@ -29297,6 +29305,14 @@
       "onboard_time": 1712058620,
       "rank": 41,
       "category": "电竞,网红"
+    },
+    {
+      "raw_hot": 142600,
+      "num": 142600,
+      "word": "何冰娇锁定国羽女单奥运名额",
+      "onboard_time": 1712985677,
+      "rank": 32,
+      "category": "体育"
     },
     {
       "raw_hot": 142582,
@@ -34283,7 +34299,7 @@
       "category": "数码"
     },
     {
-      "raw_hot": 67518,
+      "raw_hot": 67555,
       "num": 460543,
       "word": "蛋仔dongdong全民票选",
       "onboard_time": 1712982018,

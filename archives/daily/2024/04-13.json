@@ -1,6 +1,6 @@
 {
   "startTime": 1712938901785,
-  "endTime": 1712985533490,
+  "endTime": 1712986441675,
   "band_list": [
     {
       "raw_hot": 1883112,
@@ -9,6 +9,14 @@
       "onboard_time": 1712969117,
       "rank": 0,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1761268,
+      "num": 1761268,
+      "word": "猫一杯2小时掉10万粉",
+      "onboard_time": 1712983578,
+      "rank": 0,
+      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 1759944,
@@ -43,14 +51,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 1349307,
-      "num": 1349307,
-      "word": "猫一杯2小时掉10万粉",
-      "onboard_time": 1712983578,
-      "rank": 0,
-      "category": "社会新闻,网红"
-    },
-    {
       "raw_hot": 1215293,
       "num": 1215293,
       "word": "女生义乌10元买项链多年后未变色",
@@ -67,20 +67,20 @@
       "category": "情感,网红"
     },
     {
+      "raw_hot": 1122563,
+      "num": 1122563,
+      "word": "首饰金价一夜大降10元每克",
+      "onboard_time": 1712982377,
+      "rank": 15,
+      "category": "财经"
+    },
+    {
       "raw_hot": 1113948,
       "num": 1113948,
       "word": "专八",
       "onboard_time": 1712978416,
       "rank": 1,
       "category": "教育"
-    },
-    {
-      "raw_hot": 1018641,
-      "num": 1018641,
-      "word": "首饰金价一夜大降10元每克",
-      "onboard_time": 1712982377,
-      "rank": 15,
-      "category": "财经"
     },
     {
       "raw_hot": 984604,
@@ -137,6 +137,14 @@
       "onboard_time": 1712981417,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 762968,
+      "num": 762968,
+      "word": "只有王俊凯被通知穿西装",
+      "onboard_time": 1712984478,
+      "rank": 7,
+      "category": "综艺"
     },
     {
       "raw_hot": 746784,
@@ -243,20 +251,20 @@
       "category": "情感"
     },
     {
-      "raw_hot": 508370,
-      "num": 508370,
-      "word": "只有王俊凯被通知穿西装",
-      "onboard_time": 1712984478,
-      "rank": 7,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 505332,
       "num": 505332,
       "word": "马丽获奖感言",
       "onboard_time": 1712965576,
       "rank": 11,
       "category": "电影"
+    },
+    {
+      "raw_hot": 504102,
+      "num": 203068,
+      "word": "为了涨500块工资问来问去",
+      "onboard_time": 1712985078,
+      "rank": 23,
+      "category": "幽默"
     },
     {
       "raw_hot": 503022,
@@ -329,6 +337,14 @@
       "onboard_time": 1712910078,
       "rank": 6,
       "category": "网红"
+    },
+    {
+      "raw_hot": 410764,
+      "num": 460580,
+      "word": "妈妈称唐氏女儿在舞台上光彩四溢",
+      "onboard_time": 1712983398,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 403307,
@@ -411,14 +427,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 348787,
-      "num": 460580,
-      "word": "妈妈称唐氏女儿在舞台上光彩四溢",
-      "onboard_time": 1712983398,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 348010,
       "num": 348010,
       "word": "杨洋摘面具",
@@ -448,6 +456,14 @@
       "word": "宋轶何超莲朝鲜服氛围感",
       "onboard_time": 1712976018,
       "rank": 11,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 324689,
+      "num": 324689,
+      "word": "鹿晗狂泼邓超",
+      "onboard_time": 1712985318,
+      "rank": 36,
       "category": "综艺"
     },
     {
@@ -537,14 +553,6 @@
       "onboard_time": 1712977817,
       "rank": 31,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 287649,
-      "num": 203068,
-      "word": "为了涨500块工资问来问去",
-      "onboard_time": 1712985078,
-      "rank": 23,
-      "category": "幽默"
     },
     {
       "raw_hot": 286264,
@@ -715,6 +723,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 203371,
+      "num": 174733,
+      "word": "何洁好癫",
+      "onboard_time": 1712986219,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 203246,
       "num": 203246,
       "word": "王俊凯单手抱猫",
@@ -867,8 +883,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 180615,
-      "num": 180615,
+      "raw_hot": 181112,
+      "num": 181112,
       "word": "英专生 五世同堂",
       "onboard_time": 1712981537,
       "rank": 35,
@@ -1003,14 +1019,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 157753,
-      "num": 157753,
-      "word": "鹿晗狂泼邓超",
-      "onboard_time": 1712985318,
-      "rank": 36,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 156763,
       "num": 156763,
       "word": "张杰南昌遗憾变圆满",
@@ -1121,6 +1129,14 @@
       "onboard_time": 1712983038,
       "rank": 42,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 142600,
+      "num": 142600,
+      "word": "何冰娇锁定国羽女单奥运名额",
+      "onboard_time": 1712985677,
+      "rank": 32,
+      "category": "体育"
     },
     {
       "raw_hot": 142497,
@@ -1265,6 +1281,14 @@
       "onboard_time": 1712973258,
       "rank": 44,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 120997,
+      "num": 120997,
+      "word": "盒子里的猫",
+      "onboard_time": 1712986398,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 120996,
@@ -1515,7 +1539,7 @@
       "category": "财经"
     },
     {
-      "raw_hot": 67518,
+      "raw_hot": 67555,
       "num": 460543,
       "word": "蛋仔dongdong全民票选",
       "onboard_time": 1712982018,
