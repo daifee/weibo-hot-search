@@ -1,6 +1,6 @@
 {
   "startTime": 1712420539476,
-  "endTime": 1713015250419,
+  "endTime": 1713017715257,
   "band_list": [
     {
       "raw_hot": 9583581,
@@ -281,6 +281,14 @@
       "onboard_time": 1712656038,
       "rank": 0,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1886848,
+      "num": 998468,
+      "word": "纪凌尘祝阚清子幸福",
+      "onboard_time": 1713016579,
+      "rank": 3,
+      "category": "综艺"
     },
     {
       "raw_hot": 1883112,
@@ -835,6 +843,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 1277128,
+      "num": 394229,
+      "word": "纪凌尘说蹭阚清子热度是事实",
+      "onboard_time": 1713016519,
+      "rank": 8,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1274371,
       "num": 1274371,
       "word": "谢帝",
@@ -1081,6 +1097,14 @@
       "onboard_time": 1712966898,
       "rank": 10,
       "category": "情感,网红"
+    },
+    {
+      "raw_hot": 1159665,
+      "num": 1159665,
+      "word": "钟美美母亲曾被父亲打骨折",
+      "onboard_time": 1713013818,
+      "rank": 28,
+      "category": "网红"
     },
     {
       "raw_hot": 1158036,
@@ -1715,6 +1739,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 919169,
+      "num": 385165,
+      "word": "猫一杯旗下品牌发货售后正常",
+      "onboard_time": 1713015020,
+      "rank": 35,
+      "category": "网红"
+    },
+    {
       "raw_hot": 919040,
       "num": 919040,
       "word": "小米SU7跑滴滴",
@@ -1899,6 +1931,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 870379,
+      "num": 838085,
+      "word": "陈卓璇体重只有74斤",
+      "onboard_time": 1713013638,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 869834,
       "num": 869834,
       "word": "coser以为对方是cos记者",
@@ -1993,14 +2033,6 @@
       "onboard_time": 1712736918,
       "rank": 21,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 838085,
-      "num": 838085,
-      "word": "陈卓璇体重只有74斤",
-      "onboard_time": 1713013638,
-      "rank": 13,
-      "category": "艺人"
     },
     {
       "raw_hot": 836350,
@@ -3051,14 +3083,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 662376,
-      "num": 552557,
-      "word": "钟美美母亲曾被父亲打骨折",
-      "onboard_time": 1713013818,
-      "rank": 28,
-      "category": "网红"
-    },
-    {
       "raw_hot": 661570,
       "num": 661570,
       "word": "宫崎骏 再见了我的朋友",
@@ -3417,6 +3441,14 @@
       "onboard_time": 1712883679,
       "rank": 13,
       "category": "教育"
+    },
+    {
+      "raw_hot": 616415,
+      "num": 439860,
+      "word": "不要再把月经称为那个了",
+      "onboard_time": 1713014779,
+      "rank": 14,
+      "category": "情感"
     },
     {
       "raw_hot": 615536,
@@ -4243,6 +4275,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 524984,
+      "num": 352560,
+      "word": "张靓颖 老娘没有唱破音",
+      "onboard_time": 1713015497,
+      "rank": 20,
+      "category": "演出"
+    },
+    {
       "raw_hot": 524927,
       "num": 524927,
       "word": "男子电梯内殴打女友被刑拘",
@@ -4268,7 +4308,7 @@
     },
     {
       "raw_hot": 519016,
-      "num": 294499,
+      "num": 343868,
       "word": "彻底打消了去韩国旅游的念头",
       "onboard_time": 1713011118,
       "rank": 21,
@@ -4785,6 +4825,14 @@
       "onboard_time": 1712468779,
       "rank": 30,
       "category": "情感"
+    },
+    {
+      "raw_hot": 481229,
+      "num": 349671,
+      "word": "薛之谦发型一半清汤一半麻辣",
+      "onboard_time": 1713012738,
+      "rank": 25,
+      "category": "演出"
     },
     {
       "raw_hot": 480222,
@@ -5500,7 +5548,7 @@
     },
     {
       "raw_hot": 434252,
-      "num": 272992,
+      "num": 347889,
       "word": "微信被拉黑删除和被屏蔽的区别",
       "onboard_time": 1713012018,
       "rank": 48,
@@ -5803,20 +5851,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 406891,
-      "num": 439860,
-      "word": "不要再把月经称为那个了",
-      "onboard_time": 1713014779,
-      "rank": 14,
-      "category": "情感"
-    },
-    {
       "raw_hot": 406840,
       "num": 406840,
       "word": "鞠婧祎演技",
       "onboard_time": 1712591598,
       "rank": 13,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 405986,
+      "num": 360755,
+      "word": "AG 现场复盘",
+      "onboard_time": 1713014658,
+      "rank": 31,
+      "category": "电竞"
     },
     {
       "raw_hot": 405504,
@@ -5963,11 +6011,11 @@
       "category": "情感"
     },
     {
-      "raw_hot": 393058,
-      "num": 267934,
-      "word": "薛之谦发型一半清汤一半麻辣",
-      "onboard_time": 1713012738,
-      "rank": 25,
+      "raw_hot": 392604,
+      "num": 324579,
+      "word": "许嵩演唱会 没有嘉宾",
+      "onboard_time": 1713017540,
+      "rank": 31,
       "category": "演出"
     },
     {
@@ -6483,6 +6531,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 360412,
+      "num": 360412,
+      "word": "KSG对战AG",
+      "onboard_time": 1713011957,
+      "rank": 32,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 359532,
       "num": 359532,
       "word": "黄金大涨后白银也被买断货了",
@@ -6827,6 +6883,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 345140,
+      "num": 345140,
+      "word": "许嵩唱了断桥残雪",
+      "onboard_time": 1713013699,
+      "rank": 31,
+      "category": "演出"
+    },
+    {
       "raw_hot": 344830,
       "num": 278373,
       "word": "进体制内还能追星吗",
@@ -6836,7 +6900,7 @@
     },
     {
       "raw_hot": 343892,
-      "num": 192774,
+      "num": 268690,
       "word": "种地吧母带",
       "onboard_time": 1713012258,
       "rank": 26,
@@ -7179,14 +7243,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 326609,
-      "num": 191110,
-      "word": "AG 现场复盘",
-      "onboard_time": 1713014658,
-      "rank": 31,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 326397,
       "num": 326397,
       "word": "金娘子唱年轮",
@@ -7507,6 +7563,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 313308,
+      "num": 313308,
+      "word": "张杰雨中唱泡沫破碎感",
+      "onboard_time": 1713015559,
+      "rank": 32,
+      "category": "演出"
+    },
+    {
       "raw_hot": 313179,
       "num": 313179,
       "word": "沈璃在爱里生出了神性",
@@ -7699,6 +7763,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 306073,
+      "num": 358267,
+      "word": "38块钱居然能吃20个菜",
+      "onboard_time": 1713016880,
+      "rank": 18,
+      "category": "美食"
+    },
+    {
       "raw_hot": 305973,
       "num": 305973,
       "word": "女神异闻录",
@@ -7785,14 +7857,6 @@
       "onboard_time": 1712451079,
       "rank": 25,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 301856,
-      "num": 189794,
-      "word": "许嵩唱了断桥残雪",
-      "onboard_time": 1713013699,
-      "rank": 31,
-      "category": "演出"
     },
     {
       "raw_hot": 301848,
@@ -8251,14 +8315,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 285524,
-      "num": 188878,
-      "word": "猫一杯旗下品牌发货售后正常",
-      "onboard_time": 1713015020,
-      "rank": 35,
-      "category": "网红"
-    },
-    {
       "raw_hot": 285260,
       "num": 259168,
       "word": "怎么面对婆婆廉价的好意",
@@ -8345,6 +8401,14 @@
       "onboard_time": 1712992458,
       "rank": 49,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 282331,
+      "num": 282331,
+      "word": "张艺兴丁程鑫斗舞",
+      "onboard_time": 1713016519,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 282171,
@@ -8572,7 +8636,7 @@
     },
     {
       "raw_hot": 273850,
-      "num": 186002,
+      "num": 231953,
       "word": "韩小圈翻译快点",
       "onboard_time": 1713014418,
       "rank": 36,
@@ -9259,6 +9323,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 252524,
+      "num": 325381,
+      "word": "荔枝和龙眼杂交出来的新水果",
+      "onboard_time": 1713011418,
+      "rank": 46,
+      "category": "美食"
+    },
+    {
       "raw_hot": 252469,
       "num": 234298,
       "word": "威尔史密斯为成龙庆生",
@@ -9795,6 +9867,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 240115,
+      "num": 271943,
+      "word": "赵露思妆容解析",
+      "onboard_time": 1713016579,
+      "rank": 34,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 239979,
       "num": 239979,
       "word": "妈妈想和你长相守有错吗",
@@ -10289,6 +10369,14 @@
       "onboard_time": 1712727377,
       "rank": 24,
       "category": "财经"
+    },
+    {
+      "raw_hot": 227558,
+      "num": 268032,
+      "word": "你知道下乡给老人拍照有多赚吗",
+      "onboard_time": 1713015137,
+      "rank": 39,
+      "category": "情感"
     },
     {
       "raw_hot": 227496,
@@ -11331,6 +11419,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 207001,
+      "num": 265202,
+      "word": "他一辈子都忘不掉这一天",
+      "onboard_time": 1713017000,
+      "rank": 37,
+      "category": "情感"
+    },
+    {
       "raw_hot": 206972,
       "num": 206972,
       "word": "小丑2首支预告",
@@ -11673,14 +11769,6 @@
       "onboard_time": 1712761281,
       "rank": 38,
       "category": "体育"
-    },
-    {
-      "raw_hot": 204093,
-      "num": 204093,
-      "word": "荔枝和龙眼杂交出来的新水果",
-      "onboard_time": 1713011418,
-      "rank": 46,
-      "category": "美食"
     },
     {
       "raw_hot": 204079,
@@ -12299,14 +12387,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 198625,
-      "num": 198625,
-      "word": "KSG对战AG",
-      "onboard_time": 1713011957,
-      "rank": 32,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 198540,
       "num": 198540,
       "word": "时代少年团这是我的岛开播海报",
@@ -12473,6 +12553,14 @@
       "onboard_time": 1712932037,
       "rank": 24,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 195658,
+      "num": 262226,
+      "word": "离婚也可以是一件好事",
+      "onboard_time": 1713015980,
+      "rank": 38,
+      "category": "情感"
     },
     {
       "raw_hot": 195497,
@@ -13867,14 +13955,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 180655,
-      "num": 180655,
-      "word": "你知道下乡给老人拍照有多赚吗",
-      "onboard_time": 1713015137,
-      "rank": 39,
-      "category": "情感"
-    },
-    {
       "raw_hot": 180582,
       "num": 180582,
       "word": "旅游到底是吃重要还是住重要",
@@ -15089,6 +15169,14 @@
       "onboard_time": 1712842818,
       "rank": 39,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 163590,
+      "num": 325197,
+      "word": "纽卡4比0热刺",
+      "onboard_time": 1713016759,
+      "rank": 28,
+      "category": "体育"
     },
     {
       "raw_hot": 163546,
@@ -18939,6 +19027,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 108901,
+      "num": 152226,
+      "word": "曼城vs卢顿",
+      "onboard_time": 1713017480,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 108214,
       "num": 108214,
       "word": "张艺凡樱花少女",
@@ -20260,7 +20356,7 @@
     },
     {
       "raw_hot": 43238,
-      "num": 261373,
+      "num": 381778,
       "word": "娜然魏哲鸣王子奇甲板看秀",
       "onboard_time": 1713014299,
       "rank": 22,

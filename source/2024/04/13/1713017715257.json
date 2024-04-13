@@ -1,0 +1,410 @@
+{
+  "runTime": 1713017715257,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1235072,
+        "num": 1235072,
+        "word": "Thurman猫一杯视频号被封",
+        "onboard_time": 1713005717,
+        "rank": 0,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 1159665,
+        "num": 1159665,
+        "word": "钟美美母亲曾被父亲打骨折",
+        "onboard_time": 1713013818,
+        "rank": 1,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 65413,
+        "num": 1006807,
+        "word": "炮制秦朗丢作业丢掉了什么",
+        "onboard_time": 1712981417,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1886848,
+        "num": 998468,
+        "word": "纪凌尘祝阚清子幸福",
+        "onboard_time": 1713016579,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 940991,
+        "num": 940991,
+        "word": "眼泪女王 不会要be吧",
+        "onboard_time": 1713013097,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 530318,
+        "num": 530318,
+        "word": "伊朗对美国发出警告",
+        "onboard_time": 1713011357,
+        "rank": 5,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 482761,
+        "num": 482761,
+        "word": "保时捷撞车后女子砸门被行政拘留",
+        "onboard_time": 1713009318,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 396832,
+        "num": 396832,
+        "word": "绝大部分人感染HPV后会自愈",
+        "onboard_time": 1712994977,
+        "rank": 7,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 1277128,
+        "num": 394229,
+        "word": "纪凌尘说蹭阚清子热度是事实",
+        "onboard_time": 1713016519,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 243913,
+        "num": 390467,
+        "word": "男子养了20年的海龟竟是国保玳瑁",
+        "onboard_time": 1713001817,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 919169,
+        "num": 385165,
+        "word": "猫一杯旗下品牌发货售后正常",
+        "onboard_time": 1713015020,
+        "rank": 10,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 16649,
+        "num": 381778,
+        "word": "娜然魏哲鸣王子奇甲板看秀",
+        "onboard_time": 1713014299,
+        "rank": 11,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 705957,
+        "num": 378781,
+        "word": "金秀贤金智媛不再合体",
+        "onboard_time": 1712989517,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 682223,
+        "num": 373096,
+        "word": "郑合惠子 垃圾堆里扒好东西",
+        "onboard_time": 1713010157,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 616415,
+        "num": 371982,
+        "word": "不要再把月经称为那个了",
+        "onboard_time": 1713014779,
+        "rank": 14,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 583689,
+        "num": 364517,
+        "word": "赵丽颖沙滩照",
+        "onboard_time": 1713012738,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 405986,
+        "num": 360755,
+        "word": "AG 现场复盘",
+        "onboard_time": 1713014658,
+        "rank": 16,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 360412,
+        "num": 360412,
+        "word": "KSG对战AG",
+        "onboard_time": 1713011957,
+        "rank": 17,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 306073,
+        "num": 358267,
+        "word": "38块钱居然能吃20个菜",
+        "onboard_time": 1713016880,
+        "rank": 18,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 231107,
+        "num": 355301,
+        "word": "伊朗扣押一艘和以色列相关货船",
+        "onboard_time": 1713007757,
+        "rank": 19,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 524984,
+        "num": 352560,
+        "word": "张靓颖 老娘没有唱破音",
+        "onboard_time": 1713015497,
+        "rank": 20,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 481229,
+        "num": 349671,
+        "word": "薛之谦发型一半清汤一半麻辣",
+        "onboard_time": 1713012738,
+        "rank": 21,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 407526,
+        "num": 347889,
+        "word": "微信被拉黑删除和被屏蔽的区别",
+        "onboard_time": 1713012018,
+        "rank": 22,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 345140,
+        "num": 345140,
+        "word": "许嵩唱了断桥残雪",
+        "onboard_time": 1713013699,
+        "rank": 23,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 312879,
+        "num": 343868,
+        "word": "彻底打消了去韩国旅游的念头",
+        "onboard_time": 1713011118,
+        "rank": 24,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 343527,
+        "num": 343527,
+        "word": "赵丽颖说谢谢狗哥",
+        "onboard_time": 1713000498,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 326818,
+        "num": 326818,
+        "word": "海仁表白",
+        "onboard_time": 1713012859,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 252524,
+        "num": 325381,
+        "word": "荔枝和龙眼杂交出来的新水果",
+        "onboard_time": 1713011418,
+        "rank": 27,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 163590,
+        "num": 325197,
+        "word": "纽卡4比0热刺",
+        "onboard_time": 1713016759,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 152722,
+        "num": 325080,
+        "word": "伊朗",
+        "onboard_time": 1712996656,
+        "rank": 29,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 325071,
+        "num": 325071,
+        "word": "眼泪女王",
+        "onboard_time": 1713012018,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 392604,
+        "num": 324579,
+        "word": "许嵩演唱会 没有嘉宾",
+        "onboard_time": 1713017540,
+        "rank": 31,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 313308,
+        "num": 313308,
+        "word": "张杰雨中唱泡沫破碎感",
+        "onboard_time": 1713015559,
+        "rank": 32,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 282331,
+        "num": 282331,
+        "word": "张艺兴丁程鑫斗舞",
+        "onboard_time": 1713016519,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 240115,
+        "num": 271943,
+        "word": "赵露思妆容解析",
+        "onboard_time": 1713016579,
+        "rank": 34,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 268690,
+        "num": 268690,
+        "word": "种地吧母带",
+        "onboard_time": 1713012258,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 227558,
+        "num": 268032,
+        "word": "你知道下乡给老人拍照有多赚吗",
+        "onboard_time": 1713015137,
+        "rank": 36,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 207001,
+        "num": 265202,
+        "word": "他一辈子都忘不掉这一天",
+        "onboard_time": 1713017000,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 195658,
+        "num": 262226,
+        "word": "离婚也可以是一件好事",
+        "onboard_time": 1713015980,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 141782,
+        "num": 259848,
+        "word": "伊朗称美若干预伊以纷争将打击美军",
+        "onboard_time": 1713006378,
+        "rank": 39,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 258746,
+        "num": 258746,
+        "word": "张一山银发",
+        "onboard_time": 1713006197,
+        "rank": 40,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 248033,
+        "num": 248033,
+        "word": "承欢记",
+        "onboard_time": 1713010998,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 870379,
+        "num": 245805,
+        "word": "陈卓璇体重只有74斤",
+        "onboard_time": 1713013638,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 241406,
+        "num": 241406,
+        "word": "苏打绿演唱会 盗摄",
+        "onboard_time": 1713011957,
+        "rank": 43,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 240130,
+        "num": 240130,
+        "word": "成龙为刘浩存提裙摆",
+        "onboard_time": 1713009257,
+        "rank": 44,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 231953,
+        "num": 231953,
+        "word": "韩小圈翻译快点",
+        "onboard_time": 1713014418,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 158218,
+        "num": 158218,
+        "word": "RNG直播需付费观看",
+        "onboard_time": 1713006738,
+        "rank": 46,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 153271,
+        "num": 153271,
+        "word": "某幻 音乐节",
+        "onboard_time": 1713000737,
+        "rank": 47,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 126059,
+        "num": 152864,
+        "word": "猫一杯 秦朗事件",
+        "onboard_time": 1712988136,
+        "rank": 48,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 108901,
+        "num": 152226,
+        "word": "曼城vs卢顿",
+        "onboard_time": 1713017480,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#相知无远近万里尚为邻#"
+    }
+  }
+}
