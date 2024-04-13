@@ -1,6 +1,6 @@
 {
   "startTime": 1711902044401,
-  "endTime": 1712997318682,
+  "endTime": 1712999654583,
   "band_list": [
     {
       "raw_hot": 16874674,
@@ -1883,6 +1883,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 1228171,
+      "num": 1228171,
+      "word": "江西师大虐猫男生被开除学籍",
+      "onboard_time": 1712997857,
+      "rank": 0,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1226707,
       "num": 1226707,
       "word": "仝卓工作室直播了",
@@ -2449,6 +2457,14 @@
       "onboard_time": 1712227098,
       "rank": 3,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1074915,
+      "num": 1074915,
+      "word": "绝大部分人感染HPV后会自愈",
+      "onboard_time": 1712994977,
+      "rank": 19,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 1070106,
@@ -4627,6 +4643,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 741330,
+      "num": 741330,
+      "word": "留意侧躺玩手机后的眼睛变化",
+      "onboard_time": 1712997065,
+      "rank": 45,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 738115,
       "num": 738115,
       "word": "凤凰传奇抢票",
@@ -6435,6 +6459,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 606855,
+      "num": 606855,
+      "word": "成毅晒面摊",
+      "onboard_time": 1712996178,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 605850,
       "num": 605850,
       "word": "尚雯婕复旦毕业20年经历",
@@ -6897,14 +6929,6 @@
       "onboard_time": 1712905578,
       "rank": 35,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 578726,
-      "num": 578726,
-      "word": "绝大部分人感染HPV后会自愈",
-      "onboard_time": 1712994977,
-      "rank": 19,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 578526,
@@ -7588,7 +7612,7 @@
     },
     {
       "raw_hot": 536247,
-      "num": 244498,
+      "num": 264974,
       "word": "马上入编了家里却要拆迁",
       "onboard_time": 1712991677,
       "rank": 31,
@@ -8835,6 +8859,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 477809,
+      "num": 477809,
+      "word": "赵丽颖片场压腿",
+      "onboard_time": 1712997617,
+      "rank": 10,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 477512,
       "num": 568105,
       "word": "一种娇妻文化似乎正在北美蔓延",
@@ -9449,6 +9481,14 @@
       "onboard_time": 1712828537,
       "rank": 9,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 451026,
+      "num": 369029,
+      "word": "赵丽颖用录音告别与凤行",
+      "onboard_time": 1712999357,
+      "rank": 15,
+      "category": "剧集"
     },
     {
       "raw_hot": 450930,
@@ -10564,7 +10604,7 @@
     },
     {
       "raw_hot": 410764,
-      "num": 482251,
+      "num": 482666,
       "word": "妈妈称唐氏女儿在舞台上光彩四溢",
       "onboard_time": 1712983398,
       "rank": 9,
@@ -11804,7 +11844,7 @@
     },
     {
       "raw_hot": 362884,
-      "num": 243074,
+      "num": 255761,
       "word": "同事去韩国出差第一天的伙食",
       "onboard_time": 1712993297,
       "rank": 30,
@@ -13121,6 +13161,14 @@
       "onboard_time": 1712729839,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 325302,
+      "num": 263214,
+      "word": "朋友圈置顶是所有人可见吗",
+      "onboard_time": 1712998818,
+      "rank": 22,
+      "category": "情感"
     },
     {
       "raw_hot": 325271,
@@ -15515,6 +15563,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 272463,
+      "num": 272463,
+      "word": "鸭头冲进鹿晗怀里",
+      "onboard_time": 1712996299,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 272421,
       "num": 258056,
       "word": "马上就知道六天有多长了",
@@ -15747,14 +15803,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 268141,
-      "num": 268141,
-      "word": "成毅晒面摊",
-      "onboard_time": 1712996178,
-      "rank": 39,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 268119,
       "num": 268119,
       "word": "曾黎谈与赵丽颖林更新合作的感受",
@@ -15985,6 +16033,14 @@
       "onboard_time": 1712046860,
       "rank": 49,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 262232,
+      "num": 262232,
+      "word": "鹿晗黄子韬新歌上线",
+      "onboard_time": 1712999057,
+      "rank": 23,
+      "category": "音乐"
     },
     {
       "raw_hot": 262197,
@@ -21587,6 +21643,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 199507,
+      "num": 271746,
+      "word": "消息人士称伊朗或在24至48小时内袭击以色列",
+      "onboard_time": 1712998818,
+      "rank": 19,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 199489,
       "num": 199489,
       "word": "衡门有狐",
@@ -23769,6 +23833,14 @@
       "onboard_time": 1712405239,
       "rank": 45,
       "category": "演出"
+    },
+    {
+      "raw_hot": 186429,
+      "num": 186429,
+      "word": "ILLIT一位安可",
+      "onboard_time": 1712999299,
+      "rank": 27,
+      "category": "音乐"
     },
     {
       "raw_hot": 186400,
@@ -26371,6 +26443,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 165242,
+      "num": 165242,
+      "word": "进体制内还能追星吗",
+      "onboard_time": 1712999598,
+      "rank": 31,
+      "category": "情感"
+    },
+    {
       "raw_hot": 165192,
       "num": 165192,
       "word": "做CT原来是把小猫做成罐头",
@@ -26465,6 +26545,14 @@
       "onboard_time": 1712210478,
       "rank": 35,
       "category": "电影"
+    },
+    {
+      "raw_hot": 164397,
+      "num": 164397,
+      "word": "迪丽热巴室内戏路透",
+      "onboard_time": 1712997137,
+      "rank": 43,
+      "category": "剧集"
     },
     {
       "raw_hot": 164308,
@@ -27771,6 +27859,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 155507,
+      "num": 155507,
+      "word": "黑执事 恶魔帅回来了",
+      "onboard_time": 1712998218,
+      "rank": 34,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 155294,
       "num": 155294,
       "word": "李汶翰0722 别告我",
@@ -28043,6 +28139,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 153343,
+      "num": 153343,
+      "word": "邓紫棋演唱会主办方回应持票进场遭拒",
+      "onboard_time": 1712998818,
+      "rank": 36,
+      "category": "演出"
+    },
+    {
       "raw_hot": 153240,
       "num": 153240,
       "word": "网友清明拍到小米SU7纸扎版",
@@ -28057,6 +28161,14 @@
       "onboard_time": 1712061679,
       "rank": 37,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 153212,
+      "num": 153212,
+      "word": "原来高中时的肠鸣是焦虑症躯体化",
+      "onboard_time": 1712998397,
+      "rank": 37,
+      "category": "情感"
     },
     {
       "raw_hot": 153181,
@@ -28177,14 +28289,6 @@
       "onboard_time": 1712575700,
       "rank": 35,
       "category": "美食"
-    },
-    {
-      "raw_hot": 152466,
-      "num": 152466,
-      "word": "鸭头冲进鹿晗怀里",
-      "onboard_time": 1712996299,
-      "rank": 37,
-      "category": "综艺"
     },
     {
       "raw_hot": 152437,
@@ -28505,6 +28609,14 @@
       "onboard_time": 1712744238,
       "rank": 49,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 150554,
+      "num": 150554,
+      "word": "eStar战胜BOA",
+      "onboard_time": 1712999537,
+      "rank": 38,
+      "category": "电竞"
     },
     {
       "raw_hot": 150532,
@@ -29187,6 +29299,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 146052,
+      "num": 146052,
+      "word": "陈楚生方就音乐节演出取消道歉",
+      "onboard_time": 1712999357,
+      "rank": 39,
+      "category": "演出"
+    },
+    {
       "raw_hot": 145866,
       "num": 145866,
       "word": "00后女生打造春天工位引来同事拍照打卡",
@@ -29817,6 +29937,14 @@
       "onboard_time": 1712645838,
       "rank": 44,
       "category": "情感"
+    },
+    {
+      "raw_hot": 141295,
+      "num": 141295,
+      "word": "卢昱晓团综路透",
+      "onboard_time": 1712999598,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 141135,
@@ -31203,14 +31331,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 131009,
-      "num": 131009,
-      "word": "迪丽热巴室内戏路透",
-      "onboard_time": 1712997137,
-      "rank": 43,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 130973,
       "num": 130973,
       "word": "宋仲基与素人合影",
@@ -31313,6 +31433,14 @@
       "onboard_time": 1712388617,
       "rank": 34,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 130087,
+      "num": 130087,
+      "word": "2024LCK春季赛季后赛",
+      "onboard_time": 1712998038,
+      "rank": 44,
+      "category": "电竞"
     },
     {
       "raw_hot": 129778,
@@ -31577,6 +31705,14 @@
       "onboard_time": 1712562197,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 126926,
+      "num": 126926,
+      "word": "郑恺镜头里的范丞丞",
+      "onboard_time": 1712999299,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 126719,
@@ -31985,14 +32121,6 @@
       "onboard_time": 1712632038,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 123732,
-      "num": 123732,
-      "word": "留意侧躺玩手机后的眼睛变化",
-      "onboard_time": 1712997065,
-      "rank": 45,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 123696,

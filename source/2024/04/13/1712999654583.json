@@ -1,0 +1,410 @@
+{
+  "runTime": 1712999654583,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1228171,
+        "num": 1228171,
+        "word": "江西师大虐猫男生被开除学籍",
+        "onboard_time": 1712997857,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1074915,
+        "num": 1074915,
+        "word": "绝大部分人感染HPV后会自愈",
+        "onboard_time": 1712994977,
+        "rank": 1,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 270926,
+        "num": 849723,
+        "word": "炮制秦朗丢作业丢掉了什么",
+        "onboard_time": 1712981417,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 745652,
+        "num": 745652,
+        "word": "猫一杯2小时掉10万粉",
+        "onboard_time": 1712983578,
+        "rank": 3,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 741330,
+        "num": 741330,
+        "word": "留意侧躺玩手机后的眼睛变化",
+        "onboard_time": 1712997065,
+        "rank": 4,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 727981,
+        "num": 727981,
+        "word": "金秀贤金智媛不再合体",
+        "onboard_time": 1712989517,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 606855,
+        "num": 606855,
+        "word": "成毅晒面摊",
+        "onboard_time": 1712996178,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 560580,
+        "num": 560580,
+        "word": "悉尼一购物中心持刀行凶事件已致6人死亡",
+        "onboard_time": 1712995217,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 512842,
+        "num": 512842,
+        "word": "马嘉祺哥哥正脸曝光",
+        "onboard_time": 1712991377,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 187050,
+        "num": 482666,
+        "word": "妈妈称唐氏女儿在舞台上光彩四溢",
+        "onboard_time": 1712983398,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 477809,
+        "num": 477809,
+        "word": "赵丽颖片场压腿",
+        "onboard_time": 1712997617,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 440922,
+        "num": 440922,
+        "word": "官方通报大学生租车遭提灯验车",
+        "onboard_time": 1712994977,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 411007,
+        "num": 411007,
+        "word": "伊朗",
+        "onboard_time": 1712996656,
+        "rank": 12,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 396030,
+        "num": 396030,
+        "word": "首饰金价一夜大降10元每克",
+        "onboard_time": 1712982377,
+        "rank": 13,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 370147,
+        "num": 370147,
+        "word": "戚薇说夹夹更健康",
+        "onboard_time": 1712994077,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 451026,
+        "num": 369029,
+        "word": "赵丽颖用录音告别与凤行",
+        "onboard_time": 1712999357,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 363550,
+        "num": 363550,
+        "word": "汪苏泷 澳门酒吧",
+        "onboard_time": 1712986817,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 275736,
+        "num": 275736,
+        "word": "去医院检查千万别穿成这样",
+        "onboard_time": 1712979197,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 272463,
+        "num": 272463,
+        "word": "鸭头冲进鹿晗怀里",
+        "onboard_time": 1712996299,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 199507,
+        "num": 271746,
+        "word": "消息人士称伊朗或在24至48小时内袭击以色列",
+        "onboard_time": 1712998818,
+        "rank": 19,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 436340,
+        "num": 267502,
+        "word": "向佐一提郭碧婷就哭",
+        "onboard_time": 1712980457,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 357065,
+        "num": 264974,
+        "word": "马上入编了家里却要拆迁",
+        "onboard_time": 1712991677,
+        "rank": 21,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 325302,
+        "num": 263214,
+        "word": "朋友圈置顶是所有人可见吗",
+        "onboard_time": 1712998818,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 262232,
+        "num": 262232,
+        "word": "鹿晗黄子韬新歌上线",
+        "onboard_time": 1712999057,
+        "rank": 23,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 255761,
+        "num": 255761,
+        "word": "同事去韩国出差第一天的伙食",
+        "onboard_time": 1712993297,
+        "rank": 24,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 230450,
+        "num": 230450,
+        "word": "杨立新遇害前承认婚内出轨怀孕",
+        "onboard_time": 1712969117,
+        "rank": 25,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 188553,
+        "num": 188553,
+        "word": "美国军舰为防备伊朗已部署到位",
+        "onboard_time": 1712987299,
+        "rank": 26,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 186429,
+        "num": 186429,
+        "word": "ILLIT一位安可",
+        "onboard_time": 1712999299,
+        "rank": 27,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 186286,
+        "num": 186286,
+        "word": "赵丽颖监制与凤行花絮",
+        "onboard_time": 1712994017,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 184273,
+        "num": 184273,
+        "word": "其实大学寝室很容易致郁的",
+        "onboard_time": 1712994675,
+        "rank": 29,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 170422,
+        "num": 170422,
+        "word": "猫一杯 秦朗事件",
+        "onboard_time": 1712988136,
+        "rank": 30,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 165242,
+        "num": 165242,
+        "word": "进体制内还能追星吗",
+        "onboard_time": 1712999598,
+        "rank": 31,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 164397,
+        "num": 164397,
+        "word": "迪丽热巴室内戏路透",
+        "onboard_time": 1712997137,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 156075,
+        "num": 156075,
+        "word": "为了涨500块工资问来问去",
+        "onboard_time": 1712985078,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 155507,
+        "num": 155507,
+        "word": "黑执事 恶魔帅回来了",
+        "onboard_time": 1712998218,
+        "rank": 34,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 153372,
+        "num": 153372,
+        "word": "HLE对战T1",
+        "onboard_time": 1712990897,
+        "rank": 35,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 153343,
+        "num": 153343,
+        "word": "邓紫棋演唱会主办方回应持票进场遭拒",
+        "onboard_time": 1712998818,
+        "rank": 36,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 153212,
+        "num": 153212,
+        "word": "原来高中时的肠鸣是焦虑症躯体化",
+        "onboard_time": 1712998397,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 150554,
+        "num": 150554,
+        "word": "eStar战胜BOA",
+        "onboard_time": 1712999537,
+        "rank": 38,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 146052,
+        "num": 146052,
+        "word": "陈楚生方就音乐节演出取消道歉",
+        "onboard_time": 1712999357,
+        "rank": 39,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 40423,
+        "num": 142565,
+        "word": "为什么游戏里总有川蜀元素",
+        "onboard_time": 1712994737,
+        "rank": 40,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 141295,
+        "num": 141295,
+        "word": "卢昱晓团综路透",
+        "onboard_time": 1712999598,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 136465,
+        "num": 136465,
+        "word": "黄雅莉晒生子前后四季对比照",
+        "onboard_time": 1712988197,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 132906,
+        "num": 132906,
+        "word": "张馨予夸自己颧骨好美",
+        "onboard_time": 1712992458,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 130087,
+        "num": 130087,
+        "word": "2024LCK春季赛季后赛",
+        "onboard_time": 1712998038,
+        "rank": 44,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 127687,
+        "num": 127687,
+        "word": "杨紫休息让我演两集",
+        "onboard_time": 1712988557,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 126926,
+        "num": 126926,
+        "word": "郑恺镜头里的范丞丞",
+        "onboard_time": 1712999299,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 126292,
+        "num": 126292,
+        "word": "南昌天气",
+        "onboard_time": 1712990658,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 121154,
+        "num": 121154,
+        "word": "伊以冲突",
+        "onboard_time": 1712970677,
+        "rank": 48,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 119351,
+        "num": 119351,
+        "word": "给奶奶买的金首饰戴在我弟弟身上",
+        "onboard_time": 1712988497,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#中国和苏里南友谊源远流长历久弥坚#"
+    }
+  }
+}
