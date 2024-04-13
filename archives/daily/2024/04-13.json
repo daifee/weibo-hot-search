@@ -1,6 +1,6 @@
 {
   "startTime": 1712938901785,
-  "endTime": 1713021207380,
+  "endTime": 1713022450094,
   "band_list": [
     {
       "raw_hot": 2473684,
@@ -84,7 +84,7 @@
     },
     {
       "raw_hot": 1451830,
-      "num": 599587,
+      "num": 655237,
       "word": "纪凌尘说蹭阚清子热度是事实",
       "onboard_time": 1713016519,
       "rank": 8,
@@ -187,6 +187,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1005398,
+      "num": 1005398,
+      "word": "秦皇岛一船只侧翻已致12死6失联",
+      "onboard_time": 1713019940,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 996257,
       "num": 996257,
       "word": "38块钱居然能吃20个菜",
@@ -259,6 +267,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 890910,
+      "num": 890910,
+      "word": "秦皇岛一船只侧翻31人落水",
+      "onboard_time": 1713020421,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 870379,
       "num": 838085,
       "word": "陈卓璇体重只有74斤",
@@ -268,7 +284,7 @@
     },
     {
       "raw_hot": 846312,
-      "num": 566712,
+      "num": 603053,
       "word": "警方调查14岁女生被学校教练性侵",
       "onboard_time": 1713018259,
       "rank": 19,
@@ -328,14 +344,6 @@
       "word": "炮制秦朗丢作业丢掉了什么",
       "onboard_time": 1712981417,
       "rank": 29,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 776121,
-      "num": 776121,
-      "word": "秦皇岛一船只侧翻已致12死6失联",
-      "onboard_time": 1713019940,
-      "rank": 4,
       "category": "社会新闻"
     },
     {
@@ -515,20 +523,20 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 605899,
-      "num": 605899,
-      "word": "秦皇岛一船只侧翻31人落水",
-      "onboard_time": 1713020421,
-      "rank": 7,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 605850,
       "num": 605850,
       "word": "尚雯婕复旦毕业20年经历",
       "onboard_time": 1712965335,
       "rank": 4,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 574668,
+      "num": 574668,
+      "word": "睡前1小时尽量别玩手机",
+      "onboard_time": 1713019700,
+      "rank": 19,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 555663,
@@ -611,6 +619,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 515593,
+      "num": 515593,
+      "word": "四川彭州一养猪场发生中毒事故致7死",
+      "onboard_time": 1713020720,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 515148,
       "num": 243125,
       "word": "为什么研究生搞不定中学的比赛",
@@ -625,6 +641,14 @@
       "onboard_time": 1712998818,
       "rank": 22,
       "category": "情感"
+    },
+    {
+      "raw_hot": 505927,
+      "num": 505927,
+      "word": "李宇春无价之姐",
+      "onboard_time": 1713019820,
+      "rank": 20,
+      "category": "演出"
     },
     {
       "raw_hot": 505332,
@@ -827,14 +851,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 409841,
-      "num": 383152,
-      "word": "李宇春无价之姐",
-      "onboard_time": 1713019820,
-      "rank": 20,
-      "category": "演出"
-    },
-    {
       "raw_hot": 405986,
       "num": 360755,
       "word": "AG 现场复盘",
@@ -873,14 +889,6 @@
       "onboard_time": 1713005957,
       "rank": 22,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 390061,
-      "num": 390061,
-      "word": "睡前1小时尽量别玩手机",
-      "onboard_time": 1713019700,
-      "rank": 19,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 382927,
@@ -1155,6 +1163,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 305496,
+      "num": 283182,
+      "word": "睡前1分钟躺着就能瘦肚子",
+      "onboard_time": 1713020600,
+      "rank": 43,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 303936,
       "num": 224794,
       "word": "研究生应该收父母给的生活费吗",
@@ -1201,14 +1217,6 @@
       "onboard_time": 1712978599,
       "rank": 17,
       "category": "教育"
-    },
-    {
-      "raw_hot": 296437,
-      "num": 296437,
-      "word": "四川彭州一养猪场发生中毒事故致7死",
-      "onboard_time": 1713020720,
-      "rank": 23,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 293573,
@@ -1387,6 +1395,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 247665,
+      "num": 247665,
+      "word": "王心凌回应隔壁林俊杰送歌",
+      "onboard_time": 1713021679,
+      "rank": 23,
+      "category": "演出"
+    },
+    {
       "raw_hot": 246562,
       "num": 268032,
       "word": "你知道下乡给老人拍照有多赚吗",
@@ -1409,6 +1425,14 @@
       "onboard_time": 1712968998,
       "rank": 18,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 242945,
+      "num": 242945,
+      "word": "元与均棋",
+      "onboard_time": 1713021979,
+      "rank": 24,
+      "category": "游戏"
     },
     {
       "raw_hot": 239184,
@@ -1571,6 +1595,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 210416,
+      "num": 210416,
+      "word": "5种素菜是热量炸弹",
+      "onboard_time": 1713017721,
+      "rank": 46,
+      "category": "美食"
+    },
+    {
       "raw_hot": 209963,
       "num": 209963,
       "word": "山西省考",
@@ -1649,14 +1681,6 @@
       "onboard_time": 1713011957,
       "rank": 30,
       "category": "演出"
-    },
-    {
-      "raw_hot": 205287,
-      "num": 205287,
-      "word": "5种素菜是热量炸弹",
-      "onboard_time": 1713017721,
-      "rank": 46,
-      "category": "美食"
     },
     {
       "raw_hot": 204984,
@@ -1771,6 +1795,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 195102,
+      "num": 195102,
+      "word": "偶像梦幻祭",
+      "onboard_time": 1713021259,
+      "rank": 29,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 195087,
       "num": 195087,
       "word": "与凤行",
@@ -1817,6 +1849,14 @@
       "onboard_time": 1712984418,
       "rank": 26,
       "category": "体育"
+    },
+    {
+      "raw_hot": 192897,
+      "num": 192897,
+      "word": "久哲 血脉压制",
+      "onboard_time": 1713021499,
+      "rank": 30,
+      "category": "电竞"
     },
     {
       "raw_hot": 192035,
@@ -1931,14 +1971,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 185571,
-      "num": 185571,
-      "word": "睡前1分钟躺着就能瘦肚子",
-      "onboard_time": 1713020600,
-      "rank": 43,
-      "category": "运动健身"
-    },
-    {
       "raw_hot": 185430,
       "num": 185430,
       "word": "2024届毕业生开启论文答辩模式",
@@ -1977,6 +2009,22 @@
       "onboard_time": 1712978118,
       "rank": 34,
       "category": "体育"
+    },
+    {
+      "raw_hot": 182970,
+      "num": 182970,
+      "word": "一诺公孙离",
+      "onboard_time": 1713022039,
+      "rank": 36,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 182628,
+      "num": 182628,
+      "word": "辛芷蕾出发泰国录制花少",
+      "onboard_time": 1713021259,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 182533,
@@ -2035,6 +2083,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 179103,
+      "num": 179103,
+      "word": "夫硕顺舞台",
+      "onboard_time": 1713022159,
+      "rank": 41,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 179032,
       "num": 179032,
       "word": "赵丽颖工作室发文告别沈璃",
@@ -2089,6 +2145,14 @@
       "onboard_time": 1712928799,
       "rank": 19,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 173171,
+      "num": 173171,
+      "word": "周笔畅单面镜",
+      "onboard_time": 1713021320,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 172523,
