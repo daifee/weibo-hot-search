@@ -1,6 +1,6 @@
 {
   "startTime": 1713025251708,
-  "endTime": 1713105203442,
+  "endTime": 1713106075335,
   "band_list": [
     {
       "raw_hot": 3131894,
@@ -123,6 +123,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1085314,
+      "num": 1085314,
+      "word": "IVE造型",
+      "onboard_time": 1713104719,
+      "rank": 3,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 1059168,
       "num": 1059168,
       "word": "胡彦斌经纪人参加浪姐",
@@ -145,6 +153,14 @@
       "onboard_time": 1713059598,
       "rank": 20,
       "category": "情感"
+    },
+    {
+      "raw_hot": 958428,
+      "num": 958428,
+      "word": "以色列",
+      "onboard_time": 1713050474,
+      "rank": 6,
+      "category": "国外时政"
     },
     {
       "raw_hot": 956919,
@@ -179,24 +195,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 864852,
-      "num": 864852,
-      "word": "以色列",
-      "onboard_time": 1713050474,
-      "rank": 6,
-      "category": "国外时政"
-    },
-    {
-      "raw_hot": 859568,
-      "num": 859568,
-      "word": "IVE造型",
-      "onboard_time": 1713104719,
-      "rank": 3,
-      "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 852844,
-      "num": 852844,
+      "raw_hot": 865071,
+      "num": 865071,
       "word": "把肯德基1995年价格表挖出来了",
       "onboard_time": 1713094398,
       "rank": 4,
@@ -225,6 +225,14 @@
       "onboard_time": 1713097577,
       "rank": 5,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 824224,
+      "num": 824224,
+      "word": "体重不降的十个原因",
+      "onboard_time": 1713103940,
+      "rank": 15,
+      "category": "情感"
     },
     {
       "raw_hot": 806864,
@@ -603,14 +611,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 469789,
-      "num": 469789,
-      "word": "体重不降的十个原因",
-      "onboard_time": 1713103940,
-      "rank": 15,
-      "category": "情感"
-    },
-    {
       "raw_hot": 469638,
       "num": 279190,
       "word": "睡前1分钟躺着就能瘦肚子",
@@ -689,6 +689,22 @@
       "onboard_time": 1713050232,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 439715,
+      "num": 439715,
+      "word": "Tian哭了",
+      "onboard_time": 1713104898,
+      "rank": 26,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 438857,
+      "num": 438857,
+      "word": "香港金像奖颁奖典礼",
+      "onboard_time": 1713097577,
+      "rank": 21,
+      "category": "电影"
     },
     {
       "raw_hot": 431482,
@@ -801,14 +817,6 @@
       "onboard_time": 1713081858,
       "rank": 31,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 369708,
-      "num": 369708,
-      "word": "香港金像奖颁奖典礼",
-      "onboard_time": 1713097577,
-      "rank": 21,
-      "category": "电影"
     },
     {
       "raw_hot": 368581,
@@ -987,6 +995,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 317063,
+      "num": 317063,
+      "word": "眼泪女王 爷爷死了",
+      "onboard_time": 1713105679,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 314664,
       "num": 314664,
       "word": "吴镇宇吐槽古偶",
@@ -1028,7 +1044,7 @@
     },
     {
       "raw_hot": 307059,
-      "num": 287144,
+      "num": 300133,
       "word": "承欢记收视率",
       "onboard_time": 1713100160,
       "rank": 27,
@@ -1075,6 +1091,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 297064,
+      "num": 297064,
+      "word": "王俊凯平时没少健身吧",
+      "onboard_time": 1713104420,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 296120,
       "num": 296120,
       "word": "金莎想带男友报名郝蕾演技课",
@@ -1105,14 +1129,6 @@
       "onboard_time": 1713065059,
       "rank": 19,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 289121,
-      "num": 289121,
-      "word": "Tian哭了",
-      "onboard_time": 1713104898,
-      "rank": 26,
-      "category": "电竞"
     },
     {
       "raw_hot": 288002,
@@ -1259,12 +1275,36 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 260387,
+      "num": 260387,
+      "word": "伊朗再次警告美国勿插手伊以冲突",
+      "onboard_time": 1713105319,
+      "rank": 30,
+      "category": "国外时政"
+    },
+    {
+      "raw_hot": 258789,
+      "num": 258789,
+      "word": "06号选手张杰你好",
+      "onboard_time": 1713105440,
+      "rank": 32,
+      "category": "演出"
+    },
+    {
       "raw_hot": 258370,
       "num": 258370,
       "word": "以色列要求学校暂时停课",
       "onboard_time": 1713053236,
       "rank": 30,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 257489,
+      "num": 257489,
+      "word": "为什么大家都装马桶不要蹲厕",
+      "onboard_time": 1713104780,
+      "rank": 37,
+      "category": "科学科普"
     },
     {
       "raw_hot": 253455,
@@ -1339,14 +1379,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 241570,
-      "num": 241570,
-      "word": "王俊凯平时没少健身吧",
-      "onboard_time": 1713104420,
-      "rank": 33,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 240050,
       "num": 240050,
       "word": "陈雨菲女单亚军",
@@ -1368,6 +1400,14 @@
       "word": "陈丽君回应戏曲演员去跳女团舞质疑",
       "onboard_time": 1713103639,
       "rank": 34,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 237134,
+      "num": 237134,
+      "word": "罗拉王能能教育孩子的方式",
+      "onboard_time": 1713105620,
+      "rank": 35,
       "category": "综艺"
     },
     {
@@ -1483,12 +1523,12 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 220045,
-      "num": 220045,
-      "word": "为什么大家都装马桶不要蹲厕",
-      "onboard_time": 1713104780,
+      "raw_hot": 218836,
+      "num": 218836,
+      "word": "王润泽以真心换真心",
+      "onboard_time": 1713105559,
       "rank": 37,
-      "category": "科学科普"
+      "category": "综艺"
     },
     {
       "raw_hot": 218718,
@@ -1707,6 +1747,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 190530,
+      "num": 190530,
+      "word": "白日之下",
+      "onboard_time": 1713106039,
+      "rank": 42,
+      "category": "电影"
+    },
+    {
       "raw_hot": 187462,
       "num": 187462,
       "word": "苗苗女团妆",
@@ -1897,6 +1945,22 @@
       "onboard_time": 1713086298,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 165172,
+      "num": 208637,
+      "word": "对自己亲妹妹心态不平衡怎么办",
+      "onboard_time": 1713105920,
+      "rank": 39,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 164673,
+      "num": 164673,
+      "word": "内向的人适合生活在哪个国家",
+      "onboard_time": 1713105440,
+      "rank": 46,
+      "category": "情感"
     },
     {
       "raw_hot": 164619,
@@ -2363,6 +2427,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 91015,
+      "num": 968447,
+      "word": "看不见的守护正无处不在",
+      "onboard_time": 1713103338,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 89339,
       "num": 118296,
       "word": "绝大部分人感染HPV后会自愈",
@@ -2385,14 +2457,6 @@
       "onboard_time": 1713050833,
       "rank": 40,
       "category": "运动健身"
-    },
-    {
-      "raw_hot": 81648,
-      "num": 860727,
-      "word": "看不见的守护正无处不在",
-      "onboard_time": 1713103338,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 77410,

@@ -1,6 +1,6 @@
 {
   "startTime": 1711902044401,
-  "endTime": 1713105203442,
+  "endTime": 1713106075335,
   "band_list": [
     {
       "raw_hot": 16874674,
@@ -2587,6 +2587,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1085314,
+      "num": 1085314,
+      "word": "IVE造型",
+      "onboard_time": 1713104719,
+      "rank": 3,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 1084731,
       "num": 1084731,
       "word": "12306",
@@ -3275,6 +3283,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 958428,
+      "num": 958428,
+      "word": "以色列",
+      "onboard_time": 1712023878,
+      "rank": 25,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 958339,
       "num": 958339,
       "word": "南昌突发强对流天气3人坠楼身亡",
@@ -3875,12 +3891,12 @@
       "category": "时尚"
     },
     {
-      "raw_hot": 864852,
-      "num": 864852,
-      "word": "以色列",
-      "onboard_time": 1712023878,
-      "rank": 25,
-      "category": "国外时政"
+      "raw_hot": 865071,
+      "num": 865071,
+      "word": "把肯德基1995年价格表挖出来了",
+      "onboard_time": 1713094398,
+      "rank": 4,
+      "category": "美食"
     },
     {
       "raw_hot": 863437,
@@ -3889,14 +3905,6 @@
       "onboard_time": 1712395517,
       "rank": 30,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 859568,
-      "num": 859568,
-      "word": "IVE造型",
-      "onboard_time": 1713104719,
-      "rank": 3,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 859326,
@@ -3977,14 +3985,6 @@
       "onboard_time": 1712298378,
       "rank": 15,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 852844,
-      "num": 852844,
-      "word": "把肯德基1995年价格表挖出来了",
-      "onboard_time": 1713094398,
-      "rank": 4,
-      "category": "美食"
     },
     {
       "raw_hot": 852839,
@@ -4232,6 +4232,14 @@
       "word": "过度省钱后觉得生活没意思了",
       "onboard_time": 1712327359,
       "rank": 32,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 824224,
+      "num": 824224,
+      "word": "体重不降的十个原因",
+      "onboard_time": 1713103940,
+      "rank": 15,
       "category": "情感"
     },
     {
@@ -9843,14 +9851,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 469789,
-      "num": 469789,
-      "word": "体重不降的十个原因",
-      "onboard_time": 1713103940,
-      "rank": 15,
-      "category": "情感"
-    },
-    {
       "raw_hot": 469638,
       "num": 283182,
       "word": "睡前1分钟躺着就能瘦肚子",
@@ -10707,6 +10707,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 439715,
+      "num": 439715,
+      "word": "Tian哭了",
+      "onboard_time": 1713104898,
+      "rank": 26,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 439713,
       "num": 439713,
       "word": "原神 挂零",
@@ -10728,6 +10736,14 @@
       "word": "成龙为刘浩存提裙摆",
       "onboard_time": 1713009257,
       "rank": 12,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 438857,
+      "num": 438857,
+      "word": "香港金像奖颁奖典礼",
+      "onboard_time": 1713097577,
+      "rank": 21,
       "category": "电影"
     },
     {
@@ -12673,14 +12689,6 @@
       "onboard_time": 1712292497,
       "rank": 23,
       "category": "时尚"
-    },
-    {
-      "raw_hot": 369708,
-      "num": 369708,
-      "word": "香港金像奖颁奖典礼",
-      "onboard_time": 1713097577,
-      "rank": 21,
-      "category": "电影"
     },
     {
       "raw_hot": 369692,
@@ -14723,6 +14731,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 317063,
+      "num": 317063,
+      "word": "眼泪女王 爷爷死了",
+      "onboard_time": 1713105679,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 316881,
       "num": 316881,
       "word": "郭书瑶 淘汰",
@@ -15715,6 +15731,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 297064,
+      "num": 297064,
+      "word": "王俊凯平时没少健身吧",
+      "onboard_time": 1713104420,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 296867,
       "num": 296867,
       "word": "退休公务员横漂演短剧",
@@ -16169,14 +16193,6 @@
       "onboard_time": 1712318419,
       "rank": 18,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 289121,
-      "num": 289121,
-      "word": "Tian哭了",
-      "onboard_time": 1713104898,
-      "rank": 26,
-      "category": "电竞"
     },
     {
       "raw_hot": 289077,
@@ -17715,6 +17731,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 260387,
+      "num": 260387,
+      "word": "伊朗再次警告美国勿插手伊以冲突",
+      "onboard_time": 1713105319,
+      "rank": 30,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 260199,
       "num": 1291217,
       "word": "最美人间四月天",
@@ -17849,6 +17873,14 @@
       "onboard_time": 1712490378,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 258789,
+      "num": 258789,
+      "word": "06号选手张杰你好",
+      "onboard_time": 1713105440,
+      "rank": 32,
+      "category": "演出"
     },
     {
       "raw_hot": 258775,
@@ -17993,6 +18025,14 @@
       "onboard_time": 1712485458,
       "rank": 39,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 257489,
+      "num": 257489,
+      "word": "为什么大家都装马桶不要蹲厕",
+      "onboard_time": 1713104780,
+      "rank": 37,
+      "category": "科学科普"
     },
     {
       "raw_hot": 257357,
@@ -19219,14 +19259,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 241570,
-      "num": 241570,
-      "word": "王俊凯平时没少健身吧",
-      "onboard_time": 1713104420,
-      "rank": 33,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 241518,
       "num": 241518,
       "word": "电影无名之辈2开机",
@@ -19585,6 +19617,14 @@
       "onboard_time": 1712329940,
       "rank": 38,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 237134,
+      "num": 237134,
+      "word": "罗拉王能能教育孩子的方式",
+      "onboard_time": 1713105620,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 237082,
@@ -20971,14 +21011,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 220045,
-      "num": 220045,
-      "word": "为什么大家都装马桶不要蹲厕",
-      "onboard_time": 1713104780,
-      "rank": 37,
-      "category": "科学科普"
-    },
-    {
       "raw_hot": 219942,
       "num": 219942,
       "word": "再见爱人 换乘恋爱",
@@ -21105,6 +21137,14 @@
       "onboard_time": 1712716697,
       "rank": 44,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 218836,
+      "num": 218836,
+      "word": "王润泽以真心换真心",
+      "onboard_time": 1713105559,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 218828,
@@ -25307,6 +25347,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 190530,
+      "num": 190530,
+      "word": "白日之下",
+      "onboard_time": 1713106039,
+      "rank": 42,
+      "category": "电影"
+    },
+    {
       "raw_hot": 190523,
       "num": 190523,
       "word": "仝卓工作室说很多艺人不敬业",
@@ -28923,6 +28971,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 165172,
+      "num": 208637,
+      "word": "对自己亲妹妹心态不平衡怎么办",
+      "onboard_time": 1713105920,
+      "rank": 39,
+      "category": "情感"
+    },
+    {
       "raw_hot": 165002,
       "num": 506825,
       "word": "小孩哥情绪稳定的像拖拉机老司机",
@@ -28985,6 +29041,14 @@
       "onboard_time": 1712726299,
       "rank": 41,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 164673,
+      "num": 164673,
+      "word": "内向的人适合生活在哪个国家",
+      "onboard_time": 1713105440,
+      "rank": 46,
+      "category": "情感"
     },
     {
       "raw_hot": 164641,
@@ -37147,6 +37211,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 91015,
+      "num": 968447,
+      "word": "看不见的守护正无处不在",
+      "onboard_time": 1713103338,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 90935,
       "num": 90935,
       "word": "吵了一辈子的爸妈在晚年爱上彼此",
@@ -37416,14 +37488,6 @@
       "word": "商渔船海南附近碰撞事故已致6人遇难",
       "onboard_time": 1712705476,
       "rank": 33,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 81648,
-      "num": 860727,
-      "word": "看不见的守护正无处不在",
-      "onboard_time": 1713103338,
-      "rank": 2,
       "category": "社会新闻"
     },
     {
