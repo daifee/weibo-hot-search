@@ -1,6 +1,6 @@
 {
   "startTime": 1713025251708,
-  "endTime": 1713066275940,
+  "endTime": 1713069781035,
   "band_list": [
     {
       "raw_hot": 2270273,
@@ -33,6 +33,22 @@
       "onboard_time": 1713052756,
       "rank": 1,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 1470338,
+      "num": 1470338,
+      "word": "猫一杯涉事MCN或将被平台清退",
+      "onboard_time": 1713066318,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1330114,
+      "num": 1330114,
+      "word": "网友偶遇宋祖儿",
+      "onboard_time": 1713066380,
+      "rank": 3,
+      "category": "艺人"
     },
     {
       "raw_hot": 1313756,
@@ -155,6 +171,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 645612,
+      "num": 645612,
+      "word": "韩国化妆师给曾黎化的妆",
+      "onboard_time": 1713067158,
+      "rank": 5,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 644092,
       "num": 644092,
       "word": "秦皇岛一船只侧翻已致12死6失联",
@@ -163,20 +187,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 621493,
+      "num": 621493,
+      "word": "旭旭宝宝 三年了终于圆梦了",
+      "onboard_time": 1713063319,
+      "rank": 25,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 620174,
       "num": 620174,
       "word": "上个房主是怎样苦命的一个人",
       "onboard_time": 1713053177,
       "rank": 6,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 592940,
-      "num": 592940,
-      "word": "旭旭宝宝 三年了终于圆梦了",
-      "onboard_time": 1713063319,
-      "rank": 25,
-      "category": "游戏"
     },
     {
       "raw_hot": 592331,
@@ -260,7 +284,7 @@
     },
     {
       "raw_hot": 485611,
-      "num": 259981,
+      "num": 289045,
       "word": "和恋爱11年的男朋友分手了",
       "onboard_time": 1713065296,
       "rank": 22,
@@ -291,6 +315,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 461053,
+      "num": 289903,
+      "word": "结婚一年婆婆就瘫痪了",
+      "onboard_time": 1713066076,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 460901,
       "num": 460901,
       "word": "李宇春无价之姐",
@@ -312,6 +344,14 @@
       "word": "长沙暴雨",
       "onboard_time": 1713050232,
       "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 406870,
+      "num": 1330855,
+      "word": "时速400公里的高铁要来了",
+      "onboard_time": 1713066019,
+      "rank": 2,
       "category": "社会新闻"
     },
     {
@@ -345,6 +385,14 @@
       "onboard_time": 1713050474,
       "rank": 12,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 372265,
+      "num": 372265,
+      "word": "张伟丽vs闫晓楠",
+      "onboard_time": 1713067638,
+      "rank": 13,
+      "category": "体育"
     },
     {
       "raw_hot": 371061,
@@ -387,6 +435,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 360223,
+      "num": 360223,
+      "word": "厦门大学食堂建议本",
+      "onboard_time": 1713067337,
+      "rank": 14,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 349912,
       "num": 349912,
       "word": "德国总理朔尔茨抵达重庆",
@@ -400,6 +456,14 @@
       "word": "眼泪女王中出现的中文",
       "onboard_time": 1713052756,
       "rank": 17,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 344047,
+      "num": 344047,
+      "word": "于正说许凯的大运来了",
+      "onboard_time": 1713066679,
+      "rank": 15,
       "category": "剧集"
     },
     {
@@ -507,11 +571,35 @@
       "category": "网红"
     },
     {
+      "raw_hot": 298458,
+      "num": 298458,
+      "word": "吴镇宇吐槽古偶",
+      "onboard_time": 1713066978,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 297698,
       "num": 297698,
       "word": "伊朗",
       "onboard_time": 1712996656,
       "rank": 49,
+      "category": "国外时政"
+    },
+    {
+      "raw_hot": 290768,
+      "num": 290768,
+      "word": "伊朗空袭以色列当地华人发声",
+      "onboard_time": 1713065059,
+      "rank": 19,
+      "category": "国外时政"
+    },
+    {
+      "raw_hot": 287669,
+      "num": 287669,
+      "word": "美军帮以击落几乎所有无人机导弹",
+      "onboard_time": 1713069318,
+      "rank": 24,
       "category": "国外时政"
     },
     {
@@ -547,14 +635,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 268367,
-      "num": 268367,
-      "word": "伊朗空袭以色列当地华人发声",
-      "onboard_time": 1713065059,
-      "rank": 19,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 265988,
       "num": 265988,
       "word": "秦皇岛",
@@ -571,6 +651,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 262588,
+      "num": 262588,
+      "word": "比特币跳水29万人爆仓",
+      "onboard_time": 1713066859,
+      "rank": 27,
+      "category": "财经"
+    },
+    {
       "raw_hot": 261414,
       "num": 261414,
       "word": "伊朗向以色列发导弹红色光点布满夜空",
@@ -585,6 +673,14 @@
       "onboard_time": 1713053236,
       "rank": 30,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 254346,
+      "num": 254346,
+      "word": "金莎想带男友报名郝蕾演技课",
+      "onboard_time": 1713067998,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 248511,
@@ -611,6 +707,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 242860,
+      "num": 242860,
+      "word": "赵丽颖的事业粉狂喜",
+      "onboard_time": 1713065897,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 241739,
       "num": 241739,
       "word": "年轻人为什么热衷追逐奶茶联名",
@@ -619,12 +723,28 @@
       "category": "美食"
     },
     {
-      "raw_hot": 231427,
-      "num": 220087,
-      "word": "结婚一年婆婆就瘫痪了",
-      "onboard_time": 1713066076,
+      "raw_hot": 233297,
+      "num": 233297,
+      "word": "Doinb爆料Tarzan找到队伍",
+      "onboard_time": 1713068659,
       "rank": 30,
-      "category": "情感"
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 231464,
+      "num": 231464,
+      "word": "天水麻辣烫让杨国福张亮慌了吗",
+      "onboard_time": 1713069018,
+      "rank": 31,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 229449,
+      "num": 229449,
+      "word": "原来真有人考研考公两手抓",
+      "onboard_time": 1713066138,
+      "rank": 40,
+      "category": "教育"
     },
     {
       "raw_hot": 227166,
@@ -633,6 +753,14 @@
       "onboard_time": 1713022939,
       "rank": 22,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 226215,
+      "num": 226215,
+      "word": "林允纸上化妆",
+      "onboard_time": 1713067817,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 225946,
@@ -675,20 +803,20 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 217828,
-      "num": 217828,
-      "word": "赵丽颖的事业粉狂喜",
-      "onboard_time": 1713065897,
-      "rank": 31,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 216219,
       "num": 216219,
       "word": "外交部回应伊朗发动军事打击",
       "onboard_time": 1713065538,
       "rank": 32,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 205725,
+      "num": 205725,
+      "word": "胡一天张婧仪像拍晋江封面",
+      "onboard_time": 1713066380,
+      "rank": 40,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 205529,
@@ -728,6 +856,14 @@
       "word": "张栋梁在人才市场唱歌",
       "onboard_time": 1713062898,
       "rank": 33,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 198613,
+      "num": 198613,
+      "word": "萌探2024私自改衣服",
+      "onboard_time": 1713068298,
+      "rank": 43,
       "category": "综艺"
     },
     {
@@ -851,14 +987,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 158825,
-      "num": 158825,
-      "word": "原来真有人考研考公两手抓",
-      "onboard_time": 1713066138,
-      "rank": 40,
-      "category": "教育"
-    },
-    {
       "raw_hot": 157634,
       "num": 157634,
       "word": "面试被问爸爸妈妈是做什么的",
@@ -873,6 +1001,14 @@
       "onboard_time": 1713012738,
       "rank": 33,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 156017,
+      "num": 156017,
+      "word": "史铁生的一生是震撼我的",
+      "onboard_time": 1713068238,
+      "rank": 47,
+      "category": "读书作家"
     },
     {
       "raw_hot": 155157,
@@ -913,6 +1049,14 @@
       "onboard_time": 1713019940,
       "rank": 36,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 144986,
+      "num": 144986,
+      "word": "秦皇岛侧翻船只船主被控制",
+      "onboard_time": 1713069679,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 144891,
@@ -1179,14 +1323,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 54406,
-      "num": 906054,
-      "word": "时速400公里的高铁要来了",
-      "onboard_time": 1713066019,
-      "rank": 2,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 50063,
       "num": 50063,
       "word": "猫一杯旗下品牌客服回应",
@@ -1267,6 +1403,22 @@
       "category": "情感"
     },
     {
+      "raw_hot": 21886,
+      "num": 210388,
+      "word": "在P5X里做时间管理大师",
+      "onboard_time": 1713067096,
+      "rank": 38,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 19457,
+      "num": 201859,
+      "word": "尹同跃要给智驾部门加鸡腿",
+      "onboard_time": 1713069618,
+      "rank": 41,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 18299,
       "num": 171928,
       "word": "P5X出了客家话配音",
@@ -1289,6 +1441,9 @@
     },
     {
       "word": "#相知无远近万里尚为邻#"
+    },
+    {
+      "word": "#学纪知纪明纪守纪#"
     }
   ]
 }

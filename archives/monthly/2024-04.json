@@ -1,6 +1,6 @@
 {
   "startTime": 1711902044401,
-  "endTime": 1713066275940,
+  "endTime": 1713069781035,
   "band_list": [
     {
       "raw_hot": 16874674,
@@ -1363,6 +1363,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1470338,
+      "num": 1470338,
+      "word": "猫一杯涉事MCN或将被平台清退",
+      "onboard_time": 1713066318,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1468015,
       "num": 1468015,
       "word": "男朋友婚前隐瞒他7年前坐过牢",
@@ -1649,6 +1657,14 @@
       "onboard_time": 1712400798,
       "rank": 5,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 1330114,
+      "num": 1330114,
+      "word": "网友偶遇宋祖儿",
+      "onboard_time": 1713066380,
+      "rank": 3,
+      "category": "艺人"
     },
     {
       "raw_hot": 1320042,
@@ -6163,6 +6179,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 645612,
+      "num": 645612,
+      "word": "韩国化妆师给曾黎化的妆",
+      "onboard_time": 1713067158,
+      "rank": 5,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 645563,
       "num": 645563,
       "word": "连花花都不认识你来看花花",
@@ -6481,6 +6505,14 @@
       "onboard_time": 1712548521,
       "rank": 6,
       "category": "演出"
+    },
+    {
+      "raw_hot": 621493,
+      "num": 621493,
+      "word": "旭旭宝宝 三年了终于圆梦了",
+      "onboard_time": 1713063319,
+      "rank": 25,
+      "category": "游戏"
     },
     {
       "raw_hot": 621172,
@@ -6985,14 +7017,6 @@
       "onboard_time": 1712463080,
       "rank": 19,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 592940,
-      "num": 592940,
-      "word": "旭旭宝宝 三年了终于圆梦了",
-      "onboard_time": 1713063319,
-      "rank": 25,
-      "category": "游戏"
     },
     {
       "raw_hot": 592622,
@@ -9092,7 +9116,7 @@
     },
     {
       "raw_hot": 485611,
-      "num": 259981,
+      "num": 289045,
       "word": "和恋爱11年的男朋友分手了",
       "onboard_time": 1713065296,
       "rank": 22,
@@ -9761,6 +9785,14 @@
       "onboard_time": 1712232439,
       "rank": 18,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 461053,
+      "num": 289903,
+      "word": "结婚一年婆婆就瘫痪了",
+      "onboard_time": 1713066076,
+      "rank": 30,
+      "category": "情感"
     },
     {
       "raw_hot": 460847,
@@ -11235,6 +11267,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 406870,
+      "num": 1330855,
+      "word": "时速400公里的高铁要来了",
+      "onboard_time": 1713066019,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 406840,
       "num": 406840,
       "word": "鞠婧祎演技",
@@ -12187,6 +12227,14 @@
       "category": "电竞,网红"
     },
     {
+      "raw_hot": 372265,
+      "num": 372265,
+      "word": "张伟丽vs闫晓楠",
+      "onboard_time": 1713067638,
+      "rank": 13,
+      "category": "体育"
+    },
+    {
       "raw_hot": 371777,
       "num": 565200,
       "word": "莎头",
@@ -12569,6 +12617,14 @@
       "onboard_time": 1713011957,
       "rank": 32,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 360223,
+      "num": 360223,
+      "word": "厦门大学食堂建议本",
+      "onboard_time": 1713067337,
+      "rank": 14,
+      "category": "幽默"
     },
     {
       "raw_hot": 360220,
@@ -13177,6 +13233,14 @@
       "onboard_time": 1712194999,
       "rank": 16,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 344047,
+      "num": 344047,
+      "word": "于正说许凯的大运来了",
+      "onboard_time": 1713066679,
+      "rank": 15,
+      "category": "剧集"
     },
     {
       "raw_hot": 343892,
@@ -15123,6 +15187,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 298458,
+      "num": 298458,
+      "word": "吴镇宇吐槽古偶",
+      "onboard_time": 1713066978,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 298393,
       "num": 298393,
       "word": "高合",
@@ -15523,6 +15595,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 290768,
+      "num": 290768,
+      "word": "伊朗空袭以色列当地华人发声",
+      "onboard_time": 1713065059,
+      "rank": 19,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 290626,
       "num": 290626,
       "word": "日本本州6.2级左右地震",
@@ -15641,6 +15721,14 @@
       "onboard_time": 1712027719,
       "rank": 32,
       "category": "体育"
+    },
+    {
+      "raw_hot": 287669,
+      "num": 287669,
+      "word": "美军帮以击落几乎所有无人机导弹",
+      "onboard_time": 1713069318,
+      "rank": 24,
+      "category": "国外时政"
     },
     {
       "raw_hot": 287605,
@@ -16643,14 +16731,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 268367,
-      "num": 268367,
-      "word": "伊朗空袭以色列当地华人发声",
-      "onboard_time": 1713065059,
-      "rank": 19,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 268341,
       "num": 268341,
       "word": "周冠宇退赛",
@@ -16881,6 +16961,14 @@
       "onboard_time": 1712205799,
       "rank": 22,
       "category": "电影"
+    },
+    {
+      "raw_hot": 262588,
+      "num": 262588,
+      "word": "比特币跳水29万人爆仓",
+      "onboard_time": 1713066859,
+      "rank": 27,
+      "category": "财经"
     },
     {
       "raw_hot": 262479,
@@ -17497,6 +17585,14 @@
       "onboard_time": 1712547079,
       "rank": 38,
       "category": "电影"
+    },
+    {
+      "raw_hot": 254346,
+      "num": 254346,
+      "word": "金莎想带男友报名郝蕾演技课",
+      "onboard_time": 1713067998,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 254326,
@@ -18443,6 +18539,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 242860,
+      "num": 242860,
+      "word": "赵丽颖的事业粉狂喜",
+      "onboard_time": 1713065897,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 242761,
       "num": 242761,
       "word": "WBG对战iG",
@@ -19131,6 +19235,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 233297,
+      "num": 233297,
+      "word": "Doinb爆料Tarzan找到队伍",
+      "onboard_time": 1713068659,
+      "rank": 30,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 233248,
       "num": 233248,
       "word": "我牵着我的女人走了啊",
@@ -19291,6 +19403,14 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 231464,
+      "num": 231464,
+      "word": "天水麻辣烫让杨国福张亮慌了吗",
+      "onboard_time": 1713069018,
+      "rank": 31,
+      "category": "美食"
+    },
+    {
       "raw_hot": 231453,
       "num": 231453,
       "word": "时空中的绘旅人",
@@ -19305,14 +19425,6 @@
       "onboard_time": 1711944682,
       "rank": 34,
       "category": "科学科普,互联网"
-    },
-    {
-      "raw_hot": 231427,
-      "num": 220087,
-      "word": "结婚一年婆婆就瘫痪了",
-      "onboard_time": 1713066076,
-      "rank": 30,
-      "category": "情感"
     },
     {
       "raw_hot": 231244,
@@ -19417,6 +19529,14 @@
       "onboard_time": 1712399418,
       "rank": 16,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 229449,
+      "num": 229449,
+      "word": "原来真有人考研考公两手抓",
+      "onboard_time": 1713066138,
+      "rank": 40,
+      "category": "教育"
     },
     {
       "raw_hot": 229447,
@@ -19713,6 +19833,14 @@
       "onboard_time": 1712816239,
       "rank": 42,
       "category": "教育"
+    },
+    {
+      "raw_hot": 226215,
+      "num": 226215,
+      "word": "林允纸上化妆",
+      "onboard_time": 1713067817,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 226161,
@@ -20441,14 +20569,6 @@
       "onboard_time": 1711976299,
       "rank": 31,
       "category": "时尚"
-    },
-    {
-      "raw_hot": 217828,
-      "num": 217828,
-      "word": "赵丽颖的事业粉狂喜",
-      "onboard_time": 1713065897,
-      "rank": 31,
-      "category": "剧集"
     },
     {
       "raw_hot": 217816,
@@ -21795,6 +21915,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 205725,
+      "num": 205725,
+      "word": "胡一天张婧仪像拍晋江封面",
+      "onboard_time": 1713066380,
+      "rank": 40,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 205530,
       "num": 205530,
       "word": "种地吧要种大豆了",
@@ -23001,6 +23129,14 @@
       "onboard_time": 1711894220,
       "rank": 23,
       "category": "情感"
+    },
+    {
+      "raw_hot": 198613,
+      "num": 198613,
+      "word": "萌探2024私自改衣服",
+      "onboard_time": 1713068298,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 198540,
@@ -28907,14 +29043,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 158825,
-      "num": 158825,
-      "word": "原来真有人考研考公两手抓",
-      "onboard_time": 1713066138,
-      "rank": 40,
-      "category": "教育"
-    },
-    {
       "raw_hot": 158790,
       "num": 158790,
       "word": "看承欢记给妈妈选衣服有方向了",
@@ -29257,6 +29385,14 @@
       "onboard_time": 1712148021,
       "rank": 47,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 156017,
+      "num": 156017,
+      "word": "史铁生的一生是震撼我的",
+      "onboard_time": 1713068238,
+      "rank": 47,
+      "category": "读书作家"
     },
     {
       "raw_hot": 156015,
@@ -31049,6 +31185,14 @@
       "onboard_time": 1712933839,
       "rank": 37,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 144986,
+      "num": 144986,
+      "word": "秦皇岛侧翻船只船主被控制",
+      "onboard_time": 1713069679,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 144820,
@@ -37091,14 +37235,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 54406,
-      "num": 906054,
-      "word": "时速400公里的高铁要来了",
-      "onboard_time": 1713066019,
-      "rank": 2,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 54194,
       "num": 790222,
       "word": "志愿军烈士和家人跨时空重逢",
@@ -38147,6 +38283,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 21886,
+      "num": 210388,
+      "word": "在P5X里做时间管理大师",
+      "onboard_time": 1713067096,
+      "rank": 38,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 21862,
       "num": 186662,
       "word": "如何在P5X里识别MBTI",
@@ -38257,6 +38401,14 @@
       "onboard_time": 1712904017,
       "rank": 38,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 19457,
+      "num": 201859,
+      "word": "尹同跃要给智驾部门加鸡腿",
+      "onboard_time": 1713069618,
+      "rank": 41,
+      "category": "汽车"
     },
     {
       "raw_hot": 19427,
@@ -38663,6 +38815,9 @@
     },
     {
       "word": "#把握两岸关系大局#"
+    },
+    {
+      "word": "#学纪知纪明纪守纪#"
     }
   ]
 }
