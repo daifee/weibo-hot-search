@@ -1,6 +1,6 @@
 {
   "startTime": 1711902044401,
-  "endTime": 1713064692212,
+  "endTime": 1713066275940,
   "band_list": [
     {
       "raw_hot": 16874674,
@@ -545,6 +545,14 @@
       "onboard_time": 1712791335,
       "rank": 3,
       "category": "情感"
+    },
+    {
+      "raw_hot": 1937335,
+      "num": 1937335,
+      "word": "伊朗99%的导弹和无人机被拦截",
+      "onboard_time": 1713064038,
+      "rank": 3,
+      "category": "国外时政"
     },
     {
       "raw_hot": 1935593,
@@ -1849,6 +1857,14 @@
       "onboard_time": 1712723720,
       "rank": 3,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1263301,
+      "num": 1263301,
+      "word": "清华作业你胆敢用北大的纸交",
+      "onboard_time": 1713060799,
+      "rank": 4,
+      "category": "教育"
     },
     {
       "raw_hot": 1262092,
@@ -3323,14 +3339,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 931155,
-      "num": 931155,
-      "word": "伊朗99%的导弹和无人机被拦截",
-      "onboard_time": 1713064038,
-      "rank": 3,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 931053,
       "num": 931053,
       "word": "黄金再次爆发",
@@ -4227,6 +4235,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 806864,
+      "num": 806864,
+      "word": "央视曝光职业闭店人",
+      "onboard_time": 1713061759,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 805711,
       "num": 348235,
       "word": "杨立新遇害21天前刚收嫌疑人为徒",
@@ -4473,14 +4489,6 @@
       "onboard_time": 1712883919,
       "rank": 8,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 782137,
-      "num": 782137,
-      "word": "清华作业你胆敢用北大的纸交",
-      "onboard_time": 1713060799,
-      "rank": 4,
-      "category": "教育"
     },
     {
       "raw_hot": 782108,
@@ -5001,6 +5009,14 @@
       "onboard_time": 1712666778,
       "rank": 43,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 733922,
+      "num": 733922,
+      "word": "老板 不要香菜",
+      "onboard_time": 1713060138,
+      "rank": 7,
+      "category": "剧集"
     },
     {
       "raw_hot": 733750,
@@ -5809,14 +5825,6 @@
       "onboard_time": 1712040199,
       "rank": 11,
       "category": "教育"
-    },
-    {
-      "raw_hot": 668712,
-      "num": 668712,
-      "word": "老板 不要香菜",
-      "onboard_time": 1713060138,
-      "rank": 7,
-      "category": "剧集"
     },
     {
       "raw_hot": 668127,
@@ -6979,6 +6987,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 592940,
+      "num": 592940,
+      "word": "旭旭宝宝 三年了终于圆梦了",
+      "onboard_time": 1713063319,
+      "rank": 25,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 592622,
       "num": 592622,
       "word": "张艺兴将在韩国打歌",
@@ -7137,14 +7153,6 @@
       "onboard_time": 1712120423,
       "rank": 19,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 585784,
-      "num": 585784,
-      "word": "央视曝光职业闭店人",
-      "onboard_time": 1713061759,
-      "rank": 8,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 585317,
@@ -9083,6 +9091,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 485611,
+      "num": 259981,
+      "word": "和恋爱11年的男朋友分手了",
+      "onboard_time": 1713065296,
+      "rank": 22,
+      "category": "情感"
+    },
+    {
       "raw_hot": 485469,
       "num": 485469,
       "word": "眼泪女王 宋仲基",
@@ -9633,6 +9649,14 @@
       "onboard_time": 1712753600,
       "rank": 14,
       "category": "电影"
+    },
+    {
+      "raw_hot": 464875,
+      "num": 464875,
+      "word": "花少去老挝了",
+      "onboard_time": 1713064158,
+      "rank": 23,
+      "category": "综艺"
     },
     {
       "raw_hot": 464728,
@@ -15091,6 +15115,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 298875,
+      "num": 298875,
+      "word": "猫一杯",
+      "onboard_time": 1712964194,
+      "rank": 23,
+      "category": "网红"
+    },
+    {
       "raw_hot": 298393,
       "num": 298393,
       "word": "高合",
@@ -16259,14 +16291,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 275011,
-      "num": 275011,
-      "word": "花少去老挝了",
-      "onboard_time": 1713064158,
-      "rank": 23,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 274930,
       "num": 254714,
       "word": "创造营首个海外女团出道",
@@ -16619,6 +16643,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 268367,
+      "num": 268367,
+      "word": "伊朗空袭以色列当地华人发声",
+      "onboard_time": 1713065059,
+      "rank": 19,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 268341,
       "num": 268341,
       "word": "周冠宇退赛",
@@ -16729,14 +16761,6 @@
       "onboard_time": 1712714899,
       "rank": 25,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 265383,
-      "num": 265383,
-      "word": "旭旭宝宝 三年了终于圆梦了",
-      "onboard_time": 1713063319,
-      "rank": 25,
-      "category": "游戏"
     },
     {
       "raw_hot": 265153,
@@ -18051,14 +18075,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 247915,
-      "num": 247915,
-      "word": "猫一杯",
-      "onboard_time": 1712964194,
-      "rank": 23,
-      "category": "网红"
-    },
-    {
       "raw_hot": 247879,
       "num": 247879,
       "word": "花间令女二悲惨的一生",
@@ -18489,6 +18505,14 @@
       "onboard_time": 1712047638,
       "rank": 30,
       "category": "教育"
+    },
+    {
+      "raw_hot": 241739,
+      "num": 241739,
+      "word": "年轻人为什么热衷追逐奶茶联名",
+      "onboard_time": 1713064279,
+      "rank": 36,
+      "category": "美食"
     },
     {
       "raw_hot": 241638,
@@ -19283,6 +19307,14 @@
       "category": "科学科普,互联网"
     },
     {
+      "raw_hot": 231427,
+      "num": 220087,
+      "word": "结婚一年婆婆就瘫痪了",
+      "onboard_time": 1713066076,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 231244,
       "num": 231244,
       "word": "阿根廷总统称计划收复马岛",
@@ -20027,6 +20059,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 221607,
+      "num": 221607,
+      "word": "伊朗对以的袭击可被视为已结束",
+      "onboard_time": 1713065178,
+      "rank": 29,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 221482,
       "num": 347993,
       "word": "CBA",
@@ -20403,6 +20443,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 217828,
+      "num": 217828,
+      "word": "赵丽颖的事业粉狂喜",
+      "onboard_time": 1713065897,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 217816,
       "num": 217816,
       "word": "央行连续第17个月增持黄金储备",
@@ -20545,6 +20593,14 @@
       "onboard_time": 1712461158,
       "rank": 30,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 216219,
+      "num": 216219,
+      "word": "外交部回应伊朗发动军事打击",
+      "onboard_time": 1713065538,
+      "rank": 32,
+      "category": "国外时政"
     },
     {
       "raw_hot": 216011,
@@ -25451,14 +25507,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 183877,
-      "num": 183877,
-      "word": "年轻人为什么热衷追逐奶茶联名",
-      "onboard_time": 1713064279,
-      "rank": 36,
-      "category": "美食"
-    },
-    {
       "raw_hot": 183864,
       "num": 183864,
       "word": "郑州偶遇向佐拍戏",
@@ -25753,6 +25801,14 @@
       "onboard_time": 1712642479,
       "rank": 33,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 181856,
+      "num": 181856,
+      "word": "以色列要求召开安理会特别会议",
+      "onboard_time": 1713064457,
+      "rank": 47,
+      "category": "国外时政"
     },
     {
       "raw_hot": 181744,
@@ -28851,6 +28907,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 158825,
+      "num": 158825,
+      "word": "原来真有人考研考公两手抓",
+      "onboard_time": 1713066138,
+      "rank": 40,
+      "category": "教育"
+    },
+    {
       "raw_hot": 158790,
       "num": 158790,
       "word": "看承欢记给妈妈选衣服有方向了",
@@ -28993,6 +29057,14 @@
       "onboard_time": 1712043020,
       "rank": 40,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 157634,
+      "num": 157634,
+      "word": "面试被问爸爸妈妈是做什么的",
+      "onboard_time": 1713065419,
+      "rank": 41,
+      "category": "情感"
     },
     {
       "raw_hot": 157589,
@@ -30979,6 +31051,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 144820,
+      "num": 144820,
+      "word": "没有人能干着走出云南",
+      "onboard_time": 1713064457,
+      "rank": 45,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 144803,
       "num": 144803,
       "word": "小孩哥硬控魏大勋5秒",
@@ -32531,14 +32611,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 133826,
-      "num": 133826,
-      "word": "没有人能干着走出云南",
-      "onboard_time": 1713064457,
-      "rank": 45,
-      "category": "旅游"
-    },
-    {
       "raw_hot": 133817,
       "num": 133817,
       "word": "爱是分享不是报备",
@@ -33233,14 +33305,6 @@
       "onboard_time": 1712477720,
       "rank": 46,
       "category": "体育"
-    },
-    {
-      "raw_hot": 127112,
-      "num": 127112,
-      "word": "以色列要求召开安理会特别会议",
-      "onboard_time": 1713064457,
-      "rank": 47,
-      "category": "国外时政"
     },
     {
       "raw_hot": 127103,
@@ -37011,12 +37075,28 @@
       "category": "数码"
     },
     {
+      "raw_hot": 54715,
+      "num": 222128,
+      "word": "快来查收这组春日健康提示",
+      "onboard_time": 1713064817,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 54446,
       "num": 54446,
       "word": "一90后被证监会罚没2.7亿元",
       "onboard_time": 1712186053,
       "rank": 46,
       "category": "财经"
+    },
+    {
+      "raw_hot": 54406,
+      "num": 906054,
+      "word": "时速400公里的高铁要来了",
+      "onboard_time": 1713066019,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 54194,
@@ -38225,6 +38305,14 @@
       "onboard_time": 1712660659,
       "rank": 36,
       "category": "数码"
+    },
+    {
+      "raw_hot": 18299,
+      "num": 171928,
+      "word": "P5X出了客家话配音",
+      "onboard_time": 1713065837,
+      "rank": 38,
+      "category": "游戏"
     },
     {
       "raw_hot": 18220,

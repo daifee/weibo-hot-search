@@ -1,0 +1,410 @@
+{
+  "runTime": 1713066275940,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1937335,
+        "num": 1937335,
+        "word": "伊朗99%的导弹和无人机被拦截",
+        "onboard_time": 1713064038,
+        "rank": 0,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 1263301,
+        "num": 1263301,
+        "word": "清华作业你胆敢用北大的纸交",
+        "onboard_time": 1713060799,
+        "rank": 1,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 54406,
+        "num": 906054,
+        "word": "时速400公里的高铁要来了",
+        "onboard_time": 1713066019,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 844691,
+        "num": 844691,
+        "word": "伊朗有史以来首次直接袭击以色列",
+        "onboard_time": 1713055518,
+        "rank": 3,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 806864,
+        "num": 806864,
+        "word": "央视曝光职业闭店人",
+        "onboard_time": 1713061759,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 788380,
+        "num": 788380,
+        "word": "多国宣布关闭领空",
+        "onboard_time": 1713051375,
+        "rank": 5,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 733922,
+        "num": 733922,
+        "word": "老板 不要香菜",
+        "onboard_time": 1713060138,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 645136,
+        "num": 645136,
+        "word": "郝蕾肉眼可见的瘦了",
+        "onboard_time": 1713057077,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 605754,
+        "num": 605754,
+        "word": "张若昀半夜三点给郭麒麟打电话",
+        "onboard_time": 1713056359,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 249886,
+        "num": 599204,
+        "word": "男童30万耳蜗丢失全城合力找回",
+        "onboard_time": 1713041710,
+        "rank": 9,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 592940,
+        "num": 592940,
+        "word": "旭旭宝宝 三年了终于圆梦了",
+        "onboard_time": 1713063319,
+        "rank": 10,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 495650,
+        "num": 495650,
+        "word": "拜登回应伊朗袭击以色列",
+        "onboard_time": 1713052756,
+        "rank": 11,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 464875,
+        "num": 464875,
+        "word": "花少去老挝了",
+        "onboard_time": 1713064158,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 382687,
+        "num": 382687,
+        "word": "男生被醉汉掐脖反击致对方倒地被刑拘",
+        "onboard_time": 1713056298,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 365527,
+        "num": 365527,
+        "word": "以色列多城市遭袭目前1人受伤",
+        "onboard_time": 1713059538,
+        "rank": 14,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 350044,
+        "num": 350044,
+        "word": "纪凌尘祝阚清子幸福",
+        "onboard_time": 1713016579,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 299617,
+        "num": 299617,
+        "word": "李泰容光头",
+        "onboard_time": 1713060559,
+        "rank": 16,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 298875,
+        "num": 298875,
+        "word": "猫一杯",
+        "onboard_time": 1713050955,
+        "rank": 17,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 274361,
+        "num": 274361,
+        "word": "伊朗向以色列发射数十架无人机",
+        "onboard_time": 1713049813,
+        "rank": 18,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 268367,
+        "num": 268367,
+        "word": "伊朗空袭以色列当地华人发声",
+        "onboard_time": 1713065059,
+        "rank": 19,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 867483,
+        "num": 267001,
+        "word": "被妈妈看到避孕套了怎么办",
+        "onboard_time": 1713059598,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 495960,
+        "num": 263704,
+        "word": "真的建议结婚不能太着急",
+        "onboard_time": 1713062718,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 485611,
+        "num": 259981,
+        "word": "和恋爱11年的男朋友分手了",
+        "onboard_time": 1713065296,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 353656,
+        "num": 254762,
+        "word": "伊以冲突时间线",
+        "onboard_time": 1713052756,
+        "rank": 23,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 337422,
+        "num": 251859,
+        "word": "伊朗对以色列展开打击行动",
+        "onboard_time": 1713049513,
+        "rank": 24,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 248363,
+        "num": 248363,
+        "word": "纪凌尘首谈与阚清子四年感情",
+        "onboard_time": 1713061338,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 241739,
+        "num": 241739,
+        "word": "年轻人为什么热衷追逐奶茶联名",
+        "onboard_time": 1713064279,
+        "rank": 26,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 222936,
+        "num": 222936,
+        "word": "伊朗向以色列目标发射弹道导弹",
+        "onboard_time": 1713050054,
+        "rank": 27,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 54715,
+        "num": 222128,
+        "word": "快来查收这组春日健康提示",
+        "onboard_time": 1713064817,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 221607,
+        "num": 221607,
+        "word": "伊朗对以的袭击可被视为已结束",
+        "onboard_time": 1713065178,
+        "rank": 29,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 231427,
+        "num": 220087,
+        "word": "结婚一年婆婆就瘫痪了",
+        "onboard_time": 1713066076,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 217828,
+        "num": 217828,
+        "word": "赵丽颖的事业粉狂喜",
+        "onboard_time": 1713065897,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 216219,
+        "num": 216219,
+        "word": "外交部回应伊朗发动军事打击",
+        "onboard_time": 1713065538,
+        "rank": 32,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 213971,
+        "num": 213971,
+        "word": "上个房主是怎样苦命的一个人",
+        "onboard_time": 1713053177,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 210587,
+        "num": 210587,
+        "word": "德国总理朔尔茨抵达重庆",
+        "onboard_time": 1713058697,
+        "rank": 34,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 202454,
+        "num": 202454,
+        "word": "眼泪女王中出现的中文",
+        "onboard_time": 1713052756,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 192911,
+        "num": 192911,
+        "word": "小米汽车将开启限时改配",
+        "onboard_time": 1713061639,
+        "rank": 36,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 181856,
+        "num": 181856,
+        "word": "以色列要求召开安理会特别会议",
+        "onboard_time": 1713064457,
+        "rank": 37,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 18299,
+        "num": 171928,
+        "word": "P5X出了客家话配音",
+        "onboard_time": 1713065837,
+        "rank": 38,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 170856,
+        "num": 170856,
+        "word": "伊朗称若以色列采取行动将双倍力量回应",
+        "onboard_time": 1713059538,
+        "rank": 39,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 158825,
+        "num": 158825,
+        "word": "原来真有人考研考公两手抓",
+        "onboard_time": 1713066138,
+        "rank": 40,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 157634,
+        "num": 157634,
+        "word": "面试被问爸爸妈妈是做什么的",
+        "onboard_time": 1713065419,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 157558,
+        "num": 157558,
+        "word": "伊朗已发射150枚导弹",
+        "onboard_time": 1713055217,
+        "rank": 42,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 144820,
+        "num": 144820,
+        "word": "没有人能干着走出云南",
+        "onboard_time": 1713064457,
+        "rank": 43,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 144106,
+        "num": 144106,
+        "word": "许嵩演唱会保安比许嵩还嗨",
+        "onboard_time": 1713062298,
+        "rank": 44,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 143463,
+        "num": 143463,
+        "word": "以色列要求学校暂时停课",
+        "onboard_time": 1713053236,
+        "rank": 45,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 142269,
+        "num": 142269,
+        "word": "孙怡玫瑰连衣裙",
+        "onboard_time": 1713034031,
+        "rank": 46,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 140569,
+        "num": 140569,
+        "word": "不喜欢宿舍的本质就是自己能量场太低了",
+        "onboard_time": 1713062479,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 140253,
+        "num": 140253,
+        "word": "伊朗驻联合国代表团发表声明",
+        "onboard_time": 1713050474,
+        "rank": 48,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 139236,
+        "num": 139236,
+        "word": "猫一杯旗下品牌发货售后正常",
+        "onboard_time": 1713015020,
+        "rank": 49,
+        "category": "网红"
+      }
+    ],
+    "hotgov": {
+      "word": "#相知无远近万里尚为邻#"
+    }
+  }
+}
