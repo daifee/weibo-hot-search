@@ -1,6 +1,6 @@
 {
   "startTime": 1713025251708,
-  "endTime": 1713082627898,
+  "endTime": 1713092909288,
   "band_list": [
     {
       "raw_hot": 3131894,
@@ -59,6 +59,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 1334803,
+      "num": 665023,
+      "word": "Angelababy金像奖红毯",
+      "onboard_time": 1713091577,
+      "rank": 10,
+      "category": "电影"
+    },
+    {
       "raw_hot": 1330114,
       "num": 1330114,
       "word": "网友偶遇宋祖儿",
@@ -96,6 +104,22 @@
       "word": "纪凌尘祝阚清子幸福",
       "onboard_time": 1713016579,
       "rank": 3,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 1095863,
+      "num": 1095863,
+      "word": "韩国爱豆整容堪比大变活人",
+      "onboard_time": 1713087617,
+      "rank": 0,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1059168,
+      "num": 1059168,
+      "word": "胡彦斌经纪人参加浪姐",
+      "onboard_time": 1713088638,
+      "rank": 1,
       "category": "综艺"
     },
     {
@@ -155,6 +179,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 845323,
+      "num": 845323,
+      "word": "女子丰胸检出骆驼等动物源性成分",
+      "onboard_time": 1713081378,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 806864,
       "num": 806864,
       "word": "央视曝光职业闭店人",
@@ -203,6 +235,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 748008,
+      "num": 748008,
+      "word": "男生工作2年考上211研究生后退学进山",
+      "onboard_time": 1713088219,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 744914,
+      "num": 744914,
+      "word": "年轻真好14秒睡了5觉",
+      "onboard_time": 1713085699,
+      "rank": 5,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 733922,
       "num": 733922,
       "word": "老板 不要香菜",
@@ -233,6 +281,22 @@
       "onboard_time": 1713052756,
       "rank": 5,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 671796,
+      "num": 671796,
+      "word": "杨幂 CL",
+      "onboard_time": 1713089059,
+      "rank": 7,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 664907,
+      "num": 664907,
+      "word": "多家银行下架大额存单",
+      "onboard_time": 1713086598,
+      "rank": 11,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 644092,
@@ -371,11 +435,27 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 512090,
+      "num": 199231,
+      "word": "原来这些专业考不了公务员",
+      "onboard_time": 1713092719,
+      "rank": 30,
+      "category": "教育"
+    },
+    {
       "raw_hot": 509924,
       "num": 341222,
       "word": "伊朗向以色列发射数十架无人机",
       "onboard_time": 1713049813,
       "rank": 30,
+      "category": "国外时政"
+    },
+    {
+      "raw_hot": 500158,
+      "num": 500158,
+      "word": "伊以冲突",
+      "onboard_time": 1713085158,
+      "rank": 12,
       "category": "国外时政"
     },
     {
@@ -611,6 +691,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 362117,
+      "num": 362117,
+      "word": "GEN对战T1",
+      "onboard_time": 1713078499,
+      "rank": 37,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 361000,
       "num": 361000,
       "word": "李泰容光头",
@@ -673,14 +761,6 @@
       "onboard_time": 1713053475,
       "rank": 18,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 332622,
-      "num": 332622,
-      "word": "女子丰胸检出骆驼等动物源性成分",
-      "onboard_time": 1713081378,
-      "rank": 38,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 325615,
@@ -779,6 +859,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 300409,
+      "num": 300409,
+      "word": "张馨予瘦10斤的拍照教程",
+      "onboard_time": 1713089118,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 299223,
       "num": 299223,
       "word": "以色列",
@@ -803,12 +891,28 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 297144,
+      "num": 297144,
+      "word": "伊朗称成功达成两个打击目标",
+      "onboard_time": 1713085758,
+      "rank": 18,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 296120,
       "num": 296120,
       "word": "金莎想带男友报名郝蕾演技课",
       "onboard_time": 1713067998,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 292170,
+      "num": 292170,
+      "word": "警方披露调查猫一杯虚假消息案细节",
+      "onboard_time": 1713085758,
+      "rank": 19,
+      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 291354,
@@ -833,6 +937,14 @@
       "onboard_time": 1713070818,
       "rank": 16,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 287621,
+      "num": 287621,
+      "word": "父母要撮合的相亲对象没看上我",
+      "onboard_time": 1713087378,
+      "rank": 20,
+      "category": "情感"
     },
     {
       "raw_hot": 287542,
@@ -899,6 +1011,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 264682,
+      "num": 264682,
+      "word": "金像奖",
+      "onboard_time": 1713086777,
+      "rank": 21,
+      "category": "电影"
+    },
+    {
       "raw_hot": 264359,
       "num": 238505,
       "word": "耶路撒冷响起巨大爆炸声",
@@ -963,6 +1083,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 246168,
+      "num": 246168,
+      "word": "辛芷蕾现在换鞋还来得及",
+      "onboard_time": 1713091939,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 245917,
+      "num": 245917,
+      "word": "何洁 我不在乎翻红因为我红过",
+      "onboard_time": 1713083778,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 242860,
       "num": 242860,
       "word": "赵丽颖的事业粉狂喜",
@@ -987,6 +1123,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 239473,
+      "num": 239473,
+      "word": "相声演员陈涌泉去世",
+      "onboard_time": 1713087197,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 233297,
       "num": 233297,
       "word": "Doinb爆料Tarzan找到队伍",
@@ -1003,11 +1147,11 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 231375,
-      "num": 231375,
-      "word": "GEN对战T1",
-      "onboard_time": 1713078499,
-      "rank": 37,
+      "raw_hot": 230021,
+      "num": 230021,
+      "word": "T1和GEN决胜局",
+      "onboard_time": 1713092237,
+      "rank": 25,
       "category": "电竞"
     },
     {
@@ -1075,6 +1219,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 222448,
+      "num": 222448,
+      "word": "王一博首次尝试自己做摄影师",
+      "onboard_time": 1713091098,
+      "rank": 26,
+      "category": "电影"
+    },
+    {
       "raw_hot": 221607,
       "num": 221607,
       "word": "伊朗对以的袭击可被视为已结束",
@@ -1123,6 +1275,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 206554,
+      "num": 206554,
+      "word": "宫崎骏 那你呢孩子",
+      "onboard_time": 1713085578,
+      "rank": 27,
+      "category": "电影"
+    },
+    {
       "raw_hot": 205725,
       "num": 205725,
       "word": "胡一天张婧仪像拍晋江封面",
@@ -1145,6 +1305,14 @@
       "onboard_time": 1713006378,
       "rank": 34,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 203539,
+      "num": 203539,
+      "word": "狼队零封WB",
+      "onboard_time": 1713092659,
+      "rank": 28,
+      "category": "电竞"
     },
     {
       "raw_hot": 202779,
@@ -1171,6 +1339,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 199491,
+      "num": 199491,
+      "word": "sorry来sorry去宝宝给伞你不拒",
+      "onboard_time": 1713091517,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 198953,
+      "num": 198953,
+      "word": "品牌方删除猫一杯物料",
+      "onboard_time": 1713083477,
+      "rank": 31,
+      "category": "社会新闻,网红"
+    },
+    {
       "raw_hot": 198613,
       "num": 198613,
       "word": "萌探2024私自改衣服",
@@ -1193,6 +1377,14 @@
       "onboard_time": 1713042311,
       "rank": 43,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 196460,
+      "num": 196460,
+      "word": "去面试的路上被HR删了微信",
+      "onboard_time": 1713088037,
+      "rank": 32,
+      "category": "幽默"
     },
     {
       "raw_hot": 193367,
@@ -1227,6 +1419,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 185739,
+      "num": 185739,
+      "word": "猫一杯这事为啥会闹这么大",
+      "onboard_time": 1713082758,
+      "rank": 34,
+      "category": "社会新闻,网红"
+    },
+    {
       "raw_hot": 184394,
       "num": 184394,
       "word": "许嵩演唱会保安比许嵩还嗨",
@@ -1235,12 +1435,28 @@
       "category": "演出"
     },
     {
+      "raw_hot": 183729,
+      "num": 183729,
+      "word": "韦世豪绝杀",
+      "onboard_time": 1713090798,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 183606,
       "num": 183606,
       "word": "有个情绪稳定的爸爸太幸福了",
       "onboard_time": 1713082278,
       "rank": 34,
       "category": "情感"
+    },
+    {
+      "raw_hot": 183190,
+      "num": 183190,
+      "word": "JDG对战TES",
+      "onboard_time": 1713090977,
+      "rank": 36,
+      "category": "电竞"
     },
     {
       "raw_hot": 182951,
@@ -1347,6 +1563,30 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 167328,
+      "num": 167328,
+      "word": "妈妈养了13年的狗被邻居打死了",
+      "onboard_time": 1713088338,
+      "rank": 37,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 166424,
+      "num": 166424,
+      "word": "何杰",
+      "onboard_time": 1713086298,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 165473,
+      "num": 165473,
+      "word": "原来广东小孩工作后还要交家用",
+      "onboard_time": 1713090558,
+      "rank": 39,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 164619,
       "num": 92404,
       "word": "白宫证实伊朗对以色列发动空袭",
@@ -1385,6 +1625,14 @@
       "onboard_time": 1713080237,
       "rank": 39,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 158245,
+      "num": 158245,
+      "word": "去狗咖把狗狗都哄睡着了",
+      "onboard_time": 1713089777,
+      "rank": 40,
+      "category": "幽默"
     },
     {
       "raw_hot": 157634,
@@ -1443,6 +1691,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 151011,
+      "num": 151011,
+      "word": "赵露思曾黎王安宇聚会合照",
+      "onboard_time": 1713091399,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 149843,
       "num": 149843,
       "word": "郑恺苗苗跳主题曲",
@@ -1475,6 +1731,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 145400,
+      "num": 145400,
+      "word": "别人坐你车最反感什么",
+      "onboard_time": 1713085699,
+      "rank": 43,
+      "category": "情感"
+    },
+    {
       "raw_hot": 144891,
       "num": 144891,
       "word": "许凯身材好好",
@@ -1497,6 +1761,14 @@
       "onboard_time": 1713019940,
       "rank": 38,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 144278,
+      "num": 144278,
+      "word": "吴镇宇排除纪凌尘好干脆",
+      "onboard_time": 1713084738,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 143149,
@@ -1611,6 +1883,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 127426,
+      "num": 127426,
+      "word": "谁来给于和伟科普一下破3有多牛",
+      "onboard_time": 1713086659,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 125993,
       "num": 125993,
       "word": "眼泪女王11集",
@@ -1625,6 +1905,30 @@
       "onboard_time": 1713012258,
       "rank": 46,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 125476,
+      "num": 125476,
+      "word": "狼队对战WB",
+      "onboard_time": 1713090738,
+      "rank": 46,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 125196,
+      "num": 125196,
+      "word": "泼水节的狗狗们",
+      "onboard_time": 1713092538,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 124477,
+      "num": 124477,
+      "word": "金秀贤一人分饰两角",
+      "onboard_time": 1713089897,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 120372,
@@ -1668,7 +1972,7 @@
     },
     {
       "raw_hot": 109301,
-      "num": 503249,
+      "num": 666338,
       "word": "谢谢为我们负重前行的人",
       "onboard_time": 1713078138,
       "rank": 9,
@@ -1705,6 +2009,14 @@
       "onboard_time": 1713006738,
       "rank": 49,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 90104,
+      "num": 665114,
+      "word": "这只大熊猫的糖分超标",
+      "onboard_time": 1713091818,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 89339,
@@ -1816,6 +2128,14 @@
       "word": "男子一个大意3万元一缸鱼快熟了",
       "onboard_time": 1713033492,
       "rank": 22,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 45804,
+      "num": 926155,
+      "word": "总体国家安全观主题宣传片护你安澜",
+      "onboard_time": 1713083238,
+      "rank": 2,
       "category": "社会新闻"
     },
     {

@@ -1,6 +1,6 @@
 {
   "startTime": 1711902044401,
-  "endTime": 1713082627898,
+  "endTime": 1713092909288,
   "band_list": [
     {
       "raw_hot": 16874674,
@@ -1667,6 +1667,14 @@
       "category": "游戏,网红"
     },
     {
+      "raw_hot": 1334803,
+      "num": 665023,
+      "word": "Angelababy金像奖红毯",
+      "onboard_time": 1713091577,
+      "rank": 10,
+      "category": "电影"
+    },
+    {
       "raw_hot": 1332179,
       "num": 1332179,
       "word": "沈近真下线",
@@ -2507,6 +2515,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1095863,
+      "num": 1095863,
+      "word": "韩国爱豆整容堪比大变活人",
+      "onboard_time": 1713087617,
+      "rank": 0,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1095004,
       "num": 1095004,
       "word": "陈都灵恭喜考研上岸粉丝",
@@ -2657,6 +2673,14 @@
       "onboard_time": 1712559618,
       "rank": 23,
       "category": "数码"
+    },
+    {
+      "raw_hot": 1059168,
+      "num": 1059168,
+      "word": "胡彦斌经纪人参加浪姐",
+      "onboard_time": 1713088638,
+      "rank": 1,
+      "category": "综艺"
     },
     {
       "raw_hot": 1058889,
@@ -3979,6 +4003,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 845323,
+      "num": 845323,
+      "word": "女子丰胸检出骆驼等动物源性成分",
+      "onboard_time": 1713081378,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 844234,
       "num": 844234,
       "word": "大碗娱乐发声明",
@@ -4923,6 +4955,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 748008,
+      "num": 748008,
+      "word": "男生工作2年考上211研究生后退学进山",
+      "onboard_time": 1713088219,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 746492,
       "num": 419991,
       "word": "仝卓工作室称将起诉王凯",
@@ -4961,6 +5001,14 @@
       "onboard_time": 1711969460,
       "rank": 24,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 744914,
+      "num": 744914,
+      "word": "年轻真好14秒睡了5觉",
+      "onboard_time": 1713085699,
+      "rank": 5,
+      "category": "幽默"
     },
     {
       "raw_hot": 743905,
@@ -5875,6 +5923,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 671796,
+      "num": 671796,
+      "word": "杨幂 CL",
+      "onboard_time": 1712683034,
+      "rank": 11,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 670566,
       "num": 670566,
       "word": "王一博粉丝 不愿意就算了",
@@ -5969,6 +6025,14 @@
       "onboard_time": 1712063061,
       "rank": 15,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 664907,
+      "num": 664907,
+      "word": "多家银行下架大额存单",
+      "onboard_time": 1713086598,
+      "rank": 11,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 664833,
@@ -8657,6 +8721,14 @@
       "onboard_time": 1712138721,
       "rank": 17,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 512090,
+      "num": 199231,
+      "word": "原来这些专业考不了公务员",
+      "onboard_time": 1713092719,
+      "rank": 30,
+      "category": "教育"
     },
     {
       "raw_hot": 511246,
@@ -12747,6 +12819,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 362117,
+      "num": 362117,
+      "word": "GEN对战T1",
+      "onboard_time": 1713078499,
+      "rank": 37,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 362039,
       "num": 362039,
       "word": "徐海乔问怎么从前夫哥变岳父大人了",
@@ -13825,14 +13905,6 @@
       "onboard_time": 1712499801,
       "rank": 27,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 332622,
-      "num": 332622,
-      "word": "女子丰胸检出骆驼等动物源性成分",
-      "onboard_time": 1713081378,
-      "rank": 38,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 332617,
@@ -15307,6 +15379,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 300409,
+      "num": 300409,
+      "word": "张馨予瘦10斤的拍照教程",
+      "onboard_time": 1713089118,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 300247,
       "num": 300247,
       "word": "教资69",
@@ -15465,6 +15545,14 @@
       "onboard_time": 1712383277,
       "rank": 18,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 297144,
+      "num": 297144,
+      "word": "伊朗称成功达成两个打击目标",
+      "onboard_time": 1713085758,
+      "rank": 18,
+      "category": "国外时政"
     },
     {
       "raw_hot": 296867,
@@ -15739,6 +15827,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 292170,
+      "num": 292170,
+      "word": "警方披露调查猫一杯虚假消息案细节",
+      "onboard_time": 1713085758,
+      "rank": 19,
+      "category": "社会新闻,网红"
+    },
+    {
       "raw_hot": 292054,
       "num": 262110,
       "word": "有些糖尿病可能是睡出来的",
@@ -15953,6 +16049,14 @@
       "onboard_time": 1712027719,
       "rank": 32,
       "category": "体育"
+    },
+    {
+      "raw_hot": 287621,
+      "num": 287621,
+      "word": "父母要撮合的相亲对象没看上我",
+      "onboard_time": 1713087378,
+      "rank": 20,
+      "category": "情感"
     },
     {
       "raw_hot": 287605,
@@ -17097,6 +17201,14 @@
       "onboard_time": 1712376077,
       "rank": 22,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 264682,
+      "num": 264682,
+      "word": "金像奖",
+      "onboard_time": 1713086777,
+      "rank": 21,
+      "category": "电影"
     },
     {
       "raw_hot": 264587,
@@ -18507,6 +18619,14 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 246168,
+      "num": 246168,
+      "word": "辛芷蕾现在换鞋还来得及",
+      "onboard_time": 1713091939,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 246091,
       "num": 246091,
       "word": "沈图南 林樵松",
@@ -18521,6 +18641,14 @@
       "onboard_time": 1712483180,
       "rank": 25,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 245917,
+      "num": 245917,
+      "word": "何洁 我不在乎翻红因为我红过",
+      "onboard_time": 1713083778,
+      "rank": 23,
+      "category": "综艺"
     },
     {
       "raw_hot": 245890,
@@ -19049,6 +19177,14 @@
       "onboard_time": 1712152822,
       "rank": 32,
       "category": "教育"
+    },
+    {
+      "raw_hot": 239473,
+      "num": 239473,
+      "word": "相声演员陈涌泉去世",
+      "onboard_time": 1713087197,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 239442,
@@ -19683,14 +19819,6 @@
       "category": "科学科普,互联网"
     },
     {
-      "raw_hot": 231375,
-      "num": 231375,
-      "word": "GEN对战T1",
-      "onboard_time": 1713078499,
-      "rank": 37,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 231244,
       "num": 231244,
       "word": "阿根廷总统称计划收复马岛",
@@ -19769,6 +19897,14 @@
       "onboard_time": 1712740818,
       "rank": 34,
       "category": "美食"
+    },
+    {
+      "raw_hot": 230021,
+      "num": 230021,
+      "word": "T1和GEN决胜局",
+      "onboard_time": 1713092237,
+      "rank": 25,
+      "category": "电竞"
     },
     {
       "raw_hot": 229897,
@@ -20409,6 +20545,14 @@
       "onboard_time": 1712503459,
       "rank": 30,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 222448,
+      "num": 222448,
+      "word": "王一博首次尝试自己做摄影师",
+      "onboard_time": 1713091098,
+      "rank": 26,
+      "category": "电影"
     },
     {
       "raw_hot": 222427,
@@ -22059,6 +22203,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 206554,
+      "num": 206554,
+      "word": "宫崎骏 那你呢孩子",
+      "onboard_time": 1713085578,
+      "rank": 27,
+      "category": "电影"
+    },
+    {
       "raw_hot": 206435,
       "num": 206435,
       "word": "侃爷老婆夏天穿皮草",
@@ -22577,6 +22729,14 @@
       "onboard_time": 1712042238,
       "rank": 49,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 203539,
+      "num": 203539,
+      "word": "狼队零封WB",
+      "onboard_time": 1713092659,
+      "rank": 28,
+      "category": "电竞"
     },
     {
       "raw_hot": 203453,
@@ -23267,6 +23427,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 199491,
+      "num": 199491,
+      "word": "sorry来sorry去宝宝给伞你不拒",
+      "onboard_time": 1713091517,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 199489,
       "num": 199489,
       "word": "衡门有狐",
@@ -23369,6 +23537,14 @@
       "onboard_time": 1712734998,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 198953,
+      "num": 198953,
+      "word": "品牌方删除猫一杯物料",
+      "onboard_time": 1713083477,
+      "rank": 31,
+      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 198863,
@@ -23729,6 +23905,14 @@
       "onboard_time": 1712225718,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 196460,
+      "num": 196460,
+      "word": "去面试的路上被HR删了微信",
+      "onboard_time": 1713088037,
+      "rank": 32,
+      "category": "幽默"
     },
     {
       "raw_hot": 196400,
@@ -25723,6 +25907,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 185739,
+      "num": 185739,
+      "word": "猫一杯这事为啥会闹这么大",
+      "onboard_time": 1713082758,
+      "rank": 34,
+      "category": "社会新闻,网红"
+    },
+    {
       "raw_hot": 185695,
       "num": 185695,
       "word": "卓沅 春天太美好了",
@@ -26003,6 +26195,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 183729,
+      "num": 183729,
+      "word": "韦世豪绝杀",
+      "onboard_time": 1713090798,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 183725,
       "num": 183725,
       "word": "原来全麻后真的会社死",
@@ -26073,6 +26273,14 @@
       "onboard_time": 1712805197,
       "rank": 41,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 183190,
+      "num": 183190,
+      "word": "JDG对战TES",
+      "onboard_time": 1713090977,
+      "rank": 36,
+      "category": "电竞"
     },
     {
       "raw_hot": 183055,
@@ -26441,14 +26649,6 @@
       "onboard_time": 1712052380,
       "rank": 30,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 180855,
-      "num": 180855,
-      "word": "杨幂 CL",
-      "onboard_time": 1712683034,
-      "rank": 11,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 180850,
@@ -28171,6 +28371,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 167328,
+      "num": 167328,
+      "word": "妈妈养了13年的狗被邻居打死了",
+      "onboard_time": 1713088338,
+      "rank": 37,
+      "category": "情感"
+    },
+    {
       "raw_hot": 167265,
       "num": 167265,
       "word": "沈月港风卷发",
@@ -28241,6 +28449,14 @@
       "onboard_time": 1712534059,
       "rank": 40,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 166424,
+      "num": 166424,
+      "word": "何杰",
+      "onboard_time": 1713086298,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 166405,
@@ -28369,6 +28585,14 @@
       "onboard_time": 1712554818,
       "rank": 37,
       "category": "情感"
+    },
+    {
+      "raw_hot": 165473,
+      "num": 165473,
+      "word": "原来广东小孩工作后还要交家用",
+      "onboard_time": 1713090558,
+      "rank": 39,
+      "category": "幽默"
     },
     {
       "raw_hot": 165461,
@@ -29499,6 +29723,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 158245,
+      "num": 158245,
+      "word": "去狗咖把狗狗都哄睡着了",
+      "onboard_time": 1713089777,
+      "rank": 40,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 158161,
       "num": 480530,
       "word": "下一个世界级产品或诞生在中国",
@@ -30627,6 +30859,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 151011,
+      "num": 151011,
+      "word": "赵露思曾黎王安宇聚会合照",
+      "onboard_time": 1713091399,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 150923,
       "num": 141969,
       "word": "承欢记片尾曲MV",
@@ -31547,6 +31787,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 145400,
+      "num": 145400,
+      "word": "别人坐你车最反感什么",
+      "onboard_time": 1713085699,
+      "rank": 43,
+      "category": "情感"
+    },
+    {
       "raw_hot": 145393,
       "num": 145393,
       "word": "夫妇俩开车多看一眼救了一个人",
@@ -31641,6 +31889,14 @@
       "onboard_time": 1712819119,
       "rank": 32,
       "category": "军事"
+    },
+    {
+      "raw_hot": 144278,
+      "num": 144278,
+      "word": "吴镇宇排除纪凌尘好干脆",
+      "onboard_time": 1713084738,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 144223,
@@ -33891,6 +34147,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 127426,
+      "num": 127426,
+      "word": "谁来给于和伟科普一下破3有多牛",
+      "onboard_time": 1713086659,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 127420,
       "num": 127420,
       "word": "国足对阵泰国生死战时间地点确定",
@@ -34131,6 +34395,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 125476,
+      "num": 125476,
+      "word": "狼队对战WB",
+      "onboard_time": 1713090738,
+      "rank": 46,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 125460,
       "num": 125460,
       "word": "养过狗的人一看就懂",
@@ -34177,6 +34449,14 @@
       "onboard_time": 1712530814,
       "rank": 28,
       "category": "情感"
+    },
+    {
+      "raw_hot": 125196,
+      "num": 125196,
+      "word": "泼水节的狗狗们",
+      "onboard_time": 1713092538,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 125180,
@@ -34265,6 +34545,14 @@
       "onboard_time": 1712969417,
       "rank": 43,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 124477,
+      "num": 124477,
+      "word": "金秀贤一人分饰两角",
+      "onboard_time": 1713089897,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 124448,
@@ -35572,7 +35860,7 @@
     },
     {
       "raw_hot": 109301,
-      "num": 503249,
+      "num": 666338,
       "word": "谢谢为我们负重前行的人",
       "onboard_time": 1713078138,
       "rank": 9,
@@ -36561,6 +36849,14 @@
       "onboard_time": 1712530814,
       "rank": 38,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 90104,
+      "num": 665114,
+      "word": "这只大熊猫的糖分超标",
+      "onboard_time": 1713091818,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 89520,
@@ -37953,6 +38249,14 @@
       "onboard_time": 1712092751,
       "rank": 44,
       "category": "财经"
+    },
+    {
+      "raw_hot": 45804,
+      "num": 926155,
+      "word": "总体国家安全观主题宣传片护你安澜",
+      "onboard_time": 1713083238,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 45789,
