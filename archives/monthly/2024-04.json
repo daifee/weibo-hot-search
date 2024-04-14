@@ -1,6 +1,6 @@
 {
   "startTime": 1711902044401,
-  "endTime": 1713059908485,
+  "endTime": 1713064692212,
   "band_list": [
     {
       "raw_hot": 16874674,
@@ -1691,6 +1691,14 @@
       "category": "科学科普,健康医疗"
     },
     {
+      "raw_hot": 1313756,
+      "num": 1313756,
+      "word": "伊朗有史以来首次直接袭击以色列",
+      "onboard_time": 1713055518,
+      "rank": 10,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 1312834,
       "num": 1312834,
       "word": "11年前狂购黄金的中国大妈解套了",
@@ -2073,14 +2081,6 @@
       "onboard_time": 1712841498,
       "rank": 28,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 1205642,
-      "num": 1205642,
-      "word": "伊朗有史以来首次直接袭击以色列",
-      "onboard_time": 1713055518,
-      "rank": 10,
-      "category": "国外时政"
     },
     {
       "raw_hot": 1205320,
@@ -3147,6 +3147,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 962163,
+      "num": 321059,
+      "word": "被妈妈看到避孕套了怎么办",
+      "onboard_time": 1713059598,
+      "rank": 20,
+      "category": "情感"
+    },
+    {
       "raw_hot": 961628,
       "num": 488336,
       "word": "鹿晗起诉莆田鞋帽商家",
@@ -3313,6 +3321,14 @@
       "onboard_time": 1712555418,
       "rank": 3,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 931155,
+      "num": 931155,
+      "word": "伊朗99%的导弹和无人机被拦截",
+      "onboard_time": 1713064038,
+      "rank": 3,
+      "category": "国外时政"
     },
     {
       "raw_hot": 931053,
@@ -4187,14 +4203,6 @@
       "category": "游戏,网红"
     },
     {
-      "raw_hot": 810610,
-      "num": 321059,
-      "word": "被妈妈看到避孕套了怎么办",
-      "onboard_time": 1713059598,
-      "rank": 20,
-      "category": "情感"
-    },
-    {
       "raw_hot": 810581,
       "num": 449198,
       "word": "庆余年2 泄漏",
@@ -4465,6 +4473,14 @@
       "onboard_time": 1712883919,
       "rank": 8,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 782137,
+      "num": 782137,
+      "word": "清华作业你胆敢用北大的纸交",
+      "onboard_time": 1713060799,
+      "rank": 4,
+      "category": "教育"
     },
     {
       "raw_hot": 782108,
@@ -4769,6 +4785,14 @@
       "onboard_time": 1712512333,
       "rank": 28,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 753379,
+      "num": 753379,
+      "word": "郝蕾肉眼可见的瘦了",
+      "onboard_time": 1713057077,
+      "rank": 7,
+      "category": "综艺"
     },
     {
       "raw_hot": 753377,
@@ -5787,6 +5811,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 668712,
+      "num": 668712,
+      "word": "老板 不要香菜",
+      "onboard_time": 1713060138,
+      "rank": 7,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 668127,
       "num": 668127,
       "word": "孙怡站姐呢",
@@ -6057,14 +6089,6 @@
       "onboard_time": 1712733138,
       "rank": 23,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 650227,
-      "num": 650227,
-      "word": "郝蕾肉眼可见的瘦了",
-      "onboard_time": 1713057077,
-      "rank": 7,
-      "category": "综艺"
     },
     {
       "raw_hot": 649910,
@@ -7115,6 +7139,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 585784,
+      "num": 585784,
+      "word": "央视曝光职业闭店人",
+      "onboard_time": 1713061759,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 585317,
       "num": 585317,
       "word": "肖战直播出图",
@@ -7673,6 +7705,14 @@
       "onboard_time": 1712707279,
       "rank": 11,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 549614,
+      "num": 308669,
+      "word": "真的建议结婚不能太着急",
+      "onboard_time": 1713062718,
+      "rank": 21,
+      "category": "情感"
     },
     {
       "raw_hot": 549499,
@@ -9009,6 +9049,14 @@
       "onboard_time": 1712552722,
       "rank": 18,
       "category": "电影"
+    },
+    {
+      "raw_hot": 486007,
+      "num": 486007,
+      "word": "男生被醉汉掐脖反击致对方倒地被刑拘",
+      "onboard_time": 1713056298,
+      "rank": 11,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 485961,
@@ -11451,6 +11499,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 395893,
+      "num": 395893,
+      "word": "以色列多城市遭袭目前1人受伤",
+      "onboard_time": 1713059538,
+      "rank": 19,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 395656,
       "num": 395656,
       "word": "Joy站姐发了内娱的Joy",
@@ -12465,6 +12521,14 @@
       "onboard_time": 1712404218,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 361000,
+      "num": 361000,
+      "word": "李泰容光头",
+      "onboard_time": 1713060559,
+      "rank": 14,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 360421,
@@ -13819,6 +13883,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 324505,
+      "num": 324505,
+      "word": "联合国安理会举行紧急会议",
+      "onboard_time": 1713059538,
+      "rank": 26,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 324311,
       "num": 324311,
       "word": "福建震感",
@@ -13841,14 +13913,6 @@
       "onboard_time": 1712728759,
       "rank": 21,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 323941,
-      "num": 323941,
-      "word": "以色列多城市遭袭目前1人受伤",
-      "onboard_time": 1713059538,
-      "rank": 19,
-      "category": "国外时政"
     },
     {
       "raw_hot": 323906,
@@ -14491,6 +14555,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 309553,
+      "num": 309553,
+      "word": "纪凌尘首谈与阚清子四年感情",
+      "onboard_time": 1713061338,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 308971,
       "num": 308971,
       "word": "雷军",
@@ -14569,6 +14641,14 @@
       "onboard_time": 1712113461,
       "rank": 33,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 307831,
+      "num": 307831,
+      "word": "伊朗称若以色列采取行动将双倍力量回应",
+      "onboard_time": 1713059538,
+      "rank": 30,
+      "category": "国外时政"
     },
     {
       "raw_hot": 307714,
@@ -16179,12 +16259,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 275137,
-      "num": 275137,
-      "word": "联合国安理会举行紧急会议",
-      "onboard_time": 1713059538,
-      "rank": 26,
-      "category": "国外时政"
+      "raw_hot": 275011,
+      "num": 275011,
+      "word": "花少去老挝了",
+      "onboard_time": 1713064158,
+      "rank": 23,
+      "category": "综艺"
     },
     {
       "raw_hot": 274930,
@@ -16649,6 +16729,14 @@
       "onboard_time": 1712714899,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 265383,
+      "num": 265383,
+      "word": "旭旭宝宝 三年了终于圆梦了",
+      "onboard_time": 1713063319,
+      "rank": 25,
+      "category": "游戏"
     },
     {
       "raw_hot": 265153,
@@ -17897,6 +17985,14 @@
       "onboard_time": 1712235020,
       "rank": 23,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 248290,
+      "num": 248290,
+      "word": "小米汽车将开启限时改配",
+      "onboard_time": 1713061639,
+      "rank": 26,
+      "category": "汽车"
     },
     {
       "raw_hot": 248247,
@@ -19681,14 +19777,6 @@
       "onboard_time": 1711945704,
       "rank": 41,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 224711,
-      "num": 224711,
-      "word": "伊朗称若以色列采取行动将双倍力量回应",
-      "onboard_time": 1713059538,
-      "rank": 30,
-      "category": "国外时政"
     },
     {
       "raw_hot": 224604,
@@ -22595,6 +22683,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 200132,
+      "num": 200132,
+      "word": "张栋梁在人才市场唱歌",
+      "onboard_time": 1713062898,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 200044,
       "num": 200044,
       "word": "许嵩武汉站",
@@ -25251,6 +25347,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 184394,
+      "num": 184394,
+      "word": "许嵩演唱会保安比许嵩还嗨",
+      "onboard_time": 1713062298,
+      "rank": 35,
+      "category": "演出"
+    },
+    {
       "raw_hot": 184386,
       "num": 184386,
       "word": "哥斯拉",
@@ -25345,6 +25449,14 @@
       "onboard_time": 1712061560,
       "rank": 34,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 183877,
+      "num": 183877,
+      "word": "年轻人为什么热衷追逐奶茶联名",
+      "onboard_time": 1713064279,
+      "rank": 36,
+      "category": "美食"
     },
     {
       "raw_hot": 183864,
@@ -26393,6 +26505,14 @@
       "onboard_time": 1712928618,
       "rank": 32,
       "category": "电影"
+    },
+    {
+      "raw_hot": 175732,
+      "num": 175732,
+      "word": "不喜欢宿舍的本质就是自己能量场太低了",
+      "onboard_time": 1713062479,
+      "rank": 37,
+      "category": "情感"
     },
     {
       "raw_hot": 175727,
@@ -31267,6 +31387,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 141726,
+      "num": 141726,
+      "word": "高海宁一句话让纪凌尘红了眼眶",
+      "onboard_time": 1713063738,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 141705,
       "num": 141705,
       "word": "表白的最高境界是什么",
@@ -31377,6 +31505,14 @@
       "onboard_time": 1712288718,
       "rank": 37,
       "category": "情感"
+    },
+    {
+      "raw_hot": 140993,
+      "num": 140993,
+      "word": "黄金再次出现回调",
+      "onboard_time": 1713063137,
+      "rank": 42,
+      "category": "财经"
     },
     {
       "raw_hot": 140986,
@@ -32395,6 +32531,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 133826,
+      "num": 133826,
+      "word": "没有人能干着走出云南",
+      "onboard_time": 1713064457,
+      "rank": 45,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 133817,
       "num": 133817,
       "word": "爱是分享不是报备",
@@ -33089,6 +33233,14 @@
       "onboard_time": 1712477720,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 127112,
+      "num": 127112,
+      "word": "以色列要求召开安理会特别会议",
+      "onboard_time": 1713064457,
+      "rank": 47,
+      "category": "国外时政"
     },
     {
       "raw_hot": 127103,
