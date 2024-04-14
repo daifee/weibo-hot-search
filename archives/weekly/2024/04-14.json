@@ -1,6 +1,6 @@
 {
   "startTime": 1713025251708,
-  "endTime": 1713082063242,
+  "endTime": 1713082627898,
   "band_list": [
     {
       "raw_hot": 3131894,
@@ -51,6 +51,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 1384101,
+      "num": 1384101,
+      "word": "你们有5根手指 我只有4根诶",
+      "onboard_time": 1713077417,
+      "rank": 1,
+      "category": "情感"
+    },
+    {
       "raw_hot": 1330114,
       "num": 1330114,
       "word": "网友偶遇宋祖儿",
@@ -73,14 +81,6 @@
       "onboard_time": 1713060799,
       "rank": 4,
       "category": "教育"
-    },
-    {
-      "raw_hot": 1246282,
-      "num": 1246282,
-      "word": "你们有5根手指 我只有4根诶",
-      "onboard_time": 1713077417,
-      "rank": 1,
-      "category": "情感"
     },
     {
       "raw_hot": 1193271,
@@ -339,20 +339,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 544226,
+      "num": 315473,
+      "word": "被父母发现有性生活你会尴尬吗",
+      "onboard_time": 1713078499,
+      "rank": 20,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 541715,
+      "num": 541715,
+      "word": "章若楠好会搭洞洞鞋",
+      "onboard_time": 1713080418,
+      "rank": 13,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 530269,
       "num": 530269,
       "word": "王祖蓝在香港被放假的广西人包围了",
       "onboard_time": 1713036671,
       "rank": 42,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 514935,
-      "num": 265947,
-      "word": "被父母发现有性生活你会尴尬吗",
-      "onboard_time": 1713078499,
-      "rank": 20,
-      "category": "情感"
     },
     {
       "raw_hot": 513262,
@@ -385,6 +393,14 @@
       "onboard_time": 1712989517,
       "rank": 7,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 493151,
+      "num": 493151,
+      "word": "本周桃花运最旺的星座",
+      "onboard_time": 1713080237,
+      "rank": 14,
+      "category": "情感"
     },
     {
       "raw_hot": 491253,
@@ -499,22 +515,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 428547,
-      "num": 428547,
-      "word": "章若楠好会搭洞洞鞋",
-      "onboard_time": 1713080418,
-      "rank": 13,
-      "category": "作品衍生"
-    },
-    {
-      "raw_hot": 427048,
-      "num": 427048,
-      "word": "本周桃花运最旺的星座",
-      "onboard_time": 1713080237,
-      "rank": 14,
-      "category": "情感"
-    },
-    {
       "raw_hot": 415928,
       "num": 415928,
       "word": "NewJeans去部队探望金泰亨",
@@ -587,6 +587,14 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 370678,
+      "num": 211435,
+      "word": "Faker奶奶",
+      "onboard_time": 1713081858,
+      "rank": 31,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 368581,
       "num": 368581,
       "word": "中国驻伊朗大使馆发安全提醒",
@@ -627,6 +635,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 357007,
+      "num": 357007,
+      "word": "孙颖莎 抽签",
+      "onboard_time": 1713081678,
+      "rank": 25,
+      "category": "体育"
+    },
+    {
       "raw_hot": 349912,
       "num": 349912,
       "word": "德国总理朔尔茨抵达重庆",
@@ -643,12 +659,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 338332,
+      "num": 338332,
+      "word": "蔡依林称折耳根是贵阳一姐",
+      "onboard_time": 1713081678,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 333049,
       "num": 333049,
       "word": "吴镇宇被袁咏仪强行闭麦",
       "onboard_time": 1713053475,
       "rank": 18,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 332622,
+      "num": 332622,
+      "word": "女子丰胸检出骆驼等动物源性成分",
+      "onboard_time": 1713081378,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 325615,
@@ -779,6 +811,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 291354,
+      "num": 291354,
+      "word": "刚割双眼皮朋友就开始打击我",
+      "onboard_time": 1713081259,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 290768,
       "num": 290768,
       "word": "伊朗空袭以色列当地华人发声",
@@ -811,11 +851,11 @@
       "category": "情感"
     },
     {
-      "raw_hot": 274047,
-      "num": 274047,
-      "word": "蔡依林称折耳根是贵阳一姐",
-      "onboard_time": 1713081678,
-      "rank": 18,
+      "raw_hot": 275826,
+      "num": 275826,
+      "word": "网红郑燕姿官宣怀孕",
+      "onboard_time": 1713082157,
+      "rank": 23,
       "category": "艺人"
     },
     {
@@ -939,14 +979,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 241379,
-      "num": 198498,
-      "word": "刚割双眼皮朋友就开始打击我",
-      "onboard_time": 1713081259,
-      "rank": 30,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 240050,
       "num": 240050,
       "word": "陈雨菲女单亚军",
@@ -960,6 +992,22 @@
       "word": "Doinb爆料Tarzan找到队伍",
       "onboard_time": 1713068659,
       "rank": 30,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 232090,
+      "num": 232090,
+      "word": "水牛",
+      "onboard_time": 1713080359,
+      "rank": 23,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 231375,
+      "num": 231375,
+      "word": "GEN对战T1",
+      "onboard_time": 1713078499,
+      "rank": 37,
       "category": "电竞"
     },
     {
@@ -1043,20 +1091,12 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 212737,
-      "num": 212737,
-      "word": "水牛",
-      "onboard_time": 1713080359,
-      "rank": 23,
-      "category": "音乐"
-    },
-    {
-      "raw_hot": 211222,
-      "num": 211222,
-      "word": "孙颖莎 抽签",
-      "onboard_time": 1713081678,
-      "rank": 25,
-      "category": "体育"
+      "raw_hot": 214805,
+      "num": 214805,
+      "word": "麦承欢刚分手姚志明就掏出一克拉",
+      "onboard_time": 1713081617,
+      "rank": 42,
+      "category": "剧集"
     },
     {
       "raw_hot": 211075,
@@ -1147,14 +1187,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 198329,
-      "num": 198329,
-      "word": "Faker奶奶",
-      "onboard_time": 1713081858,
-      "rank": 31,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 197357,
       "num": 197357,
       "word": "纪凌尘看宁静的眼神",
@@ -1203,6 +1235,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 183606,
+      "num": 183606,
+      "word": "有个情绪稳定的爸爸太幸福了",
+      "onboard_time": 1713082278,
+      "rank": 34,
+      "category": "情感"
+    },
+    {
       "raw_hot": 182951,
       "num": 182951,
       "word": "当韩国人第一次看中医时",
@@ -1217,6 +1257,14 @@
       "onboard_time": 1713073877,
       "rank": 33,
       "category": "体育"
+    },
+    {
+      "raw_hot": 182573,
+      "num": 182573,
+      "word": "纸片人也逃脱不了中年发福",
+      "onboard_time": 1713080897,
+      "rank": 35,
+      "category": "动漫"
     },
     {
       "raw_hot": 181856,
@@ -1259,14 +1307,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 176272,
-      "num": 176272,
-      "word": "纸片人也逃脱不了中年发福",
-      "onboard_time": 1713080897,
-      "rank": 35,
-      "category": "动漫"
-    },
-    {
       "raw_hot": 175732,
       "num": 175732,
       "word": "不喜欢宿舍的本质就是自己能量场太低了",
@@ -1291,14 +1331,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 172634,
-      "num": 172634,
-      "word": "GEN对战T1",
-      "onboard_time": 1713078499,
-      "rank": 37,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 171483,
       "num": 171483,
       "word": "不要再把月经称为那个了",
@@ -1313,14 +1345,6 @@
       "onboard_time": 1713011118,
       "rank": 32,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 167124,
-      "num": 167124,
-      "word": "女子丰胸检出骆驼等动物源性成分",
-      "onboard_time": 1713081378,
-      "rank": 38,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 164619,
@@ -1355,8 +1379,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 161029,
-      "num": 161029,
+      "raw_hot": 161650,
+      "num": 161650,
       "word": "黑执事 你敢耍老子",
       "onboard_time": 1713080237,
       "rank": 39,
@@ -1417,14 +1441,6 @@
       "onboard_time": 1713076038,
       "rank": 41,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 150809,
-      "num": 150809,
-      "word": "麦承欢刚分手姚志明就掏出一克拉",
-      "onboard_time": 1713081617,
-      "rank": 42,
-      "category": "剧集"
     },
     {
       "raw_hot": 149843,
@@ -1531,6 +1547,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 139302,
+      "num": 139302,
+      "word": "我妈让我今年别工作陪她去旅游",
+      "onboard_time": 1713078977,
+      "rank": 44,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 138672,
       "num": 138672,
       "word": "邓超问陈赫什么变了",
@@ -1553,6 +1577,14 @@
       "onboard_time": 1713021979,
       "rank": 42,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 132747,
+      "num": 132747,
+      "word": "孙怡与闺蜜牵手逛画展",
+      "onboard_time": 1713082577,
+      "rank": 46,
+      "category": "艺人"
     },
     {
       "raw_hot": 132279,
@@ -1635,7 +1667,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 108869,
+      "raw_hot": 109301,
       "num": 503249,
       "word": "谢谢为我们负重前行的人",
       "onboard_time": 1713078138,

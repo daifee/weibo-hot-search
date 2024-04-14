@@ -1,6 +1,6 @@
 {
   "startTime": 1711902044401,
-  "endTime": 1713082063242,
+  "endTime": 1713082627898,
   "band_list": [
     {
       "raw_hot": 16874674,
@@ -1507,6 +1507,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 1384101,
+      "num": 1384101,
+      "word": "你们有5根手指 我只有4根诶",
+      "onboard_time": 1713077417,
+      "rank": 1,
+      "category": "情感"
+    },
+    {
       "raw_hot": 1380022,
       "num": 1380022,
       "word": "官方回应雅安一野生大熊猫溺亡",
@@ -1968,14 +1976,6 @@
       "word": "18岁女生一天给男友打100多个电话",
       "onboard_time": 1712234540,
       "rank": 31,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 1246282,
-      "num": 1246282,
-      "word": "你们有5根手指 我只有4根诶",
-      "onboard_time": 1713077417,
-      "rank": 1,
       "category": "情感"
     },
     {
@@ -7947,6 +7947,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 544226,
+      "num": 315473,
+      "word": "被父母发现有性生活你会尴尬吗",
+      "onboard_time": 1713078499,
+      "rank": 20,
+      "category": "情感"
+    },
+    {
       "raw_hot": 544045,
       "num": 544045,
       "word": "台湾花莲地震已致7人死亡",
@@ -8017,6 +8025,14 @@
       "onboard_time": 1712201898,
       "rank": 12,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 541715,
+      "num": 541715,
+      "word": "章若楠好会搭洞洞鞋",
+      "onboard_time": 1713080418,
+      "rank": 13,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 541453,
@@ -8585,14 +8601,6 @@
       "onboard_time": 1712321659,
       "rank": 14,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 514935,
-      "num": 265947,
-      "word": "被父母发现有性生活你会尴尬吗",
-      "onboard_time": 1713078499,
-      "rank": 20,
-      "category": "情感"
     },
     {
       "raw_hot": 514626,
@@ -10875,14 +10883,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 428547,
-      "num": 428547,
-      "word": "章若楠好会搭洞洞鞋",
-      "onboard_time": 1713080418,
-      "rank": 13,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 428196,
       "num": 428196,
       "word": "林更新曾是饶雪漫的书模",
@@ -12459,6 +12459,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 370678,
+      "num": 211435,
+      "word": "Faker奶奶",
+      "onboard_time": 1713081858,
+      "rank": 31,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 370111,
       "num": 370111,
       "word": "与凤行团建定档",
@@ -12857,6 +12865,14 @@
       "onboard_time": 1712544320,
       "rank": 22,
       "category": "美食"
+    },
+    {
+      "raw_hot": 357007,
+      "num": 357007,
+      "word": "孙颖莎 抽签",
+      "onboard_time": 1713081678,
+      "rank": 25,
+      "category": "体育"
     },
     {
       "raw_hot": 356961,
@@ -13619,6 +13635,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 338332,
+      "num": 338332,
+      "word": "蔡依林称折耳根是贵阳一姐",
+      "onboard_time": 1713081678,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 337792,
       "num": 337792,
       "word": "易烊千玺机场图",
@@ -13801,6 +13825,14 @@
       "onboard_time": 1712499801,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 332622,
+      "num": 332622,
+      "word": "女子丰胸检出骆驼等动物源性成分",
+      "onboard_time": 1713081378,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 332617,
@@ -15755,6 +15787,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 291354,
+      "num": 291354,
+      "word": "刚割双眼皮朋友就开始打击我",
+      "onboard_time": 1713081259,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 291099,
       "num": 280413,
       "word": "跟氯雷他定人交朋友是什么体验",
@@ -16547,6 +16587,14 @@
       "category": "作品衍生,艺人"
     },
     {
+      "raw_hot": 275826,
+      "num": 275826,
+      "word": "网红郑燕姿官宣怀孕",
+      "onboard_time": 1713082157,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 275439,
       "num": 275439,
       "word": "台湾已发生10次地震",
@@ -16601,14 +16649,6 @@
       "onboard_time": 1712883499,
       "rank": 24,
       "category": "情感"
-    },
-    {
-      "raw_hot": 274047,
-      "num": 274047,
-      "word": "蔡依林称折耳根是贵阳一姐",
-      "onboard_time": 1713081678,
-      "rank": 18,
-      "category": "艺人"
     },
     {
       "raw_hot": 273999,
@@ -18859,14 +18899,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 241379,
-      "num": 198498,
-      "word": "刚割双眼皮朋友就开始打击我",
-      "onboard_time": 1713081259,
-      "rank": 30,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 241252,
       "num": 241252,
       "word": "双鱼座真正想要的并不是惊喜浪漫",
@@ -19555,6 +19587,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 232090,
+      "num": 232090,
+      "word": "水牛",
+      "onboard_time": 1713080359,
+      "rank": 23,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 232086,
       "num": 232086,
       "word": "承欢记定档",
@@ -19641,6 +19681,14 @@
       "onboard_time": 1711944682,
       "rank": 34,
       "category": "科学科普,互联网"
+    },
+    {
+      "raw_hot": 231375,
+      "num": 231375,
+      "word": "GEN对战T1",
+      "onboard_time": 1713078499,
+      "rank": 37,
+      "category": "电竞"
     },
     {
       "raw_hot": 231244,
@@ -21059,6 +21107,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 214805,
+      "num": 214805,
+      "word": "麦承欢刚分手姚志明就掏出一克拉",
+      "onboard_time": 1713081617,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 214790,
       "num": 214790,
       "word": "杨幂粉嫩新中式",
@@ -21251,14 +21307,6 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 212737,
-      "num": 212737,
-      "word": "水牛",
-      "onboard_time": 1713080359,
-      "rank": 23,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 212654,
       "num": 212654,
       "word": "是文俊辉的话黄毛也可以",
@@ -21361,14 +21409,6 @@
       "onboard_time": 1712829799,
       "rank": 31,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 211222,
-      "num": 211222,
-      "word": "孙颖莎 抽签",
-      "onboard_time": 1713081678,
-      "rank": 25,
-      "category": "体育"
     },
     {
       "raw_hot": 211179,
@@ -23433,14 +23473,6 @@
       "onboard_time": 1712056880,
       "rank": 27,
       "category": "体育"
-    },
-    {
-      "raw_hot": 198329,
-      "num": 198329,
-      "word": "Faker奶奶",
-      "onboard_time": 1713081858,
-      "rank": 31,
-      "category": "电竞"
     },
     {
       "raw_hot": 198158,
@@ -25987,6 +26019,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 183606,
+      "num": 183606,
+      "word": "有个情绪稳定的爸爸太幸福了",
+      "onboard_time": 1713082278,
+      "rank": 34,
+      "category": "情感"
+    },
+    {
       "raw_hot": 183582,
       "num": 183582,
       "word": "陶渊明诚不欺我",
@@ -26160,6 +26200,14 @@
       "word": "我打宿傩",
       "onboard_time": 1712493379,
       "rank": 42,
+      "category": "动漫"
+    },
+    {
+      "raw_hot": 182573,
+      "num": 182573,
+      "word": "纸片人也逃脱不了中年发福",
+      "onboard_time": 1713080897,
+      "rank": 35,
       "category": "动漫"
     },
     {
@@ -26939,14 +26987,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 176272,
-      "num": 176272,
-      "word": "纸片人也逃脱不了中年发福",
-      "onboard_time": 1713080897,
-      "rank": 35,
-      "category": "动漫"
-    },
-    {
       "raw_hot": 176240,
       "num": 176240,
       "word": "乔杉中戏同学聚会vlog",
@@ -27489,14 +27529,6 @@
       "onboard_time": 1712882179,
       "rank": 44,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 172634,
-      "num": 172634,
-      "word": "GEN对战T1",
-      "onboard_time": 1713078499,
-      "rank": 37,
-      "category": "电竞"
     },
     {
       "raw_hot": 172588,
@@ -28145,14 +28177,6 @@
       "onboard_time": 1712917458,
       "rank": 35,
       "category": "艺人,作品衍生"
-    },
-    {
-      "raw_hot": 167124,
-      "num": 167124,
-      "word": "女子丰胸检出骆驼等动物源性成分",
-      "onboard_time": 1713081378,
-      "rank": 38,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 167025,
@@ -28891,6 +28915,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 161650,
+      "num": 161650,
+      "word": "黑执事 你敢耍老子",
+      "onboard_time": 1713080237,
+      "rank": 39,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 161533,
       "num": 161533,
       "word": "顶级情绪管理就是平静发疯",
@@ -28953,14 +28985,6 @@
       "onboard_time": 1712124262,
       "rank": 45,
       "category": "情感"
-    },
-    {
-      "raw_hot": 161029,
-      "num": 161029,
-      "word": "黑执事 你敢耍老子",
-      "onboard_time": 1713080237,
-      "rank": 39,
-      "category": "动漫"
     },
     {
       "raw_hot": 160838,
@@ -30617,14 +30641,6 @@
       "onboard_time": 1712407337,
       "rank": 48,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 150809,
-      "num": 150809,
-      "word": "麦承欢刚分手姚志明就掏出一克拉",
-      "onboard_time": 1713081617,
-      "rank": 42,
-      "category": "剧集"
     },
     {
       "raw_hot": 150785,
@@ -32307,6 +32323,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 139302,
+      "num": 139302,
+      "word": "我妈让我今年别工作陪她去旅游",
+      "onboard_time": 1713078977,
+      "rank": 44,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 139122,
       "num": 139122,
       "word": "小米汽车回应车内摄像头",
@@ -33313,6 +33337,14 @@
       "onboard_time": 1712275155,
       "rank": 35,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 132747,
+      "num": 132747,
+      "word": "孙怡与闺蜜牵手逛画展",
+      "onboard_time": 1713082577,
+      "rank": 46,
+      "category": "艺人"
     },
     {
       "raw_hot": 132711,
@@ -35539,6 +35571,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 109301,
+      "num": 503249,
+      "word": "谢谢为我们负重前行的人",
+      "onboard_time": 1713078138,
+      "rank": 9,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 109244,
       "num": 140653,
       "word": "曼联vs利物浦",
@@ -35585,14 +35625,6 @@
       "onboard_time": 1712835197,
       "rank": 47,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 108869,
-      "num": 503249,
-      "word": "谢谢为我们负重前行的人",
-      "onboard_time": 1713078138,
-      "rank": 9,
-      "category": "社会正能量"
     },
     {
       "raw_hot": 108428,
