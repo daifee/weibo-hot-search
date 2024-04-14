@@ -1,0 +1,410 @@
+{
+  "runTime": 1713132599554,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 250362,
+        "num": 250362,
+        "word": "孩子理发138元妈妈嫌太贵只愿付24",
+        "onboard_time": 1713118813,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 128091,
+        "num": 128091,
+        "word": "以色列",
+        "onboard_time": 1713102019,
+        "rank": 1,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 13689,
+        "num": 122235,
+        "word": "60秒了解总体国家安全观",
+        "onboard_time": 1713103220,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 118142,
+        "num": 118142,
+        "word": "中医建议的最佳作息时间表",
+        "onboard_time": 1713094159,
+        "rank": 3,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 106150,
+        "num": 106150,
+        "word": "科研人员出卖核心机密被执行死刑",
+        "onboard_time": 1713092899,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 94149,
+        "num": 94149,
+        "word": "女子丰胸检出骆驼等动物源性成分",
+        "onboard_time": 1713081378,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 90298,
+        "num": 90298,
+        "word": "海仁和孩子的墓碑",
+        "onboard_time": 1713110117,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 80813,
+        "num": 80813,
+        "word": "把肯德基1995年价格表挖出来了",
+        "onboard_time": 1713094398,
+        "rank": 7,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 65769,
+        "num": 65769,
+        "word": "悉尼",
+        "onboard_time": 1713124570,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 42445,
+        "num": 60441,
+        "word": "炸串奶奶摊前排起长队",
+        "onboard_time": 1713122531,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 129458,
+        "num": 60053,
+        "word": "男子车祸后连拨14次120终自救",
+        "onboard_time": 1713122472,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 77102,
+        "num": 59069,
+        "word": "Angelababy金像奖红毯",
+        "onboard_time": 1713091577,
+        "rank": 11,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 57486,
+        "num": 57486,
+        "word": "左溢删博",
+        "onboard_time": 1713118872,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 56556,
+        "num": 56556,
+        "word": "曾志伟办71岁慈善生日宴",
+        "onboard_time": 1713124990,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 51402,
+        "num": 51402,
+        "word": "梁朝伟金像奖影帝",
+        "onboard_time": 1713106218,
+        "rank": 14,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 49444,
+        "num": 49444,
+        "word": "体重不降的十个原因",
+        "onboard_time": 1713103940,
+        "rank": 15,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 44779,
+        "num": 44779,
+        "word": "钟美美回应带家人出国计划",
+        "onboard_time": 1713100278,
+        "rank": 16,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 44123,
+        "num": 44123,
+        "word": "林保怡 可惜",
+        "onboard_time": 1713106699,
+        "rank": 17,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 41957,
+        "num": 41957,
+        "word": "伊以冲突",
+        "onboard_time": 1713085158,
+        "rank": 18,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 33517,
+        "num": 33517,
+        "word": "姚志明的身世",
+        "onboard_time": 1713113715,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 64706,
+        "num": 33423,
+        "word": "卫健委调查男子献血13次妻子用血却被拒",
+        "onboard_time": 1713123911,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 55697,
+        "num": 33324,
+        "word": "很体面工资却不高的工作",
+        "onboard_time": 1713107539,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 51382,
+        "num": 33144,
+        "word": "林更新爆改沈月微信头像",
+        "onboard_time": 1713097577,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 41538,
+        "num": 32955,
+        "word": "吃这3种水果或加重湿气",
+        "onboard_time": 1713108558,
+        "rank": 23,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 40962,
+        "num": 32668,
+        "word": "国际金价疯涨金饰却遇冷",
+        "onboard_time": 1713125412,
+        "rank": 24,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 40434,
+        "num": 32586,
+        "word": "为什么大家都装马桶不要蹲厕",
+        "onboard_time": 1713104780,
+        "rank": 25,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 35095,
+        "num": 32405,
+        "word": "张元英头巾",
+        "onboard_time": 1713106578,
+        "rank": 26,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 32296,
+        "num": 32296,
+        "word": "为什么很多女生不愿意恋爱了",
+        "onboard_time": 1713100699,
+        "rank": 27,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 29850,
+        "num": 29850,
+        "word": "乘坐扶手电梯不要踩2号板",
+        "onboard_time": 1713126190,
+        "rank": 28,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 29716,
+        "num": 29716,
+        "word": "如懿传 吐槽",
+        "onboard_time": 1713098778,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 29381,
+        "num": 29381,
+        "word": "伊朗再次警告美国勿插手伊以冲突",
+        "onboard_time": 1713105319,
+        "rank": 30,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 29295,
+        "num": 29295,
+        "word": "Knight 十张身份证的决赛这次我会赢",
+        "onboard_time": 1713107657,
+        "rank": 31,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 29023,
+        "num": 29023,
+        "word": "何超仪拄拐带老公亮相黄贯中画展",
+        "onboard_time": 1713130631,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 28691,
+        "num": 28691,
+        "word": "杨紫承欢记吻戏reaction",
+        "onboard_time": 1713129311,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 27743,
+        "num": 27743,
+        "word": "原来这些专业考不了公务员",
+        "onboard_time": 1713092719,
+        "rank": 34,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 26601,
+        "num": 26601,
+        "word": "眼泪女王 爷爷死了",
+        "onboard_time": 1713105679,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 26014,
+        "num": 26014,
+        "word": "伊朗",
+        "onboard_time": 1713107719,
+        "rank": 36,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 25324,
+        "num": 25324,
+        "word": "金像奖红毯",
+        "onboard_time": 1713093500,
+        "rank": 37,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 23366,
+        "num": 23366,
+        "word": "关于我室友装外国人催发货",
+        "onboard_time": 1713129370,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 23184,
+        "num": 23184,
+        "word": "我们活在巨大的差距里",
+        "onboard_time": 1713126311,
+        "rank": 39,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 22830,
+        "num": 22830,
+        "word": "杨紫许凯海报要横着看",
+        "onboard_time": 1713125051,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 21988,
+        "num": 21988,
+        "word": "贤佑海仁复婚失败",
+        "onboard_time": 1713111318,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 21723,
+        "num": 21723,
+        "word": "白桃星座",
+        "onboard_time": 1713106881,
+        "rank": 42,
+        "category": "情感,网红"
+      },
+      {
+        "raw_hot": 21539,
+        "num": 21539,
+        "word": "张杰3场就像我穿的衣服那么少",
+        "onboard_time": 1713108139,
+        "rank": 43,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 21524,
+        "num": 21524,
+        "word": "香港金像奖颁奖典礼",
+        "onboard_time": 1713097577,
+        "rank": 44,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 20725,
+        "num": 20725,
+        "word": "心理医生应对内耗的5个建议",
+        "onboard_time": 1713129910,
+        "rank": 45,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 18019,
+        "num": 18019,
+        "word": "射手当joker也是三分钟热度",
+        "onboard_time": 1713110237,
+        "rank": 46,
+        "category": "情感,网红"
+      },
+      {
+        "raw_hot": 17639,
+        "num": 17639,
+        "word": "金像奖 黄子华",
+        "onboard_time": 1713107059,
+        "rank": 47,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 17387,
+        "num": 17387,
+        "word": "JackeyLove时隔1820天再次确定进入MSI",
+        "onboard_time": 1713106881,
+        "rank": 48,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 17222,
+        "num": 17222,
+        "word": "周也 汤姆猫女朋友",
+        "onboard_time": 1713098084,
+        "rank": 49,
+        "category": "艺人,美妆"
+      }
+    ],
+    "hotgov": {
+      "word": "#坚持系统思维构建大安全格局#"
+    }
+  }
+}

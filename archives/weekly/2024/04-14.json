@@ -1,6 +1,6 @@
 {
   "startTime": 1713025251708,
-  "endTime": 1713106075335,
+  "endTime": 1713132599554,
   "band_list": [
     {
       "raw_hot": 3131894,
@@ -1323,6 +1323,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 250362,
+      "num": 250362,
+      "word": "孩子理发138元妈妈嫌太贵只愿付24",
+      "onboard_time": 1713118813,
+      "rank": 0,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 249458,
       "num": 249458,
       "word": "结婚后想吃老公调的蘸料被拒绝了",
@@ -2299,6 +2307,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 129458,
+      "num": 60053,
+      "word": "男子车祸后连拨14次120终自救",
+      "onboard_time": 1713122472,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 128960,
       "num": 128960,
       "word": "成龙为刘浩存提裙摆",
@@ -2435,6 +2451,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 90298,
+      "num": 90298,
+      "word": "海仁和孩子的墓碑",
+      "onboard_time": 1713110117,
+      "rank": 6,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 89339,
       "num": 118296,
       "word": "绝大部分人感染HPV后会自愈",
@@ -2499,6 +2523,22 @@
       "category": "情感"
     },
     {
+      "raw_hot": 65769,
+      "num": 65769,
+      "word": "悉尼",
+      "onboard_time": 1713124570,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 64706,
+      "num": 33423,
+      "word": "卫健委调查男子献血13次妻子用血却被拒",
+      "onboard_time": 1713123911,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 61754,
       "num": 61754,
       "word": "美股黄金白银大跳水",
@@ -2515,12 +2555,44 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 57486,
+      "num": 57486,
+      "word": "左溢删博",
+      "onboard_time": 1713118872,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 56556,
+      "num": 56556,
+      "word": "曾志伟办71岁慈善生日宴",
+      "onboard_time": 1713124990,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 55697,
+      "num": 33324,
+      "word": "很体面工资却不高的工作",
+      "onboard_time": 1713107539,
+      "rank": 21,
+      "category": "情感"
+    },
+    {
       "raw_hot": 54715,
       "num": 1201731,
       "word": "快来查收这组春日健康提示",
       "onboard_time": 1713064817,
       "rank": 28,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 51402,
+      "num": 51402,
+      "word": "梁朝伟金像奖影帝",
+      "onboard_time": 1713106218,
+      "rank": 14,
+      "category": "电影"
     },
     {
       "raw_hot": 50063,
@@ -2563,12 +2635,44 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 44123,
+      "num": 44123,
+      "word": "林保怡 可惜",
+      "onboard_time": 1713106699,
+      "rank": 17,
+      "category": "电影"
+    },
+    {
       "raw_hot": 43333,
       "num": 33495,
       "word": "金秀贤金智媛更新ins",
       "onboard_time": 1713035831,
       "rank": 21,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 42445,
+      "num": 60441,
+      "word": "炸串奶奶摊前排起长队",
+      "onboard_time": 1713122531,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 41538,
+      "num": 32955,
+      "word": "吃这3种水果或加重湿气",
+      "onboard_time": 1713108558,
+      "rank": 23,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 40962,
+      "num": 32668,
+      "word": "国际金价疯涨金饰却遇冷",
+      "onboard_time": 1713125412,
+      "rank": 24,
+      "category": "财经"
     },
     {
       "raw_hot": 40765,
@@ -2595,6 +2699,30 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 35095,
+      "num": 32405,
+      "word": "张元英头巾",
+      "onboard_time": 1713106578,
+      "rank": 26,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 33517,
+      "num": 33517,
+      "word": "姚志明的身世",
+      "onboard_time": 1713113715,
+      "rank": 19,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 29850,
+      "num": 29850,
+      "word": "乘坐扶手电梯不要踩2号板",
+      "onboard_time": 1713126190,
+      "rank": 28,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 29647,
       "num": 34292,
       "word": "张云雷酷狗唱玩会",
@@ -2603,12 +2731,36 @@
       "category": "演出"
     },
     {
+      "raw_hot": 29295,
+      "num": 29295,
+      "word": "Knight 十张身份证的决赛这次我会赢",
+      "onboard_time": 1713107657,
+      "rank": 31,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 29023,
+      "num": 29023,
+      "word": "何超仪拄拐带老公亮相黄贯中画展",
+      "onboard_time": 1713130631,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 28931,
       "num": 301497,
       "word": "尹同跃要给智驾部门加鸡腿",
       "onboard_time": 1713069618,
       "rank": 41,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 28691,
+      "num": 28691,
+      "word": "杨紫承欢记吻戏reaction",
+      "onboard_time": 1713129311,
+      "rank": 33,
+      "category": "剧集"
     },
     {
       "raw_hot": 26628,
@@ -2627,6 +2779,30 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 23366,
+      "num": 23366,
+      "word": "关于我室友装外国人催发货",
+      "onboard_time": 1713129370,
+      "rank": 38,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 23184,
+      "num": 23184,
+      "word": "我们活在巨大的差距里",
+      "onboard_time": 1713126311,
+      "rank": 39,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 22830,
+      "num": 22830,
+      "word": "杨紫许凯海报要横着看",
+      "onboard_time": 1713125051,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 22337,
       "num": 22337,
       "word": "主动让路人摸摸的耶耶",
@@ -2635,12 +2811,44 @@
       "category": "情感"
     },
     {
+      "raw_hot": 21988,
+      "num": 21988,
+      "word": "贤佑海仁复婚失败",
+      "onboard_time": 1713111318,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 21886,
       "num": 210388,
       "word": "在P5X里做时间管理大师",
       "onboard_time": 1713067096,
       "rank": 38,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 21723,
+      "num": 21723,
+      "word": "白桃星座",
+      "onboard_time": 1713106881,
+      "rank": 42,
+      "category": "情感,网红"
+    },
+    {
+      "raw_hot": 21539,
+      "num": 21539,
+      "word": "张杰3场就像我穿的衣服那么少",
+      "onboard_time": 1713108139,
+      "rank": 43,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 20725,
+      "num": 20725,
+      "word": "心理医生应对内耗的5个建议",
+      "onboard_time": 1713129910,
+      "rank": 45,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 20055,
@@ -2659,12 +2867,44 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 18019,
+      "num": 18019,
+      "word": "射手当joker也是三分钟热度",
+      "onboard_time": 1713110237,
+      "rank": 46,
+      "category": "情感,网红"
+    },
+    {
       "raw_hot": 17645,
       "num": 21757,
       "word": "承欢记",
       "onboard_time": 1713010998,
       "rank": 48,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 17639,
+      "num": 17639,
+      "word": "金像奖 黄子华",
+      "onboard_time": 1713107059,
+      "rank": 47,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 17387,
+      "num": 17387,
+      "word": "JackeyLove时隔1820天再次确定进入MSI",
+      "onboard_time": 1713106881,
+      "rank": 48,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 13689,
+      "num": 122235,
+      "word": "60秒了解总体国家安全观",
+      "onboard_time": 1713103220,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 13118,
