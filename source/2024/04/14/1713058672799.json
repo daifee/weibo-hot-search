@@ -1,0 +1,410 @@
+{
+  "runTime": 1713058672799,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2270273,
+        "num": 2270273,
+        "word": "多国宣布关闭领空",
+        "onboard_time": 1713051375,
+        "rank": 0,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 1601825,
+        "num": 1601825,
+        "word": "拜登回应伊朗袭击以色列",
+        "onboard_time": 1713052756,
+        "rank": 1,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 45320,
+        "num": 1367020,
+        "word": "春日限定励志文案",
+        "onboard_time": 1713012798,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1207284,
+        "num": 1207284,
+        "word": "伊朗对以色列展开打击行动",
+        "onboard_time": 1713049513,
+        "rank": 3,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 853438,
+        "num": 853438,
+        "word": "张若昀半夜三点给郭麒麟打电话",
+        "onboard_time": 1713056359,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 684515,
+        "num": 684515,
+        "word": "伊以冲突时间线",
+        "onboard_time": 1713052756,
+        "rank": 5,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 620174,
+        "num": 620174,
+        "word": "上个房主是怎样苦命的一个人",
+        "onboard_time": 1713053177,
+        "rank": 6,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 601582,
+        "num": 601582,
+        "word": "郝蕾肉眼可见的瘦了",
+        "onboard_time": 1713057077,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 591690,
+        "num": 591690,
+        "word": "伊朗已发射150枚导弹",
+        "onboard_time": 1713055217,
+        "rank": 8,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 371061,
+        "num": 582035,
+        "word": "男童30万耳蜗丢失全城合力找回",
+        "onboard_time": 1713041710,
+        "rank": 9,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 870353,
+        "num": 581719,
+        "word": "伊朗有史以来首次直接袭击以色列",
+        "onboard_time": 1713055518,
+        "rank": 10,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 574076,
+        "num": 574076,
+        "word": "联合国秘书长谴责伊朗",
+        "onboard_time": 1713056478,
+        "rank": 11,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 546399,
+        "num": 546399,
+        "word": "济南公安",
+        "onboard_time": 1713056298,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 532344,
+        "num": 532344,
+        "word": "纪凌尘祝阚清子幸福",
+        "onboard_time": 1713016579,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 530269,
+        "num": 530269,
+        "word": "王祖蓝在香港被放假的广西人包围了",
+        "onboard_time": 1713036671,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 441951,
+        "num": 441951,
+        "word": "特朗普回应以色列遭袭",
+        "onboard_time": 1713056539,
+        "rank": 15,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 368581,
+        "num": 368581,
+        "word": "中国驻伊朗大使馆发安全提醒",
+        "onboard_time": 1713053296,
+        "rank": 16,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 348080,
+        "num": 348080,
+        "word": "眼泪女王中出现的中文",
+        "onboard_time": 1713052756,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 333049,
+        "num": 333049,
+        "word": "吴镇宇被袁咏仪强行闭麦",
+        "onboard_time": 1713053475,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 326139,
+        "num": 326139,
+        "word": "伊朗向以色列发射数十架无人机",
+        "onboard_time": 1713049813,
+        "rank": 19,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 469904,
+        "num": 325957,
+        "word": "一个金手镯涨了快1万元",
+        "onboard_time": 1713053415,
+        "rank": 20,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 319386,
+        "num": 319386,
+        "word": "伊朗称成功摧毁以色列军事目标",
+        "onboard_time": 1713054197,
+        "rank": 21,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 314400,
+        "num": 314400,
+        "word": "伊朗向以色列目标发射弹道导弹",
+        "onboard_time": 1713050054,
+        "rank": 22,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 306500,
+        "num": 306500,
+        "word": "以官员称将对伊朗做出前所未有的反应",
+        "onboard_time": 1713056778,
+        "rank": 23,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 302563,
+        "num": 302563,
+        "word": "伊朗对美国发出警告",
+        "onboard_time": 1713011357,
+        "rank": 24,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 286066,
+        "num": 286066,
+        "word": "小米连食堂也有爆品思维",
+        "onboard_time": 1713054797,
+        "rank": 25,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 284708,
+        "num": 284708,
+        "word": "原来她当时是这个意思",
+        "onboard_time": 1713054017,
+        "rank": 26,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 273331,
+        "num": 273331,
+        "word": "旭旭宝宝 19耳环",
+        "onboard_time": 1713051915,
+        "rank": 27,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 265988,
+        "num": 265988,
+        "word": "秦皇岛",
+        "onboard_time": 1713057259,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 261414,
+        "num": 261414,
+        "word": "伊朗向以色列发导弹红色光点布满夜空",
+        "onboard_time": 1713052876,
+        "rank": 29,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 258370,
+        "num": 258370,
+        "word": "以色列要求学校暂时停课",
+        "onboard_time": 1713053236,
+        "rank": 30,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 248244,
+        "num": 248244,
+        "word": "花少好友季第二站阵容",
+        "onboard_time": 1713053296,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 247915,
+        "num": 247915,
+        "word": "猫一杯",
+        "onboard_time": 1713050955,
+        "rank": 32,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 240978,
+        "num": 240978,
+        "word": "睡前1小时尽量别玩手机",
+        "onboard_time": 1713019700,
+        "rank": 33,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 238505,
+        "num": 238505,
+        "word": "耶路撒冷响起巨大爆炸声",
+        "onboard_time": 1713049994,
+        "rank": 34,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 224537,
+        "num": 224537,
+        "word": "秦皇岛侧翻船只系非法改装船",
+        "onboard_time": 1713057558,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 215730,
+        "num": 215730,
+        "word": "美英拦截伊朗无人机",
+        "onboard_time": 1713050474,
+        "rank": 36,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 210794,
+        "num": 210794,
+        "word": "伊朗驻联合国代表团发表声明",
+        "onboard_time": 1713050474,
+        "rank": 37,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 205529,
+        "num": 205529,
+        "word": "孙怡玫瑰连衣裙",
+        "onboard_time": 1713034031,
+        "rank": 38,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 204892,
+        "num": 204892,
+        "word": "猫一杯旗下品牌发货售后正常",
+        "onboard_time": 1713015020,
+        "rank": 39,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 202408,
+        "num": 202408,
+        "word": "某幻",
+        "onboard_time": 1713056658,
+        "rank": 40,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 197192,
+        "num": 197192,
+        "word": "警方调查14岁女生被学校教练性侵",
+        "onboard_time": 1713018259,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 185771,
+        "num": 185771,
+        "word": "北京半程马拉松何杰夺冠",
+        "onboard_time": 1713058280,
+        "rank": 42,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 184608,
+        "num": 184608,
+        "word": "长沙暴雨",
+        "onboard_time": 1713050232,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 178801,
+        "num": 178801,
+        "word": "薛之谦发型一半清汤一半麻辣",
+        "onboard_time": 1713012738,
+        "rank": 44,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 175294,
+        "num": 175294,
+        "word": "春天可能出现季节性情绪波动",
+        "onboard_time": 1713057678,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 161853,
+        "num": 161853,
+        "word": "陈赫晒真实体重",
+        "onboard_time": 1713056478,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 154180,
+        "num": 154180,
+        "word": "杨紫牛骏峰早期合照",
+        "onboard_time": 1713053956,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 152484,
+        "num": 152484,
+        "word": "以军发言人称以色列处于高度戒备状",
+        "onboard_time": 1713049813,
+        "rank": 48,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 147408,
+        "num": 147408,
+        "word": "以色列",
+        "onboard_time": 1713050474,
+        "rank": 49,
+        "category": "国外时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#把握两岸关系大局#"
+    }
+  }
+}
