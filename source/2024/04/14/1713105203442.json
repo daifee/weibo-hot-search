@@ -1,0 +1,410 @@
+{
+  "runTime": 1713105203442,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2427004,
+        "num": 2427004,
+        "word": "工资不高但房价很高的城市",
+        "onboard_time": 1713099378,
+        "rank": 0,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 864852,
+        "num": 864852,
+        "word": "以色列",
+        "onboard_time": 1713102019,
+        "rank": 1,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 81648,
+        "num": 860727,
+        "word": "看不见的守护正无处不在",
+        "onboard_time": 1713103338,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 859568,
+        "num": 859568,
+        "word": "IVE造型",
+        "onboard_time": 1713104719,
+        "rank": 3,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 852844,
+        "num": 852844,
+        "word": "把肯德基1995年价格表挖出来了",
+        "onboard_time": 1713094398,
+        "rank": 4,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 832979,
+        "num": 832979,
+        "word": "林更新爆改沈月微信头像",
+        "onboard_time": 1713097577,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 733902,
+        "num": 733902,
+        "word": "科研人员出卖核心机密被执行死刑",
+        "onboard_time": 1713092899,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 706983,
+        "num": 706983,
+        "word": "眼泪女王收视率",
+        "onboard_time": 1713102978,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 625983,
+        "num": 625983,
+        "word": "喻言好美",
+        "onboard_time": 1713099018,
+        "rank": 8,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 139044,
+        "num": 609060,
+        "word": "这只大熊猫的糖分超标",
+        "onboard_time": 1713091818,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 780468,
+        "num": 608858,
+        "word": "Angelababy金像奖红毯",
+        "onboard_time": 1713091577,
+        "rank": 10,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 775340,
+        "num": 608059,
+        "word": "如懿传 吐槽",
+        "onboard_time": 1713098778,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 606528,
+        "num": 606528,
+        "word": "中医建议的最佳作息时间表",
+        "onboard_time": 1713094159,
+        "rank": 12,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 555866,
+        "num": 555866,
+        "word": "伊以冲突",
+        "onboard_time": 1713085158,
+        "rank": 13,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 530968,
+        "num": 530968,
+        "word": "女子丰胸检出骆驼等动物源性成分",
+        "onboard_time": 1713081378,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 469789,
+        "num": 469789,
+        "word": "体重不降的十个原因",
+        "onboard_time": 1713103940,
+        "rank": 15,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 456190,
+        "num": 456190,
+        "word": "Ruler哭了",
+        "onboard_time": 1713102499,
+        "rank": 16,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 447768,
+        "num": 447768,
+        "word": "眼泪女王",
+        "onboard_time": 1713098899,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 426448,
+        "num": 426448,
+        "word": "当六岁半的女儿有了微信",
+        "onboard_time": 1713098358,
+        "rank": 18,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 398077,
+        "num": 398077,
+        "word": "悉尼持刀行凶事件一名中国公民死亡",
+        "onboard_time": 1713099619,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 381173,
+        "num": 381173,
+        "word": "TES战胜JDG",
+        "onboard_time": 1713102379,
+        "rank": 20,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 369708,
+        "num": 369708,
+        "word": "香港金像奖颁奖典礼",
+        "onboard_time": 1713097577,
+        "rank": 21,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 351160,
+        "num": 351160,
+        "word": "为什么很多女生不愿意恋爱了",
+        "onboard_time": 1713100699,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 350343,
+        "num": 350343,
+        "word": "周也 汤姆猫女朋友",
+        "onboard_time": 1713098084,
+        "rank": 23,
+        "category": "艺人,美妆"
+      },
+      {
+        "raw_hot": 345970,
+        "num": 345970,
+        "word": "Meiko时隔3276天再次确定进入MSI",
+        "onboard_time": 1713103581,
+        "rank": 24,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 322154,
+        "num": 322154,
+        "word": "结婚前分手的情侣",
+        "onboard_time": 1713102919,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 289121,
+        "num": 289121,
+        "word": "Tian哭了",
+        "onboard_time": 1713104898,
+        "rank": 26,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 307059,
+        "num": 287144,
+        "word": "承欢记收视率",
+        "onboard_time": 1713100160,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 283733,
+        "num": 283733,
+        "word": "金像奖红毯",
+        "onboard_time": 1713093500,
+        "rank": 28,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 264161,
+        "num": 264161,
+        "word": "等不及看肖战藏海了",
+        "onboard_time": 1713102320,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 267680,
+        "num": 262788,
+        "word": "金像奖",
+        "onboard_time": 1713086777,
+        "rank": 30,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 253455,
+        "num": 253455,
+        "word": "钟美美回应带家人出国计划",
+        "onboard_time": 1713100278,
+        "rank": 31,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 252575,
+        "num": 252575,
+        "word": "姚志明追妻出手即巅峰",
+        "onboard_time": 1713103400,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 241570,
+        "num": 241570,
+        "word": "王俊凯平时没少健身吧",
+        "onboard_time": 1713104420,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 237367,
+        "num": 237367,
+        "word": "陈丽君回应戏曲演员去跳女团舞质疑",
+        "onboard_time": 1713103639,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 229383,
+        "num": 229383,
+        "word": "姜大卫金像奖最佳男配角",
+        "onboard_time": 1713103759,
+        "rank": 35,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 225389,
+        "num": 225389,
+        "word": "Minnie泼水节造型",
+        "onboard_time": 1713100819,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 220045,
+        "num": 220045,
+        "word": "为什么大家都装马桶不要蹲厕",
+        "onboard_time": 1713104780,
+        "rank": 37,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 213306,
+        "num": 213306,
+        "word": "JDG对战TES",
+        "onboard_time": 1713090977,
+        "rank": 38,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 171587,
+        "num": 209353,
+        "word": "马宁",
+        "onboard_time": 1713102439,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 218718,
+        "num": 209323,
+        "word": "李昊 小狗",
+        "onboard_time": 1713098899,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 208123,
+        "num": 208123,
+        "word": "梁雍婷金像奖最佳女配角",
+        "onboard_time": 1713104479,
+        "rank": 41,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 206090,
+        "num": 206090,
+        "word": "金钟仁吴世勋去了EXO粉丝见面会",
+        "onboard_time": 1713093558,
+        "rank": 42,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 198535,
+        "num": 198535,
+        "word": "刘嘉玲 龙虾造型",
+        "onboard_time": 1713099557,
+        "rank": 43,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 188953,
+        "num": 188953,
+        "word": "年轻真好14秒睡了5觉",
+        "onboard_time": 1713085699,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 187920,
+        "num": 187920,
+        "word": "胡彦斌经纪人参加浪姐",
+        "onboard_time": 1713088638,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 167760,
+        "num": 167760,
+        "word": "T1赛后发文",
+        "onboard_time": 1713102199,
+        "rank": 46,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 165814,
+        "num": 165814,
+        "word": "间谍窃取我国杂交水稻亲本种子",
+        "onboard_time": 1713071059,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 160848,
+        "num": 160848,
+        "word": "上海海港4比3山东泰山",
+        "onboard_time": 1713104060,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 152371,
+        "num": 152371,
+        "word": "TES挺进春决",
+        "onboard_time": 1713102320,
+        "rank": 49,
+        "category": "电竞"
+      }
+    ],
+    "hotgov": {
+      "word": "#坚持系统思维构建大安全格局#"
+    }
+  }
+}

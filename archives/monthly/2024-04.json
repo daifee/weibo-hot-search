@@ -1,6 +1,6 @@
 {
   "startTime": 1711902044401,
-  "endTime": 1713093867201,
+  "endTime": 1713105203442,
   "band_list": [
     {
       "raw_hot": 16874674,
@@ -255,6 +255,14 @@
       "num": 2472045,
       "word": "注销手机号等于出卖自己",
       "onboard_time": 1712288598,
+      "rank": 0,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 2427004,
+      "num": 2427004,
+      "word": "工资不高但房价很高的城市",
+      "onboard_time": 1713099378,
       "rank": 0,
       "category": "情感"
     },
@@ -3867,12 +3875,28 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 864852,
+      "num": 864852,
+      "word": "以色列",
+      "onboard_time": 1712023878,
+      "rank": 25,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 863437,
       "num": 863437,
       "word": "赵奕欢看穿纪凌尘",
       "onboard_time": 1712395517,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 859568,
+      "num": 859568,
+      "word": "IVE造型",
+      "onboard_time": 1713104719,
+      "rank": 3,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 859326,
@@ -3953,6 +3977,14 @@
       "onboard_time": 1712298378,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 852844,
+      "num": 852844,
+      "word": "把肯德基1995年价格表挖出来了",
+      "onboard_time": 1713094398,
+      "rank": 4,
+      "category": "美食"
     },
     {
       "raw_hot": 852839,
@@ -4089,6 +4121,14 @@
       "onboard_time": 1712329340,
       "rank": 37,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 832979,
+      "num": 832979,
+      "word": "林更新爆改沈月微信头像",
+      "onboard_time": 1713097577,
+      "rank": 5,
+      "category": "综艺"
     },
     {
       "raw_hot": 831612,
@@ -4691,6 +4731,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 775340,
+      "num": 608059,
+      "word": "如懿传 吐槽",
+      "onboard_time": 1713098778,
+      "rank": 11,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 774930,
       "num": 774930,
       "word": "才知道医学生不用学毕业论文",
@@ -5147,6 +5195,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 733902,
+      "num": 733902,
+      "word": "科研人员出卖核心机密被执行死刑",
+      "onboard_time": 1713092899,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 733750,
       "num": 733750,
       "word": "果然上万年的童子身比较补",
@@ -5440,6 +5496,14 @@
       "word": "眼泪女王",
       "onboard_time": 1711891159,
       "rank": 26,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 706983,
+      "num": 706983,
+      "word": "眼泪女王收视率",
+      "onboard_time": 1712446756,
+      "rank": 41,
       "category": "剧集"
     },
     {
@@ -6555,6 +6619,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 625983,
+      "num": 625983,
+      "word": "喻言好美",
+      "onboard_time": 1713099018,
+      "rank": 8,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 625924,
       "num": 625924,
       "word": "女子同时兼职9家单位月入3万获刑",
@@ -6953,6 +7025,14 @@
       "onboard_time": 1711983322,
       "rank": 5,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 606528,
+      "num": 606528,
+      "word": "中医建议的最佳作息时间表",
+      "onboard_time": 1713094159,
+      "rank": 12,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 605850,
@@ -7937,14 +8017,6 @@
       "onboard_time": 1712314099,
       "rank": 7,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 548727,
-      "num": 548727,
-      "word": "以色列",
-      "onboard_time": 1712023878,
-      "rank": 25,
-      "category": "国外时政"
     },
     {
       "raw_hot": 547918,
@@ -9771,6 +9843,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 469789,
+      "num": 469789,
+      "word": "体重不降的十个原因",
+      "onboard_time": 1713103940,
+      "rank": 15,
+      "category": "情感"
+    },
+    {
       "raw_hot": 469638,
       "num": 283182,
       "word": "睡前1分钟躺着就能瘦肚子",
@@ -10121,6 +10201,14 @@
       "onboard_time": 1712054840,
       "rank": 24,
       "category": "情感"
+    },
+    {
+      "raw_hot": 456190,
+      "num": 456190,
+      "word": "Ruler哭了",
+      "onboard_time": 1713102499,
+      "rank": 16,
+      "category": "电竞"
     },
     {
       "raw_hot": 455619,
@@ -11011,6 +11099,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 426448,
+      "num": 426448,
+      "word": "当六岁半的女儿有了微信",
+      "onboard_time": 1713098358,
+      "rank": 18,
+      "category": "情感"
+    },
+    {
       "raw_hot": 426422,
       "num": 426422,
       "word": "林更新撞脸游本昌",
@@ -11731,6 +11827,14 @@
       "category": "健康医疗,运动健身"
     },
     {
+      "raw_hot": 398077,
+      "num": 398077,
+      "word": "悉尼持刀行凶事件一名中国公民死亡",
+      "onboard_time": 1713099619,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 397858,
       "num": 397858,
       "word": "神君红透了",
@@ -12235,6 +12339,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 381173,
+      "num": 381173,
+      "word": "TES战胜JDG",
+      "onboard_time": 1713102379,
+      "rank": 20,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 380803,
       "num": 380803,
       "word": "衡门有狐开机",
@@ -12563,6 +12675,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 369708,
+      "num": 369708,
+      "word": "香港金像奖颁奖典礼",
+      "onboard_time": 1713097577,
+      "rank": 21,
+      "category": "电影"
+    },
+    {
       "raw_hot": 369692,
       "num": 369692,
       "word": "我国推出首个饮料营养选择分级标识",
@@ -12840,14 +12960,6 @@
       "word": "女子一天狂炫5个青团进医院",
       "onboard_time": 1712537959,
       "rank": 29,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 361941,
-      "num": 361941,
-      "word": "科研人员出卖核心机密被执行死刑",
-      "onboard_time": 1713092899,
-      "rank": 14,
       "category": "社会新闻"
     },
     {
@@ -13211,6 +13323,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 351160,
+      "num": 351160,
+      "word": "为什么很多女生不愿意恋爱了",
+      "onboard_time": 1713100699,
+      "rank": 22,
+      "category": "情感"
+    },
+    {
       "raw_hot": 351158,
       "num": 351158,
       "word": "BLG管理层",
@@ -13273,6 +13393,14 @@
       "onboard_time": 1712879537,
       "rank": 12,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 350343,
+      "num": 350343,
+      "word": "周也 汤姆猫女朋友",
+      "onboard_time": 1713098084,
+      "rank": 23,
+      "category": "艺人,美妆"
     },
     {
       "raw_hot": 350227,
@@ -13441,6 +13569,14 @@
       "onboard_time": 1711975940,
       "rank": 20,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 345970,
+      "num": 345970,
+      "word": "Meiko时隔3276天再次确定进入MSI",
+      "onboard_time": 1713103581,
+      "rank": 24,
+      "category": "电竞"
     },
     {
       "raw_hot": 345841,
@@ -14336,6 +14472,14 @@
       "word": "杨紫休息让我演两集",
       "onboard_time": 1712988557,
       "rank": 29,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 322154,
+      "num": 322154,
+      "word": "结婚前分手的情侣",
+      "onboard_time": 1713102919,
+      "rank": 25,
       "category": "剧集"
     },
     {
@@ -16027,6 +16171,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 289121,
+      "num": 289121,
+      "word": "Tian哭了",
+      "onboard_time": 1713104898,
+      "rank": 26,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 289077,
       "num": 289077,
       "word": "导演把与凤行吻戏给刘宇宁当教材",
@@ -16289,6 +16441,14 @@
       "onboard_time": 1712973078,
       "rank": 25,
       "category": "运动健身,科学科普"
+    },
+    {
+      "raw_hot": 283733,
+      "num": 283733,
+      "word": "金像奖红毯",
+      "onboard_time": 1713093500,
+      "rank": 29,
+      "category": "电影"
     },
     {
       "raw_hot": 283671,
@@ -17155,6 +17315,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 267680,
+      "num": 264682,
+      "word": "金像奖",
+      "onboard_time": 1713086777,
+      "rank": 21,
+      "category": "电影"
+    },
+    {
       "raw_hot": 267277,
       "num": 267277,
       "word": "恋爱让他谈 三界我来守",
@@ -17235,14 +17403,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 264682,
-      "num": 264682,
-      "word": "金像奖",
-      "onboard_time": 1713086777,
-      "rank": 21,
-      "category": "电影"
-    },
-    {
       "raw_hot": 264587,
       "num": 264587,
       "word": "因为和父母关系不好直接改姓了",
@@ -17281,6 +17441,14 @@
       "onboard_time": 1711962380,
       "rank": 24,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 264161,
+      "num": 264161,
+      "word": "等不及看肖战藏海了",
+      "onboard_time": 1713102320,
+      "rank": 29,
+      "category": "剧集"
     },
     {
       "raw_hot": 264060,
@@ -18043,6 +18211,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 253455,
+      "num": 253455,
+      "word": "钟美美回应带家人出国计划",
+      "onboard_time": 1713100278,
+      "rank": 31,
+      "category": "网红"
+    },
+    {
       "raw_hot": 253290,
       "num": 253290,
       "word": "T1晋级2024MSI",
@@ -18129,6 +18305,14 @@
       "onboard_time": 1712360716,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 252575,
+      "num": 252575,
+      "word": "姚志明追妻出手即巅峰",
+      "onboard_time": 1713103400,
+      "rank": 32,
+      "category": "剧集"
     },
     {
       "raw_hot": 252531,
@@ -19035,6 +19219,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 241570,
+      "num": 241570,
+      "word": "王俊凯平时没少健身吧",
+      "onboard_time": 1713104420,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 241518,
       "num": 241518,
       "word": "电影无名之辈2开机",
@@ -19369,6 +19561,14 @@
       "onboard_time": 1712499801,
       "rank": 32,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 237367,
+      "num": 237367,
+      "word": "陈丽君回应戏曲演员去跳女团舞质疑",
+      "onboard_time": 1713103639,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 237346,
@@ -19971,6 +20171,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 229383,
+      "num": 229383,
+      "word": "姜大卫金像奖最佳男配角",
+      "onboard_time": 1713103759,
+      "rank": 35,
+      "category": "电影"
+    },
+    {
       "raw_hot": 229122,
       "num": 229122,
       "word": "汕头震感",
@@ -20329,6 +20537,14 @@
       "onboard_time": 1712597892,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 225389,
+      "num": 225389,
+      "word": "Minnie泼水节造型",
+      "onboard_time": 1713100819,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 225087,
@@ -20755,6 +20971,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 220045,
+      "num": 220045,
+      "word": "为什么大家都装马桶不要蹲厕",
+      "onboard_time": 1713104780,
+      "rank": 37,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 219942,
       "num": 219942,
       "word": "再见爱人 换乘恋爱",
@@ -20896,6 +21120,14 @@
       "word": "于正说赵晴替他一雪前耻",
       "onboard_time": 1712417957,
       "rank": 27,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 218718,
+      "num": 209323,
+      "word": "李昊 小狗",
+      "onboard_time": 1713098899,
+      "rank": 40,
       "category": "综艺"
     },
     {
@@ -21435,6 +21667,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 213306,
+      "num": 213306,
+      "word": "JDG对战TES",
+      "onboard_time": 1713090977,
+      "rank": 36,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 213023,
       "num": 213023,
       "word": "巴以冲突",
@@ -21633,14 +21873,6 @@
       "onboard_time": 1712024119,
       "rank": 30,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 210844,
-      "num": 210844,
-      "word": "金像奖红毯",
-      "onboard_time": 1713093500,
-      "rank": 29,
-      "category": "电影"
     },
     {
       "raw_hot": 210819,
@@ -22025,6 +22257,14 @@
       "onboard_time": 1712930899,
       "rank": 35,
       "category": "演出"
+    },
+    {
+      "raw_hot": 208123,
+      "num": 208123,
+      "word": "梁雍婷金像奖最佳女配角",
+      "onboard_time": 1713104479,
+      "rank": 41,
+      "category": "电影"
     },
     {
       "raw_hot": 208091,
@@ -23665,6 +23905,14 @@
       "onboard_time": 1713079698,
       "rank": 29,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 198535,
+      "num": 198535,
+      "word": "刘嘉玲 龙虾造型",
+      "onboard_time": 1713099557,
+      "rank": 43,
+      "category": "电影"
     },
     {
       "raw_hot": 198446,
@@ -26315,14 +26563,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 183190,
-      "num": 183190,
-      "word": "JDG对战TES",
-      "onboard_time": 1713090977,
-      "rank": 36,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 183055,
       "num": 183055,
       "word": "考研七次是一种什么体验",
@@ -27915,6 +28155,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 171587,
+      "num": 209353,
+      "word": "马宁",
+      "onboard_time": 1713102439,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 171585,
       "num": 171585,
       "word": "福宝回家倒计时",
@@ -28345,6 +28593,14 @@
       "onboard_time": 1712385258,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 167760,
+      "num": 167760,
+      "word": "T1赛后发文",
+      "onboard_time": 1713102199,
+      "rank": 46,
+      "category": "电竞"
     },
     {
       "raw_hot": 167747,
@@ -29259,6 +29515,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 160848,
+      "num": 160848,
+      "word": "上海海港4比3山东泰山",
+      "onboard_time": 1713104060,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 160838,
       "num": 164250,
       "word": "张学友谢霆锋新片定档暑期",
@@ -29681,14 +29945,6 @@
       "onboard_time": 1712055741,
       "rank": 35,
       "category": "电竞,网红"
-    },
-    {
-      "raw_hot": 158881,
-      "num": 158881,
-      "word": "眼泪女王收视率",
-      "onboard_time": 1712446756,
-      "rank": 41,
-      "category": "剧集"
     },
     {
       "raw_hot": 158878,
@@ -30663,6 +30919,14 @@
       "num": 152409,
       "word": "LCK",
       "onboard_time": 1712149581,
+      "rank": 49,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 152371,
+      "num": 152371,
+      "word": "TES挺进春决",
+      "onboard_time": 1713102320,
       "rank": 49,
       "category": "电竞"
     },
@@ -37155,6 +37419,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 81648,
+      "num": 860727,
+      "word": "看不见的守护正无处不在",
+      "onboard_time": 1713103338,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 81573,
       "num": 81573,
       "word": "黄金回收市场迎来卖金热",
@@ -39690,6 +39962,9 @@
     },
     {
       "word": "#学纪知纪明纪守纪#"
+    },
+    {
+      "word": "#坚持系统思维构建大安全格局#"
     }
   ]
 }
