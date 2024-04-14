@@ -1,0 +1,410 @@
+{
+  "runTime": 1713074714445,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3055191,
+        "num": 3055191,
+        "word": "间谍窃取我国杂交水稻亲本种子",
+        "onboard_time": 1713071059,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1168329,
+        "num": 1168329,
+        "word": "猫一杯涉事MCN或将被平台清退",
+        "onboard_time": 1713066318,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 206637,
+        "num": 935293,
+        "word": "时速400公里的高铁要来了",
+        "onboard_time": 1713066019,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 919961,
+        "num": 919961,
+        "word": "看3处就知道气血足不足",
+        "onboard_time": 1713070939,
+        "rank": 3,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 912435,
+        "num": 912435,
+        "word": "张伟丽战胜闫晓楠卫冕",
+        "onboard_time": 1713072197,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 819814,
+        "num": 819814,
+        "word": "伊朗99%的导弹和无人机被拦截",
+        "onboard_time": 1713064038,
+        "rank": 5,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 827309,
+        "num": 748795,
+        "word": "网友偶遇宋祖儿",
+        "onboard_time": 1713066380,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 612786,
+        "num": 612786,
+        "word": "美军帮以击落几乎所有无人机导弹",
+        "onboard_time": 1713069318,
+        "rank": 7,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 556128,
+        "num": 556128,
+        "word": "韩国化妆师给曾黎化的妆",
+        "onboard_time": 1713067158,
+        "rank": 8,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 87901,
+        "num": 436871,
+        "word": "男童30万耳蜗丢失全城合力找回",
+        "onboard_time": 1713041710,
+        "rank": 9,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 363707,
+        "num": 363707,
+        "word": "老板 不要香菜",
+        "onboard_time": 1713060138,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 342476,
+        "num": 342476,
+        "word": "戳爷晒老干妈",
+        "onboard_time": 1713073038,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 334263,
+        "num": 334263,
+        "word": "旭旭宝宝 三年了终于圆梦了",
+        "onboard_time": 1713063319,
+        "rank": 12,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 329645,
+        "num": 329645,
+        "word": "科切拉",
+        "onboard_time": 1713073638,
+        "rank": 13,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 310505,
+        "num": 310505,
+        "word": "王亚飞给迪丽热巴化的原生妆",
+        "onboard_time": 1713074358,
+        "rank": 14,
+        "category": "作品衍生,美妆"
+      },
+      {
+        "raw_hot": 288495,
+        "num": 288495,
+        "word": "拜登回应伊朗袭击以色列",
+        "onboard_time": 1713052756,
+        "rank": 15,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 288002,
+        "num": 288002,
+        "word": "姚志明 承认吧你也为她心动",
+        "onboard_time": 1713070818,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 287395,
+        "num": 287395,
+        "word": "金莎想带男友报名郝蕾演技课",
+        "onboard_time": 1713067998,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 275035,
+        "num": 275035,
+        "word": "厦门大学食堂建议本",
+        "onboard_time": 1713067337,
+        "rank": 18,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 243345,
+        "num": 243345,
+        "word": "朋友圈站岗",
+        "onboard_time": 1713073398,
+        "rank": 19,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 581131,
+        "num": 243200,
+        "word": "被妈妈看到避孕套了怎么办",
+        "onboard_time": 1713059598,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 433037,
+        "num": 239598,
+        "word": "才领完结婚证就已经对婚姻失望了",
+        "onboard_time": 1713071718,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 278436,
+        "num": 236666,
+        "word": "郝蕾肉眼可见的瘦了",
+        "onboard_time": 1713057077,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 229799,
+        "num": 229799,
+        "word": "天水麻辣烫让杨国福张亮慌了吗",
+        "onboard_time": 1713069018,
+        "rank": 23,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 229577,
+        "num": 229577,
+        "word": "伊以冲突时间线",
+        "onboard_time": 1713052756,
+        "rank": 24,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 223386,
+        "num": 223386,
+        "word": "结婚一年婆婆就瘫痪了",
+        "onboard_time": 1713066076,
+        "rank": 25,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 213066,
+        "num": 213066,
+        "word": "清华作业你胆敢用北大的纸交",
+        "onboard_time": 1713060799,
+        "rank": 26,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 202106,
+        "num": 202106,
+        "word": "和恋爱11年的男朋友分手了",
+        "onboard_time": 1713065296,
+        "rank": 27,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 199237,
+        "num": 199237,
+        "word": "多国宣布关闭领空",
+        "onboard_time": 1713051375,
+        "rank": 28,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 191351,
+        "num": 191351,
+        "word": "迪丽热巴聂九罗剧本围读",
+        "onboard_time": 1713070098,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 191256,
+        "num": 191256,
+        "word": "周也梦中情猫变装",
+        "onboard_time": 1713074297,
+        "rank": 30,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 189552,
+        "num": 189552,
+        "word": "张伟丽vs闫晓楠",
+        "onboard_time": 1713067638,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 187234,
+        "num": 187234,
+        "word": "伊朗对以色列展开打击行动",
+        "onboard_time": 1713049513,
+        "rank": 32,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 182731,
+        "num": 182731,
+        "word": "佩雷拉KO希尔",
+        "onboard_time": 1713073877,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 177221,
+        "num": 177221,
+        "word": "吴镇宇吐槽古偶",
+        "onboard_time": 1713066978,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 174977,
+        "num": 174977,
+        "word": "于正说许凯的大运来了",
+        "onboard_time": 1713066679,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 162703,
+        "num": 162703,
+        "word": "伊朗向以色列目标发射弹道导弹",
+        "onboard_time": 1713050054,
+        "rank": 36,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 20055,
+        "num": 162135,
+        "word": "P5X果然是恋爱游戏",
+        "onboard_time": 1713071179,
+        "rank": 37,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 162037,
+        "num": 162037,
+        "word": "以色列多城市遭袭目前1人受伤",
+        "onboard_time": 1713059538,
+        "rank": 38,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 148877,
+        "num": 148877,
+        "word": "伊朗向以色列发射数十架无人机",
+        "onboard_time": 1713049813,
+        "rank": 39,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 147708,
+        "num": 147708,
+        "word": "当韩国人第一次看中医时",
+        "onboard_time": 1713070459,
+        "rank": 40,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 143273,
+        "num": 143273,
+        "word": "水果为什么变得越来越甜了",
+        "onboard_time": 1713074238,
+        "rank": 41,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 142724,
+        "num": 142724,
+        "word": "比特币跳水29万人爆仓",
+        "onboard_time": 1713066859,
+        "rank": 42,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 142499,
+        "num": 142499,
+        "word": "真的建议结婚不能太着急",
+        "onboard_time": 1713062718,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 139130,
+        "num": 139130,
+        "word": "央视曝光职业闭店人",
+        "onboard_time": 1713061759,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 136242,
+        "num": 136242,
+        "word": "花少去老挝了",
+        "onboard_time": 1713064158,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 131321,
+        "num": 131321,
+        "word": "黄子韬 泼水节",
+        "onboard_time": 1713074657,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 131288,
+        "num": 131288,
+        "word": "Doinb爆料Tarzan找到队伍",
+        "onboard_time": 1713068659,
+        "rank": 47,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 8289,
+        "num": 129065,
+        "word": "P5X又出了河南话配音",
+        "onboard_time": 1713074599,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 9563,
+        "num": 128845,
+        "word": "猫头鹰变身小汽车",
+        "onboard_time": 1713074657,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#把握两岸关系大局#"
+    }
+  }
+}

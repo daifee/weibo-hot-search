@@ -1,6 +1,6 @@
 {
   "startTime": 1711902044401,
-  "endTime": 1713070811113,
+  "endTime": 1713074714445,
   "band_list": [
     {
       "raw_hot": 16874674,
@@ -136,6 +136,14 @@
       "word": "知情人称扔小孩母亲避开了安全气囊",
       "onboard_time": 1711951221,
       "rank": 3,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 3055191,
+      "num": 3055191,
+      "word": "间谍窃取我国杂交水稻亲本种子",
+      "onboard_time": 1713071059,
+      "rank": 0,
       "category": "社会新闻"
     },
     {
@@ -3427,6 +3435,14 @@
       "category": "读书作家"
     },
     {
+      "raw_hot": 919961,
+      "num": 919961,
+      "word": "看3处就知道气血足不足",
+      "onboard_time": 1713070939,
+      "rank": 3,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 919277,
       "num": 896381,
       "word": "赵丽颖王伊瑶友情",
@@ -3473,6 +3489,14 @@
       "onboard_time": 1712138059,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 912435,
+      "num": 912435,
+      "word": "张伟丽战胜闫晓楠卫冕",
+      "onboard_time": 1713072197,
+      "rank": 4,
+      "category": "体育"
     },
     {
       "raw_hot": 911576,
@@ -6697,6 +6721,14 @@
       "onboard_time": 1712583381,
       "rank": 6,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 612786,
+      "num": 612786,
+      "word": "美军帮以击落几乎所有无人机导弹",
+      "onboard_time": 1713069318,
+      "rank": 24,
+      "category": "国外时政"
     },
     {
       "raw_hot": 612173,
@@ -10355,14 +10387,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 441813,
-      "num": 441813,
-      "word": "美军帮以击落几乎所有无人机导弹",
-      "onboard_time": 1713069318,
-      "rank": 24,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 441372,
       "num": 441372,
       "word": "江西省考成绩",
@@ -10617,6 +10641,14 @@
       "onboard_time": 1712324179,
       "rank": 11,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 433037,
+      "num": 239598,
+      "word": "才领完结婚证就已经对婚姻失望了",
+      "onboard_time": 1713071718,
+      "rank": 21,
+      "category": "情感"
     },
     {
       "raw_hot": 432759,
@@ -13331,6 +13363,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 342476,
+      "num": 342476,
+      "word": "戳爷晒老干妈",
+      "onboard_time": 1713073038,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 342195,
       "num": 342195,
       "word": "小米内部员工可优惠购车",
@@ -13737,6 +13777,14 @@
       "onboard_time": 1712243240,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 329645,
+      "num": 329645,
+      "word": "科切拉",
+      "onboard_time": 1713073638,
+      "rank": 13,
+      "category": "音乐"
     },
     {
       "raw_hot": 329178,
@@ -14633,6 +14681,14 @@
       "onboard_time": 1712228599,
       "rank": 30,
       "category": "情感"
+    },
+    {
+      "raw_hot": 310505,
+      "num": 310505,
+      "word": "王亚飞给迪丽热巴化的原生妆",
+      "onboard_time": 1713074358,
+      "rank": 14,
+      "category": "作品衍生,美妆"
     },
     {
       "raw_hot": 310383,
@@ -15745,6 +15801,14 @@
       "onboard_time": 1711947564,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 288002,
+      "num": 288002,
+      "word": "姚志明 承认吧你也为她心动",
+      "onboard_time": 1713070818,
+      "rank": 16,
+      "category": "剧集"
     },
     {
       "raw_hot": 287950,
@@ -18521,6 +18585,14 @@
       "onboard_time": 1712633898,
       "rank": 29,
       "category": "财经"
+    },
+    {
+      "raw_hot": 243345,
+      "num": 243345,
+      "word": "朋友圈站岗",
+      "onboard_time": 1713073398,
+      "rank": 19,
+      "category": "情感"
     },
     {
       "raw_hot": 243339,
@@ -24387,6 +24459,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 191256,
+      "num": 191256,
+      "word": "周也梦中情猫变装",
+      "onboard_time": 1713074297,
+      "rank": 30,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 191208,
       "num": 191208,
       "word": "金价飙升有顾客越涨越买",
@@ -25841,6 +25921,14 @@
       "onboard_time": 1711944383,
       "rank": 45,
       "category": "数码"
+    },
+    {
+      "raw_hot": 182731,
+      "num": 182731,
+      "word": "佩雷拉KO希尔",
+      "onboard_time": 1713073877,
+      "rank": 33,
+      "category": "体育"
     },
     {
       "raw_hot": 182628,
@@ -31427,6 +31515,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 143273,
+      "num": 143273,
+      "word": "水果为什么变得越来越甜了",
+      "onboard_time": 1713074238,
+      "rank": 41,
+      "category": "美食"
+    },
+    {
       "raw_hot": 143269,
       "num": 143269,
       "word": "我承认昨天对行止太大声了",
@@ -33073,6 +33169,14 @@
       "onboard_time": 1712642899,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 131321,
+      "num": 131321,
+      "word": "黄子韬 泼水节",
+      "onboard_time": 1713074657,
+      "rank": 46,
+      "category": "艺人"
     },
     {
       "raw_hot": 131320,
@@ -38419,6 +38523,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 20055,
+      "num": 162135,
+      "word": "P5X果然是恋爱游戏",
+      "onboard_time": 1713071179,
+      "rank": 37,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 19976,
       "num": 19976,
       "word": "我建议老乡鸡帮我写论文",
@@ -38704,6 +38816,22 @@
       "word": "P5X又又出了湖南话配音",
       "onboard_time": 1713070518,
       "rank": 45,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 9563,
+      "num": 128845,
+      "word": "猫头鹰变身小汽车",
+      "onboard_time": 1713074657,
+      "rank": 49,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 8289,
+      "num": 129065,
+      "word": "P5X又出了河南话配音",
+      "onboard_time": 1713074599,
+      "rank": 48,
       "category": "游戏"
     },
     {
