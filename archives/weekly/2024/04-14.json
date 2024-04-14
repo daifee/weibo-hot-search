@@ -1,6 +1,6 @@
 {
   "startTime": 1713025251708,
-  "endTime": 1713092909288,
+  "endTime": 1713093867201,
   "band_list": [
     {
       "raw_hot": 3131894,
@@ -43,6 +43,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1709940,
+      "num": 665023,
+      "word": "Angelababy金像奖红毯",
+      "onboard_time": 1713091577,
+      "rank": 10,
+      "category": "电影"
+    },
+    {
       "raw_hot": 1601825,
       "num": 1601825,
       "word": "拜登回应伊朗袭击以色列",
@@ -57,14 +65,6 @@
       "onboard_time": 1713077417,
       "rank": 1,
       "category": "情感"
-    },
-    {
-      "raw_hot": 1334803,
-      "num": 665023,
-      "word": "Angelababy金像奖红毯",
-      "onboard_time": 1713091577,
-      "rank": 10,
-      "category": "电影"
     },
     {
       "raw_hot": 1330114,
@@ -235,8 +235,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 748008,
-      "num": 748008,
+      "raw_hot": 750205,
+      "num": 750205,
       "word": "男生工作2年考上211研究生后退学进山",
       "onboard_time": 1713088219,
       "rank": 4,
@@ -436,7 +436,7 @@
     },
     {
       "raw_hot": 512090,
-      "num": 199231,
+      "num": 278225,
       "word": "原来这些专业考不了公务员",
       "onboard_time": 1713092719,
       "rank": 30,
@@ -699,6 +699,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 361941,
+      "num": 361941,
+      "word": "科研人员出卖核心机密被执行死刑",
+      "onboard_time": 1713092899,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 361000,
       "num": 361000,
       "word": "李泰容光头",
@@ -787,6 +795,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 319826,
+      "num": 319826,
+      "word": "辛芷蕾现在换鞋还来得及",
+      "onboard_time": 1713091939,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 319386,
       "num": 319386,
       "word": "伊朗称成功摧毁以色列军事目标",
@@ -835,6 +851,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 308121,
+      "num": 308121,
+      "word": "张馨予瘦10斤的拍照教程",
+      "onboard_time": 1713089118,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 307831,
       "num": 307831,
       "word": "伊朗称若以色列采取行动将双倍力量回应",
@@ -857,14 +881,6 @@
       "onboard_time": 1713013097,
       "rank": 19,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 300409,
-      "num": 300409,
-      "word": "张馨予瘦10斤的拍照教程",
-      "onboard_time": 1713089118,
-      "rank": 17,
-      "category": "艺人"
     },
     {
       "raw_hot": 299223,
@@ -995,6 +1011,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 267826,
+      "num": 267826,
+      "word": "sorry来sorry去宝宝给伞你不拒",
+      "onboard_time": 1713091517,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 266440,
+      "num": 266440,
+      "word": "T1和GEN决胜局",
+      "onboard_time": 1713092237,
+      "rank": 25,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 265988,
       "num": 265988,
       "word": "秦皇岛",
@@ -1083,14 +1115,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 246168,
-      "num": 246168,
-      "word": "辛芷蕾现在换鞋还来得及",
-      "onboard_time": 1713091939,
-      "rank": 22,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 245917,
       "num": 245917,
       "word": "何洁 我不在乎翻红因为我红过",
@@ -1145,14 +1169,6 @@
       "onboard_time": 1713080359,
       "rank": 23,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 230021,
-      "num": 230021,
-      "word": "T1和GEN决胜局",
-      "onboard_time": 1713092237,
-      "rank": 25,
-      "category": "电竞"
     },
     {
       "raw_hot": 229449,
@@ -1243,6 +1259,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 215133,
+      "num": 215133,
+      "word": "狼队零封WB",
+      "onboard_time": 1713092659,
+      "rank": 28,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 214805,
       "num": 214805,
       "word": "麦承欢刚分手姚志明就掏出一克拉",
@@ -1251,12 +1275,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 211092,
+      "num": 211092,
+      "word": "金钟仁吴世勋去了EXO粉丝见面会",
+      "onboard_time": 1713093558,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 211075,
       "num": 211075,
       "word": "LESSERAFIM科切拉全开麦",
       "onboard_time": 1713076099,
       "rank": 26,
       "category": "演出"
+    },
+    {
+      "raw_hot": 210844,
+      "num": 210844,
+      "word": "金像奖红毯",
+      "onboard_time": 1713093500,
+      "rank": 29,
+      "category": "电影"
     },
     {
       "raw_hot": 209854,
@@ -1307,14 +1347,6 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 203539,
-      "num": 203539,
-      "word": "狼队零封WB",
-      "onboard_time": 1713092659,
-      "rank": 28,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 202779,
       "num": 202779,
       "word": "70后教师回应29年助养300名孩子",
@@ -1339,20 +1371,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 199491,
-      "num": 199491,
-      "word": "sorry来sorry去宝宝给伞你不拒",
-      "onboard_time": 1713091517,
-      "rank": 29,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 198953,
       "num": 198953,
       "word": "品牌方删除猫一杯物料",
       "onboard_time": 1713083477,
       "rank": 31,
       "category": "社会新闻,网红"
+    },
+    {
+      "raw_hot": 198898,
+      "num": 198898,
+      "word": "原来广东小孩工作后还要交家用",
+      "onboard_time": 1713090558,
+      "rank": 39,
+      "category": "幽默"
     },
     {
       "raw_hot": 198613,
@@ -1401,6 +1433,14 @@
       "onboard_time": 1713075378,
       "rank": 26,
       "category": "情感"
+    },
+    {
+      "raw_hot": 191634,
+      "num": 191634,
+      "word": "华晨宇安慰没抢到票的歌迷",
+      "onboard_time": 1713093619,
+      "rank": 33,
+      "category": "演出"
     },
     {
       "raw_hot": 187462,
@@ -1563,6 +1603,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 169104,
+      "num": 665114,
+      "word": "这只大熊猫的糖分超标",
+      "onboard_time": 1713091818,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 167328,
       "num": 167328,
       "word": "妈妈养了13年的狗被邻居打死了",
@@ -1579,20 +1627,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 165473,
-      "num": 165473,
-      "word": "原来广东小孩工作后还要交家用",
-      "onboard_time": 1713090558,
-      "rank": 39,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 164619,
       "num": 92404,
       "word": "白宫证实伊朗对以色列发动空袭",
       "onboard_time": 1713049694,
       "rank": 32,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 164498,
+      "num": 164498,
+      "word": "GEN四连冠",
+      "onboard_time": 1713093678,
+      "rank": 37,
+      "category": "电竞"
     },
     {
       "raw_hot": 163930,
@@ -1625,6 +1673,14 @@
       "onboard_time": 1713080237,
       "rank": 39,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 158719,
+      "num": 158719,
+      "word": "62岁大爷催更数码宝贝",
+      "onboard_time": 1713093738,
+      "rank": 40,
+      "category": "动漫,作品衍生"
     },
     {
       "raw_hot": 158245,
@@ -1691,6 +1747,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 153542,
+      "num": 153542,
+      "word": "停止内耗的核心",
+      "onboard_time": 1713093198,
+      "rank": 42,
+      "category": "情感"
+    },
+    {
       "raw_hot": 151011,
       "num": 151011,
       "word": "赵露思曾黎王安宇聚会合照",
@@ -1728,6 +1792,14 @@
       "word": "BABYMONSTER翻跳2NE1串烧",
       "onboard_time": 1713019940,
       "rank": 36,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 145522,
+      "num": 145522,
+      "word": "十个勤天产业进展",
+      "onboard_time": 1713093138,
+      "rank": 45,
       "category": "综艺"
     },
     {
@@ -2009,14 +2081,6 @@
       "onboard_time": 1713006738,
       "rank": 49,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 90104,
-      "num": 665114,
-      "word": "这只大熊猫的糖分超标",
-      "onboard_time": 1713091818,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 89339,

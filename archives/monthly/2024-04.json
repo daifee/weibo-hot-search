@@ -1,6 +1,6 @@
 {
   "startTime": 1711902044401,
-  "endTime": 1713092909288,
+  "endTime": 1713093867201,
   "band_list": [
     {
       "raw_hot": 16874674,
@@ -843,6 +843,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 1709940,
+      "num": 665023,
+      "word": "Angelababy金像奖红毯",
+      "onboard_time": 1713091577,
+      "rank": 10,
+      "category": "电影"
+    },
+    {
       "raw_hot": 1708706,
       "num": 1708706,
       "word": "直播福宝回国",
@@ -1665,14 +1673,6 @@
       "onboard_time": 1712360835,
       "rank": 10,
       "category": "游戏,网红"
-    },
-    {
-      "raw_hot": 1334803,
-      "num": 665023,
-      "word": "Angelababy金像奖红毯",
-      "onboard_time": 1713091577,
-      "rank": 10,
-      "category": "电影"
     },
     {
       "raw_hot": 1332179,
@@ -4939,6 +4939,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 750205,
+      "num": 750205,
+      "word": "男生工作2年考上211研究生后退学进山",
+      "onboard_time": 1713088219,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 749972,
       "num": 749972,
       "word": "美国费城突发大规模枪击",
@@ -4953,14 +4961,6 @@
       "onboard_time": 1712743999,
       "rank": 26,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 748008,
-      "num": 748008,
-      "word": "男生工作2年考上211研究生后退学进山",
-      "onboard_time": 1713088219,
-      "rank": 4,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 746492,
@@ -8724,7 +8724,7 @@
     },
     {
       "raw_hot": 512090,
-      "num": 199231,
+      "num": 278225,
       "word": "原来这些专业考不了公务员",
       "onboard_time": 1713092719,
       "rank": 30,
@@ -12843,6 +12843,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 361941,
+      "num": 361941,
+      "word": "科研人员出卖核心机密被执行死刑",
+      "onboard_time": 1713092899,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 361529,
       "num": 361529,
       "word": "不建议吃冷青团",
@@ -14427,6 +14435,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 319826,
+      "num": 319826,
+      "word": "辛芷蕾现在换鞋还来得及",
+      "onboard_time": 1713091939,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 319713,
       "num": 251966,
       "word": "花花被和叶推下水",
@@ -15003,6 +15019,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 308121,
+      "num": 308121,
+      "word": "张馨予瘦10斤的拍照教程",
+      "onboard_time": 1713089118,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 308115,
       "num": 308115,
       "word": "姜爷爷请放心福宝会好好的",
@@ -15377,14 +15401,6 @@
       "onboard_time": 1712822838,
       "rank": 23,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 300409,
-      "num": 300409,
-      "word": "张馨予瘦10斤的拍照教程",
-      "onboard_time": 1713089118,
-      "rank": 17,
-      "category": "艺人"
     },
     {
       "raw_hot": 300247,
@@ -17123,6 +17139,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 267826,
+      "num": 267826,
+      "word": "sorry来sorry去宝宝给伞你不拒",
+      "onboard_time": 1713091517,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 267754,
       "num": 371397,
       "word": "金价攀升很多人一袋一袋卖黄金",
@@ -17153,6 +17177,14 @@
       "onboard_time": 1712551221,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 266440,
+      "num": 266440,
+      "word": "T1和GEN决胜局",
+      "onboard_time": 1713092237,
+      "rank": 25,
+      "category": "电竞"
     },
     {
       "raw_hot": 266112,
@@ -18619,14 +18651,6 @@
       "category": "社会正能量"
     },
     {
-      "raw_hot": 246168,
-      "num": 246168,
-      "word": "辛芷蕾现在换鞋还来得及",
-      "onboard_time": 1713091939,
-      "rank": 22,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 246091,
       "num": 246091,
       "word": "沈图南 林樵松",
@@ -19897,14 +19921,6 @@
       "onboard_time": 1712740818,
       "rank": 34,
       "category": "美食"
-    },
-    {
-      "raw_hot": 230021,
-      "num": 230021,
-      "word": "T1和GEN决胜局",
-      "onboard_time": 1713092237,
-      "rank": 25,
-      "category": "电竞"
     },
     {
       "raw_hot": 229897,
@@ -21219,6 +21235,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 215133,
+      "num": 215133,
+      "word": "狼队零封WB",
+      "onboard_time": 1713092659,
+      "rank": 28,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 215130,
       "num": 215130,
       "word": "国际乒联排名",
@@ -21571,6 +21595,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 211092,
+      "num": 211092,
+      "word": "金钟仁吴世勋去了EXO粉丝见面会",
+      "onboard_time": 1713093558,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 211075,
       "num": 211075,
       "word": "LESSERAFIM科切拉全开麦",
@@ -21601,6 +21633,14 @@
       "onboard_time": 1712024119,
       "rank": 30,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 210844,
+      "num": 210844,
+      "word": "金像奖红毯",
+      "onboard_time": 1713093500,
+      "rank": 29,
+      "category": "电影"
     },
     {
       "raw_hot": 210819,
@@ -22731,14 +22771,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 203539,
-      "num": 203539,
-      "word": "狼队零封WB",
-      "onboard_time": 1713092659,
-      "rank": 28,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 203453,
       "num": 203453,
       "word": "一个是大圣一个是吗喽",
@@ -23427,14 +23459,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 199491,
-      "num": 199491,
-      "word": "sorry来sorry去宝宝给伞你不拒",
-      "onboard_time": 1713091517,
-      "rank": 29,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 199489,
       "num": 199489,
       "word": "衡门有狐",
@@ -23545,6 +23569,14 @@
       "onboard_time": 1713083477,
       "rank": 31,
       "category": "社会新闻,网红"
+    },
+    {
+      "raw_hot": 198898,
+      "num": 198898,
+      "word": "原来广东小孩工作后还要交家用",
+      "onboard_time": 1713090558,
+      "rank": 39,
+      "category": "幽默"
     },
     {
       "raw_hot": 198863,
@@ -24761,6 +24793,14 @@
       "onboard_time": 1712139560,
       "rank": 46,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 191634,
+      "num": 191634,
+      "word": "华晨宇安慰没抢到票的歌迷",
+      "onboard_time": 1713093619,
+      "rank": 33,
+      "category": "演出"
     },
     {
       "raw_hot": 191613,
@@ -28139,6 +28179,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 169104,
+      "num": 665114,
+      "word": "这只大熊猫的糖分超标",
+      "onboard_time": 1713091818,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 169026,
       "num": 169026,
       "word": "二手车商为何不敢收新能源车",
@@ -28587,14 +28635,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 165473,
-      "num": 165473,
-      "word": "原来广东小孩工作后还要交家用",
-      "onboard_time": 1713090558,
-      "rank": 39,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 165461,
       "num": 165461,
       "word": "拂容君下凡渡劫燃起来了",
@@ -28713,6 +28753,14 @@
       "onboard_time": 1712210478,
       "rank": 35,
       "category": "电影"
+    },
+    {
+      "raw_hot": 164498,
+      "num": 164498,
+      "word": "GEN四连冠",
+      "onboard_time": 1713093678,
+      "rank": 37,
+      "category": "电竞"
     },
     {
       "raw_hot": 164397,
@@ -29667,6 +29715,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 158719,
+      "num": 158719,
+      "word": "62岁大爷催更数码宝贝",
+      "onboard_time": 1713093738,
+      "rank": 40,
+      "category": "动漫,作品衍生"
+    },
+    {
       "raw_hot": 158573,
       "num": 158573,
       "word": "欢瑞声明成毅与前公司无任何纠纷",
@@ -30377,6 +30433,14 @@
       "onboard_time": 1712718979,
       "rank": 48,
       "category": "美食"
+    },
+    {
+      "raw_hot": 153542,
+      "num": 153542,
+      "word": "停止内耗的核心",
+      "onboard_time": 1713093198,
+      "rank": 42,
+      "category": "情感"
     },
     {
       "raw_hot": 153537,
@@ -31761,6 +31825,14 @@
       "onboard_time": 1712064980,
       "rank": 45,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 145522,
+      "num": 145522,
+      "word": "十个勤天产业进展",
+      "onboard_time": 1713093138,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 145495,
@@ -36849,14 +36921,6 @@
       "onboard_time": 1712530814,
       "rank": 38,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 90104,
-      "num": 665114,
-      "word": "这只大熊猫的糖分超标",
-      "onboard_time": 1713091818,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 89520,

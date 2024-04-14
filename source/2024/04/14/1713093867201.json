@@ -1,0 +1,410 @@
+{
+  "runTime": 1713093867201,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1025739,
+        "num": 1025739,
+        "word": "胡彦斌经纪人参加浪姐",
+        "onboard_time": 1713088638,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 750205,
+        "num": 750205,
+        "word": "男生工作2年考上211研究生后退学进山",
+        "onboard_time": 1713088219,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 42570,
+        "num": 713711,
+        "word": "总体国家安全观主题宣传片护你安澜",
+        "onboard_time": 1713083238,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 694273,
+        "num": 694273,
+        "word": "女子丰胸检出骆驼等动物源性成分",
+        "onboard_time": 1713081378,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 672791,
+        "num": 672791,
+        "word": "间谍窃取我国杂交水稻亲本种子",
+        "onboard_time": 1713071059,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 668309,
+        "num": 668309,
+        "word": "年轻真好14秒睡了5觉",
+        "onboard_time": 1713085699,
+        "rank": 5,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 589530,
+        "num": 589530,
+        "word": "杨幂 CL",
+        "onboard_time": 1713089059,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 472312,
+        "num": 472312,
+        "word": "多家银行下架大额存单",
+        "onboard_time": 1713086598,
+        "rank": 7,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 84439,
+        "num": 469478,
+        "word": "谢谢为我们负重前行的人",
+        "onboard_time": 1713078138,
+        "rank": 8,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 169104,
+        "num": 462405,
+        "word": "这只大熊猫的糖分超标",
+        "onboard_time": 1713091818,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 984549,
+        "num": 454995,
+        "word": "韩国爱豆整容堪比大变活人",
+        "onboard_time": 1713087617,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1709940,
+        "num": 453633,
+        "word": "Angelababy金像奖红毯",
+        "onboard_time": 1713091577,
+        "rank": 11,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 447598,
+        "num": 447598,
+        "word": "伊以冲突",
+        "onboard_time": 1713085158,
+        "rank": 12,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 386707,
+        "num": 386707,
+        "word": "这两种方式属于无效避孕",
+        "onboard_time": 1713078198,
+        "rank": 13,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 361941,
+        "num": 361941,
+        "word": "科研人员出卖核心机密被执行死刑",
+        "onboard_time": 1713092899,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 332835,
+        "num": 332835,
+        "word": "猫一杯涉事MCN或将被平台清退",
+        "onboard_time": 1713066318,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 330769,
+        "num": 330769,
+        "word": "你们有5根手指 我只有4根诶",
+        "onboard_time": 1713077417,
+        "rank": 16,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 319826,
+        "num": 319826,
+        "word": "辛芷蕾现在换鞋还来得及",
+        "onboard_time": 1713091939,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 308121,
+        "num": 308121,
+        "word": "张馨予瘦10斤的拍照教程",
+        "onboard_time": 1713089118,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 284744,
+        "num": 284744,
+        "word": "GEN对战T1",
+        "onboard_time": 1713078499,
+        "rank": 19,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 424238,
+        "num": 278225,
+        "word": "原来这些专业考不了公务员",
+        "onboard_time": 1713092719,
+        "rank": 20,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 270517,
+        "num": 270517,
+        "word": "伊朗称成功达成两个打击目标",
+        "onboard_time": 1713085758,
+        "rank": 21,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 267826,
+        "num": 267826,
+        "word": "sorry来sorry去宝宝给伞你不拒",
+        "onboard_time": 1713091517,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 266440,
+        "num": 266440,
+        "word": "T1和GEN决胜局",
+        "onboard_time": 1713092237,
+        "rank": 23,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 253993,
+        "num": 253993,
+        "word": "父母要撮合的相亲对象没看上我",
+        "onboard_time": 1713087378,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 231752,
+        "num": 231752,
+        "word": "警方披露调查猫一杯虚假消息案细节",
+        "onboard_time": 1713085758,
+        "rank": 25,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 220082,
+        "num": 220082,
+        "word": "金像奖",
+        "onboard_time": 1713086777,
+        "rank": 26,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 215133,
+        "num": 215133,
+        "word": "狼队零封WB",
+        "onboard_time": 1713092659,
+        "rank": 27,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 211092,
+        "num": 211092,
+        "word": "金钟仁吴世勋去了EXO粉丝见面会",
+        "onboard_time": 1713093558,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 210844,
+        "num": 210844,
+        "word": "金像奖红毯",
+        "onboard_time": 1713093500,
+        "rank": 29,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 200153,
+        "num": 200153,
+        "word": "相声演员陈涌泉去世",
+        "onboard_time": 1713087197,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 199403,
+        "num": 199403,
+        "word": "宫崎骏 那你呢孩子",
+        "onboard_time": 1713085578,
+        "rank": 31,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 198898,
+        "num": 198898,
+        "word": "原来广东小孩工作后还要交家用",
+        "onboard_time": 1713090558,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 191634,
+        "num": 191634,
+        "word": "华晨宇安慰没抢到票的歌迷",
+        "onboard_time": 1713093619,
+        "rank": 33,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 182572,
+        "num": 182572,
+        "word": "王一博首次尝试自己做摄影师",
+        "onboard_time": 1713091098,
+        "rank": 34,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 174808,
+        "num": 174808,
+        "word": "何洁 我不在乎翻红因为我红过",
+        "onboard_time": 1713083778,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 172429,
+        "num": 172429,
+        "word": "品牌方删除猫一杯物料",
+        "onboard_time": 1713083477,
+        "rank": 36,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 164498,
+        "num": 164498,
+        "word": "GEN四连冠",
+        "onboard_time": 1713093678,
+        "rank": 37,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 161718,
+        "num": 161718,
+        "word": "猫一杯这事为啥会闹这么大",
+        "onboard_time": 1713082758,
+        "rank": 38,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 158869,
+        "num": 158869,
+        "word": "妈妈养了13年的狗被邻居打死了",
+        "onboard_time": 1713088338,
+        "rank": 39,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 158719,
+        "num": 158719,
+        "word": "62岁大爷催更数码宝贝",
+        "onboard_time": 1713093738,
+        "rank": 40,
+        "category": "动漫,作品衍生"
+      },
+      {
+        "raw_hot": 153757,
+        "num": 153757,
+        "word": "水果为什么变得越来越甜了",
+        "onboard_time": 1713074238,
+        "rank": 41,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 153542,
+        "num": 153542,
+        "word": "停止内耗的核心",
+        "onboard_time": 1713093198,
+        "rank": 42,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 149409,
+        "num": 149409,
+        "word": "去面试的路上被HR删了微信",
+        "onboard_time": 1713088037,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 145727,
+        "num": 145727,
+        "word": "麦承欢刚分手姚志明就掏出一克拉",
+        "onboard_time": 1713081617,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 145522,
+        "num": 145522,
+        "word": "十个勤天产业进展",
+        "onboard_time": 1713093138,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 144554,
+        "num": 144554,
+        "word": "去狗咖把狗狗都哄睡着了",
+        "onboard_time": 1713089777,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 142058,
+        "num": 142058,
+        "word": "JDG对战TES",
+        "onboard_time": 1713090977,
+        "rank": 47,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 137336,
+        "num": 137336,
+        "word": "韦世豪绝杀",
+        "onboard_time": 1713090798,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 134728,
+        "num": 134728,
+        "word": "赵露思曾黎王安宇聚会合照",
+        "onboard_time": 1713091399,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#学纪知纪明纪守纪#"
+    }
+  }
+}
