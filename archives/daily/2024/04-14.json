@@ -1,6 +1,6 @@
 {
   "startTime": 1713025251708,
-  "endTime": 1713069781035,
+  "endTime": 1713070811113,
   "band_list": [
     {
       "raw_hot": 2270273,
@@ -27,20 +27,20 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 1850544,
+      "num": 1850544,
+      "word": "猫一杯涉事MCN或将被平台清退",
+      "onboard_time": 1713066318,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1601825,
       "num": 1601825,
       "word": "拜登回应伊朗袭击以色列",
       "onboard_time": 1713052756,
       "rank": 1,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 1470338,
-      "num": 1470338,
-      "word": "猫一杯涉事MCN或将被平台清退",
-      "onboard_time": 1713066318,
-      "rank": 1,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1330114,
@@ -131,6 +131,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 765928,
+      "num": 765928,
+      "word": "韩国化妆师给曾黎化的妆",
+      "onboard_time": 1713067158,
+      "rank": 5,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 753379,
       "num": 753379,
       "word": "郝蕾肉眼可见的瘦了",
@@ -169,14 +177,6 @@
       "onboard_time": 1713052756,
       "rank": 5,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 645612,
-      "num": 645612,
-      "word": "韩国化妆师给曾黎化的妆",
-      "onboard_time": 1713067158,
-      "rank": 5,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 644092,
@@ -259,6 +259,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 496176,
+      "num": 496176,
+      "word": "厦门大学食堂建议本",
+      "onboard_time": 1713067337,
+      "rank": 14,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 495374,
       "num": 495374,
       "word": "金秀贤金智媛不再合体",
@@ -284,11 +292,19 @@
     },
     {
       "raw_hot": 485611,
-      "num": 289045,
+      "num": 297722,
       "word": "和恋爱11年的男朋友分手了",
       "onboard_time": 1713065296,
       "rank": 22,
       "category": "情感"
+    },
+    {
+      "raw_hot": 470038,
+      "num": 470038,
+      "word": "张伟丽vs闫晓楠",
+      "onboard_time": 1713067638,
+      "rank": 13,
+      "category": "体育"
     },
     {
       "raw_hot": 469904,
@@ -315,8 +331,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 461053,
-      "num": 289903,
+      "raw_hot": 463365,
+      "num": 299024,
       "word": "结婚一年婆婆就瘫痪了",
       "onboard_time": 1713066076,
       "rank": 30,
@@ -336,6 +352,14 @@
       "word": "特朗普回应以色列遭袭",
       "onboard_time": 1713056539,
       "rank": 15,
+      "category": "国外时政"
+    },
+    {
+      "raw_hot": 441813,
+      "num": 441813,
+      "word": "美军帮以击落几乎所有无人机导弹",
+      "onboard_time": 1713069318,
+      "rank": 24,
       "category": "国外时政"
     },
     {
@@ -387,12 +411,20 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 372265,
-      "num": 372265,
-      "word": "张伟丽vs闫晓楠",
-      "onboard_time": 1713067638,
+      "raw_hot": 382209,
+      "num": 382209,
+      "word": "于正说许凯的大运来了",
+      "onboard_time": 1713066679,
+      "rank": 15,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 377028,
+      "num": 377028,
+      "word": "迪丽热巴聂九罗剧本围读",
+      "onboard_time": 1713070098,
       "rank": 13,
-      "category": "体育"
+      "category": "剧集"
     },
     {
       "raw_hot": 371061,
@@ -435,14 +467,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 360223,
-      "num": 360223,
-      "word": "厦门大学食堂建议本",
-      "onboard_time": 1713067337,
-      "rank": 14,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 349912,
       "num": 349912,
       "word": "德国总理朔尔茨抵达重庆",
@@ -456,14 +480,6 @@
       "word": "眼泪女王中出现的中文",
       "onboard_time": 1713052756,
       "rank": 17,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 344047,
-      "num": 344047,
-      "word": "于正说许凯的大运来了",
-      "onboard_time": 1713066679,
-      "rank": 15,
       "category": "剧集"
     },
     {
@@ -523,6 +539,22 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 314664,
+      "num": 314664,
+      "word": "吴镇宇吐槽古偶",
+      "onboard_time": 1713066978,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 313224,
+      "num": 297074,
+      "word": "天水麻辣烫让杨国福张亮慌了吗",
+      "onboard_time": 1713069018,
+      "rank": 31,
+      "category": "美食"
+    },
+    {
       "raw_hot": 309553,
       "num": 309553,
       "word": "纪凌尘首谈与阚清子四年感情",
@@ -571,14 +603,6 @@
       "category": "网红"
     },
     {
-      "raw_hot": 298458,
-      "num": 298458,
-      "word": "吴镇宇吐槽古偶",
-      "onboard_time": 1713066978,
-      "rank": 18,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 297698,
       "num": 297698,
       "word": "伊朗",
@@ -587,19 +611,19 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 296120,
+      "num": 296120,
+      "word": "金莎想带男友报名郝蕾演技课",
+      "onboard_time": 1713067998,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 290768,
       "num": 290768,
       "word": "伊朗空袭以色列当地华人发声",
       "onboard_time": 1713065059,
       "rank": 19,
-      "category": "国外时政"
-    },
-    {
-      "raw_hot": 287669,
-      "num": 287669,
-      "word": "美军帮以击落几乎所有无人机导弹",
-      "onboard_time": 1713069318,
-      "rank": 24,
       "category": "国外时政"
     },
     {
@@ -643,6 +667,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 265469,
+      "num": 265469,
+      "word": "恋与制作人",
+      "onboard_time": 1713070159,
+      "rank": 26,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 264359,
       "num": 238505,
       "word": "耶路撒冷响起巨大爆炸声",
@@ -673,14 +705,6 @@
       "onboard_time": 1713053236,
       "rank": 30,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 254346,
-      "num": 254346,
-      "word": "金莎想带男友报名郝蕾演技课",
-      "onboard_time": 1713067998,
-      "rank": 28,
-      "category": "综艺"
     },
     {
       "raw_hot": 248511,
@@ -729,14 +753,6 @@
       "onboard_time": 1713068659,
       "rank": 30,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 231464,
-      "num": 231464,
-      "word": "天水麻辣烫让杨国福张亮慌了吗",
-      "onboard_time": 1713069018,
-      "rank": 31,
-      "category": "美食"
     },
     {
       "raw_hot": 229449,
@@ -899,6 +915,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 182951,
+      "num": 182951,
+      "word": "当韩国人第一次看中医时",
+      "onboard_time": 1713070459,
+      "rank": 41,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 181856,
       "num": 181856,
       "word": "以色列要求召开安理会特别会议",
@@ -913,6 +937,14 @@
       "onboard_time": 1713012018,
       "rank": 30,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 181161,
+      "num": 181161,
+      "word": "秦皇岛侧翻船只船主被控制",
+      "onboard_time": 1713069679,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 177052,
@@ -1049,14 +1081,6 @@
       "onboard_time": 1713019940,
       "rank": 36,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 144986,
-      "num": 144986,
-      "word": "秦皇岛侧翻船只船主被控制",
-      "onboard_time": 1713069679,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 144891,
@@ -1387,6 +1411,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 28931,
+      "num": 301497,
+      "word": "尹同跃要给智驾部门加鸡腿",
+      "onboard_time": 1713069618,
+      "rank": 41,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 26628,
       "num": 26628,
       "word": "每天做800个腹肌运动的AHyeon",
@@ -1411,14 +1443,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 19457,
-      "num": 201859,
-      "word": "尹同跃要给智驾部门加鸡腿",
-      "onboard_time": 1713069618,
-      "rank": 41,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 18299,
       "num": 171928,
       "word": "P5X出了客家话配音",
@@ -1433,6 +1457,14 @@
       "onboard_time": 1713010998,
       "rank": 48,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 11175,
+      "num": 172678,
+      "word": "P5X又又出了湖南话配音",
+      "onboard_time": 1713070518,
+      "rank": 45,
+      "category": "游戏"
     }
   ],
   "hotgov_list": [
