@@ -1,6 +1,6 @@
 {
   "startTime": 1711902044401,
-  "endTime": 1713155546471,
+  "endTime": 1713156071629,
   "band_list": [
     {
       "raw_hot": 16874674,
@@ -219,6 +219,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2528771,
+      "num": 2528771,
+      "word": "章泽天家族病史",
+      "onboard_time": 1713152537,
+      "rank": 47,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 2525703,
       "num": 715540,
       "word": "最癫站姐",
@@ -353,14 +361,6 @@
       "onboard_time": 1712817918,
       "rank": 1,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 2235735,
-      "num": 2235735,
-      "word": "章泽天家族病史",
-      "onboard_time": 1713152537,
-      "rank": 47,
-      "category": "艺人"
     },
     {
       "raw_hot": 2229896,
@@ -912,6 +912,14 @@
       "word": "王婆说媒换人",
       "onboard_time": 1712123660,
       "rank": 11,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1684237,
+      "num": 1684237,
+      "word": "一家四口自杀母亲没死成被判死刑",
+      "onboard_time": 1713154580,
+      "rank": 10,
       "category": "社会新闻"
     },
     {
@@ -2051,6 +2059,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 1228396,
+      "num": 1228396,
+      "word": "甄嬛传 团综",
+      "onboard_time": 1713153319,
+      "rank": 3,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1226707,
       "num": 1226707,
       "word": "仝卓工作室直播了",
@@ -2377,14 +2393,6 @@
       "onboard_time": 1712110041,
       "rank": 10,
       "category": "体育,艺人"
-    },
-    {
-      "raw_hot": 1142509,
-      "num": 1142509,
-      "word": "甄嬛传 团综",
-      "onboard_time": 1713153319,
-      "rank": 3,
-      "category": "综艺"
     },
     {
       "raw_hot": 1140625,
@@ -3403,6 +3411,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 948682,
+      "num": 948682,
+      "word": "王晶称梁朝伟应宣布不再领奖",
+      "onboard_time": 1713153860,
+      "rank": 5,
+      "category": "电影"
+    },
+    {
       "raw_hot": 945169,
       "num": 945169,
       "word": "贾玲减肥后刘维痛失代表作",
@@ -3793,14 +3809,6 @@
       "onboard_time": 1712245398,
       "rank": 20,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 889240,
-      "num": 889240,
-      "word": "王晶称梁朝伟应宣布不再领奖",
-      "onboard_time": 1713153860,
-      "rank": 5,
-      "category": "电影"
     },
     {
       "raw_hot": 883463,
@@ -4436,7 +4444,7 @@
     },
     {
       "raw_hot": 812072,
-      "num": 261617,
+      "num": 296191,
       "word": "中医劝患者想怀孕不要穿裙子",
       "onboard_time": 1713148938,
       "rank": 21,
@@ -5331,14 +5339,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 732229,
-      "num": 631741,
-      "word": "一家四口自杀母亲没死成被判死刑",
-      "onboard_time": 1713154580,
-      "rank": 10,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 730747,
       "num": 520366,
       "word": "男子虐猫后将残肢丢至直播间",
@@ -6177,6 +6177,14 @@
       "onboard_time": 1712419217,
       "rank": 15,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 666827,
+      "num": 611756,
+      "word": "女性生孩子的理由只有一个",
+      "onboard_time": 1713149958,
+      "rank": 22,
+      "category": "情感"
     },
     {
       "raw_hot": 665980,
@@ -7057,14 +7065,6 @@
       "onboard_time": 1712125822,
       "rank": 40,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 611756,
-      "num": 611756,
-      "word": "女性生孩子的理由只有一个",
-      "onboard_time": 1713149958,
-      "rank": 22,
-      "category": "情感"
     },
     {
       "raw_hot": 611733,
@@ -11091,6 +11091,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 432840,
+      "num": 432840,
+      "word": "华为P70三角形相机岛设计实锤",
+      "onboard_time": 1713153618,
+      "rank": 15,
+      "category": "数码"
+    },
+    {
       "raw_hot": 432759,
       "num": 432759,
       "word": "张若昀站姐发了赵丽颖",
@@ -11305,14 +11313,6 @@
       "onboard_time": 1712359995,
       "rank": 48,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 425798,
-      "num": 425798,
-      "word": "华为P70三角形相机岛设计实锤",
-      "onboard_time": 1713153618,
-      "rank": 15,
-      "category": "数码"
     },
     {
       "raw_hot": 425624,
@@ -12224,6 +12224,14 @@
       "word": "刘若英报平安",
       "onboard_time": 1712112440,
       "rank": 21,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 391999,
+      "num": 391999,
+      "word": "贺军翔老了",
+      "onboard_time": 1713154940,
+      "rank": 23,
       "category": "艺人"
     },
     {
@@ -14137,6 +14145,14 @@
       "onboard_time": 1712897659,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 337218,
+      "num": 337218,
+      "word": "歌手回归",
+      "onboard_time": 1713155601,
+      "rank": 18,
+      "category": "综艺"
     },
     {
       "raw_hot": 337048,
@@ -16476,7 +16492,7 @@
     },
     {
       "raw_hot": 288919,
-      "num": 255710,
+      "num": 282210,
       "word": "汪苏泷到底是什么意思",
       "onboard_time": 1713153560,
       "rank": 22,
@@ -16625,6 +16641,14 @@
       "onboard_time": 1712116103,
       "rank": 30,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 285694,
+      "num": 285694,
+      "word": "教你在微信上凭空消失",
+      "onboard_time": 1713155480,
+      "rank": 47,
+      "category": "情感"
     },
     {
       "raw_hot": 285582,
@@ -17659,6 +17683,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 266517,
+      "num": 212876,
+      "word": "马龙给15岁对手上一课",
+      "onboard_time": 1713155361,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 266440,
       "num": 266440,
       "word": "T1和GEN决胜局",
@@ -18675,14 +18707,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 252250,
-      "num": 252250,
-      "word": "贺军翔老了",
-      "onboard_time": 1713154940,
-      "rank": 23,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 252248,
       "num": 252248,
       "word": "当你考研中途休息了一周后",
@@ -18721,6 +18745,14 @@
       "onboard_time": 1713009437,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 251602,
+      "num": 251602,
+      "word": "相机岛",
+      "onboard_time": 1713154459,
+      "rank": 30,
+      "category": "数码"
     },
     {
       "raw_hot": 251560,
@@ -21635,6 +21667,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 217928,
+      "num": 301256,
+      "word": "长城智驾直播挑战闹市区",
+      "onboard_time": 1713154101,
+      "rank": 19,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 217866,
       "num": 217866,
       "word": "裙裤叠穿",
@@ -22131,6 +22171,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 212732,
+      "num": 212732,
+      "word": "承欢记 刘婉玉的委屈",
+      "onboard_time": 1713154821,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 212654,
       "num": 212654,
       "word": "是文俊辉的话黄毛也可以",
@@ -22193,14 +22241,6 @@
       "onboard_time": 1712375357,
       "rank": 29,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 211703,
-      "num": 270215,
-      "word": "长城智驾直播挑战闹市区",
-      "onboard_time": 1713154101,
-      "rank": 19,
-      "category": "汽车"
     },
     {
       "raw_hot": 211660,
@@ -22905,14 +22945,6 @@
       "onboard_time": 1712719520,
       "rank": 30,
       "category": "体育"
-    },
-    {
-      "raw_hot": 206608,
-      "num": 206608,
-      "word": "相机岛",
-      "onboard_time": 1713154459,
-      "rank": 30,
-      "category": "数码"
     },
     {
       "raw_hot": 206602,
@@ -23827,6 +23859,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 201661,
+      "num": 201661,
+      "word": "TFBOYS415十周年",
+      "onboard_time": 1713139638,
+      "rank": 38,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 201627,
       "num": 201627,
       "word": "鞠婧祎双丸子头女高",
@@ -24257,6 +24297,14 @@
       "onboard_time": 1713090558,
       "rank": 39,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 198885,
+      "num": 198885,
+      "word": "北影节抢票",
+      "onboard_time": 1713154999,
+      "rank": 33,
+      "category": "电影"
     },
     {
       "raw_hot": 198863,
@@ -24819,14 +24867,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 195518,
-      "num": 195518,
-      "word": "TFBOYS415十周年",
-      "onboard_time": 1713139638,
-      "rank": 38,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 195497,
       "num": 195497,
       "word": "宫崎骏 世上的相遇都是久别重逢",
@@ -24849,14 +24889,6 @@
       "onboard_time": 1711966701,
       "rank": 45,
       "category": "演出"
-    },
-    {
-      "raw_hot": 195431,
-      "num": 195431,
-      "word": "北影节抢票",
-      "onboard_time": 1713154999,
-      "rank": 33,
-      "category": "电影"
     },
     {
       "raw_hot": 195323,
@@ -25065,14 +25097,6 @@
       "onboard_time": 1712308638,
       "rank": 28,
       "category": "演出"
-    },
-    {
-      "raw_hot": 194237,
-      "num": 194237,
-      "word": "承欢记 刘婉玉的委屈",
-      "onboard_time": 1713154821,
-      "rank": 35,
-      "category": "剧集"
     },
     {
       "raw_hot": 194155,
@@ -26371,14 +26395,6 @@
       "category": "科学科普"
     },
     {
-      "raw_hot": 187289,
-      "num": 187289,
-      "word": "马龙给15岁对手上一课",
-      "onboard_time": 1713155361,
-      "rank": 38,
-      "category": "体育"
-    },
-    {
       "raw_hot": 187227,
       "num": 187227,
       "word": "福建省考成绩",
@@ -27545,6 +27561,14 @@
       "onboard_time": 1712562798,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 180179,
+      "num": 180179,
+      "word": "理想汽车回应车内摄像头拍不雅照",
+      "onboard_time": 1713155780,
+      "rank": 40,
+      "category": "汽车"
     },
     {
       "raw_hot": 180073,
@@ -28955,6 +28979,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 169509,
+      "num": 169509,
+      "word": "妈妈可以过苦日子你不行",
+      "onboard_time": 1713155780,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 169412,
       "num": 169412,
       "word": "眼泪女王爆改在俊他妈",
@@ -30105,6 +30137,14 @@
       "onboard_time": 1712090171,
       "rank": 21,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 161303,
+      "num": 161303,
+      "word": "嗯的标准拼音不是en",
+      "onboard_time": 1713155961,
+      "rank": 46,
+      "category": "科学科普"
     },
     {
       "raw_hot": 161275,
@@ -32739,14 +32779,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 145549,
-      "num": 145549,
-      "word": "教你在微信上凭空消失",
-      "onboard_time": 1713155480,
-      "rank": 47,
-      "category": "情感"
-    },
-    {
       "raw_hot": 145547,
       "num": 145547,
       "word": "新仙剑",
@@ -34329,6 +34361,14 @@
       "onboard_time": 1712886739,
       "rank": 40,
       "category": "情感"
+    },
+    {
+      "raw_hot": 134830,
+      "num": 148602,
+      "word": "吉林高速大赚5亿不分红",
+      "onboard_time": 1713155961,
+      "rank": 49,
+      "category": "财经"
     },
     {
       "raw_hot": 134822,
@@ -38860,7 +38900,7 @@
     },
     {
       "raw_hot": 66544,
-      "num": 1476333,
+      "num": 1877372,
       "word": "守护国家安全要做到8个不",
       "onboard_time": 1713146178,
       "rank": 2,
