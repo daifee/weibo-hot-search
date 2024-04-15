@@ -1,0 +1,410 @@
+{
+  "runTime": 1713185020360,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2163286,
+        "num": 2163286,
+        "word": "12306回应年轻人卧铺挂帘子老人没地坐",
+        "onboard_time": 1713181038,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 799894,
+        "num": 799894,
+        "word": "后陡门少年vs康平路少年",
+        "onboard_time": 1713181337,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 33911,
+        "num": 703144,
+        "word": "一图读懂国家安全新知识",
+        "onboard_time": 1713167176,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 670498,
+        "num": 670498,
+        "word": "官方回应婆婆杀害儿媳3只狗",
+        "onboard_time": 1713176898,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 569897,
+        "num": 569897,
+        "word": "种地吧",
+        "onboard_time": 1713170418,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 526507,
+        "num": 526507,
+        "word": "苏打绿新歌曾是TFBOYS弃曲",
+        "onboard_time": 1713178337,
+        "rank": 5,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 406960,
+        "num": 406960,
+        "word": "福宝出外场了",
+        "onboard_time": 1713177019,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 396394,
+        "num": 396394,
+        "word": "陈凯歌方否认将执导电影舞男",
+        "onboard_time": 1713181218,
+        "rank": 7,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 367164,
+        "num": 367164,
+        "word": "猫一杯旗下店铺终止经营",
+        "onboard_time": 1713178639,
+        "rank": 8,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 210603,
+        "num": 366942,
+        "word": "拿到offer后买了人生第一套正装",
+        "onboard_time": 1713158839,
+        "rank": 9,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 1339403,
+        "num": 350578,
+        "word": "柳岩就差点名道姓了",
+        "onboard_time": 1713172338,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 784032,
+        "num": 343898,
+        "word": "71岁保洁被开除后在物业办公室自杀",
+        "onboard_time": 1713174918,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 620377,
+        "num": 335222,
+        "word": "吉林白城医专",
+        "onboard_time": 1713183258,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 329488,
+        "num": 329488,
+        "word": "以色列防御伊朗袭击一夜至少花掉78亿",
+        "onboard_time": 1713180437,
+        "rank": 13,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 328133,
+        "num": 328133,
+        "word": "为什么医院禁止你送花给病人",
+        "onboard_time": 1713174619,
+        "rank": 14,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 326168,
+        "num": 326168,
+        "word": "AI眼里月薪1到1亿元的工作",
+        "onboard_time": 1713182239,
+        "rank": 15,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 271327,
+        "num": 271327,
+        "word": "建议春夏少穿黄绿色衣服出门",
+        "onboard_time": 1713180977,
+        "rank": 16,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 261565,
+        "num": 261565,
+        "word": "跑步为什么会尝到血腥味",
+        "onboard_time": 1713184518,
+        "rank": 17,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 257548,
+        "num": 257548,
+        "word": "女性生孩子的理由只有一个",
+        "onboard_time": 1713149958,
+        "rank": 18,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 250522,
+        "num": 250522,
+        "word": "朱一龙36岁状态",
+        "onboard_time": 1713183798,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 573851,
+        "num": 248422,
+        "word": "赵丽颖改微博简介",
+        "onboard_time": 1713177319,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 368937,
+        "num": 246800,
+        "word": "咖啡为什么越卖越便宜",
+        "onboard_time": 1713182118,
+        "rank": 21,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 240054,
+        "num": 240054,
+        "word": "阚清子21岁至36岁颜值变化",
+        "onboard_time": 1713172757,
+        "rank": 22,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 238493,
+        "num": 238493,
+        "word": "孙颖莎世界杯开门红",
+        "onboard_time": 1713182838,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 224679,
+        "num": 224679,
+        "word": "荣梓杉中戏北电双第一",
+        "onboard_time": 1713163577,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 197139,
+        "num": 197139,
+        "word": "吉林一高校女生带病出操后死亡",
+        "onboard_time": 1713184757,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 191353,
+        "num": 191353,
+        "word": "涵艺爆料Tarzan加入WBG",
+        "onboard_time": 1713184878,
+        "rank": 26,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 185484,
+        "num": 185484,
+        "word": "医生是这样评估口臭的",
+        "onboard_time": 1713182358,
+        "rank": 27,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 180828,
+        "num": 180828,
+        "word": "周一周一我要迪士尼",
+        "onboard_time": 1713181939,
+        "rank": 28,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 177121,
+        "num": 177121,
+        "word": "TFBOYS文案什么意思",
+        "onboard_time": 1713162918,
+        "rank": 29,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 176160,
+        "num": 176160,
+        "word": "迪丽热巴湿发路透",
+        "onboard_time": 1713176358,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 174415,
+        "num": 174415,
+        "word": "男子冒充骑手摆拍假工资条被刑拘",
+        "onboard_time": 1713182838,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 172587,
+        "num": 172587,
+        "word": "悉尼一教堂发生疑似持刀袭击事件",
+        "onboard_time": 1713184038,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 163333,
+        "num": 163333,
+        "word": "克拉岛",
+        "onboard_time": 1713178038,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 159230,
+        "num": 159230,
+        "word": "薛之谦演唱会 一个人来的",
+        "onboard_time": 1713172099,
+        "rank": 34,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 159176,
+        "num": 159176,
+        "word": "王者荣耀",
+        "onboard_time": 1713184278,
+        "rank": 35,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 156829,
+        "num": 156829,
+        "word": "韩裔名厨承认借鉴老干妈辣酱",
+        "onboard_time": 1713173477,
+        "rank": 36,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 154026,
+        "num": 154026,
+        "word": "犬夜叉 美貌的哥帅气的弟",
+        "onboard_time": 1713184399,
+        "rank": 37,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 150852,
+        "num": 150852,
+        "word": "真心建议大家冲一冲AI领域",
+        "onboard_time": 1713183017,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 147267,
+        "num": 147267,
+        "word": "大妈吐槽年轻人卧铺挂帘子",
+        "onboard_time": 1713184698,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 141500,
+        "num": 141500,
+        "word": "为什么卫龙辣条失宠了",
+        "onboard_time": 1713177258,
+        "rank": 40,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 136063,
+        "num": 136063,
+        "word": "王曼昱vs迪亚科努",
+        "onboard_time": 1713184999,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 135711,
+        "num": 135711,
+        "word": "姚志明的爱事事有回响",
+        "onboard_time": 1713182597,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 132879,
+        "num": 132879,
+        "word": "任敏旗袍",
+        "onboard_time": 1713163457,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 127974,
+        "num": 127974,
+        "word": "林高远说自己发挥偏保守",
+        "onboard_time": 1713181697,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 27587,
+        "num": 122362,
+        "word": "增程又添新王炸",
+        "onboard_time": 1713184938,
+        "rank": 45,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 120281,
+        "num": 120281,
+        "word": "小米SU7碰撞测试",
+        "onboard_time": 1713182239,
+        "rank": 46,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 118570,
+        "num": 118570,
+        "word": "明日方舟嘉年华",
+        "onboard_time": 1713184518,
+        "rank": 47,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 115600,
+        "num": 115600,
+        "word": "张艺兴Psychic手势舞",
+        "onboard_time": 1713181758,
+        "rank": 48,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 114222,
+        "num": 114222,
+        "word": "86岁老人迎娶初恋女友",
+        "onboard_time": 1713169217,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#坚定不移贯彻总体国家安全观#"
+    }
+  }
+}

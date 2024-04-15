@@ -1,6 +1,6 @@
 {
   "startTime": 1713025251708,
-  "endTime": 1713184271724,
+  "endTime": 1713185020360,
   "band_list": [
     {
       "raw_hot": 3410457,
@@ -67,6 +67,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2163286,
+      "num": 2163286,
+      "word": "12306回应年轻人卧铺挂帘子老人没地坐",
+      "onboard_time": 1713181038,
+      "rank": 0,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1937335,
       "num": 1937335,
       "word": "伊朗99%的导弹和无人机被拦截",
@@ -80,14 +88,6 @@
       "word": "71岁保洁被开除后在物业办公室自杀",
       "onboard_time": 1713174918,
       "rank": 10,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1855633,
-      "num": 1855633,
-      "word": "12306回应年轻人卧铺挂帘子老人没地坐",
-      "onboard_time": 1713181038,
-      "rank": 0,
       "category": "社会新闻"
     },
     {
@@ -723,6 +723,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 620377,
+      "num": 429970,
+      "word": "吉林白城医专",
+      "onboard_time": 1713183258,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 620174,
       "num": 620174,
       "word": "上个房主是怎样苦命的一个人",
@@ -1195,14 +1203,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 429970,
-      "num": 429970,
-      "word": "吉林白城医专",
-      "onboard_time": 1713183258,
-      "rank": 12,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 429458,
       "num": 283486,
       "word": "原来皮肤是最大的情绪器官",
@@ -1428,7 +1428,7 @@
     },
     {
       "raw_hot": 371654,
-      "num": 218978,
+      "num": 246800,
       "word": "咖啡为什么越卖越便宜",
       "onboard_time": 1713182118,
       "rank": 21,
@@ -1625,6 +1625,14 @@
       "onboard_time": 1713053475,
       "rank": 18,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 326168,
+      "num": 326168,
+      "word": "AI眼里月薪1到1亿元的工作",
+      "onboard_time": 1713182239,
+      "rank": 17,
+      "category": "互联网"
     },
     {
       "raw_hot": 325615,
@@ -2027,6 +2035,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 271327,
+      "num": 271327,
+      "word": "建议春夏少穿黄绿色衣服出门",
+      "onboard_time": 1713180977,
+      "rank": 19,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 270331,
       "num": 270331,
       "word": "澳门世界杯",
@@ -2107,14 +2123,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 262885,
-      "num": 262885,
-      "word": "AI眼里月薪1到1亿元的工作",
-      "onboard_time": 1713182239,
-      "rank": 17,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 262657,
       "num": 262657,
       "word": "陕西省考成绩",
@@ -2129,6 +2137,14 @@
       "onboard_time": 1713066859,
       "rank": 27,
       "category": "财经"
+    },
+    {
+      "raw_hot": 261565,
+      "num": 261565,
+      "word": "跑步为什么会尝到血腥味",
+      "onboard_time": 1713184518,
+      "rank": 17,
+      "category": "科学科普"
     },
     {
       "raw_hot": 261414,
@@ -2201,6 +2217,14 @@
       "onboard_time": 1713154459,
       "rank": 30,
       "category": "数码"
+    },
+    {
+      "raw_hot": 250522,
+      "num": 250522,
+      "word": "朱一龙36岁状态",
+      "onboard_time": 1713183798,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 250142,
@@ -2531,14 +2555,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 222348,
-      "num": 222348,
-      "word": "建议春夏少穿黄绿色衣服出门",
-      "onboard_time": 1713180977,
-      "rank": 19,
-      "category": "科学科普"
-    },
-    {
       "raw_hot": 221607,
       "num": 221607,
       "word": "伊朗对以的袭击可被视为已结束",
@@ -2627,14 +2643,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 214178,
-      "num": 214178,
-      "word": "朱一龙36岁状态",
-      "onboard_time": 1713183798,
-      "rank": 23,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 213849,
       "num": 213849,
       "word": "律师谈猫一杯MCN机构责任",
@@ -2692,7 +2700,7 @@
     },
     {
       "raw_hot": 209628,
-      "num": 177629,
+      "num": 185484,
       "word": "医生是这样评估口臭的",
       "onboard_time": 1713182358,
       "rank": 30,
@@ -2955,6 +2963,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 197139,
+      "num": 197139,
+      "word": "吉林一高校女生带病出操后死亡",
+      "onboard_time": 1713184757,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 196982,
       "num": 196982,
       "word": "田曦薇配音宫崎骏女孩苏菲",
@@ -3033,6 +3049,14 @@
       "onboard_time": 1713093619,
       "rank": 33,
       "category": "演出"
+    },
+    {
+      "raw_hot": 191353,
+      "num": 191353,
+      "word": "涵艺爆料Tarzan加入WBG",
+      "onboard_time": 1713184878,
+      "rank": 26,
+      "category": "电竞"
     },
     {
       "raw_hot": 190874,
@@ -3195,6 +3219,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 180828,
+      "num": 180828,
+      "word": "周一周一我要迪士尼",
+      "onboard_time": 1713181939,
+      "rank": 34,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 178933,
       "num": 178933,
       "word": "林更新真不把观众当外人",
@@ -3297,6 +3329,14 @@
       "onboard_time": 1713171017,
       "rank": 37,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 172587,
+      "num": 172587,
+      "word": "悉尼一教堂发生疑似持刀袭击事件",
+      "onboard_time": 1713184038,
+      "rank": 42,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 171587,
@@ -3539,12 +3579,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 158778,
-      "num": 158778,
-      "word": "周一周一我要迪士尼",
-      "onboard_time": 1713181939,
-      "rank": 34,
-      "category": "幽默"
+      "raw_hot": 159176,
+      "num": 159176,
+      "word": "王者荣耀",
+      "onboard_time": 1713184278,
+      "rank": 35,
+      "category": "电竞"
     },
     {
       "raw_hot": 158719,
@@ -3657,6 +3697,14 @@
       "onboard_time": 1713170837,
       "rank": 41,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 154026,
+      "num": 154026,
+      "word": "犬夜叉 美貌的哥帅气的弟",
+      "onboard_time": 1713184399,
+      "rank": 37,
+      "category": "动漫"
     },
     {
       "raw_hot": 153837,
@@ -3777,6 +3825,14 @@
       "onboard_time": 1713163338,
       "rank": 34,
       "category": "演出"
+    },
+    {
+      "raw_hot": 147267,
+      "num": 147267,
+      "word": "大妈吐槽年轻人卧铺挂帘子",
+      "onboard_time": 1713184698,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 146158,
@@ -4043,6 +4099,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 136063,
+      "num": 136063,
+      "word": "王曼昱vs迪亚科努",
+      "onboard_time": 1713184999,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 135334,
       "num": 135334,
       "word": "5种素菜是热量炸弹",
@@ -4065,14 +4129,6 @@
       "onboard_time": 1713159978,
       "rank": 44,
       "category": "演出"
-    },
-    {
-      "raw_hot": 134071,
-      "num": 134071,
-      "word": "悉尼一教堂发生疑似持刀袭击事件",
-      "onboard_time": 1713184038,
-      "rank": 42,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 133960,
@@ -4313,6 +4369,14 @@
       "onboard_time": 1713169098,
       "rank": 45,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 118570,
+      "num": 118570,
+      "word": "明日方舟嘉年华",
+      "onboard_time": 1713184518,
+      "rank": 47,
+      "category": "游戏"
     },
     {
       "raw_hot": 118470,
@@ -4803,6 +4867,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 33911,
+      "num": 803308,
+      "word": "一图读懂国家安全新知识",
+      "onboard_time": 1713167176,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 29647,
       "num": 34292,
       "word": "张云雷酷狗唱玩会",
@@ -4819,20 +4891,20 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 28881,
-      "num": 803308,
-      "word": "一图读懂国家安全新知识",
-      "onboard_time": 1713167176,
-      "rank": 2,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 27698,
       "num": 27698,
       "word": "张杰3场就像我穿的衣服那么少",
       "onboard_time": 1713108139,
       "rank": 43,
       "category": "演出"
+    },
+    {
+      "raw_hot": 27587,
+      "num": 122362,
+      "word": "增程又添新王炸",
+      "onboard_time": 1713184938,
+      "rank": 45,
+      "category": "汽车"
     },
     {
       "raw_hot": 26965,
