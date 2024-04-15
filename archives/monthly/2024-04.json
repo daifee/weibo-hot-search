@@ -1,6 +1,6 @@
 {
   "startTime": 1711902044401,
-  "endTime": 1713180855024,
+  "endTime": 1713184271724,
   "band_list": [
     {
       "raw_hot": 16874674,
@@ -673,6 +673,14 @@
       "onboard_time": 1712755398,
       "rank": 3,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 1855633,
+      "num": 1855633,
+      "word": "12306回应年轻人卧铺挂帘子老人没地坐",
+      "onboard_time": 1713181038,
+      "rank": 0,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1851247,
@@ -4123,6 +4131,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 855448,
+      "num": 855448,
+      "word": "后陡门少年vs康平路少年",
+      "onboard_time": 1713181337,
+      "rank": 1,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 855040,
       "num": 855040,
       "word": "我在5点20睡觉13点14准时起",
@@ -6411,6 +6427,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 660811,
+      "num": 660811,
+      "word": "种地吧",
+      "onboard_time": 1711936760,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 660306,
       "num": 660306,
       "word": "向佐被网友认成外国女人和保姆",
@@ -8395,6 +8419,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 546097,
+      "num": 546097,
+      "word": "苏打绿新歌曾是TFBOYS弃曲",
+      "onboard_time": 1713178337,
+      "rank": 18,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 544912,
       "num": 544912,
       "word": "颧骨",
@@ -10107,14 +10139,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 475641,
-      "num": 475641,
-      "word": "苏打绿新歌曾是TFBOYS弃曲",
-      "onboard_time": 1713178337,
-      "rank": 18,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 474600,
       "num": 474600,
       "word": "台湾地震77人仍被困",
@@ -10553,6 +10577,14 @@
       "onboard_time": 1712746398,
       "rank": 15,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 457593,
+      "num": 457593,
+      "word": "猫一杯旗下店铺终止经营",
+      "onboard_time": 1713178639,
+      "rank": 13,
+      "category": "网红"
     },
     {
       "raw_hot": 457542,
@@ -11235,6 +11267,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 436131,
+      "num": 436131,
+      "word": "陈凯歌方否认将执导电影舞男",
+      "onboard_time": 1713181218,
+      "rank": 8,
+      "category": "电影"
+    },
+    {
       "raw_hot": 436106,
       "num": 436106,
       "word": "李沁写给沈近真的第九封信",
@@ -11441,6 +11481,14 @@
       "onboard_time": 1712631498,
       "rank": 15,
       "category": "电影"
+    },
+    {
+      "raw_hot": 429970,
+      "num": 429970,
+      "word": "吉林白城医专",
+      "onboard_time": 1713183258,
+      "rank": 12,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 429458,
@@ -11833,14 +11881,6 @@
       "onboard_time": 1712142199,
       "rank": 24,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 418645,
-      "num": 418645,
-      "word": "猫一杯旗下店铺终止经营",
-      "onboard_time": 1713178639,
-      "rank": 13,
-      "category": "网红"
     },
     {
       "raw_hot": 418547,
@@ -13035,6 +13075,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 377266,
+      "num": 377266,
+      "word": "以色列防御伊朗袭击一夜至少花掉78亿",
+      "onboard_time": 1713180437,
+      "rank": 29,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 377028,
       "num": 377028,
       "word": "迪丽热巴聂九罗剧本围读",
@@ -13185,6 +13233,14 @@
       "onboard_time": 1711930038,
       "rank": 22,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 371654,
+      "num": 218978,
+      "word": "咖啡为什么越卖越便宜",
+      "onboard_time": 1713182118,
+      "rank": 21,
+      "category": "美食"
     },
     {
       "raw_hot": 371321,
@@ -16331,6 +16387,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 298654,
+      "num": 298654,
+      "word": "孙颖莎世界杯开门红",
+      "onboard_time": 1713182838,
+      "rank": 15,
+      "category": "体育"
+    },
+    {
       "raw_hot": 298393,
       "num": 298393,
       "word": "高合",
@@ -18281,6 +18345,14 @@
       "onboard_time": 1712951471,
       "rank": 8,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 262885,
+      "num": 262885,
+      "word": "AI眼里月薪1到1亿元的工作",
+      "onboard_time": 1713182239,
+      "rank": 17,
+      "category": "互联网"
     },
     {
       "raw_hot": 262825,
@@ -20315,14 +20387,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 239184,
-      "num": 239184,
-      "word": "种地吧",
-      "onboard_time": 1711936760,
-      "rank": 33,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 239046,
       "num": 203157,
       "word": "阴阳师维权信息",
@@ -21739,6 +21803,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 222348,
+      "num": 222348,
+      "word": "建议春夏少穿黄绿色衣服出门",
+      "onboard_time": 1713180977,
+      "rank": 19,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 222298,
       "num": 222298,
       "word": "台湾祭音乐节取消回春丹演出",
@@ -22555,6 +22627,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 214178,
+      "num": 214178,
+      "word": "朱一龙36岁状态",
+      "onboard_time": 1713183798,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 214151,
       "num": 214151,
       "word": "南昌大风",
@@ -23057,6 +23137,14 @@
       "onboard_time": 1712798897,
       "rank": 34,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 209628,
+      "num": 177629,
+      "word": "医生是这样评估口臭的",
+      "onboard_time": 1713182358,
+      "rank": 30,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 209618,
@@ -26411,6 +26499,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 190874,
+      "num": 190874,
+      "word": "群星闪耀时",
+      "onboard_time": 1713183319,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 190872,
       "num": 159573,
       "word": "付辛博站姐发了井柏然",
@@ -28433,6 +28529,14 @@
       "onboard_time": 1712013557,
       "rank": 31,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 178753,
+      "num": 178753,
+      "word": "男子冒充骑手摆拍假工资条被刑拘",
+      "onboard_time": 1713182838,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 178749,
@@ -31011,14 +31115,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 160358,
-      "num": 160358,
-      "word": "以色列防御伊朗袭击一夜至少花掉78亿",
-      "onboard_time": 1713180437,
-      "rank": 29,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 160348,
       "num": 160348,
       "word": "小金毛一怒之下怒了一下",
@@ -31393,6 +31489,14 @@
       "onboard_time": 1712982677,
       "rank": 47,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 158778,
+      "num": 158778,
+      "word": "周一周一我要迪士尼",
+      "onboard_time": 1713181939,
+      "rank": 34,
+      "category": "幽默"
     },
     {
       "raw_hot": 158719,
@@ -32355,6 +32459,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 152547,
+      "num": 152547,
+      "word": "真心建议大家冲一冲AI领域",
+      "onboard_time": 1713183017,
+      "rank": 35,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 152494,
       "num": 192213,
       "word": "银价涨超20%",
@@ -32841,6 +32953,14 @@
       "onboard_time": 1712734219,
       "rank": 42,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 150021,
+      "num": 150021,
+      "word": "林高远说自己发挥偏保守",
+      "onboard_time": 1713181697,
+      "rank": 36,
+      "category": "体育"
     },
     {
       "raw_hot": 149983,
@@ -33608,6 +33728,14 @@
       "word": "何赛飞演技",
       "onboard_time": 1712717239,
       "rank": 45,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 145552,
+      "num": 145552,
+      "word": "姚志明的爱事事有回响",
+      "onboard_time": 1713182597,
+      "rank": 37,
       "category": "剧集"
     },
     {
@@ -34763,6 +34891,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 137906,
+      "num": 137906,
+      "word": "小米SU7碰撞测试",
+      "onboard_time": 1713182239,
+      "rank": 39,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 137823,
       "num": 137823,
       "word": "伊朗外交部强烈谴责以色列袭击领事处",
@@ -34849,6 +34985,14 @@
       "onboard_time": 1712060060,
       "rank": 43,
       "category": "情感"
+    },
+    {
+      "raw_hot": 137426,
+      "num": 137426,
+      "word": "张艺兴Psychic手势舞",
+      "onboard_time": 1713181758,
+      "rank": 40,
+      "category": "音乐"
     },
     {
       "raw_hot": 137394,
@@ -35385,6 +35529,14 @@
       "onboard_time": 1712949551,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 134071,
+      "num": 134071,
+      "word": "悉尼一教堂发生疑似持刀袭击事件",
+      "onboard_time": 1713184038,
+      "rank": 42,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 133964,
@@ -38089,6 +38241,14 @@
       "onboard_time": 1712989398,
       "rank": 37,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 109048,
+      "num": 109048,
+      "word": "MCN利用网友爱心非法牟利超千万",
+      "onboard_time": 1713183139,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 109047,
@@ -41089,6 +41249,14 @@
       "onboard_time": 1713069618,
       "rank": 41,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 28881,
+      "num": 803308,
+      "word": "一图读懂国家安全新知识",
+      "onboard_time": 1713167176,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 28707,

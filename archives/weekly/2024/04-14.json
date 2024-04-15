@@ -1,6 +1,6 @@
 {
   "startTime": 1713025251708,
-  "endTime": 1713180855024,
+  "endTime": 1713184271724,
   "band_list": [
     {
       "raw_hot": 3410457,
@@ -80,6 +80,14 @@
       "word": "71岁保洁被开除后在物业办公室自杀",
       "onboard_time": 1713174918,
       "rank": 10,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1855633,
+      "num": 1855633,
+      "word": "12306回应年轻人卧铺挂帘子老人没地坐",
+      "onboard_time": 1713181038,
+      "rank": 0,
       "category": "社会新闻"
     },
     {
@@ -379,6 +387,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 855448,
+      "num": 855448,
+      "word": "后陡门少年vs康平路少年",
+      "onboard_time": 1713181337,
+      "rank": 1,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 849737,
       "num": 849737,
       "word": "美国女生带韩国男友回家",
@@ -651,6 +667,14 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 660811,
+      "num": 660811,
+      "word": "种地吧",
+      "onboard_time": 1713170418,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 654885,
       "num": 654885,
       "word": "奔跑吧12官宣定档",
@@ -835,6 +859,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 546097,
+      "num": 546097,
+      "word": "苏打绿新歌曾是TFBOYS弃曲",
+      "onboard_time": 1713178337,
+      "rank": 18,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 544226,
       "num": 315473,
       "word": "被父母发现有性生活你会尴尬吗",
@@ -995,14 +1027,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 475641,
-      "num": 475641,
-      "word": "苏打绿新歌曾是TFBOYS弃曲",
-      "onboard_time": 1713178337,
-      "rank": 18,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 473480,
       "num": 473480,
       "word": "李现 扫楼鼻祖",
@@ -1075,6 +1099,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 457593,
+      "num": 457593,
+      "word": "猫一杯旗下店铺终止经营",
+      "onboard_time": 1713178639,
+      "rank": 13,
+      "category": "网红"
+    },
+    {
       "raw_hot": 456190,
       "num": 456190,
       "word": "Ruler哭了",
@@ -1131,6 +1163,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 436131,
+      "num": 436131,
+      "word": "陈凯歌方否认将执导电影舞男",
+      "onboard_time": 1713181218,
+      "rank": 8,
+      "category": "电影"
+    },
+    {
       "raw_hot": 432840,
       "num": 432840,
       "word": "华为P70三角形相机岛设计实锤",
@@ -1153,6 +1193,14 @@
       "onboard_time": 1713076038,
       "rank": 12,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 429970,
+      "num": 429970,
+      "word": "吉林白城医专",
+      "onboard_time": 1713183258,
+      "rank": 12,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 429458,
@@ -1185,14 +1233,6 @@
       "onboard_time": 1713159858,
       "rank": 34,
       "category": "情感"
-    },
-    {
-      "raw_hot": 418645,
-      "num": 418645,
-      "word": "猫一杯旗下店铺终止经营",
-      "onboard_time": 1713178639,
-      "rank": 13,
-      "category": "网红"
     },
     {
       "raw_hot": 416047,
@@ -1339,6 +1379,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 377266,
+      "num": 377266,
+      "word": "以色列防御伊朗袭击一夜至少花掉78亿",
+      "onboard_time": 1713180437,
+      "rank": 29,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 377028,
       "num": 377028,
       "word": "迪丽热巴聂九罗剧本围读",
@@ -1377,6 +1425,14 @@
       "onboard_time": 1713169938,
       "rank": 24,
       "category": "情感"
+    },
+    {
+      "raw_hot": 371654,
+      "num": 218978,
+      "word": "咖啡为什么越卖越便宜",
+      "onboard_time": 1713182118,
+      "rank": 21,
+      "category": "美食"
     },
     {
       "raw_hot": 371061,
@@ -1771,6 +1827,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 298654,
+      "num": 298654,
+      "word": "孙颖莎世界杯开门红",
+      "onboard_time": 1713182838,
+      "rank": 15,
+      "category": "体育"
+    },
+    {
       "raw_hot": 298169,
       "num": 298169,
       "word": "朱一龙直播",
@@ -2041,6 +2105,14 @@
       "onboard_time": 1713102320,
       "rank": 29,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 262885,
+      "num": 262885,
+      "word": "AI眼里月薪1到1亿元的工作",
+      "onboard_time": 1713182239,
+      "rank": 17,
+      "category": "互联网"
     },
     {
       "raw_hot": 262657,
@@ -2371,14 +2443,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 229349,
-      "num": 229349,
-      "word": "种地吧",
-      "onboard_time": 1713170418,
-      "rank": 31,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 227834,
       "num": 227834,
       "word": "应采儿给Jasper当恋爱导师",
@@ -2465,6 +2529,14 @@
       "onboard_time": 1713091098,
       "rank": 26,
       "category": "电影"
+    },
+    {
+      "raw_hot": 222348,
+      "num": 222348,
+      "word": "建议春夏少穿黄绿色衣服出门",
+      "onboard_time": 1713180977,
+      "rank": 19,
+      "category": "科学科普"
     },
     {
       "raw_hot": 221607,
@@ -2555,6 +2627,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 214178,
+      "num": 214178,
+      "word": "朱一龙36岁状态",
+      "onboard_time": 1713183798,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 213849,
       "num": 213849,
       "word": "律师谈猫一杯MCN机构责任",
@@ -2609,6 +2689,14 @@
       "onboard_time": 1713074297,
       "rank": 30,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 209628,
+      "num": 177629,
+      "word": "医生是这样评估口臭的",
+      "onboard_time": 1713182358,
+      "rank": 30,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 209427,
@@ -2947,6 +3035,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 190874,
+      "num": 190874,
+      "word": "群星闪耀时",
+      "onboard_time": 1713183319,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 190530,
       "num": 190530,
       "word": "白日之下",
@@ -3105,6 +3201,14 @@
       "onboard_time": 1713156323,
       "rank": 34,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 178753,
+      "num": 178753,
+      "word": "男子冒充骑手摆拍假工资条被刑拘",
+      "onboard_time": 1713182838,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 178749,
@@ -3427,19 +3531,19 @@
       "category": "体育"
     },
     {
-      "raw_hot": 160358,
-      "num": 160358,
-      "word": "以色列防御伊朗袭击一夜至少花掉78亿",
-      "onboard_time": 1713180437,
-      "rank": 29,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 160050,
       "num": 160050,
       "word": "当猫得知绝育医生的真实身份",
       "onboard_time": 1713173597,
       "rank": 49,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 158778,
+      "num": 158778,
+      "word": "周一周一我要迪士尼",
+      "onboard_time": 1713181939,
+      "rank": 34,
       "category": "幽默"
     },
     {
@@ -3571,6 +3675,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 152547,
+      "num": 152547,
+      "word": "真心建议大家冲一冲AI领域",
+      "onboard_time": 1713183017,
+      "rank": 35,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 152371,
       "num": 152371,
       "word": "TES挺进春决",
@@ -3609,6 +3721,14 @@
       "onboard_time": 1713164658,
       "rank": 32,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 150021,
+      "num": 150021,
+      "word": "林高远说自己发挥偏保守",
+      "onboard_time": 1713181697,
+      "rank": 36,
+      "category": "体育"
     },
     {
       "raw_hot": 149843,
@@ -3673,6 +3793,14 @@
       "onboard_time": 1713138317,
       "rank": 32,
       "category": "电影"
+    },
+    {
+      "raw_hot": 145552,
+      "num": 145552,
+      "word": "姚志明的爱事事有回响",
+      "onboard_time": 1713182597,
+      "rank": 37,
+      "category": "剧集"
     },
     {
       "raw_hot": 145522,
@@ -3875,12 +4003,28 @@
       "category": "演出"
     },
     {
+      "raw_hot": 137906,
+      "num": 137906,
+      "word": "小米SU7碰撞测试",
+      "onboard_time": 1713182239,
+      "rank": 39,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 137587,
       "num": 137587,
       "word": "沪指翻绿跌破3000点",
       "onboard_time": 1713146657,
       "rank": 42,
       "category": "财经"
+    },
+    {
+      "raw_hot": 137426,
+      "num": 137426,
+      "word": "张艺兴Psychic手势舞",
+      "onboard_time": 1713181758,
+      "rank": 40,
+      "category": "音乐"
     },
     {
       "raw_hot": 137394,
@@ -3921,6 +4065,14 @@
       "onboard_time": 1713159978,
       "rank": 44,
       "category": "演出"
+    },
+    {
+      "raw_hot": 134071,
+      "num": 134071,
+      "word": "悉尼一教堂发生疑似持刀袭击事件",
+      "onboard_time": 1713184038,
+      "rank": 42,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 133960,
@@ -4273,6 +4425,14 @@
       "onboard_time": 1713078138,
       "rank": 9,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 109048,
+      "num": 109048,
+      "word": "MCN利用网友爱心非法牟利超千万",
+      "onboard_time": 1713183139,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 108041,
@@ -4657,6 +4817,14 @@
       "onboard_time": 1713069618,
       "rank": 41,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 28881,
+      "num": 803308,
+      "word": "一图读懂国家安全新知识",
+      "onboard_time": 1713167176,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 27698,
