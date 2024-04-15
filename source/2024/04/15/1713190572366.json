@@ -1,0 +1,410 @@
+{
+  "runTime": 1713190572366,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1500990,
+        "num": 1500990,
+        "word": "12306回应年轻人卧铺挂帘子老人没地坐",
+        "onboard_time": 1713181038,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 939864,
+        "num": 939864,
+        "word": "吴尊自曝晨起心率只有38",
+        "onboard_time": 1713188179,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 282173,
+        "num": 729086,
+        "word": "86名群众被国家安全机关表彰奖励",
+        "onboard_time": 1713187279,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 611556,
+        "num": 611556,
+        "word": "薛之谦演唱会眼镜哥回应",
+        "onboard_time": 1713185058,
+        "rank": 3,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 585075,
+        "num": 585075,
+        "word": "华为P70",
+        "onboard_time": 1713188778,
+        "rank": 4,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 1721583,
+        "num": 576057,
+        "word": "吉林一高校女生带病出操后死亡",
+        "onboard_time": 1713184757,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 566894,
+        "num": 566894,
+        "word": "李现换头像",
+        "onboard_time": 1713188898,
+        "rank": 6,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 566073,
+        "num": 566073,
+        "word": "跑步为什么会尝到血腥味",
+        "onboard_time": 1713184518,
+        "rank": 7,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 542906,
+        "num": 542906,
+        "word": "后陡门少年vs康平路少年",
+        "onboard_time": 1713181337,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 253484,
+        "num": 527439,
+        "word": "拿到offer后买了人生第一套正装",
+        "onboard_time": 1713158839,
+        "rank": 9,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 558107,
+        "num": 524226,
+        "word": "71岁保洁被开除后在物业办公室自杀",
+        "onboard_time": 1713174918,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 520310,
+        "num": 520310,
+        "word": "提灯定损涉事违建房屋已确定进行拆除",
+        "onboard_time": 1713186619,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 406539,
+        "num": 406539,
+        "word": "宫脇咲良谈科切拉舞台",
+        "onboard_time": 1713188599,
+        "rank": 12,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 390395,
+        "num": 390395,
+        "word": "苏打绿新歌曾是TFBOYS弃曲",
+        "onboard_time": 1713178337,
+        "rank": 13,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 374064,
+        "num": 374064,
+        "word": "承欢记奶奶离世",
+        "onboard_time": 1713186859,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 353119,
+        "num": 353119,
+        "word": "王楚钦vs安宰贤",
+        "onboard_time": 1713190281,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 341236,
+        "num": 341236,
+        "word": "电竞男主爆改种田男主",
+        "onboard_time": 1713187400,
+        "rank": 16,
+        "category": "电竞,综艺"
+      },
+      {
+        "raw_hot": 339257,
+        "num": 339257,
+        "word": "官方回应婆婆杀害儿媳3只狗",
+        "onboard_time": 1713176898,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 338239,
+        "num": 338239,
+        "word": "种地吧",
+        "onboard_time": 1713170418,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 327019,
+        "num": 327019,
+        "word": "为什么医院禁止你送花给病人",
+        "onboard_time": 1713174619,
+        "rank": 19,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 52244,
+        "num": 300412,
+        "word": "星纪元ET重新定义全能SUV",
+        "onboard_time": 1713188838,
+        "rank": 20,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 1060434,
+        "num": 298192,
+        "word": "柳岩就差点名道姓了",
+        "onboard_time": 1713172338,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 518636,
+        "num": 297202,
+        "word": "赵丽颖改微博简介",
+        "onboard_time": 1713177319,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 294766,
+        "num": 294766,
+        "word": "体检查出幽门螺杆菌怎么办",
+        "onboard_time": 1713189018,
+        "rank": 23,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 279549,
+        "num": 279549,
+        "word": "李昊开着治疗远走他乡",
+        "onboard_time": 1713190160,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 279415,
+        "num": 279415,
+        "word": "与凤行有庆功宴",
+        "onboard_time": 1713185657,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 251775,
+        "num": 251775,
+        "word": "猫一杯事件后有MCN加强内容安全培训",
+        "onboard_time": 1713189079,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 250591,
+        "num": 250591,
+        "word": "咖啡为什么越卖越便宜",
+        "onboard_time": 1713182118,
+        "rank": 27,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 245784,
+        "num": 245784,
+        "word": "任敏演技",
+        "onboard_time": 1713189859,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 243979,
+        "num": 243979,
+        "word": "虞书欣牛仔裙",
+        "onboard_time": 1713185358,
+        "rank": 29,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 220370,
+        "num": 220370,
+        "word": "福宝出外场了",
+        "onboard_time": 1713177019,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 205891,
+        "num": 205891,
+        "word": "猫一杯旗下店铺终止经营",
+        "onboard_time": 1713178639,
+        "rank": 31,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 202534,
+        "num": 202534,
+        "word": "刘雯的粉色裙子",
+        "onboard_time": 1713189740,
+        "rank": 32,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 201524,
+        "num": 201524,
+        "word": "涵艺爆料Tarzan加入WBG",
+        "onboard_time": 1713184878,
+        "rank": 33,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 190111,
+        "num": 190111,
+        "word": "农村才是疲惫生活的解药",
+        "onboard_time": 1713187938,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 184059,
+        "num": 184059,
+        "word": "为什么冲奶粉要用70度以上热水",
+        "onboard_time": 1713187638,
+        "rank": 35,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 168537,
+        "num": 168537,
+        "word": "建议春夏少穿黄绿色衣服出门",
+        "onboard_time": 1713180977,
+        "rank": 36,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 163706,
+        "num": 163706,
+        "word": "群星闪耀时 小孩姐",
+        "onboard_time": 1713189259,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 158293,
+        "num": 158293,
+        "word": "真心建议大家冲一冲AI领域",
+        "onboard_time": 1713183017,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 156540,
+        "num": 156540,
+        "word": "群星闪耀时 黑猫警长",
+        "onboard_time": 1713190281,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 24824,
+        "num": 154237,
+        "word": "不被夏天击垮的赵露思",
+        "onboard_time": 1713190160,
+        "rank": 40,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 153506,
+        "num": 153506,
+        "word": "鞠婧祎薄荷曼波风",
+        "onboard_time": 1713188719,
+        "rank": 41,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 143260,
+        "num": 143260,
+        "word": "朱一龙36岁状态",
+        "onboard_time": 1713183798,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 141691,
+        "num": 141691,
+        "word": "女性生孩子的理由只有一个",
+        "onboard_time": 1713149958,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 141465,
+        "num": 141465,
+        "word": "吉林白城医专",
+        "onboard_time": 1713183258,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 140713,
+        "num": 140713,
+        "word": "迪丽热巴湿发路透",
+        "onboard_time": 1713176358,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 130670,
+        "num": 130670,
+        "word": "AI眼里月薪1到1亿元的工作",
+        "onboard_time": 1713182239,
+        "rank": 46,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 126339,
+        "num": 126339,
+        "word": "王者荣耀",
+        "onboard_time": 1713184278,
+        "rank": 47,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 117566,
+        "num": 124894,
+        "word": "以色列防御伊朗袭击一夜至少花掉78亿",
+        "onboard_time": 1713180437,
+        "rank": 48,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 124890,
+        "num": 124890,
+        "word": "成毅狐妖片场侧颜照",
+        "onboard_time": 1713187099,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#坚定不移贯彻总体国家安全观#"
+    }
+  }
+}

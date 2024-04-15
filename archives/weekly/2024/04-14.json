@@ -1,6 +1,6 @@
 {
   "startTime": 1713025251708,
-  "endTime": 1713188093220,
+  "endTime": 1713190572366,
   "band_list": [
     {
       "raw_hot": 3410457,
@@ -84,7 +84,7 @@
     },
     {
       "raw_hot": 1925463,
-      "num": 448964,
+      "num": 524226,
       "word": "71岁保洁被开除后在物业办公室自杀",
       "onboard_time": 1713174918,
       "rank": 10,
@@ -361,6 +361,14 @@
       "onboard_time": 1713153860,
       "rank": 5,
       "category": "电影"
+    },
+    {
+      "raw_hot": 939864,
+      "num": 939864,
+      "word": "吴尊自曝晨起心率只有38",
+      "onboard_time": 1713188179,
+      "rank": 1,
+      "category": "综艺"
     },
     {
       "raw_hot": 919961,
@@ -811,12 +819,36 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 585075,
+      "num": 585075,
+      "word": "华为P70",
+      "onboard_time": 1713188778,
+      "rank": 4,
+      "category": "数码"
+    },
+    {
       "raw_hot": 574076,
       "num": 574076,
       "word": "联合国秘书长谴责伊朗",
       "onboard_time": 1713056478,
       "rank": 11,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 566894,
+      "num": 566894,
+      "word": "李现换头像",
+      "onboard_time": 1713188898,
+      "rank": 6,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 566073,
+      "num": 566073,
+      "word": "跑步为什么会尝到血腥味",
+      "onboard_time": 1713184518,
+      "rank": 17,
+      "category": "科学科普"
     },
     {
       "raw_hot": 564637,
@@ -833,14 +865,6 @@
       "onboard_time": 1713074358,
       "rank": 14,
       "category": "作品衍生,美妆"
-    },
-    {
-      "raw_hot": 559709,
-      "num": 559709,
-      "word": "跑步为什么会尝到血腥味",
-      "onboard_time": 1713184518,
-      "rank": 17,
-      "category": "科学科普"
     },
     {
       "raw_hot": 556839,
@@ -929,6 +953,14 @@
       "onboard_time": 1713167538,
       "rank": 24,
       "category": "电影"
+    },
+    {
+      "raw_hot": 520310,
+      "num": 520310,
+      "word": "提灯定损涉事违建房屋已确定进行拆除",
+      "onboard_time": 1713186619,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 519397,
@@ -1307,6 +1339,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 406539,
+      "num": 406539,
+      "word": "宫脇咲良谈科切拉舞台",
+      "onboard_time": 1713188599,
+      "rank": 12,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 405523,
       "num": 405523,
       "word": "贺军翔老了",
@@ -1531,14 +1571,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 366413,
-      "num": 366413,
-      "word": "提灯定损涉事违建房屋已确定进行拆除",
-      "onboard_time": 1713186619,
-      "rank": 28,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 365555,
       "num": 365555,
       "word": "IU香港",
@@ -1619,6 +1651,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 353119,
+      "num": 353119,
+      "word": "王楚钦vs安宰贤",
+      "onboard_time": 1713190281,
+      "rank": 15,
+      "category": "体育"
+    },
+    {
       "raw_hot": 351160,
       "num": 351160,
       "word": "为什么很多女生不愿意恋爱了",
@@ -1673,6 +1713,14 @@
       "onboard_time": 1713152178,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 341236,
+      "num": 341236,
+      "word": "电竞男主爆改种田男主",
+      "onboard_time": 1713187400,
+      "rank": 30,
+      "category": "电竞"
     },
     {
       "raw_hot": 338332,
@@ -1947,6 +1995,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 294766,
+      "num": 294766,
+      "word": "体检查出幽门螺杆菌怎么办",
+      "onboard_time": 1713189018,
+      "rank": 23,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 292170,
       "num": 292170,
       "word": "警方披露调查猫一杯虚假消息案细节",
@@ -2051,6 +2107,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 282173,
+      "num": 729086,
+      "word": "86名群众被国家安全机关表彰奖励",
+      "onboard_time": 1713187279,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 280105,
       "num": 205587,
       "word": "为什么卫龙辣条失宠了",
@@ -2064,6 +2128,14 @@
       "word": "容祖儿的失望显而易见了",
       "onboard_time": 1713174319,
       "rank": 23,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 279549,
+      "num": 279549,
+      "word": "李昊开着治疗远走他乡",
+      "onboard_time": 1713190160,
+      "rank": 24,
       "category": "综艺"
     },
     {
@@ -2275,6 +2347,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 251775,
+      "num": 251775,
+      "word": "猫一杯事件后有MCN加强内容安全培训",
+      "onboard_time": 1713189079,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 251602,
       "num": 251602,
       "word": "相机岛",
@@ -2377,6 +2457,14 @@
       "onboard_time": 1713083778,
       "rank": 23,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 245784,
+      "num": 245784,
+      "word": "任敏演技",
+      "onboard_time": 1713189859,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 242860,
@@ -2875,6 +2963,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 202534,
+      "num": 202534,
+      "word": "刘雯的粉色裙子",
+      "onboard_time": 1713189740,
+      "rank": 32,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 202408,
       "num": 202408,
       "word": "某幻",
@@ -3131,6 +3227,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 190111,
+      "num": 190111,
+      "word": "农村才是疲惫生活的解药",
+      "onboard_time": 1713187938,
+      "rank": 42,
+      "category": "情感"
+    },
+    {
       "raw_hot": 189499,
       "num": 189499,
       "word": "阚清子海边生日照",
@@ -3179,6 +3283,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 184059,
+      "num": 184059,
+      "word": "为什么冲奶粉要用70度以上热水",
+      "onboard_time": 1713187638,
+      "rank": 39,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 183729,
       "num": 183729,
       "word": "韦世豪绝杀",
@@ -3201,14 +3313,6 @@
       "onboard_time": 1713166158,
       "rank": 31,
       "category": "运动健身"
-    },
-    {
-      "raw_hot": 183241,
-      "num": 183241,
-      "word": "电竞男主爆改种田男主",
-      "onboard_time": 1713187400,
-      "rank": 30,
-      "category": "电竞"
     },
     {
       "raw_hot": 182951,
@@ -3603,6 +3707,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 163706,
+      "num": 163706,
+      "word": "群星闪耀时 小孩姐",
+      "onboard_time": 1713189259,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 162099,
       "num": 162099,
       "word": "勒沃库森首夺德甲冠军",
@@ -3747,6 +3859,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 156540,
+      "num": 156540,
+      "word": "群星闪耀时 黑猫警长",
+      "onboard_time": 1713190281,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 156355,
       "num": 156355,
       "word": "杨迪的刀先修了厕所又切了香肠",
@@ -3825,6 +3945,14 @@
       "onboard_time": 1713093198,
       "rank": 42,
       "category": "情感"
+    },
+    {
+      "raw_hot": 153506,
+      "num": 153506,
+      "word": "鞠婧祎薄荷曼波风",
+      "onboard_time": 1713188719,
+      "rank": 41,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 152371,
@@ -4195,14 +4323,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 137038,
-      "num": 137038,
-      "word": "为什么冲奶粉要用70度以上热水",
-      "onboard_time": 1713187638,
-      "rank": 39,
-      "category": "科学科普"
-    },
-    {
       "raw_hot": 136404,
       "num": 789624,
       "word": "今天是第九个全民国家安全教育日",
@@ -4385,14 +4505,6 @@
       "onboard_time": 1713020540,
       "rank": 45,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 125877,
-      "num": 125877,
-      "word": "农村才是疲惫生活的解药",
-      "onboard_time": 1713187938,
-      "rank": 42,
-      "category": "情感"
     },
     {
       "raw_hot": 125571,
@@ -4891,14 +5003,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 62391,
-      "num": 562783,
-      "word": "86名群众被国家安全机关表彰奖励",
-      "onboard_time": 1713187279,
-      "rank": 2,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 61754,
       "num": 61754,
       "word": "美股黄金白银大跳水",
@@ -4928,6 +5032,14 @@
       "word": "增程又添新王炸",
       "onboard_time": 1713184938,
       "rank": 45,
+      "category": "汽车"
+    },
+    {
+      "raw_hot": 52244,
+      "num": 300412,
+      "word": "星纪元ET重新定义全能SUV",
+      "onboard_time": 1713188838,
+      "rank": 20,
       "category": "汽车"
     },
     {
@@ -5081,6 +5193,14 @@
       "onboard_time": 1713129910,
       "rank": 45,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 24824,
+      "num": 154237,
+      "word": "不被夏天击垮的赵露思",
+      "onboard_time": 1713190160,
+      "rank": 40,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 23592,
