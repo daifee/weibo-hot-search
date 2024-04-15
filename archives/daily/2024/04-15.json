@@ -1,6 +1,6 @@
 {
   "startTime": 1713132599554,
-  "endTime": 1713152554488,
+  "endTime": 1713153086265,
   "band_list": [
     {
       "raw_hot": 3410457,
@@ -27,7 +27,7 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 1031889,
+      "raw_hot": 1042909,
       "num": 412871,
       "word": "第一批丁克夫妻现状曝光",
       "onboard_time": 1713138557,
@@ -60,7 +60,7 @@
     },
     {
       "raw_hot": 812072,
-      "num": 232631,
+      "num": 261617,
       "word": "中医劝患者想怀孕不要穿裙子",
       "onboard_time": 1713148938,
       "rank": 21,
@@ -73,6 +73,14 @@
       "onboard_time": 1713092899,
       "rank": 4,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 779171,
+      "num": 779171,
+      "word": "章泽天家族病史",
+      "onboard_time": 1713152537,
+      "rank": 47,
+      "category": "艺人"
     },
     {
       "raw_hot": 762188,
@@ -147,8 +155,16 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 492606,
-      "num": 232047,
+      "raw_hot": 507188,
+      "num": 507188,
+      "word": "卡琳娜将出席间谍过家家首映礼",
+      "onboard_time": 1713152118,
+      "rank": 11,
+      "category": "电影,动漫"
+    },
+    {
+      "raw_hot": 500341,
+      "num": 260721,
       "word": "女性生孩子的理由只有一个",
       "onboard_time": 1713149958,
       "rank": 22,
@@ -187,14 +203,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 377783,
-      "num": 377783,
-      "word": "卡琳娜将出席间谍过家家首映礼",
-      "onboard_time": 1713152118,
-      "rank": 11,
-      "category": "电影,动漫"
-    },
-    {
       "raw_hot": 376944,
       "num": 376944,
       "word": "何超仪拄拐带老公亮相黄贯中画展",
@@ -209,6 +217,14 @@
       "onboard_time": 1713081378,
       "rank": 5,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 366655,
+      "num": 366655,
+      "word": "薛之谦把重庆洪崖洞说成了成都洪崖洞",
+      "onboard_time": 1713148396,
+      "rank": 14,
+      "category": "演出"
     },
     {
       "raw_hot": 365555,
@@ -227,12 +243,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 359116,
-      "num": 359116,
-      "word": "薛之谦把重庆洪崖洞说成了成都洪崖洞",
-      "onboard_time": 1713148396,
-      "rank": 14,
-      "category": "演出"
+      "raw_hot": 341516,
+      "num": 341516,
+      "word": "李亚鹏妻子称与李嫣是好姐妹",
+      "onboard_time": 1713152178,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 340552,
@@ -284,7 +300,7 @@
     },
     {
       "raw_hot": 285133,
-      "num": 230869,
+      "num": 259560,
       "word": "养儿防老原来是儿媳妇养老",
       "onboard_time": 1713150979,
       "rank": 23,
@@ -308,19 +324,19 @@
     },
     {
       "raw_hot": 250142,
-      "num": 227530,
+      "num": 240054,
       "word": "上班后才知道读研有多苦",
       "onboard_time": 1713150979,
       "rank": 25,
       "category": "教育"
     },
     {
-      "raw_hot": 242524,
-      "num": 242524,
-      "word": "李亚鹏妻子称与李嫣是好姐妹",
+      "raw_hot": 246175,
+      "num": 246175,
+      "word": "陈梦世界杯开门红",
       "onboard_time": 1713152178,
-      "rank": 18,
-      "category": "艺人"
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 239498,
@@ -379,12 +395,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 198068,
-      "num": 198068,
-      "word": "陈梦世界杯开门红",
-      "onboard_time": 1713152178,
-      "rank": 31,
-      "category": "体育"
+      "raw_hot": 197011,
+      "num": 197011,
+      "word": "拼多多上爱花钱的女人",
+      "onboard_time": 1713152599,
+      "rank": 32,
+      "category": "互联网"
     },
     {
       "raw_hot": 196982,
@@ -435,6 +451,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 181074,
+      "num": 181074,
+      "word": "刘雨昕把苗音带到科切拉",
+      "onboard_time": 1713152721,
+      "rank": 33,
+      "category": "演出"
+    },
+    {
       "raw_hot": 178643,
       "num": 178643,
       "word": "辛芷蕾听劝",
@@ -467,6 +491,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 166778,
+      "num": 166778,
+      "word": "荠菜煮鸡蛋的威力",
+      "onboard_time": 1713151217,
+      "rank": 36,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 165605,
       "num": 165605,
       "word": "湖人战胜鹈鹕",
@@ -497,14 +529,6 @@
       "onboard_time": 1713136336,
       "rank": 23,
       "category": "体育"
-    },
-    {
-      "raw_hot": 159888,
-      "num": 159888,
-      "word": "荠菜煮鸡蛋的威力",
-      "onboard_time": 1713151217,
-      "rank": 36,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 158405,
@@ -563,6 +587,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 140337,
+      "num": 140337,
+      "word": "萌探2024宣传片全员表情失控",
+      "onboard_time": 1713152658,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 139812,
       "num": 139812,
       "word": "眼泪女王 爷爷死了",
@@ -579,20 +611,28 @@
       "category": "演出"
     },
     {
+      "raw_hot": 137587,
+      "num": 137587,
+      "word": "沪指翻绿跌破3000点",
+      "onboard_time": 1713146657,
+      "rank": 42,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 136057,
+      "num": 136057,
+      "word": "五一调休",
+      "onboard_time": 1713152958,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 133554,
       "num": 133554,
       "word": "第五人格 真理之下",
       "onboard_time": 1713151458,
       "rank": 41,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 133191,
-      "num": 133191,
-      "word": "沪指翻绿跌破3000点",
-      "onboard_time": 1713146657,
-      "rank": 42,
-      "category": "财经"
     },
     {
       "raw_hot": 132911,
@@ -611,8 +651,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 127271,
-      "num": 127271,
+      "raw_hot": 129757,
+      "num": 129757,
       "word": "芒果台的文案",
       "onboard_time": 1713143899,
       "rank": 44,
@@ -633,14 +673,6 @@
       "onboard_time": 1713136516,
       "rank": 31,
       "category": "体育"
-    },
-    {
-      "raw_hot": 121169,
-      "num": 121169,
-      "word": "章泽天家族病史",
-      "onboard_time": 1713152537,
-      "rank": 47,
-      "category": "艺人"
     },
     {
       "raw_hot": 121102,
@@ -835,7 +867,7 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 39358,
+      "raw_hot": 46646,
       "num": 1069198,
       "word": "守护国家安全要做到8个不",
       "onboard_time": 1713146178,
@@ -953,6 +985,9 @@
     },
     {
       "word": "#学纪知纪明纪守纪#"
+    },
+    {
+      "word": "#坚定不移贯彻总体国家安全观#"
     }
   ]
 }

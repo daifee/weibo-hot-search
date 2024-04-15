@@ -1,0 +1,410 @@
+{
+  "runTime": 1713153086265,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3327228,
+        "num": 3327228,
+        "word": "端午节放3天不调休",
+        "onboard_time": 1713145817,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1179905,
+        "num": 1179905,
+        "word": "保时捷中国总裁回应米时捷",
+        "onboard_time": 1713145338,
+        "rank": 1,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 46646,
+        "num": 1035310,
+        "word": "守护国家安全要做到8个不",
+        "onboard_time": 1713146178,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 985794,
+        "num": 985794,
+        "word": "突然的恋情可能是间谍的圈套",
+        "onboard_time": 1713146056,
+        "rank": 3,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 820988,
+        "num": 820988,
+        "word": "美国女生带韩国男友回家",
+        "onboard_time": 1713148458,
+        "rank": 4,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 779171,
+        "num": 779171,
+        "word": "章泽天家族病史",
+        "onboard_time": 1713152537,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 627907,
+        "num": 627907,
+        "word": "奔跑吧12官宣定档",
+        "onboard_time": 1713147917,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 620206,
+        "num": 620206,
+        "word": "他怎么又凶又奶的",
+        "onboard_time": 1713148938,
+        "rank": 7,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 615259,
+        "num": 615259,
+        "word": "华为P70 Pura",
+        "onboard_time": 1713145398,
+        "rank": 8,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 507188,
+        "num": 507188,
+        "word": "卡琳娜将出席间谍过家家首映礼",
+        "onboard_time": 1713152118,
+        "rank": 9,
+        "category": "电影,动漫"
+      },
+      {
+        "raw_hot": 418323,
+        "num": 418323,
+        "word": "黄岛地震",
+        "onboard_time": 1713147198,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 392477,
+        "num": 392477,
+        "word": "张艺兴工作室发文向张艺兴道歉",
+        "onboard_time": 1713139638,
+        "rank": 11,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 366655,
+        "num": 366655,
+        "word": "薛之谦把重庆洪崖洞说成了成都洪崖洞",
+        "onboard_time": 1713148396,
+        "rank": 12,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 354222,
+        "num": 354222,
+        "word": "IU香港",
+        "onboard_time": 1713147977,
+        "rank": 13,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 341516,
+        "num": 341516,
+        "word": "李亚鹏妻子称与李嫣是好姐妹",
+        "onboard_time": 1713152178,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 337931,
+        "num": 337931,
+        "word": "开始推理吧2概念官宣",
+        "onboard_time": 1713150558,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 320582,
+        "num": 320582,
+        "word": "大侦探",
+        "onboard_time": 1713150079,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 309829,
+        "num": 309829,
+        "word": "张杰把南昌说成了南京",
+        "onboard_time": 1713140839,
+        "rank": 17,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 265513,
+        "num": 265513,
+        "word": "98年小伙因精神状态太美丽走红",
+        "onboard_time": 1713142759,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 264541,
+        "num": 264541,
+        "word": "深圳机场卫星厅高坠事故原因查明",
+        "onboard_time": 1713149719,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1042909,
+        "num": 263060,
+        "word": "第一批丁克夫妻现状曝光",
+        "onboard_time": 1713138557,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 771213,
+        "num": 261617,
+        "word": "中医劝患者想怀孕不要穿裙子",
+        "onboard_time": 1713148938,
+        "rank": 21,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 500341,
+        "num": 260721,
+        "word": "女性生孩子的理由只有一个",
+        "onboard_time": 1713149958,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 259560,
+        "num": 259560,
+        "word": "养儿防老原来是儿媳妇养老",
+        "onboard_time": 1713150979,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 246175,
+        "num": 246175,
+        "word": "陈梦世界杯开门红",
+        "onboard_time": 1713152178,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 240054,
+        "num": 240054,
+        "word": "上班后才知道读研有多苦",
+        "onboard_time": 1713150979,
+        "rank": 25,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 210857,
+        "num": 210857,
+        "word": "很体面工资却不高的工作",
+        "onboard_time": 1713107539,
+        "rank": 26,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 207513,
+        "num": 207513,
+        "word": "华为Pura怎么读",
+        "onboard_time": 1713151578,
+        "rank": 27,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 205403,
+        "num": 205403,
+        "word": "澳洲亿万富豪之女在悉尼袭击案中遇害",
+        "onboard_time": 1713144137,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 99716,
+        "num": 203618,
+        "word": "魏建军带头卷智驾直播",
+        "onboard_time": 1713150619,
+        "rank": 29,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 203199,
+        "num": 203199,
+        "word": "孩子理发138元妈妈嫌太贵只愿付24",
+        "onboard_time": 1713118813,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 199891,
+        "num": 199891,
+        "word": "律师谈猫一杯MCN机构责任",
+        "onboard_time": 1713151458,
+        "rank": 31,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 197011,
+        "num": 197011,
+        "word": "拼多多上爱花钱的女人",
+        "onboard_time": 1713152599,
+        "rank": 32,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 181074,
+        "num": 181074,
+        "word": "刘雨昕把苗音带到科切拉",
+        "onboard_time": 1713152721,
+        "rank": 33,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 175650,
+        "num": 175650,
+        "word": "王嘉尔空降科切拉",
+        "onboard_time": 1713144619,
+        "rank": 34,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 166778,
+        "num": 166778,
+        "word": "荠菜煮鸡蛋的威力",
+        "onboard_time": 1713151217,
+        "rank": 35,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 164811,
+        "num": 164811,
+        "word": "田曦薇配音宫崎骏女孩苏菲",
+        "onboard_time": 1713150257,
+        "rank": 36,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 153458,
+        "num": 153458,
+        "word": "A股",
+        "onboard_time": 1713145997,
+        "rank": 37,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 146661,
+        "num": 146661,
+        "word": "电影想飞的女孩官宣",
+        "onboard_time": 1713151638,
+        "rank": 38,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 145146,
+        "num": 145146,
+        "word": "种地吧直播",
+        "onboard_time": 1713145697,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 144750,
+        "num": 144750,
+        "word": "有大学生是内娱的福气",
+        "onboard_time": 1713147677,
+        "rank": 40,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 142489,
+        "num": 142489,
+        "word": "TFBOYS415十周年",
+        "onboard_time": 1713139638,
+        "rank": 41,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 140337,
+        "num": 140337,
+        "word": "萌探2024宣传片全员表情失控",
+        "onboard_time": 1713152658,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 137587,
+        "num": 137587,
+        "word": "沪指翻绿跌破3000点",
+        "onboard_time": 1713146657,
+        "rank": 43,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 137224,
+        "num": 137224,
+        "word": "悉尼袭击事件中死伤中国公民均为留学生",
+        "onboard_time": 1713140178,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 136556,
+        "num": 136556,
+        "word": "难怪陈奕迅的演唱会不让带相机",
+        "onboard_time": 1713145038,
+        "rank": 45,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 136057,
+        "num": 136057,
+        "word": "五一调休",
+        "onboard_time": 1713152958,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 130409,
+        "num": 130409,
+        "word": "内塔尼亚胡取消回击伊朗",
+        "onboard_time": 1713138138,
+        "rank": 47,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 129757,
+        "num": 129757,
+        "word": "芒果台的文案",
+        "onboard_time": 1713143899,
+        "rank": 48,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 115261,
+        "num": 115261,
+        "word": "日照震感",
+        "onboard_time": 1713147498,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#坚定不移贯彻总体国家安全观#"
+    }
+  }
+}
