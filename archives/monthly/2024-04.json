@@ -1,6 +1,6 @@
 {
   "startTime": 1711902044401,
-  "endTime": 1713162845949,
+  "endTime": 1713165260457,
   "band_list": [
     {
       "raw_hot": 16874674,
@@ -921,6 +921,14 @@
       "onboard_time": 1712123660,
       "rank": 11,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1684669,
+      "num": 400071,
+      "word": "荣梓杉中戏北电双第一",
+      "onboard_time": 1713163577,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 1676864,
@@ -2883,6 +2891,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1038554,
+      "num": 709457,
+      "word": "拿到offer后买了人生第一套正装",
+      "onboard_time": 1713158839,
+      "rank": 36,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 1036556,
       "num": 1036556,
       "word": "日本地震",
@@ -3268,7 +3284,7 @@
     },
     {
       "raw_hot": 973715,
-      "num": 386370,
+      "num": 393979,
       "word": "朴宝蓝尸检结果",
       "onboard_time": 1713159497,
       "rank": 10,
@@ -3611,6 +3627,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 917670,
+      "num": 654073,
+      "word": "3年前掉河里的20g金戒指捞上来了",
+      "onboard_time": 1713160638,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 917392,
       "num": 917392,
       "word": "郭敬明开新店人均消费1500元",
@@ -3689,14 +3713,6 @@
       "onboard_time": 1712471058,
       "rank": 18,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 909880,
-      "num": 709457,
-      "word": "拿到offer后买了人生第一套正装",
-      "onboard_time": 1713158839,
-      "rank": 36,
-      "category": "幽默"
     },
     {
       "raw_hot": 908877,
@@ -4259,6 +4275,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 831292,
+      "num": 647597,
+      "word": "任敏旗袍",
+      "onboard_time": 1713163457,
+      "rank": 4,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 829840,
       "num": 829840,
       "word": "茶百道 还不开始",
@@ -4473,6 +4497,14 @@
       "onboard_time": 1713148938,
       "rank": 21,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 811913,
+      "num": 397634,
+      "word": "TFBOYS文案什么意思",
+      "onboard_time": 1713162918,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 810581,
@@ -9011,6 +9043,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 510507,
+      "num": 510507,
+      "word": "莎头 可口可乐",
+      "onboard_time": 1713164117,
+      "rank": 7,
+      "category": "体育"
+    },
+    {
       "raw_hot": 510415,
       "num": 463806,
       "word": "暴雪国服玩家数据完整保留",
@@ -11619,6 +11659,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 417886,
+      "num": 417886,
+      "word": "北京像下雪了",
+      "onboard_time": 1713159858,
+      "rank": 34,
+      "category": "情感"
+    },
+    {
       "raw_hot": 417580,
       "num": 417580,
       "word": "任嘉伦好薄一片",
@@ -12025,6 +12073,14 @@
       "onboard_time": 1712911100,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 400703,
+      "num": 400703,
+      "word": "最高法发文预防未成年人犯罪",
+      "onboard_time": 1713163997,
+      "rank": 9,
+      "category": "国内时政"
     },
     {
       "raw_hot": 400344,
@@ -16739,6 +16795,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 285564,
+      "num": 285564,
+      "word": "Doinb看Tian哭了",
+      "onboard_time": 1713163997,
+      "rank": 18,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 285364,
       "num": 285364,
       "word": "陈乔恩晒照纪念结婚两周年",
@@ -17143,6 +17207,14 @@
       "num": 278785,
       "word": "眼泪女王 在加纳共和国离婚",
       "onboard_time": 1712549361,
+      "rank": 19,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 278459,
+      "num": 278459,
+      "word": "李现 扫楼鼻祖",
+      "onboard_time": 1713164058,
       "rank": 19,
       "category": "剧集"
     },
@@ -20787,14 +20859,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 228321,
-      "num": 228321,
-      "word": "3年前掉河里的20g金戒指捞上来了",
-      "onboard_time": 1713160638,
-      "rank": 36,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 228288,
       "num": 228288,
       "word": "WTT世界乒联回应阿鲁纳",
@@ -21179,6 +21243,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 224118,
+      "num": 224118,
+      "word": "广东一大桥发生事故致2人遇难",
+      "onboard_time": 1713164177,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 224085,
       "num": 224085,
       "word": "永远不要把工作当成你的全部",
@@ -21529,6 +21601,14 @@
       "onboard_time": 1712242039,
       "rank": 32,
       "category": "情感"
+    },
+    {
+      "raw_hot": 220410,
+      "num": 220410,
+      "word": "同仁堂仁丹汞含量超标5万倍",
+      "onboard_time": 1713161657,
+      "rank": 41,
+      "category": "科学科普,健康医疗"
     },
     {
       "raw_hot": 220115,
@@ -22945,6 +23025,14 @@
       "onboard_time": 1712286077,
       "rank": 32,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 207566,
+      "num": 207566,
+      "word": "张杰第100场演唱会官宣",
+      "onboard_time": 1713162977,
+      "rank": 27,
+      "category": "演出"
     },
     {
       "raw_hot": 207544,
@@ -24857,14 +24945,6 @@
       "onboard_time": 1713088037,
       "rank": 32,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 196422,
-      "num": 196422,
-      "word": "北京像下雪了",
-      "onboard_time": 1713159858,
-      "rank": 34,
-      "category": "情感"
     },
     {
       "raw_hot": 196400,
@@ -27305,14 +27385,6 @@
       "onboard_time": 1713070459,
       "rank": 41,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 182894,
-      "num": 182894,
-      "word": "同仁堂仁丹汞含量超标5万倍",
-      "onboard_time": 1713161657,
-      "rank": 41,
-      "category": "科学科普,健康医疗"
     },
     {
       "raw_hot": 182886,
@@ -31043,6 +31115,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 157244,
+      "num": 157244,
+      "word": "泼水节",
+      "onboard_time": 1713163818,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 157090,
       "num": 157090,
       "word": "日全食美图",
@@ -32139,6 +32219,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 150585,
+      "num": 150585,
+      "word": "韩剧三件套",
+      "onboard_time": 1713164658,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 150554,
       "num": 150554,
       "word": "eStar战胜BOA",
@@ -32569,6 +32657,14 @@
       "onboard_time": 1711956500,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 147863,
+      "num": 147863,
+      "word": "薛之谦演唱会",
+      "onboard_time": 1713163338,
+      "rank": 34,
+      "category": "演出"
     },
     {
       "raw_hot": 147847,
@@ -34537,6 +34633,14 @@
       "onboard_time": 1712719698,
       "rank": 47,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 135161,
+      "num": 135161,
+      "word": "当代年轻人是懂如何蹭电的",
+      "onboard_time": 1713164957,
+      "rank": 40,
+      "category": "幽默"
     },
     {
       "raw_hot": 135035,
@@ -37001,6 +37105,14 @@
       "onboard_time": 1712273473,
       "rank": 39,
       "category": "情感"
+    },
+    {
+      "raw_hot": 113507,
+      "num": 113507,
+      "word": "LESSERAFIM科切拉舞台消音版",
+      "onboard_time": 1713162977,
+      "rank": 46,
+      "category": "演出"
     },
     {
       "raw_hot": 113425,

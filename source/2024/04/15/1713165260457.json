@@ -1,0 +1,410 @@
+{
+  "runTime": 1713165260457,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 210221,
+        "num": 664471,
+        "word": "中国发布伏特台风黑客组织溯源报告",
+        "onboard_time": 1713145458,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1038554,
+        "num": 661934,
+        "word": "拿到offer后买了人生第一套正装",
+        "onboard_time": 1713158839,
+        "rank": 1,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 47236,
+        "num": 655940,
+        "word": "守护国家安全要做到8个不",
+        "onboard_time": 1713146178,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 917670,
+        "num": 654073,
+        "word": "3年前掉河里的20g金戒指捞上来了",
+        "onboard_time": 1713160638,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 831292,
+        "num": 647597,
+        "word": "任敏旗袍",
+        "onboard_time": 1713163457,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 646423,
+        "num": 646423,
+        "word": "端午节放3天不调休",
+        "onboard_time": 1713145817,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 516767,
+        "num": 516767,
+        "word": "甄嬛传 团综",
+        "onboard_time": 1713153319,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 510507,
+        "num": 510507,
+        "word": "莎头 可口可乐",
+        "onboard_time": 1713164117,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 417886,
+        "num": 417886,
+        "word": "北京像下雪了",
+        "onboard_time": 1713159858,
+        "rank": 8,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 400703,
+        "num": 400703,
+        "word": "最高法发文预防未成年人犯罪",
+        "onboard_time": 1713163997,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1684669,
+        "num": 400071,
+        "word": "荣梓杉中戏北电双第一",
+        "onboard_time": 1713163577,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 811913,
+        "num": 397634,
+        "word": "TFBOYS文案什么意思",
+        "onboard_time": 1713162918,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 728752,
+        "num": 394864,
+        "word": "女性生孩子的理由只有一个",
+        "onboard_time": 1713149958,
+        "rank": 12,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 683206,
+        "num": 393979,
+        "word": "朴宝蓝尸检结果",
+        "onboard_time": 1713159497,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 392546,
+        "num": 392546,
+        "word": "突然的恋情可能是间谍的圈套",
+        "onboard_time": 1713146056,
+        "rank": 14,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 378899,
+        "num": 378899,
+        "word": "歌手回归",
+        "onboard_time": 1713155601,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 327907,
+        "num": 327907,
+        "word": "小米高管否认卖一部SU7亏6800元",
+        "onboard_time": 1713157880,
+        "rank": 16,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 314815,
+        "num": 314815,
+        "word": "贺军翔老了",
+        "onboard_time": 1713154940,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 285564,
+        "num": 285564,
+        "word": "Doinb看Tian哭了",
+        "onboard_time": 1713163997,
+        "rank": 18,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 278459,
+        "num": 278459,
+        "word": "李现 扫楼鼻祖",
+        "onboard_time": 1713164058,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 309385,
+        "num": 273228,
+        "word": "babymonster 科切拉",
+        "onboard_time": 1713159618,
+        "rank": 20,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 299624,
+        "num": 270422,
+        "word": "中医劝患者想怀孕不要穿裙子",
+        "onboard_time": 1713148938,
+        "rank": 21,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 264203,
+        "num": 264203,
+        "word": "第一批丁克夫妻现状曝光",
+        "onboard_time": 1713138557,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 246826,
+        "num": 246826,
+        "word": "王晶称梁朝伟应宣布不再领奖",
+        "onboard_time": 1713153860,
+        "rank": 23,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 226341,
+        "num": 226341,
+        "word": "教你在微信上凭空消失",
+        "onboard_time": 1713155480,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 224118,
+        "num": 224118,
+        "word": "广东一大桥发生事故致2人遇难",
+        "onboard_time": 1713164177,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 220410,
+        "num": 220410,
+        "word": "同仁堂仁丹汞含量超标5万倍",
+        "onboard_time": 1713161657,
+        "rank": 26,
+        "category": "科学科普,健康医疗"
+      },
+      {
+        "raw_hot": 207566,
+        "num": 207566,
+        "word": "张杰第100场演唱会官宣",
+        "onboard_time": 1713162977,
+        "rank": 27,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 181988,
+        "num": 181988,
+        "word": "李现任敏新浪扫楼",
+        "onboard_time": 1713160098,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 177784,
+        "num": 177784,
+        "word": "A股",
+        "onboard_time": 1713145997,
+        "rank": 29,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 160431,
+        "num": 160431,
+        "word": "陈晓孙千合作",
+        "onboard_time": 1713161477,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 157244,
+        "num": 157244,
+        "word": "泼水节",
+        "onboard_time": 1713163818,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 150585,
+        "num": 150585,
+        "word": "韩剧三件套",
+        "onboard_time": 1713164658,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 149826,
+        "num": 149826,
+        "word": "五一调休",
+        "onboard_time": 1713152958,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 147863,
+        "num": 147863,
+        "word": "薛之谦演唱会",
+        "onboard_time": 1713163338,
+        "rank": 34,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 146790,
+        "num": 146790,
+        "word": "肖战肖春生 我在什刹海当大哥",
+        "onboard_time": 1713158298,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 188782,
+        "num": 145145,
+        "word": "保时捷中国总裁回应米时捷",
+        "onboard_time": 1713145338,
+        "rank": 36,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 143263,
+        "num": 143263,
+        "word": "卡琳娜将出席间谍过家家首映礼",
+        "onboard_time": 1713152118,
+        "rank": 37,
+        "category": "电影,动漫"
+      },
+      {
+        "raw_hot": 140867,
+        "num": 140867,
+        "word": "他怎么又凶又奶的",
+        "onboard_time": 1713148938,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 136138,
+        "num": 136138,
+        "word": "洪胜汉 高考",
+        "onboard_time": 1713162317,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 135161,
+        "num": 135161,
+        "word": "当代年轻人是懂如何蹭电的",
+        "onboard_time": 1713164957,
+        "rank": 40,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 134040,
+        "num": 134040,
+        "word": "华为P70 Pura",
+        "onboard_time": 1713145398,
+        "rank": 41,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 129203,
+        "num": 129203,
+        "word": "种地电竞小分队",
+        "onboard_time": 1713161777,
+        "rank": 42,
+        "category": "综艺,电竞"
+      },
+      {
+        "raw_hot": 123555,
+        "num": 123555,
+        "word": "吉林高速大赚5亿不分红",
+        "onboard_time": 1713155961,
+        "rank": 43,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 119566,
+        "num": 119566,
+        "word": "hybe kpop毁灭者",
+        "onboard_time": 1713157819,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 114146,
+        "num": 114146,
+        "word": "奔跑吧12官宣定档",
+        "onboard_time": 1713147917,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 113507,
+        "num": 113507,
+        "word": "LESSERAFIM科切拉舞台消音版",
+        "onboard_time": 1713162977,
+        "rank": 46,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 112691,
+        "num": 112691,
+        "word": "嗯的标准拼音不是en",
+        "onboard_time": 1713155961,
+        "rank": 47,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 112224,
+        "num": 112224,
+        "word": "为什么年轻人都想逃离银行柜员",
+        "onboard_time": 1713160039,
+        "rank": 48,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 111079,
+        "num": 111079,
+        "word": "普通家庭的孩子该不该看演唱会",
+        "onboard_time": 1713159978,
+        "rank": 49,
+        "category": "演出"
+      }
+    ],
+    "hotgov": {
+      "word": "#坚定不移贯彻总体国家安全观#"
+    }
+  }
+}
