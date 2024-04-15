@@ -1,6 +1,6 @@
 {
   "startTime": 1711902044401,
-  "endTime": 1713166452213,
+  "endTime": 1713169108276,
   "band_list": [
     {
       "raw_hot": 16874674,
@@ -3579,6 +3579,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 924394,
+      "num": 647597,
+      "word": "任敏旗袍",
+      "onboard_time": 1713163457,
+      "rank": 4,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 923547,
       "num": 923547,
       "word": "易烊千玺闯美成功",
@@ -3905,14 +3913,6 @@
       "onboard_time": 1712047518,
       "rank": 7,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 874656,
-      "num": 647597,
-      "word": "任敏旗袍",
-      "onboard_time": 1713163457,
-      "rank": 4,
-      "category": "剧集"
     },
     {
       "raw_hot": 874184,
@@ -6659,6 +6659,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 638885,
+      "num": 316028,
+      "word": "黄子韬求导演管管徐艺洋",
+      "onboard_time": 1713167118,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 637713,
       "num": 637713,
       "word": "眼泪女王 狗血",
@@ -7169,6 +7177,14 @@
       "onboard_time": 1711955301,
       "rank": 19,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 609025,
+      "num": 491211,
+      "word": "一克拉肾结石",
+      "onboard_time": 1713165258,
+      "rank": 16,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 608870,
@@ -10075,6 +10091,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 471635,
+      "num": 340539,
+      "word": "广东一大桥发生事故致2人遇难",
+      "onboard_time": 1713164177,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 470760,
       "num": 470760,
       "word": "沈图南 孤雁",
@@ -11241,6 +11265,14 @@
       "onboard_time": 1712375119,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 431816,
+      "num": 431816,
+      "word": "卢广仲 北京草莓",
+      "onboard_time": 1713166577,
+      "rank": 7,
+      "category": "演出"
     },
     {
       "raw_hot": 431482,
@@ -12875,6 +12907,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 376281,
+      "num": 253267,
+      "word": "小县城为什么没有穿衣自由",
+      "onboard_time": 1713166218,
+      "rank": 27,
+      "category": "情感"
+    },
+    {
       "raw_hot": 376103,
       "num": 324775,
       "word": "24岁女生和48岁的室友妈妈处成母女",
@@ -13931,6 +13971,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 346557,
+      "num": 346557,
+      "word": "眼泪女王又要等六年",
+      "onboard_time": 1713166757,
+      "rank": 8,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 346462,
       "num": 346462,
       "word": "沈图南入党",
@@ -14201,6 +14249,14 @@
       "onboard_time": 1712376678,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 340481,
+      "num": 340481,
+      "word": "特斯拉全球裁员10%",
+      "onboard_time": 1713168078,
+      "rank": 15,
+      "category": "汽车"
     },
     {
       "raw_hot": 340210,
@@ -14931,6 +14987,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 321018,
+      "num": 321018,
+      "word": "外资涌入抄底A股",
+      "onboard_time": 1713166878,
+      "rank": 17,
+      "category": "财经"
+    },
+    {
       "raw_hot": 320846,
       "num": 320846,
       "word": "女子被轿车撞倒身亡目击者发声",
@@ -14985,14 +15049,6 @@
       "onboard_time": 1712932940,
       "rank": 22,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 319420,
-      "num": 319420,
-      "word": "一克拉肾结石",
-      "onboard_time": 1713165258,
-      "rank": 16,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 319386,
@@ -15369,14 +15425,6 @@
       "onboard_time": 1712811439,
       "rank": 22,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 312582,
-      "num": 312582,
-      "word": "广东一大桥发生事故致2人遇难",
-      "onboard_time": 1713164177,
-      "rank": 25,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 312519,
@@ -19795,6 +19843,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 241635,
+      "num": 241635,
+      "word": "五一档电影",
+      "onboard_time": 1713167538,
+      "rank": 24,
+      "category": "电影"
+    },
+    {
       "raw_hot": 241612,
       "num": 241612,
       "word": "胖东来维权声明",
@@ -21243,6 +21299,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 224402,
+      "num": 224402,
+      "word": "昔日明星基金经理蔡嵩松涉受贿",
+      "onboard_time": 1713166338,
+      "rank": 49,
+      "category": "社会新闻,财经"
+    },
+    {
       "raw_hot": 224343,
       "num": 224343,
       "word": "蒋依依新中式",
@@ -21993,6 +22057,14 @@
       "onboard_time": 1712047158,
       "rank": 31,
       "category": "演出"
+    },
+    {
+      "raw_hot": 217047,
+      "num": 217047,
+      "word": "虞书欣跳了lover",
+      "onboard_time": 1713167478,
+      "rank": 27,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 216853,
@@ -23299,6 +23371,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 206071,
+      "num": 206071,
+      "word": "李现任敏跳了fate",
+      "onboard_time": 1713168498,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 206018,
       "num": 206018,
       "word": "暴雪国服招聘",
@@ -23584,14 +23664,6 @@
       "word": "妈妈生日送花被直接丢了出来",
       "onboard_time": 1712222237,
       "rank": 43,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 204580,
-      "num": 204580,
-      "word": "小县城为什么没有穿衣自由",
-      "onboard_time": 1713166218,
-      "rank": 27,
       "category": "情感"
     },
     {
@@ -25825,6 +25897,14 @@
       "onboard_time": 1712225298,
       "rank": 32,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 191875,
+      "num": 191875,
+      "word": "没有一顿火锅解决不了的事口碑",
+      "onboard_time": 1713168318,
+      "rank": 31,
+      "category": "电影"
     },
     {
       "raw_hot": 191820,
@@ -28363,6 +28443,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 176173,
+      "num": 176173,
+      "word": "曲阜师大一学院课堂禁止使用电子产品",
+      "onboard_time": 1713167899,
+      "rank": 33,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 176155,
       "num": 176155,
       "word": "今天怎么才星期二",
@@ -29913,6 +30001,14 @@
       "onboard_time": 1712792837,
       "rank": 34,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 164889,
+      "num": 164889,
+      "word": "许凯杨紫眼技",
+      "onboard_time": 1713168680,
+      "rank": 36,
+      "category": "剧集"
     },
     {
       "raw_hot": 164764,
@@ -32561,6 +32657,14 @@
       "onboard_time": 1712124861,
       "rank": 48,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 148714,
+      "num": 340508,
+      "word": "泼水节禁止泼冷水",
+      "onboard_time": 1713165618,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 148684,
@@ -35619,6 +35723,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 127788,
+      "num": 127788,
+      "word": "新发放个人住房贷款利率首次低于企业贷款",
+      "onboard_time": 1713167201,
+      "rank": 39,
+      "category": "财经"
+    },
+    {
       "raw_hot": 127752,
       "num": 127752,
       "word": "女孩看街景地图意外发现已故奶奶",
@@ -35649,6 +35761,14 @@
       "onboard_time": 1712522829,
       "rank": 40,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 127495,
+      "num": 127495,
+      "word": "复试被刷觉得这辈子完蛋了",
+      "onboard_time": 1713166878,
+      "rank": 40,
+      "category": "情感"
     },
     {
       "raw_hot": 127426,
@@ -37251,6 +37371,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 112626,
+      "num": 112626,
+      "word": "杨超越古画仕女",
+      "onboard_time": 1713166519,
+      "rank": 44,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 112588,
       "num": 112588,
       "word": "男人老了的标准是是什么",
@@ -37433,14 +37561,6 @@
       "onboard_time": 1712595434,
       "rank": 27,
       "category": "情感,网红"
-    },
-    {
-      "raw_hot": 109873,
-      "num": 109873,
-      "word": "昔日明星基金经理蔡嵩松涉受贿",
-      "onboard_time": 1713166338,
-      "rank": 49,
-      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 109748,
@@ -37825,6 +37945,14 @@
       "onboard_time": 1712989997,
       "rank": 49,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 102964,
+      "num": 102964,
+      "word": "素颜丑关我化妆后什么事",
+      "onboard_time": 1713168976,
+      "rank": 46,
+      "category": "情感"
     },
     {
       "raw_hot": 102902,
@@ -38259,6 +38387,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 96085,
+      "num": 528847,
+      "word": "今天是第九个全民国家安全教育日",
+      "onboard_time": 1713167359,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 95850,
       "num": 1412890,
       "word": "诗经里的绝美中国色",
@@ -38513,14 +38649,6 @@
       "onboard_time": 1712774292,
       "rank": 13,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 90271,
-      "num": 185150,
-      "word": "泼水节禁止泼冷水",
-      "onboard_time": 1713165618,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 90270,
