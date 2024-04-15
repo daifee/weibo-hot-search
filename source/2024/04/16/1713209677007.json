@@ -1,0 +1,410 @@
+{
+  "runTime": 1713209677007,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 120986,
+        "num": 120986,
+        "word": "为什么网上买药比实体店更便宜",
+        "onboard_time": 1713205213,
+        "rank": 0,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 82535,
+        "num": 82535,
+        "word": "12306回应年轻人卧铺挂帘子老人没地坐",
+        "onboard_time": 1713181038,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 8175,
+        "num": 65669,
+        "word": "汇聚起维护国家安全的强大力量",
+        "onboard_time": 1713187099,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 153333,
+        "num": 64594,
+        "word": "小新被爆家暴出轨",
+        "onboard_time": 1713191599,
+        "rank": 3,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 49070,
+        "num": 49070,
+        "word": "店员下错单被逼下跪向顾客道歉",
+        "onboard_time": 1713190881,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 44221,
+        "num": 44221,
+        "word": "跑步为什么会尝到血腥味",
+        "onboard_time": 1713184518,
+        "rank": 5,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 39978,
+        "num": 39978,
+        "word": "王楚钦2比2安宰贤",
+        "onboard_time": 1713193341,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 39488,
+        "num": 39488,
+        "word": "薛之谦演唱会眼镜哥回应",
+        "onboard_time": 1713185058,
+        "rank": 7,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 19842,
+        "num": 38726,
+        "word": "体检查出幽门螺杆菌怎么办",
+        "onboard_time": 1713189018,
+        "rank": 8,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 16348,
+        "num": 37492,
+        "word": "拿到offer后买了人生第一套正装",
+        "onboard_time": 1713158839,
+        "rank": 9,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 125176,
+        "num": 37015,
+        "word": "男子当众扒光前女友衣服获刑5年",
+        "onboard_time": 1713207971,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 65637,
+        "num": 35221,
+        "word": "71岁保洁被开除后在物业办公室自杀",
+        "onboard_time": 1713174918,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 42085,
+        "num": 34413,
+        "word": "吉林白城医专",
+        "onboard_time": 1713183258,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 33955,
+        "num": 33955,
+        "word": "张元英向我求婚",
+        "onboard_time": 1713192979,
+        "rank": 13,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 32835,
+        "num": 32835,
+        "word": "罗伯特是AI林萧吧",
+        "onboard_time": 1713202693,
+        "rank": 14,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 28735,
+        "num": 28735,
+        "word": "哈马斯领导人多个家人被炸死",
+        "onboard_time": 1713192260,
+        "rank": 15,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 27556,
+        "num": 27556,
+        "word": "李耕耘的李白",
+        "onboard_time": 1713192979,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 26988,
+        "num": 26988,
+        "word": "猫一杯旗下店铺终止经营",
+        "onboard_time": 1713178639,
+        "rank": 17,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 27045,
+        "num": 26924,
+        "word": "后陡门少年vs康平路少年",
+        "onboard_time": 1713181337,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 26583,
+        "num": 26583,
+        "word": "周杰伦和伍佰之间只缺一个站姐",
+        "onboard_time": 1713198975,
+        "rank": 19,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 73575,
+        "num": 26533,
+        "word": "吉林一高校女生带病出操后死亡",
+        "onboard_time": 1713184757,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 52089,
+        "num": 26437,
+        "word": "柳岩就差点名道姓了",
+        "onboard_time": 1713172338,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 44843,
+        "num": 26228,
+        "word": "赵丽颖改微博简介",
+        "onboard_time": 1713177319,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 36173,
+        "num": 26124,
+        "word": "吴尊自曝晨起心率只有38",
+        "onboard_time": 1713188179,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 27246,
+        "num": 25994,
+        "word": "熬夜变笨可能是身体在预警",
+        "onboard_time": 1713200354,
+        "rank": 24,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 25914,
+        "num": 25914,
+        "word": "数学140分以上就能被知名大学锁定吗",
+        "onboard_time": 1713193281,
+        "rank": 25,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 24833,
+        "num": 24833,
+        "word": "华为P70",
+        "onboard_time": 1713188778,
+        "rank": 26,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 22074,
+        "num": 22074,
+        "word": "李现换头像",
+        "onboard_time": 1713188898,
+        "rank": 27,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 21962,
+        "num": 21962,
+        "word": "原汁原味 千与千寻",
+        "onboard_time": 1713192260,
+        "rank": 28,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 21712,
+        "num": 21712,
+        "word": "建议春夏少穿黄绿色衣服出门",
+        "onboard_time": 1713180977,
+        "rank": 29,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 21339,
+        "num": 21339,
+        "word": "刘亦菲玫瑰的故事什么时候播",
+        "onboard_time": 1713194899,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 20549,
+        "num": 20549,
+        "word": "提灯定损涉事违建房屋已确定进行拆除",
+        "onboard_time": 1713186619,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 20464,
+        "num": 20464,
+        "word": "涵艺爆料Tarzan加入WBG",
+        "onboard_time": 1713184878,
+        "rank": 32,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 20009,
+        "num": 20009,
+        "word": "王嘉尔刘雨昕合照",
+        "onboard_time": 1713193219,
+        "rank": 33,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 19598,
+        "num": 19598,
+        "word": "宋茜周渝民新剧",
+        "onboard_time": 1713199875,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 19131,
+        "num": 19131,
+        "word": "IVE造型 幽默",
+        "onboard_time": 1713191240,
+        "rank": 35,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 18954,
+        "num": 18954,
+        "word": "王楚钦vs安宰贤",
+        "onboard_time": 1713190281,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 18621,
+        "num": 18621,
+        "word": "JDG无缘MSI",
+        "onboard_time": 1713202273,
+        "rank": 37,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 17984,
+        "num": 17984,
+        "word": "李昊开着治疗远走他乡",
+        "onboard_time": 1713190160,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 17914,
+        "num": 17914,
+        "word": "严浩翔 我们强得可怕",
+        "onboard_time": 1713193099,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 17856,
+        "num": 17856,
+        "word": "阚清子21岁至36岁颜值变化",
+        "onboard_time": 1713172757,
+        "rank": 40,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 10193,
+        "num": 17614,
+        "word": "86名群众被国家安全机关表彰奖励",
+        "onboard_time": 1713187279,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 17392,
+        "num": 17392,
+        "word": "六芙珠宝",
+        "onboard_time": 1713191840,
+        "rank": 42,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 17226,
+        "num": 17226,
+        "word": "辛芷蕾管不了秦岚一点",
+        "onboard_time": 1713191721,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 16923,
+        "num": 16923,
+        "word": "陈晓光头颜值",
+        "onboard_time": 1713209291,
+        "rank": 44,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 16659,
+        "num": 16659,
+        "word": "咖啡为什么越卖越便宜",
+        "onboard_time": 1713182118,
+        "rank": 45,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 16633,
+        "num": 16633,
+        "word": "张真源吃播",
+        "onboard_time": 1713193580,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 15399,
+        "num": 16077,
+        "word": "麦承欢的家真的拆迁了",
+        "onboard_time": 1713191779,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 15292,
+        "num": 16043,
+        "word": "中国银行回应暂停新车个贷传闻",
+        "onboard_time": 1713194062,
+        "rank": 48,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 14774,
+        "num": 16029,
+        "word": "任敏演技",
+        "onboard_time": 1713189859,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#坚定不移贯彻总体国家安全观#"
+    }
+  }
+}

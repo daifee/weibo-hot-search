@@ -1,6 +1,6 @@
 {
   "startTime": 1713198119901,
-  "endTime": 1713208503402,
+  "endTime": 1713209677007,
   "band_list": [
     {
       "raw_hot": 1493101,
@@ -275,6 +275,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 125176,
+      "num": 37015,
+      "word": "男子当众扒光前女友衣服获刑5年",
+      "onboard_time": 1713207971,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 123683,
       "num": 123683,
       "word": "IVE 巴啦啦小魔仙",
@@ -283,8 +291,8 @@
       "category": "音乐,时尚"
     },
     {
-      "raw_hot": 119007,
-      "num": 119007,
+      "raw_hot": 120986,
+      "num": 120986,
       "word": "为什么网上买药比实体店更便宜",
       "onboard_time": 1713205213,
       "rank": 49,
@@ -467,14 +475,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 26214,
-      "num": 26214,
-      "word": "男子当众扒光前女友衣服获刑5年",
-      "onboard_time": 1713207971,
-      "rank": 27,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 25932,
       "num": 25932,
       "word": "群星闪耀时 谍战剧",
@@ -489,6 +489,14 @@
       "onboard_time": 1713205572,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 16923,
+      "num": 16923,
+      "word": "陈晓光头颜值",
+      "onboard_time": 1713209291,
+      "rank": 44,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 12835,
