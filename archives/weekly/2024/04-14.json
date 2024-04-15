@@ -1,6 +1,6 @@
 {
   "startTime": 1713025251708,
-  "endTime": 1713195260107,
+  "endTime": 1713198119901,
   "band_list": [
     {
       "raw_hot": 3410457,
@@ -2275,20 +2275,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 275043,
+      "num": 275043,
+      "word": "白敬亭穿校服 梦回陆之昂",
+      "onboard_time": 1713194420,
+      "rank": 25,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 273331,
       "num": 273331,
       "word": "旭旭宝宝 19耳环",
       "onboard_time": 1713051915,
       "rank": 27,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 271681,
-      "num": 271681,
-      "word": "白敬亭穿校服 梦回陆之昂",
-      "onboard_time": 1713194420,
-      "rank": 25,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 271646,
@@ -2577,6 +2577,14 @@
       "onboard_time": 1713083778,
       "rank": 23,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 244070,
+      "num": 244070,
+      "word": "刘亦菲玫瑰的故事什么时候播",
+      "onboard_time": 1713194899,
+      "rank": 36,
+      "category": "剧集"
     },
     {
       "raw_hot": 242860,
@@ -3315,14 +3323,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 193443,
-      "num": 193443,
-      "word": "刘亦菲玫瑰的故事什么时候播",
-      "onboard_time": 1713194899,
-      "rank": 36,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 193400,
       "num": 193400,
       "word": "电影想飞的女孩官宣",
@@ -3609,6 +3609,14 @@
       "onboard_time": 1713184038,
       "rank": 42,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 177065,
+      "num": 177065,
+      "word": "女性可能面临的生育损伤",
+      "onboard_time": 1713194838,
+      "rank": 24,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 177052,
@@ -3921,6 +3929,14 @@
       "onboard_time": 1713021259,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 161905,
+      "num": 161905,
+      "word": "王楚钦说打得太急躁",
+      "onboard_time": 1713196278,
+      "rank": 28,
+      "category": "体育"
     },
     {
       "raw_hot": 161853,
@@ -4649,6 +4665,14 @@
       "onboard_time": 1713147498,
       "rank": 43,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 131266,
+      "num": 131266,
+      "word": "朱一龙弹唱海盗船长",
+      "onboard_time": 1713197298,
+      "rank": 32,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 130714,

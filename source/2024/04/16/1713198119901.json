@@ -1,0 +1,410 @@
+{
+  "runTime": 1713198119901,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 826087,
+        "num": 826087,
+        "word": "12306回应年轻人卧铺挂帘子老人没地坐",
+        "onboard_time": 1713181038,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 451245,
+        "num": 451245,
+        "word": "王楚钦2比2安宰贤",
+        "onboard_time": 1713193341,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 78878,
+        "num": 425358,
+        "word": "86名群众被国家安全机关表彰奖励",
+        "onboard_time": 1713187279,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1493101,
+        "num": 421806,
+        "word": "小新被爆家暴出轨",
+        "onboard_time": 1713191599,
+        "rank": 3,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 577104,
+        "num": 414320,
+        "word": "店员下错单被逼下跪向顾客道歉",
+        "onboard_time": 1713190881,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 400625,
+        "num": 400625,
+        "word": "李耕耘的李白",
+        "onboard_time": 1713192979,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 326348,
+        "num": 326348,
+        "word": "薛之谦演唱会眼镜哥回应",
+        "onboard_time": 1713185058,
+        "rank": 6,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 287014,
+        "num": 287014,
+        "word": "六芙珠宝",
+        "onboard_time": 1713191840,
+        "rank": 7,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 279054,
+        "num": 279054,
+        "word": "哈马斯领导人多个家人被炸死",
+        "onboard_time": 1713192260,
+        "rank": 8,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 111076,
+        "num": 277339,
+        "word": "拿到offer后买了人生第一套正装",
+        "onboard_time": 1713158839,
+        "rank": 9,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 418593,
+        "num": 277331,
+        "word": "张元英向我求婚",
+        "onboard_time": 1713192979,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 384249,
+        "num": 277308,
+        "word": "71岁保洁被开除后在物业办公室自杀",
+        "onboard_time": 1713174918,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 276934,
+        "num": 276934,
+        "word": "跑步为什么会尝到血腥味",
+        "onboard_time": 1713184518,
+        "rank": 12,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 275043,
+        "num": 275043,
+        "word": "白敬亭穿校服 梦回陆之昂",
+        "onboard_time": 1713194420,
+        "rank": 13,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 244070,
+        "num": 244070,
+        "word": "刘亦菲玫瑰的故事什么时候播",
+        "onboard_time": 1713194899,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 207766,
+        "num": 207766,
+        "word": "严浩翔 我们强得可怕",
+        "onboard_time": 1713193099,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 196096,
+        "num": 196096,
+        "word": "李昊开着治疗远走他乡",
+        "onboard_time": 1713190160,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 188753,
+        "num": 188753,
+        "word": "麦承欢的家真的拆迁了",
+        "onboard_time": 1713191779,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 184284,
+        "num": 184284,
+        "word": "IVE造型 幽默",
+        "onboard_time": 1713191240,
+        "rank": 18,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 178284,
+        "num": 178284,
+        "word": "华为P70",
+        "onboard_time": 1713188778,
+        "rank": 19,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 853460,
+        "num": 178232,
+        "word": "吉林一高校女生带病出操后死亡",
+        "onboard_time": 1713184757,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 520510,
+        "num": 177805,
+        "word": "吴尊自曝晨起心率只有38",
+        "onboard_time": 1713188179,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 455072,
+        "num": 177577,
+        "word": "数学140分以上就能被知名大学锁定吗",
+        "onboard_time": 1713193281,
+        "rank": 22,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 360779,
+        "num": 177098,
+        "word": "赵丽颖改微博简介",
+        "onboard_time": 1713177319,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 177065,
+        "num": 177065,
+        "word": "女性可能面临的生育损伤",
+        "onboard_time": 1713194838,
+        "rank": 24,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 277460,
+        "num": 176886,
+        "word": "柳岩就差点名道姓了",
+        "onboard_time": 1713172338,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 176427,
+        "num": 176427,
+        "word": "李现换头像",
+        "onboard_time": 1713188898,
+        "rank": 26,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 167671,
+        "num": 167671,
+        "word": "张真源吃播",
+        "onboard_time": 1713193580,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 161905,
+        "num": 161905,
+        "word": "王楚钦说打得太急躁",
+        "onboard_time": 1713196278,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 88050,
+        "num": 143106,
+        "word": "体检查出幽门螺杆菌怎么办",
+        "onboard_time": 1713189018,
+        "rank": 29,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 138854,
+        "num": 138854,
+        "word": "咖啡为什么越卖越便宜",
+        "onboard_time": 1713182118,
+        "rank": 30,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 136619,
+        "num": 136619,
+        "word": "后陡门少年vs康平路少年",
+        "onboard_time": 1713181337,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 131266,
+        "num": 131266,
+        "word": "朱一龙弹唱海盗船长",
+        "onboard_time": 1713197298,
+        "rank": 32,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 126252,
+        "num": 126252,
+        "word": "建议春夏少穿黄绿色衣服出门",
+        "onboard_time": 1713180977,
+        "rank": 33,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 125520,
+        "num": 125520,
+        "word": "王嘉尔刘雨昕合照",
+        "onboard_time": 1713193219,
+        "rank": 34,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 125365,
+        "num": 125365,
+        "word": "辛芷蕾管不了秦岚一点",
+        "onboard_time": 1713191721,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 123683,
+        "num": 123683,
+        "word": "IVE 巴啦啦小魔仙",
+        "onboard_time": 1713192379,
+        "rank": 36,
+        "category": "音乐,时尚"
+      },
+      {
+        "raw_hot": 117294,
+        "num": 117294,
+        "word": "为什么女生比男生更容易长痘",
+        "onboard_time": 1713191480,
+        "rank": 37,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 116254,
+        "num": 116254,
+        "word": "猫一杯旗下店铺终止经营",
+        "onboard_time": 1713178639,
+        "rank": 38,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 112566,
+        "num": 112566,
+        "word": "吉林白城医专",
+        "onboard_time": 1713183258,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 114959,
+        "num": 112418,
+        "word": "原汁原味 千与千寻",
+        "onboard_time": 1713192260,
+        "rank": 40,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 111072,
+        "num": 111072,
+        "word": "时代少年团花絮",
+        "onboard_time": 1713192920,
+        "rank": 41,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 108168,
+        "num": 108168,
+        "word": "阚清子21岁至36岁颜值变化",
+        "onboard_time": 1713172757,
+        "rank": 42,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 105023,
+        "num": 105023,
+        "word": "任敏演技",
+        "onboard_time": 1713189859,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 104353,
+        "num": 104353,
+        "word": "中国银行回应暂停新车个贷传闻",
+        "onboard_time": 1713194062,
+        "rank": 44,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 97839,
+        "num": 97839,
+        "word": "王楚钦vs安宰贤",
+        "onboard_time": 1713190281,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 94516,
+        "num": 94516,
+        "word": "涵艺爆料Tarzan加入WBG",
+        "onboard_time": 1713184878,
+        "rank": 46,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 85244,
+        "num": 85244,
+        "word": "提灯定损涉事违建房屋已确定进行拆除",
+        "onboard_time": 1713186619,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 76084,
+        "num": 76084,
+        "word": "为什么医院禁止你送花给病人",
+        "onboard_time": 1713174619,
+        "rank": 48,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 67866,
+        "num": 75916,
+        "word": "农村才是疲惫生活的解药",
+        "onboard_time": 1713187938,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#坚定不移贯彻总体国家安全观#"
+    }
+  }
+}
