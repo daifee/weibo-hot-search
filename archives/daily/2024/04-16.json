@@ -1,6 +1,6 @@
 {
   "startTime": 1713198119901,
-  "endTime": 1713198119901,
+  "endTime": 1713198863590,
   "band_list": [
     {
       "raw_hot": 1493101,
@@ -203,8 +203,8 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 167671,
-      "num": 167671,
+      "raw_hot": 168953,
+      "num": 168953,
       "word": "张真源吃播",
       "onboard_time": 1713193580,
       "rank": 27,
@@ -233,6 +233,14 @@
       "onboard_time": 1713181337,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 132978,
+      "num": 132978,
+      "word": "吉林白城医专",
+      "onboard_time": 1713183258,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 131266,
@@ -299,14 +307,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 112566,
-      "num": 112566,
-      "word": "吉林白城医专",
-      "onboard_time": 1713183258,
-      "rank": 39,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 111076,
       "num": 277339,
       "word": "拿到offer后买了人生第一套正装",
@@ -323,6 +323,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 109837,
+      "num": 109837,
+      "word": "中国银行回应暂停新车个贷传闻",
+      "onboard_time": 1713194062,
+      "rank": 44,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 108168,
       "num": 108168,
       "word": "阚清子21岁至36岁颜值变化",
@@ -337,14 +345,6 @@
       "onboard_time": 1713189859,
       "rank": 43,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 104353,
-      "num": 104353,
-      "word": "中国银行回应暂停新车个贷传闻",
-      "onboard_time": 1713194062,
-      "rank": 44,
-      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 97839,
