@@ -1,6 +1,6 @@
 {
   "startTime": 1713025251708,
-  "endTime": 1713206150429,
+  "endTime": 1713208503402,
   "band_list": [
     {
       "raw_hot": 3410457,
@@ -4859,6 +4859,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 119007,
+      "num": 119007,
+      "word": "为什么网上买药比实体店更便宜",
+      "onboard_time": 1713205213,
+      "rank": 49,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 118812,
       "num": 118812,
       "word": "姚志明流浪小猫有家了",
@@ -5443,14 +5451,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 32327,
-      "num": 32327,
-      "word": "为什么网上买药比实体店更便宜",
-      "onboard_time": 1713205213,
-      "rank": 49,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 31978,
       "num": 35218,
       "word": "JDG无缘MSI",
@@ -5521,6 +5521,14 @@
       "onboard_time": 1713129910,
       "rank": 45,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 26214,
+      "num": 26214,
+      "word": "男子当众扒光前女友衣服获刑5年",
+      "onboard_time": 1713207971,
+      "rank": 27,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 25932,
