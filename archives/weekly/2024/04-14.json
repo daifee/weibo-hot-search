@@ -1,6 +1,6 @@
 {
   "startTime": 1713025251708,
-  "endTime": 1713156071629,
+  "endTime": 1713158122745,
   "band_list": [
     {
       "raw_hot": 3410457,
@@ -51,6 +51,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 2246782,
+      "num": 1684237,
+      "word": "一家四口自杀母亲没死成被判死刑",
+      "onboard_time": 1713154580,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1937335,
       "num": 1937335,
       "word": "伊朗99%的导弹和无人机被拦截",
@@ -81,14 +89,6 @@
       "onboard_time": 1713091577,
       "rank": 10,
       "category": "电影"
-    },
-    {
-      "raw_hot": 1684237,
-      "num": 1684237,
-      "word": "一家四口自杀母亲没死成被判死刑",
-      "onboard_time": 1713154580,
-      "rank": 10,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1601825,
@@ -363,6 +363,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 780681,
+      "num": 780681,
+      "word": "歌手回归",
+      "onboard_time": 1713155601,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 779242,
       "num": 779242,
       "word": "科研人员出卖核心机密被执行死刑",
@@ -443,6 +451,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 729862,
+      "num": 611756,
+      "word": "女性生孩子的理由只有一个",
+      "onboard_time": 1713149958,
+      "rank": 22,
+      "category": "情感"
+    },
+    {
       "raw_hot": 719583,
       "num": 719583,
       "word": "38块钱居然能吃20个菜",
@@ -489,14 +505,6 @@
       "onboard_time": 1713089059,
       "rank": 7,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 666827,
-      "num": 611756,
-      "word": "女性生孩子的理由只有一个",
-      "onboard_time": 1713149958,
-      "rank": 22,
-      "category": "情感"
     },
     {
       "raw_hot": 664907,
@@ -915,6 +923,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 416047,
+      "num": 407740,
+      "word": "马龙给15岁对手上一课",
+      "onboard_time": 1713155361,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 415928,
       "num": 415928,
       "word": "NewJeans去部队探望金泰亨",
@@ -939,6 +955,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 405523,
+      "num": 405523,
+      "word": "贺军翔老了",
+      "onboard_time": 1713154940,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 404942,
       "num": 229110,
       "word": "美英拦截伊朗无人机",
@@ -953,6 +977,14 @@
       "onboard_time": 1713100278,
       "rank": 31,
       "category": "网红"
+    },
+    {
+      "raw_hot": 401684,
+      "num": 401684,
+      "word": "TFBOYS纪念十周年",
+      "onboard_time": 1713156498,
+      "rank": 13,
+      "category": "音乐"
     },
     {
       "raw_hot": 398843,
@@ -995,14 +1027,6 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 391999,
-      "num": 391999,
-      "word": "贺军翔老了",
-      "onboard_time": 1713154940,
-      "rank": 23,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 386988,
       "num": 217160,
       "word": "伊朗驻联合国代表团发表声明",
@@ -1041,6 +1065,14 @@
       "onboard_time": 1713130631,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 376753,
+      "num": 285694,
+      "word": "教你在微信上凭空消失",
+      "onboard_time": 1713155480,
+      "rank": 47,
+      "category": "情感"
     },
     {
       "raw_hot": 371061,
@@ -1193,14 +1225,6 @@
       "onboard_time": 1713081678,
       "rank": 18,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 337218,
-      "num": 337218,
-      "word": "歌手回归",
-      "onboard_time": 1713155601,
-      "rank": 18,
-      "category": "综艺"
     },
     {
       "raw_hot": 333049,
@@ -1475,14 +1499,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 285694,
-      "num": 285694,
-      "word": "教你在微信上凭空消失",
-      "onboard_time": 1713155480,
-      "rank": 47,
-      "category": "情感"
-    },
-    {
       "raw_hot": 285133,
       "num": 259560,
       "word": "养儿防老原来是儿媳妇养老",
@@ -1561,14 +1577,6 @@
       "onboard_time": 1713086777,
       "rank": 21,
       "category": "电影"
-    },
-    {
-      "raw_hot": 266517,
-      "num": 212876,
-      "word": "马龙给15岁对手上一课",
-      "onboard_time": 1713155361,
-      "rank": 38,
-      "category": "体育"
     },
     {
       "raw_hot": 266440,
@@ -1675,6 +1683,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 252270,
+      "num": 252270,
+      "word": "芭莎晒王一博",
+      "onboard_time": 1713156082,
+      "rank": 24,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 251602,
       "num": 251602,
       "word": "相机岛",
@@ -1761,6 +1777,14 @@
       "onboard_time": 1713064279,
       "rank": 36,
       "category": "美食"
+    },
+    {
+      "raw_hot": 241567,
+      "num": 241567,
+      "word": "吉林高速大赚5亿不分红",
+      "onboard_time": 1713155961,
+      "rank": 49,
+      "category": "财经"
     },
     {
       "raw_hot": 240050,
@@ -1923,6 +1947,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 223976,
+      "num": 192508,
+      "word": "嗯的标准拼音不是en",
+      "onboard_time": 1713155961,
+      "rank": 46,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 223502,
       "num": 223502,
       "word": "张靓颖 老娘没有唱破音",
@@ -1945,6 +1977,14 @@
       "onboard_time": 1713065178,
       "rank": 29,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 220727,
+      "num": 191008,
+      "word": "理想汽车回应车内摄像头拍不雅照",
+      "onboard_time": 1713155780,
+      "rank": 40,
+      "category": "汽车"
     },
     {
       "raw_hot": 218836,
@@ -2041,6 +2081,14 @@
       "onboard_time": 1713074297,
       "rank": 30,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 209427,
+      "num": 209427,
+      "word": "科切拉的风",
+      "onboard_time": 1713157339,
+      "rank": 27,
+      "category": "演出"
     },
     {
       "raw_hot": 209098,
@@ -2177,6 +2225,14 @@
       "onboard_time": 1713099557,
       "rank": 43,
       "category": "电影"
+    },
+    {
+      "raw_hot": 198250,
+      "num": 198250,
+      "word": "失业中产卖房自救",
+      "onboard_time": 1713157221,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 197357,
@@ -2395,12 +2451,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 180179,
-      "num": 180179,
-      "word": "理想汽车回应车内摄像头拍不雅照",
-      "onboard_time": 1713155780,
-      "rank": 40,
-      "category": "汽车"
+      "raw_hot": 178933,
+      "num": 178933,
+      "word": "林更新真不把观众当外人",
+      "onboard_time": 1713156323,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 178643,
@@ -2507,6 +2563,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 168402,
+      "num": 168402,
+      "word": "hybe kpop毁灭者",
+      "onboard_time": 1713157819,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 167760,
       "num": 167760,
       "word": "T1赛后发文",
@@ -2595,6 +2659,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 164142,
+      "num": 164142,
+      "word": "小米高管否认卖一部SU7亏6800元",
+      "onboard_time": 1713157880,
+      "rank": 38,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 163930,
       "num": 163930,
       "word": "苏州马拉松",
@@ -2641,14 +2713,6 @@
       "onboard_time": 1713145697,
       "rank": 37,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 161303,
-      "num": 161303,
-      "word": "嗯的标准拼音不是en",
-      "onboard_time": 1713155961,
-      "rank": 46,
-      "category": "科学科普"
     },
     {
       "raw_hot": 160848,
@@ -2891,6 +2955,22 @@
       "category": "演出"
     },
     {
+      "raw_hot": 143144,
+      "num": 143144,
+      "word": "在一片洼地里倒入大量水",
+      "onboard_time": 1713157580,
+      "rank": 41,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 142984,
+      "num": 142984,
+      "word": "惜花芷",
+      "onboard_time": 1713156323,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 142948,
       "num": 142948,
       "word": "悉尼袭击事件中死伤中国公民均为留学生",
@@ -2979,20 +3059,20 @@
       "category": "财经"
     },
     {
+      "raw_hot": 135870,
+      "num": 135870,
+      "word": "猫 你就当我晕了吧",
+      "onboard_time": 1713157940,
+      "rank": 45,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 135334,
       "num": 135334,
       "word": "5种素菜是热量炸弹",
       "onboard_time": 1713017721,
       "rank": 41,
       "category": "美食"
-    },
-    {
-      "raw_hot": 134830,
-      "num": 148602,
-      "word": "吉林高速大赚5亿不分红",
-      "onboard_time": 1713155961,
-      "rank": 49,
-      "category": "财经"
     },
     {
       "raw_hot": 133691,

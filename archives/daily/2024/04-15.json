@@ -1,6 +1,6 @@
 {
   "startTime": 1713132599554,
-  "endTime": 1713156071629,
+  "endTime": 1713158122745,
   "band_list": [
     {
       "raw_hot": 3410457,
@@ -19,19 +19,19 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 2246782,
+      "num": 1684237,
+      "word": "一家四口自杀母亲没死成被判死刑",
+      "onboard_time": 1713154580,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1710524,
       "num": 1710524,
       "word": "孩子理发138元妈妈嫌太贵只愿付24",
       "onboard_time": 1713118813,
       "rank": 0,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1684237,
-      "num": 1684237,
-      "word": "一家四口自杀母亲没死成被判死刑",
-      "onboard_time": 1713154580,
-      "rank": 10,
       "category": "社会新闻"
     },
     {
@@ -107,6 +107,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 780681,
+      "num": 780681,
+      "word": "歌手回归",
+      "onboard_time": 1713155601,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 779242,
       "num": 779242,
       "word": "科研人员出卖核心机密被执行死刑",
@@ -131,20 +139,20 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 729862,
+      "num": 611756,
+      "word": "女性生孩子的理由只有一个",
+      "onboard_time": 1713149958,
+      "rank": 22,
+      "category": "情感"
+    },
+    {
       "raw_hot": 709104,
       "num": 709104,
       "word": "拼多多上爱花钱的女人",
       "onboard_time": 1713152599,
       "rank": 32,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 666827,
-      "num": 611756,
-      "word": "女性生孩子的理由只有一个",
-      "onboard_time": 1713149958,
-      "rank": 22,
-      "category": "情感"
     },
     {
       "raw_hot": 654885,
@@ -219,6 +227,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 416047,
+      "num": 407740,
+      "word": "马龙给15岁对手上一课",
+      "onboard_time": 1713155361,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 413153,
       "num": 225271,
       "word": "很体面工资却不高的工作",
@@ -227,12 +243,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 405523,
+      "num": 405523,
+      "word": "贺军翔老了",
+      "onboard_time": 1713154940,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 403172,
       "num": 403172,
       "word": "钟美美回应带家人出国计划",
       "onboard_time": 1713100278,
       "rank": 16,
       "category": "网红"
+    },
+    {
+      "raw_hot": 401684,
+      "num": 401684,
+      "word": "TFBOYS纪念十周年",
+      "onboard_time": 1713156498,
+      "rank": 13,
+      "category": "音乐"
     },
     {
       "raw_hot": 398843,
@@ -251,20 +283,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 391999,
-      "num": 391999,
-      "word": "贺军翔老了",
-      "onboard_time": 1713154940,
-      "rank": 23,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 376944,
       "num": 376944,
       "word": "何超仪拄拐带老公亮相黄贯中画展",
       "onboard_time": 1713130631,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 376753,
+      "num": 285694,
+      "word": "教你在微信上凭空消失",
+      "onboard_time": 1713155480,
+      "rank": 47,
+      "category": "情感"
     },
     {
       "raw_hot": 374576,
@@ -315,14 +347,6 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 337218,
-      "num": 337218,
-      "word": "歌手回归",
-      "onboard_time": 1713155601,
-      "rank": 18,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 328846,
       "num": 328846,
       "word": "Angelababy金像奖红毯",
@@ -371,14 +395,6 @@
       "category": "艺人,综艺"
     },
     {
-      "raw_hot": 285694,
-      "num": 285694,
-      "word": "教你在微信上凭空消失",
-      "onboard_time": 1713155480,
-      "rank": 47,
-      "category": "情感"
-    },
-    {
       "raw_hot": 285133,
       "num": 259560,
       "word": "养儿防老原来是儿媳妇养老",
@@ -395,20 +411,20 @@
       "category": "电影"
     },
     {
-      "raw_hot": 266517,
-      "num": 212876,
-      "word": "马龙给15岁对手上一课",
-      "onboard_time": 1713155361,
-      "rank": 38,
-      "category": "体育"
-    },
-    {
       "raw_hot": 265156,
       "num": 265156,
       "word": "XG夺冠",
       "onboard_time": 1713137055,
       "rank": 16,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 252270,
+      "num": 252270,
+      "word": "芭莎晒王一博",
+      "onboard_time": 1713156082,
+      "rank": 24,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 251602,
@@ -441,6 +457,14 @@
       "onboard_time": 1713154821,
       "rank": 25,
       "category": "演出"
+    },
+    {
+      "raw_hot": 241567,
+      "num": 241567,
+      "word": "吉林高速大赚5亿不分红",
+      "onboard_time": 1713155961,
+      "rank": 49,
+      "category": "财经"
     },
     {
       "raw_hot": 239498,
@@ -491,6 +515,22 @@
       "category": "美食"
     },
     {
+      "raw_hot": 223976,
+      "num": 192508,
+      "word": "嗯的标准拼音不是en",
+      "onboard_time": 1713155961,
+      "rank": 46,
+      "category": "科学科普"
+    },
+    {
+      "raw_hot": 220727,
+      "num": 191008,
+      "word": "理想汽车回应车内摄像头拍不雅照",
+      "onboard_time": 1713155780,
+      "rank": 40,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 217928,
       "num": 301256,
       "word": "长城智驾直播挑战闹市区",
@@ -515,6 +555,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 209427,
+      "num": 209427,
+      "word": "科切拉的风",
+      "onboard_time": 1713157339,
+      "rank": 27,
+      "category": "演出"
+    },
+    {
       "raw_hot": 209098,
       "num": 209098,
       "word": "王嘉尔空降科切拉",
@@ -537,6 +585,14 @@
       "onboard_time": 1713154999,
       "rank": 33,
       "category": "电影"
+    },
+    {
+      "raw_hot": 198250,
+      "num": 198250,
+      "word": "失业中产卖房自救",
+      "onboard_time": 1713157221,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 196982,
@@ -611,12 +667,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 180179,
-      "num": 180179,
-      "word": "理想汽车回应车内摄像头拍不雅照",
-      "onboard_time": 1713155780,
-      "rank": 40,
-      "category": "汽车"
+      "raw_hot": 178933,
+      "num": 178933,
+      "word": "林更新真不把观众当外人",
+      "onboard_time": 1713156323,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 178643,
@@ -659,6 +715,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 168402,
+      "num": 168402,
+      "word": "hybe kpop毁灭者",
+      "onboard_time": 1713157819,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 166778,
       "num": 166778,
       "word": "荠菜煮鸡蛋的威力",
@@ -691,6 +755,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 164142,
+      "num": 164142,
+      "word": "小米高管否认卖一部SU7亏6800元",
+      "onboard_time": 1713157880,
+      "rank": 38,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 162099,
       "num": 162099,
       "word": "勒沃库森首夺德甲冠军",
@@ -705,14 +777,6 @@
       "onboard_time": 1713145697,
       "rank": 37,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 161303,
-      "num": 161303,
-      "word": "嗯的标准拼音不是en",
-      "onboard_time": 1713155961,
-      "rank": 46,
-      "category": "科学科普"
     },
     {
       "raw_hot": 158405,
@@ -763,6 +827,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 143144,
+      "num": 143144,
+      "word": "在一片洼地里倒入大量水",
+      "onboard_time": 1713157580,
+      "rank": 41,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 142984,
+      "num": 142984,
+      "word": "惜花芷",
+      "onboard_time": 1713156323,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 142948,
       "num": 142948,
       "word": "悉尼袭击事件中死伤中国公民均为留学生",
@@ -803,12 +883,12 @@
       "category": "财经"
     },
     {
-      "raw_hot": 134830,
-      "num": 148602,
-      "word": "吉林高速大赚5亿不分红",
-      "onboard_time": 1713155961,
-      "rank": 49,
-      "category": "财经"
+      "raw_hot": 135870,
+      "num": 135870,
+      "word": "猫 你就当我晕了吧",
+      "onboard_time": 1713157940,
+      "rank": 45,
+      "category": "幽默"
     },
     {
       "raw_hot": 133554,

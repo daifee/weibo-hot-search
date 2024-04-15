@@ -1,6 +1,6 @@
 {
   "startTime": 1711902044401,
-  "endTime": 1713156071629,
+  "endTime": 1713158122745,
   "band_list": [
     {
       "raw_hot": 16874674,
@@ -353,6 +353,14 @@
       "onboard_time": 1713049513,
       "rank": 0,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 2246782,
+      "num": 1684237,
+      "word": "一家四口自杀母亲没死成被判死刑",
+      "onboard_time": 1713154580,
+      "rank": 10,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 2243412,
@@ -912,14 +920,6 @@
       "word": "王婆说媒换人",
       "onboard_time": 1712123660,
       "rank": 11,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1684237,
-      "num": 1684237,
-      "word": "一家四口自杀母亲没死成被判死刑",
-      "onboard_time": 1713154580,
-      "rank": 10,
       "category": "社会新闻"
     },
     {
@@ -4771,6 +4771,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 780681,
+      "num": 780681,
+      "word": "歌手回归",
+      "onboard_time": 1713155601,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 780592,
       "num": 780592,
       "word": "考研失败成了小朋友的反面教材",
@@ -5345,6 +5353,14 @@
       "onboard_time": 1712194219,
       "rank": 28,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 729862,
+      "num": 611756,
+      "word": "女性生孩子的理由只有一个",
+      "onboard_time": 1713149958,
+      "rank": 22,
+      "category": "情感"
     },
     {
       "raw_hot": 728931,
@@ -6177,14 +6193,6 @@
       "onboard_time": 1712419217,
       "rank": 15,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 666827,
-      "num": 611756,
-      "word": "女性生孩子的理由只有一个",
-      "onboard_time": 1713149958,
-      "rank": 22,
-      "category": "情感"
     },
     {
       "raw_hot": 665980,
@@ -11587,6 +11595,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 416047,
+      "num": 407740,
+      "word": "马龙给15岁对手上一课",
+      "onboard_time": 1713155361,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 415928,
       "num": 415928,
       "word": "NewJeans去部队探望金泰亨",
@@ -11851,6 +11867,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 405523,
+      "num": 405523,
+      "word": "贺军翔老了",
+      "onboard_time": 1713154940,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 405504,
       "num": 405504,
       "word": "TES对战JDG",
@@ -11945,6 +11969,14 @@
       "onboard_time": 1712987418,
       "rank": 11,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 401684,
+      "num": 401684,
+      "word": "TFBOYS纪念十周年",
+      "onboard_time": 1713156498,
+      "rank": 13,
+      "category": "音乐"
     },
     {
       "raw_hot": 401613,
@@ -12224,14 +12256,6 @@
       "word": "刘若英报平安",
       "onboard_time": 1712112440,
       "rank": 21,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 391999,
-      "num": 391999,
-      "word": "贺军翔老了",
-      "onboard_time": 1713154940,
-      "rank": 23,
       "category": "艺人"
     },
     {
@@ -12737,6 +12761,14 @@
       "onboard_time": 1713130631,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 376753,
+      "num": 285694,
+      "word": "教你在微信上凭空消失",
+      "onboard_time": 1713155480,
+      "rank": 47,
+      "category": "情感"
     },
     {
       "raw_hot": 376612,
@@ -14145,14 +14177,6 @@
       "onboard_time": 1712897659,
       "rank": 19,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 337218,
-      "num": 337218,
-      "word": "歌手回归",
-      "onboard_time": 1713155601,
-      "rank": 18,
-      "category": "综艺"
     },
     {
       "raw_hot": 337048,
@@ -16643,14 +16667,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 285694,
-      "num": 285694,
-      "word": "教你在微信上凭空消失",
-      "onboard_time": 1713155480,
-      "rank": 47,
-      "category": "情感"
-    },
-    {
       "raw_hot": 285582,
       "num": 285582,
       "word": "天秤座的成长史",
@@ -17683,14 +17699,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 266517,
-      "num": 212876,
-      "word": "马龙给15岁对手上一课",
-      "onboard_time": 1713155361,
-      "rank": 38,
-      "category": "体育"
-    },
-    {
       "raw_hot": 266440,
       "num": 266440,
       "word": "T1和GEN决胜局",
@@ -18707,6 +18715,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 252270,
+      "num": 252270,
+      "word": "芭莎晒王一博",
+      "onboard_time": 1713156082,
+      "rank": 24,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 252248,
       "num": 252248,
       "word": "当你考研中途休息了一周后",
@@ -19617,6 +19633,14 @@
       "onboard_time": 1712310978,
       "rank": 25,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 241567,
+      "num": 241567,
+      "word": "吉林高速大赚5亿不分红",
+      "onboard_time": 1713155961,
+      "rank": 49,
+      "category": "财经"
     },
     {
       "raw_hot": 241518,
@@ -21083,6 +21107,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 223976,
+      "num": 192508,
+      "word": "嗯的标准拼音不是en",
+      "onboard_time": 1713155961,
+      "rank": 46,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 223970,
       "num": 251215,
       "word": "NBA球探对杨瀚森失望",
@@ -21369,6 +21401,14 @@
       "onboard_time": 1711963281,
       "rank": 19,
       "category": "财经"
+    },
+    {
+      "raw_hot": 220727,
+      "num": 191008,
+      "word": "理想汽车回应车内摄像头拍不雅照",
+      "onboard_time": 1713155780,
+      "rank": 40,
+      "category": "汽车"
     },
     {
       "raw_hot": 220610,
@@ -22537,6 +22577,14 @@
       "onboard_time": 1712416521,
       "rank": 37,
       "category": "体育"
+    },
+    {
+      "raw_hot": 209427,
+      "num": 209427,
+      "word": "科切拉的风",
+      "onboard_time": 1713157339,
+      "rank": 27,
+      "category": "演出"
     },
     {
       "raw_hot": 209330,
@@ -24417,6 +24465,14 @@
       "onboard_time": 1712056880,
       "rank": 27,
       "category": "体育"
+    },
+    {
+      "raw_hot": 198250,
+      "num": 198250,
+      "word": "失业中产卖房自救",
+      "onboard_time": 1713157221,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 198158,
@@ -27563,14 +27619,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 180179,
-      "num": 180179,
-      "word": "理想汽车回应车内摄像头拍不雅照",
-      "onboard_time": 1713155780,
-      "rank": 40,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 180073,
       "num": 223969,
       "word": "人人都是志愿者",
@@ -27721,6 +27769,14 @@
       "onboard_time": 1712715738,
       "rank": 42,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 178933,
+      "num": 178933,
+      "word": "林更新真不把观众当外人",
+      "onboard_time": 1713156323,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 178847,
@@ -29139,6 +29195,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 168402,
+      "num": 168402,
+      "word": "hybe kpop毁灭者",
+      "onboard_time": 1713157819,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 168350,
       "num": 168350,
       "word": "JackeyLoves手指队徽",
@@ -29723,6 +29787,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 164142,
+      "num": 164142,
+      "word": "小米高管否认卖一部SU7亏6800元",
+      "onboard_time": 1713157880,
+      "rank": 38,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 164141,
       "num": 164141,
       "word": "被同事养的巨型花惊艳了",
@@ -30137,14 +30209,6 @@
       "onboard_time": 1712090171,
       "rank": 21,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 161303,
-      "num": 161303,
-      "word": "嗯的标准拼音不是en",
-      "onboard_time": 1713155961,
-      "rank": 46,
-      "category": "科学科普"
     },
     {
       "raw_hot": 161275,
@@ -33163,6 +33227,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 143144,
+      "num": 143144,
+      "word": "在一片洼地里倒入大量水",
+      "onboard_time": 1713157580,
+      "rank": 41,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 143133,
       "num": 143133,
       "word": "大学生分手发癫现状",
@@ -34219,6 +34291,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 135870,
+      "num": 135870,
+      "word": "猫 你就当我晕了吧",
+      "onboard_time": 1713157940,
+      "rank": 45,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 135866,
       "num": 135866,
       "word": "像蛇皮的水果好吃吗",
@@ -34361,14 +34441,6 @@
       "onboard_time": 1712886739,
       "rank": 40,
       "category": "情感"
-    },
-    {
-      "raw_hot": 134830,
-      "num": 148602,
-      "word": "吉林高速大赚5亿不分红",
-      "onboard_time": 1713155961,
-      "rank": 49,
-      "category": "财经"
     },
     {
       "raw_hot": 134822,
