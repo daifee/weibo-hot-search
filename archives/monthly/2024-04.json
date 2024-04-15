@@ -1,6 +1,6 @@
 {
   "startTime": 1711902044401,
-  "endTime": 1713191641576,
+  "endTime": 1713194275708,
   "band_list": [
     {
       "raw_hot": 16874674,
@@ -281,6 +281,14 @@
       "onboard_time": 1712288598,
       "rank": 0,
       "category": "情感"
+    },
+    {
+      "raw_hot": 2436125,
+      "num": 854678,
+      "word": "小新被爆家暴出轨",
+      "onboard_time": 1713191599,
+      "rank": 45,
+      "category": "电竞"
     },
     {
       "raw_hot": 2427004,
@@ -4203,6 +4211,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 853423,
+      "num": 853423,
+      "word": "六芙珠宝",
+      "onboard_time": 1713191840,
+      "rank": 4,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 852839,
       "num": 852839,
       "word": "创造营亚洲C位是中国人",
@@ -5872,6 +5888,14 @@
       "word": "男子要求每天加夜班民警察觉不对劲抓捕一名逃犯",
       "onboard_time": 1712695450,
       "rank": 26,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 703153,
+      "num": 703153,
+      "word": "店员下错单被逼下跪向顾客道歉",
+      "onboard_time": 1713190881,
+      "rank": 24,
       "category": "社会新闻"
     },
     {
@@ -8571,6 +8595,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 542388,
+      "num": 542388,
+      "word": "王楚钦2比2安宰贤",
+      "onboard_time": 1713193341,
+      "rank": 6,
+      "category": "体育"
+    },
+    {
       "raw_hot": 542059,
       "num": 542059,
       "word": "原来韩国人追剧不看字幕的",
@@ -9275,6 +9307,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 511201,
+      "num": 511201,
+      "word": "IVE造型 幽默",
+      "onboard_time": 1713191240,
+      "rank": 12,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 510415,
       "num": 463806,
       "word": "暴雪国服玩家数据完整保留",
@@ -9313,6 +9353,14 @@
       "onboard_time": 1712310679,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 509490,
+      "num": 509490,
+      "word": "李耕耘的李白",
+      "onboard_time": 1713192979,
+      "rank": 8,
+      "category": "综艺"
     },
     {
       "raw_hot": 509240,
@@ -9673,14 +9721,6 @@
       "onboard_time": 1712205078,
       "rank": 25,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 494813,
-      "num": 494813,
-      "word": "IVE造型 幽默",
-      "onboard_time": 1713191240,
-      "rank": 12,
-      "category": "音乐"
     },
     {
       "raw_hot": 494139,
@@ -10475,6 +10515,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 465607,
+      "num": 325274,
+      "word": "数学140分以上就能被知名大学锁定吗",
+      "onboard_time": 1713193281,
+      "rank": 22,
+      "category": "教育"
+    },
+    {
       "raw_hot": 465346,
       "num": 465346,
       "word": "吴磊回北电吃面",
@@ -10889,6 +10937,14 @@
       "onboard_time": 1711901838,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 449837,
+      "num": 429381,
+      "word": "IVE 巴啦啦小魔仙",
+      "onboard_time": 1713192379,
+      "rank": 13,
+      "category": "音乐,时尚"
     },
     {
       "raw_hot": 449778,
@@ -12457,6 +12513,14 @@
       "onboard_time": 1712476399,
       "rank": 22,
       "category": "情感"
+    },
+    {
+      "raw_hot": 398906,
+      "num": 398906,
+      "word": "张元英向我求婚",
+      "onboard_time": 1713192979,
+      "rank": 14,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 398843,
@@ -15227,6 +15291,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 324341,
+      "num": 324341,
+      "word": "麦承欢的家真的拆迁了",
+      "onboard_time": 1713191779,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 324311,
       "num": 324311,
       "word": "福建震感",
@@ -16115,6 +16187,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 306672,
+      "num": 332881,
+      "word": "哈马斯领导人多个家人被炸死",
+      "onboard_time": 1713192260,
+      "rank": 19,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 306643,
       "num": 306643,
       "word": "原神阿蕾奇诺",
@@ -16987,14 +17067,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 291006,
-      "num": 327778,
-      "word": "店员下错单被逼下跪向顾客道歉",
-      "onboard_time": 1713190881,
-      "rank": 24,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 290865,
       "num": 237666,
       "word": "缺点是瘦的太快了",
@@ -17041,6 +17113,14 @@
       "onboard_time": 1712924837,
       "rank": 31,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 290339,
+      "num": 290339,
+      "word": "严浩翔 我们强得可怕",
+      "onboard_time": 1713193099,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 290229,
@@ -21171,6 +21251,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 231800,
+      "num": 231800,
+      "word": "辛芷蕾管不了秦岚一点",
+      "onboard_time": 1713191721,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 231688,
       "num": 231688,
       "word": "Flandre三连MVP",
@@ -23699,6 +23787,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 207074,
+      "num": 207074,
+      "word": "原汁原味 千与千寻",
+      "onboard_time": 1713192260,
+      "rank": 32,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 207009,
       "num": 207009,
       "word": "LGD BP",
@@ -25336,6 +25432,14 @@
       "word": "门童回归",
       "onboard_time": 1713173298,
       "rank": 31,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 198387,
+      "num": 198387,
+      "word": "王嘉尔刘雨昕合照",
+      "onboard_time": 1713193219,
+      "rank": 33,
       "category": "音乐"
     },
     {
@@ -27555,6 +27659,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 186501,
+      "num": 186501,
+      "word": "张真源吃播",
+      "onboard_time": 1713193580,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 186496,
       "num": 186496,
       "word": "薛之谦杭州不登游船登飞船",
@@ -29259,6 +29371,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 175163,
+      "num": 175163,
+      "word": "为什么女生比男生更容易长痘",
+      "onboard_time": 1713191480,
+      "rank": 48,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 175162,
       "num": 175162,
       "word": "cube新男团",
@@ -30379,6 +30499,14 @@
       "category": "艺人,作品衍生"
     },
     {
+      "raw_hot": 167114,
+      "num": 162922,
+      "word": "时代少年团花絮",
+      "onboard_time": 1713192920,
+      "rank": 40,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 167025,
       "num": 167025,
       "word": "我国废旧手机存量已超过20亿部",
@@ -30537,6 +30665,14 @@
       "onboard_time": 1712057359,
       "rank": 40,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 165934,
+      "num": 162908,
+      "word": "背着善宰跑 身高差",
+      "onboard_time": 1713194120,
+      "rank": 41,
+      "category": "剧集"
     },
     {
       "raw_hot": 165922,
@@ -31017,6 +31153,14 @@
       "onboard_time": 1712048300,
       "rank": 38,
       "category": "美食"
+    },
+    {
+      "raw_hot": 162790,
+      "num": 162790,
+      "word": "白鹿说上海话",
+      "onboard_time": 1713192620,
+      "rank": 42,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 162762,
@@ -32273,6 +32417,14 @@
       "onboard_time": 1712998218,
       "rank": 34,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 155392,
+      "num": 155392,
+      "word": "朴综星吉他弹奏ILLIT歌曲",
+      "onboard_time": 1713193881,
+      "rank": 45,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 155329,
@@ -34715,14 +34867,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 141184,
-      "num": 141184,
-      "word": "小新被爆家暴出轨",
-      "onboard_time": 1713191599,
-      "rank": 45,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 141135,
       "num": 187214,
       "word": "哪些日常习惯会让胃越来越脆",
@@ -35763,14 +35907,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 134661,
-      "num": 134661,
-      "word": "为什么女生比男生更容易长痘",
-      "onboard_time": 1713191480,
-      "rank": 48,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 134650,
       "num": 134650,
       "word": "卓澜江下线",
@@ -36177,6 +36313,14 @@
       "onboard_time": 1712542279,
       "rank": 46,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 131853,
+      "num": 131853,
+      "word": "打工人的二八定律",
+      "onboard_time": 1713192920,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 131798,
@@ -38609,6 +38753,14 @@
       "onboard_time": 1712835197,
       "rank": 47,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 108683,
+      "num": 131506,
+      "word": "中国银行回应暂停新车个贷传闻",
+      "onboard_time": 1713194062,
+      "rank": 49,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 108428,
