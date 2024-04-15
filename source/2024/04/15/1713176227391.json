@@ -1,0 +1,410 @@
+{
+  "runTime": 1713176227391,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 89093,
+        "num": 813639,
+        "word": "中国发布伏特台风黑客组织溯源报告",
+        "onboard_time": 1713145458,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2605339,
+        "num": 813442,
+        "word": "柳岩就差点名道姓了",
+        "onboard_time": 1713172338,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 116887,
+        "num": 738526,
+        "word": "今天是第九个全民国家安全教育日",
+        "onboard_time": 1713167359,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 887538,
+        "num": 729743,
+        "word": "86岁老人迎娶初恋女友",
+        "onboard_time": 1713169217,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 720517,
+        "num": 720517,
+        "word": "韩裔名厨承认借鉴老干妈辣酱",
+        "onboard_time": 1713173477,
+        "rank": 4,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 640752,
+        "num": 640752,
+        "word": "端午节放3天不调休",
+        "onboard_time": 1713145817,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 575313,
+        "num": 575313,
+        "word": "李显龙将辞职",
+        "onboard_time": 1713171619,
+        "rank": 6,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 512055,
+        "num": 512055,
+        "word": "林高远男单",
+        "onboard_time": 1713174378,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 318934,
+        "num": 318934,
+        "word": "拿到offer后买了人生第一套正装",
+        "onboard_time": 1713158839,
+        "rank": 8,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 313892,
+        "num": 313892,
+        "word": "太湖湾音乐节 不可抗力",
+        "onboard_time": 1713169397,
+        "rank": 9,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 1552540,
+        "num": 309177,
+        "word": "71岁保洁被开除后在物业办公室自杀",
+        "onboard_time": 1713174918,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 741791,
+        "num": 288853,
+        "word": "阚清子21岁至36岁颜值变化",
+        "onboard_time": 1713172757,
+        "rank": 11,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 520194,
+        "num": 286219,
+        "word": "荣梓杉中戏北电双第一",
+        "onboard_time": 1713163577,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 429458,
+        "num": 264979,
+        "word": "原来皮肤是最大的情绪器官",
+        "onboard_time": 1713172698,
+        "rank": 13,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 380141,
+        "num": 253714,
+        "word": "女性生孩子的理由只有一个",
+        "onboard_time": 1713149958,
+        "rank": 14,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 248876,
+        "num": 248876,
+        "word": "为什么火锅锅底越来越贵",
+        "onboard_time": 1713171198,
+        "rank": 15,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 248523,
+        "num": 248523,
+        "word": "五一档电影",
+        "onboard_time": 1713167538,
+        "rank": 16,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 239161,
+        "num": 239161,
+        "word": "中方敦促美方立即停止网络攻击",
+        "onboard_time": 1713169878,
+        "rank": 17,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 237958,
+        "num": 237958,
+        "word": "为什么医院禁止你送花给病人",
+        "onboard_time": 1713174619,
+        "rank": 18,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 223646,
+        "num": 223646,
+        "word": "薛之谦演唱会 一个人来的",
+        "onboard_time": 1713172099,
+        "rank": 19,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 282501,
+        "num": 223543,
+        "word": "黄子韬求导演管管徐艺洋",
+        "onboard_time": 1713167118,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 255789,
+        "num": 223060,
+        "word": "TFBOYS文案什么意思",
+        "onboard_time": 1713162918,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 248657,
+        "num": 222745,
+        "word": "任敏旗袍",
+        "onboard_time": 1713163457,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 221052,
+        "num": 222409,
+        "word": "容祖儿的失望显而易见了",
+        "onboard_time": 1713174319,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 240719,
+        "num": 222151,
+        "word": "一克拉肾结石",
+        "onboard_time": 1713165258,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 225791,
+        "num": 221902,
+        "word": "男生是否介意女生婚前有房贷",
+        "onboard_time": 1713169938,
+        "rank": 25,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 221664,
+        "num": 221664,
+        "word": "眼泪女王又要等六年",
+        "onboard_time": 1713166757,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 201387,
+        "num": 201387,
+        "word": "奔跑吧",
+        "onboard_time": 1713174797,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 171838,
+        "num": 171838,
+        "word": "朴宝蓝尸检结果",
+        "onboard_time": 1713159497,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 170801,
+        "num": 170801,
+        "word": "张杰高铁上读信",
+        "onboard_time": 1713175636,
+        "rank": 29,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 169563,
+        "num": 169563,
+        "word": "小县城为什么没有穿衣自由",
+        "onboard_time": 1713166218,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 161810,
+        "num": 161810,
+        "word": "胡锡进称今天大涨得益于国九条",
+        "onboard_time": 1713175218,
+        "rank": 31,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 157483,
+        "num": 157483,
+        "word": "李现任敏跳了fate",
+        "onboard_time": 1713168498,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 156823,
+        "num": 156823,
+        "word": "种地吧",
+        "onboard_time": 1713170418,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 156759,
+        "num": 156759,
+        "word": "当猫得知绝育医生的真实身份",
+        "onboard_time": 1713173597,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 155660,
+        "num": 155660,
+        "word": "朱一龙直播",
+        "onboard_time": 1713175998,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 147626,
+        "num": 147626,
+        "word": "中国女排2024世联赛大名单",
+        "onboard_time": 1713173057,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 144616,
+        "num": 144616,
+        "word": "李现 你们是雇的还是员工",
+        "onboard_time": 1713171796,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 142406,
+        "num": 142406,
+        "word": "特斯拉全球裁员10%",
+        "onboard_time": 1713168078,
+        "rank": 38,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 140714,
+        "num": 140714,
+        "word": "门童回归",
+        "onboard_time": 1713173298,
+        "rank": 39,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 139872,
+        "num": 139872,
+        "word": "歌手回归",
+        "onboard_time": 1713155601,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 136111,
+        "num": 136111,
+        "word": "甄嬛传 团综",
+        "onboard_time": 1713153319,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 121072,
+        "num": 121072,
+        "word": "3年前掉河里的20g金戒指捞上来了",
+        "onboard_time": 1713160638,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 118209,
+        "num": 118209,
+        "word": "外资涌入抄底A股",
+        "onboard_time": 1713166878,
+        "rank": 43,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 114527,
+        "num": 114527,
+        "word": "RIIZE预告",
+        "onboard_time": 1713174619,
+        "rank": 44,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 112239,
+        "num": 112239,
+        "word": "教你在微信上凭空消失",
+        "onboard_time": 1713155480,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 111172,
+        "num": 111172,
+        "word": "易烊千玺竖纹西装",
+        "onboard_time": 1713170837,
+        "rank": 46,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 110274,
+        "num": 110274,
+        "word": "卢广仲 北京草莓",
+        "onboard_time": 1713166577,
+        "rank": 47,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 105495,
+        "num": 105495,
+        "word": "babymonster 科切拉",
+        "onboard_time": 1713159618,
+        "rank": 48,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 102101,
+        "num": 102101,
+        "word": "莎头 可口可乐",
+        "onboard_time": 1713164117,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#坚定不移贯彻总体国家安全观#"
+    }
+  }
+}

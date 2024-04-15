@@ -1,6 +1,6 @@
 {
   "startTime": 1713132599554,
-  "endTime": 1713173705086,
+  "endTime": 1713176227391,
   "band_list": [
     {
       "raw_hot": 3410457,
@@ -9,6 +9,14 @@
       "onboard_time": 1713145817,
       "rank": 0,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2605339,
+      "num": 813442,
+      "word": "柳岩就差点名道姓了",
+      "onboard_time": 1713172338,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 2528771,
@@ -43,20 +51,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1552540,
+      "num": 309177,
+      "word": "71岁保洁被开除后在物业办公室自杀",
+      "onboard_time": 1713174918,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1350821,
-      "num": 704438,
+      "num": 729743,
       "word": "86岁老人迎娶初恋女友",
       "onboard_time": 1713169217,
       "rank": 34,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1348031,
-      "num": 609813,
-      "word": "柳岩就差点名道姓了",
-      "onboard_time": 1713172338,
-      "rank": 30,
-      "category": "综艺"
     },
     {
       "raw_hot": 1228396,
@@ -100,7 +108,7 @@
     },
     {
       "raw_hot": 1002149,
-      "num": 548700,
+      "num": 575313,
       "word": "李显龙将辞职",
       "onboard_time": 1713171619,
       "rank": 4,
@@ -227,6 +235,22 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 741791,
+      "num": 360197,
+      "word": "阚清子21岁至36岁颜值变化",
+      "onboard_time": 1713172757,
+      "rank": 11,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 720517,
+      "num": 720517,
+      "word": "韩裔名厨承认借鉴老干妈辣酱",
+      "onboard_time": 1713173477,
+      "rank": 38,
+      "category": "美食"
+    },
+    {
       "raw_hot": 709104,
       "num": 709104,
       "word": "拼多多上爱花钱的女人",
@@ -331,6 +355,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 512055,
+      "num": 512055,
+      "word": "林高远男单",
+      "onboard_time": 1713174378,
+      "rank": 7,
+      "category": "体育"
+    },
+    {
       "raw_hot": 507188,
       "num": 507188,
       "word": "卡琳娜将出席间谍过家家首映礼",
@@ -379,14 +411,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 435117,
-      "num": 360197,
-      "word": "阚清子21岁至36岁颜值变化",
-      "onboard_time": 1713172757,
-      "rank": 11,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 432840,
       "num": 432840,
       "word": "华为P70三角形相机岛设计实锤",
@@ -401,6 +425,14 @@
       "onboard_time": 1713166577,
       "rank": 7,
       "category": "演出"
+    },
+    {
+      "raw_hot": 429458,
+      "num": 264979,
+      "word": "原来皮肤是最大的情绪器官",
+      "onboard_time": 1713172698,
+      "rank": 29,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 426072,
@@ -731,6 +763,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 248876,
+      "num": 248876,
+      "word": "为什么火锅锅底越来越贵",
+      "onboard_time": 1713171198,
+      "rank": 36,
+      "category": "美食"
+    },
+    {
       "raw_hot": 247522,
       "num": 247522,
       "word": "薛之谦演唱会 一个人来的",
@@ -740,7 +780,7 @@
     },
     {
       "raw_hot": 247099,
-      "num": 757219,
+      "num": 813639,
       "word": "中国发布伏特台风黑客组织溯源报告",
       "onboard_time": 1713145458,
       "rank": 4,
@@ -777,6 +817,14 @@
       "onboard_time": 1713169277,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 237958,
+      "num": 237958,
+      "word": "为什么医院禁止你送花给病人",
+      "onboard_time": 1713174619,
+      "rank": 18,
+      "category": "科学科普"
     },
     {
       "raw_hot": 234655,
@@ -857,6 +905,14 @@
       "onboard_time": 1713155961,
       "rank": 46,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 221052,
+      "num": 222409,
+      "word": "容祖儿的失望显而易见了",
+      "onboard_time": 1713174319,
+      "rank": 23,
+      "category": "综艺"
     },
     {
       "raw_hot": 220727,
@@ -987,20 +1043,20 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 201387,
+      "num": 201387,
+      "word": "奔跑吧",
+      "onboard_time": 1713174797,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 201224,
       "num": 201224,
       "word": "荣梓杉演技",
       "onboard_time": 1713165497,
       "rank": 28,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 199711,
-      "num": 199711,
-      "word": "为什么火锅锅底越来越贵",
-      "onboard_time": 1713171198,
-      "rank": 36,
-      "category": "美食"
     },
     {
       "raw_hot": 199506,
@@ -1073,14 +1129,6 @@
       "onboard_time": 1713168318,
       "rank": 31,
       "category": "电影"
-    },
-    {
-      "raw_hot": 189532,
-      "num": 189532,
-      "word": "原来皮肤是最大的情绪器官",
-      "onboard_time": 1713172698,
-      "rank": 29,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 189499,
@@ -1195,6 +1243,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 170801,
+      "num": 170801,
+      "word": "张杰高铁上读信",
+      "onboard_time": 1713175636,
+      "rank": 29,
+      "category": "演出"
+    },
+    {
       "raw_hot": 170506,
       "num": 170506,
       "word": "吃这3种水果或加重湿气",
@@ -1267,6 +1323,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 161810,
+      "num": 161810,
+      "word": "胡锡进称今天大涨得益于国九条",
+      "onboard_time": 1713175218,
+      "rank": 31,
+      "category": "财经"
+    },
+    {
       "raw_hot": 161376,
       "num": 161376,
       "word": "种地吧直播",
@@ -1291,12 +1355,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 156945,
-      "num": 156945,
-      "word": "韩裔名厨承认借鉴老干妈辣酱",
-      "onboard_time": 1713173477,
-      "rank": 38,
-      "category": "美食"
+      "raw_hot": 156759,
+      "num": 156759,
+      "word": "当猫得知绝育医生的真实身份",
+      "onboard_time": 1713173597,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 156702,
@@ -1313,6 +1377,14 @@
       "onboard_time": 1713159198,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 155660,
+      "num": 155660,
+      "word": "朱一龙直播",
+      "onboard_time": 1713175998,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 154082,
@@ -1468,7 +1540,7 @@
     },
     {
       "raw_hot": 136404,
-      "num": 674326,
+      "num": 738526,
       "word": "今天是第九个全民国家安全教育日",
       "onboard_time": 1713167359,
       "rank": 2,
@@ -1659,14 +1731,6 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 116123,
-      "num": 116123,
-      "word": "当猫得知绝育医生的真实身份",
-      "onboard_time": 1713173597,
-      "rank": 49,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 115819,
       "num": 115819,
       "word": "想看刘宇宁被吓哭",
@@ -1681,6 +1745,14 @@
       "onboard_time": 1713137537,
       "rank": 34,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 114527,
+      "num": 114527,
+      "word": "RIIZE预告",
+      "onboard_time": 1713174619,
+      "rank": 44,
+      "category": "音乐"
     },
     {
       "raw_hot": 113507,
