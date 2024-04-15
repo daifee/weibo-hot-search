@@ -1,6 +1,6 @@
 {
   "startTime": 1711902044401,
-  "endTime": 1713172606430,
+  "endTime": 1713173705086,
   "band_list": [
     {
       "raw_hot": 16874674,
@@ -1683,6 +1683,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1350821,
+      "num": 704438,
+      "word": "86岁老人迎娶初恋女友",
+      "onboard_time": 1713169217,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1350746,
       "num": 1175344,
       "word": "留守女童困在软色情短视频里",
@@ -1697,6 +1705,14 @@
       "onboard_time": 1712325799,
       "rank": 10,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 1348031,
+      "num": 609813,
+      "word": "柳岩就差点名道姓了",
+      "onboard_time": 1713172338,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 1341302,
@@ -3123,6 +3139,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1002149,
+      "num": 548700,
+      "word": "李显龙将辞职",
+      "onboard_time": 1713171619,
+      "rank": 4,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 1001086,
       "num": 556736,
       "word": "官方通报昆明多家医院现男性根浴",
@@ -3576,14 +3600,6 @@
       "word": "胡锡进称应该给虐猫男生改正机会",
       "onboard_time": 1712457918,
       "rank": 5,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 926190,
-      "num": 557848,
-      "word": "86岁老人迎娶初恋女友",
-      "onboard_time": 1713169217,
-      "rank": 34,
       "category": "社会新闻"
     },
     {
@@ -4513,14 +4529,6 @@
       "onboard_time": 1713162918,
       "rank": 11,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 810605,
-      "num": 548700,
-      "word": "李显龙将辞职",
-      "onboard_time": 1713171619,
-      "rank": 4,
-      "category": "国外时政"
     },
     {
       "raw_hot": 810581,
@@ -11185,6 +11193,14 @@
       "onboard_time": 1712894660,
       "rank": 16,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 435117,
+      "num": 360197,
+      "word": "阚清子21岁至36岁颜值变化",
+      "onboard_time": 1713172757,
+      "rank": 11,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 434808,
@@ -19435,6 +19451,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 247522,
+      "num": 247522,
+      "word": "薛之谦演唱会 一个人来的",
+      "onboard_time": 1713172099,
+      "rank": 34,
+      "category": "演出"
+    },
+    {
       "raw_hot": 247428,
       "num": 247428,
       "word": "花间令郡主自杀了",
@@ -19452,7 +19476,7 @@
     },
     {
       "raw_hot": 247099,
-      "num": 715674,
+      "num": 757219,
       "word": "中国发布伏特台风黑客组织溯源报告",
       "onboard_time": 1713145458,
       "rank": 4,
@@ -21473,14 +21497,6 @@
       "onboard_time": 1712654479,
       "rank": 27,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 223398,
-      "num": 202524,
-      "word": "柳岩就差点名道姓了",
-      "onboard_time": 1713172338,
-      "rank": 30,
-      "category": "综艺"
     },
     {
       "raw_hot": 223306,
@@ -24587,6 +24603,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 199711,
+      "num": 199711,
+      "word": "为什么火锅锅底越来越贵",
+      "onboard_time": 1713171198,
+      "rank": 36,
+      "category": "美食"
+    },
+    {
       "raw_hot": 199641,
       "num": 199641,
       "word": "才发现家稳的关键是老人稳",
@@ -24849,6 +24873,14 @@
       "onboard_time": 1712543779,
       "rank": 47,
       "category": "情感"
+    },
+    {
+      "raw_hot": 198393,
+      "num": 187784,
+      "word": "门童回归",
+      "onboard_time": 1713173298,
+      "rank": 31,
+      "category": "音乐"
     },
     {
       "raw_hot": 198363,
@@ -26507,6 +26539,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 189532,
+      "num": 189532,
+      "word": "原来皮肤是最大的情绪器官",
+      "onboard_time": 1713172698,
+      "rank": 29,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 189509,
       "num": 189509,
       "word": "aki",
@@ -26993,14 +27033,6 @@
       "onboard_time": 1712725641,
       "rank": 41,
       "category": "母婴育儿"
-    },
-    {
-      "raw_hot": 186586,
-      "num": 186586,
-      "word": "薛之谦演唱会 一个人来的",
-      "onboard_time": 1713172099,
-      "rank": 34,
-      "category": "演出"
     },
     {
       "raw_hot": 186555,
@@ -28283,14 +28315,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 178253,
-      "num": 178253,
-      "word": "为什么火锅锅底越来越贵",
-      "onboard_time": 1713171198,
-      "rank": 36,
-      "category": "美食"
-    },
-    {
       "raw_hot": 178244,
       "num": 178244,
       "word": "给狗狗做的饭被男朋友偷吃了",
@@ -28977,6 +29001,14 @@
       "onboard_time": 1712404158,
       "rank": 36,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 173684,
+      "num": 173684,
+      "word": "中国女排2024世联赛大名单",
+      "onboard_time": 1713173057,
+      "rank": 34,
+      "category": "体育"
     },
     {
       "raw_hot": 173468,
@@ -31387,6 +31419,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 156945,
+      "num": 156945,
+      "word": "韩裔名厨承认借鉴老干妈辣酱",
+      "onboard_time": 1713173477,
+      "rank": 38,
+      "category": "美食"
+    },
+    {
       "raw_hot": 156896,
       "num": 156896,
       "word": "赵露思内核",
@@ -32297,6 +32337,14 @@
       "onboard_time": 1712737459,
       "rank": 45,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 151656,
+      "num": 151656,
+      "word": "Mai住院",
+      "onboard_time": 1713173057,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 151641,
@@ -34748,7 +34796,7 @@
     },
     {
       "raw_hot": 136404,
-      "num": 603916,
+      "num": 674326,
       "word": "今天是第九个全民国家安全教育日",
       "onboard_time": 1713167359,
       "rank": 2,
@@ -35361,6 +35409,14 @@
       "onboard_time": 1712829439,
       "rank": 43,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 132262,
+      "num": 132262,
+      "word": "蔡嵩松回应",
+      "onboard_time": 1713172938,
+      "rank": 46,
+      "category": "财经"
     },
     {
       "raw_hot": 132247,
@@ -37265,6 +37321,14 @@
       "onboard_time": 1712357833,
       "rank": 25,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 116123,
+      "num": 116123,
+      "word": "当猫得知绝育医生的真实身份",
+      "onboard_time": 1713173597,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 115984,
