@@ -1,6 +1,6 @@
 {
   "startTime": 1711902044401,
-  "endTime": 1713202441769,
+  "endTime": 1713205323676,
   "band_list": [
     {
       "raw_hot": 16874674,
@@ -40883,6 +40883,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 59630,
+      "num": 59630,
+      "word": "罗伯特是AI林萧吧",
+      "onboard_time": 1713202693,
+      "rank": 13,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 59476,
       "num": 59476,
       "word": "小米SU7锁单前退定金即时到账",
@@ -41787,20 +41795,20 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 31978,
+      "num": 35218,
+      "word": "JDG无缘MSI",
+      "onboard_time": 1713202273,
+      "rank": 49,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 31834,
       "num": 39106,
       "word": "陈楚生成都站售罄",
       "onboard_time": 1712075896,
       "rank": 48,
       "category": "演出"
-    },
-    {
-      "raw_hot": 31415,
-      "num": 35218,
-      "word": "JDG无缘MSI",
-      "onboard_time": 1713202273,
-      "rank": 49,
-      "category": "电竞"
     },
     {
       "raw_hot": 31314,
@@ -42041,6 +42049,14 @@
       "onboard_time": 1712863451,
       "rank": 45,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 25932,
+      "num": 25932,
+      "word": "群星闪耀时 谍战剧",
+      "onboard_time": 1713204551,
+      "rank": 44,
+      "category": "剧集"
     },
     {
       "raw_hot": 25511,
@@ -42433,6 +42449,14 @@
       "onboard_time": 1712263451,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 18660,
+      "num": 24111,
+      "word": "为什么网上买药比实体店更便宜",
+      "onboard_time": 1713205213,
+      "rank": 49,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 18638,
