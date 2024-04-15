@@ -1,6 +1,6 @@
 {
   "startTime": 1713132599554,
-  "endTime": 1713176227391,
+  "endTime": 1713177239438,
   "band_list": [
     {
       "raw_hot": 3410457,
@@ -35,6 +35,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1925463,
+      "num": 309177,
+      "word": "71岁保洁被开除后在物业办公室自杀",
+      "onboard_time": 1713174918,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1780350,
       "num": 412511,
       "word": "荣梓杉中戏北电双第一",
@@ -48,14 +56,6 @@
       "word": "孩子理发138元妈妈嫌太贵只愿付24",
       "onboard_time": 1713118813,
       "rank": 0,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1552540,
-      "num": 309177,
-      "word": "71岁保洁被开除后在物业办公室自杀",
-      "onboard_time": 1713174918,
-      "rank": 10,
       "category": "社会新闻"
     },
     {
@@ -243,7 +243,7 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 720517,
+      "raw_hot": 738179,
       "num": 720517,
       "word": "韩裔名厨承认借鉴老干妈辣酱",
       "onboard_time": 1713173477,
@@ -329,6 +329,14 @@
       "onboard_time": 1713136575,
       "rank": 5,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 543431,
+      "num": 290712,
+      "word": "为什么医院禁止你送花给病人",
+      "onboard_time": 1713174619,
+      "rank": 18,
+      "category": "科学科普"
     },
     {
       "raw_hot": 521575,
@@ -428,7 +436,7 @@
     },
     {
       "raw_hot": 429458,
-      "num": 264979,
+      "num": 283486,
       "word": "原来皮肤是最大的情绪器官",
       "onboard_time": 1713172698,
       "rank": 29,
@@ -667,6 +675,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 298169,
+      "num": 298169,
+      "word": "朱一龙直播",
+      "onboard_time": 1713175998,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 290466,
       "num": 290466,
       "word": "樊振东vs杜达",
@@ -705,6 +721,14 @@
       "onboard_time": 1713150979,
       "rank": 23,
       "category": "情感"
+    },
+    {
+      "raw_hot": 279599,
+      "num": 279599,
+      "word": "容祖儿的失望显而易见了",
+      "onboard_time": 1713174319,
+      "rank": 23,
+      "category": "综艺"
     },
     {
       "raw_hot": 276152,
@@ -819,14 +843,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 237958,
-      "num": 237958,
-      "word": "为什么医院禁止你送花给病人",
-      "onboard_time": 1713174619,
-      "rank": 18,
-      "category": "科学科普"
-    },
-    {
       "raw_hot": 234655,
       "num": 234655,
       "word": "暴雪前总裁希望玩家给小费",
@@ -883,6 +899,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 228004,
+      "num": 228004,
+      "word": "迪丽热巴湿发路透",
+      "onboard_time": 1713176358,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 225559,
       "num": 225559,
       "word": "把肯德基1995年价格表挖出来了",
@@ -905,14 +929,6 @@
       "onboard_time": 1713155961,
       "rank": 46,
       "category": "科学科普"
-    },
-    {
-      "raw_hot": 221052,
-      "num": 222409,
-      "word": "容祖儿的失望显而易见了",
-      "onboard_time": 1713174319,
-      "rank": 23,
-      "category": "综艺"
     },
     {
       "raw_hot": 220727,
@@ -993,6 +1009,14 @@
       "onboard_time": 1713144619,
       "rank": 28,
       "category": "演出"
+    },
+    {
+      "raw_hot": 208354,
+      "num": 208354,
+      "word": "门童in了",
+      "onboard_time": 1713176838,
+      "rank": 25,
+      "category": "音乐"
     },
     {
       "raw_hot": 207566,
@@ -1099,6 +1123,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 195215,
+      "num": 195215,
+      "word": "官方回应婆婆杀害儿媳3只狗",
+      "onboard_time": 1713176898,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 194570,
       "num": 194570,
       "word": "电视剧大生意人官宣",
@@ -1185,6 +1217,14 @@
       "onboard_time": 1713156323,
       "rank": 34,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 178749,
+      "num": 178749,
+      "word": "林高远2比2普卡",
+      "onboard_time": 1713176419,
+      "rank": 33,
+      "category": "体育"
     },
     {
       "raw_hot": 178643,
@@ -1339,6 +1379,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 160050,
+      "num": 160050,
+      "word": "当猫得知绝育医生的真实身份",
+      "onboard_time": 1713173597,
+      "rank": 49,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 158405,
       "num": 158405,
       "word": "国际金价疯涨金饰却遇冷",
@@ -1355,14 +1403,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 156759,
-      "num": 156759,
-      "word": "当猫得知绝育医生的真实身份",
-      "onboard_time": 1713173597,
-      "rank": 49,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 156702,
       "num": 156702,
       "word": "LPL春决",
@@ -1377,14 +1417,6 @@
       "onboard_time": 1713159198,
       "rank": 37,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 155660,
-      "num": 155660,
-      "word": "朱一龙直播",
-      "onboard_time": 1713175998,
-      "rank": 35,
-      "category": "艺人"
     },
     {
       "raw_hot": 154082,
@@ -1537,6 +1569,14 @@
       "onboard_time": 1713146657,
       "rank": 42,
       "category": "财经"
+    },
+    {
+      "raw_hot": 137220,
+      "num": 137220,
+      "word": "福宝出外场了",
+      "onboard_time": 1713177019,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 136404,
@@ -1811,11 +1851,27 @@
       "category": "电影"
     },
     {
+      "raw_hot": 104512,
+      "num": 104512,
+      "word": "诺米谢帝同一场音乐节",
+      "onboard_time": 1713177137,
+      "rank": 48,
+      "category": "演出"
+    },
+    {
       "raw_hot": 102809,
       "num": 205899,
       "word": "魏建军带头卷智驾直播",
       "onboard_time": 1713150619,
       "rank": 29,
+      "category": "汽车"
+    },
+    {
+      "raw_hot": 99651,
+      "num": 202139,
+      "word": "一人分享一个选车在意的小细节",
+      "onboard_time": 1713176478,
+      "rank": 27,
       "category": "汽车"
     },
     {
