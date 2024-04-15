@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/04/01 00:20:44 ~ 2024/04/16 06:35:09
+本榜单时间：2024/04/01 00:20:44 ~ 2024/04/16 07:17:01
 </p>
 </blockquote>
 <p>
@@ -2453,6 +2453,12 @@ TFBOYS组合没解散（热度：1029893）
 <li>
 <a href="https://s.weibo.com/weibo?q=%233%E5%B9%B4%E5%89%8D%E6%8E%89%E6%B2%B3%E9%87%8C%E7%9A%8420g%E9%87%91%E6%88%92%E6%8C%87%E6%8D%9E%E4%B8%8A%E6%9D%A5%E4%BA%86%23" target="weibo">
 3年前掉河里的20g金戒指捞上来了（热度：995049）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E5%BD%93%E4%BC%97%E6%89%92%E5%85%89%E5%89%8D%E5%A5%B3%E5%8F%8B%E8%A1%A3%E6%9C%8D%E8%8E%B7%E5%88%915%E5%B9%B4%23" target="weibo">
+男子当众扒光前女友衣服获刑5年（热度：994860）
 </a>
 </li>
 
@@ -6005,12 +6011,6 @@ TFBOYS还会发新歌吗（热度：596054）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%AB%98%E9%93%81%E4%BC%9A%E6%83%A9%E7%BD%9A%E6%AF%8F%E4%B8%AA%E8%8B%B9%E6%9E%9C%E7%94%A8%E6%88%B7%23" target="weibo">
 高铁会惩罚每个苹果用户（热度：575219）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%81%94%E5%90%88%E5%9B%BD%E7%A7%98%E4%B9%A6%E9%95%BF%E8%B0%B4%E8%B4%A3%E4%BC%8A%E6%9C%97%23" target="weibo">
-联合国秘书长谴责伊朗（热度：574076）
 </a>
 </li>
 

@@ -1,6 +1,6 @@
 {
   "startTime": 1713025251708,
-  "endTime": 1713220509077,
+  "endTime": 1713223021055,
   "band_list": [
     {
       "raw_hot": 3410457,
@@ -312,6 +312,14 @@
       "word": "3年前掉河里的20g金戒指捞上来了",
       "onboard_time": 1713160638,
       "rank": 36,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 994860,
+      "num": 319273,
+      "word": "男子当众扒光前女友衣服获刑5年",
+      "onboard_time": 1713207971,
+      "rank": 27,
       "category": "社会新闻"
     },
     {
@@ -1259,14 +1267,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 455151,
-      "num": 162141,
-      "word": "男子当众扒光前女友衣服获刑5年",
-      "onboard_time": 1713207971,
-      "rank": 27,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 449837,
       "num": 429381,
       "word": "IVE 巴啦啦小魔仙",
@@ -1411,6 +1411,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 416660,
+      "num": 416660,
+      "word": "45岁儿子决定和妈妈重新认识一次",
+      "onboard_time": 1713214150,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 416047,
       "num": 407740,
       "word": "马龙给15岁对手上一课",
@@ -1505,6 +1513,14 @@
       "onboard_time": 1713099619,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 397695,
+      "num": 154712,
+      "word": "胆固醇之王原来是它",
+      "onboard_time": 1713217810,
+      "rank": 11,
+      "category": "健康医疗,科学科普"
     },
     {
       "raw_hot": 396854,
@@ -1987,6 +2003,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 313978,
+      "num": 313978,
+      "word": "为什么网上买药比实体店更便宜",
+      "onboard_time": 1713205213,
+      "rank": 49,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 313224,
       "num": 297074,
       "word": "天水麻辣烫让杨国福张亮慌了吗",
@@ -2449,6 +2473,14 @@
       "onboard_time": 1713104780,
       "rank": 37,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 255372,
+      "num": 89631,
+      "word": "上公厕马桶不垫纸会被传染疾病吗",
+      "onboard_time": 1713219733,
+      "rank": 30,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 253622,
@@ -3025,6 +3057,14 @@
       "onboard_time": 1713144619,
       "rank": 28,
       "category": "演出"
+    },
+    {
+      "raw_hot": 208612,
+      "num": 208612,
+      "word": "陈晓光头颜值",
+      "onboard_time": 1713209291,
+      "rank": 44,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 208354,
@@ -3683,14 +3723,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 174747,
-      "num": 174747,
-      "word": "45岁儿子决定和妈妈重新认识一次",
-      "onboard_time": 1713214150,
-      "rank": 5,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 173981,
       "num": 173981,
       "word": "勇士冲进附加赛",
@@ -4017,14 +4049,6 @@
       "onboard_time": 1713184278,
       "rank": 35,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 158974,
-      "num": 158974,
-      "word": "为什么网上买药比实体店更便宜",
-      "onboard_time": 1713205213,
-      "rank": 49,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 158719,
@@ -4627,14 +4651,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 133904,
-      "num": 71965,
-      "word": "胆固醇之王原来是它",
-      "onboard_time": 1713217810,
-      "rank": 11,
-      "category": "健康医疗,科学科普"
-    },
-    {
       "raw_hot": 133691,
       "num": 133691,
       "word": "元与均棋",
@@ -5163,12 +5179,12 @@
       "category": "健康医疗,美妆"
     },
     {
-      "raw_hot": 91688,
-      "num": 91688,
-      "word": "陈晓光头颜值",
-      "onboard_time": 1713209291,
-      "rank": 44,
-      "category": "作品衍生"
+      "raw_hot": 92168,
+      "num": 92168,
+      "word": "宋茜周渝民新剧",
+      "onboard_time": 1713199875,
+      "rank": 35,
+      "category": "剧集"
     },
     {
       "raw_hot": 91293,
@@ -5225,6 +5241,14 @@
       "onboard_time": 1713106881,
       "rank": 42,
       "category": "情感,网红"
+    },
+    {
+      "raw_hot": 77443,
+      "num": 61485,
+      "word": "重庆大风暴雨",
+      "onboard_time": 1713222916,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 77410,
@@ -5299,14 +5323,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 68198,
-      "num": 68198,
-      "word": "宋茜周渝民新剧",
-      "onboard_time": 1713199875,
-      "rank": 35,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 66771,
       "num": 65122,
       "word": "长期宅在家里能量是不流通的",
@@ -5339,6 +5355,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 62417,
+      "num": 61248,
+      "word": "兴安里归麦承欢了",
+      "onboard_time": 1713221174,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 62368,
       "num": 62368,
       "word": "罗伯特是AI林萧吧",
@@ -5355,12 +5379,28 @@
       "category": "财经"
     },
     {
+      "raw_hot": 59935,
+      "num": 59935,
+      "word": "王一博追风者饭拍",
+      "onboard_time": 1713218171,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 58710,
       "num": 65555,
       "word": "AG 现场复盘",
       "onboard_time": 1713014658,
       "rank": 49,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 56003,
+      "num": 56003,
+      "word": "浙江人爱吃的地衣大量出现价格还不低",
+      "onboard_time": 1713215050,
+      "rank": 45,
+      "category": "美食"
     },
     {
       "raw_hot": 54715,
@@ -5371,12 +5411,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 53463,
-      "num": 32063,
-      "word": "上公厕马桶不垫纸会被传染疾病吗",
-      "onboard_time": 1713219733,
-      "rank": 30,
-      "category": "健康医疗"
+      "raw_hot": 53464,
+      "num": 53464,
+      "word": "杨紫说泡水戏很困难",
+      "onboard_time": 1713216672,
+      "rank": 46,
+      "category": "剧集"
     },
     {
       "raw_hot": 53122,
@@ -5459,14 +5499,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 38547,
-      "num": 38547,
-      "word": "浙江人爱吃的地衣大量出现价格还不低",
-      "onboard_time": 1713215050,
-      "rank": 45,
-      "category": "美食"
-    },
-    {
       "raw_hot": 36753,
       "num": 41524,
       "word": "海仁表白",
@@ -5507,14 +5539,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 30836,
-      "num": 30836,
-      "word": "杨紫说泡水戏很困难",
-      "onboard_time": 1713216672,
-      "rank": 46,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 29647,
       "num": 34292,
       "word": "张云雷酷狗唱玩会",
@@ -5529,14 +5553,6 @@
       "onboard_time": 1713069618,
       "rank": 41,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 28341,
-      "num": 28341,
-      "word": "王一博追风者饭拍",
-      "onboard_time": 1713218171,
-      "rank": 41,
-      "category": "剧集"
     },
     {
       "raw_hot": 27698,
@@ -5659,6 +5675,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 18716,
+      "num": 928367,
+      "word": "汇聚起维护国家安全的强大力量",
+      "onboard_time": 1713187099,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 18299,
       "num": 171928,
       "word": "P5X出了客家话配音",
@@ -5713,14 +5737,6 @@
       "onboard_time": 1713070518,
       "rank": 45,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 10871,
-      "num": 928367,
-      "word": "汇聚起维护国家安全的强大力量",
-      "onboard_time": 1713187099,
-      "rank": 2,
-      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
