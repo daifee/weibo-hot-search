@@ -1,7 +1,15 @@
 {
   "startTime": 1713025251708,
-  "endTime": 1713139505424,
+  "endTime": 1713152554488,
   "band_list": [
+    {
+      "raw_hot": 3410457,
+      "num": 3410457,
+      "word": "端午节放3天不调休",
+      "onboard_time": 1713145817,
+      "rank": 0,
+      "category": "社会新闻"
+    },
     {
       "raw_hot": 3131894,
       "num": 3131894,
@@ -107,6 +115,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 1218861,
+      "num": 1218861,
+      "word": "保时捷中国总裁回应米时捷",
+      "onboard_time": 1713145338,
+      "rank": 1,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 1193271,
       "num": 1193271,
       "word": "水果为什么变得越来越甜了",
@@ -147,18 +163,26 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 983788,
-      "num": 983788,
-      "word": "男子车祸后连拨14次120终自救",
-      "onboard_time": 1713122472,
+      "raw_hot": 1031889,
+      "num": 412871,
+      "word": "第一批丁克夫妻现状曝光",
+      "onboard_time": 1713138557,
       "rank": 10,
       "category": "社会新闻"
     },
     {
-      "raw_hot": 979874,
-      "num": 412871,
-      "word": "第一批丁克夫妻现状曝光",
-      "onboard_time": 1713138557,
+      "raw_hot": 1007204,
+      "num": 1007204,
+      "word": "突然的恋情可能是间谍的圈套",
+      "onboard_time": 1713146056,
+      "rank": 3,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 983788,
+      "num": 983788,
+      "word": "男子车祸后连拨14次120终自救",
+      "onboard_time": 1713122472,
       "rank": 10,
       "category": "社会新闻"
     },
@@ -227,6 +251,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 849737,
+      "num": 849737,
+      "word": "美国女生带韩国男友回家",
+      "onboard_time": 1713148458,
+      "rank": 4,
+      "category": "情感"
+    },
+    {
       "raw_hot": 845694,
       "num": 845694,
       "word": "江西抚州车祸肇事者已被控制",
@@ -257,6 +289,14 @@
       "onboard_time": 1713103940,
       "rank": 15,
       "category": "情感"
+    },
+    {
+      "raw_hot": 812072,
+      "num": 232631,
+      "word": "中医劝患者想怀孕不要穿裙子",
+      "onboard_time": 1713148938,
+      "rank": 21,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 806864,
@@ -321,6 +361,14 @@
       "onboard_time": 1713138138,
       "rank": 4,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 754583,
+      "num": 754583,
+      "word": "他怎么又凶又奶的",
+      "onboard_time": 1713148938,
+      "rank": 5,
+      "category": "幽默"
     },
     {
       "raw_hot": 753379,
@@ -403,12 +451,28 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 654885,
+      "num": 654885,
+      "word": "奔跑吧12官宣定档",
+      "onboard_time": 1713147917,
+      "rank": 6,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 644092,
       "num": 644092,
       "word": "秦皇岛一船只侧翻已致12死6失联",
       "onboard_time": 1713019940,
       "rank": 5,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 626517,
+      "num": 626517,
+      "word": "华为P70 Pura",
+      "onboard_time": 1713145398,
+      "rank": 7,
+      "category": "数码"
     },
     {
       "raw_hot": 625983,
@@ -563,6 +627,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 519397,
+      "num": 519397,
+      "word": "黄岛地震",
+      "onboard_time": 1713147198,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 517398,
       "num": 517398,
       "word": "海仁和孩子的墓碑",
@@ -616,6 +688,14 @@
       "word": "本周桃花运最旺的星座",
       "onboard_time": 1713080237,
       "rank": 14,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 492606,
+      "num": 232047,
+      "word": "女性生孩子的理由只有一个",
+      "onboard_time": 1713149958,
+      "rank": 22,
       "category": "情感"
     },
     {
@@ -811,6 +891,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 398843,
+      "num": 398843,
+      "word": "张艺兴工作室发文向张艺兴道歉",
+      "onboard_time": 1713139638,
+      "rank": 9,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 398307,
       "num": 398307,
       "word": "纪凌尘说蹭阚清子热度是事实",
@@ -825,6 +913,14 @@
       "onboard_time": 1713099619,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 396019,
+      "num": 396019,
+      "word": "开始推理吧2概念官宣",
+      "onboard_time": 1713150558,
+      "rank": 10,
+      "category": "综艺"
     },
     {
       "raw_hot": 395893,
@@ -857,6 +953,14 @@
       "onboard_time": 1713102379,
       "rank": 20,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 377783,
+      "num": 377783,
+      "word": "卡琳娜将出席间谍过家家首映礼",
+      "onboard_time": 1713152118,
+      "rank": 11,
+      "category": "电影,动漫"
     },
     {
       "raw_hot": 377028,
@@ -899,6 +1003,22 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 365555,
+      "num": 365555,
+      "word": "IU香港",
+      "onboard_time": 1713147977,
+      "rank": 12,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 363976,
+      "num": 363976,
+      "word": "大侦探",
+      "onboard_time": 1713150079,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 363293,
       "num": 363293,
       "word": "薛之谦发型一半清汤一半麻辣",
@@ -929,6 +1049,14 @@
       "onboard_time": 1713020421,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 359116,
+      "num": 359116,
+      "word": "薛之谦把重庆洪崖洞说成了成都洪崖洞",
+      "onboard_time": 1713148396,
+      "rank": 14,
+      "category": "演出"
     },
     {
       "raw_hot": 357261,
@@ -1083,6 +1211,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 314471,
+      "num": 314471,
+      "word": "张杰把南昌说成了南京",
+      "onboard_time": 1713140839,
+      "rank": 15,
+      "category": "演出"
+    },
+    {
       "raw_hot": 313224,
       "num": 297074,
       "word": "天水麻辣烫让杨国福张亮慌了吗",
@@ -1131,6 +1267,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 302853,
+      "num": 302853,
+      "word": "98年小伙因精神状态太美丽走红",
+      "onboard_time": 1713142759,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 300649,
       "num": 300649,
       "word": "眼泪女王 不会要be吧",
@@ -1153,6 +1297,14 @@
       "onboard_time": 1713050955,
       "rank": 19,
       "category": "网红"
+    },
+    {
+      "raw_hot": 298713,
+      "num": 298713,
+      "word": "深圳机场卫星厅高坠事故原因查明",
+      "onboard_time": 1713149719,
+      "rank": 17,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 297698,
@@ -1233,6 +1385,14 @@
       "onboard_time": 1713054797,
       "rank": 25,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 285133,
+      "num": 230869,
+      "word": "养儿防老原来是儿媳妇养老",
+      "onboard_time": 1713150979,
+      "rank": 23,
+      "category": "情感"
     },
     {
       "raw_hot": 284708,
@@ -1411,6 +1571,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 250142,
+      "num": 227530,
+      "word": "上班后才知道读研有多苦",
+      "onboard_time": 1713150979,
+      "rank": 25,
+      "category": "教育"
+    },
+    {
       "raw_hot": 249458,
       "num": 249458,
       "word": "结婚后想吃老公调的蘸料被拒绝了",
@@ -1457,6 +1625,14 @@
       "onboard_time": 1713065897,
       "rank": 31,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 242524,
+      "num": 242524,
+      "word": "李亚鹏妻子称与李嫣是好姐妹",
+      "onboard_time": 1713152178,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 241739,
@@ -1507,6 +1683,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 233520,
+      "num": 227050,
+      "word": "华为Pura怎么读",
+      "onboard_time": 1713151578,
+      "rank": 26,
+      "category": "数码"
+    },
+    {
       "raw_hot": 233393,
       "num": 224459,
       "word": "卫健委调查男子献血13次妻子用血却被拒",
@@ -1529,6 +1713,14 @@
       "onboard_time": 1713080359,
       "rank": 23,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 230711,
+      "num": 230711,
+      "word": "澳洲亿万富豪之女在悉尼袭击案中遇害",
+      "onboard_time": 1713144137,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 229449,
@@ -1667,6 +1859,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 213849,
+      "num": 213849,
+      "word": "律师谈猫一杯MCN机构责任",
+      "onboard_time": 1713151458,
+      "rank": 27,
+      "category": "社会新闻,网红"
+    },
+    {
       "raw_hot": 213306,
       "num": 213306,
       "word": "JDG对战TES",
@@ -1697,6 +1897,14 @@
       "onboard_time": 1713074297,
       "rank": 30,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 209098,
+      "num": 209098,
+      "word": "王嘉尔空降科切拉",
+      "onboard_time": 1713144619,
+      "rank": 28,
+      "category": "演出"
     },
     {
       "raw_hot": 208123,
@@ -1811,6 +2019,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 198068,
+      "num": 198068,
+      "word": "陈梦世界杯开门红",
+      "onboard_time": 1713152178,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 197357,
       "num": 197357,
       "word": "纪凌尘看宁静的眼神",
@@ -1819,12 +2035,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 196982,
+      "num": 196982,
+      "word": "田曦薇配音宫崎骏女孩苏菲",
+      "onboard_time": 1713150257,
+      "rank": 32,
+      "category": "电影"
+    },
+    {
       "raw_hot": 196460,
       "num": 196460,
       "word": "去面试的路上被HR删了微信",
       "onboard_time": 1713088037,
       "rank": 32,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 193400,
+      "num": 193400,
+      "word": "电影想飞的女孩官宣",
+      "onboard_time": 1713151638,
+      "rank": 33,
+      "category": "电影"
     },
     {
       "raw_hot": 193367,
@@ -1873,6 +2105,14 @@
       "onboard_time": 1713106578,
       "rank": 26,
       "category": "演出"
+    },
+    {
+      "raw_hot": 185882,
+      "num": 185882,
+      "word": "A股",
+      "onboard_time": 1713145997,
+      "rank": 34,
+      "category": "财经"
     },
     {
       "raw_hot": 185771,
@@ -2147,6 +2387,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 164163,
+      "num": 164163,
+      "word": "有大学生是内娱的福气",
+      "onboard_time": 1713147677,
+      "rank": 35,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 163930,
       "num": 163930,
       "word": "苏州马拉松",
@@ -2193,6 +2441,14 @@
       "onboard_time": 1713104060,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 159888,
+      "num": 159888,
+      "word": "荠菜煮鸡蛋的威力",
+      "onboard_time": 1713151217,
+      "rank": 36,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 158719,
@@ -2339,12 +2595,28 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 146745,
+      "num": 146745,
+      "word": "种地吧直播",
+      "onboard_time": 1713145697,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 146158,
       "num": 146158,
       "word": "BABYMONSTER翻跳2NE1串烧",
       "onboard_time": 1713019940,
       "rank": 36,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 145613,
+      "num": 145613,
+      "word": "TFBOYS415十周年",
+      "onboard_time": 1713139638,
+      "rank": 38,
+      "category": "音乐"
     },
     {
       "raw_hot": 145607,
@@ -2411,6 +2683,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 142948,
+      "num": 142948,
+      "word": "悉尼袭击事件中死伤中国公民均为留学生",
+      "onboard_time": 1713140178,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 142278,
       "num": 142278,
       "word": "麦承欢终于哭出声了",
@@ -2467,6 +2747,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 138542,
+      "num": 138542,
+      "word": "难怪陈奕迅的演唱会不让带相机",
+      "onboard_time": 1713145038,
+      "rank": 40,
+      "category": "演出"
+    },
+    {
       "raw_hot": 135334,
       "num": 135334,
       "word": "5种素菜是热量炸弹",
@@ -2483,6 +2771,22 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 133554,
+      "num": 133554,
+      "word": "第五人格 真理之下",
+      "onboard_time": 1713151458,
+      "rank": 41,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 133191,
+      "num": 133191,
+      "word": "沪指翻绿跌破3000点",
+      "onboard_time": 1713146657,
+      "rank": 42,
+      "category": "财经"
+    },
+    {
       "raw_hot": 132747,
       "num": 132747,
       "word": "孙怡与闺蜜牵手逛画展",
@@ -2497,6 +2801,14 @@
       "onboard_time": 1713015559,
       "rank": 43,
       "category": "演出"
+    },
+    {
+      "raw_hot": 131423,
+      "num": 131423,
+      "word": "日照震感",
+      "onboard_time": 1713147498,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 129729,
@@ -2521,6 +2833,22 @@
       "onboard_time": 1713086659,
       "rank": 45,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 127271,
+      "num": 127271,
+      "word": "芒果台的文案",
+      "onboard_time": 1713143899,
+      "rank": 44,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 126312,
+      "num": 126312,
+      "word": "原来爱也有正反面",
+      "onboard_time": 1713152359,
+      "rank": 46,
+      "category": "情感"
     },
     {
       "raw_hot": 125993,
@@ -2571,6 +2899,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 121169,
+      "num": 121169,
+      "word": "章泽天家族病史",
+      "onboard_time": 1713152537,
+      "rank": 47,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 121102,
       "num": 121102,
       "word": "NBA常规赛收官日",
@@ -2609,6 +2945,14 @@
       "onboard_time": 1713113715,
       "rank": 19,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 117042,
+      "num": 117042,
+      "word": "以色列宣布恢复全国教学活动",
+      "onboard_time": 1713143058,
+      "rank": 49,
+      "category": "国外时政"
     },
     {
       "raw_hot": 114837,
@@ -2657,6 +3001,14 @@
       "onboard_time": 1713050054,
       "rank": 34,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 102809,
+      "num": 205899,
+      "word": "魏建军带头卷智驾直播",
+      "onboard_time": 1713150619,
+      "rank": 29,
+      "category": "汽车"
     },
     {
       "raw_hot": 101742,
@@ -2929,6 +3281,14 @@
       "onboard_time": 1713032712,
       "rank": 46,
       "category": "演出"
+    },
+    {
+      "raw_hot": 39358,
+      "num": 1069198,
+      "word": "守护国家安全要做到8个不",
+      "onboard_time": 1713146178,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 36753,

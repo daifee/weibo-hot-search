@@ -1,6 +1,6 @@
 {
   "startTime": 1711902044401,
-  "endTime": 1713139505424,
+  "endTime": 1713152554488,
   "band_list": [
     {
       "raw_hot": 16874674,
@@ -105,6 +105,14 @@
       "onboard_time": 1712919798,
       "rank": 1,
       "category": "网红"
+    },
+    {
+      "raw_hot": 3410457,
+      "num": 3410457,
+      "word": "端午节放3天不调休",
+      "onboard_time": 1713145817,
+      "rank": 0,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 3397715,
@@ -2059,6 +2067,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 1218861,
+      "num": 1218861,
+      "word": "保时捷中国总裁回应米时捷",
+      "onboard_time": 1713145338,
+      "rank": 1,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 1218689,
       "num": 1218689,
       "word": "罗伯特头像",
@@ -2859,6 +2875,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 1031889,
+      "num": 412871,
+      "word": "第一批丁克夫妻现状曝光",
+      "onboard_time": 1713138557,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1031688,
       "num": 442925,
       "word": "官宣忘记屏蔽妈妈了",
@@ -3027,6 +3051,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 1007204,
+      "num": 1007204,
+      "word": "突然的恋情可能是间谍的圈套",
+      "onboard_time": 1713146056,
+      "rank": 3,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 1006026,
       "num": 1006026,
       "word": "台湾花莲地震已致4死",
@@ -3169,14 +3201,6 @@
       "onboard_time": 1712565080,
       "rank": 41,
       "category": "美食"
-    },
-    {
-      "raw_hot": 979874,
-      "num": 412871,
-      "word": "第一批丁克夫妻现状曝光",
-      "onboard_time": 1713138557,
-      "rank": 10,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 979601,
@@ -4027,6 +4051,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 849737,
+      "num": 849737,
+      "word": "美国女生带韩国男友回家",
+      "onboard_time": 1713148458,
+      "rank": 4,
+      "category": "情感"
+    },
+    {
       "raw_hot": 846531,
       "num": 836137,
       "word": "吴镇宇回应后费曼删博",
@@ -4377,6 +4409,14 @@
       "onboard_time": 1713000737,
       "rank": 46,
       "category": "游戏,网红"
+    },
+    {
+      "raw_hot": 812072,
+      "num": 232631,
+      "word": "中医劝患者想怀孕不要穿裙子",
+      "onboard_time": 1713148938,
+      "rank": 21,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 810581,
@@ -4977,6 +5017,14 @@
       "onboard_time": 1712770872,
       "rank": 11,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 754583,
+      "num": 754583,
+      "word": "他怎么又凶又奶的",
+      "onboard_time": 1713148938,
+      "rank": 5,
+      "category": "幽默"
     },
     {
       "raw_hot": 754115,
@@ -6267,6 +6315,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 654885,
+      "num": 654885,
+      "word": "奔跑吧12官宣定档",
+      "onboard_time": 1713147917,
+      "rank": 6,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 653848,
       "num": 653848,
       "word": "名创优品致歉信",
@@ -6649,6 +6705,14 @@
       "onboard_time": 1712811920,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 626517,
+      "num": 626517,
+      "word": "华为P70 Pura",
+      "onboard_time": 1713145398,
+      "rank": 7,
+      "category": "数码"
     },
     {
       "raw_hot": 626490,
@@ -8659,6 +8723,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 519397,
+      "num": 519397,
+      "word": "黄岛地震",
+      "onboard_time": 1713147198,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 519154,
       "num": 519154,
       "word": "这4种食物是尿毒症的加速器",
@@ -9273,6 +9345,14 @@
       "onboard_time": 1712893279,
       "rank": 13,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 492606,
+      "num": 232047,
+      "word": "女性生孩子的理由只有一个",
+      "onboard_time": 1713149958,
+      "rank": 22,
+      "category": "情感"
     },
     {
       "raw_hot": 491803,
@@ -11875,6 +11955,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 398843,
+      "num": 398843,
+      "word": "张艺兴工作室发文向张艺兴道歉",
+      "onboard_time": 1713139638,
+      "rank": 9,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 398672,
       "num": 398672,
       "word": "冰箱久置的3种食物或是癌症帮凶",
@@ -11969,6 +12057,14 @@
       "onboard_time": 1712151681,
       "rank": 22,
       "category": "电影"
+    },
+    {
+      "raw_hot": 396019,
+      "num": 396019,
+      "word": "开始推理吧2概念官宣",
+      "onboard_time": 1713150558,
+      "rank": 10,
+      "category": "综艺"
     },
     {
       "raw_hot": 396003,
@@ -12539,6 +12635,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 377783,
+      "num": 377783,
+      "word": "卡琳娜将出席间谍过家家首映礼",
+      "onboard_time": 1713152118,
+      "rank": 11,
+      "category": "电影,动漫"
+    },
+    {
       "raw_hot": 377471,
       "num": 225507,
       "word": "为什么年轻人越来越讨厌上班",
@@ -12907,6 +13011,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 365555,
+      "num": 365555,
+      "word": "IU香港",
+      "onboard_time": 1713147977,
+      "rank": 12,
+      "category": "演出"
+    },
+    {
       "raw_hot": 365503,
       "num": 365503,
       "word": "陈卓璇胎记",
@@ -13089,6 +13201,14 @@
       "onboard_time": 1712736798,
       "rank": 34,
       "category": "财经"
+    },
+    {
+      "raw_hot": 359116,
+      "num": 359116,
+      "word": "薛之谦把重庆洪崖洞说成了成都洪崖洞",
+      "onboard_time": 1713148396,
+      "rank": 14,
+      "category": "演出"
     },
     {
       "raw_hot": 358790,
@@ -14899,6 +15019,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 314471,
+      "num": 314471,
+      "word": "张杰把南昌说成了南京",
+      "onboard_time": 1713140839,
+      "rank": 15,
+      "category": "演出"
+    },
+    {
       "raw_hot": 314433,
       "num": 314433,
       "word": "吴卓羲也找不到徐子珊",
@@ -15507,6 +15635,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 302853,
+      "num": 302853,
+      "word": "98年小伙因精神状态太美丽走红",
+      "onboard_time": 1713142759,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 302706,
       "num": 302706,
       "word": "林更新面子回来了",
@@ -15729,6 +15865,14 @@
       "onboard_time": 1712964194,
       "rank": 23,
       "category": "网红"
+    },
+    {
+      "raw_hot": 298713,
+      "num": 298713,
+      "word": "深圳机场卫星厅高坠事故原因查明",
+      "onboard_time": 1713149719,
+      "rank": 17,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 298393,
@@ -16448,6 +16592,14 @@
       "word": "怎么面对婆婆廉价的好意",
       "onboard_time": 1712654000,
       "rank": 31,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 285133,
+      "num": 230869,
+      "word": "养儿防老原来是儿媳妇养老",
+      "onboard_time": 1713150979,
+      "rank": 23,
       "category": "情感"
     },
     {
@@ -18627,6 +18779,14 @@
       "category": "母婴育儿"
     },
     {
+      "raw_hot": 250142,
+      "num": 227530,
+      "word": "上班后才知道读研有多苦",
+      "onboard_time": 1713150979,
+      "rank": 25,
+      "category": "教育"
+    },
+    {
       "raw_hot": 250079,
       "num": 215077,
       "word": "地震后美国帝国大厦发文",
@@ -19281,6 +19441,14 @@
       "onboard_time": 1712118622,
       "rank": 37,
       "category": "情感"
+    },
+    {
+      "raw_hot": 242524,
+      "num": 242524,
+      "word": "李亚鹏妻子称与李嫣是好姐妹",
+      "onboard_time": 1713152178,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 242497,
@@ -19955,6 +20123,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 233520,
+      "num": 227050,
+      "word": "华为Pura怎么读",
+      "onboard_time": 1713151578,
+      "rank": 26,
+      "category": "数码"
+    },
+    {
       "raw_hot": 233419,
       "num": 221353,
       "word": "种地吧这一期封神",
@@ -20225,6 +20401,14 @@
       "onboard_time": 1713014238,
       "rank": 38,
       "category": "演出"
+    },
+    {
+      "raw_hot": 230711,
+      "num": 230711,
+      "word": "澳洲亿万富豪之女在悉尼袭击案中遇害",
+      "onboard_time": 1713144137,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 230567,
@@ -21739,6 +21923,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 213849,
+      "num": 213849,
+      "word": "律师谈猫一杯MCN机构责任",
+      "onboard_time": 1713151458,
+      "rank": 27,
+      "category": "社会新闻,网红"
+    },
+    {
       "raw_hot": 213808,
       "num": 213808,
       "word": "宋雨琦 特典",
@@ -22249,6 +22441,14 @@
       "onboard_time": 1712457738,
       "rank": 15,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 209098,
+      "num": 209098,
+      "word": "王嘉尔空降科切拉",
+      "onboard_time": 1713144619,
+      "rank": 28,
+      "category": "演出"
     },
     {
       "raw_hot": 209079,
@@ -24099,6 +24299,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 198068,
+      "num": 198068,
+      "word": "陈梦世界杯开门红",
+      "onboard_time": 1713152178,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 197996,
       "num": 197996,
       "word": "赵露思玫瑰吊带裙",
@@ -24281,6 +24489,14 @@
       "onboard_time": 1713012859,
       "rank": 40,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 196982,
+      "num": 196982,
+      "word": "田曦薇配音宫崎骏女孩苏菲",
+      "onboard_time": 1713150257,
+      "rank": 32,
+      "category": "电影"
     },
     {
       "raw_hot": 196978,
@@ -24849,6 +25065,14 @@
       "onboard_time": 1712889617,
       "rank": 38,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 193400,
+      "num": 193400,
+      "word": "电影想飞的女孩官宣",
+      "onboard_time": 1713151638,
+      "rank": 33,
+      "category": "电影"
     },
     {
       "raw_hot": 193395,
@@ -29299,6 +29523,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 164163,
+      "num": 164163,
+      "word": "有大学生是内娱的福气",
+      "onboard_time": 1713147677,
+      "rank": 35,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 164141,
       "num": 164141,
       "word": "被同事养的巨型花惊艳了",
@@ -29929,6 +30161,14 @@
       "onboard_time": 1712918418,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 159888,
+      "num": 159888,
+      "word": "荠菜煮鸡蛋的威力",
+      "onboard_time": 1713151217,
+      "rank": 36,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 159807,
@@ -32323,6 +32563,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 145613,
+      "num": 145613,
+      "word": "TFBOYS415十周年",
+      "onboard_time": 1713139638,
+      "rank": 38,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 145608,
       "num": 145608,
       "word": "南昌市民镜头下的狂风暴雨场面",
@@ -32737,6 +32985,14 @@
       "onboard_time": 1712026339,
       "rank": 42,
       "category": "情感"
+    },
+    {
+      "raw_hot": 142948,
+      "num": 142948,
+      "word": "悉尼袭击事件中死伤中国公民均为留学生",
+      "onboard_time": 1713140178,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 142896,
@@ -33289,6 +33545,14 @@
       "onboard_time": 1712489299,
       "rank": 38,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 138542,
+      "num": 138542,
+      "word": "难怪陈奕迅的演唱会不让带相机",
+      "onboard_time": 1713145038,
+      "rank": 40,
+      "category": "演出"
     },
     {
       "raw_hot": 138520,
@@ -34083,6 +34347,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 133554,
+      "num": 133554,
+      "word": "第五人格 真理之下",
+      "onboard_time": 1713151458,
+      "rank": 41,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 133549,
       "num": 133549,
       "word": "你们有低分享欲的朋友吗",
@@ -34137,6 +34409,14 @@
       "onboard_time": 1712963774,
       "rank": 25,
       "category": "情感"
+    },
+    {
+      "raw_hot": 133191,
+      "num": 133191,
+      "word": "沪指翻绿跌破3000点",
+      "onboard_time": 1713146657,
+      "rank": 42,
+      "category": "财经"
     },
     {
       "raw_hot": 133160,
@@ -34337,6 +34617,14 @@
       "onboard_time": 1712469558,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 131423,
+      "num": 131423,
+      "word": "日照震感",
+      "onboard_time": 1713147498,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 131411,
@@ -34763,6 +35051,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 127271,
+      "num": 127271,
+      "word": "芒果台的文案",
+      "onboard_time": 1713143899,
+      "rank": 44,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 127103,
       "num": 127103,
       "word": "当毕业答辩遇到神仙导师",
@@ -34881,6 +35177,14 @@
       "onboard_time": 1712791636,
       "rank": 18,
       "category": "体育"
+    },
+    {
+      "raw_hot": 126312,
+      "num": 126312,
+      "word": "原来爱也有正反面",
+      "onboard_time": 1713152359,
+      "rank": 46,
+      "category": "情感"
     },
     {
       "raw_hot": 126286,
@@ -35507,6 +35811,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 121169,
+      "num": 121169,
+      "word": "章泽天家族病史",
+      "onboard_time": 1713152537,
+      "rank": 47,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 121163,
       "num": 121163,
       "word": "浪姐",
@@ -35953,6 +36265,14 @@
       "onboard_time": 1712905637,
       "rank": 46,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 117042,
+      "num": 117042,
+      "word": "以色列宣布恢复全国教学活动",
+      "onboard_time": 1713143058,
+      "rank": 49,
+      "category": "国外时政"
     },
     {
       "raw_hot": 116994,
@@ -36865,6 +37185,14 @@
       "onboard_time": 1712483418,
       "rank": 8,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 102809,
+      "num": 205899,
+      "word": "魏建军带头卷智驾直播",
+      "onboard_time": 1713150619,
+      "rank": 29,
+      "category": "汽车"
     },
     {
       "raw_hot": 102455,
@@ -39169,6 +39497,14 @@
       "onboard_time": 1712525351,
       "rank": 49,
       "category": "美食"
+    },
+    {
+      "raw_hot": 39358,
+      "num": 1069198,
+      "word": "守护国家安全要做到8个不",
+      "onboard_time": 1713146178,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 39052,
