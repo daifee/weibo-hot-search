@@ -1,6 +1,6 @@
 {
   "startTime": 1713025251708,
-  "endTime": 1713213248217,
+  "endTime": 1713215864433,
   "band_list": [
     {
       "raw_hot": 3410457,
@@ -4124,7 +4124,7 @@
     },
     {
       "raw_hot": 154885,
-      "num": 38326,
+      "num": 40880,
       "word": "男子当众扒光前女友衣服获刑5年",
       "onboard_time": 1713207971,
       "rank": 27,
@@ -5419,6 +5419,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 40169,
+      "num": 40169,
+      "word": "45岁儿子决定和妈妈重新认识一次",
+      "onboard_time": 1713214150,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 39910,
       "num": 41564,
       "word": "诺米 全开麦",
@@ -5457,6 +5465,14 @@
       "onboard_time": 1713167176,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 32271,
+      "num": 27424,
+      "word": "陈晓光头颜值",
+      "onboard_time": 1713209291,
+      "rank": 44,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 31978,
@@ -5545,14 +5561,6 @@
       "onboard_time": 1713074599,
       "rank": 48,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 23424,
-      "num": 23424,
-      "word": "陈晓光头颜值",
-      "onboard_time": 1713209291,
-      "rank": 44,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 23184,
@@ -5649,6 +5657,14 @@
       "onboard_time": 1713206053,
       "rank": 39,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 12377,
+      "num": 14358,
+      "word": "浙江人爱吃的地衣大量出现价格还不低",
+      "onboard_time": 1713215050,
+      "rank": 45,
+      "category": "美食"
     },
     {
       "raw_hot": 11663,
