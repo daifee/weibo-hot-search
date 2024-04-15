@@ -1,6 +1,6 @@
 {
   "startTime": 1713025251708,
-  "endTime": 1713165260457,
+  "endTime": 1713166452213,
   "band_list": [
     {
       "raw_hot": 3410457,
@@ -75,6 +75,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1780350,
+      "num": 412511,
+      "word": "荣梓杉中戏北电双第一",
+      "onboard_time": 1713163577,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1710524,
       "num": 1710524,
       "word": "孩子理发138元妈妈嫌太贵只愿付24",
@@ -89,14 +97,6 @@
       "onboard_time": 1713091577,
       "rank": 10,
       "category": "电影"
-    },
-    {
-      "raw_hot": 1684669,
-      "num": 400071,
-      "word": "荣梓杉中戏北电双第一",
-      "onboard_time": 1713163577,
-      "rank": 10,
-      "category": "艺人"
     },
     {
       "raw_hot": 1601825,
@@ -219,6 +219,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 995049,
+      "num": 654073,
+      "word": "3年前掉河里的20g金戒指捞上来了",
+      "onboard_time": 1713160638,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 983788,
       "num": 983788,
       "word": "男子车祸后连拨14次120终自救",
@@ -291,14 +299,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 917670,
-      "num": 654073,
-      "word": "3年前掉河里的20g金戒指捞上来了",
-      "onboard_time": 1713160638,
-      "rank": 36,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 915372,
       "num": 611756,
       "word": "女性生孩子的理由只有一个",
@@ -313,6 +313,14 @@
       "onboard_time": 1713072197,
       "rank": 4,
       "category": "体育"
+    },
+    {
+      "raw_hot": 874656,
+      "num": 647597,
+      "word": "任敏旗袍",
+      "onboard_time": 1713163457,
+      "rank": 4,
+      "category": "剧集"
     },
     {
       "raw_hot": 865071,
@@ -353,14 +361,6 @@
       "onboard_time": 1713097577,
       "rank": 5,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 831292,
-      "num": 647597,
-      "word": "任敏旗袍",
-      "onboard_time": 1713163457,
-      "rank": 4,
-      "category": "剧集"
     },
     {
       "raw_hot": 824224,
@@ -571,6 +571,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 649401,
+      "num": 510507,
+      "word": "莎头 可口可乐",
+      "onboard_time": 1713164117,
+      "rank": 7,
+      "category": "体育"
+    },
+    {
       "raw_hot": 644092,
       "num": 644092,
       "word": "秦皇岛一船只侧翻已致12死6失联",
@@ -779,14 +787,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 510507,
-      "num": 510507,
-      "word": "莎头 可口可乐",
-      "onboard_time": 1713164117,
-      "rank": 7,
-      "category": "体育"
-    },
-    {
       "raw_hot": 509924,
       "num": 341222,
       "word": "伊朗向以色列发射数十架无人机",
@@ -857,6 +857,22 @@
       "onboard_time": 1713065296,
       "rank": 22,
       "category": "情感"
+    },
+    {
+      "raw_hot": 484023,
+      "num": 484023,
+      "word": "最高法发文预防未成年人犯罪",
+      "onboard_time": 1713163997,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 473480,
+      "num": 473480,
+      "word": "李现 扫楼鼻祖",
+      "onboard_time": 1713164058,
+      "rank": 19,
+      "category": "剧集"
     },
     {
       "raw_hot": 470038,
@@ -995,8 +1011,8 @@
       "category": "情感"
     },
     {
-      "raw_hot": 417886,
-      "num": 417886,
+      "raw_hot": 423982,
+      "num": 423982,
       "word": "北京像下雪了",
       "onboard_time": 1713159858,
       "rank": 34,
@@ -1065,14 +1081,6 @@
       "onboard_time": 1713156498,
       "rank": 13,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 400703,
-      "num": 400703,
-      "word": "最高法发文预防未成年人犯罪",
-      "onboard_time": 1713163997,
-      "rank": 9,
-      "category": "国内时政"
     },
     {
       "raw_hot": 398843,
@@ -1371,6 +1379,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 319420,
+      "num": 319420,
+      "word": "一克拉肾结石",
+      "onboard_time": 1713165258,
+      "rank": 16,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 319386,
       "num": 319386,
       "word": "伊朗称成功摧毁以色列军事目标",
@@ -1433,6 +1449,14 @@
       "onboard_time": 1713069018,
       "rank": 31,
       "category": "美食"
+    },
+    {
+      "raw_hot": 312582,
+      "num": 312582,
+      "word": "广东一大桥发生事故致2人遇难",
+      "onboard_time": 1713164177,
+      "rank": 25,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 309553,
@@ -1649,14 +1673,6 @@
       "onboard_time": 1713093500,
       "rank": 29,
       "category": "电影"
-    },
-    {
-      "raw_hot": 278459,
-      "num": 278459,
-      "word": "李现 扫楼鼻祖",
-      "onboard_time": 1713164058,
-      "rank": 19,
-      "category": "剧集"
     },
     {
       "raw_hot": 276152,
@@ -2107,14 +2123,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 224118,
-      "num": 224118,
-      "word": "广东一大桥发生事故致2人遇难",
-      "onboard_time": 1713164177,
-      "rank": 25,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 223976,
       "num": 204774,
       "word": "嗯的标准拼音不是en",
@@ -2347,6 +2355,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 204580,
+      "num": 204580,
+      "word": "小县城为什么没有穿衣自由",
+      "onboard_time": 1713166218,
+      "rank": 27,
+      "category": "情感"
+    },
+    {
       "raw_hot": 202779,
       "num": 202779,
       "word": "70后教师回应29年助养300名孩子",
@@ -2385,6 +2401,14 @@
       "onboard_time": 1713139638,
       "rank": 38,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 201224,
+      "num": 201224,
+      "word": "荣梓杉演技",
+      "onboard_time": 1713165497,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 200132,
@@ -2457,6 +2481,14 @@
       "onboard_time": 1713150257,
       "rank": 32,
       "category": "电影"
+    },
+    {
+      "raw_hot": 196477,
+      "num": 196477,
+      "word": "李现任敏电梯图",
+      "onboard_time": 1713165377,
+      "rank": 29,
+      "category": "剧集"
     },
     {
       "raw_hot": 196460,
@@ -2577,6 +2609,14 @@
       "onboard_time": 1713082278,
       "rank": 34,
       "category": "情感"
+    },
+    {
+      "raw_hot": 183465,
+      "num": 183465,
+      "word": "3个动作教你缓解肩背酸痛",
+      "onboard_time": 1713166158,
+      "rank": 31,
+      "category": "运动健身"
     },
     {
       "raw_hot": 182951,
@@ -2979,6 +3019,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 156702,
+      "num": 156702,
+      "word": "LPL春决",
+      "onboard_time": 1713165797,
+      "rank": 33,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 156355,
       "num": 156355,
       "word": "杨迪的刀先修了厕所又切了香肠",
@@ -3243,6 +3291,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 141189,
+      "num": 141189,
+      "word": "科切拉 KPOP",
+      "onboard_time": 1713166096,
+      "rank": 35,
+      "category": "演出"
+    },
+    {
       "raw_hot": 140993,
       "num": 140993,
       "word": "黄金再次出现回调",
@@ -3363,6 +3419,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 130630,
+      "num": 130630,
+      "word": "清清今天去种地吧",
+      "onboard_time": 1713165858,
+      "rank": 37,
+      "category": "综艺,电竞"
+    },
+    {
       "raw_hot": 129757,
       "num": 129757,
       "word": "芒果台的文案",
@@ -3456,6 +3520,14 @@
       "word": "云南泼水节装备门槛有点高啊",
       "onboard_time": 1713162677,
       "rank": 44,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 123063,
+      "num": 123063,
+      "word": "白城医专",
+      "onboard_time": 1713165557,
+      "rank": 41,
       "category": "社会新闻"
     },
     {
@@ -3561,6 +3633,14 @@
       "onboard_time": 1713001817,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 109873,
+      "num": 109873,
+      "word": "昔日明星基金经理蔡嵩松涉受贿",
+      "onboard_time": 1713166338,
+      "rank": 49,
+      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 109301,
@@ -3672,6 +3752,14 @@
       "word": "看不见的守护正无处不在",
       "onboard_time": 1713103338,
       "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 90271,
+      "num": 185150,
+      "word": "泼水节禁止泼冷水",
+      "onboard_time": 1713165618,
+      "rank": 30,
       "category": "社会新闻"
     },
     {
@@ -3945,6 +4033,14 @@
       "onboard_time": 1713045130,
       "rank": 38,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 26575,
+      "num": 599220,
+      "word": "关于国家安全这些你要知道",
+      "onboard_time": 1713142940,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 26542,
