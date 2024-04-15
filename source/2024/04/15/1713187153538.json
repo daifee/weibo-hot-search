@@ -1,0 +1,410 @@
+{
+  "runTime": 1713187153538,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2128478,
+        "num": 2128478,
+        "word": "12306回应年轻人卧铺挂帘子老人没地坐",
+        "onboard_time": 1713181038,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1819817,
+        "num": 1819817,
+        "word": "吉林一高校女生带病出操后死亡",
+        "onboard_time": 1713184757,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 7069,
+        "num": 928367,
+        "word": "汇聚起维护国家安全的强大力量",
+        "onboard_time": 1713187099,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 638695,
+        "num": 638695,
+        "word": "薛之谦演唱会眼镜哥回应",
+        "onboard_time": 1713185058,
+        "rank": 3,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 584933,
+        "num": 584933,
+        "word": "后陡门少年vs康平路少年",
+        "onboard_time": 1713181337,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 487725,
+        "num": 487725,
+        "word": "跑步为什么会尝到血腥味",
+        "onboard_time": 1713184518,
+        "rank": 5,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 473959,
+        "num": 473959,
+        "word": "苏打绿新歌曾是TFBOYS弃曲",
+        "onboard_time": 1713178337,
+        "rank": 6,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 465195,
+        "num": 465195,
+        "word": "官方回应婆婆杀害儿媳3只狗",
+        "onboard_time": 1713176898,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 32571,
+        "num": 439950,
+        "word": "一图读懂国家安全新知识",
+        "onboard_time": 1713167176,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 205319,
+        "num": 422587,
+        "word": "拿到offer后买了人生第一套正装",
+        "onboard_time": 1713158839,
+        "rank": 9,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 618802,
+        "num": 422467,
+        "word": "71岁保洁被开除后在物业办公室自杀",
+        "onboard_time": 1713174918,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 419789,
+        "num": 419789,
+        "word": "与凤行有庆功宴",
+        "onboard_time": 1713185657,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 410422,
+        "num": 410422,
+        "word": "种地吧",
+        "onboard_time": 1713170418,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 396854,
+        "num": 396854,
+        "word": "虞书欣牛仔裙",
+        "onboard_time": 1713185358,
+        "rank": 13,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 374268,
+        "num": 374268,
+        "word": "涵艺爆料Tarzan加入WBG",
+        "onboard_time": 1713184878,
+        "rank": 14,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 355976,
+        "num": 355976,
+        "word": "福宝出外场了",
+        "onboard_time": 1713177019,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 347311,
+        "num": 347311,
+        "word": "吉林白城医专",
+        "onboard_time": 1713183258,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 342350,
+        "num": 342350,
+        "word": "为什么医院禁止你送花给病人",
+        "onboard_time": 1713174619,
+        "rank": 17,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 269869,
+        "num": 269869,
+        "word": "AI眼里月薪1到1亿元的工作",
+        "onboard_time": 1713182239,
+        "rank": 18,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 250445,
+        "num": 250445,
+        "word": "猫一杯旗下店铺终止经营",
+        "onboard_time": 1713178639,
+        "rank": 19,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 51401,
+        "num": 250027,
+        "word": "增程又添新王炸",
+        "onboard_time": 1713184938,
+        "rank": 20,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 1305189,
+        "num": 247543,
+        "word": "柳岩就差点名道姓了",
+        "onboard_time": 1713172338,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 537307,
+        "num": 246025,
+        "word": "赵丽颖改微博简介",
+        "onboard_time": 1713177319,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 365602,
+        "num": 245290,
+        "word": "咖啡为什么越卖越便宜",
+        "onboard_time": 1713182118,
+        "rank": 23,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 243690,
+        "num": 243690,
+        "word": "陈凯歌方否认将执导电影舞男",
+        "onboard_time": 1713181218,
+        "rank": 24,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 227447,
+        "num": 227447,
+        "word": "真心建议大家冲一冲AI领域",
+        "onboard_time": 1713183017,
+        "rank": 25,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 218533,
+        "num": 218533,
+        "word": "建议春夏少穿黄绿色衣服出门",
+        "onboard_time": 1713180977,
+        "rank": 26,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 215469,
+        "num": 215469,
+        "word": "朱一龙36岁状态",
+        "onboard_time": 1713183798,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 187075,
+        "num": 187075,
+        "word": "提灯定损涉事违建房屋已确定进行拆除",
+        "onboard_time": 1713186619,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 186665,
+        "num": 186665,
+        "word": "以色列防御伊朗袭击一夜至少花掉78亿",
+        "onboard_time": 1713180437,
+        "rank": 29,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 191346,
+        "num": 184497,
+        "word": "成毅狐妖片场侧颜照",
+        "onboard_time": 1713187099,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 179841,
+        "num": 179841,
+        "word": "女性生孩子的理由只有一个",
+        "onboard_time": 1713149958,
+        "rank": 31,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 178008,
+        "num": 178008,
+        "word": "背着善宰跑",
+        "onboard_time": 1713185478,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 177948,
+        "num": 177948,
+        "word": "悉尼一教堂发生疑似持刀袭击事件",
+        "onboard_time": 1713184038,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 174785,
+        "num": 174785,
+        "word": "华桢入局",
+        "onboard_time": 1713186319,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 173828,
+        "num": 173828,
+        "word": "李现台词",
+        "onboard_time": 1713186377,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 170186,
+        "num": 170186,
+        "word": "承欢记奶奶离世",
+        "onboard_time": 1713186859,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 165837,
+        "num": 165837,
+        "word": "荣梓杉中戏北电双第一",
+        "onboard_time": 1713163577,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 159831,
+        "num": 159831,
+        "word": "王曼昱4比0迪亚科努",
+        "onboard_time": 1713186619,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 157219,
+        "num": 157219,
+        "word": "王曼昱vs迪亚科努",
+        "onboard_time": 1713184999,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 154470,
+        "num": 154470,
+        "word": "迪丽热巴湿发路透",
+        "onboard_time": 1713176358,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 151098,
+        "num": 151098,
+        "word": "群星闪耀时质感",
+        "onboard_time": 1713185898,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 149933,
+        "num": 149933,
+        "word": "阚清子21岁至36岁颜值变化",
+        "onboard_time": 1713172757,
+        "rank": 42,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 139809,
+        "num": 139809,
+        "word": "TFBOYS文案什么意思",
+        "onboard_time": 1713162918,
+        "rank": 43,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 138973,
+        "num": 138973,
+        "word": "王者荣耀",
+        "onboard_time": 1713184278,
+        "rank": 44,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 126252,
+        "num": 126252,
+        "word": "犬夜叉 美貌的哥帅气的弟",
+        "onboard_time": 1713184399,
+        "rank": 45,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 124884,
+        "num": 124884,
+        "word": "孙颖莎世界杯开门红",
+        "onboard_time": 1713182838,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 124435,
+        "num": 124435,
+        "word": "周一周一我要迪士尼",
+        "onboard_time": 1713181939,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 120670,
+        "num": 120670,
+        "word": "任敏旗袍",
+        "onboard_time": 1713163457,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 118436,
+        "num": 118436,
+        "word": "林高远说自己发挥偏保守",
+        "onboard_time": 1713181697,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#坚定不移贯彻总体国家安全观#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1711902044401,
-  "endTime": 1713185020360,
+  "endTime": 1713187153538,
   "band_list": [
     {
       "raw_hot": 16874674,
@@ -713,6 +713,14 @@
       "onboard_time": 1711966281,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1819817,
+      "num": 1819817,
+      "word": "吉林一高校女生带病出操后死亡",
+      "onboard_time": 1713184757,
+      "rank": 25,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1815176,
@@ -6771,6 +6779,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 638695,
+      "num": 638695,
+      "word": "薛之谦演唱会眼镜哥回应",
+      "onboard_time": 1713185058,
+      "rank": 3,
+      "category": "演出"
+    },
+    {
       "raw_hot": 637713,
       "num": 637713,
       "word": "眼泪女王 狗血",
@@ -9731,6 +9747,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 487725,
+      "num": 487725,
+      "word": "跑步为什么会尝到血腥味",
+      "onboard_time": 1713184518,
+      "rank": 17,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 487620,
       "num": 487620,
       "word": "徐海乔演技",
@@ -11843,6 +11867,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 419789,
+      "num": 419789,
+      "word": "与凤行有庆功宴",
+      "onboard_time": 1713185657,
+      "rank": 11,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 419719,
       "num": 419719,
       "word": "杨幂豹纹辣妹",
@@ -12449,6 +12481,14 @@
       "onboard_time": 1712235679,
       "rank": 21,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 396854,
+      "num": 396854,
+      "word": "虞书欣牛仔裙",
+      "onboard_time": 1713185358,
+      "rank": 13,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 396372,
@@ -13177,6 +13217,14 @@
       "onboard_time": 1712798840,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 374268,
+      "num": 374268,
+      "word": "涵艺爆料Tarzan加入WBG",
+      "onboard_time": 1713184878,
+      "rank": 26,
+      "category": "电竞"
     },
     {
       "raw_hot": 373688,
@@ -18483,14 +18531,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 261565,
-      "num": 261565,
-      "word": "跑步为什么会尝到血腥味",
-      "onboard_time": 1713184518,
-      "rank": 17,
-      "category": "科学科普"
-    },
-    {
       "raw_hot": 261414,
       "num": 261414,
       "word": "伊朗向以色列发导弹红色光点布满夜空",
@@ -21361,6 +21401,14 @@
       "onboard_time": 1712560279,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 227447,
+      "num": 227447,
+      "word": "真心建议大家冲一冲AI领域",
+      "onboard_time": 1713183017,
+      "rank": 35,
+      "category": "幽默"
     },
     {
       "raw_hot": 227428,
@@ -25363,14 +25411,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 197139,
-      "num": 197139,
-      "word": "吉林一高校女生带病出操后死亡",
-      "onboard_time": 1713184757,
-      "rank": 25,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 197080,
       "num": 197080,
       "word": "VG对战KSG",
@@ -26435,12 +26475,12 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 191353,
-      "num": 191353,
-      "word": "涵艺爆料Tarzan加入WBG",
-      "onboard_time": 1713184878,
-      "rank": 26,
-      "category": "电竞"
+      "raw_hot": 191346,
+      "num": 184497,
+      "word": "成毅狐妖片场侧颜照",
+      "onboard_time": 1713187099,
+      "rank": 30,
+      "category": "剧集"
     },
     {
       "raw_hot": 191345,
@@ -27225,6 +27265,14 @@
       "onboard_time": 1712146760,
       "rank": 38,
       "category": "演出"
+    },
+    {
+      "raw_hot": 187075,
+      "num": 187075,
+      "word": "提灯定损涉事违建房屋已确定进行拆除",
+      "onboard_time": 1713186619,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 187062,
@@ -28675,12 +28723,28 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 178008,
+      "num": 178008,
+      "word": "背着善宰跑",
+      "onboard_time": 1713185478,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 177988,
       "num": 177988,
       "word": "王伟烈士牺牲23年了",
       "onboard_time": 1711927036,
       "rank": 27,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 177948,
+      "num": 177948,
+      "word": "悉尼一教堂发生疑似持刀袭击事件",
+      "onboard_time": 1713184038,
+      "rank": 42,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 177921,
@@ -29131,6 +29195,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 174785,
+      "num": 174785,
+      "word": "华桢入局",
+      "onboard_time": 1713186319,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 174777,
       "num": 174777,
       "word": "郑合惠子收到诈骗短信",
@@ -29281,6 +29353,14 @@
       "onboard_time": 1712644760,
       "rank": 34,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 173828,
+      "num": 173828,
+      "word": "李现台词",
+      "onboard_time": 1713186377,
+      "rank": 35,
+      "category": "剧集"
     },
     {
       "raw_hot": 173809,
@@ -29457,14 +29537,6 @@
       "onboard_time": 1712715679,
       "rank": 43,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 172587,
-      "num": 172587,
-      "word": "悉尼一教堂发生疑似持刀袭击事件",
-      "onboard_time": 1713184038,
-      "rank": 42,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 172523,
@@ -29808,6 +29880,14 @@
       "word": "张彬彬演技",
       "onboard_time": 1712808558,
       "rank": 40,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 170186,
+      "num": 170186,
+      "word": "承欢记奶奶离世",
+      "onboard_time": 1713186859,
+      "rank": 36,
       "category": "剧集"
     },
     {
@@ -31259,6 +31339,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 159831,
+      "num": 159831,
+      "word": "王曼昱4比0迪亚科努",
+      "onboard_time": 1713186619,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 159807,
       "num": 146551,
       "word": "种地吧妈妈的爱藏在干净的鞋里",
@@ -31745,6 +31833,14 @@
       "onboard_time": 1713163818,
       "rank": 31,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 157219,
+      "num": 157219,
+      "word": "王曼昱vs迪亚科努",
+      "onboard_time": 1713184999,
+      "rank": 41,
+      "category": "体育"
     },
     {
       "raw_hot": 157090,
@@ -32499,14 +32595,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 152547,
-      "num": 152547,
-      "word": "真心建议大家冲一冲AI领域",
-      "onboard_time": 1713183017,
-      "rank": 35,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 152494,
       "num": 192213,
       "word": "银价涨超20%",
@@ -32824,6 +32912,14 @@
       "word": "叶盛佳 执笔是我的救赎",
       "onboard_time": 1712208019,
       "rank": 38,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 151098,
+      "num": 151098,
+      "word": "群星闪耀时质感",
+      "onboard_time": 1713185898,
+      "rank": 41,
       "category": "剧集"
     },
     {
@@ -35249,14 +35345,6 @@
       "onboard_time": 1712064560,
       "rank": 41,
       "category": "演出"
-    },
-    {
-      "raw_hot": 136063,
-      "num": 136063,
-      "word": "王曼昱vs迪亚科努",
-      "onboard_time": 1713184999,
-      "rank": 41,
-      "category": "体育"
     },
     {
       "raw_hot": 136040,
@@ -40651,6 +40739,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 51401,
+      "num": 250027,
+      "word": "增程又添新王炸",
+      "onboard_time": 1713184938,
+      "rank": 45,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 51202,
       "num": 55339,
       "word": "张杰演唱会来了好多明星",
@@ -41361,14 +41457,6 @@
       "onboard_time": 1712946733,
       "rank": 46,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 27587,
-      "num": 122362,
-      "word": "增程又添新王炸",
-      "onboard_time": 1713184938,
-      "rank": 45,
-      "category": "汽车"
     },
     {
       "raw_hot": 27541,
@@ -42153,6 +42241,14 @@
       "onboard_time": 1712900057,
       "rank": 49,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 7069,
+      "num": 928367,
+      "word": "汇聚起维护国家安全的强大力量",
+      "onboard_time": 1713187099,
+      "rank": 2,
+      "category": "社会新闻"
     }
   ],
   "hotgov_list": [

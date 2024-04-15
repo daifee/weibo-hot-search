@@ -1,6 +1,6 @@
 {
   "startTime": 1713132599554,
-  "endTime": 1713185020360,
+  "endTime": 1713187153538,
   "band_list": [
     {
       "raw_hot": 3410457,
@@ -48,6 +48,14 @@
       "word": "71岁保洁被开除后在物业办公室自杀",
       "onboard_time": 1713174918,
       "rank": 10,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1819817,
+      "num": 1819817,
+      "word": "吉林一高校女生带病出操后死亡",
+      "onboard_time": 1713184757,
+      "rank": 25,
       "category": "社会新闻"
     },
     {
@@ -331,6 +339,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 638695,
+      "num": 638695,
+      "word": "薛之谦演唱会眼镜哥回应",
+      "onboard_time": 1713185058,
+      "rank": 3,
+      "category": "演出"
+    },
+    {
       "raw_hot": 626517,
       "num": 626517,
       "word": "华为P70 Pura",
@@ -451,6 +467,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 487725,
+      "num": 487725,
+      "word": "跑步为什么会尝到血腥味",
+      "onboard_time": 1713184518,
+      "rank": 17,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 484023,
       "num": 484023,
       "word": "最高法发文预防未成年人犯罪",
@@ -539,6 +563,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 419789,
+      "num": 419789,
+      "word": "与凤行有庆功宴",
+      "onboard_time": 1713185657,
+      "rank": 11,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 416047,
       "num": 407740,
       "word": "马龙给15岁对手上一课",
@@ -585,6 +617,14 @@
       "onboard_time": 1713139638,
       "rank": 9,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 396854,
+      "num": 396854,
+      "word": "虞书欣牛仔裙",
+      "onboard_time": 1713185358,
+      "rank": 13,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 396019,
@@ -649,6 +689,14 @@
       "onboard_time": 1713081378,
       "rank": 5,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 374268,
+      "num": 374268,
+      "word": "涵艺爆料Tarzan加入WBG",
+      "onboard_time": 1713184878,
+      "rank": 26,
+      "category": "电竞"
     },
     {
       "raw_hot": 372597,
@@ -923,14 +971,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 261565,
-      "num": 261565,
-      "word": "跑步为什么会尝到血腥味",
-      "onboard_time": 1713184518,
-      "rank": 17,
-      "category": "科学科普"
-    },
-    {
       "raw_hot": 252270,
       "num": 252270,
       "word": "芭莎晒王一博",
@@ -1081,6 +1121,14 @@
       "onboard_time": 1713144137,
       "rank": 24,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 227447,
+      "num": 227447,
+      "word": "真心建议大家冲一冲AI领域",
+      "onboard_time": 1713183017,
+      "rank": 35,
+      "category": "幽默"
     },
     {
       "raw_hot": 225559,
@@ -1315,14 +1363,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 197139,
-      "num": 197139,
-      "word": "吉林一高校女生带病出操后死亡",
-      "onboard_time": 1713184757,
-      "rank": 25,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 196982,
       "num": 196982,
       "word": "田曦薇配音宫崎骏女孩苏菲",
@@ -1371,12 +1411,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 191353,
-      "num": 191353,
-      "word": "涵艺爆料Tarzan加入WBG",
-      "onboard_time": 1713184878,
-      "rank": 26,
-      "category": "电竞"
+      "raw_hot": 191346,
+      "num": 184497,
+      "word": "成毅狐妖片场侧颜照",
+      "onboard_time": 1713187099,
+      "rank": 30,
+      "category": "剧集"
     },
     {
       "raw_hot": 190874,
@@ -1409,6 +1449,14 @@
       "onboard_time": 1713106578,
       "rank": 26,
       "category": "演出"
+    },
+    {
+      "raw_hot": 187075,
+      "num": 187075,
+      "word": "提灯定损涉事违建房屋已确定进行拆除",
+      "onboard_time": 1713186619,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 183465,
@@ -1483,6 +1531,22 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 178008,
+      "num": 178008,
+      "word": "背着善宰跑",
+      "onboard_time": 1713185478,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 177948,
+      "num": 177948,
+      "word": "悉尼一教堂发生疑似持刀袭击事件",
+      "onboard_time": 1713184038,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 176983,
       "num": 176983,
       "word": "张万森 下柳絮了",
@@ -1491,12 +1555,28 @@
       "category": "情感,作品衍生"
     },
     {
+      "raw_hot": 174785,
+      "num": 174785,
+      "word": "华桢入局",
+      "onboard_time": 1713186319,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 173981,
       "num": 173981,
       "word": "勇士冲进附加赛",
       "onboard_time": 1713138737,
       "rank": 26,
       "category": "体育"
+    },
+    {
+      "raw_hot": 173828,
+      "num": 173828,
+      "word": "李现台词",
+      "onboard_time": 1713186377,
+      "rank": 35,
+      "category": "剧集"
     },
     {
       "raw_hot": 173684,
@@ -1513,14 +1593,6 @@
       "onboard_time": 1713171017,
       "rank": 37,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 172587,
-      "num": 172587,
-      "word": "悉尼一教堂发生疑似持刀袭击事件",
-      "onboard_time": 1713184038,
-      "rank": 42,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 170962,
@@ -1545,6 +1617,14 @@
       "onboard_time": 1713108558,
       "rank": 23,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 170186,
+      "num": 170186,
+      "word": "承欢记奶奶离世",
+      "onboard_time": 1713186859,
+      "rank": 36,
+      "category": "剧集"
     },
     {
       "raw_hot": 169509,
@@ -1635,6 +1715,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 159831,
+      "num": 159831,
+      "word": "王曼昱4比0迪亚科努",
+      "onboard_time": 1713186619,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 159176,
       "num": 159176,
       "word": "王者荣耀",
@@ -1657,6 +1745,14 @@
       "onboard_time": 1713163818,
       "rank": 31,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 157219,
+      "num": 157219,
+      "word": "王曼昱vs迪亚科努",
+      "onboard_time": 1713184999,
+      "rank": 41,
+      "category": "体育"
     },
     {
       "raw_hot": 156702,
@@ -1699,14 +1795,6 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 152547,
-      "num": 152547,
-      "word": "真心建议大家冲一冲AI领域",
-      "onboard_time": 1713183017,
-      "rank": 35,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 151656,
       "num": 151656,
       "word": "Mai住院",
@@ -1721,6 +1809,14 @@
       "onboard_time": 1713134113,
       "rank": 29,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 151098,
+      "num": 151098,
+      "word": "群星闪耀时质感",
+      "onboard_time": 1713185898,
+      "rank": 41,
+      "category": "剧集"
     },
     {
       "raw_hot": 150585,
@@ -1921,14 +2017,6 @@
       "onboard_time": 1713167359,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 136063,
-      "num": 136063,
-      "word": "王曼昱vs迪亚科努",
-      "onboard_time": 1713184999,
-      "rank": 41,
-      "category": "体育"
     },
     {
       "raw_hot": 135161,
@@ -2403,6 +2491,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 51401,
+      "num": 250027,
+      "word": "增程又添新王炸",
+      "onboard_time": 1713184938,
+      "rank": 45,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 36701,
       "num": 36701,
       "word": "杨紫承欢记吻戏reaction",
@@ -2441,14 +2537,6 @@
       "onboard_time": 1713108139,
       "rank": 43,
       "category": "演出"
-    },
-    {
-      "raw_hot": 27587,
-      "num": 122362,
-      "word": "增程又添新王炸",
-      "onboard_time": 1713184938,
-      "rank": 45,
-      "category": "汽车"
     },
     {
       "raw_hot": 26965,
@@ -2529,6 +2617,14 @@
       "onboard_time": 1713106881,
       "rank": 48,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 7069,
+      "num": 928367,
+      "word": "汇聚起维护国家安全的强大力量",
+      "onboard_time": 1713187099,
+      "rank": 2,
+      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
