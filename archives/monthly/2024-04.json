@@ -1,6 +1,6 @@
 {
   "startTime": 1711902044401,
-  "endTime": 1713187153538,
+  "endTime": 1713188093220,
   "band_list": [
     {
       "raw_hot": 16874674,
@@ -8179,6 +8179,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 559709,
+      "num": 559709,
+      "word": "跑步为什么会尝到血腥味",
+      "onboard_time": 1713184518,
+      "rank": 17,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 559397,
       "num": 559397,
       "word": "干眼症原来缺的是油不是水",
@@ -9747,14 +9755,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 487725,
-      "num": 487725,
-      "word": "跑步为什么会尝到血腥味",
-      "onboard_time": 1713184518,
-      "rank": 17,
-      "category": "科学科普"
-    },
-    {
       "raw_hot": 487620,
       "num": 487620,
       "word": "徐海乔演技",
@@ -11201,6 +11201,14 @@
       "onboard_time": 1712721439,
       "rank": 21,
       "category": "情感"
+    },
+    {
+      "raw_hot": 439380,
+      "num": 439380,
+      "word": "承欢记奶奶离世",
+      "onboard_time": 1713186859,
+      "rank": 36,
+      "category": "剧集"
     },
     {
       "raw_hot": 439249,
@@ -12963,6 +12971,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 381201,
+      "num": 254913,
+      "word": "咖啡为什么越卖越便宜",
+      "onboard_time": 1713182118,
+      "rank": 21,
+      "category": "美食"
+    },
+    {
       "raw_hot": 381173,
       "num": 381173,
       "word": "TES战胜JDG",
@@ -13283,14 +13299,6 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 371654,
-      "num": 246800,
-      "word": "咖啡为什么越卖越便宜",
-      "onboard_time": 1713182118,
-      "rank": 21,
-      "category": "美食"
-    },
-    {
       "raw_hot": 371321,
       "num": 315571,
       "word": "原来邋遢只是老师的保护色",
@@ -13489,6 +13497,14 @@
       "onboard_time": 1713148396,
       "rank": 14,
       "category": "演出"
+    },
+    {
+      "raw_hot": 366413,
+      "num": 366413,
+      "word": "提灯定损涉事违建房屋已确定进行拆除",
+      "onboard_time": 1713186619,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 366404,
@@ -19139,6 +19155,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 253622,
+      "num": 253622,
+      "word": "真心建议大家冲一冲AI领域",
+      "onboard_time": 1713183017,
+      "rank": 35,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 253612,
       "num": 253612,
       "word": "赵露思金鱼嘟嘴",
@@ -21401,14 +21425,6 @@
       "onboard_time": 1712560279,
       "rank": 31,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 227447,
-      "num": 227447,
-      "word": "真心建议大家冲一冲AI领域",
-      "onboard_time": 1713183017,
-      "rank": 35,
-      "category": "幽默"
     },
     {
       "raw_hot": 227428,
@@ -26211,6 +26227,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 192539,
+      "num": 192539,
+      "word": "成毅狐妖片场侧颜照",
+      "onboard_time": 1713187099,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 192450,
       "num": 192450,
       "word": "承欢记谈个恋爱吧预告",
@@ -26473,14 +26497,6 @@
       "onboard_time": 1712113461,
       "rank": 42,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 191346,
-      "num": 184497,
-      "word": "成毅狐妖片场侧颜照",
-      "onboard_time": 1713187099,
-      "rank": 30,
-      "category": "剧集"
     },
     {
       "raw_hot": 191345,
@@ -27267,14 +27283,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 187075,
-      "num": 187075,
-      "word": "提灯定损涉事违建房屋已确定进行拆除",
-      "onboard_time": 1713186619,
-      "rank": 28,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 187062,
       "num": 187062,
       "word": "与凤行 天然之法",
@@ -27945,6 +27953,14 @@
       "onboard_time": 1712648358,
       "rank": 32,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 183241,
+      "num": 183241,
+      "word": "电竞男主爆改种田男主",
+      "onboard_time": 1713187400,
+      "rank": 30,
+      "category": "电竞"
     },
     {
       "raw_hot": 183201,
@@ -29880,14 +29896,6 @@
       "word": "张彬彬演技",
       "onboard_time": 1712808558,
       "rank": 40,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 170186,
-      "num": 170186,
-      "word": "承欢记奶奶离世",
-      "onboard_time": 1713186859,
-      "rank": 36,
       "category": "剧集"
     },
     {
@@ -35211,6 +35219,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 137038,
+      "num": 137038,
+      "word": "为什么冲奶粉要用70度以上热水",
+      "onboard_time": 1713187638,
+      "rank": 39,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 137022,
       "num": 137022,
       "word": "KPL赛程",
@@ -36715,6 +36731,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 125877,
+      "num": 125877,
+      "word": "农村才是疲惫生活的解药",
+      "onboard_time": 1713187938,
+      "rank": 42,
+      "category": "情感"
+    },
+    {
       "raw_hot": 125817,
       "num": 210494,
       "word": "江苏致4死火灾事故宣判4人被追刑责",
@@ -36865,6 +36889,14 @@
       "onboard_time": 1712374758,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 124800,
+      "num": 124800,
+      "word": "李现笑哭了三次",
+      "onboard_time": 1713187038,
+      "rank": 43,
+      "category": "剧集"
     },
     {
       "raw_hot": 124755,
@@ -37377,6 +37409,14 @@
       "onboard_time": 1712298197,
       "rank": 43,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 120397,
+      "num": 120397,
+      "word": "这个英文提词器一股东北味",
+      "onboard_time": 1713187339,
+      "rank": 45,
+      "category": "幽默"
     },
     {
       "raw_hot": 120372,
@@ -40395,6 +40435,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 62391,
+      "num": 562783,
+      "word": "86名群众被国家安全机关表彰奖励",
+      "onboard_time": 1713187279,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 61754,
       "num": 61754,
       "word": "美股黄金白银大跳水",
@@ -40699,6 +40747,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 53122,
+      "num": 269878,
+      "word": "增程又添新王炸",
+      "onboard_time": 1713184938,
+      "rank": 45,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 53020,
       "num": 53020,
       "word": "AHYEON中文",
@@ -40737,14 +40793,6 @@
       "onboard_time": 1712218159,
       "rank": 34,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 51401,
-      "num": 250027,
-      "word": "增程又添新王炸",
-      "onboard_time": 1713184938,
-      "rank": 45,
-      "category": "汽车"
     },
     {
       "raw_hot": 51202,
