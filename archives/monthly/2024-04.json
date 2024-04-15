@@ -1,6 +1,6 @@
 {
   "startTime": 1711902044401,
-  "endTime": 1713209677007,
+  "endTime": 1713212286699,
   "band_list": [
     {
       "raw_hot": 16874674,
@@ -32523,6 +32523,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 154885,
+      "num": 38326,
+      "word": "男子当众扒光前女友衣服获刑5年",
+      "onboard_time": 1713207971,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 154760,
       "num": 154760,
       "word": "詹姆斯杀死比赛",
@@ -37217,14 +37225,6 @@
       "onboard_time": 1712312299,
       "rank": 49,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 125176,
-      "num": 37015,
-      "word": "男子当众扒光前女友衣服获刑5年",
-      "onboard_time": 1713207971,
-      "rank": 27,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 125138,
@@ -42363,6 +42363,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 21032,
+      "num": 21032,
+      "word": "陈晓光头颜值",
+      "onboard_time": 1713209291,
+      "rank": 44,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 20909,
       "num": 199258,
       "word": "街头潮流的教科书",
@@ -42531,14 +42539,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 16923,
-      "num": 16923,
-      "word": "陈晓光头颜值",
-      "onboard_time": 1713209291,
-      "rank": 44,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 16908,
       "num": 182139,
       "word": "P5X肝度适中",
@@ -42697,6 +42697,14 @@
       "onboard_time": 1712783770,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 11663,
+      "num": 18920,
+      "word": "坚定不移贯彻总体国家安全观",
+      "onboard_time": 1713209830,
+      "rank": 29,
+      "category": "国内时政"
     },
     {
       "raw_hot": 11658,
