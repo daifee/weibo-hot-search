@@ -1,6 +1,6 @@
 {
   "startTime": 1713025251708,
-  "endTime": 1713158122745,
+  "endTime": 1713159256777,
   "band_list": [
     {
       "raw_hot": 3410457,
@@ -1075,6 +1075,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 374395,
+      "num": 335869,
+      "word": "小米高管否认卖一部SU7亏6800元",
+      "onboard_time": 1713157880,
+      "rank": 38,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 371061,
       "num": 599953,
       "word": "男童30万耳蜗丢失全城合力找回",
@@ -1643,6 +1651,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 261120,
+      "num": 261120,
+      "word": "hybe kpop毁灭者",
+      "onboard_time": 1713157819,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 260387,
       "num": 260387,
       "word": "伊朗再次警告美国勿插手伊以冲突",
@@ -1948,7 +1964,7 @@
     },
     {
       "raw_hot": 223976,
-      "num": 192508,
+      "num": 204774,
       "word": "嗯的标准拼音不是en",
       "onboard_time": 1713155961,
       "rank": 46,
@@ -1980,7 +1996,7 @@
     },
     {
       "raw_hot": 220727,
-      "num": 191008,
+      "num": 199591,
       "word": "理想汽车回应车内摄像头拍不雅照",
       "onboard_time": 1713155780,
       "rank": 40,
@@ -2073,6 +2089,14 @@
       "onboard_time": 1713076099,
       "rank": 26,
       "category": "演出"
+    },
+    {
+      "raw_hot": 210383,
+      "num": 210383,
+      "word": "失业中产卖房自救",
+      "onboard_time": 1713157221,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 209854,
@@ -2225,14 +2249,6 @@
       "onboard_time": 1713099557,
       "rank": 43,
       "category": "电影"
-    },
-    {
-      "raw_hot": 198250,
-      "num": 198250,
-      "word": "失业中产卖房自救",
-      "onboard_time": 1713157221,
-      "rank": 28,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 197357,
@@ -2467,12 +2483,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 178095,
+      "num": 178095,
+      "word": "猫 你就当我晕了吧",
+      "onboard_time": 1713157940,
+      "rank": 45,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 177052,
       "num": 224917,
       "word": "荔枝和龙眼杂交出来的新水果",
       "onboard_time": 1713011418,
       "rank": 24,
       "category": "美食"
+    },
+    {
+      "raw_hot": 176983,
+      "num": 176983,
+      "word": "张万森 下柳絮了",
+      "onboard_time": 1713158419,
+      "rank": 32,
+      "category": "情感,作品衍生"
     },
     {
       "raw_hot": 175732,
@@ -2563,14 +2595,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 168402,
-      "num": 168402,
-      "word": "hybe kpop毁灭者",
-      "onboard_time": 1713157819,
-      "rank": 36,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 167760,
       "num": 167760,
       "word": "T1赛后发文",
@@ -2659,14 +2683,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 164142,
-      "num": 164142,
-      "word": "小米高管否认卖一部SU7亏6800元",
-      "onboard_time": 1713157880,
-      "rank": 38,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 163930,
       "num": 163930,
       "word": "苏州马拉松",
@@ -2715,6 +2731,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 160869,
+      "num": 160869,
+      "word": "拿到offer后买了人生第一套正装",
+      "onboard_time": 1713158839,
+      "rank": 36,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 160848,
       "num": 160848,
       "word": "上海海港4比3山东泰山",
@@ -2761,6 +2785,14 @@
       "onboard_time": 1713012738,
       "rank": 33,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 156355,
+      "num": 156355,
+      "word": "杨迪的刀先修了厕所又切了香肠",
+      "onboard_time": 1713159198,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 156017,
@@ -2865,6 +2897,14 @@
       "onboard_time": 1713050474,
       "rank": 33,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 147313,
+      "num": 147313,
+      "word": "肖战肖春生 我在什刹海当大哥",
+      "onboard_time": 1713158298,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 146158,
@@ -3059,14 +3099,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 135870,
-      "num": 135870,
-      "word": "猫 你就当我晕了吧",
-      "onboard_time": 1713157940,
-      "rank": 45,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 135334,
       "num": 135334,
       "word": "5种素菜是热量炸弹",
@@ -3136,6 +3168,14 @@
       "word": "成龙为刘浩存提裙摆",
       "onboard_time": 1713009257,
       "rank": 44,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 128850,
+      "num": 128850,
+      "word": "电影维和防暴队开启预售",
+      "onboard_time": 1713158119,
+      "rank": 45,
       "category": "电影"
     },
     {
@@ -3211,6 +3251,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 121048,
+      "num": 121048,
+      "word": "北京三年级小学生的真实周末",
+      "onboard_time": 1713159018,
+      "rank": 46,
+      "category": "教育"
+    },
+    {
       "raw_hot": 120372,
       "num": 120372,
       "word": "郑雅譞跳T5 Move",
@@ -3283,12 +3331,28 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 108041,
+      "num": 108041,
+      "word": "勒沃库森",
+      "onboard_time": 1713159018,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 107560,
       "num": 107560,
       "word": "左溢删博",
       "onboard_time": 1713118872,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 106916,
+      "num": 106916,
+      "word": "高考考700分是种什么概念",
+      "onboard_time": 1713158599,
+      "rank": 49,
+      "category": "教育"
     },
     {
       "raw_hot": 103108,

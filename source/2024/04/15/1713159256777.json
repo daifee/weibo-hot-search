@@ -1,0 +1,410 @@
+{
+  "runTime": 1713159256777,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 965823,
+        "num": 965823,
+        "word": "端午节放3天不调休",
+        "onboard_time": 1713145817,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 850484,
+        "num": 850484,
+        "word": "甄嬛传 团综",
+        "onboard_time": 1713153319,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 58876,
+        "num": 701389,
+        "word": "守护国家安全要做到8个不",
+        "onboard_time": 1713146178,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2229433,
+        "num": 686264,
+        "word": "一家四口自杀母亲没死成被判死刑",
+        "onboard_time": 1713154580,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 656248,
+        "num": 656248,
+        "word": "歌手回归",
+        "onboard_time": 1713155601,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 485300,
+        "num": 485300,
+        "word": "王晶称梁朝伟应宣布不再领奖",
+        "onboard_time": 1713153860,
+        "rank": 5,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 459016,
+        "num": 459016,
+        "word": "保时捷中国总裁回应米时捷",
+        "onboard_time": 1713145338,
+        "rank": 6,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 394533,
+        "num": 394533,
+        "word": "拼多多上爱花钱的女人",
+        "onboard_time": 1713152599,
+        "rank": 7,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 339905,
+        "num": 339905,
+        "word": "突然的恋情可能是间谍的圈套",
+        "onboard_time": 1713146056,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 201891,
+        "num": 339588,
+        "word": "他怎么又凶又奶的",
+        "onboard_time": 1713148938,
+        "rank": 9,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 573731,
+        "num": 337015,
+        "word": "女性生孩子的理由只有一个",
+        "onboard_time": 1713149958,
+        "rank": 10,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 374395,
+        "num": 335869,
+        "word": "小米高管否认卖一部SU7亏6800元",
+        "onboard_time": 1713157880,
+        "rank": 11,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 363653,
+        "num": 333102,
+        "word": "马龙给15岁对手上一课",
+        "onboard_time": 1713155361,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 358221,
+        "num": 332566,
+        "word": "贺军翔老了",
+        "onboard_time": 1713154940,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 331276,
+        "num": 331276,
+        "word": "TFBOYS纪念十周年",
+        "onboard_time": 1713156498,
+        "rank": 14,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 295422,
+        "num": 295422,
+        "word": "五一调休",
+        "onboard_time": 1713152958,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 288689,
+        "num": 288689,
+        "word": "华为P70 Pura",
+        "onboard_time": 1713145398,
+        "rank": 16,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 287656,
+        "num": 287656,
+        "word": "华为P70三角形相机岛设计实锤",
+        "onboard_time": 1713153618,
+        "rank": 17,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 276820,
+        "num": 276820,
+        "word": "汪苏泷到底是什么意思",
+        "onboard_time": 1713153560,
+        "rank": 18,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 261120,
+        "num": 261120,
+        "word": "hybe kpop毁灭者",
+        "onboard_time": 1713157819,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 593058,
+        "num": 246530,
+        "word": "第一批丁克夫妻现状曝光",
+        "onboard_time": 1713138557,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 417627,
+        "num": 234732,
+        "word": "中医劝患者想怀孕不要穿裙子",
+        "onboard_time": 1713148938,
+        "rank": 21,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 343293,
+        "num": 228488,
+        "word": "教你在微信上凭空消失",
+        "onboard_time": 1713155480,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 221085,
+        "num": 221085,
+        "word": "吉林高速大赚5亿不分红",
+        "onboard_time": 1713155961,
+        "rank": 23,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 215220,
+        "num": 215220,
+        "word": "奔跑吧12官宣定档",
+        "onboard_time": 1713147917,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 210383,
+        "num": 210383,
+        "word": "失业中产卖房自救",
+        "onboard_time": 1713157221,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 204774,
+        "num": 204774,
+        "word": "嗯的标准拼音不是en",
+        "onboard_time": 1713155961,
+        "rank": 26,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 199591,
+        "num": 199591,
+        "word": "理想汽车回应车内摄像头拍不雅照",
+        "onboard_time": 1713155780,
+        "rank": 27,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 191283,
+        "num": 191283,
+        "word": "芭莎晒王一博",
+        "onboard_time": 1713156082,
+        "rank": 28,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 189358,
+        "num": 189358,
+        "word": "张艺兴工作室发文向张艺兴道歉",
+        "onboard_time": 1713139638,
+        "rank": 29,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 187683,
+        "num": 187683,
+        "word": "科切拉的风",
+        "onboard_time": 1713157339,
+        "rank": 30,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 178095,
+        "num": 178095,
+        "word": "猫 你就当我晕了吧",
+        "onboard_time": 1713157940,
+        "rank": 31,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 176983,
+        "num": 176983,
+        "word": "张万森 下柳絮了",
+        "onboard_time": 1713158419,
+        "rank": 32,
+        "category": "情感,作品衍生"
+      },
+      {
+        "raw_hot": 167032,
+        "num": 167032,
+        "word": "相机岛",
+        "onboard_time": 1713154459,
+        "rank": 33,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 162494,
+        "num": 162494,
+        "word": "卡琳娜将出席间谍过家家首映礼",
+        "onboard_time": 1713152118,
+        "rank": 34,
+        "category": "电影,动漫"
+      },
+      {
+        "raw_hot": 161316,
+        "num": 161316,
+        "word": "林更新真不把观众当外人",
+        "onboard_time": 1713156323,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 160869,
+        "num": 160869,
+        "word": "拿到offer后买了人生第一套正装",
+        "onboard_time": 1713158839,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 156355,
+        "num": 156355,
+        "word": "杨迪的刀先修了厕所又切了香肠",
+        "onboard_time": 1713159198,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 153832,
+        "num": 153832,
+        "word": "美国女生带韩国男友回家",
+        "onboard_time": 1713148458,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 150609,
+        "num": 150609,
+        "word": "电视剧大生意人官宣",
+        "onboard_time": 1713154940,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 147313,
+        "num": 147313,
+        "word": "肖战肖春生 我在什刹海当大哥",
+        "onboard_time": 1713158298,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 146970,
+        "num": 146970,
+        "word": "阚清子海边生日照",
+        "onboard_time": 1713155059,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 146374,
+        "num": 146374,
+        "word": "张杰把南昌说成了南京",
+        "onboard_time": 1713140839,
+        "rank": 42,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 137827,
+        "num": 137827,
+        "word": "养儿防老原来是儿媳妇养老",
+        "onboard_time": 1713150979,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 137192,
+        "num": 137192,
+        "word": "种地吧直播",
+        "onboard_time": 1713145697,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 128850,
+        "num": 128850,
+        "word": "电影维和防暴队开启预售",
+        "onboard_time": 1713158119,
+        "rank": 45,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 121048,
+        "num": 121048,
+        "word": "北京三年级小学生的真实周末",
+        "onboard_time": 1713159018,
+        "rank": 46,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 117290,
+        "num": 117290,
+        "word": "王嘉尔刘雨昕88rising同台",
+        "onboard_time": 1713154821,
+        "rank": 47,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 108041,
+        "num": 108041,
+        "word": "勒沃库森",
+        "onboard_time": 1713159018,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 106916,
+        "num": 106916,
+        "word": "高考考700分是种什么概念",
+        "onboard_time": 1713158599,
+        "rank": 49,
+        "category": "教育"
+      }
+    ],
+    "hotgov": {
+      "word": "#坚持系统思维构建大安全格局#"
+    }
+  }
+}
