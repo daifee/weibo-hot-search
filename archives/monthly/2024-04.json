@@ -1,6 +1,6 @@
 {
   "startTime": 1711902044401,
-  "endTime": 1713212286699,
+  "endTime": 1713213248217,
   "band_list": [
     {
       "raw_hot": 16874674,
@@ -42211,6 +42211,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 23424,
+      "num": 23424,
+      "word": "陈晓光头颜值",
+      "onboard_time": 1713209291,
+      "rank": 44,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 23213,
       "num": 196958,
       "word": "反差感最强的游戏角色",
@@ -42361,14 +42369,6 @@
       "onboard_time": 1712688191,
       "rank": 39,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 21032,
-      "num": 21032,
-      "word": "陈晓光头颜值",
-      "onboard_time": 1713209291,
-      "rank": 44,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 20909,

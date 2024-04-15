@@ -1,6 +1,6 @@
 {
   "startTime": 1713025251708,
-  "endTime": 1713212286699,
+  "endTime": 1713213248217,
   "band_list": [
     {
       "raw_hot": 3410457,
@@ -5547,6 +5547,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 23424,
+      "num": 23424,
+      "word": "陈晓光头颜值",
+      "onboard_time": 1713209291,
+      "rank": 44,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 23184,
       "num": 23184,
       "word": "我们活在巨大的差距里",
@@ -5577,14 +5585,6 @@
       "onboard_time": 1713067096,
       "rank": 38,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 21032,
-      "num": 21032,
-      "word": "陈晓光头颜值",
-      "onboard_time": 1713209291,
-      "rank": 44,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 20632,
