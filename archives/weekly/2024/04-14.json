@@ -1,6 +1,6 @@
 {
   "startTime": 1713025251708,
-  "endTime": 1713138143208,
+  "endTime": 1713139505424,
   "band_list": [
     {
       "raw_hot": 3131894,
@@ -51,6 +51,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1710524,
+      "num": 1710524,
+      "word": "孩子理发138元妈妈嫌太贵只愿付24",
+      "onboard_time": 1713118813,
+      "rank": 0,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1709940,
       "num": 665023,
       "word": "Angelababy金像奖红毯",
@@ -65,14 +73,6 @@
       "onboard_time": 1713052756,
       "rank": 1,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 1460456,
-      "num": 1460456,
-      "word": "孩子理发138元妈妈嫌太贵只愿付24",
-      "onboard_time": 1713118813,
-      "rank": 0,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1384101,
@@ -147,6 +147,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 983788,
+      "num": 983788,
+      "word": "男子车祸后连拨14次120终自救",
+      "onboard_time": 1713122472,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 979874,
+      "num": 412871,
+      "word": "第一批丁克夫妻现状曝光",
+      "onboard_time": 1713138557,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 976172,
       "num": 407274,
       "word": "猫一杯旗下品牌发货售后正常",
@@ -201,14 +217,6 @@
       "onboard_time": 1713072197,
       "rank": 4,
       "category": "体育"
-    },
-    {
-      "raw_hot": 898584,
-      "num": 898584,
-      "word": "男子车祸后连拨14次120终自救",
-      "onboard_time": 1713122472,
-      "rank": 10,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 865071,
@@ -275,6 +283,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 779242,
+      "num": 779242,
+      "word": "科研人员出卖核心机密被执行死刑",
+      "onboard_time": 1713092899,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 775340,
       "num": 608059,
       "word": "如懿传 吐槽",
@@ -297,6 +313,14 @@
       "onboard_time": 1713067158,
       "rank": 5,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 762188,
+      "num": 762188,
+      "word": "内塔尼亚胡取消回击伊朗",
+      "onboard_time": 1713138138,
+      "rank": 4,
+      "category": "国外时政"
     },
     {
       "raw_hot": 753379,
@@ -329,14 +353,6 @@
       "onboard_time": 1713060138,
       "rank": 7,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 733902,
-      "num": 733902,
-      "word": "科研人员出卖核心机密被执行死刑",
-      "onboard_time": 1713092899,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 719583,
@@ -507,6 +523,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 552368,
+      "num": 552368,
+      "word": "青海地震",
+      "onboard_time": 1713136575,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 549614,
       "num": 308669,
       "word": "真的建议结婚不能太着急",
@@ -537,6 +561,14 @@
       "onboard_time": 1713036671,
       "rank": 42,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 517398,
+      "num": 517398,
+      "word": "海仁和孩子的墓碑",
+      "onboard_time": 1713110117,
+      "rank": 6,
+      "category": "剧集"
     },
     {
       "raw_hot": 513262,
@@ -659,28 +691,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 461828,
-      "num": 461828,
-      "word": "青海地震",
-      "onboard_time": 1713136575,
-      "rank": 5,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 460901,
       "num": 460901,
       "word": "李宇春无价之姐",
       "onboard_time": 1713019820,
       "rank": 8,
       "category": "演出"
-    },
-    {
-      "raw_hot": 457329,
-      "num": 457329,
-      "word": "海仁和孩子的墓碑",
-      "onboard_time": 1713110117,
-      "rank": 6,
-      "category": "剧集"
     },
     {
       "raw_hot": 456190,
@@ -763,6 +779,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 413153,
+      "num": 225271,
+      "word": "很体面工资却不高的工作",
+      "onboard_time": 1713107539,
+      "rank": 21,
+      "category": "情感"
+    },
+    {
       "raw_hot": 406870,
       "num": 1330855,
       "word": "时速400公里的高铁要来了",
@@ -777,6 +801,14 @@
       "onboard_time": 1713050474,
       "rank": 11,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 403172,
+      "num": 403172,
+      "word": "钟美美回应带家人出国计划",
+      "onboard_time": 1713100278,
+      "rank": 31,
+      "category": "网红"
     },
     {
       "raw_hot": 398307,
@@ -835,6 +867,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 376944,
+      "num": 376944,
+      "word": "何超仪拄拐带老公亮相黄贯中画展",
+      "onboard_time": 1713130631,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 371061,
       "num": 599953,
       "word": "男童30万耳蜗丢失全城合力找回",
@@ -889,22 +929,6 @@
       "onboard_time": 1713020421,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 360473,
-      "num": 164109,
-      "word": "很体面工资却不高的工作",
-      "onboard_time": 1713107539,
-      "rank": 21,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 357621,
-      "num": 341011,
-      "word": "何超仪拄拐带老公亮相黄贯中画展",
-      "onboard_time": 1713130631,
-      "rank": 32,
-      "category": "艺人"
     },
     {
       "raw_hot": 357261,
@@ -1115,6 +1139,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 300259,
+      "num": 300259,
+      "word": "伊朗再次警告美国勿插手",
+      "onboard_time": 1713138377,
+      "rank": 15,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 298875,
       "num": 298875,
       "word": "猫一杯",
@@ -1299,6 +1331,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 265156,
+      "num": 265156,
+      "word": "XG夺冠",
+      "onboard_time": 1713137055,
+      "rank": 16,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 264359,
       "num": 238505,
       "word": "耶路撒冷响起巨大爆炸声",
@@ -1361,14 +1401,6 @@
       "onboard_time": 1713104780,
       "rank": 37,
       "category": "科学科普"
-    },
-    {
-      "raw_hot": 255018,
-      "num": 255018,
-      "word": "钟美美回应带家人出国计划",
-      "onboard_time": 1713100278,
-      "rank": 31,
-      "category": "网红"
     },
     {
       "raw_hot": 252575,
@@ -1443,6 +1475,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 239498,
+      "num": 413974,
+      "word": "炸串奶奶摊前排起长队",
+      "onboard_time": 1713122531,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 239473,
       "num": 239473,
       "word": "相声演员陈涌泉去世",
@@ -1468,7 +1508,7 @@
     },
     {
       "raw_hot": 233393,
-      "num": 163536,
+      "num": 224459,
       "word": "卫健委调查男子献血13次妻子用血却被拒",
       "onboard_time": 1713123911,
       "rank": 20,
@@ -1667,28 +1707,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 207841,
-      "num": 207841,
-      "word": "XG夺冠",
-      "onboard_time": 1713137055,
-      "rank": 16,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 207544,
       "num": 207544,
       "word": "王源找手机演我",
       "onboard_time": 1713082040,
       "rank": 28,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 207214,
-      "num": 341273,
-      "word": "炸串奶奶摊前排起长队",
-      "onboard_time": 1713122531,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 206554,
@@ -1843,6 +1867,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 187440,
+      "num": 187440,
+      "word": "张元英头巾",
+      "onboard_time": 1713106578,
+      "rank": 26,
+      "category": "演出"
+    },
+    {
       "raw_hot": 185771,
       "num": 185771,
       "word": "北京半程马拉松何杰夺冠",
@@ -1907,6 +1939,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 182369,
+      "num": 182369,
+      "word": "梁朝伟金像奖影帝",
+      "onboard_time": 1713106218,
+      "rank": 14,
+      "category": "电影"
+    },
+    {
       "raw_hot": 181856,
       "num": 181856,
       "word": "以色列要求召开安理会特别会议",
@@ -1937,6 +1977,14 @@
       "onboard_time": 1713069679,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 178643,
+      "num": 178643,
+      "word": "辛芷蕾听劝",
+      "onboard_time": 1713136275,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 177052,
@@ -1971,6 +2019,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 173981,
+      "num": 173981,
+      "word": "勇士冲进附加赛",
+      "onboard_time": 1713138737,
+      "rank": 26,
+      "category": "体育"
+    },
+    {
       "raw_hot": 171587,
       "num": 209353,
       "word": "马宁",
@@ -1993,6 +2049,14 @@
       "onboard_time": 1713011118,
       "rank": 32,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 170506,
+      "num": 170506,
+      "word": "吃这3种水果或加重湿气",
+      "onboard_time": 1713108558,
+      "rank": 23,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 169270,
@@ -2035,14 +2099,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 166066,
-      "num": 166066,
-      "word": "梁朝伟金像奖影帝",
-      "onboard_time": 1713106218,
-      "rank": 14,
-      "category": "电影"
-    },
-    {
       "raw_hot": 165605,
       "num": 165605,
       "word": "湖人战胜鹈鹕",
@@ -2057,6 +2113,14 @@
       "onboard_time": 1713105920,
       "rank": 39,
       "category": "情感"
+    },
+    {
+      "raw_hot": 165077,
+      "num": 151374,
+      "word": "梁朝伟拿影帝的最大受害者出现了",
+      "onboard_time": 1713139098,
+      "rank": 30,
+      "category": "电影"
     },
     {
       "raw_hot": 164673,
@@ -2139,6 +2203,14 @@
       "category": "动漫,作品衍生"
     },
     {
+      "raw_hot": 158405,
+      "num": 158405,
+      "word": "国际金价疯涨金饰却遇冷",
+      "onboard_time": 1713125412,
+      "rank": 24,
+      "category": "财经"
+    },
+    {
       "raw_hot": 158245,
       "num": 158245,
       "word": "去狗咖把狗狗都哄睡着了",
@@ -2219,20 +2291,20 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 151636,
+      "num": 151636,
+      "word": "王一博早期与素人合照",
+      "onboard_time": 1713134113,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 151011,
       "num": 151011,
       "word": "赵露思曾黎王安宇聚会合照",
       "onboard_time": 1713091399,
       "rank": 42,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 150163,
-      "num": 150163,
-      "word": "国际金价疯涨金饰却遇冷",
-      "onboard_time": 1713125412,
-      "rank": 24,
-      "category": "财经"
     },
     {
       "raw_hot": 149843,
@@ -2251,6 +2323,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 149570,
+      "num": 149570,
+      "word": "Knight 十张身份证的决赛这次我会赢",
+      "onboard_time": 1713107657,
+      "rank": 31,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 149513,
       "num": 92742,
       "word": "以称已拦截超100架伊朗无人机",
@@ -2259,28 +2339,20 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 149305,
-      "num": 149305,
-      "word": "张元英头巾",
-      "onboard_time": 1713106578,
-      "rank": 26,
-      "category": "演出"
-    },
-    {
-      "raw_hot": 147064,
-      "num": 147064,
-      "word": "吃这3种水果或加重湿气",
-      "onboard_time": 1713108558,
-      "rank": 23,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 146158,
       "num": 146158,
       "word": "BABYMONSTER翻跳2NE1串烧",
       "onboard_time": 1713019940,
       "rank": 36,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 145607,
+      "num": 145607,
+      "word": "2024金像奖获奖名单",
+      "onboard_time": 1713138317,
+      "rank": 32,
+      "category": "电影"
     },
     {
       "raw_hot": 145522,
@@ -2328,14 +2400,6 @@
       "word": "吴镇宇排除纪凌尘好干脆",
       "onboard_time": 1713084738,
       "rank": 44,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 143284,
-      "num": 143284,
-      "word": "辛芷蕾听劝",
-      "onboard_time": 1713136275,
-      "rank": 27,
       "category": "综艺"
     },
     {
@@ -2401,14 +2465,6 @@
       "onboard_time": 1713081498,
       "rank": 47,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 135825,
-      "num": 135825,
-      "word": "王一博早期与素人合照",
-      "onboard_time": 1713134113,
-      "rank": 29,
-      "category": "艺人"
     },
     {
       "raw_hot": 135334,
@@ -2515,12 +2571,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 121102,
+      "num": 121102,
+      "word": "NBA常规赛收官日",
+      "onboard_time": 1713136336,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 120372,
       "num": 120372,
       "word": "郑雅譞跳T5 Move",
       "onboard_time": 1713027076,
       "rank": 31,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 118470,
+      "num": 118470,
+      "word": "I人小孩哥小孩姐一做饭秒变E孩",
+      "onboard_time": 1713138197,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 118310,
@@ -2531,11 +2603,19 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 118239,
-      "num": 118239,
-      "word": "Knight 十张身份证的决赛这次我会赢",
-      "onboard_time": 1713107657,
-      "rank": 31,
+      "raw_hot": 117945,
+      "num": 117945,
+      "word": "姚志明的身世",
+      "onboard_time": 1713113715,
+      "rank": 19,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 114837,
+      "num": 114837,
+      "word": "TES门票",
+      "onboard_time": 1713137537,
+      "rank": 34,
       "category": "电竞"
     },
     {
@@ -2587,20 +2667,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 97918,
-      "num": 97918,
-      "word": "TES门票",
-      "onboard_time": 1713137537,
-      "rank": 34,
-      "category": "电竞"
-    },
-    {
-      "raw_hot": 96345,
-      "num": 96345,
-      "word": "姚志明的身世",
-      "onboard_time": 1713113715,
-      "rank": 19,
-      "category": "剧集"
+      "raw_hot": 97935,
+      "num": 97935,
+      "word": "詹俊 争冠就看阿森纳和曼城了",
+      "onboard_time": 1713138798,
+      "rank": 41,
+      "category": "体育"
     },
     {
       "raw_hot": 95745,
@@ -2619,20 +2691,28 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 95614,
+      "num": 95614,
+      "word": "浓眉 附加赛能打",
+      "onboard_time": 1713137417,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 92674,
+      "num": 92674,
+      "word": "红色痘痘千万别用针扎",
+      "onboard_time": 1713139399,
+      "rank": 45,
+      "category": "健康医疗,美妆"
+    },
+    {
       "raw_hot": 91293,
       "num": 91293,
       "word": "曾志伟办71岁慈善生日宴",
       "onboard_time": 1713124990,
       "rank": 13,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 91204,
-      "num": 91204,
-      "word": "浓眉 附加赛能打",
-      "onboard_time": 1713137417,
-      "rank": 38,
-      "category": "体育"
     },
     {
       "raw_hot": 91015,
@@ -2649,6 +2729,14 @@
       "onboard_time": 1712994977,
       "rank": 48,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 89192,
+      "num": 89192,
+      "word": "英超",
+      "onboard_time": 1713139338,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 87490,
@@ -2731,6 +2819,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 70590,
+      "num": 805626,
+      "word": "60秒了解总体国家安全观",
+      "onboard_time": 1713103220,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 66771,
       "num": 65122,
       "word": "长期宅在家里能量是不流通的",
@@ -2747,28 +2843,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 63709,
-      "num": 63709,
-      "word": "NBA常规赛收官日",
-      "onboard_time": 1713136336,
-      "rank": 49,
-      "category": "体育"
-    },
-    {
       "raw_hot": 61754,
       "num": 61754,
       "word": "美股黄金白银大跳水",
       "onboard_time": 1713045310,
       "rank": 36,
       "category": "财经"
-    },
-    {
-      "raw_hot": 59553,
-      "num": 641214,
-      "word": "60秒了解总体国家安全观",
-      "onboard_time": 1713103220,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 58710,

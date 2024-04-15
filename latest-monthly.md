@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/04/01 00:20:44 ~ 2024/04/15 07:42:23
+本榜单时间：2024/04/01 00:20:44 ~ 2024/04/15 08:05:05
 </p>
 </blockquote>
 <p>
@@ -651,6 +651,12 @@ cp粉悬着的心终于死了（热度：1899421）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%AD%A9%E5%AD%90%E7%90%86%E5%8F%91138%E5%85%83%E5%A6%88%E5%A6%88%E5%AB%8C%E5%A4%AA%E8%B4%B5%E5%8F%AA%E6%84%BF%E4%BB%9824%23" target="weibo">
+孩子理发138元妈妈嫌太贵只愿付24（热度：1710524）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23Angelababy%E9%87%91%E5%83%8F%E5%A5%96%E7%BA%A2%E6%AF%AF%23" target="weibo">
 Angelababy金像奖红毯（热度：1709940）
 </a>
@@ -1061,12 +1067,6 @@ zara包（热度：1519616）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E6%9C%8B%E5%8F%8B%E5%A9%9A%E5%89%8D%E9%9A%90%E7%9E%92%E4%BB%967%E5%B9%B4%E5%89%8D%E5%9D%90%E8%BF%87%E7%89%A2%23" target="weibo">
 男朋友婚前隐瞒他7年前坐过牢（热度：1468015）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%AD%A9%E5%AD%90%E7%90%86%E5%8F%91138%E5%85%83%E5%A6%88%E5%A6%88%E5%AB%8C%E5%A4%AA%E8%B4%B5%E5%8F%AA%E6%84%BF%E4%BB%9824%23" target="weibo">
-孩子理发138元妈妈嫌太贵只愿付24（热度：1460456）
 </a>
 </li>
 
@@ -2373,6 +2373,12 @@ TFBOYS组合没解散（热度：1029893）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E8%BD%A6%E7%A5%B8%E5%90%8E%E8%BF%9E%E6%8B%A814%E6%AC%A1120%E7%BB%88%E8%87%AA%E6%95%91%23" target="weibo">
+男子车祸后连拨14次120终自救（热度：983788）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A6%88%E5%A6%88%E6%BE%84%E6%B8%85%E6%AC%A7%E9%98%B3%E5%A8%A3%E5%A8%A3%E5%90%8D%E5%AD%97%E7%94%B1%E6%9D%A5%23" target="weibo">
 妈妈澄清欧阳娣娣名字由来（热度：981512）
 </a>
@@ -2381,6 +2387,12 @@ TFBOYS组合没解散（热度：1029893）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E6%97%A0%E7%B3%96%E7%B3%96%E8%91%AB%E8%8A%A6%23" target="weibo">
 韩国无糖糖葫芦（热度：979913）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%AC%AC%E4%B8%80%E6%89%B9%E4%B8%81%E5%85%8B%E5%A4%AB%E5%A6%BB%E7%8E%B0%E7%8A%B6%E6%9B%9D%E5%85%89%23" target="weibo">
+第一批丁克夫妻现状曝光（热度：979874）
 </a>
 </li>
 
@@ -2759,12 +2771,6 @@ TFBOYS组合没解散（热度：1029893）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23TES%E9%9B%B6%E5%B0%81JDG%23" target="weibo">
 TES零封JDG（热度：901726）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E8%BD%A6%E7%A5%B8%E5%90%8E%E8%BF%9E%E6%8B%A814%E6%AC%A1120%E7%BB%88%E8%87%AA%E6%95%91%23" target="weibo">
-男子车祸后连拨14次120终自救（热度：898584）
 </a>
 </li>
 
@@ -3543,6 +3549,12 @@ infp 最接近神的人格（热度：822265）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%A7%91%E7%A0%94%E4%BA%BA%E5%91%98%E5%87%BA%E5%8D%96%E6%A0%B8%E5%BF%83%E6%9C%BA%E5%AF%86%E8%A2%AB%E6%89%A7%E8%A1%8C%E6%AD%BB%E5%88%91%23" target="weibo">
+科研人员出卖核心机密被执行死刑（热度：779242）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A4%9A%E5%8A%A8%E7%97%87%E7%94%B7%E5%AD%A9%E6%AC%BA%E8%B4%9F%E5%90%8C%E5%AD%A646%E5%90%8D%E5%AE%B6%E9%95%BF%E8%AF%B7%E6%84%BF%E5%85%B6%E8%BD%AC%E5%AD%A6%23" target="weibo">
 多动症男孩欺负同学46名家长请愿其转学（热度：778307）
 </a>
@@ -3683,6 +3695,12 @@ infp 最接近神的人格（热度：822265）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%A6%8F%E5%AE%9D%E6%8A%8A%E5%AE%8B%E5%AE%9D%E7%9A%84%E9%AD%82%E9%83%BD%E5%B8%A6%E8%B5%B0%E4%BA%86%23" target="weibo">
 福宝把宋宝的魂都带走了（热度：762582）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%86%85%E5%A1%94%E5%B0%BC%E4%BA%9A%E8%83%A1%E5%8F%96%E6%B6%88%E5%9B%9E%E5%87%BB%E4%BC%8A%E6%9C%97%23" target="weibo">
+内塔尼亚胡取消回击伊朗（热度：762188）
 </a>
 </li>
 
@@ -3923,12 +3941,6 @@ infp 最接近神的人格（热度：822265）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%80%81%E6%9D%BF%20%E4%B8%8D%E8%A6%81%E9%A6%99%E8%8F%9C%23" target="weibo">
 老板 不要香菜（热度：733922）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%A7%91%E7%A0%94%E4%BA%BA%E5%91%98%E5%87%BA%E5%8D%96%E6%A0%B8%E5%BF%83%E6%9C%BA%E5%AF%86%E8%A2%AB%E6%89%A7%E8%A1%8C%E6%AD%BB%E5%88%91%23" target="weibo">
-科研人员出卖核心机密被执行死刑（热度：733902）
 </a>
 </li>
 
@@ -5999,18 +6011,6 @@ RNG直播需付费观看（热度：555663）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B1%9F%E8%A5%BF%E5%B8%88%E5%A4%A7%E7%94%B7%E5%AD%A6%E7%94%9F%E8%99%90%E7%8C%AB%23" target="weibo">
 江西师大男学生虐猫（热度：550144）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E5%A4%AB%E5%A6%87%E5%9B%A0%E5%84%BF%E5%AD%90%E6%9E%AA%E6%9D%804%E4%BA%BA%E8%A2%AB%E5%88%A415%E5%B9%B4%E7%9B%91%E7%A6%81%23" target="weibo">
-美国夫妇因儿子枪杀4人被判15年监禁（热度：550130）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E8%AE%B0%E5%BD%9528%E5%B2%81%E5%A6%B9%E5%A6%B9%E5%92%8C6%E5%B2%81%E5%A5%B3%E5%84%BF%E7%A5%9E%E4%BC%BC%E7%9E%AC%E9%97%B4%23" target="weibo">
-女子记录28岁妹妹和6岁女儿神似瞬间（热度：549752）
 </a>
 </li>
 

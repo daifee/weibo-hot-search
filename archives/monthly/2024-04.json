@@ -1,6 +1,6 @@
 {
   "startTime": 1711902044401,
-  "endTime": 1713138143208,
+  "endTime": 1713139505424,
   "band_list": [
     {
       "raw_hot": 16874674,
@@ -851,6 +851,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 1710524,
+      "num": 1710524,
+      "word": "孩子理发138元妈妈嫌太贵只愿付24",
+      "onboard_time": 1713118813,
+      "rank": 0,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1709940,
       "num": 665023,
       "word": "Angelababy金像奖红毯",
@@ -1401,14 +1409,6 @@
       "onboard_time": 1711966459,
       "rank": 32,
       "category": "情感"
-    },
-    {
-      "raw_hot": 1460456,
-      "num": 1460456,
-      "word": "孩子理发138元妈妈嫌太贵只愿付24",
-      "onboard_time": 1713118813,
-      "rank": 0,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1451830,
@@ -3147,6 +3147,14 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 983788,
+      "num": 983788,
+      "word": "男子车祸后连拨14次120终自救",
+      "onboard_time": 1713122472,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 981512,
       "num": 981512,
       "word": "妈妈澄清欧阳娣娣名字由来",
@@ -3161,6 +3169,14 @@
       "onboard_time": 1712565080,
       "rank": 41,
       "category": "美食"
+    },
+    {
+      "raw_hot": 979874,
+      "num": 412871,
+      "word": "第一批丁克夫妻现状曝光",
+      "onboard_time": 1713138557,
+      "rank": 10,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 979601,
@@ -3665,14 +3681,6 @@
       "onboard_time": 1712495479,
       "rank": 5,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 898584,
-      "num": 898584,
-      "word": "男子车祸后连拨14次120终自救",
-      "onboard_time": 1713122472,
-      "rank": 10,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 897265,
@@ -4707,6 +4715,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 779242,
+      "num": 779242,
+      "word": "科研人员出卖核心机密被执行死刑",
+      "onboard_time": 1713092899,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 778307,
       "num": 351851,
       "word": "多动症男孩欺负同学46名家长请愿其转学",
@@ -4897,6 +4913,14 @@
       "onboard_time": 1712707039,
       "rank": 7,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 762188,
+      "num": 762188,
+      "word": "内塔尼亚胡取消回击伊朗",
+      "onboard_time": 1713138138,
+      "rank": 4,
+      "category": "国外时政"
     },
     {
       "raw_hot": 760708,
@@ -5217,14 +5241,6 @@
       "onboard_time": 1713060138,
       "rank": 7,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 733902,
-      "num": 733902,
-      "word": "科研人员出卖核心机密被执行死刑",
-      "onboard_time": 1713092899,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 733750,
@@ -8699,6 +8715,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 517398,
+      "num": 517398,
+      "word": "海仁和孩子的墓碑",
+      "onboard_time": 1713110117,
+      "rank": 6,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 516918,
       "num": 306651,
       "word": "很舒服但很伤身体行为",
@@ -10179,14 +10203,6 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 457329,
-      "num": 457329,
-      "word": "海仁和孩子的墓碑",
-      "onboard_time": 1713110117,
-      "rank": 6,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 457265,
       "num": 295468,
       "word": "男朋友说金价太高结婚时不买三金",
@@ -11547,6 +11563,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 413153,
+      "num": 225271,
+      "word": "很体面工资却不高的工作",
+      "onboard_time": 1713107539,
+      "rank": 21,
+      "category": "情感"
+    },
+    {
       "raw_hot": 412441,
       "num": 412441,
       "word": "上饶提灯定损房东女儿疑被开除",
@@ -11769,6 +11793,14 @@
       "onboard_time": 1712975117,
       "rank": 7,
       "category": "体育"
+    },
+    {
+      "raw_hot": 403172,
+      "num": 403172,
+      "word": "钟美美回应带家人出国计划",
+      "onboard_time": 1713100278,
+      "rank": 31,
+      "category": "网红"
     },
     {
       "raw_hot": 402438,
@@ -12539,6 +12571,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 376944,
+      "num": 376944,
+      "word": "何超仪拄拐带老公亮相黄贯中画展",
+      "onboard_time": 1713130631,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 376612,
       "num": 267898,
       "word": "妈妈十年前的QQ空间",
@@ -13019,14 +13059,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 360473,
-      "num": 164109,
-      "word": "很体面工资却不高的工作",
-      "onboard_time": 1713107539,
-      "rank": 21,
-      "category": "情感"
-    },
-    {
       "raw_hot": 360421,
       "num": 360421,
       "word": "babymonster直播",
@@ -13080,14 +13112,6 @@
       "word": "许光汉站姐",
       "onboard_time": 1711948222,
       "rank": 24,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 357621,
-      "num": 341011,
-      "word": "何超仪拄拐带老公亮相黄贯中画展",
-      "onboard_time": 1713130631,
-      "rank": 32,
       "category": "艺人"
     },
     {
@@ -15603,6 +15627,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 300259,
+      "num": 300259,
+      "word": "伊朗再次警告美国勿插手",
+      "onboard_time": 1713138377,
+      "rank": 15,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 300247,
       "num": 300247,
       "word": "教资69",
@@ -17459,6 +17491,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 265156,
+      "num": 265156,
+      "word": "XG夺冠",
+      "onboard_time": 1713137055,
+      "rank": 16,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 265153,
       "num": 265153,
       "word": "云南昭通鲁甸县4.9级地震",
@@ -18225,14 +18265,6 @@
       "onboard_time": 1712829139,
       "rank": 25,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 255018,
-      "num": 255018,
-      "word": "钟美美回应带家人出国计划",
-      "onboard_time": 1713100278,
-      "rank": 31,
-      "category": "网红"
     },
     {
       "raw_hot": 254404,
@@ -19475,6 +19507,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 239498,
+      "num": 413974,
+      "word": "炸串奶奶摊前排起长队",
+      "onboard_time": 1713122531,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 239473,
       "num": 239473,
       "word": "相声演员陈涌泉去世",
@@ -19932,7 +19972,7 @@
     },
     {
       "raw_hot": 233393,
-      "num": 163536,
+      "num": 224459,
       "word": "卫健委调查男子献血13次妻子用血却被拒",
       "onboard_time": 1713123911,
       "rank": 20,
@@ -22387,14 +22427,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 207841,
-      "num": 207841,
-      "word": "XG夺冠",
-      "onboard_time": 1713137055,
-      "rank": 16,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 207765,
       "num": 188196,
       "word": "双相情感障碍和正常人区别",
@@ -22473,14 +22505,6 @@
       "onboard_time": 1712642359,
       "rank": 26,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 207214,
-      "num": 341273,
-      "word": "炸串奶奶摊前排起长队",
-      "onboard_time": 1713122531,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 207184,
@@ -25963,6 +25987,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 187440,
+      "num": 187440,
+      "word": "张元英头巾",
+      "onboard_time": 1713106578,
+      "rank": 26,
+      "category": "演出"
+    },
+    {
       "raw_hot": 187420,
       "num": 187420,
       "word": "莫桑比克沉船多名儿童死亡",
@@ -26883,6 +26915,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 182369,
+      "num": 182369,
+      "word": "梁朝伟金像奖影帝",
+      "onboard_time": 1713106218,
+      "rank": 14,
+      "category": "电影"
+    },
+    {
       "raw_hot": 182277,
       "num": 182277,
       "word": "Liz生图",
@@ -27321,6 +27361,14 @@
       "onboard_time": 1712888898,
       "rank": 43,
       "category": "电影"
+    },
+    {
+      "raw_hot": 178643,
+      "num": 178643,
+      "word": "辛芷蕾听劝",
+      "onboard_time": 1713136275,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 178527,
@@ -27939,6 +27987,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 173981,
+      "num": 173981,
+      "word": "勇士冲进附加赛",
+      "onboard_time": 1713138737,
+      "rank": 26,
+      "category": "体育"
+    },
+    {
       "raw_hot": 173960,
       "num": 173960,
       "word": "原来这就是菠萝跟凤梨的区别",
@@ -28393,6 +28449,14 @@
       "onboard_time": 1712924598,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 170506,
+      "num": 170506,
+      "word": "吃这3种水果或加重湿气",
+      "onboard_time": 1713108558,
+      "rank": 23,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 170481,
@@ -28955,14 +29019,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 166066,
-      "num": 166066,
-      "word": "梁朝伟金像奖影帝",
-      "onboard_time": 1713106218,
-      "rank": 14,
-      "category": "电影"
-    },
-    {
       "raw_hot": 166023,
       "num": 161139,
       "word": "沈图南杀了林樵松",
@@ -29073,6 +29129,14 @@
       "onboard_time": 1713105920,
       "rank": 39,
       "category": "情感"
+    },
+    {
+      "raw_hot": 165077,
+      "num": 151374,
+      "word": "梁朝伟拿影帝的最大受害者出现了",
+      "onboard_time": 1713139098,
+      "rank": 30,
+      "category": "电影"
     },
     {
       "raw_hot": 165002,
@@ -30171,6 +30235,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 158405,
+      "num": 158405,
+      "word": "国际金价疯涨金饰却遇冷",
+      "onboard_time": 1713125412,
+      "rank": 24,
+      "category": "财经"
+    },
+    {
       "raw_hot": 158380,
       "num": 158380,
       "word": "95后小伙向养老院捐骨灰盒被轰走",
@@ -31259,6 +31331,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 151636,
+      "num": 151636,
+      "word": "王一博早期与素人合照",
+      "onboard_time": 1713134113,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 151605,
       "num": 151605,
       "word": "承欢记 你的强来了",
@@ -31491,14 +31571,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 150163,
-      "num": 150163,
-      "word": "国际金价疯涨金饰却遇冷",
-      "onboard_time": 1713125412,
-      "rank": 24,
-      "category": "财经"
-    },
-    {
       "raw_hot": 150153,
       "num": 150153,
       "word": "过完清明假期办公室全体离职",
@@ -31579,6 +31651,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 149570,
+      "num": 149570,
+      "word": "Knight 十张身份证的决赛这次我会赢",
+      "onboard_time": 1713107657,
+      "rank": 31,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 149513,
       "num": 92742,
       "word": "以称已拦截超100架伊朗无人机",
@@ -31601,14 +31681,6 @@
       "onboard_time": 1712889318,
       "rank": 38,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 149305,
-      "num": 149305,
-      "word": "张元英头巾",
-      "onboard_time": 1713106578,
-      "rank": 26,
-      "category": "演出"
     },
     {
       "raw_hot": 149280,
@@ -32003,14 +32075,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 147064,
-      "num": 147064,
-      "word": "吃这3种水果或加重湿气",
-      "onboard_time": 1713108558,
-      "rank": 23,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 147052,
       "num": 147052,
       "word": "旅行最怕的就是手机没电",
@@ -32265,6 +32329,14 @@
       "onboard_time": 1712021478,
       "rank": 42,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 145607,
+      "num": 145607,
+      "word": "2024金像奖获奖名单",
+      "onboard_time": 1713138317,
+      "rank": 32,
+      "category": "电影"
     },
     {
       "raw_hot": 145606,
@@ -32593,14 +32665,6 @@
       "onboard_time": 1711935198,
       "rank": 42,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 143284,
-      "num": 143284,
-      "word": "辛芷蕾听劝",
-      "onboard_time": 1713136275,
-      "rank": 27,
-      "category": "综艺"
     },
     {
       "raw_hot": 143269,
@@ -33689,14 +33753,6 @@
       "onboard_time": 1712756059,
       "rank": 48,
       "category": "演出"
-    },
-    {
-      "raw_hot": 135825,
-      "num": 135825,
-      "word": "王一博早期与素人合照",
-      "onboard_time": 1713134113,
-      "rank": 29,
-      "category": "艺人"
     },
     {
       "raw_hot": 135806,
@@ -35467,6 +35523,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 121102,
+      "num": 121102,
+      "word": "NBA常规赛收官日",
+      "onboard_time": 1713136336,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 121095,
       "num": 121095,
       "word": "金钟仁纪念EXO出道12周年",
@@ -35747,6 +35811,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 118470,
+      "num": 118470,
+      "word": "I人小孩哥小孩姐一做饭秒变E孩",
+      "onboard_time": 1713138197,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 118423,
       "num": 118423,
       "word": "窝囊废和他的荧光粉",
@@ -35771,20 +35843,20 @@
       "category": "情感"
     },
     {
-      "raw_hot": 118239,
-      "num": 118239,
-      "word": "Knight 十张身份证的决赛这次我会赢",
-      "onboard_time": 1713107657,
-      "rank": 31,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 118110,
       "num": 118110,
       "word": "ILLIT冠军秀",
       "onboard_time": 1712159777,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 117945,
+      "num": 117945,
+      "word": "姚志明的身世",
+      "onboard_time": 1713113715,
+      "rank": 19,
+      "category": "剧集"
     },
     {
       "raw_hot": 117934,
@@ -36065,6 +36137,14 @@
       "onboard_time": 1712218098,
       "rank": 47,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 114837,
+      "num": 114837,
+      "word": "TES门票",
+      "onboard_time": 1713137537,
+      "rank": 34,
+      "category": "电竞"
     },
     {
       "raw_hot": 114739,
@@ -37075,12 +37155,12 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 97918,
-      "num": 97918,
-      "word": "TES门票",
-      "onboard_time": 1713137537,
-      "rank": 34,
-      "category": "电竞"
+      "raw_hot": 97935,
+      "num": 97935,
+      "word": "詹俊 争冠就看阿森纳和曼城了",
+      "onboard_time": 1713138798,
+      "rank": 41,
+      "category": "体育"
     },
     {
       "raw_hot": 97707,
@@ -37187,14 +37267,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 96345,
-      "num": 96345,
-      "word": "姚志明的身世",
-      "onboard_time": 1713113715,
-      "rank": 19,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 95850,
       "num": 1412890,
       "word": "诗经里的绝美中国色",
@@ -37217,6 +37289,14 @@
       "onboard_time": 1713051255,
       "rank": 37,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 95614,
+      "num": 95614,
+      "word": "浓眉 附加赛能打",
+      "onboard_time": 1713137417,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 95088,
@@ -37323,6 +37403,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 92674,
+      "num": 92674,
+      "word": "红色痘痘千万别用针扎",
+      "onboard_time": 1713139399,
+      "rank": 45,
+      "category": "健康医疗,美妆"
+    },
+    {
       "raw_hot": 92448,
       "num": 451074,
       "word": "那些莫名其妙的请假理由",
@@ -37395,14 +37483,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 91204,
-      "num": 91204,
-      "word": "浓眉 附加赛能打",
-      "onboard_time": 1713137417,
-      "rank": 38,
-      "category": "体育"
-    },
-    {
       "raw_hot": 91129,
       "num": 91129,
       "word": "张颂文第一反应竟是上手",
@@ -37473,6 +37553,14 @@
       "onboard_time": 1712394318,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 89192,
+      "num": 89192,
+      "word": "英超",
+      "onboard_time": 1713139338,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 88899,
@@ -38147,6 +38235,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 70590,
+      "num": 805626,
+      "word": "60秒了解总体国家安全观",
+      "onboard_time": 1713103220,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 70309,
       "num": 70309,
       "word": "十二年一遇的时刻",
@@ -38339,14 +38435,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 63709,
-      "num": 63709,
-      "word": "NBA常规赛收官日",
-      "onboard_time": 1713136336,
-      "rank": 49,
-      "category": "体育"
-    },
-    {
       "raw_hot": 63636,
       "num": 63636,
       "word": "田柾国评论李龙馥视频",
@@ -38433,14 +38521,6 @@
       "onboard_time": 1711996512,
       "rank": 4,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 59553,
-      "num": 641214,
-      "word": "60秒了解总体国家安全观",
-      "onboard_time": 1713103220,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 59476,
