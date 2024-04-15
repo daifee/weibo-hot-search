@@ -1,6 +1,6 @@
 {
   "startTime": 1711902044401,
-  "endTime": 1713170146324,
+  "endTime": 1713172606430,
   "band_list": [
     {
       "raw_hot": 16874674,
@@ -3579,6 +3579,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 926190,
+      "num": 557848,
+      "word": "86岁老人迎娶初恋女友",
+      "onboard_time": 1713169217,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 925314,
       "num": 649869,
       "word": "虐猫考生",
@@ -4507,6 +4515,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 810605,
+      "num": 548700,
+      "word": "李显龙将辞职",
+      "onboard_time": 1713171619,
+      "rank": 4,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 810581,
       "num": 449198,
       "word": "庆余年2 泄漏",
@@ -4625,6 +4641,14 @@
       "onboard_time": 1712558058,
       "rank": 43,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 799895,
+      "num": 316028,
+      "word": "黄子韬求导演管管徐艺洋",
+      "onboard_time": 1713167118,
+      "rank": 18,
+      "category": "综艺"
     },
     {
       "raw_hot": 799710,
@@ -5577,14 +5601,6 @@
       "onboard_time": 1712320398,
       "rank": 26,
       "category": "情感"
-    },
-    {
-      "raw_hot": 714715,
-      "num": 316028,
-      "word": "黄子韬求导演管管徐艺洋",
-      "onboard_time": 1713167118,
-      "rank": 18,
-      "category": "综艺"
     },
     {
       "raw_hot": 713771,
@@ -8851,6 +8867,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 521575,
+      "num": 521575,
+      "word": "五一档电影",
+      "onboard_time": 1713167538,
+      "rank": 24,
+      "category": "电影"
+    },
+    {
       "raw_hot": 520213,
       "num": 520213,
       "word": "羊幂无语",
@@ -9881,6 +9905,14 @@
       "onboard_time": 1712828359,
       "rank": 6,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 479399,
+      "num": 479399,
+      "word": "眼泪女王又要等六年",
+      "onboard_time": 1713166757,
+      "rank": 8,
+      "category": "剧集"
     },
     {
       "raw_hot": 479382,
@@ -10979,14 +11011,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 440514,
-      "num": 440514,
-      "word": "眼泪女王又要等六年",
-      "onboard_time": 1713166757,
-      "rank": 8,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 440208,
       "num": 440208,
       "word": "冉莹颖的3个儿子也分房睡",
@@ -11449,6 +11473,14 @@
       "onboard_time": 1712464820,
       "rank": 15,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 426072,
+      "num": 426072,
+      "word": "太湖湾音乐节 不可抗力",
+      "onboard_time": 1713169397,
+      "rank": 30,
+      "category": "演出"
     },
     {
       "raw_hot": 425955,
@@ -13012,7 +13044,7 @@
     },
     {
       "raw_hot": 372597,
-      "num": 211060,
+      "num": 236139,
       "word": "男生是否介意女生婚前有房贷",
       "onboard_time": 1713169938,
       "rank": 24,
@@ -13177,6 +13209,14 @@
       "onboard_time": 1712990897,
       "rank": 16,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 367523,
+      "num": 367523,
+      "word": "李现任敏跳了fate",
+      "onboard_time": 1713168498,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 367443,
@@ -13665,6 +13705,14 @@
       "onboard_time": 1712981057,
       "rank": 27,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 354701,
+      "num": 354701,
+      "word": "中方敦促美方立即停止网络攻击",
+      "onboard_time": 1713169878,
+      "rank": 46,
+      "category": "国内时政"
     },
     {
       "raw_hot": 354350,
@@ -14465,14 +14513,6 @@
       "onboard_time": 1712283498,
       "rank": 29,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 333741,
-      "num": 333741,
-      "word": "五一档电影",
-      "onboard_time": 1713167538,
-      "rank": 24,
-      "category": "电影"
     },
     {
       "raw_hot": 333571,
@@ -16929,14 +16969,6 @@
       "onboard_time": 1712414420,
       "rank": 27,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 284944,
-      "num": 284944,
-      "word": "李现任敏跳了fate",
-      "onboard_time": 1713168498,
-      "rank": 28,
-      "category": "剧集"
     },
     {
       "raw_hot": 284708,
@@ -20083,6 +20115,14 @@
       "category": "游戏,作品衍生"
     },
     {
+      "raw_hot": 239349,
+      "num": 239349,
+      "word": "李泰容ins",
+      "onboard_time": 1713169277,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 239250,
       "num": 239250,
       "word": "多批次梦龙雪糕被召回",
@@ -20643,6 +20683,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 232261,
+      "num": 232261,
+      "word": "李现 你们是雇的还是员工",
+      "onboard_time": 1713171796,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 232090,
       "num": 232090,
       "word": "水牛",
@@ -20697,14 +20745,6 @@
       "onboard_time": 1712323280,
       "rank": 27,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 231630,
-      "num": 196987,
-      "word": "太湖湾音乐节 不可抗力",
-      "onboard_time": 1713169397,
-      "rank": 30,
-      "category": "演出"
     },
     {
       "raw_hot": 231611,
@@ -21433,6 +21473,14 @@
       "onboard_time": 1712654479,
       "rank": 27,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 223398,
+      "num": 202524,
+      "word": "柳岩就差点名道姓了",
+      "onboard_time": 1713172338,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 223306,
@@ -22297,14 +22345,6 @@
       "onboard_time": 1712487258,
       "rank": 27,
       "category": "教育"
-    },
-    {
-      "raw_hot": 214475,
-      "num": 214475,
-      "word": "李泰容ins",
-      "onboard_time": 1713169277,
-      "rank": 19,
-      "category": "艺人"
     },
     {
       "raw_hot": 214409,
@@ -23259,6 +23299,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 206780,
+      "num": 206780,
+      "word": "外交部回应悉尼持刀行凶事件",
+      "onboard_time": 1713172158,
+      "rank": 28,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 206774,
       "num": 206774,
       "word": "Ning谈去iG试训",
@@ -24024,6 +24072,14 @@
       "word": "陆婷怀孕",
       "onboard_time": 1711881079,
       "rank": 25,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 202538,
+      "num": 202538,
+      "word": "许志安首次正面回应安心事件",
+      "onboard_time": 1713171619,
+      "rank": 29,
       "category": "艺人"
     },
     {
@@ -26939,6 +26995,14 @@
       "category": "母婴育儿"
     },
     {
+      "raw_hot": 186586,
+      "num": 186586,
+      "word": "薛之谦演唱会 一个人来的",
+      "onboard_time": 1713172099,
+      "rank": 34,
+      "category": "演出"
+    },
+    {
       "raw_hot": 186555,
       "num": 186555,
       "word": "吃青团",
@@ -28219,6 +28283,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 178253,
+      "num": 178253,
+      "word": "为什么火锅锅底越来越贵",
+      "onboard_time": 1713171198,
+      "rank": 36,
+      "category": "美食"
+    },
+    {
       "raw_hot": 178244,
       "num": 178244,
       "word": "给狗狗做的饭被男朋友偷吃了",
@@ -28969,6 +29041,14 @@
       "onboard_time": 1712240240,
       "rank": 45,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 172945,
+      "num": 172945,
+      "word": "贺军翔 无代餐",
+      "onboard_time": 1713171017,
+      "rank": 37,
+      "category": "艺人"
     },
     {
       "raw_hot": 172894,
@@ -30595,14 +30675,6 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 161196,
-      "num": 161196,
-      "word": "86岁老人迎娶初恋女友",
-      "onboard_time": 1713169217,
-      "rank": 34,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 161153,
       "num": 161153,
       "word": "长春亚泰1比2上海申花",
@@ -31729,6 +31801,14 @@
       "onboard_time": 1712725461,
       "rank": 28,
       "category": "体育"
+    },
+    {
+      "raw_hot": 154082,
+      "num": 151474,
+      "word": "易烊千玺竖纹西装",
+      "onboard_time": 1713170837,
+      "rank": 41,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 154066,
@@ -34668,7 +34748,7 @@
     },
     {
       "raw_hot": 136404,
-      "num": 564685,
+      "num": 603916,
       "word": "今天是第九个全民国家安全教育日",
       "onboard_time": 1713167359,
       "rank": 2,
@@ -35033,6 +35113,14 @@
       "onboard_time": 1712242581,
       "rank": 47,
       "category": "情感"
+    },
+    {
+      "raw_hot": 133960,
+      "num": 133960,
+      "word": "头一次见这么离谱的过敏原",
+      "onboard_time": 1713170177,
+      "rank": 44,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 133958,
@@ -35457,6 +35545,14 @@
       "onboard_time": 1712234959,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 130714,
+      "num": 130714,
+      "word": "NCT127送李泰容入伍",
+      "onboard_time": 1713171257,
+      "rank": 45,
+      "category": "艺人"
     },
     {
       "raw_hot": 130630,
@@ -37289,14 +37385,6 @@
       "onboard_time": 1712953991,
       "rank": 34,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 114730,
-      "num": 114730,
-      "word": "中方敦促美方立即停止网络攻击",
-      "onboard_time": 1713169878,
-      "rank": 46,
-      "category": "国内时政"
     },
     {
       "raw_hot": 114675,
