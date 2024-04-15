@@ -1,6 +1,6 @@
 {
   "startTime": 1711902044401,
-  "endTime": 1713205323676,
+  "endTime": 1713206150429,
   "band_list": [
     {
       "raw_hot": 16874674,
@@ -40827,6 +40827,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 62368,
+      "num": 62368,
+      "word": "罗伯特是AI林萧吧",
+      "onboard_time": 1713202693,
+      "rank": 13,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 61754,
       "num": 61754,
       "word": "美股黄金白银大跳水",
@@ -40881,14 +40889,6 @@
       "onboard_time": 1711996512,
       "rank": 4,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 59630,
-      "num": 59630,
-      "word": "罗伯特是AI林萧吧",
-      "onboard_time": 1713202693,
-      "rank": 13,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 59476,
@@ -41779,6 +41779,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 32327,
+      "num": 32327,
+      "word": "为什么网上买药比实体店更便宜",
+      "onboard_time": 1713205213,
+      "rank": 49,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 32137,
       "num": 32137,
       "word": "张小斐年度影响力演员",
@@ -42451,14 +42459,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 18660,
-      "num": 24111,
-      "word": "为什么网上买药比实体店更便宜",
-      "onboard_time": 1713205213,
-      "rank": 49,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 18638,
       "num": 18638,
       "word": "宇多田光时隔24年唱First love",
@@ -42505,6 +42505,14 @@
       "onboard_time": 1712755339,
       "rank": 25,
       "category": "数码"
+    },
+    {
+      "raw_hot": 17256,
+      "num": 22431,
+      "word": "罗马球员恩迪卡突发心脏问题",
+      "onboard_time": 1713205572,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 17010,
@@ -42649,6 +42657,14 @@
       "onboard_time": 1712907378,
       "rank": 38,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 12835,
+      "num": 25658,
+      "word": "黄沙漫天戍边民警夫妻为学生护航",
+      "onboard_time": 1713206053,
+      "rank": 39,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 12521,
