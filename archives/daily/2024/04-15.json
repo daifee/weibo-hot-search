@@ -1,6 +1,6 @@
 {
   "startTime": 1713132599554,
-  "endTime": 1713169108276,
+  "endTime": 1713170146324,
   "band_list": [
     {
       "raw_hot": 3410457,
@@ -107,20 +107,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 969408,
+      "num": 647597,
+      "word": "任敏旗袍",
+      "onboard_time": 1713163457,
+      "rank": 4,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 948682,
       "num": 948682,
       "word": "王晶称梁朝伟应宣布不再领奖",
       "onboard_time": 1713153860,
       "rank": 5,
       "category": "电影"
-    },
-    {
-      "raw_hot": 924394,
-      "num": 647597,
-      "word": "任敏旗袍",
-      "onboard_time": 1713163457,
-      "rank": 4,
-      "category": "剧集"
     },
     {
       "raw_hot": 915372,
@@ -195,6 +195,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 714715,
+      "num": 316028,
+      "word": "黄子韬求导演管管徐艺洋",
+      "onboard_time": 1713167118,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 709104,
       "num": 709104,
       "word": "拼多多上爱花钱的女人",
@@ -219,14 +227,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 638885,
-      "num": 316028,
-      "word": "黄子韬求导演管管徐艺洋",
-      "onboard_time": 1713167118,
-      "rank": 18,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 626517,
       "num": 626517,
       "word": "华为P70 Pura",
@@ -236,7 +236,7 @@
     },
     {
       "raw_hot": 609025,
-      "num": 491211,
+      "num": 557745,
       "word": "一克拉肾结石",
       "onboard_time": 1713165258,
       "rank": 16,
@@ -257,6 +257,14 @@
       "onboard_time": 1713103940,
       "rank": 15,
       "category": "情感"
+    },
+    {
+      "raw_hot": 564637,
+      "num": 564637,
+      "word": "特斯拉全球裁员10%",
+      "onboard_time": 1713168078,
+      "rank": 15,
+      "category": "汽车"
     },
     {
       "raw_hot": 556839,
@@ -324,11 +332,19 @@
     },
     {
       "raw_hot": 471635,
-      "num": 340539,
+      "num": 375024,
       "word": "广东一大桥发生事故致2人遇难",
       "onboard_time": 1713164177,
       "rank": 25,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 440514,
+      "num": 440514,
+      "word": "眼泪女王又要等六年",
+      "onboard_time": 1713166757,
+      "rank": 8,
+      "category": "剧集"
     },
     {
       "raw_hot": 432840,
@@ -443,6 +459,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 372597,
+      "num": 211060,
+      "word": "男生是否介意女生婚前有房贷",
+      "onboard_time": 1713169938,
+      "rank": 24,
+      "category": "情感"
+    },
+    {
       "raw_hot": 366655,
       "num": 366655,
       "word": "薛之谦把重庆洪崖洞说成了成都洪崖洞",
@@ -467,12 +491,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 346557,
-      "num": 346557,
-      "word": "眼泪女王又要等六年",
-      "onboard_time": 1713166757,
-      "rank": 8,
-      "category": "剧集"
+      "raw_hot": 357993,
+      "num": 357993,
+      "word": "外资涌入抄底A股",
+      "onboard_time": 1713166878,
+      "rank": 17,
+      "category": "财经"
     },
     {
       "raw_hot": 341516,
@@ -491,12 +515,12 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 340481,
-      "num": 340481,
-      "word": "特斯拉全球裁员10%",
-      "onboard_time": 1713168078,
-      "rank": 15,
-      "category": "汽车"
+      "raw_hot": 333741,
+      "num": 333741,
+      "word": "五一档电影",
+      "onboard_time": 1713167538,
+      "rank": 24,
+      "category": "电影"
     },
     {
       "raw_hot": 328846,
@@ -512,14 +536,6 @@
       "word": "吉林高速大赚5亿不分红",
       "onboard_time": 1713155961,
       "rank": 49,
-      "category": "财经"
-    },
-    {
-      "raw_hot": 321018,
-      "num": 321018,
-      "word": "外资涌入抄底A股",
-      "onboard_time": 1713166878,
-      "rank": 17,
       "category": "财经"
     },
     {
@@ -603,6 +619,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 284944,
+      "num": 284944,
+      "word": "李现任敏跳了fate",
+      "onboard_time": 1713168498,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 276152,
       "num": 276152,
       "word": "林保怡 可惜",
@@ -683,14 +707,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 241635,
-      "num": 241635,
-      "word": "五一档电影",
-      "onboard_time": 1713167538,
-      "rank": 24,
-      "category": "电影"
-    },
-    {
       "raw_hot": 239498,
       "num": 413974,
       "word": "炸串奶奶摊前排起长队",
@@ -729,6 +745,14 @@
       "onboard_time": 1713123911,
       "rank": 20,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 231630,
+      "num": 196987,
+      "word": "太湖湾音乐节 不可抗力",
+      "onboard_time": 1713169397,
+      "rank": 30,
+      "category": "演出"
     },
     {
       "raw_hot": 230711,
@@ -803,6 +827,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 214475,
+      "num": 214475,
+      "word": "李泰容ins",
+      "onboard_time": 1713169277,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 213849,
       "num": 213849,
       "word": "律师谈猫一杯MCN机构责任",
@@ -851,14 +883,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 206071,
-      "num": 206071,
-      "word": "李现任敏跳了fate",
-      "onboard_time": 1713168498,
-      "rank": 28,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 202068,
       "num": 202068,
       "word": "洪胜汉 高考",
@@ -891,6 +915,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 199506,
+      "num": 199506,
+      "word": "曲阜师大一学院课堂禁止使用电子产品",
+      "onboard_time": 1713167899,
+      "rank": 33,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 198885,
       "num": 198885,
       "word": "北影节抢票",
@@ -921,6 +953,14 @@
       "onboard_time": 1713154940,
       "rank": 34,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 194058,
+      "num": 194058,
+      "word": "甄嬛去哪了",
+      "onboard_time": 1713169397,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 193400,
@@ -1019,14 +1059,6 @@
       "category": "情感,作品衍生"
     },
     {
-      "raw_hot": 176173,
-      "num": 176173,
-      "word": "曲阜师大一学院课堂禁止使用电子产品",
-      "onboard_time": 1713167899,
-      "rank": 33,
-      "category": "教育,社会新闻"
-    },
-    {
       "raw_hot": 173981,
       "num": 173981,
       "word": "勇士冲进附加赛",
@@ -1123,6 +1155,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 161196,
+      "num": 161196,
+      "word": "86岁老人迎娶初恋女友",
+      "onboard_time": 1713169217,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 158405,
       "num": 158405,
       "word": "国际金价疯涨金饰却遇冷",
@@ -1203,6 +1243,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 144983,
+      "num": 144983,
+      "word": "素颜丑关我化妆后什么事",
+      "onboard_time": 1713168976,
+      "rank": 46,
+      "category": "情感"
+    },
+    {
       "raw_hot": 143956,
       "num": 143956,
       "word": "Uzi说ruler怕被喷",
@@ -1281,6 +1329,14 @@
       "onboard_time": 1713146657,
       "rank": 42,
       "category": "财经"
+    },
+    {
+      "raw_hot": 136404,
+      "num": 564685,
+      "word": "今天是第九个全民国家安全教育日",
+      "onboard_time": 1713167359,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 135161,
@@ -1411,6 +1467,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 118812,
+      "num": 118812,
+      "word": "姚志明流浪小猫有家了",
+      "onboard_time": 1713169098,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 118470,
       "num": 118470,
       "word": "I人小孩哥小孩姐一做饭秒变E孩",
@@ -1451,6 +1515,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 114730,
+      "num": 114730,
+      "word": "中方敦促美方立即停止网络攻击",
+      "onboard_time": 1713169878,
+      "rank": 46,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 113507,
       "num": 113507,
       "word": "LESSERAFIM科切拉舞台消音版",
@@ -1465,6 +1537,14 @@
       "onboard_time": 1713166519,
       "rank": 44,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 110016,
+      "num": 110016,
+      "word": "陈奕迅黄金时代内地首唱",
+      "onboard_time": 1713169338,
+      "rank": 47,
+      "category": "演出"
     },
     {
       "raw_hot": 108041,
@@ -1491,12 +1571,12 @@
       "category": "教育"
     },
     {
-      "raw_hot": 102964,
-      "num": 102964,
-      "word": "素颜丑关我化妆后什么事",
-      "onboard_time": 1713168976,
-      "rank": 46,
-      "category": "情感"
+      "raw_hot": 105104,
+      "num": 105104,
+      "word": "王一博蓝色针织衫",
+      "onboard_time": 1713170119,
+      "rank": 49,
+      "category": "电影"
     },
     {
       "raw_hot": 102809,
@@ -1521,14 +1601,6 @@
       "onboard_time": 1713092719,
       "rank": 34,
       "category": "教育"
-    },
-    {
-      "raw_hot": 96085,
-      "num": 528847,
-      "word": "今天是第九个全民国家安全教育日",
-      "onboard_time": 1713167359,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 95720,

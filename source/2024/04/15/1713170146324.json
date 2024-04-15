@@ -1,0 +1,410 @@
+{
+  "runTime": 1713170146324,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 137948,
+        "num": 565433,
+        "word": "中国发布伏特台风黑客组织溯源报告",
+        "onboard_time": 1713145458,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 994366,
+        "num": 565120,
+        "word": "端午节放3天不调休",
+        "onboard_time": 1713145817,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 136404,
+        "num": 564685,
+        "word": "今天是第九个全民国家安全教育日",
+        "onboard_time": 1713167359,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 586281,
+        "num": 564679,
+        "word": "3年前掉河里的20g金戒指捞上来了",
+        "onboard_time": 1713160638,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 564637,
+        "num": 564637,
+        "word": "特斯拉全球裁员10%",
+        "onboard_time": 1713168078,
+        "rank": 4,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 557745,
+        "num": 557745,
+        "word": "一克拉肾结石",
+        "onboard_time": 1713165258,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 529534,
+        "num": 529534,
+        "word": "拿到offer后买了人生第一套正装",
+        "onboard_time": 1713158839,
+        "rank": 6,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 440514,
+        "num": 440514,
+        "word": "眼泪女王又要等六年",
+        "onboard_time": 1713166757,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 385123,
+        "num": 385123,
+        "word": "突然的恋情可能是间谍的圈套",
+        "onboard_time": 1713146056,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 379388,
+        "num": 379388,
+        "word": "莎头 可口可乐",
+        "onboard_time": 1713164117,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1021403,
+        "num": 378809,
+        "word": "荣梓杉中戏北电双第一",
+        "onboard_time": 1713163577,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 407743,
+        "num": 377380,
+        "word": "女性生孩子的理由只有一个",
+        "onboard_time": 1713149958,
+        "rank": 11,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 384312,
+        "num": 375024,
+        "word": "广东一大桥发生事故致2人遇难",
+        "onboard_time": 1713164177,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 357993,
+        "num": 357993,
+        "word": "外资涌入抄底A股",
+        "onboard_time": 1713166878,
+        "rank": 13,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 336903,
+        "num": 336903,
+        "word": "朴宝蓝尸检结果",
+        "onboard_time": 1713159497,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 333741,
+        "num": 333741,
+        "word": "五一档电影",
+        "onboard_time": 1713167538,
+        "rank": 15,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 314832,
+        "num": 314832,
+        "word": "甄嬛传 团综",
+        "onboard_time": 1713153319,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 284944,
+        "num": 284944,
+        "word": "李现任敏跳了fate",
+        "onboard_time": 1713168498,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 266530,
+        "num": 266530,
+        "word": "歌手回归",
+        "onboard_time": 1713155601,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 214475,
+        "num": 214475,
+        "word": "李泰容ins",
+        "onboard_time": 1713169277,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 714715,
+        "num": 214389,
+        "word": "黄子韬求导演管管徐艺洋",
+        "onboard_time": 1713167118,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 458478,
+        "num": 213895,
+        "word": "TFBOYS文案什么意思",
+        "onboard_time": 1713162918,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 969408,
+        "num": 213593,
+        "word": "任敏旗袍",
+        "onboard_time": 1713163457,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 212581,
+        "num": 212581,
+        "word": "虞书欣跳了lover",
+        "onboard_time": 1713167478,
+        "rank": 23,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 372597,
+        "num": 211060,
+        "word": "男生是否介意女生婚前有房贷",
+        "onboard_time": 1713169938,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 407620,
+        "num": 208664,
+        "word": "卢广仲 北京草莓",
+        "onboard_time": 1713166577,
+        "rank": 25,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 346029,
+        "num": 205518,
+        "word": "小县城为什么没有穿衣自由",
+        "onboard_time": 1713166218,
+        "rank": 26,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 294887,
+        "num": 204622,
+        "word": "李现 扫楼鼻祖",
+        "onboard_time": 1713164058,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 215269,
+        "num": 201678,
+        "word": "中医劝患者想怀孕不要穿裙子",
+        "onboard_time": 1713148938,
+        "rank": 28,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 199506,
+        "num": 199506,
+        "word": "曲阜师大一学院课堂禁止使用电子产品",
+        "onboard_time": 1713167899,
+        "rank": 29,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 231630,
+        "num": 196987,
+        "word": "太湖湾音乐节 不可抗力",
+        "onboard_time": 1713169397,
+        "rank": 30,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 194058,
+        "num": 194058,
+        "word": "甄嬛去哪了",
+        "onboard_time": 1713169397,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 191369,
+        "num": 191369,
+        "word": "教你在微信上凭空消失",
+        "onboard_time": 1713155480,
+        "rank": 32,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 166700,
+        "num": 166700,
+        "word": "第一批丁克夫妻现状曝光",
+        "onboard_time": 1713138557,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 161196,
+        "num": 161196,
+        "word": "86岁老人迎娶初恋女友",
+        "onboard_time": 1713169217,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 160578,
+        "num": 160578,
+        "word": "许凯杨紫眼技",
+        "onboard_time": 1713168680,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 153740,
+        "num": 153740,
+        "word": "babymonster 科切拉",
+        "onboard_time": 1713159618,
+        "rank": 36,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 148814,
+        "num": 148814,
+        "word": "LPL春决",
+        "onboard_time": 1713165797,
+        "rank": 37,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 147850,
+        "num": 147850,
+        "word": "泼水节禁止泼冷水",
+        "onboard_time": 1713165618,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 146639,
+        "num": 146639,
+        "word": "没有一顿火锅解决不了的事口碑",
+        "onboard_time": 1713168318,
+        "rank": 39,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 144983,
+        "num": 144983,
+        "word": "素颜丑关我化妆后什么事",
+        "onboard_time": 1713168976,
+        "rank": 40,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 141528,
+        "num": 141528,
+        "word": "昔日明星基金经理蔡嵩松涉受贿",
+        "onboard_time": 1713166338,
+        "rank": 41,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 140810,
+        "num": 140810,
+        "word": "Doinb看Tian哭了",
+        "onboard_time": 1713163997,
+        "rank": 42,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 121895,
+        "num": 121895,
+        "word": "王晶称梁朝伟应宣布不再领奖",
+        "onboard_time": 1713153860,
+        "rank": 43,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 121767,
+        "num": 121767,
+        "word": "新发放个人住房贷款利率首次低于企业贷款",
+        "onboard_time": 1713167201,
+        "rank": 44,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 118812,
+        "num": 118812,
+        "word": "姚志明流浪小猫有家了",
+        "onboard_time": 1713169098,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 114730,
+        "num": 114730,
+        "word": "中方敦促美方立即停止网络攻击",
+        "onboard_time": 1713169878,
+        "rank": 46,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 110016,
+        "num": 110016,
+        "word": "陈奕迅黄金时代内地首唱",
+        "onboard_time": 1713169338,
+        "rank": 47,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 106057,
+        "num": 106057,
+        "word": "薛之谦演唱会",
+        "onboard_time": 1713163338,
+        "rank": 48,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 105104,
+        "num": 105104,
+        "word": "王一博蓝色针织衫",
+        "onboard_time": 1713170119,
+        "rank": 49,
+        "category": "电影"
+      }
+    ],
+    "hotgov": {
+      "word": "#坚定不移贯彻总体国家安全观#"
+    }
+  }
+}
