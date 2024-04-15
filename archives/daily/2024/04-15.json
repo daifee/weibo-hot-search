@@ -1,6 +1,6 @@
 {
   "startTime": 1713132599554,
-  "endTime": 1713179692174,
+  "endTime": 1713180855024,
   "band_list": [
     {
       "raw_hot": 3410457,
@@ -67,6 +67,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1323225,
+      "num": 787818,
+      "word": "赵丽颖改微博简介",
+      "onboard_time": 1713177319,
+      "rank": 3,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1253605,
+      "num": 1253605,
+      "word": "官方回应婆婆杀害儿媳3只狗",
+      "onboard_time": 1713176898,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1228396,
       "num": 1228396,
       "word": "甄嬛传 团综",
@@ -81,14 +97,6 @@
       "onboard_time": 1713145338,
       "rank": 1,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 1178959,
-      "num": 787818,
-      "word": "赵丽颖改微博简介",
-      "onboard_time": 1713177319,
-      "rank": 3,
-      "category": "艺人"
     },
     {
       "raw_hot": 1042909,
@@ -153,14 +161,6 @@
       "onboard_time": 1713163457,
       "rank": 4,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 948817,
-      "num": 948817,
-      "word": "官方回应婆婆杀害儿媳3只狗",
-      "onboard_time": 1713176898,
-      "rank": 29,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 948682,
@@ -427,6 +427,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 475641,
+      "num": 475641,
+      "word": "苏打绿新歌曾是TFBOYS弃曲",
+      "onboard_time": 1713178337,
+      "rank": 18,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 473480,
       "num": 473480,
       "word": "李现 扫楼鼻祖",
@@ -481,6 +489,14 @@
       "onboard_time": 1713159858,
       "rank": 34,
       "category": "情感"
+    },
+    {
+      "raw_hot": 418645,
+      "num": 418645,
+      "word": "猫一杯旗下店铺终止经营",
+      "onboard_time": 1713178639,
+      "rank": 13,
+      "category": "网红"
     },
     {
       "raw_hot": 416047,
@@ -545,6 +561,14 @@
       "onboard_time": 1713178520,
       "rank": 8,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 384877,
+      "num": 263912,
+      "word": "孙颖莎vs朱成竹",
+      "onboard_time": 1713179839,
+      "rank": 11,
+      "category": "体育"
     },
     {
       "raw_hot": 376944,
@@ -643,14 +667,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 342880,
-      "num": 342880,
-      "word": "猫一杯旗下店铺终止经营",
-      "onboard_time": 1713178639,
-      "rank": 13,
-      "category": "网红"
-    },
-    {
       "raw_hot": 341516,
       "num": 341516,
       "word": "李亚鹏妻子称与李嫣是好姐妹",
@@ -747,14 +763,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 290285,
-      "num": 290285,
-      "word": "苏打绿新歌曾是TFBOYS弃曲",
-      "onboard_time": 1713178337,
-      "rank": 18,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 288919,
       "num": 282210,
       "word": "汪苏泷到底是什么意思",
@@ -785,6 +793,14 @@
       "onboard_time": 1713150979,
       "rank": 23,
       "category": "情感"
+    },
+    {
+      "raw_hot": 280105,
+      "num": 205587,
+      "word": "为什么卫龙辣条失宠了",
+      "onboard_time": 1713177258,
+      "rank": 23,
+      "category": "美食"
     },
     {
       "raw_hot": 279599,
@@ -857,6 +873,14 @@
       "onboard_time": 1713150979,
       "rank": 25,
       "category": "教育"
+    },
+    {
+      "raw_hot": 248913,
+      "num": 248913,
+      "word": "五月天泉州抢票",
+      "onboard_time": 1713179959,
+      "rank": 15,
+      "category": "演出"
     },
     {
       "raw_hot": 248876,
@@ -1097,14 +1121,6 @@
       "onboard_time": 1713172158,
       "rank": 28,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 205587,
-      "num": 205587,
-      "word": "为什么卫龙辣条失宠了",
-      "onboard_time": 1713177258,
-      "rank": 23,
-      "category": "美食"
     },
     {
       "raw_hot": 202538,
@@ -1467,6 +1483,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 160358,
+      "num": 160358,
+      "word": "以色列防御伊朗袭击一夜至少花掉78亿",
+      "onboard_time": 1713180437,
+      "rank": 29,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 160050,
       "num": 160050,
       "word": "当猫得知绝育医生的真实身份",
@@ -1505,6 +1529,14 @@
       "onboard_time": 1713159198,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 154937,
+      "num": 149058,
+      "word": "李现喂宋宁峰吃烤地瓜",
+      "onboard_time": 1713179719,
+      "rank": 34,
+      "category": "剧集"
     },
     {
       "raw_hot": 154082,
@@ -1627,6 +1659,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 142669,
+      "num": 142669,
+      "word": "不要以为会永远存在的东西",
+      "onboard_time": 1713180198,
+      "rank": 36,
+      "category": "情感"
+    },
+    {
       "raw_hot": 141189,
       "num": 141189,
       "word": "科切拉 KPOP",
@@ -1665,6 +1705,14 @@
       "onboard_time": 1713146657,
       "rank": 42,
       "category": "财经"
+    },
+    {
+      "raw_hot": 137394,
+      "num": 137394,
+      "word": "罗伯特说李泰容是光头强",
+      "onboard_time": 1713179358,
+      "rank": 42,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 136404,
@@ -1835,14 +1883,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 120658,
-      "num": 120658,
-      "word": "罗伯特说李泰容是光头强",
-      "onboard_time": 1713179358,
-      "rank": 42,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 118812,
       "num": 118812,
       "word": "姚志明流浪小猫有家了",
@@ -1913,6 +1953,14 @@
       "onboard_time": 1713166519,
       "rank": 44,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 111139,
+      "num": 111139,
+      "word": "A股风格激变",
+      "onboard_time": 1713180678,
+      "rank": 44,
+      "category": "财经"
     },
     {
       "raw_hot": 110016,

@@ -1,6 +1,6 @@
 {
   "startTime": 1711902044401,
-  "endTime": 1713179692174,
+  "endTime": 1713180855024,
   "band_list": [
     {
       "raw_hot": 16874674,
@@ -1763,6 +1763,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1323225,
+      "num": 787818,
+      "word": "赵丽颖改微博简介",
+      "onboard_time": 1713177319,
+      "rank": 3,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1320042,
       "num": 511146,
       "word": "仝卓工作室实名举报高源涉嫌偷税漏税",
@@ -2043,6 +2051,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1253605,
+      "num": 1253605,
+      "word": "官方回应婆婆杀害儿媳3只狗",
+      "onboard_time": 1713176898,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1253240,
       "num": 1253240,
       "word": "iPhone闹钟正确设置方法",
@@ -2305,14 +2321,6 @@
       "onboard_time": 1712629939,
       "rank": 30,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 1178959,
-      "num": 787818,
-      "word": "赵丽颖改微博简介",
-      "onboard_time": 1713177319,
-      "rank": 3,
-      "category": "艺人"
     },
     {
       "raw_hot": 1174516,
@@ -3489,14 +3497,6 @@
       "onboard_time": 1712910198,
       "rank": 7,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 948817,
-      "num": 948817,
-      "word": "官方回应婆婆杀害儿媳3只狗",
-      "onboard_time": 1713176898,
-      "rank": 29,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 948682,
@@ -10107,6 +10107,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 475641,
+      "num": 475641,
+      "word": "苏打绿新歌曾是TFBOYS弃曲",
+      "onboard_time": 1713178337,
+      "rank": 18,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 474600,
       "num": 474600,
       "word": "台湾地震77人仍被困",
@@ -11827,6 +11835,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 418645,
+      "num": 418645,
+      "word": "猫一杯旗下店铺终止经营",
+      "onboard_time": 1713178639,
+      "rank": 13,
+      "category": "网红"
+    },
+    {
       "raw_hot": 418547,
       "num": 418547,
       "word": "想当行长男孩父亲所在支行回应",
@@ -12729,6 +12745,14 @@
       "onboard_time": 1712799438,
       "rank": 12,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 384877,
+      "num": 263912,
+      "word": "孙颖莎vs朱成竹",
+      "onboard_time": 1713179839,
+      "rank": 11,
+      "category": "体育"
     },
     {
       "raw_hot": 384808,
@@ -14281,14 +14305,6 @@
       "onboard_time": 1712411299,
       "rank": 28,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 342880,
-      "num": 342880,
-      "word": "猫一杯旗下店铺终止经营",
-      "onboard_time": 1713178639,
-      "rank": 13,
-      "category": "网红"
     },
     {
       "raw_hot": 342843,
@@ -16803,14 +16819,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 290285,
-      "num": 290285,
-      "word": "苏打绿新歌曾是TFBOYS弃曲",
-      "onboard_time": 1713178337,
-      "rank": 18,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 290229,
       "num": 299937,
       "word": "以色列为何突然撤军",
@@ -17385,6 +17393,14 @@
       "onboard_time": 1712241981,
       "rank": 23,
       "category": "体育,艺人"
+    },
+    {
+      "raw_hot": 280105,
+      "num": 205587,
+      "word": "为什么卫龙辣条失宠了",
+      "onboard_time": 1713177258,
+      "rank": 23,
+      "category": "美食"
     },
     {
       "raw_hot": 280064,
@@ -19441,6 +19457,14 @@
       "onboard_time": 1712373137,
       "rank": 37,
       "category": "情感"
+    },
+    {
+      "raw_hot": 248913,
+      "num": 248913,
+      "word": "五月天泉州抢票",
+      "onboard_time": 1713179959,
+      "rank": 15,
+      "category": "演出"
     },
     {
       "raw_hot": 248876,
@@ -23681,14 +23705,6 @@
       "onboard_time": 1713066380,
       "rank": 40,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 205587,
-      "num": 205587,
-      "word": "为什么卫龙辣条失宠了",
-      "onboard_time": 1713177258,
-      "rank": 23,
-      "category": "美食"
     },
     {
       "raw_hot": 205530,
@@ -30995,6 +31011,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 160358,
+      "num": 160358,
+      "word": "以色列防御伊朗袭击一夜至少花掉78亿",
+      "onboard_time": 1713180437,
+      "rank": 29,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 160348,
       "num": 160348,
       "word": "小金毛一怒之下怒了一下",
@@ -31913,6 +31937,14 @@
       "onboard_time": 1712811020,
       "rank": 44,
       "category": "美食"
+    },
+    {
+      "raw_hot": 154937,
+      "num": 149058,
+      "word": "李现喂宋宁峰吃烤地瓜",
+      "onboard_time": 1713179719,
+      "rank": 34,
+      "category": "剧集"
     },
     {
       "raw_hot": 154912,
@@ -34027,6 +34059,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 142669,
+      "num": 142669,
+      "word": "不要以为会永远存在的东西",
+      "onboard_time": 1713180198,
+      "rank": 36,
+      "category": "情感"
+    },
+    {
       "raw_hot": 142667,
       "num": 142667,
       "word": "小舞回应",
@@ -34809,6 +34849,14 @@
       "onboard_time": 1712060060,
       "rank": 43,
       "category": "情感"
+    },
+    {
+      "raw_hot": 137394,
+      "num": 137394,
+      "word": "罗伯特说李泰容是光头强",
+      "onboard_time": 1713179358,
+      "rank": 42,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 137215,
@@ -37019,14 +37067,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 120658,
-      "num": 120658,
-      "word": "罗伯特说李泰容是光头强",
-      "onboard_time": 1713179358,
-      "rank": 42,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 120544,
       "num": 120544,
       "word": "王者荣耀同人大片",
@@ -37913,6 +37953,14 @@
       "onboard_time": 1712286077,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 111139,
+      "num": 111139,
+      "word": "A股风格激变",
+      "onboard_time": 1713180678,
+      "rank": 44,
+      "category": "财经"
     },
     {
       "raw_hot": 110899,

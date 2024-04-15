@@ -1,0 +1,410 @@
+{
+  "runTime": 1713180855024,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1253605,
+        "num": 1253605,
+        "word": "官方回应婆婆杀害儿媳3只狗",
+        "onboard_time": 1713176898,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 681022,
+        "num": 681022,
+        "word": "为什么医院禁止你送花给病人",
+        "onboard_time": 1713174619,
+        "rank": 1,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 78943,
+        "num": 642791,
+        "word": "今天是第九个全民国家安全教育日",
+        "onboard_time": 1713167359,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1469238,
+        "num": 639766,
+        "word": "柳岩就差点名道姓了",
+        "onboard_time": 1713172338,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 622935,
+        "num": 622935,
+        "word": "福宝出外场了",
+        "onboard_time": 1713177019,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 475641,
+        "num": 475641,
+        "word": "苏打绿新歌曾是TFBOYS弃曲",
+        "onboard_time": 1713178337,
+        "rank": 5,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 418645,
+        "num": 418645,
+        "word": "猫一杯旗下店铺终止经营",
+        "onboard_time": 1713178639,
+        "rank": 6,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 349889,
+        "num": 349889,
+        "word": "韩裔名厨承认借鉴老干妈辣酱",
+        "onboard_time": 1713173477,
+        "rank": 7,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 326530,
+        "num": 326530,
+        "word": "克拉岛",
+        "onboard_time": 1713178038,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 265085,
+        "num": 265085,
+        "word": "拿到offer后买了人生第一套正装",
+        "onboard_time": 1713158839,
+        "rank": 9,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 1346323,
+        "num": 264709,
+        "word": "71岁保洁被开除后在物业办公室自杀",
+        "onboard_time": 1713174918,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 384877,
+        "num": 263912,
+        "word": "孙颖莎vs朱成竹",
+        "onboard_time": 1713179839,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 341809,
+        "num": 263020,
+        "word": "荣梓杉中戏北电双第一",
+        "onboard_time": 1713163577,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 300719,
+        "num": 262335,
+        "word": "女性生孩子的理由只有一个",
+        "onboard_time": 1713149958,
+        "rank": 13,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 262024,
+        "num": 262024,
+        "word": "迪丽热巴湿发路透",
+        "onboard_time": 1713176358,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 248913,
+        "num": 248913,
+        "word": "五月天泉州抢票",
+        "onboard_time": 1713179959,
+        "rank": 15,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 235897,
+        "num": 235897,
+        "word": "86岁老人迎娶初恋女友",
+        "onboard_time": 1713169217,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 199725,
+        "num": 199725,
+        "word": "小米回应汽车没有高级空调功能",
+        "onboard_time": 1713178458,
+        "rank": 17,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 195464,
+        "num": 195464,
+        "word": "容祖儿的失望显而易见了",
+        "onboard_time": 1713174319,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 193703,
+        "num": 193703,
+        "word": "端午节放3天不调休",
+        "onboard_time": 1713145817,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1323225,
+        "num": 193636,
+        "word": "赵丽颖改微博简介",
+        "onboard_time": 1713177319,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 415096,
+        "num": 192894,
+        "word": "阚清子21岁至36岁颜值变化",
+        "onboard_time": 1713172757,
+        "rank": 21,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 280105,
+        "num": 192673,
+        "word": "为什么卫龙辣条失宠了",
+        "onboard_time": 1713177258,
+        "rank": 22,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 198892,
+        "num": 192359,
+        "word": "TFBOYS文案什么意思",
+        "onboard_time": 1713162918,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 191938,
+        "num": 191938,
+        "word": "薛之谦演唱会 一个人来的",
+        "onboard_time": 1713172099,
+        "rank": 24,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 171637,
+        "num": 171637,
+        "word": "五一档电影",
+        "onboard_time": 1713167538,
+        "rank": 25,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 167325,
+        "num": 167325,
+        "word": "原来皮肤是最大的情绪器官",
+        "onboard_time": 1713172698,
+        "rank": 26,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 166811,
+        "num": 166811,
+        "word": "眼泪女王又要等六年",
+        "onboard_time": 1713166757,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 162715,
+        "num": 162715,
+        "word": "陕西省考成绩",
+        "onboard_time": 1713177919,
+        "rank": 28,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 160358,
+        "num": 160358,
+        "word": "以色列防御伊朗袭击一夜至少花掉78亿",
+        "onboard_time": 1713180437,
+        "rank": 29,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 156760,
+        "num": 156760,
+        "word": "任敏旗袍",
+        "onboard_time": 1713163457,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 154701,
+        "num": 154701,
+        "word": "朱一龙直播",
+        "onboard_time": 1713175998,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 368879,
+        "num": 152021,
+        "word": "赵丽颖三不限艺人",
+        "onboard_time": 1713178520,
+        "rank": 32,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 74337,
+        "num": 149499,
+        "word": "一人分享一个选车在意的小细节",
+        "onboard_time": 1713176478,
+        "rank": 33,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 154937,
+        "num": 149058,
+        "word": "李现喂宋宁峰吃烤地瓜",
+        "onboard_time": 1713179719,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 148313,
+        "num": 148313,
+        "word": "男生是否介意女生婚前有房贷",
+        "onboard_time": 1713169938,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 142669,
+        "num": 142669,
+        "word": "不要以为会永远存在的东西",
+        "onboard_time": 1713180198,
+        "rank": 36,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 142048,
+        "num": 142048,
+        "word": "太湖湾音乐节 不可抗力",
+        "onboard_time": 1713169397,
+        "rank": 37,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 137394,
+        "num": 137394,
+        "word": "罗伯特说李泰容是光头强",
+        "onboard_time": 1713179358,
+        "rank": 38,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 137298,
+        "num": 137298,
+        "word": "李显龙将辞职",
+        "onboard_time": 1713171619,
+        "rank": 39,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 134688,
+        "num": 134688,
+        "word": "门童in了",
+        "onboard_time": 1713176838,
+        "rank": 40,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 131755,
+        "num": 131755,
+        "word": "小县城为什么没有穿衣自由",
+        "onboard_time": 1713166218,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 129088,
+        "num": 129088,
+        "word": "相互喜欢为什么会分手呢",
+        "onboard_time": 1713177858,
+        "rank": 42,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 115110,
+        "num": 115110,
+        "word": "KPL注册草台班子商标",
+        "onboard_time": 1713177800,
+        "rank": 43,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 111139,
+        "num": 111139,
+        "word": "A股风格激变",
+        "onboard_time": 1713180678,
+        "rank": 44,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 102930,
+        "num": 102930,
+        "word": "第五人格赛事",
+        "onboard_time": 1713179299,
+        "rank": 45,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 101817,
+        "num": 101817,
+        "word": "林高远男单",
+        "onboard_time": 1713174378,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 99182,
+        "num": 99182,
+        "word": "胡锡进称今天大涨得益于国九条",
+        "onboard_time": 1713175218,
+        "rank": 47,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 96140,
+        "num": 96140,
+        "word": "当猫得知绝育医生的真实身份",
+        "onboard_time": 1713173597,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 94603,
+        "num": 94603,
+        "word": "黄子韬求导演管管徐艺洋",
+        "onboard_time": 1713167118,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#坚定不移贯彻总体国家安全观#"
+    }
+  }
+}
