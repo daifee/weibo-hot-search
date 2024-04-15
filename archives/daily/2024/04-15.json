@@ -1,6 +1,6 @@
 {
   "startTime": 1713132599554,
-  "endTime": 1713177239438,
+  "endTime": 1713179692174,
   "band_list": [
     {
       "raw_hot": 3410457,
@@ -12,7 +12,7 @@
     },
     {
       "raw_hot": 2605339,
-      "num": 813442,
+      "num": 1685252,
       "word": "柳岩就差点名道姓了",
       "onboard_time": 1713172338,
       "rank": 30,
@@ -36,7 +36,7 @@
     },
     {
       "raw_hot": 1925463,
-      "num": 309177,
+      "num": 448964,
       "word": "71岁保洁被开除后在物业办公室自杀",
       "onboard_time": 1713174918,
       "rank": 10,
@@ -44,7 +44,7 @@
     },
     {
       "raw_hot": 1780350,
-      "num": 412511,
+      "num": 415295,
       "word": "荣梓杉中戏北电双第一",
       "onboard_time": 1713163577,
       "rank": 10,
@@ -81,6 +81,14 @@
       "onboard_time": 1713145338,
       "rank": 1,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 1178959,
+      "num": 787818,
+      "word": "赵丽颖改微博简介",
+      "onboard_time": 1713177319,
+      "rank": 3,
+      "category": "艺人"
     },
     {
       "raw_hot": 1042909,
@@ -145,6 +153,14 @@
       "onboard_time": 1713163457,
       "rank": 4,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 948817,
+      "num": 948817,
+      "word": "官方回应婆婆杀害儿媳3只狗",
+      "onboard_time": 1713176898,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 948682,
@@ -235,8 +251,16 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 747923,
+      "num": 747923,
+      "word": "为什么医院禁止你送花给病人",
+      "onboard_time": 1713174619,
+      "rank": 18,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 741791,
-      "num": 360197,
+      "num": 447904,
       "word": "阚清子21岁至36岁颜值变化",
       "onboard_time": 1713172757,
       "rank": 11,
@@ -257,6 +281,14 @@
       "onboard_time": 1713152599,
       "rank": 32,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 690992,
+      "num": 690992,
+      "word": "福宝出外场了",
+      "onboard_time": 1713177019,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 654885,
@@ -329,14 +361,6 @@
       "onboard_time": 1713136575,
       "rank": 5,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 543431,
-      "num": 290712,
-      "word": "为什么医院禁止你送花给病人",
-      "onboard_time": 1713174619,
-      "rank": 18,
-      "category": "科学科普"
     },
     {
       "raw_hot": 521575,
@@ -515,6 +539,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 393891,
+      "num": 453513,
+      "word": "赵丽颖三不限艺人",
+      "onboard_time": 1713178520,
+      "rank": 8,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 376944,
       "num": 376944,
       "word": "何超仪拄拐带老公亮相黄贯中画展",
@@ -603,6 +635,22 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 344419,
+      "num": 457097,
+      "word": "克拉岛",
+      "onboard_time": 1713178038,
+      "rank": 7,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 342880,
+      "num": 342880,
+      "word": "猫一杯旗下店铺终止经营",
+      "onboard_time": 1713178639,
+      "rank": 13,
+      "category": "网红"
+    },
+    {
       "raw_hot": 341516,
       "num": 341516,
       "word": "李亚鹏妻子称与李嫣是好姐妹",
@@ -625,6 +673,14 @@
       "onboard_time": 1713091577,
       "rank": 11,
       "category": "电影"
+    },
+    {
+      "raw_hot": 323175,
+      "num": 323175,
+      "word": "迪丽热巴湿发路透",
+      "onboard_time": 1713176358,
+      "rank": 18,
+      "category": "剧集"
     },
     {
       "raw_hot": 322590,
@@ -691,6 +747,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 290285,
+      "num": 290285,
+      "word": "苏打绿新歌曾是TFBOYS弃曲",
+      "onboard_time": 1713178337,
+      "rank": 18,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 288919,
       "num": 282210,
       "word": "汪苏泷到底是什么意思",
@@ -753,6 +817,14 @@
       "onboard_time": 1713137055,
       "rank": 16,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 262657,
+      "num": 262657,
+      "word": "陕西省考成绩",
+      "onboard_time": 1713177919,
+      "rank": 21,
+      "category": "教育"
     },
     {
       "raw_hot": 252270,
@@ -899,14 +971,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 228004,
-      "num": 228004,
-      "word": "迪丽热巴湿发路透",
-      "onboard_time": 1713176358,
-      "rank": 18,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 225559,
       "num": 225559,
       "word": "把肯德基1995年价格表挖出来了",
@@ -1035,6 +1099,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 205587,
+      "num": 205587,
+      "word": "为什么卫龙辣条失宠了",
+      "onboard_time": 1713177258,
+      "rank": 23,
+      "category": "美食"
+    },
+    {
       "raw_hot": 202538,
       "num": 202538,
       "word": "许志安首次正面回应安心事件",
@@ -1083,12 +1155,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 201066,
+      "num": 201066,
+      "word": "小米回应汽车没有高级空调功能",
+      "onboard_time": 1713178458,
+      "rank": 24,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 199506,
       "num": 199506,
       "word": "曲阜师大一学院课堂禁止使用电子产品",
       "onboard_time": 1713167899,
       "rank": 33,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 198938,
+      "num": 198938,
+      "word": "阴阳师",
+      "onboard_time": 1713177319,
+      "rank": 26,
+      "category": "游戏"
     },
     {
       "raw_hot": 198885,
@@ -1107,6 +1195,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 197223,
+      "num": 197223,
+      "word": "第五人格赛事",
+      "onboard_time": 1713179299,
+      "rank": 27,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 196982,
       "num": 196982,
       "word": "田曦薇配音宫崎骏女孩苏菲",
@@ -1121,14 +1217,6 @@
       "onboard_time": 1713165377,
       "rank": 29,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 195215,
-      "num": 195215,
-      "word": "官方回应婆婆杀害儿媳3只狗",
-      "onboard_time": 1713176898,
-      "rank": 29,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 194570,
@@ -1515,6 +1603,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 143046,
+      "num": 143046,
+      "word": "KPL注册草台班子商标",
+      "onboard_time": 1713177800,
+      "rank": 39,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 142984,
       "num": 142984,
       "word": "惜花芷",
@@ -1571,16 +1667,8 @@
       "category": "财经"
     },
     {
-      "raw_hot": 137220,
-      "num": 137220,
-      "word": "福宝出外场了",
-      "onboard_time": 1713177019,
-      "rank": 39,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 136404,
-      "num": 738526,
+      "num": 789624,
       "word": "今天是第九个全民国家安全教育日",
       "onboard_time": 1713167359,
       "rank": 2,
@@ -1617,6 +1705,14 @@
       "onboard_time": 1713151458,
       "rank": 41,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 133077,
+      "num": 133077,
+      "word": "相互喜欢为什么会分手呢",
+      "onboard_time": 1713177858,
+      "rank": 40,
+      "category": "情感"
     },
     {
       "raw_hot": 132911,
@@ -1737,6 +1833,14 @@
       "onboard_time": 1713136336,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 120658,
+      "num": 120658,
+      "word": "罗伯特说李泰容是光头强",
+      "onboard_time": 1713179358,
+      "rank": 42,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 118812,
@@ -1868,11 +1972,19 @@
     },
     {
       "raw_hot": 99651,
-      "num": 202139,
+      "num": 308163,
       "word": "一人分享一个选车在意的小细节",
       "onboard_time": 1713176478,
       "rank": 27,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 99170,
+      "num": 99170,
+      "word": "给大猫们吸猫薄荷",
+      "onboard_time": 1713179537,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 97935,

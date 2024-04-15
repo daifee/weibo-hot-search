@@ -1,0 +1,410 @@
+{
+  "runTime": 1713179692174,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1685252,
+        "num": 1685252,
+        "word": "柳岩就差点名道姓了",
+        "onboard_time": 1713172338,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 948817,
+        "num": 948817,
+        "word": "官方回应婆婆杀害儿媳3只狗",
+        "onboard_time": 1713176898,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 70014,
+        "num": 789624,
+        "word": "今天是第九个全民国家安全教育日",
+        "onboard_time": 1713167359,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1178959,
+        "num": 787818,
+        "word": "赵丽颖改微博简介",
+        "onboard_time": 1713177319,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 747923,
+        "num": 747923,
+        "word": "为什么医院禁止你送花给病人",
+        "onboard_time": 1713174619,
+        "rank": 4,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 690992,
+        "num": 690992,
+        "word": "福宝出外场了",
+        "onboard_time": 1713177019,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 458860,
+        "num": 458860,
+        "word": "韩裔名厨承认借鉴老干妈辣酱",
+        "onboard_time": 1713173477,
+        "rank": 6,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 344419,
+        "num": 457097,
+        "word": "克拉岛",
+        "onboard_time": 1713178038,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 393891,
+        "num": 453513,
+        "word": "赵丽颖三不限艺人",
+        "onboard_time": 1713178520,
+        "rank": 8,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 259398,
+        "num": 452518,
+        "word": "拿到offer后买了人生第一套正装",
+        "onboard_time": 1713158839,
+        "rank": 9,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 1573595,
+        "num": 448964,
+        "word": "71岁保洁被开除后在物业办公室自杀",
+        "onboard_time": 1713174918,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 447904,
+        "num": 447904,
+        "word": "阚清子21岁至36岁颜值变化",
+        "onboard_time": 1713172757,
+        "rank": 11,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 415295,
+        "num": 415295,
+        "word": "荣梓杉中戏北电双第一",
+        "onboard_time": 1713163577,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 342880,
+        "num": 342880,
+        "word": "猫一杯旗下店铺终止经营",
+        "onboard_time": 1713178639,
+        "rank": 13,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 329071,
+        "num": 329071,
+        "word": "86岁老人迎娶初恋女友",
+        "onboard_time": 1713169217,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 323175,
+        "num": 323175,
+        "word": "迪丽热巴湿发路透",
+        "onboard_time": 1713176358,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 98911,
+        "num": 308163,
+        "word": "一人分享一个选车在意的小细节",
+        "onboard_time": 1713176478,
+        "rank": 16,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 306289,
+        "num": 306289,
+        "word": "女性生孩子的理由只有一个",
+        "onboard_time": 1713149958,
+        "rank": 17,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 290285,
+        "num": 290285,
+        "word": "苏打绿新歌曾是TFBOYS弃曲",
+        "onboard_time": 1713178337,
+        "rank": 18,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 285747,
+        "num": 285747,
+        "word": "端午节放3天不调休",
+        "onboard_time": 1713145817,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 269343,
+        "num": 269343,
+        "word": "容祖儿的失望显而易见了",
+        "onboard_time": 1713174319,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 262657,
+        "num": 262657,
+        "word": "陕西省考成绩",
+        "onboard_time": 1713177919,
+        "rank": 21,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 209509,
+        "num": 209509,
+        "word": "原来皮肤是最大的情绪器官",
+        "onboard_time": 1713172698,
+        "rank": 22,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 205587,
+        "num": 205587,
+        "word": "为什么卫龙辣条失宠了",
+        "onboard_time": 1713177258,
+        "rank": 23,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 201066,
+        "num": 201066,
+        "word": "小米回应汽车没有高级空调功能",
+        "onboard_time": 1713178458,
+        "rank": 24,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 200921,
+        "num": 200921,
+        "word": "TFBOYS文案什么意思",
+        "onboard_time": 1713162918,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 198938,
+        "num": 198938,
+        "word": "阴阳师",
+        "onboard_time": 1713177319,
+        "rank": 26,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 197223,
+        "num": 197223,
+        "word": "第五人格赛事",
+        "onboard_time": 1713179299,
+        "rank": 27,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 196638,
+        "num": 196638,
+        "word": "薛之谦演唱会 一个人来的",
+        "onboard_time": 1713172099,
+        "rank": 28,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 187503,
+        "num": 191707,
+        "word": "李显龙将辞职",
+        "onboard_time": 1713171619,
+        "rank": 29,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 191581,
+        "num": 191581,
+        "word": "朱一龙直播",
+        "onboard_time": 1713175998,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 190199,
+        "num": 190199,
+        "word": "太湖湾音乐节 不可抗力",
+        "onboard_time": 1713169397,
+        "rank": 31,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 178281,
+        "num": 178281,
+        "word": "门童in了",
+        "onboard_time": 1713176838,
+        "rank": 32,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 178127,
+        "num": 178127,
+        "word": "眼泪女王又要等六年",
+        "onboard_time": 1713166757,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 172074,
+        "num": 172074,
+        "word": "任敏旗袍",
+        "onboard_time": 1713163457,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 171326,
+        "num": 171326,
+        "word": "五一档电影",
+        "onboard_time": 1713167538,
+        "rank": 35,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 159451,
+        "num": 159451,
+        "word": "林高远男单",
+        "onboard_time": 1713174378,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 158972,
+        "num": 158972,
+        "word": "男生是否介意女生婚前有房贷",
+        "onboard_time": 1713169938,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 158871,
+        "num": 158871,
+        "word": "小县城为什么没有穿衣自由",
+        "onboard_time": 1713166218,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 143046,
+        "num": 143046,
+        "word": "KPL注册草台班子商标",
+        "onboard_time": 1713177800,
+        "rank": 39,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 133077,
+        "num": 133077,
+        "word": "相互喜欢为什么会分手呢",
+        "onboard_time": 1713177858,
+        "rank": 40,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 132232,
+        "num": 132232,
+        "word": "一克拉肾结石",
+        "onboard_time": 1713165258,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 120658,
+        "num": 120658,
+        "word": "罗伯特说李泰容是光头强",
+        "onboard_time": 1713179358,
+        "rank": 42,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 120290,
+        "num": 120290,
+        "word": "胡锡进称今天大涨得益于国九条",
+        "onboard_time": 1713175218,
+        "rank": 43,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 118144,
+        "num": 118144,
+        "word": "当猫得知绝育医生的真实身份",
+        "onboard_time": 1713173597,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 117697,
+        "num": 117697,
+        "word": "黄子韬求导演管管徐艺洋",
+        "onboard_time": 1713167118,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 114337,
+        "num": 114337,
+        "word": "林高远2比2普卡",
+        "onboard_time": 1713176419,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 108529,
+        "num": 108529,
+        "word": "张杰高铁上读信",
+        "onboard_time": 1713175636,
+        "rank": 47,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 99170,
+        "num": 99170,
+        "word": "给大猫们吸猫薄荷",
+        "onboard_time": 1713179537,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 96848,
+        "num": 96848,
+        "word": "为什么火锅锅底越来越贵",
+        "onboard_time": 1713171198,
+        "rank": 49,
+        "category": "美食"
+      }
+    ],
+    "hotgov": {
+      "word": "#坚定不移贯彻总体国家安全观#"
+    }
+  }
+}
