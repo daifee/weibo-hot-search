@@ -1,6 +1,6 @@
 {
   "startTime": 1713025251708,
-  "endTime": 1713162123934,
+  "endTime": 1713162845949,
   "band_list": [
     {
       "raw_hot": 3410457,
@@ -275,6 +275,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 915372,
+      "num": 611756,
+      "word": "女性生孩子的理由只有一个",
+      "onboard_time": 1713149958,
+      "rank": 22,
+      "category": "情感"
+    },
+    {
       "raw_hot": 912435,
       "num": 912435,
       "word": "张伟丽战胜闫晓楠卫冕",
@@ -283,12 +291,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 895807,
-      "num": 611756,
-      "word": "女性生孩子的理由只有一个",
-      "onboard_time": 1713149958,
-      "rank": 22,
-      "category": "情感"
+      "raw_hot": 909880,
+      "num": 709457,
+      "word": "拿到offer后买了人生第一套正装",
+      "onboard_time": 1713158839,
+      "rank": 36,
+      "category": "幽默"
     },
     {
       "raw_hot": 865071,
@@ -483,14 +491,6 @@
       "category": "网红"
     },
     {
-      "raw_hot": 709457,
-      "num": 709457,
-      "word": "拿到offer后买了人生第一套正装",
-      "onboard_time": 1713158839,
-      "rank": 36,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 709104,
       "num": 709104,
       "word": "拼多多上爱花钱的女人",
@@ -643,6 +643,14 @@
       "category": "作品衍生,美妆"
     },
     {
+      "raw_hot": 556839,
+      "num": 556839,
+      "word": "小米高管否认卖一部SU7亏6800元",
+      "onboard_time": 1713157880,
+      "rank": 38,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 555866,
       "num": 555866,
       "word": "伊以冲突",
@@ -697,14 +705,6 @@
       "onboard_time": 1713080418,
       "rank": 13,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 541619,
-      "num": 541619,
-      "word": "小米高管否认卖一部SU7亏6800元",
-      "onboard_time": 1713157880,
-      "rank": 38,
-      "category": "汽车"
     },
     {
       "raw_hot": 530269,
@@ -1763,6 +1763,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 252081,
+      "num": 252081,
+      "word": "A股",
+      "onboard_time": 1713145997,
+      "rank": 34,
+      "category": "财经"
+    },
+    {
       "raw_hot": 251602,
       "num": 251602,
       "word": "相机岛",
@@ -1809,6 +1817,14 @@
       "onboard_time": 1713053296,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 247099,
+      "num": 715674,
+      "word": "中国发布伏特台风黑客组织溯源报告",
+      "onboard_time": 1713145458,
+      "rank": 4,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 246175,
@@ -1899,6 +1915,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 234251,
+      "num": 234251,
+      "word": "种地电竞小分队",
+      "onboard_time": 1713161777,
+      "rank": 30,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 233520,
       "num": 227050,
       "word": "华为Pura怎么读",
@@ -1953,6 +1977,14 @@
       "onboard_time": 1713103759,
       "rank": 35,
       "category": "电影"
+    },
+    {
+      "raw_hot": 228321,
+      "num": 228321,
+      "word": "3年前掉河里的20g金戒指捞上来了",
+      "onboard_time": 1713160638,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 227834,
@@ -2027,14 +2059,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 222684,
-      "num": 222684,
-      "word": "A股",
-      "onboard_time": 1713145997,
-      "rank": 34,
-      "category": "财经"
-    },
-    {
       "raw_hot": 222448,
       "num": 222448,
       "word": "王一博首次尝试自己做摄影师",
@@ -2057,6 +2081,14 @@
       "onboard_time": 1713155780,
       "rank": 40,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 220095,
+      "num": 220095,
+      "word": "肖战肖春生 我在什刹海当大哥",
+      "onboard_time": 1713158298,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 218836,
@@ -2128,14 +2160,6 @@
       "word": "承欢记 刘婉玉的委屈",
       "onboard_time": 1713154821,
       "rank": 35,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 212705,
-      "num": 212705,
-      "word": "肖战肖春生 我在什刹海当大哥",
-      "onboard_time": 1713158298,
-      "rank": 40,
       "category": "剧集"
     },
     {
@@ -2251,6 +2275,22 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 202068,
+      "num": 202068,
+      "word": "洪胜汉 高考",
+      "onboard_time": 1713162317,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 201767,
+      "num": 201767,
+      "word": "北京三年级小学生的真实周末",
+      "onboard_time": 1713159018,
+      "rank": 46,
+      "category": "教育"
+    },
+    {
       "raw_hot": 201661,
       "num": 201661,
       "word": "TFBOYS415十周年",
@@ -2339,12 +2379,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 195785,
-      "num": 195785,
-      "word": "种地电竞小分队",
-      "onboard_time": 1713161777,
-      "rank": 30,
-      "category": "电竞"
+      "raw_hot": 196422,
+      "num": 196422,
+      "word": "北京像下雪了",
+      "onboard_time": 1713159858,
+      "rank": 34,
+      "category": "情感"
     },
     {
       "raw_hot": 194570,
@@ -2419,14 +2459,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 186027,
-      "num": 186027,
-      "word": "北京三年级小学生的真实周末",
-      "onboard_time": 1713159018,
-      "rank": 46,
-      "category": "教育"
-    },
-    {
       "raw_hot": 185771,
       "num": 185771,
       "word": "北京半程马拉松何杰夺冠",
@@ -2473,6 +2505,14 @@
       "onboard_time": 1713070459,
       "rank": 41,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 182894,
+      "num": 182894,
+      "word": "同仁堂仁丹汞含量超标5万倍",
+      "onboard_time": 1713161657,
+      "rank": 41,
+      "category": "科学科普,健康医疗"
     },
     {
       "raw_hot": 182731,
@@ -2763,14 +2803,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 164102,
-      "num": 164102,
-      "word": "北京像下雪了",
-      "onboard_time": 1713159858,
-      "rank": 34,
-      "category": "情感"
-    },
-    {
       "raw_hot": 163930,
       "num": 163930,
       "word": "苏州马拉松",
@@ -2929,14 +2961,6 @@
       "onboard_time": 1713102320,
       "rank": 49,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 151969,
-      "num": 151969,
-      "word": "3年前掉河里的20g金戒指捞上来了",
-      "onboard_time": 1713160638,
-      "rank": 36,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 151636,
@@ -3171,14 +3195,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 137806,
-      "num": 137806,
-      "word": "同仁堂仁丹汞含量超标5万倍",
-      "onboard_time": 1713161657,
-      "rank": 41,
-      "category": "科学科普,健康医疗"
-    },
-    {
       "raw_hot": 137587,
       "num": 137587,
       "word": "沪指翻绿跌破3000点",
@@ -3193,6 +3209,14 @@
       "onboard_time": 1713017721,
       "rank": 41,
       "category": "美食"
+    },
+    {
+      "raw_hot": 134256,
+      "num": 134256,
+      "word": "普通家庭的孩子该不该看演唱会",
+      "onboard_time": 1713159978,
+      "rank": 44,
+      "category": "演出"
     },
     {
       "raw_hot": 133691,
@@ -3233,14 +3257,6 @@
       "onboard_time": 1713147498,
       "rank": 43,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 129801,
-      "num": 129801,
-      "word": "普通家庭的孩子该不该看演唱会",
-      "onboard_time": 1713159978,
-      "rank": 44,
-      "category": "演出"
     },
     {
       "raw_hot": 129757,
@@ -3331,6 +3347,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 123377,
+      "num": 123377,
+      "word": "云南泼水节装备门槛有点高啊",
+      "onboard_time": 1713162677,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 122526,
+      "num": 122526,
+      "word": "郝蕾 9个细节体现专业",
+      "onboard_time": 1713162198,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 121309,
       "num": 121309,
       "word": "湖人锁定西部第八",
@@ -3409,14 +3441,6 @@
       "onboard_time": 1713075858,
       "rank": 49,
       "category": "情感"
-    },
-    {
-      "raw_hot": 112877,
-      "num": 715674,
-      "word": "中国发布伏特台风黑客组织溯源报告",
-      "onboard_time": 1713145458,
-      "rank": 4,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 110692,
