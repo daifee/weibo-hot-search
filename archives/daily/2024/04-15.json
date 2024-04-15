@@ -1,6 +1,6 @@
 {
   "startTime": 1713132599554,
-  "endTime": 1713194275708,
+  "endTime": 1713195260107,
   "band_list": [
     {
       "raw_hot": 3410457,
@@ -28,7 +28,7 @@
     },
     {
       "raw_hot": 2436125,
-      "num": 854678,
+      "num": 862266,
       "word": "小新被爆家暴出轨",
       "onboard_time": 1713191599,
       "rank": 45,
@@ -211,6 +211,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 939793,
+      "num": 939793,
+      "word": "王楚钦2比2安宰贤",
+      "onboard_time": 1713193341,
+      "rank": 6,
+      "category": "体育"
+    },
+    {
       "raw_hot": 915372,
       "num": 611756,
       "word": "女性生孩子的理由只有一个",
@@ -241,6 +249,14 @@
       "onboard_time": 1713148458,
       "rank": 4,
       "category": "情感"
+    },
+    {
+      "raw_hot": 839980,
+      "num": 839980,
+      "word": "店员下错单被逼下跪向顾客道歉",
+      "onboard_time": 1713190881,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 812072,
@@ -337,14 +353,6 @@
       "onboard_time": 1713152599,
       "rank": 32,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 703153,
-      "num": 703153,
-      "word": "店员下错单被逼下跪向顾客道歉",
-      "onboard_time": 1713190881,
-      "rank": 24,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 690992,
@@ -459,6 +467,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 559106,
+      "num": 559106,
+      "word": "李耕耘的李白",
+      "onboard_time": 1713192979,
+      "rank": 8,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 556839,
       "num": 556839,
       "word": "小米高管否认卖一部SU7亏6800元",
@@ -483,20 +499,20 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 542388,
-      "num": 542388,
-      "word": "王楚钦2比2安宰贤",
-      "onboard_time": 1713193341,
-      "rank": 6,
-      "category": "体育"
-    },
-    {
       "raw_hot": 528094,
       "num": 528094,
       "word": "李昊开着治疗远走他乡",
       "onboard_time": 1713190160,
       "rank": 24,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 524582,
+      "num": 421822,
+      "word": "张元英向我求婚",
+      "onboard_time": 1713192979,
+      "rank": 14,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 521575,
@@ -547,20 +563,20 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 509490,
-      "num": 509490,
-      "word": "李耕耘的李白",
-      "onboard_time": 1713192979,
-      "rank": 8,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 507188,
       "num": 507188,
       "word": "卡琳娜将出席间谍过家家首映礼",
       "onboard_time": 1713152118,
       "rank": 11,
       "category": "电影,动漫"
+    },
+    {
+      "raw_hot": 503703,
+      "num": 325274,
+      "word": "数学140分以上就能被知名大学锁定吗",
+      "onboard_time": 1713193281,
+      "rank": 22,
+      "category": "教育"
     },
     {
       "raw_hot": 501442,
@@ -601,14 +617,6 @@
       "onboard_time": 1713164177,
       "rank": 25,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 465607,
-      "num": 325274,
-      "word": "数学140分以上就能被知名大学锁定吗",
-      "onboard_time": 1713193281,
-      "rank": 22,
-      "category": "教育"
     },
     {
       "raw_hot": 457593,
@@ -745,14 +753,6 @@
       "onboard_time": 1713156498,
       "rank": 13,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 398906,
-      "num": 398906,
-      "word": "张元英向我求婚",
-      "onboard_time": 1713192979,
-      "rank": 14,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 398843,
@@ -995,6 +995,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 318307,
+      "num": 332881,
+      "word": "哈马斯领导人多个家人被炸死",
+      "onboard_time": 1713192260,
+      "rank": 19,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 314541,
       "num": 314541,
       "word": "李现任敏新浪扫楼",
@@ -1009,14 +1017,6 @@
       "onboard_time": 1713140839,
       "rank": 15,
       "category": "演出"
-    },
-    {
-      "raw_hot": 306672,
-      "num": 332881,
-      "word": "哈马斯领导人多个家人被炸死",
-      "onboard_time": 1713192260,
-      "rank": 19,
-      "category": "国外时政"
     },
     {
       "raw_hot": 302853,
@@ -1145,6 +1145,14 @@
       "onboard_time": 1713106699,
       "rank": 17,
       "category": "电影"
+    },
+    {
+      "raw_hot": 271681,
+      "num": 271681,
+      "word": "白敬亭穿校服 梦回陆之昂",
+      "onboard_time": 1713194420,
+      "rank": 25,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 271327,
@@ -1427,6 +1435,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 213481,
+      "num": 203440,
+      "word": "王嘉尔刘雨昕合照",
+      "onboard_time": 1713193219,
+      "rank": 33,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 212732,
       "num": 212732,
       "word": "承欢记 刘婉玉的委屈",
@@ -1515,6 +1531,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 202431,
+      "num": 202431,
+      "word": "背着善宰跑 身高差",
+      "onboard_time": 1713194120,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 202068,
       "num": 202068,
       "word": "洪胜汉 高考",
@@ -1595,14 +1619,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 198387,
-      "num": 198387,
-      "word": "王嘉尔刘雨昕合照",
-      "onboard_time": 1713193219,
-      "rank": 33,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 197223,
       "num": 197223,
       "word": "第五人格赛事",
@@ -1641,6 +1657,14 @@
       "onboard_time": 1713169397,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 193443,
+      "num": 193443,
+      "word": "刘亦菲玫瑰的故事什么时候播",
+      "onboard_time": 1713194899,
+      "rank": 36,
+      "category": "剧集"
     },
     {
       "raw_hot": 193400,
@@ -1812,7 +1836,7 @@
     },
     {
       "raw_hot": 175163,
-      "num": 175163,
+      "num": 178243,
       "word": "为什么女生比男生更容易长痘",
       "onboard_time": 1713191480,
       "rank": 48,
@@ -1913,14 +1937,6 @@
       "onboard_time": 1713151217,
       "rank": 36,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 165934,
-      "num": 162908,
-      "word": "背着善宰跑 身高差",
-      "onboard_time": 1713194120,
-      "rank": 41,
-      "category": "剧集"
     },
     {
       "raw_hot": 165605,
@@ -2163,6 +2179,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 149399,
+      "num": 149399,
+      "word": "钟鸿森zhs职业六周年",
+      "onboard_time": 1713194420,
+      "rank": 44,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 148714,
       "num": 340508,
       "word": "泼水节禁止泼冷水",
@@ -2273,6 +2297,14 @@
       "onboard_time": 1713166096,
       "rank": 35,
       "category": "演出"
+    },
+    {
+      "raw_hot": 141153,
+      "num": 141153,
+      "word": "中国银行回应暂停新车个贷传闻",
+      "onboard_time": 1713194062,
+      "rank": 49,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 140337,
@@ -2633,14 +2665,6 @@
       "onboard_time": 1713183139,
       "rank": 47,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 108683,
-      "num": 131506,
-      "word": "中国银行回应暂停新车个贷传闻",
-      "onboard_time": 1713194062,
-      "rank": 49,
-      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 108041,
