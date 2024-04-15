@@ -1,6 +1,6 @@
 {
   "startTime": 1713025251708,
-  "endTime": 1713153086265,
+  "endTime": 1713155546471,
   "band_list": [
     {
       "raw_hot": 3410457,
@@ -41,6 +41,14 @@
       "onboard_time": 1713049513,
       "rank": 0,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 2235735,
+      "num": 2235735,
+      "word": "章泽天家族病史",
+      "onboard_time": 1713152537,
+      "rank": 47,
+      "category": "艺人"
     },
     {
       "raw_hot": 1937335,
@@ -129,6 +137,14 @@
       "onboard_time": 1713074238,
       "rank": 41,
       "category": "美食"
+    },
+    {
+      "raw_hot": 1142509,
+      "num": 1142509,
+      "word": "甄嬛传 团综",
+      "onboard_time": 1713153319,
+      "rank": 3,
+      "category": "综艺"
     },
     {
       "raw_hot": 1120400,
@@ -243,6 +259,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 889240,
+      "num": 889240,
+      "word": "王晶称梁朝伟应宣布不再领奖",
+      "onboard_time": 1713153860,
+      "rank": 5,
+      "category": "电影"
+    },
+    {
       "raw_hot": 865071,
       "num": 865071,
       "word": "把肯德基1995年价格表挖出来了",
@@ -331,14 +355,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 779171,
-      "num": 779171,
-      "word": "章泽天家族病史",
-      "onboard_time": 1713152537,
-      "rank": 47,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 775340,
       "num": 608059,
       "word": "如懿传 吐槽",
@@ -361,6 +377,14 @@
       "onboard_time": 1713067158,
       "rank": 5,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 765596,
+      "num": 765596,
+      "word": "五一调休",
+      "onboard_time": 1713152958,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 762188,
@@ -411,6 +435,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 732229,
+      "num": 631741,
+      "word": "一家四口自杀母亲没死成被判死刑",
+      "onboard_time": 1713154580,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 719583,
       "num": 719583,
       "word": "38块钱居然能吃20个菜",
@@ -425,6 +457,14 @@
       "onboard_time": 1713005717,
       "rank": 1,
       "category": "网红"
+    },
+    {
+      "raw_hot": 709104,
+      "num": 709104,
+      "word": "拼多多上爱花钱的女人",
+      "onboard_time": 1713152599,
+      "rank": 32,
+      "category": "互联网"
     },
     {
       "raw_hot": 706983,
@@ -513,6 +553,14 @@
       "onboard_time": 1713069318,
       "rank": 24,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 611756,
+      "num": 611756,
+      "word": "女性生孩子的理由只有一个",
+      "onboard_time": 1713149958,
+      "rank": 22,
+      "category": "情感"
     },
     {
       "raw_hot": 606528,
@@ -681,14 +729,6 @@
       "onboard_time": 1713152118,
       "rank": 11,
       "category": "电影,动漫"
-    },
-    {
-      "raw_hot": 500341,
-      "num": 260721,
-      "word": "女性生孩子的理由只有一个",
-      "onboard_time": 1713149958,
-      "rank": 22,
-      "category": "情感"
     },
     {
       "raw_hot": 496176,
@@ -865,6 +905,14 @@
       "onboard_time": 1713098358,
       "rank": 18,
       "category": "情感"
+    },
+    {
+      "raw_hot": 425798,
+      "num": 425798,
+      "word": "华为P70三角形相机岛设计实锤",
+      "onboard_time": 1713153618,
+      "rank": 15,
+      "category": "数码"
     },
     {
       "raw_hot": 415928,
@@ -1379,6 +1427,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 288919,
+      "num": 255710,
+      "word": "汪苏泷到底是什么意思",
+      "onboard_time": 1713153560,
+      "rank": 22,
+      "category": "艺人,综艺"
+    },
+    {
       "raw_hot": 288002,
       "num": 288002,
       "word": "姚志明 承认吧你也为她心动",
@@ -1587,6 +1643,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 252250,
+      "num": 252250,
+      "word": "贺军翔老了",
+      "onboard_time": 1713154940,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 250142,
       "num": 240054,
       "word": "上班后才知道读研有多苦",
@@ -1651,6 +1715,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 242007,
+      "num": 242007,
+      "word": "王嘉尔刘雨昕88rising同台",
+      "onboard_time": 1713154821,
+      "rank": 25,
+      "category": "演出"
+    },
+    {
       "raw_hot": 241739,
       "num": 241739,
       "word": "年轻人为什么热衷追逐奶茶联名",
@@ -1697,6 +1769,14 @@
       "onboard_time": 1713105620,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 234655,
+      "num": 234655,
+      "word": "暴雪前总裁希望玩家给小费",
+      "onboard_time": 1713153979,
+      "rank": 26,
+      "category": "游戏"
     },
     {
       "raw_hot": 233520,
@@ -1891,6 +1971,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 211703,
+      "num": 270215,
+      "word": "长城智驾直播挑战闹市区",
+      "onboard_time": 1713154101,
+      "rank": 19,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 211092,
       "num": 211092,
       "word": "金钟仁吴世勋去了EXO粉丝见面会",
@@ -1937,6 +2025,14 @@
       "onboard_time": 1713082040,
       "rank": 28,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 206608,
+      "num": 206608,
+      "word": "相机岛",
+      "onboard_time": 1713154459,
+      "rank": 30,
+      "category": "数码"
     },
     {
       "raw_hot": 206554,
@@ -2043,14 +2139,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 197011,
-      "num": 197011,
-      "word": "拼多多上爱花钱的女人",
-      "onboard_time": 1713152599,
-      "rank": 32,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 196982,
       "num": 196982,
       "word": "田曦薇配音宫崎骏女孩苏菲",
@@ -2065,6 +2153,38 @@
       "onboard_time": 1713088037,
       "rank": 32,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 195518,
+      "num": 195518,
+      "word": "TFBOYS415十周年",
+      "onboard_time": 1713139638,
+      "rank": 38,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 195431,
+      "num": 195431,
+      "word": "北影节抢票",
+      "onboard_time": 1713154999,
+      "rank": 33,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 194570,
+      "num": 194570,
+      "word": "电视剧大生意人官宣",
+      "onboard_time": 1713154940,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 194237,
+      "num": 194237,
+      "word": "承欢记 刘婉玉的委屈",
+      "onboard_time": 1713154821,
+      "rank": 35,
+      "category": "剧集"
     },
     {
       "raw_hot": 193400,
@@ -2107,6 +2227,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 189499,
+      "num": 189499,
+      "word": "阚清子海边生日照",
+      "onboard_time": 1713155059,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 187462,
       "num": 187462,
       "word": "苗苗女团妆",
@@ -2121,6 +2249,14 @@
       "onboard_time": 1713106578,
       "rank": 26,
       "category": "演出"
+    },
+    {
+      "raw_hot": 187289,
+      "num": 187289,
+      "word": "马龙给15岁对手上一课",
+      "onboard_time": 1713155361,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 185882,
@@ -2467,6 +2603,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 161376,
+      "num": 161376,
+      "word": "种地吧直播",
+      "onboard_time": 1713145697,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 160848,
       "num": 160848,
       "word": "上海海港4比3山东泰山",
@@ -2619,14 +2763,6 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 146745,
-      "num": 146745,
-      "word": "种地吧直播",
-      "onboard_time": 1713145697,
-      "rank": 37,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 146158,
       "num": 146158,
       "word": "BABYMONSTER翻跳2NE1串烧",
@@ -2635,20 +2771,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 145613,
-      "num": 145613,
-      "word": "TFBOYS415十周年",
-      "onboard_time": 1713139638,
-      "rank": 38,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 145607,
       "num": 145607,
       "word": "2024金像奖获奖名单",
       "onboard_time": 1713138317,
       "rank": 32,
       "category": "电影"
+    },
+    {
+      "raw_hot": 145549,
+      "num": 145549,
+      "word": "教你在微信上凭空消失",
+      "onboard_time": 1713155480,
+      "rank": 47,
+      "category": "情感"
     },
     {
       "raw_hot": 145522,
@@ -2697,6 +2833,22 @@
       "onboard_time": 1713084738,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 143956,
+      "num": 143956,
+      "word": "Uzi说ruler怕被喷",
+      "onboard_time": 1713154340,
+      "rank": 48,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 143846,
+      "num": 143846,
+      "word": "群星闪耀时开播",
+      "onboard_time": 1713154700,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 143149,
@@ -2793,14 +2945,6 @@
       "onboard_time": 1713146657,
       "rank": 42,
       "category": "财经"
-    },
-    {
-      "raw_hot": 136057,
-      "num": 136057,
-      "word": "五一调休",
-      "onboard_time": 1713152958,
-      "rank": 46,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 135334,
@@ -3219,6 +3363,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 66544,
+      "num": 1476333,
+      "word": "守护国家安全要做到8个不",
+      "onboard_time": 1713146178,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 66118,
       "num": 66118,
       "word": "你知道下乡给老人拍照有多赚吗",
@@ -3272,14 +3424,6 @@
       "word": "男子一个大意3万元一缸鱼快熟了",
       "onboard_time": 1713033492,
       "rank": 22,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 46646,
-      "num": 1069198,
-      "word": "守护国家安全要做到8个不",
-      "onboard_time": 1713146178,
-      "rank": 2,
       "category": "社会新闻"
     },
     {

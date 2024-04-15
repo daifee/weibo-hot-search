@@ -1,6 +1,6 @@
 {
   "startTime": 1713132599554,
-  "endTime": 1713153086265,
+  "endTime": 1713155546471,
   "band_list": [
     {
       "raw_hot": 3410457,
@@ -9,6 +9,14 @@
       "onboard_time": 1713145817,
       "rank": 0,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2235735,
+      "num": 2235735,
+      "word": "章泽天家族病史",
+      "onboard_time": 1713152537,
+      "rank": 47,
+      "category": "艺人"
     },
     {
       "raw_hot": 1710524,
@@ -25,6 +33,14 @@
       "onboard_time": 1713145338,
       "rank": 1,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 1142509,
+      "num": 1142509,
+      "word": "甄嬛传 团综",
+      "onboard_time": 1713153319,
+      "rank": 3,
+      "category": "综艺"
     },
     {
       "raw_hot": 1042909,
@@ -51,6 +67,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 889240,
+      "num": 889240,
+      "word": "王晶称梁朝伟应宣布不再领奖",
+      "onboard_time": 1713153860,
+      "rank": 5,
+      "category": "电影"
+    },
+    {
       "raw_hot": 849737,
       "num": 849737,
       "word": "美国女生带韩国男友回家",
@@ -75,12 +99,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 779171,
-      "num": 779171,
-      "word": "章泽天家族病史",
-      "onboard_time": 1713152537,
-      "rank": 47,
-      "category": "艺人"
+      "raw_hot": 765596,
+      "num": 765596,
+      "word": "五一调休",
+      "onboard_time": 1713152958,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 762188,
@@ -99,6 +123,22 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 732229,
+      "num": 631741,
+      "word": "一家四口自杀母亲没死成被判死刑",
+      "onboard_time": 1713154580,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 709104,
+      "num": 709104,
+      "word": "拼多多上爱花钱的女人",
+      "onboard_time": 1713152599,
+      "rank": 32,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 654885,
       "num": 654885,
       "word": "奔跑吧12官宣定档",
@@ -113,6 +153,14 @@
       "onboard_time": 1713145398,
       "rank": 7,
       "category": "数码"
+    },
+    {
+      "raw_hot": 611756,
+      "num": 611756,
+      "word": "女性生孩子的理由只有一个",
+      "onboard_time": 1713149958,
+      "rank": 22,
+      "category": "情感"
     },
     {
       "raw_hot": 604282,
@@ -163,12 +211,12 @@
       "category": "电影,动漫"
     },
     {
-      "raw_hot": 500341,
-      "num": 260721,
-      "word": "女性生孩子的理由只有一个",
-      "onboard_time": 1713149958,
-      "rank": 22,
-      "category": "情感"
+      "raw_hot": 425798,
+      "num": 425798,
+      "word": "华为P70三角形相机岛设计实锤",
+      "onboard_time": 1713153618,
+      "rank": 15,
+      "category": "数码"
     },
     {
       "raw_hot": 413153,
@@ -299,6 +347,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 288919,
+      "num": 255710,
+      "word": "汪苏泷到底是什么意思",
+      "onboard_time": 1713153560,
+      "rank": 22,
+      "category": "艺人,综艺"
+    },
+    {
       "raw_hot": 285133,
       "num": 259560,
       "word": "养儿防老原来是儿媳妇养老",
@@ -323,6 +379,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 252250,
+      "num": 252250,
+      "word": "贺军翔老了",
+      "onboard_time": 1713154940,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 250142,
       "num": 240054,
       "word": "上班后才知道读研有多苦",
@@ -339,12 +403,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 242007,
+      "num": 242007,
+      "word": "王嘉尔刘雨昕88rising同台",
+      "onboard_time": 1713154821,
+      "rank": 25,
+      "category": "演出"
+    },
+    {
       "raw_hot": 239498,
       "num": 413974,
       "word": "炸串奶奶摊前排起长队",
       "onboard_time": 1713122531,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 234655,
+      "num": 234655,
+      "word": "暴雪前总裁希望玩家给小费",
+      "onboard_time": 1713153979,
+      "rank": 26,
+      "category": "游戏"
     },
     {
       "raw_hot": 233520,
@@ -387,6 +467,14 @@
       "category": "社会新闻,网红"
     },
     {
+      "raw_hot": 211703,
+      "num": 270215,
+      "word": "长城智驾直播挑战闹市区",
+      "onboard_time": 1713154101,
+      "rank": 19,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 209098,
       "num": 209098,
       "word": "王嘉尔空降科切拉",
@@ -395,12 +483,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 197011,
-      "num": 197011,
-      "word": "拼多多上爱花钱的女人",
-      "onboard_time": 1713152599,
-      "rank": 32,
-      "category": "互联网"
+      "raw_hot": 206608,
+      "num": 206608,
+      "word": "相机岛",
+      "onboard_time": 1713154459,
+      "rank": 30,
+      "category": "数码"
     },
     {
       "raw_hot": 196982,
@@ -411,12 +499,52 @@
       "category": "电影"
     },
     {
+      "raw_hot": 195518,
+      "num": 195518,
+      "word": "TFBOYS415十周年",
+      "onboard_time": 1713139638,
+      "rank": 38,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 195431,
+      "num": 195431,
+      "word": "北影节抢票",
+      "onboard_time": 1713154999,
+      "rank": 33,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 194570,
+      "num": 194570,
+      "word": "电视剧大生意人官宣",
+      "onboard_time": 1713154940,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 194237,
+      "num": 194237,
+      "word": "承欢记 刘婉玉的委屈",
+      "onboard_time": 1713154821,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 193400,
       "num": 193400,
       "word": "电影想飞的女孩官宣",
       "onboard_time": 1713151638,
       "rank": 33,
       "category": "电影"
+    },
+    {
+      "raw_hot": 189499,
+      "num": 189499,
+      "word": "阚清子海边生日照",
+      "onboard_time": 1713155059,
+      "rank": 37,
+      "category": "艺人"
     },
     {
       "raw_hot": 187626,
@@ -433,6 +561,14 @@
       "onboard_time": 1713106578,
       "rank": 26,
       "category": "演出"
+    },
+    {
+      "raw_hot": 187289,
+      "num": 187289,
+      "word": "马龙给15岁对手上一课",
+      "onboard_time": 1713155361,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 185882,
@@ -531,6 +667,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 161376,
+      "num": 161376,
+      "word": "种地吧直播",
+      "onboard_time": 1713145697,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 158405,
       "num": 158405,
       "word": "国际金价疯涨金饰却遇冷",
@@ -555,28 +699,36 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 146745,
-      "num": 146745,
-      "word": "种地吧直播",
-      "onboard_time": 1713145697,
-      "rank": 37,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 145613,
-      "num": 145613,
-      "word": "TFBOYS415十周年",
-      "onboard_time": 1713139638,
-      "rank": 38,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 145607,
       "num": 145607,
       "word": "2024金像奖获奖名单",
       "onboard_time": 1713138317,
       "rank": 32,
       "category": "电影"
+    },
+    {
+      "raw_hot": 145549,
+      "num": 145549,
+      "word": "教你在微信上凭空消失",
+      "onboard_time": 1713155480,
+      "rank": 47,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 143956,
+      "num": 143956,
+      "word": "Uzi说ruler怕被喷",
+      "onboard_time": 1713154340,
+      "rank": 48,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 143846,
+      "num": 143846,
+      "word": "群星闪耀时开播",
+      "onboard_time": 1713154700,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 142948,
@@ -617,14 +769,6 @@
       "onboard_time": 1713146657,
       "rank": 42,
       "category": "财经"
-    },
-    {
-      "raw_hot": 136057,
-      "num": 136057,
-      "word": "五一调休",
-      "onboard_time": 1713152958,
-      "rank": 46,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 133554,
@@ -859,20 +1003,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 66544,
+      "num": 1476333,
+      "word": "守护国家安全要做到8个不",
+      "onboard_time": 1713146178,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 66279,
       "num": 66279,
       "word": "林更新爆改沈月微信头像",
       "onboard_time": 1713097577,
       "rank": 22,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 46646,
-      "num": 1069198,
-      "word": "守护国家安全要做到8个不",
-      "onboard_time": 1713146178,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 36701,
