@@ -1,0 +1,410 @@
+{
+  "runTime": 1713162123934,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 897271,
+        "num": 897271,
+        "word": "端午节放3天不调休",
+        "onboard_time": 1713145817,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 829132,
+        "num": 829132,
+        "word": "甄嬛传 团综",
+        "onboard_time": 1713153319,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 56512,
+        "num": 763461,
+        "word": "守护国家安全要做到8个不",
+        "onboard_time": 1713146178,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 746953,
+        "num": 746953,
+        "word": "歌手回归",
+        "onboard_time": 1713155601,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 112877,
+        "num": 715674,
+        "word": "中国发布伏特台风黑客组织溯源报告",
+        "onboard_time": 1713145458,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 709457,
+        "num": 709457,
+        "word": "拿到offer后买了人生第一套正装",
+        "onboard_time": 1713158839,
+        "rank": 5,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 541619,
+        "num": 541619,
+        "word": "小米高管否认卖一部SU7亏6800元",
+        "onboard_time": 1713157880,
+        "rank": 6,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 501442,
+        "num": 501442,
+        "word": "babymonster 科切拉",
+        "onboard_time": 1713159618,
+        "rank": 7,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 394958,
+        "num": 394958,
+        "word": "王晶称梁朝伟应宣布不再领奖",
+        "onboard_time": 1713153860,
+        "rank": 8,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 387463,
+        "num": 387463,
+        "word": "突然的恋情可能是间谍的圈套",
+        "onboard_time": 1713146056,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 973715,
+        "num": 386370,
+        "word": "朴宝蓝尸检结果",
+        "onboard_time": 1713159497,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 895807,
+        "num": 385757,
+        "word": "女性生孩子的理由只有一个",
+        "onboard_time": 1713149958,
+        "rank": 11,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 385071,
+        "num": 385071,
+        "word": "贺军翔老了",
+        "onboard_time": 1713154940,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 375488,
+        "num": 375488,
+        "word": "保时捷中国总裁回应米时捷",
+        "onboard_time": 1713145338,
+        "rank": 13,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 322590,
+        "num": 322590,
+        "word": "吉林高速大赚5亿不分红",
+        "onboard_time": 1713155961,
+        "rank": 14,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 314541,
+        "num": 314541,
+        "word": "李现任敏新浪扫楼",
+        "onboard_time": 1713160098,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 290466,
+        "num": 290466,
+        "word": "樊振东vs杜达",
+        "onboard_time": 1713160939,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 287795,
+        "num": 287795,
+        "word": "hybe kpop毁灭者",
+        "onboard_time": 1713157819,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 266601,
+        "num": 266601,
+        "word": "马龙给15岁对手上一课",
+        "onboard_time": 1713155361,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 258329,
+        "num": 258329,
+        "word": "TFBOYS纪念十周年",
+        "onboard_time": 1713156498,
+        "rank": 19,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 506474,
+        "num": 256901,
+        "word": "第一批丁克夫妻现状曝光",
+        "onboard_time": 1713138557,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 331969,
+        "num": 249368,
+        "word": "教你在微信上凭空消失",
+        "onboard_time": 1713155480,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 330375,
+        "num": 244192,
+        "word": "中医劝患者想怀孕不要穿裙子",
+        "onboard_time": 1713148938,
+        "rank": 22,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 266768,
+        "num": 241473,
+        "word": "陈晓孙千合作",
+        "onboard_time": 1713161477,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 237691,
+        "num": 237691,
+        "word": "五一调休",
+        "onboard_time": 1713152958,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 233605,
+        "num": 233605,
+        "word": "他怎么又凶又奶的",
+        "onboard_time": 1713148938,
+        "rank": 25,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 222684,
+        "num": 222684,
+        "word": "A股",
+        "onboard_time": 1713145997,
+        "rank": 26,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 212705,
+        "num": 212705,
+        "word": "肖战肖春生 我在什刹海当大哥",
+        "onboard_time": 1713158298,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 207625,
+        "num": 207625,
+        "word": "华为P70 Pura",
+        "onboard_time": 1713145398,
+        "rank": 28,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 205538,
+        "num": 205538,
+        "word": "汪苏泷到底是什么意思",
+        "onboard_time": 1713153560,
+        "rank": 29,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 195785,
+        "num": 195785,
+        "word": "种地电竞小分队",
+        "onboard_time": 1713161777,
+        "rank": 30,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 186027,
+        "num": 186027,
+        "word": "北京三年级小学生的真实周末",
+        "onboard_time": 1713159018,
+        "rank": 31,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 177285,
+        "num": 177285,
+        "word": "嗯的标准拼音不是en",
+        "onboard_time": 1713155961,
+        "rank": 32,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 170962,
+        "num": 170962,
+        "word": "为什么年轻人都想逃离银行柜员",
+        "onboard_time": 1713160039,
+        "rank": 33,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 164102,
+        "num": 164102,
+        "word": "北京像下雪了",
+        "onboard_time": 1713159858,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 153331,
+        "num": 153331,
+        "word": "奔跑吧12官宣定档",
+        "onboard_time": 1713147917,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 151969,
+        "num": 151969,
+        "word": "3年前掉河里的20g金戒指捞上来了",
+        "onboard_time": 1713160638,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 151237,
+        "num": 151237,
+        "word": "杨迪的刀先修了厕所又切了香肠",
+        "onboard_time": 1713159198,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 150292,
+        "num": 150292,
+        "word": "张万森 下柳絮了",
+        "onboard_time": 1713158419,
+        "rank": 38,
+        "category": "情感,作品衍生"
+      },
+      {
+        "raw_hot": 142955,
+        "num": 142955,
+        "word": "卡琳娜将出席间谍过家家首映礼",
+        "onboard_time": 1713152118,
+        "rank": 39,
+        "category": "电影,动漫"
+      },
+      {
+        "raw_hot": 141260,
+        "num": 141260,
+        "word": "猫 你就当我晕了吧",
+        "onboard_time": 1713157940,
+        "rank": 40,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 137806,
+        "num": 137806,
+        "word": "同仁堂仁丹汞含量超标5万倍",
+        "onboard_time": 1713161657,
+        "rank": 41,
+        "category": "科学科普,健康医疗"
+      },
+      {
+        "raw_hot": 134873,
+        "num": 134873,
+        "word": "华为P70三角形相机岛设计实锤",
+        "onboard_time": 1713153618,
+        "rank": 42,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 130096,
+        "num": 130096,
+        "word": "张艺兴工作室发文向张艺兴道歉",
+        "onboard_time": 1713139638,
+        "rank": 43,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 129801,
+        "num": 129801,
+        "word": "普通家庭的孩子该不该看演唱会",
+        "onboard_time": 1713159978,
+        "rank": 44,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 126908,
+        "num": 126908,
+        "word": "芭莎晒王一博",
+        "onboard_time": 1713156082,
+        "rank": 45,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 126595,
+        "num": 126595,
+        "word": "阚清子海边生日照",
+        "onboard_time": 1713155059,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 122228,
+        "num": 122228,
+        "word": "失业中产卖房自救",
+        "onboard_time": 1713157221,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 115819,
+        "num": 115819,
+        "word": "想看刘宇宁被吓哭",
+        "onboard_time": 1713160518,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 114563,
+        "num": 114563,
+        "word": "种地吧直播",
+        "onboard_time": 1713145697,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#坚定不移贯彻总体国家安全观#"
+    }
+  }
+}

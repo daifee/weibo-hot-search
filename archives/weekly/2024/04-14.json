@@ -1,6 +1,6 @@
 {
   "startTime": 1713025251708,
-  "endTime": 1713159256777,
+  "endTime": 1713162123934,
   "band_list": [
     {
       "raw_hot": 3410457,
@@ -219,6 +219,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 973715,
+      "num": 386370,
+      "word": "朴宝蓝尸检结果",
+      "onboard_time": 1713159497,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 962163,
       "num": 321059,
       "word": "被妈妈看到避孕套了怎么办",
@@ -273,6 +281,14 @@
       "onboard_time": 1713072197,
       "rank": 4,
       "category": "体育"
+    },
+    {
+      "raw_hot": 895807,
+      "num": 611756,
+      "word": "女性生孩子的理由只有一个",
+      "onboard_time": 1713149958,
+      "rank": 22,
+      "category": "情感"
     },
     {
       "raw_hot": 865071,
@@ -451,14 +467,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 729862,
-      "num": 611756,
-      "word": "女性生孩子的理由只有一个",
-      "onboard_time": 1713149958,
-      "rank": 22,
-      "category": "情感"
-    },
-    {
       "raw_hot": 719583,
       "num": 719583,
       "word": "38块钱居然能吃20个菜",
@@ -473,6 +481,14 @@
       "onboard_time": 1713005717,
       "rank": 1,
       "category": "网红"
+    },
+    {
+      "raw_hot": 709457,
+      "num": 709457,
+      "word": "拿到offer后买了人生第一套正装",
+      "onboard_time": 1713158839,
+      "rank": 36,
+      "category": "幽默"
     },
     {
       "raw_hot": 709104,
@@ -683,6 +699,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 541619,
+      "num": 541619,
+      "word": "小米高管否认卖一部SU7亏6800元",
+      "onboard_time": 1713157880,
+      "rank": 38,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 530269,
       "num": 530269,
       "word": "王祖蓝在香港被放假的广西人包围了",
@@ -737,6 +761,14 @@
       "onboard_time": 1713152118,
       "rank": 11,
       "category": "电影,动漫"
+    },
+    {
+      "raw_hot": 501442,
+      "num": 501442,
+      "word": "babymonster 科切拉",
+      "onboard_time": 1713159618,
+      "rank": 7,
+      "category": "演出"
     },
     {
       "raw_hot": 496176,
@@ -1075,14 +1107,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 374395,
-      "num": 335869,
-      "word": "小米高管否认卖一部SU7亏6800元",
-      "onboard_time": 1713157880,
-      "rank": 38,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 371061,
       "num": 599953,
       "word": "男童30万耳蜗丢失全城合力找回",
@@ -1259,6 +1283,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 322590,
+      "num": 322590,
+      "word": "吉林高速大赚5亿不分红",
+      "onboard_time": 1713155961,
+      "rank": 49,
+      "category": "财经"
+    },
+    {
       "raw_hot": 322154,
       "num": 322154,
       "word": "结婚前分手的情侣",
@@ -1321,6 +1353,14 @@
       "onboard_time": 1713066978,
       "rank": 18,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 314541,
+      "num": 314541,
+      "word": "李现任敏新浪扫楼",
+      "onboard_time": 1713160098,
+      "rank": 15,
+      "category": "剧集"
     },
     {
       "raw_hot": 314471,
@@ -1475,6 +1515,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 290466,
+      "num": 290466,
+      "word": "樊振东vs杜达",
+      "onboard_time": 1713160939,
+      "rank": 16,
+      "category": "体育"
+    },
+    {
       "raw_hot": 288919,
       "num": 282210,
       "word": "汪苏泷到底是什么意思",
@@ -1489,6 +1537,14 @@
       "onboard_time": 1713070818,
       "rank": 16,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 287795,
+      "num": 287795,
+      "word": "hybe kpop毁灭者",
+      "onboard_time": 1713157819,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 287621,
@@ -1587,6 +1643,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 266768,
+      "num": 241473,
+      "word": "陈晓孙千合作",
+      "onboard_time": 1713161477,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 266440,
       "num": 266440,
       "word": "T1和GEN决胜局",
@@ -1649,14 +1713,6 @@
       "onboard_time": 1713052876,
       "rank": 29,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 261120,
-      "num": 261120,
-      "word": "hybe kpop毁灭者",
-      "onboard_time": 1713157819,
-      "rank": 36,
-      "category": "艺人"
     },
     {
       "raw_hot": 260387,
@@ -1793,14 +1849,6 @@
       "onboard_time": 1713064279,
       "rank": 36,
       "category": "美食"
-    },
-    {
-      "raw_hot": 241567,
-      "num": 241567,
-      "word": "吉林高速大赚5亿不分红",
-      "onboard_time": 1713155961,
-      "rank": 49,
-      "category": "财经"
     },
     {
       "raw_hot": 240050,
@@ -1979,6 +2027,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 222684,
+      "num": 222684,
+      "word": "A股",
+      "onboard_time": 1713145997,
+      "rank": 34,
+      "category": "财经"
+    },
+    {
       "raw_hot": 222448,
       "num": 222448,
       "word": "王一博首次尝试自己做摄影师",
@@ -2072,6 +2128,14 @@
       "word": "承欢记 刘婉玉的委屈",
       "onboard_time": 1713154821,
       "rank": 35,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 212705,
+      "num": 212705,
+      "word": "肖战肖春生 我在什刹海当大哥",
+      "onboard_time": 1713158298,
+      "rank": 40,
       "category": "剧集"
     },
     {
@@ -2275,6 +2339,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 195785,
+      "num": 195785,
+      "word": "种地电竞小分队",
+      "onboard_time": 1713161777,
+      "rank": 30,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 194570,
       "num": 194570,
       "word": "电视剧大生意人官宣",
@@ -2347,12 +2419,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 185882,
-      "num": 185882,
-      "word": "A股",
-      "onboard_time": 1713145997,
-      "rank": 34,
-      "category": "财经"
+      "raw_hot": 186027,
+      "num": 186027,
+      "word": "北京三年级小学生的真实周末",
+      "onboard_time": 1713159018,
+      "rank": 46,
+      "category": "教育"
     },
     {
       "raw_hot": 185771,
@@ -2555,6 +2627,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 170962,
+      "num": 170962,
+      "word": "为什么年轻人都想逃离银行柜员",
+      "onboard_time": 1713160039,
+      "rank": 33,
+      "category": "财经"
+    },
+    {
       "raw_hot": 170515,
       "num": 159563,
       "word": "彻底打消了去韩国旅游的念头",
@@ -2683,6 +2763,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 164102,
+      "num": 164102,
+      "word": "北京像下雪了",
+      "onboard_time": 1713159858,
+      "rank": 34,
+      "category": "情感"
+    },
+    {
       "raw_hot": 163930,
       "num": 163930,
       "word": "苏州马拉松",
@@ -2729,14 +2817,6 @@
       "onboard_time": 1713145697,
       "rank": 37,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 160869,
-      "num": 160869,
-      "word": "拿到offer后买了人生第一套正装",
-      "onboard_time": 1713158839,
-      "rank": 36,
-      "category": "幽默"
     },
     {
       "raw_hot": 160848,
@@ -2851,6 +2931,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 151969,
+      "num": 151969,
+      "word": "3年前掉河里的20g金戒指捞上来了",
+      "onboard_time": 1713160638,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 151636,
       "num": 151636,
       "word": "王一博早期与素人合照",
@@ -2897,14 +2985,6 @@
       "onboard_time": 1713050474,
       "rank": 33,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 147313,
-      "num": 147313,
-      "word": "肖战肖春生 我在什刹海当大哥",
-      "onboard_time": 1713158298,
-      "rank": 40,
-      "category": "剧集"
     },
     {
       "raw_hot": 146158,
@@ -3091,6 +3171,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 137806,
+      "num": 137806,
+      "word": "同仁堂仁丹汞含量超标5万倍",
+      "onboard_time": 1713161657,
+      "rank": 41,
+      "category": "科学科普,健康医疗"
+    },
+    {
       "raw_hot": 137587,
       "num": 137587,
       "word": "沪指翻绿跌破3000点",
@@ -3145,6 +3233,14 @@
       "onboard_time": 1713147498,
       "rank": 43,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 129801,
+      "num": 129801,
+      "word": "普通家庭的孩子该不该看演唱会",
+      "onboard_time": 1713159978,
+      "rank": 44,
+      "category": "演出"
     },
     {
       "raw_hot": 129757,
@@ -3251,14 +3347,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 121048,
-      "num": 121048,
-      "word": "北京三年级小学生的真实周末",
-      "onboard_time": 1713159018,
-      "rank": 46,
-      "category": "教育"
-    },
-    {
       "raw_hot": 120372,
       "num": 120372,
       "word": "郑雅譞跳T5 Move",
@@ -3299,6 +3387,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 115819,
+      "num": 115819,
+      "word": "想看刘宇宁被吓哭",
+      "onboard_time": 1713160518,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 114837,
       "num": 114837,
       "word": "TES门票",
@@ -3313,6 +3409,14 @@
       "onboard_time": 1713075858,
       "rank": 49,
       "category": "情感"
+    },
+    {
+      "raw_hot": 112877,
+      "num": 715674,
+      "word": "中国发布伏特台风黑客组织溯源报告",
+      "onboard_time": 1713145458,
+      "rank": 4,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 110692,
