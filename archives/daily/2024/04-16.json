@@ -1,18 +1,18 @@
 {
   "startTime": 1713198119901,
-  "endTime": 1713223021055,
+  "endTime": 1713224052862,
   "band_list": [
     {
       "raw_hot": 1493101,
-      "num": 421806,
+      "num": 475196,
       "word": "小新被爆家暴出轨",
       "onboard_time": 1713191599,
       "rank": 3,
       "category": "电竞"
     },
     {
-      "raw_hot": 994860,
-      "num": 319273,
+      "raw_hot": 1207479,
+      "num": 478424,
       "word": "男子当众扒光前女友衣服获刑5年",
       "onboard_time": 1713207971,
       "rank": 27,
@@ -43,12 +43,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 523301,
+      "num": 523301,
+      "word": "45岁儿子决定和妈妈重新认识一次",
+      "onboard_time": 1713214150,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 520510,
       "num": 177805,
       "word": "吴尊自曝晨起心率只有38",
       "onboard_time": 1713188179,
       "rank": 21,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 469562,
+      "num": 469562,
+      "word": "胆固醇之王原来是它",
+      "onboard_time": 1713217810,
+      "rank": 11,
+      "category": "健康医疗,科学科普"
     },
     {
       "raw_hot": 455072,
@@ -67,20 +83,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 437776,
+      "num": 188687,
+      "word": "重庆大风暴雨",
+      "onboard_time": 1713222916,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 418593,
       "num": 277331,
       "word": "张元英向我求婚",
       "onboard_time": 1713192979,
       "rank": 10,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 416660,
-      "num": 416660,
-      "word": "45岁儿子决定和妈妈重新认识一次",
-      "onboard_time": 1713214150,
-      "rank": 5,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 400625,
@@ -91,12 +107,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 397695,
-      "num": 154712,
-      "word": "胆固醇之王原来是它",
-      "onboard_time": 1713217810,
-      "rank": 11,
-      "category": "健康医疗,科学科普"
+      "raw_hot": 396282,
+      "num": 396282,
+      "word": "为什么网上买药比实体店更便宜",
+      "onboard_time": 1713205213,
+      "rank": 49,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 384249,
@@ -123,11 +139,11 @@
       "category": "演出"
     },
     {
-      "raw_hot": 313978,
-      "num": 313978,
-      "word": "为什么网上买药比实体店更便宜",
-      "onboard_time": 1713205213,
-      "rank": 49,
+      "raw_hot": 292435,
+      "num": 127977,
+      "word": "上公厕马桶不垫纸会被传染疾病吗",
+      "onboard_time": 1713219733,
+      "rank": 30,
       "category": "健康医疗"
     },
     {
@@ -171,12 +187,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 255372,
-      "num": 89631,
-      "word": "上公厕马桶不垫纸会被传染疾病吗",
-      "onboard_time": 1713219733,
-      "rank": 30,
-      "category": "健康医疗"
+      "raw_hot": 257825,
+      "num": 257825,
+      "word": "陈晓光头颜值",
+      "onboard_time": 1713209291,
+      "rank": 44,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 244070,
@@ -185,14 +201,6 @@
       "onboard_time": 1713194899,
       "rank": 14,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 208612,
-      "num": 208612,
-      "word": "陈晓光头颜值",
-      "onboard_time": 1713209291,
-      "rank": 44,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 207766,
@@ -251,6 +259,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 175242,
+      "num": 175242,
+      "word": "建议春夏少穿黄绿色衣服出门",
+      "onboard_time": 1713180977,
+      "rank": 33,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 168953,
       "num": 168953,
       "word": "张真源吃播",
@@ -272,6 +288,14 @@
       "word": "吉林白城医专",
       "onboard_time": 1713183258,
       "rank": 39,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 144135,
+      "num": 144135,
+      "word": "提灯定损涉事违建房屋已确定进行拆除",
+      "onboard_time": 1713186619,
+      "rank": 47,
       "category": "社会新闻"
     },
     {
@@ -299,12 +323,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 127905,
-      "num": 127905,
-      "word": "建议春夏少穿黄绿色衣服出门",
-      "onboard_time": 1713180977,
-      "rank": 33,
-      "category": "科学科普"
+      "raw_hot": 128178,
+      "num": 128178,
+      "word": "纪凌尘自曝瘦16斤",
+      "onboard_time": 1713223396,
+      "rank": 19,
+      "category": "综艺"
     },
     {
       "raw_hot": 125520,
@@ -313,14 +337,6 @@
       "onboard_time": 1713193219,
       "rank": 34,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 125389,
-      "num": 125389,
-      "word": "提灯定损涉事违建房屋已确定进行拆除",
-      "onboard_time": 1713186619,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 125365,
@@ -337,6 +353,14 @@
       "onboard_time": 1713192379,
       "rank": 36,
       "category": "音乐,时尚"
+    },
+    {
+      "raw_hot": 122104,
+      "num": 122104,
+      "word": "切尔西6比0埃弗顿",
+      "onboard_time": 1713223515,
+      "rank": 25,
+      "category": "体育"
     },
     {
       "raw_hot": 117294,
@@ -369,6 +393,14 @@
       "onboard_time": 1713192260,
       "rank": 40,
       "category": "演出"
+    },
+    {
+      "raw_hot": 114853,
+      "num": 114853,
+      "word": "宋茜周渝民新剧",
+      "onboard_time": 1713199875,
+      "rank": 35,
+      "category": "剧集"
     },
     {
       "raw_hot": 111076,
@@ -419,6 +451,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 97318,
+      "num": 97318,
+      "word": "柳岩称被男搭档开身材玩笑很难堪",
+      "onboard_time": 1713223155,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 96444,
       "num": 96444,
       "word": "杨幂冷艳玫瑰",
@@ -435,12 +475,12 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 92168,
-      "num": 92168,
-      "word": "宋茜周渝民新剧",
-      "onboard_time": 1713199875,
-      "rank": 35,
-      "category": "剧集"
+      "raw_hot": 88280,
+      "num": 88280,
+      "word": "胃癌的发生是一个长期的过程",
+      "onboard_time": 1713223577,
+      "rank": 29,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 88050,
@@ -459,20 +499,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 77443,
-      "num": 61485,
-      "word": "重庆大风暴雨",
-      "onboard_time": 1713222916,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 76084,
       "num": 76084,
       "word": "为什么医院禁止你送花给病人",
       "onboard_time": 1713174619,
       "rank": 48,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 74298,
+      "num": 74298,
+      "word": "兴安里归麦承欢了",
+      "onboard_time": 1713221174,
+      "rank": 31,
+      "category": "剧集"
     },
     {
       "raw_hot": 67866,
@@ -483,20 +523,20 @@
       "category": "情感"
     },
     {
+      "raw_hot": 67286,
+      "num": 67286,
+      "word": "警方调查14岁女生被学校教练性侵",
+      "onboard_time": 1713223696,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 65173,
       "num": 65173,
       "word": "周杰伦和伍佰之间只缺一个站姐",
       "onboard_time": 1713198975,
       "rank": 38,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 62417,
-      "num": 61248,
-      "word": "兴安里归麦承欢了",
-      "onboard_time": 1713221174,
-      "rank": 31,
-      "category": "剧集"
     },
     {
       "raw_hot": 62368,
@@ -531,6 +571,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 49913,
+      "num": 49913,
+      "word": "特斯拉市值一夜蒸发2200亿",
+      "onboard_time": 1713223937,
+      "rank": 49,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 35433,
       "num": 35433,
       "word": "2024国际乒联世界杯",
@@ -555,8 +603,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 18716,
-      "num": 319994,
+      "raw_hot": 21340,
+      "num": 486154,
       "word": "汇聚起维护国家安全的强大力量",
       "onboard_time": 1713187099,
       "rank": 2,
