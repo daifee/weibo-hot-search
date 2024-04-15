@@ -1,6 +1,6 @@
 {
   "startTime": 1713198119901,
-  "endTime": 1713198863590,
+  "endTime": 1713201276580,
   "band_list": [
     {
       "raw_hot": 1493101,
@@ -219,6 +219,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 148239,
+      "num": 132978,
+      "word": "吉林白城医专",
+      "onboard_time": 1713183258,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 138854,
       "num": 138854,
       "word": "咖啡为什么越卖越便宜",
@@ -233,14 +241,6 @@
       "onboard_time": 1713181337,
       "rank": 31,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 132978,
-      "num": 132978,
-      "word": "吉林白城医专",
-      "onboard_time": 1713183258,
-      "rank": 39,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 131266,
@@ -355,6 +355,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 96444,
+      "num": 96444,
+      "word": "杨幂冷艳玫瑰",
+      "onboard_time": 1713199335,
+      "rank": 16,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 94516,
       "num": 94516,
       "word": "涵艺爆料Tarzan加入WBG",
@@ -379,6 +387,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 84291,
+      "num": 84291,
+      "word": "熬夜变笨可能是身体在预警",
+      "onboard_time": 1713200354,
+      "rank": 27,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 78878,
       "num": 425358,
       "word": "86名群众被国家安全机关表彰奖励",
@@ -395,12 +411,28 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 68198,
+      "num": 68198,
+      "word": "宋茜周渝民新剧",
+      "onboard_time": 1713199875,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 67866,
       "num": 75916,
       "word": "农村才是疲惫生活的解药",
       "onboard_time": 1713187938,
       "rank": 49,
       "category": "情感"
+    },
+    {
+      "raw_hot": 65173,
+      "num": 65173,
+      "word": "周杰伦和伍佰之间只缺一个站姐",
+      "onboard_time": 1713198975,
+      "rank": 38,
+      "category": "作品衍生"
     }
   ],
   "hotgov_list": [
