@@ -1,6 +1,6 @@
 {
   "startTime": 1713025251708,
-  "endTime": 1713242057582,
+  "endTime": 1713244665430,
   "band_list": [
     {
       "raw_hot": 3410457,
@@ -163,6 +163,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 1562625,
+      "num": 1562625,
+      "word": "徐正溪退圈声明后现身片场",
+      "onboard_time": 1713243260,
+      "rank": 0,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 1384101,
       "num": 1384101,
       "word": "你们有5根手指 我只有4根诶",
@@ -275,6 +283,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1098155,
+      "num": 512844,
+      "word": "iPhone16价格",
+      "onboard_time": 1713241099,
+      "rank": 30,
+      "category": "数码"
+    },
+    {
       "raw_hot": 1095863,
       "num": 1095863,
       "word": "韩国爱豆整容堪比大变活人",
@@ -307,6 +323,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1046703,
+      "num": 1046703,
+      "word": "义乌人已经开始赚巴黎奥运会的钱了",
+      "onboard_time": 1713238759,
+      "rank": 3,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1042909,
       "num": 412871,
       "word": "第一批丁克夫妻现状曝光",
@@ -329,14 +353,6 @@
       "onboard_time": 1713158839,
       "rank": 36,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 1011938,
-      "num": 1011938,
-      "word": "义乌人已经开始赚巴黎奥运会的钱了",
-      "onboard_time": 1713238759,
-      "rank": 3,
-      "category": "体育"
     },
     {
       "raw_hot": 1007204,
@@ -417,6 +433,14 @@
       "onboard_time": 1713234738,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 957261,
+      "num": 957261,
+      "word": "看似很爽其实很伤身体的行为",
+      "onboard_time": 1713243019,
+      "rank": 3,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 956919,
@@ -1163,6 +1187,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 534104,
+      "num": 315764,
+      "word": "要了男生微信但他有女朋友",
+      "onboard_time": 1713242001,
+      "rank": 43,
+      "category": "情感"
+    },
+    {
       "raw_hot": 530269,
       "num": 530269,
       "word": "王祖蓝在香港被放假的广西人包围了",
@@ -1259,12 +1291,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 512844,
-      "num": 512844,
-      "word": "iPhone16价格",
-      "onboard_time": 1713241099,
-      "rank": 30,
-      "category": "数码"
+      "raw_hot": 512514,
+      "num": 512514,
+      "word": "豹豹猫猫",
+      "onboard_time": 1713240860,
+      "rank": 38,
+      "category": "幽默"
     },
     {
       "raw_hot": 512090,
@@ -1299,20 +1331,20 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 507776,
+      "num": 365344,
+      "word": "贾乃亮发了十遍4月21号",
+      "onboard_time": 1713239058,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 507188,
       "num": 507188,
       "word": "卡琳娜将出席间谍过家家首映礼",
       "onboard_time": 1713152118,
       "rank": 11,
       "category": "电影,动漫"
-    },
-    {
-      "raw_hot": 507111,
-      "num": 365344,
-      "word": "贾乃亮发了十遍4月21号",
-      "onboard_time": 1713239058,
-      "rank": 21,
-      "category": "综艺"
     },
     {
       "raw_hot": 503703,
@@ -1683,6 +1715,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 417248,
+      "num": 417248,
+      "word": "贾玲杀青影像给我看哭了",
+      "onboard_time": 1713240379,
+      "rank": 19,
+      "category": "电影"
+    },
+    {
       "raw_hot": 416047,
       "num": 407740,
       "word": "马龙给15岁对手上一课",
@@ -1747,14 +1787,6 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 403342,
-      "num": 403342,
-      "word": "贾玲杀青影像给我看哭了",
-      "onboard_time": 1713240379,
-      "rank": 19,
-      "category": "电影"
-    },
-    {
       "raw_hot": 403172,
       "num": 403172,
       "word": "钟美美回应带家人出国计划",
@@ -1785,6 +1817,14 @@
       "onboard_time": 1713016519,
       "rank": 12,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 398216,
+      "num": 398216,
+      "word": "刚出道了15天的爱豆",
+      "onboard_time": 1713242299,
+      "rank": 15,
+      "category": "演出"
     },
     {
       "raw_hot": 398077,
@@ -1849,6 +1889,14 @@
       "onboard_time": 1713050474,
       "rank": 12,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 385323,
+      "num": 385323,
+      "word": "开票即候补别太离谱",
+      "onboard_time": 1713239659,
+      "rank": 25,
+      "category": "情感"
     },
     {
       "raw_hot": 384877,
@@ -2163,6 +2211,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 333821,
+      "num": 333821,
+      "word": "陶昕然节目里哭到爆青筋",
+      "onboard_time": 1713244339,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 333049,
       "num": 333049,
       "word": "吴镇宇被袁咏仪强行闭麦",
@@ -2411,6 +2467,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 301267,
+      "num": 301267,
+      "word": "原来痛经是宫缩疼",
+      "onboard_time": 1713243560,
+      "rank": 24,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 300649,
       "num": 300649,
       "word": "眼泪女王 不会要be吧",
@@ -2505,14 +2569,6 @@
       "onboard_time": 1713219733,
       "rank": 30,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 292372,
-      "num": 292372,
-      "word": "开票即候补别太离谱",
-      "onboard_time": 1713239659,
-      "rank": 25,
-      "category": "情感"
     },
     {
       "raw_hot": 292170,
@@ -2675,6 +2731,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 278026,
+      "num": 278026,
+      "word": "原神烬中歌",
+      "onboard_time": 1713243560,
+      "rank": 25,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 277249,
       "num": 277249,
       "word": "突然觉得工作后真的好啊",
@@ -2769,14 +2833,6 @@
       "onboard_time": 1713086777,
       "rank": 21,
       "category": "电影"
-    },
-    {
-      "raw_hot": 266785,
-      "num": 266785,
-      "word": "豹豹猫猫",
-      "onboard_time": 1713240860,
-      "rank": 38,
-      "category": "幽默"
     },
     {
       "raw_hot": 266768,
@@ -3163,6 +3219,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 233611,
+      "num": 233611,
+      "word": "一夜承明婚后生活具象化",
+      "onboard_time": 1713244040,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 233520,
       "num": 227050,
       "word": "华为Pura怎么读",
@@ -3483,6 +3547,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 213509,
+      "num": 213509,
+      "word": "广告被屏蔽芒果TV起诉拦截公司",
+      "onboard_time": 1713243739,
+      "rank": 33,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 213481,
       "num": 203440,
       "word": "王嘉尔刘雨昕合照",
@@ -3787,6 +3859,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 199687,
+      "num": 199687,
+      "word": "毛不易的每一句歌词都是文案",
+      "onboard_time": 1713242120,
+      "rank": 34,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 199506,
       "num": 199506,
       "word": "曲阜师大一学院课堂禁止使用电子产品",
@@ -3873,14 +3953,6 @@
       "onboard_time": 1713173298,
       "rank": 31,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 197768,
-      "num": 197768,
-      "word": "要了男生微信但他有女朋友",
-      "onboard_time": 1713242001,
-      "rank": 43,
-      "category": "情感"
     },
     {
       "raw_hot": 197357,
@@ -4081,6 +4153,14 @@
       "onboard_time": 1713106578,
       "rank": 26,
       "category": "演出"
+    },
+    {
+      "raw_hot": 186536,
+      "num": 186536,
+      "word": "余承东回应华为Pura70何时开售",
+      "onboard_time": 1713244339,
+      "rank": 36,
+      "category": "数码"
     },
     {
       "raw_hot": 186501,
@@ -4491,6 +4571,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 169689,
+      "num": 169689,
+      "word": "庄达菲发文谈首张EP",
+      "onboard_time": 1713244100,
+      "rank": 41,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 169509,
       "num": 169509,
       "word": "妈妈可以过苦日子你不行",
@@ -4569,6 +4657,22 @@
       "onboard_time": 1713237979,
       "rank": 36,
       "category": "情感"
+    },
+    {
+      "raw_hot": 166209,
+      "num": 165955,
+      "word": "奶奶一开口我就在考场了",
+      "onboard_time": 1713241880,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 165964,
+      "num": 165964,
+      "word": "第九周最佳选手归期",
+      "onboard_time": 1713243380,
+      "rank": 42,
+      "category": "电竞"
     },
     {
       "raw_hot": 165605,
@@ -4681,14 +4785,6 @@
       "onboard_time": 1713232698,
       "rank": 32,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 162105,
-      "num": 162105,
-      "word": "奶奶一开口我就在考场了",
-      "onboard_time": 1713241880,
-      "rank": 47,
-      "category": "幽默"
     },
     {
       "raw_hot": 162099,
@@ -4817,6 +4913,14 @@
       "onboard_time": 1713230719,
       "rank": 36,
       "category": "体育"
+    },
+    {
+      "raw_hot": 158194,
+      "num": 158194,
+      "word": "欢乐钓鱼大师 维护",
+      "onboard_time": 1713244579,
+      "rank": 46,
+      "category": "游戏"
     },
     {
       "raw_hot": 157979,
@@ -5635,6 +5739,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 127661,
+      "num": 459265,
+      "word": "王楚钦澳门世界杯现场大图",
+      "onboard_time": 1713242359,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
       "raw_hot": 127495,
       "num": 127495,
       "word": "复试被刷觉得这辈子完蛋了",
@@ -6444,7 +6556,7 @@
     },
     {
       "raw_hot": 34390,
-      "num": 890420,
+      "num": 961838,
       "word": "数字丝路发展论坛",
       "onboard_time": 1713241458,
       "rank": 2,
@@ -6465,6 +6577,14 @@
       "onboard_time": 1713187099,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 32210,
+      "num": 275799,
+      "word": "新款蔚来ET7北京车展上市",
+      "onboard_time": 1713243860,
+      "rank": 26,
+      "category": "汽车"
     },
     {
       "raw_hot": 31978,
@@ -6690,6 +6810,9 @@
     },
     {
       "word": "#坚定不移贯彻总体国家安全观#"
+    },
+    {
+      "word": "#习近平会见德国总理朔尔茨#"
     }
   ]
 }
