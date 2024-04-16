@@ -1,6 +1,6 @@
 {
   "startTime": 1713025251708,
-  "endTime": 1713255722862,
+  "endTime": 1713256472405,
   "band_list": [
     {
       "raw_hot": 3410457,
@@ -851,6 +851,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 722734,
+      "num": 722734,
+      "word": "央广网评阿姨吐槽年轻人卧铺挂帘",
+      "onboard_time": 1713254419,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 719583,
       "num": 719583,
       "word": "38块钱居然能吃20个菜",
@@ -881,6 +889,14 @@
       "onboard_time": 1713005717,
       "rank": 1,
       "category": "网红"
+    },
+    {
+      "raw_hot": 712384,
+      "num": 712384,
+      "word": "秦昊杨幂海报",
+      "onboard_time": 1713253937,
+      "rank": 6,
+      "category": "剧集"
     },
     {
       "raw_hot": 709104,
@@ -1763,14 +1779,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 434205,
-      "num": 434205,
-      "word": "秦昊杨幂海报",
-      "onboard_time": 1713253937,
-      "rank": 6,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 432840,
       "num": 432840,
       "word": "华为P70三角形相机岛设计实锤",
@@ -2299,6 +2307,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 355293,
+      "num": 355293,
+      "word": "你坐飞机喜欢坐窗边还是过道",
+      "onboard_time": 1713252978,
+      "rank": 15,
+      "category": "情感"
+    },
+    {
       "raw_hot": 354701,
       "num": 354701,
       "word": "中方敦促美方立即停止网络攻击",
@@ -2337,14 +2353,6 @@
       "onboard_time": 1713052756,
       "rank": 17,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 347339,
-      "num": 347339,
-      "word": "央广网评阿姨吐槽年轻人卧铺挂帘",
-      "onboard_time": 1713254419,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 345970,
@@ -2401,14 +2409,6 @@
       "onboard_time": 1713232098,
       "rank": 18,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 327100,
-      "num": 327100,
-      "word": "你坐飞机喜欢坐窗边还是过道",
-      "onboard_time": 1713252978,
-      "rank": 15,
-      "category": "情感"
     },
     {
       "raw_hot": 326168,
@@ -2787,6 +2787,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 290506,
+      "num": 290506,
+      "word": "白玉兰",
+      "onboard_time": 1713255379,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 290466,
       "num": 290466,
       "word": "樊振东vs杜达",
@@ -2833,6 +2841,14 @@
       "onboard_time": 1713157819,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 287653,
+      "num": 236837,
+      "word": "进组的爸录综艺的妈",
+      "onboard_time": 1713255619,
+      "rank": 30,
+      "category": "剧集"
     },
     {
       "raw_hot": 287621,
@@ -3179,6 +3195,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 256680,
+      "num": 256680,
+      "word": "鹿晗这奖婉拒了哈",
+      "onboard_time": 1713255918,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 253622,
       "num": 253622,
       "word": "真心建议大家冲一冲AI领域",
@@ -3329,6 +3353,14 @@
       "onboard_time": 1713083778,
       "rank": 23,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 245710,
+      "num": 245710,
+      "word": "孔雪儿 女二被换",
+      "onboard_time": 1713256278,
+      "rank": 19,
+      "category": "剧集"
     },
     {
       "raw_hot": 244175,
@@ -3545,6 +3577,14 @@
       "onboard_time": 1713247338,
       "rank": 30,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 229583,
+      "num": 229583,
+      "word": "王一博中国顶尖舞者海报",
+      "onboard_time": 1713256159,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 229449,
@@ -3843,6 +3883,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 213272,
+      "num": 213272,
+      "word": "张真源户外突袭直播",
+      "onboard_time": 1713255498,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 212932,
       "num": 212932,
       "word": "麦承欢碎了",
@@ -3864,6 +3912,14 @@
       "word": "为了不给弟弟买车我自己买了辆车",
       "onboard_time": 1713228620,
       "rank": 27,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 212011,
+      "num": 212011,
+      "word": "镜子为什么不能正对床",
+      "onboard_time": 1713253457,
+      "rank": 29,
       "category": "情感"
     },
     {
@@ -3971,14 +4027,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 207183,
-      "num": 201862,
-      "word": "进组的爸录综艺的妈",
-      "onboard_time": 1713255619,
-      "rank": 30,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 207074,
       "num": 207074,
       "word": "原汁原味 千与千寻",
@@ -4009,14 +4057,6 @@
       "onboard_time": 1713085578,
       "rank": 27,
       "category": "电影"
-    },
-    {
-      "raw_hot": 206321,
-      "num": 206321,
-      "word": "白玉兰",
-      "onboard_time": 1713255379,
-      "rank": 27,
-      "category": "剧集"
     },
     {
       "raw_hot": 205725,
@@ -4073,14 +4113,6 @@
       "onboard_time": 1713253038,
       "rank": 28,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 203308,
-      "num": 203308,
-      "word": "镜子为什么不能正对床",
-      "onboard_time": 1713253457,
-      "rank": 29,
-      "category": "情感"
     },
     {
       "raw_hot": 202779,
@@ -4939,14 +4971,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 170335,
-      "num": 170335,
-      "word": "张真源户外突袭直播",
-      "onboard_time": 1713255498,
-      "rank": 35,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 169689,
       "num": 169689,
       "word": "庄达菲发文谈首张EP",
@@ -5187,6 +5211,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 161912,
+      "num": 161912,
+      "word": "李现把任敏拍的好美",
+      "onboard_time": 1713256159,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 161905,
       "num": 161905,
       "word": "王楚钦说打得太急躁",
@@ -5241,6 +5273,14 @@
       "onboard_time": 1713104060,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 160107,
+      "num": 160107,
+      "word": "吉林省教育厅回应女生带病出操死亡",
+      "onboard_time": 1713256278,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 160050,
@@ -5419,6 +5459,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 154899,
+      "num": 154899,
+      "word": "中医建议皮肤变好的方法",
+      "onboard_time": 1713256339,
+      "rank": 41,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 154693,
       "num": 154693,
       "word": "原来五一只放了一天假",
@@ -5464,6 +5512,14 @@
       "word": "犬夜叉 美貌的哥帅气的弟",
       "onboard_time": 1713184399,
       "rank": 37,
+      "category": "动漫"
+    },
+    {
+      "raw_hot": 154024,
+      "num": 154024,
+      "word": "帕恰狗初步排名第一",
+      "onboard_time": 1713256100,
+      "rank": 42,
       "category": "动漫"
     },
     {
@@ -6099,6 +6155,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 132160,
+      "num": 132160,
+      "word": "这头像领导点开就失去沟通欲",
+      "onboard_time": 1713255259,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 131853,
       "num": 131853,
       "word": "打工人的二八定律",
@@ -6304,6 +6368,14 @@
       "word": "云南泼水节装备门槛有点高啊",
       "onboard_time": 1713162677,
       "rank": 44,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 123205,
+      "num": 378912,
+      "word": "被淄博小学生的热情戳到了",
+      "onboard_time": 1713254659,
+      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -6755,14 +6827,6 @@
       "category": "情感,网红"
     },
     {
-      "raw_hot": 83301,
-      "num": 378912,
-      "word": "被淄博小学生的热情戳到了",
-      "onboard_time": 1713254659,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 77410,
       "num": 65403,
       "word": "曾黎黑色小吊带",
@@ -7011,6 +7075,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 43738,
+      "num": 886476,
+      "word": "国家安全是头等大事不能袖手旁观",
+      "onboard_time": 1713240978,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 43333,
       "num": 33495,
       "word": "金秀贤金智媛更新ins",
@@ -7201,14 +7273,6 @@
       "onboard_time": 1713067096,
       "rank": 38,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 21113,
-      "num": 886476,
-      "word": "国家安全是头等大事不能袖手旁观",
-      "onboard_time": 1713240978,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 20632,
