@@ -1,0 +1,410 @@
+{
+  "runTime": 1713280703117,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1220155,
+        "num": 1220155,
+        "word": "王妈",
+        "onboard_time": 1713276800,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 881490,
+        "num": 881490,
+        "word": "我娱乐圈唯一的人脉要失联了",
+        "onboard_time": 1713277458,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 142260,
+        "num": 880525,
+        "word": "国字号重器再添新成员",
+        "onboard_time": 1713276019,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 880407,
+        "num": 880407,
+        "word": "媒体发声能否叫停调休",
+        "onboard_time": 1713277220,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 876434,
+        "num": 876434,
+        "word": "12306 秒没",
+        "onboard_time": 1713251296,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 851100,
+        "num": 851100,
+        "word": "吴磊半裸骑行",
+        "onboard_time": 1713276139,
+        "rank": 5,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 820224,
+        "num": 820224,
+        "word": "复旦研究生珠峰地区登山死亡",
+        "onboard_time": 1713275419,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 759225,
+        "num": 759225,
+        "word": "歌手2024 张元英",
+        "onboard_time": 1713268578,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 612303,
+        "num": 612303,
+        "word": "张艺兴工作室改名",
+        "onboard_time": 1713276619,
+        "rank": 8,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 165472,
+        "num": 529182,
+        "word": "女生连做11个原地云里震惊全场",
+        "onboard_time": 1713261019,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 501983,
+        "num": 501983,
+        "word": "特斯拉卖一辆车净赚43300元",
+        "onboard_time": 1713274818,
+        "rank": 10,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 447908,
+        "num": 447908,
+        "word": "星船癫了",
+        "onboard_time": 1713279259,
+        "rank": 11,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 389805,
+        "num": 389805,
+        "word": "节目方回应甄嬛传录团综",
+        "onboard_time": 1713280159,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 377118,
+        "num": 377118,
+        "word": "IVE变身",
+        "onboard_time": 1713278720,
+        "rank": 13,
+        "category": "音乐,时尚"
+      },
+      {
+        "raw_hot": 360590,
+        "num": 360590,
+        "word": "弟弟从没提过他的朋友坐轮椅",
+        "onboard_time": 1713269358,
+        "rank": 14,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 324573,
+        "num": 324573,
+        "word": "单依纯",
+        "onboard_time": 1713272418,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 319291,
+        "num": 319291,
+        "word": "12306回应五一车票秒没",
+        "onboard_time": 1713274098,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 312744,
+        "num": 312744,
+        "word": "结婚后只是多了个给我打钱的人",
+        "onboard_time": 1713278599,
+        "rank": 17,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 309255,
+        "num": 309255,
+        "word": "微信状态真的很好用",
+        "onboard_time": 1713265278,
+        "rank": 18,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 304552,
+        "num": 304552,
+        "word": "承欢记热度",
+        "onboard_time": 1713277700,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1069383,
+        "num": 281827,
+        "word": "金秘书为何那样",
+        "onboard_time": 1713267978,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 324731,
+        "num": 268910,
+        "word": "体制内的人有朋友圈自由吗",
+        "onboard_time": 1713279979,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 319378,
+        "num": 261095,
+        "word": "何炅杨蓉终于要有感情线了吗",
+        "onboard_time": 1713269478,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 248495,
+        "num": 248495,
+        "word": "我真的卖了自己的工作",
+        "onboard_time": 1713279680,
+        "rank": 23,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 241308,
+        "num": 241308,
+        "word": "白猫因过于淡定被质疑耳聋",
+        "onboard_time": 1713277281,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 300264,
+        "num": 240702,
+        "word": "男主林瀚 女主晚晚",
+        "onboard_time": 1713279499,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 279884,
+        "num": 240431,
+        "word": "贾玲 是演员是编剧更是导演",
+        "onboard_time": 1713275239,
+        "rank": 26,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 239854,
+        "num": 239854,
+        "word": "许凯发了杨紫",
+        "onboard_time": 1713270680,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 236242,
+        "num": 236242,
+        "word": "26岁研究生珠峰地区登山死亡父亲发声",
+        "onboard_time": 1713278421,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 228950,
+        "num": 228950,
+        "word": "26岁换工作了不敢跟爸妈说",
+        "onboard_time": 1713279439,
+        "rank": 29,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 222497,
+        "num": 222497,
+        "word": "林更新吴奇隆刘诗诗合影旧照",
+        "onboard_time": 1713271458,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 221915,
+        "num": 221915,
+        "word": "中医建议皮肤变好的方法",
+        "onboard_time": 1713256339,
+        "rank": 31,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 211803,
+        "num": 211803,
+        "word": "歌手阵容",
+        "onboard_time": 1713270379,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 190345,
+        "num": 190345,
+        "word": "曾经很讨厌现在却喜欢的东西",
+        "onboard_time": 1713276560,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 188627,
+        "num": 188627,
+        "word": "国奥",
+        "onboard_time": 1713279740,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 188230,
+        "num": 188230,
+        "word": "为什么穷人家庭不和睦",
+        "onboard_time": 1713279920,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 187608,
+        "num": 187608,
+        "word": "让你一瞬间想分手的小事",
+        "onboard_time": 1713279680,
+        "rank": 36,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 178335,
+        "num": 178335,
+        "word": "SEVENTEEN回归",
+        "onboard_time": 1713280581,
+        "rank": 37,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 175228,
+        "num": 175228,
+        "word": "林更新刚出道就怼吴奇隆",
+        "onboard_time": 1713279201,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 173463,
+        "num": 173463,
+        "word": "沈月工作暂停先消失十天",
+        "onboard_time": 1713264558,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 165457,
+        "num": 165457,
+        "word": "00后咖啡消费趋势",
+        "onboard_time": 1713279621,
+        "rank": 40,
+        "category": "美食,财经"
+      },
+      {
+        "raw_hot": 163261,
+        "num": 163261,
+        "word": "刘亦菲 LV大秀",
+        "onboard_time": 1713275120,
+        "rank": 41,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 162616,
+        "num": 162616,
+        "word": "女子入住81层酒店吓到趴地",
+        "onboard_time": 1713264199,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 157510,
+        "num": 157510,
+        "word": "成为了女朋友的精神股东",
+        "onboard_time": 1713278060,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 147305,
+        "num": 147305,
+        "word": "年会见到张凌赫",
+        "onboard_time": 1713276981,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 143989,
+        "num": 143989,
+        "word": "为什么爸妈没有想过给女儿买房",
+        "onboard_time": 1713277700,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 143096,
+        "num": 143096,
+        "word": "薛之谦演唱会眼镜哥被质疑系策划",
+        "onboard_time": 1713274266,
+        "rank": 46,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 139789,
+        "num": 139789,
+        "word": "心疼Rebecca",
+        "onboard_time": 1713276680,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 136495,
+        "num": 136495,
+        "word": "蓝羽晒易烊千玺同台照",
+        "onboard_time": 1713274699,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 126690,
+        "num": 126690,
+        "word": "上海男篮北京男篮冲突",
+        "onboard_time": 1713276199,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#中德要坚持互利共赢彼此成就#"
+    }
+  }
+}

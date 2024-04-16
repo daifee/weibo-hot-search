@@ -1,6 +1,6 @@
 {
   "startTime": 1711902044401,
-  "endTime": 1713278079500,
+  "endTime": 1713280703117,
   "band_list": [
     {
       "raw_hot": 16874674,
@@ -2251,6 +2251,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1220155,
+      "num": 1220155,
+      "word": "王妈",
+      "onboard_time": 1713276800,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1219356,
       "num": 1219356,
       "word": "暴雪",
@@ -2913,6 +2921,14 @@
       "onboard_time": 1712106388,
       "rank": 11,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1069383,
+      "num": 816825,
+      "word": "金秘书为何那样",
+      "onboard_time": 1713267978,
+      "rank": 4,
+      "category": "剧集"
     },
     {
       "raw_hot": 1066354,
@@ -4211,6 +4227,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 881490,
+      "num": 881490,
+      "word": "我娱乐圈唯一的人脉要失联了",
+      "onboard_time": 1713277458,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 880407,
+      "num": 880407,
+      "word": "媒体发声能否叫停调休",
+      "onboard_time": 1713277220,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 876463,
       "num": 349976,
       "word": "床上有螨虫的3个表现",
@@ -4809,14 +4841,6 @@
       "onboard_time": 1712558658,
       "rank": 5,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 816825,
-      "num": 816825,
-      "word": "金秘书为何那样",
-      "onboard_time": 1713267978,
-      "rank": 4,
-      "category": "剧集"
     },
     {
       "raw_hot": 816660,
@@ -10123,6 +10147,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 501983,
+      "num": 501983,
+      "word": "特斯拉卖一辆车净赚43300元",
+      "onboard_time": 1713274818,
+      "rank": 19,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 501585,
       "num": 362456,
       "word": "吃自助一定不要吃太饱",
@@ -10371,14 +10403,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 490947,
-      "num": 490947,
-      "word": "王妈",
-      "onboard_time": 1713276800,
-      "rank": 31,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 488928,
       "num": 350236,
       "word": "婆婆请吊车将生产完的儿媳送上楼",
@@ -10401,14 +10425,6 @@
       "onboard_time": 1712328079,
       "rank": 10,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 487486,
-      "num": 487486,
-      "word": "特斯拉卖一辆车净赚43300元",
-      "onboard_time": 1713274818,
-      "rank": 19,
-      "category": "汽车"
     },
     {
       "raw_hot": 486858,
@@ -11683,6 +11699,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 447908,
+      "num": 447908,
+      "word": "星船癫了",
+      "onboard_time": 1713279259,
+      "rank": 11,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 447783,
       "num": 447783,
       "word": "锦超回应与李菲儿不和",
@@ -12931,14 +12955,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 411713,
-      "num": 411713,
-      "word": "媒体发声能否叫停调休",
-      "onboard_time": 1713277220,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 411677,
       "num": 411677,
       "word": "与凤行全员续写番外",
@@ -13595,6 +13611,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 389805,
+      "num": 389805,
+      "word": "节目方回应甄嬛传录团综",
+      "onboard_time": 1713280159,
+      "rank": 12,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 389429,
       "num": 389429,
       "word": "杨紫请国色芳华全组吃汉堡",
@@ -14105,6 +14129,14 @@
       "onboard_time": 1713180437,
       "rank": 29,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 377118,
+      "num": 377118,
+      "word": "IVE变身",
+      "onboard_time": 1713278720,
+      "rank": 13,
+      "category": "音乐,时尚"
     },
     {
       "raw_hot": 377028,
@@ -14977,14 +15009,6 @@
       "onboard_time": 1713169878,
       "rank": 46,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 354615,
-      "num": 354615,
-      "word": "我娱乐圈唯一的人脉要失联了",
-      "onboard_time": 1713277458,
-      "rank": 19,
-      "category": "综艺"
     },
     {
       "raw_hot": 354350,
@@ -16203,6 +16227,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 324731,
+      "num": 268910,
+      "word": "体制内的人有朋友圈自由吗",
+      "onboard_time": 1713279979,
+      "rank": 21,
+      "category": "情感"
+    },
+    {
       "raw_hot": 324689,
       "num": 324689,
       "word": "鹿晗狂泼邓超",
@@ -16473,6 +16505,14 @@
       "onboard_time": 1713054197,
       "rank": 21,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 319291,
+      "num": 319291,
+      "word": "12306回应五一车票秒没",
+      "onboard_time": 1713274098,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 319210,
@@ -16859,6 +16899,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 312744,
+      "num": 312744,
+      "word": "结婚后只是多了个给我打钱的人",
+      "onboard_time": 1713278599,
+      "rank": 17,
+      "category": "情感"
+    },
+    {
       "raw_hot": 312725,
       "num": 312725,
       "word": "毛不易 内娱贝爷",
@@ -17099,14 +17147,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 308259,
-      "num": 308259,
-      "word": "12306回应五一车票秒没",
-      "onboard_time": 1713274098,
-      "rank": 39,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 308121,
       "num": 308121,
       "word": "张馨予瘦10斤的拍照教程",
@@ -17331,6 +17371,14 @@
       "category": "美食,社会新闻"
     },
     {
+      "raw_hot": 304552,
+      "num": 304552,
+      "word": "承欢记热度",
+      "onboard_time": 1712670559,
+      "rank": 22,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 304483,
       "num": 315316,
       "word": "愚人节",
@@ -17536,6 +17584,14 @@
       "word": "胡一天演过夏至未至",
       "onboard_time": 1713226338,
       "rank": 17,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 300264,
+      "num": 240702,
+      "word": "男主林瀚 女主晚晚",
+      "onboard_time": 1713279499,
+      "rank": 25,
       "category": "剧集"
     },
     {
@@ -19249,14 +19305,6 @@
       "onboard_time": 1712038818,
       "rank": 22,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 271833,
-      "num": 271833,
-      "word": "承欢记热度",
-      "onboard_time": 1712670559,
-      "rank": 22,
-      "category": "剧集"
     },
     {
       "raw_hot": 271779,
@@ -21083,6 +21131,14 @@
       "category": "旅游,幽默"
     },
     {
+      "raw_hot": 248495,
+      "num": 248495,
+      "word": "我真的卖了自己的工作",
+      "onboard_time": 1713279680,
+      "rank": 23,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 248391,
       "num": 248391,
       "word": "十个勤天",
@@ -21707,6 +21763,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 241308,
+      "num": 241308,
+      "word": "白猫因过于淡定被质疑耳聋",
+      "onboard_time": 1713277281,
+      "rank": 31,
+      "category": "情感"
+    },
+    {
       "raw_hot": 241252,
       "num": 241252,
       "word": "双鱼座真正想要的并不是惊喜浪漫",
@@ -22137,6 +22201,14 @@
       "onboard_time": 1712391438,
       "rank": 27,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 236242,
+      "num": 236242,
+      "word": "26岁研究生珠峰地区登山死亡父亲发声",
+      "onboard_time": 1713278421,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 236220,
@@ -22819,6 +22891,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 228950,
+      "num": 228950,
+      "word": "26岁换工作了不敢跟爸妈说",
+      "onboard_time": 1713279439,
+      "rank": 29,
+      "category": "情感"
+    },
+    {
       "raw_hot": 228855,
       "num": 482835,
       "word": "花莲地震已致12人死亡1123人受伤",
@@ -23377,14 +23457,6 @@
       "onboard_time": 1712103992,
       "rank": 45,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 223545,
-      "num": 198428,
-      "word": "白猫因过于淡定被质疑耳聋",
-      "onboard_time": 1713277281,
-      "rank": 31,
-      "category": "情感"
     },
     {
       "raw_hot": 223469,
@@ -28659,6 +28731,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 190345,
+      "num": 190345,
+      "word": "曾经很讨厌现在却喜欢的东西",
+      "onboard_time": 1713276560,
+      "rank": 42,
+      "category": "情感"
+    },
+    {
       "raw_hot": 190332,
       "num": 190332,
       "word": "我的春日狂欢日记",
@@ -29003,6 +29083,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 188627,
+      "num": 188627,
+      "word": "国奥",
+      "onboard_time": 1713279740,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 188576,
       "num": 188576,
       "word": "Girlsday时期的李惠利",
@@ -29049,6 +29137,14 @@
       "onboard_time": 1713187638,
       "rank": 39,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 188230,
+      "num": 188230,
+      "word": "为什么穷人家庭不和睦",
+      "onboard_time": 1713279920,
+      "rank": 35,
+      "category": "情感"
     },
     {
       "raw_hot": 188203,
@@ -29153,6 +29249,14 @@
       "onboard_time": 1712995277,
       "rank": 31,
       "category": "演出"
+    },
+    {
+      "raw_hot": 187608,
+      "num": 187608,
+      "word": "让你一瞬间想分手的小事",
+      "onboard_time": 1713279680,
+      "rank": 36,
+      "category": "情感"
     },
     {
       "raw_hot": 187582,
@@ -30747,6 +30851,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 178335,
+      "num": 178335,
+      "word": "SEVENTEEN回归",
+      "onboard_time": 1713280581,
+      "rank": 37,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 178302,
       "num": 161093,
       "word": "聊天聊出来的感情不聊就断了",
@@ -30873,14 +30985,6 @@
       "onboard_time": 1712502801,
       "rank": 42,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 177301,
-      "num": 177301,
-      "word": "曾经很讨厌现在却喜欢的东西",
-      "onboard_time": 1713276560,
-      "rank": 42,
-      "category": "情感"
     },
     {
       "raw_hot": 177285,
@@ -31233,6 +31337,14 @@
       "onboard_time": 1713057678,
       "rank": 45,
       "category": "情感"
+    },
+    {
+      "raw_hot": 175228,
+      "num": 175228,
+      "word": "林更新刚出道就怼吴奇隆",
+      "onboard_time": 1713279201,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 175226,
@@ -32755,6 +32867,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 165457,
+      "num": 165457,
+      "word": "00后咖啡消费趋势",
+      "onboard_time": 1713279621,
+      "rank": 40,
+      "category": "美食,财经"
+    },
+    {
       "raw_hot": 165351,
       "num": 165351,
       "word": "星穹铁道砂金 星旅一瞬",
@@ -34169,6 +34289,14 @@
       "onboard_time": 1712240360,
       "rank": 42,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 157510,
+      "num": 157510,
+      "word": "成为了女朋友的精神股东",
+      "onboard_time": 1713278060,
+      "rank": 48,
+      "category": "情感"
     },
     {
       "raw_hot": 157457,
@@ -36817,14 +36945,6 @@
       "onboard_time": 1712134641,
       "rank": 48,
       "category": "体育"
-    },
-    {
-      "raw_hot": 143599,
-      "num": 143599,
-      "word": "成为了女朋友的精神股东",
-      "onboard_time": 1713278060,
-      "rank": 48,
-      "category": "情感"
     },
     {
       "raw_hot": 143436,
