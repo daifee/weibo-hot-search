@@ -1,6 +1,6 @@
 {
   "startTime": 1713025251708,
-  "endTime": 1713229977005,
+  "endTime": 1713231173499,
   "band_list": [
     {
       "raw_hot": 3410457,
@@ -201,6 +201,14 @@
       "onboard_time": 1713055518,
       "rank": 10,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 1297435,
+      "num": 1297435,
+      "word": "12306抢票",
+      "onboard_time": 1713229041,
+      "rank": 11,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1263301,
@@ -457,6 +465,14 @@
       "onboard_time": 1713094398,
       "rank": 4,
       "category": "美食"
+    },
+    {
+      "raw_hot": 856049,
+      "num": 856049,
+      "word": "专家建议增加下半年法定节假日",
+      "onboard_time": 1713229399,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 855448,
@@ -931,6 +947,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 580944,
+      "num": 580944,
+      "word": "歌手2024",
+      "onboard_time": 1713227058,
+      "rank": 14,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 574076,
       "num": 574076,
       "word": "联合国秘书长谴责伊朗",
@@ -1041,14 +1065,6 @@
       "onboard_time": 1713080418,
       "rank": 13,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 532510,
-      "num": 532510,
-      "word": "12306抢票",
-      "onboard_time": 1713229041,
-      "rank": 11,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 530269,
@@ -1249,6 +1265,14 @@
       "onboard_time": 1713166757,
       "rank": 8,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 475809,
+      "num": 475809,
+      "word": "因为同事办公室取消五一假期",
+      "onboard_time": 1713228920,
+      "rank": 30,
+      "category": "情感"
     },
     {
       "raw_hot": 473480,
@@ -1459,14 +1483,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 430701,
-      "num": 430701,
-      "word": "歌手2024",
-      "onboard_time": 1713227058,
-      "rank": 14,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 429458,
       "num": 283486,
       "word": "原来皮肤是最大的情绪器官",
@@ -1548,7 +1564,7 @@
     },
     {
       "raw_hot": 407143,
-      "num": 224504,
+      "num": 274748,
       "word": "十六岁才是读博的好年龄",
       "onboard_time": 1713228620,
       "rank": 20,
@@ -1691,6 +1707,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 384382,
+      "num": 384382,
+      "word": "外交部长王毅同伊朗外长通电话",
+      "onboard_time": 1713230539,
+      "rank": 16,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 382209,
       "num": 382209,
       "word": "于正说许凯的大运来了",
@@ -1828,7 +1852,7 @@
     },
     {
       "raw_hot": 364908,
-      "num": 223035,
+      "num": 277220,
       "word": "熬夜玩手机的人的特征",
       "onboard_time": 1713226819,
       "rank": 21,
@@ -2140,7 +2164,7 @@
     },
     {
       "raw_hot": 309627,
-      "num": 222554,
+      "num": 252999,
       "word": "爸爸去世前的搜索记录",
       "onboard_time": 1713228019,
       "rank": 22,
@@ -2185,14 +2209,6 @@
       "onboard_time": 1713056778,
       "rank": 23,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 306302,
-      "num": 194409,
-      "word": "因为同事办公室取消五一假期",
-      "onboard_time": 1713228920,
-      "rank": 30,
-      "category": "情感"
     },
     {
       "raw_hot": 302853,
@@ -2515,6 +2531,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 267762,
+      "num": 267762,
+      "word": "韩国人多冷都要喝冰美式",
+      "onboard_time": 1713229939,
+      "rank": 47,
+      "category": "美食"
+    },
+    {
       "raw_hot": 267680,
       "num": 264682,
       "word": "金像奖",
@@ -2689,6 +2713,14 @@
       "onboard_time": 1713183798,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 250425,
+      "num": 250425,
+      "word": "宋鑫",
+      "onboard_time": 1713229581,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 250142,
@@ -3211,6 +3243,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 210215,
+      "num": 210215,
+      "word": "泼水节警察叔叔和他没满月的小水枪",
+      "onboard_time": 1713230478,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 209854,
       "num": 209854,
       "word": "周也梦中情猫变装",
@@ -3547,6 +3587,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 194938,
+      "num": 194938,
+      "word": "中国职工总假期数不及全球多数国家",
+      "onboard_time": 1713228800,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 194570,
       "num": 194570,
       "word": "电视剧大生意人官宣",
@@ -3609,14 +3657,6 @@
       "onboard_time": 1713093619,
       "rank": 33,
       "category": "演出"
-    },
-    {
-      "raw_hot": 191226,
-      "num": 191226,
-      "word": "专家建议增加下半年法定节假日",
-      "onboard_time": 1713229399,
-      "rank": 31,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 190874,
@@ -3691,20 +3731,20 @@
       "category": "社会新闻,网红"
     },
     {
+      "raw_hot": 185080,
+      "num": 185080,
+      "word": "多方回应重庆地铁站石砖脱落砸中孕妇",
+      "onboard_time": 1713230300,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 184394,
       "num": 184394,
       "word": "许嵩演唱会保安比许嵩还嗨",
       "onboard_time": 1713062298,
       "rank": 35,
       "category": "演出"
-    },
-    {
-      "raw_hot": 184080,
-      "num": 184080,
-      "word": "中国职工总假期数不及全球多数国家",
-      "onboard_time": 1713228800,
-      "rank": 32,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 183729,
@@ -3995,6 +4035,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 170817,
+      "num": 170817,
+      "word": "吴恙晒与张予曦聊天记录",
+      "onboard_time": 1713229700,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 170801,
       "num": 170801,
       "word": "张杰高铁上读信",
@@ -4179,14 +4227,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 162799,
-      "num": 162799,
-      "word": "宋鑫",
-      "onboard_time": 1713229581,
-      "rank": 36,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 162790,
       "num": 162790,
       "word": "白鹿说上海话",
@@ -4307,6 +4347,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 158234,
+      "num": 158234,
+      "word": "詹杜库联手出战巴黎奥运会",
+      "onboard_time": 1713230719,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 157979,
       "num": 157979,
       "word": "钟楚曦高颅顶教学",
@@ -4377,14 +4425,6 @@
       "onboard_time": 1713068238,
       "rank": 47,
       "category": "读书作家"
-    },
-    {
-      "raw_hot": 155903,
-      "num": 155903,
-      "word": "吴恙晒与张予曦聊天记录",
-      "onboard_time": 1713229700,
-      "rank": 41,
-      "category": "综艺"
     },
     {
       "raw_hot": 155599,
@@ -4569,6 +4609,14 @@
       "onboard_time": 1713165618,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 148429,
+      "num": 148429,
+      "word": "张婧仪昭君出塞",
+      "onboard_time": 1713230180,
+      "rank": 37,
+      "category": "剧集"
     },
     {
       "raw_hot": 147863,
@@ -4889,14 +4937,6 @@
       "onboard_time": 1713191000,
       "rank": 47,
       "category": "体育"
-    },
-    {
-      "raw_hot": 135392,
-      "num": 135392,
-      "word": "韩国人多冷都要喝冰美式",
-      "onboard_time": 1713229939,
-      "rank": 47,
-      "category": "美食"
     },
     {
       "raw_hot": 135334,
@@ -5393,6 +5433,14 @@
       "onboard_time": 1713177137,
       "rank": 48,
       "category": "演出"
+    },
+    {
+      "raw_hot": 103511,
+      "num": 103511,
+      "word": "白城",
+      "onboard_time": 1713231078,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 103108,

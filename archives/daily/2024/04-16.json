@@ -1,6 +1,6 @@
 {
   "startTime": 1713198119901,
-  "endTime": 1713229977005,
+  "endTime": 1713231173499,
   "band_list": [
     {
       "raw_hot": 2147550,
@@ -27,6 +27,14 @@
       "category": "读书作家"
     },
     {
+      "raw_hot": 1297435,
+      "num": 1297435,
+      "word": "12306抢票",
+      "onboard_time": 1713229041,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1207479,
       "num": 1001279,
       "word": "男子当众扒光前女友衣服获刑5年",
@@ -41,6 +49,14 @@
       "onboard_time": 1713226218,
       "rank": 3,
       "category": "情感"
+    },
+    {
+      "raw_hot": 856049,
+      "num": 856049,
+      "word": "专家建议增加下半年法定节假日",
+      "onboard_time": 1713229399,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 853460,
@@ -83,19 +99,19 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 580944,
+      "num": 580944,
+      "word": "歌手2024",
+      "onboard_time": 1713227058,
+      "rank": 14,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 577104,
       "num": 414320,
       "word": "店员下错单被逼下跪向顾客道歉",
       "onboard_time": 1713190881,
       "rank": 4,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 532510,
-      "num": 532510,
-      "word": "12306抢票",
-      "onboard_time": 1713229041,
-      "rank": 11,
       "category": "社会新闻"
     },
     {
@@ -123,6 +139,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 475809,
+      "num": 475809,
+      "word": "因为同事办公室取消五一假期",
+      "onboard_time": 1713228920,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 469562,
       "num": 469562,
       "word": "胆固醇之王原来是它",
@@ -132,7 +156,7 @@
     },
     {
       "raw_hot": 455072,
-      "num": 221404,
+      "num": 221684,
       "word": "数学140分以上就能被知名大学锁定吗",
       "onboard_time": 1713193281,
       "rank": 22,
@@ -163,14 +187,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 430701,
-      "num": 430701,
-      "word": "歌手2024",
-      "onboard_time": 1713227058,
-      "rank": 14,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 422811,
       "num": 422811,
       "word": "iPhone16Pro系列或有30项优化",
@@ -188,7 +204,7 @@
     },
     {
       "raw_hot": 407143,
-      "num": 224504,
+      "num": 274748,
       "word": "十六岁才是读博的好年龄",
       "onboard_time": 1713228620,
       "rank": 20,
@@ -211,6 +227,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 384382,
+      "num": 384382,
+      "word": "外交部长王毅同伊朗外长通电话",
+      "onboard_time": 1713230539,
+      "rank": 16,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 384249,
       "num": 277308,
       "word": "71岁保洁被开除后在物业办公室自杀",
@@ -220,7 +244,7 @@
     },
     {
       "raw_hot": 364908,
-      "num": 223035,
+      "num": 277220,
       "word": "熬夜玩手机的人的特征",
       "onboard_time": 1713226819,
       "rank": 21,
@@ -252,18 +276,10 @@
     },
     {
       "raw_hot": 309627,
-      "num": 222554,
+      "num": 252999,
       "word": "爸爸去世前的搜索记录",
       "onboard_time": 1713228019,
       "rank": 22,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 306302,
-      "num": 194409,
-      "word": "因为同事办公室取消五一假期",
-      "onboard_time": 1713228920,
-      "rank": 30,
       "category": "情感"
     },
     {
@@ -331,12 +347,28 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 267762,
+      "num": 267762,
+      "word": "韩国人多冷都要喝冰美式",
+      "onboard_time": 1713229939,
+      "rank": 47,
+      "category": "美食"
+    },
+    {
       "raw_hot": 257825,
       "num": 257825,
       "word": "陈晓光头颜值",
       "onboard_time": 1713209291,
       "rank": 44,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 250425,
+      "num": 250425,
+      "word": "宋鑫",
+      "onboard_time": 1713229581,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 244070,
@@ -371,6 +403,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 210215,
+      "num": 210215,
+      "word": "泼水节警察叔叔和他没满月的小水枪",
+      "onboard_time": 1713230478,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 207766,
       "num": 207766,
       "word": "严浩翔 我们强得可怕",
@@ -403,11 +443,11 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 191226,
-      "num": 191226,
-      "word": "专家建议增加下半年法定节假日",
-      "onboard_time": 1713229399,
-      "rank": 31,
+      "raw_hot": 194938,
+      "num": 194938,
+      "word": "中国职工总假期数不及全球多数国家",
+      "onboard_time": 1713228800,
+      "rank": 32,
       "category": "社会新闻"
     },
     {
@@ -419,20 +459,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 185080,
+      "num": 185080,
+      "word": "多方回应重庆地铁站石砖脱落砸中孕妇",
+      "onboard_time": 1713230300,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 184284,
       "num": 184284,
       "word": "IVE造型 幽默",
       "onboard_time": 1713191240,
       "rank": 18,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 184080,
-      "num": 184080,
-      "word": "中国职工总假期数不及全球多数国家",
-      "onboard_time": 1713228800,
-      "rank": 32,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 181157,
@@ -475,6 +515,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 170817,
+      "num": 170817,
+      "word": "吴恙晒与张予曦聊天记录",
+      "onboard_time": 1713229700,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 168953,
       "num": 168953,
       "word": "张真源吃播",
@@ -491,19 +539,19 @@
       "category": "体育"
     },
     {
-      "raw_hot": 162799,
-      "num": 162799,
-      "word": "宋鑫",
-      "onboard_time": 1713229581,
-      "rank": 36,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 161905,
       "num": 161905,
       "word": "王楚钦说打得太急躁",
       "onboard_time": 1713196278,
       "rank": 28,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 158234,
+      "num": 158234,
+      "word": "詹杜库联手出战巴黎奥运会",
+      "onboard_time": 1713230719,
+      "rank": 36,
       "category": "体育"
     },
     {
@@ -523,12 +571,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 155903,
-      "num": 155903,
-      "word": "吴恙晒与张予曦聊天记录",
-      "onboard_time": 1713229700,
-      "rank": 41,
-      "category": "综艺"
+      "raw_hot": 148429,
+      "num": 148429,
+      "word": "张婧仪昭君出塞",
+      "onboard_time": 1713230180,
+      "rank": 37,
+      "category": "剧集"
     },
     {
       "raw_hot": 148239,
@@ -585,14 +633,6 @@
       "onboard_time": 1713181337,
       "rank": 31,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 135392,
-      "num": 135392,
-      "word": "韩国人多冷都要喝冰美式",
-      "onboard_time": 1713229939,
-      "rank": 47,
-      "category": "美食"
     },
     {
       "raw_hot": 131266,
@@ -721,6 +761,14 @@
       "onboard_time": 1713189859,
       "rank": 43,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 103511,
+      "num": 103511,
+      "word": "白城",
+      "onboard_time": 1713231078,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 97839,
