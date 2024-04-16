@@ -1,6 +1,6 @@
 {
   "startTime": 1713025251708,
-  "endTime": 1713237619660,
+  "endTime": 1713238483355,
   "band_list": [
     {
       "raw_hot": 3410457,
@@ -475,20 +475,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 889004,
+      "num": 889004,
+      "word": "网友上海偶遇老默冯兵低调干跑腿",
+      "onboard_time": 1713234738,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 883852,
+      "num": 883852,
+      "word": "朱一龙赵丽颖合影旧照",
+      "onboard_time": 1713236598,
+      "rank": 6,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 865071,
       "num": 865071,
       "word": "把肯德基1995年价格表挖出来了",
       "onboard_time": 1713094398,
       "rank": 4,
       "category": "美食"
-    },
-    {
-      "raw_hot": 860244,
-      "num": 860244,
-      "word": "网友上海偶遇老默冯兵低调干跑腿",
-      "onboard_time": 1713234738,
-      "rank": 25,
-      "category": "艺人"
     },
     {
       "raw_hot": 855448,
@@ -857,14 +865,6 @@
       "onboard_time": 1713234318,
       "rank": 21,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 631925,
-      "num": 631925,
-      "word": "朱一龙赵丽颖合影旧照",
-      "onboard_time": 1713236598,
-      "rank": 6,
-      "category": "艺人"
     },
     {
       "raw_hot": 626517,
@@ -1321,6 +1321,14 @@
       "onboard_time": 1713163997,
       "rank": 9,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 483513,
+      "num": 214191,
+      "word": "我爸直接把我考研成绩发到家族群",
+      "onboard_time": 1713238278,
+      "rank": 30,
+      "category": "情感"
     },
     {
       "raw_hot": 480560,
@@ -1923,6 +1931,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 364234,
+      "num": 364234,
+      "word": "恋爱脑室友 真正的站姐",
+      "onboard_time": 1713235637,
+      "rank": 23,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 363976,
       "num": 363976,
       "word": "大侦探",
@@ -2233,6 +2249,14 @@
       "onboard_time": 1713069018,
       "rank": 31,
       "category": "美食"
+    },
+    {
+      "raw_hot": 310669,
+      "num": 310669,
+      "word": "开始推理吧",
+      "onboard_time": 1713237798,
+      "rank": 19,
+      "category": "综艺"
     },
     {
       "raw_hot": 309627,
@@ -2683,6 +2707,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 263028,
+      "num": 263028,
+      "word": "突然觉得工作后真的好啊",
+      "onboard_time": 1713236297,
+      "rank": 26,
+      "category": "情感"
+    },
+    {
       "raw_hot": 262657,
       "num": 262657,
       "word": "陕西省考成绩",
@@ -2859,6 +2891,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 246555,
+      "num": 246555,
+      "word": "柯南官配发糖",
+      "onboard_time": 1713237498,
+      "rank": 48,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 246175,
       "num": 246175,
       "word": "陈梦世界杯开门红",
@@ -2905,14 +2945,6 @@
       "onboard_time": 1713064279,
       "rank": 36,
       "category": "美食"
-    },
-    {
-      "raw_hot": 241409,
-      "num": 241409,
-      "word": "恋爱脑室友 真正的站姐",
-      "onboard_time": 1713235637,
-      "rank": 23,
-      "category": "幽默"
     },
     {
       "raw_hot": 240050,
@@ -3051,6 +3083,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 231225,
+      "num": 231225,
+      "word": "极限挑战10阵容",
+      "onboard_time": 1713237378,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 230711,
       "num": 230711,
       "word": "澳洲亿万富豪之女在悉尼袭击案中遇害",
@@ -3073,14 +3113,6 @@
       "onboard_time": 1713103759,
       "rank": 35,
       "category": "电影"
-    },
-    {
-      "raw_hot": 228468,
-      "num": 228468,
-      "word": "突然觉得工作后真的好啊",
-      "onboard_time": 1713236297,
-      "rank": 26,
-      "category": "情感"
     },
     {
       "raw_hot": 227834,
@@ -3113,6 +3145,14 @@
       "onboard_time": 1713018441,
       "rank": 23,
       "category": "情感"
+    },
+    {
+      "raw_hot": 225719,
+      "num": 225719,
+      "word": "考公考编和考研怎么选",
+      "onboard_time": 1713236118,
+      "rank": 27,
+      "category": "教育"
     },
     {
       "raw_hot": 225389,
@@ -3219,14 +3259,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 218507,
-      "num": 218507,
-      "word": "考公考编和考研怎么选",
-      "onboard_time": 1713236118,
-      "rank": 27,
-      "category": "教育"
-    },
-    {
       "raw_hot": 217928,
       "num": 301256,
       "word": "长城智驾直播挑战闹市区",
@@ -3249,6 +3281,14 @@
       "onboard_time": 1713065538,
       "rank": 32,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 216171,
+      "num": 216171,
+      "word": "18岁前把视力控制在600度以内",
+      "onboard_time": 1713237317,
+      "rank": 34,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 215133,
@@ -3387,6 +3427,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 208758,
+      "num": 208758,
+      "word": "股市",
+      "onboard_time": 1713238037,
+      "rank": 31,
+      "category": "财经"
+    },
+    {
       "raw_hot": 208354,
       "num": 208354,
       "word": "门童in了",
@@ -3459,6 +3507,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 205251,
+      "num": 205251,
+      "word": "鹿晗新专辑相框定价",
+      "onboard_time": 1713238278,
+      "rank": 32,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 204903,
       "num": 204903,
       "word": "伊朗称美若干预伊以纷争将打击美军",
@@ -3529,14 +3585,6 @@
       "onboard_time": 1713139638,
       "rank": 38,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 201649,
-      "num": 201649,
-      "word": "极限挑战10阵容",
-      "onboard_time": 1713237378,
-      "rank": 29,
-      "category": "综艺"
     },
     {
       "raw_hot": 201387,
@@ -4155,6 +4203,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 172451,
+      "num": 172451,
+      "word": "终于理解内蒙为啥不包邮了",
+      "onboard_time": 1713238217,
+      "rank": 35,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 171587,
       "num": 209353,
       "word": "马宁",
@@ -4291,6 +4347,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 166284,
+      "num": 166284,
+      "word": "公司劝退员工的5个常见手段",
+      "onboard_time": 1713237979,
+      "rank": 36,
+      "category": "情感"
+    },
+    {
       "raw_hot": 165605,
       "num": 165605,
       "word": "湖人战胜鹈鹕",
@@ -4369,14 +4433,6 @@
       "onboard_time": 1713059239,
       "rank": 48,
       "category": "运动健身"
-    },
-    {
-      "raw_hot": 163851,
-      "num": 163851,
-      "word": "18岁前把视力控制在600度以内",
-      "onboard_time": 1713237317,
-      "rank": 34,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 163706,
@@ -4987,6 +5043,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 143003,
+      "num": 143003,
+      "word": "于正官宣五福临门全剧杀青",
+      "onboard_time": 1713238398,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 142984,
       "num": 142984,
       "word": "惜花芷",
@@ -5259,6 +5323,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 131595,
+      "num": 131595,
+      "word": "景德镇的路灯竟然是陶瓷的",
+      "onboard_time": 1713238159,
+      "rank": 43,
+      "category": "情感"
+    },
+    {
       "raw_hot": 131425,
       "num": 131425,
       "word": "最好的死亡教育",
@@ -5313,6 +5385,14 @@
       "onboard_time": 1713078617,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 129223,
+      "num": 129223,
+      "word": "中医建议每天坚持晨跑",
+      "onboard_time": 1713238398,
+      "rank": 45,
+      "category": "运动健身"
     },
     {
       "raw_hot": 128960,
@@ -5467,6 +5547,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 121829,
+      "num": 121829,
+      "word": "黑神话PS5版炒至500元",
+      "onboard_time": 1713238458,
+      "rank": 48,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 121309,
       "num": 121309,
       "word": "湖人锁定西部第八",
@@ -5601,14 +5689,6 @@
       "onboard_time": 1713174619,
       "rank": 44,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 113596,
-      "num": 113596,
-      "word": "柯南官配发糖",
-      "onboard_time": 1713237498,
-      "rank": 48,
-      "category": "动漫"
     },
     {
       "raw_hot": 113507,
@@ -5988,7 +6068,7 @@
     },
     {
       "raw_hot": 65133,
-      "num": 244105,
+      "num": 276852,
       "word": "更牛的城市NOA来了",
       "onboard_time": 1713236057,
       "rank": 20,
