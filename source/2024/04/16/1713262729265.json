@@ -1,0 +1,410 @@
+{
+  "runTime": 1713262729265,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1426091,
+        "num": 1426091,
+        "word": "12306 秒没",
+        "onboard_time": 1713251296,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 970581,
+        "num": 970581,
+        "word": "买到盗版书发现字是手写的",
+        "onboard_time": 1713260179,
+        "rank": 1,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 37341,
+        "num": 741415,
+        "word": "云逛广交会",
+        "onboard_time": 1713258019,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 622540,
+        "num": 622540,
+        "word": "中医建议皮肤变好的方法",
+        "onboard_time": 1713256339,
+        "rank": 3,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 611426,
+        "num": 611426,
+        "word": "赵薇名下所持股权再遭冻结",
+        "onboard_time": 1713256998,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 496658,
+        "num": 496658,
+        "word": "央广网评阿姨吐槽年轻人卧铺挂帘",
+        "onboard_time": 1713254419,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 441417,
+        "num": 441417,
+        "word": "李显龙卸任后将出任新加坡国务资政",
+        "onboard_time": 1713260838,
+        "rank": 6,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 345454,
+        "num": 345454,
+        "word": "油价",
+        "onboard_time": 1713260420,
+        "rank": 7,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 116648,
+        "num": 345148,
+        "word": "被淄博小学生的热情戳到了",
+        "onboard_time": 1713254659,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 244191,
+        "num": 344807,
+        "word": "女生连做11个原地云里震惊全场",
+        "onboard_time": 1713261019,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1321098,
+        "num": 343877,
+        "word": "出操死亡女生家属称已与校方和解",
+        "onboard_time": 1713256878,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 790085,
+        "num": 343407,
+        "word": "杨蓉连续十年给朱一龙庆生",
+        "onboard_time": 1713257838,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 410126,
+        "num": 342929,
+        "word": "金采源发竖中指视频秒删",
+        "onboard_time": 1713261079,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 342717,
+        "num": 342717,
+        "word": "林更新吴奇隆综艺重聚",
+        "onboard_time": 1713262157,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 313080,
+        "num": 313080,
+        "word": "花近30万开甘肃麻辣烫18天关门",
+        "onboard_time": 1713247878,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 302241,
+        "num": 302241,
+        "word": "iPhone16价格",
+        "onboard_time": 1713241099,
+        "rank": 15,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 268840,
+        "num": 268840,
+        "word": "鹿晗这奖婉拒了哈",
+        "onboard_time": 1713255918,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 256212,
+        "num": 256212,
+        "word": "仝卓工作室皮下称帮仝卓还款14万元",
+        "onboard_time": 1713257359,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 240295,
+        "num": 240295,
+        "word": "幼态审美入侵纸片人",
+        "onboard_time": 1713252197,
+        "rank": 18,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 214560,
+        "num": 214560,
+        "word": "于正说片方没定过孔雪儿",
+        "onboard_time": 1713258920,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1030100,
+        "num": 212998,
+        "word": "霍建华老了",
+        "onboard_time": 1713252079,
+        "rank": 20,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 287924,
+        "num": 211220,
+        "word": "工资4千和6千真的能存到钱吗",
+        "onboard_time": 1713247219,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 281779,
+        "num": 209351,
+        "word": "公务员和研究生都考上了怎么选择",
+        "onboard_time": 1713262218,
+        "rank": 22,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 272024,
+        "num": 205372,
+        "word": "徐正溪退圈声明后现身片场",
+        "onboard_time": 1713243260,
+        "rank": 23,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 230175,
+        "num": 203664,
+        "word": "长期喝咖啡身体会变成什么样",
+        "onboard_time": 1713250758,
+        "rank": 24,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 202233,
+        "num": 202233,
+        "word": "林俊杰 爱情修不明白",
+        "onboard_time": 1713262277,
+        "rank": 25,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 202217,
+        "num": 202217,
+        "word": "以色列",
+        "onboard_time": 1713256037,
+        "rank": 26,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 195782,
+        "num": 195782,
+        "word": "巴黎奥运会火种点燃",
+        "onboard_time": 1713261558,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 187856,
+        "num": 187856,
+        "word": "张真源以为裤子拉链没拉",
+        "onboard_time": 1713262339,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 187553,
+        "num": 187553,
+        "word": "原来五千块钱真的很难存",
+        "onboard_time": 1713248658,
+        "rank": 29,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 178098,
+        "num": 178098,
+        "word": "看似很爽其实很伤身体的行为",
+        "onboard_time": 1713243019,
+        "rank": 30,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 173993,
+        "num": 173993,
+        "word": "美驻华使馆和微软未回应中方调查报告",
+        "onboard_time": 1713259939,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 169535,
+        "num": 169535,
+        "word": "生日朋友圈忘了放闺蜜咋办",
+        "onboard_time": 1713257479,
+        "rank": 32,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 168160,
+        "num": 168160,
+        "word": "定风波 张楠",
+        "onboard_time": 1713262398,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 166890,
+        "num": 166890,
+        "word": "全新始祖鸟内置鞋垫是阿迪达斯",
+        "onboard_time": 1713261499,
+        "rank": 34,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 166720,
+        "num": 166720,
+        "word": "李兰迪张元英撞衫",
+        "onboard_time": 1713256819,
+        "rank": 35,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 158147,
+        "num": 158147,
+        "word": "秦昊杨幂海报",
+        "onboard_time": 1713253937,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 153434,
+        "num": 153434,
+        "word": "上了大三感觉人人都是章鱼哥",
+        "onboard_time": 1713259339,
+        "rank": 37,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 152281,
+        "num": 152281,
+        "word": "吉林省教育厅回应女生带病出操死亡",
+        "onboard_time": 1713256278,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 150757,
+        "num": 150757,
+        "word": "国内油价今晚上涨",
+        "onboard_time": 1713259699,
+        "rank": 39,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 148252,
+        "num": 148252,
+        "word": "X光下狗吃东西时肚子里",
+        "onboard_time": 1713261079,
+        "rank": 40,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 146912,
+        "num": 146912,
+        "word": "杨蓉多巴胺穿搭",
+        "onboard_time": 1713260779,
+        "rank": 41,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 146340,
+        "num": 146340,
+        "word": "存的钱被告知过期了",
+        "onboard_time": 1713257479,
+        "rank": 42,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 131333,
+        "num": 131333,
+        "word": "歌手",
+        "onboard_time": 1713256638,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 126179,
+        "num": 126179,
+        "word": "近期4位不满14周岁未成年被判刑",
+        "onboard_time": 1713246378,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 124028,
+        "num": 124028,
+        "word": "狼队第五人格",
+        "onboard_time": 1713261197,
+        "rank": 45,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 123761,
+        "num": 123761,
+        "word": "中毒都不知道是哪个人下的",
+        "onboard_time": 1713261499,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 123721,
+        "num": 123721,
+        "word": "郑合惠子刘星分饼式碎嘴",
+        "onboard_time": 1713260538,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 121885,
+        "num": 121885,
+        "word": "普通话考试究竟有多尴尬",
+        "onboard_time": 1713262039,
+        "rank": 48,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 112578,
+        "num": 112578,
+        "word": "鹿晗王勉梦到五哈不录了",
+        "onboard_time": 1713250340,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平会见德国总理朔尔茨#"
+    }
+  }
+}

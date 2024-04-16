@@ -1,6 +1,6 @@
 {
   "startTime": 1713198119901,
-  "endTime": 1713260081010,
+  "endTime": 1713262729265,
   "band_list": [
     {
       "raw_hot": 3144358,
@@ -139,6 +139,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 970581,
+      "num": 970581,
+      "word": "买到盗版书发现字是手写的",
+      "onboard_time": 1713260179,
+      "rank": 1,
+      "category": "读书作家"
+    },
+    {
       "raw_hot": 958358,
       "num": 958358,
       "word": "网友上海偶遇老默冯兵低调干跑腿",
@@ -217,6 +225,14 @@
       "onboard_time": 1713252197,
       "rank": 18,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 790085,
+      "num": 350628,
+      "word": "杨蓉连续十年给朱一龙庆生",
+      "onboard_time": 1713257838,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 787279,
@@ -313,14 +329,6 @@
       "onboard_time": 1713229939,
       "rank": 47,
       "category": "美食"
-    },
-    {
-      "raw_hot": 616091,
-      "num": 350628,
-      "word": "杨蓉连续十年给朱一龙庆生",
-      "onboard_time": 1713257838,
-      "rank": 16,
-      "category": "艺人"
     },
     {
       "raw_hot": 601903,
@@ -539,6 +547,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 441417,
+      "num": 441417,
+      "word": "李显龙卸任后将出任新加坡国务资政",
+      "onboard_time": 1713260838,
+      "rank": 6,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 439861,
       "num": 439861,
       "word": "权恩妃购买24亿韩元住宅",
@@ -593,6 +609,14 @@
       "onboard_time": 1713252619,
       "rank": 27,
       "category": "财经"
+    },
+    {
+      "raw_hot": 410126,
+      "num": 342929,
+      "word": "金采源发竖中指视频秒删",
+      "onboard_time": 1713261079,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 407143,
@@ -721,6 +745,22 @@
       "onboard_time": 1713256037,
       "rank": 19,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 345454,
+      "num": 345454,
+      "word": "油价",
+      "onboard_time": 1713260420,
+      "rank": 7,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 342717,
+      "num": 342717,
+      "word": "林更新吴奇隆综艺重聚",
+      "onboard_time": 1713262157,
+      "rank": 13,
+      "category": "综艺"
     },
     {
       "raw_hot": 331136,
@@ -867,6 +907,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 281779,
+      "num": 209351,
+      "word": "公务员和研究生都考上了怎么选择",
+      "onboard_time": 1713262218,
+      "rank": 22,
+      "category": "教育"
+    },
+    {
       "raw_hot": 279054,
       "num": 279054,
       "word": "哈马斯领导人多个家人被炸死",
@@ -1009,6 +1057,14 @@
       "onboard_time": 1713244040,
       "rank": 31,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 244191,
+      "num": 344807,
+      "word": "女生连做11个原地云里震惊全场",
+      "onboard_time": 1713261019,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 244175,
@@ -1291,6 +1347,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 202233,
+      "num": 202233,
+      "word": "林俊杰 爱情修不明白",
+      "onboard_time": 1713262277,
+      "rank": 25,
+      "category": "演出"
+    },
+    {
       "raw_hot": 200161,
       "num": 200161,
       "word": "毛不易的每一句歌词都是文案",
@@ -1329,6 +1393,14 @@
       "onboard_time": 1713190160,
       "rank": 16,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 195782,
+      "num": 195782,
+      "word": "巴黎奥运会火种点燃",
+      "onboard_time": 1713261558,
+      "rank": 27,
+      "category": "体育"
     },
     {
       "raw_hot": 195678,
@@ -1401,6 +1473,14 @@
       "onboard_time": 1713240198,
       "rank": 41,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 187856,
+      "num": 187856,
+      "word": "张真源以为裤子拉链没拉",
+      "onboard_time": 1713262339,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 185930,
@@ -1523,6 +1603,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 173993,
+      "num": 173993,
+      "word": "美驻华使馆和微软未回应中方调查报告",
+      "onboard_time": 1713259939,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 172451,
       "num": 172451,
       "word": "终于理解内蒙为啥不包邮了",
@@ -1571,6 +1659,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 168160,
+      "num": 168160,
+      "word": "定风波 张楠",
+      "onboard_time": 1713262398,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 167461,
       "num": 167461,
       "word": "奶奶一开口我就在考场了",
@@ -1585,6 +1681,14 @@
       "onboard_time": 1713231078,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 166890,
+      "num": 166890,
+      "word": "全新始祖鸟内置鞋垫是阿迪达斯",
+      "onboard_time": 1713261499,
+      "rank": 34,
+      "category": "运动健身"
     },
     {
       "raw_hot": 166284,
@@ -1747,6 +1851,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 150757,
+      "num": 150757,
+      "word": "国内油价今晚上涨",
+      "onboard_time": 1713259699,
+      "rank": 36,
+      "category": "财经"
+    },
+    {
       "raw_hot": 150712,
       "num": 150712,
       "word": "何广智变周杰伦",
@@ -1779,6 +1891,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 148252,
+      "num": 148252,
+      "word": "X光下狗吃东西时肚子里",
+      "onboard_time": 1713261079,
+      "rank": 40,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 148239,
       "num": 132978,
       "word": "吉林白城医专",
@@ -1795,12 +1915,12 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 147586,
-      "num": 147586,
-      "word": "国内油价今晚上涨",
-      "onboard_time": 1713259699,
-      "rank": 36,
-      "category": "财经"
+      "raw_hot": 146912,
+      "num": 146912,
+      "word": "杨蓉多巴胺穿搭",
+      "onboard_time": 1713260779,
+      "rank": 41,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 146282,
@@ -1971,14 +2091,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 127290,
-      "num": 127290,
-      "word": "美驻华使馆和微软未回应中方调查报告",
-      "onboard_time": 1713259939,
-      "rank": 43,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 125520,
       "num": 125520,
       "word": "王嘉尔刘雨昕合照",
@@ -2011,6 +2123,30 @@
       "category": "体育"
     },
     {
+      "raw_hot": 124028,
+      "num": 124028,
+      "word": "狼队第五人格",
+      "onboard_time": 1713261197,
+      "rank": 45,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 123761,
+      "num": 123761,
+      "word": "中毒都不知道是哪个人下的",
+      "onboard_time": 1713261499,
+      "rank": 46,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 123721,
+      "num": 123721,
+      "word": "郑合惠子刘星分饼式碎嘴",
+      "onboard_time": 1713260538,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 123683,
       "num": 123683,
       "word": "IVE 巴啦啦小魔仙",
@@ -2033,6 +2169,14 @@
       "onboard_time": 1713223515,
       "rank": 25,
       "category": "体育"
+    },
+    {
+      "raw_hot": 121885,
+      "num": 121885,
+      "word": "普通话考试究竟有多尴尬",
+      "onboard_time": 1713262039,
+      "rank": 48,
+      "category": "教育"
     },
     {
       "raw_hot": 121144,
@@ -2307,6 +2451,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 37341,
+      "num": 1174911,
+      "word": "云逛广交会",
+      "onboard_time": 1713258019,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 35433,
       "num": 35433,
       "word": "2024国际乒联世界杯",
@@ -2319,14 +2471,6 @@
       "num": 1089896,
       "word": "数字丝路发展论坛",
       "onboard_time": 1713241458,
-      "rank": 2,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 32904,
-      "num": 1174911,
-      "word": "云逛广交会",
-      "onboard_time": 1713258019,
       "rank": 2,
       "category": "社会新闻"
     },

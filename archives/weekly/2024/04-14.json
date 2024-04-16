@@ -1,6 +1,6 @@
 {
   "startTime": 1713025251708,
-  "endTime": 1713260081010,
+  "endTime": 1713262729265,
   "band_list": [
     {
       "raw_hot": 3410457,
@@ -467,6 +467,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 970581,
+      "num": 970581,
+      "word": "买到盗版书发现字是手写的",
+      "onboard_time": 1713260179,
+      "rank": 1,
+      "category": "读书作家"
+    },
+    {
       "raw_hot": 969408,
       "num": 647597,
       "word": "任敏旗袍",
@@ -713,6 +721,14 @@
       "onboard_time": 1713167118,
       "rank": 18,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 790085,
+      "num": 350628,
+      "word": "杨蓉连续十年给朱一龙庆生",
+      "onboard_time": 1713257838,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 788975,
@@ -1097,14 +1113,6 @@
       "onboard_time": 1713053177,
       "rank": 6,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 616091,
-      "num": 350628,
-      "word": "杨蓉连续十年给朱一龙庆生",
-      "onboard_time": 1713257838,
-      "rank": 16,
-      "category": "艺人"
     },
     {
       "raw_hot": 612786,
@@ -1771,6 +1779,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 441417,
+      "num": 441417,
+      "word": "李显龙卸任后将出任新加坡国务资政",
+      "onboard_time": 1713260838,
+      "rank": 6,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 441092,
       "num": 441092,
       "word": "长沙暴雨",
@@ -1953,6 +1969,14 @@
       "onboard_time": 1713252619,
       "rank": 27,
       "category": "财经"
+    },
+    {
+      "raw_hot": 410126,
+      "num": 342929,
+      "word": "金采源发竖中指视频秒删",
+      "onboard_time": 1713261079,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 407143,
@@ -2427,12 +2451,28 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 345454,
+      "num": 345454,
+      "word": "油价",
+      "onboard_time": 1713260420,
+      "rank": 7,
+      "category": "财经"
+    },
+    {
       "raw_hot": 344419,
       "num": 457097,
       "word": "克拉岛",
       "onboard_time": 1713178038,
       "rank": 7,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 342717,
+      "num": 342717,
+      "word": "林更新吴奇隆综艺重聚",
+      "onboard_time": 1713262157,
+      "rank": 13,
+      "category": "综艺"
     },
     {
       "raw_hot": 341516,
@@ -2995,6 +3035,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 281779,
+      "num": 209351,
+      "word": "公务员和研究生都考上了怎么选择",
+      "onboard_time": 1713262218,
+      "rank": 22,
+      "category": "教育"
+    },
+    {
       "raw_hot": 280105,
       "num": 205587,
       "word": "为什么卫龙辣条失宠了",
@@ -3433,6 +3481,14 @@
       "onboard_time": 1713083778,
       "rank": 23,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 244191,
+      "num": 344807,
+      "word": "女生连做11个原地云里震惊全场",
+      "onboard_time": 1713261019,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 244175,
@@ -4259,6 +4315,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 202233,
+      "num": 202233,
+      "word": "林俊杰 爱情修不明白",
+      "onboard_time": 1713262277,
+      "rank": 25,
+      "category": "演出"
+    },
+    {
       "raw_hot": 202068,
       "num": 202068,
       "word": "洪胜汉 高考",
@@ -4459,6 +4523,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 195782,
+      "num": 195782,
+      "word": "巴黎奥运会火种点燃",
+      "onboard_time": 1713261558,
+      "rank": 27,
+      "category": "体育"
+    },
+    {
       "raw_hot": 195678,
       "num": 195678,
       "word": "赵一博打游戏",
@@ -4617,6 +4689,14 @@
       "onboard_time": 1713187638,
       "rank": 39,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 187856,
+      "num": 187856,
+      "word": "张真源以为裤子拉链没拉",
+      "onboard_time": 1713262339,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 187462,
@@ -4971,6 +5051,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 173993,
+      "num": 173993,
+      "word": "美驻华使馆和微软未回应中方调查报告",
+      "onboard_time": 1713259939,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 173981,
       "num": 173981,
       "word": "勇士冲进附加赛",
@@ -5115,6 +5203,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 168160,
+      "num": 168160,
+      "word": "定风波 张楠",
+      "onboard_time": 1713262398,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 167760,
       "num": 167760,
       "word": "T1赛后发文",
@@ -5153,6 +5249,14 @@
       "onboard_time": 1713231078,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 166890,
+      "num": 166890,
+      "word": "全新始祖鸟内置鞋垫是阿迪达斯",
+      "onboard_time": 1713261499,
+      "rank": 34,
+      "category": "运动健身"
     },
     {
       "raw_hot": 166778,
@@ -5707,6 +5811,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 150757,
+      "num": 150757,
+      "word": "国内油价今晚上涨",
+      "onboard_time": 1713259699,
+      "rank": 36,
+      "category": "财经"
+    },
+    {
       "raw_hot": 150712,
       "num": 150712,
       "word": "何广智变周杰伦",
@@ -5803,6 +5915,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 148252,
+      "num": 148252,
+      "word": "X光下狗吃东西时肚子里",
+      "onboard_time": 1713261079,
+      "rank": 40,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 147965,
       "num": 147965,
       "word": "瑞士只有400个常住居民的小镇",
@@ -5819,20 +5939,20 @@
       "category": "演出"
     },
     {
-      "raw_hot": 147586,
-      "num": 147586,
-      "word": "国内油价今晚上涨",
-      "onboard_time": 1713259699,
-      "rank": 36,
-      "category": "财经"
-    },
-    {
       "raw_hot": 147267,
       "num": 147267,
       "word": "大妈吐槽年轻人卧铺挂帘子",
       "onboard_time": 1713184698,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 146912,
+      "num": 146912,
+      "word": "杨蓉多巴胺穿搭",
+      "onboard_time": 1713260779,
+      "rank": 41,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 146282,
@@ -6427,14 +6547,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 127290,
-      "num": 127290,
-      "word": "美驻华使馆和微软未回应中方调查报告",
-      "onboard_time": 1713259939,
-      "rank": 43,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 126312,
       "num": 126312,
       "word": "原来爱也有正反面",
@@ -6507,6 +6619,30 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 124028,
+      "num": 124028,
+      "word": "狼队第五人格",
+      "onboard_time": 1713261197,
+      "rank": 45,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 123761,
+      "num": 123761,
+      "word": "中毒都不知道是哪个人下的",
+      "onboard_time": 1713261499,
+      "rank": 46,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 123721,
+      "num": 123721,
+      "word": "郑合惠子刘星分饼式碎嘴",
+      "onboard_time": 1713260538,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 123377,
       "num": 123377,
       "word": "云南泼水节装备门槛有点高啊",
@@ -6545,6 +6681,14 @@
       "onboard_time": 1713223515,
       "rank": 25,
       "category": "体育"
+    },
+    {
+      "raw_hot": 121885,
+      "num": 121885,
+      "word": "普通话考试究竟有多尴尬",
+      "onboard_time": 1713262039,
+      "rank": 48,
+      "category": "教育"
     },
     {
       "raw_hot": 121309,
@@ -7251,6 +7395,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 37341,
+      "num": 1174911,
+      "word": "云逛广交会",
+      "onboard_time": 1713258019,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 36753,
       "num": 41524,
       "word": "海仁表白",
@@ -7287,14 +7439,6 @@
       "num": 803308,
       "word": "一图读懂国家安全新知识",
       "onboard_time": 1713167176,
-      "rank": 2,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 32904,
-      "num": 1174911,
-      "word": "云逛广交会",
-      "onboard_time": 1713258019,
       "rank": 2,
       "category": "社会新闻"
     },
