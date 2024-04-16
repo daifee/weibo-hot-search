@@ -1,0 +1,410 @@
+{
+  "runTime": 1713252937978,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2109360,
+        "num": 2109360,
+        "word": "12306 秒没",
+        "onboard_time": 1713251296,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1253747,
+        "num": 1253747,
+        "word": "花近30万开甘肃麻辣烫18天关门",
+        "onboard_time": 1713247878,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 29122,
+        "num": 1089896,
+        "word": "数字丝路发展论坛",
+        "onboard_time": 1713241458,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 999161,
+        "num": 999161,
+        "word": "近期4位不满14周岁未成年被判刑",
+        "onboard_time": 1713246378,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 811383,
+        "num": 811383,
+        "word": "徐正溪退圈声明后现身片场",
+        "onboard_time": 1713243260,
+        "rank": 4,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 750925,
+        "num": 750925,
+        "word": "霍建华老了",
+        "onboard_time": 1713252079,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 628577,
+        "num": 628577,
+        "word": "鹿晗王勉梦到五哈不录了",
+        "onboard_time": 1713250340,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 551373,
+        "num": 551373,
+        "word": "林依晨称母亲一直想让自己退出娱乐圈",
+        "onboard_time": 1713246438,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 454191,
+        "num": 454191,
+        "word": "看似很爽其实很伤身体的行为",
+        "onboard_time": 1713243019,
+        "rank": 8,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 71994,
+        "num": 414184,
+        "word": "王楚钦澳门世界杯现场大图",
+        "onboard_time": 1713242359,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 552293,
+        "num": 406150,
+        "word": "iPhone16价格",
+        "onboard_time": 1713241099,
+        "rank": 10,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 396288,
+        "num": 396288,
+        "word": "权恩妃购买24亿韩元住宅",
+        "onboard_time": 1713250157,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 383529,
+        "num": 383529,
+        "word": "哈尔滨一九四四 三星联播",
+        "onboard_time": 1713250638,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 373847,
+        "num": 373847,
+        "word": "金秀贤剧本上有金智媛贴纸",
+        "onboard_time": 1713251118,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 334961,
+        "num": 334961,
+        "word": "小新被爆家暴出轨",
+        "onboard_time": 1713191599,
+        "rank": 14,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 329000,
+        "num": 329000,
+        "word": "AJ被强制下播",
+        "onboard_time": 1713247098,
+        "rank": 15,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 296982,
+        "num": 296982,
+        "word": "小新被WE开除",
+        "onboard_time": 1713245718,
+        "rank": 16,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 283482,
+        "num": 283482,
+        "word": "刚出道了15天的爱豆",
+        "onboard_time": 1713242299,
+        "rank": 17,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 270545,
+        "num": 270545,
+        "word": "幼态审美入侵纸片人",
+        "onboard_time": 1713252197,
+        "rank": 18,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 255925,
+        "num": 255925,
+        "word": "重庆地铁站被砸孕妇心跳已停2次",
+        "onboard_time": 1713226218,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 554565,
+        "num": 254113,
+        "word": "工资4千和6千真的能存到钱吗",
+        "onboard_time": 1713247219,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 464251,
+        "num": 252761,
+        "word": "原来五千块钱真的很难存",
+        "onboard_time": 1713248658,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 446623,
+        "num": 251731,
+        "word": "长期喝咖啡身体会变成什么样",
+        "onboard_time": 1713250758,
+        "rank": 22,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 268546,
+        "num": 249062,
+        "word": "决定关掉朋友圈了",
+        "onboard_time": 1713249617,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 248363,
+        "num": 248363,
+        "word": "差一点就买到真的周大福了",
+        "onboard_time": 1713249018,
+        "rank": 24,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 243210,
+        "num": 243210,
+        "word": "A股",
+        "onboard_time": 1713232098,
+        "rank": 25,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 214234,
+        "num": 214234,
+        "word": "权志龙将下半年solo回归",
+        "onboard_time": 1713246737,
+        "rank": 26,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 205541,
+        "num": 205541,
+        "word": "国九条",
+        "onboard_time": 1713252619,
+        "rank": 27,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 198302,
+        "num": 198302,
+        "word": "奔跑吧全员对12的解读",
+        "onboard_time": 1713252379,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 192657,
+        "num": 192657,
+        "word": "重庆轨道交通通报孕妇被墙面脱落物砸伤",
+        "onboard_time": 1713250458,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 196071,
+        "num": 191121,
+        "word": "肖战或将出席白玉兰",
+        "onboard_time": 1713252558,
+        "rank": 30,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 188617,
+        "num": 188617,
+        "word": "金莎孙丞潇又合体录综艺了",
+        "onboard_time": 1713247398,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 187930,
+        "num": 187930,
+        "word": "大家都是确定结婚了再求婚吗",
+        "onboard_time": 1713249798,
+        "rank": 32,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 181022,
+        "num": 181022,
+        "word": "供电所领导被举报勾引已婚女士",
+        "onboard_time": 1713249920,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 173617,
+        "num": 173617,
+        "word": "义乌人已经开始赚巴黎奥运会的钱了",
+        "onboard_time": 1713238759,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 170104,
+        "num": 170104,
+        "word": "雷军称小米SU7订单远超最乐观预期",
+        "onboard_time": 1713248237,
+        "rank": 35,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 169875,
+        "num": 169875,
+        "word": "贾玲杀青影像给我看哭了",
+        "onboard_time": 1713240379,
+        "rank": 36,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 168946,
+        "num": 168946,
+        "word": "欧阳娜娜回应加油鹿小葵",
+        "onboard_time": 1713248598,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 166214,
+        "num": 166214,
+        "word": "要了男生微信但他有女朋友",
+        "onboard_time": 1713242001,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 163575,
+        "num": 163575,
+        "word": "跳12分钟等于运动1小时",
+        "onboard_time": 1713246497,
+        "rank": 39,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 161333,
+        "num": 161333,
+        "word": "陈楚生要在音综开嗓了",
+        "onboard_time": 1713251538,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 154080,
+        "num": 154080,
+        "word": "范湉湉 我就想当影后",
+        "onboard_time": 1713251898,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 139167,
+        "num": 139167,
+        "word": "掌心",
+        "onboard_time": 1713251838,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 137421,
+        "num": 137421,
+        "word": "一个月从100斤减到120斤的秘诀",
+        "onboard_time": 1713240320,
+        "rank": 43,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 134810,
+        "num": 134810,
+        "word": "我爸直接把我考研成绩发到家族群",
+        "onboard_time": 1713238278,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 133131,
+        "num": 133131,
+        "word": "微盘股指数大跌10%",
+        "onboard_time": 1713251477,
+        "rank": 45,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 130869,
+        "num": 130869,
+        "word": "贾乃亮发了十遍4月21号",
+        "onboard_time": 1713239058,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 128551,
+        "num": 128551,
+        "word": "退市新规并非针对小盘股",
+        "onboard_time": 1713251958,
+        "rank": 47,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 122694,
+        "num": 122694,
+        "word": "无期迷途 还不开门",
+        "onboard_time": 1713250458,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 121986,
+        "num": 121986,
+        "word": "iPhone16Pro起步存储或为256GB",
+        "onboard_time": 1713238699,
+        "rank": 49,
+        "category": "数码"
+      }
+    ],
+    "hotgov": {
+      "word": "#坚定不移贯彻总体国家安全观#"
+    }
+  }
+}
