@@ -1,0 +1,410 @@
+{
+  "runTime": 1713248574254,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1366690,
+        "num": 1366690,
+        "word": "徐正溪退圈声明后现身片场",
+        "onboard_time": 1713243260,
+        "rank": 0,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 911613,
+        "num": 911613,
+        "word": "林依晨称母亲一直想让自己退出娱乐圈",
+        "onboard_time": 1713246438,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 30917,
+        "num": 790839,
+        "word": "数字丝路发展论坛",
+        "onboard_time": 1713241458,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1571872,
+        "num": 773550,
+        "word": "近期4位不满14周岁未成年被判刑",
+        "onboard_time": 1713246378,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 928632,
+        "num": 764501,
+        "word": "看似很爽其实很伤身体的行为",
+        "onboard_time": 1713243019,
+        "rank": 4,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 754715,
+        "num": 754715,
+        "word": "小新被WE开除",
+        "onboard_time": 1713245718,
+        "rank": 5,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 525364,
+        "num": 525364,
+        "word": "AJ被强制下播",
+        "onboard_time": 1713247098,
+        "rank": 6,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 466346,
+        "num": 466346,
+        "word": "刚出道了15天的爱豆",
+        "onboard_time": 1713242299,
+        "rank": 7,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 448893,
+        "num": 448893,
+        "word": "义乌人已经开始赚巴黎奥运会的钱了",
+        "onboard_time": 1713238759,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 71652,
+        "num": 446765,
+        "word": "王楚钦澳门世界杯现场大图",
+        "onboard_time": 1713242359,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 637231,
+        "num": 445152,
+        "word": "iPhone16价格",
+        "onboard_time": 1713241099,
+        "rank": 10,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 53718,
+        "num": 443511,
+        "word": "新款蔚来ET7北京车展上市",
+        "onboard_time": 1713243860,
+        "rank": 11,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 602394,
+        "num": 440445,
+        "word": "小新被爆家暴出轨",
+        "onboard_time": 1713191599,
+        "rank": 12,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 439726,
+        "num": 439726,
+        "word": "权志龙将下半年solo回归",
+        "onboard_time": 1713246737,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 419098,
+        "num": 419098,
+        "word": "金莎孙丞潇又合体录综艺了",
+        "onboard_time": 1713247398,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 416240,
+        "num": 416240,
+        "word": "重庆地铁站被砸孕妇心跳已停2次",
+        "onboard_time": 1713226218,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 399440,
+        "num": 399440,
+        "word": "陶昕然节目里哭到爆青筋",
+        "onboard_time": 1713244339,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 322560,
+        "num": 322560,
+        "word": "iPhone16Pro起步存储或为256GB",
+        "onboard_time": 1713238699,
+        "rank": 17,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 308419,
+        "num": 308419,
+        "word": "贾玲杀青影像给我看哭了",
+        "onboard_time": 1713240379,
+        "rank": 18,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 296464,
+        "num": 296464,
+        "word": "豹豹猫猫",
+        "onboard_time": 1713240860,
+        "rank": 19,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 714454,
+        "num": 292008,
+        "word": "工资4千和6千真的能存到钱吗",
+        "onboard_time": 1713247219,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 354813,
+        "num": 289371,
+        "word": "要了男生微信但他有女朋友",
+        "onboard_time": 1713242001,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 284953,
+        "num": 284953,
+        "word": "贾乃亮发了十遍4月21号",
+        "onboard_time": 1713239058,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 266910,
+        "num": 266910,
+        "word": "跳12分钟等于运动1小时",
+        "onboard_time": 1713246497,
+        "rank": 23,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 258059,
+        "num": 258059,
+        "word": "男子当众扒光前女友衣服获刑5年",
+        "onboard_time": 1713207971,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 257058,
+        "num": 257058,
+        "word": "专家称适龄生育有助于预防疾病",
+        "onboard_time": 1713245239,
+        "rank": 25,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 243195,
+        "num": 243195,
+        "word": "一个月从100斤减到120斤的秘诀",
+        "onboard_time": 1713240320,
+        "rank": 26,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 230246,
+        "num": 230246,
+        "word": "原来痛经是宫缩疼",
+        "onboard_time": 1713243560,
+        "rank": 27,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 206157,
+        "num": 206157,
+        "word": "12306抢票",
+        "onboard_time": 1713229041,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 101837,
+        "num": 196755,
+        "word": "胃癌的发生是一个长期的过程",
+        "onboard_time": 1713223577,
+        "rank": 29,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 229715,
+        "num": 196620,
+        "word": "恋与深空升空",
+        "onboard_time": 1713247338,
+        "rank": 30,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 196211,
+        "num": 196211,
+        "word": "一夜承明婚后生活具象化",
+        "onboard_time": 1713244040,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 194608,
+        "num": 194608,
+        "word": "我爸直接把我考研成绩发到家族群",
+        "onboard_time": 1713238278,
+        "rank": 32,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 189381,
+        "num": 189381,
+        "word": "汉密尔顿抵达上海",
+        "onboard_time": 1713248418,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 187161,
+        "num": 187161,
+        "word": "花近30万开甘肃麻辣烫18天关门",
+        "onboard_time": 1713247878,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 176611,
+        "num": 176611,
+        "word": "陈瑶170甜妹",
+        "onboard_time": 1713241520,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 172744,
+        "num": 172744,
+        "word": "WE小新",
+        "onboard_time": 1713248298,
+        "rank": 36,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 166695,
+        "num": 166695,
+        "word": "周扬青 乘风的行李大开箱",
+        "onboard_time": 1713240978,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 165949,
+        "num": 165949,
+        "word": "迪丽热巴官宣开推2",
+        "onboard_time": 1713239118,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 165520,
+        "num": 165520,
+        "word": "雷军称小米SU7订单远超最乐观预期",
+        "onboard_time": 1713248237,
+        "rank": 39,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 164438,
+        "num": 164438,
+        "word": "38岁单身无娃的女性生活",
+        "onboard_time": 1713226218,
+        "rank": 40,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 162110,
+        "num": 162110,
+        "word": "专家建议增加下半年法定节假日",
+        "onboard_time": 1713229399,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 161126,
+        "num": 161126,
+        "word": "为什么韩国有名的编剧几乎都是女性",
+        "onboard_time": 1713248178,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 152294,
+        "num": 152294,
+        "word": "余承东回应华为Pura70何时开售",
+        "onboard_time": 1713244339,
+        "rank": 43,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 149344,
+        "num": 149344,
+        "word": "广告被屏蔽芒果TV起诉拦截公司",
+        "onboard_time": 1713243739,
+        "rank": 44,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 148703,
+        "num": 148703,
+        "word": "张婧仪真给胡一天买芋泥啵啵了",
+        "onboard_time": 1713245598,
+        "rank": 45,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 148452,
+        "num": 148452,
+        "word": "股市",
+        "onboard_time": 1713238037,
+        "rank": 46,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 147965,
+        "num": 147965,
+        "word": "瑞士只有400个常住居民的小镇",
+        "onboard_time": 1713246198,
+        "rank": 47,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 146282,
+        "num": 146282,
+        "word": "刘诗诗新剧路透",
+        "onboard_time": 1713245419,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 128453,
+        "num": 128453,
+        "word": "奶奶一开口我就在考场了",
+        "onboard_time": 1713241880,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#坚定不移贯彻总体国家安全观#"
+    }
+  }
+}

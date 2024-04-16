@@ -1,6 +1,6 @@
 {
   "startTime": 1713025251708,
-  "endTime": 1713245645173,
+  "endTime": 1713248574254,
   "band_list": [
     {
       "raw_hot": 3410457,
@@ -169,6 +169,14 @@
       "onboard_time": 1713052756,
       "rank": 1,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 1571872,
+      "num": 773550,
+      "word": "近期4位不满14周岁未成年被判刑",
+      "onboard_time": 1713246378,
+      "rank": 3,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1384101,
@@ -499,6 +507,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 911613,
+      "num": 911613,
+      "word": "林依晨称母亲一直想让自己退出娱乐圈",
+      "onboard_time": 1713246438,
+      "rank": 1,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 904523,
       "num": 904523,
       "word": "A股",
@@ -707,6 +723,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 754715,
+      "num": 754715,
+      "word": "小新被WE开除",
+      "onboard_time": 1713245718,
+      "rank": 5,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 754583,
       "num": 754583,
       "word": "他怎么又凶又奶的",
@@ -801,6 +825,14 @@
       "onboard_time": 1713238699,
       "rank": 7,
       "category": "数码"
+    },
+    {
+      "raw_hot": 714454,
+      "num": 292008,
+      "word": "工资4千和6千真的能存到钱吗",
+      "onboard_time": 1713247219,
+      "rank": 20,
+      "category": "情感"
     },
     {
       "raw_hot": 713250,
@@ -1219,6 +1251,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 525364,
+      "num": 525364,
+      "word": "AJ被强制下播",
+      "onboard_time": 1713247098,
+      "rank": 6,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 524582,
       "num": 421822,
       "word": "张元英向我求婚",
@@ -1491,6 +1531,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 466346,
+      "num": 466346,
+      "word": "刚出道了15天的爱豆",
+      "onboard_time": 1713242299,
+      "rank": 15,
+      "category": "演出"
+    },
+    {
       "raw_hot": 464875,
       "num": 464875,
       "word": "花少去老挝了",
@@ -1603,6 +1651,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 439726,
+      "num": 439726,
+      "word": "权志龙将下半年solo回归",
+      "onboard_time": 1713246737,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 439715,
       "num": 439715,
       "word": "Tian哭了",
@@ -1617,14 +1673,6 @@
       "onboard_time": 1713186859,
       "rank": 36,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 438962,
-      "num": 438962,
-      "word": "刚出道了15天的爱豆",
-      "onboard_time": 1713242299,
-      "rank": 15,
-      "category": "演出"
     },
     {
       "raw_hot": 438857,
@@ -1737,6 +1785,14 @@
       "onboard_time": 1713185657,
       "rank": 11,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 419098,
+      "num": 419098,
+      "word": "金莎孙丞潇又合体录综艺了",
+      "onboard_time": 1713247398,
+      "rank": 14,
+      "category": "综艺"
     },
     {
       "raw_hot": 416047,
@@ -2835,6 +2891,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 266910,
+      "num": 266910,
+      "word": "跳12分钟等于运动1小时",
+      "onboard_time": 1713246497,
+      "rank": 23,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 266768,
       "num": 241473,
       "word": "陈晓孙千合作",
@@ -2969,6 +3033,14 @@
       "onboard_time": 1713104780,
       "rank": 37,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 257058,
+      "num": 257058,
+      "word": "专家称适龄生育有助于预防疾病",
+      "onboard_time": 1713245239,
+      "rank": 38,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 253622,
@@ -3313,6 +3385,14 @@
       "onboard_time": 1713144137,
       "rank": 24,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 229715,
+      "num": 196620,
+      "word": "恋与深空升空",
+      "onboard_time": 1713247338,
+      "rank": 30,
+      "category": "游戏"
     },
     {
       "raw_hot": 229449,
@@ -4131,6 +4211,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 189381,
+      "num": 189381,
+      "word": "汉密尔顿抵达上海",
+      "onboard_time": 1713248418,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 188934,
       "num": 188934,
       "word": "黑神话PS5版炒至500元",
@@ -4169,6 +4257,14 @@
       "onboard_time": 1713106578,
       "rank": 26,
       "category": "演出"
+    },
+    {
+      "raw_hot": 187161,
+      "num": 187161,
+      "word": "花近30万开甘肃麻辣烫18天关门",
+      "onboard_time": 1713247878,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 186501,
@@ -4499,6 +4595,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 172744,
+      "num": 172744,
+      "word": "WE小新",
+      "onboard_time": 1713248298,
+      "rank": 36,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 172451,
       "num": 172451,
       "word": "终于理解内蒙为啥不包邮了",
@@ -4691,12 +4795,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 165235,
-      "num": 165235,
-      "word": "专家称适龄生育有助于预防疾病",
-      "onboard_time": 1713245239,
-      "rank": 38,
-      "category": "健康医疗"
+      "raw_hot": 165520,
+      "num": 165520,
+      "word": "雷军称小米SU7订单远超最乐观预期",
+      "onboard_time": 1713248237,
+      "rank": 39,
+      "category": "汽车"
     },
     {
       "raw_hot": 165172,
@@ -4865,6 +4969,14 @@
       "onboard_time": 1713145697,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 161126,
+      "num": 161126,
+      "word": "为什么韩国有名的编剧几乎都是女性",
+      "onboard_time": 1713248178,
+      "rank": 42,
+      "category": "剧集"
     },
     {
       "raw_hot": 160848,
@@ -5235,6 +5347,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 147965,
+      "num": 147965,
+      "word": "瑞士只有400个常住居民的小镇",
+      "onboard_time": 1713246198,
+      "rank": 47,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 147863,
       "num": 147863,
       "word": "薛之谦演唱会",
@@ -5249,6 +5369,14 @@
       "onboard_time": 1713184698,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 146282,
+      "num": 146282,
+      "word": "刘诗诗新剧路透",
+      "onboard_time": 1713245419,
+      "rank": 45,
+      "category": "剧集"
     },
     {
       "raw_hot": 146158,
@@ -5521,14 +5649,6 @@
       "onboard_time": 1713234618,
       "rank": 42,
       "category": "情感"
-    },
-    {
-      "raw_hot": 137993,
-      "num": 137993,
-      "word": "刘诗诗新剧路透",
-      "onboard_time": 1713245419,
-      "rank": 45,
-      "category": "剧集"
     },
     {
       "raw_hot": 137906,
@@ -6475,6 +6595,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 53718,
+      "num": 443511,
+      "word": "新款蔚来ET7北京车展上市",
+      "onboard_time": 1713243860,
+      "rank": 26,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 53464,
       "num": 53464,
       "word": "杨紫说泡水戏很困难",
@@ -6585,14 +6713,6 @@
       "onboard_time": 1713129311,
       "rank": 33,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 35559,
-      "num": 435137,
-      "word": "新款蔚来ET7北京车展上市",
-      "onboard_time": 1713243860,
-      "rank": 26,
-      "category": "汽车"
     },
     {
       "raw_hot": 35433,
