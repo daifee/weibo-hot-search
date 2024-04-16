@@ -1,6 +1,6 @@
 {
   "startTime": 1711902044401,
-  "endTime": 1713296053735,
+  "endTime": 1713298716376,
   "band_list": [
     {
       "raw_hot": 16874674,
@@ -44435,6 +44435,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 43841,
+      "num": 43841,
+      "word": "巴萨vs巴黎",
+      "onboard_time": 1713294072,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
       "raw_hot": 43738,
       "num": 886476,
       "word": "国家安全是头等大事不能袖手旁观",
@@ -44827,14 +44835,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 33315,
-      "num": 33315,
-      "word": "巴萨vs巴黎",
-      "onboard_time": 1713294072,
-      "rank": 28,
-      "category": "体育"
-    },
-    {
       "raw_hot": 33185,
       "num": 45272,
       "word": "帕尔默帽子戏法",
@@ -45091,6 +45091,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 26624,
+      "num": 23101,
+      "word": "别再用棉签掏耳朵了",
+      "onboard_time": 1713294011,
+      "rank": 44,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 26575,
       "num": 599220,
       "word": "关于国家安全这些你要知道",
@@ -45121,6 +45129,14 @@
       "onboard_time": 1712100097,
       "rank": 13,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 26353,
+      "num": 23091,
+      "word": "睡觉时不能脚朝西头朝东吗",
+      "onboard_time": 1713297612,
+      "rank": 21,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 26316,
@@ -45547,11 +45563,27 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 19186,
+      "num": 19186,
+      "word": "胎儿在母亲体内长大的过程",
+      "onboard_time": 1713297131,
+      "rank": 31,
+      "category": "母婴育儿"
+    },
+    {
       "raw_hot": 18809,
       "num": 27165,
       "word": "20多岁大学生为21岁烈士画像",
       "onboard_time": 1712263451,
       "rank": 39,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 18760,
+      "num": 30084,
+      "word": "得知邻居是欠债潜逃者后小岛居民选择这样做",
+      "onboard_time": 1713296471,
+      "rank": 11,
       "category": "社会新闻"
     },
     {
@@ -45635,14 +45667,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 16773,
-      "num": 16773,
-      "word": "别再用棉签掏耳朵了",
-      "onboard_time": 1713294011,
-      "rank": 44,
-      "category": "科学科普"
-    },
-    {
       "raw_hot": 16742,
       "num": 16742,
       "word": "王鹤棣又颠勺了",
@@ -45689,6 +45713,14 @@
       "onboard_time": 1712351050,
       "rank": 46,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 14726,
+      "num": 14726,
+      "word": "王一博奥运会资格赛系列赛VCR",
+      "onboard_time": 1713298451,
+      "rank": 45,
+      "category": "艺人,体育"
     },
     {
       "raw_hot": 14707,
@@ -45857,6 +45889,14 @@
       "onboard_time": 1713070518,
       "rank": 45,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 10914,
+      "num": 19386,
+      "word": "老人乘扶梯仰面摔倒民警飞速冲上去救人",
+      "onboard_time": 1713296051,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 8134,
