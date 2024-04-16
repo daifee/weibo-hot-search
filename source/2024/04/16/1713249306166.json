@@ -1,0 +1,410 @@
+{
+  "runTime": 1713249306166,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1264768,
+        "num": 1264768,
+        "word": "徐正溪退圈声明后现身片场",
+        "onboard_time": 1713243260,
+        "rank": 0,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 882380,
+        "num": 882380,
+        "word": "林依晨称母亲一直想让自己退出娱乐圈",
+        "onboard_time": 1713246438,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 32649,
+        "num": 833392,
+        "word": "数字丝路发展论坛",
+        "onboard_time": 1713241458,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1585418,
+        "num": 826146,
+        "word": "近期4位不满14周岁未成年被判刑",
+        "onboard_time": 1713246378,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 804118,
+        "num": 804118,
+        "word": "看似很爽其实很伤身体的行为",
+        "onboard_time": 1713243019,
+        "rank": 4,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 622906,
+        "num": 622906,
+        "word": "小新被WE开除",
+        "onboard_time": 1713245718,
+        "rank": 5,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 536636,
+        "num": 536636,
+        "word": "AJ被强制下播",
+        "onboard_time": 1713247098,
+        "rank": 6,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 476216,
+        "num": 476216,
+        "word": "刚出道了15天的爱豆",
+        "onboard_time": 1713242299,
+        "rank": 7,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 449888,
+        "num": 449888,
+        "word": "权志龙将下半年solo回归",
+        "onboard_time": 1713246737,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 89459,
+        "num": 417047,
+        "word": "王楚钦澳门世界杯现场大图",
+        "onboard_time": 1713242359,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 619263,
+        "num": 416776,
+        "word": "iPhone16价格",
+        "onboard_time": 1713241099,
+        "rank": 10,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 549515,
+        "num": 416541,
+        "word": "小新被爆家暴出轨",
+        "onboard_time": 1713191599,
+        "rank": 11,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 415645,
+        "num": 415645,
+        "word": "金莎孙丞潇又合体录综艺了",
+        "onboard_time": 1713247398,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 389582,
+        "num": 389582,
+        "word": "重庆地铁站被砸孕妇心跳已停2次",
+        "onboard_time": 1713226218,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 370571,
+        "num": 370571,
+        "word": "义乌人已经开始赚巴黎奥运会的钱了",
+        "onboard_time": 1713238759,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 333144,
+        "num": 333144,
+        "word": "陶昕然节目里哭到爆青筋",
+        "onboard_time": 1713244339,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 309009,
+        "num": 309009,
+        "word": "iPhone16Pro起步存储或为256GB",
+        "onboard_time": 1713238699,
+        "rank": 16,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 297365,
+        "num": 297365,
+        "word": "贾玲杀青影像给我看哭了",
+        "onboard_time": 1713240379,
+        "rank": 17,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 277349,
+        "num": 277349,
+        "word": "豹豹猫猫",
+        "onboard_time": 1713240860,
+        "rank": 18,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 274385,
+        "num": 274385,
+        "word": "花近30万开甘肃麻辣烫18天关门",
+        "onboard_time": 1713247878,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 49818,
+        "num": 272730,
+        "word": "新款蔚来ET7北京车展上市",
+        "onboard_time": 1713243860,
+        "rank": 20,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 726021,
+        "num": 260186,
+        "word": "工资4千和6千真的能存到钱吗",
+        "onboard_time": 1713247219,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 449157,
+        "num": 250424,
+        "word": "要了男生微信但他有女朋友",
+        "onboard_time": 1713242001,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 351825,
+        "num": 242475,
+        "word": "原来五千块钱真的很难存",
+        "onboard_time": 1713248658,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 235978,
+        "num": 235978,
+        "word": "跳12分钟等于运动1小时",
+        "onboard_time": 1713246497,
+        "rank": 24,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 213779,
+        "num": 213779,
+        "word": "专家称适龄生育有助于预防疾病",
+        "onboard_time": 1713245239,
+        "rank": 25,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 204810,
+        "num": 204810,
+        "word": "汉密尔顿抵达上海",
+        "onboard_time": 1713248418,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 201027,
+        "num": 201027,
+        "word": "男子当众扒光前女友衣服获刑5年",
+        "onboard_time": 1713207971,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 197932,
+        "num": 197932,
+        "word": "12306抢票",
+        "onboard_time": 1713229041,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 106313,
+        "num": 197162,
+        "word": "胃癌的发生是一个长期的过程",
+        "onboard_time": 1713223577,
+        "rank": 29,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 197032,
+        "num": 197032,
+        "word": "雷军称小米SU7订单远超最乐观预期",
+        "onboard_time": 1713248237,
+        "rank": 30,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 195376,
+        "num": 195376,
+        "word": "原来痛经是宫缩疼",
+        "onboard_time": 1713243560,
+        "rank": 31,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 193556,
+        "num": 193556,
+        "word": "我爸直接把我考研成绩发到家族群",
+        "onboard_time": 1713238278,
+        "rank": 32,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 192090,
+        "num": 192090,
+        "word": "WE小新",
+        "onboard_time": 1713248298,
+        "rank": 33,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 185897,
+        "num": 185897,
+        "word": "一夜承明婚后生活具象化",
+        "onboard_time": 1713244040,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 179286,
+        "num": 179286,
+        "word": "欧阳娜娜回应加油鹿小葵",
+        "onboard_time": 1713248598,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 175410,
+        "num": 175410,
+        "word": "贾乃亮发了十遍4月21号",
+        "onboard_time": 1713239058,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 175314,
+        "num": 175314,
+        "word": "恋与深空升空",
+        "onboard_time": 1713247338,
+        "rank": 37,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 169427,
+        "num": 169427,
+        "word": "一个月从100斤减到120斤的秘诀",
+        "onboard_time": 1713240320,
+        "rank": 38,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 165360,
+        "num": 165360,
+        "word": "陈瑶170甜妹",
+        "onboard_time": 1713241520,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 159373,
+        "num": 159373,
+        "word": "为什么韩国有名的编剧几乎都是女性",
+        "onboard_time": 1713248178,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 156150,
+        "num": 156150,
+        "word": "差一点就买到真的周大福了",
+        "onboard_time": 1713249018,
+        "rank": 41,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 153376,
+        "num": 153376,
+        "word": "迪丽热巴官宣开推2",
+        "onboard_time": 1713239118,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 151703,
+        "num": 151703,
+        "word": "股市",
+        "onboard_time": 1713238037,
+        "rank": 43,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 148415,
+        "num": 148415,
+        "word": "姚志明爱与不爱的眼神",
+        "onboard_time": 1713249138,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 147302,
+        "num": 147302,
+        "word": "38岁单身无娃的女性生活",
+        "onboard_time": 1713226218,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 144543,
+        "num": 144543,
+        "word": "刘诗诗新剧路透",
+        "onboard_time": 1713245419,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 143737,
+        "num": 143737,
+        "word": "周扬青 乘风的行李大开箱",
+        "onboard_time": 1713240978,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 138484,
+        "num": 138484,
+        "word": "瑞士只有400个常住居民的小镇",
+        "onboard_time": 1713246198,
+        "rank": 48,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 132933,
+        "num": 132933,
+        "word": "A股",
+        "onboard_time": 1713232098,
+        "rank": 49,
+        "category": "财经"
+      }
+    ],
+    "hotgov": {
+      "word": "#坚定不移贯彻总体国家安全观#"
+    }
+  }
+}

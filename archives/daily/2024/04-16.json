@@ -1,6 +1,6 @@
 {
   "startTime": 1713198119901,
-  "endTime": 1713248574254,
+  "endTime": 1713249306166,
   "band_list": [
     {
       "raw_hot": 2147550,
@@ -27,8 +27,8 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 1571872,
-      "num": 773550,
+      "raw_hot": 1585418,
+      "num": 826146,
       "word": "近期4位不满14周岁未成年被判刑",
       "onboard_time": 1713246378,
       "rank": 3,
@@ -171,6 +171,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 726021,
+      "num": 292008,
+      "word": "工资4千和6千真的能存到钱吗",
+      "onboard_time": 1713247219,
+      "rank": 20,
+      "category": "情感"
+    },
+    {
       "raw_hot": 719337,
       "num": 719337,
       "word": "恋爱脑室友 真正的站姐",
@@ -185,14 +193,6 @@
       "onboard_time": 1713238699,
       "rank": 7,
       "category": "数码"
-    },
-    {
-      "raw_hot": 714454,
-      "num": 292008,
-      "word": "工资4千和6千真的能存到钱吗",
-      "onboard_time": 1713247219,
-      "rank": 20,
-      "category": "情感"
     },
     {
       "raw_hot": 688432,
@@ -267,6 +267,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 536636,
+      "num": 536636,
+      "word": "AJ被强制下播",
+      "onboard_time": 1713247098,
+      "rank": 6,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 534104,
       "num": 315764,
       "word": "要了男生微信但他有女朋友",
@@ -281,14 +289,6 @@
       "onboard_time": 1713238278,
       "rank": 30,
       "category": "情感"
-    },
-    {
-      "raw_hot": 525364,
-      "num": 525364,
-      "word": "AJ被强制下播",
-      "onboard_time": 1713247098,
-      "rank": 6,
-      "category": "电竞"
     },
     {
       "raw_hot": 523695,
@@ -347,6 +347,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 476216,
+      "num": 476216,
+      "word": "刚出道了15天的爱豆",
+      "onboard_time": 1713242299,
+      "rank": 15,
+      "category": "演出"
+    },
+    {
       "raw_hot": 473919,
       "num": 473919,
       "word": "数学140分以上就能被知名大学锁定吗",
@@ -361,14 +369,6 @@
       "onboard_time": 1713217810,
       "rank": 11,
       "category": "健康医疗,科学科普"
-    },
-    {
-      "raw_hot": 466346,
-      "num": 466346,
-      "word": "刚出道了15天的爱豆",
-      "onboard_time": 1713242299,
-      "rank": 15,
-      "category": "演出"
     },
     {
       "raw_hot": 463670,
@@ -403,20 +403,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 449888,
+      "num": 449888,
+      "word": "权志龙将下半年solo回归",
+      "onboard_time": 1713246737,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 444205,
       "num": 444205,
       "word": "老人敞开自家古宅供免费参观被爹味说教",
       "onboard_time": 1713226098,
       "rank": 13,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 439726,
-      "num": 439726,
-      "word": "权志龙将下半年solo回归",
-      "onboard_time": 1713246737,
-      "rank": 13,
-      "category": "艺人"
     },
     {
       "raw_hot": 437776,
@@ -529,6 +529,14 @@
       "onboard_time": 1713177319,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 351825,
+      "num": 242475,
+      "word": "原来五千块钱真的很难存",
+      "onboard_time": 1713248658,
+      "rank": 23,
+      "category": "情感"
     },
     {
       "raw_hot": 331136,
@@ -697,6 +705,14 @@
       "onboard_time": 1713194420,
       "rank": 13,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 274385,
+      "num": 274385,
+      "word": "花近30万开甘肃麻辣烫18天关门",
+      "onboard_time": 1713247878,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 266910,
@@ -907,6 +923,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 204810,
+      "num": 204810,
+      "word": "汉密尔顿抵达上海",
+      "onboard_time": 1713248418,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 203773,
       "num": 203773,
       "word": "陈楚生南京",
@@ -947,6 +971,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 197032,
+      "num": 197032,
+      "word": "雷军称小米SU7订单远超最乐观预期",
+      "onboard_time": 1713248237,
+      "rank": 39,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 196096,
       "num": 196096,
       "word": "李昊开着治疗远走他乡",
@@ -971,6 +1003,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 192090,
+      "num": 192090,
+      "word": "WE小新",
+      "onboard_time": 1713248298,
+      "rank": 36,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 190501,
       "num": 190501,
       "word": "极限挑战定档0421",
@@ -985,14 +1025,6 @@
       "onboard_time": 1713234558,
       "rank": 27,
       "category": "财经"
-    },
-    {
-      "raw_hot": 189381,
-      "num": 189381,
-      "word": "汉密尔顿抵达上海",
-      "onboard_time": 1713248418,
-      "rank": 33,
-      "category": "体育"
     },
     {
       "raw_hot": 188934,
@@ -1016,14 +1048,6 @@
       "word": "长沙暴雨天都黑了",
       "onboard_time": 1713240198,
       "rank": 41,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 187161,
-      "num": 187161,
-      "word": "花近30万开甘肃麻辣烫18天关门",
-      "onboard_time": 1713247878,
-      "rank": 34,
       "category": "社会新闻"
     },
     {
@@ -1057,6 +1081,14 @@
       "onboard_time": 1713234497,
       "rank": 33,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 179286,
+      "num": 179286,
+      "word": "欧阳娜娜回应加油鹿小葵",
+      "onboard_time": 1713248598,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 178284,
@@ -1105,14 +1137,6 @@
       "onboard_time": 1713241880,
       "rank": 46,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 172744,
-      "num": 172744,
-      "word": "WE小新",
-      "onboard_time": 1713248298,
-      "rank": 36,
-      "category": "电竞"
     },
     {
       "raw_hot": 172451,
@@ -1195,14 +1219,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 165520,
-      "num": 165520,
-      "word": "雷军称小米SU7订单远超最乐观预期",
-      "onboard_time": 1713248237,
-      "rank": 39,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 164528,
       "num": 164528,
       "word": "张婧仪真给胡一天买芋泥啵啵了",
@@ -1283,6 +1299,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 156150,
+      "num": 156150,
+      "word": "差一点就买到真的周大福了",
+      "onboard_time": 1713249018,
+      "rank": 41,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 154693,
       "num": 154693,
       "word": "原来五一只放了一天假",
@@ -1312,6 +1336,14 @@
       "word": "张婧仪昭君出塞",
       "onboard_time": 1713230180,
       "rank": 37,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 148415,
+      "num": 148415,
+      "word": "姚志明爱与不爱的眼神",
+      "onboard_time": 1713249138,
+      "rank": 44,
       "category": "剧集"
     },
     {
