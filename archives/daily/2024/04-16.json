@@ -1,6 +1,6 @@
 {
   "startTime": 1713198119901,
-  "endTime": 1713231173499,
+  "endTime": 1713234281317,
   "band_list": [
     {
       "raw_hot": 2147550,
@@ -8,6 +8,14 @@
       "word": "重庆地铁站被砸孕妇心跳已停2次",
       "onboard_time": 1713226218,
       "rank": 0,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1556990,
+      "num": 1556990,
+      "word": "12306抢票",
+      "onboard_time": 1713229041,
+      "rank": 11,
       "category": "社会新闻"
     },
     {
@@ -27,14 +35,6 @@
       "category": "读书作家"
     },
     {
-      "raw_hot": 1297435,
-      "num": 1297435,
-      "word": "12306抢票",
-      "onboard_time": 1713229041,
-      "rank": 11,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1207479,
       "num": 1001279,
       "word": "男子当众扒光前女友衣服获刑5年",
@@ -51,8 +51,16 @@
       "category": "情感"
     },
     {
-      "raw_hot": 856049,
-      "num": 856049,
+      "raw_hot": 904523,
+      "num": 904523,
+      "word": "A股",
+      "onboard_time": 1713232098,
+      "rank": 3,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 891059,
+      "num": 891059,
       "word": "专家建议增加下半年法定节假日",
       "onboard_time": 1713229399,
       "rank": 31,
@@ -99,6 +107,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 585088,
+      "num": 585088,
+      "word": "因为同事办公室取消五一假期",
+      "onboard_time": 1713228920,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 580944,
       "num": 580944,
       "word": "歌手2024",
@@ -113,6 +129,22 @@
       "onboard_time": 1713190881,
       "rank": 4,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 536184,
+      "num": 521202,
+      "word": "宋鑫",
+      "onboard_time": 1713229581,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 534622,
+      "num": 534622,
+      "word": "韩国人多冷都要喝冰美式",
+      "onboard_time": 1713229939,
+      "rank": 47,
+      "category": "美食"
     },
     {
       "raw_hot": 523301,
@@ -139,12 +171,12 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 475809,
-      "num": 475809,
-      "word": "因为同事办公室取消五一假期",
-      "onboard_time": 1713228920,
-      "rank": 30,
-      "category": "情感"
+      "raw_hot": 480560,
+      "num": 480560,
+      "word": "外交部长王毅同伊朗外长通电话",
+      "onboard_time": 1713230539,
+      "rank": 16,
+      "category": "国内时政"
     },
     {
       "raw_hot": 469562,
@@ -156,7 +188,7 @@
     },
     {
       "raw_hot": 455072,
-      "num": 221684,
+      "num": 356100,
       "word": "数学140分以上就能被知名大学锁定吗",
       "onboard_time": 1713193281,
       "rank": 22,
@@ -227,14 +259,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 384382,
-      "num": 384382,
-      "word": "外交部长王毅同伊朗外长通电话",
-      "onboard_time": 1713230539,
-      "rank": 16,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 384249,
       "num": 277308,
       "word": "71岁保洁被开除后在物业办公室自杀",
@@ -283,6 +307,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 309028,
+      "num": 309028,
+      "word": "春花厌官宣杀青",
+      "onboard_time": 1713232098,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 300266,
       "num": 300266,
       "word": "胡一天演过夏至未至",
@@ -291,12 +323,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 294144,
+      "num": 265638,
+      "word": "皮肤开始变好的7个习惯",
+      "onboard_time": 1713231558,
+      "rank": 20,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 292435,
       "num": 127977,
       "word": "上公厕马桶不垫纸会被传染疾病吗",
       "onboard_time": 1713219733,
       "rank": 30,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 290421,
+      "num": 169503,
+      "word": "指甲店里面的特殊服务",
+      "onboard_time": 1713232818,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 287014,
@@ -347,28 +395,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 267762,
-      "num": 267762,
-      "word": "韩国人多冷都要喝冰美式",
-      "onboard_time": 1713229939,
-      "rank": 47,
-      "category": "美食"
-    },
-    {
       "raw_hot": 257825,
       "num": 257825,
       "word": "陈晓光头颜值",
       "onboard_time": 1713209291,
       "rank": 44,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 250425,
-      "num": 250425,
-      "word": "宋鑫",
-      "onboard_time": 1713229581,
-      "rank": 36,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 244070,
@@ -385,6 +417,14 @@
       "onboard_time": 1713225137,
       "rank": 24,
       "category": "情感"
+    },
+    {
+      "raw_hot": 237719,
+      "num": 237719,
+      "word": "大学生为境外拍军事设施获刑5年",
+      "onboard_time": 1713233118,
+      "rank": 21,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 232716,
@@ -417,6 +457,14 @@
       "onboard_time": 1713193099,
       "rank": 15,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 206487,
+      "num": 206487,
+      "word": "金鹤龙发了迪丽热巴",
+      "onboard_time": 1713233778,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 198925,
@@ -531,6 +579,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 166954,
+      "num": 166954,
+      "word": "白城",
+      "onboard_time": 1713231078,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 162902,
       "num": 162902,
       "word": "切尔西抢点球内讧",
@@ -569,6 +625,22 @@
       "onboard_time": 1713223696,
       "rank": 38,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 157510,
+      "num": 157510,
+      "word": "皮肤科医生教你正确防春敏",
+      "onboard_time": 1713232698,
+      "rank": 32,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 149541,
+      "num": 149541,
+      "word": "花少去电音节了",
+      "onboard_time": 1713231498,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 148429,
@@ -635,6 +707,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 134096,
+      "num": 134096,
+      "word": "一直单身的晚年生活是什么样",
+      "onboard_time": 1713231678,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 131266,
       "num": 131266,
       "word": "朱一龙弹唱海盗船长",
@@ -667,6 +747,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 125004,
+      "num": 125004,
+      "word": "孙颖莎7150分世排第一",
+      "onboard_time": 1713231258,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 123683,
       "num": 123683,
       "word": "IVE 巴啦啦小魔仙",
@@ -683,12 +771,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 121144,
+      "num": 121144,
+      "word": "好像理解古人十二时辰了",
+      "onboard_time": 1713233358,
+      "rank": 44,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 117294,
       "num": 117294,
       "word": "为什么女生比男生更容易长痘",
       "onboard_time": 1713191480,
       "rank": 37,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 117178,
+      "num": 117178,
+      "word": "公共场所能有多脏",
+      "onboard_time": 1713233838,
+      "rank": 45,
+      "category": "情感"
     },
     {
       "raw_hot": 116431,
@@ -747,6 +851,22 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 109605,
+      "num": 109605,
+      "word": "大屏上的林俊杰",
+      "onboard_time": 1713232637,
+      "rank": 48,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 108363,
+      "num": 108363,
+      "word": "2024一季度GDP同比增长5.3%",
+      "onboard_time": 1713234257,
+      "rank": 49,
+      "category": "财经"
+    },
+    {
       "raw_hot": 108168,
       "num": 108168,
       "word": "阚清子21岁至36岁颜值变化",
@@ -761,14 +881,6 @@
       "onboard_time": 1713189859,
       "rank": 43,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 103511,
-      "num": 103511,
-      "word": "白城",
-      "onboard_time": 1713231078,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 97839,
