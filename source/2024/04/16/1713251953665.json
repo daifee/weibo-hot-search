@@ -1,0 +1,410 @@
+{
+  "runTime": 1713251953665,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1204702,
+        "num": 1204702,
+        "word": "花近30万开甘肃麻辣烫18天关门",
+        "onboard_time": 1713247878,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 916781,
+        "num": 916781,
+        "word": "徐正溪退圈声明后现身片场",
+        "onboard_time": 1713243260,
+        "rank": 1,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 30250,
+        "num": 684687,
+        "word": "数字丝路发展论坛",
+        "onboard_time": 1713241458,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1325156,
+        "num": 667829,
+        "word": "近期4位不满14周岁未成年被判刑",
+        "onboard_time": 1713246378,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 648782,
+        "num": 648782,
+        "word": "林依晨称母亲一直想让自己退出娱乐圈",
+        "onboard_time": 1713246438,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 525058,
+        "num": 525058,
+        "word": "看似很爽其实很伤身体的行为",
+        "onboard_time": 1713243019,
+        "rank": 5,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 461406,
+        "num": 461406,
+        "word": "AJ被强制下播",
+        "onboard_time": 1713247098,
+        "rank": 6,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 439861,
+        "num": 439861,
+        "word": "权恩妃购买24亿韩元住宅",
+        "onboard_time": 1713250157,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 361549,
+        "num": 361549,
+        "word": "刚出道了15天的爱豆",
+        "onboard_time": 1713242299,
+        "rank": 8,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 75874,
+        "num": 357921,
+        "word": "王楚钦澳门世界杯现场大图",
+        "onboard_time": 1713242359,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 816660,
+        "num": 357410,
+        "word": "鹿晗王勉梦到五哈不录了",
+        "onboard_time": 1713250340,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 557753,
+        "num": 356664,
+        "word": "iPhone16价格",
+        "onboard_time": 1713241099,
+        "rank": 11,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 354852,
+        "num": 354852,
+        "word": "小新被爆家暴出轨",
+        "onboard_time": 1713191599,
+        "rank": 12,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 352720,
+        "num": 352720,
+        "word": "小新被WE开除",
+        "onboard_time": 1713245718,
+        "rank": 13,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 345453,
+        "num": 345453,
+        "word": "哈尔滨一九四四 三星联播",
+        "onboard_time": 1713250638,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 309881,
+        "num": 309881,
+        "word": "金秀贤剧本上有金智媛贴纸",
+        "onboard_time": 1713251118,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 308630,
+        "num": 308630,
+        "word": "A股",
+        "onboard_time": 1713232098,
+        "rank": 16,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 299101,
+        "num": 299101,
+        "word": "重庆地铁站被砸孕妇心跳已停2次",
+        "onboard_time": 1713226218,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 294029,
+        "num": 294029,
+        "word": "权志龙将下半年solo回归",
+        "onboard_time": 1713246737,
+        "rank": 18,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 251261,
+        "num": 251261,
+        "word": "金莎孙丞潇又合体录综艺了",
+        "onboard_time": 1713247398,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 588246,
+        "num": 251257,
+        "word": "工资4千和6千真的能存到钱吗",
+        "onboard_time": 1713247219,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 485674,
+        "num": 251067,
+        "word": "原来五千块钱真的很难存",
+        "onboard_time": 1713248658,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 362175,
+        "num": 250800,
+        "word": "长期喝咖啡身体会变成什么样",
+        "onboard_time": 1713250758,
+        "rank": 22,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 277511,
+        "num": 250760,
+        "word": "决定关掉朋友圈了",
+        "onboard_time": 1713249617,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 250601,
+        "num": 250601,
+        "word": "12306 秒没",
+        "onboard_time": 1713251296,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 244879,
+        "num": 244879,
+        "word": "义乌人已经开始赚巴黎奥运会的钱了",
+        "onboard_time": 1713238759,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 239865,
+        "num": 239865,
+        "word": "欧阳娜娜回应加油鹿小葵",
+        "onboard_time": 1713248598,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 225840,
+        "num": 225840,
+        "word": "供电所领导被举报勾引已婚女士",
+        "onboard_time": 1713249920,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 221219,
+        "num": 221219,
+        "word": "贾玲杀青影像给我看哭了",
+        "onboard_time": 1713240379,
+        "rank": 28,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 215069,
+        "num": 217579,
+        "word": "重庆轨道交通通报孕妇被墙面脱落物砸伤",
+        "onboard_time": 1713250458,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 215700,
+        "num": 215700,
+        "word": "大家都是确定结婚了再求婚吗",
+        "onboard_time": 1713249798,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 215538,
+        "num": 215538,
+        "word": "雷军称小米SU7订单远超最乐观预期",
+        "onboard_time": 1713248237,
+        "rank": 31,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 214794,
+        "num": 214794,
+        "word": "iPhone16Pro起步存储或为256GB",
+        "onboard_time": 1713238699,
+        "rank": 32,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 207644,
+        "num": 207644,
+        "word": "跳12分钟等于运动1小时",
+        "onboard_time": 1713246497,
+        "rank": 33,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 206816,
+        "num": 206816,
+        "word": "陈楚生要在音综开嗓了",
+        "onboard_time": 1713251538,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 193750,
+        "num": 193750,
+        "word": "差一点就买到真的周大福了",
+        "onboard_time": 1713249018,
+        "rank": 35,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 190584,
+        "num": 190584,
+        "word": "要了男生微信但他有女朋友",
+        "onboard_time": 1713242001,
+        "rank": 36,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 189380,
+        "num": 189380,
+        "word": "无期迷途 还不开门",
+        "onboard_time": 1713250458,
+        "rank": 37,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 183532,
+        "num": 183532,
+        "word": "微盘股指数大跌10%",
+        "onboard_time": 1713251477,
+        "rank": 38,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 178247,
+        "num": 178247,
+        "word": "夏之光美高制服",
+        "onboard_time": 1713250577,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 153093,
+        "num": 153093,
+        "word": "范湉湉 我就想当影后",
+        "onboard_time": 1713251898,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 153051,
+        "num": 153051,
+        "word": "我爸直接把我考研成绩发到家族群",
+        "onboard_time": 1713238278,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 152799,
+        "num": 152799,
+        "word": "豹豹猫猫",
+        "onboard_time": 1713240860,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 148202,
+        "num": 148202,
+        "word": "陶昕然节目里哭到爆青筋",
+        "onboard_time": 1713244339,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 147430,
+        "num": 147430,
+        "word": "一个月从100斤减到120斤的秘诀",
+        "onboard_time": 1713240320,
+        "rank": 44,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 143351,
+        "num": 143351,
+        "word": "骑警掏枪出来时震惊到我了",
+        "onboard_time": 1713249739,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 139619,
+        "num": 139619,
+        "word": "12306抢票",
+        "onboard_time": 1713229041,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 134562,
+        "num": 134562,
+        "word": "一夜承明婚后生活具象化",
+        "onboard_time": 1713244040,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 130665,
+        "num": 130665,
+        "word": "股市",
+        "onboard_time": 1713238037,
+        "rank": 48,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 130481,
+        "num": 130481,
+        "word": "专家称适龄生育有助于预防疾病",
+        "onboard_time": 1713245239,
+        "rank": 49,
+        "category": "健康医疗"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平会见德国总理朔尔茨#"
+    }
+  }
+}
