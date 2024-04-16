@@ -1,0 +1,410 @@
+{
+  "runTime": 1713274500814,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1514623,
+        "num": 1514623,
+        "word": "歌手2024 张元英",
+        "onboard_time": 1713268578,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 860569,
+        "num": 860569,
+        "word": "歌手阵容",
+        "onboard_time": 1713270379,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 29571,
+        "num": 792538,
+        "word": "云逛广交会",
+        "onboard_time": 1713258019,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 725024,
+        "num": 725024,
+        "word": "单依纯",
+        "onboard_time": 1713272418,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 673892,
+        "num": 673892,
+        "word": "何炅杨蓉终于要有感情线了吗",
+        "onboard_time": 1713269478,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 669253,
+        "num": 669253,
+        "word": "12306 秒没",
+        "onboard_time": 1713251296,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 668517,
+        "num": 668517,
+        "word": "微信状态真的很好用",
+        "onboard_time": 1713265278,
+        "rank": 6,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 607587,
+        "num": 607587,
+        "word": "金秘书为何那样",
+        "onboard_time": 1713267978,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 537176,
+        "num": 537176,
+        "word": "弟弟从没提过他的朋友坐轮椅",
+        "onboard_time": 1713269358,
+        "rank": 8,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 228283,
+        "num": 495776,
+        "word": "女生连做11个原地云里震惊全场",
+        "onboard_time": 1713261019,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 466640,
+        "num": 466640,
+        "word": "许凯发了杨紫",
+        "onboard_time": 1713270680,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 448070,
+        "num": 448070,
+        "word": "因为拒绝相亲被我爸拉黑了",
+        "onboard_time": 1713269120,
+        "rank": 11,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 393962,
+        "num": 393962,
+        "word": "张艺兴抵达韩国",
+        "onboard_time": 1713270859,
+        "rank": 12,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 361232,
+        "num": 361232,
+        "word": "中医建议皮肤变好的方法",
+        "onboard_time": 1713256339,
+        "rank": 13,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 357101,
+        "num": 357101,
+        "word": "谁能演金秘书",
+        "onboard_time": 1713270439,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 273869,
+        "num": 273869,
+        "word": "牛骏峰回应陪杨紫演",
+        "onboard_time": 1713268157,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 264837,
+        "num": 264837,
+        "word": "热辣滚烫打假",
+        "onboard_time": 1713269120,
+        "rank": 16,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 254883,
+        "num": 254883,
+        "word": "方程豹",
+        "onboard_time": 1713270439,
+        "rank": 17,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 228056,
+        "num": 250729,
+        "word": "车票候补",
+        "onboard_time": 1713273380,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 212998,
+        "num": 250177,
+        "word": "门科",
+        "onboard_time": 1713271819,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 522978,
+        "num": 242884,
+        "word": "沈月工作暂停先消失十天",
+        "onboard_time": 1713264558,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 309823,
+        "num": 237171,
+        "word": "结婚后感觉爸妈对我的态度变了",
+        "onboard_time": 1713270557,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 237065,
+        "num": 237065,
+        "word": "林更新吴奇隆刘诗诗合影旧照",
+        "onboard_time": 1713271458,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 229860,
+        "num": 229860,
+        "word": "女子入住81层酒店吓到趴地",
+        "onboard_time": 1713264199,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 224852,
+        "num": 224852,
+        "word": "上班后才明白双休有多重要",
+        "onboard_time": 1713273258,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 208080,
+        "num": 208080,
+        "word": "安宰贤和素人合影被问吃大蒜了吗",
+        "onboard_time": 1713267079,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 195743,
+        "num": 195743,
+        "word": "颜值很高但难吃的食物",
+        "onboard_time": 1713269120,
+        "rank": 26,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 111850,
+        "num": 187248,
+        "word": "方程豹全家桶",
+        "onboard_time": 1713273320,
+        "rank": 27,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 208786,
+        "num": 187002,
+        "word": "林更新王俊凯彭于晏旧照",
+        "onboard_time": 1713272600,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 180947,
+        "num": 180947,
+        "word": "公务员和研究生都考上了怎么选择",
+        "onboard_time": 1713262218,
+        "rank": 29,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 192682,
+        "num": 179208,
+        "word": "不够善良的我们 双缝干涉实验",
+        "onboard_time": 1713271578,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 176868,
+        "num": 176868,
+        "word": "工作三年还经常崩溃大哭",
+        "onboard_time": 1713271940,
+        "rank": 31,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 172762,
+        "num": 172762,
+        "word": "杨紫和牛骏峰是发小",
+        "onboard_time": 1713267618,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 170576,
+        "num": 170576,
+        "word": "济南通报两公交相撞事故",
+        "onboard_time": 1713271578,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 168472,
+        "num": 168472,
+        "word": "马克龙说巴黎奥运会开幕式存在B计划",
+        "onboard_time": 1713266478,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 166361,
+        "num": 166361,
+        "word": "杨幂首部反派女主",
+        "onboard_time": 1713265458,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 165944,
+        "num": 165944,
+        "word": "为什么现在酒店退房都不查房了",
+        "onboard_time": 1713267139,
+        "rank": 36,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 163039,
+        "num": 163039,
+        "word": "孙颖莎王楚钦登顶第一",
+        "onboard_time": 1713269898,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 161622,
+        "num": 161622,
+        "word": "央广网评阿姨吐槽年轻人卧铺挂帘",
+        "onboard_time": 1713254419,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 157955,
+        "num": 157955,
+        "word": "12306回应五一车票秒没",
+        "onboard_time": 1713274098,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 157191,
+        "num": 157191,
+        "word": "服务区偶遇王一博",
+        "onboard_time": 1713264498,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 148662,
+        "num": 148662,
+        "word": "李一桐手臂纹身",
+        "onboard_time": 1713267438,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 147496,
+        "num": 147496,
+        "word": "薛之谦演唱会眼镜哥被质疑系策划",
+        "onboard_time": 1713274266,
+        "rank": 42,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 141513,
+        "num": 141513,
+        "word": "赵薇名下所持股权再遭冻结",
+        "onboard_time": 1713256998,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 140293,
+        "num": 140293,
+        "word": "工资4千和6千真的能存到钱吗",
+        "onboard_time": 1713247219,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 139365,
+        "num": 139365,
+        "word": "领证了家里不让住一起",
+        "onboard_time": 1713266117,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 138079,
+        "num": 138079,
+        "word": "澳门世界杯",
+        "onboard_time": 1713272600,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 126792,
+        "num": 126792,
+        "word": "许凯演技",
+        "onboard_time": 1713273139,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 126578,
+        "num": 126578,
+        "word": "调休把生活节奏调的稀巴烂",
+        "onboard_time": 1713273018,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 103745,
+        "num": 103745,
+        "word": "我的孩子 皇上",
+        "onboard_time": 1713271699,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#中德合作对双方有利对世界有利#"
+    }
+  }
+}
