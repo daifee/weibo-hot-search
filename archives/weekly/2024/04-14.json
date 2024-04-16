@@ -1,6 +1,6 @@
 {
   "startTime": 1713025251708,
-  "endTime": 1713234281317,
+  "endTime": 1713234950880,
   "band_list": [
     {
       "raw_hot": 3410457,
@@ -147,20 +147,20 @@
       "category": "电影"
     },
     {
+      "raw_hot": 1649233,
+      "num": 1649233,
+      "word": "12306抢票",
+      "onboard_time": 1713229041,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1601825,
       "num": 1601825,
       "word": "拜登回应伊朗袭击以色列",
       "onboard_time": 1713052756,
       "rank": 1,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 1556990,
-      "num": 1556990,
-      "word": "12306抢票",
-      "onboard_time": 1713229041,
-      "rank": 11,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1384101,
@@ -875,6 +875,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 621174,
+      "num": 621174,
+      "word": "韩国人多冷都要喝冰美式",
+      "onboard_time": 1713229939,
+      "rank": 47,
+      "category": "美食"
+    },
+    {
       "raw_hot": 620377,
       "num": 429970,
       "word": "吉林白城医专",
@@ -913,6 +921,14 @@
       "onboard_time": 1713094159,
       "rank": 12,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 601903,
+      "num": 551503,
+      "word": "宋鑫",
+      "onboard_time": 1713229581,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 600514,
@@ -1083,22 +1099,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 536184,
-      "num": 521202,
-      "word": "宋鑫",
-      "onboard_time": 1713229581,
-      "rank": 36,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 534622,
-      "num": 534622,
-      "word": "韩国人多冷都要喝冰美式",
-      "onboard_time": 1713229939,
-      "rank": 47,
-      "category": "美食"
-    },
-    {
       "raw_hot": 530269,
       "num": 530269,
       "word": "王祖蓝在香港被放假的广西人包围了",
@@ -1220,7 +1220,7 @@
     },
     {
       "raw_hot": 503703,
-      "num": 356100,
+      "num": 389218,
       "word": "数学140分以上就能被知名大学锁定吗",
       "onboard_time": 1713193281,
       "rank": 22,
@@ -1723,6 +1723,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 387166,
+      "num": 387166,
+      "word": "2024一季度GDP同比增长5.3%",
+      "onboard_time": 1713234257,
+      "rank": 49,
+      "category": "财经"
+    },
+    {
       "raw_hot": 386988,
       "num": 217160,
       "word": "伊朗驻联合国代表团发表声明",
@@ -2035,6 +2043,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 331136,
+      "num": 331136,
+      "word": "春花厌官宣杀青",
+      "onboard_time": 1713232098,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 326324,
+      "num": 242100,
+      "word": "金鹤龙发了迪丽热巴",
+      "onboard_time": 1713233778,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 326168,
       "num": 326168,
       "word": "AI眼里月薪1到1亿元的工作",
@@ -2203,14 +2227,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 309028,
-      "num": 309028,
-      "word": "春花厌官宣杀青",
-      "onboard_time": 1713232098,
-      "rank": 18,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 308121,
       "num": 308121,
       "word": "张馨予瘦10斤的拍照教程",
@@ -2249,6 +2265,14 @@
       "onboard_time": 1713142759,
       "rank": 16,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 301783,
+      "num": 301783,
+      "word": "皮肤开始变好的7个习惯",
+      "onboard_time": 1713231558,
+      "rank": 20,
+      "category": "美妆"
     },
     {
       "raw_hot": 300649,
@@ -2337,14 +2361,6 @@
       "onboard_time": 1713067998,
       "rank": 28,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 294144,
-      "num": 265638,
-      "word": "皮肤开始变好的7个习惯",
-      "onboard_time": 1713231558,
-      "rank": 20,
-      "category": "美妆"
     },
     {
       "raw_hot": 292435,
@@ -2843,6 +2859,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 243574,
+      "num": 243574,
+      "word": "极限挑战第十季X官宣",
+      "onboard_time": 1713234318,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 242860,
       "num": 242860,
       "word": "赵丽颖的事业粉狂喜",
@@ -2907,8 +2931,8 @@
       "category": "情感"
     },
     {
-      "raw_hot": 237719,
-      "num": 237719,
+      "raw_hot": 238186,
+      "num": 238186,
       "word": "大学生为境外拍军事设施获刑5年",
       "onboard_time": 1713233118,
       "rank": 21,
@@ -3371,14 +3395,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 206487,
-      "num": 206487,
-      "word": "金鹤龙发了迪丽热巴",
-      "onboard_time": 1713233778,
-      "rank": 23,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 205725,
       "num": 205725,
       "word": "胡一天张婧仪像拍晋江封面",
@@ -3595,6 +3611,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 197174,
+      "num": 197174,
+      "word": "网友上海偶遇老默冯兵低调干跑腿",
+      "onboard_time": 1713234738,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 196982,
       "num": 196982,
       "word": "田曦薇配音宫崎骏女孩苏菲",
@@ -3713,6 +3737,22 @@
       "onboard_time": 1713106039,
       "rank": 42,
       "category": "电影"
+    },
+    {
+      "raw_hot": 190501,
+      "num": 190501,
+      "word": "极限挑战定档0421",
+      "onboard_time": 1713234379,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 190235,
+      "num": 190235,
+      "word": "GDP",
+      "onboard_time": 1713234558,
+      "rank": 27,
+      "category": "财经"
     },
     {
       "raw_hot": 189499,
@@ -4283,6 +4323,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 162206,
+      "num": 162206,
+      "word": "皮肤科医生教你正确防春敏",
+      "onboard_time": 1713232698,
+      "rank": 32,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 162099,
       "num": 162099,
       "word": "勒沃库森首夺德甲冠军",
@@ -4331,6 +4379,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 161498,
+      "num": 161498,
+      "word": "楚国王级大墓考古新进展",
+      "onboard_time": 1713234497,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 161376,
       "num": 161376,
       "word": "种地吧直播",
@@ -4369,6 +4425,14 @@
       "onboard_time": 1713184278,
       "rank": 35,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 158928,
+      "num": 158928,
+      "word": "周深蜃楼MV",
+      "onboard_time": 1713234618,
+      "rank": 34,
+      "category": "音乐"
     },
     {
       "raw_hot": 158719,
@@ -4417,14 +4481,6 @@
       "onboard_time": 1713065419,
       "rank": 41,
       "category": "情感"
-    },
-    {
-      "raw_hot": 157510,
-      "num": 157510,
-      "word": "皮肤科医生教你正确防春敏",
-      "onboard_time": 1713232698,
-      "rank": 32,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 157266,
@@ -4561,6 +4617,14 @@
       "onboard_time": 1713188719,
       "rank": 41,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 153208,
+      "num": 153208,
+      "word": "一直单身的晚年生活是什么样",
+      "onboard_time": 1713231678,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 152371,
@@ -4947,6 +5011,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 138051,
+      "num": 138051,
+      "word": "谈恋爱就像拔河",
+      "onboard_time": 1713234618,
+      "rank": 42,
+      "category": "情感"
+    },
+    {
       "raw_hot": 137906,
       "num": 137906,
       "word": "小米SU7碰撞测试",
@@ -5025,14 +5097,6 @@
       "onboard_time": 1713159978,
       "rank": 44,
       "category": "演出"
-    },
-    {
-      "raw_hot": 134096,
-      "num": 134096,
-      "word": "一直单身的晚年生活是什么样",
-      "onboard_time": 1713231678,
-      "rank": 41,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 133960,
@@ -5299,6 +5363,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 121154,
+      "num": 121154,
+      "word": "种地吧每日直播",
+      "onboard_time": 1713234917,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 121144,
       "num": 121144,
       "word": "好像理解古人十二时辰了",
@@ -5497,14 +5569,6 @@
       "onboard_time": 1713183139,
       "rank": 47,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 108363,
-      "num": 108363,
-      "word": "2024一季度GDP同比增长5.3%",
-      "onboard_time": 1713234257,
-      "rank": 49,
-      "category": "财经"
     },
     {
       "raw_hot": 108041,

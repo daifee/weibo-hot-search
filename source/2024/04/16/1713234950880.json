@@ -1,0 +1,410 @@
+{
+  "runTime": 1713234950880,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1649233,
+        "num": 1649233,
+        "word": "12306抢票",
+        "onboard_time": 1713229041,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1196606,
+        "num": 1196606,
+        "word": "重庆地铁站被砸孕妇心跳已停2次",
+        "onboard_time": 1713226218,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 17127,
+        "num": 1028605,
+        "word": "汇聚起维护国家安全的强大力量",
+        "onboard_time": 1713187099,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 864795,
+        "num": 864795,
+        "word": "专家建议增加下半年法定节假日",
+        "onboard_time": 1713229399,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 803312,
+        "num": 803312,
+        "word": "A股",
+        "onboard_time": 1713232098,
+        "rank": 4,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 621174,
+        "num": 621174,
+        "word": "韩国人多冷都要喝冰美式",
+        "onboard_time": 1713229939,
+        "rank": 5,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 621080,
+        "num": 621080,
+        "word": "男子当众扒光前女友衣服获刑5年",
+        "onboard_time": 1713207971,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 578349,
+        "num": 578349,
+        "word": "38岁单身无娃的女性生活",
+        "onboard_time": 1713226218,
+        "rank": 7,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 555541,
+        "num": 555541,
+        "word": "因为同事办公室取消五一假期",
+        "onboard_time": 1713228920,
+        "rank": 8,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 142339,
+        "num": 552191,
+        "word": "45岁儿子决定和妈妈重新认识一次",
+        "onboard_time": 1713214150,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 985343,
+        "num": 551781,
+        "word": "小新被爆家暴出轨",
+        "onboard_time": 1713191599,
+        "rank": 10,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 601903,
+        "num": 551503,
+        "word": "宋鑫",
+        "onboard_time": 1713229581,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 551143,
+        "num": 551143,
+        "word": "歌手2024",
+        "onboard_time": 1713227058,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 451708,
+        "num": 451708,
+        "word": "莫言和余华的微信头像",
+        "onboard_time": 1713225498,
+        "rank": 13,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 438317,
+        "num": 438317,
+        "word": "外交部长王毅同伊朗外长通电话",
+        "onboard_time": 1713230539,
+        "rank": 14,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 410797,
+        "num": 410797,
+        "word": "胃癌的发生是一个长期的过程",
+        "onboard_time": 1713223577,
+        "rank": 15,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 389218,
+        "num": 389218,
+        "word": "数学140分以上就能被知名大学锁定吗",
+        "onboard_time": 1713193281,
+        "rank": 16,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 387166,
+        "num": 387166,
+        "word": "2024一季度GDP同比增长5.3%",
+        "onboard_time": 1713234257,
+        "rank": 17,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 359717,
+        "num": 359717,
+        "word": "安慕希 迪丽热巴",
+        "onboard_time": 1713227599,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 331136,
+        "num": 331136,
+        "word": "春花厌官宣杀青",
+        "onboard_time": 1713232098,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 301783,
+        "num": 301783,
+        "word": "皮肤开始变好的7个习惯",
+        "onboard_time": 1713231558,
+        "rank": 20,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 243574,
+        "num": 243574,
+        "word": "极限挑战第十季X官宣",
+        "onboard_time": 1713234318,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 242726,
+        "num": 242726,
+        "word": "胖东来回应爆改长沙步步高超市",
+        "onboard_time": 1713226519,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 326324,
+        "num": 242100,
+        "word": "金鹤龙发了迪丽热巴",
+        "onboard_time": 1713233778,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 238186,
+        "num": 238186,
+        "word": "大学生为境外拍军事设施获刑5年",
+        "onboard_time": 1713233118,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 197174,
+        "num": 197174,
+        "word": "网友上海偶遇老默冯兵低调干跑腿",
+        "onboard_time": 1713234738,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 190501,
+        "num": 190501,
+        "word": "极限挑战定档0421",
+        "onboard_time": 1713234379,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 190235,
+        "num": 190235,
+        "word": "GDP",
+        "onboard_time": 1713234558,
+        "rank": 27,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 187390,
+        "num": 187390,
+        "word": "十六岁才是读博的好年龄",
+        "onboard_time": 1713228620,
+        "rank": 28,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 165434,
+        "num": 165434,
+        "word": "为了不给弟弟买车我自己买了辆车",
+        "onboard_time": 1713228620,
+        "rank": 29,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 276804,
+        "num": 164851,
+        "word": "指甲店里面的特殊服务",
+        "onboard_time": 1713232818,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 162206,
+        "num": 162206,
+        "word": "皮肤科医生教你正确防春敏",
+        "onboard_time": 1713232698,
+        "rank": 31,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 161990,
+        "num": 161990,
+        "word": "白城",
+        "onboard_time": 1713231078,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 161498,
+        "num": 161498,
+        "word": "楚国王级大墓考古新进展",
+        "onboard_time": 1713234497,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 158928,
+        "num": 158928,
+        "word": "周深蜃楼MV",
+        "onboard_time": 1713234618,
+        "rank": 34,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 153208,
+        "num": 153208,
+        "word": "一直单身的晚年生活是什么样",
+        "onboard_time": 1713231678,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 149409,
+        "num": 149409,
+        "word": "赵一博打游戏",
+        "onboard_time": 1713228380,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 148977,
+        "num": 148977,
+        "word": "12306回应年轻人卧铺挂帘子老人没地坐",
+        "onboard_time": 1713181038,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 148179,
+        "num": 148179,
+        "word": "iPhone16Pro系列或有30项优化",
+        "onboard_time": 1713224477,
+        "rank": 38,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 145054,
+        "num": 145054,
+        "word": "宋亚轩刘耀文一起逛超市",
+        "onboard_time": 1713226098,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 141938,
+        "num": 141938,
+        "word": "花少去电音节了",
+        "onboard_time": 1713231498,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 140472,
+        "num": 140472,
+        "word": "詹杜库联手出战巴黎奥运会",
+        "onboard_time": 1713230719,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 138051,
+        "num": 138051,
+        "word": "谈恋爱就像拔河",
+        "onboard_time": 1713234618,
+        "rank": 42,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 135362,
+        "num": 135362,
+        "word": "体检查出甲状腺结节切勿盲目手术",
+        "onboard_time": 1713227000,
+        "rank": 43,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 133817,
+        "num": 133817,
+        "word": "张婧仪昭君出塞",
+        "onboard_time": 1713230180,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 133225,
+        "num": 133225,
+        "word": "爸爸去世前的搜索记录",
+        "onboard_time": 1713228019,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 130990,
+        "num": 130990,
+        "word": "泼水节警察叔叔和他没满月的小水枪",
+        "onboard_time": 1713230478,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 126659,
+        "num": 126659,
+        "word": "熬夜玩手机的人的特征",
+        "onboard_time": 1713226819,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 121154,
+        "num": 121154,
+        "word": "种地吧每日直播",
+        "onboard_time": 1713234917,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 118598,
+        "num": 118598,
+        "word": "胡一天演过夏至未至",
+        "onboard_time": 1713226338,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#坚定不移贯彻总体国家安全观#"
+    }
+  }
+}
