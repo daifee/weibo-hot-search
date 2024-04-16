@@ -1,6 +1,6 @@
 {
   "startTime": 1713284571046,
-  "endTime": 1713298716376,
+  "endTime": 1713299676281,
   "band_list": [
     {
       "raw_hot": 843050,
@@ -435,6 +435,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 45597,
+      "num": 45597,
+      "word": "得知邻居是欠债潜逃者后小岛居民选择这样做",
+      "onboard_time": 1713296471,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 44932,
       "num": 44932,
       "word": "霉霉新专辑",
@@ -451,20 +459,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 44524,
+      "num": 44524,
+      "word": "巴萨vs巴黎",
+      "onboard_time": 1713294072,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
       "raw_hot": 43987,
       "num": 43987,
       "word": "冯德伦晒旧照为老婆舒淇庆生",
       "onboard_time": 1713288433,
       "rank": 41,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 43841,
-      "num": 43841,
-      "word": "巴萨vs巴黎",
-      "onboard_time": 1713294072,
-      "rank": 28,
-      "category": "体育"
     },
     {
       "raw_hot": 40247,
@@ -489,6 +497,14 @@
       "onboard_time": 1713290653,
       "rank": 32,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 35902,
+      "num": 23091,
+      "word": "睡觉时不能脚朝西头朝东吗",
+      "onboard_time": 1713297612,
+      "rank": 21,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 32034,
@@ -523,12 +539,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 26353,
-      "num": 23091,
-      "word": "睡觉时不能脚朝西头朝东吗",
-      "onboard_time": 1713297612,
-      "rank": 21,
-      "category": "健康医疗"
+      "raw_hot": 20713,
+      "num": 19186,
+      "word": "胎儿在母亲体内长大的过程",
+      "onboard_time": 1713297131,
+      "rank": 31,
+      "category": "母婴育儿"
+    },
+    {
+      "raw_hot": 19837,
+      "num": 19837,
+      "word": "王一博奥运会资格赛系列赛VCR",
+      "onboard_time": 1713298451,
+      "rank": 45,
+      "category": "艺人,体育"
     },
     {
       "raw_hot": 19247,
@@ -539,36 +563,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 19186,
-      "num": 19186,
-      "word": "胎儿在母亲体内长大的过程",
-      "onboard_time": 1713297131,
-      "rank": 31,
-      "category": "母婴育儿"
-    },
-    {
-      "raw_hot": 18760,
-      "num": 30084,
-      "word": "得知邻居是欠债潜逃者后小岛居民选择这样做",
-      "onboard_time": 1713296471,
-      "rank": 11,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 17241,
       "num": 37433,
       "word": "97岁国乒球迷奶奶最爱孙颖莎",
       "onboard_time": 1713288734,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 14726,
-      "num": 14726,
-      "word": "王一博奥运会资格赛系列赛VCR",
-      "onboard_time": 1713298451,
-      "rank": 45,
-      "category": "艺人,体育"
     },
     {
       "raw_hot": 13197,
