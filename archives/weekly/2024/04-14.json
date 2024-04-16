@@ -1,6 +1,6 @@
 {
   "startTime": 1713025251708,
-  "endTime": 1713263687671,
+  "endTime": 1713266116572,
   "band_list": [
     {
       "raw_hot": 3410457,
@@ -1763,12 +1763,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 448725,
+      "num": 448725,
+      "word": "第一次见用转场替男女主圆房的",
+      "onboard_time": 1713263779,
+      "rank": 3,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 447768,
       "num": 447768,
       "word": "眼泪女王",
       "onboard_time": 1713012018,
       "rank": 42,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 447766,
+      "num": 447766,
+      "word": "林俊杰 爱情修不明白",
+      "onboard_time": 1713262277,
+      "rank": 25,
+      "category": "演出"
     },
     {
       "raw_hot": 444205,
@@ -1873,6 +1889,14 @@
       "onboard_time": 1713166577,
       "rank": 7,
       "category": "演出"
+    },
+    {
+      "raw_hot": 431633,
+      "num": 431633,
+      "word": "沈月要见到微信头像林更新了",
+      "onboard_time": 1713262757,
+      "rank": 13,
+      "category": "综艺"
     },
     {
       "raw_hot": 431482,
@@ -1987,12 +2011,12 @@
       "category": "财经"
     },
     {
-      "raw_hot": 412814,
-      "num": 378362,
-      "word": "沈月要见到微信头像林更新了",
-      "onboard_time": 1713262757,
-      "rank": 13,
-      "category": "综艺"
+      "raw_hot": 410902,
+      "num": 410902,
+      "word": "女生连做11个原地云里震惊全场",
+      "onboard_time": 1713261019,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 407143,
@@ -2123,6 +2147,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 388318,
+      "num": 378848,
+      "word": "沈月工作暂停先消失十天",
+      "onboard_time": 1713264558,
+      "rank": 11,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 386988,
       "num": 217160,
       "word": "伊朗驻联合国代表团发表声明",
@@ -2153,14 +2185,6 @@
       "onboard_time": 1713250638,
       "rank": 14,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 382909,
-      "num": 382909,
-      "word": "女生连做11个原地云里震惊全场",
-      "onboard_time": 1713261019,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 382209,
@@ -2195,20 +2219,20 @@
       "category": "财经"
     },
     {
+      "raw_hot": 379599,
+      "num": 379599,
+      "word": "服务区偶遇王一博",
+      "onboard_time": 1713264498,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 378468,
       "num": 378468,
       "word": "鹿晗这奖婉拒了哈",
       "onboard_time": 1713255918,
       "rank": 18,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 378201,
-      "num": 378201,
-      "word": "林俊杰 爱情修不明白",
-      "onboard_time": 1713262277,
-      "rank": 25,
-      "category": "演出"
     },
     {
       "raw_hot": 377266,
@@ -2243,6 +2267,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 376696,
+      "num": 359336,
+      "word": "刘诗诗的男主们参加同一档综艺",
+      "onboard_time": 1713263118,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 376281,
       "num": 253267,
       "word": "小县城为什么没有穿衣自由",
@@ -2268,7 +2300,7 @@
     },
     {
       "raw_hot": 373682,
-      "num": 223673,
+      "num": 235673,
       "word": "公务员和研究生都考上了怎么选择",
       "onboard_time": 1713262218,
       "rank": 22,
@@ -2547,6 +2579,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 328018,
+      "num": 235163,
+      "word": "女子入住81层酒店吓到趴地",
+      "onboard_time": 1713264199,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 326168,
       "num": 326168,
       "word": "AI眼里月薪1到1亿元的工作",
@@ -2649,6 +2689,14 @@
       "onboard_time": 1713054197,
       "rank": 21,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 318384,
+      "num": 318384,
+      "word": "杨幂首部反派女主",
+      "onboard_time": 1713265458,
+      "rank": 16,
+      "category": "剧集"
     },
     {
       "raw_hot": 318307,
@@ -3531,14 +3579,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 242224,
-      "num": 242224,
-      "word": "刘诗诗的男主们参加同一档综艺",
-      "onboard_time": 1713263118,
-      "rank": 17,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 242007,
       "num": 242007,
       "word": "王嘉尔刘雨昕88rising同台",
@@ -3673,6 +3713,14 @@
       "onboard_time": 1713068659,
       "rank": 30,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 233219,
+      "num": 233219,
+      "word": "夏之光好帅",
+      "onboard_time": 1713264980,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 233176,
@@ -3857,6 +3905,14 @@
       "onboard_time": 1713015497,
       "rank": 27,
       "category": "演出"
+    },
+    {
+      "raw_hot": 223210,
+      "num": 223210,
+      "word": "微信状态真的很好用",
+      "onboard_time": 1713265278,
+      "rank": 26,
+      "category": "互联网"
     },
     {
       "raw_hot": 222448,
@@ -5027,6 +5083,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 175497,
+      "num": 175497,
+      "word": "和前任分手的原因是什么",
+      "onboard_time": 1713263779,
+      "rank": 28,
+      "category": "情感"
+    },
+    {
       "raw_hot": 175294,
       "num": 175294,
       "word": "春天可能出现季节性情绪波动",
@@ -5169,6 +5233,14 @@
       "onboard_time": 1713239718,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 170757,
+      "num": 170757,
+      "word": "AJ确认BreatheTarzan加入WBG",
+      "onboard_time": 1713263657,
+      "rank": 48,
+      "category": "电竞"
     },
     {
       "raw_hot": 170515,
@@ -5748,7 +5820,7 @@
     },
     {
       "raw_hot": 153993,
-      "num": 383627,
+      "num": 411488,
       "word": "被淄博小学生的热情戳到了",
       "onboard_time": 1713254659,
       "rank": 9,
@@ -5905,6 +5977,14 @@
       "onboard_time": 1713194420,
       "rank": 44,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 149199,
+      "num": 149199,
+      "word": "水扯面太好吃了",
+      "onboard_time": 1713264617,
+      "rank": 31,
+      "category": "美食"
     },
     {
       "raw_hot": 148714,
@@ -6275,6 +6355,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 137966,
+      "num": 137966,
+      "word": "鹿晗到达广州",
+      "onboard_time": 1713265338,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 137906,
       "num": 137906,
       "word": "小米SU7碰撞测试",
@@ -6379,6 +6467,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 133647,
+      "num": 133647,
+      "word": "原来外国人看英语卷子是这样",
+      "onboard_time": 1713263538,
+      "rank": 47,
+      "category": "情感"
+    },
+    {
       "raw_hot": 133554,
       "num": 133554,
       "word": "第五人格 真理之下",
@@ -6465,6 +6561,14 @@
       "onboard_time": 1713197298,
       "rank": 32,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 131254,
+      "num": 131254,
+      "word": "林更新瑞克与莫蒂手机壳",
+      "onboard_time": 1713264378,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 131146,
@@ -6771,6 +6875,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 118744,
+      "num": 118744,
+      "word": "她来这个家是来享福的",
+      "onboard_time": 1713263419,
+      "rank": 41,
+      "category": "情感"
+    },
+    {
       "raw_hot": 118570,
       "num": 118570,
       "word": "明日方舟嘉年华",
@@ -6803,12 +6915,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 117648,
-      "num": 117648,
-      "word": "她来这个家是来享福的",
-      "onboard_time": 1713263419,
-      "rank": 41,
-      "category": "情感"
+      "raw_hot": 117707,
+      "num": 117707,
+      "word": "头发多久剪一次比较好",
+      "onboard_time": 1713264138,
+      "rank": 44,
+      "category": "美妆"
     },
     {
       "raw_hot": 117178,
@@ -6915,14 +7027,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 110248,
-      "num": 110248,
-      "word": "原来外国人看英语卷子是这样",
-      "onboard_time": 1713263538,
-      "rank": 47,
-      "category": "情感"
-    },
-    {
       "raw_hot": 110016,
       "num": 110016,
       "word": "陈奕迅黄金时代内地首唱",
@@ -6937,14 +7041,6 @@
       "onboard_time": 1713232637,
       "rank": 48,
       "category": "演出"
-    },
-    {
-      "raw_hot": 109537,
-      "num": 109537,
-      "word": "AJ确认BreatheTarzan加入WBG",
-      "onboard_time": 1713263657,
-      "rank": 48,
-      "category": "电竞"
     },
     {
       "raw_hot": 109301,
@@ -6993,6 +7089,14 @@
       "onboard_time": 1713158599,
       "rank": 49,
       "category": "教育"
+    },
+    {
+      "raw_hot": 106524,
+      "num": 106524,
+      "word": "怎么判断自己是不是春敏型皮肤",
+      "onboard_time": 1713265939,
+      "rank": 46,
+      "category": "美妆"
     },
     {
       "raw_hot": 105104,
@@ -7481,6 +7585,14 @@
       "onboard_time": 1713129311,
       "rank": 33,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 35986,
+      "num": 347722,
+      "word": "读书一定要读完吗",
+      "onboard_time": 1713265219,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 35433,

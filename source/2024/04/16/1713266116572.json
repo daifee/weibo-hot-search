@@ -1,0 +1,410 @@
+{
+  "runTime": 1713266116572,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1062458,
+        "num": 1062458,
+        "word": "12306 秒没",
+        "onboard_time": 1713251296,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 843352,
+        "num": 843352,
+        "word": "买到盗版书发现字是手写的",
+        "onboard_time": 1713260179,
+        "rank": 1,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 30079,
+        "num": 625127,
+        "word": "云逛广交会",
+        "onboard_time": 1713258019,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 448725,
+        "num": 448725,
+        "word": "第一次见用转场替男女主圆房的",
+        "onboard_time": 1713263779,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 447766,
+        "num": 447766,
+        "word": "林俊杰 爱情修不明白",
+        "onboard_time": 1713262277,
+        "rank": 4,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 443920,
+        "num": 443920,
+        "word": "赵薇名下所持股权再遭冻结",
+        "onboard_time": 1713256998,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 431633,
+        "num": 431633,
+        "word": "沈月要见到微信头像林更新了",
+        "onboard_time": 1713262757,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 416939,
+        "num": 416939,
+        "word": "中医建议皮肤变好的方法",
+        "onboard_time": 1713256339,
+        "rank": 7,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 93129,
+        "num": 411488,
+        "word": "被淄博小学生的热情戳到了",
+        "onboard_time": 1713254659,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 410902,
+        "num": 410902,
+        "word": "女生连做11个原地云里震惊全场",
+        "onboard_time": 1713261019,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 379599,
+        "num": 379599,
+        "word": "服务区偶遇王一博",
+        "onboard_time": 1713264498,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 388318,
+        "num": 378848,
+        "word": "沈月工作暂停先消失十天",
+        "onboard_time": 1713264558,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 369054,
+        "num": 369054,
+        "word": "杨蓉连续十年给朱一龙庆生",
+        "onboard_time": 1713257838,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 376696,
+        "num": 359336,
+        "word": "刘诗诗的男主们参加同一档综艺",
+        "onboard_time": 1713263118,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 35986,
+        "num": 347722,
+        "word": "读书一定要读完吗",
+        "onboard_time": 1713265219,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 338333,
+        "num": 338333,
+        "word": "央广网评阿姨吐槽年轻人卧铺挂帘",
+        "onboard_time": 1713254419,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 318384,
+        "num": 318384,
+        "word": "杨幂首部反派女主",
+        "onboard_time": 1713265458,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 316486,
+        "num": 316486,
+        "word": "金采源发竖中指视频秒删",
+        "onboard_time": 1713261079,
+        "rank": 17,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 243890,
+        "num": 243890,
+        "word": "花近30万开甘肃麻辣烫18天关门",
+        "onboard_time": 1713247878,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 236528,
+        "num": 236528,
+        "word": "油价",
+        "onboard_time": 1713260420,
+        "rank": 19,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 1057046,
+        "num": 236419,
+        "word": "出操死亡女生家属称已与校方和解",
+        "onboard_time": 1713256878,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 366495,
+        "num": 235673,
+        "word": "公务员和研究生都考上了怎么选择",
+        "onboard_time": 1713262218,
+        "rank": 21,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 328018,
+        "num": 235163,
+        "word": "女子入住81层酒店吓到趴地",
+        "onboard_time": 1713264199,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 264101,
+        "num": 234249,
+        "word": "工资4千和6千真的能存到钱吗",
+        "onboard_time": 1713247219,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 242574,
+        "num": 233528,
+        "word": "林更新吴奇隆综艺重聚",
+        "onboard_time": 1713262157,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 233219,
+        "num": 233219,
+        "word": "夏之光好帅",
+        "onboard_time": 1713264980,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 223210,
+        "num": 223210,
+        "word": "微信状态真的很好用",
+        "onboard_time": 1713265278,
+        "rank": 26,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 207943,
+        "num": 207943,
+        "word": "长期喝咖啡身体会变成什么样",
+        "onboard_time": 1713250758,
+        "rank": 27,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 175497,
+        "num": 175497,
+        "word": "和前任分手的原因是什么",
+        "onboard_time": 1713263779,
+        "rank": 28,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 175398,
+        "num": 175398,
+        "word": "原来五千块钱真的很难存",
+        "onboard_time": 1713248658,
+        "rank": 29,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 170757,
+        "num": 170757,
+        "word": "AJ确认BreatheTarzan加入WBG",
+        "onboard_time": 1713263657,
+        "rank": 30,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 149199,
+        "num": 149199,
+        "word": "水扯面太好吃了",
+        "onboard_time": 1713264617,
+        "rank": 31,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 139337,
+        "num": 139337,
+        "word": "李显龙卸任后将出任新加坡国务资政",
+        "onboard_time": 1713260838,
+        "rank": 32,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 139069,
+        "num": 139069,
+        "word": "定风波 张楠",
+        "onboard_time": 1713262398,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 137966,
+        "num": 137966,
+        "word": "鹿晗到达广州",
+        "onboard_time": 1713265338,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 134655,
+        "num": 134655,
+        "word": "全新始祖鸟内置鞋垫是阿迪达斯",
+        "onboard_time": 1713261499,
+        "rank": 35,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 133647,
+        "num": 133647,
+        "word": "原来外国人看英语卷子是这样",
+        "onboard_time": 1713263538,
+        "rank": 36,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 131636,
+        "num": 131636,
+        "word": "幼态审美入侵纸片人",
+        "onboard_time": 1713252197,
+        "rank": 37,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 131254,
+        "num": 131254,
+        "word": "林更新瑞克与莫蒂手机壳",
+        "onboard_time": 1713264378,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 125729,
+        "num": 125729,
+        "word": "鹿晗这奖婉拒了哈",
+        "onboard_time": 1713255918,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 125079,
+        "num": 125079,
+        "word": "徐正溪退圈声明后现身片场",
+        "onboard_time": 1713243260,
+        "rank": 40,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 118753,
+        "num": 118753,
+        "word": "iPhone16价格",
+        "onboard_time": 1713241099,
+        "rank": 41,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 118744,
+        "num": 118744,
+        "word": "她来这个家是来享福的",
+        "onboard_time": 1713263419,
+        "rank": 42,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 118071,
+        "num": 118071,
+        "word": "看似很爽其实很伤身体的行为",
+        "onboard_time": 1713243019,
+        "rank": 43,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 117707,
+        "num": 117707,
+        "word": "头发多久剪一次比较好",
+        "onboard_time": 1713264138,
+        "rank": 44,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 115876,
+        "num": 115876,
+        "word": "李兰迪张元英撞衫",
+        "onboard_time": 1713256819,
+        "rank": 45,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 106524,
+        "num": 106524,
+        "word": "怎么判断自己是不是春敏型皮肤",
+        "onboard_time": 1713265939,
+        "rank": 46,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 105516,
+        "num": 105516,
+        "word": "张真源以为裤子拉链没拉",
+        "onboard_time": 1713262339,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 104142,
+        "num": 104142,
+        "word": "秦昊杨幂海报",
+        "onboard_time": 1713253937,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 99945,
+        "num": 99945,
+        "word": "于正说片方没定过孔雪儿",
+        "onboard_time": 1713258920,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#中德关系始终稳健发展#"
+    }
+  }
+}
