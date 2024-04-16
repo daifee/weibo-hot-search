@@ -1,6 +1,6 @@
 {
   "startTime": 1713198119901,
-  "endTime": 1713259076136,
+  "endTime": 1713260081010,
   "band_list": [
     {
       "raw_hot": 3144358,
@@ -57,6 +57,14 @@
       "onboard_time": 1713252079,
       "rank": 5,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1412251,
+      "num": 1412251,
+      "word": "出操死亡女生家属称已与校方和解",
+      "onboard_time": 1713256878,
+      "rank": 10,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1352928,
@@ -129,14 +137,6 @@
       "onboard_time": 1713226218,
       "rank": 3,
       "category": "情感"
-    },
-    {
-      "raw_hot": 1010781,
-      "num": 378329,
-      "word": "出操死亡女生家属称已与校方和解",
-      "onboard_time": 1713256878,
-      "rank": 10,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 958358,
@@ -217,6 +217,14 @@
       "onboard_time": 1713252197,
       "rank": 18,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 787279,
+      "num": 787279,
+      "word": "中医建议皮肤变好的方法",
+      "onboard_time": 1713256339,
+      "rank": 41,
+      "category": "美妆"
     },
     {
       "raw_hot": 758090,
@@ -307,12 +315,12 @@
       "category": "美食"
     },
     {
-      "raw_hot": 615286,
-      "num": 615286,
-      "word": "中医建议皮肤变好的方法",
-      "onboard_time": 1713256339,
-      "rank": 41,
-      "category": "美妆"
+      "raw_hot": 616091,
+      "num": 350628,
+      "word": "杨蓉连续十年给朱一龙庆生",
+      "onboard_time": 1713257838,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 601903,
@@ -659,6 +667,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 371844,
+      "num": 371844,
+      "word": "赵露思浴室自拍",
+      "onboard_time": 1713258378,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 366843,
       "num": 366843,
       "word": "光遇复刻",
@@ -699,6 +715,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 349517,
+      "num": 349517,
+      "word": "以色列",
+      "onboard_time": 1713256037,
+      "rank": 19,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 331136,
       "num": 331136,
       "word": "春花厌官宣杀青",
@@ -737,14 +761,6 @@
       "onboard_time": 1713252558,
       "rank": 30,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 319130,
-      "num": 319130,
-      "word": "杨蓉连续十年给朱一龙庆生",
-      "onboard_time": 1713257838,
-      "rank": 16,
-      "category": "艺人"
     },
     {
       "raw_hot": 314911,
@@ -932,7 +948,7 @@
     },
     {
       "raw_hot": 264117,
-      "num": 251600,
+      "num": 251803,
       "word": "李兰迪张元英撞衫",
       "onboard_time": 1713256819,
       "rank": 23,
@@ -961,14 +977,6 @@
       "onboard_time": 1713209291,
       "rank": 44,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 257805,
-      "num": 257805,
-      "word": "以色列",
-      "onboard_time": 1713256037,
-      "rank": 19,
-      "category": "国外时政"
     },
     {
       "raw_hot": 257058,
@@ -1051,6 +1059,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 233176,
+      "num": 233176,
+      "word": "于正说片方没定过孔雪儿",
+      "onboard_time": 1713258920,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 232716,
       "num": 218955,
       "word": "朋友圈点赞这个人数正常嘛",
@@ -1097,14 +1113,6 @@
       "onboard_time": 1713236118,
       "rank": 27,
       "category": "教育"
-    },
-    {
-      "raw_hot": 224302,
-      "num": 224302,
-      "word": "赵露思浴室自拍",
-      "onboard_time": 1713258378,
-      "rank": 25,
-      "category": "艺人"
     },
     {
       "raw_hot": 220128,
@@ -1275,6 +1283,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 202271,
+      "num": 202271,
+      "word": "天赐把吉克隽逸胸前痣P掉了",
+      "onboard_time": 1713258559,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 200161,
       "num": 200161,
       "word": "毛不易的每一句歌词都是文案",
@@ -1387,6 +1403,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 185930,
+      "num": 185930,
+      "word": "存的钱被告知过期了",
+      "onboard_time": 1713257479,
+      "rank": 32,
+      "category": "情感"
+    },
+    {
       "raw_hot": 185080,
       "num": 185080,
       "word": "多方回应重庆地铁站石砖脱落砸中孕妇",
@@ -1395,12 +1419,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 184667,
-      "num": 184667,
-      "word": "天赐把吉克隽逸胸前痣P掉了",
-      "onboard_time": 1713258559,
-      "rank": 31,
-      "category": "综艺"
+      "raw_hot": 184995,
+      "num": 184995,
+      "word": "WBG无限可能的自己",
+      "onboard_time": 1713259699,
+      "rank": 30,
+      "category": "电竞"
     },
     {
       "raw_hot": 184284,
@@ -1417,14 +1441,6 @@
       "onboard_time": 1713251477,
       "rank": 38,
       "category": "财经"
-    },
-    {
-      "raw_hot": 183393,
-      "num": 183393,
-      "word": "存的钱被告知过期了",
-      "onboard_time": 1713257479,
-      "rank": 32,
-      "category": "情感"
     },
     {
       "raw_hot": 181157,
@@ -1659,6 +1675,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 158095,
+      "num": 158095,
+      "word": "上了大三感觉人人都是章鱼哥",
+      "onboard_time": 1713259339,
+      "rank": 33,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 157979,
       "num": 157979,
       "word": "钟楚曦高颅顶教学",
@@ -1771,6 +1795,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 147586,
+      "num": 147586,
+      "word": "国内油价今晚上涨",
+      "onboard_time": 1713259699,
+      "rank": 36,
+      "category": "财经"
+    },
+    {
       "raw_hot": 146282,
       "num": 146282,
       "word": "刘诗诗新剧路透",
@@ -1827,6 +1859,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 139261,
+      "num": 139261,
+      "word": "为什么当代大学生离不开宿管阿姨",
+      "onboard_time": 1713259759,
+      "rank": 39,
+      "category": "情感"
+    },
+    {
       "raw_hot": 139167,
       "num": 139167,
       "word": "掌心",
@@ -1875,6 +1915,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 133516,
+      "num": 133516,
+      "word": "科切拉现场",
+      "onboard_time": 1713259159,
+      "rank": 42,
+      "category": "演出"
+    },
+    {
       "raw_hot": 132160,
       "num": 132160,
       "word": "这头像领导点开就失去沟通欲",
@@ -1921,6 +1969,14 @@
       "onboard_time": 1713242359,
       "rank": 9,
       "category": "体育"
+    },
+    {
+      "raw_hot": 127290,
+      "num": 127290,
+      "word": "美驻华使馆和微软未回应中方调查报告",
+      "onboard_time": 1713259939,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 125520,
@@ -1977,14 +2033,6 @@
       "onboard_time": 1713223515,
       "rank": 25,
       "category": "体育"
-    },
-    {
-      "raw_hot": 121712,
-      "num": 121712,
-      "word": "于正说片方没定过孔雪儿",
-      "onboard_time": 1713258920,
-      "rank": 45,
-      "category": "剧集"
     },
     {
       "raw_hot": 121144,
@@ -2275,6 +2323,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 32904,
+      "num": 1174911,
+      "word": "云逛广交会",
+      "onboard_time": 1713258019,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 32432,
       "num": 1181865,
       "word": "汇聚起维护国家安全的强大力量",
@@ -2297,14 +2353,6 @@
       "onboard_time": 1713204551,
       "rank": 44,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 22322,
-      "num": 967748,
-      "word": "云逛广交会",
-      "onboard_time": 1713258019,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 17256,
@@ -2340,6 +2388,9 @@
     },
     {
       "word": "#中德关系始终稳健发展#"
+    },
+    {
+      "word": "#中德合作对双方有利对世界有利#"
     }
   ]
 }

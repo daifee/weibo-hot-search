@@ -1,0 +1,410 @@
+{
+  "runTime": 1713260081010,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2110427,
+        "num": 2110427,
+        "word": "12306 秒没",
+        "onboard_time": 1713251296,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1412251,
+        "num": 1412251,
+        "word": "出操死亡女生家属称已与校方和解",
+        "onboard_time": 1713256878,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 32904,
+        "num": 1174911,
+        "word": "云逛广交会",
+        "onboard_time": 1713258019,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1039751,
+        "num": 1039751,
+        "word": "央广网评阿姨吐槽年轻人卧铺挂帘",
+        "onboard_time": 1713254419,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 838024,
+        "num": 838024,
+        "word": "赵薇名下所持股权再遭冻结",
+        "onboard_time": 1713256998,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 787279,
+        "num": 787279,
+        "word": "中医建议皮肤变好的方法",
+        "onboard_time": 1713256339,
+        "rank": 5,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 381803,
+        "num": 381803,
+        "word": "吉林省教育厅回应女生带病出操死亡",
+        "onboard_time": 1713256278,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 371844,
+        "num": 371844,
+        "word": "赵露思浴室自拍",
+        "onboard_time": 1713258378,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 360582,
+        "num": 360582,
+        "word": "花近30万开甘肃麻辣烫18天关门",
+        "onboard_time": 1713247878,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 122837,
+        "num": 352772,
+        "word": "被淄博小学生的热情戳到了",
+        "onboard_time": 1713254659,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1083968,
+        "num": 351361,
+        "word": "霍建华老了",
+        "onboard_time": 1713252079,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 616091,
+        "num": 350628,
+        "word": "杨蓉连续十年给朱一龙庆生",
+        "onboard_time": 1713257838,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 349517,
+        "num": 349517,
+        "word": "以色列",
+        "onboard_time": 1713256037,
+        "rank": 12,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 335552,
+        "num": 335552,
+        "word": "iPhone16价格",
+        "onboard_time": 1713241099,
+        "rank": 13,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 332020,
+        "num": 332020,
+        "word": "幼态审美入侵纸片人",
+        "onboard_time": 1713252197,
+        "rank": 14,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 326162,
+        "num": 326162,
+        "word": "鹿晗这奖婉拒了哈",
+        "onboard_time": 1713255918,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 296142,
+        "num": 296142,
+        "word": "看似很爽其实很伤身体的行为",
+        "onboard_time": 1713243019,
+        "rank": 16,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 294346,
+        "num": 294346,
+        "word": "仝卓工作室皮下称帮仝卓还款14万元",
+        "onboard_time": 1713257359,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 288226,
+        "num": 288226,
+        "word": "秦昊杨幂海报",
+        "onboard_time": 1713253937,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 265461,
+        "num": 265461,
+        "word": "歌手",
+        "onboard_time": 1713256638,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 431891,
+        "num": 263199,
+        "word": "徐正溪退圈声明后现身片场",
+        "onboard_time": 1713243260,
+        "rank": 20,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 343380,
+        "num": 258501,
+        "word": "工资4千和6千真的能存到钱吗",
+        "onboard_time": 1713247219,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 276990,
+        "num": 256804,
+        "word": "长期喝咖啡身体会变成什么样",
+        "onboard_time": 1713250758,
+        "rank": 22,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 251803,
+        "num": 251803,
+        "word": "李兰迪张元英撞衫",
+        "onboard_time": 1713256819,
+        "rank": 23,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 233176,
+        "num": 233176,
+        "word": "于正说片方没定过孔雪儿",
+        "onboard_time": 1713258920,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 214710,
+        "num": 214710,
+        "word": "近期4位不满14周岁未成年被判刑",
+        "onboard_time": 1713246378,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 202271,
+        "num": 202271,
+        "word": "天赐把吉克隽逸胸前痣P掉了",
+        "onboard_time": 1713258559,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 197503,
+        "num": 197503,
+        "word": "原来五千块钱真的很难存",
+        "onboard_time": 1713248658,
+        "rank": 27,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 191930,
+        "num": 191930,
+        "word": "生日朋友圈忘了放闺蜜咋办",
+        "onboard_time": 1713257479,
+        "rank": 28,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 185930,
+        "num": 185930,
+        "word": "存的钱被告知过期了",
+        "onboard_time": 1713257479,
+        "rank": 29,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 184995,
+        "num": 184995,
+        "word": "WBG无限可能的自己",
+        "onboard_time": 1713259699,
+        "rank": 30,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 161328,
+        "num": 161328,
+        "word": "镜子为什么不能正对床",
+        "onboard_time": 1713253457,
+        "rank": 31,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 160542,
+        "num": 160542,
+        "word": "刚出道了15天的爱豆",
+        "onboard_time": 1713242299,
+        "rank": 32,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 158095,
+        "num": 158095,
+        "word": "上了大三感觉人人都是章鱼哥",
+        "onboard_time": 1713259339,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 154783,
+        "num": 154783,
+        "word": "白玉兰",
+        "onboard_time": 1713255379,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 154757,
+        "num": 154757,
+        "word": "王一博中国顶尖舞者海报",
+        "onboard_time": 1713256159,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 147586,
+        "num": 147586,
+        "word": "国内油价今晚上涨",
+        "onboard_time": 1713259699,
+        "rank": 36,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 146429,
+        "num": 146429,
+        "word": "差一点就买到真的周大福了",
+        "onboard_time": 1713249018,
+        "rank": 37,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 141787,
+        "num": 141787,
+        "word": "鹿晗王勉梦到五哈不录了",
+        "onboard_time": 1713250340,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 139261,
+        "num": 139261,
+        "word": "为什么当代大学生离不开宿管阿姨",
+        "onboard_time": 1713259759,
+        "rank": 39,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 139139,
+        "num": 139139,
+        "word": "李现把任敏拍的好美",
+        "onboard_time": 1713256159,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 136000,
+        "num": 136000,
+        "word": "你坐飞机喜欢坐窗边还是过道",
+        "onboard_time": 1713252978,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 133516,
+        "num": 133516,
+        "word": "科切拉现场",
+        "onboard_time": 1713259159,
+        "rank": 42,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 127290,
+        "num": 127290,
+        "word": "美驻华使馆和微软未回应中方调查报告",
+        "onboard_time": 1713259939,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 121145,
+        "num": 121145,
+        "word": "要了男生微信但他有女朋友",
+        "onboard_time": 1713242001,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 121117,
+        "num": 121117,
+        "word": "肖战或将出席白玉兰",
+        "onboard_time": 1713252558,
+        "rank": 45,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 118294,
+        "num": 118294,
+        "word": "小新被WE开除",
+        "onboard_time": 1713245718,
+        "rank": 46,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 114967,
+        "num": 114967,
+        "word": "王楚钦比赛",
+        "onboard_time": 1713252978,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 111754,
+        "num": 111754,
+        "word": "林依晨称母亲一直想让自己退出娱乐圈",
+        "onboard_time": 1713246438,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 109921,
+        "num": 109921,
+        "word": "小新被爆家暴出轨",
+        "onboard_time": 1713191599,
+        "rank": 49,
+        "category": "电竞"
+      }
+    ],
+    "hotgov": {
+      "word": "#中德合作对双方有利对世界有利#"
+    }
+  }
+}
