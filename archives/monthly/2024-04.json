@@ -1,6 +1,6 @@
 {
   "startTime": 1711902044401,
-  "endTime": 1713271640129,
+  "endTime": 1713273616287,
   "band_list": [
     {
       "raw_hot": 16874674,
@@ -3675,6 +3675,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 953647,
+      "num": 953647,
+      "word": "歌手阵容",
+      "onboard_time": 1713270379,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 952546,
       "num": 952546,
       "word": "李湘王岳伦陪王诗龄看展",
@@ -5435,6 +5443,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 760801,
+      "num": 760801,
+      "word": "何炅杨蓉终于要有感情线了吗",
+      "onboard_time": 1713269478,
+      "rank": 6,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 760708,
       "num": 760708,
       "word": "张元英ins",
@@ -5649,14 +5665,6 @@
       "onboard_time": 1713085699,
       "rank": 5,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 744469,
-      "num": 744469,
-      "word": "歌手阵容",
-      "onboard_time": 1713270379,
-      "rank": 22,
-      "category": "综艺"
     },
     {
       "raw_hot": 743905,
@@ -7081,14 +7089,6 @@
       "onboard_time": 1712664559,
       "rank": 4,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 644591,
-      "num": 644591,
-      "word": "何炅杨蓉终于要有感情线了吗",
-      "onboard_time": 1713269478,
-      "rank": 6,
-      "category": "综艺"
     },
     {
       "raw_hot": 643264,
@@ -9508,7 +9508,7 @@
     },
     {
       "raw_hot": 521876,
-      "num": 387424,
+      "num": 507663,
       "word": "许凯发了杨紫",
       "onboard_time": 1713270680,
       "rank": 20,
@@ -10315,6 +10315,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 491024,
+      "num": 491024,
+      "word": "因为拒绝相亲被我爸拉黑了",
+      "onboard_time": 1713269120,
+      "rank": 11,
+      "category": "情感"
+    },
+    {
       "raw_hot": 491015,
       "num": 491015,
       "word": "广为传播的珍妃照片是假的",
@@ -10921,6 +10929,14 @@
       "onboard_time": 1713053415,
       "rank": 20,
       "category": "财经"
+    },
+    {
+      "raw_hot": 469709,
+      "num": 469709,
+      "word": "单依纯",
+      "onboard_time": 1713272418,
+      "rank": 10,
+      "category": "综艺"
     },
     {
       "raw_hot": 469638,
@@ -12107,6 +12123,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 434155,
+      "num": 434155,
+      "word": "弟弟从没提过他的朋友坐轮椅",
+      "onboard_time": 1713269358,
+      "rank": 31,
+      "category": "情感"
+    },
+    {
       "raw_hot": 434094,
       "num": 434094,
       "word": "承欢记处处吻",
@@ -12595,6 +12619,14 @@
       "category": "情感,网红"
     },
     {
+      "raw_hot": 420717,
+      "num": 420717,
+      "word": "谁能演金秘书",
+      "onboard_time": 1713270439,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 420697,
       "num": 384919,
       "word": "离职前可以顺走公司什么东西",
@@ -12876,7 +12908,7 @@
     },
     {
       "raw_hot": 410902,
-      "num": 410902,
+      "num": 471730,
       "word": "女生连做11个原地云里震惊全场",
       "onboard_time": 1713261019,
       "rank": 9,
@@ -12924,7 +12956,7 @@
     },
     {
       "raw_hot": 407491,
-      "num": 202406,
+      "num": 209337,
       "word": "牛骏峰回应陪杨紫演",
       "onboard_time": 1713268157,
       "rank": 15,
@@ -13155,14 +13187,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 400903,
-      "num": 400903,
-      "word": "因为拒绝相亲被我爸拉黑了",
-      "onboard_time": 1713269120,
-      "rank": 11,
-      "category": "情感"
-    },
-    {
       "raw_hot": 400344,
       "num": 400344,
       "word": "刘忻张予曦牵手过马路",
@@ -13193,6 +13217,14 @@
       "onboard_time": 1712360175,
       "rank": 11,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 399421,
+      "num": 319253,
+      "word": "张艺兴抵达韩国",
+      "onboard_time": 1713270859,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 399298,
@@ -13744,14 +13776,6 @@
       "word": "哈尔滨一九四四 三星联播",
       "onboard_time": 1713250638,
       "rank": 14,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 383340,
-      "num": 383340,
-      "word": "谁能演金秘书",
-      "onboard_time": 1713270439,
-      "rank": 27,
       "category": "剧集"
     },
     {
@@ -16587,6 +16611,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 315082,
+      "num": 210063,
+      "word": "结婚后感觉爸妈对我的态度变了",
+      "onboard_time": 1713270557,
+      "rank": 33,
+      "category": "情感"
+    },
+    {
       "raw_hot": 314911,
       "num": 314911,
       "word": "歌手",
@@ -16907,14 +16939,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 309658,
-      "num": 179369,
-      "word": "张艺兴抵达韩国",
-      "onboard_time": 1713270859,
-      "rank": 21,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 309627,
       "num": 252999,
       "word": "爸爸去世前的搜索记录",
@@ -17227,14 +17251,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 304261,
-      "num": 178926,
-      "word": "结婚后感觉爸妈对我的态度变了",
-      "onboard_time": 1713270557,
-      "rank": 33,
-      "category": "情感"
-    },
-    {
       "raw_hot": 304220,
       "num": 304220,
       "word": "杜华卸任乐华影业多个职务",
@@ -17473,6 +17489,14 @@
       "onboard_time": 1711970720,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 299584,
+      "num": 299584,
+      "word": "热辣滚烫打假",
+      "onboard_time": 1713269120,
+      "rank": 17,
+      "category": "电影"
     },
     {
       "raw_hot": 299519,
@@ -18187,14 +18211,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 287840,
-      "num": 199718,
-      "word": "热辣滚烫打假",
-      "onboard_time": 1713269120,
-      "rank": 17,
-      "category": "电影"
-    },
-    {
       "raw_hot": 287795,
       "num": 287795,
       "word": "hybe kpop毁灭者",
@@ -18593,6 +18609,14 @@
       "onboard_time": 1712474539,
       "rank": 21,
       "category": "情感"
+    },
+    {
+      "raw_hot": 281324,
+      "num": 281324,
+      "word": "方程豹",
+      "onboard_time": 1713270439,
+      "rank": 19,
+      "category": "汽车"
     },
     {
       "raw_hot": 281316,
@@ -19329,6 +19353,14 @@
       "onboard_time": 1712316739,
       "rank": 33,
       "category": "情感"
+    },
+    {
+      "raw_hot": 268844,
+      "num": 268844,
+      "word": "门科",
+      "onboard_time": 1713271819,
+      "rank": 18,
+      "category": "体育"
     },
     {
       "raw_hot": 268649,
@@ -20363,14 +20395,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 253942,
-      "num": 253942,
-      "word": "方程豹",
-      "onboard_time": 1713270439,
-      "rank": 19,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 253907,
       "num": 253907,
       "word": "川航的小零食越来越抽象了",
@@ -20552,6 +20576,14 @@
       "word": "威尔史密斯为成龙庆生",
       "onboard_time": 1712548880,
       "rank": 33,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 252318,
+      "num": 209195,
+      "word": "林更新吴奇隆刘诗诗合影旧照",
+      "onboard_time": 1713271458,
+      "rank": 42,
       "category": "艺人"
     },
     {
@@ -23043,6 +23075,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 225457,
+      "num": 201427,
+      "word": "不够善良的我们 双缝干涉实验",
+      "onboard_time": 1713271578,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 225389,
       "num": 225389,
       "word": "Minnie泼水节造型",
@@ -23705,14 +23745,6 @@
       "onboard_time": 1712407997,
       "rank": 33,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 218517,
-      "num": 184053,
-      "word": "弟弟从没提过他的朋友坐轮椅",
-      "onboard_time": 1713269358,
-      "rank": 31,
-      "category": "情感"
     },
     {
       "raw_hot": 218310,
@@ -25521,6 +25553,14 @@
       "onboard_time": 1712481078,
       "rank": 37,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 205259,
+      "num": 193466,
+      "word": "林更新王俊凯彭于晏旧照",
+      "onboard_time": 1713272600,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 205255,
@@ -28003,6 +28043,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 192111,
+      "num": 192111,
+      "word": "颜值很高但难吃的食物",
+      "onboard_time": 1713269120,
+      "rank": 30,
+      "category": "美食"
+    },
+    {
       "raw_hot": 192090,
       "num": 192090,
       "word": "WE小新",
@@ -28075,6 +28123,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 191932,
+      "num": 191932,
+      "word": "济南通报两公交相撞事故",
+      "onboard_time": 1713271578,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 191926,
       "num": 191926,
       "word": "FINAL LOVE SONG",
@@ -28113,14 +28169,6 @@
       "onboard_time": 1713093619,
       "rank": 33,
       "category": "演出"
-    },
-    {
-      "raw_hot": 191619,
-      "num": 191619,
-      "word": "颜值很高但难吃的食物",
-      "onboard_time": 1713269120,
-      "rank": 30,
-      "category": "美食"
     },
     {
       "raw_hot": 191613,
@@ -32499,6 +32547,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 165499,
+      "num": 165499,
+      "word": "上班后才明白双休有多重要",
+      "onboard_time": 1713273258,
+      "rank": 36,
+      "category": "情感"
+    },
+    {
       "raw_hot": 165461,
       "num": 165461,
       "word": "拂容君下凡渡劫燃起来了",
@@ -33208,6 +33264,14 @@
       "word": "9省份将有8至11级雷暴大风或冰雹",
       "onboard_time": 1712090171,
       "rank": 21,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 161328,
+      "num": 161328,
+      "word": "车票候补",
+      "onboard_time": 1713273380,
+      "rank": 38,
       "category": "社会新闻"
     },
     {
@@ -35201,6 +35265,14 @@
       "onboard_time": 1712744238,
       "rank": 49,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 150602,
+      "num": 150602,
+      "word": "工作三年还经常崩溃大哭",
+      "onboard_time": 1713271940,
+      "rank": 42,
+      "category": "情感"
     },
     {
       "raw_hot": 150585,
@@ -37235,14 +37307,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 138851,
-      "num": 138851,
-      "word": "林更新吴奇隆刘诗诗合影旧照",
-      "onboard_time": 1713271458,
-      "rank": 42,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 138807,
       "num": 138807,
       "word": "承欢记人未出场cp搅黄",
@@ -38611,6 +38675,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 130834,
+      "num": 130834,
+      "word": "调休把生活节奏调的稀巴烂",
+      "onboard_time": 1713273018,
+      "rank": 46,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 130728,
       "num": 1085303,
       "word": "古诗词里的清明意境超美",
@@ -39899,14 +39971,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 121283,
-      "num": 121283,
-      "word": "不够善良的我们 双缝干涉实验",
-      "onboard_time": 1713271578,
-      "rank": 47,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 121254,
       "num": 121254,
       "word": "办公室mbti标语",
@@ -40129,6 +40193,14 @@
       "onboard_time": 1712283797,
       "rank": 49,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 119607,
+      "num": 132707,
+      "word": "方程豹全家桶",
+      "onboard_time": 1713273320,
+      "rank": 45,
+      "category": "汽车"
     },
     {
       "raw_hot": 119567,
@@ -42345,14 +42417,6 @@
       "onboard_time": 1712010734,
       "rank": 49,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 86331,
-      "num": 113844,
-      "word": "济南通报两公交相撞事故",
-      "onboard_time": 1713271578,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 86089,

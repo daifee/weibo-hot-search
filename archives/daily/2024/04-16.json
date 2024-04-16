@@ -1,6 +1,6 @@
 {
   "startTime": 1713198119901,
-  "endTime": 1713271640129,
+  "endTime": 1713273616287,
   "band_list": [
     {
       "raw_hot": 3144358,
@@ -171,6 +171,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 953647,
+      "num": 953647,
+      "word": "歌手阵容",
+      "onboard_time": 1713270379,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 911613,
       "num": 911613,
       "word": "林依晨称母亲一直想让自己退出娱乐圈",
@@ -275,6 +283,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 760801,
+      "num": 760801,
+      "word": "何炅杨蓉终于要有感情线了吗",
+      "onboard_time": 1713269478,
+      "rank": 6,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 758090,
       "num": 758090,
       "word": "胃癌的发生是一个长期的过程",
@@ -289,14 +305,6 @@
       "onboard_time": 1713245718,
       "rank": 5,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 744469,
-      "num": 744469,
-      "word": "歌手阵容",
-      "onboard_time": 1713270379,
-      "rank": 22,
-      "category": "综艺"
     },
     {
       "raw_hot": 737344,
@@ -345,14 +353,6 @@
       "onboard_time": 1713226519,
       "rank": 7,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 644591,
-      "num": 644591,
-      "word": "何炅杨蓉终于要有感情线了吗",
-      "onboard_time": 1713269478,
-      "rank": 6,
-      "category": "综艺"
     },
     {
       "raw_hot": 635493,
@@ -476,7 +476,7 @@
     },
     {
       "raw_hot": 521876,
-      "num": 387424,
+      "num": 507663,
       "word": "许凯发了杨紫",
       "onboard_time": 1713270680,
       "rank": 20,
@@ -523,6 +523,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 491024,
+      "num": 491024,
+      "word": "因为拒绝相亲被我爸拉黑了",
+      "onboard_time": 1713269120,
+      "rank": 11,
+      "category": "情感"
+    },
+    {
       "raw_hot": 485674,
       "num": 273508,
       "word": "原来五千块钱真的很难存",
@@ -553,6 +561,14 @@
       "onboard_time": 1713193281,
       "rank": 22,
       "category": "教育"
+    },
+    {
+      "raw_hot": 469709,
+      "num": 469709,
+      "word": "单依纯",
+      "onboard_time": 1713272418,
+      "rank": 10,
+      "category": "综艺"
     },
     {
       "raw_hot": 469562,
@@ -667,6 +683,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 434155,
+      "num": 434155,
+      "word": "弟弟从没提过他的朋友坐轮椅",
+      "onboard_time": 1713269358,
+      "rank": 31,
+      "category": "情感"
+    },
+    {
       "raw_hot": 431935,
       "num": 362275,
       "word": "一个月从100斤减到120斤的秘诀",
@@ -699,6 +723,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 420717,
+      "num": 420717,
+      "word": "谁能演金秘书",
+      "onboard_time": 1713270439,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 419098,
       "num": 419098,
       "word": "金莎孙丞潇又合体录综艺了",
@@ -724,7 +756,7 @@
     },
     {
       "raw_hot": 410902,
-      "num": 410902,
+      "num": 471730,
       "word": "女生连做11个原地云里震惊全场",
       "onboard_time": 1713261019,
       "rank": 9,
@@ -732,7 +764,7 @@
     },
     {
       "raw_hot": 407491,
-      "num": 202406,
+      "num": 209337,
       "word": "牛骏峰回应陪杨紫演",
       "onboard_time": 1713268157,
       "rank": 15,
@@ -747,20 +779,20 @@
       "category": "情感"
     },
     {
-      "raw_hot": 400903,
-      "num": 400903,
-      "word": "因为拒绝相亲被我爸拉黑了",
-      "onboard_time": 1713269120,
-      "rank": 11,
-      "category": "情感"
-    },
-    {
       "raw_hot": 400625,
       "num": 400625,
       "word": "李耕耘的李白",
       "onboard_time": 1713192979,
       "rank": 5,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 399421,
+      "num": 319253,
+      "word": "张艺兴抵达韩国",
+      "onboard_time": 1713270859,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 396282,
@@ -808,14 +840,6 @@
       "word": "哈尔滨一九四四 三星联播",
       "onboard_time": 1713250638,
       "rank": 14,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 383340,
-      "num": 383340,
-      "word": "谁能演金秘书",
-      "onboard_time": 1713270439,
-      "rank": 27,
       "category": "剧集"
     },
     {
@@ -971,6 +995,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 315082,
+      "num": 210063,
+      "word": "结婚后感觉爸妈对我的态度变了",
+      "onboard_time": 1713270557,
+      "rank": 33,
+      "category": "情感"
+    },
+    {
       "raw_hot": 314911,
       "num": 314911,
       "word": "歌手",
@@ -993,14 +1025,6 @@
       "onboard_time": 1713237798,
       "rank": 19,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 309658,
-      "num": 179369,
-      "word": "张艺兴抵达韩国",
-      "onboard_time": 1713270859,
-      "rank": 21,
-      "category": "艺人"
     },
     {
       "raw_hot": 309627,
@@ -1027,14 +1051,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 304261,
-      "num": 178926,
-      "word": "结婚后感觉爸妈对我的态度变了",
-      "onboard_time": 1713270557,
-      "rank": 33,
-      "category": "情感"
-    },
-    {
       "raw_hot": 301783,
       "num": 301783,
       "word": "皮肤开始变好的7个习惯",
@@ -1049,6 +1065,14 @@
       "onboard_time": 1713226338,
       "rank": 17,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 299584,
+      "num": 299584,
+      "word": "热辣滚烫打假",
+      "onboard_time": 1713269120,
+      "rank": 17,
+      "category": "电影"
     },
     {
       "raw_hot": 292435,
@@ -1083,14 +1107,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 287840,
-      "num": 199718,
-      "word": "热辣滚烫打假",
-      "onboard_time": 1713269120,
-      "rank": 17,
-      "category": "电影"
-    },
-    {
       "raw_hot": 287653,
       "num": 236837,
       "word": "进组的爸录综艺的妈",
@@ -1105,6 +1121,14 @@
       "onboard_time": 1713191840,
       "rank": 7,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 281324,
+      "num": 281324,
+      "word": "方程豹",
+      "onboard_time": 1713270439,
+      "rank": 19,
+      "category": "汽车"
     },
     {
       "raw_hot": 279054,
@@ -1179,6 +1203,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 268844,
+      "num": 268844,
+      "word": "门科",
+      "onboard_time": 1713271819,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
       "raw_hot": 266910,
       "num": 266910,
       "word": "跳12分钟等于运动1小时",
@@ -1235,20 +1267,20 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 253942,
-      "num": 253942,
-      "word": "方程豹",
-      "onboard_time": 1713270439,
-      "rank": 19,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 252982,
       "num": 252982,
       "word": "热辣滚烫纪录片全集免费",
       "onboard_time": 1713239058,
       "rank": 45,
       "category": "电影"
+    },
+    {
+      "raw_hot": 252318,
+      "num": 209195,
+      "word": "林更新吴奇隆刘诗诗合影旧照",
+      "onboard_time": 1713271458,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 249703,
@@ -1403,19 +1435,19 @@
       "category": "体育"
     },
     {
+      "raw_hot": 225457,
+      "num": 201427,
+      "word": "不够善良的我们 双缝干涉实验",
+      "onboard_time": 1713271578,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 220128,
       "num": 220128,
       "word": "生日朋友圈忘了放闺蜜咋办",
       "onboard_time": 1713257479,
       "rank": 27,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 218517,
-      "num": 184053,
-      "word": "弟弟从没提过他的朋友坐轮椅",
-      "onboard_time": 1713269358,
-      "rank": 31,
       "category": "情感"
     },
     {
@@ -1523,6 +1555,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 208540,
+      "num": 208540,
+      "word": "澳门世界杯",
+      "onboard_time": 1713272600,
+      "rank": 23,
+      "category": "体育"
+    },
+    {
       "raw_hot": 207766,
       "num": 207766,
       "word": "严浩翔 我们强得可怕",
@@ -1537,6 +1577,14 @@
       "onboard_time": 1713251538,
       "rank": 34,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 205259,
+      "num": 193466,
+      "word": "林更新王俊凯彭于晏旧照",
+      "onboard_time": 1713272600,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 205251,
@@ -1667,6 +1715,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 192111,
+      "num": 192111,
+      "word": "颜值很高但难吃的食物",
+      "onboard_time": 1713269120,
+      "rank": 30,
+      "category": "美食"
+    },
+    {
       "raw_hot": 192090,
       "num": 192090,
       "word": "WE小新",
@@ -1675,12 +1731,12 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 191619,
-      "num": 191619,
-      "word": "颜值很高但难吃的食物",
-      "onboard_time": 1713269120,
-      "rank": 30,
-      "category": "美食"
+      "raw_hot": 191932,
+      "num": 191932,
+      "word": "济南通报两公交相撞事故",
+      "onboard_time": 1713271578,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 190501,
@@ -2019,6 +2075,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 165499,
+      "num": 165499,
+      "word": "上班后才明白双休有多重要",
+      "onboard_time": 1713273258,
+      "rank": 36,
+      "category": "情感"
+    },
+    {
       "raw_hot": 164528,
       "num": 164528,
       "word": "张婧仪真给胡一天买芋泥啵啵了",
@@ -2057,6 +2121,14 @@
       "onboard_time": 1713196278,
       "rank": 28,
       "category": "体育"
+    },
+    {
+      "raw_hot": 161328,
+      "num": 161328,
+      "word": "车票候补",
+      "onboard_time": 1713273380,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 161126,
@@ -2177,6 +2249,14 @@
       "onboard_time": 1713254957,
       "rank": 42,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 150602,
+      "num": 150602,
+      "word": "工作三年还经常崩溃大哭",
+      "onboard_time": 1713271940,
+      "rank": 42,
+      "category": "情感"
     },
     {
       "raw_hot": 149541,
@@ -2339,20 +2419,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 139104,
+      "num": 139104,
+      "word": "许凯演技",
+      "onboard_time": 1713273139,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 138854,
       "num": 138854,
       "word": "咖啡为什么越卖越便宜",
       "onboard_time": 1713182118,
       "rank": 30,
       "category": "美食"
-    },
-    {
-      "raw_hot": 138851,
-      "num": 138851,
-      "word": "林更新吴奇隆刘诗诗合影旧照",
-      "onboard_time": 1713271458,
-      "rank": 42,
-      "category": "艺人"
     },
     {
       "raw_hot": 138051,
@@ -2457,6 +2537,14 @@
       "onboard_time": 1713263538,
       "rank": 36,
       "category": "情感"
+    },
+    {
+      "raw_hot": 130834,
+      "num": 130834,
+      "word": "调休把生活节奏调的稀巴烂",
+      "onboard_time": 1713273018,
+      "rank": 46,
+      "category": "幽默"
     },
     {
       "raw_hot": 128551,
@@ -2611,14 +2699,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 121283,
-      "num": 121283,
-      "word": "不够善良的我们 双缝干涉实验",
-      "onboard_time": 1713271578,
-      "rank": 47,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 121144,
       "num": 121144,
       "word": "好像理解古人十二时辰了",
@@ -2641,6 +2721,14 @@
       "onboard_time": 1713255198,
       "rank": 49,
       "category": "演出"
+    },
+    {
+      "raw_hot": 119607,
+      "num": 132707,
+      "word": "方程豹全家桶",
+      "onboard_time": 1713273320,
+      "rank": 45,
+      "category": "汽车"
     },
     {
       "raw_hot": 118344,
@@ -2849,14 +2937,6 @@
       "onboard_time": 1713189018,
       "rank": 29,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 86331,
-      "num": 113844,
-      "word": "济南通报两公交相撞事故",
-      "onboard_time": 1713271578,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 78878,
