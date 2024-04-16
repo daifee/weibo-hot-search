@@ -1,0 +1,410 @@
+{
+  "runTime": 1713277069351,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1218443,
+        "num": 1218443,
+        "word": "歌手2024 张元英",
+        "onboard_time": 1713268578,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1119152,
+        "num": 1119152,
+        "word": "复旦研究生珠峰地区登山死亡",
+        "onboard_time": 1713275419,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 127335,
+        "num": 1072633,
+        "word": "国字号重器再添新成员",
+        "onboard_time": 1713276019,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1036835,
+        "num": 1036835,
+        "word": "12306 秒没",
+        "onboard_time": 1713251296,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 831661,
+        "num": 831661,
+        "word": "单依纯",
+        "onboard_time": 1713272418,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 821608,
+        "num": 821608,
+        "word": "弟弟从没提过他的朋友坐轮椅",
+        "onboard_time": 1713269358,
+        "rank": 5,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 653047,
+        "num": 653047,
+        "word": "金秘书为何那样",
+        "onboard_time": 1713267978,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 535082,
+        "num": 535082,
+        "word": "何炅杨蓉终于要有感情线了吗",
+        "onboard_time": 1713269478,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 517218,
+        "num": 517218,
+        "word": "歌手阵容",
+        "onboard_time": 1713270379,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 214882,
+        "num": 505728,
+        "word": "女生连做11个原地云里震惊全场",
+        "onboard_time": 1713261019,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 497634,
+        "num": 497634,
+        "word": "吴磊半裸骑行",
+        "onboard_time": 1713276139,
+        "rank": 10,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 95105,
+        "num": 481618,
+        "word": "方程豹全家桶",
+        "onboard_time": 1713273320,
+        "rank": 11,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 475139,
+        "num": 475139,
+        "word": "张艺兴工作室改名",
+        "onboard_time": 1713276619,
+        "rank": 12,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 440537,
+        "num": 440537,
+        "word": "微信状态真的很好用",
+        "onboard_time": 1713265278,
+        "rank": 13,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 386134,
+        "num": 386134,
+        "word": "林更新吴奇隆刘诗诗合影旧照",
+        "onboard_time": 1713271458,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 383524,
+        "num": 383524,
+        "word": "中医建议皮肤变好的方法",
+        "onboard_time": 1713256339,
+        "rank": 15,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 368055,
+        "num": 368055,
+        "word": "车票候补",
+        "onboard_time": 1713273380,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 363103,
+        "num": 363103,
+        "word": "许凯发了杨紫",
+        "onboard_time": 1713270680,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 343913,
+        "num": 343913,
+        "word": "贾玲 是演员是编剧更是导演",
+        "onboard_time": 1713275239,
+        "rank": 18,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 303431,
+        "num": 336607,
+        "word": "特斯拉卖一辆车净赚43300元",
+        "onboard_time": 1713274818,
+        "rank": 19,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 498937,
+        "num": 335704,
+        "word": "沈月工作暂停先消失十天",
+        "onboard_time": 1713264558,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 332842,
+        "num": 332842,
+        "word": "张艺兴抵达韩国",
+        "onboard_time": 1713270859,
+        "rank": 21,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 308259,
+        "num": 308259,
+        "word": "12306回应五一车票秒没",
+        "onboard_time": 1713274098,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 260540,
+        "num": 260540,
+        "word": "结婚后感觉爸妈对我的态度变了",
+        "onboard_time": 1713270557,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 250916,
+        "num": 250916,
+        "word": "上海男篮北京男篮冲突",
+        "onboard_time": 1713276199,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 301246,
+        "num": 249182,
+        "word": "孔雪儿进组",
+        "onboard_time": 1713275840,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 272824,
+        "num": 246653,
+        "word": "刘亦菲 LV大秀",
+        "onboard_time": 1713275120,
+        "rank": 26,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 236417,
+        "num": 236417,
+        "word": "薛之谦演唱会眼镜哥被质疑系策划",
+        "onboard_time": 1713274266,
+        "rank": 27,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 225440,
+        "num": 225440,
+        "word": "因为拒绝相亲被我爸拉黑了",
+        "onboard_time": 1713269120,
+        "rank": 28,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 201811,
+        "num": 223303,
+        "word": "上班后才明白双休有多重要",
+        "onboard_time": 1713273258,
+        "rank": 29,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 222203,
+        "num": 222203,
+        "word": "谁能演金秘书",
+        "onboard_time": 1713270439,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 212728,
+        "num": 212728,
+        "word": "王妈",
+        "onboard_time": 1713276800,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 195415,
+        "num": 195415,
+        "word": "工作三年还经常崩溃大哭",
+        "onboard_time": 1713271940,
+        "rank": 32,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 191918,
+        "num": 191918,
+        "word": "U23",
+        "onboard_time": 1713276680,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 188066,
+        "num": 188066,
+        "word": "女子入住81层酒店吓到趴地",
+        "onboard_time": 1713264199,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 187957,
+        "num": 187957,
+        "word": "蓝羽晒易烊千玺同台照",
+        "onboard_time": 1713274699,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 185511,
+        "num": 185511,
+        "word": "牛骏峰回应陪杨紫演",
+        "onboard_time": 1713268157,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 167889,
+        "num": 167889,
+        "word": "德云社新剧定档",
+        "onboard_time": 1713276741,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 156669,
+        "num": 156669,
+        "word": "方程豹3",
+        "onboard_time": 1713276859,
+        "rank": 38,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 154966,
+        "num": 154966,
+        "word": "去淄博",
+        "onboard_time": 1713276320,
+        "rank": 39,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 163803,
+        "num": 154543,
+        "word": "林更新王俊凯彭于晏旧照",
+        "onboard_time": 1713272600,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 160692,
+        "num": 153819,
+        "word": "心疼Rebecca",
+        "onboard_time": 1713276680,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 150759,
+        "num": 150759,
+        "word": "曾经很讨厌现在却喜欢的东西",
+        "onboard_time": 1713276560,
+        "rank": 42,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 150449,
+        "num": 150449,
+        "word": "谁教杨紫许凯这么玩的",
+        "onboard_time": 1713274938,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 148920,
+        "num": 148920,
+        "word": "年会见到张凌赫",
+        "onboard_time": 1713276981,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 146535,
+        "num": 146535,
+        "word": "不够善良的我们 双缝干涉实验",
+        "onboard_time": 1713271578,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 140810,
+        "num": 140810,
+        "word": "为什么现在酒店退房都不查房了",
+        "onboard_time": 1713267139,
+        "rank": 46,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 140113,
+        "num": 140113,
+        "word": "为何优衣库没那么火了",
+        "onboard_time": 1713276859,
+        "rank": 47,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 139513,
+        "num": 139513,
+        "word": "杨幂首部反派女主",
+        "onboard_time": 1713265458,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 132430,
+        "num": 132430,
+        "word": "公务员和研究生都考上了怎么选择",
+        "onboard_time": 1713262218,
+        "rank": 49,
+        "category": "教育"
+      }
+    ],
+    "hotgov": {
+      "word": "#中德要坚持互利共赢彼此成就#"
+    }
+  }
+}
