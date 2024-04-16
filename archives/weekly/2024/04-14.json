@@ -1,6 +1,6 @@
 {
   "startTime": 1713025251708,
-  "endTime": 1713306920440,
+  "endTime": 1713309517294,
   "band_list": [
     {
       "raw_hot": 3410457,
@@ -95,6 +95,14 @@
       "num": 2147550,
       "word": "重庆地铁站被砸孕妇心跳已停2次",
       "onboard_time": 1713226218,
+      "rank": 0,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1943927,
+      "num": 1943927,
+      "word": "吉林宁江区3.9级地震",
+      "onboard_time": 1713309076,
       "rank": 0,
       "category": "社会新闻"
     },
@@ -769,6 +777,14 @@
       "onboard_time": 1713269358,
       "rank": 31,
       "category": "情感"
+    },
+    {
+      "raw_hot": 821083,
+      "num": 821083,
+      "word": "得知邻居是欠债潜逃者后小岛居民选择这样做",
+      "onboard_time": 1713296471,
+      "rank": 11,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 816660,
@@ -1475,6 +1491,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 535633,
+      "num": 535633,
+      "word": "为什么爸妈没有想过给女儿买房",
+      "onboard_time": 1713277700,
+      "rank": 39,
+      "category": "情感"
+    },
+    {
       "raw_hot": 534104,
       "num": 315764,
       "word": "要了男生微信但他有女朋友",
@@ -1585,6 +1609,14 @@
       "onboard_time": 1713262157,
       "rank": 13,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 514213,
+      "num": 514213,
+      "word": "长春震感",
+      "onboard_time": 1713309315,
+      "rank": 4,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 513543,
@@ -1841,6 +1873,14 @@
       "onboard_time": 1713217810,
       "rank": 11,
       "category": "健康医疗,科学科普"
+    },
+    {
+      "raw_hot": 469262,
+      "num": 469262,
+      "word": "小女孩一脚踩断家里大理石茶几",
+      "onboard_time": 1713301751,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 467277,
@@ -2769,14 +2809,6 @@
       "onboard_time": 1713058697,
       "rank": 16,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 348509,
-      "num": 348509,
-      "word": "得知邻居是欠债潜逃者后小岛居民选择这样做",
-      "onboard_time": 1713296471,
-      "rank": 11,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 348080,
@@ -4107,14 +4139,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 233915,
-      "num": 233915,
-      "word": "为什么爸妈没有想过给女儿买房",
-      "onboard_time": 1713277700,
-      "rank": 39,
-      "category": "情感"
-    },
-    {
       "raw_hot": 233520,
       "num": 227050,
       "word": "华为Pura怎么读",
@@ -4353,6 +4377,14 @@
       "onboard_time": 1713057558,
       "rank": 35,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 224408,
+      "num": 224408,
+      "word": "王一博奥运会资格赛系列赛VCR",
+      "onboard_time": 1713298451,
+      "rank": 45,
+      "category": "艺人,体育"
     },
     {
       "raw_hot": 224402,
@@ -4971,14 +5003,6 @@
       "category": "教育,社会新闻"
     },
     {
-      "raw_hot": 199149,
-      "num": 84124,
-      "word": "小女孩一脚踩断家里大理石茶几",
-      "onboard_time": 1713301751,
-      "rank": 47,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 198953,
       "num": 198953,
       "word": "品牌方删除猫一杯物料",
@@ -5393,6 +5417,14 @@
       "onboard_time": 1713193580,
       "rank": 35,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 186484,
+      "num": 121320,
+      "word": "有种早起可能比熬夜更伤身",
+      "onboard_time": 1713302291,
+      "rank": 22,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 185930,
@@ -6371,6 +6403,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 156894,
+      "num": 117138,
+      "word": "巴萨1比4巴黎",
+      "onboard_time": 1713308834,
+      "rank": 21,
+      "category": "体育"
+    },
+    {
       "raw_hot": 156882,
       "num": 1072633,
       "word": "国字号重器再添新成员",
@@ -6851,6 +6891,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 145404,
+      "num": 111509,
+      "word": "睡觉时不能脚朝西头朝东吗",
+      "onboard_time": 1713297612,
+      "rank": 21,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 145400,
       "num": 145400,
       "word": "别人坐你车最反感什么",
@@ -6995,11 +7043,27 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 142760,
+      "num": 105985,
+      "word": "睡前玩手机会让你慢慢变丑",
+      "onboard_time": 1713308656,
+      "rank": 24,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 142669,
       "num": 142669,
       "word": "不要以为会永远存在的东西",
       "onboard_time": 1713180198,
       "rank": 36,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 142572,
+      "num": 142572,
+      "word": "相亲尽量安排在工作日",
+      "onboard_time": 1713299711,
+      "rank": 28,
       "category": "情感"
     },
     {
@@ -7331,6 +7395,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 131364,
+      "num": 131364,
+      "word": "500万粉主播澄清撞脸命案逃犯",
+      "onboard_time": 1713281478,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 131266,
       "num": 131266,
       "word": "朱一龙弹唱海盗船长",
@@ -7555,6 +7627,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 124424,
+      "num": 124424,
+      "word": "多特蒙德晋级欧冠4强",
+      "onboard_time": 1713309315,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 124028,
       "num": 124028,
       "word": "狼队第五人格",
@@ -7697,14 +7777,6 @@
       "onboard_time": 1713027076,
       "rank": 31,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 119904,
-      "num": 119904,
-      "word": "500万粉主播澄清撞脸命案逃犯",
-      "onboard_time": 1713281478,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 119607,
@@ -7859,14 +7931,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 111673,
-      "num": 111673,
-      "word": "王一博奥运会资格赛系列赛VCR",
-      "onboard_time": 1713298451,
-      "rank": 45,
-      "category": "艺人,体育"
-    },
-    {
       "raw_hot": 111139,
       "num": 111139,
       "word": "A股风格激变",
@@ -7921,14 +7985,6 @@
       "onboard_time": 1713183139,
       "rank": 47,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 108797,
-      "num": 42831,
-      "word": "有种早起可能比熬夜更伤身",
-      "onboard_time": 1713302291,
-      "rank": 22,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 108041,
@@ -7995,6 +8051,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 103699,
+      "num": 103699,
+      "word": "巴黎奥运倒计时100天",
+      "onboard_time": 1713309076,
+      "rank": 25,
+      "category": "体育"
+    },
+    {
       "raw_hot": 103108,
       "num": 91399,
       "word": "以色列通知多地居民留在防空洞附近",
@@ -8041,14 +8105,6 @@
       "onboard_time": 1713179537,
       "rank": 48,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 98363,
-      "num": 42595,
-      "word": "睡觉时不能脚朝西头朝东吗",
-      "onboard_time": 1713297612,
-      "rank": 21,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 98172,
@@ -8211,6 +8267,14 @@
       "category": "情感,网红"
     },
     {
+      "raw_hot": 81283,
+      "num": 81283,
+      "word": "姚志明爆改门童",
+      "onboard_time": 1713306071,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 77410,
       "num": 65403,
       "word": "曾黎黑色小吊带",
@@ -8283,12 +8347,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 70592,
-      "num": 70592,
-      "word": "相亲尽量安排在工作日",
-      "onboard_time": 1713299711,
+      "raw_hot": 70650,
+      "num": 70650,
+      "word": "巴萨vs巴黎",
+      "onboard_time": 1713294072,
       "rank": 28,
-      "category": "情感"
+      "category": "体育"
     },
     {
       "raw_hot": 70590,
@@ -8307,20 +8371,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 68098,
-      "num": 68098,
-      "word": "巴萨vs巴黎",
-      "onboard_time": 1713294072,
-      "rank": 28,
-      "category": "体育"
-    },
-    {
       "raw_hot": 67881,
       "num": 347722,
       "word": "读书一定要读完吗",
       "onboard_time": 1713265219,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 67548,
+      "num": 67548,
+      "word": "别再用棉签掏耳朵了",
+      "onboard_time": 1713294011,
+      "rank": 44,
+      "category": "科学科普"
     },
     {
       "raw_hot": 66771,
@@ -8379,6 +8443,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 60974,
+      "num": 60974,
+      "word": "吴磊郑合惠子张予曦早期片场旧照",
+      "onboard_time": 1713291072,
+      "rank": 31,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 59935,
       "num": 59935,
       "word": "王一博追风者饭拍",
@@ -8395,12 +8467,28 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 57431,
+      "num": 57431,
+      "word": "胎儿在母亲体内长大的过程",
+      "onboard_time": 1713297131,
+      "rank": 31,
+      "category": "母婴育儿"
+    },
+    {
       "raw_hot": 56003,
       "num": 56003,
       "word": "浙江人爱吃的地衣大量出现价格还不低",
       "onboard_time": 1713215050,
       "rank": 45,
       "category": "美食"
+    },
+    {
+      "raw_hot": 55519,
+      "num": 55519,
+      "word": "极越回应员工自称因买小米SU7被辞",
+      "onboard_time": 1713305052,
+      "rank": 46,
+      "category": "汽车"
     },
     {
       "raw_hot": 54715,
@@ -8425,6 +8513,14 @@
       "onboard_time": 1713216672,
       "rank": 46,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 53462,
+      "num": 53462,
+      "word": "冯德伦晒旧照为老婆舒淇庆生",
+      "onboard_time": 1713288433,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 53122,
@@ -8523,14 +8619,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 43987,
-      "num": 43987,
-      "word": "冯德伦晒旧照为老婆舒淇庆生",
-      "onboard_time": 1713288433,
-      "rank": 41,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 43738,
       "num": 886476,
       "word": "国家安全是头等大事不能袖手旁观",
@@ -8555,28 +8643,12 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 40247,
-      "num": 40247,
-      "word": "吴磊郑合惠子张予曦早期片场旧照",
-      "onboard_time": 1713291072,
-      "rank": 31,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 39910,
       "num": 41564,
       "word": "诺米 全开麦",
       "onboard_time": 1713032712,
       "rank": 46,
       "category": "演出"
-    },
-    {
-      "raw_hot": 38886,
-      "num": 38886,
-      "word": "胎儿在母亲体内长大的过程",
-      "onboard_time": 1713297131,
-      "rank": 31,
-      "category": "母婴育儿"
     },
     {
       "raw_hot": 37512,
@@ -8627,14 +8699,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 34403,
-      "num": 32076,
-      "word": "姚志明爆改门童",
-      "onboard_time": 1713306071,
-      "rank": 36,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 34390,
       "num": 1089896,
       "word": "数字丝路发展论坛",
@@ -8683,14 +8747,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 29847,
-      "num": 29847,
-      "word": "别再用棉签掏耳朵了",
-      "onboard_time": 1713294011,
-      "rank": 44,
-      "category": "科学科普"
-    },
-    {
       "raw_hot": 29647,
       "num": 34292,
       "word": "张云雷酷狗唱玩会",
@@ -8699,20 +8755,20 @@
       "category": "演出"
     },
     {
-      "raw_hot": 29100,
-      "num": 29100,
-      "word": "极越回应员工自称因买小米SU7被辞",
-      "onboard_time": 1713305052,
-      "rank": 46,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 28931,
       "num": 301497,
       "word": "尹同跃要给智驾部门加鸡腿",
       "onboard_time": 1713069618,
       "rank": 41,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 28088,
+      "num": 78926,
+      "word": "老人乘扶梯仰面摔倒民警飞速冲上去救人",
+      "onboard_time": 1713296051,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 27698,
@@ -8867,8 +8923,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 13197,
-      "num": 599120,
+      "raw_hot": 15396,
+      "num": 632563,
       "word": "聚焦2024年消博会",
       "onboard_time": 1713275000,
       "rank": 2,
@@ -8889,14 +8945,6 @@
       "onboard_time": 1713206053,
       "rank": 39,
       "category": "社会正能量"
-    },
-    {
-      "raw_hot": 11879,
-      "num": 36843,
-      "word": "老人乘扶梯仰面摔倒民警飞速冲上去救人",
-      "onboard_time": 1713296051,
-      "rank": 29,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 11663,
