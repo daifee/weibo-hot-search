@@ -1,6 +1,6 @@
 {
   "startTime": 1713025251708,
-  "endTime": 1713266116572,
+  "endTime": 1713267302036,
   "band_list": [
     {
       "raw_hot": 3410457,
@@ -859,6 +859,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 746227,
+      "num": 746227,
+      "word": "沈月工作暂停先消失十天",
+      "onboard_time": 1713264558,
+      "rank": 11,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 744914,
       "num": 744914,
       "word": "年轻真好14秒睡了5觉",
@@ -1081,6 +1089,14 @@
       "onboard_time": 1713188898,
       "rank": 6,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 624274,
+      "num": 624274,
+      "word": "微信状态真的很好用",
+      "onboard_time": 1713265278,
+      "rank": 26,
+      "category": "互联网"
     },
     {
       "raw_hot": 621493,
@@ -1851,6 +1867,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 437938,
+      "num": 437938,
+      "word": "杨幂首部反派女主",
+      "onboard_time": 1713265458,
+      "rank": 16,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 437776,
       "num": 225039,
       "word": "重庆大风暴雨",
@@ -2147,20 +2171,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 388318,
-      "num": 378848,
-      "word": "沈月工作暂停先消失十天",
-      "onboard_time": 1713264558,
-      "rank": 11,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 386988,
       "num": 217160,
       "word": "伊朗驻联合国代表团发表声明",
       "onboard_time": 1713050474,
       "rank": 12,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 386428,
+      "num": 386428,
+      "word": "服务区偶遇王一博",
+      "onboard_time": 1713264498,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 385323,
@@ -2217,14 +2241,6 @@
       "onboard_time": 1713238037,
       "rank": 31,
       "category": "财经"
-    },
-    {
-      "raw_hot": 379599,
-      "num": 379599,
-      "word": "服务区偶遇王一博",
-      "onboard_time": 1713264498,
-      "rank": 10,
-      "category": "艺人"
     },
     {
       "raw_hot": 378468,
@@ -2555,6 +2571,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 337831,
+      "num": 235163,
+      "word": "女子入住81层酒店吓到趴地",
+      "onboard_time": 1713264199,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 335266,
       "num": 335266,
       "word": "体检查出幽门螺杆菌怎么办",
@@ -2577,14 +2601,6 @@
       "onboard_time": 1713232098,
       "rank": 18,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 328018,
-      "num": 235163,
-      "word": "女子入住81层酒店吓到趴地",
-      "onboard_time": 1713264199,
-      "rank": 22,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 326168,
@@ -2689,14 +2705,6 @@
       "onboard_time": 1713054197,
       "rank": 21,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 318384,
-      "num": 318384,
-      "word": "杨幂首部反派女主",
-      "onboard_time": 1713265458,
-      "rank": 16,
-      "category": "剧集"
     },
     {
       "raw_hot": 318307,
@@ -2841,6 +2849,14 @@
       "onboard_time": 1713243560,
       "rank": 24,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 306136,
+      "num": 221088,
+      "word": "领证了家里不让住一起",
+      "onboard_time": 1713266117,
+      "rank": 23,
+      "category": "情感"
     },
     {
       "raw_hot": 302853,
@@ -3739,6 +3755,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 232393,
+      "num": 232393,
+      "word": "星穹铁道",
+      "onboard_time": 1713266837,
+      "rank": 19,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 232261,
       "num": 232261,
       "word": "李现 你们是雇的还是员工",
@@ -3905,14 +3929,6 @@
       "onboard_time": 1713015497,
       "rank": 27,
       "category": "演出"
-    },
-    {
-      "raw_hot": 223210,
-      "num": 223210,
-      "word": "微信状态真的很好用",
-      "onboard_time": 1713265278,
-      "rank": 26,
-      "category": "互联网"
     },
     {
       "raw_hot": 222448,
@@ -4313,6 +4329,14 @@
       "onboard_time": 1713006378,
       "rank": 34,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 204821,
+      "num": 204821,
+      "word": "安宰贤和素人合影被问吃大蒜了吗",
+      "onboard_time": 1713267079,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 204810,
@@ -5203,6 +5227,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 171325,
+      "num": 171325,
+      "word": "张艺兴新歌",
+      "onboard_time": 1713267018,
+      "rank": 30,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 170962,
       "num": 170962,
       "word": "为什么年轻人都想逃离银行柜员",
@@ -5371,6 +5403,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 166328,
+      "num": 166328,
+      "word": "杨紫许凯CP感",
+      "onboard_time": 1713267139,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 166284,
       "num": 166284,
       "word": "公司劝退员工的5个常见手段",
@@ -5497,6 +5537,14 @@
       "onboard_time": 1713192620,
       "rank": 42,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 162296,
+      "num": 162296,
+      "word": "马克龙说巴黎奥运会开幕式存在B计划",
+      "onboard_time": 1713266478,
+      "rank": 32,
+      "category": "体育"
     },
     {
       "raw_hot": 162206,
@@ -5769,6 +5817,14 @@
       "onboard_time": 1713235997,
       "rank": 36,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 154586,
+      "num": 154586,
+      "word": "勒克莱尔抵达上海",
+      "onboard_time": 1713266178,
+      "rank": 34,
+      "category": "体育"
     },
     {
       "raw_hot": 154180,
@@ -6371,6 +6427,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 137727,
+      "num": 137727,
+      "word": "杨紫三段哭戏的层次感",
+      "onboard_time": 1713266539,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 137587,
       "num": 137587,
       "word": "沪指翻绿跌破3000点",
@@ -6843,6 +6907,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 120721,
+      "num": 120721,
+      "word": "她来这个家是来享福的",
+      "onboard_time": 1713263419,
+      "rank": 41,
+      "category": "情感"
+    },
+    {
       "raw_hot": 120519,
       "num": 120519,
       "word": "终于看到辛芷蕾的话剧片段了",
@@ -6875,14 +6947,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 118744,
-      "num": 118744,
-      "word": "她来这个家是来享福的",
-      "onboard_time": 1713263419,
-      "rank": 41,
-      "category": "情感"
-    },
-    {
       "raw_hot": 118570,
       "num": 118570,
       "word": "明日方舟嘉年华",
@@ -6897,6 +6961,14 @@
       "onboard_time": 1713138197,
       "rank": 37,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 118344,
+      "num": 118344,
+      "word": "特斯拉裁员赔偿标准或为N加3",
+      "onboard_time": 1713266898,
+      "rank": 45,
+      "category": "汽车"
     },
     {
       "raw_hot": 118310,
@@ -6937,6 +7009,14 @@
       "onboard_time": 1713143058,
       "rank": 49,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 116781,
+      "num": 116781,
+      "word": "为什么现在酒店退房都不查房了",
+      "onboard_time": 1713267139,
+      "rank": 46,
+      "category": "科学科普"
     },
     {
       "raw_hot": 116431,
@@ -7083,12 +7163,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 107214,
+      "num": 107214,
+      "word": "无限暖暖",
+      "onboard_time": 1713267258,
+      "rank": 48,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 106916,
       "num": 106916,
       "word": "高考考700分是种什么概念",
       "onboard_time": 1713158599,
       "rank": 49,
       "category": "教育"
+    },
+    {
+      "raw_hot": 106696,
+      "num": 106696,
+      "word": "胡锡进今天重跌近15000元",
+      "onboard_time": 1713267258,
+      "rank": 49,
+      "category": "财经"
     },
     {
       "raw_hot": 106524,
@@ -7363,6 +7459,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 67881,
+      "num": 347722,
+      "word": "读书一定要读完吗",
+      "onboard_time": 1713265219,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 66771,
       "num": 65122,
       "word": "长期宅在家里能量是不流通的",
@@ -7585,14 +7689,6 @@
       "onboard_time": 1713129311,
       "rank": 33,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 35986,
-      "num": 347722,
-      "word": "读书一定要读完吗",
-      "onboard_time": 1713265219,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 35433,
