@@ -1,6 +1,6 @@
 {
   "startTime": 1711902044401,
-  "endTime": 1713280703117,
+  "endTime": 1713281669243,
   "band_list": [
     {
       "raw_hot": 16874674,
@@ -2187,6 +2187,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 1247161,
+      "num": 1247161,
+      "word": "王妈",
+      "onboard_time": 1713276800,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1243767,
       "num": 1243767,
       "word": "王珂出道吧",
@@ -2249,14 +2257,6 @@
       "onboard_time": 1713275419,
       "rank": 1,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1220155,
-      "num": 1220155,
-      "word": "王妈",
-      "onboard_time": 1713276800,
-      "rank": 31,
-      "category": "剧集"
     },
     {
       "raw_hot": 1219356,
@@ -3267,6 +3267,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1025035,
+      "num": 1025035,
+      "word": "媒体发声能否叫停调休",
+      "onboard_time": 1713277220,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1023808,
       "num": 1023808,
       "word": "郑合惠子 垃圾堆里扒好东西",
@@ -4233,14 +4241,6 @@
       "onboard_time": 1713277458,
       "rank": 19,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 880407,
-      "num": 880407,
-      "word": "媒体发声能否叫停调休",
-      "onboard_time": 1713277220,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 876463,
@@ -7267,6 +7267,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 636647,
+      "num": 636647,
+      "word": "SEVENTEEN回归",
+      "onboard_time": 1713280581,
+      "rank": 37,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 636576,
       "num": 636576,
       "word": "上班七个月亏了两万多",
@@ -8745,6 +8753,14 @@
       "onboard_time": 1713157880,
       "rank": 38,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 556479,
+      "num": 556479,
+      "word": "节目方回应甄嬛传录团综",
+      "onboard_time": 1713280159,
+      "rank": 12,
+      "category": "剧集"
     },
     {
       "raw_hot": 556423,
@@ -10291,6 +10307,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 494253,
+      "num": 494253,
+      "word": "星船癫了",
+      "onboard_time": 1713279259,
+      "rank": 11,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 494139,
       "num": 494139,
       "word": "张予曦超短裙",
@@ -11683,6 +11707,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 448463,
+      "num": 448463,
+      "word": "结婚后只是多了个给我打钱的人",
+      "onboard_time": 1713278599,
+      "rank": 17,
+      "category": "情感"
+    },
+    {
       "raw_hot": 448150,
       "num": 448150,
       "word": "张杰演唱会地屏",
@@ -11697,14 +11729,6 @@
       "onboard_time": 1712826137,
       "rank": 15,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 447908,
-      "num": 447908,
-      "word": "星船癫了",
-      "onboard_time": 1713279259,
-      "rank": 11,
-      "category": "音乐"
     },
     {
       "raw_hot": 447783,
@@ -13611,14 +13635,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 389805,
-      "num": 389805,
-      "word": "节目方回应甄嬛传录团综",
-      "onboard_time": 1713280159,
-      "rank": 12,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 389429,
       "num": 389429,
       "word": "杨紫请国色芳华全组吃汉堡",
@@ -14393,6 +14409,14 @@
       "onboard_time": 1712292497,
       "rank": 23,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 369707,
+      "num": 369707,
+      "word": "男主林瀚 女主晚晚",
+      "onboard_time": 1713279499,
+      "rank": 25,
+      "category": "剧集"
     },
     {
       "raw_hot": 369692,
@@ -15939,6 +15963,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 331292,
+      "num": 268910,
+      "word": "体制内的人有朋友圈自由吗",
+      "onboard_time": 1713279979,
+      "rank": 21,
+      "category": "情感"
+    },
+    {
       "raw_hot": 331136,
       "num": 331136,
       "word": "春花厌官宣杀青",
@@ -16225,14 +16257,6 @@
       "onboard_time": 1712116041,
       "rank": 28,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 324731,
-      "num": 268910,
-      "word": "体制内的人有朋友圈自由吗",
-      "onboard_time": 1713279979,
-      "rank": 21,
-      "category": "情感"
     },
     {
       "raw_hot": 324689,
@@ -16897,14 +16921,6 @@
       "onboard_time": 1712487198,
       "rank": 26,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 312744,
-      "num": 312744,
-      "word": "结婚后只是多了个给我打钱的人",
-      "onboard_time": 1713278599,
-      "rank": 17,
-      "category": "情感"
     },
     {
       "raw_hot": 312725,
@@ -17584,14 +17600,6 @@
       "word": "胡一天演过夏至未至",
       "onboard_time": 1713226338,
       "rank": 17,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 300264,
-      "num": 240702,
-      "word": "男主林瀚 女主晚晚",
-      "onboard_time": 1713279499,
-      "rank": 25,
       "category": "剧集"
     },
     {
@@ -20971,6 +20979,14 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 249747,
+      "num": 249747,
+      "word": "我真的卖了自己的工作",
+      "onboard_time": 1713279680,
+      "rank": 23,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 249718,
       "num": 249718,
       "word": "赵奕欢团队拿到乘风主题曲哭了",
@@ -21129,14 +21145,6 @@
       "onboard_time": 1712639660,
       "rank": 34,
       "category": "旅游,幽默"
-    },
-    {
-      "raw_hot": 248495,
-      "num": 248495,
-      "word": "我真的卖了自己的工作",
-      "onboard_time": 1713279680,
-      "rank": 23,
-      "category": "幽默"
     },
     {
       "raw_hot": 248391,
@@ -22892,7 +22900,7 @@
     },
     {
       "raw_hot": 228950,
-      "num": 228950,
+      "num": 241438,
       "word": "26岁换工作了不敢跟爸妈说",
       "onboard_time": 1713279439,
       "rank": 29,
@@ -25297,6 +25305,14 @@
       "onboard_time": 1711960221,
       "rank": 31,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 207672,
+      "num": 207672,
+      "word": "为什么穷人家庭不和睦",
+      "onboard_time": 1713279920,
+      "rank": 35,
+      "category": "情感"
     },
     {
       "raw_hot": 207644,
@@ -27739,6 +27755,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 195066,
+      "num": 195066,
+      "word": "白鹿出发重庆",
+      "onboard_time": 1713281420,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 195065,
       "num": 195065,
       "word": "LPL春决落地佛山",
@@ -29139,14 +29163,6 @@
       "category": "科学科普"
     },
     {
-      "raw_hot": 188230,
-      "num": 188230,
-      "word": "为什么穷人家庭不和睦",
-      "onboard_time": 1713279920,
-      "rank": 35,
-      "category": "情感"
-    },
-    {
       "raw_hot": 188203,
       "num": 188203,
       "word": "小米汽车试驾者驾龄需达2年",
@@ -29625,6 +29641,14 @@
       "onboard_time": 1712502081,
       "rank": 37,
       "category": "情感"
+    },
+    {
+      "raw_hot": 185990,
+      "num": 185990,
+      "word": "金牛座不会对外说的秘密",
+      "onboard_time": 1713280939,
+      "rank": 33,
+      "category": "情感,网红"
     },
     {
       "raw_hot": 185965,
@@ -30849,14 +30873,6 @@
       "onboard_time": 1712220558,
       "rank": 32,
       "category": "电影"
-    },
-    {
-      "raw_hot": 178335,
-      "num": 178335,
-      "word": "SEVENTEEN回归",
-      "onboard_time": 1713280581,
-      "rank": 37,
-      "category": "音乐"
     },
     {
       "raw_hot": 178302,
@@ -41297,6 +41313,14 @@
       "onboard_time": 1712063840,
       "rank": 48,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 112298,
+      "num": 119846,
+      "word": "500万粉主播澄清撞脸命案逃犯",
+      "onboard_time": 1713281478,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 112172,

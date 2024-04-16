@@ -1,6 +1,6 @@
 {
   "startTime": 1713025251708,
-  "endTime": 1713280703117,
+  "endTime": 1713281669243,
   "band_list": [
     {
       "raw_hot": 3410457,
@@ -291,6 +291,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1247161,
+      "num": 1247161,
+      "word": "王妈",
+      "onboard_time": 1713276800,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1228396,
       "num": 1228396,
       "word": "甄嬛传 团综",
@@ -305,14 +313,6 @@
       "onboard_time": 1713275419,
       "rank": 1,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1220155,
-      "num": 1220155,
-      "word": "王妈",
-      "onboard_time": 1713276800,
-      "rank": 31,
-      "category": "剧集"
     },
     {
       "raw_hot": 1218861,
@@ -457,6 +457,14 @@
       "onboard_time": 1713158839,
       "rank": 36,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 1025035,
+      "num": 1025035,
+      "word": "媒体发声能否叫停调休",
+      "onboard_time": 1713277220,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1007204,
@@ -673,14 +681,6 @@
       "onboard_time": 1713277458,
       "rank": 19,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 880407,
-      "num": 880407,
-      "word": "媒体发声能否叫停调休",
-      "onboard_time": 1713277220,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 865071,
@@ -1155,6 +1155,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 636647,
+      "num": 636647,
+      "word": "SEVENTEEN回归",
+      "onboard_time": 1713280581,
+      "rank": 37,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 635493,
       "num": 635493,
       "word": "安慕希 迪丽热巴",
@@ -1377,6 +1385,14 @@
       "onboard_time": 1713157880,
       "rank": 38,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 556479,
+      "num": 556479,
+      "word": "节目方回应甄嬛传录团综",
+      "onboard_time": 1713280159,
+      "rank": 12,
+      "category": "剧集"
     },
     {
       "raw_hot": 555866,
@@ -1675,6 +1691,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 494253,
+      "num": 494253,
+      "word": "星船癫了",
+      "onboard_time": 1713279259,
+      "rank": 11,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 493151,
       "num": 493151,
       "word": "本周桃花运最旺的星座",
@@ -1915,12 +1939,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 447908,
-      "num": 447908,
-      "word": "星船癫了",
-      "onboard_time": 1713279259,
-      "rank": 11,
-      "category": "音乐"
+      "raw_hot": 448463,
+      "num": 448463,
+      "word": "结婚后只是多了个给我打钱的人",
+      "onboard_time": 1713278599,
+      "rank": 17,
+      "category": "情感"
     },
     {
       "raw_hot": 447768,
@@ -2339,14 +2363,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 389805,
-      "num": 389805,
-      "word": "节目方回应甄嬛传录团综",
-      "onboard_time": 1713280159,
-      "rank": 12,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 386988,
       "num": 217160,
       "word": "伊朗驻联合国代表团发表声明",
@@ -2545,6 +2561,14 @@
       "onboard_time": 1713081858,
       "rank": 31,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 369707,
+      "num": 369707,
+      "word": "男主林瀚 女主晚晚",
+      "onboard_time": 1713279499,
+      "rank": 25,
+      "category": "剧集"
     },
     {
       "raw_hot": 368581,
@@ -2803,6 +2827,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 331292,
+      "num": 268910,
+      "word": "体制内的人有朋友圈自由吗",
+      "onboard_time": 1713279979,
+      "rank": 21,
+      "category": "情感"
+    },
+    {
       "raw_hot": 331136,
       "num": 331136,
       "word": "春花厌官宣杀青",
@@ -2825,14 +2857,6 @@
       "onboard_time": 1713018441,
       "rank": 16,
       "category": "演出"
-    },
-    {
-      "raw_hot": 324731,
-      "num": 268910,
-      "word": "体制内的人有朋友圈自由吗",
-      "onboard_time": 1713279979,
-      "rank": 21,
-      "category": "情感"
     },
     {
       "raw_hot": 324505,
@@ -3019,14 +3043,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 312744,
-      "num": 312744,
-      "word": "结婚后只是多了个给我打钱的人",
-      "onboard_time": 1713278599,
-      "rank": 17,
-      "category": "情感"
-    },
-    {
       "raw_hot": 310669,
       "num": 310669,
       "word": "开始推理吧",
@@ -3144,14 +3160,6 @@
       "word": "胡一天演过夏至未至",
       "onboard_time": 1713226338,
       "rank": 17,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 300264,
-      "num": 240702,
-      "word": "男主林瀚 女主晚晚",
-      "onboard_time": 1713279499,
-      "rank": 25,
       "category": "剧集"
     },
     {
@@ -3787,6 +3795,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 249747,
+      "num": 249747,
+      "word": "我真的卖了自己的工作",
+      "onboard_time": 1713279680,
+      "rank": 23,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 249703,
       "num": 249703,
       "word": "王楚钦比赛",
@@ -3825,14 +3841,6 @@
       "onboard_time": 1713049813,
       "rank": 11,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 248495,
-      "num": 248495,
-      "word": "我真的卖了自己的工作",
-      "onboard_time": 1713279680,
-      "rank": 23,
-      "category": "幽默"
     },
     {
       "raw_hot": 248290,
@@ -4188,7 +4196,7 @@
     },
     {
       "raw_hot": 228950,
-      "num": 228950,
+      "num": 241438,
       "word": "26岁换工作了不敢跟爸妈说",
       "onboard_time": 1713279439,
       "rank": 29,
@@ -4643,6 +4651,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 207672,
+      "num": 207672,
+      "word": "为什么穷人家庭不和睦",
+      "onboard_time": 1713279920,
+      "rank": 35,
+      "category": "情感"
+    },
+    {
       "raw_hot": 207566,
       "num": 207566,
       "word": "张杰第100场演唱会官宣",
@@ -5059,6 +5075,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 195066,
+      "num": 195066,
+      "word": "白鹿出发重庆",
+      "onboard_time": 1713281420,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 194938,
       "num": 194938,
       "word": "中国职工总假期数不及全球多数国家",
@@ -5259,14 +5283,6 @@
       "category": "科学科普"
     },
     {
-      "raw_hot": 188230,
-      "num": 188230,
-      "word": "为什么穷人家庭不和睦",
-      "onboard_time": 1713279920,
-      "rank": 35,
-      "category": "情感"
-    },
-    {
       "raw_hot": 187957,
       "num": 187957,
       "word": "蓝羽晒易烊千玺同台照",
@@ -5313,6 +5329,14 @@
       "onboard_time": 1713193580,
       "rank": 35,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 185990,
+      "num": 185990,
+      "word": "金牛座不会对外说的秘密",
+      "onboard_time": 1713280939,
+      "rank": 33,
+      "category": "情感,网红"
     },
     {
       "raw_hot": 185930,
@@ -5537,14 +5561,6 @@
       "onboard_time": 1713136275,
       "rank": 27,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 178335,
-      "num": 178335,
-      "word": "SEVENTEEN回归",
-      "onboard_time": 1713280581,
-      "rank": 37,
-      "category": "音乐"
     },
     {
       "raw_hot": 178247,
@@ -7769,6 +7785,14 @@
       "onboard_time": 1713166519,
       "rank": 44,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 112298,
+      "num": 119846,
+      "word": "500万粉主播澄清撞脸命案逃犯",
+      "onboard_time": 1713281478,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 111139,
