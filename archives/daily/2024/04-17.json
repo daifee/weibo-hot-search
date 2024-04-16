@@ -1,6 +1,6 @@
 {
   "startTime": 1713284571046,
-  "endTime": 1713291631937,
+  "endTime": 1713292446818,
   "band_list": [
     {
       "raw_hot": 843050,
@@ -459,6 +459,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 40247,
+      "num": 40247,
+      "word": "吴磊郑合惠子张予曦早期片场旧照",
+      "onboard_time": 1713291072,
+      "rank": 31,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 39722,
       "num": 39722,
       "word": "心疼Rebecca",
@@ -467,20 +475,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 37888,
-      "num": 37888,
-      "word": "吴磊郑合惠子张予曦早期片场旧照",
-      "onboard_time": 1713291072,
-      "rank": 31,
-      "category": "作品衍生"
-    },
-    {
-      "raw_hot": 37126,
+      "raw_hot": 37512,
       "num": 37126,
       "word": "眼泪女王 甄嬛传",
       "onboard_time": 1713290653,
       "rank": 32,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 32034,
+      "num": 32034,
+      "word": "第一次看见这么活泼的朱一龙",
+      "onboard_time": 1713291312,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 30976,
@@ -491,12 +499,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 29164,
-      "num": 29164,
-      "word": "第一次看见这么活泼的朱一龙",
-      "onboard_time": 1713291312,
-      "rank": 41,
-      "category": "艺人"
+      "raw_hot": 24892,
+      "num": 24892,
+      "word": "神雕侠侣",
+      "onboard_time": 1713292211,
+      "rank": 43,
+      "category": "剧集"
     },
     {
       "raw_hot": 17241,
