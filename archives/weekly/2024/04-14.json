@@ -1,6 +1,6 @@
 {
   "startTime": 1713025251708,
-  "endTime": 1713241249930,
+  "endTime": 1713242057582,
   "band_list": [
     {
       "raw_hot": 3410457,
@@ -331,6 +331,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 1011938,
+      "num": 1011938,
+      "word": "义乌人已经开始赚巴黎奥运会的钱了",
+      "onboard_time": 1713238759,
+      "rank": 3,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1007204,
       "num": 1007204,
       "word": "突然的恋情可能是间谍的圈套",
@@ -481,14 +489,6 @@
       "onboard_time": 1713229399,
       "rank": 31,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 884665,
-      "num": 884665,
-      "word": "义乌人已经开始赚巴黎奥运会的钱了",
-      "onboard_time": 1713238759,
-      "rank": 3,
-      "category": "体育"
     },
     {
       "raw_hot": 883852,
@@ -771,6 +771,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 715759,
+      "num": 715759,
+      "word": "iPhone16Pro起步存储或为256GB",
+      "onboard_time": 1713238699,
+      "rank": 7,
+      "category": "数码"
+    },
+    {
       "raw_hot": 713250,
       "num": 713250,
       "word": "Thurman猫一杯视频号被封",
@@ -969,14 +977,6 @@
       "onboard_time": 1713094159,
       "rank": 12,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 603138,
-      "num": 603138,
-      "word": "iPhone16Pro起步存储或为256GB",
-      "onboard_time": 1713238699,
-      "rank": 7,
-      "category": "数码"
     },
     {
       "raw_hot": 601903,
@@ -1180,7 +1180,7 @@
     },
     {
       "raw_hot": 526295,
-      "num": 312725,
+      "num": 363092,
       "word": "我爸直接把我考研成绩发到家族群",
       "onboard_time": 1713238278,
       "rank": 30,
@@ -1193,6 +1193,14 @@
       "onboard_time": 1713192979,
       "rank": 14,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 523695,
+      "num": 523695,
+      "word": "柯南官配发糖",
+      "onboard_time": 1713237498,
+      "rank": 48,
+      "category": "动漫"
     },
     {
       "raw_hot": 523301,
@@ -1251,6 +1259,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 512844,
+      "num": 512844,
+      "word": "iPhone16价格",
+      "onboard_time": 1713241099,
+      "rank": 30,
+      "category": "数码"
+    },
+    {
       "raw_hot": 512090,
       "num": 278225,
       "word": "原来这些专业考不了公务员",
@@ -1292,7 +1308,7 @@
     },
     {
       "raw_hot": 507111,
-      "num": 308568,
+      "num": 365344,
       "word": "贾乃亮发了十遍4月21号",
       "onboard_time": 1713239058,
       "rank": 21,
@@ -1377,14 +1393,6 @@
       "onboard_time": 1713230539,
       "rank": 16,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 479591,
-      "num": 479591,
-      "word": "柯南官配发糖",
-      "onboard_time": 1713237498,
-      "rank": 48,
-      "category": "动漫"
     },
     {
       "raw_hot": 479399,
@@ -1595,6 +1603,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 431935,
+      "num": 362275,
+      "word": "一个月从100斤减到120斤的秘诀",
+      "onboard_time": 1713240320,
+      "rank": 23,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 431816,
       "num": 431816,
       "word": "卢广仲 北京草莓",
@@ -1731,6 +1747,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 403342,
+      "num": 403342,
+      "word": "贾玲杀青影像给我看哭了",
+      "onboard_time": 1713240379,
+      "rank": 19,
+      "category": "电影"
+    },
+    {
       "raw_hot": 403172,
       "num": 403172,
       "word": "钟美美回应带家人出国计划",
@@ -1859,8 +1883,8 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 379833,
-      "num": 379833,
+      "raw_hot": 380804,
+      "num": 380804,
       "word": "股市",
       "onboard_time": 1713238037,
       "rank": 31,
@@ -1953,6 +1977,14 @@
       "onboard_time": 1713168498,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 366843,
+      "num": 366843,
+      "word": "光遇复刻",
+      "onboard_time": 1713240800,
+      "rank": 24,
+      "category": "游戏"
     },
     {
       "raw_hot": 366655,
@@ -2147,14 +2179,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 330511,
-      "num": 295472,
-      "word": "一个月从100斤减到120斤的秘诀",
-      "onboard_time": 1713240320,
-      "rank": 23,
-      "category": "运动健身"
-    },
-    {
       "raw_hot": 326168,
       "num": 326168,
       "word": "AI眼里月薪1到1亿元的工作",
@@ -2185,6 +2209,14 @@
       "onboard_time": 1713191779,
       "rank": 23,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 324065,
+      "num": 324065,
+      "word": "周扬青 乘风的行李大开箱",
+      "onboard_time": 1713240978,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 323175,
@@ -2265,14 +2297,6 @@
       "onboard_time": 1713105679,
       "rank": 23,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 315642,
-      "num": 315642,
-      "word": "贾玲杀青影像给我看哭了",
-      "onboard_time": 1713240379,
-      "rank": 19,
-      "category": "电影"
     },
     {
       "raw_hot": 314664,
@@ -2475,14 +2499,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 294524,
-      "num": 294524,
-      "word": "光遇复刻",
-      "onboard_time": 1713240800,
-      "rank": 24,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 292435,
       "num": 127977,
       "word": "上公厕马桶不垫纸会被传染疾病吗",
@@ -2491,12 +2507,28 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 292372,
+      "num": 292372,
+      "word": "开票即候补别太离谱",
+      "onboard_time": 1713239659,
+      "rank": 25,
+      "category": "情感"
+    },
+    {
       "raw_hot": 292170,
       "num": 292170,
       "word": "警方披露调查猫一杯虚假消息案细节",
       "onboard_time": 1713085758,
       "rank": 19,
       "category": "社会新闻,网红"
+    },
+    {
+      "raw_hot": 291464,
+      "num": 291464,
+      "word": "恋与深空",
+      "onboard_time": 1713241099,
+      "rank": 42,
+      "category": "游戏"
     },
     {
       "raw_hot": 291354,
@@ -2545,14 +2577,6 @@
       "onboard_time": 1713153560,
       "rank": 22,
       "category": "艺人,综艺"
-    },
-    {
-      "raw_hot": 288209,
-      "num": 288209,
-      "word": "开票即候补别太离谱",
-      "onboard_time": 1713239659,
-      "rank": 25,
-      "category": "情感"
     },
     {
       "raw_hot": 288002,
@@ -2659,6 +2683,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 276513,
+      "num": 276513,
+      "word": "周深脏脏包",
+      "onboard_time": 1713240021,
+      "rank": 31,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 276152,
       "num": 276152,
       "word": "林保怡 可惜",
@@ -2737,6 +2769,14 @@
       "onboard_time": 1713086777,
       "rank": 21,
       "category": "电影"
+    },
+    {
+      "raw_hot": 266785,
+      "num": 266785,
+      "word": "豹豹猫猫",
+      "onboard_time": 1713240860,
+      "rank": 38,
+      "category": "幽默"
     },
     {
       "raw_hot": 266768,
@@ -2835,6 +2875,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 259911,
+      "num": 259911,
+      "word": "中医建议每天坚持晨跑",
+      "onboard_time": 1713238398,
+      "rank": 45,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 258789,
       "num": 258789,
       "word": "06号选手张杰你好",
@@ -2867,20 +2915,20 @@
       "category": "科学科普"
     },
     {
-      "raw_hot": 253938,
-      "num": 253938,
-      "word": "iPhone16价格",
-      "onboard_time": 1713241099,
-      "rank": 30,
-      "category": "数码"
-    },
-    {
       "raw_hot": 253622,
       "num": 253622,
       "word": "真心建议大家冲一冲AI领域",
       "onboard_time": 1713183017,
       "rank": 35,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 252982,
+      "num": 252982,
+      "word": "热辣滚烫纪录片全集免费",
+      "onboard_time": 1713239058,
+      "rank": 45,
+      "category": "电影"
     },
     {
       "raw_hot": 252575,
@@ -2905,14 +2953,6 @@
       "onboard_time": 1713154459,
       "rank": 30,
       "category": "数码"
-    },
-    {
-      "raw_hot": 251551,
-      "num": 251551,
-      "word": "周深脏脏包",
-      "onboard_time": 1713240021,
-      "rank": 31,
-      "category": "音乐"
     },
     {
       "raw_hot": 250522,
@@ -3307,20 +3347,20 @@
       "category": "电影"
     },
     {
+      "raw_hot": 221704,
+      "num": 221704,
+      "word": "陈瑶170甜妹",
+      "onboard_time": 1713241520,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 221607,
       "num": 221607,
       "word": "伊朗对以的袭击可被视为已结束",
       "onboard_time": 1713065178,
       "rank": 29,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 221032,
-      "num": 221032,
-      "word": "中医建议每天坚持晨跑",
-      "onboard_time": 1713238398,
-      "rank": 45,
-      "category": "运动健身"
     },
     {
       "raw_hot": 220727,
@@ -3363,6 +3403,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 218289,
+      "num": 218289,
+      "word": "景德镇的路灯竟然是陶瓷的",
+      "onboard_time": 1713238159,
+      "rank": 43,
+      "category": "情感"
+    },
+    {
       "raw_hot": 217928,
       "num": 301256,
       "word": "长城智驾直播挑战闹市区",
@@ -3379,6 +3427,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 216889,
+      "num": 216889,
+      "word": "网飞三体 豆瓣",
+      "onboard_time": 1713241340,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 216219,
       "num": 216219,
       "word": "外交部回应伊朗发动军事打击",
@@ -3393,14 +3449,6 @@
       "onboard_time": 1713237317,
       "rank": 34,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 215403,
-      "num": 215403,
-      "word": "周扬青 乘风的行李大开箱",
-      "onboard_time": 1713240978,
-      "rank": 34,
-      "category": "综艺"
     },
     {
       "raw_hot": 215133,
@@ -3627,12 +3675,28 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 203773,
+      "num": 203773,
+      "word": "陈楚生南京",
+      "onboard_time": 1713241039,
+      "rank": 43,
+      "category": "演出"
+    },
+    {
       "raw_hot": 202779,
       "num": 202779,
       "word": "70后教师回应29年助养300名孩子",
       "onboard_time": 1713059178,
       "rank": 36,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 202637,
+      "num": 202637,
+      "word": "天赐的声音第五季阵容官宣",
+      "onboard_time": 1713240978,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 202538,
@@ -3811,6 +3875,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 197768,
+      "num": 197768,
+      "word": "要了男生微信但他有女朋友",
+      "onboard_time": 1713242001,
+      "rank": 43,
+      "category": "情感"
+    },
+    {
       "raw_hot": 197357,
       "num": 197357,
       "word": "纪凌尘看宁静的眼神",
@@ -3931,14 +4003,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 190943,
-      "num": 190943,
-      "word": "豹豹猫猫",
-      "onboard_time": 1713240860,
-      "rank": 38,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 190874,
       "num": 190874,
       "word": "群星闪耀时",
@@ -3987,14 +4051,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 188804,
-      "num": 188804,
-      "word": "天赐的声音第五季阵容官宣",
-      "onboard_time": 1713240978,
-      "rank": 40,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 188512,
       "num": 188512,
       "word": "长沙暴雨天都黑了",
@@ -4033,14 +4089,6 @@
       "onboard_time": 1713193580,
       "rank": 35,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 185844,
-      "num": 185844,
-      "word": "恋与深空",
-      "onboard_time": 1713241099,
-      "rank": 42,
-      "category": "游戏"
     },
     {
       "raw_hot": 185771,
@@ -4195,14 +4243,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 179946,
-      "num": 179946,
-      "word": "陈楚生南京",
-      "onboard_time": 1713241039,
-      "rank": 43,
-      "category": "演出"
-    },
-    {
       "raw_hot": 178933,
       "num": 178933,
       "word": "林更新真不把观众当外人",
@@ -4315,6 +4355,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 174843,
+      "num": 174843,
+      "word": "文俊辉卷毛路透",
+      "onboard_time": 1713241880,
+      "rank": 46,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 174785,
       "num": 174785,
       "word": "华桢入局",
@@ -4339,14 +4387,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 173941,
-      "num": 173941,
-      "word": "热辣滚烫纪录片全集免费",
-      "onboard_time": 1713239058,
-      "rank": 45,
-      "category": "电影"
-    },
-    {
       "raw_hot": 173828,
       "num": 173828,
       "word": "李现台词",
@@ -4361,14 +4401,6 @@
       "onboard_time": 1713173057,
       "rank": 34,
       "category": "体育"
-    },
-    {
-      "raw_hot": 173344,
-      "num": 173344,
-      "word": "景德镇的路灯竟然是陶瓷的",
-      "onboard_time": 1713238159,
-      "rank": 43,
-      "category": "情感"
     },
     {
       "raw_hot": 172945,
@@ -4649,6 +4681,14 @@
       "onboard_time": 1713232698,
       "rank": 32,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 162105,
+      "num": 162105,
+      "word": "奶奶一开口我就在考场了",
+      "onboard_time": 1713241880,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 162099,
@@ -6347,6 +6387,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 44648,
+      "num": 381560,
+      "word": "内娱掌管长腿的神",
+      "onboard_time": 1713240619,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 43333,
       "num": 33495,
       "word": "金秀贤金智媛更新ins",
@@ -6395,6 +6443,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 34390,
+      "num": 890420,
+      "word": "数字丝路发展论坛",
+      "onboard_time": 1713241458,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 33911,
       "num": 803308,
       "word": "一图读懂国家安全新知识",
@@ -6433,14 +6489,6 @@
       "onboard_time": 1713069618,
       "rank": 41,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 28798,
-      "num": 195860,
-      "word": "内娱掌管长腿的神",
-      "onboard_time": 1713240619,
-      "rank": 37,
-      "category": "艺人"
     },
     {
       "raw_hot": 27698,

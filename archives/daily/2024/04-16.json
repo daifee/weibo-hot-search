@@ -1,6 +1,6 @@
 {
   "startTime": 1713198119901,
-  "endTime": 1713241249930,
+  "endTime": 1713242057582,
   "band_list": [
     {
       "raw_hot": 2147550,
@@ -51,6 +51,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 1011938,
+      "num": 1011938,
+      "word": "义乌人已经开始赚巴黎奥运会的钱了",
+      "onboard_time": 1713238759,
+      "rank": 3,
+      "category": "体育"
+    },
+    {
       "raw_hot": 958358,
       "num": 958358,
       "word": "网友上海偶遇老默冯兵低调干跑腿",
@@ -73,14 +81,6 @@
       "onboard_time": 1713229399,
       "rank": 31,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 884665,
-      "num": 884665,
-      "word": "义乌人已经开始赚巴黎奥运会的钱了",
-      "onboard_time": 1713238759,
-      "rank": 3,
-      "category": "体育"
     },
     {
       "raw_hot": 883852,
@@ -131,6 +131,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 715759,
+      "num": 715759,
+      "word": "iPhone16Pro起步存储或为256GB",
+      "onboard_time": 1713238699,
+      "rank": 7,
+      "category": "数码"
+    },
+    {
       "raw_hot": 688432,
       "num": 688432,
       "word": "胖东来回应爆改长沙步步高超市",
@@ -161,14 +169,6 @@
       "onboard_time": 1713229939,
       "rank": 47,
       "category": "美食"
-    },
-    {
-      "raw_hot": 603138,
-      "num": 603138,
-      "word": "iPhone16Pro起步存储或为256GB",
-      "onboard_time": 1713238699,
-      "rank": 7,
-      "category": "数码"
     },
     {
       "raw_hot": 601903,
@@ -212,11 +212,19 @@
     },
     {
       "raw_hot": 526295,
-      "num": 312725,
+      "num": 363092,
       "word": "我爸直接把我考研成绩发到家族群",
       "onboard_time": 1713238278,
       "rank": 30,
       "category": "情感"
+    },
+    {
+      "raw_hot": 523695,
+      "num": 523695,
+      "word": "柯南官配发糖",
+      "onboard_time": 1713237498,
+      "rank": 48,
+      "category": "动漫"
     },
     {
       "raw_hot": 523301,
@@ -243,8 +251,16 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 512844,
+      "num": 512844,
+      "word": "iPhone16价格",
+      "onboard_time": 1713241099,
+      "rank": 30,
+      "category": "数码"
+    },
+    {
       "raw_hot": 507111,
-      "num": 308568,
+      "num": 365344,
       "word": "贾乃亮发了十遍4月21号",
       "onboard_time": 1713239058,
       "rank": 21,
@@ -257,14 +273,6 @@
       "onboard_time": 1713230539,
       "rank": 16,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 479591,
-      "num": 479591,
-      "word": "柯南官配发糖",
-      "onboard_time": 1713237498,
-      "rank": 48,
-      "category": "动漫"
     },
     {
       "raw_hot": 473919,
@@ -315,6 +323,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 431935,
+      "num": 362275,
+      "word": "一个月从100斤减到120斤的秘诀",
+      "onboard_time": 1713240320,
+      "rank": 23,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 422811,
       "num": 422811,
       "word": "iPhone16Pro系列或有30项优化",
@@ -337,6 +353,14 @@
       "onboard_time": 1713228620,
       "rank": 20,
       "category": "情感"
+    },
+    {
+      "raw_hot": 403342,
+      "num": 403342,
+      "word": "贾玲杀青影像给我看哭了",
+      "onboard_time": 1713240379,
+      "rank": 19,
+      "category": "电影"
     },
     {
       "raw_hot": 400625,
@@ -363,12 +387,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 379833,
-      "num": 379833,
+      "raw_hot": 380804,
+      "num": 380804,
       "word": "股市",
       "onboard_time": 1713238037,
       "rank": 31,
       "category": "财经"
+    },
+    {
+      "raw_hot": 366843,
+      "num": 366843,
+      "word": "光遇复刻",
+      "onboard_time": 1713240800,
+      "rank": 24,
+      "category": "游戏"
     },
     {
       "raw_hot": 364908,
@@ -395,14 +427,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 330511,
-      "num": 295472,
-      "word": "一个月从100斤减到120斤的秘诀",
-      "onboard_time": 1713240320,
-      "rank": 23,
-      "category": "运动健身"
-    },
-    {
       "raw_hot": 326348,
       "num": 326348,
       "word": "薛之谦演唱会眼镜哥回应",
@@ -411,12 +435,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 315642,
-      "num": 315642,
-      "word": "贾玲杀青影像给我看哭了",
-      "onboard_time": 1713240379,
-      "rank": 19,
-      "category": "电影"
+      "raw_hot": 324065,
+      "num": 324065,
+      "word": "周扬青 乘风的行李大开箱",
+      "onboard_time": 1713240978,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 314653,
@@ -459,14 +483,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 294524,
-      "num": 294524,
-      "word": "光遇复刻",
-      "onboard_time": 1713240800,
-      "rank": 24,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 292435,
       "num": 127977,
       "word": "上公厕马桶不垫纸会被传染疾病吗",
@@ -475,20 +491,28 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 292372,
+      "num": 292372,
+      "word": "开票即候补别太离谱",
+      "onboard_time": 1713239659,
+      "rank": 25,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 291464,
+      "num": 291464,
+      "word": "恋与深空",
+      "onboard_time": 1713241099,
+      "rank": 42,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 290421,
       "num": 239476,
       "word": "指甲店里面的特殊服务",
       "onboard_time": 1713232818,
       "rank": 30,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 288209,
-      "num": 288209,
-      "word": "开票即候补别太离谱",
-      "onboard_time": 1713239659,
-      "rank": 25,
-      "category": "情感"
     },
     {
       "raw_hot": 287014,
@@ -531,6 +555,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 276513,
+      "num": 276513,
+      "word": "周深脏脏包",
+      "onboard_time": 1713240021,
+      "rank": 31,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 275941,
       "num": 275941,
       "word": "宋亚轩刘耀文一起逛超市",
@@ -547,12 +579,28 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 266785,
+      "num": 266785,
+      "word": "豹豹猫猫",
+      "onboard_time": 1713240860,
+      "rank": 38,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 263747,
       "num": 263747,
       "word": "刘学义参加综艺少的原因",
       "onboard_time": 1713240259,
       "rank": 28,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 259911,
+      "num": 259911,
+      "word": "中医建议每天坚持晨跑",
+      "onboard_time": 1713238398,
+      "rank": 45,
+      "category": "运动健身"
     },
     {
       "raw_hot": 257825,
@@ -563,20 +611,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 253938,
-      "num": 253938,
-      "word": "iPhone16价格",
-      "onboard_time": 1713241099,
-      "rank": 30,
-      "category": "数码"
-    },
-    {
-      "raw_hot": 251551,
-      "num": 251551,
-      "word": "周深脏脏包",
-      "onboard_time": 1713240021,
-      "rank": 31,
-      "category": "音乐"
+      "raw_hot": 252982,
+      "num": 252982,
+      "word": "热辣滚烫纪录片全集免费",
+      "onboard_time": 1713239058,
+      "rank": 45,
+      "category": "电影"
     },
     {
       "raw_hot": 244070,
@@ -627,12 +667,28 @@
       "category": "教育"
     },
     {
-      "raw_hot": 221032,
-      "num": 221032,
-      "word": "中医建议每天坚持晨跑",
-      "onboard_time": 1713238398,
-      "rank": 45,
-      "category": "运动健身"
+      "raw_hot": 221704,
+      "num": 221704,
+      "word": "陈瑶170甜妹",
+      "onboard_time": 1713241520,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 218289,
+      "num": 218289,
+      "word": "景德镇的路灯竟然是陶瓷的",
+      "onboard_time": 1713238159,
+      "rank": 43,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 216889,
+      "num": 216889,
+      "word": "网飞三体 豆瓣",
+      "onboard_time": 1713241340,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 216171,
@@ -641,14 +697,6 @@
       "onboard_time": 1713237317,
       "rank": 34,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 215403,
-      "num": 215403,
-      "word": "周扬青 乘风的行李大开箱",
-      "onboard_time": 1713240978,
-      "rank": 34,
-      "category": "综艺"
     },
     {
       "raw_hot": 212932,
@@ -691,6 +739,22 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 203773,
+      "num": 203773,
+      "word": "陈楚生南京",
+      "onboard_time": 1713241039,
+      "rank": 43,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 202637,
+      "num": 202637,
+      "word": "天赐的声音第五季阵容官宣",
+      "onboard_time": 1713240978,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 198925,
       "num": 198925,
       "word": "朱一龙骑行生日照",
@@ -705,6 +769,14 @@
       "onboard_time": 1713236297,
       "rank": 30,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 197768,
+      "num": 197768,
+      "word": "要了男生微信但他有女朋友",
+      "onboard_time": 1713242001,
+      "rank": 43,
+      "category": "情感"
     },
     {
       "raw_hot": 196096,
@@ -731,14 +803,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 190943,
-      "num": 190943,
-      "word": "豹豹猫猫",
-      "onboard_time": 1713240860,
-      "rank": 38,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 190501,
       "num": 190501,
       "word": "极限挑战定档0421",
@@ -763,14 +827,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 188804,
-      "num": 188804,
-      "word": "天赐的声音第五季阵容官宣",
-      "onboard_time": 1713240978,
-      "rank": 40,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 188753,
       "num": 188753,
       "word": "麦承欢的家真的拆迁了",
@@ -785,14 +841,6 @@
       "onboard_time": 1713240198,
       "rank": 41,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 185844,
-      "num": 185844,
-      "word": "恋与深空",
-      "onboard_time": 1713241099,
-      "rank": 42,
-      "category": "游戏"
     },
     {
       "raw_hot": 185080,
@@ -825,14 +873,6 @@
       "onboard_time": 1713234497,
       "rank": 33,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 179946,
-      "num": 179946,
-      "word": "陈楚生南京",
-      "onboard_time": 1713241039,
-      "rank": 43,
-      "category": "演出"
     },
     {
       "raw_hot": 178284,
@@ -875,20 +915,12 @@
       "category": "科学科普"
     },
     {
-      "raw_hot": 173941,
-      "num": 173941,
-      "word": "热辣滚烫纪录片全集免费",
-      "onboard_time": 1713239058,
-      "rank": 45,
-      "category": "电影"
-    },
-    {
-      "raw_hot": 173344,
-      "num": 173344,
-      "word": "景德镇的路灯竟然是陶瓷的",
-      "onboard_time": 1713238159,
-      "rank": 43,
-      "category": "情感"
+      "raw_hot": 174843,
+      "num": 174843,
+      "word": "文俊辉卷毛路透",
+      "onboard_time": 1713241880,
+      "rank": 46,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 172451,
@@ -961,6 +993,14 @@
       "onboard_time": 1713232698,
       "rank": 32,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 162105,
+      "num": 162105,
+      "word": "奶奶一开口我就在考场了",
+      "onboard_time": 1713241880,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 161905,
@@ -1419,12 +1459,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 44648,
+      "num": 381560,
+      "word": "内娱掌管长腿的神",
+      "onboard_time": 1713240619,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 35433,
       "num": 35433,
       "word": "2024国际乒联世界杯",
       "onboard_time": 1713201733,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 34390,
+      "num": 890420,
+      "word": "数字丝路发展论坛",
+      "onboard_time": 1713241458,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 32432,
@@ -1441,14 +1497,6 @@
       "onboard_time": 1713202273,
       "rank": 49,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 28798,
-      "num": 195860,
-      "word": "内娱掌管长腿的神",
-      "onboard_time": 1713240619,
-      "rank": 37,
-      "category": "艺人"
     },
     {
       "raw_hot": 25932,
