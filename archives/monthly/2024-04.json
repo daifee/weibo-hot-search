@@ -1,6 +1,6 @@
 {
   "startTime": 1711902044401,
-  "endTime": 1713244665430,
+  "endTime": 1713245645173,
   "band_list": [
     {
       "raw_hot": 16874674,
@@ -1099,6 +1099,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 1632107,
+      "num": 1632107,
+      "word": "徐正溪退圈声明后现身片场",
+      "onboard_time": 1713243260,
+      "rank": 0,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 1629634,
       "num": 1629634,
       "word": "刷牙不刷舌头约等于白刷",
@@ -1233,14 +1241,6 @@
       "onboard_time": 1712307258,
       "rank": 4,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1562625,
-      "num": 1562625,
-      "word": "徐正溪退圈声明后现身片场",
-      "onboard_time": 1713243260,
-      "rank": 0,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 1560792,
@@ -1745,6 +1745,14 @@
       "onboard_time": 1712912719,
       "rank": 5,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1352928,
+      "num": 1352928,
+      "word": "看似很爽其实很伤身体的行为",
+      "onboard_time": 1713243019,
+      "rank": 3,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 1350821,
@@ -2683,20 +2691,20 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 1102555,
+      "num": 512844,
+      "word": "iPhone16价格",
+      "onboard_time": 1713241099,
+      "rank": 30,
+      "category": "数码"
+    },
+    {
       "raw_hot": 1099991,
       "num": 529491,
       "word": "虐猫考生该懂的不是舆论而是敬畏生命",
       "onboard_time": 1712628558,
       "rank": 7,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1098155,
-      "num": 512844,
-      "word": "iPhone16价格",
-      "onboard_time": 1713241099,
-      "rank": 30,
-      "category": "数码"
     },
     {
       "raw_hot": 1095863,
@@ -3569,14 +3577,6 @@
       "onboard_time": 1711941978,
       "rank": 23,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 957261,
-      "num": 957261,
-      "word": "看似很爽其实很伤身体的行为",
-      "onboard_time": 1713243019,
-      "rank": 3,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 956919,
@@ -10859,6 +10859,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 463670,
+      "num": 463670,
+      "word": "陶昕然节目里哭到爆青筋",
+      "onboard_time": 1713244339,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 463504,
       "num": 463504,
       "word": "指原莉乃玩胡闹厨房与男友分手",
@@ -10945,6 +10953,14 @@
       "onboard_time": 1712657061,
       "rank": 17,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 460549,
+      "num": 460549,
+      "word": "贾玲杀青影像给我看哭了",
+      "onboard_time": 1713240379,
+      "rank": 19,
+      "category": "电影"
     },
     {
       "raw_hot": 460540,
@@ -11617,6 +11633,14 @@
       "onboard_time": 1713009257,
       "rank": 12,
       "category": "电影"
+    },
+    {
+      "raw_hot": 438962,
+      "num": 438962,
+      "word": "刚出道了15天的爱豆",
+      "onboard_time": 1713242299,
+      "rank": 15,
+      "category": "演出"
     },
     {
       "raw_hot": 438857,
@@ -12379,14 +12403,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 417248,
-      "num": 417248,
-      "word": "贾玲杀青影像给我看哭了",
-      "onboard_time": 1713240379,
-      "rank": 19,
-      "category": "电影"
-    },
-    {
       "raw_hot": 416047,
       "num": 407740,
       "word": "马龙给15岁对手上一课",
@@ -12873,14 +12889,6 @@
       "onboard_time": 1711972640,
       "rank": 13,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 398216,
-      "num": 398216,
-      "word": "刚出道了15天的爱豆",
-      "onboard_time": 1713242299,
-      "rank": 15,
-      "category": "演出"
     },
     {
       "raw_hot": 398168,
@@ -15243,14 +15251,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 333821,
-      "num": 333821,
-      "word": "陶昕然节目里哭到爆青筋",
-      "onboard_time": 1713244339,
-      "rank": 18,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 333759,
       "num": 333759,
       "word": "官方将处理无资质小米SU7跑网约车平台",
@@ -16611,6 +16611,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 306282,
+      "num": 301267,
+      "word": "原来痛经是宫缩疼",
+      "onboard_time": 1713243560,
+      "rank": 24,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 306248,
       "num": 337935,
       "word": "文韬生日会",
@@ -16857,14 +16865,6 @@
       "onboard_time": 1712975956,
       "rank": 14,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 301267,
-      "num": 301267,
-      "word": "原来痛经是宫缩疼",
-      "onboard_time": 1713243560,
-      "rank": 24,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 301264,
@@ -20555,6 +20555,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 246149,
+      "num": 246149,
+      "word": "一夜承明婚后生活具象化",
+      "onboard_time": 1713244040,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 246091,
       "num": 246091,
       "word": "沈图南 林樵松",
@@ -20705,6 +20713,14 @@
       "onboard_time": 1712633540,
       "rank": 42,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 244175,
+      "num": 244175,
+      "word": "余承东回应华为Pura70何时开售",
+      "onboard_time": 1713244339,
+      "rank": 36,
+      "category": "数码"
     },
     {
       "raw_hot": 244080,
@@ -21483,6 +21499,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 235357,
+      "num": 235357,
+      "word": "陈瑶170甜妹",
+      "onboard_time": 1713241520,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 234957,
       "num": 527657,
       "word": "30秒看福宝入住圈舍长啥样",
@@ -21585,14 +21609,6 @@
       "onboard_time": 1711943841,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 233611,
-      "num": 233611,
-      "word": "一夜承明婚后生活具象化",
-      "onboard_time": 1713244040,
-      "rank": 31,
-      "category": "剧集"
     },
     {
       "raw_hot": 233609,
@@ -22689,14 +22705,6 @@
       "onboard_time": 1712737578,
       "rank": 24,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 221704,
-      "num": 221704,
-      "word": "陈瑶170甜妹",
-      "onboard_time": 1713241520,
-      "rank": 38,
-      "category": "艺人"
     },
     {
       "raw_hot": 221607,
@@ -23801,6 +23809,14 @@
       "onboard_time": 1712829799,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 211199,
+      "num": 211199,
+      "word": "半熟恋人",
+      "onboard_time": 1712032400,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 211179,
@@ -25747,6 +25763,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 200161,
+      "num": 200161,
+      "word": "毛不易的每一句歌词都是文案",
+      "onboard_time": 1713242120,
+      "rank": 34,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 200134,
       "num": 200134,
       "word": "陈震再回应小米SU7测评争议",
@@ -25825,14 +25849,6 @@
       "onboard_time": 1711983021,
       "rank": 32,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 199687,
-      "num": 199687,
-      "word": "毛不易的每一句歌词都是文案",
-      "onboard_time": 1713242120,
-      "rank": 34,
-      "category": "音乐"
     },
     {
       "raw_hot": 199641,
@@ -28361,14 +28377,6 @@
       "onboard_time": 1712195958,
       "rank": 35,
       "category": "美食"
-    },
-    {
-      "raw_hot": 186536,
-      "num": 186536,
-      "word": "余承东回应华为Pura70何时开售",
-      "onboard_time": 1713244339,
-      "rank": 36,
-      "category": "数码"
     },
     {
       "raw_hot": 186524,
@@ -31283,6 +31291,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 167461,
+      "num": 167461,
+      "word": "奶奶一开口我就在考场了",
+      "onboard_time": 1713241880,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 167453,
       "num": 167453,
       "word": "你以为飘的柳絮可能是虫子",
@@ -31475,14 +31491,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 166209,
-      "num": 165955,
-      "word": "奶奶一开口我就在考场了",
-      "onboard_time": 1713241880,
-      "rank": 47,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 166179,
       "num": 166179,
       "word": "拒绝花钱参加世界高校排名",
@@ -31601,6 +31609,14 @@
       "onboard_time": 1712807239,
       "rank": 41,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 165235,
+      "num": 165235,
+      "word": "专家称适龄生育有助于预防疾病",
+      "onboard_time": 1713245239,
+      "rank": 38,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 165192,
@@ -31729,6 +31745,14 @@
       "onboard_time": 1713049694,
       "rank": 32,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 164528,
+      "num": 164528,
+      "word": "张婧仪真给胡一天买芋泥啵啵了",
+      "onboard_time": 1713245598,
+      "rank": 39,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 164514,
@@ -33977,14 +34001,6 @@
       "onboard_time": 1712017820,
       "rank": 45,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 151863,
-      "num": 151863,
-      "word": "半熟恋人",
-      "onboard_time": 1712032400,
-      "rank": 44,
-      "category": "综艺"
     },
     {
       "raw_hot": 151818,
@@ -36321,6 +36337,14 @@
       "onboard_time": 1713234618,
       "rank": 42,
       "category": "情感"
+    },
+    {
+      "raw_hot": 137993,
+      "num": 137993,
+      "word": "刘诗诗新剧路透",
+      "onboard_time": 1713245419,
+      "rank": 45,
+      "category": "剧集"
     },
     {
       "raw_hot": 137970,
@@ -40899,6 +40923,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 90362,
+      "num": 128086,
+      "word": "推动建立独立的少年司法系统",
+      "onboard_time": 1713245537,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 90270,
       "num": 1071743,
       "word": "春天的气息藏在花海里",
@@ -42763,6 +42795,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 35559,
+      "num": 435137,
+      "word": "新款蔚来ET7北京车展上市",
+      "onboard_time": 1713243860,
+      "rank": 26,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 35433,
       "num": 35433,
       "word": "2024国际乒联世界杯",
@@ -42804,7 +42844,7 @@
     },
     {
       "raw_hot": 34390,
-      "num": 961838,
+      "num": 1029255,
       "word": "数字丝路发展论坛",
       "onboard_time": 1713241458,
       "rank": 2,
@@ -42881,14 +42921,6 @@
       "onboard_time": 1713187099,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 32210,
-      "num": 275799,
-      "word": "新款蔚来ET7北京车展上市",
-      "onboard_time": 1713243860,
-      "rank": 26,
-      "category": "汽车"
     },
     {
       "raw_hot": 32137,

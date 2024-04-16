@@ -1,0 +1,410 @@
+{
+  "runTime": 1713245645173,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1632107,
+        "num": 1632107,
+        "word": "徐正溪退圈声明后现身片场",
+        "onboard_time": 1713243260,
+        "rank": 0,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 1352928,
+        "num": 1352928,
+        "word": "看似很爽其实很伤身体的行为",
+        "onboard_time": 1713243019,
+        "rank": 1,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 30271,
+        "num": 1029255,
+        "word": "数字丝路发展论坛",
+        "onboard_time": 1713241458,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 809466,
+        "num": 809466,
+        "word": "义乌人已经开始赚巴黎奥运会的钱了",
+        "onboard_time": 1713238759,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 583758,
+        "num": 583758,
+        "word": "重庆地铁站被砸孕妇心跳已停2次",
+        "onboard_time": 1713226218,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 494074,
+        "num": 494074,
+        "word": "豹豹猫猫",
+        "onboard_time": 1713240860,
+        "rank": 5,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 463670,
+        "num": 463670,
+        "word": "陶昕然节目里哭到爆青筋",
+        "onboard_time": 1713244339,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 460549,
+        "num": 460549,
+        "word": "贾玲杀青影像给我看哭了",
+        "onboard_time": 1713240379,
+        "rank": 7,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 438962,
+        "num": 438962,
+        "word": "刚出道了15天的爱豆",
+        "onboard_time": 1713242299,
+        "rank": 8,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 118687,
+        "num": 437784,
+        "word": "王楚钦澳门世界杯现场大图",
+        "onboard_time": 1713242359,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1102555,
+        "num": 437231,
+        "word": "iPhone16价格",
+        "onboard_time": 1713241099,
+        "rank": 10,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 587082,
+        "num": 436452,
+        "word": "小新被爆家暴出轨",
+        "onboard_time": 1713191599,
+        "rank": 11,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 35559,
+        "num": 435137,
+        "word": "新款蔚来ET7北京车展上市",
+        "onboard_time": 1713243860,
+        "rank": 12,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 434131,
+        "num": 434131,
+        "word": "男子当众扒光前女友衣服获刑5年",
+        "onboard_time": 1713207971,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 428231,
+        "num": 428231,
+        "word": "12306抢票",
+        "onboard_time": 1713229041,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 397442,
+        "num": 397442,
+        "word": "iPhone16Pro起步存储或为256GB",
+        "onboard_time": 1713238699,
+        "rank": 15,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 388682,
+        "num": 388682,
+        "word": "专家建议增加下半年法定节假日",
+        "onboard_time": 1713229399,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 303206,
+        "num": 303206,
+        "word": "开票即候补别太离谱",
+        "onboard_time": 1713239659,
+        "rank": 17,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 301943,
+        "num": 301943,
+        "word": "迪丽热巴官宣开推2",
+        "onboard_time": 1713239118,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 273113,
+        "num": 273113,
+        "word": "周扬青 乘风的行李大开箱",
+        "onboard_time": 1713240978,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 511937,
+        "num": 272259,
+        "word": "要了男生微信但他有女朋友",
+        "onboard_time": 1713242001,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 422174,
+        "num": 266333,
+        "word": "一个月从100斤减到120斤的秘诀",
+        "onboard_time": 1713240320,
+        "rank": 21,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 321812,
+        "num": 257004,
+        "word": "我爸直接把我考研成绩发到家族群",
+        "onboard_time": 1713238278,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 306282,
+        "num": 248263,
+        "word": "原来痛经是宫缩疼",
+        "onboard_time": 1713243560,
+        "rank": 23,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 246149,
+        "num": 246149,
+        "word": "一夜承明婚后生活具象化",
+        "onboard_time": 1713244040,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 269611,
+        "num": 245620,
+        "word": "贾乃亮发了十遍4月21号",
+        "onboard_time": 1713239058,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 244175,
+        "num": 244175,
+        "word": "余承东回应华为Pura70何时开售",
+        "onboard_time": 1713244339,
+        "rank": 26,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 235357,
+        "num": 235357,
+        "word": "陈瑶170甜妹",
+        "onboard_time": 1713241520,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 250418,
+        "num": 232791,
+        "word": "网友上海偶遇老默冯兵低调干跑腿",
+        "onboard_time": 1713234738,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 159886,
+        "num": 223937,
+        "word": "胃癌的发生是一个长期的过程",
+        "onboard_time": 1713223577,
+        "rank": 29,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 223387,
+        "num": 223387,
+        "word": "38岁单身无娃的女性生活",
+        "onboard_time": 1713226218,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 211199,
+        "num": 211199,
+        "word": "半熟恋人",
+        "onboard_time": 1713245060,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 207095,
+        "num": 207095,
+        "word": "广告被屏蔽芒果TV起诉拦截公司",
+        "onboard_time": 1713243739,
+        "rank": 32,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 207028,
+        "num": 207028,
+        "word": "原神烬中歌",
+        "onboard_time": 1713243560,
+        "rank": 33,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 200161,
+        "num": 200161,
+        "word": "毛不易的每一句歌词都是文案",
+        "onboard_time": 1713242120,
+        "rank": 34,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 174788,
+        "num": 174788,
+        "word": "中医建议每天坚持晨跑",
+        "onboard_time": 1713238398,
+        "rank": 35,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 169500,
+        "num": 169500,
+        "word": "股市",
+        "onboard_time": 1713238037,
+        "rank": 36,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 167461,
+        "num": 167461,
+        "word": "奶奶一开口我就在考场了",
+        "onboard_time": 1713241880,
+        "rank": 37,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 165235,
+        "num": 165235,
+        "word": "专家称适龄生育有助于预防疾病",
+        "onboard_time": 1713245239,
+        "rank": 38,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 164528,
+        "num": 164528,
+        "word": "张婧仪真给胡一天买芋泥啵啵了",
+        "onboard_time": 1713245598,
+        "rank": 39,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 157928,
+        "num": 157928,
+        "word": "柯南官配发糖",
+        "onboard_time": 1713237498,
+        "rank": 40,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 153507,
+        "num": 153507,
+        "word": "歌手2024",
+        "onboard_time": 1713227058,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 142819,
+        "num": 142819,
+        "word": "欢乐钓鱼大师 维护",
+        "onboard_time": 1713244579,
+        "rank": 42,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 141875,
+        "num": 141875,
+        "word": "突然觉得工作后真的好啊",
+        "onboard_time": 1713236297,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 140133,
+        "num": 140133,
+        "word": "周深脏脏包",
+        "onboard_time": 1713240021,
+        "rank": 44,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 137993,
+        "num": 137993,
+        "word": "刘诗诗新剧路透",
+        "onboard_time": 1713245419,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 135145,
+        "num": 135145,
+        "word": "庄达菲发文谈首张EP",
+        "onboard_time": 1713244100,
+        "rank": 46,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 133524,
+        "num": 133524,
+        "word": "极限挑战第十季X官宣",
+        "onboard_time": 1713234318,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 132315,
+        "num": 132315,
+        "word": "刘学义参加综艺少的原因",
+        "onboard_time": 1713240259,
+        "rank": 48,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 90362,
+        "num": 128086,
+        "word": "推动建立独立的少年司法系统",
+        "onboard_time": 1713245537,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平会见德国总理朔尔茨#"
+    }
+  }
+}

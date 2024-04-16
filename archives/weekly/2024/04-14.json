@@ -1,6 +1,6 @@
 {
   "startTime": 1713025251708,
-  "endTime": 1713244665430,
+  "endTime": 1713245645173,
   "band_list": [
     {
       "raw_hot": 3410457,
@@ -155,6 +155,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1632107,
+      "num": 1632107,
+      "word": "徐正溪退圈声明后现身片场",
+      "onboard_time": 1713243260,
+      "rank": 0,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 1601825,
       "num": 1601825,
       "word": "拜登回应伊朗袭击以色列",
@@ -163,20 +171,20 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 1562625,
-      "num": 1562625,
-      "word": "徐正溪退圈声明后现身片场",
-      "onboard_time": 1713243260,
-      "rank": 0,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 1384101,
       "num": 1384101,
       "word": "你们有5根手指 我只有4根诶",
       "onboard_time": 1713077417,
       "rank": 1,
       "category": "情感"
+    },
+    {
+      "raw_hot": 1352928,
+      "num": 1352928,
+      "word": "看似很爽其实很伤身体的行为",
+      "onboard_time": 1713243019,
+      "rank": 3,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 1350821,
@@ -283,7 +291,7 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 1098155,
+      "raw_hot": 1102555,
       "num": 512844,
       "word": "iPhone16价格",
       "onboard_time": 1713241099,
@@ -433,14 +441,6 @@
       "onboard_time": 1713234738,
       "rank": 25,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 957261,
-      "num": 957261,
-      "word": "看似很爽其实很伤身体的行为",
-      "onboard_time": 1713243019,
-      "rank": 3,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 956919,
@@ -1499,6 +1499,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 463670,
+      "num": 463670,
+      "word": "陶昕然节目里哭到爆青筋",
+      "onboard_time": 1713244339,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 463365,
       "num": 299024,
       "word": "结婚一年婆婆就瘫痪了",
@@ -1513,6 +1521,14 @@
       "onboard_time": 1713019820,
       "rank": 8,
       "category": "演出"
+    },
+    {
+      "raw_hot": 460549,
+      "num": 460549,
+      "word": "贾玲杀青影像给我看哭了",
+      "onboard_time": 1713240379,
+      "rank": 19,
+      "category": "电影"
     },
     {
       "raw_hot": 457593,
@@ -1601,6 +1617,14 @@
       "onboard_time": 1713186859,
       "rank": 36,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 438962,
+      "num": 438962,
+      "word": "刚出道了15天的爱豆",
+      "onboard_time": 1713242299,
+      "rank": 15,
+      "category": "演出"
     },
     {
       "raw_hot": 438857,
@@ -1715,14 +1739,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 417248,
-      "num": 417248,
-      "word": "贾玲杀青影像给我看哭了",
-      "onboard_time": 1713240379,
-      "rank": 19,
-      "category": "电影"
-    },
-    {
       "raw_hot": 416047,
       "num": 407740,
       "word": "马龙给15岁对手上一课",
@@ -1817,14 +1833,6 @@
       "onboard_time": 1713016519,
       "rank": 12,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 398216,
-      "num": 398216,
-      "word": "刚出道了15天的爱豆",
-      "onboard_time": 1713242299,
-      "rank": 15,
-      "category": "演出"
     },
     {
       "raw_hot": 398077,
@@ -2211,14 +2219,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 333821,
-      "num": 333821,
-      "word": "陶昕然节目里哭到爆青筋",
-      "onboard_time": 1713244339,
-      "rank": 18,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 333049,
       "num": 333049,
       "word": "吴镇宇被袁咏仪强行闭麦",
@@ -2451,6 +2451,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 306282,
+      "num": 301267,
+      "word": "原来痛经是宫缩疼",
+      "onboard_time": 1713243560,
+      "rank": 24,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 302853,
       "num": 302853,
       "word": "98年小伙因精神状态太美丽走红",
@@ -2465,14 +2473,6 @@
       "onboard_time": 1713231558,
       "rank": 20,
       "category": "美妆"
-    },
-    {
-      "raw_hot": 301267,
-      "num": 301267,
-      "word": "原来痛经是宫缩疼",
-      "onboard_time": 1713243560,
-      "rank": 24,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 300649,
@@ -3099,12 +3099,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 246149,
+      "num": 246149,
+      "word": "一夜承明婚后生活具象化",
+      "onboard_time": 1713244040,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 245917,
       "num": 245917,
       "word": "何洁 我不在乎翻红因为我红过",
       "onboard_time": 1713083778,
       "rank": 23,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 244175,
+      "num": 244175,
+      "word": "余承东回应华为Pura70何时开售",
+      "onboard_time": 1713244339,
+      "rank": 36,
+      "category": "数码"
     },
     {
       "raw_hot": 244070,
@@ -3203,6 +3219,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 235357,
+      "num": 235357,
+      "word": "陈瑶170甜妹",
+      "onboard_time": 1713241520,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 234655,
       "num": 234655,
       "word": "暴雪前总裁希望玩家给小费",
@@ -3217,14 +3241,6 @@
       "onboard_time": 1713161777,
       "rank": 30,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 233611,
-      "num": 233611,
-      "word": "一夜承明婚后生活具象化",
-      "onboard_time": 1713244040,
-      "rank": 31,
-      "category": "剧集"
     },
     {
       "raw_hot": 233520,
@@ -3411,14 +3427,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 221704,
-      "num": 221704,
-      "word": "陈瑶170甜妹",
-      "onboard_time": 1713241520,
-      "rank": 38,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 221607,
       "num": 221607,
       "word": "伊朗对以的袭击可被视为已结束",
@@ -3593,6 +3601,14 @@
       "onboard_time": 1713228620,
       "rank": 27,
       "category": "情感"
+    },
+    {
+      "raw_hot": 211199,
+      "num": 211199,
+      "word": "半熟恋人",
+      "onboard_time": 1713245060,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 211092,
@@ -3851,20 +3867,20 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 200161,
+      "num": 200161,
+      "word": "毛不易的每一句歌词都是文案",
+      "onboard_time": 1713242120,
+      "rank": 34,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 200132,
       "num": 200132,
       "word": "张栋梁在人才市场唱歌",
       "onboard_time": 1713062898,
       "rank": 33,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 199687,
-      "num": 199687,
-      "word": "毛不易的每一句歌词都是文案",
-      "onboard_time": 1713242120,
-      "rank": 34,
-      "category": "音乐"
     },
     {
       "raw_hot": 199506,
@@ -4153,14 +4169,6 @@
       "onboard_time": 1713106578,
       "rank": 26,
       "category": "演出"
-    },
-    {
-      "raw_hot": 186536,
-      "num": 186536,
-      "word": "余承东回应华为Pura70何时开售",
-      "onboard_time": 1713244339,
-      "rank": 36,
-      "category": "数码"
     },
     {
       "raw_hot": 186501,
@@ -4611,6 +4619,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 167461,
+      "num": 167461,
+      "word": "奶奶一开口我就在考场了",
+      "onboard_time": 1713241880,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 167328,
       "num": 167328,
       "word": "妈妈养了13年的狗被邻居打死了",
@@ -4659,14 +4675,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 166209,
-      "num": 165955,
-      "word": "奶奶一开口我就在考场了",
-      "onboard_time": 1713241880,
-      "rank": 47,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 165964,
       "num": 165964,
       "word": "第九周最佳选手归期",
@@ -4681,6 +4689,14 @@
       "onboard_time": 1713136575,
       "rank": 19,
       "category": "体育"
+    },
+    {
+      "raw_hot": 165235,
+      "num": 165235,
+      "word": "专家称适龄生育有助于预防疾病",
+      "onboard_time": 1713245239,
+      "rank": 38,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 165172,
@@ -4721,6 +4737,14 @@
       "onboard_time": 1713049694,
       "rank": 32,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 164528,
+      "num": 164528,
+      "word": "张婧仪真给胡一天买芋泥啵啵了",
+      "onboard_time": 1713245598,
+      "rank": 39,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 164498,
@@ -5499,6 +5523,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 137993,
+      "num": 137993,
+      "word": "刘诗诗新剧路透",
+      "onboard_time": 1713245419,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 137906,
       "num": 137906,
       "word": "小米SU7碰撞测试",
@@ -6227,6 +6259,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 90362,
+      "num": 128086,
+      "word": "推动建立独立的少年司法系统",
+      "onboard_time": 1713245537,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 89339,
       "num": 118296,
       "word": "绝大部分人感染HPV后会自愈",
@@ -6547,6 +6587,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 35559,
+      "num": 435137,
+      "word": "新款蔚来ET7北京车展上市",
+      "onboard_time": 1713243860,
+      "rank": 26,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 35433,
       "num": 35433,
       "word": "2024国际乒联世界杯",
@@ -6556,7 +6604,7 @@
     },
     {
       "raw_hot": 34390,
-      "num": 961838,
+      "num": 1029255,
       "word": "数字丝路发展论坛",
       "onboard_time": 1713241458,
       "rank": 2,
@@ -6577,14 +6625,6 @@
       "onboard_time": 1713187099,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 32210,
-      "num": 275799,
-      "word": "新款蔚来ET7北京车展上市",
-      "onboard_time": 1713243860,
-      "rank": 26,
-      "category": "汽车"
     },
     {
       "raw_hot": 31978,

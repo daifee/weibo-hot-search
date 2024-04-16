@@ -1,6 +1,6 @@
 {
   "startTime": 1713198119901,
-  "endTime": 1713244665430,
+  "endTime": 1713245645173,
   "band_list": [
     {
       "raw_hot": 2147550,
@@ -19,8 +19,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1562625,
-      "num": 1562625,
+      "raw_hot": 1632107,
+      "num": 1632107,
       "word": "徐正溪退圈声明后现身片场",
       "onboard_time": 1713243260,
       "rank": 0,
@@ -33,6 +33,14 @@
       "onboard_time": 1713191599,
       "rank": 3,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 1352928,
+      "num": 1352928,
+      "word": "看似很爽其实很伤身体的行为",
+      "onboard_time": 1713243019,
+      "rank": 3,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 1334836,
@@ -51,7 +59,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1098155,
+      "raw_hot": 1102555,
       "num": 512844,
       "word": "iPhone16价格",
       "onboard_time": 1713241099,
@@ -81,14 +89,6 @@
       "onboard_time": 1713234738,
       "rank": 25,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 957261,
-      "num": 957261,
-      "word": "看似很爽其实很伤身体的行为",
-      "onboard_time": 1713243019,
-      "rank": 3,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 904523,
@@ -323,6 +323,22 @@
       "category": "健康医疗,科学科普"
     },
     {
+      "raw_hot": 463670,
+      "num": 463670,
+      "word": "陶昕然节目里哭到爆青筋",
+      "onboard_time": 1713244339,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 460549,
+      "num": 460549,
+      "word": "贾玲杀青影像给我看哭了",
+      "onboard_time": 1713240379,
+      "rank": 19,
+      "category": "电影"
+    },
+    {
       "raw_hot": 456056,
       "num": 456056,
       "word": "金鹤龙发了迪丽热巴",
@@ -345,6 +361,14 @@
       "onboard_time": 1713226098,
       "rank": 13,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 438962,
+      "num": 438962,
+      "word": "刚出道了15天的爱豆",
+      "onboard_time": 1713242299,
+      "rank": 15,
+      "category": "演出"
     },
     {
       "raw_hot": 437776,
@@ -379,14 +403,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 417248,
-      "num": 417248,
-      "word": "贾玲杀青影像给我看哭了",
-      "onboard_time": 1713240379,
-      "rank": 19,
-      "category": "电影"
-    },
-    {
       "raw_hot": 407143,
       "num": 274748,
       "word": "十六岁才是读博的好年龄",
@@ -401,14 +417,6 @@
       "onboard_time": 1713192979,
       "rank": 5,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 398216,
-      "num": 398216,
-      "word": "刚出道了15天的爱豆",
-      "onboard_time": 1713242299,
-      "rank": 15,
-      "category": "演出"
     },
     {
       "raw_hot": 396282,
@@ -467,14 +475,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 333821,
-      "num": 333821,
-      "word": "陶昕然节目里哭到爆青筋",
-      "onboard_time": 1713244339,
-      "rank": 18,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 331136,
       "num": 331136,
       "word": "春花厌官宣杀青",
@@ -523,20 +523,20 @@
       "category": "情感"
     },
     {
+      "raw_hot": 306282,
+      "num": 301267,
+      "word": "原来痛经是宫缩疼",
+      "onboard_time": 1713243560,
+      "rank": 24,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 301783,
       "num": 301783,
       "word": "皮肤开始变好的7个习惯",
       "onboard_time": 1713231558,
       "rank": 20,
       "category": "美妆"
-    },
-    {
-      "raw_hot": 301267,
-      "num": 301267,
-      "word": "原来痛经是宫缩疼",
-      "onboard_time": 1713243560,
-      "rank": 24,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 300266,
@@ -675,6 +675,22 @@
       "category": "电影"
     },
     {
+      "raw_hot": 246149,
+      "num": 246149,
+      "word": "一夜承明婚后生活具象化",
+      "onboard_time": 1713244040,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 244175,
+      "num": 244175,
+      "word": "余承东回应华为Pura70何时开售",
+      "onboard_time": 1713244339,
+      "rank": 36,
+      "category": "数码"
+    },
+    {
       "raw_hot": 244070,
       "num": 244070,
       "word": "刘亦菲玫瑰的故事什么时候播",
@@ -699,12 +715,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 233611,
-      "num": 233611,
-      "word": "一夜承明婚后生活具象化",
-      "onboard_time": 1713244040,
-      "rank": 31,
-      "category": "剧集"
+      "raw_hot": 235357,
+      "num": 235357,
+      "word": "陈瑶170甜妹",
+      "onboard_time": 1713241520,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 232716,
@@ -729,14 +745,6 @@
       "onboard_time": 1713236118,
       "rank": 27,
       "category": "教育"
-    },
-    {
-      "raw_hot": 221704,
-      "num": 221704,
-      "word": "陈瑶170甜妹",
-      "onboard_time": 1713241520,
-      "rank": 38,
-      "category": "艺人"
     },
     {
       "raw_hot": 218289,
@@ -787,6 +795,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 211199,
+      "num": 211199,
+      "word": "半熟恋人",
+      "onboard_time": 1713245060,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 210215,
       "num": 210215,
       "word": "泼水节警察叔叔和他没满月的小水枪",
@@ -827,8 +843,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 199687,
-      "num": 199687,
+      "raw_hot": 200161,
+      "num": 200161,
       "word": "毛不易的每一句歌词都是文案",
       "onboard_time": 1713242120,
       "rank": 34,
@@ -913,14 +929,6 @@
       "onboard_time": 1713240198,
       "rank": 41,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 186536,
-      "num": 186536,
-      "word": "余承东回应华为Pura70何时开售",
-      "onboard_time": 1713244339,
-      "rank": 36,
-      "category": "数码"
     },
     {
       "raw_hot": 185080,
@@ -1051,6 +1059,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 167461,
+      "num": 167461,
+      "word": "奶奶一开口我就在考场了",
+      "onboard_time": 1713241880,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 166954,
       "num": 166954,
       "word": "白城",
@@ -1067,20 +1083,28 @@
       "category": "情感"
     },
     {
-      "raw_hot": 166209,
-      "num": 165955,
-      "word": "奶奶一开口我就在考场了",
-      "onboard_time": 1713241880,
-      "rank": 47,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 165964,
       "num": 165964,
       "word": "第九周最佳选手归期",
       "onboard_time": 1713243380,
       "rank": 42,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 165235,
+      "num": 165235,
+      "word": "专家称适龄生育有助于预防疾病",
+      "onboard_time": 1713245239,
+      "rank": 38,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 164528,
+      "num": 164528,
+      "word": "张婧仪真给胡一天买芋泥啵啵了",
+      "onboard_time": 1713245598,
+      "rank": 39,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 162902,
@@ -1241,6 +1265,14 @@
       "onboard_time": 1713234618,
       "rank": 42,
       "category": "情感"
+    },
+    {
+      "raw_hot": 137993,
+      "num": 137993,
+      "word": "刘诗诗新剧路透",
+      "onboard_time": 1713245419,
+      "rank": 45,
+      "category": "剧集"
     },
     {
       "raw_hot": 136817,
@@ -1483,6 +1515,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 90362,
+      "num": 128086,
+      "word": "推动建立独立的少年司法系统",
+      "onboard_time": 1713245537,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 88050,
       "num": 143106,
       "word": "体检查出幽门螺杆菌怎么办",
@@ -1579,6 +1619,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 35559,
+      "num": 435137,
+      "word": "新款蔚来ET7北京车展上市",
+      "onboard_time": 1713243860,
+      "rank": 26,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 35433,
       "num": 35433,
       "word": "2024国际乒联世界杯",
@@ -1588,7 +1636,7 @@
     },
     {
       "raw_hot": 34390,
-      "num": 961838,
+      "num": 1029255,
       "word": "数字丝路发展论坛",
       "onboard_time": 1713241458,
       "rank": 2,
@@ -1601,14 +1649,6 @@
       "onboard_time": 1713187099,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 32210,
-      "num": 275799,
-      "word": "新款蔚来ET7北京车展上市",
-      "onboard_time": 1713243860,
-      "rank": 26,
-      "category": "汽车"
     },
     {
       "raw_hot": 31978,
