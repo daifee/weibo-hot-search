@@ -1,6 +1,6 @@
 {
   "startTime": 1713025251708,
-  "endTime": 1713303260313,
+  "endTime": 1713305897495,
   "band_list": [
     {
       "raw_hot": 3410457,
@@ -4059,6 +4059,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 236883,
+      "num": 236883,
+      "word": "得知邻居是欠债潜逃者后小岛居民选择这样做",
+      "onboard_time": 1713296471,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 236417,
       "num": 236417,
       "word": "薛之谦演唱会眼镜哥被质疑系策划",
@@ -6123,6 +6131,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 163540,
+      "num": 174934,
+      "word": "为什么爸妈没有想过给女儿买房",
+      "onboard_time": 1713277700,
+      "rank": 39,
+      "category": "情感"
+    },
+    {
       "raw_hot": 162902,
       "num": 162902,
       "word": "切尔西抢点球内讧",
@@ -6601,14 +6617,6 @@
       "onboard_time": 1713254957,
       "rank": 42,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 150694,
-      "num": 174934,
-      "word": "为什么爸妈没有想过给女儿买房",
-      "onboard_time": 1713277700,
-      "rank": 39,
-      "category": "情感"
     },
     {
       "raw_hot": 150585,
@@ -7587,14 +7595,6 @@
       "category": "读书作家"
     },
     {
-      "raw_hot": 122982,
-      "num": 122982,
-      "word": "得知邻居是欠债潜逃者后小岛居民选择这样做",
-      "onboard_time": 1713296471,
-      "rank": 11,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 122711,
       "num": 122711,
       "word": "MiuMiu2024手袋系列",
@@ -7857,6 +7857,14 @@
       "onboard_time": 1713180678,
       "rank": 44,
       "category": "财经"
+    },
+    {
+      "raw_hot": 110856,
+      "num": 63403,
+      "word": "小女孩一脚踩断家里大理石茶几",
+      "onboard_time": 1713301751,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 110692,
@@ -8179,12 +8187,28 @@
       "category": "情感,网红"
     },
     {
+      "raw_hot": 77492,
+      "num": 77492,
+      "word": "王一博奥运会资格赛系列赛VCR",
+      "onboard_time": 1713298451,
+      "rank": 45,
+      "category": "艺人,体育"
+    },
+    {
       "raw_hot": 77410,
       "num": 65403,
       "word": "曾黎黑色小吊带",
       "onboard_time": 1713030973,
       "rank": 30,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 76783,
+      "num": 41113,
+      "word": "睡觉时不能脚朝西头朝东吗",
+      "onboard_time": 1713297612,
+      "rank": 21,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 76508,
@@ -8201,6 +8225,14 @@
       "onboard_time": 1713137895,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 74568,
+      "num": 40365,
+      "word": "有种早起可能比熬夜更伤身",
+      "onboard_time": 1713302291,
+      "rank": 22,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 74298,
@@ -8339,20 +8371,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 59208,
+      "num": 59208,
+      "word": "巴萨vs巴黎",
+      "onboard_time": 1713294072,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 58712,
+      "num": 58712,
+      "word": "相亲尽量安排在工作日",
+      "onboard_time": 1713299711,
+      "rank": 28,
+      "category": "情感"
+    },
+    {
       "raw_hot": 58710,
       "num": 65555,
       "word": "AG 现场复盘",
       "onboard_time": 1713014658,
       "rank": 49,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 56624,
-      "num": 56624,
-      "word": "巴萨vs巴黎",
-      "onboard_time": 1713294072,
-      "rank": 28,
-      "category": "体育"
     },
     {
       "raw_hot": 56003,
@@ -8417,14 +8457,6 @@
       "onboard_time": 1713288072,
       "rank": 32,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 50313,
-      "num": 24849,
-      "word": "睡觉时不能脚朝西头朝东吗",
-      "onboard_time": 1713297612,
-      "rank": 21,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 50063,
@@ -8521,14 +8553,6 @@
       "onboard_time": 1713074958,
       "rank": 29,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 40302,
-      "num": 40302,
-      "word": "王一博奥运会资格赛系列赛VCR",
-      "onboard_time": 1713298451,
-      "rank": 45,
-      "category": "艺人,体育"
     },
     {
       "raw_hot": 40247,
@@ -8651,6 +8675,30 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 28423,
+      "num": 28423,
+      "word": "胎儿在母亲体内长大的过程",
+      "onboard_time": 1713297131,
+      "rank": 31,
+      "category": "母婴育儿"
+    },
+    {
+      "raw_hot": 28305,
+      "num": 28305,
+      "word": "神雕侠侣",
+      "onboard_time": 1713292211,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 27766,
+      "num": 27766,
+      "word": "别再用棉签掏耳朵了",
+      "onboard_time": 1713294011,
+      "rank": 44,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 27698,
       "num": 27698,
       "word": "张杰3场就像我穿的衣服那么少",
@@ -8675,14 +8723,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 26624,
-      "num": 23101,
-      "word": "别再用棉签掏耳朵了",
-      "onboard_time": 1713294011,
-      "rank": 44,
-      "category": "科学科普"
-    },
-    {
       "raw_hot": 26575,
       "num": 599220,
       "word": "关于国家安全这些你要知道",
@@ -8696,14 +8736,6 @@
       "word": "贤佑海仁复婚失败",
       "onboard_time": 1713111318,
       "rank": 41,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 26451,
-      "num": 26451,
-      "word": "神雕侠侣",
-      "onboard_time": 1713292211,
-      "rank": 43,
       "category": "剧集"
     },
     {
@@ -8721,22 +8753,6 @@
       "onboard_time": 1713204551,
       "rank": 44,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 24087,
-      "num": 18976,
-      "word": "小女孩一脚踩断家里大理石茶几",
-      "onboard_time": 1713301751,
-      "rank": 47,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 23924,
-      "num": 23924,
-      "word": "有种早起可能比熬夜更伤身",
-      "onboard_time": 1713302291,
-      "rank": 22,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 23592,
@@ -8771,14 +8787,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 21973,
-      "num": 21973,
-      "word": "相亲尽量安排在工作日",
-      "onboard_time": 1713299711,
-      "rank": 28,
-      "category": "情感"
-    },
-    {
       "raw_hot": 21886,
       "num": 210388,
       "word": "在P5X里做时间管理大师",
@@ -8787,12 +8795,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 21763,
-      "num": 21763,
-      "word": "胎儿在母亲体内长大的过程",
-      "onboard_time": 1713297131,
-      "rank": 31,
-      "category": "母婴育儿"
+      "raw_hot": 21224,
+      "num": 21224,
+      "word": "极越回应员工自称因买小米SU7被辞",
+      "onboard_time": 1713305052,
+      "rank": 46,
+      "category": "汽车"
     },
     {
       "raw_hot": 20632,
@@ -8892,7 +8900,7 @@
     },
     {
       "raw_hot": 10914,
-      "num": 19386,
+      "num": 30196,
       "word": "老人乘扶梯仰面摔倒民警飞速冲上去救人",
       "onboard_time": 1713296051,
       "rank": 29,

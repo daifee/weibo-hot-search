@@ -1,6 +1,6 @@
 {
   "startTime": 1713284571046,
-  "endTime": 1713303260313,
+  "endTime": 1713305897495,
   "band_list": [
     {
       "raw_hot": 843050,
@@ -139,6 +139,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 236883,
+      "num": 236883,
+      "word": "得知邻居是欠债潜逃者后小岛居民选择这样做",
+      "onboard_time": 1713296471,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 234238,
       "num": 234238,
       "word": "12306回应五一车票秒没",
@@ -184,6 +192,14 @@
       "word": "为什么穷人家庭不和睦",
       "onboard_time": 1713279920,
       "rank": 23,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 163540,
+      "num": 163540,
+      "word": "为什么爸妈没有想过给女儿买房",
+      "onboard_time": 1713277700,
+      "rank": 41,
       "category": "情感"
     },
     {
@@ -243,14 +259,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 122982,
-      "num": 122982,
-      "word": "得知邻居是欠债潜逃者后小岛居民选择这样做",
-      "onboard_time": 1713296471,
-      "rank": 11,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 119904,
       "num": 119904,
       "word": "500万粉主播澄清撞脸命案逃犯",
@@ -265,6 +273,14 @@
       "onboard_time": 1713272418,
       "rank": 34,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 110856,
+      "num": 63403,
+      "word": "小女孩一脚踩断家里大理石茶几",
+      "onboard_time": 1713301751,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 110078,
@@ -313,14 +329,6 @@
       "onboard_time": 1713283877,
       "rank": 40,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 97312,
-      "num": 97312,
-      "word": "为什么爸妈没有想过给女儿买房",
-      "onboard_time": 1713277700,
-      "rank": 41,
-      "category": "情感"
     },
     {
       "raw_hot": 96008,
@@ -411,6 +419,30 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 77492,
+      "num": 77492,
+      "word": "王一博奥运会资格赛系列赛VCR",
+      "onboard_time": 1713298451,
+      "rank": 45,
+      "category": "艺人,体育"
+    },
+    {
+      "raw_hot": 76783,
+      "num": 41113,
+      "word": "睡觉时不能脚朝西头朝东吗",
+      "onboard_time": 1713297612,
+      "rank": 21,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 74568,
+      "num": 40365,
+      "word": "有种早起可能比熬夜更伤身",
+      "onboard_time": 1713302291,
+      "rank": 22,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 68505,
       "num": 68505,
       "word": "梁祯元建议WVS推出实时翻译",
@@ -419,12 +451,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 56624,
-      "num": 56624,
+      "raw_hot": 59208,
+      "num": 59208,
       "word": "巴萨vs巴黎",
       "onboard_time": 1713294072,
       "rank": 28,
       "category": "体育"
+    },
+    {
+      "raw_hot": 58712,
+      "num": 58712,
+      "word": "相亲尽量安排在工作日",
+      "onboard_time": 1713299711,
+      "rank": 28,
+      "category": "情感"
     },
     {
       "raw_hot": 51456,
@@ -441,14 +481,6 @@
       "onboard_time": 1713288072,
       "rank": 32,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 50313,
-      "num": 24849,
-      "word": "睡觉时不能脚朝西头朝东吗",
-      "onboard_time": 1713297612,
-      "rank": 21,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 46064,
@@ -481,14 +513,6 @@
       "onboard_time": 1713288433,
       "rank": 41,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 40302,
-      "num": 40302,
-      "word": "王一博奥运会资格赛系列赛VCR",
-      "onboard_time": 1713298451,
-      "rank": 45,
-      "category": "艺人,体育"
     },
     {
       "raw_hot": 40247,
@@ -531,52 +555,36 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 26624,
-      "num": 23101,
-      "word": "别再用棉签掏耳朵了",
-      "onboard_time": 1713294011,
-      "rank": 44,
-      "category": "科学科普"
+      "raw_hot": 28423,
+      "num": 28423,
+      "word": "胎儿在母亲体内长大的过程",
+      "onboard_time": 1713297131,
+      "rank": 31,
+      "category": "母婴育儿"
     },
     {
-      "raw_hot": 26451,
-      "num": 26451,
+      "raw_hot": 28305,
+      "num": 28305,
       "word": "神雕侠侣",
       "onboard_time": 1713292211,
       "rank": 43,
       "category": "剧集"
     },
     {
-      "raw_hot": 24087,
-      "num": 18976,
-      "word": "小女孩一脚踩断家里大理石茶几",
-      "onboard_time": 1713301751,
-      "rank": 47,
-      "category": "社会新闻"
+      "raw_hot": 27766,
+      "num": 27766,
+      "word": "别再用棉签掏耳朵了",
+      "onboard_time": 1713294011,
+      "rank": 44,
+      "category": "科学科普"
     },
     {
-      "raw_hot": 23924,
-      "num": 23924,
-      "word": "有种早起可能比熬夜更伤身",
-      "onboard_time": 1713302291,
-      "rank": 22,
-      "category": "健康医疗"
-    },
-    {
-      "raw_hot": 21973,
-      "num": 21973,
-      "word": "相亲尽量安排在工作日",
-      "onboard_time": 1713299711,
-      "rank": 28,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 21763,
-      "num": 21763,
-      "word": "胎儿在母亲体内长大的过程",
-      "onboard_time": 1713297131,
-      "rank": 31,
-      "category": "母婴育儿"
+      "raw_hot": 21224,
+      "num": 21224,
+      "word": "极越回应员工自称因买小米SU7被辞",
+      "onboard_time": 1713305052,
+      "rank": 46,
+      "category": "汽车"
     },
     {
       "raw_hot": 19247,
@@ -604,7 +612,7 @@
     },
     {
       "raw_hot": 10914,
-      "num": 19386,
+      "num": 30196,
       "word": "老人乘扶梯仰面摔倒民警飞速冲上去救人",
       "onboard_time": 1713296051,
       "rank": 29,
