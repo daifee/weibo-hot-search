@@ -1,6 +1,6 @@
 {
   "startTime": 1713284571046,
-  "endTime": 1713284571046,
+  "endTime": 1713285303349,
   "band_list": [
     {
       "raw_hot": 843050,
@@ -27,24 +27,24 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 542039,
-      "num": 335639,
+      "raw_hot": 558849,
+      "num": 558849,
       "word": "黄灿灿 女演员怎么录试戏片段",
       "onboard_time": 1713282618,
       "rank": 10,
       "category": "作品衍生"
     },
     {
-      "raw_hot": 504445,
-      "num": 504445,
+      "raw_hot": 507819,
+      "num": 507819,
       "word": "荣梓杉方回应中戏北电双第一",
       "onboard_time": 1713282858,
       "rank": 4,
       "category": "艺人"
     },
     {
-      "raw_hot": 451286,
-      "num": 451286,
+      "raw_hot": 464861,
+      "num": 464861,
       "word": "我真的卖了自己的工作",
       "onboard_time": 1713279680,
       "rank": 5,
@@ -115,6 +115,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 239559,
+      "num": 239559,
+      "word": "适合射手座的生活方式",
+      "onboard_time": 1713282139,
+      "rank": 19,
+      "category": "情感,网红"
+    },
+    {
       "raw_hot": 238298,
       "num": 238298,
       "word": "张艺兴工作室改名",
@@ -155,20 +163,20 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 201915,
-      "num": 201915,
-      "word": "适合射手座的生活方式",
-      "onboard_time": 1713282139,
-      "rank": 19,
-      "category": "情感,网红"
-    },
-    {
       "raw_hot": 184025,
       "num": 184025,
       "word": "让你一瞬间想分手的小事",
       "onboard_time": 1713279680,
       "rank": 22,
       "category": "情感"
+    },
+    {
+      "raw_hot": 176142,
+      "num": 176142,
+      "word": "演唱会小丑",
+      "onboard_time": 1713283338,
+      "rank": 25,
+      "category": "演出"
     },
     {
       "raw_hot": 165525,
@@ -185,14 +193,6 @@
       "onboard_time": 1713279439,
       "rank": 24,
       "category": "情感"
-    },
-    {
-      "raw_hot": 152851,
-      "num": 152851,
-      "word": "演唱会小丑",
-      "onboard_time": 1713283338,
-      "rank": 25,
-      "category": "演出"
     },
     {
       "raw_hot": 148891,
@@ -243,8 +243,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 119346,
-      "num": 119346,
+      "raw_hot": 119904,
+      "num": 119904,
       "word": "500万粉主播澄清撞脸命案逃犯",
       "onboard_time": 1713281478,
       "rank": 33,
@@ -323,6 +323,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 95222,
+      "num": 95222,
+      "word": "沙特电竞世界杯奖金公布",
+      "onboard_time": 1713284236,
+      "rank": 46,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 94697,
       "num": 94697,
       "word": "弟弟从没提过他的朋友坐轮椅",
@@ -353,14 +361,6 @@
       "onboard_time": 1713279621,
       "rank": 45,
       "category": "美食,财经"
-    },
-    {
-      "raw_hot": 85328,
-      "num": 85328,
-      "word": "沙特电竞世界杯奖金公布",
-      "onboard_time": 1713284236,
-      "rank": 46,
-      "category": "电竞"
     },
     {
       "raw_hot": 82012,
@@ -395,7 +395,15 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 12233,
+      "raw_hot": 43521,
+      "num": 65154,
+      "word": "北京北汽",
+      "onboard_time": 1713285136,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 13197,
       "num": 599120,
       "word": "聚焦2024年消博会",
       "onboard_time": 1713275000,
@@ -406,6 +414,9 @@
   "hotgov_list": [
     {
       "word": "#中德要坚持互利共赢彼此成就#"
+    },
+    {
+      "word": "#中德建立全方位战略伙伴关系10周年#"
     }
   ]
 }
