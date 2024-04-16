@@ -1,0 +1,410 @@
+{
+  "runTime": 1713296053735,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 107874,
+        "num": 107874,
+        "word": "我真的卖了自己的工作",
+        "onboard_time": 1713279680,
+        "rank": 0,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 60138,
+        "num": 60138,
+        "word": "歌手2024 张元英",
+        "onboard_time": 1713268578,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 8604,
+        "num": 55093,
+        "word": "聚焦2024年消博会",
+        "onboard_time": 1713275000,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 62907,
+        "num": 54389,
+        "word": "复旦研究生珠峰地区登山死亡",
+        "onboard_time": 1713275419,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 52658,
+        "num": 52658,
+        "word": "荣梓杉方回应中戏北电双第一",
+        "onboard_time": 1713282858,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 50818,
+        "num": 50818,
+        "word": "黄灿灿 女演员怎么录试戏片段",
+        "onboard_time": 1713282618,
+        "rank": 5,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 45306,
+        "num": 45306,
+        "word": "特斯拉卖一辆车净赚43300元",
+        "onboard_time": 1713274818,
+        "rank": 6,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 43922,
+        "num": 43922,
+        "word": "演唱会小丑",
+        "onboard_time": 1713283338,
+        "rank": 7,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 37351,
+        "num": 37351,
+        "word": "为什么爸妈没有想过给女儿买房",
+        "onboard_time": 1713277700,
+        "rank": 8,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 23556,
+        "num": 36505,
+        "word": "女生连做11个原地云里震惊全场",
+        "onboard_time": 1713261019,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 36238,
+        "num": 36238,
+        "word": "王妈",
+        "onboard_time": 1713276800,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 33816,
+        "num": 33816,
+        "word": "男主林瀚 女主晚晚",
+        "onboard_time": 1713279499,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 33366,
+        "num": 33366,
+        "word": "12306 秒没",
+        "onboard_time": 1713251296,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 33315,
+        "num": 33315,
+        "word": "巴萨vs巴黎",
+        "onboard_time": 1713294072,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 33255,
+        "num": 33255,
+        "word": "歌手阵容",
+        "onboard_time": 1713270379,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 33239,
+        "num": 33239,
+        "word": "让你一瞬间想分手的小事",
+        "onboard_time": 1713279680,
+        "rank": 15,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 31605,
+        "num": 31605,
+        "word": "阿母和嫋嫋",
+        "onboard_time": 1713287353,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 31219,
+        "num": 31219,
+        "word": "适合射手座的生活方式",
+        "onboard_time": 1713282139,
+        "rank": 17,
+        "category": "情感,网红"
+      },
+      {
+        "raw_hot": 30280,
+        "num": 30280,
+        "word": "沙特电竞世界杯奖金公布",
+        "onboard_time": 1713284236,
+        "rank": 18,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 30170,
+        "num": 30170,
+        "word": "我娱乐圈唯一的人脉要失联了",
+        "onboard_time": 1713277458,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 26320,
+        "num": 26320,
+        "word": "吴磊郑合惠子张予曦早期片场旧照",
+        "onboard_time": 1713291072,
+        "rank": 20,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 25365,
+        "num": 25365,
+        "word": "体制内的人有朋友圈自由吗",
+        "onboard_time": 1713279979,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 24567,
+        "num": 24567,
+        "word": "12306回应五一车票秒没",
+        "onboard_time": 1713274098,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 23531,
+        "num": 23531,
+        "word": "眼泪女王 甄嬛传",
+        "onboard_time": 1713290653,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 23133,
+        "num": 23133,
+        "word": "500万粉主播澄清撞脸命案逃犯",
+        "onboard_time": 1713281478,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 23014,
+        "num": 23014,
+        "word": "年会见到张凌赫",
+        "onboard_time": 1713276981,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 22901,
+        "num": 22901,
+        "word": "为什么穷人家庭不和睦",
+        "onboard_time": 1713279920,
+        "rank": 26,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 22693,
+        "num": 22693,
+        "word": "神雕侠侣",
+        "onboard_time": 1713292211,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 22621,
+        "num": 22621,
+        "word": "成都居民称换表后燃气费异常上涨",
+        "onboard_time": 1713282320,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 22333,
+        "num": 22333,
+        "word": "霉霉新专辑",
+        "onboard_time": 1713289692,
+        "rank": 29,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 22161,
+        "num": 22161,
+        "word": "微信状态真的很好用",
+        "onboard_time": 1713265278,
+        "rank": 30,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 21849,
+        "num": 21849,
+        "word": "琉球群岛东南5.8级地震",
+        "onboard_time": 1713288613,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 21680,
+        "num": 21680,
+        "word": "金秘书为何那样",
+        "onboard_time": 1713267978,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 21597,
+        "num": 21597,
+        "word": "女子入住81层酒店吓到趴地",
+        "onboard_time": 1713264199,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 20729,
+        "num": 20729,
+        "word": "SEVENTEEN回归",
+        "onboard_time": 1713280581,
+        "rank": 34,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 20682,
+        "num": 20682,
+        "word": "曾经很讨厌现在却喜欢的东西",
+        "onboard_time": 1713276560,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 19185,
+        "num": 19185,
+        "word": "林依晨演技",
+        "onboard_time": 1713294132,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 17956,
+        "num": 17956,
+        "word": "薛之谦演唱会眼镜哥被质疑系策划",
+        "onboard_time": 1713274266,
+        "rank": 37,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 17898,
+        "num": 17898,
+        "word": "张艺兴工作室改名",
+        "onboard_time": 1713276619,
+        "rank": 38,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 11480,
+        "num": 17765,
+        "word": "国字号重器再添新成员",
+        "onboard_time": 1713276019,
+        "rank": 39,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 17699,
+        "num": 17699,
+        "word": "白猫因过于淡定被质疑耳聋",
+        "onboard_time": 1713277281,
+        "rank": 40,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 17603,
+        "num": 17603,
+        "word": "IVE变身",
+        "onboard_time": 1713278720,
+        "rank": 41,
+        "category": "音乐,时尚"
+      },
+      {
+        "raw_hot": 17512,
+        "num": 17512,
+        "word": "金牛座不会对外说的秘密",
+        "onboard_time": 1713280939,
+        "rank": 42,
+        "category": "情感,网红"
+      },
+      {
+        "raw_hot": 16848,
+        "num": 16848,
+        "word": "冯德伦晒旧照为老婆舒淇庆生",
+        "onboard_time": 1713288433,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 16773,
+        "num": 16773,
+        "word": "别再用棉签掏耳朵了",
+        "onboard_time": 1713294011,
+        "rank": 44,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 16740,
+        "num": 16740,
+        "word": "许凯发了杨紫",
+        "onboard_time": 1713270680,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 16679,
+        "num": 16679,
+        "word": "林更新刚出道就怼吴奇隆",
+        "onboard_time": 1713279201,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 16621,
+        "num": 16621,
+        "word": "心疼Rebecca",
+        "onboard_time": 1713276680,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 15775,
+        "num": 15775,
+        "word": "许嵩演唱会上万粉丝同时进错拍",
+        "onboard_time": 1713286214,
+        "rank": 48,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 14800,
+        "num": 15763,
+        "word": "26岁换工作了不敢跟爸妈说",
+        "onboard_time": 1713279439,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#中德建立全方位战略伙伴关系10周年#"
+    }
+  }
+}

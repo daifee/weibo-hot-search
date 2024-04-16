@@ -1,6 +1,6 @@
 {
   "startTime": 1711902044401,
-  "endTime": 1713294855569,
+  "endTime": 1713296053735,
   "band_list": [
     {
       "raw_hot": 16874674,
@@ -44827,6 +44827,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 33315,
+      "num": 33315,
+      "word": "巴萨vs巴黎",
+      "onboard_time": 1713294072,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
       "raw_hot": 33185,
       "num": 45272,
       "word": "帕尔默帽子戏法",
@@ -45129,14 +45137,6 @@
       "onboard_time": 1712582361,
       "rank": 28,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 26175,
-      "num": 26175,
-      "word": "巴萨vs巴黎",
-      "onboard_time": 1713294072,
-      "rank": 28,
-      "category": "体育"
     },
     {
       "raw_hot": 26012,
@@ -45633,6 +45633,14 @@
       "onboard_time": 1712990118,
       "rank": 29,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 16773,
+      "num": 16773,
+      "word": "别再用棉签掏耳朵了",
+      "onboard_time": 1713294011,
+      "rank": 44,
+      "category": "科学科普"
     },
     {
       "raw_hot": 16742,
