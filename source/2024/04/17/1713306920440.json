@@ -1,0 +1,410 @@
+{
+  "runTime": 1713306920440,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 348509,
+        "num": 348509,
+        "word": "得知邻居是欠债潜逃者后小岛居民选择这样做",
+        "onboard_time": 1713296471,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 233915,
+        "num": 233915,
+        "word": "为什么爸妈没有想过给女儿买房",
+        "onboard_time": 1713277700,
+        "rank": 1,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 10772,
+        "num": 182530,
+        "word": "聚焦2024年消博会",
+        "onboard_time": 1713275000,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 152809,
+        "num": 152809,
+        "word": "荣梓杉方回应中戏北电双第一",
+        "onboard_time": 1713282858,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 137801,
+        "num": 137801,
+        "word": "黄灿灿 女演员怎么录试戏片段",
+        "onboard_time": 1713282618,
+        "rank": 4,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 125612,
+        "num": 125612,
+        "word": "我娱乐圈唯一的人脉要失联了",
+        "onboard_time": 1713277458,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 111673,
+        "num": 111673,
+        "word": "王一博奥运会资格赛系列赛VCR",
+        "onboard_time": 1713298451,
+        "rank": 6,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 107499,
+        "num": 107499,
+        "word": "复旦研究生珠峰地区登山死亡",
+        "onboard_time": 1713275419,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 103626,
+        "num": 103626,
+        "word": "我真的卖了自己的工作",
+        "onboard_time": 1713279680,
+        "rank": 8,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 41584,
+        "num": 85061,
+        "word": "女生连做11个原地云里震惊全场",
+        "onboard_time": 1713261019,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 199149,
+        "num": 84124,
+        "word": "小女孩一脚踩断家里大理石茶几",
+        "onboard_time": 1713301751,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 82692,
+        "num": 82692,
+        "word": "歌手2024 张元英",
+        "onboard_time": 1713268578,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 76644,
+        "num": 76644,
+        "word": "特斯拉卖一辆车净赚43300元",
+        "onboard_time": 1713274818,
+        "rank": 12,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 73979,
+        "num": 73979,
+        "word": "500万粉主播澄清撞脸命案逃犯",
+        "onboard_time": 1713281478,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 70592,
+        "num": 70592,
+        "word": "相亲尽量安排在工作日",
+        "onboard_time": 1713299711,
+        "rank": 14,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 69054,
+        "num": 69054,
+        "word": "男主林瀚 女主晚晚",
+        "onboard_time": 1713279499,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 68098,
+        "num": 68098,
+        "word": "巴萨vs巴黎",
+        "onboard_time": 1713294072,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 63468,
+        "num": 63468,
+        "word": "成都居民称换表后燃气费异常上涨",
+        "onboard_time": 1713282320,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 54042,
+        "num": 54042,
+        "word": "歌手阵容",
+        "onboard_time": 1713270379,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 42878,
+        "num": 42878,
+        "word": "适合射手座的生活方式",
+        "onboard_time": 1713282139,
+        "rank": 19,
+        "category": "情感,网红"
+      },
+      {
+        "raw_hot": 108797,
+        "num": 42831,
+        "word": "有种早起可能比熬夜更伤身",
+        "onboard_time": 1713302291,
+        "rank": 20,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 98363,
+        "num": 42595,
+        "word": "睡觉时不能脚朝西头朝东吗",
+        "onboard_time": 1713297612,
+        "rank": 21,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 67959,
+        "num": 42248,
+        "word": "体制内的人有朋友圈自由吗",
+        "onboard_time": 1713279979,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 43505,
+        "num": 41897,
+        "word": "女子入住81层酒店吓到趴地",
+        "onboard_time": 1713264199,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 41808,
+        "num": 41808,
+        "word": "为什么穷人家庭不和睦",
+        "onboard_time": 1713279920,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 38886,
+        "num": 38886,
+        "word": "胎儿在母亲体内长大的过程",
+        "onboard_time": 1713297131,
+        "rank": 25,
+        "category": "母婴育儿"
+      },
+      {
+        "raw_hot": 38605,
+        "num": 38605,
+        "word": "吴磊郑合惠子张予曦早期片场旧照",
+        "onboard_time": 1713291072,
+        "rank": 26,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 37665,
+        "num": 37665,
+        "word": "白猫因过于淡定被质疑耳聋",
+        "onboard_time": 1713277281,
+        "rank": 27,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 37372,
+        "num": 37372,
+        "word": "12306 秒没",
+        "onboard_time": 1713251296,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 11879,
+        "num": 36843,
+        "word": "老人乘扶梯仰面摔倒民警飞速冲上去救人",
+        "onboard_time": 1713296051,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 36823,
+        "num": 36823,
+        "word": "神雕侠侣",
+        "onboard_time": 1713292211,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 36199,
+        "num": 36199,
+        "word": "许凯发了杨紫",
+        "onboard_time": 1713270680,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 35109,
+        "num": 35109,
+        "word": "12306回应五一车票秒没",
+        "onboard_time": 1713274098,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 34247,
+        "num": 34247,
+        "word": "金秘书为何那样",
+        "onboard_time": 1713267978,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 32980,
+        "num": 32980,
+        "word": "张艺兴工作室改名",
+        "onboard_time": 1713276619,
+        "rank": 34,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 32272,
+        "num": 32272,
+        "word": "林更新答应我白着回来",
+        "onboard_time": 1713283877,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 34403,
+        "num": 32076,
+        "word": "姚志明爆改门童",
+        "onboard_time": 1713306071,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 31774,
+        "num": 31774,
+        "word": "微信状态真的很好用",
+        "onboard_time": 1713265278,
+        "rank": 37,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 31292,
+        "num": 31292,
+        "word": "晚秘书为何那样",
+        "onboard_time": 1713282739,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 30977,
+        "num": 30977,
+        "word": "沙特电竞世界杯奖金公布",
+        "onboard_time": 1713284236,
+        "rank": 39,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 29847,
+        "num": 29847,
+        "word": "别再用棉签掏耳朵了",
+        "onboard_time": 1713294011,
+        "rank": 40,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 29320,
+        "num": 29320,
+        "word": "金牛座不会对外说的秘密",
+        "onboard_time": 1713280939,
+        "rank": 41,
+        "category": "情感,网红"
+      },
+      {
+        "raw_hot": 29100,
+        "num": 29100,
+        "word": "极越回应员工自称因买小米SU7被辞",
+        "onboard_time": 1713305052,
+        "rank": 42,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 28801,
+        "num": 28801,
+        "word": "SEVENTEEN回归",
+        "onboard_time": 1713280581,
+        "rank": 43,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 28694,
+        "num": 28694,
+        "word": "林更新刚出道就怼吴奇隆",
+        "onboard_time": 1713279201,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 28001,
+        "num": 28001,
+        "word": "薛之谦演唱会眼镜哥被质疑系策划",
+        "onboard_time": 1713274266,
+        "rank": 45,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 27780,
+        "num": 27780,
+        "word": "阿母和嫋嫋",
+        "onboard_time": 1713287353,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 27661,
+        "num": 27661,
+        "word": "王妈",
+        "onboard_time": 1713276800,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 27608,
+        "num": 27608,
+        "word": "冯德伦晒旧照为老婆舒淇庆生",
+        "onboard_time": 1713288433,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 24919,
+        "num": 24919,
+        "word": "年会见到张凌赫",
+        "onboard_time": 1713276981,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#中德要坚持互利共赢彼此成就#"
+    }
+  }
+}

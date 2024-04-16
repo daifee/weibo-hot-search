@@ -1,6 +1,6 @@
 {
   "startTime": 1713025251708,
-  "endTime": 1713305897495,
+  "endTime": 1713306920440,
   "band_list": [
     {
       "raw_hot": 3410457,
@@ -2771,6 +2771,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 348509,
+      "num": 348509,
+      "word": "得知邻居是欠债潜逃者后小岛居民选择这样做",
+      "onboard_time": 1713296471,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 348080,
       "num": 348080,
       "word": "眼泪女王中出现的中文",
@@ -4059,14 +4067,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 236883,
-      "num": 236883,
-      "word": "得知邻居是欠债潜逃者后小岛居民选择这样做",
-      "onboard_time": 1713296471,
-      "rank": 11,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 236417,
       "num": 236417,
       "word": "薛之谦演唱会眼镜哥被质疑系策划",
@@ -4105,6 +4105,14 @@
       "onboard_time": 1713161777,
       "rank": 30,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 233915,
+      "num": 233915,
+      "word": "为什么爸妈没有想过给女儿买房",
+      "onboard_time": 1713277700,
+      "rank": 39,
+      "category": "情感"
     },
     {
       "raw_hot": 233520,
@@ -4961,6 +4969,14 @@
       "onboard_time": 1713167899,
       "rank": 33,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 199149,
+      "num": 84124,
+      "word": "小女孩一脚踩断家里大理石茶几",
+      "onboard_time": 1713301751,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 198953,
@@ -6129,14 +6145,6 @@
       "onboard_time": 1713189259,
       "rank": 37,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 163540,
-      "num": 174934,
-      "word": "为什么爸妈没有想过给女儿买房",
-      "onboard_time": 1713277700,
-      "rank": 39,
-      "category": "情感"
     },
     {
       "raw_hot": 162902,
@@ -7851,20 +7859,20 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 111673,
+      "num": 111673,
+      "word": "王一博奥运会资格赛系列赛VCR",
+      "onboard_time": 1713298451,
+      "rank": 45,
+      "category": "艺人,体育"
+    },
+    {
       "raw_hot": 111139,
       "num": 111139,
       "word": "A股风格激变",
       "onboard_time": 1713180678,
       "rank": 44,
       "category": "财经"
-    },
-    {
-      "raw_hot": 110856,
-      "num": 63403,
-      "word": "小女孩一脚踩断家里大理石茶几",
-      "onboard_time": 1713301751,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 110692,
@@ -7913,6 +7921,14 @@
       "onboard_time": 1713183139,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 108797,
+      "num": 42831,
+      "word": "有种早起可能比熬夜更伤身",
+      "onboard_time": 1713302291,
+      "rank": 22,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 108041,
@@ -8025,6 +8041,14 @@
       "onboard_time": 1713179537,
       "rank": 48,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 98363,
+      "num": 42595,
+      "word": "睡觉时不能脚朝西头朝东吗",
+      "onboard_time": 1713297612,
+      "rank": 21,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 98172,
@@ -8187,28 +8211,12 @@
       "category": "情感,网红"
     },
     {
-      "raw_hot": 77492,
-      "num": 77492,
-      "word": "王一博奥运会资格赛系列赛VCR",
-      "onboard_time": 1713298451,
-      "rank": 45,
-      "category": "艺人,体育"
-    },
-    {
       "raw_hot": 77410,
       "num": 65403,
       "word": "曾黎黑色小吊带",
       "onboard_time": 1713030973,
       "rank": 30,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 76783,
-      "num": 41113,
-      "word": "睡觉时不能脚朝西头朝东吗",
-      "onboard_time": 1713297612,
-      "rank": 21,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 76508,
@@ -8225,14 +8233,6 @@
       "onboard_time": 1713137895,
       "rank": 45,
       "category": "体育"
-    },
-    {
-      "raw_hot": 74568,
-      "num": 40365,
-      "word": "有种早起可能比熬夜更伤身",
-      "onboard_time": 1713302291,
-      "rank": 22,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 74298,
@@ -8283,6 +8283,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 70592,
+      "num": 70592,
+      "word": "相亲尽量安排在工作日",
+      "onboard_time": 1713299711,
+      "rank": 28,
+      "category": "情感"
+    },
+    {
       "raw_hot": 70590,
       "num": 805626,
       "word": "60秒了解总体国家安全观",
@@ -8297,6 +8305,14 @@
       "onboard_time": 1713285435,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 68098,
+      "num": 68098,
+      "word": "巴萨vs巴黎",
+      "onboard_time": 1713294072,
+      "rank": 28,
+      "category": "体育"
     },
     {
       "raw_hot": 67881,
@@ -8369,22 +8385,6 @@
       "onboard_time": 1713218171,
       "rank": 41,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 59208,
-      "num": 59208,
-      "word": "巴萨vs巴黎",
-      "onboard_time": 1713294072,
-      "rank": 28,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 58712,
-      "num": 58712,
-      "word": "相亲尽量安排在工作日",
-      "onboard_time": 1713299711,
-      "rank": 28,
-      "category": "情感"
     },
     {
       "raw_hot": 58710,
@@ -8571,6 +8571,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 38886,
+      "num": 38886,
+      "word": "胎儿在母亲体内长大的过程",
+      "onboard_time": 1713297131,
+      "rank": 31,
+      "category": "母婴育儿"
+    },
+    {
       "raw_hot": 37512,
       "num": 37126,
       "word": "眼泪女王 甄嬛传",
@@ -8585,6 +8593,14 @@
       "onboard_time": 1713258019,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 36823,
+      "num": 36823,
+      "word": "神雕侠侣",
+      "onboard_time": 1713292211,
+      "rank": 43,
+      "category": "剧集"
     },
     {
       "raw_hot": 36753,
@@ -8609,6 +8625,14 @@
       "onboard_time": 1713201733,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 34403,
+      "num": 32076,
+      "word": "姚志明爆改门童",
+      "onboard_time": 1713306071,
+      "rank": 36,
+      "category": "剧集"
     },
     {
       "raw_hot": 34390,
@@ -8659,6 +8683,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 29847,
+      "num": 29847,
+      "word": "别再用棉签掏耳朵了",
+      "onboard_time": 1713294011,
+      "rank": 44,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 29647,
       "num": 34292,
       "word": "张云雷酷狗唱玩会",
@@ -8667,36 +8699,20 @@
       "category": "演出"
     },
     {
+      "raw_hot": 29100,
+      "num": 29100,
+      "word": "极越回应员工自称因买小米SU7被辞",
+      "onboard_time": 1713305052,
+      "rank": 46,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 28931,
       "num": 301497,
       "word": "尹同跃要给智驾部门加鸡腿",
       "onboard_time": 1713069618,
       "rank": 41,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 28423,
-      "num": 28423,
-      "word": "胎儿在母亲体内长大的过程",
-      "onboard_time": 1713297131,
-      "rank": 31,
-      "category": "母婴育儿"
-    },
-    {
-      "raw_hot": 28305,
-      "num": 28305,
-      "word": "神雕侠侣",
-      "onboard_time": 1713292211,
-      "rank": 43,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 27766,
-      "num": 27766,
-      "word": "别再用棉签掏耳朵了",
-      "onboard_time": 1713294011,
-      "rank": 44,
-      "category": "科学科普"
     },
     {
       "raw_hot": 27698,
@@ -8795,14 +8811,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 21224,
-      "num": 21224,
-      "word": "极越回应员工自称因买小米SU7被辞",
-      "onboard_time": 1713305052,
-      "rank": 46,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 20632,
       "num": 20632,
       "word": "射手当joker也是三分钟热度",
@@ -8883,6 +8891,14 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 11879,
+      "num": 36843,
+      "word": "老人乘扶梯仰面摔倒民警飞速冲上去救人",
+      "onboard_time": 1713296051,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 11663,
       "num": 18920,
       "word": "坚定不移贯彻总体国家安全观",
@@ -8897,14 +8913,6 @@
       "onboard_time": 1713070518,
       "rank": 45,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 10914,
-      "num": 30196,
-      "word": "老人乘扶梯仰面摔倒民警飞速冲上去救人",
-      "onboard_time": 1713296051,
-      "rank": 29,
-      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
