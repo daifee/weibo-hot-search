@@ -1,6 +1,6 @@
 {
   "startTime": 1713284571046,
-  "endTime": 1713287812418,
+  "endTime": 1713288923010,
   "band_list": [
     {
       "raw_hot": 843050,
@@ -371,6 +371,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 85364,
+      "num": 85364,
+      "word": "阿母和嫋嫋",
+      "onboard_time": 1713287353,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 82012,
       "num": 82012,
       "word": "承欢记热度",
@@ -395,14 +403,6 @@
       "category": "美妆"
     },
     {
-      "raw_hot": 69311,
-      "num": 69311,
-      "word": "阿母和嫋嫋",
-      "onboard_time": 1713287353,
-      "rank": 31,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 68505,
       "num": 68505,
       "word": "梁祯元建议WVS推出实时翻译",
@@ -419,6 +419,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 50434,
+      "num": 50434,
+      "word": "爱发电",
+      "onboard_time": 1713288072,
+      "rank": 32,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 46064,
       "num": 145312,
       "word": "国字号重器再添新成员",
@@ -431,6 +439,38 @@
       "num": 65154,
       "word": "北京北汽",
       "onboard_time": 1713285136,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 43987,
+      "num": 43987,
+      "word": "冯德伦晒旧照为老婆舒淇庆生",
+      "onboard_time": 1713288433,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 39722,
+      "num": 39722,
+      "word": "心疼Rebecca",
+      "onboard_time": 1713276680,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 30976,
+      "num": 37683,
+      "word": "琉球群岛东南5.8级地震",
+      "onboard_time": 1713288613,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 17241,
+      "num": 37433,
+      "word": "97岁国乒球迷奶奶最爱孙颖莎",
+      "onboard_time": 1713288734,
       "rank": 49,
       "category": "体育"
     },
