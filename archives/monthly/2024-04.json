@@ -1,6 +1,6 @@
 {
   "startTime": 1711902044401,
-  "endTime": 1713302223715,
+  "endTime": 1713303260313,
   "band_list": [
     {
       "raw_hot": 16874674,
@@ -40139,6 +40139,14 @@
       "category": "读书作家"
     },
     {
+      "raw_hot": 122982,
+      "num": 122982,
+      "word": "得知邻居是欠债潜逃者后小岛居民选择这样做",
+      "onboard_time": 1713296471,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 122925,
       "num": 122925,
       "word": "守望先锋",
@@ -41769,14 +41777,6 @@
       "onboard_time": 1713158599,
       "rank": 49,
       "category": "教育"
-    },
-    {
-      "raw_hot": 106795,
-      "num": 106795,
-      "word": "得知邻居是欠债潜逃者后小岛居民选择这样做",
-      "onboard_time": 1713296471,
-      "rank": 11,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 106696,
@@ -44219,6 +44219,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 50313,
+      "num": 24849,
+      "word": "睡觉时不能脚朝西头朝东吗",
+      "onboard_time": 1713297612,
+      "rank": 21,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 50162,
       "num": 150434,
       "word": "辽宁男篮战胜广厦男篮",
@@ -44257,14 +44265,6 @@
       "onboard_time": 1713033492,
       "rank": 22,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 48819,
-      "num": 23091,
-      "word": "睡觉时不能脚朝西头朝东吗",
-      "onboard_time": 1713297612,
-      "rank": 21,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 48474,
@@ -44553,6 +44553,14 @@
       "onboard_time": 1712597593,
       "rank": 49,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 40302,
+      "num": 40302,
+      "word": "王一博奥运会资格赛系列赛VCR",
+      "onboard_time": 1713298451,
+      "rank": 45,
+      "category": "艺人,体育"
     },
     {
       "raw_hot": 40281,
@@ -44849,14 +44857,6 @@
       "onboard_time": 1712914517,
       "rank": 33,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 33248,
-      "num": 33248,
-      "word": "王一博奥运会资格赛系列赛VCR",
-      "onboard_time": 1713298451,
-      "rank": 45,
-      "category": "艺人,体育"
     },
     {
       "raw_hot": 33185,
@@ -45291,6 +45291,22 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 24087,
+      "num": 18976,
+      "word": "小女孩一脚踩断家里大理石茶几",
+      "onboard_time": 1713301751,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 23924,
+      "num": 23924,
+      "word": "有种早起可能比熬夜更伤身",
+      "onboard_time": 1713302291,
+      "rank": 22,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 23884,
       "num": 25339,
       "word": "花间令有第二季吗",
@@ -45411,6 +45427,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 21973,
+      "num": 21973,
+      "word": "相亲尽量安排在工作日",
+      "onboard_time": 1713299711,
+      "rank": 28,
+      "category": "情感"
+    },
+    {
       "raw_hot": 21886,
       "num": 210388,
       "word": "在P5X里做时间管理大师",
@@ -45435,6 +45459,14 @@
       "category": "休闲"
     },
     {
+      "raw_hot": 21763,
+      "num": 21763,
+      "word": "胎儿在母亲体内长大的过程",
+      "onboard_time": 1713297131,
+      "rank": 31,
+      "category": "母婴育儿"
+    },
+    {
       "raw_hot": 21744,
       "num": 278715,
       "word": "P5X加入P系列全家桶",
@@ -45457,14 +45489,6 @@
       "onboard_time": 1712128161,
       "rank": 38,
       "category": "数码"
-    },
-    {
-      "raw_hot": 21677,
-      "num": 19186,
-      "word": "胎儿在母亲体内长大的过程",
-      "onboard_time": 1713297131,
-      "rank": 31,
-      "category": "母婴育儿"
     },
     {
       "raw_hot": 21547,
@@ -45635,14 +45659,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 17435,
-      "num": 17435,
-      "word": "相亲尽量安排在工作日",
-      "onboard_time": 1713299711,
-      "rank": 28,
-      "category": "情感"
-    },
-    {
       "raw_hot": 17289,
       "num": 298829,
       "word": "王腾多花10亿选正代8系",
@@ -45777,14 +45793,6 @@
       "onboard_time": 1712088130,
       "rank": 44,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 13354,
-      "num": 13946,
-      "word": "小女孩一脚踩断家里大理石茶几",
-      "onboard_time": 1713301751,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 13345,

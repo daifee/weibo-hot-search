@@ -1,6 +1,6 @@
 {
   "startTime": 1713025251708,
-  "endTime": 1713302223715,
+  "endTime": 1713303260313,
   "band_list": [
     {
       "raw_hot": 3410457,
@@ -7587,6 +7587,14 @@
       "category": "读书作家"
     },
     {
+      "raw_hot": 122982,
+      "num": 122982,
+      "word": "得知邻居是欠债潜逃者后小岛居民选择这样做",
+      "onboard_time": 1713296471,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 122711,
       "num": 122711,
       "word": "MiuMiu2024手袋系列",
@@ -7921,14 +7929,6 @@
       "onboard_time": 1713158599,
       "rank": 49,
       "category": "教育"
-    },
-    {
-      "raw_hot": 106795,
-      "num": 106795,
-      "word": "得知邻居是欠债潜逃者后小岛居民选择这样做",
-      "onboard_time": 1713296471,
-      "rank": 11,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 106696,
@@ -8419,6 +8419,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 50313,
+      "num": 24849,
+      "word": "睡觉时不能脚朝西头朝东吗",
+      "onboard_time": 1713297612,
+      "rank": 21,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 50063,
       "num": 50063,
       "word": "猫一杯旗下品牌客服回应",
@@ -8441,14 +8449,6 @@
       "onboard_time": 1713033492,
       "rank": 22,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 48819,
-      "num": 23091,
-      "word": "睡觉时不能脚朝西头朝东吗",
-      "onboard_time": 1713297612,
-      "rank": 21,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 45804,
@@ -8523,6 +8523,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 40302,
+      "num": 40302,
+      "word": "王一博奥运会资格赛系列赛VCR",
+      "onboard_time": 1713298451,
+      "rank": 45,
+      "category": "艺人,体育"
+    },
+    {
       "raw_hot": 40247,
       "num": 40247,
       "word": "吴磊郑合惠子张予曦早期片场旧照",
@@ -8593,14 +8601,6 @@
       "onboard_time": 1713167176,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 33248,
-      "num": 33248,
-      "word": "王一博奥运会资格赛系列赛VCR",
-      "onboard_time": 1713298451,
-      "rank": 45,
-      "category": "艺人,体育"
     },
     {
       "raw_hot": 32432,
@@ -8723,6 +8723,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 24087,
+      "num": 18976,
+      "word": "小女孩一脚踩断家里大理石茶几",
+      "onboard_time": 1713301751,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 23924,
+      "num": 23924,
+      "word": "有种早起可能比熬夜更伤身",
+      "onboard_time": 1713302291,
+      "rank": 22,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 23592,
       "num": 230259,
       "word": "P5X又出了河南话配音",
@@ -8755,6 +8771,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 21973,
+      "num": 21973,
+      "word": "相亲尽量安排在工作日",
+      "onboard_time": 1713299711,
+      "rank": 28,
+      "category": "情感"
+    },
+    {
       "raw_hot": 21886,
       "num": 210388,
       "word": "在P5X里做时间管理大师",
@@ -8763,8 +8787,8 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 21677,
-      "num": 19186,
+      "raw_hot": 21763,
+      "num": 21763,
       "word": "胎儿在母亲体内长大的过程",
       "onboard_time": 1713297131,
       "rank": 31,
@@ -8811,14 +8835,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 17435,
-      "num": 17435,
-      "word": "相亲尽量安排在工作日",
-      "onboard_time": 1713299711,
-      "rank": 28,
-      "category": "情感"
-    },
-    {
       "raw_hot": 17256,
       "num": 22431,
       "word": "罗马球员恩迪卡突发心脏问题",
@@ -8833,14 +8849,6 @@
       "onboard_time": 1713288734,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 13354,
-      "num": 13946,
-      "word": "小女孩一脚踩断家里大理石茶几",
-      "onboard_time": 1713301751,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 13197,
