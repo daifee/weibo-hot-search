@@ -1,6 +1,6 @@
 {
   "startTime": 1713025251708,
-  "endTime": 1713238483355,
+  "endTime": 1713241249930,
   "band_list": [
     {
       "raw_hot": 3410457,
@@ -403,6 +403,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 958358,
+      "num": 958358,
+      "word": "网友上海偶遇老默冯兵低调干跑腿",
+      "onboard_time": 1713234738,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 956919,
       "num": 956919,
       "word": "张若昀半夜三点给郭麒麟打电话",
@@ -475,12 +483,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 889004,
-      "num": 889004,
-      "word": "网友上海偶遇老默冯兵低调干跑腿",
-      "onboard_time": 1713234738,
-      "rank": 25,
-      "category": "艺人"
+      "raw_hot": 884665,
+      "num": 884665,
+      "word": "义乌人已经开始赚巴黎奥运会的钱了",
+      "onboard_time": 1713238759,
+      "rank": 3,
+      "category": "体育"
     },
     {
       "raw_hot": 883852,
@@ -731,6 +739,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 737344,
+      "num": 737344,
+      "word": "迪丽热巴官宣开推2",
+      "onboard_time": 1713239118,
+      "rank": 5,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 733922,
       "num": 733922,
       "word": "老板 不要香菜",
@@ -745,6 +761,14 @@
       "onboard_time": 1713016880,
       "rank": 0,
       "category": "美食"
+    },
+    {
+      "raw_hot": 719337,
+      "num": 719337,
+      "word": "恋爱脑室友 真正的站姐",
+      "onboard_time": 1713235637,
+      "rank": 23,
+      "category": "幽默"
     },
     {
       "raw_hot": 713250,
@@ -947,6 +971,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 603138,
+      "num": 603138,
+      "word": "iPhone16Pro起步存储或为256GB",
+      "onboard_time": 1713238699,
+      "rank": 7,
+      "category": "数码"
+    },
+    {
       "raw_hot": 601903,
       "num": 551503,
       "word": "宋鑫",
@@ -1147,6 +1179,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 526295,
+      "num": 312725,
+      "word": "我爸直接把我考研成绩发到家族群",
+      "onboard_time": 1713238278,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 524582,
       "num": 421822,
       "word": "张元英向我求婚",
@@ -1251,6 +1291,14 @@
       "category": "电影,动漫"
     },
     {
+      "raw_hot": 507111,
+      "num": 308568,
+      "word": "贾乃亮发了十遍4月21号",
+      "onboard_time": 1713239058,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 503703,
       "num": 473919,
       "word": "数学140分以上就能被知名大学锁定吗",
@@ -1323,20 +1371,20 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 483513,
-      "num": 214191,
-      "word": "我爸直接把我考研成绩发到家族群",
-      "onboard_time": 1713238278,
-      "rank": 30,
-      "category": "情感"
-    },
-    {
       "raw_hot": 480560,
       "num": 480560,
       "word": "外交部长王毅同伊朗外长通电话",
       "onboard_time": 1713230539,
       "rank": 16,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 479591,
+      "num": 479591,
+      "word": "柯南官配发糖",
+      "onboard_time": 1713237498,
+      "rank": 48,
+      "category": "动漫"
     },
     {
       "raw_hot": 479399,
@@ -1811,6 +1859,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 379833,
+      "num": 379833,
+      "word": "股市",
+      "onboard_time": 1713238037,
+      "rank": 31,
+      "category": "财经"
+    },
+    {
       "raw_hot": 377266,
       "num": 377266,
       "word": "以色列防御伊朗袭击一夜至少花掉78亿",
@@ -1928,14 +1984,6 @@
       "word": "熬夜玩手机的人的特征",
       "onboard_time": 1713226819,
       "rank": 21,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 364234,
-      "num": 364234,
-      "word": "恋爱脑室友 真正的站姐",
-      "onboard_time": 1713235637,
-      "rank": 23,
       "category": "幽默"
     },
     {
@@ -2099,6 +2147,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 330511,
+      "num": 295472,
+      "word": "一个月从100斤减到120斤的秘诀",
+      "onboard_time": 1713240320,
+      "rank": 23,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 326168,
       "num": 326168,
       "word": "AI眼里月薪1到1亿元的工作",
@@ -2209,6 +2265,14 @@
       "onboard_time": 1713105679,
       "rank": 23,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 315642,
+      "num": 315642,
+      "word": "贾玲杀青影像给我看哭了",
+      "onboard_time": 1713240379,
+      "rank": 19,
+      "category": "电影"
     },
     {
       "raw_hot": 314664,
@@ -2411,6 +2475,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 294524,
+      "num": 294524,
+      "word": "光遇复刻",
+      "onboard_time": 1713240800,
+      "rank": 24,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 292435,
       "num": 127977,
       "word": "上公厕马桶不垫纸会被传染疾病吗",
@@ -2473,6 +2545,14 @@
       "onboard_time": 1713153560,
       "rank": 22,
       "category": "艺人,综艺"
+    },
+    {
+      "raw_hot": 288209,
+      "num": 288209,
+      "word": "开票即候补别太离谱",
+      "onboard_time": 1713239659,
+      "rank": 25,
+      "category": "情感"
     },
     {
       "raw_hot": 288002,
@@ -2569,6 +2649,14 @@
       "onboard_time": 1713174319,
       "rank": 23,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 277249,
+      "num": 277249,
+      "word": "突然觉得工作后真的好啊",
+      "onboard_time": 1713236297,
+      "rank": 26,
+      "category": "情感"
     },
     {
       "raw_hot": 276152,
@@ -2707,12 +2795,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 263028,
-      "num": 263028,
-      "word": "突然觉得工作后真的好啊",
-      "onboard_time": 1713236297,
-      "rank": 26,
-      "category": "情感"
+      "raw_hot": 263747,
+      "num": 263747,
+      "word": "刘学义参加综艺少的原因",
+      "onboard_time": 1713240259,
+      "rank": 28,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 262657,
@@ -2779,6 +2867,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 253938,
+      "num": 253938,
+      "word": "iPhone16价格",
+      "onboard_time": 1713241099,
+      "rank": 30,
+      "category": "数码"
+    },
+    {
       "raw_hot": 253622,
       "num": 253622,
       "word": "真心建议大家冲一冲AI领域",
@@ -2809,6 +2905,14 @@
       "onboard_time": 1713154459,
       "rank": 30,
       "category": "数码"
+    },
+    {
+      "raw_hot": 251551,
+      "num": 251551,
+      "word": "周深脏脏包",
+      "onboard_time": 1713240021,
+      "rank": 31,
+      "category": "音乐"
     },
     {
       "raw_hot": 250522,
@@ -2889,14 +2993,6 @@
       "onboard_time": 1713145458,
       "rank": 4,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 246555,
-      "num": 246555,
-      "word": "柯南官配发糖",
-      "onboard_time": 1713237498,
-      "rank": 48,
-      "category": "动漫"
     },
     {
       "raw_hot": 246175,
@@ -3219,6 +3315,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 221032,
+      "num": 221032,
+      "word": "中医建议每天坚持晨跑",
+      "onboard_time": 1713238398,
+      "rank": 45,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 220727,
       "num": 199591,
       "word": "理想汽车回应车内摄像头拍不雅照",
@@ -3289,6 +3393,14 @@
       "onboard_time": 1713237317,
       "rank": 34,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 215403,
+      "num": 215403,
+      "word": "周扬青 乘风的行李大开箱",
+      "onboard_time": 1713240978,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 215133,
@@ -3425,14 +3537,6 @@
       "onboard_time": 1713144619,
       "rank": 28,
       "category": "演出"
-    },
-    {
-      "raw_hot": 208758,
-      "num": 208758,
-      "word": "股市",
-      "onboard_time": 1713238037,
-      "rank": 31,
-      "category": "财经"
     },
     {
       "raw_hot": 208354,
@@ -3827,6 +3931,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 190943,
+      "num": 190943,
+      "word": "豹豹猫猫",
+      "onboard_time": 1713240860,
+      "rank": 38,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 190874,
       "num": 190874,
       "word": "群星闪耀时",
@@ -3867,6 +3979,30 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 188934,
+      "num": 188934,
+      "word": "黑神话PS5版炒至500元",
+      "onboard_time": 1713238458,
+      "rank": 48,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 188804,
+      "num": 188804,
+      "word": "天赐的声音第五季阵容官宣",
+      "onboard_time": 1713240978,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 188512,
+      "num": 188512,
+      "word": "长沙暴雨天都黑了",
+      "onboard_time": 1713240198,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 188418,
       "num": 188418,
       "word": "为什么冲奶粉要用70度以上热水",
@@ -3897,6 +4033,14 @@
       "onboard_time": 1713193580,
       "rank": 35,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 185844,
+      "num": 185844,
+      "word": "恋与深空",
+      "onboard_time": 1713241099,
+      "rank": 42,
+      "category": "游戏"
     },
     {
       "raw_hot": 185771,
@@ -4051,6 +4195,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 179946,
+      "num": 179946,
+      "word": "陈楚生南京",
+      "onboard_time": 1713241039,
+      "rank": 43,
+      "category": "演出"
+    },
+    {
       "raw_hot": 178933,
       "num": 178933,
       "word": "林更新真不把观众当外人",
@@ -4131,6 +4283,14 @@
       "category": "情感,作品衍生"
     },
     {
+      "raw_hot": 176469,
+      "num": 176469,
+      "word": "巴黎奥运会",
+      "onboard_time": 1713239118,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 175732,
       "num": 175732,
       "word": "不喜欢宿舍的本质就是自己能量场太低了",
@@ -4179,6 +4339,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 173941,
+      "num": 173941,
+      "word": "热辣滚烫纪录片全集免费",
+      "onboard_time": 1713239058,
+      "rank": 45,
+      "category": "电影"
+    },
+    {
       "raw_hot": 173828,
       "num": 173828,
       "word": "李现台词",
@@ -4193,6 +4361,14 @@
       "onboard_time": 1713173057,
       "rank": 34,
       "category": "体育"
+    },
+    {
+      "raw_hot": 173344,
+      "num": 173344,
+      "word": "景德镇的路灯竟然是陶瓷的",
+      "onboard_time": 1713238159,
+      "rank": 43,
+      "category": "情感"
     },
     {
       "raw_hot": 172945,
@@ -4257,6 +4433,14 @@
       "onboard_time": 1713175636,
       "rank": 29,
       "category": "演出"
+    },
+    {
+      "raw_hot": 170771,
+      "num": 170771,
+      "word": "C罗肘击被禁赛两场",
+      "onboard_time": 1713239718,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 170515,
@@ -5323,14 +5507,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 131595,
-      "num": 131595,
-      "word": "景德镇的路灯竟然是陶瓷的",
-      "onboard_time": 1713238159,
-      "rank": 43,
-      "category": "情感"
-    },
-    {
       "raw_hot": 131425,
       "num": 131425,
       "word": "最好的死亡教育",
@@ -5385,14 +5561,6 @@
       "onboard_time": 1713078617,
       "rank": 48,
       "category": "体育"
-    },
-    {
-      "raw_hot": 129223,
-      "num": 129223,
-      "word": "中医建议每天坚持晨跑",
-      "onboard_time": 1713238398,
-      "rank": 45,
-      "category": "运动健身"
     },
     {
       "raw_hot": 128960,
@@ -5545,14 +5713,6 @@
       "onboard_time": 1713223515,
       "rank": 25,
       "category": "体育"
-    },
-    {
-      "raw_hot": 121829,
-      "num": 121829,
-      "word": "黑神话PS5版炒至500元",
-      "onboard_time": 1713238458,
-      "rank": 48,
-      "category": "游戏"
     },
     {
       "raw_hot": 121309,
@@ -6275,6 +6435,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 28798,
+      "num": 195860,
+      "word": "内娱掌管长腿的神",
+      "onboard_time": 1713240619,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 27698,
       "num": 27698,
       "word": "张杰3场就像我穿的衣服那么少",
@@ -6369,6 +6537,14 @@
       "onboard_time": 1713067096,
       "rank": 38,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 21113,
+      "num": 886476,
+      "word": "国家安全是头等大事不能袖手旁观",
+      "onboard_time": 1713240978,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 20632,
