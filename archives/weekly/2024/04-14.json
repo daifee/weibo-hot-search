@@ -1,6 +1,6 @@
 {
   "startTime": 1713025251708,
-  "endTime": 1713252937978,
+  "endTime": 1713255722862,
   "band_list": [
     {
       "raw_hot": 3410457,
@@ -8,6 +8,14 @@
       "word": "端午节放3天不调休",
       "onboard_time": 1713145817,
       "rank": 0,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 3144358,
+      "num": 3144358,
+      "word": "12306 秒没",
+      "onboard_time": 1713251296,
+      "rank": 24,
       "category": "社会新闻"
     },
     {
@@ -88,14 +96,6 @@
       "word": "重庆地铁站被砸孕妇心跳已停2次",
       "onboard_time": 1713226218,
       "rank": 0,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 2109360,
-      "num": 2109360,
-      "word": "12306 秒没",
-      "onboard_time": 1713251296,
-      "rank": 24,
       "category": "社会新闻"
     },
     {
@@ -185,6 +185,14 @@
       "onboard_time": 1713246378,
       "rank": 3,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1427507,
+      "num": 750925,
+      "word": "霍建华老了",
+      "onboard_time": 1713252079,
+      "rank": 5,
+      "category": "艺人"
     },
     {
       "raw_hot": 1384101,
@@ -659,6 +667,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 801284,
+      "num": 375742,
+      "word": "幼态审美入侵纸片人",
+      "onboard_time": 1713252197,
+      "rank": 18,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 799895,
       "num": 316028,
       "word": "黄子韬求导演管管徐艺洋",
@@ -769,14 +785,6 @@
       "onboard_time": 1713057077,
       "rank": 7,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 750925,
-      "num": 750925,
-      "word": "霍建华老了",
-      "onboard_time": 1713252079,
-      "rank": 5,
-      "category": "艺人"
     },
     {
       "raw_hot": 750205,
@@ -1139,6 +1147,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 576424,
+      "num": 275388,
+      "word": "长期喝咖啡身体会变成什么样",
+      "onboard_time": 1713250758,
+      "rank": 22,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 574076,
       "num": 574076,
       "word": "联合国秘书长谴责伊朗",
@@ -1476,7 +1492,7 @@
     },
     {
       "raw_hot": 485674,
-      "num": 252761,
+      "num": 273508,
       "word": "原来五千块钱真的很难存",
       "onboard_time": 1713248658,
       "rank": 23,
@@ -1675,14 +1691,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 446623,
-      "num": 251731,
-      "word": "长期喝咖啡身体会变成什么样",
-      "onboard_time": 1713250758,
-      "rank": 22,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 444205,
       "num": 444205,
       "word": "老人敞开自家古宅供免费参观被爹味说教",
@@ -1753,6 +1761,14 @@
       "onboard_time": 1713181218,
       "rank": 8,
       "category": "电影"
+    },
+    {
+      "raw_hot": 434205,
+      "num": 434205,
+      "word": "秦昊杨幂海报",
+      "onboard_time": 1713253937,
+      "rank": 6,
+      "category": "剧集"
     },
     {
       "raw_hot": 432840,
@@ -1873,6 +1889,14 @@
       "onboard_time": 1713107539,
       "rank": 21,
       "category": "情感"
+    },
+    {
+      "raw_hot": 412868,
+      "num": 370622,
+      "word": "国九条",
+      "onboard_time": 1713252619,
+      "rank": 27,
+      "category": "财经"
     },
     {
       "raw_hot": 407143,
@@ -2211,6 +2235,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 363737,
+      "num": 363737,
+      "word": "差一点就买到真的周大福了",
+      "onboard_time": 1713249018,
+      "rank": 41,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 363293,
       "num": 363293,
       "word": "薛之谦发型一半清汤一半麻辣",
@@ -2307,6 +2339,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 347339,
+      "num": 347339,
+      "word": "央广网评阿姨吐槽年轻人卧铺挂帘",
+      "onboard_time": 1713254419,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 345970,
       "num": 345970,
       "word": "Meiko时隔3276天再次确定进入MSI",
@@ -2361,6 +2401,14 @@
       "onboard_time": 1713232098,
       "rank": 18,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 327100,
+      "num": 327100,
+      "word": "你坐飞机喜欢坐窗边还是过道",
+      "onboard_time": 1713252978,
+      "rank": 15,
+      "category": "情感"
     },
     {
       "raw_hot": 326168,
@@ -2441,6 +2489,14 @@
       "onboard_time": 1713091939,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 319441,
+      "num": 319441,
+      "word": "肖战或将出席白玉兰",
+      "onboard_time": 1713252558,
+      "rank": 30,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 319386,
@@ -2868,7 +2924,7 @@
     },
     {
       "raw_hot": 277511,
-      "num": 250760,
+      "num": 269562,
       "word": "决定关掉朋友圈了",
       "onboard_time": 1713249617,
       "rank": 23,
@@ -2945,14 +3001,6 @@
       "onboard_time": 1713180977,
       "rank": 19,
       "category": "科学科普"
-    },
-    {
-      "raw_hot": 270545,
-      "num": 270545,
-      "word": "幼态审美入侵纸片人",
-      "onboard_time": 1713252197,
-      "rank": 18,
-      "category": "动漫"
     },
     {
       "raw_hot": 270331,
@@ -3187,6 +3235,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 249703,
+      "num": 249703,
+      "word": "王楚钦比赛",
+      "onboard_time": 1713252978,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 249458,
       "num": 249458,
       "word": "结婚后想吃老公调的蘸料被拒绝了",
@@ -3217,14 +3273,6 @@
       "onboard_time": 1713049813,
       "rank": 11,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 248363,
-      "num": 248363,
-      "word": "差一点就买到真的周大福了",
-      "onboard_time": 1713249018,
-      "rank": 41,
-      "category": "幽默"
     },
     {
       "raw_hot": 248290,
@@ -3923,6 +3971,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 207183,
+      "num": 201862,
+      "word": "进组的爸录综艺的妈",
+      "onboard_time": 1713255619,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 207074,
       "num": 207074,
       "word": "原汁原味 千与千寻",
@@ -3955,20 +4011,20 @@
       "category": "电影"
     },
     {
+      "raw_hot": 206321,
+      "num": 206321,
+      "word": "白玉兰",
+      "onboard_time": 1713255379,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 205725,
       "num": 205725,
       "word": "胡一天张婧仪像拍晋江封面",
       "onboard_time": 1713066380,
       "rank": 40,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 205541,
-      "num": 205541,
-      "word": "国九条",
-      "onboard_time": 1713252619,
-      "rank": 27,
-      "category": "财经"
     },
     {
       "raw_hot": 205529,
@@ -4009,6 +4065,22 @@
       "onboard_time": 1713241039,
       "rank": 43,
       "category": "演出"
+    },
+    {
+      "raw_hot": 203396,
+      "num": 203396,
+      "word": "迪丽热巴条纹毛衣",
+      "onboard_time": 1713253038,
+      "rank": 28,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 203308,
+      "num": 203308,
+      "word": "镜子为什么不能正对床",
+      "onboard_time": 1713253457,
+      "rank": 29,
+      "category": "情感"
     },
     {
       "raw_hot": 202779,
@@ -4257,14 +4329,6 @@
       "onboard_time": 1713088037,
       "rank": 32,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 196071,
-      "num": 191121,
-      "word": "肖战或将出席白玉兰",
-      "onboard_time": 1713252558,
-      "rank": 30,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 195678,
@@ -4611,6 +4675,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 180675,
+      "num": 180675,
+      "word": "tarzan确定加入wbg",
+      "onboard_time": 1713253699,
+      "rank": 34,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 178933,
       "num": 178933,
       "word": "林更新真不把观众当外人",
@@ -4865,6 +4937,14 @@
       "onboard_time": 1713108558,
       "rank": 23,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 170335,
+      "num": 170335,
+      "word": "张真源户外突袭直播",
+      "onboard_time": 1713255498,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 169689,
@@ -5355,6 +5435,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 154093,
+      "num": 154093,
+      "word": "傅娟回忆抗癌过程",
+      "onboard_time": 1713253819,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 154082,
       "num": 151474,
       "word": "易烊千玺竖纹西装",
@@ -5447,6 +5535,14 @@
       "num": 151011,
       "word": "赵露思曾黎王安宇聚会合照",
       "onboard_time": 1713091399,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 150712,
+      "num": 150712,
+      "word": "何广智变周杰伦",
+      "onboard_time": 1713254957,
       "rank": 42,
       "category": "艺人"
     },
@@ -6219,6 +6315,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 122711,
+      "num": 122711,
+      "word": "MiuMiu2024手袋系列",
+      "onboard_time": 1713255139,
+      "rank": 48,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 122526,
       "num": 122526,
       "word": "郝蕾 9个细节体现专业",
@@ -6257,6 +6361,14 @@
       "onboard_time": 1713136336,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 120519,
+      "num": 120519,
+      "word": "终于看到辛芷蕾的话剧片段了",
+      "onboard_time": 1713255198,
+      "rank": 49,
+      "category": "演出"
     },
     {
       "raw_hot": 120397,
@@ -6641,6 +6753,14 @@
       "onboard_time": 1713106881,
       "rank": 42,
       "category": "情感,网红"
+    },
+    {
+      "raw_hot": 83301,
+      "num": 378912,
+      "word": "被淄博小学生的热情戳到了",
+      "onboard_time": 1713254659,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 77410,

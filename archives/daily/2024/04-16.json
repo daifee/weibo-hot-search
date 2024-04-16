@@ -1,21 +1,21 @@
 {
   "startTime": 1713198119901,
-  "endTime": 1713252937978,
+  "endTime": 1713255722862,
   "band_list": [
+    {
+      "raw_hot": 3144358,
+      "num": 3144358,
+      "word": "12306 秒没",
+      "onboard_time": 1713251296,
+      "rank": 24,
+      "category": "社会新闻"
+    },
     {
       "raw_hot": 2147550,
       "num": 2147550,
       "word": "重庆地铁站被砸孕妇心跳已停2次",
       "onboard_time": 1713226218,
       "rank": 0,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 2109360,
-      "num": 2109360,
-      "word": "12306 秒没",
-      "onboard_time": 1713251296,
-      "rank": 24,
       "category": "社会新闻"
     },
     {
@@ -49,6 +49,14 @@
       "onboard_time": 1713191599,
       "rank": 3,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 1427507,
+      "num": 750925,
+      "word": "霍建华老了",
+      "onboard_time": 1713252079,
+      "rank": 5,
+      "category": "艺人"
     },
     {
       "raw_hot": 1352928,
@@ -171,6 +179,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 801284,
+      "num": 375742,
+      "word": "幼态审美入侵纸片人",
+      "onboard_time": 1713252197,
+      "rank": 18,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 758090,
       "num": 758090,
       "word": "胃癌的发生是一个长期的过程",
@@ -185,14 +201,6 @@
       "onboard_time": 1713245718,
       "rank": 5,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 750925,
-      "num": 750925,
-      "word": "霍建华老了",
-      "onboard_time": 1713252079,
-      "rank": 5,
-      "category": "艺人"
     },
     {
       "raw_hot": 737344,
@@ -299,6 +307,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 576424,
+      "num": 275388,
+      "word": "长期喝咖啡身体会变成什么样",
+      "onboard_time": 1713250758,
+      "rank": 22,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 536636,
       "num": 536636,
       "word": "AJ被强制下播",
@@ -372,7 +388,7 @@
     },
     {
       "raw_hot": 485674,
-      "num": 252761,
+      "num": 273508,
       "word": "原来五千块钱真的很难存",
       "onboard_time": 1713248658,
       "rank": 23,
@@ -451,14 +467,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 446623,
-      "num": 251731,
-      "word": "长期喝咖啡身体会变成什么样",
-      "onboard_time": 1713250758,
-      "rank": 22,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 444205,
       "num": 444205,
       "word": "老人敞开自家古宅供免费参观被爹味说教",
@@ -481,6 +489,14 @@
       "onboard_time": 1713222916,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 434205,
+      "num": 434205,
+      "word": "秦昊杨幂海报",
+      "onboard_time": 1713253937,
+      "rank": 6,
+      "category": "剧集"
     },
     {
       "raw_hot": 431935,
@@ -513,6 +529,14 @@
       "onboard_time": 1713192979,
       "rank": 10,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 412868,
+      "num": 370622,
+      "word": "国九条",
+      "onboard_time": 1713252619,
+      "rank": 27,
+      "category": "财经"
     },
     {
       "raw_hot": 407143,
@@ -595,6 +619,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 363737,
+      "num": 363737,
+      "word": "差一点就买到真的周大福了",
+      "onboard_time": 1713249018,
+      "rank": 41,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 360779,
       "num": 177098,
       "word": "赵丽颖改微博简介",
@@ -603,12 +635,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 347339,
+      "num": 347339,
+      "word": "央广网评阿姨吐槽年轻人卧铺挂帘",
+      "onboard_time": 1713254419,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 331136,
       "num": 331136,
       "word": "春花厌官宣杀青",
       "onboard_time": 1713232098,
       "rank": 18,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 327100,
+      "num": 327100,
+      "word": "你坐飞机喜欢坐窗边还是过道",
+      "onboard_time": 1713252978,
+      "rank": 15,
+      "category": "情感"
     },
     {
       "raw_hot": 326348,
@@ -625,6 +673,14 @@
       "onboard_time": 1713240978,
       "rank": 34,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 319441,
+      "num": 319441,
+      "word": "肖战或将出席白玉兰",
+      "onboard_time": 1713252558,
+      "rank": 30,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 314653,
@@ -724,7 +780,7 @@
     },
     {
       "raw_hot": 277511,
-      "num": 250760,
+      "num": 269562,
       "word": "决定关掉朋友圈了",
       "onboard_time": 1713249617,
       "rank": 23,
@@ -779,14 +835,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 270545,
-      "num": 270545,
-      "word": "幼态审美入侵纸片人",
-      "onboard_time": 1713252197,
-      "rank": 18,
-      "category": "动漫"
-    },
-    {
       "raw_hot": 266910,
       "num": 266910,
       "word": "跳12分钟等于运动1小时",
@@ -835,12 +883,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 248363,
-      "num": 248363,
-      "word": "差一点就买到真的周大福了",
-      "onboard_time": 1713249018,
-      "rank": 41,
-      "category": "幽默"
+      "raw_hot": 249703,
+      "num": 249703,
+      "word": "王楚钦比赛",
+      "onboard_time": 1713252978,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 246149,
@@ -1035,6 +1083,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 207183,
+      "num": 201862,
+      "word": "进组的爸录综艺的妈",
+      "onboard_time": 1713255619,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 206816,
       "num": 206816,
       "word": "陈楚生要在音综开嗓了",
@@ -1043,12 +1099,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 205541,
-      "num": 205541,
-      "word": "国九条",
-      "onboard_time": 1713252619,
+      "raw_hot": 206321,
+      "num": 206321,
+      "word": "白玉兰",
+      "onboard_time": 1713255379,
       "rank": 27,
-      "category": "财经"
+      "category": "剧集"
     },
     {
       "raw_hot": 205251,
@@ -1073,6 +1129,22 @@
       "onboard_time": 1713241039,
       "rank": 43,
       "category": "演出"
+    },
+    {
+      "raw_hot": 203396,
+      "num": 203396,
+      "word": "迪丽热巴条纹毛衣",
+      "onboard_time": 1713253038,
+      "rank": 28,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 203308,
+      "num": 203308,
+      "word": "镜子为什么不能正对床",
+      "onboard_time": 1713253457,
+      "rank": 29,
+      "category": "情感"
     },
     {
       "raw_hot": 202637,
@@ -1121,14 +1193,6 @@
       "onboard_time": 1713190160,
       "rank": 16,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 196071,
-      "num": 191121,
-      "word": "肖战或将出席白玉兰",
-      "onboard_time": 1713252558,
-      "rank": 30,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 195678,
@@ -1243,6 +1307,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 180675,
+      "num": 180675,
+      "word": "tarzan确定加入wbg",
+      "onboard_time": 1713253699,
+      "rank": 34,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 178284,
       "num": 178284,
       "word": "华为P70",
@@ -1329,6 +1401,14 @@
       "onboard_time": 1713239718,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 170335,
+      "num": 170335,
+      "word": "张真源户外突袭直播",
+      "onboard_time": 1713255498,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 169689,
@@ -1467,6 +1547,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 154093,
+      "num": 154093,
+      "word": "傅娟回忆抗癌过程",
+      "onboard_time": 1713253819,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 154080,
       "num": 154080,
       "word": "范湉湉 我就想当影后",
@@ -1481,6 +1569,14 @@
       "onboard_time": 1713231678,
       "rank": 41,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 150712,
+      "num": 150712,
+      "word": "何广智变周杰伦",
+      "onboard_time": 1713254957,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 149541,
@@ -1707,6 +1803,14 @@
       "category": "音乐,时尚"
     },
     {
+      "raw_hot": 122711,
+      "num": 122711,
+      "word": "MiuMiu2024手袋系列",
+      "onboard_time": 1713255139,
+      "rank": 48,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 122104,
       "num": 122104,
       "word": "切尔西6比0埃弗顿",
@@ -1721,6 +1825,14 @@
       "onboard_time": 1713233358,
       "rank": 44,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 120519,
+      "num": 120519,
+      "word": "终于看到辛芷蕾的话剧片段了",
+      "onboard_time": 1713255198,
+      "rank": 49,
+      "category": "演出"
     },
     {
       "raw_hot": 117294,
@@ -1865,6 +1977,14 @@
       "onboard_time": 1713189018,
       "rank": 29,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 83301,
+      "num": 378912,
+      "word": "被淄博小学生的热情戳到了",
+      "onboard_time": 1713254659,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 78878,
