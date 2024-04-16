@@ -1,6 +1,6 @@
 {
   "startTime": 1713025251708,
-  "endTime": 1713267302036,
+  "endTime": 1713270770430,
   "band_list": [
     {
       "raw_hot": 3410457,
@@ -155,6 +155,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 1704920,
+      "num": 1704920,
+      "word": "歌手2024 张元英",
+      "onboard_time": 1713268578,
+      "rank": 0,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1649233,
       "num": 1649233,
       "word": "12306抢票",
@@ -297,6 +305,14 @@
       "onboard_time": 1713145338,
       "rank": 1,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 1215076,
+      "num": 1215076,
+      "word": "微信状态真的很好用",
+      "onboard_time": 1713265278,
+      "rank": 26,
+      "category": "互联网"
     },
     {
       "raw_hot": 1207479,
@@ -723,6 +739,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 797694,
+      "num": 797694,
+      "word": "沈月工作暂停先消失十天",
+      "onboard_time": 1713264558,
+      "rank": 11,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 790085,
       "num": 380791,
       "word": "杨蓉连续十年给朱一龙庆生",
@@ -784,6 +808,14 @@
       "word": "如懿传 吐槽",
       "onboard_time": 1713098778,
       "rank": 11,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 769463,
+      "num": 769463,
+      "word": "金秘书为何那样",
+      "onboard_time": 1713267978,
+      "rank": 4,
       "category": "剧集"
     },
     {
@@ -857,14 +889,6 @@
       "onboard_time": 1713174619,
       "rank": 18,
       "category": "科学科普"
-    },
-    {
-      "raw_hot": 746227,
-      "num": 746227,
-      "word": "沈月工作暂停先消失十天",
-      "onboard_time": 1713264558,
-      "rank": 11,
-      "category": "综艺"
     },
     {
       "raw_hot": 744914,
@@ -1089,14 +1113,6 @@
       "onboard_time": 1713188898,
       "rank": 6,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 624274,
-      "num": 624274,
-      "word": "微信状态真的很好用",
-      "onboard_time": 1713265278,
-      "rank": 26,
-      "category": "互联网"
     },
     {
       "raw_hot": 621493,
@@ -1547,6 +1563,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 496470,
+      "num": 496470,
+      "word": "何炅杨蓉终于要有感情线了吗",
+      "onboard_time": 1713269478,
+      "rank": 6,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 496176,
       "num": 496176,
       "word": "厦门大学食堂建议本",
@@ -1755,6 +1779,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 450547,
+      "num": 450547,
+      "word": "杨幂首部反派女主",
+      "onboard_time": 1713265458,
+      "rank": 16,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 449888,
       "num": 449888,
       "word": "权志龙将下半年solo回归",
@@ -1819,6 +1851,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 441660,
+      "num": 339935,
+      "word": "杨紫和牛骏峰是发小",
+      "onboard_time": 1713267618,
+      "rank": 10,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 441417,
       "num": 441417,
       "word": "李显龙卸任后将出任新加坡国务资政",
@@ -1865,14 +1905,6 @@
       "onboard_time": 1713097577,
       "rank": 21,
       "category": "电影"
-    },
-    {
-      "raw_hot": 437938,
-      "num": 437938,
-      "word": "杨幂首部反派女主",
-      "onboard_time": 1713265458,
-      "rank": 16,
-      "category": "剧集"
     },
     {
       "raw_hot": 437776,
@@ -2043,6 +2075,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 407491,
+      "num": 202406,
+      "word": "牛骏峰回应陪杨紫演",
+      "onboard_time": 1713268157,
+      "rank": 15,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 407143,
       "num": 274748,
       "word": "十六岁才是读博的好年龄",
@@ -2161,6 +2201,14 @@
       "onboard_time": 1713178520,
       "rank": 8,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 392568,
+      "num": 392568,
+      "word": "马克龙说巴黎奥运会开幕式存在B计划",
+      "onboard_time": 1713266478,
+      "rank": 32,
+      "category": "体育"
     },
     {
       "raw_hot": 391238,
@@ -2611,6 +2659,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 325825,
+      "num": 325825,
+      "word": "因为拒绝相亲被我爸拉黑了",
+      "onboard_time": 1713269120,
+      "rank": 11,
+      "category": "情感"
+    },
+    {
       "raw_hot": 325615,
       "num": 325615,
       "word": "林俊杰唱当你送给隔壁王心凌",
@@ -2857,6 +2913,14 @@
       "onboard_time": 1713266117,
       "rank": 23,
       "category": "情感"
+    },
+    {
+      "raw_hot": 302875,
+      "num": 198203,
+      "word": "许凯发了杨紫",
+      "onboard_time": 1713270680,
+      "rank": 20,
+      "category": "剧集"
     },
     {
       "raw_hot": 302853,
@@ -3243,6 +3307,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 270002,
+      "num": 199718,
+      "word": "热辣滚烫打假",
+      "onboard_time": 1713269120,
+      "rank": 17,
+      "category": "电影"
+    },
+    {
       "raw_hot": 267826,
       "num": 267826,
       "word": "sorry来sorry去宝宝给伞你不拒",
@@ -3419,6 +3491,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 255830,
+      "num": 197107,
+      "word": "歌手阵容",
+      "onboard_time": 1713270379,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 253622,
       "num": 253622,
       "word": "真心建议大家冲一冲AI领域",
@@ -3593,6 +3673,14 @@
       "onboard_time": 1713065897,
       "rank": 31,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 242504,
+      "num": 194728,
+      "word": "李一桐手臂纹身",
+      "onboard_time": 1713267438,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 242007,
@@ -4347,6 +4435,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 203877,
+      "num": 194056,
+      "word": "谁能演金秘书",
+      "onboard_time": 1713270439,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 203773,
       "num": 203773,
       "word": "陈楚生南京",
@@ -4361,6 +4457,14 @@
       "onboard_time": 1713253038,
       "rank": 28,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 202923,
+      "num": 202923,
+      "word": "三丽鸥明星人气评选",
+      "onboard_time": 1713269600,
+      "rank": 14,
+      "category": "动漫,作品衍生"
     },
     {
       "raw_hot": 202779,
@@ -4571,6 +4675,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 198338,
+      "num": 198338,
+      "word": "方程豹",
+      "onboard_time": 1713270439,
+      "rank": 19,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 198302,
       "num": 198302,
       "word": "奔跑吧全员对12的解读",
@@ -4659,6 +4771,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 193611,
+      "num": 193611,
+      "word": "承欢记",
+      "onboard_time": 1713010998,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 193400,
       "num": 193400,
       "word": "电影想飞的女孩官宣",
@@ -4713,6 +4833,14 @@
       "onboard_time": 1713093619,
       "rank": 33,
       "category": "演出"
+    },
+    {
+      "raw_hot": 191619,
+      "num": 191619,
+      "word": "颜值很高但难吃的食物",
+      "onboard_time": 1713269120,
+      "rank": 30,
+      "category": "美食"
     },
     {
       "raw_hot": 190874,
@@ -4867,6 +4995,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 184053,
+      "num": 184053,
+      "word": "弟弟从没提过他的朋友坐轮椅",
+      "onboard_time": 1713269358,
+      "rank": 31,
+      "category": "情感"
+    },
+    {
       "raw_hot": 183729,
       "num": 183729,
       "word": "韦世豪绝杀",
@@ -4937,6 +5073,14 @@
       "onboard_time": 1713064457,
       "rank": 47,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 181674,
+      "num": 181674,
+      "word": "为什么现在酒店退房都不查房了",
+      "onboard_time": 1713267139,
+      "rank": 46,
+      "category": "科学科普"
     },
     {
       "raw_hot": 181470,
@@ -5097,6 +5241,22 @@
       "onboard_time": 1713239118,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 176397,
+      "num": 176397,
+      "word": "结婚后感觉爸妈对我的态度变了",
+      "onboard_time": 1713270557,
+      "rank": 33,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 175927,
+      "num": 175927,
+      "word": "竟然收到了十年前的欠款",
+      "onboard_time": 1713268097,
+      "rank": 34,
+      "category": "情感"
     },
     {
       "raw_hot": 175732,
@@ -5537,14 +5697,6 @@
       "onboard_time": 1713192620,
       "rank": 42,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 162296,
-      "num": 162296,
-      "word": "马克龙说巴黎奥运会开幕式存在B计划",
-      "onboard_time": 1713266478,
-      "rank": 32,
-      "category": "体育"
     },
     {
       "raw_hot": 162206,
@@ -6003,6 +6155,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 149591,
+      "num": 196081,
+      "word": "孙颖莎王楚钦登顶第一",
+      "onboard_time": 1713269898,
+      "rank": 23,
+      "category": "体育"
+    },
+    {
       "raw_hot": 149570,
       "num": 149570,
       "word": "Knight 十张身份证的决赛这次我会赢",
@@ -6049,6 +6209,14 @@
       "onboard_time": 1713165618,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 148501,
+      "num": 148501,
+      "word": "薛之谦演唱会眼镜哥直播",
+      "onboard_time": 1713268999,
+      "rank": 37,
+      "category": "演出"
     },
     {
       "raw_hot": 148429,
@@ -6739,6 +6907,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 126831,
+      "num": 126831,
+      "word": "无限暖暖",
+      "onboard_time": 1713267258,
+      "rank": 48,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 126312,
       "num": 126312,
       "word": "原来爱也有正反面",
@@ -6787,6 +6963,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 125011,
+      "num": 125011,
+      "word": "钎城美好种地的一天",
+      "onboard_time": 1713269478,
+      "rank": 43,
+      "category": "电竞,综艺"
+    },
+    {
       "raw_hot": 125004,
       "num": 125004,
       "word": "孙颖莎7150分世排第一",
@@ -6801,6 +6985,14 @@
       "onboard_time": 1713187038,
       "rank": 43,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 124757,
+      "num": 124757,
+      "word": "我对结婚的态度be like",
+      "onboard_time": 1713270680,
+      "rank": 44,
+      "category": "情感"
     },
     {
       "raw_hot": 124477,
@@ -6881,6 +7073,14 @@
       "onboard_time": 1713262039,
       "rank": 48,
       "category": "教育"
+    },
+    {
+      "raw_hot": 121750,
+      "num": 121750,
+      "word": "练车是考验父女关系的一道坎",
+      "onboard_time": 1713269537,
+      "rank": 45,
+      "category": "情感"
     },
     {
       "raw_hot": 121309,
@@ -7009,14 +7209,6 @@
       "onboard_time": 1713143058,
       "rank": 49,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 116781,
-      "num": 116781,
-      "word": "为什么现在酒店退房都不查房了",
-      "onboard_time": 1713267139,
-      "rank": 46,
-      "category": "科学科普"
     },
     {
       "raw_hot": 116431,
@@ -7161,14 +7353,6 @@
       "onboard_time": 1713118872,
       "rank": 12,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 107214,
-      "num": 107214,
-      "word": "无限暖暖",
-      "onboard_time": 1713267258,
-      "rank": 48,
-      "category": "游戏"
     },
     {
       "raw_hot": 106916,
@@ -7329,6 +7513,14 @@
       "onboard_time": 1713103338,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 90529,
+      "num": 113954,
+      "word": "U23日本vs国足U23",
+      "onboard_time": 1713270319,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 90362,
@@ -7873,14 +8065,6 @@
       "onboard_time": 1713065837,
       "rank": 38,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 17645,
-      "num": 21757,
-      "word": "承欢记",
-      "onboard_time": 1713010998,
-      "rank": 48,
-      "category": "剧集"
     },
     {
       "raw_hot": 17256,
