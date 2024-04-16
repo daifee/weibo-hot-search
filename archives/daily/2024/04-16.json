@@ -1,6 +1,6 @@
 {
   "startTime": 1713198119901,
-  "endTime": 1713262729265,
+  "endTime": 1713263687671,
   "band_list": [
     {
       "raw_hot": 3144358,
@@ -139,8 +139,8 @@
       "category": "情感"
     },
     {
-      "raw_hot": 970581,
-      "num": 970581,
+      "raw_hot": 971424,
+      "num": 971424,
       "word": "买到盗版书发现字是手写的",
       "onboard_time": 1713260179,
       "rank": 1,
@@ -228,7 +228,7 @@
     },
     {
       "raw_hot": 790085,
-      "num": 350628,
+      "num": 380791,
       "word": "杨蓉连续十年给朱一龙庆生",
       "onboard_time": 1713257838,
       "rank": 16,
@@ -435,6 +435,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 516140,
+      "num": 516140,
+      "word": "林更新吴奇隆综艺重聚",
+      "onboard_time": 1713262157,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 513543,
       "num": 513543,
       "word": "体检查出甲状腺结节切勿盲目手术",
@@ -579,6 +587,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 428936,
+      "num": 379546,
+      "word": "金采源发竖中指视频秒删",
+      "onboard_time": 1713261079,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 422811,
       "num": 422811,
       "word": "iPhone16Pro系列或有30项优化",
@@ -611,12 +627,12 @@
       "category": "财经"
     },
     {
-      "raw_hot": 410126,
-      "num": 342929,
-      "word": "金采源发竖中指视频秒删",
-      "onboard_time": 1713261079,
-      "rank": 12,
-      "category": "艺人"
+      "raw_hot": 412814,
+      "num": 378362,
+      "word": "沈月要见到微信头像林更新了",
+      "onboard_time": 1713262757,
+      "rank": 13,
+      "category": "综艺"
     },
     {
       "raw_hot": 407143,
@@ -667,6 +683,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 382909,
+      "num": 382909,
+      "word": "女生连做11个原地云里震惊全场",
+      "onboard_time": 1713261019,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 380804,
       "num": 380804,
       "word": "股市",
@@ -683,12 +707,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 378201,
+      "num": 378201,
+      "word": "林俊杰 爱情修不明白",
+      "onboard_time": 1713262277,
+      "rank": 25,
+      "category": "演出"
+    },
+    {
       "raw_hot": 373847,
       "num": 373847,
       "word": "金秀贤剧本上有金智媛贴纸",
       "onboard_time": 1713251118,
       "rank": 15,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 373682,
+      "num": 223673,
+      "word": "公务员和研究生都考上了怎么选择",
+      "onboard_time": 1713262218,
+      "rank": 22,
+      "category": "教育"
     },
     {
       "raw_hot": 371844,
@@ -753,14 +793,6 @@
       "onboard_time": 1713260420,
       "rank": 7,
       "category": "财经"
-    },
-    {
-      "raw_hot": 342717,
-      "num": 342717,
-      "word": "林更新吴奇隆综艺重聚",
-      "onboard_time": 1713262157,
-      "rank": 13,
-      "category": "综艺"
     },
     {
       "raw_hot": 331136,
@@ -907,14 +939,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 281779,
-      "num": 209351,
-      "word": "公务员和研究生都考上了怎么选择",
-      "onboard_time": 1713262218,
-      "rank": 22,
-      "category": "教育"
-    },
-    {
       "raw_hot": 279054,
       "num": 279054,
       "word": "哈马斯领导人多个家人被炸死",
@@ -1059,14 +1083,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 244191,
-      "num": 344807,
-      "word": "女生连做11个原地云里震惊全场",
-      "onboard_time": 1713261019,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 244175,
       "num": 244175,
       "word": "余承东回应华为Pura70何时开售",
@@ -1081,6 +1097,14 @@
       "onboard_time": 1713194899,
       "rank": 14,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 242224,
+      "num": 242224,
+      "word": "刘诗诗的男主们参加同一档综艺",
+      "onboard_time": 1713263118,
+      "rank": 17,
+      "category": "综艺"
     },
     {
       "raw_hot": 239865,
@@ -1345,14 +1369,6 @@
       "onboard_time": 1713258559,
       "rank": 31,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 202233,
-      "num": 202233,
-      "word": "林俊杰 爱情修不明白",
-      "onboard_time": 1713262277,
-      "rank": 25,
-      "category": "演出"
     },
     {
       "raw_hot": 200161,
@@ -1675,6 +1691,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 167105,
+      "num": 167105,
+      "word": "上了大三感觉人人都是章鱼哥",
+      "onboard_time": 1713259339,
+      "rank": 33,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 166954,
       "num": 166954,
       "word": "白城",
@@ -1779,14 +1803,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 158095,
-      "num": 158095,
-      "word": "上了大三感觉人人都是章鱼哥",
-      "onboard_time": 1713259339,
-      "rank": 33,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 157979,
       "num": 157979,
       "word": "钟楚曦高颅顶教学",
@@ -1836,7 +1852,7 @@
     },
     {
       "raw_hot": 153993,
-      "num": 378912,
+      "num": 383627,
       "word": "被淄博小学生的热情戳到了",
       "onboard_time": 1713254659,
       "rank": 9,
@@ -2067,6 +2083,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 131146,
+      "num": 131146,
+      "word": "原来真的有风吹花成雨",
+      "onboard_time": 1713263538,
+      "rank": 36,
+      "category": "情感"
+    },
+    {
       "raw_hot": 128551,
       "num": 128551,
       "word": "退市新规并非针对小盘股",
@@ -2195,6 +2219,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 117648,
+      "num": 117648,
+      "word": "她来这个家是来享福的",
+      "onboard_time": 1713263419,
+      "rank": 41,
+      "category": "情感"
+    },
+    {
       "raw_hot": 117294,
       "num": 117294,
       "word": "为什么女生比男生更容易长痘",
@@ -2243,6 +2275,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 114522,
+      "num": 114522,
+      "word": "都怪现在的奶茶名字太离谱",
+      "onboard_time": 1713263478,
+      "rank": 42,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 111076,
       "num": 277339,
       "word": "拿到offer后买了人生第一套正装",
@@ -2259,6 +2299,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 110248,
+      "num": 110248,
+      "word": "原来外国人看英语卷子是这样",
+      "onboard_time": 1713263538,
+      "rank": 47,
+      "category": "情感"
+    },
+    {
       "raw_hot": 109837,
       "num": 109837,
       "word": "中国银行回应暂停新车个贷传闻",
@@ -2273,6 +2321,22 @@
       "onboard_time": 1713232637,
       "rank": 48,
       "category": "演出"
+    },
+    {
+      "raw_hot": 109537,
+      "num": 109537,
+      "word": "AJ确认BreatheTarzan加入WBG",
+      "onboard_time": 1713263657,
+      "rank": 48,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 109160,
+      "num": 109160,
+      "word": "水扯面",
+      "onboard_time": 1713263657,
+      "rank": 49,
+      "category": "美食"
     },
     {
       "raw_hot": 108168,
