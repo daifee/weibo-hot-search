@@ -1,6 +1,6 @@
 {
   "startTime": 1713025251708,
-  "endTime": 1713281669243,
+  "endTime": 1713284571046,
   "band_list": [
     {
       "raw_hot": 3410457,
@@ -1451,6 +1451,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 542039,
+      "num": 335639,
+      "word": "黄灿灿 女演员怎么录试戏片段",
+      "onboard_time": 1713282618,
+      "rank": 10,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 541715,
       "num": 541715,
       "word": "章若楠好会搭洞洞鞋",
@@ -1649,6 +1657,14 @@
       "onboard_time": 1713152118,
       "rank": 11,
       "category": "电影,动漫"
+    },
+    {
+      "raw_hot": 504445,
+      "num": 504445,
+      "word": "荣梓杉方回应中戏北电双第一",
+      "onboard_time": 1713282858,
+      "rank": 4,
+      "category": "艺人"
     },
     {
       "raw_hot": 503703,
@@ -1897,6 +1913,14 @@
       "onboard_time": 1713233778,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 451286,
+      "num": 451286,
+      "word": "我真的卖了自己的工作",
+      "onboard_time": 1713279680,
+      "rank": 23,
+      "category": "幽默"
     },
     {
       "raw_hot": 450547,
@@ -3795,14 +3819,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 249747,
-      "num": 249747,
-      "word": "我真的卖了自己的工作",
-      "onboard_time": 1713279680,
-      "rank": 23,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 249703,
       "num": 249703,
       "word": "王楚钦比赛",
@@ -4113,6 +4129,14 @@
       "onboard_time": 1713225258,
       "rank": 25,
       "category": "情感"
+    },
+    {
+      "raw_hot": 232709,
+      "num": 232709,
+      "word": "金牛座不会对外说的秘密",
+      "onboard_time": 1713280939,
+      "rank": 33,
+      "category": "情感,网红"
     },
     {
       "raw_hot": 232393,
@@ -4851,6 +4875,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 201915,
+      "num": 201915,
+      "word": "适合射手座的生活方式",
+      "onboard_time": 1713282139,
+      "rank": 19,
+      "category": "情感,网红"
+    },
+    {
       "raw_hot": 201767,
       "num": 201767,
       "word": "北京三年级小学生的真实周末",
@@ -5329,14 +5361,6 @@
       "onboard_time": 1713193580,
       "rank": 35,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 185990,
-      "num": 185990,
-      "word": "金牛座不会对外说的秘密",
-      "onboard_time": 1713280939,
-      "rank": 33,
-      "category": "情感,网红"
     },
     {
       "raw_hot": 185930,
@@ -6515,6 +6539,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 152851,
+      "num": 152851,
+      "word": "演唱会小丑",
+      "onboard_time": 1713283338,
+      "rank": 25,
+      "category": "演出"
+    },
+    {
       "raw_hot": 152371,
       "num": 152371,
       "word": "TES挺进春决",
@@ -6715,6 +6747,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 147158,
+      "num": 147158,
+      "word": "晚秘书为何那样",
+      "onboard_time": 1713282739,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 147096,
       "num": 147096,
       "word": "王鸥眼妆",
@@ -6777,6 +6817,14 @@
       "onboard_time": 1713182597,
       "rank": 37,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 145550,
+      "num": 145550,
+      "word": "成都居民称换表后燃气费异常上涨",
+      "onboard_time": 1713282320,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 145522,
@@ -7643,6 +7691,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 119346,
+      "num": 119846,
+      "word": "500万粉主播澄清撞脸命案逃犯",
+      "onboard_time": 1713281478,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 118812,
       "num": 118812,
       "word": "姚志明流浪小猫有家了",
@@ -7785,14 +7841,6 @@
       "onboard_time": 1713166519,
       "rank": 44,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 112298,
-      "num": 119846,
-      "word": "500万粉主播澄清撞脸命案逃犯",
-      "onboard_time": 1713281478,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 111139,
@@ -7979,6 +8027,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 97500,
+      "num": 97500,
+      "word": "林更新答应我白着回来",
+      "onboard_time": 1713283877,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 97318,
       "num": 97318,
       "word": "柳岩称被男搭档开身材玩笑很难堪",
@@ -8081,6 +8137,14 @@
       "onboard_time": 1713050833,
       "rank": 40,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 85328,
+      "num": 85328,
+      "word": "沙特电竞世界杯奖金公布",
+      "onboard_time": 1713284236,
+      "rank": 46,
+      "category": "电竞"
     },
     {
       "raw_hot": 84794,
@@ -8609,6 +8673,14 @@
       "onboard_time": 1713206053,
       "rank": 39,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 12233,
+      "num": 599120,
+      "word": "聚焦2024年消博会",
+      "onboard_time": 1713275000,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 11663,
