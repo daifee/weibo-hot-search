@@ -1,6 +1,6 @@
 {
   "startTime": 1713284571046,
-  "endTime": 1713309517294,
+  "endTime": 1713310463669,
   "band_list": [
     {
       "raw_hot": 1943927,
@@ -8,6 +8,14 @@
       "word": "吉林宁江区3.9级地震",
       "onboard_time": 1713309076,
       "rank": 0,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1011433,
+      "num": 1011433,
+      "word": "得知邻居是欠债潜逃者后小岛居民选择这样做",
+      "onboard_time": 1713296471,
+      "rank": 11,
       "category": "社会新闻"
     },
     {
@@ -27,12 +35,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 821083,
-      "num": 821083,
-      "word": "得知邻居是欠债潜逃者后小岛居民选择这样做",
-      "onboard_time": 1713296471,
-      "rank": 11,
-      "category": "社会新闻"
+      "raw_hot": 640160,
+      "num": 640160,
+      "word": "为什么爸妈没有想过给女儿买房",
+      "onboard_time": 1713277700,
+      "rank": 41,
+      "category": "情感"
     },
     {
       "raw_hot": 578733,
@@ -43,20 +51,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 567133,
+      "num": 567133,
+      "word": "小女孩一脚踩断家里大理石茶几",
+      "onboard_time": 1713301751,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 558849,
       "num": 558849,
       "word": "黄灿灿 女演员怎么录试戏片段",
       "onboard_time": 1713282618,
       "rank": 10,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 535633,
-      "num": 535633,
-      "word": "为什么爸妈没有想过给女儿买房",
-      "onboard_time": 1713277700,
-      "rank": 41,
-      "category": "情感"
     },
     {
       "raw_hot": 514213,
@@ -73,14 +81,6 @@
       "onboard_time": 1713282858,
       "rank": 4,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 469262,
-      "num": 469262,
-      "word": "小女孩一脚踩断家里大理石茶几",
-      "onboard_time": 1713301751,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 464861,
@@ -163,6 +163,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 242439,
+      "num": 242439,
+      "word": "王一博奥运会资格赛系列赛VCR",
+      "onboard_time": 1713298451,
+      "rank": 45,
+      "category": "艺人,体育"
+    },
+    {
       "raw_hot": 239559,
       "num": 239559,
       "word": "适合射手座的生活方式",
@@ -203,14 +211,6 @@
       "category": "情感,网红"
     },
     {
-      "raw_hot": 224408,
-      "num": 224408,
-      "word": "王一博奥运会资格赛系列赛VCR",
-      "onboard_time": 1713298451,
-      "rank": 45,
-      "category": "艺人,体育"
-    },
-    {
       "raw_hot": 223893,
       "num": 223893,
       "word": "SEVENTEEN回归",
@@ -219,8 +219,32 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 210422,
+      "num": 210422,
+      "word": "欧冠",
+      "onboard_time": 1713310036,
+      "rank": 14,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 197859,
+      "num": 176574,
+      "word": "睡前玩手机会让你慢慢变丑",
+      "onboard_time": 1713308656,
+      "rank": 24,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 196313,
+      "num": 196313,
+      "word": "哈尔滨震感",
+      "onboard_time": 1713309976,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 186484,
-      "num": 121320,
+      "num": 175971,
       "word": "有种早起可能比熬夜更伤身",
       "onboard_time": 1713302291,
       "rank": 22,
@@ -235,6 +259,38 @@
       "category": "情感"
     },
     {
+      "raw_hot": 180981,
+      "num": 180981,
+      "word": "巴萨1比4巴黎",
+      "onboard_time": 1713308834,
+      "rank": 21,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 177136,
+      "num": 177136,
+      "word": "多特蒙德晋级欧冠4强",
+      "onboard_time": 1713309315,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 174530,
+      "num": 174530,
+      "word": "相亲尽量安排在工作日",
+      "onboard_time": 1713299711,
+      "rank": 28,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 168112,
+      "num": 106429,
+      "word": "马丽言论",
+      "onboard_time": 1713309736,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 165525,
       "num": 165525,
       "word": "为什么穷人家庭不和睦",
@@ -243,20 +299,28 @@
       "category": "情感"
     },
     {
-      "raw_hot": 156894,
-      "num": 117138,
-      "word": "巴萨1比4巴黎",
-      "onboard_time": 1713308834,
-      "rank": 21,
-      "category": "体育"
-    },
-    {
       "raw_hot": 154199,
       "num": 154199,
       "word": "26岁换工作了不敢跟爸妈说",
       "onboard_time": 1713279439,
       "rank": 24,
       "category": "情感"
+    },
+    {
+      "raw_hot": 151207,
+      "num": 151207,
+      "word": "巴黎奥运倒计时100天",
+      "onboard_time": 1713309076,
+      "rank": 25,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 149221,
+      "num": 149221,
+      "word": "睡觉时不能脚朝西头朝东吗",
+      "onboard_time": 1713297612,
+      "rank": 21,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 148891,
@@ -283,36 +347,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 145404,
-      "num": 111509,
-      "word": "睡觉时不能脚朝西头朝东吗",
-      "onboard_time": 1713297612,
-      "rank": 21,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 145302,
       "num": 145302,
       "word": "何炅杨蓉终于要有感情线了吗",
       "onboard_time": 1713269478,
       "rank": 30,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 142760,
-      "num": 105985,
-      "word": "睡前玩手机会让你慢慢变丑",
-      "onboard_time": 1713308656,
-      "rank": 24,
-      "category": "健康医疗"
-    },
-    {
-      "raw_hot": 142572,
-      "num": 142572,
-      "word": "相亲尽量安排在工作日",
-      "onboard_time": 1713299711,
-      "rank": 28,
-      "category": "情感"
     },
     {
       "raw_hot": 134274,
@@ -331,19 +371,19 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 124424,
-      "num": 124424,
-      "word": "多特蒙德晋级欧冠4强",
-      "onboard_time": 1713309315,
-      "rank": 19,
-      "category": "体育"
-    },
-    {
       "raw_hot": 124244,
       "num": 124244,
       "word": "许凯发了杨紫",
       "onboard_time": 1713270680,
       "rank": 32,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 120966,
+      "num": 106435,
+      "word": "任敏体态",
+      "onboard_time": 1713310096,
+      "rank": 30,
       "category": "剧集"
     },
     {
@@ -363,20 +403,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 106416,
+      "num": 106416,
+      "word": "姆巴佩梅开二度",
+      "onboard_time": 1713309736,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 104498,
       "num": 104498,
       "word": "白猫因过于淡定被质疑耳聋",
       "onboard_time": 1713277281,
       "rank": 36,
       "category": "情感"
-    },
-    {
-      "raw_hot": 103699,
-      "num": 103699,
-      "word": "巴黎奥运倒计时100天",
-      "onboard_time": 1713309076,
-      "rank": 25,
-      "category": "体育"
     },
     {
       "raw_hot": 103524,
@@ -475,19 +515,19 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 84515,
+      "num": 84515,
+      "word": "姚志明爆改门童",
+      "onboard_time": 1713306071,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 82012,
       "num": 82012,
       "word": "承欢记热度",
       "onboard_time": 1713277700,
       "rank": 47,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 81283,
-      "num": 81283,
-      "word": "姚志明爆改门童",
-      "onboard_time": 1713306071,
-      "rank": 36,
       "category": "剧集"
     },
     {
@@ -507,6 +547,22 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 74979,
+      "num": 74979,
+      "word": "神雕侠侣",
+      "onboard_time": 1713292211,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 72569,
+      "num": 72569,
+      "word": "吴磊郑合惠子张予曦早期片场旧照",
+      "onboard_time": 1713291072,
+      "rank": 31,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 70650,
       "num": 70650,
       "word": "巴萨vs巴黎",
@@ -523,20 +579,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 67548,
-      "num": 67548,
+      "raw_hot": 67886,
+      "num": 67886,
       "word": "别再用棉签掏耳朵了",
       "onboard_time": 1713294011,
       "rank": 44,
       "category": "科学科普"
-    },
-    {
-      "raw_hot": 60974,
-      "num": 60974,
-      "word": "吴磊郑合惠子张予曦早期片场旧照",
-      "onboard_time": 1713291072,
-      "rank": 31,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 57431,
@@ -619,14 +667,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 36823,
-      "num": 36823,
-      "word": "神雕侠侣",
-      "onboard_time": 1713292211,
-      "rank": 43,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 32034,
       "num": 32034,
       "word": "第一次看见这么活泼的朱一龙",
@@ -644,7 +684,7 @@
     },
     {
       "raw_hot": 28088,
-      "num": 78926,
+      "num": 106439,
       "word": "老人乘扶梯仰面摔倒民警飞速冲上去救人",
       "onboard_time": 1713296051,
       "rank": 29,
@@ -659,20 +699,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 17721,
+      "num": 668306,
+      "word": "聚焦2024年消博会",
+      "onboard_time": 1713275000,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 17241,
       "num": 37433,
       "word": "97岁国乒球迷奶奶最爱孙颖莎",
       "onboard_time": 1713288734,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 15396,
-      "num": 632563,
-      "word": "聚焦2024年消博会",
-      "onboard_time": 1713275000,
-      "rank": 2,
-      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
