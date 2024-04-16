@@ -1,6 +1,6 @@
 {
   "startTime": 1713025251708,
-  "endTime": 1713277069351,
+  "endTime": 1713278079500,
   "band_list": [
     {
       "raw_hot": 3410457,
@@ -299,6 +299,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1222299,
+      "num": 1119152,
+      "word": "复旦研究生珠峰地区登山死亡",
+      "onboard_time": 1713275419,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1218861,
       "num": 1218861,
       "word": "保时捷中国总裁回应米时捷",
@@ -345,14 +353,6 @@
       "onboard_time": 1713016579,
       "rank": 3,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1119152,
-      "num": 1119152,
-      "word": "复旦研究生珠峰地区登山死亡",
-      "onboard_time": 1713275419,
-      "rank": 1,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1112152,
@@ -473,6 +473,14 @@
       "onboard_time": 1713122472,
       "rank": 10,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 978450,
+      "num": 978450,
+      "word": "吴磊半裸骑行",
+      "onboard_time": 1713276139,
+      "rank": 10,
+      "category": "电影"
     },
     {
       "raw_hot": 976172,
@@ -625,6 +633,14 @@
       "onboard_time": 1713229399,
       "rank": 31,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 885702,
+      "num": 885702,
+      "word": "张艺兴工作室改名",
+      "onboard_time": 1713276619,
+      "rank": 12,
+      "category": "音乐"
     },
     {
       "raw_hot": 883852,
@@ -1611,14 +1627,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 497634,
-      "num": 497634,
-      "word": "吴磊半裸骑行",
-      "onboard_time": 1713276139,
-      "rank": 10,
-      "category": "电影"
-    },
-    {
       "raw_hot": 496176,
       "num": 496176,
       "word": "厦门大学食堂建议本",
@@ -1657,6 +1665,22 @@
       "onboard_time": 1713269120,
       "rank": 11,
       "category": "情感"
+    },
+    {
+      "raw_hot": 490947,
+      "num": 490947,
+      "word": "王妈",
+      "onboard_time": 1713276800,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 487486,
+      "num": 487486,
+      "word": "特斯拉卖一辆车净赚43300元",
+      "onboard_time": 1713274818,
+      "rank": 19,
+      "category": "汽车"
     },
     {
       "raw_hot": 486007,
@@ -1713,14 +1737,6 @@
       "onboard_time": 1713242299,
       "rank": 15,
       "category": "演出"
-    },
-    {
-      "raw_hot": 475139,
-      "num": 475139,
-      "word": "张艺兴工作室改名",
-      "onboard_time": 1713276619,
-      "rank": 12,
-      "category": "音乐"
     },
     {
       "raw_hot": 473480,
@@ -2139,8 +2155,16 @@
       "category": "财经"
     },
     {
+      "raw_hot": 411713,
+      "num": 411713,
+      "word": "媒体发声能否叫停调休",
+      "onboard_time": 1713277220,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 410902,
-      "num": 505728,
+      "num": 559586,
       "word": "女生连做11个原地云里震惊全场",
       "onboard_time": 1713261019,
       "rank": 9,
@@ -2643,6 +2667,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 354615,
+      "num": 354615,
+      "word": "我娱乐圈唯一的人脉要失联了",
+      "onboard_time": 1713277458,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 351160,
       "num": 351160,
       "word": "为什么很多女生不愿意恋爱了",
@@ -3027,14 +3059,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 303431,
-      "num": 336607,
-      "word": "特斯拉卖一辆车净赚43300元",
-      "onboard_time": 1713274818,
-      "rank": 19,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 302853,
       "num": 302853,
       "word": "98年小伙因精神状态太美丽走红",
@@ -3052,7 +3076,7 @@
     },
     {
       "raw_hot": 301246,
-      "num": 249182,
+      "num": 273361,
       "word": "孔雪儿进组",
       "onboard_time": 1713275840,
       "rank": 25,
@@ -3425,6 +3449,14 @@
       "onboard_time": 1713275120,
       "rank": 26,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 271833,
+      "num": 271833,
+      "word": "承欢记热度",
+      "onboard_time": 1713277700,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 271646,
@@ -4195,6 +4227,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 223545,
+      "num": 198428,
+      "word": "白猫因过于淡定被质疑耳聋",
+      "onboard_time": 1713277281,
+      "rank": 31,
+      "category": "情感"
+    },
+    {
       "raw_hot": 223502,
       "num": 223502,
       "word": "张靓颖 老娘没有唱破音",
@@ -4419,14 +4459,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 212728,
-      "num": 212728,
-      "word": "王妈",
-      "onboard_time": 1713276800,
-      "rank": 31,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 212465,
       "num": 212465,
       "word": "为了不给弟弟买车我自己买了辆车",
@@ -4563,6 +4595,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 207048,
+      "num": 207048,
+      "word": "WCBA总决赛",
+      "onboard_time": 1713277700,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
       "raw_hot": 206816,
       "num": 206816,
       "word": "陈楚生要在音综开嗓了",
@@ -4681,6 +4721,14 @@
       "onboard_time": 1713189740,
       "rank": 32,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 202534,
+      "num": 193766,
+      "word": "心疼Rebecca",
+      "onboard_time": 1713276680,
+      "rank": 41,
+      "category": "剧集"
     },
     {
       "raw_hot": 202431,
@@ -4985,6 +5033,14 @@
       "onboard_time": 1713007757,
       "rank": 29,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 193245,
+      "num": 193245,
+      "word": "年会见到张凌赫",
+      "onboard_time": 1713276981,
+      "rank": 44,
+      "category": "艺人"
     },
     {
       "raw_hot": 192742,
@@ -5411,6 +5467,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 177301,
+      "num": 177301,
+      "word": "曾经很讨厌现在却喜欢的东西",
+      "onboard_time": 1713276560,
+      "rank": 42,
+      "category": "情感"
+    },
+    {
       "raw_hot": 177065,
       "num": 177065,
       "word": "女性可能面临的生育损伤",
@@ -5483,12 +5547,28 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 174974,
+      "num": 174974,
+      "word": "为何优衣库没那么火了",
+      "onboard_time": 1713276859,
+      "rank": 47,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 174843,
       "num": 174843,
       "word": "文俊辉卷毛路透",
       "onboard_time": 1713241880,
       "rank": 46,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 174813,
+      "num": 174813,
+      "word": "德云社新剧定档",
+      "onboard_time": 1713276741,
+      "rank": 37,
+      "category": "剧集"
     },
     {
       "raw_hot": 174785,
@@ -5680,14 +5760,6 @@
       "word": "定风波 张楠",
       "onboard_time": 1713262398,
       "rank": 33,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 167889,
-      "num": 167889,
-      "word": "德云社新剧定档",
-      "onboard_time": 1713276741,
-      "rank": 37,
       "category": "剧集"
     },
     {
@@ -5987,14 +6059,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 160692,
-      "num": 153819,
-      "word": "心疼Rebecca",
-      "onboard_time": 1713276680,
-      "rank": 41,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 160050,
       "num": 160050,
       "word": "当猫得知绝育医生的真实身份",
@@ -6105,6 +6169,22 @@
       "onboard_time": 1713184999,
       "rank": 41,
       "category": "体育"
+    },
+    {
+      "raw_hot": 156882,
+      "num": 1072633,
+      "word": "国字号重器再添新成员",
+      "onboard_time": 1713276019,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 156723,
+      "num": 156723,
+      "word": "谁教杨紫许凯这么玩的",
+      "onboard_time": 1713274938,
+      "rank": 43,
+      "category": "剧集"
     },
     {
       "raw_hot": 156702,
@@ -6331,14 +6411,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 150759,
-      "num": 150759,
-      "word": "曾经很讨厌现在却喜欢的东西",
-      "onboard_time": 1713276560,
-      "rank": 42,
-      "category": "情感"
-    },
-    {
       "raw_hot": 150757,
       "num": 150757,
       "word": "国内油价今晚上涨",
@@ -6355,19 +6427,19 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 150694,
+      "num": 174934,
+      "word": "为什么爸妈没有想过给女儿买房",
+      "onboard_time": 1713277700,
+      "rank": 39,
+      "category": "情感"
+    },
+    {
       "raw_hot": 150585,
       "num": 150585,
       "word": "韩剧三件套",
       "onboard_time": 1713164658,
       "rank": 32,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 150449,
-      "num": 150449,
-      "word": "谁教杨紫许凯这么玩的",
-      "onboard_time": 1713274938,
-      "rank": 43,
       "category": "剧集"
     },
     {
@@ -6433,14 +6505,6 @@
       "onboard_time": 1713264617,
       "rank": 31,
       "category": "美食"
-    },
-    {
-      "raw_hot": 148920,
-      "num": 148920,
-      "word": "年会见到张凌赫",
-      "onboard_time": 1713276981,
-      "rank": 44,
-      "category": "艺人"
     },
     {
       "raw_hot": 148714,
@@ -6635,6 +6699,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 144293,
+      "num": 144293,
+      "word": "方硕不满",
+      "onboard_time": 1713277099,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 144278,
       "num": 144278,
       "word": "吴镇宇排除纪凌尘好干脆",
@@ -6657,6 +6729,14 @@
       "onboard_time": 1713154700,
       "rank": 49,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 143599,
+      "num": 143599,
+      "word": "成为了女朋友的精神股东",
+      "onboard_time": 1713278060,
+      "rank": 48,
+      "category": "情感"
     },
     {
       "raw_hot": 143351,
@@ -6777,14 +6857,6 @@
       "onboard_time": 1713152658,
       "rank": 42,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 140113,
-      "num": 140113,
-      "word": "为何优衣库没那么火了",
-      "onboard_time": 1713276859,
-      "rank": 47,
-      "category": "时尚"
     },
     {
       "raw_hot": 139948,
@@ -7195,14 +7267,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 127335,
-      "num": 1072633,
-      "word": "国字号重器再添新成员",
-      "onboard_time": 1713276019,
-      "rank": 2,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 126831,
       "num": 126831,
       "word": "无限暖暖",
@@ -7436,7 +7500,7 @@
     },
     {
       "raw_hot": 119607,
-      "num": 481618,
+      "num": 511106,
       "word": "方程豹全家桶",
       "onboard_time": 1713273320,
       "rank": 45,
@@ -8446,6 +8510,9 @@
     },
     {
       "word": "#中德要坚持互利共赢彼此成就#"
+    },
+    {
+      "word": "#中德建立全方位战略伙伴关系10周年#"
     }
   ]
 }
