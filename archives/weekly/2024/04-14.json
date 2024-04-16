@@ -1,6 +1,6 @@
 {
   "startTime": 1713025251708,
-  "endTime": 1713292446818,
+  "endTime": 1713294855569,
   "band_list": [
     {
       "raw_hot": 3410457,
@@ -8659,6 +8659,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 26451,
+      "num": 26451,
+      "word": "神雕侠侣",
+      "onboard_time": 1713292211,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 26316,
       "num": 26316,
       "word": "心理医生应对内耗的5个建议",
@@ -8667,19 +8675,19 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 26175,
+      "num": 26175,
+      "word": "巴萨vs巴黎",
+      "onboard_time": 1713294072,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
       "raw_hot": 25932,
       "num": 25932,
       "word": "群星闪耀时 谍战剧",
       "onboard_time": 1713204551,
       "rank": 44,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 24892,
-      "num": 24892,
-      "word": "神雕侠侣",
-      "onboard_time": 1713292211,
-      "rank": 43,
       "category": "剧集"
     },
     {
@@ -8745,6 +8753,14 @@
       "onboard_time": 1713071179,
       "rank": 37,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 19247,
+      "num": 19247,
+      "word": "林依晨演技",
+      "onboard_time": 1713294132,
+      "rank": 42,
+      "category": "剧集"
     },
     {
       "raw_hot": 18299,

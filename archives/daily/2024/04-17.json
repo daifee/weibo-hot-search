@@ -1,6 +1,6 @@
 {
   "startTime": 1713284571046,
-  "endTime": 1713292446818,
+  "endTime": 1713294855569,
   "band_list": [
     {
       "raw_hot": 843050,
@@ -499,11 +499,27 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 24892,
-      "num": 24892,
+      "raw_hot": 26451,
+      "num": 26451,
       "word": "神雕侠侣",
       "onboard_time": 1713292211,
       "rank": 43,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 26175,
+      "num": 26175,
+      "word": "巴萨vs巴黎",
+      "onboard_time": 1713294072,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 19247,
+      "num": 19247,
+      "word": "林依晨演技",
+      "onboard_time": 1713294132,
+      "rank": 42,
       "category": "剧集"
     },
     {
