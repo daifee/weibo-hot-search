@@ -1,6 +1,6 @@
 {
   "startTime": 1711902044401,
-  "endTime": 1713234950880,
+  "endTime": 1713237619660,
   "band_list": [
     {
       "raw_hot": 16874674,
@@ -4187,6 +4187,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 860244,
+      "num": 860244,
+      "word": "网友上海偶遇老默冯兵低调干跑腿",
+      "onboard_time": 1713234738,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 859326,
       "num": 859326,
       "word": "政审结束后被告知有五年服务期",
@@ -7003,12 +7011,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 632558,
+      "num": 632558,
+      "word": "极限挑战第十季X官宣",
+      "onboard_time": 1713234318,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 631928,
       "num": 631928,
       "word": "南京震感",
       "onboard_time": 1712103453,
       "rank": 18,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 631925,
+      "num": 631925,
+      "word": "朱一龙赵丽颖合影旧照",
+      "onboard_time": 1713236598,
+      "rank": 6,
+      "category": "艺人"
     },
     {
       "raw_hot": 630779,
@@ -8009,6 +8033,14 @@
       "onboard_time": 1712492598,
       "rank": 40,
       "category": "情感"
+    },
+    {
+      "raw_hot": 580606,
+      "num": 580606,
+      "word": "2024一季度GDP同比增长5.3%",
+      "onboard_time": 1713234257,
+      "rank": 49,
+      "category": "财经"
     },
     {
       "raw_hot": 580459,
@@ -9644,7 +9676,7 @@
     },
     {
       "raw_hot": 503703,
-      "num": 389218,
+      "num": 473919,
       "word": "数学140分以上就能被知名大学锁定吗",
       "onboard_time": 1713193281,
       "rank": 22,
@@ -10929,6 +10961,14 @@
       "onboard_time": 1713102499,
       "rank": 16,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 456056,
+      "num": 456056,
+      "word": "金鹤龙发了迪丽热巴",
+      "onboard_time": 1713233778,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 455619,
@@ -13065,14 +13105,6 @@
       "onboard_time": 1711939218,
       "rank": 33,
       "category": "教育,幽默"
-    },
-    {
-      "raw_hot": 387166,
-      "num": 387166,
-      "word": "2024一季度GDP同比增长5.3%",
-      "onboard_time": 1713234257,
-      "rank": 49,
-      "category": "财经"
     },
     {
       "raw_hot": 387158,
@@ -15387,14 +15419,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 326324,
-      "num": 242100,
-      "word": "金鹤龙发了迪丽热巴",
-      "onboard_time": 1713233778,
-      "rank": 23,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 326168,
       "num": 326168,
       "word": "AI眼里月薪1到1亿元的工作",
@@ -17348,7 +17372,7 @@
     },
     {
       "raw_hot": 290421,
-      "num": 169503,
+      "num": 239476,
       "word": "指甲店里面的特殊服务",
       "onboard_time": 1713232818,
       "rank": 30,
@@ -20547,14 +20571,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 243574,
-      "num": 243574,
-      "word": "极限挑战第十季X官宣",
-      "onboard_time": 1713234318,
-      "rank": 21,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 243564,
       "num": 243564,
       "word": "哪种血型身体好",
@@ -20745,6 +20761,14 @@
       "onboard_time": 1712028439,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 241409,
+      "num": 241409,
+      "word": "恋爱脑室友 真正的站姐",
+      "onboard_time": 1713235637,
+      "rank": 23,
+      "category": "幽默"
     },
     {
       "raw_hot": 241252,
@@ -21811,6 +21835,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 228468,
+      "num": 228468,
+      "word": "突然觉得工作后真的好啊",
+      "onboard_time": 1713236297,
+      "rank": 26,
+      "category": "情感"
+    },
+    {
       "raw_hot": 228459,
       "num": 228459,
       "word": "南昌公交车",
@@ -22795,6 +22827,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 218507,
+      "num": 218507,
+      "word": "考公考编和考研怎么选",
+      "onboard_time": 1713236118,
+      "rank": 27,
+      "category": "教育"
+    },
+    {
       "raw_hot": 218310,
       "num": 218310,
       "word": "鸿蒙智行回应雷军",
@@ -23360,6 +23400,14 @@
       "word": "行止 不负苍生不负她",
       "onboard_time": 1712295437,
       "rank": 26,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 212932,
+      "num": 212932,
+      "word": "麦承欢碎了",
+      "onboard_time": 1713235158,
+      "rank": 28,
       "category": "剧集"
     },
     {
@@ -25195,6 +25243,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 201649,
+      "num": 201649,
+      "word": "极限挑战10阵容",
+      "onboard_time": 1713237378,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 201627,
       "num": 201627,
       "word": "鞠婧祎双丸子头女高",
@@ -25691,6 +25747,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 198809,
+      "num": 198809,
+      "word": "黑执事 熹妃回宫",
+      "onboard_time": 1713236297,
+      "rank": 30,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 198804,
       "num": 198804,
       "word": "无意中发现了世界的一个bug",
@@ -25985,14 +26049,6 @@
       "onboard_time": 1712646381,
       "rank": 18,
       "category": "体育"
-    },
-    {
-      "raw_hot": 197174,
-      "num": 197174,
-      "word": "网友上海偶遇老默冯兵低调干跑腿",
-      "onboard_time": 1713234738,
-      "rank": 25,
-      "category": "艺人"
     },
     {
       "raw_hot": 197155,
@@ -28963,6 +29019,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 181157,
+      "num": 181157,
+      "word": "楚国王级大墓考古新进展",
+      "onboard_time": 1713234497,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 181112,
       "num": 181112,
       "word": "英专生 五世同堂",
@@ -30387,6 +30451,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 171418,
+      "num": 171418,
+      "word": "拍照果然是男朋友的必修课",
+      "onboard_time": 1713235458,
+      "rank": 33,
+      "category": "情感"
+    },
+    {
       "raw_hot": 171387,
       "num": 171387,
       "word": "iCAR",
@@ -31443,6 +31515,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 163851,
+      "num": 163851,
+      "word": "18岁前把视力控制在600度以内",
+      "onboard_time": 1713237317,
+      "rank": 34,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 163775,
       "num": 163775,
       "word": "来公司面试的人好像是个工贼",
@@ -31825,14 +31905,6 @@
       "onboard_time": 1712996416,
       "rank": 32,
       "category": "情感"
-    },
-    {
-      "raw_hot": 161498,
-      "num": 161498,
-      "word": "楚国王级大墓考古新进展",
-      "onboard_time": 1713234497,
-      "rank": 33,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 161444,
@@ -32985,6 +33057,14 @@
       "onboard_time": 1712228358,
       "rank": 40,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 154693,
+      "num": 154693,
+      "word": "原来五一只放了一天假",
+      "onboard_time": 1713235997,
+      "rank": 36,
+      "category": "幽默"
     },
     {
       "raw_hot": 154545,
@@ -34633,6 +34713,14 @@
       "onboard_time": 1712474899,
       "rank": 45,
       "category": "情感"
+    },
+    {
+      "raw_hot": 145734,
+      "num": 145734,
+      "word": "中医告诉你春敏的内在根源",
+      "onboard_time": 1713236778,
+      "rank": 37,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 145705,
@@ -36331,6 +36419,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 135474,
+      "num": 135474,
+      "word": "一季度城镇居民人均可支配收入15150元",
+      "onboard_time": 1713236417,
+      "rank": 39,
+      "category": "财经"
+    },
+    {
       "raw_hot": 135366,
       "num": 135366,
       "word": "外出后身上出现小黑点一定要警惕",
@@ -36913,6 +37009,14 @@
       "onboard_time": 1712469558,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 131425,
+      "num": 131425,
+      "word": "最好的死亡教育",
+      "onboard_time": 1713237196,
+      "rank": 41,
+      "category": "情感"
     },
     {
       "raw_hot": 131423,
@@ -37747,6 +37851,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 125072,
+      "num": 125072,
+      "word": "种地吧每日直播",
+      "onboard_time": 1713234917,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 125004,
       "num": 125004,
       "word": "孙颖莎7150分世排第一",
@@ -38208,14 +38320,6 @@
       "word": "浪姐",
       "onboard_time": 1712904377,
       "rank": 45,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 121154,
-      "num": 121154,
-      "word": "种地吧每日直播",
-      "onboard_time": 1713234917,
-      "rank": 48,
       "category": "综艺"
     },
     {
@@ -38993,6 +39097,14 @@
       "onboard_time": 1712285837,
       "rank": 44,
       "category": "情感"
+    },
+    {
+      "raw_hot": 113596,
+      "num": 113596,
+      "word": "柯南官配发糖",
+      "onboard_time": 1713237498,
+      "rank": 48,
+      "category": "动漫"
     },
     {
       "raw_hot": 113552,
@@ -41329,6 +41441,14 @@
       "onboard_time": 1713198975,
       "rank": 38,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 65133,
+      "num": 244105,
+      "word": "更牛的城市NOA来了",
+      "onboard_time": 1713236057,
+      "rank": 20,
+      "category": "汽车"
     },
     {
       "raw_hot": 64859,
