@@ -1,0 +1,410 @@
+{
+  "runTime": 1713229977005,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2147550,
+        "num": 2147550,
+        "word": "重庆地铁站被砸孕妇心跳已停2次",
+        "onboard_time": 1713226218,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1334836,
+        "num": 1334836,
+        "word": "莫言和余华的微信头像",
+        "onboard_time": 1713225498,
+        "rank": 1,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 32432,
+        "num": 1181865,
+        "word": "汇聚起维护国家安全的强大力量",
+        "onboard_time": 1713187099,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1038858,
+        "num": 1038858,
+        "word": "38岁单身无娃的女性生活",
+        "onboard_time": 1713226218,
+        "rank": 3,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 1001279,
+        "num": 1001279,
+        "word": "男子当众扒光前女友衣服获刑5年",
+        "onboard_time": 1713207971,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 785506,
+        "num": 785506,
+        "word": "小新被爆家暴出轨",
+        "onboard_time": 1713191599,
+        "rank": 5,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 758090,
+        "num": 758090,
+        "word": "胃癌的发生是一个长期的过程",
+        "onboard_time": 1713223577,
+        "rank": 6,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 688432,
+        "num": 688432,
+        "word": "胖东来回应爆改长沙步步高超市",
+        "onboard_time": 1713226519,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 635493,
+        "num": 635493,
+        "word": "安慕希 迪丽热巴",
+        "onboard_time": 1713227599,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 277532,
+        "num": 624579,
+        "word": "45岁儿子决定和妈妈重新认识一次",
+        "onboard_time": 1713214150,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 624158,
+        "num": 624158,
+        "word": "12306回应年轻人卧铺挂帘子老人没地坐",
+        "onboard_time": 1713181038,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 532510,
+        "num": 532510,
+        "word": "12306抢票",
+        "onboard_time": 1713229041,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 513543,
+        "num": 513543,
+        "word": "体检查出甲状腺结节切勿盲目手术",
+        "onboard_time": 1713227000,
+        "rank": 12,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 444205,
+        "num": 444205,
+        "word": "老人敞开自家古宅供免费参观被爹味说教",
+        "onboard_time": 1713226098,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 430701,
+        "num": 430701,
+        "word": "歌手2024",
+        "onboard_time": 1713227058,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 422811,
+        "num": 422811,
+        "word": "iPhone16Pro系列或有30项优化",
+        "onboard_time": 1713224477,
+        "rank": 15,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 314653,
+        "num": 314653,
+        "word": "以军总参谋长称伊朗的袭击将遭到回应",
+        "onboard_time": 1713225917,
+        "rank": 16,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 300266,
+        "num": 300266,
+        "word": "胡一天演过夏至未至",
+        "onboard_time": 1713226338,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 275941,
+        "num": 275941,
+        "word": "宋亚轩刘耀文一起逛超市",
+        "onboard_time": 1713226098,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 225039,
+        "num": 225039,
+        "word": "重庆大风暴雨",
+        "onboard_time": 1713222916,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 407143,
+        "num": 224504,
+        "word": "十六岁才是读博的好年龄",
+        "onboard_time": 1713228620,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 364908,
+        "num": 223035,
+        "word": "熬夜玩手机的人的特征",
+        "onboard_time": 1713226819,
+        "rank": 21,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 309627,
+        "num": 222554,
+        "word": "爸爸去世前的搜索记录",
+        "onboard_time": 1713228019,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 241492,
+        "num": 221404,
+        "word": "数学140分以上就能被知名大学锁定吗",
+        "onboard_time": 1713193281,
+        "rank": 23,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 239147,
+        "num": 220715,
+        "word": "分手11年的前任在高铁上碰到了",
+        "onboard_time": 1713225137,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 232716,
+        "num": 218955,
+        "word": "朋友圈点赞这个人数正常嘛",
+        "onboard_time": 1713225258,
+        "rank": 25,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 218614,
+        "num": 218614,
+        "word": "胆固醇之王原来是它",
+        "onboard_time": 1713217810,
+        "rank": 26,
+        "category": "健康医疗,科学科普"
+      },
+      {
+        "raw_hot": 212465,
+        "num": 212465,
+        "word": "为了不给弟弟买车我自己买了辆车",
+        "onboard_time": 1713228620,
+        "rank": 27,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 198925,
+        "num": 198925,
+        "word": "朱一龙骑行生日照",
+        "onboard_time": 1713228860,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 195678,
+        "num": 195678,
+        "word": "赵一博打游戏",
+        "onboard_time": 1713228380,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 306302,
+        "num": 194409,
+        "word": "因为同事办公室取消五一假期",
+        "onboard_time": 1713228920,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 191226,
+        "num": 191226,
+        "word": "专家建议增加下半年法定节假日",
+        "onboard_time": 1713229399,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 184080,
+        "num": 184080,
+        "word": "中国职工总假期数不及全球多数国家",
+        "onboard_time": 1713228800,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 181157,
+        "num": 181157,
+        "word": "与其他国家相比我们假期真的少吗",
+        "onboard_time": 1713227839,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 176475,
+        "num": 176475,
+        "word": "麦承欢的家真的拆迁了",
+        "onboard_time": 1713191779,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 162902,
+        "num": 162902,
+        "word": "切尔西抢点球内讧",
+        "onboard_time": 1713229220,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 162799,
+        "num": 162799,
+        "word": "宋鑫",
+        "onboard_time": 1713229581,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 161407,
+        "num": 161407,
+        "word": "为什么网上买药比实体店更便宜",
+        "onboard_time": 1713205213,
+        "rank": 37,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 159868,
+        "num": 159868,
+        "word": "吴尊自曝晨起心率只有38",
+        "onboard_time": 1713188179,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 157979,
+        "num": 157979,
+        "word": "钟楚曦高颅顶教学",
+        "onboard_time": 1713227421,
+        "rank": 39,
+        "category": "美妆,艺人"
+      },
+      {
+        "raw_hot": 157924,
+        "num": 157924,
+        "word": "警方调查14岁女生被学校教练性侵",
+        "onboard_time": 1713223696,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 155903,
+        "num": 155903,
+        "word": "吴恙晒与张予曦聊天记录",
+        "onboard_time": 1713229700,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 148810,
+        "num": 148810,
+        "word": "赵丽颖改微博简介",
+        "onboard_time": 1713177319,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 148516,
+        "num": 148516,
+        "word": "华为P70",
+        "onboard_time": 1713188778,
+        "rank": 43,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 145361,
+        "num": 145361,
+        "word": "35岁后我把妈妈当女儿养了十年",
+        "onboard_time": 1713224957,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 145161,
+        "num": 145161,
+        "word": "特斯拉市值一夜蒸发2200亿",
+        "onboard_time": 1713223937,
+        "rank": 45,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 136817,
+        "num": 136817,
+        "word": "重庆一地铁站石砖脱落砸中孕妇",
+        "onboard_time": 1713229879,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 135392,
+        "num": 135392,
+        "word": "韩国人多冷都要喝冰美式",
+        "onboard_time": 1713229939,
+        "rank": 47,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 133312,
+        "num": 133312,
+        "word": "李耕耘的李白",
+        "onboard_time": 1713192979,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 133096,
+        "num": 133096,
+        "word": "薛之谦演唱会眼镜哥回应",
+        "onboard_time": 1713185058,
+        "rank": 49,
+        "category": "演出"
+      }
+    ],
+    "hotgov": {
+      "word": "#坚定不移贯彻总体国家安全观#"
+    }
+  }
+}
