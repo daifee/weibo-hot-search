@@ -1,0 +1,410 @@
+{
+  "runTime": 1713357159543,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1709771,
+        "num": 1709771,
+        "word": "飞飞一杯酒去世",
+        "onboard_time": 1713352879,
+        "rank": 0,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 1128379,
+        "num": 1128379,
+        "word": "苗苗 救场",
+        "onboard_time": 1713351138,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 78775,
+        "num": 927905,
+        "word": "消博会上掀起了一股国潮风",
+        "onboard_time": 1713345198,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 836247,
+        "num": 836247,
+        "word": "食物语停运",
+        "onboard_time": 1713356420,
+        "rank": 3,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 809467,
+        "num": 809467,
+        "word": "庆余年第二季 5月播",
+        "onboard_time": 1713352520,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 673837,
+        "num": 673837,
+        "word": "氯雷他定",
+        "onboard_time": 1713327258,
+        "rank": 5,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 670415,
+        "num": 670415,
+        "word": "小林制药导致住院增至235人",
+        "onboard_time": 1713355759,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 554082,
+        "num": 554082,
+        "word": "燃气公司称换表后费用上涨或许是错觉",
+        "onboard_time": 1713355939,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 535666,
+        "num": 535666,
+        "word": "接个私活像出轨一样",
+        "onboard_time": 1713351619,
+        "rank": 8,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 137759,
+        "num": 497838,
+        "word": "全红婵陈芋汐十米台再现神同步",
+        "onboard_time": 1713340039,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 487022,
+        "num": 487022,
+        "word": "杨紫妆造",
+        "onboard_time": 1713352698,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 593603,
+        "num": 471487,
+        "word": "女生带病出操去世的三大争议",
+        "onboard_time": 1713351738,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 448045,
+        "num": 448045,
+        "word": "Jennie辛芷蕾撞衫",
+        "onboard_time": 1713354498,
+        "rank": 12,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 438711,
+        "num": 438711,
+        "word": "朱丹因怀二胎才送女儿去幼儿园",
+        "onboard_time": 1713351918,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 327796,
+        "num": 327796,
+        "word": "黄子韬把朱梓骁认成金莎男朋友",
+        "onboard_time": 1713351319,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 325025,
+        "num": 325025,
+        "word": "十个勤天 禾你见面",
+        "onboard_time": 1713352879,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 302745,
+        "num": 302745,
+        "word": "歌手 营销",
+        "onboard_time": 1713355459,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 300589,
+        "num": 300589,
+        "word": "胡锡进今天回血近13000元",
+        "onboard_time": 1713353658,
+        "rank": 17,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 300451,
+        "num": 300451,
+        "word": "东部战区",
+        "onboard_time": 1713349758,
+        "rank": 18,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 185282,
+        "num": 185282,
+        "word": "福宝开始探索外场区域",
+        "onboard_time": 1713347598,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1596040,
+        "num": 184857,
+        "word": "蔡徐坤 发福",
+        "onboard_time": 1713345258,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 355500,
+        "num": 184412,
+        "word": "体外受精的过程",
+        "onboard_time": 1713354738,
+        "rank": 21,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 297722,
+        "num": 184051,
+        "word": "如懿传 李纯",
+        "onboard_time": 1713340158,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 275965,
+        "num": 183771,
+        "word": "36岁女子存300万后提前退休",
+        "onboard_time": 1713340459,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 257768,
+        "num": 183171,
+        "word": "易梦玲鼻子",
+        "onboard_time": 1713349218,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 227851,
+        "num": 183056,
+        "word": "福宝躺着吃笋满身竹笋皮",
+        "onboard_time": 1713354379,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 220893,
+        "num": 182558,
+        "word": "青春环游记第5季录制嘉宾",
+        "onboard_time": 1713351439,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 195406,
+        "num": 181972,
+        "word": "怀孕三个月发现男友隐瞒婚史",
+        "onboard_time": 1713335119,
+        "rank": 27,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 181787,
+        "num": 181787,
+        "word": "林彦俊 哑巴前夫有话说",
+        "onboard_time": 1713345438,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 151190,
+        "num": 151190,
+        "word": "捧杀才是最高端的必杀技",
+        "onboard_time": 1713352639,
+        "rank": 29,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 257388,
+        "num": 151154,
+        "word": "周迅 B站",
+        "onboard_time": 1713337157,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 153457,
+        "num": 150905,
+        "word": "奔跑吧直播",
+        "onboard_time": 1713352219,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 150442,
+        "num": 150442,
+        "word": "台剧 40岁女性",
+        "onboard_time": 1713356298,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 63115,
+        "num": 143641,
+        "word": "中德汽车技术合作升级",
+        "onboard_time": 1713351797,
+        "rank": 33,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 142795,
+        "num": 142795,
+        "word": "外交部回应美欧称中国存在产能过剩",
+        "onboard_time": 1713353478,
+        "rank": 34,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 146027,
+        "num": 142772,
+        "word": "张艺兴无效卡点",
+        "onboard_time": 1713355038,
+        "rank": 35,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 145479,
+        "num": 142238,
+        "word": "你和向佐什么关系",
+        "onboard_time": 1713354857,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 141413,
+        "num": 141413,
+        "word": "米卡拿到了中国驾照",
+        "onboard_time": 1713356118,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 125223,
+        "num": 125223,
+        "word": "当讨好型人格钓鱼时遇见了猫",
+        "onboard_time": 1713354318,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 115849,
+        "num": 115849,
+        "word": "12306积分首次使用必须满1万",
+        "onboard_time": 1713341838,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 137810,
+        "num": 115704,
+        "word": "酱园弄 谢娜",
+        "onboard_time": 1713332720,
+        "rank": 40,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 136841,
+        "num": 115688,
+        "word": "张元英歌手 信的人感觉会被骗保",
+        "onboard_time": 1713348918,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 123110,
+        "num": 115636,
+        "word": "酱园弄",
+        "onboard_time": 1713353779,
+        "rank": 42,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 115495,
+        "num": 115495,
+        "word": "魈 美梦",
+        "onboard_time": 1713354977,
+        "rank": 43,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 114858,
+        "num": 114858,
+        "word": "30岁了还在应聘基础岗位",
+        "onboard_time": 1713342738,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 114027,
+        "num": 114027,
+        "word": "原来大学老师才是真正的顶流",
+        "onboard_time": 1713348798,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 108802,
+        "num": 108802,
+        "word": "月薪5万夫妻裸辞义乌创业日入200",
+        "onboard_time": 1713323177,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 106692,
+        "num": 106692,
+        "word": "拥有高皮质醇的迹象",
+        "onboard_time": 1713356539,
+        "rank": 47,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 100521,
+        "num": 100521,
+        "word": "12306 票呢",
+        "onboard_time": 1713335358,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 95627,
+        "num": 95627,
+        "word": "我说话难听我先走了",
+        "onboard_time": 1713354919,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#和平解决乌克兰危机要把握四要四不要#"
+    }
+  }
+}
