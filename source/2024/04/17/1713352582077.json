@@ -1,0 +1,410 @@
+{
+  "runTime": 1713352582077,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1534756,
+        "num": 1534756,
+        "word": "苗苗 救场",
+        "onboard_time": 1713351138,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1136932,
+        "num": 1136932,
+        "word": "东部战区",
+        "onboard_time": 1713349758,
+        "rank": 1,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 65940,
+        "num": 671979,
+        "word": "消博会上掀起了一股国潮风",
+        "onboard_time": 1713345198,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 656872,
+        "num": 656872,
+        "word": "易梦玲鼻子",
+        "onboard_time": 1713349218,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 619935,
+        "num": 619935,
+        "word": "福宝开始探索外场区域",
+        "onboard_time": 1713347598,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 589736,
+        "num": 589736,
+        "word": "氯雷他定",
+        "onboard_time": 1713327258,
+        "rank": 5,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 466598,
+        "num": 466598,
+        "word": "如懿传 李纯",
+        "onboard_time": 1713340158,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 397902,
+        "num": 397902,
+        "word": "张元英歌手 信的人感觉会被骗保",
+        "onboard_time": 1713348918,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 177152,
+        "num": 357136,
+        "word": "全红婵陈芋汐十米台再现神同步",
+        "onboard_time": 1713340039,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 184094,
+        "num": 355572,
+        "word": "中国港珠澳大桥总工程师苏权科",
+        "onboard_time": 1713343097,
+        "rank": 9,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 2122678,
+        "num": 355126,
+        "word": "蔡徐坤 发福",
+        "onboard_time": 1713345258,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 354237,
+        "num": 354237,
+        "word": "黄子韬把朱梓骁认成金莎男朋友",
+        "onboard_time": 1713351319,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 335412,
+        "num": 335412,
+        "word": "林彦俊 哑巴前夫有话说",
+        "onboard_time": 1713345438,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 325650,
+        "num": 325650,
+        "word": "青春环游记第5季录制嘉宾",
+        "onboard_time": 1713351439,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 323054,
+        "num": 323054,
+        "word": "12306积分首次使用必须满1万",
+        "onboard_time": 1713341838,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 299056,
+        "num": 299056,
+        "word": "排卵期储水",
+        "onboard_time": 1713331039,
+        "rank": 15,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 296530,
+        "num": 296530,
+        "word": "奔跑吧直播 还不开始",
+        "onboard_time": 1713350239,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 275472,
+        "num": 275472,
+        "word": "金智媛金秀贤能不能结婚",
+        "onboard_time": 1713347659,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 246858,
+        "num": 246858,
+        "word": "女生带病出操去世的三大争议",
+        "onboard_time": 1713351738,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 215016,
+        "num": 215016,
+        "word": "教育局回应河北一小学生身亡",
+        "onboard_time": 1713345799,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 332879,
+        "num": 213718,
+        "word": "怀孕三个月发现男友隐瞒婚史",
+        "onboard_time": 1713335119,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 316759,
+        "num": 213389,
+        "word": "酱园弄 谢娜",
+        "onboard_time": 1713332720,
+        "rank": 21,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 299854,
+        "num": 211187,
+        "word": "36岁女子存300万后提前退休",
+        "onboard_time": 1713340459,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 263799,
+        "num": 209748,
+        "word": "接个私活像出轨一样",
+        "onboard_time": 1713351619,
+        "rank": 23,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 219567,
+        "num": 208911,
+        "word": "原来大学老师才是真正的顶流",
+        "onboard_time": 1713348798,
+        "rank": 24,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 256701,
+        "num": 207648,
+        "word": "朱丹因怀二胎才送女儿去幼儿园",
+        "onboard_time": 1713351918,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 246782,
+        "num": 206040,
+        "word": "臣妾百口莫辩",
+        "onboard_time": 1713346638,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 205661,
+        "num": 205661,
+        "word": "奔跑吧直播",
+        "onboard_time": 1713352219,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 196758,
+        "num": 196758,
+        "word": "月薪5万夫妻裸辞义乌创业日入200",
+        "onboard_time": 1713323177,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 56104,
+        "num": 192586,
+        "word": "中德汽车技术合作升级",
+        "onboard_time": 1713351797,
+        "rank": 29,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 428113,
+        "num": 191453,
+        "word": "周迅 B站",
+        "onboard_time": 1713337157,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 189501,
+        "num": 189501,
+        "word": "惜花芷口碑逆跌",
+        "onboard_time": 1713344838,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 182833,
+        "num": 182833,
+        "word": "什么时候可以禁止微信办公",
+        "onboard_time": 1713348618,
+        "rank": 32,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 181386,
+        "num": 181386,
+        "word": "12306 票呢",
+        "onboard_time": 1713335358,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 149779,
+        "num": 149779,
+        "word": "酱园弄全阵容官宣",
+        "onboard_time": 1713331398,
+        "rank": 34,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 148636,
+        "num": 148636,
+        "word": "于和伟大大方方媚粉",
+        "onboard_time": 1713347719,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 146650,
+        "num": 146650,
+        "word": "迪拜天空一秒变绿",
+        "onboard_time": 1713346938,
+        "rank": 36,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 140252,
+        "num": 140252,
+        "word": "30岁了还在应聘基础岗位",
+        "onboard_time": 1713342738,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 138726,
+        "num": 138726,
+        "word": "阚清子新中式",
+        "onboard_time": 1713345016,
+        "rank": 38,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 134613,
+        "num": 134613,
+        "word": "王楚钦豪华无人机应援",
+        "onboard_time": 1713350598,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 133515,
+        "num": 133515,
+        "word": "林更新第一天肤色正常",
+        "onboard_time": 1713352158,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 133504,
+        "num": 133504,
+        "word": "哈尔滨一九四四爆破戏幕后",
+        "onboard_time": 1713349938,
+        "rank": 41,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 130805,
+        "num": 130805,
+        "word": "谢娜赵丽颖首次合作",
+        "onboard_time": 1713338178,
+        "rank": 42,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 127779,
+        "num": 127779,
+        "word": "庆余年第二季 5月播",
+        "onboard_time": 1713352520,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 120320,
+        "num": 120320,
+        "word": "TFBOYS宣传酱园弄",
+        "onboard_time": 1713337519,
+        "rank": 44,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 119689,
+        "num": 119689,
+        "word": "林诗栋晋级世界杯16强",
+        "onboard_time": 1713351619,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 105245,
+        "num": 105245,
+        "word": "燃气公司回应换表后新增1.7万欠费",
+        "onboard_time": 1713347839,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 101407,
+        "num": 101407,
+        "word": "国铁集团回应五一有车次开售即秒光",
+        "onboard_time": 1713349520,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 100973,
+        "num": 100973,
+        "word": "佛祖显0",
+        "onboard_time": 1713332537,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 90553,
+        "num": 100936,
+        "word": "海尔直播",
+        "onboard_time": 1713351497,
+        "rank": 49,
+        "category": "互联网,艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#和平解决乌克兰危机要把握四要四不要#"
+    }
+  }
+}
