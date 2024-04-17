@@ -1,6 +1,6 @@
 {
   "startTime": 1711902044401,
-  "endTime": 1713324967224,
+  "endTime": 1713327715325,
   "band_list": [
     {
       "raw_hot": 16874674,
@@ -705,6 +705,14 @@
       "onboard_time": 1712656038,
       "rank": 0,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1887965,
+      "num": 1887965,
+      "word": "月薪5万夫妻裸辞义乌创业日入200",
+      "onboard_time": 1713323177,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1883112,
@@ -1627,14 +1635,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1426273,
-      "num": 1426273,
-      "word": "月薪5万夫妻裸辞义乌创业日入200",
-      "onboard_time": 1713323177,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1415504,
       "num": 296499,
       "word": "午睡超1小时死亡风险增加30%",
@@ -2057,6 +2057,14 @@
       "onboard_time": 1712195299,
       "rank": 4,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1288022,
+      "num": 1288022,
+      "word": "奈何BOSS要娶我",
+      "onboard_time": 1713323598,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 1287381,
@@ -3923,6 +3931,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 933244,
+      "num": 933244,
+      "word": "每天4杯咖啡癌症复发和死亡风险降低32%",
+      "onboard_time": 1713319458,
+      "rank": 20,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 931053,
       "num": 931053,
       "word": "黄金再次爆发",
@@ -4177,14 +4193,6 @@
       "onboard_time": 1712495479,
       "rank": 5,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 899357,
-      "num": 284792,
-      "word": "每天4杯咖啡癌症复发和死亡风险降低32%",
-      "onboard_time": 1713319458,
-      "rank": 20,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 899267,
@@ -4675,6 +4683,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 837052,
+      "num": 837052,
+      "word": "我的离职申请只有一句话",
+      "onboard_time": 1713325039,
+      "rank": 4,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 836350,
       "num": 836350,
       "word": "悉尼一购物中心持刀行凶事件已致6人死亡",
@@ -5033,14 +5049,6 @@
       "onboard_time": 1712940855,
       "rank": 13,
       "category": "网红"
-    },
-    {
-      "raw_hot": 805286,
-      "num": 805286,
-      "word": "奈何BOSS要娶我",
-      "onboard_time": 1713323598,
-      "rank": 28,
-      "category": "剧集"
     },
     {
       "raw_hot": 805284,
@@ -6235,6 +6243,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 713553,
+      "num": 713553,
+      "word": "郑恺三岁去全托幼儿园",
+      "onboard_time": 1713324800,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 713418,
       "num": 713418,
       "word": "黄金又暴涨中国资产飙升",
@@ -7236,7 +7252,7 @@
     },
     {
       "raw_hot": 646621,
-      "num": 271937,
+      "num": 276876,
       "word": "中医建议我把水果戒了",
       "onboard_time": 1713314058,
       "rank": 20,
@@ -7321,6 +7337,14 @@
       "onboard_time": 1713277700,
       "rank": 39,
       "category": "情感"
+    },
+    {
+      "raw_hot": 639964,
+      "num": 639964,
+      "word": "辛辛苦苦从100斤减到110斤",
+      "onboard_time": 1713325878,
+      "rank": 7,
+      "category": "运动健身"
     },
     {
       "raw_hot": 639712,
@@ -8497,6 +8521,14 @@
       "onboard_time": 1712113101,
       "rank": 15,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 579942,
+      "num": 579942,
+      "word": "1399元演唱会门票退票只剩280元",
+      "onboard_time": 1713325159,
+      "rank": 11,
+      "category": "演出"
     },
     {
       "raw_hot": 579624,
@@ -13459,6 +13491,14 @@
       "category": "健康医疗,科学科普"
     },
     {
+      "raw_hot": 405134,
+      "num": 405134,
+      "word": "肖战羽绒服",
+      "onboard_time": 1713325578,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 405033,
       "num": 405033,
       "word": "刘宇宁跟粉丝道歉",
@@ -13475,8 +13515,8 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 404541,
-      "num": 404541,
+      "raw_hot": 404906,
+      "num": 404906,
       "word": "12306回应五一抢票难度堪比春运",
       "onboard_time": 1713324137,
       "rank": 12,
@@ -13609,6 +13649,14 @@
       "onboard_time": 1712476399,
       "rank": 22,
       "category": "情感"
+    },
+    {
+      "raw_hot": 399105,
+      "num": 399105,
+      "word": "陶昕然发千字长文",
+      "onboard_time": 1713326718,
+      "rank": 14,
+      "category": "综艺"
     },
     {
       "raw_hot": 398843,
@@ -16467,6 +16515,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 327730,
+      "num": 280579,
+      "word": "同事房租2800还找我借钱",
+      "onboard_time": 1713324919,
+      "rank": 49,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 327534,
       "num": 327534,
       "word": "服了你们滚人",
@@ -18779,6 +18835,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 286927,
+      "num": 286927,
+      "word": "氯雷他定",
+      "onboard_time": 1713327258,
+      "rank": 18,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 286896,
       "num": 286896,
       "word": "汉堡王卖不好9.9套餐",
@@ -19193,6 +19257,14 @@
       "onboard_time": 1712124021,
       "rank": 31,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 280476,
+      "num": 280476,
+      "word": "勇士vs国王",
+      "onboard_time": 1713323419,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 280201,
@@ -22051,6 +22123,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 242629,
+      "num": 242629,
+      "word": "朝雪录阵容官宣",
+      "onboard_time": 1713326179,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 242621,
       "num": 242621,
       "word": "喻言音乐节",
@@ -22592,6 +22672,14 @@
       "word": "李泰容cover想见你",
       "onboard_time": 1713001817,
       "rank": 27,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 237036,
+      "num": 237036,
+      "word": "苏打绿全员cos徐冬冬",
+      "onboard_time": 1713322937,
+      "rank": 37,
       "category": "演出"
     },
     {
@@ -23651,6 +23739,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 225775,
+      "num": 225775,
+      "word": "什么是上班20分钟定律",
+      "onboard_time": 1713324258,
+      "rank": 36,
+      "category": "情感"
+    },
+    {
       "raw_hot": 225719,
       "num": 225719,
       "word": "考公考编和考研怎么选",
@@ -23857,6 +23953,14 @@
       "onboard_time": 1712635339,
       "rank": 34,
       "category": "体育"
+    },
+    {
+      "raw_hot": 223970,
+      "num": 280673,
+      "word": "肖战水蓝科技感大片",
+      "onboard_time": 1713325159,
+      "rank": 20,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 223964,
@@ -29843,6 +29947,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 187552,
+      "num": 187552,
+      "word": "候补也是秒灰",
+      "onboard_time": 1713326419,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 187542,
       "num": 187542,
       "word": "咸蛋家",
@@ -31219,14 +31331,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 180164,
-      "num": 180164,
-      "word": "什么是上班20分钟定律",
-      "onboard_time": 1713324258,
-      "rank": 36,
-      "category": "情感"
-    },
-    {
       "raw_hot": 180073,
       "num": 223969,
       "word": "人人都是志愿者",
@@ -31265,14 +31369,6 @@
       "onboard_time": 1712881519,
       "rank": 40,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 179728,
-      "num": 179728,
-      "word": "苏打绿全员cos徐冬冬",
-      "onboard_time": 1713322937,
-      "rank": 37,
-      "category": "演出"
     },
     {
       "raw_hot": 179720,
@@ -31977,6 +32073,14 @@
       "onboard_time": 1712053280,
       "rank": 30,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 175224,
+      "num": 175224,
+      "word": "六公主认证惜花芷反套路不矫情",
+      "onboard_time": 1713325098,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 175163,
@@ -34363,14 +34467,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 160378,
-      "num": 160378,
-      "word": "郑恺三岁去全托幼儿园",
-      "onboard_time": 1713324800,
-      "rank": 39,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 160348,
       "num": 160348,
       "word": "小金毛一怒之下怒了一下",
@@ -36211,6 +36307,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 151010,
+      "num": 151010,
+      "word": "神十八载人飞船4月发射",
+      "onboard_time": 1713326599,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 150923,
       "num": 141969,
       "word": "承欢记片尾曲MV",
@@ -36497,6 +36601,14 @@
       "onboard_time": 1713194420,
       "rank": 44,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 149294,
+      "num": 149294,
+      "word": "王艺迪晋级世界杯16强",
+      "onboard_time": 1713326058,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 149280,
@@ -37537,14 +37649,6 @@
       "onboard_time": 1712745320,
       "rank": 48,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 144049,
-      "num": 144049,
-      "word": "勇士vs国王",
-      "onboard_time": 1713323419,
-      "rank": 40,
-      "category": "体育"
     },
     {
       "raw_hot": 143981,
@@ -41307,14 +41411,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 119639,
-      "num": 119639,
-      "word": "同事房租2800还找我借钱",
-      "onboard_time": 1713324919,
-      "rank": 49,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 119614,
       "num": 119614,
       "word": "春天常按这几个穴位能长高",
@@ -41849,6 +41945,14 @@
       "onboard_time": 1711968739,
       "rank": 25,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 114963,
+      "num": 114963,
+      "word": "霍建华张雪迎新剧什么关系",
+      "onboard_time": 1713327680,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 114961,
@@ -45315,6 +45419,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 41753,
+      "num": 290143,
+      "word": "全国球迷为中国女篮加油",
+      "onboard_time": 1713326599,
+      "rank": 17,
+      "category": "体育"
+    },
+    {
       "raw_hot": 41101,
       "num": 156454,
       "word": "三月三拜轩辕",
@@ -45913,6 +46025,14 @@
       "onboard_time": 1713142940,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 26557,
+      "num": 1022447,
+      "word": "3个维度读懂中国经济首季报",
+      "onboard_time": 1713327200,
+      "rank": 2,
+      "category": "财经"
     },
     {
       "raw_hot": 26542,
