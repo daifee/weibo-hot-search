@@ -1,6 +1,6 @@
 {
   "startTime": 1711902044401,
-  "endTime": 1713386073123,
+  "endTime": 1713388658811,
   "band_list": [
     {
       "raw_hot": 16874674,
@@ -46611,6 +46611,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 63520,
+      "num": 63520,
+      "word": "台偶女主现在在拍什么",
+      "onboard_time": 1713385150,
+      "rank": 5,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 62840,
       "num": 62840,
       "word": "清明档首日票房破3亿",
@@ -47283,6 +47291,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 45570,
+      "num": 45570,
+      "word": "重庆燃气",
+      "onboard_time": 1713383770,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 44932,
       "num": 44932,
       "word": "霉霉新专辑",
@@ -47321,14 +47337,6 @@
       "onboard_time": 1713285136,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 44511,
-      "num": 44511,
-      "word": "台偶女主现在在拍什么",
-      "onboard_time": 1713385150,
-      "rank": 5,
-      "category": "剧集"
     },
     {
       "raw_hot": 44491,
@@ -48195,6 +48203,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 24137,
+      "num": 42824,
+      "word": "婴儿独自爬出客厅猫咪警觉守护",
+      "onboard_time": 1713382450,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 24117,
       "num": 424684,
       "word": "上海展览推荐",
@@ -48291,14 +48307,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 22717,
-      "num": 22717,
-      "word": "婴儿独自爬出客厅猫咪警觉守护",
-      "onboard_time": 1713382450,
-      "rank": 25,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 22469,
       "num": 22469,
       "word": "金像奖 黄子华",
@@ -48387,14 +48395,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 21262,
-      "num": 21262,
-      "word": "重庆燃气",
-      "onboard_time": 1713383770,
-      "rank": 37,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 21149,
       "num": 28115,
       "word": "小狗表达歉意的方式",
@@ -48409,6 +48409,14 @@
       "onboard_time": 1712918297,
       "rank": 29,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 20891,
+      "num": 20891,
+      "word": "肖战蓝白look",
+      "onboard_time": 1713385030,
+      "rank": 49,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 20703,
@@ -48465,6 +48473,14 @@
       "onboard_time": 1713071179,
       "rank": 37,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 19977,
+      "num": 19977,
+      "word": "欧冠海报",
+      "onboard_time": 1713381012,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 19976,
@@ -48603,20 +48619,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 16368,
-      "num": 18699,
-      "word": "欧冠海报",
-      "onboard_time": 1713381012,
-      "rank": 48,
-      "category": "体育"
-    },
-    {
       "raw_hot": 16244,
       "num": 23531,
       "word": "好像明白为啥鸟类多是侧面照了",
       "onboard_time": 1712429891,
       "rank": 47,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 16037,
+      "num": 16037,
+      "word": "情侣相伴4年一同从专科生逆袭研究生",
+      "onboard_time": 1713388271,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 15726,
@@ -48635,20 +48651,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 15547,
+      "num": 15547,
+      "word": "江西浮梁知名茶企老板一家三口遇害",
+      "onboard_time": 1713388510,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 15059,
       "num": 18240,
       "word": "张雨霏要做世界的蝶后",
       "onboard_time": 1712603651,
       "rank": 49,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 15002,
-      "num": 16457,
-      "word": "肖战蓝白look",
-      "onboard_time": 1713385030,
-      "rank": 49,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 14753,
@@ -48681,6 +48697,14 @@
       "onboard_time": 1712261771,
       "rank": 49,
       "category": "军事,社会新闻"
+    },
+    {
+      "raw_hot": 13909,
+      "num": 15319,
+      "word": "姚志明哭到胡子都长出来了",
+      "onboard_time": 1713387612,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 13822,
