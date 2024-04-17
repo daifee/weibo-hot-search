@@ -1,6 +1,6 @@
 {
   "startTime": 1713025251708,
-  "endTime": 1713378856994,
+  "endTime": 1713381141183,
   "band_list": [
     {
       "raw_hot": 3410457,
@@ -9795,6 +9795,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 132102,
+      "num": 132102,
+      "word": "论文查重",
+      "onboard_time": 1713377290,
+      "rank": 35,
+      "category": "教育"
+    },
+    {
       "raw_hot": 131934,
       "num": 131934,
       "word": "陈泽KnowKnow合作",
@@ -11371,14 +11379,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 48027,
-      "num": 48027,
-      "word": "论文查重",
-      "onboard_time": 1713377290,
-      "rank": 35,
-      "category": "教育"
-    },
-    {
       "raw_hot": 47340,
       "num": 440762,
       "word": "易烊千玺九号微电影",
@@ -11699,6 +11699,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 21461,
+      "num": 21461,
+      "word": "眼镜哥",
+      "onboard_time": 1713379810,
+      "rank": 37,
+      "category": "演出"
+    },
+    {
       "raw_hot": 20632,
       "num": 20632,
       "word": "射手当joker也是三分钟热度",
@@ -11752,6 +11760,14 @@
       "word": "97岁国乒球迷奶奶最爱孙颖莎",
       "onboard_time": 1713288734,
       "rank": 49,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 16368,
+      "num": 18699,
+      "word": "欧冠海报",
+      "onboard_time": 1713381012,
+      "rank": 48,
       "category": "体育"
     },
     {

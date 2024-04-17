@@ -1,6 +1,6 @@
 {
   "startTime": 1711902044401,
-  "endTime": 1713378856994,
+  "endTime": 1713381141183,
   "band_list": [
     {
       "raw_hot": 16874674,
@@ -41387,6 +41387,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 132102,
+      "num": 132102,
+      "word": "论文查重",
+      "onboard_time": 1713377290,
+      "rank": 35,
+      "category": "教育"
+    },
+    {
       "raw_hot": 132092,
       "num": 132092,
       "word": "肖战饭制版日常vlog",
@@ -47163,14 +47171,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 48027,
-      "num": 48027,
-      "word": "论文查重",
-      "onboard_time": 1713377290,
-      "rank": 35,
-      "category": "教育"
-    },
-    {
       "raw_hot": 48006,
       "num": 48006,
       "word": "站姐撞图",
@@ -48363,6 +48363,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 21461,
+      "num": 21461,
+      "word": "眼镜哥",
+      "onboard_time": 1713379810,
+      "rank": 37,
+      "category": "演出"
+    },
+    {
       "raw_hot": 21149,
       "num": 28115,
       "word": "小狗表达歉意的方式",
@@ -48569,6 +48577,14 @@
       "onboard_time": 1712348411,
       "rank": 48,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 16368,
+      "num": 18699,
+      "word": "欧冠海报",
+      "onboard_time": 1713381012,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 16244,

@@ -1,6 +1,6 @@
 {
   "startTime": 1713371026530,
-  "endTime": 1713378856994,
+  "endTime": 1713381141183,
   "band_list": [
     {
       "raw_hot": 777044,
@@ -243,6 +243,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 132102,
+      "num": 132102,
+      "word": "论文查重",
+      "onboard_time": 1713377290,
+      "rank": 35,
+      "category": "教育"
+    },
+    {
       "raw_hot": 128764,
       "num": 128764,
       "word": "杨紫高定黑礼裙",
@@ -403,20 +411,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 69228,
+      "num": 71134,
+      "word": "曼城vs皇马",
+      "onboard_time": 1713363560,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
       "raw_hot": 66497,
       "num": 87360,
       "word": "一动不动老板主动为我降了3块钱",
       "onboard_time": 1713368298,
       "rank": 49,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 63465,
-      "num": 71134,
-      "word": "曼城vs皇马",
-      "onboard_time": 1713363560,
-      "rank": 28,
-      "category": "体育"
     },
     {
       "raw_hot": 63157,
@@ -451,19 +459,27 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 48027,
-      "num": 48027,
-      "word": "论文查重",
-      "onboard_time": 1713377290,
-      "rank": 35,
-      "category": "教育"
-    },
-    {
-      "raw_hot": 25792,
-      "num": 28550,
+      "raw_hot": 36105,
+      "num": 36105,
       "word": "欧冠",
       "onboard_time": 1713364159,
       "rank": 41,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 21461,
+      "num": 21461,
+      "word": "眼镜哥",
+      "onboard_time": 1713379810,
+      "rank": 37,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 16368,
+      "num": 18699,
+      "word": "欧冠海报",
+      "onboard_time": 1713381012,
+      "rank": 48,
       "category": "体育"
     },
     {
