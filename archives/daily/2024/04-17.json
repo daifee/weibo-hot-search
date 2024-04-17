@@ -1,6 +1,6 @@
 {
   "startTime": 1713284571046,
-  "endTime": 1713357159543,
+  "endTime": 1713358057777,
   "band_list": [
     {
       "raw_hot": 3167017,
@@ -35,6 +35,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2147960,
+      "num": 2147960,
+      "word": "飞飞一杯酒去世",
+      "onboard_time": 1713352879,
+      "rank": 6,
+      "category": "网红"
+    },
+    {
       "raw_hot": 1943927,
       "num": 1943927,
       "word": "吉林宁江区3.9级地震",
@@ -65,14 +73,6 @@
       "onboard_time": 1713312979,
       "rank": 0,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1709771,
-      "num": 1709771,
-      "word": "飞飞一杯酒去世",
-      "onboard_time": 1713352879,
-      "rank": 6,
-      "category": "网红"
     },
     {
       "raw_hot": 1583328,
@@ -163,6 +163,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1043352,
+      "num": 1043352,
+      "word": "食物语停运",
+      "onboard_time": 1713356420,
+      "rank": 3,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 1026669,
       "num": 1026669,
       "word": "辛辛苦苦从100斤减到110斤",
@@ -225,14 +233,6 @@
       "onboard_time": 1713276800,
       "rank": 0,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 836247,
-      "num": 836247,
-      "word": "食物语停运",
-      "onboard_time": 1713356420,
-      "rank": 3,
-      "category": "游戏"
     },
     {
       "raw_hot": 836053,
@@ -315,6 +315,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 725833,
+      "num": 725833,
+      "word": "小林制药导致住院增至235人",
+      "onboard_time": 1713355759,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 691935,
       "num": 691935,
       "word": "抱娃开车1岁娃成了妈妈的气囊",
@@ -336,14 +344,6 @@
       "word": "当地警方回应高校女生带病出操死亡",
       "onboard_time": 1713341897,
       "rank": 29,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 670415,
-      "num": 670415,
-      "word": "小林制药导致住院增至235人",
-      "onboard_time": 1713355759,
-      "rank": 6,
       "category": "社会新闻"
     },
     {
@@ -459,20 +459,20 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 556541,
+      "num": 556541,
+      "word": "燃气公司称换表后费用上涨或许是错觉",
+      "onboard_time": 1713355939,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 554587,
       "num": 554587,
       "word": "解放军在中缅边境我方一侧举行演习",
       "onboard_time": 1713315797,
       "rank": 28,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 554082,
-      "num": 554082,
-      "word": "燃气公司称换表后费用上涨或许是错觉",
-      "onboard_time": 1713355939,
-      "rank": 7,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 544624,
@@ -516,7 +516,7 @@
     },
     {
       "raw_hot": 523187,
-      "num": 438711,
+      "num": 457259,
       "word": "朱丹因怀二胎才送女儿去幼儿园",
       "onboard_time": 1713351918,
       "rank": 25,
@@ -585,6 +585,14 @@
       "onboard_time": 1713274098,
       "rank": 15,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 494513,
+      "num": 494513,
+      "word": "Jennie辛芷蕾撞衫",
+      "onboard_time": 1713354498,
+      "rank": 12,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 491579,
@@ -673,14 +681,6 @@
       "onboard_time": 1713267978,
       "rank": 20,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 448045,
-      "num": 448045,
-      "word": "Jennie辛芷蕾撞衫",
-      "onboard_time": 1713354498,
-      "rank": 12,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 446976,
@@ -883,6 +883,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 372448,
+      "num": 372448,
+      "word": "歌手 营销",
+      "onboard_time": 1713355459,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 367182,
       "num": 367182,
       "word": "电影三叉戟定档",
@@ -932,7 +940,7 @@
     },
     {
       "raw_hot": 355500,
-      "num": 184412,
+      "num": 260794,
       "word": "体外受精的过程",
       "onboard_time": 1713354738,
       "rank": 21,
@@ -1035,28 +1043,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 321671,
+      "num": 321671,
+      "word": "胡锡进今天回血近13000元",
+      "onboard_time": 1713353658,
+      "rank": 49,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 316061,
+      "num": 316061,
+      "word": "樊振东vs黄镇廷",
+      "onboard_time": 1713357439,
+      "rank": 16,
+      "category": "体育"
+    },
+    {
       "raw_hot": 304763,
       "num": 608811,
       "word": "美军机过航台湾海峡并公开炒作",
       "onboard_time": 1713339678,
       "rank": 7,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 302745,
-      "num": 302745,
-      "word": "歌手 营销",
-      "onboard_time": 1713355459,
-      "rank": 16,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 300589,
-      "num": 300589,
-      "word": "胡锡进今天回血近13000元",
-      "onboard_time": 1713353658,
-      "rank": 49,
-      "category": "财经"
     },
     {
       "raw_hot": 300146,
@@ -1153,6 +1161,14 @@
       "onboard_time": 1713283338,
       "rank": 25,
       "category": "演出"
+    },
+    {
+      "raw_hot": 266395,
+      "num": 266395,
+      "word": "福宝躺着吃笋满身竹笋皮",
+      "onboard_time": 1713354379,
+      "rank": 25,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 265644,
@@ -1361,14 +1377,6 @@
       "onboard_time": 1713324558,
       "rank": 28,
       "category": "演出"
-    },
-    {
-      "raw_hot": 227851,
-      "num": 183056,
-      "word": "福宝躺着吃笋满身竹笋皮",
-      "onboard_time": 1713354379,
-      "rank": 25,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 226857,
@@ -1691,6 +1699,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 192777,
+      "num": 192777,
+      "word": "米卡拿到了中国驾照",
+      "onboard_time": 1713356118,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 192090,
       "num": 193704,
       "word": "候补也是秒灰",
@@ -1705,6 +1721,14 @@
       "onboard_time": 1713334638,
       "rank": 34,
       "category": "电影"
+    },
+    {
+      "raw_hot": 191298,
+      "num": 191298,
+      "word": "台剧 40岁女性",
+      "onboard_time": 1713356298,
+      "rank": 32,
+      "category": "剧集"
     },
     {
       "raw_hot": 189740,
@@ -2059,6 +2083,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 152157,
+      "num": 133195,
+      "word": "张颂文进组",
+      "onboard_time": 1713357199,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 151207,
       "num": 151207,
       "word": "巴黎奥运倒计时100天",
@@ -2075,11 +2107,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 150442,
-      "num": 150442,
-      "word": "台剧 40岁女性",
-      "onboard_time": 1713356298,
-      "rank": 32,
+      "raw_hot": 150511,
+      "num": 129911,
+      "word": "惜花芷看哭了",
+      "onboard_time": 1713357739,
+      "rank": 36,
       "category": "剧集"
     },
     {
@@ -2105,6 +2137,14 @@
       "onboard_time": 1713297612,
       "rank": 21,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 148987,
+      "num": 148987,
+      "word": "外交部回应美欧称中国存在产能过剩",
+      "onboard_time": 1713353478,
+      "rank": 46,
+      "category": "国内时政"
     },
     {
       "raw_hot": 148891,
@@ -2211,28 +2251,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 142795,
-      "num": 142795,
-      "word": "外交部回应美欧称中国存在产能过剩",
-      "onboard_time": 1713353478,
-      "rank": 46,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 142421,
       "num": 142421,
       "word": "明明在广州却像出国了",
       "onboard_time": 1713323719,
       "rank": 45,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 141413,
-      "num": 141413,
-      "word": "米卡拿到了中国驾照",
-      "onboard_time": 1713356118,
-      "rank": 37,
-      "category": "艺人"
     },
     {
       "raw_hot": 141277,
@@ -2281,6 +2305,14 @@
       "onboard_time": 1713345438,
       "rank": 38,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 135317,
+      "num": 135317,
+      "word": "当讨好型人格钓鱼时遇见了猫",
+      "onboard_time": 1713354318,
+      "rank": 38,
+      "category": "幽默"
     },
     {
       "raw_hot": 134613,
@@ -2371,12 +2403,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 125223,
-      "num": 125223,
-      "word": "当讨好型人格钓鱼时遇见了猫",
-      "onboard_time": 1713354318,
-      "rank": 38,
-      "category": "幽默"
+      "raw_hot": 124341,
+      "num": 124341,
+      "word": "魈 美梦",
+      "onboard_time": 1713354977,
+      "rank": 43,
+      "category": "游戏"
     },
     {
       "raw_hot": 124244,
@@ -2401,6 +2433,14 @@
       "onboard_time": 1713312077,
       "rank": 40,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 122334,
+      "num": 122334,
+      "word": "福宝隔离检疫日记",
+      "onboard_time": 1713357619,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 122009,
@@ -2459,20 +2499,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 115495,
-      "num": 115495,
-      "word": "魈 美梦",
-      "onboard_time": 1713354977,
-      "rank": 43,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 114927,
       "num": 416292,
       "word": "神秘东方力量惊现巴黎夜空",
       "onboard_time": 1713320478,
       "rank": 40,
       "category": "体育"
+    },
+    {
+      "raw_hot": 114756,
+      "num": 114756,
+      "word": "第一次见舞台上放生虫子的",
+      "onboard_time": 1713358039,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 114229,
@@ -2555,6 +2595,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 105859,
+      "num": 105859,
+      "word": "黑神话悟空 海信",
+      "onboard_time": 1713357921,
+      "rank": 48,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 105621,
       "num": 356840,
       "word": "什么叫citywork",
@@ -2569,6 +2617,14 @@
       "onboard_time": 1713317477,
       "rank": 49,
       "category": "财经"
+    },
+    {
+      "raw_hot": 105035,
+      "num": 105035,
+      "word": "睡前喝牛奶真能助眠吗",
+      "onboard_time": 1713357921,
+      "rank": 49,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 104618,
@@ -3002,6 +3058,9 @@
     },
     {
       "word": "#要为局势降温不要拱火浇油#"
+    },
+    {
+      "word": "#中德两国应相向而行互利共赢#"
     }
   ]
 }
