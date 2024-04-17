@@ -1,6 +1,6 @@
 {
   "startTime": 1713371026530,
-  "endTime": 1713388658811,
+  "endTime": 1713389670683,
   "band_list": [
     {
       "raw_hot": 777044,
@@ -427,6 +427,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 65876,
+      "num": 65876,
+      "word": "台偶女主现在在拍什么",
+      "onboard_time": 1713385150,
+      "rank": 5,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 65020,
       "num": 65020,
       "word": "欧冠",
@@ -435,20 +443,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 63520,
-      "num": 63520,
-      "word": "台偶女主现在在拍什么",
-      "onboard_time": 1713385150,
-      "rank": 5,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 63157,
       "num": 63157,
       "word": "真是眼前一亮又一亮又一亮",
       "onboard_time": 1713364341,
       "rank": 46,
       "category": "情感"
+    },
+    {
+      "raw_hot": 59284,
+      "num": 59284,
+      "word": "重庆燃气",
+      "onboard_time": 1713383770,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 56965,
@@ -475,11 +483,19 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 45570,
-      "num": 45570,
-      "word": "重庆燃气",
-      "onboard_time": 1713383770,
-      "rank": 37,
+      "raw_hot": 36055,
+      "num": 48680,
+      "word": "婴儿独自爬出客厅猫咪警觉守护",
+      "onboard_time": 1713382450,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 28065,
+      "num": 28065,
+      "word": "情侣相伴4年一同从专科生逆袭研究生",
+      "onboard_time": 1713388271,
+      "rank": 39,
       "category": "社会新闻"
     },
     {
@@ -491,20 +507,20 @@
       "category": "演出"
     },
     {
-      "raw_hot": 24137,
-      "num": 42824,
-      "word": "婴儿独自爬出客厅猫咪警觉守护",
-      "onboard_time": 1713382450,
-      "rank": 25,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 20891,
-      "num": 20891,
+      "raw_hot": 24009,
+      "num": 24009,
       "word": "肖战蓝白look",
       "onboard_time": 1713385030,
       "rank": 49,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 20644,
+      "num": 20644,
+      "word": "江西浮梁知名茶企老板一家三口遇害",
+      "onboard_time": 1713388510,
+      "rank": 42,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 19977,
@@ -515,28 +531,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 16037,
-      "num": 16037,
-      "word": "情侣相伴4年一同从专科生逆袭研究生",
-      "onboard_time": 1713388271,
-      "rank": 39,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 15547,
-      "num": 15547,
-      "word": "江西浮梁知名茶企老板一家三口遇害",
-      "onboard_time": 1713388510,
-      "rank": 42,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 13909,
-      "num": 15319,
+      "raw_hot": 16836,
+      "num": 17720,
       "word": "姚志明哭到胡子都长出来了",
       "onboard_time": 1713387612,
       "rank": 47,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 14183,
+      "num": 17651,
+      "word": "新脑子就是好用啊",
+      "onboard_time": 1713389290,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 13766,
