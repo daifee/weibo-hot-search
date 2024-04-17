@@ -1,6 +1,6 @@
 {
   "startTime": 1713025251708,
-  "endTime": 1713317579730,
+  "endTime": 1713320823433,
   "band_list": [
     {
       "raw_hot": 3410457,
@@ -83,6 +83,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2226470,
+      "num": 2226470,
+      "word": "我国不包括调休的公共假期是11天",
+      "onboard_time": 1713314719,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2163286,
       "num": 2163286,
       "word": "12306回应年轻人卧铺挂帘子老人没地坐",
@@ -127,14 +135,6 @@
       "num": 1850544,
       "word": "猫一杯涉事MCN或将被平台清退",
       "onboard_time": 1713066318,
-      "rank": 1,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1829997,
-      "num": 1829997,
-      "word": "我国不包括调休的公共假期是11天",
-      "onboard_time": 1713314719,
       "rank": 1,
       "category": "社会新闻"
     },
@@ -241,6 +241,14 @@
       "onboard_time": 1713077417,
       "rank": 1,
       "category": "情感"
+    },
+    {
+      "raw_hot": 1360247,
+      "num": 1360247,
+      "word": "女孩退伍224天后收到部队转账",
+      "onboard_time": 1713316399,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1352928,
@@ -643,6 +651,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 920635,
+      "num": 920635,
+      "word": "迪卡侬开始抛弃穷鬼了吗",
+      "onboard_time": 1713318257,
+      "rank": 3,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 919961,
       "num": 919961,
       "word": "看3处就知道气血足不足",
@@ -1035,6 +1051,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 741678,
+      "num": 247378,
+      "word": "每天4杯咖啡癌症复发和死亡风险降低32%",
+      "onboard_time": 1713319458,
+      "rank": 20,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 738179,
       "num": 720517,
       "word": "韩裔名厨承认借鉴老干妈辣酱",
@@ -1155,14 +1179,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 671309,
-      "num": 671309,
-      "word": "女孩退伍224天后收到部队转账",
-      "onboard_time": 1713316399,
-      "rank": 47,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 664907,
       "num": 664907,
       "word": "多家银行下架大额存单",
@@ -1196,7 +1212,7 @@
     },
     {
       "raw_hot": 646621,
-      "num": 242634,
+      "num": 242715,
       "word": "中医建议我把水果戒了",
       "onboard_time": 1713314058,
       "rank": 20,
@@ -1531,6 +1547,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 550749,
+      "num": 550749,
+      "word": "肖战代言安吉尔",
+      "onboard_time": 1713320358,
+      "rank": 5,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 549614,
       "num": 308669,
       "word": "真的建议结婚不能太着急",
@@ -1681,6 +1705,14 @@
       "onboard_time": 1713147198,
       "rank": 8,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 518121,
+      "num": 518121,
+      "word": "薛之谦曾称演唱会互动观众由摄影师选",
+      "onboard_time": 1713317598,
+      "rank": 6,
+      "category": "演出"
     },
     {
       "raw_hot": 517398,
@@ -1849,6 +1881,14 @@
       "onboard_time": 1713080237,
       "rank": 14,
       "category": "情感"
+    },
+    {
+      "raw_hot": 491579,
+      "num": 491579,
+      "word": "锡安",
+      "onboard_time": 1713320057,
+      "rank": 7,
+      "category": "体育"
     },
     {
       "raw_hot": 491253,
@@ -2036,7 +2076,7 @@
     },
     {
       "raw_hot": 458106,
-      "num": 400529,
+      "num": 427158,
       "word": "健身房偶遇王俊凯",
       "onboard_time": 1713315258,
       "rank": 16,
@@ -2064,6 +2104,14 @@
       "word": "金鹤龙发了迪丽热巴",
       "onboard_time": 1713233778,
       "rank": 23,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 455952,
+      "num": 428834,
+      "word": "白鹿看到粉丝凌晨接机的反应",
+      "onboard_time": 1713318318,
+      "rank": 10,
       "category": "艺人"
     },
     {
@@ -2353,6 +2401,14 @@
       "onboard_time": 1713077837,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 414439,
+      "num": 414439,
+      "word": "接G2 TheShy",
+      "onboard_time": 1713318737,
+      "rank": 13,
+      "category": "电竞"
     },
     {
       "raw_hot": 413153,
@@ -2841,6 +2897,14 @@
       "onboard_time": 1713078499,
       "rank": 37,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 361027,
+      "num": 241345,
+      "word": "小姑子要把我女儿头发剃光",
+      "onboard_time": 1713317598,
+      "rank": 22,
+      "category": "情感"
     },
     {
       "raw_hot": 361000,
@@ -3393,6 +3457,14 @@
       "onboard_time": 1712996656,
       "rank": 49,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 297451,
+      "num": 297451,
+      "word": "轻断食减肥真的塌房了吗",
+      "onboard_time": 1713319518,
+      "rank": 17,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 297144,
@@ -4587,6 +4659,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 220980,
+      "num": 220980,
+      "word": "西安交大一附院多名医生涉学术不端被通报",
+      "onboard_time": 1713320119,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 220727,
       "num": 199591,
       "word": "理想汽车回应车内摄像头拍不雅照",
@@ -4723,6 +4803,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 214640,
+      "num": 214640,
+      "word": "反复爱上金秀贤",
+      "onboard_time": 1713319037,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 213953,
+      "num": 213953,
+      "word": "詹姆斯重摔在地",
+      "onboard_time": 1713319578,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
       "raw_hot": 213849,
       "num": 213849,
       "word": "律师谈猫一杯MCN机构责任",
@@ -4801,6 +4897,14 @@
       "onboard_time": 1713253457,
       "rank": 29,
       "category": "情感"
+    },
+    {
+      "raw_hot": 211985,
+      "num": 211985,
+      "word": "湖人vs鹈鹕",
+      "onboard_time": 1713316098,
+      "rank": 33,
+      "category": "体育"
     },
     {
       "raw_hot": 211287,
@@ -4953,6 +5057,14 @@
       "onboard_time": 1713082040,
       "rank": 28,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 207225,
+      "num": 207225,
+      "word": "婚礼跟拍图还没修新人已经离婚了",
+      "onboard_time": 1713318918,
+      "rank": 32,
+      "category": "情感"
     },
     {
       "raw_hot": 207074,
@@ -5185,6 +5297,14 @@
       "onboard_time": 1713062898,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 199718,
+      "num": 199718,
+      "word": "长乐曲全阵容官宣",
+      "onboard_time": 1713320719,
+      "rank": 33,
+      "category": "剧集"
     },
     {
       "raw_hot": 199506,
@@ -6139,14 +6259,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 170998,
-      "num": 170998,
-      "word": "湖人vs鹈鹕",
-      "onboard_time": 1713316098,
-      "rank": 33,
-      "category": "体育"
-    },
-    {
       "raw_hot": 170962,
       "num": 170962,
       "word": "为什么年轻人都想逃离银行柜员",
@@ -6467,6 +6579,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 162248,
+      "num": 162248,
+      "word": "五一购票难度堪比春运",
+      "onboard_time": 1713320119,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 162206,
       "num": 162206,
       "word": "皮肤科医生教你正确防春敏",
@@ -6553,6 +6673,14 @@
       "onboard_time": 1713104060,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 160569,
+      "num": 160569,
+      "word": "无法骂小公司的理由",
+      "onboard_time": 1713319937,
+      "rank": 36,
+      "category": "幽默"
     },
     {
       "raw_hot": 160050,
@@ -7217,6 +7345,14 @@
       "onboard_time": 1713064457,
       "rank": 45,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 144708,
+      "num": 144708,
+      "word": "问界新M5开启预订",
+      "onboard_time": 1713319578,
+      "rank": 42,
+      "category": "汽车"
     },
     {
       "raw_hot": 144653,
@@ -8323,6 +8459,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 106614,
+      "num": 153880,
+      "word": "神秘东方力量惊现巴黎夜空",
+      "onboard_time": 1713320478,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 106524,
       "num": 106524,
       "word": "怎么判断自己是不是春敏型皮肤",
@@ -9052,7 +9196,7 @@
     },
     {
       "raw_hot": 29755,
-      "num": 885574,
+      "num": 951213,
       "word": "聚焦2024年消博会",
       "onboard_time": 1713275000,
       "rank": 2,

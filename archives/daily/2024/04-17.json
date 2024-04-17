@@ -1,7 +1,15 @@
 {
   "startTime": 1713284571046,
-  "endTime": 1713317579730,
+  "endTime": 1713320823433,
   "band_list": [
+    {
+      "raw_hot": 2226470,
+      "num": 2226470,
+      "word": "我国不包括调休的公共假期是11天",
+      "onboard_time": 1713314719,
+      "rank": 1,
+      "category": "社会新闻"
+    },
     {
       "raw_hot": 1943927,
       "num": 1943927,
@@ -11,19 +19,19 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1829997,
-      "num": 1829997,
-      "word": "我国不包括调休的公共假期是11天",
-      "onboard_time": 1713314719,
-      "rank": 1,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1718111,
       "num": 1718111,
       "word": "本科生县城工作平均月收入5377元",
       "onboard_time": 1713312979,
       "rank": 0,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1360247,
+      "num": 1360247,
+      "word": "女孩退伍224天后收到部队转账",
+      "onboard_time": 1713316399,
+      "rank": 47,
       "category": "社会新闻"
     },
     {
@@ -41,6 +49,14 @@
       "onboard_time": 1713310696,
       "rank": 3,
       "category": "情感"
+    },
+    {
+      "raw_hot": 920635,
+      "num": 920635,
+      "word": "迪卡侬开始抛弃穷鬼了吗",
+      "onboard_time": 1713318257,
+      "rank": 3,
+      "category": "时尚"
     },
     {
       "raw_hot": 843050,
@@ -67,16 +83,16 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 671309,
-      "num": 671309,
-      "word": "女孩退伍224天后收到部队转账",
-      "onboard_time": 1713316399,
-      "rank": 47,
-      "category": "社会新闻"
+      "raw_hot": 741678,
+      "num": 247378,
+      "word": "每天4杯咖啡癌症复发和死亡风险降低32%",
+      "onboard_time": 1713319458,
+      "rank": 20,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 646621,
-      "num": 242634,
+      "num": 242715,
       "word": "中医建议我把水果戒了",
       "onboard_time": 1713314058,
       "rank": 20,
@@ -131,6 +147,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 550749,
+      "num": 550749,
+      "word": "肖战代言安吉尔",
+      "onboard_time": 1713320358,
+      "rank": 5,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 544624,
       "num": 544624,
       "word": "12306 开票即候补",
@@ -145,6 +169,14 @@
       "onboard_time": 1713314240,
       "rank": 6,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 518121,
+      "num": 518121,
+      "word": "薛之谦曾称演唱会互动观众由摄影师选",
+      "onboard_time": 1713317598,
+      "rank": 6,
+      "category": "演出"
     },
     {
       "raw_hot": 514213,
@@ -171,6 +203,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 491579,
+      "num": 491579,
+      "word": "锡安",
+      "onboard_time": 1713320057,
+      "rank": 7,
+      "category": "体育"
+    },
+    {
       "raw_hot": 468719,
       "num": 241976,
       "word": "中医说早上不要破气",
@@ -188,10 +228,18 @@
     },
     {
       "raw_hot": 458106,
-      "num": 400529,
+      "num": 427158,
       "word": "健身房偶遇王俊凯",
       "onboard_time": 1713315258,
       "rank": 16,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 455952,
+      "num": 428834,
+      "word": "白鹿看到粉丝凌晨接机的反应",
+      "onboard_time": 1713318318,
+      "rank": 10,
       "category": "艺人"
     },
     {
@@ -209,6 +257,14 @@
       "onboard_time": 1713268578,
       "rank": 6,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 414439,
+      "num": 414439,
+      "word": "接G2 TheShy",
+      "onboard_time": 1713318737,
+      "rank": 13,
+      "category": "电竞"
     },
     {
       "raw_hot": 404996,
@@ -235,6 +291,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 361027,
+      "num": 241345,
+      "word": "小姑子要把我女儿头发剃光",
+      "onboard_time": 1713317598,
+      "rank": 22,
+      "category": "情感"
+    },
+    {
       "raw_hot": 352240,
       "num": 352240,
       "word": "特斯拉卖一辆车净赚43300元",
@@ -248,6 +312,14 @@
       "word": "中医建议不开心时要多唱歌",
       "onboard_time": 1713314058,
       "rank": 22,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 297451,
+      "num": 297451,
+      "word": "轻断食减肥真的塌房了吗",
+      "onboard_time": 1713319518,
+      "rank": 17,
       "category": "健康医疗"
     },
     {
@@ -379,6 +451,38 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 220980,
+      "num": 220980,
+      "word": "西安交大一附院多名医生涉学术不端被通报",
+      "onboard_time": 1713320119,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 214640,
+      "num": 214640,
+      "word": "反复爱上金秀贤",
+      "onboard_time": 1713319037,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 213953,
+      "num": 213953,
+      "word": "詹姆斯重摔在地",
+      "onboard_time": 1713319578,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 211985,
+      "num": 211985,
+      "word": "湖人vs鹈鹕",
+      "onboard_time": 1713316098,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 211287,
       "num": 211287,
       "word": "上班少看容易离职",
@@ -409,6 +513,22 @@
       "onboard_time": 1713310036,
       "rank": 14,
       "category": "体育"
+    },
+    {
+      "raw_hot": 207225,
+      "num": 207225,
+      "word": "婚礼跟拍图还没修新人已经离婚了",
+      "onboard_time": 1713318918,
+      "rank": 32,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 199718,
+      "num": 199718,
+      "word": "长乐曲全阵容官宣",
+      "onboard_time": 1713320719,
+      "rank": 33,
+      "category": "剧集"
     },
     {
       "raw_hot": 197859,
@@ -491,14 +611,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 170998,
-      "num": 170998,
-      "word": "湖人vs鹈鹕",
-      "onboard_time": 1713316098,
-      "rank": 33,
-      "category": "体育"
-    },
-    {
       "raw_hot": 168112,
       "num": 106429,
       "word": "马丽言论",
@@ -513,6 +625,22 @@
       "onboard_time": 1713279920,
       "rank": 23,
       "category": "情感"
+    },
+    {
+      "raw_hot": 162248,
+      "num": 162248,
+      "word": "五一购票难度堪比春运",
+      "onboard_time": 1713320119,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 160569,
+      "num": 160569,
+      "word": "无法骂小公司的理由",
+      "onboard_time": 1713319937,
+      "rank": 36,
+      "category": "幽默"
     },
     {
       "raw_hot": 154199,
@@ -569,6 +697,14 @@
       "onboard_time": 1713269478,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 144708,
+      "num": 144708,
+      "word": "问界新M5开启预订",
+      "onboard_time": 1713319578,
+      "rank": 42,
+      "category": "汽车"
     },
     {
       "raw_hot": 134274,
@@ -664,6 +800,14 @@
       "word": "美国男篮12人完整名单",
       "onboard_time": 1713317417,
       "rank": 46,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 106614,
+      "num": 153880,
+      "word": "神秘东方力量惊现巴黎夜空",
+      "onboard_time": 1713320478,
+      "rank": 40,
       "category": "体育"
     },
     {
@@ -948,7 +1092,7 @@
     },
     {
       "raw_hot": 29755,
-      "num": 885574,
+      "num": 951213,
       "word": "聚焦2024年消博会",
       "onboard_time": 1713275000,
       "rank": 2,
