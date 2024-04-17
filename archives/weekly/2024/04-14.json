@@ -1,6 +1,6 @@
 {
   "startTime": 1713025251708,
-  "endTime": 1713392191292,
+  "endTime": 1713393256559,
   "band_list": [
     {
       "raw_hot": 3410457,
@@ -8235,6 +8235,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 164239,
+      "num": 107804,
+      "word": "1岁半男童独自过马路遭校车碾压身亡",
+      "onboard_time": 1713374652,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 164163,
       "num": 164163,
       "word": "有大学生是内娱的福气",
@@ -8577,6 +8585,14 @@
       "onboard_time": 1713068238,
       "rank": 47,
       "category": "读书作家"
+    },
+    {
+      "raw_hot": 155932,
+      "num": 155932,
+      "word": "台偶女主现在在拍什么",
+      "onboard_time": 1713385150,
+      "rank": 5,
+      "category": "剧集"
     },
     {
       "raw_hot": 155783,
@@ -9041,6 +9057,14 @@
       "onboard_time": 1713163338,
       "rank": 34,
       "category": "演出"
+    },
+    {
+      "raw_hot": 147671,
+      "num": 147671,
+      "word": "情侣相伴4年一同从专科生逆袭研究生",
+      "onboard_time": 1713388271,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 147267,
@@ -9995,6 +10019,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 127700,
+      "num": 127700,
+      "word": "重庆燃气",
+      "onboard_time": 1713383770,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 127661,
       "num": 459265,
       "word": "王楚钦澳门世界杯现场大图",
@@ -10065,14 +10097,6 @@
       "onboard_time": 1713090738,
       "rank": 46,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 125374,
-      "num": 79734,
-      "word": "1岁半男童独自过马路遭校车碾压身亡",
-      "onboard_time": 1713374652,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 125196,
@@ -10257,14 +10281,6 @@
       "onboard_time": 1713269537,
       "rank": 45,
       "category": "情感"
-    },
-    {
-      "raw_hot": 121674,
-      "num": 121674,
-      "word": "台偶女主现在在拍什么",
-      "onboard_time": 1713385150,
-      "rank": 5,
-      "category": "剧集"
     },
     {
       "raw_hot": 121396,
@@ -10563,14 +10579,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 112175,
-      "num": 112175,
-      "word": "情侣相伴4年一同从专科生逆袭研究生",
-      "onboard_time": 1713388271,
-      "rank": 39,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 111855,
       "num": 111855,
       "word": "种地星球",
@@ -10593,6 +10601,14 @@
       "onboard_time": 1713180678,
       "rank": 44,
       "category": "财经"
+    },
+    {
+      "raw_hot": 110880,
+      "num": 110880,
+      "word": "婴儿独自爬出客厅猫咪警觉守护",
+      "onboard_time": 1713382450,
+      "rank": 25,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 110692,
@@ -10817,14 +10833,6 @@
       "onboard_time": 1713176478,
       "rank": 27,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 99415,
-      "num": 99415,
-      "word": "重庆燃气",
-      "onboard_time": 1713383770,
-      "rank": 37,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 99170,
@@ -11147,19 +11155,19 @@
       "category": "财经"
     },
     {
+      "raw_hot": 71979,
+      "num": 71979,
+      "word": "肖战蓝白look",
+      "onboard_time": 1713385030,
+      "rank": 49,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 71269,
       "num": 71269,
       "word": "悉尼",
       "onboard_time": 1713124570,
       "rank": 8,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 70809,
-      "num": 70809,
-      "word": "婴儿独自爬出客厅猫咪警觉守护",
-      "onboard_time": 1713382450,
-      "rank": 25,
       "category": "社会新闻"
     },
     {
@@ -11201,6 +11209,14 @@
       "onboard_time": 1713265219,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 67547,
+      "num": 67547,
+      "word": "杨紫财阀千金妆",
+      "onboard_time": 1713392772,
+      "rank": 17,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 66771,
@@ -11387,14 +11403,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 50359,
-      "num": 50359,
-      "word": "肖战蓝白look",
-      "onboard_time": 1713385030,
-      "rank": 49,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 50063,
       "num": 50063,
       "word": "猫一杯旗下品牌客服回应",
@@ -11475,6 +11483,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 43515,
+      "num": 43515,
+      "word": "姚志明哭到胡子都长出来了",
+      "onboard_time": 1713387612,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 43333,
       "num": 33495,
       "word": "金秀贤金智媛更新ins",
@@ -11499,12 +11515,28 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 40108,
+      "num": 40108,
+      "word": "这9件小事正在加速身体衰老",
+      "onboard_time": 1713391031,
+      "rank": 38,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 39910,
       "num": 41564,
       "word": "诺米 全开麦",
       "onboard_time": 1713032712,
       "rank": 46,
       "category": "演出"
+    },
+    {
+      "raw_hot": 38663,
+      "num": 38663,
+      "word": "张婧仪用手比10000",
+      "onboard_time": 1713391992,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 37512,
@@ -11561,14 +11593,6 @@
       "onboard_time": 1713167176,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 32645,
-      "num": 32645,
-      "word": "姚志明哭到胡子都长出来了",
-      "onboard_time": 1713387612,
-      "rank": 47,
-      "category": "剧集"
     },
     {
       "raw_hot": 32432,
@@ -11643,6 +11667,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 28599,
+      "num": 28599,
+      "word": "江西浮梁知名茶企老板一家三口遇害",
+      "onboard_time": 1713388510,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 28088,
       "num": 106439,
       "word": "老人乘扶梯仰面摔倒民警飞速冲上去救人",
@@ -11707,28 +11739,12 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 26032,
-      "num": 26032,
-      "word": "江西浮梁知名茶企老板一家三口遇害",
-      "onboard_time": 1713388510,
-      "rank": 42,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 25932,
       "num": 25932,
       "word": "群星闪耀时 谍战剧",
       "onboard_time": 1713204551,
       "rank": 44,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 25218,
-      "num": 25218,
-      "word": "这9件小事正在加速身体衰老",
-      "onboard_time": 1713391031,
-      "rank": 38,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 24445,
@@ -11801,14 +11817,6 @@
       "onboard_time": 1713071179,
       "rank": 37,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 19891,
-      "num": 24276,
-      "word": "张婧仪用手比10000",
-      "onboard_time": 1713391992,
-      "rank": 47,
-      "category": "剧集"
     },
     {
       "raw_hot": 19247,
